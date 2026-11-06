@@ -59,7 +59,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) Schedule 1 (which makes further provision about the ISC) has effect.
 
-#### 2. Main functions of the ISC[^key-d48556b988493a74ae34d5eb46b5c46c]
+#### 2. Main functions of the ISC[^c-d48556b988493a74ae34d5eb46b5c46c]
 
 (1) The ISC may examine or otherwise oversee the expenditure, administration, policy and operations of—
 
@@ -91,7 +91,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) The ISC must publish a memorandum of understanding under this section and lay a copy of it before Parliament.
 
-#### 3. Reports of the ISC[^key-87e0aa5bb08ad59df669304760d3ed43]
+#### 3. Reports of the ISC[^c-87e0aa5bb08ad59df669304760d3ed43]
 
 (1) The ISC must make an annual report to Parliament on the discharge of its functions.
 
@@ -107,7 +107,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) The ISC may make a report to the Prime Minister in relation to matters which would be excluded by virtue of subsection (4) if the report were made to Parliament.
 
-#### 4. Sections 1 to 3 and Schedule 1: interpretation[^key-5c1322f63b59227aca587304325c4021]
+#### 4. Sections 1 to 3 and Schedule 1: interpretation[^c-5c1322f63b59227aca587304325c4021]
 
 In sections 1 to 3 and Schedule 1—
 
@@ -123,15 +123,15 @@ In sections 1 to 3 and Schedule 1—
 
 ### Oversight by the Intelligence Services Commissioner
 
-#### 5. Additional review functions of the Commissioner[^key-7fc043e19768b50a7ae5a06359187e39]
+#### 5. Additional review functions of the Commissioner[^c-7fc043e19768b50a7ae5a06359187e39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part 2 — Disclosure of sensitive material[^key-8190ac13ff7a79ce26054b30b2a1e047][^key-823d8c733544c79a77a7fe262e6fab63]
+## Part 2 — Disclosure of sensitive material[^c-8190ac13ff7a79ce26054b30b2a1e047][^c-823d8c733544c79a77a7fe262e6fab63]
 
 ### Closed material procedure: general
 
-#### 6. Declaration permitting closed material applications in proceedings[^key-491dbbd9338a73f67db327ea6c3c24f2]
+#### 6. Declaration permitting closed material applications in proceedings[^c-491dbbd9338a73f67db327ea6c3c24f2]
 
 (1) The court seised of relevant civil proceedings may make a declaration that the proceedings are proceedings in which a closed material application may be made to the court.
 
@@ -150,7 +150,7 @@ In sections 1 to 3 and Schedule 1—
 - (b) a party to the proceedings would be required to make such a disclosure were it not for one or more of the following—
   - (i) the possibility of a claim for public interest immunity in relation to the material,
   - (ii) the fact that there would be no requirement to disclose if the party chose not to rely on the material,
-  - (iii)[^key-5c054ce3e8f684da68c4e258ecdc769e] section 56(1) of the Investigatory Powers Act 2016 (exclusion for intercept material),
+  - (iii)[^c-5c054ce3e8f684da68c4e258ecdc769e] section 56(1) of the Investigatory Powers Act 2016 (exclusion for intercept material),
   - (iv) any other enactment that would prevent the party from disclosing the material but would not do so if the proceedings were proceedings in relation to which there was a declaration under this section.
 
 (5) The second condition is that it is in the interests of the fair and effective administration of justice in the proceedings to make a declaration.
@@ -182,7 +182,7 @@ In sections 1 to 3 and Schedule 1—
   - (d) the Supreme Court,
 - “**sensitive material**” means material the disclosure of which would be damaging to the interests of national security.
 
-#### 7. Review and revocation of declaration under section 6[^key-b2e71279b787571440dc884d993767e3]
+#### 7. Review and revocation of declaration under section 6[^c-b2e71279b787571440dc884d993767e3]
 
 (1) This section applies where a court seised of relevant civil proceedings has made a declaration under section 6.
 
@@ -209,7 +209,7 @@ In sections 1 to 3 and Schedule 1—
 - (a) the reference in subsection (3) to the completion of the pre-trial disclosure exercise is a reference to the fixing of a hearing to determine the merits of the proceedings, and
 - (b) the reference in subsection (6)(b) to when the pre-trial disclosure exercise is to be considered to have been completed is a reference to what constitutes a hearing to determine the merits of the proceedings.
 
-#### 8. Determination by court of applications in section 6 proceedings[^key-a10a890aa8f67041db3717a9770ae4c6][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 8. Determination by court of applications in section 6 proceedings[^c-a10a890aa8f67041db3717a9770ae4c6][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 (1) Rules of court relating to any relevant civil proceedings in relation to which there is a declaration under section 6 (“section 6 proceedings”) must secure—
 
@@ -234,7 +234,7 @@ In sections 1 to 3 and Schedule 1—
   - (ii) is to make such concessions or take such other steps as the court may specify, or
 - (b) in any other case, to ensure that the relevant person does not rely on the material or (as the case may be) on that which is required to be summarised.
 
-#### 9. Appointment of special advocate[^key-f9f46bf4b80ef08891b0b831fd56d570][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 9. Appointment of special advocate[^c-f9f46bf4b80ef08891b0b831fd56d570][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 (1) The appropriate law officer may appoint a person to represent the interests of a party in any section 6 proceedings from which the party (and any legal representative of the party) is excluded.
 
@@ -254,11 +254,11 @@ In sections 1 to 3 and Schedule 1—
 - (b) in the case of an appointment by the Advocate General for Scotland, the person is an advocate or a solicitor who has rights of audience in the Court of Session or the High Court of Justiciary by virtue of section 25A of the Solicitors (Scotland) Act 1980, and
 - (c) in the case of an appointment by the Advocate General for Northern Ireland, the person is a member of the Bar of Northern Ireland.
 
-#### 10. Saving for normal disclosure rules[^key-a7f3157be7a77364f4691a22c0815d49][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 10. Saving for normal disclosure rules[^c-a7f3157be7a77364f4691a22c0815d49][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 Subject to sections 8, 9 and 11, rules of court relating to section 6 proceedings must secure that the rules of disclosure otherwise applicable to those proceedings continue to apply in relation to the disclosure of material by a relevant person.
 
-#### 11. General provision about section 6 proceedings[^key-f1ee70ba9479d626631b8ab619d99912][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 11. General provision about section 6 proceedings[^c-f1ee70ba9479d626631b8ab619d99912][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 (1) A person making rules of court relating to section 6 proceedings must have regard to the need to secure that disclosures of information are not made where they would be damaging to the interests of national security.
 
@@ -283,7 +283,7 @@ Subject to sections 8, 9 and 11, rules of court relating to section 6 proceeding
 
 (5) In proceedings treated as section 6 proceedings by virtue of subsection (4), a relevant person, for the purposes of sections 8 to 10, this section and sections 12 to 14, is a person who would be required to disclose sensitive material in the course of the proceedings.
 
-#### 12. Reports on use of closed material procedure[^key-4c0aa46e621feba23427a97d344929ba][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 12. Reports on use of closed material procedure[^c-4c0aa46e621feba23427a97d344929ba][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 (1) The Secretary of State must—
 
@@ -315,7 +315,7 @@ Subject to sections 8, 9 and 11, rules of court relating to section 6 proceeding
 - “**closed judgment**” means a judgment that is not made available, or fully available, to the public,
 - “**final judgment**”, in relation to section 6 proceedings, means a final judgment to determine the proceedings.
 
-#### 13. Review of sections 6 to 11[^key-1c2376e3217326f90d7a669a7a9cc327][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 13. Review of sections 6 to 11[^c-1c2376e3217326f90d7a669a7a9cc327][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 (1) The Secretary of State must appoint a person to review the operation of sections 6 to 11 (the “reviewer”).
 
@@ -334,7 +334,7 @@ Subject to sections 8, 9 and 11, rules of court relating to section 6 proceeding
 - (a) expenses incurred by the reviewer in carrying out functions under this section, and
 - (b) such allowances as the Secretary of State determines.
 
-#### 14. Sections 6 to 13: interpretation[^key-10dfd0619dcfeb95e83b77b6eddc6c5f][^key-cef82cfd497e7c9fa07f7e65e469a138]
+#### 14. Sections 6 to 13: interpretation[^c-10dfd0619dcfeb95e83b77b6eddc6c5f][^c-cef82cfd497e7c9fa07f7e65e469a138]
 
 (1) In sections 6 to 13 and this section—
 
@@ -347,7 +347,7 @@ Subject to sections 8, 9 and 11, rules of court relating to section 6 proceeding
 - “**the Human Rights Convention**” means the Convention within the meaning of the Human Rights Act 1998 (see section 21(1) of that Act),
 - “**relevant civil proceedings**” has the meaning given by section 6(11),
 - “**relevant person**” has the meaning given by section 6(8) and includes any person treated as a relevant person by any enactment,
-- “[^key-7242309fb7db89c8674be3081b184615]**Secretary of State**” includes the Chancellor of the Duchy of Lancaster,
+- “[^c-7242309fb7db89c8674be3081b184615]**Secretary of State**” includes the Chancellor of the Duchy of Lancaster,
 - “**section 6 proceedings**” has the meaning given by section 8(1) and includes any proceedings treated as section 6 proceedings by any enactment,
 - “**sensitive material**” has the meaning given by section 6(11),
 - “**special advocate**” has the meaning given by section 9(2),
@@ -362,7 +362,7 @@ and references to a party's legal representative do not include a person appoint
 
 ### Closed material procedure: immigration
 
-#### 15. Certain exclusion, naturalisation and citizenship decisions[^key-0c0152aad19fc479cafc38fa1abd0c02]
+#### 15. Certain exclusion, naturalisation and citizenship decisions[^c-0c0152aad19fc479cafc38fa1abd0c02]
 
 After section 2B of the Special Immigration Appeals Commission Act 1997 (appeals against certain deprivation of citizenship decisions) insert—
 
@@ -409,13 +409,13 @@ After section 2B of the Special Immigration Appeals Commission Act 1997 (appeals
 
 ### Closed material procedure: employment
 
-#### 16. Use of intercept evidence in employment cases involving national security[^key-7132d49f0ce5c4ca1cc3279be13643ed]
+#### 16. Use of intercept evidence in employment cases involving national security[^c-7132d49f0ce5c4ca1cc3279be13643ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### “Norwich Pharmacal” and similar jurisdictions
 
-#### 17. Disclosure proceedings[^key-3c5c9d7db3b0fca322e6c74d3cd789f4]
+#### 17. Disclosure proceedings[^c-3c5c9d7db3b0fca322e6c74d3cd789f4]
 
 (1) This section applies where, by way of civil proceedings, a person (“A”) seeks the disclosure of information by another person (“B”) on the grounds that—
 
@@ -467,7 +467,7 @@ After section 2B of the Special Immigration Appeals Commission Act 1997 (appeals
 - (a) enables the Secretary of State to issue a certificate under subsection (3)(e) where the Secretary of State is B as it enables the Secretary of State to issue such a certificate where another person is B, and
 - (b) does not restrict any other right or privilege that the Secretary of State can claim in order to resist an application for the disclosure of information.
 
-#### 18. Review of certification[^key-b4c9340ac9c1faff46da0911976ce2ab]
+#### 18. Review of certification[^c-b4c9340ac9c1faff46da0911976ce2ab]
 
 (1) Where the Secretary of State has issued a certificate under section 17(3)(e) in relation to proceedings, any party to the proceedings may apply to the relevant court to set aside the decision on the ground in subsection (2).
 
@@ -492,7 +492,7 @@ After section 2B of the Special Immigration Appeals Commission Act 1997 (appeals
 
 ### 19. Consequential and transitional etc. provision[^c2179729]
 
-(1)[^key-f247b27fffe4b0274d9add802d40413e] Schedules 2 and 3 (which make consequential and transitional provision) have effect.
+(1)[^c-f247b27fffe4b0274d9add802d40413e] Schedules 2 and 3 (which make consequential and transitional provision) have effect.
 
 (2) The Secretary of State may by order made by statutory instrument make such transitional, transitory or saving provision as the Secretary of State considers appropriate in connection with the coming into force of any provision of this Act.
 
@@ -539,7 +539,7 @@ Section 1(7)
 
 ### Tenure of office
 
-**1.**[^key-3dd1860bd732557acb19cbac3d303813] (1) Subject as follows, a person appointed as a member of the ISC during a Parliament holds office for the duration of that Parliament.
+**1.**[^c-3dd1860bd732557acb19cbac3d303813] (1) Subject as follows, a person appointed as a member of the ISC during a Parliament holds office for the duration of that Parliament.
 
 (2) A member of the ISC vacates office if—
 
@@ -562,7 +562,7 @@ Section 1(7)
 
 ### Procedure
 
-**2.**[^key-c82219b0953e741fea8aa63f62927daa] (1) The ISC may determine its own procedure; but this is subject to sub-paragraphs (2) to (5).
+**2.**[^c-c82219b0953e741fea8aa63f62927daa] (1) The ISC may determine its own procedure; but this is subject to sub-paragraphs (2) to (5).
 
 (2) If on any matter there is an equality of voting among the members of the ISC, the Chair of the ISC has a second or casting vote.
 
@@ -576,7 +576,7 @@ Section 1(7)
 
 ### Funding and other resources
 
-**3.**[^key-59d9d70a79b59e17fc70e90e3fa0b655] A Minister of the Crown—
+**3.**[^c-59d9d70a79b59e17fc70e90e3fa0b655] A Minister of the Crown—
 
 - (a) may make payments to either House of Parliament in respect of any expenditure incurred, or to be incurred, by either House in relation to the ISC,
 - (b) may provide staff, accommodation or other resources to either House of Parliament for the purposes of the ISC,
@@ -585,7 +585,7 @@ Section 1(7)
 
 ### Access to information
 
-**4.**[^key-4800ab0bc5530780c8cde579d95c76df] (1) This paragraph applies to information requested by the ISC in the exercise of its functions that—
+**4.**[^c-4800ab0bc5530780c8cde579d95c76df] (1) This paragraph applies to information requested by the ISC in the exercise of its functions that—
 
 - (a) does not relate to any particular operational matter, or
 - (b) relates to a particular operational matter that the ISC is considering under section 2(3)(a) or (b).
@@ -618,7 +618,7 @@ Section 1(7)
 
 ### Sensitive information
 
-**5.**[^key-e6bb85d9ed9352fbe9db129a17d6b9cd] The following information is sensitive information for the purposes of paragraph 4(4)(a)—
+**5.**[^c-e6bb85d9ed9352fbe9db129a17d6b9cd] The following information is sensitive information for the purposes of paragraph 4(4)(a)—
 
 - (a) information which might lead to the identification of, or provide details of, sources of information, other assistance or operational methods available to—
   - (i) the Security Service,
@@ -630,7 +630,7 @@ Section 1(7)
 
 ### Publication of information received in private
 
-**6.**[^key-2c7cbbadfd83c279fc53a343e6f4cb06] (1) This paragraph applies to information received by the ISC in private in connection with the exercise of its functions.
+**6.**[^c-2c7cbbadfd83c279fc53a343e6f4cb06] (1) This paragraph applies to information received by the ISC in private in connection with the exercise of its functions.
 
 (2) The ISC—
 
@@ -647,7 +647,7 @@ Section 1(7)
 
 ### Protection for witnesses
 
-**7.**[^key-1072529c9e2aec7ce80e5bfcbb7085d7] (1) Evidence given by a person who is a witness before the ISC may not be used in any civil or disciplinary proceedings, unless the evidence was given in bad faith.
+**7.**[^c-1072529c9e2aec7ce80e5bfcbb7085d7] (1) Evidence given by a person who is a witness before the ISC may not be used in any civil or disciplinary proceedings, unless the evidence was given in bad faith.
 
 (2) Evidence given by a person who is a witness before the ISC may not be used against the person in any criminal proceedings, unless the evidence was given in bad faith.
 
@@ -659,7 +659,7 @@ Section 19(1)
 
 #### Intelligence Services Act 1994 (c. 13)
 
-**1.**[^key-f2e8b9114165bf6f745e19099ca401e0] The following provisions of the Intelligence Services Act 1994 are repealed—
+**1.**[^c-f2e8b9114165bf6f745e19099ca401e0] The following provisions of the Intelligence Services Act 1994 are repealed—
 
 - (a) section 10 (the Intelligence and Security Committee),
 - (b) section 11(1)(c) (the definition of “Minister of the Crown”), and
@@ -667,25 +667,25 @@ Section 19(1)
 
 #### Data Protection Act 1998 (c. 29)
 
-**2.**[^key-dfafd785088933a06fb3c457b61dceb9] In section 63A of the Data Protection Act 1998 (application to Parliament)—
+**2.**[^c-dfafd785088933a06fb3c457b61dceb9] In section 63A of the Data Protection Act 1998 (application to Parliament)—
 
 - (a) in subsection (2), after “Commons,” insert “ other than where they are determined by or on behalf of the Intelligence and Security Committee of Parliament, ”, and
 - (b) in subsection (3), after “Lords,” insert “ other than where they are determined by or on behalf of the Intelligence and Security Committee of Parliament, ”.
 
 #### Northern Ireland Act 1998 (c. 47)
 
-**3.**[^key-df4e90a901c4bb36f79d78cc91156445] In section 69B(1)(a) of the Northern Ireland Act 1998 (disregarding notice of the Northern Ireland Human Rights Commission where it requires the disclosure of sensitive information)—
+**3.**[^c-df4e90a901c4bb36f79d78cc91156445] In section 69B(1)(a) of the Northern Ireland Act 1998 (disregarding notice of the Northern Ireland Human Rights Commission where it requires the disclosure of sensitive information)—
 
 - (a) for “paragraph 4 of Schedule 3 to the Intelligence Services Act 1994 (c. 13)” substitute “ paragraph 5 of Schedule 1 to the Justice and Security Act 2013 ”, and
 - (b) after “Committee” insert “ of Parliament ”.
 
 #### Regulation of Investigatory Powers Act 2000 (c. 23)
 
-**4.**[^key-5033eca88ff5f868d5d03cc6a588241e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5033eca88ff5f868d5d03cc6a588241e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Freedom of Information Act 2000 (c. 36)
 
-**5.**[^key-b1beaa0fb8f08029e690eaad15cde8f9] (1) The Freedom of Information Act 2000 is amended as follows.
+**5.**[^c-b1beaa0fb8f08029e690eaad15cde8f9] (1) The Freedom of Information Act 2000 is amended as follows.
 
 (2) In section 23 (information supplied by, or relating to, bodies dealing with security matters), in subsection (3), at the end insert—
 
@@ -706,7 +706,7 @@ Section 19(1)
 
 *Extent: E+W+S*
 
-**6.**[^key-f02a11353d830b4461c3758fc683d238] In paragraph 14(1)(a) of Schedule 2 to the Equality Act 2006 (disregarding notice of the Commission for Equality and Human Rights where it requires the disclosure of sensitive information)—
+**6.**[^c-f02a11353d830b4461c3758fc683d238] In paragraph 14(1)(a) of Schedule 2 to the Equality Act 2006 (disregarding notice of the Commission for Equality and Human Rights where it requires the disclosure of sensitive information)—
 
 - (a) for “paragraph 4 of Schedule 3 to the Intelligence Services Act 1994 (c. 13)” substitute “ paragraph 5 of Schedule 1 to the Justice and Security Act 2013 ”, and
 - (b) after “Committee” insert “ of Parliament ”.
@@ -715,7 +715,7 @@ Section 19(1)
 
 #### Judicature (Northern Ireland) Act 1978 (c. 23)
 
-**7.**[^key-31c8ecb5a534e1b078e223b6bdaa3ec3] (1) Section 62 of the Judicature (Northern Ireland) Act 1978 (trial with and without jury) is amended as follows.
+**7.**[^c-31c8ecb5a534e1b078e223b6bdaa3ec3] (1) Section 62 of the Judicature (Northern Ireland) Act 1978 (trial with and without jury) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -743,7 +743,7 @@ Section 19(1)
 
 *Extent: E+W*
 
-**8.**[^key-1abca2393461a8af73f3352d89cb7e4f] (1) Section 69 of the Senior Courts Act 1981 (trial by jury) is amended as follows.
+**8.**[^c-1abca2393461a8af73f3352d89cb7e4f] (1) Section 69 of the Senior Courts Act 1981 (trial by jury) is amended as follows.
 
 (2) In subsection (1), at the end, insert “ or unless the court is of opinion that the trial will involve section 6 proceedings ”.
 
@@ -764,7 +764,7 @@ Section 19(1)
 
 #### Special Immigration Appeals Commission Act 1997 (c. 68)
 
-**9.**[^key-20b2d3c79d83bc3465280ea0a5461470] (1) The Special Immigration Appeals Commission Act 1997 is amended as follows.
+**9.**[^c-20b2d3c79d83bc3465280ea0a5461470] (1) The Special Immigration Appeals Commission Act 1997 is amended as follows.
 
 (2) After section 6 (appointment of person to represent appellant's interests) insert—
 
@@ -785,19 +785,19 @@ Section 19(1)
 
 *Extent: N.I.*
 
-**10.**[^key-9663682da898f8a3209920b2a848efd7] In Article 54A of the Race Relations (Northern Ireland) Order 1997 (claims under Article 20A in immigration cases), at the end, insert—
+**10.**[^c-9663682da898f8a3209920b2a848efd7] In Article 54A of the Race Relations (Northern Ireland) Order 1997 (claims under Article 20A in immigration cases), at the end, insert—
 
 > (6) This Article applies in relation to reviews under section 2D of the 1997 Act as it applies in relation to appeals under that Act.
 
 #### Regulation of Investigatory Powers Act 2000 (c. 23)
 
-**11.**[^key-bda04f350c23ff16b94083910f93046d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bda04f350c23ff16b94083910f93046d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Equality Act 2010 (c. 15)
 
 *Extent: E+W+S*
 
-**12.**[^key-d1651b7be21a5fc0391104a9febe903b] In section 115 of the Equality Act 2010 (immigration cases), at the end, insert—
+**12.**[^c-d1651b7be21a5fc0391104a9febe903b] In section 115 of the Equality Act 2010 (immigration cases), at the end, insert—
 
 > (8) This section applies in relation to reviews under section 2D of the Special Immigration Appeals Commission Act 1997 as it applies in relation to appeals under the immigration provisions.
 
@@ -807,7 +807,7 @@ Section 19(1)
 
 ### Part 1 — Oversight of intelligence and security activities
 
-**1.**[^key-f0aa23a8c32af46c4b18d030c1513f8a] (1) The persons who, immediately before the coming into force of section 1(1), were members of the previous Intelligence and Security Committee become, on the coming into force of section 1(1), members of the new Intelligence and Security Committee.
+**1.**[^c-f0aa23a8c32af46c4b18d030c1513f8a] (1) The persons who, immediately before the coming into force of section 1(1), were members of the previous Intelligence and Security Committee become, on the coming into force of section 1(1), members of the new Intelligence and Security Committee.
 
 (2) The person who, immediately before the coming into force of section 1(1), was the Chairman of the previous Intelligence and Security Committee becomes, on the coming into force of section 1(1), the Chair of the new Intelligence and Security Committee.
 
@@ -820,9 +820,9 @@ Section 19(1)
 
 ### Part 2 — Closed material procedure
 
-**2.**[^key-d7229fab4b4444105a616fd1e0e0d030] Sections 6 to 14, and paragraphs 7, 8 and 11 of Schedule 2 (other than paragraph 11(3)(b)(i) and (ii)), apply in relation to proceedings begun, but not finally determined, before the coming into force of section 6 (in addition to proceedings begun on or after the coming into force of that section).
+**2.**[^c-d7229fab4b4444105a616fd1e0e0d030] Sections 6 to 14, and paragraphs 7, 8 and 11 of Schedule 2 (other than paragraph 11(3)(b)(i) and (ii)), apply in relation to proceedings begun, but not finally determined, before the coming into force of section 6 (in addition to proceedings begun on or after the coming into force of that section).
 
-**3.**[^key-d9b90401620f948d1476e56465d1e05a] (1) The first time after the passing of this Act that rules of court are made in exercise of the powers conferred by sections 6 to 14 in relation to proceedings in England and Wales or in Northern Ireland before a court of a particular description, the rules (together with any related rules of court) may be made by the Lord Chancellor instead of by the person who would otherwise make them.
+**3.**[^c-d9b90401620f948d1476e56465d1e05a] (1) The first time after the passing of this Act that rules of court are made in exercise of the powers conferred by sections 6 to 14 in relation to proceedings in England and Wales or in Northern Ireland before a court of a particular description, the rules (together with any related rules of court) may be made by the Lord Chancellor instead of by the person who would otherwise make them.
 
 (2) Sub-paragraph (1) does not apply to rules of court in relation to proceedings before the Supreme Court.
 
@@ -873,102 +873,102 @@ Section 19(1)
 
 ### Part 3 — “Norwich Pharmacal” and similar jurisdictions
 
-**5.**[^key-52020d57a6a21d2eaf244033cd9a210a] Sections 17 and 18 apply in relation to proceedings begun, but not finally determined, before the coming into force of section 17 (in addition to proceedings begun on or after the coming into force of that section).
+**5.**[^c-52020d57a6a21d2eaf244033cd9a210a] Sections 17 and 18 apply in relation to proceedings begun, but not finally determined, before the coming into force of section 17 (in addition to proceedings begun on or after the coming into force of that section).
 
 ## Annotations
 
 [^M_I_4e4a293d-70ce-49b1-d655-cc1c7fe6d541]: Commencement: S. 1 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-d48556b988493a74ae34d5eb46b5c46c]: Commencement: S. 2 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-d48556b988493a74ae34d5eb46b5c46c]: Commencement: S. 2 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-87e0aa5bb08ad59df669304760d3ed43]: Commencement: S. 3 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-87e0aa5bb08ad59df669304760d3ed43]: Commencement: S. 3 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-5c1322f63b59227aca587304325c4021]: Commencement: S. 4 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-5c1322f63b59227aca587304325c4021]: Commencement: S. 4 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-7fc043e19768b50a7ae5a06359187e39]: Textual amendment: S. 5 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-7fc043e19768b50a7ae5a06359187e39]: Textual amendment: S. 5 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-8190ac13ff7a79ce26054b30b2a1e047]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2013/18/part/2) applied (with modifications) (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 66](https://www.legislation.gov.uk/ukpga/2023/54/section/66), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-8190ac13ff7a79ce26054b30b2a1e047]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2013/18/part/2) applied (with modifications) (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 66](https://www.legislation.gov.uk/ukpga/2023/54/section/66), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-823d8c733544c79a77a7fe262e6fab63]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2013/18/part/2) applied (with modifications) (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 107](https://www.legislation.gov.uk/ukpga/2023/54/section/107), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-823d8c733544c79a77a7fe262e6fab63]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2013/18/part/2) applied (with modifications) (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 107](https://www.legislation.gov.uk/ukpga/2023/54/section/107), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by S.I. 2024/959, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-491dbbd9338a73f67db327ea6c3c24f2]: Commencement: S. 6 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-491dbbd9338a73f67db327ea6c3c24f2]: Commencement: S. 6 in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-5c054ce3e8f684da68c4e258ecdc769e]: Textual amendment: [S. 6(4)(b)(iii)](https://www.legislation.gov.uk/ukpga/2013/18/section/6/4/b/iii) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 52](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/52) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-5c054ce3e8f684da68c4e258ecdc769e]: Textual amendment: [S. 6(4)(b)(iii)](https://www.legislation.gov.uk/ukpga/2013/18/section/6/4/b/iii) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 52](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/52) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-b2e71279b787571440dc884d993767e3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/18/section/7) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-b2e71279b787571440dc884d993767e3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/18/section/7) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-a10a890aa8f67041db3717a9770ae4c6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/18/section/8) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-a10a890aa8f67041db3717a9770ae4c6]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/18/section/8) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-cef82cfd497e7c9fa07f7e65e469a138]: Modification: [Ss. 8-14](https://www.legislation.gov.uk/ukpga/2013/18/section/8) applied (with modifications) (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/12) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-cef82cfd497e7c9fa07f7e65e469a138]: Modification: [Ss. 8-14](https://www.legislation.gov.uk/ukpga/2013/18/section/8) applied (with modifications) (1.5.2024) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2023/41/schedule/6/paragraph/12) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-f9f46bf4b80ef08891b0b831fd56d570]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/18/section/9) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-f9f46bf4b80ef08891b0b831fd56d570]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/18/section/9) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-a7f3157be7a77364f4691a22c0815d49]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/18/section/10) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-a7f3157be7a77364f4691a22c0815d49]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/18/section/10) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-f1ee70ba9479d626631b8ab619d99912]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/18/section/11) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-f1ee70ba9479d626631b8ab619d99912]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/18/section/11) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-4c0aa46e621feba23427a97d344929ba]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/18/section/12) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-4c0aa46e621feba23427a97d344929ba]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/18/section/12) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-1c2376e3217326f90d7a669a7a9cc327]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/18/section/13) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-1c2376e3217326f90d7a669a7a9cc327]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/18/section/13) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-10dfd0619dcfeb95e83b77b6eddc6c5f]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/18/section/14) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-10dfd0619dcfeb95e83b77b6eddc6c5f]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/18/section/14) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-7242309fb7db89c8674be3081b184615]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/14/1) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/17) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-7242309fb7db89c8674be3081b184615]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/14/1) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/17) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-0c0152aad19fc479cafc38fa1abd0c02]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/18/section/15) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-0c0152aad19fc479cafc38fa1abd0c02]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/18/section/15) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-7132d49f0ce5c4ca1cc3279be13643ed]: Textual amendment: S. 16 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-7132d49f0ce5c4ca1cc3279be13643ed]: Textual amendment: S. 16 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-3c5c9d7db3b0fca322e6c74d3cd789f4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/18/section/17) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-3c5c9d7db3b0fca322e6c74d3cd789f4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2013/18/section/17) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-b4c9340ac9c1faff46da0911976ce2ab]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/18/section/18) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-b4c9340ac9c1faff46da0911976ce2ab]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/18/section/18) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
 [^c2179729]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/18/section/19) partly in force; [s. 19(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/19/1) in force for specified purposes and s. 19(2) in force at Royal Assent, see [s. 20(1)(c)(2)(a)(c)](https://www.legislation.gov.uk/ukpga/2013/18/section/20/1/c/2/a/c)
 
-[^key-f247b27fffe4b0274d9add802d40413e]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/19/1) in force in so far as not already in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-f247b27fffe4b0274d9add802d40413e]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2013/18/section/19/1) in force in so far as not already in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-3dd1860bd732557acb19cbac3d303813]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-3dd1860bd732557acb19cbac3d303813]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-c82219b0953e741fea8aa63f62927daa]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-c82219b0953e741fea8aa63f62927daa]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-59d9d70a79b59e17fc70e90e3fa0b655]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-59d9d70a79b59e17fc70e90e3fa0b655]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-4800ab0bc5530780c8cde579d95c76df]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-4800ab0bc5530780c8cde579d95c76df]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/4) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-e6bb85d9ed9352fbe9db129a17d6b9cd]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-e6bb85d9ed9352fbe9db129a17d6b9cd]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-2c7cbbadfd83c279fc53a343e6f4cb06]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-2c7cbbadfd83c279fc53a343e6f4cb06]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-1072529c9e2aec7ce80e5bfcbb7085d7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-1072529c9e2aec7ce80e5bfcbb7085d7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/18/schedule/1/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-f2e8b9114165bf6f745e19099ca401e0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-f2e8b9114165bf6f745e19099ca401e0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-dfafd785088933a06fb3c457b61dceb9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-dfafd785088933a06fb3c457b61dceb9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-df4e90a901c4bb36f79d78cc91156445]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-df4e90a901c4bb36f79d78cc91156445]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-5033eca88ff5f868d5d03cc6a588241e]: Textual amendment: Sch. 2 para. 4 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-5033eca88ff5f868d5d03cc6a588241e]: Textual amendment: Sch. 2 para. 4 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-b1beaa0fb8f08029e690eaad15cde8f9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-b1beaa0fb8f08029e690eaad15cde8f9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-f02a11353d830b4461c3758fc683d238]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-f02a11353d830b4461c3758fc683d238]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/6) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-31c8ecb5a534e1b078e223b6bdaa3ec3]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-31c8ecb5a534e1b078e223b6bdaa3ec3]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/7) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-1abca2393461a8af73f3352d89cb7e4f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/8) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-1abca2393461a8af73f3352d89cb7e4f]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/8) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-20b2d3c79d83bc3465280ea0a5461470]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/9) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-20b2d3c79d83bc3465280ea0a5461470]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/9) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-9663682da898f8a3209920b2a848efd7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/10) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-9663682da898f8a3209920b2a848efd7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/10) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-bda04f350c23ff16b94083910f93046d]: Textual amendment: Sch. 2 para. 11 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-bda04f350c23ff16b94083910f93046d]: Textual amendment: Sch. 2 para. 11 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-d1651b7be21a5fc0391104a9febe903b]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/12) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-d1651b7be21a5fc0391104a9febe903b]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2013/18/schedule/2/paragraph/12) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-f0aa23a8c32af46c4b18d030c1513f8a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-f0aa23a8c32af46c4b18d030c1513f8a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/1) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-d7229fab4b4444105a616fd1e0e0d030]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-d7229fab4b4444105a616fd1e0e0d030]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/2) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-d9b90401620f948d1476e56465d1e05a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-d9b90401620f948d1476e56465d1e05a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/3) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
 
-[^key-52020d57a6a21d2eaf244033cd9a210a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))
+[^c-52020d57a6a21d2eaf244033cd9a210a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/18/schedule/3/paragraph/5) in force at 25.6.2013 by [S.I. 2013/1482](https://www.legislation.gov.uk/uksi/2013/1482), [art. 2](https://www.legislation.gov.uk/uksi/2013/1482/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1482/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1482/article/4))

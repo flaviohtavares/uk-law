@@ -46,39 +46,39 @@ In accordance with section 56(3)(q) of that Act, the Secretary of State has cons
 
 A draft of these Regulations was laid before Parliament in accordance with section 61(3) of that Act and approved by resolution of each House of Parliament:
 
-## 1. Citation and commencement[^key-f94364c8b5a8e794218974c420ba0bb1]
+## 1. Citation and commencement[^c-f94364c8b5a8e794218974c420ba0bb1]
 
 These Regulations may be cited as the Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Miscellaneous Provisions) Regulations 2010 and come into force on the day after the day on which they are made.
 
-## 2. Circumstances in which a responsible person must not permit another to engage in a controlled activity in England relating to children[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 2. Circumstances in which a responsible person must not permit another to engage in a controlled activity in England relating to children[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Circumstances in which a responsible person must not permit another to engage in controlled activity in England relating to vulnerable adults[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 3. Circumstances in which a responsible person must not permit another to engage in controlled activity in England relating to vulnerable adults[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of section 113A of the Police Act 1997[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 4. Modification of section 113A of the Police Act 1997[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification of section 113B of the Police Act 1997: assessment of suitability for work which is a controlled activity relating to children[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 5. Modification of section 113B of the Police Act 1997: assessment of suitability for work which is a controlled activity relating to children[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Modification of section 113B of the Police Act 1997: assessment of suitability for work which is a controlled activity relating to vulnerable adults[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 6. Modification of section 113B of the Police Act 1997: assessment of suitability for work which is a controlled activity relating to vulnerable adults[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Modification of section 113B of the Police Act 1997: assessment of suitability for work which is a controlled activity relating to children and for work which is a controlled activity relating to vulnerable adults[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 7. Modification of section 113B of the Police Act 1997: assessment of suitability for work which is a controlled activity relating to children and for work which is a controlled activity relating to vulnerable adults[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Further modification of section 113B of the Police Act 1997[^key-67f22c6717ca56abe2ef39d945c8d550]
+## 8. Further modification of section 113B of the Police Act 1997[^c-67f22c6717ca56abe2ef39d945c8d550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^key-dde0f8fede49e892e2ab0407e0e74ea7]
+## 9. Amendment of the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^c-dde0f8fede49e892e2ab0407e0e74ea7]
 
 (1) The Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria and Miscellaneous Provisions) Regulations 2009[^f00015] are amended as follows.
 
@@ -168,11 +168,11 @@ An assessment of the impact of these Regulations is set out at section 10 of the
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Each of paragraphs 1(1), 2(1), 7(1) and 8(1) of Schedule 3 to the Safeguarding Vulnerable Groups Act 2006 (“the Act”) refers to criteria prescribed for the purposes of the relevant paragraph. Paragraph 24 of Schedule 3 to the Act makes provision as to the criteria that may be prescribed for the purposes of paragraphs 1(1), 2(1), 7(1) and 8(1) of that Schedule. Paragraph 24(2) was amended by [S.I. 2008/3050](https://www.legislation.gov.uk/uksi/2008/3050). Section 60(1) of the Act defines “prescribed” as meaning prescribed by regulations made by the Secretary of State.
 
-[^key-f94364c8b5a8e794218974c420ba0bb1]: Commencement: Reg. 1 in force at 31.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1)
+[^c-f94364c8b5a8e794218974c420ba0bb1]: Commencement: Reg. 1 in force at 31.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1)
 
-[^key-67f22c6717ca56abe2ef39d945c8d550]: Textual amendment: Regs. 2-8 revoked (3.9.2012) by [The Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Prescribed Criteria) Regulations 2012 (S.I. 2012/2160)](https://www.legislation.gov.uk/uksi/2012/2160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2160/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/2160/regulation/2)
+[^c-67f22c6717ca56abe2ef39d945c8d550]: Textual amendment: Regs. 2-8 revoked (3.9.2012) by [The Safeguarding Vulnerable Groups Act 2006 (Controlled Activity and Prescribed Criteria) Regulations 2012 (S.I. 2012/2160)](https://www.legislation.gov.uk/uksi/2012/2160), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2160/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/2160/regulation/2)
 
-[^key-dde0f8fede49e892e2ab0407e0e74ea7]: Commencement: Reg. 9 in force at 31.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1)
+[^c-dde0f8fede49e892e2ab0407e0e74ea7]: Commencement: Reg. 9 in force at 31.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1146/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2009/37](https://www.legislation.gov.uk/uksi/2009/37) as amended by [S.I. 2009/2610](https://www.legislation.gov.uk/uksi/2009/2610).
 

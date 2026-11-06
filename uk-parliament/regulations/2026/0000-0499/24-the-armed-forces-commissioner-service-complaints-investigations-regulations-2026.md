@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 340H(4), (8) and (11), 340I(2) and (5), 340L(5) and (7) and 373(5) of the Armed Forces Act 2006[^f00001].
 
-## 1. Citation, commencement and extent[^key-5e897d0a4938196ddf1fa1e5f2bcbd71]
+## 1. Citation, commencement and extent[^c-5e897d0a4938196ddf1fa1e5f2bcbd71]
 
 (1) These Regulations may be cited as the Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-bd9a84a6dc96c45f5e89a64651d50978]
+## 2. Interpretation[^c-bd9a84a6dc96c45f5e89a64651d50978]
 
 (1) In these Regulations—
 
@@ -83,7 +83,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (5) In any provision of these Regulations which applies to an investigation or requested investigation within section 340H(1)(d), a reference to “**the complainant**” includes a reference to the person who raised the relevant service matter to which the investigation or requested investigation relates.
 
-## 3. Provision of information in application to the Commissioner[^key-3177b33388dbb88964904b1c83b67f4b][^key-7e4b9cfdeaaf5a2de74223f8bca3ddde]
+## 3. Provision of information in application to the Commissioner[^c-3177b33388dbb88964904b1c83b67f4b][^c-7e4b9cfdeaaf5a2de74223f8bca3ddde]
 
 (1) This regulation applies if a complainant makes an application to the Commissioner under section 340H.
 
@@ -113,7 +113,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (8) The application shall be deemed to have been made on the day on which the application was posted or sent electronically to the Commissioner.
 
-## 4. Time limits: applications to the Commissioner[^key-4052948f7f929c0abb86752c65ef2573][^key-eea40b5cd87288d123e55245cc1f626d]
+## 4. Time limits: applications to the Commissioner[^c-4052948f7f929c0abb86752c65ef2573][^c-eea40b5cd87288d123e55245cc1f626d]
 
 (1) Subject to paragraph (3), an application to the Commissioner which asks for an investigation within section 340H(1)(a) or (b) may not be made after a period of six weeks beginning with the relevant date.
 
@@ -139,7 +139,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) In this regulation, the reference to the day on which the complainant received notification shall be deemed to be a reference to the second day after the day on which the notification was posted or sent electronically to the complainant.
 
-## 5. Action following application or decision to investigate under section 340H(7)[^key-2c0c8597b46b6d0ee05f4ff57ca66bc5]
+## 5. Action following application or decision to investigate under section 340H(7)[^c-2c0c8597b46b6d0ee05f4ff57ca66bc5]
 
 (1) In response to an application under section 340H(1), the Commissioner must decide under section 340I(1) whether to begin an investigation, and then notify the complainant and the Defence Council of their decision, giving reasons for the decision.
 
@@ -149,7 +149,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (4) If the Commissioner decides to investigate any maladministration which becomes apparent to the Commissioner in accordance with section 340H(7), they must notify the complainant and the Defence Council of that decision, giving reasons for the decision.
 
-## 6. Notice of wish to withdraw application[^key-7bc68f62402f3728929939f09a1a0561]
+## 6. Notice of wish to withdraw application[^c-7bc68f62402f3728929939f09a1a0561]
 
 (1) The complainant may notify the Commissioner in writing that they wish to withdraw their application at any time before the completion by the Commissioner of the investigation in relation to that application.
 
@@ -160,7 +160,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) The Commissioner must notify the complainant and the Defence Council of their decision under paragraph (2)(b), giving reasons for the decision.
 
-## 7. Requirements for information, documents and evidence[^key-596c5e7dc2a284543e85dfa8b6a706d4]
+## 7. Requirements for information, documents and evidence[^c-596c5e7dc2a284543e85dfa8b6a706d4]
 
 Where under section 340J the Commissioner requires a person to provide a document or other information for the purposes of an investigation, the Commissioner may—
 
@@ -168,7 +168,7 @@ Where under section 340J the Commissioner requires a person to provide a documen
 - (b) specify the form or manner in which the document or the information must be provided;
 - (c) if the document or information is not provided within the period referred to in paragraph (a), or is not provided in accordance with paragraph (b), nonetheless complete the investigation and the preparation of a report under section 340L(1).
 
-## 8. Investigation procedure[^key-75b0c159613c723c792e77c9479b9edd]
+## 8. Investigation procedure[^c-75b0c159613c723c792e77c9479b9edd]
 
 (1) The Commissioner must give—
 
@@ -198,7 +198,7 @@ an opportunity to comment on any relevant matter.
 - (a) any allegation contained in the application by the complainant under section 340H(1); and
 - (b) any possible maladministration which the Commissioner investigates under section 340H(7).
 
-## 9. Reports of investigation: preparation and confidentiality[^key-e7ab8d7336d70c85a520323b141c9eac]
+## 9. Reports of investigation: preparation and confidentiality[^c-e7ab8d7336d70c85a520323b141c9eac]
 
 (1) The Commissioner may send a copy of a draft of their report under section 340L(1) on an investigation to the complainant and any person within regulation 8(1)(a) to (d).
 
@@ -220,7 +220,7 @@ an opportunity to comment on any relevant matter.
 - (a) against the interests of national security; or
 - (b) might jeopardise the safety of any person.
 
-## 10. Subsequent applications to the Commissioner[^key-70b5c020073e51c0cecad39a8f3c6f77]
+## 10. Subsequent applications to the Commissioner[^c-70b5c020073e51c0cecad39a8f3c6f77]
 
 (1) The Commissioner may investigate under section 340H(1)(a) or (b) a subsequent application relating to a service complaint where, and to the extent that, they are satisfied that the subsequent application relates to a reconsideration of the complaint under section 340M(2).
 
@@ -230,7 +230,7 @@ an opportunity to comment on any relevant matter.
 
 (4) In this regulation, the reference to the day on which the complainant received notification shall be deemed to be a reference to the second day after the day on which the notification was posted or sent electronically to the complainant.
 
-## 11. Savings and transitional provisions[^key-10b384406d63b34f7abb10fb1d6958e6]
+## 11. Savings and transitional provisions[^c-10b384406d63b34f7abb10fb1d6958e6]
 
 (1) Any act, omission or other thing done or which, at the commencement date, is in the process of being done by or in relation to the Ombudsman in respect of, or in connection with, the exercise of its functions under the 2015 Ombudsman Regulations, is to be treated as an act, omission or thing done or in the process of being done, and may be continued, by or in relation to the Commissioner.
 
@@ -244,7 +244,7 @@ an opportunity to comment on any relevant matter.
 
 (6) Where a period specified in regulation 4(1) or 10(2) of the 2015 Ombudsman Regulations has expired before the commencement date, an application may be made after the commencement date under section 340H(1)(a) or (b), or regulation 10(1) of these Regulations, if the Commissioner considers that it is just and equitable to do so.
 
-## 12. Amendment of the Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015[^key-23827207ad152c695a6b5a29ca246d51]
+## 12. Amendment of the Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015[^c-23827207ad152c695a6b5a29ca246d51]
 
 (1) The Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015[^f00005] are amended as follows.
 
@@ -252,7 +252,7 @@ an opportunity to comment on any relevant matter.
 
 (3) In regulation 13(4), for “the Armed Forces (Service Complaints Ombudsman Investigations) Regulations 2015 (time limits for making an application to the Ombudsman)” substitute “the Armed Forces Commissioner (Service Complaints) Regulations 2026 (time limits for making an application to the Commissioner)”.
 
-## 13. Revocation of the 2015 Ombudsman Regulations and the Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022[^key-1d74a89e9fcec4d070c090aa9e24d3cd]
+## 13. Revocation of the 2015 Ombudsman Regulations and the Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022[^c-1d74a89e9fcec4d070c090aa9e24d3cd]
 
 The 2015 Ombudsman Regulations and the Armed Forces (Service Complaints Ombudsman Investigations) (Amendment) Regulations 2022[^f00006] are revoked.
 
@@ -300,42 +300,42 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Sections 340H, 340I and 340L were inserted by section 2(1) of the Armed Forces (Service Complaints and Financial Assistance) Act [2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19). Section 340H(9) provides for the minimum period of time which must be specified in regulations made under section 340H(8). The Armed Forces Commissioner Act [2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23) established the Armed Forces Commissioner, abolished the Service Complaints Ombudsman and transferred their functions to the Commissioner.
 
-[^key-5e897d0a4938196ddf1fa1e5f2bcbd71]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/24/regulation/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-5e897d0a4938196ddf1fa1e5f2bcbd71]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/24/regulation/1) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-bd9a84a6dc96c45f5e89a64651d50978]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/24/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-bd9a84a6dc96c45f5e89a64651d50978]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/24/regulation/2) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/1956](https://www.legislation.gov.uk/uksi/2015/1956), amended by [S.I. 2022/496](https://www.legislation.gov.uk/uksi/2022/496).
 
 [^f00003]: Footnote: [S.I. 2015/1955](https://www.legislation.gov.uk/uksi/2015/1955), amended by [S.I. 2022/494](https://www.legislation.gov.uk/uksi/2022/494).
 
-[^key-3177b33388dbb88964904b1c83b67f4b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/24/regulation/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-3177b33388dbb88964904b1c83b67f4b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/24/regulation/3) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-7e4b9cfdeaaf5a2de74223f8bca3ddde]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/24/regulation/3) modified (1.4.2026) by [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969), [reg. 5(10)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/5/10) (as amended by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11)))
+[^c-7e4b9cfdeaaf5a2de74223f8bca3ddde]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2026/24/regulation/3) modified (1.4.2026) by [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969), [reg. 5(10)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/5/10) (as amended by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11)))
 
-[^key-4052948f7f929c0abb86752c65ef2573]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/24/regulation/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-4052948f7f929c0abb86752c65ef2573]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/24/regulation/4) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-eea40b5cd87288d123e55245cc1f626d]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/24/regulation/4) excluded (1.4.2026) by [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969), [reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/13/4) (as amended by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11)))
+[^c-eea40b5cd87288d123e55245cc1f626d]: Modification: [Reg. 4](https://www.legislation.gov.uk/uksi/2026/24/regulation/4) excluded (1.4.2026) by [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969), [reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/13/4) (as amended by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11)))
 
-[^key-2c0c8597b46b6d0ee05f4ff57ca66bc5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/24/regulation/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-2c0c8597b46b6d0ee05f4ff57ca66bc5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2026/24/regulation/5) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-7bc68f62402f3728929939f09a1a0561]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/24/regulation/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-7bc68f62402f3728929939f09a1a0561]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2026/24/regulation/6) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-596c5e7dc2a284543e85dfa8b6a706d4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/24/regulation/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-596c5e7dc2a284543e85dfa8b6a706d4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2026/24/regulation/7) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-75b0c159613c723c792e77c9479b9edd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/24/regulation/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-75b0c159613c723c792e77c9479b9edd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2026/24/regulation/8) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-e7ab8d7336d70c85a520323b141c9eac]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2026/24/regulation/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-e7ab8d7336d70c85a520323b141c9eac]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2026/24/regulation/9) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
 [^f00004]: Footnote: Section 340L(5) requires the Commissioner to send the report also to the complainant and the Defence Council.
 
-[^key-70b5c020073e51c0cecad39a8f3c6f77]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/24/regulation/10) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-70b5c020073e51c0cecad39a8f3c6f77]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2026/24/regulation/10) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-10b384406d63b34f7abb10fb1d6958e6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-10b384406d63b34f7abb10fb1d6958e6]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
-[^key-23827207ad152c695a6b5a29ca246d51]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2026/24/regulation/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-23827207ad152c695a6b5a29ca246d51]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2026/24/regulation/12) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969).
 
-[^key-1d74a89e9fcec4d070c090aa9e24d3cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/24/regulation/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
+[^c-1d74a89e9fcec4d070c090aa9e24d3cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2026/24/regulation/13) in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2022/496](https://www.legislation.gov.uk/uksi/2022/496).

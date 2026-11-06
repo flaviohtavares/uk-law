@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Patients' correspondence[^key-93577a9e7a389ee5bb266b377b7f3fbe]
+## 44. Patients' correspondence[^c-93577a9e7a389ee5bb266b377b7f3fbe]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93577a9e7a389ee5bb266b377b7f3fbe]: Commencement: S. 44 in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-93577a9e7a389ee5bb266b377b7f3fbe]: Commencement: S. 44 in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

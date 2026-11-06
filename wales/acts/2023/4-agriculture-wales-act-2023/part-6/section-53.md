@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Power to amend sections 51 and 52[^key-7a7733830bc5169c5fe848fd9b90c3f2]
+## 53. Power to amend sections 51 and 52[^c-7a7733830bc5169c5fe848fd9b90c3f2]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a7733830bc5169c5fe848fd9b90c3f2]: Commencement: S. 53 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)
+[^c-7a7733830bc5169c5fe848fd9b90c3f2]: Commencement: S. 53 in force at 18.8.2023, see [s. 56(1)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/b)

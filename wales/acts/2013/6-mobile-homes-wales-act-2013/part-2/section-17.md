@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Compliance notices[^key-c12bb2ad8a117a195d10ac5b6e016615]
+## 17. Compliance notices[^c-c12bb2ad8a117a195d10ac5b6e016615]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12bb2ad8a117a195d10ac5b6e016615]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2013/6/section/17) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-c12bb2ad8a117a195d10ac5b6e016615]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2013/6/section/17) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

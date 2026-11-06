@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2020 (revoked)[^key-cf7537406744b050bd5f944dca13c022]
+The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2020 (revoked)[^c-cf7537406744b050bd5f944dca13c022]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 6th October 2020
 
-[^key-cf7537406744b050bd5f944dca13c022]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf7537406744b050bd5f944dca13c022]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cf7537406744b050bd5f944dca13c022]
+## 1. Citation and commencement[^c-cf7537406744b050bd5f944dca13c022]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^key-cf7537406744b050bd5f944dca13c022]
+## 2. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^c-cf7537406744b050bd5f944dca13c022]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2019[^key-cf7537406744b050bd5f944dca13c022]
+## 3. Revocation of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2019[^c-cf7537406744b050bd5f944dca13c022]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf7537406744b050bd5f944dca13c022]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf7537406744b050bd5f944dca13c022]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-cf7537406744b050bd5f944dca13c022]EXPLANATORY NOTE
+[^c-cf7537406744b050bd5f944dca13c022]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -82,4 +82,4 @@ Regulation 3 revokes the National Health Service (Free Prescriptions and Charges
 
 ## Annotations
 
-[^key-cf7537406744b050bd5f944dca13c022]: Textual amendment: Regulations revoked (19.11.2021) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/335)](https://www.legislation.gov.uk/ssi/2021/335), [regs. 1](https://www.legislation.gov.uk/ssi/2021/335/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/335/regulation/3)
+[^c-cf7537406744b050bd5f944dca13c022]: Textual amendment: Regulations revoked (19.11.2021) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/335)](https://www.legislation.gov.uk/ssi/2021/335), [regs. 1](https://www.legislation.gov.uk/ssi/2021/335/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/335/regulation/3)

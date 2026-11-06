@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Meaning of “working day” in Parts 3 and 4 of EA 2002[^key-aefdcbe78dd9e89d88e9a5cb4f64dd36][^key-6b3fc1d4a5fca85e011c56d014206af3]
+## 146. Meaning of “working day” in Parts 3 and 4 of EA 2002[^c-aefdcbe78dd9e89d88e9a5cb4f64dd36][^c-6b3fc1d4a5fca85e011c56d014206af3]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aefdcbe78dd9e89d88e9a5cb4f64dd36]: Commencement: S. 146 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-aefdcbe78dd9e89d88e9a5cb4f64dd36]: Commencement: S. 146 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6b3fc1d4a5fca85e011c56d014206af3]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2024/13/section/146) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 18](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/18), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-6b3fc1d4a5fca85e011c56d014206af3]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2024/13/section/146) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 18](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/18), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

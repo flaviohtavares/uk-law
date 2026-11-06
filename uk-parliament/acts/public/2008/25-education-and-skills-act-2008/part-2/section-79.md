@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Existing functions of Secretary of State[^key-231b56fd9b56537a72e3c19b172a1a24][^key-a9842bc9d4914b7ecbd65408e377f455]
+## 79. Existing functions of Secretary of State[^c-231b56fd9b56537a72e3c19b172a1a24][^c-a9842bc9d4914b7ecbd65408e377f455]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Sections 114 to 121 of the Learning and Skills Act 2000 (provision of support se
 
 ## Annotations
 
-[^key-231b56fd9b56537a72e3c19b172a1a24]: Commencement: S. 79 in force at 26.1.2009 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/b)
+[^c-231b56fd9b56537a72e3c19b172a1a24]: Commencement: S. 79 in force at 26.1.2009 for specified purposes by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(b)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/b)
 
-[^key-a9842bc9d4914b7ecbd65408e377f455]: Commencement: S. 79 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3316](https://www.legislation.gov.uk/uksi/2009/3316), [art. 2](https://www.legislation.gov.uk/uksi/2009/3316/article/2)
+[^c-a9842bc9d4914b7ecbd65408e377f455]: Commencement: S. 79 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3316](https://www.legislation.gov.uk/uksi/2009/3316), [art. 2](https://www.legislation.gov.uk/uksi/2009/3316/article/2)

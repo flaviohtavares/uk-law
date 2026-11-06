@@ -24,7 +24,7 @@ Section 17
 
 ### Part 1 — Establishment of the family court
 
-**1.**[^key-e2c9d028760d7033014f722eb0cc5eca] In the Matrimonial and Family Proceedings Act 1984 after section 31A (which is inserted by section 17 of this Act) insert—
+**1.**[^c-e2c9d028760d7033014f722eb0cc5eca] In the Matrimonial and Family Proceedings Act 1984 after section 31A (which is inserted by section 17 of this Act) insert—
 
 > **31B. Sittings**
 >
@@ -387,7 +387,7 @@ Section 17
 
 #### Debtors Act 1869 (c. 62)
 
-**2.**[^key-b3082b9f9bd97007ba4c272181ac8d56] (1) In proviso (1) to section 5 of the Debtors Act 1869—
+**2.**[^c-b3082b9f9bd97007ba4c272181ac8d56] (1) In proviso (1) to section 5 of the Debtors Act 1869—
 
 - (a) for the words from “any court other than” to “is to say,” substitute “ the county court— ”, and
 - (b) omit paragraph (c).
@@ -402,9 +402,9 @@ Section 17
 
 #### Maintenance Orders Act 1958 (c. 39)
 
-**3.**[^key-c99291544cdcbe88152631f3867c60b1] The Maintenance Orders Act 1958 is amended as follows, but sections 2(1) to (5), 2A and 5(2) to (4) of that Act as applied by section 36(3) of the Civil Jurisdiction and Judgments Act 1982 (re-registration in different Northern Ireland court of orders made in England and Wales or Scotland and registered in a Northern Ireland court) have effect without the amendments made in them by this Schedule.
+**3.**[^c-c99291544cdcbe88152631f3867c60b1] The Maintenance Orders Act 1958 is amended as follows, but sections 2(1) to (5), 2A and 5(2) to (4) of that Act as applied by section 36(3) of the Civil Jurisdiction and Judgments Act 1982 (re-registration in different Northern Ireland court of orders made in England and Wales or Scotland and registered in a Northern Ireland court) have effect without the amendments made in them by this Schedule.
 
-**4.**[^key-aa306a7ecd73b47755def1608727787f] (1) Section 1 (application of Part 1) is amended as follows.
+**4.**[^c-aa306a7ecd73b47755def1608727787f] (1) Section 1 (application of Part 1) is amended as follows.
 
 (2) In subsection (1) (purpose of Part 1) for the words from “to be registered” to the end substitute “ to be registered in the family court and, subject to those provisions, while so registered to be enforced in like manner as an order made by the family court and to be varied by that court. ”
 
@@ -423,7 +423,7 @@ Section 17
 
 (6) Omit subsections (4) to (6) (registration in magistrates' courts).
 
-**5.**[^key-bc72ed68def512a6d51ea0b3a441bd8d] (1) Section 2 (registration of orders) is amended as follows.
+**5.**[^c-bc72ed68def512a6d51ea0b3a441bd8d] (1) Section 2 (registration of orders) is amended as follows.
 
 (2) In subsection (1) for “or county court order may apply for registration of the order to the original court, and the court” substitute “ order may apply to the High Court for registration of the order in the family court, and the High Court ”.
 
@@ -455,15 +455,15 @@ Section 17
 
 (9) In subsection (6A) omit the definition of “magistrates' court order” and the “and” preceding the definition.
 
-**6.**[^key-8d2675c88b07075e3f8d77b5147251da] In section 2A (interest on registered orders)—
+**6.**[^c-8d2675c88b07075e3f8d77b5147251da] In section 2A (interest on registered orders)—
 
 - (a) omit subsections (1) to (4) (magistrates' court orders),
 - (b) in subsection (5) (registered orders do not carry interest) omit “Except as provided by this section”, and
 - (c) for the title substitute “ No interest on sums recoverable under registered orders ”.
 
-**7.**[^key-2dfdd0708dc5bca0cd2e0d46b674c1a4] In section 3 (enforcement of registered orders) omit subsections (2) to (2B) and (3A) (orders registered in magistrates' courts).
+**7.**[^c-2dfdd0708dc5bca0cd2e0d46b674c1a4] In section 3 (enforcement of registered orders) omit subsections (2) to (2B) and (3A) (orders registered in magistrates' courts).
 
-**8.**[^key-ce0119ee3f1434b48840486aa7f03a0d] (1) Section 4 (variation etc of orders registered in a magistrates' court) is amended as follows.
+**8.**[^c-ce0119ee3f1434b48840486aa7f03a0d] (1) Section 4 (variation etc of orders registered in a magistrates' court) is amended as follows.
 
 (2) In subsection (1) (orders in relation to which section 4 applies) for “orders registered in magistrates' courts” substitute “ High Court orders registered in the family court ”.
 
@@ -494,7 +494,7 @@ Section 17
 
 (9) In subsection (6B) (no application to be made to a magistrates' court for variation of certain orders) for “any court” substitute “ the family court ”.
 
-**9.**[^key-2a9d53e57168580104ebb0c9a65b7d82] (1) Section 4A (variation etc of orders registered in High Court) is amended as follows.
+**9.**[^c-2a9d53e57168580104ebb0c9a65b7d82] (1) Section 4A (variation etc of orders registered in High Court) is amended as follows.
 
 (2) Omit subsection (1) (orders to which section applies).
 
@@ -502,7 +502,7 @@ Section 17
 
 (4) In subsection (2) omit paragraph (a) (including the “and” at the end).
 
-**10.**[^key-a46971bdee4e67685d01a6b749802456] (1) Section 5 (cancellation of registration) is amended as follows.
+**10.**[^c-a46971bdee4e67685d01a6b749802456] (1) Section 5 (cancellation of registration) is amended as follows.
 
 (2) In subsection (2) for “a magistrates' court” substitute “ the family court ”.
 
@@ -527,9 +527,9 @@ Section 17
 - (a) for “subsections (5) and (6)” substitute “ subsection (5) ”, and
 - (b) omit “and “magistrates' court order””.
 
-**11.**[^key-50afcca936252b88ddc69878239f84ff] Section 18 (powers of magistrates to review committals etc) is repealed.
+**11.**[^c-50afcca936252b88ddc69878239f84ff] Section 18 (powers of magistrates to review committals etc) is repealed.
 
-**12.**[^key-d72844d5a145360a443ac35886c1efe5] (1) Section 20 (registration, variation and arrears) is amended as follows.
+**12.**[^c-d72844d5a145360a443ac35886c1efe5] (1) Section 20 (registration, variation and arrears) is amended as follows.
 
 (2) Omit subsections (1) and (2) (magistrates' courts: applications for registration, revocation or variation of maintenance orders).
 
@@ -540,11 +540,11 @@ Section 17
 
 (4) For the title substitute “ Repeat applications to enforce payment of maintenance arrears ”.
 
-**13.**[^key-b3f3563c76918a38d8c6319394e3dba8] In section 21(1) omit the definition of “magistrates' court”.
+**13.**[^c-b3f3563c76918a38d8c6319394e3dba8] In section 21(1) omit the definition of “magistrates' court”.
 
 #### Public Records Act 1958 (c. 51)
 
-**14.**[^key-e0431c6a8835c2427566cfc5e438f8e9] In paragraph 4(1) of Schedule 1 to the Public Records Act 1958 (records which are public records) after paragraph (a) insert—
+**14.**[^c-e0431c6a8835c2427566cfc5e438f8e9] In paragraph 4(1) of Schedule 1 to the Public Records Act 1958 (records which are public records) after paragraph (a) insert—
 
 > - (aa) records of the family court;
 
@@ -552,7 +552,7 @@ Section 17
 
 #### Administration of Justice Act 1960 (c. 65)
 
-**15.**[^key-d9f3f3c01333e7e3d91b0068e484f701] (1) Section 13 of the Administration of Justice Act 1970 (appeals in cases of contempt of court) is amended as follows.
+**15.**[^c-d9f3f3c01333e7e3d91b0068e484f701] (1) Section 13 of the Administration of Justice Act 1970 (appeals in cases of contempt of court) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -562,15 +562,15 @@ Section 17
 
 #### Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (c. 63)
 
-**16.**[^key-c3b6282baad32a1b1f1c90e57e92df0e] In section 1(4) of the Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (courts to which section applies) after “the Crown Court” insert “ , the family court ”.
+**16.**[^c-c3b6282baad32a1b1f1c90e57e92df0e] In section 1(4) of the Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (courts to which section applies) after “the Crown Court” insert “ , the family court ”.
 
 #### Civil Evidence Act 1968 (c. 64)
 
-**17.**[^key-bf17ec850b078f1615ab608602a06fe2] In section 12(5) of the Civil Evidence Act 1968 in the definition of “matrimonial proceedings” for “a county” substitute “ family ”.
+**17.**[^c-bf17ec850b078f1615ab608602a06fe2] In section 12(5) of the Civil Evidence Act 1968 in the definition of “matrimonial proceedings” for “a county” substitute “ family ”.
 
 #### Administration of Justice Act 1970 (c. 31)
 
-**18.**[^key-bc68abbc218f3706f87be583d420c4c1] (1) In section 11 of the Administration of Justice Act 1970 (restriction on powers of committal under section 5 of the Debtors Act 1869)—
+**18.**[^c-bc68abbc218f3706f87be583d420c4c1] (1) In section 11 of the Administration of Justice Act 1970 (restriction on powers of committal under section 5 of the Debtors Act 1869)—
 
 - (a) omit the “and” at the end of paragraph (a),
 - (b) in paragraph (b) for the words from “in respect” to “judgment” substitute “ in respect of a judgment ”, and
@@ -587,13 +587,13 @@ Section 17
 
 #### Courts Act 1971 (c. 23)
 
-**19.**[^key-c8bcb6777aad736bb420fc95cbc3e383] Omit section 52(3A) of the Courts Act 1971 (subsection (3) does not apply to family proceedings in a magistrates' court).
+**19.**[^c-c8bcb6777aad736bb420fc95cbc3e383] Omit section 52(3A) of the Courts Act 1971 (subsection (3) does not apply to family proceedings in a magistrates' court).
 
 #### Attachment of Earnings Act 1971 (c. 32)
 
-**20.**[^key-4fc1b3ca7588141c57edc1a434e52a17] The Attachment of Earnings Act 1971 is amended as follows.
+**20.**[^c-4fc1b3ca7588141c57edc1a434e52a17] The Attachment of Earnings Act 1971 is amended as follows.
 
-**21.**[^key-a0934e18ab2a61a2976c2356f19830e8] (1) Section 1 (courts with power to attach earnings) is amended as follows.
+**21.**[^c-a0934e18ab2a61a2976c2356f19830e8] (1) Section 1 (courts with power to attach earnings) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -603,12 +603,12 @@ Section 17
 
 (4) In subsection (3) (magistrates' courts) omit paragraph (a) (maintenance orders).
 
-**22.**[^key-34d1f9907c6e209ccc712441e6a8809f] In section 2(b) (meaning of “High Court maintenance order” etc)—
+**22.**[^c-34d1f9907c6e209ccc712441e6a8809f] In section 2(b) (meaning of “High Court maintenance order” etc)—
 
 - (a) for “, “county court maintenance order” and “magistrates' court” substitute “and “family court”, and
 - (b) for “, a county court and a magistrates' court;” substitute “and the family court;”.
 
-**23.**[^key-a9b567fd502ca6e15697883abd4db206] (1) Section 3 (application for order and conditions of court's power to make it) is amended as follows.
+**23.**[^c-a9b567fd502ca6e15697883abd4db206] (1) Section 3 (application for order and conditions of court's power to make it) is amended as follows.
 
 (2) In subsection (1)(a) (payee may apply) after “through” insert “ any court or ”.
 
@@ -625,7 +625,7 @@ Section 17
 - (a) omit paragraph (b) and the “or” preceding it, and
 - (b) in the words after paragraph (b), omit the words after “1869”.
 
-**24.**[^key-4483416c6dcab964a193bef149e629c5] In section 6(7) (meaning of “collecting officer”)—
+**24.**[^c-4483416c6dcab964a193bef149e629c5] In section 6(7) (meaning of “collecting officer”)—
 
 - (a) in paragraph (a)(ii) after “of” insert “ the family court or ”, and
 - (b) after paragraph (a) insert—
@@ -634,22 +634,22 @@ Section 17
 
   .
 
-**25.**[^key-da66f722d6cf04a72509a109fb17ab3a] In section 8(3) (order ceases to have effect when warrant issued) omit the words after “related maintenance order”.
+**25.**[^c-da66f722d6cf04a72509a109fb17ab3a] In section 8(3) (order ceases to have effect when warrant issued) omit the words after “related maintenance order”.
 
-**26.**[^key-3c2ce5f33da738101cd444d4e8c4c578] In section 10 (reduction of normal deduction rate)—
+**26.**[^c-3c2ce5f33da738101cd444d4e8c4c578] In section 10 (reduction of normal deduction rate)—
 
 - (a) in subsection (2) for “a county” substitute “ the family ”, and
 - (b) omit subsection (3) (magistrates' courts).
 
-**27.**[^key-0d4019a6bb682db4dba48f44985a9dbc] In section 11(1)(a) (registered maintenance orders) for the words after “provides” substitute “ for the registration in the family court of a High Court maintenance order); ”.
+**27.**[^c-0d4019a6bb682db4dba48f44985a9dbc] In section 11(1)(a) (registered maintenance orders) for the words after “provides” substitute “ for the registration in the family court of a High Court maintenance order); ”.
 
-**28.**[^key-7ea0682b388a9176de371d15fb96fcb2] In section 15D (interpretation of sections 15A to 15C) after subsection (2) insert—
+**28.**[^c-7ea0682b388a9176de371d15fb96fcb2] In section 15D (interpretation of sections 15A to 15C) after subsection (2) insert—
 
 > (2A) If the lapsed order was made by the family court, the proper authority is the family court.
 
-**29.**[^key-01121bb940f979c6b89191e614bbd6c2] In section 16(2)(d) (power of collecting officer) for “magistrates' court” substitute “ family court ”.
+**29.**[^c-01121bb940f979c6b89191e614bbd6c2] In section 16(2)(d) (power of collecting officer) for “magistrates' court” substitute “ family court ”.
 
-**30.**[^key-380fea79b25fbd3238510d4e85f91e0f] (1) Section 18 (collecting officers of magistrates' courts) is amended as follows.
+**30.**[^c-380fea79b25fbd3238510d4e85f91e0f] (1) Section 18 (collecting officers of magistrates' courts) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -660,7 +660,7 @@ Section 17
 
 (4) Omit subsection (3).
 
-**31.**[^key-a36146bf476544efea53ace54b0a48b2] (1) Section 20 (persons residing outside England and Wales) is amended as follows.
+**31.**[^c-a36146bf476544efea53ace54b0a48b2] (1) Section 20 (persons residing outside England and Wales) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -671,26 +671,26 @@ Section 17
 
 (4) In subsection (4) for “complainant” substitute “ applicant ”.
 
-**32.**[^key-d73901309739bf80395272c6d4b1ed38] In section 21 (costs on application under section 16)—
+**32.**[^c-d73901309739bf80395272c6d4b1ed38] In section 21 (costs on application under section 16)—
 
 - (a) in subsection (1) omit “(but subject to section 18(2)(b) of this Act)”, and
 - (b) in subsection (2) for the words from “deemed—” to “otherwise,” substitute “ deemed ”.
 
-**33.**[^key-25cd18a8e2378b92dfecb91dfaef03f5] In section 23 (enforcement) after subsection (10) insert—
+**33.**[^c-25cd18a8e2378b92dfecb91dfaef03f5] In section 23 (enforcement) after subsection (10) insert—
 
 > (10A) This section applies in relation to the family court as it applies in relation to the county court, but as if the reference in subsection (8) to section 129 of the County Courts Act 1984 were a reference to section 31L(1) of the Matrimonial and Family Proceedings Act 1984.
 
 #### Matrimonial Causes Act 1973 (c. 18)
 
-**34.**[^key-b68c82d42928c48dcc4b9776a9942283] In section 48(2) (nullity proceedings to be in private unless judge otherwise directs) for “judge” substitute “ court ”.
+**34.**[^c-b68c82d42928c48dcc4b9776a9942283] In section 48(2) (nullity proceedings to be in private unless judge otherwise directs) for “judge” substitute “ court ”.
 
 #### Litigants in Person (Costs and Expenses) Act 1975 (c. 47)
 
-**35.**[^key-c9838232032712b418f1b02fa333d483] In paragraph (a) of the second sentence in section 1(1) of the Litigants in Person (Costs and Expenses) Act 1975 before “in the Senior” insert “ in the family court, ”.
+**35.**[^c-c9838232032712b418f1b02fa333d483] In paragraph (a) of the second sentence in section 1(1) of the Litigants in Person (Costs and Expenses) Act 1975 before “in the Senior” insert “ in the family court, ”.
 
 #### Inheritance (Provision for Family and Dependants) Act 1975 (c. 63)
 
-**36.**[^key-8831743ce912ae80c0030c943f69472e] (1) The Inheritance (Provision for Family and Dependants) Act 1975 is amended as follows.
+**36.**[^c-8831743ce912ae80c0030c943f69472e] (1) The Inheritance (Provision for Family and Dependants) Act 1975 is amended as follows.
 
 (2) In section 15(1) (restriction imposed in divorce proceedings etc on application under the 1975 Act: meaning of “the court”) for the words from “, where a county court has jurisdiction” to the end substitute “ the family court ”.
 
@@ -702,13 +702,13 @@ Section 17
 
 #### Torts (Interference with Goods) Act 1977 (c. 32)
 
-**37.**[^key-0b6ced0c5f5998e0f6e7d81733b766ad] In section 4 of the Torts (Interference with Goods) Act 1977 (interlocutory relief where goods are detained) after subsection (5) insert—
+**37.**[^c-0b6ced0c5f5998e0f6e7d81733b766ad] In section 4 of the Torts (Interference with Goods) Act 1977 (interlocutory relief where goods are detained) after subsection (5) insert—
 
 > (6) Subsections (1) to (4) apply in relation to the family court in England and Wales as they apply in relation to the High Court in England and Wales, but as if references in those subsections to rules of court (including references to rules of court under any particular enactment) were references to Family Procedure Rules.
 
 #### Charging Orders Act 1979 (c. 53)
 
-**38.**[^key-74f4bbbd2055b11d7259128e2d62d048] (1) The Charging Orders Act 1979 is amended as follows.
+**38.**[^c-74f4bbbd2055b11d7259128e2d62d048] (1) The Charging Orders Act 1979 is amended as follows.
 
 (2) In sections 1(1) and (6), 3(4A)(a) and 6(2) (charging orders in respect of orders of certain courts) after “High Court”, in each place, insert “ or the family court ”.
 
@@ -724,11 +724,11 @@ Section 17
 
 #### Magistrates' Courts Act 1980 (c. 43)
 
-**39.**[^key-34e3e420c0c053ee00a768d5d9da718d] The Magistrates' Courts Act 1980 is amended as follows.
+**39.**[^c-34e3e420c0c053ee00a768d5d9da718d] The Magistrates' Courts Act 1980 is amended as follows.
 
-**40.**[^key-c9dcd53d7ceee78d2112265d4937c1ad] In section 58(2) (sums recoverable summarily as a civil debt) omit paragraph (a) (including the “or” at the end).
+**40.**[^c-c9dcd53d7ceee78d2112265d4937c1ad] In section 58(2) (sums recoverable summarily as a civil debt) omit paragraph (a) (including the “or” at the end).
 
-**41.**[^key-ef387edec147e6b0aa419f417b9becd9] (1) Section 59 (orders for periodical payment: means of payment) is amended as follows.
+**41.**[^c-ef387edec147e6b0aa419f417b9becd9] (1) Section 59 (orders for periodical payment: means of payment) is amended as follows.
 
 (2) In subsection (1) (duty to exercise powers under subsection (3))—
 
@@ -739,7 +739,7 @@ Section 17
 
 (4) In subsection (3) omit paragraphs (c) to (d).
 
-**42.**[^key-d0b6a13ae5a821189b542294fcf52608] (1) Section 59A (orders for periodical payment: proceedings by designated officer) is amended as follows.
+**42.**[^c-d0b6a13ae5a821189b542294fcf52608] (1) Section 59A (orders for periodical payment: proceedings by designated officer) is amended as follows.
 
 (2) In subsections (1) and (2) for “a relevant UK order” substitute “an order made by a magistrates' court”.
 
@@ -751,16 +751,16 @@ Section 17
 - (b) omit the definition of “relevant UK order”, and
 - (c) omit the words after that definition.
 
-**43.**[^key-d2c9a9991b9ba7779782d5a47272bffa] Omit section 59B (power of magistrates' court to impose penalty for breach of certain maintenance orders).
+**43.**[^c-d2c9a9991b9ba7779782d5a47272bffa] Omit section 59B (power of magistrates' court to impose penalty for breach of certain maintenance orders).
 
-**44.**[^key-bade8271745c062d00c6801d6f75e46c] In section 60 (variation etc of orders for periodical payments)—
+**44.**[^c-bade8271745c062d00c6801d6f75e46c] In section 60 (variation etc of orders for periodical payments)—
 
 - (a) omit subsections (3) to (10B) (which relate to maintenance orders), and
 - (b) in subsection (11) (interpretation) omit paragraph (b) and the “and” preceding it.
 
-**45.**[^key-1e63d7f77b66b0b1c9e96df0aac3bbf6] In section 61(2) in the definition of “periodical payments order” omit the words from “, or registered” to “1958,”.
+**45.**[^c-1e63d7f77b66b0b1c9e96df0aac3bbf6] In section 61(2) in the definition of “periodical payments order” omit the words from “, or registered” to “1958,”.
 
-**46.**[^key-a8b40c5bd538928757a0350f01f580d6] (1) Section 62 (payments required to be made to a child) is amended as follows.
+**46.**[^c-a8b40c5bd538928757a0350f01f580d6] (1) Section 62 (payments required to be made to a child) is amended as follows.
 
 (2) In subsection (1) omit paragraph (b) and the “or” preceding it.
 
@@ -768,21 +768,21 @@ Section 17
 
 (4) Omit subsection (6) (meaning of “registered”).
 
-**47.**[^key-25d9b8c4273440b75287b62d6ae70a60] In section 64 (costs)—
+**47.**[^c-25d9b8c4273440b75287b62d6ae70a60] In section 64 (costs)—
 
 - (a) omit subsections (1A), (4) and (4A),
 - (b) in subsection (2) omit “or (4A)”, and
 - (c) in subsection (3) omit “Subject to subsection (4) below,”.
 
-**48.**[^key-f5b137805a4eabdc9f9fd512d904eba2] Omit sections 65 to 67, 68A, 69, 70, 71, 73, 74 and 75(2A) to (2C) (family proceedings in magistrates' courts).
+**48.**[^c-f5b137805a4eabdc9f9fd512d904eba2] Omit sections 65 to 67, 68A, 69, 70, 71, 73, 74 and 75(2A) to (2C) (family proceedings in magistrates' courts).
 
-**49.**[^key-2134e05162899b532ea098d689c8f3df] Omit—
+**49.**[^c-2134e05162899b532ea098d689c8f3df] Omit—
 
 - (a) sections 76(4) to (6), 92(1)(a) and 93 to 95 (enforcement of maintenance orders),
 - (b) in section 80(1) the words “or has ordered the enforcement of a sum due from a person under a magistrates' court maintenance order”, and
 - (c) in section 100 (evidence) paragraph (b) and the “or” preceding it.
 
-**50.**[^key-b5fb475baee4eddca3b4d9d720d157b7] (1) Section 111A (appeals on ground of error of law etc in family proceedings in a magistrates' court) is amended as follows.
+**50.**[^c-b5fb475baee4eddca3b4d9d720d157b7] (1) Section 111A (appeals on ground of error of law etc in family proceedings in a magistrates' court) is amended as follows.
 
 (2) In subsection (1) for “family proceedings” substitute “ proceedings under the Child Support Act 1991 ”.
 
@@ -794,15 +794,15 @@ Section 17
 
 (6) In the title for “family” substitute “ child support ”.
 
-**51.**[^key-c307a0e70dcddc3770dc0afa7adbbd68] In section 112(2) (decisions on appeals under section 111A) for “a county” substitute “ the family ” in both places.
+**51.**[^c-c307a0e70dcddc3770dc0afa7adbbd68] In section 112(2) (decisions on appeals under section 111A) for “a county” substitute “ the family ” in both places.
 
-**52.**[^key-00f9d3690150364120c3fbd1be99a93e] In section 144 (procedure rules for civil proceedings in magistrates' courts and before justices' clerks) after subsection (1) insert—
+**52.**[^c-00f9d3690150364120c3fbd1be99a93e] In section 144 (procedure rules for civil proceedings in magistrates' courts and before justices' clerks) after subsection (1) insert—
 
 > (1ZA) Subsection (1) does not apply in relation to functions of justices' clerks given under section 31O(1)(a), or specified in section 31O(2), of the Matrimonial and Family Proceedings Act 1984 (functions in the family court).
 
 #### Contempt of Court Act 1981 (c. 49)
 
-**53.**[^key-090cc61f0d8c07607ca8ec8658639076] In section 14 of the Contempt of Court Act 1981 (penalties for contempt of court) but not in that section in its application to Northern Ireland (which in its application to Northern Ireland has effect as set out in Schedule 4 to that Act) before subsection (5) insert—
+**53.**[^c-090cc61f0d8c07607ca8ec8658639076] In section 14 of the Contempt of Court Act 1981 (penalties for contempt of court) but not in that section in its application to Northern Ireland (which in its application to Northern Ireland has effect as set out in Schedule 4 to that Act) before subsection (5) insert—
 
 > (4B) The preceding provisions of this section do not apply to the family court, but—
 >
@@ -811,30 +811,30 @@ Section 17
 
 #### Senior Courts Act 1981 (c. 54)
 
-**54.**[^key-aab93110826e1f46427c1da3992e75b7] The Senior Courts Act 1981 is amended as follows.
+**54.**[^c-aab93110826e1f46427c1da3992e75b7] The Senior Courts Act 1981 is amended as follows.
 
-**55.**[^key-495e8d6df651d86e2fe74037bb4f11dc] In section 33 (powers of High Court exercisable before commencement of action) after subsection (2) insert—
+**55.**[^c-495e8d6df651d86e2fe74037bb4f11dc] In section 33 (powers of High Court exercisable before commencement of action) after subsection (2) insert—
 
 > (3) This section applies in relation to the family court as it applies in relation to the High Court.
 
-**56.**[^key-fc59b5a93f08f348061087a1fc4385a2] In section 34 (powers of High Court to order disclosure or inspection of documents or property of non-party) after subsection (4) insert—
+**56.**[^c-fc59b5a93f08f348061087a1fc4385a2] In section 34 (powers of High Court to order disclosure or inspection of documents or property of non-party) after subsection (4) insert—
 
 > (5) Subsections (2) and (3) apply in relation to the family court as they apply in relation to the High Court.
 
-**57.**[^key-f4e9dbb22e1d8f2ca94c9021337cfea1] In section 35(1) (limits on High Court's power to make orders under sections 33 and 34) for “The High Court” substitute “ A court ”.
+**57.**[^c-f4e9dbb22e1d8f2ca94c9021337cfea1] In section 35(1) (limits on High Court's power to make orders under sections 33 and 34) for “The High Court” substitute “ A court ”.
 
-**58.**[^key-69886fbb4d6a68792c1857a93efcb365] In section 37 (powers of High Court to grant injunctions or appoint receivers) after subsection (5) insert—
+**58.**[^c-69886fbb4d6a68792c1857a93efcb365] In section 37 (powers of High Court to grant injunctions or appoint receivers) after subsection (5) insert—
 
 > (6) This section applies in relation to the family court as it applies in relation to the High Court.
 
-**59.**[^key-62d148ae26c65945c16147b7281b2628] In section 39(1) (powers of High Court to order documents to be executed or indorsed by nominated person)—
+**59.**[^c-62d148ae26c65945c16147b7281b2628] In section 39(1) (powers of High Court to order documents to be executed or indorsed by nominated person)—
 
 - (a) in the words before paragraph (a) after “High Court” insert “ or family court ”, and
 - (b) in paragraph (b) for “the High Court” substitute “ that court ”.
 
-**60.**[^key-47f5713003e0557f176dace95b0dc08f] In section 42(1)(a) and (b) (engaging in vexatious civil proceedings is ground for High Court making order under the section) after “High Court” insert “ or the family court ”.
+**60.**[^c-47f5713003e0557f176dace95b0dc08f] In section 42(1)(a) and (b) (engaging in vexatious civil proceedings is ground for High Court making order under the section) after “High Court” insert “ or the family court ”.
 
-**61.**[^key-0d11dab9f76eab3879f599238e2797a6] (1) Section 51 (costs) is amended as follows.
+**61.**[^c-0d11dab9f76eab3879f599238e2797a6] (1) Section 51 (costs) is amended as follows.
 
 (2) In subsection (1) (section applies to civil division of Court of Appeal, High Court and county court) before the “and” at the end of paragraph (b) insert—
 
@@ -844,19 +844,19 @@ Section 17
 
 (3) In subsection (8)(b) (proceedings commenced in High Court that should have been commenced in county court) before “in accordance” insert “ or family court ”.
 
-**62.**[^key-ece04fd806fdde5157b0cd10d9938ec5] In section 70 (assessors) after subsection (4) insert—
+**62.**[^c-ece04fd806fdde5157b0cd10d9938ec5] In section 70 (assessors) after subsection (4) insert—
 
 > (5) Subsections (1) and (2) apply in relation to the family court as they apply in relation to the High Court.
 
-**63.**[^key-520e4f013ca6b58f211ad67527f39e3f] In Schedule 1 (distribution of business in High Court) omit paragraph 3(d) (appeals from enforcement decisions of magistrates' courts in relation to certain family matters).
+**63.**[^c-520e4f013ca6b58f211ad67527f39e3f] In Schedule 1 (distribution of business in High Court) omit paragraph 3(d) (appeals from enforcement decisions of magistrates' courts in relation to certain family matters).
 
 #### County Courts Act 1984 (c. 28)
 
-**64.**[^key-b585f071455bbaf0668ba65bc5764b4d] The County Courts Act 1984 is amended as follows.
+**64.**[^c-b585f071455bbaf0668ba65bc5764b4d] The County Courts Act 1984 is amended as follows.
 
-**65.**[^key-baa4ea2e01f15ab38e29a3d9c7557861] In section 4(1) (certain public buildings may be used for county court sittings free of charges other than charges for light, heat and cleaning) before “, there is a building” insert “ or a sitting of the family court is held ”.
+**65.**[^c-baa4ea2e01f15ab38e29a3d9c7557861] In section 4(1) (certain public buildings may be used for county court sittings free of charges other than charges for light, heat and cleaning) before “, there is a building” insert “ or a sitting of the family court is held ”.
 
-**66.**[^key-4bce31d88f44e3cc936747f9d7f6aab8] (1) In section 38(3) (county court does not have power to make certain orders) for “A county court shall not have” substitute “ Neither the county court nor the family court has ”.
+**66.**[^c-4bce31d88f44e3cc936747f9d7f6aab8] (1) In section 38(3) (county court does not have power to make certain orders) for “A county court shall not have” substitute “ Neither the county court nor the family court has ”.
 
 (2) In section 38(4) (regulations about orders which court may not make) after paragraph (d) insert
 
@@ -864,23 +864,23 @@ Section 17
 >
 > - (e) may make different provision for different purposes.
 
-**67.**[^key-67739fa2b16e5660f05425b565185a28] Omit sections 40(9) and 42(8) and, in section 41(2), the words after “prerogative orders)” (references to family jurisdiction of county court).
+**67.**[^c-67739fa2b16e5660f05425b565185a28] Omit sections 40(9) and 42(8) and, in section 41(2), the words after “prerogative orders)” (references to family jurisdiction of county court).
 
-**68.**[^key-f1bfe298db987de697297570cfc71c7b] In section 57 (evidence of prisoners) after subsection (4) insert—
+**68.**[^c-f1bfe298db987de697297570cfc71c7b] In section 57 (evidence of prisoners) after subsection (4) insert—
 
 > (5) This section applies in relation to the family court as it applies in relation to the county court.
 
-**69.**[^key-8582e249c77bae8257bd5cdfc4181fe4] In section 61 (rights of audience by direction) after subsection (3) insert—
+**69.**[^c-8582e249c77bae8257bd5cdfc4181fe4] In section 61 (rights of audience by direction) after subsection (3) insert—
 
 > (3A) Subsections (1) to (3) apply in relation to the family court as they apply in relation to the county court.
 
-**70.**[^key-a8fd768bc27df30b45c6ef8de27e86b0] In section 71 (satisfaction of orders for payment of costs etc) after subsection (2) insert—
+**70.**[^c-a8fd768bc27df30b45c6ef8de27e86b0] In section 71 (satisfaction of orders for payment of costs etc) after subsection (2) insert—
 
 > (3) Subsections (1) and (2), so far as relating to costs, apply in relation to the family court as they apply in relation to the county court.
 
-**71.**[^key-a16d7bd5852ed5b1c6c2dde524a6f40d] In section 131 (appointment of auditors etc) after “controlling the accounts of” insert “ the family court or ”.
+**71.**[^c-a16d7bd5852ed5b1c6c2dde524a6f40d] In section 131 (appointment of auditors etc) after “controlling the accounts of” insert “ the family court or ”.
 
-**72.**[^key-8b0dd7d4e20c12e12233bb3459c394e7] In section 132 (payments of expenses etc)—
+**72.**[^c-8b0dd7d4e20c12e12233bb3459c394e7] In section 132 (payments of expenses etc)—
 
 - (a) in paragraph (b) (costs of books etc) after “offices” insert “ , and the family court and its offices, ”,
 - (b) in paragraph (c) (costs of transport to prison) after “committed by” insert “ the family court or ”, and
@@ -888,7 +888,7 @@ Section 17
 
 #### Administration of Justice Act 1985 (c. 61)
 
-**73.**[^key-dd77b555e1a5ce1cdfb48e158d55b297] In section 53(2) of the Administration of Justice Act 1985 (costs where judge unable to act) before the “and” at the end of paragraph (b) insert—
+**73.**[^c-dd77b555e1a5ce1cdfb48e158d55b297] In section 53(2) of the Administration of Justice Act 1985 (costs where judge unable to act) before the “and” at the end of paragraph (b) insert—
 
 > - (ba) proceedings in the family court;
 
@@ -896,7 +896,7 @@ Section 17
 
 #### Insolvency Act 1986 (c. 45)
 
-**74.**[^key-4a4640667bd1766f29248c83e0f7298a] In section 281(8) of the Insolvency Act 1986 (discharge does not release bankrupt from bankruptcy debt arising under order made in family proceedings), in the definition of “family proceedings”, for paragraph (a) (but not the “and” following it) substitute—
+**74.**[^c-4a4640667bd1766f29248c83e0f7298a] In section 281(8) of the Insolvency Act 1986 (discharge does not release bankrupt from bankruptcy debt arising under order made in family proceedings), in the definition of “family proceedings”, for paragraph (a) (but not the “and” following it) substitute—
 
 > - (a) proceedings in the family court;
 
@@ -904,14 +904,14 @@ Section 17
 
 #### Children Act 1989 (c. 41)
 
-**75.**[^key-67336680aa58d86be6f755e658f33a20] In section 97 of the Children Act 1989 (privacy for children involved in certain proceedings)—
+**75.**[^c-67336680aa58d86be6f755e658f33a20] In section 97 of the Children Act 1989 (privacy for children involved in certain proceedings)—
 
 - (a) omit subsections (1), (7) and (8) (which relate to certain family proceedings in magistrates' courts), and
 - (b) in subsection (2) (restrictions on publication) for “, a county court or a magistrates' court” substitute “ or the family court ”.
 
 #### Courts and Legal Services Act 1990 (c. 41)
 
-**76.**[^key-d5400f9c20c2d8b38ce85a490a5d5377] (1) The Courts and Legal Services Act 1990 is amended as follows.
+**76.**[^c-d5400f9c20c2d8b38ce85a490a5d5377] (1) The Courts and Legal Services Act 1990 is amended as follows.
 
 (2) In section 1(1) (allocation of business between High Court and county court)—
 
@@ -960,7 +960,7 @@ Section 17
 
 #### Maintenance Enforcement Act 1991 (c. 17)
 
-**77.**[^key-83dab37fe5e787e6f98bb17fc6426d17] (1) Section 1 of the Maintenance Enforcement Act 1991 (High Court and county court maintenance orders) is amended as follows.
+**77.**[^c-83dab37fe5e787e6f98bb17fc6426d17] (1) Section 1 of the Maintenance Enforcement Act 1991 (High Court and county court maintenance orders) is amended as follows.
 
 (2) For “a county court”, in each place, substitute “ the family court ”.
 
@@ -1010,23 +1010,23 @@ Section 17
 
 #### Access to Justice Act 1999 (c. 22)
 
-**78.**[^key-b40b738045ce5b3247110b175f40f253] The Access to Justice Act 1999 is amended as follows.
+**78.**[^c-b40b738045ce5b3247110b175f40f253] The Access to Justice Act 1999 is amended as follows.
 
-**79.**[^key-201242fa5fc11f89fb85ca54a06c7330] In section 54(1) (rules may require permission to appeal) after paragraph (a) insert—
-
-> - (aa) the family court,
-
-.
-
-**80.**[^key-a0af298115dbe68ef4a782058732ce3e] In section 55(1) (limitations on right to appeal to Court of Appeal against a decision made on an appeal) before “or the High Court” insert “ , the family court ”.
-
-**81.**[^key-08f2b107db19d5c8231fb54b3a4cfb38] In section 56(1) (power to prescribe alternative appellate court) after paragraph (a) insert—
+**79.**[^c-201242fa5fc11f89fb85ca54a06c7330] In section 54(1) (rules may require permission to appeal) after paragraph (a) insert—
 
 > - (aa) the family court,
 
 .
 
-**82.**[^key-24c16fa48b4fd227d4d84d2a6d5f022e] In section 57(1) (appeals otherwise than to Court of Appeal may be redirected there)—
+**80.**[^c-a0af298115dbe68ef4a782058732ce3e] In section 55(1) (limitations on right to appeal to Court of Appeal against a decision made on an appeal) before “or the High Court” insert “ , the family court ”.
+
+**81.**[^c-08f2b107db19d5c8231fb54b3a4cfb38] In section 56(1) (power to prescribe alternative appellate court) after paragraph (a) insert—
+
+> - (aa) the family court,
+
+.
+
+**82.**[^c-24c16fa48b4fd227d4d84d2a6d5f022e] In section 57(1) (appeals otherwise than to Court of Appeal may be redirected there)—
 
 - (a) before “or the High Court” insert “ , the family court ”, and
 - (b) after paragraph (b) insert
@@ -1039,19 +1039,19 @@ Section 17
 
 #### Courts Act 2003 (c. 39)
 
-**83.**[^key-6c9f99f02a57d642501a7bc6534f2b44] The Courts Act 2003 is amended as follows.
+**83.**[^c-6c9f99f02a57d642501a7bc6534f2b44] The Courts Act 2003 is amended as follows.
 
-**84.**[^key-09cccd48cd02cf306bb1a5ad71059bdc] In section 1(1) (Lord Chancellor's general duty to ensure that support systems and services, including staff and accommodation, are provided for certain courts) for the “and” at the end of paragraph (b) substitute—
+**84.**[^c-09cccd48cd02cf306bb1a5ad71059bdc] In section 1(1) (Lord Chancellor's general duty to ensure that support systems and services, including staff and accommodation, are provided for certain courts) for the “and” at the end of paragraph (b) substitute—
 
 > - (ba) the family court, and
 
 .
 
-**85.**[^key-22fc5b159a152614bb0167b735c8a717] In section 18(5)(a) (presiding at sittings of justices) omit “or family proceedings court”.
+**85.**[^c-22fc5b159a152614bb0167b735c8a717] In section 18(5)(a) (presiding at sittings of justices) omit “or family proceedings court”.
 
-**86.**[^key-989068772583591622c9edb788f217f6] In section 19(2)(e) (committees may be established under rules to advise on authorisation of justices for specific purposes) for “members of family proceedings courts or” substitute “ judges of the family court or as members of ”.
+**86.**[^c-989068772583591622c9edb788f217f6] In section 19(2)(e) (committees may be established under rules to advise on authorisation of justices for specific purposes) for “members of family proceedings courts or” substitute “ judges of the family court or as members of ”.
 
-**87.**[^key-d074081f8da55eb4c0f89a5718532f96] (1) Section 28 (functions of justices' clerks and assistant clerks) is amended as follows.
+**87.**[^c-d074081f8da55eb4c0f89a5718532f96] (1) Section 28 (functions of justices' clerks and assistant clerks) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -1063,16 +1063,16 @@ Section 17
 
 (4) Omit subsection (9)(b) (requirement to consult Family Procedure Rule Committee) but not the “and” following it.
 
-**88.**[^key-ade548885c173a2218cb644d541609b2] Omit section 30(6) (exclusion of family proceedings).
+**88.**[^c-ade548885c173a2218cb644d541609b2] Omit section 30(6) (exclusion of family proceedings).
 
-**89.**[^key-ff6d909d7faf9c7db9528a64ed093e0b] In section 34(2) (no order for costs in legal proceedings to be made against justices' clerk or assistant in respect of acts or omissions in exercising functions of a single justice of the peace) after “function of a single justice of the peace” insert “ or a function of the family court or of a judge of that court. ”
+**89.**[^c-ff6d909d7faf9c7db9528a64ed093e0b] In section 34(2) (no order for costs in legal proceedings to be made against justices' clerk or assistant in respect of acts or omissions in exercising functions of a single justice of the peace) after “function of a single justice of the peace” insert “ or a function of the family court or of a judge of that court. ”
 
-**90.**[^key-34c0b821c1443be1f99bdb0fc0219369] In section 66 (judges having powers of District Judges (Magistrates' Courts)) omit—
+**90.**[^c-34c0b821c1443be1f99bdb0fc0219369] In section 66 (judges having powers of District Judges (Magistrates' Courts)) omit—
 
 - (a) in subsection (1), paragraph (b) and the “and” preceding it, and
 - (b) subsection (4).
 
-**91.**[^key-ef345e3dbc079598e5731bf28f27810b] (1) Section 75 (Family Procedure Rules) is amended as follows.
+**91.**[^c-ef345e3dbc079598e5731bf28f27810b] (1) Section 75 (Family Procedure Rules) is amended as follows.
 
 (2) In subsection (1) (family proceedings in certain courts to be governed by Family Procedure Rules) omit the words after “proceedings”.
 
@@ -1085,7 +1085,7 @@ Section 17
 
 (4) In subsection (4) (differential provision) before “different areas” insert “ different cases or ”.
 
-**92.**[^key-12ae36bfe609cf4a8dfc4f615ed9c718] (1) Section 76 (further provision about scope of Family Procedure Rules) is amended as follows.
+**92.**[^c-12ae36bfe609cf4a8dfc4f615ed9c718] (1) Section 76 (further provision about scope of Family Procedure Rules) is amended as follows.
 
 (2) In subsection (2) (provision that may be made by rules)—
 
@@ -1098,13 +1098,13 @@ Section 17
 
 (3) In subsection (3) (rules may modify rules of evidence) omit the words after “proceedings”.
 
-**93.**[^key-002d65de4b86f8c7a1d5471b33a872d9] (1) Section 77(2) (membership of Family Rule Procedure Committee) is amended as follows.
+**93.**[^c-002d65de4b86f8c7a1d5471b33a872d9] (1) Section 77(2) (membership of Family Rule Procedure Committee) is amended as follows.
 
 (2) Omit paragraphs (i) and (l).
 
 (3) In paragraphs (j) and (m) for “magistrates' courts” substitute “ the family court ”.
 
-**94.**[^key-4db7911d0d2a12d80820b784c4122dbc] (1) Section 81 (practice directions relating to family proceedings) is amended as follows.
+**94.**[^c-4db7911d0d2a12d80820b784c4122dbc] (1) Section 81 (practice directions relating to family proceedings) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1122,7 +1122,7 @@ Section 17
 
 (6) In subsection (5) omit the definition of “relevant court”.
 
-**95.**[^key-73c8b811b0a3037d56ccca877bb77345] In section 92(1) (power to prescribe fees for things dealt with by certain courts) after paragraph (a) insert—
+**95.**[^c-73c8b811b0a3037d56ccca877bb77345] In section 92(1) (power to prescribe fees for things dealt with by certain courts) after paragraph (a) insert—
 
 > - (aa) the family court,
 
@@ -1130,13 +1130,13 @@ Section 17
 
 #### Constitutional Reform Act 2005 (c. 4)
 
-**96.**[^key-886845eb604e401404d3948287506d7b] The Constitutional Reform Act 2005 is amended as follows.
+**96.**[^c-886845eb604e401404d3948287506d7b] The Constitutional Reform Act 2005 is amended as follows.
 
-**97.**[^key-660db1c964944e99796f693e2a471dd2] In section 7(4) (courts of which Lord Chief Justice is president) after the entry for the Crown Court insert— “ the family court ”.
+**97.**[^c-660db1c964944e99796f693e2a471dd2] In section 7(4) (courts of which Lord Chief Justice is president) after the entry for the Crown Court insert— “ the family court ”.
 
 #### Legal Services Act 2007 (c. 29)
 
-**98.**[^key-ab3e541160d97a692e3bc83e8f3908a9] (1) For paragraph 1(7)(c) of Schedule 3 to the Legal Services Act 2007 (rights of audience in chambers of exempt persons) substitute—
+**98.**[^c-ab3e541160d97a692e3bc83e8f3908a9] (1) For paragraph 1(7)(c) of Schedule 3 to the Legal Services Act 2007 (rights of audience in chambers of exempt persons) substitute—
 
 > - (c) the proceedings are not reserved family proceedings and are being heard in chambers—
 >   - (i) in the High Court or county court, or
@@ -1146,7 +1146,7 @@ Section 17
 
 ### Part 3 — Repeals and revocations in consequence of Parts 1 and 2 of this Schedule
 
-**99.**[^key-42a832dd754b25bc36b77e2826590640] The provisions specified in the Table are repealed or revoked to the extent shown.
+**99.**[^c-42a832dd754b25bc36b77e2826590640] The provisions specified in the Table are repealed or revoked to the extent shown.
 
 <table>
 <tbody>
@@ -1208,200 +1208,200 @@ Section 17
 
 ## Annotations
 
-[^key-e2c9d028760d7033014f722eb0cc5eca]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-e2c9d028760d7033014f722eb0cc5eca]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/1) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-b3082b9f9bd97007ba4c272181ac8d56]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/2) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-b3082b9f9bd97007ba4c272181ac8d56]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/2) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-c99291544cdcbe88152631f3867c60b1]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/3) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-c99291544cdcbe88152631f3867c60b1]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/3) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-aa306a7ecd73b47755def1608727787f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/4) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-aa306a7ecd73b47755def1608727787f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/4) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-bc72ed68def512a6d51ea0b3a441bd8d]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/5) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-bc72ed68def512a6d51ea0b3a441bd8d]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/5) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-8d2675c88b07075e3f8d77b5147251da]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/6) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-8d2675c88b07075e3f8d77b5147251da]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/6) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-2dfdd0708dc5bca0cd2e0d46b674c1a4]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/7) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-2dfdd0708dc5bca0cd2e0d46b674c1a4]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/7) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ce0119ee3f1434b48840486aa7f03a0d]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/8) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ce0119ee3f1434b48840486aa7f03a0d]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/8) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-2a9d53e57168580104ebb0c9a65b7d82]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/9) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-2a9d53e57168580104ebb0c9a65b7d82]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/9) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a46971bdee4e67685d01a6b749802456]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/10) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a46971bdee4e67685d01a6b749802456]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/10) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-50afcca936252b88ddc69878239f84ff]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/11) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-50afcca936252b88ddc69878239f84ff]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/11) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d72844d5a145360a443ac35886c1efe5]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/12) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d72844d5a145360a443ac35886c1efe5]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/12) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-b3f3563c76918a38d8c6319394e3dba8]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/13) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-b3f3563c76918a38d8c6319394e3dba8]: Commencement: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/13) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-e0431c6a8835c2427566cfc5e438f8e9]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/14) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-e0431c6a8835c2427566cfc5e438f8e9]: Commencement: [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/14) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d9f3f3c01333e7e3d91b0068e484f701]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/15) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d9f3f3c01333e7e3d91b0068e484f701]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/15) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-c3b6282baad32a1b1f1c90e57e92df0e]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/16) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-c3b6282baad32a1b1f1c90e57e92df0e]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/16) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-bf17ec850b078f1615ab608602a06fe2]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/17) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-bf17ec850b078f1615ab608602a06fe2]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/17) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-bc68abbc218f3706f87be583d420c4c1]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/18) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-bc68abbc218f3706f87be583d420c4c1]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/18) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-c8bcb6777aad736bb420fc95cbc3e383]: Commencement: [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/19) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-c8bcb6777aad736bb420fc95cbc3e383]: Commencement: [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/19) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-4fc1b3ca7588141c57edc1a434e52a17]: Commencement: [Sch. 10 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/20) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-4fc1b3ca7588141c57edc1a434e52a17]: Commencement: [Sch. 10 para. 20](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/20) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a0934e18ab2a61a2976c2356f19830e8]: Commencement: [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/21) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a0934e18ab2a61a2976c2356f19830e8]: Commencement: [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/21) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-34d1f9907c6e209ccc712441e6a8809f]: Commencement: [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/22) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-34d1f9907c6e209ccc712441e6a8809f]: Commencement: [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/22) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a9b567fd502ca6e15697883abd4db206]: Commencement: [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/23) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a9b567fd502ca6e15697883abd4db206]: Commencement: [Sch. 10 para. 23](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/23) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-4483416c6dcab964a193bef149e629c5]: Commencement: [Sch. 10 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/24) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-4483416c6dcab964a193bef149e629c5]: Commencement: [Sch. 10 para. 24](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/24) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-da66f722d6cf04a72509a109fb17ab3a]: Commencement: [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/25) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-da66f722d6cf04a72509a109fb17ab3a]: Commencement: [Sch. 10 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/25) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-3c2ce5f33da738101cd444d4e8c4c578]: Commencement: [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/26) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-3c2ce5f33da738101cd444d4e8c4c578]: Commencement: [Sch. 10 para. 26](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/26) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-0d4019a6bb682db4dba48f44985a9dbc]: Commencement: [Sch. 10 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/27) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-0d4019a6bb682db4dba48f44985a9dbc]: Commencement: [Sch. 10 para. 27](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/27) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-7ea0682b388a9176de371d15fb96fcb2]: Commencement: [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/28) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-7ea0682b388a9176de371d15fb96fcb2]: Commencement: [Sch. 10 para. 28](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/28) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-01121bb940f979c6b89191e614bbd6c2]: Commencement: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/29) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-01121bb940f979c6b89191e614bbd6c2]: Commencement: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/29) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-380fea79b25fbd3238510d4e85f91e0f]: Commencement: [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/30) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-380fea79b25fbd3238510d4e85f91e0f]: Commencement: [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/30) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a36146bf476544efea53ace54b0a48b2]: Commencement: [Sch. 10 para. 31](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/31) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a36146bf476544efea53ace54b0a48b2]: Commencement: [Sch. 10 para. 31](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/31) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d73901309739bf80395272c6d4b1ed38]: Commencement: [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/32) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d73901309739bf80395272c6d4b1ed38]: Commencement: [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/32) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-25cd18a8e2378b92dfecb91dfaef03f5]: Commencement: [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/33) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-25cd18a8e2378b92dfecb91dfaef03f5]: Commencement: [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/33) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-b68c82d42928c48dcc4b9776a9942283]: Commencement: [Sch. 10 para. 34](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/34) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-b68c82d42928c48dcc4b9776a9942283]: Commencement: [Sch. 10 para. 34](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/34) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-c9838232032712b418f1b02fa333d483]: Commencement: [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/35) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-c9838232032712b418f1b02fa333d483]: Commencement: [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/35) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-8831743ce912ae80c0030c943f69472e]: Commencement: [Sch. 10 para. 36](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/36) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-8831743ce912ae80c0030c943f69472e]: Commencement: [Sch. 10 para. 36](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/36) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-0b6ced0c5f5998e0f6e7d81733b766ad]: Commencement: [Sch. 10 para. 37](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/37) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-0b6ced0c5f5998e0f6e7d81733b766ad]: Commencement: [Sch. 10 para. 37](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/37) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-74f4bbbd2055b11d7259128e2d62d048]: Commencement: [Sch. 10 para. 38](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/38) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-74f4bbbd2055b11d7259128e2d62d048]: Commencement: [Sch. 10 para. 38](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/38) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-34e3e420c0c053ee00a768d5d9da718d]: Commencement: [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/39) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-34e3e420c0c053ee00a768d5d9da718d]: Commencement: [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/39) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-c9dcd53d7ceee78d2112265d4937c1ad]: Commencement: [Sch. 10 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/40) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-c9dcd53d7ceee78d2112265d4937c1ad]: Commencement: [Sch. 10 para. 40](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/40) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ef387edec147e6b0aa419f417b9becd9]: Commencement: [Sch. 10 para. 41](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/41) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ef387edec147e6b0aa419f417b9becd9]: Commencement: [Sch. 10 para. 41](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/41) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d0b6a13ae5a821189b542294fcf52608]: Commencement: [Sch. 10 para. 42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/42) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d0b6a13ae5a821189b542294fcf52608]: Commencement: [Sch. 10 para. 42](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/42) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d2c9a9991b9ba7779782d5a47272bffa]: Commencement: [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/43) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d2c9a9991b9ba7779782d5a47272bffa]: Commencement: [Sch. 10 para. 43](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/43) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-bade8271745c062d00c6801d6f75e46c]: Commencement: [Sch. 10 para. 44](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/44) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-bade8271745c062d00c6801d6f75e46c]: Commencement: [Sch. 10 para. 44](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/44) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-1e63d7f77b66b0b1c9e96df0aac3bbf6]: Commencement: [Sch. 10 para. 45](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/45) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-1e63d7f77b66b0b1c9e96df0aac3bbf6]: Commencement: [Sch. 10 para. 45](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/45) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a8b40c5bd538928757a0350f01f580d6]: Commencement: [Sch. 10 para. 46](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/46) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a8b40c5bd538928757a0350f01f580d6]: Commencement: [Sch. 10 para. 46](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/46) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-25d9b8c4273440b75287b62d6ae70a60]: Commencement: [Sch. 10 para. 47](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/47) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-25d9b8c4273440b75287b62d6ae70a60]: Commencement: [Sch. 10 para. 47](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/47) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-f5b137805a4eabdc9f9fd512d904eba2]: Commencement: [Sch. 10 para. 48](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/48) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-f5b137805a4eabdc9f9fd512d904eba2]: Commencement: [Sch. 10 para. 48](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/48) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-2134e05162899b532ea098d689c8f3df]: Commencement: [Sch. 10 para. 49](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/49) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-2134e05162899b532ea098d689c8f3df]: Commencement: [Sch. 10 para. 49](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/49) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-b5fb475baee4eddca3b4d9d720d157b7]: Commencement: [Sch. 10 para. 50](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/50) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-b5fb475baee4eddca3b4d9d720d157b7]: Commencement: [Sch. 10 para. 50](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/50) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-c307a0e70dcddc3770dc0afa7adbbd68]: Commencement: [Sch. 10 para. 51](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/51) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-c307a0e70dcddc3770dc0afa7adbbd68]: Commencement: [Sch. 10 para. 51](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/51) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-00f9d3690150364120c3fbd1be99a93e]: Commencement: [Sch. 10 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/52) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-00f9d3690150364120c3fbd1be99a93e]: Commencement: [Sch. 10 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/52) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-090cc61f0d8c07607ca8ec8658639076]: Commencement: [Sch. 10 para. 53](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/53) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-090cc61f0d8c07607ca8ec8658639076]: Commencement: [Sch. 10 para. 53](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/53) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-aab93110826e1f46427c1da3992e75b7]: Commencement: [Sch. 10 para. 54](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/54) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-aab93110826e1f46427c1da3992e75b7]: Commencement: [Sch. 10 para. 54](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/54) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-495e8d6df651d86e2fe74037bb4f11dc]: Commencement: [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/55) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-495e8d6df651d86e2fe74037bb4f11dc]: Commencement: [Sch. 10 para. 55](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/55) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-fc59b5a93f08f348061087a1fc4385a2]: Commencement: [Sch. 10 para. 56](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/56) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-fc59b5a93f08f348061087a1fc4385a2]: Commencement: [Sch. 10 para. 56](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/56) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-f4e9dbb22e1d8f2ca94c9021337cfea1]: Commencement: [Sch. 10 para. 57](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/57) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-f4e9dbb22e1d8f2ca94c9021337cfea1]: Commencement: [Sch. 10 para. 57](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/57) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-69886fbb4d6a68792c1857a93efcb365]: Commencement: [Sch. 10 para. 58](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/58) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-69886fbb4d6a68792c1857a93efcb365]: Commencement: [Sch. 10 para. 58](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/58) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-62d148ae26c65945c16147b7281b2628]: Commencement: [Sch. 10 para. 59](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/59) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-62d148ae26c65945c16147b7281b2628]: Commencement: [Sch. 10 para. 59](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/59) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-47f5713003e0557f176dace95b0dc08f]: Commencement: [Sch. 10 para. 60](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/60) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-47f5713003e0557f176dace95b0dc08f]: Commencement: [Sch. 10 para. 60](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/60) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-0d11dab9f76eab3879f599238e2797a6]: Commencement: [Sch. 10 para. 61](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/61) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-0d11dab9f76eab3879f599238e2797a6]: Commencement: [Sch. 10 para. 61](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/61) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ece04fd806fdde5157b0cd10d9938ec5]: Commencement: [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/62) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ece04fd806fdde5157b0cd10d9938ec5]: Commencement: [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/62) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-520e4f013ca6b58f211ad67527f39e3f]: Commencement: [Sch. 10 para. 63](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/63) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-520e4f013ca6b58f211ad67527f39e3f]: Commencement: [Sch. 10 para. 63](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/63) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-b585f071455bbaf0668ba65bc5764b4d]: Commencement: [Sch. 10 para. 64](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/64) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-b585f071455bbaf0668ba65bc5764b4d]: Commencement: [Sch. 10 para. 64](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/64) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-baa4ea2e01f15ab38e29a3d9c7557861]: Commencement: [Sch. 10 para. 65](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/65) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-baa4ea2e01f15ab38e29a3d9c7557861]: Commencement: [Sch. 10 para. 65](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/65) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-4bce31d88f44e3cc936747f9d7f6aab8]: Commencement: [Sch. 10 para. 66](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/66) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-4bce31d88f44e3cc936747f9d7f6aab8]: Commencement: [Sch. 10 para. 66](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/66) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-67739fa2b16e5660f05425b565185a28]: Commencement: [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/67) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-67739fa2b16e5660f05425b565185a28]: Commencement: [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/67) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-f1bfe298db987de697297570cfc71c7b]: Commencement: [Sch. 10 para. 68](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/68) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-f1bfe298db987de697297570cfc71c7b]: Commencement: [Sch. 10 para. 68](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/68) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-8582e249c77bae8257bd5cdfc4181fe4]: Commencement: [Sch. 10 para. 69](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/69) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-8582e249c77bae8257bd5cdfc4181fe4]: Commencement: [Sch. 10 para. 69](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/69) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a8fd768bc27df30b45c6ef8de27e86b0]: Commencement: [Sch. 10 para. 70](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/70) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a8fd768bc27df30b45c6ef8de27e86b0]: Commencement: [Sch. 10 para. 70](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/70) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a16d7bd5852ed5b1c6c2dde524a6f40d]: Commencement: [Sch. 10 para. 71](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/71) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a16d7bd5852ed5b1c6c2dde524a6f40d]: Commencement: [Sch. 10 para. 71](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/71) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-8b0dd7d4e20c12e12233bb3459c394e7]: Commencement: [Sch. 10 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/72) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-8b0dd7d4e20c12e12233bb3459c394e7]: Commencement: [Sch. 10 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/72) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-dd77b555e1a5ce1cdfb48e158d55b297]: Commencement: [Sch. 10 para. 73](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/73) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-dd77b555e1a5ce1cdfb48e158d55b297]: Commencement: [Sch. 10 para. 73](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/73) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-4a4640667bd1766f29248c83e0f7298a]: Commencement: [Sch. 10 para. 74](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/74) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-4a4640667bd1766f29248c83e0f7298a]: Commencement: [Sch. 10 para. 74](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/74) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-67336680aa58d86be6f755e658f33a20]: Commencement: [Sch. 10 para. 75](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/75) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-67336680aa58d86be6f755e658f33a20]: Commencement: [Sch. 10 para. 75](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/75) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d5400f9c20c2d8b38ce85a490a5d5377]: Commencement: [Sch. 10 para. 76](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/76) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d5400f9c20c2d8b38ce85a490a5d5377]: Commencement: [Sch. 10 para. 76](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/76) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-83dab37fe5e787e6f98bb17fc6426d17]: Commencement: [Sch. 10 para. 77](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/77) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-83dab37fe5e787e6f98bb17fc6426d17]: Commencement: [Sch. 10 para. 77](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/77) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-b40b738045ce5b3247110b175f40f253]: Commencement: [Sch. 10 para. 78](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/78) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-b40b738045ce5b3247110b175f40f253]: Commencement: [Sch. 10 para. 78](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/78) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-201242fa5fc11f89fb85ca54a06c7330]: Commencement: [Sch. 10 para. 79](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/79) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-201242fa5fc11f89fb85ca54a06c7330]: Commencement: [Sch. 10 para. 79](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/79) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a0af298115dbe68ef4a782058732ce3e]: Commencement: [Sch. 10 para. 80](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/80) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-a0af298115dbe68ef4a782058732ce3e]: Commencement: [Sch. 10 para. 80](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/80) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-08f2b107db19d5c8231fb54b3a4cfb38]: Commencement: [Sch. 10 para. 81](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/81) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-08f2b107db19d5c8231fb54b3a4cfb38]: Commencement: [Sch. 10 para. 81](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/81) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-24c16fa48b4fd227d4d84d2a6d5f022e]: Commencement: [Sch. 10 para. 82](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/82) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-24c16fa48b4fd227d4d84d2a6d5f022e]: Commencement: [Sch. 10 para. 82](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/82) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-6c9f99f02a57d642501a7bc6534f2b44]: Commencement: [Sch. 10 para. 83](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/83) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-6c9f99f02a57d642501a7bc6534f2b44]: Commencement: [Sch. 10 para. 83](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/83) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-09cccd48cd02cf306bb1a5ad71059bdc]: Commencement: [Sch. 10 para. 84](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/84) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-09cccd48cd02cf306bb1a5ad71059bdc]: Commencement: [Sch. 10 para. 84](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/84) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-22fc5b159a152614bb0167b735c8a717]: Commencement: [Sch. 10 para. 85](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/85) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-22fc5b159a152614bb0167b735c8a717]: Commencement: [Sch. 10 para. 85](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/85) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-989068772583591622c9edb788f217f6]: Commencement: [Sch. 10 para. 86](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/86) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-989068772583591622c9edb788f217f6]: Commencement: [Sch. 10 para. 86](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/86) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-d074081f8da55eb4c0f89a5718532f96]: Commencement: [Sch. 10 para. 87](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/87) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d074081f8da55eb4c0f89a5718532f96]: Commencement: [Sch. 10 para. 87](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/87) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ade548885c173a2218cb644d541609b2]: Commencement: [Sch. 10 para. 88](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/88) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ade548885c173a2218cb644d541609b2]: Commencement: [Sch. 10 para. 88](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/88) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ff6d909d7faf9c7db9528a64ed093e0b]: Commencement: [Sch. 10 para. 89](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/89) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ff6d909d7faf9c7db9528a64ed093e0b]: Commencement: [Sch. 10 para. 89](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/89) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-34c0b821c1443be1f99bdb0fc0219369]: Commencement: [Sch. 10 para. 90](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/90) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-34c0b821c1443be1f99bdb0fc0219369]: Commencement: [Sch. 10 para. 90](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/90) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ef345e3dbc079598e5731bf28f27810b]: Commencement: [Sch. 10 para. 91](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/91) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ef345e3dbc079598e5731bf28f27810b]: Commencement: [Sch. 10 para. 91](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/91) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-12ae36bfe609cf4a8dfc4f615ed9c718]: Commencement: [Sch. 10 para. 92](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/92) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-12ae36bfe609cf4a8dfc4f615ed9c718]: Commencement: [Sch. 10 para. 92](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/92) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-002d65de4b86f8c7a1d5471b33a872d9]: Commencement: [Sch. 10 para. 93](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/93) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-002d65de4b86f8c7a1d5471b33a872d9]: Commencement: [Sch. 10 para. 93](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/93) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-4db7911d0d2a12d80820b784c4122dbc]: Commencement: [Sch. 10 para. 94](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/94) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-4db7911d0d2a12d80820b784c4122dbc]: Commencement: [Sch. 10 para. 94](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/94) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-73c8b811b0a3037d56ccca877bb77345]: Commencement: [Sch. 10 para. 95](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/95) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-73c8b811b0a3037d56ccca877bb77345]: Commencement: [Sch. 10 para. 95](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/95) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-886845eb604e401404d3948287506d7b]: Commencement: [Sch. 10 para. 96](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/96) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-886845eb604e401404d3948287506d7b]: Commencement: [Sch. 10 para. 96](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/96) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-660db1c964944e99796f693e2a471dd2]: Commencement: [Sch. 10 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/97) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-660db1c964944e99796f693e2a471dd2]: Commencement: [Sch. 10 para. 97](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/97) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-ab3e541160d97a692e3bc83e8f3908a9]: Commencement: [Sch. 10 para. 98](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/98) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-ab3e541160d97a692e3bc83e8f3908a9]: Commencement: [Sch. 10 para. 98](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/98) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-42a832dd754b25bc36b77e2826590640]: Commencement: [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-42a832dd754b25bc36b77e2826590640]: Commencement: [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)

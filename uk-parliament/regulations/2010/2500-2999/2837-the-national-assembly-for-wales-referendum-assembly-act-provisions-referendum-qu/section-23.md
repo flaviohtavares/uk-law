@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Advertisements[^key-56d724c70fc79503f51ed02049ffe0db]
+## 23. Advertisements[^c-56d724c70fc79503f51ed02049ffe0db]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Control of Advertisements) Regulations 1992[^f000
 
 ## Annotations
 
-[^key-56d724c70fc79503f51ed02049ffe0db]: Commencement: Art. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-56d724c70fc79503f51ed02049ffe0db]: Commencement: Art. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00021]: Footnote: [S.I. 1992/666](https://www.legislation.gov.uk/uksi/1992/666). *See* regulation 3(2) of and Class F of Schedule 2 to which there was a relevant amendment by [S.I.1994/2351](https://www.legislation.gov.uk/uksi/1994/2351).

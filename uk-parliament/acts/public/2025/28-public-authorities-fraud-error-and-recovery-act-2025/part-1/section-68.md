@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Guidance on exercise of investigatory functions[^key-e00aeb5dc49a07056965a2dd157e7c5e][^key-c3c4c96d03b033929ad6792d3c3ed53a]
+## 68. Guidance on exercise of investigatory functions[^c-e00aeb5dc49a07056965a2dd157e7c5e][^c-c3c4c96d03b033929ad6792d3c3ed53a]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e00aeb5dc49a07056965a2dd157e7c5e]: Commencement: S. 68 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-e00aeb5dc49a07056965a2dd157e7c5e]: Commencement: S. 68 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-c3c4c96d03b033929ad6792d3c3ed53a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2025/28/section/68) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-c3c4c96d03b033929ad6792d3c3ed53a]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2025/28/section/68) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45F. Access to requests and responses, guidance and review[^key-6b410f9c09b9016ec03394e81848bae3]
+## 45F. Access to requests and responses, guidance and review[^c-6b410f9c09b9016ec03394e81848bae3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b410f9c09b9016ec03394e81848bae3]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2017/692/part/5A) omitted (1.9.2022) by virtue of [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [10](https://www.legislation.gov.uk/uksi/2022/860/regulation/10)
+[^c-6b410f9c09b9016ec03394e81848bae3]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2017/692/part/5A) omitted (1.9.2022) by virtue of [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [10](https://www.legislation.gov.uk/uksi/2022/860/regulation/10)

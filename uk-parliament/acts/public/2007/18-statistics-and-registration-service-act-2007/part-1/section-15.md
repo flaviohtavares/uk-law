@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Programme of assessment[^key-b6c7fccb81e29d9204823b3565170c92]
+## 15. Programme of assessment[^c-b6c7fccb81e29d9204823b3565170c92]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6c7fccb81e29d9204823b3565170c92]: Commencement: S. 15 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-b6c7fccb81e29d9204823b3565170c92]: Commencement: S. 15 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

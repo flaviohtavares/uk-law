@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.154. Committee established by contributories[^key-b2d1945948ddda64c2fcdb77e289192c]
+## 4.154. Committee established by contributories[^c-b2d1945948ddda64c2fcdb77e289192c]
 
 *Extent: E+W*
 
@@ -31,10 +31,10 @@ summary: ''
 
 (3) If the creditors' meeting so summoned does not establish a liquidation committee, a meeting of contributories may do so.
 
-(4) The committee shall then consist of at least 3, and not more than 5, contributories elected by that meeting; and Rule 4.153 applies, substituting for the reference in paragraph (3) of that Rule to Rule 4.152 a reference to this paragraph[^key-f68d7555c1a2be82cec4b2105e117702].
+(4) The committee shall then consist of at least 3, and not more than 5, contributories elected by that meeting; and Rule 4.153 applies, substituting for the reference in paragraph (3) of that Rule to Rule 4.152 a reference to this paragraph[^c-f68d7555c1a2be82cec4b2105e117702].
 
 ## Annotations
 
-[^key-b2d1945948ddda64c2fcdb77e289192c]: Commencement: [Rule 4.154](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.154) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b2d1945948ddda64c2fcdb77e289192c]: Commencement: [Rule 4.154](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.154) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-f68d7555c1a2be82cec4b2105e117702]: Textual amendment: Words in [rule 4.154(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.154/4) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 72](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/72)
+[^c-f68d7555c1a2be82cec4b2105e117702]: Textual amendment: Words in [rule 4.154(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.154/4) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 72](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/72)

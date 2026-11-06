@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. The Victim Charter[^key-24a6c512a64979e71ef82d85448c15e8]
+## 28. The Victim Charter[^c-24a6c512a64979e71ef82d85448c15e8]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24a6c512a64979e71ef82d85448c15e8]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2015/9/section/28) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/320/article/2/a)
+[^c-24a6c512a64979e71ef82d85448c15e8]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2015/9/section/28) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/320/article/2/a)

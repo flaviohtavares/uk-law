@@ -46,17 +46,17 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-14c8f9878921be4f9f7c6655756e4d63]
+### 1. Citation and commencement[^c-14c8f9878921be4f9f7c6655756e4d63]
 
 These Regulations may be cited as the Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 and shall come into operation on 12 July 2011.
 
-### 2. Interpretation[^key-b2c72a896529a1a94adb22baf30b6deb]
+### 2. Interpretation[^c-b2c72a896529a1a94adb22baf30b6deb]
 
 (1) In these Regulations—
 
 - “the Act” means the Welfare Reform Act (Northern Ireland) 2007;
 - “action plan” means an action plan in accordance with regulation 5;
-- “carer’s allowance”, “carer support payment”[^key-779de597451f9e77d003a40dfd1d2de5], “child”, “lone parent”, “medical treatment” and “working day” have the meaning given in regulation 2(1) of the Employment and Support Allowance Regulations;
+- “carer’s allowance”, “carer support payment”[^c-779de597451f9e77d003a40dfd1d2de5], “child”, “lone parent”, “medical treatment” and “working day” have the meaning given in regulation 2(1) of the Employment and Support Allowance Regulations;
 - “the Department”, for the purposes of Part 2 and 3, includes the Department for Employment and Learning;
 - “the Employment and Support Allowance Regulations” means the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00003];
 - “member of the support group” has the meaning given by section 24(4) of the Act; and
@@ -66,16 +66,16 @@ These Regulations may be cited as the Employment and Support Allowance (Work-rel
 
 ## PART 2 — Work-related Activity
 
-### 3. Requirement to undertake work-related activity[^key-8b16d10fd1035a07c337fa28c82830e9]
+### 3. Requirement to undertake work-related activity[^c-8b16d10fd1035a07c337fa28c82830e9]
 
 (1) The Department may require a person who satisfies the requirements in paragraph (2) to undertake work-related activity as a condition of continuing to be entitled to the full amount of employment and support allowance payable to that person.
 
 (2) The requirements referred to in paragraph (1) are that the person is—
 
 - (a) required to take part in, or has taken part in, one or more work-focused interviews pursuant to regulation 54 of the Employment and Support Allowance Regulations;
-- (b) not a lone parent who is responsible for and a member of the same household as a child under the age of 3[^key-3ef63e24d352ea9b37388a2cabbb9b4f] ;
-- (c) not entitled to carer’s allowance; [^key-c8f858ae52e2cabcc0a185c2592bc6a9]...
-- (ca)[^key-92ab5fedb51bba3e0e0b7c3aa6d00fe1] not entitled to carer support payment; and
+- (b) not a lone parent who is responsible for and a member of the same household as a child under the age of 3[^c-3ef63e24d352ea9b37388a2cabbb9b4f] ;
+- (c) not entitled to carer’s allowance; [^c-c8f858ae52e2cabcc0a185c2592bc6a9]...
+- (ca)[^c-92ab5fedb51bba3e0e0b7c3aa6d00fe1] not entitled to carer support payment; and
 - (d) not entitled to a carer premium under paragraph 8 of Schedule 4 to the Employment and Support Allowance Regulations.
 
 (3) A requirement to undertake work-related activity ceases to have effect if the person becomes a member of the support group.
@@ -89,7 +89,7 @@ These Regulations may be cited as the Employment and Support Allowance (Work-rel
 
 (5) A person who is a lone parent and in any week is responsible for and a member of the same household as a child under the age of 13, may only be required to undertake work-related activity under paragraph (1) during the child’s normal school hours.
 
-### 4. Directions about work-related activity[^key-5aca9db360c03ffcb0456c764e4bec87]
+### 4. Directions about work-related activity[^c-5aca9db360c03ffcb0456c764e4bec87]
 
 (1) The circumstances in paragraph (2) are the circumstances prescribed for the purposes of section 15(1)(a) of the Act.
 
@@ -98,7 +98,7 @@ These Regulations may be cited as the Employment and Support Allowance (Work-rel
 - (a) the person has been identified by the Department as having a barrier to work and in the view of the Department has refused to address that barrier; and
 - (b) the Department considers that the activity specified in the direction given under section 15(1) of the Act is a prerequisite to the person’s ability to obtain or remain in work.
 
-### 5. Notification of work-related activity and action plans[^key-6285349233652ff1ec74085c10330581]
+### 5. Notification of work-related activity and action plans[^c-6285349233652ff1ec74085c10330581]
 
 (1) The Department must notify a person of the requirement to undertake work-related activity by including the requirement in a written action plan given to the person.
 
@@ -107,11 +107,11 @@ These Regulations may be cited as the Employment and Support Allowance (Work-rel
 - (a) the work-related activity which the person is required to undertake; and
 - (b) any other information that the Department considers appropriate.
 
-### 6. Requirement to undertake work-related activity at a particular time not to apply[^key-17d94516130d5e02b31e7d180768ffb7]
+### 6. Requirement to undertake work-related activity at a particular time not to apply[^c-17d94516130d5e02b31e7d180768ffb7]
 
 The Department may determine that a requirement as to the time at or by which work-related activity is to be undertaken is not to apply, or is to be treated as not having applied, if in the view of the Department it would be, or would have been, unreasonable to require the person to undertake the activity at or by that time.
 
-### 7. Reconsideration of action plans[^key-7f1d3c3dc75cb4aeff90b6e0aa5c56a5]
+### 7. Reconsideration of action plans[^c-7f1d3c3dc75cb4aeff90b6e0aa5c56a5]
 
 (1) A person may request reconsideration of an action plan.
 
@@ -119,17 +119,17 @@ The Department may determine that a requirement as to the time at or by which wo
 
 (3) A decision of the Department following a request must be in writing and given to the person.
 
-### 8. Failure to undertake work-related activity[^key-dc5a8aac18e526429597b21691058090]
+### 8. Failure to undertake work-related activity[^c-dc5a8aac18e526429597b21691058090]
 
 (1) A person who is required to undertake work-related activity but fails to do so must show good cause for the failure within 5 working days of the date on which the Department gives notice of the failure.
 
 (2) The Department must determine whether a person who is required to undertake work-related activity has failed to do so and, if so, whether the person has shown good cause for the failure.
 
-(3)[^key-0ec19c6154eaa2b3588374d33503e0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0ec19c6154eaa2b3588374d33503e0a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Contracting Out
 
-### 9. Contracting out[^key-9df31f050979481634eed1f05ea73068]
+### 9. Contracting out[^c-9df31f050979481634eed1f05ea73068]
 
 (1) Any function of the Department specified in paragraph (2) may be exercised by, or by employees of, such person (if any) as may be authorised by the Department.
 
@@ -140,12 +140,12 @@ The Department may determine that a requirement as to the time at or by which wo
   - (ii) regulation 5 (notification of work-related activity and action plans);
   - (iii) regulation 6 (requirement to undertake work-related activity not to apply);
   - (iv) regulation 7 (reconsideration of action plans);
-- (b) any function under regulation 64(1)(c) and (1A)(b)[^key-a60cd076d6445bdc5cb49d5ea44a8486] [^f00004] of the Employment and Support Allowance Regulations (cessation of reduction).
-- (c)[^key-e961d91eb224ee8935394abaf2d05df8] any function relating to a compliance condition under regulation 63(11) (compliance condition: notifications and agreements).
+- (b) any function under regulation 64(1)(c) and (1A)(b)[^c-a60cd076d6445bdc5cb49d5ea44a8486] [^f00004] of the Employment and Support Allowance Regulations (cessation of reduction).
+- (c)[^c-e961d91eb224ee8935394abaf2d05df8] any function relating to a compliance condition under regulation 63(11) (compliance condition: notifications and agreements).
 
 ## PART 4 — Amendment of the Employment and Support Allowance Regulations
 
-### 10. Amendment of the Employment and Support Allowance Regulations[^key-23ffc8200cfd7ff67897f47a79a68615]
+### 10. Amendment of the Employment and Support Allowance Regulations[^c-23ffc8200cfd7ff67897f47a79a68615]
 
 (1) The Employment and Support Allowance Regulations are amended in accordance with paragraphs (2) to (11).
 
@@ -233,7 +233,7 @@ The Department may determine that a requirement as to the time at or by which wo
 
 ## PART 5 — Consequential Amendment and Revocations
 
-### 11. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-b6fbd1d5960562423bee237bd81de776]
+### 11. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-b6fbd1d5960562423bee237bd81de776]
 
 In regulation 1(2) of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00005] (interpretation), for the definition of “failure determination” substitute—
 
@@ -241,7 +241,7 @@ In regulation 1(2) of the Social Security and Child Support (Decisions and Appea
 
 .
 
-### 12. Revocations[^key-91106c48857822b416d1e6b1bd416fef]
+### 12. Revocations[^c-91106c48857822b416d1e6b1bd416fef]
 
 Regulations 9(11), (13) and (14) of the Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010[^f00006] are revoked.
 
@@ -289,48 +289,48 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: [2007 c. 2](https://www.legislation.gov.uk/nia/2007/2); sections 12(1), 13 and 15 were amended respectively by sections 3(3) and (4) and 10 of the Welfare Reform Act (Northern Ireland) [2010 (c.13 (N.I.)](https://www.legislation.gov.uk/nia/2010/13))
 
-[^key-14c8f9878921be4f9f7c6655756e4d63]: Commencement: Reg. 1 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-14c8f9878921be4f9f7c6655756e4d63]: Commencement: Reg. 1 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-b2c72a896529a1a94adb22baf30b6deb]: Commencement: Reg. 2 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-b2c72a896529a1a94adb22baf30b6deb]: Commencement: Reg. 2 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-779de597451f9e77d003a40dfd1d2de5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/265/regulation/2/1) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/46/2)
+[^c-779de597451f9e77d003a40dfd1d2de5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/265/regulation/2/1) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/46/2)
 
 [^f00003]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
-[^key-8b16d10fd1035a07c337fa28c82830e9]: Commencement: Reg. 3 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-8b16d10fd1035a07c337fa28c82830e9]: Commencement: Reg. 3 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-3ef63e24d352ea9b37388a2cabbb9b4f]: Textual amendment: Word in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2011/265/regulation/3/2/b) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations (Northern Ireland) 2017 (S.R. 2017/18)](https://www.legislation.gov.uk/nisr/2017/18), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/18/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2017/18/regulation/15)
+[^c-3ef63e24d352ea9b37388a2cabbb9b4f]: Textual amendment: Word in [reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2011/265/regulation/3/2/b) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Income Support (Work-Related Activity) and Miscellaneous Amendments Regulations (Northern Ireland) 2017 (S.R. 2017/18)](https://www.legislation.gov.uk/nisr/2017/18), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/18/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2017/18/regulation/15)
 
-[^key-c8f858ae52e2cabcc0a185c2592bc6a9]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2011/265/regulation/3/2/c) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [46(3)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/46/3/a)
+[^c-c8f858ae52e2cabcc0a185c2592bc6a9]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2011/265/regulation/3/2/c) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [46(3)(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/46/3/a)
 
-[^key-92ab5fedb51bba3e0e0b7c3aa6d00fe1]: Textual amendment: [Reg. 3(2)(ca)](https://www.legislation.gov.uk/nisr/2011/265/regulation/3/2/ca) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/46/3/b)
+[^c-92ab5fedb51bba3e0e0b7c3aa6d00fe1]: Textual amendment: [Reg. 3(2)(ca)](https://www.legislation.gov.uk/nisr/2011/265/regulation/3/2/ca) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [46(3)(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/46/3/b)
 
-[^key-5aca9db360c03ffcb0456c764e4bec87]: Commencement: Reg. 4 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-5aca9db360c03ffcb0456c764e4bec87]: Commencement: Reg. 4 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-6285349233652ff1ec74085c10330581]: Commencement: Reg. 5 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-6285349233652ff1ec74085c10330581]: Commencement: Reg. 5 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-17d94516130d5e02b31e7d180768ffb7]: Commencement: Reg. 6 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-17d94516130d5e02b31e7d180768ffb7]: Commencement: Reg. 6 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-7f1d3c3dc75cb4aeff90b6e0aa5c56a5]: Commencement: Reg. 7 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-7f1d3c3dc75cb4aeff90b6e0aa5c56a5]: Commencement: Reg. 7 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-dc5a8aac18e526429597b21691058090]: Commencement: Reg. 8 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-dc5a8aac18e526429597b21691058090]: Commencement: Reg. 8 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-0ec19c6154eaa2b3588374d33503e0a9]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2011/265/regulation/8/3) omitted (coming into force in accordance with reg. 1(1) of the amending Rule) by virtue of [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
+[^c-0ec19c6154eaa2b3588374d33503e0a9]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/nisr/2011/265/regulation/8/3) omitted (coming into force in accordance with reg. 1(1) of the amending Rule) by virtue of [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/7/2) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
 
-[^key-9df31f050979481634eed1f05ea73068]: Commencement: Reg. 9 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-9df31f050979481634eed1f05ea73068]: Commencement: Reg. 9 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-a60cd076d6445bdc5cb49d5ea44a8486]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2011/265/regulation/9/2/b) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/nisr/2016/240/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
+[^c-a60cd076d6445bdc5cb49d5ea44a8486]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/nisr/2011/265/regulation/9/2/b) substituted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/nisr/2016/240/regulation/7/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
 
 [^f00004]: Footnote: Regulation 64(1) is substituted and paragraph (1A) is added by regulation 11(8) of these Regulations
 
-[^key-e961d91eb224ee8935394abaf2d05df8]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/nisr/2011/265/regulation/9/2/c) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/nisr/2016/240/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
+[^c-e961d91eb224ee8935394abaf2d05df8]: Textual amendment: [Reg. 9(2)(c)](https://www.legislation.gov.uk/nisr/2011/265/regulation/9/2/c) inserted (coming into force in accordance with reg. 1(1) of the amending Rule) by [The Employment and Support Allowance (Sanctions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/240)](https://www.legislation.gov.uk/nisr/2016/240), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/nisr/2016/240/regulation/7/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/240/regulation/1/2))
 
-[^key-23ffc8200cfd7ff67897f47a79a68615]: Commencement: Reg. 10 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-23ffc8200cfd7ff67897f47a79a68615]: Commencement: Reg. 10 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
-[^key-b6fbd1d5960562423bee237bd81de776]: Commencement: Reg. 11 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-b6fbd1d5960562423bee237bd81de776]: Commencement: Reg. 11 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); the definition of “failure determination” was inserted by regulation 22(2)(d) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-91106c48857822b416d1e6b1bd416fef]: Commencement: Reg. 12 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
+[^c-91106c48857822b416d1e6b1bd416fef]: Commencement: Reg. 12 in operation at 12.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2010 No. 200](https://www.legislation.gov.uk/nisr/2010/200)

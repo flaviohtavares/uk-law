@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84A. Power to direct specified action not to be taken[^key-91f29a48479780a4982deacb9637e78b]
+## 84A. Power to direct specified action not to be taken[^c-91f29a48479780a4982deacb9637e78b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91f29a48479780a4982deacb9637e78b]: Textual amendment: S. 84A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/6/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)
+[^c-91f29a48479780a4982deacb9637e78b]: Textual amendment: S. 84A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/6/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/e)

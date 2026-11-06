@@ -31,7 +31,7 @@ summary: ''
 
 Diplomatic Service
 
-The Consular Fees (Amendment) Order 2011 (revoked)[^key-b449aea86f65612a5ed21e2ebdb3515d]
+The Consular Fees (Amendment) Order 2011 (revoked)[^c-b449aea86f65612a5ed21e2ebdb3515d]
 
 Made
 
@@ -47,22 +47,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b449aea86f65612a5ed21e2ebdb3515d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b449aea86f65612a5ed21e2ebdb3515d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-b449aea86f65612a5ed21e2ebdb3515d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b449aea86f65612a5ed21e2ebdb3515d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b449aea86f65612a5ed21e2ebdb3515d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b449aea86f65612a5ed21e2ebdb3515d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b449aea86f65612a5ed21e2ebdb3515d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b449aea86f65612a5ed21e2ebdb3515d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b449aea86f65612a5ed21e2ebdb3515d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b449aea86f65612a5ed21e2ebdb3515d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b449aea86f65612a5ed21e2ebdb3515d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b449aea86f65612a5ed21e2ebdb3515d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b449aea86f65612a5ed21e2ebdb3515d]: Textual amendment: Order revoked (6.4.2012) by [The Consular Fees Order 2012 (S.I. 2012/798)](https://www.legislation.gov.uk/uksi/2012/798), [art. 1](https://www.legislation.gov.uk/uksi/2012/798/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/798/schedule/2)
+[^c-b449aea86f65612a5ed21e2ebdb3515d]: Textual amendment: Order revoked (6.4.2012) by [The Consular Fees Order 2012 (S.I. 2012/798)](https://www.legislation.gov.uk/uksi/2012/798), [art. 1](https://www.legislation.gov.uk/uksi/2012/798/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/798/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B.[^key-f37459228d3036f1c6cc3b52d6cec5fb]
+## 2B.[^c-f37459228d3036f1c6cc3b52d6cec5fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations have effect subject to the Northern Ireland Regulations 2020 w
 
 ## Annotations
 
-[^key-f37459228d3036f1c6cc3b52d6cec5fb]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2010/593/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2010/593/regulation/2B) inserted (31.12.2020) by [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/13/regulation/6) (with [reg. 44](https://www.legislation.gov.uk/uksi/2019/13/regulation/44)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2); [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1559/regulation/84)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-f37459228d3036f1c6cc3b52d6cec5fb]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/2010/593/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/2010/593/regulation/2B) inserted (31.12.2020) by [The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/13)](https://www.legislation.gov.uk/uksi/2019/13), [regs. 1](https://www.legislation.gov.uk/uksi/2019/13/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/13/regulation/6) (with [reg. 44](https://www.legislation.gov.uk/uksi/2019/13/regulation/44)) (as amended by [S.I. 2020/1494](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1494/regulation/2); [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2), [84](https://www.legislation.gov.uk/uksi/2020/1559/regulation/84)); [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)

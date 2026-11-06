@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Expiry review[^key-31f25f135e23f55cc2655032b4ca91db]
+## 70. Expiry review[^c-31f25f135e23f55cc2655032b4ca91db]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 (8) Where the goods subject to review are subject to an anti-dumping amount or a countervailing amount, the TRA must have regard to the current and prospective impact of the anti-dumping amount or countervailing amount when making a determination regarding the future application of an anti-dumping or a countervailing amount.
 
-(9) Where an application for an expiry review has been made in accordance with this regulation, an anti-dumping amount or a countervailing amount which applies to the goods subject to review is to be treated as continuing (where it would otherwise cease to do so) until the TRA has made a determination in accordance with paragraph (11)(a) or the Secretary of State has accepted or rejected the TRA's recommendation in accordance with regulation 76 (powers of the Secretary of State in relation to the TRA’s recommendation) or made a decision under regulation 76A (Secretary of State’s power to apply an alternative remedy)[^key-d4d6b9322cf494eb20a7e34c955f6ecf].
+(9) Where an application for an expiry review has been made in accordance with this regulation, an anti-dumping amount or a countervailing amount which applies to the goods subject to review is to be treated as continuing (where it would otherwise cease to do so) until the TRA has made a determination in accordance with paragraph (11)(a) or the Secretary of State has accepted or rejected the TRA's recommendation in accordance with regulation 76 (powers of the Secretary of State in relation to the TRA’s recommendation) or made a decision under regulation 76A (Secretary of State’s power to apply an alternative remedy)[^c-d4d6b9322cf494eb20a7e34c955f6ecf].
 
 (10) In order to extend the application of an anti-dumping amount or a countervailing amount pursuant to paragraph (9), the Secretary of State must make a public notice under section 13 of the Act on initiation of the expiry review.
 
@@ -59,7 +59,7 @@ summary: ''
 - (b) the application of the relevant anti-dumping amount or countervailing amount at the same level to some or all of the goods subject to review should be extended by a period of no more than five years; or
 - (c) the application of the relevant anti-dumping amount or countervailing amount at a different level to some or all of the goods subject to review should be extended by a period of no more than five years.
 
-(11A)[^key-2a6442f4d1c51cf35328cad76bbd4049] Where the TRA proposes to make a determination under paragraph (11)(a) the TRA must notify the Secretary of State of its proposed determination.
+(11A)[^c-2a6442f4d1c51cf35328cad76bbd4049] Where the TRA proposes to make a determination under paragraph (11)(a) the TRA must notify the Secretary of State of its proposed determination.
 
 (11B) Where the Secretary of State has been notified in accordance with paragraph (11A), the Secretary of State may, within the relevant period (and subject to paragraph (11C)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -83,14 +83,14 @@ summary: ''
 - (a) the Secretary of State must provide by public notice for the application of the relevant anti-dumping amount or countervailing amount to be treated as having ended on the original expiry date; and
 - (b) a public notice under sub-paragraph (a) must contain the information set out in paragraph 1A of Schedule 3.
 
-(12) Where the TRA determines that the application of an anti-dumping amount or a countervailing amount be extended in accordance with this regulation, it must conduct[^key-bcb07c865d848f48cc470751f246207a] the economic interest test (see paragraph 25 of Schedule 4 to the Act).
+(12) Where the TRA determines that the application of an anti-dumping amount or a countervailing amount be extended in accordance with this regulation, it must conduct[^c-bcb07c865d848f48cc470751f246207a] the economic interest test (see paragraph 25 of Schedule 4 to the Act).
 
 ## Annotations
 
-[^key-31f25f135e23f55cc2655032b4ca91db]: Commencement: Reg. 70 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-31f25f135e23f55cc2655032b4ca91db]: Commencement: Reg. 70 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-d4d6b9322cf494eb20a7e34c955f6ecf]: Textual amendment: Words in [reg. 70(9)](https://www.legislation.gov.uk/uksi/2019/450/regulation/70/9) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/12/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-d4d6b9322cf494eb20a7e34c955f6ecf]: Textual amendment: Words in [reg. 70(9)](https://www.legislation.gov.uk/uksi/2019/450/regulation/70/9) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/12/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-2a6442f4d1c51cf35328cad76bbd4049]: Textual amendment: [Reg. 70(11A)-(11G)](https://www.legislation.gov.uk/uksi/2019/450/regulation/70/11A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/12/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-2a6442f4d1c51cf35328cad76bbd4049]: Textual amendment: [Reg. 70(11A)-(11G)](https://www.legislation.gov.uk/uksi/2019/450/regulation/70/11A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/12/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-bcb07c865d848f48cc470751f246207a]: Textual amendment: Words in [reg. 70(12)](https://www.legislation.gov.uk/uksi/2019/450/regulation/70/12) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/545/regulation/12/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-bcb07c865d848f48cc470751f246207a]: Textual amendment: Words in [reg. 70(12)](https://www.legislation.gov.uk/uksi/2019/450/regulation/70/12) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/545/regulation/12/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

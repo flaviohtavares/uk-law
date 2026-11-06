@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Revocation, transitional and saving provisions[^key-826828ab02ac37b0d75a10c693da9532]
+## 53. Revocation, transitional and saving provisions[^c-826828ab02ac37b0d75a10c693da9532]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-826828ab02ac37b0d75a10c693da9532]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2017/544/regulation/53) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-826828ab02ac37b0d75a10c693da9532]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2017/544/regulation/53) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

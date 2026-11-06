@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45H. Certificate of anonymous registration prescribed for purposes of paragraph 10(2) of Schedule 2A[^key-01a6dd6b28104390c47d95a51e2cce2d]
+## 45H. Certificate of anonymous registration prescribed for purposes of paragraph 10(2) of Schedule 2A[^c-01a6dd6b28104390c47d95a51e2cce2d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01a6dd6b28104390c47d95a51e2cce2d]: Textual amendment: Reg. 45H revoked (15.9.2014) by [The Donations to Candidates (Anonymous Registration) Regulations 2014 (S.I. 2014/1805)](https://www.legislation.gov.uk/uksi/2014/1805), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/3/a)
+[^c-01a6dd6b28104390c47d95a51e2cce2d]: Textual amendment: Reg. 45H revoked (15.9.2014) by [The Donations to Candidates (Anonymous Registration) Regulations 2014 (S.I. 2014/1805)](https://www.legislation.gov.uk/uksi/2014/1805), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2014/1805/regulation/3/a)

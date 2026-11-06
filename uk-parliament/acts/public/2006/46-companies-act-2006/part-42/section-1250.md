@@ -37,10 +37,10 @@ he knowingly or recklessly furnishes information which is misleading, false or d
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine (or both);
 - (b) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c27a99b6cdcbc090b3d913235b3293df] or to a fine not exceeding the statutory maximum (or both),
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-c27a99b6cdcbc090b3d913235b3293df] or to a fine not exceeding the statutory maximum (or both),
   - (ii) in Scotland or Northern Ireland, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum (or both).
 
-In relation to an offence committed before 2 May 2022[^key-d3abdd31e05ad7f48c97dd99cb0e3bfd], for “twelve months” in paragraph (b)(i) substitute “six months”.
+In relation to an offence committed before 2 May 2022[^c-d3abdd31e05ad7f48c97dd99cb0e3bfd], for “twelve months” in paragraph (b)(i) substitute “six months”.
 
 (6) Subject to subsection (7), a person guilty of an offence under subsection (2), (3) or (4) is liable on summary conviction—
 
@@ -55,6 +55,6 @@ In relation to an offence committed before the commencement of section 281(5) of
 
 ## Annotations
 
-[^key-c27a99b6cdcbc090b3d913235b3293df]: Textual amendment: Words in [s. 1250(5)](https://www.legislation.gov.uk/ukpga/2006/46/section/1250/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-c27a99b6cdcbc090b3d913235b3293df]: Textual amendment: Words in [s. 1250(5)](https://www.legislation.gov.uk/ukpga/2006/46/section/1250/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-d3abdd31e05ad7f48c97dd99cb0e3bfd]: Textual amendment: Words in [s. 1250(5)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1250/5/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-d3abdd31e05ad7f48c97dd99cb0e3bfd]: Textual amendment: Words in [s. 1250(5)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1250/5/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

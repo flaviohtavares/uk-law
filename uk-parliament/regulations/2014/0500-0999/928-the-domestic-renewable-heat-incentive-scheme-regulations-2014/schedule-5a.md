@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5A — New tariffs[^key-e5be9a6f9f86bd0c729bcc64236c23c6]
+## SCHEDULE 5A — New tariffs[^c-e5be9a6f9f86bd0c729bcc64236c23c6]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Table 1
 
 ## Annotations
 
-[^key-e5be9a6f9f86bd0c729bcc64236c23c6]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/uksi/2014/928/schedule/5A) inserted (20.9.2017) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2017 (S.I. 2017/857)](https://www.legislation.gov.uk/uksi/2017/857), [regs. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1), [19](https://www.legislation.gov.uk/uksi/2017/857/regulation/19)
+[^c-e5be9a6f9f86bd0c729bcc64236c23c6]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/uksi/2014/928/schedule/5A) inserted (20.9.2017) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) (No. 2) Regulations 2017 (S.I. 2017/857)](https://www.legislation.gov.uk/uksi/2017/857), [regs. 1](https://www.legislation.gov.uk/uksi/2017/857/regulation/1), [19](https://www.legislation.gov.uk/uksi/2017/857/regulation/19)

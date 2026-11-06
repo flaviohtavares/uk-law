@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Interpretation[^key-a38d1360beb151f851f761a219b5cbac]
+## 155. Interpretation[^c-a38d1360beb151f851f761a219b5cbac]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38d1360beb151f851f761a219b5cbac]: Textual amendment: [Pt. 20](https://www.legislation.gov.uk/uksi/2009/2041/part/20) revoked (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-a38d1360beb151f851f761a219b5cbac]: Textual amendment: [Pt. 20](https://www.legislation.gov.uk/uksi/2009/2041/part/20) revoked (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)

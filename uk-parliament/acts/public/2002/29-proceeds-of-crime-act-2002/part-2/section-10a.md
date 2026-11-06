@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Determination of extent of defendant's interest in property[^key-c8e3096a7ed9cac58ab14a3696e7e0ee]
+## 10A. Determination of extent of defendant's interest in property[^c-c8e3096a7ed9cac58ab14a3696e7e0ee]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ the court may, if it thinks it appropriate to do so, determine the extent (at th
 
 (3) A determination under this section is conclusive in relation to any question as to the extent of the defendant's interest in the property that arises in connection with—
 
-- (a) the realisation or destruction[^key-272cdfb8a71b7fe5fe5362a9847ba06a] of the property, or the transfer of an interest in the property, with a view to satisfying the confiscation order, or
+- (a) the realisation or destruction[^c-272cdfb8a71b7fe5fe5362a9847ba06a] of the property, or the transfer of an interest in the property, with a view to satisfying the confiscation order, or
 - (b) any action or proceedings taken for the purposes of any such realisation or transfer.
 
 (4) Subsection (3)—
@@ -43,6 +43,6 @@ the court may, if it thinks it appropriate to do so, determine the extent (at th
 
 ## Annotations
 
-[^key-c8e3096a7ed9cac58ab14a3696e7e0ee]: Textual amendment: S. 10A inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/9/section/1), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)
+[^c-c8e3096a7ed9cac58ab14a3696e7e0ee]: Textual amendment: S. 10A inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/9/section/1), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)
 
-[^key-272cdfb8a71b7fe5fe5362a9847ba06a]: Textual amendment: Words in [s. 10A(3)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/10A/3/a) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/9); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)
+[^c-272cdfb8a71b7fe5fe5362a9847ba06a]: Textual amendment: Words in [s. 10A(3)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/10A/3/a) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/9); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/a)

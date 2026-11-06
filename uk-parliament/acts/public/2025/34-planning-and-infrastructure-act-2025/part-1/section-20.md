@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Variation of consents etc[^key-5abb6bae5cf3e4d16731e6881672d877][^key-86c62682de356eb5b4e9b00bf82a85e7]
+## 20. Variation of consents etc[^c-5abb6bae5cf3e4d16731e6881672d877][^c-86c62682de356eb5b4e9b00bf82a85e7]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ After section 37 of the Electricity Act 1989 insert—
 
 ## Annotations
 
-[^key-5abb6bae5cf3e4d16731e6881672d877]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 118(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/h)
+[^c-5abb6bae5cf3e4d16731e6881672d877]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 118(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/h)
 
-[^key-86c62682de356eb5b4e9b00bf82a85e7]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/34/section/20) in force at 18.2.2026 in so far as not already in force, see [s. 118(1)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/h)
+[^c-86c62682de356eb5b4e9b00bf82a85e7]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/34/section/20) in force at 18.2.2026 in so far as not already in force, see [s. 118(1)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/h)

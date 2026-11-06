@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — Workforce tests[^key-1727cc7e9b7deeb37438179fa5ee3643]
+## SCHEDULE 9 — Workforce tests[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 7(5)
 
-### 1. Interpretation of this Schedule[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 1. Interpretation of this Schedule[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Requirement after failure to undertake test[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 2. Requirement after failure to undertake test[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Consequences of test results[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 3. Consequences of test results[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Duties on employers[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 4. Duties on employers[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)
+[^c-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)

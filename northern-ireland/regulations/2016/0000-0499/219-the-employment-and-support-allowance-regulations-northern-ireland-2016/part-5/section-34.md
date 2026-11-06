@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Failure to provide information in relation to work-related activity[^key-faa3bceae445db05d148af96a7bae73f]
+## 34. Failure to provide information in relation to work-related activity[^c-faa3bceae445db05d148af96a7bae73f]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa3bceae445db05d148af96a7bae73f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/219/regulation/34) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-faa3bceae445db05d148af96a7bae73f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2016/219/regulation/34) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

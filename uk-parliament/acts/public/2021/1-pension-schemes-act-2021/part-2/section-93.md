@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Prohibition on winding up except in accordance with continuity option 1[^c24481181][^key-bfe105671eafe1c2e04b3c908adde0ff]
+## 93. Prohibition on winding up except in accordance with continuity option 1[^c24481181][^c-bfe105671eafe1c2e04b3c908adde0ff]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c24481181]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2021/1/section/93) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-bfe105671eafe1c2e04b3c908adde0ff]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2021/1/section/93) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-bfe105671eafe1c2e04b3c908adde0ff]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2021/1/section/93) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

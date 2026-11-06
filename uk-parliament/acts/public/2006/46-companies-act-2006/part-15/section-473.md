@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 473. Parliamentary procedure for certain regulations under this Part[^c19899841][^c18940371][^c20617591][^key-370d1f175a1ca0acb67c0d1bc39077e0]
+## 473. Parliamentary procedure for certain regulations under this Part[^c19899841][^c18940371][^c20617591][^c-370d1f175a1ca0acb67c0d1bc39077e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - section 412 (information about directors' benefits: remuneration, pensions and compensation for loss of office),
 - section 416 (contents of directors' report: general),
 - section 421 (contents of directors' remuneration report),
-- section 444 (filing obligations of companies subject to small companies regime), *(affected by repeal, see note)*[^key-96eaed022e53f0ec0baf38f922c06a9d]
+- section 444 (filing obligations of companies subject to small companies regime), *(affected by repeal, see note)*[^c-96eaed022e53f0ec0baf38f922c06a9d]
 - section 445 (filing obligations of medium-sized companies),
 - section 468 (general power to make further provision about accounts and reports).
 
@@ -52,6 +52,6 @@ are subject to affirmative resolution procedure.
 
 [^c20617591]: Modification: Ss. 471-474 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-370d1f175a1ca0acb67c0d1bc39077e0]: Modification: Ss. 471-474 applied (with modifications) (1.10.2009) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2)) (and the said Sch. 1 para. 10 is amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
+[^c-370d1f175a1ca0acb67c0d1bc39077e0]: Modification: Ss. 471-474 applied (with modifications) (1.10.2009) by [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2)) (and the said Sch. 1 para. 10 is amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a))
 
-[^key-96eaed022e53f0ec0baf38f922c06a9d]: Textual amendment: Words in [s. 473(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/473/1) omitted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 55(7)](https://www.legislation.gov.uk/ukpga/2023/56/section/55/7), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-96eaed022e53f0ec0baf38f922c06a9d]: Textual amendment: Words in [s. 473(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/473/1) omitted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 55(7)](https://www.legislation.gov.uk/ukpga/2023/56/section/55/7), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

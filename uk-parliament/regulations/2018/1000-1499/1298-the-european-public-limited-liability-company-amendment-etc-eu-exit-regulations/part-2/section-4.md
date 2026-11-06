@@ -24,7 +24,7 @@ In regulation 3 (interpretation) [^c23528641]—
 
 - (a) in paragraph (1)—
   - (i) in the definition of “SE”—
-    - (aa) after “EC Regulation [^c23528651]” insert “ , as it had effect immediately before IP completion day[^key-98b3381b27e27a455cf3f2347caa912e], ”;
+    - (aa) after “EC Regulation [^c23528651]” insert “ , as it had effect immediately before IP completion day[^c-98b3381b27e27a455cf3f2347caa912e], ”;
     - (bb) omit “which is to be, or is,”;
   - (ii) after the definition of “SE”, insert—
 
@@ -43,4 +43,4 @@ In regulation 3 (interpretation) [^c23528641]—
 
 [^c23528651]: Marginal citation: OJ L No. 294, 10.11.2001, p.1.
 
-[^key-98b3381b27e27a455cf3f2347caa912e]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/4/a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/a)
+[^c-98b3381b27e27a455cf3f2347caa912e]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/4/a) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/a)

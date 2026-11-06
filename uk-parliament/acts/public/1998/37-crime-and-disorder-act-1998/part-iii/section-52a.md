@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Restrictions on reporting[^key-8c2ade2828ae29922b05a3c8498d2944]
+## 52A. Restrictions on reporting[^c-8c2ade2828ae29922b05a3c8498d2944]
 
 *Extent: E+W+S*
 
@@ -29,9 +29,9 @@ if (in either case) the report contains any matter other than that permitted by 
 
 (2) Subject to subsections (3) and (4) below, a magistrates' court may, with reference to any allocation or sending proceedings, order that subsection (1) above shall not apply to reports of those proceedings.
 
-(3) Where there is only one accused and he objects to the making of an order under subsection (2) above, the court shall make the order if, and only if, it is satisfied, after considering[^key-f864efa799912029c43d60e7f27fbb3f] the representations of the accused, that it is in the interests of justice to do so.
+(3) Where there is only one accused and he objects to the making of an order under subsection (2) above, the court shall make the order if, and only if, it is satisfied, after considering[^c-f864efa799912029c43d60e7f27fbb3f] the representations of the accused, that it is in the interests of justice to do so.
 
-(4) Where in the case of two or more accused one of them objects to the making of an order under subsection (2) above, the court shall make the order if, and only if, it is satisfied, after considering[^key-6d1936d0e9deb0329ffef1810c94b1fc] the representations of the accused, that it is in the interests of justice to do so.
+(4) Where in the case of two or more accused one of them objects to the making of an order under subsection (2) above, the court shall make the order if, and only if, it is satisfied, after considering[^c-6d1936d0e9deb0329ffef1810c94b1fc] the representations of the accused, that it is in the interests of justice to do so.
 
 (5) An order under subsection (2) above shall not apply to reports of proceedings under subsection (3) or (4) above, but any decision of the court to make or not to make such an order may be contained in reports published or included in a relevant programme before the time authorised by subsection (6) below.
 
@@ -49,7 +49,7 @@ if (in either case) the report contains any matter other than that permitted by 
 - (e) the names of counsel and solicitors engaged in the proceedings;
 - (f) where the proceedings are adjourned, the date and place to which they are adjourned;
 - (g) the arrangements as to bail;
-- (h)[^key-b6283e2d1565e0018dbb6a3ef67d446d] whether, for the purposes of the proceedings, representation was provided to the accused or any of the accused under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
+- (h)[^c-b6283e2d1565e0018dbb6a3ef67d446d] whether, for the purposes of the proceedings, representation was provided to the accused or any of the accused under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
 (8) The addresses that may be published or included in a relevant programme under subsection (7) above are addresses—
 
@@ -84,10 +84,10 @@ and here “**engaged**” means engaged under a contract of service or a contra
 
 ## Annotations
 
-[^key-8c2ade2828ae29922b05a3c8498d2944]: Textual amendment: Ss. 52A, 52B inserted (18.6.2012 for E.W.S. except for the insertion of s. 52B(4)) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/19/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iii)
+[^c-8c2ade2828ae29922b05a3c8498d2944]: Textual amendment: Ss. 52A, 52B inserted (18.6.2012 for E.W.S. except for the insertion of s. 52B(4)) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/19/1); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iii)
 
-[^key-f864efa799912029c43d60e7f27fbb3f]: Textual amendment: Word in s. 52A(3) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/5/a), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-f864efa799912029c43d60e7f27fbb3f]: Textual amendment: Word in s. 52A(3) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/5/a), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-6d1936d0e9deb0329ffef1810c94b1fc]: Textual amendment: Word in s. 52A(4) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/5/a), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-6d1936d0e9deb0329ffef1810c94b1fc]: Textual amendment: Word in s. 52A(4) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 15(5)(a)](https://www.legislation.gov.uk/ukpga/2022/35/section/15/5/a), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-b6283e2d1565e0018dbb6a3ef67d446d]: Textual amendment: S. 52A(7)(h) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/49); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-b6283e2d1565e0018dbb6a3ef67d446d]: Textual amendment: S. 52A(7)(h) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/49); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

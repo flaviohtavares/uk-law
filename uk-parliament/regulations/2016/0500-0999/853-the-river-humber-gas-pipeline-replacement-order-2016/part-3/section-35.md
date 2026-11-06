@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Time limit for exercise of authority to acquire land compulsorily[^key-60650e670002a0616b42f6fdeedfbaa7]
+## 35. Time limit for exercise of authority to acquire land compulsorily[^c-60650e670002a0616b42f6fdeedfbaa7]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60650e670002a0616b42f6fdeedfbaa7]: Commencement: Art. 35 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-60650e670002a0616b42f6fdeedfbaa7]: Commencement: Art. 35 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

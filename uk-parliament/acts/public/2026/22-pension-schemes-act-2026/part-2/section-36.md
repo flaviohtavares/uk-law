@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Interpretation of Chapter[^key-2ad2ef056c47564f97c726fb44cd5d14]
+## 36. Interpretation of Chapter[^c-2ad2ef056c47564f97c726fb44cd5d14]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad2ef056c47564f97c726fb44cd5d14]: Commencement: S. 36 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-2ad2ef056c47564f97c726fb44cd5d14]: Commencement: S. 36 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.54. When this Section applies[^key-6723243813a139fe0ce4e158e8aae8f5]
+## 47.54. When this Section applies[^c-6723243813a139fe0ce4e158e8aae8f5]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ This Section applies where the Crown Court can order a person to give the Crimin
 
 ## Annotations
 
-[^key-6723243813a139fe0ce4e158e8aae8f5]: Commencement: Rule 47.54 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6723243813a139fe0ce4e158e8aae8f5]: Commencement: Rule 47.54 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01263]: Footnote: [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35); section 18A was inserted by section 1 of the Criminal Cases Review Commission (Information) Act [2016 (c. 17)](https://www.legislation.gov.uk/ukpga/2016/17).

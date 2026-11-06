@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71D. Calculation of an extended payment (qualifying contributory benefits) where the benefit cap applies[^key-bd8c8526aa2561bcc23e89ef64b2d582]
+## 71D. Calculation of an extended payment (qualifying contributory benefits) where the benefit cap applies[^c-bd8c8526aa2561bcc23e89ef64b2d582]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant’s housing benefit in the benefit week with respect to which t
 
 ## Annotations
 
-[^key-bd8c8526aa2561bcc23e89ef64b2d582]: Textual amendment: [Reg. 71D](https://www.legislation.gov.uk/nisr/2006/405/regulation/71D) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/4)
+[^c-bd8c8526aa2561bcc23e89ef64b2d582]: Textual amendment: [Reg. 71D](https://www.legislation.gov.uk/nisr/2006/405/regulation/71D) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/4)

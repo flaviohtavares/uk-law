@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.18. Record of examination[^key-0fc0c04b0b25e400b57ded3194a349cb]
+## 4.18. Record of examination[^c-0fc0c04b0b25e400b57ded3194a349cb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fc0c04b0b25e400b57ded3194a349cb]: Commencement: Rule 4.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0fc0c04b0b25e400b57ded3194a349cb]: Commencement: Rule 4.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

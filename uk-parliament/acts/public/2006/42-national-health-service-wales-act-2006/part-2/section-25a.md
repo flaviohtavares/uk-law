@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25A. Duty to have regard to providing sufficient nurses[^key-671c9232ef674b2c90129bdc32090e70]
+## 25A. Duty to have regard to providing sufficient nurses[^c-671c9232ef674b2c90129bdc32090e70]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-671c9232ef674b2c90129bdc32090e70]: Textual amendment: Ss. 25A-25E and cross-headings inserted (3.8.2016 for the insertion of s. 25D, 6.4.2017 for the insertion of s. 25A, 6.4.2018 in so far as not already in force) by [Nurse Staffing Levels (Wales) Act 2016 (anaw 5)](https://www.legislation.gov.uk/anaw/2016/5), [ss. 1(1)](https://www.legislation.gov.uk/anaw/2016/5/section/1/1), [2(1)](https://www.legislation.gov.uk/anaw/2016/5/section/2/1); [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/829/article/2/a)[(b)](https://www.legislation.gov.uk/wsi/2016/829/article/2/b)[(c)](https://www.legislation.gov.uk/wsi/2016/829/article/2/c)
+[^c-671c9232ef674b2c90129bdc32090e70]: Textual amendment: Ss. 25A-25E and cross-headings inserted (3.8.2016 for the insertion of s. 25D, 6.4.2017 for the insertion of s. 25A, 6.4.2018 in so far as not already in force) by [Nurse Staffing Levels (Wales) Act 2016 (anaw 5)](https://www.legislation.gov.uk/anaw/2016/5), [ss. 1(1)](https://www.legislation.gov.uk/anaw/2016/5/section/1/1), [2(1)](https://www.legislation.gov.uk/anaw/2016/5/section/2/1); [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/829/article/2/a)[(b)](https://www.legislation.gov.uk/wsi/2016/829/article/2/b)[(c)](https://www.legislation.gov.uk/wsi/2016/829/article/2/c)

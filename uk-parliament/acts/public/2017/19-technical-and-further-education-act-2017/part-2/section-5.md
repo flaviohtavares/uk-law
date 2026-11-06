@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Other key definitions[^key-19c0bbf770e30d5aaf94bcb0f75903c6]
+## 5. Other key definitions[^c-19c0bbf770e30d5aaf94bcb0f75903c6]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ In this Part—
 
 ## Annotations
 
-[^key-19c0bbf770e30d5aaf94bcb0f75903c6]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/19/section/5) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-19c0bbf770e30d5aaf94bcb0f75903c6]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/19/section/5) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

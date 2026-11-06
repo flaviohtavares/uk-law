@@ -24,18 +24,18 @@ Section 36
 
 ### General
 
-**1.** (1)[^key-2f2b2f2a9e4da07ed5ca3c342de005d0] Regulations may make provision for the purposes of, or in connection with, replacing existing benefits with universal credit.
+**1.** (1)[^c-2f2b2f2a9e4da07ed5ca3c342de005d0] Regulations may make provision for the purposes of, or in connection with, replacing existing benefits with universal credit.
 
 (2) In this Schedule “existing benefit“ means—
 
-- (a)[^key-ee55cb9a82b6541bcf6657150b04f20f] a benefit abolished under section 33(1);
-- (b)[^key-2f2b2f2a9e4da07ed5ca3c342de005d0] any other prescribed benefit.
+- (a)[^c-ee55cb9a82b6541bcf6657150b04f20f] a benefit abolished under section 33(1);
+- (b)[^c-2f2b2f2a9e4da07ed5ca3c342de005d0] any other prescribed benefit.
 
-(3)[^key-ee55cb9a82b6541bcf6657150b04f20f] In this Schedule “**appointed day**” means the day appointed for the coming into force of section 1.
+(3)[^c-ee55cb9a82b6541bcf6657150b04f20f] In this Schedule “**appointed day**” means the day appointed for the coming into force of section 1.
 
 ### Claims before the appointed day
 
-**2.**[^key-d44999f96d8606c29cd672b45703953e] (1) The provision referred to in paragraph 1(1) includes—
+**2.**[^c-d44999f96d8606c29cd672b45703953e] (1) The provision referred to in paragraph 1(1) includes—
 
 - (a) provision for a claim for universal credit to be made before the appointed day for a period beginning on or after that day;
 - (b) provision for a claim for universal credit made before the appointed day to be treated to any extent as a claim for an existing benefit;
@@ -45,7 +45,7 @@ Section 36
 
 ### Claims after the appointed day
 
-**3.**[^key-1da36059d29ac815a51c6a69a49b6236] (1) The provision referred to in paragraph 1(1) includes—
+**3.**[^c-1da36059d29ac815a51c6a69a49b6236] (1) The provision referred to in paragraph 1(1) includes—
 
 - (a) provision permanently or temporarily excluding the making of a claim for universal credit after the appointed day by—
   - (i) a person to whom an existing benefit is awarded, or
@@ -55,16 +55,16 @@ Section 36
 - (d) provision for a claim for universal credit made after the appointed day to be treated to any extent as a claim for an existing benefit;
 - (e) provision for a claim for an existing benefit made after the appointed day to be treated to any extent as a claim for universal credit.
 
-(2)[^key-3f6f1243c678c016084bec78b5c74b9b] The provision referred to in paragraph 1(1) includes provision, where a claim for universal credit is made (or is treated as made) after the appointed day, for an award on the claim to be made in respect of a period before the appointed day (including provision as to the conditions of entitlement for, and amount of, such an award).
+(2)[^c-3f6f1243c678c016084bec78b5c74b9b] The provision referred to in paragraph 1(1) includes provision, where a claim for universal credit is made (or is treated as made) after the appointed day, for an award on the claim to be made in respect of a period before the appointed day (including provision as to the conditions of entitlement for, and amount of, such an award).
 
 ### Awards
 
 **4.** (1) The provision referred to in paragraph 1(1) includes—
 
-- (a)[^key-268aba1807dca5df0be017b46c14bed2] provision for terminating an award of an existing benefit;
-- (b)[^key-fbb5bb7b5a37cc02933e3ad66614a92f] provision for making an award of universal credit, with or without application, to a person whose award of existing benefit is terminated.
+- (a)[^c-268aba1807dca5df0be017b46c14bed2] provision for terminating an award of an existing benefit;
+- (b)[^c-fbb5bb7b5a37cc02933e3ad66614a92f] provision for making an award of universal credit, with or without application, to a person whose award of existing benefit is terminated.
 
-(2)[^key-fbb5bb7b5a37cc02933e3ad66614a92f] The provision referred to in sub-paragraph (1)(b) includes—
+(2)[^c-fbb5bb7b5a37cc02933e3ad66614a92f] The provision referred to in sub-paragraph (1)(b) includes—
 
 - (a) provision imposing requirements as to the procedure to be followed, information to be supplied or assessments to be undergone in relation to an award by virtue of that sub-paragraph or an application for such an award;
 - (b) provision as to the consequences of failure to comply with any such requirement;
@@ -74,32 +74,32 @@ Section 36
 - (d) provision as to the amount of such an award;
 - (e) provision that fulfilment of any condition relevant to entitlement to an award of an existing benefit, or relevant to the amount of such an award, is to be treated as fulfilment of an equivalent condition in relation to universal credit.
 
-(3)[^key-fbb5bb7b5a37cc02933e3ad66614a92f] Provision under sub-paragraph (2)(d) may secure that where an award of universal credit is made by virtue of sub-paragraph (1)(b)—
+(3)[^c-fbb5bb7b5a37cc02933e3ad66614a92f] Provision under sub-paragraph (2)(d) may secure that where an award of universal credit is made by virtue of sub-paragraph (1)(b)—
 
 - (a) the amount of the award is not less than the amount to which the person would have been entitled under the terminated award, or is not less than that amount by more than a prescribed amount;
 - (b) if the person to whom it is made ceases to be entitled to universal credit for not more than a prescribed period, the gap in entitlement is disregarded in calculating the amount of any new award of universal credit.
 
 ### Work-related requirements and sanctions
 
-**5.** (1)[^key-5843d02cb6904765846be28e1f79f519] The provision referred to in paragraph 1(1) includes—
+**5.** (1)[^c-5843d02cb6904765846be28e1f79f519] The provision referred to in paragraph 1(1) includes—
 
 - (a) provision relating to the application of work-related requirements for relevant benefits;
 - (b) provision relating to the application of sanctions.
 
 (2) The provision referred to in sub-paragraph (1)(a) includes—
 
-- (a)[^key-2d0f4d4851aa2c05db51d661f1c74072] provision that a claimant commitment for a relevant benefit is to be treated as a claimant commitment for universal credit;
-- (b)[^key-2d0f4d4851aa2c05db51d661f1c74072] provision that a work-related requirement for a relevant benefit is treated as a work-related requirement for universal credit;
-- (c)[^key-5843d02cb6904765846be28e1f79f519] provision for anything done which is relevant to compliance with a work-related requirement for a relevant benefit to be treated as done for the purposes of compliance with a work-related requirement for universal credit;
-- (d)[^key-5843d02cb6904765846be28e1f79f519] provision temporarily disapplying any provision of this Part in relation to work-related requirements for universal credit.
+- (a)[^c-2d0f4d4851aa2c05db51d661f1c74072] provision that a claimant commitment for a relevant benefit is to be treated as a claimant commitment for universal credit;
+- (b)[^c-2d0f4d4851aa2c05db51d661f1c74072] provision that a work-related requirement for a relevant benefit is treated as a work-related requirement for universal credit;
+- (c)[^c-5843d02cb6904765846be28e1f79f519] provision for anything done which is relevant to compliance with a work-related requirement for a relevant benefit to be treated as done for the purposes of compliance with a work-related requirement for universal credit;
+- (d)[^c-5843d02cb6904765846be28e1f79f519] provision temporarily disapplying any provision of this Part in relation to work-related requirements for universal credit.
 
 (3) The provision referred to in sub-paragraph (1)(b) includes—
 
-- (a)[^key-5843d02cb6904765846be28e1f79f519] provision for a sanction relevant to an award of a relevant benefit to be applied to an award of universal credit;
-- (b)[^key-2d0f4d4851aa2c05db51d661f1c74072] provision for anything done which is relevant to the application of a sanction for a relevant benefit to be treated as done for the purposes of the application of a sanction for universal credit;
-- (c)[^key-2d0f4d4851aa2c05db51d661f1c74072] provision temporarily disapplying any provision of this Part in relation to the application of sanctions.
+- (a)[^c-5843d02cb6904765846be28e1f79f519] provision for a sanction relevant to an award of a relevant benefit to be applied to an award of universal credit;
+- (b)[^c-2d0f4d4851aa2c05db51d661f1c74072] provision for anything done which is relevant to the application of a sanction for a relevant benefit to be treated as done for the purposes of the application of a sanction for universal credit;
+- (c)[^c-2d0f4d4851aa2c05db51d661f1c74072] provision temporarily disapplying any provision of this Part in relation to the application of sanctions.
 
-(4)[^key-2d0f4d4851aa2c05db51d661f1c74072] In this paragraph—
+(4)[^c-2d0f4d4851aa2c05db51d661f1c74072] In this paragraph—
 
 - “**relevant benefit**” means—
   - (a) jobseeker's allowance,
@@ -128,35 +128,35 @@ Section 36
 
 ### Tax credits
 
-**6.**[^key-e3f4215614974f8f0a180cc24e8de898] In relation to the replacement of working tax credit and child tax credit with universal credit, the provision referred to in paragraph 1(1) includes—
+**6.**[^c-e3f4215614974f8f0a180cc24e8de898] In relation to the replacement of working tax credit and child tax credit with universal credit, the provision referred to in paragraph 1(1) includes—
 
 - (a) provision modifying the application of the Tax Credits Act 2002 (or of any provision made under it);
 - (b) provision for the purposes of recovery of overpayments of working tax credit or child tax credit (including in particular provision for treating overpayments of working tax credit or child tax credit as if they were overpayments of universal credit).
 
 ### Supplementary
 
-**7.**[^key-9b3c3134d3d3f6a2f774fe791f996735] Regulations under paragraph 1(1) may secure the result that any gap in entitlement to an existing benefit (or what would, but for the provisions of this Part, be a gap in entitlement to an existing benefit) is to be disregarded for the purposes of provision under such regulations.
+**7.**[^c-9b3c3134d3d3f6a2f774fe791f996735] Regulations under paragraph 1(1) may secure the result that any gap in entitlement to an existing benefit (or what would, but for the provisions of this Part, be a gap in entitlement to an existing benefit) is to be disregarded for the purposes of provision under such regulations.
 
 ## Annotations
 
-[^key-2f2b2f2a9e4da07ed5ca3c342de005d0]: Commencement: Sch. 6 para. 1(1)(2)(b) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
+[^c-2f2b2f2a9e4da07ed5ca3c342de005d0]: Commencement: Sch. 6 para. 1(1)(2)(b) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
 
-[^key-ee55cb9a82b6541bcf6657150b04f20f]: Commencement: [Sch. 6 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/1/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/1/3) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
+[^c-ee55cb9a82b6541bcf6657150b04f20f]: Commencement: [Sch. 6 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/1/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/1/3) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
 
-[^key-d44999f96d8606c29cd672b45703953e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/2) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
+[^c-d44999f96d8606c29cd672b45703953e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/2) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
 
-[^key-1da36059d29ac815a51c6a69a49b6236]: Commencement: Sch. 6 para. 3(1)(a)-(c) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
+[^c-1da36059d29ac815a51c6a69a49b6236]: Commencement: Sch. 6 para. 3(1)(a)-(c) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
 
-[^key-3f6f1243c678c016084bec78b5c74b9b]: Commencement: Sch. 6 para. 3(1)(d)(e)(2) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
+[^c-3f6f1243c678c016084bec78b5c74b9b]: Commencement: Sch. 6 para. 3(1)(d)(e)(2) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
 
-[^key-268aba1807dca5df0be017b46c14bed2]: Commencement: Sch. 6 para. 4(1)(a) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
+[^c-268aba1807dca5df0be017b46c14bed2]: Commencement: Sch. 6 para. 4(1)(a) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
 
-[^key-fbb5bb7b5a37cc02933e3ad66614a92f]: Commencement: [Sch. 6 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/4/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/4/3) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
+[^c-fbb5bb7b5a37cc02933e3ad66614a92f]: Commencement: [Sch. 6 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/4/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/4/3) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
 
-[^key-5843d02cb6904765846be28e1f79f519]: Commencement: Sch. 6 para. 5(1)(2)(c)(d)(3)(a) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
+[^c-5843d02cb6904765846be28e1f79f519]: Commencement: Sch. 6 para. 5(1)(2)(c)(d)(3)(a) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
 
-[^key-2d0f4d4851aa2c05db51d661f1c74072]: Commencement: Sch. 6 para. 5(2)(a)(b)(3)(b)(c)(4) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
+[^c-2d0f4d4851aa2c05db51d661f1c74072]: Commencement: Sch. 6 para. 5(2)(a)(b)(3)(b)(c)(4) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
 
-[^key-e3f4215614974f8f0a180cc24e8de898]: Commencement: Sch. 6 para. 6 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
+[^c-e3f4215614974f8f0a180cc24e8de898]: Commencement: Sch. 6 para. 6 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/42)
 
-[^key-9b3c3134d3d3f6a2f774fe791f996735]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/7) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)
+[^c-9b3c3134d3d3f6a2f774fe791f996735]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2012/5/schedule/6/paragraph/7) in force at 18.7.2019 by [S.I. 2019/1135](https://www.legislation.gov.uk/uksi/2019/1135), [art. 2](https://www.legislation.gov.uk/uksi/2019/1135/article/2)

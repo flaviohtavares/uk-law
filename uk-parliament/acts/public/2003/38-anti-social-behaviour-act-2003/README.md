@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Contents
 
-### Part 1 — Premises where drugs used unlawfully[^key-39dcad6266fc3cd3869a64219c50dcc5]
+### Part 1 — Premises where drugs used unlawfully[^c-39dcad6266fc3cd3869a64219c50dcc5]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 10 — Compensation](part-1/section-10.md)
 - [Section 11 — Interpretation](part-1/section-11.md)
 
-### Part 1A — Premises associated with persistent disorder or nuisance[^key-1d072767126e7dbff9fa895cdd851c57]
+### Part 1A — Premises associated with persistent disorder or nuisance[^c-1d072767126e7dbff9fa895cdd851c57]
 
 *Extent: E+W*
 
@@ -94,7 +94,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 18 — Parenting orders under the 1998 Act](part-3/section-18.md)
 
-#### Truancy and misbehaviour at school[^key-1f3806661a2567780d969daea8ec4763]
+#### Truancy and misbehaviour at school[^c-1f3806661a2567780d969daea8ec4763]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 28A — Contracting out of local authority functions](part-3/section-28a.md)
 - [Section 29 — Interpretation and consequential amendment](part-3/section-29.md)
 
-### Part 4 — Dispersal of groups etc.[^key-34602cb574ff4a834015aab7ed76477e]
+### Part 4 — Dispersal of groups etc.[^c-34602cb574ff4a834015aab7ed76477e]
 
 *Extent: E+W*
 
@@ -162,7 +162,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 46 — Powers of police civilians](part-6/section-46.md)
 - [Section 47 — Interpretation etc](part-6/section-47.md)
 
-#### ...[^key-67b8a8b4bb61ef99bf8ff7d585e09afe]
+#### ...[^c-67b8a8b4bb61ef99bf8ff7d585e09afe]
 
 *Extent: E+W*
 
@@ -270,12 +270,12 @@ SCHEDULES
 
 ## Annotations
 
-[^key-39dcad6266fc3cd3869a64219c50dcc5]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/2003/38/part/1) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(a)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/a) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
+[^c-39dcad6266fc3cd3869a64219c50dcc5]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/ukpga/2003/38/part/1) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(a)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/a) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
 
-[^key-1d072767126e7dbff9fa895cdd851c57]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/ukpga/2003/38/part/1A) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(b)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/b) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
+[^c-1d072767126e7dbff9fa895cdd851c57]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/ukpga/2003/38/part/1A) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(b)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/b) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
 
-[^key-1f3806661a2567780d969daea8ec4763]: Textual amendment: Words in s. 19 cross-heading substituted (1.9.2007 for E., 31.10.2010 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 97(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/97/4), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/g)
+[^c-1f3806661a2567780d969daea8ec4763]: Textual amendment: Words in s. 19 cross-heading substituted (1.9.2007 for E., 31.10.2010 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 97(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/97/4), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c); [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [art. 2(g)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/g)
 
-[^key-34602cb574ff4a834015aab7ed76477e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/38/part/4) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(c)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/c) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
+[^c-34602cb574ff4a834015aab7ed76477e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/ukpga/2003/38/part/4) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(c)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/c) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
 
-[^key-67b8a8b4bb61ef99bf8ff7d585e09afe]: Textual amendment: Ss. 48-52 and cross-heading repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(e)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/e) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))
+[^c-67b8a8b4bb61ef99bf8ff7d585e09afe]: Textual amendment: Ss. 48-52 and cross-heading repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 41(e)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/41/e) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(vi)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/vi) (as amended (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(a))

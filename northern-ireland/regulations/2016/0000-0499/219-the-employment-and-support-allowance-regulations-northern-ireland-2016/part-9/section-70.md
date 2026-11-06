@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Date from which payments are to be taken into account[^key-71171db73566a97ab1d0f6135331c2d9]
+## 70. Date from which payments are to be taken into account[^c-71171db73566a97ab1d0f6135331c2d9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where regulation 67(1) or 69(1) applies, a deduction must have effect, calculate
 
 ## Annotations
 
-[^key-71171db73566a97ab1d0f6135331c2d9]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2016/219/regulation/70) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-71171db73566a97ab1d0f6135331c2d9]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2016/219/regulation/70) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

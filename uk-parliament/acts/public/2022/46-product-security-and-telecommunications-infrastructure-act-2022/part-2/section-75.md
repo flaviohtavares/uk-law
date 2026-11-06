@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Meaning of “the electronic communications code”[^key-745e02d08fe11fbcc9c8b8ad6b35644c][^key-f50f9f24f7583ceb13e8a3fcf15267ed]
+## 75. Meaning of “the electronic communications code”[^c-745e02d08fe11fbcc9c8b8ad6b35644c][^c-f50f9f24f7583ceb13e8a3fcf15267ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In this Part, “**the electronic communications code**” means the electronic 
 
 ## Annotations
 
-[^key-745e02d08fe11fbcc9c8b8ad6b35644c]: Commencement: S. 75 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-745e02d08fe11fbcc9c8b8ad6b35644c]: Commencement: S. 75 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-f50f9f24f7583ceb13e8a3fcf15267ed]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/46/section/75) in force at 7.2.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/109/regulation/2/c)
+[^c-f50f9f24f7583ceb13e8a3fcf15267ed]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/46/section/75) in force at 7.2.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/109/regulation/2/c)

@@ -31,7 +31,7 @@ summary: ''
 
 Landlord And Tenant, Wales
 
-The Agricultural Holdings (Units of Production) (Wales) Order 2014 (revoked)[^key-7c9fad7e03f739afaf738d4575e31748]
+The Agricultural Holdings (Units of Production) (Wales) Order 2014 (revoked)[^c-7c9fad7e03f739afaf738d4575e31748]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 14 February 2014
 
-[^key-7c9fad7e03f739afaf738d4575e31748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c9fad7e03f739afaf738d4575e31748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-7c9fad7e03f739afaf738d4575e31748]
+## 1. Title, commencement, application and interpretation[^c-7c9fad7e03f739afaf738d4575e31748]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of productive capacity of land[^key-7c9fad7e03f739afaf738d4575e31748]
+## 2. Assessment of productive capacity of land[^c-7c9fad7e03f739afaf738d4575e31748]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7c9fad7e03f739afaf738d4575e31748]
+## 3. Revocation[^c-7c9fad7e03f739afaf738d4575e31748]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c9fad7e03f739afaf738d4575e31748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c9fad7e03f739afaf738d4575e31748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^key-7c9fad7e03f739afaf738d4575e31748]
+## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^c-7c9fad7e03f739afaf738d4575e31748]
 
 Article 2
 
@@ -73,8 +73,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c9fad7e03f739afaf738d4575e31748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c9fad7e03f739afaf738d4575e31748]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c9fad7e03f739afaf738d4575e31748]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/41) revoked (21.4.2015) by [The Agricultural Holdings (Units of Production) (Wales) Order 2015 (S.I. 2015/1020)](https://www.legislation.gov.uk/wsi/2015/1020), [arts. 1](https://www.legislation.gov.uk/wsi/2015/1020/article/1), [3](https://www.legislation.gov.uk/wsi/2015/1020/article/3)
+[^c-7c9fad7e03f739afaf738d4575e31748]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/41) revoked (21.4.2015) by [The Agricultural Holdings (Units of Production) (Wales) Order 2015 (S.I. 2015/1020)](https://www.legislation.gov.uk/wsi/2015/1020), [arts. 1](https://www.legislation.gov.uk/wsi/2015/1020/article/1), [3](https://www.legislation.gov.uk/wsi/2015/1020/article/3)

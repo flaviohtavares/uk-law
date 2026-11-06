@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate national authority[^key-d76a4e270d58d9282d124ec23b8b9751] may make such regulations as it sees fit to deal with any case where a person dies and at any time before his death he was (or is alleged to have been) subject to a non-domestic rate.
+(1) The appropriate national authority[^c-d76a4e270d58d9282d124ec23b8b9751] may make such regulations as it sees fit to deal with any case where a person dies and at any time before his death he was (or is alleged to have been) subject to a non-domestic rate.
 
 (2) Nothing in the following provisions of this section shall prejudice the generality of subsection (1) above.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d76a4e270d58d9282d124ec23b8b9751]: Textual amendment: Words in [s. 63(1)](https://www.legislation.gov.uk/ukpga/1988/41/section/63/1) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(12)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/12)
+[^c-d76a4e270d58d9282d124ec23b8b9751]: Textual amendment: Words in [s. 63(1)](https://www.legislation.gov.uk/ukpga/1988/41/section/63/1) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(12)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/12)

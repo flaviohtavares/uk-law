@@ -35,18 +35,18 @@ concerning the authorisation of endo-1,4-beta-xylanase EC 3.2.1.8 (Safizym X) as
 
 (Text with EEA relevance) (revoked)
 
-[^key-562a3dd7ad8f3731de1bf3edb4263551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-562a3dd7ad8f3731de1bf3edb4263551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-562a3dd7ad8f3731de1bf3edb4263551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-562a3dd7ad8f3731de1bf3edb4263551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-562a3dd7ad8f3731de1bf3edb4263551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-562a3dd7ad8f3731de1bf3edb4263551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-562a3dd7ad8f3731de1bf3edb4263551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-562a3dd7ad8f3731de1bf3edb4263551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-562a3dd7ad8f3731de1bf3edb4263551]
+## ANNEX[^c-562a3dd7ad8f3731de1bf3edb4263551]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-562a3dd7ad8f3731de1bf3edb4263551]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/20) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-562a3dd7ad8f3731de1bf3edb4263551]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/20) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

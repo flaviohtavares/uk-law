@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Annual rate of full retirement pension (deferred members)[^key-db6bfa2fa3da7d4525d36700bfbc5982]
+## 62. Annual rate of full retirement pension (deferred members)[^c-db6bfa2fa3da7d4525d36700bfbc5982]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db6bfa2fa3da7d4525d36700bfbc5982]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2014/290/regulation/62) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-db6bfa2fa3da7d4525d36700bfbc5982]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2014/290/regulation/62) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

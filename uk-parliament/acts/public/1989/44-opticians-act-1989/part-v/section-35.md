@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purpose of exercising any powers conferred by this Act on the Privy Council [^key-586e712846ff1093c3f857cc8929170f]... the quorum of the Privy Council shall be two.
+(1) For the purpose of exercising any powers conferred by this Act on the Privy Council [^c-586e712846ff1093c3f857cc8929170f]... the quorum of the Privy Council shall be two.
 
 (2) Any document purporting to be—
 
@@ -31,4 +31,4 @@ shall be evidence of the fact that the instrument was so made and of the terms o
 
 ## Annotations
 
-[^key-586e712846ff1093c3f857cc8929170f]: Textual amendment: Words in s. 35(1) omitted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-586e712846ff1093c3f857cc8929170f]: Textual amendment: Words in s. 35(1) omitted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by virtue of [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

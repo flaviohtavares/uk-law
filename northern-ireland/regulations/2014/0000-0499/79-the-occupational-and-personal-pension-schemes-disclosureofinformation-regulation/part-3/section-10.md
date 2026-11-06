@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Former stakeholder pension schemes[^key-a4e0d907677dcc0a83956012ae0cb741]
+## 10. Former stakeholder pension schemes[^c-a4e0d907677dcc0a83956012ae0cb741]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e0d907677dcc0a83956012ae0cb741]: Commencement: Reg. 10 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-a4e0d907677dcc0a83956012ae0cb741]: Commencement: Reg. 10 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
 [^f00021]: Footnote: Article 4 was amended by paragraph 67 of Schedule 10, and Schedule 11, to the Pensions (Northern Ireland) Order 2005 and paragraph 38 of Schedule 4 to the Pensions Act (Northern Ireland) 2008

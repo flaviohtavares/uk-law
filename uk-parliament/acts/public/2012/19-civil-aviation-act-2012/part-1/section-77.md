@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Crown application[^key-60cd13a0c2df81ee3adff0bc0523e54e]
+## 77. Crown application[^c-60cd13a0c2df81ee3adff0bc0523e54e]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ subject to subsections (3) and (5) to (9).
 
 ## Annotations
 
-[^key-60cd13a0c2df81ee3adff0bc0523e54e]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2012/19/section/77) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-60cd13a0c2df81ee3adff0bc0523e54e]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2012/19/section/77) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

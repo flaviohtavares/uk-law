@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Misconduct and failure to provide accurate information[^key-8b3654a8e4ca06f847640cffa513a336]
+## 13. Misconduct and failure to provide accurate information[^c-8b3654a8e4ca06f847640cffa513a336]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3654a8e4ca06f847640cffa513a336]: Commencement: Reg. 13 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-8b3654a8e4ca06f847640cffa513a336]: Commencement: Reg. 13 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

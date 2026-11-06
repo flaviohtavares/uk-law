@@ -24,7 +24,7 @@ Regulation 11
 
 ### PART 1 — ADVANCED MANDATORY SERVICES, DOMICILIARY SERVICES AND SEDATION SERVICES
 
-#### 1. Provision of advanced mandatory services, domiciliary services and sedation services by the contractor[^key-face3dfe14ab829a58e60b8c6e4cb807]
+#### 1. Provision of advanced mandatory services, domiciliary services and sedation services by the contractor[^c-face3dfe14ab829a58e60b8c6e4cb807]
 
 (1) A contractor who provides domiciliary services or sedation services under the agreement may only provide those services—
 
@@ -35,7 +35,7 @@ Regulation 11
 
 (3) In this paragraph, “entire course of treatment” means a course of treatment provided by only the contractor.
 
-#### 2. Referral services[^key-6e8523ba65cdef49dcd49520a79ebaec]
+#### 2. Referral services[^c-6e8523ba65cdef49dcd49520a79ebaec]
 
 (1) A contractor who provides one or more of the additional services specified in paragraph 1 as a referral service will, at the time of the first examination of the patient, ensure that the patient is provided with a referral treatment plan on a form supplied for that purpose by the Relevant Body which will specify—
 
@@ -52,7 +52,7 @@ Regulation 11
 
 (4) This paragraph does not apply where a patient has been referred to the contractor for advanced mandatory services limited only to examination and advice, and the contractor only provides examination and advice in respect of that patient.
 
-#### 3. Sedation services[^key-4efb5ce2169a0b6b6aac13a53f0d032a]
+#### 3. Sedation services[^c-4efb5ce2169a0b6b6aac13a53f0d032a]
 
 The contractor will only provide sedation services to a patient in accordance with the recommendations contained in the report of the Standing Dental Advisory Committee entitled “Conscious Sedation in the Provision of Dental Care”[^f00044], in so far as those recommendations and guidelines are relevant to—
 
@@ -61,7 +61,7 @@ The contractor will only provide sedation services to a patient in accordance wi
 
 ### PART 2 — ORTHODONTIC SERVICES
 
-#### 4. Patients to whom orthodontic services may be provided[^key-a2edc052434fbf0de9eef5ba712d62de]
+#### 4. Patients to whom orthodontic services may be provided[^c-a2edc052434fbf0de9eef5ba712d62de]
 
 (1) An agreement that includes the provision of orthodontic services will specify that orthodontic services may be provided to—
 
@@ -80,7 +80,7 @@ unless the contractor is of the opinion, and has reasonable grounds for its opin
 
 (4) In a case where a person does not have a treatment need but the contractor has reasonable grounds for its opinion that orthodontic treatment should be provided to that person because of the exceptional circumstances of the dental and oral condition of that person, such treatment as is referred to in sub paragraph (3) may be provided.
 
-#### 5. Orthodontic course of treatment[^key-68aa4fdb6fc3f73c5e703b5854c2e77b]
+#### 5. Orthodontic course of treatment[^c-68aa4fdb6fc3f73c5e703b5854c2e77b]
 
 (1) Subject to sub-paragraph (2), the contractor will provide orthodontic services to a patient by providing to that patient an orthodontic course of treatment.
 
@@ -107,7 +107,7 @@ any further orthodontic services to be provided to that patient under the agreem
 - (b) the patient; or
 - (c) a person specified in paragraph 1(2) of Schedule 3 acting on the patient’s behalf.
 
-#### 6. Orthodontic treatment plans[^key-20553116b0c8b4dc83230d32155afd60]
+#### 6. Orthodontic treatment plans[^c-20553116b0c8b4dc83230d32155afd60]
 
 (1) Where the contractor has, following a case assessment, determined that orthodontic treatment should be provided to a patient, it will, at the time of that case assessment, ensure that the patient is provided with an orthodontic treatment plan on a form supplied for that purpose by the Relevant Body which will specify—
 
@@ -125,7 +125,7 @@ any further orthodontic services to be provided to that patient under the agreem
 
 (4) Subject to paragraph 5(4) and (5), the contractor will provide the orthodontic services which are detailed in the orthodontic treatment plan provided pursuant to sub-paragraph (1) or, where the orthodontic treatment plan is revised, pursuant to the revised orthodontic treatment plan.
 
-#### 7. Monitoring outcomes[^key-8b54840e5764efaeab8f1a82beb23938]
+#### 7. Monitoring outcomes[^c-8b54840e5764efaeab8f1a82beb23938]
 
 (1) The agreement will require the contractor to monitor, in accordance with this paragraph, the outcome of the orthodontic treatment it provides.
 
@@ -151,7 +151,7 @@ using either Clinical Outcome Monitoring Program software[^f00047] or by applyin
 
 (6) In sub-paragraph (5), “peer assessment rating” means an index of treatment standards in which individual scores for the components of alignment and occlusion are summed to calculate an overall score comparing pre- and post- treatment[^f00049].
 
-#### 8. Completion of orthodontic courses of treatment[^key-bbf4d506dd39b4dc396cea9e1dcdf114]
+#### 8. Completion of orthodontic courses of treatment[^c-bbf4d506dd39b4dc396cea9e1dcdf114]
 
 (1) The contractor will indicate on the form supplied to the Relevant Body pursuant to paragraph 39 of Schedule 3 (notification of a course of treatment) whether or not the orthodontic course of treatment was completed.
 
@@ -166,23 +166,23 @@ it will be entitled to exercise its powers under paragraph 71 of Schedule 3 on t
 
 ## Annotations
 
-[^key-face3dfe14ab829a58e60b8c6e4cb807]: Commencement: Sch. 1 para. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-face3dfe14ab829a58e60b8c6e4cb807]: Commencement: Sch. 1 para. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-6e8523ba65cdef49dcd49520a79ebaec]: Commencement: Sch. 1 para. 2 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-6e8523ba65cdef49dcd49520a79ebaec]: Commencement: Sch. 1 para. 2 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-4efb5ce2169a0b6b6aac13a53f0d032a]: Commencement: Sch. 1 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-4efb5ce2169a0b6b6aac13a53f0d032a]: Commencement: Sch. 1 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00044]: Footnote: The Standing Dental Advisory Committee is a statutory body established under section 6 of the Act. A copy of the Report can be obtained at www.wales.gov.uk.
 
-[^key-a2edc052434fbf0de9eef5ba712d62de]: Commencement: Sch. 1 para. 4 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-a2edc052434fbf0de9eef5ba712d62de]: Commencement: Sch. 1 para. 4 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00045]: Footnote: The Development of an Index for Orthodontic Treatment Priority: European Journal of Orthodontics 11, p.309-332, 1989 Brooke, P.H. and Shaw W.C.
 
-[^key-68aa4fdb6fc3f73c5e703b5854c2e77b]: Commencement: Sch. 1 para. 5 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-68aa4fdb6fc3f73c5e703b5854c2e77b]: Commencement: Sch. 1 para. 5 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-20553116b0c8b4dc83230d32155afd60]: Commencement: Sch. 1 para. 6 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-20553116b0c8b4dc83230d32155afd60]: Commencement: Sch. 1 para. 6 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-8b54840e5764efaeab8f1a82beb23938]: Commencement: Sch. 1 para. 7 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-8b54840e5764efaeab8f1a82beb23938]: Commencement: Sch. 1 para. 7 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00046]: Footnote: European Journal of Orthodontics 14, p125-139, 1992 Richmond S, Shaw W.C, Anderson M. and Roberts C.T.
 
@@ -192,4 +192,4 @@ it will be entitled to exercise its powers under paragraph 71 of Schedule 3 on t
 
 [^f00049]: Footnote: A description of this methodology can be found in the European Journal of Orthodontics 14, p180-187, 1992, Richmond S, Shaw WC, Roberts CT and Andrews M: “Methods to determine the outcome of orthodontic treatment in terms of improvement and standards”.
 
-[^key-bbf4d506dd39b4dc396cea9e1dcdf114]: Commencement: Sch. 1 para. 8 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-bbf4d506dd39b4dc396cea9e1dcdf114]: Commencement: Sch. 1 para. 8 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

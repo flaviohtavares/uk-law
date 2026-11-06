@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72GC. Appeal against a direction notice[^key-9941a8c1e3f0e76fcc025d8c51056001]
+## 72GC. Appeal against a direction notice[^c-9941a8c1e3f0e76fcc025d8c51056001]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9941a8c1e3f0e76fcc025d8c51056001]: Textual amendment: [Regs. 72GA-72GC](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72GA) inserted (6.4.2024) by [The Income Tax (Pay As You Earn) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/355)](https://www.legislation.gov.uk/uksi/2024/355), [regs. 1](https://www.legislation.gov.uk/uksi/2024/355/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/355/regulation/2/2)
+[^c-9941a8c1e3f0e76fcc025d8c51056001]: Textual amendment: [Regs. 72GA-72GC](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72GA) inserted (6.4.2024) by [The Income Tax (Pay As You Earn) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/355)](https://www.legislation.gov.uk/uksi/2024/355), [regs. 1](https://www.legislation.gov.uk/uksi/2024/355/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/355/regulation/2/2)

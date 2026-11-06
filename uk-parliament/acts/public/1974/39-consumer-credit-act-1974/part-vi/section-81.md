@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Appropriation of payments.[^key-31eca67c0bd1b9bb4372f62be1440e2c]
+## 81. Appropriation of payments.[^c-31eca67c0bd1b9bb4372f62be1440e2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31eca67c0bd1b9bb4372f62be1440e2c]: Textual amendment: S. 81 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(30)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/30)
+[^c-31eca67c0bd1b9bb4372f62be1440e2c]: Textual amendment: S. 81 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(30)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/30)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Transitional arrangements for existing certificate holders[^key-6e0fa011355420c534ac8f08df87a98c]
+## 38. Transitional arrangements for existing certificate holders[^c-6e0fa011355420c534ac8f08df87a98c]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e0fa011355420c534ac8f08df87a98c]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/10/section/38) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-6e0fa011355420c534ac8f08df87a98c]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/10/section/38) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

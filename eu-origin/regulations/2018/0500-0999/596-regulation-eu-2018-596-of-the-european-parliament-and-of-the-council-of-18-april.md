@@ -33,14 +33,14 @@ of 18 April 2018
 
 amending Regulation (EU) No 1295/2013 establishing the Creative Europe Programme (2014 to 2020) (revoked)
 
-[^key-5694d0c727ed44b7d51209f921304667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5694d0c727ed44b7d51209f921304667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5694d0c727ed44b7d51209f921304667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5694d0c727ed44b7d51209f921304667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5694d0c727ed44b7d51209f921304667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5694d0c727ed44b7d51209f921304667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5694d0c727ed44b7d51209f921304667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5694d0c727ed44b7d51209f921304667]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5694d0c727ed44b7d51209f921304667]: Textual amendment: Regulation revoked (31.12.2020) by [The Creative Europe Programme and Europe for Citizens Programme (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/447)](https://www.legislation.gov.uk/uksi/2019/447), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/447/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2019/447/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/447/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5694d0c727ed44b7d51209f921304667]: Textual amendment: Regulation revoked (31.12.2020) by [The Creative Europe Programme and Europe for Citizens Programme (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/447)](https://www.legislation.gov.uk/uksi/2019/447), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/447/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2019/447/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/447/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Schemes divided into sections[^key-a164fac36e3ac783e8414d493696a25d]
+## 28. Schemes divided into sections[^c-a164fac36e3ac783e8414d493696a25d]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a164fac36e3ac783e8414d493696a25d]: Commencement: Reg. 28 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-a164fac36e3ac783e8414d493696a25d]: Commencement: Reg. 28 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00029]: Footnote: This information is required to enable the Pensions Regulator to carry out its function under section 77(1) of the Pension Schemes Act 2021

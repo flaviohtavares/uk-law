@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Parenting contracts[^key-179b06414937ce8f9c1fda7802f2825c][^key-2e5223b3e7d6dfaeaaee156c079fe65b]
+## 97. Parenting contracts[^c-179b06414937ce8f9c1fda7802f2825c][^c-2e5223b3e7d6dfaeaaee156c079fe65b]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) After subsection (1) insert—
 
-> (1A) This section also applies where a local authority[^key-0ea7acc4831332590d0c9da4689eca3c] or the governing body of a relevant school have reason to believe that a child who is a registered pupil at a relevant school has engaged in behaviour connected with the school which—
+> (1A) This section also applies where a local authority[^c-0ea7acc4831332590d0c9da4689eca3c] or the governing body of a relevant school have reason to believe that a child who is a registered pupil at a relevant school has engaged in behaviour connected with the school which—
 >
 > - (a) has caused, or is likely to cause—
 >   - (i) significant disruption to the education of other pupils, or
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-179b06414937ce8f9c1fda7802f2825c]: Commencement: S. 97 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
+[^c-179b06414937ce8f9c1fda7802f2825c]: Commencement: S. 97 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c)
 
-[^key-2e5223b3e7d6dfaeaaee156c079fe65b]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2006/40/section/97) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(g)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/g)
+[^c-2e5223b3e7d6dfaeaaee156c079fe65b]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2006/40/section/97) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(g)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/g)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

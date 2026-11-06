@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Duty to promote contact[^key-3c1ada5516f64a61cc5361cc24788872]
+## 19. Duty to promote contact[^c-3c1ada5516f64a61cc5361cc24788872]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure foster parents promote contact between a child 
 
 ## Annotations
 
-[^key-3c1ada5516f64a61cc5361cc24788872]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/169/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-3c1ada5516f64a61cc5361cc24788872]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/169/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

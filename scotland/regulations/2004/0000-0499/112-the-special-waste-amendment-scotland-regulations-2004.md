@@ -160,7 +160,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2 of and 
 
 .
 
-(11)[^key-e85acb8ff7ed7ef3209e1880087b30ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-e85acb8ff7ed7ef3209e1880087b30ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) After regulation 19, insert–
 
@@ -174,7 +174,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2 of and 
 
 (14) The Table (Hazardous Waste List) in Part 1 of Schedule 2 is omitted.
 
-## 3. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-a3b62d3679dad8f3fd7c456851ee1c20]
+## 3. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-a3b62d3679dad8f3fd7c456851ee1c20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -244,10 +244,10 @@ Regulation 3(3) extends the prescribed date (the date by which an existing insta
 
 [^M_F_c3cbf021-ded7-4884-9325-a261bb6d4f26]: Textual amendment: Words in [reg. 2(10)](https://www.legislation.gov.uk/ssi/2004/112/regulation/2/10) omitted (21.5.2004) by virtue of [The Special Waste Amendment (Scotland) Amendment Regulations 2004 (S.S.I. 2004/204)](https://www.legislation.gov.uk/ssi/2004/204), [regs. 1](https://www.legislation.gov.uk/ssi/2004/204/regulation/1), [2](https://www.legislation.gov.uk/ssi/2004/204/regulation/2)
 
-[^key-e85acb8ff7ed7ef3209e1880087b30ef]: Textual amendment: [Reg. 2(11)](https://www.legislation.gov.uk/ssi/2004/112/regulation/2/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-e85acb8ff7ed7ef3209e1880087b30ef]: Textual amendment: [Reg. 2(11)](https://www.legislation.gov.uk/ssi/2004/112/regulation/2/11) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c10284371]: Marginal citation: O.J. No. L 310, 3.12.1994, p.70.
 
 [^c10284381]: Marginal citation: O.J. No. L 30, 6.2.1993, p.1.
 
-[^key-a3b62d3679dad8f3fd7c456851ee1c20]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2004/112/regulation/3) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-a3b62d3679dad8f3fd7c456851ee1c20]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2004/112/regulation/3) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

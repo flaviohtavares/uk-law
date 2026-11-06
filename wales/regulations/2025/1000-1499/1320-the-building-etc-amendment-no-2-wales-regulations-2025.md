@@ -49,7 +49,7 @@ The Welsh Ministers have consulted the Building Regulations Advisory Committee f
 
 ## PART 1 — Introduction
 
-### 1. Title, application and coming into force[^key-a96f22bbaffcc399bfb5f791eb3d2970]
+### 1. Title, application and coming into force[^c-a96f22bbaffcc399bfb5f791eb3d2970]
 
 (1) The title of these Regulations is the Building etc. (Amendment) (No. 2) (Wales) Regulations 2025.
 
@@ -61,11 +61,11 @@ The Welsh Ministers have consulted the Building Regulations Advisory Committee f
 
 ## PART 2 — Amendment of the Building Regulations 2010
 
-### 2. Amendment of the 2010 Regulations[^key-c4a04667ae0d87a4c5e088d0b6aa5d6a]
+### 2. Amendment of the 2010 Regulations[^c-c4a04667ae0d87a4c5e088d0b6aa5d6a]
 
 The 2010 Regulations are amended in accordance with regulations 3 to 15.
 
-### 3. Amendments to regulation 2[^key-e6020ca7ac42ceb0b402e6e1bdf5790b]
+### 3. Amendments to regulation 2[^c-e6020ca7ac42ceb0b402e6e1bdf5790b]
 
 In regulation 2(1) (interpretation) of the 2010 Regulations—
 
@@ -160,7 +160,7 @@ In regulation 2(1) (interpretation) of the 2010 Regulations—
   ;
 - (b) omit the definition of “full plans”.
 
-### 4. Amendments to the application of the 2010 Regulations[^key-50dc6865e9bb779ec89a8ffe8ed1336f]
+### 4. Amendments to the application of the 2010 Regulations[^c-50dc6865e9bb779ec89a8ffe8ed1336f]
 
 After regulation 2B (disapplication of certain procedural requirements of the Building Regulations 2010 in relation to higher-risk building work) insert—
 
@@ -189,7 +189,7 @@ After regulation 2B (disapplication of certain procedural requirements of the Bu
 > - (o) regulation 40A (information about systems for on-site generation of electricity);
 > - (p) regulation 40B (information about overheating).
 
-### 5. Amendments: dutyholders and competence[^key-320b9a613b3b5a00ac10aa8433d5b26b]
+### 5. Amendments: dutyholders and competence[^c-320b9a613b3b5a00ac10aa8433d5b26b]
 
 After regulation 11Q (interpretation of this Part) insert the following new Part—
 
@@ -578,7 +578,7 @@ After regulation 11Q (interpretation of this Part) insert the following new Part
 > - (b) cooperation with other persons in relation to the work;
 > - (c) refusing to carry out work which is beyond their skills, knowledge or experience, and asking for the assistance of other persons where necessary.
 
-### 6. Amendments: deposit of plans and building control authorities etc.[^key-7bd11b9726dd5bcd1248cf24d1bb45b1]
+### 6. Amendments: deposit of plans and building control authorities etc.[^c-7bd11b9726dd5bcd1248cf24d1bb45b1]
 
 (1) In regulation 11 (power to dispense with or relax requirements), in paragraph (2), for “local authority” substitute “building control authority”.
 
@@ -927,7 +927,7 @@ After regulation 11Q (interpretation of this Part) insert the following new Part
 - (b) in paragraph 1(g)(ii), for “to deposit full plans” substitute “an application for building control approval with full plans”;
 - (c) in paragraph 1(l), for “to deposit full plans” substitute “an application for building control approval with full plans”.
 
-### 7. Amendments: applications for building control[^key-e746039f987c4ef9f8eda5360666aed0]
+### 7. Amendments: applications for building control[^c-e746039f987c4ef9f8eda5360666aed0]
 
 (1) For regulation 14 substitute—
 
@@ -1035,7 +1035,7 @@ After regulation 11Q (interpretation of this Part) insert the following new Part
 >
 > (6) If the magistrates’ court allows an appeal it may quash or vary the decision.
 
-### 8. Amendments: consultation on applications for building control[^key-299d4749ba9c8f3b672c5e189725347e]
+### 8. Amendments: consultation on applications for building control[^c-299d4749ba9c8f3b672c5e189725347e]
 
 After regulation 15A insert—
 
@@ -1055,7 +1055,7 @@ After regulation 15A insert—
 >
 > (5) In this regulation “**enforcing authority**” has the same meaning as in article 25 of the Regulatory Reform (Fire Safety) Order 2005.
 
-### 9. Amendments: starting on site and commencement of work[^key-70c16fe9d17909fc369e3b627ae90f9e]
+### 9. Amendments: starting on site and commencement of work[^c-70c16fe9d17909fc369e3b627ae90f9e]
 
 (1) In regulation 16—
 
@@ -1126,7 +1126,7 @@ After regulation 15A insert—
 >   - (e) an exhibition hall or conference centre;
 >   - (f) a hospital or premises for the provision of health care.
 
-### 10. Amendments: fire safety information[^key-8b609a765278fcd68431ac8f9bdecbe2]
+### 10. Amendments: fire safety information[^c-8b609a765278fcd68431ac8f9bdecbe2]
 
 (1) In regulation 17 (completion certificates), in paragraph (1), for “it, a building complies with the relevant provisions” substitute “a building, the relevant provisions have been complied with in relation to the building”.
 
@@ -1151,7 +1151,7 @@ After regulation 15A insert—
 > - (a) where regulation 20 (provisions applicable to self-certification schemes) applies to the work, 30 working days after the date referred to in paragraph (2);
 > - (b) in any other case, 5 working days after the date referred to in paragraph (2).
 
-### 11. Amendments: other appeals[^key-ccea9ff738077ad69c8f45f43078a243]
+### 11. Amendments: other appeals[^c-ccea9ff738077ad69c8f45f43078a243]
 
 After regulation 18E (appeals under section 101A of the Act) insert—
 
@@ -1231,7 +1231,7 @@ After regulation 18E (appeals under section 101A of the Act) insert—
 >
 > (17) A person appointed under paragraph (15) has the same powers and duties in relation to determination of a section 101A application as the Welsh Ministers and, in particular, where the appeal is determined by a person appointed under this regulation their decision is to be treated as the decision of the Welsh Ministers.
 
-### 12. Amendments relating to commencement of section 33 of the Building Act 1984[^key-97ced817299d6c070c03c2e717b0832a]
+### 12. Amendments relating to commencement of section 33 of the Building Act 1984[^c-97ced817299d6c070c03c2e717b0832a]
 
 (1) In regulation 19 (supervision of building work otherwise than by local authorities)—
 
@@ -1240,13 +1240,13 @@ After regulation 18E (appeals under section 101A of the Act) insert—
 
 (2) Omit regulations 45 and 46 of the 2010 Regulations.
 
-### 13. Amendments to regulation 20 of the 2010 Regulations[^key-36285bfec43c48f6a882dd64463c70ed]
+### 13. Amendments to regulation 20 of the 2010 Regulations[^c-36285bfec43c48f6a882dd64463c70ed]
 
 In regulation 20 (provisions applicable to self-certification schemes), after paragraph (1) insert—
 
 > (1A) Where this regulation applies and the building work in question relates to a higher-risk building, the client must make the person carrying out the work aware that the building is a higher-risk building.
 
-### 14. Amendments: enforcement provisions[^key-f1be7250e70b3e9a4e5262c1aec55c53]
+### 14. Amendments: enforcement provisions[^c-f1be7250e70b3e9a4e5262c1aec55c53]
 
 (1) In regulation 47 (contravention of certain regulations not to be an offence), for sub-paragraph (a) substitute—
 
@@ -1402,7 +1402,7 @@ In regulation 20 (provisions applicable to self-certification schemes), after pa
 >
 > (1) In deciding the question set out in an application to the magistrates’ court under section 39A(3) of the Act in relation to a stop notice, the magistrates’ court must consider whether it is fair and proportionate, having regard to any representations made, to give the direction.
 
-### 15. Other miscellaneous amendments to the 2010 Regulations[^key-8ff275ab8afadb1acbe01f472905c532]
+### 15. Other miscellaneous amendments to the 2010 Regulations[^c-8ff275ab8afadb1acbe01f472905c532]
 
 (1) In regulation 5 (meaning of material change of use) omit “the purposes of paragraph 8(1)(e) of Schedule 1 to the Act and for”.
 
@@ -1414,7 +1414,7 @@ In regulation 20 (provisions applicable to self-certification schemes), after pa
 
 ## PART 3 — Amendment of other secondary legislation
 
-### 16. Amendments to the Building (Local Authority Charges) Regulations 2010[^key-267abe0f1d8af232616ec8eead4a627c]
+### 16. Amendments to the Building (Local Authority Charges) Regulations 2010[^c-267abe0f1d8af232616ec8eead4a627c]
 
 (1) The Building (Local Authority Charges) Regulations 2010[^f00014] are amended as follows.
 
@@ -1478,7 +1478,7 @@ In regulation 20 (provisions applicable to self-certification schemes), after pa
 - (a) for the heading “Fees for determinations of questions by the Secretary of State” substitute “Fees for determinations of questions by the Welsh Ministers”;
 - (b) in paragraph (1), for “a reference under section 16(10) of the Act (determinations of questions by the Secretary of State)” substitute “an appeal under regulation 14E of the Building Regulations 2010”.
 
-### 17. Amendments to the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024[^key-ec73ff3ae785f23ecb9aa354ed5e4d3e]
+### 17. Amendments to the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024[^c-ec73ff3ae785f23ecb9aa354ed5e4d3e]
 
 (1) The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024[^f00015] are amended as follows.
 
@@ -1657,7 +1657,7 @@ In regulation 20 (provisions applicable to self-certification schemes), after pa
 
 (14) In paragraph 9 of Schedule 3 in the Welsh language text for, “yr apelydd” substitute “y cymeradwywr”.
 
-### 18. Amendments to the Building (Restricted Activities and Functions) (Wales) Regulations 2024[^key-2e3c2ef211bcdae2ee0a9434e96bc128]
+### 18. Amendments to the Building (Restricted Activities and Functions) (Wales) Regulations 2024[^c-2e3c2ef211bcdae2ee0a9434e96bc128]
 
 (1) The Building (Restricted Activities and Functions) (Wales) Regulations 2024[^f00017] are amended as follows.
 
@@ -1677,24 +1677,24 @@ In regulation 20 (provisions applicable to self-certification schemes), after pa
 
 ## PART 4 — Transitional, supplementary and saving provisions
 
-### 19. Transitional and saving provisions for the Building Regulations 2010[^key-055b51ce59826d6022af2577e70ecd01]
+### 19. Transitional and saving provisions for the Building Regulations 2010[^c-055b51ce59826d6022af2577e70ecd01]
 
 The amendments made to the 2010 Regulations by these Regulations do not apply to—
 
 - (a) building work which started before 1 July 2026;
 - (b) building work in relation to which—
-  - (i) plans were deposited with a local authority under section 16 of the[^key-53e75e811d2af3c1be48db70c4988a2b] [Building Act 1984](https://www.legislation.gov.uk/ukpga/1984/55/contents) before 1 July 2026, or
+  - (i) plans were deposited with a local authority under section 16 of the[^c-53e75e811d2af3c1be48db70c4988a2b] [Building Act 1984](https://www.legislation.gov.uk/ukpga/1984/55/contents) before 1 July 2026, or
   - (ii) a building notice has been given to a local authority before 1 July 2026,
 
   but this paragraph does not apply to building work if on, or after, the 1 July 2026 the plans which were deposited are rejected by the local authority.
 
-### 20. Transitional and saving provisions for the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024[^key-9beb658ff2c4619a70e255db9d53529b]
+### 20. Transitional and saving provisions for the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024[^c-9beb658ff2c4619a70e255db9d53529b]
 
 (1) The amendments made to the Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 by these Regulations do not apply to building work in relation to which an initial notice has been given to a local authority before 1 July 2026 unless, on or after 1 July 2026, the initial notice is rejected by the local authority or otherwise ceases to be in force.
 
 (2) The amendments made by these Regulations do not apply to any form submitted in relation to which an initial notice has been given to a local authority before 1 July 2026 that complies with the requirements at the time the initial notice was given.
 
-### 21. Transitional provisions in relation to plans deposited before 1 July 2026[^key-890f730a1335c5c54490e95565c665ec]
+### 21. Transitional provisions in relation to plans deposited before 1 July 2026[^c-890f730a1335c5c54490e95565c665ec]
 
 (1) Paragraph (2) applies where any plans were deposited with a local authority in accordance with section 16 of the Building Act 1984 before 1 July 2026.
 
@@ -1712,7 +1712,7 @@ The amendments made to the 2010 Regulations by these Regulations do not apply to
 - (d) regulation 8(5) (consultation with the fire and rescue authority) of the Building (Registered Building Control Approver etc.) (Wales) Regulations 2024;
 - (e) regulation 17(4) (local authority powers in relation to partly completed work) of the Building (Registered Building Control Approver etc.) (Wales) Regulations 2024.
 
-### 22. Transitional and saving provisions in relation to lapse of building control etc.[^key-f8b95704e5c4dbcdbfe1473fb41aa535]
+### 22. Transitional and saving provisions in relation to lapse of building control etc.[^c-f8b95704e5c4dbcdbfe1473fb41aa535]
 
 (1) Notwithstanding the commencement of section 36 of the Building Safety Act 2022 (lapse of building control approval etc)—
 
@@ -1720,9 +1720,9 @@ The amendments made to the 2010 Regulations by these Regulations do not apply to
 - (b) section 50(8) of the Building Act 1984 continues to apply, as that provision had effect immediately before 1 July 2026, in relation to any plans certificate given to a local authority and accepted or treated as accepted under section 50 of the Building Act 1984 before that date;
 - (c) section 52(5) of the Building Act 1984 continues to apply, as that provision had effect immediately before 1 July 2026, in relation to any initial notice given to a local authority and accepted or treated as accepted under section 47 of the Building Act 1984 before that date.
 
-(2)[^key-36bcaca8cac2fcaefa7174e5b9c41db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-36bcaca8cac2fcaefa7174e5b9c41db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Interpretation of Part 4[^key-860a08180813c89bf9e708d3ebf782de]
+### 23. Interpretation of Part 4[^c-860a08180813c89bf9e708d3ebf782de]
 
 In this Part—
 
@@ -1738,7 +1738,7 @@ Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
 
 12 December 2025
 
-## SCHEDULE 1 — Forms[^key-6601ac9235d756ee1bd301d6e48c2cdf]
+## SCHEDULE 1 — Forms[^c-6601ac9235d756ee1bd301d6e48c2cdf]
 
 Regulation 17
 
@@ -1790,13 +1790,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Section 14(7) was amended by paragraph 17 of Schedule 5 to, the 2022 Act.
 
-[^key-a96f22bbaffcc399bfb5f791eb3d2970]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-a96f22bbaffcc399bfb5f791eb3d2970]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214) as amended by [S.I. 2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [2015/1486 (W. 165)](https://www.legislation.gov.uk/wsi/2015/1486), [2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611), [2018/552 (W. 94)](https://www.legislation.gov.uk/wsi/2018/552), [2018/558 (W. 97)](https://www.legislation.gov.uk/wsi/2018/558) and [2022/564 (W. 214)](https://www.legislation.gov.uk/wsi/2022/564). There are other amending instruments, but none is relevant to this instrument.
 
-[^key-c4a04667ae0d87a4c5e088d0b6aa5d6a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/1320/regulation/2) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-c4a04667ae0d87a4c5e088d0b6aa5d6a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/1320/regulation/2) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-e6020ca7ac42ceb0b402e6e1bdf5790b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/1320/regulation/3) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-e6020ca7ac42ceb0b402e6e1bdf5790b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/1320/regulation/3) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00005]: Footnote: Paragraph 1B of Schedule 1 to the Building Act [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55).
 
@@ -1806,13 +1806,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-50dc6865e9bb779ec89a8ffe8ed1336f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/1320/regulation/4) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-50dc6865e9bb779ec89a8ffe8ed1336f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/1320/regulation/4) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-320b9a613b3b5a00ac10aa8433d5b26b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/1320/regulation/5) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-320b9a613b3b5a00ac10aa8433d5b26b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/1320/regulation/5) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2015/51](https://www.legislation.gov.uk/uksi/2015/51).
 
-[^key-7bd11b9726dd5bcd1248cf24d1bb45b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/1320/regulation/6) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-7bd11b9726dd5bcd1248cf24d1bb45b1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/1320/regulation/6) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 17A was inserted by [S.I. 2013/747](https://www.legislation.gov.uk/uksi/2013/747).
 
@@ -1820,52 +1820,52 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: Regulation 27A was inserted by S.I 2014/110 and amended by [S.I. 2022/564](https://www.legislation.gov.uk/uksi/2022/564).
 
-[^key-e746039f987c4ef9f8eda5360666aed0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/1320/regulation/7) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-e746039f987c4ef9f8eda5360666aed0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/1320/regulation/7) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-299d4749ba9c8f3b672c5e189725347e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/1320/regulation/8) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-299d4749ba9c8f3b672c5e189725347e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/1320/regulation/8) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-70c16fe9d17909fc369e3b627ae90f9e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/1320/regulation/9) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-70c16fe9d17909fc369e3b627ae90f9e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/1320/regulation/9) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-8b609a765278fcd68431ac8f9bdecbe2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/1320/regulation/10) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-8b609a765278fcd68431ac8f9bdecbe2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/1320/regulation/10) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-ccea9ff738077ad69c8f45f43078a243]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/1320/regulation/11) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-ccea9ff738077ad69c8f45f43078a243]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/1320/regulation/11) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-97ced817299d6c070c03c2e717b0832a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/1320/regulation/12) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-97ced817299d6c070c03c2e717b0832a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/1320/regulation/12) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-36285bfec43c48f6a882dd64463c70ed]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/1320/regulation/13) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-36285bfec43c48f6a882dd64463c70ed]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/1320/regulation/13) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-f1be7250e70b3e9a4e5262c1aec55c53]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/1320/regulation/14) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-f1be7250e70b3e9a4e5262c1aec55c53]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/1320/regulation/14) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00013]: Footnote: See the definition of compliance notice in section 35B(2) of the Building Act 1984, inserted by section 38 of the Building Safety Act 2022.
 
-[^key-8ff275ab8afadb1acbe01f472905c532]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/1320/regulation/15) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-8ff275ab8afadb1acbe01f472905c532]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/1320/regulation/15) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-267abe0f1d8af232616ec8eead4a627c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/1320/regulation/16) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-267abe0f1d8af232616ec8eead4a627c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/1320/regulation/16) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2010/404](https://www.legislation.gov.uk/uksi/2010/404) as amended by [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911) and [S.I. 2024/1268](https://www.legislation.gov.uk/uksi/2024/1268); there are other amending instruments, but none is relevant to these Regulations.
 
-[^key-ec73ff3ae785f23ecb9aa354ed5e4d3e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/1320/regulation/17) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-ec73ff3ae785f23ecb9aa354ed5e4d3e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/1320/regulation/17) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2024/1268 (W 214)](https://www.legislation.gov.uk/wsi/2024/1268), as amended by [S.I. 2025/377 (W 74)](https://www.legislation.gov.uk/wsi/2025/377).
 
 [^f00016]: Footnote: See the definition of “higher-risk building work” in section 120I(3) of the Building Act 1984, which was inserted by section 31 of the Building Safety Act 2022.
 
-[^key-2e3c2ef211bcdae2ee0a9434e96bc128]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/1320/regulation/18) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-2e3c2ef211bcdae2ee0a9434e96bc128]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/1320/regulation/18) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2024/238 (W. 48)](https://www.legislation.gov.uk/wsi/2024/238), as amended by [2024/1268 (W. 214)](https://www.legislation.gov.uk/wsi/2024/1268).
 
-[^key-055b51ce59826d6022af2577e70ecd01]: Commencement: Reg. 19 in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-055b51ce59826d6022af2577e70ecd01]: Commencement: Reg. 19 in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-53e75e811d2af3c1be48db70c4988a2b]: Textual amendment: Words in reg. 19(b)(i) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/6/2)
+[^c-53e75e811d2af3c1be48db70c4988a2b]: Textual amendment: Words in reg. 19(b)(i) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/6/2)
 
-[^key-9beb658ff2c4619a70e255db9d53529b]: Textual amendment: Reg. 20 substituted (1.7.2026) by [The Building etc. (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/60)](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/7/2)
+[^c-9beb658ff2c4619a70e255db9d53529b]: Textual amendment: Reg. 20 substituted (1.7.2026) by [The Building etc. (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/60)](https://www.legislation.gov.uk/wsi/2026/60), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2026/60/regulation/1/2/a), [7(2)](https://www.legislation.gov.uk/wsi/2026/60/regulation/7/2)
 
-[^key-890f730a1335c5c54490e95565c665ec]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-890f730a1335c5c54490e95565c665ec]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/1320/regulation/21) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-f8b95704e5c4dbcdbfe1473fb41aa535]: Commencement: Reg. 22 in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-f8b95704e5c4dbcdbfe1473fb41aa535]: Commencement: Reg. 22 in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
 
-[^key-36bcaca8cac2fcaefa7174e5b9c41db5]: Textual amendment: Reg. 22(2) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2026/112/regulation/6/3)
+[^c-36bcaca8cac2fcaefa7174e5b9c41db5]: Textual amendment: Reg. 22(2) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2026/112/regulation/6/3)
 
-[^key-860a08180813c89bf9e708d3ebf782de]: Textual amendment: Reg. 23 inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [6(4)](https://www.legislation.gov.uk/wsi/2026/112/regulation/6/4)
+[^c-860a08180813c89bf9e708d3ebf782de]: Textual amendment: Reg. 23 inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [6(4)](https://www.legislation.gov.uk/wsi/2026/112/regulation/6/4)
 
-[^key-6601ac9235d756ee1bd301d6e48c2cdf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2025/1320/schedule/1) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)
+[^c-6601ac9235d756ee1bd301d6e48c2cdf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2025/1320/schedule/1) in force at 1.7.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2)

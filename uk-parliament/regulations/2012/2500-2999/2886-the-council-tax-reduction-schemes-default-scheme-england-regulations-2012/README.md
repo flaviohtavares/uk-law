@@ -249,10 +249,10 @@ The amount specified in column (2) below in respect of each person or couple spe
 
 | *Column (1)*<br>*Person, couple or polygamous marriage* | *Column (2)*<br>*Amount* |
 | --- | --- |
-| (1) Single applicant or lone parent—<br>(a) aged under 65;<br>(b) aged 65 or over. | (1)<br>(a) £145.40[^key-ba502084ef3f4af0e93055ad2026e333];<br>(b) £163.50[^key-69cd6af36fd17ddf51b7d6bf0932397d]. |
-| (2) Couple—<br>(a) both members aged under 65;<br>(b) one or both members aged 65 or over. | (2)<br>(a) £222.05[^key-391afe27feac7c456f52a355ec83312e];<br>(b) £244.95[^key-8b979558b9cf167df9a3ca069ba1c9fa]. |
-| (3) If the applicant is a member of a polygamous marriage and none of the members of the marriage has attained the age of 65—<br>(a) for the applicant and the other party to the marriage;<br>(b) for each additional spouse who is a member of the same household as the applicant. | (3)<br>(a) £222.05[^key-b231badcf54db82f38c3d110a266cf72];<br>(b) £76.65[^key-ba6606caca46013c791f3dc927b0c65f]. |
-| (4) If the applicant is a member of a polygamous marriage and one or more members of the marriage are aged 65 or over—<br>(a) for the applicant and the other party to the marriage;<br>(b) for each additional spouse who is a member of the same household as the applicant. | (4)<br>(a) £244.95[^key-af1fe5710dbb2af9ed190a2f3c05a7a4];<br>(b) £81.45[^key-467f63fe91e5b592b7865d80092e6f57]. |
+| (1) Single applicant or lone parent—<br>(a) aged under 65;<br>(b) aged 65 or over. | (1)<br>(a) £145.40[^c-ba502084ef3f4af0e93055ad2026e333];<br>(b) £163.50[^c-69cd6af36fd17ddf51b7d6bf0932397d]. |
+| (2) Couple—<br>(a) both members aged under 65;<br>(b) one or both members aged 65 or over. | (2)<br>(a) £222.05[^c-391afe27feac7c456f52a355ec83312e];<br>(b) £244.95[^c-8b979558b9cf167df9a3ca069ba1c9fa]. |
+| (3) If the applicant is a member of a polygamous marriage and none of the members of the marriage has attained the age of 65—<br>(a) for the applicant and the other party to the marriage;<br>(b) for each additional spouse who is a member of the same household as the applicant. | (3)<br>(a) £222.05[^c-b231badcf54db82f38c3d110a266cf72];<br>(b) £76.65[^c-ba6606caca46013c791f3dc927b0c65f]. |
+| (4) If the applicant is a member of a polygamous marriage and one or more members of the marriage are aged 65 or over—<br>(a) for the applicant and the other party to the marriage;<br>(b) for each additional spouse who is a member of the same household as the applicant. | (4)<br>(a) £244.95[^c-af1fe5710dbb2af9ed190a2f3c05a7a4];<br>(b) £81.45[^c-467f63fe91e5b592b7865d80092e6f57]. |
 
 ### 2. Child or young person amounts
 
@@ -260,7 +260,7 @@ The amount specified in column (2) below in respect of each person or couple spe
 
 | *Column (1)*<br>*Child or young person* | *Column (2)*<br>*Amount* |
 | --- | --- |
-| Person in respect of the period—<br>(a) beginning on that person’s date of birth and ending on the day preceding the first Monday in September following that person’s sixteenth birthday;<br>(b) beginning on the first Monday in September following that person’s sixteenth birthday and ending on the day preceding that person’s twentieth birthday. | (a) £65.22[^key-e52c201b4c0121877820993ab6afc18f];<br>(b) £65.22. |
+| Person in respect of the period—<br>(a) beginning on that person’s date of birth and ending on the day preceding the first Monday in September following that person’s sixteenth birthday;<br>(b) beginning on the first Monday in September following that person’s sixteenth birthday and ending on the day preceding that person’s twentieth birthday. | (a) £65.22[^c-e52c201b4c0121877820993ab6afc18f];<br>(b) £65.22. |
 
 (2) In column (1) of the table “the first Monday in September” means the Monday which first occurs in the month of September in any year.
 
@@ -304,7 +304,7 @@ and either a person is entitled to and in receipt of a carer’s allowance in re
 
 (3) Where an applicant has a partner who does not satisfy the condition in sub-paragraph (2)(b)(ii), and that partner is blind or is treated as blind within the meaning of sub-paragraph (4), that partner is to be treated for the purposes of sub-paragraph (2) as if he were not a partner of the applicant.
 
-(4) For the purposes of sub-paragraph (3), a person is blind if he is registered in a register compiled by a local authority under section 29 of the National Assistance Act 1948 (welfare services) [^key-0645af9cb8366b42a588fbaa5515a30c]..., in Scotland, has been certified as blind and in consequence he is registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014[^key-7b0b0853422769e0065fdcd8254024fd].
+(4) For the purposes of sub-paragraph (3), a person is blind if he is registered in a register compiled by a local authority under section 29 of the National Assistance Act 1948 (welfare services) [^c-0645af9cb8366b42a588fbaa5515a30c]..., in Scotland, has been certified as blind and in consequence he is registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014[^c-7b0b0853422769e0065fdcd8254024fd].
 
 (5) For the purposes of sub-paragraph (4), a person who has ceased to be registered as blind on regaining his eyesight is nevertheless to be treated as blind and as satisfying the additional condition set out in that sub-paragraph for a period of 28 weeks following the date on which he ceased to be so registered.
 
@@ -378,13 +378,13 @@ For the purposes of this Part of this Schedule, a person is to be regarded as be
 
 | Provision | Amount |
 | --- | --- |
-| - (a) where the applicant satisfies the condition in paragraph 6(2)(a); | (a) £59.50;[^key-fab8cdee62f058a680a263bf42001e27] |
+| - (a) where the applicant satisfies the condition in paragraph 6(2)(a); | (a) £59.50;[^c-fab8cdee62f058a680a263bf42001e27] |
 | - (a) where the applicant satisfies the condition in paragraph 6(2)(b)— | (b) |
 | - (i) in a case where there is someone in receipt of a carer’s allowance or if he or any partner satisfies that condition only by virtue of paragraph 6(7); | (i) £59.50; |
-| - (i) in a case where there is no-one in receipt of such an allowance. | (ii) £119.00[^key-54cc09f7ce39f642479a455cfeea754b]. |
-| (2) Enhanced disability premium. | (2) £23.45[^key-3f038f947fe35f04d0e0dab04b54fab1] in respect of each child or young person in respect of whom the conditions specified in paragraph 7 are satisfied. |
-| (3) Disabled Child Premium. | (3) £57.89[^key-1e613119fe5d26ca9f45b1ce98dc0d1a] in respect of each child or young person in respect of whom the condition specified in paragraph 8 is satisfied |
-| (4) Carer Premium. | (4) £33.30[^key-0e6591d6fadb474081f59311aa6e3f0f] in respect of each person who satisfies the condition specified in paragraph 9. |
+| - (i) in a case where there is no-one in receipt of such an allowance. | (ii) £119.00[^c-54cc09f7ce39f642479a455cfeea754b]. |
+| (2) Enhanced disability premium. | (2) £23.45[^c-3f038f947fe35f04d0e0dab04b54fab1] in respect of each child or young person in respect of whom the conditions specified in paragraph 7 are satisfied. |
+| (3) Disabled Child Premium. | (3) £57.89[^c-1e613119fe5d26ca9f45b1ce98dc0d1a] in respect of each child or young person in respect of whom the condition specified in paragraph 8 is satisfied |
+| (4) Carer Premium. | (4) £33.30[^c-0e6591d6fadb474081f59311aa6e3f0f] in respect of each person who satisfies the condition specified in paragraph 9. |
 
 *Extent: E+W+S*
 
@@ -403,11 +403,11 @@ Paragraph 26
 | *Column (1)*<br>*Person or couple* | *Column (2)*<br>*Amount* |
 | --- | --- |
 | (1) A single applicant who— | (1) |
-| (a) is entitled to main phase employment and support allowance; | (a) £71.70[^key-04f354c6b0cdc0ee8401f6508cc66216]; |
+| (a) is entitled to main phase employment and support allowance; | (a) £71.70[^c-04f354c6b0cdc0ee8401f6508cc66216]; |
 | (b) is aged not less than 25; | (b) £71.70; |
-| (c) is aged not less than 18 but less than 25. | (c) £56.80[^key-75f82164ae850e945e6deb398bd50f73]. |
-| (2) Lone parent. | (2) £71.70[^key-c950f612100a9891dd6e12a387ae6f04]. |
-| (3) Couple. | (3) £112.55[^key-fdb7d5717b2dc7a0e5e889a0264da1d3]. |
+| (c) is aged not less than 18 but less than 25. | (c) £56.80[^c-75f82164ae850e945e6deb398bd50f73]. |
+| (2) Lone parent. | (2) £71.70[^c-c950f612100a9891dd6e12a387ae6f04]. |
+| (3) Couple. | (3) £112.55[^c-fdb7d5717b2dc7a0e5e889a0264da1d3]. |
 
 **2.** For the purposes of paragraph 1 an applicant is entitled to main phase employment and support allowance if—
 
@@ -419,7 +419,7 @@ Paragraph 26
 | *Column (1)*<br>*Child or Young person* | *Column (2)*<br>*Amount* |
 | --- | --- |
 | Person in respect of the period— |  |
-| (a) beginning on that person’s date of birth and ending on the day preceding the first Monday in September following that person’s sixteenth birthday; | £65.62[^key-b7bfe134af7f5859fcfc2d625b0c892b] |
+| (a) beginning on that person’s date of birth and ending on the day preceding the first Monday in September following that person’s sixteenth birthday; | £65.62[^c-b7bfe134af7f5859fcfc2d625b0c892b] |
 | (b) beginning on the first Monday in September following that person’s sixteenth birthday and ending on the day preceding that person’s twentieth birthday. | £65.62 |
 |  |  |
 
@@ -497,7 +497,7 @@ The condition is that—
 
 - (a) the applicant or, as the case may be, his partner—
   - (i) is in receipt of one or more of the following benefits: attendance allowance, disability living allowance, personal independence payment, an AFIP, the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00190], mobility supplement, long-term incapacity benefit under Part 2 of the SSCBA or severe disablement allowance under Part 3 of that Act but, in the case of long-term incapacity benefit or severe disablement allowance, only where it is paid in respect of him; or
-  - (ii) was in receipt of long-term incapacity benefit under Part 2 of the SSCBA when entitlement to that benefit ceased on account of the payment of a retirement pension under that Act or a state pension under Part 1 of the Pensions Act 2014[^key-3dcaabf75ef993d9f28763b33bba5920] and the applicant remained continuously entitled to—
+  - (ii) was in receipt of long-term incapacity benefit under Part 2 of the SSCBA when entitlement to that benefit ceased on account of the payment of a retirement pension under that Act or a state pension under Part 1 of the Pensions Act 2014[^c-3dcaabf75ef993d9f28763b33bba5920] and the applicant remained continuously entitled to—
     - (aa) council tax benefit (in relation to the period prior to 1st April 2013, and
     - (bb) a reduction under this scheme (in relation to the period commencing on 1st April 2013), and
 
@@ -505,8 +505,8 @@ The condition is that—
   - (iii) was in receipt of attendance allowance or disability living allowance but payment of benefit has been suspended in accordance with regulations made under section 113(2) of the SSCBA or otherwise abated as a consequence of the applicant or his partner becoming a patient within the meaning of paragraph 58(11)(i) (treatment of child care charges); or
   - (iv) was in receipt of personal independence payment, but payment of that benefit has been suspended in accordance with section 86 of the Welfare Reform Act 2012 as a consequence of the applicant becoming a patient within the meaning of paragraph 58(11)(i) (treatment of child care charges); or
   - (v) was in receipt of an AFIP, but payment has been suspended in accordance with any terms of the armed and reserve forces compensation scheme which allow for suspension because a person is undergoing medical treatment in a hospital or similar institution; or
-  - (vi) he has an invalid carriage or other vehicle provided to him by the Secretary of State or an integrated care board[^key-3a08b138214dc105bc612a3795718155] under paragraph 9 of Schedule 1 to the National Health Service Act 2006[^f00191] or under section 46 of the National Health Service (Scotland) Act 1978[^f00192] or provided by the Department of Health, Social Services and Public Safety in Northern Ireland under Article 30(1) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00193]; or
-  - (vii) is blind and in consequence registered in a register compiled by a local authority under section 29 of the National Assistance Act 1948 (welfare services) [^key-0830d55df50e26b76ef37544ec5d4eaa]..., in Scotland, has been certified as blind and in consequence he is registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014[^key-4bf5d1eb4aab21fd1b6487cf1b349631]; or
+  - (vi) he has an invalid carriage or other vehicle provided to him by the Secretary of State or an integrated care board[^c-3a08b138214dc105bc612a3795718155] under paragraph 9 of Schedule 1 to the National Health Service Act 2006[^f00191] or under section 46 of the National Health Service (Scotland) Act 1978[^f00192] or provided by the Department of Health, Social Services and Public Safety in Northern Ireland under Article 30(1) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00193]; or
+  - (vii) is blind and in consequence registered in a register compiled by a local authority under section 29 of the National Assistance Act 1948 (welfare services) [^c-0830d55df50e26b76ef37544ec5d4eaa]..., in Scotland, has been certified as blind and in consequence he is registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014[^c-4bf5d1eb4aab21fd1b6487cf1b349631]; or
 - (b) the applicant—
   - (i) is, or is treated as, incapable of work in accordance with the provisions of, and regulations made under, Part 12A of the SSCBA (incapacity for work); and
   - (ii) has been incapable, or has been treated as incapable, of work for a continuous period of not less than—
@@ -635,22 +635,22 @@ For the purposes of this Part of this Schedule, a person is to be regarded as be
 
 | Premium | Amount |
 | --- | --- |
-| - (a) where the applicant satisfies the condition in paragraph 9(a); | (a) £31.00[^key-f8774eb16595c452aec97fe779d7f1a3]; |
-| - (a) where the applicant satisfies the condition in paragraph 9(b). | (b) £44.20[^key-f56ed7bb6deeed0098838499cf006ace]. |
+| - (a) where the applicant satisfies the condition in paragraph 9(a); | (a) £31.00[^c-f8774eb16595c452aec97fe779d7f1a3]; |
+| - (a) where the applicant satisfies the condition in paragraph 9(b). | (b) £44.20[^c-f56ed7bb6deeed0098838499cf006ace]. |
 | (2) Severe Disability Premium— | (2) |
-| - (a) where the applicant satisfies the condition in paragraph 11(2)(a); | (a) £59.50[^key-027e33d22ca5faf9dc72b32f901857ea]; |
+| - (a) where the applicant satisfies the condition in paragraph 11(2)(a); | (a) £59.50[^c-027e33d22ca5faf9dc72b32f901857ea]; |
 | - (a) where the applicant satisfies the condition in paragraph 11(2)(b)— |  |
 | - (i) in a case where there is someone in receipt of a carer’s allowance or if he or any partner satisfies that condition only by virtue of paragraph 11(5); | (b)(i) £59.50; |
-| - (i) in a case where there is no-one in receipt of such an allowance. | (b)(ii) £119.00[^key-ec4021b51e922a44943f04df75e2db18]. |
-| (3) Disabled Child Premium. | (3) £57.89[^key-f4f421782e7d12f81f2b00eefb6bc3c1] in respect of each child or young person in respect of whom the condition specified in paragraph 13 is satisfied. |
+| - (i) in a case where there is no-one in receipt of such an allowance. | (b)(ii) £119.00[^c-ec4021b51e922a44943f04df75e2db18]. |
+| (3) Disabled Child Premium. | (3) £57.89[^c-f4f421782e7d12f81f2b00eefb6bc3c1] in respect of each child or young person in respect of whom the condition specified in paragraph 13 is satisfied. |
 | (4) Carer Premium. | (4) £33.30[^M_F_00a54c95-1fba-45b7-f515-0193ae0da35b] in respect of each person who satisfies the condition specified in paragraph 14. |
 | (5) Enhanced disability premium | (5) |
-|  | (a) £23.45[^key-32d89a9432ee0c09da50ea386f7d7e2f] in respect of each child or young person in respect of whom the conditions specified in paragraph 12 are satisfied; |
-|  | (b) £15.15[^key-193e6e39ad6675c5e505fb7b136f97a8] in respect of each person who is neither— |
+|  | (a) £23.45[^c-32d89a9432ee0c09da50ea386f7d7e2f] in respect of each child or young person in respect of whom the conditions specified in paragraph 12 are satisfied; |
+|  | (b) £15.15[^c-193e6e39ad6675c5e505fb7b136f97a8] in respect of each person who is neither— |
 |  | (i) a child or young person; nor |
 |  | (ii) a member of a couple or a polygamous marriage, |
 |  | in respect of whom the conditions specified in paragraph 12 are satisfied; |
-|  | (c) £21.75[^key-114eedfa5e3766b4e2ef73919db3f15a] where the applicant is a member of a couple or a polygamous marriage and the conditions specified in paragraph 12 are satisfied in respect of a member of that couple or polygamous marriage. |
+|  | (c) £21.75[^c-114eedfa5e3766b4e2ef73919db3f15a] where the applicant is a member of a couple or a polygamous marriage and the conditions specified in paragraph 12 are satisfied in respect of a member of that couple or polygamous marriage. |
 
 ## PART 5 — The components
 
@@ -682,9 +682,9 @@ The applicant is entitled to the support component if the Secretary of State has
 
 *Extent: E+W+S+N.I.*
 
-**23.** The amount of the work-related activity component is £28.45[^key-8c615434ede58ff4c877a10cd73b59ac].
+**23.** The amount of the work-related activity component is £28.45[^c-8c615434ede58ff4c877a10cd73b59ac].
 
-**24.** The amount of the support component is £34.80[^key-b767f2c40955a0837d43b434e4aaca0f].
+**24.** The amount of the support component is £34.80[^c-b767f2c40955a0837d43b434e4aaca0f].
 
 ## PART 7 — Transitional Addition
 
@@ -797,8 +797,8 @@ Paragraph 31
   | --- | --- |
   | (a) Where the second adult or all second adults are in receipt of income support, an income-related employment and support allowance or state pension credit or are persons on an income-based jobseeker’s allowance; | (a) 25 per cent of the council tax due in respect of that day; |
   | (b) where the gross income of the second adult or, where there is more than one second adult, their aggregate gross income disregarding any income of persons on income support, an income-related employment and support allowance, state pension credit or an income-based jobseeker’s allowance— | (b) |
-  | (i) is less than £183.00[^key-11d25e4f98ad45a82e9e2f83c2529792] per week; | (i) 15 per cent of the council tax due in respect of that day; |
-  | (ii) is not less than £183.00[^key-ead202b4d6a343379d9a88a4cd54e5b6] per week but less than £239.00 per week; | (ii) 7.5 per cent of the council tax due in respect of that day; |
+  | (i) is less than £183.00[^c-11d25e4f98ad45a82e9e2f83c2529792] per week; | (i) 15 per cent of the council tax due in respect of that day; |
+  | (ii) is not less than £183.00[^c-ead202b4d6a343379d9a88a4cd54e5b6] per week but less than £239.00 per week; | (ii) 7.5 per cent of the council tax due in respect of that day; |
   | (c) where the dwelling would be wholly occupied by one or more persons to whom paragraph 75(1) of this scheme applies but for the presence of one or more second adults who are in receipt of income support, state pension credit, an income-related employment and support allowance or are persons on an income-based jobseeker’s allowance. | (c) 100 per cent of the council tax due in respect of that day. |
 
 *Extent: E+W+S+N.I.*
@@ -873,7 +873,7 @@ so much of those other earnings as would not, in the aggregate with the earnings
   - (vii) any mobility supplement under article 20 of the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 (including such a supplement by virtue of any other scheme or order) or under article 25A of the Personal Injuries (Civilians) Scheme 1983;
   - (viii) the disability element or the severe disability element of working tax credit under Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002; or
   - (ix) main phase employment and support allowance; or
-- (b) is or are registered as blind in a register compiled by a local authority under section 29 of the National Assistance Act 1948 (welfare services) [^key-2f873cd03054d94661b53589180742f4]..., in Scotland, has been certified as blind and in consequence is registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014[^key-5a0af7779bce9826c9b796d8c793ad93]; or
+- (b) is or are registered as blind in a register compiled by a local authority under section 29 of the National Assistance Act 1948 (welfare services) [^c-2f873cd03054d94661b53589180742f4]..., in Scotland, has been certified as blind and in consequence is registered in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014[^c-5a0af7779bce9826c9b796d8c793ad93]; or
 - (c) is, or is treated as, incapable of work in accordance with the provisions of, and regulations made under, Part 12A of the SSCBA (incapacity for work), and has been incapable, or has been treated as incapable, of work for a continuous period of not less than—
   - (i) in the case of an applicant who is terminally ill within the meaning of section 30B(4) of the Act, 196 days;
   - (ii) in any other case, 364 days; or
@@ -1162,7 +1162,7 @@ Paragraph 53
 
 - (a) where—
   - (i) the employment has been terminated because of retirement; and
-  - (ii) on retirement he is entitled to a retirement pension under the Act or a state pension under Part 1 of the Pensions Act 2014[^key-a9ee6cfcf7deea3eb1a2bab79dae346b], or is not so entitled solely because of his failure to satisfy the contribution conditions or to have the minimum number of qualifying years[^key-df22f892d3afcf6fd35aecc0c3308583],
+  - (ii) on retirement he is entitled to a retirement pension under the Act or a state pension under Part 1 of the Pensions Act 2014[^c-a9ee6cfcf7deea3eb1a2bab79dae346b], or is not so entitled solely because of his failure to satisfy the contribution conditions or to have the minimum number of qualifying years[^c-df22f892d3afcf6fd35aecc0c3308583],
 
   any earnings paid or due to be paid in respect of that employment, but only for a period commencing on the day immediately after the date on which the employment was terminated;
 - (b) where before the first day of entitlement to a reduction under this scheme the employment has been terminated otherwise than because of retirement, any earnings paid or due to be paid in respect of that employment except—
@@ -1353,7 +1353,7 @@ Paragraph 54
 
 *Extent: E+W+S+N.I.*
 
-**3.** Any payment made to the applicant in respect of any travel or other expenses incurred, or to be incurred, by him in respect of his participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^key-72d9b495f8fcb05c128d77cb438e8fa0].
+**3.** Any payment made to the applicant in respect of any travel or other expenses incurred, or to be incurred, by him in respect of his participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^c-72d9b495f8fcb05c128d77cb438e8fa0].
 
 *Extent: E+W+S+N.I.*
 
@@ -1580,13 +1580,13 @@ whichever is less.
 - (b) a local authority but excluding payments of housing benefit made in respect of the person concerned;
 - (c) a voluntary organisation;
 - (d) the person concerned pursuant to section 26(3A) of the National Assistance Act 1948;
-- (da)[^key-f9d19f44e49c9b28f86807874bb947a0] the person concerned where the payment is for accommodation to meet that person’s needs for care and support arranged pursuant to section 35 or 36 of the Social Services and Well-being (Wales) Act 2014;
+- (da)[^c-f9d19f44e49c9b28f86807874bb947a0] the person concerned where the payment is for accommodation to meet that person’s needs for care and support arranged pursuant to section 35 or 36 of the Social Services and Well-being (Wales) Act 2014;
 - (e) a primary care trust established under section 16A of the National Health Service Act 1977 or established by an order made under section 18(2)(c) of the National Health Service Act 2006; or
 - (f) a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006.
 
 *Extent: E+W+S+N.I.*
 
-**33.** Any payment made by a local authority in accordance with section 17, 23B, 23C or 24A of the Children Act 1989 or, as the case may be, section 12 of the Social Work (Scotland) Act 1968 or section 22, 29 or 30 of the Children (Scotland) Act 1995 (provision of services for children and their families and advice and assistance to certain children) or sections 37, 38, 109, 110 or 114 of the Social Services and Well-being (Wales) Act 2014 but excluding any direct payments under that Act[^key-6a0683740c97d7c3450ee28b737cb9ab].
+**33.** Any payment made by a local authority in accordance with section 17, 23B, 23C or 24A of the Children Act 1989 or, as the case may be, section 12 of the Social Work (Scotland) Act 1968 or section 22, 29 or 30 of the Children (Scotland) Act 1995 (provision of services for children and their families and advice and assistance to certain children) or sections 37, 38, 109, 110 or 114 of the Social Services and Well-being (Wales) Act 2014 but excluding any direct payments under that Act[^c-6a0683740c97d7c3450ee28b737cb9ab].
 
 *Extent: E+W+S+N.I.*
 
@@ -1697,7 +1697,7 @@ but only for a period from the date of the payment until the end of two years fr
 - (b) as respects Wales, under regulation 5, 6 or 11 of the National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (travelling expenses and health service supplies);
 - (c) as respects Scotland, under regulation 3, 5 or 11 of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No. 2) Regulations 2003 (travelling expenses and health service supplies).
 
-(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^key-dd78481f2ecf1df5626bb1bda8fbb532], the Scottish Ministers or the Welsh Ministers which is analogous to a payment or repayment mentioned in sub-paragraph (1).
+(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^c-dd78481f2ecf1df5626bb1bda8fbb532], the Scottish Ministers or the Welsh Ministers which is analogous to a payment or repayment mentioned in sub-paragraph (1).
 
 *Extent: E+W+S+N.I.*
 
@@ -2088,7 +2088,7 @@ Paragraph 63
 
 *Extent: E+W+S+N.I.*
 
-**3.** Any payment made to the applicant in respect of any travel or other expenses incurred, or to be incurred, by him in respect of his participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^key-e614236f69bcdcb3149c390bb57b34b2] but only for 52 weeks beginning with the date of receipt of the payment.
+**3.** Any payment made to the applicant in respect of any travel or other expenses incurred, or to be incurred, by him in respect of his participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^c-e614236f69bcdcb3149c390bb57b34b2] but only for 52 weeks beginning with the date of receipt of the payment.
 
 *Extent: E+W+S+N.I.*
 
@@ -2369,7 +2369,7 @@ for a period of 26 weeks from the date on which he received such a grant or such
 
 but only for a period of 52 weeks from the date of receipt of the payment or repayment.
 
-(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^key-73497214d9d9b7649aea85d58ecd3ac6], the Scottish Ministers or the Welsh Ministers which is analogous to a payment or repayment mentioned in sub-paragraph (1), but only for a period of 52 weeks from the date of receipt of the payment or repayment.
+(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^c-73497214d9d9b7649aea85d58ecd3ac6], the Scottish Ministers or the Welsh Ministers which is analogous to a payment or repayment mentioned in sub-paragraph (1), but only for a period of 52 weeks from the date of receipt of the payment or repayment.
 
 *Extent: E+W+S+N.I.*
 
@@ -2578,57 +2578,57 @@ An impact assessment of the effect that section 13A of the 1992 Act will have on
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 113(1) and (2) was amended by paragraphs 2 and 9(a) of Schedule 1 to the Local Government Act [1999 (c.27)](https://www.legislation.gov.uk/ukpga/1999/27); paragraphs 40 and 52 of Schedule 7 to the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) and section 80 of the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20); Schedule 1A was inserted by Schedule 4 to the Local Government Finance Act [2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17).
 
-[^key-ba502084ef3f4af0e93055ad2026e333]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/i)
+[^c-ba502084ef3f4af0e93055ad2026e333]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/i)
 
-[^key-69cd6af36fd17ddf51b7d6bf0932397d]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/ii)
+[^c-69cd6af36fd17ddf51b7d6bf0932397d]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/ii)
 
-[^key-391afe27feac7c456f52a355ec83312e]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/iii)
+[^c-391afe27feac7c456f52a355ec83312e]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/iii)
 
-[^key-8b979558b9cf167df9a3ca069ba1c9fa]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/iv)
+[^c-8b979558b9cf167df9a3ca069ba1c9fa]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/iv)
 
-[^key-b231badcf54db82f38c3d110a266cf72]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(v)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/v)
+[^c-b231badcf54db82f38c3d110a266cf72]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(v)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/v)
 
-[^key-ba6606caca46013c791f3dc927b0c65f]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(vi)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/vi)
+[^c-ba6606caca46013c791f3dc927b0c65f]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(vi)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/vi)
 
-[^key-af1fe5710dbb2af9ed190a2f3c05a7a4]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(vii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/vii)
+[^c-af1fe5710dbb2af9ed190a2f3c05a7a4]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(vii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/vii)
 
-[^key-467f63fe91e5b592b7865d80092e6f57]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(viii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/viii)
+[^c-467f63fe91e5b592b7865d80092e6f57]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(a)(viii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/a/viii)
 
-[^key-e52c201b4c0121877820993ab6afc18f]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 2 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/b)
+[^c-e52c201b4c0121877820993ab6afc18f]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 2 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/b)
 
-[^key-0645af9cb8366b42a588fbaa5515a30c]: Textual amendment: Word in [Sch. Scheme Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/2/paragraph/6/4) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 140(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/140/a)
+[^c-0645af9cb8366b42a588fbaa5515a30c]: Textual amendment: Word in [Sch. Scheme Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/2/paragraph/6/4) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 140(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/140/a)
 
-[^key-7b0b0853422769e0065fdcd8254024fd]: Textual amendment: Words in [Sch. Scheme Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/2/paragraph/6/4) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 140(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/140/b)
+[^c-7b0b0853422769e0065fdcd8254024fd]: Textual amendment: Words in [Sch. Scheme Sch. 2 para. 6(4)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/2/paragraph/6/4) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 140(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/140/b)
 
 [^f00188]: Footnote: [2001 c.11](https://www.legislation.gov.uk/ukpga/2001/11).
 
-[^key-fab8cdee62f058a680a263bf42001e27]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/i)
+[^c-fab8cdee62f058a680a263bf42001e27]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/i)
 
-[^key-54cc09f7ce39f642479a455cfeea754b]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/ii)
+[^c-54cc09f7ce39f642479a455cfeea754b]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/ii)
 
-[^key-3f038f947fe35f04d0e0dab04b54fab1]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/iii)
+[^c-3f038f947fe35f04d0e0dab04b54fab1]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/iii)
 
-[^key-1e613119fe5d26ca9f45b1ce98dc0d1a]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/iv)
+[^c-1e613119fe5d26ca9f45b1ce98dc0d1a]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/iv)
 
-[^key-0e6591d6fadb474081f59311aa6e3f0f]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(v)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/v)
+[^c-0e6591d6fadb474081f59311aa6e3f0f]: Textual amendment: Sum in Sch. Scheme Sch. 2 para. 12 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [9(c)(v)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/9/c/v)
 
-[^key-04f354c6b0cdc0ee8401f6508cc66216]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/i)
+[^c-04f354c6b0cdc0ee8401f6508cc66216]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/i)
 
-[^key-75f82164ae850e945e6deb398bd50f73]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/ii)
+[^c-75f82164ae850e945e6deb398bd50f73]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/ii)
 
-[^key-c950f612100a9891dd6e12a387ae6f04]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/iii)
+[^c-c950f612100a9891dd6e12a387ae6f04]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/iii)
 
-[^key-fdb7d5717b2dc7a0e5e889a0264da1d3]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/iv)
+[^c-fdb7d5717b2dc7a0e5e889a0264da1d3]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(a)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/a/iv)
 
-[^key-b7bfe134af7f5859fcfc2d625b0c892b]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 3 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/b)
+[^c-b7bfe134af7f5859fcfc2d625b0c892b]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 3 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/b)
 
 [^f00189]: Footnote: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
 
 [^f00190]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-3dcaabf75ef993d9f28763b33bba5920]: Textual amendment: Words in [Sch. Scheme Sch. 3 para. 10(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/3/paragraph/10/1/a/ii) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(3)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/3)
+[^c-3dcaabf75ef993d9f28763b33bba5920]: Textual amendment: Words in [Sch. Scheme Sch. 3 para. 10(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/3/paragraph/10/1/a/ii) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(3)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/3)
 
-[^key-3a08b138214dc105bc612a3795718155]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2886) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-3a08b138214dc105bc612a3795718155]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2886) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00191]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41); paragraph 9 has been amended by sections 17(10) of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (to replace references to the Secretary of State with references to clinical commissioning groups), but those provisions are not yet fully in force.
 
@@ -2636,53 +2636,53 @@ An impact assessment of the effect that section 13A of the 1992 Act will have on
 
 [^f00193]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
-[^key-0830d55df50e26b76ef37544ec5d4eaa]: Textual amendment: Word in [Sch. Scheme Sch. 3 para. 10(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/3/paragraph/10/1/a/vii) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 141(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/141/a)
+[^c-0830d55df50e26b76ef37544ec5d4eaa]: Textual amendment: Word in [Sch. Scheme Sch. 3 para. 10(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/3/paragraph/10/1/a/vii) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 141(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/141/a)
 
-[^key-4bf5d1eb4aab21fd1b6487cf1b349631]: Textual amendment: Words in [Sch. Scheme Sch. 3 para. 10(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/3/paragraph/10/1/a/vii) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 141(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/141/b)
+[^c-4bf5d1eb4aab21fd1b6487cf1b349631]: Textual amendment: Words in [Sch. Scheme Sch. 3 para. 10(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/3/paragraph/10/1/a/vii) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 141(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/141/b)
 
 [^f00194]: Footnote: [2001 c.11](https://www.legislation.gov.uk/ukpga/2001/11).
 
-[^key-f8774eb16595c452aec97fe779d7f1a3]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/i)
+[^c-f8774eb16595c452aec97fe779d7f1a3]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/i)
 
-[^key-f56ed7bb6deeed0098838499cf006ace]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/ii)
+[^c-f56ed7bb6deeed0098838499cf006ace]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/ii)
 
-[^key-027e33d22ca5faf9dc72b32f901857ea]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/iii)
+[^c-027e33d22ca5faf9dc72b32f901857ea]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(iii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/iii)
 
-[^key-ec4021b51e922a44943f04df75e2db18]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/iv)
+[^c-ec4021b51e922a44943f04df75e2db18]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(iv)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/iv)
 
-[^key-f4f421782e7d12f81f2b00eefb6bc3c1]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(v)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/v)
+[^c-f4f421782e7d12f81f2b00eefb6bc3c1]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(v)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/v)
 
 [^M_F_00a54c95-1fba-45b7-f515-0193ae0da35b]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(vi)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/vi)
 
-[^key-32d89a9432ee0c09da50ea386f7d7e2f]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(vii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/vii)
+[^c-32d89a9432ee0c09da50ea386f7d7e2f]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(vii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/vii)
 
-[^key-193e6e39ad6675c5e505fb7b136f97a8]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(viii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/viii)
+[^c-193e6e39ad6675c5e505fb7b136f97a8]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(viii)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/viii)
 
-[^key-114eedfa5e3766b4e2ef73919db3f15a]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(ix)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/ix)
+[^c-114eedfa5e3766b4e2ef73919db3f15a]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 17 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(c)(ix)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/c/ix)
 
-[^key-8c615434ede58ff4c877a10cd73b59ac]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 23 substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/d)
+[^c-8c615434ede58ff4c877a10cd73b59ac]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 23 substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/d)
 
-[^key-b767f2c40955a0837d43b434e4aaca0f]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 24 substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/e)
+[^c-b767f2c40955a0837d43b434e4aaca0f]: Textual amendment: Sum in Sch. Scheme Sch. 3 para. 24 substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/10/e)
 
-[^key-11d25e4f98ad45a82e9e2f83c2529792]: Textual amendment: Sum in Sch. Scheme Sch. 4 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/11/a)
+[^c-11d25e4f98ad45a82e9e2f83c2529792]: Textual amendment: Sum in Sch. Scheme Sch. 4 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/11/a)
 
-[^key-ead202b4d6a343379d9a88a4cd54e5b6]: Textual amendment: Sums in Sch. Scheme Sch. 4 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/11/b)
+[^c-ead202b4d6a343379d9a88a4cd54e5b6]: Textual amendment: Sums in Sch. Scheme Sch. 4 para. 1 Table substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/11/b)
 
 [^f00195]: Footnote: [2005 asp 5](https://www.legislation.gov.uk/asp/2005/5).
 
-[^key-2f873cd03054d94661b53589180742f4]: Textual amendment: Word in [Sch. Scheme Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/5/paragraph/5/1/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 142(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/142/a)
+[^c-2f873cd03054d94661b53589180742f4]: Textual amendment: Word in [Sch. Scheme Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/5/paragraph/5/1/b) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 142(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/142/a)
 
-[^key-5a0af7779bce9826c9b796d8c793ad93]: Textual amendment: Words in [Sch. Scheme Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/5/paragraph/5/1/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 142(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/142/b)
+[^c-5a0af7779bce9826c9b796d8c793ad93]: Textual amendment: Words in [Sch. Scheme Sch. 5 para. 5(1)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/5/paragraph/5/1/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 142(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/142/b)
 
 [^f00196]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517).
 
-[^key-a9ee6cfcf7deea3eb1a2bab79dae346b]: Textual amendment: Words in [Sch. Scheme Sch. 7 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/7/paragraph/1/a/ii) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(4)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/4/a)
+[^c-a9ee6cfcf7deea3eb1a2bab79dae346b]: Textual amendment: Words in [Sch. Scheme Sch. 7 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/7/paragraph/1/a/ii) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(4)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/4/a)
 
-[^key-df22f892d3afcf6fd35aecc0c3308583]: Textual amendment: Words in [Sch. Scheme Sch. 7 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/7/paragraph/1/a/ii) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(4)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/4/b)
+[^c-df22f892d3afcf6fd35aecc0c3308583]: Textual amendment: Words in [Sch. Scheme Sch. 7 para. 1(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/7/paragraph/1/a/ii) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(4)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/4/b)
 
 [^f00197]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-72d9b495f8fcb05c128d77cb438e8fa0]: Textual amendment: Words in [Sch. Scheme Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/3) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/c)
+[^c-72d9b495f8fcb05c128d77cb438e8fa0]: Textual amendment: Words in [Sch. Scheme Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/3) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/c)
 
 [^f00198]: Footnote: [S.I. 1999/2734](https://www.legislation.gov.uk/uksi/1999/2734).
 
@@ -2690,13 +2690,13 @@ An impact assessment of the effect that section 13A of the 1992 Act will have on
 
 [^f00200]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
 
-[^key-f9d19f44e49c9b28f86807874bb947a0]: Textual amendment: [Sch. Scheme Sch. 8 para. 32(da)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/32/da) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 143(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/143/2)
+[^c-f9d19f44e49c9b28f86807874bb947a0]: Textual amendment: [Sch. Scheme Sch. 8 para. 32(da)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/32/da) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 143(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/143/2)
 
-[^key-6a0683740c97d7c3450ee28b737cb9ab]: Textual amendment: Words in [Sch. Scheme Sch. 8 para. 33](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/33) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 143(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/143/3)
+[^c-6a0683740c97d7c3450ee28b737cb9ab]: Textual amendment: Words in [Sch. Scheme Sch. 8 para. 33](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/33) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 143(3)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/143/3)
 
 [^f00201]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-dd78481f2ecf1df5626bb1bda8fbb532]: Textual amendment: Words in [Sch. Scheme Sch. 8 para. 46(2)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/46/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(q)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/q) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-dd78481f2ecf1df5626bb1bda8fbb532]: Textual amendment: Words in [Sch. Scheme Sch. 8 para. 46(2)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/8/paragraph/46/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(q)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/q) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^f00202]: Footnote: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
@@ -2712,13 +2712,13 @@ An impact assessment of the effect that section 13A of the 1992 Act will have on
 
 [^f00208]: Footnote: [2002 c.6](https://www.legislation.gov.uk/nia/2002/6).
 
-[^key-e614236f69bcdcb3149c390bb57b34b2]: Textual amendment: Words in [Sch. Scheme Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/10/paragraph/3) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/c)
+[^c-e614236f69bcdcb3149c390bb57b34b2]: Textual amendment: Words in [Sch. Scheme Sch. 10 para. 3](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/10/paragraph/3) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/c)
 
 [^f00209]: Footnote: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50).
 
 [^f00210]: Footnote: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43).
 
-[^key-73497214d9d9b7649aea85d58ecd3ac6]: Textual amendment: Words in [Sch. Scheme Sch. 10 para. 43(2)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/10/paragraph/43/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(q)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/q) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-73497214d9d9b7649aea85d58ecd3ac6]: Textual amendment: Words in [Sch. Scheme Sch. 10 para. 43(2)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/schedule/10/paragraph/43/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 21(q)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/q) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^f00211]: Footnote: [1944 c.10](https://www.legislation.gov.uk/ukpga/1944/10).
 

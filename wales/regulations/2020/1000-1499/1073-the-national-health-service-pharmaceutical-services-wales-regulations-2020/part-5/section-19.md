@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Applications involving relocation within a Local Health Board’s area[^key-9c89863fdf831d8713067e94ec15a099]
+## 19. Applications involving relocation within a Local Health Board’s area[^c-9c89863fdf831d8713067e94ec15a099]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c89863fdf831d8713067e94ec15a099]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2020/1073/regulation/19) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-9c89863fdf831d8713067e94ec15a099]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2020/1073/regulation/19) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

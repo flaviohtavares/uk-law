@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Persons who may attest applications for a proxy vote[^key-b552505ebf375ee3be46035d67d61fb3]
+## 42. Persons who may attest applications for a proxy vote[^c-b552505ebf375ee3be46035d67d61fb3]
 
 *Extent: E+W*
 
@@ -83,7 +83,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b552505ebf375ee3be46035d67d61fb3]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2006/2910/regulation/42) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-b552505ebf375ee3be46035d67d61fb3]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2006/2910/regulation/42) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00058]: Footnote: Regulation 53 was amended by [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [2002/881](https://www.legislation.gov.uk/uksi/2002/881) and [2004/1771](https://www.legislation.gov.uk/uksi/2004/1771).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102A. Offences[^key-41772a253c1756889291734f0c73ce4d]
+## 102A. Offences[^c-41772a253c1756889291734f0c73ce4d]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41772a253c1756889291734f0c73ce4d]: Textual amendment: S. 102A inserted (E.W.S.) (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/79) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-41772a253c1756889291734f0c73ce4d]: Textual amendment: S. 102A inserted (E.W.S.) (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/79) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

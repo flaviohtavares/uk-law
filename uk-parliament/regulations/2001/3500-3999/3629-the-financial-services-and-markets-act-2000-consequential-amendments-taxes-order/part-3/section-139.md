@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Cessation of individual member’s underwriting business—terminal loss relief[^key-97cd48c63aef1cbf4fb2bae3fbf69c11]
+## 139. Cessation of individual member’s underwriting business—terminal loss relief[^c-97cd48c63aef1cbf4fb2bae3fbf69c11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 14(2) of the Lloyd’s Underwriters (Tax) Regulations 1995 (cessat
 
 ## Annotations
 
-[^key-97cd48c63aef1cbf4fb2bae3fbf69c11]: Commencement: Art. 139 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-97cd48c63aef1cbf4fb2bae3fbf69c11]: Commencement: Art. 139 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

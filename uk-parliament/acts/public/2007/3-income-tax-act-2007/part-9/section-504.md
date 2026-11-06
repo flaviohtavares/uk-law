@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 504. Treatment of income of unauthorised unit trust[^key-81806cf5be0035905eeca3d01f26c590]
+## 504. Treatment of income of unauthorised unit trust[^c-81806cf5be0035905eeca3d01f26c590]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81806cf5be0035905eeca3d01f26c590]: Textual amendment: Ss. 504-505 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(6)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/6) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-81806cf5be0035905eeca3d01f26c590]: Textual amendment: Ss. 504-505 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(6)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/6) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

@@ -159,7 +159,7 @@ Article 3(2)
 
 - (a) the member has failed to attend four or more consecutive meetings of the Authority without the permission of the Secretary of State;
 - (b) the member has a financial interest and it appears to the Secretary of State that the interest is likely to influence or to be capable of being seen as influencing the performance of the member's functions;
-- (c) the member has been made[^key-8ca5414b797ec2eae19ba66644032962] bankrupt, the member's estate has been sequestrated or the member has made a composition with creditors or granted a trust deed for creditors;
+- (c) the member has been made[^c-8ca5414b797ec2eae19ba66644032962] bankrupt, the member's estate has been sequestrated or the member has made a composition with creditors or granted a trust deed for creditors;
 - (d) there has been misconduct on the part of the member relevant to his or her position as a member of the Authority; or
 - (e) the member is unable or unfit to perform the functions of the office.
 
@@ -257,4 +257,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22662631]: Marginal citation: O.J. L 310, 25.11.2005 p.28.
 
-[^key-8ca5414b797ec2eae19ba66644032962]: Textual amendment: Word in [Sch. 2 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2015/1504/schedule/2/paragraph/1/5/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-8ca5414b797ec2eae19ba66644032962]: Textual amendment: Word in [Sch. 2 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2015/1504/schedule/2/paragraph/1/5/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)

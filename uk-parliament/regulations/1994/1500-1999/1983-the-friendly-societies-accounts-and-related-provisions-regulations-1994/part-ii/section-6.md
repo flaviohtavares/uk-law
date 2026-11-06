@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Content and form of accounts[^key-ee970b0d6bcb35bacf269fb8c9277777]
+## 6. Content and form of accounts[^c-ee970b0d6bcb35bacf269fb8c9277777]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ provided that where subparagraph (b) above applies, the individual amounts of an
 
 ## Annotations
 
-[^key-ee970b0d6bcb35bacf269fb8c9277777]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1994/1983/regulation/6) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-ee970b0d6bcb35bacf269fb8c9277777]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1994/1983/regulation/6) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

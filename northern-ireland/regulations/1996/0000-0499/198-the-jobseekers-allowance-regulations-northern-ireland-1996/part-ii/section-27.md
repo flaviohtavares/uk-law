@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Where entitlement is not to cease[^key-efaff0e14fab57ec373d886f2e0d6a2a]
+## 27. Where entitlement is not to cease[^c-efaff0e14fab57ec373d886f2e0d6a2a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efaff0e14fab57ec373d886f2e0d6a2a]: Commencement: Reg. 27 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-efaff0e14fab57ec373d886f2e0d6a2a]: Commencement: Reg. 27 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

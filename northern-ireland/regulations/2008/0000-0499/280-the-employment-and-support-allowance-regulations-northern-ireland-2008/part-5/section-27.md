@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Claimant to be treated as having limited capability for work throughout a day[^key-8623dbb125a461f1a2eedbee0fbdf989]
+## 27. Claimant to be treated as having limited capability for work throughout a day[^c-8623dbb125a461f1a2eedbee0fbdf989]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A claimant who at the commencement of any day has, or thereafter develops, limit
 
 ## Annotations
 
-[^key-8623dbb125a461f1a2eedbee0fbdf989]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2008/280/regulation/27) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-8623dbb125a461f1a2eedbee0fbdf989]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2008/280/regulation/27) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

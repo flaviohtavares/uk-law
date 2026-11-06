@@ -36,7 +36,7 @@ the reference to the owner in subsection (1) above shall be construed as a refer
 
 (3) A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-ef459287f2282964bd909d3decb54872] a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-ef459287f2282964bd909d3decb54872] a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
 (4) It shall be a defence in proceedings for an offence under this section to prove that at the time of the alleged offence—
@@ -78,4 +78,4 @@ and, in determining whether the accused had done so, regard shall be had in part
 
 ## Annotations
 
-[^key-ef459287f2282964bd909d3decb54872]: Textual amendment: Words in [s. 98(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/98/3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-ef459287f2282964bd909d3decb54872]: Textual amendment: Words in [s. 98(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/98/3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(5)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/5) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

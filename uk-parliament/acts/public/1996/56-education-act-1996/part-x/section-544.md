@@ -23,7 +23,7 @@ summary: ''
 (1) Regulations may make provision requiring the Secretary of State’s approval [^c15253531]. . . to be obtained for the provision of new premises for, or the alteration of the premises of—
 
 - (a) any school to which this section applies, or
-- (b) any boarding hostel provided by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] for persons receiving education at any such school.
+- (b) any boarding hostel provided by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] for persons receiving education at any such school.
 
 (2) Regulations may make provision for the inspection of any such hostel.
 
@@ -37,7 +37,7 @@ summary: ''
 
 [^c15253531]: Textual amendment: Words in s. 544(1) repealed (1.4.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 160(a)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/160/a), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15253541]: Textual amendment: Word at the end of s. 544(3)(a) inserted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 160(b)(i)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/160/b/i) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164A. UK to UK Exemption[^key-e3e5f486b449356d841040646f91edf4]
+## 164A. UK to UK Exemption[^c-e3e5f486b449356d841040646f91edf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3e5f486b449356d841040646f91edf4]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/ukpga/2010/8/section/164A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/16/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-e3e5f486b449356d841040646f91edf4]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/ukpga/2010/8/section/164A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 16(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/16/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

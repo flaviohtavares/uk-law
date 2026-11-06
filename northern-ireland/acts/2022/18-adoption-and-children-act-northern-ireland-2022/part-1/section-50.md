@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Orders under section 49: supplementary[^key-48a2ce4625632afad74b0373a5d7c080]
+## 50. Orders under section 49: supplementary[^c-48a2ce4625632afad74b0373a5d7c080]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48a2ce4625632afad74b0373a5d7c080]: Commencement: S. 50 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-48a2ce4625632afad74b0373a5d7c080]: Commencement: S. 50 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

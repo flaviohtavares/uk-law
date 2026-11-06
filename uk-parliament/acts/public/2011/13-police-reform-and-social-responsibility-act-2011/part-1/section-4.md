@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Commissioner of Police of the Metropolis[^key-9de8262fdc5ae27526622b3d6f1f85b7]
+## 4. Commissioner of Police of the Metropolis[^c-9de8262fdc5ae27526622b3d6f1f85b7]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9de8262fdc5ae27526622b3d6f1f85b7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/13/section/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-9de8262fdc5ae27526622b3d6f1f85b7]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/13/section/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

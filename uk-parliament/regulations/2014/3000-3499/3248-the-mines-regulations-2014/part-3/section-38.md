@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Safety features of winding apparatus[^key-5d1e90bd3d84d8541fa2f3d65ed64bb8]
+## 38. Safety features of winding apparatus[^c-5d1e90bd3d84d8541fa2f3d65ed64bb8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The mine operator must ensure that winding apparatus is suitable and has effecti
 
 ## Annotations
 
-[^key-5d1e90bd3d84d8541fa2f3d65ed64bb8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2014/3248/regulation/38) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-5d1e90bd3d84d8541fa2f3d65ed64bb8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2014/3248/regulation/38) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

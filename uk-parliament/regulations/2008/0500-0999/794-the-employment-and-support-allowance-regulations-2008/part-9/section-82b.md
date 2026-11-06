@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82B. Effect of statutory neonatal care pay on a contributory allowance[^key-3be20dce1dfdb7e92581ee57698a5b4a]
+## 82B. Effect of statutory neonatal care pay on a contributory allowance[^c-3be20dce1dfdb7e92581ee57698a5b4a]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3be20dce1dfdb7e92581ee57698a5b4a]: Textual amendment: [Reg. 82B](https://www.legislation.gov.uk/uksi/2008/794/regulation/82B) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2025/201/regulation/14/4)
+[^c-3be20dce1dfdb7e92581ee57698a5b4a]: Textual amendment: [Reg. 82B](https://www.legislation.gov.uk/uksi/2008/794/regulation/82B) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2025/201/regulation/14/4)

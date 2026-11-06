@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Appeals to police appeals tribunals[^key-6543b5727ee4a93414e2861fd2978179][^key-75aaee00c4876f0f9ec20f3173c0af49]
+## 204. Appeals to police appeals tribunals[^c-6543b5727ee4a93414e2861fd2978179][^c-75aaee00c4876f0f9ec20f3173c0af49]
 
 *Extent: E+W+S+N.I.*
 
@@ -163,6 +163,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6543b5727ee4a93414e2861fd2978179]: Commencement: S. 204 in force at Royal Assent for specified purposes, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/h)
+[^c-6543b5727ee4a93414e2861fd2978179]: Commencement: S. 204 in force at Royal Assent for specified purposes, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/h)
 
-[^key-75aaee00c4876f0f9ec20f3173c0af49]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2026/20/section/204) in force at 29.9.2026 in so far as not already in force by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/b)
+[^c-75aaee00c4876f0f9ec20f3173c0af49]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2026/20/section/204) in force at 29.9.2026 in so far as not already in force by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/b)

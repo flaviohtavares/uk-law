@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-fd8bdcbaaf3861c408d58787f7788e7b]
+### PART 1 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-fd8bdcbaaf3861c408d58787f7788e7b]
 
 <table>
 <thead>
@@ -34,7 +34,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 2 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED BY THE STREET AUTHORITY[^key-f1d17d5efb7593772f9d46fe246e0c37]
+### PART 2 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED BY THE STREET AUTHORITY[^c-f1d17d5efb7593772f9d46fe246e0c37]
 
 <table>
 <thead>
@@ -49,6 +49,6 @@ Article 12
 
 ## Annotations
 
-[^key-fd8bdcbaaf3861c408d58787f7788e7b]: Commencement: Sch. 6 Pt. 1 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-fd8bdcbaaf3861c408d58787f7788e7b]: Commencement: Sch. 6 Pt. 1 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
-[^key-f1d17d5efb7593772f9d46fe246e0c37]: Commencement: Sch. 6 Pt. 2 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-f1d17d5efb7593772f9d46fe246e0c37]: Commencement: Sch. 6 Pt. 2 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

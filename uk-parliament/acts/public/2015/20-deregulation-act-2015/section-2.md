@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Removal of employment tribunals' power to make wider recommendations[^key-e83912d5863b1e41ac75a092ccf45a46]
+## 2. Removal of employment tribunals' power to make wider recommendations[^c-e83912d5863b1e41ac75a092ccf45a46]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e83912d5863b1e41ac75a092ccf45a46]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/20/section/2) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(a)](https://www.legislation.gov.uk/uksi/2015/994/article/11/a) (with [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/1))
+[^c-e83912d5863b1e41ac75a092ccf45a46]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/20/section/2) in force at 1.10.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(a)](https://www.legislation.gov.uk/uksi/2015/994/article/11/a) (with [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/1))

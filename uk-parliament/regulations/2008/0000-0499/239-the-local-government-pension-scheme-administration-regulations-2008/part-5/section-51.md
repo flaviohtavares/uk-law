@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Interest on late payment of certain benefits[^key-4d6cce45d67c02c3035ba94b2d5def7a]
+## 51. Interest on late payment of certain benefits[^c-4d6cce45d67c02c3035ba94b2d5def7a]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d6cce45d67c02c3035ba94b2d5def7a]: Commencement: Reg. 51 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-4d6cce45d67c02c3035ba94b2d5def7a]: Commencement: Reg. 51 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

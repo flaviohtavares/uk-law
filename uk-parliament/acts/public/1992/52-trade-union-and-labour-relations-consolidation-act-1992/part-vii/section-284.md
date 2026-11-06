@@ -30,7 +30,7 @@ sections 145A to 151 (inducements and detriment)[^c20397931], and
 
 sections 168 to 173 (time off for trade union duties and activities;
 
-[^key-ef08048519585e6896656b718dda3f85]...
+[^c-ef08048519585e6896656b718dda3f85]...
 
 ## Annotations
 
@@ -38,4 +38,4 @@ sections 168 to 173 (time off for trade union duties and activities;
 
 [^c20397931]: Textual amendment: Words in s. 284 substituted (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/16/2); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/b) (with [arts. 4-8](https://www.legislation.gov.uk/uksi/2004/2566/article/4))
 
-[^key-ef08048519585e6896656b718dda3f85]: Textual amendment: Words in [s. 284](https://www.legislation.gov.uk/ukpga/1992/52/section/284) omitted (13.4.2018) by virtue of [The Seafarers (Insolvency, Collective Redundancies and Information and Consultation Miscellaneous Amendments) Regulations 2018 (S.I. 2018/407)](https://www.legislation.gov.uk/uksi/2018/407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/407/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/407/regulation/3/2) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2018/407/regulation/3/3))
+[^c-ef08048519585e6896656b718dda3f85]: Textual amendment: Words in [s. 284](https://www.legislation.gov.uk/ukpga/1992/52/section/284) omitted (13.4.2018) by virtue of [The Seafarers (Insolvency, Collective Redundancies and Information and Consultation Miscellaneous Amendments) Regulations 2018 (S.I. 2018/407)](https://www.legislation.gov.uk/uksi/2018/407), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/407/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/407/regulation/3/2) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2018/407/regulation/3/3))

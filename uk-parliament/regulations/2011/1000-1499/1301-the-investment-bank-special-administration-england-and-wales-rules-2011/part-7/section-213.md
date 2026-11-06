@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 213. Application to replace (special administration (bank insolvency))[^key-d6d31ab7f8169a88bfe7854f2d28342f]
+## 213. Application to replace (special administration (bank insolvency))[^c-d6d31ab7f8169a88bfe7854f2d28342f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d31ab7f8169a88bfe7854f2d28342f]: Commencement: [Rule 213](https://www.legislation.gov.uk/uksi/2011/1301/rule/213) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d6d31ab7f8169a88bfe7854f2d28342f]: Commencement: [Rule 213](https://www.legislation.gov.uk/uksi/2011/1301/rule/213) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

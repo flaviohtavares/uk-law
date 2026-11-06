@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subsection (3) applies where, at any time after it has instituted an inquiry under section 46 with respect to any charity, the Commission is satisfied—
 
-- (a) that there is or has been a failure to comply with an order or direction of the Commission, a failure to remedy any breach specified in a warning under section 75A, or any other[^key-9e695687bf4b11ad12ffcd35477d593a] misconduct or mismanagement in the administration of the charity, or
+- (a) that there is or has been a failure to comply with an order or direction of the Commission, a failure to remedy any breach specified in a warning under section 75A, or any other[^c-9e695687bf4b11ad12ffcd35477d593a] misconduct or mismanagement in the administration of the charity, or
 - (b) that it is necessary or desirable to act for the purpose of—
   - (i) protecting the property of the charity, or
   - (ii) securing a proper application for the purposes of the charity of that property or of property coming to the charity.
@@ -47,7 +47,7 @@ of sums which are excessive in relation to the property which is or is likely to
 - (f) by order restrict (regardless of anything in the trusts of the charity) the transactions which may be entered into, or the nature or amount of the payments which may be made, in the administration of the charity without the approval of the Commission;
 - (g) by order appoint (in accordance with section 78) an interim manager, to act as receiver and manager in respect of the property and affairs of the charity.
 
-(4) The Commission may not make an order under subsection (3)(a) so as to suspend a person from office or employment for a period of more than 12 months, subject to any extension under subsection (7)[^key-09b261579825ad1a3a1e15f2804936e8].
+(4) The Commission may not make an order under subsection (3)(a) so as to suspend a person from office or employment for a period of more than 12 months, subject to any extension under subsection (7)[^c-09b261579825ad1a3a1e15f2804936e8].
 
 (5) But any order under subsection (3)(a) made in the case of any person (“P”) may make provision, as respects the period of P's suspension for matters arising out of it, and in particular—
 
@@ -61,15 +61,15 @@ This does not affect the generality of section 337(1) and (2).
 - (a) must, at such intervals as it thinks fit, review any order made by it under paragraph (a), or any of paragraphs (c) to (g), of subsection (3), and
 - (b) if on any such review it appears to the Commission that it would be appropriate to discharge the order in whole or in part, must so discharge it (whether subject to any savings or other transitional provisions or not).
 
-(7)[^key-d2f1833c787096c3564bf7bed63dd4cf] At any time before the expiry of an order under paragraph (a) of subsection (3) the Commission may extend or further extend the suspension by an order under that paragraph, provided that—
+(7)[^c-d2f1833c787096c3564bf7bed63dd4cf] At any time before the expiry of an order under paragraph (a) of subsection (3) the Commission may extend or further extend the suspension by an order under that paragraph, provided that—
 
 - (a) the order does not extend the suspension for a period of more than 12 months, and
 - (b) the total period of suspension is not more than 2 years.
 
 ## Annotations
 
-[^key-9e695687bf4b11ad12ffcd35477d593a]: Textual amendment: Words in s. 76(1)(a) substituted (31.7.2016 for specified purposes, 1.11.2016 in so far as not already in force) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/b)
+[^c-9e695687bf4b11ad12ffcd35477d593a]: Textual amendment: Words in s. 76(1)(a) substituted (31.7.2016 for specified purposes, 1.11.2016 in so far as not already in force) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/b)
 
-[^key-09b261579825ad1a3a1e15f2804936e8]: Textual amendment: Words in s. 76(4) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/3), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
+[^c-09b261579825ad1a3a1e15f2804936e8]: Textual amendment: Words in s. 76(4) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/3), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
 
-[^key-d2f1833c787096c3564bf7bed63dd4cf]: Textual amendment: S. 76(7) added (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)
+[^c-d2f1833c787096c3564bf7bed63dd4cf]: Textual amendment: S. 76(7) added (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/2/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/a)

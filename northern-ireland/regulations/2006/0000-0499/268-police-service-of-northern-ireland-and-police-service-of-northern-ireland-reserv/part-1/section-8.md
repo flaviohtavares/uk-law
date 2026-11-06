@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Transitional provisions[^key-7948d39a063ce5e393fd5806c1ac59c7]
+## 8. Transitional provisions[^c-7948d39a063ce5e393fd5806c1ac59c7]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7948d39a063ce5e393fd5806c1ac59c7]: Commencement: Reg. 8 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-7948d39a063ce5e393fd5806c1ac59c7]: Commencement: Reg. 8 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00007]: Footnote: [S.R. 1988 No. 376](https://www.legislation.gov.uk/nisr/1988/376)

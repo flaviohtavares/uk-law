@@ -25,19 +25,19 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-755a619f876cbd795a5d5718b471bd3a]Data Protection Act 1998
+[^c-755a619f876cbd795a5d5718b471bd3a]Data Protection Act 1998
 
 1998 c. 29
 
-An Act to make new provision for the regulation of the processing of information relating to individuals, including the obtaining, holding, use or disclosure of such information.[^key-c77e07f52aab901052bbf79b3dd4f710][^M_C_12028a86-dc6c-413a-95f9-67250d315521]
+An Act to make new provision for the regulation of the processing of information relating to individuals, including the obtaining, holding, use or disclosure of such information.[^c-c77e07f52aab901052bbf79b3dd4f710][^M_C_12028a86-dc6c-413a-95f9-67250d315521]
 
 \[16th July 1998\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-5fffd5b9b24c5e7bb6c4ef1edb5a001a]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-5fffd5b9b24c5e7bb6c4ef1edb5a001a]
 
 ## Contents
 
-### Part I — Preliminary[^key-755a619f876cbd795a5d5718b471bd3a]
+### Part I — Preliminary[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 5 — Application of Act.](part-i/section-5.md)
 - [Section 6 — The Commissioner . . . .](part-i/section-6.md)
 
-### Part II — Rights of data subjects and others[^key-755a619f876cbd795a5d5718b471bd3a]
+### Part II — Rights of data subjects and others[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 14 — Rectification, blocking, erasure and destruction.](part-ii/section-14.md)
 - [Section 15 — Jurisdiction and procedure.](part-ii/section-15.md)
 
-### Part III — Notification by data controllers[^key-755a619f876cbd795a5d5718b471bd3a]
+### Part III — Notification by data controllers[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,7 +86,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 25 — Functions of Commissioner in relation to making of notification regulations.](part-iii/section-25.md)
 - [Section 26 — Fees regulations.](part-iii/section-26.md)
 
-### Part IV — Exemptions[^key-755a619f876cbd795a5d5718b471bd3a]
+### Part IV — Exemptions[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 38 — Powers to make further exemptions by order.](part-iv/section-38.md)
 - [Section 39 — Transitional relief.](part-iv/section-39.md)
 
-### Part V — Enforcement[^key-755a619f876cbd795a5d5718b471bd3a]
+### Part V — Enforcement[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,11 +129,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 49 — Determination of appeals.](part-v/section-49.md)
 - [Section 50 — Powers of entry and inspection.](part-v/section-50.md)
 
-### Part VI — Miscellaneous and General[^key-a2b2a9e31aa2a51eb41f198fec3f271b]
+### Part VI — Miscellaneous and General[^c-a2b2a9e31aa2a51eb41f198fec3f271b]
 
 *Extent: E+W+S+N.I.*
 
-#### Functions of Commissioner[^key-755a619f876cbd795a5d5718b471bd3a]
+#### Functions of Commissioner[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -151,7 +151,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 54 — International co-operation.](part-vi/section-54.md)
 - [Section 54A — Inspection of overseas information systems](part-vi/section-54a.md)
 
-#### Unlawful obtaining et ceteralaetc. of personal data[^key-755a619f876cbd795a5d5718b471bd3a]
+#### Unlawful obtaining et ceteralaetc. of personal data[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -159,7 +159,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 55 — Unlawful obtaining etc. of personal data.](part-vi/section-55.md)
 
-#### Monetary penalties[^key-755a619f876cbd795a5d5718b471bd3a]
+#### Monetary penalties[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,7 +171,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 55D — Monetary penalty notices: enforcement](part-vi/section-55d.md)
 - [Section 55E — Notices under sections 55A and 55B: supplemental](part-vi/section-55e.md)
 
-#### Records obtained under data subject’s right of access[^key-755a619f876cbd795a5d5718b471bd3a]
+#### Records obtained under data subject’s right of access[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -180,7 +180,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 56 — Prohibition of requirement as to production of certain records.](part-vi/section-56.md)
 - [Section 57 — Avoidance of certain contractual terms relating to health records.](part-vi/section-57.md)
 
-#### Information provided to Commissioner or Tribunal[^key-755a619f876cbd795a5d5718b471bd3a]
+#### Information provided to Commissioner or Tribunal[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,7 +189,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 58 — Disclosure of information.](part-vi/section-58.md)
 - [Section 59 — Confidentiality of information.](part-vi/section-59.md)
 
-#### General provisions relating to offences[^key-755a619f876cbd795a5d5718b471bd3a]
+#### General provisions relating to offences[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,7 +202,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 62 — Amendments of Consumer Credit Act 1974.](part-vi/section-62.md)
 
-#### General[^key-755a619f876cbd795a5d5718b471bd3a]
+#### General[^c-755a619f876cbd795a5d5718b471bd3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -246,9 +246,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-755a619f876cbd795a5d5718b471bd3a]: Textual amendment: Act repealed (except s. 62, Sch. 15 paras. 13, 15, 16, 18, 19) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 44](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/44) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and with transitional provisions in [Sch. 20 paras. 2-9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2), [17-25](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/17), [27-46](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/27), [53](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/53), [54](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/54) and saving in [Sch. 20 para. 58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-755a619f876cbd795a5d5718b471bd3a]: Textual amendment: Act repealed (except s. 62, Sch. 15 paras. 13, 15, 16, 18, 19) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 44](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/44) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and with transitional provisions in [Sch. 20 paras. 2-9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/2), [17-25](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/17), [27-46](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/27), [53](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/53), [54](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/54) and saving in [Sch. 20 para. 58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-c77e07f52aab901052bbf79b3dd4f710]: Modification: Act modified (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 432](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/432) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 paras. 58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58), [59](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/59)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c77e07f52aab901052bbf79b3dd4f710]: Modification: Act modified (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 432](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/432) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 paras. 58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58), [59](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/59)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^M_C_12028a86-dc6c-413a-95f9-67250d315521]: Modification: Act: power to amend conferred (8.5.2008) by virtue of [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 77(5)](https://www.legislation.gov.uk/ukpga/2008/4/section/77/5), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153)
 
@@ -276,6 +276,6 @@ SCHEDULES
 
     Act applied (S.) (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 6 para. 64](https://www.legislation.gov.uk/ssi/2018/66/schedule/6/paragraph/64) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-5fffd5b9b24c5e7bb6c4ef1edb5a001a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/29) applied in part (with modifications) in so far as still in force by S.I. 2003/2426, Sch. 1 para. 8AA (as amended) (17.12.2018) by [The Privacy and Electronic Communications (Amendment) Regulations 2018 (S.I. 2018/1189)](https://www.legislation.gov.uk/uksi/2018/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1189/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1189/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1189/regulation/2/3)
+[^c-5fffd5b9b24c5e7bb6c4ef1edb5a001a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1998/29) applied in part (with modifications) in so far as still in force by S.I. 2003/2426, Sch. 1 para. 8AA (as amended) (17.12.2018) by [The Privacy and Electronic Communications (Amendment) Regulations 2018 (S.I. 2018/1189)](https://www.legislation.gov.uk/uksi/2018/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1189/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1189/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1189/regulation/2/3)
 
-[^key-a2b2a9e31aa2a51eb41f198fec3f271b]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1998/29/part/VI) applied (with modifications) (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [51(1)(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/51/1/b)
+[^c-a2b2a9e31aa2a51eb41f198fec3f271b]: Modification: [Pt. VI](https://www.legislation.gov.uk/ukpga/1998/29/part/VI) applied (with modifications) (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [51(1)(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/51/1/b)

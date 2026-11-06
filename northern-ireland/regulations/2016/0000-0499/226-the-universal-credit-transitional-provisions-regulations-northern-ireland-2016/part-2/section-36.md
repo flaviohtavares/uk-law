@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Loss of benefit penalties: transition from existing benefits other than tax credits[^key-7ba06bbc8b3bff96d6d09c9759502a99]
+## 36. Loss of benefit penalties: transition from existing benefits other than tax credits[^c-7ba06bbc8b3bff96d6d09c9759502a99]
 
 *Extent: N.I.*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7ba06bbc8b3bff96d6d09c9759502a99]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2016/226/regulation/36) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-7ba06bbc8b3bff96d6d09c9759502a99]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2016/226/regulation/36) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00051]: Footnote: Regulation 3ZB was inserted by regulation 9 of [S.R. 2016 No. 225](https://www.legislation.gov.uk/nisr/2016/225).
 

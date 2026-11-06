@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Self-certificate declarations[^key-fc0363709d8ff7f3af68b43aa4f2fd71]
+## 81. Self-certificate declarations[^c-fc0363709d8ff7f3af68b43aa4f2fd71]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0363709d8ff7f3af68b43aa4f2fd71]: Textual amendment: S. 81 omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/15)
+[^c-fc0363709d8ff7f3af68b43aa4f2fd71]: Textual amendment: S. 81 omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/15)

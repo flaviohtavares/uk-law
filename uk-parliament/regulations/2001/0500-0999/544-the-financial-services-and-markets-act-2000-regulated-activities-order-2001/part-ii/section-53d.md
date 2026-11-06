@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53D. Advising on regulated sale and rent back agreements[^key-2d6f40f301fa5f45d50bef369c14fcf5]
+## 53D. Advising on regulated sale and rent back agreements[^c-2d6f40f301fa5f45d50bef369c14fcf5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Advising a person is a specified kind of activity if the advice—
 
 ## Annotations
 
-[^key-2d6f40f301fa5f45d50bef369c14fcf5]: Textual amendment: Art. 53D inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [13](https://www.legislation.gov.uk/uksi/2009/1342/article/13)
+[^c-2d6f40f301fa5f45d50bef369c14fcf5]: Textual amendment: Art. 53D inserted (1.7.2009 for specified purposes, 30.6.2010 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [13](https://www.legislation.gov.uk/uksi/2009/1342/article/13)

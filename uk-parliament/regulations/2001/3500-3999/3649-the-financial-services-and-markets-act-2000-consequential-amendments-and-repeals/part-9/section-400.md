@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 400. Further meaning of inability to pay debts where the company is a deposit taker[^key-1b3392e5c69ab3787ff69d7b4d6001a6]
+## 400. Further meaning of inability to pay debts where the company is a deposit taker[^c-1b3392e5c69ab3787ff69d7b4d6001a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ After Article 21(1) of the Insolvency (Northern Ireland) Order 1989 (restriction
 
 ## Annotations
 
-[^key-1b3392e5c69ab3787ff69d7b4d6001a6]: Commencement: Art. 400 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1b3392e5c69ab3787ff69d7b4d6001a6]: Commencement: Art. 400 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

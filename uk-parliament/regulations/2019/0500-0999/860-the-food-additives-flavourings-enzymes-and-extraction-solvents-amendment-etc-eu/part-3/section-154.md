@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Amendment to Commission Regulation (EU) No. 231/2012 laying down specifications for food additives listed in Annexes 2 and 3 to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/eur/2008/1333) of the European Parliament and of the Council[^key-f9b1e7d9acf8944ddb56f1b0f9521abe]
+## 154. Amendment to Commission Regulation (EU) No. 231/2012 laying down specifications for food additives listed in Annexes 2 and 3 to Regulation [(EC) No. 1333/2008](https://www.legislation.gov.uk/eur/2008/1333) of the European Parliament and of the Council[^c-f9b1e7d9acf8944ddb56f1b0f9521abe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation (EU) No. 231/2012 laying down specifications for food addi
 
 ## Annotations
 
-[^key-f9b1e7d9acf8944ddb56f1b0f9521abe]: Commencement: Reg. 154 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f9b1e7d9acf8944ddb56f1b0f9521abe]: Commencement: Reg. 154 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

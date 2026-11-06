@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Commission [Decision 2010/221/EU](https://www.legislation.gov.uk/european/decision/2010/0221)[^key-fe8dbcddaccff8c78ce62642fed6a657]
+## 10. Commission [Decision 2010/221/EU](https://www.legislation.gov.uk/european/decision/2010/0221)[^c-fe8dbcddaccff8c78ce62642fed6a657]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Commission [Decision 2010/221/EU](https://www.legislation.gov.uk/european/decisi
 
 ## Annotations
 
-[^key-fe8dbcddaccff8c78ce62642fed6a657]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1388/regulation/10) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-fe8dbcddaccff8c78ce62642fed6a657]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1388/regulation/10) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

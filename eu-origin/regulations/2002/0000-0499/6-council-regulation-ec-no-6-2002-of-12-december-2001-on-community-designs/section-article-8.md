@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. A supplementary unregistered[^key-d164e09ae11a4c628a10f9fa8bd3d210] design shall not subsist in features of appearance of a product which are solely dictated by its technical function.
+1. A supplementary unregistered[^c-d164e09ae11a4c628a10f9fa8bd3d210] design shall not subsist in features of appearance of a product which are solely dictated by its technical function.
 
 2. A supplementary unregistered design shall not subsist in features of appearance of a product which must necessarily be reproduced in their exact form and dimensions in order to permit the product in which the design is incorporated or to which it is applied to be mechanically connected to or placed in, around or against another product so that either product may perform its function.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d164e09ae11a4c628a10f9fa8bd3d210]: Textual amendment: Words in Art. 8 substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [19](https://www.legislation.gov.uk/uksi/2020/1050/regulation/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d164e09ae11a4c628a10f9fa8bd3d210]: Textual amendment: Words in Art. 8 substituted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [19](https://www.legislation.gov.uk/uksi/2020/1050/regulation/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

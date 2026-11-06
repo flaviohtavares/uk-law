@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS
 
-Animals (Records) (Amendment) Order (Northern Ireland) 2000 (revoked)[^key-dbdf9a428bc1b1b85d877a85db53f6c0]
+Animals (Records) (Amendment) Order (Northern Ireland) 2000 (revoked)[^c-dbdf9a428bc1b1b85d877a85db53f6c0]
 
 Made
 
@@ -41,31 +41,31 @@ Coming into operation
 
 1st January 2001
 
-[^key-dbdf9a428bc1b1b85d877a85db53f6c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbdf9a428bc1b1b85d877a85db53f6c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dbdf9a428bc1b1b85d877a85db53f6c0]
+## 1. Citation and commencement[^c-dbdf9a428bc1b1b85d877a85db53f6c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Animals (Records) Order (Northern Ireland) 1997[^key-dbdf9a428bc1b1b85d877a85db53f6c0]
+## 2. Amendments to the Animals (Records) Order (Northern Ireland) 1997[^c-dbdf9a428bc1b1b85d877a85db53f6c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-dbdf9a428bc1b1b85d877a85db53f6c0]
+## 3. Transitional provision[^c-dbdf9a428bc1b1b85d877a85db53f6c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbdf9a428bc1b1b85d877a85db53f6c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbdf9a428bc1b1b85d877a85db53f6c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-dbdf9a428bc1b1b85d877a85db53f6c0]
+## SCHEDULE[^c-dbdf9a428bc1b1b85d877a85db53f6c0]
 
 Article 2(4)
 
-> **SCHEDULE 3 — Flock Record for Sheep[^key-dbdf9a428bc1b1b85d877a85db53f6c0]**
+> **SCHEDULE 3 — Flock Record for Sheep[^c-dbdf9a428bc1b1b85d877a85db53f6c0]**
 >
 > Article 4(2) and (3A)
 >
@@ -73,8 +73,8 @@ Article 2(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-dbdf9a428bc1b1b85d877a85db53f6c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbdf9a428bc1b1b85d877a85db53f6c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbdf9a428bc1b1b85d877a85db53f6c0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/344) revoked (19.3.2012) by [The Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012 (S.R. 2012/67)](https://www.legislation.gov.uk/nisr/2012/67), [art. 21(1)](https://www.legislation.gov.uk/nisr/2012/67/article/21/1)
+[^c-dbdf9a428bc1b1b85d877a85db53f6c0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2000/344) revoked (19.3.2012) by [The Pigs (Records, Identification and Movement) Order (Northern Ireland) 2012 (S.R. 2012/67)](https://www.legislation.gov.uk/nisr/2012/67), [art. 21(1)](https://www.legislation.gov.uk/nisr/2012/67/article/21/1)

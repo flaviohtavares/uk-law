@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.11. Setting judgment aside and re-hearing[^key-4f8b6f1e79a5ef85463c3f63ad31d1e7]
+## 27.11. Setting judgment aside and re-hearing[^c-4f8b6f1e79a5ef85463c3f63ad31d1e7]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ may apply for an order that a judgment under this Part shall be set aside<sup>(G
 
 ## Annotations
 
-[^key-4f8b6f1e79a5ef85463c3f63ad31d1e7]: Commencement: [Rule 27.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-4f8b6f1e79a5ef85463c3f63ad31d1e7]: Commencement: [Rule 27.11](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.11) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

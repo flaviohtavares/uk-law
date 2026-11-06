@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Civil Aviation Act 1982 (Anguilla) Order 2019 (revoked)[^key-9dd121e4e4abd030a0109366867cb725]
+The Civil Aviation Act 1982 (Anguilla) Order 2019 (revoked)[^c-9dd121e4e4abd030a0109366867cb725]
 
 Made
 
@@ -47,23 +47,23 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-9dd121e4e4abd030a0109366867cb725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd121e4e4abd030a0109366867cb725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9dd121e4e4abd030a0109366867cb725]
+## 1. Citation and commencement[^c-9dd121e4e4abd030a0109366867cb725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of provisions of the Civil Aviation Act 1982 to Anguilla[^key-9dd121e4e4abd030a0109366867cb725]
+## 2. Extension of provisions of the Civil Aviation Act 1982 to Anguilla[^c-9dd121e4e4abd030a0109366867cb725]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9dd121e4e4abd030a0109366867cb725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd121e4e4abd030a0109366867cb725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-9dd121e4e4abd030a0109366867cb725]
+## SCHEDULE[^c-9dd121e4e4abd030a0109366867cb725]
 
 Article 2
 
@@ -71,8 +71,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-9dd121e4e4abd030a0109366867cb725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9dd121e4e4abd030a0109366867cb725]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9dd121e4e4abd030a0109366867cb725]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/756) revoked (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [art. 5](https://www.legislation.gov.uk/uksi/2021/477/article/5)
+[^c-9dd121e4e4abd030a0109366867cb725]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/756) revoked (26.5.2021) by [The Civil Aviation Act 1982 (Overseas Territories) Order 2021 (S.I. 2021/477)](https://www.legislation.gov.uk/uksi/2021/477), [art. 5](https://www.legislation.gov.uk/uksi/2021/477/article/5)

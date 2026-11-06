@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Unlawful conduct: gross human rights abuses or violations[^key-fdfdd36ef5acd3311347d5e4a5cf32e2][^key-ace17c42c66c376d1c51e414a46ca0fe][^c22725171]
+## 13. Unlawful conduct: gross human rights abuses or violations[^c-fdfdd36ef5acd3311347d5e4a5cf32e2][^c-ace17c42c66c376d1c51e414a46ca0fe][^c22725171]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,8 +100,8 @@ whichever is the earliest.
 
 ## Annotations
 
-[^key-fdfdd36ef5acd3311347d5e4a5cf32e2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/22/section/13) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/c)
+[^c-fdfdd36ef5acd3311347d5e4a5cf32e2]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/22/section/13) in force at 31.1.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/c)
 
-[^key-ace17c42c66c376d1c51e414a46ca0fe]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/22/section/13) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/d)
+[^c-ace17c42c66c376d1c51e414a46ca0fe]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/22/section/13) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/d)
 
 [^c22725171]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/22/section/13) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

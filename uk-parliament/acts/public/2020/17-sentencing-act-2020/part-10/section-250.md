@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Sentence of detention: offender convicted of certain serious offences[^key-06006909bf3dec3a0be9d21dc0fce5c9]
+## 250. Sentence of detention: offender convicted of certain serious offences[^c-06006909bf3dec3a0be9d21dc0fce5c9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A sentence of detention under this section is a sentence requiring the offender 
 
 ## Annotations
 
-[^key-06006909bf3dec3a0be9d21dc0fce5c9]: Commencement: S. 250 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-06006909bf3dec3a0be9d21dc0fce5c9]: Commencement: S. 250 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

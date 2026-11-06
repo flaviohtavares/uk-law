@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE[^key-071233f9bf8e583388cbb17156f6a042]
+## SCHEDULE[^c-071233f9bf8e583388cbb17156f6a042]
 
 *Extent: E+W+S+N.I.*
 
@@ -677,7 +677,7 @@ Regulation 65
 
 ## Annotations
 
-[^key-071233f9bf8e583388cbb17156f6a042]: Commencement: Sch. in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-071233f9bf8e583388cbb17156f6a042]: Commencement: Sch. in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00024]: Footnote: [1959 c. 25](https://www.legislation.gov.uk/ukpga/1959/25).
 

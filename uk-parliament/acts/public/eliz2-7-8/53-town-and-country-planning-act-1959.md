@@ -89,7 +89,7 @@ and shall not operate so as to dispense with any requirement for the consent of 
 
 [^c623624]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-344d817598b7c4478868e7754cc7d82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-344d817598b7c4478868e7754cc7d82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c623626] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -152,7 +152,7 @@ and subsection (1) of this section shall not operate so as to dispense with any 
 
 ### 28. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c623646]
 
-### 29. Protection of persons deriving title under transactions requiring consent.[^c623647][^c623648][^key-63006a4e739cc34c4b74386ede7698f4]
+### 29. Protection of persons deriving title under transactions requiring consent.[^c623647][^c623648][^c-63006a4e739cc34c4b74386ede7698f4]
 
 (1) Where after the commencement of this Act an authority to whom this Part of this Act applies purport to acquire, appropriate or dispose of land under an enactment whereby power to acquire, appropriate or dispose of land is conferred on that authority, or on a class of authorities to whom this Part of this Act applies, then—
 
@@ -233,7 +233,7 @@ and subsection (1) of this section shall not operate so as to dispense with any 
 - [^c623707]. . .
 - [^c623713]. . .
 - “**disposal**” means disposal by way of sale, exchange, [^c623714]. . . or lease, or by way of the creation of any easement, [^c623714]. . ., right or privilege, or in any other manner, except by way of appropriation, gift, mortgage [^c623714]. . . and “**dispose of**” shall be construed accordingly;
-- “**function**” means a power or a duty, and “**grant-aided function**”, in relation to a body, means a function in respect of which a grant or contribution [^key-7b57176475f23a240e8637d1ae48c75b]... [^c623714]. . . [^c623720]. . . [^c623714]. . . is payable to that body by a government department out of moneys provided by Parliament;
+- “**function**” means a power or a duty, and “**grant-aided function**”, in relation to a body, means a function in respect of which a grant or contribution [^c-7b57176475f23a240e8637d1ae48c75b]... [^c623714]. . . [^c623720]. . . [^c623714]. . . is payable to that body by a government department out of moneys provided by Parliament;
 - [^c623711]. . .
 - [^c623723]. . .
 - “**local enactment**” means a local or private Act, or an order confirmed by Parliament or brought into operation in accordance with special parliamentary procedure;
@@ -300,9 +300,9 @@ Section 22.
 
 **7.** A coast protection board constituted under section two of the [^c623754]Coast Protection Act, 1949.
 
-**8.**[^key-e7f11cc81be80f2e92e08897444848b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e7f11cc81be80f2e92e08897444848b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c7c34ad7bd079193a6bc65c69084e59b] A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.
+**9.**[^c-c7c34ad7bd079193a6bc65c69084e59b] A fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies.
 
 **10—12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c623757]
 
@@ -366,7 +366,7 @@ Section 22.
 
 [^c623624]: Textual amendment: Words repealed by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1980/65), [Sch. 34 Pt. XIII](https://www.legislation.gov.uk/ukpga/1980/65/schedule/34/part/XIII)
 
-[^key-344d817598b7c4478868e7754cc7d82c]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/section/23/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-344d817598b7c4478868e7754cc7d82c]: Textual amendment: [S. 23(4)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/section/23/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c623626]: Textual amendment: Ss. 22(5), 23(5), 24(4), 25, 26(7), 29(2), 45(3), 46(4), 47, 50, 52(7), 57(3)(*b*)(7), 58(7), Sch. 4 Pt. II, Sch. 10 repealed by [Statute Law Revision Act 1960 (c. 56)](https://www.legislation.gov.uk/ukpga/1960/56)
 
@@ -414,7 +414,7 @@ Section 22.
 
 [^c623648]: Modification: S. 29 excluded by [Housing Act 1985 (c. 68, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/68), [s. 44(2)](https://www.legislation.gov.uk/ukpga/1985/68/section/44/2)
 
-[^key-63006a4e739cc34c4b74386ede7698f4]: Modification: S. 29 excluded (E.) by 1990 c. 8, s. 233(9) (as inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/8/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 3](https://www.legislation.gov.uk/uksi/2013/1124/article/3))
+[^c-63006a4e739cc34c4b74386ede7698f4]: Modification: S. 29 excluded (E.) by 1990 c. 8, s. 233(9) (as inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/8/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 3](https://www.legislation.gov.uk/uksi/2013/1124/article/3))
 
 [^c623649]: Textual amendment: Ss. 22(5), 23(5), 24(4), 25, 26(7), 29(2), 45(3), 46(4), 47, 50, 52(7), 57(3)(*b*)(7), 58(7), Sch. 4 Pt. II, Sch. 10 repealed by [Statute Law Revision Act 1960 (c. 56)](https://www.legislation.gov.uk/ukpga/1960/56)
 
@@ -464,7 +464,7 @@ Section 22.
 
 [^c623714]: Textual amendment: Words repealed by [Statute Law Revision Act 1960 (c. 56)](https://www.legislation.gov.uk/ukpga/1960/56)
 
-[^key-7b57176475f23a240e8637d1ae48c75b]: Textual amendment: Words in [s. 57(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/section/57/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-7b57176475f23a240e8637d1ae48c75b]: Textual amendment: Words in [s. 57(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/section/57/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c623720]: Textual amendment: Words repealed by [Housing Finance Act 1972 (c. 47)](https://www.legislation.gov.uk/ukpga/1972/47), [Sch. 11 Pt. VI](https://www.legislation.gov.uk/ukpga/1972/47/schedule/11/part/VI)
 
@@ -494,9 +494,9 @@ Section 22.
 
 [^c623754]: Marginal citation: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74).
 
-[^key-e7f11cc81be80f2e92e08897444848b8]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/schedule/FOURTH/paragraph/8) omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 74](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/74); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-e7f11cc81be80f2e92e08897444848b8]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/schedule/FOURTH/paragraph/8) omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 74](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/74); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-c7c34ad7bd079193a6bc65c69084e59b]: Textual amendment: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/schedule/FOURTH/paragraph/9) substituted (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/13); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/wsi/2004/2917), [art. 2](https://www.legislation.gov.uk/wsi/2004/2917/article/2)
+[^c-c7c34ad7bd079193a6bc65c69084e59b]: Textual amendment: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/schedule/FOURTH/paragraph/9) substituted (1.10.2004 except in relation to W., 10.11.2004 for W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/13); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/wsi/2004/2917), [art. 2](https://www.legislation.gov.uk/wsi/2004/2917/article/2)
 
 [^c623757]: Textual amendment: [Sch. 4 Pt. I paras. 6](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/schedule/4/part/I/paragraph/6), [10–12](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/53/schedule/4/part/I/paragraph/10) repealed by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190(3)](https://www.legislation.gov.uk/ukpga/1989/15/section/190/3), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [55](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/55), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)) )
 

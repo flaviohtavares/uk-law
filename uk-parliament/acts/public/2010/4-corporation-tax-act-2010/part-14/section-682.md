@@ -29,7 +29,7 @@ summary: ''
 
 are treated for the purposes of Chapter 2 of Part 16 of CTA 2009 (companies with investment business) as expenses of management referable to that notional accounting period.
 
-(3) Any allowances which are apportioned to either of the notional accounting periods in accordance with section 685 are treated for the purposes of sections 253 and 270HE[^key-1f86ddbcfad6d28c29bef27e83ab6a7b] of CAA 2001 and section 1233 of CTA 2009 (companies with investment business: excess capital allowances) as falling to be made in that notional accounting period.
+(3) Any allowances which are apportioned to either of the notional accounting periods in accordance with section 685 are treated for the purposes of sections 253 and 270HE[^c-1f86ddbcfad6d28c29bef27e83ab6a7b] of CAA 2001 and section 1233 of CTA 2009 (companies with investment business: excess capital allowances) as falling to be made in that notional accounting period.
 
 (4) In calculating the taxable total profits of an accounting period of the company ending after the change in ownership, no deduction may be made under section 1219 of CTA 2009 (expenses of management of a company's investment business) by reference to—
 
@@ -38,4 +38,4 @@ are treated for the purposes of Chapter 2 of Part 16 of CTA 2009 (companies with
 
 ## Annotations
 
-[^key-1f86ddbcfad6d28c29bef27e83ab6a7b]: Textual amendment: Words in [s. 682(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/682/3) substituted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/9/2)
+[^c-1f86ddbcfad6d28c29bef27e83ab6a7b]: Textual amendment: Words in [s. 682(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/682/3) substituted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/9/2)

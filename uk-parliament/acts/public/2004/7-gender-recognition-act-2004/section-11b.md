@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B (Extent: N.I.). Change in gender of civil partner (Extent: N.I.)[^M_E_74ea5e2e-accd-498b-b75b-26337c6504c5][^key-af553a5f986ee99313df1213eb0d5818]
+## 11B (Extent: N.I.). Change in gender of civil partner (Extent: N.I.)[^M_E_74ea5e2e-accd-498b-b75b-26337c6504c5][^c-af553a5f986ee99313df1213eb0d5818]
 
 *Extent: E+W+N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^M_E_74ea5e2e-accd-498b-b75b-26337c6504c5]: Extent: This version of this provision extends to England and Wales and Northern Ireland only; a separate version has been created for Scotland only
 
-[^key-af553a5f986ee99313df1213eb0d5818]: Textual amendment: S. 11B substituted: (E.W.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/1458/regulation/32) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35)); and substituted (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [45(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/45/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-af553a5f986ee99313df1213eb0d5818]: Textual amendment: S. 11B substituted: (E.W.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2019/1458/regulation/32) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35)); and substituted (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [45(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/45/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^M_E_f0ca1e49-d390-4d2b-93c7-51196829ddc3]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales and Northern Ireland only
 

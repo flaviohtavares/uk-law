@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Power to make orders in relation to vexatious behaviour[^key-d5dfecd31bd9884449052677c2c0f407][^key-dbd6e2c99096ea3057c0732d329c7090]
+## 102. Power to make orders in relation to vexatious behaviour[^c-d5dfecd31bd9884449052677c2c0f407][^c-dbd6e2c99096ea3057c0732d329c7090]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5dfecd31bd9884449052677c2c0f407]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2014/18/section/102) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-d5dfecd31bd9884449052677c2c0f407]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2014/18/section/102) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-dbd6e2c99096ea3057c0732d329c7090]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2014/18/section/102) in force at 28.11.2016 in so far as not already in force by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)
+[^c-dbd6e2c99096ea3057c0732d329c7090]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2014/18/section/102) in force at 28.11.2016 in so far as not already in force by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Power of court to order cause of offence to be remedied[^key-ee95d7f0fc28344e75c719772cfba8b3]
+## 39. Power of court to order cause of offence to be remedied[^c-ee95d7f0fc28344e75c719772cfba8b3]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee95d7f0fc28344e75c719772cfba8b3]: Commencement: Reg. 39 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-ee95d7f0fc28344e75c719772cfba8b3]: Commencement: Reg. 39 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

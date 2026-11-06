@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Compensation for breach of section 39[^key-09201465586b9526b3318e066c0fdd55]
+## 40. Compensation for breach of section 39[^c-09201465586b9526b3318e066c0fdd55]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09201465586b9526b3318e066c0fdd55]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2016/1/section/40) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-09201465586b9526b3318e066c0fdd55]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2016/1/section/40) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

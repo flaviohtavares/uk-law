@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Supervision of establishments providing accommodation for persons and inspection of records etc.[^key-58db2bd923f44d6a67a9a101f66bc1b3]
+## 6. Supervision of establishments providing accommodation for persons and inspection of records etc.[^c-58db2bd923f44d6a67a9a101f66bc1b3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58db2bd923f44d6a67a9a101f66bc1b3]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1968/49/section/6) repealed (23.2.2006) by [Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)](https://www.legislation.gov.uk/asp/2006/3), [ss. 8(4)(a)](https://www.legislation.gov.uk/asp/2006/3/section/8/4/a), [10(2)](https://www.legislation.gov.uk/asp/2006/3/section/10/2)
+[^c-58db2bd923f44d6a67a9a101f66bc1b3]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1968/49/section/6) repealed (23.2.2006) by [Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)](https://www.legislation.gov.uk/asp/2006/3), [ss. 8(4)(a)](https://www.legislation.gov.uk/asp/2006/3/section/8/4/a), [10(2)](https://www.legislation.gov.uk/asp/2006/3/section/10/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30A. Powers relating to offence of possessing false or misleading evidence relating to vaccination or coronavirus test results[^key-9bae479d9ed048421cf62a007cbb72f1]
+## 30A. Powers relating to offence of possessing false or misleading evidence relating to vaccination or coronavirus test results[^c-9bae479d9ed048421cf62a007cbb72f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bae479d9ed048421cf62a007cbb72f1]: Textual amendment: Reg. 30A omitted (18.2.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/142)](https://www.legislation.gov.uk/wsi/2022/142), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/142/regulation/1/2), [2(10)](https://www.legislation.gov.uk/wsi/2022/142/regulation/2/10)
+[^c-9bae479d9ed048421cf62a007cbb72f1]: Textual amendment: Reg. 30A omitted (18.2.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/142)](https://www.legislation.gov.uk/wsi/2022/142), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/142/regulation/1/2), [2(10)](https://www.legislation.gov.uk/wsi/2022/142/regulation/2/10)

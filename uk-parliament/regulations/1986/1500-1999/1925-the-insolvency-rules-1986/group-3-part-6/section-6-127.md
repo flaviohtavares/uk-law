@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.127. Action following acceptance of resignation[^key-af0b42a15e49e8e7589aa4c64cc16322]
+## 6.127. Action following acceptance of resignation[^c-af0b42a15e49e8e7589aa4c64cc16322]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ The notice shall be accompanied by a copy of the account sent to creditors under
 
 ## Annotations
 
-[^key-af0b42a15e49e8e7589aa4c64cc16322]: Commencement: [Rule 6.127](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.127) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-af0b42a15e49e8e7589aa4c64cc16322]: Commencement: [Rule 6.127](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.127) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00164]: Marginal citation: \[FORM 6.35\]
 

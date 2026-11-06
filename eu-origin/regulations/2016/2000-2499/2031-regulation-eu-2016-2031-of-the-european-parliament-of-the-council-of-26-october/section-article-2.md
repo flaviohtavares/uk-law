@@ -37,7 +37,7 @@ For the purposes of this Regulation, the following definitions apply:
   - ((l)) buds, budwood, cuttings, scions, grafts;
 - ((2)) ‘plant products’ means unmanufactured material of plant origin and those manufactured products that, by their nature or that of their processing, may create a risk of the spread of quarantine pests.
 
-  Except where otherwise provided in the Phytosanitary Conditions Regulation, other[^key-ba92e3a3665f78e49adb44d6df4e419f] assimilated[^key-b7853698df3a82ead9c486ab5f2b9e2b] law relating to plant health or regulations made under Article 28(1) or 30(1), wood shall only be considered as a plant product if it fulfils one or more of the following criteria:
+  Except where otherwise provided in the Phytosanitary Conditions Regulation, other[^c-ba92e3a3665f78e49adb44d6df4e419f] assimilated[^c-b7853698df3a82ead9c486ab5f2b9e2b] law relating to plant health or regulations made under Article 28(1) or 30(1), wood shall only be considered as a plant product if it fulfils one or more of the following criteria:
 
   - ((a)) it retains all or part of its natural round surface, with or without bark;
   - ((b)) it has not retained its natural round surface due to sawing, cutting or cleaving;
@@ -46,7 +46,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((3)) ‘planting’ means any operation for the placing of plants in a growing medium, or by grafting or similar operations, to ensure their subsequent growth, reproduction or propagation;
 - ((4)) ‘plants for planting’ means plants intended to remain planted, to be planted or to be replanted;
 - ((5)) ‘other object’ means any material or object, other than plants or plant products, capable of harbouring or spreading pests, including soil or growing medium;
-- ((6)) ‘competent authority’ means:[^key-efee7763d4b702fc7623975d9e4635c0]
+- ((6)) ‘competent authority’ means:[^c-efee7763d4b702fc7623975d9e4635c0]
   - ((a)) in relation to England, the Secretary of State or the Forestry Commissioners;
   - ((b)) in relation to Scotland, the Scottish Ministers; and
   - ((c)) in relation to Wales, the Welsh Ministers;
@@ -56,11 +56,11 @@ For the purposes of this Regulation, the following definitions apply:
   - ((a)) planting;
   - ((b)) breeding;
   - ((c)) production, including growing, multiplying and maintaining;
-  - ((d)) introduction into, and movement within and out of, Great Britain[^key-092606b1b9366c5fbcefe22cc379009d];
+  - ((d)) introduction into, and movement within and out of, Great Britain[^c-092606b1b9366c5fbcefe22cc379009d];
   - ((e)) making available on the market;
   - ((f)) storage, collection, dispatching and processing;
 - ((10)) ‘registered operator’ means a professional operator registered in accordance with Article 65;
-- ((11)) ‘authorised operator’ means a registered operator authorised by the competent authority to issue UK[^key-c9e45e782327a928e79a7f49ded6aba6] plant passports in accordance with Article 89, to apply a mark in accordance with Article 98, or to issue attestations in accordance with Article 99;
+- ((11)) ‘authorised operator’ means a registered operator authorised by the competent authority to issue UK[^c-c9e45e782327a928e79a7f49ded6aba6] plant passports in accordance with Article 89, to apply a mark in accordance with Article 98, or to issue attestations in accordance with Article 99;
 - ((12)) ‘final user’ means any person acting for purposes which are outside that person's trade, business or profession who acquires plants or plant products for personal use;
 - ((13)) ‘test’ means an official examination, other than visual, to determine if pests are present or to identify pests;
 - ((14)) ‘treatment’ means a procedure, whether official or non-official, for the killing, inactivation or removal of pests, or for rendering those pests infertile, or for the devitalisation of plants or plant products;
@@ -72,7 +72,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((20)) ‘confinement facility’ means any facility, other than quarantine stations, where pests, plants, plant products or other objects are kept under confinement conditions;
 - ((21)) ‘traceability code’ means a letter, numerical or alphanumerical code that identifies a consignment, lot or trade unit, used for traceability purposes, including codes referring to a lot, batch, series, date of production or professional operator documents;
 - ((22)) ‘phytosanitary measure’ means any official measure having the purpose to prevent the introduction or spread of quarantine pests or to limit the economic impact of regulated non-quarantine pests.
-- ((23)) ‘Regulation (EU) 2017/625’ means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ;[^key-048996d47c4dfe2dafae2d8df3056001]
+- ((23)) ‘Regulation (EU) 2017/625’ means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products ;[^c-048996d47c4dfe2dafae2d8df3056001]
 - ((24)) ‘appropriate authority’ has the meaning given in Article 2a;
 - ((25)) ‘appropriate computerised information management system’ means the computerised information management system for official controls referred to in Article 131 of Regulation (EU) 2017/625;
 - ((26)) ‘CD authority’, in relation to a CD territory, means the authority that is officially responsible in that territory for the implementation of rules in relation to protective measures against pests of plants;
@@ -93,7 +93,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((39)) ‘priority pest’ has the meaning given in Article 6(1);
 - ((40)) ‘provisional GB quarantine pest’ has the meaning given in Article 30(A1);
 - ((41)) ‘relevant CD legislation’, in relation to a CD territory, means legislation on protective measures against pests of plants that is in force in that CD territory;
-- ((42)) ‘relevant legislation on the marketing of seeds and other propagating material’ means assimilated[^key-26033ae3e4234e77ed9ccb8a77470d98] law that implemented:
+- ((42)) ‘relevant legislation on the marketing of seeds and other propagating material’ means assimilated[^c-26033ae3e4234e77ed9ccb8a77470d98] law that implemented:
   - ((a)) in relation to fodder plant seed, Council Directive 66/401/EEC on the marketing of fodder plant seed;
   - ((b)) in relation to cereal seed, Council Directive 66/402/EEC on the marketing of cereal seed;
   - ((c)) in relation to propagating material of ornamental plants, Council Directive 98/56/EC on the marketing of propagating material of ornamental plants;
@@ -109,16 +109,16 @@ For the purposes of this Regulation, the following definitions apply:
 
 ## Annotations
 
-[^key-ba92e3a3665f78e49adb44d6df4e419f]: Textual amendment: Words in Art. 2(2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/3/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-ba92e3a3665f78e49adb44d6df4e419f]: Textual amendment: Words in Art. 2(2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/3/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-b7853698df3a82ead9c486ab5f2b9e2b]: Textual amendment: Word in [Art. 2(2)](https://www.legislation.gov.uk/eur/2016/2031/article/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 115(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/115/2/a)
+[^c-b7853698df3a82ead9c486ab5f2b9e2b]: Textual amendment: Word in [Art. 2(2)](https://www.legislation.gov.uk/eur/2016/2031/article/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 115(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/115/2/a)
 
-[^key-efee7763d4b702fc7623975d9e4635c0]: Textual amendment: Art. 2(6) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(3)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/3/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-efee7763d4b702fc7623975d9e4635c0]: Textual amendment: Art. 2(6) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(3)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/3/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-092606b1b9366c5fbcefe22cc379009d]: Textual amendment: Words in Art. 2(9)(d) substituted (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/2/2)
+[^c-092606b1b9366c5fbcefe22cc379009d]: Textual amendment: Words in Art. 2(9)(d) substituted (20.4.2021) by [The Official Controls, Plant Health, Seeds and Seed Potatoes (Amendment etc.) Regulations 2021 (S.I. 2021/426)](https://www.legislation.gov.uk/uksi/2021/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/2/2)
 
-[^key-c9e45e782327a928e79a7f49ded6aba6]: Textual amendment: Word in Art. 2(11) inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/2)
+[^c-c9e45e782327a928e79a7f49ded6aba6]: Textual amendment: Word in Art. 2(11) inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/2)
 
-[^key-048996d47c4dfe2dafae2d8df3056001]: Textual amendment: Art. 2(23)-(44) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(3)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/3/c) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-048996d47c4dfe2dafae2d8df3056001]: Textual amendment: Art. 2(23)-(44) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [26(3)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/26/3/c) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-26033ae3e4234e77ed9ccb8a77470d98]: Textual amendment: Word in [Art. 2(42)](https://www.legislation.gov.uk/eur/2016/2031/article/2/42) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 115(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/115/2/a)
+[^c-26033ae3e4234e77ed9ccb8a77470d98]: Textual amendment: Word in [Art. 2(42)](https://www.legislation.gov.uk/eur/2016/2031/article/2/42) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 115(2)(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/115/2/a)

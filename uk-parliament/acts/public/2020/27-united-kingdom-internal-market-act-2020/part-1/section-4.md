@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Exclusion of certain requirements existing before commencement[^key-caa97687a9d290fe2ef4ce520d847641]
+## 4. Exclusion of certain requirements existing before commencement[^c-caa97687a9d290fe2ef4ce520d847641]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ is not a relevant requirement (so far as relating to the sale) for the purposes 
 
 ## Annotations
 
-[^key-caa97687a9d290fe2ef4ce520d847641]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/27/section/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-caa97687a9d290fe2ef4ce520d847641]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2020/27/section/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

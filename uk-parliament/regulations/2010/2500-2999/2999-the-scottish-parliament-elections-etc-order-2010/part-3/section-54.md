@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Court’s power to require information from election agent or sub-agent[^key-08cbf14ba536132266455ae8189ec08f]
+## 54. Court’s power to require information from election agent or sub-agent[^c-08cbf14ba536132266455ae8189ec08f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ as the court considers just, within such time, to such person and in such manner
 
 ## Annotations
 
-[^key-08cbf14ba536132266455ae8189ec08f]: Commencement: Art. 54 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-08cbf14ba536132266455ae8189ec08f]: Commencement: Art. 54 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

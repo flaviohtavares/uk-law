@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Ukraine (European Union Financial Sanctions) (No.3) (Amendment) Regulations 2014 (revoked)[^key-7861e30cef07095d5b65b49c05b417a6]
+The Ukraine (European Union Financial Sanctions) (No.3) (Amendment) Regulations 2014 (revoked)[^c-7861e30cef07095d5b65b49c05b417a6]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 at 1.00 p.m. on 15th September 2014
 
-[^key-7861e30cef07095d5b65b49c05b417a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7861e30cef07095d5b65b49c05b417a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7861e30cef07095d5b65b49c05b417a6]
+## 1. Citation and commencement[^c-7861e30cef07095d5b65b49c05b417a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Ukraine (European Union Financial Sanctions) (No.3) Regulations 2014[^key-7861e30cef07095d5b65b49c05b417a6]
+## 2. Amendments to the Ukraine (European Union Financial Sanctions) (No.3) Regulations 2014[^c-7861e30cef07095d5b65b49c05b417a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7861e30cef07095d5b65b49c05b417a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7861e30cef07095d5b65b49c05b417a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7861e30cef07095d5b65b49c05b417a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7861e30cef07095d5b65b49c05b417a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7861e30cef07095d5b65b49c05b417a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7861e30cef07095d5b65b49c05b417a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2445) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [13(d)](https://www.legislation.gov.uk/uksi/2020/590/regulation/13/d); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-7861e30cef07095d5b65b49c05b417a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/2445) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [13(d)](https://www.legislation.gov.uk/uksi/2020/590/regulation/13/d); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

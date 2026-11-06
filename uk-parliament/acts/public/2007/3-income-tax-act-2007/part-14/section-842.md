@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 842. UK Economic Interest Groupings and European Economic Interest Groupings[^key-0f062b5c37bea99b6c483fdcaae18391]
+## 842. UK Economic Interest Groupings and European Economic Interest Groupings[^c-0f062b5c37bea99b6c483fdcaae18391]
 
 *Extent: E+W+S+N.I.*
 
-(1) The following rules about UK Economic Interest Groupings and[^key-b8abf6d9d59a3feb3b9fac7119d1d9fd] European Economic Interest Groupings apply for the purposes of charging income tax—
+(1) The following rules about UK Economic Interest Groupings and[^c-b8abf6d9d59a3feb3b9fac7119d1d9fd] European Economic Interest Groupings apply for the purposes of charging income tax—
 
 *Rule 1*
 
@@ -44,12 +44,12 @@ Any trade or profession carried on by the grouping is treated as carried on in p
 
 (4) If the contract does not provide for this either, the members are treated as having equal shares of the property, rights and liabilities of the grouping.
 
-(5)[^key-8f81203b9a42f4fb9196937068fa2aad] “European Economic Interest Grouping” means a grouping registered in a member State and formed in pursuance of [Council Regulation (EEC) No. 2137/85](https://www.legislation.gov.uk/eur/1985/2137) of 25 July 1985 on the European Economic Interest Grouping as it has effect in EU law.
+(5)[^c-8f81203b9a42f4fb9196937068fa2aad] “European Economic Interest Grouping” means a grouping registered in a member State and formed in pursuance of [Council Regulation (EEC) No. 2137/85](https://www.legislation.gov.uk/eur/1985/2137) of 25 July 1985 on the European Economic Interest Grouping as it has effect in EU law.
 
 ## Annotations
 
-[^key-0f062b5c37bea99b6c483fdcaae18391]: Textual amendment: Words in [s. 842](https://www.legislation.gov.uk/ukpga/2007/3/section/842) heading inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(9)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/9/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f062b5c37bea99b6c483fdcaae18391]: Textual amendment: Words in [s. 842](https://www.legislation.gov.uk/ukpga/2007/3/section/842) heading inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(9)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/9/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8abf6d9d59a3feb3b9fac7119d1d9fd]: Textual amendment: Words in [s. 842(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/842/1) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(9)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/9/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8abf6d9d59a3feb3b9fac7119d1d9fd]: Textual amendment: Words in [s. 842(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/842/1) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(9)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/9/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f81203b9a42f4fb9196937068fa2aad]: Textual amendment: [S. 842(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/842/5) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(9)(c)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/9/c) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f81203b9a42f4fb9196937068fa2aad]: Textual amendment: [S. 842(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/842/5) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(9)(c)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/9/c) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

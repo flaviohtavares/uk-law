@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Regulations under the LTA 1985: procedure and appropriate authority[^key-3d5ca203061c1019ca83d00811c104c1]
+## 68. Regulations under the LTA 1985: procedure and appropriate authority[^c-3d5ca203061c1019ca83d00811c104c1]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d5ca203061c1019ca83d00811c104c1]: Commencement: S. 68 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3d5ca203061c1019ca83d00811c104c1]: Commencement: S. 68 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

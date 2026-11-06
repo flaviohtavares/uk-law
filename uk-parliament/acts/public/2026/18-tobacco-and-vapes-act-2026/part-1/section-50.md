@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Interpretation of Part 1[^key-d32bbd9f9a53973a0b030ceb389cc101]
+## 50. Interpretation of Part 1[^c-d32bbd9f9a53973a0b030ceb389cc101]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ In this Part—
 
 ## Annotations
 
-[^key-d32bbd9f9a53973a0b030ceb389cc101]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2026/18/section/50) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-d32bbd9f9a53973a0b030ceb389cc101]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2026/18/section/50) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

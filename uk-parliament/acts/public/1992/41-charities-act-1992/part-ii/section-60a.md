@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Other persons making appeals required to indicate institutions benefiting and arrangements for remuneration[^key-fe85dba891f4a663141735540402beae]
+## 60A. Other persons making appeals required to indicate institutions benefiting and arrangements for remuneration[^c-fe85dba891f4a663141735540402beae]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ is not complied with in relation to any solicitation, the collector concerned sh
 
 ## Annotations
 
-[^key-fe85dba891f4a663141735540402beae]: Textual amendment: Ss. 60A, 60B inserted (27.2.2007 for the insertion of s. 60B(6) for specified purposes, 1.4.2008 for the insertion of ss. 60A(4)-(7)(9), 60A(8)(10) for specified purposes, 60B(4)(5)) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 68](https://www.legislation.gov.uk/ukpga/2006/50/section/68), [79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule); [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))
+[^c-fe85dba891f4a663141735540402beae]: Textual amendment: Ss. 60A, 60B inserted (27.2.2007 for the insertion of s. 60B(6) for specified purposes, 1.4.2008 for the insertion of ss. 60A(4)-(7)(9), 60A(8)(10) for specified purposes, 60B(4)(5)) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 68](https://www.legislation.gov.uk/ukpga/2006/50/section/68), [79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule); [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))

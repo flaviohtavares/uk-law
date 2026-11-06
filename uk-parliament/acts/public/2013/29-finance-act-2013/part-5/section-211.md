@@ -28,7 +28,7 @@ summary: ''
 (2) In determining any issue in connection with the general anti-abuse rule, a court or tribunal must take into account—
 
 - (a) HMRC's guidance about the general anti-abuse rule that was approved by the GAAR Advisory Panel at the time the tax arrangements were entered into, and
-- (b) any opinion of the GAAR Advisory Panel given—[^key-bf960de9c558a6813b91acbdd0dea55c]
+- (b) any opinion of the GAAR Advisory Panel given—[^c-bf960de9c558a6813b91acbdd0dea55c]
   - (i) under paragraph 11 of Schedule 43 about the arrangements or any tax arrangements which are, as a result of a notice under paragraph 1 or 2 of Schedule 43A, the referred or (as the case may be) counteracted arrangements in relation to the arrangements, or
   - (ii) under paragraph 6 of Schedule 43B in respect of a generic referral of the arrangements.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf960de9c558a6813b91acbdd0dea55c]: Textual amendment: Words in s. 211(2)(b) substituted (15.9.2016) (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/6)
+[^c-bf960de9c558a6813b91acbdd0dea55c]: Textual amendment: Words in s. 211(2)(b) substituted (15.9.2016) (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/6)

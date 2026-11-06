@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by section 43F of the Employment Rights Act 1996[^f00001].
 
-## 1. Citation and commencement[^key-9504ece59e244ba2c96ec7b5ada73a0a]
+## 1. Citation and commencement[^c-9504ece59e244ba2c96ec7b5ada73a0a]
 
 This Order may be cited as the Public Interest Disclosure (Prescribed Persons) (Amendment) Order 2023 and comes into force on 27th December 2023.
 
-## 2. Amendments to the Public Interest Disclosure (Prescribed Persons) Order 2014[^key-f83199eaec39e9fc125d2d8f0781860f]
+## 2. Amendments to the Public Interest Disclosure (Prescribed Persons) Order 2014[^c-f83199eaec39e9fc125d2d8f0781860f]
 
 In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 2014[^f00002], in the entry relating to the Office of Communications, in the second column—
 
@@ -86,9 +86,9 @@ A full impact assessment has not been produced for this Order as no significant 
 
 [^f00001]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 43F was inserted by section 1 of the Public Interest Disclosure Act [1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23). Section 43F(1)(a) was amended by section 18(1)(c) of the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-9504ece59e244ba2c96ec7b5ada73a0a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/1254/article/1) in force at 27.12.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1254/article/1)
+[^c-9504ece59e244ba2c96ec7b5ada73a0a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/1254/article/1) in force at 27.12.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1254/article/1)
 
-[^key-f83199eaec39e9fc125d2d8f0781860f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/1254/article/2) in force at 27.12.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1254/article/1)
+[^c-f83199eaec39e9fc125d2d8f0781860f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/1254/article/2) in force at 27.12.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1254/article/1)
 
 [^f00002]: Footnote: [S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418), amended by [S.I. 2022/1249](https://www.legislation.gov.uk/uksi/2022/1249); there are other amending instruments but none is relevant.
 

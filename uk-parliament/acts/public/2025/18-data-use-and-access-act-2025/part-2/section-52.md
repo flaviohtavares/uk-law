@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Arrangements for third party to exercise functions[^key-6e3f641845bb01fc5e785efadc5093ca][^key-f42f57e40ab6baf8dd505896a7032d90]
+## 52. Arrangements for third party to exercise functions[^c-6e3f641845bb01fc5e785efadc5093ca][^c-f42f57e40ab6baf8dd505896a7032d90]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e3f641845bb01fc5e785efadc5093ca]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-6e3f641845bb01fc5e785efadc5093ca]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-f42f57e40ab6baf8dd505896a7032d90]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/18/section/52) in force at 1.12.2025 in so far as not already in force by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-f42f57e40ab6baf8dd505896a7032d90]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/18/section/52) in force at 1.12.2025 in so far as not already in force by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

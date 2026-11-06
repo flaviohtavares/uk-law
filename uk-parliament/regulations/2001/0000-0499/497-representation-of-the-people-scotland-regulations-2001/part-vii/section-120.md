@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Calculating the fee for supply of marked registers or lists[^key-91eb461c4dec319538afe6122d7977f6][^key-9f9cf441f758b98962f2f95477f4ff4f][^key-e2a6f4d300a4781511e154277ac05e69]
+## 120. Calculating the fee for supply of marked registers or lists[^c-91eb461c4dec319538afe6122d7977f6][^c-9f9cf441f758b98962f2f95477f4ff4f][^c-e2a6f4d300a4781511e154277ac05e69]
 
 *Extent: S*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-91eb461c4dec319538afe6122d7977f6]: Modification: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/497/regulation/120) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(i)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/i)
+[^c-91eb461c4dec319538afe6122d7977f6]: Modification: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/497/regulation/120) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(i)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/i)
 
-[^key-9f9cf441f758b98962f2f95477f4ff4f]: Textual amendment: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/497/regulation/120) substituted (18.7.2008) by [The Representation of the People (Amendment) Regulations 2008 (S.I. 2008/1901)](https://www.legislation.gov.uk/uksi/2008/1901), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1901/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2008/1901/regulation/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2008/1901/regulation/2))
+[^c-9f9cf441f758b98962f2f95477f4ff4f]: Textual amendment: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/497/regulation/120) substituted (18.7.2008) by [The Representation of the People (Amendment) Regulations 2008 (S.I. 2008/1901)](https://www.legislation.gov.uk/uksi/2008/1901), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1901/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2008/1901/regulation/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2008/1901/regulation/2))
 
-[^key-e2a6f4d300a4781511e154277ac05e69]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/497/part/7) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2007/925/regulation/47)
+[^c-e2a6f4d300a4781511e154277ac05e69]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2001/497/part/7) inserted (with effect in accordance with reg. 1(2)(3)(b) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2007/925/regulation/47)

@@ -33,7 +33,7 @@ Section 23.
 - “[^c20339861] **relevant offence** ” means—
   - (a) an offence under any of sections 15 to 18,
   - (b) an offence to which section 23A applies, or
-  - (c) in relation to a restraint order, any offence within section 69(4) or (5) of the Sentencing Code (offences where terrorist connection to be treated as aggravating factor)[^key-e49995b5a60c094567a853ea0a364ca3].
+  - (c) in relation to a restraint order, any offence within section 69(4) or (5) of the Sentencing Code (offences where terrorist connection to be treated as aggravating factor)[^c-e49995b5a60c094567a853ea0a364ca3].
 
 #### Implementation of forfeiture orders
 
@@ -92,7 +92,7 @@ the court may also order that an amount not exceeding a sum specified by the cou
 
 reduced by the amount of any payment under paragraph 2(1)(d) or 3(1).
 
-(3) The court may make an order under this paragraph only if it is satisfied that but for the inadequacy of the offender's means it would have made a compensation order under Chapter 2 of Part 7 of the Sentencing Code[^key-32c178d96b0cdf1d9fccd7897b10dbed] under which the offender would have been required to pay compensation of an amount not less than the specified amount.
+(3) The court may make an order under this paragraph only if it is satisfied that but for the inadequacy of the offender's means it would have made a compensation order under Chapter 2 of Part 7 of the Sentencing Code[^c-32c178d96b0cdf1d9fccd7897b10dbed] under which the offender would have been required to pay compensation of an amount not less than the specified amount.
 
 #### Restraint orders
 
@@ -198,27 +198,27 @@ reduced by the amount of any payment under paragraph 2(1)(d) or 3(1).
 
 #### Domestic and overseas freezing orders
 
-**11A.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11A.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Domestic freezing orders: certification
 
-**11B.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11B.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sending domestic freezing orders
 
-**11C.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11C.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Overseas freezing orders
 
-**11D.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11D.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of overseas freezing orders
 
-**11E.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11E.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11F.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11F.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11G.**[^key-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11G.**[^c-9b429080bf94e40cb7506a00d4e16e04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of orders made elsewhere in the British Islands
 
@@ -282,7 +282,7 @@ reduced by the amount of any payment under paragraph 2(1)(d) or 3(1).
 
 **14.** (1) Her Majesty may by Order in Council make provision for the purpose of enabling the enforcement in England and Wales of external orders.
 
-(2) An “**external order**” means an order [^key-077396330d54e0fcf2a19bb3bbabe137]... —
+(2) An “**external order**” means an order [^c-077396330d54e0fcf2a19bb3bbabe137]... —
 
 - (a) which is made in a country or territory designated for the purposes of this paragraph by the Order in Council, and
 - (b) which makes relevant provision.
@@ -316,7 +316,7 @@ reduced by the amount of any payment under paragraph 2(1)(d) or 3(1).
 - “[^c20352781]**relevant offence**” means—
   - (a) an offence under any of sections 15 to 18,
   - (b) an offence to which section 23A applies, or
-  - (c) in relation to a restraint order, any offence within section 31(4A) or (4B) of the Counter-Terrorism Act 2008 (offences where terrorist connection to be treated as aggravating factor)[^key-1b52acb74395b1db9656ec1d9a7cba07].
+  - (c) in relation to a restraint order, any offence within section 31(4A) or (4B) of the Counter-Terrorism Act 2008 (offences where terrorist connection to be treated as aggravating factor)[^c-1b52acb74395b1db9656ec1d9a7cba07].
 
 **16.** (1)[^c11207001] Where a court in Scotland makes a forfeiture order it may make such other provision as appears to it to be necessary for giving effect to the order, and in particular it may—
 
@@ -455,7 +455,7 @@ reduced by the amount of any payment under paragraph 16(1)(c) or 17(2).
 
 (6) Compensation payable under this paragraph shall be paid—
 
-- (a) where the person in default was a constable of a police force, by the Scottish Police Authority[^key-811cf474b5fe00a0645ba65a238bca41] ;
+- (a) where the person in default was a constable of a police force, by the Scottish Police Authority[^c-811cf474b5fe00a0645ba65a238bca41] ;
 - (b) where the person in default was a constable other than is mentioned in paragraph (a) above, but with the powers of such a constable, by the body under whose authority he acts; and
 - (c) where the person in default was a procurator fiscal or was acting on behalf of the Lord Advocate, by the Lord Advocate.
 
@@ -494,27 +494,27 @@ reduced by the amount of any payment under paragraph 16(1)(c) or 17(2).
 
 #### Domestic and overseas freezing orders
 
-**25A.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25A.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Domestic freezing orders: certification
 
-**25B.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25B.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sending domestic freezing orders
 
-**25C.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25C.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Overseas freezing orders
 
-**25D.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25D.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of overseas freezing orders
 
-**25E.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25E.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25F.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25F.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25G.**[^key-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25G.**[^c-bcd7284cc39c50adfe58f1bf86ce316e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of orders made elsewhere in the British Islands
 
@@ -578,7 +578,7 @@ as if the order had originally been made in the Court of Session.
 
 **28.** (1) Her Majesty may by Order in Council make provision for the purpose of enabling the enforcement in Scotland of external orders.
 
-(2) An “**external order**” means an order [^key-386b56f5835394cad1dd1d1f99bdffa6]...—
+(2) An “**external order**” means an order [^c-386b56f5835394cad1dd1d1f99bdffa6]...—
 
 - (a) which is made in a country or territory designated for the purposes of this paragraph by the Order in Council, and
 - (b) which makes relevant provision.
@@ -797,27 +797,27 @@ reduced by the amount of any payment under paragraph 30(1)(d) or 31(1).
 
 #### Domestic and overseas freezing orders
 
-**41A.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41A.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Domestic freezing orders: certification
 
-**41B.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41B.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sending domestic freezing orders
 
-**41C.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41C.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Overseas freezing orders
 
-**41D.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41D.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of overseas freezing orders
 
-**41E.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41E.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41F.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41F.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41G.**[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41G.**[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Enforcement of orders made elsewhere in the British Islands
 
@@ -881,7 +881,7 @@ reduced by the amount of any payment under paragraph 30(1)(d) or 31(1).
 
 **44.** (1) Her Majesty may by Order in Council make provision for the purpose of enabling the enforcement in Northern Ireland of external orders.
 
-(2) An “**external order**” means an order [^key-087551b8131f573ed7f2da3bbd64a77b]... —
+(2) An “**external order**” means an order [^c-087551b8131f573ed7f2da3bbd64a77b]... —
 
 - (a) which is made in a country or territory designated for the purposes of this paragraph by the Order in Council, and
 - (b) which makes relevant provision.
@@ -919,7 +919,7 @@ reduced by the amount of any payment under paragraph 30(1)(d) or 31(1).
 - “**restraint order**” means—
   - (a) an order made under paragraph 5, 18 or 33,
   - (b) an Islands restraint order within the meaning given in paragraph 12, 26 or 42, or
-  - (c) an external restraint order which is enforceable in England and Wales, Scotland or Northern Ireland by virtue of an Order in Council made under paragraph 14, 28 or 44 [^key-82d1d3a139907486c7095272dd5d404a]....
+  - (c) an external restraint order which is enforceable in England and Wales, Scotland or Northern Ireland by virtue of an Order in Council made under paragraph 14, 28 or 44 [^c-82d1d3a139907486c7095272dd5d404a]....
 
 #### Protection of creditors against forfeiture
 
@@ -976,7 +976,7 @@ reduced by the amount of any payment under paragraph 30(1)(d) or 31(1).
 - (c) in relation to the winding up of a company in Northern Ireland, Article 160(2) of the [^c11207501]Insolvency (Northern Ireland) Order 1989, and
 - (d) in relation to a bankruptcy in Northern Ireland, Article 300(4) of that Order.
 
-(4) In a sequestration, his debt shall rank after all of the debts mentioned in section 129(1) of the Bankruptcy (Scotland) Act 2016[^key-d667b752fb8be1b868f10948374637f1] and shall not be paid until they have been paid in full.
+(4) In a sequestration, his debt shall rank after all of the debts mentioned in section 129(1) of the Bankruptcy (Scotland) Act 2016[^c-d667b752fb8be1b868f10948374637f1] and shall not be paid until they have been paid in full.
 
 (5) Sub-paragraphs (2) to (4) apply notwithstanding any provision contained in or made under any other enactment.
 
@@ -1030,7 +1030,7 @@ reduced by the amount of any payment under paragraph 30(1)(d) or 31(1).
 - (a) for such of his expenses as were incurred in connection with the insolvency proceedings in relation to which the seizure or disposal purported to take place, and
 - (b) for so much of his remuneration as may be reasonably assigned for his acting in connection with those proceedings.
 
-(4) Sub-paragraphs (1) to (3) are without prejudice to the generality of any provision contained in the [^c11207521]Insolvency Act 1986 or the Bankruptcy (Scotland) Act 2016[^key-0003621a4507f59bbefc12db6ecf6405] or any other Act or the [^c11207541]Insolvency (Northern Ireland) Order 1989.
+(4) Sub-paragraphs (1) to (3) are without prejudice to the generality of any provision contained in the [^c11207521]Insolvency Act 1986 or the Bankruptcy (Scotland) Act 2016[^c-0003621a4507f59bbefc12db6ecf6405] or any other Act or the [^c11207541]Insolvency (Northern Ireland) Order 1989.
 
 (5) In this paragraph “**insolvency practitioner**”, in any part of the United Kingdom, means a person acting as an insolvency practitioner in that or any other part of the United Kingdom.
 
@@ -1090,7 +1090,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 - (a) a liquidator of a company or partnership,
 - (b) a trustee in bankruptcy,
-- (c) the trustee or interim trustee in the sequestration of a[^key-615b4dafe17856559ff54ec25ee30747] debtor’s estate,
+- (c) the trustee or interim trustee in the sequestration of a[^c-615b4dafe17856559ff54ec25ee30747] debtor’s estate,
 - (d) an administrator of the insolvent estate of a deceased person, or
 - (e) a receiver or manager of any property.
 
@@ -1120,7 +1120,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c20339861]: Textual amendment: Sch. 4 para. 1: definition of "relevant offence" inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/2/b) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-e49995b5a60c094567a853ea0a364ca3]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2000/11/schedule/4/paragraph/1) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/1/3/a)
+[^c-e49995b5a60c094567a853ea0a364ca3]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2000/11/schedule/4/paragraph/1) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/1/3/a)
 
 [^c11206691]: Modification: Sch. 4 para. 2(1) extended (with modifications) (13.12.2001) by [S.I. 2001/3927](https://www.legislation.gov.uk/uksi/2001/3927) art. 11(1)
 
@@ -1138,7 +1138,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c20347541]: Textual amendment: Sch. 4 para. 4A and preceding cross-heading inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2008/28/section/37/1), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-32c178d96b0cdf1d9fccd7897b10dbed]: Textual amendment: Words in Sch. 4 para. 4A(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 172(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/172/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-32c178d96b0cdf1d9fccd7897b10dbed]: Textual amendment: Words in Sch. 4 para. 4A(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 172(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/172/b) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20347691]: Textual amendment: Words in Sch. 4 para. 5(1)(a)(2)(a) substituted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
@@ -1178,7 +1178,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c11206971]: Marginal citation: [1933 c. 36](https://www.legislation.gov.uk/ukpga/1933/36).
 
-[^key-9b429080bf94e40cb7506a00d4e16e04]: Textual amendment: Sch. 4 paras. 11A-11G omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b429080bf94e40cb7506a00d4e16e04]: Textual amendment: Sch. 4 paras. 11A-11G omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20347771]: Textual amendment: Words in Sch. 4 para. 12 inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(10)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/10) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
@@ -1190,13 +1190,13 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c20479231]: Textual amendment: Act: for the words "Supreme Court Act 1981" wherever they occur in any enactment there are substituted (1.10.2009) the words "Senior Courts Act 1981" by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-077396330d54e0fcf2a19bb3bbabe137]: Textual amendment: Words in Sch. 4 para. 14(2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-077396330d54e0fcf2a19bb3bbabe137]: Textual amendment: Words in Sch. 4 para. 14(2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20347851]: Textual amendment: Sch. 4 para. 15: words in definition of "forfeiture order" inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(11)(a)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/11/a) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
 [^c20352781]: Textual amendment: Sch. 4 para. 15: definition of "relevant offence" inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(11)(b)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/11/b) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-1b52acb74395b1db9656ec1d9a7cba07]: Textual amendment: Words in Sch. 4 para. 15 substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/1/3/b)
+[^c-1b52acb74395b1db9656ec1d9a7cba07]: Textual amendment: Words in Sch. 4 para. 15 substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/1/3/b)
 
 [^c11207001]: Modification: Sch. 4 para. 16(1) extended (13.12.2001) by [S.I. 2001/3927](https://www.legislation.gov.uk/uksi/2001/3927), [art. 18](https://www.legislation.gov.uk/uksi/2001/3927/article/18)
 
@@ -1234,7 +1234,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c20352881]: Textual amendment: Words in Sch. 4 para. 23(2)(a)(b)(c) substituted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(16)(b)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/16/b) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-811cf474b5fe00a0645ba65a238bca41]: Textual amendment: Words in Sch. 4 para. 23(6)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/3)
+[^c-811cf474b5fe00a0645ba65a238bca41]: Textual amendment: Words in Sch. 4 para. 23(6)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 32(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/32/3)
 
 [^c20352691]: Editorial: The omission of the cross-heading "Compensation" on 18.6.2009 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under "Restraint Orders" cross-heading.
 
@@ -1242,7 +1242,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c20479011]: Textual amendment: Sch. 4 para. 23: preceding cross-heading omitted (18.6.2009) by virtue of Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(15)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/15) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-bcd7284cc39c50adfe58f1bf86ce316e]: Textual amendment: Sch. 4 paras. 25A-25G omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bcd7284cc39c50adfe58f1bf86ce316e]: Textual amendment: Sch. 4 paras. 25A-25G omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20353011]: Textual amendment: Words in Sch. 4 para. 26 inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(18)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/18) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
@@ -1250,7 +1250,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c11207151]: Marginal citation: [1972 c.59](https://www.legislation.gov.uk/ukpga/1972/59).
 
-[^key-386b56f5835394cad1dd1d1f99bdffa6]: Textual amendment: Words in Sch. 4 para. 28(2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-386b56f5835394cad1dd1d1f99bdffa6]: Textual amendment: Words in Sch. 4 para. 28(2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20353061]: Textual amendment: Sch. 4 para. 29: words in definition of "forfeiture order" inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(19)(a)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/19/a) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
@@ -1326,7 +1326,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c11207441]: Marginal citation: [1969 c. 15(N.I.)](https://www.legislation.gov.uk/apni/1969/15).
 
-[^key-ddb1cbc3af3ba44594fd44d6e5ae9ddf]: Textual amendment: Sch. 4 paras. 41A-41G omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddb1cbc3af3ba44594fd44d6e5ae9ddf]: Textual amendment: Sch. 4 paras. 41A-41G omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20354361]: Textual amendment: Words in Sch. 4 para. 42 inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(28)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/28) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
@@ -1334,11 +1334,11 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c11207461]: Marginal citation: [1969 c. 58](https://www.legislation.gov.uk/ukpga/1969/58).
 
-[^key-087551b8131f573ed7f2da3bbd64a77b]: Textual amendment: Words in Sch. 4 para. 44(2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-087551b8131f573ed7f2da3bbd64a77b]: Textual amendment: Words in Sch. 4 para. 44(2) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/d) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20355451]: Textual amendment: Words in Sch. 4 para. 45 inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 5(29)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/5/29) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-82d1d3a139907486c7095272dd5d404a]: Textual amendment: Words in Sch. 4 para. 45 omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/e) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82d1d3a139907486c7095272dd5d404a]: Textual amendment: Words in Sch. 4 para. 45 omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(6)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/6/e) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16786131]: Textual amendment: Words in Sch. 4 para. 46(2)(a) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [Sch. 8 para. 388(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/388/4); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3](https://www.legislation.gov.uk/uksi/2005/910/article/3)
 
@@ -1348,11 +1348,11 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c11207501]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-d667b752fb8be1b868f10948374637f1]: Textual amendment: Words in Sch. 4 para. 48(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21/2)
+[^c-d667b752fb8be1b868f10948374637f1]: Textual amendment: Words in Sch. 4 para. 48(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21/2)
 
 [^c11207521]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-0003621a4507f59bbefc12db6ecf6405]: Textual amendment: Word in Sch. 4 para. 51(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21/3)
+[^c-0003621a4507f59bbefc12db6ecf6405]: Textual amendment: Word in Sch. 4 para. 51(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 21(3)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21/3)
 
 [^c11207541]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
@@ -1366,7 +1366,7 @@ as he would have if he were an insolvency practitioner in that part of the Unite
 
 [^c11207591]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-615b4dafe17856559ff54ec25ee30747]: Textual amendment: Words in Sch. 4 para. 53(1)(c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 21(4)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21/4)
+[^c-615b4dafe17856559ff54ec25ee30747]: Textual amendment: Words in Sch. 4 para. 53(1)(c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 21(4)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21/4)
 
 [^c11207601]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 

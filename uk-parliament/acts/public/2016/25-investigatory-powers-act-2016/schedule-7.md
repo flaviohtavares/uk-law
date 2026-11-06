@@ -24,13 +24,13 @@ Section 241
 
 ### Scope of codes
 
-**1.**[^key-1b1c060a014fd45c1045eab4af73df06] (1) The Secretary of State must issue one or more codes of practice about the exercise of functions conferred by virtue of this Act.
+**1.**[^c-1b1c060a014fd45c1045eab4af73df06] (1) The Secretary of State must issue one or more codes of practice about the exercise of functions conferred by virtue of this Act.
 
 (2) Sub-paragraph (1) does not apply in relation to—
 
 - (a) any functions conferred by virtue of this Act on—
   - (i) the Investigatory Powers Commissioner or any other Judicial Commissioner,
-  - (ii) the Information Commission[^key-834170b3b8f79a5d78488c2f78847c0e],
+  - (ii) the Information Commission[^c-834170b3b8f79a5d78488c2f78847c0e],
   - (iii) the Investigatory Powers Tribunal,
   - (iv) any other court or tribunal,
   - (v) the Technical Advisory Board, or
@@ -39,7 +39,7 @@ Section 241
 
 (3) A code may, in particular, contain provision about the training of people who may exercise functions in relation to which sub-paragraph (1) applies.
 
-**2.**[^key-4d33ce551a22e54381f05884a0358990] (1) Each code must include—
+**2.**[^c-4d33ce551a22e54381f05884a0358990] (1) Each code must include—
 
 - (a) provision designed to protect the public interest in the confidentiality of sources of journalistic information, and
 - (b) provision about particular considerations applicable to any data which relates to a member of a profession which routinely holds items subject to legal privilege or relevant confidential information.
@@ -56,7 +56,7 @@ Section 241
 
 and the references in this paragraph to a member of a profession include references to any person acting in the course of any trade, business, profession or other occupation or for the purposes of any paid or unpaid office.
 
-**3.**[^key-e2abb2732ff5b52d346b06135e9e6591] (1) A code about the exercise of functions conferred by virtue of Part 3 must contain provision about communications data held by public authorities by virtue of that Part.
+**3.**[^c-e2abb2732ff5b52d346b06135e9e6591] (1) A code about the exercise of functions conferred by virtue of Part 3 must contain provision about communications data held by public authorities by virtue of that Part.
 
 (2) Such provision must, in particular, include provision about—
 
@@ -69,14 +69,14 @@ and the references in this paragraph to a member of a profession include referen
 
 ### Procedural requirements
 
-**4.**[^key-54e759c452b5972de1ed02a5cf3dc647] (1) Before issuing a code the Secretary of State must—
+**4.**[^c-54e759c452b5972de1ed02a5cf3dc647] (1) Before issuing a code the Secretary of State must—
 
 - (a) prepare and publish a draft of the code, and
 - (b) consider any representations made about it,
 
 and may modify the draft.
 
-(2) The Secretary of State must, in particular, consult the Investigatory Powers Commissioner and, in the case of a code relating to the exercise of functions conferred by virtue of Part 4, the Information Commission[^key-bed074027577bedbb6adfbedc32f414c].
+(2) The Secretary of State must, in particular, consult the Investigatory Powers Commissioner and, in the case of a code relating to the exercise of functions conferred by virtue of Part 4, the Information Commission[^c-bed074027577bedbb6adfbedc32f414c].
 
 (3) A code comes into force in accordance with regulations made by the Secretary of State.
 
@@ -88,7 +88,7 @@ and may modify the draft.
 
 ### Revision of codes
 
-**5.**[^key-b6f1753a9566035d60d2a47ddcaa969e] (1) The Secretary of State may from time to time revise the whole or part of a code.
+**5.**[^c-b6f1753a9566035d60d2a47ddcaa969e] (1) The Secretary of State may from time to time revise the whole or part of a code.
 
 (2) Before issuing any revision of a code the Secretary of State must—
 
@@ -97,7 +97,7 @@ and may modify the draft.
 
 and may modify the draft.
 
-(3) The Secretary of State must, in particular, consult the Investigatory Powers Commissioner and, in the case of a code relating to the exercise of functions conferred by virtue of Part 4, the Information Commission[^key-5c16fbf4eba5cf069c3ea1cebb9b1ba0].
+(3) The Secretary of State must, in particular, consult the Investigatory Powers Commissioner and, in the case of a code relating to the exercise of functions conferred by virtue of Part 4, the Information Commission[^c-5c16fbf4eba5cf069c3ea1cebb9b1ba0].
 
 (4) A revision of a code comes into force in accordance with regulations made by the Secretary of State.
 
@@ -109,7 +109,7 @@ and may modify the draft.
 
 ### Effect of codes
 
-**6.**[^key-ea582b80a5d4cca886c241754db5238b] (1) A person must have regard to a code when exercising any functions to which the code relates.
+**6.**[^c-ea582b80a5d4cca886c241754db5238b] (1) A person must have regard to a code when exercising any functions to which the code relates.
 
 (2) A failure on the part of a person to comply with any provision of a code does not of itself make that person liable to criminal or civil proceedings.
 
@@ -122,27 +122,27 @@ and may modify the draft.
 (6) In this paragraph “**supervisory authority**” means—
 
 - (a) the Investigatory Powers Commissioner or any other Judicial Commissioner,
-- (b) the Information Commission[^key-6ce0d234949270768460975e65b291f6], or
+- (b) the Information Commission[^c-6ce0d234949270768460975e65b291f6], or
 - (c) the Investigatory Powers Tribunal.
 
 ## Annotations
 
-[^key-1b1c060a014fd45c1045eab4af73df06]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/1) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
+[^c-1b1c060a014fd45c1045eab4af73df06]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/1) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
 
-[^key-834170b3b8f79a5d78488c2f78847c0e]: Textual amendment: Words in [Sch. 7 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/1/2/a/ii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-834170b3b8f79a5d78488c2f78847c0e]: Textual amendment: Words in [Sch. 7 para. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/1/2/a/ii) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-4d33ce551a22e54381f05884a0358990]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/2) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
+[^c-4d33ce551a22e54381f05884a0358990]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/2) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
 
-[^key-e2abb2732ff5b52d346b06135e9e6591]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/3) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
+[^c-e2abb2732ff5b52d346b06135e9e6591]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/3) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
 
-[^key-54e759c452b5972de1ed02a5cf3dc647]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/4) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
+[^c-54e759c452b5972de1ed02a5cf3dc647]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/4) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
 
-[^key-bed074027577bedbb6adfbedc32f414c]: Textual amendment: Words in [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/4/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-bed074027577bedbb6adfbedc32f414c]: Textual amendment: Words in [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/4/2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(ii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/ii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-b6f1753a9566035d60d2a47ddcaa969e]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/5) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
+[^c-b6f1753a9566035d60d2a47ddcaa969e]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/5) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
 
-[^key-5c16fbf4eba5cf069c3ea1cebb9b1ba0]: Textual amendment: Words in [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/5/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(iii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/iii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-5c16fbf4eba5cf069c3ea1cebb9b1ba0]: Textual amendment: Words in [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/5/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(iii)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/iii); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-ea582b80a5d4cca886c241754db5238b]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/6) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
+[^c-ea582b80a5d4cca886c241754db5238b]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/6) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/t)
 
-[^key-6ce0d234949270768460975e65b291f6]: Textual amendment: Words in [Sch. 7 para. 6(6)(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/6/6/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(iv)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/iv); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-6ce0d234949270768460975e65b291f6]: Textual amendment: Words in [Sch. 7 para. 6(6)(b)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/7/paragraph/6/6/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 20(g)(iv)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/20/g/iv); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

@@ -28,7 +28,7 @@ Articles 9, 10, 31 and 36
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1) above references to the appropriate Minister are references to the Secretary of State.
 
-(3) Where any apparatus of public utility undertakers or of a electronic communications code operator or former[^key-76b0f86d7566e970b55d0e1d07a8d185] PTO is removed in pursuance of a notice or order given or made under section 271, 272 or 273 of the 1990 Act, as applied by sub-paragraph (1) above, any person who is the owner or occupier of premises to which a supply was given from that apparatus shall be entitled to recover from DLRL compensation in respect of expenditure reasonably incurred by him, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
+(3) Where any apparatus of public utility undertakers or of a electronic communications code operator or former[^c-76b0f86d7566e970b55d0e1d07a8d185] PTO is removed in pursuance of a notice or order given or made under section 271, 272 or 273 of the 1990 Act, as applied by sub-paragraph (1) above, any person who is the owner or occupier of premises to which a supply was given from that apparatus shall be entitled to recover from DLRL compensation in respect of expenditure reasonably incurred by him, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
 (4) Sub-paragraph (3) above shall not apply in the case of the removal of a public sewer but where such a sewer is removed in pursuance of such a notice or order as is mentioned in that sub-paragraph, any person who is—
 
@@ -41,7 +41,7 @@ shall be entitled to recover from DLRL compensation in respect of expenditure re
 
 (6) In this paragraph—
 
-- [^key-841a49aea3e4404b5a0a4b0fee4a9c86]...
+- [^c-841a49aea3e4404b5a0a4b0fee4a9c86]...
 - “public utility undertakers” has the same meaning as in the Highways Act 1980 [^c2629031].
 
 ### Apparatus of statutory undertakers, etc. in stopped up streets
@@ -79,25 +79,25 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - (a) the allowable costs of the relocation works shall be determined in accordance with section 85 of that Act (sharing of costs of necessary measures) and any regulations for the time being having effect under that section; and
 - (b) the allowable costs shall be borne by DLRL and the statutory utility in such proportions as may be prescribed by any such regulations.
 
-(9) The temporary stopping up, alteration or diversion of any highway under article 10 of this Order shall not affect any right of a public operator of an electronic communications code network[^M_F_305f12d3-9f52-42f7-fe1a-2bfc323ef07a] under paragraph 9 of the electronic communications code[^key-0cc9039e5c02a653403f837e26178f33] in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
+(9) The temporary stopping up, alteration or diversion of any highway under article 10 of this Order shall not affect any right of a public operator of an electronic communications code network[^M_F_305f12d3-9f52-42f7-fe1a-2bfc323ef07a] under paragraph 9 of the electronic communications code[^c-0cc9039e5c02a653403f837e26178f33] in respect of any apparatus which at the time of the stopping up or diversion is in the highway.
 
 (10) In this paragraph—
 
 - “apparatus” has the same meaning as in Part III of the 1991 Act;
-- [^key-7ad9a20429f8b050fe0dac324cd4ef43]...
+- [^c-7ad9a20429f8b050fe0dac324cd4ef43]...
 - “relocation works” means works executed, or apparatus provided, under sub-paragraph (3) above; and
-- “statutory utility” means a statutory undertaker for the purposes of the Highways Act 1980 or a public operator of an electronic communications code network [^key-7ad9a20429f8b050fe0dac324cd4ef43]....
+- “statutory utility” means a statutory undertaker for the purposes of the Highways Act 1980 or a public operator of an electronic communications code network [^c-7ad9a20429f8b050fe0dac324cd4ef43]....
 
 ## Annotations
 
-[^key-76b0f86d7566e970b55d0e1d07a8d185]: Textual amendment: Words in Sch. 10 para. 1(3) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/17)
+[^c-76b0f86d7566e970b55d0e1d07a8d185]: Textual amendment: Words in Sch. 10 para. 1(3) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/17)
 
-[^key-841a49aea3e4404b5a0a4b0fee4a9c86]: Textual amendment: Words in Sch. 10 para. 1(6) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2
+[^c-841a49aea3e4404b5a0a4b0fee4a9c86]: Textual amendment: Words in Sch. 10 para. 1(6) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2
 
 [^c2629031]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
 [^M_F_305f12d3-9f52-42f7-fe1a-2bfc323ef07a]: Textual amendment: Words in Sch. 10 para. 2 substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 18(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/18/a/e)
 
-[^key-0cc9039e5c02a653403f837e26178f33]: Textual amendment: Words in Sch. 10 para. 2 substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 18(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/18/a/e)
+[^c-0cc9039e5c02a653403f837e26178f33]: Textual amendment: Words in Sch. 10 para. 2 substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 18(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/18/a/e)
 
-[^key-7ad9a20429f8b050fe0dac324cd4ef43]: Textual amendment: Words in Sch. 10 para. 2(10) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2
+[^c-7ad9a20429f8b050fe0dac324cd4ef43]: Textual amendment: Words in Sch. 10 para. 2(10) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2

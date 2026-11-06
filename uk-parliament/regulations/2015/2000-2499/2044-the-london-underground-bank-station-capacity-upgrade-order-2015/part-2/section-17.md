@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Discharge of water[^key-ea4307787f5d679368bf3e294c95a308]
+## 17. Discharge of water[^c-ea4307787f5d679368bf3e294c95a308]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (6) The Company must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-2e62863a3497d78f6e25423e4729705c].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-2e62863a3497d78f6e25423e4729705c].
 
 (8) If a person who receives an application for consent or approval fails to notify the Company of a decision within 28 days of receiving an application for consent under paragraph (3) or approval under paragraph (4)(a) that person is deemed to have granted consent or given approval, as the case may be.
 
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ea4307787f5d679368bf3e294c95a308]: Commencement: Art. 17 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-ea4307787f5d679368bf3e294c95a308]: Commencement: Art. 17 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00032]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-2e62863a3497d78f6e25423e4729705c]: Textual amendment: Words in [art. 17(7)](https://www.legislation.gov.uk/uksi/2015/2044/article/17/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 103](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/103) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-2e62863a3497d78f6e25423e4729705c]: Textual amendment: Words in [art. 17(7)](https://www.legislation.gov.uk/uksi/2015/2044/article/17/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 103](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/103) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00034]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

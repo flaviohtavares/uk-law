@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.4. Duty of justices’ legal adviser[^key-bb4fa962e8e3b70db13fec5cf07d9a33]
+## 9.4. Duty of justices’ legal adviser[^c-bb4fa962e8e3b70db13fec5cf07d9a33]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb4fa962e8e3b70db13fec5cf07d9a33]: Commencement: [Rule 9.4](https://www.legislation.gov.uk/uksi/2025/909/rule/9.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bb4fa962e8e3b70db13fec5cf07d9a33]: Commencement: [Rule 9.4](https://www.legislation.gov.uk/uksi/2025/909/rule/9.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00267]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 28 was amended by section 15 of, and paragraphs 308 and 327 of Schedule 4 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

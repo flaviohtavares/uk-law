@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Temporary closure, alteration, diversion and restriction of use of streets[^key-b24919cd95311ebbcc7cf3c639fa9e08]
+## 12. Temporary closure, alteration, diversion and restriction of use of streets[^c-b24919cd95311ebbcc7cf3c639fa9e08]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b24919cd95311ebbcc7cf3c639fa9e08]: Commencement: Art. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-b24919cd95311ebbcc7cf3c639fa9e08]: Commencement: Art. 12 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

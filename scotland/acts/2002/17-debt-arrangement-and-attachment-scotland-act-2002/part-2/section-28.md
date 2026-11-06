@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to subsection (2) below and without prejudice to section 29(4) below, the creditor or the officer is not, after notice has been given under section 27(4) above to the debtor, entitled to arrange—
 
 - (a) a new date for the auction; or
-- (b) where sections 15 to 19A[^key-4cd4b26b1e1d0a0416c54771a9c7f40f] above apply in relation to the attached articles, a new date for the removal of those articles from the place where they are kept.
+- (b) where sections 15 to 19A[^c-4cd4b26b1e1d0a0416c54771a9c7f40f] above apply in relation to the attached articles, a new date for the removal of those articles from the place where they are kept.
 
 (2) Where, for any reason for which neither the creditor nor the officer is responsible, it is not possible—
 
@@ -36,4 +36,4 @@ the creditor may instruct the officer to arrange a new date for the auction or, 
 
 ## Annotations
 
-[^key-4cd4b26b1e1d0a0416c54771a9c7f40f]: Textual amendment: Word in s. 28(1)(b) substituted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(7)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/7) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)
+[^c-4cd4b26b1e1d0a0416c54771a9c7f40f]: Textual amendment: Word in s. 28(1)(b) substituted (31.3.2007 for specified purposes) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [s. 227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3), [Sch. 5 para. 30(7)](https://www.legislation.gov.uk/asp/2007/3/schedule/5/paragraph/30/7) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(e)(i)](https://www.legislation.gov.uk/ssi/2007/82/article/4/e/i)

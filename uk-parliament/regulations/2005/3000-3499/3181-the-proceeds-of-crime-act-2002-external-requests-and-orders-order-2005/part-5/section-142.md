@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Action to give effect to an order[^key-6b79c0c717d67dbaffcc32ee7846eed5]
+## 142. Action to give effect to an order[^c-6b79c0c717d67dbaffcc32ee7846eed5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b79c0c717d67dbaffcc32ee7846eed5]: Commencement: [Art. 142](https://www.legislation.gov.uk/uksi/2005/3181/article/142) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-6b79c0c717d67dbaffcc32ee7846eed5]: Commencement: [Art. 142](https://www.legislation.gov.uk/uksi/2005/3181/article/142) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

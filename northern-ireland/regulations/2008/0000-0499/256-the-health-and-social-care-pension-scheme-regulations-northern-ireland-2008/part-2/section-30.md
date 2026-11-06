@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Contribution rate and determination of pensionable earnings for non-GP providers[^key-751b9084257f70840770b5d65d9f899d]
+## 30. Contribution rate and determination of pensionable earnings for non-GP providers[^c-751b9084257f70840770b5d65d9f899d]
 
 *Extent: N.I.*
 
@@ -64,10 +64,10 @@ This is subject to paragraph (7).
 - (a) deduct contributions due under this regulation from any pensionable earnings it pays that person, and
 - (b) if it is not also the host Board, pay those contributions to that Board not later than the 7th day of the month following the month in which the earnings were paid.
 
-(14)[^key-4e8f1e03cbf473703a62a888188a61ff] For the purposes of this paragraph, the “relevant table” means—
+(14)[^c-4e8f1e03cbf473703a62a888188a61ff] For the purposes of this paragraph, the “relevant table” means—
 
 - (a) in respect of the 2014-2015 scheme year, Table 1;
-- (b)[^key-9f7db7be4cad9fefff5a45adc0d4a18e] in respect of each scheme year from 2015-2016, Table 2.
+- (b)[^c-9f7db7be4cad9fefff5a45adc0d4a18e] in respect of each scheme year from 2015-2016, Table 2.
 
   Table 1
 
@@ -85,7 +85,7 @@ This is subject to paragraph (7).
 
   Table 2
 
-  Scheme Years from 2015-2016[^key-45aa35c58fe7ff1b4f3bf948d6fbd22c]
+  Scheme Years from 2015-2016[^c-45aa35c58fe7ff1b4f3bf948d6fbd22c]
 
   | *Column 1*<br>*Pensionable Earnings Band* | *Column 2*<br>*Contribution Percentage Rate* |
   | --- | --- |
@@ -99,10 +99,10 @@ This is subject to paragraph (7).
 
 ## Annotations
 
-[^key-751b9084257f70840770b5d65d9f899d]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2008/256/regulation/30) substituted (20.1.2011) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/420)](https://www.legislation.gov.uk/nisr/2010/420), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/420/regulation/1/2), [14](https://www.legislation.gov.uk/nisr/2010/420/regulation/14)
+[^c-751b9084257f70840770b5d65d9f899d]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2008/256/regulation/30) substituted (20.1.2011) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/420)](https://www.legislation.gov.uk/nisr/2010/420), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/420/regulation/1/2), [14](https://www.legislation.gov.uk/nisr/2010/420/regulation/14)
 
-[^key-4e8f1e03cbf473703a62a888188a61ff]: Textual amendment: [Reg. 30(14)](https://www.legislation.gov.uk/nisr/2008/256/regulation/30/14) substituted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2015/121/regulation/24)
+[^c-4e8f1e03cbf473703a62a888188a61ff]: Textual amendment: [Reg. 30(14)](https://www.legislation.gov.uk/nisr/2008/256/regulation/30/14) substituted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2015/121/regulation/24)
 
-[^key-9f7db7be4cad9fefff5a45adc0d4a18e]: Textual amendment: [Reg. 30(14)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/30/14/b) substituted (1.4.2019) by [The Health and Personal Social Services (Superannuation) and Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/62)](https://www.legislation.gov.uk/nisr/2019/62), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/62/regulation/1/2), [9(a)](https://www.legislation.gov.uk/nisr/2019/62/regulation/9/a)
+[^c-9f7db7be4cad9fefff5a45adc0d4a18e]: Textual amendment: [Reg. 30(14)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/30/14/b) substituted (1.4.2019) by [The Health and Personal Social Services (Superannuation) and Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/62)](https://www.legislation.gov.uk/nisr/2019/62), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/62/regulation/1/2), [9(a)](https://www.legislation.gov.uk/nisr/2019/62/regulation/9/a)
 
-[^key-45aa35c58fe7ff1b4f3bf948d6fbd22c]: Textual amendment: [Reg. 30(14)](https://www.legislation.gov.uk/nisr/2008/256/regulation/30/14) Table 2 heading substituted (1.4.2019) by [The Health and Personal Social Services (Superannuation) and Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/62)](https://www.legislation.gov.uk/nisr/2019/62), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/62/regulation/1/2), [9(b)](https://www.legislation.gov.uk/nisr/2019/62/regulation/9/b)
+[^c-45aa35c58fe7ff1b4f3bf948d6fbd22c]: Textual amendment: [Reg. 30(14)](https://www.legislation.gov.uk/nisr/2008/256/regulation/30/14) Table 2 heading substituted (1.4.2019) by [The Health and Personal Social Services (Superannuation) and Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/62)](https://www.legislation.gov.uk/nisr/2019/62), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/62/regulation/1/2), [9(b)](https://www.legislation.gov.uk/nisr/2019/62/regulation/9/b)

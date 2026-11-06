@@ -47,7 +47,7 @@ The Court of Session makes this Act of Sederunt under the powers conferred by se
 
 In accordance with section 104(5) of that Act, the Court of Session has consulted the Scottish Civil Justice Council and has taken into account the views expressed by the Council.
 
-## 1. Citation and commencement, etc.[^key-757c96215ec6c657ccd5b82a475350cc]
+## 1. Citation and commencement, etc.[^c-757c96215ec6c657ccd5b82a475350cc]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Sheriff Court Rules Amendment) (Electronic Authentication) 2016.
 
@@ -55,11 +55,11 @@ In accordance with section 104(5) of that Act, the Court of Session has consult
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Ordinary Cause Rules 1993[^key-75f2b8a73b7b00908b69eb2c1c0da5f1]
+## 2. Amendment of the Ordinary Cause Rules 1993[^c-75f2b8a73b7b00908b69eb2c1c0da5f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Act of Sederunt (Sheriff Court Bankruptcy Rules) 2016[^key-fc58d6b25614be76f5c22743ee9d1507]
+## 3. Amendment of the Act of Sederunt (Sheriff Court Bankruptcy Rules) 2016[^c-fc58d6b25614be76f5c22743ee9d1507]
 
 (1) The Act of Sederunt (Sheriff Court Bankruptcy Rules) 2016[^f00003] is amended in accordance with this paragraph.
 
@@ -103,10 +103,10 @@ Paragraph 3 provides that certain warrants granted under the Bankruptcy (Scotlan
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
-[^key-757c96215ec6c657ccd5b82a475350cc]: Commencement: Para. 1 in force at 15.12.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2)
+[^c-757c96215ec6c657ccd5b82a475350cc]: Commencement: Para. 1 in force at 15.12.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2)
 
-[^key-75f2b8a73b7b00908b69eb2c1c0da5f1]: Textual amendment: [Para. 2](https://www.legislation.gov.uk/ssi/2016/415/paragraph/2) omitted (1.12.2025) by virtue of [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/1/2), [6(4)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/6/4) (with [para. 2](https://www.legislation.gov.uk/ssi/2025/302/paragraph/2))
+[^c-75f2b8a73b7b00908b69eb2c1c0da5f1]: Textual amendment: [Para. 2](https://www.legislation.gov.uk/ssi/2016/415/paragraph/2) omitted (1.12.2025) by virtue of [Act of Sederunt (Electronic Signature and Electronic Transmission of Documents) 2025 (S.S.I. 2025/302)](https://www.legislation.gov.uk/ssi/2025/302), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/1/2), [6(4)](https://www.legislation.gov.uk/ssi/2025/302/paragraph/6/4) (with [para. 2](https://www.legislation.gov.uk/ssi/2025/302/paragraph/2))
 
-[^key-fc58d6b25614be76f5c22743ee9d1507]: Commencement: Para. 3 in force at 15.12.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2)
+[^c-fc58d6b25614be76f5c22743ee9d1507]: Commencement: Para. 3 in force at 15.12.2016, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2016/415/paragraph/1/2)
 
 [^f00003]: Footnote: [S.S.I. 2016/313](https://www.legislation.gov.uk/ssi/2016/313), last amended by [S.S.I. 2016/367](https://www.legislation.gov.uk/ssi/2016/367).

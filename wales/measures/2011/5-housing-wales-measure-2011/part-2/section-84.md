@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Removal of officers[^key-734aa4b151ed0694a7deffdf8f2874f4]
+## 84. Removal of officers[^c-734aa4b151ed0694a7deffdf8f2874f4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-734aa4b151ed0694a7deffdf8f2874f4]: Commencement: [S. 84](https://www.legislation.gov.uk/mwa/2011/5/section/84) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-734aa4b151ed0694a7deffdf8f2874f4]: Commencement: [S. 84](https://www.legislation.gov.uk/mwa/2011/5/section/84) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)

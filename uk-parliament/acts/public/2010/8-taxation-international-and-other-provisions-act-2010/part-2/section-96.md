@@ -25,7 +25,7 @@ summary: ''
 - (a) which is payable in respect of insurance business carried on by a company through a permanent establishment in the non-UK territory, and
 - (b) which is calculated otherwise than wholly by reference to profits arising in the non-UK territory,
 
-is to be allowed (in accordance with this Part) against corporation tax charged under section 35 of CTA 2009 [^key-a83da08be9e0bab34b6a880b35036bba]... in respect of the profits [^key-85d76a70afb5b36a5f572b4e18f6a679]... of non-BLAGAB long-term business[^key-66cd34a7242ddb9cf7f91c0775244cb9] carried on by the company in an accounting period (in this section called “the relevant UK-taxable profits”).
+is to be allowed (in accordance with this Part) against corporation tax charged under section 35 of CTA 2009 [^c-a83da08be9e0bab34b6a880b35036bba]... in respect of the profits [^c-85d76a70afb5b36a5f572b4e18f6a679]... of non-BLAGAB long-term business[^c-66cd34a7242ddb9cf7f91c0775244cb9] carried on by the company in an accounting period (in this section called “the relevant UK-taxable profits”).
 
 (2) For the purposes of subsection (1)(b), the cases in which foreign tax is “calculated otherwise than wholly by reference to profits arising in the non-UK territory” are those cases in which the charge to tax in the non-UK territory is within subsection (3).
 
@@ -55,8 +55,8 @@ B is an amount equal to the excess of—
 
 ## Annotations
 
-[^key-a83da08be9e0bab34b6a880b35036bba]: Textual amendment: Words in s. 96(1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 235(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/235/a)
+[^c-a83da08be9e0bab34b6a880b35036bba]: Textual amendment: Words in s. 96(1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 235(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/235/a)
 
-[^key-85d76a70afb5b36a5f572b4e18f6a679]: Textual amendment: Words in s. 96(1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 235(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/235/b)
+[^c-85d76a70afb5b36a5f572b4e18f6a679]: Textual amendment: Words in s. 96(1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 235(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/235/b)
 
-[^key-66cd34a7242ddb9cf7f91c0775244cb9]: Textual amendment: Words in s. 96(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 235(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/235/c)
+[^c-66cd34a7242ddb9cf7f91c0775244cb9]: Textual amendment: Words in s. 96(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 235(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/235/c)

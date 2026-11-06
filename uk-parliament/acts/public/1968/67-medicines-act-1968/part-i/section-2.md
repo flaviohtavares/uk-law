@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Establishment of Medicines Commission.[^key-93890b9a07cb5862c5f33e716ff59f2b]
+## 2. Establishment of Medicines Commission.[^c-93890b9a07cb5862c5f33e716ff59f2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93890b9a07cb5862c5f33e716ff59f2b]: Textual amendment: S. 2 repealed (30.10.2005) by [Medicines (Advisory Bodies) Regulations 2005 (S.I. 2005/1094)](https://www.legislation.gov.uk/uksi/2005/1094), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/2/2)
+[^c-93890b9a07cb5862c5f33e716ff59f2b]: Textual amendment: S. 2 repealed (30.10.2005) by [Medicines (Advisory Bodies) Regulations 2005 (S.I. 2005/1094)](https://www.legislation.gov.uk/uksi/2005/1094), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/1094/regulation/2/2)

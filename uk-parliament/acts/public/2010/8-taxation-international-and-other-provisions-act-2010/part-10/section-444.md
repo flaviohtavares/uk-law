@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 444. Joint venture companies[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 444. Joint venture companies[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section makes modifications of this Part in relation to an accounting period of a qualifying infrastructure company (“the joint venture company”) which is the ultimate parent of a worldwide group at all times in that period[^key-f78461843266a398e76f6d8ceb83df3a] where—
+(1) This section makes modifications of this Part in relation to an accounting period of a qualifying infrastructure company (“the joint venture company”) which is the ultimate parent of a worldwide group at all times in that period[^c-f78461843266a398e76f6d8ceb83df3a] where—
 
 - (a) one or more qualifying infrastructure companies (“the qualifying investor or investors”) have shares in the joint venture company,
 - (b) other persons (“the other investors”) who are not qualifying infrastructure companies have all the other shares in the joint venture company,
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-f78461843266a398e76f6d8ceb83df3a]: Textual amendment: Words in s. 444(1) inserted (with effect in accordance with Sch. 8 para. 24 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/11)
+[^c-f78461843266a398e76f6d8ceb83df3a]: Textual amendment: Words in s. 444(1) inserted (with effect in accordance with Sch. 8 para. 24 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/11)

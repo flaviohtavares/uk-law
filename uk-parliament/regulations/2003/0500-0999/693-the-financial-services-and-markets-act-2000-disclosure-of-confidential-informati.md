@@ -31,7 +31,7 @@ summary: ''
 
 FINANCIAL SERVICES AND MARKETS
 
-The Financial Services and Markets Act 2000(Disclosure of Confidential Information)(Amendment) Regulations 2003 (revoked)[^key-64240146a61aeae82622168e64598202]
+The Financial Services and Markets Act 2000(Disclosure of Confidential Information)(Amendment) Regulations 2003 (revoked)[^c-64240146a61aeae82622168e64598202]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 3rd April 2003
 
-[^key-64240146a61aeae82622168e64598202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64240146a61aeae82622168e64598202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-64240146a61aeae82622168e64598202]
+## 1. Citation and commencement[^c-64240146a61aeae82622168e64598202]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-64240146a61aeae82622168e64598202]
+## 2. Interpretation[^c-64240146a61aeae82622168e64598202]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal regulations[^key-64240146a61aeae82622168e64598202]
+## 3. Amendment of the principal regulations[^c-64240146a61aeae82622168e64598202]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64240146a61aeae82622168e64598202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64240146a61aeae82622168e64598202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-64240146a61aeae82622168e64598202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64240146a61aeae82622168e64598202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64240146a61aeae82622168e64598202]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-64240146a61aeae82622168e64598202]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

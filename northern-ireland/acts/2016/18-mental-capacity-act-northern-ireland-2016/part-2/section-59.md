@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Failure by person other than D to take certain steps[^key-cd06b6d32762426f2023e09c570afbf3]
+## 59. Failure by person other than D to take certain steps[^c-cd06b6d32762426f2023e09c570afbf3]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ for the purposes of determining whether E is liable in relation to the act subse
 
 ## Annotations
 
-[^key-cd06b6d32762426f2023e09c570afbf3]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2016/18/section/59) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-cd06b6d32762426f2023e09c570afbf3]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2016/18/section/59) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

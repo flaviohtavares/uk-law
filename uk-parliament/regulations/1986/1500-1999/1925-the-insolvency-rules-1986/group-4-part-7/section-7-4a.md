@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.4A. Notice of application under section 176A(5)[^key-6adf90bee2b84258497523e2bb4139e1]
+## 7.4A. Notice of application under section 176A(5)[^c-6adf90bee2b84258497523e2bb4139e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under section 176A(5) may be made without the application being s
 
 ## Annotations
 
-[^key-6adf90bee2b84258497523e2bb4139e1]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/uksi/1986/1925/rule/7).4A inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/56)
+[^c-6adf90bee2b84258497523e2bb4139e1]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/uksi/1986/1925/rule/7).4A inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/56)

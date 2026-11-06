@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 10(3), 56(3), 75(1)(b), (5) and (10), 75A(1) to (7), 87(2), 115(1)(a) and (b), 116, 122(3) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and Articles 2(5)(a), 88(2)(q) and 119(4) of, and paragraph 2(d) of Schedule 1 to, the Pensions (Northern Ireland) Order 2005[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-70967a72b74e9802085c3432809a6d52]
+## 1. Citation, commencement and interpretation[^c-70967a72b74e9802085c3432809a6d52]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Employer Debt, etc.) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 2nd September 2005.
 
@@ -56,37 +56,37 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - “the applicable time” has the same meaning as in regulation 2(1) of the 2005 Regulations;
 - “employment-cessation event” has the meaning given in regulation 6(4) of the 2005 Regulations.
 
-## 2. Amendment of the 2005 Regulations[^key-d156f8663c7fcf6c37cce64cf8309d3c]
+## 2. Amendment of the 2005 Regulations[^c-d156f8663c7fcf6c37cce64cf8309d3c]
 
 (1) The 2005 Regulations shall be amended in accordance with paragraphs (2) to (8).
 
-(2)[^key-1032b075c8f071d7b929d60884ad4b8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1032b075c8f071d7b929d60884ad4b8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 4(1) (schemes to which Article 75 does not apply) sub-paragraph (k) and the word “or” immediately preceding it shall be omitted.
 
-(4)[^key-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d705085f696e1b607871d1dd6022bb73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In regulation 10 (money purchase schemes: fraud and levy deficiencies etc.), as it applies by virtue of regulation 12 of the 2005 Regulations (multi-employer money purchase schemes), in paragraph (1A)(a) for “the actuary” there shall be substituted “the trustees or managers”.
 
-(8)[^key-5bb7fb42c35856197196920a32a49661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5bb7fb42c35856197196920a32a49661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Pension Regulator’s functions under the 2005 Regulations[^key-bf7e51dbb52f79356413086897d67b59]
+## 3. The Pension Regulator’s functions under the 2005 Regulations[^c-bf7e51dbb52f79356413086897d67b59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^key-ab1a7bc49c6000b85db03000cec54735]
+## 4. Amendment of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations[^c-ab1a7bc49c6000b85db03000cec54735]
 
 In regulation 6(1)(b) of the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations (Northern Ireland) 1996[^f00006] (excluded assets) for “, 60(5) or 75(1)” there shall be substituted “or 60(5) or under Article 75(1), as it has effect before 6th April 2005, or under Article 75(2) or (4), as it has effect on or after that date”.
 
-## 5. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-2a1496358a8d994f8d1db30910780aa4]
+## 5. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^c-2a1496358a8d994f8d1db30910780aa4]
 
 In regulation 16(1)(a)(ii) of the Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00007] (restrictions on winding up, discharge of liabilities etc.) for “section 90(1)(a)” there shall be substituted “section 90(1)(aa)”[^f00008].
 
-## 6. Amendment of the Pensions Regulator (Financial Support Directions, etc.) Regulations[^key-8f6612f470401c612919f8885daead78]
+## 6. Amendment of the Pensions Regulator (Financial Support Directions, etc.) Regulations[^c-8f6612f470401c612919f8885daead78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -98,11 +98,11 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — SCHEDULES TO BE INSERTED IN THE 2005 REGULATIONS[^key-064fd0da8df6fecebc308820a44b6c6f]
+## SCHEDULE — SCHEDULES TO BE INSERTED IN THE 2005 REGULATIONS[^c-064fd0da8df6fecebc308820a44b6c6f]
 
 Regulation 2(8)
 
-[^key-064fd0da8df6fecebc308820a44b6c6f]
+[^c-064fd0da8df6fecebc308820a44b6c6f]
 
 > **SCHEDULE 1A — MULTI-EMPLOYER SCHEMES: EMPLOYER-CESSATION EVENTS AND APPROVED WITHDRAWAL ARRANGEMENTS**
 >
@@ -274,33 +274,33 @@ Otherwise they are made before the end of the period of six months beginning wit
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 88(2)(q) and paragraph 2(d) of Schedule 1 refer to functions of the Regulator, which by virtue of Article 6(1)(b) and (2)(b) include functions expressed to be conferred on “the Authority” by or by virtue of the Pensions (Northern Ireland) Order 1995
 
-[^key-70967a72b74e9802085c3432809a6d52]: Commencement: Reg. 1 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+[^c-70967a72b74e9802085c3432809a6d52]: Commencement: Reg. 1 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
 
-[^key-d156f8663c7fcf6c37cce64cf8309d3c]: Commencement: Reg. 2 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+[^c-d156f8663c7fcf6c37cce64cf8309d3c]: Commencement: Reg. 2 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
 
-[^key-1032b075c8f071d7b929d60884ad4b8c]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/2) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+[^c-1032b075c8f071d7b929d60884ad4b8c]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/2) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
 
-[^key-d705085f696e1b607871d1dd6022bb73]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/4) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+[^c-d705085f696e1b607871d1dd6022bb73]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/4) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
 
-[^key-5bb7fb42c35856197196920a32a49661]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/8) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+[^c-5bb7fb42c35856197196920a32a49661]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/nisr/2005/387/regulation/2/8) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
 
-[^key-bf7e51dbb52f79356413086897d67b59]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/387/regulation/3) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+[^c-bf7e51dbb52f79356413086897d67b59]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/387/regulation/3) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
 
-[^key-ab1a7bc49c6000b85db03000cec54735]: Commencement: Reg. 4 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+[^c-ab1a7bc49c6000b85db03000cec54735]: Commencement: Reg. 4 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570); sub-paragraph (b) was amended by regulation 12(1) of [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584)
 
-[^key-2a1496358a8d994f8d1db30910780aa4]: Commencement: Reg. 5 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+[^c-2a1496358a8d994f8d1db30910780aa4]: Commencement: Reg. 5 in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126); regulation 16(1) was amended by regulation 3(5) of [S.R. 2005 No. 194](https://www.legislation.gov.uk/nisr/2005/194)
 
 [^f00008]: Footnote: Paragraph (aa) was inserted by Article 150(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-8f6612f470401c612919f8885daead78]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/387/regulation/6) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
+[^c-8f6612f470401c612919f8885daead78]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/387/regulation/6) revoked (6.4.2008) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/132)](https://www.legislation.gov.uk/nisr/2008/132), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/1), [21(a)](https://www.legislation.gov.uk/nisr/2008/132/regulation/21/a) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/nisr/2008/132/regulation/2/3))
 
-[^key-064fd0da8df6fecebc308820a44b6c6f]: Commencement: Sch. in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
+[^c-064fd0da8df6fecebc308820a44b6c6f]: Commencement: Sch. in operation at 2.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/387/regulation/1/1)
 
 [^f00010]: Footnote: Paragraph (6A) was inserted by Article 248(5) of the Pensions (Northern Ireland) Order 2005
 

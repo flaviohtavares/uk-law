@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Conversion of city academies into Academies[^key-9dc961a6ffc5fd5f6ef7faf1c4f2e82c]
+## 67. Conversion of city academies into Academies[^c-9dc961a6ffc5fd5f6ef7faf1c4f2e82c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dc961a6ffc5fd5f6ef7faf1c4f2e82c]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/2002/32/section/67) repealed (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/13); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-9dc961a6ffc5fd5f6ef7faf1c4f2e82c]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/2002/32/section/67) repealed (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2010/32/schedule/2/paragraph/13); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)

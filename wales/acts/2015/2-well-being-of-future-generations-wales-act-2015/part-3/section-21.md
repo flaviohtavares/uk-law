@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Recommendations made by the Commissioner[^key-65e391f4b1bda51f5f6efccd6dced17d]
+## 21. Recommendations made by the Commissioner[^c-65e391f4b1bda51f5f6efccd6dced17d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65e391f4b1bda51f5f6efccd6dced17d]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2015/2/section/21) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-65e391f4b1bda51f5f6efccd6dced17d]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2015/2/section/21) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)

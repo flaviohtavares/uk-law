@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Internal reviews[^key-6b4edb570a36fc890a8d4f578d6e230f][^key-fca478a0e2544c3272586ff88ad3d22e]
+## 83. Internal reviews[^c-6b4edb570a36fc890a8d4f578d6e230f][^c-fca478a0e2544c3272586ff88ad3d22e]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b4edb570a36fc890a8d4f578d6e230f]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-6b4edb570a36fc890a8d4f578d6e230f]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-fca478a0e2544c3272586ff88ad3d22e]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2025/21/section/83) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)
+[^c-fca478a0e2544c3272586ff88ad3d22e]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2025/21/section/83) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)

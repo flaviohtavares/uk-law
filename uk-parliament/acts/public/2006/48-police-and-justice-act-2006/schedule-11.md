@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Schedule to be inserted into the Protection of Children Act 1978[^key-5f1e5fcd19161f16e30f68b8ad307018]
+## SCHEDULE 11 — Schedule to be inserted into the Protection of Children Act 1978[^c-5f1e5fcd19161f16e30f68b8ad307018]
 
 *Extent: E+W*
 
@@ -271,4 +271,4 @@ Section 39
 
 ## Annotations
 
-[^key-5f1e5fcd19161f16e30f68b8ad307018]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/48/schedule/11) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/790/article/2/c)
+[^c-5f1e5fcd19161f16e30f68b8ad307018]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/48/schedule/11) in force at 1.4.2008 by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/790/article/2/c)

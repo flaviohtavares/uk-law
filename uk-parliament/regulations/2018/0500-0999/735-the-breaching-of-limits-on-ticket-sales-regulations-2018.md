@@ -44,13 +44,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 A draft of the instrument was laid before Parliament in accordance with section 106(9) of that Act, and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-e95a68c74ab8a4797f096849c5ff727c]
+## 1. Citation, commencement and extent[^c-e95a68c74ab8a4797f096849c5ff727c]
 
 (1) These Regulations may be cited as the Breaching of Limits on Ticket Sales Regulations 2018 and come into force 21 days after the day on which they are made.
 
 (2) These Regulations extend to England and Wales and Scotland.
 
-## 2. Application[^key-8a9f198156705e4ea213969d89bc0794]
+## 2. Application[^c-8a9f198156705e4ea213969d89bc0794]
 
 These Regulations apply where—
 
@@ -58,16 +58,16 @@ These Regulations apply where—
 - (b) purchase of the tickets may be made wholly or partly by a process that the purchaser completes using an electronic communications network or an electronic communications service[^f00002]; and
 - (c) the offer is subject to conditions that limit the number of tickets a purchaser may buy (“the sales limit”).
 
-## 3. Offence[^key-3d549d98223de95e36a3ab7891e79589]
+## 3. Offence[^c-3d549d98223de95e36a3ab7891e79589]
 
 It is an offence for a person to—
 
 - (a) use software that is designed to enable or facilitate completion of any part of a process within regulation 2(b); and
 - (b) do so with intent to obtain tickets in excess of the sales limit, with a view to any person obtaining financial gain.
 
-**4.**[^key-cee5bf5b0ed9e4da823aa4efbfef97b9] For the purposes of regulation 3 it does not matter whether the offer in regulation 2(a) is made, or anything is done to obtain tickets, in or outside the United Kingdom.
+**4.**[^c-cee5bf5b0ed9e4da823aa4efbfef97b9] For the purposes of regulation 3 it does not matter whether the offer in regulation 2(a) is made, or anything is done to obtain tickets, in or outside the United Kingdom.
 
-## 5. Offences: prosecution and penalties[^key-ed82a9d515be56ef91978d7312612b88]
+## 5. Offences: prosecution and penalties[^c-ed82a9d515be56ef91978d7312612b88]
 
 (1) An offence under these Regulations is triable summarily in England and Wales and Scotland.
 
@@ -76,7 +76,7 @@ It is an offence for a person to—
 - (a) in England and Wales, to a fine; or
 - (b) in Scotland, to a fine not exceeding £50,000.
 
-(3)[^key-7bde1d29c1fd2c1c9446db6463935d79] The Competition and Markets Authority may enforce these Regulations.
+(3)[^c-7bde1d29c1fd2c1c9446db6463935d79] The Competition and Markets Authority may enforce these Regulations.
 
 Margot James
 
@@ -108,16 +108,16 @@ An Impact Assessment has not been produced as no, or no significant, impact on t
 
 [^f00001]: Footnote: [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-e95a68c74ab8a4797f096849c5ff727c]: Commencement: Reg. 1 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
+[^c-e95a68c74ab8a4797f096849c5ff727c]: Commencement: Reg. 1 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
 
-[^key-8a9f198156705e4ea213969d89bc0794]: Commencement: Reg. 2 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
+[^c-8a9f198156705e4ea213969d89bc0794]: Commencement: Reg. 2 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
 
 [^f00002]: Footnote: Section 106(10) of the Digital Economy Act 2017 provides that “electronic communications network” and “electronic communications service” have the meanings given by section 32 of the Communications Act 2003, c. 21. Section 32 of that Act was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-3d549d98223de95e36a3ab7891e79589]: Commencement: Reg. 3 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
+[^c-3d549d98223de95e36a3ab7891e79589]: Commencement: Reg. 3 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
 
-[^key-cee5bf5b0ed9e4da823aa4efbfef97b9]: Commencement: Reg. 4 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
+[^c-cee5bf5b0ed9e4da823aa4efbfef97b9]: Commencement: Reg. 4 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
 
-[^key-ed82a9d515be56ef91978d7312612b88]: Commencement: Reg. 5 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
+[^c-ed82a9d515be56ef91978d7312612b88]: Commencement: Reg. 5 in force at 5.7.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/735/regulation/1/1)
 
-[^key-7bde1d29c1fd2c1c9446db6463935d79]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/735/regulation/5/3) inserted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 216(5)](https://www.legislation.gov.uk/ukpga/2024/13/section/216/5), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-7bde1d29c1fd2c1c9446db6463935d79]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/735/regulation/5/3) inserted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 216(5)](https://www.legislation.gov.uk/ukpga/2024/13/section/216/5), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

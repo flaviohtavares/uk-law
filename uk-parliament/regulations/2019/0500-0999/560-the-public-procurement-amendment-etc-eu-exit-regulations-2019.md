@@ -34,7 +34,7 @@ Exiting The European Union
 
 Public Procurement
 
-The Public Procurement (Amendment etc.) (EU Exit) Regulations 2019 (revoked)[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+The Public Procurement (Amendment etc.) (EU Exit) Regulations 2019 (revoked)[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 Made
 
@@ -42,162 +42,162 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — GENERAL[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+## PART 1 — GENERAL[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
-### 1. Citation, commencement and transitional and saving provision[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — AMENDMENT OF PRIMARY LEGISLATION[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-### 2. The Greater London Authority Act 1999[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 1. Citation, commencement and transitional and saving provision[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The Equality Act 2010[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+## PART 2 — AMENDMENT OF PRIMARY LEGISLATION[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+### 2. The Greater London Authority Act 1999[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Public Services (Social Value) Act 2012[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 3. The Equality Act 2010[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — AMENDMENT OF SECONDARY LEGISLATION[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-### CHAPTER 1 — THE PUBLIC CONTRACTS REGULATIONS 2015[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-#### 5. Amendments commenced on exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 4. The Public Services (Social Value) Act 2012[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Amendments commenced eight months after exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+## PART 3 — AMENDMENT OF SECONDARY LEGISLATION[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+### CHAPTER 1 — THE PUBLIC CONTRACTS REGULATIONS 2015[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+#### 5. Amendments commenced on exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — THE CONCESSION CONTRACTS REGULATIONS 2016[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-#### 7. Amendments commenced on exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 6. Amendments commenced eight months after exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Amendment commenced eight months after exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### CHAPTER 2 — THE CONCESSION CONTRACTS REGULATIONS 2016[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+#### 7. Amendments commenced on exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 3 — THE UTILITIES CONTRACTS REGULATIONS 2016[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-#### 9. Amendments commenced on exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 8. Amendment commenced eight months after exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Amendments commenced eight months after exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### CHAPTER 3 — THE UTILITIES CONTRACTS REGULATIONS 2016[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+#### 9. Amendments commenced on exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 4 — AMENDMENT OF OTHER SUBORDINATE LEGISLATION[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-#### 11. The Public Contracts Regulations 2006[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 10. Amendments commenced eight months after exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. The Utilities Contracts Regulations 2006[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### CHAPTER 4 — AMENDMENT OF OTHER SUBORDINATE LEGISLATION[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+#### 11. The Public Contracts Regulations 2006[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. The Service Charges (Consultation Requirements) (England) Regulations 2003[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 12. The Utilities Contracts Regulations 2006[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. The Provision of Services Regulations 2009[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 13. The Service Charges (Consultation Requirements) (England) Regulations 2003[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 14. The Provision of Services Regulations 2009[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — AMENDMENT OF RETAINED DIRECT EU LEGISLATION[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-### 16. Regulation 2195/2002 of the European Parliament and of the Council[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+#### 15. The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Commission Decision [2006/211/EC](https://www.legislation.gov.uk/eud/2006/211)[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+## PART 4 — AMENDMENT OF RETAINED DIRECT EU LEGISLATION[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+### 16. Regulation 2195/2002 of the European Parliament and of the Council[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Commission Decision [2007/141/EC](https://www.legislation.gov.uk/eud/2007/141)[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 17. Commission Decision [2006/211/EC](https://www.legislation.gov.uk/eud/2006/211)[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Commission Decision 2010/192/EU[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 18. Commission Decision [2007/141/EC](https://www.legislation.gov.uk/eud/2007/141)[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Commission Implementing Regulation (EU) No 2015/1986[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 19. Commission Decision 2010/192/EU[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — CESSATION OF RIGHTS ETC.[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
-
-### 21. Cessation of rights etc under certain international agreements[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 20. Commission Implementing Regulation (EU) No 2015/1986[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 5 — CESSATION OF RIGHTS ETC.[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
-## SCHEDULE — TRANSITIONAL AND SAVING PROVISION[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 21. Cessation of rights etc under certain international agreements[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE — TRANSITIONAL AND SAVING PROVISION[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 Regulation 1(4)
 
-### 1. Interpretation[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 1. Interpretation[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. General principles[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 2. General principles[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Savings in relation to procurements commenced before exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 3. Savings in relation to procurements commenced before exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Procurement involving contracting authorities or utilities from other member States[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 4. Procurement involving contracting authorities or utilities from other member States[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Saving with modification of certain references to compatibility with EU law[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 5. Saving with modification of certain references to compatibility with EU law[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Saving of implied power to terminate contracts[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 6. Saving of implied power to terminate contracts[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Saving with modification of certain references to design contests in relation to procurements commenced before exit day[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 7. Saving with modification of certain references to design contests in relation to procurements commenced before exit day[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Saving, in relation to procurements commenced before exit day, of duty owed to economic operators from EEA states[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 8. Saving, in relation to procurements commenced before exit day, of duty owed to economic operators from EEA states[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Saving, in relation to procurements commenced before exit day, of duty owed to economic operators from states party to certain bilateral agreements[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 9. Saving, in relation to procurements commenced before exit day, of duty owed to economic operators from states party to certain bilateral agreements[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Saving in relation to procurements commenced before regulations 6, 8 and 10 come into force[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 10. Saving in relation to procurements commenced before regulations 6, 8 and 10 come into force[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Saving in relation to affiliated undertakings[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]
+### 11. Saving in relation to affiliated undertakings[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1dbbcb2bd80b34f350be2bb5b5e3db59]: Textual amendment: Regulations revoked (20.11.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/2/a) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-1dbbcb2bd80b34f350be2bb5b5e3db59]: Textual amendment: Regulations revoked (20.11.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/2/a) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))

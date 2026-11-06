@@ -35,71 +35,71 @@ setting the rules for applications concerning the use of generic descriptors (de
 
 (Text with EEA relevance) (revoked)
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cebcf9535ff4a8201abd35ef01762b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cebcf9535ff4a8201abd35ef01762b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cebcf9535ff4a8201abd35ef01762b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cebcf9535ff4a8201abd35ef01762b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cebcf9535ff4a8201abd35ef01762b5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cebcf9535ff4a8201abd35ef01762b5c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-cebcf9535ff4a8201abd35ef01762b5c]
+## ANNEX[^c-cebcf9535ff4a8201abd35ef01762b5c]
 
-### PART A — Submission of the application[^key-cebcf9535ff4a8201abd35ef01762b5c]
+### PART A — Submission of the application[^c-cebcf9535ff4a8201abd35ef01762b5c]
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-cebcf9535ff4a8201abd35ef01762b5c]2.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]3.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-cebcf9535ff4a8201abd35ef01762b5c]3.
 
 On receipt of an application the national competent authority of the recipient Member State shall:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]4.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]5.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]6.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]7.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]8.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Content of the application[^key-cebcf9535ff4a8201abd35ef01762b5c]
+### PART B — Content of the application[^c-cebcf9535ff4a8201abd35ef01762b5c]
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]1.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]1.
 
 *Mandatory information*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]2.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]2.
 
 *Additional information that must be provided if requested on the Member States’ initiative: supporting data in relation to the understanding/perception of the consumer*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]3.
+[^c-cebcf9535ff4a8201abd35ef01762b5c]3.
 
 *Any additional information (optional)*
 
@@ -107,4 +107,4 @@ On receipt of an application the national competent authority of the recipient M
 
 ## Annotations
 
-[^key-cebcf9535ff4a8201abd35ef01762b5c]: Textual amendment: Regulation revoked (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [51](https://www.legislation.gov.uk/uksi/2019/651/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cebcf9535ff4a8201abd35ef01762b5c]: Textual amendment: Regulation revoked (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [51](https://www.legislation.gov.uk/uksi/2019/651/regulation/51); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

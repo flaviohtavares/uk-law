@@ -46,7 +46,7 @@ In accordance with Articles 137(5) and 137A(9) of that Order, a draft of these R
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and cessation[^key-159c8d7f6353eb93189483eb94464aed]
+### 1. Citation, commencement and cessation[^c-159c8d7f6353eb93189483eb94464aed]
 
 (1) These Regulations may be cited as the Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025.
 
@@ -54,7 +54,7 @@ In accordance with Articles 137(5) and 137A(9) of that Order, a draft of these R
 
 (3) These Regulations cease to have effect on 31st March 2028.
 
-### 2. No retrospective entitlement[^key-4efc0ab39647ff404c7b55fdc807450f]
+### 2. No retrospective entitlement[^c-4efc0ab39647ff404c7b55fdc807450f]
 
 These Regulations do not confer entitlement to a welfare supplementary payment in respect of a period before they come into operation.
 
@@ -62,7 +62,7 @@ These Regulations do not confer entitlement to a welfare supplementary payment i
 
 ### CHAPTER 1 — ENTITLEMENTS
 
-#### 3. Interpretation[^key-77b25ba391fbfb4499829cdce820b41f]
+#### 3. Interpretation[^c-77b25ba391fbfb4499829cdce820b41f]
 
 In regulation 1 of the Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^f00003](citation, commencement and interpretation), in paragraph (2), insert in the appropriate place in alphabetical order—
 
@@ -71,7 +71,7 @@ In regulation 1 of the Welfare Supplementary Payments Regulations (Northern Irel
 
 .
 
-#### 4. Information sharing on benefit cap[^key-7ded830ae14382a29058a583e74cfd1b]
+#### 4. Information sharing on benefit cap[^c-7ded830ae14382a29058a583e74cfd1b]
 
 In regulation 4H of the Welfare Supplementary Payments Regulations (Northern Ireland) 2016 (information sharing), in paragraph (2)—
 
@@ -90,7 +90,7 @@ In regulation 4H of the Welfare Supplementary Payments Regulations (Northern Ire
 
   .
 
-#### 5. Contributory employment and support allowance[^key-5bd3b379a37bd4c44a0fd8c0e748bf79]
+#### 5. Contributory employment and support allowance[^c-5bd3b379a37bd4c44a0fd8c0e748bf79]
 
 (1) Part 3 of the Welfare Supplementary Payments Regulations (Northern Ireland) 2016 (contributory employment and support allowance) is amended as follows.
 
@@ -147,7 +147,7 @@ In regulation 4H of the Welfare Supplementary Payments Regulations (Northern Ire
 
   .
 
-#### 6. Carer payments[^key-d9779c9499985e2b293d5c4640ee9c12]
+#### 6. Carer payments[^c-d9779c9499985e2b293d5c4640ee9c12]
 
 (1) The Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016[^f00008] are amended as follows.
 
@@ -279,7 +279,7 @@ In regulation 4H of the Welfare Supplementary Payments Regulations (Northern Ire
 
 .
 
-#### 7. Disability-related premiums[^key-5f0138ad52c7b9810435afec27418db6]
+#### 7. Disability-related premiums[^c-5f0138ad52c7b9810435afec27418db6]
 
 (1) The Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016[^f00012] are amended as follows.
 
@@ -297,7 +297,7 @@ In regulation 4H of the Welfare Supplementary Payments Regulations (Northern Ire
 
 (3) In each of regulation 8(1), 17(1), 24(1), 30(1) and 36(1) (period of payment), after “in arrears” insert “, unless in any case or class of case in which a person is entitled to universal credit the Department arranges otherwise”.
 
-#### 8. Housing benefit[^key-1e6340fd09338f256af9b018c36fe218]
+#### 8. Housing benefit[^c-1e6340fd09338f256af9b018c36fe218]
 
 (1) The Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017[^f00014] are amended as follows.
 
@@ -325,11 +325,11 @@ In regulation 4H of the Welfare Supplementary Payments Regulations (Northern Ire
 
 ### CHAPTER 2 — OVERPAYMENTS
 
-#### 9. Introduction[^key-56a59e8cc4467398263b5efc1cddaeb9]
+#### 9. Introduction[^c-56a59e8cc4467398263b5efc1cddaeb9]
 
 Part 2 of the Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017[^f00015] (recovery of overpayment) is amended in accordance with this Chapter.
 
-#### 10. Interpretation[^key-40b3885e5f743cfd43100e95a35b14f1]
+#### 10. Interpretation[^c-40b3885e5f743cfd43100e95a35b14f1]
 
 In regulation 5 (interpretation of this Part) insert in the appropriate place in alphabetical order—
 
@@ -337,7 +337,7 @@ In regulation 5 (interpretation of this Part) insert in the appropriate place in
 
 .
 
-#### 11. Persons from whom recovery may be made[^key-84e5f70b899d78add1bd214340175899]
+#### 11. Persons from whom recovery may be made[^c-84e5f70b899d78add1bd214340175899]
 
 In regulation 8 (persons from whom overpayments may be recovered)—
 
@@ -352,7 +352,7 @@ In regulation 8 (persons from whom overpayments may be recovered)—
   ;
 - (c) in paragraph (5), after “as the case may be” insert “or, where there is a person appointed or nominated as mentioned in paragraph (3) or (4), from that person or from A”.
 
-#### 12. Deduction from welfare supplementary payments[^key-a0804a7a54ca617b7e5e48eb4c813a38]
+#### 12. Deduction from welfare supplementary payments[^c-a0804a7a54ca617b7e5e48eb4c813a38]
 
 In regulation 9 (deduction from certain supplementary payments)—
 
@@ -363,7 +363,7 @@ In regulation 9 (deduction from certain supplementary payments)—
   ;
 - (b) in paragraph (2), for “must” substitute “may”.
 
-#### 13. Deduction from benefits[^key-1bc9199e57730bcda0d46a0e88d4d5fe]
+#### 13. Deduction from benefits[^c-1bc9199e57730bcda0d46a0e88d4d5fe]
 
 (1) In regulation 10—
 
@@ -424,7 +424,7 @@ In regulation 9 (deduction from certain supplementary payments)—
 - (b) in sub-paragraph (c), after “regulations 9 and 10” insert “or under regulations 9 and 10A”; and
 - (c) in sub-paragraph (d), after “regulations 9, 10, and 11” insert “or under regulations 9, 10A and 11”.
 
-#### 14. Deduction from earnings[^key-8cc4e47a65628b1c4eefc820a53d1873]
+#### 14. Deduction from earnings[^c-8cc4e47a65628b1c4eefc820a53d1873]
 
 (1) In regulation 11 (deduction from earnings), before paragraph (1) insert—
 
@@ -438,7 +438,7 @@ In regulation 9 (deduction from certain supplementary payments)—
 
 .
 
-#### 15. Off-setting in case of awards of back-dated benefit[^key-593277a8ed77dc48415d6992e7511d01]
+#### 15. Off-setting in case of awards of back-dated benefit[^c-593277a8ed77dc48415d6992e7511d01]
 
 (1) In regulation 6 (circumstances in which overpayment may be recovered), in paragraph (5), for sub-paragraphs (a) to (c) substitute—
 
@@ -457,7 +457,7 @@ In regulation 9 (deduction from certain supplementary payments)—
 
 ### CHAPTER 1 — INTRODUCTION
 
-#### 16. Interpretation[^key-ede66fc6932ab02217eb0a17a5e0b3a3]
+#### 16. Interpretation[^c-ede66fc6932ab02217eb0a17a5e0b3a3]
 
 (1) In this Part—
 
@@ -474,13 +474,13 @@ In regulation 9 (deduction from certain supplementary payments)—
 - (b) made from sums issued out of the Consolidated Fund of Northern Ireland under the authority of an Act of the Assembly or an Act of Parliament or under section 59 of the Northern Ireland Act 1998[^f00027] and appropriated for the purposes of the Department; and
 - (c) that corresponds with what would have been paid in respect of a person as a welfare supplementary payment under Chapters 2, 3 or 4 if those Chapters had been in operation at the time the payment was made.
 
-#### 17. Welfare supplementary payments[^key-bc229cb9e1a66a8889bcbbae9845c762]
+#### 17. Welfare supplementary payments[^c-bc229cb9e1a66a8889bcbbae9845c762]
 
 Welfare supplementary payments are payable in accordance with this Part.
 
 ### CHAPTER 2 — BENEFIT CAP
 
-#### 18. Eligibility[^key-b073373e2d4227e876be67261f1fdb30]
+#### 18. Eligibility[^c-b073373e2d4227e876be67261f1fdb30]
 
 (1) A person who is entitled to welfare supplementary payment under this Chapter if the following conditions are met—
 
@@ -501,11 +501,11 @@ Welfare supplementary payments are payable in accordance with this Part.
 - (a) “child”, “partner” and “qualifying young person” each have the same meaning as in the Universal Credit Regulations,
 - (b) a person is responsible for a child or qualifying young person if the person is responsible for them for the purposes of the Universal Credit Regulations.
 
-#### 19. Amount[^key-7a52a5d6db89cf1803388224fe3a3d7c]
+#### 19. Amount[^c-7a52a5d6db89cf1803388224fe3a3d7c]
 
 The amount of welfare supplementary payment to which a person is entitled under this Chapter is equivalent to the amount by which the award of universal credit is reduced under regulation 81 of the Universal Credit Regulations.
 
-#### 20. Payment[^key-967df8ee7f5df644134d6aca4c88d321]
+#### 20. Payment[^c-967df8ee7f5df644134d6aca4c88d321]
 
 (1) In the case of a person who becomes entitled to universal credit after the coming into operation of these Regulations, the period during which welfare supplementary payments are payable under this Chapter begins on the day on which the award of universal credit is reduced under regulation 81 of the Universal Credit Regulations.
 
@@ -515,11 +515,11 @@ The amount of welfare supplementary payment to which a person is entitled under 
 
 (4) A welfare supplementary payment to which a person is entitled under this Chapter must be paid to that person or, if there is in that person’s case a person appointed under regulation 52 of the Claims Regulations, it must be paid to the person so appointed.
 
-#### 21. Termination[^key-02a9f4f2f7d54e2f647a212564c6ab53]
+#### 21. Termination[^c-02a9f4f2f7d54e2f647a212564c6ab53]
 
 Where an award of universal credit ceases to be reduced under regulation 81 of the Universal Credit Regulations, welfare supplementary payments under this Chapter must cease to be paid from the day after the first payment of welfare supplementary payment following the date on which the award ceases to be reduced.
 
-#### 22. Discretionary housing support: prevention of double payment[^key-3b2dfa8017d45c74a7da1b139eb6c7d1]
+#### 22. Discretionary housing support: prevention of double payment[^c-3b2dfa8017d45c74a7da1b139eb6c7d1]
 
 In the Discretionary Financial Assistance regulations (Northern Ireland) 2001, in regulation 3 (circumstances in which discretionary housing payments may be made), at the end add—
 
@@ -529,7 +529,7 @@ In the Discretionary Financial Assistance regulations (Northern Ireland) 2001, i
 
 .
 
-#### 23. Information sharing[^key-8c485b03c10b9803d844f3cc536ea38a]
+#### 23. Information sharing[^c-8c485b03c10b9803d844f3cc536ea38a]
 
 (1) The Department may share information on welfare supplementary payments and administrative payments with the Northern Ireland Housing Executive.
 
@@ -543,11 +543,11 @@ In the Discretionary Financial Assistance regulations (Northern Ireland) 2001, i
 
 ### CHAPTER 3 — LOSS OF CARER ELEMENT
 
-#### 24. Interpretation[^key-ac8789ff6b754823be060a158057fca5]
+#### 24. Interpretation[^c-ac8789ff6b754823be060a158057fca5]
 
 An expression used in this Chapter and in the Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016[^f00028] has the same meaning in this Chapter as in those Regulations.
 
-#### 25. Eligibility[^key-3080eac37262b657c14e010ff9b1d514]
+#### 25. Eligibility[^c-3080eac37262b657c14e010ff9b1d514]
 
 (1) A person is entitled to welfare supplementary payment under this Chapter if the following conditions are met—
 
@@ -566,7 +566,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 
 (6) Where the person is entitled to universal credit as a member of a couple who are entitled to the award as joint claimants, the couple are entitled to the welfare supplementary payment; and references to a person’s entitlement to welfare supplementary payment are to be construed accordingly.
 
-#### 26. Amount[^key-878d7d23f22b3a668a58bae31b512b73]
+#### 26. Amount[^c-878d7d23f22b3a668a58bae31b512b73]
 
 (1) The amount of a welfare supplementary payment payable under this Chapter is equal to the amount of the carer element which was included in the award of universal credit.
 
@@ -576,7 +576,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 
 (3) Where the amount of welfare supplementary payment would, but for this paragraph, include a fraction of a penny, that fraction is to be disregarded if it is less than half a penny and otherwise it is to be treated as a penny.
 
-#### 27. Payment[^key-248fabeea111a9ed809b450e9e5b2653]
+#### 27. Payment[^c-248fabeea111a9ed809b450e9e5b2653]
 
 (1) In a case where the conditions under regulation 25(1) are not met until after the coming into operation of these Regulations, the period during which welfare supplementary payments are payable under this Chapter—
 
@@ -592,7 +592,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 
 (4) A welfare supplementary payment to which a person is entitled under this Chapter must be paid to that person or, if there is in that person’s case a person appointed under regulation 52 of the Claims Regulations, it must be paid to the person so appointed.
 
-#### 28. Termination of a welfare supplementary payment on a new award of carer element or carer’s allowance[^key-4f46330874d0d18f4fee090e3fc0c656]
+#### 28. Termination of a welfare supplementary payment on a new award of carer element or carer’s allowance[^c-4f46330874d0d18f4fee090e3fc0c656]
 
 (1) Welfare supplementary payment under this Chapter must cease to be paid to a person from the date on which the person becomes entitled to—
 
@@ -611,7 +611,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 - (a) a new claim for carer’s allowance; or
 - (b) a matter referred to in paragraph (2)(b), (c) or (d).
 
-#### 29. Termination of welfare supplementary payment if caree ceases to be entitled to welfare supplementary payment for loss of disability living allowance[^key-b49288fa2abe168e409739fad4c9682e]
+#### 29. Termination of welfare supplementary payment if caree ceases to be entitled to welfare supplementary payment for loss of disability living allowance[^c-b49288fa2abe168e409739fad4c9682e]
 
 (1) This regulation applies if the caree—
 
@@ -627,7 +627,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 - (a) the entitlement of the caree to welfare supplementary payment under Part 2 of the DLA Regulations (appeal pending against refusal of PIP) ceases, but
 - (b) the caree becomes entitled to welfare supplementary payment under Part 4 of those regulations (conflict related cases) by virtue of regulation 14 of those Regulations.
 
-#### 30. Termination of welfare supplementary payment if entitlement to personal independence payment ceases or daily living component awarded[^key-2b1f4df7fc075feebdce71c0f8e44487]
+#### 30. Termination of welfare supplementary payment if entitlement to personal independence payment ceases or daily living component awarded[^c-2b1f4df7fc075feebdce71c0f8e44487]
 
 (1) This regulation applies if the caree—
 
@@ -636,7 +636,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 
 (2) Welfare supplementary payment under this Chapter must cease to be paid from the day after the first payment of welfare supplementary payment after the date on which the entitlement ceases or the award is made.
 
-#### 31. Welfare supplementary payment pending appeal against refusal of PIP under the DLA Regulations[^key-726ce2d829ea94da5baf2b46b33b91ca]
+#### 31. Welfare supplementary payment pending appeal against refusal of PIP under the DLA Regulations[^c-726ce2d829ea94da5baf2b46b33b91ca]
 
 (1) This regulation applies where a caree is entitled to further welfare supplementary payment in accordance with regulation 6(4) of the DLA Regulations (appeal to the Commissioner following a refusal of personal independence payment).
 
@@ -651,7 +651,7 @@ An expression used in this Chapter and in the Welfare Supplementary Payment (Los
 
 whichever is first to occur.
 
-#### 32. Termination of welfare supplementary payment on death of carer or caree[^key-7062cbe631af6d13e305ad5506ce7483]
+#### 32. Termination of welfare supplementary payment on death of carer or caree[^c-7062cbe631af6d13e305ad5506ce7483]
 
 (1) This regulation applies in a case where—
 
@@ -662,11 +662,11 @@ whichever is first to occur.
 
 (3) The period of payment must not exceed the time limit set out in regulation 27(1)(b) or (2)(b).
 
-#### 33. Separation of couple[^key-4246a9c7f49f5edd917546ae5854ec79]
+#### 33. Separation of couple[^c-4246a9c7f49f5edd917546ae5854ec79]
 
 Where the members of a couple cease to be a couple and were, immediately before ceasing to be such, entitled as a couple to welfare supplementary payment under this Chapter, the welfare supplementary payment is to be paid to the member of the couple whom the Department determines was the one providing care.
 
-#### 34. Care home residents[^key-c164627e3854bdc0c25115ec323122ab]
+#### 34. Care home residents[^c-c164627e3854bdc0c25115ec323122ab]
 
 (1) A welfare supplementary payment is not payable under this Chapter in respect of a period during which the person or the caree is a resident of a care home in circumstances in which the costs of qualifying services provided for the person resident in the care home are to any extent borne out of public funds by virtue of—
 
@@ -689,7 +689,7 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 (5) “**Child in need**” means a person who has not attained the age of 18 and is a child in need for the purposes of Article 17(b) or (c) of the Children (Northern Ireland) Order 1995[^f00039] (but as if the words “or development” were omitted from Article 17(b) of that Order).
 
-#### 35. Hospital in-patients[^key-bc2fc0f25963bb40d74d5ea33a3ee614]
+#### 35. Hospital in-patients[^c-bc2fc0f25963bb40d74d5ea33a3ee614]
 
 (1) A welfare supplementary payment is not payable under this Chapter in respect of a period during which the person or the caree is undergoing medical or other treatment—
 
@@ -702,7 +702,7 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 (4) Where the person’s treatment as an in-patient began less than 28 days before the coming into operation of these Regulations, paragraph (1) does not apply in respect of the part of the 28 days occurring after that coming into operation.
 
-#### 36. Recalculation where entitlement to universal credit ceases[^key-69813d6e956eb85ecca605c9b4e626ab]
+#### 36. Recalculation where entitlement to universal credit ceases[^c-69813d6e956eb85ecca605c9b4e626ab]
 
 (1) Where, after the coming into operation of these Regulations, a person ceases to be entitled to universal credit and is or becomes entitled only to a contributory benefit, the amount of welfare supplementary payment to which the person is entitled under this Chapter is the lesser of—
 
@@ -720,7 +720,7 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 ### CHAPTER 4 — CONTRIBUTORY EMPLOYMENT AND SUPPORT ALLOWANCE
 
-#### 37. Eligibility[^key-444a8f8d2c26a4139a52091f0aec2981]
+#### 37. Eligibility[^c-444a8f8d2c26a4139a52091f0aec2981]
 
 (1) A person is entitled to welfare supplementary payment under this Chapter for any period in respect of which the person has limited capability for work if the person’s entitlement to a contributory employment and support allowance ceases under section 1A of the WRA 2007[^f00040] in a case where the person was in receipt of the allowance—
 
@@ -736,13 +736,13 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 (4) “Limited capability for work credit” is a credit under regulation 8B(1) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00042] where paragraph (2)(a)(iv), (iva) or (v) of that regulation applies and which follows the cessation of the entitlement to contributory employment and support allowance as a consequence of section 1A of the WRA 2007.
 
-#### 38. Amount[^key-2236ae611165cc5959365c3325adf303]
+#### 38. Amount[^c-2236ae611165cc5959365c3325adf303]
 
 (1) The amount of a welfare supplementary payment to which a person is entitled under this Chapter is equal to the amount of the contributory employment and support allowance to which the person was entitled immediately before ceasing to be entitled to that allowance.
 
 (2) An expression used in this regulation and in the WRA 2007 has the same meaning in this regulation as in that Act.
 
-#### 39. Payment[^key-c08254e1fa8f77eb963f3b4dba5e614f]
+#### 39. Payment[^c-c08254e1fa8f77eb963f3b4dba5e614f]
 
 (1) In the case of a person whose entitlement to a contributory employment and support allowance ceases under section 1A of the WRA 2007 after the coming into operation of these Regulations, the period in respect of which welfare supplementary payments are payable under this Chapter—
 
@@ -758,13 +758,13 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 (4) A welfare supplementary payment to which a person is entitled under this Chapter must be paid to that person or, if there is in that person’s case a person appointed under regulation 52 of the Claims Regulations, it must be paid to the person so appointed.
 
-#### 40. Termination on further entitlement to employment and support allowance[^key-d54a1f7c1b29cce9381ce26c432ca084]
+#### 40. Termination on further entitlement to employment and support allowance[^c-d54a1f7c1b29cce9381ce26c432ca084]
 
 (1) If a person who is entitled to welfare supplementary payments under this Chapter is awarded an employment and support allowance under section 1B of the WRA 2007[^f00043], the entitlement to welfare supplementary payment under this Chapter ceases.
 
 (2) For the purpose of determining when the entitlement to welfare supplementary payment under this Chapter ceases, the effective date is the date on which the person’s award of employment and support allowance takes effect.
 
-#### 41. Information sharing[^key-16061d38fcc1b6761f61eaebeceecb74]
+#### 41. Information sharing[^c-16061d38fcc1b6761f61eaebeceecb74]
 
 (1) The Department may share information on welfare supplementary payments and administrative payments with the Commissioners for His Majesty’s Revenue and Customs.
 
@@ -781,7 +781,7 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 ### CHAPTER 5 — GENERAL
 
-#### 42. Change of circumstances[^key-69b5fd9856af1ae60ce214ead2c6e253]
+#### 42. Change of circumstances[^c-69b5fd9856af1ae60ce214ead2c6e253]
 
 (1) This regulation applies where there is a change of circumstances which—
 
@@ -794,15 +794,15 @@ Where the members of a couple cease to be a couple and were, immediately before 
 
 (4) For the purposes of calculating the person’s entitlement to welfare supplementary payment, the date to be used is the effective date determined in accordance with Part 3 of Schedule 1 to the Decisions and Appeals Regulations.
 
-#### 43. Recovery of overpayments[^key-f5ae4cc2249608df4078e1a039ba7a70]
+#### 43. Recovery of overpayments[^c-f5ae4cc2249608df4078e1a039ba7a70]
 
 Part 2 of the Welfare Supplementary Payment (Amendment) Regulations (Northern Ireland) 2017[^f00047] (recovery of overpayments) applies to a welfare supplementary payment under this Part as if it were a welfare supplementary payment within the meaning of that Part.
 
-#### 44. Sanctions[^key-d61412112ac1135281b55548817a2c4d]
+#### 44. Sanctions[^c-d61412112ac1135281b55548817a2c4d]
 
 For the avoidance of doubt, where a person is subject to a benefit sanction (for example, for failure to take part in a work-focused interview), the effect of the sanction is to be disregarded in calculating the amount of welfare supplementary payment payable under this Part.
 
-#### 45. Review[^key-c8e04636ad1d70bfe5c32f6f52e9ec6b]
+#### 45. Review[^c-c8e04636ad1d70bfe5c32f6f52e9ec6b]
 
 (1) The Department must establish procedures for—
 
@@ -819,7 +819,7 @@ For the avoidance of doubt, where a person is subject to a benefit sanction (for
 - (a) the consideration of the applicant’s entitlement to a welfare supplementary payment by up to three persons nominated by the Department;
 - (b) the preparation of a report by the persons so nominated setting out their conclusions in relation to the applicant’s entitlement to a welfare supplementary payment and their recommendation as to the manner in which the matter should be finally determined.
 
-#### 46. Treatment of payment[^key-62be24a7e578bcef203b8a70d75a0776]
+#### 46. Treatment of payment[^c-62be24a7e578bcef203b8a70d75a0776]
 
 (1) No account is to be taken of entitlement to a welfare supplementary payment under this Part in considering a person’s entitlement to a benefit under a statutory provision in relation to social security (regardless of the name or nature of the benefit).
 
@@ -842,7 +842,7 @@ For the avoidance of doubt, where a person is subject to a benefit sanction (for
 
   .
 
-#### 47. Residence and presence in Northern Ireland[^key-520977abc2ef9b9131e0b105c75a88ec]
+#### 47. Residence and presence in Northern Ireland[^c-520977abc2ef9b9131e0b105c75a88ec]
 
 (1) A person is not entitled to a welfare supplementary payment under this Part unless the person is or, in a case within Chapter 3, the person and the caree are, resident in Northern Ireland.
 
@@ -858,7 +858,7 @@ For the avoidance of doubt, where a person is subject to a benefit sanction (for
 
 (4) A person is “**temporarily absent**” for the purposes of paragraph (2) if, at the beginning of the period of absence, the period is unlikely to exceed six months.
 
-#### 48. Prisoners[^key-068977a5a8b6e1c2e8f2f20144fe500e]
+#### 48. Prisoners[^c-068977a5a8b6e1c2e8f2f20144fe500e]
 
 A welfare supplementary payment under Chapters 2 to 4 is not payable to a person in respect of a period in which that person or, in a case within Chapter 3, that person or the caree is undergoing imprisonment or detention in legal custody; but this does not apply in respect of the first month of that period.
 
@@ -900,27 +900,27 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); Article 137 was amended by Article 18(2) of the Welfare Reform and Work (Northern Ireland) Order 2016 ([S.I.2016/999 (N.I.1))](https://www.legislation.gov.uk/nisi/2016/999) (the 2016 Order) Article 137A was inserted by Article 19(2) of the 2016 Order as amended by the Welfare Supplementary Payments (Amendment) Act 2022
 
-[^key-159c8d7f6353eb93189483eb94464aed]: Commencement: Reg. 1 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-159c8d7f6353eb93189483eb94464aed]: Commencement: Reg. 1 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-4efc0ab39647ff404c7b55fdc807450f]: Commencement: Reg. 2 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-4efc0ab39647ff404c7b55fdc807450f]: Commencement: Reg. 2 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-77b25ba391fbfb4499829cdce820b41f]: Commencement: Reg. 3 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-77b25ba391fbfb4499829cdce820b41f]: Commencement: Reg. 3 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2016 No. 178](https://www.legislation.gov.uk/nisr/2016/178); relevant amending Regulations are [S.R 2016 No. 389](https://www.legislation.gov.uk/nisr/2016/389); [S.R 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28); [S.R. 2022 No. 25](https://www.legislation.gov.uk/nisr/2022/25), S.R. No. 32 and [S.R. 2025 No. 59](https://www.legislation.gov.uk/nisr/2025/59)
 
 [^f00004]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-7ded830ae14382a29058a583e74cfd1b]: Commencement: Reg. 4 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-7ded830ae14382a29058a583e74cfd1b]: Commencement: Reg. 4 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2001 No. 216](https://www.legislation.gov.uk/nisr/2001/216); relevant amendments have been made by [S.R. 2002 No. 80](https://www.legislation.gov.uk/nisr/2002/80), [S.R. 2008 No. 111](https://www.legislation.gov.uk/nisr/2008/111), [S.R. 2011 No. 291](https://www.legislation.gov.uk/nisr/2011/291), [S.R. 2012 No. 44](https://www.legislation.gov.uk/nisr/2012/44), [S.R. 2014 No. 150](https://www.legislation.gov.uk/nisr/2014/150), [S.R. 2016 No. 178](https://www.legislation.gov.uk/nisr/2016/178) and [S.R. 2016 No. 432](https://www.legislation.gov.uk/nisr/2016/432)
 
-[^key-5bd3b379a37bd4c44a0fd8c0e748bf79]: Commencement: Reg. 5 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-5bd3b379a37bd4c44a0fd8c0e748bf79]: Commencement: Reg. 5 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00006]: Footnote: Regulation 7 was amended by regulation 25 of [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28)
 
 [^f00007]: Footnote: Regulation 9A was inserted by regulation 27 of [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28)
 
-[^key-d9779c9499985e2b293d5c4640ee9c12]: Commencement: Reg. 6 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-d9779c9499985e2b293d5c4640ee9c12]: Commencement: Reg. 6 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2016 No. 253](https://www.legislation.gov.uk/nisr/2016/253); relevant amending Regulations are [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28); [S.R. 2022 No. 25](https://www.legislation.gov.uk/nisr/2022/25) and [S.R. 2025 No. 59](https://www.legislation.gov.uk/nisr/2025/59)
 
@@ -930,31 +930,31 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00011]: Footnote: Regulation 21A was inserted by regulation 42 of [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28) and amended by regulation 4(6) of [S.R. 2022 No. 25](https://www.legislation.gov.uk/nisr/2022/25)
 
-[^key-5f0138ad52c7b9810435afec27418db6]: Commencement: Reg. 7 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-5f0138ad52c7b9810435afec27418db6]: Commencement: Reg. 7 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00012]: Footnote: [S.R. 2016 No. 254](https://www.legislation.gov.uk/nisr/2016/254); relevant amending Regulations are [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28), [S.R. 2022 No. 25](https://www.legislation.gov.uk/nisr/2022/25) and [S.R. 2025 No. 59](https://www.legislation.gov.uk/nisr/2025/59)
 
 [^f00013]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-1e6340fd09338f256af9b018c36fe218]: Commencement: Reg. 8 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-1e6340fd09338f256af9b018c36fe218]: Commencement: Reg. 8 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00014]: Footnote: [S.R. 2017 No. 35](https://www.legislation.gov.uk/nisr/2017/35) amended by regulation 4 of [S.R. 2022 No. 32](https://www.legislation.gov.uk/nisr/2022/32)
 
-[^key-56a59e8cc4467398263b5efc1cddaeb9]: Commencement: Reg. 9 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-56a59e8cc4467398263b5efc1cddaeb9]: Commencement: Reg. 9 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00015]: Footnote: [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28)
 
-[^key-40b3885e5f743cfd43100e95a35b14f1]: Commencement: Reg. 10 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-40b3885e5f743cfd43100e95a35b14f1]: Commencement: Reg. 10 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-84e5f70b899d78add1bd214340175899]: Commencement: Reg. 11 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-84e5f70b899d78add1bd214340175899]: Commencement: Reg. 11 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00016]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations S.R.1992 No.7, [S.R. 2002 No. 297](https://www.legislation.gov.uk/nisr/2002/297), [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46) and [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407)
 
 [^f00017]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220)
 
-[^key-a0804a7a54ca617b7e5e48eb4c813a38]: Commencement: Reg. 12 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-a0804a7a54ca617b7e5e48eb4c813a38]: Commencement: Reg. 12 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-1bc9199e57730bcda0d46a0e88d4d5fe]: Commencement: Reg. 13 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-1bc9199e57730bcda0d46a0e88d4d5fe]: Commencement: Reg. 13 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00018]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219)
 
@@ -962,11 +962,11 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00020]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-8cc4e47a65628b1c4eefc820a53d1873]: Commencement: Reg. 14 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-8cc4e47a65628b1c4eefc820a53d1873]: Commencement: Reg. 14 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-593277a8ed77dc48415d6992e7511d01]: Commencement: Reg. 15 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-593277a8ed77dc48415d6992e7511d01]: Commencement: Reg. 15 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-ede66fc6932ab02217eb0a17a5e0b3a3]: Commencement: Reg. 16 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-ede66fc6932ab02217eb0a17a5e0b3a3]: Commencement: Reg. 16 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00021]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220)
 
@@ -982,31 +982,31 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00027]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
 
-[^key-bc229cb9e1a66a8889bcbbae9845c762]: Commencement: Reg. 17 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-bc229cb9e1a66a8889bcbbae9845c762]: Commencement: Reg. 17 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-b073373e2d4227e876be67261f1fdb30]: Commencement: Reg. 18 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-b073373e2d4227e876be67261f1fdb30]: Commencement: Reg. 18 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-7a52a5d6db89cf1803388224fe3a3d7c]: Commencement: Reg. 19 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-7a52a5d6db89cf1803388224fe3a3d7c]: Commencement: Reg. 19 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-967df8ee7f5df644134d6aca4c88d321]: Commencement: Reg. 20 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-967df8ee7f5df644134d6aca4c88d321]: Commencement: Reg. 20 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-02a9f4f2f7d54e2f647a212564c6ab53]: Commencement: Reg. 21 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-02a9f4f2f7d54e2f647a212564c6ab53]: Commencement: Reg. 21 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-3b2dfa8017d45c74a7da1b139eb6c7d1]: Commencement: Reg. 22 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-3b2dfa8017d45c74a7da1b139eb6c7d1]: Commencement: Reg. 22 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-8c485b03c10b9803d844f3cc536ea38a]: Commencement: Reg. 23 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-8c485b03c10b9803d844f3cc536ea38a]: Commencement: Reg. 23 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-ac8789ff6b754823be060a158057fca5]: Commencement: Reg. 24 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-ac8789ff6b754823be060a158057fca5]: Commencement: Reg. 24 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00028]: Footnote: [S.R. 2016 No. 253](https://www.legislation.gov.uk/nisr/2016/253); relevant amending Regulations are [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28), [S.R. 2022 No. 25](https://www.legislation.gov.uk/nisr/2022/25) and [S.R.2025 No. 59](https://www.legislation.gov.uk/nisr/2025/59)
 
-[^key-3080eac37262b657c14e010ff9b1d514]: Commencement: Reg. 25 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-3080eac37262b657c14e010ff9b1d514]: Commencement: Reg. 25 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-878d7d23f22b3a668a58bae31b512b73]: Commencement: Reg. 26 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-878d7d23f22b3a668a58bae31b512b73]: Commencement: Reg. 26 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-248fabeea111a9ed809b450e9e5b2653]: Commencement: Reg. 27 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-248fabeea111a9ed809b450e9e5b2653]: Commencement: Reg. 27 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-4f46330874d0d18f4fee090e3fc0c656]: Commencement: Reg. 28 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-4f46330874d0d18f4fee090e3fc0c656]: Commencement: Reg. 28 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
@@ -1014,17 +1014,17 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00031]: Footnote: Article 13 was amended by paragraph 19 of Schedule 6 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671); Article 4(2) of [S.I. 2014/886](https://www.legislation.gov.uk/uksi/2014/886) and Articles 107(2), (3), (4) and 109(6) of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-b49288fa2abe168e409739fad4c9682e]: Commencement: Reg. 29 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-b49288fa2abe168e409739fad4c9682e]: Commencement: Reg. 29 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-2b1f4df7fc075feebdce71c0f8e44487]: Commencement: Reg. 30 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-2b1f4df7fc075feebdce71c0f8e44487]: Commencement: Reg. 30 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-726ce2d829ea94da5baf2b46b33b91ca]: Commencement: Reg. 31 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-726ce2d829ea94da5baf2b46b33b91ca]: Commencement: Reg. 31 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-7062cbe631af6d13e305ad5506ce7483]: Commencement: Reg. 32 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-7062cbe631af6d13e305ad5506ce7483]: Commencement: Reg. 32 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-4246a9c7f49f5edd917546ae5854ec79]: Commencement: Reg. 33 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-4246a9c7f49f5edd917546ae5854ec79]: Commencement: Reg. 33 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-c164627e3854bdc0c25115ec323122ab]: Commencement: Reg. 34 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-c164627e3854bdc0c25115ec323122ab]: Commencement: Reg. 34 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); Article 15 was amended by paragraph 2(2) of Schedule 1 to the Registered Homes (Northern Ireland) Order 1992 ([S.I. 1992/3204 (N.I. 20))](https://www.legislation.gov.uk/nisi/1992/3204); Article 36 was amended by section 1(1) and (2) of the Health and Personal Social Services Act (Northern Ireland) [2002 (c. 9 (N.I.))](https://www.legislation.gov.uk/nia/2002/9) and Article 45 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 ([S.I. 2003/431 (N.I. 9))](https://www.legislation.gov.uk/nisi/2003/431)
 
@@ -1042,11 +1042,11 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00039]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-bc2fc0f25963bb40d74d5ea33a3ee614]: Commencement: Reg. 35 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-bc2fc0f25963bb40d74d5ea33a3ee614]: Commencement: Reg. 35 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-69813d6e956eb85ecca605c9b4e626ab]: Commencement: Reg. 36 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-69813d6e956eb85ecca605c9b4e626ab]: Commencement: Reg. 36 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-444a8f8d2c26a4139a52091f0aec2981]: Commencement: Reg. 37 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-444a8f8d2c26a4139a52091f0aec2981]: Commencement: Reg. 37 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00040]: Footnote: Section 1A was inserted by Article 57 of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
 
@@ -1054,38 +1054,38 @@ Chapter 5 makes general provision in relation to the new welfare supplementary p
 
 [^f00042]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); regulation 8B was inserted by regulation 2(6) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430), and relevant amendments have been made by [S.R. 2000 No. 404](https://www.legislation.gov.uk/nisr/2000/404), [S.R. 2003 No. 151](https://www.legislation.gov.uk/nisr/2003/151), [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286), [S.R. 2010 No. 109](https://www.legislation.gov.uk/nisr/2010/109) and [S.R. 2016 No. 175](https://www.legislation.gov.uk/nisr/2016/175)
 
-[^key-2236ae611165cc5959365c3325adf303]: Commencement: Reg. 38 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-2236ae611165cc5959365c3325adf303]: Commencement: Reg. 38 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-c08254e1fa8f77eb963f3b4dba5e614f]: Commencement: Reg. 39 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-c08254e1fa8f77eb963f3b4dba5e614f]: Commencement: Reg. 39 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-d54a1f7c1b29cce9381ce26c432ca084]: Commencement: Reg. 40 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-d54a1f7c1b29cce9381ce26c432ca084]: Commencement: Reg. 40 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00043]: Footnote: Section 1B was inserted by Article 58 of the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1))](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-16061d38fcc1b6761f61eaebeceecb74]: Commencement: Reg. 41 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-16061d38fcc1b6761f61eaebeceecb74]: Commencement: Reg. 41 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00044]: Footnote: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11); as amended by paragraph 20 of Schedule 3 to, and Part 1 of Schedule 14 to, the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and modified by sections 1(7)(a) and 7(8)(a) of the Borders, Citizenship and Immigration Act [2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11)
 
 [^f00045]: Footnote: Schedule 1 was amended by paragraph 61 of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), Part 1 of Schedule 14 to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and paragraph 64 of Schedule 7 to the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6)
 
-[^key-69b5fd9856af1ae60ce214ead2c6e253]: Commencement: Reg. 42 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-69b5fd9856af1ae60ce214ead2c6e253]: Commencement: Reg. 42 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00046]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-f5ae4cc2249608df4078e1a039ba7a70]: Commencement: Reg. 43 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-f5ae4cc2249608df4078e1a039ba7a70]: Commencement: Reg. 43 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00047]: Footnote: [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28)
 
-[^key-d61412112ac1135281b55548817a2c4d]: Commencement: Reg. 44 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-d61412112ac1135281b55548817a2c4d]: Commencement: Reg. 44 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-c8e04636ad1d70bfe5c32f6f52e9ec6b]: Commencement: Reg. 45 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-c8e04636ad1d70bfe5c32f6f52e9ec6b]: Commencement: Reg. 45 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-62be24a7e578bcef203b8a70d75a0776]: Commencement: Reg. 46 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-62be24a7e578bcef203b8a70d75a0776]: Commencement: Reg. 46 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
 [^f00048]: Footnote: [S.R. 2016 No. 270](https://www.legislation.gov.uk/nisr/2016/270) paragraph 40 of Schedule 3 was inserted by regulation 2(6)(a) of [S.R. 2017 No. 35](https://www.legislation.gov.uk/nisr/2017/35)
 
 [^f00049]: Footnote: [S.R. 2016 No. 178](https://www.legislation.gov.uk/nisr/2016/178); relevant amending regulations are [S.R. 2016 No. 389](https://www.legislation.gov.uk/nisr/2016/389), [S.R. 2017 No 28](https://www.legislation.gov.uk/nisr/2017/28), S.R. No 25, [S.R. 2022 No. 32](https://www.legislation.gov.uk/nisr/2022/32) and [S.R. 2025 No. 59](https://www.legislation.gov.uk/nisr/2025/59)
 
-[^key-520977abc2ef9b9131e0b105c75a88ec]: Commencement: Reg. 47 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-520977abc2ef9b9131e0b105c75a88ec]: Commencement: Reg. 47 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
 
-[^key-068977a5a8b6e1c2e8f2f20144fe500e]: Commencement: Reg. 48 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)
+[^c-068977a5a8b6e1c2e8f2f20144fe500e]: Commencement: Reg. 48 in operation at 20.3.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2)

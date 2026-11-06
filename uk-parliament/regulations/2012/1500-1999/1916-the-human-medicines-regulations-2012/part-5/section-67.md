@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A UK marketing authorisation ceases to be in force if the product to which it relates is not placed on the market in the United Kingdom [^key-8e8576d2a9cb50c6fe3d2c3f93de3f58]... during the period of three years beginning immediately after the day on which it was granted.
+(1) A UK marketing authorisation ceases to be in force if the product to which it relates is not placed on the market in the United Kingdom [^c-8e8576d2a9cb50c6fe3d2c3f93de3f58]... during the period of three years beginning immediately after the day on which it was granted.
 
-(2) A UK marketing authorisation for a product which has been placed on the market ceases to be in force if the product to which it relates is not sold or supplied in the United Kingdom [^key-b638504b0fc0c3d096b28b6c5045492d]... for a period of three years.
+(2) A UK marketing authorisation for a product which has been placed on the market ceases to be in force if the product to which it relates is not sold or supplied in the United Kingdom [^c-b638504b0fc0c3d096b28b6c5045492d]... for a period of three years.
 
 (3) This regulation does not apply if the licensing authority grants an exemption from its operation.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e8576d2a9cb50c6fe3d2c3f93de3f58]: Textual amendment: Words in [reg. 67(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/67/1) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2024/832/regulation/55)
+[^c-8e8576d2a9cb50c6fe3d2c3f93de3f58]: Textual amendment: Words in [reg. 67(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/67/1) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2024/832/regulation/55)
 
-[^key-b638504b0fc0c3d096b28b6c5045492d]: Textual amendment: Words in [reg. 67(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/67/2) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2024/832/regulation/55)
+[^c-b638504b0fc0c3d096b28b6c5045492d]: Textual amendment: Words in [reg. 67(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/67/2) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2024/832/regulation/55)

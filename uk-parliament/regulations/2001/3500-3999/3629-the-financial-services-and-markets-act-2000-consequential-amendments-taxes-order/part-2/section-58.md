@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Policy holders' share of profits[^key-4ea8ea8ccc524b043c378fcbbf9d641a]
+## 58. Policy holders' share of profits[^c-4ea8ea8ccc524b043c378fcbbf9d641a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea8ea8ccc524b043c378fcbbf9d641a]: Commencement: Art. 58 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-4ea8ea8ccc524b043c378fcbbf9d641a]: Commencement: Art. 58 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00080]: Footnote: Section 89 was substituted by section 45(3) of the Finance Act 1990.

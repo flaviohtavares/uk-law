@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Offences[^key-b0434667181e1595e2f07c6104377a30]
+## 2. Offences[^c-b0434667181e1595e2f07c6104377a30]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 has effect to prescribe offences for the purposes of Article 3(3)(a) 
 
 ## Annotations
 
-[^key-b0434667181e1595e2f07c6104377a30]: Textual amendment: Reg. 2 substituted (31.12.2015) by [The Waste Management Licensing (Amendment No.2) Regulations (Northern Ireland) 2015 (S.R. 2015/386)](https://www.legislation.gov.uk/nisr/2015/386), [regs. 1](https://www.legislation.gov.uk/nisr/2015/386/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2015/386/regulation/3/2)
+[^c-b0434667181e1595e2f07c6104377a30]: Textual amendment: Reg. 2 substituted (31.12.2015) by [The Waste Management Licensing (Amendment No.2) Regulations (Northern Ireland) 2015 (S.R. 2015/386)](https://www.legislation.gov.uk/nisr/2015/386), [regs. 1](https://www.legislation.gov.uk/nisr/2015/386/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2015/386/regulation/3/2)

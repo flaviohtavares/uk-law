@@ -22,9 +22,9 @@ summary: ''
 
 Article 2(b)
 
-**1.**[^key-c7dec29796dc36a8f4e96e036195c744] The Friendly Societies Act 1974[^f00071] is amended as follows.
+**1.**[^c-c7dec29796dc36a8f4e96e036195c744] The Friendly Societies Act 1974[^f00071] is amended as follows.
 
-**2.**[^key-47c1e46ccbb0d9fea0c6b73fc06d200a] (1) In the provisions listed in sub-paragraph (2)—
+**2.**[^c-47c1e46ccbb0d9fea0c6b73fc06d200a] (1) In the provisions listed in sub-paragraph (2)—
 
 - (a) for “Authority” substitute “FCA”; and
 - (b) for “Authority’s” substitute “FCA’s”.
@@ -56,13 +56,13 @@ Article 2(b)
 - (w) section 111(3)[^f00094] (interpretation: seal); and
 - (x) paragraphs 7 and 15 of Schedule 2[^f00095] (matters to be provided for by the rules of societies registered under this Act).
 
-**3.**[^key-f7cdda85206811a37bf0cab253da77fa] In section 30A(11)[^f00096] (publication of accounts and balance sheets), for “Authority” substitute “appropriate authority”.
+**3.**[^c-f7cdda85206811a37bf0cab253da77fa] In section 30A(11)[^f00096] (publication of accounts and balance sheets), for “Authority” substitute “appropriate authority”.
 
-**4.**[^key-e576b71e2c4c4be66672727a89245c87] In section 32[^f00097] (audit of exempt societies and branches), for “Authority”, in each place, substitute “appropriate authority”.
+**4.**[^c-e576b71e2c4c4be66672727a89245c87] In section 32[^f00097] (audit of exempt societies and branches), for “Authority”, in each place, substitute “appropriate authority”.
 
-**5.**[^key-eb60fcb212dd7caf40e9d567182a3ea8] In section 32A(4) and (5)[^f00098] (power of societies to disapply section 31 (obligation to appoint auditors)) , for “Authority”, in each place, substitute “appropriate authority”.
+**5.**[^c-eb60fcb212dd7caf40e9d567182a3ea8] In section 32A(4) and (5)[^f00098] (power of societies to disapply section 31 (obligation to appoint auditors)) , for “Authority”, in each place, substitute “appropriate authority”.
 
-**6.**[^key-91874d0a6226b65b566a4c2fea623784] (1) Section 39C[^f00099] (power to require accounts of past years to be audited) is amended as follows.
+**6.**[^c-91874d0a6226b65b566a4c2fea623784] (1) Section 39C[^f00099] (power to require accounts of past years to be audited) is amended as follows.
 
 (2) In subsection (1), for “Authority”—
 
@@ -73,7 +73,7 @@ Article 2(b)
 
 (4) In the heading, for “Authority’s power” substitute “Power of appropriate authority”.
 
-**7.**[^key-4d61c98cd2068d96e0d96c3cbbbf8700] (1) Section 41[^f00100] (valuations) is amended as follows.
+**7.**[^c-4d61c98cd2068d96e0d96c3cbbbf8700] (1) Section 41[^f00100] (valuations) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -94,7 +94,7 @@ Article 2(b)
   - (ii) for “Authority’s” substitute “its”; and
 - (b) in paragraph (b), omit “to the Authority”.
 
-**8.**[^key-0020fe21f4d88b13bafb2ece50d97c57] (1) Section 42[^f00101] (regulations and directions relating to valuations) is amended as follows.
+**8.**[^c-0020fe21f4d88b13bafb2ece50d97c57] (1) Section 42[^f00101] (regulations and directions relating to valuations) is amended as follows.
 
 (2) In subsection (2), for “the Authority”, in each place, substitute “the FCA and, if the registered society or branch is a PRA-authorised person, the PRA”.
 
@@ -105,23 +105,23 @@ Article 2(b)
 
 (4) In subsection (5), for “Authority” substitute “appropriate authority”.
 
-**9.**[^key-bed52dc40416cec54cba676087ed9b79] After section 43(6)[^f00102] (annual return) insert—
+**9.**[^c-bed52dc40416cec54cba676087ed9b79] After section 43(6)[^f00102] (annual return) insert—
 
 > (7) If the registered society or branch is a PRA-authorised person, it shall send to the PRA a copy of the annual return sent to the FCA under subsection (1).
 
 .
 
-**10.**[^key-6d34e6bca068e4601d5d50e5de0c8dae] In section 65A(7)[^f00103] (group insurance business), for “Authority” substitute “FCA or the PRA”.
+**10.**[^c-6d34e6bca068e4601d5d50e5de0c8dae] In section 65A(7)[^f00103] (group insurance business), for “Authority” substitute “FCA or the PRA”.
 
-**11.**[^key-5f8514ec3246eae46003c41e6c1ae1ce] In section 76(3C)[^f00104] (decision of disputes generally), for “Authority” substitute “FCA or the PRA”.
+**11.**[^c-5f8514ec3246eae46003c41e6c1ae1ce] In section 76(3C)[^f00104] (decision of disputes generally), for “Authority” substitute “FCA or the PRA”.
 
-**12.**[^key-32b761fcf642a1908620564a043958ec] After section 85(4) (conversion of society into branch) insert—
+**12.**[^c-32b761fcf642a1908620564a043958ec] After section 85(4) (conversion of society into branch) insert—
 
 > (4A) Before making a finding under subsection (4) in relation to a society which is a PRA-authorised person, the FCA must consult the PRA.
 
 .
 
-**13.**[^key-9842d966d96eba25d457323b771be750] (1) Section 87[^f00105] (power to apply for winding up of registered friendly societies) is amended as follows.
+**13.**[^c-9842d966d96eba25d457323b771be750] (1) Section 87[^f00105] (power to apply for winding up of registered friendly societies) is amended as follows.
 
 (2) In subsection (1), for “Authority”—
 
@@ -138,16 +138,16 @@ Article 2(b)
 
 (4) In the heading, for “Authority” substitute “FCA and of PRA”.
 
-**14.**[^key-9b436ddb5e90b71abf5cbbbcf5413ee9] In section 90[^f00106] (appointment of inspectors and calling of special meetings), for “the Authority”, in each place, substitute “the FCA or the PRA”.
+**14.**[^c-9b436ddb5e90b71abf5cbbbcf5413ee9] In section 90[^f00106] (appointment of inspectors and calling of special meetings), for “the Authority”, in each place, substitute “the FCA or the PRA”.
 
-**15.**[^key-1adf0cba78d24a790cde1de75db4a72d] In section 91(1)[^f00107] (cancellation and suspension of registration), for “Authority”—
+**15.**[^c-1adf0cba78d24a790cde1de75db4a72d] In section 91(1)[^f00107] (cancellation and suspension of registration), for “Authority”—
 
 - (a) in the first place, substitute “FCA, having consulted the PRA if the society is a PRA-authorised person,”, and
 - (b) in each other place, substitute “FCA”.
 
-**16.**[^key-e6a9b794955a1cef0bed1ed4cee93b46] In section 93(1)(c)[^f00108] (dissolution of societies and branches), for “Authority” substitute “FCA or the PRA”.
+**16.**[^c-e6a9b794955a1cef0bed1ed4cee93b46] In section 93(1)(c)[^f00108] (dissolution of societies and branches), for “Authority” substitute “FCA or the PRA”.
 
-**17.**[^key-96d72c8a8f859acb5be757d639d11d07] (1) Section 94[^f00109] (instrument of dissolution) is amended as follows.
+**17.**[^c-96d72c8a8f859acb5be757d639d11d07] (1) Section 94[^f00109] (instrument of dissolution) is amended as follows.
 
 (2) In subsection (2)(d), for “Authority” substitute “FCA or the PRA”.
 
@@ -157,7 +157,7 @@ Article 2(b)
 
 .
 
-**18.**[^key-d57a2d9a88af0610dae1c587b72e7ac8] (1) Section 95[^f00110] (dissolution by award) is amended as follows.
+**18.**[^c-d57a2d9a88af0610dae1c587b72e7ac8] (1) Section 95[^f00110] (dissolution by award) is amended as follows.
 
 (2) In subsections (1), (3), (4) and (6), for “Authority”, in each place, substitute “appropriate authority”.
 
@@ -167,7 +167,7 @@ Article 2(b)
 
 .
 
-**19.**[^key-391e5ade2e9db366c8f0c9c8f63f7f3a] (1) Section 95A[^f00111] (dissolution of registered friendly societies and branches by award) is amended as follows.
+**19.**[^c-391e5ade2e9db366c8f0c9c8f63f7f3a] (1) Section 95A[^f00111] (dissolution of registered friendly societies and branches by award) is amended as follows.
 
 (2) In subsections (1), (2) and (4), for “Authority”, in each place, substitute “appropriate authority”.
 
@@ -177,11 +177,11 @@ Article 2(b)
 
 .
 
-**20.**[^key-5e02a9a3a21f5e1fd4591c682b950d61] In section 97[^f00112] (notice of proceedings or order to set aside dissolution of society or branch), for “Authority”, in each place, substitute “FCA and, if the society or branch is a PRA-authorised person, the PRA”.
+**20.**[^c-5e02a9a3a21f5e1fd4591c682b950d61] In section 97[^f00112] (notice of proceedings or order to set aside dissolution of society or branch), for “Authority”, in each place, substitute “FCA and, if the society or branch is a PRA-authorised person, the PRA”.
 
-**21.**[^key-0a3888662815535bed473d5a002abf87] In section 98(1)(b) and (7)[^f00113] (offences), for “Authority”, in each place, substitute “FCA or the PRA”.
+**21.**[^c-0a3888662815535bed473d5a002abf87] In section 98(1)(b) and (7)[^f00113] (offences), for “Authority”, in each place, substitute “FCA or the PRA”.
 
-**22.**[^key-08725a547eff4ed0a210fa6916f4c071] (1) Section 101[^f00114] (prosecution of offences, recovery of costs or expenses) is amended as follows.
+**22.**[^c-08725a547eff4ed0a210fa6916f4c071] (1) Section 101[^f00114] (prosecution of offences, recovery of costs or expenses) is amended as follows.
 
 (2) After subsection (1A), insert—
 
@@ -197,11 +197,11 @@ Article 2(b)
 
 (3) In subsection (2), for “Authority” substitute “FCA or the PRA”.
 
-**23.**[^key-aaaab4ae71aadfe133f8786bd472f1d5] In section 109(1)(c)[^f00115] (regulations), for “Authority” substitute “FCA and of the PRA”.
+**23.**[^c-aaaab4ae71aadfe133f8786bd472f1d5] In section 109(1)(c)[^f00115] (regulations), for “Authority” substitute “FCA and of the PRA”.
 
-**24.**[^key-f7442d9aeab2b5519aba47b0101e2dfa] In section 110(2) and (2A), for “Authority” substitute “FCA or the PRA”.
+**24.**[^c-f7442d9aeab2b5519aba47b0101e2dfa] In section 110(2) and (2A), for “Authority” substitute “FCA or the PRA”.
 
-**25.**[^key-d5a077a8506b6e8a06407da948008b57] In section 111(1)[^f00116] (interpretation)—
+**25.**[^c-d5a077a8506b6e8a06407da948008b57] In section 111(1)[^f00116] (interpretation)—
 
 - (a) omit the definition of “the Authority”; and
 - (b) at the appropriate places, insert—
@@ -226,11 +226,11 @@ Article 2(b)
 
 ## Annotations
 
-[^key-c7dec29796dc36a8f4e96e036195c744]: Commencement: Sch. 5 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-c7dec29796dc36a8f4e96e036195c744]: Commencement: Sch. 5 para. 1 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00071]: Footnote: [1974 c.46](https://www.legislation.gov.uk/ukpga/1974/46).
 
-[^key-47c1e46ccbb0d9fea0c6b73fc06d200a]: Commencement: Sch. 5 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-47c1e46ccbb0d9fea0c6b73fc06d200a]: Commencement: Sch. 5 para. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00072]: Footnote: Section 12 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
@@ -280,90 +280,90 @@ Article 2(b)
 
 [^f00095]: Footnote: Paragraphs 7 and 15 of Schedule 2 were amended by paragraphs 1 and 51(2) of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-f7cdda85206811a37bf0cab253da77fa]: Commencement: Sch. 5 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-f7cdda85206811a37bf0cab253da77fa]: Commencement: Sch. 5 para. 3 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00096]: Footnote: Section 30A was inserted by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-e576b71e2c4c4be66672727a89245c87]: Commencement: Sch. 5 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-e576b71e2c4c4be66672727a89245c87]: Commencement: Sch. 5 para. 4 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00097]: Footnote: Section 32 was amended by paragraph 12 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-eb60fcb212dd7caf40e9d567182a3ea8]: Commencement: Sch. 5 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-eb60fcb212dd7caf40e9d567182a3ea8]: Commencement: Sch. 5 para. 5 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00098]: Footnote: Section 32A was inserted by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). There are other amending instruments, but none is relevant.
 
-[^key-91874d0a6226b65b566a4c2fea623784]: Commencement: Sch. 5 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-91874d0a6226b65b566a4c2fea623784]: Commencement: Sch. 5 para. 6 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00099]: Footnote: Section 39C was inserted by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-4d61c98cd2068d96e0d96c3cbbbf8700]: Commencement: Sch. 5 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-4d61c98cd2068d96e0d96c3cbbbf8700]: Commencement: Sch. 5 para. 7 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00100]: Footnote: Section 41 was amended by paragraph 12 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-0020fe21f4d88b13bafb2ece50d97c57]: Commencement: Sch. 5 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-0020fe21f4d88b13bafb2ece50d97c57]: Commencement: Sch. 5 para. 8 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00101]: Footnote: Section 42 was amended by paragraph 12 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-bed52dc40416cec54cba676087ed9b79]: Commencement: Sch. 5 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-bed52dc40416cec54cba676087ed9b79]: Commencement: Sch. 5 para. 9 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00102]: Footnote: Section 43(6) was amended by paragraph 12 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-6d34e6bca068e4601d5d50e5de0c8dae]: Commencement: Sch. 5 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-6d34e6bca068e4601d5d50e5de0c8dae]: Commencement: Sch. 5 para. 10 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00103]: Footnote: Section 65A was inserted by paragraph 23 of Schedule 16 to the Friendly Societies Act 1992 and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-5f8514ec3246eae46003c41e6c1ae1ce]: Commencement: Sch. 5 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-5f8514ec3246eae46003c41e6c1ae1ce]: Commencement: Sch. 5 para. 11 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00104]: Footnote: Section 76(3C) was inserted by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-32b761fcf642a1908620564a043958ec]: Commencement: Sch. 5 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-32b761fcf642a1908620564a043958ec]: Commencement: Sch. 5 para. 12 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-9842d966d96eba25d457323b771be750]: Commencement: Sch. 5 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-9842d966d96eba25d457323b771be750]: Commencement: Sch. 5 para. 13 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00105]: Footnote: Section 87 was amended by paragraph 34 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-9b436ddb5e90b71abf5cbbbcf5413ee9]: Commencement: Sch. 5 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-9b436ddb5e90b71abf5cbbbcf5413ee9]: Commencement: Sch. 5 para. 14 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00106]: Footnote: Section 90 was amended by paragraph 36 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-1adf0cba78d24a790cde1de75db4a72d]: Commencement: Sch. 5 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-1adf0cba78d24a790cde1de75db4a72d]: Commencement: Sch. 5 para. 15 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00107]: Footnote: Section 91(1) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-e6a9b794955a1cef0bed1ed4cee93b46]: Commencement: Sch. 5 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-e6a9b794955a1cef0bed1ed4cee93b46]: Commencement: Sch. 5 para. 16 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00108]: Footnote: Section 93(1)(c) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-96d72c8a8f859acb5be757d639d11d07]: Commencement: Sch. 5 para. 17 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-96d72c8a8f859acb5be757d639d11d07]: Commencement: Sch. 5 para. 17 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00109]: Footnote: Section 94 was amended by paragraph 38(b) of Schedule 16 to the Friendly Societies Act 1992 [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-d57a2d9a88af0610dae1c587b72e7ac8]: Commencement: Sch. 5 para. 18 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-d57a2d9a88af0610dae1c587b72e7ac8]: Commencement: Sch. 5 para. 18 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00110]: Footnote: Section 95 was amended by paragraph 39 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-391e5ade2e9db366c8f0c9c8f63f7f3a]: Commencement: Sch. 5 para. 19 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-391e5ade2e9db366c8f0c9c8f63f7f3a]: Commencement: Sch. 5 para. 19 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00111]: Footnote: Section 95A was inserted by paragraph 39 of Schedule 16 to the Friendly Societies Act 1992 and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-5e02a9a3a21f5e1fd4591c682b950d61]: Commencement: Sch. 5 para. 20 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-5e02a9a3a21f5e1fd4591c682b950d61]: Commencement: Sch. 5 para. 20 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00112]: Footnote: Section 97 was amended by paragraph 41 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-0a3888662815535bed473d5a002abf87]: Commencement: Sch. 5 para. 21 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-0a3888662815535bed473d5a002abf87]: Commencement: Sch. 5 para. 21 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00113]: Footnote: Section 98 was amended by paragraph 42 of Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). There are other amending instruments, but none is relevant.
 
-[^key-08725a547eff4ed0a210fa6916f4c071]: Commencement: Sch. 5 para. 22 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-08725a547eff4ed0a210fa6916f4c071]: Commencement: Sch. 5 para. 22 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00114]: Footnote: Section 101 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-aaaab4ae71aadfe133f8786bd472f1d5]: Commencement: Sch. 5 para. 23 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-aaaab4ae71aadfe133f8786bd472f1d5]: Commencement: Sch. 5 para. 23 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00115]: Footnote: Section 109(1)(c) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-f7442d9aeab2b5519aba47b0101e2dfa]: Commencement: Sch. 5 para. 24 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-f7442d9aeab2b5519aba47b0101e2dfa]: Commencement: Sch. 5 para. 24 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
-[^key-d5a077a8506b6e8a06407da948008b57]: Commencement: Sch. 5 para. 25 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-d5a077a8506b6e8a06407da948008b57]: Commencement: Sch. 5 para. 25 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00116]: Footnote: Section 111 was amended by Schedule 16 to the Friendly Societies Act 1992 and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Members with lower rate rights[^key-800e580467ef5f63225a1a8af8bac8ef]
+## 13. Members with lower rate rights[^c-800e580467ef5f63225a1a8af8bac8ef]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-800e580467ef5f63225a1a8af8bac8ef]: Commencement: Reg. 13 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-800e580467ef5f63225a1a8af8bac8ef]: Commencement: Reg. 13 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00010]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).

@@ -52,7 +52,7 @@ that provision shall have effect as if the words from “for distinct parts of t
 (4) For the purposes of sub-paragraph (2)—
 
 - (a) a person is a relevant person if he is a person by or for whom the property is contracted to be purchased;
-- (b) the question whether persons are connected with one another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-808f0294b361e341bf18c665f51caa78].
+- (b) the question whether persons are connected with one another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-808f0294b361e341bf18c665f51caa78].
 
 ### Part 2 — Consequential amendments and repeals
 
@@ -90,4 +90,4 @@ that provision shall have effect as if the words from “for distinct parts of t
 
 ## Annotations
 
-[^key-808f0294b361e341bf18c665f51caa78]: Textual amendment: Words in Sch. 20 para. 2(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 420](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/420) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-808f0294b361e341bf18c665f51caa78]: Textual amendment: Words in Sch. 20 para. 2(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 420](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/420) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Further powers and duties of enforcement authorities[^key-76dda7e55280e226a836a0cb0cac47e5]
+## 23. Further powers and duties of enforcement authorities[^c-76dda7e55280e226a836a0cb0cac47e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76dda7e55280e226a836a0cb0cac47e5]: Commencement: S. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-76dda7e55280e226a836a0cb0cac47e5]: Commencement: S. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — NEW SCHEDULE 9C TO THE 2016 ACT[^key-4d7b7a8d1df0d6729f6034b4498b3877]
+## SCHEDULE 4 — NEW SCHEDULE 9C TO THE 2016 ACT[^c-4d7b7a8d1df0d6729f6034b4498b3877]
 
 *Extent: E+W*
 
 (introduced by section 11)
 
-[^key-4d7b7a8d1df0d6729f6034b4498b3877]
+[^c-4d7b7a8d1df0d6729f6034b4498b3877]
 
 This Schedule sets out the new Schedule 9C to the 2016 Act, to be inserted (with the new Schedules 9A and 9B) after Schedule 9—
 
@@ -101,4 +101,4 @@ This Schedule sets out the new Schedule 9C to the 2016 Act, to be inserted (with
 
 ## Annotations
 
-[^key-4d7b7a8d1df0d6729f6034b4498b3877]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asc/2021/3/schedule/4) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-4d7b7a8d1df0d6729f6034b4498b3877]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asc/2021/3/schedule/4) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

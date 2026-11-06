@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Finance leases and loans.[^key-7e75423285177c187c0401250aa73257]
+## 82. Finance leases and loans.[^c-7e75423285177c187c0401250aa73257]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e75423285177c187c0401250aa73257]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/1997/16/section/82) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/2), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-7e75423285177c187c0401250aa73257]: Textual amendment: [S. 82](https://www.legislation.gov.uk/ukpga/1997/16/section/82) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/2), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

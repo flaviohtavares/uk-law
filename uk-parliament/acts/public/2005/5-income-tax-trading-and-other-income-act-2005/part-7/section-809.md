@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809. Share of fixed amount: residence used by more than one carer[^key-c9a875d3fa5c4b98163518adcdf62035]
+## 809. Share of fixed amount: residence used by more than one carer[^c-c9a875d3fa5c4b98163518adcdf62035]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a875d3fa5c4b98163518adcdf62035]: Textual amendment: S. 809 substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/10) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-c9a875d3fa5c4b98163518adcdf62035]: Textual amendment: S. 809 substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/10) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

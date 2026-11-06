@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Passenger and cargo manifest[^key-2f0b1597c4cc2900f75638c92076d331]
+## 14. Passenger and cargo manifest[^c-2f0b1597c4cc2900f75638c92076d331]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f0b1597c4cc2900f75638c92076d331]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/870/article/14) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-2f0b1597c4cc2900f75638c92076d331]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2015/870/article/14) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

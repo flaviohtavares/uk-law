@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. General information powers in relation to persons entering or leaving the UK[^key-44c78163b96414b106c804a7d0bc8876]
+## 98. General information powers in relation to persons entering or leaving the UK[^c-44c78163b96414b106c804a7d0bc8876]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44c78163b96414b106c804a7d0bc8876]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2009/26/section/98) in force at 25.1.2010 by [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
+[^c-44c78163b96414b106c804a7d0bc8876]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2009/26/section/98) in force at 25.1.2010 by [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)

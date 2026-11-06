@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c14478161][^key-9682a391ac9b1d79f87368e04826006b] A convicted person during the time that he is detained in a penal institution in pursuance of his sentence or unlawfully at large when he would otherwise be so detained[^c14478171] is legally incapable of voting at any parliamentary or local government election, unless subsection (1A) applies to that person *(Extent: S)*[^M_F_f836c499-484d-4337-cce0-fbfdf99b05c6].
+(1)[^c14478161][^c-9682a391ac9b1d79f87368e04826006b] A convicted person during the time that he is detained in a penal institution in pursuance of his sentence or unlawfully at large when he would otherwise be so detained[^c14478171] is legally incapable of voting at any parliamentary or local government election, unless subsection (1A) applies to that person *(Extent: S)*[^M_F_f836c499-484d-4337-cce0-fbfdf99b05c6].
 
 (1A)[^M_F_9c6087bd-c51d-4b0a-e283-3dd44908b836] A convicted person is not legally incapable of voting at a local government election in Scotland by virtue of subsection (1) during the time that the person is detained in a penal institution in pursuance of a sentence imposed for a term not exceeding 12 months.
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c14478161]: Modification: S. 3(1)(2) extended (N.I.) (with modifications) by [Elected Authorities (Northern Ireland) Act 1989 (c. 3, SIF 42)](https://www.legislation.gov.uk/ukpga/1989/3), [ss. 2](https://www.legislation.gov.uk/ukpga/1989/3/section/2), [13(6)](https://www.legislation.gov.uk/ukpga/1989/3/section/13/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/3/schedule/1/part/I)
 
-[^key-9682a391ac9b1d79f87368e04826006b]: Modification: S. 3(1) restricted (S.) (2.8.2019) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2019 (S.S.I. 2019/261)](https://www.legislation.gov.uk/ssi/2019/261), [arts. 1](https://www.legislation.gov.uk/ssi/2019/261/article/1), [4](https://www.legislation.gov.uk/ssi/2019/261/article/4)
+[^c-9682a391ac9b1d79f87368e04826006b]: Modification: S. 3(1) restricted (S.) (2.8.2019) by [The Representation of the People Act 1983 Remedial (Scotland) Order 2019 (S.S.I. 2019/261)](https://www.legislation.gov.uk/ssi/2019/261), [arts. 1](https://www.legislation.gov.uk/ssi/2019/261/article/1), [4](https://www.legislation.gov.uk/ssi/2019/261/article/4)
 
 [^c14478171]: Textual amendment: Words inserted by [Representation of the People Act 1985 (c. 50, SIF 42)](https://www.legislation.gov.uk/ukpga/1985/50), [s. 24](https://www.legislation.gov.uk/ukpga/1985/50/section/24), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1985/50/schedule/4/paragraph/1)
 

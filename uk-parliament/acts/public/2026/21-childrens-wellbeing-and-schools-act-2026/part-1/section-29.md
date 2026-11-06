@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Employment of children in Scotland[^key-e468208b03c25f65aa5fbc6cf8e111ee]
+## 29. Employment of children in Scotland[^c-e468208b03c25f65aa5fbc6cf8e111ee]
 
 *Extent: S*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e468208b03c25f65aa5fbc6cf8e111ee]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(4)
+[^c-e468208b03c25f65aa5fbc6cf8e111ee]: Commencement: S. 29 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(4)

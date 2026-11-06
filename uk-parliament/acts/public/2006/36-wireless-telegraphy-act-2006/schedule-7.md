@@ -28,7 +28,7 @@ Section 123
 
 ### Wireless Telegraphy Act 1967 (c. 72)
 
-**2.**[^key-927a4913744b40ec8f9ee331134d8f58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-927a4913744b40ec8f9ee331134d8f58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Theatres Act 1968 (c. 54)
 
@@ -119,9 +119,9 @@ Section 123
 
 **21.** The Regulation of Investigatory Powers Act 2000 is amended as follows.
 
-**22.**[^key-b79875d67acbca4d97a81878b2634e7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-b79875d67acbca4d97a81878b2634e7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-b79875d67acbca4d97a81878b2634e7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-b79875d67acbca4d97a81878b2634e7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** In section 81 (general interpretation) in subsection (1), in the definition of “wireless telegraphy”, for “the Wireless Telegraphy Act 1949” substitute “ the Wireless Telegraphy Act 2006 ”.
 
@@ -247,6 +247,6 @@ Section 123
 
 ## Annotations
 
-[^key-927a4913744b40ec8f9ee331134d8f58]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/2) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)
+[^c-927a4913744b40ec8f9ee331134d8f58]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/2) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/21/paragraph/2)
 
-[^key-b79875d67acbca4d97a81878b2634e7f]: Textual amendment: Sch. 7 paras. 22, 23 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-b79875d67acbca4d97a81878b2634e7f]: Textual amendment: Sch. 7 paras. 22, 23 repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Dual capacity membership[^key-8d3df9bb0388e0c81f79d07a37db8a74]
+## 14. Dual capacity membership[^c-8d3df9bb0388e0c81f79d07a37db8a74]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d3df9bb0388e0c81f79d07a37db8a74]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/2336/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-8d3df9bb0388e0c81f79d07a37db8a74]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/2336/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

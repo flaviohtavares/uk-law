@@ -32,9 +32,9 @@ summary: ''
 - (a) in relation to England, the council of a district or London borough;
 - (b) in relation to Scotland, a local authority;
 - (c) in relation to Wales, the council of a county or county borough;
-- (d)[^key-d15e517fa9be5af072223d158cb25bbb] in relation to Northern Ireland, the Chief Electoral Officer for Northern Ireland.
+- (d)[^c-d15e517fa9be5af072223d158cb25bbb] in relation to Northern Ireland, the Chief Electoral Officer for Northern Ireland.
 
-(4)[^key-ad3d5733162546d773054b632710856a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ad3d5733162546d773054b632710856a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-d15e517fa9be5af072223d158cb25bbb]: Textual amendment: S. 18E(3)(d) inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/6/a)
+[^c-d15e517fa9be5af072223d158cb25bbb]: Textual amendment: S. 18E(3)(d) inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/6/a)
 
-[^key-ad3d5733162546d773054b632710856a]: Textual amendment: S. 18E(4) omitted (12.12.2013) by virtue of [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/6/b)
+[^c-ad3d5733162546d773054b632710856a]: Textual amendment: S. 18E(4) omitted (12.12.2013) by virtue of [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/6/b)

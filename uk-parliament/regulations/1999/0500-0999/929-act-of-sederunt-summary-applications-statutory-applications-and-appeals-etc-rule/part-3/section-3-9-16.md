@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.16. Application for discharge of administrator[^key-136049d472b8c62d9121ae6f92fd81ea]
+## 3.9.16. Application for discharge of administrator[^c-136049d472b8c62d9121ae6f92fd81ea]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-136049d472b8c62d9121ae6f92fd81ea]: Commencement: Rule 3.9.16 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-136049d472b8c62d9121ae6f92fd81ea]: Commencement: Rule 3.9.16 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

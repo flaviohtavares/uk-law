@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Further provision about additional smoke-free premises: dwellings[^key-7ab0cc65d6ff58a57805fbd3b9a34f01]
+## 14. Further provision about additional smoke-free premises: dwellings[^c-7ab0cc65d6ff58a57805fbd3b9a34f01]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ab0cc65d6ff58a57805fbd3b9a34f01]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2017/2/section/14) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-7ab0cc65d6ff58a57805fbd3b9a34f01]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2017/2/section/14) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

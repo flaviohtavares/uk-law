@@ -39,76 +39,76 @@ concerning the consistency of certain targets included in the national or functi
 
 (Text with EEA relevance) (revoked)
 
-[^key-7fd4573222fab6655eaf561bdc7684af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fd4573222fab6655eaf561bdc7684af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7fd4573222fab6655eaf561bdc7684af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7fd4573222fab6655eaf561bdc7684af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7fd4573222fab6655eaf561bdc7684af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7fd4573222fab6655eaf561bdc7684af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Performance targets in the key performance areas of safety, environment, capacity and cost-efficiency included in the national or functional airspace block plans submitted pursuant to Regulation (EC) No 549/2004 found to be consistent with the Union-wide performance targets for the second reference period[^key-7fd4573222fab6655eaf561bdc7684af]
+## ANNEX — Performance targets in the key performance areas of safety, environment, capacity and cost-efficiency included in the national or functional airspace block plans submitted pursuant to Regulation (EC) No 549/2004 found to be consistent with the Union-wide performance targets for the second reference period[^c-7fd4573222fab6655eaf561bdc7684af]
 
-[^key-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF SAFETY
+[^c-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF SAFETY
 
 **Effectiveness of Safety Management (EOSM) and the application of the severity classification based on the Risk Analysis Tool (RAT) methodology**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] Abbreviations:
+[^c-7fd4573222fab6655eaf561bdc7684af] Abbreviations:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF ENVIRONMENT
+[^c-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF ENVIRONMENT
 
 **Horizontal *en route* flight efficiency of the actual trajectory**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF CAPACITY
+[^c-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF CAPACITY
 
 ***En route* Air Traffic Flow Management (ATFM) delay in min/flight**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF COST-EFFICIENCY
+[^c-7fd4573222fab6655eaf561bdc7684af] KEY PERFORMANCE AREA OF COST-EFFICIENCY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] BALTIC FAB
+[^c-7fd4573222fab6655eaf561bdc7684af] BALTIC FAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] BLUE MED FAB
+[^c-7fd4573222fab6655eaf561bdc7684af] BLUE MED FAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] DANUBE FAB
+[^c-7fd4573222fab6655eaf561bdc7684af] DANUBE FAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] DENMARK-SWEDEN FAB
+[^c-7fd4573222fab6655eaf561bdc7684af] DENMARK-SWEDEN FAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] FAB CE
+[^c-7fd4573222fab6655eaf561bdc7684af] FAB CE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] NEFAB
+[^c-7fd4573222fab6655eaf561bdc7684af] NEFAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] SW FAB
+[^c-7fd4573222fab6655eaf561bdc7684af] SW FAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] SPAIN
+[^c-7fd4573222fab6655eaf561bdc7684af] SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fd4573222fab6655eaf561bdc7684af] UK-IR FAB
+[^c-7fd4573222fab6655eaf561bdc7684af] UK-IR FAB
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fd4573222fab6655eaf561bdc7684af]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [379](https://www.legislation.gov.uk/uksi/2019/459/regulation/379); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fd4573222fab6655eaf561bdc7684af]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [379](https://www.legislation.gov.uk/uksi/2019/459/regulation/379); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

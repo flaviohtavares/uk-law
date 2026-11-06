@@ -34,7 +34,7 @@ summary: ''
 
 (4) A principal council must provide the Commission with such information as it may reasonably require in connection with the exercise of its functions under this Part.
 
-(5)[^key-766759ea617ad5925c67fa09dc59f2a2] Before 1 July in each year, a principal council must publish a report on the performance of its functions under this Part and section 76 of the 1972 Act (change of name of community) in the previous year, so far as the functions relate to—
+(5)[^c-766759ea617ad5925c67fa09dc59f2a2] Before 1 July in each year, a principal council must publish a report on the performance of its functions under this Part and section 76 of the 1972 Act (change of name of community) in the previous year, so far as the functions relate to—
 
 - (a) community names,
 - (b) community boundary changes,
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-766759ea617ad5925c67fa09dc59f2a2]: Textual amendment: S. 22(5)-(7) substituted for [s. 22(5)(6)](https://www.legislation.gov.uk/anaw/2013/4/section/22/5) (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(2)](https://www.legislation.gov.uk/asc/2024/5/section/51/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-766759ea617ad5925c67fa09dc59f2a2]: Textual amendment: S. 22(5)-(7) substituted for [s. 22(5)(6)](https://www.legislation.gov.uk/anaw/2013/4/section/22/5) (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 51(2)](https://www.legislation.gov.uk/asc/2024/5/section/51/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

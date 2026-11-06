@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Extra-territorial application of Part 3[^key-e59fe7e7a577f810432e8bbb9b11efd5]
+## 85. Extra-territorial application of Part 3[^c-e59fe7e7a577f810432e8bbb9b11efd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e59fe7e7a577f810432e8bbb9b11efd5]: Commencement: S. 85 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-e59fe7e7a577f810432e8bbb9b11efd5]: Commencement: S. 85 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Requirement on persons with responsibility for children[^key-e098aacb83b11ef7b9d1c62031901c76]
+## 12. Requirement on persons with responsibility for children[^c-e098aacb83b11ef7b9d1c62031901c76]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e098aacb83b11ef7b9d1c62031901c76]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2020/1609/part/3) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-e098aacb83b11ef7b9d1c62031901c76]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2020/1609/part/3) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))

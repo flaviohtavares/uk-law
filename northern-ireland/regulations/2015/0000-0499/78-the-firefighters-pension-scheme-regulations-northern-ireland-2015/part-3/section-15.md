@@ -27,10 +27,10 @@ summary: ''
 - (a) resolving operational incidents, or
 - (b) leading and supporting others in the resolution of operational incidents.
 
-(3)[^key-c541a238886eaeca5038a9050d542a6f] A person who is a member of the FPS or of the NFPS satisfies the requirement in this paragraph.
+(3)[^c-c541a238886eaeca5038a9050d542a6f] A person who is a member of the FPS or of the NFPS satisfies the requirement in this paragraph.
 
 (4) The employer of a person in scheme employment is referred to in these Regulations as the “**scheme employer**”.
 
 ## Annotations
 
-[^key-c541a238886eaeca5038a9050d542a6f]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/15/3) substituted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/2/a)
+[^c-c541a238886eaeca5038a9050d542a6f]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/15/3) substituted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/2/a)

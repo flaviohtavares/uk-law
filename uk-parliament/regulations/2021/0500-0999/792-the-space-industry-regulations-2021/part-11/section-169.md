@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Responsibilities of a security manager[^key-c76119a143766151f6d9b0379270b66b]
+## 169. Responsibilities of a security manager[^c-c76119a143766151f6d9b0379270b66b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ A security manager is responsible for—
 
 ## Annotations
 
-[^key-c76119a143766151f6d9b0379270b66b]: Commencement: Reg. 169 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c76119a143766151f6d9b0379270b66b]: Commencement: Reg. 169 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

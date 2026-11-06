@@ -24,7 +24,7 @@ summary: ''
 
 Section 78(6)
 
-**1.**[^key-8fa8a087647abfbee17e3c3fa15b3484] (1) On an application made in the prescribed manner by an adopted person—
+**1.**[^c-8fa8a087647abfbee17e3c3fa15b3484] (1) On an application made in the prescribed manner by an adopted person—
 
 - (a) a record of whose birth is kept by the Registrar General; and
 - (b) who has attained the age of 18 years,
@@ -33,7 +33,7 @@ the Registrar General must give the applicant any information necessary to enabl
 
 (2) In sub-paragraph (1) “**prescribed**” means prescribed by regulations made by the Department of Finance.
 
-**2.**[^key-a650a3970ed484dfe0506cbdfea5667a] (1) Before giving any information to an applicant under paragraph 1, the Registrar General must inform the applicant that counselling services are available to the applicant—
+**2.**[^c-a650a3970ed484dfe0506cbdfea5667a] (1) Before giving any information to an applicant under paragraph 1, the Registrar General must inform the applicant that counselling services are available to the applicant—
 
 - (a) from an appropriate voluntary organisation, or a registered adoption society within the meaning of section 2(2) of the Adoption and Children Act 2002 or an organisation within section 144(3)(b) of that Act;
 - (b) if the applicant is in Northern Ireland, from any HSC trust;
@@ -44,7 +44,7 @@ the Registrar General must give the applicant any information necessary to enabl
 
 (3) If the applicant chooses to receive counselling from a person or body within sub-paragraph (1), the Registrar General must send to the person or body the information to which the applicant is entitled under paragraph 1.
 
-**3.**[^key-d77f1f21d947032e9c8a101106bf2122] Where an adopted person who is in Northern Ireland—
+**3.**[^c-d77f1f21d947032e9c8a101106bf2122] Where an adopted person who is in Northern Ireland—
 
 - (a) applies for information under paragraph 1;
 - (b) applies for information under paragraph 1 of Schedule 2 to the Adoption and Children Act 2002; or
@@ -54,8 +54,8 @@ any adoption agency must, if asked by the applicant to do so, provide counsellin
 
 ## Annotations
 
-[^key-8fa8a087647abfbee17e3c3fa15b3484]: Commencement: Sch. 2 para. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8fa8a087647abfbee17e3c3fa15b3484]: Commencement: Sch. 2 para. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-a650a3970ed484dfe0506cbdfea5667a]: Commencement: Sch. 2 para. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a650a3970ed484dfe0506cbdfea5667a]: Commencement: Sch. 2 para. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-d77f1f21d947032e9c8a101106bf2122]: Commencement: Sch. 2 para. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d77f1f21d947032e9c8a101106bf2122]: Commencement: Sch. 2 para. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

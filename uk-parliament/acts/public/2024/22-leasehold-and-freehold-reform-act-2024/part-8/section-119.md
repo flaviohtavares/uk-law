@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Higher-risk and relevant buildings: notifications in connection with insolvency[^key-4d87ed304fc7932188dfa13eb271117b]
+## 119. Higher-risk and relevant buildings: notifications in connection with insolvency[^c-4d87ed304fc7932188dfa13eb271117b]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ Before section 126 of the BSA 2022 (and the italic heading before it) insert—
 
 ## Annotations
 
-[^key-4d87ed304fc7932188dfa13eb271117b]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2024/22/section/119) in force at 24.7.2024, see [s. 124(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/d)
+[^c-4d87ed304fc7932188dfa13eb271117b]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2024/22/section/119) in force at 24.7.2024, see [s. 124(2)(d)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/d)

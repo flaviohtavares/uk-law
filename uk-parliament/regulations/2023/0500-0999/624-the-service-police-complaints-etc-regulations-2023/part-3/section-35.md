@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Appointment of persons to carry out investigations[^key-7c35bb9165e2c6b15160047569815319]
+## 35. Appointment of persons to carry out investigations[^c-7c35bb9165e2c6b15160047569815319]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ A person may not be appointed to carry out an investigation under regulation 33 
 
 ## Annotations
 
-[^key-7c35bb9165e2c6b15160047569815319]: Commencement: Reg. 35 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-7c35bb9165e2c6b15160047569815319]: Commencement: Reg. 35 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

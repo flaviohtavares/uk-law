@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Jurisdiction and competence[^key-bd734fc782053c7c6fb767a2907b4863][^key-c1e06d5db225ff151c32d915b013c08c]
+## 47. Jurisdiction and competence[^c-bd734fc782053c7c6fb767a2907b4863][^c-c1e06d5db225ff151c32d915b013c08c]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd734fc782053c7c6fb767a2907b4863]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/18/section/47) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-bd734fc782053c7c6fb767a2907b4863]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/18/section/47) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-c1e06d5db225ff151c32d915b013c08c]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/18/section/47) in force at 1.1.2016 in so far as not already in force by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-c1e06d5db225ff151c32d915b013c08c]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2014/18/section/47) in force at 1.1.2016 in so far as not already in force by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

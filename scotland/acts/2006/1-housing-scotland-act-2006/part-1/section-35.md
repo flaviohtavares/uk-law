@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Carrying out of work or demolitions by local authority[^key-c20d3a68d907e8e05e06669232731cc9]
+## 35. Carrying out of work or demolitions by local authority[^c-c20d3a68d907e8e05e06669232731cc9]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c20d3a68d907e8e05e06669232731cc9]: Commencement: S. 35 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-c20d3a68d907e8e05e06669232731cc9]: Commencement: S. 35 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

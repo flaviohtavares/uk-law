@@ -45,7 +45,7 @@ Coming into Operation
 
 The Secretary of State, in exercise of the powers conferred on him by sections 105(1) to (6), 182(2) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-c922d3f338a9f1270e7a1c9c290f9a57]
+## 1. Citation, commencement and interpretation[^c-c922d3f338a9f1270e7a1c9c290f9a57]
 
 (1) These Regulations may be cited as the Consumer Credit (Guarantees and Indemnities) Regulations 1983 and shall come into operation on 19th May 1985.
 
@@ -55,15 +55,15 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 - “**guarantee**” does not include a mortgage, charge or pledge; and
 - “**lettering**” includes figures and symbols.
 
-## 2. Application of Regulations[^key-125488930bebe68aa0abb748f831fe9a]
+## 2. Application of Regulations[^c-125488930bebe68aa0abb748f831fe9a]
 
 These Regulations apply only to guarantees and indemnities provided on or after 19th May 1985 in relation to regulated agreements at the request (express or implied) of the debtor or hirer; and in these Regulations the expression “**security instrument**” means a document expressing the guarantee or indemnity in writing.
 
-## 3. Form and content of security instruments[^key-bc9b91877ae0b50d61eee4825f355db9]
+## 3. Form and content of security instruments[^c-bc9b91877ae0b50d61eee4825f355db9]
 
 (1) Security instruments shall contain—
 
-- (a) a heading shown prominently on [^key-69ca957f75a9512d72fce568ecef95c2]... the security instrument in one of the forms of words specified in Part I of the Schedule to these Regulations, as the case may require;
+- (a) a heading shown prominently on [^c-69ca957f75a9512d72fce568ecef95c2]... the security instrument in one of the forms of words specified in Part I of the Schedule to these Regulations, as the case may require;
 - (b) the information set out in Part II of the Schedule;
 - (c) a statement of the rights of the surety in the Form specified in Part III of the Schedule; and
 - (d) a signature box—
@@ -84,9 +84,9 @@ These Regulations apply only to guarantees and indemnities provided on or after 
 
 (5) Where words are shown in capital letters in any Form prescribed in Parts III and IV of the Schedule to these Regulations and are reproduced in security instruments, they shall be afforded more prominence (whether by capital letters, underlining, large or bold print or otherwise) than any other lettering in that Form except lettering inserted in accordance with paragraph (2)(c) above and no less prominence than that given to any other information in the security instrument apart from the heading to the instrument, trade names, the names of the creditor or owner, of the debtor or hirer or of the surety, or lettering in the instrument inserted in handwriting.
 
-## 4. Legibility and signing of security instruments[^key-02e356218390af3cbe003d719f140db5]
+## 4. Legibility and signing of security instruments[^c-02e356218390af3cbe003d719f140db5]
 
-(1) The lettering of the terms of the security included in the document referred to in section 105(4)(a) of the Act and of the information contained in that document for the purpose of conforming to these Regulations shall, apart from any signature, be easily legible and of a colour which is readily distinguishable from the background medium upon which the information is displayed[^key-2babf49de5d85c190507dd82a60849c1].
+(1) The lettering of the terms of the security included in the document referred to in section 105(4)(a) of the Act and of the information contained in that document for the purpose of conforming to these Regulations shall, apart from any signature, be easily legible and of a colour which is readily distinguishable from the background medium upon which the information is displayed[^c-2babf49de5d85c190507dd82a60849c1].
 
 (2) The signature of the said document shall be made by or on behalf of the surety in the space in the document indicated for the purpose.
 
@@ -94,7 +94,7 @@ These Regulations apply only to guarantees and indemnities provided on or after 
 
 (4) In Scotland any provision in paragraph (2) above requiring the said document to be signed shall be complied with by a body corporate if the document is properly executed in accordance with the law of Scotland.
 
-(5)[^key-4c7d48557dc2e9ecd803fe787d827cf3] Where a security instrument is intended to be concluded by the use of an electronic communication nothing in this Regulation shall prohibit the inclusion in the signature box of information about the process or means of providing, communicating or verifying the signature to be made by or on behalf of the surety.
+(5)[^c-4c7d48557dc2e9ecd803fe787d827cf3] Where a security instrument is intended to be concluded by the use of an electronic communication nothing in this Regulation shall prohibit the inclusion in the signature box of information about the process or means of providing, communicating or verifying the signature to be made by or on behalf of the surety.
 
 Alexander Fletcher
 
@@ -108,26 +108,26 @@ Department of Trade and Industry
 
 Regulation 3
 
-### PART I — FORMS OF HEADING TO SECURITY INSTRUMENTS[^key-16f928f013832493bdf4c326399b26e9]
+### PART I — FORMS OF HEADING TO SECURITY INSTRUMENTS[^c-16f928f013832493bdf4c326399b26e9]
 
 - (a) “Guarantee subject to the Consumer Credit Act 1974”;
 - (b) “Indemnity subject to the Consumer Credit Act 1974”; or
 - (c) “Guarantee and Indemnity subject to the Consumer Credit Act 1974”.
 
-### PART II — INFORMATION TO BE CONTAINED IN SECURITY INSTRUMENTS[^key-a1da0155c543457b2c93ec21894d1402]
+### PART II — INFORMATION TO BE CONTAINED IN SECURITY INSTRUMENTS[^c-a1da0155c543457b2c93ec21894d1402]
 
-- (a) The name , postal address and, where appropriate, any other address[^key-8eb20950f59994cf6133249dbf5cf936] of the creditor or owner;
+- (a) The name , postal address and, where appropriate, any other address[^c-8eb20950f59994cf6133249dbf5cf936] of the creditor or owner;
 - (b) the name , postal address and, where appropriate, any other address of the debtor or hirer;
 - (c) the name , postal address and, where appropriate, any other address of the surety; and
 - (d) a description of the subject matter to which the security to be provided by the surety relates.
 
-### PART III[^key-b797b746c0010802da305d7d353f67fe]
+### PART III[^c-b797b746c0010802da305d7d353f67fe]
 
 FORM OF STATEMENT OF RIGHTS OF SURETIES
 
 [image: see source](https://www.legislation.gov.uk/uksi/1983/1556/images/fo001343)
 
-### PART IV[^key-b02b519adc79b8534a5374dc170b0c84]
+### PART IV[^c-b02b519adc79b8534a5374dc170b0c84]
 
 FORMS OF SIGNATURE BOX
 
@@ -141,26 +141,26 @@ These Regulations prescribe the form and content of two types of security instru
 
 ## Annotations
 
-[^key-c922d3f338a9f1270e7a1c9c290f9a57]: Commencement: Reg. 1 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-c922d3f338a9f1270e7a1c9c290f9a57]: Commencement: Reg. 1 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-125488930bebe68aa0abb748f831fe9a]: Commencement: Reg. 2 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-125488930bebe68aa0abb748f831fe9a]: Commencement: Reg. 2 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-bc9b91877ae0b50d61eee4825f355db9]: Commencement: Reg. 3 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-bc9b91877ae0b50d61eee4825f355db9]: Commencement: Reg. 3 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-69ca957f75a9512d72fce568ecef95c2]: Textual amendment: Words in reg. 3(1)(a) revoked (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/2)
+[^c-69ca957f75a9512d72fce568ecef95c2]: Textual amendment: Words in reg. 3(1)(a) revoked (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/2)
 
-[^key-02e356218390af3cbe003d719f140db5]: Commencement: Reg. 4 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-02e356218390af3cbe003d719f140db5]: Commencement: Reg. 4 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-2babf49de5d85c190507dd82a60849c1]: Textual amendment: Words in reg. 4(1) substituted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/3)
+[^c-2babf49de5d85c190507dd82a60849c1]: Textual amendment: Words in reg. 4(1) substituted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/3)
 
-[^key-4c7d48557dc2e9ecd803fe787d827cf3]: Textual amendment: Reg. 4(5) inserted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/4)
+[^c-4c7d48557dc2e9ecd803fe787d827cf3]: Textual amendment: Reg. 4(5) inserted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/4)
 
-[^key-16f928f013832493bdf4c326399b26e9]: Commencement: Sch. Pt. 1 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-16f928f013832493bdf4c326399b26e9]: Commencement: Sch. Pt. 1 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-a1da0155c543457b2c93ec21894d1402]: Commencement: Sch. Pt. 2 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-a1da0155c543457b2c93ec21894d1402]: Commencement: Sch. Pt. 2 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-8eb20950f59994cf6133249dbf5cf936]: Textual amendment: Words in Sch. Pt. 2 substituted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/5)
+[^c-8eb20950f59994cf6133249dbf5cf936]: Textual amendment: Words in Sch. Pt. 2 substituted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/3236/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2004/3236/article/5/5)
 
-[^key-b797b746c0010802da305d7d353f67fe]: Commencement: Sch. Pt. 3 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-b797b746c0010802da305d7d353f67fe]: Commencement: Sch. Pt. 3 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
 
-[^key-b02b519adc79b8534a5374dc170b0c84]: Commencement: Sch. Pt. 4 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)
+[^c-b02b519adc79b8534a5374dc170b0c84]: Commencement: Sch. Pt. 4 in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1556/regulation/1/1)

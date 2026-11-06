@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Offences concerned with evasion of restrictions on donations.[^c10574221][^c10574211][^c20066441][^c20066481][^c20069281][^c20660381][^key-f091a7241ee2a32aad7a8c74fc8ee6aa][^key-87220696c973a43813c326202d4385bf][^M_C_8e264430-fde7-4e89-9582-846c309429b0]
+## 61. Offences concerned with evasion of restrictions on donations.[^c10574221][^c10574211][^c20066441][^c20066481][^c20069281][^c20660381][^c-f091a7241ee2a32aad7a8c74fc8ee6aa][^c-87220696c973a43813c326202d4385bf][^M_C_8e264430-fde7-4e89-9582-846c309429b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,8 +50,8 @@ any arrangement which facilitates or is likely to facilitate, whether by means o
 
 [^c20660381]: Modification: S. 61 applied (with modifications) (1.2.2007) by [The National Assembly for Wales (Representation of the People) Order 2007 (S.I. 2007/236)](https://www.legislation.gov.uk/uksi/2007/236), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/236/article/1/1), [41(4)](https://www.legislation.gov.uk/uksi/2007/236/article/41/4), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2007/236/schedule/6/paragraph/9)
 
-[^key-f091a7241ee2a32aad7a8c74fc8ee6aa]: Modification: S. 61 applied by 1962 c. 14 (N.I.), Sch. 3A para. 9 (as inserted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3)))
+[^c-f091a7241ee2a32aad7a8c74fc8ee6aa]: Modification: S. 61 applied by 1962 c. 14 (N.I.), Sch. 3A para. 9 (as inserted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3)))
 
-[^key-87220696c973a43813c326202d4385bf]: Modification: S. 61 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2012/1917/schedule/5/paragraph/9)
+[^c-87220696c973a43813c326202d4385bf]: Modification: S. 61 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2012/1917/schedule/5/paragraph/9)
 
 [^M_C_8e264430-fde7-4e89-9582-846c309429b0]: Modification: S. 61 applied (with modifications) (W.) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/uksi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/864/article/1/2), [Sch. 6 para. 9](https://www.legislation.gov.uk/uksi/2025/864/schedule/6/paragraph/9) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/864/article/1/4))

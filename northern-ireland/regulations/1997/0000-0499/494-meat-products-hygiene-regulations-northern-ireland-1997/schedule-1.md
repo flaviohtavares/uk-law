@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 4(1), (5) and (6)(*a*), 8(*a*), 13(1)(*c*), 14(*a*) and 15
 
-### Part I — General Conditions for Approval of Establishments[^key-fe1f50f3536bec50f2abe23746b8cdba]
+### Part I — General Conditions for Approval of Establishments[^c-fe1f50f3536bec50f2abe23746b8cdba]
 
 Establishments shall have at least the following facilities:
 
@@ -114,48 +114,48 @@ Where advantage is taken of this derogation, cleaning and disinfecting processes
 
 #### A. — General conditions of hygiene applicable to establishments, equipment and tools
 
-**1.**[^key-e136fcb5647923b2bdbd94c47480ece9] Equipment and instruments used for working on raw materials and products, floors, walls and partitions, ceilings or roof linings, shall be kept in a satisfactory state of cleanliness and repair, so that they do not constitute a source of contamination for raw materials or products. Cleaning and disinfecting must be performed with a frequency and by means of processes which are in line with the principles set out in regulation 13(1)(*a*) to (*d*).
+**1.**[^c-e136fcb5647923b2bdbd94c47480ece9] Equipment and instruments used for working on raw materials and products, floors, walls and partitions, ceilings or roof linings, shall be kept in a satisfactory state of cleanliness and repair, so that they do not constitute a source of contamination for raw materials or products. Cleaning and disinfecting must be performed with a frequency and by means of processes which are in line with the principles set out in regulation 13(1)(*a*) to (*d*).
 
-**2.**[^key-f1a0f2f98986e1304e08afcdc3d0fa75] No animals may enter the rooms. Rodents, insects and any other vermin shall be systematically exterminated from storage or processing areas; rodenticides, insecticides, disinfectants and any other potentially toxic substances shall be stored in rooms or cupboards which can be locked; their use shall not present any risk of contamination of the products.
+**2.**[^c-f1a0f2f98986e1304e08afcdc3d0fa75] No animals may enter the rooms. Rodents, insects and any other vermin shall be systematically exterminated from storage or processing areas; rodenticides, insecticides, disinfectants and any other potentially toxic substances shall be stored in rooms or cupboards which can be locked; their use shall not present any risk of contamination of the products.
 
-**3.**[^key-28d69ddb9a8a6510bb23c7c1bd3dd219] Subject to it being acceptable to the enforcement authority, working areas, instruments and working equipment may be used for work on other foodstuffs fit for human consumption.
+**3.**[^c-28d69ddb9a8a6510bb23c7c1bd3dd219] Subject to it being acceptable to the enforcement authority, working areas, instruments and working equipment may be used for work on other foodstuffs fit for human consumption.
 
-**4.**[^key-e764190baed8d1285e6039943ba3cd3b] Potable water shall be used for all purposes. Exceptionally, non-potable water may be used for steam production, fire-fighting and the cooling of equipment, provided that the pipes installed for the purpose preclude the use of such water for other purposes and present no risk of contamination of the raw materials and products.
+**4.**[^c-e764190baed8d1285e6039943ba3cd3b] Potable water shall be used for all purposes. Exceptionally, non-potable water may be used for steam production, fire-fighting and the cooling of equipment, provided that the pipes installed for the purpose preclude the use of such water for other purposes and present no risk of contamination of the raw materials and products.
 
-**5.**[^key-b449856a6446e249c483866ded11e90b] Detergents, disinfectants and similar substances must be used in accordance with the manufacturers' instructions in such a way that they do not have adverse effects on the machinery, equipment, raw materials and products. Use of these substances must be followed by thorough rinsing of such instruments and working equipment with potable water except where the instructions for use of such substances render such rinsing unnecessary.
+**5.**[^c-b449856a6446e249c483866ded11e90b] Detergents, disinfectants and similar substances must be used in accordance with the manufacturers' instructions in such a way that they do not have adverse effects on the machinery, equipment, raw materials and products. Use of these substances must be followed by thorough rinsing of such instruments and working equipment with potable water except where the instructions for use of such substances render such rinsing unnecessary.
 
 Products for maintenance and cleaning must be kept in the room or facility provided for in paragraph 14 of Part I.
 
-**6.**[^key-fda2e613f92d6f45671d38d4798f9d80] The spreading of sawdust or any other similar substance on the floor of the workrooms and storage rooms for the raw materials and products referred to in these Regulations is prohibited.
+**6.**[^c-fda2e613f92d6f45671d38d4798f9d80] The spreading of sawdust or any other similar substance on the floor of the workrooms and storage rooms for the raw materials and products referred to in these Regulations is prohibited.
 
 #### B. — General conditions of hygiene applicable to staff
 
-**1.**[^key-f514a2cf6415654e6bea2d71454a49bb] Proper standards of cleanliness are required of staff at all times. Specifically:
+**1.**[^c-f514a2cf6415654e6bea2d71454a49bb] Proper standards of cleanliness are required of staff at all times. Specifically:
 
 - (a) staff shall wear suitable clean working clothes and where necessary headgear which completely encloses the hair;
 - (b) staff assigned to the handling and preparation of raw materials and products shall be required to wash their hands at least each time work is resumed and/or where contamination has occurred; wounds to the hands must be covered by a waterproof dressing; and
 - (c) smoking, spitting, eating and drinking in rooms where raw materials and products are worked on or stored is prohibited.
 
-**2.**[^key-1a24e1e585fcf432374095855dc4f730] The occupier of meat products premises shall take all the requisite measures to prevent persons liable to contaminate raw materials and products from handling them, until there is evidence that such persons can do so without risk.
+**2.**[^c-1a24e1e585fcf432374095855dc4f730] The occupier of meat products premises shall take all the requisite measures to prevent persons liable to contaminate raw materials and products from handling them, until there is evidence that such persons can do so without risk.
 
 When recruited after these Regulations come into force to work in approved premises any person working on or handling raw materials and products shall be required to prove, by a medical certificate, that there is no impediment to such employment.
 
 ## Annotations
 
-[^key-fe1f50f3536bec50f2abe23746b8cdba]: Commencement: Sch. 1 Pt. I in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-fe1f50f3536bec50f2abe23746b8cdba]: Commencement: Sch. 1 Pt. I in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-e136fcb5647923b2bdbd94c47480ece9]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(1) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-e136fcb5647923b2bdbd94c47480ece9]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(1) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-f1a0f2f98986e1304e08afcdc3d0fa75]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(2) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-f1a0f2f98986e1304e08afcdc3d0fa75]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(2) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-28d69ddb9a8a6510bb23c7c1bd3dd219]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(3) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-28d69ddb9a8a6510bb23c7c1bd3dd219]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(3) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-e764190baed8d1285e6039943ba3cd3b]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(4) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-e764190baed8d1285e6039943ba3cd3b]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(4) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-b449856a6446e249c483866ded11e90b]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(5) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-b449856a6446e249c483866ded11e90b]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(5) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-fda2e613f92d6f45671d38d4798f9d80]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(6) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-fda2e613f92d6f45671d38d4798f9d80]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(establishments)(equipment)(and)(tools\_paragraph)(6) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-f514a2cf6415654e6bea2d71454a49bb]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(staff\_paragraph)(1) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-f514a2cf6415654e6bea2d71454a49bb]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(staff\_paragraph)(1) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
-[^key-1a24e1e585fcf432374095855dc4f730]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(staff\_paragraph)(2) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-1a24e1e585fcf432374095855dc4f730]: Commencement: Sch. 1 Pt. II(crossheading)(general)(conditions)(of)(hygiene)(applicable)(to)(staff\_paragraph)(2) in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

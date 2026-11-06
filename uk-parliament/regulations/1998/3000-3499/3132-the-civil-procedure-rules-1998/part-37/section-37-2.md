@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37.2. Money paid into court where defendant wishes to rely on a defence of tender before claim[^key-e9e8458d68ea7711162da4a2cd3000b3]
+## 37.2. Money paid into court where defendant wishes to rely on a defence of tender before claim[^c-e9e8458d68ea7711162da4a2cd3000b3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9e8458d68ea7711162da4a2cd3000b3]: Textual amendment: [Pt. 37](https://www.legislation.gov.uk/uksi/1998/3132/part/37) substituted (6.4.2007) by [The Civil Procedure (Amendment No.3) Rules 2006 (S.I. 2006/3435)](https://www.legislation.gov.uk/uksi/2006/3435), [rule 1](https://www.legislation.gov.uk/uksi/2006/3435/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3435/schedule/2)
+[^c-e9e8458d68ea7711162da4a2cd3000b3]: Textual amendment: [Pt. 37](https://www.legislation.gov.uk/uksi/1998/3132/part/37) substituted (6.4.2007) by [The Civil Procedure (Amendment No.3) Rules 2006 (S.I. 2006/3435)](https://www.legislation.gov.uk/uksi/2006/3435), [rule 1](https://www.legislation.gov.uk/uksi/2006/3435/rule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3435/schedule/2)

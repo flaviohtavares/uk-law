@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Offences under sections 12 and 14 of the Public Order Act 1986[^key-644c27fe33b1431898d900a14c6e5cec][^key-bdb0c9f1d9698e1fb435b498fa1c2939]
+## 75. Offences under sections 12 and 14 of the Public Order Act 1986[^c-644c27fe33b1431898d900a14c6e5cec][^c-bdb0c9f1d9698e1fb435b498fa1c2939]
 
 *Extent: E+W+S*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-644c27fe33b1431898d900a14c6e5cec]: Commencement: S. 75 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-644c27fe33b1431898d900a14c6e5cec]: Commencement: S. 75 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-bdb0c9f1d9698e1fb435b498fa1c2939]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/32/section/75) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)
+[^c-bdb0c9f1d9698e1fb435b498fa1c2939]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/32/section/75) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i)

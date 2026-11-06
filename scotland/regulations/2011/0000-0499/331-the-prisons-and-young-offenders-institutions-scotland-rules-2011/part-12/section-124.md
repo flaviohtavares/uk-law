@@ -28,7 +28,7 @@ summary: ''
 - (b) placed in a sealed envelope; and
 - (c) given to the residential officer, who must convey the complaint to the Governor without delay.
 
-(2A)[^key-2d14916f133407bd56521e23c71723bc] Where a prisoner makes a request to an independent prison monitor for assistance in making a complaint to the Governor under paragraph (2), the independent prison monitor may provide such assistance to the prisoner as the independent prison monitor considers appropriate.
+(2A)[^c-2d14916f133407bd56521e23c71723bc] Where a prisoner makes a request to an independent prison monitor for assistance in making a complaint to the Governor under paragraph (2), the independent prison monitor may provide such assistance to the prisoner as the independent prison monitor considers appropriate.
 
 (3) Where the Governor is of the opinion that a complaint made under paragraph (2) is not about a confidential matter and is therefore not a complaint to which this rule applies, the Governor must—
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d14916f133407bd56521e23c71723bc]: Textual amendment: Rule 124(2A) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(6)](https://www.legislation.gov.uk/ssi/2015/39/article/4/6) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))
+[^c-2d14916f133407bd56521e23c71723bc]: Textual amendment: Rule 124(2A) inserted (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [arts. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [4(6)](https://www.legislation.gov.uk/ssi/2015/39/article/4/6) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/39/article/5))

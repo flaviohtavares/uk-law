@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Section 95: consequential amendments[^key-4793fff808a216746fbc74bb35fc0538]
+## 96. Section 95: consequential amendments[^c-4793fff808a216746fbc74bb35fc0538]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4793fff808a216746fbc74bb35fc0538]: Commencement: S. 96 in force at 1.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)
+[^c-4793fff808a216746fbc74bb35fc0538]: Commencement: S. 96 in force at 1.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/ii)

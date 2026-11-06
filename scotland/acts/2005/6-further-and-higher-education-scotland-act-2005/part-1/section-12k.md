@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12K. Information sharing on national training programmes, apprenticeships and work-based learning[^key-7aaefda05c89cb982b488846b78e883d]
+## 12K. Information sharing on national training programmes, apprenticeships and work-based learning[^c-7aaefda05c89cb982b488846b78e883d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any person to whom the Council makes grants, loans or other payments under secti
 
 ## Annotations
 
-[^key-7aaefda05c89cb982b488846b78e883d]: Textual amendment: [S. 12K](https://www.legislation.gov.uk/asp/2005/6/section/12K) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 14(2)](https://www.legislation.gov.uk/asp/2026/5/section/14/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-7aaefda05c89cb982b488846b78e883d]: Textual amendment: [S. 12K](https://www.legislation.gov.uk/asp/2005/6/section/12K) inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 14(2)](https://www.legislation.gov.uk/asp/2026/5/section/14/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

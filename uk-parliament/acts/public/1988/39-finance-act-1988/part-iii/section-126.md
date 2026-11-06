@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Production of documents relating to a person’s tax liability.[^key-1503397e65ce8ac0dcdf4a0b2ae07d3b]
+## 126. Production of documents relating to a person’s tax liability.[^c-1503397e65ce8ac0dcdf4a0b2ae07d3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1503397e65ce8ac0dcdf4a0b2ae07d3b]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1988/39/section/126) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/a) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-1503397e65ce8ac0dcdf4a0b2ae07d3b]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1988/39/section/126) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/a) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))

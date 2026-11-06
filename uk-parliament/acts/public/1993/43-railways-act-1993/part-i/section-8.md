@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to the following provisions of this section—
 
-- (a) the Secretary of State after consultation with the Office of Rail and Road[^key-75819d85b715a02107a787f7edd82e5f] [^c18823091]. . . , or
+- (a) the Secretary of State after consultation with the Office of Rail and Road[^c-75819d85b715a02107a787f7edd82e5f] [^c18823091]. . . , or
 - (b) the Office of Rail and Road with the consent, or in accordance with a general authority, of the Secretary of State[^c14097801] [^c18823091]. . . ,
 
 may grant to any person a licence authorising the person to be the operator of such railway assets, or of railway assets of such a class or description, as may be specified in the licence.
@@ -76,7 +76,7 @@ and shall consider any representations or objections which are duly made and not
 
 [^c14097781]: Modification: S. 8 restricted (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1996/61/section/16/3)
 
-[^key-75819d85b715a02107a787f7edd82e5f]: Textual amendment: Words in s. 8 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/d)
+[^c-75819d85b715a02107a787f7edd82e5f]: Textual amendment: Words in s. 8 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/d)
 
 [^c18823091]: Textual amendment: Words in s. 8(1) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/3/1/a), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 

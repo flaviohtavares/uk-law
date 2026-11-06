@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Special enforcement and sampling provisions relating to animal feeding stuffs.[^key-2c0acd08f2577d96ed2d836baf48a8e0][^c998857]
+## 117. Special enforcement and sampling provisions relating to animal feeding stuffs.[^c-2c0acd08f2577d96ed2d836baf48a8e0][^c998857]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c0acd08f2577d96ed2d836baf48a8e0]: Textual amendment: S. 117 omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 60](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/60) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-2c0acd08f2577d96ed2d836baf48a8e0]: Textual amendment: S. 117 omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 60](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/60) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
 [^c998857]: Modification: Pt. VIII (ss. 104–136) extended by S.I.s 1982/425, art. 3, 1984/187 art. 2; and extended with modifications by [S.I. 1985/403](https://www.legislation.gov.uk/uksi/1985/403), [art. 3(1)](https://www.legislation.gov.uk/uksi/1985/403/article/3/1)

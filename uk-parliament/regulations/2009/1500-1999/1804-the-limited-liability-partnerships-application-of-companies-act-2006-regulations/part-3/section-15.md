@@ -22,7 +22,7 @@ summary: ''
 
 Section 85 applies to LLPs, modified so that it reads as follows—
 
-> **85. Minor variation in form of name to be left out of account[^key-4fe4ad7fd90b952a618a0a82703fabb5]**
+> **85. Minor variation in form of name to be left out of account[^c-4fe4ad7fd90b952a618a0a82703fabb5]**
 >
 > (1) For the purposes of this Chapter, in considering an LLP's name no account is to be taken of—
 >
@@ -37,4 +37,4 @@ Section 85 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-4fe4ad7fd90b952a618a0a82703fabb5]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2009/1804/regulation/15) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/6)
+[^c-4fe4ad7fd90b952a618a0a82703fabb5]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2009/1804/regulation/15) substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2015/17/schedule/5/paragraph/6)

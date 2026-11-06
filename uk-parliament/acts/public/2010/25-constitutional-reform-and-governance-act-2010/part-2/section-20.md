@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Treaties to be laid before Parliament before ratification[^key-751bfc15e5e4551784dd2a951ce6471f][^key-0ddc151d9375825f030dea83a2a98ab7][^key-3cbfaaa90ddab5b2dd5f45ce2c9c07b8]
+## 20. Treaties to be laid before Parliament before ratification[^c-751bfc15e5e4551784dd2a951ce6471f][^c-0ddc151d9375825f030dea83a2a98ab7][^c-3cbfaaa90ddab5b2dd5f45ce2c9c07b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-751bfc15e5e4551784dd2a951ce6471f]: Commencement: S. 20 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)
+[^c-751bfc15e5e4551784dd2a951ce6471f]: Commencement: S. 20 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)
 
-[^key-0ddc151d9375825f030dea83a2a98ab7]: Modification: S. 20 excluded (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 32](https://www.legislation.gov.uk/ukpga/2020/1/section/32), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
+[^c-0ddc151d9375825f030dea83a2a98ab7]: Modification: S. 20 excluded (23.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 32](https://www.legislation.gov.uk/ukpga/2020/1/section/32), [42(6)(c)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/c) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3))
 
-[^key-3cbfaaa90ddab5b2dd5f45ce2c9c07b8]: Modification: S. 20 excluded (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2020/29/section/36), [40(6)(e)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/e)
+[^c-3cbfaaa90ddab5b2dd5f45ce2c9c07b8]: Modification: S. 20 excluded (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 36](https://www.legislation.gov.uk/ukpga/2020/29/section/36), [40(6)(e)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/e)

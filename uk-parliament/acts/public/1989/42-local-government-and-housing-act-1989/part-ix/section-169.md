@@ -26,8 +26,8 @@ summary: ''
 
 - (a) works to cause the dwelling to be fit for human habitation,
 - (b) where the occupant is disabled, works for any of the purposes specified in section 23 of the Housing Grants, Construction and Regeneration Act 1996 (disabled facilities grants: purposes)[^c15279071],
-- (c)[^key-3094ce19b33395fbc859abe948c1cbc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-3094ce19b33395fbc859abe948c1cbc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3094ce19b33395fbc859abe948c1cbc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3094ce19b33395fbc859abe948c1cbc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) It shall be the duty of a relevant authority exercising any power conferred by subsection (1) above—
 
@@ -57,7 +57,7 @@ towards the cost of the provision by that association, charity or body of servic
 
 (9) In this section—
 
-- [^key-d902972d6f2360e17fbd694a77e6e7ab]...
+- [^c-d902972d6f2360e17fbd694a77e6e7ab]...
 - “**housing association**” means a housing association within the meaning of section 1(1) of the [^c15279101]Housing Associations Act 1985, or a body established by such a housing association for the purpose of, or having among its purposes or objects, those mentioned in section 4(3)(e) of that Act (providing services of any description for owners or occupiers of houses in arranging or carrying out works of maintenance, repair or improvement, or encouraging or facilitating the carrying out of such works[^c15279111];
 - “**local housing authority**” shall be construed in accordance with section 1 of the [^c15279121]Housing Act 1985; and
 - “**relevant authority**” means a local housing authority or county council.
@@ -66,9 +66,9 @@ towards the cost of the provision by that association, charity or body of servic
 
 [^c15279071]: Textual amendment: Words in s. 169(2)(b) substituted (17.12.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [s. 103](https://www.legislation.gov.uk/ukpga/1996/53/section/103), [Sch. 1 para. 15(1)(2)](https://www.legislation.gov.uk/ukpga/1996/53/schedule/1/paragraph/15/1/2); [S.I. 1996/2842](https://www.legislation.gov.uk/uksi/1996/2842), [art. 3](https://www.legislation.gov.uk/uksi/1996/2842/article/3)
 
-[^key-3094ce19b33395fbc859abe948c1cbc7]: Textual amendment: S. 169(2)(c)(d) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6)
+[^c-3094ce19b33395fbc859abe948c1cbc7]: Textual amendment: S. 169(2)(c)(d) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2002/1860/schedule/4/paragraph/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6)
 
-[^key-d902972d6f2360e17fbd694a77e6e7ab]: Textual amendment: Words in [s. 169(9)](https://www.legislation.gov.uk/ukpga/1989/42/section/169/9) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. paras. 40(1)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/40/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/40/2/b)
+[^c-d902972d6f2360e17fbd694a77e6e7ab]: Textual amendment: Words in [s. 169(9)](https://www.legislation.gov.uk/ukpga/1989/42/section/169/9) omitted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. paras. 40(1)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/40/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/40/2/b)
 
 [^c15279101]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 

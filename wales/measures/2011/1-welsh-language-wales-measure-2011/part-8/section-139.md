@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Interpretation of this Chapter[^key-d4002e109f2118171e0ebaefe3fd6e60][^key-3a2fa8b016fb3506572816cd9304df70]
+## 139. Interpretation of this Chapter[^c-d4002e109f2118171e0ebaefe3fd6e60][^c-3a2fa8b016fb3506572816cd9304df70]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-d4002e109f2118171e0ebaefe3fd6e60]: Commencement: [S. 139](https://www.legislation.gov.uk/mwa/2011/1/section/139) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(c)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/c)
+[^c-d4002e109f2118171e0ebaefe3fd6e60]: Commencement: [S. 139](https://www.legislation.gov.uk/mwa/2011/1/section/139) in force at 28.6.2011 by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(c)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/c)
 
-[^key-3a2fa8b016fb3506572816cd9304df70]: Commencement: [S. 139](https://www.legislation.gov.uk/mwa/2011/1/section/139) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)
+[^c-3a2fa8b016fb3506572816cd9304df70]: Commencement: [S. 139](https://www.legislation.gov.uk/mwa/2011/1/section/139) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)

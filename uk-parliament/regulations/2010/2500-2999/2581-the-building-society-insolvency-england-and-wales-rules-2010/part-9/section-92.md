@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Court’s power to regulate meetings under rule 89[^key-e15d469aaf8951b552ea6618ca721109]
+## 92. Court’s power to regulate meetings under rule 89[^c-e15d469aaf8951b552ea6618ca721109]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.115 of the 1986 Rules. Leave out “or 4.114–CVL”.
 
 ## Annotations
 
-[^key-e15d469aaf8951b552ea6618ca721109]: Commencement: Rule 92 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e15d469aaf8951b552ea6618ca721109]: Commencement: Rule 92 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

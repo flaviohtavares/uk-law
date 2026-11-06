@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Consideration of responses to proposals and determination as to whether to proceed – governing body proposed[^key-38e72546f843fdbac89975921fe93d2e]
+## 7. Consideration of responses to proposals and determination as to whether to proceed – governing body proposed[^c-38e72546f843fdbac89975921fe93d2e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e72546f843fdbac89975921fe93d2e]: Commencement: Reg. 7 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-38e72546f843fdbac89975921fe93d2e]: Commencement: Reg. 7 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

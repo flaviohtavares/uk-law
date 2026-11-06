@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendments to the Criminal Justice and Police Act 2001[^key-128ac30b597dc7dcadfbc043ebcecd2b][^key-2e9da3f42c262196056c4245409f48bd]
+## 77. Amendments to the Criminal Justice and Police Act 2001[^c-128ac30b597dc7dcadfbc043ebcecd2b][^c-2e9da3f42c262196056c4245409f48bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-128ac30b597dc7dcadfbc043ebcecd2b]: Commencement: S. 77 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-128ac30b597dc7dcadfbc043ebcecd2b]: Commencement: S. 77 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2e9da3f42c262196056c4245409f48bd]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2024/13/section/77) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-2e9da3f42c262196056c4245409f48bd]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2024/13/section/77) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

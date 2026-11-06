@@ -24,7 +24,7 @@ Sections 48, 131, 154, 169 and 180.
 
 ### Determination of appeals by appointed person
 
-**1.** (1) The Secretary of State may by regulations prescribe classes of appeals under sections 47, 75B, 75F,[^key-6d055ae7ea4894e6755f10a2a9edeee0] 130, 154, 169 and 180 which are to be determined by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
+**1.** (1) The Secretary of State may by regulations prescribe classes of appeals under sections 47, 75B, 75F,[^c-6d055ae7ea4894e6755f10a2a9edeee0] 130, 154, 169 and 180 which are to be determined by a person appointed by the Secretary of State for the purpose instead of by the Secretary of State.
 
 (2) Those classes of appeals shall be so determined except in such classes of case—
 
@@ -42,7 +42,7 @@ Sections 48, 131, 154, 169 and 180.
 **2.** (1) An appointed person shall have the same powers and duties—
 
 - (a) in relation to an appeal under section 47, as the Secretary of State has under section 48(1), (3), (5) and (8);
-- (aa)[^key-2793d44edb0ee197d70af3da628c7878] in relation to an appeal under section 75B, as the Scottish Ministers have under subsections (4) and (5) of that section;
+- (aa)[^c-2793d44edb0ee197d70af3da628c7878] in relation to an appeal under section 75B, as the Scottish Ministers have under subsections (4) and (5) of that section;
 - (ab) in relation to an appeal under section 75F, as the Scottish Ministers have under subsections (4) and (5) of that section;
 - (b) in relation to an appeal under section 130, as he has under sections 132(1), (2) and (4) and 133(1) to (4);
 - (c) in relation to an appeal under section 154, as he has under subsection (2) and (3) of that section;
@@ -50,13 +50,13 @@ Sections 48, 131, 154, 169 and 180.
 - (e) in relation to an appeal under section 180, as he has under subsections (4) and (6) of that section; and
 - (f) in relation to an appeal under paragraph 6(11) or (12) or 11(1) of Schedule 9 or paragraph 9(1) of Schedule 10, as he has under paragraph 18 of Schedule 8.
 
-(2)[^key-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-427170fb7b5dde95450e3de980ba745a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where an appeal has been determined by an appointed person, his decision shall be treated as that of the Secretary of State.
 
@@ -70,11 +70,11 @@ Sections 48, 131, 154, 169 and 180.
 
 (3) Where in consequence of such a direction an appeal falls to be determined by the Secretary of State himself, the provisions of this Act which are relevant to the appeal shall, subject to the following provisions of this paragraph, apply to the appeal as if this Schedule had never applied to it.
 
-(4)[^key-8f238cecdf429a855940527dbca3305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8f238cecdf429a855940527dbca3305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8f238cecdf429a855940527dbca3305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8f238cecdf429a855940527dbca3305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8f238cecdf429a855940527dbca3305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8f238cecdf429a855940527dbca3305d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In determining the appeal the Secretary of State may take into account any report made to him by any person previously appointed to determine it.
 
@@ -109,7 +109,7 @@ Sections 48, 131, 154, 169 and 180.
 
 (2) Where an appointed person—
 
-- (a) holds a hearing [^key-1eb3a79d8defdc68e6c2f8f24ba613cf]..., or
+- (a) holds a hearing [^c-1eb3a79d8defdc68e6c2f8f24ba613cf]..., or
 - (b) holds an inquiry by virtue of this paragraph,
 
 an assessor may be appointed by the Secretary of State to sit with the appointed person at the hearing or inquiry to advise him on any matters arising, notwithstanding that the appointed person is to determine the appeal.
@@ -132,15 +132,15 @@ an assessor may be appointed by the Secretary of State to sit with the appointed
 
 ## Annotations
 
-[^key-6d055ae7ea4894e6755f10a2a9edeee0]: Textual amendment: Words in Sch. 4 para. 1(1) inserted (16.12.2010) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(18)(a)](https://www.legislation.gov.uk/asp/2006/17/section/54/18/a), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(h)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/h)); [S.S.I. 2010/430](https://www.legislation.gov.uk/ssi/2010/430), [art. 2](https://www.legislation.gov.uk/ssi/2010/430/article/2)
+[^c-6d055ae7ea4894e6755f10a2a9edeee0]: Textual amendment: Words in Sch. 4 para. 1(1) inserted (16.12.2010) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(18)(a)](https://www.legislation.gov.uk/asp/2006/17/section/54/18/a), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(h)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/h)); [S.S.I. 2010/430](https://www.legislation.gov.uk/ssi/2010/430), [art. 2](https://www.legislation.gov.uk/ssi/2010/430/article/2)
 
-[^key-2793d44edb0ee197d70af3da628c7878]: Textual amendment: Sch. 4 para. 2(1)(aa)(ab) inserted (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(18)(b)(i)](https://www.legislation.gov.uk/asp/2006/17/section/54/18/b/i), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(h)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/h)); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule) (as amended (2.12.2010) by [S.S.I. 2010/430](https://www.legislation.gov.uk/ssi/2010/430), art. 3)
+[^c-2793d44edb0ee197d70af3da628c7878]: Textual amendment: Sch. 4 para. 2(1)(aa)(ab) inserted (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 54(18)(b)(i)](https://www.legislation.gov.uk/asp/2006/17/section/54/18/b/i), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(h)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/h)); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule) (as amended (2.12.2010) by [S.S.I. 2010/430](https://www.legislation.gov.uk/ssi/2010/430), art. 3)
 
-[^key-427170fb7b5dde95450e3de980ba745a]: Textual amendment: Sch. 4 para. 2(2)-(5) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-427170fb7b5dde95450e3de980ba745a]: Textual amendment: Sch. 4 para. 2(2)-(5) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-8f238cecdf429a855940527dbca3305d]: Textual amendment: Sch. 4 para. 3(4)-(6) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-8f238cecdf429a855940527dbca3305d]: Textual amendment: Sch. 4 para. 3(4)-(6) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-1eb3a79d8defdc68e6c2f8f24ba613cf]: Textual amendment: Words in Sch. 4 para. 6(2)(a) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(7)](https://www.legislation.gov.uk/ssi/2009/256/article/2/7)
+[^c-1eb3a79d8defdc68e6c2f8f24ba613cf]: Textual amendment: Words in Sch. 4 para. 6(2)(a) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(7)](https://www.legislation.gov.uk/ssi/2009/256/article/2/7)
 
 [^c950502]: Modification: Sch. 4 para. 8 modified by [S.I. 1999/1351](https://www.legislation.gov.uk/uksi/1999/1351), [art. 17(a)](https://www.legislation.gov.uk/uksi/1999/1351/article/17/a); [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178)
 

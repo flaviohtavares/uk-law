@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. The Institute for Apprenticeships[^key-77d39789254b4523df9a9efc67618d09]
+## 22. The Institute for Apprenticeships[^c-77d39789254b4523df9a9efc67618d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 establishes the Institute for Apprenticeships and makes provision abo
 
 ## Annotations
 
-[^key-77d39789254b4523df9a9efc67618d09]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/12/section/22) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
+[^c-77d39789254b4523df9a9efc67618d09]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/12/section/22) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)

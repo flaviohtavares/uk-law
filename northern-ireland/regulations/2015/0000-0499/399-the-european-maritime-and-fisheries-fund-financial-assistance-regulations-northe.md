@@ -46,11 +46,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 The Department of Agriculture and Rural Development makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2 to, the European Communities Act 1972[^f00004].
 
-## 1. Citation and commencement[^key-e84e80c3695780041a702529d13311ea]
+## 1. Citation and commencement[^c-e84e80c3695780041a702529d13311ea]
 
 These Regulations may be cited as the European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 and come into operation on 14<sup>th</sup> January 2016.
 
-## 2. Interpretation[^key-df32f9e566cbd32a5d16d1df4dcb2c38]
+## 2. Interpretation[^c-df32f9e566cbd32a5d16d1df4dcb2c38]
 
 (1) In these Regulations—
 
@@ -63,17 +63,17 @@ These Regulations may be cited as the European Maritime and Fisheries Fund (Fina
 
 (2) Subject to regulation 14(2), the Interpretation Act (Northern Ireland) 1954[^f00007], except section 20(3), applies to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Payments by the Department[^key-414725f3d63e9a94a1528c6b099da925]
+## 3. Payments by the Department[^c-414725f3d63e9a94a1528c6b099da925]
 
 The Department may pay financial assistance for any of the purposes specified in Title V of the EMFF Regulation.
 
-## 4. Advertisement of financial assistance[^key-415b04c5651a5b9074a20ffd2ad8caa9]
+## 4. Advertisement of financial assistance[^c-415b04c5651a5b9074a20ffd2ad8caa9]
 
 (1) The Department must advertise the financial assistance available, and provide application forms and guidance notes for making an application.
 
 (2) The Department may determine in each financial year how much financial assistance (if any) is payable for any activity.
 
-## 5. Application for financial assistance[^key-f8cc6281ed95ad0ae93e14357dafc027]
+## 5. Application for financial assistance[^c-f8cc6281ed95ad0ae93e14357dafc027]
 
 (1) An application for financial assistance must be made on a form provided by the Department, and be submitted to the Department at the address specified.
 
@@ -85,11 +85,11 @@ The Department may pay financial assistance for any of the purposes specified in
 
 (5) In this regulation, “specified” means specified on the form or on any documentation provided with the form.
 
-## 6. Approval of application[^key-648b942d085e12f4e183e608b0608ad9]
+## 6. Approval of application[^c-648b942d085e12f4e183e608b0608ad9]
 
 The Department may approve an application with conditions, or may reject it.
 
-## 7. Notification of decision[^key-f348a72d0282bc2404dcab97d400c78c]
+## 7. Notification of decision[^c-f348a72d0282bc2404dcab97d400c78c]
 
 (1) Where the Department approves an application it must give notice of its decision, and of the conditions to which the approval is subject, to the applicant.
 
@@ -103,7 +103,7 @@ The Department may approve an application with conditions, or may reject it.
 - (a) after considering any representations made to it, decide whether to reject the application or, as the case may be, approve it subject to conditions; and
 - (b) give notice of its decision to the applicant.
 
-## 8. Evidence of expenditure or action[^key-42f2cc57628b2af948515289cd3ab116]
+## 8. Evidence of expenditure or action[^c-42f2cc57628b2af948515289cd3ab116]
 
 (1) The Department must not make any payment of financial assistance unless it is satisfied that an applicant has properly incurred expenditure of a kind in respect of which the financial assistance is payable and has complied with any conditions of the approval of the financial assistance.
 
@@ -111,17 +111,17 @@ The Department may approve an application with conditions, or may reject it.
 
 (3) Paragraph (1) does not apply to financial assistance which may be paid in advance to support the preparation and implementation of production and marketing plans in accordance with Article 66(4) of the EMFF Regulation.
 
-## 9. Method of payment[^key-92a4b4e4d76df992cc9c52bafd76da77]
+## 9. Method of payment[^c-92a4b4e4d76df992cc9c52bafd76da77]
 
 Financial assistance may be paid in a single payment or by instalments.
 
-## 10. Records[^key-a569029c554de3a6106305847236b894]
+## 10. Records[^c-a569029c554de3a6106305847236b894]
 
 (1) It is a condition of the payment of any financial assistance that the applicant makes a record of all payments of financial assistance made and all expenditure in respect of which such payments are made, and keeps any such record for at least six years after the date on which the last payment was made.
 
 (2) Failure to comply with paragraph (1) is an offence.
 
-## 11. Variation, suspension and revocation of an approval[^key-242d4a0027861c0e234d9eb1fb2ab955]
+## 11. Variation, suspension and revocation of an approval[^c-242d4a0027861c0e234d9eb1fb2ab955]
 
 (1) The Department may, at any time before the payment of the last instalment of the financial assistance, suspend or revoke the approval, or vary a condition of the approval.
 
@@ -135,7 +135,7 @@ Financial assistance may be paid in a single payment or by instalments.
 - (a) after considering any representations made to it, decide whether to suspend or revoke the approval, or vary the condition of the approval; and
 - (b) give notice of its decision to the applicant.
 
-## 12. Recovery of payment[^key-13de87f76dcc17d84186213516a737c6]
+## 12. Recovery of payment[^c-13de87f76dcc17d84186213516a737c6]
 
 (1) The Department may, by notice given to the applicant, require the repayment of all or any part of the financial assistance paid, if it is satisfied that—
 
@@ -149,11 +149,11 @@ Financial assistance may be paid in a single payment or by instalments.
 
 (4) Where any sum, or part of the sum specified in a notice under paragraph (1) is not repaid within the period specified in the notice, the Department may recover such sum as remains outstanding together with interest as a civil debt.
 
-## 13. Powers of entry[^key-b053a2a7cd7a9a6af71930ea301a68e0]
+## 13. Powers of entry[^c-b053a2a7cd7a9a6af71930ea301a68e0]
 
 (1) Subject to paragraph (3), an officer of the Department may, on producing, if so required, a duly authenticated authorisation, enter any premises at any reasonable hour for the purpose of enforcing these Regulations.
 
-(2)[^key-615506022e75a7bfbbb470027b77a619] The officer may be accompanied by such other person that the officer considers necessary for the purposes of these Regulations or the EMFF Regulation.
+(2)[^c-615506022e75a7bfbbb470027b77a619] The officer may be accompanied by such other person that the officer considers necessary for the purposes of these Regulations or the EMFF Regulation.
 
 (3) An officer of the Department may not enter any premises used wholly or mainly as a dwelling unless a lay magistrate has issued a warrant authorising the officer to enter the dwelling.
 
@@ -183,7 +183,7 @@ Financial assistance may be paid in a single payment or by instalments.
 
 (8) In this regulation “premises” includes any fishing or other vessel, place, vehicle, trailer or container.
 
-## 14. Offences and penalties[^key-8dcb244eee291d3f8bd0643769f6a553]
+## 14. Offences and penalties[^c-8dcb244eee291d3f8bd0643769f6a553]
 
 (1) A person is guilty of an offence if—
 
@@ -212,7 +212,7 @@ the officer or member (as well as the association) is guilty of that offence and
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-## 15. Revocations and saving provisions[^key-fc65eb6bf6af35ebce0a9398cb5b3406]
+## 15. Revocations and saving provisions[^c-fc65eb6bf6af35ebce0a9398cb5b3406]
 
 (1) Subject to paragraphs (2) and (3), the following regulations are revoked—
 
@@ -267,9 +267,9 @@ Regulation 15 revokes schemes of financial assistance to the fishing industry, t
 
 [^f00004]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-e84e80c3695780041a702529d13311ea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-e84e80c3695780041a702529d13311ea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-df32f9e566cbd32a5d16d1df4dcb2c38]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/399/regulation/2) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-df32f9e566cbd32a5d16d1df4dcb2c38]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/399/regulation/2) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
 [^f00005]: Footnote: O.J. No.L347, 20.12.13, p.320. The Department of Agriculture and Rural Development was designated as the intermediate body for Northern Ireland in respect of the EMFF Operational Programme by regulation 3(1)(c) of the Grants for Fishing and Aquaculture Industries Regulations 2015 \[[S.I. 2015/1711](https://www.legislation.gov.uk/uksi/2015/1711)\] and carries out those functions of the UK managing authority in Northern Ireland as are specified in the written arrangements made between the Department and the Marine Management Organisation.
 
@@ -277,33 +277,33 @@ Regulation 15 revokes schemes of financial assistance to the fishing industry, t
 
 [^f00007]: Footnote: [1954 c.33(NI)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-414725f3d63e9a94a1528c6b099da925]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/399/regulation/3) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-414725f3d63e9a94a1528c6b099da925]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/399/regulation/3) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-415b04c5651a5b9074a20ffd2ad8caa9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/399/regulation/4) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-415b04c5651a5b9074a20ffd2ad8caa9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/399/regulation/4) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-f8cc6281ed95ad0ae93e14357dafc027]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/399/regulation/5) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-f8cc6281ed95ad0ae93e14357dafc027]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/399/regulation/5) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-648b942d085e12f4e183e608b0608ad9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/399/regulation/6) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-648b942d085e12f4e183e608b0608ad9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/399/regulation/6) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-f348a72d0282bc2404dcab97d400c78c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/399/regulation/7) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-f348a72d0282bc2404dcab97d400c78c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/399/regulation/7) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-42f2cc57628b2af948515289cd3ab116]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/399/regulation/8) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-42f2cc57628b2af948515289cd3ab116]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/399/regulation/8) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-92a4b4e4d76df992cc9c52bafd76da77]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/399/regulation/9) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-92a4b4e4d76df992cc9c52bafd76da77]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/399/regulation/9) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-a569029c554de3a6106305847236b894]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/399/regulation/10) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-a569029c554de3a6106305847236b894]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/399/regulation/10) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-242d4a0027861c0e234d9eb1fb2ab955]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/399/regulation/11) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-242d4a0027861c0e234d9eb1fb2ab955]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/399/regulation/11) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-13de87f76dcc17d84186213516a737c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/399/regulation/12) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-13de87f76dcc17d84186213516a737c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/399/regulation/12) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-b053a2a7cd7a9a6af71930ea301a68e0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/399/regulation/13) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-b053a2a7cd7a9a6af71930ea301a68e0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/399/regulation/13) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-615506022e75a7bfbbb470027b77a619]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/13/2) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/209/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-615506022e75a7bfbbb470027b77a619]: Textual amendment: [Reg. 13(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/13/2) substituted (31.12.2020) by [The Fisheries (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/209)](https://www.legislation.gov.uk/uksi/2019/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/209/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2019/209/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8dcb244eee291d3f8bd0643769f6a553]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/399/regulation/14) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-8dcb244eee291d3f8bd0643769f6a553]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/399/regulation/14) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
-[^key-fc65eb6bf6af35ebce0a9398cb5b3406]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/399/regulation/15) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
+[^c-fc65eb6bf6af35ebce0a9398cb5b3406]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/399/regulation/15) in operation at 14.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/399/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2002 No.6](https://www.legislation.gov.uk/nisr/2002/6).
 

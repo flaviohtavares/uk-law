@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Consumer Credit (Notice of Variation of Agreements) Regulations 1977[^key-659079ca188a23d0799c9b0948f7b1ab]
+## 47. Consumer Credit (Notice of Variation of Agreements) Regulations 1977[^c-659079ca188a23d0799c9b0948f7b1ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-659079ca188a23d0799c9b0948f7b1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-659079ca188a23d0799c9b0948f7b1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-659079ca188a23d0799c9b0948f7b1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-659079ca188a23d0799c9b0948f7b1ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-659079ca188a23d0799c9b0948f7b1ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1010) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-659079ca188a23d0799c9b0948f7b1ab]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1010) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

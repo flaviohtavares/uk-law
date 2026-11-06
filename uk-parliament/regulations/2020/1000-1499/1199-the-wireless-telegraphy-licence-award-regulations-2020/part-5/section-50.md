@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Submission of principal stage form to OFCOM[^key-a5d0a882fa2998257722d20fd19d32e8]
+## 50. Submission of principal stage form to OFCOM[^c-a5d0a882fa2998257722d20fd19d32e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5d0a882fa2998257722d20fd19d32e8]: Commencement: Reg. 50 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-a5d0a882fa2998257722d20fd19d32e8]: Commencement: Reg. 50 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -29,11 +29,11 @@ summary: ''
 
 (3) Each local authority must make services available to each NHS body acting in its area, so far as is reasonably necessary and practicable to enable the NHS body to discharge its functions under this Act.
 
-(4)[^key-385d8b0ac64085708a9c6088defb6320] “services” means—
+(4)[^c-385d8b0ac64085708a9c6088defb6320] “services” means—
 
 - (a) in relation to a local authority in England, the services of persons employed by the authority for the purposes of its functions under the Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42);
 - (b) in relation to a local authority in Wales, the services of persons employed by the authority for the purposes of functions which are social services functions for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4).
 
 ## Annotations
 
-[^key-385d8b0ac64085708a9c6088defb6320]: Textual amendment: [S. 32(4)](https://www.legislation.gov.uk/ukpga/2006/42/section/32/4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [245](https://www.legislation.gov.uk/wsi/2016/413/regulation/245)
+[^c-385d8b0ac64085708a9c6088defb6320]: Textual amendment: [S. 32(4)](https://www.legislation.gov.uk/ukpga/2006/42/section/32/4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [245](https://www.legislation.gov.uk/wsi/2016/413/regulation/245)

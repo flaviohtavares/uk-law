@@ -40,55 +40,55 @@ Coming into operation
 
 1st September 2013
 
-[^key-78b7b17b9478dfae4762b874ed5a63a4]The Department of Enterprise, Trade and Investment (“**the Department**”) [^c21876151], is designated [^c21876161]for the purposes of section 2(2) of the European Communities Act 1972 (“**the 1972 Act**”) [^c21876171] in relation to the notification and control of substances and to measures relating to biocides.
+[^c-78b7b17b9478dfae4762b874ed5a63a4]The Department of Enterprise, Trade and Investment (“**the Department**”) [^c21876151], is designated [^c21876161]for the purposes of section 2(2) of the European Communities Act 1972 (“**the 1972 Act**”) [^c21876171] in relation to the notification and control of substances and to measures relating to biocides.
 
 The Department, being the Department concerned [^c21876181], makes the following Regulations in exercise of the powers conferred by section 2(2) of the 1972 Act [^c21876191] and Articles 40(2) and (4), and 55(2) of the Health and Safety at Work (Northern Ireland) Order 1978 [^c21876201] (“**the 1978 Order**”).
 
 The Regulations give effect without modifications to proposals submitted to the Department by the Health and Safety Executive for Northern Ireland under Article 13(1A) of the 1978 Order [^c21876211].
 
-## 1. Citation and commencement[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 1. Citation and commencement[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application within the territorial sea[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 2. Application within the territorial sea[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 3. Interpretation[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of the Member State[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 4. Functions of the Member State[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 5. Fees[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Annual charge[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 6. Annual charge[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Calculation of charge and number of persons liable to pay the charge[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 7. Calculation of charge and number of persons liable to pay the charge[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Notification of liability to pay[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## 8. Notification of liability to pay[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
@@ -96,11 +96,11 @@ The Regulations give effect without modifications to proposals submitted to the 
 
 ## 9. Revocations and savings provisions
 
-(1)[^key-78b7b17b9478dfae4762b874ed5a63a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-78b7b17b9478dfae4762b874ed5a63a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Regulation 39 of, and paragraphs 2, 3 and 7 to 12 of Schedule 11 to, the Biocidal Products Regulations (Northern Ireland) 2001 continue to apply for the purposes of calculating the fee payable in respect of the evaluation of applications for biocidal product authorisations submitted before 1st September 2013 for the purposes of Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8) [^c21876291] under Regulation 14(1) of the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2013.
 
-(3)[^key-78b7b17b9478dfae4762b874ed5a63a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-78b7b17b9478dfae4762b874ed5a63a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 2nd August 2013.
 
@@ -110,7 +110,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE 1 — ACTIVITIES IN RESPECT OF WHICH A FEE IS PAYABLE AND DAILY RATE[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## SCHEDULE 1 — ACTIVITIES IN RESPECT OF WHICH A FEE IS PAYABLE AND DAILY RATE[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
@@ -118,43 +118,43 @@ Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PREMISES AND ACTIVITIES WITHIN THE TERRITORIAL SEA[^key-78b7b17b9478dfae4762b874ed5a63a4]
+## SCHEDULE 2 — PREMISES AND ACTIVITIES WITHIN THE TERRITORIAL SEA[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 **No longer in force.**
 
 Regulation 2
 
-**1.**[^key-78b7b17b9478dfae4762b874ed5a63a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-78b7b17b9478dfae4762b874ed5a63a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Offshore installations[^key-78b7b17b9478dfae4762b874ed5a63a4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Wells[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 2. Offshore installations[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Pipelines[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 3. Wells[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Mines[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 4. Pipelines[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Gas Importation and Storage[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 5. Mines[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Production of Energy from Water or Wind[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 6. Gas Importation and Storage[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Underground Coal Gasification[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 7. Production of Energy from Water or Wind[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Other activities[^key-78b7b17b9478dfae4762b874ed5a63a4]
+### 8. Underground Coal Gasification[^c-78b7b17b9478dfae4762b874ed5a63a4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Other activities[^c-78b7b17b9478dfae4762b874ed5a63a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -178,7 +178,7 @@ In Great Britain the corresponding legislation is the Biocidal Products (Fees an
 
 ## Annotations
 
-[^key-78b7b17b9478dfae4762b874ed5a63a4]: Textual amendment: Regulations revoked (except reg. 9(2)) (1.7.2015) by [The Biocidal Products (Fees and Charges) Regulations (Northern Ireland) 2015 (S.R. 2015/254)](https://www.legislation.gov.uk/nisr/2015/254), [regs. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/254/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/nisr/2015/254/regulation/5/2))
+[^c-78b7b17b9478dfae4762b874ed5a63a4]: Textual amendment: Regulations revoked (except reg. 9(2)) (1.7.2015) by [The Biocidal Products (Fees and Charges) Regulations (Northern Ireland) 2015 (S.R. 2015/254)](https://www.legislation.gov.uk/nisr/2015/254), [regs. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2015/254/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/nisr/2015/254/regulation/5/2))
 
 [^c21876151]: Marginal citation: Formerly the Department of Economic Development; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), [Article 3(5)](https://www.legislation.gov.uk/nisi/1999/283/article/3/5); that Department was formerly the Department of Manpower Services; *see* [S.I. 1982/846 (N.I.11)](https://www.legislation.gov.uk/nisi/1982/846), [Article 3](https://www.legislation.gov.uk/nisi/1982/846/article/3)
 

@@ -36,7 +36,7 @@ summary: ''
 
 - (a) the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988 [^c2210285];
 - (b) the Housing Benefit Regulations 2006 [^c2210286]; or
-- (c) the 2006 (SPC) Regulations[^key-90490b41ee2d9cf628c674b35559e2b6].
+- (c) the 2006 (SPC) Regulations[^c-90490b41ee2d9cf628c674b35559e2b6].
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2210286]: Marginal citation: *See* regulations 99 to 107, as amended.
 
-[^key-90490b41ee2d9cf628c674b35559e2b6]: Textual amendment: Words in [reg. 10(3)(c)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/10/3/c) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/655/regulation/6/6)
+[^c-90490b41ee2d9cf628c674b35559e2b6]: Textual amendment: Words in [reg. 10(3)(c)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/10/3/c) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020 (S.I. 2020/655)](https://www.legislation.gov.uk/uksi/2020/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2020/655/regulation/6/6)

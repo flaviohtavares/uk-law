@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Public bodies and higher-risk building work[^key-60ab34ad1e97e50a4d6a7eef1950965f]
+## 54A. Public bodies and higher-risk building work[^c-60ab34ad1e97e50a4d6a7eef1950965f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60ab34ad1e97e50a4d6a7eef1950965f]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/1984/55/section/54A) inserted (1.4.2023 except in relation to W., 5.9.2023 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 47](https://www.legislation.gov.uk/ukpga/2022/30/section/47), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/e); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xi)
+[^c-60ab34ad1e97e50a4d6a7eef1950965f]: Textual amendment: [S. 54A](https://www.legislation.gov.uk/ukpga/1984/55/section/54A) inserted (1.4.2023 except in relation to W., 5.9.2023 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 47](https://www.legislation.gov.uk/ukpga/2022/30/section/47), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/e); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xi)

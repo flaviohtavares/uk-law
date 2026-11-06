@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education Workforce Council (Registration Fees) (Wales) Regulations 2016 (revoked)[^key-bec146cdd90009da11ff1b97ce618aac]
+The Education Workforce Council (Registration Fees) (Wales) Regulations 2016 (revoked)[^c-bec146cdd90009da11ff1b97ce618aac]
 
 Made
 
@@ -43,82 +43,82 @@ Coming into force
 
 except as provided for in regulation 1(1)
 
-[^key-bec146cdd90009da11ff1b97ce618aac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bec146cdd90009da11ff1b97ce618aac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-bec146cdd90009da11ff1b97ce618aac]
+## 1. Title, commencement and application[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-bec146cdd90009da11ff1b97ce618aac]
+## 2. Revocation[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-bec146cdd90009da11ff1b97ce618aac]
+## 3. Interpretation[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount of registration fee payable[^key-bec146cdd90009da11ff1b97ce618aac]
+## 4. Amount of registration fee payable[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provision to be made by the Council in relation to fees[^key-bec146cdd90009da11ff1b97ce618aac]
+## 5. Provision to be made by the Council in relation to fees[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Information to be supplied by an employer to the Council on request[^key-bec146cdd90009da11ff1b97ce618aac]
+## 6. Information to be supplied by an employer to the Council on request[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Deduction of fee[^key-bec146cdd90009da11ff1b97ce618aac]
+## 7. Deduction of fee[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Remittance of fees to the Council[^key-bec146cdd90009da11ff1b97ce618aac]
+## 8. Remittance of fees to the Council[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Information to be supplied to the Council by the employer with the fee[^key-bec146cdd90009da11ff1b97ce618aac]
+## 9. Information to be supplied to the Council by the employer with the fee[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Failure to discharge duty[^key-bec146cdd90009da11ff1b97ce618aac]
+## 10. Failure to discharge duty[^c-bec146cdd90009da11ff1b97ce618aac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bec146cdd90009da11ff1b97ce618aac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bec146cdd90009da11ff1b97ce618aac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — INFORMATION TO BE SUPPLIED TO THE COUNCIL[^key-bec146cdd90009da11ff1b97ce618aac]
+## SCHEDULE — INFORMATION TO BE SUPPLIED TO THE COUNCIL[^c-bec146cdd90009da11ff1b97ce618aac]
 
 Regulation 6
 
-**1.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bec146cdd90009da11ff1b97ce618aac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bec146cdd90009da11ff1b97ce618aac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bec146cdd90009da11ff1b97ce618aac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bec146cdd90009da11ff1b97ce618aac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2016/27) revoked (1.4.2017) by [The Education Workforce Council (Registration Fees) Regulations 2017 (S.I. 2017/92)](https://www.legislation.gov.uk/wsi/2017/92), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2017/92/regulation/2)
+[^c-bec146cdd90009da11ff1b97ce618aac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2016/27) revoked (1.4.2017) by [The Education Workforce Council (Registration Fees) Regulations 2017 (S.I. 2017/92)](https://www.legislation.gov.uk/wsi/2017/92), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/92/regulation/1/1), [2](https://www.legislation.gov.uk/wsi/2017/92/regulation/2)

@@ -37,13 +37,13 @@ the court may direct that the transfer direction shall cease to have effect notw
 
 (6) If the accused is committed to the Crown Court as mentioned in paragraph (2) and the transfer direction has not ceased to have effect under paragraph (5), Article 57 shall apply as if the transfer direction given in his case were a direction given in respect of a person falling within that Article.
 
-(7) The magistrates' court may, in the absence of the accused, conduct a [^key-4e4b8909ec7b58a865f71a2a5bc8c726]... preliminary inquiry into an offence alleged to have been committed by him and commit him for trial in accordance with Article 37 of the [^m00012] Magistrates' Courts (Northern Ireland) Order 1981 if—
+(7) The magistrates' court may, in the absence of the accused, conduct a [^c-4e4b8909ec7b58a865f71a2a5bc8c726]... preliminary inquiry into an offence alleged to have been committed by him and commit him for trial in accordance with Article 37 of the [^m00012] Magistrates' Courts (Northern Ireland) Order 1981 if—
 
 - (a) the court is satisfied on the written or oral evidence of the responsible medical officer, that the accused is unfit to take part in the proceedings; and
 - (b) the accused is represented by counsel or a solicitor.
 
 ## Annotations
 
-[^key-4e4b8909ec7b58a865f71a2a5bc8c726]: Textual amendment: Words in [art. 58(7)](https://www.legislation.gov.uk/nisi/1986/595/article/58/7) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 9](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/9); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-4e4b8909ec7b58a865f71a2a5bc8c726]: Textual amendment: Words in [art. 58(7)](https://www.legislation.gov.uk/nisi/1986/595/article/58/7) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 9](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/9); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^m00012]: Marginal citation: 1981 NI 26

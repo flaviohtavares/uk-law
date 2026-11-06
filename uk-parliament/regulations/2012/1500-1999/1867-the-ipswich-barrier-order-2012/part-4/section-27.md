@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Temporary possession of land for construction purposes[^key-830ba5ae46cc4b53197bd7976fa14138]
+## 27. Temporary possession of land for construction purposes[^c-830ba5ae46cc4b53197bd7976fa14138]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-830ba5ae46cc4b53197bd7976fa14138]: Commencement: Art. 27 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-830ba5ae46cc4b53197bd7976fa14138]: Commencement: Art. 27 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Application of aspects of UK law to SOCA employees working abroad[^key-102e093c5e2328274043b2cd14eaaac2]
+## 109. Application of aspects of UK law to SOCA employees working abroad[^c-102e093c5e2328274043b2cd14eaaac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In paragraph 20 of Schedule 1 to the Serious Organised Crime and Police Act 2005
 
 ## Annotations
 
-[^key-102e093c5e2328274043b2cd14eaaac2]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2009/26/section/109) in force at 6.11.2010 by [S.I. 2010/1986](https://www.legislation.gov.uk/uksi/2010/1986), [art. 2](https://www.legislation.gov.uk/uksi/2010/1986/article/2)
+[^c-102e093c5e2328274043b2cd14eaaac2]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2009/26/section/109) in force at 6.11.2010 by [S.I. 2010/1986](https://www.legislation.gov.uk/uksi/2010/1986), [art. 2](https://www.legislation.gov.uk/uksi/2010/1986/article/2)

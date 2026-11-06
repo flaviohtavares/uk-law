@@ -31,7 +31,7 @@ summary: ''
 
 Court Of Session
 
-Act of Sederunt (Registration Appeal Court) 2013 (revoked)[^key-d395b7012213fc776179134e33678f0f]
+Act of Sederunt (Registration Appeal Court) 2013 (revoked)[^c-d395b7012213fc776179134e33678f0f]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 19th August 2013
 
-[^key-d395b7012213fc776179134e33678f0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d395b7012213fc776179134e33678f0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d395b7012213fc776179134e33678f0f]
+## 1. Citation and commencement[^c-d395b7012213fc776179134e33678f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration Appeal Court[^key-d395b7012213fc776179134e33678f0f]
+## 2. Registration Appeal Court[^c-d395b7012213fc776179134e33678f0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d395b7012213fc776179134e33678f0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d395b7012213fc776179134e33678f0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d395b7012213fc776179134e33678f0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d395b7012213fc776179134e33678f0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d395b7012213fc776179134e33678f0f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2013/236) revoked (27.9.2016) by [Act of Sederunt (Registration Appeal Court) 2016 (S.S.I. 2016/241)](https://www.legislation.gov.uk/ssi/2016/241), [para. 2(2)](https://www.legislation.gov.uk/ssi/2016/241/paragraph/2/2)
+[^c-d395b7012213fc776179134e33678f0f]: Textual amendment: [Instrument](https://www.legislation.gov.uk/ssi/2013/236) revoked (27.9.2016) by [Act of Sederunt (Registration Appeal Court) 2016 (S.S.I. 2016/241)](https://www.legislation.gov.uk/ssi/2016/241), [para. 2(2)](https://www.legislation.gov.uk/ssi/2016/241/paragraph/2/2)

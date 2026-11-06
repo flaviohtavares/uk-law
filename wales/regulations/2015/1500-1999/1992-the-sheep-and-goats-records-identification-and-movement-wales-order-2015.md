@@ -45,7 +45,7 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 ## PART 1 — Introduction
 
-### 1. Title, application and commencement[^key-62a9682a2f117e8a6b643e72cbc13ca1]
+### 1. Title, application and commencement[^c-62a9682a2f117e8a6b643e72cbc13ca1]
 
 (1) The title of this Order is the Sheep and Goats (Records, Identification and Movement) (Wales) Order 2015.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 (3) This Order comes into force on 1 January 2016 except for Part 8 which comes into force on 18 January 2016.
 
-### 2. Interpretation[^key-a6c1d9ca8ed4511af291338ae7bc0b63]
+### 2. Interpretation[^c-a6c1d9ca8ed4511af291338ae7bc0b63]
 
 (1) In this Order—
 
@@ -63,7 +63,7 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 - “collection centre” (“*canolfan gasglu*”) means premises used for the intermediate reception of animals intended to be moved elsewhere (but does not include a market or other place used for the sale or trading of animals unless all the animals there are intended for immediate slaughter);
 - “Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102)” (“*Cyfarwyddeb y Cyngor [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102)*”) means Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) on the identification and registration of animals[^f00002];
 - “the Council Regulation” (“*Rheoliad y Cyngor*”) means Council Regulation [(EC) No. 21/2004](https://www.legislation.gov.uk/european/regulation/2004/0021) establishing a system for the identification and registration of ovine and caprine animals and amending Regulation [(EC) No. 1782/2003](https://www.legislation.gov.uk/european/regulation/2003/1782) and Directives [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102) and [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432)[^f00003] as amended from time to time;
-- “export” (“*allforio*”) means sending to a[^key-193abf4a0a075a4322392fadb0f898b6] member State or a third country;
+- “export” (“*allforio*”) means sending to a[^c-193abf4a0a075a4322392fadb0f898b6] member State or a third country;
 - “flockmark” (“*nod diadell*”) means the number allocated by the Welsh Ministers in respect of a flock of sheep on a holding;
 - “holding” (“*daliad*”) has the meaning given in Article 2 of the Council Regulation;
 - “identification code” (“*cod adnabod*”) means the code set out on a means of identification as required under this Order or under the previous Orders;
@@ -106,21 +106,21 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 (2) Expressions not defined in paragraph (1) which are used in this Order and which are also used in the Council Regulation have the same meaning in this Order as they have in that Regulation.
 
-### 3. Competent authority[^key-5709fb35dc758993ed5b1d870cc65931]
+### 3. Competent authority[^c-5709fb35dc758993ed5b1d870cc65931]
 
 The Welsh Ministers are the competent authority for the purposes of the Council Regulation.
 
-### 4. Authorisations[^key-f14a4059a6998c595588d3f97057af7a]
+### 4. Authorisations[^c-f14a4059a6998c595588d3f97057af7a]
 
 Any authorisations or approvals issued under this Order or the Council Regulation must be in writing, may be made subject to conditions, and may be amended, suspended or revoked by notice at any time.
 
 ## PART 2 — Identification devices
 
-### 5. Approval of identification devices[^key-d93460ffc4aedbbbb9639abe648dd28b]
+### 5. Approval of identification devices[^c-d93460ffc4aedbbbb9639abe648dd28b]
 
 Identification devices used to comply with this Order must be of a model approved by the Welsh Ministers.
 
-### 6. Additional tags and identification devices with additional information[^key-3d4560d137d8de21836d911d73a8f851]
+### 6. Additional tags and identification devices with additional information[^c-3d4560d137d8de21836d911d73a8f851]
 
 (1) At the request of a keeper, a manufacturer of identification devices may, subject to article 6(2), add supplementary information to an identification device or replacement device provided that—
 
@@ -129,7 +129,7 @@ Identification devices used to comply with this Order must be of a model approve
 
 (2) A keeper may apply an additional tag to an animal but it must not contain the letters “UK” or bear a flockmark or herdmark, unless authorised by the Welsh Ministers.
 
-### 7. Colour of identification devices[^key-b71a14dcfc49c1d527ebb7fe9ad0eda0]
+### 7. Colour of identification devices[^c-b71a14dcfc49c1d527ebb7fe9ad0eda0]
 
 (1) All electronic identification devices, other than replacement devices and boluses, must be yellow and no keeper may apply a yellow identification device that is not electronic.
 
@@ -143,7 +143,7 @@ Identification devices used to comply with this Order must be of a model approve
 
 (6) The fixing mechanism of a yellow, red or black eartag may be of any colour.
 
-### 8. Destruction of identification devices[^key-efb4d648056101da7f40b7ff59d62759]
+### 8. Destruction of identification devices[^c-efb4d648056101da7f40b7ff59d62759]
 
 (1) The operator of a slaughterhouse, knackers yard, hunt kennels or rendering plant and any other person who finally disposes of an identified animal carcass must destroy in a secure manner which prevents reuse of all identification devices on animals they slaughter or otherwise dispose of.
 
@@ -151,7 +151,7 @@ Identification devices used to comply with this Order must be of a model approve
 
 ## PART 3 — Identification of animals
 
-### 9. Identification of animals on or after 1 January 2016[^key-40dbdd2ada353f5cd64c61d106c20320]
+### 9. Identification of animals on or after 1 January 2016[^c-40dbdd2ada353f5cd64c61d106c20320]
 
 (1) This article applies to—
 
@@ -175,7 +175,7 @@ Identification devices used to comply with this Order must be of a model approve
 
 and must be identical on the first and second means of identification.
 
-### 10. Identification of animals intended for slaughter[^key-04ab22c8cb634c80a501c356253644c3]
+### 10. Identification of animals intended for slaughter[^c-04ab22c8cb634c80a501c356253644c3]
 
 (1) For animals intended for slaughter before the age of 12 months and not intended for export, the identification method in Section A.7 of the Annex to the Council Regulation is authorised, and that identification method must be electronic in the case of sheep.
 
@@ -192,17 +192,17 @@ and must be identical on the first and second means of identification.
 
 (6) A keeper may re-identify a goat identified under paragraph (1) by using an eartag of the kind described in paragraph (2) which includes an electronic identifier.
 
-### 11. Animals born and identified before 1 January 2016[^key-2a86b6518263cd4b3b5eb978a1d6cb0d]
+### 11. Animals born and identified before 1 January 2016[^c-2a86b6518263cd4b3b5eb978a1d6cb0d]
 
 Part 3 of the Sheep and Goats (Records, Identification and Movement) (Wales) Order 2009, in the form in which it existed immediately before the coming into force of this Order, continues to apply to animals born and identified before 1 January 2016, save that sheep intended for slaughter before the age of 12 months and not intended for export and identified before 1 January 2016 using the method in Section A.7 of the Annex to the Council Regulation may continue to be identified in accordance with that method until 30 June 2017. The animal must then be identified in accordance with article 9 and the original non-electronic eartag removed.
 
 ## PART 4 — Removal or replacement of means of identification of animals identified under Part 3
 
-### 12. Application of Part 4[^key-46531d9d60dcce7bccba389dfced3fdc]
+### 12. Application of Part 4[^c-46531d9d60dcce7bccba389dfced3fdc]
 
 This Part applies to all animals identified under Part 3.
 
-### 13. Removal or replacement of means of identification[^key-71ff91243ccd6e3637ce15f7673e7fb9]
+### 13. Removal or replacement of means of identification[^c-71ff91243ccd6e3637ce15f7673e7fb9]
 
 (1) No person may contravene or fail to comply with Article 4(6) (first paragraph) of the Council Regulation.
 
@@ -218,13 +218,13 @@ This Part applies to all animals identified under Part 3.
 - (a) the means of identification was removed to prevent unnecessary pain to an animal; and
 - (b) a replacement means of identification bearing the same identification code was applied to the animal as soon as possible.
 
-### 14. Replacement of the means of identification for animals identified according to article 9 or article 11[^key-5837535a80ad73ba90150e2f809a2c6f]
+### 14. Replacement of the means of identification for animals identified according to article 9 or article 11[^c-5837535a80ad73ba90150e2f809a2c6f]
 
 (1) Where an animal identified according to article 9 or article 11 loses one means of identification, or that means of identification becomes illegible, the means of identification is replaced in accordance with this article if it is replaced with one bearing the same 12 digit number or the remaining identification device is removed and the animal is re-identified according to article 9 or article 11.
 
 (2) Where an animal identified according to article 9 or article 11 loses both means of identification, or both means of identification become illegible, it is re-identified according to this article if it is re-identified according to article 9 or article 11.
 
-### 15. Replacement of lost or illegible means of identification for animals identified according to article 10 or article 11[^key-8018bbf3cc38d24bc42c22e5a79943f1]
+### 15. Replacement of lost or illegible means of identification for animals identified according to article 10 or article 11[^c-8018bbf3cc38d24bc42c22e5a79943f1]
 
 (1) Where an animal identified according to article 10 or article 11 loses its eartag or that eartag becomes illegible and is on its holding of birth it is re-identified according to this article if the eartag is replaced with an eartag bearing the same flockmark or herdmark.
 
@@ -232,7 +232,7 @@ This Part applies to all animals identified under Part 3.
 
 ## PART 5 — Identification of goats born on or after 1 January 2016
 
-### 16. Identification of goats[^key-0190cceb4145f3642a412b4072c14ec8]
+### 16. Identification of goats[^c-0190cceb4145f3642a412b4072c14ec8]
 
 (1) Where a goat is on its holding of birth and has not been identified before 1 January 2016 the keeper must, if they have not identified it in accordance with Part 3, identify it within the time limits specified in article 9(3), with either—
 
@@ -247,17 +247,17 @@ This Part applies to all animals identified under Part 3.
 
 and must be identical on the first and second means of identification.
 
-### 17. Re-identification of goats[^key-c818f611c78a7d7b375204074263f03c]
+### 17. Re-identification of goats[^c-c818f611c78a7d7b375204074263f03c]
 
 Goats identified in accordance with article 16 may be re-identified in accordance with article 9.
 
 ## PART 6 — Removal or replacement of identification marks on animals identified before 1 January 2016
 
-### 18. Application of Part 6[^key-cbc69e6b1cd7faaa6b55f1d3e867d2ad]
+### 18. Application of Part 6[^c-cbc69e6b1cd7faaa6b55f1d3e867d2ad]
 
 This Part applies to all animals identified before 1 January 2016 and to goats identified in accordance with article 16.
 
-### 19. Removal or replacement of identification marks[^key-ac4fcde548ac1c1f4e4e6064b5933889]
+### 19. Removal or replacement of identification marks[^c-ac4fcde548ac1c1f4e4e6064b5933889]
 
 (1) No person may contravene or fail to comply with Article 4(6) (first paragraph) of the Council Regulation.
 
@@ -275,7 +275,7 @@ This Part applies to all animals identified before 1 January 2016 and to goats i
 
 (5) A keeper may at any time remove identification marks and re-identify the animal in accordance with article 9.
 
-### 20. Replacement of a single identification mark on a double-tagged animal[^key-20e446d98e77be422420df246680e0c0]
+### 20. Replacement of a single identification mark on a double-tagged animal[^c-20e446d98e77be422420df246680e0c0]
 
 An animal is re-identified according to this article if the missing or illegible means of identification is replaced with—
 
@@ -283,7 +283,7 @@ An animal is re-identified according to this article if the missing or illegible
 - (b) two non-electronic means of identification, both bearing the same number; or
 - (c) the means of identification specified in Article 4(1) (first paragraph), Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation.
 
-### 21. Replacement of an identification mark on a single tagged animal[^key-687a508f90d417e0013fc194e697aaca]
+### 21. Replacement of an identification mark on a single tagged animal[^c-687a508f90d417e0013fc194e697aaca]
 
 (1) This article applies where the means of identification or older means of identification on a single-identified animal is lost or illegible.
 
@@ -307,7 +307,7 @@ An animal is re-identified according to this article if the missing or illegible
 
 (6) If an animal is re-identified by the means of identification referred to in paragraph (5)(b) to (d) the keeper must record information about the replacement including the full identification code on the replacement and record the letters or flockmark or herdmark on the original means of identification, if known, within the holding register.
 
-### 22. Re-identification of animals identified under the previous Orders with a means of identification that does not contain a unique number[^key-31e4c5ad384c70d7f89624b8d07e5b4a]
+### 22. Re-identification of animals identified under the previous Orders with a means of identification that does not contain a unique number[^c-31e4c5ad384c70d7f89624b8d07e5b4a]
 
 (1) This article applies to animals identified under the previous Orders with a means of identification that does not contain a unique number.
 
@@ -339,7 +339,7 @@ the animal must be re-identified in accordance with paragraphs (3) or (4).
 
 ## PART 7 — Holding registers
 
-### 23. Holding register[^key-a096447465aba90512f3de9801d9a475]
+### 23. Holding register[^c-a096447465aba90512f3de9801d9a475]
 
 (1) It is an offence for a keeper, other than a transporter, to fail to comply with Article 5(1), (3) and (5) of the Council Regulation.
 
@@ -373,7 +373,7 @@ the animal must be re-identified in accordance with paragraphs (3) or (4).
 
 ## PART 8 — Movement documents
 
-### 24. Central database and movement document[^key-1aafe104b23735b76c19a50573ff2eb9]
+### 24. Central database and movement document[^c-1aafe104b23735b76c19a50573ff2eb9]
 
 (1) The Welsh Ministers may appoint a person to operate a computerised central database to record animal movements capable of accepting notification of movements electronically.
 
@@ -415,7 +415,7 @@ the keeper need not complete a movement document.
 
 and the keeper must keep any copies in chronological order.
 
-### 25. Supply of movement document[^key-3a83f2e32869bed25a67425a1f937d71]
+### 25. Supply of movement document[^c-3a83f2e32869bed25a67425a1f937d71]
 
 (1) When an animal is moved onto a holding the transporter of that animal must give to the keeper at that holding—
 
@@ -430,13 +430,13 @@ and the keeper must keep any copies in chronological order.
 
 ## PART 9 — Central database
 
-### 26. Inventory of animals[^key-5a94caaabf1dcaf797f6ad2e285c31dd]
+### 26. Inventory of animals[^c-5a94caaabf1dcaf797f6ad2e285c31dd]
 
 For the purpose of Article 7(2) of the Council Regulation, a keeper who keeps animals permanently must make an annual inventory of the number of animals on that keeper’s holding within 30 days of a date specified by the Welsh Ministers.
 
-**27.**[^key-e461766cf4654265f55bd5ac857e0df6] It is an offence for a keeper to fail to comply with article 26.
+**27.**[^c-e461766cf4654265f55bd5ac857e0df6] It is an offence for a keeper to fail to comply with article 26.
 
-### 28. Supply of information[^key-9d0c4657073aaf0e46f7578a101bdc3d]
+### 28. Supply of information[^c-9d0c4657073aaf0e46f7578a101bdc3d]
 
 (1) On receiving notification under Article 8(2) of the Council Regulation that a person has become the keeper on a holding, the Welsh Ministers must, subject to paragraph (2), allocate a flockmark in respect of each flock of sheep on the holding and a herdmark in respect of each herd of goats on the holding.
 
@@ -450,7 +450,7 @@ For the purpose of Article 7(2) of the Council Regulation, a keeper who keeps an
 
 ## PART 10 — Markets
 
-### 29. Markets[^key-e0a313d51fbc7249b818387f7c256e59]
+### 29. Markets[^c-e0a313d51fbc7249b818387f7c256e59]
 
 (1) A market operator must ensure that all animals are divided into lots of one or more animals immediately upon their arrival at the market and that a lot number is allocated to each lot.
 
@@ -463,13 +463,13 @@ For the purpose of Article 7(2) of the Council Regulation, a keeper who keeps an
 - (a) it is identified in accordance with this Order; and
 - (b) it is accompanied by a movement document which is completed in accordance with Part 8.
 
-### 30. Replacement of identification marks lost at markets[^key-f7585a6f320e2df6e13feb2588f3e813]
+### 30. Replacement of identification marks lost at markets[^c-f7585a6f320e2df6e13feb2588f3e813]
 
 (1) The requirements in this Order to replace an identification mark do not apply to a market operator or slaughterhouse operator.
 
 (2) If an identification mark is removed, lost or discovered to be illegible while an animal is at a market, the keeper who purchases the animal at the market must apply a replacement in accordance with this Order.
 
-### 31. Contingency planning for power and equipment failures[^key-33093d09e8269562e864621492ee4319]
+### 31. Contingency planning for power and equipment failures[^c-33093d09e8269562e864621492ee4319]
 
 (1) Local authorities may exempt operators of central points of recording from the need to record electronically—
 
@@ -492,16 +492,16 @@ where a contingency plan has been agreed between the local authority and the ope
 
 ## PART 11 — Animals brought into Wales
 
-### 32. Receipt of animals from a member State[^key-4e4564a7dd873529e443bbf2ea72399a][^key-6490e0fc39703df8527d77a0f54c3e88]
+### 32. Receipt of animals from a member State[^c-4e4564a7dd873529e443bbf2ea72399a][^c-6490e0fc39703df8527d77a0f54c3e88]
 
-(1) No person may receive an animal from a[^key-f0abfb2c3c6cf7b2a3955fca700659fe] member State unless it is identified in accordance with—
+(1) No person may receive an animal from a[^c-f0abfb2c3c6cf7b2a3955fca700659fe] member State unless it is identified in accordance with—
 
 - (a) the Council Regulation, in the case of an animal born after 9 July 2005; or
 - (b) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal born on or before 9 July 2005.
 
-(2) It is an offence to remove or replace the original method of identification of an animal originating in a[^key-06f9fde2307b241ae4881c3a3fe0b6c1] member State in contravention of Article 4(5) of the Council Regulation.
+(2) It is an offence to remove or replace the original method of identification of an animal originating in a[^c-06f9fde2307b241ae4881c3a3fe0b6c1] member State in contravention of Article 4(5) of the Council Regulation.
 
-### 33. Receipt of animals from England, Scotland, Northern Ireland or the Crown Dependencies[^key-9b55413a9db6c427460a3bea99625f9f]
+### 33. Receipt of animals from England, Scotland, Northern Ireland or the Crown Dependencies[^c-9b55413a9db6c427460a3bea99625f9f]
 
 No person may receive an animal from England, Scotland, Northern Ireland, the Channel Islands or the Isle of Man unless it is identified and accompanied by a movement document in accordance with—
 
@@ -509,7 +509,7 @@ No person may receive an animal from England, Scotland, Northern Ireland, the Ch
 - (b) in the case of an animal from England, Scotland or Northern Ireland born on or before 9 July 2005, the previous Orders and any additional requirements imposed in legislation enforcing the Council Regulation in relation to those animals; or
 - (c) in the case of animals from the Crown Dependencies born on or before 9 July 2005, Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102).
 
-### 34. Identification of animals imported from third countries[^key-98d5b73f7388e07b92ec750a30010399]
+### 34. Identification of animals imported from third countries[^c-98d5b73f7388e07b92ec750a30010399]
 
 (1) It is an offence for a keeper to fail to comply with Article 4(4) of the Council Regulation and this article.
 
@@ -522,23 +522,23 @@ No person may receive an animal from England, Scotland, Northern Ireland, the Ch
 
 (4) Where an animal is imported from a third country and re-identified according to this article, the keeper must record information about the addition of the new means identification in the register together with the full identification code on the new means of identification and the full code on the method of identification applied in the third country.
 
-### 35. Loss of methods of identification applied in a third country[^key-153293ec74f694a5f3d998b11ea2ca4d]
+### 35. Loss of methods of identification applied in a third country[^c-153293ec74f694a5f3d998b11ea2ca4d]
 
 Where an animal is imported from a third country and re-identified in accordance with Article 4(4) of the Council Regulation, the keeper is not required to replace a method of identification applied in the third country if it subsequently becomes lost or illegible.
 
 ## PART 12 — Miscellaneous
 
-### 36. Identification and recording of animals for export[^key-a05e7b04dca6d841d0fb5358ef12c12b]
+### 36. Identification and recording of animals for export[^c-a05e7b04dca6d841d0fb5358ef12c12b]
 
 (1) A keeper must identify all animals consigned for export in accordance with Article 4(2)(a) and (b) and Article 9(3) of the Council Regulation.
 
 (2) Once an animal identified before 1 January 2016 is consigned for export the keeper must record its individual identity in the holding register and may not export that animal until 30 days after its identity has been recorded.
 
-### 37. Defence related to movement for emergency veterinary treatment[^key-3cedab4913e21394f9138232fca607ed]
+### 37. Defence related to movement for emergency veterinary treatment[^c-3cedab4913e21394f9138232fca607ed]
 
 It is a defence for any person charged with an offence of contravening or failing to comply with any provision in this Order relating to the movement of an animal from a holding without attaching or applying the required means of identification to prove that the animal was moved from the holding for the purposes of emergency veterinary treatment.
 
-### 38. Powers of inspectors[^key-fa5af6e934b0f40f7fbf14fc18d65693]
+### 38. Powers of inspectors[^c-fa5af6e934b0f40f7fbf14fc18d65693]
 
 (1) An inspector may, for any purpose relating to the enforcement of this Order—
 
@@ -548,11 +548,11 @@ It is a defence for any person charged with an offence of contravening or failin
 - (d) have access to, and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with records;
 - (e) where a record is kept by means of a computer, require the record to be produced in a form which may be taken away;
 - (f) require the production of any unused identification devices, and record their numbers;
-- (g) take with them [^key-7a8b7099482f714c19268be5e85d89c2]... any people or things they consider necessary.
+- (g) take with them [^c-7a8b7099482f714c19268be5e85d89c2]... any people or things they consider necessary.
 
 (2) A person required to do anything by an inspector acting under paragraph (1) must, unless they have reasonable cause, do so without delay and proof of any such reasonable cause lies on that person.
 
-### 39. Power to prohibit movement of animals[^key-3f21a9067ea6450aefa116b84a7be31e]
+### 39. Power to prohibit movement of animals[^c-3f21a9067ea6450aefa116b84a7be31e]
 
 (1) An inspector may, by serving notice on a keeper, prohibit the movement of sheep onto or from the holding specified in the notice, if the inspector is satisfied that the prohibition is necessary for the proper enforcement of this Order in relation to that flock.
 
@@ -560,20 +560,20 @@ It is a defence for any person charged with an offence of contravening or failin
 
 (3) A notice served under this article may be amended or revoked by further notice at any time.
 
-### 40. False information[^key-8d53b4b49e511f01f8b39eda16f36f65]
+### 40. False information[^c-8d53b4b49e511f01f8b39eda16f36f65]
 
 No person may furnish information which they know to be false or misleading to a person acting under this Order.
 
-### 41. Alteration of identification marks[^key-004bf2e4cb48ab01bc5531c45dd7a607]
+### 41. Alteration of identification marks[^c-004bf2e4cb48ab01bc5531c45dd7a607]
 
 No person may alter, obliterate or deface the information on any identification mark attached to an animal under—
 
 - (a) the Council Regulation;
 - (b) this Order or any provision that gives effect to the Council Regulation in England, Scotland, or Northern Ireland;
 - (c) the previous Orders; or
-- (d) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal marked in a[^key-a71c8a7bd2e746ab43e1f3104d0dcc8d] member State in accordance with that Directive.
+- (d) Council Directive [92/102/EEC](https://www.legislation.gov.uk/european/directive/1992/0102), in the case of an animal marked in a[^c-a71c8a7bd2e746ab43e1f3104d0dcc8d] member State in accordance with that Directive.
 
-### 42. Offences by bodies corporate[^key-4a29e5ae698aef2911c7cfcc2636ca9c]
+### 42. Offences by bodies corporate[^c-4a29e5ae698aef2911c7cfcc2636ca9c]
 
 (1) If an offence against the Animal Health Act 1981 committed by a body corporate is shown—
 
@@ -586,7 +586,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (3) “Officer” (“*swyddog*”), in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity.
 
-### 43. Offences by partnerships and unincorporated associations[^key-28fb8b4ac29fe494400efbd5eb833ff5]
+### 43. Offences by partnerships and unincorporated associations[^c-28fb8b4ac29fe494400efbd5eb833ff5]
 
 (1) Proceedings for an offence under this Order alleged to have been committed by a partnership or an unincorporated association may be brought in the name of the partnership or association.
 
@@ -605,13 +605,13 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (7) For the purposes of paragraph (6), “officer” (“*swyyddog*”) means an officer of the association or a member of its governing body or a person purporting to act in such a capacity.
 
-### 44. Enforcement[^key-e8505c4fdfb4ef3d9ca644a4700dd6ea]
+### 44. Enforcement[^c-e8505c4fdfb4ef3d9ca644a4700dd6ea]
 
 (1) This Order is enforced by the local authority.
 
 (2) The Welsh Ministers may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority by this Order must be discharged by the Welsh Ministers and not by the local authority.
 
-### 45. Revocation[^key-8028492ce386ed668df8529250f89a77]
+### 45. Revocation[^c-8028492ce386ed668df8529250f89a77]
 
 The Sheep and Goats (Records, Identification and Movement) (Wales) Order 2009[^f00026] is revoked.
 
@@ -655,15 +655,15 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions under the Act are exercisable by the Welsh Ministers (in relation to Wales) by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); the National Assembly for Wales (Transfer of Functions) Order 2004 ([S.I. 2004/3044](https://www.legislation.gov.uk/uksi/2004/3044)); and section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-62a9682a2f117e8a6b643e72cbc13ca1]: Commencement: Art. 1 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-62a9682a2f117e8a6b643e72cbc13ca1]: Commencement: Art. 1 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-a6c1d9ca8ed4511af291338ae7bc0b63]: Commencement: Art. 2 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-a6c1d9ca8ed4511af291338ae7bc0b63]: Commencement: Art. 2 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
 [^f00002]: Footnote: OJ No L 355, 5.12.92, p. 32 repealed by Directive [2008/71/EC](https://www.legislation.gov.uk/european/directive/2008/0071). Older animals will still be identified in accordance with this Order.
 
 [^f00003]: Footnote: OJ No L 5, 9.1.04, p. 8.
 
-[^key-193abf4a0a075a4322392fadb0f898b6]: Textual amendment: Word in art. 2(1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-193abf4a0a075a4322392fadb0f898b6]: Textual amendment: Word in art. 2(1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [S.I. 2009/3364 (W. 296)](https://www.legislation.gov.uk/wsi/2009/3364).
 
@@ -705,104 +705,104 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00023]: Footnote: [S.S.I. 2000/418](https://www.legislation.gov.uk/ssi/2000/418), amended by [S.S.I. 2002/531](https://www.legislation.gov.uk/ssi/2002/531) and [S.S.I. 2002/39](https://www.legislation.gov.uk/ssi/2002/39).
 
-[^key-5709fb35dc758993ed5b1d870cc65931]: Commencement: Art. 3 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-5709fb35dc758993ed5b1d870cc65931]: Commencement: Art. 3 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-f14a4059a6998c595588d3f97057af7a]: Commencement: Art. 4 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-f14a4059a6998c595588d3f97057af7a]: Commencement: Art. 4 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-d93460ffc4aedbbbb9639abe648dd28b]: Commencement: Art. 5 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-d93460ffc4aedbbbb9639abe648dd28b]: Commencement: Art. 5 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-3d4560d137d8de21836d911d73a8f851]: Commencement: Art. 6 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-3d4560d137d8de21836d911d73a8f851]: Commencement: Art. 6 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-b71a14dcfc49c1d527ebb7fe9ad0eda0]: Commencement: Art. 7 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-b71a14dcfc49c1d527ebb7fe9ad0eda0]: Commencement: Art. 7 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-efb4d648056101da7f40b7ff59d62759]: Commencement: Art. 8 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-efb4d648056101da7f40b7ff59d62759]: Commencement: Art. 8 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-40dbdd2ada353f5cd64c61d106c20320]: Commencement: Art. 9 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-40dbdd2ada353f5cd64c61d106c20320]: Commencement: Art. 9 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-04ab22c8cb634c80a501c356253644c3]: Commencement: Art. 10 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-04ab22c8cb634c80a501c356253644c3]: Commencement: Art. 10 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-2a86b6518263cd4b3b5eb978a1d6cb0d]: Commencement: Art. 11 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-2a86b6518263cd4b3b5eb978a1d6cb0d]: Commencement: Art. 11 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-46531d9d60dcce7bccba389dfced3fdc]: Commencement: Art. 12 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-46531d9d60dcce7bccba389dfced3fdc]: Commencement: Art. 12 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-71ff91243ccd6e3637ce15f7673e7fb9]: Commencement: Art. 13 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-71ff91243ccd6e3637ce15f7673e7fb9]: Commencement: Art. 13 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-5837535a80ad73ba90150e2f809a2c6f]: Commencement: Art. 14 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-5837535a80ad73ba90150e2f809a2c6f]: Commencement: Art. 14 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-8018bbf3cc38d24bc42c22e5a79943f1]: Commencement: Art. 15 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-8018bbf3cc38d24bc42c22e5a79943f1]: Commencement: Art. 15 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-0190cceb4145f3642a412b4072c14ec8]: Commencement: Art. 16 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-0190cceb4145f3642a412b4072c14ec8]: Commencement: Art. 16 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-c818f611c78a7d7b375204074263f03c]: Commencement: Art. 17 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-c818f611c78a7d7b375204074263f03c]: Commencement: Art. 17 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-cbc69e6b1cd7faaa6b55f1d3e867d2ad]: Commencement: Art. 18 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-cbc69e6b1cd7faaa6b55f1d3e867d2ad]: Commencement: Art. 18 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-ac4fcde548ac1c1f4e4e6064b5933889]: Commencement: Art. 19 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-ac4fcde548ac1c1f4e4e6064b5933889]: Commencement: Art. 19 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-20e446d98e77be422420df246680e0c0]: Commencement: Art. 20 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-20e446d98e77be422420df246680e0c0]: Commencement: Art. 20 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-687a508f90d417e0013fc194e697aaca]: Commencement: Art. 21 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-687a508f90d417e0013fc194e697aaca]: Commencement: Art. 21 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-31e4c5ad384c70d7f89624b8d07e5b4a]: Commencement: Art. 22 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-31e4c5ad384c70d7f89624b8d07e5b4a]: Commencement: Art. 22 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-a096447465aba90512f3de9801d9a475]: Commencement: Art. 23 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-a096447465aba90512f3de9801d9a475]: Commencement: Art. 23 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-1aafe104b23735b76c19a50573ff2eb9]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2015/1992/article/24) in force at 18.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-1aafe104b23735b76c19a50573ff2eb9]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2015/1992/article/24) in force at 18.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-3a83f2e32869bed25a67425a1f937d71]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2015/1992/article/25) in force at 18.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-3a83f2e32869bed25a67425a1f937d71]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2015/1992/article/25) in force at 18.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-5a94caaabf1dcaf797f6ad2e285c31dd]: Commencement: Art. 26 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-5a94caaabf1dcaf797f6ad2e285c31dd]: Commencement: Art. 26 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-e461766cf4654265f55bd5ac857e0df6]: Commencement: Art. 27 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-e461766cf4654265f55bd5ac857e0df6]: Commencement: Art. 27 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-9d0c4657073aaf0e46f7578a101bdc3d]: Commencement: Art. 28 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-9d0c4657073aaf0e46f7578a101bdc3d]: Commencement: Art. 28 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-e0a313d51fbc7249b818387f7c256e59]: Commencement: Art. 29 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-e0a313d51fbc7249b818387f7c256e59]: Commencement: Art. 29 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-f7585a6f320e2df6e13feb2588f3e813]: Commencement: Art. 30 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-f7585a6f320e2df6e13feb2588f3e813]: Commencement: Art. 30 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-33093d09e8269562e864621492ee4319]: Commencement: Art. 31 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-33093d09e8269562e864621492ee4319]: Commencement: Art. 31 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-4e4564a7dd873529e443bbf2ea72399a]: Commencement: Art. 32 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-4e4564a7dd873529e443bbf2ea72399a]: Commencement: Art. 32 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-6490e0fc39703df8527d77a0f54c3e88]: Textual amendment: Word in art. 32 heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6490e0fc39703df8527d77a0f54c3e88]: Textual amendment: Word in art. 32 heading substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0abfb2c3c6cf7b2a3955fca700659fe]: Textual amendment: Word in art. 32(1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0abfb2c3c6cf7b2a3955fca700659fe]: Textual amendment: Word in art. 32(1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06f9fde2307b241ae4881c3a3fe0b6c1]: Textual amendment: Word in art. 32(2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06f9fde2307b241ae4881c3a3fe0b6c1]: Textual amendment: Word in art. 32(2) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b55413a9db6c427460a3bea99625f9f]: Commencement: Art. 33 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-9b55413a9db6c427460a3bea99625f9f]: Commencement: Art. 33 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-98d5b73f7388e07b92ec750a30010399]: Commencement: Art. 34 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-98d5b73f7388e07b92ec750a30010399]: Commencement: Art. 34 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-153293ec74f694a5f3d998b11ea2ca4d]: Commencement: Art. 35 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-153293ec74f694a5f3d998b11ea2ca4d]: Commencement: Art. 35 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-a05e7b04dca6d841d0fb5358ef12c12b]: Commencement: Art. 36 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-a05e7b04dca6d841d0fb5358ef12c12b]: Commencement: Art. 36 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-3cedab4913e21394f9138232fca607ed]: Commencement: Art. 37 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-3cedab4913e21394f9138232fca607ed]: Commencement: Art. 37 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-fa5af6e934b0f40f7fbf14fc18d65693]: Commencement: Art. 38 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-fa5af6e934b0f40f7fbf14fc18d65693]: Commencement: Art. 38 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-7a8b7099482f714c19268be5e85d89c2]: Textual amendment: Words in art. 38(1)(g) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a8b7099482f714c19268be5e85d89c2]: Textual amendment: Words in art. 38(1)(g) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f21a9067ea6450aefa116b84a7be31e]: Commencement: Art. 39 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-3f21a9067ea6450aefa116b84a7be31e]: Commencement: Art. 39 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-8d53b4b49e511f01f8b39eda16f36f65]: Commencement: Art. 40 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-8d53b4b49e511f01f8b39eda16f36f65]: Commencement: Art. 40 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-004bf2e4cb48ab01bc5531c45dd7a607]: Commencement: Art. 41 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-004bf2e4cb48ab01bc5531c45dd7a607]: Commencement: Art. 41 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-a71c8a7bd2e746ab43e1f3104d0dcc8d]: Textual amendment: Word in art. 41(d) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a71c8a7bd2e746ab43e1f3104d0dcc8d]: Textual amendment: Word in art. 41(d) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/uksi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/92/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2019/92/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a29e5ae698aef2911c7cfcc2636ca9c]: Commencement: Art. 42 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-4a29e5ae698aef2911c7cfcc2636ca9c]: Commencement: Art. 42 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-28fb8b4ac29fe494400efbd5eb833ff5]: Commencement: Art. 43 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-28fb8b4ac29fe494400efbd5eb833ff5]: Commencement: Art. 43 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
 [^f00024]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the Magistrates Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates’ Courts Act 1952, section 132, Schedule 6.
 
 [^f00025]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a) and Schedule 37, part 4; paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b).
 
-[^key-e8505c4fdfb4ef3d9ca644a4700dd6ea]: Commencement: Art. 44 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-e8505c4fdfb4ef3d9ca644a4700dd6ea]: Commencement: Art. 44 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
-[^key-8028492ce386ed668df8529250f89a77]: Commencement: Art. 45 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
+[^c-8028492ce386ed668df8529250f89a77]: Commencement: Art. 45 in force at 1.1.2016, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2015/1992/article/1/3)
 
 [^f00026]: Footnote: [S.I. 2009/3364 (W. 296)](https://www.legislation.gov.uk/wsi/2009/3364).

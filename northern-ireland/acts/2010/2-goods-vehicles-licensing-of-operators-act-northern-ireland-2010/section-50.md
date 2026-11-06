@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Method of calculating weight of vehicles[^key-3f11c531b67b19d3988f46154f3d1766]
+## 50. Method of calculating weight of vehicles[^c-3f11c531b67b19d3988f46154f3d1766]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Act the weight unladen of a vehicle shall be taken to b
 
 ## Annotations
 
-[^key-3f11c531b67b19d3988f46154f3d1766]: Commencement: S. 50 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-3f11c531b67b19d3988f46154f3d1766]: Commencement: S. 50 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

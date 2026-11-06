@@ -64,14 +64,14 @@ These Rules may be cited as the Mental Health Review Tribunal for Wales Rules 20
 - “**final determination**” means a decision of the Tribunal which disposes of proceedings, including a decision with recommendations or a deferred decision for conditional discharge, but a refusal of an application for permission to appeal under rule 30 (application for permission to appeal) is not a final determination;
 - “**hearing**” means an oral hearing and includes a hearing conducted in whole or in part by video link, telephone or other means of instantaneous two-way electronic communication;
 - “**interested party**” means a person added as an interested party under rule 12 (substitution and addition of parties);
-- “legal representative” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);[^key-3d4107f5a8e7607bcbc18c266773649c]
+- “legal representative” means a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);[^c-3d4107f5a8e7607bcbc18c266773649c]
 - “**party**” means the patient, the responsible authority, the Secretary of State (if the patient is a restricted patient), the Welsh Ministers or Secretary of State in a reference under rule 15(7) (seeking approval under section 86 of the Act) and any other person who starts a case by making an application or referring a matter to the Tribunal under the Act;
 - “**registered person**” means the person or persons registered in respect of a registered establishment;
 - “**responsible authority**” means—
   - (a) in relation to a patient detained under the Act in a hospital within the meaning of Part 2 of that Act, the managers (as defined in section 145 of the Act);
   - (b) in relation to a patient subject to guardianship, the responsible local social services authority as defined in section 34(3) of the Act;
   - (c) in relation to a community patient, the managers of the responsible hospital (as defined in section 145 of the Act);
-  - (d) [^key-1aaae3e14eab6f1d841ed0bfd4f537fd]...
+  - (d) [^c-1aaae3e14eab6f1d841ed0bfd4f537fd]...
 - “**restricted patient**” has the meaning set out in section 79(1) of the Act;
 - “**Tribunal**” means the Mental Health Review Tribunal for Wales;
 - “**working day**” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971 [^c19450371].
@@ -98,7 +98,7 @@ These Rules may be cited as the Mental Health Review Tribunal for Wales Rules 20
 
 ### 4. Preliminary and incidental matters
 
-As regards matters preliminary or incidental to an application or reference, the President[^key-6c7c52dd33040d752f2e5839014ef780] may, at any time up to the hearing of an application or reference by the Tribunal, exercise the powers of the Tribunal under rules 5, 6, 10, 12, 13, 14, 15, 16, 17, 21, 22, 26, 28 and 29.
+As regards matters preliminary or incidental to an application or reference, the President[^c-6c7c52dd33040d752f2e5839014ef780] may, at any time up to the hearing of an application or reference by the Tribunal, exercise the powers of the Tribunal under rules 5, 6, 10, 12, 13, 14, 15, 16, 17, 21, 22, 26, 28 and 29.
 
 ### 5. Case management powers
 
@@ -183,9 +183,9 @@ As regards matters preliminary or incidental to an application or reference, the
 
 - (a) that person is a member, director or registered person (as the case may be) of the responsible authority concerned in the proceedings; or
 - (b) that person is a member or director of a local health board or National Health Service trust which has the right to discharge the patient under section 23(3) of the Act; or
-- (c) the President or, as the case may be, chairman[^key-4daf12c5cf4963ee13de2a39817330b0] of the Tribunal considers that that person appears to have a conflict of interest or bias of opinion in respect of the patient, or any other member of that Tribunal or party to the proceedings, or has recently been involved with the medical treatment of the patient in a professional capacity.
+- (c) the President or, as the case may be, chairman[^c-4daf12c5cf4963ee13de2a39817330b0] of the Tribunal considers that that person appears to have a conflict of interest or bias of opinion in respect of the patient, or any other member of that Tribunal or party to the proceedings, or has recently been involved with the medical treatment of the patient in a professional capacity.
 
-(2) The persons qualified to serve as chairman[^key-04ae98812bbf478c77e564d1a3611dde] of the Tribunal for the consideration of an application or reference relating to a restricted patient shall be restricted to those legal members who have been approved for that purpose by the Lord Chief Justice after consulting the Lord Chancellor.
+(2) The persons qualified to serve as chairman[^c-04ae98812bbf478c77e564d1a3611dde] of the Tribunal for the consideration of an application or reference relating to a restricted patient shall be restricted to those legal members who have been approved for that purpose by the Lord Chief Justice after consulting the Lord Chancellor.
 
 (3) The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005 [^c20465281]) to exercise his functions referred to in paragraph (2).
 
@@ -282,7 +282,7 @@ When the Tribunal receives the information required by rule 15(3), (4) or (5), t
 - (a) where the patient is subject to the guardianship of a private guardian, to the guardian;
 - (b) where there is an extant order of the superior court of record established by section 45(1) of the Mental Capacity Act 2005 [^c19450391], to that court;
 - (c) unless the patient requests otherwise, where any person other than the applicant is named in the responsible authority's statement as exercising the functions of the nearest relative, to that person;
-- (d) [^key-3336508c1f975e629b869ff4f6f091b5]... and
+- (d) [^c-3336508c1f975e629b869ff4f6f091b5]... and
 - (e) to any other person the Tribunal may consider should have an opportunity of being heard.
 
 #### 17. Withholding documents or information likely to cause harm
@@ -386,7 +386,7 @@ When the Tribunal receives the information required by rule 15(3), (4) or (5), t
 
 #### 23. Transfer of Proceedings
 
-(1) Where any proceedings in relation to a patient have not been disposed of by the members of the Tribunal appointed for the purpose, and the President[^key-7cca9a7a9e399f7cf0b2dbfe6c3d9a91] is of the opinion that it is not practicable or not possible without undue delay for the consideration of those proceedings to be completed by those members, he shall make arrangements for them to be heard by other members of the Tribunal.
+(1) Where any proceedings in relation to a patient have not been disposed of by the members of the Tribunal appointed for the purpose, and the President[^c-7cca9a7a9e399f7cf0b2dbfe6c3d9a91] is of the opinion that it is not practicable or not possible without undue delay for the consideration of those proceedings to be completed by those members, he shall make arrangements for them to be heard by other members of the Tribunal.
 
 (2) Where a patient in respect of whom proceedings are pending moves to the jurisdiction of the First-tier Tribunal [^c19450401], the proceedings shall, if the President of the Tribunal so directs, be transferred to the First-tier Tribunal and notice of the transfer of proceedings shall be given to the parties and such other persons as the Tribunal considers necessary.
 
@@ -546,7 +546,7 @@ Rule 15
 
 **15.** Unless the patient requests otherwise, the name and address of the person exercising the functions of the nearest relative of the patient.
 
-**16.**[^key-649ab8e8393dbf8c362f42fb671e9d92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-649ab8e8393dbf8c362f42fb671e9d92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In the case of a patient subject to after-care under supervision, the name and address of the local social services authority and NHS body that are responsible for providing the patient with after-care under section 117 of the Act, or will be when he leaves hospital.
 
@@ -619,19 +619,19 @@ Part 5 revokes the Mental Health Review Tribunal Rules 1983 and instruments whic
 
 [^c19450351]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-3d4107f5a8e7607bcbc18c266773649c]: Textual amendment: Words in rule 2 substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [20](https://www.legislation.gov.uk/uksi/2009/3348/article/20)
+[^c-3d4107f5a8e7607bcbc18c266773649c]: Textual amendment: Words in rule 2 substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [20](https://www.legislation.gov.uk/uksi/2009/3348/article/20)
 
-[^key-1aaae3e14eab6f1d841ed0bfd4f537fd]: Textual amendment: Words in rule 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/2)
+[^c-1aaae3e14eab6f1d841ed0bfd4f537fd]: Textual amendment: Words in rule 2(1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/2)
 
 [^c19450371]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-6c7c52dd33040d752f2e5839014ef780]: Textual amendment: Word in [rule 4](https://www.legislation.gov.uk/uksi/2008/2705/rule/4) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+[^c-6c7c52dd33040d752f2e5839014ef780]: Textual amendment: Word in [rule 4](https://www.legislation.gov.uk/uksi/2008/2705/rule/4) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
 
 [^c19450381]: Marginal citation: Provisions include sections 66(1) and (2), 68(2) (subject to any order made under section 68A), 69(1), (2) and (4), 70, 71(2) (subject to any order made under section 71(3)) and 75(1) and (2) of the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-4daf12c5cf4963ee13de2a39817330b0]: Textual amendment: Words in rule 11(1)(c) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/3/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+[^c-4daf12c5cf4963ee13de2a39817330b0]: Textual amendment: Words in rule 11(1)(c) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/3/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
 
-[^key-04ae98812bbf478c77e564d1a3611dde]: Textual amendment: Word in rule 11(2) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/3/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+[^c-04ae98812bbf478c77e564d1a3611dde]: Textual amendment: Word in rule 11(2) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/3/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
 
 [^c20465281]: Marginal citation: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
@@ -639,9 +639,9 @@ Part 5 revokes the Mental Health Review Tribunal Rules 1983 and instruments whic
 
 [^c19450391]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-3336508c1f975e629b869ff4f6f091b5]: Textual amendment: Rule 16(d) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/3)
+[^c-3336508c1f975e629b869ff4f6f091b5]: Textual amendment: Rule 16(d) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/3)
 
-[^key-7cca9a7a9e399f7cf0b2dbfe6c3d9a91]: Textual amendment: Word in rule 23(1)(2) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
+[^c-7cca9a7a9e399f7cf0b2dbfe6c3d9a91]: Textual amendment: Word in rule 23(1)(2) substituted (1.12.2017) by [The Mental Health Review Tribunal for Wales (Amendment and constitution of tribunals) Rules 2017 (S.I. 2017/1039)](https://www.legislation.gov.uk/uksi/2017/1039), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1039/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/1039/rule/2/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2017/1039/rule/3))
 
 [^c19450401]: Marginal citation: The First-tier Tribunal was established under section 3(1) of the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -651,7 +651,7 @@ Part 5 revokes the Mental Health Review Tribunal Rules 1983 and instruments whic
 
 [^c19450431]: Marginal citation: [S.I. 1998/1189](https://www.legislation.gov.uk/uksi/1998/1189).
 
-[^key-649ab8e8393dbf8c362f42fb671e9d92]: Textual amendment: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2008/2705/schedule/paragraph/16) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(4)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/4)
+[^c-649ab8e8393dbf8c362f42fb671e9d92]: Textual amendment: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2008/2705/schedule/paragraph/16) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 121(4)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/121/4)
 
 [^c19450441]: Marginal citation: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20).
 

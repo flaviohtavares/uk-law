@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security Benefits (Claims and Payments) (Modification) Regulations 2022 (revoked)[^key-894bafa28ddce44103ae330d64b415eb]
+The Social Security Benefits (Claims and Payments) (Modification) Regulations 2022 (revoked)[^c-894bafa28ddce44103ae330d64b415eb]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 26th April 2022
 
-[^key-894bafa28ddce44103ae330d64b415eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-894bafa28ddce44103ae330d64b415eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent, cessation and application[^key-894bafa28ddce44103ae330d64b415eb]
+## 1. Citation, commencement, extent, cessation and application[^c-894bafa28ddce44103ae330d64b415eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-894bafa28ddce44103ae330d64b415eb]
+## 2. Interpretation[^c-894bafa28ddce44103ae330d64b415eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of the Social Security (Claims and Payments) Regulations 1987[^key-894bafa28ddce44103ae330d64b415eb]
+## 3. Modification of the Social Security (Claims and Payments) Regulations 1987[^c-894bafa28ddce44103ae330d64b415eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Modification of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^key-894bafa28ddce44103ae330d64b415eb]
+## 4. Modification of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^c-894bafa28ddce44103ae330d64b415eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-894bafa28ddce44103ae330d64b415eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-894bafa28ddce44103ae330d64b415eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-894bafa28ddce44103ae330d64b415eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-894bafa28ddce44103ae330d64b415eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-894bafa28ddce44103ae330d64b415eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/428) revoked (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2023/232/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))
+[^c-894bafa28ddce44103ae330d64b415eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/428) revoked (1.4.2023) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2023 (S.I. 2023/232)](https://www.legislation.gov.uk/uksi/2023/232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2023/232/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/232/regulation/1/3))

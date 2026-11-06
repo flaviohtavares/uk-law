@@ -50,11 +50,11 @@ The Department of Health considers that the restrictions and requirements impose
 
 In accordance with section 25Q of that Act the Department of Health is of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by a resolution of, the Assembly.
 
-## 1. Citation and commencement[^key-2d29e74f80343efaf7fa14805041b115]
+## 1. Citation and commencement[^c-2d29e74f80343efaf7fa14805041b115]
 
 These Regulations may be cited as the Health Protection (Coronavirus, Wearing of Face Coverings) (Amendment) Regulations (Northern Ireland) 2020 and shall come into operation on such day as the Department of Health may by order appoint.
 
-## 2. Amendment of the Health Protection (Coronavirus, Wearing of Face Coverings) Regulations (Northern Ireland) 2020[^key-fe1da5fcafe8e70d5906d0a66b2cc8d3]
+## 2. Amendment of the Health Protection (Coronavirus, Wearing of Face Coverings) Regulations (Northern Ireland) 2020[^c-fe1da5fcafe8e70d5906d0a66b2cc8d3]
 
 (1) The Health Protection (Coronavirus, Wearing of Face Coverings) Regulations (Northern Ireland) 2020 [^c24256791] are amended as follows.
 
@@ -141,7 +141,7 @@ These Regulations may be cited as the Health Protection (Coronavirus, Wearing of
 
 .
 
-## 3. Savings[^key-074165b19e8a60b2c7176e3fa8649df1]
+## 3. Savings[^c-074165b19e8a60b2c7176e3fa8649df1]
 
 The Health Protection (Coronavirus, Wearing of Face Coverings) Regulations (Northern Ireland) 2020 continue to have effect in relation to any offence committed, or reasonably believed to have been committed, before these Regulations came into operation as if the amendments set out in regulation 2 had not been made.
 
@@ -165,12 +165,12 @@ No regulatory impact assessment has been prepared for these Regulations.
 
 [^c24256781]: Marginal citation: [1967 c. 36 (N.I.)](https://www.legislation.gov.uk/apni/1967/36). Part 1A was inserted by section 48 of, and Schedule 18 to, the [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7)
 
-[^key-2d29e74f80343efaf7fa14805041b115]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/164/regulation/1) in operation at 10.8.2020 by [S.R. 2020/169](https://www.legislation.gov.uk/nisr/2020/169), [reg. 2](https://www.legislation.gov.uk/nisr/2020/169/regulation/2)
+[^c-2d29e74f80343efaf7fa14805041b115]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/164/regulation/1) in operation at 10.8.2020 by [S.R. 2020/169](https://www.legislation.gov.uk/nisr/2020/169), [reg. 2](https://www.legislation.gov.uk/nisr/2020/169/regulation/2)
 
-[^key-fe1da5fcafe8e70d5906d0a66b2cc8d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/164/regulation/2) in operation at 10.8.2020 by [S.R. 2020/169](https://www.legislation.gov.uk/nisr/2020/169), [reg. 2](https://www.legislation.gov.uk/nisr/2020/169/regulation/2)
+[^c-fe1da5fcafe8e70d5906d0a66b2cc8d3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/164/regulation/2) in operation at 10.8.2020 by [S.R. 2020/169](https://www.legislation.gov.uk/nisr/2020/169), [reg. 2](https://www.legislation.gov.uk/nisr/2020/169/regulation/2)
 
 [^c24256791]: Marginal citation: S.R. [2020 No. 151](https://www.legislation.gov.uk/ukcm/2020/151)
 
 [^c24256801]: Marginal citation: S.R. [2007 No. 94](https://www.legislation.gov.uk/ukcm/2007/94)
 
-[^key-074165b19e8a60b2c7176e3fa8649df1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/164/regulation/3) in operation at 10.8.2020 by [S.R. 2020/169](https://www.legislation.gov.uk/nisr/2020/169), [reg. 2](https://www.legislation.gov.uk/nisr/2020/169/regulation/2)
+[^c-074165b19e8a60b2c7176e3fa8649df1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/164/regulation/3) in operation at 10.8.2020 by [S.R. 2020/169](https://www.legislation.gov.uk/nisr/2020/169), [reg. 2](https://www.legislation.gov.uk/nisr/2020/169/regulation/2)

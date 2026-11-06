@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Child sexual abuse image-generators: Scotland[^key-14155ae44dd68b6d55260a9e8ceb76cf]
+## 74. Child sexual abuse image-generators: Scotland[^c-14155ae44dd68b6d55260a9e8ceb76cf]
 
 *Extent: S*
 
@@ -128,4 +128,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14155ae44dd68b6d55260a9e8ceb76cf]: Commencement: S. 74 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(d)
+[^c-14155ae44dd68b6d55260a9e8ceb76cf]: Commencement: S. 74 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(d)

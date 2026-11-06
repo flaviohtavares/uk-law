@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Transfer of police and crime commissioner functions[^key-2d9589dc74824adebc8cb61e5f9535d9]
+## 3. Transfer of police and crime commissioner functions[^c-2d9589dc74824adebc8cb61e5f9535d9]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d9589dc74824adebc8cb61e5f9535d9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/470/article/3) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-2d9589dc74824adebc8cb61e5f9535d9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/470/article/3) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00012]: Footnote: The definition of “police and crime commissioner enactment” is at paragraph 12(5) of Schedule 5C of the 2009 Act.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.10. Consequence of failure to serve witness statement or summary[^key-6b4db90d4c2e8f8709f4f4b3ae963f28]
+## 32.10. Consequence of failure to serve witness statement or summary[^c-6b4db90d4c2e8f8709f4f4b3ae963f28]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a witness statement or a witness summary for use at trial is not served in re
 
 ## Annotations
 
-[^key-6b4db90d4c2e8f8709f4f4b3ae963f28]: Commencement: [Rule 32.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-6b4db90d4c2e8f8709f4f4b3ae963f28]: Commencement: [Rule 32.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

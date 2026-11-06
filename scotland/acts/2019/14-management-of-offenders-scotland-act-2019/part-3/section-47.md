@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Repeal of statutory provisions[^key-eb0fd78f333425dba1a16cd461dbd80b]
+## 47. Repeal of statutory provisions[^c-eb0fd78f333425dba1a16cd461dbd80b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb0fd78f333425dba1a16cd461dbd80b]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2019/14/section/47) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/l)
+[^c-eb0fd78f333425dba1a16cd461dbd80b]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2019/14/section/47) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/l)

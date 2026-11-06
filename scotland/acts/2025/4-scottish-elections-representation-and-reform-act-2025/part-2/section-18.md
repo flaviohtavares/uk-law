@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Persons holding office: temporary relief from effect of disqualification[^key-cad6286fef090b99e02c55274b587ca7][^key-ac8631b92be46acdbd5bb18607c00b78]
+## 18. Persons holding office: temporary relief from effect of disqualification[^c-cad6286fef090b99e02c55274b587ca7][^c-ac8631b92be46acdbd5bb18607c00b78]
 
 *Extent: S*
 
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cad6286fef090b99e02c55274b587ca7]: Commencement: S. 18 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-cad6286fef090b99e02c55274b587ca7]: Commencement: S. 18 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-ac8631b92be46acdbd5bb18607c00b78]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/4/section/18) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-ac8631b92be46acdbd5bb18607c00b78]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/4/section/18) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

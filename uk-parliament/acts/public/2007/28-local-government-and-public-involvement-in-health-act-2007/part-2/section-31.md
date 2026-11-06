@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Schemes for elections[^key-041235cd045d757ad297af3cb5c8cb7f]
+## 31. Schemes for elections[^c-041235cd045d757ad297af3cb5c8cb7f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ For the purposes of this Chapter—
 
 ## Annotations
 
-[^key-041235cd045d757ad297af3cb5c8cb7f]: Commencement: S. 31 in force at 30.12.2007, see s. 245(2)
+[^c-041235cd045d757ad297af3cb5c8cb7f]: Commencement: S. 31 in force at 30.12.2007, see s. 245(2)

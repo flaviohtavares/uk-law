@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Energy smart regulations[^key-b149dc2c0d63131845d4f463638bddb5][^key-92b39a986735b5fc18a0fe86c576554b]
+## 239. Energy smart regulations[^c-b149dc2c0d63131845d4f463638bddb5][^c-92b39a986735b5fc18a0fe86c576554b]
 
 *Extent: E+W+S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b149dc2c0d63131845d4f463638bddb5]: Commencement: S. 239 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-b149dc2c0d63131845d4f463638bddb5]: Commencement: S. 239 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-92b39a986735b5fc18a0fe86c576554b]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2023/52/section/239) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)
+[^c-92b39a986735b5fc18a0fe86c576554b]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2023/52/section/239) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/ii)

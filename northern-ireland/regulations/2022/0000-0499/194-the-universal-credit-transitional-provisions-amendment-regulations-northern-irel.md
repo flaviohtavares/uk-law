@@ -46,21 +46,21 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 In accordance with section 149(2) of the Social Security Administration (Northern Ireland) Act 1992[^f00004] the Department has referred proposals in respect of these Regulations to the Social Security Advisory Committee.
 
-## 1. Citation, commencement and interpretation[^key-3775c7dc6cb543e16e05447b979344fc]
+## 1. Citation, commencement and interpretation[^c-3775c7dc6cb543e16e05447b979344fc]
 
 (1) These Regulations may be cited as the Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 and come in to operation on 1st August 2022.
 
 (2) In these Regulations “Transitional Provisions Regulations” means the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00005].
 
-## 2. Abolition of the Department’s discretion to determine that claims for universal credit may not be made[^key-a790eaa9e1dffd6c5f7fe302e74e0ea9]
+## 2. Abolition of the Department’s discretion to determine that claims for universal credit may not be made[^c-a790eaa9e1dffd6c5f7fe302e74e0ea9]
 
 Regulation 2A of the Transitional Provisions Regulations (department discretion to determine that claims for universal credit may not be made) is revoked.
 
-## 3. Exclusion of claims for certain existing benefits[^key-51bf2c71c3ccfd8464554d5de0ccdf41]
+## 3. Exclusion of claims for certain existing benefits[^c-51bf2c71c3ccfd8464554d5de0ccdf41]
 
 Regulation 4 of the Transitional Provisions Regulations (exclusion of claims for certain existing benefits) is revoked.
 
-## 4. Restriction on claims for housing benefit, income support or a tax credit[^key-2399a977eab53dd043eadb2d07dec5c8]
+## 4. Restriction on claims for housing benefit, income support or a tax credit[^c-2399a977eab53dd043eadb2d07dec5c8]
 
 Before regulation 5 of the Transitional Provisions Regulations (termination of awards of certain existing benefits: new claimant partners) insert—
 
@@ -90,7 +90,7 @@ Before regulation 5 of the Transitional Provisions Regulations (termination of a
 >
 >   and a reference to the date on which a claim for tax credit is made is a reference to the date on which such a claim is made or treated as made as provided for in the Tax Credits (Claims and Notification) Regulations 2002[^f00009].”.
 
-## 5. Termination of existing benefits – removal of requirement for the Department to determine that the basic conditions are met[^key-0eb0831ba9be7f69dac7aee52e7a202b]
+## 5. Termination of existing benefits – removal of requirement for the Department to determine that the basic conditions are met[^c-0eb0831ba9be7f69dac7aee52e7a202b]
 
 (1) The Transitional Provisions Regulations are amended as follows.
 
@@ -117,15 +117,15 @@ Before regulation 5 of the Transitional Provisions Regulations (termination of a
 - (a) at the end of sub-paragraph (a) insert “and”; and
 - (b) omit sub-paragraph (c) and the “and” preceding it.
 
-## 6. Managed migration – abolition of the limit on number of cases migrated[^key-502fb512e723f28c4e029a07118fc572]
+## 6. Managed migration – abolition of the limit on number of cases migrated[^c-502fb512e723f28c4e029a07118fc572]
 
 Regulation 45(7) (migration notice) of the Transitional Provisions Regulations 2016 is revoked.
 
-## 7. Managed migration – termination of existing benefits if no claim before the deadline[^key-3316c94d0d498fe6a9133b3330503ab6]
+## 7. Managed migration – termination of existing benefits if no claim before the deadline[^c-3316c94d0d498fe6a9133b3330503ab6]
 
 In regulation 47(1)(a) of the Transitional Provisions Regulations (termination of existing benefits if no claim before the deadline) after “housing benefit” insert “in the form of a rent rebate or allowance awarded in connection with regulation 13 of the Housing Benefit Regulations[^f00010] or regulation 13 of the Housing Benefit (State Pension Credit) Regulations[^f00011],”.
 
-## 8. Managed Migration – notified persons who claim as a different benefit unit[^key-8583c604ad08ed2e91b29f69208d0967]
+## 8. Managed Migration – notified persons who claim as a different benefit unit[^c-8583c604ad08ed2e91b29f69208d0967]
 
 (1) Regulation 48 of the Transitional Provisions Regulations (notified persons who claim as a different benefit unit) is revoked.
 
@@ -139,7 +139,7 @@ In regulation 47(1)(a) of the Transitional Provisions Regulations (termination o
 
 .
 
-## 9. Managed migration – the transitional element – total legacy amount[^key-91eb9e47042858265c2e3750f0762d0b]
+## 9. Managed migration – the transitional element – total legacy amount[^c-91eb9e47042858265c2e3750f0762d0b]
 
 (1) Regulation 54 of The Transitional Provisions Regulations (the transitional element – total legacy amount) is amended as follows.
 
@@ -147,7 +147,7 @@ In regulation 47(1)(a) of the Transitional Provisions Regulations (termination o
 
 - (a) In paragraph (11)(a) after the second reference to “housing benefit” insert “, in the form of a rent rebate or allowance awarded in connection with regulation 13 of the Housing Benefit Regulations or regulation 13 of the Housing Benefit (State Pension Credit) Regulations,”.
 
-## 10. Managed migration – adjustment to transitional element where other elements increase[^key-4b7b7c9504dfe41aef23c7ae0909a4fd]
+## 10. Managed migration – adjustment to transitional element where other elements increase[^c-4b7b7c9504dfe41aef23c7ae0909a4fd]
 
 (1) Regulation 56 (the transitional element – initial amount and adjustment where other elements increase) of the Transitional Provisions Regulations is amended as follows.
 
@@ -159,17 +159,17 @@ In regulation 47(1)(a) of the Transitional Provisions Regulations (termination o
 >
 > (6) In this regulation “LCW element”[^f00012] and “LCWRA element” have the same meaning as in regulation 2 of the Universal Credit Regulations.”
 
-## 11. Managed migration – protection for full-time students[^key-2a3aec5d2f3520e05f660516a1445aa3]
+## 11. Managed migration – protection for full-time students[^c-2a3aec5d2f3520e05f660516a1445aa3]
 
 In regulation 61 of the Transitional Provisions Regulations (protection for full-time students until course completed) the existing text becomes paragraph (1) and after paragraph (1) insert—
 
 > (2) Paragraph (1) does not apply to any assessment period in respect of which a transitional element or transitional capital disregard would (if the claimant had been entitled to that element or that disregard) have ceased to apply by virtue of regulation 57 (circumstances in which transitional protection ceases) or regulation 58 (application of transitional protection to a subsequent award).”.
 
-## 12. Abolition of discretionary hardship payments[^key-8dcdef4f9b63eac8dfc9254918082907]
+## 12. Abolition of discretionary hardship payments[^c-8dcdef4f9b63eac8dfc9254918082907]
 
 Regulation 65 of the Transitional Provisions Regulations (discretionary hardship payments) is revoked.
 
-## 13. Consequential amendments[^key-f4917b2d8bba596e6f78d8c4573e16a2]
+## 13. Consequential amendments[^c-f4917b2d8bba596e6f78d8c4573e16a2]
 
 The Schedule contains consequential amendments.
 
@@ -185,7 +185,7 @@ A senior officer of the Department for Communities
 
 Regulation 13
 
-**1.**[^key-de742edc244f9a8d825d6175ad4e8c91] (1) The Transitional Provisions Regulations are amended as follows.
+**1.**[^c-de742edc244f9a8d825d6175ad4e8c91] (1) The Transitional Provisions Regulations are amended as follows.
 
 (2) In regulation 2 (interpretation) in paragraph (4) omit the reference to “and regulation 48 (notified persons who claim as a different benefit unit)”.
 
@@ -206,13 +206,13 @@ Regulation 13
 
 (9) In regulation 59[^f00017] (qualifying claim – department may set later commencement day) omit “or 47(4)”.
 
-**2.**[^key-64f44d478e136160f8c22d1448f997b7] (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017[^f00018] is amended as follows.
+**2.**[^c-64f44d478e136160f8c22d1448f997b7] (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017[^f00018] is amended as follows.
 
 (2) Article 8 (transitional provisions where the department determines that claims for universal credit may not be made: effect on claims for employment and support allowance and jobseeker’s allowance) is revoked.
 
 (3) Article 24 (transitional provision: claims for housing benefit, income support or a tax credit) is revoked.
 
-**3.**[^key-d7206e716f92d72e5e6ee039b5ccd65d] (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No.13 and Savings and Transitional Provisions and Commencement No.8 and Transitional and Transitory Provisions (Amendment)) Order 2019[^f00019] is amended as follows.
+**3.**[^c-d7206e716f92d72e5e6ee039b5ccd65d] (1) The Welfare Reform (Northern Ireland) Order 2015 (Commencement No.13 and Savings and Transitional Provisions and Commencement No.8 and Transitional and Transitory Provisions (Amendment)) Order 2019[^f00019] is amended as follows.
 
 (2) In paragraph (3) of article 2 (interpretation) omit “and article 8(2)(b)”.
 
@@ -266,15 +266,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: [1992 c.8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-3775c7dc6cb543e16e05447b979344fc]: Commencement: Reg. 1 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-3775c7dc6cb543e16e05447b979344fc]: Commencement: Reg. 1 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226). The relevant amending instruments are [S.R. 2017 No. 116](https://www.legislation.gov.uk/nisr/2017/116), [S.I. 2017/781](https://www.legislation.gov.uk/uksi/2017/781), [S.R. 2018 No. 92](https://www.legislation.gov.uk/nisr/2018/92), [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152), [S.R. 2020 No. 119](https://www.legislation.gov.uk/nisr/2020/119)
 
-[^key-a790eaa9e1dffd6c5f7fe302e74e0ea9]: Commencement: Reg. 2 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-a790eaa9e1dffd6c5f7fe302e74e0ea9]: Commencement: Reg. 2 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-51bf2c71c3ccfd8464554d5de0ccdf41]: Commencement: Reg. 3 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-51bf2c71c3ccfd8464554d5de0ccdf41]: Commencement: Reg. 3 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-2399a977eab53dd043eadb2d07dec5c8]: Commencement: Reg. 4 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-2399a977eab53dd043eadb2d07dec5c8]: Commencement: Reg. 4 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2016 No. 221](https://www.legislation.gov.uk/nisr/2016/221). Schedule 1 paragraph 26 was substituted by [S.R. 2020 No. 119](https://www.legislation.gov.uk/nisr/2020/119).
 
@@ -284,31 +284,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014)
 
-[^key-0eb0831ba9be7f69dac7aee52e7a202b]: Commencement: Reg. 5 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-0eb0831ba9be7f69dac7aee52e7a202b]: Commencement: Reg. 5 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-502fb512e723f28c4e029a07118fc572]: Commencement: Reg. 6 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-502fb512e723f28c4e029a07118fc572]: Commencement: Reg. 6 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-3316c94d0d498fe6a9133b3330503ab6]: Commencement: Reg. 7 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-3316c94d0d498fe6a9133b3330503ab6]: Commencement: Reg. 7 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
 [^f00011]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
-[^key-8583c604ad08ed2e91b29f69208d0967]: Commencement: Reg. 8 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-8583c604ad08ed2e91b29f69208d0967]: Commencement: Reg. 8 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-91eb9e47042858265c2e3750f0762d0b]: Commencement: Reg. 9 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-91eb9e47042858265c2e3750f0762d0b]: Commencement: Reg. 9 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-4b7b7c9504dfe41aef23c7ae0909a4fd]: Commencement: Reg. 10 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-4b7b7c9504dfe41aef23c7ae0909a4fd]: Commencement: Reg. 10 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00012]: Footnote: The LCW element was abolished from 3rd April 2017 by [S.R. 2017 No. 146](https://www.legislation.gov.uk/nisr/2017/146) but is saved for certain claimants by transitional provisions as set out in Schedule 2 to [S.R. 2017 No.146](https://www.legislation.gov.uk/nisr/2017/146)
 
-[^key-2a3aec5d2f3520e05f660516a1445aa3]: Commencement: Reg. 11 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-2a3aec5d2f3520e05f660516a1445aa3]: Commencement: Reg. 11 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-8dcdef4f9b63eac8dfc9254918082907]: Commencement: Reg. 12 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-8dcdef4f9b63eac8dfc9254918082907]: Commencement: Reg. 12 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-f4917b2d8bba596e6f78d8c4573e16a2]: Commencement: Reg. 13 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-f4917b2d8bba596e6f78d8c4573e16a2]: Commencement: Reg. 13 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
-[^key-de742edc244f9a8d825d6175ad4e8c91]: Commencement: Sch. para. 1 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-de742edc244f9a8d825d6175ad4e8c91]: Commencement: Sch. para. 1 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00013]: Footnote: Regulation 6A was inserted by [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152)
 
@@ -320,10 +320,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00017]: Footnote: Regulation 59 was inserted by [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152)
 
-[^key-64f44d478e136160f8c22d1448f997b7]: Commencement: Sch. para. 2 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-64f44d478e136160f8c22d1448f997b7]: Commencement: Sch. para. 2 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 2017 No. 190](https://www.legislation.gov.uk/nisr/2017/190) (c. 11)
 
-[^key-d7206e716f92d72e5e6ee039b5ccd65d]: Commencement: Sch. para. 3 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
+[^c-d7206e716f92d72e5e6ee039b5ccd65d]: Commencement: Sch. para. 3 in operation at 1.8.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 2019 No. 4](https://www.legislation.gov.uk/nisr/2019/4) (c. 1)

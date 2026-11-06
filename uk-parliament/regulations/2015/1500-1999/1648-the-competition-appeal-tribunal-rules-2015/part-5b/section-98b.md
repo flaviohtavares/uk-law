@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98B. Time limits for appeals[^key-7f3bdcc9c89d51e9ed6a7b70fb3f0441]
+## 98B. Time limits for appeals[^c-7f3bdcc9c89d51e9ed6a7b70fb3f0441]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f3bdcc9c89d51e9ed6a7b70fb3f0441]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2015/1648/part/5B) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by [Football Governance Act 2025 (c. 21)](https://www.legislation.gov.uk/ukpga/2025/21), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/1)[(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g), [Sch. 12 para. 10(3)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/3) (with [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/4)); [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-7f3bdcc9c89d51e9ed6a7b70fb3f0441]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2015/1648/part/5B) inserted (21.7.2025 for specified purposes, 12.12.2025 in so far as not already in force) by [Football Governance Act 2025 (c. 21)](https://www.legislation.gov.uk/ukpga/2025/21), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/1)[(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g), [Sch. 12 para. 10(3)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/3) (with [Sch. 12 para. 10(4)](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10/4)); [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)

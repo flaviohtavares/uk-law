@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82.31. Review of certification[^key-c2b447dcce072522f2e795ce120ccaaf]
+## 82.31. Review of certification[^c-c2b447dcce072522f2e795ce120ccaaf]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The court with which the documents in paragraph (1)(a) and (b) must be filed is—
 
-- (a) the High Court, if the court seised of the proceedings in relation to which the certificate was issued is the High Court or County Court[^key-58ddedc447e45f27157c93586a6e9864] ; or
+- (a) the High Court, if the court seised of the proceedings in relation to which the certificate was issued is the High Court or County Court[^c-58ddedc447e45f27157c93586a6e9864] ; or
 - (b) the Court of Appeal, if the court seised of the proceedings in relation to which the certificate was issued is the Court of Appeal.
 
 (3) When such an application has been made, the court must serve notice of the application on the Secretary of State and the Secretary of State’s legal representative, and on the special advocate when a special advocate has been appointed pursuant to rule 82.9.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
+[^c-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
 
-[^key-58ddedc447e45f27157c93586a6e9864]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1998/3132) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-58ddedc447e45f27157c93586a6e9864]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/1998/3132) substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/ii); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)

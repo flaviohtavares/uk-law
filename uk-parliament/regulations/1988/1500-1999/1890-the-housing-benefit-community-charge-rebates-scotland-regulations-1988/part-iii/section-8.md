@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Polygamous marriages[^key-842792c0f18058d479b4abe74ce3194a]
+## 8. Polygamous marriages[^c-842792c0f18058d479b4abe74ce3194a]
 
 *Extent: E+W+S*
 
@@ -24,12 +24,12 @@ Subject to regulations 9 (patients) and 56 (calculation of weekly amounts) where
 
 - (a) the highest amount applicable to him and one of his partners determined in accordance with paragraph 1(3) of Schedule 1 (applicable amounts) as if he and that partner were a couple;
 - (b) an amount equal to the difference between the amounts specified in sub-paragraphs (3) and (1)(b) of paragraph 1 of Schedule 1 in respect of each of his other partners;
-- (c)[^key-bf647450ac6156a876f223594ab7bd93] an amount determined in accordance with paragraph 2 of Schedule 1 in respect of any child or young person for whom he or a partner of his is responsible and who is a member of the same household, except a child or young person whose capital, if calculated in accordance with Chapter VI of Part IV (income and capital) in like manner as for the claimant except where otherwise provided, would exceed £3,000;
+- (c)[^c-bf647450ac6156a876f223594ab7bd93] an amount determined in accordance with paragraph 2 of Schedule 1 in respect of any child or young person for whom he or a partner of his is responsible and who is a member of the same household, except a child or young person whose capital, if calculated in accordance with Chapter VI of Part IV (income and capital) in like manner as for the claimant except where otherwise provided, would exceed £3,000;
 - (d) if he or another partner of the polygamous marriage is responsible for a child or young person who is a member of the same household, the amount specified in Part II of Schedule 1 (family premium);
 - (e) the amount of any premiums which may be applicable to him determined in accordance with Parts III and IV of Schedule 1 (premiums).
 
 ## Annotations
 
-[^key-842792c0f18058d479b4abe74ce3194a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/1890/regulation/8) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-842792c0f18058d479b4abe74ce3194a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/1890/regulation/8) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-bf647450ac6156a876f223594ab7bd93]: Modification: [Reg. 8(c)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/8/c): sum confirmed (1.4.1989) by [The Social Security Benefits Up-rating Order 1989 (S.I. 1989/43)](https://www.legislation.gov.uk/uksi/1989/43), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1989/43/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/1989/43/article/19/2) (with [art. 20](https://www.legislation.gov.uk/uksi/1989/43/article/20))
+[^c-bf647450ac6156a876f223594ab7bd93]: Modification: [Reg. 8(c)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/8/c): sum confirmed (1.4.1989) by [The Social Security Benefits Up-rating Order 1989 (S.I. 1989/43)](https://www.legislation.gov.uk/uksi/1989/43), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1989/43/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/1989/43/article/19/2) (with [art. 20](https://www.legislation.gov.uk/uksi/1989/43/article/20))

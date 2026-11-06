@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53C. Signing of a marriage schedule[^key-a0a3839544f867f39f0ec1041900d58a][^key-db5ca8d522361c2dd12489899f74c068]
+## 53C. Signing of a marriage schedule[^c-a0a3839544f867f39f0ec1041900d58a][^c-db5ca8d522361c2dd12489899f74c068]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a3839544f867f39f0ec1041900d58a]: Modification: S. 53C applied (with modifications) (4.5.2021) by 1970 c. 34, s. 14A (as inserted by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 56(10)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/56/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2)))
+[^c-a0a3839544f867f39f0ec1041900d58a]: Modification: S. 53C applied (with modifications) (4.5.2021) by 1970 c. 34, s. 14A (as inserted by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 56(10)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/56/10) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2)))
 
-[^key-db5ca8d522361c2dd12489899f74c068]: Textual amendment: Ss. 53A-53E inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/b)[(5)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/a), [7](https://www.legislation.gov.uk/uksi/2021/411/regulation/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-db5ca8d522361c2dd12489899f74c068]: Textual amendment: Ss. 53A-53E inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(4)(b)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/b)[(5)(a)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/5/a), [7](https://www.legislation.gov.uk/uksi/2021/411/regulation/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

@@ -51,8 +51,8 @@ summary: ''
 
 (8) Nothing in this regulation or Schedule 25 applies to a traditional herbal medicinal product or a registrable homoeopathic medicinal product.
 
-(9)[^key-bd53d2dc14075857db4e625040d5e121] Nothing in this regulation or Schedule 25 applies to a POC medicinal product.
+(9)[^c-bd53d2dc14075857db4e625040d5e121] Nothing in this regulation or Schedule 25 applies to a POC medicinal product.
 
 ## Annotations
 
-[^key-bd53d2dc14075857db4e625040d5e121]: Textual amendment: [Reg. 258(9)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/258/9) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2025/87/regulation/32)
+[^c-bd53d2dc14075857db4e625040d5e121]: Textual amendment: [Reg. 258(9)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/258/9) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2025/87/regulation/32)

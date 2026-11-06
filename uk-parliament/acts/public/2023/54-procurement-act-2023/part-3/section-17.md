@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Preliminary market engagement notices[^key-6ec90100a9a45da5789992fe9055e8b2][^key-392d93ac7143e8fd6d6fa9f21bf3ccc0]
+## 17. Preliminary market engagement notices[^c-6ec90100a9a45da5789992fe9055e8b2][^c-392d93ac7143e8fd6d6fa9f21bf3ccc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,14 +30,14 @@ summary: ''
 - (a) that the contracting authority intends to conduct, or has conducted, preliminary market engagement, and
 - (b) any other information specified in regulations under section 95.
 
-(3)[^key-4b0428434a451cfe56c7a712353b6811] This section does not apply to a private utility, [^key-ea699feaca46d463c3c0c55784860690]...
+(3)[^c-4b0428434a451cfe56c7a712353b6811] This section does not apply to a private utility, [^c-ea699feaca46d463c3c0c55784860690]...
 
 ## Annotations
 
-[^key-6ec90100a9a45da5789992fe9055e8b2]: Commencement: S. 17 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-6ec90100a9a45da5789992fe9055e8b2]: Commencement: S. 17 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-392d93ac7143e8fd6d6fa9f21bf3ccc0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/54/section/17) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-392d93ac7143e8fd6d6fa9f21bf3ccc0]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/54/section/17) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-4b0428434a451cfe56c7a712353b6811]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/17/3) inserted (23.5.2024) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/3), [48(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/48/2)
+[^c-4b0428434a451cfe56c7a712353b6811]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/17/3) inserted (23.5.2024) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/3), [48(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/48/2)
 
-[^key-ea699feaca46d463c3c0c55784860690]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/17/3) omitted (4.7.2024) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3), [47(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/47/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2))
+[^c-ea699feaca46d463c3c0c55784860690]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/17/3) omitted (4.7.2024) by virtue of [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/3), [47(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/47/2) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2))

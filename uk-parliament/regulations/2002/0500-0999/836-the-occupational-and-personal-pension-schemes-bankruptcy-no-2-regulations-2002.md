@@ -66,8 +66,8 @@ The Secretary of State for Work and Pensions, in exercise of powers conferred by
 
 - “the 1999 Act” means the Welfare Reform and Pensions Act 1999;
 - “income-related benefit” has the meaning given in section 123(1) of the Social Security Contributions and Benefits Act 1992 [^c965535];
-- “the[^key-080995b61f41163a125048184743eff5] 2003 Act ” means the Income Tax (Earnings and Pensions) Act 2003;
-- “relevant benefits” means any pension, lump sum, gratuity or other like benefit which is, or is to be, provided—[^key-82f30dd66fff8a352677eb332fbc7f12]
+- “the[^c-080995b61f41163a125048184743eff5] 2003 Act ” means the Income Tax (Earnings and Pensions) Act 2003;
+- “relevant benefits” means any pension, lump sum, gratuity or other like benefit which is, or is to be, provided—[^c-82f30dd66fff8a352677eb332fbc7f12]
   - (a) by reason, or in anticipation, of retirement,
   - (b) by reason of death,
   - (c) by reason of a pension sharing order or provision,
@@ -83,7 +83,7 @@ The Secretary of State for Work and Pensions, in exercise of powers conferred by
 - “the 1986 Act” means the Insolvency Act 1986;
 - “court” means the court which made the bankruptcy order against the bankrupt;
 - “destination arrangement” has the meaning given in section 342E(1)(b) of the 1986 Act [^c965537];
-- “employer-financed retirement benefits scheme” has the same meaning given by section 393A of the[^key-17dbd2ae053653cfee91ff372a6bb2d2] 2003 Act (employer-financed retirement benefits scheme);
+- “employer-financed retirement benefits scheme” has the same meaning given by section 393A of the[^c-17dbd2ae053653cfee91ff372a6bb2d2] 2003 Act (employer-financed retirement benefits scheme);
 - “pension-sharing transaction” has the meaning given in section 342D(9) of the 1986 Act [^c965538];
 - “responsible person” means the person responsible for a pension arrangement within the meaning of section 342C(6) of the 1986 Act;
 - “restoration order” means an order made under section 342A of the 1986 Act [^c965539];
@@ -110,30 +110,30 @@ The Secretary of State for Work and Pensions, in exercise of powers conferred by
 (1) The arrangements prescribed for the purposes of section 11(2)(h) of the 1999 Act (pension arrangements which are “approved pension arrangements”) are arrangements (including an annuity purchased for the purpose of giving effect to rights under any such arrangement)—
 
 - (a) to which—
-  - (i) the holder of an office or employment has contributed by way of payments out of earnings which have been allowed as a deduction under paragraph 51 of Schedule 36 to the Finance Act 2004 (individuals with pre-commencement entitlement to corresponding relief),[^key-08a92fd5f97789d6cdbcc44bc4d40b4b]
+  - (i) the holder of an office or employment has contributed by way of payments out of earnings which have been allowed as a deduction under paragraph 51 of Schedule 36 to the Finance Act 2004 (individuals with pre-commencement entitlement to corresponding relief),[^c-08a92fd5f97789d6cdbcc44bc4d40b4b]
   - (ii) Article 17A of the Convention set out in the Schedule to the Double Taxation Relief (Taxes on Income) (Republic of Ireland) Order 1976 [^c965544] (pension scheme contributions) applies;
-- (b)[^key-54e6ad17f70e05ce0196fcef6b89f129] made with a scheme which is an occupational pension scheme—
+- (b)[^c-54e6ad17f70e05ce0196fcef6b89f129] made with a scheme which is an occupational pension scheme—
   - (i) registered under section 153 of the Finance Act 2004, or
   - (ii) which is to be treated as becoming a registered pension scheme under section 153(9) of the Finance Act 2004 in accordance with Part 1 of Schedule 36 to that Act,
-- (c)[^key-ba0a679f5cda7bc75c9c369d1b45c3f0] to which section 308A of the 2003 Act (exemption of contributions to overseas pension scheme) applies;
-- (d) which are exempt or qualify for relief from, or are not liable to charge to, income tax by virtue of section 614 or 615 of the Taxes Act (exemptions and reliefs in respect of income from investments[^key-a16e5817a01d2d95ffa550de63609830] etc of certain pension schemes and other overseas pensions), or section 629, 630 or 643 of the 2003 Act (pre-1973 pensions paid under the Overseas Pensions Act 1973 and Malawi, Trinidad and Tobago and Zambia government pensions),
+- (c)[^c-ba0a679f5cda7bc75c9c369d1b45c3f0] to which section 308A of the 2003 Act (exemption of contributions to overseas pension scheme) applies;
+- (d) which are exempt or qualify for relief from, or are not liable to charge to, income tax by virtue of section 614 or 615 of the Taxes Act (exemptions and reliefs in respect of income from investments[^c-a16e5817a01d2d95ffa550de63609830] etc of certain pension schemes and other overseas pensions), or section 629, 630 or 643 of the 2003 Act (pre-1973 pensions paid under the Overseas Pensions Act 1973 and Malawi, Trinidad and Tobago and Zambia government pensions),
 - (e) made with—
   - (i) a public service pension scheme, or
   - (ii) an occupational pension scheme established under the auspices of a government department or by any person acting on behalf of the Crown;
-- (f)[^key-c1c961b1d84343aea12d771cd97f42e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-c1c961b1d84343aea12d771cd97f42e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-469520806a12b04af1425e38946140de] Paragraph (1)(e) above does not apply to any employer-financed retirement benefits scheme arrangement which has been provided to an employee as part of or in addition to any pension arrangement referred to in paragraph (1)(e) above.
+(2)[^c-469520806a12b04af1425e38946140de] Paragraph (1)(e) above does not apply to any employer-financed retirement benefits scheme arrangement which has been provided to an employee as part of or in addition to any pension arrangement referred to in paragraph (1)(e) above.
 
 (3) For the purposes of this regulation—
 
-- (a)[^key-1489eb14b22380a430ff0fa99cbfb4e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1489eb14b22380a430ff0fa99cbfb4e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “occupational pension scheme” has the meaning given in section 1 of the Pension Schemes Act 1993 [^c965551];
 - (c) “public service pension scheme” has the meaning given in section 1 of the Pension Schemes Act 1993;
-- (d)[^key-70dfd01cb7d21758f3d2149fdd598d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-70dfd01cb7d21758f3d2149fdd598d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Unapproved pension arrangements
 
-(1)[^key-a97b94cf4aead1bbfa0502e0a794aa2e] For the purposes of section 12 of the 1999 Act (effect of bankruptcy on pension rights: unapproved arrangements), a pension arrangement falling within—
+(1)[^c-a97b94cf4aead1bbfa0502e0a794aa2e] For the purposes of section 12 of the 1999 Act (effect of bankruptcy on pension rights: unapproved arrangements), a pension arrangement falling within—
 
 - (a) section 157 of the Finance Act 2004 (de-registration);
 - (b) paragraphs 52 to 57 of Schedule 36 to that Act; or
@@ -164,7 +164,7 @@ For the purpose of excluding his rights under an unapproved pension arrangement 
 
 - (a) thirteen weeks beginning with—
   - (i) the date on which the bankrupt’s estate vests in the trustee in bankruptcy in accordance with the provisions of section 306 of the 1986 Act (vesting of bankrupt’s estate in trustee), or
-  - (ii) in the case of a scheme referred to in regulation 3(1)(a) above, the date, if later than that referred to in head (i) above, on which any rights of the bankrupt vest in the trustee in bankruptcy on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004; or[^key-f7078af35f470415c3372b37d1c58a71]
+  - (ii) in the case of a scheme referred to in regulation 3(1)(a) above, the date, if later than that referred to in head (i) above, on which any rights of the bankrupt vest in the trustee in bankruptcy on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004; or[^c-f7078af35f470415c3372b37d1c58a71]
 - (b) thirty days beginning with the date on which a qualifying agreement is revoked in accordance with the provisions of regulation 6 below.
 
 (2) The court may, either before or after it has expired and where good cause is shown, extend the period referred to in paragraph (1)(a) or, as the case may be, (1)(b) above.
@@ -172,14 +172,14 @@ For the purpose of excluding his rights under an unapproved pension arrangement 
 (3) In deciding whether to make an exclusion order and, if so, whether to make it in respect of part or all (but not exceeding the total amount) of the excludable rights, the court shall have reference to—
 
 - (a) the future likely needs of the bankrupt and his family;
-- (b) whether any benefits by way of pension or otherwise (other than a pension under Part II of the Social Security Contributions and Benefits Act 1992 or Part II of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (contributory benefits) or an income-related benefit or universal credit under Part 1 of the Welfare Reform Act 2012[^key-640b52571176b29a54da6b79f3adb5e2]) are likely to be received by virtue of rights of the bankrupt which have already accrued under any other pension arrangements at the date on which the application for an exclusion order is made and the extent to which they appear likely to be adequate for meeting any such needs.
+- (b) whether any benefits by way of pension or otherwise (other than a pension under Part II of the Social Security Contributions and Benefits Act 1992 or Part II of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (contributory benefits) or an income-related benefit or universal credit under Part 1 of the Welfare Reform Act 2012[^c-640b52571176b29a54da6b79f3adb5e2]) are likely to be received by virtue of rights of the bankrupt which have already accrued under any other pension arrangements at the date on which the application for an exclusion order is made and the extent to which they appear likely to be adequate for meeting any such needs.
 
 ### 6. Qualifying agreements
 
 (1) A qualifying agreement shall be made within a period of nine weeks beginning with the later of the following—
 
 - (a) the date on which the bankrupt’s estate vests in the trustee in bankruptcy in accordance with the provisions of section 306 of the 1986 Act (vesting of bankrupt’s estate in trustee); or
-- (b) in the case of a scheme referred to in regulation 3(1)(a) above, the date, if later than that referred to in sub-paragraph (a) above, on which any rights of the bankrupt vest in the trustee in bankruptcy on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004.[^key-1960761d22d0f6e4b8aaec923928cbfd]
+- (b) in the case of a scheme referred to in regulation 3(1)(a) above, the date, if later than that referred to in sub-paragraph (a) above, on which any rights of the bankrupt vest in the trustee in bankruptcy on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004.[^c-1960761d22d0f6e4b8aaec923928cbfd]
 
 (2) A qualifying agreement made between the bankrupt and the trustee in bankruptcy shall be by deed and incorporate all the terms which they have expressly agreed.
 
@@ -204,7 +204,7 @@ the trustee in bankruptcy may revoke that agreement by giving the bankrupt notic
 
 (1) For the purposes of section 342B(4)(b) of the 1986 Act [^c965553], the value of the individual’s (“the bankrupt’s”) rights under an approved pension arrangement, or of his excluded rights under an unapproved pension arrangement, shall be the cash equivalent of those rights as calculated and verified in accordance with paragraph (2) below.
 
-(2) In calculating and verifying the cash equivalent of the rights referred to in paragraph (1) above, regulation 3 of the Pensions on Divorce etc. (Provision of Information) Regulations 2000 [^c965554] (information about pensions and divorce and dissolution of a civil partnership[^key-8540479f16537284fa98f26c023803ac] : valuation of pension benefits) shall have effect for the purposes of this regulation in like manner to that in which it has effect for the valuation of benefits in connection with the supply of information in connection with domestic and overseas divorce etc. and dissolution of a civil partnership[^key-dcf94dfd78fe3303b6fad3a684f2ea62] in England, Wales and Northern Ireland for the purposes of those Regulations; and for these purposes “the date on which the request for the valuation was received” in that regulation shall be read as “the date on which the trustee in bankruptcy’s request for the valuation was received”.
+(2) In calculating and verifying the cash equivalent of the rights referred to in paragraph (1) above, regulation 3 of the Pensions on Divorce etc. (Provision of Information) Regulations 2000 [^c965554] (information about pensions and divorce and dissolution of a civil partnership[^c-8540479f16537284fa98f26c023803ac] : valuation of pension benefits) shall have effect for the purposes of this regulation in like manner to that in which it has effect for the valuation of benefits in connection with the supply of information in connection with domestic and overseas divorce etc. and dissolution of a civil partnership[^c-dcf94dfd78fe3303b6fad3a684f2ea62] in England, Wales and Northern Ireland for the purposes of those Regulations; and for these purposes “the date on which the request for the valuation was received” in that regulation shall be read as “the date on which the trustee in bankruptcy’s request for the valuation was received”.
 
 ### 8. Time for compliance with restoration order
 
@@ -241,7 +241,7 @@ For the purposes of section 11(2)(h) of the 1999 Act, regulation 2 above shall a
 
 ### 12. Unapproved pension arrangements
 
-(1)[^key-91101f8715e65ad3bfd41a98bca4da81] For the purposes of section 12 of the 1999 Act, a pension arrangement falling within—
+(1)[^c-91101f8715e65ad3bfd41a98bca4da81] For the purposes of section 12 of the 1999 Act, a pension arrangement falling within—
 
 - (a) section 157 of the Finance Act 2004;
 - (b) paragraphs 52 to 57 of Schedule 36 to that Act; or
@@ -272,7 +272,7 @@ For the purpose of excluding his rights under an unapproved pension arrangement 
 
 - (a) thirteen weeks beginning with—
   - (i) the date on which the act and warrant is issued on confirmation of the permanent trustee’s appointment in accordance with the provisions of the 1985 Act or the date of the appointment of a judicial factor, or
-  - (ii) in the case of a scheme referred to in regulation 12(1)(a) above, the date, if later than that referred to in head (i) above, on which any rights of the debtor vest in the permanent trustee or judicial factor on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004; or[^key-4c494af67e0498881f6f536c0bc6ad12]
+  - (ii) in the case of a scheme referred to in regulation 12(1)(a) above, the date, if later than that referred to in head (i) above, on which any rights of the debtor vest in the permanent trustee or judicial factor on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004; or[^c-4c494af67e0498881f6f536c0bc6ad12]
 - (b) thirty days beginning with the date on which a qualifying agreement is revoked in accordance with the provisions of regulation 15 below.
 
 (2) The court may, either before or after it has expired and on cause shown, extend the period referred to in paragraph (1)(a) or, as the case may be, (1)(b) above.
@@ -280,14 +280,14 @@ For the purpose of excluding his rights under an unapproved pension arrangement 
 (3) In deciding whether to make an exclusion order and, if so, whether to make it in respect of part or all (but not exceeding the total amount) of the excludable rights, the court shall have reference to—
 
 - (a) the future likely needs of the debtor and his family;
-- (b) whether any benefits by way of pension or otherwise (other than a pension under Part II of the Social Security Contributions and Benefits Act 1992 or Part II of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (contributory benefits) or an income-related benefit or universal credit under Part 1 of the Welfare Reform Act 2012[^key-8b7b52752c59fba385033caf17ad67e2]) are likely to be received by virtue of rights of the debtor which have already accrued under any other pension arrangements at the date on which the application for an exclusion order is made and the extent to which they appear likely to be adequate for meeting any such needs.
+- (b) whether any benefits by way of pension or otherwise (other than a pension under Part II of the Social Security Contributions and Benefits Act 1992 or Part II of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (contributory benefits) or an income-related benefit or universal credit under Part 1 of the Welfare Reform Act 2012[^c-8b7b52752c59fba385033caf17ad67e2]) are likely to be received by virtue of rights of the debtor which have already accrued under any other pension arrangements at the date on which the application for an exclusion order is made and the extent to which they appear likely to be adequate for meeting any such needs.
 
 ### 15. Qualifying agreements
 
 (1) A qualifying agreement shall be made within a period of nine weeks beginning with the later of the following dates—
 
 - (a) the date on which the act and warrant is issued on confirmation of the permanent trustee’s appointment in accordance with the provisions of the 1985 Act or the date of the appointment of a judicial factor; or
-- (b) in the case of a scheme referred to in regulation 12(1)(a) above, the date, if later than that referred to in sub-paragraph (a) above, on which any rights of the debtor vest in the permanent trustee or judicial factor on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004.[^key-f471bc812b20a79584d9c8ff13b30e09]
+- (b) in the case of a scheme referred to in regulation 12(1)(a) above, the date, if later than that referred to in sub-paragraph (a) above, on which any rights of the debtor vest in the permanent trustee or judicial factor on the de-registration of the scheme by Her Majesty’s Revenue and Customs by virtue of section 157 of the Finance Act 2004.[^c-f471bc812b20a79584d9c8ff13b30e09]
 
 (2) A qualifying agreement shall—
 
@@ -417,15 +417,15 @@ These Regulations have only a negligible cost for business: a Regulatory Impact 
 
 [^c965535]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 123(1) was amended by section 103 of, and paragraph 1(1) of Schedule 9 to, the [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) and paragraphs 1(a) and (b) and 2(f) of Schedule 1 to the [Tax Credits Act 1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10).
 
-[^key-080995b61f41163a125048184743eff5]: Textual amendment: Words in reg. 1(4)(a) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/article/21/2/a/ii)
+[^c-080995b61f41163a125048184743eff5]: Textual amendment: Words in reg. 1(4)(a) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/article/21/2/a/ii)
 
-[^key-82f30dd66fff8a352677eb332fbc7f12]: Textual amendment: Words in reg. 1(4)(a) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/article/21/2/a/i)
+[^c-82f30dd66fff8a352677eb332fbc7f12]: Textual amendment: Words in reg. 1(4)(a) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/article/21/2/a/i)
 
 [^c965536]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
 [^c965537]: Marginal citation: Section 342E(1)(b) was inserted by paragraph 71 of Schedule 12 to the 1999 Act.
 
-[^key-17dbd2ae053653cfee91ff372a6bb2d2]: Textual amendment: Words in reg. 1(4)(b) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/21/2/b)
+[^c-17dbd2ae053653cfee91ff372a6bb2d2]: Textual amendment: Words in reg. 1(4)(b) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/21/2/b)
 
 [^c965538]: Marginal citation: Section 342D(9) was inserted by paragraph 71 of Schedule 12 to the 1999 Act.
 
@@ -439,55 +439,55 @@ These Regulations have only a negligible cost for business: a Regulatory Impact 
 
 [^c965543]: Marginal citation: Section 36A was substituted by section 16 of the 1999 Act.
 
-[^key-08a92fd5f97789d6cdbcc44bc4d40b4b]: Textual amendment: Words in reg. 2(1)(a)(i) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/i)
+[^c-08a92fd5f97789d6cdbcc44bc4d40b4b]: Textual amendment: Words in reg. 2(1)(a)(i) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/i)
 
 [^c965544]: Marginal citation: [S.I. 1976/2151](https://www.legislation.gov.uk/uksi/1976/2151). Article 17A was added by Article 1 of the Protocol set out in the Schedule to [S.I. 1995/764](https://www.legislation.gov.uk/uksi/1995/764).
 
-[^key-54e6ad17f70e05ce0196fcef6b89f129]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/1/b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/ii)
+[^c-54e6ad17f70e05ce0196fcef6b89f129]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/1/b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/ii)
 
-[^key-ba0a679f5cda7bc75c9c369d1b45c3f0]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/1/c) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/iii)
+[^c-ba0a679f5cda7bc75c9c369d1b45c3f0]: Textual amendment: [Reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/1/c) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/iii)
 
-[^key-a16e5817a01d2d95ffa550de63609830]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/1/d) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/iv)
+[^c-a16e5817a01d2d95ffa550de63609830]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/1/d) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/iv)
 
-[^key-c1c961b1d84343aea12d771cd97f42e7]: Textual amendment: Reg. 2(1)(f) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(v)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/v)
+[^c-c1c961b1d84343aea12d771cd97f42e7]: Textual amendment: Reg. 2(1)(f) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(a)(v)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/a/v)
 
-[^key-469520806a12b04af1425e38946140de]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/2) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/b)
+[^c-469520806a12b04af1425e38946140de]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2002/836/regulation/2/2) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/b)
 
-[^key-1489eb14b22380a430ff0fa99cbfb4e5]: Textual amendment: Reg. 2(3)(a) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/c)
+[^c-1489eb14b22380a430ff0fa99cbfb4e5]: Textual amendment: Reg. 2(3)(a) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/c)
 
 [^c965551]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-70dfd01cb7d21758f3d2149fdd598d26]: Textual amendment: Reg. 2(3)(d) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/c)
+[^c-70dfd01cb7d21758f3d2149fdd598d26]: Textual amendment: Reg. 2(3)(d) omitted (6.4.2006) by virtue of [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(3)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/21/3/c)
 
-[^key-a97b94cf4aead1bbfa0502e0a794aa2e]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2002/836/regulation/3/1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(4)](https://www.legislation.gov.uk/uksi/2006/744/article/21/4)
+[^c-a97b94cf4aead1bbfa0502e0a794aa2e]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2002/836/regulation/3/1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(4)](https://www.legislation.gov.uk/uksi/2006/744/article/21/4)
 
 [^c965552]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-f7078af35f470415c3372b37d1c58a71]: Textual amendment: Words in reg. 5(1)(a)(ii) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(5)](https://www.legislation.gov.uk/uksi/2006/744/article/21/5)
+[^c-f7078af35f470415c3372b37d1c58a71]: Textual amendment: Words in reg. 5(1)(a)(ii) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(5)](https://www.legislation.gov.uk/uksi/2006/744/article/21/5)
 
-[^key-640b52571176b29a54da6b79f3adb5e2]: Textual amendment: Words in reg. 5(3)(b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/32/2)
+[^c-640b52571176b29a54da6b79f3adb5e2]: Textual amendment: Words in reg. 5(3)(b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/32/2)
 
-[^key-1960761d22d0f6e4b8aaec923928cbfd]: Textual amendment: Words in reg. 6(1)(b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(6)](https://www.legislation.gov.uk/uksi/2006/744/article/21/6)
+[^c-1960761d22d0f6e4b8aaec923928cbfd]: Textual amendment: Words in reg. 6(1)(b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(6)](https://www.legislation.gov.uk/uksi/2006/744/article/21/6)
 
 [^c965553]: Marginal citation: Section 342B was substituted by section 15 of the 1999 Act.
 
 [^c965554]: Marginal citation: [S.I. 2000/1048](https://www.legislation.gov.uk/uksi/2000/1048).
 
-[^key-8540479f16537284fa98f26c023803ac]: Textual amendment: Words in reg. 7(2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/9/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-8540479f16537284fa98f26c023803ac]: Textual amendment: Words in reg. 7(2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/9/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-dcf94dfd78fe3303b6fad3a684f2ea62]: Textual amendment: Words in reg. 7(2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/9/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-dcf94dfd78fe3303b6fad3a684f2ea62]: Textual amendment: Words in reg. 7(2) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/9/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^c965555]: Marginal citation: [Section 342E](https://www.legislation.gov.uk/uksi/2002/836/section/342E) was inserted by paragraph 71 of Schedule 12 to the 1999 Act.
 
 [^c965556]: Marginal citation: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).
 
-[^key-91101f8715e65ad3bfd41a98bca4da81]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2002/836/regulation/12/1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(7)](https://www.legislation.gov.uk/uksi/2006/744/article/21/7)
+[^c-91101f8715e65ad3bfd41a98bca4da81]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/uksi/2002/836/regulation/12/1) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(7)](https://www.legislation.gov.uk/uksi/2006/744/article/21/7)
 
-[^key-4c494af67e0498881f6f536c0bc6ad12]: Textual amendment: Words in reg. 14(1)(a)(ii) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(8)](https://www.legislation.gov.uk/uksi/2006/744/article/21/8)
+[^c-4c494af67e0498881f6f536c0bc6ad12]: Textual amendment: Words in reg. 14(1)(a)(ii) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(8)](https://www.legislation.gov.uk/uksi/2006/744/article/21/8)
 
-[^key-8b7b52752c59fba385033caf17ad67e2]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2002/836/regulation/14/3/b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/32/3)
+[^c-8b7b52752c59fba385033caf17ad67e2]: Textual amendment: Words in [reg. 14(3)(b)](https://www.legislation.gov.uk/uksi/2002/836/regulation/14/3/b) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2013/630/regulation/32/3)
 
-[^key-f471bc812b20a79584d9c8ff13b30e09]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2002/836/regulation/15/1/b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(9)](https://www.legislation.gov.uk/uksi/2006/744/article/21/9)
+[^c-f471bc812b20a79584d9c8ff13b30e09]: Textual amendment: Words in [reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2002/836/regulation/15/1/b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [21(9)](https://www.legislation.gov.uk/uksi/2006/744/article/21/9)
 
 [^c965557]: Marginal citation: [1995 c. 7](https://www.legislation.gov.uk/ukpga/1995/7).
 

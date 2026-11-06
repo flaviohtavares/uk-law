@@ -34,11 +34,11 @@ An Act to make provision for the establishment of the National Consumer Council 
 
 \[19th July 2007\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c796d38a9792b4a0baef06c50ae66b2b]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c796d38a9792b4a0baef06c50ae66b2b]
 
 ## Contents
 
-### Part 1 — THE CONSUMER ADVOCACY BODIES[^key-a55ad460b0829a4689bc949c4dfc7f38][^key-6340f2f6a2d82dee9d7592ce09b80e30][^key-1698d1808b78863573a30e65102a90d2][^M_F_b14316ca-d65d-43e2-9942-b13a37b3413f]
+### Part 1 — THE CONSUMER ADVOCACY BODIES[^c-a55ad460b0829a4689bc949c4dfc7f38][^c-6340f2f6a2d82dee9d7592ce09b80e30][^c-1698d1808b78863573a30e65102a90d2][^M_F_b14316ca-d65d-43e2-9942-b13a37b3413f]
 
 #### The consumer advocacy bodies[^M_F_0443516a-849a-420e-9b80-10c90796705e]
 
@@ -120,7 +120,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 39 — The Financial Services Consumer Panel](part-1/section-39.md)
 - [Section 40 — The OFCOM Consumer Panel](part-1/section-40.md)
 
-#### Provision about consumer advocacy bodies[^key-d61672bd17e1d5bf4af2ea00084d0ebd]
+#### Provision about consumer advocacy bodies[^c-d61672bd17e1d5bf4af2ea00084d0ebd]
 
 - [Section 40A — Grants to consumer advocacy bodies](part-1/section-40a.md)
 - [Section 40B — Exemption from liability in damages](part-1/section-40b.md)
@@ -129,7 +129,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 41 — Interpretation of Part 1](part-1/section-41.md)
 
-### Part 2 — Complaints handling and redress schemes[^key-2a95c09f0b2d0c69412eb97930a08fea][^key-885417b82a6a2ca82ad4f11f60ae4512][^key-d5ff46623f35245bfc99b036ba5a2c1b][^key-6999b49a9c3370bdbe5b198fccbee672][^key-bc95b3ea816f0517cc43797043907812][^key-40bac8acb3f856f7d002a20c6878b962]
+### Part 2 — Complaints handling and redress schemes[^c-2a95c09f0b2d0c69412eb97930a08fea][^c-885417b82a6a2ca82ad4f11f60ae4512][^c-d5ff46623f35245bfc99b036ba5a2c1b][^c-6999b49a9c3370bdbe5b198fccbee672][^c-bc95b3ea816f0517cc43797043907812][^c-40bac8acb3f856f7d002a20c6878b962]
 
 #### Introductory
 
@@ -207,13 +207,13 @@ SCHEDULES
 
 ## Annotations
 
-[^key-c796d38a9792b4a0baef06c50ae66b2b]: Modification: Act: transfer of functions (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 3(4)](https://www.legislation.gov.uk/asp/2010/8/section/3/4), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [134(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8) (with [s. 3(5)](https://www.legislation.gov.uk/asp/2010/8/section/3/5)); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/278/article/2/a)
+[^c-c796d38a9792b4a0baef06c50ae66b2b]: Modification: Act: transfer of functions (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 3(4)](https://www.legislation.gov.uk/asp/2010/8/section/3/4), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [134(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8) (with [s. 3(5)](https://www.legislation.gov.uk/asp/2010/8/section/3/5)); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/278/article/2/a)
 
-[^key-a55ad460b0829a4689bc949c4dfc7f38]: Modification: Pt. 1: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(1)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/1)
+[^c-a55ad460b0829a4689bc949c4dfc7f38]: Modification: Pt. 1: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(1)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/1)
 
-[^key-6340f2f6a2d82dee9d7592ce09b80e30]: Modification: Pt. 1: power to extend (N.I.) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/3)
+[^c-6340f2f6a2d82dee9d7592ce09b80e30]: Modification: Pt. 1: power to extend (N.I.) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 61(3)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/61/3)
 
-[^key-1698d1808b78863573a30e65102a90d2]: Modification: Pt. 1 applied (with modifications) (E.W.S.) (1.4.2025 for specified purposes, 27.1.2026 in so far as not already in force) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/d)[(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [54](https://www.legislation.gov.uk/uksi/2025/269/regulation/54)
+[^c-1698d1808b78863573a30e65102a90d2]: Modification: Pt. 1 applied (with modifications) (E.W.S.) (1.4.2025 for specified purposes, 27.1.2026 in so far as not already in force) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/d)[(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [54](https://www.legislation.gov.uk/uksi/2025/269/regulation/54)
 
 [^M_F_b14316ca-d65d-43e2-9942-b13a37b3413f]: Textual amendment: Pt. 1 heading substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/2) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
@@ -223,16 +223,16 @@ SCHEDULES
 
 [^M_F_77d55e08-9f8d-4aea-f4c3-333fbd24c23b]: Textual amendment: Words in s. 37 cross-heading substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(38)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/38) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-d61672bd17e1d5bf4af2ea00084d0ebd]: Textual amendment: Ss. 40A, 40B and cross-heading inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(41)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/41) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )
+[^c-d61672bd17e1d5bf4af2ea00084d0ebd]: Textual amendment: Ss. 40A, 40B and cross-heading inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(41)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/41) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )
 
-[^key-2a95c09f0b2d0c69412eb97930a08fea]: Modification: Pt. 2 power to apply (with modifications) conferred (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 19(11)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/44/section/19/11/b/i), [30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-2a95c09f0b2d0c69412eb97930a08fea]: Modification: Pt. 2 power to apply (with modifications) conferred (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [ss. 19(11)(b)(i)](https://www.legislation.gov.uk/ukpga/2022/44/section/19/11/b/i), [30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-885417b82a6a2ca82ad4f11f60ae4512]: Modification: Pt. 2 applied (with modifications) (E.W.S.) (1.11.2022) by The Energy Bill Relief Scheme Pass-through [Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/1101)](https://www.legislation.gov.uk/uksi/2022/1101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1101/regulation/9)
+[^c-885417b82a6a2ca82ad4f11f60ae4512]: Modification: Pt. 2 applied (with modifications) (E.W.S.) (1.11.2022) by The Energy Bill Relief Scheme Pass-through [Requirement (Heat Suppliers) (England and Wales and Scotland) Regulations 2022 (S.I. 2022/1101)](https://www.legislation.gov.uk/uksi/2022/1101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1101/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/1101/regulation/9)
 
-[^key-d5ff46623f35245bfc99b036ba5a2c1b]: Modification: Pt. 2 applied (with modifications) (E.W.S.) (26.4.2023) by The Energy Bills Discount Scheme Pass-through [Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/455/regulation/9)
+[^c-d5ff46623f35245bfc99b036ba5a2c1b]: Modification: Pt. 2 applied (with modifications) (E.W.S.) (26.4.2023) by The Energy Bills Discount Scheme Pass-through [Requirement (Heat Suppliers) Regulations 2023 (S.I. 2023/455)](https://www.legislation.gov.uk/uksi/2023/455), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/455/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/455/regulation/9)
 
-[^key-6999b49a9c3370bdbe5b198fccbee672]: Modification: Pt. 2 power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 62](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/62)
+[^c-6999b49a9c3370bdbe5b198fccbee672]: Modification: Pt. 2 power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 62](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/62)
 
-[^key-bc95b3ea816f0517cc43797043907812]: Modification: Pt. 2 applied (with modifications) (E.W.S.) (3.3.2025 for specified purposes, 1.4.2025 for specified purposes, 27.1.2026 in so far as not already in force) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/i)[(3)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/f)[(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [56](https://www.legislation.gov.uk/uksi/2025/269/regulation/56)
+[^c-bc95b3ea816f0517cc43797043907812]: Modification: Pt. 2 applied (with modifications) (E.W.S.) (3.3.2025 for specified purposes, 1.4.2025 for specified purposes, 27.1.2026 in so far as not already in force) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(2)(i)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/2/i)[(3)(f)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/3/f)[(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [56](https://www.legislation.gov.uk/uksi/2025/269/regulation/56)
 
-[^key-40bac8acb3f856f7d002a20c6878b962]: Modification: Pt. 2 power to apply (with modifications) conferred (18.12.2025) by 1989 c 29, s. 38C (as inserted by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/27/2), [118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)))
+[^c-40bac8acb3f856f7d002a20c6878b962]: Modification: Pt. 2 power to apply (with modifications) conferred (18.12.2025) by 1989 c 29, s. 38C (as inserted by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/27/2), [118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)))

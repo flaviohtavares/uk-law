@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Notification and advertisement of postal administrator’s appointment[^key-a2b5d72bc8389ff4082ebd40d9bd99af]
+## 10. Notification and advertisement of postal administrator’s appointment[^c-a2b5d72bc8389ff4082ebd40d9bd99af]
 
 *Extent: S*
 
@@ -38,15 +38,15 @@ summary: ''
 - (f) any holder of a qualifying floating charge who, to the postal administrator’s knowledge, has served notice in accordance with section 70 of the 2011 Act that the person is seeking to appoint an administrator;
 - (g) any creditor who, to the postal administrator’s knowledge, has served notice in accordance with section 78 of the 2011 Act (enforcement of security) of the creditor’s intention to enforce the creditor’s security over property of the company;
 - (h) the Keeper of the Register of Inhibitions and Adjudications for recording in that register;
-- (i) if the application for the postal administration order was made by the Secretary of State, [^key-c3dbe60f35f323b721ee429a2ebe7e1e]... OFCOM; and
-- (j) if the application for the postal administration order was made by OFCOM, [^key-3bf2a8b2e90a4a8f5a6b2d18cc879bf1]... the Secretary of State.
+- (i) if the application for the postal administration order was made by the Secretary of State, [^c-c3dbe60f35f323b721ee429a2ebe7e1e]... OFCOM; and
+- (j) if the application for the postal administration order was made by OFCOM, [^c-3bf2a8b2e90a4a8f5a6b2d18cc879bf1]... the Secretary of State.
 
 (4) Where, under a provision of Schedule B1 to the 1986 Act or these Rules, the postal administrator is required to send a notice of the postal administrator’s appointment to any person, the postal administrator shall do so in Form PA5(S).
 
 ## Annotations
 
-[^key-a2b5d72bc8389ff4082ebd40d9bd99af]: Commencement: Rule 10 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-a2b5d72bc8389ff4082ebd40d9bd99af]: Commencement: Rule 10 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-c3dbe60f35f323b721ee429a2ebe7e1e]: Textual amendment: Word in [rule 10(3)(i)](https://www.legislation.gov.uk/uksi/2016/900/rule/10/3/i) omitted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/4/a)
+[^c-c3dbe60f35f323b721ee429a2ebe7e1e]: Textual amendment: Word in [rule 10(3)(i)](https://www.legislation.gov.uk/uksi/2016/900/rule/10/3/i) omitted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/4/a)
 
-[^key-3bf2a8b2e90a4a8f5a6b2d18cc879bf1]: Textual amendment: Word in [rule 10(3)(j)](https://www.legislation.gov.uk/uksi/2016/900/rule/10/3/j) omitted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/4/b)
+[^c-3bf2a8b2e90a4a8f5a6b2d18cc879bf1]: Textual amendment: Word in [rule 10(3)(j)](https://www.legislation.gov.uk/uksi/2016/900/rule/10/3/j) omitted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/4/b)

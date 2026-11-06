@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Delivering a progress report[^key-8233b23aa999545e045bb3dccbd34d2f]
+## 88. Delivering a progress report[^c-8233b23aa999545e045bb3dccbd34d2f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but this paragraph does not apply when the period covered by the report is that 
 
 ## Annotations
 
-[^key-8233b23aa999545e045bb3dccbd34d2f]: Commencement: Rule 88 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-8233b23aa999545e045bb3dccbd34d2f]: Commencement: Rule 88 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Reporting on children’s services plans[^key-da3371bd308addab5ff68c0a59ad2b05][^key-b79e1d8365df698c36b4f6270175dc82]
+## 63. Reporting on children’s services plans[^c-da3371bd308addab5ff68c0a59ad2b05][^c-b79e1d8365df698c36b4f6270175dc82]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da3371bd308addab5ff68c0a59ad2b05]: Commencement: S. 63 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-da3371bd308addab5ff68c0a59ad2b05]: Commencement: S. 63 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-b79e1d8365df698c36b4f6270175dc82]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2026/16/section/63) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-b79e1d8365df698c36b4f6270175dc82]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2026/16/section/63) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

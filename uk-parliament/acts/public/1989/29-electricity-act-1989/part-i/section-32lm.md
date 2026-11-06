@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32LM. Use of Northern Ireland certificates: onshore wind power[^key-4bc125341397fdd66c5c89bbb90819c7]
+## 32LM. Use of Northern Ireland certificates: onshore wind power[^c-4bc125341397fdd66c5c89bbb90819c7]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bc125341397fdd66c5c89bbb90819c7]: Textual amendment: S. 32LM inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/81/2), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)
+[^c-4bc125341397fdd66c5c89bbb90819c7]: Textual amendment: S. 32LM inserted (12.5.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 81(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/81/2), [84(1)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/1)

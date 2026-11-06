@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.119. Realisation of security by creditor[^key-2574072abacee29bac49355e106cded9]
+## 6.119. Realisation of security by creditor[^c-2574072abacee29bac49355e106cded9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If a creditor who has valued his security subsequently realises it (whether or n
 
 ## Annotations
 
-[^key-2574072abacee29bac49355e106cded9]: Commencement: [Rule 6.119](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.119) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2574072abacee29bac49355e106cded9]: Commencement: [Rule 6.119](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.119) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

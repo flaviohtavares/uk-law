@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Asylum or human rights claim: damage to claimant’s credibility[^key-571b94fd80820d9f32f149d99098c5a0]
+## 19. Asylum or human rights claim: damage to claimant’s credibility[^c-571b94fd80820d9f32f149d99098c5a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ on or after the day on which this section comes into force.
 
 ## Annotations
 
-[^key-571b94fd80820d9f32f149d99098c5a0]: Commencement: S. 19 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-571b94fd80820d9f32f149d99098c5a0]: Commencement: S. 19 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Receipt of transfer values[^key-aa77514beaaa0851477b02cd41ae26f3]
+## 49. Receipt of transfer values[^c-aa77514beaaa0851477b02cd41ae26f3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa77514beaaa0851477b02cd41ae26f3]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2014/292/regulation/49) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-aa77514beaaa0851477b02cd41ae26f3]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2014/292/regulation/49) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

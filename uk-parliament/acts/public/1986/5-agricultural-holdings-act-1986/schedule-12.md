@@ -57,7 +57,7 @@ and the reference to the purpose for which the land was acquired or appropriated
 
 (5) Where by a scheme under section 7 of the [^c10155381]Transport Act 1968 relevant land has been transferred by the British Railways Board to another body, sub-paragraph (2) above shall (so far as relates to relevant land so transferred) have effect in relation to that body as it has effect in relation to the British Railways Board; and in this sub-paragraph “**relevant land**” means land falling within paragraph (a) or (b) of sub-paragraph (2) above and transferred to the British Railways Board as there mentioned.
 
-(5A)[^key-0c913c5021b7bb9c3c1636941b4694eb] Where by a scheme under section 24 of the Public Bodies Act 2011 relevant land has been transferred by the British Waterways Board to Canal & River Trust or any subsidiary of Canal & River Trust, sub-paragraph (2) shall (so far as relates to relevant land so transferred) have effect in relation to Canal & River Trust or, as the case may be, that subsidiary as it had effect in relation to the British Waterways Board immediately before that land was transferred under that scheme.
+(5A)[^c-0c913c5021b7bb9c3c1636941b4694eb] Where by a scheme under section 24 of the Public Bodies Act 2011 relevant land has been transferred by the British Waterways Board to Canal & River Trust or any subsidiary of Canal & River Trust, sub-paragraph (2) shall (so far as relates to relevant land so transferred) have effect in relation to Canal & River Trust or, as the case may be, that subsidiary as it had effect in relation to the British Waterways Board immediately before that land was transferred under that scheme.
 
 (5B) In sub-paragraph (5A)—
 
@@ -131,7 +131,7 @@ subsections (2) to (5) of section 79 (and section 81) of this Act shall apply in
 
 [^c10155381]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 
-[^key-0c913c5021b7bb9c3c1636941b4694eb]: Textual amendment: [Sch. 12 para. 4(5A)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/12/paragraph/4/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/12/paragraph/4/5B) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/8) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-0c913c5021b7bb9c3c1636941b4694eb]: Textual amendment: [Sch. 12 para. 4(5A)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/12/paragraph/4/5A)[(5B)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/12/paragraph/4/5B) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/8) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c10155391]: Marginal citation: [1923 c. 9](https://www.legislation.gov.uk/ukpga/1923/9).
 

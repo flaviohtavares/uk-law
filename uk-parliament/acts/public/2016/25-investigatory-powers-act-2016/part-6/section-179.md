@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Approval of warrants by Judicial Commissioners[^key-54946eff57ec3ef62bd8a32d54b27ac2]
+## 179. Approval of warrants by Judicial Commissioners[^c-54946eff57ec3ef62bd8a32d54b27ac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54946eff57ec3ef62bd8a32d54b27ac2]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2016/25/section/179) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/n)
+[^c-54946eff57ec3ef62bd8a32d54b27ac2]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2016/25/section/179) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/n)

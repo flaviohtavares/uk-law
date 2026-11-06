@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In any case where, but for section 227(2) of the Sentencing Code[^key-015076aadfe9b41dd85c24261c70067b], a court would have power—
+(1) In any case where, but for section 227(2) of the Sentencing Code[^c-015076aadfe9b41dd85c24261c70067b], a court would have power—
 
 - (a) to commit a person aged at least 18 but under 21 to prison for default in payment of a fine or any other sum of money, or
 - (b) to make an order fixing a term of imprisonment in the event of such a default by such a person, or
@@ -50,7 +50,7 @@ as the Secretary of State may from time to time direct.
 
 ## Annotations
 
-[^key-015076aadfe9b41dd85c24261c70067b]: Textual amendment: Words in s. 108(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 163](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/163) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-015076aadfe9b41dd85c24261c70067b]: Textual amendment: Words in s. 108(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 163](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/163) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c12956331]: Marginal citation: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32).
 

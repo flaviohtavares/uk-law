@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 16 — Provisions of the Planning Acts referred to in Sections 314 to 319[^key-0ffdb7fbdf5b3b35c02731801a83d698]
+## SCHEDULE 16 — Provisions of the Planning Acts referred to in Sections 314 to 319[^c-0ffdb7fbdf5b3b35c02731801a83d698]
 
 *Extent: E+W*
 
 Sections 314 to 319.
 
-### Part I[^key-c13fab9c569d19d0285c5c468e22ca56][^key-a28fc5b54b5cfe9d88b9b8e88175ce3b][^key-ba9cebe7f06c045d4ee73d73656fa706]
+### Part I[^c-c13fab9c569d19d0285c5c468e22ca56][^c-a28fc5b54b5cfe9d88b9b8e88175ce3b][^c-ba9cebe7f06c045d4ee73d73656fa706]
 
 Section 1(1) to (3), (5) and (6)[^c14044411].
 
@@ -38,7 +38,7 @@ Section 59.
 
 Section 60 except subsection (4).
 
-Sections 61 *(affected by repeal, see note)*[^key-c13fab9c569d19d0285c5c468e22ca56] and 62[^c14044421] *(affected by repeal, see note)*[^key-c13fab9c569d19d0285c5c468e22ca56].
+Sections 61 *(affected by repeal, see note)*[^c-c13fab9c569d19d0285c5c468e22ca56] and 62[^c14044421] *(affected by repeal, see note)*[^c-c13fab9c569d19d0285c5c468e22ca56].
 
 Section 61.
 
@@ -46,7 +46,7 @@ Sections 61Z to 61Z2.
 
 Section 62.
 
-Sections 62M[^key-3616af450d63de8f270b75d18cd7789c] to 62S.
+Sections 62M[^c-3616af450d63de8f270b75d18cd7789c] to 62S.
 
 Section 69(1), (2) and (5).
 
@@ -78,7 +78,7 @@ Section 100A.
 
 Sections 102 to 104 except subsection (8) of section 102.
 
-Sections 106 to 106BC[^key-4fdaea2c33d6cfee4be7c87f83dc0c3d].
+Sections 106 to 106BC[^c-4fdaea2c33d6cfee4be7c87f83dc0c3d].
 
 Section 107.
 
@@ -230,7 +230,7 @@ Section 79(6) to[^c14044631] (7).
 
 Sections 91 to 93.
 
-Sections 93H to 93J[^key-5d2344ac284491921d6c1ba8fefb181c]
+Sections 93H to 93J[^c-5d2344ac284491921d6c1ba8fefb181c]
 
 Section 94(1)(a) and (2) to (6).
 
@@ -364,19 +364,19 @@ Any other provisions of this Act in so far as they apply, or have effect for the
 
 ## Annotations
 
-[^key-0ffdb7fbdf5b3b35c02731801a83d698]: Textual amendment: Sch. 13 para. 26 and cross-heading inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(2)(b)](https://www.legislation.gov.uk/asc/2024/3/section/99/2/b), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-0ffdb7fbdf5b3b35c02731801a83d698]: Textual amendment: Sch. 13 para. 26 and cross-heading inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(2)(b)](https://www.legislation.gov.uk/asc/2024/3/section/99/2/b), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
 
-[^key-c13fab9c569d19d0285c5c468e22ca56]: Textual amendment: Words in [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/I) substituted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/23/2); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
+[^c-c13fab9c569d19d0285c5c468e22ca56]: Textual amendment: Words in [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/I) substituted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 23(2)](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/23/2); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
 
-[^key-a28fc5b54b5cfe9d88b9b8e88175ce3b]: Textual amendment: Words in [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/I) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 23(3)](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/23/3); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
+[^c-a28fc5b54b5cfe9d88b9b8e88175ce3b]: Textual amendment: Words in [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/I) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 23(3)](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/23/3); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
 
-[^key-ba9cebe7f06c045d4ee73d73656fa706]: Textual amendment: Words in [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/I) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 23(4)](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/23/4); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
+[^c-ba9cebe7f06c045d4ee73d73656fa706]: Textual amendment: Words in [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/I) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 23(4)](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/23/4); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
 
 [^c14044411]: Textual amendment: Words in Sch. 16 Pt. 1 substituted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 20(4)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/4), [Sch. 6 Pt. II para. 24(18)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/6/part/II/paragraph/24/18) (with [ss. 54(5)(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/6), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 
 [^c14044421]: Textual amendment: Words in entry in Sch. 16 Pt. 1 relating to ss. 61-64 substituted (2.1.1992 so far as relating to the omission of the reference to s. 63 otherwise 27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para. 57(2)(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/57/2/a) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2905/schedule/1); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art. 2](https://www.legislation.gov.uk/uksi/1992/1630/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1630/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/1630/article/3/1))
 
-[^key-3616af450d63de8f270b75d18cd7789c]: Textual amendment: Word in Sch. 16 Pt. 1 substituted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(26)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/26) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-3616af450d63de8f270b75d18cd7789c]: Textual amendment: Word in Sch. 16 Pt. 1 substituted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(26)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/26) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
 [^c14044431]: Textual amendment: Entry in Sch. 16 Pt. 1 inserted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para. 57(2)(b)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/57/2/b) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 
@@ -386,7 +386,7 @@ Any other provisions of this Act in so far as they apply, or have effect for the
 
 [^c14044461]: Textual amendment: Words in the entry in Sch. 16 Pt. 1 relating to ss. 78-79 repealed (17.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para. 57(2)(e)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/57/2/e), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1992/1491](https://www.legislation.gov.uk/uksi/1992/1491), [art. 2](https://www.legislation.gov.uk/uksi/1992/1491/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/1491/schedule/1), [2](https://www.legislation.gov.uk/uksi/1992/1491/schedule/2)
 
-[^key-4fdaea2c33d6cfee4be7c87f83dc0c3d]: Textual amendment: Word in Sch. 16 Pt. 1 substituted (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/2/paragraph/10)
+[^c-4fdaea2c33d6cfee4be7c87f83dc0c3d]: Textual amendment: Word in Sch. 16 Pt. 1 substituted (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/27/schedule/2/paragraph/10)
 
 [^c14044481]: Textual amendment: Entry in Sch. 16 Pt. 1 substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 31(4)](https://www.legislation.gov.uk/ukpga/1991/34/section/31/4), [Sch. 6 para. 41(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/41/a) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 
@@ -408,7 +408,7 @@ Any other provisions of this Act in so far as they apply, or have effect for the
 
 [^c14044631]: Textual amendment: Word in [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/2) substituted (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para. 57(3)(b)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/57/3/b)(with s. 84(5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 
-[^key-5d2344ac284491921d6c1ba8fefb181c]: Textual amendment: Words in [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/2) inserted (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/15) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-5d2344ac284491921d6c1ba8fefb181c]: Textual amendment: Words in [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/1990/8/schedule/16/part/2) inserted (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/15) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14044641]: Textual amendment: Entry in Sch. 16 Pt. 2 inserted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch 7 para. 57(3)(c)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/57/3/c)(with s. 84(5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2905/schedule/1) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Fostering[^key-e167ed9f3ecbc271accf130b73904978][^key-7093654f0ec1eb78d1cc344ab704faa3]
+## 53. Fostering[^c-e167ed9f3ecbc271accf130b73904978][^c-7093654f0ec1eb78d1cc344ab704faa3]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (7) A person is a foster parent if—
 
-- (a)[^key-7cc48e7e9c64f1c0eab60d7ec6dde834] the person is a local authority foster parent within the meaning of section 105 of the Children Act 1989;
+- (a)[^c-7cc48e7e9c64f1c0eab60d7ec6dde834] the person is a local authority foster parent within the meaning of section 105 of the Children Act 1989;
 - (b) he is a person with whom a child has been placed by a voluntary organisation under section 59(1)(a) of that Act;
 - (c) he is a private foster parent.
 
@@ -61,8 +61,8 @@ and references to a family relationship and family member are to be construed ac
 
 ## Annotations
 
-[^key-e167ed9f3ecbc271accf130b73904978]: Commencement: S. 53 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/l)
+[^c-e167ed9f3ecbc271accf130b73904978]: Commencement: S. 53 in force at 11.2.2008 for specified purposes by [S.I. 2007/3545](https://www.legislation.gov.uk/uksi/2007/3545), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/3545/article/4/l)
 
-[^key-7093654f0ec1eb78d1cc344ab704faa3]: Commencement: S. 53 in force at 20.1.2009 in so far as not already in force by [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/i)
+[^c-7093654f0ec1eb78d1cc344ab704faa3]: Commencement: S. 53 in force at 20.1.2009 in so far as not already in force by [S.I. 2009/39](https://www.legislation.gov.uk/uksi/2009/39), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2009/39/article/2/1/i)
 
-[^key-7cc48e7e9c64f1c0eab60d7ec6dde834]: Textual amendment: S. 53(7)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [255](https://www.legislation.gov.uk/wsi/2016/413/regulation/255)
+[^c-7cc48e7e9c64f1c0eab60d7ec6dde834]: Textual amendment: S. 53(7)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [255](https://www.legislation.gov.uk/wsi/2016/413/regulation/255)

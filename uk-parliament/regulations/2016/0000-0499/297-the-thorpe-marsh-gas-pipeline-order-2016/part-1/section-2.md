@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-bb5d3224b4f85399e60af2a6b70f7894]
+## 2. Interpretation[^c-bb5d3224b4f85399e60af2a6b70f7894]
 
 *Extent: E+W+S*
 
@@ -89,7 +89,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bb5d3224b4f85399e60af2a6b70f7894]: Commencement: Art. 2 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-bb5d3224b4f85399e60af2a6b70f7894]: Commencement: Art. 2 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 

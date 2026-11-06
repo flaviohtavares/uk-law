@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-cb8b196fb3520befab9aaee5fbbe65ef][^key-e04c3d368e1a3278a914060a3c36f3e3] Subject to sections 105 and 106 of this Act, where a constable finds on a road a vehicle which has been permitted to remain at rest there in contravention of any prohibition or restriction imposed by or under any enactment, he may—
+(1)[^c-cb8b196fb3520befab9aaee5fbbe65ef][^c-e04c3d368e1a3278a914060a3c36f3e3] Subject to sections 105 and 106 of this Act, where a constable finds on a road a vehicle which has been permitted to remain at rest there in contravention of any prohibition or restriction imposed by or under any enactment, he may—
 
 - (a) fix an immobilisation device to the vehicle while it remains in the place in which he finds it; or
 - (b) move it from that place to another place on the same or another road and fix an immobilisation device to it in that other place;
@@ -49,7 +49,7 @@ or authorise another person to take under his direction any action he could hims
 
 (10)[^c13562571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11) Any sum received by virtue of subsection (4) above shall be paid into the police fund or, in Scotland, to the Scottish Police Authority *(Extent: S)*[^key-6d33c97d53baded232fec6ac82c3ca64].
+(11) Any sum received by virtue of subsection (4) above shall be paid into the police fund or, in Scotland, to the Scottish Police Authority *(Extent: S)*[^c-6d33c97d53baded232fec6ac82c3ca64].
 
 (12) Regulations under subsection (2) or (4) above may make different provision for different cases or classes of case or in respect of different areas[^c13562581].
 
@@ -59,9 +59,9 @@ or authorise another person to take under his direction any action he could hims
 
 [^c13562531]: Modification: S. 104 extended (21.3.1999) by [S.I. 1999/854](https://www.legislation.gov.uk/uksi/1999/854), [art. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/854/article/3/2/a/ii)
 
-[^key-cb8b196fb3520befab9aaee5fbbe65ef]: Modification: S. 104(1) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-cb8b196fb3520befab9aaee5fbbe65ef]: Modification: S. 104(1) excluded by 1988 c. 52, s. 12E (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
 
-[^key-e04c3d368e1a3278a914060a3c36f3e3]: Modification: S. 104(1) excluded (S.) (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-e04c3d368e1a3278a914060a3c36f3e3]: Modification: S. 104(1) excluded (S.) (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13562541]: Textual amendment: Words in s. 104(3) substituted (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/34/2); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3),Sch.
 
@@ -71,7 +71,7 @@ or authorise another person to take under his direction any action he could hims
 
 [^c13562571]: Textual amendment: S. 104(10) repealed (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 83](https://www.legislation.gov.uk/ukpga/1991/40/section/83), [Sch.8](https://www.legislation.gov.uk/ukpga/1991/40/schedule/8); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3),Sch.
 
-[^key-6d33c97d53baded232fec6ac82c3ca64]: Textual amendment: Words in s. 104(11) inserted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 9(3)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/9/3)
+[^c-6d33c97d53baded232fec6ac82c3ca64]: Textual amendment: Words in s. 104(11) inserted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 9(3)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/9/3)
 
 [^c13562581]: Textual amendment: Words in s. 104(12) added (1.10.1991) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4), [para. 34(3)](https://www.legislation.gov.uk/ukpga/1991/40/paragraph/34/3); [S.I. 1991/2054](https://www.legislation.gov.uk/uksi/1991/2054), [art. 3](https://www.legislation.gov.uk/uksi/1991/2054/article/3),Sch.
 

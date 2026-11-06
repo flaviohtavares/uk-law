@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Investigations[^key-c2b87eda9230febfe939a5b4ad723e6b]
+## 84. Investigations[^c-c2b87eda9230febfe939a5b4ad723e6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) for any of the ONR's purposes, or
 - (b) with a view to the making of—
   - (i) nuclear regulations,
-  - (ia)[^key-4737cbcc464438b7ae70b35569628631] regulations under section 76A (nuclear safeguards regulations etc),
+  - (ia)[^c-4737cbcc464438b7ae70b35569628631] regulations under section 76A (nuclear safeguards regulations etc),
   - (ib) regulations under section 112(1B) (definition of “relevant international agreement”), or
   - (ii) regulations under section 15 of the 1974 Act (health and safety regulations) so far as they can be made for the nuclear site health and safety purposes.
 
@@ -46,14 +46,14 @@ summary: ''
 
 (5) The ONR may make such payments as it may determine to meet the other costs (if any) of an investigation or special report under subsection (1).
 
-(6) The ONR must consult the Office of Rail and Road *(Extent: E+W+S)*[^key-11e36a6cfcc7dd6c27f62771d254cd4e] before taking any step under subsection (1) in relation to a matter which appears to the ONR to be, or likely to be, relevant to the railway safety purposes (within the meaning given in paragraph 1 of Schedule 3 to the Railways Act 2005).
+(6) The ONR must consult the Office of Rail and Road *(Extent: E+W+S)*[^c-11e36a6cfcc7dd6c27f62771d254cd4e] before taking any step under subsection (1) in relation to a matter which appears to the ONR to be, or likely to be, relevant to the railway safety purposes (within the meaning given in paragraph 1 of Schedule 3 to the Railways Act 2005).
 
 (7) Subsection (2) is subject to section 94.
 
 ## Annotations
 
-[^key-c2b87eda9230febfe939a5b4ad723e6b]: Commencement: S. 84 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-c2b87eda9230febfe939a5b4ad723e6b]: Commencement: S. 84 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-4737cbcc464438b7ae70b35569628631]: Textual amendment: S. 84(3)(b)(ia)(ib) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/5); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-4737cbcc464438b7ae70b35569628631]: Textual amendment: S. 84(3)(b)(ia)(ib) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/5); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-11e36a6cfcc7dd6c27f62771d254cd4e]: Textual amendment: Words in s. 84(6) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. Pt. 1 para. 4(w)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/w/i)
+[^c-11e36a6cfcc7dd6c27f62771d254cd4e]: Textual amendment: Words in s. 84(6) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. Pt. 1 para. 4(w)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/w/i)

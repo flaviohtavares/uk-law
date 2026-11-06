@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Appeals etc.[^key-18007db1bf6c8a1430e883ce4b591f05][^key-593f82ff96280362647f9d687e35334d]
+## 19. Appeals etc.[^c-18007db1bf6c8a1430e883ce4b591f05][^c-593f82ff96280362647f9d687e35334d]
 
 *Extent: S*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18007db1bf6c8a1430e883ce4b591f05]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2006/17/section/19) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-18007db1bf6c8a1430e883ce4b591f05]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2006/17/section/19) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-593f82ff96280362647f9d687e35334d]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2006/17/section/19) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-593f82ff96280362647f9d687e35334d]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2006/17/section/19) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

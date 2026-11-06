@@ -38,7 +38,7 @@ In regulation 2(1) of the Lifting Operations and Lifting Equipment Regulations 1
 - (a) the definition of “the 1992 Regulations” shall be deleted; and
 - (b) in sub-paragraph (a) of the definition of “EC declaration of conformity”, for “regulation 22 of the 1992 Regulations”, there shall be substituted “ section A of part 1 of Part 2 of Schedule 2 to the Supply of Machinery (Safety) Regulations 2008 ”.
 
-### 3. The Pressure Equipment Regulations 1999[^key-c41bec58468bf1f9579dc1059af00258]
+### 3. The Pressure Equipment Regulations 1999[^c-c41bec58468bf1f9579dc1059af00258]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,7 +100,7 @@ In Part 3 of the Schedule to the Legislative and Regulatory Reform (Regulatory F
 
 [^c19306571]: Marginal citation: [S.I. 1998/2307](https://www.legislation.gov.uk/uksi/1998/2307), amended by [S.I. 2005/831](https://www.legislation.gov.uk/uksi/2005/831); there are other amending instruments but none is relevant.
 
-[^key-c41bec58468bf1f9579dc1059af00258]: Textual amendment: Sch. 7 para. 3 omitted (8.12.2016) by virtue of [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 8](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/8) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
+[^c-c41bec58468bf1f9579dc1059af00258]: Textual amendment: Sch. 7 para. 3 omitted (8.12.2016) by virtue of [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 8](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/8) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
 
 [^c19306591]: Marginal citation: [S.I. 2001/1701](https://www.legislation.gov.uk/uksi/2001/1701), amended by [S.I. 2001/3958](https://www.legislation.gov.uk/uksi/2001/3958); there are other amending instruments but none is relevant.
 

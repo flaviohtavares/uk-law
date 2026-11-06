@@ -39,76 +39,76 @@ laying down rules concerning the transitional national plans referred to in Dire
 
 (2012/115/EU) (revoked)
 
-[^key-d6d25bddf376e44385eca11f224028df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Interpretation[^key-d6d25bddf376e44385eca11f224028df]
+## Article 1. Interpretation[^c-d6d25bddf376e44385eca11f224028df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Content of the transitional national plans[^key-d6d25bddf376e44385eca11f224028df]
+## Article 2. Content of the transitional national plans[^c-d6d25bddf376e44385eca11f224028df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Setting emission ceilings in the transitional national plans[^key-d6d25bddf376e44385eca11f224028df]
+## Article 3. Setting emission ceilings in the transitional national plans[^c-d6d25bddf376e44385eca11f224028df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Implementation of the transitional national plan[^key-d6d25bddf376e44385eca11f224028df]
+## Article 4. Implementation of the transitional national plan[^c-d6d25bddf376e44385eca11f224028df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Subsequent changes to the transitional national plan[^key-d6d25bddf376e44385eca11f224028df]
+## Article 5. Subsequent changes to the transitional national plan[^c-d6d25bddf376e44385eca11f224028df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reporting[^key-d6d25bddf376e44385eca11f224028df]
+## Article 6. Reporting[^c-d6d25bddf376e44385eca11f224028df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-d6d25bddf376e44385eca11f224028df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-d6d25bddf376e44385eca11f224028df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d6d25bddf376e44385eca11f224028df]
+## ANNEX[^c-d6d25bddf376e44385eca11f224028df]
 
-[^key-d6d25bddf376e44385eca11f224028df]1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-d6d25bddf376e44385eca11f224028df]2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]4.
+[^c-d6d25bddf376e44385eca11f224028df]3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d6d25bddf376e44385eca11f224028df]4.
 
 **Subsequent changes to transitional national plans**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]Appendix A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]Appendix A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]Appendix B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]Appendix B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]Appendix C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]Appendix C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6d25bddf376e44385eca11f224028df]Appendix D. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6d25bddf376e44385eca11f224028df]Appendix D. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6d25bddf376e44385eca11f224028df]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-d6d25bddf376e44385eca11f224028df]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

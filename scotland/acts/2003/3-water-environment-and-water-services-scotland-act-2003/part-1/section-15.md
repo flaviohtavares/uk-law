@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Sub-basin plans[^key-557d5f2c1c9b486c7564f06997337349]
+## 15. Sub-basin plans[^c-557d5f2c1c9b486c7564f06997337349]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-557d5f2c1c9b486c7564f06997337349]: Commencement: S. 15 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/235/article/2/b)
+[^c-557d5f2c1c9b486c7564f06997337349]: Commencement: S. 15 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/235/article/2/b)

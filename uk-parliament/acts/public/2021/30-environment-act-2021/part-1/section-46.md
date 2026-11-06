@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Meaning of “environmental law”[^key-476958543b1f848326942125ec9db319][^key-a996e17be1c998891a683c77f843c4ec]
+## 46. Meaning of “environmental law”[^c-476958543b1f848326942125ec9db319][^c-a996e17be1c998891a683c77f843c4ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-476958543b1f848326942125ec9db319]: Commencement: S. 46 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-476958543b1f848326942125ec9db319]: Commencement: S. 46 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a996e17be1c998891a683c77f843c4ec]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/30/section/46) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/g)
+[^c-a996e17be1c998891a683c77f843c4ec]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2021/30/section/46) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Maximum rent[^key-534b083a96d1f6d99022b602bbfaad1c]
+## 14. Maximum rent[^c-534b083a96d1f6d99022b602bbfaad1c]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ in determining the maximum rent the Executive shall deduct an amount determined 
 
 ## Annotations
 
-[^key-534b083a96d1f6d99022b602bbfaad1c]: Textual amendment: [Regs. 14-14F](https://www.legislation.gov.uk/nisr/2006/405/regulation/14A) substituted for reg. 14 (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/7)
+[^c-534b083a96d1f6d99022b602bbfaad1c]: Textual amendment: [Regs. 14-14F](https://www.legislation.gov.uk/nisr/2006/405/regulation/14A) substituted for reg. 14 (with application in accordance with reg. 1(3)(4) of the amending Rule) by [The Housing Benefit (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/101)](https://www.legislation.gov.uk/nisr/2008/101), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/101/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/101/regulation/2/7)

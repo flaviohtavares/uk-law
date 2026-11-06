@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Directions as to reinforcement schemes[^key-a7f1f2b3bb188daf1fa0d75440459642][^key-070668c6f2c1e7aac94a8f78aef23f88]
+## 14. Directions as to reinforcement schemes[^c-a7f1f2b3bb188daf1fa0d75440459642][^c-070668c6f2c1e7aac94a8f78aef23f88]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7f1f2b3bb188daf1fa0d75440459642]: Commencement: S. 14 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-a7f1f2b3bb188daf1fa0d75440459642]: Commencement: S. 14 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-070668c6f2c1e7aac94a8f78aef23f88]: Commencement: S. 14 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-070668c6f2c1e7aac94a8f78aef23f88]: Commencement: S. 14 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

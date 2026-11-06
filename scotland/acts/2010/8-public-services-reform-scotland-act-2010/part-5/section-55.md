@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Inspections at request of Scottish Ministers[^key-c1d0375b799125af543e4a6b02e4bb5c][^key-83dfcf4fe1944a0458e2183cd1d95f0c]
+## 55. Inspections at request of Scottish Ministers[^c-c1d0375b799125af543e4a6b02e4bb5c][^c-83dfcf4fe1944a0458e2183cd1d95f0c]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1d0375b799125af543e4a6b02e4bb5c]: Commencement: S. 55 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-c1d0375b799125af543e4a6b02e4bb5c]: Commencement: S. 55 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-83dfcf4fe1944a0458e2183cd1d95f0c]: Commencement: S. 55 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-83dfcf4fe1944a0458e2183cd1d95f0c]: Commencement: S. 55 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

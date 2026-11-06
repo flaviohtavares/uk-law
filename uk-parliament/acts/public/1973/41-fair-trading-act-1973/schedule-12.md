@@ -26,7 +26,7 @@ Section 139.
 | --- | --- |
 | . . . [^c10715601] | . . . |
 | [^c10715611]The [^c10715621]Agricultural Marketing Act 1958. | In section 47, in the proviso to subsection (2), after paragraph (a) there shall be inserted the following paragraph:—<br>> - (aa) made to the Monopolies and Mergers Commission, or to any member of that Commission or to any staff of that Commission, or to the Director General of Fair Trading or any staff appointed by thar Director General, if it is made for the purpose of enabling the Commission or the Director General to perform any functions of theirs or his under the Fair Trading Act 1973. |
-| [^key-747f84bf89f8b619eadcf6d79c9d0f45]. . . | [^key-747f84bf89f8b619eadcf6d79c9d0f45]. . . |
+| [^c-747f84bf89f8b619eadcf6d79c9d0f45]. . . | [^c-747f84bf89f8b619eadcf6d79c9d0f45]. . . |
 | [^c10715661]The[^c10715651] [^c10715671]Agricultural Marketing Act (Northern Ireland) 1964. | In section 23, in subsection (2), after paragraph (aa) there shall be inserted the following paragraph:—<br>> - (aaa) made to the Monopolies and Mergers Commission, or to any member of that Commission or to any staff of that Commission, or to the Director General of Fair Trading or any staff appointed by thar Director General, if it is made for the purpose of enabling the Commission or the Director General to perform any functions of theirs or his under the Fair Trading Act 1973. |
 | . . . [^c10715601] | . . . |
 | . . . [^c10715701] | . . . |
@@ -41,7 +41,7 @@ Section 139.
 
 [^c10715621]: Marginal citation: 6 & 7 Eliz. 2. c. 47.
 
-[^key-747f84bf89f8b619eadcf6d79c9d0f45]: Textual amendment: Words in [Sch. 12](https://www.legislation.gov.uk/ukpga/1973/41/schedule/12) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-747f84bf89f8b619eadcf6d79c9d0f45]: Textual amendment: Words in [Sch. 12](https://www.legislation.gov.uk/ukpga/1973/41/schedule/12) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 6](https://www.legislation.gov.uk/uksi/2003/1397/article/6), [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c10715661]: Modification: The text of the amendment to the [Agricultural Marketing Act (Northern Ireland) 1964 (c. 13)](https://www.legislation.gov.uk/apni/1964/13) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

@@ -22,15 +22,15 @@ summary: ''
 
 (1) A business carried on by the partnership is a business of leasing plant or machinery on the relevant day if condition A or B is met.
 
-(2) Condition A is that at least half of the relevant plant or machinery value relates to plant or machinery falling within subsection (6)[^key-45377d181fc5005e4b785ad6ee27c244].
+(2) Condition A is that at least half of the relevant plant or machinery value relates to plant or machinery falling within subsection (6)[^c-45377d181fc5005e4b785ad6ee27c244].
 
 (3) Subsection (2) is supplemented by section 411.
 
-(4)[^key-7d6fc3eef1a6a91c04ce0b7f29bacb17] Condition B is that at least half of the partnership's income in the past 12 months derives from plant or machinery falling within subsection (6).
+(4)[^c-7d6fc3eef1a6a91c04ce0b7f29bacb17] Condition B is that at least half of the partnership's income in the past 12 months derives from plant or machinery falling within subsection (6).
 
 (5) Subsection (4) is supplemented by section 414.
 
-(6)[^key-010399deefeca0d1d5ef3de8602c0052] Plant or machinery falls within this subsection if—
+(6)[^c-010399deefeca0d1d5ef3de8602c0052] Plant or machinery falls within this subsection if—
 
 - (a) it is or at any time in the past 12 months has been leased out by the partnership or a qualifying associate,
 - (b) the lease under which it is or has been leased out is a plant or machinery lease but not an excluded lease of background plant or machinery for a building (see section 437(3)), and
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-45377d181fc5005e4b785ad6ee27c244]: Textual amendment: Words in s. 410(2) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/11/2)
+[^c-45377d181fc5005e4b785ad6ee27c244]: Textual amendment: Words in s. 410(2) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 11(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/11/2)
 
-[^key-7d6fc3eef1a6a91c04ce0b7f29bacb17]: Textual amendment: S. 410(4) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/11/3)
+[^c-7d6fc3eef1a6a91c04ce0b7f29bacb17]: Textual amendment: S. 410(4) substituted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 11(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/11/3)
 
-[^key-010399deefeca0d1d5ef3de8602c0052]: Textual amendment: S. 410(6)-(9) substituted for s. 410(6)(7) (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 11(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/11/4)
+[^c-010399deefeca0d1d5ef3de8602c0052]: Textual amendment: S. 410(6)-(9) substituted for s. 410(6)(7) (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 11(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/11/4)

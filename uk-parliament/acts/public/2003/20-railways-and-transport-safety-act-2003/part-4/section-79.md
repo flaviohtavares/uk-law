@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Professional staff off duty[^key-b3ff505ce2eabd86517ac669eec54f1a]
+## 79. Professional staff off duty[^c-b3ff505ce2eabd86517ac669eec54f1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3ff505ce2eabd86517ac669eec54f1a]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2003/20/section/79) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/827/article/3/b)
+[^c-b3ff505ce2eabd86517ac669eec54f1a]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2003/20/section/79) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/827/article/3/b)

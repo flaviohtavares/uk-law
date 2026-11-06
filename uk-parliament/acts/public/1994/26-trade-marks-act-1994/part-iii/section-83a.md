@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83A. Regulation of trade mark attorneys[^key-8e36f9412537582ac875282d17194ef3]
+## 83A. Regulation of trade mark attorneys[^c-8e36f9412537582ac875282d17194ef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e36f9412537582ac875282d17194ef3]: Textual amendment: Ss. 83, 83A substituted for s. 83 (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 184(3)](https://www.legislation.gov.uk/ukpga/2007/29/section/184/3), [211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)) (as amended (15.12.2009) by [S.I. 2009/3339](https://www.legislation.gov.uk/uksi/2009/3339), arts. 1, 2); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/i)
+[^c-8e36f9412537582ac875282d17194ef3]: Textual amendment: Ss. 83, 83A substituted for s. 83 (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 184(3)](https://www.legislation.gov.uk/ukpga/2007/29/section/184/3), [211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)) (as amended (15.12.2009) by [S.I. 2009/3339](https://www.legislation.gov.uk/uksi/2009/3339), arts. 1, 2); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(f)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/f/i)

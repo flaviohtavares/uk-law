@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Waste
 
-### 1. Fixed penalty notices for offences under Article 4[^key-44abbb306881b7376ff4e3ce245ecba4]
+### 1. Fixed penalty notices for offences under Article 4[^c-44abbb306881b7376ff4e3ce245ecba4]
 
 After Article 4 of the 1997 Order insert—
 
@@ -94,7 +94,7 @@ After Article 4 of the 1997 Order insert—
 
 .
 
-### 2. Detention of seized property[^key-1106f494ea58e92f16c892ff3e125fd0]
+### 2. Detention of seized property[^c-1106f494ea58e92f16c892ff3e125fd0]
 
 (1) In Article 5F of the 1997 Order (seizure of vehicles) after paragraph (3) insert—
 
@@ -135,7 +135,7 @@ In Article 15 of the 1997 Order (fees and charges for licences) after paragraph 
 
 .
 
-### 4. Powers to require removal of waste unlawfully deposited[^key-1ba9adf598f2096b38311fad64042118]
+### 4. Powers to require removal of waste unlawfully deposited[^c-1ba9adf598f2096b38311fad64042118]
 
 For Articles 28 and 28A of the 1997 Order substitute—
 
@@ -215,7 +215,7 @@ For Articles 28 and 28A of the 1997 Order substitute—
 
 .
 
-### 5. Councils to enforce Articles 4 and 5 of 1997 Order[^key-a144090d7bcf7807195f9602fce57855]
+### 5. Councils to enforce Articles 4 and 5 of 1997 Order[^c-a144090d7bcf7807195f9602fce57855]
 
 (1) In Article 72 of the 1997 Order (powers of enforcing authority), in paragraph (12)—
 
@@ -427,13 +427,13 @@ Section 11.
 
 ## Annotations
 
-[^key-44abbb306881b7376ff4e3ce245ecba4]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/5/section/1) in operation at 12.3.2013 by [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(1)](https://www.legislation.gov.uk/nisr/2013/34/article/2/1)
+[^c-44abbb306881b7376ff4e3ce245ecba4]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/5/section/1) in operation at 12.3.2013 by [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(1)](https://www.legislation.gov.uk/nisr/2013/34/article/2/1)
 
-[^key-1106f494ea58e92f16c892ff3e125fd0]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/5/section/2) in operation at 12.3.2013 by [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(2)](https://www.legislation.gov.uk/nisr/2013/34/article/2/2)
+[^c-1106f494ea58e92f16c892ff3e125fd0]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/5/section/2) in operation at 12.3.2013 by [S.R. 2013/34](https://www.legislation.gov.uk/nisr/2013/34), [art. 2(2)](https://www.legislation.gov.uk/nisr/2013/34/article/2/2)
 
-[^key-1ba9adf598f2096b38311fad64042118]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/5/section/4) in operation at 2.1.2023 by [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/289/article/2/a)
+[^c-1ba9adf598f2096b38311fad64042118]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/5/section/4) in operation at 2.1.2023 by [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/289/article/2/a)
 
-[^key-a144090d7bcf7807195f9602fce57855]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/5/section/5) in operation at 2.1.2023 by [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
+[^c-a144090d7bcf7807195f9602fce57855]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/5/section/5) in operation at 2.1.2023 by [S.R. 2022/289](https://www.legislation.gov.uk/nisr/2022/289), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/289/article/2/b)
 
 [^c22526661]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/5/section/11) partly in operation; [s. 11](https://www.legislation.gov.uk/nia/2011/5/section/11) not in operation at Royal Assent see [s. 12(1)](https://www.legislation.gov.uk/nia/2011/5/section/12/1); [s. 11(1)(2)](https://www.legislation.gov.uk/nia/2011/5/section/11/1/2) in operation for certain purposes at 17.10.2011 by [S.R. 2011/312](https://www.legislation.gov.uk/nisr/2011/312), [art. 2](https://www.legislation.gov.uk/nisr/2011/312/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/312/schedule)
 

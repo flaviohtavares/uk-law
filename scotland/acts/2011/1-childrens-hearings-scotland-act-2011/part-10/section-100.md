@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Sheriff's power to make interim compulsory supervision order[^key-6e2f8845d371547cad42f91774b37972]
+## 100. Sheriff's power to make interim compulsory supervision order[^c-6e2f8845d371547cad42f91774b37972]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2f8845d371547cad42f91774b37972]: Commencement: S. 100 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6e2f8845d371547cad42f91774b37972]: Commencement: S. 100 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

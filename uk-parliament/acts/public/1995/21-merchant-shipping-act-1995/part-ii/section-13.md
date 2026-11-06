@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Status of certificate of registration.[^key-5a2f18708d09bd39a234cd7aa28cf82f]
+## 13. Status of certificate of registration.[^c-5a2f18708d09bd39a234cd7aa28cf82f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The certificate of registration of a British ship shall be used only for the law
 
 ## Annotations
 
-[^key-5a2f18708d09bd39a234cd7aa28cf82f]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1995/21/section/13) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-5a2f18708d09bd39a234cd7aa28cf82f]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1995/21/section/13) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

@@ -51,7 +51,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020, and par
 
 ## PART 1 — Introductory
 
-### 1. Title, commencement, and application[^key-ef429581d6dddd38f766931c512a27cc][^key-ef429581d6dddd38f766931c512a27cc]
+### 1. Title, commencement, and application[^c-ef429581d6dddd38f766931c512a27cc][^c-ef429581d6dddd38f766931c512a27cc]
 
 (1) The title of these Regulations is the Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020.
 
@@ -64,7 +64,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020, and par
 
 ## PART 2 — Direct Payments: Horizontal Legislation
 
-### 2. Amendment of Regulation (EU) No. 1306/2013[^key-0da5242a127b2a16fbe42929365227d4]
+### 2. Amendment of Regulation (EU) No. 1306/2013[^c-0da5242a127b2a16fbe42929365227d4]
 
 (1) Regulation (EU) No. 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy[^f00003] is amended, insofar as it relates to direct payments, as follows.
 
@@ -143,7 +143,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020, and par
 
 > . Restrictions on converting, ploughing or reseeding environmentally sensitive permanent grassland.
 
-### 3. Amendment of Commission Delegated Regulation (EU) No. 640/2014[^key-c5382199cde1c9bacf803be1c9942730]
+### 3. Amendment of Commission Delegated Regulation (EU) No. 640/2014[^c-c5382199cde1c9bacf803be1c9942730]
 
 (1) Commission Delegated Regulation (EU) No. 640/2014 supplementing Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00004], is amended, insofar as it relates to direct payments, as follows.
 
@@ -205,7 +205,7 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020, and par
 
 (13) Omit the final sentence of Article 38(1).
 
-### 4. Amendment of Commission Implementing Regulation (EU) No. 809/2014[^key-7ebcd77db406f8e6697e9fa53e856276]
+### 4. Amendment of Commission Implementing Regulation (EU) No. 809/2014[^c-7ebcd77db406f8e6697e9fa53e856276]
 
 (1) Commission Implementing Regulation (EU) No. 809/2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00005], is amended, in so far as it relates to direct payments, as follows.
 
@@ -348,11 +348,11 @@ In accordance with section 50(6)(c) and (8) of the Agriculture Act 2020, and par
 - (c) in paragraph 3, omit the final sentence in the first subparagraph;
 - (d) in paragraph 4, omit the second sentence of the first subparagraph.
 
-### 5. Amendment of Commission Delegated Regulation (EU) No. 907/2014[^key-b171a4dd1906e49becfc2d8d929a223d]
+### 5. Amendment of Commission Delegated Regulation (EU) No. 907/2014[^c-b171a4dd1906e49becfc2d8d929a223d]
 
 In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplementing Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro[^f00006], omit Article 11, insofar as it relates to direct payments.
 
-### 6. Amendment of Commission Implementing Regulation (EU) No. 908/2014[^key-49bcbea06362729c1e40ed73c90290bb]
+### 6. Amendment of Commission Implementing Regulation (EU) No. 908/2014[^c-49bcbea06362729c1e40ed73c90290bb]
 
 (1) Commission Implementing Regulation (EU) No. 908/2014 laying down rules for the application of Regulation (EU) No. 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency[^f00007] is amended, insofar as it relates to direct payments, as follows.
 
@@ -383,13 +383,13 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
 ## PART 3 — Direct Payments: Retained Direct Legislation
 
-### 7. Amendment of Regulation (EU) No. 1307/2013[^key-955252cf9d9fabc93617094cb27667fa][^key-00eebe0599c52eb86ef950256cd238a4][^key-00eebe0599c52eb86ef950256cd238a4]
+### 7. Amendment of Regulation (EU) No. 1307/2013[^c-955252cf9d9fabc93617094cb27667fa][^c-00eebe0599c52eb86ef950256cd238a4][^c-00eebe0599c52eb86ef950256cd238a4]
 
-(1)[^key-955252cf9d9fabc93617094cb27667fa] Regulation (EU) No. 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00008] is amended as follows.
+(1)[^c-955252cf9d9fabc93617094cb27667fa] Regulation (EU) No. 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00008] is amended as follows.
 
-(2)[^key-955252cf9d9fabc93617094cb27667fa] In Article 1, omit point (b)(iv).
+(2)[^c-955252cf9d9fabc93617094cb27667fa] In Article 1, omit point (b)(iv).
 
-(3)[^key-955252cf9d9fabc93617094cb27667fa] In Article 4—
+(3)[^c-955252cf9d9fabc93617094cb27667fa] In Article 4—
 
 - (a) in paragraph (1)—
   - (i) in points (a), (b) and (i), for “the United Kingdom”, in each place that it occurs, substitute “Wales”;
@@ -410,7 +410,7 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
     ;
 - (b) in paragraph 2, omit the final subparagraph.
 
-(4)[^key-00eebe0599c52eb86ef950256cd238a4] After Article 5 insert—
+(4)[^c-00eebe0599c52eb86ef950256cd238a4] After Article 5 insert—
 
 > **Article 5A — The total ceiling for Wales**
 >
@@ -424,26 +424,26 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 >
 > **5.** In this Article, “relevant year” has the same meaning as in paragraph 3(4) of Schedule 5 to the Agriculture Act 2020.
 
-(5)[^key-955252cf9d9fabc93617094cb27667fa] Omit Articles 6, 7 and 7A.
+(5)[^c-955252cf9d9fabc93617094cb27667fa] Omit Articles 6, 7 and 7A.
 
-(6)[^key-955252cf9d9fabc93617094cb27667fa] In Article 9—
+(6)[^c-955252cf9d9fabc93617094cb27667fa] In Article 9—
 
 - (a) omit paragraphs 2 to 4;
 - (b) omit paragraph 5(b), (c) and (d);
 - (c) omit paragraphs 6 to 8.
 
-(7)[^key-955252cf9d9fabc93617094cb27667fa] In Article 10(2), for “EUR 100” substitute “£100”.
+(7)[^c-955252cf9d9fabc93617094cb27667fa] In Article 10(2), for “EUR 100” substitute “£100”.
 
-(8)[^key-955252cf9d9fabc93617094cb27667fa] In Article 11—
+(8)[^c-955252cf9d9fabc93617094cb27667fa] In Article 11—
 
 - (a) in paragraph 1, for “EUR 150 000” substitute “£150,000”;
 - (b) in paragraph 3—
   - (i) omit “of its share” in both places that it occurs;
   - (ii) for “annual national”, in both places that it occurs, substitute “total”.
 
-(9)[^key-955252cf9d9fabc93617094cb27667fa] Omit Article 14.
+(9)[^c-955252cf9d9fabc93617094cb27667fa] Omit Article 14.
 
-(10)[^key-955252cf9d9fabc93617094cb27667fa] In Article 22—
+(10)[^c-955252cf9d9fabc93617094cb27667fa] In Article 22—
 
 - (a) omit paragraph 1;
 - (b) for paragraph 2 substitute—
@@ -461,12 +461,12 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
   > **5.** If the ceiling calculated pursuant to paragraph 2 of this Article is different from the relevant authority’s share of the basic payment scheme ceiling in claim year 2020 as a result of any decision taken by the relevant authority, or the total value of all claimed payment entitlements (including those allocated and claimed from the national reserve or regional reserve) is different from the total value of claimed payment entitlements in claim year 2020, the relevant authority shall linearly reduce or increase the value of all claimed payment entitlements in order to ensure compliance with paragraph 4 of this Article.
 
-(11)[^key-955252cf9d9fabc93617094cb27667fa] In Article 25—
+(11)[^c-955252cf9d9fabc93617094cb27667fa] In Article 25—
 
 - (a) omit paragraphs 1 and 2;
 - (b) omit paragraph 8.
 
-(12)[^key-955252cf9d9fabc93617094cb27667fa] In Article 30—
+(12)[^c-955252cf9d9fabc93617094cb27667fa] In Article 30—
 
 - (a) in paragraph 7—
   - (i) omit points (a) and (b);
@@ -477,23 +477,23 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
   - (ii) omit the third subparagraph;
 - (c) in paragraph 11(a), omit “(3) and”.
 
-(13)[^key-955252cf9d9fabc93617094cb27667fa] Omit Article 31(1)(h).
+(13)[^c-955252cf9d9fabc93617094cb27667fa] Omit Article 31(1)(h).
 
-(14)[^key-955252cf9d9fabc93617094cb27667fa] In Article 32—
+(14)[^c-955252cf9d9fabc93617094cb27667fa] In Article 32—
 
 - (a) in paragraph 1—
   - (i) omit “of financial discipline,”;
   - (ii) omit “Article 7 and”;
 - (b) omit paragraph 5.
 
-(15)[^key-955252cf9d9fabc93617094cb27667fa] In Article 34, omit paragraph 4.
+(15)[^c-955252cf9d9fabc93617094cb27667fa] In Article 34, omit paragraph 4.
 
-(16)[^key-955252cf9d9fabc93617094cb27667fa] In Article 35(1)—
+(16)[^c-955252cf9d9fabc93617094cb27667fa] In Article 35(1)—
 
 - (a) in point (g), omit “and 7”;
 - (b) omit point (h).
 
-(17)[^key-955252cf9d9fabc93617094cb27667fa] In Article 41—
+(17)[^c-955252cf9d9fabc93617094cb27667fa] In Article 41—
 
 - (a) in paragraph 1, omit the words from “, provided that” to the end;
 - (b) in paragraph 3—
@@ -503,27 +503,27 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
   > The number of such payment entitlements or hectares shall not exceed a maximum level to be set by the relevant authority which shall not be higher than 54 hectares.
 
-(18)[^key-955252cf9d9fabc93617094cb27667fa] In Article 42—
+(18)[^c-955252cf9d9fabc93617094cb27667fa] In Article 42—
 
 - (a) omit “, by the date referred to in Article 41(1)”;
 - (b) for “its share of the annual national” substitute “the total”.
 
-(19)[^key-955252cf9d9fabc93617094cb27667fa] Omit Chapter 3 of Title III.
+(19)[^c-955252cf9d9fabc93617094cb27667fa] Omit Chapter 3 of Title III.
 
-(20)[^key-955252cf9d9fabc93617094cb27667fa] In Article 50—
+(20)[^c-955252cf9d9fabc93617094cb27667fa] In Article 50—
 
 - (a) omit paragraph 3;
 - (b) in paragraph 4, omit “of financial discipline,”;
 - (c) omit the second subparagraph of paragraph 5;
 - (d) omit paragraphs 8 and 10A.
 
-(21)[^key-955252cf9d9fabc93617094cb27667fa] In Article 51—
+(21)[^c-955252cf9d9fabc93617094cb27667fa] In Article 51—
 
 - (a) in the first subparagraph of paragraph 1, for “its share of the annual national” substitute “the total”;
 - (b) in paragraph 2, for “relevant authority’s share of the national” substitute “total”;
 - (c) in paragraph 3, for “its share of the annual national” substitute “the total”.
 
-(22)[^key-955252cf9d9fabc93617094cb27667fa] In Article 53—
+(22)[^c-955252cf9d9fabc93617094cb27667fa] In Article 53—
 
 - (a) for paragraph 1 substitute—
 
@@ -536,18 +536,18 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
   - (ii) for “EUR 3” substitute “£3”;
 - (d) omit paragraph 6.
 
-(23)[^key-955252cf9d9fabc93617094cb27667fa] In Article 71A—
+(23)[^c-955252cf9d9fabc93617094cb27667fa] In Article 71A—
 
 - (a) in paragraph 1, for “paragraphs 2” substitute “paragraphs 3”;
 - (b) omit paragraph 2.
 
-(24)[^key-955252cf9d9fabc93617094cb27667fa] In Annex I, omit the third entry in the table.
+(24)[^c-955252cf9d9fabc93617094cb27667fa] In Annex I, omit the third entry in the table.
 
-(25)[^key-955252cf9d9fabc93617094cb27667fa] In Annex II, in the heading, for “Article 6” substitute “Article 5A”.
+(25)[^c-955252cf9d9fabc93617094cb27667fa] In Annex II, in the heading, for “Article 6” substitute “Article 5A”.
 
-(26)[^key-955252cf9d9fabc93617094cb27667fa] Omit Annexes III, IX and X.
+(26)[^c-955252cf9d9fabc93617094cb27667fa] Omit Annexes III, IX and X.
 
-### 8. Amendment of Commission Delegated Regulation (EU) No. 639/2014[^key-b5cc4002de09367cf2148b8a2f8f55e4]
+### 8. Amendment of Commission Delegated Regulation (EU) No. 639/2014[^c-b5cc4002de09367cf2148b8a2f8f55e4]
 
 (1) Commission Delegated Regulation (EU) No. 639/2014 of 11 March 2014 supplementing Regulation (EU) No. 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00009] is amended as follows.
 
@@ -573,7 +573,7 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
 (12) Omit Annex II.
 
-### 9. Amendment of Commission Implementing Regulation (EU) No. 641/2014[^key-e68e58e9dee9f345e711168be165bb78]
+### 9. Amendment of Commission Implementing Regulation (EU) No. 641/2014[^c-e68e58e9dee9f345e711168be165bb78]
 
 (1) Commission Implementing Regulation (EU) No. 641/2014 of 16 June 2014 laying down rules for the application of Regulation (EU) No. 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00010] is amended as follows.
 
@@ -585,7 +585,7 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
 ## PART 4 — Direct Payments: Domestic Legislation
 
-### 10. Amendment of the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-e39145aaa53cb5fdabeb7d4976d7346a]
+### 10. Amendment of the Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-e39145aaa53cb5fdabeb7d4976d7346a]
 
 (1) The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^f00011] are amended, insofar as they relate to direct payments, as follows.
 
@@ -616,7 +616,7 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 >   - (b) grassland in relation to which written consent to plough is required in accordance with section 28E(1) of the Wildlife and Countryside Act 1981[^f00012] but such consent has not been obtained;
 > - “site of special scientific interest” (“*safle o ddiddordeb gwyddonol arbennig*”) has the meaning given in section 52(1) of the Wildlife and Countryside Act 1981.
 
-### 11. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^key-67f84d20519c257e0ec28b99c5fcd7e0]
+### 11. Amendment of the Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^c-67f84d20519c257e0ec28b99c5fcd7e0]
 
 (1) The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014[^f00013]are amended, insofar as they relate to direct payments, as follows.
 
@@ -629,7 +629,7 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
   > (4) In this regulation, “holding” has the meaning given by Article 4(1)(b) of the Direct Payments Regulation.
 
-### 12. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^key-2744fd11c5975ea37e26e742c2fde76e]
+### 12. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^c-2744fd11c5975ea37e26e742c2fde76e]
 
 (1) The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^f00014] are amended, insofar as they relate to direct payments, as follows.
 
@@ -660,7 +660,7 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
 ## PART 5 — Direct Payments: amendment of domestic legislation consequent on the withdrawal of the United Kingdom from the European Union
 
-### 13. Amendment of the Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^key-83c52abbf98ebe11533b3032eed7721f][^key-83c52abbf98ebe11533b3032eed7721f]
+### 13. Amendment of the Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^c-83c52abbf98ebe11533b3032eed7721f][^c-83c52abbf98ebe11533b3032eed7721f]
 
 (1) The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^f00015] are amended as follows.
 
@@ -672,11 +672,11 @@ In Commission Delegated Regulation (EU) No. 907/2014 of 11 March 2014 supplement
 
 ## PART 6 — Amendment of domestic legislation consequent on the withdrawal of the United Kingdom from the European Union
 
-### 14. Amendment to the Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^key-46d6b6421c8b099fcc0f4afbe7ba9f89][^key-46d6b6421c8b099fcc0f4afbe7ba9f89]
+### 14. Amendment to the Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^c-46d6b6421c8b099fcc0f4afbe7ba9f89][^c-46d6b6421c8b099fcc0f4afbe7ba9f89]
 
 In regulation 1(3) of the Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019[^f00016], after “Regulations” insert “1,”.
 
-### 15. Amendment to the Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019[^key-b3b4a3426b65017860eb3d966a5e6f24][^key-b3b4a3426b65017860eb3d966a5e6f24]
+### 15. Amendment to the Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019[^c-b3b4a3426b65017860eb3d966a5e6f24][^c-b3b4a3426b65017860eb3d966a5e6f24]
 
 In regulation 1(2) of the Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 3) Regulations 2019[^f00017], after “regulations” insert “1,”.
 
@@ -725,64 +725,64 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). See section 20(1) for the definition of “devolved authority”.
 
-[^key-ef429581d6dddd38f766931c512a27cc]: Commencement: Reg. 1 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
+[^c-ef429581d6dddd38f766931c512a27cc]: Commencement: Reg. 1 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
 
-[^key-0da5242a127b2a16fbe42929365227d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/1556/regulation/2) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-0da5242a127b2a16fbe42929365227d4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2020/1556/regulation/2) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00003]: Footnote: EUR 2013/1306, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and 576. EUR 2013/1306 is also amended prospectively with effect from implementation period completion day by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748) (as amended by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831)), 763 (as amended by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812)), 831 and 1402. However, by virtue of the amendments in the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020, these prospective amendments do not have effect in relation to direct payment schemes.
 
-[^key-c5382199cde1c9bacf803be1c9942730]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/1556/regulation/3) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-c5382199cde1c9bacf803be1c9942730]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2020/1556/regulation/3) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00004]: Footnote: EUR 2014/640, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and in relation to direct payment schemes in England by [S.I. 2020/551](https://www.legislation.gov.uk/uksi/2020/551). EUR 2014/640 is also amended prospectively with effect from implementation period completion day by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765). However, by virtue of the amendments in the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020, these prospective amendments do not have effect in relation to direct payment schemes.
 
-[^key-7ebcd77db406f8e6697e9fa53e856276]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/1556/regulation/4) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-7ebcd77db406f8e6697e9fa53e856276]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2020/1556/regulation/4) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00005]: Footnote: EUR 2014/809, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and 576. EUR 2014/809 is also amended in relation to direct payment schemes in England by [S.I. 2020/510](https://www.legislation.gov.uk/uksi/2020/510) and 575. EUR 2014/809 is also amended prospectively with effect from implementation period completion day by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765). However, by virtue of the amendments in the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020, these prospective amendments do not have effect in relation to direct payment schemes.
 
-[^key-b171a4dd1906e49becfc2d8d929a223d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/1556/regulation/5) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-b171a4dd1906e49becfc2d8d929a223d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2020/1556/regulation/5) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00006]: Footnote: EUR 2014/907, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90). EUR 2014/907 is also amended prospectively with effect from implementation period completion day by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765). However, by virtue of the amendments in the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020, these prospective amendments do not have effect in relation to direct payment schemes.
 
-[^key-49bcbea06362729c1e40ed73c90290bb]: Commencement: Reg. 6 in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/a)
+[^c-49bcbea06362729c1e40ed73c90290bb]: Commencement: Reg. 6 in force at 31.12.2020 (on IP completion day in accordance with 2020 c. 1, s. 39(1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/a)
 
 [^f00007]: Footnote: EUR 2014/908, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90). EUR 2014/908 is also amended prospectively with effect from implementation period completion day by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765). However, by virtue of the amendments in the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020, these prospective amendments do not have effect in relation to direct payment schemes.
 
-[^key-955252cf9d9fabc93617094cb27667fa]: Commencement: [Reg. 7(1)-(3)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/7/1)(5)-(26) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-955252cf9d9fabc93617094cb27667fa]: Commencement: [Reg. 7(1)-(3)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/7/1)(5)-(26) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
-[^key-00eebe0599c52eb86ef950256cd238a4]: Commencement: Reg. 7(4) in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
+[^c-00eebe0599c52eb86ef950256cd238a4]: Commencement: Reg. 7(4) in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
 
 [^f00008]: Footnote: EUR 2013/1307, amended by [S.I. 2020/91](https://www.legislation.gov.uk/uksi/2020/91), [S.I. 2020/576](https://www.legislation.gov.uk/uksi/2020/576) and [S.I. 2020/760](https://www.legislation.gov.uk/uksi/2020/760). This Regulation was incorporated into domestic law by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-b5cc4002de09367cf2148b8a2f8f55e4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2020/1556/regulation/8) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-b5cc4002de09367cf2148b8a2f8f55e4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2020/1556/regulation/8) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00009]: Footnote: EUR 2014/639, amended by [S.I. 2020/91](https://www.legislation.gov.uk/uksi/2020/91) and 576. EUR 2014/639 was prospectively amended with effect from implementation period completion day by [S.I. 2019/208](https://www.legislation.gov.uk/uksi/2019/208) and 763 (as amended by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812)), but those prospective amendments were revoked by the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 immediately before implementation period completion day.
 
-[^key-e68e58e9dee9f345e711168be165bb78]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2020/1556/regulation/9) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-e68e58e9dee9f345e711168be165bb78]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2020/1556/regulation/9) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00010]: Footnote: EUR 2014/641, amended by [S.I. 2020/91](https://www.legislation.gov.uk/uksi/2020/91). EUR 2014/641 was also prospectively amended with effect from implementation period completion day by [S.I. 2019/208](https://www.legislation.gov.uk/uksi/2019/208), although that instrument was revoked by the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 immediately before implementation period completion day.
 
-[^key-e39145aaa53cb5fdabeb7d4976d7346a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2020/1556/regulation/10) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-e39145aaa53cb5fdabeb7d4976d7346a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2020/1556/regulation/10) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00011]: Footnote: [S.I. 2014/3223 (W. 328)](https://www.legislation.gov.uk/wsi/2014/3223), amended by [S.I. 2016/217 (W. 86)](https://www.legislation.gov.uk/wsi/2016/217), [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [S.I. 2017/565 (W. 134)](https://www.legislation.gov.uk/wsi/2017/565), [S.I. 2019/688 (W. 132)](https://www.legislation.gov.uk/wsi/2019/688) as from implementation period completion day, and [S.I. 2020/104 (W. 17)](https://www.legislation.gov.uk/wsi/2020/104).
 
 [^f00012]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-67f84d20519c257e0ec28b99c5fcd7e0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2020/1556/regulation/11) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-67f84d20519c257e0ec28b99c5fcd7e0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2020/1556/regulation/11) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00013]: Footnote: [S.I. 2014/3263](https://www.legislation.gov.uk/uksi/2014/3263), amended by [S.I. 2015/1325](https://www.legislation.gov.uk/uksi/2015/1325). There are other amending instruments but none are relevant.
 
-[^key-2744fd11c5975ea37e26e742c2fde76e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2020/1556/regulation/12) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-2744fd11c5975ea37e26e742c2fde76e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2020/1556/regulation/12) in force at 31.12.2020 (on IP completion day in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^f00014]: Footnote: [S.I. 2015/1252 (W. 84)](https://www.legislation.gov.uk/wsi/2015/1252), amended by [S.I. 2016/217 (W. 86)](https://www.legislation.gov.uk/wsi/2016/217), [S.I. 2019/688 (W. 132)](https://www.legislation.gov.uk/wsi/2019/688) as from implementation period completion day, and [S.I. 2020/104 (W. 17)](https://www.legislation.gov.uk/wsi/2020/104).
 
-[^key-83c52abbf98ebe11533b3032eed7721f]: Commencement: Reg. 13 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
+[^c-83c52abbf98ebe11533b3032eed7721f]: Commencement: Reg. 13 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
 
 [^f00015]: Footnote: [S.I. 2019/688 (W. 132)](https://www.legislation.gov.uk/wsi/2019/688).
 
-[^key-46d6b6421c8b099fcc0f4afbe7ba9f89]: Commencement: Reg. 14 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
+[^c-46d6b6421c8b099fcc0f4afbe7ba9f89]: Commencement: Reg. 14 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
 
 [^f00016]: Footnote: [S.I. 2019/1281 (W. 225)](https://www.legislation.gov.uk/wsi/2019/1281).
 
-[^key-b3b4a3426b65017860eb3d966a5e6f24]: Commencement: Reg. 15 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
+[^c-b3b4a3426b65017860eb3d966a5e6f24]: Commencement: Reg. 15 in force at 17.12.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b)
 
 [^f00017]: Footnote: [S.I. 2019/1376 (W. 242)](https://www.legislation.gov.uk/wsi/2019/1376).

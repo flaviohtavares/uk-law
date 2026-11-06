@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 12 — Plant health movement document[^key-beb16187072957edd1166bcde92be6a9]
+## SCHEDULE 12 — Plant health movement document[^c-beb16187072957edd1166bcde92be6a9]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Article 2(1)
 
-### PART A[^key-beb16187072957edd1166bcde92be6a9]
+### PART A[^c-beb16187072957edd1166bcde92be6a9]
 
-**1.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B[^key-beb16187072957edd1166bcde92be6a9]
+### PART B[^c-beb16187072957edd1166bcde92be6a9]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2018/1064/images/wsi_20181064_en_sld_005)[image: see source](https://www.legislation.gov.uk/wsi/2018/1064/images/wsi_20181064_en_sld_006)
 
 ## Annotations
 
-[^key-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))
+[^c-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))

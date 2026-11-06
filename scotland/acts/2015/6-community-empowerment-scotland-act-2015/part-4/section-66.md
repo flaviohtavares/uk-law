@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Ballot: information and expenses[^key-90ef9a3298ab8d9757d6b0f8ec5170ee][^key-f87a388977e94114eb0e328c32409ef7]
+## 66. Ballot: information and expenses[^c-90ef9a3298ab8d9757d6b0f8ec5170ee][^c-f87a388977e94114eb0e328c32409ef7]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90ef9a3298ab8d9757d6b0f8ec5170ee]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2015/6/section/66) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
+[^c-90ef9a3298ab8d9757d6b0f8ec5170ee]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2015/6/section/66) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
 
-[^key-f87a388977e94114eb0e328c32409ef7]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2015/6/section/66) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-f87a388977e94114eb0e328c32409ef7]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2015/6/section/66) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

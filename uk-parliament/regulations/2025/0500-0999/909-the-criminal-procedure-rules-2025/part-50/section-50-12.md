@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.12. Arrangement of extradition hearing after provisional arrest[^key-e97ba95de81ebabd5f4c1ae5b734845a]
+## 50.12. Arrangement of extradition hearing after provisional arrest[^c-e97ba95de81ebabd5f4c1ae5b734845a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e97ba95de81ebabd5f4c1ae5b734845a]: Commencement: [Rule 50.12](https://www.legislation.gov.uk/uksi/2025/909/rule/50.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e97ba95de81ebabd5f4c1ae5b734845a]: Commencement: [Rule 50.12](https://www.legislation.gov.uk/uksi/2025/909/rule/50.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

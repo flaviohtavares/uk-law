@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Flight times – responsibilities of flight crew[^key-a87d1f0a46277c7eddb46aaf516ee8a0]
+## 82. Flight times – responsibilities of flight crew[^c-a87d1f0a46277c7eddb46aaf516ee8a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a87d1f0a46277c7eddb46aaf516ee8a0]: Commencement: [Art. 82](https://www.legislation.gov.uk/uksi/2015/870/article/82) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-a87d1f0a46277c7eddb46aaf516ee8a0]: Commencement: [Art. 82](https://www.legislation.gov.uk/uksi/2015/870/article/82) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

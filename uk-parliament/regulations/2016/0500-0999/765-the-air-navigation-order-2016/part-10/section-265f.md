@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 265F. Penalties[^key-1d352a7e4c05c6154e729baa2ffa036c]
+## 265F. Penalties[^c-1d352a7e4c05c6154e729baa2ffa036c]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3f35074e4f41a107e2a7ab609d729711] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any person guilty of an offence under article 265E(7) is liable on summary conviction to a fine—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d352a7e4c05c6154e729baa2ffa036c]: Textual amendment: Arts. 265A-265F inserted (31.12.2020) by [The Air Navigation (Amendment) Order 2020 (S.I. 2020/1555)](https://www.legislation.gov.uk/uksi/2020/1555), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1555/article/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1555/article/9) (with [art. 13](https://www.legislation.gov.uk/uksi/2020/1555/article/13))
+[^c-1d352a7e4c05c6154e729baa2ffa036c]: Textual amendment: Arts. 265A-265F inserted (31.12.2020) by [The Air Navigation (Amendment) Order 2020 (S.I. 2020/1555)](https://www.legislation.gov.uk/uksi/2020/1555), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1555/article/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1555/article/9) (with [art. 13](https://www.legislation.gov.uk/uksi/2020/1555/article/13))
 
-[^key-3f35074e4f41a107e2a7ab609d729711]: Textual amendment: [Art. 265F(1)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/265F/1) omitted (1.1.2026) by virtue of [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/2/paragraph/1/5)
+[^c-3f35074e4f41a107e2a7ab609d729711]: Textual amendment: [Art. 265F(1)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/265F/1) omitted (1.1.2026) by virtue of [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/2/paragraph/1/5)

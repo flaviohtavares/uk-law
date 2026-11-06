@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182.[^key-cff241b487e5f281cb8391e83eb17a61]
+## 182.[^c-cff241b487e5f281cb8391e83eb17a61]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In Schedule 36 (pension schemes etc: transitional provisions and savings), in pa
 
 ## Annotations
 
-[^key-cff241b487e5f281cb8391e83eb17a61]: Commencement: Reg. 182 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-cff241b487e5f281cb8391e83eb17a61]: Commencement: Reg. 182 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138CA. Requirements enabling travel by persons with disabilities[^key-396e9957197fd3d4e596f24e55bb5ee0][^key-652ea49e5927586cb07bdb4300947115]
+## 138CA. Requirements enabling travel by persons with disabilities[^c-396e9957197fd3d4e596f24e55bb5ee0][^c-652ea49e5927586cb07bdb4300947115]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-396e9957197fd3d4e596f24e55bb5ee0]: Textual amendment: [S. 138CA](https://www.legislation.gov.uk/ukpga/2000/38/section/138CA) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(e)(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/e/i)
+[^c-396e9957197fd3d4e596f24e55bb5ee0]: Textual amendment: [S. 138CA](https://www.legislation.gov.uk/ukpga/2000/38/section/138CA) inserted (1.4.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/18/2), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 3(e)(i)](https://www.legislation.gov.uk/uksi/2026/46/regulation/3/e/i)
 
-[^key-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)

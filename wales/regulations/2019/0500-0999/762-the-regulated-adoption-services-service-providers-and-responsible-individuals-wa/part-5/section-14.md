@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Service agreement[^key-c8d78582f92e53e8a6384154fb102c31]
+## 14. Service agreement[^c-c8d78582f92e53e8a6384154fb102c31]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8d78582f92e53e8a6384154fb102c31]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/762/regulation/14) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-c8d78582f92e53e8a6384154fb102c31]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/762/regulation/14) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

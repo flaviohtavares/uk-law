@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6B. Trade of dealing in or developing UK land[^key-6b3d3b65edd22d3e0d041bd15716bc9e]
+## 6B. Trade of dealing in or developing UK land[^c-6b3d3b65edd22d3e0d041bd15716bc9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3d3b65edd22d3e0d041bd15716bc9e]: Textual amendment: Ss. 6A, 6B inserted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 78(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/78/2) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))
+[^c-6b3d3b65edd22d3e0d041bd15716bc9e]: Textual amendment: Ss. 6A, 6B inserted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 78(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/78/2) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2))

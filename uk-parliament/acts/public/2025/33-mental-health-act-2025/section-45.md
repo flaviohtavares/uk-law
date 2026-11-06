@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Tribunal power to recommend after-care[^key-9bf532b9e6c3813ac7ab2f1d6d185f98]
+## 45. Tribunal power to recommend after-care[^c-9bf532b9e6c3813ac7ab2f1d6d185f98]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bf532b9e6c3813ac7ab2f1d6d185f98]: Commencement: S. 45 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-9bf532b9e6c3813ac7ab2f1d6d185f98]: Commencement: S. 45 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

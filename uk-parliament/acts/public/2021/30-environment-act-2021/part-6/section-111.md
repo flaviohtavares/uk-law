@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Wildlife conservation: licences[^key-21d8c5b5087cbd3eb61f1d89cd90f8fa][^key-dc85b2743428329f30b0f1daf457507c]
+## 111. Wildlife conservation: licences[^c-21d8c5b5087cbd3eb61f1d89cd90f8fa][^c-dc85b2743428329f30b0f1daf457507c]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21d8c5b5087cbd3eb61f1d89cd90f8fa]: Commencement: S. 111 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-21d8c5b5087cbd3eb61f1d89cd90f8fa]: Commencement: S. 111 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-dc85b2743428329f30b0f1daf457507c]: Commencement: S. 111 in force at 30.9.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
+[^c-dc85b2743428329f30b0f1daf457507c]: Commencement: S. 111 in force at 30.9.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)

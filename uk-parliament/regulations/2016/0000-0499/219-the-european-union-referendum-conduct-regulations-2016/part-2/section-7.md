@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Computation of time[^key-39f2c160ef97f90b5495b6a7d12495b6]
+## 7. Computation of time[^c-39f2c160ef97f90b5495b6a7d12495b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-39f2c160ef97f90b5495b6a7d12495b6]: Commencement: Reg. 7 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-39f2c160ef97f90b5495b6a7d12495b6]: Commencement: Reg. 7 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00012]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). See section 1 and Schedule 1.
 

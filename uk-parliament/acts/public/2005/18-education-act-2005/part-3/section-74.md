@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. The Training and Development Agency for Schools[^key-459998c1d8cd8d754f9cb0044e0366d2]
+## 74. The Training and Development Agency for Schools[^c-459998c1d8cd8d754f9cb0044e0366d2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-459998c1d8cd8d754f9cb0044e0366d2]: Textual amendment: Ss. 74-84 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2011/21/section/14), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-459998c1d8cd8d754f9cb0044e0366d2]: Textual amendment: Ss. 74-84 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2011/21/section/14), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

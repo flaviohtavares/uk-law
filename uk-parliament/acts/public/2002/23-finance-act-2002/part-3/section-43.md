@@ -44,7 +44,7 @@ summary: ''
 
 (2) After Schedule 7AA to the 1992 Act insert the Schedule 7AB set out in Schedule 7 to this Act.
 
-(3)[^key-de2f8ceb8c302f490eb5ea7e1df9589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-de2f8ceb8c302f490eb5ea7e1df9589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This section applies—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de2f8ceb8c302f490eb5ea7e1df9589b]: Textual amendment: [S. 43(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/43/3) repealed (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/37/3)
+[^c-de2f8ceb8c302f490eb5ea7e1df9589b]: Textual amendment: [S. 43(3)](https://www.legislation.gov.uk/ukpga/2002/23/section/43/3) repealed (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/37/3)

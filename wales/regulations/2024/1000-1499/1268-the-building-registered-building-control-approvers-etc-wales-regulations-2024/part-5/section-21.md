@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Period for consideration of transfer certificate and report by local authority[^key-5c7729c8d93961dc12b4e57fa6138810]
+## 21. Period for consideration of transfer certificate and report by local authority[^c-5c7729c8d93961dc12b4e57fa6138810]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of section 53C(6)(a) of the 1984 Act, the prescribed period is 
 
 ## Annotations
 
-[^key-5c7729c8d93961dc12b4e57fa6138810]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/1268/regulation/21) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-5c7729c8d93961dc12b4e57fa6138810]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/1268/regulation/21) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

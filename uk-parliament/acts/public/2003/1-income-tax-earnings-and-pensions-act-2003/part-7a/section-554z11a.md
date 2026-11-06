@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z11A. Temporary non-residents[^key-48089e2adad9e108782fa737773c0c81][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z11A. Temporary non-residents[^c-48089e2adad9e108782fa737773c0c81][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if A is temporarily non-resident.
 
-(2) Any amount within subsection (3) is to be treated for the purposes of section 554Z9(2) or (2A)[^key-8c8766afa28fdc96d9f154efa8678724] or (as the case may be) 554Z10(2) or (2AA)[^key-5c30cbaac9d5b9bd5309ee201bd8b2ca] as if it were remitted to the United Kingdom in the period of return.
+(2) Any amount within subsection (3) is to be treated for the purposes of section 554Z9(2) or (2A)[^c-8c8766afa28fdc96d9f154efa8678724] or (as the case may be) 554Z10(2) or (2AA)[^c-5c30cbaac9d5b9bd5309ee201bd8b2ca] as if it were remitted to the United Kingdom in the period of return.
 
 (3) An amount is within this subsection if—
 
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-48089e2adad9e108782fa737773c0c81]: Textual amendment: S. 554Z11A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 127](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/127)
+[^c-48089e2adad9e108782fa737773c0c81]: Textual amendment: S. 554Z11A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 127](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/127)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-8c8766afa28fdc96d9f154efa8678724]: Textual amendment: Words in [s. 554Z11A(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z11A/2) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 43(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/43/2/a)
+[^c-8c8766afa28fdc96d9f154efa8678724]: Textual amendment: Words in [s. 554Z11A(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z11A/2) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 43(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/43/2/a)
 
-[^key-5c30cbaac9d5b9bd5309ee201bd8b2ca]: Textual amendment: Words in [s. 554Z11A(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z11A/2) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 43(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/43/2/b)
+[^c-5c30cbaac9d5b9bd5309ee201bd8b2ca]: Textual amendment: Words in [s. 554Z11A(2)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z11A/2) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 43(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/43/2/b)

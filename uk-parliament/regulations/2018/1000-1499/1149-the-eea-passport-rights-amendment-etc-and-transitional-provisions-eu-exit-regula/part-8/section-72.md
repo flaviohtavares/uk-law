@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Insurance and reinsurance - modification of Part 4 of the Solvency 2 Regulations 2015[^key-f2ce6a0ac658933a6a455d1a61f25152]
+## 72. Insurance and reinsurance - modification of Part 4 of the Solvency 2 Regulations 2015[^c-f2ce6a0ac658933a6a455d1a61f25152]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ce6a0ac658933a6a455d1a61f25152]: Textual amendment: [Reg. 72](https://www.legislation.gov.uk/uksi/2018/1149/regulation/72) inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/405/regulation/6)
+[^c-f2ce6a0ac658933a6a455d1a61f25152]: Textual amendment: [Reg. 72](https://www.legislation.gov.uk/uksi/2018/1149/regulation/72) inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/405/regulation/6)

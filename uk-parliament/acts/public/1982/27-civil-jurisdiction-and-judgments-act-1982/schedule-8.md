@@ -32,14 +32,14 @@ summary: ''
 - (b) in matters relating to a contract, in the courts for the place of performance of the obligation in question;
 - (c) in matters relating to delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur;
 - (d) as regards a civil claim for damages or restitution which is based on an act giving rise to criminal proceedings, in the court seised of those proceedings to the extent that the court has jurisdiction to entertain civil proceedings;
-- (e)[^key-39a9e5f161d6111860b1f21c7d44012e] in matters relating to maintenance, in the courts for the place where the maintenance creditor is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided that an action of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person;
+- (e)[^c-39a9e5f161d6111860b1f21c7d44012e] in matters relating to maintenance, in the courts for the place where the maintenance creditor is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided that an action of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person;
 - (e) [^c21551711]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) as regards a dispute arising out of the operations of a branch, agency or other establishment, in the courts for the place in which the branch, agency or other establishment is situated;
 - (g) in his capacity as settlor, trustee or beneficiary of a trust domiciled in Scotland created by the operation of a statute, or by a written instrument, or created orally and evidenced in writing, in the Court of Session, or the appropriate sheriff court within the meaning of section 24A of the Trusts (Scotland) Act 1921;
 
 *Extent: S*
 
-- (ga)[^key-9067b5e723b4ec1062cffbf0dbae3e78] in the person's capacity as an executor (where confirmation has been obtained in Scotland)—
+- (ga)[^c-9067b5e723b4ec1062cffbf0dbae3e78] in the person's capacity as an executor (where confirmation has been obtained in Scotland)—
   - (i) in the Court of Session, or
   - (ii) before a sheriff of the sheriffdom in which confirmation was obtained.
 - (h) where he is not domiciled in the United Kingdom, in the courts for any place where—
@@ -78,7 +78,7 @@ summary: ''
 
 (5) The provisions of this rule shall not affect the right to bring a counterclaim in the court in which, in accordance with this rule, the original claim is pending.
 
-(6)[^key-9fb074a184e2b7975b4a1810f5068746] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9fb074a184e2b7975b4a1810f5068746] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Jurisdiction over individual contracts of employment
 
@@ -148,10 +148,10 @@ summary: ''
 
 [^c22747061]: Textual amendment: Sch. 1 substituted (1.1.2001) by [The Civil Jurisdiction and Judgments Act 1982 (Amendment) Order 2000 (S.I. 2000/1824)](https://www.legislation.gov.uk/uksi/2000/1824), [arts. 1](https://www.legislation.gov.uk/uksi/2000/1824/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2000/1824/article/8/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/1824/schedule/1)
 
-[^key-39a9e5f161d6111860b1f21c7d44012e]: Textual amendment: [Sch. 8 para. 2(e)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/8/paragraph/2/e) inserted by S.I. 2019/519, Sch. para. 12(14) (as inserted (31.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/d))
+[^c-39a9e5f161d6111860b1f21c7d44012e]: Textual amendment: [Sch. 8 para. 2(e)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/8/paragraph/2/e) inserted by S.I. 2019/519, Sch. para. 12(14) (as inserted (31.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/d))
 
 [^c21551711]: Textual amendment: Sch. 8 para. 2(e) repealed (18.6.2011) by [The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2011/1484/schedule/4/paragraph/13)
 
-[^key-9067b5e723b4ec1062cffbf0dbae3e78]: Textual amendment: Sch. 8 rule 2(ga) inserted (S.) (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 27(2)](https://www.legislation.gov.uk/asp/2016/7/section/27/2), [31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
+[^c-9067b5e723b4ec1062cffbf0dbae3e78]: Textual amendment: Sch. 8 rule 2(ga) inserted (S.) (1.11.2016) by [Succession (Scotland) Act 2016 (asp 7)](https://www.legislation.gov.uk/asp/2016/7), [ss. 27(2)](https://www.legislation.gov.uk/asp/2016/7/section/27/2), [31(2)](https://www.legislation.gov.uk/asp/2016/7/section/31/2); [S.S.I. 2016/210](https://www.legislation.gov.uk/ssi/2016/210), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2016/210/regulation/2/2)
 
-[^key-9fb074a184e2b7975b4a1810f5068746]: Textual amendment: [Sch. 8 para. 3(6)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/8/paragraph/3/6) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [61](https://www.legislation.gov.uk/uksi/2019/479/regulation/61) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fb074a184e2b7975b4a1810f5068746]: Textual amendment: [Sch. 8 para. 3(6)](https://www.legislation.gov.uk/ukpga/1982/27/schedule/8/paragraph/3/6) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [61](https://www.legislation.gov.uk/uksi/2019/479/regulation/61) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

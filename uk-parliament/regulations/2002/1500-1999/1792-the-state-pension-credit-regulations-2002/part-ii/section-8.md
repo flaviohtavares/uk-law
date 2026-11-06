@@ -16,8 +16,8 @@ summary: ''
 
 ## 8. Special groups
 
-Schedule III shall have effect in the case of members of polygamous marriages and persons serving a sentence of imprisonment detained in hospital[^key-80807f08254d742979466b027c72997c].
+Schedule III shall have effect in the case of members of polygamous marriages and persons serving a sentence of imprisonment detained in hospital[^c-80807f08254d742979466b027c72997c].
 
 ## Annotations
 
-[^key-80807f08254d742979466b027c72997c]: Textual amendment: Words in reg. 8 substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/442/regulation/4/2)
+[^c-80807f08254d742979466b027c72997c]: Textual amendment: Words in reg. 8 substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/442/regulation/4/2)

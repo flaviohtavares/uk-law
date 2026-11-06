@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Over the counter derivatives: clearing and procedures for reporting[^key-f8c07edd01aee228eab4c483d81270e5]
+## 40. Over the counter derivatives: clearing and procedures for reporting[^c-f8c07edd01aee228eab4c483d81270e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c07edd01aee228eab4c483d81270e5]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/22/section/40) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/v)
+[^c-f8c07edd01aee228eab4c483d81270e5]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2021/22/section/40) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/v)

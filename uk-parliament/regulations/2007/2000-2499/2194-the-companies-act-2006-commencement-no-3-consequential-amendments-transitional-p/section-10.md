@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Consequential amendments and repeals[^key-bc627e37818e593d4aaf8955f1b81483]
+## 10. Consequential amendments and repeals[^c-bc627e37818e593d4aaf8955f1b81483]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc627e37818e593d4aaf8955f1b81483]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/2194/article/10) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-bc627e37818e593d4aaf8955f1b81483]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2007/2194/article/10) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)

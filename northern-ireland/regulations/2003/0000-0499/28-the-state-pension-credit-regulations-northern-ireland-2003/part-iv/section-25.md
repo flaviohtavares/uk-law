@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Amendment of the Social Security (Loss of Benefit) Regulations[^key-917893d61bd964ae5821c42fef4383db]
+## 25. Amendment of the Social Security (Loss of Benefit) Regulations[^c-917893d61bd964ae5821c42fef4383db]
 
 *Extent: N.I.*
 
 (1) The Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002[^f00048] shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-89065f0414f01fdc1aca8e58f8b2f635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-89065f0414f01fdc1aca8e58f8b2f635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After regulation 3 (reduction of income support) there shall be inserted the following regulation –
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-917893d61bd964ae5821c42fef4383db]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2003/28/regulation/25) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-917893d61bd964ae5821c42fef4383db]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2003/28/regulation/25) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
 [^f00048]: Footnote: [S.R. 2002 No. 79](https://www.legislation.gov.uk/nisr/2002/79)
 
-[^key-89065f0414f01fdc1aca8e58f8b2f635]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/nisr/2003/28/regulation/25/2) revoked (1.9.2011) by [The Social Security (Loss of Benefit) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/291)](https://www.legislation.gov.uk/nisr/2011/291), [reg. 1](https://www.legislation.gov.uk/nisr/2011/291/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/291/schedule)
+[^c-89065f0414f01fdc1aca8e58f8b2f635]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/nisr/2003/28/regulation/25/2) revoked (1.9.2011) by [The Social Security (Loss of Benefit) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/291)](https://www.legislation.gov.uk/nisr/2011/291), [reg. 1](https://www.legislation.gov.uk/nisr/2011/291/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/291/schedule)

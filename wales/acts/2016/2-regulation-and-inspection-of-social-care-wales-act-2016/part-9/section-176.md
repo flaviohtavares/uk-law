@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. The regulatory bodies[^key-667bf666ea8d2b6adfae630aeb92eec8]
+## 176. The regulatory bodies[^c-667bf666ea8d2b6adfae630aeb92eec8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-667bf666ea8d2b6adfae630aeb92eec8]: Commencement: [S. 176](https://www.legislation.gov.uk/anaw/2016/2/section/176) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-667bf666ea8d2b6adfae630aeb92eec8]: Commencement: [S. 176](https://www.legislation.gov.uk/anaw/2016/2/section/176) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

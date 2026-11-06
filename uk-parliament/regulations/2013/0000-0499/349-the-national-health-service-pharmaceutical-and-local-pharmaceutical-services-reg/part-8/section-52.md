@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (12), where[^key-a0851060caa5b3ba30058a9af3a9c120] NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] receives an application for outline consent or premises approval (including an application for premises approval to which regulation 54 or 55 applies, but not an application for temporary premises approval to which regulation 58 or 61 applies), as soon as is practicable, it must give notice of that application to—
+(1) Subject to paragraph (12), where[^c-a0851060caa5b3ba30058a9af3a9c120] NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] receives an application for outline consent or premises approval (including an application for premises approval to which regulation 54 or 55 applies, but not an application for temporary premises approval to which regulation 58 or 61 applies), as soon as is practicable, it must give notice of that application to—
 
 - (a) any Local Pharmaceutical Committee—
   - (i) whose area includes the medical practice premises or all or part of the area to which the application relates, or
@@ -82,12 +82,12 @@ NHS England must withhold that information from P if it considers that the full 
 
 (11) If information is being withheld from P under paragraph (9), P must be informed of the nature of the information that is being withheld from P.
 
-(12)[^key-68cb7185e38a278e351609df4b460ba5] Where NHS England is required to refuse an application pursuant to regulation 51(5) or (6), NHS England need not give notice of that application to any person under this regulation before refusing that application.
+(12)[^c-68cb7185e38a278e351609df4b460ba5] Where NHS England is required to refuse an application pursuant to regulation 51(5) or (6), NHS England need not give notice of that application to any person under this regulation before refusing that application.
 
 ## Annotations
 
-[^key-a0851060caa5b3ba30058a9af3a9c120]: Textual amendment: Words in reg. 52(1) substituted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/4/2)
+[^c-a0851060caa5b3ba30058a9af3a9c120]: Textual amendment: Words in reg. 52(1) substituted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/4/2)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-68cb7185e38a278e351609df4b460ba5]: Textual amendment: Reg. 52(12) inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/961/regulation/4/3)
+[^c-68cb7185e38a278e351609df4b460ba5]: Textual amendment: Reg. 52(12) inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/961/regulation/4/3)

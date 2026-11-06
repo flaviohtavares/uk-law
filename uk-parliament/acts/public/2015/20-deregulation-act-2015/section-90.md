@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Poisons and explosives precursors[^c22547931][^key-a0102e1b899dacceaa37c5c5eb8ab5e0][^key-b8d94a06f5a1e426d84b475571d98cda]
+## 90. Poisons and explosives precursors[^c22547931][^c-a0102e1b899dacceaa37c5c5eb8ab5e0][^c-b8d94a06f5a1e426d84b475571d98cda]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ Schedule 21 introduces a common system for regulating the possession etc of non-
 
 [^c22547931]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/20/section/90) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-a0102e1b899dacceaa37c5c5eb8ab5e0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/20/section/90) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
+[^c-a0102e1b899dacceaa37c5c5eb8ab5e0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/20/section/90) in force at 20.4.2015 for specified purposes by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 5](https://www.legislation.gov.uk/uksi/2015/994/article/5)
 
-[^key-b8d94a06f5a1e426d84b475571d98cda]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/20/section/90) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)
+[^c-b8d94a06f5a1e426d84b475571d98cda]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2015/20/section/90) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(p)](https://www.legislation.gov.uk/uksi/2015/994/article/6/p)

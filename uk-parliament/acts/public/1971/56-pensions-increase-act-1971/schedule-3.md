@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Further Administrative, Incidental and Consequential Provisions[^c8666371][^c8666381][^c8666391][^key-50d58593ca28efb45c772d7411e29f46]
+## SCHEDULE 3 — Further Administrative, Incidental and Consequential Provisions[^c8666371][^c8666381][^c8666391][^c-50d58593ca28efb45c772d7411e29f46]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ Sections 7 and 17.
 
 **1.**[^c8666431] (1)[^c8666441][^c8666451] Where a pension to which this paragraph applies is increased under this Act, the cost of the increase shall be defrayed by the pension authority; but where the pension authority are not the last employing authority, the last employing authority shall reimburse to the pension authority that cost or so much of it as is not required by paragraph 2 below to be reimbursed by some other authority or to be borne by the pension authority.
 
-(2)[^c8666461][^c8666471][^key-634724d74f885f374661b812fb02ac25] For the purposes of this paragraph, “**the last employing authority**” means, in relation to a pension, the authority to whom the latest services in respect of which the pension is payable were rendered, unless the functions in connection with which they were rendered have been transferred to another authority; and where they have been so transferred, “**the last employing authority**” means the authority by whom those functions are for the time being exercisable.
+(2)[^c8666461][^c8666471][^c-634724d74f885f374661b812fb02ac25] For the purposes of this paragraph, “**the last employing authority**” means, in relation to a pension, the authority to whom the latest services in respect of which the pension is payable were rendered, unless the functions in connection with which they were rendered have been transferred to another authority; and where they have been so transferred, “**the last employing authority**” means the authority by whom those functions are for the time being exercisable.
 
 (3)[^c8666481] Any question who are the last employing authority for the purposes of this paragraph shall, in default of agreement, be determined by the Secretary of State.
 
@@ -49,9 +49,9 @@ then so much of the cost of the increase as is referable to the previous service
 
 ### Pensions of former civil servants payable by Post Office
 
-**3.**[^c8666581] It shall be the duty of the original holding company[^key-b8bd211a137a7dfd74fe01cc82b70ecf] to increase in accordance with this Act any pension which is payable under the principal civil service pension scheme within the meaning of section 2 of the[^c8666601] [^c8666611]Superannuation Act 1972 but in relation to which the original holding company[^c8666621] is the pension authority by virtue of paragraph 2 of Schedule 3 to the Postal Services Act 2000 as it has effect by reference to[^c8666631] section 44 of the [^c8666641]Post Office Act 1969; and where under the Post Office Act 1969 or any enactment reproducing its effect[^c8666651] part of a pension so payable is to be paid by the original holding company and part is not, this Act shall apply as if the two parts were separate pensions.
+**3.**[^c8666581] It shall be the duty of the original holding company[^c-b8bd211a137a7dfd74fe01cc82b70ecf] to increase in accordance with this Act any pension which is payable under the principal civil service pension scheme within the meaning of section 2 of the[^c8666601] [^c8666611]Superannuation Act 1972 but in relation to which the original holding company[^c8666621] is the pension authority by virtue of paragraph 2 of Schedule 3 to the Postal Services Act 2000 as it has effect by reference to[^c8666631] section 44 of the [^c8666641]Post Office Act 1969; and where under the Post Office Act 1969 or any enactment reproducing its effect[^c8666651] part of a pension so payable is to be paid by the original holding company and part is not, this Act shall apply as if the two parts were separate pensions.
 
-**3A.**[^key-9e3c618e86c86416858384111003567c] In paragraph 3 “ **the original holding company** ” has the meaning given by section 15 of the Postal Services Act 2011.
+**3A.**[^c-9e3c618e86c86416858384111003567c] In paragraph 3 “ **the original holding company** ” has the meaning given by section 15 of the Postal Services Act 2011.
 
 ### Re-employed teachers[^c8666681]
 
@@ -74,9 +74,9 @@ shall have effect, in relation to any period after 31st August 1971, as a refere
 
 - (a)[^c8667231] in England and Wales—
   - (i)[^c8667251][^c8667241] a billing authority or a precepting authority, as defined in section 69 of the Local Government Finance Act 1992;
-  - (ia)[^key-269d1aae57f5900910069392e06c96e6] a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
-  - (ib)[^key-356a22489cfd9edb31f556d4e99ef859] the London Fire Commissioner;
-  - (ii) a levying body within the meaning of section 74 of the Local Government Finance Act 1988[^key-9c78d04381952a364cc7f2d24dd5cfc1] ; and
+  - (ia)[^c-269d1aae57f5900910069392e06c96e6] a fire and rescue authority in Wales constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies;
+  - (ib)[^c-356a22489cfd9edb31f556d4e99ef859] the London Fire Commissioner;
+  - (ii) a levying body within the meaning of section 74 of the Local Government Finance Act 1988[^c-9c78d04381952a364cc7f2d24dd5cfc1] ; and
   - (iii) a body as regards which section 75 of that Act applies; and
 - (b)[^c8667281] in Scotland any regional, islands or district council.
 
@@ -115,7 +115,7 @@ shall have effect, in relation to any period after 31st August 1971, as a refere
 
     [Sch. 3](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3) restricted (1.4.1998) by [S.I. 1998/366](https://www.legislation.gov.uk/uksi/1998/366), [reg. 90](https://www.legislation.gov.uk/uksi/1998/366/regulation/90)
 
-[^key-50d58593ca28efb45c772d7411e29f46]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3) modified (S.) (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [25](https://www.legislation.gov.uk/ssi/2014/233/regulation/25)
+[^c-50d58593ca28efb45c772d7411e29f46]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3) modified (S.) (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [25](https://www.legislation.gov.uk/ssi/2014/233/regulation/25)
 
 [^c8666431]: Modification: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/1) (except 1(4)) extended by [Pensions (Increase) Act 1974 (c. 9)](https://www.legislation.gov.uk/ukpga/1974/9), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1974/9/section/2/2)
 
@@ -127,7 +127,7 @@ shall have effect, in relation to any period after 31st August 1971, as a refere
 
 [^c8666471]: Modification: [Sch. 3 para 1(2)](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/1/2) modified (13.2.1992) by [Severn Bridges Act 1992 (c. 3)](https://www.legislation.gov.uk/ukpga/1992/3), [s. 18(4)(5)](https://www.legislation.gov.uk/ukpga/1992/3/section/18/4/5).
 
-[^key-634724d74f885f374661b812fb02ac25]: Modification: [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/1/2) modified (S.) (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [25](https://www.legislation.gov.uk/ssi/2014/233/regulation/25)
+[^c-634724d74f885f374661b812fb02ac25]: Modification: [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/1/2) modified (S.) (1.4.2015) by [The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 (S.S.I. 2014/233)](https://www.legislation.gov.uk/ssi/2014/233), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2014/233/regulation/1/3), [25](https://www.legislation.gov.uk/ssi/2014/233/regulation/25)
 
 [^c8666481]: Modification: [Sch. 3 Para 1(3)](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/1/3) excluded by SI 1986/399, art. 9(7)(b)
 
@@ -143,7 +143,7 @@ shall have effect, in relation to any period after 31st August 1971, as a refere
 
 [^c8666581]: Modification: Para. 3 extended by [Pensions (Increase) Act 1974 (c. 9)](https://www.legislation.gov.uk/ukpga/1974/9), [s. 2](https://www.legislation.gov.uk/ukpga/1974/9/section/2) (2)
 
-[^key-b8bd211a137a7dfd74fe01cc82b70ecf]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 96(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/96/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b8bd211a137a7dfd74fe01cc82b70ecf]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1971/56/schedule/3/paragraph/3) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 96(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/96/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c8666601]: Textual amendment: Words substituted by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 6 para. 90(a)](https://www.legislation.gov.uk/ukpga/1972/11/schedule/6/paragraph/90/a)
 
@@ -157,7 +157,7 @@ shall have effect, in relation to any period after 31st August 1971, as a refere
 
 [^c8666651]: Textual amendment: Words in Sch. 3 para. 3 substituted (26.3.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(4)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/4), [Sch. 8 Pt. II para. 12(d)](https://www.legislation.gov.uk/ukpga/2000/26/schedule/8/part/II/paragraph/12/d); [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/1148/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule)
 
-[^key-9e3c618e86c86416858384111003567c]: Textual amendment: Sch. 3 para. 3A substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) , [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2) [(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3) , [Sch. 12 para. 96(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/96/3) ; [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329) , [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9e3c618e86c86416858384111003567c]: Textual amendment: Sch. 3 para. 3A substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) , [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2) [(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3) , [Sch. 12 para. 96(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/96/3) ; [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329) , [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c8666681]: Modification: The text of Sch 2 Pt. III para. 65, Sch. 3 para. 4, 5, Sch. 7,Sch. 8 Pt.I, II is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -177,11 +177,11 @@ shall have effect, in relation to any period after 31st August 1971, as a refere
 
 [^c8667241]: Textual amendment: Sch. 3 paras. 6(1)(a)(i)-(iii) substituted for words (E.W.) by [S.I. 1990/776](https://www.legislation.gov.uk/uksi/1990/776) , [arts. 2(2)](https://www.legislation.gov.uk/uksi/1990/776/article/2/2) , [8](https://www.legislation.gov.uk/uksi/1990/776/article/8) , [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/1990/776/schedule/3/paragraph/14)
 
-[^key-269d1aae57f5900910069392e06c96e6]: Textual amendment: Sch. 3 para. 6(1)(a)(ia) substituted (1.10.2004 for specified purposes except in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 36(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/36/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
+[^c-269d1aae57f5900910069392e06c96e6]: Textual amendment: Sch. 3 para. 6(1)(a)(ia) substituted (1.10.2004 for specified purposes except in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 36(2)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/36/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
 
-[^key-356a22489cfd9edb31f556d4e99ef859]: Textual amendment: Sch. 3 para. 6(1)(a)(ib) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/34); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-356a22489cfd9edb31f556d4e99ef859]: Textual amendment: Sch. 3 para. 6(1)(a)(ib) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/34); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-9c78d04381952a364cc7f2d24dd5cfc1]: Textual amendment: Words in Sch. 3 para. 6(1)(a)(ii) substituted (1.10.2004 for specified purposes except in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 36(3)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/36/3); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
+[^c-9c78d04381952a364cc7f2d24dd5cfc1]: Textual amendment: Words in Sch. 3 para. 6(1)(a)(ii) substituted (1.10.2004 for specified purposes except in relation to W.) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 1 para. 36(3)](https://www.legislation.gov.uk/ukpga/2004/21/schedule/1/paragraph/36/3); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2)
 
 [^c8667281]: Textual amendment: Para. 6(1)(b) substituted by [Pensions (Increase) Act 1974 (c. 9)](https://www.legislation.gov.uk/ukpga/1974/9) , [s. 3(4)(b)](https://www.legislation.gov.uk/ukpga/1974/9/section/3/4/b)
 

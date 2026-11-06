@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14A. Meaning of “accepted member”[^key-24b4a48e0293be1c22d775da0e3d92bd]
+## 14A. Meaning of “accepted member”[^c-24b4a48e0293be1c22d775da0e3d92bd]
 
 *Extent: E+W+S*
 
@@ -32,10 +32,10 @@ summary: ''
 
 (4) After the fair deal transfer date P is employed to undertake transferred services.
 
-(5) P ceases to be an accepted member from the date that P ceases to satisfy paragraph (4)[^key-a6943e57d1c95bc9afca1db3c140a6b1].
+(5) P ceases to be an accepted member from the date that P ceases to satisfy paragraph (4)[^c-a6943e57d1c95bc9afca1db3c140a6b1].
 
 ## Annotations
 
-[^key-24b4a48e0293be1c22d775da0e3d92bd]: Textual amendment: [Regs. 14A-14H](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A) inserted (1.4.2014) by [The Teachers’ Pensions (Amendment) Regulations 2014 (S.I. 2014/424)](https://www.legislation.gov.uk/uksi/2014/424), [regs. 1](https://www.legislation.gov.uk/uksi/2014/424/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/424/regulation/5)
+[^c-24b4a48e0293be1c22d775da0e3d92bd]: Textual amendment: [Regs. 14A-14H](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A) inserted (1.4.2014) by [The Teachers’ Pensions (Amendment) Regulations 2014 (S.I. 2014/424)](https://www.legislation.gov.uk/uksi/2014/424), [regs. 1](https://www.legislation.gov.uk/uksi/2014/424/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/424/regulation/5)
 
-[^key-a6943e57d1c95bc9afca1db3c140a6b1]: Textual amendment: Word in [reg. 14A(5)](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A/5) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/2651/regulation/5)
+[^c-a6943e57d1c95bc9afca1db3c140a6b1]: Textual amendment: Word in [reg. 14A(5)](https://www.legislation.gov.uk/uksi/2010/990/regulation/14A/5) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/2651/regulation/5)

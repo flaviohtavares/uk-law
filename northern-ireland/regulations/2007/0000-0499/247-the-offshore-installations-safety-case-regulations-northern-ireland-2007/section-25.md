@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Amendments[^key-ab3c540dc90ff193cbfddb7123338de8]
+## 25. Amendments[^c-ab3c540dc90ff193cbfddb7123338de8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The statutory provisions referred to in Schedule 10 shall be amended in accordan
 
 ## Annotations
 
-[^key-ab3c540dc90ff193cbfddb7123338de8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/247/regulation/25) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-ab3c540dc90ff193cbfddb7123338de8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/247/regulation/25) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

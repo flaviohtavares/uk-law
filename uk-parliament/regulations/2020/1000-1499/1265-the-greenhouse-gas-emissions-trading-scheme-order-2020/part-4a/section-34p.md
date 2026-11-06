@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34P. Permanent cessation of aviation activity[^key-9df07e4cff1aa5b85e9f5e409534e082]
+## 34P. Permanent cessation of aviation activity[^c-9df07e4cff1aa5b85e9f5e409534e082]
 
 *Extent: E+W+S+N.I.*
 
-[^key-a888bd4c94506ef60c8d871b6cb74a4a]
+[^c-a888bd4c94506ef60c8d871b6cb74a4a]
 
 (1)  This paragraph applies if the regulator is satisfied that—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9df07e4cff1aa5b85e9f5e409534e082]: Textual amendment: Pt. 4A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [18](https://www.legislation.gov.uk/uksi/2020/1557/article/18)
+[^c-9df07e4cff1aa5b85e9f5e409534e082]: Textual amendment: Pt. 4A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [18](https://www.legislation.gov.uk/uksi/2020/1557/article/18)
 
-[^key-a888bd4c94506ef60c8d871b6cb74a4a]: Modification: Pt. 4A Ch. 2 modified (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [42(7)](https://www.legislation.gov.uk/uksi/2024/1366/article/42/7)
+[^c-a888bd4c94506ef60c8d871b6cb74a4a]: Modification: Pt. 4A Ch. 2 modified (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [42(7)](https://www.legislation.gov.uk/uksi/2024/1366/article/42/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74I. Supplementary provision in respect of change of ownership of retail pharmacy business: Great Britain[^key-2dd7ea2ea1f70633852975d97935774e]
+## 74I. Supplementary provision in respect of change of ownership of retail pharmacy business: Great Britain[^c-2dd7ea2ea1f70633852975d97935774e]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) An application under subsection (1) must be made by the person who, in consequence of the change of ownership, has become the owner of the business and that person must be—
 
 - (a) a person who is lawfully conducting a retail pharmacy business; or
-- (b) a person who, if the entry of the premises is restored to Part 3 of the register and the person begins to carry on a retail pharmacy business at or from[^key-994063683ecfdf5f55b0f72651ae47aa] those premises, will, from the time the person begins to do so, be a person lawfully conducting a retail pharmacy business.
+- (b) a person who, if the entry of the premises is restored to Part 3 of the register and the person begins to carry on a retail pharmacy business at or from[^c-994063683ecfdf5f55b0f72651ae47aa] those premises, will, from the time the person begins to do so, be a person lawfully conducting a retail pharmacy business.
 
 (3) The General Pharmaceutical Council may make rules in connection with applications under subsection (1).
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-994063683ecfdf5f55b0f72651ae47aa]: Textual amendment: Words in [s. 74I(2)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/74I/2/b) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/15); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-994063683ecfdf5f55b0f72651ae47aa]: Textual amendment: Words in [s. 74I(2)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/74I/2/b) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/15); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies in relation to the computation in accordance with the provisions applicable for the purposes of section 35 of the Corporation Tax Act 2009 (charge on trade profits)[^key-dea04c7cff78f7791d7c99e84d311a1f] of the profits of the insurance business, other than life assurance business, of—
+(1) This section applies in relation to the computation in accordance with the provisions applicable for the purposes of section 35 of the Corporation Tax Act 2009 (charge on trade profits)[^c-dea04c7cff78f7791d7c99e84d311a1f] of the profits of the insurance business, other than life assurance business, of—
 
 - (a) an insurance company,
 - (b) a corporate member of Lloyd’s, or
@@ -28,8 +28,8 @@ summary: ''
 
 (2) For periods of account to which this section applies nothing in—
 
-- (a)[^key-4918905507b4f57e9ea669e4fdf3fd96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) section 46 of the Corporation Tax Act 2009[^key-b0e5ddbd43d4f34b3b45b9aeec017269] (computation of profits to be on basis giving true and fair view),
+- (a)[^c-4918905507b4f57e9ea669e4fdf3fd96] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 46 of the Corporation Tax Act 2009[^c-b0e5ddbd43d4f34b3b45b9aeec017269] (computation of profits to be on basis giving true and fair view),
 
 prevents the company from computing the profits of that business on a realisation basis rather than a mark to market basis.
 
@@ -57,8 +57,8 @@ A “**realisation basis**” means not recognising a profit or loss on an asset
 
 ## Annotations
 
-[^key-dea04c7cff78f7791d7c99e84d311a1f]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/65/1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 531(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/531/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-dea04c7cff78f7791d7c99e84d311a1f]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/65/1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 531(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/531/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-4918905507b4f57e9ea669e4fdf3fd96]: Textual amendment: [S. 65(2)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/65/2/a) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4918905507b4f57e9ea669e4fdf3fd96]: Textual amendment: [S. 65(2)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/65/2/a) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b0e5ddbd43d4f34b3b45b9aeec017269]: Textual amendment: Words in [s. 65(2)(b)](https://www.legislation.gov.uk/ukpga/2002/23/section/65/2/b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 531(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/531/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b0e5ddbd43d4f34b3b45b9aeec017269]: Textual amendment: Words in [s. 65(2)(b)](https://www.legislation.gov.uk/ukpga/2002/23/section/65/2/b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 531(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/531/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

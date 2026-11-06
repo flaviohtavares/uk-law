@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45M. Exclusions from allowances under section 45K[^key-922241598d653a814159eaaa6d66ae88][^key-661b09f8253ca07c6d062cb971343de3]
+## 45M. Exclusions from allowances under section 45K[^c-922241598d653a814159eaaa6d66ae88][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
-(1) Expenditure incurred by a person is not first-year qualifying expenditure under section 45K if it is within subsection (2), (4), (7) or (7A)[^key-fe3e463364da38c645e022efe604a0b1].
+(1) Expenditure incurred by a person is not first-year qualifying expenditure under section 45K if it is within subsection (2), (4), (7) or (7A)[^c-fe3e463364da38c645e022efe604a0b1].
 
 (2) Expenditure is within this subsection if, at the time a claim is made under section 3 for a section 45K allowance in respect of the expenditure, the person who incurred the expenditure is, or forms part of, an undertaking within subsection (3).
 
 (3) An undertaking is within this subsection if one or both of the following conditions are met—
 
-- (a) it is reasonable to assume that the undertaking would be regarded as an undertaking in difficulty for the purposes of the General Block Exemption Regulation[^key-a0c54ce7b92f0488cc80f90a020490d9];
+- (a) it is reasonable to assume that the undertaking would be regarded as an undertaking in difficulty for the purposes of the General Block Exemption Regulation[^c-a0c54ce7b92f0488cc80f90a020490d9];
 - (b) the undertaking is subject to an outstanding recovery order made by virtue of Article 108(2) of the Treaty on the Functioning of the European Union (Commission Decision declaring aid illegal and incompatible with the common market).
 
 (4) Expenditure is within this subsection if it is incurred for the purposes of a qualifying activity—
 
-- (a) in the fishery or aquaculture sector, as covered by Regulation ([^key-873dffc181b17576d0b10abfa3ba2d46]EU) No 1379/2013 of the European Parliament and of the Council,
+- (a) in the fishery or aquaculture sector, as covered by Regulation ([^c-873dffc181b17576d0b10abfa3ba2d46]EU) No 1379/2013 of the European Parliament and of the Council,
 - (b) in the coal sector, steel sector, shipbuilding sector or synthetic fibres sector,
-- (ba)[^key-9fec180a52ea3b745eeec50b58e76d29] in the transport sector or related infrastructure,
+- (ba)[^c-9fec180a52ea3b745eeec50b58e76d29] in the transport sector or related infrastructure,
 - (bb) relating to energy generation, distribution or infrastructure,
 - (bc) relating to the development of broadband networks,
 - (c) relating to the management of waste of undertakings, or
@@ -42,18 +42,18 @@ summary: ''
   - (ii) on-farm activities necessary for preparing an animal or plant product for the first sale, or
   - (iii) the first sale of agricultural products by a primary producer to wholesalers, retailers or processors, in circumstances where that sale does not take place on separate premises reserved for that purpose.
 
-(4A)[^key-1ef4e35590b830ed8c383fd19bf7743e] Expressions used in subsection (4)(b), (ba), (bb) or (bc) and in the General Block Exemption Regulation have the same meaning as in that Regulation.
+(4A)[^c-1ef4e35590b830ed8c383fd19bf7743e] Expressions used in subsection (4)(b), (ba), (bb) or (bc) and in the General Block Exemption Regulation have the same meaning as in that Regulation.
 
 (5) In subsection (4)(c) the reference to waste of undertakings does not include waste of the person who incurred the expenditure or of any other person forming part of the same undertaking as that person.
 
-(6)[^key-8b8c3c02a846834b945970f104640b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8b8c3c02a846834b945970f104640b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Expenditure is within this subsection if a relevant grant or relevant payment is made towards—
 
 - (a) that expenditure, or
 - (b) any other expenditure which is incurred by any person in respect of the same designated assisted area, and on the same single investment project, as that expenditure.
 
-(7A)[^key-42ca0128258a998f065a063df73d33a9] Expenditure is within this subsection if—
+(7A)[^c-42ca0128258a998f065a063df73d33a9] Expenditure is within this subsection if—
 
 - (a) the area by reference to which the condition in section 45K(1)(a) is met is not an area which falls within Article 107(3)(a) of the Treaty on the Functioning of the European Union,
 - (b) the condition in section 45K(8)(a) is not met in relation to the expenditure, and
@@ -72,8 +72,8 @@ summary: ''
 
 (12) In this section—
 
-- “**agricultural product**”, has[^key-70ec6eb526f55733528b7ebfb6ebe7d5] the same meaning as in the General Block Exemption Regulation;
-- “**General Block Exemption Regulation**” means Commission Regulation ([^key-490a2c497ed8c38b539d29b7c5518013]EU) No 651/2014 (General block exemption Regulation)as it had effect in the United Kingdom immediately before IP completion day[^key-55e27ca06c860d08b3fb2fb6d51374ba];
+- “**agricultural product**”, has[^c-70ec6eb526f55733528b7ebfb6ebe7d5] the same meaning as in the General Block Exemption Regulation;
+- “**General Block Exemption Regulation**” means Commission Regulation ([^c-490a2c497ed8c38b539d29b7c5518013]EU) No 651/2014 (General block exemption Regulation)as it had effect in the United Kingdom immediately before IP completion day[^c-55e27ca06c860d08b3fb2fb6d51374ba];
 - “management” and “waste” have the meaning given by Article 1 of Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12) of the European Parliament and of the Council;
 - “**relevant grant or relevant payment**” means a grant or payment which is—
   - (a) a State aid, other than an allowance under this Part, or
@@ -94,34 +94,34 @@ summary: ''
 
 - (a) the General Block Exemption Regulation,
 - (b) the Community Guidelines on State Aid for Rescuing and Restructuring Firms in Difficulty (2004/C 244/02),
-- (c)[^key-c5ae339ecd8c22822db6b2629f10624a] Regulation (EU) No 1379/2013 of the European Parliament and of the Council,
+- (c)[^c-c5ae339ecd8c22822db6b2629f10624a] Regulation (EU) No 1379/2013 of the European Parliament and of the Council,
 - (d) Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12) of the European Parliament and of the Council, or
 - (e) the Treaty on the Functioning of the European Union.
 
 ## Annotations
 
-[^key-922241598d653a814159eaaa6d66ae88]: Textual amendment: Ss. 45K-45N inserted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/3)
+[^c-922241598d653a814159eaaa6d66ae88]: Textual amendment: Ss. 45K-45N inserted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/3)
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
 
-[^key-fe3e463364da38c645e022efe604a0b1]: Textual amendment: Words in s. 45M(1) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/2)
+[^c-fe3e463364da38c645e022efe604a0b1]: Textual amendment: Words in s. 45M(1) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/2)
 
-[^key-a0c54ce7b92f0488cc80f90a020490d9]: Textual amendment: Words in s. 45M(3)(a) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/3)
+[^c-a0c54ce7b92f0488cc80f90a020490d9]: Textual amendment: Words in s. 45M(3)(a) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/3)
 
-[^key-873dffc181b17576d0b10abfa3ba2d46]: Textual amendment: Words in s. 45M(4)(a) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/4/a)
+[^c-873dffc181b17576d0b10abfa3ba2d46]: Textual amendment: Words in s. 45M(4)(a) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/4/a)
 
-[^key-9fec180a52ea3b745eeec50b58e76d29]: Textual amendment: Ss. 45M(4)(ba)-(bc) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/4/b)
+[^c-9fec180a52ea3b745eeec50b58e76d29]: Textual amendment: Ss. 45M(4)(ba)-(bc) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/4/b)
 
-[^key-1ef4e35590b830ed8c383fd19bf7743e]: Textual amendment: S. 45M(4A) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/5)
+[^c-1ef4e35590b830ed8c383fd19bf7743e]: Textual amendment: S. 45M(4A) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/5)
 
-[^key-8b8c3c02a846834b945970f104640b5d]: Textual amendment: S. 45M(6) omitted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/6)
+[^c-8b8c3c02a846834b945970f104640b5d]: Textual amendment: S. 45M(6) omitted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/6)
 
-[^key-42ca0128258a998f065a063df73d33a9]: Textual amendment: S. 45M(7A) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(7)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/7)
+[^c-42ca0128258a998f065a063df73d33a9]: Textual amendment: S. 45M(7A) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(7)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/7)
 
-[^key-70ec6eb526f55733528b7ebfb6ebe7d5]: Textual amendment: Word in s. 45M(12) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/8/a)
+[^c-70ec6eb526f55733528b7ebfb6ebe7d5]: Textual amendment: Word in s. 45M(12) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/8/a)
 
-[^key-490a2c497ed8c38b539d29b7c5518013]: Textual amendment: Words in s. 45M(12) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/8/b)
+[^c-490a2c497ed8c38b539d29b7c5518013]: Textual amendment: Words in s. 45M(12) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/8/b)
 
-[^key-55e27ca06c860d08b3fb2fb6d51374ba]: Textual amendment: Words in s. 45M(12) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/3/3)
+[^c-55e27ca06c860d08b3fb2fb6d51374ba]: Textual amendment: Words in s. 45M(12) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/3/3)
 
-[^key-c5ae339ecd8c22822db6b2629f10624a]: Textual amendment: S. 45M(15)(c) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(9)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/9)
+[^c-c5ae339ecd8c22822db6b2629f10624a]: Textual amendment: S. 45M(15)(c) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 4(9)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/4/9)

@@ -32,7 +32,7 @@ summary: ''
 
 Prevention And Suppression Of Terrorism
 
-The Proscribed Organisations (Name Change) Order 2017 (revoked)[^key-005fe786de40fe18e2f677a1951f44f4]
+The Proscribed Organisations (Name Change) Order 2017 (revoked)[^c-005fe786de40fe18e2f677a1951f44f4]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd May 2017
 
-[^key-005fe786de40fe18e2f677a1951f44f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-005fe786de40fe18e2f677a1951f44f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-005fe786de40fe18e2f677a1951f44f4]
+## 1. Citation and commencement[^c-005fe786de40fe18e2f677a1951f44f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Name change[^key-005fe786de40fe18e2f677a1951f44f4]
+## 2. Name change[^c-005fe786de40fe18e2f677a1951f44f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-005fe786de40fe18e2f677a1951f44f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-005fe786de40fe18e2f677a1951f44f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-005fe786de40fe18e2f677a1951f44f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-005fe786de40fe18e2f677a1951f44f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-005fe786de40fe18e2f677a1951f44f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/615) revoked (10.11.2025) by [The Proscribed Organisations (Name Change) (Revocation) Order 2025 (S.I. 2025/1104)](https://www.legislation.gov.uk/uksi/2025/1104), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1104/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1104/article/2)
+[^c-005fe786de40fe18e2f677a1951f44f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/615) revoked (10.11.2025) by [The Proscribed Organisations (Name Change) (Revocation) Order 2025 (S.I. 2025/1104)](https://www.legislation.gov.uk/uksi/2025/1104), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1104/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1104/article/2)

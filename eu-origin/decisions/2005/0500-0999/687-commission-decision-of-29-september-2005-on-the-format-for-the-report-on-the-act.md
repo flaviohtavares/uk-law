@@ -39,378 +39,378 @@ on the format for the report on the activities of immigration liaison officers n
 
 (2005/687/EC) (revoked)
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e1d73b458acfd03d9ba21ae251d4899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1e1d73b458acfd03d9ba21ae251d4899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1e1d73b458acfd03d9ba21ae251d4899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1e1d73b458acfd03d9ba21ae251d4899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1e1d73b458acfd03d9ba21ae251d4899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e1d73b458acfd03d9ba21ae251d4899]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Report on the activities of the immigration liaison officers network and on the situation in the host country in matters relating to illegal immigration[^key-1e1d73b458acfd03d9ba21ae251d4899]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-1e1d73b458acfd03d9ba21ae251d4899]INTRODUCTION
+## ANNEX — Report on the activities of the immigration liaison officers network and on the situation in the host country in matters relating to illegal immigration[^c-1e1d73b458acfd03d9ba21ae251d4899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]I.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]INTRODUCTION
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1e1d73b458acfd03d9ba21ae251d4899]I.
 
 ACTIVITIES OF THE ILO NETWORK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.5.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.6.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.7.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.8.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.9.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.9.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.9.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.9.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.9.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.10.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.11.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]2.12.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]2.12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]5.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]II.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]II.
 
 SITUATION IN THE HOST COUNTRY IN MATTERS RELATING TO ILLEGAL IMMIGRATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.2.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.2.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.2.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.2.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.3.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.3.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.3.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.5.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.5.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.5.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.5.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.5.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.6.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.6.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]6.6.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]6.6.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.1.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.1.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.2.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.2.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.3.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.3.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.3.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.3.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.4.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.4.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.5.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.5.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.5.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]7.6.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]7.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.1.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.1.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.1.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.1.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.1.5.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.2.1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.2.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.3.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.3.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.3.3.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.4.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.5.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]8.6.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]8.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.1.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.1.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.2.1.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]9.2.2.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]9.2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]10.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]11.
+[^c-1e1d73b458acfd03d9ba21ae251d4899]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e1d73b458acfd03d9ba21ae251d4899]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e1d73b458acfd03d9ba21ae251d4899]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

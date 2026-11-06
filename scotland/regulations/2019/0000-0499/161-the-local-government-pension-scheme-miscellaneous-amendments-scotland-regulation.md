@@ -50,7 +50,7 @@ In accordance with section 7(5) of the Superannuation Act 1972, they have consul
 
 In accordance with section 21(1) of the Public Services Pensions Act 2013 , the Scottish Ministers consulted such persons or the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.
 
-## 1. Citation, commencement and effect[^key-8d670ba97f816acdfcbbe8acdbaa64ab]
+## 1. Citation, commencement and effect[^c-8d670ba97f816acdfcbbe8acdbaa64ab]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019, and come into force on 28 June 2019.
 
@@ -58,7 +58,7 @@ In accordance with section 21(1) of the Public Services Pensions Act 2013 , the 
 
 (3) Regulations 2(18)(b) and 4 have effect from 1 April 2015.
 
-## 2. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2018[^key-be9789d87b28bb10ebea55e123666ecb]
+## 2. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2018[^c-be9789d87b28bb10ebea55e123666ecb]
 
 (1) The Local Government Pension Scheme (Scotland) Regulations 2018 [^c23727791] are amended in accordance with paragraphs (2) to (28).
 
@@ -110,7 +110,7 @@ In accordance with section 21(1) of the Public Services Pensions Act 2013 , the 
 (12) In regulation 22—
 
 - (a) in paragraph (6) in penultimate line for “and” substitute “ or ”, and
-- (b) in paragraph (7) in the third[^key-777538507e18f53cc5d0f78488106a41] line for “and” substitute “ or ”.
+- (b) in paragraph (7) in the third[^c-777538507e18f53cc5d0f78488106a41] line for “and” substitute “ or ”.
 
 (13) In regulation 23(8) for “29(6)” substitute “ 29(7) ”.
 
@@ -168,7 +168,7 @@ In accordance with section 21(1) of the Public Services Pensions Act 2013 , the 
 
   .
 
-(27)[^key-fb63415508cb5c96aa58b5a84a010e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(27)[^c-fb63415508cb5c96aa58b5a84a010e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (28) In schedule 4 —
 
@@ -176,7 +176,7 @@ In accordance with section 21(1) of the Public Services Pensions Act 2013 , the 
 - (b) omit paragraph 3, and
 - (c) in paragraph 4 for “3” substitute “ 2 ”.
 
-## 3. Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014[^key-8b5c13ded3ab5740e38f360ffef04048]
+## 3. Amendment of the Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014[^c-8b5c13ded3ab5740e38f360ffef04048]
 
 (1) The Local Government Pension Scheme (Transitional Provisions and Savings) (Scotland) Regulations 2014 [^c23727801] are amended in accordance with paragraphs (2) to (4).
 
@@ -208,7 +208,7 @@ In accordance with section 21(1) of the Public Services Pensions Act 2013 , the 
 - (i) in paragraph 5(1) after “2014 Regulations” insert “ or regulation 29(7) of the 2018 Regulations ”, and
 - (j) in paragraph 6(2) after “2014 Regulations” insert “ or regulation 22 of the 2018 Regulations ”.
 
-## 4. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2014[^key-3038b34376431ab7e75f53d065a991f8]
+## 4. Amendment of the Local Government Pension Scheme (Scotland) Regulations 2014[^c-3038b34376431ab7e75f53d065a991f8]
 
 (1) The Local Government Pension Scheme (Scotland) Regulations 2014 [^c23727811] are amended in accordance with paragraph (2).
 
@@ -242,20 +242,20 @@ Regulation 4 of these Regulations amends retrospectively the 2014 regulations to
 
 [^c23727781]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-8d670ba97f816acdfcbbe8acdbaa64ab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1) in force at 28.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/1)
+[^c-8d670ba97f816acdfcbbe8acdbaa64ab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/161/regulation/1) in force at 28.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/1)
 
-[^key-be9789d87b28bb10ebea55e123666ecb]: Commencement: Reg. 2 in force at 28.6.2019, see reg. 1(1)
+[^c-be9789d87b28bb10ebea55e123666ecb]: Commencement: Reg. 2 in force at 28.6.2019, see reg. 1(1)
 
 [^c23727791]: Marginal citation: [S.S.I. 2018/141](https://www.legislation.gov.uk/ssi/2018/141).
 
-[^key-777538507e18f53cc5d0f78488106a41]: Textual amendment: Words in reg. 2(12)(b) substituted (28.6.2019 with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/204)](https://www.legislation.gov.uk/ssi/2019/204), [regs. 1](https://www.legislation.gov.uk/ssi/2019/204/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/204/regulation/2/2)
+[^c-777538507e18f53cc5d0f78488106a41]: Textual amendment: Words in reg. 2(12)(b) substituted (28.6.2019 with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/204)](https://www.legislation.gov.uk/ssi/2019/204), [regs. 1](https://www.legislation.gov.uk/ssi/2019/204/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/204/regulation/2/2)
 
-[^key-fb63415508cb5c96aa58b5a84a010e4a]: Textual amendment: Reg. 2(27) revoked (28.6.2019 with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/204)](https://www.legislation.gov.uk/ssi/2019/204), [regs. 1](https://www.legislation.gov.uk/ssi/2019/204/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/204/regulation/2/3)
+[^c-fb63415508cb5c96aa58b5a84a010e4a]: Textual amendment: Reg. 2(27) revoked (28.6.2019 with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/204)](https://www.legislation.gov.uk/ssi/2019/204), [regs. 1](https://www.legislation.gov.uk/ssi/2019/204/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/204/regulation/2/3)
 
-[^key-8b5c13ded3ab5740e38f360ffef04048]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/161/regulation/3) in force at 28.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/1)
+[^c-8b5c13ded3ab5740e38f360ffef04048]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/161/regulation/3) in force at 28.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/1)
 
 [^c23727801]: Marginal citation: [S.S.I. 2014/233](https://www.legislation.gov.uk/ssi/2014/233).
 
-[^key-3038b34376431ab7e75f53d065a991f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/161/regulation/4) in force at 28.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/1)
+[^c-3038b34376431ab7e75f53d065a991f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/161/regulation/4) in force at 28.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/1)
 
 [^c23727811]: Marginal citation: [S.S.I. 2014/164](https://www.legislation.gov.uk/ssi/2014/164) as amended by [S.S.I. 2015/87](https://www.legislation.gov.uk/ssi/2015/87).

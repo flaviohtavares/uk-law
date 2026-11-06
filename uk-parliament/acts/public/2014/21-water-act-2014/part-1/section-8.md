@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Bulk supply of water by water undertakers[^key-dd041575e0d49ef8b7ce112ddd2e0a78]
+## 8. Bulk supply of water by water undertakers[^c-dd041575e0d49ef8b7ce112ddd2e0a78]
 
 *Extent: E+W*
 
-(1)[^key-7ae927f6d32832dcc26e9c3f229024d8][^key-883f422bb67a0d1f84e37fba7e76ce3d][^key-41f92cc7eb9078a86b4abe2f543cd5c9] For sections 40 and 40A of the Water Industry Act 1991 (agreements for the bulk supply of water etc) there is substituted—
+(1)[^c-7ae927f6d32832dcc26e9c3f229024d8][^c-883f422bb67a0d1f84e37fba7e76ce3d][^c-41f92cc7eb9078a86b4abe2f543cd5c9] For sections 40 and 40A of the Water Industry Act 1991 (agreements for the bulk supply of water etc) there is substituted—
 
 > **40. Bulk supplies**
 >
@@ -371,7 +371,7 @@ summary: ''
 >
 > (3) In subsection (1) “**the appropriate agency**” means the body that would be consulted by the Authority under section 40A(2) if the agreement were to be varied or terminated by an order under section 40A(1).
 
-(2)[^key-8b4f5e5653fcacd631c2c553d36babe4][^key-41f92cc7eb9078a86b4abe2f543cd5c9] In sections 40A to 40J of the Water Industry Act 1991 (as substituted by subsection (1))—
+(2)[^c-8b4f5e5653fcacd631c2c553d36babe4][^c-41f92cc7eb9078a86b4abe2f543cd5c9] In sections 40A to 40J of the Water Industry Act 1991 (as substituted by subsection (1))—
 
 - (a) a reference to a bulk supply agreement includes a reference to an old bulk supply agreement, and
 - (b) a reference to a supplier, in relation to a bulk supply agreement, is to be construed accordingly.
@@ -380,12 +380,12 @@ For these purposes, an old bulk supply agreement is a bulk supply agreement with
 
 ## Annotations
 
-[^key-dd041575e0d49ef8b7ce112ddd2e0a78]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/21/section/8) in force at 1.4.2019 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/a)
+[^c-dd041575e0d49ef8b7ce112ddd2e0a78]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/21/section/8) in force at 1.4.2019 for W. in so far as not already in force by [S.I. 2017/1288](https://www.legislation.gov.uk/wsi/2017/1288), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/1288/article/3/a)
 
-[^key-7ae927f6d32832dcc26e9c3f229024d8]: Commencement: S. 8(1) in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/a/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
+[^c-7ae927f6d32832dcc26e9c3f229024d8]: Commencement: S. 8(1) in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/a/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
 
-[^key-883f422bb67a0d1f84e37fba7e76ce3d]: Commencement: S. 8(1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/b)
+[^c-883f422bb67a0d1f84e37fba7e76ce3d]: Commencement: S. 8(1) in force at 1.11.2016 for specified purposes by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/b)
 
-[^key-41f92cc7eb9078a86b4abe2f543cd5c9]: Commencement: S. 8(1)(2) in force at 1.4.2018 for specified purposes for E. by [S.I. 2018/397](https://www.legislation.gov.uk/uksi/2018/397), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/397/article/2/a)
+[^c-41f92cc7eb9078a86b4abe2f543cd5c9]: Commencement: S. 8(1)(2) in force at 1.4.2018 for specified purposes for E. by [S.I. 2018/397](https://www.legislation.gov.uk/uksi/2018/397), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/397/article/2/a)
 
-[^key-8b4f5e5653fcacd631c2c553d36babe4]: Commencement: S. 8(2) in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/a/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
+[^c-8b4f5e5653fcacd631c2c553d36babe4]: Commencement: S. 8(2) in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/a/ii) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))

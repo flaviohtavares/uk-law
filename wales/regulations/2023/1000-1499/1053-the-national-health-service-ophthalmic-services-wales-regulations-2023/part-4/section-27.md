@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Notifications by Local Health Boards[^key-d980714cf896c1761e54d8dfd8626613]
+## 27. Notifications by Local Health Boards[^c-d980714cf896c1761e54d8dfd8626613]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d980714cf896c1761e54d8dfd8626613]: Commencement: Reg. 27 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-d980714cf896c1761e54d8dfd8626613]: Commencement: Reg. 27 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00026]: Footnote: [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17); section 25(3) was amended by paragraph 17(2) and (3) of Schedule 10 to the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), paragraph 10(2) of Schedule 4 to [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), paragraph 56(b) of Schedule 15 to the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and paragraph 2(2) of Schedule 4 to the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16).

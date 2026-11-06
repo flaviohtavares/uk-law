@@ -97,7 +97,7 @@ and in sub-paragraph*(a)* of paragraph 7 of Schedule III to the Federation of No
 
 #### Armed forces
 
-**5.**[^key-44a024eb99e2e1a7ea5513e6bebb6455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-44a024eb99e2e1a7ea5513e6bebb6455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In the [^c655695]Visiting Forces (British Commonwealth) Act 1933, section 4 (attachment and mutual powers of command) shall apply in relation to forces raised in Zambia as it applies in relation to forces raised in Dominions within the meaning of the [^c655696]Statute of Westminster 1931.
 
@@ -115,7 +115,7 @@ and in sub-paragraph*(a)* of paragraph 7 of Schedule III to the Federation of No
 
 ### Part II — Exceptions from S.2(1) of Act
 
-**11.**[^key-8a0553bb1666dc8f750955986c8aa61e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8a0553bb1666dc8f750955986c8aa61e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c655708]
 
@@ -157,7 +157,7 @@ and in sub-paragraph*(a)* of paragraph 7 of Schedule III to the Federation of No
 
 [^c655690]: Marginal citation: [1958 c. 6](https://www.legislation.gov.uk/ukpga/1958/6)
 
-[^key-44a024eb99e2e1a7ea5513e6bebb6455]: Textual amendment: Sch. 1 para. 5 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
+[^c-44a024eb99e2e1a7ea5513e6bebb6455]: Textual amendment: Sch. 1 para. 5 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by Armed Forces Act 2006 (c. 52), s. 383(2), Sch. 17; S.I. 2009/812, art. 3(a)(b) (with transitional provisions in S.I. 2009/1059); S.I. 2009/1167, art. 4
 
 [^c655695]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6).
 
@@ -173,7 +173,7 @@ and in sub-paragraph*(a)* of paragraph 7 of Schedule III to the Federation of No
 
 [^c655704]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1964/65/schedule/1/paragraph/10) repealed (7.1.2003) by [2002 c. 39](https://www.legislation.gov.uk/ukpga/2002/39), [ss. 3](https://www.legislation.gov.uk/ukpga/2002/39/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2002/39/section/4/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2002/39/schedule/3)
 
-[^key-8a0553bb1666dc8f750955986c8aa61e]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/1964/65/schedule/1/paragraph/11) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8a0553bb1666dc8f750955986c8aa61e]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/1964/65/schedule/1/paragraph/11) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c655708]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/1964/65/schedule/1/paragraph/12) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/XIII)
 

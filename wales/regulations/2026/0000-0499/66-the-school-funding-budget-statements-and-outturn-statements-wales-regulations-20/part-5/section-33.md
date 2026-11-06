@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Manner of publication of budget statements[^key-4dbbd4698199a209e902f51fe064e7e3]
+## 33. Manner of publication of budget statements[^c-4dbbd4698199a209e902f51fe064e7e3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dbbd4698199a209e902f51fe064e7e3]: Commencement: Reg. 33 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-4dbbd4698199a209e902f51fe064e7e3]: Commencement: Reg. 33 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

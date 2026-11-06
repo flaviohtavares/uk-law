@@ -31,7 +31,7 @@ summary: ''
 
 Clean air
 
-The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-afaa3e5b4478f9d3c3275456b173f062]
+The Smoke Control Areas (Authorised Fuels) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-afaa3e5b4478f9d3c3275456b173f062]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 11th February 2007
 
-[^key-afaa3e5b4478f9d3c3275456b173f062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afaa3e5b4478f9d3c3275456b173f062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-afaa3e5b4478f9d3c3275456b173f062]
+## 1. Citation, commencement and interpretation[^c-afaa3e5b4478f9d3c3275456b173f062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the principal Regulations[^key-afaa3e5b4478f9d3c3275456b173f062]
+## 2. Amendment to the principal Regulations[^c-afaa3e5b4478f9d3c3275456b173f062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Savings[^key-afaa3e5b4478f9d3c3275456b173f062]
+## 3. Savings[^c-afaa3e5b4478f9d3c3275456b173f062]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-afaa3e5b4478f9d3c3275456b173f062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afaa3e5b4478f9d3c3275456b173f062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-afaa3e5b4478f9d3c3275456b173f062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-afaa3e5b4478f9d3c3275456b173f062]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-afaa3e5b4478f9d3c3275456b173f062]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/17) revoked (7.11.2008) by [The Smoke Control Areas (Authorised Fuels) Regulations (Northern Ireland) 2008 (S.R. 2008/415)](https://www.legislation.gov.uk/nisr/2008/415), [regs. 1](https://www.legislation.gov.uk/nisr/2008/415/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2008/415/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/415/regulation/3/2))
+[^c-afaa3e5b4478f9d3c3275456b173f062]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/17) revoked (7.11.2008) by [The Smoke Control Areas (Authorised Fuels) Regulations (Northern Ireland) 2008 (S.R. 2008/415)](https://www.legislation.gov.uk/nisr/2008/415), [regs. 1](https://www.legislation.gov.uk/nisr/2008/415/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2008/415/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2008/415/regulation/3/2))

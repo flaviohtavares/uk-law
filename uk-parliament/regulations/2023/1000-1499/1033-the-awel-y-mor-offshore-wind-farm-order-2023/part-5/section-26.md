@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Rights under or over streets[^key-06c206cb11881986467633661a2cd7d1]
+## 26. Rights under or over streets[^c-06c206cb11881986467633661a2cd7d1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06c206cb11881986467633661a2cd7d1]: Commencement: Art. 26 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-06c206cb11881986467633661a2cd7d1]: Commencement: Art. 26 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

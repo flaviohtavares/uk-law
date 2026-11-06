@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Applications for placement orders[^key-499f3aa53c216a112bfab4e5f860c13f]
+## 22. Applications for placement orders[^c-499f3aa53c216a112bfab4e5f860c13f]
 
 *Extent: E+W*
 
@@ -50,8 +50,8 @@ the child is looked after by the authority.
 
 (5) Subsections (1) to (3) do not apply in respect of a child—
 
-- (a)[^key-796e77b8ddb22790d3ce7c7cb57b19ca] if any persons have given notice of intention to adopt, unless the period of four months beginning with the giving of the notice has expired without them applying for an adoption order or their application for such an order has been withdrawn or refused, or
-- (b)[^key-796e77b8ddb22790d3ce7c7cb57b19ca] if an application for an adoption order has been made and has not been disposed of.
+- (a)[^c-796e77b8ddb22790d3ce7c7cb57b19ca] if any persons have given notice of intention to adopt, unless the period of four months beginning with the giving of the notice has expired without them applying for an adoption order or their application for such an order has been withdrawn or refused, or
+- (b)[^c-796e77b8ddb22790d3ce7c7cb57b19ca] if an application for an adoption order has been made and has not been disposed of.
 
 “**Adoption order**” includes a Scottish or Northern Irish adoption order.
 
@@ -69,6 +69,6 @@ the court may give any directions it considers appropriate for the medical or ps
 
 ## Annotations
 
-[^key-499f3aa53c216a112bfab4e5f860c13f]: Commencement: S. 22 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-499f3aa53c216a112bfab4e5f860c13f]: Commencement: S. 22 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-796e77b8ddb22790d3ce7c7cb57b19ca]: Modification: S. 22(5)(a)(b) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/d), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-796e77b8ddb22790d3ce7c7cb57b19ca]: Modification: S. 22(5)(a)(b) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(d)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/d), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)

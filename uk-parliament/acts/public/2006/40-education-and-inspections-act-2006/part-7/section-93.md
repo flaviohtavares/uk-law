@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Power of members of staff to use force[^key-6eb622ee46c483eaeff3110e3442ac17][^key-05c7893119571de6ad8a9ba9fea76097]
+## 93. Power of members of staff to use force[^c-6eb622ee46c483eaeff3110e3442ac17][^c-05c7893119571de6ad8a9ba9fea76097]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6eb622ee46c483eaeff3110e3442ac17]: Commencement: S. 93 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
+[^c-6eb622ee46c483eaeff3110e3442ac17]: Commencement: S. 93 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
 
-[^key-05c7893119571de6ad8a9ba9fea76097]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2006/40/section/93) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/e)
+[^c-05c7893119571de6ad8a9ba9fea76097]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2006/40/section/93) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/e)

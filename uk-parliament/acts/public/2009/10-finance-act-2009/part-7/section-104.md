@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In sections 101 to 103A (and Schedules 53 to 54A)[^key-1945f3024ca7d94b83d6036cfc40edea] —
+(1) In sections 101 to 103A (and Schedules 53 to 54A)[^c-1945f3024ca7d94b83d6036cfc40edea] —
 
 - “**HMRC**” means Her Majesty's Revenue and Customs;
 - “**late payment interest**” means interest payable under section 101;
@@ -58,4 +58,4 @@ is subject to annulment in pursuance of a resolution of the House of Commons.
 
 ## Annotations
 
-[^key-1945f3024ca7d94b83d6036cfc40edea]: Textual amendment: Words in [s. 104(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/104/1) substituted (1.1.2023) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/25/2), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/5); [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))
+[^c-1945f3024ca7d94b83d6036cfc40edea]: Textual amendment: Words in [s. 104(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/104/1) substituted (1.1.2023) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/25/2), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2010/33/schedule/9/paragraph/5); [S.I. 2022/1277](https://www.legislation.gov.uk/uksi/2022/1277), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2022/1277/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1277/regulation/3))

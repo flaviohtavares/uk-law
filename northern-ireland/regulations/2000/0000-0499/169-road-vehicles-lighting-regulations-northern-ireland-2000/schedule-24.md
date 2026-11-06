@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 24 — Example of marking showing the vertical downwards inclination of the dipped-beam headlamps when the vehicle is at its kerbside weight and has a weight of 75 kg on the driver’s seat[^key-3eb44836dce3552c30cb4f6ffc883d15]
+## SCHEDULE 24 — Example of marking showing the vertical downwards inclination of the dipped-beam headlamps when the vehicle is at its kerbside weight and has a weight of 75 kg on the driver’s seat[^c-3eb44836dce3552c30cb4f6ffc883d15]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Schedule 4, Part 1, Paragraph 12
 
 ## Annotations
 
-[^key-3eb44836dce3552c30cb4f6ffc883d15]: Commencement: [Sch. 24](https://www.legislation.gov.uk/nisr/2000/169/schedule/24) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-3eb44836dce3552c30cb4f6ffc883d15]: Commencement: [Sch. 24](https://www.legislation.gov.uk/nisr/2000/169/schedule/24) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

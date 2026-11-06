@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80.[^key-07d062b6caa25d982a151433c787cf95]
+## 80.[^c-07d062b6caa25d982a151433c787cf95]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ In Article 5 (prohibition of the provision of non-audit services)—
 
 ## Annotations
 
-[^key-07d062b6caa25d982a151433c787cf95]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-07d062b6caa25d982a151433c787cf95]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

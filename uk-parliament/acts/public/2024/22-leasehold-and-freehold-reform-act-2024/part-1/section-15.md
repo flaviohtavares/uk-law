@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Redress: general provision[^key-6f90770ed9936afa1b381065d29ed1c4]
+## 15. Redress: general provision[^c-6f90770ed9936afa1b381065d29ed1c4]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f90770ed9936afa1b381065d29ed1c4]: Commencement: S. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-6f90770ed9936afa1b381065d29ed1c4]: Commencement: S. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

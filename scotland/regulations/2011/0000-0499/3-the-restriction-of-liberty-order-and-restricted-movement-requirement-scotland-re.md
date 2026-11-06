@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Restriction of Liberty Order and Restricted Movement Requirement (Scotland) Regulations 2011 (revoked)[^key-4295fb3d6c73773960394171619cc80f]
+The Restriction of Liberty Order and Restricted Movement Requirement (Scotland) Regulations 2011 (revoked)[^c-4295fb3d6c73773960394171619cc80f]
 
 Made
 
@@ -46,60 +46,60 @@ Coming into force
 
 4th February 2011
 
-[^key-4295fb3d6c73773960394171619cc80f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4295fb3d6c73773960394171619cc80f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-4295fb3d6c73773960394171619cc80f]
+## 1. Citation, commencement and revocation[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4295fb3d6c73773960394171619cc80f]
+## 2. Interpretation[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed courts[^key-4295fb3d6c73773960394171619cc80f]
+## 3. Prescribed courts[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Methods of monitoring compliance with restriction of liberty orders and restricted movement requirements[^key-4295fb3d6c73773960394171619cc80f]
+## 4. Methods of monitoring compliance with restriction of liberty orders and restricted movement requirements[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Specified devices which may be used for monitoring compliance with a restriction of liberty order and a restricted movement requirement[^key-4295fb3d6c73773960394171619cc80f]
+## 5. Specified devices which may be used for monitoring compliance with a restriction of liberty order and a restricted movement requirement[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4295fb3d6c73773960394171619cc80f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4295fb3d6c73773960394171619cc80f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-4295fb3d6c73773960394171619cc80f]
+## SCHEDULE 1[^c-4295fb3d6c73773960394171619cc80f]
 
 Regulation 3
 
-### PART 1[^key-4295fb3d6c73773960394171619cc80f]
+### PART 1[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-4295fb3d6c73773960394171619cc80f]
+### PART 2[^c-4295fb3d6c73773960394171619cc80f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-4295fb3d6c73773960394171619cc80f]
+## SCHEDULE 2[^c-4295fb3d6c73773960394171619cc80f]
 
 Regulation 5
 
-**1.**[^key-4295fb3d6c73773960394171619cc80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4295fb3d6c73773960394171619cc80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4295fb3d6c73773960394171619cc80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4295fb3d6c73773960394171619cc80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4295fb3d6c73773960394171619cc80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4295fb3d6c73773960394171619cc80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4295fb3d6c73773960394171619cc80f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4295fb3d6c73773960394171619cc80f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4295fb3d6c73773960394171619cc80f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/3) revoked (1.3.2013) by [The Restriction of Liberty Order etc. (Scotland) Regulations 2013 (S.S.I. 2013/6)](https://www.legislation.gov.uk/ssi/2013/6), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/2)
+[^c-4295fb3d6c73773960394171619cc80f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/3) revoked (1.3.2013) by [The Restriction of Liberty Order etc. (Scotland) Regulations 2013 (S.S.I. 2013/6)](https://www.legislation.gov.uk/ssi/2013/6), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/6/regulation/1/2)

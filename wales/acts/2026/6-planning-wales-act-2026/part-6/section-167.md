@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Modification and discharge of planning obligations[^key-e2f062a0686105a88fb37247bc65051c]
+## 167. Modification and discharge of planning obligations[^c-e2f062a0686105a88fb37247bc65051c]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f062a0686105a88fb37247bc65051c]: Commencement: S. 167 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e2f062a0686105a88fb37247bc65051c]: Commencement: S. 167 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

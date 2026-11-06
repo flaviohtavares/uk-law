@@ -523,11 +523,11 @@ and in column 1 of item 7, for “6” substitute “ 6A ”.
 > - (a) the manufactured interest is paid by a UK resident company in the course of a trade carried on through a permanent establishment in a territory outside the United Kingdom, and
 > - (b) section 18A of CTA 2009 has effect in relation to the company for the accounting period in which it is paid.
 
-**22.**[^key-261a95a665ae1d136ec582c381b21287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-261a95a665ae1d136ec582c381b21287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-261a95a665ae1d136ec582c381b21287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-261a95a665ae1d136ec582c381b21287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-261a95a665ae1d136ec582c381b21287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-261a95a665ae1d136ec582c381b21287] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### TIOPA 2010
 
@@ -576,9 +576,9 @@ and in column 1 of item 7, for “6” substitute “ 6A ”.
 
 > (3) In subsection (2) “**relevant non-discrimination provision**” means a provision to the effect that the taxation on a permanent establishment of an enterprise of a state which is party to the arrangements (a “contracting state”) is not to be less favourably levied in any other contracting state than the taxation levied on enterprises of that other contracting state carrying on the same activities.
 
-**29.**[^key-d236f55dc908b8690c0b6f5ad6fab255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-d236f55dc908b8690c0b6f5ad6fab255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-d236f55dc908b8690c0b6f5ad6fab255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-d236f55dc908b8690c0b6f5ad6fab255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Commencement and transitional provision
 
@@ -650,6 +650,6 @@ and in column 1 of item 7, for “6” substitute “ 6A ”.
 
 ## Annotations
 
-[^key-261a95a665ae1d136ec582c381b21287]: Textual amendment: [Sch. 13 paras. 22-24](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/22) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [29 para. 49](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/49)
+[^c-261a95a665ae1d136ec582c381b21287]: Textual amendment: [Sch. 13 paras. 22-24](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/22) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [29 para. 49](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/49)
 
-[^key-d236f55dc908b8690c0b6f5ad6fab255]: Textual amendment: Sch. 13 para. 30 repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/b)
+[^c-d236f55dc908b8690c0b6f5ad6fab255]: Textual amendment: Sch. 13 para. 30 repealed (with effect in accordance with Sch. 5 para. 26(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/2/b)

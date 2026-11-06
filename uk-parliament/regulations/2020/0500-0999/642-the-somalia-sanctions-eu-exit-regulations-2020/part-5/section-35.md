@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Enabling or facilitating the conduct of armed hostilities: designated persons[^key-7f85d75bf6be8a7ba6ade05ab24abee2]
+## 35. Enabling or facilitating the conduct of armed hostilities: designated persons[^c-7f85d75bf6be8a7ba6ade05ab24abee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ where such provision enables or facilitates the conduct of armed hostilities in 
 
 ## Annotations
 
-[^key-7f85d75bf6be8a7ba6ade05ab24abee2]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-7f85d75bf6be8a7ba6ade05ab24abee2]: Commencement: Reg. 35 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

@@ -31,7 +31,7 @@ of 16 September 2020
 
 on the temporary exclusion of certain exposures to central banks from the total exposure measure in view of the COVID-19 pandemic (ECB/2020/44)
 
-[^key-7ef7903d79e4bd2cf48338c75eda5511]
+[^c-7ef7903d79e4bd2cf48338c75eda5511]
 
 THE GOVERNING COUNCIL OF THE EUROPEAN CENTRAL BANK,
 
@@ -107,7 +107,7 @@ Christine Lagarde
 
 ## Annotations
 
-[^key-7ef7903d79e4bd2cf48338c75eda5511]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-7ef7903d79e4bd2cf48338c75eda5511]: Modification: Decision: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 287, 29.10.2013, p. 63](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.287.01.0063.01.ENG).
 

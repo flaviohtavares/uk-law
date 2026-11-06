@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Transactions or arrangements to change bill payers[^key-b0d92b2b7c5f5f0004100b4b781d44ee]
+## 49. Transactions or arrangements to change bill payers[^c-b0d92b2b7c5f5f0004100b4b781d44ee]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Regulation 50 applies in relation to a green deal property where—
 
 ## Annotations
 
-[^key-b0d92b2b7c5f5f0004100b4b781d44ee]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2012/2079/regulation/49) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-b0d92b2b7c5f5f0004100b4b781d44ee]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2012/2079/regulation/49) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

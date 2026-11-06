@@ -31,7 +31,7 @@ Medicines Act 1968
 
 [^c998104][^c998103][^c998102][^c998105][^c998106][^c1828427][^c998107][^c1828729]An Act to make new provision with respect to medicinal products and related matters, and for purposes connected therewith.
 
-\[25th October 1968\][^key-09c5e47300b98f1a2d0a86419dfc5a56][^key-6fcea46e6409beeff591fb1f8e63bca6][^key-28001931993d3bddabb1ecc0732a7d7f]
+\[25th October 1968\][^c-09c5e47300b98f1a2d0a86419dfc5a56][^c-6fcea46e6409beeff591fb1f8e63bca6][^c-28001931993d3bddabb1ecc0732a7d7f]
 
 ## Contents
 
@@ -128,7 +128,7 @@ Medicines Act 1968
 - [Section 49B — Special provisions in respect of exporting certain products to EEA State s](part-ii/section-49b.md)
 - [Section 50 — Certificates for exporters of medicinal products.](part-ii/section-50.md)
 
-### Part III — Further Provisions relating to Dealings with Medicinal Products[^c998511][^key-780eaf21e7e22ce5e5011e6619bcfa4c]
+### Part III — Further Provisions relating to Dealings with Medicinal Products[^c998511][^c-780eaf21e7e22ce5e5011e6619bcfa4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -178,7 +178,7 @@ Medicines Act 1968
 - [Section 67F — Sections 67A to 67D: “relevant pharmacy service”](part-iii/section-67f.md)
 - [Section 68 — Disqualification on conviction of certain offences.](part-iii/section-68.md)
 
-### Part IV — Pharmacies[^c998610][^key-3b481ad1a4f0654068728e5850b2d07f][^key-f37f25702244840d2fa7f18fe6761e67][^M_C_dc0214d2-5745-4de4-d965-769b9d1f3220]
+### Part IV — Pharmacies[^c998610][^c-3b481ad1a4f0654068728e5850b2d07f][^c-f37f25702244840d2fa7f18fe6761e67][^M_C_dc0214d2-5745-4de4-d965-769b9d1f3220]
 
 *Extent: E+W+S+N.I.*
 
@@ -345,23 +345,23 @@ SCHEDULES
 
     Act: functions transferred (27.3.2002) by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), [art. 3(1)(c)(2)(7)](https://www.legislation.gov.uk/uksi/2002/794/article/3/1/c/2/7) (with [art. 6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
-[^key-09c5e47300b98f1a2d0a86419dfc5a56]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/67) excluded (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 44(1)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/44/1)
+[^c-09c5e47300b98f1a2d0a86419dfc5a56]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/67) excluded (30.10.2005) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [reg. 44(1)](https://www.legislation.gov.uk/uksi/2005/2745/regulation/44/1)
 
-[^key-6fcea46e6409beeff591fb1f8e63bca6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/67) amendment to earlier affecting provision SI 1994/3144 reg. 10 Sch. 4 para. 10(b) (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 11(b)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/11/b) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-6fcea46e6409beeff591fb1f8e63bca6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/67) amendment to earlier affecting provision SI 1994/3144 reg. 10 Sch. 4 para. 10(b) (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 11(b)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/11/b) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
-[^key-28001931993d3bddabb1ecc0732a7d7f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/67) amendment to earlier affecting provision SI 1994/3144 reg. 10 Sch. 4 para. 9(b) (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 11(a)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/11/a) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-28001931993d3bddabb1ecc0732a7d7f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1968/67) amendment to earlier affecting provision SI 1994/3144 reg. 10 Sch. 4 para. 9(b) (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 11(a)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/11/a) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 
 [^c998108]: Modification: Pt. I (ss. 1-5) modified (3.4.1992) by [S.I. 1992/605](https://www.legislation.gov.uk/uksi/1992/605), [regs. 2(3)](https://www.legislation.gov.uk/uksi/1992/605/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/1992/605/regulation/3)
 
 [^c998511]: Modification: Part III (ss.51-68) modified (1.1.1995) by [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144), [reg. 9(9)](https://www.legislation.gov.uk/uksi/1994/3144/regulation/9/9)
 
-[^key-780eaf21e7e22ce5e5011e6619bcfa4c]: Modification: Pt. III amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
+[^c-780eaf21e7e22ce5e5011e6619bcfa4c]: Modification: Pt. III amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
 
 [^c998610]: Modification: Pt. IV: Power to amend conferred (N.I.) (2.4.2001) by [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3), [s. 60](https://www.legislation.gov.uk/nia/2001/3/section/60), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/nia/2001/3/schedule/4/paragraph/2/2); [S.R. 2001/128](https://www.legislation.gov.uk/nisr/2001/128), [art. 2(4)](https://www.legislation.gov.uk/nisr/2001/128/article/2/4), [Sch.](https://www.legislation.gov.uk/nisr/2001/128/schedule)
 
-[^key-3b481ad1a4f0654068728e5850b2d07f]: Modification: Pt. IV amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
+[^c-3b481ad1a4f0654068728e5850b2d07f]: Modification: Pt. IV amendment to earlier affecting provision SI 1994/3144 reg. 9 (30.10.2005) by [Medicines (Marketing Authorisations Etc.) Amendment Regulations 2005 (S.I. 2005/2759)](https://www.legislation.gov.uk/uksi/2005/2759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/1/a), [2(12)](https://www.legislation.gov.uk/uksi/2005/2759/regulation/2/12)
 
-[^key-f37f25702244840d2fa7f18fe6761e67]: Modification: Pt. IV modified (E.W.S.) (coming into force in accordance with art. 1(2)(3)) by [Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/289/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2007/289/article/1/3), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2007/289/schedule/2/paragraph/13/7)
+[^c-f37f25702244840d2fa7f18fe6761e67]: Modification: Pt. IV modified (E.W.S.) (coming into force in accordance with art. 1(2)(3)) by [Pharmacists and Pharmacy Technicians Order 2007 (S.I. 2007/289)](https://www.legislation.gov.uk/uksi/2007/289), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/289/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2007/289/article/1/3), [Sch. 2 para. 13(7)](https://www.legislation.gov.uk/uksi/2007/289/schedule/2/paragraph/13/7)
 
 [^M_C_dc0214d2-5745-4de4-d965-769b9d1f3220]: Modification: Pt. IV (except ss. 80-83): Power to amend conferred (15.3.2000) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 60(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/60/1/2/4), [67(1)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/1999/8/schedule/3/paragraph/2/3/b); [S.I. 2000/779](https://www.legislation.gov.uk/uksi/2000/779), [art. 2](https://www.legislation.gov.uk/uksi/2000/779/article/2T)
 

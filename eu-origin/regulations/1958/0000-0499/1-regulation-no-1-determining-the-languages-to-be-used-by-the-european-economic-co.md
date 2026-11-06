@@ -44,28 +44,28 @@ Whereas each of the four languages in which the Treaty is drafted is recognised 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.**[^key-9a320ea2b08b8f810e6febebeda3de11] Any reference in assimilated[^key-45f9c55f8ddc70deac07ef61acbb52d2] law to any official language of the European Union or one of the institutions of the European Union (or similar expressions) is to be read as a reference to the English language, unless the contrary intention appears.
+**Article 1.**[^c-9a320ea2b08b8f810e6febebeda3de11] Any reference in assimilated[^c-45f9c55f8ddc70deac07ef61acbb52d2] law to any official language of the European Union or one of the institutions of the European Union (or similar expressions) is to be read as a reference to the English language, unless the contrary intention appears.
 
-**Article 2.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-b11e026e9869b60db1c77f3826da30b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b11e026e9869b60db1c77f3826da30b6]...
+[^c-b11e026e9869b60db1c77f3826da30b6]...
 
 ## Annotations
 
-[^key-9a320ea2b08b8f810e6febebeda3de11]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/1958/1/article/1) substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/1391/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a320ea2b08b8f810e6febebeda3de11]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/1958/1/article/1) substituted (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/1391/regulation/9/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45f9c55f8ddc70deac07ef61acbb52d2]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/1958/1/article/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/15)
+[^c-45f9c55f8ddc70deac07ef61acbb52d2]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/1958/1/article/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2025/82/schedule/6/paragraph/15)
 
-[^key-b11e026e9869b60db1c77f3826da30b6]: Textual amendment: [Arts. 2-8](https://www.legislation.gov.uk/eur/1958/1/article/2) omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/1391/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b11e026e9869b60db1c77f3826da30b6]: Textual amendment: [Arts. 2-8](https://www.legislation.gov.uk/eur/1958/1/article/2) omitted (31.12.2020) by virtue of [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/1391/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

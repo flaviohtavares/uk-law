@@ -28,8 +28,8 @@ summary: ''
 - (d) a right which—
   - (i) is not within paragraph (c),
   - (ii) is acquired in a transaction in which no certificate of deposit or security or uncertificated eligible debt security units are issued, and
-  - (iii) is a right to receive a principal amount payable with interest by a bank or similar institution or a person regularly engaging in similar transactions, [^key-b4938fd06acf551f901af29f749bb527]...
-- (e)[^key-b4938fd06acf551f901af29f749bb527] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) is a right to receive a principal amount payable with interest by a bank or similar institution or a person regularly engaging in similar transactions, [^c-b4938fd06acf551f901af29f749bb527]...
+- (e)[^c-b4938fd06acf551f901af29f749bb527] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this section—
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4938fd06acf551f901af29f749bb527]: Textual amendment: S. 552(1)(e) and word omitted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 9(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/9/2/a/ii)
+[^c-b4938fd06acf551f901af29f749bb527]: Textual amendment: S. 552(1)(e) and word omitted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 9(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/9/2/a/ii)

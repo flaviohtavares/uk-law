@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Enforcement powers in connection with wildlife[^key-1f3ce5c60fb38d5aa2ecfb754a1e71e0]
+## 52. Enforcement powers in connection with wildlife[^c-1f3ce5c60fb38d5aa2ecfb754a1e71e0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5 contains amendments relating to enforcement powers in connection with
 
 ## Annotations
 
-[^key-1f3ce5c60fb38d5aa2ecfb754a1e71e0]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/16/section/52) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-1f3ce5c60fb38d5aa2ecfb754a1e71e0]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/16/section/52) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

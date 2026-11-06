@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Coasting Schools (England) Regulations 2017 (revoked)[^key-3b8e195de367eddf912d4b348c814f3e]
+The Coasting Schools (England) Regulations 2017 (revoked)[^c-3b8e195de367eddf912d4b348c814f3e]
 
 Made
 
@@ -40,40 +40,40 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-3b8e195de367eddf912d4b348c814f3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b8e195de367eddf912d4b348c814f3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3b8e195de367eddf912d4b348c814f3e]
+## 1. Citation and commencement[^c-3b8e195de367eddf912d4b348c814f3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3b8e195de367eddf912d4b348c814f3e]
+## 2. Interpretation[^c-3b8e195de367eddf912d4b348c814f3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Disapplication of coasting schools regime for certain descriptions of school and Academy[^key-3b8e195de367eddf912d4b348c814f3e]
+## 3. Disapplication of coasting schools regime for certain descriptions of school and Academy[^c-3b8e195de367eddf912d4b348c814f3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Coasting primary schools[^key-3b8e195de367eddf912d4b348c814f3e]
+## 4. Coasting primary schools[^c-3b8e195de367eddf912d4b348c814f3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Coasting secondary schools[^key-3b8e195de367eddf912d4b348c814f3e]
+## 5. Coasting secondary schools[^c-3b8e195de367eddf912d4b348c814f3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Coasting all-through schools[^key-3b8e195de367eddf912d4b348c814f3e]
+## 6. Coasting all-through schools[^c-3b8e195de367eddf912d4b348c814f3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b8e195de367eddf912d4b348c814f3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b8e195de367eddf912d4b348c814f3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3b8e195de367eddf912d4b348c814f3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b8e195de367eddf912d4b348c814f3e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b8e195de367eddf912d4b348c814f3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/9) revoked (1.9.2022) by [The Coasting Schools (England) Regulations 2022 (S.I. 2022/720)](https://www.legislation.gov.uk/uksi/2022/720), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2022/720/regulation/7)
+[^c-3b8e195de367eddf912d4b348c814f3e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/9) revoked (1.9.2022) by [The Coasting Schools (England) Regulations 2022 (S.I. 2022/720)](https://www.legislation.gov.uk/uksi/2022/720), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/720/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2022/720/regulation/7)

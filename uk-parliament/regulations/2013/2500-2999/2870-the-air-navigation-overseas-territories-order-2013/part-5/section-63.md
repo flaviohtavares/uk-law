@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Fatigue of crew - responsibilities of crew[^key-62bf1f7a2f0e00f51018e2128ea453d5]
+## 63. Fatigue of crew - responsibilities of crew[^c-62bf1f7a2f0e00f51018e2128ea453d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62bf1f7a2f0e00f51018e2128ea453d5]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2013/2870/article/63) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-62bf1f7a2f0e00f51018e2128ea453d5]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2013/2870/article/63) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

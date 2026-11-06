@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Limits on charging in exercise of general power[^key-91e0ce332f080077791797a979d4ef9d]
+## 3. Limits on charging in exercise of general power[^c-91e0ce332f080077791797a979d4ef9d]
 
 *Extent: E+W*
 
 (1) Subsection (2) applies where—
 
-- (a) a local authority , combined authority, CCA[^key-65d78b0ea91fefa6dfd33336b50daf39] , or English National Park authority, or the Broads Authority,[^key-40842fa4e93d98f9ed222181be45b237] provides a service to a person otherwise than for a commercial purpose, and
+- (a) a local authority , combined authority, CCA[^c-65d78b0ea91fefa6dfd33336b50daf39] , or English National Park authority, or the Broads Authority,[^c-40842fa4e93d98f9ed222181be45b237] provides a service to a person otherwise than for a commercial purpose, and
 - (b) its providing the service to the person is done, or could be done, in exercise of the general power.
 
 (2) The general power confers power to charge the person for providing the service to the person only if—
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-91e0ce332f080077791797a979d4ef9d]: Commencement: S. 3 in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)
+[^c-91e0ce332f080077791797a979d4ef9d]: Commencement: S. 3 in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)
 
-[^key-65d78b0ea91fefa6dfd33336b50daf39]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/3/1/a) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/6/paragraph/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-65d78b0ea91fefa6dfd33336b50daf39]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/3/1/a) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/6/paragraph/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-40842fa4e93d98f9ed222181be45b237]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/3/1/a) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/4)
+[^c-40842fa4e93d98f9ed222181be45b237]: Textual amendment: Words in [s. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/3/1/a) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/4)

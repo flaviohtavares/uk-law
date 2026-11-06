@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Notification and advertisement of administrator’s appointment[^key-166964cb004722d6ad2fbd687293f2c3]
+## 51. Notification and advertisement of administrator’s appointment[^c-166964cb004722d6ad2fbd687293f2c3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-166964cb004722d6ad2fbd687293f2c3]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2011/1301/rule/51) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-166964cb004722d6ad2fbd687293f2c3]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2011/1301/rule/51) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

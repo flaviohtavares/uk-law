@@ -39,101 +39,101 @@ establishing a specific control and inspection programme related to the recovery
 
 (2011/207/EU) (revoked)
 
-[^key-411611cda6c537228184a1f4c507f339]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-411611cda6c537228184a1f4c507f339]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-411611cda6c537228184a1f4c507f339]
+## CHAPTER I — GENERAL PROVISIONS[^c-411611cda6c537228184a1f4c507f339]
 
-**Article 1.**[^key-411611cda6c537228184a1f4c507f339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-411611cda6c537228184a1f4c507f339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. Temporal and territorial scope[^key-411611cda6c537228184a1f4c507f339]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 3. Material scope[^key-411611cda6c537228184a1f4c507f339]
+### Article 2. Temporal and territorial scope[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — OBJECTIVES, PRIORITIES, BENCHMARKS AND PROCEDURES[^key-411611cda6c537228184a1f4c507f339]
-
-### Article 4. Objectives[^key-411611cda6c537228184a1f4c507f339]
+### Article 3. Material scope[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Priorities[^key-411611cda6c537228184a1f4c507f339]
+## CHAPTER II — OBJECTIVES, PRIORITIES, BENCHMARKS AND PROCEDURES[^c-411611cda6c537228184a1f4c507f339]
+
+### Article 4. Objectives[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Benchmarks[^key-411611cda6c537228184a1f4c507f339]
+### Article 5. Priorities[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Procedures[^key-411611cda6c537228184a1f4c507f339]
+### Article 6. Benchmarks[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Joint procedures[^key-411611cda6c537228184a1f4c507f339]
+### Article 7. Procedures[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Notification of surveillance and inspection activities[^key-411611cda6c537228184a1f4c507f339]
+### Article 8. Joint procedures[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Information of infringements[^key-411611cda6c537228184a1f4c507f339]
+### Article 9. Notification of surveillance and inspection activities[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Immediate enforcement measures in case of serious infringements[^key-411611cda6c537228184a1f4c507f339]
+### Article 10. Information of infringements[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — IMPLEMENTATION[^key-411611cda6c537228184a1f4c507f339]
-
-### Article 12. National control action programmes[^key-411611cda6c537228184a1f4c507f339]
+### Article 11. Immediate enforcement measures in case of serious infringements[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Cooperation between Member States[^key-411611cda6c537228184a1f4c507f339]
+## CHAPTER III — IMPLEMENTATION[^c-411611cda6c537228184a1f4c507f339]
+
+### Article 12. National control action programmes[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Joint inspection and surveillance activities[^key-411611cda6c537228184a1f4c507f339]
+### Article 13. Cooperation between Member States[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Report on the implementation of national control action programmes[^key-411611cda6c537228184a1f4c507f339]
+### Article 14. Joint inspection and surveillance activities[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Additional information[^key-411611cda6c537228184a1f4c507f339]
+### Article 15. Report on the implementation of national control action programmes[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Union inspection plan and report[^key-411611cda6c537228184a1f4c507f339]
+### Article 16. Additional information[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — FINAL PROVISIONS[^key-411611cda6c537228184a1f4c507f339]
+### Article 17. Union inspection plan and report[^c-411611cda6c537228184a1f4c507f339]
 
-### Article 18. Addressees[^key-411611cda6c537228184a1f4c507f339]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER IV — FINAL PROVISIONS[^c-411611cda6c537228184a1f4c507f339]
+
+### Article 18. Addressees[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — BENCHMARKS[^key-411611cda6c537228184a1f4c507f339]
+## ANNEX I — BENCHMARKS[^c-411611cda6c537228184a1f4c507f339]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — PROCEDURES TO BE FOLLOWED BY OFFICIALS[^key-411611cda6c537228184a1f4c507f339]
+## ANNEX II — PROCEDURES TO BE FOLLOWED BY OFFICIALS[^c-411611cda6c537228184a1f4c507f339]
 
-[^key-411611cda6c537228184a1f4c507f339]1.
+[^c-411611cda6c537228184a1f4c507f339]1.
 
 **Inspection tasks**
 
-[^key-411611cda6c537228184a1f4c507f339]1.1.
+[^c-411611cda6c537228184a1f4c507f339]1.1.
 
 *General inspection tasks*
 
@@ -149,7 +149,7 @@ The information referred to all relevant findings from the inspection done at se
 
 Those findings shall be compared with the information made available to the officials by other competent authorities, including Vessel Monitoring System (VMS) information, lists of authorised vessels, observer’s reports, video records and all documents related to fishing activities.
 
-[^key-411611cda6c537228184a1f4c507f339]1.2.
+[^c-411611cda6c537228184a1f4c507f339]1.2.
 
 *Inspection tasks for aerial surveillance*
 
@@ -159,11 +159,11 @@ Officials shall sight and report on Illegal Unidentified and Unreported (IUU) fi
 
 Particular attention shall be devoted to closure areas, fishing season’s periods as defined in point 21 to 26 of ICCAT Recommendation 12-03, and to the activities of fleets for which derogations apply.
 
-[^key-411611cda6c537228184a1f4c507f339]1.3.
+[^c-411611cda6c537228184a1f4c507f339]1.3.
 
 *Inspection tasks at sea*
 
-[^key-411611cda6c537228184a1f4c507f339]1.3.1.
+[^c-411611cda6c537228184a1f4c507f339]1.3.1.
 
 General inspection tasks
 
@@ -185,7 +185,7 @@ Officials shall systematically verify during all inspections:
 
 Officials shall sight and report on IUU fishing activities, and on the use of spotting aircrafts or helicopters.
 
-[^key-411611cda6c537228184a1f4c507f339]1.3.2.
+[^c-411611cda6c537228184a1f4c507f339]1.3.2.
 
 Inspection tasks at transfer operations
 
@@ -197,7 +197,7 @@ Officials shall systematically verify:
 - ((4)) if the transfer declaration has been signed by the ICCAT regional observer on board and transmitted to the master of the towing vessel;
 - ((5)) Compliance with the video recording requirements as defined in Annex 9 to ICCAT Recommendation 12-03.
 
-[^key-411611cda6c537228184a1f4c507f339]1.3.3.
+[^c-411611cda6c537228184a1f4c507f339]1.3.3.
 
 Inspection tasks at joint fishing operations
 
@@ -207,7 +207,7 @@ Officials shall systematically verify:
 - ((2)) that a joint fishing operation authorisation has been delivered to the fishing vessels by their flag States authorities using the model set out in Annex V to Regulation (EC) No 302/2009;
 - ((3)) the presence of an ICCAT regional observer during the joint fishing operation.
 
-[^key-411611cda6c537228184a1f4c507f339]1.4.
+[^c-411611cda6c537228184a1f4c507f339]1.4.
 
 *Inspection tasks at landing*
 
@@ -227,7 +227,7 @@ Officials shall systematically verify for those landings inspected in accordance
 - ((12)) that the bluefin tuna offered for retail sale to the final consumer, from fishing vessels and/or traps in the eastern Atlantic and the Mediterranean, is correctly marked or labelled;
 - ((13)) that the bluefin tuna landed by the bait boats, long liners, hand liners or trolling boats in the eastern Atlantic and the Mediterranean is correctly tail tagged where applicable.
 
-[^key-411611cda6c537228184a1f4c507f339]1.5.
+[^c-411611cda6c537228184a1f4c507f339]1.5.
 
 *Inspection tasks during transhipment*
 
@@ -241,7 +241,7 @@ Officials shall systematically verify:
 - ((6)) that the relevant documentation is on board is present and duly completed, including the transhipment declaration, the relevant and ICCAT bluefin tuna catch document and re-export certificate;
 - ((7)) in the case of processed products, the use of the ICCAT conversion factors to calculate the equivalent round weight of the processed bluefin tuna.
 
-[^key-411611cda6c537228184a1f4c507f339]1.6.
+[^c-411611cda6c537228184a1f4c507f339]1.6.
 
 *Inspection tasks on farm installations*
 
@@ -254,7 +254,7 @@ Officials shall systematically verify:
 - ((5)) that all caging activities have been subject to a programme using stereoscopical cameras or techniques that provide the equivalent precision in order to refine the number and weight of fish being caged;
 - ((6)) that the farming State will not accept caging of bluefin tuna where the quantity by number and/or weight above that authorised to be caged by the flag State.
 
-[^key-411611cda6c537228184a1f4c507f339]1.7.
+[^c-411611cda6c537228184a1f4c507f339]1.7.
 
 *Inspection tasks concerning transports and marketing*
 
@@ -263,18 +263,18 @@ Officials shall systematically verify:
 - ((1)) as regards transport, in particular the relevant accompanying documents and check them against the physical quantities transported;
 - ((2)) as regards marketing, that the relevant documentation is present and duly completed, including the relevant bluefin tuna catch document and re-export certificate.
 
-[^key-411611cda6c537228184a1f4c507f339]2.
+[^c-411611cda6c537228184a1f4c507f339]2.
 
 **Inspection reports**
 
-[^key-411611cda6c537228184a1f4c507f339](1)
+[^c-411611cda6c537228184a1f4c507f339](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-411611cda6c537228184a1f4c507f339](2)
+[^c-411611cda6c537228184a1f4c507f339](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-411611cda6c537228184a1f4c507f339]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-411611cda6c537228184a1f4c507f339]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

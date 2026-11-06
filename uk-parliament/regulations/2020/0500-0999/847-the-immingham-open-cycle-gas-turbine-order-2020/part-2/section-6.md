@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Benefit of this Order[^key-09535dc0fb6c85f4a6ef9b96d2463222]
+## 6. Benefit of this Order[^c-09535dc0fb6c85f4a6ef9b96d2463222]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to article 7 (consent to transfer benefit of this Order), the provisions
 
 ## Annotations
 
-[^key-09535dc0fb6c85f4a6ef9b96d2463222]: Commencement: Art. 6 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-09535dc0fb6c85f4a6ef9b96d2463222]: Commencement: Art. 6 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

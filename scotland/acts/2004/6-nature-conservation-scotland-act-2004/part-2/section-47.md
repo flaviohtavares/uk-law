@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Offences by bodies corporate etc.[^key-eccb29ea8d4ec26a936964d6d9ecde19]
+## 47. Offences by bodies corporate etc.[^c-eccb29ea8d4ec26a936964d6d9ecde19]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the individual (as well as the body corporate, Scottish partnership or, as the c
 
 ## Annotations
 
-[^key-eccb29ea8d4ec26a936964d6d9ecde19]: Commencement: S. 47 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-eccb29ea8d4ec26a936964d6d9ecde19]: Commencement: S. 47 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

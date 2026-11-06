@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Revocations[^key-06c1ab9bdaf0664e61ab7e4be6e081d7][^key-d9b05a49f9b5cdb7646e9601c23747e4]
+## 19. Revocations[^c-06c1ab9bdaf0664e61ab7e4be6e081d7][^c-d9b05a49f9b5cdb7646e9601c23747e4]
 
 *Extent: E+W+S*
 
 The following are revoked—
 
-- (a)[^key-06c1ab9bdaf0664e61ab7e4be6e081d7] [Regulation (EU) 932/2012](https://www.legislation.gov.uk/european/regulation/2012/0932);
+- (a)[^c-06c1ab9bdaf0664e61ab7e4be6e081d7] [Regulation (EU) 932/2012](https://www.legislation.gov.uk/european/regulation/2012/0932);
 - (b) [Commission Delegated Regulation (EU) No 392/2012](https://www.legislation.gov.uk/eur/2012/392/contents) of 1 March 2012 supplementing [Directive 2010/30/EU of the European Parliament and of the Council](https://www.legislation.gov.uk/eudr/2010/30/contents) with regard to energy labelling of household tumble driers.
 
 ## Annotations
 
-[^key-06c1ab9bdaf0664e61ab7e4be6e081d7]: Commencement: Reg. 19(a) in force at 10.4.2026, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/e)
+[^c-06c1ab9bdaf0664e61ab7e4be6e081d7]: Commencement: Reg. 19(a) in force at 10.4.2026, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/e)
 
-[^key-d9b05a49f9b5cdb7646e9601c23747e4]: Commencement: Reg. 19(b) in force at 19.1.2027, see [reg. 2(3)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/3/e)
+[^c-d9b05a49f9b5cdb7646e9601c23747e4]: Commencement: Reg. 19(b) in force at 19.1.2027, see [reg. 2(3)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/3/e)

@@ -30,15 +30,15 @@ Erskine Bridge Tolls Act 2001 (repealed)
 
 2001 asp 12
 
-[^key-dec75f610e7e8dcf3551b86a024192e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dec75f610e7e8dcf3551b86a024192e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Power to levy tolls[^key-dec75f610e7e8dcf3551b86a024192e2][^key-dec75f610e7e8dcf3551b86a024192e2]
+## 1. Power to levy tolls[^c-dec75f610e7e8dcf3551b86a024192e2][^c-dec75f610e7e8dcf3551b86a024192e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title[^key-dec75f610e7e8dcf3551b86a024192e2][^key-dec75f610e7e8dcf3551b86a024192e2]
+## 2. Short title[^c-dec75f610e7e8dcf3551b86a024192e2][^c-dec75f610e7e8dcf3551b86a024192e2]
 
 **No longer in force.**
 
@@ -46,4 +46,4 @@ Erskine Bridge Tolls Act 2001 (repealed)
 
 ## Annotations
 
-[^key-dec75f610e7e8dcf3551b86a024192e2]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2001/12) repealed (11.2.2008) by [Abolition of Bridge Tolls (Scotland) Act 2008 (asp 1)](https://www.legislation.gov.uk/asp/2008/1), [s. 4(2)](https://www.legislation.gov.uk/asp/2008/1/section/4/2), [Sch. 2](https://www.legislation.gov.uk/asp/2008/1/schedule/2); [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)
+[^c-dec75f610e7e8dcf3551b86a024192e2]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2001/12) repealed (11.2.2008) by [Abolition of Bridge Tolls (Scotland) Act 2008 (asp 1)](https://www.legislation.gov.uk/asp/2008/1), [s. 4(2)](https://www.legislation.gov.uk/asp/2008/1/section/4/2), [Sch. 2](https://www.legislation.gov.uk/asp/2008/1/schedule/2); [S.S.I. 2008/22](https://www.legislation.gov.uk/ssi/2008/22), [art. 2](https://www.legislation.gov.uk/ssi/2008/22/article/2)

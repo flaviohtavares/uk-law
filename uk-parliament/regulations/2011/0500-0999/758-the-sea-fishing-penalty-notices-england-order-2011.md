@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland, in exercise of the powers conferred by section 30(2) and (2ZA) of the Fisheries Act 1981[^f00001] now vested in them[^f00002] and the Secretary of State in exercise of powers conferred by sections 294 and 316(1)(b) of the Marine and Coastal Access Act 2009[^f00003], make the following Order.
 
-## 1. Title, commencement and application[^key-9babeb0b3cc4af37cfd7ee09ab8ddcde]
+## 1. Title, commencement and application[^c-9babeb0b3cc4af37cfd7ee09ab8ddcde]
 
 (1) This Order may be cited as the Sea Fishing (Penalty Notices) (England) Order 2011 and comes into force on 6th April 2011.
 
@@ -60,7 +60,7 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
   - (iii) Wales or the Welsh zone; or
   - (iv) the territorial sea adjacent to the Isle of Man, Jersey or Guernsey.
 
-## 2. Interpretation[^key-6e9c485b34e5f1ad246806bbca2a5db7]
+## 2. Interpretation[^c-6e9c485b34e5f1ad246806bbca2a5db7]
 
 (1) In this Order—
 
@@ -73,7 +73,7 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
 
 (2) The expressions “Northern Ireland zone”, “Scottish zone” and “Welsh zone” have the meaning they bear in section 322(1) of the Marine and Coastal Access Act 2009.
 
-## 3. Issue of penalty notice[^key-5dc33baa7a78df01d82c85531ef53d8e]
+## 3. Issue of penalty notice[^c-5dc33baa7a78df01d82c85531ef53d8e]
 
 (1) Where an authorised officer has reason to believe that a person has committed a penalty offence, the authorised officer may issue that person with a penalty notice for an amount not exceeding £10,000.
 
@@ -81,7 +81,7 @@ The Secretary of State for Environment, Food and Rural Affairs and the Secretary
 
 (3) A penalty notice is issued at the time when it is sent by post or delivered by hand to the person to whom it relates.
 
-## 4. Content of penalty notice[^key-1ad7e3e2ca2968517b14352436909de5]
+## 4. Content of penalty notice[^c-1ad7e3e2ca2968517b14352436909de5]
 
 A penalty notice issued under article 3 must—
 
@@ -91,7 +91,7 @@ A penalty notice issued under article 3 must—
 - (d) state the person to whom, and the address at which, the penalty may be paid; and
 - (e) state that payment must not be in cash.
 
-## 5. Restriction on proceedings for penalty offence[^key-a96a69c4999bf67643e41f24282912f8]
+## 5. Restriction on proceedings for penalty offence[^c-a96a69c4999bf67643e41f24282912f8]
 
 (1) Where a person is issued with a penalty notice—
 
@@ -103,13 +103,13 @@ A penalty notice issued under article 3 must—
 - (a) is subject to article 10; and
 - (b) does not apply if the penalty notice is withdrawn in accordance with article 9.
 
-## 6. Payment of penalty[^key-822e20a753ebb3ccfd5c666631f8a69b]
+## 6. Payment of penalty[^c-822e20a753ebb3ccfd5c666631f8a69b]
 
 (1) Payment of a penalty must be made to the person specified in the penalty notice by sending it by post or by such method as may be specified in the notice.
 
 (2) It may not be made in cash.
 
-## 7. Payment of one penalty treated as payment of connected penalties[^key-22d08bcd1cea64e7211c522ffe4964ba]
+## 7. Payment of one penalty treated as payment of connected penalties[^c-22d08bcd1cea64e7211c522ffe4964ba]
 
 (1) Where a person (“A”) pays the penalty in accordance with article 6, an authorised officer must give a notice (a “notice of deemed payment”) to all other persons who have been issued with a connected penalty notice.
 
@@ -129,11 +129,11 @@ A penalty notice issued under article 3 must—
 
 (5) If no notice of objection is given in accordance with this article, the penalty notice issued to a person who has been given a notice of deemed payment is to be treated as having been paid.
 
-## 8. Certificate of payment or non-payment of penalty notice[^key-af8ce1ec55dbbddf74d0e9fa1e9b761f]
+## 8. Certificate of payment or non-payment of penalty notice[^c-af8ce1ec55dbbddf74d0e9fa1e9b761f]
 
 In any proceedings a certificate purporting to be signed by or on behalf of the Secretary of State stating that payment in respect of a penalty notice was or was not received on or before a date specified in the certificate is evidence of the facts stated.
 
-## 9. Withdrawal of penalty notices[^key-ee95415c5352ea70f36ae2d662af9619]
+## 9. Withdrawal of penalty notices[^c-ee95415c5352ea70f36ae2d662af9619]
 
 (1) A penalty notice may be withdrawn by an authorised officer who has reason to believe that it ought not to have been issued (whether to the person named in the penalty notice or otherwise).
 
@@ -141,7 +141,7 @@ In any proceedings a certificate purporting to be signed by or on behalf of the 
 
 (3) If a penalty notice is withdrawn any penalty paid must be repaid.
 
-## 10. Commencement of proceedings after payment of penalty in relation to fishing boats from outside the United Kingdom[^key-b2b0cdf7463e2f04c8ad12b25ebe01e4]
+## 10. Commencement of proceedings after payment of penalty in relation to fishing boats from outside the United Kingdom[^c-b2b0cdf7463e2f04c8ad12b25ebe01e4]
 
 (1) This article applies in relation to a penalty notice issued to the master, owner or charterer of a fishing boat other than an English, Northern Ireland, Scottish or Welsh fishing boat.
 
@@ -165,7 +165,7 @@ In any proceedings a certificate purporting to be signed by or on behalf of the 
 
 (8) If no fine is imposed on the person in respect of the penalty offence, any penalty paid must be repaid.
 
-## 11. Transitional provision[^key-466b763638fb36ad360f7845f8953fb8]
+## 11. Transitional provision[^c-466b763638fb36ad360f7845f8953fb8]
 
 (1) This article applies where—
 
@@ -174,7 +174,7 @@ In any proceedings a certificate purporting to be signed by or on behalf of the 
 
 (2) The penalty notice is deemed to have been issued under this Order.
 
-## 12. Revocation[^key-9aa4d969143a7c513e079b5b36e233d0]
+## 12. Revocation[^c-9aa4d969143a7c513e079b5b36e233d0]
 
 The Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008 is revoked, except in so far as it applies in Wales or to the Welsh zone.
 
@@ -194,9 +194,9 @@ Northern Ireland Office
 
 Article 2
 
-**1.**[^key-627988491ed5ab51e5abfda8612e5b46] An offence under section 26(3) of the Sea Fisheries Act 1868[^f00005] (registered fishing boats and foreign fishing boats within British waters to have official papers).
+**1.**[^c-627988491ed5ab51e5abfda8612e5b46] An offence under section 26(3) of the Sea Fisheries Act 1868[^f00005] (registered fishing boats and foreign fishing boats within British waters to have official papers).
 
-**2.**[^key-55d8d7692f3174757157c1c4a83428c6] In the Sea Fisheries (Shellfish) Act 1967[^f00006], an offence under—
+**2.**[^c-55d8d7692f3174757157c1c4a83428c6] In the Sea Fisheries (Shellfish) Act 1967[^f00006], an offence under—
 
 - (a) section 3 (effect of grant of right of regulating a fishery);
 - (b) section 7 (protection of fisheries);
@@ -204,41 +204,41 @@ Article 2
 - (d) section 16 (oysters not to be sold between certain dates);
 - (e) section 17 (taking and sale of certain crabs and lobsters prohibited).
 
-**3.**[^key-c2935c9c317661391ad85768826cf4a3] In the Sea Fish (Conservation) Act 1967[^f00007], an offence under—
+**3.**[^c-c2935c9c317661391ad85768826cf4a3] In the Sea Fish (Conservation) Act 1967[^f00007], an offence under—
 
 - (a) section 1 (size limits, etc for fish);
 - (b) section 2 (size limits for use in course of any business);
 - (c) section 3 (regulation of nets and other fishing gear);
-- (d)[^key-3c0d3dcf632fd56f03ef6cb1dd2b801a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3c0d3dcf632fd56f03ef6cb1dd2b801a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) section 4A (licensing of vessels receiving trans-shipped fish);
 - (f) section 5 (power to restrict fishing for sea fish);
 - (g) section 6 (prohibition on landing of sea fish caught in certain areas);
 - (h) section 8 (regulation of landing of foreign-caught sea fish).
 
-**4.**[^key-82e77fd33a1d1106747ee56e70fe5626] An offence under section 5 of the Sea Fisheries Act 1968[^f00008] (regulation of conduct of fishing operations).
+**4.**[^c-82e77fd33a1d1106747ee56e70fe5626] An offence under section 5 of the Sea Fisheries Act 1968[^f00008] (regulation of conduct of fishing operations).
 
-**5.**[^key-d897441dabb72228c89a01f9d78e0cd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d897441dabb72228c89a01f9d78e0cd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4beaff0c8e497cc0d4ff8490c6de1b78] An offence under section 30 of the Fisheries Act 1981(enforcement of Community rules).
+**6.**[^c-4beaff0c8e497cc0d4ff8490c6de1b78] An offence under section 30 of the Fisheries Act 1981(enforcement of Community rules).
 
-**7.**[^key-61e931438d768a5dc537629c760f36c7] An offence under section 1 of the British Fishing Boats Act 1983[^f00010] (restrictions on fishing etc by British boats).
+**7.**[^c-61e931438d768a5dc537629c760f36c7] An offence under section 1 of the British Fishing Boats Act 1983[^f00010] (restrictions on fishing etc by British boats).
 
-**8.**[^key-d554b7a59da1c2b2e2d25e822535bfb8] An offence under section 163 of the Marine and Coastal Access Act 2009 (offences).
+**8.**[^c-d554b7a59da1c2b2e2d25e822535bfb8] An offence under section 163 of the Marine and Coastal Access Act 2009 (offences).
 
-**9.**[^key-fa6ec63462342114a7ee148097c30873] An offence under regulation 6 of the Sea Fishing (Days in Port) Regulations 1992[^f00011].
+**9.**[^c-fa6ec63462342114a7ee148097c30873] An offence under regulation 6 of the Sea Fishing (Days in Port) Regulations 1992[^f00011].
 
-**10.**[^key-fdb7c7a7eb70cb826d55caa9a121c522] An offence under regulations 3 to 11 of the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005[^f00012].
+**10.**[^c-fdb7c7a7eb70cb826d55caa9a121c522] An offence under regulations 3 to 11 of the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites Regulations 2005[^f00012].
 
-**11.**[^key-d7ce131137648e19efcd82da66616c0d] An offence under article 9 of the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009[^f00013].
+**11.**[^c-d7ce131137648e19efcd82da66616c0d] An offence under article 9 of the Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009[^f00013].
 
-**11A.**[^key-8b9f4197a63fa386133f73edc6889928] In the Fisheries Act 2020, an offence under—
+**11A.**[^c-8b9f4197a63fa386133f73edc6889928] In the Fisheries Act 2020, an offence under—
 
 - (a) section 12(3) (access to British fisheries by foreign fishing boats);
 - (b) section 14(6) (British fishing boats required to be licensed);
 - (c) section 16(6) (foreign fishing boats required to be licensed if within British fishery limits);
 - (d) paragraph 1(4) of Schedule 3 (sea fishing licences: further provision).
 
-**12.**[^key-f15f5cec3b88db2b7774ab0bae901773] In this Schedule, reference to a section includes subordinate legislation made under that section.
+**12.**[^c-f15f5cec3b88db2b7774ab0bae901773] In this Schedule, reference to a section includes subordinate legislation made under that section.
 
 EXPLANATORY NOTE
 
@@ -260,72 +260,72 @@ An impact assessment has been prepared and placed in the library of each House o
 
 [^f00003]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-9babeb0b3cc4af37cfd7ee09ab8ddcde]: Commencement: Art. 1 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-9babeb0b3cc4af37cfd7ee09ab8ddcde]: Commencement: Art. 1 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-6e9c485b34e5f1ad246806bbca2a5db7]: Commencement: Art. 2 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-6e9c485b34e5f1ad246806bbca2a5db7]: Commencement: Art. 2 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-5dc33baa7a78df01d82c85531ef53d8e]: Commencement: Art. 3 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-5dc33baa7a78df01d82c85531ef53d8e]: Commencement: Art. 3 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-1ad7e3e2ca2968517b14352436909de5]: Commencement: Art. 4 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-1ad7e3e2ca2968517b14352436909de5]: Commencement: Art. 4 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-a96a69c4999bf67643e41f24282912f8]: Commencement: Art. 5 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-a96a69c4999bf67643e41f24282912f8]: Commencement: Art. 5 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-822e20a753ebb3ccfd5c666631f8a69b]: Commencement: Art. 6 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-822e20a753ebb3ccfd5c666631f8a69b]: Commencement: Art. 6 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-22d08bcd1cea64e7211c522ffe4964ba]: Commencement: Art. 7 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-22d08bcd1cea64e7211c522ffe4964ba]: Commencement: Art. 7 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-af8ce1ec55dbbddf74d0e9fa1e9b761f]: Commencement: Art. 8 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-af8ce1ec55dbbddf74d0e9fa1e9b761f]: Commencement: Art. 8 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-ee95415c5352ea70f36ae2d662af9619]: Commencement: Art. 9 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-ee95415c5352ea70f36ae2d662af9619]: Commencement: Art. 9 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-b2b0cdf7463e2f04c8ad12b25ebe01e4]: Commencement: Art. 10 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-b2b0cdf7463e2f04c8ad12b25ebe01e4]: Commencement: Art. 10 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-466b763638fb36ad360f7845f8953fb8]: Commencement: Art. 11 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-466b763638fb36ad360f7845f8953fb8]: Commencement: Art. 11 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2008/984](https://www.legislation.gov.uk/uksi/2008/984).
 
-[^key-9aa4d969143a7c513e079b5b36e233d0]: Commencement: Art. 12 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-9aa4d969143a7c513e079b5b36e233d0]: Commencement: Art. 12 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-627988491ed5ab51e5abfda8612e5b46]: Commencement: Sch. para. 1 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-627988491ed5ab51e5abfda8612e5b46]: Commencement: Sch. para. 1 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00005]: Footnote: [1868 c.45](https://www.legislation.gov.uk/ukpga/1868/45); section 26 was substituted by the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21), section 314(2) and Schedule 13, paragraph 2.
 
-[^key-55d8d7692f3174757157c1c4a83428c6]: Commencement: Sch. para. 2 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-55d8d7692f3174757157c1c4a83428c6]: Commencement: Sch. para. 2 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00006]: Footnote: [1967 c. 83](https://www.legislation.gov.uk/ukpga/1967/83); sections 3, 7 and 17 were amended by the Marine and Coastal Access Act 2009, sections 204, 210, 212 and 213.
 
-[^key-c2935c9c317661391ad85768826cf4a3]: Commencement: Sch. para. 3 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-c2935c9c317661391ad85768826cf4a3]: Commencement: Sch. para. 3 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00007]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 1 was substitute by section 19 of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) and further amended by section 314(2) of, and paragraph 38 of Schedule 13 to, the Merchant Shipping Act 1995, section 194 of, and paragraph 1 of Schedule 15 to, the Marine and Coastal Access Act 2009 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 3 was amended by section 195 of, and paragraph 7 of Schedule 14 and paragraph 2 of Schedule 15 to, the Marine and Coastal Access Act 2009 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 4 was amended by section 20 of the Fisheries Act 1981, section 1 of the Sea Fish (Conservation) Act [1992 (c.60)](https://www.legislation.gov.uk/ukpga/1992/60), sections 4, 196 and 197 of the Marine and Coastal Access Act 2009 and paragraph 1 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 4A was inserted by section 21 of the Fisheries Act 1981 and further amended by section 3 of the Sea Fish (Conservation) Act 1992 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 5 was substituted by section 22 of the Fisheries Act 1981 and further amended by section 198 of, and paragraph 3 of Schedule 15 to, the Marine and Coastal Access Act 2009 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 6 was amended by section 23 of the Fisheries Act 1981 and paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820). Section 8 was amended by paragraph 43 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-3c0d3dcf632fd56f03ef6cb1dd2b801a]: Textual amendment: [Sch. para. 3(d)](https://www.legislation.gov.uk/uksi/2011/758/schedule/paragraph/3/d) omitted (31.12.2020) by virtue of [The Sea Fishing (Penalty Notices and Designation) (England) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1635)](https://www.legislation.gov.uk/uksi/2020/1635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1635/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1635/article/2/2/a)
+[^c-3c0d3dcf632fd56f03ef6cb1dd2b801a]: Textual amendment: [Sch. para. 3(d)](https://www.legislation.gov.uk/uksi/2011/758/schedule/paragraph/3/d) omitted (31.12.2020) by virtue of [The Sea Fishing (Penalty Notices and Designation) (England) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1635)](https://www.legislation.gov.uk/uksi/2020/1635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1635/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1635/article/2/2/a)
 
-[^key-82e77fd33a1d1106747ee56e70fe5626]: Commencement: Sch. para. 4 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-82e77fd33a1d1106747ee56e70fe5626]: Commencement: Sch. para. 4 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00008]: Footnote: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77); section 5 was amended by section 4 of, and paragraph 3 of Schedule 1 and paragraph 17 of Schedule 15 to, the Fishery Limits Act 1976, section 17 of and Schedule 4 to the Criminal Justice Act [1999 (c.53)](https://www.legislation.gov.uk/ukpga/1999/53) and paragraph 48 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-d897441dabb72228c89a01f9d78e0cd0]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2011/758/schedule/paragraph/5) omitted (31.12.2020) by virtue of [The Sea Fishing (Penalty Notices and Designation) (England) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1635)](https://www.legislation.gov.uk/uksi/2020/1635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1635/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1635/article/2/2/b)
+[^c-d897441dabb72228c89a01f9d78e0cd0]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2011/758/schedule/paragraph/5) omitted (31.12.2020) by virtue of [The Sea Fishing (Penalty Notices and Designation) (England) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1635)](https://www.legislation.gov.uk/uksi/2020/1635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1635/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1635/article/2/2/b)
 
-[^key-4beaff0c8e497cc0d4ff8490c6de1b78]: Commencement: Sch. para. 6 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-4beaff0c8e497cc0d4ff8490c6de1b78]: Commencement: Sch. para. 6 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-61e931438d768a5dc537629c760f36c7]: Commencement: Sch. para. 7 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-61e931438d768a5dc537629c760f36c7]: Commencement: Sch. para. 7 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00010]: Footnote: [1983 c.8](https://www.legislation.gov.uk/ukpga/1983/8); section 1 was amended by paragraph 70 of Schedule 2 to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 
-[^key-d554b7a59da1c2b2e2d25e822535bfb8]: Commencement: Sch. para. 8 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-d554b7a59da1c2b2e2d25e822535bfb8]: Commencement: Sch. para. 8 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
-[^key-fa6ec63462342114a7ee148097c30873]: Commencement: Sch. para. 9 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-fa6ec63462342114a7ee148097c30873]: Commencement: Sch. para. 9 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00011]: Footnote: [S.I. 1992/130](https://www.legislation.gov.uk/uksi/1992/130), amended by [S.I. 1992/670](https://www.legislation.gov.uk/uksi/1992/670); there are other amending instruments but none is relevant.
 
-[^key-fdb7c7a7eb70cb826d55caa9a121c522]: Commencement: Sch. para. 10 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-fdb7c7a7eb70cb826d55caa9a121c522]: Commencement: Sch. para. 10 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00012]: Footnote: [S.I 2005/1605](https://www.legislation.gov.uk/uksi/2005/1605), to which there are amendments not relevant to this Order.
 
-[^key-d7ce131137648e19efcd82da66616c0d]: Commencement: Sch. para. 11 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-d7ce131137648e19efcd82da66616c0d]: Commencement: Sch. para. 11 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
 
 [^f00013]: Footnote: [S.I. 2009/3391](https://www.legislation.gov.uk/uksi/2009/3391).
 
-[^key-8b9f4197a63fa386133f73edc6889928]: Textual amendment: [Sch. para. 11A](https://www.legislation.gov.uk/uksi/2011/758/schedule/paragraph/11A) inserted (31.12.2020) by [The Sea Fishing (Penalty Notices and Designation) (England) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1635)](https://www.legislation.gov.uk/uksi/2020/1635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1635/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1635/article/2/2/c)
+[^c-8b9f4197a63fa386133f73edc6889928]: Textual amendment: [Sch. para. 11A](https://www.legislation.gov.uk/uksi/2011/758/schedule/paragraph/11A) inserted (31.12.2020) by [The Sea Fishing (Penalty Notices and Designation) (England) (Amendment) (EU Exit) Order 2020 (S.I. 2020/1635)](https://www.legislation.gov.uk/uksi/2020/1635), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1635/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1635/article/2/2/c)
 
-[^key-f15f5cec3b88db2b7774ab0bae901773]: Commencement: Sch. para. 12 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)
+[^c-f15f5cec3b88db2b7774ab0bae901773]: Commencement: Sch. para. 12 in force at 6.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/758/article/1/1)

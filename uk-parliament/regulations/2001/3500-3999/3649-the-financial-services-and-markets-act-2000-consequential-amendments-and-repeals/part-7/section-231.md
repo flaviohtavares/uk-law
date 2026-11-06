@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Definition of “relevant institution”[^key-9a49016f42701d514685fc03632ec1a3]
+## 231. Definition of “relevant institution”[^c-9a49016f42701d514685fc03632ec1a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For section 12(13)(a) of the Law Reform (Miscellaneous Provisions) (Scotland) Ac
 
 ## Annotations
 
-[^key-9a49016f42701d514685fc03632ec1a3]: Commencement: Art. 231 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-9a49016f42701d514685fc03632ec1a3]: Commencement: Art. 231 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

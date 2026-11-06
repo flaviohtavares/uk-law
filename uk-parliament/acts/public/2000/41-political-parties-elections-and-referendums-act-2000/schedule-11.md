@@ -26,11 +26,11 @@ Section 95.
 
 #### Operation and interpretation of Schedule
 
-**1.**[^c10576961] (1) This Schedule has effect for controlling donations to recognised third parties [^key-574e3616a9ca1d760df299ce93506a4e]....
+**1.**[^c10576961] (1) This Schedule has effect for controlling donations to recognised third parties [^c-574e3616a9ca1d760df299ce93506a4e]....
 
 (2) The following provisions have effect for the purposes of this Schedule.
 
-(3)[^key-0d0dbb3c1896be2b1c9682f70b5b37d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0d0dbb3c1896be2b1c9682f70b5b37d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) “**Relevant donation**”, in relation to a recognised third party, means a donation to the recognised third party for the purpose of meeting controlled expenditure incurred by or on behalf of that third party.
 
@@ -141,11 +141,11 @@ regard shall be had to the total value in monetary terms of the consideration pr
 - (a) the person by whom the donation would be made is not, at the time of its receipt by the recognised third party, a permissible donor falling within section 54(2); or
 - (b) the recognised third party is (whether because the donation is given anonymously or by reason of any deception or concealment or otherwise) unable to ascertain the identity of the person offering the donation.
 
-(1A)[^key-eaf57e2d444e7fc5b5e2febe08540e53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-eaf57e2d444e7fc5b5e2febe08540e53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purposes of this Schedule, any relevant donation received by a recognised third party which is an exempt trust donation shall be regarded as a relevant donation received by the recognised third party from a permissible donor.
 
-(2A)[^key-fd070fbe14ad1b9c506d744dee3fd10a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-fd070fbe14ad1b9c506d744dee3fd10a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) But, for the purposes of this Schedule, any relevant donation received by a recognised third party from a trustee of any property (in his capacity as such) which is not—
 
@@ -156,7 +156,7 @@ regard shall be had to the total value in monetary terms of the consideration pr
 
   shall be regarded as a relevant donation received by the recognised third party from a person who is not such a permissible donor.
 
-(3A)[^key-789b7665e4f12a0600808bfffae73d85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-789b7665e4f12a0600808bfffae73d85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where any person (“**the principal donor**”) causes an amount (“**the principal donation**”) to be received by a recognised third party by way of a relevant donation—
 
@@ -240,7 +240,7 @@ the agent must ensure that, at the time when the donation is received by the rec
 - (b) any reference to a registered party were a reference to a recognised third party; and
 - (c) any reference to the treasurer of a registered party were, in relation to a recognised third party, a reference to the responsible person.
 
-### Part III — Reporting of donations in section 96 return[^key-c5a2fc0b11e9c75646b1980d83ab8486]
+### Part III — Reporting of donations in section 96 return[^c-c5a2fc0b11e9c75646b1980d83ab8486]
 
 #### Statement of relevant donations
 
@@ -278,7 +278,7 @@ the agent must ensure that, at the time when the donation is received by the rec
 - (a) the total value of any relevant donations, other than those falling within sub-paragraph (2), which are accepted by the recognised third party; and
 - (b) such other information as may be required by regulations made by the Commission.
 
-(4)[^key-2495baa0016d28913686a3205b64d30b][^c20084261] In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the recognised third party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
+(4)[^c-2495baa0016d28913686a3205b64d30b][^c20084261] In the case of a donation made by an individual who has an anonymous entry in an electoral register (within the meaning of the Representation of the People Act 1983) if the statement states that the recognised third party has seen evidence of such description as is prescribed by the Secretary of State in regulations that the individual has such an anonymous entry, the statement must be accompanied by a copy of the evidence.
 
 #### Donations from impermissible donors
 
@@ -304,9 +304,9 @@ the agent must ensure that, at the time when the donation is received by the rec
 
 [^c10576961]: Commencement: Sch. 11 wholly in force at 16.2.2001; Sch. 11 partly in force at Royal Assent, see s. 163(3); Sch. 11 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-574e3616a9ca1d760df299ce93506a4e]: Textual amendment: Words in [Sch. 11 para. 1(1)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/1/1) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(11)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/11/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-574e3616a9ca1d760df299ce93506a4e]: Textual amendment: Words in [Sch. 11 para. 1(1)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/1/1) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(11)(a)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/11/a), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-0d0dbb3c1896be2b1c9682f70b5b37d1]: Textual amendment: [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/1/3) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(11)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/11/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-0d0dbb3c1896be2b1c9682f70b5b37d1]: Textual amendment: [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/1/3) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(11)(b)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/11/b), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
 [^c10576971]: Commencement: Sch. 11 wholly in force at 16.2.2001; Sch. 11 partly in force at Royal Assent, see s. 163(3); Sch. 11 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
@@ -320,11 +320,11 @@ the agent must ensure that, at the time when the donation is received by the rec
 
 [^c10577011]: Commencement: Sch. 11 wholly in force at 16.2.2001; Sch. 11 partly in force at Royal Assent, see s. 163(3); Sch. 11 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-eaf57e2d444e7fc5b5e2febe08540e53]: Textual amendment: [Sch. 11 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/6/1A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-eaf57e2d444e7fc5b5e2febe08540e53]: Textual amendment: [Sch. 11 para. 6(1A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/6/1A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-fd070fbe14ad1b9c506d744dee3fd10a]: Textual amendment: [Sch. 11 para. 6(2A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/6/2A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-fd070fbe14ad1b9c506d744dee3fd10a]: Textual amendment: [Sch. 11 para. 6(2A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/6/2A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-789b7665e4f12a0600808bfffae73d85]: Textual amendment: [Sch. 11 para. 6(3A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/6/3A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-789b7665e4f12a0600808bfffae73d85]: Textual amendment: [Sch. 11 para. 6(3A)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/6/3A) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c20257091]: Textual amendment: Sums in Sch. 11 para. 6(4)(6)(b) substituted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/20/1), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
 
@@ -336,7 +336,7 @@ the agent must ensure that, at the time when the donation is received by the rec
 
 [^c10577031]: Commencement: Sch. 11 wholly in force at 16.2.2001; Sch. 11 partly in force at Royal Assent, see s. 163(3); Sch. 11 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-c5a2fc0b11e9c75646b1980d83ab8486]: Textual amendment: Words in Sch. 11 Pt. 3 inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(6)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/6), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-c5a2fc0b11e9c75646b1980d83ab8486]: Textual amendment: Words in Sch. 11 Pt. 3 inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(6)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/6), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
 
 [^c10577041]: Commencement: Sch. 11 wholly in force at 16.2.2001; Sch. 11 partly in force at Royal Assent, see s. 163(3); Sch. 11 in force in so far as not already in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
@@ -352,7 +352,7 @@ the agent must ensure that, at the time when the donation is received by the rec
 
 [^c20258891]: Textual amendment: Sum in Sch. 11 para. 10(2)(a) substituted (1.1.2010) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2009/12/section/20/3), [43](https://www.legislation.gov.uk/ukpga/2009/12/section/43); [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(h)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/h)
 
-[^key-2495baa0016d28913686a3205b64d30b]: Modification: [Sch. 11 para. 10(4)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/10/4) amendment by 2006 c. 22, Sch. 1 para. 29 extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
+[^c-2495baa0016d28913686a3205b64d30b]: Modification: [Sch. 11 para. 10(4)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11/paragraph/10/4) amendment by 2006 c. 22, Sch. 1 para. 29 extended to N.I. (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/2/2)
 
 [^c20084261]: Textual amendment: Sch. 11 para. 10(4) inserted (E.W.S.) (1.1.2007) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/10/2), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1/paragraph/29); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/12/a) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2))
 

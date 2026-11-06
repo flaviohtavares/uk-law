@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. No-smoking signs in England[^key-b34a0fefe4bc5f21983396fbd07983b8]
+## 144. No-smoking signs in England[^c-b34a0fefe4bc5f21983396fbd07983b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b34a0fefe4bc5f21983396fbd07983b8]: Commencement: S. 144 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)
+[^c-b34a0fefe4bc5f21983396fbd07983b8]: Commencement: S. 144 not in force at Royal Assent, see [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/a)

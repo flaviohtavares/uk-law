@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Restriction on diligence[^key-e36031d1fe27b0891622cf71c0f798b4]
+## 21. Restriction on diligence[^c-e36031d1fe27b0891622cf71c0f798b4]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Except with the leave of the First-tier Tribunal, no diligence is to be done in 
 
 ## Annotations
 
-[^key-e36031d1fe27b0891622cf71c0f798b4]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/19/section/21) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-e36031d1fe27b0891622cf71c0f798b4]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/19/section/21) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

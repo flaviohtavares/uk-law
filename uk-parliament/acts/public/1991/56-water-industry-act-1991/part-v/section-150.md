@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Authority[^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7] may from time to time by order fix maximum charges which a person who is not a relevant undertaker may recover from another such person in respect of water supplies or sewerage services provided to that other person with the help of services provided by a relevant undertaker.
 
-(1A)[^key-04aa95ab54e742476485fccf9e2f80f8] This section does not apply to—
+(1A)[^c-04aa95ab54e742476485fccf9e2f80f8] This section does not apply to—
 
 - (a) water supplies provided by a water supply licensee, or
 - (b) sewerage services provided by a sewerage licensee,
@@ -54,7 +54,7 @@ shall be recoverable by that person from the person to whom he paid the charge.
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)
 
-[^key-04aa95ab54e742476485fccf9e2f80f8]: Textual amendment: S. 150(1A) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/101); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-04aa95ab54e742476485fccf9e2f80f8]: Textual amendment: S. 150(1A) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 101](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/101); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(r)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/r) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
 [^c19840591]: Textual amendment: S. 150(2A)(2B) inserted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/59/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/i)
 

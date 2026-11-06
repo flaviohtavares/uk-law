@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269DBA. Meaning of “non-banking group relief for carried-forward losses”[^key-82129afb39fc36f9cf29efbb20b447c9][^key-3e03660a4275e6ae3aa881f06df8542c]
+## 269DBA. Meaning of “non-banking group relief for carried-forward losses”[^c-82129afb39fc36f9cf29efbb20b447c9][^c-3e03660a4275e6ae3aa881f06df8542c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82129afb39fc36f9cf29efbb20b447c9]: Textual amendment: S. 269DBA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 162](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/162)
+[^c-82129afb39fc36f9cf29efbb20b447c9]: Textual amendment: S. 269DBA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 162](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/162)
 
-[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
+[^c-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)

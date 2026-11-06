@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 12A(4) and (5) and 12B(5) and (6) of the Local Government Finance Act 1992[^f00001].
 
-## 1. Title, commencement and application[^key-e5d576da7db2de9f6d44962a4271235b]
+## 1. Title, commencement and application[^c-e5d576da7db2de9f6d44962a4271235b]
 
 (1) The title of these Regulations is the Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015 and they come into force on 31 January 2016.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-15afab9e6a3105de431c666e5b4b539f]
+## 2. Interpretation[^c-15afab9e6a3105de431c666e5b4b539f]
 
 In these Regulations—
 
@@ -64,15 +64,15 @@ In these Regulations—
 - “Class 6” (“*Dosbarth 6*”) means the class of dwellings described in regulation 9;
 - “Class 7” (“*Dosbarth 7*”) means the class of dwellings described in regulation 10;
 
-  references to the spouse or civil partner of a person include references to a person who is living with the other as if they were a married couple or civil partners[^key-17754b97893b1a21220f466767de9373].
+  references to the spouse or civil partner of a person include references to a person who is living with the other as if they were a married couple or civil partners[^c-17754b97893b1a21220f466767de9373].
 
-## 3. Prescribed classes[^key-fb7d557b2a1004981ab703c0b6d921a5]
+## 3. Prescribed classes[^c-fb7d557b2a1004981ab703c0b6d921a5]
 
 (1) Classes 1, 2, 3 and 4 are prescribed as classes of dwelling for the purposes of sections 12A(4) and 12B(5) of the Act.
 
 (2) Classes 5, 6 and 7 are prescribed as classes of dwelling for the purpose of section 12B(5) of the Act.
 
-## 4. Class 1[^key-77b304e11005ad3b64773a2e6b563a18]
+## 4. Class 1[^c-77b304e11005ad3b64773a2e6b563a18]
 
 (1) The class of dwelling prescribed for the purposes of this regulation (“Class 1”) comprises every dwelling that falls within sub-paragraph (a) or (b) unless it has been such a dwelling for a period of one year or more—
 
@@ -89,7 +89,7 @@ In these Regulations—
 - (b) the “excepted period” (“*cyfnod a eithrir*”) is the period during which a dwelling falls within Class 1;
 - (c) “relevant transaction” (“*trafodiad perthnasol*”) means a transfer on sale of the freehold or a transfer on sale of the leasehold for a term of seven years or more.
 
-## 5. Class 2[^key-1b06f7aee9fd2527c858f36ffadb9667]
+## 5. Class 2[^c-1b06f7aee9fd2527c858f36ffadb9667]
 
 (1) The class of dwelling prescribed for the purposes of this regulation (“Class 2”) comprises every dwelling that falls within sub-paragraph (a) or (b) unless it has been such a dwelling for a period of one year or more—
 
@@ -100,7 +100,7 @@ In these Regulations—
 
 (3) For the purpose of this regulation the “excepted period” (“*cyfnod a eithrir*”) is the period during which a dwelling falls within Class 2.
 
-## 6. Class 3[^key-6766319b70237cb9bc82fada1e4f47b6]
+## 6. Class 3[^c-6766319b70237cb9bc82fada1e4f47b6]
 
 (1) The class of dwelling prescribed for the purposes of this regulation (“Class 3”) comprises every dwelling—
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 (2) For the purpose of paragraph (1), “single property” (“*eiddo unigol*”) means a property that would, apart from the Council Tax (Chargeable Dwellings) Order 1992[^f00002] be one dwelling within the meaning of section 3 of the Act.
 
-## 7. Class 4[^key-8d2247fb296ad197843a8a0cdf6d75a9]
+## 7. Class 4[^c-8d2247fb296ad197843a8a0cdf6d75a9]
 
 (1) The class of dwelling prescribed for the purposes of this regulation (“Class 4”) comprises every dwelling which would be the sole or main residence of an individual if that individual were not residing in armed forces accommodation.
 
@@ -124,15 +124,15 @@ In these Regulations—
   - (i) he or she is the spouse or civil partner of that person; or
   - (ii) he or she is that person’s parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece.
 
-## 8. Class 5[^key-d105e29b98af0c48dc4ebc44460fff24]
+## 8. Class 5[^c-d105e29b98af0c48dc4ebc44460fff24]
 
 (1) The class of dwelling prescribed for the purposes of this regulation (“Class 5”) comprises every dwelling which consists of a pitch occupied by a caravan or a mooring occupied by a boat.
 
 (2) For the purpose of this regulation “caravan” (“*carafán*”) is construed in accordance with section 7 of the Act[^f00003].
 
-## 9. Class 6[^key-ad3552df7303872fcb6b25899a6d9f1c]
+## 9. Class 6[^c-ad3552df7303872fcb6b25899a6d9f1c]
 
-(1)[^key-f985f88f0db004b8f8cf36c329a244da] The class of dwellings prescribed for the purpose of this regulation (“Class 6”) comprises every dwelling the occupation of which is restricted by a planning condition—
+(1)[^c-f985f88f0db004b8f8cf36c329a244da] The class of dwellings prescribed for the purpose of this regulation (“Class 6”) comprises every dwelling the occupation of which is restricted by a planning condition—
 
 - (a) preventing occupancy for a continuous period of at least 28 days in any one year period;
 - (b) specifying that the dwelling may be used for holiday let only; or
@@ -140,7 +140,7 @@ In these Regulations—
 
 (2) For the purpose of this regulation “planning condition” (“*amod cynllunio*”) means any condition imposed on planning permission granted or deemed to be granted under Part 3 of the Town and Country Planning Act 1990[^f00004].
 
-## 10. Class 7[^key-93ce4a8ec9647bc1ef98327b3bb5d198]
+## 10. Class 7[^c-93ce4a8ec9647bc1ef98327b3bb5d198]
 
 (1) The class of dwelling prescribed for the purpose of this regulation (“Class 7”) comprises every dwelling—
 
@@ -166,7 +166,7 @@ Minister for Public Services, one of the Welsh Ministers
 
 Regulation 10(2)
 
-### 1. Dwellings provided for specified reasons[^key-2fa7ba1ff45d7c00cdf921878d365d63]
+### 1. Dwellings provided for specified reasons[^c-2fa7ba1ff45d7c00cdf921878d365d63]
 
 (1) Subject to sub-paragraph (2), a dwelling is job-related for a person if it is provided for that person by reason of that person’s employment, or for that person’s spouse or civil partner by reason of their employment, in any of the following cases, where—
 
@@ -180,7 +180,7 @@ Regulation 10(2)
 - (b) the company is non-profit making, that is to say, it does not carry on a trade nor do its functions consist wholly or mainly in the holding of investments or other property; or
 - (c) the company is established for charitable purposes only.
 
-### 2. Dwellings provided under contract[^key-f3e96a723a9e224d56dd08ba725ade60]
+### 2. Dwellings provided under contract[^c-f3e96a723a9e224d56dd08ba725ade60]
 
 (1) Subject to sub-paragraph (3), a dwelling is job-related for a person if that person, or that person’s spouse or civil partner, is required under a contract to which this paragraph applies, to live in that dwelling.
 
@@ -188,14 +188,14 @@ Regulation 10(2)
 
 (3) Sub-paragraph (1) does not apply if the dwelling concerned is in whole or in part provided by any other person or persons together with whom the spouse or civil partner (as the case may be) carries on a trade or business in partnership.
 
-### 3. Ministers of religion[^key-81554421072d7e48234bfa86299a9c98]
+### 3. Ministers of religion[^c-81554421072d7e48234bfa86299a9c98]
 
 A dwelling is job-related for a person if—
 
 - (a) that person, or their spouse or civil partner, is a minister of any religious denomination; and
 - (b) the dwelling is inhabited in order to allow that person, or their spouse or civil partner (as the case may be), to perform the duties of his or her office.
 
-### 4. Interpretation[^key-3da4d0fecc71c187f494c0da280b11a1]
+### 4. Interpretation[^c-3da4d0fecc71c187f494c0da280b11a1]
 
 In this Schedule—
 
@@ -234,35 +234,35 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Sections 12A and 12B were inserted by section 139 of the [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7).
 
-[^key-e5d576da7db2de9f6d44962a4271235b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-e5d576da7db2de9f6d44962a4271235b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-15afab9e6a3105de431c666e5b4b539f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/2068/regulation/2) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-15afab9e6a3105de431c666e5b4b539f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/2068/regulation/2) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-17754b97893b1a21220f466767de9373]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2015/2068/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 102(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/102/1)
+[^c-17754b97893b1a21220f466767de9373]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2015/2068/regulation/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 102(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/102/1)
 
-[^key-fb7d557b2a1004981ab703c0b6d921a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/2068/regulation/3) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-fb7d557b2a1004981ab703c0b6d921a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/2068/regulation/3) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-77b304e11005ad3b64773a2e6b563a18]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/2068/regulation/4) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-77b304e11005ad3b64773a2e6b563a18]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/2068/regulation/4) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-1b06f7aee9fd2527c858f36ffadb9667]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/2068/regulation/5) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-1b06f7aee9fd2527c858f36ffadb9667]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/2068/regulation/5) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-6766319b70237cb9bc82fada1e4f47b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/2068/regulation/6) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-6766319b70237cb9bc82fada1e4f47b6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/2068/regulation/6) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1992/549](https://www.legislation.gov.uk/uksi/1992/549).
 
-[^key-8d2247fb296ad197843a8a0cdf6d75a9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/2068/regulation/7) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-8d2247fb296ad197843a8a0cdf6d75a9]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/2068/regulation/7) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-d105e29b98af0c48dc4ebc44460fff24]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/2068/regulation/8) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-d105e29b98af0c48dc4ebc44460fff24]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/2068/regulation/8) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
 [^f00003]: Footnote: Under section 7 of the Act “caravan” is construed in accordance with Part I of the Caravan Sites and Control of Development Act 1960 (c. 62).
 
-[^key-ad3552df7303872fcb6b25899a6d9f1c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/2068/regulation/9) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-ad3552df7303872fcb6b25899a6d9f1c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/2068/regulation/9) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-f985f88f0db004b8f8cf36c329a244da]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/9/1) substituted (1.4.2023) by [The Council Tax (Exceptions to Higher Amounts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/253)](https://www.legislation.gov.uk/wsi/2023/253), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/2/2)
+[^c-f985f88f0db004b8f8cf36c329a244da]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/9/1) substituted (1.4.2023) by [The Council Tax (Exceptions to Higher Amounts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/253)](https://www.legislation.gov.uk/wsi/2023/253), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/2/2)
 
 [^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-93ce4a8ec9647bc1ef98327b3bb5d198]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/2068/regulation/10) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-93ce4a8ec9647bc1ef98327b3bb5d198]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/2068/regulation/10) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
 [^f00005]: Footnote: The person who is liable to pay council tax in respect of a dwelling is set out in section 6 of the Act.
 
@@ -270,12 +270,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: [S.I. 1992/551](https://www.legislation.gov.uk/uksi/1992/551).
 
-[^key-2fa7ba1ff45d7c00cdf921878d365d63]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/1) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-2fa7ba1ff45d7c00cdf921878d365d63]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/1) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-f3e96a723a9e224d56dd08ba725ade60]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/2) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-f3e96a723a9e224d56dd08ba725ade60]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/2) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-81554421072d7e48234bfa86299a9c98]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/3) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-81554421072d7e48234bfa86299a9c98]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/3) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
-[^key-3da4d0fecc71c187f494c0da280b11a1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/4) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
+[^c-3da4d0fecc71c187f494c0da280b11a1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2015/2068/schedule/paragraph/4) in force at 31.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/2068/regulation/1/1)
 
 [^f00008]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).

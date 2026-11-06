@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Households[^key-3936aef4c1d20068cfb4d31acaf240e3]
+## 8. Households[^c-3936aef4c1d20068cfb4d31acaf240e3]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A child or young person is not to be treated as a member of the applicant’s household where he is—
 
-- (a) placed with the applicant or his partner by a local authority under section 22C [^key-068f6cd93e78dd22f82027bd0c406038]... of the Children Act 1989[^f00058] or by a voluntary organisation under section 59(1)(a) of that Act, or section 81(2) of the Social Services and Well-being (Wales) Act 2014 (ways in which looked after children are to be accommodated and maintained)[^key-a8590cbfe2b1e75615d826f988e05804] or in Scotland boarded out or placed[^key-e6f9f57cc2cd6369c0c3a6ededd5457f] with the applicant or his partner under a relevant enactment or in Wales, placed with the applicant or the applicant’s partner by a local authority under section 81 of the Social Services and Well-being (Wales) Act 2014 or by a voluntary organisation under section 59(1)(a) of the Children Act 1989[^key-b9460f5d5732006db478083f1e656247]; or
+- (a) placed with the applicant or his partner by a local authority under section 22C [^c-068f6cd93e78dd22f82027bd0c406038]... of the Children Act 1989[^f00058] or by a voluntary organisation under section 59(1)(a) of that Act, or section 81(2) of the Social Services and Well-being (Wales) Act 2014 (ways in which looked after children are to be accommodated and maintained)[^c-a8590cbfe2b1e75615d826f988e05804] or in Scotland boarded out or placed[^c-e6f9f57cc2cd6369c0c3a6ededd5457f] with the applicant or his partner under a relevant enactment or in Wales, placed with the applicant or the applicant’s partner by a local authority under section 81 of the Social Services and Well-being (Wales) Act 2014 or by a voluntary organisation under section 59(1)(a) of the Children Act 1989[^c-b9460f5d5732006db478083f1e656247]; or
 - (b) placed, or in Scotland boarded out, with the applicant or his partner prior to adoption; or
 - (c) placed for adoption with the applicant or his partner in accordance with the Adoption and Children Act 2002[^f00059], the Adoption Agencies (Scotland) Regulations 2009[^f00060] or the Adoption (Northern Ireland) Order 1987[^f00061].
 
@@ -54,23 +54,23 @@ summary: ''
 - (k) the Adoption and Children (Scotland) Act 2007[^f00072];
 - (l) the Family Law Act 1986[^f00073];
 - (m) the Children Act 1989[^f00074];
-- (n) the Children (Scotland) Act 1995[^f00075]; [^key-d955aec21e86468a76acf60f588d42f9]...
-- (na)[^key-5cb25d1830ebac412585c673e992e833] the Children’s Hearings (Scotland) Act 2011; and
+- (n) the Children (Scotland) Act 1995[^f00075]; [^c-d955aec21e86468a76acf60f588d42f9]...
+- (na)[^c-5cb25d1830ebac412585c673e992e833] the Children’s Hearings (Scotland) Act 2011; and
 - (o) the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00076].
 
 ## Annotations
 
-[^key-3936aef4c1d20068cfb4d31acaf240e3]: Commencement: Reg. 8 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-3936aef4c1d20068cfb4d31acaf240e3]: Commencement: Reg. 8 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-068f6cd93e78dd22f82027bd0c406038]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/8/2/a) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 134(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/134/a)
+[^c-068f6cd93e78dd22f82027bd0c406038]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/8/2/a) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 134(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/134/a)
 
 [^f00058]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); section 23 was substituted by sections 22A to 22F by section 8(1) of the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23). Section 22C is in force in England but is not yet in force in Wales. Section 59(1)(a) was amended by section 49 of the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) and paragraph 2 of Schedule 1 to the Children and Young Persons Act 2008.
 
-[^key-a8590cbfe2b1e75615d826f988e05804]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/8/2/a) inserted (12.1.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1305/regulation/5)
+[^c-a8590cbfe2b1e75615d826f988e05804]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/8/2/a) inserted (12.1.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1305/regulation/5)
 
-[^key-e6f9f57cc2cd6369c0c3a6ededd5457f]: Textual amendment: Words in reg. 8(2)(a) inserted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/4/a)
+[^c-e6f9f57cc2cd6369c0c3a6ededd5457f]: Textual amendment: Words in reg. 8(2)(a) inserted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/4/a)
 
-[^key-b9460f5d5732006db478083f1e656247]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/8/2/a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 134(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/134/b)
+[^c-b9460f5d5732006db478083f1e656247]: Textual amendment: Words in [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/8/2/a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 134(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/134/b)
 
 [^f00059]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -106,8 +106,8 @@ summary: ''
 
 [^f00075]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-d955aec21e86468a76acf60f588d42f9]: Textual amendment: Word in reg. 8(5) omitted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/4/b/i)
+[^c-d955aec21e86468a76acf60f588d42f9]: Textual amendment: Word in reg. 8(5) omitted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/4/b/i)
 
-[^key-5cb25d1830ebac412585c673e992e833]: Textual amendment: Reg. 8(5)(na) inserted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/4/b/ii)
+[^c-5cb25d1830ebac412585c673e992e833]: Textual amendment: Reg. 8(5)(na) inserted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/4/b/ii)
 
 [^f00076]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).

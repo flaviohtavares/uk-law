@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137A. Payment of Part-time fee loan[^key-dae3a10b70e788eb10cfdb445c2294aa]
+## 137A. Payment of Part-time fee loan[^c-dae3a10b70e788eb10cfdb445c2294aa]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dae3a10b70e788eb10cfdb445c2294aa]: Textual amendment: [Reg. 137A](https://www.legislation.gov.uk/nisr/2009/373/regulation/137A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [39](https://www.legislation.gov.uk/nisr/2017/7/regulation/39)
+[^c-dae3a10b70e788eb10cfdb445c2294aa]: Textual amendment: [Reg. 137A](https://www.legislation.gov.uk/nisr/2009/373/regulation/137A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [39](https://www.legislation.gov.uk/nisr/2017/7/regulation/39)

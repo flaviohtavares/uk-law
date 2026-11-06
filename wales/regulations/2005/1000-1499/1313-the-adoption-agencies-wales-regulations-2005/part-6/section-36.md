@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Requirements imposed on the adoption agency before the child is placed for adoption with prospective adopter[^key-8761222a60268872292e07c02f046cd9]
+## 36. Requirements imposed on the adoption agency before the child is placed for adoption with prospective adopter[^c-8761222a60268872292e07c02f046cd9]
 
 *Extent: E+W*
 
@@ -32,9 +32,9 @@ summary: ''
 (4) Where paragraph (1) applies, the adoption agency must, before the child is placed for adoption with the prospective adopter—
 
 - (a) notify the prospective adopter’s general practitioner in writing of the proposed placement and send with that notification a written report of the child’s health history and current state of health;
-- (b) notify the local authority (if that authority is not the adoption agency) and Local Health Board or integrated care board[^key-4e466372252d6c2fbbf4f292e102f562] (England) in whose area the prospective adopter resides in writing of the proposed placement and include in the notification to the local authority information about the child’s educational history and whether the child has been or is likely to be assessed for special educational needs under the Education Act 1996[^key-4b84cae47e7bc4a33f711884ea5d3c60];
-- (ba)[^key-0d738e7e0730d51684180da5495dbdab] if the prospective adopter resides in England, notify NHS England[^key-d6c1649dd979e869a38a18267305111c] in writing of the proposed placement.
-- (c)[^key-f4d8482665e4b01700e13bfe5c72f489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) notify the local authority (if that authority is not the adoption agency) and Local Health Board or integrated care board[^c-4e466372252d6c2fbbf4f292e102f562] (England) in whose area the prospective adopter resides in writing of the proposed placement and include in the notification to the local authority information about the child’s educational history and whether the child has been or is likely to be assessed for special educational needs under the Education Act 1996[^c-4b84cae47e7bc4a33f711884ea5d3c60];
+- (ba)[^c-0d738e7e0730d51684180da5495dbdab] if the prospective adopter resides in England, notify NHS England[^c-d6c1649dd979e869a38a18267305111c] in writing of the proposed placement.
+- (c)[^c-f4d8482665e4b01700e13bfe5c72f489] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The adoption agency must notify the prospective adopter in writing of any change to the placement plan.
 
@@ -46,14 +46,14 @@ summary: ''
 
 ## Annotations
 
-[^key-8761222a60268872292e07c02f046cd9]: Commencement: Reg. 36 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-8761222a60268872292e07c02f046cd9]: Commencement: Reg. 36 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
 
-[^key-4e466372252d6c2fbbf4f292e102f562]: Textual amendment: Words in reg. 36(4)(b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/22/2)
+[^c-4e466372252d6c2fbbf4f292e102f562]: Textual amendment: Words in reg. 36(4)(b) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/22/2)
 
-[^key-4b84cae47e7bc4a33f711884ea5d3c60]: Textual amendment: Words in reg. 36(4)(b) added (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/13/2)
+[^c-4b84cae47e7bc4a33f711884ea5d3c60]: Textual amendment: Words in reg. 36(4)(b) added (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/13/2)
 
-[^key-0d738e7e0730d51684180da5495dbdab]: Textual amendment: Reg. 36(4)(ba) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 83(1)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/83/1/b)
+[^c-0d738e7e0730d51684180da5495dbdab]: Textual amendment: Reg. 36(4)(ba) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 83(1)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/83/1/b)
 
-[^key-d6c1649dd979e869a38a18267305111c]: Textual amendment: Words in reg. 36(4)(ba) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/11/2)
+[^c-d6c1649dd979e869a38a18267305111c]: Textual amendment: Words in reg. 36(4)(ba) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/11/2)
 
-[^key-f4d8482665e4b01700e13bfe5c72f489]: Textual amendment: Reg. 36(4)(c) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/13/3)
+[^c-f4d8482665e4b01700e13bfe5c72f489]: Textual amendment: Reg. 36(4)(c) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/2/paragraph/13/3)

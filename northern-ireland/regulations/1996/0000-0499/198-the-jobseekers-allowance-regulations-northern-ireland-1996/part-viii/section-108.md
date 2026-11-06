@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Calculation of capital[^key-38480e6b09285e8435bf20db4076a23e]
+## 108. Calculation of capital[^c-38480e6b09285e8435bf20db4076a23e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38480e6b09285e8435bf20db4076a23e]: Commencement: Reg. 108 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-38480e6b09285e8435bf20db4076a23e]: Commencement: Reg. 108 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

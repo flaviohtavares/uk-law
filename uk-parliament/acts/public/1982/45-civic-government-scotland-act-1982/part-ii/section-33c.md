@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33C. Requirement to keep records[^key-08f4e6451612aa5f05f581c5317b3e43]
+## 33C. Requirement to keep records[^c-08f4e6451612aa5f05f581c5317b3e43]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08f4e6451612aa5f05f581c5317b3e43]: Textual amendment: Ss. 33C-33E inserted (1.12.2015 for the insertion of s. 33C for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 70(3)](https://www.legislation.gov.uk/asp/2015/10/section/70/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-08f4e6451612aa5f05f581c5317b3e43]: Textual amendment: Ss. 33C-33E inserted (1.12.2015 for the insertion of s. 33C for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 70(3)](https://www.legislation.gov.uk/asp/2015/10/section/70/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

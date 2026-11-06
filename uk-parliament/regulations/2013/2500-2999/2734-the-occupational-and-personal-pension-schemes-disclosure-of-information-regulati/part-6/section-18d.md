@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18D. Consequential modifications of sections 99 and 101J of the 1993 Act[^key-49cbb7cb8c75129aa6569267eb0da9a7]
+## 18D. Consequential modifications of sections 99 and 101J of the 1993 Act[^c-49cbb7cb8c75129aa6569267eb0da9a7]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49cbb7cb8c75129aa6569267eb0da9a7]: Textual amendment: [Regs. 18C-18E](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18C) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations 2022 (S.I. 2022/30)](https://www.legislation.gov.uk/uksi/2022/30), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/30/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/30/regulation/2/6)
+[^c-49cbb7cb8c75129aa6569267eb0da9a7]: Textual amendment: [Regs. 18C-18E](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18C) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations 2022 (S.I. 2022/30)](https://www.legislation.gov.uk/uksi/2022/30), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/30/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/30/regulation/2/6)

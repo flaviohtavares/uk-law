@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Restrictions on recovery of rent and consequent modifications[^key-1ae48083273c87ddd8e3f82d2318186f]
+## 104. Restrictions on recovery of rent and consequent modifications[^c-1ae48083273c87ddd8e3f82d2318186f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ae48083273c87ddd8e3f82d2318186f]: Commencement: [Reg. 104](https://www.legislation.gov.uk/nisr/2006/405/regulation/104) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-1ae48083273c87ddd8e3f82d2318186f]: Commencement: [Reg. 104](https://www.legislation.gov.uk/nisr/2006/405/regulation/104) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

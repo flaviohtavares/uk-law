@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.26D. Court officer to notify subsequent marriage or formation of civil partnership of a person entitled to payments under a maintenance order[^key-e0c15b9f99f06ee7a3de9aab766522d7]
+## 9.26D. Court officer to notify subsequent marriage or formation of civil partnership of a person entitled to payments under a maintenance order[^c-e0c15b9f99f06ee7a3de9aab766522d7]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ that the person entitled to receive payments under the order has subsequently ma
 
 ## Annotations
 
-[^key-e0c15b9f99f06ee7a3de9aab766522d7]: Textual amendment: Rules 9.26C-9.26E inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [13](https://www.legislation.gov.uk/uksi/2014/667/rule/13) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))
+[^c-e0c15b9f99f06ee7a3de9aab766522d7]: Textual amendment: Rules 9.26C-9.26E inserted (22.4.2014) by [The Family Procedure (Amendment No. 2) Rules 2014 (S.I. 2014/667)](https://www.legislation.gov.uk/uksi/2014/667), [rules 1](https://www.legislation.gov.uk/uksi/2014/667/rule/1), [13](https://www.legislation.gov.uk/uksi/2014/667/rule/13) (with [rule 45](https://www.legislation.gov.uk/uksi/2014/667/rule/45))

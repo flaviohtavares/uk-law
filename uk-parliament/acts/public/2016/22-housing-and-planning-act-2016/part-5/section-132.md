@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Estate agents: lead enforcement authority[^key-14fe507f9d0fe11784477e6534e21663]
+## 132. Estate agents: lead enforcement authority[^c-14fe507f9d0fe11784477e6534e21663]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14fe507f9d0fe11784477e6534e21663]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2016/22/section/132) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/a)
+[^c-14fe507f9d0fe11784477e6534e21663]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2016/22/section/132) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/a)

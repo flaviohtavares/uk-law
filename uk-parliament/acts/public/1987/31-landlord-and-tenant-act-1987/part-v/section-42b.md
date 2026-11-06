@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42B. Failure to comply with section 42A[^key-ec0c1215e7080eb516091c43a7acb921][^c19516741]
+## 42B. Failure to comply with section 42A[^c-ec0c1215e7080eb516091c43a7acb921][^c19516741]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ he, as well as the body corporate, is guilty of the offence and liable to be pro
 
 ## Annotations
 
-[^key-ec0c1215e7080eb516091c43a7acb921]: Modification: Ss. 42-42B modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/11); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
+[^c-ec0c1215e7080eb516091c43a7acb921]: Modification: Ss. 42-42B modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/11); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
 [^c19516741]: Textual amendment: Ss. 42A, 42B inserted (26.7.2002 for E. for specified purposes, 1.1.2003 for W. for specified purposes and otherwise prosp.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/156/1); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/c) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(c)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/c) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))

@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Social Security
 
-The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2023 (revoked)[^key-b10596c7a71912435112c9d98f270e4e]
+The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2023 (revoked)[^c-b10596c7a71912435112c9d98f270e4e]
 
 Made
 
@@ -44,36 +44,36 @@ Coming into operation
 
 27th September 2023
 
-[^key-b10596c7a71912435112c9d98f270e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b10596c7a71912435112c9d98f270e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-b10596c7a71912435112c9d98f270e4e]
+## 1. Citation, commencement and application[^c-b10596c7a71912435112c9d98f270e4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^key-b10596c7a71912435112c9d98f270e4e]
+## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^c-b10596c7a71912435112c9d98f270e4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b10596c7a71912435112c9d98f270e4e]
+## 3. Revocation[^c-b10596c7a71912435112c9d98f270e4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b10596c7a71912435112c9d98f270e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b10596c7a71912435112c9d98f270e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b10596c7a71912435112c9d98f270e4e]
+## SCHEDULE[^c-b10596c7a71912435112c9d98f270e4e]
 
 Regulation 2
 
-### PART 1[^key-b10596c7a71912435112c9d98f270e4e]
+### PART 1[^c-b10596c7a71912435112c9d98f270e4e]
 
-### PART 2[^key-b10596c7a71912435112c9d98f270e4e]
+### PART 2[^c-b10596c7a71912435112c9d98f270e4e]
 
-[^key-b10596c7a71912435112c9d98f270e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b10596c7a71912435112c9d98f270e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b10596c7a71912435112c9d98f270e4e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/144) revoked (22.3.2024) by [The Mesothelioma Lump Sum Payments (2023 Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/70)](https://www.legislation.gov.uk/nisr/2024/70), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2024/70/regulation/3)
+[^c-b10596c7a71912435112c9d98f270e4e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/144) revoked (22.3.2024) by [The Mesothelioma Lump Sum Payments (2023 Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/70)](https://www.legislation.gov.uk/nisr/2024/70), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2024/70/regulation/3)

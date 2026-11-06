@@ -42,25 +42,25 @@ Coming into force
 
 19th December 2022
 
-The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by sections 85(1), (3), (5), (6) and (7), 86(1)(a), (b), (c) and (d), 302(1) and 306A of that Act, and with the consent of the Treasury, makes the following Regulations.[^key-6fbab2f12bc27d3e05243c45923e8fd8]
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by sections 85(1), (3), (5), (6) and (7), 86(1)(a), (b), (c) and (d), 302(1) and 306A of that Act, and with the consent of the Treasury, makes the following Regulations.[^c-6fbab2f12bc27d3e05243c45923e8fd8]
 
-In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdrawal) Act 2018[^f00002], a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-6fbab2f12bc27d3e05243c45923e8fd8]
+In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdrawal) Act 2018[^f00002], a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-6fbab2f12bc27d3e05243c45923e8fd8]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-7147656801e57f2d8a082f3be29caa15]
+### 1. Citation, commencement and extent[^c-7147656801e57f2d8a082f3be29caa15]
 
 (1) These Regulations may be cited as the Merchant Shipping (High Speed Craft) Regulations 2022 and come into force 21 days after the day on which they are made.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendments and revocations[^key-888eaddac669e4ec51d04a13684350b1]
+### 2. Amendments and revocations[^c-888eaddac669e4ec51d04a13684350b1]
 
 (1) The amendments listed in Part 1 of the Schedule have effect.
 
 (2) The Regulations listed in the first column of the Table in Part 2 of the Schedule are revoked to the extent specified in the third column of that Table.
 
-### 3. Interpretation[^key-4f4860bbb2138616ed0caead91593a9b]
+### 3. Interpretation[^c-4f4860bbb2138616ed0caead91593a9b]
 
 (1) In these Regulations—
 
@@ -110,7 +110,7 @@ In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdraw
 
 (3) References to proceeding to sea or on a voyage over water include proceeding on or over land, so far as such proceeding is part of that voyage.
 
-### 4. Application[^key-64442848c7ccf49877ef2916a2cdaacf]
+### 4. Application[^c-64442848c7ccf49877ef2916a2cdaacf]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to every high speed craft which—
 
@@ -120,9 +120,9 @@ In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdraw
   - (ii) before 1st January 1996 and to which repairs, alterations or modifications, or outfitting of a major character are made on or after 1st January 1996; and
 - (c) is—
   - (i) a passenger craft which does not proceed in the course of its voyage more than 4 hours at operational speed from a place of refuge when fully laden,
-  - (ii) a craft which is carrying passengers [^key-2b07ace0061c21aef8c5ace124f15a61]... which is not a passenger craft and which does not proceed in the course of its voyage more than 4 hours at operational speed from a place of refuge when fully laden,
+  - (ii) a craft which is carrying passengers [^c-2b07ace0061c21aef8c5ace124f15a61]... which is not a passenger craft and which does not proceed in the course of its voyage more than 4 hours at operational speed from a place of refuge when fully laden,
   - (iii) a cargo craft of 500 gross tonnage or more which does not proceed in the course of its voyage more than 8 hours at operational speed from a place of refuge when fully laden, or
-  - (iv) a cargo craft of less than 500 gross tonnage [^key-c28c35ccfd93da08567b8e22c7bc145f]... and which does not proceed in the course of its voyage more than 8 hours at operational speed from a place of refuge when fully laden.
+  - (iv) a cargo craft of less than 500 gross tonnage [^c-c28c35ccfd93da08567b8e22c7bc145f]... and which does not proceed in the course of its voyage more than 8 hours at operational speed from a place of refuge when fully laden.
 
 (2) These Regulations do not apply to—
 
@@ -133,9 +133,9 @@ In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdraw
 - (e) a pleasure craft;
 - (f) a fishing craft;
 - (g) a craft solely navigating the Great Lakes of North America and the River St Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd meridian;
-- (h) a craft which has been examined, and in respect of which a certificate has been issued, in accordance with regulations 9 or 13 of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025[^key-22384edcd60402dc1c83182782aef344];
-- (i) a craft which has been examined, and in respect of which a certificate has been issued, in accordance with the Workboat Code Edition 3 referred to in regulation 3(1) of the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023[^key-6cae72c6bb06ab670ab419fd34d660fa];
-- (j)[^key-25e1f883a837921195b0602daafc2074] an HSOSC which has been examined, and in respect of which a certificate has been issued under regulation 13A(1) of the Merchant Shipping (Survey and Certification) Regulations 2015;
+- (h) a craft which has been examined, and in respect of which a certificate has been issued, in accordance with regulations 9 or 13 of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025[^c-22384edcd60402dc1c83182782aef344];
+- (i) a craft which has been examined, and in respect of which a certificate has been issued, in accordance with the Workboat Code Edition 3 referred to in regulation 3(1) of the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023[^c-6cae72c6bb06ab670ab419fd34d660fa];
+- (j)[^c-25e1f883a837921195b0602daafc2074] an HSOSC which has been examined, and in respect of which a certificate has been issued under regulation 13A(1) of the Merchant Shipping (Survey and Certification) Regulations 2015;
 - (k) a passenger craft engaged on domestic voyages in sea areas B, C or D when—
   - (i) the displacement of that craft corresponding to the design waterline is less than 500m<sup>3</sup>; and
   - (ii) the maximum speed of that craft, as defined in paragraph 1.4.30 of the High-Speed Craft Code, 1994 or where applicable, paragraph 1.4.38 of the High-Speed Craft Code, 2000, is less than 20 knots.
@@ -149,9 +149,9 @@ In accordance with paragraph 13(1) of Schedule 8 to the European Union (Withdraw
 
 those persons are not to be taken into account for the purpose of determining the application to that craft of any provision of these Regulations.
 
-(5)[^key-defcae1b1dc93e581bd78162846d8e20] For the purposes of this regulation, “**HSOSC**” has the meaning given to it in regulation 3 of the Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022.
+(5)[^c-defcae1b1dc93e581bd78162846d8e20] For the purposes of this regulation, “**HSOSC**” has the meaning given to it in regulation 3 of the Merchant Shipping (High Speed Offshore Service Craft) Regulations 2022.
 
-### 5. Ambulatory reference[^key-548edf0c2cf42de6bf22a7aa7c812ac4]
+### 5. Ambulatory reference[^c-548edf0c2cf42de6bf22a7aa7c812ac4]
 
 (1) In these Regulations, any reference to Chapter X, the High-Speed Craft Code, 1994 or the High-Speed Craft Code, 2000 is to be construed—
 
@@ -162,7 +162,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (3) A modification or replacement of Chapter X, the High-Speed Craft Code, 1994 or the High-Speed Craft Code, 2000 has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
 
-### 6. Exemptions[^key-14041c29cf2cd57bc5a027735ef44ff8]
+### 6. Exemptions[^c-14041c29cf2cd57bc5a027735ef44ff8]
 
 (1) The Secretary of State may grant an exemption from any provision of these Regulations in respect of a craft which does not normally engage on international voyages but is, in exceptional circumstances, required to undertake a single international voyage.
 
@@ -188,7 +188,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (8) Where an exemption is granted subject to safety requirements under paragraph (4), the exemption ceases to have effect if those requirements are not complied with.
 
-### 7. Equivalents[^key-fd9fde94ec86e891fdaaefd80f338976]
+### 7. Equivalents[^c-fd9fde94ec86e891fdaaefd80f338976]
 
 (1) Where the provisions of Chapter X, the High-Speed Craft Code, 1994 or the High-Speed Craft Code, 2000 require that—
 
@@ -216,7 +216,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 (6) Where an approval is granted subject to safety requirements under paragraph (2), the approval ceases to have effect if those requirements are not complied with.
 
-### 8. Approvals[^key-b01ac06ea32031cd0579858dedc7de32]
+### 8. Approvals[^c-b01ac06ea32031cd0579858dedc7de32]
 
 (1) The Secretary of State, or any person authorised by the Secretary of State, may grant an approval in relation to a United Kingdom high speed craft for anything in Chapter X, the High-Speed Craft Code, 1994 or the High-Speed Craft Code, 2000 requiring to be—
 
@@ -240,19 +240,19 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 ## PART 2 — Requirements for high speed craft
 
-### 9. Requirements in relation to high speed craft[^key-7690081b264ea9b317ce55765ce06893]
+### 9. Requirements in relation to high speed craft[^c-7690081b264ea9b317ce55765ce06893]
 
-(1) Subject to paragraph (5), a high speed craft which was constructed on or after 1st January 1996 but before 1st July 2002 , except for a high speed craft to which the Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 apply,[^key-5bb565aa7a0bd4a622259dbf3957b7ef] must comply with each requirement applicable to that craft in—
+(1) Subject to paragraph (5), a high speed craft which was constructed on or after 1st January 1996 but before 1st July 2002 , except for a high speed craft to which the Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 apply,[^c-5bb565aa7a0bd4a622259dbf3957b7ef] must comply with each requirement applicable to that craft in—
 
 - (a) the High-Speed Craft Code, 1994, and
 - (b) the approved standards specified in Merchant Shipping Notice 1672 (M+F) Amendment 4[^f00014].
 
-(2) Subject to paragraph (5), a high speed craft constructed before 1st January 1996 and to which repairs, alterations or modifications, or outfitting related to such repairs, alterations or modifications, of a major character were carried out on or after 1st January 1996, but before 1st July 2002, except for a high speed craft to which the Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 apply,[^key-9de27e75d8190b8f61847dffab3ad849] must comply with each requirement applicable to that craft in—
+(2) Subject to paragraph (5), a high speed craft constructed before 1st January 1996 and to which repairs, alterations or modifications, or outfitting related to such repairs, alterations or modifications, of a major character were carried out on or after 1st January 1996, but before 1st July 2002, except for a high speed craft to which the Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 apply,[^c-9de27e75d8190b8f61847dffab3ad849] must comply with each requirement applicable to that craft in—
 
 - (a) the High-Speed Craft Code, 1994, but only to the extent that such repairs, alterations or modifications, or outfitting related to those repairs, alterations or modifications were carried out, and
 - (b) the approved standards specified in Merchant Shipping Notice 1672 (M+F) Amendment 4.
 
-(2A)[^key-eda186b7f7ee2e9ae809fd5e55543a67] Subject to paragraph (5), a high speed craft constructed before 1st July 2002 and to which the Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 apply must comply with each requirement applicable to that craft in—
+(2A)[^c-eda186b7f7ee2e9ae809fd5e55543a67] Subject to paragraph (5), a high speed craft constructed before 1st July 2002 and to which the Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 apply must comply with each requirement applicable to that craft in—
 
 - (a) the High-Speed Craft Code, 2000; and
 - (b) the approved standards specified in Merchant Shipping Notice 1672 (M+F) Amendment 4.
@@ -267,17 +267,17 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 - (a) the High-Speed Craft Code, 2000, but only to the extent that such repairs, alterations or modifications, or outfitting related to those repairs, alterations or modifications were carried out, and
 - (b) the approved standards specified in Merchant Shipping Notice 1672 (M+F) Amendment 4.
 
-(5) A high speed craft is not required to comply with the applicable requirements in paragraphs (1), (2), (2A),[^key-cb026f6e04c866c0029c4bbe6d8a161d] (3) and (4) to the extent that such requirements—
+(5) A high speed craft is not required to comply with the applicable requirements in paragraphs (1), (2), (2A),[^c-cb026f6e04c866c0029c4bbe6d8a161d] (3) and (4) to the extent that such requirements—
 
 - (a) apply to seagoing United Kingdom high speed craft; and
 - (b) relate to paragraph 18.3.3 of the High-Speed Craft Code, 1994 or paragraph 18.3.3 of the High-Speed Craft Code, 2000.
 
 (6) All equipment fitted on or carried in a high speed craft must—
 
-- (a) in relation to a United Kingdom high speed craft, unless approved in accordance with the Merchant Shipping (Marine Equipment) Regulations 2025[^key-c6cc068ee578a47f5db39a82a8ee6b4e], be of a type approved by the Secretary of State or any person authorised by the Secretary of State; or
+- (a) in relation to a United Kingdom high speed craft, unless approved in accordance with the Merchant Shipping (Marine Equipment) Regulations 2025[^c-c6cc068ee578a47f5db39a82a8ee6b4e], be of a type approved by the Secretary of State or any person authorised by the Secretary of State; or
 - (b) in relation to a non-United Kingdom high speed craft, conform to standards not inferior to those set out in Sections 1 and 3 to 5 of Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 5[^f00016].
 
-### 10. Requirements in relation to persons on board a passenger craft[^key-52b5a105acc79a4a29f0877ca6add6e1]
+### 10. Requirements in relation to persons on board a passenger craft[^c-52b5a105acc79a4a29f0877ca6add6e1]
 
 (1) A person on board a passenger craft who—
 
@@ -293,7 +293,7 @@ must, if so requested by the master or crew, leave the craft at any place in the
 - (a) obstruct or damage any part of the machinery or equipment of that craft; or
 - (b) obstruct, impede or molest the master or crew, or any of them, in the navigation or management of the craft, or otherwise in the execution of their duty on or about the craft.
 
-### 11. Risk assessment with reference to wash[^key-f29886835bf5863f0997a5d95367f52c]
+### 11. Risk assessment with reference to wash[^c-f29886835bf5863f0997a5d95367f52c]
 
 (1) A risk assessment with respect to wash must be prepared in relation to a high speed craft before it proceeds or attempts to proceed to sea or on any voyage.
 
@@ -309,7 +309,7 @@ must, if so requested by the master or crew, leave the craft at any place in the
 
 - “**wash**” means the sweep of waves left behind by a moving craft, classified as sub-critical, critical or supercritical in terms of the depth Froude number F*nh* = Vs/√(gh) where F*nh* describes the ratio of the vessel’s speed to the wave propagation velocity in shallow water, Vs is the ship speed in metres per second, g is the acceleration due to gravity and h is the water depth in metres: for the purposes of classification “**sub-critical**” means F*nh*\<0.85, “**critical**” means F*nh* = 0.85 to 1.15 and “**supercritical**” means F*nh*>1.15.
 
-### 12. Safety requirements for persons with reduced mobility[^key-d3607e41840c5c5cfb5759d0094f63e6]
+### 12. Safety requirements for persons with reduced mobility[^c-d3607e41840c5c5cfb5759d0094f63e6]
 
 (1) This regulation applies to—
 
@@ -328,13 +328,13 @@ must, if so requested by the master or crew, leave the craft at any place in the
 - “**the Directive**” means [Directive 2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) of the European Parliament and of the Council of 6th May 2009 on safety rules and standards for passenger ships[^f00018] as amended by Commission [Directive 2010/36/EU](https://www.legislation.gov.uk/european/directive/2010/0036) of 1 June 2010 amending [Directive 2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) of the European Parliament and of the Council on safety rules and standards for passenger ships[^f00019], Commission Directive (EU) 2016/844 of 27 May 2016 amending [Directive 2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) of the European Parliament and of the Council on safety rules and standards for passenger ships[^f00020] and Directive (EU) 2017/2108 of the European Parliament and of the Council of 15 November 2017 amending [Directive 2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) on safety rules and standards for passenger ships[^f00021];
 - “**EEA State**” means a State, other than the United Kingdom, which was an EEA State immediately before IP completion day.
 
-### 13. High Speed Craft Safety Certificate[^key-cc06f690b0aed090e7537d46d13ea164]
+### 13. High Speed Craft Safety Certificate[^c-cc06f690b0aed090e7537d46d13ea164]
 
 (1) A high speed craft must not proceed or attempt to proceed to sea or on any voyage unless there is a valid High Speed Craft Safety Certificate.
 
 (2) The Secretary of State or any person authorised by the Secretary of State may issue or endorse a High Speed Craft Safety Certificate in accordance with section 1.8 of the High-Speed Craft Code, 1994 or section 1.8 of the High-Speed Craft Code, 2000.
 
-### 14. Permit to operate[^key-a5c08101c716c5765939ada099fa5353]
+### 14. Permit to operate[^c-a5c08101c716c5765939ada099fa5353]
 
 (1) A high speed craft must not proceed or attempt to proceed to sea or on any voyage unless there is a valid Permit to Operate.
 
@@ -348,7 +348,7 @@ must, if so requested by the master or crew, leave the craft at any place in the
 
 ## PART 3 — Control and Enforcement
 
-### 15. Offences in respect of which a sentence of imprisonment and/or a fine may be imposed[^key-a1eb5de172d4ecd50f9c66805d523c74]
+### 15. Offences in respect of which a sentence of imprisonment and/or a fine may be imposed[^c-a1eb5de172d4ecd50f9c66805d523c74]
 
 (1) If a high speed craft proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of any of the requirements of these Regulations applicable to that craft, the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -361,14 +361,14 @@ must, if so requested by the master or crew, leave the craft at any place in the
 
 (3) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 16. Offences in respect of which a fine may be imposed on summary conviction only[^key-a61685e95f39610fe6b9573c226d89cc]
+### 16. Offences in respect of which a fine may be imposed on summary conviction only[^c-a61685e95f39610fe6b9573c226d89cc]
 
 A person who contravenes regulation 10 is guilty of an offence punishable on summary conviction—
 
 - (a) in England and Wales by a fine; or
 - (b) in Scotland or Northern Ireland by a fine not exceeding the statutory maximum.
 
-### 17. Detention[^key-4ddad502cf67c6a443719c1f1288fc64]
+### 17. Detention[^c-4ddad502cf67c6a443719c1f1288fc64]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -400,7 +400,7 @@ A person who contravenes regulation 10 is guilty of an offence punishable on sum
 
 (9) For the purposes of paragraphs (7) and (8), “**flag administration**” in relation to a high speed craft means the administration of the State whose flag the craft is entitled to fly.
 
-### 18. Review[^key-7dbc014557958f8edee7ca906831d12d]
+### 18. Review[^c-7dbc014557958f8edee7ca906831d12d]
 
 (1) The Secretary of State must from time to time—
 
@@ -448,98 +448,98 @@ Regulation 2
 
 ### PART 1 — Amendments
 
-#### 1. Hovercraft (General) Order 1972[^key-d1390be2692cd4334106344efdc65091]
+#### 1. Hovercraft (General) Order 1972[^c-d1390be2692cd4334106344efdc65091]
 
 In the Hovercraft (General) Order 1972[^f00026]—
 
 - (a) in article 7A, for “the Merchant Shipping (High Speed Craft) Regulations 2004[^f00027]” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022[^f00028]”;
 - (b) in article 17A, for “the Merchant Shipping (High Speed Craft) Regulations 1996[^f00029]” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 2. The Merchant Shipping (Cargo Ship Construction) Regulations 1997[^key-8218744cb69fa1598e1dd1a57ae9f278]
+#### 2. The Merchant Shipping (Cargo Ship Construction) Regulations 1997[^c-8218744cb69fa1598e1dd1a57ae9f278]
 
 In regulation 4(c)(ii) of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^f00030], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 3. The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^key-16ccf575eda8016a6cfed469773ebe47]
+#### 3. The Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^c-16ccf575eda8016a6cfed469773ebe47]
 
 In regulation 2(2) of the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997[^f00031], in the definition of “sea-going”, in sub-paragraph (a)(iv), for “regulation 8 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 4. The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^key-c5eef7b62fad75f6c2fb6f28460552d6]
+#### 4. The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^c-c5eef7b62fad75f6c2fb6f28460552d6]
 
 In regulation 1(7)(b)(iii) of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^f00032], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 5. The Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^key-c7f1fcb79167715689ce201fc7c4f98f]
+#### 5. The Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^c-c7f1fcb79167715689ce201fc7c4f98f]
 
 In regulation 1(7)(c)(ii) of the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^f00033], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 6. The Merchant Shipping (Radio Installations) Regulations 1998[^key-564ec151d820c0d96b1dea8aef3c5d22]
+#### 6. The Merchant Shipping (Radio Installations) Regulations 1998[^c-564ec151d820c0d96b1dea8aef3c5d22]
 
 In regulation 3(2)(k) of the Merchant Shipping (Radio Installations) Regulations 1998[^f00034], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 7. The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^key-da886d6adeb141723f08831492d596d2]
+#### 7. The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^c-da886d6adeb141723f08831492d596d2]
 
 In regulation 3(4) of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^f00035], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 8. The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^key-7d689242fe56682906d97ac749ed095d]
+#### 8. The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^c-7d689242fe56682906d97ac749ed095d]
 
 In regulation 3 of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^f00036], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 9. The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^key-2cdd6a6bc7641546c5fd5a4d05b399ad]
+#### 9. The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^c-2cdd6a6bc7641546c5fd5a4d05b399ad]
 
 In regulation 3(1) of the Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^f00037], in the definition of “high speed craft”, for “regulation 2 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 3 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 10. The Merchant Shipping (Musters, Training and Decision Support Systems) Regulations 1999[^key-d37c68ded42032bf6ec0494284b62c1a]
+#### 10. The Merchant Shipping (Musters, Training and Decision Support Systems) Regulations 1999[^c-d37c68ded42032bf6ec0494284b62c1a]
 
 In regulation 3(2)(e) of the Merchant Shipping (Musters, Training and Decision Support Systems) Regulations 1999[^f00038], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 11. The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-b867aa4e6bbb0325022557bfab377d6d]
+#### 11. The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^c-b867aa4e6bbb0325022557bfab377d6d]
 
 In regulation 4(2)(c)(i) and (2)(g) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00039], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 12. The Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^key-7918bd1ca415730fc2120e2865220fe9]
+#### 12. The Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^c-7918bd1ca415730fc2120e2865220fe9]
 
 In regulation 3(3) of the Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^f00040], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 13. The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010[^key-989168213ccb5bbc89d4d2ad35b29f86]
+#### 13. The Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010[^c-989168213ccb5bbc89d4d2ad35b29f86]
 
 In regulation 3(2)(a) of the Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010[^f00041], for “regulation 2(1) of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 3(1) of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 14. The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^key-47da21458e04e0a39081e19af78766c4]
+#### 14. The Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^c-47da21458e04e0a39081e19af78766c4]
 
 In regulation 2 of the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010[^f00042], in the definition of “sea-going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 15. The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^key-e6350a43fb08911aa1ec94d57c5b528a]
+#### 15. The Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^c-e6350a43fb08911aa1ec94d57c5b528a]
 
 In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention) (Survey and Certification) Regulations 2013[^f00043], in the definition of “sea-going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 16. The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014[^key-e7fb094345f212678698e3c863611ad3]
+#### 16. The Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014[^c-e7fb094345f212678698e3c863611ad3]
 
 In regulation 2(1) of the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014[^f00044], in the definition of “high speed craft”, for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 17. The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^key-a16fd43aa08230c186f85192c7e4bec1]
+#### 17. The Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^c-a16fd43aa08230c186f85192c7e4bec1]
 
 In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014[^f00045], in the definition of “sea-going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 18. The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^key-0bda1c0a85cd9519ba54e6a1b5e75d67]
+#### 18. The Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^c-0bda1c0a85cd9519ba54e6a1b5e75d67]
 
 In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention) (Recruitment and Placement) Regulations 2014[^f00046], in the definition of “sea-going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 19. The Merchant Shipping (Survey and Certification) Regulations 2015[^key-17b42b57d153d30b90bc0977841a88f8]
+#### 19. The Merchant Shipping (Survey and Certification) Regulations 2015[^c-17b42b57d153d30b90bc0977841a88f8]
 
 In regulation 5(2)(c) of the Merchant Shipping (Survey and Certification) Regulations 2015[^f00047], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 20. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^key-c3401a49be0251cf5a3e06b8b5ec7f2f]
+#### 20. The Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^c-c3401a49be0251cf5a3e06b8b5ec7f2f]
 
 In regulation 3(1) of the Merchant Shipping (Standards of Training, Certification and Watchkeeping) Regulations 2015[^f00048], in the definition of “high speed craft”, for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 21. The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^key-e12371ebdb0d17309b6ba5b4c3daad60]
+#### 21. The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^c-e12371ebdb0d17309b6ba5b4c3daad60]
 
 In regulation 2(1) of the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018[^f00049], in the definition of “sea-going”, in sub-paragraph (d), for “regulation 8 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 14 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 22. The Merchant Shipping (Fees) Regulations 2018[^key-049da90f0f095ac2766a4152727602cd]
+#### 22. The Merchant Shipping (Fees) Regulations 2018[^c-049da90f0f095ac2766a4152727602cd]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00050] are amended as follows.
 
-**23.**[^key-ecb37b70bde6c9c5d907f30cf9d3d311] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption)—
+**23.**[^c-ecb37b70bde6c9c5d907f30cf9d3d311] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption)—
 
 - (a) in Section I (construction and equipment)—
   - (i) omit the entry for the Merchant Shipping (High Speed Craft) Regulations 2004;
@@ -557,28 +557,28 @@ The Merchant Shipping (Fees) Regulations 2018[^f00050] are amended as follows.
 
   .
 
-#### 24. The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^key-083fbfcbde258a4c0da014a5e0d29cae]
+#### 24. The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^c-083fbfcbde258a4c0da014a5e0d29cae]
 
 In regulation 29(4)(b) of the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^f00051], for “regulation 6 of the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “regulation 9 of the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 25. The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020[^key-d83d20c525cb65bc94bdb6f32c311458]
+#### 25. The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020[^c-d83d20c525cb65bc94bdb6f32c311458]
 
 In regulation 4(2)(i) of the Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020[^f00052], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 26. The Merchant Shipping (Safety of Navigation) Regulations 2020[^key-36241f3efa776f039d3513f766ae6afa]
+#### 26. The Merchant Shipping (Safety of Navigation) Regulations 2020[^c-36241f3efa776f039d3513f766ae6afa]
 
 The Merchant Shipping (Safety of Navigation) Regulations 2020[^f00053] are amended as follows.
 
-**27.**[^key-dbecd3d0ebe433f29def1ab14892f884] In—
+**27.**[^c-dbecd3d0ebe433f29def1ab14892f884] In—
 
 - (a) regulation 5(3)(a), for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”;
 - (b) the Schedule, in Part 2 (revocations), omit the entry relating to “The Merchant Shipping (High Speed Craft) Regulations 2004”.
 
-#### 28. The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^key-4ec7c82a1217c44a794344bdcc732f20]
+#### 28. The Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^c-4ec7c82a1217c44a794344bdcc732f20]
 
 In regulation 4(2)(j) of the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021[^f00054], for “the Merchant Shipping (High Speed Craft) Regulations 2004” substitute “the Merchant Shipping (High Speed Craft) Regulations 2022”.
 
-#### 29. The Merchant Shipping and Fishing Vessels (Entry into Enclosed Spaces) Regulations 2022[^key-49a10e2e589bc1ecc8cd0229e4980599]
+#### 29. The Merchant Shipping and Fishing Vessels (Entry into Enclosed Spaces) Regulations 2022[^c-49a10e2e589bc1ecc8cd0229e4980599]
 
 In regulation 5(2) of the Merchant Shipping and Fishing Vessels (Entry into Enclosed Spaces) Regulations 2022[^f00055], for sub-paragraph (d), substitute—
 
@@ -587,7 +587,7 @@ In regulation 5(2) of the Merchant Shipping and Fishing Vessels (Entry into Encl
 
 .
 
-### PART 2 — Revocations[^key-443b5bbb7e95cadb7b2a62ef7cc60a46]
+### PART 2 — Revocations[^c-443b5bbb7e95cadb7b2a62ef7cc60a46]
 
 | Regulations revoked | References | Extent of revocation |
 | --- | --- | --- |
@@ -635,15 +635,15 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. There are other amendments but none is relevant. Sections 85 and 86 are to applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-6fbab2f12bc27d3e05243c45923e8fd8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/1219) excluded in part (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-6fbab2f12bc27d3e05243c45923e8fd8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/1219) excluded in part (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/1216/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1216/schedule/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
 [^f00002]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 13(1) was amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), Schedule 5, paragraph 54.
 
-[^key-7147656801e57f2d8a082f3be29caa15]: Commencement: Reg. 1 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-7147656801e57f2d8a082f3be29caa15]: Commencement: Reg. 1 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-888eaddac669e4ec51d04a13684350b1]: Commencement: Reg. 2 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-888eaddac669e4ec51d04a13684350b1]: Commencement: Reg. 2 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-4f4860bbb2138616ed0caead91593a9b]: Commencement: Reg. 3 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-4f4860bbb2138616ed0caead91593a9b]: Commencement: Reg. 3 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00003]: Footnote: Chapter X in the Annex to the Convention (see the footnote to the definition of Convention in this regulation) was adopted by International Maritime Organization (IMO) Resolution MSC.36(63) on 24th May 1994 and came into force on 1st January 1996. Chapter X has been amended by IMO Resolution MSC.99(73) (Cm 6001). The amendment to Chapter X is available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/).
 
@@ -659,51 +659,51 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00009]: Footnote: Merchant Shipping Notice 1837 (M) was published in April 2013 and is available on https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/563028/MSN1837.pdf and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-64442848c7ccf49877ef2916a2cdaacf]: Commencement: Reg. 4 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-64442848c7ccf49877ef2916a2cdaacf]: Commencement: Reg. 4 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-2b07ace0061c21aef8c5ace124f15a61]: Textual amendment: Words in reg. 4(1)(c)(ii) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(a)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-2b07ace0061c21aef8c5ace124f15a61]: Textual amendment: Words in reg. 4(1)(c)(ii) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(a)(i)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/a/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-c28c35ccfd93da08567b8e22c7bc145f]: Textual amendment: Words in reg. 4(1)(c)(iv) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-c28c35ccfd93da08567b8e22c7bc145f]: Textual amendment: Words in reg. 4(1)(c)(iv) omitted (19.1.2026) by virtue of [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/a/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-22384edcd60402dc1c83182782aef344]: Textual amendment: Words in reg. 4(2)(h) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/19) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-22384edcd60402dc1c83182782aef344]: Textual amendment: Words in reg. 4(2)(h) substituted (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2025/1195/schedule/1/paragraph/19) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-6cae72c6bb06ab670ab419fd34d660fa]: Textual amendment: Words in reg. 4(2)(i) substituted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/5/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-6cae72c6bb06ab670ab419fd34d660fa]: Textual amendment: Words in reg. 4(2)(i) substituted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/5/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
-[^key-25e1f883a837921195b0602daafc2074]: Textual amendment: Reg. 4(2)(j) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-25e1f883a837921195b0602daafc2074]: Textual amendment: Reg. 4(2)(j) substituted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
 [^f00013]: Footnote: Regulation 33 of Chapter V in the Annex to the Convention places an obligation on the master to provide assistance to persons in distress at sea and this obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)).
 
-[^key-defcae1b1dc93e581bd78162846d8e20]: Textual amendment: Reg. 4(5) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-defcae1b1dc93e581bd78162846d8e20]: Textual amendment: Reg. 4(5) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/21/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-548edf0c2cf42de6bf22a7aa7c812ac4]: Commencement: Reg. 5 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-548edf0c2cf42de6bf22a7aa7c812ac4]: Commencement: Reg. 5 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-14041c29cf2cd57bc5a027735ef44ff8]: Commencement: Reg. 6 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-14041c29cf2cd57bc5a027735ef44ff8]: Commencement: Reg. 6 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-fd9fde94ec86e891fdaaefd80f338976]: Commencement: Reg. 7 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-fd9fde94ec86e891fdaaefd80f338976]: Commencement: Reg. 7 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-b01ac06ea32031cd0579858dedc7de32]: Commencement: Reg. 8 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-b01ac06ea32031cd0579858dedc7de32]: Commencement: Reg. 8 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-7690081b264ea9b317ce55765ce06893]: Commencement: Reg. 9 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-7690081b264ea9b317ce55765ce06893]: Commencement: Reg. 9 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-5bb565aa7a0bd4a622259dbf3957b7ef]: Textual amendment: Words in reg. 9(1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-5bb565aa7a0bd4a622259dbf3957b7ef]: Textual amendment: Words in reg. 9(1) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(a)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
 [^f00014]: Footnote: Merchant Shipping Notice 1672 (M+F) Amendment 4 was published on 18th December 2020 and is available on https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/946254/MSN\_1672\_Amendment\_4\_-\_FINAL.pdf and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-9de27e75d8190b8f61847dffab3ad849]: Textual amendment: Words in reg. 9(2) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-9de27e75d8190b8f61847dffab3ad849]: Textual amendment: Words in reg. 9(2) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(b)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-eda186b7f7ee2e9ae809fd5e55543a67]: Textual amendment: Reg. 9(2A) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-eda186b7f7ee2e9ae809fd5e55543a67]: Textual amendment: Reg. 9(2A) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(c)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-cb026f6e04c866c0029c4bbe6d8a161d]: Textual amendment: Word in reg. 9(5) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(d)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
+[^c-cb026f6e04c866c0029c4bbe6d8a161d]: Textual amendment: Word in reg. 9(5) inserted (19.1.2026) by [The Merchant Shipping (Safety Measures for Ships Carrying Industrial Personnel and Special Personnel) Regulations 2025 (S.I. 2025/1298)](https://www.legislation.gov.uk/uksi/2025/1298), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1298/regulation/1/1), [Sch. para. 22(d)](https://www.legislation.gov.uk/uksi/2025/1298/schedule/paragraph/22/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1298/regulation/4))
 
-[^key-c6cc068ee578a47f5db39a82a8ee6b4e]: Textual amendment: Word in reg. 9(6)(a) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/20) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-c6cc068ee578a47f5db39a82a8ee6b4e]: Textual amendment: Word in reg. 9(6)(a) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/20) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^f00016]: Footnote: Merchant Shipping Notice 1874 (M+F) Amendment 5 is available on https://www.gov.uk/government/publications/msn-1874mf-amendment-5-marine-directive-other-approval-and-standards and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-52b5a105acc79a4a29f0877ca6add6e1]: Commencement: Reg. 10 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-52b5a105acc79a4a29f0877ca6add6e1]: Commencement: Reg. 10 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-f29886835bf5863f0997a5d95367f52c]: Commencement: Reg. 11 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-f29886835bf5863f0997a5d95367f52c]: Commencement: Reg. 11 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-d3607e41840c5c5cfb5759d0094f63e6]: Commencement: Reg. 12 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-d3607e41840c5c5cfb5759d0094f63e6]: Commencement: Reg. 12 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00017]: Footnote: The “Recommendation on the design and operation of passenger ships to respond to elderly and disabled persons’ needs” dated 24th June 1996 was approved by the Maritime Safety Committee of the International Maritime Organization. The Recommendation is available from the International Maritime Organization (IMO) of 4 Albert Embankment, London SE1 7SR or may be obtained in copy from the IMO or the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
@@ -715,15 +715,15 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00021]: Footnote: OJ L 315, 30.11.2017, p. 40.
 
-[^key-cc06f690b0aed090e7537d46d13ea164]: Commencement: Reg. 13 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-cc06f690b0aed090e7537d46d13ea164]: Commencement: Reg. 13 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-a5c08101c716c5765939ada099fa5353]: Commencement: Reg. 14 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-a5c08101c716c5765939ada099fa5353]: Commencement: Reg. 14 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-a1eb5de172d4ecd50f9c66805d523c74]: Commencement: Reg. 15 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-a1eb5de172d4ecd50f9c66805d523c74]: Commencement: Reg. 15 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-a61685e95f39610fe6b9573c226d89cc]: Commencement: Reg. 16 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-a61685e95f39610fe6b9573c226d89cc]: Commencement: Reg. 16 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-4ddad502cf67c6a443719c1f1288fc64]: Commencement: Reg. 17 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-4ddad502cf67c6a443719c1f1288fc64]: Commencement: Reg. 17 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00022]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -731,11 +731,11 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00024]: Footnote: Section 95 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 2.
 
-[^key-7dbc014557958f8edee7ca906831d12d]: Commencement: Reg. 18 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-7dbc014557958f8edee7ca906831d12d]: Commencement: Reg. 18 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00025]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8.
 
-[^key-d1390be2692cd4334106344efdc65091]: Commencement: Sch. para. 1 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-d1390be2692cd4334106344efdc65091]: Commencement: Sch. para. 1 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 1972/674](https://www.legislation.gov.uk/uksi/1972/674). Article 7A was inserted by [S.I. 1996/3173](https://www.legislation.gov.uk/uksi/1996/3173) and amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302). Article 17A was inserted by [S.I. 1996/3173](https://www.legislation.gov.uk/uksi/1996/3173). There are other amending instruments but none is relevant.
 
@@ -745,112 +745,112 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00029]: Footnote: [S.I. 1996/3188](https://www.legislation.gov.uk/uksi/1996/3188), revoked by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302).
 
-[^key-8218744cb69fa1598e1dd1a57ae9f278]: Commencement: Sch. para. 2 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-8218744cb69fa1598e1dd1a57ae9f278]: Commencement: Sch. para. 2 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00030]: Footnote: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-16ccf575eda8016a6cfed469773ebe47]: Commencement: Sch. para. 3 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-16ccf575eda8016a6cfed469773ebe47]: Commencement: Sch. para. 3 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962). The definition of “sea-going” was inserted by [S.I. 2014/1616](https://www.legislation.gov.uk/uksi/2014/1616); there are other amending instruments but none is relevant.
 
-[^key-c5eef7b62fad75f6c2fb6f28460552d6]: Commencement: Sch. para. 4 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-c5eef7b62fad75f6c2fb6f28460552d6]: Commencement: Sch. para. 4 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 1998/1011](https://www.legislation.gov.uk/uksi/1998/1011), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-c7f1fcb79167715689ce201fc7c4f98f]: Commencement: Sch. para. 5 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-c7f1fcb79167715689ce201fc7c4f98f]: Commencement: Sch. para. 5 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 1998/1012](https://www.legislation.gov.uk/uksi/1998/1012), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-564ec151d820c0d96b1dea8aef3c5d22]: Commencement: Sch. para. 6 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-564ec151d820c0d96b1dea8aef3c5d22]: Commencement: Sch. para. 6 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), amended by [S.I. 2021/1316](https://www.legislation.gov.uk/uksi/2021/1316); there are other amending instruments but none is relevant.
 
-[^key-da886d6adeb141723f08831492d596d2]: Commencement: Sch. para. 7 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-da886d6adeb141723f08831492d596d2]: Commencement: Sch. para. 7 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00035]: Footnote: [S.I. 1998/2514](https://www.legislation.gov.uk/uksi/1998/2514), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-7d689242fe56682906d97ac749ed095d]: Commencement: Sch. para. 8 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-7d689242fe56682906d97ac749ed095d]: Commencement: Sch. para. 8 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00036]: Footnote: [S.I. 1998/2515](https://www.legislation.gov.uk/uksi/1998/2515), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-2cdd6a6bc7641546c5fd5a4d05b399ad]: Commencement: Sch. para. 9 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-2cdd6a6bc7641546c5fd5a4d05b399ad]: Commencement: Sch. para. 9 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 1999/1869](https://www.legislation.gov.uk/uksi/1999/1869), amended by [S.I. 2021/81](https://www.legislation.gov.uk/uksi/2021/81); there are other amending instruments but none is relevant.
 
-[^key-d37c68ded42032bf6ec0494284b62c1a]: Commencement: Sch. para. 10 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-d37c68ded42032bf6ec0494284b62c1a]: Commencement: Sch. para. 10 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 1999/2722](https://www.legislation.gov.uk/uksi/1999/2722), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-b867aa4e6bbb0325022557bfab377d6d]: Commencement: Sch. para. 11 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-b867aa4e6bbb0325022557bfab377d6d]: Commencement: Sch. para. 11 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2010/680](https://www.legislation.gov.uk/uksi/2010/680) and [2012/2636](https://www.legislation.gov.uk/uksi/2012/2636); there are other amending instruments but none is relevant.
 
-[^key-7918bd1ca415730fc2120e2865220fe9]: Commencement: Sch. para. 12 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-7918bd1ca415730fc2120e2865220fe9]: Commencement: Sch. para. 12 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00040]: Footnote: [S.I. 2001/3209](https://www.legislation.gov.uk/uksi/2001/3209), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302); there are other amending instruments but none is relevant.
 
-[^key-989168213ccb5bbc89d4d2ad35b29f86]: Commencement: Sch. para. 13 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-989168213ccb5bbc89d4d2ad35b29f86]: Commencement: Sch. para. 13 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00041]: Footnote: [S.I. 2010/680](https://www.legislation.gov.uk/uksi/2010/680), to which there are amendments not relevant to these Regulations.
 
-[^key-47da21458e04e0a39081e19af78766c4]: Commencement: Sch. para. 14 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-47da21458e04e0a39081e19af78766c4]: Commencement: Sch. para. 14 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00042]: Footnote: [S.I. 2010/737](https://www.legislation.gov.uk/uksi/2010/737), amended by [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614); there are other amending instruments but none is relevant.
 
-[^key-e6350a43fb08911aa1ec94d57c5b528a]: Commencement: Sch. para. 15 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-e6350a43fb08911aa1ec94d57c5b528a]: Commencement: Sch. para. 15 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00043]: Footnote: [S.I. 2013/1785](https://www.legislation.gov.uk/uksi/2013/1785), to which there are amendments not relevant to these Regulations.
 
-[^key-e7fb094345f212678698e3c863611ad3]: Commencement: Sch. para. 16 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-e7fb094345f212678698e3c863611ad3]: Commencement: Sch. para. 16 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00044]: Footnote: [S.I. 2014/1512](https://www.legislation.gov.uk/uksi/2014/1512), to which there are amendments not relevant to these Regulations.
 
-[^key-a16fd43aa08230c186f85192c7e4bec1]: Commencement: Sch. para. 17 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-a16fd43aa08230c186f85192c7e4bec1]: Commencement: Sch. para. 17 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00045]: Footnote: [S.I. 2014/1613](https://www.legislation.gov.uk/uksi/2014/1613), to which there are amendments not relevant to these Regulations.
 
-[^key-0bda1c0a85cd9519ba54e6a1b5e75d67]: Commencement: Sch. para. 18 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-0bda1c0a85cd9519ba54e6a1b5e75d67]: Commencement: Sch. para. 18 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00046]: Footnote: [S.I. 2014/1615](https://www.legislation.gov.uk/uksi/2014/1615), to which there are amendments not relevant to these Regulations.
 
-[^key-17b42b57d153d30b90bc0977841a88f8]: Commencement: Sch. para. 19 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-17b42b57d153d30b90bc0977841a88f8]: Commencement: Sch. para. 19 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00047]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), to which there are amendments not relevant to these Regulations.
 
-[^key-c3401a49be0251cf5a3e06b8b5ec7f2f]: Commencement: Sch. para. 20 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-c3401a49be0251cf5a3e06b8b5ec7f2f]: Commencement: Sch. para. 20 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00048]: Footnote: [S.I. 2015/782](https://www.legislation.gov.uk/uksi/2015/782), to which there are amendments not relevant to these Regulations.
 
-[^key-e12371ebdb0d17309b6ba5b4c3daad60]: Commencement: Sch. para. 21 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-e12371ebdb0d17309b6ba5b4c3daad60]: Commencement: Sch. para. 21 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00049]: Footnote: [S.I. 2018/58](https://www.legislation.gov.uk/uksi/2018/58), to which there are amendments not relevant to these Regulations.
 
-[^key-049da90f0f095ac2766a4152727602cd]: Commencement: Sch. para. 22 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-049da90f0f095ac2766a4152727602cd]: Commencement: Sch. para. 22 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00050]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-ecb37b70bde6c9c5d907f30cf9d3d311]: Commencement: Sch. para. 23 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-ecb37b70bde6c9c5d907f30cf9d3d311]: Commencement: Sch. para. 23 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-083fbfcbde258a4c0da014a5e0d29cae]: Commencement: Sch. para. 24 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-083fbfcbde258a4c0da014a5e0d29cae]: Commencement: Sch. para. 24 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00051]: Footnote: [S.I. 2019/42](https://www.legislation.gov.uk/uksi/2019/42), to which there are amendments not relevant to these Regulations.
 
-[^key-d83d20c525cb65bc94bdb6f32c311458]: Commencement: Sch. para. 25 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-d83d20c525cb65bc94bdb6f32c311458]: Commencement: Sch. para. 25 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00052]: Footnote: [S.I. 2020/501](https://www.legislation.gov.uk/uksi/2020/501).
 
-[^key-36241f3efa776f039d3513f766ae6afa]: Commencement: Sch. para. 26 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-36241f3efa776f039d3513f766ae6afa]: Commencement: Sch. para. 26 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00053]: Footnote: [S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673).
 
-[^key-dbecd3d0ebe433f29def1ab14892f884]: Commencement: Sch. para. 27 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-dbecd3d0ebe433f29def1ab14892f884]: Commencement: Sch. para. 27 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
-[^key-4ec7c82a1217c44a794344bdcc732f20]: Commencement: Sch. para. 28 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-4ec7c82a1217c44a794344bdcc732f20]: Commencement: Sch. para. 28 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00054]: Footnote: [S.I. 2021/1316](https://www.legislation.gov.uk/uksi/2021/1316).
 
-[^key-49a10e2e589bc1ecc8cd0229e4980599]: Commencement: Sch. para. 29 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-49a10e2e589bc1ecc8cd0229e4980599]: Commencement: Sch. para. 29 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
 
 [^f00055]: Footnote: [S.I. 2022/96](https://www.legislation.gov.uk/uksi/2022/96).
 
-[^key-443b5bbb7e95cadb7b2a62ef7cc60a46]: Commencement: Sch. Pt. 2 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)
+[^c-443b5bbb7e95cadb7b2a62ef7cc60a46]: Commencement: Sch. Pt. 2 in force at 19.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1)

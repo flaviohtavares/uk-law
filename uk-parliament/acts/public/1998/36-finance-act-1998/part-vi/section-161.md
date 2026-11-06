@@ -27,7 +27,7 @@ summary: ''
 
 (2) Where a gilt-edged security falls to be treated as mentioned in subsection (1) above that treatment shall have effect—
 
-- (a) for the purposes of Chapter 2 of Part 12 of the Income Tax Act 2007 (accrued income profits) in relation only to accrued income profits which a person is treated as making under section 628(5) or 630(2) of that Act[^key-66f7eb83326b2187ac21528d3ec8d8f3] on or after 6th April 1998;
+- (a) for the purposes of Chapter 2 of Part 12 of the Income Tax Act 2007 (accrued income profits) in relation only to accrued income profits which a person is treated as making under section 628(5) or 630(2) of that Act[^c-66f7eb83326b2187ac21528d3ec8d8f3] on or after 6th April 1998;
 - (b) for the other purposes of the Tax Acts, in relation only to payments of interest falling due on or after that date; and
 - (c) for the purposes of the [^c16422911]Inheritance Tax Act 1984, in relation only to a determination of whether property is excluded property at a time falling on or after that date.
 
@@ -45,7 +45,7 @@ summary: ''
 
 [^c16422901]: Marginal citation: [1931 c. 49](https://www.legislation.gov.uk/ukpga/1931/49).
 
-[^key-66f7eb83326b2187ac21528d3ec8d8f3]: Textual amendment: Words in [s. 161(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/161/2/a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 384](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/384) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-66f7eb83326b2187ac21528d3ec8d8f3]: Textual amendment: Words in [s. 161(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/161/2/a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 384](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/384) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c16422911]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 

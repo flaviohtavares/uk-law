@@ -44,13 +44,13 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], in exerci
 
 There has been open and transparent public consultation during the preparation of these Regulations as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003], laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 1. Citation, commencement and interpretation[^key-4d5e37f4c799a75d197a19426d90679d]
+## 1. Citation, commencement and interpretation[^c-4d5e37f4c799a75d197a19426d90679d]
 
 (1) These Regulations may be cited as the Hops Certification (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 18th October 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004], shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Hops Certification Regulations 1979[^key-7be1d0064c71e55703bdacf92e8b48e2]
+## 2. Amendments to the Hops Certification Regulations 1979[^c-7be1d0064c71e55703bdacf92e8b48e2]
 
 (1) The Hops Certification Regulations 1979[^f00005] are amended as follows—
 
@@ -104,11 +104,11 @@ A regulatory impact assessment has not been produced for this instrument as no, 
 
 [^f00003]: Footnote: OJ No. L 31, 1.2.2002, p. 1, as amended by [Commission Regulation (EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (OJ No. L 60, 4.3.2008, p. 17).
 
-[^key-4d5e37f4c799a75d197a19426d90679d]: Commencement: Reg. 1 in operation at 18.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/171/regulation/1/1)
+[^c-4d5e37f4c799a75d197a19426d90679d]: Commencement: Reg. 1 in operation at 18.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/171/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-7be1d0064c71e55703bdacf92e8b48e2]: Commencement: Reg. 2 in operation at 18.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/171/regulation/1/1)
+[^c-7be1d0064c71e55703bdacf92e8b48e2]: Commencement: Reg. 2 in operation at 18.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/171/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 1979 No. 1095](https://www.legislation.gov.uk/uksi/1979/1095) as amended by [S.I. 2020 No. 1453](https://www.legislation.gov.uk/uksi/2020/1453).
 

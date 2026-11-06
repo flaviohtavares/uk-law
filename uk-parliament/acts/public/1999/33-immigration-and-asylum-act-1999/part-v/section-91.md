@@ -27,7 +27,7 @@ summary: ''
 
 (2) “**Restraining order**” means—
 
-- (a) a direction given by the First-tier Tribunal[^key-5208dc3dbd1f76ee18caa9da9c1b67f9] under section 89(8) or paragraph 9(3) of Schedule 5; or
+- (a) a direction given by the First-tier Tribunal[^c-5208dc3dbd1f76ee18caa9da9c1b67f9] under section 89(8) or paragraph 9(3) of Schedule 5; or
 - (b) an order made by a disciplinary body under section 90(1).
 
 (3) If an offence under this section committed by a body corporate is proved—
@@ -52,4 +52,4 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-5208dc3dbd1f76ee18caa9da9c1b67f9]: Textual amendment: Words in [s. 91(2)(a)](https://www.legislation.gov.uk/ukpga/1999/33/section/91/2/a) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/38) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-5208dc3dbd1f76ee18caa9da9c1b67f9]: Textual amendment: Words in [s. 91(2)(a)](https://www.legislation.gov.uk/ukpga/1999/33/section/91/2/a) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/38) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

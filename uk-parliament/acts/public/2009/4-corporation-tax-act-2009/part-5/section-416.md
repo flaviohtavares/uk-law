@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 416. Election for application of sections 415 and 585[^key-9a058669e0667dbb9aaa9a5c6dbc4740][^key-25d1c0213fbdd024ae144267744bce1d][^key-25d1c0213fbdd024ae144267744bce1d]
+## 416. Election for application of sections 415 and 585[^c-9a058669e0667dbb9aaa9a5c6dbc4740][^c-25d1c0213fbdd024ae144267744bce1d][^c-25d1c0213fbdd024ae144267744bce1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) The election has effect in relation to all relevant assets held by the company including those subsequently acquired, except as provided in subsection (4).
 
-(4)[^key-702f81ac94cf28d9925546762546f93e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-702f81ac94cf28d9925546762546f93e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If an election is made under this section, sections 315 to 318 (adjustments on change of accounting policy) apply as if there were a change of accounting policy consisting of the company treating its relevant assets as mentioned in section 415(1) as from the date the election has effect.
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9a058669e0667dbb9aaa9a5c6dbc4740]: Modification: S. 416 excluded (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/3/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/3209/regulation/8))
+[^c-9a058669e0667dbb9aaa9a5c6dbc4740]: Modification: S. 416 excluded (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/3/2/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/3209/regulation/8))
 
-[^key-25d1c0213fbdd024ae144267744bce1d]: Modification: Pt. 5 modified (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [11(3)-(6)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/11/3)
+[^c-25d1c0213fbdd024ae144267744bce1d]: Modification: Pt. 5 modified (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [11(3)-(6)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/11/3)
 
-[^key-702f81ac94cf28d9925546762546f93e]: Textual amendment: S. 416(4) omitted (19.7.2011) (with effect in accordance with Sch. 5 para. 7(3)(4) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/7/2/c)
+[^c-702f81ac94cf28d9925546762546f93e]: Textual amendment: S. 416(4) omitted (19.7.2011) (with effect in accordance with Sch. 5 para. 7(3)(4) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/7/2/c)

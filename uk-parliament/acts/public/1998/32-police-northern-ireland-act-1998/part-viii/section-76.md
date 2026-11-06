@@ -22,7 +22,7 @@ summary: ''
 
 (1) Except as provided by subsections (2) and (3), this Act extends to Northern Ireland only.
 
-(2)[^key-3284a418a6cef9432f20e9b79722ecb1] Paragraph 8 of Schedule 3 extends throughout the United Kingdom.
+(2)[^c-3284a418a6cef9432f20e9b79722ecb1] Paragraph 8 of Schedule 3 extends throughout the United Kingdom.
 
 (3) The amendment or repeal by this Act of any provision of—
 
@@ -41,7 +41,7 @@ has the same extent as that provision.
 
 [^c1371972]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/1998/32/section/76) partly in force; [s. 76](https://www.legislation.gov.uk/ukpga/1998/32/section/76) not in force at Royal Assent see [s. 75(1)](https://www.legislation.gov.uk/ukpga/1998/32/section/75/1); [s. 76(1)](https://www.legislation.gov.uk/ukpga/1998/32/section/76/1) in force at 8.10.1998 by [S.R. 1998/346](https://www.legislation.gov.uk/nisr/1998/346), [art. 3](https://www.legislation.gov.uk/nisr/1998/346/article/3); [s. 76(3)](https://www.legislation.gov.uk/ukpga/1998/32/section/76/3) in force at 1.4.1999 by [S.R. 1999/176](https://www.legislation.gov.uk/nisr/1999/176), [art. 3](https://www.legislation.gov.uk/nisr/1999/176/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1999/176/article/4))
 
-[^key-3284a418a6cef9432f20e9b79722ecb1]: Commencement: [S. 76(2)](https://www.legislation.gov.uk/ukpga/1998/32/section/76/2) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
+[^c-3284a418a6cef9432f20e9b79722ecb1]: Commencement: [S. 76(2)](https://www.legislation.gov.uk/ukpga/1998/32/section/76/2) in force at 21.2.2003 by [S.R. 2003/142](https://www.legislation.gov.uk/nisr/2003/142), [art. 3](https://www.legislation.gov.uk/nisr/2003/142/article/3)
 
 [^c1371973]: Marginal citation: [1945 c. 17](https://www.legislation.gov.uk/ukpga/1945/17).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Application and modification of legislative provisions[^key-4ee856bb6051c85f1bfa503590e4ae0c]
+## 18. Application and modification of legislative provisions[^c-4ee856bb6051c85f1bfa503590e4ae0c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the modifications set out in Schedule 4 (modification of compensation
 
 ## Annotations
 
-[^key-4ee856bb6051c85f1bfa503590e4ae0c]: Commencement: Art. 18 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-4ee856bb6051c85f1bfa503590e4ae0c]: Commencement: Art. 18 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

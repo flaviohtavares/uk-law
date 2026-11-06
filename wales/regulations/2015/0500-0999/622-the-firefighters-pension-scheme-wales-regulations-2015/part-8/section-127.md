@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Employer additional contribution: ill-health award[^key-11513a244097bf3dc9fd2ad249b9ffa8]
+## 127. Employer additional contribution: ill-health award[^c-11513a244097bf3dc9fd2ad249b9ffa8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11513a244097bf3dc9fd2ad249b9ffa8]: Commencement: Reg. 127 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-11513a244097bf3dc9fd2ad249b9ffa8]: Commencement: Reg. 127 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

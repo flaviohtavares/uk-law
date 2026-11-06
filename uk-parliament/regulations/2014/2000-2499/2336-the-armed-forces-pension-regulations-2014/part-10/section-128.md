@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Non assignability[^key-32c5bafb480f25e7105561daf96183d9]
+## 128. Non assignability[^c-32c5bafb480f25e7105561daf96183d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32c5bafb480f25e7105561daf96183d9]: Commencement: [Reg. 128](https://www.legislation.gov.uk/uksi/2014/2336/regulation/128) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-32c5bafb480f25e7105561daf96183d9]: Commencement: [Reg. 128](https://www.legislation.gov.uk/uksi/2014/2336/regulation/128) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

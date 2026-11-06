@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Government guarantees for NDA borrowing[^key-044e69626b7fa799ca5d9f732ceb8e72]
+## 25. Government guarantees for NDA borrowing[^c-044e69626b7fa799ca5d9f732ceb8e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-044e69626b7fa799ca5d9f732ceb8e72]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2004/20/section/25) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-044e69626b7fa799ca5d9f732ceb8e72]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2004/20/section/25) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

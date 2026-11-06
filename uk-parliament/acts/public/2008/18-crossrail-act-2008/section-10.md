@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Planning: general[^key-b977dce45d5abbf589427a75d373f598][^key-76af34f8f8761f53181fc5a082485046]
+## 10. Planning: general[^c-b977dce45d5abbf589427a75d373f598][^c-76af34f8f8761f53181fc5a082485046]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ and it is not exempt development within the meaning of those regulations.
 
 ## Annotations
 
-[^key-b977dce45d5abbf589427a75d373f598]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/2008/18/section/10) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-b977dce45d5abbf589427a75d373f598]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/2008/18/section/10) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-76af34f8f8761f53181fc5a082485046]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/2008/18/section/10) applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)[Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/2)
+[^c-76af34f8f8761f53181fc5a082485046]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/2008/18/section/10) applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)[Sch. 4 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/2)

@@ -35,7 +35,7 @@ NATIONAL HEALTH SERVICE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Integrated Family Support Teams (Family Support Functions) (Wales) Regulations 2010 (revoked)[^key-5d03fc11c80adff91d93bb83f4f89915]
+The Integrated Family Support Teams (Family Support Functions) (Wales) Regulations 2010 (revoked)[^c-5d03fc11c80adff91d93bb83f4f89915]
 
 Made
 
@@ -49,30 +49,30 @@ Coming into force
 
 1 September 2010
 
-[^key-5d03fc11c80adff91d93bb83f4f89915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d03fc11c80adff91d93bb83f4f89915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-5d03fc11c80adff91d93bb83f4f89915]
+## 1. Citation, commencement, interpretation and application[^c-5d03fc11c80adff91d93bb83f4f89915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Family support functions[^key-5d03fc11c80adff91d93bb83f4f89915]
+## 2. Family support functions[^c-5d03fc11c80adff91d93bb83f4f89915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d03fc11c80adff91d93bb83f4f89915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d03fc11c80adff91d93bb83f4f89915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-5d03fc11c80adff91d93bb83f4f89915]
+## SCHEDULE 1[^c-5d03fc11c80adff91d93bb83f4f89915]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5d03fc11c80adff91d93bb83f4f89915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d03fc11c80adff91d93bb83f4f89915]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d03fc11c80adff91d93bb83f4f89915]: Textual amendment: Regulations revoked (28.2.2012) by [The Integrated Family Support Teams (Family Support Functions) (Wales) Regulations 2012 (S.I. 2012/204)](https://www.legislation.gov.uk/uksi/2012/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/204/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/204/regulation/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/204/regulation/1/3))
+[^c-5d03fc11c80adff91d93bb83f4f89915]: Textual amendment: Regulations revoked (28.2.2012) by [The Integrated Family Support Teams (Family Support Functions) (Wales) Regulations 2012 (S.I. 2012/204)](https://www.legislation.gov.uk/uksi/2012/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/204/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/204/regulation/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/204/regulation/1/3))

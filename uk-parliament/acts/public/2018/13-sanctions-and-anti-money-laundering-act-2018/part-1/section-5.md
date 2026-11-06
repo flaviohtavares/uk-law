@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Trade sanctions[^key-0f5c011b655dd649c8dde10ef3b8a39c]
+## 5. Trade sanctions[^c-0f5c011b655dd649c8dde10ef3b8a39c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f5c011b655dd649c8dde10ef3b8a39c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/13/section/5) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-0f5c011b655dd649c8dde10ef3b8a39c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/13/section/5) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

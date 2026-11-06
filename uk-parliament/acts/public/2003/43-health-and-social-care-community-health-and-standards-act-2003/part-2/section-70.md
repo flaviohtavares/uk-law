@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Reviews and investigations relating to Wales[^key-b7cc5e03188b82e11cfdb5f71bfa59f9]
+## 70. Reviews and investigations relating to Wales[^c-b7cc5e03188b82e11cfdb5f71bfa59f9]
 
 *Extent: E+W*
 
@@ -28,9 +28,9 @@ summary: ''
 - (b) a review of the overall provision of a particular kind of health care by and for Welsh NHS bodies;
 - (c) a review of, or investigation into, the provision of any health care by or for a particular Welsh NHS body.
 
-(3) The Assembly has the function of conducting reviews of the steps taken by a Welsh NHS body for the purpose of discharging a duty under section 12A(1), 20A(1) or 24A(1) of the National Health Service (Wales) Act 2006 (duties to secure quality in the provision of health services).[^key-2e08c5593438671c4634b656e95f71d0]
+(3) The Assembly has the function of conducting reviews of the steps taken by a Welsh NHS body for the purpose of discharging a duty under section 12A(1), 20A(1) or 24A(1) of the National Health Service (Wales) Act 2006 (duties to secure quality in the provision of health services).[^c-2e08c5593438671c4634b656e95f71d0]
 
-(3A)[^key-22be807cd4e035fcdf37d01740c78d2c] Before conducting a review under this section the Assembly must—
+(3A)[^c-22be807cd4e035fcdf37d01740c78d2c] Before conducting a review under this section the Assembly must—
 
 - (a) consult the Auditor General for Wales, and
 - (b) take into account any relevant work done or being done by the Auditor General for Wales.
@@ -55,8 +55,8 @@ and must take into account the standards set out in statements published under s
 
 ## Annotations
 
-[^key-b7cc5e03188b82e11cfdb5f71bfa59f9]: Commencement: S. 70 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)
+[^c-b7cc5e03188b82e11cfdb5f71bfa59f9]: Commencement: S. 70 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)
 
-[^key-2e08c5593438671c4634b656e95f71d0]: Textual amendment: Words in [s. 70(3)](https://www.legislation.gov.uk/ukpga/2003/43/section/70/3) substituted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/4); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-2e08c5593438671c4634b656e95f71d0]: Textual amendment: Words in [s. 70(3)](https://www.legislation.gov.uk/ukpga/2003/43/section/70/3) substituted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/4); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-22be807cd4e035fcdf37d01740c78d2c]: Textual amendment: S. 70(3A) inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/60); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)
+[^c-22be807cd4e035fcdf37d01740c78d2c]: Textual amendment: S. 70(3A) inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/60); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1)

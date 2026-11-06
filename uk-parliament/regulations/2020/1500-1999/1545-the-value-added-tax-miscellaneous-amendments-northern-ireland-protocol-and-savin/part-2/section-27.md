@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27.[^key-eb91ae7354eb217abb46eedd2b404bcc]
+## 27.[^c-eb91ae7354eb217abb46eedd2b404bcc]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ For article 2 substitute—
 
 ## Annotations
 
-[^key-eb91ae7354eb217abb46eedd2b404bcc]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-eb91ae7354eb217abb46eedd2b404bcc]: Commencement: Reg. 27 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394951]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Part 1 is amended by section 2 of TPTPA.
 

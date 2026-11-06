@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Powers following an investigation[^key-cc84fd0e0b9afb3fb90e973bf615d647]
+## 126. Powers following an investigation[^c-cc84fd0e0b9afb3fb90e973bf615d647]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc84fd0e0b9afb3fb90e973bf615d647]: Commencement: [S. 126](https://www.legislation.gov.uk/anaw/2016/2/section/126) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-cc84fd0e0b9afb3fb90e973bf615d647]: Commencement: [S. 126](https://www.legislation.gov.uk/anaw/2016/2/section/126) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

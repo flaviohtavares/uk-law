@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Solemnization of marriage according to rites of Church of England[^key-6ce520866342e58acf2716ad8898f892]
+## 57. Solemnization of marriage according to rites of Church of England[^c-6ce520866342e58acf2716ad8898f892]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ce520866342e58acf2716ad8898f892]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2014/22/section/57) in force at 2.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/371/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/371/article/5))
+[^c-6ce520866342e58acf2716ad8898f892]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2014/22/section/57) in force at 2.3.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/371/article/2/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/371/article/5))

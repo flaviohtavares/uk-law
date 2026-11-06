@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 15(7), 17(4) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b86a8b8a35583048ce24c821c89a4de4]
+## 1. Citation, commencement and interpretation[^c-b86a8b8a35583048ce24c821c89a4de4]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005 and shall come into operation on 27th April 2005.
 
@@ -51,11 +51,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 - (b) any reference to a numbered Article is a reference to the Article of the Order bearing that number; and
 - (c) any reference to a numbered section is a reference to the section of the Pension Schemes Act bearing that number.
 
-## 2. Modification of references to “transfer” in the Pension Schemes Act[^key-7020cfe89be97a62d806c79054de8e63]
+## 2. Modification of references to “transfer” in the Pension Schemes Act[^c-7020cfe89be97a62d806c79054de8e63]
 
 (1) In their application to cases where an order is made under Article 15(6) (pension liberation: Court’s power to order restitution) or 17(2)(b) (pension liberation: repatriation orders), the provisions referred to in this regulation and regulation 3 shall have effect with the modifications there specified.
 
-(2) The references to “a transfer payment” in section 67 (basic principle as to short service benefit) and any regulations made under that section,[^key-137a50bf6517214e0e18e2cedf1b826c] shall be modified so as to have effect as if those references included a reference to –
+(2) The references to “a transfer payment” in section 67 (basic principle as to short service benefit) and any regulations made under that section,[^c-137a50bf6517214e0e18e2cedf1b826c] shall be modified so as to have effect as if those references included a reference to –
 
 - (a) property or money transferred by virtue of an order made by the High Court under Article 15(4) and applied in accordance with directions contained in an order made by virtue of Article 15(6); or
 - (b) money paid by virtue of an order made by the Regulator under Article 17(2)(a) and applied in accordance with directions contained in an order made by virtue of Article 17(2)(b).
@@ -82,7 +82,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (8) From the coming into operation of paragraph 25 of Schedule 10 to the Order, the modification of section 174, and any regulations made under that section, made in paragraph (7) shall also apply to references in subsection (1)(a)(i) and (iii) and (b) of that section, and in any such regulations, to a transfer payment made in respect of accrued rights to the second scheme or to the trustees or managers of that scheme, and to a cash equivalent or cash transfer sum paid in respect of the member to the trustees or managers of the second scheme.
 
-## 3. Modification of statutory discharges in the Pension Schemes Act[^key-379567bce22351f1e6301fcbb2352cbf]
+## 3. Modification of statutory discharges in the Pension Schemes Act[^c-379567bce22351f1e6301fcbb2352cbf]
 
 (1) Section 95(1) (trustees' duties after exercise of option) shall be modified so as to have effect as if after paragraph (b) there were inserted –
 
@@ -120,17 +120,17 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-b86a8b8a35583048ce24c821c89a4de4]: Commencement: Reg. 1 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
+[^c-b86a8b8a35583048ce24c821c89a4de4]: Commencement: Reg. 1 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
 
-[^key-7020cfe89be97a62d806c79054de8e63]: Commencement: Reg. 2 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
+[^c-7020cfe89be97a62d806c79054de8e63]: Commencement: Reg. 2 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
 
-[^key-137a50bf6517214e0e18e2cedf1b826c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/2) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [22](https://www.legislation.gov.uk/nisr/2012/124/article/22)
+[^c-137a50bf6517214e0e18e2cedf1b826c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/2) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [22](https://www.legislation.gov.uk/nisr/2012/124/article/22)
 
 [^f00005]: Footnote: Section 52 is amended by paragraph 43 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 64 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and Part III (11) of Schedule 9 to the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19)
 
 [^f00006]: Footnote: Section 69 is amended by Part I of Schedule 10 to the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-379567bce22351f1e6301fcbb2352cbf]: Commencement: Reg. 3 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
+[^c-379567bce22351f1e6301fcbb2352cbf]: Commencement: Reg. 3 in operation at 27.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1)
 
 [^f00007]: Footnote: Section 97M was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 

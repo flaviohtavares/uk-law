@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Review of determinations[^key-f7d26b51f7e6f6639fd5db70eda24073]
+## 67. Review of determinations[^c-f7d26b51f7e6f6639fd5db70eda24073]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d26b51f7e6f6639fd5db70eda24073]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1988/1890/regulation/67) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-f7d26b51f7e6f6639fd5db70eda24073]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1988/1890/regulation/67) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Qualifications, tenure of office and instruments of government[^key-cf0fef8ea29970873064b5a6e377fd88]
+## 23. Qualifications, tenure of office and instruments of government[^c-cf0fef8ea29970873064b5a6e377fd88]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations 16 to 31 of, and Schedule 4 (Qualifications and disqualifications) t
 
 ## Annotations
 
-[^key-cf0fef8ea29970873064b5a6e377fd88]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/1035/regulation/23) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-cf0fef8ea29970873064b5a6e377fd88]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/1035/regulation/23) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

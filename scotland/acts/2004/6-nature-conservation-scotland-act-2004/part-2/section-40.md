@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Restoration orders[^key-404f6b713a3c6fe9f21c0b27c7e63c27][^key-a5e6633aa6281eb418847a6ad92fedc4]
+## 40. Restoration orders[^c-404f6b713a3c6fe9f21c0b27c7e63c27][^c-a5e6633aa6281eb418847a6ad92fedc4]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ the court by which the person is convicted may, in addition to dealing with the 
 
 ## Annotations
 
-[^key-404f6b713a3c6fe9f21c0b27c7e63c27]: Commencement: S. 40 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-404f6b713a3c6fe9f21c0b27c7e63c27]: Commencement: S. 40 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-a5e6633aa6281eb418847a6ad92fedc4]: Modification: S. 40 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-a5e6633aa6281eb418847a6ad92fedc4]: Modification: S. 40 applied (with modifications) by S.I. 1994/2716, regs. 19, 22 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

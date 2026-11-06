@@ -25,7 +25,7 @@ summary: ''
 - (a) determining—
   - (i) an application for planning permission under section 70 of the 1990 Act, or
   - (ii) an appeal made under section 78 of the 1990 Act in relation to the determination of such an application [^c2081354];
-- (b) deciding whether to take action under section 141(2) or (3) or 177(1)(a) or (b) of the 1990 Act [^c2081355], [^key-945a1d60537c3fe34a307adb956e13a6]... under section 35(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990 , or under paragraph 2(5) and (6) of Schedule 9 to the Historic Environment (Wales) Act 2023[^key-bf0206bf695e3861293e09f12d39ce2b];
+- (b) deciding whether to take action under section 141(2) or (3) or 177(1)(a) or (b) of the 1990 Act [^c2081355], [^c-945a1d60537c3fe34a307adb956e13a6]... under section 35(5) of the Planning (Listed Buildings and Conservation Areas) Act 1990 , or under paragraph 2(5) and (6) of Schedule 9 to the Historic Environment (Wales) Act 2023[^c-bf0206bf695e3861293e09f12d39ce2b];
 - (c) deciding whether to direct under section 90(1), (2) or (2A) of the 1990 Act [^c2081356] that planning permission must be deemed to be granted;
 - (d) deciding whether—
   - (i) in making or confirming a discontinuance order, to include in the order any grant of planning permission, or
@@ -51,9 +51,9 @@ summary: ''
 
 [^c2081355]: Marginal citation: Section 177 was amended by the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), [section 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32) and Schedule 7.
 
-[^key-945a1d60537c3fe34a307adb956e13a6]: Textual amendment: Word in [reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2011/988/regulation/17/1/b) omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [57(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/57/a)
+[^c-945a1d60537c3fe34a307adb956e13a6]: Textual amendment: Word in [reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2011/988/regulation/17/1/b) omitted (W.) (4.11.2024) by virtue of [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [57(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/57/a)
 
-[^key-bf0206bf695e3861293e09f12d39ce2b]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2011/988/regulation/17/1/b) inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [57(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/57/b)
+[^c-bf0206bf695e3861293e09f12d39ce2b]: Textual amendment: Words in [reg. 17(1)(b)](https://www.legislation.gov.uk/uksi/2011/988/regulation/17/1/b) inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [57(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/57/b)
 
 [^c2081356]: Marginal citation: Section 90(1) was amended by the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [section 78](https://www.legislation.gov.uk/ukpga/1995/25/section/78) and Schedule 10; section 90(2A) was inserted by the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [section 16(1)](https://www.legislation.gov.uk/ukpga/1992/42/section/16/1).
 

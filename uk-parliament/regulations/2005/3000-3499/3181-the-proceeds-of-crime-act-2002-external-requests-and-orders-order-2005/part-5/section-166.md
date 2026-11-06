@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Inhibition of property affected by prohibitory property order[^key-8bc3a3c25be92b7fff03049424c81e47]
+## 166. Inhibition of property affected by prohibitory property order[^c-8bc3a3c25be92b7fff03049424c81e47]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bc3a3c25be92b7fff03049424c81e47]: Commencement: [Art. 166](https://www.legislation.gov.uk/uksi/2005/3181/article/166) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-8bc3a3c25be92b7fff03049424c81e47]: Commencement: [Art. 166](https://www.legislation.gov.uk/uksi/2005/3181/article/166) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00091]: Footnote: [1868 c. 101](https://www.legislation.gov.uk/ukpga/1868/101).

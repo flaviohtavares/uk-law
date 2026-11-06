@@ -64,10 +64,10 @@ These Rules may be cited as the Court Martial Appeal Court Rules 2009 and shall 
 - “**the 2003 Act**” means the Criminal Justice Act 2003 [^c19891361];
 - “**the 2006 Act**” means the Armed Forces Act 2006;
 - “**the 2009 Regulations**” means the Armed Forces (Review of Court Martial Sentence) (Supplementary Provision) Regulations 2009 [^c19891371];
-- “[^key-2b6ac91c2939bd806d9417ed1e1f2827]**the 2024 Regulations**” means the Armed Forces (Appeals Against Review of Sentence) Regulations 2024;
+- “[^c-2b6ac91c2939bd806d9417ed1e1f2827]**the 2024 Regulations**” means the Armed Forces (Appeals Against Review of Sentence) Regulations 2024;
 - “**the court**” means the Court Martial Appeal Court;
 - “**the Commission**” means the Criminal Cases Review Commission;
-- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed;[^key-eee5602511d17efc2fc84c2945d55701]
+- “the complainant”, in relation to any offence (or alleged offence), means a person against or in relation to whom the offence was (or is alleged to have been) committed;[^c-eee5602511d17efc2fc84c2945d55701]
 - “**the court administration officer**” means the court administration officer for the Court Martial appointed under section 363 of the 2006 Act;
 - “**the custodian**” means, in relation to a person who is in custody, the person in charge of the place where he is detained;
 - “**DX**” means document exchange;
@@ -81,8 +81,8 @@ These Rules may be cited as the Court Martial Appeal Court Rules 2009 and shall 
 - “**legal representative**” means a person appointed under rule 18(1);
 - “**offender**” means a person on whom the Court Martial has passed a sentence;
 - “**person to whom proceedings relate**” means—
-  - (a) with respect to an appeal against an order or ruling made in preliminary proceedings, the defendant or offender[^key-b6b4857075631f09d29fba874c2eabcf] to whom the preliminary proceedings relate;
-  - (b) with respect to an appeal against a reporting or public access order, the defendant or offender[^key-3e22e98aad154b67c146f3e5eb29d12e] in the proceedings of the Court Martial to which the order relates;
+  - (a) with respect to an appeal against an order or ruling made in preliminary proceedings, the defendant or offender[^c-b6b4857075631f09d29fba874c2eabcf] to whom the preliminary proceedings relate;
+  - (b) with respect to an appeal against a reporting or public access order, the defendant or offender[^c-3e22e98aad154b67c146f3e5eb29d12e] in the proceedings of the Court Martial to which the order relates;
   - (c) in the case of an appeal or an application for permission to appeal under section 8 against conviction or sentence (including a service restraining order [^c19891381]), the appellant or applicant, as the case may be;
   - (d) in the case of an appeal under section 21 (against a finding of not guilty by reason of insanity), the person who has been found not guilty by reason of insanity;
   - (e) in the case of an appeal under section 24 (against a finding of being unfit to stand trial or of having done the act or made the omission charged against him, or against both findings), the person found to be unfit to stand trial and to have done the act or made the omission;
@@ -92,9 +92,9 @@ These Rules may be cited as the Court Martial Appeal Court Rules 2009 and shall 
   - (i) with respect to an appeal under section 304D or 304E of the 2006 Act, the offender;
 - “**preliminary proceedings**” means any proceedings of the Court Martial held for the purpose of—
   - (a) arraigning a defendant on a charge; or
-  - (b) giving any direction or making any order or ruling for the purpose of —[^key-4a1727f5a05a075327caec99f595756b]
-    - (i) trial proceedings against a defendant;[^key-02565d6165e7a3f03813c9d7dde65305]
-    - (ii) proceedings under section 304D or 304E of the 2006 Act;[^key-7b1375a7cbc5b56a302f2a9e34893091]
+  - (b) giving any direction or making any order or ruling for the purpose of —[^c-4a1727f5a05a075327caec99f595756b]
+    - (i) trial proceedings against a defendant;[^c-02565d6165e7a3f03813c9d7dde65305]
+    - (ii) proceedings under section 304D or 304E of the 2006 Act;[^c-7b1375a7cbc5b56a302f2a9e34893091]
 - “**prescribed period**” shall be construed in accordance with rule 47 or rule 48, as appropriate;
 - “**public interest order**” means an order made under article 4(6), 13(8) or 14(5) of the Criminal Procedure and Investigations Act 1996 (Application to the Armed Forces) Order 2009 [^c19891391];
 - “**record of proceedings**” means the record of proceedings of the Court Martial which the Judge Advocate General is required under section 37 to provide to the registrar [^c19891401];
@@ -261,7 +261,7 @@ Where a person to whom proceedings relate is entitled to be present or has obtai
 
 (2) Where section 1 or 6 of that Act applies, the reference in that section to the words of the oath prescribed by law is to be read as a reference to the words prescribed by Schedule 1 for a person of the class to which the person belongs.
 
-### 16. Interpretation, translation and communication through an intermediary[^key-f2ad050bcd16c89fd7635c442ca12616]
+### 16. Interpretation, translation and communication through an intermediary[^c-f2ad050bcd16c89fd7635c442ca12616]
 
 (1) Where a person to whom proceedings relate is due to attend a hearing, the registrar, where satisfied that the person needs interpretation, must appoint an interpreter to act at the hearing.
 
@@ -300,7 +300,7 @@ and references to interpretation shall be construed accordingly.
 - (c) any agreement under paragraph (5)(b) to do without a written translation of a document or part of a document; and
 - (d) any direction given under paragraph (6).
 
-### 16A. Interpretation and translation for witnesses other than a person to whom proceedings relate[^key-41885e2106ead6ac4c15706c3873b87d]
+### 16A. Interpretation and translation for witnesses other than a person to whom proceedings relate[^c-41885e2106ead6ac4c15706c3873b87d]
 
 (1) Where the complainant is due to attend a hearing as a witness, the registrar, where satisfied that the person needs interpretation, must appoint an interpreter to act at the hearing.
 
@@ -436,7 +436,7 @@ Nothing in these Rules shall affect any rule of law which authorises or requires
 
 ### 26. Reference of a question to a special commissioner
 
-(1) An order made under section 30(1) of the 1968 Act or regulation 12(1) of the 2024 Regulations[^key-953ac4a825160dbfbfc91c659bf1257e] that a question arising on an appeal be referred to a special commissioner—
+(1) An order made under section 30(1) of the 1968 Act or regulation 12(1) of the 2024 Regulations[^c-953ac4a825160dbfbfc91c659bf1257e] that a question arising on an appeal be referred to a special commissioner—
 
 - (a) must specify the question to be referred and the person appointed to act as the special commissioner; and
 - (b) may require that person to make interim reports to the court from time to time.
@@ -542,7 +542,7 @@ Nothing in these Rules shall affect any rule of law which authorises or requires
 
 - (a) the registrar;
 - (b) the Director (unless he is the appellant);
-- (c) the defendant or offender[^key-3c82ab7a85dd60bb35cde51efc9ab283] (unless he is the appellant);
+- (c) the defendant or offender[^c-3c82ab7a85dd60bb35cde51efc9ab283] (unless he is the appellant);
 - (d) any other person directly affected by the order against which the appellant wants to appeal; and
 - (e) if not within any of sub-paragraphs (b) to (d), the person who applied for the reporting or public access order.
 
@@ -710,11 +710,11 @@ On hearing an appeal to which this Part applies, the court shall have power to�
 - (a) confirm, reverse or vary the order or ruling complained of; and
 - (b) make such order as to costs as it thinks fit.
 
-## PART 7 — APPEALS AGAINST CONVICTION, SENTENCE, REVIEW OF SENTENCE, FINDING OF INSANITY OR UNFITNESS TO PLEAD OR HOSPITAL ORDER[^key-e6c0d4c3c0f936c9154cb12d9d8e3a8b]
+## PART 7 — APPEALS AGAINST CONVICTION, SENTENCE, REVIEW OF SENTENCE, FINDING OF INSANITY OR UNFITNESS TO PLEAD OR HOSPITAL ORDER[^c-e6c0d4c3c0f936c9154cb12d9d8e3a8b]
 
 ### 45. Applicability of this Part
 
-(1) This Part, except rule 51, applies where a party to the proceedings[^key-a4397c6ca8b810d5d2f4fa8b9fcfe843] wants to appeal under section 8, 21, 24 or 25A of the 1968 Act or under section 304D or 304E of the 2006 Act[^key-24ebf1814013795abe1df4cbe5de8418].
+(1) This Part, except rule 51, applies where a party to the proceedings[^c-a4397c6ca8b810d5d2f4fa8b9fcfe843] wants to appeal under section 8, 21, 24 or 25A of the 1968 Act or under section 304D or 304E of the 2006 Act[^c-24ebf1814013795abe1df4cbe5de8418].
 
 (2) Rule 51 applies where—
 
@@ -723,7 +723,7 @@ On hearing an appeal to which this Part applies, the court shall have power to�
 
 (3) In this Part (except rule 51)—
 
-- “**appellant**” means the party to the proceedings[^key-83e1042a28898c7361e3ca9b0c0776a8] who wants to appeal under section 8, 21, 24 or 25A of the 1968 Act or under section 304D or 304E of the 2006 Act;
+- “**appellant**” means the party to the proceedings[^c-83e1042a28898c7361e3ca9b0c0776a8] who wants to appeal under section 8, 21, 24 or 25A of the 1968 Act or under section 304D or 304E of the 2006 Act;
 - “**appeal notice**” means the application to the court for permission to appeal required under section 9(1);
 - “**respondent**” means a person who serves a respondent's notice.
 
@@ -735,8 +735,8 @@ On hearing an appeal to which this Part applies, the court shall have power to�
 - (b) state the name of the judge advocate in the proceedings of the Court Martial;
 - (c) state and give the date of—
   - (i) the conviction, verdict, or finding,
-  - (ii) the sentence, [^key-dda99cb561e50aeff947506c5004fb4c]...
-  - (iia)[^key-531b738d6c23a4e916854fdef1036700] decision on review of sentence under section 304D or 304E of the 2006 Act, or
+  - (ii) the sentence, [^c-dda99cb561e50aeff947506c5004fb4c]...
+  - (iia)[^c-531b738d6c23a4e916854fdef1036700] decision on review of sentence under section 304D or 304E of the 2006 Act, or
   - (iii) the order,
 
   about which the appellant wants to appeal;
@@ -770,11 +770,11 @@ On hearing an appeal to which this Part applies, the court shall have power to�
 
 ### 47. Prescribed period
 
-Subject to rule 48, for the purposes of section 9(1) of the 1968 Act or regulation 4(1)(a) of the 2024 Regulations[^key-339eee4b691727b8577e2bea45bce3e7], the period within which an appeal notice must be lodged with the registrar is the period of 28 days after the date of the—
+Subject to rule 48, for the purposes of section 9(1) of the 1968 Act or regulation 4(1)(a) of the 2024 Regulations[^c-339eee4b691727b8577e2bea45bce3e7], the period within which an appeal notice must be lodged with the registrar is the period of 28 days after the date of the—
 
 - (a) conviction, verdict, or finding,
-- (b) sentence, [^key-025691642bf41ded40db703d15f92ad1]...
-- (ba)[^key-cc36e07d0f63e11c39a1ab5f20286b9e] decision on review of sentence under section 304D or 304E of the 2006 Act, or
+- (b) sentence, [^c-025691642bf41ded40db703d15f92ad1]...
+- (ba)[^c-cc36e07d0f63e11c39a1ab5f20286b9e] decision on review of sentence under section 304D or 304E of the 2006 Act, or
 - (c) order,
 
 in relation to which the appellant wants to appeal.
@@ -856,14 +856,14 @@ in relation to which the appellant wants to appeal.
 
 ### 52. Notification
 
-Where a judge of the court or the registrar exercises, or refuses to exercise, a power exercisable by him pursuant to section 36, 36A or 36B of the 1968 Act or under regulation 20, 21 or 22 of the 2024 Regulations[^key-71988086b364b12539dcb686603c3270], the registrar must, within 14 days of the exercise or refusal, serve notice on the parties to the proceedings[^key-59a81bc75eb504fcc7d7a230e2d07826] of the exercise of, or refusal to exercise, that power.
+Where a judge of the court or the registrar exercises, or refuses to exercise, a power exercisable by him pursuant to section 36, 36A or 36B of the 1968 Act or under regulation 20, 21 or 22 of the 2024 Regulations[^c-71988086b364b12539dcb686603c3270], the registrar must, within 14 days of the exercise or refusal, serve notice on the parties to the proceedings[^c-59a81bc75eb504fcc7d7a230e2d07826] of the exercise of, or refusal to exercise, that power.
 
 ### 53. Further applications to a judge or to the court: additional rules
 
 (1) Where, following a refusal referred to in rule 52 to exercise a power—
 
-- (a) an appellant wants to make a requisition under section 36(2) to have an application determined by the court as duly constituted or renews an application for the exercise of a power conferred by section 36A under section 36A(2), [^key-18e736d9fccb315b7712194068e509d4]...
-- (b) the Director makes an application under section 36C(5) (appeal against a procedural direction), or[^key-93b4a95303e6bbd1cea910f99844eb53]
+- (a) an appellant wants to make a requisition under section 36(2) to have an application determined by the court as duly constituted or renews an application for the exercise of a power conferred by section 36A under section 36A(2), [^c-18e736d9fccb315b7712194068e509d4]...
+- (b) the Director makes an application under section 36C(5) (appeal against a procedural direction), or[^c-93b4a95303e6bbd1cea910f99844eb53]
 - (c) a party to proceedings under section 304D or 304E of the 2006—
   - (i) wants to make a requisition, in accordance with regulation 20(3) (powers under Part 2 that are exercisable by a single judge) of the 2024 Regulations, to have an application determined by the court as duly constituted,
   - (ii) renews, under regulation 21(3), an application for the exercise of a power conferred by regulation 21 (powers which may be exercised by the registrar) of the 2024 Regulations, or
@@ -873,19 +873,19 @@ he must do so not later than 14 days after the day on which he was served with t
 
 (2) The period in paragraph (1) may be extended by a judge of the court, the registrar or the court as appropriate, before or after the period expires.
 
-(3) A requisition under section 36(2) of the 1968 Act or regulation 20(3) of the 2024 Regulations[^key-73d2a08ca6e5300a487daf7f561211fe] must be in the form set out in Schedule 3, and an application referred to in paragraph (1) must be in writing.
+(3) A requisition under section 36(2) of the 1968 Act or regulation 20(3) of the 2024 Regulations[^c-73d2a08ca6e5300a487daf7f561211fe] must be in the form set out in Schedule 3, and an application referred to in paragraph (1) must be in writing.
 
 (4) A requisition or application referred to in paragraph (1) must be made to the registrar and must specify—
 
 - (a) the date on which notice made under rule 52 was served;
-- (b) the power exercised by the registrar or single judge which the party[^key-8ba129ad7b72fb96e890e61466ae3074], requires or applies to be considered; and
+- (b) the power exercised by the registrar or single judge which the party[^c-8ba129ad7b72fb96e890e61466ae3074], requires or applies to be considered; and
 - (c) any additional information not contained in the original application that the party considers relevant.
 
-(5) A requisition or application referred to in paragraph (1) must be signed by the appellant , or the offender, as the case may be,[^key-c4a0c2c880b10eceb632ed3b575614f7] or his legal representative, or by the Director, as appropriate.
+(5) A requisition or application referred to in paragraph (1) must be signed by the appellant , or the offender, as the case may be,[^c-c4a0c2c880b10eceb632ed3b575614f7] or his legal representative, or by the Director, as appropriate.
 
 (6) Unless the court directs otherwise, an application for an extension of the period referred to in paragraph (1) must be considered at the same time as the requisition or application referred to in that paragraph.
 
-(7) If an appellant makes a requisition under section 36(2) of the 1968 Act, or a party to the proceedings makes an application under regulations 20(3) of the 2024 Regulations,[^key-6c7b56eb037a328cc9495ff44a08751d] outside the period specified in paragraph (1), as extended (if at all) under these rules, the requisition shall be treated as having been refused.
+(7) If an appellant makes a requisition under section 36(2) of the 1968 Act, or a party to the proceedings makes an application under regulations 20(3) of the 2024 Regulations,[^c-6c7b56eb037a328cc9495ff44a08751d] outside the period specified in paragraph (1), as extended (if at all) under these rules, the requisition shall be treated as having been refused.
 
 ## PART 9 — REFERENCE TO THE COURT OF AN UNDULY LENIENT SENTENCE
 
@@ -1073,8 +1073,8 @@ of the day and time appointed.
 
 (1) An application to the court—
 
-- (a) pursuant to section 39(2) of the 1968 Act or regulation 26(2) of the 2024 Regulations[^key-70b85971d79a0d8887545ef0735f480c] for permission to appeal to the Supreme Court,
-- (b) to extend, by virtue of section 40(2) of the 1968 Act or regulation 27(4) of the 2024 Regulations[^key-4622de7688146833b14271d2744af9ab], the time for making an application for permission to appeal,
+- (a) pursuant to section 39(2) of the 1968 Act or regulation 26(2) of the 2024 Regulations[^c-70b85971d79a0d8887545ef0735f480c] for permission to appeal to the Supreme Court,
+- (b) to extend, by virtue of section 40(2) of the 1968 Act or regulation 27(4) of the 2024 Regulations[^c-4622de7688146833b14271d2744af9ab], the time for making an application for permission to appeal,
 - (c) to grant bail under section 42,
 - (d) pursuant to section 274(2) of the 2006 Act for permission to refer a point of law to the Supreme Court, or
 - (e) for permission to be present at the hearing of any application to which this paragraph applies,
@@ -1088,13 +1088,13 @@ must, unless made orally at the hearing before the court, be made in writing.
 - (a) the required information,
 - (b) the date of the decision of the court,
 - (c) as appropriate, the address or place of custody of the person to whom proceedings relate, and
-- (d) if applying for an extension of time under section 40(2) of the 1968 Act or regulation 27(4) of the 2024 Regulations[^key-ac5995d6a67048b49cb8a0ca9acf7311], the reasons for the delay,
+- (d) if applying for an extension of time under section 40(2) of the 1968 Act or regulation 27(4) of the 2024 Regulations[^c-ac5995d6a67048b49cb8a0ca9acf7311], the reasons for the delay,
 
 and must be signed and dated by the applicant or his legal representative.
 
 (4) Rules 19 to 23 shall apply to an application mentioned in paragraph (1) as they apply to applications in relation to appeals to the court.
 
-(5) Rules 52 and 53 shall apply to the exercise, by virtue of section 48 of the 1968 Act or regulation 37 of the 2024 Regulations[^key-f62da7df5effe60213bd3263e0c9fc2c], by a judge of the court of the powers of the court in relation to an application referred to in sub-paragraph (b), (c) or (e) of paragraph (1).
+(5) Rules 52 and 53 shall apply to the exercise, by virtue of section 48 of the 1968 Act or regulation 37 of the 2024 Regulations[^c-f62da7df5effe60213bd3263e0c9fc2c], by a judge of the court of the powers of the court in relation to an application referred to in sub-paragraph (b), (c) or (e) of paragraph (1).
 
 (6) In the case of an appeal to the Supreme Court under section 13 of the Administration of Justice Act 1960 [^c19891501] (appeals in the case of contempt of court)—
 
@@ -1123,7 +1123,7 @@ Where a party wants to appeal or the Attorney General wants to make a reference 
 
 ### 66. Register and cause list
 
-(1) The registrar must keep a register of all cases in which he receives notice of an application for permission to appeal under the 1968 Act or under section 304D or 304E of the 2006 Act[^key-828d34df3e9bdc3ab58684e78a0c2916] and must cause the register to be open for public inspection in such place and at such hours as he, with the approval of the court, directs.
+(1) The registrar must keep a register of all cases in which he receives notice of an application for permission to appeal under the 1968 Act or under section 304D or 304E of the 2006 Act[^c-828d34df3e9bdc3ab58684e78a0c2916] and must cause the register to be open for public inspection in such place and at such hours as he, with the approval of the court, directs.
 
 (2) The registrar must also prepare a list of appeals and applications which the court may consider on the days on which the court, as constituted for the hearing and determination of appeals under the Act, is to sit, and must cause such list to be published at such times, in places and in such a manner as he, subject to the approval of the court, thinks convenient for giving due notice to any parties interested.
 
@@ -1133,7 +1133,7 @@ Where a party wants to appeal or the Attorney General wants to make a reference 
 
 (2) The registrar must as soon as practicable notify a party to the proceedings of any directions given by the court under this rule, where neither that party nor his legal representative was present at the time when such directions were given.
 
-### 68. Enforcement of duties[^key-095832905da6e99ef1e90f4da602e5d8]
+### 68. Enforcement of duties[^c-095832905da6e99ef1e90f4da602e5d8]
 
 The performance of any duty imposed upon any person by or under—
 
@@ -1196,7 +1196,7 @@ TO THE REGISTRAR OF THE COURT MARTIAL APPEAL COURT Royal Courts of Justice Stran
 | Yes/No? |  |
 | Permission to appeal against sentence: |  |
 | Yes/No? |  |
-| Permission to appeal against review of sentence:[^key-7943d66b81afc1945dc217a28e637d2d] |  |
+| Permission to appeal against review of sentence:[^c-7943d66b81afc1945dc217a28e637d2d] |  |
 | Yes/No? |  |
 | Leave to call a witness: |  |
 | Yes/No? |  |
@@ -1209,11 +1209,11 @@ TO THE REGISTRAR OF THE COURT MARTIAL APPEAL COURT Royal Courts of Justice Stran
 | Signed: | This notice must be signed by the appellant or by his legal representative. |
 | Dated: |  |
 
-## SCHEDULE 3 — NOTICE OF REQUISITION UNDER SECTION 36(2) OF THE 1968 ACT OR REGULATION 20(3) OF THE 2024 REGULATIONS[^key-28bdf239cf3a4bbbe6c0a55ddb14b63c]
+## SCHEDULE 3 — NOTICE OF REQUISITION UNDER SECTION 36(2) OF THE 1968 ACT OR REGULATION 20(3) OF THE 2024 REGULATIONS[^c-28bdf239cf3a4bbbe6c0a55ddb14b63c]
 
 Rule 53(3)
 
-TO THE REGISTRAR OF THE COURT MARTIAL APPEAL COURT Royal Courts of Justice Strand London, WC2A 2LL **NOTICE OF REQUISTION UNDER SECTION 36(2) OF THE 1968 ACT OR REGULATION 20(3) OF THE 2024 REGULATIONS[^key-8fc5df73e7da7a9cda97d0095d4369f0]**
+TO THE REGISTRAR OF THE COURT MARTIAL APPEAL COURT Royal Courts of Justice Strand London, WC2A 2LL **NOTICE OF REQUISTION UNDER SECTION 36(2) OF THE 1968 ACT OR REGULATION 20(3) OF THE 2024 REGULATIONS[^c-8fc5df73e7da7a9cda97d0095d4369f0]**
 
 | *Details required* | *Notes* |
 | --- | --- |
@@ -1320,21 +1320,21 @@ In Part 14 rule 69 revokes the previous court rules under the 1968 Act and gives
 
 [^c19891371]: Marginal citation: [S.I. 2009/1169](https://www.legislation.gov.uk/uksi/2009/1169).
 
-[^key-2b6ac91c2939bd806d9417ed1e1f2827]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/a)
+[^c-2b6ac91c2939bd806d9417ed1e1f2827]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/a)
 
-[^key-eee5602511d17efc2fc84c2945d55701]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2009/2657/rule/2/2) inserted (16.11.2015) by [The Court Martial Appeal Court (Amendment) Rules 2015 (S.I. 2015/1814)](https://www.legislation.gov.uk/uksi/2015/1814), [rules 1](https://www.legislation.gov.uk/uksi/2015/1814/rule/1), [3](https://www.legislation.gov.uk/uksi/2015/1814/rule/3)
+[^c-eee5602511d17efc2fc84c2945d55701]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2009/2657/rule/2/2) inserted (16.11.2015) by [The Court Martial Appeal Court (Amendment) Rules 2015 (S.I. 2015/1814)](https://www.legislation.gov.uk/uksi/2015/1814), [rules 1](https://www.legislation.gov.uk/uksi/2015/1814/rule/1), [3](https://www.legislation.gov.uk/uksi/2015/1814/rule/3)
 
-[^key-b6b4857075631f09d29fba874c2eabcf]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/b/i)
+[^c-b6b4857075631f09d29fba874c2eabcf]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/b/i)
 
-[^key-3e22e98aad154b67c146f3e5eb29d12e]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/b/ii)
+[^c-3e22e98aad154b67c146f3e5eb29d12e]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/b/ii)
 
 [^c19891381]: Marginal citation: By virtue of section 231(3) of the 2006 Act, references in section 16A of the 1968 Act to passing a sentence include the making of a service restraining order by the Court Martial.
 
-[^key-4a1727f5a05a075327caec99f595756b]: Textual amendment: [Rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) punctuation mark inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/i)
+[^c-4a1727f5a05a075327caec99f595756b]: Textual amendment: [Rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) punctuation mark inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/i)
 
-[^key-02565d6165e7a3f03813c9d7dde65305]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) renumbered (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/ii)
+[^c-02565d6165e7a3f03813c9d7dde65305]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) renumbered (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/ii)
 
-[^key-7b1375a7cbc5b56a302f2a9e34893091]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/iii)
+[^c-7b1375a7cbc5b56a302f2a9e34893091]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2009/2657/rule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/3/c/iii)
 
 [^c19891391]: Marginal citation: [S.I. 2009/988](https://www.legislation.gov.uk/uksi/2009/988).
 
@@ -1348,9 +1348,9 @@ In Part 14 rule 69 revokes the previous court rules under the 1968 Act and gives
 
 [^c19891441]: Marginal citation: [1978 c. 19](https://www.legislation.gov.uk/ukpga/1978/19).
 
-[^key-f2ad050bcd16c89fd7635c442ca12616]: Textual amendment: Rule 16 substituted (27.10.2013) by [The Court Martial Appeal Court (Interpretation and Translation) Rules 2013 (S.I. 2013/2524)](https://www.legislation.gov.uk/uksi/2013/2524), [rules 1](https://www.legislation.gov.uk/uksi/2013/2524/article/1), [3](https://www.legislation.gov.uk/uksi/2013/2524/article/3)
+[^c-f2ad050bcd16c89fd7635c442ca12616]: Textual amendment: Rule 16 substituted (27.10.2013) by [The Court Martial Appeal Court (Interpretation and Translation) Rules 2013 (S.I. 2013/2524)](https://www.legislation.gov.uk/uksi/2013/2524), [rules 1](https://www.legislation.gov.uk/uksi/2013/2524/article/1), [3](https://www.legislation.gov.uk/uksi/2013/2524/article/3)
 
-[^key-41885e2106ead6ac4c15706c3873b87d]: Textual amendment: [Rule 16A](https://www.legislation.gov.uk/uksi/2009/2657/rule/16A) inserted (16.11.2015) by [The Court Martial Appeal Court (Amendment) Rules 2015 (S.I. 2015/1814)](https://www.legislation.gov.uk/uksi/2015/1814), [rules 1](https://www.legislation.gov.uk/uksi/2015/1814/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/1814/rule/4)
+[^c-41885e2106ead6ac4c15706c3873b87d]: Textual amendment: [Rule 16A](https://www.legislation.gov.uk/uksi/2009/2657/rule/16A) inserted (16.11.2015) by [The Court Martial Appeal Court (Amendment) Rules 2015 (S.I. 2015/1814)](https://www.legislation.gov.uk/uksi/2015/1814), [rules 1](https://www.legislation.gov.uk/uksi/2015/1814/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/1814/rule/4)
 
 [^c19891451]: Marginal citation: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41). Subsection (6) of section 71 of the Courts and Legal Services Act 1990 was substituted by the Access to [Justice Act 1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), [section 43](https://www.legislation.gov.uk/ukpga/1999/22/section/43), [Schedule 6](https://www.legislation.gov.uk/ukpga/1999/22/schedule/6), [paragraphs 4](https://www.legislation.gov.uk/ukpga/1999/22/paragraph/4) and 9. Subsections (7) and (8) of section 71 of the 1990 Act were repealed by section 106 of, and Schedule 15, Part 2 to, the 1999 Act. Prospective amendments to section 71 of the 1990 Act are made to subsection (3) by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [Schedule 11](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11), [Part 2](https://www.legislation.gov.uk/ukpga/2005/4/part/2), [paragraph 4(1)](https://www.legislation.gov.uk/ukpga/2005/4/paragraph/4/1) and (3). Prospective amendments are made to subsections (4) and (6) and a new subsection (6A) is inserted into section 71 of the 1990 Act by the [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [section 208(1)](https://www.legislation.gov.uk/ukpga/2007/29/section/208/1), [Schedule 21](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21), [paragraphs 83](https://www.legislation.gov.uk/ukpga/2007/29/paragraph/83) and 94(a), (b) and (c).
 
@@ -1360,65 +1360,65 @@ In Part 14 rule 69 revokes the previous court rules under the 1968 Act and gives
 
 [^c19891481]: Marginal citation: [Section 12A](https://www.legislation.gov.uk/uksi/2009/2657/section/12A) is inserted by section 321 of, and paragraph 2 of Schedule 11 to, the 2006 Act with effect on 31st October 2009. By virtue of section 12A(3) and (6) of the 1995 Act a reference to the court by the Commission shall be treated as an appeal under section 8 of the 1968 Act.
 
-[^key-953ac4a825160dbfbfc91c659bf1257e]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2009/2657/rule/26/1) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1060/rule/4)
+[^c-953ac4a825160dbfbfc91c659bf1257e]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2009/2657/rule/26/1) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1060/rule/4)
 
-[^key-3c82ab7a85dd60bb35cde51efc9ab283]: Textual amendment: Words in [rule 32(2)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/32/2/c) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1060/rule/5)
+[^c-3c82ab7a85dd60bb35cde51efc9ab283]: Textual amendment: Words in [rule 32(2)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/32/2/c) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1060/rule/5)
 
-[^key-e6c0d4c3c0f936c9154cb12d9d8e3a8b]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2009/2657/part/7) heading inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1060/rule/6)
+[^c-e6c0d4c3c0f936c9154cb12d9d8e3a8b]: Textual amendment: Words in [Pt. 7](https://www.legislation.gov.uk/uksi/2009/2657/part/7) heading inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1060/rule/6)
 
-[^key-a4397c6ca8b810d5d2f4fa8b9fcfe843]: Textual amendment: Words in [rule 45(1)](https://www.legislation.gov.uk/uksi/2009/2657/rule/45/1) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/b)
+[^c-a4397c6ca8b810d5d2f4fa8b9fcfe843]: Textual amendment: Words in [rule 45(1)](https://www.legislation.gov.uk/uksi/2009/2657/rule/45/1) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/b)
 
-[^key-24ebf1814013795abe1df4cbe5de8418]: Textual amendment: Words in [rule 45](https://www.legislation.gov.uk/uksi/2009/2657/rule/45) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/a)
+[^c-24ebf1814013795abe1df4cbe5de8418]: Textual amendment: Words in [rule 45](https://www.legislation.gov.uk/uksi/2009/2657/rule/45) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/a)
 
-[^key-83e1042a28898c7361e3ca9b0c0776a8]: Textual amendment: Words in [rule 45(3)](https://www.legislation.gov.uk/uksi/2009/2657/rule/45/3) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/c)
+[^c-83e1042a28898c7361e3ca9b0c0776a8]: Textual amendment: Words in [rule 45(3)](https://www.legislation.gov.uk/uksi/2009/2657/rule/45/3) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/7/c)
 
-[^key-dda99cb561e50aeff947506c5004fb4c]: Textual amendment: Word in [rule 46(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/c/ii) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/8/a)
+[^c-dda99cb561e50aeff947506c5004fb4c]: Textual amendment: Word in [rule 46(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/c/ii) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/8/a)
 
-[^key-531b738d6c23a4e916854fdef1036700]: Textual amendment: [Rule 46(1)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/c)[(iia)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/iia) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/8/b)
+[^c-531b738d6c23a4e916854fdef1036700]: Textual amendment: [Rule 46(1)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/c)[(iia)](https://www.legislation.gov.uk/uksi/2009/2657/rule/46/1/iia) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/8/b)
 
 [^c19891491]: Marginal citation: [Section 9(3)](https://www.legislation.gov.uk/uksi/2009/2657/section/9/3) of the 1968 Act provides that the court may extend the period within which an application for leave to appeal under section 9 must be made. Sections 36 and 36A of the 1968 Act provide that that power to extend the period may be exercised by a judge of the court or the registrar.
 
-[^key-339eee4b691727b8577e2bea45bce3e7]: Textual amendment: Words in [rule 47](https://www.legislation.gov.uk/uksi/2009/2657/rule/47) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/a)
+[^c-339eee4b691727b8577e2bea45bce3e7]: Textual amendment: Words in [rule 47](https://www.legislation.gov.uk/uksi/2009/2657/rule/47) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/a)
 
-[^key-025691642bf41ded40db703d15f92ad1]: Textual amendment: Word in [rule 47(b)](https://www.legislation.gov.uk/uksi/2009/2657/rule/47/b) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/b)
+[^c-025691642bf41ded40db703d15f92ad1]: Textual amendment: Word in [rule 47(b)](https://www.legislation.gov.uk/uksi/2009/2657/rule/47/b) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/b)
 
-[^key-cc36e07d0f63e11c39a1ab5f20286b9e]: Textual amendment: [Rule 47(ba)](https://www.legislation.gov.uk/uksi/2009/2657/rule/47/ba) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/c)
+[^c-cc36e07d0f63e11c39a1ab5f20286b9e]: Textual amendment: [Rule 47(ba)](https://www.legislation.gov.uk/uksi/2009/2657/rule/47/ba) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/9/c)
 
-[^key-71988086b364b12539dcb686603c3270]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2009/2657/rule/52) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/10/a)
+[^c-71988086b364b12539dcb686603c3270]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2009/2657/rule/52) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/10/a)
 
-[^key-59a81bc75eb504fcc7d7a230e2d07826]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2009/2657/rule/52) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/10/b)
+[^c-59a81bc75eb504fcc7d7a230e2d07826]: Textual amendment: Words in [rule 52](https://www.legislation.gov.uk/uksi/2009/2657/rule/52) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/10/b)
 
-[^key-18e736d9fccb315b7712194068e509d4]: Textual amendment: Word in [rule 53(1)(a)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/1/a) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/a)
+[^c-18e736d9fccb315b7712194068e509d4]: Textual amendment: Word in [rule 53(1)(a)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/1/a) omitted (20.11.2024) by virtue of [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/a)
 
-[^key-93b4a95303e6bbd1cea910f99844eb53]: Textual amendment: [Rule 53(1)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/1/c) and word inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/b)
+[^c-93b4a95303e6bbd1cea910f99844eb53]: Textual amendment: [Rule 53(1)(c)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/1/c) and word inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/b)
 
-[^key-73d2a08ca6e5300a487daf7f561211fe]: Textual amendment: Words in [rule 53(3)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/3) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/c)
+[^c-73d2a08ca6e5300a487daf7f561211fe]: Textual amendment: Words in [rule 53(3)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/3) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/c)
 
-[^key-8ba129ad7b72fb96e890e61466ae3074]: Textual amendment: Word in [rule 53(4)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/4) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/d)
+[^c-8ba129ad7b72fb96e890e61466ae3074]: Textual amendment: Word in [rule 53(4)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/4) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/d)
 
-[^key-c4a0c2c880b10eceb632ed3b575614f7]: Textual amendment: Words in [rule 53(5)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/5) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(e)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/e)
+[^c-c4a0c2c880b10eceb632ed3b575614f7]: Textual amendment: Words in [rule 53(5)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/5) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(e)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/e)
 
-[^key-6c7b56eb037a328cc9495ff44a08751d]: Textual amendment: Words in [rule 53(7)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/7) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(f)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/f)
+[^c-6c7b56eb037a328cc9495ff44a08751d]: Textual amendment: Words in [rule 53(7)](https://www.legislation.gov.uk/uksi/2009/2657/rule/53/7) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [11(f)](https://www.legislation.gov.uk/uksi/2024/1060/rule/11/f)
 
-[^key-70b85971d79a0d8887545ef0735f480c]: Textual amendment: Words in [rule 63(1)(a)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/1/a) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/a/i)
+[^c-70b85971d79a0d8887545ef0735f480c]: Textual amendment: Words in [rule 63(1)(a)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/1/a) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/a/i)
 
-[^key-4622de7688146833b14271d2744af9ab]: Textual amendment: Words in [rule 63(1)(b)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/1/b) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/a/ii)
+[^c-4622de7688146833b14271d2744af9ab]: Textual amendment: Words in [rule 63(1)(b)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/1/b) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/a/ii)
 
-[^key-ac5995d6a67048b49cb8a0ca9acf7311]: Textual amendment: Words in [rule 63(3)(d)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/3/d) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/b)
+[^c-ac5995d6a67048b49cb8a0ca9acf7311]: Textual amendment: Words in [rule 63(3)(d)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/3/d) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/b)
 
-[^key-f62da7df5effe60213bd3263e0c9fc2c]: Textual amendment: Words in [rule 63(5)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/5) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/c)
+[^c-f62da7df5effe60213bd3263e0c9fc2c]: Textual amendment: Words in [rule 63(5)](https://www.legislation.gov.uk/uksi/2009/2657/rule/63/5) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2024/1060/rule/12/c)
 
 [^c19891501]: Marginal citation: [1960 c. 65](https://www.legislation.gov.uk/ukpga/1960/65).
 
-[^key-828d34df3e9bdc3ab58684e78a0c2916]: Textual amendment: Words in [rule 66](https://www.legislation.gov.uk/uksi/2009/2657/rule/66) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2024/1060/rule/13)
+[^c-828d34df3e9bdc3ab58684e78a0c2916]: Textual amendment: Words in [rule 66](https://www.legislation.gov.uk/uksi/2009/2657/rule/66) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2024/1060/rule/13)
 
-[^key-095832905da6e99ef1e90f4da602e5d8]: Textual amendment: [Rule 68](https://www.legislation.gov.uk/uksi/2009/2657/rule/68) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1060/rule/14)
+[^c-095832905da6e99ef1e90f4da602e5d8]: Textual amendment: [Rule 68](https://www.legislation.gov.uk/uksi/2009/2657/rule/68) substituted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1060/rule/14)
 
-[^key-7943d66b81afc1945dc217a28e637d2d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2657/schedule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2024/1060/rule/15)
+[^c-7943d66b81afc1945dc217a28e637d2d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2657/schedule/2) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2024/1060/rule/15)
 
-[^key-28bdf239cf3a4bbbe6c0a55ddb14b63c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2657/schedule/3) heading inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/16/a)
+[^c-28bdf239cf3a4bbbe6c0a55ddb14b63c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2657/schedule/3) heading inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2024/1060/rule/16/a)
 
-[^key-8fc5df73e7da7a9cda97d0095d4369f0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2657/schedule/3) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/16/b)
+[^c-8fc5df73e7da7a9cda97d0095d4369f0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2009/2657/schedule/3) inserted (20.11.2024) by [The Court Martial Appeal Court (Amendment) Rules 2024 (S.I. 2024/1060)](https://www.legislation.gov.uk/uksi/2024/1060), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1060/rule/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2024/1060/rule/16/b)
 
 [^c19891511]: Marginal citation: [S.I. 1968/1071](https://www.legislation.gov.uk/uksi/1968/1071). The Courts-Martial Appeal Rules 1968 are amended by the Courts-[Martial Appeal (Amendment) Rules 1972 (S.I. 1972/798)](https://www.legislation.gov.uk/uksi/1972/798), the Courts-[Martial Appeal (Amendment) Rules 1997 (S.I. 1997/580)](https://www.legislation.gov.uk/uksi/1997/580), the Courts-[Martial Appeal (Amendment) Rules 2000 (S.I. 2000/2228)](https://www.legislation.gov.uk/uksi/2000/2228), the Courts-[Martial Appeal (Amendment) Rules 2005 (S.I. 2005/446)](https://www.legislation.gov.uk/uksi/2005/446), the Courts-[Martial Appeal (Amendment) Rules 2007 (S.I. 2007/710)](https://www.legislation.gov.uk/uksi/2007/710), the Courts-[Martial Appeal (Amendment No. 2) Rules 2007 (S.I. 2007/1298)](https://www.legislation.gov.uk/uksi/2007/1298), and the [Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128).
 

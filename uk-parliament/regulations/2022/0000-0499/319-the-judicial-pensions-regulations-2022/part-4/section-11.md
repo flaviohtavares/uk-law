@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Enrolment[^key-0f2126b9b8463de96ffd9bb11e533486]
+## 11. Enrolment[^c-0f2126b9b8463de96ffd9bb11e533486]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person (P) begins pensionable service under this scheme in relation to a quali
 
 ## Annotations
 
-[^key-0f2126b9b8463de96ffd9bb11e533486]: Commencement: Reg. 11 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-0f2126b9b8463de96ffd9bb11e533486]: Commencement: Reg. 11 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

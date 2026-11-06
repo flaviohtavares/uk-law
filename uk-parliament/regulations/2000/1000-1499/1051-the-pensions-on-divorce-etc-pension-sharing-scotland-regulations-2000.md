@@ -54,15 +54,15 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “the 1999 Act" means the Welfare Reform and Pensions Act 1999;
 
-“[^key-a9fcfcd1c83d7337b103479a965c0fe6]**excess amount**” has the meaning given by section 47(4) of the 1999 Act;
+“[^c-a9fcfcd1c83d7337b103479a965c0fe6]**excess amount**” has the meaning given by section 47(4) of the 1999 Act;
 
-“[^key-7dd0930f821659a882b49f98a63bc1b2]**shareable old state scheme rights**” has the meaning given by section 47(2) of the 1999 Act;
+“[^c-7dd0930f821659a882b49f98a63bc1b2]**shareable old state scheme rights**” has the meaning given by section 47(2) of the 1999 Act;
 
 “pension arrangement" has the meaning given by section 46(1) of the 1999 Act;
 
 “qualifying arrangement" has the meaning given by paragraph 6 of Schedule 5 to the 1999 Act;
 
-“transferee" and “transferor" have, in regulations 2 and 3, the meaning given by section 29(8), and, in regulations 4 and 5, the meaning given by section 49(6) or 49A(5)[^key-d3eed3f3fa3dbed0668a147b2452dc49] of the 1999 Act.
+“transferee" and “transferor" have, in regulations 2 and 3, the meaning given by section 29(8), and, in regulations 4 and 5, the meaning given by section 49(6) or 49A(5)[^c-d3eed3f3fa3dbed0668a147b2452dc49] of the 1999 Act.
 
 ### Sharing of Rights under Pension Arrangements
 
@@ -96,7 +96,7 @@ For the purposes of section 28(1)(f)(ii) of the 1999 Act, the provision which co
 
 #### 3. Circumstances in which an agreement is to be entered into, in order to be considered a “qualifying agreement" under section 28(1)(f) of the 1999 Act.
 
-A qualifying agreement is, for the purposes of section 28(1)(f) of the 1999 Act, one which the transferor and transferee have entered into in order to determine the financial settlement on divorce or dissolution of a civil partnership[^key-c34a586b65082747c7bb16dbe9a704f5] and in respect of which the transferor has intimated to the person responsible for a pension arrangement prior to the making of the agreement the intention to have the transferor’s pension rights under the pension arrangement shared with the transferee.
+A qualifying agreement is, for the purposes of section 28(1)(f) of the 1999 Act, one which the transferor and transferee have entered into in order to determine the financial settlement on divorce or dissolution of a civil partnership[^c-c34a586b65082747c7bb16dbe9a704f5] and in respect of which the transferor has intimated to the person responsible for a pension arrangement prior to the making of the agreement the intention to have the transferor’s pension rights under the pension arrangement shared with the transferee.
 
 ### Sharing of State Scheme Rights
 
@@ -109,14 +109,14 @@ For the purposes of section 48(1)(f)(ii) of the 1999 Act, the provision which co
   - (ii) date of birth;
   - (iii) address;
   - (iv) national insurance number, and
-  - (v) where section 49 of the 1999 Act applies,[^key-95c5ac783f47619187eb1bf340005b8e] details of the specified amount or, as appropriate, the specified percentage of the cash equivalent on the transfer day of the transferor’s relevant *(affected by repeal, see note)*[^key-6c6f1d6d131f736d5d2009adbeb77493]shareable old *(affected by repeal, see note)*[^key-6c6f1d6d131f736d5d2009adbeb77493] state scheme rights immediately before that day; or[^key-7c2317e05d5d57bf4dc3af01b97f304c]
-  - (vi)[^key-732518f33734c4e7bb195111862e41eb] where section 49A of the 1999 Act applies, details of the specified percentage of the excess amount of the transferor's state pension under section 4 of the Pensions Act 2014 as at the transfer day;
+  - (v) where section 49 of the 1999 Act applies,[^c-95c5ac783f47619187eb1bf340005b8e] details of the specified amount or, as appropriate, the specified percentage of the cash equivalent on the transfer day of the transferor’s relevant *(affected by repeal, see note)*[^c-6c6f1d6d131f736d5d2009adbeb77493]shareable old *(affected by repeal, see note)*[^c-6c6f1d6d131f736d5d2009adbeb77493] state scheme rights immediately before that day; or[^c-7c2317e05d5d57bf4dc3af01b97f304c]
+  - (vi)[^c-732518f33734c4e7bb195111862e41eb] where section 49A of the 1999 Act applies, details of the specified percentage of the excess amount of the transferor's state pension under section 4 of the Pensions Act 2014 as at the transfer day;
 - (b) in relation to the party who is the transferee—
   - (i) full name by which the transferee is or will be known;
   - (ii) date of birth;
   - (iii) address, and
   - (iv) national insurance number, and
-- (c)[^key-46e5141da2c7fd9f66e0901b8188acbf] a statement by the transferor and the transferee that they have received confirmation from the Secretary of State that shareable state scheme rights are held in the name of the transferor and that on the—
+- (c)[^c-46e5141da2c7fd9f66e0901b8188acbf] a statement by the transferor and the transferee that they have received confirmation from the Secretary of State that shareable state scheme rights are held in the name of the transferor and that on the—
   - (i) grant of decree of divorce;
   - (ii) declarator of nullity of marriage;
   - (iii) dissolution of civil partnership; or
@@ -126,7 +126,7 @@ For the purposes of section 48(1)(f)(ii) of the 1999 Act, the provision which co
 
 #### 5. Circumstances in which an agreement is to be entered into, in order to be considered a “qualifying agreement" under section 48(1)(f) of the 1999 Act.
 
-A qualifying agreement is, for the purposes of section 48(1)(f) of the 1999 Act, one which the transferor and transferee have entered into in order to determine the financial settlement on divorce or dissolution of a civil partnership[^key-75944c3402608b3a292653c9fc2a01fd] and in respect of which they have received confirmation from the Secretary of State that shareable state scheme rights are held in the name of the transferor.
+A qualifying agreement is, for the purposes of section 48(1)(f) of the 1999 Act, one which the transferor and transferee have entered into in order to determine the financial settlement on divorce or dissolution of a civil partnership[^c-75944c3402608b3a292653c9fc2a01fd] and in respect of which they have received confirmation from the Secretary of State that shareable state scheme rights are held in the name of the transferor.
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -162,22 +162,22 @@ An assessment of the cost to business of the provisions of the Welfare Reform an
 
 [^c1601225]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37).
 
-[^key-a9fcfcd1c83d7337b103479a965c0fe6]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-a9fcfcd1c83d7337b103479a965c0fe6]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-7dd0930f821659a882b49f98a63bc1b2]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-7dd0930f821659a882b49f98a63bc1b2]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-d3eed3f3fa3dbed0668a147b2452dc49]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-d3eed3f3fa3dbed0668a147b2452dc49]: Textual amendment: Words in reg. 1(2) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-c34a586b65082747c7bb16dbe9a704f5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/1051/regulation/3) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/10/2)
+[^c-c34a586b65082747c7bb16dbe9a704f5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2000/1051/regulation/3) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/10/2)
 
-[^key-95c5ac783f47619187eb1bf340005b8e]: Textual amendment: Words in reg. 4(a)(v) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-95c5ac783f47619187eb1bf340005b8e]: Textual amendment: Words in reg. 4(a)(v) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-6c6f1d6d131f736d5d2009adbeb77493]: Textual amendment: Words in [reg. 4(a)(v)](https://www.legislation.gov.uk/uksi/2000/1051/regulation/4/a/v) substituted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-6c6f1d6d131f736d5d2009adbeb77493]: Textual amendment: Words in [reg. 4(a)(v)](https://www.legislation.gov.uk/uksi/2000/1051/regulation/4/a/v) substituted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-7c2317e05d5d57bf4dc3af01b97f304c]: Textual amendment: Word in reg. 4(a)(v) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-7c2317e05d5d57bf4dc3af01b97f304c]: Textual amendment: Word in reg. 4(a)(v) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/3/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-732518f33734c4e7bb195111862e41eb]: Textual amendment: Reg. 4(a)(vi) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
+[^c-732518f33734c4e7bb195111862e41eb]: Textual amendment: Reg. 4(a)(vi) inserted (6.4.2016) by [The State Pension Regulations 2015 (S.I. 2015/173)](https://www.legislation.gov.uk/uksi/2015/173), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/2), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2015/173/schedule/paragraph/2/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/173/regulation/1/3))
 
-[^key-46e5141da2c7fd9f66e0901b8188acbf]: Textual amendment: Reg. 4(c) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/10/3)
+[^c-46e5141da2c7fd9f66e0901b8188acbf]: Textual amendment: Reg. 4(c) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/10/3)
 
-[^key-75944c3402608b3a292653c9fc2a01fd]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2000/1051/regulation/5) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2007/814/regulation/10/4)
+[^c-75944c3402608b3a292653c9fc2a01fd]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2000/1051/regulation/5) inserted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2007/814/regulation/10/4)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where a fees notice has been given to the applicant, the public authority is not obliged to comply with section 1(1) unless the fee is paid within the period of three months beginning with the day on which the fees notice is given to the applicant.
 
-(3)[^key-6b3bf12d8ac9855e2d09b4092f270223] Subject to subsection (5), any fee under this section must be determined by the public authority in accordance with regulations made by the Minister for the Cabinet Office[^key-ab645fc498481b2333e4e95b107efaf4].
+(3)[^c-6b3bf12d8ac9855e2d09b4092f270223] Subject to subsection (5), any fee under this section must be determined by the public authority in accordance with regulations made by the Minister for the Cabinet Office[^c-ab645fc498481b2333e4e95b107efaf4].
 
 (4) Regulations under subsection (3) may, in particular, provide—
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^c11340672]: Commencement: S. 9 wholly in force at 1.1.2005; s. 9 in force at Royal Assent to the extent that it confers power to make regulations, see s. 87(1)(m)(3); s. 9 otherwise in force at 1.1.2005 by [S.I. 2004/3122](https://www.legislation.gov.uk/uksi/2004/3122), [art. 2](https://www.legislation.gov.uk/uksi/2004/3122/article/2)
 
-[^key-6b3bf12d8ac9855e2d09b4092f270223]: Modification: S. 9(3) functions transferred (9.12.2015) by [The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897)](https://www.legislation.gov.uk/uksi/2015/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/1), [(2)(a)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1897/article/5))
+[^c-6b3bf12d8ac9855e2d09b4092f270223]: Modification: S. 9(3) functions transferred (9.12.2015) by [The Transfer of Functions (Information and Public Records) Order 2015 (S.I. 2015/1897)](https://www.legislation.gov.uk/uksi/2015/1897), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/1), [(2)(a)](https://www.legislation.gov.uk/uksi/2015/1897/article/4/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/1897/article/5))
 
-[^key-ab645fc498481b2333e4e95b107efaf4]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/9/3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 14(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/14/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-ab645fc498481b2333e4e95b107efaf4]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/2000/36/section/9/3) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 14(2)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/14/2/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

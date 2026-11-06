@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. OFCOM’s statement about freedom of expression and privacy[^key-d8679ef5ede7dff3b66b3cc7b58e017e][^key-a7d8b5666ba952246bf8d3d319600ab7]
+## 156. OFCOM’s statement about freedom of expression and privacy[^c-d8679ef5ede7dff3b66b3cc7b58e017e][^c-a7d8b5666ba952246bf8d3d319600ab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ OFCOM’s report under paragraph 12 of the Schedule to the Office of Communicati
 
 ## Annotations
 
-[^key-d8679ef5ede7dff3b66b3cc7b58e017e]: Commencement: S. 156 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d8679ef5ede7dff3b66b3cc7b58e017e]: Commencement: S. 156 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a7d8b5666ba952246bf8d3d319600ab7]: Commencement: S. 156 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-a7d8b5666ba952246bf8d3d319600ab7]: Commencement: S. 156 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

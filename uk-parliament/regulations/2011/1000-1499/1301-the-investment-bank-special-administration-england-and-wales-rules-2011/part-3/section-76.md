@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Requisition of meetings[^key-dc7d54d2ca61603c34af119135b5495c]
+## 76. Requisition of meetings[^c-dc7d54d2ca61603c34af119135b5495c]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 (6) The administrator—
 
-- (a) shall notify the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-c9ea71b93d58e2353ee37a7f313da801] of the details and purpose of the requisitioned meeting;
+- (a) shall notify the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-c9ea71b93d58e2353ee37a7f313da801] of the details and purpose of the requisitioned meeting;
 - (b) shall—
   - (i) in a special administration (bank insolvency), notify the Bank of England of the details and purpose of the requisitioned meeting, or
   - (ii) in a special administration (bank administration) notify the Bank of England and the FSCS of the details and purpose of the requisitioned meeting, and
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc7d54d2ca61603c34af119135b5495c]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2011/1301/rule/76) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-dc7d54d2ca61603c34af119135b5495c]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2011/1301/rule/76) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-c9ea71b93d58e2353ee37a7f313da801]: Textual amendment: Words in [art. 76(6)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/76/6/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(viii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/viii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-c9ea71b93d58e2353ee37a7f313da801]: Textual amendment: Words in [art. 76(6)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/76/6/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(viii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/viii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

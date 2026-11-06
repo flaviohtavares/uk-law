@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172. Statement of entitlement[^key-6d19af748c8707a76ebd63a769129ac7]
+## 172. Statement of entitlement[^c-6d19af748c8707a76ebd63a769129ac7]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d19af748c8707a76ebd63a769129ac7]: Commencement: Reg. 172 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-6d19af748c8707a76ebd63a769129ac7]: Commencement: Reg. 172 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

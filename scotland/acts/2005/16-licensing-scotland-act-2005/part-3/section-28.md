@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Period of effect of premises licence[^key-766f40dc6a6817d15dba0d7953d705a3]
+## 28. Period of effect of premises licence[^c-766f40dc6a6817d15dba0d7953d705a3]
 
 *Extent: S*
 
@@ -60,10 +60,10 @@ summary: ''
   - (ii) the appointment of an administrator or administrative receiver in respect of it, or
   - (iii) going into liquidation.
 
-(8) An expression used in subsection (7) which is also used in the Bankruptcy (Scotland) Act 2016[^key-96cfca51138bf0ff2c70b4972a9649b2] or the Insolvency Act 1986 (c. 45) has the same meaning in that subsection as it has in that Act.
+(8) An expression used in subsection (7) which is also used in the Bankruptcy (Scotland) Act 2016[^c-96cfca51138bf0ff2c70b4972a9649b2] or the Insolvency Act 1986 (c. 45) has the same meaning in that subsection as it has in that Act.
 
 ## Annotations
 
-[^key-766f40dc6a6817d15dba0d7953d705a3]: Commencement: S. 28 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-766f40dc6a6817d15dba0d7953d705a3]: Commencement: S. 28 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-96cfca51138bf0ff2c70b4972a9649b2]: Textual amendment: Word in s. 28(8) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 23](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/23) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-96cfca51138bf0ff2c70b4972a9649b2]: Textual amendment: Word in s. 28(8) substituted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 23](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/23) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

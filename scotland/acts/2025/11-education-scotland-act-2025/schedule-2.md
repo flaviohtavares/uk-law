@@ -24,11 +24,11 @@ summary: ''
 
 ### Part 1 — Status
 
-#### 1. Status[^key-e4ee3a4a487699ee7b5774ea13d7b3f4][^key-698e3738767f3403cd3772b9b41426a9]
+#### 1. Status[^c-e4ee3a4a487699ee7b5774ea13d7b3f4][^c-698e3738767f3403cd3772b9b41426a9]
 
 The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person distinct from the individual for the time being holding the office.
 
-#### 2. Independence[^key-196e48b443f5066fc988d95bcc049daa][^key-2d433921e8d953109dd2be9b0e1c6e65]
+#### 2. Independence[^c-196e48b443f5066fc988d95bcc049daa][^c-2d433921e8d953109dd2be9b0e1c6e65]
 
 (1) In performing the Chief Inspector’s functions, the Chief Inspector is not subject to the direction or control of any member of the Scottish Government.
 
@@ -36,7 +36,7 @@ The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person 
 
 ### Part 2 — Appointment and terms
 
-#### 3. Appointment[^key-8db8795f490a16680fc370721fde634a][^key-70003cc3baee65f6ee494cdf146d7a8b]
+#### 3. Appointment[^c-8db8795f490a16680fc370721fde634a][^c-70003cc3baee65f6ee494cdf146d7a8b]
 
 (1) The office of Chief Inspector is to be held by an individual appointed by His Majesty by Order in Council on the recommendation of the Scottish Ministers.
 
@@ -45,7 +45,7 @@ The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person 
 - (a) suitable teaching experience, and
 - (b) relevant experience of acting in a leadership role in an educational establishment.
 
-#### 4. Period and conditions of office[^key-f0d8626d97e1233c7551cd2be9b68f17][^key-ef2c8300a473107592a74a1695acd17a]
+#### 4. Period and conditions of office[^c-f0d8626d97e1233c7551cd2be9b68f17][^c-ef2c8300a473107592a74a1695acd17a]
 
 (1) The Chief Inspector holds and vacates office at His Majesty’s pleasure.
 
@@ -53,7 +53,7 @@ The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person 
 
 ### Part 3 — Staff
 
-#### 5. Staff[^key-d3b25fffa6c3551be1153b49b1046f9b][^key-ec4c4c68b149be178181fe6fd2f3a125]
+#### 5. Staff[^c-d3b25fffa6c3551be1153b49b1046f9b][^c-ec4c4c68b149be178181fe6fd2f3a125]
 
 (1) The Chief Inspector may appoint staff.
 
@@ -61,7 +61,7 @@ The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person 
 
 ### Part 4 — Procedure
 
-#### 6. Authority to perform functions[^key-713670b13505bc66f7df853d604f20c8][^key-b50255b2c2aafbfd63ce09336e4d10b7]
+#### 6. Authority to perform functions[^c-713670b13505bc66f7df853d604f20c8][^c-b50255b2c2aafbfd63ce09336e4d10b7]
 
 (1) The Chief Inspector may authorise an Inspector to perform such of the Chief Inspector’s functions (and to such extent) as the Chief Inspector may determine.
 
@@ -72,7 +72,7 @@ The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person 
 - (a) affect the Chief Inspector’s responsibility for the performance of the function, or
 - (b) prevent the Chief Inspector from performing the function.
 
-**7.**[^key-ea67d9a211d8480212b7223df74ca54c][^key-8eb81e58379cae607090ccbdab9d36da] (1) The Scottish Ministers may assign to an Inspector the function of deputising for the Chief Inspector during any period when both—
+**7.**[^c-ea67d9a211d8480212b7223df74ca54c][^c-8eb81e58379cae607090ccbdab9d36da] (1) The Scottish Ministers may assign to an Inspector the function of deputising for the Chief Inspector during any period when both—
 
 - (a) there is no Chief Inspector, or the Chief Inspector is unable to act, and
 - (b) there is no Deputy Chief Inspector, or the Deputy Chief Inspector is unable to act.
@@ -83,40 +83,40 @@ The Chief Inspector is, as Chief Inspector, to be regarded as a juristic person 
 - (b) may resign the assignment by informing the Scottish Ministers in writing to that effect,
 - (c) is assigned it, and ceases to be assigned it, in accordance with such terms and conditions as the Scottish Ministers determine.
 
-#### 8. Validity of things done[^key-b8430dc833673382a09b230fccae7773][^key-86eb8d3f33e37115961b7f095f22a10e]
+#### 8. Validity of things done[^c-b8430dc833673382a09b230fccae7773][^c-86eb8d3f33e37115961b7f095f22a10e]
 
 The validity of anything done by the Chief Inspector is not affected by a defect in a person’s appointment as Chief Inspector.
 
 ## Annotations
 
-[^key-e4ee3a4a487699ee7b5774ea13d7b3f4]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-e4ee3a4a487699ee7b5774ea13d7b3f4]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-698e3738767f3403cd3772b9b41426a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/1) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-698e3738767f3403cd3772b9b41426a9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/1) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-196e48b443f5066fc988d95bcc049daa]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-196e48b443f5066fc988d95bcc049daa]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-2d433921e8d953109dd2be9b0e1c6e65]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/2) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-2d433921e8d953109dd2be9b0e1c6e65]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/2) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-8db8795f490a16680fc370721fde634a]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-8db8795f490a16680fc370721fde634a]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-70003cc3baee65f6ee494cdf146d7a8b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/3) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-70003cc3baee65f6ee494cdf146d7a8b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/3) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-f0d8626d97e1233c7551cd2be9b68f17]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-f0d8626d97e1233c7551cd2be9b68f17]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-ef2c8300a473107592a74a1695acd17a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/4) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-ef2c8300a473107592a74a1695acd17a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/4) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-d3b25fffa6c3551be1153b49b1046f9b]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-d3b25fffa6c3551be1153b49b1046f9b]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-ec4c4c68b149be178181fe6fd2f3a125]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/5) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-ec4c4c68b149be178181fe6fd2f3a125]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/5) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-713670b13505bc66f7df853d604f20c8]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-713670b13505bc66f7df853d604f20c8]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-b50255b2c2aafbfd63ce09336e4d10b7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/6) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-b50255b2c2aafbfd63ce09336e4d10b7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/6) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-ea67d9a211d8480212b7223df74ca54c]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-ea67d9a211d8480212b7223df74ca54c]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-8eb81e58379cae607090ccbdab9d36da]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/7) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-8eb81e58379cae607090ccbdab9d36da]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/7) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
 
-[^key-b8430dc833673382a09b230fccae7773]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-b8430dc833673382a09b230fccae7773]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-86eb8d3f33e37115961b7f095f22a10e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/8) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-86eb8d3f33e37115961b7f095f22a10e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2025/11/schedule/2/paragraph/8) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

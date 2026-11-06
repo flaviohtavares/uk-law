@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Code of practice on deer management[^key-6d50b746d7ab009febda5ad8895bf712][^key-51ef09162c888273f5a8eab236fd51a5]
+## 13. Code of practice on deer management[^c-6d50b746d7ab009febda5ad8895bf712][^c-51ef09162c888273f5a8eab236fd51a5]
 
 *Extent: S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d50b746d7ab009febda5ad8895bf712]: Commencement: S. 13 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-6d50b746d7ab009febda5ad8895bf712]: Commencement: S. 13 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-51ef09162c888273f5a8eab236fd51a5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2026/6/section/13) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)
+[^c-51ef09162c888273f5a8eab236fd51a5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2026/6/section/13) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/k)

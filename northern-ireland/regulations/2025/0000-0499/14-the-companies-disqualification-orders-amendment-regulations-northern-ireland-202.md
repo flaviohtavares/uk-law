@@ -42,22 +42,22 @@ Coming into operation
 
 The Department for the Economy[^f00001] makes the following Regulations in exercise of the powers conferred by Article 22(1) and (7) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00002].
 
-## 1. Citation and commencement[^key-44a0cf75a28e5fee5540f6f46c34f1cc]
+## 1. Citation and commencement[^c-44a0cf75a28e5fee5540f6f46c34f1cc]
 
 These Regulations may be cited as the Companies (Disqualification Orders) (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 28th February 2025.
 
-## 2. Interpretation[^key-a243c4b082691492363ce731486d68e1]
+## 2. Interpretation[^c-a243c4b082691492363ce731486d68e1]
 
 In these Regulations–
 
 - “**High Court**” means His Majesty’s High Court of Justice in Northern Ireland;
 - “**the Order**” means the Company Directors Disqualification (Northern Ireland) Order 2002.
 
-## 3. Amendment of the Companies (Disqualification Orders) Regulations (Northern Ireland) 2010[^key-7a26ef9dc90f1006898d9e2046b54f0f]
+## 3. Amendment of the Companies (Disqualification Orders) Regulations (Northern Ireland) 2010[^c-7a26ef9dc90f1006898d9e2046b54f0f]
 
 The Companies (Disqualification Orders) Regulations (Northern Ireland) 2010[^f00003] are amended as set out in regulations 4 to 9.
 
-**4.**[^key-d333a55b8882dc2a9a52d18fbae104e2] Regulation 2 (Interpretation) is amended as follows–
+**4.**[^c-d333a55b8882dc2a9a52d18fbae104e2] Regulation 2 (Interpretation) is amended as follows–
 
 - (a) In the definition of “disqualification order” at the end insert “or an order of the High Court under section 8ZF or 8ZG of the Company Directors Disqualification Act 1986”.
 - (b) In the definition of “disqualification undertaking” at the end insert “or an undertaking accepted by an officer of Revenue and Customs under section 8ZF or 8ZG of the Company Directors Disqualification Act 1986, insofar as these two sections extend to Northern Ireland”.
@@ -66,17 +66,17 @@ The Companies (Disqualification Orders) Regulations (Northern Ireland) 2010[^f00
   - “**High Court**” means His Majesty’s High Court of Justice in Northern Ireland;
   - “**officer of Revenue and Customs**” has the meaning given by section 2(1) of the Commissioners for Revenue and Customs Act 2005.
 
-**5.**[^key-4c85283a1c689da6e94d552e7ce3d73b] Omit regulation 4.
+**5.**[^c-4c85283a1c689da6e94d552e7ce3d73b] Omit regulation 4.
 
-**6.**[^key-a639aac3fff336b24f51604195eecc6c] In Schedule 1, for form DQ01n substitute form DQ01n as set out in Part 1 of the Schedule to these Regulations.
+**6.**[^c-a639aac3fff336b24f51604195eecc6c] In Schedule 1, for form DQ01n substitute form DQ01n as set out in Part 1 of the Schedule to these Regulations.
 
-**7.**[^key-dd1dcd29845883f4a7466471a873099d] In Schedule 2, for form DQ02n substitute form DQ02n as set out in Part 2 of the Schedule to these Regulations.
+**7.**[^c-dd1dcd29845883f4a7466471a873099d] In Schedule 2, for form DQ02n substitute form DQ02n as set out in Part 2 of the Schedule to these Regulations.
 
-**8.**[^key-a9afc807de74e4a4eba8f4211116f8f5] In Schedule 3, for form DQ03n substitute form DQ03n as set out in Part 3 of the Schedule to these Regulations.
+**8.**[^c-a9afc807de74e4a4eba8f4211116f8f5] In Schedule 3, for form DQ03n substitute form DQ03n as set out in Part 3 of the Schedule to these Regulations.
 
-**9.**[^key-e43ba7f8a06d7198b651222c492ca4ab] In Schedule 4, for form DQ04n substitute form DQ04n as set out in Part 4 of the Schedule to these Regulations.
+**9.**[^c-e43ba7f8a06d7198b651222c492ca4ab] In Schedule 4, for form DQ04n substitute form DQ04n as set out in Part 4 of the Schedule to these Regulations.
 
-## 10. Extension of certain of the provisions of Article 22 of the Order to orders made and undertakings accepted under sections 8ZF and 8ZG of the Company Directors Disqualification Act 1986 and leave granted in relation to such orders and undertakings[^key-b24fc09a72a1096c93cfb06c90cedd41]
+## 10. Extension of certain of the provisions of Article 22 of the Order to orders made and undertakings accepted under sections 8ZF and 8ZG of the Company Directors Disqualification Act 1986 and leave granted in relation to such orders and undertakings[^c-b24fc09a72a1096c93cfb06c90cedd41]
 
 (1) Article 22(1) of the Order is extended to particulars of–
 
@@ -161,24 +161,24 @@ A regulatory impact assessment has not been produced for this instrument as no i
 
 [^f00002]: Footnote: S.I. [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150). Article 22 was amended by paragraph 211 of Schedule 1 to the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 ([S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)), Article 4(8) of the Company Directors Disqualification (Amendment) (Northern Ireland) Order 2005 ([S.I. 2005/1454 (N.I. 9))](https://www.legislation.gov.uk/nisi/2005/1454), paragraph 9(13) of Schedule 8 to the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) and by paragraph 232 of Schedule 1 to the Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 ([S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892)).
 
-[^key-44a0cf75a28e5fee5540f6f46c34f1cc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-44a0cf75a28e5fee5540f6f46c34f1cc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-a243c4b082691492363ce731486d68e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/14/regulation/2) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-a243c4b082691492363ce731486d68e1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/14/regulation/2) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-7a26ef9dc90f1006898d9e2046b54f0f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/14/regulation/3) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-7a26ef9dc90f1006898d9e2046b54f0f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/14/regulation/3) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
 [^f00003]: Footnote: [S.R 2010 No. 184](https://www.legislation.gov.uk/nisr/2010/184), as amended by [S.I. 2015/1651](https://www.legislation.gov.uk/uksi/2015/1651).
 
-[^key-d333a55b8882dc2a9a52d18fbae104e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/14/regulation/4) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-d333a55b8882dc2a9a52d18fbae104e2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/14/regulation/4) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-4c85283a1c689da6e94d552e7ce3d73b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/14/regulation/5) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-4c85283a1c689da6e94d552e7ce3d73b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/14/regulation/5) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-a639aac3fff336b24f51604195eecc6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/14/regulation/6) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-a639aac3fff336b24f51604195eecc6c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/14/regulation/6) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-dd1dcd29845883f4a7466471a873099d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/14/regulation/7) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-dd1dcd29845883f4a7466471a873099d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/14/regulation/7) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-a9afc807de74e4a4eba8f4211116f8f5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/14/regulation/8) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-a9afc807de74e4a4eba8f4211116f8f5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/14/regulation/8) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-e43ba7f8a06d7198b651222c492ca4ab]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/14/regulation/9) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-e43ba7f8a06d7198b651222c492ca4ab]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/14/regulation/9) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
 
-[^key-b24fc09a72a1096c93cfb06c90cedd41]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/14/regulation/10) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)
+[^c-b24fc09a72a1096c93cfb06c90cedd41]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/14/regulation/10) in operation at 28.2.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/14/regulation/1)

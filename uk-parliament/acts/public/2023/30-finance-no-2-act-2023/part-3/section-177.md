@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Any amount of qualifying current tax expense included in the underlying profits accounts of a member of a multinational group that is in respect of profits of a permanent establishment is to be allocated to the permanent establishment (and is to be regarded as qualifying current tax expense of the permanent establishment for the purposes of applying section 175(2)(a))[^key-330851fc718346fd9d6e818a01ad8482].
+(1) Any amount of qualifying current tax expense included in the underlying profits accounts of a member of a multinational group that is in respect of profits of a permanent establishment is to be allocated to the permanent establishment (and is to be regarded as qualifying current tax expense of the permanent establishment for the purposes of applying section 175(2)(a))[^c-330851fc718346fd9d6e818a01ad8482].
 
 (2) Where profits of a permanent establishment are treated as income of the main entity as a result of section 160(5), covered taxes on those profits are to be allocated to the main entity.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-330851fc718346fd9d6e818a01ad8482]: Textual amendment: Words in s. 177(1) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 17(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/17/1)
+[^c-330851fc718346fd9d6e818a01ad8482]: Textual amendment: Words in s. 177(1) inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 17(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/17/1)

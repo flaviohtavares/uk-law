@@ -90,7 +90,7 @@ the straddling accounting period is to be treated as split.
 
 (2) Where this paragraph provides that the straddling accounting period is to be treated as “split”—
 
-- (a) that part of the straddling accounting period that falls before 1 July 2009 and that part of the straddling accounting period that falls on or after that date are to be treated for the purposes of Chapter 4 of Part 17, and Part 18, of ICTAand Part 2 of TIOPA 2010[^key-b9030f0f40608219d3afdb6c990e2e35] as separate accounting periods, and
+- (a) that part of the straddling accounting period that falls before 1 July 2009 and that part of the straddling accounting period that falls on or after that date are to be treated for the purposes of Chapter 4 of Part 17, and Part 18, of ICTAand Part 2 of TIOPA 2010[^c-b9030f0f40608219d3afdb6c990e2e35] as separate accounting periods, and
 - (b) the company's chargeable profits for the straddling accounting period, and its creditable tax (if any) for that period, are to be apportioned to the two separate accounting periods on a just and reasonable basis.
 
 #### Transitional provision
@@ -155,10 +155,10 @@ the straddling accounting period is to be treated as split.
 
 (2) For this purpose “**the commencement date**” means—
 
-- (a) in relation to a controlled foreign company other than a qualifying holding company, 1 July 2009, [^key-9b00349d8edf15e88ed0ff62f8638f71]...
-- (b)[^key-9b00349d8edf15e88ed0ff62f8638f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in relation to a controlled foreign company other than a qualifying holding company, 1 July 2009, [^c-9b00349d8edf15e88ed0ff62f8638f71]...
+- (b)[^c-9b00349d8edf15e88ed0ff62f8638f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1b9862bc201e038ac6e68ec38df2cf0c] The amendments made by this Part have no effect in relation to a qualifying holding company.
+(3)[^c-1b9862bc201e038ac6e68ec38df2cf0c] The amendments made by this Part have no effect in relation to a qualifying holding company.
 
 #### Meaning of “qualifying holding company” and “exempt holding company”
 
@@ -187,14 +187,14 @@ the straddling accounting period is to be treated as split.
 
 #### Qualifying holding companies: periods straddling 1 July 2012[^M_F_509f6d6d-eb24-4928-8cad-113af9229f88]
 
-**15.**[^key-45c1abfa19ead4dacf3fba7b0cb33a1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-45c1abfa19ead4dacf3fba7b0cb33a1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Qualifying holding companies: definition of “relevant accounting period”
 
 **16.** For the purposes of paragraph 17 an accounting period of a qualifying holding company is a “relevant accounting period” if it—
 
-- (a) begins on or after 1 July 2009 but before 1 January 2013[^key-f799ad1c23fd62f1a11f09f21d82966b], [^key-db812ee15d93d341871c3f2da0e0fc48]...
-- (b)[^key-db812ee15d93d341871c3f2da0e0fc48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) begins on or after 1 July 2009 but before 1 January 2013[^c-f799ad1c23fd62f1a11f09f21d82966b], [^c-db812ee15d93d341871c3f2da0e0fc48]...
+- (b)[^c-db812ee15d93d341871c3f2da0e0fc48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Qualifying holding companies: treatment during three years before 1 July 2012[^M_F_48102d4d-459a-4958-d105-a1ebe6da1dc2]
 
@@ -282,7 +282,7 @@ DY is the number of days in the period by reference to which amount Y is determi
 
 **21.** ICTA is amended as follows.
 
-**22.**[^key-93a67d867e5455e43fe848bfd874c8ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-93a67d867e5455e43fe848bfd874c8ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** After section 751A insert—
 
@@ -312,7 +312,7 @@ DY is the number of days in the period by reference to which amount Y is determi
 
 (2) In the heading, for “Section 751A” substitute “ Sections 751A and 751AA ”.
 
-(3)[^key-4d2c1ef6adcaa2a018f14256db381239] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4d2c1ef6adcaa2a018f14256db381239] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (8)—
 
@@ -329,7 +329,7 @@ DY is the number of days in the period by reference to which amount Y is determi
   >
   > - (b) in the case of an appeal in respect of the refusal of an application under section 751AA, has the meaning given by subsection (5) of that section.
 
-(5)[^key-4e07b5315759bd9935dc24956ea18257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4e07b5315759bd9935dc24956ea18257] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Commencement
 
@@ -339,24 +339,24 @@ DY is the number of days in the period by reference to which amount Y is determi
 
 ## Annotations
 
-[^key-b9030f0f40608219d3afdb6c990e2e35]: Textual amendment: Words in Sch. 16 para. 7(2)(a) inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 104](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/104) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b9030f0f40608219d3afdb6c990e2e35]: Textual amendment: Words in Sch. 16 para. 7(2)(a) inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 104](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/104) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-9b00349d8edf15e88ed0ff62f8638f71]: Textual amendment: Sch. 16 para. 12(2)(b) and word omitted (retrospective to 30.6.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 33(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/33/a), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
+[^c-9b00349d8edf15e88ed0ff62f8638f71]: Textual amendment: Sch. 16 para. 12(2)(b) and word omitted (retrospective to 30.6.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 33(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/33/a), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
 
-[^key-1b9862bc201e038ac6e68ec38df2cf0c]: Textual amendment: Sch. 16 para. 12(3) inserted (retrospective to 30.6.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 33(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/33/b), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
+[^c-1b9862bc201e038ac6e68ec38df2cf0c]: Textual amendment: Sch. 16 para. 12(3) inserted (retrospective to 30.6.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 33(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/33/b), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
 
 [^M_F_509f6d6d-eb24-4928-8cad-113af9229f88]: Textual amendment: Word in Sch. 16 para. 15 heading substituted (21.7.2009 retrospective) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 paras. 9(3)(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/9/3/b), [14(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/14/1)
 
-[^key-45c1abfa19ead4dacf3fba7b0cb33a1a]: Textual amendment: [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/15) omitted (retrospective to 30.6.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 34](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/34), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
+[^c-45c1abfa19ead4dacf3fba7b0cb33a1a]: Textual amendment: [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/15) omitted (retrospective to 30.6.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 34](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/34), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
 
-[^key-f799ad1c23fd62f1a11f09f21d82966b]: Textual amendment: Words in Sch. 16 para. 16(a) inserted (retrospective to 30.6.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 35(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/35/a), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
+[^c-f799ad1c23fd62f1a11f09f21d82966b]: Textual amendment: Words in Sch. 16 para. 16(a) inserted (retrospective to 30.6.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 35(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/35/a), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
 
-[^key-db812ee15d93d341871c3f2da0e0fc48]: Textual amendment: Sch. 16 para. 16(b) and word omitted (retrospective to 30.6.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 35(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/35/b), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
+[^c-db812ee15d93d341871c3f2da0e0fc48]: Textual amendment: Sch. 16 para. 16(b) and word omitted (retrospective to 30.6.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 35(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/35/b), [54](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/54)
 
 [^M_F_48102d4d-459a-4958-d105-a1ebe6da1dc2]: Textual amendment: Word in Sch. 16 para. 17 substituted (21.7.2009 retrospective) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), Sch. 12 paras. 9(5), 14(1)
 
-[^key-93a67d867e5455e43fe848bfd874c8ff]: Textual amendment: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/22) omitted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/b)
+[^c-93a67d867e5455e43fe848bfd874c8ff]: Textual amendment: [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/22) omitted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/b)
 
-[^key-4d2c1ef6adcaa2a018f14256db381239]: Textual amendment: [Sch. 16 para. 24(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/24/3) omitted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/b)
+[^c-4d2c1ef6adcaa2a018f14256db381239]: Textual amendment: [Sch. 16 para. 24(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/24/3) omitted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/b)
 
-[^key-4e07b5315759bd9935dc24956ea18257]: Textual amendment: [Sch. 16 para. 24(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/24/5) omitted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/b)
+[^c-4e07b5315759bd9935dc24956ea18257]: Textual amendment: [Sch. 16 para. 24(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/24/5) omitted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 13(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/13/b)

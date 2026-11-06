@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Development plans[^key-fb588970a2865f6c5c03525f9e9cc6c2][^key-022bf1247076a3ff5a4478a2e348a9fb][^key-637a766456e38b1aa19cd50e7214592c]
+## 2. Development plans[^c-fb588970a2865f6c5c03525f9e9cc6c2][^c-022bf1247076a3ff5a4478a2e348a9fb][^c-637a766456e38b1aa19cd50e7214592c]
 
 *Extent: S*
 
@@ -895,8 +895,8 @@ For Part 2 of the principal Act substitute—
 
 ## Annotations
 
-[^key-fb588970a2865f6c5c03525f9e9cc6c2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/17/section/2) in force at 19.5.2008 for specified purposes by [S.S.I. 2008/164](https://www.legislation.gov.uk/ssi/2008/164), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/164/article/2/1)
+[^c-fb588970a2865f6c5c03525f9e9cc6c2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/17/section/2) in force at 19.5.2008 for specified purposes by [S.S.I. 2008/164](https://www.legislation.gov.uk/ssi/2008/164), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/164/article/2/1)
 
-[^key-022bf1247076a3ff5a4478a2e348a9fb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/17/section/2) in force at 25.6.2008 for specified purposes by [S.S.I. 2008/164](https://www.legislation.gov.uk/ssi/2008/164), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/164/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/164/schedule) (as amended (1.6.2008) by S.S.I. 2008/191, art. 3)
+[^c-022bf1247076a3ff5a4478a2e348a9fb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/17/section/2) in force at 25.6.2008 for specified purposes by [S.S.I. 2008/164](https://www.legislation.gov.uk/ssi/2008/164), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/164/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/164/schedule) (as amended (1.6.2008) by S.S.I. 2008/191, art. 3)
 
-[^key-637a766456e38b1aa19cd50e7214592c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/17/section/2) in force at 28.2.2009 in so far as not already in force by [S.S.I. 2009/70](https://www.legislation.gov.uk/ssi/2009/70), [art. 2](https://www.legislation.gov.uk/ssi/2009/70/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/70/schedule)
+[^c-637a766456e38b1aa19cd50e7214592c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2006/17/section/2) in force at 28.2.2009 in so far as not already in force by [S.S.I. 2009/70](https://www.legislation.gov.uk/ssi/2009/70), [art. 2](https://www.legislation.gov.uk/ssi/2009/70/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/70/schedule)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**138.**[^key-3af5ed240510d57883b53c595339bea2] In section 171ZV[^f00155] (entitlement: adoption) for subsections (17) and (18) substitute—
+**138.**[^c-3af5ed240510d57883b53c595339bea2] In section 171ZV[^f00155] (entitlement: adoption) for subsections (17) and (18) substitute—
 
 > (17) Regulations are to provide for entitlement to statutory shared parental pay in respect of a child placed, or expected to be placed—
 >
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3af5ed240510d57883b53c595339bea2]: Commencement: Reg. 138 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-3af5ed240510d57883b53c595339bea2]: Commencement: Reg. 138 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00155]: Footnote: Section 171ZV was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 119(1).

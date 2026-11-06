@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Entitlement of lone parents to income support etc.[^key-c6e3ab6a0164add7200a8ba7f37fdd9a]
+## 64. Entitlement of lone parents to income support etc.[^c-c6e3ab6a0164add7200a8ba7f37fdd9a]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e3ab6a0164add7200a8ba7f37fdd9a]: Commencement: Art. 64 in operation at 16.1.2017 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(b)](https://www.legislation.gov.uk/nisr/2016/46/article/5/b)
+[^c-c6e3ab6a0164add7200a8ba7f37fdd9a]: Commencement: Art. 64 in operation at 16.1.2017 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(b)](https://www.legislation.gov.uk/nisr/2016/46/article/5/b)
 
 [^M_F_785e4b57-0faa-42a1-b7f0-dfe128c2775f]: Textual amendment: Art. 64(2) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/5); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Composition of individual tribunals: general[^key-6080bde81db928fe8e166661aad793d0]
+## 10. Composition of individual tribunals: general[^c-6080bde81db928fe8e166661aad793d0]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6080bde81db928fe8e166661aad793d0]: Commencement: Reg. 10 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-6080bde81db928fe8e166661aad793d0]: Commencement: Reg. 10 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 7
 
-**1.**[^key-85feef1b4cdd37b1735b2df698eca5b7][^key-5957ec3e54754c5199b172208af63b4f] (1) In Article 1, omit “harmonised”.
+**1.**[^c-85feef1b4cdd37b1735b2df698eca5b7][^c-5957ec3e54754c5199b172208af63b4f] (1) In Article 1, omit “harmonised”.
 
-**2.**[^key-032b64ad33d34610931e373a86422695] (1) Article 2 is amended as follows.
+**2.**[^c-032b64ad33d34610931e373a86422695] (1) Article 2 is amended as follows.
 
-(2)[^key-bafff68c88afb6c5cb5077282c857136] In paragraph 1, for “entry points from third countries or exit points to third countries” substitute “entry points from or exit points to other countries that are not member States”.
+(2)[^c-bafff68c88afb6c5cb5077282c857136] In paragraph 1, for “entry points from third countries or exit points to third countries” substitute “entry points from or exit points to other countries that are not member States”.
 
 (3) Omit paragraph 2.
 
@@ -47,7 +47,7 @@ Regulation 7
 
 .
 
-**3.**[^key-48eee81a7796dab1ead929035e4cd711] (1) Article 3 is amended as follows.
+**3.**[^c-48eee81a7796dab1ead929035e4cd711] (1) Article 3 is amended as follows.
 
 (2) In the words before point (1)—
 
@@ -56,9 +56,9 @@ Regulation 7
 
 (3) In points (3), (5), (11) and (17), for “in accordance with Article 41(6)(a) of Directive [2009/73/EC](https://www.legislation.gov.uk/eudr/2009/73)”, substitute “ by the national regulatory authority ”.
 
-**4.**[^key-bc46bdf7239443da27aa945a060fd560] In Article 4(4)(b), for “a Member State”, substitute “ the United Kingdom ”.
+**4.**[^c-bc46bdf7239443da27aa945a060fd560] In Article 4(4)(b), for “a Member State”, substitute “ the United Kingdom ”.
 
-**5.**[^key-96a7293ebbacc513ed892c4f8b459a33] (1) Article 5 is amended as follows.
+**5.**[^c-96a7293ebbacc513ed892c4f8b459a33] (1) Article 5 is amended as follows.
 
 (2) In paragraph 3—
 
@@ -78,7 +78,7 @@ Regulation 7
   - (i) for “in euro”, substitute “ in pounds sterling ”; and
   - (ii) for “the euro”, substitute “ pounds sterling ”.
 
-**5A.**[^M_I_984cfd21-ed97-44b7-a53f-7a071278d0d5][^key-124781951fc7f5ec76811750f3761304] In Article 9(2), for “Member States” substitute “Great Britain or Northern Ireland, or other countries or territories”.
+**5A.**[^M_I_984cfd21-ed97-44b7-a53f-7a071278d0d5][^c-124781951fc7f5ec76811750f3761304] In Article 9(2), for “Member States” substitute “Great Britain or Northern Ireland, or other countries or territories”.
 
 **5B.**[^M_I_2531c245-1c65-4436-d151-9ea7b738fa28] (1) Article 10 is amended as follows.
 
@@ -119,7 +119,7 @@ Regulation 7
 
 **5I.**[^M_I_174b5d3a-c6f3-4c1d-aa3a-30b90e02e0ec] In Article 20(2), for “in accordance with Article 41(6)(a) of [Directive 2009/73/EC](https://www.legislation.gov.uk/eudr/2009/0073)” substitute “by the national regulatory authority”.
 
-**6.**[^key-951e94fee8fa3b3534c5bfa99825c484] (1) Article 21 is amended as follows.
+**6.**[^c-951e94fee8fa3b3534c5bfa99825c484] (1) Article 21 is amended as follows.
 
 (2) In paragraph 3—
 
@@ -136,9 +136,9 @@ Regulation 7
 
 .
 
-**7.**[^key-065da35a6d37367a1b7c9de1a80a6c19] In Article 25(1)(b)(ii)(2), after “Council”, insert “ as it had effect in EU law immediately before IP completion day[^key-97e73b4bfdc06cbd2b3f838ab6a9a05a]”.
+**7.**[^c-065da35a6d37367a1b7c9de1a80a6c19] In Article 25(1)(b)(ii)(2), after “Council”, insert “ as it had effect in EU law immediately before IP completion day[^c-97e73b4bfdc06cbd2b3f838ab6a9a05a]”.
 
-**8.**[^key-6a070631674b448f17858889c0447d56] (1) Article 26 is amended as follows.
+**8.**[^c-6a070631674b448f17858889c0447d56] (1) Article 26 is amended as follows.
 
 (2) In paragraph 1, in the words before point (a), omit the second sentence.
 
@@ -146,7 +146,7 @@ Regulation 7
 
 (4) Omit paragraph 5.
 
-**9.**[^key-bc88c229508ea0b3bd31fc4321493c25] (1) Article 27 is amended as follows.
+**9.**[^c-bc88c229508ea0b3bd31fc4321493c25] (1) Article 27 is amended as follows.
 
 (2) Omit paragraphs 1, 2 and 3.
 
@@ -156,18 +156,18 @@ Regulation 7
 - (b) omit “, acting in accordance with Article 41(6)(a) of Directive [2009/73/EC](https://www.legislation.gov.uk/eudr/2009/73),”; and
 - (c) omit the last sentence.
 
-(4)[^key-8161c8d61c21c245b26a5ec52644b108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8161c8d61c21c245b26a5ec52644b108] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-695a205072a67c4f4c6788642efbc395] (1) Article 28(1) is amended as follows.
+**10.**[^c-695a205072a67c4f4c6788642efbc395] (1) Article 28(1) is amended as follows.
 
 (2) In the words before point (a)—
 
 - (a) after “consultation with the”, for “national”, substitute “ non-UK ”; and
 - (b) for “Member States”, substitute “ countries or territories, the other national regulatory authority ”.
 
-(3)[^key-ae00d537891e97e94480f4fa0f880ba9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ae00d537891e97e94480f4fa0f880ba9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ae00d537891e97e94480f4fa0f880ba9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ae00d537891e97e94480f4fa0f880ba9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the words after point (c)—
 
@@ -176,7 +176,7 @@ Regulation 7
 - (c) after “positions of”, for “national”, substitute “ non-UK ”; and
 - (d) for “Member States”, substitute “ countries or territories and the other national regulatory authority ”.
 
-**11.**[^key-58219cc4f16b7db3ce8ad0b8310f6767] (1) Article 31 is amended as follows.
+**11.**[^c-58219cc4f16b7db3ce8ad0b8310f6767] (1) Article 31 is amended as follows.
 
 (2) In paragraph 1—
 
@@ -195,9 +195,9 @@ Regulation 7
 
 (5) Omit paragraph 4.
 
-**12.**[^key-c5864e91e26bc1e81ed2634c6d733fa5] In Article 32(c), for “in accordance with Article 41(6)(a) of [Directive 2009/73/EC](https://www.legislation.gov.uk/eudr/2009/0073)” substitute “of the national regulatory authority”.
+**12.**[^c-c5864e91e26bc1e81ed2634c6d733fa5] In Article 32(c), for “in accordance with Article 41(6)(a) of [Directive 2009/73/EC](https://www.legislation.gov.uk/eudr/2009/0073)” substitute “of the national regulatory authority”.
 
-**13.**[^key-98a8e1b4d244586d49135057f5a9ea8a] (1) Article 33 is amended as follows.
+**13.**[^c-98a8e1b4d244586d49135057f5a9ea8a] (1) Article 33 is amended as follows.
 
 (2) In paragraph 3, for “in accordance with Article 41(6)(a) of Directive [2009/73/EC](https://www.legislation.gov.uk/eudr/2009/73)”, substitute “ by the national regulatory authority ”.
 
@@ -206,7 +206,7 @@ Regulation 7
 (4) In paragraph 5—
 
 - (a) for “A mandatory minimum premium approved by the national regulatory authority”, substitute “ If a mandatory minimum premium is approved by the national regulatory authority, and by any non-UK regulatory authorities whose approval is required, it ”;
-- (b) omit “by the respective national[^key-767a883b59beaa61d1bcda13372559f2] regulatory authority”; and
+- (b) omit “by the respective national[^c-767a883b59beaa61d1bcda13372559f2] regulatory authority”; and
 - (c) for “agreement between the involved national regulatory authorities”, substitute “ decision by the national regulatory authority, or agreement between the national regulatory authority and any non-UK regulatory authorities whose approval is required ”.
 
 (5) After paragraph 5, insert—
@@ -217,13 +217,13 @@ Regulation 7
 
 .
 
-**14.**[^key-f414452caffa430968006bde45883f6c] Omit Article 34.
+**14.**[^c-f414452caffa430968006bde45883f6c] Omit Article 34.
 
-**15.**[^key-9885f33b1a5a71e23dbfc871e556db09] Omit Article 35(3).
+**15.**[^c-9885f33b1a5a71e23dbfc871e556db09] Omit Article 35(3).
 
-**16.**[^key-83431b7189ede1489f9190c7935d63c4] Omit Article 36.
+**16.**[^c-83431b7189ede1489f9190c7935d63c4] Omit Article 36.
 
-**17.**[^key-034c3ee04d1d2a87cc85c8a12c188ee1] (1) Article 37 is amended as follows.
+**17.**[^c-034c3ee04d1d2a87cc85c8a12c188ee1] (1) Article 37 is amended as follows.
 
 (2) In paragraph 1, in the words before point (a)—
 
@@ -253,29 +253,29 @@ Regulation 7
 
 **Not yet in force.**
 
-**18.**[^key-5ad69fc6be6e23b76e570de899c9c8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-5ad69fc6be6e23b76e570de899c9c8f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-295586e2ebf57bc35185b574e7a715fa] In the text after Article 38, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
+**19.**[^c-295586e2ebf57bc35185b574e7a715fa] In the text after Article 38, omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
 ## Annotations
 
-[^key-85feef1b4cdd37b1735b2df698eca5b7]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-85feef1b4cdd37b1735b2df698eca5b7]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-5957ec3e54754c5199b172208af63b4f]: Textual amendment: Sch. 5 para. 1 substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/1)
+[^c-5957ec3e54754c5199b172208af63b4f]: Textual amendment: Sch. 5 para. 1 substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/1)
 
-[^key-032b64ad33d34610931e373a86422695]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-032b64ad33d34610931e373a86422695]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-bafff68c88afb6c5cb5077282c857136]: Textual amendment: Sch. 5 para. 2(2) substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/2)
+[^c-bafff68c88afb6c5cb5077282c857136]: Textual amendment: Sch. 5 para. 2(2) substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/2)
 
-[^key-48eee81a7796dab1ead929035e4cd711]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-48eee81a7796dab1ead929035e4cd711]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-bc46bdf7239443da27aa945a060fd560]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-bc46bdf7239443da27aa945a060fd560]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-96a7293ebbacc513ed892c4f8b459a33]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-96a7293ebbacc513ed892c4f8b459a33]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^M_I_984cfd21-ed97-44b7-a53f-7a071278d0d5]: Commencement: Sch. 5 para. 5A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-124781951fc7f5ec76811750f3761304]: Textual amendment: Sch. 5 paras. 5A-5I inserted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/3)
+[^c-124781951fc7f5ec76811750f3761304]: Textual amendment: Sch. 5 paras. 5A-5I inserted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/3)
 
 [^M_I_2531c245-1c65-4436-d151-9ea7b738fa28]: Commencement: Sch. 5 para. 5B in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -293,38 +293,38 @@ Regulation 7
 
 [^M_I_174b5d3a-c6f3-4c1d-aa3a-30b90e02e0ec]: Commencement: Sch. 5 para. 5I in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-951e94fee8fa3b3534c5bfa99825c484]: Commencement: Sch. 5 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-951e94fee8fa3b3534c5bfa99825c484]: Commencement: Sch. 5 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-065da35a6d37367a1b7c9de1a80a6c19]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-065da35a6d37367a1b7c9de1a80a6c19]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-97e73b4bfdc06cbd2b3f838ab6a9a05a]: Textual amendment: Words in Sch. 5 para. 7 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/4/5)
+[^c-97e73b4bfdc06cbd2b3f838ab6a9a05a]: Textual amendment: Words in Sch. 5 para. 7 substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/4/5)
 
-[^key-6a070631674b448f17858889c0447d56]: Textual amendment: Sch. 5 para. 8 substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/4)
+[^c-6a070631674b448f17858889c0447d56]: Textual amendment: Sch. 5 para. 8 substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/4)
 
-[^key-bc88c229508ea0b3bd31fc4321493c25]: Commencement: Sch. 5 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-bc88c229508ea0b3bd31fc4321493c25]: Commencement: Sch. 5 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-8161c8d61c21c245b26a5ec52644b108]: Textual amendment: Sch. 5 para. 9(4) omitted (25.10.2019) by virtue of [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/5)
+[^c-8161c8d61c21c245b26a5ec52644b108]: Textual amendment: Sch. 5 para. 9(4) omitted (25.10.2019) by virtue of [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/5)
 
-[^key-695a205072a67c4f4c6788642efbc395]: Commencement: Sch. 5 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-695a205072a67c4f4c6788642efbc395]: Commencement: Sch. 5 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-ae00d537891e97e94480f4fa0f880ba9]: Textual amendment: Sch. 5 para. 10(3)(4) omitted (25.10.2019) by virtue of [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/6)
+[^c-ae00d537891e97e94480f4fa0f880ba9]: Textual amendment: Sch. 5 para. 10(3)(4) omitted (25.10.2019) by virtue of [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/6)
 
-[^key-58219cc4f16b7db3ce8ad0b8310f6767]: Commencement: Sch. 5 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-58219cc4f16b7db3ce8ad0b8310f6767]: Commencement: Sch. 5 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c5864e91e26bc1e81ed2634c6d733fa5]: Textual amendment: Sch. 5 para. 12 substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/7)
+[^c-c5864e91e26bc1e81ed2634c6d733fa5]: Textual amendment: Sch. 5 para. 12 substituted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/7)
 
-[^key-98a8e1b4d244586d49135057f5a9ea8a]: Commencement: Sch. 5 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-98a8e1b4d244586d49135057f5a9ea8a]: Commencement: Sch. 5 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-767a883b59beaa61d1bcda13372559f2]: Textual amendment: Word in Sch. 5 para. 13(4)(b) inserted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/8)
+[^c-767a883b59beaa61d1bcda13372559f2]: Textual amendment: Word in Sch. 5 para. 13(4)(b) inserted (25.10.2019) by [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/8)
 
-[^key-f414452caffa430968006bde45883f6c]: Commencement: Sch. 5 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f414452caffa430968006bde45883f6c]: Commencement: Sch. 5 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-9885f33b1a5a71e23dbfc871e556db09]: Commencement: Sch. 5 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-9885f33b1a5a71e23dbfc871e556db09]: Commencement: Sch. 5 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-83431b7189ede1489f9190c7935d63c4]: Commencement: Sch. 5 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-83431b7189ede1489f9190c7935d63c4]: Commencement: Sch. 5 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-034c3ee04d1d2a87cc85c8a12c188ee1]: Commencement: Sch. 5 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-034c3ee04d1d2a87cc85c8a12c188ee1]: Commencement: Sch. 5 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-5ad69fc6be6e23b76e570de899c9c8f0]: Textual amendment: Sch. 5 para. 18 omitted (25.10.2019) by virtue of [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/9)
+[^c-5ad69fc6be6e23b76e570de899c9c8f0]: Textual amendment: Sch. 5 para. 18 omitted (25.10.2019) by virtue of [The Gas Tariffs Code (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1393)](https://www.legislation.gov.uk/uksi/2019/1393), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1393/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/1393/schedule/paragraph/9)
 
-[^key-295586e2ebf57bc35185b574e7a715fa]: Commencement: Sch. 5 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-295586e2ebf57bc35185b574e7a715fa]: Commencement: Sch. 5 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

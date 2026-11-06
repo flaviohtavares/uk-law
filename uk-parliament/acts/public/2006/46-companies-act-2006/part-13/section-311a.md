@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-060fbe922df595816e9e5552acee9a77]
+[^c-060fbe922df595816e9e5552acee9a77]
 
 (1) A traded company must ensure that the following information relating to a general meeting of the company is made available on a website—
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c20624571]: Textual amendment: S. 311A inserted (3.8.2009) by [The Companies (Shareholders' Rights) Regulations 2009 (S.I. 2009/1632)](https://www.legislation.gov.uk/uksi/2009/1632), [reg. 11](https://www.legislation.gov.uk/uksi/2009/1632/regulation/11) (with application as stated in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/1632/regulation/1/2))
 
-[^key-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)

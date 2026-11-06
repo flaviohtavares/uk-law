@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. Duty to co-operate[^key-0f5fccbb06c71e57b2c3579176b568ef]
+## 2. Duty to co-operate[^c-0f5fccbb06c71e57b2c3579176b568ef]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f5fccbb06c71e57b2c3579176b568ef]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2005/2022/rule/2) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-0f5fccbb06c71e57b2c3579176b568ef]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2005/2022/rule/2) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

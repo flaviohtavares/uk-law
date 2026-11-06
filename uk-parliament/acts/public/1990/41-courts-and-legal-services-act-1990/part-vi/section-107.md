@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) Every local weights and measures authority (“an authority") and the FCA[^key-7e0077ecdbeeb5e90db281ddf1d276f6] shall have the duty of enforcing sections 104 to 106 and any regulations made under them.
+(1) Every local weights and measures authority (“an authority") and the FCA[^c-7e0077ecdbeeb5e90db281ddf1d276f6] shall have the duty of enforcing sections 104 to 106 and any regulations made under them.
 
 (2) Nothing in subsection (1) is to be taken as authorising a local weights and measures authority in Scotland to institute proceedings for an offence.
 
@@ -76,12 +76,12 @@ he shall be guilty of an offence.
 
 (16) In relation to information recorded otherwise than in legible form, references in this section to its production include references to producing a copy of the information in legible form.
 
-(17)[^key-d2ab7a9501853a2250e9e1cb646987be] The functions of the FCA under this section are to be treated for the purposes of the Financial Services and Markets Act 2000 as functions conferred on the FCA by or under that Act.
+(17)[^c-d2ab7a9501853a2250e9e1cb646987be] The functions of the FCA under this section are to be treated for the purposes of the Financial Services and Markets Act 2000 as functions conferred on the FCA by or under that Act.
 
 ## Annotations
 
-[^key-7e0077ecdbeeb5e90db281ddf1d276f6]: Textual amendment: Word in s. 107 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/3/a)
+[^c-7e0077ecdbeeb5e90db281ddf1d276f6]: Textual amendment: Word in s. 107 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/3/a)
 
 [^c12477651]: Textual amendment: Words in s. 107(5) substituted (1.4.2003) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25), [para. 23(8)(b)](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/23/8/b); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3))
 
-[^key-d2ab7a9501853a2250e9e1cb646987be]: Textual amendment: S. 107(17) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/3/b)
+[^c-d2ab7a9501853a2250e9e1cb646987be]: Textual amendment: S. 107(17) inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/2/3/b)

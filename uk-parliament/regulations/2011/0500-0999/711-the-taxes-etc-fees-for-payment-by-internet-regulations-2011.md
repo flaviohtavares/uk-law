@@ -32,7 +32,7 @@ summary: ''
 
 Revenue And Customs
 
-The Taxes, etc. (Fees for Payment by Internet) Regulations 2011 (revoked)[^key-4e3fb1154a6b55b91340dbb6d6a7c944]
+The Taxes, etc. (Fees for Payment by Internet) Regulations 2011 (revoked)[^c-4e3fb1154a6b55b91340dbb6d6a7c944]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2011
 
-[^key-4e3fb1154a6b55b91340dbb6d6a7c944]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3fb1154a6b55b91340dbb6d6a7c944]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, effect and interpretation[^key-4e3fb1154a6b55b91340dbb6d6a7c944]
+## 1. Citation, commencement, effect and interpretation[^c-4e3fb1154a6b55b91340dbb6d6a7c944]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fee payable where internet authorisation is given to make a payment by credit card[^key-4e3fb1154a6b55b91340dbb6d6a7c944]
+## 2. Fee payable where internet authorisation is given to make a payment by credit card[^c-4e3fb1154a6b55b91340dbb6d6a7c944]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-4e3fb1154a6b55b91340dbb6d6a7c944]
+## 3. Revocation[^c-4e3fb1154a6b55b91340dbb6d6a7c944]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e3fb1154a6b55b91340dbb6d6a7c944]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3fb1154a6b55b91340dbb6d6a7c944]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e3fb1154a6b55b91340dbb6d6a7c944]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3fb1154a6b55b91340dbb6d6a7c944]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e3fb1154a6b55b91340dbb6d6a7c944]: Textual amendment: Regulations revoked (1.4.2016) by The Fees for Payment of Taxes, etc. by [Credit Card Regulations 2016 (S.I. 2016/333)](https://www.legislation.gov.uk/uksi/2016/333), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/333/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/333/regulation/3/a)
+[^c-4e3fb1154a6b55b91340dbb6d6a7c944]: Textual amendment: Regulations revoked (1.4.2016) by The Fees for Payment of Taxes, etc. by [Credit Card Regulations 2016 (S.I. 2016/333)](https://www.legislation.gov.uk/uksi/2016/333), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/333/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/333/regulation/3/a)

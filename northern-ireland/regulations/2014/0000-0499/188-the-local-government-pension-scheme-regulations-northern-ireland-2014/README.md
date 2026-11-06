@@ -221,7 +221,7 @@ In accordance with Article 9 of that Order, the Department has consulted with th
 - [Section 113 — Effect of acceptance of transfer value payment](part-2/section-113.md)
 - [Section 114 — EU scheme transfers](part-2/section-114.md)
 
-### PART 3 — Governance[^key-feb41d688133d427875970954bd616a7]
+### PART 3 — Governance[^c-feb41d688133d427875970954bd616a7]
 
 *Extent: N.I.*
 
@@ -293,4 +293,4 @@ Schedule 4 sets out the extent to which the Regulations apply to councillors.
 
 [^c22152161]: Marginal citation: S.R. & O (N.I.) [1973 No. 504](https://www.legislation.gov.uk/ukcm/1973/504) Article 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424).
 
-[^key-feb41d688133d427875970954bd616a7]: Textual amendment: Pt. 3 inserted (1.4.2015) by [The Local Government Pension Scheme (Governance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/77)](https://www.legislation.gov.uk/nisr/2015/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/77/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/77/regulation/4)
+[^c-feb41d688133d427875970954bd616a7]: Textual amendment: Pt. 3 inserted (1.4.2015) by [The Local Government Pension Scheme (Governance) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/77)](https://www.legislation.gov.uk/nisr/2015/77), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/77/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/77/regulation/4)

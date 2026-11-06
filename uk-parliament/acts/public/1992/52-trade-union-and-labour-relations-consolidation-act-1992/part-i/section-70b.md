@@ -41,13 +41,13 @@ summary: ''
 - (a) without which the union’s representatives would be to a material extent impeded in participating in the meeting, and
 - (b) which it would be in accordance with good industrial relations practice to disclose for the purposes of the meeting.
 
-(4A)[^key-0045a14f55b02d2eddb6f210f7a26204] If the information mentioned in subjection (4) includes information relating to the employment situation the employer must (so far as not required by subsection (4)) also provide at the same time to the trade union the following information—
+(4A)[^c-0045a14f55b02d2eddb6f210f7a26204] If the information mentioned in subjection (4) includes information relating to the employment situation the employer must (so far as not required by subsection (4)) also provide at the same time to the trade union the following information—
 
 - (a) the number of agency workers working temporarily for and under the supervision and direction of the employer,
 - (b) the parts of the employer’s undertaking in which those agency workers are working, and
 - (c) the type of work those agency workers are carrying out.
 
-(5) Section 182(1) shall apply in relation to the provision of information under subsection (4) or (4A)[^key-eb632c32a276d0e64979de64dfb8a7ad] as it applies in relation to the disclosure of information under section 181.
+(5) Section 182(1) shall apply in relation to the provision of information under subsection (4) or (4A)[^c-eb632c32a276d0e64979de64dfb8a7ad] as it applies in relation to the disclosure of information under section 181.
 
 (6) The employer shall take account of any written representations about matters raised at a meeting which he receives from the trade union within the period of four weeks starting with the date of the meeting.
 
@@ -65,6 +65,6 @@ summary: ''
 
 [^c14515101]: Modification: S. 70B applied (14.8.2000) by [S.I. 2000/1828](https://www.legislation.gov.uk/uksi/2000/1828), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2000/1828/article/2/5/a)
 
-[^key-0045a14f55b02d2eddb6f210f7a26204]: Textual amendment: [S. 70B(4A)](https://www.legislation.gov.uk/ukpga/1992/52/section/70B/4A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/2/a)
+[^c-0045a14f55b02d2eddb6f210f7a26204]: Textual amendment: [S. 70B(4A)](https://www.legislation.gov.uk/ukpga/1992/52/section/70B/4A) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/2/a)
 
-[^key-eb632c32a276d0e64979de64dfb8a7ad]: Textual amendment: Words in [s. 70B(5)](https://www.legislation.gov.uk/ukpga/1992/52/section/70B/5) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/2/b)
+[^c-eb632c32a276d0e64979de64dfb8a7ad]: Textual amendment: Words in [s. 70B(5)](https://www.legislation.gov.uk/ukpga/1992/52/section/70B/5) inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/2/b)

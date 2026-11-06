@@ -54,15 +54,15 @@ The requirements of paragraph 3(2) of Schedule 7 to that Act (relating to the ap
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-5ad9f87da8d280bee3c4fbaa18d7433a]
+### 1. Citation, commencement and extent[^c-5ad9f87da8d280bee3c4fbaa18d7433a]
 
 These Regulations may be cited as the Electronic Commerce (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
-**2.**[^key-1f03531a7f88af28f19ada0e433cbce6][^key-5ad9f87da8d280bee3c4fbaa18d7433a] An amendment or revocation made by these Regulations has the same extent as the provision amended or revoked.
+**2.**[^c-1f03531a7f88af28f19ada0e433cbce6][^c-5ad9f87da8d280bee3c4fbaa18d7433a] An amendment or revocation made by these Regulations has the same extent as the provision amended or revoked.
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 3. Amendment of the Electronic Commerce (EC Directive) Regulations 2002[^key-e7486bb907af63cdd0bb03f15e8f3252]
+### 3. Amendment of the Electronic Commerce (EC Directive) Regulations 2002[^c-e7486bb907af63cdd0bb03f15e8f3252]
 
 (1) The Electronic Commerce (EC Directive) Regulations 2002[^f00002] are amended as follows.
 
@@ -100,17 +100,17 @@ These Regulations may be cited as the Electronic Commerce (Amendment etc.) (EU E
 
 .
 
-(4)[^key-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ed38b6686ecc8f839a1b29c8469ab488] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of the Electronic Commerce Directive (Miscellaneous Provisions) Regulations 2018[^key-7d35799498df46aaed5b456bf4528ede]
+### 4. Amendment of the Electronic Commerce Directive (Miscellaneous Provisions) Regulations 2018[^c-7d35799498df46aaed5b456bf4528ede]
 
 (1) The Electronic Commerce Directive (Miscellaneous Provisions) Regulations 2018[^f00005] are amended as follows.
 
@@ -123,8 +123,8 @@ These Regulations may be cited as the Electronic Commerce (Amendment etc.) (EU E
 (3) In regulation 2 (interpretation)—
 
 - (a) in paragraph (1), omit the definition of “extreme pornography offence”;
-- (b)[^key-01e40898f376462351d4a8c08c83086c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b7480ac235676b4d78727bdf675b0bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-01e40898f376462351d4a8c08c83086c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b7480ac235676b4d78727bdf675b0bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit regulation 3 (internal market – service providers established in Scotland).
 
@@ -132,7 +132,7 @@ These Regulations may be cited as the Electronic Commerce (Amendment etc.) (EU E
 
 (6) Omit regulation 5 (internal market – service providers established in Northern Ireland).
 
-(7)[^key-43c63684daf0f86c894a0f27d816ee09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-43c63684daf0f86c894a0f27d816ee09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Margot James
 
@@ -158,11 +158,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-5ad9f87da8d280bee3c4fbaa18d7433a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
+[^c-5ad9f87da8d280bee3c4fbaa18d7433a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
 
-[^key-1f03531a7f88af28f19ada0e433cbce6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/87/regulation/2) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
+[^c-1f03531a7f88af28f19ada0e433cbce6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/87/regulation/2) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
 
-[^key-e7486bb907af63cdd0bb03f15e8f3252]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/87/regulation/3) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
+[^c-e7486bb907af63cdd0bb03f15e8f3252]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/87/regulation/3) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013).
 
@@ -170,14 +170,14 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).
 
-[^key-ed38b6686ecc8f839a1b29c8469ab488]: Textual amendment: [Reg. 3(4)-(8)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/2)
+[^c-ed38b6686ecc8f839a1b29c8469ab488]: Textual amendment: [Reg. 3(4)-(8)](https://www.legislation.gov.uk/uksi/2019/87/regulation/3/4) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/2)
 
-[^key-7d35799498df46aaed5b456bf4528ede]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/87/regulation/4) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
+[^c-7d35799498df46aaed5b456bf4528ede]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/87/regulation/4) in force at 31.12.2020 (in force on IP completion day in accordance with 2020 c. 1, s. 39(1), Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/87/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2018/477](https://www.legislation.gov.uk/uksi/2018/477).
 
-[^key-01e40898f376462351d4a8c08c83086c]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/3/b) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/3/a)
+[^c-01e40898f376462351d4a8c08c83086c]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/3/b) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/3/a)
 
-[^key-b7480ac235676b4d78727bdf675b0bab]: Textual amendment: [Reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/3/c) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/3/a)
+[^c-b7480ac235676b4d78727bdf675b0bab]: Textual amendment: [Reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/3/c) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/3/a)
 
-[^key-43c63684daf0f86c894a0f27d816ee09]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/7) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/3/b)
+[^c-43c63684daf0f86c894a0f27d816ee09]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2019/87/regulation/4/7) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2026/407/regulation/6/3/b)

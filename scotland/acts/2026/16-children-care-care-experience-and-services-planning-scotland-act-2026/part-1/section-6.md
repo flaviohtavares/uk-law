@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Co-operation between authorities[^key-4404ad1965ead097482e29edb5b1ea75]
+## 6. Co-operation between authorities[^c-4404ad1965ead097482e29edb5b1ea75]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4404ad1965ead097482e29edb5b1ea75]: Commencement: S. 6 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-4404ad1965ead097482e29edb5b1ea75]: Commencement: S. 6 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

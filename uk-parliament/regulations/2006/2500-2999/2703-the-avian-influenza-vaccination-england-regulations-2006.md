@@ -64,7 +64,7 @@ Exercising the powers conferred upon him by that section, he makes the following
 - “avian influenza” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
 - “the Directive” means Council Directive [2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing Directive [92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)[^f00004];
 - “emergency vaccination notice” has the meaning given by regulation 6(1)(b);
-- “emergency vaccination plan” has the same meaning as it has in Article 53 of the Directive , reading that Article as if—[^key-18fc143ba4556c1c9b7a0fc65506505d]
+- “emergency vaccination plan” has the same meaning as it has in Article 53 of the Directive , reading that Article as if—[^c-18fc143ba4556c1c9b7a0fc65506505d]
   - (a) in paragraph 1—
     - (i) for “A Member State” there were substituted “ The Secretary of State ”;
     - (ii) for “the Member State” there were substituted “ England ”;
@@ -87,7 +87,7 @@ Exercising the powers conferred upon him by that section, he makes the following
 - “poultry” means all birds that are reared or kept in captivity for the production of meat or eggs for consumption, the production of other products, for restocking supplies of game or for the purposes of any breeding programme for the production of these categories of birds;
 - “premises” includes any land, building or place;
 - “preventive vaccination notice” has the meaning given by regulation 7(1)(b)(ii);
-- “preventive vaccination plan” has the same meaning as it has in Article 56 of the Directive , reading that Article as if—[^key-3b682913cec8570f33c711a43bdd8235]
+- “preventive vaccination plan” has the same meaning as it has in Article 56 of the Directive , reading that Article as if—[^c-3b682913cec8570f33c711a43bdd8235]
   - (a) in paragraph 1, the reference to Member States were a reference to the Secretary of State;
   - (b) in paragraph 2, in the first subparagraph—
     - (i) for “a Member State” there were substituted “ the Secretary of State ”;
@@ -162,7 +162,7 @@ and in the case of vaccination licences, must also specify the matters set out a
 (2) This prohibition does not apply to—
 
 - (a) anything done under the authority of a licence granted under article 4 of the Specified Animal Pathogens Order 1998[^f00007]; or
-- (b) administration of a vaccine for research purposes in accordance with an animal test certificate granted under regulation 3(2)(b) of the Veterinary Medicines Regulations 2013[^key-46e63368a339894d22cc3b1c57cb818f].
+- (b) administration of a vaccine for research purposes in accordance with an animal test certificate granted under regulation 3(2)(b) of the Veterinary Medicines Regulations 2013[^c-46e63368a339894d22cc3b1c57cb818f].
 
 ## 6. Emergency vaccination
 
@@ -177,7 +177,7 @@ and in the case of vaccination licences, must also specify the matters set out a
 - (b) an outbreak of avian influenza within a nearby Member State; or
 - (c) confirmation of the presence of avian influenza in poultry or other captive birds in a nearby third country.
 
-(3) Where an emergency vaccination zone is declared, or an emergency vaccination notice is served in accordance with an emergency vaccination plan[^key-ded3838e59b5cc916cc23feeb88a2a05], the declaration or service of the notice must be in accordance with the provisions of that plan.
+(3) Where an emergency vaccination zone is declared, or an emergency vaccination notice is served in accordance with an emergency vaccination plan[^c-ded3838e59b5cc916cc23feeb88a2a05], the declaration or service of the notice must be in accordance with the provisions of that plan.
 
 (4) Any premises that are partly inside and partly outside an emergency vaccination zone are deemed to be wholly within it.
 
@@ -193,7 +193,7 @@ and in the case of vaccination licences, must also specify the matters set out a
 (2) The conditions are—
 
 - (a) a risk assessment has been carried out by the Secretary of State that indicates that any poultry or other captive birds in any part of England are exposed to a risk of avian influenza;
-- (b) a preventive vaccination plan is in place[^key-8c4b67ee4951a4d782db8eb45c186743].
+- (b) a preventive vaccination plan is in place[^c-8c4b67ee4951a4d782db8eb45c186743].
 
 (3) Any premises that are partly inside and partly outside a preventive vaccination zone are deemed to be wholly within it.
 
@@ -235,9 +235,9 @@ and may impose such other restrictions and conditions as he considers necessary 
 
 (6) Slaughterhouses, packing centres and hatcheries that are designated under the Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006[^f00012] are deemed to be designated for the purpose of receiving poultry or eggs (as the case may be) that are moved under a licence granted under these Regulations.
 
-## 10. Emergency vaccination without a published emergency vaccination plan[^key-b3809c1b32dad4f9388c5a06ca8cb3a7]
+## 10. Emergency vaccination without a published emergency vaccination plan[^c-b3809c1b32dad4f9388c5a06ca8cb3a7]
 
-(1) This regulation applies when the Secretary of State declares an emergency vaccination zone or serves an emergency vaccination notice before an emergency vaccination plan has been published by the Secretary of State[^key-a1d4f0aa2f98adc63ccb297ab90ee0b4].
+(1) This regulation applies when the Secretary of State declares an emergency vaccination zone or serves an emergency vaccination notice before an emergency vaccination plan has been published by the Secretary of State[^c-a1d4f0aa2f98adc63ccb297ab90ee0b4].
 
 (2) No person may move any poultry, any other captive bird, their carcases or any egg from poultry or other captive birds—
 
@@ -262,13 +262,13 @@ and may impose such other restrictions and conditions as he considers necessary 
 - (a) from a zone equivalent to an emergency vaccination zone declared in Scotland, Wales or Northern Ireland; or
 - (b) from premises which are the subject of a notice equivalent to a vaccination notice in Scotland, Wales or Northern Ireland,
 
-where that zone has been declared, or that notice has been served, before an emergency vaccination plan has been published by the Secretary of State[^key-4f24c6909bbdb825eb2da23efa16ecf4].
+where that zone has been declared, or that notice has been served, before an emergency vaccination plan has been published by the Secretary of State[^c-4f24c6909bbdb825eb2da23efa16ecf4].
 
 (8) Paragraph (7) only applies if the occupier to whose premises the thing is moved is aware, or should reasonably have been aware, that it has been moved from such a zone or from premises under such a notice.
 
 ## 11. Failure to vaccinate animals specified for vaccination
 
-Any person who knows or suspects that a bird has not been vaccinated as required by the Secretary of State must immediately notify the Secretary of State[^key-0d3d3de4f12b7524f1a4bb67bcd87e22].
+Any person who knows or suspects that a bird has not been vaccinated as required by the Secretary of State must immediately notify the Secretary of State[^c-0d3d3de4f12b7524f1a4bb67bcd87e22].
 
 ## 12. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials
 
@@ -400,7 +400,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 (2) The Secretary of State may direct, in relation to a particular case or to cases of a particular description, that he will enforce these Regulations instead.
 
-(3)[^key-55cb39651902eef9f421eead5740f78b] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
+(3)[^c-55cb39651902eef9f421eead5740f78b] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Act relating to these Regulations.
 
 ## 24. Disapplication of provisions to any person executing or enforcing these Regulations
 
@@ -539,21 +539,21 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00004]: Footnote: OJ No. L 10, 14.1.2006, p. 16.
 
-[^key-18fc143ba4556c1c9b7a0fc65506505d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/2/1) inserted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18fc143ba4556c1c9b7a0fc65506505d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/2/1) inserted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), to which there are amendments not relevant to these Regulations.
 
-[^key-3b682913cec8570f33c711a43bdd8235]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/2/1) inserted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b682913cec8570f33c711a43bdd8235]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/2/1) inserted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: [S.I. 2006/2701](https://www.legislation.gov.uk/uksi/2006/2701).
 
 [^f00007]: Footnote: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463), to which there are amendments not relevant to these Regulations.
 
-[^key-46e63368a339894d22cc3b1c57cb818f]: Textual amendment: Words in reg. 5(2)(b) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [35](https://www.legislation.gov.uk/uksi/2018/575/regulation/35)
+[^c-46e63368a339894d22cc3b1c57cb818f]: Textual amendment: Words in reg. 5(2)(b) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [35](https://www.legislation.gov.uk/uksi/2018/575/regulation/35)
 
-[^key-ded3838e59b5cc916cc23feeb88a2a05]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/6/3) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ded3838e59b5cc916cc23feeb88a2a05]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/6/3) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c4b67ee4951a4d782db8eb45c186743]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/7/2/b) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c4b67ee4951a4d782db8eb45c186743]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/7/2/b) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: Section 16 was amended by the Animal Health Act [2002 (c.42)](https://www.legislation.gov.uk/ukpga/2002/42), section 7.
 
@@ -563,13 +563,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00012]: Footnote: [S.I. 2006/2702](https://www.legislation.gov.uk/uksi/2006/2702).
 
-[^key-b3809c1b32dad4f9388c5a06ca8cb3a7]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/2703/regulation/10) heading substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3809c1b32dad4f9388c5a06ca8cb3a7]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/2703/regulation/10) heading substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1d4f0aa2f98adc63ccb297ab90ee0b4]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/10/1) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1d4f0aa2f98adc63ccb297ab90ee0b4]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/10/1) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f24c6909bbdb825eb2da23efa16ecf4]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/10/7) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f24c6909bbdb825eb2da23efa16ecf4]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/10/7) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [6(5)(b)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/6/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d3d3de4f12b7524f1a4bb67bcd87e22]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2006/2703/regulation/11) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/2712/regulation/5)
+[^c-0d3d3de4f12b7524f1a4bb67bcd87e22]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2006/2703/regulation/11) substituted (1.11.2009) by [Animals (Divisional Veterinary Managers) Regulations 2009 (S.I. 2009/2712)](https://www.legislation.gov.uk/uksi/2009/2712), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2712/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/2712/regulation/5)
 
 [^f00013]: Footnote: The definition of poultry in section 87(4) of the Act was extended to include poultry and other captive birds, as defined in these Regulations, by [S.I. 2006/2702](https://www.legislation.gov.uk/uksi/2006/2702).
 
@@ -583,7 +583,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00018]: Footnote: Section 75 was amended by the Animal Health Act 2002, section 13.
 
-[^key-55cb39651902eef9f421eead5740f78b]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/23/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [12](https://www.legislation.gov.uk/uksi/2012/2897/article/12)
+[^c-55cb39651902eef9f421eead5740f78b]: Textual amendment: [Reg. 23(3)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/23/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [12](https://www.legislation.gov.uk/uksi/2012/2897/article/12)
 
 [^f00019]: Footnote: OJ No. L139, 30.4.2004, p.55.
 

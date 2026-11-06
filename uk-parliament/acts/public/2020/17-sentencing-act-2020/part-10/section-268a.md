@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268A. Serious terrorism sentence of detention in a young offender institution[^key-43b173ed9fa9399a1ed87ccc850879ce]
+## 268A. Serious terrorism sentence of detention in a young offender institution[^c-43b173ed9fa9399a1ed87ccc850879ce]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A serious terrorism sentence of detention in a young offender institution is a s
 
 ## Annotations
 
-[^key-43b173ed9fa9399a1ed87ccc850879ce]: Textual amendment: [Ss. 268A-268C](https://www.legislation.gov.uk/ukpga/2020/17/section/268A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 4](https://www.legislation.gov.uk/ukpga/2021/11/section/4), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)
+[^c-43b173ed9fa9399a1ed87ccc850879ce]: Textual amendment: [Ss. 268A-268C](https://www.legislation.gov.uk/ukpga/2020/17/section/268A) and cross-heading inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 4](https://www.legislation.gov.uk/ukpga/2021/11/section/4), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/c)

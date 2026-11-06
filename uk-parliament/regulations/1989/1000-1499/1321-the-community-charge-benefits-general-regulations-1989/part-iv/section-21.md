@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Calculation of net profit of self-employed earners[^key-ce8e2df1e87f8e15c5c3a4b4c5b19a50]
+## 21. Calculation of net profit of self-employed earners[^c-ce8e2df1e87f8e15c5c3a4b4c5b19a50]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) an amount in respect of income tax and of social security contributions payable under the Social Security Act calculated in accordance with regulation 22 (deduction of tax and contributions for self-employed earners), and
   - (ii) one-half of any qualifying premium payable.
 
-(2) There shall be disregarded from a claimant’s net profit, any sum, where applicable, specified in paragraphs 1 to 12[^key-73b205d92aa74387e6e2d29abe7049b7] of Schedule 2.
+(2) There shall be disregarded from a claimant’s net profit, any sum, where applicable, specified in paragraphs 1 to 12[^c-73b205d92aa74387e6e2d29abe7049b7] of Schedule 2.
 
 (3) For the purposes of paragraph (1)(a) the net profit of the employment shall, except where paragraph (9) applies, be calculated by taking into account the earnings of the employment over the assessment period less–
 
@@ -81,8 +81,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8e2df1e87f8e15c5c3a4b4c5b19a50]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1989/1321/regulation/21) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-ce8e2df1e87f8e15c5c3a4b4c5b19a50]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1989/1321/regulation/21) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
 [^f00051]: Footnote: S.I. [1975/529](https://www.legislation.gov.uk/uksi/1975/529).
 
-[^key-73b205d92aa74387e6e2d29abe7049b7]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/21/2) substituted (7.10.1991) by [The Housing Benefit and Community Charge Benefits (Miscellaneous) Amendment Regulations 1991 (S.I. 1991/1599)](https://www.legislation.gov.uk/uksi/1991/1599), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/1599/regulation/1/1/c), [21](https://www.legislation.gov.uk/uksi/1991/1599/regulation/21) (with reg. [35](https://www.legislation.gov.uk/uksi/1991/1599/regulation/35))
+[^c-73b205d92aa74387e6e2d29abe7049b7]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/21/2) substituted (7.10.1991) by [The Housing Benefit and Community Charge Benefits (Miscellaneous) Amendment Regulations 1991 (S.I. 1991/1599)](https://www.legislation.gov.uk/uksi/1991/1599), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/1599/regulation/1/1/c), [21](https://www.legislation.gov.uk/uksi/1991/1599/regulation/21) (with reg. [35](https://www.legislation.gov.uk/uksi/1991/1599/regulation/35))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57D. Detention of ships[^key-1a5eeddf01c7cca1c982bffd0c9e63df]
+## 57D. Detention of ships[^c-1a5eeddf01c7cca1c982bffd0c9e63df]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) a ship owned, controlled, chartered or operated by a designated person,
 - (b) a ship owned, controlled, chartered or operated by persons connected with Russia,
-- (ba)[^key-302e56cce038ae04290ecc03fd236cb9] a ship registered in Russia,
+- (ba)[^c-302e56cce038ae04290ecc03fd236cb9] a ship registered in Russia,
 - (c) a ship flying the flag of Russia, or
 - (d) a specified ship.
 
@@ -46,7 +46,7 @@ summary: ''
   - (i) it is given under this regulation, and
   - (ii) any requirements imposed by the direction must be complied with.
 
-(6) Paragraph (7)[^key-1faf867ece44163819d32c589c5f82ff] applies if—
+(6) Paragraph (7)[^c-1faf867ece44163819d32c589c5f82ff] applies if—
 
 - (a) the ship is not a British ship, and
 - (b) there is in the United Kingdom a consular officer for the country to which the ship belongs.
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1a5eeddf01c7cca1c982bffd0c9e63df]: Textual amendment: Regs. 57A-57I inserted (1.3.2022 at 3.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/203)](https://www.legislation.gov.uk/uksi/2022/203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/203/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/203/regulation/6)
+[^c-1a5eeddf01c7cca1c982bffd0c9e63df]: Textual amendment: Regs. 57A-57I inserted (1.3.2022 at 3.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/203)](https://www.legislation.gov.uk/uksi/2022/203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/203/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/203/regulation/6)
 
-[^key-302e56cce038ae04290ecc03fd236cb9]: Textual amendment: [Reg. 57D(3)(ba)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57D/3/ba) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2022/241/regulation/7/a)
+[^c-302e56cce038ae04290ecc03fd236cb9]: Textual amendment: [Reg. 57D(3)(ba)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57D/3/ba) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2022/241/regulation/7/a)
 
-[^key-1faf867ece44163819d32c589c5f82ff]: Textual amendment: Words in [reg. 57D(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57D/6) substituted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2022/241/regulation/7/b)
+[^c-1faf867ece44163819d32c589c5f82ff]: Textual amendment: Words in [reg. 57D(6)](https://www.legislation.gov.uk/uksi/2019/855/regulation/57D/6) substituted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2022/241/regulation/7/b)

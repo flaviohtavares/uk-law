@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Regulation of cross-border placements[^key-a7c9f5228ab4c429c3e278d833822a67]
+## 33A. Regulation of cross-border placements[^c-a7c9f5228ab4c429c3e278d833822a67]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7c9f5228ab4c429c3e278d833822a67]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1995/36/section/33A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 30(2)](https://www.legislation.gov.uk/asp/2024/5/section/30/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/d)
+[^c-a7c9f5228ab4c429c3e278d833822a67]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1995/36/section/33A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 30(2)](https://www.legislation.gov.uk/asp/2024/5/section/30/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/d)

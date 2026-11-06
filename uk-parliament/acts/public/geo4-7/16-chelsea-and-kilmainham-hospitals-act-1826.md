@@ -35,7 +35,7 @@ An Act to consolidate and amend several Acts relating to the Royal Hospitals for
 
 ## 1, 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554898]
 
-## 3. All pensions for disabled soldiers to be under the management of the commissioners of Chelsea Hospital;[^key-e30b440e64f70b7a2c44cc1505edbda5]
+## 3. All pensions for disabled soldiers to be under the management of the commissioners of Chelsea Hospital;[^c-e30b440e64f70b7a2c44cc1505edbda5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -45,17 +45,17 @@ An Act to consolidate and amend several Acts relating to the Royal Hospitals for
 
 ## 6–9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554904]
 
-## 10. Soldiers entitled to pension to have the benefit of the regulations and orders in force at the time of their enlistment, except in certain cases.[^key-76947ed22c6ac9144e44038b394d5522]
+## 10. Soldiers entitled to pension to have the benefit of the regulations and orders in force at the time of their enlistment, except in certain cases.[^c-76947ed22c6ac9144e44038b394d5522]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Regulations to be annually laid before Parliament.[^key-1fd18d97750aa2b646e91196f12e25f4]
+## 11. Regulations to be annually laid before Parliament.[^c-1fd18d97750aa2b646e91196f12e25f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554906]
 
-## 13. Commissioners of Chelsea Hospital empowered, in case of frauds or misconduct, to take away or refuse pensions.[^key-e996218fa4bdd95b8d1e22010d179bbd]
+## 13. Commissioners of Chelsea Hospital empowered, in case of frauds or misconduct, to take away or refuse pensions.[^c-e996218fa4bdd95b8d1e22010d179bbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -73,7 +73,7 @@ It shall be lawful for the said commissioners of the said hospital at Chelsea, a
 
 ## 22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554912]
 
-## 23. Notice by pensioner of change of residence.[^key-862281dc528b5614a179bfe2a86d607f]
+## 23. Notice by pensioner of change of residence.[^c-862281dc528b5614a179bfe2a86d607f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -85,7 +85,7 @@ Every non-commissioned officer or soldier who shall have been already admitted o
 
 ## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554923]
 
-## 27. Secretary and senior clerks of Chelsea Hospital may administer certain oaths to out-pensioners.[^key-02564e43bbf7b24dda19a52a0314a80a]
+## 27. Secretary and senior clerks of Chelsea Hospital may administer certain oaths to out-pensioners.[^c-02564e43bbf7b24dda19a52a0314a80a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,7 +97,7 @@ Every person or persons who shall take any false oath as to the particulars afor
 
 ## 30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554928]
 
-## 31. Statements of the numbers of out-pensioners to be made up.[^key-579f4d3d44576146ee31b7832b2cba5e]
+## 31. Statements of the numbers of out-pensioners to be made up.[^c-579f4d3d44576146ee31b7832b2cba5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,7 +105,7 @@ Every person or persons who shall take any false oath as to the particulars afor
 
 ## 33. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c554930]
 
-## 34. Clothes, linen, and stores of the hospital to be marked.[^key-f60bb413fbb030d5c3ecc065f73df1dd]
+## 34. Clothes, linen, and stores of the hospital to be marked.[^c-f60bb413fbb030d5c3ecc065f73df1dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -129,7 +129,7 @@ Where by this or any other Act or Acts of Parliament any matters or things are d
 
 ## 44. Commissioners empowered to purchase lands, &c. for the purposes of the hospital.[^c554940][^c554939]
 
-It shall and may be lawful for the lords and others, commissioners of the said hospital at Chelsea for the time being, for the purposes of for the advantage of the said royal hospital, or for the improvement of the building or neighbourhood of the said hospital, or for any purposes connected with the said royal hospital, and they are hereby empowered, to treat, contract, and agree for the absolute purchase, and to complete purchases already agreed to be made, of any messuages, land, tenements, or hereditaments, and the freehold and inheritance thereof, or any estate or interest therein, with any body or bodies politic, corporate, or collegiate, or any tenant or tenants for life, or fee tail general or special, or for any terms or terms of years absolute or determinable on any life or lives, or with any feoffees in trust, executors, administrators, husbands, guardians, committees for lunatices and idiots, or other trustees whomsoever, not only for and on behalf of themselves, their heirs and successors, but also for and on behalf of their cestuique trust respectively, whether infants or issue unborn, lunatics, idiots, femes covert, or other person or persons whomsoever, who shall be willing to sell the name; and upon payment of the purchase money for the same respectively to the parties or persons respectively entitled thereto, or upon payment thereof into the[^c554941] Senior Courts[^key-e007e6aad3e0a1c53b2f12b391bb889c], in manner by this Act directed (as the case may be), the messuages, lands, tenements, and hereditaments so to be purchased as aforesaid shall vest absolutetly in the said lords and others, commissioners and governors for the time being, or in such person or persons as they shall in sny such contract nominate to be their trustee or trustees for that purpose, to and for the purposes of the said institution, or for the health and comfort of the pensioners maintained therein, and from thenceforth all other parties and persons whomsoever shall be divested of all right and title, claim or reservation, of, in, or to such lands, tenements, and hereditaments, and any term, right and interest therein so purchased, without incurruring or being subject or liable to any penalties or forfeitures of the statutes of mortmain, or[^c554942] any other law or statute whatsoever; in case of a re-sale of the said lands, tenements, or hereditaments, or any of them, under the provision, herein-after in that behalf contained, to purchase and hold other lands, tenements, or hereditaments in like manner.
+It shall and may be lawful for the lords and others, commissioners of the said hospital at Chelsea for the time being, for the purposes of for the advantage of the said royal hospital, or for the improvement of the building or neighbourhood of the said hospital, or for any purposes connected with the said royal hospital, and they are hereby empowered, to treat, contract, and agree for the absolute purchase, and to complete purchases already agreed to be made, of any messuages, land, tenements, or hereditaments, and the freehold and inheritance thereof, or any estate or interest therein, with any body or bodies politic, corporate, or collegiate, or any tenant or tenants for life, or fee tail general or special, or for any terms or terms of years absolute or determinable on any life or lives, or with any feoffees in trust, executors, administrators, husbands, guardians, committees for lunatices and idiots, or other trustees whomsoever, not only for and on behalf of themselves, their heirs and successors, but also for and on behalf of their cestuique trust respectively, whether infants or issue unborn, lunatics, idiots, femes covert, or other person or persons whomsoever, who shall be willing to sell the name; and upon payment of the purchase money for the same respectively to the parties or persons respectively entitled thereto, or upon payment thereof into the[^c554941] Senior Courts[^c-e007e6aad3e0a1c53b2f12b391bb889c], in manner by this Act directed (as the case may be), the messuages, lands, tenements, and hereditaments so to be purchased as aforesaid shall vest absolutetly in the said lords and others, commissioners and governors for the time being, or in such person or persons as they shall in sny such contract nominate to be their trustee or trustees for that purpose, to and for the purposes of the said institution, or for the health and comfort of the pensioners maintained therein, and from thenceforth all other parties and persons whomsoever shall be divested of all right and title, claim or reservation, of, in, or to such lands, tenements, and hereditaments, and any term, right and interest therein so purchased, without incurruring or being subject or liable to any penalties or forfeitures of the statutes of mortmain, or[^c554942] any other law or statute whatsoever; in case of a re-sale of the said lands, tenements, or hereditaments, or any of them, under the provision, herein-after in that behalf contained, to purchase and hold other lands, tenements, or hereditaments in like manner.
 
 ## 45. Bodies politic, trustees, &c. to the commissioners.[^c554945][^c554944]
 
@@ -137,23 +137,23 @@ It shall and may be lawful to and for all bodies politic, corporate, or collegia
 
 ## 46. Application of purchase money when amounting to 200l..[^c554947][^c554946]
 
-In all case in which there shall be any money to be paid for any messuages, lands, tenements, or hereditaments, contracted for or purchased, which shall belong to any body corporate, collegiate, or ecclesiastical, tenat for life or in tail or for years, trustee, feme covert, infant, lunatic, or person or persons under any disability or incapacity as aforesaid, such money shall, in case the same shall amount to or exceed the sum of two hundred pounds, with all convenient speed be paid into the[^c554948] Senior Courts ; to the intent that such money may be applies, under the direction and with the approbation of the said courts[^key-d349dbebaf53a0bead07831a861bb0a2], to be signified by an order made upon a petition to be preferred in a summary way by the person or persons who would have been entitled to the rents and profits of the said lands, tenements, and hereditaments, in the purchase of other lands, tenenments, and hereditaments, which shall be conveyed and settled to, for, and upon such and the like uses, trusts, intents, and purposes, and in the same manner as the messuages, lands, tenements, and hereditaments which have been or shall be purchased for the purposes aforesaid stood and were settled and limited, or such of them as at the time of making such conveyance and settlement shall be existing undetermined, and capable of taking effect; and if, before the said money is so applied, it is invested under section 38 of the Administration of Justice Act 1982[^c554950], the annual proceeds thereof shall from time to time be paid, by order of the said courts, to the person or persons who would for the time being have been entitled to the rents and profits of the said lands, tenements, and hereditaments, so hereby directed to be purchased, in case such purchase and settlement thereof were then actually made.
+In all case in which there shall be any money to be paid for any messuages, lands, tenements, or hereditaments, contracted for or purchased, which shall belong to any body corporate, collegiate, or ecclesiastical, tenat for life or in tail or for years, trustee, feme covert, infant, lunatic, or person or persons under any disability or incapacity as aforesaid, such money shall, in case the same shall amount to or exceed the sum of two hundred pounds, with all convenient speed be paid into the[^c554948] Senior Courts ; to the intent that such money may be applies, under the direction and with the approbation of the said courts[^c-d349dbebaf53a0bead07831a861bb0a2], to be signified by an order made upon a petition to be preferred in a summary way by the person or persons who would have been entitled to the rents and profits of the said lands, tenements, and hereditaments, in the purchase of other lands, tenenments, and hereditaments, which shall be conveyed and settled to, for, and upon such and the like uses, trusts, intents, and purposes, and in the same manner as the messuages, lands, tenements, and hereditaments which have been or shall be purchased for the purposes aforesaid stood and were settled and limited, or such of them as at the time of making such conveyance and settlement shall be existing undetermined, and capable of taking effect; and if, before the said money is so applied, it is invested under section 38 of the Administration of Justice Act 1982[^c554950], the annual proceeds thereof shall from time to time be paid, by order of the said courts, to the person or persons who would for the time being have been entitled to the rents and profits of the said lands, tenements, and hereditaments, so hereby directed to be purchased, in case such purchase and settlement thereof were then actually made.
 
-## 47. Application when less than 200l. and exceeding 20l..[^key-36ec5111b7aacbc145b9e370a84dd97f]
+## 47. Application when less than 200l. and exceeding 20l..[^c-36ec5111b7aacbc145b9e370a84dd97f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 48. Application when not exceeding 20l.[^key-92d399d1ee9921e83bf3815ec716f396]
+## 48. Application when not exceeding 20l.[^c-92d399d1ee9921e83bf3815ec716f396]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 49. In case of disputed titles, the persons in possession to be deemed entitled.
 
-Provided always, that where any question shall arise touching the title of any person to any money to be paid, into the[^c554956] Senior Courts , in pursuance of this Act, for the purchase of any lands, tenements, or hereditaments, or of any estate, right, or interest in an lands, tenements, or hereditaments, so purchased or to be purchased as foresaid, or to any securities to be purchased with any such money, as to the dividends or interest of any such securities, the person or persons who shall have been in possession of such lands, tenements, or hereditaments at the time of such purchase, and all person claiming under such person or persons, or under the possession of such person or persons, shall be deemed and taken to have been lawfully entitled to such lands, tenements, or hereditaments, according to such possession, until the contrary shall be shewn to the satisfaction of the said courts[^key-9a9a72f163e22891a5593c07ece08a51]; and the dividends or interest of the securities to be purchased with such money, and also the capital of such securities, shall be paid, applied, and disposed of accordingly, unless it shall be made appear to the said courts that such possession was a wrongful possession, and that some other person or persons was or were lawfully entitled to such lands, tenements, or hereditaments, or to some estate or interest therein.
+Provided always, that where any question shall arise touching the title of any person to any money to be paid, into the[^c554956] Senior Courts , in pursuance of this Act, for the purchase of any lands, tenements, or hereditaments, or of any estate, right, or interest in an lands, tenements, or hereditaments, so purchased or to be purchased as foresaid, or to any securities to be purchased with any such money, as to the dividends or interest of any such securities, the person or persons who shall have been in possession of such lands, tenements, or hereditaments at the time of such purchase, and all person claiming under such person or persons, or under the possession of such person or persons, shall be deemed and taken to have been lawfully entitled to such lands, tenements, or hereditaments, according to such possession, until the contrary shall be shewn to the satisfaction of the said courts[^c-9a9a72f163e22891a5593c07ece08a51]; and the dividends or interest of the securities to be purchased with such money, and also the capital of such securities, shall be paid, applied, and disposed of accordingly, unless it shall be made appear to the said courts that such possession was a wrongful possession, and that some other person or persons was or were lawfully entitled to such lands, tenements, or hereditaments, or to some estate or interest therein.
 
 ## 50. Court may order expences of purchases to be paid by the commissioners.
 
-Provided also, that where, by reason of any disability or incapacity of the person or persons, or corporation, entitled to any lands, tenements, or hereditaments purchased or to be purchased under the authority of this Act, the purchase money for the same shall be required to be paid into the into the[^c554961] Senior Courts , and to be applied in the purchase of other lands, tenements, or hereditaments, to be settled to the like uses in pursuance of this Act, it shall be lawful for the said courts[^key-073b22f59feb7934a5133448c4c4ec2b] to order the expences of all purchases so agreed for or purchased, or hereafter from time to time to be made in pursuance of this Act, or so much of such expences as the said courts shall deem reasonable, to be paid by the said lords and others, commissioners of the said hospital at Chelsea, who shall from time to time pay such sums of money for such purposes as the said courts shall direct :
+Provided also, that where, by reason of any disability or incapacity of the person or persons, or corporation, entitled to any lands, tenements, or hereditaments purchased or to be purchased under the authority of this Act, the purchase money for the same shall be required to be paid into the into the[^c554961] Senior Courts , and to be applied in the purchase of other lands, tenements, or hereditaments, to be settled to the like uses in pursuance of this Act, it shall be lawful for the said courts[^c-073b22f59feb7934a5133448c4c4ec2b] to order the expences of all purchases so agreed for or purchased, or hereafter from time to time to be made in pursuance of this Act, or so much of such expences as the said courts shall deem reasonable, to be paid by the said lords and others, commissioners of the said hospital at Chelsea, who shall from time to time pay such sums of money for such purposes as the said courts shall direct :
 
 Provided always, that no such order shall be made if it can be shewn by the said lords and others, commissioners of the said hospital at Chelsea, or it shall appear upon the face of the agreement for any purchase aforesaid, that the consideration money for the same was intended to cover and include all contingent and other expences relating to the said purchase.
 
@@ -183,7 +183,7 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554898]: Textual amendment: [Ss 1](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/1), [2](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/2) repealed by [Statute Law Revision Act 1873 (c. 91)](https://www.legislation.gov.uk/ukpga/1873/91)
 
-[^key-e30b440e64f70b7a2c44cc1505edbda5]: Textual amendment: S. 3 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-e30b440e64f70b7a2c44cc1505edbda5]: Textual amendment: S. 3 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554902]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/4) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1/part/IV)
 
@@ -191,13 +191,13 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554904]: Textual amendment: [Ss. 6–9](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/6), [12](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/12) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch 1](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1). Pt. IV
 
-[^key-76947ed22c6ac9144e44038b394d5522]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/10) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-76947ed22c6ac9144e44038b394d5522]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/10) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
-[^key-1fd18d97750aa2b646e91196f12e25f4]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/11) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-1fd18d97750aa2b646e91196f12e25f4]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/11) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554906]: Textual amendment: [Ss. 6–9](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/6), [12](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/12) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch 1](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1). Pt. IV
 
-[^key-e996218fa4bdd95b8d1e22010d179bbd]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/13) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-e996218fa4bdd95b8d1e22010d179bbd]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/13) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554908]: Textual amendment: [Ss. 15](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/15), [16](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/16) repealed by [Statute Law Revision Act 1873 (c. 91)](https://www.legislation.gov.uk/ukpga/1873/91)
 
@@ -209,7 +209,7 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554912]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/22) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch 1](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1). Pt. IV
 
-[^key-862281dc528b5614a179bfe2a86d607f]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/23) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-862281dc528b5614a179bfe2a86d607f]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/23) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554913]: Editorial: A dagger appended to a marginal note means that it is no longer accurate
 
@@ -219,7 +219,7 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554923]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/26) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch 1](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1). Pt. IV
 
-[^key-02564e43bbf7b24dda19a52a0314a80a]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/27) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-02564e43bbf7b24dda19a52a0314a80a]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/27) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554926]: Textual amendment: [S. 28](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/28) repealed (E.W.N.I.); (N.I.) by [S.I. 1979/1714](https://www.legislation.gov.uk/uksi/1979/1714), [Sch. 2](https://www.legislation.gov.uk/uksi/1979/1714/schedule/2); (E.W.) by [Perjury Act 1911 (c. 6)](https://www.legislation.gov.uk/ukpga/1911/6), [Sch.](https://www.legislation.gov.uk/ukpga/1911/6/schedule)
 
@@ -227,13 +227,13 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554928]: Textual amendment: [Ss. 30](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/30), [32](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/32) repealed by [Statute Law Revision Act 1873 (c. 91)](https://www.legislation.gov.uk/ukpga/1873/91)
 
-[^key-579f4d3d44576146ee31b7832b2cba5e]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/31) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-579f4d3d44576146ee31b7832b2cba5e]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/31) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554929]: Textual amendment: [Ss. 30](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/30), [32](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/32) repealed by [Statute Law Revision Act 1873 (c. 91)](https://www.legislation.gov.uk/ukpga/1873/91)
 
 [^c554930]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/33) repealed by [Statute Law (Repeals) Act 1976 (c. 16)](https://www.legislation.gov.uk/ukpga/1976/16), [Sch 1](https://www.legislation.gov.uk/ukpga/1976/16/schedule/1). Pt. IV
 
-[^key-f60bb413fbb030d5c3ecc065f73df1dd]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/34) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-f60bb413fbb030d5c3ecc065f73df1dd]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/Geo4/7/16/section/34) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554933]: Textual amendment: Words repealed by [Indictments Act 1915 (c. 90)](https://www.legislation.gov.uk/ukpga/1915/90), [Sch. 2](https://www.legislation.gov.uk/ukpga/1915/90/schedule/2) and expressed to be repealed (N.I.) by [Statute Law Revision (Northern Ireland) Act 1980 (c. 59)](https://www.legislation.gov.uk/ukpga/1980/59), [Sch. Pt. IV](https://www.legislation.gov.uk/ukpga/1980/59/schedule/part/IV)
 
@@ -253,7 +253,7 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554941]: Textual amendment: Words substituted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 18 Sch. 1](https://www.legislation.gov.uk/ukpga/1965/2/section/18/schedule/1)
 
-[^key-e007e6aad3e0a1c53b2f12b391bb889c]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-e007e6aad3e0a1c53b2f12b391bb889c]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c554942]: Textual amendment: Words repealed (E.W.) (S.) by [Charities Act 1960 (c. 58)](https://www.legislation.gov.uk/ukpga/1960/58), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1960/58/section/49/2)(*b*), Sch. 7 Pt. II
 
@@ -267,21 +267,21 @@ Upon payment of the money contracted or to be contracted or agreed to be paid fo
 
 [^c554948]: Textual amendment: Words substituted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 18 Sch. 1](https://www.legislation.gov.uk/ukpga/1965/2/section/18/schedule/1)
 
-[^key-d349dbebaf53a0bead07831a861bb0a2]: Textual amendment: Words in s. 46 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-d349dbebaf53a0bead07831a861bb0a2]: Textual amendment: Words in s. 46 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c554950]: Textual amendment: Words substituted by [Administration of Justice Act 1982 (c. 53, SIF 34, 37, 38)](https://www.legislation.gov.uk/ukpga/1982/53), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/1982/53/section/46/2)(*a*)(i), 48
 
-[^key-36ec5111b7aacbc145b9e370a84dd97f]: Textual amendment: S. 47 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-36ec5111b7aacbc145b9e370a84dd97f]: Textual amendment: S. 47 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
-[^key-92d399d1ee9921e83bf3815ec716f396]: Textual amendment: S. 48 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-92d399d1ee9921e83bf3815ec716f396]: Textual amendment: S. 48 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c554956]: Textual amendment: Words substituted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 18 Sch. 1](https://www.legislation.gov.uk/ukpga/1965/2/section/18/schedule/1)
 
-[^key-9a9a72f163e22891a5593c07ece08a51]: Textual amendment: Words in s. 49 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-9a9a72f163e22891a5593c07ece08a51]: Textual amendment: Words in s. 49 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c554961]: Textual amendment: Words substituted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 18 Sch. 1](https://www.legislation.gov.uk/ukpga/1965/2/section/18/schedule/1)
 
-[^key-073b22f59feb7934a5133448c4c4ec2b]: Textual amendment: Words in s. 50 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-073b22f59feb7934a5133448c4c4ec2b]: Textual amendment: Words in s. 50 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/7/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c554962]: Textual amendment: Words substituted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 18 Sch. 1](https://www.legislation.gov.uk/ukpga/1965/2/section/18/schedule/1)
 

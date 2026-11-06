@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Interpretation[^key-affe20b0006c33857bd1d4e0726d9181]
+## 169. Interpretation[^c-affe20b0006c33857bd1d4e0726d9181]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-affe20b0006c33857bd1d4e0726d9181]: Commencement: Art. 169 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-affe20b0006c33857bd1d4e0726d9181]: Commencement: Art. 169 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00145]: Footnote: Regulation 2(1) was relevantly amended by regulation 3(3)(a) and (c) of S.I. [1998/3174](https://www.legislation.gov.uk/uksi/1998/3174).

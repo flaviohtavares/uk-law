@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. The securities section of the title sheet[^key-b7a7c0e3f07e12d8432a558d33de673d]
+## 8. The securities section of the title sheet[^c-b7a7c0e3f07e12d8432a558d33de673d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7a7c0e3f07e12d8432a558d33de673d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2012/5/section/8) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b7a7c0e3f07e12d8432a558d33de673d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2012/5/section/8) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

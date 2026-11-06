@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 195(2A)[^f00002] of that Act, they have consulted with such representative organisations as they think fit.
 
-## 1. Citation and commencement[^key-5d2c931a3845abac6e6d50ea3dbfb941]
+## 1. Citation and commencement[^c-5d2c931a3845abac6e6d50ea3dbfb941]
 
 These Regulations may be cited as the Motor Vehicles (Competitions and Trials) (Miscellaneous Amendment) (Scotland) Regulations 2025 and come into force on 30 October 2025.
 
-## 2. Amendments to the Motor Vehicles (Competitions and Trials) (Scotland) Regulations 1976[^key-440962a558a476ef813411c24ed5d1e7]
+## 2. Amendments to the Motor Vehicles (Competitions and Trials) (Scotland) Regulations 1976[^c-440962a558a476ef813411c24ed5d1e7]
 
 (1) The Motor Vehicles (Competitions and Trials) (Scotland) Regulations 1976[^f00003] are amended in accordance with paragraphs (2) to (8).
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Motor Vehicles (Competitions and Trials) (
   > - “**RSAC Motorsport Limited**” means the company limited by guarantee registered in Scotland with company number SC078564;
 
   ,
-- (c)[^key-916c0257af7592724a780f59277b9537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-916c0257af7592724a780f59277b9537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the words “Royal Scottish Automobile Club” wherever they occur, substitute “RSAC Motorsport Limited”.
 
@@ -113,11 +113,11 @@ These Regulations may be cited as the Motor Vehicles (Competitions and Trials) (
 
 (8) Schedule 3 (Specified events) is omitted.
 
-## 3. Amendment to the Motor Vehicles (Off Road Events) Regulations 1995[^key-d103538087bf7190e828eb3eb07321d2]
+## 3. Amendment to the Motor Vehicles (Off Road Events) Regulations 1995[^c-d103538087bf7190e828eb3eb07321d2]
 
 In regulation 3 (authorising bodies) of the Motor Vehicles (Off Road Events) Regulations 1995[^f00004] for “the Royal Automobile Club” substitute “Motorsport UK Association Limited”.
 
-## 4. Revocation[^key-b5ea0ff87bfaa71409a400b05b099563]
+## 4. Revocation[^c-b5ea0ff87bfaa71409a400b05b099563]
 
 The Motor Vehicles (Competitions and Trials) (Scotland) Amendment Regulations 2002[^f00005] are revoked.
 
@@ -159,18 +159,18 @@ A minor amendment is made by regulation 4 to the Motor Vehicles (Off Road Events
 
 [^f00002]: Footnote: Section 195(2A) was inserted by the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), section 20(9).
 
-[^key-5d2c931a3845abac6e6d50ea3dbfb941]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+[^c-5d2c931a3845abac6e6d50ea3dbfb941]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
 
-[^key-440962a558a476ef813411c24ed5d1e7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/245/regulation/2) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+[^c-440962a558a476ef813411c24ed5d1e7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/245/regulation/2) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1976/2019](https://www.legislation.gov.uk/uksi/1976/2019), relevantly amended by [S.I. 1992/747](https://www.legislation.gov.uk/uksi/1992/747), [S.I. 1994/2653](https://www.legislation.gov.uk/uksi/1994/2653) and [S.S.I. 2002/14](https://www.legislation.gov.uk/ssi/2002/14).
 
-[^key-916c0257af7592724a780f59277b9537]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/245/regulation/2/2/c) revoked (9.12.2025) by [The Motor Vehicles (Competitions and Trials) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/300)](https://www.legislation.gov.uk/ssi/2025/300), [regs. 1](https://www.legislation.gov.uk/ssi/2025/300/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/300/regulation/3)
+[^c-916c0257af7592724a780f59277b9537]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/245/regulation/2/2/c) revoked (9.12.2025) by [The Motor Vehicles (Competitions and Trials) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/300)](https://www.legislation.gov.uk/ssi/2025/300), [regs. 1](https://www.legislation.gov.uk/ssi/2025/300/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/300/regulation/3)
 
-[^key-d103538087bf7190e828eb3eb07321d2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/245/regulation/3) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+[^c-d103538087bf7190e828eb3eb07321d2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/245/regulation/3) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1995/1371](https://www.legislation.gov.uk/uksi/1995/1371), to which there are amendments not relevant to these Regulations.
 
-[^key-b5ea0ff87bfaa71409a400b05b099563]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/245/regulation/4) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
+[^c-b5ea0ff87bfaa71409a400b05b099563]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/245/regulation/4) in force at 30.10.2025, see [reg. 1](https://www.legislation.gov.uk/ssi/2025/245/regulation/1)
 
 [^f00005]: Footnote: [S.S.I 2002/14](https://www.legislation.gov.uk/ssi/2002/14).

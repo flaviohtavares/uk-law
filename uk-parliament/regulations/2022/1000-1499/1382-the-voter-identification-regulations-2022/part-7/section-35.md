@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Collation of information by relevant registration officer or returning officer[^key-9eb4ff7962279c54da0f43a0213597fa]
+## 35. Collation of information by relevant registration officer or returning officer[^c-9eb4ff7962279c54da0f43a0213597fa]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eb4ff7962279c54da0f43a0213597fa]: Commencement: Reg. 35 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-9eb4ff7962279c54da0f43a0213597fa]: Commencement: Reg. 35 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

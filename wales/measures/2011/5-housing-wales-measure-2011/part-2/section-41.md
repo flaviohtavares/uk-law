@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Voluntary undertakings[^key-4b2d6bf338613a9389ae9da9163b1e6e]
+## 41. Voluntary undertakings[^c-4b2d6bf338613a9389ae9da9163b1e6e]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ After section 6 of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-4b2d6bf338613a9389ae9da9163b1e6e]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2011/5/section/41) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/f)
+[^c-4b2d6bf338613a9389ae9da9163b1e6e]: Commencement: [S. 41](https://www.legislation.gov.uk/mwa/2011/5/section/41) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/f)

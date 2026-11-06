@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Confidentiality of documents[^key-c51ed0d4f1ba8e7df629e15abf2b106e]
+## 92. Confidentiality of documents[^c-c51ed0d4f1ba8e7df629e15abf2b106e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ the postal administrator may decline to allow it to be inspected by a person who
 
 ## Annotations
 
-[^key-c51ed0d4f1ba8e7df629e15abf2b106e]: Commencement: Rule 92 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c51ed0d4f1ba8e7df629e15abf2b106e]: Commencement: Rule 92 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

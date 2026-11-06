@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-caaa0cd2ef81a1918875b6daea9adf2f]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-caaa0cd2ef81a1918875b6daea9adf2f]
 
 | *(1)*<br>*Location of hedgerow* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Article 39
 | H8 to H8 shown on sheet 5 of the Hedgerow Plans | Partial removal | Work No. 1 |
 | H9 to H9 shown on sheet 5 of the Hedgerow Plans | Full removal | Work Nos. 1 and 2 |
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-2b7ae131f0d9bdd24d57ed4360bd5c77]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-2b7ae131f0d9bdd24d57ed4360bd5c77]
 
 | *(1)*<br>*Location of hedgerow* | *(2)*<br>*Work to be carried out* | *(3)*<br>*Relevant part of the authorised development* |
 | --- | --- | --- |
@@ -38,6 +38,6 @@ Article 39
 
 ## Annotations
 
-[^key-caaa0cd2ef81a1918875b6daea9adf2f]: Commencement: Sch. 8 Pt. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-caaa0cd2ef81a1918875b6daea9adf2f]: Commencement: Sch. 8 Pt. 1 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
-[^key-2b7ae131f0d9bdd24d57ed4360bd5c77]: Commencement: Sch. 8 Pt. 2 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-2b7ae131f0d9bdd24d57ed4360bd5c77]: Commencement: Sch. 8 Pt. 2 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

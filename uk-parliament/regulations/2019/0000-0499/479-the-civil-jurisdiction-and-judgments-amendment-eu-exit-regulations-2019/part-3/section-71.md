@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. The Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^key-11239bcba312bf46ccefd9c43d2efd7b]
+## 71. The Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997[^c-11239bcba312bf46ccefd9c43d2efd7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997 [^c
 
 ## Annotations
 
-[^key-11239bcba312bf46ccefd9c43d2efd7b]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-11239bcba312bf46ccefd9c43d2efd7b]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624551]: Marginal citation: [S.I. 1997/302](https://www.legislation.gov.uk/uksi/1997/302). Relevant amendments were made by S.I. 2001.3929, [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and [S.I. 2015/1644](https://www.legislation.gov.uk/uksi/2015/1644).

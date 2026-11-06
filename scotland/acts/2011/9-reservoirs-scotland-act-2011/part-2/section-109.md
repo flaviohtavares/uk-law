@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Remedial and restoration measures regulations[^key-589e6a53414fffda6e285e67632f6b94]
+## 109. Remedial and restoration measures regulations[^c-589e6a53414fffda6e285e67632f6b94]
 
 *Extent: S*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-589e6a53414fffda6e285e67632f6b94]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2011/9/section/109) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-589e6a53414fffda6e285e67632f6b94]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2011/9/section/109) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

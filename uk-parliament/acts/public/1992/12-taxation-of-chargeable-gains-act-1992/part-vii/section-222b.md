@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222B. Non-qualifying tax years[^key-72dac0ced9cf5235a50d33f0065dd7aa]
+## 222B. Non-qualifying tax years[^c-72dac0ced9cf5235a50d33f0065dd7aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 In the remainder of this section the dwelling-house or part of a dwelling-house is referred to as “**the dwelling-house**”.
 
-(2) Except where the disposal mentioned in section 222(1) is a disposal falling within section 222A(1)(b) (non-resident disposals)[^key-0d1c78ebf8fdc5fd8c5194ff2fcc4eb1], subsection (1) does not have effect in respect of any tax year or partial tax year before the tax year 2015-16.
+(2) Except where the disposal mentioned in section 222(1) is a disposal falling within section 222A(1)(b) (non-resident disposals)[^c-0d1c78ebf8fdc5fd8c5194ff2fcc4eb1], subsection (1) does not have effect in respect of any tax year or partial tax year before the tax year 2015-16.
 
 (3) A tax year the whole of which falls within P's period of ownership is “**a non-qualifying tax year**” in relation to the dwelling-house if—
 
@@ -58,7 +58,7 @@ In the remainder of this section the dwelling-house or part of a dwelling-house 
 
 is to be made in accordance with the statutory residence test, as modified by subsection (8).
 
-(10) Section 271ZA(2)[^key-3553da9dae2dbbebbbc67f5188645626] (visiting forces etc) is to be disregarded in determining for the purposes of this section whether or not an individual is resident in the United Kingdom.
+(10) Section 271ZA(2)[^c-3553da9dae2dbbebbbc67f5188645626] (visiting forces etc) is to be disregarded in determining for the purposes of this section whether or not an individual is resident in the United Kingdom.
 
 (11) Subsection (1) is subject to—
 
@@ -67,8 +67,8 @@ is to be made in accordance with the statutory residence test, as modified by su
 
 ## Annotations
 
-[^key-72dac0ced9cf5235a50d33f0065dd7aa]: Textual amendment: Ss. 222A-222C inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/3)
+[^c-72dac0ced9cf5235a50d33f0065dd7aa]: Textual amendment: Ss. 222A-222C inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/3)
 
-[^key-0d1c78ebf8fdc5fd8c5194ff2fcc4eb1]: Textual amendment: Words in s. 222B(2) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 73(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/73/2)
+[^c-0d1c78ebf8fdc5fd8c5194ff2fcc4eb1]: Textual amendment: Words in s. 222B(2) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 73(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/73/2)
 
-[^key-3553da9dae2dbbebbbc67f5188645626]: Textual amendment: Words in s. 222B(10) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 73(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/73/3)
+[^c-3553da9dae2dbbebbbc67f5188645626]: Textual amendment: Words in s. 222B(10) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 73(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/73/3)

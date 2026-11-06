@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Extension of the Iran (Sanctions) Regulations 2023[^key-57ddeda8f7ce9b4bb420c8218480c36c]
+## 2. Extension of the Iran (Sanctions) Regulations 2023[^c-57ddeda8f7ce9b4bb420c8218480c36c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Iran (Sanctions) Regulations 2023[^f00002] as amended from time to time exte
 
 ## Annotations
 
-[^key-57ddeda8f7ce9b4bb420c8218480c36c]: Commencement: Art. 2 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+[^c-57ddeda8f7ce9b4bb420c8218480c36c]: Commencement: Art. 2 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2023/1314](https://www.legislation.gov.uk/uksi/2023/1314).

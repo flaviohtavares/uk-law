@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Approval of ambient stores, rewrapping centres and cold stores[^key-857b0b20b5eb5d2917bfe44596292836]
+## 5. Approval of ambient stores, rewrapping centres and cold stores[^c-857b0b20b5eb5d2917bfe44596292836]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ otherwise shall refuse to approve the premises as a cold store for the storage o
 
 ## Annotations
 
-[^key-857b0b20b5eb5d2917bfe44596292836]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-857b0b20b5eb5d2917bfe44596292836]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

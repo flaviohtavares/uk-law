@@ -44,18 +44,18 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 326(4) of that Act[^f00002], a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-43f6107c5ef03cb5f568fdd160b3b0f6]
+## 1. Citation and commencement[^c-43f6107c5ef03cb5f568fdd160b3b0f6]
 
 These Regulations may be cited as the Mental Health (Detention in Conditions of Excessive Security) (Scotland) Regulations 2015 and come into force on 16th November 2015.
 
-## 2. Interpretation[^key-a49ece47b1f36a57c2c838f426d8802c]
+## 2. Interpretation[^c-a49ece47b1f36a57c2c838f426d8802c]
 
 In these Regulations—
 
 - (a) “the 2003 Act” means the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00003]; and
 - (b) reference to a hospital includes a hospital unit as defined in section 273(3) of the 2003 Act[^f00004].
 
-## 3. Amendments to the 2003 Act[^key-cae3396010875e59435c1d6cf8bbaf64]
+## 3. Amendments to the 2003 Act[^c-cae3396010875e59435c1d6cf8bbaf64]
 
 In both—
 
@@ -64,20 +64,20 @@ In both—
 
 for “a medical” substitute “an approved medical”[^f00005].
 
-## 4. Meaning of qualifying hospital[^key-9b9187dad753f4343f926f09148cc473]
+## 4. Meaning of qualifying hospital[^c-9b9187dad753f4343f926f09148cc473]
 
 The following are qualifying hospitals for the purposes of sections 268 to 271 of the 2003 Act—
 
 - (a) the Orchard Clinic in Royal Edinburgh Hospital, Morningside Terrace, Edinburgh;
-- (b) the Rowanbank Clinic, 133C Balornock Road, Glasgow; [^key-2134be244209b7f7356b54f2984bd8fa]...
-- (c) the Medium Secure Service, Rohallion Clinic, Murray Royal Hospital, Muirhall Road, Perth ; and[^key-cd6ccd279b0cf2df95fabdee32734017]
+- (b) the Rowanbank Clinic, 133C Balornock Road, Glasgow; [^c-2134be244209b7f7356b54f2984bd8fa]...
+- (c) the Medium Secure Service, Rohallion Clinic, Murray Royal Hospital, Muirhall Road, Perth ; and[^c-cd6ccd279b0cf2df95fabdee32734017]
 - (d) the National Secure Adolescent Inpatient Service, Foxgrove, Ayrshire Central Hospital Campus, Kilwinning Road, Irvine.
 
-## 5. Test to be applied under sections 268(2), 269(3) and 271(2)(a) of the 2003 Act[^key-61b0efc7a2da15f989cd5572f4124fd1]
+## 5. Test to be applied under sections 268(2), 269(3) and 271(2)(a) of the 2003 Act[^c-61b0efc7a2da15f989cd5572f4124fd1]
 
 The test for the purposes of sections 268(2), 269(3) and 271(2)(a) of the 2003 Act is met in relation to a patient if detention of the patient in the hospital in which the patient is being detained involves the patient being subject to a level of security that is excessive in the patient’s case.
 
-## 6. Further provision about when a hospital’s level of security is excessive[^key-54688f79ae0751de0d87021c08537109]
+## 6. Further provision about when a hospital’s level of security is excessive[^c-54688f79ae0751de0d87021c08537109]
 
 (1) Paragraph (2) makes provision for the purposes of—
 
@@ -119,24 +119,24 @@ Regulation 6 makes provision about when detaining a patient in a given hospital 
 
 [^f00002]: Footnote: Section 326(4) of the 2003 Act has been modified by paragraph 5 of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and relevantly amended by section 16(7) of the 2015 Act. By virtue of section 17(2) of the 2015 Act, the amendment made by section 16(7) of that Act is deemed to be in effect for the purposes of these Regulations.
 
-[^key-43f6107c5ef03cb5f568fdd160b3b0f6]: Commencement: Reg. 1 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
+[^c-43f6107c5ef03cb5f568fdd160b3b0f6]: Commencement: Reg. 1 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
 
-[^key-a49ece47b1f36a57c2c838f426d8802c]: Commencement: Reg. 2 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
+[^c-a49ece47b1f36a57c2c838f426d8802c]: Commencement: Reg. 2 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
 
 [^f00003]: Footnote: There are amendments to the 2003 Act relevant to these Regulations, which are made by sections 14 to 18 of the 2015 Act.
 
 [^f00004]: Footnote: Section 273(3) of the 2003 Act is inserted by section 18 of the 2015 Act.
 
-[^key-cae3396010875e59435c1d6cf8bbaf64]: Commencement: Reg. 3 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
+[^c-cae3396010875e59435c1d6cf8bbaf64]: Commencement: Reg. 3 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
 
 [^f00005]: Footnote: Sections 264(7A) and 268(7A) are inserted by section 14 of the 2015 Act.
 
-[^key-9b9187dad753f4343f926f09148cc473]: Commencement: Reg. 4 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
+[^c-9b9187dad753f4343f926f09148cc473]: Commencement: Reg. 4 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
 
-[^key-2134be244209b7f7356b54f2984bd8fa]: Textual amendment: Word in reg. 4(b) omitted (28.11.2023) by virtue of [The Mental Health (National Secure Adolescent Inpatient Service: Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/356)](https://www.legislation.gov.uk/ssi/2023/356), [regs. 1](https://www.legislation.gov.uk/ssi/2023/356/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2023/356/regulation/3/a)
+[^c-2134be244209b7f7356b54f2984bd8fa]: Textual amendment: Word in reg. 4(b) omitted (28.11.2023) by virtue of [The Mental Health (National Secure Adolescent Inpatient Service: Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/356)](https://www.legislation.gov.uk/ssi/2023/356), [regs. 1](https://www.legislation.gov.uk/ssi/2023/356/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2023/356/regulation/3/a)
 
-[^key-cd6ccd279b0cf2df95fabdee32734017]: Textual amendment: Reg. 4(d) and word inserted (28.11.2023) by [The Mental Health (National Secure Adolescent Inpatient Service: Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/356)](https://www.legislation.gov.uk/ssi/2023/356), [regs. 1](https://www.legislation.gov.uk/ssi/2023/356/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2023/356/regulation/3/b)
+[^c-cd6ccd279b0cf2df95fabdee32734017]: Textual amendment: Reg. 4(d) and word inserted (28.11.2023) by [The Mental Health (National Secure Adolescent Inpatient Service: Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/356)](https://www.legislation.gov.uk/ssi/2023/356), [regs. 1](https://www.legislation.gov.uk/ssi/2023/356/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2023/356/regulation/3/b)
 
-[^key-61b0efc7a2da15f989cd5572f4124fd1]: Commencement: Reg. 5 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
+[^c-61b0efc7a2da15f989cd5572f4124fd1]: Commencement: Reg. 5 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
 
-[^key-54688f79ae0751de0d87021c08537109]: Commencement: Reg. 6 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)
+[^c-54688f79ae0751de0d87021c08537109]: Commencement: Reg. 6 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1)

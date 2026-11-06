@@ -27,30 +27,30 @@ summary: ''
 
 2006 No. 66
 
-PLANT HEALTH *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+PLANT HEALTH *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-The Plant Health (Wood and Bark) Order (Northern Ireland) 2006 *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+The Plant Health (Wood and Bark) Order (Northern Ireland) 2006 *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-Made *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+Made *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-27th February 2006 *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+27th February 2006 *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-Coming into operation *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+Coming into operation *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-31st March 2006 *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+31st March 2006 *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-The Department of Agriculture and Rural Development *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00001] in exercise of the powers conferred upon it by sections 2 *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00002], 3[^f00003], 3A[^f00004], 3B[^f00005], and 4(1) *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00006] of the Plant Health Act (Northern Ireland) 1967 *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00007] and of all the other powers enabling it in that behalf, hereby makes the following Order: *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+The Department of Agriculture and Rural Development *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00001] in exercise of the powers conferred upon it by sections 2 *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00002], 3[^f00003], 3A[^f00004], 3B[^f00005], and 4(1) *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00006] of the Plant Health Act (Northern Ireland) 1967 *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^f00007] and of all the other powers enabling it in that behalf, hereby makes the following Order: *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — GENERAL (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 1 (affected by repeal, see note) — GENERAL (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 
-### PART 2 (affected by repeal, see note) — IMPORTS FROM THIRD COUNTRIES (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 2 (affected by repeal, see note) — IMPORTS FROM THIRD COUNTRIES (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -75,7 +75,7 @@ The Department of Agriculture and Rural Development *(affected by repeal, see no
 - [Section 16 — Approved places of inspection](part-2/section-16.md)
 - [Section 16A — Approved places of inspection: Northern Ireland](part-2/section-16a.md)
 
-### PART 3 (affected by repeal, see note) — INTERNAL (affected by repeal, see note)... CONTROLS ON MOVEMENT (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-8998727e71e80b21edb84f2b20628ec7][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 3 (affected by repeal, see note) — INTERNAL (affected by repeal, see note)... CONTROLS ON MOVEMENT (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-8998727e71e80b21edb84f2b20628ec7][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -89,7 +89,7 @@ The Department of Agriculture and Rural Development *(affected by repeal, see no
 - [Section 21A — Validity of UK plant passports: Northern Ireland](part-3/section-21a.md)
 - [Section 22 — General provisions relating to UK plant passports](part-3/section-22.md)
 
-### PART 4 (affected by repeal, see note) — REGISTRATION OF FORESTRY TRADERS AND AUTHORITY TO ISSUE (affected by repeal, see note) UK PLANT PASSPORTS (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-b01d4009886e73cdfcaf72a140c39433][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 4 (affected by repeal, see note) — REGISTRATION OF FORESTRY TRADERS AND AUTHORITY TO ISSUE (affected by repeal, see note) UK PLANT PASSPORTS (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-b01d4009886e73cdfcaf72a140c39433][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -98,13 +98,13 @@ The Department of Agriculture and Rural Development *(affected by repeal, see no
 - [Section 25 — Conditions for maintaining registration as a forestry trader](part-4/section-25.md)
 - [Section 26 — Authority to issue UK plant passports](part-4/section-26.md)
 
-### PART 5 (affected by repeal, see note) — SWISS TRADE AND SWISS PLANT PASSPORTS (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 5 (affected by repeal, see note) — SWISS TRADE AND SWISS PLANT PASSPORTS (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
 - [Section 27 — Swiss trade and Swiss plant passports](part-5/section-27.md)
 
-### PART 6 (affected by repeal, see note) — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF PESTS (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 6 (affected by repeal, see note) — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF PESTS (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -117,14 +117,14 @@ The Department of Agriculture and Rural Development *(affected by repeal, see no
 - [Section 33 — Information as to compliance with notices](part-6/section-33.md)
 - [Section 34 — Failure to comply with a notice](part-6/section-34.md)
 
-### PART 7 (affected by repeal, see note) — LICENCES (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 7 (affected by repeal, see note) — LICENCES (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
 - [Section 35 — Licences to carry out activities prohibited by this Order](part-7/section-35.md)
 - [Section 36 — Licences for trial or scientific purposes and for work on varietal selections ...](part-7/section-36.md)
 
-### PART 8 (affected by repeal, see note) — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 8 (affected by repeal, see note) — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -133,14 +133,14 @@ The Department of Agriculture and Rural Development *(affected by repeal, see no
 - [Section 38A — Notification of the likely entry into, or presence in, a free zone of pests or relevant material: Northern Ireland](part-8/section-38a.md)
 - [Section 39 — Information to be given](part-8/section-39.md)
 
-### PART 9 (affected by repeal, see note) — OFFENCES (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 9 (affected by repeal, see note) — OFFENCES (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
 - [Section 40 — Offences](part-9/section-40.md)
 - [Section 41 — Penalties](part-9/section-41.md)
 
-### PART 10 (affected by repeal, see note) — THE CUSTOMS ACT AND REVOCATION (affected by repeal, see note)[^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+### PART 10 (affected by repeal, see note) — THE CUSTOMS ACT AND REVOCATION (affected by repeal, see note)[^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -166,13 +166,13 @@ The Department of Agriculture and Rural Development *(affected by repeal, see no
 
 *Extent: N.I.*
 
-Sealed with the Official Seal of the Department of Agriculture and Rural Development on 27th February 2006. *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+Sealed with the Official Seal of the Department of Agriculture and Rural Development on 27th February 2006. *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-Malcolm Beatty *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+Malcolm Beatty *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-A senior officer of the *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+A senior officer of the *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-Department of Agriculture and Rural Development *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+Department of Agriculture and Rural Development *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -180,7 +180,7 @@ Department of Agriculture and Rural Development *(affected by repeal, see note)*
 
 The Plant Health (Wood and Bark) Order (Northern Ireland) 2006 (“the Order”) revokes and consolidates with amendments the Plant Health (Wood and Bark) Order (Northern Ireland) 1993 ([SR 1993/460](https://www.legislation.gov.uk/nisr/1993/460)). The Order also implements—
 
-- (a) Commission Directive [2002/36/EC](https://www.legislation.gov.uk/european/directive/2002/0036) (O.J. No. L116, 3.5.2002, p.16) amending certain Annexes to Council Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) on protective measures against the introduction into 8 of organisms harmful to plants and plant products and against their spread within the European Union.[^key-675d0209b5b686fed5f772cbd2976e75];
+- (a) Commission Directive [2002/36/EC](https://www.legislation.gov.uk/european/directive/2002/0036) (O.J. No. L116, 3.5.2002, p.16) amending certain Annexes to Council Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) on protective measures against the introduction into 8 of organisms harmful to plants and plant products and against their spread within the European Union.[^c-675d0209b5b686fed5f772cbd2976e75];
 - (b) Council Directive [2002/89/EC](https://www.legislation.gov.uk/european/directive/2002/0089) (OJ No. L355, 30.12.2002, p.45) amending Directive [2000/29/EC](https://www.legislation.gov.uk/european/directive/2000/0029) on protective measures against the introduction into the European Union. of organisms harmful to plants or plant products and against their spread within the European Union.
 - (c) Article 20 and Annex II of the Act concerning the Conditions of Accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (OJ No. L236, 23.9.2003, p.33);
 - (d) Commission Decision [2004/278/EC](https://www.legislation.gov.uk/european/decision/2004/0278) (OJ No. L87, 25.3.2004, p.31) on the European Union. position on the amendment of the Appendices to Annex 4 to the Agreement between the European Union and the Swiss Confederation on trade in agricultural products;
@@ -228,7 +228,7 @@ The Order comes into operation on 31st March 2006.
 
 ## Annotations
 
-[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/66) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/66) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
 
 [^f00001]: Footnote: Formerly the Department of Agriculture: see [SI 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283) Art. 3(4)
 
@@ -244,8 +244,8 @@ The Order comes into operation on 31st March 2006.
 
 [^f00007]: Footnote: [1967 c. 28 (N.I)](https://www.legislation.gov.uk/apni/1967/28)
 
-[^key-8998727e71e80b21edb84f2b20628ec7]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/nisr/2006/66/part/3) heading omitted by virtue (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(21)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8998727e71e80b21edb84f2b20628ec7]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/nisr/2006/66/part/3) heading omitted by virtue (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(21)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b01d4009886e73cdfcaf72a140c39433]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/nisr/2006/66/part/4) heading substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(28)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b01d4009886e73cdfcaf72a140c39433]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/nisr/2006/66/part/4) heading substituted (31.12.2020) by [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(28)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-675d0209b5b686fed5f772cbd2976e75]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-675d0209b5b686fed5f772cbd2976e75]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Interpretation: immigration officer[^key-ec87cd35d845b0c71c9290c1a59a4c48]
+## 45. Interpretation: immigration officer[^c-ec87cd35d845b0c71c9290c1a59a4c48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act “**immigration officer**” means a person appointed by the Secret
 
 ## Annotations
 
-[^key-ec87cd35d845b0c71c9290c1a59a4c48]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/19/section/45) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-ec87cd35d845b0c71c9290c1a59a4c48]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/19/section/45) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

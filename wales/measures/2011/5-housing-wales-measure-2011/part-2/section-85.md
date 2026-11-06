@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Appointment of new officers[^key-fd9c3c6455d408a43f5b2ef9be6d22b0]
+## 85. Appointment of new officers[^c-fd9c3c6455d408a43f5b2ef9be6d22b0]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd9c3c6455d408a43f5b2ef9be6d22b0]: Commencement: [S. 85](https://www.legislation.gov.uk/mwa/2011/5/section/85) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-fd9c3c6455d408a43f5b2ef9be6d22b0]: Commencement: [S. 85](https://www.legislation.gov.uk/mwa/2011/5/section/85) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)

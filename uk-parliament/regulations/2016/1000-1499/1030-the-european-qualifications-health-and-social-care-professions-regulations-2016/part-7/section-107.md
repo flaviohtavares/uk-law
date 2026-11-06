@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Insertion of section 64A[^key-c166045749e97ae44f393dcd7b73db22]
+## 107. Insertion of section 64A[^c-c166045749e97ae44f393dcd7b73db22]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 64, insert—
 
 ## Annotations
 
-[^key-c166045749e97ae44f393dcd7b73db22]: Commencement: Reg. 107 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c166045749e97ae44f393dcd7b73db22]: Commencement: Reg. 107 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

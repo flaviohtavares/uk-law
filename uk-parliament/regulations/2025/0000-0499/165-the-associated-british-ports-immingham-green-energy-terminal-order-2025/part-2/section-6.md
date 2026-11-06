@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Extent of certain works[^key-fff15cd40a19d36494a335df34bff320]
+## 6. Extent of certain works[^c-fff15cd40a19d36494a335df34bff320]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff15cd40a19d36494a335df34bff320]: Commencement: Art. 6 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-fff15cd40a19d36494a335df34bff320]: Commencement: Art. 6 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

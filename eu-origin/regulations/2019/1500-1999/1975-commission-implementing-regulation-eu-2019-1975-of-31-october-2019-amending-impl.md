@@ -33,22 +33,22 @@ of 31 October 2019
 
 amending Implementing Regulation (EU) 2015/220 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union (revoked)
 
-[^key-4553ff4b440816a7d44978933eee50d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4553ff4b440816a7d44978933eee50d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4553ff4b440816a7d44978933eee50d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4553ff4b440816a7d44978933eee50d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4553ff4b440816a7d44978933eee50d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4553ff4b440816a7d44978933eee50d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4553ff4b440816a7d44978933eee50d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4553ff4b440816a7d44978933eee50d6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-4553ff4b440816a7d44978933eee50d6]
+## ANNEX[^c-4553ff4b440816a7d44978933eee50d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4553ff4b440816a7d44978933eee50d6]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 115](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/115)
+[^c-4553ff4b440816a7d44978933eee50d6]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 115](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/115)

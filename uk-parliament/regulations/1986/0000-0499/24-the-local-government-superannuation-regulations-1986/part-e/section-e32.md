@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E32. Benefits not assignable[^key-b7b339eb03374feac4bab4dd1c9f33da]
+## E32. Benefits not assignable[^c-b7b339eb03374feac4bab4dd1c9f33da]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Every benefit—
 
 ## Annotations
 
-[^key-b7b339eb03374feac4bab4dd1c9f33da]: Commencement: [Reg. E32](https://www.legislation.gov.uk/uksi/1986/24/regulation/E32) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b7b339eb03374feac4bab4dd1c9f33da]: Commencement: [Reg. E32](https://www.legislation.gov.uk/uksi/1986/24/regulation/E32) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

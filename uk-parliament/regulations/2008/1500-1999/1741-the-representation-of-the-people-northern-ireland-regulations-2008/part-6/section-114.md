@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Offences in respect of contravention of Part 3 or Part 6[^key-6f220dd7c0673a24ffd4b9011339d0e2]
+## 114. Offences in respect of contravention of Part 3 or Part 6[^c-6f220dd7c0673a24ffd4b9011339d0e2]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) if he contravenes any of the provisions specified in paragraph (2), or
 - (b) if he is an appropriate supervisor of a person (P) who fails to comply with any of those provisions and he failed to take appropriate steps.
 
-(2) Those provisions are regulations 53B(3), 53C(3),[^key-7a12782d2e32a806b8475e262dd309ef] 94(3), 95(3) and (4), 97(2) and (3),98(3) and (5), 99(3)and (4), 100(7), 102(3) and (4), 103(3), 104(4) and (5), 105(3) and (5), 106(3) and (4), 107(3) and (4), 110(4) and (5), 111(5) and (6) , 112A(3)[^key-1acf860978a5532dc537d0e1f6d2c70f] and 113(3).
+(2) Those provisions are regulations 53B(3), 53C(3),[^c-7a12782d2e32a806b8475e262dd309ef] 94(3), 95(3) and (4), 97(2) and (3),98(3) and (5), 99(3)and (4), 100(7), 102(3) and (4), 103(3), 104(4) and (5), 105(3) and (5), 106(3) and (4), 107(3) and (4), 110(4) and (5), 111(5) and (6) , 112A(3)[^c-1acf860978a5532dc537d0e1f6d2c70f] and 113(3).
 
 (3) P is not guilty of an offence under paragraph (1) if—
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6f220dd7c0673a24ffd4b9011339d0e2]: Textual amendment: Words in [reg. 114 heading](https://www.legislation.gov.uk/uksi/2008/1741/part/6/crossheading/supply-to-processor-and-offences) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [31(2)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/31/2)
+[^c-6f220dd7c0673a24ffd4b9011339d0e2]: Textual amendment: Words in [reg. 114 heading](https://www.legislation.gov.uk/uksi/2008/1741/part/6/crossheading/supply-to-processor-and-offences) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [31(2)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/31/2)
 
-[^key-7a12782d2e32a806b8475e262dd309ef]: Textual amendment: Words in [reg. 114(2)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/114/2) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/31/3)
+[^c-7a12782d2e32a806b8475e262dd309ef]: Textual amendment: Words in [reg. 114(2)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/114/2) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [31(3)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/31/3)
 
-[^key-1acf860978a5532dc537d0e1f6d2c70f]: Textual amendment: Words in [reg. 114(2)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/114/2) inserted (18.7.2013) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2013 (S.I. 2013/1846)](https://www.legislation.gov.uk/uksi/2013/1846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/4/2)
+[^c-1acf860978a5532dc537d0e1f6d2c70f]: Textual amendment: Words in [reg. 114(2)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/114/2) inserted (18.7.2013) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2013 (S.I. 2013/1846)](https://www.legislation.gov.uk/uksi/2013/1846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/4/2)

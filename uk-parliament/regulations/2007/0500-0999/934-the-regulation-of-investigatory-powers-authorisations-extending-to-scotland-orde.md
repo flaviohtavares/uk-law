@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 46(4) of the Regulation of Investigatory Powers Act 2000[^f00001], makes the following Order:
 
-**1.**[^key-8d1630f1ab5458444b45c1651e8aab9b] This Order may be cited as the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007 and shall come into force on 16<sup>th</sup> April 2007.
+**1.**[^c-8d1630f1ab5458444b45c1651e8aab9b] This Order may be cited as the Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2007 and shall come into force on 16<sup>th</sup> April 2007.
 
-**2.**[^key-39fb05385cc159875c40fc8eabcc8687] (1) Subject to paragraph (2), it is directed that the public authorities listed in column 1 of the Schedule to this Order (being public authorities for the time being specified in Schedule 1 to the Regulation of Investigatory Powers Act 2000[^f00002]) are relevant public authorities for all parts of the United Kingdom.
+**2.**[^c-39fb05385cc159875c40fc8eabcc8687] (1) Subject to paragraph (2), it is directed that the public authorities listed in column 1 of the Schedule to this Order (being public authorities for the time being specified in Schedule 1 to the Regulation of Investigatory Powers Act 2000[^f00002]) are relevant public authorities for all parts of the United Kingdom.
 
 (2) Where there is an entry in column 2 against a particular authority, that authority is a relevant public authority for all parts of the United Kingdom only to the extent specified in that column.
 
-**3.**[^key-bc1650b36899cfcedf6e298bd3aed8e8] The Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2000[^f00003] is revoked.
+**3.**[^c-bc1650b36899cfcedf6e298bd3aed8e8] The Regulation of Investigatory Powers (Authorisations Extending to Scotland) Order 2000[^f00003] is revoked.
 
 Tony McNulty
 
@@ -62,7 +62,7 @@ Home Office
 
 19th March 2007
 
-## SCHEDULE[^key-d034a754df0ecb1acbf3aee0f5f965a3]
+## SCHEDULE[^c-d034a754df0ecb1acbf3aee0f5f965a3]
 
 | 1 | 2 |
 | --- | --- |
@@ -95,16 +95,16 @@ Such authorisations may be granted or renewed under sections 28 and 29 where the
 
 [^f00001]: Footnote: [2000 c.23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-8d1630f1ab5458444b45c1651e8aab9b]: Commencement: Art. 1 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
+[^c-8d1630f1ab5458444b45c1651e8aab9b]: Commencement: Art. 1 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
 
-[^key-39fb05385cc159875c40fc8eabcc8687]: Commencement: Art. 2 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
+[^c-39fb05385cc159875c40fc8eabcc8687]: Commencement: Art. 2 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
 
 [^f00002]: Footnote: Relevant amendments were made by Schedule 1 to [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794); Schedule 2 to [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626); the Schedule to [S.I. 2002/1397](https://www.legislation.gov.uk/uksi/2002/1397); paragraph 14 of Schedule 16 to the Gambling Act [2005 (c.19)](https://www.legislation.gov.uk/ukpga/2005/19); Schedule 1 to [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149); paragraph 161(3) of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21); and [S.I. 2006/1874](https://www.legislation.gov.uk/uksi/2006/1874).
 
-[^key-bc1650b36899cfcedf6e298bd3aed8e8]: Commencement: Art. 3 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
+[^c-bc1650b36899cfcedf6e298bd3aed8e8]: Commencement: Art. 3 in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
 
 [^f00003]: Footnote: [S.I. 2000/2418](https://www.legislation.gov.uk/uksi/2000/2418).
 
-[^key-d034a754df0ecb1acbf3aee0f5f965a3]: Commencement: Sch. in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
+[^c-d034a754df0ecb1acbf3aee0f5f965a3]: Commencement: Sch. in force at 16.4.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/934/article/1)
 
 [^f00004]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).

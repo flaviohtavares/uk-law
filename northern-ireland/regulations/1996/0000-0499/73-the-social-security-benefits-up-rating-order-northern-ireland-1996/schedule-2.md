@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Schedule 4 to the Family Credit Regulations as amended by this Order[^key-246ae5832b6c6f91b187b1fa59ba0893]
+## SCHEDULE 2 — Schedule 4 to the Family Credit Regulations as amended by this Order[^c-246ae5832b6c6f91b187b1fa59ba0893]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ Article 16
 
 ## Annotations
 
-[^key-246ae5832b6c6f91b187b1fa59ba0893]: Commencement: Sch. 2 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
+[^c-246ae5832b6c6f91b187b1fa59ba0893]: Commencement: Sch. 2 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)

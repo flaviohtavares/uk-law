@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Saving for Trinity House[^key-e5f0286987272cfc301124d00f878622]
+## 51. Saving for Trinity House[^c-e5f0286987272cfc301124d00f878622]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-e5f0286987272cfc301124d00f878622]: Commencement: Art. 51 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-e5f0286987272cfc301124d00f878622]: Commencement: Art. 51 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

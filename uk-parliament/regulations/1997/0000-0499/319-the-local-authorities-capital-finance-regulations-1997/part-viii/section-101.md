@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Disposal of former residuary body assets[^key-6c4f17639ec5807b1926a6209cfde409]
+## 101. Disposal of former residuary body assets[^c-6c4f17639ec5807b1926a6209cfde409]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c4f17639ec5807b1926a6209cfde409]: Commencement: Reg. 101 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6c4f17639ec5807b1926a6209cfde409]: Commencement: Reg. 101 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00094]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).

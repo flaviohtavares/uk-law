@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power to make transitional provision about schemes[^key-0412e4d4fd3c76ecc533c56f21427672]
+## 42. Power to make transitional provision about schemes[^c-0412e4d4fd3c76ecc533c56f21427672]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0412e4d4fd3c76ecc533c56f21427672]: Commencement: S. 42 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-0412e4d4fd3c76ecc533c56f21427672]: Commencement: S. 42 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

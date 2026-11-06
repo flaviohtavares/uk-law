@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12A. Conflicts of interest: disciplinary proceedings[^key-ac9ce87076bcc79137dbad23603a87e9]
+## 12A. Conflicts of interest: disciplinary proceedings[^c-ac9ce87076bcc79137dbad23603a87e9]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ must, without delay after becoming aware that relevant circumstances exist in re
 
 ## Annotations
 
-[^key-ac9ce87076bcc79137dbad23603a87e9]: Textual amendment: Reg. 12A inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/4/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-ac9ce87076bcc79137dbad23603a87e9]: Textual amendment: Reg. 12A inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/4/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

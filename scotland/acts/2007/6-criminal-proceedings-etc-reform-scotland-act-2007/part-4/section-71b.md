@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71B. Re-employment of former JPs: further provision[^key-3cfe2b2cd6e5c550f25e42a17fe79f52]
+## 71B. Re-employment of former JPs: further provision[^c-3cfe2b2cd6e5c550f25e42a17fe79f52]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cfe2b2cd6e5c550f25e42a17fe79f52]: Textual amendment: Ss. 71A, 71B inserted (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2014/155/article/4/4)
+[^c-3cfe2b2cd6e5c550f25e42a17fe79f52]: Textual amendment: Ss. 71A, 71B inserted (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2014/155/article/4/4)

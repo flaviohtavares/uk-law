@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Issue, renewal and validity of certificate of airworthiness[^key-885b74f2ad891e9431dd35c304873e9c]
+## 25. Issue, renewal and validity of certificate of airworthiness[^c-885b74f2ad891e9431dd35c304873e9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-885b74f2ad891e9431dd35c304873e9c]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2013/2870/article/25) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-885b74f2ad891e9431dd35c304873e9c]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2013/2870/article/25) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

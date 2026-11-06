@@ -56,10 +56,10 @@ shall be sufficient evidence of the facts stated in it unless, in a case falling
 
 (9) In this regulation, where two or more public analysts are appointed for any area, any reference to the public analyst for that area shall be construed as a reference to either or any of them.
 
-(10) The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013[^key-d3c06277f9546a1de418270df4397fa5] shall apply in relation to a sample procured by an authorised officer of a food authority under regulation 12 as if it was a sample procured by an authorised officer under section 29 of the Act.
+(10) The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013[^c-d3c06277f9546a1de418270df4397fa5] shall apply in relation to a sample procured by an authorised officer of a food authority under regulation 12 as if it was a sample procured by an authorised officer under section 29 of the Act.
 
 (11) The certificate given by a food analyst or examiner under paragraph (6) shall be in the form set out in Schedule 3 to the Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013.
 
 ## Annotations
 
-[^key-d3c06277f9546a1de418270df4397fa5]: Textual amendment: Words in reg. 13(10)(11) substituted (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013 (S.S.I. 2013/84)](https://www.legislation.gov.uk/ssi/2013/84), [regs. 1](https://www.legislation.gov.uk/ssi/2013/84/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2013/84/regulation/11/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/84/regulation/3))
+[^c-d3c06277f9546a1de418270df4397fa5]: Textual amendment: Words in reg. 13(10)(11) substituted (6.4.2013) by [The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013 (S.S.I. 2013/84)](https://www.legislation.gov.uk/ssi/2013/84), [regs. 1](https://www.legislation.gov.uk/ssi/2013/84/regulation/1), [11(a)](https://www.legislation.gov.uk/ssi/2013/84/regulation/11/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2013/84/regulation/3))

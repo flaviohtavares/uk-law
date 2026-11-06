@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809J. Section 809I: order of remittances[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+## 809J. Section 809I: order of remittances[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,4 +94,4 @@ In step 2, read the reference to the foreign income and gains of the individual 
 
 ## Annotations
 
-[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
+[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))

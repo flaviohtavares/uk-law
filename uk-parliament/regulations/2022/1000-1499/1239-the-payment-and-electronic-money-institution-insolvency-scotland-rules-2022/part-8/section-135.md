@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Application to court to remove administrator from office[^key-52b942b247711a072c00dcc9e76fffb2]
+## 135. Application to court to remove administrator from office[^c-52b942b247711a072c00dcc9e76fffb2]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52b942b247711a072c00dcc9e76fffb2]: Commencement: Rule 135 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-52b942b247711a072c00dcc9e76fffb2]: Commencement: Rule 135 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Meetings to ascertain wishes of creditors or contributories[^key-3e351a25f44373e1bba6459f021d7bb3]
+## 52. Meetings to ascertain wishes of creditors or contributories[^c-3e351a25f44373e1bba6459f021d7bb3]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e351a25f44373e1bba6459f021d7bb3]: Commencement: S. 52 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-3e351a25f44373e1bba6459f021d7bb3]: Commencement: S. 52 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

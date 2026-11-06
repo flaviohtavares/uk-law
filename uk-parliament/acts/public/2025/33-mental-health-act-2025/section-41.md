@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Information about complaints for detained patients[^key-e17f62b5c45d2d545cf92666a2e66ea7]
+## 41. Information about complaints for detained patients[^c-e17f62b5c45d2d545cf92666a2e66ea7]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In section 132 of the Mental Health Act 1983 (duty of managers of hospitals to g
 
 ## Annotations
 
-[^key-e17f62b5c45d2d545cf92666a2e66ea7]: Commencement: S. 41 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-e17f62b5c45d2d545cf92666a2e66ea7]: Commencement: S. 41 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

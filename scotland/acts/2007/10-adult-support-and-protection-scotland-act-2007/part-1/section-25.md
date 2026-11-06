@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Powers of arrest[^key-e751890e00ddd4615aa20e5732b51307]
+## 25. Powers of arrest[^c-e751890e00ddd4615aa20e5732b51307]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e751890e00ddd4615aa20e5732b51307]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2007/10/section/25) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-e751890e00ddd4615aa20e5732b51307]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2007/10/section/25) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

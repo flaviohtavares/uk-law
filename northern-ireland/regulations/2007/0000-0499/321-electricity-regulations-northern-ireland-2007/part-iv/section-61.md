@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. The Energy Order[^key-030b4483c5bb5a9a17c6a195fa7cfd24]
+## 61. The Energy Order[^c-030b4483c5bb5a9a17c6a195fa7cfd24]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-030b4483c5bb5a9a17c6a195fa7cfd24]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2007/321/regulation/61) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-030b4483c5bb5a9a17c6a195fa7cfd24]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2007/321/regulation/61) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97R. Date on which security is due[^key-806b3c5606653214d650bd0c19648977]
+## 97R. Date on which security is due[^c-806b3c5606653214d650bd0c19648977]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-806b3c5606653214d650bd0c19648977]: Textual amendment: Pt. 4A inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2012/822/regulation/58)
+[^c-806b3c5606653214d650bd0c19648977]: Textual amendment: Pt. 4A inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2012/822/regulation/58)

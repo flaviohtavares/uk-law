@@ -35,28 +35,28 @@ repealing Council Decision 2011/491/EU on the signing, on behalf of the European
 
 (2012/15/EU) (revoked)
 
-[^key-c9611e36a48f93b14e2d7990a4f42700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9611e36a48f93b14e2d7990a4f42700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c9611e36a48f93b14e2d7990a4f42700] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9611e36a48f93b14e2d7990a4f42700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9611e36a48f93b14e2d7990a4f42700]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c9611e36a48f93b14e2d7990a4f42700]
+## ANNEX[^c-c9611e36a48f93b14e2d7990a4f42700]
 
-[^key-c9611e36a48f93b14e2d7990a4f42700]Letter from the European Union
+[^c-c9611e36a48f93b14e2d7990a4f42700]Letter from the European Union
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c9611e36a48f93b14e2d7990a4f42700]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-c9611e36a48f93b14e2d7990a4f42700]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

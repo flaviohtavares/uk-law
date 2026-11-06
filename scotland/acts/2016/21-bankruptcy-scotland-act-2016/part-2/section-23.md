@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Circumstances in which sequestration is not to be awarded in pursuance of section 22(5)[^key-c82fb8ab19e047f03ea8e5ab21adf837]
+## 23. Circumstances in which sequestration is not to be awarded in pursuance of section 22(5)[^c-c82fb8ab19e047f03ea8e5ab21adf837]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c82fb8ab19e047f03ea8e5ab21adf837]: Commencement: S. 23 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c82fb8ab19e047f03ea8e5ab21adf837]: Commencement: S. 23 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

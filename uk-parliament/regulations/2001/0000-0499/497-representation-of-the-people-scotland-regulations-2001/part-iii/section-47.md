@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Supply of free copies of register and list of overseas electors on request[^key-fbb1440860ba62995c0c9a870b4db03a]
+## 47. Supply of free copies of register and list of overseas electors on request[^c-fbb1440860ba62995c0c9a870b4db03a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb1440860ba62995c0c9a870b4db03a]: Textual amendment: [Regs. 46-49](https://www.legislation.gov.uk/uksi/2001/497/regulation/46) revoked (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/3/2/a)
+[^c-fbb1440860ba62995c0c9a870b4db03a]: Textual amendment: [Regs. 46-49](https://www.legislation.gov.uk/uksi/2001/497/regulation/46) revoked (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/3/2/a)

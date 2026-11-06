@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 937A. Overview[^key-3019443254d7be55117d27a28013ee4a]
+## 937A. Overview[^c-3019443254d7be55117d27a28013ee4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part contains rules about the treatment of certain losses made by companies
 
 ## Annotations
 
-[^key-3019443254d7be55117d27a28013ee4a]: Textual amendment: Pt. 21A inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3)
+[^c-3019443254d7be55117d27a28013ee4a]: Textual amendment: Pt. 21A inserted (with effect in accordance with Sch. 16 para. 5 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/16/paragraph/3)

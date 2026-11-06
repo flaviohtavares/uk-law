@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73H. Specified accommodation[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]
+## 73H. Specified accommodation[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]
 
 *Extent: N.I.*
 
@@ -42,9 +42,9 @@ summary: ''
 
 (6) In this regulation—
 
-- [^key-b40fdc14d39a938e9c6c9780c81443bc]...
-- [^key-b40fdc14d39a938e9c6c9780c81443bc]...
-- [^key-b40fdc14d39a938e9c6c9780c81443bc]...
+- [^c-b40fdc14d39a938e9c6c9780c81443bc]...
+- [^c-b40fdc14d39a938e9c6c9780c81443bc]...
+- [^c-b40fdc14d39a938e9c6c9780c81443bc]...
 - “relevant body” means a—
   - (a) housing association;
   - (b) registered charity;
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)
+[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)
 
-[^key-b40fdc14d39a938e9c6c9780c81443bc]: Textual amendment: Words in [reg. 73H(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/73H/6) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2022/211/regulation/2/5)
+[^c-b40fdc14d39a938e9c6c9780c81443bc]: Textual amendment: Words in [reg. 73H(6)](https://www.legislation.gov.uk/nisr/2006/405/regulation/73H/6) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2022/211/regulation/2/5)

@@ -33,8 +33,8 @@ makes a claim for EIS relief in respect of the shares.
 
 (4) Schedule 5B to TCGA 1992 provides relief in respect of the re-investment under EIS of the proceeds of assets disposed of in circumstances where there would otherwise be a chargeable gain.
 
-(5)[^key-8f485adadcfdee5ffdbcae5d1b4a2fb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8f485adadcfdee5ffdbcae5d1b4a2fb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f485adadcfdee5ffdbcae5d1b4a2fb4]: Textual amendment: S. 161(5) omitted (21.7.2008 with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/54)
+[^c-8f485adadcfdee5ffdbcae5d1b4a2fb4]: Textual amendment: S. 161(5) omitted (21.7.2008 with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/54)

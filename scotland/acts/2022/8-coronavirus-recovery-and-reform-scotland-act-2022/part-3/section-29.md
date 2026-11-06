@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Power to make a register electronic[^key-be7d47592a8e6f527e4d77ed658afdc1]
+## 29. Power to make a register electronic[^c-be7d47592a8e6f527e4d77ed658afdc1]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be7d47592a8e6f527e4d77ed658afdc1]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2022/8/section/29) in force at 25.1.2023 by [S.S.I. 2023/3](https://www.legislation.gov.uk/ssi/2023/3), [reg. 2](https://www.legislation.gov.uk/ssi/2023/3/regulation/2)
+[^c-be7d47592a8e6f527e4d77ed658afdc1]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2022/8/section/29) in force at 25.1.2023 by [S.S.I. 2023/3](https://www.legislation.gov.uk/ssi/2023/3), [reg. 2](https://www.legislation.gov.uk/ssi/2023/3/regulation/2)

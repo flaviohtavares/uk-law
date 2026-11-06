@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E20. Surrender of part of retirement pension[^key-7a716c4673a6f9eb7786b97f2ec4a532]
+## E20. Surrender of part of retirement pension[^c-7a716c4673a6f9eb7786b97f2ec4a532]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ may surrender as from the relevant date, in favour of his spouse or any dependan
 
 ## Annotations
 
-[^key-7a716c4673a6f9eb7786b97f2ec4a532]: Commencement: [Reg. E20](https://www.legislation.gov.uk/uksi/1986/24/regulation/E20) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7a716c4673a6f9eb7786b97f2ec4a532]: Commencement: [Reg. E20](https://www.legislation.gov.uk/uksi/1986/24/regulation/E20) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

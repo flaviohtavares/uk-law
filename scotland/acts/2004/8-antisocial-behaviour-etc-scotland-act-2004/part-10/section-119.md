@@ -38,7 +38,7 @@ summary: ''
 - (a) the Scottish Ministers;
 - (b) the Principal Reporter;
 - (c) any other local authority;
-- (d)[^key-3c1f1ba1de80dc2ea40eaf658eb03063] the chief constable of the Police Service of Scotland;
+- (d)[^c-3c1f1ba1de80dc2ea40eaf658eb03063] the chief constable of the Police Service of Scotland;
 - (e) a registered social landlord.
 
 (5) A local authority shall, in discharging functions by virtue of this section, have regard to such guidance issued by the Scottish Ministers as to—
@@ -50,4 +50,4 @@ as the Scottish Ministers think fit.
 
 ## Annotations
 
-[^key-3c1f1ba1de80dc2ea40eaf658eb03063]: Textual amendment: [S. 119(4)(d)](https://www.legislation.gov.uk/asp/2004/8/section/119/4/d) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 24(8)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/24/8); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-3c1f1ba1de80dc2ea40eaf658eb03063]: Textual amendment: [S. 119(4)(d)](https://www.legislation.gov.uk/asp/2004/8/section/119/4/d) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 24(8)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/24/8); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

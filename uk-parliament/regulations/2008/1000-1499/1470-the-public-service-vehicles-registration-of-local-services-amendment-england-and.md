@@ -50,13 +50,13 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 Representative organisations have been consulted in accordance with section 61(2) of the Public Passenger Vehicles Act 1981[^f00004].
 
-## 1. Citation, commencement and extent[^key-430f4b66ea7104e918f89eb0c1e6e3b9]
+## 1. Citation, commencement and extent[^c-430f4b66ea7104e918f89eb0c1e6e3b9]
 
 (1) These Regulations may be cited as the Public Service Vehicles (Registration of Local Services) (Amendment) (England and Wales) Regulations 2008 and shall come into force on 1st August 2008.
 
 (2) These regulations extend to England and Wales [^f00005].
 
-## 2. Amendment of the principal Regulations[^key-a917f659bbdeec9776922a2a1ecc1889]
+## 2. Amendment of the principal Regulations[^c-a917f659bbdeec9776922a2a1ecc1889]
 
 — The Public Service Vehicles (Registration of Local Services) Regulations 1986[^f00006] are amended as follows.
 
@@ -92,10 +92,10 @@ A full Impact Assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: By virtue of section 135 of the 1985 Act, section 61 of the 1981 Act has effect as if Part I of the 1985 Act were contained in the 1981 Act. Section 61(2) of the 1981 Act was amended by the 1985 Act, section 139(3) and Schedule 8.
 
-[^key-430f4b66ea7104e918f89eb0c1e6e3b9]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1470/regulation/1/1)
+[^c-430f4b66ea7104e918f89eb0c1e6e3b9]: Commencement: Reg. 1 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1470/regulation/1/1)
 
 [^f00005]: Footnote: Competence to make regulations in respect of Scotland has been devolved by virtue of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 53 and the Public Service Vehicles (Registration of Local Services) Regulations 1986 ([S.I. 1986/1671](https://www.legislation.gov.uk/uksi/1986/1671)) were revoked in relation to Scotland by [S.S.I. 2001/219](https://www.legislation.gov.uk/ssi/2001/219).
 
-[^key-a917f659bbdeec9776922a2a1ecc1889]: Commencement: Reg. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1470/regulation/1/1)
+[^c-a917f659bbdeec9776922a2a1ecc1889]: Commencement: Reg. 2 in force at 1.8.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1470/regulation/1/1)
 
 [^f00006]: Footnote: [S.I 1986/1671](https://www.legislation.gov.uk/uksi/1986/1671). Relevant amending instruments are [S.I. 1989/1064](https://www.legislation.gov.uk/uksi/1989/1064), [2004/2250](https://www.legislation.gov.uk/uksi/2004/2250), [2005/2355](https://www.legislation.gov.uk/uksi/2005/2355) and [2007/690](https://www.legislation.gov.uk/uksi/2007/690).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Activity and Appointment Data[^key-fe3009473834bc2c5c3062a590d42a31]
+## 23. Activity and Appointment Data[^c-fe3009473834bc2c5c3062a590d42a31]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe3009473834bc2c5c3062a590d42a31]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2023/953/regulation/23) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-fe3009473834bc2c5c3062a590d42a31]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2023/953/regulation/23) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

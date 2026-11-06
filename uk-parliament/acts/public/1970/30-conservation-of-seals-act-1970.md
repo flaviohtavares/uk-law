@@ -29,21 +29,21 @@ Conservation of Seals Act 1970
 
 1970 c.30
 
-An Act to provide for the protection and conservation of seals in England and Wales and Scotland and in the adjacent territorial waters.[^key-4633fe46a6fc4f72ba3fdc372685764b]
+An Act to provide for the protection and conservation of seals in England and Wales and Scotland and in the adjacent territorial waters.[^c-4633fe46a6fc4f72ba3fdc372685764b]
 
 \[29th May 1970\] [^c692227]
 
 [^c692228]
 
-## 1. Prohibited methods of killing seals.[^key-a7fc694c3043939b4828d1a717e49fbc]
+## 1. Prohibited methods of killing seals.[^c-a7fc694c3043939b4828d1a717e49fbc]
 
 A person commits an offence if the person intentionally or recklessly kills, injures or takes a seal.
 
-## 2. Close seasons for seals.[^key-b3115fa68bbffa03bdfed91031030306]
+## 2. Close seasons for seals.[^c-b3115fa68bbffa03bdfed91031030306]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Orders prohibiting killing seals.[^key-116342a639b4a5423ca3f8c876718b99]
+## 3. Orders prohibiting killing seals.[^c-116342a639b4a5423ca3f8c876718b99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,7 +53,7 @@ A person commits an offence if the person intentionally or recklessly kills, inj
 
 - (a)[^c692231] without warrant arrest that person if he fails to give his name and address to the constable’s satisfaction;
 - (b) without warrant search any vehicle or boat which that person may be using at that time; and
-- (c) seize any seal, item or[^key-bc1e7f64f1f0d9d84f22b37abfb8c9f2] substance which is liable to be forfeited under section 6 of this Act.
+- (c) seize any seal, item or[^c-bc1e7f64f1f0d9d84f22b37abfb8c9f2] substance which is liable to be forfeited under section 6 of this Act.
 
 (2) A constable may sell or otherwise dispose of any seal seized under this section and the net proceeds of any sale shall be liable to forfeiture in the same manner as the seal sold:
 
@@ -65,7 +65,7 @@ Provided that no constable shall be subject to any liability on account of his n
 
 (2) Any person guilty of any other offence under this Act shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c692233] or, in the case of a second or subsequent conviction for such an offence, to a fine not exceeding level 4 on the standard scale.
 
-(3 (Extent: E+W))[^key-b5829d8f8a6934e32d0f65fcfd9e645b] Proceedings in England and Wales for an offence under this Act may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge. *(Extent: E+W)*
+(3 (Extent: E+W))[^c-b5829d8f8a6934e32d0f65fcfd9e645b] Proceedings in England and Wales for an offence under this Act may be brought within the period of 6 months beginning with the date on which evidence sufficient in the opinion of the prosecutor to warrant the proceedings came to his knowledge. *(Extent: E+W)*
 
 (4 (Extent: E+W)) But subsection (3) does not authorise the commencement of proceedings for an offence more than 2 years after the date on which the offence was committed. *(Extent: E+W)*
 
@@ -77,7 +77,7 @@ Provided that no constable shall be subject to any liability on account of his n
 
 The court by which a person is convicted of an offence under this Act may order the forfeiture of
 
-- (a)[^key-d169aff322bc195e89f71a09c5e6f1f0] any seal or seal skin in respect of which the offence was committed;
+- (a)[^c-d169aff322bc195e89f71a09c5e6f1f0] any seal or seal skin in respect of which the offence was committed;
 - (b) any item (but not a vehicle or boat) or substance used in connection with the commission of the offence;
 - (c) any seal, seal skin, poisonous or explosive substance, explosive article, firearm or ammunition, in the person's possession at the time of the offence.
 
@@ -89,62 +89,62 @@ Where any offence under this Act is committed at some place on the sea coast or 
 
 (1) Any person who attempts to commit an offence under this Act shall be guilty of an offence.
 
-(2) Any person who, for the purpose of committing an offence under this Act, has in his possession any poisonous or explosive[^key-f7f428ff3749f6f46cd5504ae95a73b1] substance , any explosive article[^key-1bbabdb702e3d76a6b314f04824e622d] or any firearm or ammunition [^key-83bef799ae2638da5cf95f4c86b09563]... shall be guilty of an offence.
+(2) Any person who, for the purpose of committing an offence under this Act, has in his possession any poisonous or explosive[^c-f7f428ff3749f6f46cd5504ae95a73b1] substance , any explosive article[^c-1bbabdb702e3d76a6b314f04824e622d] or any firearm or ammunition [^c-83bef799ae2638da5cf95f4c86b09563]... shall be guilty of an offence.
 
 ## 9. General exceptions.
 
-(1) A person shall not be guilty of an offence under section 1[^key-a7bdd767ba39f0448ca19fa5d1c49f3d] of this Act by reason only of—
+(1) A person shall not be guilty of an offence under section 1[^c-a7bdd767ba39f0448ca19fa5d1c49f3d] of this Act by reason only of—
 
-- (a) the taking or attempted taking of any seal which had been disabled [^key-decd9c803646b7610fe7aab1c700e5c4]... and was taken or to be taken solely for the purpose of tending it and releasing it when no longer disabled;
-- (b)[^key-925503f559747358c874509315a16825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-e5c2e8afbf652d2944d79525cd74418e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the taking or attempted taking of any seal which had been disabled [^c-decd9c803646b7610fe7aab1c700e5c4]... and was taken or to be taken solely for the purpose of tending it and releasing it when no longer disabled;
+- (b)[^c-925503f559747358c874509315a16825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e5c2e8afbf652d2944d79525cd74418e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A person shall not be guilty of an offence under section 1 [^key-47a1f9d35b0c1e7f793569e38704a294]... of this Act by reason only of the killing of any seal which had been so seriously disabled [^key-a1b8b70eea8288fbcb8f3ea5e09a4717]... that there was no reasonable chance of its recovering.
+(2) A person shall not be guilty of an offence under section 1 [^c-47a1f9d35b0c1e7f793569e38704a294]... of this Act by reason only of the killing of any seal which had been so seriously disabled [^c-a1b8b70eea8288fbcb8f3ea5e09a4717]... that there was no reasonable chance of its recovering.
 
-## 10. Power to grant licences.[^key-fb3cf2cda45891ebfff4e00f80e80133]
+## 10. Power to grant licences.[^c-fb3cf2cda45891ebfff4e00f80e80133]
 
-(1) A licence may be granted to any person by the appropriate licensing authority[^key-7451f1265643668e709d06eb61f49483] authorising that person, notwithstanding anything in the foregoing provisions of this Act, but subject to compliance with any conditions specified in the licence,—
+(1) A licence may be granted to any person by the appropriate licensing authority[^c-7451f1265643668e709d06eb61f49483] authorising that person, notwithstanding anything in the foregoing provisions of this Act, but subject to compliance with any conditions specified in the licence,—
 
 - (a) for scientific or educational purposes to kill or take within an area specified in the licence by any means so specified other than by the use of strychnine any number of seals so specified;
 - (b) for the purposes of any zoological gardens or collection specified in the licence to take within an area specified in the licence by any means so specified any number of seals so specified;
 - (c) for—
-  - (i)[^key-01ff1b06044bb682119fe49263805a2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-01ff1b06044bb682119fe49263805a2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the reduction of a population surplus of seals for management purposes; . . . [^c692257]
-  - (iia)[^key-38fc636bea8512f781f2cba034edef68] the protection of animal or human health or public safety,
-  - (iii)[^key-749f8c0c52b362432fe5e706551a3fbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or[^M_F_f4dad17c-e160-42cd-d47d-b357dc611243]
+  - (iia)[^c-38fc636bea8512f781f2cba034edef68] the protection of animal or human health or public safety,
+  - (iii)[^c-749f8c0c52b362432fe5e706551a3fbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or[^M_F_f4dad17c-e160-42cd-d47d-b357dc611243]
   - (iv)[^c692259] the protection of flora or fauna in an area to which subsection (4) of this section applies,
 
   to kill or take within any area specified in the licence by any means so specified other than by the use of strychnine any number of seals so specified.
 
-(1A)[^key-7c24faf4381f42d43839eb86ba5e6dfd] Nothing in subsection (1) is to be read as authorising the grant of a licence for the purpose of the protection, promotion or development of commercial fish or aquaculture activities within the meaning of the Fisheries Act 2020 (see section 52 of that Act).
+(1A)[^c-7c24faf4381f42d43839eb86ba5e6dfd] Nothing in subsection (1) is to be read as authorising the grant of a licence for the purpose of the protection, promotion or development of commercial fish or aquaculture activities within the meaning of the Fisheries Act 2020 (see section 52 of that Act).
 
 (2) A licence granted under this section may be revoked at any time by the appropriate licensing authority and, without prejudice to any other liability to a penalty which he may have incurred under this or any other Act, any person who contravenes or fails to comply with any condition imposed on the grant of a licence under this section shall be guilty of an offence.
 
 (3) the appropriate licensing authority—
 
-- (a) shall consult UKRI[^key-f939469f330527bcb445d2b2fd92e816] before granting a licence under this Act; and
-- (b) except in relation to the prevention of damage to fisheries shall not without the consent of Natural England[^key-0d0b20adf0aa8189e5c318ef4f42ce45] grant a licence to kill or take seals in an area[^c692261] in, or in waters adjacent to, England[^key-f5484119c5c373afd8ca01bdd9e248f2] to which subsection (4) of this section applies
+- (a) shall consult UKRI[^c-f939469f330527bcb445d2b2fd92e816] before granting a licence under this Act; and
+- (b) except in relation to the prevention of damage to fisheries shall not without the consent of Natural England[^c-0d0b20adf0aa8189e5c318ef4f42ce45] grant a licence to kill or take seals in an area[^c692261] in, or in waters adjacent to, England[^c-f5484119c5c373afd8ca01bdd9e248f2] to which subsection (4) of this section applies
 
 (4)[^c692262] This subsection applies to any area which—
 
 - (a) is a nature reserve within the meaning of section 15 of the National Parks and Access to the Countryside Act 1949;
-- (b)[^c692263] is a site of special scientific interest (within the meaning of the Wildlife and Countryside Act 1981); or *(Extent: S)* *(affected by repeal, see note)*[^key-91717227a8358824135755c8fd7c8213]
+- (b)[^c692263] is a site of special scientific interest (within the meaning of the Wildlife and Countryside Act 1981); or *(Extent: S)* *(affected by repeal, see note)*[^c-91717227a8358824135755c8fd7c8213]
 
   is a site of special scientific interest; *(Extent: S)*
-- (c)[^c692264] is an area to which section 29(3) of that Act (special protection for certain areas of special scientific interest) applies; or *(Extent: S)* *(affected by repeal, see note)*[^key-91717227a8358824135755c8fd7c8213]
+- (c)[^c692264] is an area to which section 29(3) of that Act (special protection for certain areas of special scientific interest) applies; or *(Extent: S)* *(affected by repeal, see note)*[^c-91717227a8358824135755c8fd7c8213]
 
   is an area in respect of which a nature conservation order or land management order made under Part 2 of the Nature Conservation (Scotland) Act 2004 (asp 6) has effect; or *(Extent: S)*
-- (d) has been designated as a marine nature reserve under section 36 of *(Extent: E+W)* *(affected by repeal, see note)*[^key-1a11d5d5f13a80f5fc8dcd3f115b0b82] that Act *(Extent: S)* *(affected by repeal, see note)*[^key-3933584444d912628c4741fa1ee44d08] *(Extent: E+W)* *(affected by repeal, see note)*[^key-1a11d5d5f13a80f5fc8dcd3f115b0b82] a marine conservation zone under section 116 of the Marine and Coastal Access Act 2009 *(Extent: E+W)* the Wildlife and Countryside Act 1981 *(Extent: S)* .
+- (d) has been designated as a marine nature reserve under section 36 of *(Extent: E+W)* *(affected by repeal, see note)*[^c-1a11d5d5f13a80f5fc8dcd3f115b0b82] that Act *(Extent: S)* *(affected by repeal, see note)*[^c-3933584444d912628c4741fa1ee44d08] *(Extent: E+W)* *(affected by repeal, see note)*[^c-1a11d5d5f13a80f5fc8dcd3f115b0b82] a marine conservation zone under section 116 of the Marine and Coastal Access Act 2009 *(Extent: E+W)* the Wildlife and Countryside Act 1981 *(Extent: S)* .
 
-(4A (Extent: E+W))[^key-8e30898d9a70a133400a9a33adfd9770] A licence under this section does not authorise the use of any method of killing or taking seals which is inconsistent with *(Extent: E+W)* regulation 41 of the Conservation (Natural Habitats, &c.) Regulations 1994 *(Extent: E)* *(affected by repeal, see note)*[^M_F_5c8cde94-6d72-45b2-d87c-43879b4606c5] *(Extent: E+W)* regulation 43 of the Conservation of Habitats and Species Regulations 2010 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6f846f673de291a49604e0394692c536] *(Extent: E)* *(Extent: E+W)* regulation 45 of the Conservation of Habitats and Species Regulations 2017 *(Extent: E+W)* *(Extent: E+W)* or any other enactment for the time being in force for the purpose of giving effect to Article 15 of the Habitats Directive (as read subject to any derogation permitted by Article 16 of that Directive). *(Extent: E+W)*
+(4A (Extent: E+W))[^c-8e30898d9a70a133400a9a33adfd9770] A licence under this section does not authorise the use of any method of killing or taking seals which is inconsistent with *(Extent: E+W)* regulation 41 of the Conservation (Natural Habitats, &c.) Regulations 1994 *(Extent: E)* *(affected by repeal, see note)*[^M_F_5c8cde94-6d72-45b2-d87c-43879b4606c5] *(Extent: E+W)* regulation 43 of the Conservation of Habitats and Species Regulations 2010 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6f846f673de291a49604e0394692c536] *(Extent: E)* *(Extent: E+W)* regulation 45 of the Conservation of Habitats and Species Regulations 2017 *(Extent: E+W)* *(Extent: E+W)* or any other enactment for the time being in force for the purpose of giving effect to Article 15 of the Habitats Directive (as read subject to any derogation permitted by Article 16 of that Directive). *(Extent: E+W)*
 
-(5)[^key-a833136ad7928d5fff88896eaa888023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a833136ad7928d5fff88896eaa888023] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6 (Extent: S))[^key-5d671c7fc046d15e325ef493eeba250a] In subsection (4A), the “Habitats Directive” means the Directive of the Council of the European Communities dated 21st May 1992 ( *(Extent: S)* No. *(Extent: S)* [92/43/ *(Extent: S)* EEC *(Extent: S)*](https://www.legislation.gov.uk/eudr/1992/43) ) on the conservation of natural habitats and of wild flora and fauna , as amended from time to time. *(Extent: S)*
+(6 (Extent: S))[^c-5d671c7fc046d15e325ef493eeba250a] In subsection (4A), the “Habitats Directive” means the Directive of the Council of the European Communities dated 21st May 1992 ( *(Extent: S)* No. *(Extent: S)* [92/43/ *(Extent: S)* EEC *(Extent: S)*](https://www.legislation.gov.uk/eudr/1992/43) ) on the conservation of natural habitats and of wild flora and fauna , as amended from time to time. *(Extent: S)*
 
-(6 (Extent: E+W))[^key-7be64a9df7b9f6d33c58bbcc5ec2a92f] In subsection (4A), the Habitats Directive means the Directive of the Council of the European Communities dated 21st May 1992 ( *(Extent: E+W)* No. *(Extent: E+W)* [92/43/ *(Extent: E+W)* EEC *(Extent: E+W)*](https://www.legislation.gov.uk/eudr/1992/43) ) on the conservation of natural habitats and of wild flora and fauna. *(Extent: E+W)*
+(6 (Extent: E+W))[^c-7be64a9df7b9f6d33c58bbcc5ec2a92f] In subsection (4A), the Habitats Directive means the Directive of the Council of the European Communities dated 21st May 1992 ( *(Extent: E+W)* No. *(Extent: E+W)* [92/43/ *(Extent: E+W)* EEC *(Extent: E+W)*](https://www.legislation.gov.uk/eudr/1992/43) ) on the conservation of natural habitats and of wild flora and fauna. *(Extent: E+W)*
 
-(7)[^key-c7ed1ab11a5ee6c9340c7ebcc572d374] In this section “the appropriate licensing authority” means—
+(7)[^c-c7ed1ab11a5ee6c9340c7ebcc572d374] In this section “the appropriate licensing authority” means—
 
 - (a) the Natural Resources Body for Wales where the area in question is in Wales;
 - (b) in any other case, the Marine Management Organisation.
@@ -153,23 +153,23 @@ Where any offence under this Act is committed at some place on the sea coast or 
 
 ## 11. Entry upon land.
 
-(1) The Secretary of State may, after consultation with UKRI[^key-7fbafb623812cd4a020d12d278799bfc] , authorise in writing any person to enter upon any land for the purpose of—
+(1) The Secretary of State may, after consultation with UKRI[^c-7fbafb623812cd4a020d12d278799bfc] , authorise in writing any person to enter upon any land for the purpose of—
 
 - (a) obtaining information relating to seals for the purpose of any of the functions of the Secretary of State under this Act;
-- (b)[^key-741690cde5e6f1d850afbefa192c48eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-741690cde5e6f1d850afbefa192c48eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Any such authorisation shall specify—
 
 - (a) the land to be entered upon;
 - (b) the period, not exceeding 8 weeks, during which the power of entry upon the land may be exercised;
 - (c) the purpose of the entry;
-- (d)[^key-0ab5b5ad5741d069b07a3fd05c925296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0ab5b5ad5741d069b07a3fd05c925296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any such authorisation may impose other conditions on the exercise by the person authorised of the power of entry or the manner of giving effect to the authorisation.
 
-(4) The Secretary of State shall give not less than 48 hours’ notice [^key-634761a088f54b5fdeb78867001b118c]... to the occupier of any land of his intention to issue an authorisation and of the purpose of the authorisation [^key-2f5c89a4d215d1ee99ca5a50da0cbde6]....
+(4) The Secretary of State shall give not less than 48 hours’ notice [^c-634761a088f54b5fdeb78867001b118c]... to the occupier of any land of his intention to issue an authorisation and of the purpose of the authorisation [^c-2f5c89a4d215d1ee99ca5a50da0cbde6]....
 
-(5)[^key-bab7cfdf9955350229f7cb05eb3a7b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bab7cfdf9955350229f7cb05eb3a7b0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Any person authorised under this section to enter upon any land shall, if required by the occupier of that land, produce his authority and may take with him upon that land such other persons as may be necessary.
 
@@ -187,11 +187,11 @@ Where any offence under this Act is committed at some place on the sea coast or 
 
 (4) Where any such notice is to be given to a person as being the person having any interest in land, and it is not practicable after reasonable enquiry to ascertain his name or address, the notice may be given by addressing it to him by the description of the person having that interest in the land (naming it), and delivering the notice to some responsible person on the land or by affixing it, or a copy of it, to some conspicuous object on the land.
 
-## 13. Duty of UKRI.[^key-26ad9a0c0d52d229a83314456f2453c6]
+## 13. Duty of UKRI.[^c-26ad9a0c0d52d229a83314456f2453c6]
 
-UKRI shall provide the Secretary of State, the Welsh Ministers and the Natural Resources Body for Wales[^key-da560e23c1ca01787124289b49b73eb7] with scientific advice on matters related to the management of seal populations.
+UKRI shall provide the Secretary of State, the Welsh Ministers and the Natural Resources Body for Wales[^c-da560e23c1ca01787124289b49b73eb7] with scientific advice on matters related to the management of seal populations.
 
-## 14. Orders.[^key-04b198d03f151430c8fb271d277cbda4]
+## 14. Orders.[^c-04b198d03f151430c8fb271d277cbda4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -200,14 +200,14 @@ UKRI shall provide the Secretary of State, the Welsh Ministers and the Natural R
 In this Act unless the context otherwise requires—
 
 - “**ammunition**” has the same meaning as in the [^c692271]Firearms Act 1968;
-- [^key-728a1d2bbad27b4d53c6bca80a35af79]...
-- “[^key-ad346382a37f93ebb76e2e4657561e59]**explosive article**” means an article (for example, a bomb or a firework) containing one or more explosive substances;
+- [^c-728a1d2bbad27b4d53c6bca80a35af79]...
+- “[^c-ad346382a37f93ebb76e2e4657561e59]**explosive article**” means an article (for example, a bomb or a firework) containing one or more explosive substances;
 - “**explosive substance**” means a substance or preparation, not including a substance or preparation in a solely gaseous form or in the form of vapour, which is —
   - ((a)) capable by chemical reaction in itself of producing gas at such a temperature and pressure and at such a speed as could cause damage to surroundings; or
   - ((b)) designed to produce an effect by heat, light, sound, gas or smoke, or a combination of these as a result of a non-detonative, self-sustaining, exothermic chemical reaction;
 - “**firearm**” has the same meaning as in the [^c692272]Firearms Act 1968.
 - “**preparation**” means a mixture of two or more substances or a solution of any substance or substances;
-- “[^key-41c7ab507fcb4ea98f2f4cebfd28ce6c]**UKRI**” means United Kingdom Research and Innovation.
+- “[^c-41c7ab507fcb4ea98f2f4cebfd28ce6c]**UKRI**” means United Kingdom Research and Innovation.
 
 ## 16. Repeal.
 
@@ -227,129 +227,129 @@ In this Act unless the context otherwise requires—
 
 ## Annotations
 
-[^key-4633fe46a6fc4f72ba3fdc372685764b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1970/30) repealed (S.) (31.1.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 130](https://www.legislation.gov.uk/asp/2010/5/section/130), [168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(g)](https://www.legislation.gov.uk/ssi/2010/230/article/4/g)
+[^c-4633fe46a6fc4f72ba3fdc372685764b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1970/30) repealed (S.) (31.1.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 130](https://www.legislation.gov.uk/asp/2010/5/section/130), [168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(g)](https://www.legislation.gov.uk/ssi/2010/230/article/4/g)
 
 [^c692227]: Commencement: Act wholly in force at 29.8.1970 see s. 17(4)
 
 [^c692228]: Modification: Act (except s. 1(2)): power to transfer functions conferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-a7fc694c3043939b4828d1a717e49fbc]: Textual amendment: S. 1 substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a7fc694c3043939b4828d1a717e49fbc]: Textual amendment: S. 1 substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-b3115fa68bbffa03bdfed91031030306]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1970/30/section/2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b3115fa68bbffa03bdfed91031030306]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1970/30/section/2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/3) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-116342a639b4a5423ca3f8c876718b99]: Textual amendment: S. 3 omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-116342a639b4a5423ca3f8c876718b99]: Textual amendment: S. 3 omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c692231]: Textual amendment: S. 4(1)(*a*) repealed (E.W.) by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 119](https://www.legislation.gov.uk/ukpga/1984/60/section/119), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7/part/I)
 
-[^key-bc1e7f64f1f0d9d84f22b37abfb8c9f2]: Textual amendment: Words in [s. 4(1)(c)](https://www.legislation.gov.uk/ukpga/1970/30/section/4/1/c) substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/5) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-bc1e7f64f1f0d9d84f22b37abfb8c9f2]: Textual amendment: Words in [s. 4(1)(c)](https://www.legislation.gov.uk/ukpga/1970/30/section/4/1/c) substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/5) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c692232]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) by [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
 [^c692233]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/1/paragraph/3/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1995/40/schedule/2/part/II) it is provided (S.)(1.4.1996) that s. 5(2) shall have effect as if the maximum fine that may be imposed on summary conviction for the offence mentioned therein were a fine not exceeding level 4 on the standard scale instead of a fine not exceeding £50 for a first offence and £100 for a second or subsequent offence
 
-[^key-b5829d8f8a6934e32d0f65fcfd9e645b]: Textual amendment: S. 5(3)-(6) inserted (E.W.) (31.5.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/6/paragraph/2); [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-b5829d8f8a6934e32d0f65fcfd9e645b]: Textual amendment: S. 5(3)-(6) inserted (E.W.) (31.5.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/6/paragraph/2); [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
 
-[^key-d169aff322bc195e89f71a09c5e6f1f0]: Textual amendment: S. 6(a)-(c) substituted for words (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/6) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-d169aff322bc195e89f71a09c5e6f1f0]: Textual amendment: S. 6(a)-(c) substituted for words (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/6) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f7f428ff3749f6f46cd5504ae95a73b1]: Textual amendment: Words in s. 8(2) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 7(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/7/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f7f428ff3749f6f46cd5504ae95a73b1]: Textual amendment: Words in s. 8(2) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 7(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/7/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-1bbabdb702e3d76a6b314f04824e622d]: Textual amendment: Words in s. 8(2) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/7/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-1bbabdb702e3d76a6b314f04824e622d]: Textual amendment: Words in s. 8(2) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/7/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-83bef799ae2638da5cf95f4c86b09563]: Textual amendment: Words in s. 8(2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 7(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/7/c) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-83bef799ae2638da5cf95f4c86b09563]: Textual amendment: Words in s. 8(2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 7(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/7/c) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-a7bdd767ba39f0448ca19fa5d1c49f3d]: Textual amendment: Word in s. 9(1) substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a7bdd767ba39f0448ca19fa5d1c49f3d]: Textual amendment: Word in s. 9(1) substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-decd9c803646b7610fe7aab1c700e5c4]: Textual amendment: Words in s. 9(1)(a) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-decd9c803646b7610fe7aab1c700e5c4]: Textual amendment: Words in s. 9(1)(a) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-925503f559747358c874509315a16825]: Textual amendment: S. 9(1)(b) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/iii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-925503f559747358c874509315a16825]: Textual amendment: S. 9(1)(b) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/iii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-e5c2e8afbf652d2944d79525cd74418e]: Textual amendment: S. 9(1)(c) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/iii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-e5c2e8afbf652d2944d79525cd74418e]: Textual amendment: S. 9(1)(c) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(a)(iii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/a/iii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-47a1f9d35b0c1e7f793569e38704a294]: Textual amendment: Words in s. 9(2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(b)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/b/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-47a1f9d35b0c1e7f793569e38704a294]: Textual amendment: Words in s. 9(2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(b)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/b/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-a1b8b70eea8288fbcb8f3ea5e09a4717]: Textual amendment: Words in s. 9(2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/b/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a1b8b70eea8288fbcb8f3ea5e09a4717]: Textual amendment: Words in s. 9(2) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 8(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/8/b/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-fb3cf2cda45891ebfff4e00f80e80133]: Modification: S. 10 transfer of functions (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 9](https://www.legislation.gov.uk/ukpga/2009/23/section/9), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/1)
+[^c-fb3cf2cda45891ebfff4e00f80e80133]: Modification: S. 10 transfer of functions (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 9](https://www.legislation.gov.uk/ukpga/2009/23/section/9), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/1)
 
-[^key-7451f1265643668e709d06eb61f49483]: Textual amendment: Words in s. 10 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7451f1265643668e709d06eb61f49483]: Textual amendment: Words in s. 10 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-01ff1b06044bb682119fe49263805a2e]: Textual amendment: S. 10(1)(c)(i) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/a/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-01ff1b06044bb682119fe49263805a2e]: Textual amendment: S. 10(1)(c)(i) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/a/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c692257]: Textual amendment: Word repealed by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 73](https://www.legislation.gov.uk/ukpga/1981/69/section/73), [Sch. 17 Pt. II](https://www.legislation.gov.uk/ukpga/1981/69/schedule/17/part/II)
 
-[^key-38fc636bea8512f781f2cba034edef68]: Textual amendment: S. 10(1)(c)(iia) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/a/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-38fc636bea8512f781f2cba034edef68]: Textual amendment: S. 10(1)(c)(iia) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(a)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/a/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-749f8c0c52b362432fe5e706551a3fbd]: Textual amendment: S. 10(1)(c)(iii) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/a/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-749f8c0c52b362432fe5e706551a3fbd]: Textual amendment: S. 10(1)(c)(iii) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(a)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/a/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^M_F_f4dad17c-e160-42cd-d47d-b357dc611243]: Textual amendment: Word inserted by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 12](https://www.legislation.gov.uk/ukpga/1981/69/section/12), [Sch. 7 para. 7(1)](https://www.legislation.gov.uk/ukpga/1981/69/schedule/7/paragraph/7/1)
 
 [^c692259]: Textual amendment: S. 10(1)(*c*)(iv) inserted by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 12](https://www.legislation.gov.uk/ukpga/1981/69/section/12), [Sch. 7 para. 7(1)](https://www.legislation.gov.uk/ukpga/1981/69/schedule/7/paragraph/7/1)
 
-[^key-7c24faf4381f42d43839eb86ba5e6dfd]: Textual amendment: S. 10(1A) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-7c24faf4381f42d43839eb86ba5e6dfd]: Textual amendment: S. 10(1A) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 9(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/9/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f939469f330527bcb445d2b2fd92e816]: Textual amendment: Word in s. 10(3)(a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/2/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-f939469f330527bcb445d2b2fd92e816]: Textual amendment: Word in s. 10(3)(a) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/2/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
 
-[^key-0d0b20adf0aa8189e5c318ef4f42ce45]: Textual amendment: Words in s. 10(3)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0d0b20adf0aa8189e5c318ef4f42ce45]: Textual amendment: Words in s. 10(3)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c692261]: Textual amendment: Words substituted by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 12](https://www.legislation.gov.uk/ukpga/1981/69/section/12), [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/1981/69/schedule/7/paragraph/7/2)
 
-[^key-f5484119c5c373afd8ca01bdd9e248f2]: Textual amendment: Words in s. 10(3)(b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f5484119c5c373afd8ca01bdd9e248f2]: Textual amendment: Words in s. 10(3)(b) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c692262]: Textual amendment: S. 10(4) inserted by [Wildlife and Countryside Act 1981 (c.69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 12](https://www.legislation.gov.uk/ukpga/1981/69/section/12), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/1981/69/schedule/7/paragraph/7/3)
 
 [^c692263]: Textual amendment: S. 10(4)(b) substituted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 76(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/76/1), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 10 Pt. II para. 4](https://www.legislation.gov.uk/ukpga/2000/37/schedule/10/part/II/paragraph/4)
 
-[^key-91717227a8358824135755c8fd7c8213]: Textual amendment: S. 10(4)(b)(c) substituted (S.) (29.11.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [s. 59(2)](https://www.legislation.gov.uk/asp/2004/6/section/59/2), [Sch. 7 para. 3(a)](https://www.legislation.gov.uk/asp/2004/6/schedule/7/paragraph/3/a) (with [s. 55(2)](https://www.legislation.gov.uk/asp/2004/6/section/55/2)); [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-91717227a8358824135755c8fd7c8213]: Textual amendment: S. 10(4)(b)(c) substituted (S.) (29.11.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [s. 59(2)](https://www.legislation.gov.uk/asp/2004/6/section/59/2), [Sch. 7 para. 3(a)](https://www.legislation.gov.uk/asp/2004/6/schedule/7/paragraph/3/a) (with [s. 55(2)](https://www.legislation.gov.uk/asp/2004/6/section/55/2)); [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
 [^c692264]: Textual amendment: S. 10(4)(c) and the following word repealed (E.W.) (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 102](https://www.legislation.gov.uk/ukpga/2000/37/section/102), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 16 Pt. III](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/III) (but by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2](https://www.legislation.gov.uk/uksi/2001/114/article/2), and [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2](https://www.legislation.gov.uk/uksi/2001/1410/article/2), the commencement of the said Sch. 16 Pt. III is purported to be 30.1.2001 for E. and 1.5.2001 for W. respectively)
 
-[^key-1a11d5d5f13a80f5fc8dcd3f115b0b82]: Textual amendment: Words in s. 10(4)(d) substituted (E.W.) (12.1.2010 for specified purposes and 12.12.2014 for remaining purposes) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/1); The Marine and Coastal Access Act 2009 (Commencement and Consequential Provisions) (Wales) Order 2014 (No. 3088), art. 2(b)
+[^c-1a11d5d5f13a80f5fc8dcd3f115b0b82]: Textual amendment: Words in s. 10(4)(d) substituted (E.W.) (12.1.2010 for specified purposes and 12.12.2014 for remaining purposes) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/1); The Marine and Coastal Access Act 2009 (Commencement and Consequential Provisions) (Wales) Order 2014 (No. 3088), art. 2(b)
 
-[^key-3933584444d912628c4741fa1ee44d08]: Textual amendment: Words in s. 10(4)(d) substituted (S.) (29.11.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [s. 59(2)](https://www.legislation.gov.uk/asp/2004/6/section/59/2), [Sch. 7 para. 3(b)](https://www.legislation.gov.uk/asp/2004/6/schedule/7/paragraph/3/b) (with [s. 55(2)](https://www.legislation.gov.uk/asp/2004/6/section/55/2)); [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-3933584444d912628c4741fa1ee44d08]: Textual amendment: Words in s. 10(4)(d) substituted (S.) (29.11.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [s. 59(2)](https://www.legislation.gov.uk/asp/2004/6/section/59/2), [Sch. 7 para. 3(b)](https://www.legislation.gov.uk/asp/2004/6/schedule/7/paragraph/3/b) (with [s. 55(2)](https://www.legislation.gov.uk/asp/2004/6/section/55/2)); [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-8e30898d9a70a133400a9a33adfd9770]: Textual amendment: S. 10(4A) inserted (S.) (15.2.2007) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80), regs. 2, 26(a) and s. 10(4A) inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/2/1), [6(a)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/6/a)
+[^c-8e30898d9a70a133400a9a33adfd9770]: Textual amendment: S. 10(4A) inserted (S.) (15.2.2007) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80), regs. 2, 26(a) and s. 10(4A) inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/2/1), [6(a)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/6/a)
 
 [^M_F_5c8cde94-6d72-45b2-d87c-43879b4606c5]: Textual amendment: Words in s. 10(4A) substituted (E.W.) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/6/paragraph/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-6f846f673de291a49604e0394692c536]: Textual amendment: Words in s. 10(4A) substituted (E.W.) (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/3)
+[^c-6f846f673de291a49604e0394692c536]: Textual amendment: Words in s. 10(4A) substituted (E.W.) (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/3)
 
-[^key-a833136ad7928d5fff88896eaa888023]: Textual amendment: S. 10(5) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a833136ad7928d5fff88896eaa888023]: Textual amendment: S. 10(5) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-5d671c7fc046d15e325ef493eeba250a]: Textual amendment: S. 10(6) inserted (S.) (15.2.2007) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80), [regs. 2](https://www.legislation.gov.uk/ssi/2007/80/regulation/2), [26(b)](https://www.legislation.gov.uk/ssi/2007/80/regulation/26/b)
+[^c-5d671c7fc046d15e325ef493eeba250a]: Textual amendment: S. 10(6) inserted (S.) (15.2.2007) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80), [regs. 2](https://www.legislation.gov.uk/ssi/2007/80/regulation/2), [26(b)](https://www.legislation.gov.uk/ssi/2007/80/regulation/26/b)
 
-[^key-7be64a9df7b9f6d33c58bbcc5ec2a92f]: Textual amendment: S. 10(6) added (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/2/1), [6(b)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/6/b)
+[^c-7be64a9df7b9f6d33c58bbcc5ec2a92f]: Textual amendment: S. 10(6) added (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/2/1), [6(b)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/6/b)
 
-[^key-c7ed1ab11a5ee6c9340c7ebcc572d374]: Textual amendment: S. 10(7)(8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c7ed1ab11a5ee6c9340c7ebcc572d374]: Textual amendment: S. 10(7)(8) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 107(5)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/107/5) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7fbafb623812cd4a020d12d278799bfc]: Textual amendment: Word in s. 11(1) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/2/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-7fbafb623812cd4a020d12d278799bfc]: Textual amendment: Word in s. 11(1) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/2/c); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
 
-[^key-741690cde5e6f1d850afbefa192c48eb]: Textual amendment: S. 11(1)(b) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-741690cde5e6f1d850afbefa192c48eb]: Textual amendment: S. 11(1)(b) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-0ab5b5ad5741d069b07a3fd05c925296]: Textual amendment: S. 11(2)(d) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-0ab5b5ad5741d069b07a3fd05c925296]: Textual amendment: S. 11(2)(d) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-634761a088f54b5fdeb78867001b118c]: Textual amendment: Words in s. 11(4) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(c)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/c/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-634761a088f54b5fdeb78867001b118c]: Textual amendment: Words in s. 11(4) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(c)(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/c/i) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-2f5c89a4d215d1ee99ca5a50da0cbde6]: Textual amendment: Words in s. 11(4) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(c)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/c/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-2f5c89a4d215d1ee99ca5a50da0cbde6]: Textual amendment: Words in s. 11(4) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(c)(ii)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/c/ii) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-bab7cfdf9955350229f7cb05eb3a7b0a]: Textual amendment: S. 11(5) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/d) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-bab7cfdf9955350229f7cb05eb3a7b0a]: Textual amendment: S. 11(5) omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 10(d)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/10/d) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c692268]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
 
-[^key-26ad9a0c0d52d229a83314456f2453c6]: Textual amendment: Word in s. 13 substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/2/d); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-26ad9a0c0d52d229a83314456f2453c6]: Textual amendment: Word in s. 13 substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/2/d); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
 
-[^key-da560e23c1ca01787124289b49b73eb7]: Textual amendment: Words in s. 13 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 108](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/108) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-da560e23c1ca01787124289b49b73eb7]: Textual amendment: Words in s. 13 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 108](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/108) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-04b198d03f151430c8fb271d277cbda4]: Textual amendment: S. 14 omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/11) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-04b198d03f151430c8fb271d277cbda4]: Textual amendment: S. 14 omitted (1.3.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/11) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c692271]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
-[^key-728a1d2bbad27b4d53c6bca80a35af79]: Textual amendment: Words in s. 15 omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-728a1d2bbad27b4d53c6bca80a35af79]: Textual amendment: Words in s. 15 omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/3/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
 
-[^key-ad346382a37f93ebb76e2e4657561e59]: Textual amendment: Words in s. 15 inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/12) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-ad346382a37f93ebb76e2e4657561e59]: Textual amendment: Words in s. 15 inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/12) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c692272]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
-[^key-41c7ab507fcb4ea98f2f4cebfd28ce6c]: Textual amendment: Words in s. 15 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/3/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-41c7ab507fcb4ea98f2f4cebfd28ce6c]: Textual amendment: Words in s. 15 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/7/3/b); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
 
 [^c692273]: Modification: The text of s. 16(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any repeals or amendments which may have been made prior to 1.2.1991
 

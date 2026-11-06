@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Duration of planning permission and listed building consent etc.[^key-3fa80a4ccbf708263701b8d0f747e67b]
+## 20. Duration of planning permission and listed building consent etc.[^c-3fa80a4ccbf708263701b8d0f747e67b]
 
 *Extent: S*
 
-(1)[^key-0a54f921d982d29258725121f72c6499] In section 58 of the principal Act (general condition limiting duration of planning permission)—
+(1)[^c-0a54f921d982d29258725121f72c6499] In section 58 of the principal Act (general condition limiting duration of planning permission)—
 
 - (a) for subsections (1) to (3) substitute—
 
@@ -28,7 +28,7 @@ summary: ''
   >
   > (2) The authority concerned may, in granting any such planning permission (or as the case may be in making a direction under section 57), direct that subsection (1) is not to apply as respects the permission but that the permission is to lapse on the expiration of a period, whether longer or shorter than 3 years, specified in the direction (under this section) unless the development to which the permission relates is begun before that expiration.
   >
-  > (3) For the purposes of sections 43A(8)(b) and[^key-bda396f156ce8985e95ddd9d92f99c5e] 47(1)(a), (3) and (4)(a)—
+  > (3) For the purposes of sections 43A(8)(b) and[^c-bda396f156ce8985e95ddd9d92f99c5e] 47(1)(a), (3) and (4)(a)—
   >
   > - (a) any such direction, or
   > - (b) the effect of subsection (1) as that subsection applies in consequence of the authority electing not to make such a direction,
@@ -50,9 +50,9 @@ summary: ''
     , and
   - (iii) in paragraph (g), for the words “outline planning permission” substitute “ planning permission in principle ”.
 
-(2)[^key-0a54f921d982d29258725121f72c6499] The title of section 58 becomes “**Duration of planning permission**”.
+(2)[^c-0a54f921d982d29258725121f72c6499] The title of section 58 becomes “**Duration of planning permission**”.
 
-(3)[^key-31e2e7bac3216c00ca92eb08b68c74a5] In section 16 of the listed buildings Act (limit of duration of listed building consent), for subsections (1) and (2) substitute—
+(3)[^c-31e2e7bac3216c00ca92eb08b68c74a5] In section 16 of the listed buildings Act (limit of duration of listed building consent), for subsections (1) and (2) substitute—
 
 > (1) A listed building consent lapses—
 >
@@ -74,10 +74,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa80a4ccbf708263701b8d0f747e67b]: Commencement: S. 20 in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-3fa80a4ccbf708263701b8d0f747e67b]: Commencement: S. 20 in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-0a54f921d982d29258725121f72c6499]: Commencement: [S. 20(1)](https://www.legislation.gov.uk/asp/2006/17/section/20/1)[(2)](https://www.legislation.gov.uk/asp/2006/17/section/20/2) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-0a54f921d982d29258725121f72c6499]: Commencement: [S. 20(1)](https://www.legislation.gov.uk/asp/2006/17/section/20/1)[(2)](https://www.legislation.gov.uk/asp/2006/17/section/20/2) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-bda396f156ce8985e95ddd9d92f99c5e]: Textual amendment: Words in [s. 20(1)(a)](https://www.legislation.gov.uk/asp/2006/17/section/20/1/a) substituted (2.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/256/article/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2009/256/article/5/2)
+[^c-bda396f156ce8985e95ddd9d92f99c5e]: Textual amendment: Words in [s. 20(1)(a)](https://www.legislation.gov.uk/asp/2006/17/section/20/1/a) substituted (2.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/256/article/1/2), [5(2)](https://www.legislation.gov.uk/ssi/2009/256/article/5/2)
 
-[^key-31e2e7bac3216c00ca92eb08b68c74a5]: Commencement: [S. 20(3)](https://www.legislation.gov.uk/asp/2006/17/section/20/3) in force at 1.12.2011 in so far as not already in force by [S.S.I. 2011/382](https://www.legislation.gov.uk/ssi/2011/382), [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/382/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2011/382/article/2/2/a)
+[^c-31e2e7bac3216c00ca92eb08b68c74a5]: Commencement: [S. 20(3)](https://www.legislation.gov.uk/asp/2006/17/section/20/3) in force at 1.12.2011 in so far as not already in force by [S.S.I. 2011/382](https://www.legislation.gov.uk/ssi/2011/382), [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/382/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2011/382/article/2/2/a)

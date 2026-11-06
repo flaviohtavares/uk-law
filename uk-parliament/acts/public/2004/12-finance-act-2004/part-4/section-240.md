@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Amount of charge[^key-5515e08972eed53555327ae457f67bde][^key-c8f57d1b523bb0be588edb6f8b0b7520]
+## 240. Amount of charge[^c-5515e08972eed53555327ae457f67bde][^c-c8f57d1b523bb0be588edb6f8b0b7520]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ a deduction is to be made from the amount of tax that would otherwise be chargea
 - (a) 25% of the amount of the scheme chargeable payment, or of the aggregate amount of such of the scheme chargeable payments as are tax-paid, and
 - (b) the amount of the tax which has been paid under section 208 in relation to the scheme chargeable payment, or in relation to such of the scheme chargeable payments as are tax-paid.
 
-(3A)[^key-49b19726a5c1f9fa7235fb9381e485e6] The Treasury—
+(3A)[^c-49b19726a5c1f9fa7235fb9381e485e6] The Treasury—
 
 - (a) may by order amend subsection (1) so as to vary the rate of the scheme sanction charge, and
 - (b) may by order amend subsection (3)(a) so as to vary the percentage mentioned there.
@@ -45,8 +45,8 @@ a deduction is to be made from the amount of tax that would otherwise be chargea
 
 ## Annotations
 
-[^key-5515e08972eed53555327ae457f67bde]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-5515e08972eed53555327ae457f67bde]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-c8f57d1b523bb0be588edb6f8b0b7520]: Modification: [S. 240](https://www.legislation.gov.uk/ukpga/2004/12/section/240) modified (24.4.2025 for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/5/2)
+[^c-c8f57d1b523bb0be588edb6f8b0b7520]: Modification: [S. 240](https://www.legislation.gov.uk/ukpga/2004/12/section/240) modified (24.4.2025 for the tax year 2023-24 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2025 (S.I. 2025/419)](https://www.legislation.gov.uk/uksi/2025/419), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/419/regulation/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2025/419/regulation/5/2)
 
-[^key-49b19726a5c1f9fa7235fb9381e485e6]: Textual amendment: S. 240(3A)(3B) inserted (with effect in accordance with Sch. 2 para. 25 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/16)
+[^c-49b19726a5c1f9fa7235fb9381e485e6]: Textual amendment: S. 240(3A)(3B) inserted (with effect in accordance with Sch. 2 para. 25 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2009/10/schedule/2/paragraph/16)

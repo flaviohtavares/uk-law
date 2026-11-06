@@ -30,8 +30,8 @@ summary: ''
 - “**supported business**” means an economic operator whose main aim is the social and professional integration of disabled or disadvantaged persons and where at least 30% of the employees of the economic operator are disabled or disadvantaged persons; and
 - “**supported employment programme**” means an employment programme operated by an economic operator the main aim of which is the social and professional integration of disabled or disadvantaged persons and where at least 30% of those engaged in the programme are disabled or disadvantaged persons.
 
-(3) Where a contracting authority is following the approach set out in paragraph (1), it must specify that fact in the contract notice and refer to this regulation[^key-cac8f98fab2f6dfb6a78a354b79edeca].
+(3) Where a contracting authority is following the approach set out in paragraph (1), it must specify that fact in the contract notice and refer to this regulation[^c-cac8f98fab2f6dfb6a78a354b79edeca].
 
 ## Annotations
 
-[^key-cac8f98fab2f6dfb6a78a354b79edeca]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/ssi/2015/446/regulation/21/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(19)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/19) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-cac8f98fab2f6dfb6a78a354b79edeca]: Textual amendment: Words in [reg. 21(3)](https://www.legislation.gov.uk/ssi/2015/446/regulation/21/3) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(19)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/19) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

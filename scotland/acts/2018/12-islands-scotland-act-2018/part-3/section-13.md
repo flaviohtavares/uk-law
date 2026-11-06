@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Preparation of island communities impact assessment by Ministers[^key-f1e4349bcd8a2202226ea5d2a8d3fed8]
+## 13. Preparation of island communities impact assessment by Ministers[^c-f1e4349bcd8a2202226ea5d2a8d3fed8]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e4349bcd8a2202226ea5d2a8d3fed8]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/12/section/13) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)
+[^c-f1e4349bcd8a2202226ea5d2a8d3fed8]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/12/section/13) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)

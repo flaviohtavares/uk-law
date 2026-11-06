@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Functions to be exercised by the Authority[^key-399cc0f8db2cb276ebe0df6d35e919cf]
+## 264. Functions to be exercised by the Authority[^c-399cc0f8db2cb276ebe0df6d35e919cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-399cc0f8db2cb276ebe0df6d35e919cf]: Commencement: Art. 264 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-399cc0f8db2cb276ebe0df6d35e919cf]: Commencement: Art. 264 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00178]: Footnote: The reference to “the Treasury” was substituted by [S.I. 1997/2781](https://www.legislation.gov.uk/uksi/1997/2781), article 8. The function in question was contracted out to the Financial Services Authority under [S.I. 1998/2842](https://www.legislation.gov.uk/uksi/1998/2842), article 2, Schedule, paragraph 62(a). That Order is revoked by this Order, and the substitution made by this paragraph is consequential on that revocation.
 

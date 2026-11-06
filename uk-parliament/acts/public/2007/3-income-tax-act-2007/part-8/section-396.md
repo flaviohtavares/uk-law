@@ -24,7 +24,7 @@ summary: ''
 
 (2) The ways are—
 
-- (a)[^key-cbcedb016c9ec5f85df5207ddb1cb2cd] acquiring part of the ordinary share capital of a company that first becomes an employee-controlled company—
+- (a)[^c-cbcedb016c9ec5f85df5207ddb1cb2cd] acquiring part of the ordinary share capital of a company that first becomes an employee-controlled company—
   - (i) after the date of acquisition, or
   - (ii) not earlier than 12 months before that date, and
 - (b) repaying another loan to which this section applies.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbcedb016c9ec5f85df5207ddb1cb2cd]: Textual amendment: S. 396(2)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) (No.3) Order 2007 (S.I. 2007/3506)](https://www.legislation.gov.uk/uksi/2007/3506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/3506/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/3506/article/3/2)
+[^c-cbcedb016c9ec5f85df5207ddb1cb2cd]: Textual amendment: S. 396(2)(a) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [Income Tax Act 2007 (Amendment) (No.3) Order 2007 (S.I. 2007/3506)](https://www.legislation.gov.uk/uksi/2007/3506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/3506/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2007/3506/article/3/2)

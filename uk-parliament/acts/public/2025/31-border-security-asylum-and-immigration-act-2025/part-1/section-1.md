@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Border Security Commander[^key-c3cb5336eb3ff34cbcf8538cc86224d5][^key-ffcef0d6c668a0d9b1b6bafbaa4a7047]
+## 1. The Border Security Commander[^c-c3cb5336eb3ff34cbcf8538cc86224d5][^c-ffcef0d6c668a0d9b1b6bafbaa4a7047]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3cb5336eb3ff34cbcf8538cc86224d5]: Commencement: S. 1 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-c3cb5336eb3ff34cbcf8538cc86224d5]: Commencement: S. 1 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-ffcef0d6c668a0d9b1b6bafbaa4a7047]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/31/section/1) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-ffcef0d6c668a0d9b1b6bafbaa4a7047]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/31/section/1) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

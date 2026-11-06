@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Duty to have regard to guidance[^key-504741cbe84bf8aca75e18dd7e81b44d]
+## 26. Duty to have regard to guidance[^c-504741cbe84bf8aca75e18dd7e81b44d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-504741cbe84bf8aca75e18dd7e81b44d]: Commencement: S. 26 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-504741cbe84bf8aca75e18dd7e81b44d]: Commencement: S. 26 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

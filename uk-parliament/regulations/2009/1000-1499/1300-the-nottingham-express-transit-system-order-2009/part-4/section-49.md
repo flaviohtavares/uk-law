@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Traffic signs[^key-6d53ef493de37a97b4c9b89e6d56fe81]
+## 49. Traffic signs[^c-6d53ef493de37a97b4c9b89e6d56fe81]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d53ef493de37a97b4c9b89e6d56fe81]: Commencement: Art. 49 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-6d53ef493de37a97b4c9b89e6d56fe81]: Commencement: Art. 49 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

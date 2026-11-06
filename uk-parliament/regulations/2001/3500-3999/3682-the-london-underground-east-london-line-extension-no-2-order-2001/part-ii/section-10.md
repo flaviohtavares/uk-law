@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Construction and maintenance of new or altered streets[^key-59614ea2b3c661571ac9b48590737274]
+## 10. Construction and maintenance of new or altered streets[^c-59614ea2b3c661571ac9b48590737274]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59614ea2b3c661571ac9b48590737274]: Commencement: Art. 10 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-59614ea2b3c661571ac9b48590737274]: Commencement: Art. 10 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

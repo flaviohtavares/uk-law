@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Business premises: warrant authorising entry[^key-33ce36155009e853dbb021243b37394b]
+## 120. Business premises: warrant authorising entry[^c-33ce36155009e853dbb021243b37394b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33ce36155009e853dbb021243b37394b]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2025/26/section/120) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-33ce36155009e853dbb021243b37394b]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2025/26/section/120) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendments related to Part 1[^key-e5ba333840857c35213ee8744a41dac2]
+## 54. Amendments related to Part 1[^c-e5ba333840857c35213ee8744a41dac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 contains amendments related to this Part.
 
 ## Annotations
 
-[^key-e5ba333840857c35213ee8744a41dac2]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/52/section/54) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e5ba333840857c35213ee8744a41dac2]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/52/section/54) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

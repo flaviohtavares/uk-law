@@ -56,7 +56,7 @@ they shall be deemed to be in that employment under a contract of service.
 (4)[^c16038731] In this Part “the rent officer” means–
 
 - (a) in relation to any area not specified in an order made under section 64B of this Act, any rent officer appointed for the area who is authorised to act in accordance with a scheme under this section;
-- (b) in relation to any area or areas so specified, any rent officer appointed by the Commissioners for Her Majesty’s Revenue and Customs[^key-7acf2a241f6df6dd911158521eb9ee85] .
+- (b) in relation to any area or areas so specified, any rent officer appointed by the Commissioners for Her Majesty’s Revenue and Customs[^c-7acf2a241f6df6dd911158521eb9ee85] .
 
 (5) A scheme under this section may be varied or revoked by a subsequent scheme made thereunder.
 
@@ -167,7 +167,7 @@ they shall be deemed to be in that employment under a contract of service.
 
 [^c16038731]: Textual amendment: S. 63(4) substituted (1.10.1999) by [S.I. 1999/2403](https://www.legislation.gov.uk/uksi/1999/2403), [art. 7(a)](https://www.legislation.gov.uk/uksi/1999/2403/article/7/a) (with [s. 8(1)-(5)](https://www.legislation.gov.uk/uksi/1999/2403/section/8/1))
 
-[^key-7acf2a241f6df6dd911158521eb9ee85]: Textual amendment: Words in [s. 63(4)(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/63/4/b) substituted (1.4.2009) by [Transfer of Functions (Administration of Rent Officer Service in England) Order 2008 (S.I. 2008/3134)](https://www.legislation.gov.uk/uksi/2008/3134), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3134/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/3134/schedule/paragraph/1)
+[^c-7acf2a241f6df6dd911158521eb9ee85]: Textual amendment: Words in [s. 63(4)(b)](https://www.legislation.gov.uk/ukpga/1977/42/section/63/4/b) substituted (1.4.2009) by [Transfer of Functions (Administration of Rent Officer Service in England) Order 2008 (S.I. 2008/3134)](https://www.legislation.gov.uk/uksi/2008/3134), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3134/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/3134/schedule/paragraph/1)
 
 [^c16038741]: Textual amendment: Words in s. 63(7)(a) substituted (1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 123](https://www.legislation.gov.uk/ukpga/1996/52/section/123), [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/1996/52/schedule/13/paragraph/1); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/618/article/2/1) (with [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Date, place and notification of inquiry[^key-2aaccc13cb03e1fa942878e13a836eeb]
+## 42. Date, place and notification of inquiry[^c-2aaccc13cb03e1fa942878e13a836eeb]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aaccc13cb03e1fa942878e13a836eeb]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2017/544/regulation/42) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-2aaccc13cb03e1fa942878e13a836eeb]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2017/544/regulation/42) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

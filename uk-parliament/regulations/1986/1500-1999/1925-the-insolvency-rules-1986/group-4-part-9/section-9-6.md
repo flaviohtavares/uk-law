@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.6. Costs of proceedings under ss.236, 366[^key-30fca5a86c7951bb3465f0443de470f5]
+## 9.6. Costs of proceedings under ss.236, 366[^c-30fca5a86c7951bb3465f0443de470f5]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ the costs of the application for the order may be ordered by the court to be pai
 
 ## Annotations
 
-[^key-30fca5a86c7951bb3465f0443de470f5]: Commencement: [Rule 9.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-30fca5a86c7951bb3465f0443de470f5]: Commencement: [Rule 9.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

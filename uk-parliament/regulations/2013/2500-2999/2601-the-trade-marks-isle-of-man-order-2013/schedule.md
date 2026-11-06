@@ -22,11 +22,11 @@ summary: ''
 
 Article 2
 
-**1.**[^key-cb49d70ef40e5ddc7dc6d562af781420] (1) Any reference to an Act of Parliament (including the Trade Marks Act 1994) or to a provision of such an Act shall be construed as a reference to that Act or provision as it has effect in the Isle of Man.
+**1.**[^c-cb49d70ef40e5ddc7dc6d562af781420] (1) Any reference to an Act of Parliament (including the Trade Marks Act 1994) or to a provision of such an Act shall be construed as a reference to that Act or provision as it has effect in the Isle of Man.
 
 (2) Any reference to an Act of Tynwald shall be construed as a reference to it as amended or replaced by or under any other such enactment.
 
-**1A.**[^key-bca1d62d55e6e5bce717dbc032f1a139] In section 1 (trade marks), for subsection (1) substitute—
+**1A.**[^c-bca1d62d55e6e5bce717dbc032f1a139] In section 1 (trade marks), for subsection (1) substitute—
 
 > (1) In this Act “trade mark” means any sign which is capable—
 >
@@ -37,23 +37,23 @@ Article 2
 
 .
 
-**2.**[^key-33aab7fa50cb798c454e8876e5f25010] (1) Section 3 (absolute grounds for refusal of registration) is amended as follows.
+**2.**[^c-33aab7fa50cb798c454e8876e5f25010] (1) Section 3 (absolute grounds for refusal of registration) is amended as follows.
 
 (2) In subsection (2), after “the shape” in each place insert “, or another characteristic,”.
 
-(3)[^key-c111cc8cc22f7e26f76ebe7d07de6e7c] In subsection (4), for “or by any provision of Community law” substitute “other than law relating to trade marks”;
+(3)[^c-c111cc8cc22f7e26f76ebe7d07de6e7c] In subsection (4), for “or by any provision of Community law” substitute “other than law relating to trade marks”;
 
 (4) After subsection (4), insert—
 
 > (4A) A trade mark is not to be registered if its registration is prohibited by or under—
 >
-> - (a) any enactment or rule of law, or[^key-3bfd23d948e72aea9af574b376948b12]
-> - (b)[^key-6b500ecfa74dbf2722a0425a8a086110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (c) any international agreement to which the United Kingdom [^key-051adc242ddb560776ae5dbdfac2d741]... is a party,
+> - (a) any enactment or rule of law, or[^c-3bfd23d948e72aea9af574b376948b12]
+> - (b)[^c-6b500ecfa74dbf2722a0425a8a086110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) any international agreement to which the United Kingdom [^c-051adc242ddb560776ae5dbdfac2d741]... is a party,
 >
 > providing for the protection of designations of origin or geographical indications.
 >
-> (4B)[^key-17149709afca059e97d35919796f1cd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4B)[^c-17149709afca059e97d35919796f1cd5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (4C) A trade mark is not to be registered if it—
 >
@@ -62,20 +62,20 @@ Article 2
 >
 > (4D) Subsection (4C)(a) refers to registration in accordance with any—
 >
-> - (a) enactment or rule of law, or[^key-fc1a250e5b6e49002be9267b0ceb4b93]
-> - (b)[^key-14b2d48b1d61b7ccfb362307ee64a798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (c) international agreement to which the United Kingdom [^key-1c2fd0584f0ada9622df4c413bf1c925]... is a party,
+> - (a) enactment or rule of law, or[^c-fc1a250e5b6e49002be9267b0ceb4b93]
+> - (b)[^c-14b2d48b1d61b7ccfb362307ee64a798] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c) international agreement to which the United Kingdom [^c-1c2fd0584f0ada9622df4c413bf1c925]... is a party,
 >
 > providing for the protection of plant variety rights.
 
 .
 
-**3.**[^key-ee4c7c17d9998988d0f16a3193233fcb] (1) Section 5 (relative grounds for refusal of registration) is amended as follows.
+**3.**[^c-ee4c7c17d9998988d0f16a3193233fcb] (1) Section 5 (relative grounds for refusal of registration) is amended as follows.
 
 (2) In subsection (3)—
 
 - (a) omit paragraph (b) and the word “and” immediately before it;
-- (b)[^key-2a08f8d85973a99ca048aaea8b056e43] omit “(or, in the case of a Community trade mark, in the European Community)”.
+- (b)[^c-2a08f8d85973a99ca048aaea8b056e43] omit “(or, in the case of a Community trade mark, in the European Community)”.
 
 (3) After subsection (3), insert—
 
@@ -87,7 +87,7 @@ Article 2
 
 (5) In subsection (4), after paragraph (a) insert—
 
-> - (aa) by virtue of [^key-b2ec7ae118440e65262bac1949be13a4]... any enactment or rule of law, providing for protection of designations of origin or geographical indications, where the condition in subsection (4B) is met, or
+> - (aa) by virtue of [^c-b2ec7ae118440e65262bac1949be13a4]... any enactment or rule of law, providing for protection of designations of origin or geographical indications, where the condition in subsection (4B) is met, or
 
 .
 
@@ -121,14 +121,14 @@ Article 2
 
 .
 
-**4.**[^key-d749b5b10d70b2d362558de3cd9a7b35] (1) Section 6 (meaning of “earlier trade mark”) is amended as follows.
+**4.**[^c-d749b5b10d70b2d362558de3cd9a7b35] (1) Section 6 (meaning of “earlier trade mark”) is amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-cbcf791561ff32fa797993c0220a7232] in paragraph (a)—
+- (a)[^c-cbcf791561ff32fa797993c0220a7232] in paragraph (a)—
   - (i) after “registered trade mark” omit “,” and insert “or”;
   - (ii) omit “or Community trade mark;
-- (aa)[^key-79102667b82b6fdda0a14cb15ffb8da4] after paragraph (a) insert—
+- (aa)[^c-79102667b82b6fdda0a14cb15ffb8da4] after paragraph (a) insert—
 
   > - (aa) a comparable trade mark (EU) or a trade mark registered pursuant to an application made under paragraph 25 of Schedule 2A which has a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired;
   > - (ab) a comparable trade mark (IR) or a trade mark registered pursuant to an application made under paragraph 28, 29 or 33 of Schedule 2B which has a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired;
@@ -136,15 +136,15 @@ Article 2
   .
 - (b) for paragraph (b) substitute―
 
-  > - (b)[^key-0bfc5a2406c1960a351e5d14b29ed7e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (b)[^c-0bfc5a2406c1960a351e5d14b29ed7e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   > - (ba) a registered trade mark or international trade mark (UK) which—
-  >   - (i) prior to exit day[^key-1e45fe318163f05b0574e6980a73b9ef] has been converted from a European Union trade mark or international trade mark (EC) which itself had a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired[^key-4b90fc171eab899baf5ec90f73750b55], and
+  >   - (i) prior to exit day[^c-1e45fe318163f05b0574e6980a73b9ef] has been converted from a European Union trade mark or international trade mark (EC) which itself had a valid claim to seniority of an earlier registered trade mark or protected international trade mark (UK) even where the earlier trade mark has been surrendered or its registration has expired[^c-4b90fc171eab899baf5ec90f73750b55], and
   >   - (ii) accordingly has the same claim to seniority, or;
 
   ; and
 - (c) in paragraph (c), after “Paris Convention” insert “or the WTO agreement”.
 
-(2A)[^key-6cd8ac3dd2b1b7af7945cf6d767716f7] After subsection (1) insert—
+(2A)[^c-6cd8ac3dd2b1b7af7945cf6d767716f7] After subsection (1) insert—
 
 > (1A) In subsection (1), “protected international trade mark (UK)” has the same meaning as in the Trade Marks (International Registration) Order 2008.
 
@@ -172,7 +172,7 @@ Article 2
 
 (3) Omit subsection (3).
 
-**5.**[^key-35f3e21f13492af07282e4742ce41e3c] After section 6 insert—
+**5.**[^c-35f3e21f13492af07282e4742ce41e3c] After section 6 insert—
 
 > **6A. Raising of relative grounds in opposition proceedings in case of non-use**
 >
@@ -180,25 +180,25 @@ Article 2
 >
 > - (a) an application for registration of a trade mark has been published,
 > - (b) there is an earlier trade mark of a kind falling within section 6(1)(a), (b) or (ba) in relation to which the conditions set out in section 5(1), (2) or (3) obtain, and
-> - (c) the registration procedure for the earlier trade mark was completed before the start of the relevant period[^key-aba8f06e8b127d6cc8902888002e8369].
+> - (c) the registration procedure for the earlier trade mark was completed before the start of the relevant period[^c-aba8f06e8b127d6cc8902888002e8369].
 >
-> (1A)[^key-4b99957e3ef7397b11c3f9e5246ea39d] In this section “the relevant period” means the period of 5 years ending with the date of the application for registration mentioned in subsection (1)(a) or (where applicable) the date of the priority claimed for that application.
+> (1A)[^c-4b99957e3ef7397b11c3f9e5246ea39d] In this section “the relevant period” means the period of 5 years ending with the date of the application for registration mentioned in subsection (1)(a) or (where applicable) the date of the priority claimed for that application.
 >
 > (2) In opposition proceedings, the registrar shall not refuse to register the trade mark by reason of the earlier trade mark unless the use conditions are met.
 >
 > (3) The use conditions are met if—
 >
-> - (a) within the relevant period[^key-ded902d690497b9e248ed2e1596321e5] the earlier trade mark has been put to genuine use in the United Kingdom by the proprietor or with his consent in relation to the goods or services for which it is registered, or
+> - (a) within the relevant period[^c-ded902d690497b9e248ed2e1596321e5] the earlier trade mark has been put to genuine use in the United Kingdom by the proprietor or with his consent in relation to the goods or services for which it is registered, or
 > - (b) the earlier trade mark has not been so used, but there are proper reasons for non-use.
 >
 > (4) For these purposes—
 >
-> - (a) use of a trade mark includes use in a form (the “variant form”)[^key-cf6b378e768aafa93513c2716c1056db] differing in elements which do not alter the distinctive character of the mark in the form in which it was registered (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor)[^key-846a52b8f7b9fc2ca2e412f38bf664df], and
+> - (a) use of a trade mark includes use in a form (the “variant form”)[^c-cf6b378e768aafa93513c2716c1056db] differing in elements which do not alter the distinctive character of the mark in the form in which it was registered (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor)[^c-846a52b8f7b9fc2ca2e412f38bf664df], and
 > - (b) use in the United Kingdom includes affixing the trade mark to goods or to the packaging of goods in the United Kingdom solely for export purposes.
 >
-> (5) In relation to a European Union trade mark[^key-554ea65d7671dd864da9f7110aca75a7] or international trade mark (EC), any reference in subsection (3) or (4) to the United Kingdom shall be construed as a reference to the European Union.
+> (5) In relation to a European Union trade mark[^c-554ea65d7671dd864da9f7110aca75a7] or international trade mark (EC), any reference in subsection (3) or (4) to the United Kingdom shall be construed as a reference to the European Union.
 >
-> (5A)[^key-55c41c26b45f637f3d811900def43a4c] In relation to an international trade mark (EC) the reference in subsection (1)(c) to the completion of the registration procedure is to be construed as a reference to the publication by the European Union Intellectual Property Office of the matters referred to in Article 190(2) of the European Union Trade Mark Regulation.
+> (5A)[^c-55c41c26b45f637f3d811900def43a4c] In relation to an international trade mark (EC) the reference in subsection (1)(c) to the completion of the registration procedure is to be construed as a reference to the publication by the European Union Intellectual Property Office of the matters referred to in Article 190(2) of the European Union Trade Mark Regulation.
 >
 > (6) Where an earlier trade mark satisfies the use conditions in respect of some only of the goods or services for which it is registered, it shall be treated for the purposes of this section as if it were registered only in respect of those goods or services.
 >
@@ -209,7 +209,7 @@ Article 2
 
 .
 
-**5A.**[^key-0d5774bb22d67a54ac7e182aab2a296b] In section 8(5) (power to require that relative grounds be raised in opposition proceedings), for “the Community Trade Mark Regulation” substitute “Council Regulation [(EC) No 40/94](https://www.legislation.gov.uk/european/regulation/1994/0040) of 20th December 1993 on the Community trade mark.
+**5A.**[^c-0d5774bb22d67a54ac7e182aab2a296b] In section 8(5) (power to require that relative grounds be raised in opposition proceedings), for “the Community Trade Mark Regulation” substitute “Council Regulation [(EC) No 40/94](https://www.legislation.gov.uk/european/regulation/1994/0040) of 20th December 1993 on the Community trade mark.
 
 **5B.** (1) Section 9 (rights conferred by registered trade mark) is amended as follows.
 
@@ -228,7 +228,7 @@ Article 2
 - (a) omit “such”, and
 - (b) at the end insert “such as is mentioned in subsection (1) or (1A)”.
 
-**6.**[^key-54ee22b36859353b7bba0950b398826b] (1) Section 10 (infringement of registered trade mark) is amended as follows.
+**6.**[^c-54ee22b36859353b7bba0950b398826b] (1) Section 10 (infringement of registered trade mark) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -267,7 +267,7 @@ Article 2
 >
 > (1) The proprietor of a registered trade mark is entitled to prevent third parties from bringing goods into the United Kingdom in the course of trade without being released for free circulation if they are goods for which the trade mark is registered which—
 >
-> - (a) come from outside the customs territory of the United Kingdom[^key-fd2d93509e6a40f9f2f269d89b3e3861]; and
+> - (a) come from outside the customs territory of the United Kingdom[^c-fd2d93509e6a40f9f2f269d89b3e3861]; and
 > - (b) bear without authorisation a sign which is identical with the trade mark or cannot be distinguished in its essential aspects from the trade mark.
 >
 > (2) In subsection (1) the reference to goods for which the trade mark is registered includes a reference to the packaging of goods for which the trade mark is registered.
@@ -279,7 +279,7 @@ Article 2
 > - (a) proceedings are initiated in accordance with the European Customs Enforcement Regulation to determine whether the trade mark has been infringed; and
 > - (b) during those proceedings evidence is provided by the declarant or the holder of the goods that the proprietor of the trade mark is not entitled to prohibit the placing of the goods on the market in the country of final destination.
 >
-> (5) References in this Act to the “European Customs Enforcement Regulation” are references to Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights as amended from time to time[^key-6ab216fb5511b0cba34765b904b9a582].
+> (5) References in this Act to the “European Customs Enforcement Regulation” are references to Regulation (EU) No 608/2013 of the European Parliament and of the Council of 12 June 2013 concerning customs enforcement of intellectual property rights as amended from time to time[^c-6ab216fb5511b0cba34765b904b9a582].
 >
 > **10B. Prohibition on the use of a trade mark registered in the name of an agent or representative**
 >
@@ -298,9 +298,9 @@ Article 2
 
 (3) After subsection (1) insert—
 
-> (1A)[^key-1c9e3913601b295a91fbe0120a90fe98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (1A)[^c-1c9e3913601b295a91fbe0120a90fe98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (1B) Where subsection (1) [^key-69b8c15024b7368f9cc5edb328f104fb]... applies, the later registered trade mark is not infringed by the use of the earlier trade mark even though the earlier trade mark may no longer be invoked against the later registered trade mark.
+> (1B) Where subsection (1) [^c-69b8c15024b7368f9cc5edb328f104fb]... applies, the later registered trade mark is not infringed by the use of the earlier trade mark even though the earlier trade mark may no longer be invoked against the later registered trade mark.
 
 .
 
@@ -327,9 +327,9 @@ Article 2
 
 .
 
-**6D.**[^key-eb4c203e845e76a2e5a59e66778a4d46] In section 12 (exhaustion of rights conferred by a registered trade mark), in subsection (1), after “market in” insert “the United Kingdom or”.
+**6D.**[^c-eb4c203e845e76a2e5a59e66778a4d46] In section 12 (exhaustion of rights conferred by a registered trade mark), in subsection (1), after “market in” insert “the United Kingdom or”.
 
-**7.**[^key-9a5d847bc5a8c45775881fc55110f747] After section 14(2) (action for infringement) insert—
+**7.**[^c-9a5d847bc5a8c45775881fc55110f747] After section 14(2) (action for infringement) insert—
 
 > (2A) Where in an action for infringement of a registered trade mark it is shown that the defendant knew, or had reason to believe, that he was committing an infringement, the damages awarded to the claimant shall be appropriate to the actual prejudice he suffered as a result of the infringement.
 >
@@ -343,17 +343,17 @@ Article 2
 
 .
 
-**8.**[^key-9ac606e48b89733f6607d98dd6f90039] In section 17 (meaning of infringing goods), in subsection (3), for “an enforceable Community right” substitute “anything which forms part of retained EU law as a result of section 3 or 4 of the European Union (Withdrawal) Act 2018.
+**8.**[^c-9ac606e48b89733f6607d98dd6f90039] In section 17 (meaning of infringing goods), in subsection (3), for “an enforceable Community right” substitute “anything which forms part of retained EU law as a result of section 3 or 4 of the European Union (Withdrawal) Act 2018.
 
-**9.**[^key-de7d0f2635bed2bebdb5c6341830628b] In section 18(3) (period after which remedy of delivery up not available), at the end insert―
+**9.**[^c-de7d0f2635bed2bebdb5c6341830628b] In section 18(3) (period after which remedy of delivery up not available), at the end insert―
 
 > - (d) in the Isle of Man, has the same meaning as in the Limitation Act 1984 (an Act of Tynwald)[^f00005].
 
 .
 
-**10.**[^key-f78cf9f5b8a08cf454a48990b4415b73] In section 19(6) (order as to disposal of infringing goods etc.), for the words from “this section or” onwards substitute—
+**10.**[^c-f78cf9f5b8a08cf454a48990b4415b73] In section 19(6) (order as to disposal of infringing goods etc.), for the words from “this section or” onwards substitute—
 
-> - (a) this section [^key-9c69b57175a86daa6777932a9997fe0a]...;
+> - (a) this section [^c-9c69b57175a86daa6777932a9997fe0a]...;
 > - (b) section 24D of the Registered Designs Act 1949[^f00006];
 > - (c) section 113 of the Copyright Act 1991 (an Act of Tynwald)[^f00007];
 > - (d) section 19 of the Design Right Act 1991 (an Act of Tynwald)[^f00008];
@@ -362,7 +362,7 @@ Article 2
 
 .
 
-**10A.**[^key-95d9b1a61ea05b033cb4f3468c1a6b95] (1) Section 24 (assignment, &c of registered trade mark) is amended as follows.
+**10A.**[^c-95d9b1a61ea05b033cb4f3468c1a6b95] (1) Section 24 (assignment, &c of registered trade mark) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -370,7 +370,7 @@ Article 2
 
 .
 
-**11.**[^key-185272e7ab11cc51427bda00e75c4a80] In section 25(4) (registration of transactions), for the words from “then unless” onwards substitute—
+**11.**[^c-185272e7ab11cc51427bda00e75c4a80] In section 25(4) (registration of transactions), for the words from “then unless” onwards substitute—
 
 > and the mark is infringed before the prescribed particulars of the transaction are registered, in proceedings for such an infringement, the court shall not award him costs unless—
 >
@@ -379,7 +379,7 @@ Article 2
 
 .
 
-**11A.**[^key-071f089c288cf6bebfd39321d1374980] (1) Section 27 (application for registration of trade mark as an object of property) is amended as follows.
+**11A.**[^c-071f089c288cf6bebfd39321d1374980] (1) Section 27 (application for registration of trade mark as an object of property) is amended as follows.
 
 (2) In subsection (1) after “sections 22 to 26 (which relate to a registered trade mark as an object of property)” insert “and sections 28 to 31 (which relate to licensing)”.
 
@@ -434,9 +434,9 @@ Article 2
 
 .
 
-**12.**[^key-91f68604ddc70443d2d9710e28dd2902] In section 40 (registration), in subsection (1), for the words from “since he accepted” onwards substitute “since the application was accepted that the registration requirements (other than those mentioned in section 5(1), (2) or (3)) were not met at that time.”.
+**12.**[^c-91f68604ddc70443d2d9710e28dd2902] In section 40 (registration), in subsection (1), for the words from “since he accepted” onwards substitute “since the application was accepted that the registration requirements (other than those mentioned in section 5(1), (2) or (3)) were not met at that time.”.
 
-**12A.**[^key-b29a15bf20474a526875afb2a3d6ab86] (1) Section 41 (registration: supplementary provisions) is amended as follows.
+**12A.**[^c-b29a15bf20474a526875afb2a3d6ab86] (1) Section 41 (registration: supplementary provisions) is amended as follows.
 
 (2) After subsection (1)(a) insert—
 
@@ -461,7 +461,7 @@ Article 2
 - (a) after “a form” insert “(the “variant form”)”; and
 - (b) after “in which it was registered” insert “(regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor)”.
 
-**13.**[^key-3964d932e330e0868b7a0cc2290c2c9b] (1) Section 47 (grounds for invalidity of registration) is amended as follows.
+**13.**[^c-3964d932e330e0868b7a0cc2290c2c9b] (1) Section 47 (grounds for invalidity of registration) is amended as follows.
 
 (2) At the beginning of subsection (2) insert “Subject to subsections (2A) and (2G),”.
 
@@ -487,9 +487,9 @@ Article 2
 > - (a) use of a trade mark includes use in a form (the “variant form”) differing in elements which do not alter the distinctive character of the mark in the form in which it was registered (regardless of whether or not the trade mark in the variant form is also registered in the name of the proprietor), and
 > - (b) use in the United Kingdom includes affixing the trade mark to goods or to the packaging of goods in the United Kingdom solely for export purposes.
 >
-> (2D)[^key-6b45332765084ce0f4d65c4068a62751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2D)[^c-6b45332765084ce0f4d65c4068a62751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (2DA)[^key-6b45332765084ce0f4d65c4068a62751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2DA)[^c-6b45332765084ce0f4d65c4068a62751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (2E) Where an earlier trade mark satisfies the use conditions in respect of some only of the goods or services for which it is registered, it shall be treated for the purposes of this section as if it were registered only in respect of those goods or services.
 >
@@ -537,13 +537,13 @@ Article 2
 > In this Act—
 >
 > - “European Union trade mark” has the meaning given by Article 1(1) of the European Union Trade Mark Regulation; and
-> - “the European Union Trade Mark Regulation” means Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union Trade Mark (as it had effect immediately before exit day)[^key-e14f5565dc07d1d8c423a60b926e7c57]
+> - “the European Union Trade Mark Regulation” means Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union Trade Mark (as it had effect immediately before exit day)[^c-e14f5565dc07d1d8c423a60b926e7c57]
 
 .
 
-**14.**[^key-0d2cde4bd5f7dd0780da32b10d5e529a] Omit section 52 (power to make provision in connection with Community Trade Mark Regulation).
+**14.**[^c-0d2cde4bd5f7dd0780da32b10d5e529a] Omit section 52 (power to make provision in connection with Community Trade Mark Regulation).
 
-**14A.**[^key-565cda6cc6ebc2c09bf20e1dd76f0bac] Before the italic heading before section 53, insert—
+**14A.**[^c-565cda6cc6ebc2c09bf20e1dd76f0bac] Before the italic heading before section 53, insert—
 
 > **52A. Certain trade marks registered as European Union trade marks to be treated as registered trade marks**
 >
@@ -551,9 +551,9 @@ Article 2
 
 .
 
-**15.**[^key-ee0c920bc6efe15132f9145a1ba5095f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ee0c920bc6efe15132f9145a1ba5095f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15A.**[^key-a032d75a2b8fdeaca8388e00aa58d600] After section 54 (and before the italic heading before section 55), insert—
+**15A.**[^c-a032d75a2b8fdeaca8388e00aa58d600] After section 54 (and before the italic heading before section 55), insert—
 
 > **54A. Certain international trade marks protected in the European Union to be treated as registered trade marks**
 >
@@ -561,7 +561,7 @@ Article 2
 
 .
 
-**16.**[^key-4b0fbc4b84e2d89943bdba7467adb6c1] In section 55(1) (the Paris Convention)―
+**16.**[^c-4b0fbc4b84e2d89943bdba7467adb6c1] In section 55(1) (the Paris Convention)―
 
 - (a) in paragraph (a), at the end omit “and”;
 - (b) after paragraph (a) insert—
@@ -573,7 +573,7 @@ Article 2
 
 (2) In section 55(2), after “Paris Convention” insert “or the WTO agreement”.
 
-**17.**[^key-414c79defb258aa3d5eef25bc4cbac11] (1) In section 56(1) (protection of well-known trade marks)—
+**17.**[^c-414c79defb258aa3d5eef25bc4cbac11] (1) In section 56(1) (protection of well-known trade marks)—
 
 - (a) after “Paris Convention” insert “or the WTO agreement”;
 - (b) in paragraph (a), after “national of” insert “the United Kingdom or”;
@@ -601,13 +601,13 @@ Article 2
 
 **17A.** In sections 57(2) and (3) (national emblems etc. of Convention countries) and 58(2) (emblems etc. of certain international organisations) after “Paris Convention” insert “or the WTO agreement”.
 
-**18.**[^key-5707b17a26bc937633312e823f1bb2a0] In section 59 (notification under Article 6ter of the Convention), at the end insert―
+**18.**[^c-5707b17a26bc937633312e823f1bb2a0] In section 59 (notification under Article 6ter of the Convention), at the end insert―
 
 > (5) Any reference in this section to Article 6*ter* of the Paris Convention shall be construed as including a reference to that Article as applied by the WTO agreement.
 
 .
 
-**18A.**[^key-1e3b9afa83bcee372a3e8ae312fd780b] Omit section 60 (acts of agent or representative: Article 6septies).
+**18A.**[^c-1e3b9afa83bcee372a3e8ae312fd780b] Omit section 60 (acts of agent or representative: Article 6septies).
 
 **18B.** At the end of Part 2 insert—
 
@@ -624,15 +624,15 @@ Article 2
 
 .
 
-**19.**[^key-877086459794854c7b01a3b865eafdb6] Omit section 61 (stamp duty).
+**19.**[^c-877086459794854c7b01a3b865eafdb6] Omit section 61 (stamp duty).
 
-**20.**[^key-376435835f89c2136212c07aa848d318] In section 68(2) (costs and security for costs), at the end insert―
+**20.**[^c-376435835f89c2136212c07aa848d318] In section 68(2) (costs and security for costs), at the end insert―
 
 > - (c) in the Isle of Man, in the same way as an order of the court.
 
 .
 
-**21.**[^key-911d436354d0e17a25a38c6fb40df87e] In section 75 (the court)―
+**21.**[^c-911d436354d0e17a25a38c6fb40df87e] In section 75 (the court)―
 
 - (a) in paragraph (a), at the end omit “and”;
 - (b) after paragraph (b) insert—
@@ -643,7 +643,7 @@ Article 2
 
   .
 
-**22.**[^key-8c6f8ebdb733bd647198546938a59988] (1) Section 77 (persons appointed to hear appeals) is amended as follows.
+**22.**[^c-8c6f8ebdb733bd647198546938a59988] (1) Section 77 (persons appointed to hear appeals) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -661,11 +661,11 @@ Article 2
 
 (3) In subsection (4) for “Lord Advocate” substitute “Secretary of State”.
 
-**23.**[^key-a44259533037cbbd4509c24974f0bbb2] In section 83A(7)[^f00010] (regulation of trade mark attorneys), in paragraph (a) of the definition of “trade mark agency work”, after “United Kingdom” insert “or elsewhere”.
+**23.**[^c-a44259533037cbbd4509c24974f0bbb2] In section 83A(7)[^f00010] (regulation of trade mark attorneys), in paragraph (a) of the definition of “trade mark agency work”, after “United Kingdom” insert “or elsewhere”.
 
-**24.**[^key-fc9d069e26c5a564420e74076eb84a2b] In section 86(2) (use of the term “trade mark attorney”), after “1980” insert “, section 1 of the Legal Practitioners Registration Act 1986 (an Act of Tynwald)[^f00011]”.
+**24.**[^c-fc9d069e26c5a564420e74076eb84a2b] In section 86(2) (use of the term “trade mark attorney”), after “1980” insert “, section 1 of the Legal Practitioners Registration Act 1986 (an Act of Tynwald)[^f00011]”.
 
-**25.**[^key-6e1099524960920bc4c3b98e835c4293] In section 87 (privilege for communications)—
+**25.**[^c-6e1099524960920bc4c3b98e835c4293] In section 87 (privilege for communications)—
 
 - (a) in subsection (2), for “solicitor” substitute “advocate”;
 - (b) in subsection (3)—
@@ -681,7 +681,7 @@ Article 2
 
   .
 
-**25A.**[^key-e8367bb5a44665a35898b2fca498b82c] (1) Section 88 (power of registrar to refuse to deal with certain agents) is amended as follows.
+**25A.**[^c-e8367bb5a44665a35898b2fca498b82c] (1) Section 88 (power of registrar to refuse to deal with certain agents) is amended as follows.
 
 (2) In subsection (1)(b) for “an individual” substitute “a person”.
 
@@ -691,7 +691,7 @@ Article 2
 - (b) “him” substitute “the person”; and
 - (c) “his” substitute “the person’s”.
 
-**26.**[^key-ed666b893c09b11f2acb515d377701c9] (1) In section 89(1) (infringing goods etc. may be treated as prohibited goods)―
+**26.**[^c-ed666b893c09b11f2acb515d377701c9] (1) In section 89(1) (infringing goods etc. may be treated as prohibited goods)―
 
 - (a) for “Commissioners of Customs and Excise” substitute “Treasury”;
 - (b) in paragraph (b), for “United Kingdom” substitute “Isle of Man”;
@@ -699,13 +699,13 @@ Article 2
 
 (2) For section 89(3) substitute―
 
-> (3) This section does not apply to goods placed in, or expected to be placed in, one of the situations referred to in Article 3 of the European Customs Enforcement Regulation[^key-e226ce231ceff7ff5340050079b53fc7].
+> (3) This section does not apply to goods placed in, or expected to be placed in, one of the situations referred to in Article 3 of the European Customs Enforcement Regulation[^c-e226ce231ceff7ff5340050079b53fc7].
 >
 > (4) In this section and sections 90 and 91, “the Treasury” means the Department of that name established under the Government Departments Act 1987 (an Act of Tynwald)[^f00014].
 
 .
 
-**27.**[^key-4de051fb0a4eaee618de8fdcc5b6f11e] (1) In the side note to section 90 (powers of Commissioners to make regulations) and in section 90(1), (2) and (3), for “Commissioners of Customs and Excise” and “Commissioners” (in each place) substitute “Treasury”.
+**27.**[^c-4de051fb0a4eaee618de8fdcc5b6f11e] (1) In the side note to section 90 (powers of Commissioners to make regulations) and in section 90(1), (2) and (3), for “Commissioners of Customs and Excise” and “Commissioners” (in each place) substitute “Treasury”.
 
 (2) For section 90(4) substitute―
 
@@ -713,7 +713,7 @@ Article 2
 
 .
 
-**28.**[^key-2702b62f30c779db7b3c98dabaf056af] In section 91[^f00015] (power of Commissioners to disclose information)―
+**28.**[^c-2702b62f30c779db7b3c98dabaf056af] In section 91[^f00015] (power of Commissioners to disclose information)―
 
 - (a) in the side note, for “Commissioners for Revenue and Customs” substitute “Treasury”;
 - (b) for “Commissioners for Her Majesty’s Revenue and Customs” substitute “Treasury”;
@@ -721,13 +721,13 @@ Article 2
 - (d) for “Commissioners may authorise” substitute “Treasury may authorise”;
 - (e) for “Trade Descriptions Act 1968” substitute “Consumer Protection (Trade Descriptions) Act 1970 (an Act of Tynwald)[^f00016]”.
 
-**29.**[^key-5e72f06755eabc93f6208f334929f916] In section 92(6) (unauthorised use of trade mark, &c in relation to goods)—
+**29.**[^c-5e72f06755eabc93f6208f334929f916] In section 92(6) (unauthorised use of trade mark, &c in relation to goods)—
 
 - (a) for “imprisonment” (in each place) substitute “custody”;
 - (b) in paragraph (a), for “the statutory maximum” substitute “the prescribed sum within the meaning of section 32 of the Magistrates’ Courts Act 1980[^f00017]”;
 - (c) in paragraph (b), for “indictment” substitute “information”.
 
-**30.**[^key-936ed4e9a65d545fb9bd0b1e84b33833] (1) After section 92A(2)[^f00018] insert―
+**30.**[^c-936ed4e9a65d545fb9bd0b1e84b33833] (1) After section 92A(2)[^f00018] insert―
 
 > (2A) The power conferred by subsection (1) does not, in the Isle of Man, extend to authorising a search for material of the kinds mentioned in section 10(2) of the Police Powers and Procedures Act 1988 (an Act of Tynwald)[^f00019] (certain classes of personal or confidential material).
 
@@ -735,15 +735,15 @@ Article 2
 
 (2) In section 92A(3)(b), for “28 days” substitute “3 months”.
 
-**31.**[^key-520946c4d53883496db082fa284eba03] Omit section 93 (enforcement function of local weights and measures authority).
+**31.**[^c-520946c4d53883496db082fa284eba03] Omit section 93 (enforcement function of local weights and measures authority).
 
-**32.**[^key-5878f6eb9089e2654fa66e8803240d9f] In section 94(3) (falsification of register)—
+**32.**[^c-5878f6eb9089e2654fa66e8803240d9f] In section 94(3) (falsification of register)—
 
 - (a) for “imprisonment” (in each place) substitute “custody”;
 - (b) in paragraph (a), for “indictment” substitute “information”;
 - (c) in paragraph (b), for “the statutory maximum” substitute “the prescribed sum within the meaning of section 32 of the Magistrates’ Courts Act 1980”.
 
-**33.**[^key-95f067e56147a68d8f6308ecab0344f0] (1) In section 97 (forfeiture: England and Wales or Northern Ireland), in the side note and subsection (1), for “or Northern Ireland” substitute “, Northern Ireland or the Isle of Man”.
+**33.**[^c-95f067e56147a68d8f6308ecab0344f0] (1) In section 97 (forfeiture: England and Wales or Northern Ireland), in the side note and subsection (1), for “or Northern Ireland” substitute “, Northern Ireland or the Isle of Man”.
 
 (2) In section 97(2)(b), after “magistrates’ court” insert “or, in the Isle of Man, a court of summary jurisdiction”.
 
@@ -759,7 +759,7 @@ Article 2
 
 (4) In section 97(8), for “Trade Descriptions Act 1968” substitute “Consumer Protection (Trade Descriptions) Act 1970 (an Act of Tynwald)”.
 
-**33A.**[^key-61dd803a65c3d338fa6e38229c0e6cc6] After section 99 (unauthorised use of Royal arms, &c.), insert—
+**33A.**[^c-61dd803a65c3d338fa6e38229c0e6cc6] After section 99 (unauthorised use of Royal arms, &c.), insert—
 
 > **99A. Reproduction of trade marks in dictionaries, encyclopaedias etc.**
 >
@@ -780,18 +780,18 @@ Article 2
 
 .
 
-**34.**[^key-8bf199031016b06e6060a33c74d39fa7] In section 101(2)(b) (offences committed by partnerships and bodies corporate)―
+**34.**[^c-8bf199031016b06e6060a33c74d39fa7] In section 101(2)(b) (offences committed by partnerships and bodies corporate)―
 
 - (a) for “or Northern Ireland” substitute “, Northern Ireland or the Isle of Man”;
 - (b) after “1981” insert “or section 32 of the Summary Jurisdiction Act 1989 (an Act of Tynwald)”.
 
-**35.**[^key-070b93ddbbbee32d1d55a7f33ad5da61] In section 103 (minor definitions), omit subsection (3).
+**35.**[^c-070b93ddbbbee32d1d55a7f33ad5da61] In section 103 (minor definitions), omit subsection (3).
 
-**36.**[^key-44dc771123e8e4cdc8216e5c7d6424c6] (1) Section 104 (index of defined expressions) is amended at follows.
+**36.**[^c-44dc771123e8e4cdc8216e5c7d6424c6] (1) Section 104 (index of defined expressions) is amended at follows.
 
 (2) Omit the entries in the table for “Community trade mark” and “Community Trade Mark Regulation”.
 
-(2A)[^key-71eedc73ae0da2dd5dfa4e8930bea1c4] After the entry in the table for “commencement (of this Act)” insert—
+(2A)[^c-71eedc73ae0da2dd5dfa4e8930bea1c4] After the entry in the table for “commencement (of this Act)” insert—
 
 > |  |  |
 > | --- | --- |
@@ -835,11 +835,11 @@ Article 2
 
 .
 
-**37.**[^key-017debceeb32a63d979b35541496b86a] (1) Omit section 106 (consequential amendments and repeals) and Schedules 4 and 5.
+**37.**[^c-017debceeb32a63d979b35541496b86a] (1) Omit section 106 (consequential amendments and repeals) and Schedules 4 and 5.
 
 (2) Sub-paragraph (1), and the revocation (by article 3) of the Trade Marks Act 1994 (Isle of Man) Order 1996, do not affect any amendment or repeal effected by section 106 and Schedules 4 and 5 before the coming into operation of this Order.
 
-**38.**[^key-cf15fc019788b3169d56e9bf93795063] (1) Schedule 1 (collective marks) is amended as follows.
+**38.**[^c-cf15fc019788b3169d56e9bf93795063] (1) Schedule 1 (collective marks) is amended as follows.
 
 (2) In paragraph 5—
 
@@ -884,9 +884,9 @@ Article 2
 - (b) after “the provisions of” insert “section 49(1A) (definition of who may be registered as the proprietor of a certification mark) or”;
 - (c) after “6(1)” insert “unless the breach was only of paragraph 6(1) and the proprietor of the mark, by amending the regulations governing use, complies with the requirements of paragraph 6(1).
 
-**39.**[^key-ce80872d541378654ee45a66cd3f0c43] In Schedule 2, in paragraph 13(c) for “Commissioners of Customs and Excise” substitute “the Treasury”.
+**39.**[^c-ce80872d541378654ee45a66cd3f0c43] In Schedule 2, in paragraph 13(c) for “Commissioners of Customs and Excise” substitute “the Treasury”.
 
-**40.**[^key-40d6474ecbca45e8248c47b479dc8615] After Schedule 2, insert—
+**40.**[^c-40d6474ecbca45e8248c47b479dc8615] After Schedule 2, insert—
 
 > **SCHEDULE 2A — EUROPEAN UNION TRADE MARKS**
 >
@@ -2013,89 +2013,89 @@ Article 2
 
 ## Annotations
 
-[^key-cb49d70ef40e5ddc7dc6d562af781420]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-cb49d70ef40e5ddc7dc6d562af781420]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-bca1d62d55e6e5bce717dbc032f1a139]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/1A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/2)
+[^c-bca1d62d55e6e5bce717dbc032f1a139]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/1A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/2)
 
-[^key-33aab7fa50cb798c454e8876e5f25010]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/3)
+[^c-33aab7fa50cb798c454e8876e5f25010]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/3)
 
-[^key-c111cc8cc22f7e26f76ebe7d07de6e7c]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/3) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c111cc8cc22f7e26f76ebe7d07de6e7c]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/3) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bfd23d948e72aea9af574b376948b12]: Textual amendment: Word in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bfd23d948e72aea9af574b376948b12]: Textual amendment: Word in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b500ecfa74dbf2722a0425a8a086110]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b500ecfa74dbf2722a0425a8a086110]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-051adc242ddb560776ae5dbdfac2d741]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-051adc242ddb560776ae5dbdfac2d741]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-17149709afca059e97d35919796f1cd5]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17149709afca059e97d35919796f1cd5]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc1a250e5b6e49002be9267b0ceb4b93]: Textual amendment: Word in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc1a250e5b6e49002be9267b0ceb4b93]: Textual amendment: Word in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14b2d48b1d61b7ccfb362307ee64a798]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14b2d48b1d61b7ccfb362307ee64a798]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c2fd0584f0ada9622df4c413bf1c925]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c2fd0584f0ada9622df4c413bf1c925]: Textual amendment: Words in [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/2/4) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 2(b)(iii)(cc)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/2/b/cc); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee4c7c17d9998988d0f16a3193233fcb]: Textual amendment: Sch. paras. 3, 3A substituted for Sch. para. 3 (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/4)
+[^c-ee4c7c17d9998988d0f16a3193233fcb]: Textual amendment: Sch. paras. 3, 3A substituted for Sch. para. 3 (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/4)
 
-[^key-2a08f8d85973a99ca048aaea8b056e43]: Textual amendment: [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/2/b) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 3(2)(b)(c)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/2/b) (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a08f8d85973a99ca048aaea8b056e43]: Textual amendment: [Sch. para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/2/b) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 3(2)(b)(c)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/2/b) (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2ec7ae118440e65262bac1949be13a4]: Textual amendment: Words in [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/5) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2ec7ae118440e65262bac1949be13a4]: Textual amendment: Words in [Sch. para. 3(5)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/3/5) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d749b5b10d70b2d362558de3cd9a7b35]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/5)
+[^c-d749b5b10d70b2d362558de3cd9a7b35]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/5)
 
-[^key-cbcf791561ff32fa797993c0220a7232]: Textual amendment: [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/a) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbcf791561ff32fa797993c0220a7232]: Textual amendment: [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/a) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79102667b82b6fdda0a14cb15ffb8da4]: Textual amendment: [Sch. para. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/aa) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79102667b82b6fdda0a14cb15ffb8da4]: Textual amendment: [Sch. para. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/aa) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0bfc5a2406c1960a351e5d14b29ed7e6]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bfc5a2406c1960a351e5d14b29ed7e6]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(i)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e45fe318163f05b0574e6980a73b9ef]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e45fe318163f05b0574e6980a73b9ef]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b90fc171eab899baf5ec90f73750b55]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b90fc171eab899baf5ec90f73750b55]: Textual amendment: Words in [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2/b) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/c/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6cd8ac3dd2b1b7af7945cf6d767716f7]: Textual amendment: [Sch. para. 4(2A)-(2C)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6cd8ac3dd2b1b7af7945cf6d767716f7]: Textual amendment: [Sch. para. 4(2A)-(2C)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/4/2A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/4/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35f3e21f13492af07282e4742ce41e3c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-35f3e21f13492af07282e4742ce41e3c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-aba8f06e8b127d6cc8902888002e8369]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/a)
+[^c-aba8f06e8b127d6cc8902888002e8369]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/a)
 
-[^key-4b99957e3ef7397b11c3f9e5246ea39d]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/b)
+[^c-4b99957e3ef7397b11c3f9e5246ea39d]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/b)
 
-[^key-ded902d690497b9e248ed2e1596321e5]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/c)
+[^c-ded902d690497b9e248ed2e1596321e5]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/c)
 
-[^key-cf6b378e768aafa93513c2716c1056db]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/d/i)
+[^c-cf6b378e768aafa93513c2716c1056db]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/d/i)
 
-[^key-846a52b8f7b9fc2ca2e412f38bf664df]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/d/ii)
+[^c-846a52b8f7b9fc2ca2e412f38bf664df]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/d/ii)
 
-[^key-554ea65d7671dd864da9f7110aca75a7]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(e)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/e)
+[^c-554ea65d7671dd864da9f7110aca75a7]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(e)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/e)
 
-[^key-55c41c26b45f637f3d811900def43a4c]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(f)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/f)
+[^c-55c41c26b45f637f3d811900def43a4c]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 6(2)(f)](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/6/2/f)
 
-[^key-0d5774bb22d67a54ac7e182aab2a296b]: Textual amendment: [Sch. paras. 5A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5A), [5B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5B) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/7)
+[^c-0d5774bb22d67a54ac7e182aab2a296b]: Textual amendment: [Sch. paras. 5A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5A), [5B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/5B) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/7)
 
-[^key-54ee22b36859353b7bba0950b398826b]: Textual amendment: [Sch. paras. 6-6C](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 6](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6) (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/8)
+[^c-54ee22b36859353b7bba0950b398826b]: Textual amendment: [Sch. paras. 6-6C](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 6](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6) (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/8)
 
-[^key-fd2d93509e6a40f9f2f269d89b3e3861]: Textual amendment: Words in [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6A) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd2d93509e6a40f9f2f269d89b3e3861]: Textual amendment: Words in [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6A) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ab216fb5511b0cba34765b904b9a582]: Textual amendment: Words in [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ab216fb5511b0cba34765b904b9a582]: Textual amendment: Words in [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c9e3913601b295a91fbe0120a90fe98]: Textual amendment: Words in [Sch. para. 6B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6B) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c9e3913601b295a91fbe0120a90fe98]: Textual amendment: Words in [Sch. para. 6B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6B) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-69b8c15024b7368f9cc5edb328f104fb]: Textual amendment: Words in [Sch. para. 6B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6B) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69b8c15024b7368f9cc5edb328f104fb]: Textual amendment: Words in [Sch. para. 6B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6B) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb4c203e845e76a2e5a59e66778a4d46]: Textual amendment: [Sch. para. 6D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6D) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb4c203e845e76a2e5a59e66778a4d46]: Textual amendment: [Sch. para. 6D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/6D) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a5d847bc5a8c45775881fc55110f747]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-9a5d847bc5a8c45775881fc55110f747]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/7) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-9ac606e48b89733f6607d98dd6f90039]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/8) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ac606e48b89733f6607d98dd6f90039]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/8) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de7d0f2635bed2bebdb5c6341830628b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-de7d0f2635bed2bebdb5c6341830628b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/9) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00005]: Footnote: [1984 c.18](https://www.legislation.gov.uk/ukpga/1984/18) (Isle of Man).
 
-[^key-f78cf9f5b8a08cf454a48990b4415b73]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-f78cf9f5b8a08cf454a48990b4415b73]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-9c69b57175a86daa6777932a9997fe0a]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c69b57175a86daa6777932a9997fe0a]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: [1949 c.88](https://www.legislation.gov.uk/ukpga/1949/88). Section 24D is inserted in the Registered Designs Act 1949, as that Act has effect in the Isle of Man, by the Registered Designs (Isle of Man) Order 2013 ([S.I. 2013/1234](https://www.legislation.gov.uk/uksi/2013/1234)) Schedule 1 paragraph 28.
 
@@ -2105,104 +2105,104 @@ Article 2
 
 [^f00009]: Footnote: [1996 c.12](https://www.legislation.gov.uk/ukpga/1996/12) (Isle of Man).
 
-[^key-95d9b1a61ea05b033cb4f3468c1a6b95]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/9)
+[^c-95d9b1a61ea05b033cb4f3468c1a6b95]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/10A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/9)
 
-[^key-185272e7ab11cc51427bda00e75c4a80]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-185272e7ab11cc51427bda00e75c4a80]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/11) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-071f089c288cf6bebfd39321d1374980]: Textual amendment: [Sch. paras. 11A-11E](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/11A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/10)
+[^c-071f089c288cf6bebfd39321d1374980]: Textual amendment: [Sch. paras. 11A-11E](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/11A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/10)
 
-[^key-91f68604ddc70443d2d9710e28dd2902]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-91f68604ddc70443d2d9710e28dd2902]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/12) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-b29a15bf20474a526875afb2a3d6ab86]: Textual amendment: [Sch. paras. 12A-12C](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/12A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/11)
+[^c-b29a15bf20474a526875afb2a3d6ab86]: Textual amendment: [Sch. paras. 12A-12C](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/12A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/11)
 
-[^key-3964d932e330e0868b7a0cc2290c2c9b]: Textual amendment: [Sch. paras. 13-13D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 13](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13) (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/12)
+[^c-3964d932e330e0868b7a0cc2290c2c9b]: Textual amendment: [Sch. paras. 13-13D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13) substituted for [Sch.](https://www.legislation.gov.uk/uksi/2013/2601/schedule) [para. 13](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13) (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/12)
 
-[^key-6b45332765084ce0f4d65c4068a62751]: Textual amendment: Words in [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13/3) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b45332765084ce0f4d65c4068a62751]: Textual amendment: Words in [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13/3) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e14f5565dc07d1d8c423a60b926e7c57]: Textual amendment: Words in [Sch. para. 13D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13D) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e14f5565dc07d1d8c423a60b926e7c57]: Textual amendment: Words in [Sch. para. 13D](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/13D) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d2cde4bd5f7dd0780da32b10d5e529a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-0d2cde4bd5f7dd0780da32b10d5e529a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/14) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-565cda6cc6ebc2c09bf20e1dd76f0bac]: Textual amendment: [Sch. para. 14A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/14A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-565cda6cc6ebc2c09bf20e1dd76f0bac]: Textual amendment: [Sch. para. 14A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/14A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee0c920bc6efe15132f9145a1ba5095f]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/15) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee0c920bc6efe15132f9145a1ba5095f]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/15) omitted (31.12.2020) by virtue of [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a032d75a2b8fdeaca8388e00aa58d600]: Textual amendment: [Sch. para. 15A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/15A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a032d75a2b8fdeaca8388e00aa58d600]: Textual amendment: [Sch. para. 15A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/15A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b0fbc4b84e2d89943bdba7467adb6c1]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-4b0fbc4b84e2d89943bdba7467adb6c1]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/16) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-414c79defb258aa3d5eef25bc4cbac11]: Textual amendment: Sch. paras. 17, 17A substituted for Sch. para 17 (10.7.2025) by [The Trade Marks (Isle of Man) (Amendment) Order 2025 (S.I. 2025/679)](https://www.legislation.gov.uk/uksi/2025/679), [art. 1](https://www.legislation.gov.uk/uksi/2025/679/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2025/679/schedule/paragraph/2)
+[^c-414c79defb258aa3d5eef25bc4cbac11]: Textual amendment: Sch. paras. 17, 17A substituted for Sch. para 17 (10.7.2025) by [The Trade Marks (Isle of Man) (Amendment) Order 2025 (S.I. 2025/679)](https://www.legislation.gov.uk/uksi/2025/679), [art. 1](https://www.legislation.gov.uk/uksi/2025/679/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2025/679/schedule/paragraph/2)
 
-[^key-5707b17a26bc937633312e823f1bb2a0]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-5707b17a26bc937633312e823f1bb2a0]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-1e3b9afa83bcee372a3e8ae312fd780b]: Textual amendment: [Sch. paras. 18A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18A), [18B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18B) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/13)
+[^c-1e3b9afa83bcee372a3e8ae312fd780b]: Textual amendment: [Sch. paras. 18A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18A), [18B](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/18B) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/13)
 
-[^key-877086459794854c7b01a3b865eafdb6]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-877086459794854c7b01a3b865eafdb6]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/19) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-376435835f89c2136212c07aa848d318]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-376435835f89c2136212c07aa848d318]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/20) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-911d436354d0e17a25a38c6fb40df87e]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-911d436354d0e17a25a38c6fb40df87e]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/21) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-8c6f8ebdb733bd647198546938a59988]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/22) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/14)
+[^c-8c6f8ebdb733bd647198546938a59988]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/22) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/14)
 
-[^key-a44259533037cbbd4509c24974f0bbb2]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-a44259533037cbbd4509c24974f0bbb2]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/23) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00010]: Footnote: Section 83A was inserted by section 184(1) and (3) of the Legal Services Act [2007(c.29)](https://www.legislation.gov.uk/ukpga/2007/29) and amended by article 2 of [S.I. 2009/3339](https://www.legislation.gov.uk/uksi/2009/3339).
 
-[^key-fc9d069e26c5a564420e74076eb84a2b]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-fc9d069e26c5a564420e74076eb84a2b]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/24) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00011]: Footnote: [1986 c.15](https://www.legislation.gov.uk/ukpga/1986/15) (Isle of Man).
 
-[^key-6e1099524960920bc4c3b98e835c4293]: Textual amendment: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/25) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e1099524960920bc4c3b98e835c4293]: Textual amendment: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/25) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e8367bb5a44665a35898b2fca498b82c]: Textual amendment: [Sch. para. 25A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/25A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/15)
+[^c-e8367bb5a44665a35898b2fca498b82c]: Textual amendment: [Sch. para. 25A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/25A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/15)
 
-[^key-ed666b893c09b11f2acb515d377701c9]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-ed666b893c09b11f2acb515d377701c9]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/26) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-e226ce231ceff7ff5340050079b53fc7]: Textual amendment: Words in [Sch. para. 26(2)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/26/2) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/16)
+[^c-e226ce231ceff7ff5340050079b53fc7]: Textual amendment: Words in [Sch. para. 26(2)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/26/2) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/16)
 
 [^f00014]: Footnote: [1987 c.13](https://www.legislation.gov.uk/ukpga/1987/13) (Isle of Man).
 
-[^key-4de051fb0a4eaee618de8fdcc5b6f11e]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-4de051fb0a4eaee618de8fdcc5b6f11e]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/27) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-2702b62f30c779db7b3c98dabaf056af]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-2702b62f30c779db7b3c98dabaf056af]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/28) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00015]: Footnote: Section 91 was amended by section 50(6) of and paragraph 58 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
 [^f00016]: Footnote: [1970 c.2](https://www.legislation.gov.uk/ukpga/1970/2) (Isle of Man).
 
-[^key-5e72f06755eabc93f6208f334929f916]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-5e72f06755eabc93f6208f334929f916]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/29) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00017]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-936ed4e9a65d545fb9bd0b1e84b33833]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/30) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-936ed4e9a65d545fb9bd0b1e84b33833]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/30) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00018]: Footnote: Section 92A was inserted by section 6 of the.Copyright, etc. and Trade Marks (Offences and Enforcement) Act [2002 (c.25)](https://www.legislation.gov.uk/ukpga/2002/25).
 
 [^f00019]: Footnote: [1998 c.9](https://www.legislation.gov.uk/ukpga/1998/9) (Isle of Man).
 
-[^key-520946c4d53883496db082fa284eba03]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-520946c4d53883496db082fa284eba03]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/31) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-5878f6eb9089e2654fa66e8803240d9f]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-5878f6eb9089e2654fa66e8803240d9f]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/32) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-95f067e56147a68d8f6308ecab0344f0]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-95f067e56147a68d8f6308ecab0344f0]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/33) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
 [^f00020]: Footnote: [1989 c.15](https://www.legislation.gov.uk/ukpga/1989/15) (Isle of Man).
 
-[^key-61dd803a65c3d338fa6e38229c0e6cc6]: Textual amendment: [Sch. para. 33A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/33A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/17)
+[^c-61dd803a65c3d338fa6e38229c0e6cc6]: Textual amendment: [Sch. para. 33A](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/33A) inserted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/17)
 
-[^key-8bf199031016b06e6060a33c74d39fa7]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-8bf199031016b06e6060a33c74d39fa7]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/34) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-070b93ddbbbee32d1d55a7f33ad5da61]: Textual amendment: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/35) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-070b93ddbbbee32d1d55a7f33ad5da61]: Textual amendment: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/35) substituted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44dc771123e8e4cdc8216e5c7d6424c6]: Textual amendment: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/36) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/18)
+[^c-44dc771123e8e4cdc8216e5c7d6424c6]: Textual amendment: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/36) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/18)
 
-[^key-71eedc73ae0da2dd5dfa4e8930bea1c4]: Textual amendment: [Sch. para. 36(2A)-(2E)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/36/2A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71eedc73ae0da2dd5dfa4e8930bea1c4]: Textual amendment: [Sch. para. 36(2A)-(2E)](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/36/2A) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-017debceeb32a63d979b35541496b86a]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-017debceeb32a63d979b35541496b86a]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/37) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-cf15fc019788b3169d56e9bf93795063]: Textual amendment: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/38) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/19)
+[^c-cf15fc019788b3169d56e9bf93795063]: Textual amendment: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/38) substituted (14.1.2019) by [The Trade Marks (Isle of Man) (Amendment) Order 2018 (S.I. 2018/1157)](https://www.legislation.gov.uk/uksi/2018/1157), [art. 1](https://www.legislation.gov.uk/uksi/2018/1157/article/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/1157/schedule/paragraph/19)
 
-[^key-ce80872d541378654ee45a66cd3f0c43]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/39) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
+[^c-ce80872d541378654ee45a66cd3f0c43]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/39) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2601/article/1)
 
-[^key-40d6474ecbca45e8248c47b479dc8615]: Textual amendment: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/40) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40d6474ecbca45e8248c47b479dc8615]: Textual amendment: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2013/2601/schedule/paragraph/40) inserted (31.12.2020) by [The Registered Designs and Trade Marks (Isle of Man) (Amendment) (EU Exit) Order 2019 (S.I. 2019/1335)](https://www.legislation.gov.uk/uksi/2019/1335), [art. 1](https://www.legislation.gov.uk/uksi/2019/1335/article/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2019/1335/schedule/2/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

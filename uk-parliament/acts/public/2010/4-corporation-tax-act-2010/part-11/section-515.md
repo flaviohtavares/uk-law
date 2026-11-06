@@ -33,7 +33,7 @@ summary: ''
 - (c) the charitable company's attributable income and gains for the period (see section 493), and
 - (d) any non-taxable sums received by the charitable company in the period.
 
-(5) In subsection (4) “**non-taxable sums**” means donations [^key-4a5b80211f4db7898c6d9fce7bfc8451]... and other sums of a similar nature which, ignoring exemptions from corporation tax under this Part and under section 256 of TCGA 1992, are not liable to corporation tax.
+(5) In subsection (4) “**non-taxable sums**” means donations [^c-4a5b80211f4db7898c6d9fce7bfc8451]... and other sums of a similar nature which, ignoring exemptions from corporation tax under this Part and under section 256 of TCGA 1992, are not liable to corporation tax.
 
 (6) Any restrictions on the exemptions under this Part which result from sections 492(2) and 494 are to be ignored in calculating the amount mentioned in subsection (4)(a).
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a5b80211f4db7898c6d9fce7bfc8451]: Textual amendment: Word in [s. 515(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/515/5) omitted (with effect in accordance with s. 54(10) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/9)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)
+[^c-4a5b80211f4db7898c6d9fce7bfc8451]: Textual amendment: Word in [s. 515(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/515/5) omitted (with effect in accordance with s. 54(10) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/9)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)

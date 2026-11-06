@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**230.**[^key-7de319e1c526e8a739cfe5fd304ebb02] In Schedule 6 of the Public Services Ombudsman (Wales) Act 2005 (consequential amendments), in paragraph 76, omit sub-paragraph (b).
+**230.**[^c-7de319e1c526e8a739cfe5fd304ebb02] In Schedule 6 of the Public Services Ombudsman (Wales) Act 2005 (consequential amendments), in paragraph 76, omit sub-paragraph (b).
 
 ## Annotations
 
-[^key-7de319e1c526e8a739cfe5fd304ebb02]: Commencement: Reg. 230 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-7de319e1c526e8a739cfe5fd304ebb02]: Commencement: Reg. 230 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -24,14 +24,14 @@ Section 121
 
 ### Application of Schedule
 
-**1.**[^key-2e6057e2e6908bf0278d4a676dbf1341] This Schedule applies where—
+**1.**[^c-2e6057e2e6908bf0278d4a676dbf1341] This Schedule applies where—
 
 - (a) the court has made an FMI administration order in relation to a company (“the old company”), and
 - (b) it is proposed that a transfer within section 115(5) be made to another company (“the new company”).
 
 ### Interpretation of Schedule
 
-**2.**[^key-7650d99b521e2aceffe3c4011a08be2c] In this Schedule—
+**2.**[^c-7650d99b521e2aceffe3c4011a08be2c] In this Schedule—
 
 - “**FMI transfer scheme**” has the meaning given by paragraph 4(1);
 - “the new company” and “the old company” are to be read in accordance with paragraph 1;
@@ -39,11 +39,11 @@ Section 121
 
 ### FMI administrator to act on behalf of old company
 
-**3.**[^key-5be7e8151825e551a4cf23a235a5a8b6] It is for the FMI administrator, while the FMI administration order is in force, to act on behalf of the old company in the doing of anything that it is authorised or required to do by or under this Schedule.
+**3.**[^c-5be7e8151825e551a4cf23a235a5a8b6] It is for the FMI administrator, while the FMI administration order is in force, to act on behalf of the old company in the doing of anything that it is authorised or required to do by or under this Schedule.
 
 ### Making of FMI transfer schemes
 
-**4.**[^key-5fe6e5f6d282d263d619e031637f20b2] (1) The old company may—
+**4.**[^c-5fe6e5f6d282d263d619e031637f20b2] (1) The old company may—
 
 - (a) with the consent of the new company, and
 - (b) for the purpose of giving effect to the proposed transfer,
@@ -75,7 +75,7 @@ make a scheme under this Schedule for the transfer of property, rights and liabi
 
 ### Provision that may be made by a scheme
 
-**5.**[^key-e0157f26cf33652f62b24080c3610cb7] (1) An FMI transfer scheme may contain provision—
+**5.**[^c-e0157f26cf33652f62b24080c3610cb7] (1) An FMI transfer scheme may contain provision—
 
 - (a) for the creation, in favour of the old company or the new company, of an interest or right in or in relation to property transferred in accordance with the scheme;
 - (b) for giving effect to a transfer to the new company by the creation, in favour of that company, of an interest or right in or in relation to property retained by the old company;
@@ -88,8 +88,8 @@ make a scheme under this Schedule for the transfer of property, rights and liabi
 - (b) property acquired, and rights and liabilities arising, in the period after the making of the scheme but before it takes effect;
 - (c) rights and liabilities arising after it takes effect in respect of matters occurring before it takes effect;
 - (d) property situated anywhere in the United Kingdom or elsewhere;
-- (e) rights and liabilities under the law of a part of the United Kingdom or of a place outside the United Kingdom (including under legislation of the European Union)[^key-920080d3d17de662987efbbe57739fe4];
-- (f) rights and liabilities under an enactment[^key-4a9c2a56c82a63f00857b21fe7c7da23]... or subordinate legislation.
+- (e) rights and liabilities under the law of a part of the United Kingdom or of a place outside the United Kingdom (including under legislation of the European Union)[^c-920080d3d17de662987efbbe57739fe4];
+- (f) rights and liabilities under an enactment[^c-4a9c2a56c82a63f00857b21fe7c7da23]... or subordinate legislation.
 
 (3) The transfers to which effect may be given by an FMI transfer scheme include transfers of interests and rights that are to take effect in accordance with the scheme as if there were—
 
@@ -120,7 +120,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Further provision about transfers
 
-**6.**[^key-11cca1f51cb4de4b28b19b1ab185ffb1] (1) An FMI transfer scheme may make incidental, supplemental, consequential and transitional provision in connection with the other provisions of the scheme.
+**6.**[^c-11cca1f51cb4de4b28b19b1ab185ffb1] (1) An FMI transfer scheme may make incidental, supplemental, consequential and transitional provision in connection with the other provisions of the scheme.
 
 (2) An FMI transfer scheme may in particular make provision, in relation to a provision of the scheme—
 
@@ -153,7 +153,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Effect of scheme
 
-**7.**[^key-f95ca10dffbb647cab62576cda52749e] (1) In relation to each provision of an FMI transfer scheme for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
+**7.**[^c-f95ca10dffbb647cab62576cda52749e] (1) In relation to each provision of an FMI transfer scheme for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
 
 - (a) the property, interests, rights or liabilities become by virtue of this Schedule the property, interests, rights or liabilities of the transferee at the time appointed by the court for the purposes of paragraph 4(4), and
 - (b) the provisions of that scheme in relation to that property, or those interests, rights or liabilities, have effect from that time.
@@ -165,7 +165,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Subsequent modification of scheme
 
-**8.**[^key-4aa1e8b87c5de5edc89945eae26e045c] (1) The Bank of England may by notice to the old company and the new company modify an FMI transfer scheme after it has taken effect, but only modifications to which both the old company and the new company have consented may be made.
+**8.**[^c-4aa1e8b87c5de5edc89945eae26e045c] (1) The Bank of England may by notice to the old company and the new company modify an FMI transfer scheme after it has taken effect, but only modifications to which both the old company and the new company have consented may be made.
 
 (2) The notice must specify the time at which it is to take effect (the “modification time”).
 
@@ -187,7 +187,7 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Provision relating to foreign property
 
-**9.**[^key-364083ddae157c7d71ed4163e8852795] (1) An FMI transfer scheme may contain provision about—
+**9.**[^c-364083ddae157c7d71ed4163e8852795] (1) An FMI transfer scheme may contain provision about—
 
 - (a) the transfer of foreign property, right and liabilities, and
 - (b) the creation of foreign property, rights and liabilities.
@@ -196,33 +196,33 @@ as there would be, in the case of a transaction apart from this Act, by reason o
 
 ### Application of Schedule to transfers to subsidiaries
 
-**10.**[^key-2d6df91b40bc90978179c40cbfdd3f5c] Where a proposed transfer falling within subsection (5) of section 115 is a transfer of the kind mentioned in subsection (6)(a) of that section, this Schedule has effect in relation to the transfer as if—
+**10.**[^c-2d6df91b40bc90978179c40cbfdd3f5c] Where a proposed transfer falling within subsection (5) of section 115 is a transfer of the kind mentioned in subsection (6)(a) of that section, this Schedule has effect in relation to the transfer as if—
 
 - (a) paragraph 4(1)(a) were omitted, and
 - (b) in paragraph 4(6), for the words from “both” onwards there were substituted “ the old company has consented may be made ”.
 
 ## Annotations
 
-[^key-2e6057e2e6908bf0278d4a676dbf1341]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/1) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-2e6057e2e6908bf0278d4a676dbf1341]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/1) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-7650d99b521e2aceffe3c4011a08be2c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/2) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-7650d99b521e2aceffe3c4011a08be2c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/2) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-5be7e8151825e551a4cf23a235a5a8b6]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/3) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-5be7e8151825e551a4cf23a235a5a8b6]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/3) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-5fe6e5f6d282d263d619e031637f20b2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/4) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-5fe6e5f6d282d263d619e031637f20b2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/4) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-e0157f26cf33652f62b24080c3610cb7]: Commencement: Sch. 7 para. 5 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-e0157f26cf33652f62b24080c3610cb7]: Commencement: Sch. 7 para. 5 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-920080d3d17de662987efbbe57739fe4]: Textual amendment: Words in [Sch. 7 para. 5(2)(e)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/5/2/e) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-920080d3d17de662987efbbe57739fe4]: Textual amendment: Words in [Sch. 7 para. 5(2)(e)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/5/2/e) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/2/paragraph/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a9c2a56c82a63f00857b21fe7c7da23]: Textual amendment: Words in [Sch. 7 para. 5(2)(f)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/5/2/f) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a9c2a56c82a63f00857b21fe7c7da23]: Textual amendment: Words in [Sch. 7 para. 5(2)(f)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/5/2/f) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/2/paragraph/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11cca1f51cb4de4b28b19b1ab185ffb1]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/6) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-11cca1f51cb4de4b28b19b1ab185ffb1]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/6) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-f95ca10dffbb647cab62576cda52749e]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/7) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-f95ca10dffbb647cab62576cda52749e]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/7) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-4aa1e8b87c5de5edc89945eae26e045c]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/8) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-4aa1e8b87c5de5edc89945eae26e045c]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/8) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-364083ddae157c7d71ed4163e8852795]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/9) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-364083ddae157c7d71ed4163e8852795]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/9) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-2d6df91b40bc90978179c40cbfdd3f5c]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/10) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-2d6df91b40bc90978179c40cbfdd3f5c]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/10) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

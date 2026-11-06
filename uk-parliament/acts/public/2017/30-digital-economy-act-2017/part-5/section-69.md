@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Information disclosed by Revenue Scotland[^key-3f04c05aaf92d64e7dd2ae920e884b6a][^key-996e709702a140d8975d1edea2d212ee]
+## 69. Information disclosed by Revenue Scotland[^c-3f04c05aaf92d64e7dd2ae920e884b6a][^c-996e709702a140d8975d1edea2d212ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f04c05aaf92d64e7dd2ae920e884b6a]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2017/30/section/69) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-3f04c05aaf92d64e7dd2ae920e884b6a]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2017/30/section/69) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-996e709702a140d8975d1edea2d212ee]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2017/30/section/69) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ff)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ff)
+[^c-996e709702a140d8975d1edea2d212ee]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2017/30/section/69) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ff)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ff)

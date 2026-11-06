@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Transfer of property, rights and liabilities[^key-36551f3490eae7d9e509d3a120fc5087]
+## 50. Transfer of property, rights and liabilities[^c-36551f3490eae7d9e509d3a120fc5087]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36551f3490eae7d9e509d3a120fc5087]: Commencement: Art. 50 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-36551f3490eae7d9e509d3a120fc5087]: Commencement: Art. 50 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

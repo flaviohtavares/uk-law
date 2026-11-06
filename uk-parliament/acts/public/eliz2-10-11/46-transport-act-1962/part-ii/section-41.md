@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Nothing in section twelve of the [^c4792781]Finance Act 1895 (which requires Acts to be stamped as conveyances on sale in certain cases) [^key-40f52f453ffe12305b376aba48b913f1]... shall be taken as applying to this Act.
+(1) Nothing in section twelve of the [^c4792781]Finance Act 1895 (which requires Acts to be stamped as conveyances on sale in certain cases) [^c-40f52f453ffe12305b376aba48b913f1]... shall be taken as applying to this Act.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c4792801]
 
@@ -39,7 +39,7 @@ Provided that no such instrument as is mentioned in paragraph (b) of this subsec
 
 [^c4792781]: Marginal citation: [1895 c. 16](https://www.legislation.gov.uk/ukpga/1895/16).
 
-[^key-40f52f453ffe12305b376aba48b913f1]: Textual amendment: Words in s. 41(1) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/1/2/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-40f52f453ffe12305b376aba48b913f1]: Textual amendment: Words in s. 41(1) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/1/2/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c4792801]: Textual amendment: S. 41(2) repealed by [Finance Act 1973 (c. 51)](https://www.legislation.gov.uk/ukpga/1973/51), [s. 59(7)](https://www.legislation.gov.uk/ukpga/1973/51/section/59/7), [Sch. 22 Pt. V](https://www.legislation.gov.uk/ukpga/1973/51/schedule/22/part/V)
 

@@ -27,7 +27,7 @@ summary: ''
 
 (2) For the purposes of subsection (1)(a) an interim authority notice ceases to have effect when it is cancelled under section 48 or withdrawn.
 
-(3) Notwithstanding the lapsing of the licence, a person mentioned in section 16(1) (and who would, where applicable, satisfy subsections (2) and (2A) of section 42)[^key-3abc22274ca471cfac4afecb85cb52bb] may apply under section 42 for the transfer of the licence to him provided that the application—
+(3) Notwithstanding the lapsing of the licence, a person mentioned in section 16(1) (and who would, where applicable, satisfy subsections (2) and (2A) of section 42)[^c-3abc22274ca471cfac4afecb85cb52bb] may apply under section 42 for the transfer of the licence to him provided that the application—
 
 - (a) is made no later than 28 days[^c21001811] after the day the licence lapsed, and
 - (b) is one to which section 43(1)(a) applies.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3abc22274ca471cfac4afecb85cb52bb]: Textual amendment: Words in [s. 50(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/50/3) substituted (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/11); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-3abc22274ca471cfac4afecb85cb52bb]: Textual amendment: Words in [s. 50(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/50/3) substituted (6.4.2017) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/11); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
 [^c21001811]: Textual amendment: Words in s. 50(3)(a) substituted (1.10.2010) by [The Legislative Reform (Licensing) (Interim Authority Notices etc) Order 2010 (S.I. 2010/2452)](https://www.legislation.gov.uk/uksi/2010/2452), [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/2452/article/2/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2452/article/4))

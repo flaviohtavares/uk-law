@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 22(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 39 of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-fb2401c983b327ec4a6d5e4ec8553b8f]
+## 1. Citation, commencement and interpretation[^c-fb2401c983b327ec4a6d5e4ec8553b8f]
 
 (1) These Regulations may be cited as the Social Security (Credits and Contributions) (Jobseeker’s Allowance Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 7th October 1996.
 
@@ -48,7 +48,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act 1978[^f00004] shall apply to these Regulations as it applies to an Act of the United Kingdom Parliament.
 
-## 2. Amendment of the Credits Regulations[^key-613c3e930210765f5f2fadd350925a13]
+## 2. Amendment of the Credits Regulations[^c-613c3e930210765f5f2fadd350925a13]
 
 (1) The Credits Regulations shall be amended in accordance with paragraphs (2) to (8) of this regulation.
 
@@ -176,7 +176,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (8) In regulation 9A[^f00023] (credits for persons approaching pensionable age) paragraph (4) shall be omitted.
 
-## 3. Amendment of the Social Security (Contributions) Regulations[^key-997708020fdbaf8e08499537311f64d0]
+## 3. Amendment of the Social Security (Contributions) Regulations[^c-997708020fdbaf8e08499537311f64d0]
 
 (1) The Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00024] shall be amended in accordance with paragraphs (2) to (6) of this regulation.
 
@@ -234,7 +234,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (6) In regulation 96(*c*)[^f00031] and (*e*) (modification in relation to share fishermen) for “unemployment benefit” there shall be substituted “a contribution-based jobseeker’s allowance”.
 
-## 4. Savings and transitional provisions[^key-16a70736073f8dbfa313c15c1ceae6eb]
+## 4. Savings and transitional provisions[^c-16a70736073f8dbfa313c15c1ceae6eb]
 
 (1) For the purposes of determining whether a person is entitled to be credited with earnings in respect of any period before the coming into operation of these Regulations, regulation 9(1) to (8) of the Credits Regulations (credits for unemployment or incapacity for work) shall continue to have effect as if the amendments made by these Regulations had not come into operation.
 
@@ -245,7 +245,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) In spite of regulation 8A of the Credits Regulations (credits for unemployment), as inserted by regulation 2(6) of these Regulations, a person to whom the transitionally protected period defined in regulation 9 of the Jobseeker’s Allowance (Transitional Provisions) Regulations (Northern Ireland) 1996[^f00032] (transitionally protected period) applies shall not be entitled to be credited with earnings in respect of a week falling within that period during which he is engaged in employment for 16 hours or more.
 
-## 5. Revocations[^key-ede42480d183d677f3e7bce7440c51fb]
+## 5. Revocations[^c-ede42480d183d677f3e7bce7440c51fb]
 
 The Regulations specified in column (1) of the Schedule to these Regulations are hereby revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -255,7 +255,7 @@ John O'Neill
 
 Assistant Secretary
 
-## SCHEDULE — Revocations[^key-5f9b4ac82266d3c7c522e16ea9a921dd]
+## SCHEDULE — Revocations[^c-5f9b4ac82266d3c7c522e16ea9a921dd]
 
 Regulation 5
 
@@ -307,13 +307,13 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00002]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-fb2401c983b327ec4a6d5e4ec8553b8f]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
+[^c-fb2401c983b327ec4a6d5e4ec8553b8f]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); relevant amending regulations are [S.R. 1976 Nos. 99](https://www.legislation.gov.uk/nisr/1976/99) and [321](https://www.legislation.gov.uk/nisr/1976/321), [S.R. 1977 No. 132](https://www.legislation.gov.uk/nisr/1977/132), [S.R. 1978 No. 77](https://www.legislation.gov.uk/nisr/1978/77), [S.R. 1982 No. 42](https://www.legislation.gov.uk/nisr/1982/42), [S.R. 1983 Nos. 31](https://www.legislation.gov.uk/nisr/1983/31) and [76](https://www.legislation.gov.uk/nisr/1983/76), [S.R. 1987 Nos. 153](https://www.legislation.gov.uk/nisr/1987/153) and [220](https://www.legislation.gov.uk/nisr/1987/220), [S.R. 1988 Nos. 105](https://www.legislation.gov.uk/nisr/1988/105), [276](https://www.legislation.gov.uk/nisr/1988/276) and [326](https://www.legislation.gov.uk/nisr/1988/326), [S.R. 1989 No. 368](https://www.legislation.gov.uk/nisr/1989/368), [S.R. 1991 No. 528](https://www.legislation.gov.uk/nisr/1991/528), [S.R. 1992 No. 135](https://www.legislation.gov.uk/nisr/1992/135), [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65) and [265](https://www.legislation.gov.uk/nisr/1994/265) and [S.R. 1995 Nos. 150](https://www.legislation.gov.uk/nisr/1995/150) and [479](https://www.legislation.gov.uk/nisr/1995/479)
 
 [^f00004]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30)
 
-[^key-613c3e930210765f5f2fadd350925a13]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
+[^c-613c3e930210765f5f2fadd350925a13]: Commencement: Reg. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
 
 [^f00005]: Footnote: Definitions of “charity”, “city, borough or district council” and “Health and Social Services Board” were inserted by [S.R. 1982 No. 42](https://www.legislation.gov.uk/nisr/1982/42); definitions of “councillor” and “Education and Library Board” were inserted by [S.R. 1987 No. 220](https://www.legislation.gov.uk/nisr/1987/220); definition of “HSS trust” was added by [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
 
@@ -353,7 +353,7 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00023]: Footnote: Regulation 9A was substituted by [S.R. 1994 No. 265](https://www.legislation.gov.uk/nisr/1994/265)
 
-[^key-997708020fdbaf8e08499537311f64d0]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
+[^c-997708020fdbaf8e08499537311f64d0]: Commencement: Reg. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
 
 [^f00024]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1985 No. 61](https://www.legislation.gov.uk/nisr/1985/61), [S.R. 1987 Nos. 143](https://www.legislation.gov.uk/nisr/1987/143) and [468](https://www.legislation.gov.uk/nisr/1987/468), [S.R. 1990 No. 320](https://www.legislation.gov.uk/nisr/1990/320), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 58](https://www.legislation.gov.uk/nisr/1996/58)
 
@@ -371,10 +371,10 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00031]: Footnote: Paragraph (*c*) was amended by [S.R. 1996 No. 58](https://www.legislation.gov.uk/nisr/1996/58)
 
-[^key-16a70736073f8dbfa313c15c1ceae6eb]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
+[^c-16a70736073f8dbfa313c15c1ceae6eb]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
 
 [^f00032]: Footnote: [S.R. 1996 No. 200](https://www.legislation.gov.uk/nisr/1996/200); relevant amending regulations are [S.R. 1996 No. 357](https://www.legislation.gov.uk/nisr/1996/357)
 
-[^key-ede42480d183d677f3e7bce7440c51fb]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
+[^c-ede42480d183d677f3e7bce7440c51fb]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
 
-[^key-5f9b4ac82266d3c7c522e16ea9a921dd]: Commencement: Sch. in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)
+[^c-5f9b4ac82266d3c7c522e16ea9a921dd]: Commencement: Sch. in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/430/regulation/1/1)

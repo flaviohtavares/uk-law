@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. The Tribunal[^key-fa18d42996b8cd9c4cc6becc71a1b5fe]
+## 11. The Tribunal[^c-fa18d42996b8cd9c4cc6becc71a1b5fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa18d42996b8cd9c4cc6becc71a1b5fe]: Textual amendment: Reg. 11 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/18)
+[^c-fa18d42996b8cd9c4cc6becc71a1b5fe]: Textual amendment: Reg. 11 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 18](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/18)

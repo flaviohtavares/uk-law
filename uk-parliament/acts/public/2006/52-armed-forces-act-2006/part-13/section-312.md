@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312. Decisions of court under section 309: making and effect[^key-dcf1b9390c686c7f4e5529bfae6e3f8e][^key-5c2d796c666afb1072cd2877fd92d5ae]
+## 312. Decisions of court under section 309: making and effect[^c-dcf1b9390c686c7f4e5529bfae6e3f8e][^c-5c2d796c666afb1072cd2877fd92d5ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ applies in relation to a decision of the Summary Appeal Court or the Court Marti
 
 ## Annotations
 
-[^key-dcf1b9390c686c7f4e5529bfae6e3f8e]: Commencement: S. 312 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-dcf1b9390c686c7f4e5529bfae6e3f8e]: Commencement: S. 312 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5c2d796c666afb1072cd2877fd92d5ae]: Commencement: S. 312 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5c2d796c666afb1072cd2877fd92d5ae]: Commencement: S. 312 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Further provision about regulations under section 74[^key-e4cd3fd3a84e01bdd8d895ae3e9556bc][^key-afb238dcf158d4f19bec7f85fbd221eb]
+## 76. Further provision about regulations under section 74[^c-e4cd3fd3a84e01bdd8d895ae3e9556bc][^c-afb238dcf158d4f19bec7f85fbd221eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ where the authority has reasonable grounds for suspecting that the manufacturer 
 
 ## Annotations
 
-[^key-e4cd3fd3a84e01bdd8d895ae3e9556bc]: Commencement: S. 76 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-e4cd3fd3a84e01bdd8d895ae3e9556bc]: Commencement: S. 76 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-afb238dcf158d4f19bec7f85fbd221eb]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2021/30/section/76) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)
+[^c-afb238dcf158d4f19bec7f85fbd221eb]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2021/30/section/76) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)

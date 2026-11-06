@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Restriction on appeals against enforcement notices[^key-ebd2a46cf5a5d3dd3ad6116ec4c24849][^key-f3bef79711f88fb4068e12e9f83933eb]
+## 118. Restriction on appeals against enforcement notices[^c-ebd2a46cf5a5d3dd3ad6116ec4c24849][^c-f3bef79711f88fb4068e12e9f83933eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ In section 174 of TCPA 1990 (appeal against enforcement notice), for subsections
 
 ## Annotations
 
-[^key-ebd2a46cf5a5d3dd3ad6116ec4c24849]: Commencement: S. 118 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-ebd2a46cf5a5d3dd3ad6116ec4c24849]: Commencement: S. 118 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-f3bef79711f88fb4068e12e9f83933eb]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2023/55/section/118) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/452/regulation/7))
+[^c-f3bef79711f88fb4068e12e9f83933eb]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2023/55/section/118) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/452/regulation/7))

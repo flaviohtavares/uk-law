@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Notice of meeting by individual notice: when and where sent[^key-d065b2ceba7544d59acffcc8b3e3e37c]
+## 35. Notice of meeting by individual notice: when and where sent[^c-d065b2ceba7544d59acffcc8b3e3e37c]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d065b2ceba7544d59acffcc8b3e3e37c]: Commencement: Rule 35 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d065b2ceba7544d59acffcc8b3e3e37c]: Commencement: Rule 35 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

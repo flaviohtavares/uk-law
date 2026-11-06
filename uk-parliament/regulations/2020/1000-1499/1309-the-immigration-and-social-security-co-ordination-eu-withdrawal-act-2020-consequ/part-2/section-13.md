@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment and saving of the Nationality, Immigration and Asylum Act 2002[^key-7cbff87607182c40fb5e466c5b561247][^M_I_6620eb48-df06-4641-e10c-089737dd60cc]
+## 13. Amendment and saving of the Nationality, Immigration and Asylum Act 2002[^c-7cbff87607182c40fb5e466c5b561247][^M_I_6620eb48-df06-4641-e10c-089737dd60cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7cbff87607182c40fb5e466c5b561247]: Commencement: Reg. 13 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-7cbff87607182c40fb5e466c5b561247]: Commencement: Reg. 13 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_6620eb48-df06-4641-e10c-089737dd60cc]: Commencement: Reg. 13 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Sheep Annual Premium (Amendment) (Wales) Regulations 2003 (revoked)[^key-c5bf44822ecabaa20de588921c9f5a39]
+The Sheep Annual Premium (Amendment) (Wales) Regulations 2003 (revoked)[^c-c5bf44822ecabaa20de588921c9f5a39]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 3rd February 2003
 
-[^key-c5bf44822ecabaa20de588921c9f5a39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5bf44822ecabaa20de588921c9f5a39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c5bf44822ecabaa20de588921c9f5a39]
+## 1. Title and commencement[^c-c5bf44822ecabaa20de588921c9f5a39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c5bf44822ecabaa20de588921c9f5a39]
+## 2. Interpretation[^c-c5bf44822ecabaa20de588921c9f5a39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-c5bf44822ecabaa20de588921c9f5a39]
+## 3. Amendment of the principal Regulations[^c-c5bf44822ecabaa20de588921c9f5a39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5bf44822ecabaa20de588921c9f5a39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5bf44822ecabaa20de588921c9f5a39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5bf44822ecabaa20de588921c9f5a39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5bf44822ecabaa20de588921c9f5a39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5bf44822ecabaa20de588921c9f5a39]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/uksi/2005/360), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/360/schedule) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/2), [14(8)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/8))
+[^c-c5bf44822ecabaa20de588921c9f5a39]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes (Wales) Regulations 2005 (S.I. 2005/360)](https://www.legislation.gov.uk/uksi/2005/360), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/360/schedule) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/360/regulation/1/2), [14(8)](https://www.legislation.gov.uk/uksi/2005/360/regulation/14/8))

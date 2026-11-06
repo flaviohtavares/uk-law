@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Rights of creditors[^key-845001b90c48f88051c2073c47f2a3b3]
+## 84. Rights of creditors[^c-845001b90c48f88051c2073c47f2a3b3]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ do not affect the right of any creditor who, when the contract was made or the e
 
 ## Annotations
 
-[^key-845001b90c48f88051c2073c47f2a3b3]: Commencement: Art. 84 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-845001b90c48f88051c2073c47f2a3b3]: Commencement: Art. 84 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

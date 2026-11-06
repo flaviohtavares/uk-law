@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 367. Amendment of Annex 5 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^key-316daf8c4e9f47841b1740ef54860bc7]
+## 367. Amendment of Annex 5 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^c-316daf8c4e9f47841b1740ef54860bc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) in point SPA.GEN.100—
   - (i) in the heading, for “competent authority” substitute “foreign aircraft”;
   - (ii) omit point (a);
-  - (iii) in point (b), for “Notwithstanding point[^key-8f4c7fc2c3702281dfc03252020a397d] (a)(2), for” substitute “For”;
+  - (iii) in point (b), for “Notwithstanding point[^c-8f4c7fc2c3702281dfc03252020a397d] (a)(2), for” substitute “For”;
 - (b) in points SPA.GEN.105 and SPA.GEN.115, in each place the words occur, for “competent authority” substitute “CAA”.
 
 (3) In the following Subparts, in each place the words occur, for “competent authority” substitute “CAA”—
@@ -52,12 +52,12 @@ summary: ''
 
 (5) In Subpart L (single-engined turbine aeroplane operations at night or in instrument meteorological conditions), in each place the words occur, for “competent authority” substitute “CAA”.
 
-(6)[^key-75d48d9d784ad6d7dd3bbf37ecc27bbb] In Subpart M (electronic flight bags (EFBs)), in both places the words occur, for “competent authority” substitute “ CAA ”.
+(6)[^c-75d48d9d784ad6d7dd3bbf37ecc27bbb] In Subpart M (electronic flight bags (EFBs)), in both places the words occur, for “competent authority” substitute “ CAA ”.
 
 ## Annotations
 
-[^key-316daf8c4e9f47841b1740ef54860bc7]: Commencement: Reg. 367 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-316daf8c4e9f47841b1740ef54860bc7]: Commencement: Reg. 367 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8f4c7fc2c3702281dfc03252020a397d]: Textual amendment: Word in reg. 367(2)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [46](https://www.legislation.gov.uk/uksi/2020/1116/regulation/46)
+[^c-8f4c7fc2c3702281dfc03252020a397d]: Textual amendment: Word in reg. 367(2)(a)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [46](https://www.legislation.gov.uk/uksi/2020/1116/regulation/46)
 
-[^key-75d48d9d784ad6d7dd3bbf37ecc27bbb]: Textual amendment: Reg. 367(6) inserted (31.12.2020 immediately before exit day) by [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2019/1098/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75d48d9d784ad6d7dd3bbf37ecc27bbb]: Textual amendment: Reg. 367(6) inserted (31.12.2020 immediately before exit day) by [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2019/1098/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

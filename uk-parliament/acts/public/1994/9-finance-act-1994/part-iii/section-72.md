@@ -33,7 +33,7 @@ summary: ''
 - (a) the payment is chargeable to tax at the higher rate by virtue of section 52A above; or
 - (b) the amount is charged under a separate contract and is identified in writing to the insured as a separate amount so charged.
 
-(1AA)[^key-c0ae92c1e1855e57e1c83d0bb3d0813a] A contract (“the relevant contract”) is not to be regarded as a separate contract for the purposes of subsection (1A) above if conditions A to D are met.
+(1AA)[^c-c0ae92c1e1855e57e1c83d0bb3d0813a] A contract (“the relevant contract”) is not to be regarded as a separate contract for the purposes of subsection (1A) above if conditions A to D are met.
 
 (1AB) Condition A is that the insured is an individual (“I”) and enters into the taxable insurance contract in a personal capacity.
 
@@ -49,7 +49,7 @@ summary: ''
 
 (1AE) Condition D is that the amount charged to I under the taxable insurance contract is arrived at without a comprehensive assessment having been undertaken of the individual circumstances of I which might affect the level of risk.
 
-(1B)[^key-d9c67a418b479133244e81235d692456] Where—
+(1B)[^c-d9c67a418b479133244e81235d692456] Where—
 
 - (a) an amount is charged (to the insured or any other person) in respect of the acquisition of a right (whether of the insured or any other person) to require the insurer to provide, or offer to provide, any of the cover included in a taxable insurance contract, and
 - (b) any payment in respect of that amount is not regarded as a payment received under that contract by the insurer by virtue of subsection (1A) above,
@@ -90,7 +90,7 @@ in determining for the purposes of subsection (7) above whether, or how much of,
 
 (9) References in subsection (8) above to a payment include references to a payment in a form other than money.
 
-(9A)[^key-e190724d98ee042b8416edd442bea682] Provision may be made by order amending subsections (1AA) to (1AE) above.
+(9A)[^c-e190724d98ee042b8416edd442bea682] Provision may be made by order amending subsections (1AA) to (1AE) above.
 
 (10) This section has effect for the purposes of this Part.
 
@@ -98,12 +98,12 @@ in determining for the purposes of subsection (7) above whether, or how much of,
 
 [^c14453751]: Textual amendment: S. 72(1A) inserted (19.3.1997 with effect as mentioned in [s. 28(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/28/2) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 28(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/28/1)
 
-[^key-c0ae92c1e1855e57e1c83d0bb3d0813a]: Textual amendment: S. 72(1AA)-(1AE) inserted (8.4.2010) (with effect in accordance with s. 51(6) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/51/3)
+[^c-c0ae92c1e1855e57e1c83d0bb3d0813a]: Textual amendment: S. 72(1AA)-(1AE) inserted (8.4.2010) (with effect in accordance with s. 51(6) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/51/3)
 
-[^key-d9c67a418b479133244e81235d692456]: Textual amendment: S. 72(1B) inserted (19.7.2007 with effect in accordance with s. 101(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 101(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/101/1)
+[^c-d9c67a418b479133244e81235d692456]: Textual amendment: S. 72(1B) inserted (19.7.2007 with effect in accordance with s. 101(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 101(1)](https://www.legislation.gov.uk/ukpga/2007/11/section/101/1)
 
 [^c14453761]: Textual amendment: S. 72(7A) inserted (19.3.1997 with effect as mentioned in [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/16/section/30/3) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 30(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/30/1)
 
 [^c14453771]: Textual amendment: S. 72(8A) inserted (19.3.1997 with effect as mentioned in [s. 30(3)](https://www.legislation.gov.uk/ukpga/1997/16/section/30/3) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 30(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/30/2)
 
-[^key-e190724d98ee042b8416edd442bea682]: Textual amendment: S. 72(9A) inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/51/4)
+[^c-e190724d98ee042b8416edd442bea682]: Textual amendment: S. 72(9A) inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/51/4)

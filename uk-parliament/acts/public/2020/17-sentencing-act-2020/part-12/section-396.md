@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396. Execution of process between England and Wales and Scotland[^key-8eed6dfa8a239851fc274d8f4c43a200]
+## 396. Execution of process between England and Wales and Scotland[^c-8eed6dfa8a239851fc274d8f4c43a200]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Section 4 of the Summary Jurisdiction (Process) Act 1881 (execution of process o
 
 ## Annotations
 
-[^key-8eed6dfa8a239851fc274d8f4c43a200]: Commencement: S. 396 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8eed6dfa8a239851fc274d8f4c43a200]: Commencement: S. 396 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

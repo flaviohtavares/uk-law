@@ -22,7 +22,7 @@ summary: ''
 
 Article 17
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-f0de5617e57246083a8a3aed89347bfa]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-f0de5617e57246083a8a3aed89347bfa]
 
 | (1) Area | (2) Public rights of way to be stopped up | (3) Extent of stopping up | (4) New public right of way to be substituted |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@ Article 17
 | Ashford Borough Council | AE657 and AE656 | Part of AE657 and part of AE656 to be stopped up, shown as FTD-12 and FTD-13 on sheet 3 of the streets, rights of way and access plans. | FNR-12, shown on sheet 3 of the streets, rights of way and access plans. |
 | Ashford Borough Council | AE475 | Part of footpath to be stopped up, shown as FTD-11 on sheet 4 of the streets, rights of way and access plans. | FNR-11, shown on sheet 4 of the streets, rights of way and access plans. |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-947bc82ce9ff86e0ac54757220946bab]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-947bc82ce9ff86e0ac54757220946bab]
 
 | (1) Area | (2) Public right of way to be closed | (3) Extent of closure | (4) New public right of way to be substituted |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Article 17
 | Ashford Borough Council | AE436 | Part of footpath to be closed, shown as FTD-9 on sheets 2 and 3 of the streets, rights of way and access plans. | FNR-9, shown on sheets 2 and 3 of the streets, rights of way and access plans. |
 | Ashford Borough Council | AE454 | Entire footpath to be closed, shown as FTD-10 on sheet 4 of the streets, rights of way and access plans. | FNR-10, shown on sheet 4 of the streets, rights of way and access plans. |
 
-### PART 3 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-0015a3a91c9eebb756c1a303a60603f2]
+### PART 3 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-0015a3a91c9eebb756c1a303a60603f2]
 
 | (1) Area | (2) Public right of way to be stopped up | (3) Extent of stopping up |
 | --- | --- | --- |
@@ -53,8 +53,8 @@ Article 17
 
 ## Annotations
 
-[^key-f0de5617e57246083a8a3aed89347bfa]: Commencement: Sch. 8 Pt. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-f0de5617e57246083a8a3aed89347bfa]: Commencement: Sch. 8 Pt. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-947bc82ce9ff86e0ac54757220946bab]: Commencement: Sch. 8 Pt. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-947bc82ce9ff86e0ac54757220946bab]: Commencement: Sch. 8 Pt. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-0015a3a91c9eebb756c1a303a60603f2]: Commencement: Sch. 8 Pt. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-0015a3a91c9eebb756c1a303a60603f2]: Commencement: Sch. 8 Pt. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

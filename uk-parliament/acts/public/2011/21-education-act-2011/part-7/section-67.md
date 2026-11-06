@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Abolition of the YPLA: consequential amendments[^key-df8e2ecb91c00ddba700b5ff8a621694]
+## 67. Abolition of the YPLA: consequential amendments[^c-df8e2ecb91c00ddba700b5ff8a621694]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df8e2ecb91c00ddba700b5ff8a621694]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2011/21/section/67) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-df8e2ecb91c00ddba700b5ff8a621694]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2011/21/section/67) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

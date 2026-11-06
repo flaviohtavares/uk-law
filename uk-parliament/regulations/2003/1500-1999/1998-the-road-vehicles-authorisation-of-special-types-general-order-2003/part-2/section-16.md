@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Visibility and marking of forward, rearward and lateral projections of loads etc[^key-4c6627a145200a877a0a426cb58b3242]
+## 16. Visibility and marking of forward, rearward and lateral projections of loads etc[^c-4c6627a145200a877a0a426cb58b3242]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 (which makes provision as to the visibility and marking of projection
 
 ## Annotations
 
-[^key-4c6627a145200a877a0a426cb58b3242]: Commencement: Art. 16 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-4c6627a145200a877a0a426cb58b3242]: Commencement: Art. 16 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

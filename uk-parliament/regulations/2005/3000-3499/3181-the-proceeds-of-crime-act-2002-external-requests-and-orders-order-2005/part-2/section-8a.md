@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Restraint orders: power to retain seized property etc[^key-1b84a9a317a93828775c4623c93aab42]
+## 8A. Restraint orders: power to retain seized property etc[^c-1b84a9a317a93828775c4623c93aab42]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b84a9a317a93828775c4623c93aab42]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/2005/3181/article/8A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [8](https://www.legislation.gov.uk/uksi/2015/1750/article/8)
+[^c-1b84a9a317a93828775c4623c93aab42]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/uksi/2005/3181/article/8A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [8](https://www.legislation.gov.uk/uksi/2015/1750/article/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Power of court to remit fine[^key-d004c753bbaabd68505e3cc1ce3b9381][^key-6738cf5b57404ba237147e44102a3ae5]
+## 267. Power of court to remit fine[^c-d004c753bbaabd68505e3cc1ce3b9381][^c-6738cf5b57404ba237147e44102a3ae5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,14 +29,14 @@ summary: ''
 
 it may remit the whole or part of the fine.
 
-(3)[^key-668e042e7c1fc17b2745aca7c6ea1661] Where under this section the court remits the whole or part of a fine after a term of imprisonment has been fixed under section 269A, it must reduce the term by the corresponding proportion.
+(3)[^c-668e042e7c1fc17b2745aca7c6ea1661] Where under this section the court remits the whole or part of a fine after a term of imprisonment has been fixed under section 269A, it must reduce the term by the corresponding proportion.
 
 (4) In calculating any reduction required by subsection (3), any fraction of a day is to be ignored.
 
 ## Annotations
 
-[^key-d004c753bbaabd68505e3cc1ce3b9381]: Commencement: S. 267 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d004c753bbaabd68505e3cc1ce3b9381]: Commencement: S. 267 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-6738cf5b57404ba237147e44102a3ae5]: Commencement: S. 267 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6738cf5b57404ba237147e44102a3ae5]: Commencement: S. 267 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-668e042e7c1fc17b2745aca7c6ea1661]: Textual amendment: S. 267(3)(4) inserted (20.12.2013) by [The Armed Forces (Remission of Fines) Order 2013 (S.I. 2013/3234)](https://www.legislation.gov.uk/uksi/2013/3234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3234/article/1), [2](https://www.legislation.gov.uk/uksi/2013/3234/article/2)
+[^c-668e042e7c1fc17b2745aca7c6ea1661]: Textual amendment: S. 267(3)(4) inserted (20.12.2013) by [The Armed Forces (Remission of Fines) Order 2013 (S.I. 2013/3234)](https://www.legislation.gov.uk/uksi/2013/3234), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3234/article/1), [2](https://www.legislation.gov.uk/uksi/2013/3234/article/2)

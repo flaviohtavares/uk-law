@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Common standards for compulsory purchase data[^key-8dca5666bb6ef2cab8a20c79195664c6][^key-d76e8dd63a9b98a7f733cea9d5bb743b]
+## 187. Common standards for compulsory purchase data[^c-8dca5666bb6ef2cab8a20c79195664c6][^c-d76e8dd63a9b98a7f733cea9d5bb743b]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8dca5666bb6ef2cab8a20c79195664c6]: Commencement: S. 187 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-8dca5666bb6ef2cab8a20c79195664c6]: Commencement: S. 187 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-d76e8dd63a9b98a7f733cea9d5bb743b]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2023/55/section/187) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/n)
+[^c-d76e8dd63a9b98a7f733cea9d5bb743b]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2023/55/section/187) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/n)

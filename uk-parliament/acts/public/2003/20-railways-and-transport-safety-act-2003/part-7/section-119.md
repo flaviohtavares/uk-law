@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Money[^key-6cd10736ac8ad391052cd17c8bd9d5d5]
+## 119. Money[^c-6cd10736ac8ad391052cd17c8bd9d5d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Expenditure of the Secretary of State in consequence of this Act shall be paid o
 
 ## Annotations
 
-[^key-6cd10736ac8ad391052cd17c8bd9d5d5]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2003/20/section/119) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(gg)](https://www.legislation.gov.uk/uksi/2004/827/article/3/gg)
+[^c-6cd10736ac8ad391052cd17c8bd9d5d5]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2003/20/section/119) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(gg)](https://www.legislation.gov.uk/uksi/2004/827/article/3/gg)

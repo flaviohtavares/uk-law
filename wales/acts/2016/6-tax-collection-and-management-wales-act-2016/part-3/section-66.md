@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Unjustified enrichment: reimbursement arrangements[^key-011d6bbd05b555536ca7b8471f29fd42]
+## 66. Unjustified enrichment: reimbursement arrangements[^c-011d6bbd05b555536ca7b8471f29fd42]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) contain such provision as may be prescribed by the regulations, and
 - (b) are supported by such undertakings to comply with the provisions of the arrangements as may be required by the regulations to be given to WRA.
 
-(2) In this section, “**reimbursement arrangements**” means any arrangements for the purposes of a claim under section 63 or 63A[^key-801d66c2f587078402f491cbe973e425] which—
+(2) In this section, “**reimbursement arrangements**” means any arrangements for the purposes of a claim under section 63 or 63A[^c-801d66c2f587078402f491cbe973e425] which—
 
 - (a) are made by any person for the purpose of securing that the person is not unjustly enriched by the repayment or discharge of any amount in pursuance of the claim, and
 - (b) provide for the reimbursement of persons who have for practical purposes borne the whole or any part of the cost of the original payment of that amount to WRA.
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-011d6bbd05b555536ca7b8471f29fd42]: Commencement: S. 66 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-011d6bbd05b555536ca7b8471f29fd42]: Commencement: S. 66 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
 
-[^key-801d66c2f587078402f491cbe973e425]: Textual amendment: Words in s. 66(2) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 27(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/27/a); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-801d66c2f587078402f491cbe973e425]: Textual amendment: Words in s. 66(2) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 27(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/27/a); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

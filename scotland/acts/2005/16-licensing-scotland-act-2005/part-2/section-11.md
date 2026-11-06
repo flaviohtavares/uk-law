@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. General functions of Local Licensing Forums[^key-d27c7de9fe424b6d2844e7cd282e308d]
+## 11. General functions of Local Licensing Forums[^c-d27c7de9fe424b6d2844e7cd282e308d]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ the exercise by a Licensing Board of their functions in relation to a particular
 
 ## Annotations
 
-[^key-d27c7de9fe424b6d2844e7cd282e308d]: Commencement: S. 11 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-d27c7de9fe424b6d2844e7cd282e308d]: Commencement: S. 11 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

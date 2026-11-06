@@ -50,7 +50,7 @@ It appears to the Secretary of State that it is expedient for the references to 
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, by paragraph 1A of Schedule 2 to that Act[^f00004] and by sections 1, 2, 3, 4, 5 and 7 of the Export Control Act 2002[^f00005], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-38bb03de460c1f97e92a009bc23da4b8]
+## 1. Citation, commencement and interpretation[^c-38bb03de460c1f97e92a009bc23da4b8]
 
 (1) This Order may be cited as the Export Control (Iran) Order 2007 and shall come into force on 26th May 2007.
 
@@ -66,7 +66,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 (3) References in this Order to the Regulation are references to the Regulation as amended from time to time in accordance with the procedure set out in Article 15 of the Regulation.
 
-## 2. Offences related to Annex I items[^key-c03416352b32a7d378f3f73ace3d4ed1]
+## 2. Offences related to Annex I items[^c-c03416352b32a7d378f3f73ace3d4ed1]
 
 (1) A person who contravenes any of the following provisions of the Regulation, except by exporting goods, commits an offence—
 
@@ -87,7 +87,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 (7) A person who contravenes Article 5(1)(d) (prohibition on participation, knowingly and intentionally, in activities the object or effect of which is to circumvent the prohibition in Article 5(1)(a), (b) or (c)) of the Regulation commits an offence and may be arrested.
 
-## 3. Offences related to Annex II items[^key-48c6fb272e0d3f403cccf75931530914]
+## 3. Offences related to Annex II items[^c-48c6fb272e0d3f403cccf75931530914]
 
 (1) For the purposes of paragraphs (2) and (3) a person contravenes a provision of the Regulation if he—
 
@@ -121,7 +121,7 @@ commits an offence and may be arrested.
 
 commits an offence and may be arrested.
 
-## 4. Offences related to Community authorisations[^key-8b6e1350cb1b24d0e1b2a4ed41755e0b]
+## 4. Offences related to Community authorisations[^c-8b6e1350cb1b24d0e1b2a4ed41755e0b]
 
 (1) If, for the purpose of obtaining a Community authorisation, a person—
 
@@ -135,7 +135,7 @@ that person commits an offence; and any Community authorisation granted in conne
 - (a) the Community authorisation was modified after the completion of the act authorised; and
 - (b) the alleged failure to comply would not have been a failure had the Community authorisation not been so modified.
 
-## 5. Penalties[^key-4a3990eb3fb90ccc922270dc5393aee7]
+## 5. Penalties[^c-4a3990eb3fb90ccc922270dc5393aee7]
 
 (1) A person guilty of an offence under article 2(1) or (2) or 3(2) or (3) of this Order is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -164,7 +164,7 @@ that person commits an offence; and any Community authorisation granted in conne
 
 (6) In the case of an offence committed in connection with a prohibition or restriction in Article 2(1)(a) or Article 3(1) of the Regulation, sections 68(3)(b) and 170(3)(b)[^f00008] of the 1979 Act shall have effect as if for the words “7 years” there were substituted the words “10 years”.
 
-## 6. Application of the 1979 Act[^key-6a605bf6663bf878c499e7d1185e7790]
+## 6. Application of the 1979 Act[^c-6a605bf6663bf878c499e7d1185e7790]
 
 (1) Where the Commissioners for Her Majesty’s Revenue and Customs investigate or propose to investigate any matter with a view to determining—
 
@@ -217,23 +217,23 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00005]: Footnote: [2002 c. 28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-38bb03de460c1f97e92a009bc23da4b8]: Commencement: Art. 1 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
+[^c-38bb03de460c1f97e92a009bc23da4b8]: Commencement: Art. 1 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
 
 [^f00006]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-c03416352b32a7d378f3f73ace3d4ed1]: Commencement: Art. 2 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
+[^c-c03416352b32a7d378f3f73ace3d4ed1]: Commencement: Art. 2 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
 
-[^key-48c6fb272e0d3f403cccf75931530914]: Commencement: Art. 3 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
+[^c-48c6fb272e0d3f403cccf75931530914]: Commencement: Art. 3 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
 
-[^key-8b6e1350cb1b24d0e1b2a4ed41755e0b]: Commencement: Art. 4 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
+[^c-8b6e1350cb1b24d0e1b2a4ed41755e0b]: Commencement: Art. 4 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
 
-[^key-4a3990eb3fb90ccc922270dc5393aee7]: Commencement: Art. 5 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
+[^c-4a3990eb3fb90ccc922270dc5393aee7]: Commencement: Art. 5 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
 
 [^f00007]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); at the date of this Order, section 154(1) had not been commenced.
 
 [^f00008]: Footnote: Sections 68(3)(b) and 170(3)(b) were amended by the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), section 12(1), (6).
 
-[^key-6a605bf6663bf878c499e7d1185e7790]: Commencement: Art. 6 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
+[^c-6a605bf6663bf878c499e7d1185e7790]: Commencement: Art. 6 in force at 26.5.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/1526/article/1/1)
 
 [^f00009]: Footnote: Section 77A was inserted by the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), section 10 and amended by the Customs and Excise (Single Market etc.) Regulations 1992 ([S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095)), Schedule 1, paragraph 7.
 

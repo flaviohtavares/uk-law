@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Acquittals etc. on section 97A(2)(a) submissions[^key-9c2d0e2a5e8602e22617c52bc6f69733]
+## 97B. Acquittals etc. on section 97A(2)(a) submissions[^c-9c2d0e2a5e8602e22617c52bc6f69733]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c2d0e2a5e8602e22617c52bc6f69733]: Textual amendment: [Ss. 97A-97D](https://www.legislation.gov.uk/ukpga/1995/46/section/97A) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 73](https://www.legislation.gov.uk/asp/2010/13/section/73), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-9c2d0e2a5e8602e22617c52bc6f69733]: Textual amendment: [Ss. 97A-97D](https://www.legislation.gov.uk/ukpga/1995/46/section/97A) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 73](https://www.legislation.gov.uk/asp/2010/13/section/73), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

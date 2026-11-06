@@ -29,7 +29,7 @@ summary: ''
 
 (3) Subsection (4) applies where—
 
-- (a) the Commission makes an order under section 79(4)[^key-b1e2b765272c8f16cd793be20408bff2] removing from office or employment a person who is a trustee, charity trustee, officer,[^key-e0f56adab63fd54bb1b019b615acc065] agent or employee of a charity, and
+- (a) the Commission makes an order under section 79(4)[^c-b1e2b765272c8f16cd793be20408bff2] removing from office or employment a person who is a trustee, charity trustee, officer,[^c-e0f56adab63fd54bb1b019b615acc065] agent or employee of a charity, and
 - (b) the person is a member of the charity.
 
 (4) The Commission may also make an order—
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1e2b765272c8f16cd793be20408bff2]: Textual amendment: Word in s. 83(3) substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/3/a), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
+[^c-b1e2b765272c8f16cd793be20408bff2]: Textual amendment: Word in s. 83(3) substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/3/a), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
 
-[^key-e0f56adab63fd54bb1b019b615acc065]: Textual amendment: Words in s. 83(3) substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/3/b), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
+[^c-e0f56adab63fd54bb1b019b615acc065]: Textual amendment: Words in s. 83(3) substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/3/b), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)

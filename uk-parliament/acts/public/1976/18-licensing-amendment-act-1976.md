@@ -31,18 +31,18 @@ Licensing (Amendment) Act 1976 (repealed)
 
 1976 c.18
 
-[^key-a9926cd812402ace87ff9a286b8a1d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9926cd812402ace87ff9a286b8a1d56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Repeal of section 76(5) of Licensing Act 1964.[^key-a9926cd812402ace87ff9a286b8a1d56][^key-a9926cd812402ace87ff9a286b8a1d56]
+## 1. Repeal of section 76(5) of Licensing Act 1964.[^c-a9926cd812402ace87ff9a286b8a1d56][^c-a9926cd812402ace87ff9a286b8a1d56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, citation and extent.[^key-a9926cd812402ace87ff9a286b8a1d56][^key-a9926cd812402ace87ff9a286b8a1d56]
+## 2. Short title, citation and extent.[^c-a9926cd812402ace87ff9a286b8a1d56][^c-a9926cd812402ace87ff9a286b8a1d56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9926cd812402ace87ff9a286b8a1d56]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1976/18) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-a9926cd812402ace87ff9a286b8a1d56]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1976/18) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

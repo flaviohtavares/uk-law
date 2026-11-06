@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c1073230] Every registered society and branch shall once in every year, not later than 31st July[^c1073231], send to the FCA[^key-eb43ae34fdccbdd176d591f879504097] a return (in this Act called an “annual return”) relating to its affairs for the year of account preceding that in which the return is required to be sent.
+(1)[^c1073230] Every registered society and branch shall once in every year, not later than 31st July[^c1073231], send to the FCA[^c-eb43ae34fdccbdd176d591f879504097] a return (in this Act called an “annual return”) relating to its affairs for the year of account preceding that in which the return is required to be sent.
 
 (2) In the case of a branch, the annual return shall be sent to the FCA through an officer appointed in that behalf by the society of which the branch forms part.
 
@@ -45,7 +45,7 @@ a copy of the report of the auditors on the accounts and balance sheet contained
 
 (6)[^c1073237] Without prejudice to subsection (3) above, every annual or other return required for the purposes of this Act shall be made in such form and shall contain such particulars as the FCA[^c1073238] may direct.
 
-(7)[^key-c448170d12503118c52e902caa56e0d9] If the registered society or branch is a PRA-authorised person, it shall send to the PRA a copy of the annual return sent to the FCA under subsection (1).
+(7)[^c-c448170d12503118c52e902caa56e0d9] If the registered society or branch is a PRA-authorised person, it shall send to the PRA a copy of the annual return sent to the FCA under subsection (1).
 
 ## Annotations
 
@@ -57,7 +57,7 @@ a copy of the report of the auditors on the accounts and balance sheet contained
 
 [^c1073231]: Textual amendment: Words in s. 43(1) substituted (1.9.1996) by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1738/article/1), [6](https://www.legislation.gov.uk/uksi/1996/1738/article/6)
 
-[^key-eb43ae34fdccbdd176d591f879504097]: Textual amendment: Words in [s. 43](https://www.legislation.gov.uk/ukpga/1974/46/section/43) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(h)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/h) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-eb43ae34fdccbdd176d591f879504097]: Textual amendment: Words in [s. 43](https://www.legislation.gov.uk/ukpga/1974/46/section/43) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/1/a)[(2)(h)](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/2/2/h) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c1073234]: Textual amendment: S. 43(3)(c) words inserted (1.9.1996) by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1738/article/1), [11(9)](https://www.legislation.gov.uk/uksi/1996/1738/article/11/9)
 
@@ -67,4 +67,4 @@ a copy of the report of the auditors on the accounts and balance sheet contained
 
 [^c1073238]: Textual amendment: Words in s. 43(6) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. I para. 20(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/I/paragraph/20/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-c448170d12503118c52e902caa56e0d9]: Textual amendment: [S. 43(7)](https://www.legislation.gov.uk/ukpga/1974/46/section/43/7) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/9) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-c448170d12503118c52e902caa56e0d9]: Textual amendment: [S. 43(7)](https://www.legislation.gov.uk/ukpga/1974/46/section/43/7) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2013/496/schedule/5/paragraph/9) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

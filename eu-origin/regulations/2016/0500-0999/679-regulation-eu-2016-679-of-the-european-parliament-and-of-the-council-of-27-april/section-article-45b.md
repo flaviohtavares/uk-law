@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45B. The data protection test[^key-50eab658e67e489f21157afdb309acb2]
+## Article 45B. The data protection test[^c-50eab658e67e489f21157afdb309acb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50eab658e67e489f21157afdb309acb2]: Textual amendment: Arts. 45A, 45B inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)
+[^c-50eab658e67e489f21157afdb309acb2]: Textual amendment: Arts. 45A, 45B inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2025/18/schedule/7/paragraph/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement, application and extent[^key-84701ea67464103165adf99302e25859]
+## 1. Citation, commencement, application and extent[^c-84701ea67464103165adf99302e25859]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84701ea67464103165adf99302e25859]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-84701ea67464103165adf99302e25859]: Commencement: Reg. 1 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00002]: Footnote: In relation to Wales, the functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 were transferred to the Welsh Ministers under section 44 of the Higher Education Act 2004 except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5) of section 22.

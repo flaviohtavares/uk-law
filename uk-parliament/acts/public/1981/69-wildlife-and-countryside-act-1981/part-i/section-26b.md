@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26B. Annual report on wildlife crime[^key-da48921b553b156bedf967e35d29951e]
+## 26B. Annual report on wildlife crime[^c-da48921b553b156bedf967e35d29951e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da48921b553b156bedf967e35d29951e]: Textual amendment: S. 26B inserted (S.) (2.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 20](https://www.legislation.gov.uk/asp/2011/6/section/20), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/433/article/2/2)
+[^c-da48921b553b156bedf967e35d29951e]: Textual amendment: S. 26B inserted (S.) (2.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 20](https://www.legislation.gov.uk/asp/2011/6/section/20), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(2)](https://www.legislation.gov.uk/ssi/2011/433/article/2/2)

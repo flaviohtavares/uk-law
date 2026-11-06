@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Defence to proceedings in respect of statutory nuisance[^key-0124e73bfb741f978dd591c3176deb41]
+## 58. Defence to proceedings in respect of statutory nuisance[^c-0124e73bfb741f978dd591c3176deb41]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0124e73bfb741f978dd591c3176deb41]: Commencement: Art. 58 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-0124e73bfb741f978dd591c3176deb41]: Commencement: Art. 58 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00140]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this subsection which are not relevant to this Order.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation[^key-53adab9791a8753ee016a8dea8e1c645][^key-53adab9791a8753ee016a8dea8e1c645]
+## 3. Interpretation[^c-53adab9791a8753ee016a8dea8e1c645][^c-53adab9791a8753ee016a8dea8e1c645]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - “**the 2016 Regulations**” means the Recall of MPs Act 2015 (Recall Petition) Regulations 2016;
 - “**anonymous elector’s document**” means that document as designed by the Electoral Commission in accordance with regulation 15(1)(a) or (d) or (4)[^f00018];
 - “**combined authority mayoral election**” means an election for the return of a mayor as provided for in an order made under Schedule 5B to the Local Democracy, Economic Development and Construction Act 2009;
-- “ *(Extent: E+W+S)*[^key-e0f4151b0e5df7073a90cd67f2c3d192]**combined county authority mayoral election *(Extent: E+W+S)***” means an election for the mayor as provided for in regulations made under Schedule 2 of the Levelling-up and Regeneration Act 2023; *(Extent: E+W+S)*
+- “ *(Extent: E+W+S)*[^c-e0f4151b0e5df7073a90cd67f2c3d192]**combined county authority mayoral election *(Extent: E+W+S)***” means an election for the mayor as provided for in regulations made under Schedule 2 of the Levelling-up and Regeneration Act 2023; *(Extent: E+W+S)*
 - “**digital service**” means the Individual Electoral Registration Digital Service, which is the digital service provided by the Secretary of State for the purpose (amongst other purposes) of processing online applications for electoral identity documents under section 13BD of the 1983 Act[^f00019] and for verifying information in accordance with regulation 6;
 - “**electoral identity document**” means that document as designed by the Electoral Commission in accordance with regulation 15(1)(b) or (d) or (4)[^f00020];
 - “**identity document application**” means—
@@ -61,8 +61,8 @@ summary: ''
 | A PCC election | The police area returning officer within the meaning of article 2(1) of the Police and Crime Commissioner Elections Order 2012 [^f00025] |
 | A local government election in England | The returning officer |
 | A local authority mayoral election | The returning officer within the meaning of regulation 2 of the Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 [^f00026] |
-| A combined authority mayoral election | The combined authority *(Extent: E+W+S)*[^key-715d305b305d6c2504ff708136a4acb5] returning officer within the meaning of article 2 of the Combined Authorities (Mayoral Elections) Order 2017 [^f00027] |
-| A combined county authority mayoral election *(Extent: E+W+S)*[^key-454dab7ca37abb9093163077c329e3f2] | The combined county authority returning officer within the meaning of article 2 of the Combined Authorities (Mayoral Elections) Order 2017 *(Extent: E+W+S)* |
+| A combined authority mayoral election | The combined authority *(Extent: E+W+S)*[^c-715d305b305d6c2504ff708136a4acb5] returning officer within the meaning of article 2 of the Combined Authorities (Mayoral Elections) Order 2017 [^f00027] |
+| A combined county authority mayoral election *(Extent: E+W+S)*[^c-454dab7ca37abb9093163077c329e3f2] | The combined county authority returning officer within the meaning of article 2 of the Combined Authorities (Mayoral Elections) Order 2017 *(Extent: E+W+S)* |
 | A referendum under Part 1A of the Local Government Act 2000 [^f00028] | The counting officer within the meaning of regulation 9 of the Local Authorities (Conduct of Referendums) (England) Regulations 2012 [^f00029] |
 | A referendum under Chapter 4ZA of Part 1 of the Local Government Finance Act 1992 [^f00030] | The counting officer within the meaning of regulation 15 of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 [^f00031] |
 | A referendum under Schedule 4B to the Town and Country Planning Act 1990 | The counting officer within the meaning of regulation 9 of the Neighbourhood Planning (Referendums) Regulations 2012 [^f00032] |
@@ -79,18 +79,18 @@ summary: ''
 
   *Extent: E+W+S*
 
-  - (iva)[^key-b1900754fe979504c4be9779356350fe] in the case of a combined county authority mayoral election, paragraph 12(1)(a) of Schedule 2 to the Regeneration and Levelling-up Act 2023,
+  - (iva)[^c-b1900754fe979504c4be9779356350fe] in the case of a combined county authority mayoral election, paragraph 12(1)(a) of Schedule 2 to the Regeneration and Levelling-up Act 2023,
   - (v) in the case of a referendum under Part 1A of the Local Government Act 2000, section 9MG(2) or (3) of that Act[^f00036],
   - (vi) in the case of a referendum under Chapter 4ZA of Part 1 of the Local Government Finance Act 1992, section 52ZQ(1) or (2) of that Act, or
   - (vii) in the case of a referendum under Schedule 4B to the Town and Country Planning Act 1990, paragraph 16(1) of that Schedule.
 
 ## Annotations
 
-[^key-53adab9791a8753ee016a8dea8e1c645]: Commencement: Reg. 3 in force at 13.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/2)
+[^c-53adab9791a8753ee016a8dea8e1c645]: Commencement: Reg. 3 in force at 13.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/2)
 
 [^f00018]: Footnote: See also section 13BE of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-e0f4151b0e5df7073a90cd67f2c3d192]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/1) inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/a)
+[^c-e0f4151b0e5df7073a90cd67f2c3d192]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/1) inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(a)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/a)
 
 [^f00019]: Footnote: Section 13BD was inserted by paragraph 2 of Schedule 1 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 
@@ -108,11 +108,11 @@ summary: ''
 
 [^f00026]: Footnote: [S.I. 2007/1024](https://www.legislation.gov.uk/uksi/2007/1024); relevant amending instruments are [S.I. 2014/370](https://www.legislation.gov.uk/uksi/2014/370), [2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
-[^key-715d305b305d6c2504ff708136a4acb5]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/4) Table inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/b/i)
+[^c-715d305b305d6c2504ff708136a4acb5]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/4) Table inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/b/i)
 
 [^f00027]: Footnote: [S.I. 2017/67](https://www.legislation.gov.uk/uksi/2017/67), amended by [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310); there are other amending instruments but none is relevant.
 
-[^key-454dab7ca37abb9093163077c329e3f2]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/4) Table inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/b/ii)
+[^c-454dab7ca37abb9093163077c329e3f2]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/4) Table inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/b/ii)
 
 [^f00028]: Footnote: Part 1A was inserted by paragraph 1 of Schedule 2 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and was amended by section 190(10) of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), by section 20 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1) and by S.I 2013/594, 2597, 2021/1265.
 
@@ -130,6 +130,6 @@ summary: ''
 
 [^f00035]: Footnote: Section 36 was amended by section 17 of the Representation of the People Act 1985; by Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51); by Part 1 of Schedule 13 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40); by paragraph 68 of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19); by paragraph 17 of Schedule 3 to the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29); by paragraph 4 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29); by section 13(2) of, and paragraph 2(4) of Schedule 2 to, the Local Government and Elections (Wales) Act 2021 (asc 1) and by [S.I. 1991/1730](https://www.legislation.gov.uk/uksi/1991/1730).
 
-[^key-b1900754fe979504c4be9779356350fe]: Textual amendment: [Reg. 3(5)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/5/c)[(iva)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/5/iva) inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(c)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/c)
+[^c-b1900754fe979504c4be9779356350fe]: Textual amendment: [Reg. 3(5)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/5/c)[(iva)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/3/5/iva) inserted (E.W.S.) (7.2.2024) by [The Combined Authorities (Mayoral Elections) Order 2017 (Amendment) Regulations 2024 (S.I. 2024/131)](https://www.legislation.gov.uk/uksi/2024/131), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/131/regulation/1/3), [15(2)(c)](https://www.legislation.gov.uk/uksi/2024/131/regulation/15/2/c)
 
 [^f00036]: Footnote: Section 9MG was inserted by paragraph 1 of Schedule 2 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and amended by [S.I. 2013/2597](https://www.legislation.gov.uk/uksi/2013/2597), [2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).

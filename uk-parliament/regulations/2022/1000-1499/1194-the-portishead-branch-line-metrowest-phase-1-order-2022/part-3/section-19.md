@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Construction and maintenance of new or altered streets[^key-171ff04ae3677dc1fc910bba32334a60]
+## 19. Construction and maintenance of new or altered streets[^c-171ff04ae3677dc1fc910bba32334a60]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-171ff04ae3677dc1fc910bba32334a60]: Commencement: Art. 19 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-171ff04ae3677dc1fc910bba32334a60]: Commencement: Art. 19 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

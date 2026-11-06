@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Amendment of regulation 52 (payment requirements for costs recovery notices)[^key-b1951b54845eb09e46d8c828e035c9f4]
+## 24. Amendment of regulation 52 (payment requirements for costs recovery notices)[^c-b1951b54845eb09e46d8c828e035c9f4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 52(2) (payment requirements for costs recovery notices), for “pe
 
 ## Annotations
 
-[^key-b1951b54845eb09e46d8c828e035c9f4]: Commencement: Reg. 24 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-b1951b54845eb09e46d8c828e035c9f4]: Commencement: Reg. 24 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

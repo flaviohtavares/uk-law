@@ -28,7 +28,7 @@ summary: ''
 
 Civil Partnership, England And Wales
 
-The Registration of Civil Partnerships (Fees) (Amendment) Order 2010 (revoked)[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]
+The Registration of Civil Partnerships (Fees) (Amendment) Order 2010 (revoked)[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 6th April 2010
 
-[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]
+## 1. Citation and commencement[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Registration of Civil Partnerships (Fees) Order 2005[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]
+## 2. Amendment of the Registration of Civil Partnerships (Fees) Order 2005[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Registration of Civil Partnerships (Fees) (No. 2) Order 2005[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]
+## 3. Amendment of the Registration of Civil Partnerships (Fees) (No. 2) Order 2005[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c18fff47d7e41faf1eef68d5d8d9d5f6]: Textual amendment: Order revoked (1.9.2014) by [The Registration of Civil Partnerships (Fees) Order 2014 (S.I. 2014/1789)](https://www.legislation.gov.uk/uksi/2014/1789), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/1789/article/3/c) \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-c18fff47d7e41faf1eef68d5d8d9d5f6]: Textual amendment: Order revoked (1.9.2014) by [The Registration of Civil Partnerships (Fees) Order 2014 (S.I. 2014/1789)](https://www.legislation.gov.uk/uksi/2014/1789), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/1789/article/3/c) \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

@@ -46,7 +46,7 @@ The Secretary of State, in exercise of the powers conferred by sections 59, 60, 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-82d0a53d60bd57476da63fc6c6c124c0]
+### 1. Citation, commencement and interpretation[^c-82d0a53d60bd57476da63fc6c6c124c0]
 
 (1) These Regulations may be cited as the Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020.
 
@@ -58,11 +58,11 @@ The Secretary of State, in exercise of the powers conferred by sections 59, 60, 
 
 ## PART 2 — Amendments to the 2015 Order
 
-### 2. Amendments to the 2015 Order[^key-616faee880ffe3e0c55a4bce1b5c8d64]
+### 2. Amendments to the 2015 Order[^c-616faee880ffe3e0c55a4bce1b5c8d64]
 
 The 2015 Order is amended in accordance with regulations 3 to 22.
 
-### 3. Amendments to article 2[^key-f970eb36b070daa4f293dd0a6249c152]
+### 3. Amendments to article 2[^c-f970eb36b070daa4f293dd0a6249c152]
 
 In article 2(1)—
 
@@ -73,7 +73,7 @@ In article 2(1)—
   ;
 - (b) in the definition of “flat” after “except” insert “in Part 20 (construction of new dwellinghouses) of Schedule 2 to this Order or”.
 
-### 4. Amendment to article 7[^key-28679fa4d846ee8084f0b3c98cd25fea]
+### 4. Amendment to article 7[^c-28679fa4d846ee8084f0b3c98cd25fea]
 
 In article 7 for paragraph (c) substitute—
 
@@ -81,7 +81,7 @@ In article 7 for paragraph (c) substitute—
 
 .
 
-### 5. Amendments to Part 1, Class A[^key-c43d1f1f5f36853b13cb8976e175e288]
+### 5. Amendments to Part 1, Class A[^c-c43d1f1f5f36853b13cb8976e175e288]
 
 In Class A of Part 1 of Schedule 2—
 
@@ -99,7 +99,7 @@ In Class A of Part 1 of Schedule 2—
 
   .
 
-### 6. Amendments to Part 1, Class B[^key-80b14cda0d5ddb35dcaa07747dd40ab9]
+### 6. Amendments to Part 1, Class B[^c-80b14cda0d5ddb35dcaa07747dd40ab9]
 
 In Class B of Part 1 of Schedule 2—
 
@@ -120,7 +120,7 @@ In Class B of Part 1 of Schedule 2—
 
   .
 
-### 7. Amendments to Part 1, Class C[^key-9e3a4a702a412dd6e49dce67283c161c]
+### 7. Amendments to Part 1, Class C[^c-9e3a4a702a412dd6e49dce67283c161c]
 
  In Class C of Part 1 of Schedule 2, in paragraph C.1.—
 
@@ -132,7 +132,7 @@ In Class B of Part 1 of Schedule 2—
 
   .
 
-### 8. Amendment to Part 1, Class D[^key-a8fdecd809219c1b7eda0728a66b05c0]
+### 8. Amendment to Part 1, Class D[^c-a8fdecd809219c1b7eda0728a66b05c0]
 
  In Class D of Part 1 of Schedule 2, in paragraph D.1.—
 
@@ -144,7 +144,7 @@ In Class B of Part 1 of Schedule 2—
 
   .
 
-### 9. Amendments to Part 1, Class E[^key-10fbc30b5548c2f581f34c600a41c1f4]
+### 9. Amendments to Part 1, Class E[^c-10fbc30b5548c2f581f34c600a41c1f4]
 
  In Class E of Part 1 of Schedule 2, in paragraph E.1.—
 
@@ -156,7 +156,7 @@ In Class B of Part 1 of Schedule 2—
 
   .
 
-### 10. Amendment to Part 1, Class F[^key-8f4353920c4bee97ea7f774b1e00d839]
+### 10. Amendment to Part 1, Class F[^c-8f4353920c4bee97ea7f774b1e00d839]
 
  In Class F to Part 1 of Schedule 2, for class F.1. substitute—
 
@@ -167,7 +167,7 @@ In Class B of Part 1 of Schedule 2—
 
 .
 
-### 11. Amendments to Part 1, Class G[^key-dedb603ae5ba2afa2a65658f6189924a]
+### 11. Amendments to Part 1, Class G[^c-dedb603ae5ba2afa2a65658f6189924a]
 
  In Class G of Part 1 of Schedule 2, in paragraph G.1.—
 
@@ -179,7 +179,7 @@ In Class B of Part 1 of Schedule 2—
 
   .
 
-### 12. Amendments to Part 1, Class H[^key-e774711cefe61325303c081e8bc411ec]
+### 12. Amendments to Part 1, Class H[^c-e774711cefe61325303c081e8bc411ec]
 
 In Class H of Part 1 of Schedule 2, in paragraph H.1.—
 
@@ -191,7 +191,7 @@ In Class H of Part 1 of Schedule 2, in paragraph H.1.—
 
   .
 
-### 13. Amendments to Part 3, Class M[^key-474a356b23f8480291d48b59a1897d9f]
+### 13. Amendments to Part 3, Class M[^c-474a356b23f8480291d48b59a1897d9f]
 
 In Class M of Part 3 of Schedule 2 in paragraph M.2—
 
@@ -204,7 +204,7 @@ In Class M of Part 3 of Schedule 2 in paragraph M.2—
   ;
 - (d) in sub-paragraph (2) after “sub-paragraphs (1)(a) to (d)” insert “and (f),”.
 
-### 14. Amendments to Part 3, Class N[^key-93f7d0953556ba325655c6a0c7629242]
+### 14. Amendments to Part 3, Class N[^c-93f7d0953556ba325655c6a0c7629242]
 
 In Class N of Part 3 of Schedule 2 in paragraph N.2—
 
@@ -217,7 +217,7 @@ In Class N of Part 3 of Schedule 2 in paragraph N.2—
   ,
 - (d) in sub-paragraph (2) after “sub-paragraphs (1)(a) to (c)” insert “and (e),”.
 
-### 15. Amendments to Part 3, Class O[^key-f7ee112a554753ffa8e4eda3f7255b32]
+### 15. Amendments to Part 3, Class O[^c-f7ee112a554753ffa8e4eda3f7255b32]
 
 In Class O of Part 3 of Schedule 2 in paragraph O.2—
 
@@ -229,7 +229,7 @@ In Class O of Part 3 of Schedule 2 in paragraph O.2—
 
   .
 
-### 16. Amendment to Part 3, Class PA[^key-c1d4c98792ef0a2ba3b492b06f6779b1]
+### 16. Amendment to Part 3, Class PA[^c-c1d4c98792ef0a2ba3b492b06f6779b1]
 
 In Class PA of Part 3 of Schedule 2 in paragraph PA.2, after sub-paragraph (1)(b)(iv) insert—
 
@@ -237,7 +237,7 @@ In Class PA of Part 3 of Schedule 2 in paragraph PA.2, after sub-paragraph (1)(b
 
 .
 
-### 17. Amendment to Part 3, Class Q[^key-429e16e7939b875f4ea595a675b92abf]
+### 17. Amendment to Part 3, Class Q[^c-429e16e7939b875f4ea595a675b92abf]
 
 In Class Q of Part 3 of Schedule 2 in paragraph Q.2—
 
@@ -250,7 +250,7 @@ In Class Q of Part 3 of Schedule 2 in paragraph Q.2—
   ;
 - (d) in sub-paragraph (2) after “sub-paragraphs (1)(a) to (e)” insert “and (g),”.
 
-### 18. Amendment to Part 3, paragraph W[^key-e6f615d342985578aa47ebc86048e701]
+### 18. Amendment to Part 3, paragraph W[^c-e6f615d342985578aa47ebc86048e701]
 
 In paragraph W of Part 3 of Schedule 2—
 
@@ -270,7 +270,7 @@ In paragraph W of Part 3 of Schedule 2—
 
   .
 
-### 19. Amendment to Part 3, paragraph X[^key-402fcb9340678d1d75a8bbe7c0cc463e]
+### 19. Amendment to Part 3, paragraph X[^c-402fcb9340678d1d75a8bbe7c0cc463e]
 
 In paragraph X of Part 3 of Schedule 2 after the definition of “established agricultural unit” insert—
 
@@ -278,7 +278,7 @@ In paragraph X of Part 3 of Schedule 2 after the definition of “established ag
 
 .
 
-### 20. Amendments in relation to Part 4[^key-4f2f4e542c656b926c1e5bd59822aaf1]
+### 20. Amendments in relation to Part 4[^c-4f2f4e542c656b926c1e5bd59822aaf1]
 
  After Class B, insert—
 
@@ -316,7 +316,7 @@ In paragraph X of Part 3 of Schedule 2 after the definition of “established ag
 
 .
 
-### 21. Amendments in relation to Part 12[^key-5b13e52cf632d1b0dc66d706e62e5c5d]
+### 21. Amendments in relation to Part 12[^c-5b13e52cf632d1b0dc66d706e62e5c5d]
 
 After paragraph B.1. of Part 12 of Schedule 2 insert—
 
@@ -334,7 +334,7 @@ After paragraph B.1. of Part 12 of Schedule 2 insert—
 
 .
 
-### 22. Amendments in relation to the construction of new dwellinghouses[^key-5f773f6e68b925b827a52f5151b0d062]
+### 22. Amendments in relation to the construction of new dwellinghouses[^c-5f773f6e68b925b827a52f5151b0d062]
 
 After Part 19 of Schedule 2 insert—
 
@@ -516,9 +516,9 @@ After Part 19 of Schedule 2 insert—
 
 ## PART 3 — Amendments to the Town and Country Planning (Control of Advertisements) (England) Regulations 2007
 
-**23.**[^key-0b210736351576387711bc23de1d3fc7] The Town and Country Planning (Control of Advertisements) (England) Regulations 2007[^f00013] are amended in accordance with regulation 24.
+**23.**[^c-0b210736351576387711bc23de1d3fc7] The Town and Country Planning (Control of Advertisements) (England) Regulations 2007[^f00013] are amended in accordance with regulation 24.
 
-**24.**[^key-41b16f8ee724ccdd7bcfb1fba1014c0f] In Part 2 of Schedule 3, in paragraph 1(1)—
+**24.**[^c-41b16f8ee724ccdd7bcfb1fba1014c0f] In Part 2 of Schedule 3, in paragraph 1(1)—
 
 - (a) after the definition of “business premises” insert—
 
@@ -534,9 +534,9 @@ After Part 19 of Schedule 2 insert—
 
 ## PART 4 — Amendments to the Town and Country Planning (Compensation) (England) Regulations 2015
 
-**25.**[^key-b03b3f99c4d8a9b917481948aaf5c33d] The Town and Country Planning (Compensation) (England) Regulations 2015[^f00015] are amended in accordance with regulation 26.
+**25.**[^c-b03b3f99c4d8a9b917481948aaf5c33d] The Town and Country Planning (Compensation) (England) Regulations 2015[^f00015] are amended in accordance with regulation 26.
 
-**26.**[^key-5086343da3aacf021e7a6c3f0b9f52c5] In regulation 2—
+**26.**[^c-5086343da3aacf021e7a6c3f0b9f52c5] In regulation 2—
 
 - (a) omit “and” at the end of sub-paragraph (f);
 - (b) at the end of sub-paragraph (g) for “.” substitute “; and”;
@@ -548,7 +548,7 @@ After Part 19 of Schedule 2 insert—
 
 ## PART 5 — Transitional and saving provisions
 
-**27.**[^key-410913cc1f5eed7ac68ae517d3f7f4b4] Where a prior approval event occurs, the planning permission granted by Class M, N, O, PA or Q of Part 3 of Schedule 2 to the 2015 Order continues to have effect as if the amendments made by Part 2 of these Regulations had not been made.
+**27.**[^c-410913cc1f5eed7ac68ae517d3f7f4b4] Where a prior approval event occurs, the planning permission granted by Class M, N, O, PA or Q of Part 3 of Schedule 2 to the 2015 Order continues to have effect as if the amendments made by Part 2 of these Regulations had not been made.
 
 (1) In this regulation—
 
@@ -631,51 +631,51 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Amendments have been made to section 59 which are not relevant to these Regulations. Section 60 was amended by section 4(1) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and section 152 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). Sections 108(2A), (5) and (6) were inserted by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 108(3C) was inserted by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and amendments have been made by the Housing and Planning Act [2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22). Amendments have been made to sections 74, 220 and 333 which are not relevant to these Regulations.
 
-[^key-82d0a53d60bd57476da63fc6c6c124c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/632/regulation/1) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-82d0a53d60bd57476da63fc6c6c124c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/632/regulation/1) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), which has been amended by [S.I. 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2016/1040](https://www.legislation.gov.uk/uksi/2016/1040), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/391](https://www.legislation.gov.uk/uksi/2017/391), [2017/619](https://www.legislation.gov.uk/uksi/2017/619), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2018/343](https://www.legislation.gov.uk/uksi/2018/343), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330) and [2020/412](https://www.legislation.gov.uk/uksi/2020/412).
 
-[^key-616faee880ffe3e0c55a4bce1b5c8d64]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/632/regulation/2) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-616faee880ffe3e0c55a4bce1b5c8d64]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/632/regulation/2) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-f970eb36b070daa4f293dd0a6249c152]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/632/regulation/3) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-f970eb36b070daa4f293dd0a6249c152]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/632/regulation/3) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-28679fa4d846ee8084f0b3c98cd25fea]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/632/regulation/4) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-28679fa4d846ee8084f0b3c98cd25fea]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/632/regulation/4) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-c43d1f1f5f36853b13cb8976e175e288]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/632/regulation/5) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-c43d1f1f5f36853b13cb8976e175e288]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/632/regulation/5) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-80b14cda0d5ddb35dcaa07747dd40ab9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/632/regulation/6) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-80b14cda0d5ddb35dcaa07747dd40ab9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/632/regulation/6) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-9e3a4a702a412dd6e49dce67283c161c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/632/regulation/7) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-9e3a4a702a412dd6e49dce67283c161c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/632/regulation/7) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-a8fdecd809219c1b7eda0728a66b05c0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/632/regulation/8) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-a8fdecd809219c1b7eda0728a66b05c0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/632/regulation/8) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-10fbc30b5548c2f581f34c600a41c1f4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/632/regulation/9) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-10fbc30b5548c2f581f34c600a41c1f4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/632/regulation/9) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-8f4353920c4bee97ea7f774b1e00d839]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/632/regulation/10) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-8f4353920c4bee97ea7f774b1e00d839]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/632/regulation/10) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-dedb603ae5ba2afa2a65658f6189924a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/632/regulation/11) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-dedb603ae5ba2afa2a65658f6189924a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/632/regulation/11) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-e774711cefe61325303c081e8bc411ec]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/632/regulation/12) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-e774711cefe61325303c081e8bc411ec]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/632/regulation/12) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-474a356b23f8480291d48b59a1897d9f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/632/regulation/13) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-474a356b23f8480291d48b59a1897d9f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/632/regulation/13) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-93f7d0953556ba325655c6a0c7629242]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/632/regulation/14) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-93f7d0953556ba325655c6a0c7629242]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/632/regulation/14) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-f7ee112a554753ffa8e4eda3f7255b32]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/632/regulation/15) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-f7ee112a554753ffa8e4eda3f7255b32]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/632/regulation/15) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-c1d4c98792ef0a2ba3b492b06f6779b1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/632/regulation/16) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-c1d4c98792ef0a2ba3b492b06f6779b1]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/632/regulation/16) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-429e16e7939b875f4ea595a675b92abf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/632/regulation/17) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-429e16e7939b875f4ea595a675b92abf]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/632/regulation/17) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-e6f615d342985578aa47ebc86048e701]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/632/regulation/18) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-e6f615d342985578aa47ebc86048e701]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/632/regulation/18) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-402fcb9340678d1d75a8bbe7c0cc463e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/632/regulation/19) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-402fcb9340678d1d75a8bbe7c0cc463e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/632/regulation/19) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-4f2f4e542c656b926c1e5bd59822aaf1]: Commencement: Reg. 20 in force at 25.6.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3)
+[^c-4f2f4e542c656b926c1e5bd59822aaf1]: Commencement: Reg. 20 in force at 25.6.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3)
 
-[^key-5b13e52cf632d1b0dc66d706e62e5c5d]: Commencement: Reg. 21 in force at 25.6.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3)
+[^c-5b13e52cf632d1b0dc66d706e62e5c5d]: Commencement: Reg. 21 in force at 25.6.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3)
 
-[^key-5f773f6e68b925b827a52f5151b0d062]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/632/regulation/22) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-5f773f6e68b925b827a52f5151b0d062]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/632/regulation/22) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
 [^f00003]: Footnote: https://www.london.gov.uk/what-we-do/planning/implementing-london-plan/planning-guidance-and-practice-notes/london-view-management a copy of which may be inspected at the Planning Directorate, the Ministry of Housing, Communities and Local Government, 2 Marsham Street, London, SW1P 4DF.
 
@@ -697,20 +697,20 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: Town and Country Planning (Safeguarded Aerodromes, Technical Sites and Military Explosives Storage Areas) Direction 2002, which is annexed to Joint Circular 01/2003 issued on 27th January 2003 by the Office of the Deputy Prime Minister, a copy of which can be inspected at the Planning Directorate, Ministry of Housing, Communities and Local Government, 2 Marsham Street, London SW1P 4DF.
 
-[^key-0b210736351576387711bc23de1d3fc7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/632/regulation/23) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-0b210736351576387711bc23de1d3fc7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/632/regulation/23) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2007/783](https://www.legislation.gov.uk/uksi/2007/783), which has been amended by [S.I. 2019/907](https://www.legislation.gov.uk/uksi/2019/907).
 
-[^key-41b16f8ee724ccdd7bcfb1fba1014c0f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/632/regulation/24) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-41b16f8ee724ccdd7bcfb1fba1014c0f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/632/regulation/24) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
 [^f00014]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-b03b3f99c4d8a9b917481948aaf5c33d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/632/regulation/25) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-b03b3f99c4d8a9b917481948aaf5c33d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/632/regulation/25) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2015/598](https://www.legislation.gov.uk/uksi/2015/598) which has been amended by [S.I. 2016/331](https://www.legislation.gov.uk/uksi/2016/331), [S.I. 2017/392](https://www.legislation.gov.uk/uksi/2017/392), [S.I. 2017/402](https://www.legislation.gov.uk/uksi/2017/402), [S.I. 2017/620](https://www.legislation.gov.uk/uksi/2017/620) and [S.I. 2019/907](https://www.legislation.gov.uk/uksi/2019/907).
 
-[^key-5086343da3aacf021e7a6c3f0b9f52c5]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/632/regulation/26) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-5086343da3aacf021e7a6c3f0b9f52c5]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/632/regulation/26) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
-[^key-410913cc1f5eed7ac68ae517d3f7f4b4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
+[^c-410913cc1f5eed7ac68ae517d3f7f4b4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27) in force at 1.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2)
 
 [^f00016]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 69A(2) was inserted by section 17 of the Neighbourhood Planning Act [2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20).

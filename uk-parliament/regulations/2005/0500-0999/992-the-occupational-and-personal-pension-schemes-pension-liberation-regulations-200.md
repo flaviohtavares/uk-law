@@ -66,7 +66,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - (a) property or money transferred by virtue of an order made by a court under section 19(4) of the 2004 Act and applied in accordance with directions contained in an order made by virtue of section 19(6) of that Act; or
 - (b) money paid by virtue of an order made by the Regulator under section 21(2)(a) of the 2004 Act and applied in accordance with directions contained in an order made by virtue of section 21(2)(b) of that Act.
 
-(3)[^key-7cfb662a01dbe796ac35ab87d4da3e85] The “relevant provisions” referred to in paragraph (2) are section 71 (basic principle as to short service benefit) and any regulations made under that section.
+(3)[^c-7cfb662a01dbe796ac35ab87d4da3e85] The “relevant provisions” referred to in paragraph (2) are section 71 (basic principle as to short service benefit) and any regulations made under that section.
 
 (4) Paragraph (6) shall cease to have effect when paragraph 31 of Schedule 12 to the 2004 Act (consequential amendment to the 1993 Act) comes into force.
 
@@ -130,7 +130,7 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c1213118]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-7cfb662a01dbe796ac35ab87d4da3e85]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/992/regulation/2/3) substituted (6.4.2012) by [Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [21](https://www.legislation.gov.uk/uksi/2011/1246/article/21)
+[^c-7cfb662a01dbe796ac35ab87d4da3e85]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/992/regulation/2/3) substituted (6.4.2012) by [Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [21](https://www.legislation.gov.uk/uksi/2011/1246/article/21)
 
 [^c1213120]: Marginal citation: Section 56 was amended by sections 151 and 177 of, and paragraph 51 of Schedule 5 and Part 3 of Schedule 7 to, the Pensions Act 1995, section 1(1) of, and paragraph 54 of Schedule 1 to, the Social Security Contributions (Transfer of Functions, etc) Act 1999, and section 85 of, and Part 3(11) of Schedule 9 to, the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19); section 73 was amended by sections 18 and 88 of, and paragraph 3(2)(a) of Schedule 2 and Part 1 of Schedule 13 to, the Welfare Reform and Pensions Act 1999.
 

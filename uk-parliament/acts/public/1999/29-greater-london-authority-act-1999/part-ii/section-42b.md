@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42B. Assembly's power to reject draft strategies[^key-6e45c352c32d5c22e5e3055c9b63ab40]
+## 42B. Assembly's power to reject draft strategies[^c-6e45c352c32d5c22e5e3055c9b63ab40]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e45c352c32d5c22e5e3055c9b63ab40]: Textual amendment: S. 42B inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 229](https://www.legislation.gov.uk/ukpga/2011/20/section/229), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-6e45c352c32d5c22e5e3055c9b63ab40]: Textual amendment: S. 42B inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 229](https://www.legislation.gov.uk/ukpga/2011/20/section/229), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

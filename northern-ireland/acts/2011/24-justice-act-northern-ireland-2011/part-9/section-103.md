@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Variation of firearms certificate[^key-1c0572af28cf856d115b2b72a1f09f4b]
+## 103. Variation of firearms certificate[^c-1c0572af28cf856d115b2b72a1f09f4b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c0572af28cf856d115b2b72a1f09f4b]: Textual amendment: S. 103 repealed (13.5.2016) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 58(2)](https://www.legislation.gov.uk/nia/2016/21/section/58/2), [61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1)
+[^c-1c0572af28cf856d115b2b72a1f09f4b]: Textual amendment: S. 103 repealed (13.5.2016) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 58(2)](https://www.legislation.gov.uk/nia/2016/21/section/58/2), [61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1)

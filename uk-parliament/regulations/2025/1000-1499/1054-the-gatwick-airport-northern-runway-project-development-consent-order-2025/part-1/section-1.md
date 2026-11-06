@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-1533fd5dfe68f6663a01a86806be5585]
+## 1. Citation and commencement[^c-1533fd5dfe68f6663a01a86806be5585]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Gatwick Airport (Northern Runway Project) Develop
 
 ## Annotations
 
-[^key-1533fd5dfe68f6663a01a86806be5585]: Commencement: Art. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-1533fd5dfe68f6663a01a86806be5585]: Commencement: Art. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

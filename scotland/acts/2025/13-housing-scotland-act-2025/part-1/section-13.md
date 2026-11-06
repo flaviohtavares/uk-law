@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Properties subject to modified rent control area restrictions[^key-be45463f3ec801c2ebd5c9f56f2e2bcb][^key-6c20cdc5c79a564da64e022e18e266f4]
+## 13. Properties subject to modified rent control area restrictions[^c-be45463f3ec801c2ebd5c9f56f2e2bcb][^c-6c20cdc5c79a564da64e022e18e266f4]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be45463f3ec801c2ebd5c9f56f2e2bcb]: Commencement: S. 13 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-be45463f3ec801c2ebd5c9f56f2e2bcb]: Commencement: S. 13 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-6c20cdc5c79a564da64e022e18e266f4]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/13/section/13) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-6c20cdc5c79a564da64e022e18e266f4]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/13/section/13) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

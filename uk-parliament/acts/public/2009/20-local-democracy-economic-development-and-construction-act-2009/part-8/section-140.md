@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Adjudicator's power to make corrections[^key-b84653af60c7a38dcb9aa3bb6c58368e][^key-137b78c0c44ed40d44dc944c910987fa][^key-f3088020c5199c03667c3aec4e4da9f9]
+## 140. Adjudicator's power to make corrections[^c-b84653af60c7a38dcb9aa3bb6c58368e][^c-137b78c0c44ed40d44dc944c910987fa][^c-f3088020c5199c03667c3aec4e4da9f9]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ In the Housing Grants, Construction and Regeneration Act 1996 (c. 53), in sectio
 
 ## Annotations
 
-[^key-b84653af60c7a38dcb9aa3bb6c58368e]: Commencement: S. 140 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-b84653af60c7a38dcb9aa3bb6c58368e]: Commencement: S. 140 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-137b78c0c44ed40d44dc944c910987fa]: Commencement: S. 140 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
+[^c-137b78c0c44ed40d44dc944c910987fa]: Commencement: S. 140 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
 
-[^key-f3088020c5199c03667c3aec4e4da9f9]: Commencement: S. 140 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)
+[^c-f3088020c5199c03667c3aec4e4da9f9]: Commencement: S. 140 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)

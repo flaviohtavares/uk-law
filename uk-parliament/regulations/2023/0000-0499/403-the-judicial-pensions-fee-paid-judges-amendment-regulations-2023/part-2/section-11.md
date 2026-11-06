@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of regulation 10[^key-bf6a5c8d3ef5b4067b93b3d73725c59f]
+## 11. Amendment of regulation 10[^c-bf6a5c8d3ef5b4067b93b3d73725c59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 10, after paragraph (1) insert—
 
 ## Annotations
 
-[^key-bf6a5c8d3ef5b4067b93b3d73725c59f]: Commencement: Reg. 11 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-bf6a5c8d3ef5b4067b93b3d73725c59f]: Commencement: Reg. 11 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

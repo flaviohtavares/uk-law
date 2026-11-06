@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Information[^key-5c046cd5c00a2da66527aca42daf544c]
+## 70. Information[^c-5c046cd5c00a2da66527aca42daf544c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ For section 201 of the WRA (power to require information with respect to abstrac
 
 ## Annotations
 
-[^key-5c046cd5c00a2da66527aca42daf544c]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2003/37/section/70) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/968/article/2/k)
+[^c-5c046cd5c00a2da66527aca42daf544c]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2003/37/section/70) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/968/article/2/k)

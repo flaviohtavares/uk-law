@@ -87,7 +87,7 @@ There has been open and transparent public consultation during the preparation a
 
 ## PART 1 — General provisions
 
-### 1. Title, application and commencement[^key-909ac08e83fd9da432632bdd44e6910c]
+### 1. Title, application and commencement[^c-909ac08e83fd9da432632bdd44e6910c]
 
 (1) The title of these Regulations is the Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019.
 
@@ -97,15 +97,15 @@ There has been open and transparent public consultation during the preparation a
 
 ## PART 2 — Amendments to legislation concerning agriculture
 
-### 2. The EC Fertilisers (England and Wales) Regulations 2006[^key-74af0542e7ef2c01dc91d66d8cd6a304]
+### 2. The EC Fertilisers (England and Wales) Regulations 2006[^c-74af0542e7ef2c01dc91d66d8cd6a304]
 
 In regulation 2(1) of the EC Fertilisers (England and Wales) Regulations 2006 [^c23630141], in the definition of “the Community Regulation” after “fertilisers” insert “ , as last amended by Commission Regulation (EU) 2016/1618 [^c23630151] ”.
 
-### 3. The Bovine Semen (Wales) Regulations 2008[^key-d5826887ecc677860443843e1e4ee56d]
+### 3. The Bovine Semen (Wales) Regulations 2008[^c-d5826887ecc677860443843e1e4ee56d]
 
 In regulation 17(1)(c) of the Bovine Semen (Wales) Regulations 2008 [^c23630161], for “articles 3(2)(a) or 3(2)(b) of the Veterinary Surgery (Blood Sampling) Order 1983 [^c23630171]” substitute “ articles 5(2) and 5(3) of the Veterinary Surgery (Exemptions) Order 2015 [^c23630181] ”.
 
-### 4. The Official Feed and Food Controls (Wales) Regulations 2009[^key-b0ca0d3eaa7ff037bfcc56a17a1abcdf]
+### 4. The Official Feed and Food Controls (Wales) Regulations 2009[^c-b0ca0d3eaa7ff037bfcc56a17a1abcdf]
 
 (1) The Official Feed and Food Controls (Wales) Regulations 2009 [^c23630191] are amended as follows.
 
@@ -120,7 +120,7 @@ In regulation 17(1)(c) of the Bovine Semen (Wales) Regulations 2008 [^c23630161]
 
 ## PART 3 — Amendments to legislation concerning animals
 
-### 5. The Foot and Mouth Disease (Wales) Order 2006[^key-e54139593b9d65ba91f548aa6e1cb92f]
+### 5. The Foot and Mouth Disease (Wales) Order 2006[^c-e54139593b9d65ba91f548aa6e1cb92f]
 
 (1) The Foot and Mouth (Wales) Order 2006 [^c23630211] is amended as follows.
 
@@ -136,11 +136,11 @@ In regulation 17(1)(c) of the Bovine Semen (Wales) Regulations 2008 [^c23630161]
 
 .
 
-### 6. The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (No 2) Order 2006[^key-5a6cf3539ba1d509f4e381940f9ca948]
+### 6. The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (No 2) Order 2006[^c-5a6cf3539ba1d509f4e381940f9ca948]
 
 In article 2(2) of the Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (No 2) Order 2006 [^c23630261], after “Directive [92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040)” insert “ , as last amended by Council Directive [2008/73/EC](https://www.legislation.gov.uk/european/directive/2008/0073) [^c23630271] ”.
 
-### 7. The Cattle Identification (Wales) Regulations 2007[^key-da066aac83b1e9349a4a7edf00c59c66]
+### 7. The Cattle Identification (Wales) Regulations 2007[^c-da066aac83b1e9349a4a7edf00c59c66]
 
 (1) The Cattle Identification (Wales) Regulations 2007 [^c23630281] are amended as follows.
 
@@ -157,18 +157,18 @@ In article 2(2) of the Avian Influenza and Influenza of Avian Origin in Mammals 
 
 (4) In Schedule 3, in paragraph 3(3)(a) of Part 1, after “Council” insert “ , as last amended by Regulation (EU) No 1385/2013 of the European Parliament and of the Council [^c23630331] ”.
 
-### 8. The Zoonoses (Monitoring) (Wales) Regulations 2007[^key-96c4ebcd77eb50d5a962088016cbbc22]
+### 8. The Zoonoses (Monitoring) (Wales) Regulations 2007[^c-96c4ebcd77eb50d5a962088016cbbc22]
 
 In regulation 6(2) of the Zoonoses (Monitoring) (Wales) Regulations 2007 [^c23630341], for “the Poultry Breeding Flocks and Hatcheries (Wales) Order 2007 [^c23630351]” substitute “ the Control of Salmonella in Poultry (Wales) Order 2008 [^c23630361] ”.
 
-### 9. The Welfare of Farmed Animals (Wales) Regulations 2007[^key-c835d4950f39e91401c76918501cb7a3]
+### 9. The Welfare of Farmed Animals (Wales) Regulations 2007[^c-c835d4950f39e91401c76918501cb7a3]
 
 In Schedule 5A to the Welfare of Farmed Animals (Wales) Regulations 2007 [^c23630371], in paragraph 1 of Part 1—
 
 - (a) in the definition of “**Regulation 853/2004 [^c23630381]**” (“***Rheoliad 853/2004***”), at the end insert “ , as last amended by Commission Regulation (EU) 2017/1981 of 31 October 2017 [^c23630391] ”;
 - (b) in the definition of “**Regulation 854/2004 [^c23630401]**” (“***Rheoliad 854/2004***”), at the end insert “ , as last amended by Commission Regulation (EU) 2015/2285 of 8 December 2015 [^c23630411] ”.
 
-### 10. The Control of Salmonella in Poultry (Wales) Order 2008[^key-33b686961903738a552a1af2712c6454]
+### 10. The Control of Salmonella in Poultry (Wales) Order 2008[^c-33b686961903738a552a1af2712c6454]
 
 In article 3 of the Control of Salmonella in Poultry (Wales) Order 2008 [^c23630421], before paragraph (a), insert —
 
@@ -176,7 +176,7 @@ In article 3 of the Control of Salmonella in Poultry (Wales) Order 2008 [^c23630
 
 .
 
-### 11. The Control of Salmonella in Turkey Flocks (Wales) Order 2010[^key-12ffb27bceb7c27e8c1fcf3b0947f0a5]
+### 11. The Control of Salmonella in Turkey Flocks (Wales) Order 2010[^c-12ffb27bceb7c27e8c1fcf3b0947f0a5]
 
 In article 3 of the Control of Salmonella in Turkey Flocks (Wales) Order 2010 [^c23630431], before paragraph (a), insert —
 
@@ -184,7 +184,7 @@ In article 3 of the Control of Salmonella in Turkey Flocks (Wales) Order 2010 [^
 
 .
 
-### 12. The Trade in Animals and Related Products (Wales) Regulations 2011[^key-4639e4910a4a9bd39762d83aaa85f93c]
+### 12. The Trade in Animals and Related Products (Wales) Regulations 2011[^c-4639e4910a4a9bd39762d83aaa85f93c]
 
 (1) The Trade in Animal and Related Products Regulations (Wales) Regulations 2011 [^c23630441] are amended as follows.
 
@@ -233,17 +233,17 @@ In article 3 of the Control of Salmonella in Turkey Flocks (Wales) Order 2010 [^
   ;
 - (b) in Part 2, for paragraph 10, substitute “ When a horse is imported temporarily from a third country, the provisions of Section 7 of Commission Implementing Regulation (EU) 2018/659 apply. ”.
 
-### 13. The African Horse Sickness (Wales) Regulations 2013[^key-4444e27e8bef86bdb2b46324ac088660][^key-bc18084a70973c7e5595fbe520877999]
+### 13. The African Horse Sickness (Wales) Regulations 2013[^c-4444e27e8bef86bdb2b46324ac088660][^c-bc18084a70973c7e5595fbe520877999]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. The Animal By-Products (Enforcement) (Wales) Regulations 2014[^key-6060ea59cbda8cfdd98d6787c2e1fded]
+### 14. The Animal By-Products (Enforcement) (Wales) Regulations 2014[^c-6060ea59cbda8cfdd98d6787c2e1fded]
 
 In Schedule 1 of the Animal By-Products (Enforcement) (Wales) Regulations 2014 [^c23630601], in entry 17 of the table, in the third column, omit “and 36(1)”.
 
 ## PART 4 — Amendments to legislation concerning education
 
-### 15. The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013[^key-586a564ab2537516ca4d4f3a78fcb972]
+### 15. The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013[^c-586a564ab2537516ca4d4f3a78fcb972]
 
 (1) The Healthy Eating in Schools (Nutritional Standards and Requirements) (Wales) Regulations 2013 [^c23630611] are amended as follows.
 
@@ -254,7 +254,7 @@ In Schedule 1 of the Animal By-Products (Enforcement) (Wales) Regulations 2014 [
 
 ## PART 5 — Amendments to legislation concerning environmental protection
 
-### 16. The Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations 1996[^key-4bdd7c815b5b866eba5041a46017d888]
+### 16. The Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations 1996[^c-4bdd7c815b5b866eba5041a46017d888]
 
 (1) The Genetically Modified Organisms (Risk Assessment) (Records and Exemptions) Regulations 1996 [^c23630621] are amended as follows.
 
@@ -268,15 +268,15 @@ In Schedule 1 of the Animal By-Products (Enforcement) (Wales) Regulations 2014 [
 - (a) in sub- paragraph (b)(ii) for “regulation 3(2)” substitute “ regulation 3(1) ”;
 - (b) in sub-paragraph (d) for “the Genetically Modified Organisms (Deliberate Release) Regulations 1992 [^c23630651]” substitute “ the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 [^c23630661] ”.
 
-### 17. The Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^key-a0d4d8046954b9498ff82ea04a430a1b][^key-67cf78ee8ff94f829913019e8ad6e02a]
+### 17. The Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^c-a0d4d8046954b9498ff82ea04a430a1b][^c-67cf78ee8ff94f829913019e8ad6e02a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. The Genetically Modified Organisms (Traceability and Labelling) (Wales) Regulations 2005[^key-80eab68849961b1fdbe5043adb4409c0]
+### 18. The Genetically Modified Organisms (Traceability and Labelling) (Wales) Regulations 2005[^c-80eab68849961b1fdbe5043adb4409c0]
 
 In regulation 2(1) of the Genetically Modified Organisms (Traceability and Labelling) (Wales) Regulations 2005 [^c23630681], in the definition of “the Council Regulation” (*“Rheoliad y Cyngor”*) at the end insert “ , as last amended by Regulation [(EC) No 1137/2008](https://www.legislation.gov.uk/european/regulation/2008/1137) of the European Parliament and of the Council adapting a number of instruments subject to the procedure laid down in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468), with regard to the regulatory procedure with scrutiny [^c23630691] ”.
 
-### 19. The Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009[^key-5cc4c6fb09d3e10d090fe481a0fabf24]
+### 19. The Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009[^c-5cc4c6fb09d3e10d090fe481a0fabf24]
 
 In paragraph 7 of Schedule 2 to the Environmental Damage (Prevention and Remediation) (Wales) Regulations 2009 [^c23630701], after sub-paragraph (b) insert—
 
@@ -284,7 +284,7 @@ In paragraph 7 of Schedule 2 to the Environmental Damage (Prevention and Remedia
 
 .
 
-### 20. The Air Quality Standards (Wales) Regulations 2010[^key-f6038de5fecd88c7f2933f5daef58580]
+### 20. The Air Quality Standards (Wales) Regulations 2010[^c-f6038de5fecd88c7f2933f5daef58580]
 
 In regulation 14 of the Air Quality Standards (Wales) Regulations 2010 [^c23630721]—
 
@@ -293,19 +293,19 @@ In regulation 14 of the Air Quality Standards (Wales) Regulations 2010 [^c236307
 
 ## PART 6 — Amendments to legislation concerning food
 
-### 21. The Fishery Products (Official Controls Charges) (Wales) Regulations 2007[^key-151bd8d76b0c8954ad991d2baa7ea7e1]
+### 21. The Fishery Products (Official Controls Charges) (Wales) Regulations 2007[^c-151bd8d76b0c8954ad991d2baa7ea7e1]
 
 In regulation 2(1) of the Fishery Products (Official Controls Charges) (Wales) Regulations 2007 [^c23630731], in the definition of “third country import” (*“mewnforyn trydedd wlad”*), for the words from “Part” to “applies” substitute “ a charge is payable under Regulation 882/2004 ”.
 
-### 22. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (Wales) Regulations 2008[^key-0d3de4e66bc6ed28ff5e2b65106414c8]
+### 22. The Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (Wales) Regulations 2008[^c-0d3de4e66bc6ed28ff5e2b65106414c8]
 
 In regulation 2(1) of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (Wales) Regulations 2008 [^c23630741], in the definition of “**Regulation (EU) 2013**” (“***Rheoliad (EU) 2013***”), for the words from “the Regulation” to “1234/2007” substitute “ Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products [^c23630751] ”.
 
-### 23. The Drinking Milk (Wales) Regulations 2010[^key-51298af82e07efb4e553dbb6cb226311]
+### 23. The Drinking Milk (Wales) Regulations 2010[^c-51298af82e07efb4e553dbb6cb226311]
 
 In regulation 2(1) of the Drinking Milk (Wales) Regulations 2010 [^c23630761], in the definition of “**Part IV**” (“***Rhan IV***”) for the words from “Part IV of” to “1234/2007” substitute “ Part 4 of Annex 7 to Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products ”.
 
-### 24. The Eggs and Chicks (Wales) Regulations 2010[^key-99f61a5797f7e5b830e522787bc76c27]
+### 24. The Eggs and Chicks (Wales) Regulations 2010[^c-99f61a5797f7e5b830e522787bc76c27]
 
 (1) The Eggs and Chicks (Wales) Regulations 2010 [^c23630771] are amended as follows.
 
@@ -320,13 +320,13 @@ In regulation 2(1) of the Drinking Milk (Wales) Regulations 2010 [^c23630761], i
 - (a) in Part 1, in the first column of the table, in both entries relating to Article 75(2) and (3), omit “of Regulation (EU) 2013”;
 - (b) in Part 2, in the second column of the table, for the entry relating to the first and second sub-paragraphs of Article 12(2), for the words from “Article 2” to “foodstuffs” substitute “ Article 23(1) of Regulation (EU) 834/2007 on organic production and labelling of organic products ”.
 
-### 25. The Poultrymeat (Wales) Regulations 2011[^key-6af8c1ba2f602050ebd7dbaa0e257be4]
+### 25. The Poultrymeat (Wales) Regulations 2011[^c-6af8c1ba2f602050ebd7dbaa0e257be4]
 
 In regulation 2(1) of the Poultrymeat (Wales) Regulations 2011 [^c23630781], in the definition of “**Regulation (EU) 2013**” (“***Rheoliad (EU) 2013***”) for the words from “the Regulation (EU) 2013” to “1234/2007” substitute “ Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products ”.
 
 ## PART 7 — Amendments to legislation concerning plant health
 
-### 26. The Marketing of Ornamental Plant Propagating Material Regulations 1999[^key-84e0eb3b554c0debd73ef3876c10c3bf]
+### 26. The Marketing of Ornamental Plant Propagating Material Regulations 1999[^c-84e0eb3b554c0debd73ef3876c10c3bf]
 
 (1) The Marketing of Ornamental Plant Propagating Material Regulations 1999 [^c23630791] are amended as follows.
 
@@ -339,7 +339,7 @@ In regulation 2(1) of the Poultrymeat (Wales) Regulations 2011 [^c23630781], in 
 
 (4) In regulation 12(3) for the words from “article 12(5)” to the end substitute “ article 9(1) of the Plant Health (Wales) Order 2018 ”.
 
-### 27. The Plant Health (Wales) Order 2018[^key-dbe3a3ea86617bfbd665a009bfeafb26]
+### 27. The Plant Health (Wales) Order 2018[^c-dbe3a3ea86617bfbd665a009bfeafb26]
 
 In Part A of Schedule 9 to the Plant Health (Wales) Order 2018 [^c23630811], in paragraph 8 for sub-paragraph (b) substitute—
 
@@ -349,13 +349,13 @@ In Part A of Schedule 9 to the Plant Health (Wales) Order 2018 [^c23630811], in 
 
 ## PART 8 — Amendments to legislation concerning sea fisheries
 
-### 28. The Prohibition of Fishing with Multiple Trawls (Wales) Order 2003[^key-0511f7b306c8ee2bd3b301fa20a184af]
+### 28. The Prohibition of Fishing with Multiple Trawls (Wales) Order 2003[^c-0511f7b306c8ee2bd3b301fa20a184af]
 
 In Article 2(1) of the Prohibition of Fishing with Multiple Trawls (Wales) Order 2003, in the definition of “the Council Regulation” (*“Rheoliad y Cyngor”*) substitute “as corrected by Corrigendum to Annex XII of the Council Regulation and amended by Council Regulation [(EC) No. 308/1999](https://www.legislation.gov.uk/european/regulation/1999/0308), Council Regulation [(EC) No. 1459/1999](https://www.legislation.gov.uk/european/regulation/1999/1459), Council Regulation [(EC) No. 2723/1999](https://www.legislation.gov.uk/european/regulation/1999/2723), Council Regulation [(EC) No. 812/200](https://www.legislation.gov.uk/european/regulation/19200/0812) and Council Regulation [(EC) No. 1298/2000](https://www.legislation.gov.uk/european/regulation/2000/1298);” with “as last amended by Regulation (EU) 2015/812 of the European Parliament and of the Council [^c23630831];”
 
 ## PART 9 — Amendments to legislation concerning water
 
-### 29. The Private Water Supplies (Wales) Regulations 2017[^key-7f4cd7cae13a5c5acb345b48135840f9]
+### 29. The Private Water Supplies (Wales) Regulations 2017[^c-7f4cd7cae13a5c5acb345b48135840f9]
 
 (1) The Private Water Supplies (Wales) Regulations 2017 [^c23630841] are amended as follows.
 
@@ -367,7 +367,7 @@ In Article 2(1) of the Prohibition of Fishing with Multiple Trawls (Wales) Order
 
 .
 
-### 30. The Water Supply (Water Quality) Regulations 2018[^key-ac3890746cbbf16640b5eb9e898ac5e8]
+### 30. The Water Supply (Water Quality) Regulations 2018[^c-ac3890746cbbf16640b5eb9e898ac5e8]
 
 (1) The Water Supply (Water Quality) Regulations 2018 [^c23630861] are amended as follows.
 
@@ -395,7 +395,7 @@ In Article 2(1) of the Prohibition of Fishing with Multiple Trawls (Wales) Order
 
 ## PART 10 — Miscellaneous revocations
 
-### 31. Miscellaneous revocations[^key-b387acf15ea1828302c8bc1203d5b404]
+### 31. Miscellaneous revocations[^c-b387acf15ea1828302c8bc1203d5b404]
 
 The following are revoked—
 
@@ -444,15 +444,15 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630131]: Marginal citation: OJ No L 31, 1.2.2002, p. 1, as last amended by Commission Regulation (EU) 2017/228 (OJ No L 35, 10.2.2017, p10).
 
-[^key-909ac08e83fd9da432632bdd44e6910c]: Commencement: Reg. 1 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-909ac08e83fd9da432632bdd44e6910c]: Commencement: Reg. 1 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
-[^key-74af0542e7ef2c01dc91d66d8cd6a304]: Commencement: Reg. 2 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-74af0542e7ef2c01dc91d66d8cd6a304]: Commencement: Reg. 2 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630141]: Marginal citation: [S.I. 2006/2486](https://www.legislation.gov.uk/uksi/2006/2486).
 
 [^c23630151]: Marginal citation: OJ No L 242, 9.9.2016, p 24.
 
-[^key-d5826887ecc677860443843e1e4ee56d]: Commencement: Reg. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-d5826887ecc677860443843e1e4ee56d]: Commencement: Reg. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630161]: Marginal citation: [S.I. 2008/1040](https://www.legislation.gov.uk/uksi/2008/1040) (W. 110).
 
@@ -460,13 +460,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630181]: Marginal citation: [S.I. 2015/772](https://www.legislation.gov.uk/uksi/2015/772).
 
-[^key-b0ca0d3eaa7ff037bfcc56a17a1abcdf]: Commencement: Reg. 4 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-b0ca0d3eaa7ff037bfcc56a17a1abcdf]: Commencement: Reg. 4 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630191]: Marginal citation: [S.I. 2009/3376](https://www.legislation.gov.uk/uksi/2009/3376) (W. 298), amended by [S.I. 2018/806](https://www.legislation.gov.uk/uksi/2018/806) (W. 162).
 
 [^c23630201]: Marginal citation: OJ No L 343, 14.12.2012 p 1, as corrected by a corrigendum (OJ No L 55, 27.2.2013, p 27).
 
-[^key-e54139593b9d65ba91f548aa6e1cb92f]: Commencement: Reg. 5 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-e54139593b9d65ba91f548aa6e1cb92f]: Commencement: Reg. 5 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630211]: Marginal citation: [S.I. 2006/179](https://www.legislation.gov.uk/uksi/2006/179) (W. 30).
 
@@ -478,13 +478,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630251]: Marginal citation: OJ No L 296, 28.9.2001, p 1.
 
-[^key-5a6cf3539ba1d509f4e381940f9ca948]: Commencement: Reg. 6 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-5a6cf3539ba1d509f4e381940f9ca948]: Commencement: Reg. 6 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630261]: Marginal citation: [S.I.2006/2927](https://www.legislation.gov.uk/uksi/2006/2927) (W. 262), to which there are amendments not relevant to these Regulations.
 
 [^c23630271]: Marginal citation: OJ L 219, 14.8.2008, p. 40.
 
-[^key-da066aac83b1e9349a4a7edf00c59c66]: Commencement: Reg. 7 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-da066aac83b1e9349a4a7edf00c59c66]: Commencement: Reg. 7 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630281]: Marginal citation: [S.I. 2007/842](https://www.legislation.gov.uk/uksi/2007/842) (W. 74).
 
@@ -498,7 +498,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630331]: Marginal citation: OJ No L 354, 28.12.2013, p 86.
 
-[^key-96c4ebcd77eb50d5a962088016cbbc22]: Commencement: Reg. 8 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-96c4ebcd77eb50d5a962088016cbbc22]: Commencement: Reg. 8 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630341]: Marginal citation: [S.I. 2007/2459](https://www.legislation.gov.uk/uksi/2007/2459) (W. 207).
 
@@ -506,7 +506,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630361]: Marginal citation: [S.I. 2008/524](https://www.legislation.gov.uk/uksi/2008/524) (W. 50).
 
-[^key-c835d4950f39e91401c76918501cb7a3]: Commencement: Reg. 9 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-c835d4950f39e91401c76918501cb7a3]: Commencement: Reg. 9 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630371]: Marginal citation: [S.I. 2007/3070](https://www.legislation.gov.uk/uksi/2007/3070) (W. 264).
 
@@ -518,15 +518,15 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630411]: Marginal citation: OJ No L 323, 9.12.2015, p 2.
 
-[^key-33b686961903738a552a1af2712c6454]: Commencement: Reg. 10 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-33b686961903738a552a1af2712c6454]: Commencement: Reg. 10 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630421]: Marginal citation: [S.I. 2008/524](https://www.legislation.gov.uk/uksi/2008/524) (W.50)
 
-[^key-12ffb27bceb7c27e8c1fcf3b0947f0a5]: Commencement: Reg. 11 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-12ffb27bceb7c27e8c1fcf3b0947f0a5]: Commencement: Reg. 11 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630431]: Marginal citation: [S.I. 2010/65](https://www.legislation.gov.uk/uksi/2010/65) (W. 15).
 
-[^key-4639e4910a4a9bd39762d83aaa85f93c]: Commencement: Reg. 12 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-4639e4910a4a9bd39762d83aaa85f93c]: Commencement: Reg. 12 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630441]: Marginal citation: [S.I. 2011/2379](https://www.legislation.gov.uk/uksi/2011/2379) (W. 252).
 
@@ -556,19 +556,19 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630571]: Marginal citation: OJ No L 308, 12.11.2016, p 29.
 
-[^key-4444e27e8bef86bdb2b46324ac088660]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2019/463/regulation/13) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1334)](https://www.legislation.gov.uk/wsi/2019/1334), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1334/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1334/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4444e27e8bef86bdb2b46324ac088660]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/wsi/2019/463/regulation/13) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1334)](https://www.legislation.gov.uk/wsi/2019/1334), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1334/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2019/1334/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc18084a70973c7e5595fbe520877999]: Commencement: Reg. 13 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-bc18084a70973c7e5595fbe520877999]: Commencement: Reg. 13 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
-[^key-6060ea59cbda8cfdd98d6787c2e1fded]: Commencement: Reg. 14 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-6060ea59cbda8cfdd98d6787c2e1fded]: Commencement: Reg. 14 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630601]: Marginal citation: [S.I. 2014/517](https://www.legislation.gov.uk/uksi/2014/517) (W.60), to which there are amendments not relevant to these Regulations.
 
-[^key-586a564ab2537516ca4d4f3a78fcb972]: Commencement: Reg. 15 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-586a564ab2537516ca4d4f3a78fcb972]: Commencement: Reg. 15 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630611]: Marginal citation: [S.I.2013/1984](https://www.legislation.gov.uk/uksi/2013/1984) (W. 194).
 
-[^key-4bdd7c815b5b866eba5041a46017d888]: Commencement: Reg. 16 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-4bdd7c815b5b866eba5041a46017d888]: Commencement: Reg. 16 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630621]: Marginal citation: [S.I. 1996/1106](https://www.legislation.gov.uk/uksi/1996/1106), amended by [S.I. 2000/2831](https://www.legislation.gov.uk/uksi/2000/2831); there are other amending instruments but none is relevant to these Regulations.
 
@@ -580,65 +580,65 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23630661]: Marginal citation: [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188) (W. 304).
 
-[^key-a0d4d8046954b9498ff82ea04a430a1b]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/463/regulation/17) revoked (31.12.2020 immediately before exit day) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a0d4d8046954b9498ff82ea04a430a1b]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/463/regulation/17) revoked (31.12.2020 immediately before exit day) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/wsi/2019/1492), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/1492/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-67cf78ee8ff94f829913019e8ad6e02a]: Commencement: Reg. 17 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-67cf78ee8ff94f829913019e8ad6e02a]: Commencement: Reg. 17 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
-[^key-80eab68849961b1fdbe5043adb4409c0]: Commencement: Reg. 18 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-80eab68849961b1fdbe5043adb4409c0]: Commencement: Reg. 18 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630681]: Marginal citation: [S.I. 2005/1914](https://www.legislation.gov.uk/uksi/2005/1914) (W. 157).
 
 [^c23630691]: Marginal citation: OJ No L 311, 21.11.2008, p 1.
 
-[^key-5cc4c6fb09d3e10d090fe481a0fabf24]: Commencement: Reg. 19 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-5cc4c6fb09d3e10d090fe481a0fabf24]: Commencement: Reg. 19 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630701]: Marginal citation: [S.I. 2009/995](https://www.legislation.gov.uk/uksi/2009/995) (W. 81), to which there are amendments not relevant to these Regulations.
 
 [^c23630711]: Marginal citation: OJ No L 353, 31.12.2008, p. 1, as last amended by Commission Regulation (EU) 2017/776 (OJ No L 116, 5.5.17, p 1).
 
-[^key-f6038de5fecd88c7f2933f5daef58580]: Commencement: Reg. 20 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-f6038de5fecd88c7f2933f5daef58580]: Commencement: Reg. 20 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630721]: Marginal citation: [S.I. 2010/1433](https://www.legislation.gov.uk/uksi/2010/1433) (W.126), to which there are amendments not relevant to these Regulations.
 
-[^key-151bd8d76b0c8954ad991d2baa7ea7e1]: Commencement: Reg. 21 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-151bd8d76b0c8954ad991d2baa7ea7e1]: Commencement: Reg. 21 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630731]: Marginal citation: [S.I. 2007/3462](https://www.legislation.gov.uk/uksi/2007/3462) (W. 307).
 
-[^key-0d3de4e66bc6ed28ff5e2b65106414c8]: Commencement: Reg. 22 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-0d3de4e66bc6ed28ff5e2b65106414c8]: Commencement: Reg. 22 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630741]: Marginal citation: [S.I. 2008/1341](https://www.legislation.gov.uk/uksi/2008/1341) (W. 141) as amended by [S.I. 2013/3270](https://www.legislation.gov.uk/uksi/2013/3270) (W. 320).
 
 [^c23630751]: Marginal citation: OJ No L 347, 20.12.2013, p 671, as last amended by Regulation (EU) 2017/2393 of the European Parliament and of the Council (OJ No L 350, 29.12.2017, p 15).
 
-[^key-51298af82e07efb4e553dbb6cb226311]: Commencement: Reg. 23 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-51298af82e07efb4e553dbb6cb226311]: Commencement: Reg. 23 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630761]: Marginal citation: [S.I. 2010/1492](https://www.legislation.gov.uk/uksi/2010/1492) (W. 135), as amended by [S.I. 2013/3270](https://www.legislation.gov.uk/uksi/2013/3270) (W. 320); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-99f61a5797f7e5b830e522787bc76c27]: Commencement: Reg. 24 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-99f61a5797f7e5b830e522787bc76c27]: Commencement: Reg. 24 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630771]: Marginal citation: [S.I. 2010/1671](https://www.legislation.gov.uk/uksi/2010/1671) (W. 158), amended by [S.I. 2013/3270](https://www.legislation.gov.uk/uksi/2013/3270) (W. 320).
 
-[^key-6af8c1ba2f602050ebd7dbaa0e257be4]: Commencement: Reg. 25 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-6af8c1ba2f602050ebd7dbaa0e257be4]: Commencement: Reg. 25 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630781]: Marginal citation: [S.I. 2011/1719](https://www.legislation.gov.uk/uksi/2011/1719).
 
-[^key-84e0eb3b554c0debd73ef3876c10c3bf]: Commencement: Reg. 26 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-84e0eb3b554c0debd73ef3876c10c3bf]: Commencement: Reg. 26 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630791]: Marginal citation: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801), as amended by [S.I. 2018/974](https://www.legislation.gov.uk/uksi/2018/974).
 
 [^c23630801]: Marginal citation: [S.I. 2018/1064](https://www.legislation.gov.uk/uksi/2018/1064) (W. 223).
 
-[^key-dbe3a3ea86617bfbd665a009bfeafb26]: Commencement: Reg. 27 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-dbe3a3ea86617bfbd665a009bfeafb26]: Commencement: Reg. 27 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630811]: Marginal citation: 2018/1064 (W. 223)
 
 [^c23630821]: Marginal citation: OJ No L 298, 16.10.2014, p 12.
 
-[^key-0511f7b306c8ee2bd3b301fa20a184af]: Commencement: Reg. 28 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-0511f7b306c8ee2bd3b301fa20a184af]: Commencement: Reg. 28 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630831]: Marginal citation: 2018/1064 (W.223)
 
-[^key-7f4cd7cae13a5c5acb345b48135840f9]: Commencement: Reg. 29 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-7f4cd7cae13a5c5acb345b48135840f9]: Commencement: Reg. 29 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630841]: Marginal citation: [S.I. 2017/1041](https://www.legislation.gov.uk/uksi/2017/1041) (W. 270).
 
@@ -646,11 +646,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
     www.icrp.org) or from the Welsh Government, Cathays Park, Cardiff, CF10 3NQ.
 
-[^key-ac3890746cbbf16640b5eb9e898ac5e8]: Commencement: Reg. 30 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-ac3890746cbbf16640b5eb9e898ac5e8]: Commencement: Reg. 30 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630861]: Marginal citation: [S.I. 2018/647](https://www.legislation.gov.uk/uksi/2018/647) (W.121).
 
-[^key-b387acf15ea1828302c8bc1203d5b404]: Commencement: Reg. 31 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
+[^c-b387acf15ea1828302c8bc1203d5b404]: Commencement: Reg. 31 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3)
 
 [^c23630871]: Marginal citation: [S.I. 1999/1110](https://www.legislation.gov.uk/uksi/1999/1110).
 

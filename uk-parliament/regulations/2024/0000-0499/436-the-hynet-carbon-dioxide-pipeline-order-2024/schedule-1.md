@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — Authorised development[^key-1c582e66d576e6087185fc6e431c43f4]
+### PART 1 — Authorised development[^c-1c582e66d576e6087185fc6e431c43f4]
 
 A nationally significant infrastructure project as defined in sections 14 and 21 of the 2008 Act, comprising:
 
@@ -40,7 +40,7 @@ A nationally significant infrastructure project as defined in sections 14 and 21
   - (vii) connection points;
   - (viii) analyser house;
   - (ix) control mechanisms and electrical and instrumentation kiosk;
-  - (x) hard standing;[^key-9a1022220807f825451043d97b321369]
+  - (x) hard standing;[^c-9a1022220807f825451043d97b321369]
   - (xi) above ground pipework, valves and instrumentation;
 - (b) above ground control boxes;
 - (c) below ground pipework;
@@ -1195,14 +1195,14 @@ And in connection with Work Nos. 1 to 57N, and to the extent that they do not ot
 - (k) creation, use and reinstatement of crane pads; and
 - (l) works of restoration.
 
-### PART 2 — Ancillary works[^key-bf5106e42b083c05edaa883d5421bc90]
+### PART 2 — Ancillary works[^c-bf5106e42b083c05edaa883d5421bc90]
 
 Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising works for the benefit or protection of land affected by the authorised development.
 
 ## Annotations
 
-[^key-1c582e66d576e6087185fc6e431c43f4]: Commencement: Sch. 1 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-1c582e66d576e6087185fc6e431c43f4]: Commencement: Sch. 1 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-9a1022220807f825451043d97b321369]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/436/schedule/1/part/1) substituted (16.10.2024) by [The HyNet Carbon Dioxide Pipeline (Correction) Order 2024 (S.I. 2024/1031)](https://www.legislation.gov.uk/uksi/2024/1031), [art. 2](https://www.legislation.gov.uk/uksi/2024/1031/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1031/schedule)
+[^c-9a1022220807f825451043d97b321369]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/436/schedule/1/part/1) substituted (16.10.2024) by [The HyNet Carbon Dioxide Pipeline (Correction) Order 2024 (S.I. 2024/1031)](https://www.legislation.gov.uk/uksi/2024/1031), [art. 2](https://www.legislation.gov.uk/uksi/2024/1031/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1031/schedule)
 
-[^key-bf5106e42b083c05edaa883d5421bc90]: Commencement: Sch. 1 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-bf5106e42b083c05edaa883d5421bc90]: Commencement: Sch. 1 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

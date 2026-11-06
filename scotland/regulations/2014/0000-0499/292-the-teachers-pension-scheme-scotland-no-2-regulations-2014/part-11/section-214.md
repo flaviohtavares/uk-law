@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 214. Transitional provisions[^key-1013f3bbcc865bc745271a5da6d1027a]
+## 214. Transitional provisions[^c-1013f3bbcc865bc745271a5da6d1027a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect.
 
 ## Annotations
 
-[^key-1013f3bbcc865bc745271a5da6d1027a]: Commencement: [Reg. 214](https://www.legislation.gov.uk/ssi/2014/292/regulation/214) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1013f3bbcc865bc745271a5da6d1027a]: Commencement: [Reg. 214](https://www.legislation.gov.uk/ssi/2014/292/regulation/214) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

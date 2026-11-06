@@ -35,7 +35,7 @@ laying down technical guidelines for inspections in accordance with Article 17 o
 
 (Text with EEA relevance)
 
-[^key-2f8863ab7d7d81d54f93da13bdeed381]
+[^c-2f8863ab7d7d81d54f93da13bdeed381]
 
 THE EUROPEAN COMMISSION,
 
@@ -91,9 +91,9 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** (1.)[^key-a5ad00ae172d2a02ddf365078a0b9c88] The technical guidelines for inspections of mining waste facilities[^key-b58b7dcbdfdff8ff9f006b9468b47029] set out in the Annex to this Decision are adopted.
+**Article 1.** (1.)[^c-a5ad00ae172d2a02ddf365078a0b9c88] The technical guidelines for inspections of mining waste facilities[^c-b58b7dcbdfdff8ff9f006b9468b47029] set out in the Annex to this Decision are adopted.
 
-(2.)[^key-362cb29ff75a458eebaf10e38f3116c0] In this Decision—
+(2.)[^c-362cb29ff75a458eebaf10e38f3116c0] In this Decision—
 
 - “**the Mining Waste Directive**” means [Directive 2006/21/EC](https://www.legislation.gov.uk/european/directive/2006/0021) of the European Parliament and of the Council on the management of waste from extractive industries, read with the modifications in Article 1A;
 - “**the Waste Framework Directive**” means [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851;
@@ -112,7 +112,7 @@ HAS ADOPTED THIS DECISION:
 
 (3.) Other expressions used in this Decision which are defined in the Mining Waste Directive have the meanings given in that Directive.
 
-**Article 1A.**[^key-afcd256a3d46450939f5a5c1cb430c35] (1.) For the purposes of Article 1(2) and (3), the Mining Waste Directive is to be read with the modifications in paragraphs 2 and 3.
+**Article 1A.**[^c-afcd256a3d46450939f5a5c1cb430c35] (1.) For the purposes of Article 1(2) and (3), the Mining Waste Directive is to be read with the modifications in paragraphs 2 and 3.
 
 (2.) Article 3 is to be read as if—
 
@@ -148,7 +148,7 @@ HAS ADOPTED THIS DECISION:
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-58f73ebd67b5a2ddbb4c96108e06c358] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-58f73ebd67b5a2ddbb4c96108e06c358] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
 
   ;
@@ -179,7 +179,7 @@ HAS ADOPTED THIS DECISION:
 
 (5.) Annex 3 is to be read as if, in entry HP 9, in the second sentence, “in the Member States” were omitted.
 
-**Article 2.**[^key-92259896e09180a55353380a01a61bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-92259896e09180a55353380a01a61bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 21 February 2020.
 
@@ -193,13 +193,13 @@ Virginijus Sinkevičius
 
 ### PART A — Objectives
 
-These guidelines set out elements to be taken into consideration for inspections of mining waste facilities[^key-139f885626e0d22b7a3247ed8d0d2d82] that are to be carried out by competent authorities in accordance with the inspection provisions[^key-052ebd552d45db9f559528ac316348ae]. Such inspections are aimed at ensuring that any waste facility has obtained the required permit and complies with the relevant permit conditions. The inspections relate to the different life-phases of the waste facilities.
+These guidelines set out elements to be taken into consideration for inspections of mining waste facilities[^c-139f885626e0d22b7a3247ed8d0d2d82] that are to be carried out by competent authorities in accordance with the inspection provisions[^c-052ebd552d45db9f559528ac316348ae]. Such inspections are aimed at ensuring that any waste facility has obtained the required permit and complies with the relevant permit conditions. The inspections relate to the different life-phases of the waste facilities.
 
 These guidelines address the general framework for carrying out inspections (Part C), the focus of the inspections for each of the different life-phases of the waste facilities (Part D) and the specific elements relevant to inspection of Category A facilities (Part E).
 
 ### PART B — Definition
 
-For the purpose of these guidelines, ‘inspection’ means all activities undertaken by a competent authority or on its behalf in order to ensure compliance by mining waste facilities[^key-fb7b673e5cb14bea04d169180c8e385d] with the conditions of the permit that they have to obtain. These activities may include in particular:
+For the purpose of these guidelines, ‘inspection’ means all activities undertaken by a competent authority or on its behalf in order to ensure compliance by mining waste facilities[^c-fb7b673e5cb14bea04d169180c8e385d] with the conditions of the permit that they have to obtain. These activities may include in particular:
 
 - assessing relevant environmental and safety issues and the risks presented by the waste facilities;
 - carrying out site visits to check premises, site conditions, relevant equipment, including whether it is adequately maintained, relevant documents and electronic data, internal measures and systems and operating processes;
@@ -225,14 +225,14 @@ Inspections, including site visits, may be routine, i.e. carried out as part of 
 
 The following shall be taken into consideration:
 
-- ((a)) the availability, for each part of the United Kingdom[^key-2baf97f27d73cc197e63f864e719ac4b] and for the full range of mining waste facilities[^key-908a181b9a9f1b9a8c1e7a2cbdb74f3a], of competent authorities in charge of inspections;
+- ((a)) the availability, for each part of the United Kingdom[^c-2baf97f27d73cc197e63f864e719ac4b] and for the full range of mining waste facilities[^c-908a181b9a9f1b9a8c1e7a2cbdb74f3a], of competent authorities in charge of inspections;
 - ((b)) the independence of the competent authorities and their capacity to fulfil all tasks necessary for carrying out the inspections;
 - ((c)) the powers of the competent authorities to carry out inspections, including their right to enter facilities and examine relevant material assets, documents and electronic data;
 - ((d)) the sufficiency of the resources, personnel and equipment available to the competent authorities in order to carry out inspections;
-- ((e)) the arrangements the competent authorities have in place for co-operation and co-ordination of their activities with other relevant authorities, in particular other authorities with responsibilities in relation to compliance with permits required under [^key-ba2b3f724f909e3852b3de78a6194599]... environmental legislation that is applicable or relevant to the mining waste facilities[^key-09f3d0d2a2e2e748f8a0afd19d8a31f6];
+- ((e)) the arrangements the competent authorities have in place for co-operation and co-ordination of their activities with other relevant authorities, in particular other authorities with responsibilities in relation to compliance with permits required under [^c-ba2b3f724f909e3852b3de78a6194599]... environmental legislation that is applicable or relevant to the mining waste facilities[^c-09f3d0d2a2e2e748f8a0afd19d8a31f6];
 - ((f)) the level of knowledge, experience and competence that inspectors need to have to carry out inspections, in particular as regards the design, construction, operation and closure of waste facilities;
 - ((g)) the organisation of training to update the knowledge that inspectors have;
-- ((h)) the necessary assistance that operators must provide to the competent authorities to enable them to carry out inspections, including site visits, the taking of samples and the gathering of information necessary for the performance of their duties pursuant to the inspection provisions[^key-effbe64db749f28f450c44189fc2e3bf].
+- ((h)) the necessary assistance that operators must provide to the competent authorities to enable them to carry out inspections, including site visits, the taking of samples and the gathering of information necessary for the performance of their duties pursuant to the inspection provisions[^c-effbe64db749f28f450c44189fc2e3bf].
 
 When carrying out inspections, the competent authorities may be assisted by and may delegate inspection tasks to independent experts in accordance with national legislation, provided that the experts operate under the supervision of the competent authority. The competent authority shall determine the minimum qualifications of the experts and shall assess whether those qualifications are met. The competent authority shall also verify that the experts have no personal interest in the outcome of the inspection.
 
@@ -248,16 +248,16 @@ The following shall be taken into consideration:
 
 - ((a)) planning of inspections in advance by means of a plan or plans established at the appropriate administrative level based on a general assessment of the relevant environmental and safety issues and risks of the waste facilities and, where information is already available on compliance, an overall assessment of the state of compliance for the waste facilities operating within the plan area. Such plans can be integrated or combined with other inspection plans where considered appropriate;
 - ((b)) the periodic review and, where appropriate, the updating of the inspection plan or plans;
-- ((c)) the coverage in the inspection plan or plans of each mining waste facility[^key-bb5768cbd5d21de23f3dfaa2761a81b4];
+- ((c)) the coverage in the inspection plan or plans of each mining waste facility[^c-bb5768cbd5d21de23f3dfaa2761a81b4];
 - ((d)) the inclusion in each inspection plan of the following:
   - ((i)) a general assessment of relevant environmental and safety issues and risks;
   - ((ii)) the geographical area covered by the inspection plan;
   - ((iii)) a list of the waste facilities covered by the inspection plan which hold a permit;
-  - ((iv)) the means of ensuring identification of mining waste facilities[^key-9c6a29ca06584d8e8b9d57539cc41619] which operate without a permit;
+  - ((iv)) the means of ensuring identification of mining waste facilities[^c-9c6a29ca06584d8e8b9d57539cc41619] which operate without a permit;
   - ((v)) procedures for carrying out routine inspections;
   - ((vi)) procedures for carrying out non-routine inspections;
   - ((vii)) procedures for carrying out announced and unannounced site visits;
-  - ((viii)) where necessary, arrangements on the cooperation and co-ordination between different competent authorities in charge of inspections and between those authorities and other authorities with a role in the enforcement of permits required under [^key-9d582eb0b1e240fdfb1c5afccc7252b9]... environmental legislation that is applicable or relevant to mining waste facilities[^key-0b5dd58d02bd2102dd2d8c5cd134d7a5];
+  - ((viii)) where necessary, arrangements on the cooperation and co-ordination between different competent authorities in charge of inspections and between those authorities and other authorities with a role in the enforcement of permits required under [^c-9d582eb0b1e240fdfb1c5afccc7252b9]... environmental legislation that is applicable or relevant to mining waste facilities[^c-0b5dd58d02bd2102dd2d8c5cd134d7a5];
   - ((ix)) information on the human, financial and other resources needed by the competent authority for the implementation of the inspection plan.
 
 2.2.
@@ -272,7 +272,7 @@ The following shall be taken into consideration:
   - ((i)) the potential and actual impacts of the facilities concerned on human health and the environment, taking into account the levels and types of emissions, the sensitivity of the local environment and the risk of accidents as further specified in Best Available Technique (BAT 5) of the BAT Reference Document for the management of wastes from the extractive industries (MWEI BREF)[^f00002];
   - ((ii)) the previous compliance record;
   - ((iii)) the participation of the operator of the waste facility in the Environmental Management System (EMS) as further specified in BAT 1 of the MWEI BREF;
-- ((d)) the noting by the inspector, where appropriate, of relevant findings of inspections carried out under other applicable [^key-bfb452d083906642e3519537f92b0f00]... legislation;
+- ((d)) the noting by the inspector, where appropriate, of relevant findings of inspections carried out under other applicable [^c-bfb452d083906642e3519537f92b0f00]... legislation;
 - ((e)) the provision to the operator, when site visits are announced in advance, of the visit schedule and details of the information, and any other assistance, that the operator will be requested to provide;
 - ((f)) in the event of detection of non-compliance or a risk to compliance, the carrying out of an investigation and, as appropriate, the sharing of the results with other authorities, in particular with a view to:
   - ((i)) providing a description of the non-compliance or compliance risk, clarifying its causes and impact on the environment and human health, and in particular clarifying the circumstances (including the persons) which led to non-compliance;
@@ -285,10 +285,10 @@ Non-routine inspections
 
 The following shall be taken into consideration:
 
-- ((a)) the carrying out of non-routine inspections, including site visits, as soon as possible after the competent authority receives serious complaints concerning non-compliance with the permit requirements or otherwise becomes aware of serious accidents, incidents or occurrences of non-compliance, irrespective of whether such events need to be notified [^key-b0812157c1abb67ed709e832b615acc5]..., in particular with a view to:
+- ((a)) the carrying out of non-routine inspections, including site visits, as soon as possible after the competent authority receives serious complaints concerning non-compliance with the permit requirements or otherwise becomes aware of serious accidents, incidents or occurrences of non-compliance, irrespective of whether such events need to be notified [^c-b0812157c1abb67ed709e832b615acc5]..., in particular with a view to:
   - ((i)) clarifying the causes of the event, its impacts on the environment and human health, and in particular clarifying the circumstances (including the persons) which led to non-compliance;
   - ((ii)) providing a factual base to facilitate and enable appropriate responses to address the detected non-compliance and prevent future accidents, incidents or occurrences of non-compliance, including, as appropriate, additional inspections, corrective measures by the operator, update of permit conditions, suspension of the permit or use of sanctions;
-- ((b)) the noting by the inspector, where appropriate, of relevant findings of inspections carried out under other applicable [^key-2c27225056993b05203de8b6278b4c2c]... legislation;
+- ((b)) the noting by the inspector, where appropriate, of relevant findings of inspections carried out under other applicable [^c-2c27225056993b05203de8b6278b4c2c]... legislation;
 - ((c)) the carrying out of non-routine inspections as soon as possible with respect to, and, where appropriate, before the reconsideration or update of a permit.
 
 2.4.
@@ -315,7 +315,7 @@ The following shall be taken into consideration:
 - ((c)) the inclusion in the site visit report of the purpose of the inspection, the data, information and findings gathered, an evaluation thereof and a conclusion on whether the waste facility complies with the relevant conditions of the permit and whether any further action should follow;
 - ((d)) the completion of the site visit report within two months after the site visit, unless more serious findings have been made during the site visit, in which case another deadline may be required;
 - ((e)) the provision to the operator, before or after the finalisation of the site visit report, of an opportunity to submit comments, where appropriate;
-- ((f)) the availability to the public of the results of the site visit and, as appropriate, of other inspection activities, in accordance with the Environmental Information Regulations 2004 or the Environmental Information (Scotland) Regulations 2004[^key-2e8e9ea27b7a83e49d923846f2eeb83f].
+- ((f)) the availability to the public of the results of the site visit and, as appropriate, of other inspection activities, in accordance with the Environmental Information Regulations 2004 or the Environmental Information (Scotland) Regulations 2004[^c-2e8e9ea27b7a83e49d923846f2eeb83f].
 
 ### PART D — Focus of inspections over the different life-phases of waste facilities
 
@@ -330,9 +330,9 @@ The following shall be taken into consideration for the purposes of the inspecti
 - ((c)) the content, availability and performance of the self-monitoring system for regular monitoring and operators self-inspections and of the planned reporting of the monitoring data to the competent authority;
 - ((d)) the implementation of the management, maintenance and surveillance measures planned to ensure the physical stability of the facility and to prevent pollution or contamination of soil, air, surface water or groundwater in the short and long-term perspectives as well as to minimise as far as possible damage to the landscape;
 - ((e)) the availability of sufficient human resources and the competence of the personnel in charge of the environmental management and safety of the waste facility;
-- ((f)) the adequacy of the plan for closure contained in the waste management plan for the waste facility[^key-6e7460a59d6bf4c48d9fc31f423ae36e];
+- ((f)) the adequacy of the plan for closure contained in the waste management plan for the waste facility[^c-6e7460a59d6bf4c48d9fc31f423ae36e];
 - ((g)) the adequacy of the financial guarantee or equivalent with regard to its amount and form, where the competent authority requires a financial guarantee or equivalent; whether the classification of the waste facility as a Category A facility or not a Category A facility needs to be reviewed and verified;
-- ((h)) the compliance with any other permit conditions and any other relevant requirements under the relevant mining waste legislation[^key-9b19966dc24cdc5960516ebce0d634fe].
+- ((h)) the compliance with any other permit conditions and any other relevant requirements under the relevant mining waste legislation[^c-9b19966dc24cdc5960516ebce0d634fe].
 
 2\.
 
@@ -351,24 +351,24 @@ The following shall be taken into consideration for the purposes of the inspecti
 - ((i)) the representativeness of the sampling and characterization of extractive waste;
 - ((j)) roles, responsibilities and competence of personnel in charge of the environmental and safety management of the waste facility as well as availability of sufficient human resources and training provided to staff;
 - ((k)) procedures for notifying the competent authority of any events likely to affect the stability of the waste facility, and any significant adverse environmental effects revealed by the relevant control and monitoring procedures;
-- ((l)) the adequacy of the plan for closure contained in the waste management plan for the waste facility[^key-9c7576a5537277a42423e9df1b83ea3b] and compliance with any progressive closure measures specified in the plan;
+- ((l)) the adequacy of the plan for closure contained in the waste management plan for the waste facility[^c-9c7576a5537277a42423e9df1b83ea3b] and compliance with any progressive closure measures specified in the plan;
 - ((m)) the adequacy of the amount and form of the financial guarantee or equivalent in respect of the calculated costs for the obligations of the operator under the permit, including closure and after-closure arrangements and rehabilitation of the land affected, where the competent authority requires a financial guarantee or equivalent;
 - ((n)) the classification of the waste facility as a Category A facility or not a Category A facility;
-- ((o)) the compliance with any other permit conditions and any other relevant requirements under the relevant mining waste legislation[^key-135e29366696f676b407c0543e7b7199].
+- ((o)) the compliance with any other permit conditions and any other relevant requirements under the relevant mining waste legislation[^c-135e29366696f676b407c0543e7b7199].
 
 3\.
 
-*Final on-site inspection of waste facilities [^key-bd24ee43d6fe4aa019e6081dc1ce7500]...*
+*Final on-site inspection of waste facilities [^c-bd24ee43d6fe4aa019e6081dc1ce7500]...*
 
 The following shall be taken into consideration for the purposes of the inspection:
 
 - ((a)) adverse effects on the environment and human health from the waste facility and the measures taken in order to minimise such impact after closure, including, if required, the handling of contaminated water and leachate;
-- ((b)) the implementation of the plan for closure contained in the waste management plan for the waste facility[^key-26425509c575b4594db98f279060fc97];
+- ((b)) the implementation of the plan for closure contained in the waste management plan for the waste facility[^c-26425509c575b4594db98f279060fc97];
 - ((c)) the rehabilitation of the land affected by the waste facility;
 - ((d)) the adequacy of the plan and arrangements for the maintenance, monitoring, control and corrective measures in the after-closure phase of the waste facility, including the functioning and the adequacy of the monitoring, surveillance and control equipment;
 - ((e)) *the adequacy of the amount and form of the financial guarantee or equivalent* in respect of the calculated costs for the obligations of the operator under the permit, including completion of closure and after-closure arrangements and remaining rehabilitation of the land affected, where the competent authority requires a financial guarantee or equivalent;
 - ((f)) the classification of the waste facility as a Category A facility or not a Category A facility;
-- ((g)) the compliance with any other permit conditions and with any other relevant requirements under the relevant mining waste legislation[^key-2296d653da0aa6ea743a7dca2b64b751].
+- ((g)) the compliance with any other permit conditions and with any other relevant requirements under the relevant mining waste legislation[^c-2296d653da0aa6ea743a7dca2b64b751].
 
 4\.
 
@@ -379,13 +379,13 @@ The following shall be taken into consideration for the purposes of the inspecti
 - ((a)) adverse effects on the environment and human health from the waste facility and the measures taken in order to minimise such impact after closure, including, if required, the handling of contaminated water and leachate;
 - ((b)) the correspondence between, on the one hand, the adverse effects referred to in point (a) and, on the other hand, the permit conditions and the information in the environmental impact assessment, if required;
 - ((c)) the compliance of the leachate generation, including the contaminant content of the leachate, of the deposited waste, and of the water balance of the waste facility and, if required, the handling of contaminated water and leachate with the elements given in the permit;
-- ((d)) the implementation of the plan for closure contained in the waste management plan for the waste facility[^key-4fc4727f75d45f13d571c9fa3d828bac];
-- ((e)) the adequacy of the plan for closure [^key-b85c92c2d490843f67117d1469087ddd]..., in particular as regards the need for additional closure and rehabilitation measures based on environmental risk and impact evaluation;
+- ((d)) the implementation of the plan for closure contained in the waste management plan for the waste facility[^c-4fc4727f75d45f13d571c9fa3d828bac];
+- ((e)) the adequacy of the plan for closure [^c-b85c92c2d490843f67117d1469087ddd]..., in particular as regards the need for additional closure and rehabilitation measures based on environmental risk and impact evaluation;
 - ((f)) the rehabilitation of the land affected by the waste facility; the adequacy of the plan and arrangements for the maintenance, monitoring, control and corrective measures in the after-closure phase of the waste facility, including functioning and the adequacy of the monitoring, surveillance and control equipment, and of the reporting of all monitoring data to the competent authority;
 - ((g)) procedure for notifying the competent authority of any events or developments likely to affect the stability of the waste facility, and of any significant adverse environmental effects revealed by the relevant control and monitoring procedures;
 - ((h)) the adequacy of the amount and form of the financial guarantee or equivalent with in respect of the calculated costs for the obligations under the permit, including completion of after-closure arrangements, corrective measures and rehabilitation of the land affected, where the competent authority requires a financial guarantee or equivalent;
 - ((i)) the classification of the waste facility as a Category A facility or not a Category A facility;
-- ((j)) the compliance with any other permit conditions, and any other relevant requirements under the relevant mining waste legislation[^key-5e769f3d1b486f50a3be0ca0ddcac14b].
+- ((j)) the compliance with any other permit conditions, and any other relevant requirements under the relevant mining waste legislation[^c-5e769f3d1b486f50a3be0ca0ddcac14b].
 
 ### PART E — Additional elements for inspections of Category A waste facilities
 
@@ -435,72 +435,72 @@ In addition to the relevant elements listed in Part D, the following shall be ta
 
 ## Annotations
 
-[^key-2f8863ab7d7d81d54f93da13bdeed381]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/2/e)
+[^c-2f8863ab7d7d81d54f93da13bdeed381]: Modification: Decision: power to modify conferred (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/1)[(2)(e)](https://www.legislation.gov.uk/uksi/2022/190/regulation/10/2/e)
 
 [^f00001]: Footnote: [OJ L 102, 11.4.2006, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.102.01.0015.01.ENG).
 
-[^key-a5ad00ae172d2a02ddf365078a0b9c88]: Textual amendment: Art. 1 renumbered as Art. 1(1) (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/2/a)
+[^c-a5ad00ae172d2a02ddf365078a0b9c88]: Textual amendment: Art. 1 renumbered as Art. 1(1) (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/2/a)
 
-[^key-b58b7dcbdfdff8ff9f006b9468b47029]: Textual amendment: Words in Art. 1(1) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/2/b)
+[^c-b58b7dcbdfdff8ff9f006b9468b47029]: Textual amendment: Words in Art. 1(1) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/2/b)
 
-[^key-362cb29ff75a458eebaf10e38f3116c0]: Textual amendment: Art. 1(2)(3) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(2)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/2/c)
+[^c-362cb29ff75a458eebaf10e38f3116c0]: Textual amendment: Art. 1(2)(3) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(2)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/2/c)
 
-[^key-afcd256a3d46450939f5a5c1cb430c35]: Textual amendment: [Arts. 1A](https://www.legislation.gov.uk/eudn/2020/248/article/1A), [1B](https://www.legislation.gov.uk/eudn/2020/248/article/1B) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/3)
+[^c-afcd256a3d46450939f5a5c1cb430c35]: Textual amendment: [Arts. 1A](https://www.legislation.gov.uk/eudn/2020/248/article/1A), [1B](https://www.legislation.gov.uk/eudn/2020/248/article/1B) inserted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/3)
 
-[^key-58f73ebd67b5a2ddbb4c96108e06c358]: Textual amendment: Words in [Art. 1B(3)(b)](https://www.legislation.gov.uk/eudn/2020/248/article/1B/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 135](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/135)
+[^c-58f73ebd67b5a2ddbb4c96108e06c358]: Textual amendment: Words in [Art. 1B(3)(b)](https://www.legislation.gov.uk/eudn/2020/248/article/1B/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 135](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/135)
 
-[^key-92259896e09180a55353380a01a61bbd]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2020/248/article/2) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/4)
+[^c-92259896e09180a55353380a01a61bbd]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2020/248/article/2) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/4)
 
-[^key-139f885626e0d22b7a3247ed8d0d2d82]: Textual amendment: Words in [Annex Pt. A](https://www.legislation.gov.uk/eudn/2020/248/annex/part/A) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(5)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/5/a)
+[^c-139f885626e0d22b7a3247ed8d0d2d82]: Textual amendment: Words in [Annex Pt. A](https://www.legislation.gov.uk/eudn/2020/248/annex/part/A) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(5)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/5/a)
 
-[^key-052ebd552d45db9f559528ac316348ae]: Textual amendment: Words in [Annex Pt. A](https://www.legislation.gov.uk/eudn/2020/248/annex/part/A) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(5)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/5/b)
+[^c-052ebd552d45db9f559528ac316348ae]: Textual amendment: Words in [Annex Pt. A](https://www.legislation.gov.uk/eudn/2020/248/annex/part/A) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(5)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/5/b)
 
-[^key-fb7b673e5cb14bea04d169180c8e385d]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eudn/2020/248/annex/part/B) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(6)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/6)
+[^c-fb7b673e5cb14bea04d169180c8e385d]: Textual amendment: Words in [Annex Pt. B](https://www.legislation.gov.uk/eudn/2020/248/annex/part/B) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(6)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/6)
 
-[^key-2baf97f27d73cc197e63f864e719ac4b]: Textual amendment: Words in [Annex Pt C para. 1(a)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/a) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/i/aa)
+[^c-2baf97f27d73cc197e63f864e719ac4b]: Textual amendment: Words in [Annex Pt C para. 1(a)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/a) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/i/aa)
 
-[^key-908a181b9a9f1b9a8c1e7a2cbdb74f3a]: Textual amendment: Words in [Annex Pt C para. 1(a)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/a) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/i/bb)
+[^c-908a181b9a9f1b9a8c1e7a2cbdb74f3a]: Textual amendment: Words in [Annex Pt C para. 1(a)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/a) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/i/bb)
 
-[^key-ba2b3f724f909e3852b3de78a6194599]: Textual amendment: Words in [Annex Pt C para. 1(e)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/e) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/ii/aa)
+[^c-ba2b3f724f909e3852b3de78a6194599]: Textual amendment: Words in [Annex Pt C para. 1(e)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/e) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/ii/aa)
 
-[^key-09f3d0d2a2e2e748f8a0afd19d8a31f6]: Textual amendment: Words in [Annex Pt C para. 1(e)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/e) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/ii/bb)
+[^c-09f3d0d2a2e2e748f8a0afd19d8a31f6]: Textual amendment: Words in [Annex Pt C para. 1(e)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/e) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/ii/bb)
 
-[^key-effbe64db749f28f450c44189fc2e3bf]: Textual amendment: Words in [Annex Pt C para. 1(h)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/h) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/iii)
+[^c-effbe64db749f28f450c44189fc2e3bf]: Textual amendment: Words in [Annex Pt C para. 1(h)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/1/h) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/a/iii)
 
-[^key-bb5768cbd5d21de23f3dfaa2761a81b4]: Textual amendment: Words in Annex Pt C para. 2.1(c) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/i)
+[^c-bb5768cbd5d21de23f3dfaa2761a81b4]: Textual amendment: Words in Annex Pt C para. 2.1(c) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/i)
 
-[^key-9c6a29ca06584d8e8b9d57539cc41619]: Textual amendment: Words in Annex Pt C para. 2.1(d)(iv) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/ii)
+[^c-9c6a29ca06584d8e8b9d57539cc41619]: Textual amendment: Words in Annex Pt C para. 2.1(d)(iv) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/ii)
 
-[^key-9d582eb0b1e240fdfb1c5afccc7252b9]: Textual amendment: Words in [Annex Pt C para. 2.1(d)(viii)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/2.1/d/viii) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/iii/aa)
+[^c-9d582eb0b1e240fdfb1c5afccc7252b9]: Textual amendment: Words in [Annex Pt C para. 2.1(d)(viii)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/2.1/d/viii) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/iii/aa)
 
-[^key-0b5dd58d02bd2102dd2d8c5cd134d7a5]: Textual amendment: Words in [Annex Pt C para. 2.1(d)(viii)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/2.1/d/viii) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/iii/bb)
+[^c-0b5dd58d02bd2102dd2d8c5cd134d7a5]: Textual amendment: Words in [Annex Pt C para. 2.1(d)(viii)](https://www.legislation.gov.uk/eudn/2020/248/annex/Pt/paragraph/2.1/d/viii) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/b/iii/bb)
 
 [^f00002]: Footnote: http://eippcb.jrc.ec.europa.eu/reference/BREF/jrc109657\_mwei\_bref\_-\_for\_pubsy\_online.pdf
 
-[^key-bfb452d083906642e3519537f92b0f00]: Textual amendment: Word in Annex Pt. C para. 2.2(d) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/c)
+[^c-bfb452d083906642e3519537f92b0f00]: Textual amendment: Word in Annex Pt. C para. 2.2(d) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(c)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/c)
 
-[^key-b0812157c1abb67ed709e832b615acc5]: Textual amendment: Words in Annex Pt C para. 2.3(a) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/d/i)
+[^c-b0812157c1abb67ed709e832b615acc5]: Textual amendment: Words in Annex Pt C para. 2.3(a) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/d/i)
 
-[^key-2c27225056993b05203de8b6278b4c2c]: Textual amendment: Word in Annex Pt C para. 2.3(b) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/d/ii)
+[^c-2c27225056993b05203de8b6278b4c2c]: Textual amendment: Word in Annex Pt C para. 2.3(b) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/d/ii)
 
-[^key-2e8e9ea27b7a83e49d923846f2eeb83f]: Textual amendment: Words in Annex Pt C para. 3.1(f) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/e)
+[^c-2e8e9ea27b7a83e49d923846f2eeb83f]: Textual amendment: Words in Annex Pt C para. 3.1(f) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(7)(e)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/7/e)
 
-[^key-6e7460a59d6bf4c48d9fc31f423ae36e]: Textual amendment: Words in Annex Pt D para. 1(f) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/a/i)
+[^c-6e7460a59d6bf4c48d9fc31f423ae36e]: Textual amendment: Words in Annex Pt D para. 1(f) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/a/i)
 
-[^key-9b19966dc24cdc5960516ebce0d634fe]: Textual amendment: Words in Annex Pt D para. 1(h) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/a/ii)
+[^c-9b19966dc24cdc5960516ebce0d634fe]: Textual amendment: Words in Annex Pt D para. 1(h) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/a/ii)
 
-[^key-9c7576a5537277a42423e9df1b83ea3b]: Textual amendment: Words in Annex Pt D para. 2(l) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/b/i)
+[^c-9c7576a5537277a42423e9df1b83ea3b]: Textual amendment: Words in Annex Pt D para. 2(l) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/b/i)
 
-[^key-135e29366696f676b407c0543e7b7199]: Textual amendment: Words in Annex Pt D para. 2(o) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/b/ii)
+[^c-135e29366696f676b407c0543e7b7199]: Textual amendment: Words in Annex Pt D para. 2(o) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/b/ii)
 
-[^key-bd24ee43d6fe4aa019e6081dc1ce7500]: Textual amendment: Words in Annex Pt D para. 3 heading omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/c/i)
+[^c-bd24ee43d6fe4aa019e6081dc1ce7500]: Textual amendment: Words in Annex Pt D para. 3 heading omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/c/i)
 
-[^key-26425509c575b4594db98f279060fc97]: Textual amendment: Words in Annex Pt D para. 3(b) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/c/ii)
+[^c-26425509c575b4594db98f279060fc97]: Textual amendment: Words in Annex Pt D para. 3(b) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/c/ii)
 
-[^key-2296d653da0aa6ea743a7dca2b64b751]: Textual amendment: Words in Annex Pt D para. 3(g) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/c/iii)
+[^c-2296d653da0aa6ea743a7dca2b64b751]: Textual amendment: Words in Annex Pt D para. 3(g) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/c/iii)
 
-[^key-4fc4727f75d45f13d571c9fa3d828bac]: Textual amendment: Words in Annex Pt para. 4(d) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/d/i)
+[^c-4fc4727f75d45f13d571c9fa3d828bac]: Textual amendment: Words in Annex Pt para. 4(d) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/d/i)
 
-[^key-b85c92c2d490843f67117d1469087ddd]: Textual amendment: Words in Annex Pt para. 4(e) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/d/ii)
+[^c-b85c92c2d490843f67117d1469087ddd]: Textual amendment: Words in Annex Pt para. 4(e) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/d/ii)
 
-[^key-5e769f3d1b486f50a3be0ca0ddcac14b]: Textual amendment: Words in Annex Pt para. 4(j) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/d/iii)
+[^c-5e769f3d1b486f50a3be0ca0ddcac14b]: Textual amendment: Words in Annex Pt para. 4(j) substituted (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [17(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/17/8/d/iii)

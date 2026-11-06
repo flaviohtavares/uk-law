@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Restriction of Flying) (Belavia) Regulations 2021 (revoked)[^key-46edb9d82954828ee19661137caba213]
+The Air Navigation (Restriction of Flying) (Belavia) Regulations 2021 (revoked)[^c-46edb9d82954828ee19661137caba213]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into force
 
 3rd June 2021
 
-[^key-46edb9d82954828ee19661137caba213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46edb9d82954828ee19661137caba213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-46edb9d82954828ee19661137caba213]
+## 1. Citation and commencement[^c-46edb9d82954828ee19661137caba213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restricted airspace[^key-46edb9d82954828ee19661137caba213]
+## 2. Restricted airspace[^c-46edb9d82954828ee19661137caba213]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46edb9d82954828ee19661137caba213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46edb9d82954828ee19661137caba213]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-46edb9d82954828ee19661137caba213]EXPLANATORY NOTE
+[^c-46edb9d82954828ee19661137caba213]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -67,4 +67,4 @@ In relation to the permission mentioned in regulation 2(2)(a), this can be obtai
 
 ## Annotations
 
-[^key-46edb9d82954828ee19661137caba213]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/657) revoked (18.12.2021) by [The Air Navigation (Restriction of Flying) (Belarusian Aircraft) Regulations 2021 (S.I. 2021/1475)](https://www.legislation.gov.uk/uksi/2021/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1475/regulation/3)
+[^c-46edb9d82954828ee19661137caba213]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/657) revoked (18.12.2021) by [The Air Navigation (Restriction of Flying) (Belarusian Aircraft) Regulations 2021 (S.I. 2021/1475)](https://www.legislation.gov.uk/uksi/2021/1475), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1475/regulation/3)

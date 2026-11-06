@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Asylum Support (Amendment) Regulations 2018 (revoked)[^key-3696f88b49f69c78c24cf3304cf413d8]
+The Asylum Support (Amendment) Regulations 2018 (revoked)[^c-3696f88b49f69c78c24cf3304cf413d8]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 6th February 2018
 
-[^key-3696f88b49f69c78c24cf3304cf413d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3696f88b49f69c78c24cf3304cf413d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3696f88b49f69c78c24cf3304cf413d8]
+## 1. Citation and commencement[^c-3696f88b49f69c78c24cf3304cf413d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Kind and levels of support for essential living needs[^key-3696f88b49f69c78c24cf3304cf413d8]
+## 2. Kind and levels of support for essential living needs[^c-3696f88b49f69c78c24cf3304cf413d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3696f88b49f69c78c24cf3304cf413d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3696f88b49f69c78c24cf3304cf413d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3696f88b49f69c78c24cf3304cf413d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3696f88b49f69c78c24cf3304cf413d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3696f88b49f69c78c24cf3304cf413d8]: Textual amendment: Regulations revoked (21.2.2022) by [The Asylum Support (Amendment) Regulations 2022 (S.I. 2022/78)](https://www.legislation.gov.uk/uksi/2022/78), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/78/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/78/regulation/3/1)
+[^c-3696f88b49f69c78c24cf3304cf413d8]: Textual amendment: Regulations revoked (21.2.2022) by [The Asylum Support (Amendment) Regulations 2022 (S.I. 2022/78)](https://www.legislation.gov.uk/uksi/2022/78), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/78/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/78/regulation/3/1)

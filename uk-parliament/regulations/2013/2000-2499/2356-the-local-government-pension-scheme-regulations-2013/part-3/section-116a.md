@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116A. Independent Governance Reviews[^key-13156b37f273a598aa4ffcac0a502b6a]
+## 116A. Independent Governance Reviews[^c-13156b37f273a598aa4ffcac0a502b6a]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13156b37f273a598aa4ffcac0a502b6a]: Textual amendment: [Reg. 116A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/116A) inserted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/545/regulation/10)
+[^c-13156b37f273a598aa4ffcac0a502b6a]: Textual amendment: [Reg. 116A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/116A) inserted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/545/regulation/10)

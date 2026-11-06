@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Protective provisions[^key-792aabb7648bd30b1f7200ddc63d6456]
+## 11. Protective provisions[^c-792aabb7648bd30b1f7200ddc63d6456]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 3 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-792aabb7648bd30b1f7200ddc63d6456]: Commencement: Art. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-792aabb7648bd30b1f7200ddc63d6456]: Commencement: Art. 11 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

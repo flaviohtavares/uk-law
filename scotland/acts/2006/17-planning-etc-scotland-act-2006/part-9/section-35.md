@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Additional contributions and action[^key-c75ef1c02e7893a1d70a35a7b9824ba8][^key-eb393a1d163a66e3b4907102d89b2ae2]
+## 35. Additional contributions and action[^c-c75ef1c02e7893a1d70a35a7b9824ba8][^c-eb393a1d163a66e3b4907102d89b2ae2]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c75ef1c02e7893a1d70a35a7b9824ba8]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2006/17/section/35) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-c75ef1c02e7893a1d70a35a7b9824ba8]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2006/17/section/35) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-eb393a1d163a66e3b4907102d89b2ae2]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2006/17/section/35) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-eb393a1d163a66e3b4907102d89b2ae2]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2006/17/section/35) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

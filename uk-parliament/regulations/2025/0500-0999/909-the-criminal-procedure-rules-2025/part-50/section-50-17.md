@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.17. Exercise of the High Court’s powers[^key-803871e762746eeca430630d7036ec6f]
+## 50.17. Exercise of the High Court’s powers[^c-803871e762746eeca430630d7036ec6f]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-803871e762746eeca430630d7036ec6f]: Commencement: [Rule 50.17](https://www.legislation.gov.uk/uksi/2025/909/rule/50.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-803871e762746eeca430630d7036ec6f]: Commencement: [Rule 50.17](https://www.legislation.gov.uk/uksi/2025/909/rule/50.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

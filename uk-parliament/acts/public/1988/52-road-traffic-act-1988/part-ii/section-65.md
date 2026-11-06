@@ -27,7 +27,7 @@ summary: ''
 
 he is guilty of an offence.
 
-(1A)[^c13975771] For the purposes of subsection (1) above a vehicle shall be taken to comply with all relevant type approval requirements if an EU certificate of conformity[^key-a648e25b8f2dbf86dabdcc8c29b21ac8] has effect with respect to the vehicle.
+(1A)[^c13975771] For the purposes of subsection (1) above a vehicle shall be taken to comply with all relevant type approval requirements if an EU certificate of conformity[^c-a648e25b8f2dbf86dabdcc8c29b21ac8] has effect with respect to the vehicle.
 
 (2) In this section references to supply include—
 
@@ -47,4 +47,4 @@ he is guilty of an offence.
 
 [^c13975771]: Textual amendment: S. 65(1A) inserted (1.1.1993) by [S.I. 1992/3107](https://www.legislation.gov.uk/uksi/1992/3107), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1992/3107/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/1992/3107/regulation/16), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/1992/3107/schedule/2/paragraph/1/2).
 
-[^key-a648e25b8f2dbf86dabdcc8c29b21ac8]: Textual amendment: Words in [s. 65(1A)](https://www.legislation.gov.uk/ukpga/1988/52/section/65/1A) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/5/4)
+[^c-a648e25b8f2dbf86dabdcc8c29b21ac8]: Textual amendment: Words in [s. 65(1A)](https://www.legislation.gov.uk/ukpga/1988/52/section/65/1A) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/5/4)

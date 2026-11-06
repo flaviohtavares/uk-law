@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 21(10), 32(4), 46(3) and 165(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-bc65d0ce2e298d362c21219e773f846f]
+## 1. Citation, commencement and interpretation[^c-bc65d0ce2e298d362c21219e773f846f]
 
 (1) These Regulations may be cited as the Social Security (Adjudication) (Amendment) Regulations (Northern Ireland) 1997 and shall come into operation on 28th April 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security Adjudication Regulations[^key-4fa132ee34de54db949a6d9de3eedb71]
+## 2. Amendment of the Social Security Adjudication Regulations[^c-4fa132ee34de54db949a6d9de3eedb71]
 
 (1) The Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00003] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -110,11 +110,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-bc65d0ce2e298d362c21219e773f846f]: Commencement: Reg. 1 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/164/regulation/1/1)
+[^c-bc65d0ce2e298d362c21219e773f846f]: Commencement: Reg. 1 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/164/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4fa132ee34de54db949a6d9de3eedb71]: Commencement: Reg. 2 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/164/regulation/1/1)
+[^c-4fa132ee34de54db949a6d9de3eedb71]: Commencement: Reg. 2 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/164/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293), to which there are amendments not relevant to these regulations
 

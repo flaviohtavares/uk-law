@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-4fdeb64bf05b928ecca3508df34298fc]
+## 1. Citation, commencement, extent and application[^c-4fdeb64bf05b928ecca3508df34298fc]
 
 (1) This Order may be cited as the Suffolk (Electoral Changes) Order 2022.
 
@@ -53,7 +53,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 (3) Article 3 comes into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on 15th October 2024;
-- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2026[^key-f426d402c72cf8a40a9347bad0dcb543].
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2026[^c-f426d402c72cf8a40a9347bad0dcb543].
 
 (4) Article 4 comes into force—
 
@@ -62,13 +62,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (5) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-632a699108b397c9fa90e7178fdfcc42]
+## 2. Interpretation[^c-632a699108b397c9fa90e7178fdfcc42]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Suffolk (Electoral Changes) Order 2022”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Divisions of Suffolk and number of councillors[^key-98029153f20fcb8306eebb3d915ea944][^key-84dfedea970fc78ad3eaf8f0b9232660]
+## 3. Divisions of Suffolk and number of councillors[^c-98029153f20fcb8306eebb3d915ea944][^c-84dfedea970fc78ad3eaf8f0b9232660]
 
 (1) The existing divisions of Suffolk are abolished.
 
@@ -78,7 +78,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) One councillor is to be elected for each division listed in Schedule 1 other than the division of Beccles & Kessingland for which two councillors are to be elected.
 
-## 4. Parish wards of parishes in Suffolk and number of councillors[^key-f90e5bb0a3a87a33ddc719f2f94d3a6e][^key-6798487141ffb3ab810e0d99e9671beb]
+## 4. Parish wards of parishes in Suffolk and number of councillors[^c-f90e5bb0a3a87a33ddc719f2f94d3a6e][^c-6798487141ffb3ab810e0d99e9671beb]
 
 **Not yet in force.**
 
@@ -120,7 +120,7 @@ Local Government Boundary Commission for England
 
 18th July 2022
 
-## SCHEDULE 1 — Names of divisions[^key-5c0ba3f677af1af58bf9191698e8dfc7][^key-ece7be942b017cf69c412aabc2d5843e]
+## SCHEDULE 1 — Names of divisions[^c-5c0ba3f677af1af58bf9191698e8dfc7][^c-ece7be942b017cf69c412aabc2d5843e]
 
 Article 3(2)
 
@@ -262,7 +262,7 @@ Article 3(2)
 
 **69.** Woodbridge
 
-## SCHEDULE 2 — Names of parish wards and number of councillors[^key-73a7ab4c8df43ab9bc0d46b8a4b99185][^key-203c99ef29b2342ae92c9420233f1cb0]
+## SCHEDULE 2 — Names of parish wards and number of councillors[^c-73a7ab4c8df43ab9bc0d46b8a4b99185][^c-203c99ef29b2342ae92c9420233f1cb0]
 
 Article 4
 
@@ -379,28 +379,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/eastern/suffolk/suffolk-county-council
 
-[^key-4fdeb64bf05b928ecca3508df34298fc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2022/823/article/1) in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/823/article/1/2)
+[^c-4fdeb64bf05b928ecca3508df34298fc]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2022/823/article/1) in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/823/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-f426d402c72cf8a40a9347bad0dcb543]: Textual amendment: Word in [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b)
+[^c-f426d402c72cf8a40a9347bad0dcb543]: Textual amendment: Word in [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b)
 
-[^key-632a699108b397c9fa90e7178fdfcc42]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2022/823/article/2) in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/823/article/1/2)
+[^c-632a699108b397c9fa90e7178fdfcc42]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2022/823/article/2) in force at 15.10.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/823/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 1st Floor, Windsor House, 50 Victoria Street, London SW1H 0TL. It is also accessible online at https://www.lgbce.org.uk/all-reviews/eastern/suffolk/suffolk-county-council
 
-[^key-98029153f20fcb8306eebb3d915ea944]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/823/article/3) in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/a)
+[^c-98029153f20fcb8306eebb3d915ea944]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/823/article/3) in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/a)
 
-[^key-84dfedea970fc78ad3eaf8f0b9232660]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/823/article/3) in force at 7.5.2026 in so far as not already in force at 7.5.2026, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b))
+[^c-84dfedea970fc78ad3eaf8f0b9232660]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2022/823/article/3) in force at 7.5.2026 in so far as not already in force at 7.5.2026, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b))
 
-[^key-f90e5bb0a3a87a33ddc719f2f94d3a6e]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
+[^c-f90e5bb0a3a87a33ddc719f2f94d3a6e]: Commencement: Art. 4 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
 
-[^key-6798487141ffb3ab810e0d99e9671beb]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/b)
+[^c-6798487141ffb3ab810e0d99e9671beb]: Commencement: Art. 4 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/b)
 
-[^key-5c0ba3f677af1af58bf9191698e8dfc7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/823/schedule/1/paragraph/1) in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/a)
+[^c-5c0ba3f677af1af58bf9191698e8dfc7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/823/schedule/1/paragraph/1) in force at 15.10.2024 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/a)
 
-[^key-ece7be942b017cf69c412aabc2d5843e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/823/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b))
+[^c-ece7be942b017cf69c412aabc2d5843e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/823/schedule/1) in force at 7.5.2026 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/3/b) (as amended by [S.I. 2025/137](https://www.legislation.gov.uk/uksi/2025/137), [art. 5(1)(b)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/b))
 
-[^key-73a7ab4c8df43ab9bc0d46b8a4b99185]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
+[^c-73a7ab4c8df43ab9bc0d46b8a4b99185]: Commencement: Sch. 2 in force at 15.10.2026 for specified purposes, see [art. 1(4)(a)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/a)
 
-[^key-203c99ef29b2342ae92c9420233f1cb0]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/b)
+[^c-203c99ef29b2342ae92c9420233f1cb0]: Commencement: Sch. 2 in force at 6.5.2027 in so far as not already in force, see [art. 1(4)(b)](https://www.legislation.gov.uk/uksi/2022/823/article/1/4/b)

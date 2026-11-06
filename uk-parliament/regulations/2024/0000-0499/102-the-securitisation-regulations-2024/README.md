@@ -67,7 +67,7 @@ In accordance with sections 71S(2) and 429(2) and (9) of the Financial Services 
 
 - [Section 8 — Matter to which FCA and PRA must have regard when making rules relating to securitisation](part-3/section-8.md)
 
-### Part 3A — Restriction on establishment of a securitisation special purpose entity[^key-ad57a342c25ed099a73646ee75561c51]
+### Part 3A — Restriction on establishment of a securitisation special purpose entity[^c-ad57a342c25ed099a73646ee75561c51]
 
 - [Section 8A — Restriction on establishment of a securitisation special purpose entity](part-3a/section-8a.md)
 
@@ -210,4 +210,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: For the meaning of “the affirmative procedure”, see section 84(3) of the Financial Services and Markets Act 2023.
 
-[^key-ad57a342c25ed099a73646ee75561c51]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2024/102/part/3A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/5)
+[^c-ad57a342c25ed099a73646ee75561c51]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2024/102/part/3A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/5)

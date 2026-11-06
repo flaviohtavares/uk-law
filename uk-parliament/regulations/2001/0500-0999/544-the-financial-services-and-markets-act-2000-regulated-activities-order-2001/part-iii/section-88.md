@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Regulated mortgage contracts[^key-6aa2dd21be4cceed7676f96d68ee584a]
+## 88. Regulated mortgage contracts[^c-6aa2dd21be4cceed7676f96d68ee584a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Rights under a regulated mortgage contract.
 
 ## Annotations
 
-[^key-6aa2dd21be4cceed7676f96d68ee584a]: Commencement: Art. 88 in force at 31.10.2004, see art. 1(2)(b) (as read with Treasury notice dated 9.7.2003)
+[^c-6aa2dd21be4cceed7676f96d68ee584a]: Commencement: Art. 88 in force at 31.10.2004, see art. 1(2)(b) (as read with Treasury notice dated 9.7.2003)

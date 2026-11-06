@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Mis-sold pensions[^key-ba5f88a0c06d63cf8bde364d8ded2823]
+## 76. Mis-sold pensions[^c-ba5f88a0c06d63cf8bde364d8ded2823]
 
 *Extent: N.I.*
 
@@ -66,7 +66,7 @@ and “opted out service” and “transferred out service” are to be construe
 
 ## Annotations
 
-[^key-ba5f88a0c06d63cf8bde364d8ded2823]: Commencement: Reg. 76 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-ba5f88a0c06d63cf8bde364d8ded2823]: Commencement: Reg. 76 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00030]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8)
 

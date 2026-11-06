@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Variation of licences: further provisions[^key-56102485921b4a4f5a7de4054ba584f8]
+## 19. Variation of licences: further provisions[^c-56102485921b4a4f5a7de4054ba584f8]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Regulations may make provision (including provision modifying any provision of t
 
 ## Annotations
 
-[^key-56102485921b4a4f5a7de4054ba584f8]: Commencement: S. 19 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-56102485921b4a4f5a7de4054ba584f8]: Commencement: S. 19 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

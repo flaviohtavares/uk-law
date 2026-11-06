@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Permitted leases: certification by the appropriate tribunal[^key-90b3db8dbec10d0cbbfc632fb685415e]
+## 8. Permitted leases: certification by the appropriate tribunal[^c-90b3db8dbec10d0cbbfc632fb685415e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90b3db8dbec10d0cbbfc632fb685415e]: Commencement: S. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-90b3db8dbec10d0cbbfc632fb685415e]: Commencement: S. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

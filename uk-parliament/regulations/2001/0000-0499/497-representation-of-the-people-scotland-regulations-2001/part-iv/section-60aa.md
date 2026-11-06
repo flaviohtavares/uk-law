@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60AA. Disapplication of January 2026 fresh signatures requirement[^key-11caa8f55cc14ebe7c30fb8c353e13ad]
+## 60AA. Disapplication of January 2026 fresh signatures requirement[^c-11caa8f55cc14ebe7c30fb8c353e13ad]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Where a registration officer would be required to send a person, who remains ent
 
 ## Annotations
 
-[^key-11caa8f55cc14ebe7c30fb8c353e13ad]: Textual amendment: Reg. 60AA inserted (1.12.2025) by [The Absent Voting at Scottish Parliament and Local Government Elections (Signature Refresh) (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/354)](https://www.legislation.gov.uk/ssi/2025/354), [arts. 1](https://www.legislation.gov.uk/ssi/2025/354/article/1), [2](https://www.legislation.gov.uk/ssi/2025/354/article/2)
+[^c-11caa8f55cc14ebe7c30fb8c353e13ad]: Textual amendment: Reg. 60AA inserted (1.12.2025) by [The Absent Voting at Scottish Parliament and Local Government Elections (Signature Refresh) (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/354)](https://www.legislation.gov.uk/ssi/2025/354), [arts. 1](https://www.legislation.gov.uk/ssi/2025/354/article/1), [2](https://www.legislation.gov.uk/ssi/2025/354/article/2)

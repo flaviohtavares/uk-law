@@ -316,7 +316,7 @@ the imposition of that requirement or condition shall be regarded as less favour
 
 but where the scheme includes any unfair maternity provisions, it shall to that extent be regarded as according less favourable treatment to women on the basis of sex.
 
-(5) Where the scheme treats persons of the one sex differently according to their marital , civil partnership[^key-a4e38b49da8f91a890ea65cf14c3f19b] or family status, that treatment is to be compared with the scheme's treatment of persons of the other sex who have the same status.
+(5) Where the scheme treats persons of the one sex differently according to their marital , civil partnership[^c-a4e38b49da8f91a890ea65cf14c3f19b] or family status, that treatment is to be compared with the scheme's treatment of persons of the other sex who have the same status.
 
 (6) The principle of equal treatment applies in relation to members' dependants as it applies in relation to members.
 
@@ -341,8 +341,8 @@ but where the scheme includes any unfair maternity provisions, it shall to that 
 
 (9) For the purposes of this paragraph—
 
-- (a) any reference to a person's family status is a reference to his having a relevant[^key-5c604d462cf028875cee251a5b54c2ae] partner or any dependants; and
-- (b) a person “has a relevant[^key-365f999f1f5ee47c8ad9ff85af5f7a5e] partner” if that person and some other person , without being married to or civil partners of each other, live together as if spouses of each other[^key-39c6ecb2d805a8b51c5fc184dd030417] .
+- (a) any reference to a person's family status is a reference to his having a relevant[^c-5c604d462cf028875cee251a5b54c2ae] partner or any dependants; and
+- (b) a person “has a relevant[^c-365f999f1f5ee47c8ad9ff85af5f7a5e] partner” if that person and some other person , without being married to or civil partners of each other, live together as if spouses of each other[^c-39c6ecb2d805a8b51c5fc184dd030417] .
 
 #### Non‐compliance: compulsory levelling up
 
@@ -401,19 +401,19 @@ but, in respect of a period of paid maternity absence, a woman shall only be req
 - (a) the more favourable treatment required by paragraph 3(1) is treatment no less favourable than would be accorded to the member in accordance with the normal employment requirement; and
 - (b) paragraph 3(2) does not authorise the making of any such election as is there mentioned;
 
-but, in respect of any period of paid paternity leave, a member shall only be required to pay contributions on the amount of contractual remuneration or statutory paternity pay[^key-211b3664a26f58573b61e3498c5f4ef4][^c19796911] actually paid to or for him in respect of that period.
+but, in respect of any period of paid paternity leave, a member shall only be required to pay contributions on the amount of contractual remuneration or statutory paternity pay[^c-211b3664a26f58573b61e3498c5f4ef4][^c19796911] actually paid to or for him in respect of that period.
 
-(4)[^key-e5195b8892dc21db7e1a3c9ff256859f] In this paragraph—
+(4)[^c-e5195b8892dc21db7e1a3c9ff256859f] In this paragraph—
 
 - “period of paid paternity leave”, in the case of a member, means a period—
   - (a) throughout which the member is absent from work in circumstances where sub-paragraph (5), (6) ,[^c19796951] (7), (7A) or (7B) applies, and
-  - (b) for which the employer (or if he is no longer in his employment, his former employer) pays him any contractual remuneration or statutory paternity pay[^key-a720773a24ce5a6d7bd04bedb539ef05][^c19796971] ; and
+  - (b) for which the employer (or if he is no longer in his employment, his former employer) pays him any contractual remuneration or statutory paternity pay[^c-a720773a24ce5a6d7bd04bedb539ef05][^c19796971] ; and
 - “the normal employment requirement” is the requirement that any period of paid paternity leave shall be treated as if it were a period throughout which the member in question works normally and receives the remuneration likely to be paid for doing so.
 
 (5) This sub-paragraph applies if—
 
 - (a) the member's absence from work is due to the birth or expected birth of a child, and
-- (b) the member satisfies the conditions prescribed under section 167ZA(2)(a)(i) and (ii) of the Contributions and Benefits Act[^key-f74b4c09f5b91a5c40521bdb34e4fa0b] in relation to that child.
+- (b) the member satisfies the conditions prescribed under section 167ZA(2)(a)(i) and (ii) of the Contributions and Benefits Act[^c-f74b4c09f5b91a5c40521bdb34e4fa0b] in relation to that child.
 
 (6) This sub-paragraph applies if—
 
@@ -423,9 +423,9 @@ but, in respect of any period of paid paternity leave, a member shall only be re
 (7) This sub-paragraph applies if—
 
 - (a) the member's absence from work is due to the adoption or expected adoption of a child who has entered the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and
-- (b) the member satisfies the conditions prescribed under section 167ZB(2)(a)(i) and (ii) of that Act (as applied by virtue of section 167ZK(1)[^key-f7753d71637668a1a9741f2a1828f1cb] of that Act (adoption cases not involving placement under the law of the United Kingdom)) in relation to that child.
+- (b) the member satisfies the conditions prescribed under section 167ZB(2)(a)(i) and (ii) of that Act (as applied by virtue of section 167ZK(1)[^c-f7753d71637668a1a9741f2a1828f1cb] of that Act (adoption cases not involving placement under the law of the United Kingdom)) in relation to that child.
 
-(7A)[^key-080ddf01d79df00f9ffad6525f248756] This sub-paragraph applies if—
+(7A)[^c-080ddf01d79df00f9ffad6525f248756] This sub-paragraph applies if—
 
 - (a) the member's absence from work is due to the placement or expected placement of a child as mentioned in section 167ZBA(1) and (2) of the Contributions and Benefits Act (cases involving the placing of a child under Article 27(2)(a) of the Children (Northern Ireland) Order 1995 with a person who is an approved foster parent and an approved prospective adopter), and
 - (b) in relation to that child, the member satisfies the conditions prescribed under section 167ZB(2)(a)(i) and (ii) of that Act, as modified by virtue of section 167ZBA(1) to (3) of that Act (in relation to such cases).
@@ -437,7 +437,7 @@ but, in respect of any period of paid paternity leave, a member shall only be re
 
 (7C) In this paragraph and paragraphs 5B and 5C, “**theContributions and Benefits Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-(8)[^key-5f0a54ac4c4038a15d597c872f0c086b][^c19796991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5f0a54ac4c4038a15d597c872f0c086b][^c19796991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Unfair adoption leave provisions
 
@@ -461,7 +461,7 @@ but, in respect of any period of paid adoption leave, a member shall only be req
 (4) In this paragraph—
 
 - “period of paid adoption leave”, in the case of a member, means a period—
-  - (a) throughout which the member is absent from work in circumstances where sub-paragraph (5) , (6), (7) or (8)[^key-aadf90da962d536be45f434d83c709e4] applies, and
+  - (a) throughout which the member is absent from work in circumstances where sub-paragraph (5) , (6), (7) or (8)[^c-aadf90da962d536be45f434d83c709e4] applies, and
   - (b) for which the employer (or, if he is no longer in his employment, his former employer) pays him any contractual remuneration or statutory adoption pay; and
 - “the normal employment requirement” is the requirement that any period of paid adoption leave shall be treated as if it were a period throughout which the member in question works normally and receives the remuneration likely to be paid for doing so.
 
@@ -475,7 +475,7 @@ but, in respect of any period of paid adoption leave, a member shall only be req
 - (a) the member's absence from work is due to the adoption or expected adoption of a child who has entered the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and
 - (b) the member is a person by whom the child has been or is expected to be adopted.
 
-(7)[^key-c47ac1be77f6d5722581acfa66129146] This sub-paragraph applies if—
+(7)[^c-c47ac1be77f6d5722581acfa66129146] This sub-paragraph applies if—
 
 - (a) the member's absence from work is due to the placement or expected placement of a child as mentioned in section 167ZLA(1) and (2) of the Contributions and Benefits Act (cases involving the placing of a child under Article 27(2)(a) of the Children (Northern Ireland) Order 1995 with a person who is an approved foster parent and an approved prospective adopter), and
 - (b) in relation to that child, the member satisfies the condition in section 167ZL(2)(a) of that Act, as modified by virtue of section 167ZLA(1) to (3) of that Act (in relation to such cases).
@@ -483,9 +483,9 @@ but, in respect of any period of paid adoption leave, a member shall only be req
 (8) This sub-paragraph applies if—
 
 - (a) the member's absence from work is due to the birth or expected birth of a child, and
-- (b) in relation to that child, the member satisfies the condition in section 167ZL(2)(a) of the Contributions and Benefits Act, as applied by virtue of section 167ZT(2) of that Act (cases involving applicants for parental orders under section 54 or 54A[^key-036865f7a0d8be14baa4571fd41d5275] of the Human Fertilisation and Embryology Act 2008).
+- (b) in relation to that child, the member satisfies the condition in section 167ZL(2)(a) of the Contributions and Benefits Act, as applied by virtue of section 167ZT(2) of that Act (cases involving applicants for parental orders under section 54 or 54A[^c-036865f7a0d8be14baa4571fd41d5275] of the Human Fertilisation and Embryology Act 2008).
 
-#### Unfair shared parental leave provisions[^key-0b8485fc9969554ce09cd53cc287a51b]
+#### Unfair shared parental leave provisions[^c-0b8485fc9969554ce09cd53cc287a51b]
 
 **5C.** (1) Where an employment-related benefit scheme includes any unfair shared parental leave provisions (irrespective of any differences on the basis of sex in the treatment accorded to members under those provisions), then—
 
@@ -568,7 +568,7 @@ but, in respect of any period of paid shared parental leave, a member shall only
   - (i) a period of paid paternity leave, or
   - (ii) a period of paid adoption leave
 
-#### Unfair parental bereavement leave provisions[^key-6a9fc3b575612b07379f6976c475f2a2]
+#### Unfair parental bereavement leave provisions[^c-6a9fc3b575612b07379f6976c475f2a2]
 
 **5D.** (1) Where an employment-related benefit scheme includes any unfair parental bereavement leave provisions (irrespective of any differences on the basis of sex in the treatment accorded to members under those provisions), then—
 
@@ -760,15 +760,15 @@ but, in respect of a period of paid family leave, a member shall only be require
 
 [^c17015851]: Textual amendment: [1992 c. 9](https://www.legislation.gov.uk/ukpga/1992/9)
 
-[^key-a4e38b49da8f91a890ea65cf14c3f19b]: Textual amendment: Words in [Sch. 5 para. 2(5)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-a4e38b49da8f91a890ea65cf14c3f19b]: Textual amendment: Words in [Sch. 5 para. 2(5)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17015891]: Textual amendment: prosp. subst. by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-5c604d462cf028875cee251a5b54c2ae]: Textual amendment: Words in [Sch. 5 para. 2(9)(a)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/9/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(b)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/b/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-5c604d462cf028875cee251a5b54c2ae]: Textual amendment: Words in [Sch. 5 para. 2(9)(a)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/9/a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(b)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/b/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-365f999f1f5ee47c8ad9ff85af5f7a5e]: Textual amendment: Words in [Sch. 5 para. 2(9)(b)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/9/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(b)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/b/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-365f999f1f5ee47c8ad9ff85af5f7a5e]: Textual amendment: Words in [Sch. 5 para. 2(9)(b)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/9/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(b)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/b/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-39c6ecb2d805a8b51c5fc184dd030417]: Textual amendment: Words in [Sch. 5 para. 2(9)(b)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/9/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-39c6ecb2d805a8b51c5fc184dd030417]: Textual amendment: Words in [Sch. 5 para. 2(9)(b)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/2/9/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [63(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/63/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c20478231]: Commencement: Sch. 5 para. 3 partly in force; Sch. 5 para. 3 not in force at Royal Assent see art. 1(2); Sch. 5 para. 3(1)(3)(4) in force for certain purposes at 23.6.1994 by [S.R. 1994/234](https://www.legislation.gov.uk/nisr/1994/234), [art. 2](https://www.legislation.gov.uk/nisr/1994/234/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/1994/234/schedule/part/I); Sch. 5 para. 3(1)(3)(4) in force for certain additional purposes at 24.8.2007 by [S.R. 2007/362](https://www.legislation.gov.uk/nisr/2007/362), [art. 2](https://www.legislation.gov.uk/nisr/2007/362/article/2)
 
@@ -776,37 +776,37 @@ but, in respect of a period of paid family leave, a member shall only be require
 
 [^c17015871]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-211b3664a26f58573b61e3498c5f4ef4]: Textual amendment: Words in Sch. 5 para. 5A(3) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-211b3664a26f58573b61e3498c5f4ef4]: Textual amendment: Words in Sch. 5 para. 5A(3) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c19796911]: Textual amendment: Words in Sch. 5 para. 5A(3) substituted (1.10.2010) by [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3), [13(1)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/1/2); [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(a)(d)](https://www.legislation.gov.uk/nisr/2010/295/article/3/a/d)
 
-[^key-e5195b8892dc21db7e1a3c9ff256859f]: Textual amendment: Words in Sch. 5 para. 5A(4) substituted (15.3.2015 for specified purposes, 5.4.2015 in so far as not already in operation) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(b)(i)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/b/i); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-e5195b8892dc21db7e1a3c9ff256859f]: Textual amendment: Words in Sch. 5 para. 5A(4) substituted (15.3.2015 for specified purposes, 5.4.2015 in so far as not already in operation) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(b)(i)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/b/i); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c19796951]: Textual amendment: Sch. 5 para. 5A(4): words in definition of "period of paid paternity leave" substituted (1.10.2010) by [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3), [13(1)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/1), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/1/3/a); [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(a)(d)](https://www.legislation.gov.uk/nisr/2010/295/article/3/a/d)
 
-[^key-a720773a24ce5a6d7bd04bedb539ef05]: Textual amendment: Words in Sch. 5 para. 5A(4) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/b/ii); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-a720773a24ce5a6d7bd04bedb539ef05]: Textual amendment: Words in Sch. 5 para. 5A(4) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(b)(ii)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/b/ii); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c19796971]: Textual amendment: Sch. 5 para. 5A(4): words in definition of "period of paid paternity leave" substituted (1.10.2010) by [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3), [13(1)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/1), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/1/3/b); [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(a)(d)](https://www.legislation.gov.uk/nisr/2010/295/article/3/a/d)
 
-[^key-f74b4c09f5b91a5c40521bdb34e4fa0b]: Textual amendment: Words in Sch. 5 para. 5A(5)(b) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/c); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-f74b4c09f5b91a5c40521bdb34e4fa0b]: Textual amendment: Words in Sch. 5 para. 5A(5)(b) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(c)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/c); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-f7753d71637668a1a9741f2a1828f1cb]: Textual amendment: Words in Sch. 5 para. 5A(7) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(d)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/d); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-f7753d71637668a1a9741f2a1828f1cb]: Textual amendment: Words in Sch. 5 para. 5A(7) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(d)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/d); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-080ddf01d79df00f9ffad6525f248756]: Textual amendment: Sch. 5 paras. 5A(7A)-(7C) inserted (15.3.2015 for (7B)(7C), 5.4.2015 for (7A)) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(e)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/e); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-080ddf01d79df00f9ffad6525f248756]: Textual amendment: Sch. 5 paras. 5A(7A)-(7C) inserted (15.3.2015 for (7B)(7C), 5.4.2015 for (7A)) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(e)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/e); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-5f0a54ac4c4038a15d597c872f0c086b]: Textual amendment: [Sch. 5 para. 5A(8)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/5A/8) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(f)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/f), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-5f0a54ac4c4038a15d597c872f0c086b]: Textual amendment: [Sch. 5 para. 5A(8)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/5A/8) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(2)(f)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/2/f), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c19796991]: Textual amendment: Sch. 5 para. 5A(8) added (1.10.2010) by [Work and Families (Northern Ireland) Order 2006 (S.I. 2006/1947 (N.I. 16))](https://www.legislation.gov.uk/nisi/2006/1947), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3), [13(1)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/1/4); [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(a)(d)](https://www.legislation.gov.uk/nisr/2010/295/article/3/a/d)
 
-[^key-aadf90da962d536be45f434d83c709e4]: Textual amendment: Words in Sch. 5 para. 5B(4) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/3/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-aadf90da962d536be45f434d83c709e4]: Textual amendment: Words in Sch. 5 para. 5B(4) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/3/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-c47ac1be77f6d5722581acfa66129146]: Textual amendment: Sch. 5 para. 5B(7), (8) added (15.3.2015 for sub-para. (8), 5.4.2015 for sub-para. (7)) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/3/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-c47ac1be77f6d5722581acfa66129146]: Textual amendment: Sch. 5 para. 5B(7), (8) added (15.3.2015 for sub-para. (8), 5.4.2015 for sub-para. (7)) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/3/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a), [4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-036865f7a0d8be14baa4571fd41d5275]: Textual amendment: Words in [Sch. 5 para. 5B(8)(b)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/5B/8/b) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/3)
+[^c-036865f7a0d8be14baa4571fd41d5275]: Textual amendment: Words in [Sch. 5 para. 5B(8)(b)](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/5B/8/b) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/3)
 
-[^key-0b8485fc9969554ce09cd53cc287a51b]: Textual amendment: Sch. 5 para. 5C and preceding cross-heading inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/4); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-0b8485fc9969554ce09cd53cc287a51b]: Textual amendment: Sch. 5 para. 5C and preceding cross-heading inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/1/4); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-6a9fc3b575612b07379f6976c475f2a2]: Textual amendment: [Sch. 5 para. 5D](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/5D) and cross-heading inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/1); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-6a9fc3b575612b07379f6976c475f2a2]: Textual amendment: [Sch. 5 para. 5D](https://www.legislation.gov.uk/nisi/1989/1342/schedule/5/paragraph/5D) and cross-heading inserted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/nia/2022/5), [ss. 4](https://www.legislation.gov.uk/nia/2022/5/section/4), [5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)[(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/nia/2022/5/schedule/part/1/paragraph/1); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
 [^c17015911]: Textual amendment: prosp. subst. by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 

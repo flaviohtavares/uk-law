@@ -24,34 +24,34 @@ Section 47
 
 ### Purpose of Schedule
 
-**1.**[^key-68cbb367c82cee2d5c81fb2ac3fa5117] (1) The purpose of this Schedule is to secure that in the case of an arrangement—
+**1.**[^c-68cbb367c82cee2d5c81fb2ac3fa5117] (1) The purpose of this Schedule is to secure that in the case of an arrangement—
 
 - (a) which involves the sale of securities and the subsequent purchase of securities, and
 - (b) which equates, in substance, to a transaction for the lending of money at interest from or to a company (with the securities which were sold as collateral for the loan),
 
-the charge to corporation tax in that case in respect of chargeable gains[^key-fc0beb488f565d4116689b4cf6a76cd5] reflects the fact that the arrangement equates, in substance, to such a transaction.
+the charge to corporation tax in that case in respect of chargeable gains[^c-fc0beb488f565d4116689b4cf6a76cd5] reflects the fact that the arrangement equates, in substance, to such a transaction.
 
 (2) But this is not to be read as preventing the rules in this Schedule about corporation tax in respect of chargeable gains from having no effect in relation to debtor quasi-repos and creditor quasi-repos.
 
 ### Meaning of debtor repo
 
-**2.**[^key-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Meaning of debtor quasi-repo
 
-**3.**[^key-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ignoring effect on borrower of sale of securities: debtor repos, debtor quasi-repos and other arrangements
 
-**4.**[^key-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Relief for borrower for finance charges in respect of the advance: debtor repos and debtor quasi-repos
 
-**5.**[^key-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-401dfcdbb5e5744f39b950dfb7c799dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ignoring sale and subsequent purchase for purposes of chargeable gains: debtor repos
 
-**6.**[^key-38eafca6b020bcbd1d3fb97999b690fa][^key-9f72072f5bf0b07a5564f06e3822bfad] (1) This paragraph applies if—
+**6.**[^c-38eafca6b020bcbd1d3fb97999b690fa][^c-9f72072f5bf0b07a5564f06e3822bfad] (1) This paragraph applies if—
 
 - (a) a company (“**the borrower**”) has a debtor repo, and
 - (b) the borrower (having sold the securities under the arrangement to the lender) is the only person with the right or obligation under the arrangement to buy those or similar securities at any subsequent time.
@@ -73,23 +73,23 @@ the borrower is to be treated for the purposes of corporation tax in respect of 
 
 ### Meaning of creditor repo
 
-**7.**[^key-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Meaning of creditor quasi-repo
 
-**8.**[^key-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ignoring effect on lender of sale of securities: creditor repos and creditor quasi-repos
 
-**9.**[^key-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Charge on lender for finance return in respect of the advance: creditor repos and creditor quasi-repos
 
-**10.**[^key-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e773f545354997ffed207409d101226b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ignoring purchase and subsequent sale for purposes of chargeable gains: creditor repos
 
-**11.**[^key-842a6fc52d54f25b30864bed059a6a03][^key-4e1aee6b8da5f928de85f5d0c9414ad8] (1) This paragraph applies if—
+**11.**[^c-842a6fc52d54f25b30864bed059a6a03][^c-4e1aee6b8da5f928de85f5d0c9414ad8] (1) This paragraph applies if—
 
 - (a) a company (“**the lender**”) has a creditor repo, and
 - (b) the lender (having bought the securities under the arrangement from the borrower) is the only person with the right or obligation under the arrangement to sell those or similar securities at any subsequent time.
@@ -111,23 +111,23 @@ the lender is to be treated for the purposes of corporation tax in respect of ch
 
 ### Repo under arrangement designed to produce quasi-interest: anti-avoidance
 
-**12.**[^key-52bcaefe2df2acead95a2108afe2feec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-52bcaefe2df2acead95a2108afe2feec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Requirements to deduct tax from manufactured payments: creditor repos and debtor repos
 
-**13.**[^key-a5fa479cf365a7ea693217cb20b28716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a5fa479cf365a7ea693217cb20b28716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation etc
 
-**14.**[^key-5eae3991aa0919a4894008662aa31763] (1) In this Schedule—
+**14.**[^c-5eae3991aa0919a4894008662aa31763] (1) In this Schedule—
 
 - “**arrangement**” includes any agreement or understanding (whether or not legally enforceable),
-- “**creditor quasi-repo**” has the meaning given by section 544 of CTA 2009[^key-9d95fe7e8340d3beafb278e633dfb2a8],
-- “**creditor repo**” has the meaning given by section 543 of CTA 2009[^key-503926418fa0a292275bc151336fb270],
-- “**debtor quasi-repo**” has the meaning given by section 549 of CTA 2009[^key-298e41eec689e96bb38fe6a12606e97f],
-- “**debtor repo**” has the meaning given by section 548 of CTA 2009[^key-739c2b0e382cbd006e07392a206bd5de],
+- “**creditor quasi-repo**” has the meaning given by section 544 of CTA 2009[^c-9d95fe7e8340d3beafb278e633dfb2a8],
+- “**creditor repo**” has the meaning given by section 543 of CTA 2009[^c-503926418fa0a292275bc151336fb270],
+- “**debtor quasi-repo**” has the meaning given by section 549 of CTA 2009[^c-298e41eec689e96bb38fe6a12606e97f],
+- “**debtor repo**” has the meaning given by section 548 of CTA 2009[^c-739c2b0e382cbd006e07392a206bd5de],
 - “**discharge**”, in relation to a liability, means the discharge of the liability in whole or in part (and “discharged” is to be read accordingly),
-- “**the loan relationship rules**” means the provisions of Part 5 of CTA 2009[^key-54a8f33cc5018e5765efef917a419f32],
+- “**the loan relationship rules**” means the provisions of Part 5 of CTA 2009[^c-54a8f33cc5018e5765efef917a419f32],
 - “**market value**” has the same meaning as in TCGA 1992,
 - “**overseas dividend**”, in relation to overseas securities, means any interest, dividend or other annual payment payable in respect of the securities,
 - “**overseas securities**” means shares, stock or other securities issued by—
@@ -157,7 +157,7 @@ in spite of any difference in the total nominal amounts of the respective securi
 
 (5) For the purposes of this Schedule it does not matter whether or not provision of any arrangement conferring a right or imposing an obligation on any person to buy any securities is subject to any conditions.
 
-(6)[^key-12fca23e7e70b2d6a07a0f36220ce303][^key-f38eb8c8f0b20fdce36eace84fe114fc][^key-fe263fb2d54eda77ca27ff7fc63a1fcc][^key-29b99981a05a84f04506bc72e62c7ecd] For the purposes of this Schedule an arrangement is in force from the time when the securities are initially sold until the earlier of—
+(6)[^c-12fca23e7e70b2d6a07a0f36220ce303][^c-f38eb8c8f0b20fdce36eace84fe114fc][^c-fe263fb2d54eda77ca27ff7fc63a1fcc][^c-29b99981a05a84f04506bc72e62c7ecd] For the purposes of this Schedule an arrangement is in force from the time when the securities are initially sold until the earlier of—
 
 - (a) the time when the relevant repurchase takes place, and
 - (b) the time when it becomes apparent that that repurchase will not take place.
@@ -186,7 +186,7 @@ in spite of any difference in the total nominal amounts of the respective securi
 
 ### Power to modify Schedule
 
-**15.**[^key-f851b33ef2ffc118cdffc343a2e15b23] (1) The Treasury may by regulations provide for all or any of the provisions of this Schedule to apply with modifications in relation to either or both of the following cases—
+**15.**[^c-f851b33ef2ffc118cdffc343a2e15b23] (1) The Treasury may by regulations provide for all or any of the provisions of this Schedule to apply with modifications in relation to either or both of the following cases—
 
 - (a) non-standard repo cases (see sub-paragraphs (2) to (5)), and
 - (b) cases involving redemption arrangements (see sub-paragraph (6)).
@@ -220,50 +220,50 @@ in spite of any difference in the total nominal amounts of the respective securi
 - “modifications” include exceptions and omissions, and
 - “**repo**” means—
   - (a) a debtor repo or debtor quasi-repo, or
-  - (b) a creditor repo or creditor quasi-repo (including anything treated, as a result of section 547 of CTA 2009[^key-cf1d91b7bd97b953f81df6352fa8acdf], as a creditor repo for the purposes of section 546 of that Act).
+  - (b) a creditor repo or creditor quasi-repo (including anything treated, as a result of section 547 of CTA 2009[^c-cf1d91b7bd97b953f81df6352fa8acdf], as a creditor repo for the purposes of section 546 of that Act).
 
 ## Annotations
 
-[^key-68cbb367c82cee2d5c81fb2ac3fa5117]: Commencement: Sch. 13 para. 1 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
+[^c-68cbb367c82cee2d5c81fb2ac3fa5117]: Commencement: Sch. 13 para. 1 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
 
-[^key-fc0beb488f565d4116689b4cf6a76cd5]: Textual amendment: Words in Sch. 13 para. 1(1) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-fc0beb488f565d4116689b4cf6a76cd5]: Textual amendment: Words in Sch. 13 para. 1(1) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-401dfcdbb5e5744f39b950dfb7c799dc]: Textual amendment: Sch. 13 paras. 2-5 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-401dfcdbb5e5744f39b950dfb7c799dc]: Textual amendment: Sch. 13 paras. 2-5 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-38eafca6b020bcbd1d3fb97999b690fa]: Commencement: Sch. 13 para. 6 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
+[^c-38eafca6b020bcbd1d3fb97999b690fa]: Commencement: Sch. 13 para. 6 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
 
-[^key-9f72072f5bf0b07a5564f06e3822bfad]: Modification: Sch. 13 para. 6 applied (with modifications) (with effect in accordance with reg. 1(1) of the amending S.I.) by [Sale and Repurchase of Securities (Modification of Schedule 13 to the Finance Act 2007) Regulations 2007 (S.I. 2007/2485)](https://www.legislation.gov.uk/uksi/2007/2485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/2/2), [4(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/4/1)
+[^c-9f72072f5bf0b07a5564f06e3822bfad]: Modification: Sch. 13 para. 6 applied (with modifications) (with effect in accordance with reg. 1(1) of the amending S.I.) by [Sale and Repurchase of Securities (Modification of Schedule 13 to the Finance Act 2007) Regulations 2007 (S.I. 2007/2485)](https://www.legislation.gov.uk/uksi/2007/2485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/2/2), [4(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/4/1)
 
-[^key-e773f545354997ffed207409d101226b]: Textual amendment: Sch. 13 paras. 7-10 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e773f545354997ffed207409d101226b]: Textual amendment: Sch. 13 paras. 7-10 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-842a6fc52d54f25b30864bed059a6a03]: Commencement: Sch. 13 para. 11 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
+[^c-842a6fc52d54f25b30864bed059a6a03]: Commencement: Sch. 13 para. 11 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
 
-[^key-4e1aee6b8da5f928de85f5d0c9414ad8]: Modification: Sch. 13 para. 11 applied (with modifications) (with effect in accordance with reg. 1(1) of the amending S.I.) by [Sale and Repurchase of Securities (Modification of Schedule 13 to the Finance Act 2007) Regulations 2007 (S.I. 2007/2485)](https://www.legislation.gov.uk/uksi/2007/2485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/4/2)
+[^c-4e1aee6b8da5f928de85f5d0c9414ad8]: Modification: Sch. 13 para. 11 applied (with modifications) (with effect in accordance with reg. 1(1) of the amending S.I.) by [Sale and Repurchase of Securities (Modification of Schedule 13 to the Finance Act 2007) Regulations 2007 (S.I. 2007/2485)](https://www.legislation.gov.uk/uksi/2007/2485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/4/2)
 
-[^key-52bcaefe2df2acead95a2108afe2feec]: Textual amendment: Sch. 13 para. 12 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-52bcaefe2df2acead95a2108afe2feec]: Textual amendment: Sch. 13 para. 12 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-a5fa479cf365a7ea693217cb20b28716]: Textual amendment: Sch. 13 para. 13 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 115](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/115), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-a5fa479cf365a7ea693217cb20b28716]: Textual amendment: Sch. 13 para. 13 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 115](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/115), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-5eae3991aa0919a4894008662aa31763]: Commencement: Sch. 13 para. 14 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
+[^c-5eae3991aa0919a4894008662aa31763]: Commencement: Sch. 13 para. 14 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
 
-[^key-9d95fe7e8340d3beafb278e633dfb2a8]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9d95fe7e8340d3beafb278e633dfb2a8]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-503926418fa0a292275bc151336fb270]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-503926418fa0a292275bc151336fb270]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-298e41eec689e96bb38fe6a12606e97f]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(c)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/c) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-298e41eec689e96bb38fe6a12606e97f]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(c)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/c) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-739c2b0e382cbd006e07392a206bd5de]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(d)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/d) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-739c2b0e382cbd006e07392a206bd5de]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(d)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/d) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-54a8f33cc5018e5765efef917a419f32]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(e)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/e) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-54a8f33cc5018e5765efef917a419f32]: Textual amendment: Words in Sch. 13 para. 14 substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(4)(e)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/4/e) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-12fca23e7e70b2d6a07a0f36220ce303]: Modification: Sch. 13 para. 14(6) applied (30.8.2007) by [Finance Act 2007 (Schedules 13 and 14) Order 2007 (S.I. 2007/2483)](https://www.legislation.gov.uk/uksi/2007/2483), [art. 6](https://www.legislation.gov.uk/uksi/2007/2483/article/6)
+[^c-12fca23e7e70b2d6a07a0f36220ce303]: Modification: Sch. 13 para. 14(6) applied (30.8.2007) by [Finance Act 2007 (Schedules 13 and 14) Order 2007 (S.I. 2007/2483)](https://www.legislation.gov.uk/uksi/2007/2483), [art. 6](https://www.legislation.gov.uk/uksi/2007/2483/article/6)
 
-[^key-f38eb8c8f0b20fdce36eace84fe114fc]: Modification: Sch. 13 para. 14(6) applied (with effect in accordance with reg. 1(1) of the amending S.I.) by [Sale and Repurchase of Securities (Modification of Schedule 13 to the Finance Act 2007) Regulations 2007 (S.I. 2007/2485)](https://www.legislation.gov.uk/uksi/2007/2485), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation1/2)
+[^c-f38eb8c8f0b20fdce36eace84fe114fc]: Modification: Sch. 13 para. 14(6) applied (with effect in accordance with reg. 1(1) of the amending S.I.) by [Sale and Repurchase of Securities (Modification of Schedule 13 to the Finance Act 2007) Regulations 2007 (S.I. 2007/2485)](https://www.legislation.gov.uk/uksi/2007/2485), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2485/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2007/2485/regulation1/2)
 
-[^key-fe263fb2d54eda77ca27ff7fc63a1fcc]: Modification: Sch. 13 para. 14(6) applied (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 9 paras. 43(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/43/3)[45(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/45/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fe263fb2d54eda77ca27ff7fc63a1fcc]: Modification: Sch. 13 para. 14(6) applied (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 9 paras. 43(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/43/3)[45(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/45/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-29b99981a05a84f04506bc72e62c7ecd]: Modification: Sch. 13 para. 14(6) applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 88(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/88/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-29b99981a05a84f04506bc72e62c7ecd]: Modification: Sch. 13 para. 14(6) applied (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 88(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/88/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f851b33ef2ffc118cdffc343a2e15b23]: Commencement: Sch. 13 para. 15 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
+[^c-f851b33ef2ffc118cdffc343a2e15b23]: Commencement: Sch. 13 para. 15 in force at 1.10.2007 with effect in relation to an arrangement that comes into force on or after 1.10.2007 by [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 2](https://www.legislation.gov.uk/uksi/2007/2483/article/2)
 
-[^key-cf1d91b7bd97b953f81df6352fa8acdf]: Textual amendment: Words in Sch. 13 para. 15(9)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(5)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/5) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-cf1d91b7bd97b953f81df6352fa8acdf]: Textual amendment: Words in Sch. 13 para. 15(9)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 726(5)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/726/5) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.105. Authentication of liquidator's appointment[^key-e13b1a0f7ac7811c013bc7abee7dcb50]
+## 4.105. Authentication of liquidator's appointment[^c-e13b1a0f7ac7811c013bc7abee7dcb50]
 
 *Extent: E+W*
 
-A copy of the certificate of the liquidator's appointment or (as the case may be) a sealed copy of the court's order or a copy of the notice registered in accordance with paragraph 83(3) of Schedule B1 to the Act[^key-8cfeaae44a83df1f5713492e2c08af23], may in any proceedings be adduced as proof that the person appointed is duly authorised to exercise the powers and perform the duties of liquidator in the company's winding up.
+A copy of the certificate of the liquidator's appointment or (as the case may be) a sealed copy of the court's order or a copy of the notice registered in accordance with paragraph 83(3) of Schedule B1 to the Act[^c-8cfeaae44a83df1f5713492e2c08af23], may in any proceedings be adduced as proof that the person appointed is duly authorised to exercise the powers and perform the duties of liquidator in the company's winding up.
 
 ## Annotations
 
-[^key-e13b1a0f7ac7811c013bc7abee7dcb50]: Commencement: [Rule 4.105](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.105) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e13b1a0f7ac7811c013bc7abee7dcb50]: Commencement: [Rule 4.105](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.105) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-8cfeaae44a83df1f5713492e2c08af23]: Textual amendment: Words in rule 4.105 inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/21)
+[^c-8cfeaae44a83df1f5713492e2c08af23]: Textual amendment: Words in rule 4.105 inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/21)

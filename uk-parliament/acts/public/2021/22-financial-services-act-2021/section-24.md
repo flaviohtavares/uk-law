@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Collective investment schemes authorised in approved countries[^key-aca0d6468e83dd2240790fe362d20b46]
+## 24. Collective investment schemes authorised in approved countries[^c-aca0d6468e83dd2240790fe362d20b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca0d6468e83dd2240790fe362d20b46]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/22/section/24) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-aca0d6468e83dd2240790fe362d20b46]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2021/22/section/24) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269A. Leases and occupancy rights: Scotland[^key-9e2b4b407ef87709eea8bdeeb38f6b10]
+## 269A. Leases and occupancy rights: Scotland[^c-9e2b4b407ef87709eea8bdeeb38f6b10]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2b4b407ef87709eea8bdeeb38f6b10]: Textual amendment: [S. 269A](https://www.legislation.gov.uk/ukpga/2002/29/section/269A) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)
+[^c-9e2b4b407ef87709eea8bdeeb38f6b10]: Textual amendment: [S. 269A](https://www.legislation.gov.uk/ukpga/2002/29/section/269A) inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W.S. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l)

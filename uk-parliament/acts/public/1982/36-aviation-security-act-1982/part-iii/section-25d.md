@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25D. Review and variation of police services agreements[^key-2ab93221285a65862a7b6975e86b7b14]
+## 25D. Review and variation of police services agreements[^c-2ab93221285a65862a7b6975e86b7b14]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The relevant persons—
 
 ## Annotations
 
-[^key-2ab93221285a65862a7b6975e86b7b14]: Textual amendment: Ss. 25B-25E substituted for s. 25B (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/5) (with [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/2) , [Sch. 6 para. 14(4)-(6)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/4) ); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)
+[^c-2ab93221285a65862a7b6975e86b7b14]: Textual amendment: Ss. 25B-25E substituted for s. 25B (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) , [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/5) (with [Sch. 6 para. 14(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/2) , [Sch. 6 para. 14(4)-(6)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/14/4) ); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s)

@@ -24,10 +24,10 @@ summary: ''
 
 (2) It shall be the duty of an inspector—
 
-- (a) to advise the Secretary of State on applications for licences under this Act[^key-94895b7df005f49bfcd8f0c70a5c77ee] , on requests for their variation or revocation and on their periodical review;
-- (b)[^key-833987256bc670cb50b5f3d20163663a] to comply with any direction given by the Secretary of State under subsection (2A).
+- (a) to advise the Secretary of State on applications for licences under this Act[^c-94895b7df005f49bfcd8f0c70a5c77ee] , on requests for their variation or revocation and on their periodical review;
+- (b)[^c-833987256bc670cb50b5f3d20163663a] to comply with any direction given by the Secretary of State under subsection (2A).
 
-(2A)[^key-0511a3c7272ac1d0efc8d9a5ed3ea683] The Secretary of State may give a direction to an inspector which—
+(2A)[^c-0511a3c7272ac1d0efc8d9a5ed3ea683] The Secretary of State may give a direction to an inspector which—
 
 - (a) specifies the holder of a licence under this Act;
 - (b) requires the inspector to visit the place specified in the licence, or in the case of a personal licence such places as the inspector considers appropriate, for the purpose of determining whether the holder is complying with the provisions of this Act and the conditions of the licence;
@@ -51,16 +51,16 @@ summary: ''
 
 (2E) Any report provided to the Secretary of State by virtue of subsection (2A)(c) must be kept by the Secretary of State for a period of at least five years.
 
-(3) If an inspector considers that a protected animal is undergoing excessive suffering he may require it to be immediately killed in accordance with section 15A[^key-6f2bc250e8ce0b8eadd10f03761ee76b] .
+(3) If an inspector considers that a protected animal is undergoing excessive suffering he may require it to be immediately killed in accordance with section 15A[^c-6f2bc250e8ce0b8eadd10f03761ee76b] .
 
 ## Annotations
 
 [^c1016528]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 29, see s. 29(1)
 
-[^key-94895b7df005f49bfcd8f0c70a5c77ee]: Textual amendment: Words in s. 18(2)(a) substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/19/2/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-94895b7df005f49bfcd8f0c70a5c77ee]: Textual amendment: Words in s. 18(2)(a) substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/19/2/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-833987256bc670cb50b5f3d20163663a]: Textual amendment: S. 18(2)(b) substituted for s. 18(2)(b)-(e) (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/19/2/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-833987256bc670cb50b5f3d20163663a]: Textual amendment: S. 18(2)(b) substituted for s. 18(2)(b)-(e) (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/19/2/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-0511a3c7272ac1d0efc8d9a5ed3ea683]: Textual amendment: S. 18(2A)-(2E) inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/19/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-0511a3c7272ac1d0efc8d9a5ed3ea683]: Textual amendment: S. 18(2A)-(2E) inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/19/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-6f2bc250e8ce0b8eadd10f03761ee76b]: Textual amendment: Words in s. 18(3) substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(8)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/8) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-6f2bc250e8ce0b8eadd10f03761ee76b]: Textual amendment: Words in s. 18(3) substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(8)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/8) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

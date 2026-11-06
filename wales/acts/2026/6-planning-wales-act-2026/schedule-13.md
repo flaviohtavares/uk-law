@@ -24,7 +24,7 @@ summary: ''
 
 (as introduced by section 183(2))
 
-### 1. Preparation of charging schedule: setting rates or other criteria[^key-8ca551e7bc7994d7c41483f78d46a1db]
+### 1. Preparation of charging schedule: setting rates or other criteria[^c-8ca551e7bc7994d7c41483f78d46a1db]
 
 (1) A charging authority, in setting rates or other criteria for its charging schedule, must have regard, to the extent and in the way specified in CIL regulations, to—
 
@@ -45,7 +45,7 @@ summary: ''
 
 (4) The regulations may also provide, or permit or require provision, for differential rates which may include provision for supplementary charges, a nil rate, increased rates or reductions.
 
-### 2. Preparation of charging schedule: methods of calculation[^key-969fbb8f51c3611db90d609d95fc6cdf]
+### 2. Preparation of charging schedule: methods of calculation[^c-969fbb8f51c3611db90d609d95fc6cdf]
 
 (1) CIL regulations may permit or require charging schedules to adopt methods of calculation specified in the regulations.
 
@@ -57,21 +57,21 @@ summary: ''
 - (d) an index used for determining a rate of inflation;
 - (e) values used or documents produced for other statutory purposes.
 
-### 3. Preparation of charging schedule: when it applies[^key-a0f5a5f58e9e7bc805a1dd6f9777384a]
+### 3. Preparation of charging schedule: when it applies[^c-a0f5a5f58e9e7bc805a1dd6f9777384a]
 
 CIL regulations may permit or require a charging authority to produce charging schedules that apply in relation to periods specified in the regulations.
 
-### 4. Preparation of charging schedule: consultation etc.[^key-acbb386064e7ff3b326f62903cb2c948]
+### 4. Preparation of charging schedule: consultation etc.[^c-acbb386064e7ff3b326f62903cb2c948]
 
 CIL regulations may require a charging authority to consult, or take other steps, in connection with the preparation of a charging schedule.
 
-### 5. Preparation of charging schedule: evidence[^key-45d1aef13c2714b6cdc8e065173e6bf5]
+### 5. Preparation of charging schedule: evidence[^c-45d1aef13c2714b6cdc8e065173e6bf5]
 
 (1) A charging authority must use appropriate available evidence to inform its preparation of a charging schedule.
 
 (2) CIL regulations may make provision about the effect of sub-paragraph (1).
 
-### 6. Preparation of draft and appointment of examiner[^key-9d6c562442765e660643742fcb7a2e4b]
+### 6. Preparation of draft and appointment of examiner[^c-9d6c562442765e660643742fcb7a2e4b]
 
 (1) A charging authority must prepare a draft of its charging schedule.
 
@@ -86,7 +86,7 @@ CIL regulations may require a charging authority to consult, or take other steps
 
 (5) The authority may, with the agreement of the examiner, appoint persons to assist the examiner.
 
-### 7. Examination of charging schedule[^key-0a5c48a4306163c61bfe9de1682f8859]
+### 7. Examination of charging schedule[^c-0a5c48a4306163c61bfe9de1682f8859]
 
 (1) The examiner must consider whether the drafting requirements have been complied with.
 
@@ -96,7 +96,7 @@ CIL regulations may require a charging authority to consult, or take other steps
 
 (4) CIL regulations may make provision for the examiner to reconsider a decision with a view to correcting errors (before or after approval of the charging schedule).
 
-### 8. Examiner’s recommendations[^key-c477b90713ebc0797a7878d189fe23fb]
+### 8. Examiner’s recommendations[^c-c477b90713ebc0797a7878d189fe23fb]
 
 (1) The examiner must make recommendations in accordance with this paragraph and must give reasons for the recommendations.
 
@@ -125,7 +125,7 @@ CIL regulations may require a charging authority to consult, or take other steps
 
 (7) The charging authority must publish the examiner’s recommendations and reasons.
 
-### 9. Approval of charging schedule[^key-5fce8c673ecb67d0055b570196d874cf]
+### 9. Approval of charging schedule[^c-5fce8c673ecb67d0055b570196d874cf]
 
 (1) A charging authority may approve a charging schedule only if—
 
@@ -152,19 +152,19 @@ CIL regulations may require a charging authority to consult, or take other steps
 
 (8) CIL regulations may make provision for the correction of errors in a charging schedule after approval.
 
-### 10. Publication and taking effect of charging schedule[^key-0081d1182fe4dec25d8de1a30404f38a]
+### 10. Publication and taking effect of charging schedule[^c-0081d1182fe4dec25d8de1a30404f38a]
 
 (1) CIL regulations may make provision about publication of a charging schedule after approval.
 
 (2) A charging schedule approved under paragraph 9 may not take effect before it is published by the charging authority.
 
-### 11. Revising a charging schedule[^key-34e5ecf5a198eb918215cf39dbdf14fd]
+### 11. Revising a charging schedule[^c-34e5ecf5a198eb918215cf39dbdf14fd]
 
 (1) A charging authority may revise a charging schedule.
 
 (2) Paragraphs 1 to 10 apply in relation to a revision of a charging schedule as they apply in relation to a charging schedule.
 
-### 12. Charging schedule ceasing to have effect[^key-4720fa1febb879a15920b7a3a074a3af]
+### 12. Charging schedule ceasing to have effect[^c-4720fa1febb879a15920b7a3a074a3af]
 
 (1) A charging authority may determine that a charging schedule is to cease to have effect.
 
@@ -177,26 +177,26 @@ CIL regulations may require a charging authority to consult, or take other steps
 
 ## Annotations
 
-[^key-8ca551e7bc7994d7c41483f78d46a1db]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8ca551e7bc7994d7c41483f78d46a1db]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-969fbb8f51c3611db90d609d95fc6cdf]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-969fbb8f51c3611db90d609d95fc6cdf]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-a0f5a5f58e9e7bc805a1dd6f9777384a]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a0f5a5f58e9e7bc805a1dd6f9777384a]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-acbb386064e7ff3b326f62903cb2c948]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-acbb386064e7ff3b326f62903cb2c948]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-45d1aef13c2714b6cdc8e065173e6bf5]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-45d1aef13c2714b6cdc8e065173e6bf5]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9d6c562442765e660643742fcb7a2e4b]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9d6c562442765e660643742fcb7a2e4b]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-0a5c48a4306163c61bfe9de1682f8859]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0a5c48a4306163c61bfe9de1682f8859]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-c477b90713ebc0797a7878d189fe23fb]: Commencement: Sch. 13 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c477b90713ebc0797a7878d189fe23fb]: Commencement: Sch. 13 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-5fce8c673ecb67d0055b570196d874cf]: Commencement: Sch. 13 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5fce8c673ecb67d0055b570196d874cf]: Commencement: Sch. 13 para. 9 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-0081d1182fe4dec25d8de1a30404f38a]: Commencement: Sch. 13 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0081d1182fe4dec25d8de1a30404f38a]: Commencement: Sch. 13 para. 10 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-34e5ecf5a198eb918215cf39dbdf14fd]: Commencement: Sch. 13 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-34e5ecf5a198eb918215cf39dbdf14fd]: Commencement: Sch. 13 para. 11 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-4720fa1febb879a15920b7a3a074a3af]: Commencement: Sch. 13 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4720fa1febb879a15920b7a3a074a3af]: Commencement: Sch. 13 para. 12 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

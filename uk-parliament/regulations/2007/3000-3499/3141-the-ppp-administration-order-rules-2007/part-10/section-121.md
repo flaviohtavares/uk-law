@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. “Venue”[^key-9ecf83b51de1ca4f14f0cefceebd1546]
+## 121. “Venue”[^c-9ecf83b51de1ca4f14f0cefceebd1546]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ References to the “venue” for any proceedings or attendance before the court
 
 ## Annotations
 
-[^key-9ecf83b51de1ca4f14f0cefceebd1546]: Commencement: [Rule 121](https://www.legislation.gov.uk/uksi/2007/3141/rule/121) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-9ecf83b51de1ca4f14f0cefceebd1546]: Commencement: [Rule 121](https://www.legislation.gov.uk/uksi/2007/3141/rule/121) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

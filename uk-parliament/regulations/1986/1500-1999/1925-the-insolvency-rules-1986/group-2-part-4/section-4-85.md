@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.85. Expunging of proof by the court[^key-a1b1f2a71229d8f8d0dc4dbae00991d3]
+## 4.85. Expunging of proof by the court[^c-a1b1f2a71229d8f8d0dc4dbae00991d3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1b1f2a71229d8f8d0dc4dbae00991d3]: Commencement: [Rule 4.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.85) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a1b1f2a71229d8f8d0dc4dbae00991d3]: Commencement: [Rule 4.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.85) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

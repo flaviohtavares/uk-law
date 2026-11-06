@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Preservation of original documents[^key-b88d8e5388e316c03e109527b53dcbbd][^key-c63e98f07b3e4b0e07fde420724f49b5]
+## 81. Preservation of original documents[^c-b88d8e5388e316c03e109527b53dcbbd][^c-c63e98f07b3e4b0e07fde420724f49b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 1083 of the Companies Act 2006 (preservation of original documents), 
 
 ## Annotations
 
-[^key-b88d8e5388e316c03e109527b53dcbbd]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b88d8e5388e316c03e109527b53dcbbd]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c63e98f07b3e4b0e07fde420724f49b5]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/56/section/81) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z23)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z23)
+[^c-c63e98f07b3e4b0e07fde420724f49b5]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2023/56/section/81) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z23)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z23)

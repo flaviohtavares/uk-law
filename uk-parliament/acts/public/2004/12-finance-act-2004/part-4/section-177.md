@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Authorised surplus payment[^key-bcfe4a4120a1a00145c5c122f4dbbeb2][^key-8a7b6ca9a3fcc82c6b924c617b9cfdf2]
+## 177. Authorised surplus payment[^c-bcfe4a4120a1a00145c5c122f4dbbeb2][^c-8a7b6ca9a3fcc82c6b924c617b9cfdf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ For the purposes of this Part a payment is an authorised surplus payment if it i
 
 ## Annotations
 
-[^key-bcfe4a4120a1a00145c5c122f4dbbeb2]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-bcfe4a4120a1a00145c5c122f4dbbeb2]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-8a7b6ca9a3fcc82c6b924c617b9cfdf2]: Modification: Ss. 175-181 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [15](https://www.legislation.gov.uk/uksi/2006/575/regulation/15)
+[^c-8a7b6ca9a3fcc82c6b924c617b9cfdf2]: Modification: Ss. 175-181 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [15](https://www.legislation.gov.uk/uksi/2006/575/regulation/15)

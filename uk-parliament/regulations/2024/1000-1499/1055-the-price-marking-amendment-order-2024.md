@@ -48,13 +48,13 @@ The Secretary of State, in exercise of the powers under section 4 of the Prices 
 
 The Secretary of State, in accordance with section 4(3) of the said Act has consulted in such manner and with such organisations as appeared to be appropriate having regard to the subject-matter and urgency of this Order.
 
-## 1. Citation, commencement and extent[^key-7ebc9258102da0f6cd7fac531ac060cd]
+## 1. Citation, commencement and extent[^c-7ebc9258102da0f6cd7fac531ac060cd]
 
-(1) This Order may be cited as the Price Marking (Amendment) Order 2024 and comes into force on 6th April 2026[^key-26afcf4962fd4b7df50ec9352b77380d].
+(1) This Order may be cited as the Price Marking (Amendment) Order 2024 and comes into force on 6th April 2026[^c-26afcf4962fd4b7df50ec9352b77380d].
 
 (2) This Order extends to Great Britain.
 
-## 2. Amendment of the Price Marking Order 2004[^key-31d4bd9aa5edbdd86a8cf4d898b69a7f]
+## 2. Amendment of the Price Marking Order 2004[^c-31d4bd9aa5edbdd86a8cf4d898b69a7f]
 
 (1) The Price Marking Order 2004[^f00002] is amended as follows.
 
@@ -84,7 +84,7 @@ The Secretary of State, in accordance with section 4(3) of the said Act has cons
 
 (3) In article 5(2) (obligation to indicate unit price)—
 
-- (a)[^key-11b7dbe06141bff8d6a66e2b03a80c2c] for “Parts IV or V of the Weights and Measures Act 1985” substitute “Part IV of the Weights and Measures Act 1985[^f00004], regulation 5, 6 or 7 of the Weights and Measures (Packaged Goods) Regulations 2006[^f00005], or article 9 of [Regulation (EU) No. 1169/2011](https://www.legislation.gov.uk/european/regulation/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers
+- (a)[^c-11b7dbe06141bff8d6a66e2b03a80c2c] for “Parts IV or V of the Weights and Measures Act 1985” substitute “Part IV of the Weights and Measures Act 1985[^f00004], regulation 5, 6 or 7 of the Weights and Measures (Packaged Goods) Regulations 2006[^f00005], or article 9 of [Regulation (EU) No. 1169/2011](https://www.legislation.gov.uk/european/regulation/2011/1169) of the European Parliament and of the Council on the provision of food information to consumers
 - (b) in sub-paragraph (b), after “that Act” add “or those Regulations”.
 
 (4) In article 7—
@@ -109,7 +109,7 @@ The Secretary of State, in accordance with section 4(3) of the said Act has cons
 
 .
 
-(6)[^key-3641d89458ae4ef95f58bd71d9a8a9ca] For article 9 substitute—
+(6)[^c-3641d89458ae4ef95f58bd71d9a8a9ca] For article 9 substitute—
 
 > **9.** Where—
 >
@@ -126,7 +126,7 @@ The Secretary of State, in accordance with section 4(3) of the said Act has cons
 
 (9) In Schedule 2 (products in respect of which a trader is exempt from the requirement to unit price) for paragraph 3 substitute—
 
-> **3.**[^key-b5a81bf41e4a9723986932c0d2cf6edf] Any product which comprises an assortment of items—
+> **3.**[^c-b5a81bf41e4a9723986932c0d2cf6edf] Any product which comprises an assortment of items—
 >
 > - (a) which are either sold in a single package or at a lower price if a prescribed number or combination of items are purchased together and at the same time; and
 > - (b) where some of the items are sold—
@@ -172,11 +172,11 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24). Section 4 has been amended by the Price Commission Act [1977 (c. 33)](https://www.legislation.gov.uk/ukpga/1977/33) and the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14).
 
-[^key-7ebc9258102da0f6cd7fac531ac060cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/1055/article/1) in force at 6.4.2026 (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)), see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1)
+[^c-7ebc9258102da0f6cd7fac531ac060cd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/1055/article/1) in force at 6.4.2026 (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)), see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1)
 
-[^key-26afcf4962fd4b7df50ec9352b77380d]: Textual amendment: Words in [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)
+[^c-26afcf4962fd4b7df50ec9352b77380d]: Textual amendment: Words in [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1055/article/1/1) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)
 
-[^key-31d4bd9aa5edbdd86a8cf4d898b69a7f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/1055/article/2) in force at 6.4.2026 (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)), see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1)
+[^c-31d4bd9aa5edbdd86a8cf4d898b69a7f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/1055/article/2) in force at 6.4.2026 (as amended by [S.I. 2025/592](https://www.legislation.gov.uk/uksi/2025/592), [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/592/article/2/2)), see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2004/102](https://www.legislation.gov.uk/uksi/2004/102). The 2004 Order has been amended in ways which are not relevant to this Order.
 
@@ -184,10 +184,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00004]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12). The Act has been amended in ways not relevant to this Order.
 
-[^key-11b7dbe06141bff8d6a66e2b03a80c2c]: Textual amendment: [Art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/a) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/a)
+[^c-11b7dbe06141bff8d6a66e2b03a80c2c]: Textual amendment: [Art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/3/a) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/a)
 
 [^f00005]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72). Part V was repealed by [S.I. 2006/659](https://www.legislation.gov.uk/uksi/2006/659).
 
-[^key-3641d89458ae4ef95f58bd71d9a8a9ca]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/6) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/b)
+[^c-3641d89458ae4ef95f58bd71d9a8a9ca]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/6) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/b)
 
-[^key-b5a81bf41e4a9723986932c0d2cf6edf]: Textual amendment: Words in [art. 2(9)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/9) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/c)
+[^c-b5a81bf41e4a9723986932c0d2cf6edf]: Textual amendment: Words in [art. 2(9)](https://www.legislation.gov.uk/uksi/2024/1055/article/2/9) substituted (30.9.2025) by [The Price Marking (Amendment) Order 2025 (S.I. 2025/592)](https://www.legislation.gov.uk/uksi/2025/592), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/592/article/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2025/592/article/2/3/c)

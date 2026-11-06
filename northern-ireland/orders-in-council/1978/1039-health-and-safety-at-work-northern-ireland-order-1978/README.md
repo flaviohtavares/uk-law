@@ -27,7 +27,7 @@ summary: ''
 
 1978 No. 1039 (N.I. 9)
 
-Health and Safety at Work (Northern Ireland) Order 1978[^key-110fbd184597af1a2e50beacc97fd008][^key-178a701f03f76ad11a352d18d500c424][^key-8e11abad04976f76ba14d5b4a7384c75]
+Health and Safety at Work (Northern Ireland) Order 1978[^c-110fbd184597af1a2e50beacc97fd008][^c-178a701f03f76ad11a352d18d500c424][^c-8e11abad04976f76ba14d5b4a7384c75]
 
 \[25th July 1978\] [^c20800191][^c21340801][^c21342961][^c22012581]
 
@@ -155,11 +155,11 @@ SCHEDULES
 
 ## Annotations
 
-[^key-110fbd184597af1a2e50beacc97fd008]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1039) modified (1.6.2015) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [reg. 5(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/5/2)
+[^c-110fbd184597af1a2e50beacc97fd008]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1039) modified (1.6.2015) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [reg. 5(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/5/2)
 
-[^key-178a701f03f76ad11a352d18d500c424]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1039) applied (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 18](https://www.legislation.gov.uk/nisr/2018/17/regulation/18)
+[^c-178a701f03f76ad11a352d18d500c424]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1039) applied (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 18](https://www.legislation.gov.uk/nisr/2018/17/regulation/18)
 
-[^key-8e11abad04976f76ba14d5b4a7384c75]: Modification: Order modified (18.5.2015) by [The Ship Recycling Facilities Regulations (Northern Ireland) 2015 (S.R. 2015/229)](https://www.legislation.gov.uk/nisr/2015/229), [regs. 1](https://www.legislation.gov.uk/nisr/2015/229/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/229/regulation/5) (as amended (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-8e11abad04976f76ba14d5b4a7384c75]: Modification: Order modified (18.5.2015) by [The Ship Recycling Facilities Regulations (Northern Ireland) 2015 (S.R. 2015/229)](https://www.legislation.gov.uk/nisr/2015/229), [regs. 1](https://www.legislation.gov.uk/nisr/2015/229/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/229/regulation/5) (as amended (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c20800191]: Modification: Order: functions modified (1.10.2008) by [Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008 (S.R. 2008/315)](https://www.legislation.gov.uk/nisr/2008/315); [reg. 10(3)](https://www.legislation.gov.uk/nisi/1978/1039/regulation/10/3)
 

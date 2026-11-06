@@ -50,8 +50,8 @@ LRS is the length of the member's relevant service, expressed in days.
 
 (6) This regulation does not apply to pensions derived from pension credit rights.
 
-(7)[^key-63b0c83d63e9ab1b8692ad0296747e68] In the case of a 2008 Section Optant, this regulation is subject to regulation 136L.
+(7)[^c-63b0c83d63e9ab1b8692ad0296747e68] In the case of a 2008 Section Optant, this regulation is subject to regulation 136L.
 
 ## Annotations
 
-[^key-63b0c83d63e9ab1b8692ad0296747e68]: Textual amendment: [Reg. 45(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/45/7) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2010/22/regulation/28)
+[^c-63b0c83d63e9ab1b8692ad0296747e68]: Textual amendment: [Reg. 45(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/45/7) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2010/22/regulation/28)

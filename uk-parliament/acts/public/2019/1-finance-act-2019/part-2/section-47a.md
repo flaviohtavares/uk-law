@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Stamp duty: transfers of unlisted securities and connected persons[^key-9da2eedb4f3e172a0e0a99cbe2f655c6]
+## 47A. Stamp duty: transfers of unlisted securities and connected persons[^c-9da2eedb4f3e172a0e0a99cbe2f655c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9da2eedb4f3e172a0e0a99cbe2f655c6]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/2019/1/section/47A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 77](https://www.legislation.gov.uk/ukpga/2020/14/section/77)
+[^c-9da2eedb4f3e172a0e0a99cbe2f655c6]: Textual amendment: [S. 47A](https://www.legislation.gov.uk/ukpga/2019/1/section/47A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 77](https://www.legislation.gov.uk/ukpga/2020/14/section/77)

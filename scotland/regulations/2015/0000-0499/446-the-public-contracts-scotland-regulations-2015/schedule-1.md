@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — CENTRAL GOVERNMENT AUTHORITIES[^key-c2f4f392c28e59a15bdfabaec9b5393c]
+## SCHEDULE 1 — CENTRAL GOVERNMENT AUTHORITIES[^c-c2f4f392c28e59a15bdfabaec9b5393c]
 
 *Extent: S*
 
@@ -112,7 +112,7 @@ Department of Health and Social Care
 
 NHS Business Services Authority
 
-NHS England[^key-f3109719ae6264d79d9f770fe8e51616]
+NHS England[^c-f3109719ae6264d79d9f770fe8e51616]
 
 NHS Trusts
 
@@ -252,7 +252,7 @@ Office for National Statistics
 
 National Health Service Central Register
 
-[^key-4b00cd53d0f7e12b5cbe184206f3ddf7]...
+[^c-4b00cd53d0f7e12b5cbe184206f3ddf7]...
 
 Parliamentary and Health Service Ombudsman
 
@@ -408,7 +408,7 @@ Equality Commission for Northern Ireland
 
 Exceptional Circumstances Body
 
-[^key-c73e9e21f24025b66d925549772a09f5]...
+[^c-c73e9e21f24025b66d925549772a09f5]...
 
 General Teaching Council for Northern Ireland
 
@@ -564,10 +564,10 @@ Youth Council for Northern Ireland
 
 ## Annotations
 
-[^key-c2f4f392c28e59a15bdfabaec9b5393c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/446/schedule/1) substituted (16.8.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/872)](https://www.legislation.gov.uk/uksi/2021/872), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/872/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/872/schedule/2)
+[^c-c2f4f392c28e59a15bdfabaec9b5393c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2015/446/schedule/1) substituted (16.8.2021) by [The Public Procurement (Agreement on Government Procurement) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/872)](https://www.legislation.gov.uk/uksi/2021/872), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/872/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/872/schedule/2)
 
-[^key-f3109719ae6264d79d9f770fe8e51616]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2015/446/schedule/1) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [80(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/80/2)
+[^c-f3109719ae6264d79d9f770fe8e51616]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2015/446/schedule/1) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [80(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/80/2)
 
-[^key-4b00cd53d0f7e12b5cbe184206f3ddf7]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2015/446/schedule/1/part/1) omitted (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/10/4) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-4b00cd53d0f7e12b5cbe184206f3ddf7]: Textual amendment: Words in [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2015/446/schedule/1/part/1) omitted (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/10/4) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-c73e9e21f24025b66d925549772a09f5]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2015/446/schedule/2/part/2) omitted (1.1.2022) by virtue of [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/378)](https://www.legislation.gov.uk/ssi/2021/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2021/378/regulation/3/5) (with [reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6))
+[^c-c73e9e21f24025b66d925549772a09f5]: Textual amendment: Words in [sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2015/446/schedule/2/part/2) omitted (1.1.2022) by virtue of [The Public Procurement (Agreement on Government Procurement) (Thresholds etc.) (Amendment) (Scotland) Regulations 2021 (S.S.I. 2021/378)](https://www.legislation.gov.uk/ssi/2021/378), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/378/regulation/1/2), [3(5)](https://www.legislation.gov.uk/ssi/2021/378/regulation/3/5) (with [reg. 6](https://www.legislation.gov.uk/ssi/2021/378/regulation/6))

@@ -41,44 +41,44 @@ concerning the non-inclusion of certain active substances in Annex I to Council 
 
 (2004/129/EC) (revoked)
 
-[^key-e1a31866054ea892036d9459e0d92452]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1a31866054ea892036d9459e0d92452]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e1a31866054ea892036d9459e0d92452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — List of active substances referred to in Article 1[^key-e1a31866054ea892036d9459e0d92452]
+## ANNEX I — List of active substances referred to in Article 1[^c-e1a31866054ea892036d9459e0d92452]
 
-### PART A — Substance covered by Commission Regulation (EC) No 703/2001 (second stage of the programme of work)[^key-e1a31866054ea892036d9459e0d92452]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART B — Substances covered by Commission Regulation (EC) No 1490/2002 (third stage of the programme of work)[^key-e1a31866054ea892036d9459e0d92452]
+### PART A — Substance covered by Commission Regulation (EC) No 703/2001 (second stage of the programme of work)[^c-e1a31866054ea892036d9459e0d92452]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Substances covered by Commission Regulation (EC) No 1112/2002 (fourth stage of the programme of work)[^key-e1a31866054ea892036d9459e0d92452]
+### PART B — Substances covered by Commission Regulation (EC) No 1490/2002 (third stage of the programme of work)[^c-e1a31866054ea892036d9459e0d92452]
 
-[^key-e1a31866054ea892036d9459e0d92452]A.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART C — Substances covered by Commission Regulation (EC) No 1112/2002 (fourth stage of the programme of work)[^c-e1a31866054ea892036d9459e0d92452]
+
+[^c-e1a31866054ea892036d9459e0d92452]A.
 
 Chemical active substances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1a31866054ea892036d9459e0d92452]B.
+[^c-e1a31866054ea892036d9459e0d92452]B.
 
 Micro-organisms
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-e1a31866054ea892036d9459e0d92452]
+## ANNEX II[^c-e1a31866054ea892036d9459e0d92452]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1a31866054ea892036d9459e0d92452]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1a31866054ea892036d9459e0d92452]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/2) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

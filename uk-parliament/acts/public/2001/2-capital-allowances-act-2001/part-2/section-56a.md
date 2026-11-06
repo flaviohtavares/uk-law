@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Writing-down allowances for small pools[^key-d805fb240f38d776bd28ce8bb4b99a3f]
+## 56A. Writing-down allowances for small pools[^c-d805fb240f38d776bd28ce8bb4b99a3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d805fb240f38d776bd28ce8bb4b99a3f]: Textual amendment: S. 56A inserted (with effect in accordance with s. 81(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/81/3)
+[^c-d805fb240f38d776bd28ce8bb4b99a3f]: Textual amendment: S. 56A inserted (with effect in accordance with s. 81(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 81(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/81/3)

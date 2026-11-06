@@ -63,7 +63,7 @@ and for these purposes, “**risk**” refers to the risk that the firm will be 
 
 **12.** The number of contraventions of these Regulations committed by supervised persons.
 
-**12A.**[^key-711c2c7760e2745266f58a0418bdb434] The number of contraventions of these Regulations identified upon exercise of the powers under Part 8.
+**12A.**[^c-711c2c7760e2745266f58a0418bdb434] The number of contraventions of these Regulations identified upon exercise of the powers under Part 8.
 
 **13.** The number and amount of penalties or charges which have been imposed under Part 9.
 
@@ -71,7 +71,7 @@ and for these purposes, “**risk**” refers to the risk that the firm will be 
 
 **15.** The number of times the supervisory authority or any of its supervised persons has made a suspicious activity disclosure to the NCA, and for these purposes, “**suspicious activity disclosure**” has the meaning given in regulation 104(4).
 
-**15A.**[^key-b1a81fd2edb83e98272bb5ad5e3276a8] A copy of any suspicious activity disclosure (within the meaning given in regulation 104(4)) the supervisory authority or any of its supervised persons has made to the NCA.
+**15A.**[^c-b1a81fd2edb83e98272bb5ad5e3276a8] A copy of any suspicious activity disclosure (within the meaning given in regulation 104(4)) the supervisory authority or any of its supervised persons has made to the NCA.
 
 **16.** The number of supervised persons who have contravened requirements imposed by or under—
 
@@ -82,16 +82,16 @@ and for these purposes, “**risk**” refers to the risk that the firm will be 
 
 **18.** Indications that the supervisory authority considers to suggest that a transfer of criminal funds takes place in their own sector.
 
-**19.**[^key-7388bd1330148b3050274c4a5af6ce99] The amount of human resource allocated by the supervisory authority to supervising the countering of money laundering and terrorist financing.
+**19.**[^c-7388bd1330148b3050274c4a5af6ce99] The amount of human resource allocated by the supervisory authority to supervising the countering of money laundering and terrorist financing.
 
 ## Annotations
 
-[^key-711c2c7760e2745266f58a0418bdb434]: Textual amendment: Sch. 4 para. 12A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/11/a)
+[^c-711c2c7760e2745266f58a0418bdb434]: Textual amendment: Sch. 4 para. 12A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/11/a)
 
-[^key-b1a81fd2edb83e98272bb5ad5e3276a8]: Textual amendment: [Sch. 4 para. 15A](https://www.legislation.gov.uk/uksi/2017/692/schedule/4/paragraph/15A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [13(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/13/2)
+[^c-b1a81fd2edb83e98272bb5ad5e3276a8]: Textual amendment: [Sch. 4 para. 15A](https://www.legislation.gov.uk/uksi/2017/692/schedule/4/paragraph/15A) inserted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [13(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/13/2)
 
 [^c23049421]: Marginal citation: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
 [^c23049431]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-7388bd1330148b3050274c4a5af6ce99]: Textual amendment: Sch. 4 para. 19 inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/11/b)
+[^c-7388bd1330148b3050274c4a5af6ce99]: Textual amendment: Sch. 4 para. 19 inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/11/b)

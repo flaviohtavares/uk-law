@@ -53,7 +53,7 @@ The requirements of paragraph 4(2) of Schedule 7 to that Act (relating to the ap
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23592591].
 
-## 1. Title, commencement and application[^key-4f680b7b96c52957f2c850789ac9306a]
+## 1. Title, commencement and application[^c-4f680b7b96c52957f2c850789ac9306a]
 
 (1) The title of these Regulations is the Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
@@ -61,7 +61,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the Medical Food (Wales) Regulations 2000[^key-15ee94a6ca1a4c714d5f392fbbd55c39]
+## 2. Amendment of the Medical Food (Wales) Regulations 2000[^c-15ee94a6ca1a4c714d5f392fbbd55c39]
 
 (1) The Medical Food (Wales) Regulations 2000 [^c23592601] are amended as follows.
 
@@ -106,7 +106,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 .
 
-## 3. Amendment of the Food Supplements (Wales) Regulations 2003[^key-43a65e894d2a05b743ab156d0593d29c]
+## 3. Amendment of the Food Supplements (Wales) Regulations 2003[^c-43a65e894d2a05b743ab156d0593d29c]
 
 (1) The Food Supplements (Wales) Regulations 2003 [^c23592631] are amended as follows.
 
@@ -130,7 +130,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (5) In regulation 6(3)(b) [^c23592671] (restrictions on sale relating to labelling etc of food supplements) , for “Annex I to Directive 2002/46” substitute “ Schedule 1 to the Nutrition (Amendment) (EU Exit) Regulations 2019 ”.
 
-## 4. Amendment of the Kava-kava in Food (Wales) Regulations 2006[^key-ed11f5cc6b630130b29cecf9af71f914]
+## 4. Amendment of the Kava-kava in Food (Wales) Regulations 2006[^c-ed11f5cc6b630130b29cecf9af71f914]
 
 (1) The Kava-kava in Food (Wales) Regulations 2006 [^c23592681] are amended as follows.
 
@@ -145,11 +145,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 > (2) The prohibition imposed by paragraph (1) does not apply where the food consisting of or containing Kava-kava is imported from a third country if the food is being, or is to be, exported to a third country.
 
-## 5. Amendment of the Addition of Vitamins, Minerals and Other Substances (Wales) Regulations 2007[^key-014d76572dd58c028b72c0f6745c108c]
+## 5. Amendment of the Addition of Vitamins, Minerals and Other Substances (Wales) Regulations 2007[^c-014d76572dd58c028b72c0f6745c108c]
 
 In regulation 4(2)(a) of the Addition of Vitamins, Minerals and Other Substances (Wales) Regulations 2007 [^c23592691] (offences and penalties), omit the words “as read with Article 17(1) (transitional application of national rules)”.
 
-## 6. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^key-b82b103d1f14af7635d2269c66c4a45c]
+## 6. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^c-b82b103d1f14af7635d2269c66c4a45c]
 
 (1) The Infant Formula and Follow-on Formula (Wales) Regulations 2007 [^c23592701] are amended as follows.
 
@@ -159,23 +159,23 @@ In regulation 4(2)(a) of the Addition of Vitamins, Minerals and Other Substances
 
 (3) In regulation 12(3)(a) (listed substances and their purity criteria (infant formula and follow-on formula)), for “EU legislation” substitute “ retained EU law ”.
 
-## 7. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009[^key-1c12127016af2644dac6cf006e45d3fd]
+## 7. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009[^c-1c12127016af2644dac6cf006e45d3fd]
 
 (1) The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Wales) Regulations 2009 [^c23592711] are amended as follows.
 
 (2) In Schedule 1, in the “subject matter” column of the table—
 
 - (a) in the entry relating to Article 2(1), for “covered by Directive 2009/39 of the European Parliament and the Council on foodstuffs intended for particular nutritional uses” substitute “ (foodstuffs which, owing to their special composition or manufacturing process, are clearly distinguishable from foodstuffs for normal consumption, which are suitable for their claimed nutritional purposes and which are marketed in such a way as to indicate such suitability) ”;
-- (b) in the entry relating to Article 3(2), for “the Food Standards Agency” substitute “ the Secretary of State, the Welsh Ministers or Food Standards Scotland[^key-e0e615d5c70ace20ab8c9d51926267ee] ”;
+- (b) in the entry relating to Article 3(2), for “the Food Standards Agency” substitute “ the Secretary of State, the Welsh Ministers or Food Standards Scotland[^c-e0e615d5c70ace20ab8c9d51926267ee] ”;
 - (c) in the entries relating to Article 4(2) and Article 4(3), for “EU legislation” substitute “ retained EU law ”.
 
-## 8. Amendment of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016[^key-db512a2297697fc139ec88b5eae7dead]
+## 8. Amendment of the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016[^c-db512a2297697fc139ec88b5eae7dead]
 
 (1) The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 [^c23592721] are amended as follows.
 
-(2)[^key-fc80339253e23ccab77e49a7206d5450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fc80339253e23ccab77e49a7206d5450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In Schedule 1 (specified EU requirements) [^c23592731] in the entry in column 1, for “Article 15(1) (Union list)” substitute “ Article 15(1) (Great Britain[^key-803810b1d573804ea22a6cfaa8784cc5] list) ”.
+(3) In Schedule 1 (specified EU requirements) [^c23592731] in the entry in column 1, for “Article 15(1) (Union list)” substitute “ Article 15(1) (Great Britain[^c-803810b1d573804ea22a6cfaa8784cc5] list) ”.
 
 Vaughan Gething
 
@@ -195,9 +195,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23592591]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, last amended by Commission Regulation (EC) No. 596/2009 (OJ No. L 188, 18.7.2009, p. 14).
 
-[^key-4f680b7b96c52957f2c850789ac9306a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4f680b7b96c52957f2c850789ac9306a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-15ee94a6ca1a4c714d5f392fbbd55c39]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-15ee94a6ca1a4c714d5f392fbbd55c39]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592601]: Marginal citation: [S.I. 2000/1866](https://www.legislation.gov.uk/uksi/2000/1866) (W. 125) as amended by [S.I. 2005/3254](https://www.legislation.gov.uk/uksi/2005/3254) (W. 247), [S.I. 2008/2602](https://www.legislation.gov.uk/uksi/2008/2602) (W. 228), [S.I. 2014/1102](https://www.legislation.gov.uk/uksi/2014/1102) (W. 110), [S.I. 2016/639](https://www.legislation.gov.uk/uksi/2016/639) (W. 175) and [S.I. 2018/806](https://www.legislation.gov.uk/uksi/2018/806) (W. 162).
 
@@ -205,7 +205,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23592621]: Marginal citation: OJ No L 401, 30.12.2006, p. 1, last amended by Commission Delegated Regulation (EU) 2016/127 (OJ No L 25, 2.2.2016, p. 1).
 
-[^key-43a65e894d2a05b743ab156d0593d29c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-43a65e894d2a05b743ab156d0593d29c]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592631]: Marginal citation: [S.I. 2003/1719](https://www.legislation.gov.uk/uksi/2003/1719) (W. 186) as amended by [S.I. 2005/3254](https://www.legislation.gov.uk/uksi/2005/3254) (W. 247), [S.I. 2009/3252](https://www.legislation.gov.uk/uksi/2009/3252) (W. 282), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2014/2303](https://www.legislation.gov.uk/uksi/2014/2303) (W. 227).
 
@@ -217,30 +217,30 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23592671]: Marginal citation: Regulation 6 was amended by [S.I. 2009/3252](https://www.legislation.gov.uk/uksi/2009/3252) (W. 282) and [S.I. 2014/2303](https://www.legislation.gov.uk/uksi/2014/2303) (W. 227).
 
-[^key-ed11f5cc6b630130b29cecf9af71f914]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ed11f5cc6b630130b29cecf9af71f914]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592681]: Marginal citation: [S.I. 2006/1851](https://www.legislation.gov.uk/uksi/2006/1851) (W. 194) as amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 
-[^key-014d76572dd58c028b72c0f6745c108c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-014d76572dd58c028b72c0f6745c108c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592691]: Marginal citation: [S.I. 2007/1984](https://www.legislation.gov.uk/uksi/2007/1984) (W. 165) as amended by S.I 2014/2303 (W. 227) and [S.I. 2018/806](https://www.legislation.gov.uk/uksi/2018/806) (W. 162).
 
-[^key-b82b103d1f14af7635d2269c66c4a45c]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b82b103d1f14af7635d2269c66c4a45c]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592701]: Marginal citation: [S.I. 2007/3573](https://www.legislation.gov.uk/uksi/2007/3573) (W. 316) as amended by [S.I. 2008/2602](https://www.legislation.gov.uk/uksi/2008/2602) (W. 228), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), 2014/123 (W. 13), [S.I. 2014/1102](https://www.legislation.gov.uk/uksi/2014/1102) (W. 110) and [S.I. 2016/639](https://www.legislation.gov.uk/uksi/2016/639) (W. 175).
 
-[^key-1c12127016af2644dac6cf006e45d3fd]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1c12127016af2644dac6cf006e45d3fd]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592711]: Marginal citation: [S.I. 2009/3254](https://www.legislation.gov.uk/uksi/2009/3254) (W. 283) as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2016/639](https://www.legislation.gov.uk/uksi/2016/639) (W. 175).
 
-[^key-e0e615d5c70ace20ab8c9d51926267ee]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2019/179/regulation/7/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1252)](https://www.legislation.gov.uk/wsi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/2/2)
+[^c-e0e615d5c70ace20ab8c9d51926267ee]: Textual amendment: Words in [reg. 7(2)(b)](https://www.legislation.gov.uk/wsi/2019/179/regulation/7/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1252)](https://www.legislation.gov.uk/wsi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/2/2)
 
-[^key-db512a2297697fc139ec88b5eae7dead]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-db512a2297697fc139ec88b5eae7dead]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23592721]: Marginal citation: [S.I. 2016/639](https://www.legislation.gov.uk/uksi/2016/639) (W. 175) as amended by [S.I. 2019/70](https://www.legislation.gov.uk/uksi/2019/70) (W. 22)
 
-[^key-fc80339253e23ccab77e49a7206d5450]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/8/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1252)](https://www.legislation.gov.uk/wsi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/2/3/a)
+[^c-fc80339253e23ccab77e49a7206d5450]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/8/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1252)](https://www.legislation.gov.uk/wsi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/2/3/a)
 
 [^c23592731]: Marginal citation: Schedule 1 was amended by [S.I. 2019/70](https://www.legislation.gov.uk/uksi/2019/70) (W. 22) .
 
-[^key-803810b1d573804ea22a6cfaa8784cc5]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2019/179/regulation/8/3) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1252)](https://www.legislation.gov.uk/wsi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/2/3/b)
+[^c-803810b1d573804ea22a6cfaa8784cc5]: Textual amendment: Word in [reg. 8(3)](https://www.legislation.gov.uk/wsi/2019/179/regulation/8/3) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1252)](https://www.legislation.gov.uk/wsi/2020/1252), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/1252/regulation/2/3/b)

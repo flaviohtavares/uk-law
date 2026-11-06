@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Meaning of “railway” and “railway property”[^key-78ffdc57f45e64d043ac1b8665288185]
+## 1. Meaning of “railway” and “railway property”[^c-78ffdc57f45e64d043ac1b8665288185]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ summary: ''
 
 (2) The Secretary of State may by regulations amend this section.
 
-(3)[^key-674b76326509b35df1b94fcff19530c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-674b76326509b35df1b94fcff19530c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78ffdc57f45e64d043ac1b8665288185]: Commencement: S. 1 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(i)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/i)
+[^c-78ffdc57f45e64d043ac1b8665288185]: Commencement: S. 1 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(i)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/i)
 
-[^key-674b76326509b35df1b94fcff19530c2]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/1/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/54/3), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-674b76326509b35df1b94fcff19530c2]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/1/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/54/3), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)

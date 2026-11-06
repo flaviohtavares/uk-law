@@ -36,7 +36,7 @@ An Act to amend the Autism Act (Northern Ireland) 2011.
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Autism strategy: consultations and data[^key-7589b1172bf743eb71d2d6d722376466]
+## 1. Autism strategy: consultations and data[^c-7589b1172bf743eb71d2d6d722376466]
 
 In section 2 of the Autism Act (Northern Ireland) 2011 (autism strategy)—
 
@@ -47,7 +47,7 @@ In section 2 of the Autism Act (Northern Ireland) 2011 (autism strategy)—
 
   .
 
-## 2. Additional components of autism strategy[^key-f571d35b6fede9fd93bb2a565dc2cc91]
+## 2. Additional components of autism strategy[^c-f571d35b6fede9fd93bb2a565dc2cc91]
 
 In section 3 of the Autism Act (Northern Ireland) 2011 (content of the autism strategy), after subsection (4) insert—
 
@@ -78,7 +78,7 @@ In section 3 of the Autism Act (Northern Ireland) 2011 (content of the autism st
 
 .
 
-## 3. Methodology of the autism strategy[^key-b7ced6d58a3dfa2458c6c2a19b59da7d]
+## 3. Methodology of the autism strategy[^c-b7ced6d58a3dfa2458c6c2a19b59da7d]
 
 After section 3 of the Autism Act (Northern Ireland) 2011 insert—
 
@@ -101,7 +101,7 @@ After section 3 of the Autism Act (Northern Ireland) 2011 insert—
 
 .
 
-## 4. Annual autism funding reports[^key-1b91f6c70930b0256435ec46c2960409]
+## 4. Annual autism funding reports[^c-1b91f6c70930b0256435ec46c2960409]
 
 After section 3A of the Autism Act (Northern Ireland) 2011 (inserted by section 3), insert—
 
@@ -128,7 +128,7 @@ After section 3A of the Autism Act (Northern Ireland) 2011 (inserted by section 
 
 .
 
-## 5. Autism reviewer[^key-e030fc4ead37c8addeeef6d6fb4f9545]
+## 5. Autism reviewer[^c-e030fc4ead37c8addeeef6d6fb4f9545]
 
 After section 3B of the Autism Act (Northern Ireland) 2011 (inserted by section 4), insert—
 
@@ -166,7 +166,7 @@ After section 3B of the Autism Act (Northern Ireland) 2011 (inserted by section 
 
 .
 
-## 6. Interpretation[^key-9748c8e8cfa2306434a9f8b46f2bbc20]
+## 6. Interpretation[^c-9748c8e8cfa2306434a9f8b46f2bbc20]
 
 In section 4(1) of the Autism Act (Northern Ireland) 2011 (interpretation) insert in the appropriate place in alphabetical order—
 
@@ -174,28 +174,28 @@ In section 4(1) of the Autism Act (Northern Ireland) 2011 (interpretation) inser
 
 .
 
-## 7. Commencement[^key-3ffb8c5f2884339b3c1fbc271dbf0f93]
+## 7. Commencement[^c-3ffb8c5f2884339b3c1fbc271dbf0f93]
 
 This Act comes into operation after the end of the period of three months beginning with the date on which it receives Royal Assent.
 
-## 8. Short title[^key-dc2e3aa326633cf7db7ca6fe3b168b64]
+## 8. Short title[^c-dc2e3aa326633cf7db7ca6fe3b168b64]
 
 This Act may be cited as the Autism (Amendment) Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-7589b1172bf743eb71d2d6d722376466]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/13/section/1) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-7589b1172bf743eb71d2d6d722376466]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/13/section/1) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-f571d35b6fede9fd93bb2a565dc2cc91]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/13/section/2) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-f571d35b6fede9fd93bb2a565dc2cc91]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/13/section/2) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-b7ced6d58a3dfa2458c6c2a19b59da7d]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/13/section/3) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-b7ced6d58a3dfa2458c6c2a19b59da7d]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/13/section/3) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-1b91f6c70930b0256435ec46c2960409]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/13/section/4) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-1b91f6c70930b0256435ec46c2960409]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/13/section/4) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-e030fc4ead37c8addeeef6d6fb4f9545]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/13/section/5) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-e030fc4ead37c8addeeef6d6fb4f9545]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/13/section/5) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-9748c8e8cfa2306434a9f8b46f2bbc20]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/13/section/6) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-9748c8e8cfa2306434a9f8b46f2bbc20]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/13/section/6) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-3ffb8c5f2884339b3c1fbc271dbf0f93]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/13/section/7) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-3ffb8c5f2884339b3c1fbc271dbf0f93]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/13/section/7) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
 
-[^key-dc2e3aa326633cf7db7ca6fe3b168b64]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/13/section/8) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)
+[^c-dc2e3aa326633cf7db7ca6fe3b168b64]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/13/section/8) in operation at 27.7.2022, see [s. 7](https://www.legislation.gov.uk/nia/2022/13/section/7)

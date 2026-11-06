@@ -32,7 +32,7 @@ summary: ''
 
 LEGAL AID AND ADVICE
 
-The Advice and Assistance (Scotland) Amendment Regulations 2008 (revoked)[^key-01b29201a11bd00e31c40869284317cc]
+The Advice and Assistance (Scotland) Amendment Regulations 2008 (revoked)[^c-01b29201a11bd00e31c40869284317cc]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 7th April 2008
 
-[^key-01b29201a11bd00e31c40869284317cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01b29201a11bd00e31c40869284317cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-01b29201a11bd00e31c40869284317cc]
+## 1. Citation and commencement[^c-01b29201a11bd00e31c40869284317cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-01b29201a11bd00e31c40869284317cc]
+## 2. Application[^c-01b29201a11bd00e31c40869284317cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-01b29201a11bd00e31c40869284317cc]
+## 3. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-01b29201a11bd00e31c40869284317cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01b29201a11bd00e31c40869284317cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01b29201a11bd00e31c40869284317cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-01b29201a11bd00e31c40869284317cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01b29201a11bd00e31c40869284317cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01b29201a11bd00e31c40869284317cc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/47) revoked (7.4.2009) by [The Advice and Assistance and Civil Legal Aid (Priority of Debts) (Scotland) Regulations 2009 (S.S.I. 2009/49)](https://www.legislation.gov.uk/ssi/2009/49), [reg. 1](https://www.legislation.gov.uk/ssi/2009/49/regulation/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2009/49/schedule/part/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2009/49/regulation/5))
+[^c-01b29201a11bd00e31c40869284317cc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/47) revoked (7.4.2009) by [The Advice and Assistance and Civil Legal Aid (Priority of Debts) (Scotland) Regulations 2009 (S.S.I. 2009/49)](https://www.legislation.gov.uk/ssi/2009/49), [reg. 1](https://www.legislation.gov.uk/ssi/2009/49/regulation/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2009/49/schedule/part/1) (with [reg. 5](https://www.legislation.gov.uk/ssi/2009/49/regulation/5))

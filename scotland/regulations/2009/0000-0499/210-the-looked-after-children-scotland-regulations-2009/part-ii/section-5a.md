@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Duty to place siblings together[^key-ef6e0870cc30ab998e1ab2aac5bd6f8e]
+## 5A. Duty to place siblings together[^c-ef6e0870cc30ab998e1ab2aac5bd6f8e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef6e0870cc30ab998e1ab2aac5bd6f8e]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2009/210/regulation/5A) inserted (26.7.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/5)
+[^c-ef6e0870cc30ab998e1ab2aac5bd6f8e]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/ssi/2009/210/regulation/5A) inserted (26.7.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/3), [3(5)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/5)

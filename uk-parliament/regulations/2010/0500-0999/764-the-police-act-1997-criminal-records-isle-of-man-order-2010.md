@@ -45,7 +45,7 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 168 of the Serious Organised Crime and Police Act 2005[^f00001], section 66(4) of the Safeguarding Vulnerable Groups Act 2006[^f00002] and section 384(1) of the Armed Forces Act 2006[^f00003], by and with the advice and consent of Her Privy Council, makes the following Order:
 
-## 1. Citation and commencement[^key-87b7e2284fb1910b980216030d2c7dd3]
+## 1. Citation and commencement[^c-87b7e2284fb1910b980216030d2c7dd3]
 
 (1) This Order may be cited as the Police Act 1997 (Criminal Records) (Isle of Man) Order 2010.
 
@@ -53,56 +53,56 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
 
 (3) Article 3(2)(a) (the extension of section 112 of the 1997 Act) and the modifications specified in paragraph 1 of Schedule 1 come into force on the day on which section 112 of the 1997 Act comes into force in England and Wales.
 
-(4) Article 4(2)(d) (the extension of the repeal of section 113E of the 1997 Act) comes into force on such day as the Department of Home Affairs of the Isle of Man may by Order appoint[^key-80cf8e0f2b1a73df7005cfbe3478bdd3].
+(4) Article 4(2)(d) (the extension of the repeal of section 113E of the 1997 Act) comes into force on such day as the Department of Home Affairs of the Isle of Man may by Order appoint[^c-80cf8e0f2b1a73df7005cfbe3478bdd3].
 
 (5) The modifications specified in paragraph 2(b)(ii) of Schedule 2 come into force on the day on which section 170(2) of the Education and Inspections Act 2006[^f00004] (prohibition on participation in management: supplementary) comes into force in England and Wales.
 
-## 2. Interpretation[^key-14f6dca62f31a4ae84fa3991dfc2f01e]
+## 2. Interpretation[^c-14f6dca62f31a4ae84fa3991dfc2f01e]
 
 In this Order—
 
 - “the 1997 Act” means the Police Act 1997[^f00005];
 - “the 2006 Act” means the Safeguarding Vulnerable Groups Act 2006;
-- [^key-07b0a826c804d9c70e10f5bb8f5160dd]...
-- [^key-07b0a826c804d9c70e10f5bb8f5160dd]...
+- [^c-07b0a826c804d9c70e10f5bb8f5160dd]...
+- [^c-07b0a826c804d9c70e10f5bb8f5160dd]...
 
-## 3. Extension of Part 5 of the Police Act 1997 to the Isle of Man[^key-1e897da038034e18d78995ea1c1849bb][^key-71ff4c28854d9f124498aa7ced2f4661]
+## 3. Extension of Part 5 of the Police Act 1997 to the Isle of Man[^c-1e897da038034e18d78995ea1c1849bb][^c-71ff4c28854d9f124498aa7ced2f4661]
 
-(1)[^key-1e897da038034e18d78995ea1c1849bb] The following provisions of Part 5 (Certificates of criminal records, &c) of the 1997 Act, as amended by the Greater London Authority Act 1999[^f00007], the Police (Northern Ireland) Act 2000[^f00008], the Criminal Justice and Police Act 2001[^f00009], the Criminal Justice Act 2003[^f00010] and the Serious Organised Crime and Police Act 2005, extend to the Isle of Man subject to the modifications specified in Schedules 1 and 3[^f00011].
-
-(2) The provisions are—
-
-- (a)[^key-71ff4c28854d9f124498aa7ced2f4661] section 112[^f00012] (criminal conviction certificates);
-- (b)[^key-1e897da038034e18d78995ea1c1849bb] section 113A[^f00013] (criminal record certificates);
-- (c)[^key-1e897da038034e18d78995ea1c1849bb] section 113B[^f00014] (enhanced criminal record certificates);
-- (d)[^key-1e897da038034e18d78995ea1c1849bb] section 113E[^f00015] (criminal record certificates: specified children’s and adults’ lists: urgent cases);
-- (e)[^key-1e897da038034e18d78995ea1c1849bb] section 114[^f00016] (criminal record certificates: Crown employment);
-- (f)[^key-1e897da038034e18d78995ea1c1849bb] section 116[^f00017] (enhanced criminal record certificates: judicial appointments and Crown employment);
-- (g)[^key-1e897da038034e18d78995ea1c1849bb] section 117 (disputes about accuracy of certificates);
-- (h)[^key-1e897da038034e18d78995ea1c1849bb] section 118[^f00018] (evidence of identity);
-- (i)[^key-1e897da038034e18d78995ea1c1849bb] section 119[^f00019] (sources of information);
-- (j)[^key-1e897da038034e18d78995ea1c1849bb] section 120[^f00020] (registered persons);
-- (k)[^key-1e897da038034e18d78995ea1c1849bb] section 120ZA[^f00021] (regulations about registration);
-- (l)[^key-1e897da038034e18d78995ea1c1849bb] section 122A[^f00022] (delegation of functions of Secretary of State);
-- (m)[^key-1e897da038034e18d78995ea1c1849bb] section 123 (offences: falsification, &c);
-- (n)[^key-1e897da038034e18d78995ea1c1849bb] section 124[^f00023] (offences: disclosure);
-- (o)[^key-1e897da038034e18d78995ea1c1849bb] section 124A[^f00024] (further offences: disclosure of information obtained in connection with delegated function);
-- (p)[^key-1e897da038034e18d78995ea1c1849bb] section 125[^f00025] (regulations);
-- (q)[^key-1e897da038034e18d78995ea1c1849bb] section 126[^f00026] (interpretation of Part 5);
-- (r)[^key-1e897da038034e18d78995ea1c1849bb] section 127 (saving: disclosure of information and records).
-
-## 4. Extension of the Safeguarding Vulnerable Groups Act 2006 to the Isle of Man[^key-cfff9f5edd566e75ff12b39d2178024c]
-
-(1)[^key-cfff9f5edd566e75ff12b39d2178024c] The following provisions of the 2006 Act extend to the Isle of Man subject to the modifications specified in Schedules 2 and 3.
+(1)[^c-1e897da038034e18d78995ea1c1849bb] The following provisions of Part 5 (Certificates of criminal records, &c) of the 1997 Act, as amended by the Greater London Authority Act 1999[^f00007], the Police (Northern Ireland) Act 2000[^f00008], the Criminal Justice and Police Act 2001[^f00009], the Criminal Justice Act 2003[^f00010] and the Serious Organised Crime and Police Act 2005, extend to the Isle of Man subject to the modifications specified in Schedules 1 and 3[^f00011].
 
 (2) The provisions are—
 
-- (a)[^key-cfff9f5edd566e75ff12b39d2178024c] section 28[^f00027] (independent monitor);
-- (b)[^key-cfff9f5edd566e75ff12b39d2178024c] section 63 (amendments and repeals);
-- (c)[^key-cfff9f5edd566e75ff12b39d2178024c] Schedule 9 (amendments), paragraph 14[^f00028] (Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50));
+- (a)[^c-71ff4c28854d9f124498aa7ced2f4661] section 112[^f00012] (criminal conviction certificates);
+- (b)[^c-1e897da038034e18d78995ea1c1849bb] section 113A[^f00013] (criminal record certificates);
+- (c)[^c-1e897da038034e18d78995ea1c1849bb] section 113B[^f00014] (enhanced criminal record certificates);
+- (d)[^c-1e897da038034e18d78995ea1c1849bb] section 113E[^f00015] (criminal record certificates: specified children’s and adults’ lists: urgent cases);
+- (e)[^c-1e897da038034e18d78995ea1c1849bb] section 114[^f00016] (criminal record certificates: Crown employment);
+- (f)[^c-1e897da038034e18d78995ea1c1849bb] section 116[^f00017] (enhanced criminal record certificates: judicial appointments and Crown employment);
+- (g)[^c-1e897da038034e18d78995ea1c1849bb] section 117 (disputes about accuracy of certificates);
+- (h)[^c-1e897da038034e18d78995ea1c1849bb] section 118[^f00018] (evidence of identity);
+- (i)[^c-1e897da038034e18d78995ea1c1849bb] section 119[^f00019] (sources of information);
+- (j)[^c-1e897da038034e18d78995ea1c1849bb] section 120[^f00020] (registered persons);
+- (k)[^c-1e897da038034e18d78995ea1c1849bb] section 120ZA[^f00021] (regulations about registration);
+- (l)[^c-1e897da038034e18d78995ea1c1849bb] section 122A[^f00022] (delegation of functions of Secretary of State);
+- (m)[^c-1e897da038034e18d78995ea1c1849bb] section 123 (offences: falsification, &c);
+- (n)[^c-1e897da038034e18d78995ea1c1849bb] section 124[^f00023] (offences: disclosure);
+- (o)[^c-1e897da038034e18d78995ea1c1849bb] section 124A[^f00024] (further offences: disclosure of information obtained in connection with delegated function);
+- (p)[^c-1e897da038034e18d78995ea1c1849bb] section 125[^f00025] (regulations);
+- (q)[^c-1e897da038034e18d78995ea1c1849bb] section 126[^f00026] (interpretation of Part 5);
+- (r)[^c-1e897da038034e18d78995ea1c1849bb] section 127 (saving: disclosure of information and records).
+
+## 4. Extension of the Safeguarding Vulnerable Groups Act 2006 to the Isle of Man[^c-cfff9f5edd566e75ff12b39d2178024c]
+
+(1)[^c-cfff9f5edd566e75ff12b39d2178024c] The following provisions of the 2006 Act extend to the Isle of Man subject to the modifications specified in Schedules 2 and 3.
+
+(2) The provisions are—
+
+- (a)[^c-cfff9f5edd566e75ff12b39d2178024c] section 28[^f00027] (independent monitor);
+- (b)[^c-cfff9f5edd566e75ff12b39d2178024c] section 63 (amendments and repeals);
+- (c)[^c-cfff9f5edd566e75ff12b39d2178024c] Schedule 9 (amendments), paragraph 14[^f00028] (Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50));
 - (d)[^M_I_e12e6090-9fb2-413c-fa47-3eb66fec4fd0] Schedule 10 (repeals), entry in relation to section 113E of the 1997 Act[^f00029].
 
-## 5. Extension of the Armed Forces Act 2006 to the Isle of Man[^key-240023899ddf766bda718e8b81998d9e]
+## 5. Extension of the Armed Forces Act 2006 to the Isle of Man[^c-240023899ddf766bda718e8b81998d9e]
 
 (1) The following provisions of the Armed Forces Act 2006 extend to the Isle of Man.
 
@@ -111,15 +111,15 @@ In this Order—
 - (a) section 378(1) (minor and consequential amendments and repeals);
 - (b) Schedule 16 (minor and consequential amendments), paragraph 149[^f00030] (Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50)).
 
-## 6. Modifications that have effect for a limited period[^key-44d652fcdf9bfb45ce7a8638c956d703]
+## 6. Modifications that have effect for a limited period[^c-44d652fcdf9bfb45ce7a8638c956d703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a91f5fe74ae7a67160ccd55e6f1d9e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a91f5fe74ae7a67160ccd55e6f1d9e5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-89a1a9ef629ff8c308d0615124362819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-89a1a9ef629ff8c308d0615124362819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Subordinate legislation made under extended provisions[^key-5f2f0335aee473019c55ababa3bf4a80]
+## 9. Subordinate legislation made under extended provisions[^c-5f2f0335aee473019c55ababa3bf4a80]
 
 Any order or regulations made by the Secretary of State under the provisions extended to the Isle of Man by this Order shall not have effect in the Isle of Man unless, before making the order or regulations, the Secretary of State has consulted the Department of Home Affairs of the Isle of Man.
 
@@ -131,7 +131,7 @@ Clerk of the Privy Council
 
 Article 3
 
-**1.**[^key-ad5371e6fc8994a8341d6403a7d36c28] (1) In section 112 (criminal conviction certificates)—
+**1.**[^c-ad5371e6fc8994a8341d6403a7d36c28] (1) In section 112 (criminal conviction certificates)—
 
 - (a) in subsection (1)(a) omit “in the prescribed manner and form”;
 - (b) in subsection (3)—
@@ -142,7 +142,7 @@ Article 3
 
     .
 
-**2.**[^key-5aee9120a5db79e825ae544f24475c9e] In section 113A (criminal record certificates)—
+**2.**[^c-5aee9120a5db79e825ae544f24475c9e] In section 113A (criminal record certificates)—
 
 - (a) in subsection (1)(a) omit “in the prescribed manner and form”;
 - (b) after subsection (2) insert—
@@ -178,7 +178,7 @@ Article 3
 
   .
 
-**3.**[^key-70297534533821948d0309f088650df7] In section 113B (enhanced criminal record certificates)—
+**3.**[^c-70297534533821948d0309f088650df7] In section 113B (enhanced criminal record certificates)—
 
 - (a) in subsection (1)(a) omit “in the prescribed manner and form”;
 - (b) after subsection (2) insert—
@@ -199,7 +199,7 @@ Article 3
 
   .
 
-**4.**[^key-ae961bf888374ebc30ec1cdffda13a72] (1) In the heading to section 113E (criminal records certificates: specified children’s and adults’ lists: urgent cases) omit “children’s and”.
+**4.**[^c-ae961bf888374ebc30ec1cdffda13a72] (1) In the heading to section 113E (criminal records certificates: specified children’s and adults’ lists: urgent cases) omit “children’s and”.
 
 (2) In section 113E (criminal records certificates: specified adults’ lists: urgent cases)—
 
@@ -222,9 +222,9 @@ Article 3
 
   .
 
-**5.**[^key-c73040235b3587f38603ad0fdcf2bf3c] In subsection 114(1)(a) (criminal record certificates: Crown employment) omit “in the prescribed form”.
+**5.**[^c-c73040235b3587f38603ad0fdcf2bf3c] In subsection 114(1)(a) (criminal record certificates: Crown employment) omit “in the prescribed form”.
 
-**6.**[^key-2898fe35f9968009792c8ddd1ca717e3] In section 116 (enhanced criminal record certificates: judicial appointments and Crown employment)—
+**6.**[^c-2898fe35f9968009792c8ddd1ca717e3] In section 116 (enhanced criminal record certificates: judicial appointments and Crown employment)—
 
 - (a) in subsection (1)(a) omit “in the prescribed form”;
 - (b) for subsection (2) substitute—
@@ -235,7 +235,7 @@ Article 3
 
   .
 
-**7.**[^key-a5b07d27872466ac2b757d523bbe7129] In section 118 (evidence of identity)—
+**7.**[^c-a5b07d27872466ac2b757d523bbe7129] In section 118 (evidence of identity)—
 
 - (a) in subsection (1) omit “or 120”;
 - (b) after subsection (2) insert—
@@ -267,7 +267,7 @@ Article 3
 
   .
 
-**8.**[^key-936aa5f8d6e53af6192705a5b9d9badc] In section 119 (sources of information)—
+**8.**[^c-936aa5f8d6e53af6192705a5b9d9badc] In section 119 (sources of information)—
 
 - (a) for subsection (1A) substitute—
 
@@ -281,7 +281,7 @@ Article 3
 - (c) in subsection (4) for paragraphs (a) and (b) substitute “any application for a certificate”;
 - (d) in subsection (6) for (i) substitute (l).
 
-**9.**[^key-ba47cba53052108d637b552e6b7dd8a5] In section 120 (registered persons)—
+**9.**[^c-ba47cba53052108d637b552e6b7dd8a5] In section 120 (registered persons)—
 
 - (a) in subsection (2)—
   - (i) omit “and 120AA and to section 120A”,
@@ -301,7 +301,7 @@ Article 3
     ;
 - (d) omit subsection (6).
 
-**10.**[^key-5cedd7ddccef370d7d19e8826cce0f2d] In section 120ZA (regulations about registration)—
+**10.**[^c-5cedd7ddccef370d7d19e8826cce0f2d] In section 120ZA (regulations about registration)—
 
 - (a) in subsection (2) for paragraph (d) substitute—
 
@@ -314,14 +314,14 @@ Article 3
   - (ii) in paragraph (b) for “registered person who countersigns it” substitute “person who acts as the registered person in relation to the application.”,
   - (iii) omit paragraph (c) and the word “and” immediately preceding it.
 
-**11.**[^key-9a8ce3215616673c10d17265d91bf8ad] In section 122A(2) (delegation of functions of Secretary of State) for paragraphs (a) and (b) substitute “to make regulations”.
+**11.**[^c-9a8ce3215616673c10d17265d91bf8ad] In section 122A(2) (delegation of functions of Secretary of State) for paragraphs (a) and (b) substitute “to make regulations”.
 
-**12.**[^key-e69636229a23f03fdc4fdbc0b901f20c] In section 123 (offences: falsification. &c), in subsection (3)—
+**12.**[^c-e69636229a23f03fdc4fdbc0b901f20c] In section 123 (offences: falsification. &c), in subsection (3)—
 
 - (a) for “imprisonment” substitute “custody”;
 - (b) for “level 5 on the standard scale” substitute “£5000”.
 
-**13.**[^key-fadca95feb64b3563ff16a74eeba2955] In section 124 (offences: disclosure)—
+**13.**[^c-fadca95feb64b3563ff16a74eeba2955] In section 124 (offences: disclosure)—
 
 - (a) in subsection (1)(b) and (c) for “countersigned” substitute “acted as the registered person in relation to”;
 - (b) in subsection (2) for “countersigned” substitute “in relation to which the person who acted as the registered person did so”;
@@ -330,7 +330,7 @@ Article 3
   - (i) for “imprisonment” substitute “custody”;
   - (ii) for “level 3 on the standard scale” substitute “£1000”.
 
-**14.**[^key-1526a2ea43bee3263074c877565801be] In section 124A (further offences: disclosure of information obtained in connection with delegated functions)—
+**14.**[^c-1526a2ea43bee3263074c877565801be] In section 124A (further offences: disclosure of information obtained in connection with delegated functions)—
 
 - (a) in subsection (4)—
   - (i) for “imprisonment” substitute “custody”,
@@ -341,7 +341,7 @@ Article 3
   - (ii) for “51 weeks” substitute “12 months”;
 - (c) in subsection (6) for “(i)” substitute “(l)”.
 
-**15.**[^key-dcd17a42d4f93c0c69d1a8423997d95e] For section 125 (regulations) substitute—
+**15.**[^c-dcd17a42d4f93c0c69d1a8423997d95e] For section 125 (regulations) substitute—
 
 > **125.** (1) Subject to section 118(2ZA), anything authorised or required by any provision of this Part to be prescribed shall be prescribed by regulations made by the Secretary of State.
 >
@@ -349,7 +349,7 @@ Article 3
 
 .
 
-**16.**[^key-36f50344adfe7eb10a99423f6e91d102] Before section 126 insert—
+**16.**[^c-36f50344adfe7eb10a99423f6e91d102] Before section 126 insert—
 
 > **125B. Form of Applications**
 >
@@ -359,7 +359,7 @@ Article 3
 
 .
 
-**17.**[^key-f57a8ac2e4c2139b50b812c718c972f3] In section 126 (interpretation of Part 5)—
+**17.**[^c-f57a8ac2e4c2139b50b812c718c972f3] In section 126 (interpretation of Part 5)—
 
 - (a) in subsection (1)—
   - (i) before the definition of “caution”, insert—
@@ -409,17 +409,17 @@ Article 3
 
 Article 4
 
-**1.**[^key-bd14f29ee335741222b89ab2d1941b55] In section 28—
+**1.**[^c-bd14f29ee335741222b89ab2d1941b55] In section 28—
 
 - (a) for “After section 119A of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) (further sources of information: Scotland)” substitute “After section 119 of the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50) (sources of information)”;
 - (b) in the provisions to be inserted as section 119B of the 1997 Act, omit subsection (5)(d) and (e).
 
-**2.**[^key-50ac6444e2260eac074eef37b47a834a][^key-ff98f85e461b32525b5a354ef8ba4825] In paragraph 14 of Schedule 9—
+**2.**[^c-50ac6444e2260eac074eef37b47a834a][^c-ff98f85e461b32525b5a354ef8ba4825] In paragraph 14 of Schedule 9—
 
-- (a)[^key-50ac6444e2260eac074eef37b47a834a] in sub-paragraph (2), in the provisions to be inserted after section 113A(6) of the 1997 Act, omit subsection (8);
+- (a)[^c-50ac6444e2260eac074eef37b47a834a] in sub-paragraph (2), in the provisions to be inserted after section 113A(6) of the 1997 Act, omit subsection (8);
 - (b) in sub-paragraph (4)—
-  - (i)[^key-50ac6444e2260eac074eef37b47a834a] in the provisions to be inserted as sections 113BA(2)(d) and 113BB(2)(d) of the 1997 Act, for “Independent Barring Board” substitute “Independent Safeguarding Authority”;
-  - (ii)[^key-ff98f85e461b32525b5a354ef8ba4825] in the provisions to be inserted as section 113BA of the 1997 Act, after subsection (2)(d) insert—
+  - (i)[^c-50ac6444e2260eac074eef37b47a834a] in the provisions to be inserted as sections 113BA(2)(d) and 113BB(2)(d) of the 1997 Act, for “Independent Barring Board” substitute “Independent Safeguarding Authority”;
+  - (ii)[^c-ff98f85e461b32525b5a354ef8ba4825] in the provisions to be inserted as section 113BA of the 1997 Act, after subsection (2)(d) insert—
 
     > - (e) whether the applicant is subject to a direction under section 128 of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25) (prohibition on participation in management of independent educational institution in England) or section 167A of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32) (prohibition on participation in management of independent school in Wales).
 
@@ -433,25 +433,25 @@ Article 4
 
     .
 
-## SCHEDULE 3 — Modifications that have effect for a limited period[^key-210260164754cb477596f724dc0fc1f5]
+## SCHEDULE 3 — Modifications that have effect for a limited period[^c-210260164754cb477596f724dc0fc1f5]
 
 **No longer in force.**
 
 Articles 6 to 8
 
-### PART 1 — Modifications that have effect from the date referred to in article 1(2) until the end of the first transitional period[^key-210260164754cb477596f724dc0fc1f5]
+### PART 1 — Modifications that have effect from the date referred to in article 1(2) until the end of the first transitional period[^c-210260164754cb477596f724dc0fc1f5]
 
-**1.**[^key-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Modifications that have effect from the date referred to in article 1(2) until the end of the second transitional period[^key-210260164754cb477596f724dc0fc1f5]
+### PART 2 — Modifications that have effect from the date referred to in article 1(2) until the end of the second transitional period[^c-210260164754cb477596f724dc0fc1f5]
 
-**3.**[^key-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Modifications that have effect for the second transitional period[^key-210260164754cb477596f724dc0fc1f5]
+### PART 3 — Modifications that have effect for the second transitional period[^c-210260164754cb477596f724dc0fc1f5]
 
-**4.**[^key-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-210260164754cb477596f724dc0fc1f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -483,21 +483,21 @@ An informal Keeling schedule setting out the provisions of Part 5 as they extend
 
 [^f00003]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-87b7e2284fb1910b980216030d2c7dd3]: Commencement: Art. 1 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-87b7e2284fb1910b980216030d2c7dd3]: Commencement: Art. 1 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-80cf8e0f2b1a73df7005cfbe3478bdd3]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2010/764/article/1/4) substituted (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/2)
+[^c-80cf8e0f2b1a73df7005cfbe3478bdd3]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/uksi/2010/764/article/1/4) substituted (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/2)
 
 [^f00004]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-14f6dca62f31a4ae84fa3991dfc2f01e]: Commencement: Art. 2 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-14f6dca62f31a4ae84fa3991dfc2f01e]: Commencement: Art. 2 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
 [^f00005]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-07b0a826c804d9c70e10f5bb8f5160dd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/764/article/2) omitted (18.10.2012) by virtue of [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/3)
+[^c-07b0a826c804d9c70e10f5bb8f5160dd]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/764/article/2) omitted (18.10.2012) by virtue of [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/3)
 
-[^key-1e897da038034e18d78995ea1c1849bb]: Commencement: Art. 3(1)(2)(b)-(r) in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-1e897da038034e18d78995ea1c1849bb]: Commencement: Art. 3(1)(2)(b)-(r) in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-71ff4c28854d9f124498aa7ced2f4661]: Commencement: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/764/article/3/2/a) in force at 10.3.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/764/article/1/3)
+[^c-71ff4c28854d9f124498aa7ced2f4661]: Commencement: [Art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/764/article/3/2/a) in force at 10.3.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/764/article/1/3)
 
 [^f00007]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -539,7 +539,7 @@ An informal Keeling schedule setting out the provisions of Part 5 as they extend
 
 [^f00026]: Footnote: As amended by section 78(1) of and paragraph 20(1), (2) and (3) of Schedule 6 to the Police (Northern Ireland) Act 2000 and section 166(2) of the Serious Organised Crime and Police Act 2005.
 
-[^key-cfff9f5edd566e75ff12b39d2178024c]: Commencement: Art. 4(1)(2)(a)-(c) in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-cfff9f5edd566e75ff12b39d2178024c]: Commencement: Art. 4(1)(2)(a)-(c) in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
 [^f00027]: Footnote: Section 28 inserted new section 119B (independent monitor) into the 1997 Act.
 
@@ -549,62 +549,62 @@ An informal Keeling schedule setting out the provisions of Part 5 as they extend
 
 [^f00029]: Footnote: Schedule 10 also repealed other provisions in the 1997 Act and in other enactments but none are relevant to this Order.
 
-[^key-240023899ddf766bda718e8b81998d9e]: Commencement: Art. 5 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-240023899ddf766bda718e8b81998d9e]: Commencement: Art. 5 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
 [^f00030]: Footnote: Paragraph 149 of Schedule 16 amended section 113B(10) of the 1997 Act.
 
-[^key-44d652fcdf9bfb45ce7a8638c956d703]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2010/764/article/6) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
+[^c-44d652fcdf9bfb45ce7a8638c956d703]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2010/764/article/6) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
 
-[^key-a91f5fe74ae7a67160ccd55e6f1d9e5b]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2010/764/article/7) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
+[^c-a91f5fe74ae7a67160ccd55e6f1d9e5b]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2010/764/article/7) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
 
-[^key-89a1a9ef629ff8c308d0615124362819]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2010/764/article/8) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
+[^c-89a1a9ef629ff8c308d0615124362819]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2010/764/article/8) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
 
-[^key-5f2f0335aee473019c55ababa3bf4a80]: Commencement: Art. 9 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-5f2f0335aee473019c55ababa3bf4a80]: Commencement: Art. 9 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-ad5371e6fc8994a8341d6403a7d36c28]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/764/schedule/1/paragraph/1) in force at 10.3.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/764/article/1/3)
+[^c-ad5371e6fc8994a8341d6403a7d36c28]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2010/764/schedule/1/paragraph/1) in force at 10.3.2014, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/764/article/1/3)
 
-[^key-5aee9120a5db79e825ae544f24475c9e]: Commencement: Sch. 1 para. 2 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-5aee9120a5db79e825ae544f24475c9e]: Commencement: Sch. 1 para. 2 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
 [^f00031]: Footnote: Paragraph 14(1) and (2) of Schedule 9 to the 2006 Act, which is extended to the Isle of Man by Article 4, inserted new subsections (7) and (8) into section 113A but new subsection (8) is omitted by paragraph 2(a) of Schedule 2 to this Order.
 
-[^key-70297534533821948d0309f088650df7]: Commencement: Sch. 1 para. 3 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-70297534533821948d0309f088650df7]: Commencement: Sch. 1 para. 3 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-ae961bf888374ebc30ec1cdffda13a72]: Commencement: Sch. 1 para. 4 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-ae961bf888374ebc30ec1cdffda13a72]: Commencement: Sch. 1 para. 4 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
 [^f00032]: Footnote: Section 113BB was inserted by paragraph 14(1) and (4) of Schedule 9 to the 2006 Act, which is extended to the Isle of Man by Article 4 subject to the modifications specified in Schedules 2 and 3 to this Order.
 
-[^key-c73040235b3587f38603ad0fdcf2bf3c]: Commencement: Sch. 1 para. 5 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-c73040235b3587f38603ad0fdcf2bf3c]: Commencement: Sch. 1 para. 5 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-2898fe35f9968009792c8ddd1ca717e3]: Commencement: Sch. 1 para. 6 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-2898fe35f9968009792c8ddd1ca717e3]: Commencement: Sch. 1 para. 6 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-a5b07d27872466ac2b757d523bbe7129]: Commencement: Sch. 1 para. 7 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-a5b07d27872466ac2b757d523bbe7129]: Commencement: Sch. 1 para. 7 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-936aa5f8d6e53af6192705a5b9d9badc]: Commencement: Sch. 1 para. 8 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-936aa5f8d6e53af6192705a5b9d9badc]: Commencement: Sch. 1 para. 8 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
 [^f00033]: Footnote: Section 81 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) amended the 2006 Act to rename the Independent Barring Board as the Independent Safeguarding Authority.
 
-[^key-ba47cba53052108d637b552e6b7dd8a5]: Commencement: Sch. 1 para. 9 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-ba47cba53052108d637b552e6b7dd8a5]: Commencement: Sch. 1 para. 9 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-5cedd7ddccef370d7d19e8826cce0f2d]: Commencement: Sch. 1 para. 10 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-5cedd7ddccef370d7d19e8826cce0f2d]: Commencement: Sch. 1 para. 10 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-9a8ce3215616673c10d17265d91bf8ad]: Commencement: Sch. 1 para. 11 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-9a8ce3215616673c10d17265d91bf8ad]: Commencement: Sch. 1 para. 11 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-e69636229a23f03fdc4fdbc0b901f20c]: Commencement: Sch. 1 para. 12 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-e69636229a23f03fdc4fdbc0b901f20c]: Commencement: Sch. 1 para. 12 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-fadca95feb64b3563ff16a74eeba2955]: Commencement: Sch. 1 para. 13 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-fadca95feb64b3563ff16a74eeba2955]: Commencement: Sch. 1 para. 13 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-1526a2ea43bee3263074c877565801be]: Commencement: Sch. 1 para. 14 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-1526a2ea43bee3263074c877565801be]: Commencement: Sch. 1 para. 14 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-dcd17a42d4f93c0c69d1a8423997d95e]: Commencement: Sch. 1 para. 15 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-dcd17a42d4f93c0c69d1a8423997d95e]: Commencement: Sch. 1 para. 15 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-36f50344adfe7eb10a99423f6e91d102]: Commencement: Sch. 1 para. 16 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-36f50344adfe7eb10a99423f6e91d102]: Commencement: Sch. 1 para. 16 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-f57a8ac2e4c2139b50b812c718c972f3]: Commencement: Sch. 1 para. 17 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-f57a8ac2e4c2139b50b812c718c972f3]: Commencement: Sch. 1 para. 17 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-bd14f29ee335741222b89ab2d1941b55]: Commencement: Sch. 2 para. 1 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-bd14f29ee335741222b89ab2d1941b55]: Commencement: Sch. 2 para. 1 in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-50ac6444e2260eac074eef37b47a834a]: Commencement: Sch. 2 para. 2(a)(b)(i)(iii)(c) in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
+[^c-50ac6444e2260eac074eef37b47a834a]: Commencement: Sch. 2 para. 2(a)(b)(i)(iii)(c) in force at 18.3.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/764/article/1/2)
 
-[^key-ff98f85e461b32525b5a354ef8ba4825]: Commencement: [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2010/764/schedule/2/paragraph/2/b/ii) in force at 8.9.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/764/article/1/5)
+[^c-ff98f85e461b32525b5a354ef8ba4825]: Commencement: [Sch. 2 para. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2010/764/schedule/2/paragraph/2/b/ii) in force at 8.9.2014, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2010/764/article/1/5)
 
-[^key-210260164754cb477596f724dc0fc1f5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/764/schedule/3) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)
+[^c-210260164754cb477596f724dc0fc1f5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2010/764/schedule/3) revoked (18.10.2012) by [The Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012 (S.I. 2012/2598)](https://www.legislation.gov.uk/uksi/2012/2598), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2598/article/3/4)

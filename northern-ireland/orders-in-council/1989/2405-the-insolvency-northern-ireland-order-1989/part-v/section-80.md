@@ -26,9 +26,9 @@ summary: ''
 
 (3) Within one week from the meeting, the liquidator shall send to the registrar a copy of the account, and shall make a return to him of the holding of the meeting and of its date.
 
-(3A)[^key-f52d4386f8d7b8fd35c016b12d6d3719] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-f52d4386f8d7b8fd35c016b12d6d3719] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-f52d4386f8d7b8fd35c016b12d6d3719] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-f52d4386f8d7b8fd35c016b12d6d3719] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If the copy is not sent or the return is not made in accordance with paragraph (3), the liquidator shall be guilty of an offence and, for continued contravention, shall be guilty of a continuing offence.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c17598111]: Textual amendment: mod. by SR 2004/307
 
-[^key-f52d4386f8d7b8fd35c016b12d6d3719]: Textual amendment: [Art. 80(3A)](https://www.legislation.gov.uk/nisi/1989/2405/article/80/3A)[(3B)](https://www.legislation.gov.uk/nisi/1989/2405/article/80/3B) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 168](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/168) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f52d4386f8d7b8fd35c016b12d6d3719]: Textual amendment: [Art. 80(3A)](https://www.legislation.gov.uk/nisi/1989/2405/article/80/3A)[(3B)](https://www.legislation.gov.uk/nisi/1989/2405/article/80/3B) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 168](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/168) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

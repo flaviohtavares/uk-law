@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7A. Conditions relating to national insurance and relevant earnings[^key-af4dc99524741df9d0614432d89f2b34]
+## 7A. Conditions relating to national insurance and relevant earnings[^c-af4dc99524741df9d0614432d89f2b34]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af4dc99524741df9d0614432d89f2b34]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2008/280/regulation/7A) inserted (1.11.2010) by [The Social Security (Contribution Conditions for Jobseeker’s Allowance and Employment and Support Allowance) Regulations (Northern Ireland) 2010 (S.R. 2010/346)](https://www.legislation.gov.uk/nisr/2010/346), [regs. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2010/346/regulation/3/2)
+[^c-af4dc99524741df9d0614432d89f2b34]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/2008/280/regulation/7A) inserted (1.11.2010) by [The Social Security (Contribution Conditions for Jobseeker’s Allowance and Employment and Support Allowance) Regulations (Northern Ireland) 2010 (S.R. 2010/346)](https://www.legislation.gov.uk/nisr/2010/346), [regs. 1](https://www.legislation.gov.uk/nisr/2010/346/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2010/346/regulation/3/2)

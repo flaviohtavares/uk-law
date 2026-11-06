@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Reports on compliance with biodiversity duty[^key-e30636eb118993803bdea5c77fd1556f]
+## 2A. Reports on compliance with biodiversity duty[^c-e30636eb118993803bdea5c77fd1556f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e30636eb118993803bdea5c77fd1556f]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2004/6/section/2A) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 36](https://www.legislation.gov.uk/asp/2011/6/section/36), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(h)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/h)
+[^c-e30636eb118993803bdea5c77fd1556f]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2004/6/section/2A) inserted (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 36](https://www.legislation.gov.uk/asp/2011/6/section/36), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(h)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/h)

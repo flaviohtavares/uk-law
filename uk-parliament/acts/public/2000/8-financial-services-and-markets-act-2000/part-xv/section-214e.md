@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214E. Recapitalisation payments[^key-7c8e48ba7e7daa086cd5a3b78de49e37]
+## 214E. Recapitalisation payments[^c-7c8e48ba7e7daa086cd5a3b78de49e37]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c8e48ba7e7daa086cd5a3b78de49e37]: Textual amendment: S. 214E inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 1](https://www.legislation.gov.uk/ukpga/2025/15/section/1), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/a)
+[^c-7c8e48ba7e7daa086cd5a3b78de49e37]: Textual amendment: S. 214E inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 1](https://www.legislation.gov.uk/ukpga/2025/15/section/1), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/a)

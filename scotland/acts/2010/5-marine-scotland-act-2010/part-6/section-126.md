@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Police powers: search and seizure[^key-50c01eb5f47b08283ce6a6da14b58a9d]
+## 126. Police powers: search and seizure[^c-50c01eb5f47b08283ce6a6da14b58a9d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A constable may stop any person who the constable suspects with reasonable cause
 
 ## Annotations
 
-[^key-50c01eb5f47b08283ce6a6da14b58a9d]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2010/5/section/126) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(e)](https://www.legislation.gov.uk/ssi/2010/230/article/4/e)
+[^c-50c01eb5f47b08283ce6a6da14b58a9d]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2010/5/section/126) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(e)](https://www.legislation.gov.uk/ssi/2010/230/article/4/e)

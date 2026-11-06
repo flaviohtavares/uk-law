@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 36 and 39 of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3fb72d21dd515419f1d747c32070cb9b]
+## 1. Citation, commencement and interpretation[^c-3fb72d21dd515419f1d747c32070cb9b]
 
 (1) These Regulations may be cited as the Jobseeker’s Allowance (Transitional Provisions) (No. 2) Regulations (Northern Ireland) 1996 and shall come into operation on 16th December 1996.
 
@@ -76,7 +76,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) For the avoidance of doubt, a person complies with any requirement or provision of these Regulations if he is treated as complying with that requirement or provision.
 
-## 2. Jobseeking period[^key-37ff92859e336c83ca25d05396fa2da6]
+## 2. Jobseeking period[^c-37ff92859e336c83ca25d05396fa2da6]
 
 (1) For the purposes of these Regulations, but subject to paragraphs (2) to (4), the “jobseeking period” means any period throughout which the claimant satisfies or is treated as satisfying the conditions specified in Article 3(2)(*a*) to (*c*) and (*e*) to (*i*) of the Order (conditions of entitlement to a jobseeker’s allowance).
 
@@ -101,7 +101,7 @@ shall, for the purposes of paragraph (1), be treated as a period in which the cl
   the period beginning with and including the date in respect of which, in accordance with any such regulations, entitlement ceases and ending with the day before the date in respect of which the claimant again becomes entitled to a jobseeker’s allowance, or
 - (e) any week in which a claimant is not entitled to a jobseeker’s allowance in accordance with Article 16 of the Order (trade disputes).
 
-## 3. Linking periods[^key-c96f4f01b718026ce0a2090ed70aceb4]
+## 3. Linking periods[^c-c96f4f01b718026ce0a2090ed70aceb4]
 
 (1) For the purposes of these Regulations, 2 or more jobseeking periods shall be treated as one jobseeking period where they are separated by a period comprising only—
 
@@ -126,7 +126,7 @@ shall, for the purposes of paragraph (1), be treated as a period in which the cl
 
 (5) A period of entitlement to invalid care allowance shall be a linked period only where it enables the claimant to satisfy contribution conditions for entitlement to a contribution-based jobseeker’s allowance which he would otherwise be unable to satisfy.
 
-## 4. Termination and cancellation of awards of income support[^key-bcb10d3f9432ecba73fa72cdf493542a]
+## 4. Termination and cancellation of awards of income support[^c-bcb10d3f9432ecba73fa72cdf493542a]
 
 (1) An award of income support current in the benefit week which includes the relevant day (“the current benefit week”) shall terminate immediately before the beginning of the benefit week which follows the current benefit week—
 
@@ -140,7 +140,7 @@ shall, for the purposes of paragraph (1), be treated as a period in which the cl
 
 (2) An award of income support to a person commencing on a date after the current benefit week, shall be cancelled where the person’s entitlement was dependent upon his satisfying the requirements of section 123(1)(*d*)(i) of the Benefits Act (available for and actively seeking employment) as in force on the relevant day.
 
-## 5. Transition from unemployment benefit to a jobseeker’s allowance[^key-e1c58cf2042843c1a26365bc3711cc4e]
+## 5. Transition from unemployment benefit to a jobseeker’s allowance[^c-e1c58cf2042843c1a26365bc3711cc4e]
 
 (1) Paragraph (2) shall apply in the case of a person to whom unemployment benefit was payable in respect of the relevant day.
 
@@ -164,7 +164,7 @@ and which extends beyond the benefit week which includes the relevant day shall 
 
 (5) A person who is treated as making a claim for a jobseeker’s allowance under this regulation shall, if he satisfies the conditions of entitlement to unemployment benefit in operation on 6th October 1996, but subject to the provisions of these Regulations, be treated as satisfying the requirements of Articles 3 and 4 of the Order (entitlement to a jobseeker’s allowance and the contribution-based conditions).
 
-## 6. Transition from unemployment benefit to a jobseeker’s allowance: further provisions[^key-1afb959976fdbf768b4936a566c31848]
+## 6. Transition from unemployment benefit to a jobseeker’s allowance: further provisions[^c-1afb959976fdbf768b4936a566c31848]
 
 (1) A person who has an award of unemployment benefit, or unemployment benefit and income support, for the benefit week that includes 7th October 1996, but to whom unemployment benefit is not payable in respect of the relevant day shall—
 
@@ -175,7 +175,7 @@ and which extends beyond the benefit week which includes the relevant day shall 
 
 (3) A person who, in respect of his claim for unemployment benefit, or unemployment benefit and income support, has restricted the hours he is available for work to 40 hours or more a week, shall be treated as having recorded his pattern of availability in the jobseeker’s agreement he is treated as having entered into under paragraph (1)(*b*).
 
-## 7. Jobseeker’s Allowance to replace income support and unemployment benefit[^key-526a3d8eeb0f3d9ff99702191e8b630a]
+## 7. Jobseeker’s Allowance to replace income support and unemployment benefit[^c-526a3d8eeb0f3d9ff99702191e8b630a]
 
 (1) Subject to paragraphs (2) and (3), a person who is paid benefit in respect of the relevant day in accordance with an award of income support or unemployment benefit, or income support and unemployment benefit, and the award is terminated in accordance with the preceding provisions of these Regulations shall be treated as having been awarded a jobseeker’s allowance for a period commencing on and including the first day of the next benefit week to begin for that claimant on or after 7th October 1996 and continuing until such date as he fails to satisfy, or in respect of which he ceases to be treated as satisfying, any condition of entitlement to a jobseeker’s allowance, except in relation to a contribution-based jobseeker’s allowance, those specified in Articles 3(2)(*e*) and 4(1)(*c*) of the Order, which applies in his case.
 
@@ -189,7 +189,7 @@ and which extends beyond the benefit week which includes the relevant day shall 
 
 shall not be treated as entitled to a contribution-based jobseeker’s allowance in accordance with paragraph (1) nor as having an award of a jobseeker’s allowance in accordance with regulation 5(2).
 
-## 8. Claims for entitlement to a jobseeker’s allowance[^key-b88a5bf9e581b2e5ee63485ab3bddc57]
+## 8. Claims for entitlement to a jobseeker’s allowance[^c-b88a5bf9e581b2e5ee63485ab3bddc57]
 
 (1) Paragraphs (2) to (10) shall apply in the case of a person who is treated as having an award of a jobseeker’s allowance in accordance with regulation 5 or 7.
 
@@ -233,7 +233,7 @@ he shall be treated for the purposes of these Regulations as if—
 
 and where income support was payable to him in respect of the day immediately preceding the day on which he was required to serve as a juror, his award of income support shall end at the end of the benefit week which includes the last day in respect of which he was summoned for jury service and regulation 7 shall apply in his case as if paragraph (1) referred to that benefit week and not the benefit week which commenced on or after 7th October 1996.
 
-## 9. Further provisions applying to a continuing entitlement to a jobseeker’s allowance[^key-79f579977645fa19796e864974a117c3]
+## 9. Further provisions applying to a continuing entitlement to a jobseeker’s allowance[^c-79f579977645fa19796e864974a117c3]
 
 (1) A person’s continuing entitlement to a jobseeker’s allowance shall be subject to paragraphs (2) to (6) where an award of a jobseeker’s allowance—
 
@@ -269,7 +269,7 @@ where—
 - (a) the first day of that award forms part of a jobseeking period which is separated by not more than 12 weeks from a period of interruption of employment, or
 - (b) the tax years which in accordance with Article 4 of the Order (the contribution-based conditions) are to be satisfied for entitlement to a contribution-based jobseeker’s allowance to arise are the same tax years as those by reference to which entitlement to unemployment benefit arose on a claim made by the claimant in respect of a day before 7th October 1996.
 
-## 10. Transitionally protected period[^key-3e9bbec7a7295c96c65891e32c4332f0]
+## 10. Transitionally protected period[^c-3e9bbec7a7295c96c65891e32c4332f0]
 
 (1) The transitionally protected period commences in the case of any particular claimant on and including the first day in the benefit week which commences in his case on or after 7th October 1996 and applies to a claimant—
 
@@ -317,14 +317,14 @@ but only for so long as he continues to satisfy the conditions of entitlement to
 
 (11) In the transitionally protected period, the provisions of regulation 14(2) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00018] shall continue to apply in order to adjust the amount of unemployment benefit payable to a claimant for part of a week, notwithstanding that those provisions have ceased to have effect.
 
-## 11. Saving provisions[^key-18098daa1b1fd51e30a523a40488ae24]
+## 11. Saving provisions[^c-18098daa1b1fd51e30a523a40488ae24]
 
 During the transitionally protected period—
 
 - (a) regulation 3(3), (5) and (6) of the Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1978[^f00019] (payments to be disregarded) as in operation on 6th October 1996 shall continue to apply for the purposes of calculating or estimating a person’s earnings in determining his entitlement to a contribution-based jobseeker’s allowance, and
 - (b) regulation 4 of the Unemployment Benefit Regulations (special provisions relating to day substituted for Sunday) as in operation on 6th October 1996 shall continue to apply for the purpose of determining whether a day of the week substituted for Sunday shall be disregarded in calculating a person’s aggregate entitlement to a contribution-based jobseeker’s allowance.
 
-## 12. Jurors entitled to income support on the relevant day[^key-1434c4e87bc050c6b334f37a252cb0e7]
+## 12. Jurors entitled to income support on the relevant day[^c-1434c4e87bc050c6b334f37a252cb0e7]
 
 (1) This regulation applies to a person who in the benefit week which includes the relevant day was a juror and—
 
@@ -341,7 +341,7 @@ During the transitionally protected period—
 
 (4) An award having effect in accordance with this regulation shall continue until such date as the claimant fails to satisfy, or in respect of which he ceases to be treated as satisfying, any condition of entitlement which applies in his case, or if earlier, until the end of the benefit week which includes 6th April 1997.
 
-## 13. Earnings during the transitionally protected period[^key-3f89f15c75001abb80b37f27b894d12d]
+## 13. Earnings during the transitionally protected period[^c-3f89f15c75001abb80b37f27b894d12d]
 
 (1) During the transitionally protected period, a person’s entitlement to a contribution-based jobseeker’s allowance shall be subject to the conditions set out in this regulation.
 
@@ -357,7 +357,7 @@ During the transitionally protected period—
 
 (5) Where a person has one or more days in a week on which he fails to satisfy the conditions specified in paragraph (2) and in consequence of which a jobseeker’s allowance is not payable, those days shall not be treated as days of entitlement to a contribution-based jobseeker’s allowance for the purposes of Article 7(1) of the Order (duration of a contribution-based jobseeker’s allowance).
 
-## 14. Earnings generally[^key-268dbc843498ab4e32c5713e58925f31]
+## 14. Earnings generally[^c-268dbc843498ab4e32c5713e58925f31]
 
 (1) In the transitionally protected period, the amount of a person’s earnings shall, for the purpose of determining a person’s entitlement to an amount of a contribution-based jobseeker’s allowance, be calculated or estimated in accordance with section 3 of the Benefits Act (earnings) and regulations 2 to 4 of the Social Security Benefit (Computation of Earnings) Regulations (Northern Ireland) 1978[^f00025].
 
@@ -368,7 +368,7 @@ During the transitionally protected period—
 
 any earnings determined in accordance with the old rules shall be disregarded for the purposes of the new rules.
 
-## 15. Part-time students[^key-f8f46071aad1851921cdcffe587858a5]
+## 15. Part-time students[^c-f8f46071aad1851921cdcffe587858a5]
 
 (1) This regulation applies to a person (referred to in this regulation as a “participant”) to whom regulation 5 or 7 applies and who on 31st July 1996 was entitled to income support or unemployment benefit.
 
@@ -392,7 +392,7 @@ shall be treated for the purposes of any regulations relating to a jobseeker’s
 - (a) the participant continues to follow the course of study or, as the case may be, the course of education, training or instruction, which he was following on 31st July 1996, and
 - (b) his award of a jobseeker’s allowance which arose in accordance with regulation 5 or on a claim treated as made under regulation 7 has not terminated and for the purpose of determining whether the award has terminated any period which is a linked period under regulation 3 shall be disregarded and 2 awards separated by a linking period shall be treated as a single award.
 
-## 16. Claimants subject to disqualification or reduction in benefit[^key-619a93a2c70ba4211f4efbd0241153fe]
+## 16. Claimants subject to disqualification or reduction in benefit[^c-619a93a2c70ba4211f4efbd0241153fe]
 
 (1) In the case of a person who on the relevant day was disqualified for receiving unemployment benefit in accordance with section 28 of the Benefits Act (unemployment benefit — other disqualifications etc.) for a period which would not, but for the replacement of unemployment benefit with a jobseeker’s allowance, have expired on that day, the award of a contribution-based jobseeker’s allowance which arises under regulation 6 (transition from unemployment benefit to a jobseeker’s allowance: further provisions) shall not be payable for the balance of that period.
 
@@ -420,7 +420,7 @@ shall be treated for the purposes of any regulations relating to a jobseeker’s
 
 and in determining whether any particular periods of entitlement link, any period which is for the purposes of regulation 3(2) a linked period shall be disregarded.
 
-## 17. Treatment of contribution-based jobseeker’s allowance as earnings[^key-55ad1794f6f4f52eb495a9812748e01a]
+## 17. Treatment of contribution-based jobseeker’s allowance as earnings[^c-55ad1794f6f4f52eb495a9812748e01a]
 
 (1) In the transitionally protected period, a payment of a contribution-based jobseeker’s allowance which falls to be taken into account in determining the income of any person shall be treated as if it was payable on a daily basis for 6 days per week.
 
@@ -433,7 +433,7 @@ and in determining whether any particular periods of entitlement link, any perio
 - (a) except where sub-paragraph (*b*) applies, by dividing the total benefit payable for the week by 6, or
 - (b) where payment is made for a part-week by dividing the total benefit payable by the number of days in the part-week and assigning no amount to the remaining days.
 
-## 18. Questions not immediately ascertainable[^key-739cc7a5b94ce5927cb5aeed5219b7cf]
+## 18. Questions not immediately ascertainable[^c-739cc7a5b94ce5927cb5aeed5219b7cf]
 
 (1) During the transitionally protected period, where on consideration of a claim or question relating to a jobseeker’s allowance it appears to an adjudication officer that the claimant’s entitlement to, or the rate or amount of, that benefit depends on the determination of—
 
@@ -448,17 +448,17 @@ and in determining whether any particular periods of entitlement link, any perio
 
 (3) A determination relating to a jobseeker’s allowance made in accordance with paragraphs (1) and (2) shall be reviewed where it is necessary to give effect to any determination on a question to which those provisions apply.
 
-## 19. Claims for a jobseeker’s allowance[^key-94b16a2c0fa71d9af933b778504095b0]
+## 19. Claims for a jobseeker’s allowance[^c-94b16a2c0fa71d9af933b778504095b0]
 
 (1) Claims made on or after 7th October 1996 for a jobseeker’s allowance may be treated by the Department as a claim in addition to, or as a claim for unemployment benefit or income support or both for a period before 7th October 1996.
 
 (2) A claim treated as made for unemployment benefit or income support in accordance with paragraph (1) shall be treated as made on the day the claim for a jobseeker’s allowance was made.
 
-## 20. Attendance[^key-0d076e1278e91479ab8c9f287dee7377]
+## 20. Attendance[^c-0d076e1278e91479ab8c9f287dee7377]
 
 For the purposes of these Regulations, a direction to attend a social security office or to attend an office for the purposes of furnishing information or evidence under regulation 8(1) or (2) of the Claims and Payments Regulations[^f00030] (attendance in person) in respect of a claim for income support or unemployment benefit and a written notice to attend an interview as referred to in regulation 7(1)(*i*) of the Unemployment Benefit Regulations[^f00031] (days not to be treated as days of unemployment) shall continue to apply and both the direction and the written notice shall be treated as a notice under regulation 23 of the Jobseeker’s Allowance Regulations (attendance).
 
-## 21. Evidence and information[^key-7b9e3e54c7e97eab4e5dd1b585b0f853]
+## 21. Evidence and information[^c-7b9e3e54c7e97eab4e5dd1b585b0f853]
 
 (1) In the period commencing on, and including, 7th October 1996 and ending on 20th October 1996, the requirement to provide information or evidence on or by a particular date under regulation 7(1) or 32(1)[^f00032] of the Claims and Payments Regulations (evidence and information) shall continue to apply and shall be treated as a requirement to provide a signed declaration under regulation 24(6) of the Jobseeker’s Allowance Regulations[^f00033] (provision of information and evidence) on the day specified by the Department in accordance with regulation 24(10) of the Jobseeker’s Allowance Regulations.
 
@@ -466,7 +466,7 @@ For the purposes of these Regulations, a direction to attend a social security o
 
 (3) During the period commencing on, and including, 30th September 1996 and ending on 27th October 1996 for the purposes of regulation 26 of the Jobseeker’s Allowance Regulations[^f00034] (time at which entitlement is to cease), the reference to a claimant providing information or evidence which shows that he continues to be entitled to a jobseeker’s allowance shall include a reference to the requirement to comply with regulation 7(1) or 32(1) of the Claims and Payments Regulations for the purpose of claiming income support or unemployment benefit, and the reference to the day after he last attended in compliance with a notice under regulation 23 of the Jobseeker’s Allowance Regulations (attendance) shall include a reference to the first day of his award of a jobseeker’s allowance.
 
-## 22. Revocations[^key-43b0449655811130307d02a4757ab0e6]
+## 22. Revocations[^c-43b0449655811130307d02a4757ab0e6]
 
 The Jobseeker’s Allowance (Transitional Provisions) Regulations (Northern Ireland) 1996[^f00035], the Jobseeker’s Allowance (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 1996[^f00036], regulation 2 of the Social Security and Child Support (Jobseeker’s Allowance) (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 1996[^f00037], regulation 2 of the Social Security (Jobseeker’s Allowance and Payments on account) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996[^f00038] and regulation 3 of the Social Security and Child Support (Jobseeker’s Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 1996[^f00039] are hereby revoked.
 
@@ -505,7 +505,7 @@ Regulations 20 and 21 deal with attendance and the provision of information, and
 
 [^f00001]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-3fb72d21dd515419f1d747c32070cb9b]: Commencement: Reg. 1 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-3fb72d21dd515419f1d747c32070cb9b]: Commencement: Reg. 1 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1992 Nos. 83](https://www.legislation.gov.uk/nisr/1992/83) and [453](https://www.legislation.gov.uk/nisr/1992/453)
 
@@ -525,31 +525,31 @@ Regulations 20 and 21 deal with attendance and the provision of information, and
 
 [^f00010]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 (S.I. [1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087))
 
-[^key-37ff92859e336c83ca25d05396fa2da6]: Commencement: Reg. 2 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-37ff92859e336c83ca25d05396fa2da6]: Commencement: Reg. 2 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-c96f4f01b718026ce0a2090ed70aceb4]: Commencement: Reg. 3 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-c96f4f01b718026ce0a2090ed70aceb4]: Commencement: Reg. 3 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00011]: Footnote: Part XIIA was inserted by Article 7 of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
-[^key-bcb10d3f9432ecba73fa72cdf493542a]: Commencement: Reg. 4 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-bcb10d3f9432ecba73fa72cdf493542a]: Commencement: Reg. 4 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00012]: Footnote: Regulation 8 was amended by [S.R. 1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [274](https://www.legislation.gov.uk/nisr/1988/274), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46) and [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67). Schedule 1 was amended by [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249), [S.R. 1990 Nos. 131](https://www.legislation.gov.uk/nisr/1990/131), [297](https://www.legislation.gov.uk/nisr/1990/297) and [305](https://www.legislation.gov.uk/nisr/1990/305), [S.R. 1991 Nos. 46](https://www.legislation.gov.uk/nisr/1991/46) and [338](https://www.legislation.gov.uk/nisr/1991/338), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65) and [S.R. 1995 Nos. 67](https://www.legislation.gov.uk/nisr/1995/67) and [367](https://www.legislation.gov.uk/nisr/1995/367)
 
 [^f00013]: Footnote: Regulation 8 was amended by regulation 7(4) of [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83)
 
-[^key-e1c58cf2042843c1a26365bc3711cc4e]: Commencement: Reg. 5 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-e1c58cf2042843c1a26365bc3711cc4e]: Commencement: Reg. 5 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-1afb959976fdbf768b4936a566c31848]: Commencement: Reg. 6 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-1afb959976fdbf768b4936a566c31848]: Commencement: Reg. 6 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-526a3d8eeb0f3d9ff99702191e8b630a]: Commencement: Reg. 7 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-526a3d8eeb0f3d9ff99702191e8b630a]: Commencement: Reg. 7 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-b88a5bf9e581b2e5ee63485ab3bddc57]: Commencement: Reg. 8 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-b88a5bf9e581b2e5ee63485ab3bddc57]: Commencement: Reg. 8 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00014]: Footnote: Regulation 4 was amended by regulation 17(5) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
-[^key-79f579977645fa19796e864974a117c3]: Commencement: Reg. 9 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-79f579977645fa19796e864974a117c3]: Commencement: Reg. 9 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-3e9bbec7a7295c96c65891e32c4332f0]: Commencement: Reg. 10 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-3e9bbec7a7295c96c65891e32c4332f0]: Commencement: Reg. 10 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending Regulations are [S.R. 1983 Nos. 36](https://www.legislation.gov.uk/nisr/1983/36) and [193](https://www.legislation.gov.uk/nisr/1983/193), [S.R. 1984 Nos. 373](https://www.legislation.gov.uk/nisr/1984/373) and [382](https://www.legislation.gov.uk/nisr/1984/382), [S.R. 1987 No. 129](https://www.legislation.gov.uk/nisr/1987/129), [S.R. 1989 No. 103](https://www.legislation.gov.uk/nisr/1989/103), [S.R. 1992 Nos. 83](https://www.legislation.gov.uk/nisr/1992/83) and [521](https://www.legislation.gov.uk/nisr/1992/521) and [S.R. 1994 No. 485](https://www.legislation.gov.uk/nisr/1994/485)
 
@@ -559,17 +559,17 @@ Regulations 20 and 21 deal with attendance and the provision of information, and
 
 [^f00018]: Footnote: Regulation 14(2) was amended by regulation 14(7)(*b*) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and omitted by [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-18098daa1b1fd51e30a523a40488ae24]: Commencement: Reg. 11 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-18098daa1b1fd51e30a523a40488ae24]: Commencement: Reg. 11 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1978 No. 371](https://www.legislation.gov.uk/nisr/1978/371); relevant amending Regulations are [S.R. 1979 No. 79](https://www.legislation.gov.uk/nisr/1979/79), [S.R. 1987 No. 201](https://www.legislation.gov.uk/nisr/1987/201), [S.R. 1989 No. 438](https://www.legislation.gov.uk/nisr/1989/438), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1992 No. 96](https://www.legislation.gov.uk/nisr/1992/96), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-1434c4e87bc050c6b334f37a252cb0e7]: Commencement: Reg. 12 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-1434c4e87bc050c6b334f37a252cb0e7]: Commencement: Reg. 12 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00020]: Footnote: Paragraph 17 was amended by regulation 11(*c*) of [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
 
 [^f00021]: Footnote: Regulation 22 was amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 Nos. 139](https://www.legislation.gov.uk/nisr/1989/139), [249](https://www.legislation.gov.uk/nisr/1989/249) and [365](https://www.legislation.gov.uk/nisr/1989/365), [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46), [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67)
 
-[^key-3f89f15c75001abb80b37f27b894d12d]: Commencement: Reg. 13 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-3f89f15c75001abb80b37f27b894d12d]: Commencement: Reg. 13 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00022]: Footnote: Paragraph (1)(*g*) was amended by paragraph 1(*b*) of Schedule 11 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65) and regulation 17(8) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150). Paragraph (1)(*o*) was inserted by regulation 2(*a*) of [S.R. 1989 No. 437](https://www.legislation.gov.uk/nisr/1989/437) and amended by regulation 17(8) of [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
@@ -577,11 +577,11 @@ Regulations 20 and 21 deal with attendance and the provision of information, and
 
 [^f00024]: Footnote: Regulation 7(5B) was inserted by regulation 2 of [S.R. 1995 No. 341](https://www.legislation.gov.uk/nisr/1995/341)
 
-[^key-268dbc843498ab4e32c5713e58925f31]: Commencement: Reg. 14 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-268dbc843498ab4e32c5713e58925f31]: Commencement: Reg. 14 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00025]: Footnote: Regulations 2 to 4 were amended by [S.R. 1979 No. 97](https://www.legislation.gov.uk/nisr/1979/97), [S.R. 1987 No. 201](https://www.legislation.gov.uk/nisr/1987/201), [S.R. 1989 No. 438](https://www.legislation.gov.uk/nisr/1989/438), [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398), [S.R. 1992 Nos. 96](https://www.legislation.gov.uk/nisr/1992/96) and [298](https://www.legislation.gov.uk/nisr/1992/298) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
-[^key-f8f46071aad1851921cdcffe587858a5]: Commencement: Reg. 15 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-f8f46071aad1851921cdcffe587858a5]: Commencement: Reg. 15 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00026]: Footnote: Paragraph (3) was substituted by regulation 5(2)(*b*) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
@@ -589,23 +589,23 @@ Regulations 20 and 21 deal with attendance and the provision of information, and
 
 [^f00028]: Footnote: Regulation 10 was amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365) and [S.R. 1990 Nos. 297](https://www.legislation.gov.uk/nisr/1990/297) and [305](https://www.legislation.gov.uk/nisr/1990/305)
 
-[^key-619a93a2c70ba4211f4efbd0241153fe]: Commencement: Reg. 16 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-619a93a2c70ba4211f4efbd0241153fe]: Commencement: Reg. 16 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-55ad1794f6f4f52eb495a9812748e01a]: Commencement: Reg. 17 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-55ad1794f6f4f52eb495a9812748e01a]: Commencement: Reg. 17 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-739cc7a5b94ce5927cb5aeed5219b7cf]: Commencement: Reg. 18 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-739cc7a5b94ce5927cb5aeed5219b7cf]: Commencement: Reg. 18 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00029]: Footnote: Paragraph 13 of Schedule 2 was amended by [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146), [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1993 No. 218](https://www.legislation.gov.uk/nisr/1993/218) and [S.R. 1994 Nos. 327](https://www.legislation.gov.uk/nisr/1994/327) and [474](https://www.legislation.gov.uk/nisr/1994/474)
 
-[^key-94b16a2c0fa71d9af933b778504095b0]: Commencement: Reg. 19 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-94b16a2c0fa71d9af933b778504095b0]: Commencement: Reg. 19 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
-[^key-0d076e1278e91479ab8c9f287dee7377]: Commencement: Reg. 20 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-0d076e1278e91479ab8c9f287dee7377]: Commencement: Reg. 20 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00030]: Footnote: Regulation 8 was amended by regulation 7(4) of [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83)
 
 [^f00031]: Footnote: Regulation 7(1)(*i*) was substituted by regulation 2 of [S.R. 1986 No. 266](https://www.legislation.gov.uk/nisr/1986/266) and amended by regulation 2 of [S.R. 1990 No. 276](https://www.legislation.gov.uk/nisr/1990/276)
 
-[^key-7b9e3e54c7e97eab4e5dd1b585b0f853]: Commencement: Reg. 21 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-7b9e3e54c7e97eab4e5dd1b585b0f853]: Commencement: Reg. 21 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00032]: Footnote: Regulations 32(1) was amended by regulation 6(3) of [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
 
@@ -613,7 +613,7 @@ Regulations 20 and 21 deal with attendance and the provision of information, and
 
 [^f00034]: Footnote: Regulation 26 was amended by [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-43b0449655811130307d02a4757ab0e6]: Commencement: Reg. 22 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
+[^c-43b0449655811130307d02a4757ab0e6]: Commencement: Reg. 22 in operation at 16.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/518/regulation/1/1)
 
 [^f00035]: Footnote: [S.R. 1996 No. 200](https://www.legislation.gov.uk/nisr/1996/200)
 

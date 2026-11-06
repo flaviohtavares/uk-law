@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. General functions of the Council.[^key-22a725b013b8e8efc5356e56ca05bd53][^c19010311]
+## 132. General functions of the Council.[^c-22a725b013b8e8efc5356e56ca05bd53][^c19010311]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22a725b013b8e8efc5356e56ca05bd53]: Textual amendment: Ss. 128-134 repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-22a725b013b8e8efc5356e56ca05bd53]: Textual amendment: Ss. 128-134 repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19010311]: Textual amendment: Words in s. 132 heading substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 121(5)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/121/5); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)

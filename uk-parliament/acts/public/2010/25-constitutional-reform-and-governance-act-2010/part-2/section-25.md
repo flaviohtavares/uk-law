@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Meaning of “treaty” and “ratification”[^key-2b72f6ec173ce2ad8835c4de10bbbad8]
+## 25. Meaning of “treaty” and “ratification”[^c-2b72f6ec173ce2ad8835c4de10bbbad8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b72f6ec173ce2ad8835c4de10bbbad8]: Commencement: S. 25 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)
+[^c-2b72f6ec173ce2ad8835c4de10bbbad8]: Commencement: S. 25 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)

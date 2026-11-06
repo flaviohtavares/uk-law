@@ -196,11 +196,11 @@ An Act to make provision with respect to trade unions, their members and their p
 - (c) that where those persons are treated as not being employed they are to be treated as being trained, or are to be treated in such other manner as may be so specified, described or determined; and
 - (d) that those payments are to be treated for the purposes of such enactments and subordinate legislation as may be so specified, described or determined in such manner as may be so specified, described or determined.
 
-(1A)[^key-561c4a709f0cba22e51da0bed03c83cb] The Secretary of State may make an order under subsection (1B) where it appears to the Secretary of State that provision has been made for trainees to receive payments—
+(1A)[^c-561c4a709f0cba22e51da0bed03c83cb] The Secretary of State may make an order under subsection (1B) where it appears to the Secretary of State that provision has been made for trainees to receive payments—
 
 - (a) from the Secretary of State under section 14 of the Education Act 2002,
-- (b) [^key-c1eefbd13288cc9ad020980a96af6792]...or
-- (c) from the Welsh Ministers or the Commission for Tertiary Education and Research under section 97(1)(d) or (e) of the Tertiary Education and Research (Wales) Act 2022[^key-6bed71006fa52c720e94d55ba035db03].
+- (b) [^c-c1eefbd13288cc9ad020980a96af6792]...or
+- (c) from the Welsh Ministers or the Commission for Tertiary Education and Research under section 97(1)(d) or (e) of the Tertiary Education and Research (Wales) Act 2022[^c-6bed71006fa52c720e94d55ba035db03].
 
 (1B) An order under this subsection may provide—
 
@@ -247,7 +247,7 @@ For the purposes of subsection (1A) and this subsection, trainees are persons re
 
 > - (c) any additional persons appointed by the Secretary of State, being persons whom it appeared to the Secretary of State to be appropriate to appoint in addition to those appointed by virtue of sub-paragraph (a) or (b) above;
 
-[^key-f4bb99cf8e99d4bd60874ccba180e6d8]...[^c1016884][^key-f4bb99cf8e99d4bd60874ccba180e6d8]...[^key-f4bb99cf8e99d4bd60874ccba180e6d8]...[^key-f4bb99cf8e99d4bd60874ccba180e6d8]...
+[^c-f4bb99cf8e99d4bd60874ccba180e6d8]...[^c1016884][^c-f4bb99cf8e99d4bd60874ccba180e6d8]...[^c-f4bb99cf8e99d4bd60874ccba180e6d8]...[^c-f4bb99cf8e99d4bd60874ccba180e6d8]...
 
 (2) For paragraph 6 of Schedule 1 to the Industrial Training Act 1982 (voting on matters relating to the imposition of a levy) there shall be substituted the following paragraph —
 
@@ -591,7 +591,7 @@ Section 33.
 
 #### The Agricultural Training Board Act 1982 (c. 9)
 
-**13.**[^key-5195b38a8626fb9f453fb2d102818644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5195b38a8626fb9f453fb2d102818644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Industrial Training Act 1982 (c. 10)
 
@@ -601,7 +601,7 @@ Section 33.
 
 #### The Income and Corporation Taxes Act 1988 (c. 1)
 
-**15.**[^key-6acade8dfc7f843a2e2147125b3955d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6acade8dfc7f843a2e2147125b3955d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Repeals
 
@@ -696,11 +696,11 @@ Section 33.
 
 [^c1016876]: Textual amendment: Words in s. 26(1) (as substituted by Enterprise and New Towns (Scotland) Act [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35) ) substituted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19) , [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2) , [Sch. 8 para. 38(b)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/38/b) ; [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908) , [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-561c4a709f0cba22e51da0bed03c83cb]: Textual amendment: S. 26(1A)(1B) substituted for s. 26(1A) (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/7); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-561c4a709f0cba22e51da0bed03c83cb]: Textual amendment: S. 26(1A)(1B) substituted for s. 26(1A) (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/16/paragraph/7); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-c1eefbd13288cc9ad020980a96af6792]: Textual amendment: [S. 26(1A)(b)](https://www.legislation.gov.uk/ukpga/1988/19/section/26/1A/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 34](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/34)
+[^c-c1eefbd13288cc9ad020980a96af6792]: Textual amendment: [S. 26(1A)(b)](https://www.legislation.gov.uk/ukpga/1988/19/section/26/1A/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 34](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/34)
 
-[^key-6bed71006fa52c720e94d55ba035db03]: Textual amendment: Words in [s. 26(1A)](https://www.legislation.gov.uk/ukpga/1988/19/section/26/1A) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/4/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(i)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/i)
+[^c-6bed71006fa52c720e94d55ba035db03]: Textual amendment: Words in [s. 26(1A)](https://www.legislation.gov.uk/ukpga/1988/19/section/26/1A) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/4/2) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(i)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/i)
 
 [^c1016878]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30) .
 
@@ -712,7 +712,7 @@ Section 33.
 
 [^c1016883]: Marginal citation: [1982 c. 10](https://www.legislation.gov.uk/ukpga/1982/10).
 
-[^key-f4bb99cf8e99d4bd60874ccba180e6d8]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/29/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-f4bb99cf8e99d4bd60874ccba180e6d8]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/29/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c1016884]: Marginal citation: [1982 c. 9](https://www.legislation.gov.uk/ukpga/1982/9).
 
@@ -782,8 +782,8 @@ Section 33.
 
 [^c1016948]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3), [Pt. II paras. 11(1)](https://www.legislation.gov.uk/ukpga/1988/19/part/II/paragraph/11/1), [12(1)(3)](https://www.legislation.gov.uk/ukpga/1988/19/part/II/paragraph/12/1/3) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/II)
 
-[^key-5195b38a8626fb9f453fb2d102818644]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-5195b38a8626fb9f453fb2d102818644]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3/paragraph/13) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c1016950]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3), [Pt. II para. 14(2)](https://www.legislation.gov.uk/ukpga/1988/19/part/II/paragraph/14/2) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/I)
 
-[^key-6acade8dfc7f843a2e2147125b3955d4]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3/paragraph/15) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-6acade8dfc7f843a2e2147125b3955d4]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1988/19/schedule/3/paragraph/15) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

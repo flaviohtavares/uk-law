@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Restrictions on mammals on suspicion of influenza of avian origin[^key-81e2b334035ed57372bc95c7e00ec685]
+## 58. Restrictions on mammals on suspicion of influenza of avian origin[^c-81e2b334035ed57372bc95c7e00ec685]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On suspicion that influenza of avian origin exists or has in the preceding 56 da
 
 ## Annotations
 
-[^key-81e2b334035ed57372bc95c7e00ec685]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/wsi/2006/2927/article/58) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [35](https://www.legislation.gov.uk/wsi/2025/1357/article/35)
+[^c-81e2b334035ed57372bc95c7e00ec685]: Textual amendment: [Art. 58](https://www.legislation.gov.uk/wsi/2006/2927/article/58) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [35](https://www.legislation.gov.uk/wsi/2025/1357/article/35)

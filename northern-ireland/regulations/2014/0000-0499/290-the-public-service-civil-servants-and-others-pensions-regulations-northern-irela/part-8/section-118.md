@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Provisional awards of eligible child’s pensions: later adjustments[^key-c2e1a414ad1a95b586faa1093ecc25de]
+## 118. Provisional awards of eligible child’s pensions: later adjustments[^c-c2e1a414ad1a95b586faa1093ecc25de]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2e1a414ad1a95b586faa1093ecc25de]: Commencement: [Reg. 118](https://www.legislation.gov.uk/nisr/2014/290/regulation/118) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c2e1a414ad1a95b586faa1093ecc25de]: Commencement: [Reg. 118](https://www.legislation.gov.uk/nisr/2014/290/regulation/118) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

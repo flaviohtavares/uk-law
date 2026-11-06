@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Suspension[^key-95f7196f4a5b766c8cca3f200b123098]
+## 83. Suspension[^c-95f7196f4a5b766c8cca3f200b123098]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Once only in the course of a meeting, the chair may, without an adjournment, dec
 
 ## Annotations
 
-[^key-95f7196f4a5b766c8cca3f200b123098]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2011/1301/rule/83) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-95f7196f4a5b766c8cca3f200b123098]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2011/1301/rule/83) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

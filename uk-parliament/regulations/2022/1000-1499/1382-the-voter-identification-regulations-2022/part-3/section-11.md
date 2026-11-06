@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Determination of identity document applications[^key-ada0e8b1fe03ecae8a0639cd92a217fa]
+## 11. Determination of identity document applications[^c-ada0e8b1fe03ecae8a0639cd92a217fa]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ada0e8b1fe03ecae8a0639cd92a217fa]: Commencement: Reg. 11 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-ada0e8b1fe03ecae8a0639cd92a217fa]: Commencement: Reg. 11 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00048]: Footnote: Section 52(1A) was inserted by section 8(8) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).

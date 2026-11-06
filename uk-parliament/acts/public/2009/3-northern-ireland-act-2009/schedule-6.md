@@ -22,7 +22,7 @@ summary: ''
 
 Section 2
 
-**1.**[^key-498e7ba9c44696ab8d00f37caaba1d15] After section 29B of the Northern Ireland Act 1998 (c. 47) insert—
+**1.**[^c-498e7ba9c44696ab8d00f37caaba1d15] After section 29B of the Northern Ireland Act 1998 (c. 47) insert—
 
 > **29C. Review of functions relating to judicial appointments and removals**
 >
@@ -32,7 +32,7 @@ Section 2
 > - (b) to report on its review by a specified date that is before 1 May 2012, and
 > - (c) to include in its report any recommendations it has for changes to the way in which judicial office holders are appointed and removed.
 
-**2.**[^key-c99bcf279d7dc72f39bd65e17c19ecef] (1) From 1 May 2012, no new members may be appointed to the Northern Ireland Judicial Appointments Commission, unless the Northern Ireland Assembly resolves that this sub-paragraph is not to apply (or an Act of the Assembly overrides this sub-paragraph).
+**2.**[^c-c99bcf279d7dc72f39bd65e17c19ecef] (1) From 1 May 2012, no new members may be appointed to the Northern Ireland Judicial Appointments Commission, unless the Northern Ireland Assembly resolves that this sub-paragraph is not to apply (or an Act of the Assembly overrides this sub-paragraph).
 
 (This does not stop the re-appointment of existing members.)
 
@@ -48,6 +48,6 @@ Section 2
 
 ## Annotations
 
-[^key-498e7ba9c44696ab8d00f37caaba1d15]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2009/3/schedule/6/paragraph/1) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-498e7ba9c44696ab8d00f37caaba1d15]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2009/3/schedule/6/paragraph/1) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-c99bcf279d7dc72f39bd65e17c19ecef]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/6/paragraph/2) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-c99bcf279d7dc72f39bd65e17c19ecef]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/6/paragraph/2) in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

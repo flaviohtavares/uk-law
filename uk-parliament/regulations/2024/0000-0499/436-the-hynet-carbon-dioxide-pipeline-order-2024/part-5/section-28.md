@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Compulsory acquisition of land: minerals[^key-3bf4bdaf6c824c39eb460b3be8c2e274]
+## 28. Compulsory acquisition of land: minerals[^c-3bf4bdaf6c824c39eb460b3be8c2e274]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ Parts 2 and 3 of Schedule 2 (minerals) to the Acquisition of Land Act 1981[^f000
 
 ## Annotations
 
-[^key-3bf4bdaf6c824c39eb460b3be8c2e274]: Commencement: Art. 28 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-3bf4bdaf6c824c39eb460b3be8c2e274]: Commencement: Art. 28 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00030]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

@@ -29,7 +29,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-8f584a4ebb0a26af6ff94c65232c0f09]Commission Regulation (EC) No 1975/2006
+[^c-8f584a4ebb0a26af6ff94c65232c0f09]Commission Regulation (EC) No 1975/2006
 
 of 7 December 2006
 
@@ -37,7 +37,7 @@ laying down detailed rules for the implementation of Council Regulation (EC) No 
 
 **May not be in force at this date. Check the source.**
 
-[^key-6e34873d542adb0c14df0b25bfdb99df][^key-8f584a4ebb0a26af6ff94c65232c0f09]
+[^c-6e34873d542adb0c14df0b25bfdb99df][^c-8f584a4ebb0a26af6ff94c65232c0f09]
 
 [^c000006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -183,7 +183,7 @@ Reductions and exclusions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### Article 27. On-the-spot checks[^c000006][^key-9aa4e3aeaf9b7683a36de5cc4ea49d17][^key-34d068a3a83c56ff9cd862608aa118ff]
+###### Article 27. On-the-spot checks[^c000006][^c-9aa4e3aeaf9b7683a36de5cc4ea49d17][^c-34d068a3a83c56ff9cd862608aa118ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -249,12 +249,12 @@ Reductions and exclusions
 
 ## Annotations
 
-[^key-8f584a4ebb0a26af6ff94c65232c0f09]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2020/21/section/14), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
+[^c-8f584a4ebb0a26af6ff94c65232c0f09]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2020/21/section/14), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-6e34873d542adb0c14df0b25bfdb99df]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/4) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
+[^c-6e34873d542adb0c14df0b25bfdb99df]: Modification: Regulation: power to modify conferred (W.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2020/21/schedule/5/paragraph/4) (with [s. 47](https://www.legislation.gov.uk/ukpga/2020/21/section/47))
 
 [^c000006]: Textual amendment: Regulation repealed (with savings) by [Commission Regulation (EU) No 65/2011 of 27 January 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1698/2005, as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures](https://www.legislation.gov.uk/eur/2011/65), Art. 34; and Arts. 26, 30, 31 (so far as still in force) amended (E.) (28.7.2022) by [The Rural Development (Amendment) (England) Regulations 2022 (S.I. 2022/765)](https://www.legislation.gov.uk/uksi/2022/765), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2022/765/regulation/5); and Arts. 12, 16, 18, 26-28 (so far as still in force) amended (E.) (15.12.2022) by [The Rural Development (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/1225)](https://www.legislation.gov.uk/uksi/2022/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1225/regulation/3); and Arts. 1, 9, 10, 19-24 (so far as still in force) further amended (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Tables 1 and 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-9aa4e3aeaf9b7683a36de5cc4ea49d17]: Textual amendment: [Art. 27(2)](https://www.legislation.gov.uk/eur/2006/1975/article/27/2) omitted (15.12.2022) by virtue of [The Rural Development (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/1225)](https://www.legislation.gov.uk/uksi/2022/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/3/6/b)
+[^c-9aa4e3aeaf9b7683a36de5cc4ea49d17]: Textual amendment: [Art. 27(2)](https://www.legislation.gov.uk/eur/2006/1975/article/27/2) omitted (15.12.2022) by virtue of [The Rural Development (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/1225)](https://www.legislation.gov.uk/uksi/2022/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/3/6/b)
 
-[^key-34d068a3a83c56ff9cd862608aa118ff]: Textual amendment: Word in [Art. 27(1)](https://www.legislation.gov.uk/eur/2006/1975/article/27/1) substituted (15.12.2022) by [The Rural Development (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/1225)](https://www.legislation.gov.uk/uksi/2022/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/3/6/a)
+[^c-34d068a3a83c56ff9cd862608aa118ff]: Textual amendment: Word in [Art. 27(1)](https://www.legislation.gov.uk/eur/2006/1975/article/27/1) substituted (15.12.2022) by [The Rural Development (Amendment) (No. 2) (England) Regulations 2022 (S.I. 2022/1225)](https://www.legislation.gov.uk/uksi/2022/1225), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2022/1225/regulation/3/6/a)

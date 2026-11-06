@@ -45,10 +45,10 @@ summary: ''
 - (a) the Nuclear Installations Act 1965 [^c21824451];
 - (b) the Merchant Shipping Act 1988 [^c21824461];
 - (c) Orders and Regulations made or to be made under the enactments in (a) and (b);
-- (d)[^key-89e0fd84b059583ef58299741efaf479] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) the Ionising Radiations Regulations 2017[^key-9713df5f66b38c1b0b052b28a76ed3fc];
+- (d)[^c-89e0fd84b059583ef58299741efaf479] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Ionising Radiations Regulations 2017[^c-9713df5f66b38c1b0b052b28a76ed3fc];
 - (f) the Electricity Safety, Quality and Continuity Regulations 2002 [^c21824491]; or
-- (g)[^key-a5c517722a75c84040e147c72ce09c6b] Article 9 of Regulation (EU) No 996/2010 of the European Parliament and of the Council on the investigation and prevention of accidents and incidents in civil aviation and repealing [Directive 94/56/EC](https://www.legislation.gov.uk/european/directive/1994/0056).
+- (g)[^c-a5c517722a75c84040e147c72ce09c6b] Article 9 of Regulation (EU) No 996/2010 of the European Parliament and of the Council on the investigation and prevention of accidents and incidents in civil aviation and repealing [Directive 94/56/EC](https://www.legislation.gov.uk/european/directive/1994/0056).
 
 ## Annotations
 
@@ -60,10 +60,10 @@ summary: ''
 
 [^c21824461]: Marginal citation: [1988 c.12](https://www.legislation.gov.uk/ukpga/1988/12).
 
-[^key-89e0fd84b059583ef58299741efaf479]: Textual amendment: [Reg. 14(6)(d)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/14/6/d) omitted (9.4.2018) by virtue of [The Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 2018 (S.I. 2018/321)](https://www.legislation.gov.uk/uksi/2018/321), [regs. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/321/regulation/6/2)
+[^c-89e0fd84b059583ef58299741efaf479]: Textual amendment: [Reg. 14(6)(d)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/14/6/d) omitted (9.4.2018) by virtue of [The Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 2018 (S.I. 2018/321)](https://www.legislation.gov.uk/uksi/2018/321), [regs. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/321/regulation/6/2)
 
-[^key-9713df5f66b38c1b0b052b28a76ed3fc]: Textual amendment: Words in reg. 14(6)(e) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 13(2)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/13/2) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-9713df5f66b38c1b0b052b28a76ed3fc]: Textual amendment: Words in reg. 14(6)(e) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 13(2)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/13/2) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^c21824491]: Marginal citation: [S.I. 2002/2665](https://www.legislation.gov.uk/uksi/2002/2665); to which there are amendments not relevant to these Regulations.
 
-[^key-a5c517722a75c84040e147c72ce09c6b]: Textual amendment: [Reg. 14(6)(g)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/14/6/g) substituted (9.4.2018) by [The Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 2018 (S.I. 2018/321)](https://www.legislation.gov.uk/uksi/2018/321), [regs. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/321/regulation/6/2)
+[^c-a5c517722a75c84040e147c72ce09c6b]: Textual amendment: [Reg. 14(6)(g)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/14/6/g) substituted (9.4.2018) by [The Civil Aviation (Investigation of Air Accidents and Incidents) Regulations 2018 (S.I. 2018/321)](https://www.legislation.gov.uk/uksi/2018/321), [regs. 1](https://www.legislation.gov.uk/uksi/2018/321/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/321/regulation/6/2)

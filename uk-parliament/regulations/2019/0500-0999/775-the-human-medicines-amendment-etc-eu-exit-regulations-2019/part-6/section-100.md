@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Amendment of regulation 104 (consideration of application)[^M_I_d93b0822-473f-4fc4-87ab-8516d9cf39f7][^key-c9269066ba077c730cf55846834892c7]
+## 100. Amendment of regulation 104 (consideration of application)[^M_I_d93b0822-473f-4fc4-87ab-8516d9cf39f7][^c-c9269066ba077c730cf55846834892c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^M_I_d93b0822-473f-4fc4-87ab-8516d9cf39f7]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c9269066ba077c730cf55846834892c7]: Textual amendment: Reg. 100 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/77)
+[^c-c9269066ba077c730cf55846834892c7]: Textual amendment: Reg. 100 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/77)

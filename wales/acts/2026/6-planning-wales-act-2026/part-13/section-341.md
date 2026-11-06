@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 341. Withdrawal of blight notice[^key-05fee8f199dc1500268fa28358b0c6d6]
+## 341. Withdrawal of blight notice[^c-05fee8f199dc1500268fa28358b0c6d6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05fee8f199dc1500268fa28358b0c6d6]: Commencement: S. 341 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-05fee8f199dc1500268fa28358b0c6d6]: Commencement: S. 341 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

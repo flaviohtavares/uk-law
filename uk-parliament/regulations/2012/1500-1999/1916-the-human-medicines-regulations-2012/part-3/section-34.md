@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person is guilty of an offence if the person contravenes the provisions of regulation 17(1) or 18(1)[^key-7ac66f95b78280a1a4083d240544855e].
+(1) A person is guilty of an offence if the person contravenes the provisions of regulation 17(1) or 18(1)[^c-7ac66f95b78280a1a4083d240544855e].
 
 (2) A person is guilty of an offence if the person knowingly gives false information in response to a notice under regulation 30(1).
 
 (3) A person is guilty of an offence if, without reasonable excuse, the person fails to comply with a notice under regulation 30(2).
 
-(4) The defence in paragraph (5) applies to a person who is charged under paragraph (1) with an offence of contravening regulation 17(1) (prohibition on manufacturing a medicinal product except in accordance with a licence) by virtue of a breach of regulation 37(3)[^key-13c74e47ff95d3f303fddf507310e2cd] (requirement that active substances used as starting materials are manufactured or assembled in accordance with the Good Manufacturing Practice Directive).
+(4) The defence in paragraph (5) applies to a person who is charged under paragraph (1) with an offence of contravening regulation 17(1) (prohibition on manufacturing a medicinal product except in accordance with a licence) by virtue of a breach of regulation 37(3)[^c-13c74e47ff95d3f303fddf507310e2cd] (requirement that active substances used as starting materials are manufactured or assembled in accordance with the Good Manufacturing Practice Directive).
 
 (5) It is a defence for the person to show that the person could not, by taking all reasonable precautions and exercising all due diligence, have discovered that an active substance was not manufactured in accordance with regulation 37(3).
 
 ## Annotations
 
-[^key-7ac66f95b78280a1a4083d240544855e]: Textual amendment: Words in reg. 34(1) substituted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/9/a)
+[^c-7ac66f95b78280a1a4083d240544855e]: Textual amendment: Words in reg. 34(1) substituted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/9/a)
 
-[^key-13c74e47ff95d3f303fddf507310e2cd]: Textual amendment: Word in reg. 34(4)(5) substituted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/9/b)
+[^c-13c74e47ff95d3f303fddf507310e2cd]: Textual amendment: Word in reg. 34(4)(5) substituted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/9/b)

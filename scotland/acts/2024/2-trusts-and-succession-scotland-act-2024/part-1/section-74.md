@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Warrant to vest corporeal moveable property in beneficiary where trustee has died or become incapable[^key-2b3944fefa3d27b79572695e984d7bdc]
+## 74. Warrant to vest corporeal moveable property in beneficiary where trustee has died or become incapable[^c-2b3944fefa3d27b79572695e984d7bdc]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3944fefa3d27b79572695e984d7bdc]: Commencement: S. 74 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-2b3944fefa3d27b79572695e984d7bdc]: Commencement: S. 74 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -355,27 +355,27 @@ HAVE ADOPTED THIS REGULATION:
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-### Article 1. Subject matter[^key-5d7397528c8ab7a34f3e3a0185242098]
+### Article 1. Subject matter[^c-5d7397528c8ab7a34f3e3a0185242098]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. Establishment of the single digital gateway[^key-5d7397528c8ab7a34f3e3a0185242098]
+### Article 2. Establishment of the single digital gateway[^c-5d7397528c8ab7a34f3e3a0185242098]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-5d7397528c8ab7a34f3e3a0185242098]
+### Article 3. Definitions[^c-5d7397528c8ab7a34f3e3a0185242098]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER II — GATEWAY SERVICES
 
-### Article 4. Access to information[^key-5d7397528c8ab7a34f3e3a0185242098]
+### Article 4. Access to information[^c-5d7397528c8ab7a34f3e3a0185242098]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Access to information not included in Annex I[^key-5d7397528c8ab7a34f3e3a0185242098]
+### Article 5. Access to information not included in Annex I[^c-5d7397528c8ab7a34f3e3a0185242098]
 
 **No longer in force.**
 
@@ -398,13 +398,13 @@ HAVE ADOPTED THIS REGULATION:
 
 5. This Article shall not prevent Member States from offering users the additional possibility of accessing and completing the procedures referred to in point (b) of Article 2(2) by means other than an online channel, or from contacting users directly.
 
-### Article 7. Access to assistance and problem-solving services[^key-73b82d87022b5f4d27adc39fe7670902]
+### Article 7. Access to assistance and problem-solving services[^c-73b82d87022b5f4d27adc39fe7670902]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Quality requirements related to web accessibility[^key-73b82d87022b5f4d27adc39fe7670902]
+### Article 8. Quality requirements related to web accessibility[^c-73b82d87022b5f4d27adc39fe7670902]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -412,19 +412,19 @@ HAVE ADOPTED THIS REGULATION:
 
 ### SECTION 1 — Quality requirements related to information on rights, obligations and rules, on procedures and on assistance and problem-solving services
 
-#### Article 9. Quality of information on rights, obligations and rules[^key-73b82d87022b5f4d27adc39fe7670902]
+#### Article 9. Quality of information on rights, obligations and rules[^c-73b82d87022b5f4d27adc39fe7670902]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 10. Quality of information on procedures[^key-73b82d87022b5f4d27adc39fe7670902]
+#### Article 10. Quality of information on procedures[^c-73b82d87022b5f4d27adc39fe7670902]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 11. Quality of information on assistance and problem-solving services[^key-73b82d87022b5f4d27adc39fe7670902]
+#### Article 11. Quality of information on assistance and problem-solving services[^c-73b82d87022b5f4d27adc39fe7670902]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 12. Translation of information[^key-73b82d87022b5f4d27adc39fe7670902]
+#### Article 12. Translation of information[^c-73b82d87022b5f4d27adc39fe7670902]
 
 **No longer in force.**
 
@@ -474,11 +474,11 @@ HAVE ADOPTED THIS REGULATION:
 
 8. The evidence made available to the requesting competent authority shall be limited to what has been requested and shall only be used by that authority for the purpose of the procedure for which the evidence was exchanged. The evidence exchanged through the technical system shall, for the purposes of the requesting competent authority, be deemed to be authentic.
 
-9.[^key-932024388834d441966d4d1bc50b6fd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.[^c-932024388834d441966d4d1bc50b6fd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 10. Paragraphs 1 to 8 shall not apply to procedures established at Union level which provide for different mechanisms for the exchange of evidence, unless the technical system necessary for the implementation of this Article is integrated into those procedures in accordance with the rules of the Union acts that establish those procedures.
 
-11.[^key-9015f2d93c9ebf5d131b2b0e454e6079] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+11.[^c-9015f2d93c9ebf5d131b2b0e454e6079] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Article 15. Verification of evidence between Member States
 
@@ -486,7 +486,7 @@ Where the technical system, or other systems for the exchange or verification of
 
 ### SECTION 3 — Quality requirements related to assistance and problem-solving services
 
-#### Article 16. Quality requirements related to assistance and problem-solving services[^key-48e6d96162f76ef1c8892e61a8f46391]
+#### Article 16. Quality requirements related to assistance and problem-solving services[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 **No longer in force.**
 
@@ -494,97 +494,97 @@ Where the technical system, or other systems for the exchange or verification of
 
 ### SECTION 4 — Quality monitoring
 
-#### Article 17. Quality monitoring[^key-48e6d96162f76ef1c8892e61a8f46391]
+#### Article 17. Quality monitoring[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER IV — TECHNICAL SOLUTIONS
 
-### Article 18. Common user interface[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 18. Common user interface[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Repository for links[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 19. Repository for links[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Common assistance service finder[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 20. Common assistance service finder[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Responsibilities for the ICT applications supporting the gateway[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 21. Responsibilities for the ICT applications supporting the gateway[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER V — PROMOTION
 
-### Article 22. Name, logo and quality label[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 22. Name, logo and quality label[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Promotion[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 23. Promotion[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER VI — COLLECTION OF USER FEEDBACK AND STATISTICS
 
-### Article 24. User statistics[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 24. User statistics[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. User feedback on the services of the gateway[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 25. User feedback on the services of the gateway[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 26. Reporting on the functioning of the internal market[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 26. Reporting on the functioning of the internal market[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 27. Online summary overviews[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 27. Online summary overviews[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER VII — GOVERNANCE OF THE GATEWAY
 
-### Article 28. National coordinators[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 28. National coordinators[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 29. Coordination group[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 29. Coordination group[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 30. Tasks of the gateway coordination group[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 30. Tasks of the gateway coordination group[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 31. Annual work programme[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 31. Annual work programme[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER VIII — FINAL PROVISIONS
 
-### Article 32. Costs[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 32. Costs[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 33. Protection of personal data[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 33. Protection of personal data[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 34. Cooperation with other information and assistance networks[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 34. Cooperation with other information and assistance networks[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 35. Internal Market Information System[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 35. Internal Market Information System[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 36. Reporting and review[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 36. Reporting and review[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 37. Committee procedure[^key-48e6d96162f76ef1c8892e61a8f46391]
+### Article 37. Committee procedure[^c-48e6d96162f76ef1c8892e61a8f46391]
 
 **No longer in force.**
 
@@ -660,7 +660,7 @@ Regulation (EU) No 1024/2012 is amended as follows:
 
   .
 
-### Article 39. Entry into force[^key-74aad6fe20f19e423caf2f84733db2ce]
+### Article 39. Entry into force[^c-74aad6fe20f19e423caf2f84733db2ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -816,15 +816,15 @@ Areas of information related to businesses:
 
 [^f00030]: Footnote: [OJ C 340, 11.10.2017, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2017.340.01.0006.01.ENG).
 
-[^key-5d7397528c8ab7a34f3e3a0185242098]: Textual amendment: [Arts. 1-5](https://www.legislation.gov.uk/eur/2018/1724/article/1) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/a)
+[^c-5d7397528c8ab7a34f3e3a0185242098]: Textual amendment: [Arts. 1-5](https://www.legislation.gov.uk/eur/2018/1724/article/1) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/a)
 
-[^key-73b82d87022b5f4d27adc39fe7670902]: Textual amendment: [Arts. 7-12](https://www.legislation.gov.uk/eur/2018/1724/article/7) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/b)
+[^c-73b82d87022b5f4d27adc39fe7670902]: Textual amendment: [Arts. 7-12](https://www.legislation.gov.uk/eur/2018/1724/article/7) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/b)
 
-[^key-932024388834d441966d4d1bc50b6fd3]: Textual amendment: [Art. 14(9)](https://www.legislation.gov.uk/eur/2018/1724/article/14/9) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/c)
+[^c-932024388834d441966d4d1bc50b6fd3]: Textual amendment: [Art. 14(9)](https://www.legislation.gov.uk/eur/2018/1724/article/14/9) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/c)
 
-[^key-9015f2d93c9ebf5d131b2b0e454e6079]: Textual amendment: [Art. 14(11)](https://www.legislation.gov.uk/eur/2018/1724/article/14/11) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/d)
+[^c-9015f2d93c9ebf5d131b2b0e454e6079]: Textual amendment: [Art. 14(11)](https://www.legislation.gov.uk/eur/2018/1724/article/14/11) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/d)
 
-[^key-48e6d96162f76ef1c8892e61a8f46391]: Textual amendment: [Arts. 16-37](https://www.legislation.gov.uk/eur/2018/1724/article/16) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/e)
+[^c-48e6d96162f76ef1c8892e61a8f46391]: Textual amendment: [Arts. 16-37](https://www.legislation.gov.uk/eur/2018/1724/article/16) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(e)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/e)
 
 [^f00031]: Footnote: Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC ([OJ L 295, 21.11.2018, p. 39](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.295.01.0039.01.ENG)).’;
 
@@ -832,7 +832,7 @@ Areas of information related to businesses:
 
 [^f00033]: Footnote: [OJ L 295, 21.11.2018, p. 39’.](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.295.01.0039.01.ENG)
 
-[^key-74aad6fe20f19e423caf2f84733db2ce]: Textual amendment: Art. 39 omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(f)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/f)
+[^c-74aad6fe20f19e423caf2f84733db2ce]: Textual amendment: Art. 39 omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(f)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/f)
 
 [^M_F_c7e30b53-42c2-4baa-9095-30736f1090f2]: Textual amendment: Art. 39 (including binding words) omitted (31.12.2020) by virtue of [The Single Digital Gateway Regulation (Revocation) (EU Exit) Regulations 2020 (S.I. 2020/793)](https://www.legislation.gov.uk/uksi/2020/793), [regs. 1](https://www.legislation.gov.uk/uksi/2020/793/regulation/1), [2(f)](https://www.legislation.gov.uk/uksi/2020/793/regulation/2/f)
 

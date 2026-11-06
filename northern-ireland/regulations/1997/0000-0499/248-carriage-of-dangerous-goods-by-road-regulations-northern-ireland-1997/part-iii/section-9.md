@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Carriage in tanks[^key-0d3615c56f3ce4412d7be3a56b362ace]
+## 9. Carriage in tanks[^c-0d3615c56f3ce4412d7be3a56b362ace]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d3615c56f3ce4412d7be3a56b362ace]: Commencement: Reg. 9 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-0d3615c56f3ce4412d7be3a56b362ace]: Commencement: Reg. 9 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

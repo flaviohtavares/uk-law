@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Additional ground for rectifying the register of members[^key-cd6ce4843935e46a0760a315ffb1333e][^key-2fc4998785e92adada60b9c328b51c8e]
+## 47. Additional ground for rectifying the register of members[^c-cd6ce4843935e46a0760a315ffb1333e][^c-2fc4998785e92adada60b9c328b51c8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In section 125 of the Companies Act 2006 (power of court to rectify the register
 
 ## Annotations
 
-[^key-cd6ce4843935e46a0760a315ffb1333e]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-cd6ce4843935e46a0760a315ffb1333e]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-2fc4998785e92adada60b9c328b51c8e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/56/section/47) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z8)
+[^c-2fc4998785e92adada60b9c328b51c8e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2023/56/section/47) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z8)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z8)

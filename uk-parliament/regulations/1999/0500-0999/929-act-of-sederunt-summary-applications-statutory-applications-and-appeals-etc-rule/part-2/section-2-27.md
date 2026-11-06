@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.27. Form of warrant for execution[^key-407d7a3ad647ad630fede95555204eeb]
+## 2.27. Form of warrant for execution[^c-407d7a3ad647ad630fede95555204eeb]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ An extract of a decree on which execution may proceed shall include a warrant fo
 
 ## Annotations
 
-[^key-407d7a3ad647ad630fede95555204eeb]: Commencement: Rule 2.27 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-407d7a3ad647ad630fede95555204eeb]: Commencement: Rule 2.27 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

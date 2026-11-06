@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Asylum Support (Amendment) Regulations 2022 (revoked)[^key-98b22b9edf690896006e8bf77c3714ac]
+The Asylum Support (Amendment) Regulations 2022 (revoked)[^c-98b22b9edf690896006e8bf77c3714ac]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 21st February 2022
 
-[^key-98b22b9edf690896006e8bf77c3714ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98b22b9edf690896006e8bf77c3714ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-98b22b9edf690896006e8bf77c3714ac]
+## 1. Citation, commencement and extent[^c-98b22b9edf690896006e8bf77c3714ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Asylum Support Regulations 2000[^key-98b22b9edf690896006e8bf77c3714ac]
+## 2. Amendment to the Asylum Support Regulations 2000[^c-98b22b9edf690896006e8bf77c3714ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-98b22b9edf690896006e8bf77c3714ac]
+## 3. Revocations[^c-98b22b9edf690896006e8bf77c3714ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-98b22b9edf690896006e8bf77c3714ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98b22b9edf690896006e8bf77c3714ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-98b22b9edf690896006e8bf77c3714ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98b22b9edf690896006e8bf77c3714ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98b22b9edf690896006e8bf77c3714ac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/78) revoked (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1372/regulation/3)
+[^c-98b22b9edf690896006e8bf77c3714ac]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/78) revoked (15.1.2024) by [The Asylum Support (Amendment) Regulations 2023 (S.I. 2023/1372)](https://www.legislation.gov.uk/uksi/2023/1372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1372/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1372/regulation/3)

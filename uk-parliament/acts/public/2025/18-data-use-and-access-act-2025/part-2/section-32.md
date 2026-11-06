@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. DVS register[^key-f31c3e3ebbc3e08eac176238d8942812][^key-b28d7cfffa0f58dc6e89bf6763ce8516]
+## 32. DVS register[^c-f31c3e3ebbc3e08eac176238d8942812][^c-b28d7cfffa0f58dc6e89bf6763ce8516]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f31c3e3ebbc3e08eac176238d8942812]: Commencement: S. 32 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-f31c3e3ebbc3e08eac176238d8942812]: Commencement: S. 32 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-b28d7cfffa0f58dc6e89bf6763ce8516]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/18/section/32) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-b28d7cfffa0f58dc6e89bf6763ce8516]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/18/section/32) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

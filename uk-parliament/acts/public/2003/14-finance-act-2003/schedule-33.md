@@ -24,11 +24,11 @@ Section 170
 
 ### Case I profits
 
-**1.**[^key-d174442ac1a34341258648a1e4cff2c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d174442ac1a34341258648a1e4cff2c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-de78e9acd3e3c99f6c265509a4b8b727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-de78e9acd3e3c99f6c265509a4b8b727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-051ce7c44dbbc182b4b3ec6988dbdaf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-051ce7c44dbbc182b4b3ec6988dbdaf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** (1) In section 83AA of the Finance Act 1989 (c. 26) (amounts added to long-term insurance fund of a company in excess of company’s loss), omit—
 
@@ -39,9 +39,9 @@ Section 170
 
 (2) Sub-paragraph (1) has effect for periods of account beginning on or after 1st January 2003.
 
-**5.**[^key-1d76629713f9ac8722b0a6291deaf4f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1d76629713f9ac8722b0a6291deaf4f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** (1)[^key-799d9af95e445824f8d91fb61231cb0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.** (1)[^c-799d9af95e445824f8d91fb61231cb0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 89 of that Act (meaning of policy holders' share of profits) is amended as follows.
 
@@ -71,11 +71,11 @@ Section 170
 
 (5) In subsection (2), for “subsection (1)” substitute “ subsections (1) and (1A) ”.
 
-(6)[^key-868c0f44b4eec45f35ae7d30fc595618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-868c0f44b4eec45f35ae7d30fc595618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In—
 
-- (a)[^key-a2c9e59fd1ad38a70f631701635c22c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a2c9e59fd1ad38a70f631701635c22c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the second sentence of section 434A(3) of that Act (computation of losses and limitation on relief),
 
 for “88” substitute “ 89 ”.
@@ -90,17 +90,17 @@ for “88” substitute “ 89 ”.
 
 (12) But, subject to that, this paragraph has effect for accounting periods ending on or after 9th April 2003.
 
-**7.**[^key-327e1757cd69010baadd7bbf682ef770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-327e1757cd69010baadd7bbf682ef770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-74ecdd0424718eddfc22c57736292354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-74ecdd0424718eddfc22c57736292354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-aab600f26ddaa2175a60ef3e09642fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-aab600f26ddaa2175a60ef3e09642fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-31356aee4460a594b42f1a595ae7bd19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-31356aee4460a594b42f1a595ae7bd19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-fd714b0ca0a342dfef9c789319b0da70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-fd714b0ca0a342dfef9c789319b0da70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ed98bd746d8dcda8a730b54b0e1ac591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ed98bd746d8dcda8a730b54b0e1ac591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rate of tax on policy holders' share of life assurance profits
 
@@ -123,7 +123,7 @@ for “88” substitute “ 89 ”.
 (6) In section 438B(5) (income or gains arising from property investment LLP)—
 
 - (a) omit paragraph (b) and the word “and” before it, and
-- (b)[^key-8ce8b20f871a76923e7202eeb6a182d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8ce8b20f871a76923e7202eeb6a182d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Section 755A (controlled foreign companies: chargeable profits and creditable tax apportioned to company carrying on life assurance business) is amended as follows.
 
@@ -154,7 +154,7 @@ for “88” substitute “ 89 ”.
 
 .
 
-(10)[^key-78cc22d2731c56ae17da4ac75bf690fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-78cc22d2731c56ae17da4ac75bf690fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) This paragraph has effect for the financial year 2003 and subsequent financial years.
 
@@ -341,15 +341,15 @@ only if the amount of the allowable losses referable to the company’s life ass
 
 (6) This paragraph has effect where the accounting period for which the net amount represents an excess of losses over gains is an accounting period beginning on or after 1st January 2003.
 
-**17.**[^key-1942aff298eb7f6a67485712ba7eaa00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-1942aff298eb7f6a67485712ba7eaa00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transfers of business
 
-**18.**[^key-143523fb05d669849c280ecd95e0c9b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-143523fb05d669849c280ecd95e0c9b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-a0e64adaf76d8f5385e286dbf65f4839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-a0e64adaf76d8f5385e286dbf65f4839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-1a556e957605dc3cc65af1e7d56ed27c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-1a556e957605dc3cc65af1e7d56ed27c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.** (1) In the Taxation of Chargeable Gains Act 1992 (c. 12), after section 211 insert—
 
@@ -388,17 +388,17 @@ only if the amount of the allowable losses referable to the company’s life ass
 
 (2) Sub-paragraph (1) has effect in relation to insurance business transfer schemes taking place on or after 1st January 2003.
 
-**22.**[^key-bb14ce0dbb520eb4bb918b3f1250e4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-bb14ce0dbb520eb4bb918b3f1250e4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-bb14ce0dbb520eb4bb918b3f1250e4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-bb14ce0dbb520eb4bb918b3f1250e4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-bb14ce0dbb520eb4bb918b3f1250e4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-bb14ce0dbb520eb4bb918b3f1250e4a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Meaning of “investment reserve” etc
 
-**25.**[^key-78a79a02ad4925e4ca61d27eb29ec09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-78a79a02ad4925e4ca61d27eb29ec09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-a61093d545b079861523a4337a78ad33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a61093d545b079861523a4337a78ad33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** In paragraph 4(5) of Schedule 19AA to the Taxes Act 1988 (overseas life assurance fund), in the definition of “investment reserve”, for paragraphs (a) and (b) substitute—
 
@@ -411,62 +411,62 @@ only if the amount of the allowable losses referable to the company’s life ass
 
 ### Meaning of “period of account”
 
-**29.**[^key-cedf4ab7174153ccbe2eba9bb4f98f86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-cedf4ab7174153ccbe2eba9bb4f98f86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rationalisation of interpretation provisions
 
-**30.**[^key-c2fd01fcd1f662246c6cdff15f5cd9a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-c2fd01fcd1f662246c6cdff15f5cd9a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-c2fd01fcd1f662246c6cdff15f5cd9a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-c2fd01fcd1f662246c6cdff15f5cd9a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-c2fd01fcd1f662246c6cdff15f5cd9a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-c2fd01fcd1f662246c6cdff15f5cd9a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d174442ac1a34341258648a1e4cff2c7]: Textual amendment: [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-d174442ac1a34341258648a1e4cff2c7]: Textual amendment: [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-de78e9acd3e3c99f6c265509a4b8b727]: Textual amendment: [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-de78e9acd3e3c99f6c265509a4b8b727]: Textual amendment: [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/2) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-051ce7c44dbbc182b4b3ec6988dbdaf4]: Textual amendment: Sch. 33 para. 3 omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 3(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/3/b)
+[^c-051ce7c44dbbc182b4b3ec6988dbdaf4]: Textual amendment: Sch. 33 para. 3 omitted (with effect in accordance with Sch. 17 para. 4(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 3(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/3/b)
 
-[^key-1d76629713f9ac8722b0a6291deaf4f0]: Textual amendment: [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/5) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-1d76629713f9ac8722b0a6291deaf4f0]: Textual amendment: [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/5) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-799d9af95e445824f8d91fb61231cb0e]: Textual amendment: Sch. 33 para. 6(1) omitted (with effect in accordance with Sch. 17 para. 18(6) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 18(5)(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/18/5/e)
+[^c-799d9af95e445824f8d91fb61231cb0e]: Textual amendment: Sch. 33 para. 6(1) omitted (with effect in accordance with Sch. 17 para. 18(6) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 18(5)(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/18/5/e)
 
-[^key-868c0f44b4eec45f35ae7d30fc595618]: Textual amendment: Sch. 33 para. 6(6) repealed (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
+[^c-868c0f44b4eec45f35ae7d30fc595618]: Textual amendment: Sch. 33 para. 6(6) repealed (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
 
-[^key-a2c9e59fd1ad38a70f631701635c22c8]: Textual amendment: Sch. 33 para. 6(7)(a) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-a2c9e59fd1ad38a70f631701635c22c8]: Textual amendment: Sch. 33 para. 6(7)(a) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-327e1757cd69010baadd7bbf682ef770]: Textual amendment: Sch. 33 para. 7 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/8)
+[^c-327e1757cd69010baadd7bbf682ef770]: Textual amendment: Sch. 33 para. 7 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/8)
 
-[^key-74ecdd0424718eddfc22c57736292354]: Textual amendment: [Sch. 33 para. 8](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-74ecdd0424718eddfc22c57736292354]: Textual amendment: [Sch. 33 para. 8](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/8) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-aab600f26ddaa2175a60ef3e09642fa9]: Textual amendment: Sch. 33 para. 9 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-aab600f26ddaa2175a60ef3e09642fa9]: Textual amendment: Sch. 33 para. 9 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-31356aee4460a594b42f1a595ae7bd19]: Textual amendment: [Sch. 33 para. 10](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/10) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-31356aee4460a594b42f1a595ae7bd19]: Textual amendment: [Sch. 33 para. 10](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/10) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-fd714b0ca0a342dfef9c789319b0da70]: Textual amendment: [Sch. 33 para. 11](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/11) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fd714b0ca0a342dfef9c789319b0da70]: Textual amendment: [Sch. 33 para. 11](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/11) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-ed98bd746d8dcda8a730b54b0e1ac591]: Textual amendment: [Sch. 33 para. 12](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/12) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-ed98bd746d8dcda8a730b54b0e1ac591]: Textual amendment: [Sch. 33 para. 12](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/12) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-8ce8b20f871a76923e7202eeb6a182d9]: Textual amendment: Sch. 33 para. 13(6)(b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-8ce8b20f871a76923e7202eeb6a182d9]: Textual amendment: Sch. 33 para. 13(6)(b) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-78cc22d2731c56ae17da4ac75bf690fe]: Textual amendment: Sch. 33 para. 13(10) repealed (with effect in accordance with s. 37 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/1)
+[^c-78cc22d2731c56ae17da4ac75bf690fe]: Textual amendment: Sch. 33 para. 13(10) repealed (with effect in accordance with s. 37 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/1)
 
-[^key-1942aff298eb7f6a67485712ba7eaa00]: Textual amendment: [Sch. 33 para. 17](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/17) omitted (with effect in accordance with Sch. 12 para. 5 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 12 para. 4(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/12/paragraph/4/c)
+[^c-1942aff298eb7f6a67485712ba7eaa00]: Textual amendment: [Sch. 33 para. 17](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/17) omitted (with effect in accordance with Sch. 12 para. 5 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 12 para. 4(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/12/paragraph/4/c)
 
-[^key-143523fb05d669849c280ecd95e0c9b2]: Textual amendment: Sch. 33 para. 18 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
+[^c-143523fb05d669849c280ecd95e0c9b2]: Textual amendment: Sch. 33 para. 18 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
 
-[^key-a0e64adaf76d8f5385e286dbf65f4839]: Textual amendment: Sch. 33 para. 19 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
+[^c-a0e64adaf76d8f5385e286dbf65f4839]: Textual amendment: Sch. 33 para. 19 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(9)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/9)
 
-[^key-1a556e957605dc3cc65af1e7d56ed27c]: Textual amendment: [Sch. 33 para. 20](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/20) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-1a556e957605dc3cc65af1e7d56ed27c]: Textual amendment: [Sch. 33 para. 20](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/20) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-bb14ce0dbb520eb4bb918b3f1250e4a9]: Textual amendment: [Sch. 33 paras. 22-24](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/22) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-bb14ce0dbb520eb4bb918b3f1250e4a9]: Textual amendment: [Sch. 33 paras. 22-24](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/22) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-78a79a02ad4925e4ca61d27eb29ec09c]: Textual amendment: Sch. 33 para. 25 repealed (with effect in accordance with art. 1 of the amending S.I.) by [The Insurance Companies (Corporation Tax Acts) (Amendment) Order 2005 (S.I. 2005/3465)](https://www.legislation.gov.uk/uksi/2005/3465), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3465/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2005/3465/article/10/a)
+[^c-78a79a02ad4925e4ca61d27eb29ec09c]: Textual amendment: Sch. 33 para. 25 repealed (with effect in accordance with art. 1 of the amending S.I.) by [The Insurance Companies (Corporation Tax Acts) (Amendment) Order 2005 (S.I. 2005/3465)](https://www.legislation.gov.uk/uksi/2005/3465), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3465/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2005/3465/article/10/a)
 
-[^key-a61093d545b079861523a4337a78ad33]: Textual amendment: Sch. 33 para. 26 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-a61093d545b079861523a4337a78ad33]: Textual amendment: Sch. 33 para. 26 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
 
-[^key-cedf4ab7174153ccbe2eba9bb4f98f86]: Textual amendment: [Sch. 33 para. 29](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/29) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
+[^c-cedf4ab7174153ccbe2eba9bb4f98f86]: Textual amendment: [Sch. 33 para. 29](https://www.legislation.gov.uk/ukpga/2003/14/schedule/33/paragraph/29) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(k)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/k)
 
-[^key-c2fd01fcd1f662246c6cdff15f5cd9a7]: Textual amendment: Sch. 33 paras. 30-32 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-c2fd01fcd1f662246c6cdff15f5cd9a7]: Textual amendment: Sch. 33 paras. 30-32 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

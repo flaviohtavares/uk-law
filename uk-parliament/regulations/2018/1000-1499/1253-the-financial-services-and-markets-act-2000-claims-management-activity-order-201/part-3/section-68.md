@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Interpretation[^key-1df3f490f71cb786aab15ecdefd31204][^key-464ab67f7f6596052fe124545920b5f8]
+## 68. Interpretation[^c-1df3f490f71cb786aab15ecdefd31204][^c-464ab67f7f6596052fe124545920b5f8]
 
 *Extent: E+W+S*
 
@@ -32,9 +32,9 @@ In this Chapter—
 
 ## Annotations
 
-[^key-1df3f490f71cb786aab15ecdefd31204]: Commencement: Art. 68 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-1df3f490f71cb786aab15ecdefd31204]: Commencement: Art. 68 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-464ab67f7f6596052fe124545920b5f8]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2018/1253/article/68) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-464ab67f7f6596052fe124545920b5f8]: Commencement: [Art. 68](https://www.legislation.gov.uk/uksi/2018/1253/article/68) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00102]: Footnote: For the meaning of “compulsory jurisdiction” see the 2000 Act, section 226(8).
 

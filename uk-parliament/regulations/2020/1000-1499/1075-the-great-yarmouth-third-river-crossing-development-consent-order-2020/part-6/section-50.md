@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Protection against dredging[^key-1095e50cd7749c68669475a66b0be61e]
+## 50. Protection against dredging[^c-1095e50cd7749c68669475a66b0be61e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1095e50cd7749c68669475a66b0be61e]: Commencement: Art. 50 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-1095e50cd7749c68669475a66b0be61e]: Commencement: Art. 50 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Registration of penalty[^key-bbdc11522a48ce18f31204e0ed230245]
+## 67. Registration of penalty[^c-bbdc11522a48ce18f31204e0ed230245]
 
 *Extent: N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) On registering any sum under this section for enforcement as a fine, the fixed penalty clerk must give to the defaulter notice of registration—
 
-- (a) specifying the amount of that sum and requiring payment of it by such date, not less than 28 days[^key-13cf85a5fe988bec3c4fd11d8343c10a] from the date of registration, as may be specified in the notice; and
+- (a) specifying the amount of that sum and requiring payment of it by such date, not less than 28 days[^c-13cf85a5fe988bec3c4fd11d8343c10a] from the date of registration, as may be specified in the notice; and
 - (b) giving the information with respect to the offence included in the registration certificate by virtue of section 66(5)(a).
 
 (3) On the registration of any sum in the Order Book of a court of summary jurisdiction by virtue of this section, any statutory provision referring (in whatever terms) to a fine imposed or a sum adjudged to be paid by a conviction of such a court shall, subject to regulations made under subsection (4), have effect in the case in question as if the sum so registered were a fine imposed by that court on the conviction of the defaulter on the date of the registration.
 
-(3A)[^key-2e4cea8a39e1020d85651aef64d4cc5a] Thefixed penalty clerk must refer the case to a district judge (magistrates' courts) for the judge to consider whether to make a collection order; and the order may be made without a court hearing.
+(3A)[^c-2e4cea8a39e1020d85651aef64d4cc5a] Thefixed penalty clerk must refer the case to a district judge (magistrates' courts) for the judge to consider whether to make a collection order; and the order may be made without a court hearing.
 
 (3B) Where a collection order is made in that case, the date specified in the order as the date by which the sum due must be paid must, unless the court directs otherwise, be the same as the date specified in the notice of registration under subsection (2)(a).
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bbdc11522a48ce18f31204e0ed230245]: Commencement: S. 67 in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-bbdc11522a48ce18f31204e0ed230245]: Commencement: S. 67 in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
 
-[^key-13cf85a5fe988bec3c4fd11d8343c10a]: Textual amendment: Words in [s. 67(2)(a)](https://www.legislation.gov.uk/nia/2011/24/section/67/2/a) substituted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/1); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-13cf85a5fe988bec3c4fd11d8343c10a]: Textual amendment: Words in [s. 67(2)(a)](https://www.legislation.gov.uk/nia/2011/24/section/67/2/a) substituted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/1); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-2e4cea8a39e1020d85651aef64d4cc5a]: Textual amendment: [S. 67(3A)](https://www.legislation.gov.uk/nia/2011/24/section/67/3A)[(3B)](https://www.legislation.gov.uk/nia/2011/24/section/67/3B) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/2); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-2e4cea8a39e1020d85651aef64d4cc5a]: Textual amendment: [S. 67(3A)](https://www.legislation.gov.uk/nia/2011/24/section/67/3A)[(3B)](https://www.legislation.gov.uk/nia/2011/24/section/67/3B) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/2); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)

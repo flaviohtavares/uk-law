@@ -44,25 +44,25 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with sections 894(2) and 1290 of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-0cf33b07798370991878b1962c017e03]
+## 1. Citation and commencement[^c-0cf33b07798370991878b1962c017e03]
 
 These Regulations may be cited as the Companies Act 2006 (Amendment of Part 25) Regulations 2013 and come into force on 6th April 2013.
 
-## 2. Amendment to Part 25 of the Companies Act 2006[^key-dcf29c3a1a392323650a4864706afe96]
+## 2. Amendment to Part 25 of the Companies Act 2006[^c-dcf29c3a1a392323650a4864706afe96]
 
 The Chapter set out in Schedule 1 is inserted as Chapter A1 at the beginning of Part 25 of the Companies Act 2006.
 
-## 3. Repeals and revocations[^key-570c3b441c9161bf7f85c990475e8f78]
+## 3. Repeals and revocations[^c-570c3b441c9161bf7f85c990475e8f78]
 
 Chapters 1 and 2 of Part 25 of the Companies Act 2006 are repealed.
 
-**4.**[^key-b0ca25b47db13fde23fed0147809df0f][^key-570c3b441c9161bf7f85c990475e8f78] The Companies (Particulars of Company Charges) Regulations 2008[^f00002] are revoked.
+**4.**[^c-b0ca25b47db13fde23fed0147809df0f][^c-570c3b441c9161bf7f85c990475e8f78] The Companies (Particulars of Company Charges) Regulations 2008[^f00002] are revoked.
 
-## 5. Consequential provisions[^key-90c693011add483ec7d6de3b59440326]
+## 5. Consequential provisions[^c-90c693011add483ec7d6de3b59440326]
 
 The provisions set out in Schedule 2 are amended as set out in that Schedule.
 
-## 6. Application and transitional provisions[^key-cae972cd577cc0d29bbd98df60d561a9][^key-dbf05ab7e8f830d6fa5dc20572f9f0f8]
+## 6. Application and transitional provisions[^c-cae972cd577cc0d29bbd98df60d561a9][^c-dbf05ab7e8f830d6fa5dc20572f9f0f8]
 
 (1) Subject to paragraph (3) the provisions amending the Companies Act 2006 set out in Schedule 1 and the consequential amendments set out in Schedule 2 apply to charges created on or after 6th April 2013.
 
@@ -78,7 +78,7 @@ Department for Business, Innovation and Skills
 
 12th March 2013
 
-## SCHEDULE 1[^key-3b80bc21035a21ae001ea684924a8f7d]
+## SCHEDULE 1[^c-3b80bc21035a21ae001ea684924a8f7d]
 
 Regulation 2
 
@@ -488,7 +488,7 @@ Regulation 2
 
 Regulation 5
 
-### 1. Companies Act 1985[^key-da4acb0ab2c09cb21d7296d9484205f3]
+### 1. Companies Act 1985[^c-da4acb0ab2c09cb21d7296d9484205f3]
 
 (1) Section 466 of the Companies Act 1985 (alteration of floating charges (Scotland)) is amended as follows.
 
@@ -534,7 +534,7 @@ Regulation 5
 
 (5) In subsection (6), for “instrument of alteration” substitute “alteration”.
 
-### 2. Insolvency Act 1986[^key-09a8f9fc1eef856d686b25ee8e530289]
+### 2. Insolvency Act 1986[^c-09a8f9fc1eef856d686b25ee8e530289]
 
 (1) Chapter 2 of Part 3 of the Insolvency Act 1986[^f00007] (receivers (Scotland)) is amended as follows.
 
@@ -542,7 +542,7 @@ Regulation 5
 
 (3) In section 70(1) (interpretation), for the definition of “register of charges” substitute ““the register” has the meaning given by section 1080 of the Companies Act 2006;”.
 
-### 3. Companies Act 2006[^key-d96325bfac8980026e51e8e0f2b95c54]
+### 3. Companies Act 2006[^c-d96325bfac8980026e51e8e0f2b95c54]
 
 (1) The Companies Act 2006 is amended as follows.
 
@@ -578,7 +578,7 @@ Regulation 5
 - (b) in the entry for “company – in Chapter 1 of Part 25” for “Chapter 1” substitute “Chapter A1” and in the second column substitute “section 859A(7)” and delete the entry for “- in Chapter 2 of Part 25”;
 - (c) omit the entry for “register of charges”.
 
-### 4. Financial Collateral Arrangements (No. 2) Regulations 2003[^key-01e6cd78a05a49d0a8c922b489f5efab]
+### 4. Financial Collateral Arrangements (No. 2) Regulations 2003[^c-01e6cd78a05a49d0a8c922b489f5efab]
 
 (1) The Financial Collateral Arrangements (No. 2) Regulations 2003[^f00009] are amended as follows.
 
@@ -586,7 +586,7 @@ Regulation 5
 
 (3) Omit regulation 5.
 
-### 5. The Land Registration Rules 2003[^key-7a9263ef2bfb3f81c6033f53364cb65a]
+### 5. The Land Registration Rules 2003[^c-7a9263ef2bfb3f81c6033f53364cb65a]
 
 (1) The Land Registration Rules 2003[^f00010] are amended as follows.
 
@@ -600,7 +600,7 @@ Regulation 5
   - (i) for“ section 860 or 878” substitute “section 859A”; and
   - (ii) omit “(as appropriate)”.
 
-### 6. The Registrar of Companies & Applications for Striking Off Regulations 2009[^key-7d35b0f88e5a744602f8003e29959c74]
+### 6. The Registrar of Companies & Applications for Striking Off Regulations 2009[^c-7d35b0f88e5a744602f8003e29959c74]
 
 (1) The Registrar of Companies & Applications for Striking Off Regulations 2009[^f00011] are amended as follows.
 
@@ -640,23 +640,23 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-0cf33b07798370991878b1962c017e03]: Commencement: Reg. 1 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-0cf33b07798370991878b1962c017e03]: Commencement: Reg. 1 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
-[^key-dcf29c3a1a392323650a4864706afe96]: Commencement: Reg. 2 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-dcf29c3a1a392323650a4864706afe96]: Commencement: Reg. 2 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
-[^key-570c3b441c9161bf7f85c990475e8f78]: Commencement.
+[^c-570c3b441c9161bf7f85c990475e8f78]: Commencement.
 
-[^key-b0ca25b47db13fde23fed0147809df0f]: Commencement: Reg. 4 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-b0ca25b47db13fde23fed0147809df0f]: Commencement: Reg. 4 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2008/2996](https://www.legislation.gov.uk/uksi/2008/2996).
 
-[^key-90c693011add483ec7d6de3b59440326]: Commencement: Reg. 5 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-90c693011add483ec7d6de3b59440326]: Commencement: Reg. 5 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
-[^key-cae972cd577cc0d29bbd98df60d561a9]: Commencement: Reg. 6 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-cae972cd577cc0d29bbd98df60d561a9]: Commencement: Reg. 6 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
-[^key-dbf05ab7e8f830d6fa5dc20572f9f0f8]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6) excluded (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/2)
+[^c-dbf05ab7e8f830d6fa5dc20572f9f0f8]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6) excluded (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/2)
 
-[^key-3b80bc21035a21ae001ea684924a8f7d]: Commencement: Sch. 1 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-3b80bc21035a21ae001ea684924a8f7d]: Commencement: Sch. 1 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00003]: Footnote: [1982 c.xiv](https://www.legislation.gov.uk/ukla/1982/14).
 
@@ -666,24 +666,24 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00006]: Footnote: Section 466 is repealed by section 46(1) of the Bankruptcy and Diligence etc (Scotland) Act 2007 ([2007 asp 3](https://www.legislation.gov.uk/asp/2007/3)) from a day to be appointed.
 
-[^key-da4acb0ab2c09cb21d7296d9484205f3]: Commencement: Sch. 2 para. 1 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-da4acb0ab2c09cb21d7296d9484205f3]: Commencement: Sch. 2 para. 1 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
-[^key-09a8f9fc1eef856d686b25ee8e530289]: Commencement: Sch. 2 para. 2 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-09a8f9fc1eef856d686b25ee8e530289]: Commencement: Sch. 2 para. 2 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00007]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-d96325bfac8980026e51e8e0f2b95c54]: Commencement: Sch. 2 para. 3 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-d96325bfac8980026e51e8e0f2b95c54]: Commencement: Sch. 2 para. 3 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00008]: Footnote: Paragraph (1)(h) of section 1087 was substituted by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802).
 
-[^key-01e6cd78a05a49d0a8c922b489f5efab]: Commencement: Sch. 2 para. 4 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-01e6cd78a05a49d0a8c922b489f5efab]: Commencement: Sch. 2 para. 4 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226), as amended by [S.I. 2009/2462](https://www.legislation.gov.uk/uksi/2009/2462), [2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
 
-[^key-7a9263ef2bfb3f81c6033f53364cb65a]: Commencement: Sch. 2 para. 5 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-7a9263ef2bfb3f81c6033f53364cb65a]: Commencement: Sch. 2 para. 5 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417). Rule 111 was substituted by [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919).
 
-[^key-7d35b0f88e5a744602f8003e29959c74]: Commencement: Sch. 2 para. 6 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
+[^c-7d35b0f88e5a744602f8003e29959c74]: Commencement: Sch. 2 para. 6 in force at 6.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1)
 
 [^f00011]: Footnote: [S.I. 2009/1803](https://www.legislation.gov.uk/uksi/2009/1803).

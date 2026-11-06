@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-ea25000272bff52ea19809b998f9f8f5] Where a club holds a club premises certificate, a responsible authority or any other person may apply to the relevant licensing authority for a review of the certificate.
+(1)[^c-ea25000272bff52ea19809b998f9f8f5] Where a club holds a club premises certificate, a responsible authority or any other person may apply to the relevant licensing authority for a review of the certificate.
 
 (2) Subsection (1) is subject to regulations under section 91 (form etc. of applications).
 
 (3) The Secretary of State must by regulations under this section—
 
 - (a) require the applicant to give a notice containing details of the application to the club and each responsible authority within such period as may be prescribed;
-- (b)[^key-76288236d803630c03ad59df8a7ce438] require the authority to advertise the application and invite representations relating to it to be made to the authority;
-- (c) prescribe the period during which representations may be made by the club, any responsible authority and any other person[^key-177e1f1cecf9a4a079cd3ee46d7a1fab];
+- (b)[^c-76288236d803630c03ad59df8a7ce438] require the authority to advertise the application and invite representations relating to it to be made to the authority;
+- (c) prescribe the period during which representations may be made by the club, any responsible authority and any other person[^c-177e1f1cecf9a4a079cd3ee46d7a1fab];
 - (d) require any notice under paragraph (a) or advertisement under paragraph (b) to specify that period.
 
 (4) The relevant licensing authority may, at any time, reject any ground for review specified in an application under this section if it is satisfied—
@@ -55,8 +55,8 @@ Accordingly, the requirements imposed under subsection (3)(a) and (b) and by sec
 
 [^c21019551]: Commencement: S. 87(3) in force at 16.12.2003 by [S.I. 2003/3222](https://www.legislation.gov.uk/uksi/2003/3222), [art. 2](https://www.legislation.gov.uk/uksi/2003/3222/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3222/schedule); s. 87 otherwise in force at 24.11.2005 by [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2](https://www.legislation.gov.uk/uksi/2005/3056/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2005/3056/schedule))
 
-[^key-ea25000272bff52ea19809b998f9f8f5]: Textual amendment: S. 87(1) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-ea25000272bff52ea19809b998f9f8f5]: Textual amendment: S. 87(1) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-76288236d803630c03ad59df8a7ce438]: Textual amendment: Words in s. 87(3)(b) inserted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/896/article/2/d); S.I. 2012/1129, art. 2(d)
+[^c-76288236d803630c03ad59df8a7ce438]: Textual amendment: Words in s. 87(3)(b) inserted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/896/article/2/d); S.I. 2012/1129, art. 2(d)
 
-[^key-177e1f1cecf9a4a079cd3ee46d7a1fab]: Textual amendment: Words in s. 87(3)(c) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/896/article/2/d); S.I. 2012/1129, art. 2(d)
+[^c-177e1f1cecf9a4a079cd3ee46d7a1fab]: Textual amendment: Words in s. 87(3)(c) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/896/article/2/d); S.I. 2012/1129, art. 2(d)

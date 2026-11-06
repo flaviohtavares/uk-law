@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Transfer of functions in relation to fishing vessels[^key-d763df2996dbaecb4c5692f570a09cd8]
+## 53. Transfer of functions in relation to fishing vessels[^c-d763df2996dbaecb4c5692f570a09cd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d763df2996dbaecb4c5692f570a09cd8]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2017/4/section/53) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-d763df2996dbaecb4c5692f570a09cd8]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2017/4/section/53) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

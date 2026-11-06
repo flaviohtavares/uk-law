@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Exempt transaction[^key-5feb3a47c6997b7f9ec957cfae730f7f]
+## 16. Exempt transaction[^c-5feb3a47c6997b7f9ec957cfae730f7f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A transaction is exempt if schedule 1 provides that it is so exempt.
 
 ## Annotations
 
-[^key-5feb3a47c6997b7f9ec957cfae730f7f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/11/section/16) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-5feb3a47c6997b7f9ec957cfae730f7f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/11/section/16) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

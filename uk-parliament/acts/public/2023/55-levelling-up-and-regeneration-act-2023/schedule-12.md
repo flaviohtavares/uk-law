@@ -26,7 +26,7 @@ Section 137
 
 ### Part 1 — Infrastructure Levy: England
 
-**1.**[^key-09d3c052e1f652ee2c2b63fbd1c34f1d] After Part 10 of the Planning Act 2008 insert—
+**1.**[^c-09d3c052e1f652ee2c2b63fbd1c34f1d] After Part 10 of the Planning Act 2008 insert—
 
 > **Part 10A — Infrastructure Levy: England**
 >
@@ -894,17 +894,17 @@ Section 137
 
 ### Part 2 — Consequential amendments
 
-#### 2. Local Government Act 1972[^key-06de5784b962763503aa75e74779333e]
+#### 2. Local Government Act 1972[^c-06de5784b962763503aa75e74779333e]
 
 In section 101 of the Local Government Act 1972 (arrangements for discharge of functions by local authorities), after subsection (6) insert—
 
 > (6ZA) Infrastructure Levy under Part 10A of the Planning Act 2008 is not a rate for the purposes of subsection (6).
 
-#### 3. Town and Country Planning Act 1990[^key-ec966fd805eed5913fd633170fecf38e]
+#### 3. Town and Country Planning Act 1990[^c-ec966fd805eed5913fd633170fecf38e]
 
 In section 70(4) of the TCPA 1990 (determination of applications: general considerations), in paragraph (b) of the definition of “local finance consideration”, after “payment of” insert “Infrastructure Levy or”.
 
-#### 4. Deregulation and Contracting Out Act 1994[^key-9b9592d84da1575f46b7bd8c5acfa067]
+#### 4. Deregulation and Contracting Out Act 1994[^c-9b9592d84da1575f46b7bd8c5acfa067]
 
 In section 71(3) of the Deregulation and Contracting Out Act 1994 (functions excluded from sections 69 and 70), omit the word “and” at the end of paragraph (h) and after that paragraph insert—
 
@@ -912,30 +912,30 @@ In section 71(3) of the Deregulation and Contracting Out Act 1994 (functions exc
 
 .
 
-#### 5. Planning Act 2008[^key-c908fa49109dadf6d89b68b524e3b4f7]
+#### 5. Planning Act 2008[^c-c908fa49109dadf6d89b68b524e3b4f7]
 
 The Planning Act 2008 is amended as follows.
 
-**6.**[^key-a35f543ac1a81d4445fceb31c2c047ca] In the following sections, for “Part 11”, in each place it occurs, substitute “Parts 10A and 11”—
+**6.**[^c-a35f543ac1a81d4445fceb31c2c047ca] In the following sections, for “Part 11”, in each place it occurs, substitute “Parts 10A and 11”—
 
 - (a) section 32 (meaning of “**development**”);
 - (b) section 155(1) (when development begins);
 - (c) section 235(1) (interpretation).
 
-**7.**[^key-7aa042ea057fcc5c3b6f5c4dda535401] In section 232(1)(d) (orders and regulations), after “Part” insert “10A or”.
+**7.**[^c-7aa042ea057fcc5c3b6f5c4dda535401] In section 232(1)(d) (orders and regulations), after “Part” insert “10A or”.
 
 ## Annotations
 
-[^key-09d3c052e1f652ee2c2b63fbd1c34f1d]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-09d3c052e1f652ee2c2b63fbd1c34f1d]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-06de5784b962763503aa75e74779333e]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-06de5784b962763503aa75e74779333e]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-ec966fd805eed5913fd633170fecf38e]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-ec966fd805eed5913fd633170fecf38e]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-9b9592d84da1575f46b7bd8c5acfa067]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-9b9592d84da1575f46b7bd8c5acfa067]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-c908fa49109dadf6d89b68b524e3b4f7]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-c908fa49109dadf6d89b68b524e3b4f7]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-a35f543ac1a81d4445fceb31c2c047ca]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-a35f543ac1a81d4445fceb31c2c047ca]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-7aa042ea057fcc5c3b6f5c4dda535401]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-7aa042ea057fcc5c3b6f5c4dda535401]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

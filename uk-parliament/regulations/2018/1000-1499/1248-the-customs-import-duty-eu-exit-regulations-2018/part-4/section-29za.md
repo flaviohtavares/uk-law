@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29ZA. Completion of customs declaration made under regulation 26FA[^key-b417c1df62f93f1e4f91c52ea5d2c97d]
+## 29ZA. Completion of customs declaration made under regulation 26FA[^c-b417c1df62f93f1e4f91c52ea5d2c97d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b417c1df62f93f1e4f91c52ea5d2c97d]: Textual amendment: [Reg. 29ZA](https://www.legislation.gov.uk/uksi/2018/1248/regulation/29ZA) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/9)
+[^c-b417c1df62f93f1e4f91c52ea5d2c97d]: Textual amendment: [Reg. 29ZA](https://www.legislation.gov.uk/uksi/2018/1248/regulation/29ZA) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Annual rate of total incapacity pension[^key-c9e15bb0e32907a96fffb0b654a52755]
+## 114. Annual rate of total incapacity pension[^c-c9e15bb0e32907a96fffb0b654a52755]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ where—
 
 ## Annotations
 
-[^key-c9e15bb0e32907a96fffb0b654a52755]: Commencement: [Reg. 114](https://www.legislation.gov.uk/ssi/2014/292/regulation/114) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-c9e15bb0e32907a96fffb0b654a52755]: Commencement: [Reg. 114](https://www.legislation.gov.uk/ssi/2014/292/regulation/114) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

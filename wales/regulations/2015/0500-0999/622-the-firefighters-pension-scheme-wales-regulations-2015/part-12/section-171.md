@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 171. Expenses of each party[^key-9f5b9d4c439ab89767d7758054d5e158]
+## 171. Expenses of each party[^c-9f5b9d4c439ab89767d7758054d5e158]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the scheme manager must refund to P the amount specified in paragraph (5).
 
 ## Annotations
 
-[^key-9f5b9d4c439ab89767d7758054d5e158]: Commencement: Reg. 171 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-9f5b9d4c439ab89767d7758054d5e158]: Commencement: Reg. 171 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Part 9: supplementary[^key-1adcd5b302ce7fd78be5dc582d682533]
+## 78. Part 9: supplementary[^c-1adcd5b302ce7fd78be5dc582d682533]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1adcd5b302ce7fd78be5dc582d682533]: Commencement: Reg. 78 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-1adcd5b302ce7fd78be5dc582d682533]: Commencement: Reg. 78 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00028]: Footnote: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25). Amendments have been made most recently by the Sanctions and Anti-Money Laundering Act 2018, section 59(4), Schedule 3, paragraph 7; the Counter-Terrorism and Border Security Act [2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), Schedule 4, paragraph 33; the Crime (Overseas Production Orders) Act [2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5), section 16; the Armed Forces Act [2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), section 24(1) and Schedule 5, paragraphs 44 and 45 and Schedule 4, paragraph 2; the Finance (No. 2) Act [2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), section 352; [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652); [S.I. 2018/905](https://www.legislation.gov.uk/uksi/2018/905); [S.I. 2018/1123](https://www.legislation.gov.uk/uksi/2018/1123); [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419); [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742); [S.I. 2019/939](https://www.legislation.gov.uk/uksi/2019/939); [S.I. 2020/661](https://www.legislation.gov.uk/uksi/2020/661); [S.I. 2020/360](https://www.legislation.gov.uk/uksi/2020/360); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792); [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149) and [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621).
 

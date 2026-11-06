@@ -30,7 +30,7 @@ summary: ''
 (3) Where—
 
 - (a) a contractor ceases to be regarded as a health service body in relation to an agreement by reason of a variation of the agreement by virtue of regulation 10(1); and
-- (b) the contractor or NHS England[^key-9520329cffeb7671913a444ac58ebf84]—
+- (b) the contractor or NHS England[^c-9520329cffeb7671913a444ac58ebf84]—
   - (i) has referred any matter to the NHS dispute resolution procedure before the contractor ceases to be regarded as a health service body, or
   - (ii) refers any matter to the NHS dispute resolution procedure, in accordance with regulation 76, after the contractor ceases to be regarded as a health service body,
 
@@ -45,4 +45,4 @@ the contractor ceases to be regarded as such a body on the conclusion of that pr
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

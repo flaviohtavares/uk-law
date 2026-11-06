@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Management of terrorist offenders[^key-4180bca7f7cd4024719e9fbbf03914af]
+## 234. Management of terrorist offenders[^c-4180bca7f7cd4024719e9fbbf03914af]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4180bca7f7cd4024719e9fbbf03914af]: Commencement: S. 234 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4180bca7f7cd4024719e9fbbf03914af]: Commencement: S. 234 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

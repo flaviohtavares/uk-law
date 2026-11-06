@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303A. Introduction to sections 303B to 303D: post-1 April 2017 non-decommissioning losses of ring fence trades[^key-7fbd27db17656d78fe9006b2ed310779][^key-187638c26275f03015a2d393e0696a10]
+## 303A. Introduction to sections 303B to 303D: post-1 April 2017 non-decommissioning losses of ring fence trades[^c-7fbd27db17656d78fe9006b2ed310779][^c-187638c26275f03015a2d393e0696a10]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ In this subsection the reference to section 81 of FA 2013 is to that section as 
 
 ## Annotations
 
-[^key-7fbd27db17656d78fe9006b2ed310779]: Modification: [Ss. 303A-303D](https://www.legislation.gov.uk/ukpga/2010/4/section/303A) excluded (14.7.2022) by [Energy (Oil and Gas) Profits Levy Act 2022 (c. 40)](https://www.legislation.gov.uk/ukpga/2022/40), [s. 1(5)(e)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/5/e) (with [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/15/1), [16(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/16/1))
+[^c-7fbd27db17656d78fe9006b2ed310779]: Modification: [Ss. 303A-303D](https://www.legislation.gov.uk/ukpga/2010/4/section/303A) excluded (14.7.2022) by [Energy (Oil and Gas) Profits Levy Act 2022 (c. 40)](https://www.legislation.gov.uk/ukpga/2022/40), [s. 1(5)(e)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/5/e) (with [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/15/1), [16(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/16/1))
 
-[^key-187638c26275f03015a2d393e0696a10]: Textual amendment: [Ss. 303A-303D](https://www.legislation.gov.uk/ukpga/2010/4/section/303A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/48)
+[^c-187638c26275f03015a2d393e0696a10]: Textual amendment: [Ss. 303A-303D](https://www.legislation.gov.uk/ukpga/2010/4/section/303A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/48)

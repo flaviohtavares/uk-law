@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Modifications of Part 2 of the Financial Services and Markets Act 2000[^key-ec7994749e834d5079fc7e8b53683f00]
+## 42. Modifications of Part 2 of the Financial Services and Markets Act 2000[^c-ec7994749e834d5079fc7e8b53683f00]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In respect of a person to whom regulation 28 or 34 applies, section 21 of the 20
 
 ## Annotations
 
-[^key-ec7994749e834d5079fc7e8b53683f00]: Textual amendment: Pt. 6 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/405/regulation/2)
+[^c-ec7994749e834d5079fc7e8b53683f00]: Textual amendment: Pt. 6 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/405/regulation/2)

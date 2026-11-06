@@ -37,91 +37,91 @@ laying down a format for reporting of data on food waste and for submission of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf35a356771cf987645c8c2980e7f3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bf35a356771cf987645c8c2980e7f3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bf35a356771cf987645c8c2980e7f3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bf35a356771cf987645c8c2980e7f3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bf35a356771cf987645c8c2980e7f3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf35a356771cf987645c8c2980e7f3f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — FORMAT FOR REPORTING OF THE DATA ON THE LEVEL OF FOOD WASTE[^key-bf35a356771cf987645c8c2980e7f3f8]
+## ANNEX — FORMAT FOR REPORTING OF THE DATA ON THE LEVEL OF FOOD WASTE[^c-bf35a356771cf987645c8c2980e7f3f8]
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]A.
+[^c-bf35a356771cf987645c8c2980e7f3f8]A.
 
 FORMAT FOR THE REPORTING OF THE DATA ON FOOD WASTE AMOUNTS AND THE DATA RELATED TO FOOD WASTE PREVENTION
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]1.
+[^c-bf35a356771cf987645c8c2980e7f3f8]1.
 
 **Data on food waste amounts (in metric tons of fresh mass)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]2.
+[^c-bf35a356771cf987645c8c2980e7f3f8]2.
 
 **Data on management of food surplus related to food waste prevention (in metric tons of fresh mass)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]B.
+[^c-bf35a356771cf987645c8c2980e7f3f8]B.
 
 FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN PART A
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]1.
+[^c-bf35a356771cf987645c8c2980e7f3f8]1.
 
 **Objectives of the report**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]2.
+[^c-bf35a356771cf987645c8c2980e7f3f8]2.
 
 **General information**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]3.
+[^c-bf35a356771cf987645c8c2980e7f3f8]3.
 
 **General information on data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]4.
+[^c-bf35a356771cf987645c8c2980e7f3f8]4.
 
 **Information concerning measurement using the methodology set out in Annex III**
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]4.1.
+[^c-bf35a356771cf987645c8c2980e7f3f8]4.1.
 
 *General description of the sources of data for measuring food waste in the framework of the methodology set out in Annex III to Delegated Decision (EU) 2019/1597*
 
 Please indicate the sources of data on food waste amounts for each stage of the food supply chain (mark with a cross all the relevant cells).
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]4.2.
+[^c-bf35a356771cf987645c8c2980e7f3f8]4.2.
 
 *Detailed description of the methods for measuring food waste within the framework of the methodology set out in Annex III to Delegated Decision (EU) 2019/1597*
 
 For each stage of the food supply chain, please describe the methods for measuring food waste amounts, by reference to Annex III to Delegated Decision (EU) 2019/1597.
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]5.
+[^c-bf35a356771cf987645c8c2980e7f3f8]5.
 
 **Information concerning measurement using the methodology set out in Annex IV to Delegated Decision (EU) 2019/1597**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]6.
+[^c-bf35a356771cf987645c8c2980e7f3f8]6.
 
 **Voluntary reporting**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]7.
+[^c-bf35a356771cf987645c8c2980e7f3f8]7.
 
 **Methodological changes and problems notifications**
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]7.1.
+[^c-bf35a356771cf987645c8c2980e7f3f8]7.1.
 
 *Description of methodological changes (if applicable)*
 
@@ -129,7 +129,7 @@ Please describe significant methodological changes in the calculation method for
 
 *Add rows as appropriate.*
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]7.2.
+[^c-bf35a356771cf987645c8c2980e7f3f8]7.2.
 
 *Explanation of tonnage difference (if applicable)*
 
@@ -137,19 +137,19 @@ Please explain the causes of the tonnage difference (which stages of the food su
 
 *Add rows as appropriate.*
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]7.3.
+[^c-bf35a356771cf987645c8c2980e7f3f8]7.3.
 
 *Notification of problems (if any)*
 
 In case, you have experienced problems with the attribution of food waste to a given stage of the food supply chain please provide a description of the problems. For every specific problem, please provide the precise location of the respective cell(s) (table name, stage of the food supply chain, column heading).
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]8.
+[^c-bf35a356771cf987645c8c2980e7f3f8]8.
 
 **Confidentiality**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]9.
+[^c-bf35a356771cf987645c8c2980e7f3f8]9.
 
 **Main national websites, reference documents and publications**
 
@@ -157,4 +157,4 @@ In case, you have experienced problems with the attribution of food waste to a g
 
 ## Annotations
 
-[^key-bf35a356771cf987645c8c2980e7f3f8]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/11)
+[^c-bf35a356771cf987645c8c2980e7f3f8]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/11)

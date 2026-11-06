@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment to regulation 5[^key-3a4de5c1572b7a17dfb7477668abb0dd]
+## 6. Amendment to regulation 5[^c-3a4de5c1572b7a17dfb7477668abb0dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In regulation 5 (classification of medicinal products)[^f00006]—
 
 ## Annotations
 
-[^key-3a4de5c1572b7a17dfb7477668abb0dd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/832/regulation/6) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-3a4de5c1572b7a17dfb7477668abb0dd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/832/regulation/6) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00006]: Footnote: Relevant amendments were made by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

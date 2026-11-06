@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Scottish Parliament: disqualification of MPs[^key-b61ccd0ed88e6047ca1c2df512ea47e9][^key-af03dac051062589fc02630ab6611285]
+## 3. Scottish Parliament: disqualification of MPs[^c-b61ccd0ed88e6047ca1c2df512ea47e9][^c-af03dac051062589fc02630ab6611285]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b61ccd0ed88e6047ca1c2df512ea47e9]: Commencement: S. 3 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-b61ccd0ed88e6047ca1c2df512ea47e9]: Commencement: S. 3 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-af03dac051062589fc02630ab6611285]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/4/section/3) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-af03dac051062589fc02630ab6611285]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/4/section/3) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

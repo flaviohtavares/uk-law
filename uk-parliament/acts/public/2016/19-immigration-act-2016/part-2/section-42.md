@@ -42,7 +42,7 @@ summary: ''
 - (d) a Northern Ireland Minister, or
 - (e) a Northern Ireland department.
 
-(5)[^key-80bfbf2834f0b46df2ca0b3fcfae4a33] In this section—
+(5)[^c-80bfbf2834f0b46df2ca0b3fcfae4a33] In this section—
 
 - “**enactment**” includes—
   - (a) an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978;
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80bfbf2834f0b46df2ca0b3fcfae4a33]: Modification: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/42/5) modified (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/2)
+[^c-80bfbf2834f0b46df2ca0b3fcfae4a33]: Modification: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/42/5) modified (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/2)

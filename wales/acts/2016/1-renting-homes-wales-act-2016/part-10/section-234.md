@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 234. Consultation arrangements[^key-c2c154571a379f9b8f1870ebd080f8c7]
+## 234. Consultation arrangements[^c-c2c154571a379f9b8f1870ebd080f8c7]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2c154571a379f9b8f1870ebd080f8c7]: Commencement: [S. 234](https://www.legislation.gov.uk/anaw/2016/1/section/234) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c2c154571a379f9b8f1870ebd080f8c7]: Commencement: [S. 234](https://www.legislation.gov.uk/anaw/2016/1/section/234) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Modification of Part 1 of the 1965 Act[^key-2b88de5a0481cf12a008fd0030bb188d]
+## 24. Modification of Part 1 of the 1965 Act[^c-2b88de5a0481cf12a008fd0030bb188d]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2b88de5a0481cf12a008fd0030bb188d]: Commencement: Art. 24 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-2b88de5a0481cf12a008fd0030bb188d]: Commencement: Art. 24 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030661]: Marginal citation: [Section 4A](https://www.legislation.gov.uk/uksi/2020/325/section/4A) was inserted by the Housing and Planning Act 2016, section 202(1).
 

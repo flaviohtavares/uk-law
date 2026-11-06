@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Time and manner of making notifications, requests or representations[^key-54c36cb294f8aad0be4d04aefda549a7]
+## 68. Time and manner of making notifications, requests or representations[^c-54c36cb294f8aad0be4d04aefda549a7]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54c36cb294f8aad0be4d04aefda549a7]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1992/1814/regulation/68) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-54c36cb294f8aad0be4d04aefda549a7]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1992/1814/regulation/68) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

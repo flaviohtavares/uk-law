@@ -24,7 +24,7 @@ summary: ''
 
 ### Duration of recognition
 
-**1.**[^key-5a74f400c13a7ff171a9ff3f10c2f9ba] (1) The recognition of an awarding body has effect from whatever date is specified by Qualifications Wales on recognising the body.
+**1.**[^c-5a74f400c13a7ff171a9ff3f10c2f9ba] (1) The recognition of an awarding body has effect from whatever date is specified by Qualifications Wales on recognising the body.
 
 (2) It ceases to have effect on whichever is the earliest of—
 
@@ -34,7 +34,7 @@ summary: ''
 
 ### Standard conditions of recognition
 
-**2.**[^key-1778669332223d6c2e84dfa50c89c880] (1) Qualifications Wales must prepare and publish conditions (the “standard conditions”) to which (subject to sub-paragraphs (3) and (4)) each recognition of an awarding body is to be subject.
+**2.**[^c-1778669332223d6c2e84dfa50c89c880] (1) Qualifications Wales must prepare and publish conditions (the “standard conditions”) to which (subject to sub-paragraphs (3) and (4)) each recognition of an awarding body is to be subject.
 
 (2) The standard conditions may, among other things, make provision about compliance with directions given to a recognised body by Qualifications Wales under this paragraph.
 
@@ -54,7 +54,7 @@ summary: ''
 - (a) fee capping conditions (for which see paragraphs 6 to 11);
 - (b) transfer conditions (for which see paragraphs 12 to 16).
 
-**3.**[^key-88b043d2e3fb2d68f79b4462802b5af6] (1) Qualifications Wales may revise the standard conditions; and if it does so, each recognition (whether granted before or after the revisions come into effect) is to be subject to the conditions as revised.
+**3.**[^c-88b043d2e3fb2d68f79b4462802b5af6] (1) Qualifications Wales may revise the standard conditions; and if it does so, each recognition (whether granted before or after the revisions come into effect) is to be subject to the conditions as revised.
 
 (2) Sub-paragraph (1) is subject to paragraph 2(3) and (4).
 
@@ -69,7 +69,7 @@ summary: ''
 
 ### Special conditions to which recognition may be subject
 
-**4.**[^key-845be11dbb950def399e7ea1b6649aa8] (1) The recognition of a body may, in addition, be made subject to any other conditions (“special conditions”) specified by Qualifications Wales, either at the time of recognising the body or subsequently.
+**4.**[^c-845be11dbb950def399e7ea1b6649aa8] (1) The recognition of a body may, in addition, be made subject to any other conditions (“special conditions”) specified by Qualifications Wales, either at the time of recognising the body or subsequently.
 
 (2) The special conditions may include—
 
@@ -83,7 +83,7 @@ summary: ''
 - (b) different circumstances in which a qualification is awarded;
 - (c) different descriptions of person to whom a qualification is awarded.
 
-**5.**[^key-b8f905baa4ba06164f1786dd6480f90f] (1) Qualifications Wales may revise or revoke a special condition.
+**5.**[^c-b8f905baa4ba06164f1786dd6480f90f] (1) Qualifications Wales may revise or revoke a special condition.
 
 (2) If Qualifications Wales revises or revokes a special condition, it must—
 
@@ -96,7 +96,7 @@ summary: ''
 
 ### Fee capping conditions
 
-**6.**[^key-ff425c36ffbf071ae0ace1639b639a1f] (1) A fee capping condition is a special condition limiting the amount charged by a recognised body in connection with—
+**6.**[^c-ff425c36ffbf071ae0ace1639b639a1f] (1) A fee capping condition is a special condition limiting the amount charged by a recognised body in connection with—
 
 - (a) the award by the body to a person of an approved qualification,
 - (b) the award by the body to a person of a form of a qualification that is designated under section 29, or
@@ -114,11 +114,11 @@ where the course of education or training leading to the qualification, and unde
 - (a) a community, foundation or voluntary school;
 - (b) a community special school.
 
-**7.**[^key-bfabbef4a2a94d891a03c362b6a563f0] Qualifications Wales may impose a fee capping condition only if satisfied that it is appropriate to do so to secure value for money.
+**7.**[^c-bfabbef4a2a94d891a03c362b6a563f0] Qualifications Wales may impose a fee capping condition only if satisfied that it is appropriate to do so to secure value for money.
 
 ### Procedure for imposing fee capping conditions
 
-**8.**[^key-5cd1441354d417703d3b69356249e9f2] (1) Before imposing a fee capping condition, Qualifications Wales must give the body concerned notice of its intention to do so.
+**8.**[^c-5cd1441354d417703d3b69356249e9f2] (1) Before imposing a fee capping condition, Qualifications Wales must give the body concerned notice of its intention to do so.
 
 (2) The notice must—
 
@@ -128,7 +128,7 @@ where the course of education or training leading to the qualification, and unde
 
 (3) In deciding whether to impose the condition, Qualifications Wales must have regard to any representations made by the recognised body.
 
-**9.**[^key-318d7d413b49bbf1cc6ee9f298c5841b] (1) If Qualifications Wales decides to impose the fee capping condition, it must give notice to the recognised body of the decision.
+**9.**[^c-318d7d413b49bbf1cc6ee9f298c5841b] (1) If Qualifications Wales decides to impose the fee capping condition, it must give notice to the recognised body of the decision.
 
 (2) The notice must—
 
@@ -140,7 +140,7 @@ where the course of education or training leading to the qualification, and unde
 
 ### Review of fee capping conditions
 
-**10.**[^key-825c3d609eeedc05e348bb36bd433091] (1) Qualifications Wales must make arrangements for a decision under paragraph 9 to impose a fee capping condition to be subject to review at the request of the recognised body concerned.
+**10.**[^c-825c3d609eeedc05e348bb36bd433091] (1) Qualifications Wales must make arrangements for a decision under paragraph 9 to impose a fee capping condition to be subject to review at the request of the recognised body concerned.
 
 (2) The arrangements must—
 
@@ -164,11 +164,11 @@ where the course of education or training leading to the qualification, and unde
 
 ### Revision of fee capping conditions
 
-**11.**[^key-95564f5a1b3c8989a63263a0ce94fec7] Paragraphs 8 to 10 apply in respect of a revision of a fee capping condition under paragraph 5 as if the revision constituted the imposition of a fee capping condition.
+**11.**[^c-95564f5a1b3c8989a63263a0ce94fec7] Paragraphs 8 to 10 apply in respect of a revision of a fee capping condition under paragraph 5 as if the revision constituted the imposition of a fee capping condition.
 
 ### Transfer conditions
 
-**12.**[^key-1acc4013cf29659d6f48497e6f9f2412] (1) A transfer condition is a special condition requiring an awarding body, on the occurrence of an event specified in the condition, and on being so directed by Qualifications Wales, to make arrangements specified in the direction for the purpose of securing that a form of a qualification which is or has been awarded by the body may be awarded by another awarding body where—
+**12.**[^c-1acc4013cf29659d6f48497e6f9f2412] (1) A transfer condition is a special condition requiring an awarding body, on the occurrence of an event specified in the condition, and on being so directed by Qualifications Wales, to make arrangements specified in the direction for the purpose of securing that a form of a qualification which is or has been awarded by the body may be awarded by another awarding body where—
 
 - (a) the form of qualification has been approved by Qualifications Wales, or
 - (b) the form of qualification has been designated by Qualifications Wales under section 29﻿.
@@ -177,7 +177,7 @@ where the course of education or training leading to the qualification, and unde
 
 (3) Qualifications Wales may give a direction to an awarding body in accordance with a transfer condition only if it is satisfied that it is necessary to do so in order to avoid significant adverse effects on persons who are seeking, or might reasonably be expected to seek, to obtain the form of a qualification to which the direction relates.
 
-**13.**[^key-e7cef129513ca9ee8222a75a26caa5d3] (1) If Qualifications Wales proposes to give a direction to an awarding body in accordance with a transfer condition, it must give the body concerned notice of the proposal.
+**13.**[^c-e7cef129513ca9ee8222a75a26caa5d3] (1) If Qualifications Wales proposes to give a direction to an awarding body in accordance with a transfer condition, it must give the body concerned notice of the proposal.
 
 (2) The notice must—
 
@@ -187,7 +187,7 @@ where the course of education or training leading to the qualification, and unde
 
 (3) In deciding whether to give the direction, Qualifications Wales must have regard to any representations made by the awarding body.
 
-**14.**[^key-23554451e48c8bc6075122250834cbee] (1) If Qualifications Wales decides to give the direction, it must give notice to the awarding body of the decision, setting out the direction.
+**14.**[^c-23554451e48c8bc6075122250834cbee] (1) If Qualifications Wales decides to give the direction, it must give notice to the awarding body of the decision, setting out the direction.
 
 (2) The notice must—
 
@@ -197,11 +197,11 @@ where the course of education or training leading to the qualification, and unde
 
 (3) The date specified under sub-paragraph (2)(c) must be a date after the latest date on which a review may be requested under arrangements made under paragraph 16.
 
-**15.**[^key-ac5cf54862f27cdd3d7c6707d1659e21] If Qualifications Wales gives a direction to an awarding body in accordance with a transfer condition, it may, if it considers it reasonable and appropriate to do so in the circumstances, pay compensation to the body in respect of loss sustained by the body by reason of compliance with the direction.
+**15.**[^c-ac5cf54862f27cdd3d7c6707d1659e21] If Qualifications Wales gives a direction to an awarding body in accordance with a transfer condition, it may, if it considers it reasonable and appropriate to do so in the circumstances, pay compensation to the body in respect of loss sustained by the body by reason of compliance with the direction.
 
 ### Review of decision to give direction
 
-**16.**[^key-275aad33fba44f90ee06023fd3becec9] (1) Qualifications Wales must make arrangements for its decision to give the direction referred to in paragraph 14 to be subject to review at the request of the awarding body concerned.
+**16.**[^c-275aad33fba44f90ee06023fd3becec9] (1) Qualifications Wales must make arrangements for its decision to give the direction referred to in paragraph 14 to be subject to review at the request of the awarding body concerned.
 
 (2) The arrangements must—
 
@@ -225,7 +225,7 @@ where the course of education or training leading to the qualification, and unde
 
 ### Surrender of recognition
 
-**17.**[^key-71527445dd7364a64decedaf1cd38212] (1) A recognised body may give notice (a “surrender notice”) to Qualifications Wales that it wishes to cease to be recognised in respect of—
+**17.**[^c-71527445dd7364a64decedaf1cd38212] (1) A recognised body may give notice (a “surrender notice”) to Qualifications Wales that it wishes to cease to be recognised in respect of—
 
 - (a) the award of a specified qualification or description of qualification, or
 - (b) every qualification in respect of which it is recognised.
@@ -245,7 +245,7 @@ where the course of education or training leading to the qualification, and unde
 
 ### Transitional provision in respect of surrender
 
-**18.**[^key-77eb0ef6f373e35396c143891bfb16eb] (1) Qualifications Wales may, if it considers it appropriate to do so for the purpose of avoiding prejudice to persons who are seeking or might reasonably be expected to seek to obtain the qualification concerned, or a qualification of the description concerned, make provision in an acknowledgement of surrender under paragraph 17(3) that is within sub-paragraph (2).
+**18.**[^c-77eb0ef6f373e35396c143891bfb16eb] (1) Qualifications Wales may, if it considers it appropriate to do so for the purpose of avoiding prejudice to persons who are seeking or might reasonably be expected to seek to obtain the qualification concerned, or a qualification of the description concerned, make provision in an acknowledgement of surrender under paragraph 17(3) that is within sub-paragraph (2).
 
 (2) Provision within this sub-paragraph is provision to the effect that, from the expiry of the surrender date until the expiry of the extension date, the body is to be treated for purposes specified by Qualifications Wales in the acknowledgement of surrender as being recognised in respect of the award of the qualification or description of qualification concerned.
 
@@ -263,7 +263,7 @@ where the course of education or training leading to the qualification, and unde
 
 *Extent: E+W+S+N.I.*
 
-**19.**[^key-71e03c99c2c737cb100747a354b6d8b7] (1) If a recognised body fails to comply with any condition to which recognition in respect of the award of a qualification or description of qualification is subject, Qualifications Wales may withdraw its recognition of the body in respect of the award of—
+**19.**[^c-71e03c99c2c737cb100747a354b6d8b7] (1) If a recognised body fails to comply with any condition to which recognition in respect of the award of a qualification or description of qualification is subject, Qualifications Wales may withdraw its recognition of the body in respect of the award of—
 
 - (a) a specified qualification or description of qualification, or
 - (b) every qualification in respect of the award of which the body is recognised.
@@ -275,7 +275,7 @@ where the course of education or training leading to the qualification, and unde
 
 ### Procedure for withdrawal of recognition
 
-**20.**[^key-b20a3501575b41ab1511c22f49cde060] (1) Before withdrawing recognition from a recognised body under paragraph 19, Qualifications Wales must give the body notice of its intention to do so.
+**20.**[^c-b20a3501575b41ab1511c22f49cde060] (1) Before withdrawing recognition from a recognised body under paragraph 19, Qualifications Wales must give the body notice of its intention to do so.
 
 (2) The notice must—
 
@@ -284,7 +284,7 @@ where the course of education or training leading to the qualification, and unde
 
 (3) In deciding whether to withdraw recognition as specified in the notice, Qualifications Wales must have regard to any representations made by the recognised body.
 
-**21.**[^key-8dd7d2e4afe362d72338f677a4ee2cd7] (1) If Qualifications Wales decides to withdraw recognition, it must give notice to the recognised body of the decision.
+**21.**[^c-8dd7d2e4afe362d72338f677a4ee2cd7] (1) If Qualifications Wales decides to withdraw recognition, it must give notice to the recognised body of the decision.
 
 (2) The notice must—
 
@@ -300,7 +300,7 @@ where the course of education or training leading to the qualification, and unde
 
 ### Review of decision to withdraw recognition
 
-**22.**[^key-4dcc57e8671b79f2f825f27f4d9498b9] (1) Qualifications Wales must make arrangements for a decision to withdraw recognition from a body to be subject to review at the request of the body concerned.
+**22.**[^c-4dcc57e8671b79f2f825f27f4d9498b9] (1) Qualifications Wales must make arrangements for a decision to withdraw recognition from a body to be subject to review at the request of the body concerned.
 
 (2) The arrangements must—
 
@@ -323,7 +323,7 @@ where the course of education or training leading to the qualification, and unde
 
 ### Transitional provision in respect of withdrawal
 
-**23.**[^key-45ef68cdf58ca1089aff154d552f66b2] (1) Notice under paragraph 21 or 22 may include provision within sub-paragraph (2), if Qualifications Wales considers that provision appropriate for the purpose of avoiding prejudice to persons who are seeking or might reasonably be expected to seek to obtain the qualification, or a qualification of the description, in respect of the award of which recognition is to be withdrawn.
+**23.**[^c-45ef68cdf58ca1089aff154d552f66b2] (1) Notice under paragraph 21 or 22 may include provision within sub-paragraph (2), if Qualifications Wales considers that provision appropriate for the purpose of avoiding prejudice to persons who are seeking or might reasonably be expected to seek to obtain the qualification, or a qualification of the description, in respect of the award of which recognition is to be withdrawn.
 
 (2) Provision within this sub-paragraph is provision to the effect that, from the expiry of the withdrawal date until the expiry of the extension date, the body is to be treated for purposes specified by Qualifications Wales in the notice as being recognised in respect of the award of the qualification or description of qualification concerned.
 
@@ -346,48 +346,48 @@ where the course of education or training leading to the qualification, and unde
 
 ## Annotations
 
-[^key-5a74f400c13a7ff171a9ff3f10c2f9ba]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/1) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-5a74f400c13a7ff171a9ff3f10c2f9ba]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/1) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-1778669332223d6c2e84dfa50c89c880]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/2) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-1778669332223d6c2e84dfa50c89c880]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/2) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-88b043d2e3fb2d68f79b4462802b5af6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/3) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-88b043d2e3fb2d68f79b4462802b5af6]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/3) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-845be11dbb950def399e7ea1b6649aa8]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/4) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-845be11dbb950def399e7ea1b6649aa8]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/4) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-b8f905baa4ba06164f1786dd6480f90f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/5) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-b8f905baa4ba06164f1786dd6480f90f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/5) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-ff425c36ffbf071ae0ace1639b639a1f]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/6) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-ff425c36ffbf071ae0ace1639b639a1f]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/6) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-bfabbef4a2a94d891a03c362b6a563f0]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/7) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-bfabbef4a2a94d891a03c362b6a563f0]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/7) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-5cd1441354d417703d3b69356249e9f2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/8) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-5cd1441354d417703d3b69356249e9f2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/8) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-318d7d413b49bbf1cc6ee9f298c5841b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/9) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-318d7d413b49bbf1cc6ee9f298c5841b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/9) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-825c3d609eeedc05e348bb36bd433091]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/10) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-825c3d609eeedc05e348bb36bd433091]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/10) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-95564f5a1b3c8989a63263a0ce94fec7]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/11) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-95564f5a1b3c8989a63263a0ce94fec7]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/11) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-1acc4013cf29659d6f48497e6f9f2412]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/12) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-1acc4013cf29659d6f48497e6f9f2412]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/12) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-e7cef129513ca9ee8222a75a26caa5d3]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/13) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-e7cef129513ca9ee8222a75a26caa5d3]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/13) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-23554451e48c8bc6075122250834cbee]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/14) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-23554451e48c8bc6075122250834cbee]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/14) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-ac5cf54862f27cdd3d7c6707d1659e21]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/15) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-ac5cf54862f27cdd3d7c6707d1659e21]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/15) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-275aad33fba44f90ee06023fd3becec9]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/16) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-275aad33fba44f90ee06023fd3becec9]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/16) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-71527445dd7364a64decedaf1cd38212]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/17) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-71527445dd7364a64decedaf1cd38212]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/17) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-77eb0ef6f373e35396c143891bfb16eb]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/18) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-77eb0ef6f373e35396c143891bfb16eb]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/18) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-71e03c99c2c737cb100747a354b6d8b7]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/19) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-71e03c99c2c737cb100747a354b6d8b7]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/19) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-b20a3501575b41ab1511c22f49cde060]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/20) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-b20a3501575b41ab1511c22f49cde060]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/20) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-8dd7d2e4afe362d72338f677a4ee2cd7]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/21) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-8dd7d2e4afe362d72338f677a4ee2cd7]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/21) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-4dcc57e8671b79f2f825f27f4d9498b9]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/22) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-4dcc57e8671b79f2f825f27f4d9498b9]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/22) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
 
-[^key-45ef68cdf58ca1089aff154d552f66b2]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/23) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-45ef68cdf58ca1089aff154d552f66b2]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/anaw/2015/5/schedule/3/paragraph/23) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

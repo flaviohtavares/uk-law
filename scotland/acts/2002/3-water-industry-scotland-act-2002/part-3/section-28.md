@@ -37,7 +37,7 @@ and may make different provision in relation to different cases or descriptions 
 
 (3) Before submitting the consultation code to the Scottish Ministers, Scottish Water—
 
-- (a) must consult every water services provider and sewerage services provider and[^key-0194b363828cb8aba1c870e81d8ed565] Consumer Scotland[^key-6086ec40f869e1a64a51e9fb2567e8c7] on the code and have regard to any comments on it made by any such provider or Consumer Scotland, and
+- (a) must consult every water services provider and sewerage services provider and[^c-0194b363828cb8aba1c870e81d8ed565] Consumer Scotland[^c-6086ec40f869e1a64a51e9fb2567e8c7] on the code and have regard to any comments on it made by any such provider or Consumer Scotland, and
 - (b) may adjust the code in light of those comments.
 
 (4) The Scottish Ministers may approve the consultation code—
@@ -60,6 +60,6 @@ the consultation code; and this section applies to the varied or new code as it 
 
 ## Annotations
 
-[^key-0194b363828cb8aba1c870e81d8ed565]: Textual amendment: Words in s. 28(3)(a) inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 130(3)](https://www.legislation.gov.uk/asp/2010/8/section/130/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/278/article/2/b)
+[^c-0194b363828cb8aba1c870e81d8ed565]: Textual amendment: Words in s. 28(3)(a) inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 130(3)](https://www.legislation.gov.uk/asp/2010/8/section/130/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/278/article/2/b)
 
-[^key-6086ec40f869e1a64a51e9fb2567e8c7]: Textual amendment: Words in [s. 28(3)(a)](https://www.legislation.gov.uk/asp/2002/3/section/28/3/a) substituted (10.11.2022) by [The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296)](https://www.legislation.gov.uk/ssi/2022/296), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/296/regulation/1/1), [sch. para. 1(5)](https://www.legislation.gov.uk/ssi/2022/296/schedule/paragraph/1/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/296/regulation/3))
+[^c-6086ec40f869e1a64a51e9fb2567e8c7]: Textual amendment: Words in [s. 28(3)(a)](https://www.legislation.gov.uk/asp/2002/3/section/28/3/a) substituted (10.11.2022) by [The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296)](https://www.legislation.gov.uk/ssi/2022/296), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/296/regulation/1/1), [sch. para. 1(5)](https://www.legislation.gov.uk/ssi/2022/296/schedule/paragraph/1/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/296/regulation/3))

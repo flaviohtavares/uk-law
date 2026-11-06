@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Review[^key-e6671c303fb87d258b82f82d6732dfa5]
+## 63. Review[^c-e6671c303fb87d258b82f82d6732dfa5]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6671c303fb87d258b82f82d6732dfa5]: Commencement: S. 63 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)
+[^c-e6671c303fb87d258b82f82d6732dfa5]: Commencement: S. 63 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)

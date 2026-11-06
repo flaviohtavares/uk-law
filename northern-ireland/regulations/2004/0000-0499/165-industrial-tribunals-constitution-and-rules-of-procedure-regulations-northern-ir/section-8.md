@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Composition of tribunals[^key-2a5468f6af0b2384dff9dd1b131b476c]
+## 8. Composition of tribunals[^c-2a5468f6af0b2384dff9dd1b131b476c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))
+[^c-2a5468f6af0b2384dff9dd1b131b476c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/165) revoked (3.4.2005) by [The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 (S.R. 2005/150)](https://www.legislation.gov.uk/nisr/2005/150), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/3) (with [reg. 15](https://www.legislation.gov.uk/nisr/2005/150/regulation/15))

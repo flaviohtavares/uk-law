@@ -48,8 +48,8 @@ and section 155(3) shall not apply in relation to the proceedings.
 - (a) trial proceedings, if any defendant is not subject to service law at the commencement of the proceedings;
 - (b) sentencing proceedings with lay members, if any offender who falls to be sentenced was not subject to service law when convicted;
 - (c) variation proceedings with lay members, if this rule applied to the sentencing proceedings in which the sentence that falls to be varied was imposed;
-- (d) appellate proceedings; [^key-7ce97dd9ec04a6984bfd7bef43859c08]...
-- (e) activation proceedings with lay members, if the offender is not subject to service law at the commencement of the proceedings ; and[^key-a8e54013b08e6505de3db0cc37a5c3e2]
+- (d) appellate proceedings; [^c-7ce97dd9ec04a6984bfd7bef43859c08]...
+- (e) activation proceedings with lay members, if the offender is not subject to service law at the commencement of the proceedings ; and[^c-a8e54013b08e6505de3db0cc37a5c3e2]
 - (f) review of sentence proceedings with lay members if this rule applied to the sentencing proceedings in which the sentence that falls to be reviewed was imposed.
 
 (6) Where this rule applies to any proceedings and any person to whom the proceedings relate is an officer not subject to service law, paragraph (1) has effect as if the words “or warrant officer” in sub-paragraph (b) were omitted.
@@ -58,6 +58,6 @@ and section 155(3) shall not apply in relation to the proceedings.
 
 [^c19793461]: Marginal citation: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23). Schedule 1 to the Juries Act 1974 is substituted by section 321 of, and paragraphs 1 and 15 of Schedule 33 to, the Criminal Justice Act 2003.
 
-[^key-7ce97dd9ec04a6984bfd7bef43859c08]: Textual amendment: Word in [rule 33(5)](https://www.legislation.gov.uk/uksi/2009/2041/rule/33/5) omitted (16.10.2024) by virtue of [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/1036/rule/12/a)
+[^c-7ce97dd9ec04a6984bfd7bef43859c08]: Textual amendment: Word in [rule 33(5)](https://www.legislation.gov.uk/uksi/2009/2041/rule/33/5) omitted (16.10.2024) by virtue of [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/1036/rule/12/a)
 
-[^key-a8e54013b08e6505de3db0cc37a5c3e2]: Textual amendment: [Rule 33(5)(f)](https://www.legislation.gov.uk/uksi/2009/2041/rule/33/5/f) and word inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/1036/rule/12/b)
+[^c-a8e54013b08e6505de3db0cc37a5c3e2]: Textual amendment: [Rule 33(5)(f)](https://www.legislation.gov.uk/uksi/2009/2041/rule/33/5/f) and word inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/1036/rule/12/b)

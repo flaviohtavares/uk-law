@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Application of the First-tier Tribunal for Scotland Housing and Property Chamber Rules of Procedure 2017[^key-4d304858039551bf67524e0ff5090166]
+## 2. Application of the First-tier Tribunal for Scotland Housing and Property Chamber Rules of Procedure 2017[^c-4d304858039551bf67524e0ff5090166]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ The First-tier Tribunal for Scotland Housing and Property Chamber Rules of Proce
 
 ## Annotations
 
-[^key-4d304858039551bf67524e0ff5090166]: Commencement: Reg. 2 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-4d304858039551bf67524e0ff5090166]: Commencement: Reg. 2 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00002]: Footnote: [S.S.I. 2016/335](https://www.legislation.gov.uk/ssi/2016/335).
 

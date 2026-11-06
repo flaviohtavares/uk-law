@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Defence to proceedings in respect of statutory nuisance[^key-f53588b741affa6dbecce188053e37ff]
+## 30. Defence to proceedings in respect of statutory nuisance[^c-f53588b741affa6dbecce188053e37ff]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f53588b741affa6dbecce188053e37ff]: Commencement: Art. 30 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-f53588b741affa6dbecce188053e37ff]: Commencement: Art. 30 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00041]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) was amended by paragraph 6 of Schedule 17 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 

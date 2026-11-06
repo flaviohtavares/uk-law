@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Independent custody visiting[^key-ce9f1fd1c44c4a2679af3072966c465f]
+## 12. Independent custody visiting[^c-ce9f1fd1c44c4a2679af3072966c465f]
 
 *Extent: S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9f1fd1c44c4a2679af3072966c465f]: Commencement: Art. 12 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-ce9f1fd1c44c4a2679af3072966c465f]: Commencement: Art. 12 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00025]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 

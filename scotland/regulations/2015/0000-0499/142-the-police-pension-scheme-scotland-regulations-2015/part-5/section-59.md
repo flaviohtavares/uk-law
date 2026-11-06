@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Establishment of retirement account[^key-74a3b4a4d0b41769781deecde53b848d]
+## 59. Establishment of retirement account[^c-74a3b4a4d0b41769781deecde53b848d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74a3b4a4d0b41769781deecde53b848d]: Commencement: Reg. 59 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-74a3b4a4d0b41769781deecde53b848d]: Commencement: Reg. 59 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

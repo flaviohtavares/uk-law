@@ -60,15 +60,15 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (1) In these Regulations–
 
-- “additional holding” means a holding other than a keeper’s principal holding which—[^key-148e144a72c49ce68f85618c579038fc]
+- “additional holding” means a holding other than a keeper’s principal holding which—[^c-148e144a72c49ce68f85618c579038fc]
   - (a) is used or intended to be used on more than one occasion by the keeper for holding, keeping or handling animals, whether or not that holding is also used or intended to be used by any other keeper for any of those purposes; and
   - (b) prior to the first use of the holding by the keeper for any of the purposes mentioned in paragraph (a), the keeper has notified the Scottish Ministers and, following notification, has received their consent, so to use that holding;
 - “**cattle passport**” (except in paragraphs 2(1)(b), 17 and 19 of Schedule 3) means–
-  - (a) a cattle passport issued in Scotland under regulation 7 and schedule 3 of these Regulations or the equivalent measures in England or Wales;[^key-d5bff70dbee85e18e27d4170f5bfdac7] or
+  - (a) a cattle passport issued in Scotland under regulation 7 and schedule 3 of these Regulations or the equivalent measures in England or Wales;[^c-d5bff70dbee85e18e27d4170f5bfdac7] or
   - (b) a cattle passport issued under the Cattle Passports Order 1996 [^c18305501];
-- “**Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494)**” means Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494) laying down detailed rules for the implementation of Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/eur/1997/820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals [^c18305511] as amended by Commission Regulation (EU) No. 1053/2010 amending Regulation[^key-e8a3e9e2cd7c50144a614070497aca01] [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494) as regards administrative sanctions in cases of failure to prove the identification of an animal;
+- “**Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494)**” means Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494) laying down detailed rules for the implementation of Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/eur/1997/820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals [^c18305511] as amended by Commission Regulation (EU) No. 1053/2010 amending Regulation[^c-e8a3e9e2cd7c50144a614070497aca01] [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494) as regards administrative sanctions in cases of failure to prove the identification of an animal;
 - “**Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/eur/1999/509)**” means Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/eur/1999/509) concerning an extension of the maximum period laid down for the application of ear-tags to bison (Bison bison spp.) [^c18305521];
-- “**Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911)**” means Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911) implementing Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council as regards ear tags, passports and holding registers [^c18305531] , as last amended by Commission Implementing Regulation ([^key-cd91bd9d2bcf91e625092183ac3f362a]EU) 2017/949;
+- “**Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911)**” means Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911) implementing Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council as regards ear tags, passports and holding registers [^c18305531] , as last amended by Commission Implementing Regulation ([^c-cd91bd9d2bcf91e625092183ac3f362a]EU) 2017/949;
 - “**Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/eur/2005/644)**” means Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/eur/2005/644) authorising a special identification system for bovine animals kept for cultural and historical purposes on approved premises as provided for in Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council [^c18305541];
 - “**EU[^M_F_2735b89a-5762-4a41-8375-08007e8eff0f] legislation**” means Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494), Commission Regulation (EC) No. 509/1999, Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911), Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/eur/2005/644) and Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760);
 - “**Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/eur/1997/820)**” means Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/eur/1997/820) establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products [^c18305551];
@@ -88,12 +88,12 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
   - (d) the Tuberculosis (England and Wales) Order 1984 [^c18305611]; and
   - (e) the Tuberculosis (Scotland) Order 1984 [^c18305621];
 - “**primary ear tag**” means an ear tag approved by the Scottish Ministers and meeting the requirements of Articles 2 and 3 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911);
-- “Regulation[^key-c37d64c69042004a54361224a3daf23f] [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760)” means Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/eur/1997/0820);
+- “Regulation[^c-c37d64c69042004a54361224a3daf23f] [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760)” means Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/eur/1997/0820);
 - “**secondary ear tag**” means an ear tag of a model and material approved by the Scottish Ministers in accordance with Article 4 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911).
 
 (2) Expressions in these Regulations that appear in the EU legislation have the same meaning in these Regulations as they have for the purposes of that legislation.
 
-(3) Any approval, authorisation, consent,[^key-6d1f71d83cda9534827dc09243923daa] licence, notice or registration issued under–
+(3) Any approval, authorisation, consent,[^c-6d1f71d83cda9534827dc09243923daa] licence, notice or registration issued under–
 
 - (a) these Regulations,
 - (b) Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760);
@@ -121,9 +121,9 @@ shall be in writing, may be made subject to conditions and may be amended or rev
 - (a) that person's name and address; and
 - (b) the address of the holding on which the animal or animals are kept.
 
-(2) Any change to the information provided under[^key-d8a28408b00140d7df1332e1d57fc4b1] paragraph (1) shall be notified to the Scottish Ministers by the keeper within one month of the change.
+(2) Any change to the information provided under[^c-d8a28408b00140d7df1332e1d57fc4b1] paragraph (1) shall be notified to the Scottish Ministers by the keeper within one month of the change.
 
-(3)[^key-b3045f782e9f8c3fd5bd9b30de1aa078] Failure to comply with this regulation is an offence.
+(3)[^c-b3045f782e9f8c3fd5bd9b30de1aa078] Failure to comply with this regulation is an offence.
 
 ## PART 3 — Identification and movement of cattle
 
@@ -165,13 +165,13 @@ The Scottish Ministers may impose a reasonable charge for providing information 
 - (h) remove and retain any unused ear tags;
 - (i) mark any animal or other thing for identification purposes; and
 - (j) be accompanied by–
-  - (i)[^key-c63ccf07e47e02ad70db9b316a3d7d94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-c63ccf07e47e02ad70db9b316a3d7d94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  [^key-a3a714e2d25f49789fc96f78b056cd30]...
+  [^c-a3a714e2d25f49789fc96f78b056cd30]...
 
-  - (ii) any [^key-65f77d70047938b8a2a095babb1b7493]... person the inspector considers to be necessary.
+  - (ii) any [^c-65f77d70047938b8a2a095babb1b7493]... person the inspector considers to be necessary.
 
-### 10A. Warrant[^key-20eae2b6ddd774a9e40ddea03325d50c]
+### 10A. Warrant[^c-20eae2b6ddd774a9e40ddea03325d50c]
 
 (1) If a sheriff or justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry into any premises by an inspector under regulation 10 and either that—
 
@@ -184,11 +184,11 @@ the sheriff or justice may by signed warrant, valid for a period of no more than
 
 ### 11. Power to restrict movements
 
-In accordance with [^key-50e52cf5f0c80076f8829b59bf6f048f]... Article 22(2)(a), (b), (c), (e), (f) and (g)[^key-002656e33610f2b6d7512277b218cdde] of Regulation (EC) No. 1760/2000, an officer of the Scottish Ministers may serve a notice in writing on any keeper of animals on a holding prohibiting or restricting the movement of any animal to or from the holding except under the authority of a licence , and failure to comply with such notice is an offence[^M_F_7950be5c-7234-46c3-eb4a-3242896341c3] .
+In accordance with [^c-50e52cf5f0c80076f8829b59bf6f048f]... Article 22(2)(a), (b), (c), (e), (f) and (g)[^c-002656e33610f2b6d7512277b218cdde] of Regulation (EC) No. 1760/2000, an officer of the Scottish Ministers may serve a notice in writing on any keeper of animals on a holding prohibiting or restricting the movement of any animal to or from the holding except under the authority of a licence , and failure to comply with such notice is an offence[^M_F_7950be5c-7234-46c3-eb4a-3242896341c3] .
 
 ### 12. Slaughter of animals without identification and traceability[^M_F_4a727c92-eff1-4057-806c-bea3935eeb10]
 
-(1) Where the Scottish Ministers order the destruction of an animal under Article 1(2) of Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494), or under Article 22(2)(d) of Regulation[^key-0dda791166c3ec4ca6932fb177405b2f] [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) they shall serve a notice requiring the keeper to arrange for the animal to be killed and disposed of as specified in the notice.
+(1) Where the Scottish Ministers order the destruction of an animal under Article 1(2) of Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/eur/1998/494), or under Article 22(2)(d) of Regulation[^c-0dda791166c3ec4ca6932fb177405b2f] [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) they shall serve a notice requiring the keeper to arrange for the animal to be killed and disposed of as specified in the notice.
 
 (2) Failure to comply with a notice served under paragraph (1) is an offence.
 
@@ -253,14 +253,14 @@ Regulation 5
 
 ### 1. Application of ear tags
 
-(1) Any keeper of animals who fails to comply with the requirements of Article 4(1) or Article 4a(1)[^key-ab7044725f1b1d10a1bd485ef58ed65d] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is guilty of an offence.
+(1) Any keeper of animals who fails to comply with the requirements of Article 4(1) or Article 4a(1)[^c-ab7044725f1b1d10a1bd485ef58ed65d] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is guilty of an offence.
 
-(2) The period determined for the purposes of said Article 4a[^key-8fc2b5da55b218c09b1400ed9910a375] is–
+(2) The period determined for the purposes of said Article 4a[^c-8fc2b5da55b218c09b1400ed9910a375] is–
 
 - (a) in the case of a dairy animal–
   - (i) within 36 hours of birth for the first tag; and
   - (ii) within 20 days of birth for the second tag;
-- (b) in the case of bison, within 9 months of birth or when the animal is separated from its mother, whichever is sooner, in accordance with Articles 1 and 2 of Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/european/regulation/19199/0509)[^key-962edff475fd9e139c2cb7256cb7b722]; and
+- (b) in the case of bison, within 9 months of birth or when the animal is separated from its mother, whichever is sooner, in accordance with Articles 1 and 2 of Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/european/regulation/19199/0509)[^c-962edff475fd9e139c2cb7256cb7b722]; and
 - (c) in the case of any other animal, within 20 days of birth.
 
 (3) The identification code for the purposes of Article 1(2) of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) shall be the following information in the following order–
@@ -268,20 +268,20 @@ Regulation 5
 - (a) the letters “UK”; and
 - (b) the number allocated by the Scottish Ministers that is unique to an animal in a herd and contains 12 digits.
 
-(4)[^key-cd31985e411b45b41937cfefec96420d] Any keeper whose animal is born on an additional holding must apply ear tags to that animal indicating the unique numeric identity either of the principal holding of that keeper or of the additional holding on which that animal was born.
+(4)[^c-cd31985e411b45b41937cfefec96420d] Any keeper whose animal is born on an additional holding must apply ear tags to that animal indicating the unique numeric identity either of the principal holding of that keeper or of the additional holding on which that animal was born.
 
 ### 2. Animals imported from third countries
 
-(1) Any keeper of an animal from a third country shall apply ear tags to that animal in accordance with Article 4b[^key-eff8f3631819d8d67a830f5f22b76a99] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760).
+(1) Any keeper of an animal from a third country shall apply ear tags to that animal in accordance with Article 4b[^c-eff8f3631819d8d67a830f5f22b76a99] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760).
 
-(1A)[^key-c1fc5911d8e077f1e8be8a503d43011c] The period determined for the purposes of the first subparagraph of Article 4b(2) is—
+(1A)[^c-c1fc5911d8e077f1e8be8a503d43011c] The period determined for the purposes of the first subparagraph of Article 4b(2) is—
 
 - (a) within the period of 20 days beginning with the day on which the veterinary checks referred to in Article 4b(1) are completed; or
 - (b) before the animal leaves the holding of destination,
 
 whichever is sooner.
 
-(2) Sub paragraph (1) does not apply where the holding of destination of the animal is a slaughterhouse and the requirements of the third subparagraph of Article 4b(1)[^key-5fb89d86c323ffcb5871613403eb824a] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) are met.
+(2) Sub paragraph (1) does not apply where the holding of destination of the animal is a slaughterhouse and the requirements of the third subparagraph of Article 4b(1)[^c-5fb89d86c323ffcb5871613403eb824a] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) are met.
 
 (3) Failure to comply with this paragraph is an offence.
 
@@ -293,7 +293,7 @@ whichever is sooner.
 
 ### 4. Movement of animals
 
-(1) Subject to sub paragraph (3), any person who fails to comply with the prohibition on movement in the third indent of Article 4a(1)[^key-f9d17550964ab636075d8e9e6afbdfc1] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is guilty of an offence.
+(1) Subject to sub paragraph (3), any person who fails to comply with the prohibition on movement in the third indent of Article 4a(1)[^c-f9d17550964ab636075d8e9e6afbdfc1] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) is guilty of an offence.
 
 (2) Subject to sub paragraph (3), any person who moves from a holding an animal not bearing a means of identification that should have been applied in accordance with previous cattle tagging legislation is guilty of an offence.
 
@@ -301,7 +301,7 @@ whichever is sooner.
 
 ### 5. Replacement ear tags
 
-(1) In accordance with the first subparagraph of Article 4d,[^key-7ad481f141c0c308e499a50f666285bc] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) no ear tag may be removed , modified[^key-2742f0400c5b0617022d295c5ed0725e] or replaced without the permission of the Scottish Ministers.
+(1) In accordance with the first subparagraph of Article 4d,[^c-7ad481f141c0c308e499a50f666285bc] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) no ear tag may be removed , modified[^c-2742f0400c5b0617022d295c5ed0725e] or replaced without the permission of the Scottish Ministers.
 
 (2) The keeper of any animal born on or after 1st January 1998 whose ear tag has been removed or lost or become illegible shall within 28 days of ascertaining that fact apply to the animal a replacement ear tag bearing the same identification code as the ear tag that is to be replaced and–
 
@@ -312,7 +312,7 @@ whichever is sooner.
 
 - (a) the keeper shall within 28 days of ascertaining that fact apply to the animal–
   - (i) a single ear tag; or
-  - (ii) 2 ear tags applied as if in accordance with paragraph 1 and Articles 4(1) and 4a[^key-cc173d51431d19b0510a60a1f03a176e] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760);
+  - (ii) 2 ear tags applied as if in accordance with paragraph 1 and Articles 4(1) and 4a[^c-cc173d51431d19b0510a60a1f03a176e] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760);
 - (b) the identification code on any replacement ear tag shall be–
   - (i) the same as the identification code on the ear tag to be replaced; or
   - (ii) a new identification code meeting the requirements of paragraph 1(3); and
@@ -320,7 +320,7 @@ whichever is sooner.
   - (i) notify the Scottish Ministers of the new identification code; and
   - (ii) send to the Scottish Ministers the identification document for the animal.
 
-(4) This paragraph applies to replacement of ear tags applied under these Regulations, previous cattle tagging legislation or any provision giving effect to Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/eur/1997/820) 2000 EUR1760 of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation 1997 EUR0820 as it has effect in EU law,[^key-f3586259b5d8e59a55b84d0a8d3d6128] or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) in England and Wales, the Channel Islands, the Isle of Man, Northern Ireland or a[^key-dcd9bd28dbac676b8bf572cc1e1b4d67] member State.
+(4) This paragraph applies to replacement of ear tags applied under these Regulations, previous cattle tagging legislation or any provision giving effect to Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/eur/1997/820) 2000 EUR1760 of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation 1997 EUR0820 as it has effect in EU law,[^c-f3586259b5d8e59a55b84d0a8d3d6128] or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) in England and Wales, the Channel Islands, the Isle of Man, Northern Ireland or a[^c-dcd9bd28dbac676b8bf572cc1e1b4d67] member State.
 
 (5) Failure to comply with this paragraph is an offence.
 
@@ -330,13 +330,13 @@ whichever is sooner.
 
 (2) Subject to sub-paragraph (3), the Scottish Ministers shall only approve ear tags that comply with Articles 1 to 3 of Commission Regulation (EC) No. 911/2004 and bear the logo specified in paragraph 12.
 
-(3) In accordance with Article 4[^key-3be5310ad094e2f07a0e09606e20443a] of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911), the Scottish Ministers may approve ear tags of a different material or model than that specified in Articles 2 and 3 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) for the second of the 2 ear tags to be applied to an animal.
+(3) In accordance with Article 4[^c-3be5310ad094e2f07a0e09606e20443a] of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911), the Scottish Ministers may approve ear tags of a different material or model than that specified in Articles 2 and 3 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) for the second of the 2 ear tags to be applied to an animal.
 
 ### 7. Supplementary information
 
 In accordance with Article 1(3) of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911), at the request of a keeper a manufacturer of approved ear tags may add a bar code to an ear tag.
 
-### 8. Intra-Community trade[^key-1d1ab4d316c77639c4ba669a3e165a50]
+### 8. Intra-Community trade[^c-1d1ab4d316c77639c4ba669a3e165a50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -352,7 +352,7 @@ It is an offence to apply to an animal an ear tag with an identification code th
 
 ### 11. Alteration of ear tags
 
-It is an offence to alter, obliterate or deface the information on any ear tag applied to an animal under these Regulations, previous cattle tagging legislation or any provision giving effect to Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) , 2000 EUR1760 of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation 1997 EUR0820 as it has effect in EU law,[^key-48c3ac0a1bec4ec165cb8883f82e2eea] or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in England and Wales, the Channel Islands, the Isle of Man, Northern Ireland or a[^key-479580e209ad00022312a8e2dc413cab] member State.
+It is an offence to alter, obliterate or deface the information on any ear tag applied to an animal under these Regulations, previous cattle tagging legislation or any provision giving effect to Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) , 2000 EUR1760 of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation 1997 EUR0820 as it has effect in EU law,[^c-48c3ac0a1bec4ec165cb8883f82e2eea] or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in England and Wales, the Channel Islands, the Isle of Man, Northern Ireland or a[^c-479580e209ad00022312a8e2dc413cab] member State.
 
 ### 12. Logo for ear tags
 
@@ -369,7 +369,7 @@ Regulation 6
 (1) In accordance with Article 7(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760), a keeper shall notify the Scottish Ministers of–
 
 - (a) the birth of an animal;
-- (b) the arrival of an animal from the Channel Islands, the Isle of Man, Northern Ireland or a[^key-dee69d97886bc77957aae14092c7e69e] member State;
+- (b) the arrival of an animal from the Channel Islands, the Isle of Man, Northern Ireland or a[^c-dee69d97886bc77957aae14092c7e69e] member State;
 - (c) the arrival of an animal imported from a third country.
 
 (2) Notification in accordance with sub-paragraph (1) shall be made by means of an application for a cattle passport in accordance with paragraphs 1 to 4 of Schedule 3.
@@ -380,18 +380,18 @@ Regulation 6
 
 (1) In accordance with Article 7(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760), the keeper of an animal moved on to or off a holding shall notify the Scottish Ministers of that movement.
 
-(2) The period determined for the purposes of said Article 7(1) is 3 days from the date the animal is moved on to or[^key-64471f84d95dc767b5f5a70bec8f0c4e] off the holding.
+(2) The period determined for the purposes of said Article 7(1) is 3 days from the date the animal is moved on to or[^c-64471f84d95dc767b5f5a70bec8f0c4e] off the holding.
 
 (3) For the purpose of this paragraph, notification of movement shall be made in such form and manner as is from time to time approved by the Scottish Ministers.
 
 (4) Failure to comply with this paragraph is an offence.
 
-### 3. Notification of death[^key-ca8eaf66682d86de7dcb08b768cd0dc2]
+### 3. Notification of death[^c-ca8eaf66682d86de7dcb08b768cd0dc2]
 
 (1) When an animal is killed in a slaughterhouse, the occupier of the slaughterhouse shall within 7 days of its death—
 
 - (a) notify the Scottish Ministers of its death, in such form and manner as is from time to time approved by them, in accordance with Article 7(1) of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/eur/2000/1760); and
-- (b) return the cattle passport for that animal to the Scottish Ministers [^key-49f9d8948c5ffefd89c3bc95297026f7]....
+- (b) return the cattle passport for that animal to the Scottish Ministers [^c-49f9d8948c5ffefd89c3bc95297026f7]....
 
 (2) When an animal is killed elsewhere than a slaughterhouse and its body is sent to a slaughterhouse for dressing—
 
@@ -401,13 +401,13 @@ Regulation 6
   - (iii) ensure that the body of the animal is delivered to the slaughterhouse within such time as to enable the occupier of the slaughterhouse to comply with head (b); and
 - (b) the occupier of the slaughterhouse shall within 7 days of the animal’s death—
   - (i) notify the Scottish Ministers of its death, in such form and manner as is from time to time approved by them, in accordance with Article 7(1) of Regulation (EC) No. 1760/2000; and
-  - (ii) return the cattle passport for that animal to the Scottish Ministers [^key-52a4119b001cdb60e3c0cc1c13a229f6]....
+  - (ii) return the cattle passport for that animal to the Scottish Ministers [^c-52a4119b001cdb60e3c0cc1c13a229f6]....
 
 (3) In any other case when an animal dies, the keeper shall within 7 days of its death—
 
 - (a) notify the Scottish Ministers of its death, in such form and manner as is from time to time approved by them, in accordance with Article 7(1) of Regulation (EC) No. 1760/2000; and
 - (b) either—
-  - (i) return the identification document for that animal to the Scottish Ministers [^key-9dab850c28ed3d984c7b4fab7babeacc]...; or
+  - (i) return the identification document for that animal to the Scottish Ministers [^c-9dab850c28ed3d984c7b4fab7babeacc]...; or
   - (ii) where no identification document for that animal is available, provide reasons when notifying under head (a) for the non-compliance with head (b)(i).
 
 (4) Subject to paragraph (5), failure to comply with this paragraph is an offence.
@@ -430,12 +430,12 @@ Regulation 7
 
 (2) An application for a cattle passport for a bison shall be accompanied by notification of the identification code of the ear tag that will be attached to the animal.
 
-#### 2. Applications for cattle passports for animals from ... member States etc.[^key-b48b44c13bfb3f7f5f587db4400e1804]
+#### 2. Applications for cattle passports for animals from ... member States etc.[^c-b48b44c13bfb3f7f5f587db4400e1804]
 
-(1) The keeper at the holding of destination of an animal from the Channel Islands, the Isle of Man, Northern Ireland or a[^key-5687ef6e88dc2b16b0cacdeeefa04a47] member State, shall, within 15 days of its arrival at that holding send to the Scottish Ministers–
+(1) The keeper at the holding of destination of an animal from the Channel Islands, the Isle of Man, Northern Ireland or a[^c-5687ef6e88dc2b16b0cacdeeefa04a47] member State, shall, within 15 days of its arrival at that holding send to the Scottish Ministers–
 
 - (a) an application for a cattle passport for the animal; and
-- (b) any cattle passport previously issued for the animal under Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/european/regulation/1997/0820) , Regulation[^key-7307cd8a9b15ff11d4fa25b8c83b95e1] [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in the Channel Islands, the Isle of Man, Northern Ireland or a[^key-7fe0938c8e861138144902862e92531a] member State.
+- (b) any cattle passport previously issued for the animal under Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/european/regulation/1997/0820) , Regulation[^c-7307cd8a9b15ff11d4fa25b8c83b95e1] [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in the Channel Islands, the Isle of Man, Northern Ireland or a[^c-7fe0938c8e861138144902862e92531a] member State.
 
 (2) Where an animal to which sub-paragraph (1) applies enters a market or showground on arrival in Scotland, the holding of destination is the holding to which the animal is moved from the market or showground.
 
@@ -443,7 +443,7 @@ Regulation 7
 
 #### 3. Applications for cattle passports for animals from third countries
 
-(1) The keeper at the holding of destination of an animal from a third country shall apply for a cattle passport for the animal within 15 days of the date it is tagged in accordance with Article 4b[^key-f0cc3d2f428feac1d9bf54da639a96f1] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760).
+(1) The keeper at the holding of destination of an animal from a third country shall apply for a cattle passport for the animal within 15 days of the date it is tagged in accordance with Article 4b[^c-f0cc3d2f428feac1d9bf54da639a96f1] of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760).
 
 (2) Sub-paragraph (1) does not apply in relation to an animal whose holding of destination is a slaughterhouse.
 
@@ -480,7 +480,7 @@ An application for a cattle passport shall be made in such form and manner as is
 
 (4) A keeper or person who has kept an animal for which a cattle passport has been issued under sub-paragraph (2) who subsequently recovers the original identification document shall within 7 days of recovering it send written notification of that fact to the Scottish Ministers and return the original identification document to them.
 
-(5)[^key-4a8fab0755cffff0d02b0d3d6c7ac0b2] Failure to comply with sub-paragraph (1) or (4) is an offence.
+(5)[^c-4a8fab0755cffff0d02b0d3d6c7ac0b2] Failure to comply with sub-paragraph (1) or (4) is an offence.
 
 #### 8. Replacement notices of registration
 
@@ -506,7 +506,7 @@ The Scottish Ministers may impose a reasonable fee for processing an application
 
 (2) Any person on whom a notice is served under sub-paragraph (1) who fails to comply with the notice is guilty of an offence.
 
-#### 12. Alteration[^key-f8348bbb064657319a7d51561cd28b4e]
+#### 12. Alteration[^c-f8348bbb064657319a7d51561cd28b4e]
 
 It is an offence to alter any information in an identification document, movement card or movement document with intent to deceive, or to deface such a document.
 
@@ -523,7 +523,7 @@ It is an offence to use an identification document, movement card or movement do
 - (a) enter the date of movement in and sign any cattle passport issued for that animal; and
 - (b) pass its identification document (except a notice of registration) to any person transporting the animal from the holding.
 
-(2)[^key-8015355afc539c8477a89ba3108b2098] But sub-paragraph (1) does not apply to moving an animal between a principal holding and an additional holding.
+(2)[^c-8015355afc539c8477a89ba3108b2098] But sub-paragraph (1) does not apply to moving an animal between a principal holding and an additional holding.
 
 (3) A person who fails to comply with sub-paragraph (1) commits an offence.
 
@@ -531,7 +531,7 @@ It is an offence to use an identification document, movement card or movement do
 
 (1) No person shall knowingly transport an animal that is not accompanied by its identification document.
 
-(2)[^key-2e69320b551b93d99e2c4a77f4159f4c] But sub-paragraph (1) does not apply to transporting an animal between a principal holding and an additional holding.
+(2)[^c-2e69320b551b93d99e2c4a77f4159f4c] But sub-paragraph (1) does not apply to transporting an animal between a principal holding and an additional holding.
 
 (3) A person who fails to comply with sub-paragraph (1) commits an offence.
 
@@ -539,9 +539,9 @@ It is an offence to use an identification document, movement card or movement do
 
 (1) Any person transporting an animal shall pass its identification document (except a notice of registration) to the keeper at the holding to which the animal is delivered.
 
-(1A)[^key-b459b116d55e223ad34ebf9dab3bf520] But sub-paragraph (1) does not apply to a person transporting an animal between a principal holding and an additional holding.
+(1A)[^c-b459b116d55e223ad34ebf9dab3bf520] But sub-paragraph (1) does not apply to a person transporting an animal between a principal holding and an additional holding.
 
-(2) The keeper taking possession of any animal that is accompanied by a cattle passport shall within 48[^key-5bd46da5937e4a126a0c64def75feb3e] hours of the arrival of the animal on the holding–
+(2) The keeper taking possession of any animal that is accompanied by a cattle passport shall within 48[^c-5bd46da5937e4a126a0c64def75feb3e] hours of the arrival of the animal on the holding–
 
 - (a) enter in the cattle passport–
   - (i) the date of movement on to the holding;
@@ -557,7 +557,7 @@ It is an offence to use an identification document, movement card or movement do
 
 (1) If any animal arrives in Scotland from outside Great Britain it may be moved from its point of entry into Scotland to the holding at which its arrival must be notified to the Scottish Ministers in accordance with paragraph 1 of Schedule 2 if it is accompanied by–
 
-- (a) a cattle passport issued for that animal under Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/european/regulation/1997/0820) , Regulation[^key-529bb7fa1f34fb021662331c961b141a] [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in a[^key-608a59ba1c36d6a286148ac838963ddd] member State, the Channel Islands, the Isle of Man or Northern Ireland; or
+- (a) a cattle passport issued for that animal under Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/european/regulation/1997/0820) , Regulation[^c-529bb7fa1f34fb021662331c961b141a] [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in a[^c-608a59ba1c36d6a286148ac838963ddd] member State, the Channel Islands, the Isle of Man or Northern Ireland; or
 - (b) a movement document.
 
 (2) The keeper at the holding referred to in sub-paragraph (1) shall within 36 hours of the arrival of the animal on the holding–
@@ -574,7 +574,7 @@ It is an offence to use an identification document, movement card or movement do
 
 #### 18. Export to third countries
 
-(1) [^key-2c42932bbf5bd9e30be66079f80b3868]... The keeper of any animal that is exported to a third country shall send the cattle passport for that animal to the Scottish Ministers within 7 days of the departure of the animal from Scotland.
+(1) [^c-2c42932bbf5bd9e30be66079f80b3868]... The keeper of any animal that is exported to a third country shall send the cattle passport for that animal to the Scottish Ministers within 7 days of the departure of the animal from Scotland.
 
 (2) Failure to comply with this paragraph is an offence.
 
@@ -583,7 +583,7 @@ It is an offence to use an identification document, movement card or movement do
 (1) The operator of a market shall not allow an animal to enter the market unless it is accompanied by–
 
 - (a) an identification document;
-- (b) a cattle passport issued for that animal under Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/european/regulation/1997/0820) , Regulation[^key-fb2f4bc4fad7b58ed2596ae38bc304fd] [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in a[^key-c1215b348397376a19c629398cebfd88] member State, the Channel Islands, the Isle of Man or Northern Ireland; or
+- (b) a cattle passport issued for that animal under Regulation [(EC) No. 820/1997](https://www.legislation.gov.uk/european/regulation/1997/0820) , Regulation[^c-fb2f4bc4fad7b58ed2596ae38bc304fd] [(EC) No 1760/2000](https://www.legislation.gov.uk/eur/2000/1760) of the European Parliament and of the Council establishing a system for the identification and registration of bovine animals and regarding the labelling of beef and beef products and repealing Council Regulation [(EC) No 820/1997](https://www.legislation.gov.uk/eur/1997/820) as it has effect in EU law, or Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) in a[^c-c1215b348397376a19c629398cebfd88] member State, the Channel Islands, the Isle of Man or Northern Ireland; or
 - (c) a movement document.
 
 (2) Failure to comply with this paragraph is an offence.
@@ -609,17 +609,17 @@ Regulation 8
 (2) The register shall contain–
 
 - (i) the information required under Article 8 of Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/eur/2004/911);
-- (ii)[^key-d3161a45b3e303dfae49408c8e9bb098] in the case of animals born on the holding for which the register is kept, the identification code of the dam (in the case of embryo transfer, that of the surrogate dam and, if known, genetic dam).
+- (ii)[^c-d3161a45b3e303dfae49408c8e9bb098] in the case of animals born on the holding for which the register is kept, the identification code of the dam (in the case of embryo transfer, that of the surrogate dam and, if known, genetic dam).
 
 (3) In the case of an animal born before 1st April 1995 that is not identified by means of an ear tag with an identification code, the register shall also contain a description of any means of identification applied under previous cattle tagging legislation.
 
 (4) The keeper shall complete the register at the following times–
 
-- (a) in the case of the movement of an animal on to or off a holding, within 48[^key-4b1763938b258e6b0cdf16b1c02d81d5] hours of the movement;
+- (a) in the case of the movement of an animal on to or off a holding, within 48[^c-4b1763938b258e6b0cdf16b1c02d81d5] hours of the movement;
 - (b) in the case of the birth of a dairy animal, within 7 days of the birth;
 - (c) in the case of the birth of an animal other than a dairy animal, within 30 days of the birth;
 - (d) in the case of the death of an animal, within 7 days of the death; and
-- (e) in the case of an ear tag being replaced with an ear tag with a different identification code, within 48[^key-949c8b2224a79f317938fe88ec55ca61] hours of the replacement ear tag being applied.
+- (e) in the case of an ear tag being replaced with an ear tag with a different identification code, within 48[^c-949c8b2224a79f317938fe88ec55ca61] hours of the replacement ear tag being applied.
 
 (5) Failure to comply with this paragraph is an offence.
 
@@ -752,21 +752,21 @@ A Regulatory Impact Assessment has not been produced for this instrument because
 
 [^c18305491]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51). The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the [Scotland Act (Consequential Modifications) (No. 2) Order 1999 (S.I. 1999/1820)](https://www.legislation.gov.uk/uksi/1999/1820) and the functions of the Minister transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998. The requirement to obtain the consent of the Treasury was removed by section 55 of the Scotland Act 1998.
 
-[^key-148e144a72c49ce68f85618c579038fc]: Textual amendment: Words in reg. 2(1) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/3/a/i)
+[^c-148e144a72c49ce68f85618c579038fc]: Textual amendment: Words in reg. 2(1) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/3/a/i)
 
-[^key-d5bff70dbee85e18e27d4170f5bfdac7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/174/regulation/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5bff70dbee85e18e27d4170f5bfdac7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/174/regulation/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18305501]: Marginal citation: [S.I. 1996/1686](https://www.legislation.gov.uk/uksi/1996/1686).
 
 [^c18305511]: Marginal citation: O.J. No. L 060, 28.2.98, p.78.
 
-[^key-e8a3e9e2cd7c50144a614070497aca01]: Textual amendment: Words in reg. 2 inserted (31.12.2011) by [The Cattle Identification (Scotland) Amendment Regulations2011 (S.S.I. 2011/412)](https://www.legislation.gov.uk/ssi/2011/412), [regs. 1](https://www.legislation.gov.uk/ssi/2011/412/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/412/regulation/2/2)
+[^c-e8a3e9e2cd7c50144a614070497aca01]: Textual amendment: Words in reg. 2 inserted (31.12.2011) by [The Cattle Identification (Scotland) Amendment Regulations2011 (S.S.I. 2011/412)](https://www.legislation.gov.uk/ssi/2011/412), [regs. 1](https://www.legislation.gov.uk/ssi/2011/412/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/412/regulation/2/2)
 
 [^c18305521]: Marginal citation: O.J. No. L 060, 9.3.99, p.53.
 
 [^c18305531]: Marginal citation: O.J. No. L 163, 30.4.2004, p.65; to which there are amendments not relevant to these Regulations.
 
-[^key-cd91bd9d2bcf91e625092183ac3f362a]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [31](https://www.legislation.gov.uk/ssi/2018/391/regulation/31)
+[^c-cd91bd9d2bcf91e625092183ac3f362a]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [31](https://www.legislation.gov.uk/ssi/2018/391/regulation/31)
 
 [^c18305541]: Marginal citation: O.J. No. L 107, 28.4.05, p.18.
 
@@ -788,118 +788,118 @@ A Regulatory Impact Assessment has not been produced for this instrument because
 
 [^c18305621]: Marginal citation: [S.I. 1984/2063](https://www.legislation.gov.uk/uksi/1984/2063), relevant amending instrument is [S.I. 1990/1908](https://www.legislation.gov.uk/uksi/1990/1908). Revoked by [S.S.I. 2005/434](https://www.legislation.gov.uk/ssi/2005/434).
 
-[^key-c37d64c69042004a54361224a3daf23f]: Textual amendment: Words in reg. 2(1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/3/a/ii)
+[^c-c37d64c69042004a54361224a3daf23f]: Textual amendment: Words in reg. 2(1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/3/a/ii)
 
-[^key-6d1f71d83cda9534827dc09243923daa]: Textual amendment: Word in reg. 2(3) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/3/b)
+[^c-6d1f71d83cda9534827dc09243923daa]: Textual amendment: Word in reg. 2(3) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/3/b)
 
 [^c18305641]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7); amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-d8a28408b00140d7df1332e1d57fc4b1]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2007/174/regulation/4/2) substituted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2007/312/regulation/3/a)
+[^c-d8a28408b00140d7df1332e1d57fc4b1]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/ssi/2007/174/regulation/4/2) substituted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2007/312/regulation/3/a)
 
-[^key-b3045f782e9f8c3fd5bd9b30de1aa078]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/ssi/2007/174/regulation/4/3) inserted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2007/312/regulation/3/b)
+[^c-b3045f782e9f8c3fd5bd9b30de1aa078]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/ssi/2007/174/regulation/4/3) inserted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2007/312/regulation/3/b)
 
 [^M_F_a857fd45-d915-4cf4-b1c4-bc22a4aff071]: Textual amendment: Word in reg. 10 substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-c63ccf07e47e02ad70db9b316a3d7d94]: Textual amendment: [Reg. 10(2)(j)(i)](https://www.legislation.gov.uk/ssi/2007/174/regulation/10/2/j/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c63ccf07e47e02ad70db9b316a3d7d94]: Textual amendment: [Reg. 10(2)(j)(i)](https://www.legislation.gov.uk/ssi/2007/174/regulation/10/2/j/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3a714e2d25f49789fc96f78b056cd30]: Textual amendment: Word in [reg. 10(2)(j)](https://www.legislation.gov.uk/ssi/2007/174/regulation/10/2/j) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3a714e2d25f49789fc96f78b056cd30]: Textual amendment: Word in [reg. 10(2)(j)](https://www.legislation.gov.uk/ssi/2007/174/regulation/10/2/j) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65f77d70047938b8a2a095babb1b7493]: Textual amendment: Word in [reg. 10(2)(j)(ii)](https://www.legislation.gov.uk/ssi/2007/174/regulation/10/2/j/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65f77d70047938b8a2a095babb1b7493]: Textual amendment: Word in [reg. 10(2)(j)(ii)](https://www.legislation.gov.uk/ssi/2007/174/regulation/10/2/j/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20eae2b6ddd774a9e40ddea03325d50c]: Textual amendment: Reg. 10A inserted (31.12.2011) by [The Cattle Identification (Scotland) Amendment Regulations2011 (S.S.I. 2011/412)](https://www.legislation.gov.uk/ssi/2011/412), [regs. 1](https://www.legislation.gov.uk/ssi/2011/412/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/412/regulation/2/3)
+[^c-20eae2b6ddd774a9e40ddea03325d50c]: Textual amendment: Reg. 10A inserted (31.12.2011) by [The Cattle Identification (Scotland) Amendment Regulations2011 (S.S.I. 2011/412)](https://www.legislation.gov.uk/ssi/2011/412), [regs. 1](https://www.legislation.gov.uk/ssi/2011/412/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2011/412/regulation/2/3)
 
-[^key-50e52cf5f0c80076f8829b59bf6f048f]: Textual amendment: Words in reg. 11 omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/4/a)
+[^c-50e52cf5f0c80076f8829b59bf6f048f]: Textual amendment: Words in reg. 11 omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/4/a)
 
-[^key-002656e33610f2b6d7512277b218cdde]: Textual amendment: Words in reg. 11 substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/4/b)
+[^c-002656e33610f2b6d7512277b218cdde]: Textual amendment: Words in reg. 11 substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/4/b)
 
 [^M_F_7950be5c-7234-46c3-eb4a-3242896341c3]: Textual amendment: Words in reg. 11 inserted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [4](https://www.legislation.gov.uk/ssi/2007/312/regulation/4)
 
 [^M_F_4a727c92-eff1-4057-806c-bea3935eeb10]: Textual amendment: Reg. 12 substituted (31.12.2011) by ([The Cattle Identification (Scotland) Amendment Regulations 2011 (S.S.I. 2011/412](https://www.legislation.gov.uk/ssi/2011/412)), regs. 1, 2(4)
 
-[^key-0dda791166c3ec4ca6932fb177405b2f]: Textual amendment: Words in reg. 12(1) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/133/regulation/5)
+[^c-0dda791166c3ec4ca6932fb177405b2f]: Textual amendment: Words in reg. 12(1) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [5](https://www.legislation.gov.uk/ssi/2017/133/regulation/5)
 
-[^key-ab7044725f1b1d10a1bd485ef58ed65d]: Textual amendment: Words in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/a)
+[^c-ab7044725f1b1d10a1bd485ef58ed65d]: Textual amendment: Words in [sch. 1 para. 1(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/a)
 
-[^key-8fc2b5da55b218c09b1400ed9910a375]: Textual amendment: Words in [sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(b)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/b/i)
+[^c-8fc2b5da55b218c09b1400ed9910a375]: Textual amendment: Words in [sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(b)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/b/i)
 
-[^key-962edff475fd9e139c2cb7256cb7b722]: Textual amendment: Word in [sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(b)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/b/ii)
+[^c-962edff475fd9e139c2cb7256cb7b722]: Textual amendment: Word in [sch. 1 para. 1(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(b)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/b/ii)
 
-[^key-cd31985e411b45b41937cfefec96420d]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/4) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/c)
+[^c-cd31985e411b45b41937cfefec96420d]: Textual amendment: [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/1/4) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/c)
 
-[^key-eff8f3631819d8d67a830f5f22b76a99]: Textual amendment: Word in [sch. 1 para. 2(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/2/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(d)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/d)
+[^c-eff8f3631819d8d67a830f5f22b76a99]: Textual amendment: Word in [sch. 1 para. 2(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/2/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(d)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/d)
 
-[^key-c1fc5911d8e077f1e8be8a503d43011c]: Textual amendment: [Sch. 1 para. 2(1A)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/2/1A) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(e)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/e)
+[^c-c1fc5911d8e077f1e8be8a503d43011c]: Textual amendment: [Sch. 1 para. 2(1A)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/2/1A) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(e)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/e)
 
-[^key-5fb89d86c323ffcb5871613403eb824a]: Textual amendment: Words in [sch. 1 para. 2(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/2/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(f)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/f)
+[^c-5fb89d86c323ffcb5871613403eb824a]: Textual amendment: Words in [sch. 1 para. 2(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/2/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(f)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/f)
 
-[^key-f9d17550964ab636075d8e9e6afbdfc1]: Textual amendment: Word in [sch. 1 para. 4(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/4/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(g)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/g)
+[^c-f9d17550964ab636075d8e9e6afbdfc1]: Textual amendment: Word in [sch. 1 para. 4(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/4/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(g)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/g)
 
-[^key-7ad481f141c0c308e499a50f666285bc]: Textual amendment: Words in sch. 1 para. 5(1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(h)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/h/i)
+[^c-7ad481f141c0c308e499a50f666285bc]: Textual amendment: Words in sch. 1 para. 5(1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(h)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/h/i)
 
-[^key-2742f0400c5b0617022d295c5ed0725e]: Textual amendment: Word in sch. 1 para. 5(1) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(h)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/h/ii)
+[^c-2742f0400c5b0617022d295c5ed0725e]: Textual amendment: Word in sch. 1 para. 5(1) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(h)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/h/ii)
 
-[^key-cc173d51431d19b0510a60a1f03a176e]: Textual amendment: Words in sch. 1 para. 5(3)(a)(ii) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/i)
+[^c-cc173d51431d19b0510a60a1f03a176e]: Textual amendment: Words in sch. 1 para. 5(3)(a)(ii) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/i)
 
-[^key-f3586259b5d8e59a55b84d0a8d3d6128]: Textual amendment: Words in [sch. 1 para. 5(4)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/5/4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3586259b5d8e59a55b84d0a8d3d6128]: Textual amendment: Words in [sch. 1 para. 5(4)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/5/4) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dcd9bd28dbac676b8bf572cc1e1b4d67]: Textual amendment: Word in [sch. 1 para. 5(4)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/5/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dcd9bd28dbac676b8bf572cc1e1b4d67]: Textual amendment: Word in [sch. 1 para. 5(4)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/5/4) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3be5310ad094e2f07a0e09606e20443a]: Textual amendment: Words in [sch. 1 para. 6(3)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/6/3) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(j)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/j)
+[^c-3be5310ad094e2f07a0e09606e20443a]: Textual amendment: Words in [sch. 1 para. 6(3)](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/6/3) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [6(j)](https://www.legislation.gov.uk/ssi/2017/133/regulation/6/j)
 
-[^key-1d1ab4d316c77639c4ba669a3e165a50]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/8) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d1ab4d316c77639c4ba669a3e165a50]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/8) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48c3ac0a1bec4ec165cb8883f82e2eea]: Textual amendment: Words in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/11) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48c3ac0a1bec4ec165cb8883f82e2eea]: Textual amendment: Words in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/11) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-479580e209ad00022312a8e2dc413cab]: Textual amendment: Word in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/11) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-479580e209ad00022312a8e2dc413cab]: Textual amendment: Word in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2007/174/schedule/1/paragraph/11) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(4)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/4/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dee69d97886bc77957aae14092c7e69e]: Textual amendment: Word in [sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/2/paragraph/1/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dee69d97886bc77957aae14092c7e69e]: Textual amendment: Word in [sch. 2 para. 1(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/2/paragraph/1/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64471f84d95dc767b5f5a70bec8f0c4e]: Textual amendment: Words in sch. 2 para. 2(2) inserted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [5](https://www.legislation.gov.uk/ssi/2007/312/regulation/5)
+[^c-64471f84d95dc767b5f5a70bec8f0c4e]: Textual amendment: Words in sch. 2 para. 2(2) inserted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [5](https://www.legislation.gov.uk/ssi/2007/312/regulation/5)
 
-[^key-ca8eaf66682d86de7dcb08b768cd0dc2]: Textual amendment: Sch. 2 para. 3 substituted (31.12.2011) by [The Cattle Identification (Scotland) Amendment Regulations2011 (S.S.I. 2011/412)](https://www.legislation.gov.uk/ssi/2011/412), [regs. 1](https://www.legislation.gov.uk/ssi/2011/412/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2011/412/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/412/regulation/3))
+[^c-ca8eaf66682d86de7dcb08b768cd0dc2]: Textual amendment: Sch. 2 para. 3 substituted (31.12.2011) by [The Cattle Identification (Scotland) Amendment Regulations2011 (S.S.I. 2011/412)](https://www.legislation.gov.uk/ssi/2011/412), [regs. 1](https://www.legislation.gov.uk/ssi/2011/412/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2011/412/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/412/regulation/3))
 
-[^key-49f9d8948c5ffefd89c3bc95297026f7]: Textual amendment: Words in sch. 2 para. 3(1)(b) omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/7/a/i)
+[^c-49f9d8948c5ffefd89c3bc95297026f7]: Textual amendment: Words in sch. 2 para. 3(1)(b) omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/7/a/i)
 
-[^key-52a4119b001cdb60e3c0cc1c13a229f6]: Textual amendment: Words in sch. 2 para. 3(2)(b)(ii) omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/7/a/ii)
+[^c-52a4119b001cdb60e3c0cc1c13a229f6]: Textual amendment: Words in sch. 2 para. 3(2)(b)(ii) omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/7/a/ii)
 
-[^key-9dab850c28ed3d984c7b4fab7babeacc]: Textual amendment: Words in sch. 2 para. 3(3)(b)(i) omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [7(a)(iii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/7/a/iii)
+[^c-9dab850c28ed3d984c7b4fab7babeacc]: Textual amendment: Words in sch. 2 para. 3(3)(b)(i) omitted (27.5.2017) by virtue of [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [7(a)(iii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/7/a/iii)
 
-[^key-b48b44c13bfb3f7f5f587db4400e1804]: Textual amendment: Word in [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2) heading omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b48b44c13bfb3f7f5f587db4400e1804]: Textual amendment: Word in [sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2) heading omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5687ef6e88dc2b16b0cacdeeefa04a47]: Textual amendment: Words in [sch. 3 para. 2(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/ii) (as inserted by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5687ef6e88dc2b16b0cacdeeefa04a47]: Textual amendment: Words in [sch. 3 para. 2(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/ii) (as inserted by [S.S.I. 2020/380](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7307cd8a9b15ff11d4fa25b8c83b95e1]: Textual amendment: Words in [sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7307cd8a9b15ff11d4fa25b8c83b95e1]: Textual amendment: Words in [sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fe0938c8e861138144902862e92531a]: Textual amendment: Word in [sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fe0938c8e861138144902862e92531a]: Textual amendment: Word in [sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/2/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/a/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0cc3d2f428feac1d9bf54da639a96f1]: Textual amendment: Words in [sch. 3 para. 3(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/3/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/a)
+[^c-f0cc3d2f428feac1d9bf54da639a96f1]: Textual amendment: Words in [sch. 3 para. 3(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/3/1) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/a)
 
-[^key-4a8fab0755cffff0d02b0d3d6c7ac0b2]: Textual amendment: [Sch. 3 para. 7(5)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/7/5) substituted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [6](https://www.legislation.gov.uk/ssi/2007/312/regulation/6)
+[^c-4a8fab0755cffff0d02b0d3d6c7ac0b2]: Textual amendment: [Sch. 3 para. 7(5)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/7/5) substituted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [6](https://www.legislation.gov.uk/ssi/2007/312/regulation/6)
 
-[^key-f8348bbb064657319a7d51561cd28b4e]: Textual amendment: Sch. 3 paras. 12, 13 substituted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [7](https://www.legislation.gov.uk/ssi/2007/312/regulation/7)
+[^c-f8348bbb064657319a7d51561cd28b4e]: Textual amendment: Sch. 3 paras. 12, 13 substituted (29.6.2007) by [The Cattle Identification (Scotland) Amendment Regulations 2007 (S.S.I. 2007/312)](https://www.legislation.gov.uk/ssi/2007/312), [regs. 1](https://www.legislation.gov.uk/ssi/2007/312/regulation/1), [7](https://www.legislation.gov.uk/ssi/2007/312/regulation/7)
 
-[^key-8015355afc539c8477a89ba3108b2098]: Textual amendment: Sch. 3 para. 14(2)(3) substituted for sch. 3 para. 14(2) (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/b)
+[^c-8015355afc539c8477a89ba3108b2098]: Textual amendment: Sch. 3 para. 14(2)(3) substituted for sch. 3 para. 14(2) (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/b)
 
-[^key-2e69320b551b93d99e2c4a77f4159f4c]: Textual amendment: Sch. 3 para. 15(2)(3) substituted for sch. 3 para. 15(2) (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(c)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/c)
+[^c-2e69320b551b93d99e2c4a77f4159f4c]: Textual amendment: Sch. 3 para. 15(2)(3) substituted for sch. 3 para. 15(2) (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(c)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/c)
 
-[^key-b459b116d55e223ad34ebf9dab3bf520]: Textual amendment: [Sch. 3 para. 16(1A)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/16/1A) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(d)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/d/i)
+[^c-b459b116d55e223ad34ebf9dab3bf520]: Textual amendment: [Sch. 3 para. 16(1A)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/16/1A) inserted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(d)(i)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/d/i)
 
-[^key-5bd46da5937e4a126a0c64def75feb3e]: Textual amendment: Word in [sch. 3 para. 16(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/16/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(d)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/d/ii)
+[^c-5bd46da5937e4a126a0c64def75feb3e]: Textual amendment: Word in [sch. 3 para. 16(2)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/16/2) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [8(d)(ii)](https://www.legislation.gov.uk/ssi/2017/133/regulation/8/d/ii)
 
-[^key-529bb7fa1f34fb021662331c961b141a]: Textual amendment: Words in [sch. 3 para. 17(1)(a)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/17/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-529bb7fa1f34fb021662331c961b141a]: Textual amendment: Words in [sch. 3 para. 17(1)(a)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/17/1/a) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(b)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-608a59ba1c36d6a286148ac838963ddd]: Textual amendment: Word in [sch. 3 para. 17(1)(a)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/17/1/a) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-608a59ba1c36d6a286148ac838963ddd]: Textual amendment: Word in [sch. 3 para. 17(1)(a)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/17/1/a) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c42932bbf5bd9e30be66079f80b3868]: Textual amendment: Words in [sch. 3 para. 18(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/18/1) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [8](https://www.legislation.gov.uk/ssi/2019/71/regulation/8)
+[^c-2c42932bbf5bd9e30be66079f80b3868]: Textual amendment: Words in [sch. 3 para. 18(1)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/18/1) omitted (28.3.2019) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/a), [8](https://www.legislation.gov.uk/ssi/2019/71/regulation/8)
 
-[^key-fb2f4bc4fad7b58ed2596ae38bc304fd]: Textual amendment: Words in [sch. 3 para. 19(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/19/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb2f4bc4fad7b58ed2596ae38bc304fd]: Textual amendment: Words in [sch. 3 para. 19(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/19/1/b) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(c)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1215b348397376a19c629398cebfd88]: Textual amendment: Word in [sch. 3 para. 19(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/19/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1215b348397376a19c629398cebfd88]: Textual amendment: Word in [sch. 3 para. 19(1)(b)](https://www.legislation.gov.uk/ssi/2007/174/schedule/3/paragraph/19/1/b) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [21(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/21/6/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3161a45b3e303dfae49408c8e9bb098]: Textual amendment: Sch. 4 para. 1(2)(ii) substituted for sch. 4 para. 1(2)(ii)(iii) (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/9/a)
+[^c-d3161a45b3e303dfae49408c8e9bb098]: Textual amendment: Sch. 4 para. 1(2)(ii) substituted for sch. 4 para. 1(2)(ii)(iii) (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2017/133/regulation/9/a)
 
-[^key-4b1763938b258e6b0cdf16b1c02d81d5]: Textual amendment: Word in sch. 4 para. 1(4)(a) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/9/b)
+[^c-4b1763938b258e6b0cdf16b1c02d81d5]: Textual amendment: Word in sch. 4 para. 1(4)(a) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/9/b)
 
-[^key-949c8b2224a79f317938fe88ec55ca61]: Textual amendment: Word in sch. 4 para. 1(4)(e) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/9/b)
+[^c-949c8b2224a79f317938fe88ec55ca61]: Textual amendment: Word in sch. 4 para. 1(4)(e) substituted (27.5.2017) by [The Cattle Identification (Scotland) Amendment Regulations 2017 (S.S.I. 2017/133)](https://www.legislation.gov.uk/ssi/2017/133), [regs. 1](https://www.legislation.gov.uk/ssi/2017/133/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2017/133/regulation/9/b)
 
 [^c18305661]: Marginal citation: [S.I. 1995/12](https://www.legislation.gov.uk/uksi/1995/12), relevant amending instruments are [S.I. 1996/1686](https://www.legislation.gov.uk/uksi/1996/1686), [S.I](https://www.legislation.gov.uk/uksi/1996/1686/section/I). 1997/1901 and [S.I. 1998/871](https://www.legislation.gov.uk/uksi/1998/871).

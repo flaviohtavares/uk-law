@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Statutory undertakers, etc.[^key-1bedc338fdad9423e08ceef3dd840368]
+## 45. Statutory undertakers, etc.[^c-1bedc338fdad9423e08ceef3dd840368]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 8 (provisions relating to statutory undertakers, etc.
 
 ## Annotations
 
-[^key-1bedc338fdad9423e08ceef3dd840368]: Commencement: Art. 45 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-1bedc338fdad9423e08ceef3dd840368]: Commencement: Art. 45 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

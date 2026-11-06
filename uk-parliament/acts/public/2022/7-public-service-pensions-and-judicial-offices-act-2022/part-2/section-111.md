@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Establishment of new public schemes and transfer of rights[^key-704d77738adf8811effc9f77cd394578]
+## 111. Establishment of new public schemes and transfer of rights[^c-704d77738adf8811effc9f77cd394578]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-704d77738adf8811effc9f77cd394578]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/7/section/111) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-704d77738adf8811effc9f77cd394578]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2022/7/section/111) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

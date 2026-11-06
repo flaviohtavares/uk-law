@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The supervisory authority must determine whether the additional measures taken under regulation 20(4) by a relevant parent undertaking which is an authorised person , a qualifying parent undertaking (as defined by section 192B of FSMA) or a non-authorised parent undertaking (as defined by section 143B of FSMA)[^key-87c848698985ff977b34799c04915c5c] are sufficient to handle the risk of money laundering and terrorist financing effectively.
+(1) The supervisory authority must determine whether the additional measures taken under regulation 20(4) by a relevant parent undertaking which is an authorised person , a qualifying parent undertaking (as defined by section 192B of FSMA) or a non-authorised parent undertaking (as defined by section 143B of FSMA)[^c-87c848698985ff977b34799c04915c5c] are sufficient to handle the risk of money laundering and terrorist financing effectively.
 
 (2) If the supervisory authority does not consider the measures referred to in paragraph (1) to be sufficient, it must consider whether to direct the relevant parent undertaking—
 
@@ -81,7 +81,7 @@ it must give A notice in writing.
 
 (13) If a notice informs A of A's right to refer a matter to the appropriate tribunal, it must give an indication of the procedure on such a reference.
 
-(13A)[^key-dbd979292cd87138d0c44b8a712c2e38] The supervisory authority may, if it considers it proportionate to do so, publish such information about a direction given under paragraph (2) as the authority considers appropriate.
+(13A)[^c-dbd979292cd87138d0c44b8a712c2e38] The supervisory authority may, if it considers it proportionate to do so, publish such information about a direction given under paragraph (2) as the authority considers appropriate.
 
 (13B) Where the supervisory authority publishes such information and the supervisory authority decides to rescind the direction to which the notice relates, the supervisory authority must, without delay, publish that fact in the same manner as that in which the information was published under paragraph (13A).
 
@@ -96,6 +96,6 @@ it must give A notice in writing.
 
 ## Annotations
 
-[^key-87c848698985ff977b34799c04915c5c]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/25/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [21(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/21/3)
+[^c-87c848698985ff977b34799c04915c5c]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/25/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [21(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/21/3)
 
-[^key-dbd979292cd87138d0c44b8a712c2e38]: Textual amendment: Reg. 25(13A)-(13C) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/12)
+[^c-dbd979292cd87138d0c44b8a712c2e38]: Textual amendment: Reg. 25(13A)-(13C) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/12)

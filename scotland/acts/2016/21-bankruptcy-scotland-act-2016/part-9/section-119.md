@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Public examination[^key-bac4076d35d3431c16df2f178042b9ff]
+## 119. Public examination[^c-bac4076d35d3431c16df2f178042b9ff]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ or both to such fine and to such imprisonment.
 
 ## Annotations
 
-[^key-bac4076d35d3431c16df2f178042b9ff]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2016/21/section/119) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-bac4076d35d3431c16df2f178042b9ff]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2016/21/section/119) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

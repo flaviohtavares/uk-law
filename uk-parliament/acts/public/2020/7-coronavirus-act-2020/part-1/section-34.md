@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Temporary disapplication of disclosure offences: Scotland[^key-a622c6b1077de7aaf0ef881931f375c6]
+## 34. Temporary disapplication of disclosure offences: Scotland[^c-a622c6b1077de7aaf0ef881931f375c6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a622c6b1077de7aaf0ef881931f375c6]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/2020/7/section/34) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-a622c6b1077de7aaf0ef881931f375c6]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/2020/7/section/34) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

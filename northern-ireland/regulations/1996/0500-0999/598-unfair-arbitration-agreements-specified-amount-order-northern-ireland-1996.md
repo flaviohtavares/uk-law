@@ -30,7 +30,7 @@ summary: ''
 
 ARBITRATION
 
-Unfair Arbitration Agreements (Specified Amount) Order (Northern Ireland) 1996 (revoked)[^key-94d210d260e517ee970000cfddad50ab]
+Unfair Arbitration Agreements (Specified Amount) Order (Northern Ireland) 1996 (revoked)[^c-94d210d260e517ee970000cfddad50ab]
 
 Made
 
@@ -40,20 +40,20 @@ Coming into operation
 
 31st January 1997
 
-[^key-94d210d260e517ee970000cfddad50ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94d210d260e517ee970000cfddad50ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-94d210d260e517ee970000cfddad50ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-94d210d260e517ee970000cfddad50ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-94d210d260e517ee970000cfddad50ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-94d210d260e517ee970000cfddad50ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94d210d260e517ee970000cfddad50ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94d210d260e517ee970000cfddad50ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-94d210d260e517ee970000cfddad50ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94d210d260e517ee970000cfddad50ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94d210d260e517ee970000cfddad50ab]: Textual amendment: Order revoked (1.6.2005) by [Unfair Arbitration Agreements (Specified Amount) Order (Northern Ireland) 2005 (S.R. 2005/219)](https://www.legislation.gov.uk/nisr/2005/219), [arts. 1](https://www.legislation.gov.uk/nisr/2005/219/article/1), [2(1)](https://www.legislation.gov.uk/nisr/2005/219/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2005/219/article/2/2))
+[^c-94d210d260e517ee970000cfddad50ab]: Textual amendment: Order revoked (1.6.2005) by [Unfair Arbitration Agreements (Specified Amount) Order (Northern Ireland) 2005 (S.R. 2005/219)](https://www.legislation.gov.uk/nisr/2005/219), [arts. 1](https://www.legislation.gov.uk/nisr/2005/219/article/1), [2(1)](https://www.legislation.gov.uk/nisr/2005/219/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2005/219/article/2/2))

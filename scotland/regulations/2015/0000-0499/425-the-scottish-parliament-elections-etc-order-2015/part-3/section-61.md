@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Right to send election address post free[^key-6a49e9a7f53deb8f6f66137472043f14]
+## 61. Right to send election address post free[^c-6a49e9a7f53deb8f6f66137472043f14]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ or alternatively one unaddressed such communication may be sent to each place wh
 
 ## Annotations
 
-[^key-6a49e9a7f53deb8f6f66137472043f14]: Commencement: Art. 61 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6a49e9a7f53deb8f6f66137472043f14]: Commencement: Art. 61 in force at 16.12.2015 in accordance with art. 1(1)

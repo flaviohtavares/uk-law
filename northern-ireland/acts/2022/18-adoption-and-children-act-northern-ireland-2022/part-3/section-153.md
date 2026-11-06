@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 153. Research and investigations[^key-2f7cd60c5c79d23dc97315b83d2a1556]
+## 153. Research and investigations[^c-2f7cd60c5c79d23dc97315b83d2a1556]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Department may conduct or promote or assist (by grants or otherwise) any per
 
 ## Annotations
 
-[^key-2f7cd60c5c79d23dc97315b83d2a1556]: Commencement: S. 153 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2f7cd60c5c79d23dc97315b83d2a1556]: Commencement: S. 153 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

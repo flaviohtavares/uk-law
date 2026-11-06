@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Students becoming eligible during the course of an academic year[^key-888acbc675f24a97992746cf7a3de806]
+## 14. Students becoming eligible during the course of an academic year[^c-888acbc675f24a97992746cf7a3de806]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where any of the events listed in regulation 15 occurs in the course of an acade
 
 ## Annotations
 
-[^key-888acbc675f24a97992746cf7a3de806]: Commencement: Reg. 14 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-888acbc675f24a97992746cf7a3de806]: Commencement: Reg. 14 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

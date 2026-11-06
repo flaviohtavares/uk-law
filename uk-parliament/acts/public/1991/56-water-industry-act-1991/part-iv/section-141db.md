@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141DB. Monitoring quality of water potentially affected by discharges from storm overflows and sewage disposal works[^key-9249b75390dc65b5288e519108ec7f0b][^key-eae41505e805d44977b06719313e1b02]
+## 141DB. Monitoring quality of water potentially affected by discharges from storm overflows and sewage disposal works[^c-9249b75390dc65b5288e519108ec7f0b][^c-eae41505e805d44977b06719313e1b02]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ where the storm overflow or works discharge into a watercourse.
 
 ## Annotations
 
-[^key-9249b75390dc65b5288e519108ec7f0b]: Textual amendment: S. 141DB inserted (3.11.2023 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/1), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/a/i)
+[^c-9249b75390dc65b5288e519108ec7f0b]: Textual amendment: S. 141DB inserted (3.11.2023 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 82(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/82/1), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/a/i)
 
-[^key-eae41505e805d44977b06719313e1b02]: Textual amendment: Pt. 4 Ch. 4 inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/80/1), [147(2)(j)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/j) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-eae41505e805d44977b06719313e1b02]: Textual amendment: Pt. 4 Ch. 4 inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 80(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/80/1), [147(2)(j)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/j) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))

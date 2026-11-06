@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41B. CO<sub>2 </sub>offsetting requirements[^key-09437ac2a01f76027183111711170db4]
+## 41B. CO<sub>2 </sub>offsetting requirements[^c-09437ac2a01f76027183111711170db4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ where—
 
 ## Annotations
 
-[^key-09437ac2a01f76027183111711170db4]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2021/534/part/3A) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [22](https://www.legislation.gov.uk/uksi/2022/1050/article/22)
+[^c-09437ac2a01f76027183111711170db4]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2021/534/part/3A) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [22](https://www.legislation.gov.uk/uksi/2022/1050/article/22)

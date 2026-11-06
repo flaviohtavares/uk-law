@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Information sharing[^key-ae6cb4f2b3b6f4e74f464e03674cf804][^key-a97adbbe1d67a94d245b0c26ab13c1b4]
+## 109. Information sharing[^c-ae6cb4f2b3b6f4e74f464e03674cf804][^c-a97adbbe1d67a94d245b0c26ab13c1b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae6cb4f2b3b6f4e74f464e03674cf804]: Commencement: S. 109 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ae6cb4f2b3b6f4e74f464e03674cf804]: Commencement: S. 109 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a97adbbe1d67a94d245b0c26ab13c1b4]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2024/13/section/109) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-a97adbbe1d67a94d245b0c26ab13c1b4]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2024/13/section/109) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

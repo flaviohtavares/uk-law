@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 161A. Imminent danger to trees: entry to affix copy of tree preservation order[^key-7720a48f56af9e82dd619fa70ddc2b93]
+## 161A. Imminent danger to trees: entry to affix copy of tree preservation order[^c-7720a48f56af9e82dd619fa70ddc2b93]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ may be in imminent danger of being cut down, topped, lopped, uprooted, wilfully 
 
 ## Annotations
 
-[^key-7720a48f56af9e82dd619fa70ddc2b93]: Textual amendment: [S. 161A](https://www.legislation.gov.uk/ukpga/1997/8/section/161A) inserted (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(4)](https://www.legislation.gov.uk/asp/2006/17/section/28/4), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-7720a48f56af9e82dd619fa70ddc2b93]: Textual amendment: [S. 161A](https://www.legislation.gov.uk/ukpga/1997/8/section/161A) inserted (1.2.2011) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 28(4)](https://www.legislation.gov.uk/asp/2006/17/section/28/4), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)

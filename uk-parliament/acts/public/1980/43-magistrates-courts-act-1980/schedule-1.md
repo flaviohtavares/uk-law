@@ -69,7 +69,7 @@ Section 17.
 
 **15.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c18264581]
 
-**16.**[^key-a4f5e89cfae6db83a3e22240ee77c73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a4f5e89cfae6db83a3e22240ee77c73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c18264601]
 
@@ -157,7 +157,7 @@ where the offence to which they relate is triable either way.
 
 [^c18264581]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1980/43/schedule/1/paragraph/15) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1/part/I)
 
-[^key-a4f5e89cfae6db83a3e22240ee77c73d]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1980/43/schedule/1/paragraph/16) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(8)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/8) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-a4f5e89cfae6db83a3e22240ee77c73d]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1980/43/schedule/1/paragraph/16) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(8)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/8) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c18264601]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/1980/43/schedule/1/paragraph/17) repealed by [Wages Act 1986 (c. 48, SIF 43:2)](https://www.legislation.gov.uk/ukpga/1986/48), [s. 32(2)](https://www.legislation.gov.uk/ukpga/1986/48/section/32/2), [Sch. 5 Pt. III](https://www.legislation.gov.uk/ukpga/1986/48/schedule/5/part/III)
 

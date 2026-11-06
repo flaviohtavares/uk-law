@@ -48,57 +48,57 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-deaa9ba53fc0a25a40619e97d05d6155]
+### 1. Citation and commencement[^c-deaa9ba53fc0a25a40619e97d05d6155]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2020 and come into force on 1 April 2020.
 
-## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 **No longer in force.**
 
-### 2.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 2.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Uprating[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 3. Uprating[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 4.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 5.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 6.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 7.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 8.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9.[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 9.[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Disregard of historical child abuse in care discretionary payments[^key-5ee8ab40cf1954d2662d6312ee7658a8]
+### 10. Disregard of historical child abuse in care discretionary payments[^c-5ee8ab40cf1954d2662d6312ee7658a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 
-### 11.[^key-4ddd302c45b92f389c51a2e00ae65c1e]
+### 11.[^c-4ddd302c45b92f389c51a2e00ae65c1e]
 
 The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 [^c23976631] are amended in accordance with regulations 12 to 15.
 
-### 12. Uprating[^key-246cabc2584ef4d29b8e5e590cc547f3]
+### 12. Uprating[^c-246cabc2584ef4d29b8e5e590cc547f3]
 
 In regulation 20 (applicable amount) [^c23976641], omit the “and” after paragraph (b) and after paragraph (d) insert—
 
@@ -108,7 +108,7 @@ In regulation 20 (applicable amount) [^c23976641], omit the “and” after para
 
 .
 
-### 13.[^key-e5d0b55c2ac1521963a9574e8b3fa011]
+### 13.[^c-e5d0b55c2ac1521963a9574e8b3fa011]
 
 In regulation 48 (non-dependant deductions) [^c23976661]—
 
@@ -126,7 +126,7 @@ In regulation 48 (non-dependant deductions) [^c23976661]—
     - (bb) “£451.00” substitute “£458.00”, and
     - (cc) “£10.50” substitute “£10.70”.
 
-### 14.[^key-33c9302ceee8d9b0be4332f10a518fd3]
+### 14.[^c-33c9302ceee8d9b0be4332f10a518fd3]
 
 In schedule 1 (applicable amount) [^c23976671]—
 
@@ -143,7 +143,7 @@ In schedule 1 (applicable amount) [^c23976671]—
   - (iv) in entry (3) for “£64.19” substitute “ £65.52 ”, and
   - (v) in entry (4) for “£36.85” substitute “ £37.50 ”.
 
-### 15.[^key-cc0ac8e8c5979ee5b33efd3b8f1089b3]
+### 15.[^c-cc0ac8e8c5979ee5b33efd3b8f1089b3]
 
 In schedule 5 (amount of alternative maximum council tax reduction), in the table in paragraph 1—
 
@@ -178,26 +178,26 @@ Regulations 12 to 15 uprate in a similar way figures used to calculate the amoun
 
 [^c23976531]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 and paragraph 1 of schedule 2 were amended by paragraph 176 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and amendments to section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-deaa9ba53fc0a25a40619e97d05d6155]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
+[^c-deaa9ba53fc0a25a40619e97d05d6155]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
 
-[^key-5ee8ab40cf1954d2662d6312ee7658a8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2020/25/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-5ee8ab40cf1954d2662d6312ee7658a8]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2020/25/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-4ddd302c45b92f389c51a2e00ae65c1e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/25/regulation/11) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
+[^c-4ddd302c45b92f389c51a2e00ae65c1e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/25/regulation/11) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
 
 [^c23976631]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2016/253](https://www.legislation.gov.uk/ssi/2016/253), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69) and [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29).
 
-[^key-246cabc2584ef4d29b8e5e590cc547f3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/25/regulation/12) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
+[^c-246cabc2584ef4d29b8e5e590cc547f3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/25/regulation/12) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
 
 [^c23976641]: Marginal citation: [Regulation 20](https://www.legislation.gov.uk/ssi/2020/25/regulation/20) was amended by [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81).
 
 [^c23976651]: Marginal citation: [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81),
 
-[^key-e5d0b55c2ac1521963a9574e8b3fa011]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/25/regulation/13) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
+[^c-e5d0b55c2ac1521963a9574e8b3fa011]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/25/regulation/13) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
 
 [^c23976661]: Marginal citation: [Regulation 48](https://www.legislation.gov.uk/ssi/2020/25/regulation/48) was relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69) and [S.S.I. 2019/29](https://www.legislation.gov.uk/ssi/2019/29).
 
-[^key-33c9302ceee8d9b0be4332f10a518fd3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/25/regulation/14) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
+[^c-33c9302ceee8d9b0be4332f10a518fd3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/25/regulation/14) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
 
 [^c23976671]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/ssi/2020/25/schedule/1) was relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2016/253](https://www.legislation.gov.uk/ssi/2016/253), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69) and 2019/29.
 
-[^key-cc0ac8e8c5979ee5b33efd3b8f1089b3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/25/regulation/15) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)
+[^c-cc0ac8e8c5979ee5b33efd3b8f1089b3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/25/regulation/15) in force at 1.4.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/25/regulation/1)

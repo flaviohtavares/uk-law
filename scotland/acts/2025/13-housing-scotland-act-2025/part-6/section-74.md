@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Disclosure of information to new homes ombudsman[^key-0a19287c0f275f1717857f07b291a152]
+## 74. Disclosure of information to new homes ombudsman[^c-0a19287c0f275f1717857f07b291a152]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a19287c0f275f1717857f07b291a152]: Commencement: S. 74 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-0a19287c0f275f1717857f07b291a152]: Commencement: S. 74 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

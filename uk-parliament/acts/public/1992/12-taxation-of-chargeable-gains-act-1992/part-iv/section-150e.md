@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150E. Seed enterprise investment scheme[^key-5e8400481c7b0e40fbd06e1f3135fb74]
+## 150E. Seed enterprise investment scheme[^c-5e8400481c7b0e40fbd06e1f3135fb74]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,4 +104,4 @@ and that Part applies to determine whether SEIS relief is attributable to any sh
 
 ## Annotations
 
-[^key-5e8400481c7b0e40fbd06e1f3135fb74]: Textual amendment: Ss. 150E, 150F inserted (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/3)
+[^c-5e8400481c7b0e40fbd06e1f3135fb74]: Textual amendment: Ss. 150E, 150F inserted (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/3)

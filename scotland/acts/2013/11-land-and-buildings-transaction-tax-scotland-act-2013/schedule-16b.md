@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 16B — RELIEF FOR PROPERTY ACCEPTED IN SATISFACTION OF TAX[^key-7e5ebba50c8498d8259df1874f3969f9]
+## SCHEDULE 16B — RELIEF FOR PROPERTY ACCEPTED IN SATISFACTION OF TAX[^c-7e5ebba50c8498d8259df1874f3969f9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e5ebba50c8498d8259df1874f3969f9]: Textual amendment: Schs. 16A-16C inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Addition and Modification of Reliefs) (Scotland) Order 2015 (S.S.I. 2015/93)](https://www.legislation.gov.uk/ssi/2015/93) , [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/93/article/1/2) , [2(6)](https://www.legislation.gov.uk/ssi/2015/93/article/2/6)
+[^c-7e5ebba50c8498d8259df1874f3969f9]: Textual amendment: Schs. 16A-16C inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Addition and Modification of Reliefs) (Scotland) Order 2015 (S.S.I. 2015/93)](https://www.legislation.gov.uk/ssi/2015/93) , [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/93/article/1/2) , [2(6)](https://www.legislation.gov.uk/ssi/2015/93/article/2/6)

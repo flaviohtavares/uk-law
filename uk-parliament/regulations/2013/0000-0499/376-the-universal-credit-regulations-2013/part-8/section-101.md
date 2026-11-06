@@ -26,10 +26,10 @@ summary: ''
 
 (3) If the reduction period calculated in relation to a sanctionable failure in accordance with regulations 102 to 105 would result in the total outstanding reduction period exceeding 1095 days, the reduction period in relation to that failure is to be adjusted so that the total outstanding reduction period does not exceed 1095 days.
 
-(4)[^key-051d7bdcad97e0c45daea8603352e266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-051d7bdcad97e0c45daea8603352e266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph (3) “the total outstanding reduction period” is the total number of days for which no reduction in an award under section 26 or 27 of the Act has yet been applied.
 
 ## Annotations
 
-[^key-051d7bdcad97e0c45daea8603352e266]: Textual amendment: [Reg. 101(4)](https://www.legislation.gov.uk/uksi/2013/376/regulation/101/4) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/6)
+[^c-051d7bdcad97e0c45daea8603352e266]: Textual amendment: [Reg. 101(4)](https://www.legislation.gov.uk/uksi/2013/376/regulation/101/4) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/6)

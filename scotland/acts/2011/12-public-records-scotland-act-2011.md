@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Records management plans
 
-### 1. Records management plans[^key-4c0347336709748b04d5be47a0c2bb9b][^key-bea03cde464cf1e5e30200639aad037b][^key-7d77283f4112134c4be3bc9d020b794a]
+### 1. Records management plans[^c-4c0347336709748b04d5be47a0c2bb9b][^c-bea03cde464cf1e5e30200639aad037b][^c-7d77283f4112134c4be3bc9d020b794a]
 
 (1) Every authority to which this Part applies must—
 
@@ -56,11 +56,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) An authority's records management plan may make different provision for the management of different kinds of public records (taking account, for example, of the different levels of risk associated with the management of different kinds of records).
 
-(4)[^key-7a8a99e94ed3d0550144410fd2a0a984] The Keeper must issue guidance to authorities about the form and content of records management plans.
+(4)[^c-7a8a99e94ed3d0550144410fd2a0a984] The Keeper must issue guidance to authorities about the form and content of records management plans.
 
-(5)[^key-7a8a99e94ed3d0550144410fd2a0a984] The Keeper may issue different guidance under subsection (4) in relation to different authorities.
+(5)[^c-7a8a99e94ed3d0550144410fd2a0a984] The Keeper may issue different guidance under subsection (4) in relation to different authorities.
 
-(6)[^key-7a8a99e94ed3d0550144410fd2a0a984] Before issuing guidance under subsection (4), the Keeper must—
+(6)[^c-7a8a99e94ed3d0550144410fd2a0a984] Before issuing guidance under subsection (4), the Keeper must—
 
 - (a) consult the following on a draft of the guidance, namely—
   - (i) such authorities as the Keeper considers will be affected by the guidance, and
@@ -83,7 +83,7 @@ have separate records management plans for public records relating to separate f
 
 have a common records management plan for both or, as the case may be, all of the authorities in the group.
 
-### 2. Authorities to which Part 1 applies[^key-a4b659b7a7826f5a4f157255ea272a66]
+### 2. Authorities to which Part 1 applies[^c-a4b659b7a7826f5a4f157255ea272a66]
 
 (1) The authorities to which this Part applies are the bodies, office-holders and other persons listed, or of a description listed, in the schedule.
 
@@ -124,7 +124,7 @@ have a common records management plan for both or, as the case may be, all of th
 
 (8) An order under subsection (2) is not to be made unless a draft of the statutory instrument containing the order has been laid before and approved by resolution of the Scottish Parliament.
 
-### 3. Meaning of “public records”[^key-17dec9be9aacccffda3123ebc549b685]
+### 3. Meaning of “public records”[^c-17dec9be9aacccffda3123ebc549b685]
 
 (1) In this Act, “**public records**”, in relation to an authority, means—
 
@@ -134,7 +134,7 @@ have a common records management plan for both or, as the case may be, all of th
 
 (2) In subsection (1) “**contractor**”, in relation to an authority, means a person to whom functions of the authority are delegated (whether under a contract or otherwise) by the authority.
 
-### 4. Agreement of plans[^key-bacc54d7a3a0eea13a2137ec3bf9abf8]
+### 4. Agreement of plans[^c-bacc54d7a3a0eea13a2137ec3bf9abf8]
 
 (1) An authority must submit its proposed records management plan to the Keeper for agreement by such date as the Keeper may determine.
 
@@ -173,7 +173,7 @@ have a common records management plan for both or, as the case may be, all of th
 
 (9) The Keeper may make different determinations under this section for different authorities or different descriptions of authorities.
 
-### 5. Review of plans[^key-99b1f807fbdd5c0ddc41114c1da2d0b3]
+### 5. Review of plans[^c-99b1f807fbdd5c0ddc41114c1da2d0b3]
 
 (1) An authority must—
 
@@ -211,7 +211,7 @@ the Keeper must determine a new review date and inform the authority of the new 
 
 (8) The Keeper may make different determinations under this section for different authorities or different descriptions of authorities.
 
-### 6. Records management reviews[^key-0a4fb57bbb61dade70baa06ad2831a12]
+### 6. Records management reviews[^c-0a4fb57bbb61dade70baa06ad2831a12]
 
 (1) The Keeper may carry out a review (a “records management review”) of whether an authority is complying with its records management plan.
 
@@ -231,7 +231,7 @@ the Keeper must determine a new review date and inform the authority of the new 
 - (a) a particular authority, or
 - (b) a group of authorities.
 
-### 7. Action notices[^key-d0fcc30791dc1be42ae91f6cb98bc02a]
+### 7. Action notices[^c-d0fcc30791dc1be42ae91f6cb98bc02a]
 
 (1) This section applies where the Keeper considers that an authority—
 
@@ -257,29 +257,29 @@ the Keeper must determine a new review date and inform the authority of the new 
 
 ### 8. Model records management plan
 
-(1)[^key-770efab2951694ee28b562c6d33cb974] The Keeper must prepare and publish a model records management plan.
+(1)[^c-770efab2951694ee28b562c6d33cb974] The Keeper must prepare and publish a model records management plan.
 
-(2)[^key-770efab2951694ee28b562c6d33cb974] Before publishing the model records management plan under subsection (1), the Keeper must—
+(2)[^c-770efab2951694ee28b562c6d33cb974] Before publishing the model records management plan under subsection (1), the Keeper must—
 
 - (a) consult the following on a draft of the plan, namely—
   - (i) each authority, and
   - (ii) such other persons (if any) as the Keeper considers appropriate, and
 - (b) have regard to any views expressed in response to the consultation.
 
-(3)[^key-e63cf82f774f6b2feb8fadbb3de05a38] Authorities must, in preparing and revising their records management plans for the Keeper's agreement, have regard to the model records management plan published under this section.
+(3)[^c-e63cf82f774f6b2feb8fadbb3de05a38] Authorities must, in preparing and revising their records management plans for the Keeper's agreement, have regard to the model records management plan published under this section.
 
-(4)[^key-e63cf82f774f6b2feb8fadbb3de05a38] The Keeper must keep the model records management plan under review and may revise it and publish the revised model plan.
+(4)[^c-e63cf82f774f6b2feb8fadbb3de05a38] The Keeper must keep the model records management plan under review and may revise it and publish the revised model plan.
 
-(5)[^key-e63cf82f774f6b2feb8fadbb3de05a38] Before publishing a revised model plan under subsection (4), the Keeper must—
+(5)[^c-e63cf82f774f6b2feb8fadbb3de05a38] Before publishing a revised model plan under subsection (4), the Keeper must—
 
 - (a) consult the following on a draft of the plan, namely—
   - (i) such authorities as the Keeper considers will be affected by the revisals to the plan, and
   - (ii) such other persons (if any) as the Keeper considers appropriate, and
 - (b) have regard to any views expressed in response to the consultation.
 
-(6)[^key-e63cf82f774f6b2feb8fadbb3de05a38] References in this Part to the model records management plan include references to a revised model records management plan.
+(6)[^c-e63cf82f774f6b2feb8fadbb3de05a38] References in this Part to the model records management plan include references to a revised model records management plan.
 
-### 9. Guidance[^key-5b84b01c90682a7a017fb1e5ae7204f0]
+### 9. Guidance[^c-5b84b01c90682a7a017fb1e5ae7204f0]
 
 (1) The Keeper may issue guidance to authorities about their duties under this Part.
 
@@ -294,7 +294,7 @@ the Keeper must determine a new review date and inform the authority of the new 
 
 (4) Authorities must have regard to any guidance issued by the Keeper under subsection (1).
 
-### 10. Application of Part 1 in relation to sheriff court records and JP court records[^key-767e8280642e0396c6427f128575afdc]
+### 10. Application of Part 1 in relation to sheriff court records and JP court records[^c-767e8280642e0396c6427f128575afdc]
 
 (1) This section applies in relation to the public records of a sheriff court or a justice of the peace court.
 
@@ -302,14 +302,14 @@ the Keeper must determine a new review date and inform the authority of the new 
 
 (3) Accordingly, in relation to such public records, a reference in this Part to an authority (other than in section 3) is to be read as a reference to the Sheriff Principal.
 
-### 11. No right of action for failures to comply[^key-b84b2b75f716eb20c7362c767b2b9827]
+### 11. No right of action for failures to comply[^c-b84b2b75f716eb20c7362c767b2b9827]
 
 This Part does not confer any right of action in civil proceedings in respect of any failure by an authority—
 
 - (a) to comply with its records management plan, or
 - (b) otherwise to comply with any duty imposed on the authority by or under this Part.
 
-### 12. Annual report[^key-3b22e8cf0566bb7b37edc2914803c1b7]
+### 12. Annual report[^c-3b22e8cf0566bb7b37edc2914803c1b7]
 
 (1) The Keeper must, after the end of each financial year—
 
@@ -335,7 +335,7 @@ This Part does not confer any right of action in civil proceedings in respect of
 
 (6) The Keeper must, as soon as practicable after the report has been laid before the Parliament, publish the report in such manner as the Keeper considers appropriate.
 
-### 13. Interpretation of Part 1[^key-e0d5a4c189c45854b446571152a74516]
+### 13. Interpretation of Part 1[^c-e0d5a4c189c45854b446571152a74516]
 
 (1) In this Part—
 
@@ -350,7 +350,7 @@ This Part does not confer any right of action in civil proceedings in respect of
 
 (2) Except where the context requires otherwise, references in this Part to an authority's records management plan include references to the plan as revised from time to time.
 
-### 14. Repeals[^key-4fef9e34fdad5bec074a6705ed816c28]
+### 14. Repeals[^c-4fef9e34fdad5bec074a6705ed816c28]
 
 The following are repealed—
 
@@ -362,7 +362,7 @@ The following are repealed—
 
 ## Part 2 — Transmission of court records
 
-### 15. Transmission of court records[^key-d324d5e16fc65b953162e5bc6db8e9b2]
+### 15. Transmission of court records[^c-d324d5e16fc65b953162e5bc6db8e9b2]
 
 (1) The Public Records (Scotland) Act 1937 (c.43) is amended as follows.
 
@@ -404,7 +404,7 @@ The following are repealed—
 
 This Act may be cited as the Public Records (Scotland) Act 2011.
 
-## SCHEDULE — AUTHORITIES TO WHICH PART 1 APPLIES[^key-45248bb4bec5808863da1de0b29e0b4e]
+## SCHEDULE — AUTHORITIES TO WHICH PART 1 APPLIES[^c-45248bb4bec5808863da1de0b29e0b4e]
 
 (introduced by section 2(1))
 
@@ -420,15 +420,15 @@ This Act may be cited as the Public Records (Scotland) Act 2011.
 - Accountant in Bankruptcy
 - Chief Dental Officer of the Scottish Administration
 - Chief Medical Officer of the Scottish Administration
-- Consumer Scotland[^key-0176803e6b1efa76ee04d37514cd40ea]
+- Consumer Scotland[^c-0176803e6b1efa76ee04d37514cd40ea]
 - Drinking Water Quality Regulator for Scotland
-- Environmental Standards Scotland[^key-5801f8a47f740de1e9e46e51fd109ae0]
-- Food Standards Scotland[^key-3274e78668ef2f85442963ab5e57830c]
-- Her Majesty’s Chief Inspector of Constabulary and Her Majesty’s Inspectors of Constabulary (appointed under section 71 of the Police and Fire Reform (Scotland) Act[^key-51319fe8c4c63282830c8dca8fa171dd] [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8))
-- Her Majesty's Chief Inspector of the Scottish Fire and Rescue Service, Her Majesty's Inspectors of the Scottish Fire and Rescue Service and Assistant Inspectors of the Scottish Fire and Rescue Service appointed under section 43A of the Fire (Scotland) Act 2005 (asp 5)[^key-3f5ad720be84abdc884950722a46c6e6]
+- Environmental Standards Scotland[^c-5801f8a47f740de1e9e46e51fd109ae0]
+- Food Standards Scotland[^c-3274e78668ef2f85442963ab5e57830c]
+- Her Majesty’s Chief Inspector of Constabulary and Her Majesty’s Inspectors of Constabulary (appointed under section 71 of the Police and Fire Reform (Scotland) Act[^c-51319fe8c4c63282830c8dca8fa171dd] [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8))
+- Her Majesty's Chief Inspector of the Scottish Fire and Rescue Service, Her Majesty's Inspectors of the Scottish Fire and Rescue Service and Assistant Inspectors of the Scottish Fire and Rescue Service appointed under section 43A of the Fire (Scotland) Act 2005 (asp 5)[^c-3f5ad720be84abdc884950722a46c6e6]
 - Her Majesty's Chief Inspector of Prisons for Scotland
 - Her Majesty's Inspector of Anatomy for Scotland
-- His Majesty’s Chief Inspector of Education in Scotland[^key-afeae3742f82f5fb6264106f4006b15b]
+- His Majesty’s Chief Inspector of Education in Scotland[^c-afeae3742f82f5fb6264106f4006b15b]
 - Keeper of the Records of Scotland
 - Keeper of the Registers of Scotland
 - Office of the Scottish Charity Regulator
@@ -436,15 +436,15 @@ This Act may be cited as the Public Records (Scotland) Act 2011.
 - Queen's and Lord Treasurer's Remembrancer
 - Queen's Printer for Scotland
 - Registrar General of Births, Deaths and Marriages for Scotland
-- Revenue Scotland[^key-babe2ab38ddb249aa587d4067123b44d]
-- Scottish Courts and Tribunals Service[^key-4f714ebf62bd38ec54c3a357d72284a5]
-- Scottish Fiscal Commission[^key-1541affb11284aacef9b379c1cacc12c]
+- Revenue Scotland[^c-babe2ab38ddb249aa587d4067123b44d]
+- Scottish Courts and Tribunals Service[^c-4f714ebf62bd38ec54c3a357d72284a5]
+- Scottish Fiscal Commission[^c-1541affb11284aacef9b379c1cacc12c]
 - Scottish Housing Regulator
 
 ### Others
 
 - Accounts Commission for Scotland
-- [^key-f28b8859fec85cc17e3ea6d9c446d636]...
+- [^c-f28b8859fec85cc17e3ea6d9c446d636]...
 - Architecture and Design Scotland
 - Audit Scotland
 - Auditor General for Scotland
@@ -452,24 +452,24 @@ This Act may be cited as the Public Records (Scotland) Act 2011.
 - Board of Trustees of the National Museums of Scotland
 - Board of Trustees of the Royal Botanic Garden, Edinburgh
 - Bòrd na Gàidhlig
-- Boundaries Scotland[^key-cc8017c7bdd431905c53e5a0be9af73a]
-- British Waterways Board.[^key-4110e58f9468f907be409c90634472c1]
+- Boundaries Scotland[^c-cc8017c7bdd431905c53e5a0be9af73a]
+- British Waterways Board.[^c-4110e58f9468f907be409c90634472c1]
 - Caledonian Maritime Assets Ltd (registered number SC001854)
-- Chief constable of the Police Service of Scotland[^key-69faaf57a37770f7e1abbc2e456e4485]
+- Chief constable of the Police Service of Scotland[^c-69faaf57a37770f7e1abbc2e456e4485]
 - Children's Hearings Scotland
-- [^key-fdd9aad57a82320de2622d32bd2bca8e]...
-- Commissioner for Ethical Standards in Public Life in Scotland[^key-b5cb5a30f25d692328b66d3ba4144063]
+- [^c-fdd9aad57a82320de2622d32bd2bca8e]...
+- Commissioner for Ethical Standards in Public Life in Scotland[^c-b5cb5a30f25d692328b66d3ba4144063]
 - Commissioner for Children and Young People in Scotland
 - Common Services Agency for the Scottish Health Service
-- Community Justice Scotland[^key-c3c205ca677a474268f15894cadc2aff]
+- Community Justice Scotland[^c-c3c205ca677a474268f15894cadc2aff]
 - Court of the Lord Lyon
 - Court of Session
 - Creative Scotland
-- Criminal Courts Rules Council[^key-3fc6067fe471853233f34004fb13ab87]
+- Criminal Courts Rules Council[^c-3fc6067fe471853233f34004fb13ab87]
 - Crofting Commission
-- Crown Estate Scotland[^key-be69d7b88e8ab434f42d5c0c6bf4e36f]
+- Crown Estate Scotland[^c-be69d7b88e8ab434f42d5c0c6bf4e36f]
 - David MacBrayne Ltd (registered number SC015304)
-- First-tier Tribunal for Scotland[^key-ea3087598a7b1b36e1c91173ef2579f0]
+- First-tier Tribunal for Scotland[^c-ea3087598a7b1b36e1c91173ef2579f0]
 - General Teaching Council for Scotland
 - Health Boards (constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c.29))
 - Healthcare Improvement Scotland
@@ -477,20 +477,20 @@ This Act may be cited as the Public Records (Scotland) Act 2011.
 - High Court of Justiciary
 - Highlands and Islands Airports Ltd (registered number SC097647)
 - Highlands and Islands Enterprise
-- ILF Scotland[^key-aa0c3b146c41891496a65263fafc10b2]
-- Historic Environment Scotland[^key-453912dca7518a3348f7b485e0feda33]
+- ILF Scotland[^c-aa0c3b146c41891496a65263fafc10b2]
+- Historic Environment Scotland[^c-453912dca7518a3348f7b485e0feda33]
 - Independent prison monitors appointed under section 7B(2)(a) of the Prisons (Scotland) Act 1989[^M_F_4645201d-8513-475c-8866-f6db0925c144]
-- Integration joint boards established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014[^key-8d0d1dc140f0b22821082e4845083c8a]
+- Integration joint boards established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014[^c-8d0d1dc140f0b22821082e4845083c8a]
 - Joint boards (established under section 62A(1) or 62B(1) of the Local Government (Scotland) Act 1973 (c.65))
-- [^key-e1be7eae2093c5543d67217c59f3d18e]...
+- [^c-e1be7eae2093c5543d67217c59f3d18e]...
 - Judicial Appointments Board for Scotland
 - Justice of the peace courts
 - Justices of the peace advisory committees
 - Lands Tribunal for Scotland
-- [^key-fdd9aad57a82320de2622d32bd2bca8e]...
+- [^c-fdd9aad57a82320de2622d32bd2bca8e]...
 - Licensing Boards (continued in existence or established under section 5 of the Licensing (Scotland) Act 2005 (asp 16))
 - Local authorities
-- [^key-534d23121fb22e4d9868798c43e39814]...
+- [^c-534d23121fb22e4d9868798c43e39814]...
 - Mental Health Tribunal for Scotland
 - Mental Welfare Commission for Scotland
 - Mobility and Access Committee for Scotland
@@ -498,34 +498,34 @@ This Act may be cited as the Public Records (Scotland) Act 2011.
 - National Park authorities (established by virtue of designation orders under section 6 of the National Parks (Scotland) Act 2000 (asp 10))
 - Panel appointed under regulation 90C of the Council Tax Reduction (Scotland) Regulations 2012
 - Parole Board for Scotland
-- Patient Safety Commissioner for Scotland[^key-485643c3c5517dc171a89f926cd53427]
-- [^key-e1be7eae2093c5543d67217c59f3d18e]...
-- Police Investigations and Review Commissioner[^key-47884f8d10ce345be1b668b2e9c1e055]
+- Patient Safety Commissioner for Scotland[^c-485643c3c5517dc171a89f926cd53427]
+- [^c-e1be7eae2093c5543d67217c59f3d18e]...
+- Police Investigations and Review Commissioner[^c-47884f8d10ce345be1b668b2e9c1e055]
 - Principal Reporter
 - Prison monitoring co-ordinators appointed under section 7A(2) of the Prisons (Scotland) Act 1989[^M_F_95c8d46d-2d76-4eba-b305-8dec9abe8e49]
-- [^key-9b3b6411584e7684e8f3316113171ac7]...
-- [^key-e2479827cb0d5ba595d4d991bbd9f5ba]...
-- [^key-31a1a496296947b06b2d9f854714ba58]...
+- [^c-9b3b6411584e7684e8f3316113171ac7]...
+- [^c-e2479827cb0d5ba595d4d991bbd9f5ba]...
+- [^c-31a1a496296947b06b2d9f854714ba58]...
 - Public Transport Users' Committee for Scotland
-- Qualifications Scotland[^key-16e7b4d474c47b3292a9db055e231efe]
+- Qualifications Scotland[^c-16e7b4d474c47b3292a9db055e231efe]
 - Quality Meat Scotland
 - Risk Management Authority
-- [^key-acb9c6a70335ca712527c59893d2d90c]...
+- [^c-acb9c6a70335ca712527c59893d2d90c]...
 - Safeguarders Panel
 - Scottish Advisory Committee on Distinction Awards
 - Scottish Agricultural Wages Board
-- Scottish Biometrics Commissioner[^key-06454b0b8420e1f60176af17211dc460]
-- [^key-5da052811f256ced3338f952e5867509]...
+- Scottish Biometrics Commissioner[^c-06454b0b8420e1f60176af17211dc460]
+- [^c-5da052811f256ced3338f952e5867509]...
 - Scottish Children's Reporter Administration
 - Scottish Civil Justice Council
 - Scottish Commission for Human Rights
 - Scottish Commission for Public Audit
-- [^key-fdd9aad57a82320de2622d32bd2bca8e]...
+- [^c-fdd9aad57a82320de2622d32bd2bca8e]...
 - Scottish Criminal Cases Review Commission
 - Scottish Enterprise
 - Scottish Environment Protection Agency
 - Scottish Fire and Rescue Service
-- The Scottish Food Commission[^key-f2fe5650a4403facaa475c956f9f3dc1]
+- The Scottish Food Commission[^c-f2fe5650a4403facaa475c956f9f3dc1]
 - Scottish Further and Higher Education Funding Council
 - Scottish Futures Trust Ltd (registered number SC348382)
 - Scottish Health Council
@@ -536,158 +536,158 @@ This Act may be cited as the Public Records (Scotland) Act 2011.
 - Scottish Legal Complaints Commission
 - Scottish Local Authorities Remuneration Committee
 - Scottish Natural Heritage
-- Scottish Police Authority[^key-6dac85063552db85ea7bf2e0b889bdd0]
-- [^key-e1be7eae2093c5543d67217c59f3d18e]...
+- Scottish Police Authority[^c-6dac85063552db85ea7bf2e0b889bdd0]
+- [^c-e1be7eae2093c5543d67217c59f3d18e]...
 - Scottish Public Services Ombudsman
-- Scottish Pubs Code Adjudicator[^key-2c7fe758cbaccf0926c8ce94de228a02]
-- [^key-0298b43d9535d237248068cf9763e192]...
+- Scottish Pubs Code Adjudicator[^c-2c7fe758cbaccf0926c8ce94de228a02]
+- [^c-0298b43d9535d237248068cf9763e192]...
 - Scottish Road Works Commissioner
 - Scottish Sentencing Council
 - Scottish Social Services Council
 - Scottish Sports Council
 - Scottish Water
 - Sheriff courts
-- Sheriff Appeal Court[^key-a674094f1376dffb4ed1144d4d733f1e]
+- Sheriff Appeal Court[^c-a674094f1376dffb4ed1144d4d733f1e]
 - Skills Development Scotland Co. Ltd (registered number SC202659)
 - Social Care and Social Work Improvement Scotland
-- South of Scotland Enterprise[^key-8a078d5996b22e30255ef7f0829284a0]
+- South of Scotland Enterprise[^c-8a078d5996b22e30255ef7f0829284a0]
 - Special Health Boards (constituted under section 2(1)(b) of the National Health Service (Scotland) Act 1978 (c.29))
 - Standards Commission for Scotland
 - Transport Partnerships
 - TS Prestwick Holdco Ltd (registered number SC462050)
-- National Library of Scotland[^key-808fc13bbdb85928b85326e94c44d6cd]
+- National Library of Scotland[^c-808fc13bbdb85928b85326e94c44d6cd]
 - Upper Tribunal for Scotland
 - [^M_F_6f89323b-55fe-4f51-80ca-c8d298040f42]...
 - VisitScotland
 - Water Industry Commission for Scotland
-- Zero Waste Scotland[^key-d0517728f624e244692c742e7c679e92].
+- Zero Waste Scotland[^c-d0517728f624e244692c742e7c679e92].
 
 ## Annotations
 
-[^key-4c0347336709748b04d5be47a0c2bb9b]: Commencement: S. 1(1)-(3)(7)-(9) in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-4c0347336709748b04d5be47a0c2bb9b]: Commencement: S. 1(1)-(3)(7)-(9) in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-bea03cde464cf1e5e30200639aad037b]: Modification: S. 1 modified by [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13), [s. 4ZD(2)](https://www.legislation.gov.uk/asp/2003/13/section/4ZD/2) (as inserted (1.7.2014) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 30](https://www.legislation.gov.uk/asp/2014/1/section/30), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/117](https://www.legislation.gov.uk/ssi/2014/117), [art. 3](https://www.legislation.gov.uk/ssi/2014/117/article/3))
+[^c-bea03cde464cf1e5e30200639aad037b]: Modification: S. 1 modified by [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13), [s. 4ZD(2)](https://www.legislation.gov.uk/asp/2003/13/section/4ZD/2) (as inserted (1.7.2014) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 30](https://www.legislation.gov.uk/asp/2014/1/section/30), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/117](https://www.legislation.gov.uk/ssi/2014/117), [art. 3](https://www.legislation.gov.uk/ssi/2014/117/article/3))
 
-[^key-7d77283f4112134c4be3bc9d020b794a]: Modification: [S. 1](https://www.legislation.gov.uk/asp/2011/12/section/1) modified (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-7d77283f4112134c4be3bc9d020b794a]: Modification: [S. 1](https://www.legislation.gov.uk/asp/2011/12/section/1) modified (28.6.2021) by [Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021 (asp 15)](https://www.legislation.gov.uk/asp/2021/15), [s. 109(2)](https://www.legislation.gov.uk/asp/2021/15/section/109/2), [sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/2); [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-7a8a99e94ed3d0550144410fd2a0a984]: Commencement: S. 1(4)-(6) in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
+[^c-7a8a99e94ed3d0550144410fd2a0a984]: Commencement: S. 1(4)-(6) in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
 
-[^key-a4b659b7a7826f5a4f157255ea272a66]: Commencement: S. 2 in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
+[^c-a4b659b7a7826f5a4f157255ea272a66]: Commencement: S. 2 in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
 
-[^key-17dec9be9aacccffda3123ebc549b685]: Commencement: S. 3 in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
+[^c-17dec9be9aacccffda3123ebc549b685]: Commencement: S. 3 in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
 
-[^key-bacc54d7a3a0eea13a2137ec3bf9abf8]: Commencement: S. 4 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-bacc54d7a3a0eea13a2137ec3bf9abf8]: Commencement: S. 4 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-99b1f807fbdd5c0ddc41114c1da2d0b3]: Commencement: S. 5 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-99b1f807fbdd5c0ddc41114c1da2d0b3]: Commencement: S. 5 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-0a4fb57bbb61dade70baa06ad2831a12]: Commencement: S. 6 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-0a4fb57bbb61dade70baa06ad2831a12]: Commencement: S. 6 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-d0fcc30791dc1be42ae91f6cb98bc02a]: Commencement: S. 7 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-d0fcc30791dc1be42ae91f6cb98bc02a]: Commencement: S. 7 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-770efab2951694ee28b562c6d33cb974]: Commencement: S. 8(1)(2) in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
+[^c-770efab2951694ee28b562c6d33cb974]: Commencement: S. 8(1)(2) in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
 
-[^key-e63cf82f774f6b2feb8fadbb3de05a38]: Commencement: S. 8(3)-(6) in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-e63cf82f774f6b2feb8fadbb3de05a38]: Commencement: S. 8(3)-(6) in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-5b84b01c90682a7a017fb1e5ae7204f0]: Commencement: S. 9 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-5b84b01c90682a7a017fb1e5ae7204f0]: Commencement: S. 9 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-767e8280642e0396c6427f128575afdc]: Commencement: S. 10 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-767e8280642e0396c6427f128575afdc]: Commencement: S. 10 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-b84b2b75f716eb20c7362c767b2b9827]: Commencement: S. 11 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-b84b2b75f716eb20c7362c767b2b9827]: Commencement: S. 11 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-3b22e8cf0566bb7b37edc2914803c1b7]: Commencement: S. 12 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-3b22e8cf0566bb7b37edc2914803c1b7]: Commencement: S. 12 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-e0d5a4c189c45854b446571152a74516]: Commencement: S. 13 in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
+[^c-e0d5a4c189c45854b446571152a74516]: Commencement: S. 13 in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2)
 
-[^key-4fef9e34fdad5bec074a6705ed816c28]: Commencement: S. 14 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-4fef9e34fdad5bec074a6705ed816c28]: Commencement: S. 14 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-d324d5e16fc65b953162e5bc6db8e9b2]: Commencement: S. 15 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-d324d5e16fc65b953162e5bc6db8e9b2]: Commencement: S. 15 in force at 1.1.2013 by [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
 
-[^key-45248bb4bec5808863da1de0b29e0b4e]: Commencement: Sch. in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2) (as amended (23.2.2012) by [S.S.I. 2012/42](https://www.legislation.gov.uk/ssi/2012/42), art. 2)
+[^c-45248bb4bec5808863da1de0b29e0b4e]: Commencement: Sch. in force at 24.2.2012 by [S.S.I. 2012/21](https://www.legislation.gov.uk/ssi/2012/21), [art. 2](https://www.legislation.gov.uk/ssi/2012/21/article/2) (as amended (23.2.2012) by [S.S.I. 2012/42](https://www.legislation.gov.uk/ssi/2012/42), art. 2)
 
-[^key-0176803e6b1efa76ee04d37514cd40ea]: Textual amendment: Words in sch. inserted (1.4.2022) by [Consumer Scotland Act 2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11), [s. 29(2)](https://www.legislation.gov.uk/asp/2020/11/section/29/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/6); [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
+[^c-0176803e6b1efa76ee04d37514cd40ea]: Textual amendment: Words in sch. inserted (1.4.2022) by [Consumer Scotland Act 2020 (asp 11)](https://www.legislation.gov.uk/asp/2020/11), [s. 29(2)](https://www.legislation.gov.uk/asp/2020/11/section/29/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2020/11/schedule/2/paragraph/6); [S.S.I. 2021/464](https://www.legislation.gov.uk/ssi/2021/464), [reg. 2](https://www.legislation.gov.uk/ssi/2021/464/regulation/2)
 
-[^key-5801f8a47f740de1e9e46e51fd109ae0]: Textual amendment: Words in sch. inserted (1.10.2021) by [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4)](https://www.legislation.gov.uk/asp/2021/4), [s. 51(2)](https://www.legislation.gov.uk/asp/2021/4/section/51/2), [sch. 1 para. 15(5)](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15/5) (with [s. 48(2)](https://www.legislation.gov.uk/asp/2021/4/section/48/2)); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
+[^c-5801f8a47f740de1e9e46e51fd109ae0]: Textual amendment: Words in sch. inserted (1.10.2021) by [UK Withdrawal from the European Union (Continuity) (Scotland) Act 2021 (asp 4)](https://www.legislation.gov.uk/asp/2021/4), [s. 51(2)](https://www.legislation.gov.uk/asp/2021/4/section/51/2), [sch. 1 para. 15(5)](https://www.legislation.gov.uk/asp/2021/4/schedule/1/paragraph/15/5) (with [s. 48(2)](https://www.legislation.gov.uk/asp/2021/4/section/48/2)); [S.S.I. 2021/304](https://www.legislation.gov.uk/ssi/2021/304), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/304/regulation/2/b)
 
-[^key-3274e78668ef2f85442963ab5e57830c]: Textual amendment: Words in sch. inserted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 17(6)](https://www.legislation.gov.uk/asp/2015/1/section/17/6), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-3274e78668ef2f85442963ab5e57830c]: Textual amendment: Words in sch. inserted (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 17(6)](https://www.legislation.gov.uk/asp/2015/1/section/17/6), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-51319fe8c4c63282830c8dca8fa171dd]: Textual amendment: Words in sch. substituted (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(c)(i)](https://www.legislation.gov.uk/ssi/2015/335/article/2/c/i)
+[^c-51319fe8c4c63282830c8dca8fa171dd]: Textual amendment: Words in sch. substituted (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(c)(i)](https://www.legislation.gov.uk/ssi/2015/335/article/2/c/i)
 
-[^key-3f5ad720be84abdc884950722a46c6e6]: Textual amendment: Words in sch. substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 73](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/73); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-3f5ad720be84abdc884950722a46c6e6]: Textual amendment: Words in sch. substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 73](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/73); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-afeae3742f82f5fb6264106f4006b15b]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/asp/2011/12/schedule) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 19(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/19/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-afeae3742f82f5fb6264106f4006b15b]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/asp/2011/12/schedule) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 19(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/19/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-babe2ab38ddb249aa587d4067123b44d]: Textual amendment: Words in sch. inserted (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/8) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-babe2ab38ddb249aa587d4067123b44d]: Textual amendment: Words in sch. inserted (1.1.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/8) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-4f714ebf62bd38ec54c3a357d72284a5]: Textual amendment: Words in sch. substituted (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(c)(ii)](https://www.legislation.gov.uk/ssi/2015/335/article/2/c/i/ii)
+[^c-4f714ebf62bd38ec54c3a357d72284a5]: Textual amendment: Words in sch. substituted (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(c)(ii)](https://www.legislation.gov.uk/ssi/2015/335/article/2/c/i/ii)
 
-[^key-1541affb11284aacef9b379c1cacc12c]: Textual amendment: Words in sch. inserted (1.4.2017) by [Scottish Fiscal Commission Act 2016 (asp 17)](https://www.legislation.gov.uk/asp/2016/17), [ss. 29(5)](https://www.legislation.gov.uk/asp/2016/17/section/29/5), [31(2)](https://www.legislation.gov.uk/asp/2016/17/section/31/2); [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
+[^c-1541affb11284aacef9b379c1cacc12c]: Textual amendment: Words in sch. inserted (1.4.2017) by [Scottish Fiscal Commission Act 2016 (asp 17)](https://www.legislation.gov.uk/asp/2016/17), [ss. 29(5)](https://www.legislation.gov.uk/asp/2016/17/section/29/5), [31(2)](https://www.legislation.gov.uk/asp/2016/17/section/31/2); [S.S.I. 2016/326](https://www.legislation.gov.uk/ssi/2016/326), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/326/regulation/2/2)
 
-[^key-f28b8859fec85cc17e3ea6d9c446d636]: Textual amendment: Words in sch. repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/6/2)
+[^c-f28b8859fec85cc17e3ea6d9c446d636]: Textual amendment: Words in sch. repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Additional Support Needs Tribunals for Scotland) Regulations 2018 (S.S.I. 2018/4)](https://www.legislation.gov.uk/ssi/2018/4), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/4/regulation/1/1), [sch. 2 para. 6(2)](https://www.legislation.gov.uk/ssi/2018/4/schedule/2/paragraph/6/2)
 
-[^key-cc8017c7bdd431905c53e5a0be9af73a]: Textual amendment: Words in sch. inserted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 8(a)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/8/a); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-cc8017c7bdd431905c53e5a0be9af73a]: Textual amendment: Words in sch. inserted (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 8(a)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/8/a); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-4110e58f9468f907be409c90634472c1]: Textual amendment: Words in sch. inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/27) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-4110e58f9468f907be409c90634472c1]: Textual amendment: Words in sch. inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/27) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-69faaf57a37770f7e1abbc2e456e4485]: Textual amendment: Words in sch. substituted (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(c)(iii)](https://www.legislation.gov.uk/ssi/2015/335/article/2/c/i/iii)
+[^c-69faaf57a37770f7e1abbc2e456e4485]: Textual amendment: Words in sch. substituted (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(c)(iii)](https://www.legislation.gov.uk/ssi/2015/335/article/2/c/i/iii)
 
-[^key-fdd9aad57a82320de2622d32bd2bca8e]: Textual amendment: Words in sch. removed (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/335/article/2/b)
+[^c-fdd9aad57a82320de2622d32bd2bca8e]: Textual amendment: Words in sch. removed (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/335/article/2/b)
 
-[^key-b5cb5a30f25d692328b66d3ba4144063]: Textual amendment: Words in sch. substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/18/a)
+[^c-b5cb5a30f25d692328b66d3ba4144063]: Textual amendment: Words in sch. substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/18/a)
 
-[^key-c3c205ca677a474268f15894cadc2aff]: Textual amendment: Words in sch. inserted (1.4.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 1 para. 14(6)](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14/6); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-c3c205ca677a474268f15894cadc2aff]: Textual amendment: Words in sch. inserted (1.4.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 1 para. 14(6)](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14/6); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-3fc6067fe471853233f34004fb13ab87]: Textual amendment: Words in sch. added (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/335/article/2/a)
+[^c-3fc6067fe471853233f34004fb13ab87]: Textual amendment: Words in sch. added (17.9.2015) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2015 (S.S.I. 2015/335)](https://www.legislation.gov.uk/ssi/2015/335), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/335/article/2/a)
 
-[^key-be69d7b88e8ab434f42d5c0c6bf4e36f]: Textual amendment: Words in sch. substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/7); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
+[^c-be69d7b88e8ab434f42d5c0c6bf4e36f]: Textual amendment: Words in sch. substituted (1.4.2020) by [Scottish Crown Estate Act 2019 (asp 1)](https://www.legislation.gov.uk/asp/2019/1), [s. 46(2)](https://www.legislation.gov.uk/asp/2019/1/section/46/2), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2019/1/schedule/1/paragraph/7); [S.S.I. 2020/77](https://www.legislation.gov.uk/ssi/2020/77), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/77/regulation/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2020/77/schedule/1)
 
-[^key-ea3087598a7b1b36e1c91173ef2579f0]: Textual amendment: Words in sch. added (12.1.2018) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2018 (S.S.I. 2018/5)](https://www.legislation.gov.uk/ssi/2018/5), [art. 1](https://www.legislation.gov.uk/ssi/2018/5/article/1), [para. 2](https://www.legislation.gov.uk/ssi/2018/5/paragraph/2)
+[^c-ea3087598a7b1b36e1c91173ef2579f0]: Textual amendment: Words in sch. added (12.1.2018) by [The Public Records (Scotland) Act 2011 (Authorities) Amendment Order 2018 (S.S.I. 2018/5)](https://www.legislation.gov.uk/ssi/2018/5), [art. 1](https://www.legislation.gov.uk/ssi/2018/5/article/1), [para. 2](https://www.legislation.gov.uk/ssi/2018/5/paragraph/2)
 
-[^key-aa0c3b146c41891496a65263fafc10b2]: Textual amendment: Words in sch. inserted (28.6.2018) by [The ILF Scotland (Miscellaneous Listings) Order 2018 (S.S.I. 2018/214)](https://www.legislation.gov.uk/ssi/2018/214), [arts. 1](https://www.legislation.gov.uk/ssi/2018/214/article/1), [5(2)](https://www.legislation.gov.uk/ssi/2018/214/article/5/2)
+[^c-aa0c3b146c41891496a65263fafc10b2]: Textual amendment: Words in sch. inserted (28.6.2018) by [The ILF Scotland (Miscellaneous Listings) Order 2018 (S.S.I. 2018/214)](https://www.legislation.gov.uk/ssi/2018/214), [arts. 1](https://www.legislation.gov.uk/ssi/2018/214/article/1), [5(2)](https://www.legislation.gov.uk/ssi/2018/214/article/5/2)
 
-[^key-453912dca7518a3348f7b485e0feda33]: Textual amendment: Words in sch. inserted (27.2.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/6/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-453912dca7518a3348f7b485e0feda33]: Textual amendment: Words in sch. inserted (27.2.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [Sch. 6 para. 6(a)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/6/a) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
 [^M_F_4645201d-8513-475c-8866-f6db0925c144]: Textual amendment: Words in sch. inserted (31.08.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I 2015/39), Sch. para. 8(a)
 
-[^key-8d0d1dc140f0b22821082e4845083c8a]: Textual amendment: Words in sch. inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 11](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/11)
+[^c-8d0d1dc140f0b22821082e4845083c8a]: Textual amendment: Words in sch. inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 11](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/11)
 
-[^key-e1be7eae2093c5543d67217c59f3d18e]: Textual amendment: Words in sch. repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-e1be7eae2093c5543d67217c59f3d18e]: Textual amendment: Words in sch. repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-534d23121fb22e4d9868798c43e39814]: Textual amendment: Words in sch. repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 8(b)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/8/b); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-534d23121fb22e4d9868798c43e39814]: Textual amendment: Words in sch. repealed (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [s. 35](https://www.legislation.gov.uk/asp/2020/12/section/35), [sch. para. 8(b)](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/8/b); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-485643c3c5517dc171a89f926cd53427]: Textual amendment: Words in sch. inserted (1.9.2025) by [Patient Safety Commissioner for Scotland Act 2023 (asp 6)](https://www.legislation.gov.uk/asp/2023/6), [s. 24(2)](https://www.legislation.gov.uk/asp/2023/6/section/24/2), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2023/6/schedule/2/paragraph/4/2); [S.S.I. 2024/110](https://www.legislation.gov.uk/ssi/2024/110), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/110/regulation/2/2)
+[^c-485643c3c5517dc171a89f926cd53427]: Textual amendment: Words in sch. inserted (1.9.2025) by [Patient Safety Commissioner for Scotland Act 2023 (asp 6)](https://www.legislation.gov.uk/asp/2023/6), [s. 24(2)](https://www.legislation.gov.uk/asp/2023/6/section/24/2), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/asp/2023/6/schedule/2/paragraph/4/2); [S.S.I. 2024/110](https://www.legislation.gov.uk/ssi/2024/110), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/110/regulation/2/2)
 
-[^key-47884f8d10ce345be1b668b2e9c1e055]: Textual amendment: Words in sch. substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 45](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/45); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-47884f8d10ce345be1b668b2e9c1e055]: Textual amendment: Words in sch. substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 45](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/45); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^M_F_95c8d46d-2d76-4eba-b305-8dec9abe8e49]: Textual amendment: Words in sch. inserted (31.08.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I 2015/39), Sch. para. 8(b)
 
-[^key-9b3b6411584e7684e8f3316113171ac7]: Textual amendment: Words in sch. repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016 (S.S.I. 2016/338)](https://www.legislation.gov.uk/ssi/2016/338), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/338/regulation/1/2), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2016/338/schedule/2/paragraph/4/2) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/338/schedule/1/paragraph/5))
+[^c-9b3b6411584e7684e8f3316113171ac7]: Textual amendment: Words in sch. repealed (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Panel) Regulations 2016 (S.S.I. 2016/338)](https://www.legislation.gov.uk/ssi/2016/338), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/338/regulation/1/2), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2016/338/schedule/2/paragraph/4/2) (with [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2016/338/schedule/1/paragraph/5))
 
-[^key-e2479827cb0d5ba595d4d991bbd9f5ba]: Textual amendment: Words in sch. omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 18(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/18/b)
+[^c-e2479827cb0d5ba595d4d991bbd9f5ba]: Textual amendment: Words in sch. omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 18(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/18/b)
 
-[^key-31a1a496296947b06b2d9f854714ba58]: Textual amendment: Words in sch. omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 18(c)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/18/c)
+[^c-31a1a496296947b06b2d9f854714ba58]: Textual amendment: Words in sch. omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 18(c)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/18/c)
 
-[^key-16e7b4d474c47b3292a9db055e231efe]: Textual amendment: Words in sch. inserted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 6(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/6/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-16e7b4d474c47b3292a9db055e231efe]: Textual amendment: Words in sch. inserted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 6(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/6/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-acb9c6a70335ca712527c59893d2d90c]: Textual amendment: Words in sch. repealed (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/6/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-acb9c6a70335ca712527c59893d2d90c]: Textual amendment: Words in sch. repealed (1.10.2015) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/asp/2014/19/schedule/6/paragraph/6/b) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
 
-[^key-06454b0b8420e1f60176af17211dc460]: Textual amendment: Words in sch. inserted (1.12.2020) by [Scottish Biometrics Commissioner Act 2020 (asp 8)](https://www.legislation.gov.uk/asp/2020/8), [s. 40(2)](https://www.legislation.gov.uk/asp/2020/8/section/40/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/4); [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-06454b0b8420e1f60176af17211dc460]: Textual amendment: Words in sch. inserted (1.12.2020) by [Scottish Biometrics Commissioner Act 2020 (asp 8)](https://www.legislation.gov.uk/asp/2020/8), [s. 40(2)](https://www.legislation.gov.uk/asp/2020/8/section/40/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/4); [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-5da052811f256ced3338f952e5867509]: Textual amendment: Words in sch. repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/4/2)
+[^c-5da052811f256ced3338f952e5867509]: Textual amendment: Words in sch. repealed (12.1.2018) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Scottish Charity Appeals Panel) Regulations 2018 (S.S.I. 2018/1)](https://www.legislation.gov.uk/ssi/2018/1), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/1/regulation/1/1), [sch. 2 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/1/schedule/2/paragraph/4/2)
 
-[^key-f2fe5650a4403facaa475c956f9f3dc1]: Textual amendment: Words in sch. inserted (15.2.2024) by [Good Food Nation (Scotland) Act 2022 (asp 5)](https://www.legislation.gov.uk/asp/2022/5), [s. 28(2)](https://www.legislation.gov.uk/asp/2022/5/section/28/2), [sch. para. 21(5)](https://www.legislation.gov.uk/asp/2022/5/schedule/paragraph/21/5); [S.S.I. 2024/29](https://www.legislation.gov.uk/ssi/2024/29), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/29/schedule/1)
+[^c-f2fe5650a4403facaa475c956f9f3dc1]: Textual amendment: Words in sch. inserted (15.2.2024) by [Good Food Nation (Scotland) Act 2022 (asp 5)](https://www.legislation.gov.uk/asp/2022/5), [s. 28(2)](https://www.legislation.gov.uk/asp/2022/5/section/28/2), [sch. para. 21(5)](https://www.legislation.gov.uk/asp/2022/5/schedule/paragraph/21/5); [S.S.I. 2024/29](https://www.legislation.gov.uk/ssi/2024/29), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/29/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/29/schedule/1)
 
-[^key-6dac85063552db85ea7bf2e0b889bdd0]: Textual amendment: Words in sch. inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/a), [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2012/8/schedule/1/paragraph/18)
+[^c-6dac85063552db85ea7bf2e0b889bdd0]: Textual amendment: Words in sch. inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/a), [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2012/8/schedule/1/paragraph/18)
 
-[^key-2c7fe758cbaccf0926c8ce94de228a02]: Textual amendment: Words in sch. inserted (7.10.2024) by [The Scottish Pubs Code Adjudicator (Miscellaneous Listings) Order 2024 (S.S.I. 2024/190)](https://www.legislation.gov.uk/ssi/2024/190), [arts. 1](https://www.legislation.gov.uk/ssi/2024/190/article/1), [4](https://www.legislation.gov.uk/ssi/2024/190/article/4)
+[^c-2c7fe758cbaccf0926c8ce94de228a02]: Textual amendment: Words in sch. inserted (7.10.2024) by [The Scottish Pubs Code Adjudicator (Miscellaneous Listings) Order 2024 (S.S.I. 2024/190)](https://www.legislation.gov.uk/ssi/2024/190), [arts. 1](https://www.legislation.gov.uk/ssi/2024/190/article/1), [4](https://www.legislation.gov.uk/ssi/2024/190/article/4)
 
-[^key-0298b43d9535d237248068cf9763e192]: Textual amendment: Words in sch. repealed (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 6(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/6/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-0298b43d9535d237248068cf9763e192]: Textual amendment: Words in sch. repealed (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 6(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/6/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-a674094f1376dffb4ed1144d4d733f1e]: Textual amendment: Words in sch. inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/6) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-a674094f1376dffb4ed1144d4d733f1e]: Textual amendment: Words in sch. inserted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/6) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-8a078d5996b22e30255ef7f0829284a0]: Textual amendment: Words in sch. inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 7](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/7); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-8a078d5996b22e30255ef7f0829284a0]: Textual amendment: Words in sch. inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 7](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/7); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-808fc13bbdb85928b85326e94c44d6cd]: Textual amendment: Words in sch. substituted (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/10); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-808fc13bbdb85928b85326e94c44d6cd]: Textual amendment: Words in sch. substituted (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/10); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^M_F_6f89323b-55fe-4f51-80ca-c8d298040f42]: Textual amendment: Words in sch. omitted (31.08.2015) by The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I 2015/39), Sch. para. 8(c)
 
-[^key-d0517728f624e244692c742e7c679e92]: Textual amendment: Words in sch. inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [s. 27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2), [sch. para. 5(2)](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/5/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)
+[^c-d0517728f624e244692c742e7c679e92]: Textual amendment: Words in sch. inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [s. 27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2), [sch. para. 5(2)](https://www.legislation.gov.uk/asp/2024/13/schedule/paragraph/5/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(g)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/g)

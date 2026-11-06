@@ -38,7 +38,7 @@ Section 67.
 - (a) for “and being a witness in pursuance of this Act” substitute “ in criminal proceedings who is called as a witness in the proceedings ”; and
 - (b) for “the offence charged” substitute “ any offence with which he is charged in the proceedings ”.
 
-(5)[^key-928fe4bf3d55737b1975bfbcf77e4b1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-928fe4bf3d55737b1975bfbcf77e4b1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In paragraph (g) of the proviso, for “called as a witness in pursuance of this Act” substitute “ charged in criminal proceedings who is called as a witness in the proceedings ”.
 
@@ -76,7 +76,7 @@ Section 67.
 
 ### Rehabilitation of Offenders Act 1974 (c.53)
 
-**6.**[^key-b703349046e50d4a16714e85c54a2861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b703349046e50d4a16714e85c54a2861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Magistrates’ Courts Act 1980 (c.43)
 
@@ -147,7 +147,7 @@ Section 67.
 
 **15.** The Criminal Justice Act 1988 has effect subject to the following amendments.
 
-**16.**[^key-bbd06b8651802819510e8157690ea1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-bbd06b8651802819510e8157690ea1da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17.** In section 34(3) (unsworn evidence may corroborate other evidence), for “section 52 of the Criminal Justice Act 1991” substitute “ section 56 of the Youth Justice and Criminal Evidence Act 1999 ”.
 
@@ -155,7 +155,7 @@ Section 67.
 
 **Not yet in force.**
 
-**18.**[^key-24170a24ad1ff3a4f67cd4860318be6d][^key-c74b4edc8ee095fa166417aec87297e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-24170a24ad1ff3a4f67cd4860318be6d][^c-c74b4edc8ee095fa166417aec87297e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Insolvency (Northern Ireland) Order 1989 (N.I.19)
 
@@ -222,9 +222,9 @@ Section 67.
 
 **25.** The Crime and Disorder Act 1998 has effect subject to the following amendments.
 
-**26.**[^key-dbf1a298ce8288e2c8b319adb4357598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-dbf1a298ce8288e2c8b319adb4357598] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-94f7b3f78d4ab9f9ecfeee8a3f304f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-94f7b3f78d4ab9f9ecfeee8a3f304f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** In section 38(4) (definition of “youth justice services”), after paragraph (j) there shall be inserted—
 
@@ -238,7 +238,7 @@ Section 67.
 
 [^c18028891]: Commencement: Sch. 4 para. 1 wholly in force in so far as not already in force at 24.7.2002 see S.I. 2002/1739, {art. 2(f)}
 
-[^key-928fe4bf3d55737b1975bfbcf77e4b1e]: Textual amendment: Sch. 4 para. 1(5) repealed (15.12.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 5](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/5); [S.I. 2004/3033](https://www.legislation.gov.uk/uksi/2004/3033), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/1)[(2)(e)(i)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/e/i)
+[^c-928fe4bf3d55737b1975bfbcf77e4b1e]: Textual amendment: Sch. 4 para. 1(5) repealed (15.12.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 5](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/5); [S.I. 2004/3033](https://www.legislation.gov.uk/uksi/2004/3033), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/1)[(2)(e)(i)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/e/i)
 
 [^c9547801]: Marginal citation: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12).
 
@@ -250,7 +250,7 @@ Section 67.
 
 [^c9547871]: Textual amendment: Sch. 4 para. 5 repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
-[^key-b703349046e50d4a16714e85c54a2861]: Textual amendment: Sch. 4 para. 6 repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-b703349046e50d4a16714e85c54a2861]: Textual amendment: Sch. 4 para. 6 repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c17968601]: Textual amendment: Sch. 4 para. 8 repealed (19.2.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [108(1)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/1), [Sch. 15 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/8)(with Sch. 14 para. 7(2), 36(9)); [S.I. 2001/168](https://www.legislation.gov.uk/uksi/2001/168), [art. 2](https://www.legislation.gov.uk/uksi/2001/168/article/2)
 
@@ -258,11 +258,11 @@ Section 67.
 
 [^c9547901]: Marginal citation: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
 
-[^key-bbd06b8651802819510e8157690ea1da]: Textual amendment: Sch. 4 para. 16 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 6](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/6); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-bbd06b8651802819510e8157690ea1da]: Textual amendment: Sch. 4 para. 16 repealed (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 6](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/6); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 44(3)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/44/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-24170a24ad1ff3a4f67cd4860318be6d]: Textual amendment: Sch. 4 para. 18 repealed (N.I.) (5.9.2003) by [The Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150)](https://www.legislation.gov.uk/nisi/2002/3150), [art. 1(2)](https://www.legislation.gov.uk/nisi/2002/3150/article/1/2), [Sch. 4](https://www.legislation.gov.uk/nisi/2002/3150/schedule/4) (with [Sch. 2](https://www.legislation.gov.uk/nisi/2002/3150/schedule/2)); [S.R. 2003/345](https://www.legislation.gov.uk/nisr/2003/345), [art. 3(2)](https://www.legislation.gov.uk/nisr/2003/345/article/3/2) (subject to [S.R. 2003/346](https://www.legislation.gov.uk/nisr/2003/346), arts. 3-6)
+[^c-24170a24ad1ff3a4f67cd4860318be6d]: Textual amendment: Sch. 4 para. 18 repealed (N.I.) (5.9.2003) by [The Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150)](https://www.legislation.gov.uk/nisi/2002/3150), [art. 1(2)](https://www.legislation.gov.uk/nisi/2002/3150/article/1/2), [Sch. 4](https://www.legislation.gov.uk/nisi/2002/3150/schedule/4) (with [Sch. 2](https://www.legislation.gov.uk/nisi/2002/3150/schedule/2)); [S.R. 2003/345](https://www.legislation.gov.uk/nisr/2003/345), [art. 3(2)](https://www.legislation.gov.uk/nisr/2003/345/article/3/2) (subject to [S.R. 2003/346](https://www.legislation.gov.uk/nisr/2003/346), arts. 3-6)
 
-[^key-c74b4edc8ee095fa166417aec87297e5]: Textual amendment: Sch. 4 para. 18 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10)) and Sch. 4 para. 18 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-c74b4edc8ee095fa166417aec87297e5]: Textual amendment: Sch. 4 para. 18 repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10)) and Sch. 4 para. 18 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/2) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c9547921]: Marginal citation: [S.I. 1989/2405](https://www.legislation.gov.uk/uksi/1989/2405).
 
@@ -272,9 +272,9 @@ Section 67.
 
 [^c9547951]: Marginal citation: [1963 c. 37](https://www.legislation.gov.uk/ukpga/1963/37).
 
-[^key-dbf1a298ce8288e2c8b319adb4357598]: Textual amendment: Sch. 4 para. 26 repealed (15.12.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/12); [S.I. 2004/3033](https://www.legislation.gov.uk/uksi/2004/3033), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/dd)[(e)(ii)(dd)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/e/ii)
+[^c-dbf1a298ce8288e2c8b319adb4357598]: Textual amendment: Sch. 4 para. 26 repealed (15.12.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/12); [S.I. 2004/3033](https://www.legislation.gov.uk/uksi/2004/3033), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/dd)[(e)(ii)(dd)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/e/ii)
 
-[^key-94f7b3f78d4ab9f9ecfeee8a3f304f40]: Textual amendment: Sch. 4 para. 27 repealed (15.12.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/12); [S.I. 2004/3033](https://www.legislation.gov.uk/uksi/2004/3033), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/dd)[(e)(ii)(dd)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/e/ii)
+[^c-94f7b3f78d4ab9f9ecfeee8a3f304f40]: Textual amendment: Sch. 4 para. 27 repealed (15.12.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/12); [S.I. 2004/3033](https://www.legislation.gov.uk/uksi/2004/3033), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/dd)[(e)(ii)(dd)](https://www.legislation.gov.uk/uksi/2004/3033/article/3/2/e/ii)
 
 [^c9547961]: Textual amendment: Sch. 4 para. 29 repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 

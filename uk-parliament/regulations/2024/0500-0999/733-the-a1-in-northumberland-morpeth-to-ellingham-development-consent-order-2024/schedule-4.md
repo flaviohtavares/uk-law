@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — PERMANENT STOPPING UP OF STREETS, PUBLIC RIGHTS OF WAY AND PRIVATE MEANS OF ACCESS[^key-e814a3de629527b371581567688fbb9d]
+## SCHEDULE 4 — PERMANENT STOPPING UP OF STREETS, PUBLIC RIGHTS OF WAY AND PRIVATE MEANS OF ACCESS[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Article 17
 
-### PART 1 — STREETS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-e814a3de629527b371581567688fbb9d]
+### PART 1 — STREETS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — PUBLIC RIGHTS OF WAYS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-e814a3de629527b371581567688fbb9d]
+### PART 2 — PUBLIC RIGHTS OF WAYS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-e814a3de629527b371581567688fbb9d]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^key-e814a3de629527b371581567688fbb9d]
+### PART 4 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^key-e814a3de629527b371581567688fbb9d]
+### PART 5 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS NOT TO BE PROVIDED[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)
+[^c-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Powers to amend Schedule 1[^key-b7a25aa1b086f7f23f7879fe8b54d075]
+## 7. Powers to amend Schedule 1[^c-b7a25aa1b086f7f23f7879fe8b54d075]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7a25aa1b086f7f23f7879fe8b54d075]: Textual amendment: [Ss. 7-11](https://www.legislation.gov.uk/ukpga/2023/37/section/7) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/b), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-b7a25aa1b086f7f23f7879fe8b54d075]: Textual amendment: [Ss. 7-11](https://www.legislation.gov.uk/ukpga/2023/37/section/7) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/b), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

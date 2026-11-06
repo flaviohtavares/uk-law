@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Retention by OFCOM of amounts paid under Wireless Telegraphy Act 2006[^key-75821d05945dbe2f65b73b12a4172de2]
+## 100. Retention by OFCOM of amounts paid under Wireless Telegraphy Act 2006[^c-75821d05945dbe2f65b73b12a4172de2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75821d05945dbe2f65b73b12a4172de2]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/30/section/100) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/bb)
+[^c-75821d05945dbe2f65b73b12a4172de2]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/30/section/100) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(bb)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/bb)

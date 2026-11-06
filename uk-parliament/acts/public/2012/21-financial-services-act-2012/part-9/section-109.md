@@ -46,7 +46,7 @@ summary: ''
 - (f) section 89K (public censure of issuer),
 - (g) section 91 (penalties for breach of Part 6 rules),
 - (h) section 123 (penalties in case of market abuse),
-- (i)[^key-0791888b185fbf75374eb4d11927cfc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-0791888b185fbf75374eb4d11927cfc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) sections 205, 206 and 206A (disciplinary measures),
 - (k) section 249 (disqualification of auditor for breach of trust scheme rules),
 - (l) section 345 (disqualification of auditor or actuary), and
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0791888b185fbf75374eb4d11927cfc9]: Textual amendment: [S. 109(5)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/109/5/i) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/3/4); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-0791888b185fbf75374eb4d11927cfc9]: Textual amendment: [S. 109(5)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/109/5/i) omitted (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by virtue of [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/uksi/2025/29/schedule/2/paragraph/3/4); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Meaning of “actuarial adjustment”[^key-48be3b6a8877b140cd85c0254d6bcef3]
+## 74. Meaning of “actuarial adjustment”[^c-48be3b6a8877b140cd85c0254d6bcef3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48be3b6a8877b140cd85c0254d6bcef3]: Textual amendment: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/512/regulation/74) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/1084/regulation/9)
+[^c-48be3b6a8877b140cd85c0254d6bcef3]: Textual amendment: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/512/regulation/74) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/1084/regulation/9)

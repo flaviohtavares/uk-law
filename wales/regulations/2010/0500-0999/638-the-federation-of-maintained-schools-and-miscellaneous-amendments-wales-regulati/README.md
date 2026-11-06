@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 ## Contents
 
-### PART 1 — INTRODUCTION[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 1 — INTRODUCTION[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 1 — Title, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — ESTABLISHING OR JOINING A FEDERATION[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 2 — ESTABLISHING OR JOINING A FEDERATION[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 8 — New schools wishing to federate](part-2/section-8.md)
 - [Section 10 — Incorporation of governing bodies of federations and dissolution of former governing bodies](part-2/section-10.md)
 
-### PART 3 — CATEGORIES OF GOVERNOR[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 3 — CATEGORIES OF GOVERNOR[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -84,7 +84,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 19 — Representative governors](part-3/section-19.md)
 - [Section 20 — Associate pupil governors](part-3/section-20.md)
 
-### PART 4 — COMPOSITION OF GOVERNING BODIES OF A FEDERATION[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 4 — COMPOSITION OF GOVERNING BODIES OF A FEDERATION[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -102,7 +102,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 30 — Joint appointments](part-4/section-30.md)
 - [Section 31 — Surplus Governors](part-4/section-31.md)
 
-### PART 5 — QUALIFICATIONS AND TENURE OF OFFICE[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 5 — QUALIFICATIONS AND TENURE OF OFFICE[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -116,7 +116,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 37 — Removal of appointed parent governors, partnership governors and associate pupil governors](part-5/section-37.md)
 - [Section 38 — Procedure for removal of governors by the governing body](part-5/section-38.md)
 
-### PART 6 — INSTRUMENT OF GOVERNMENT, STAFFING, SCHOOL COUNCILS AND CHARITABLE STATUS[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 6 — INSTRUMENT OF GOVERNMENT, STAFFING, SCHOOL COUNCILS AND CHARITABLE STATUS[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -131,7 +131,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 45 — School Council Regulations](part-6/section-45.md)
 - [Section 46 — Charitable status of federations](part-6/section-46.md)
 
-### PART 7 — APPOINTMENT, FUNCTIONS AND REMOVAL OF OFFICERS[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 7 — APPOINTMENT, FUNCTIONS AND REMOVAL OF OFFICERS[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -143,7 +143,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 50 — Appointment and removal of the clerk to the governing body](part-7/section-50.md)
 - [Section 51 — Functions of the clerk to the governing body](part-7/section-51.md)
 
-### PART 8 — MEETINGS AND PROCEEDINGS OF GOVERNING BODIES[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 8 — MEETINGS AND PROCEEDINGS OF GOVERNING BODIES[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -160,7 +160,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 60 — Restrictions on delegation and specified committees](part-8/section-60.md)
 - [Section 61 — Reporting to the governing body following the exercise of delegated functions](part-8/section-61.md)
 
-### PART 9 — COMMITTEES OF GOVERNING BODIES[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 9 — COMMITTEES OF GOVERNING BODIES[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -177,7 +177,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 70 — Minutes of meetings of committees](part-9/section-70.md)
 - [Section 71 — Publication of minutes and papers](part-9/section-71.md)
 
-### PART 10 — RESTRICTIONS ON PERSONS TAKING PART IN PROCEEDINGS OF THE GOVERNING BODY OR ITS COMMITTEES[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 10 — RESTRICTIONS ON PERSONS TAKING PART IN PROCEEDINGS OF THE GOVERNING BODY OR ITS COMMITTEES[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -185,7 +185,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 - [Section 72 — Restrictions on persons taking part in proceedings](part-10/section-72.md)
 
-### PART 11 — INFORMATION AND FUNDING[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 11 — INFORMATION AND FUNDING[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -194,7 +194,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 73 — Information for the governing body of a federation](part-11/section-73.md)
 - [Section 74 — Financing of federations](part-11/section-74.md)
 
-### PART 12 — FEDERATED SCHOOLS LEAVING FEDERATIONS[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 12 — FEDERATED SCHOOLS LEAVING FEDERATIONS[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -206,7 +206,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - [Section 79 — Incorporation of governing body of a school leaving a federation](part-12/section-79.md)
 - [Section 80 — Transfer of property](part-12/section-80.md)
 
-### PART 13 — DISSOLUTION OF FEDERATIONS[^key-d2a7c75cecbac1f834b452bbc9c45082]
+### PART 13 — DISSOLUTION OF FEDERATIONS[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -314,4 +314,4 @@ Regulation 85 provides for the incorporation (on the date of dissolution) of the
 
 [^f00002]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The functions of the National Assembly for Wales under these sections were transferred to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-d2a7c75cecbac1f834b452bbc9c45082]: Textual amendment: [Pts. 1-13](https://www.legislation.gov.uk/wsi/2010/638/part/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))
+[^c-d2a7c75cecbac1f834b452bbc9c45082]: Textual amendment: [Pts. 1-13](https://www.legislation.gov.uk/wsi/2010/638/part/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))

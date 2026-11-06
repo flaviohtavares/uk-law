@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Offences during currency of detention and training order[^key-aca4951f7328f2c8d0b271dba7deba3d][^key-42f65719ef739410d31f11a9a8b23d01][^key-7ddb553da2d56020e97b83181ce24420]
+## 214. Offences during currency of detention and training order[^c-aca4951f7328f2c8d0b271dba7deba3d][^c-42f65719ef739410d31f11a9a8b23d01][^c-7ddb553da2d56020e97b83181ce24420]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) after his release and before the date on which the term of the order ends, he commits an offence within subsection (2) (“the new offence”); and
 - (b) whether before or after that date, he is convicted of the new offence.
 
-(1A)[^key-b9a5d686ba7c3db31d6fbec89c4c8ad3] This section also applies to a person in respect of whom a service FSO has been made if—
+(1A)[^c-b9a5d686ba7c3db31d6fbec89c4c8ad3] This section also applies to a person in respect of whom a service FSO has been made if—
 
 - (a) before the date on which the period of further supervision under the service FSO ends, he commits an offence within subsection (2) (“the new offence”); and
 - (b) whether before or after that date, he is convicted of the new offence.
@@ -43,12 +43,12 @@ Terms used in this subsection have the same meaning as in section 213(4) (see se
 (2) An offence is within this subsection if it is—
 
 - (a) a service offence which is punishable with imprisonment; or
-- (b) an offence under the law of any part of the British Islands[^key-6486b7bb75339748965c542bdc0788b8] which is so punishable.
+- (b) an offence under the law of any part of the British Islands[^c-6486b7bb75339748965c542bdc0788b8] which is so punishable.
 
-(3) A court having power to do so under subsection (4) or (5) may order the person to be detained in such youth detention accommodation[^key-e05fde9c95a679d802c3841de5cad989] as the Secretary of State may determine for the whole or any part of the period which—
+(3) A court having power to do so under subsection (4) or (5) may order the person to be detained in such youth detention accommodation[^c-e05fde9c95a679d802c3841de5cad989] as the Secretary of State may determine for the whole or any part of the period which—
 
 - (a) begins with the date of the court's order; and
-- (b) is equal in length to the period between the date on which the new offence was committed and the date mentioned in subsection (1) or (1A) (as the case may be)[^key-82514bb1b8feccc88795fa0ccbf44dc9].
+- (b) is equal in length to the period between the date on which the new offence was committed and the date mentioned in subsection (1) or (1A) (as the case may be)[^c-82514bb1b8feccc88795fa0ccbf44dc9].
 
 (4) Where the Court Martial or the Service Civilian Court convicts the person of the new offence, the court may on the conviction make an order under subsection (3).
 
@@ -63,7 +63,7 @@ Terms used in this subsection have the same meaning as in section 213(4) (see se
 
 - (a) that this section applies to a person,
 - (b) that his conviction of the new offence was not by the Court Martial or the Service Civilian Court, and
-- (c) that no order under subsection (3) or under paragraph 7 of Schedule 12 to the Sentencing Code[^key-65b4e3cf78db831a2a9c601703bde2cc] has been made in respect of the new offence,
+- (c) that no order under subsection (3) or under paragraph 7 of Schedule 12 to the Sentencing Code[^c-65b4e3cf78db831a2a9c601703bde2cc] has been made in respect of the new offence,
 
 the Court Martial may issue a summons requiring the person to appear at the time and place specified in it, or a warrant for his arrest.
 
@@ -71,18 +71,18 @@ the Court Martial may issue a summons requiring the person to appear at the time
 
 ## Annotations
 
-[^key-aca4951f7328f2c8d0b271dba7deba3d]: Commencement: S. 214 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-aca4951f7328f2c8d0b271dba7deba3d]: Commencement: S. 214 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-42f65719ef739410d31f11a9a8b23d01]: Commencement: S. 214 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-42f65719ef739410d31f11a9a8b23d01]: Commencement: S. 214 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7ddb553da2d56020e97b83181ce24420]: Modification: S. 214 modified (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 245(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/1)[(2)(e)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/2/e)[(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/4), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [245(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7ddb553da2d56020e97b83181ce24420]: Modification: S. 214 modified (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 245(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/1)[(2)(e)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/2/e)[(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/4), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [245(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b9a5d686ba7c3db31d6fbec89c4c8ad3]: Textual amendment: S. 214(1A)(1B) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 34(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/34/2) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b9a5d686ba7c3db31d6fbec89c4c8ad3]: Textual amendment: S. 214(1A)(1B) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 34(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/34/2) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6486b7bb75339748965c542bdc0788b8]: Textual amendment: Words in s. 214(2)(b) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/19); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-6486b7bb75339748965c542bdc0788b8]: Textual amendment: Words in s. 214(2)(b) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/19); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-e05fde9c95a679d802c3841de5cad989]: Textual amendment: Words in s. 214(3) substituted (1.11.2007) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/ukpga/2007/21/schedule/3/paragraph/17/2); [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/r)
+[^c-e05fde9c95a679d802c3841de5cad989]: Textual amendment: Words in s. 214(3) substituted (1.11.2007) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 3 para. 17(2)](https://www.legislation.gov.uk/ukpga/2007/21/schedule/3/paragraph/17/2); [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(r)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/r)
 
-[^key-82514bb1b8feccc88795fa0ccbf44dc9]: Textual amendment: Words in s. 214(3)(b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/34/3) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-82514bb1b8feccc88795fa0ccbf44dc9]: Textual amendment: Words in s. 214(3)(b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/34/3) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-65b4e3cf78db831a2a9c601703bde2cc]: Textual amendment: Words in s. 214(7)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 34(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/34/4) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-65b4e3cf78db831a2a9c601703bde2cc]: Textual amendment: Words in s. 214(7)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 34(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/34/4) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

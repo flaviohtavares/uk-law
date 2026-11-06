@@ -31,7 +31,7 @@ Agriculture and Horticulture Act 1964
 
 An Act to make provision for and in connection with the maintenance of minimum price levels for imports affecting the market for agricultural or horticultural produce of descriptions produced in the United Kingdom; to make further provision for assisting by the payment of grants the production and marketing of horticultural produce; to impose requirements as to the grading of horticultural produce when dealt in bulk and as to the mode of packing and transporting such produce; and for purposes connected with the matters aforesaid.
 
-\[15th April 1964\][^c655075][^c655076][^c655077][^c655078][^key-c0799a4ecff048d1f08fd22ca2ad01a5]\[15th April 1964\][^c655075][^c655076][^c655077][^c655078][^key-0649ba74db6e63caf6f786e1c9ad72e4][^key-31b7456e3fc1add2a6dd4f726a0b4d17][^key-ff2c8e75b64f65ce4b3e2c750876a85c][^key-e245f46e9c9e5d6311c36204e6750156][^key-928860508d770446d47289e19163e40e][^key-6f0174ae5f3ac6bd8e9f4091153192b7]
+\[15th April 1964\][^c655075][^c655076][^c655077][^c655078][^c-c0799a4ecff048d1f08fd22ca2ad01a5]\[15th April 1964\][^c655075][^c655076][^c655077][^c655078][^c-0649ba74db6e63caf6f786e1c9ad72e4][^c-31b7456e3fc1add2a6dd4f726a0b4d17][^c-ff2c8e75b64f65ce4b3e2c750876a85c][^c-e245f46e9c9e5d6311c36204e6750156][^c-928860508d770446d47289e19163e40e][^c-6f0174ae5f3ac6bd8e9f4091153192b7]
 
 ## Part I — Price Stability of Imported Products[^c655079]
 
@@ -204,7 +204,7 @@ but an order under this subsection shall be of no effect unless approved by reso
 
 (2) Regulations under subsection (1) above may provide that a label recognised under the law of any country outside Great Britain as indicating that produce in connection with which it is used is of a quality not inferior to that required for a grade prescribed under that subsection shall be treated for the purposes of this Part of this Act as if it were in the form so prescribed for that grade.
 
-(3)[^key-8342a9d03af3b2635751ace4ebc84cc6][^c655096] Regulations under subsection (1) above shall not apply to produce of any description for the time being subject to Community grading rules; but in relation to any such produce the Ministers may by regulations—
+(3)[^c-8342a9d03af3b2635751ace4ebc84cc6][^c655096] Regulations under subsection (1) above shall not apply to produce of any description for the time being subject to Community grading rules; but in relation to any such produce the Ministers may by regulations—
 
 - (a) make additional provision as to the form of any label required for the purpose of those rules or as to the inclusion in any such label of additional particulars (not affecting the grading of the produce);
 - (b) provide for the application, subject to any modifications specified in the regulations, of all or any of the following provisions of this Part of this Act as if the produce were regulated produce and as if the standards of quality established by those rules were prescribed grades;
@@ -343,7 +343,7 @@ In proceedings for an offence in respect of any produce under section 14(1), (2)
 
 *Extent: E+W+S*
 
-#### 21. Power to require use of prescribed containers etc.[^key-36ff3431379e04122b50d787fd5efbc8]
+#### 21. Power to require use of prescribed containers etc.[^c-36ff3431379e04122b50d787fd5efbc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -351,11 +351,11 @@ In proceedings for an offence in respect of any produce under section 14(1), (2)
 
 #### 22. Miscellaneous amendments.
 
-(1)[^key-dd88ccded4465796622fffb9d4cfb826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dd88ccded4465796622fffb9d4cfb826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c655118]
 
-(3)[^key-49413b95c9d5ac827e856a111e30713c] Notwithstanding anything in section 7 of the [^c655119]Agricultural Marketing Act 1958, a scheme under that Act shall not empower the board administering the scheme—
+(3)[^c-49413b95c9d5ac827e856a111e30713c] Notwithstanding anything in section 7 of the [^c655119]Agricultural Marketing Act 1958, a scheme under that Act shall not empower the board administering the scheme—
 
 - (a) to grade, or regulate the grading or marking of, any produce to which regulations under section 11(1) of this Act apply, or
 - (b) to pack or transport, or regulate the packing or transporting of, any produce to which regulations under section 21 of this Act apply,
@@ -370,7 +370,7 @@ In relation to the doing of any act in Northern Ireland, references in the forgo
 
 (1) Before the making of any regulations or order under this Part of this Act the Minister or the Secretary of State shall consult with such organisations as appear to either of them to be representative of interests affected by the regulations or order.
 
-(1A (Extent: E))[^key-6020d06c827c1520769f818a25832f94] Subsection (1) does not apply to regulations which apply, or to an order which applies, only in relation to England. *(Extent: E)*
+(1A (Extent: E))[^c-6020d06c827c1520769f818a25832f94] Subsection (1) does not apply to regulations which apply, or to an order which applies, only in relation to England. *(Extent: E)*
 
 (2) Any power conferred by this Part of this Act to make regulations or orders shall be exercisable by statutory instrument, and a statutory instrument containing regulations or an order so made shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -407,7 +407,7 @@ In this Part of this Act—
 - “**the Minister**” means the Minister of Agriculture, Fisheries and Food;
 - “**the Ministers**” means the Minister and the Secretary of State for Scotland and the Secretary of State for Wales[^c655124] acting jointly.
 
-(3) The provisions of Part III of this Act (other than section 22[^key-3e88ee16de3d3a50035be15e881e35a6]... (3)) shall not extend to Northern Ireland, . . . [^c655125]
+(3) The provisions of Part III of this Act (other than section 22[^c-3e88ee16de3d3a50035be15e881e35a6]... (3)) shall not extend to Northern Ireland, . . . [^c655125]
 
 ## SCHEDULE — Price Stabilisation Levies (Supplementary Provisions)[^c655126]
 
@@ -453,19 +453,19 @@ If, for the purpose of an application made to a Minister with a view to the gran
 
 [^c655078]: Modification: Act: transfer of functions, property, rights and liabilities (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [4](https://www.legislation.gov.uk/uksi/1999/3141/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [5](https://www.legislation.gov.uk/uksi/1999/3141/article/5))
 
-[^key-c0799a4ecff048d1f08fd22ca2ad01a5]: Modification: Act excluded (E.) (1.7.2009) by [Marketing of Fresh Horticultural Produce Regulations 2009 (S.I. 2009/1361)](https://www.legislation.gov.uk/uksi/2009/1361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/22/a)
+[^c-c0799a4ecff048d1f08fd22ca2ad01a5]: Modification: Act excluded (E.) (1.7.2009) by [Marketing of Fresh Horticultural Produce Regulations 2009 (S.I. 2009/1361)](https://www.legislation.gov.uk/uksi/2009/1361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/1/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1361/regulation/22/a)
 
-[^key-0649ba74db6e63caf6f786e1c9ad72e4]: Modification: Act excluded (S.) (1.7.2009) by [Marketing of Horticultural Produce (Scotland) Regulations 2009 (S.S.I. 2009/225)](https://www.legislation.gov.uk/ssi/2009/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/225/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2009/225/regulation/24/a)
+[^c-0649ba74db6e63caf6f786e1c9ad72e4]: Modification: Act excluded (S.) (1.7.2009) by [Marketing of Horticultural Produce (Scotland) Regulations 2009 (S.S.I. 2009/225)](https://www.legislation.gov.uk/ssi/2009/225), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/225/regulation/1/1), [24(a)](https://www.legislation.gov.uk/ssi/2009/225/regulation/24/a)
 
-[^key-31b7456e3fc1add2a6dd4f726a0b4d17]: Modification: Act excluded (W.) (16.7.2009) by [Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 (S.I. 2009/1551)](https://www.legislation.gov.uk/uksi/2009/1551), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1551/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1551/regulation/22/a)
+[^c-31b7456e3fc1add2a6dd4f726a0b4d17]: Modification: Act excluded (W.) (16.7.2009) by [Marketing of Fresh Horticultural Produce (Wales) Regulations 2009 (S.I. 2009/1551)](https://www.legislation.gov.uk/uksi/2009/1551), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1551/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2009/1551/regulation/22/a)
 
-[^key-ff2c8e75b64f65ce4b3e2c750876a85c]: Modification: Act excluded (N.I.) (25.6.2010) by [The Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 (S.R. 2010/198)](https://www.legislation.gov.uk/nisr/2010/198), [regs. 1](https://www.legislation.gov.uk/nisr/2010/198/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/24/2/a)
+[^c-ff2c8e75b64f65ce4b3e2c750876a85c]: Modification: Act excluded (N.I.) (25.6.2010) by [The Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 (S.R. 2010/198)](https://www.legislation.gov.uk/nisr/2010/198), [regs. 1](https://www.legislation.gov.uk/nisr/2010/198/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/nisr/2010/198/regulation/24/2/a)
 
-[^key-e245f46e9c9e5d6311c36204e6750156]: Modification: Act excluded (S.) (10.10.2011) by [The Bananas (Enforcement of Quality Standards) (Scotland) Regulations 2011 (S.S.I. 2011/325)](https://www.legislation.gov.uk/ssi/2011/325), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/325/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/325/regulation/21/a)
+[^c-e245f46e9c9e5d6311c36204e6750156]: Modification: Act excluded (S.) (10.10.2011) by [The Bananas (Enforcement of Quality Standards) (Scotland) Regulations 2011 (S.S.I. 2011/325)](https://www.legislation.gov.uk/ssi/2011/325), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/325/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2011/325/regulation/21/a)
 
-[^key-928860508d770446d47289e19163e40e]: Modification: Act excluded (E.W.) (11.5.2012) by [The Quality Standards for Green Bananas (England and Wales) Regulations 2012 (S.I. 2012/947)](https://www.legislation.gov.uk/uksi/2012/947), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b), [22(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/22/a)
+[^c-928860508d770446d47289e19163e40e]: Modification: Act excluded (E.W.) (11.5.2012) by [The Quality Standards for Green Bananas (England and Wales) Regulations 2012 (S.I. 2012/947)](https://www.legislation.gov.uk/uksi/2012/947), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b), [22(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/22/a)
 
-[^key-6f0174ae5f3ac6bd8e9f4091153192b7]: Modification: Act excluded (S.) (1.2.2013) by [The Marketing of Bananas (Scotland) Regulations 2012 (S.S.I. 2012/349)](https://www.legislation.gov.uk/ssi/2012/349), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/349/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2012/349/regulation/21/a)
+[^c-6f0174ae5f3ac6bd8e9f4091153192b7]: Modification: Act excluded (S.) (1.2.2013) by [The Marketing of Bananas (Scotland) Regulations 2012 (S.S.I. 2012/349)](https://www.legislation.gov.uk/ssi/2012/349), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/349/regulation/1/1), [21(a)](https://www.legislation.gov.uk/ssi/2012/349/regulation/21/a)
 
 [^c655079]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1964/28/part/I) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.II](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/II).
 
@@ -497,7 +497,7 @@ If, for the purpose of an application made to a Minister with a view to the gran
 
 [^c655095]: Modification: Certain functions of Minister of Agriculture, Fisheries and Food transferred by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 4](https://www.legislation.gov.uk/uksi/1978/272/article/4)
 
-[^key-8342a9d03af3b2635751ace4ebc84cc6]: Modification: [S. 11(3)](https://www.legislation.gov.uk/ukpga/1964/28/section/11/3) explained (17.11.2003) by [Horticultural Produce (Community Grading Rules) (Scotland) Regulations 2003 (S.S.I. 2003/502)](https://www.legislation.gov.uk/ssi/2003/502), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2003/502/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2003/502/regulation/2)
+[^c-8342a9d03af3b2635751ace4ebc84cc6]: Modification: [S. 11(3)](https://www.legislation.gov.uk/ukpga/1964/28/section/11/3) explained (17.11.2003) by [Horticultural Produce (Community Grading Rules) (Scotland) Regulations 2003 (S.S.I. 2003/502)](https://www.legislation.gov.uk/ssi/2003/502), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2003/502/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2003/502/regulation/2)
 
 [^c655096]: Textual amendment: [S. 11(3)](https://www.legislation.gov.uk/ukpga/1964/28/section/11/3) added by [European Communities Act 1972 (c. 68, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 4(1)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/4/1)
 
@@ -521,19 +521,19 @@ If, for the purpose of an application made to a Minister with a view to the gran
 
 [^c655108]: Textual amendment: Word repealed by [Horticultural Produce Act 1986 (c. 20, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1986/20), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1986/20/section/7/2)
 
-[^key-36ff3431379e04122b50d787fd5efbc8]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1964/28/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-36ff3431379e04122b50d787fd5efbc8]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/1964/28/section/21) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-dd88ccded4465796622fffb9d4cfb826]: Textual amendment: [S. 22(1)](https://www.legislation.gov.uk/ukpga/1964/28/section/22/1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/3)
+[^c-dd88ccded4465796622fffb9d4cfb826]: Textual amendment: [S. 22(1)](https://www.legislation.gov.uk/ukpga/1964/28/section/22/1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 34(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/34/3)
 
 [^c655118]: Textual amendment: S. 22(2) repealed by [Trade Descriptions Act 1968 (c. 29)](https://www.legislation.gov.uk/ukpga/1968/29), [Sch. 2](https://www.legislation.gov.uk/ukpga/1968/29/schedule/2)
 
-[^key-49413b95c9d5ac827e856a111e30713c]: Modification: S. 22(3) explained (17.11.2003) by [Horticultural Produce (Community Grading Rules) (Scotland) Regulations 2003 (S.S.I. 2003/502)](https://www.legislation.gov.uk/ssi/2003/502), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2003/502/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2003/502/regulation/2)
+[^c-49413b95c9d5ac827e856a111e30713c]: Modification: S. 22(3) explained (17.11.2003) by [Horticultural Produce (Community Grading Rules) (Scotland) Regulations 2003 (S.S.I. 2003/502)](https://www.legislation.gov.uk/ssi/2003/502), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2003/502/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2003/502/regulation/2)
 
 [^c655119]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
 [^c655120]: Textual amendment: Words added by [European Communities Act 1972 (c. 68, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 4(1)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/4/1)
 
-[^key-6020d06c827c1520769f818a25832f94]: Textual amendment: S. 23(1A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/3)
+[^c-6020d06c827c1520769f818a25832f94]: Textual amendment: S. 23(1A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/3)
 
 [^c655121]: Textual amendment: Definition inserted by [European Communities Act 1972 (c. 68, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 4(1)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/4/1)
 
@@ -541,7 +541,7 @@ If, for the purpose of an application made to a Minister with a view to the gran
 
 [^c655124]: Textual amendment: Words substituted by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 11(2)](https://www.legislation.gov.uk/uksi/1978/272/article/11/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1978/272/schedule/5/paragraph/1)
 
-[^key-3e88ee16de3d3a50035be15e881e35a6]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/ukpga/1964/28/section/26/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-3e88ee16de3d3a50035be15e881e35a6]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/ukpga/1964/28/section/26/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c655125]: Textual amendment: Words repealed by [Northern Ireland Constitution Act 1973 (c. 36, SIF 29:3)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 

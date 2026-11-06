@@ -24,7 +24,7 @@ summary: ''
 
 Section 3
 
-**1.**[^key-95888bfa221b4c7ad95ad533e6276668] Before Schedule A1 to the Children Act 1989 insert—
+**1.**[^c-95888bfa221b4c7ad95ad533e6276668] Before Schedule A1 to the Children Act 1989 insert—
 
 > **Schedule ZA1 — Serious sexual offences for the purposes of section 10C**
 >
@@ -74,4 +74,4 @@ Section 3
 
 ## Annotations
 
-[^key-95888bfa221b4c7ad95ad533e6276668]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-95888bfa221b4c7ad95ad533e6276668]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

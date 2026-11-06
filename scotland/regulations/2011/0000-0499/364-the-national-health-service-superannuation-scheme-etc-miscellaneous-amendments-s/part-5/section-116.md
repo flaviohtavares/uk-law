@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Amendment of regulation 14[^key-15903982c77ad4b9e18d89e72e1d2eed]
+## 116. Amendment of regulation 14[^c-15903982c77ad4b9e18d89e72e1d2eed]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 14 (repayment of investments in certain cases), in paragraph (1)(b
 
 ## Annotations
 
-[^key-15903982c77ad4b9e18d89e72e1d2eed]: Commencement: [Reg. 116](https://www.legislation.gov.uk/ssi/2011/364/regulation/116) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-15903982c77ad4b9e18d89e72e1d2eed]: Commencement: [Reg. 116](https://www.legislation.gov.uk/ssi/2011/364/regulation/116) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

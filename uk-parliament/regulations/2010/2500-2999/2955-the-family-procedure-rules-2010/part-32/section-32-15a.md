@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.15A. Application for registration of a maintenance order in the family court – procedure in the family court[^key-c8a7876b195053275af5672e0f7f7e78]
+## 32.15A. Application for registration of a maintenance order in the family court – procedure in the family court[^c-c8a7876b195053275af5672e0f7f7e78]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8a7876b195053275af5672e0f7f7e78]: Textual amendment: Rule 32.15A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [93](https://www.legislation.gov.uk/uksi/2013/3204/rule/93) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-c8a7876b195053275af5672e0f7f7e78]: Textual amendment: Rule 32.15A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [93](https://www.legislation.gov.uk/uksi/2013/3204/rule/93) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

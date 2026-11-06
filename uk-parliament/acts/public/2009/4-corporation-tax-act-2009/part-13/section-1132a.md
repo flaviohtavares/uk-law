@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1132A. “Qualifying earnings”[^key-a5780d0420d96f15298d0b5f12499de8]
+## 1132A. “Qualifying earnings”[^c-a5780d0420d96f15298d0b5f12499de8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ is, in respect of any part of those earnings, required to account to an officer 
 
 ## Annotations
 
-[^key-a5780d0420d96f15298d0b5f12499de8]: Textual amendment: [S. 1132A](https://www.legislation.gov.uk/ukpga/2009/4/section/1132A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/6), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-a5780d0420d96f15298d0b5f12499de8]: Textual amendment: [S. 1132A](https://www.legislation.gov.uk/ukpga/2009/4/section/1132A) inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/6), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

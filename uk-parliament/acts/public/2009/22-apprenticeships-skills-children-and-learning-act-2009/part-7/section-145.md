@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Assignment of number of hours of guided learning[^key-cd67083b29791d5dee84595c6abf35a6]
+## 145. Assignment of number of hours of guided learning[^c-cd67083b29791d5dee84595c6abf35a6]
 
 *Extent: E+W+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) the recognised body determines that the qualification is relevant for 2008 Act purposes, and
 - (b) the body assigns to the particular form of the qualification a number of hours of guided learning.
 
-(4)[^key-ab3eed2fd1190b9242605c52675a1c49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ab3eed2fd1190b9242605c52675a1c49] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A recognised body must apply the applicable criteria then in force under section 146 when determining—
 
@@ -63,6 +63,6 @@ but does not include time spent on unsupervised preparation or study, whether at
 
 ## Annotations
 
-[^key-cd67083b29791d5dee84595c6abf35a6]: Commencement: S. 145 in force at 31.5.2013 by [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/975/article/2/a)
+[^c-cd67083b29791d5dee84595c6abf35a6]: Commencement: S. 145 in force at 31.5.2013 by [S.I. 2013/975](https://www.legislation.gov.uk/uksi/2013/975), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/975/article/2/a)
 
-[^key-ab3eed2fd1190b9242605c52675a1c49]: Textual amendment: S. 145(4) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-ab3eed2fd1190b9242605c52675a1c49]: Textual amendment: S. 145(4) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1

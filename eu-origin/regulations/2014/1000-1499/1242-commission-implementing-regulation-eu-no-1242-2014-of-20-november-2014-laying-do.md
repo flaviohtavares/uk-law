@@ -34,38 +34,38 @@ of 20 November 2014
 
 laying down rules pursuant to Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regard to the presentation of relevant cumulative data on operations (revoked)
 
-[^key-9a92511574ae1d0a5daacf5f116babe6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a92511574ae1d0a5daacf5f116babe6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-9a92511574ae1d0a5daacf5f116babe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9a92511574ae1d0a5daacf5f116babe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9a92511574ae1d0a5daacf5f116babe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9a92511574ae1d0a5daacf5f116babe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9a92511574ae1d0a5daacf5f116babe6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9a92511574ae1d0a5daacf5f116babe6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Information to be provided for each operation for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^key-9a92511574ae1d0a5daacf5f116babe6]
+## ANNEX I — Information to be provided for each operation for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^c-9a92511574ae1d0a5daacf5f116babe6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Information to be provided for each operation only where the operation relates to fleet measures for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^key-9a92511574ae1d0a5daacf5f116babe6]
+## ANNEX II — Information to be provided for each operation only where the operation relates to fleet measures for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^c-9a92511574ae1d0a5daacf5f116babe6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Information to be provided for each operation on project implementation data for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^key-9a92511574ae1d0a5daacf5f116babe6]
+## ANNEX III — Information to be provided for each operation on project implementation data for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^c-9a92511574ae1d0a5daacf5f116babe6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Information to be provided for each operation on result indicators for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^key-9a92511574ae1d0a5daacf5f116babe6]
+## ANNEX IV — Information to be provided for each operation on result indicators for the following fields as referred to in the database structure laid down in Annex I of Regulation (EU) No 1243/2014[^c-9a92511574ae1d0a5daacf5f116babe6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Reference tables[^key-9a92511574ae1d0a5daacf5f116babe6]
+## ANNEX V — Reference tables[^c-9a92511574ae1d0a5daacf5f116babe6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9a92511574ae1d0a5daacf5f116babe6]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-9a92511574ae1d0a5daacf5f116babe6]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

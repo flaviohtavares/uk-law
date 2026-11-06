@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34F. Article 34 contribution notice issued by reference to employer resources test: defence[^key-48c4e94680e42484f969ef87022c74fe]
+## 34F. Article 34 contribution notice issued by reference to employer resources test: defence[^c-48c4e94680e42484f969ef87022c74fe]
 
 *Extent: N.I.*
 
@@ -82,4 +82,4 @@ the acts or failures within sub-paragraph (b) are not to count for the purposes 
 
 ## Annotations
 
-[^key-48c4e94680e42484f969ef87022c74fe]: Textual amendment: [Arts. 34E](https://www.legislation.gov.uk/nisi/2005/255/article/34E), [34F](https://www.legislation.gov.uk/nisi/2005/255/article/34F) inserted (1.9.2021 for specified purposes, 1.10.2021 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/2/3); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/c); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/a) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))
+[^c-48c4e94680e42484f969ef87022c74fe]: Textual amendment: [Arts. 34E](https://www.legislation.gov.uk/nisi/2005/255/article/34E), [34F](https://www.legislation.gov.uk/nisi/2005/255/article/34F) inserted (1.9.2021 for specified purposes, 1.10.2021 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/2/3); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/c); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/a) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))

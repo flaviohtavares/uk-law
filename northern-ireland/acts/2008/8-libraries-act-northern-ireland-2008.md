@@ -499,21 +499,21 @@ Section 1.
 
 ### Continuity
 
-**5.**[^key-e103836c4c6004880d3a1aaaa0134211] A transfer by virtue of a scheme does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
+**5.**[^c-e103836c4c6004880d3a1aaaa0134211] A transfer by virtue of a scheme does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
 
-**6.**[^key-e103836c4c6004880d3a1aaaa0134211] Anything which—
+**6.**[^c-e103836c4c6004880d3a1aaaa0134211] Anything which—
 
 - (a) is done by the transferor for the purposes of or otherwise in connection with anything transferred by virtue of a scheme, and
 - (b) is in effect immediately before the transfer date,
 
 is to be treated as done by the Authority
 
-**7.**[^key-e103836c4c6004880d3a1aaaa0134211] There may be continued by or in relation to the Authority anything (including legal proceedings)—
+**7.**[^c-e103836c4c6004880d3a1aaaa0134211] There may be continued by or in relation to the Authority anything (including legal proceedings)—
 
 - (a) which relates to anything transferred by virtue of a scheme, and
 - (b) which is in the process of being done by or in relation to the transferor immediately before the transfer date.
 
-**8.**[^key-e103836c4c6004880d3a1aaaa0134211] (1) This paragraph applies to any document—
+**8.**[^c-e103836c4c6004880d3a1aaaa0134211] (1) This paragraph applies to any document—
 
 - (a) which relates to anything transferred by virtue of a scheme, and
 - (b) which is in effect immediately before the transfer date.
@@ -546,7 +546,7 @@ Section 10.
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI. 7)
 
-**4.**[^key-79ebc27fdf6a244a478f84faf10dfdb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-79ebc27fdf6a244a478f84faf10dfdb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Employment Rights (Northern Ireland) Order 1996 (NI 16
 
@@ -581,8 +581,8 @@ Section 10.
 
     [S. 12(2)](https://www.legislation.gov.uk/nia/2008/8/section/12/2) power partly exercised: 1.4.2009 appointed for specified provisions by [S.R. 2009/123](https://www.legislation.gov.uk/nisr/2009/123), [art. 2](https://www.legislation.gov.uk/nisr/2009/123/article/2)
 
-[^key-e103836c4c6004880d3a1aaaa0134211]: Modification: [Sch. 2 paras. 5-8](https://www.legislation.gov.uk/nia/2008/8/schedule/2/paragraph/5) excluded (12.12.2014) by [Education Act (NorthernÂ Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7](https://www.legislation.gov.uk/nia/2014/12/section/7), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3))
+[^c-e103836c4c6004880d3a1aaaa0134211]: Modification: [Sch. 2 paras. 5-8](https://www.legislation.gov.uk/nia/2008/8/schedule/2/paragraph/5) excluded (12.12.2014) by [Education Act (NorthernÂ Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7](https://www.legislation.gov.uk/nia/2014/12/section/7), [Sch. 2 para. 4(6)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/6) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3))
 
-[^key-79ebc27fdf6a244a478f84faf10dfdb4]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/3/paragraph/4) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-79ebc27fdf6a244a478f84faf10dfdb4]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/3/paragraph/4) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
 [^c21473241]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/4) partly in operation; [Sch. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/4) not in operation at Royal Assent see [s. 12(2)](https://www.legislation.gov.uk/nia/2008/8/section/12/2); [Sch. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/4) in operation at 1.4.2009 except in so far as it relates to art. 73(2) of the Education and Libraries (Northern Ireland) Order 1986 by [S.R. 2009/123](https://www.legislation.gov.uk/nisr/2009/123), [art. 2(g)](https://www.legislation.gov.uk/nisr/2009/123/article/2/g)

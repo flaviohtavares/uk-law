@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.165. Voting rights and resolutions[^key-44cceade82d249a6d8c43d70ec995706]
+## 4.165. Voting rights and resolutions[^c-44cceade82d249a6d8c43d70ec995706]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44cceade82d249a6d8c43d70ec995706]: Commencement: [Rule 4.165](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.165) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-44cceade82d249a6d8c43d70ec995706]: Commencement: [Rule 4.165](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.165) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

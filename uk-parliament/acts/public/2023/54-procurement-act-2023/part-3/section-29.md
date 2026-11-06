@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Excluding a supplier that is a threat to national security[^key-894ea8aff2162fb8086b04a98bc92651][^key-fed1c7c2e3ef7ffbad82886c8f86d62c]
+## 29. Excluding a supplier that is a threat to national security[^c-894ea8aff2162fb8086b04a98bc92651][^c-fed1c7c2e3ef7ffbad82886c8f86d62c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-894ea8aff2162fb8086b04a98bc92651]: Commencement: S. 29 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-894ea8aff2162fb8086b04a98bc92651]: Commencement: S. 29 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-fed1c7c2e3ef7ffbad82886c8f86d62c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/54/section/29) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-fed1c7c2e3ef7ffbad82886c8f86d62c]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/54/section/29) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Multiple collections[^key-0de80612120141a63c1057857f1c370b]
+## 38. Multiple collections[^c-0de80612120141a63c1057857f1c370b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0de80612120141a63c1057857f1c370b]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2005/894/regulation/38) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/13) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-0de80612120141a63c1057857f1c370b]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2005/894/regulation/38) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/13) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

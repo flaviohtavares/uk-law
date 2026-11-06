@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67A. Interviews[^key-b66393d55701f63b0939adb97d50f2b9]
+## 67A. Interviews[^c-b66393d55701f63b0939adb97d50f2b9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b66393d55701f63b0939adb97d50f2b9]: Textual amendment: [Art. 67A](https://www.legislation.gov.uk/nisi/2005/255/article/67A) inserted (1.9.2021 for specified purposes, 1.10.2021 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/9/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/e); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/b) (with [art. 9](https://www.legislation.gov.uk/nisr/2021/271/article/9))
+[^c-b66393d55701f63b0939adb97d50f2b9]: Textual amendment: [Art. 67A](https://www.legislation.gov.uk/nisi/2005/255/article/67A) inserted (1.9.2021 for specified purposes, 1.10.2021 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/9/1); [S.R. 2021/240](https://www.legislation.gov.uk/nisr/2021/240), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2021/240/article/2/1/e); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/5/b) (with [art. 9](https://www.legislation.gov.uk/nisr/2021/271/article/9))

@@ -40,20 +40,20 @@ setting out the arrangements for Community comparative trials and tests on seeds
 
 (2005/5/EC) (revoked)
 
-[^key-63f6629854f3f013745650075624ef17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-63f6629854f3f013745650075624ef17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-63f6629854f3f013745650075624ef17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-63f6629854f3f013745650075624ef17]
+## ANNEX[^c-63f6629854f3f013745650075624ef17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-63f6629854f3f013745650075624ef17]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f6629854f3f013745650075624ef17]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

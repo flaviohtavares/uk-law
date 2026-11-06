@@ -37,7 +37,7 @@ An Act to provide for the greater uniformity in the weights and measures used in
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c582301]
 
-## 2. Amendment of Corn Returns Act, 1882.[^key-687fe57e2a57e2a462bf676acfeb0d26]
+## 2. Amendment of Corn Returns Act, 1882.[^c-687fe57e2a57e2a462bf676acfeb0d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -73,7 +73,7 @@ In this Act the expression “corn” shall, where the context permits, include 
 
 [^c582301]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Geo5/11-12/35/section/1) repealed by [Agriculture (Miscellaneous Provisions) Act 1972 (c.62, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1972/62), [s. 17(1)](https://www.legislation.gov.uk/ukpga/1972/62/section/17/1), [s. 26(3)(4)](https://www.legislation.gov.uk/ukpga/1972/62/section/26/3/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1972/62/schedule/6)
 
-[^key-687fe57e2a57e2a462bf676acfeb0d26]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo5/11-12/35/section/2) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-687fe57e2a57e2a462bf676acfeb0d26]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo5/11-12/35/section/2) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c582307]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Geo5/11-12/35/section/3) repealed by [Statute Law Revision Act 1950 (14 Geo. 6 c. 6)](https://www.legislation.gov.uk/ukpga/Geo6/14/6)
 

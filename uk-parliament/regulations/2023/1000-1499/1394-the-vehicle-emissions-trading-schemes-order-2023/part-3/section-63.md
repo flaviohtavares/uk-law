@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Activity to which the VCTS applies and unit of measurement of activity[^key-52a245c099bd76576eda31dadeedab12]
+## 63. Activity to which the VCTS applies and unit of measurement of activity[^c-52a245c099bd76576eda31dadeedab12]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52a245c099bd76576eda31dadeedab12]: Commencement: Art. 63 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-52a245c099bd76576eda31dadeedab12]: Commencement: Art. 63 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

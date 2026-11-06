@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Legislative Council, Council Committees and Executive Council[^key-25fc6e6fe1aa780c7cd032ce967b3f60]
+## 7. Legislative Council, Council Committees and Executive Council[^c-25fc6e6fe1aa780c7cd032ce967b3f60]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25fc6e6fe1aa780c7cd032ce967b3f60]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/1751/article/7) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-25fc6e6fe1aa780c7cd032ce967b3f60]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/1751/article/7) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

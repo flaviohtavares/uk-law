@@ -50,7 +50,7 @@ In this Schedule, “animal” means solipeds, ruminants, pigs, rabbits, poultry
 - (c) the killing of a pig, sheep or goat by its owner for the owner’s private domestic consumption unless it is killed by bleeding in which case it must be stunned and bled in accordance with Part 5; or
 - (d) the killing of surplus chicks which are less than 72 hours old or embryos in hatchery waste provided that paragraph 44 is complied with.
 
-(2) In this paragraph, “disease control” means the control by the competent authority of any disease which is notifiable by or under the provisions of the Animal Health Act 1981[^f00026] or in pursuance of any assimilated[^key-7ab3338ace061c53487cee2232aaefd7] obligation.
+(2) In this paragraph, “disease control” means the control by the competent authority of any disease which is notifiable by or under the provisions of the Animal Health Act 1981[^f00026] or in pursuance of any assimilated[^c-7ab3338ace061c53487cee2232aaefd7] obligation.
 
 ### PART 2 — Layout, construction and equipment of premises
 
@@ -302,7 +302,7 @@ The business operator and any person engaged in the stunning or killing of an an
 
 #### 35. Non-penetrative captive bolt
 
-No person may stun or kill[^key-1b3b1d4216851939fe2bcd8209f0cbe8] an animal using a non-penetrative captive bolt except by an instrument which is applied in the proper position and which is used with the correct strength of cartridge or other propellant in accordance with the manufacturer’s instructions to produce an effective stun or kill, as appropriate[^key-fb07cc4b056630986b14e2d93072eca0].
+No person may stun or kill[^c-1b3b1d4216851939fe2bcd8209f0cbe8] an animal using a non-penetrative captive bolt except by an instrument which is applied in the proper position and which is used with the correct strength of cartridge or other propellant in accordance with the manufacturer’s instructions to produce an effective stun or kill, as appropriate[^c-fb07cc4b056630986b14e2d93072eca0].
 
 #### 36. Percussive blow to the head
 
@@ -454,8 +454,8 @@ No person may kill a horse in a knacker’s yard—
 
 [^f00026]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22).
 
-[^key-7ab3338ace061c53487cee2232aaefd7]: Textual amendment: Word in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/2/paragraph/3/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 36](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/36)
+[^c-7ab3338ace061c53487cee2232aaefd7]: Textual amendment: Word in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/1782/schedule/2/paragraph/3/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 36](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/36)
 
-[^key-1b3b1d4216851939fe2bcd8209f0cbe8]: Textual amendment: Words in [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2015/1782/schedule/2/paragraph/35) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/3/a)
+[^c-1b3b1d4216851939fe2bcd8209f0cbe8]: Textual amendment: Words in [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2015/1782/schedule/2/paragraph/35) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(3)(a)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/3/a)
 
-[^key-fb07cc4b056630986b14e2d93072eca0]: Textual amendment: Words in [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2015/1782/schedule/2/paragraph/35) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/3/b)
+[^c-fb07cc4b056630986b14e2d93072eca0]: Textual amendment: Words in [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2015/1782/schedule/2/paragraph/35) inserted (3.2.2022) by [The Protection of Animals at the Time of Killing (Amendment) (England) Regulations 2022 (S.I. 2022/33)](https://www.legislation.gov.uk/uksi/2022/33), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/1/b), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/33/regulation/3/3/b)

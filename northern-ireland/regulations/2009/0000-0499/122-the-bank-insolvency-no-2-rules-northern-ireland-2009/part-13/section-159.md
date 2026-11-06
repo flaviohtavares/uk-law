@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 159. Variation of, or addition to, the list[^key-306dba01f267e79848b7088e40b4ef43]
+## 159. Variation of, or addition to, the list[^c-306dba01f267e79848b7088e40b4ef43]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-306dba01f267e79848b7088e40b4ef43]: Commencement: Rule 159 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-306dba01f267e79848b7088e40b4ef43]: Commencement: Rule 159 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

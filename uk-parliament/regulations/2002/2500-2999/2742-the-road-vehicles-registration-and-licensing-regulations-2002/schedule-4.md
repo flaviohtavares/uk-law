@@ -31,7 +31,7 @@ Regulation 26
 - “authorised insurer” has the meaning given in section 145(5) of the 1988 Act;
 - “personal credit agreement” has the meaning given in section 8(1) of the Consumer Credit Act 1974 [^c9630271];
 - “relevant vehicle” means a vehicle which is either a relevant GB vehicle or a relevant NI vehicle;
-- “the required declaration” means a declaration made to the Secretary of State by [^key-cdc5f62baae7c0fbe18067c4ffe9f636]... the keeper of a relevant vehicle to the effect that (except for use under a trade licence) he does not for the time being intend to use or keep the vehicle on a public road and will not use or keep the vehicle on a public road without first taking out a vehicle licence (or if appropriate a nil licence) for the vehicle;
+- “the required declaration” means a declaration made to the Secretary of State by [^c-cdc5f62baae7c0fbe18067c4ffe9f636]... the keeper of a relevant vehicle to the effect that (except for use under a trade licence) he does not for the time being intend to use or keep the vehicle on a public road and will not use or keep the vehicle on a public road without first taking out a vehicle licence (or if appropriate a nil licence) for the vehicle;
 - “the required particulars” in relation to a relevant vehicle are particulars of—
   - (a) the registration mark of the vehicle;
   - (b) the make and model of the vehicle; and
@@ -80,7 +80,7 @@ TABLE
 
 ### PART II — Vehicles Registered in the GB Records and Kept in Great Britain
 
-#### 3. Surrender of a vehicle licence—relevant GB vehicle[^key-c13cb02e4fb637131b71934001a43e24]
+#### 3. Surrender of a vehicle licence—relevant GB vehicle[^c-c13cb02e4fb637131b71934001a43e24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,7 +91,7 @@ Where a vehicle licence or nil licence ceases to be in force for a relevant GB v
 - (a) if he is a relevant vehicle trader, not later than the end of the period of three months starting with the day following the expired period; or
 - (b) in any other case, not later than that day.
 
-#### 5. Person keeping an unlicensed vehicle—relevant GB vehicle[^key-18951734b8f6c68aa3de88ac59309d26]
+#### 5. Person keeping an unlicensed vehicle—relevant GB vehicle[^c-18951734b8f6c68aa3de88ac59309d26]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,7 +104,7 @@ On a change in the keeper of a relevant GB vehicle which is unlicensed, unless a
 
 ### PART III — Vehicles Registered in the NI Records and kept in Northern Ireland
 
-#### 7. Surrender of a vehicle licence—relevant NI vehicle[^key-d5f918e77eaac7d7f5a84e275086f908]
+#### 7. Surrender of a vehicle licence—relevant NI vehicle[^c-d5f918e77eaac7d7f5a84e275086f908]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,7 +115,7 @@ Where, on or after 30th November 2002, a vehicle licence or nil licence ceases t
 - (a) if he is a relevant vehicle trader, not later than the end of the period of three months starting with the day following the expired period; or
 - (b) in any other case, not later than that day.
 
-#### 9. Person keeping an unlicensed vehicle—relevant NI vehicle[^key-e34cb3bff346ccd2308fe29797831415]
+#### 9. Person keeping an unlicensed vehicle—relevant NI vehicle[^c-e34cb3bff346ccd2308fe29797831415]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -130,12 +130,12 @@ On a change occurring after 30th November 2002 in the keeper of a relevant NI ve
 
 [^c9630271]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39); section 8 was amended by the Consumer Credit (Increase of Monetary Limits) Order 1983 [S.I. 1983/1878](https://www.legislation.gov.uk/uksi/1983/1878) Schedule; Part II and by [S.I. 1998/996](https://www.legislation.gov.uk/uksi/1998/996).
 
-[^key-cdc5f62baae7c0fbe18067c4ffe9f636]: Textual amendment: Words in Sch. 4 para. 1(1) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/15/2)
+[^c-cdc5f62baae7c0fbe18067c4ffe9f636]: Textual amendment: Words in Sch. 4 para. 1(1) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/15/2)
 
-[^key-c13cb02e4fb637131b71934001a43e24]: Textual amendment: Sch. 4 para. 3 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/15/3)
+[^c-c13cb02e4fb637131b71934001a43e24]: Textual amendment: Sch. 4 para. 3 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/15/3)
 
-[^key-18951734b8f6c68aa3de88ac59309d26]: Textual amendment: Sch. 4 para. 5 omitted (16.12.2013) by virtue of [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2013 (S.I. 2013/2909)](https://www.legislation.gov.uk/uksi/2013/2909), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2909/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2909/regulation/4)
+[^c-18951734b8f6c68aa3de88ac59309d26]: Textual amendment: Sch. 4 para. 5 omitted (16.12.2013) by virtue of [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2013 (S.I. 2013/2909)](https://www.legislation.gov.uk/uksi/2013/2909), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2909/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2909/regulation/4)
 
-[^key-d5f918e77eaac7d7f5a84e275086f908]: Textual amendment: Sch. 4 para. 7 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/15/4)
+[^c-d5f918e77eaac7d7f5a84e275086f908]: Textual amendment: Sch. 4 para. 7 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/15/4)
 
-[^key-e34cb3bff346ccd2308fe29797831415]: Textual amendment: Sch. 4 para. 9 omitted (16.12.2013) by virtue of [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2013 (S.I. 2013/2909)](https://www.legislation.gov.uk/uksi/2013/2909), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2909/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2909/regulation/4)
+[^c-e34cb3bff346ccd2308fe29797831415]: Textual amendment: Sch. 4 para. 9 omitted (16.12.2013) by virtue of [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2013 (S.I. 2013/2909)](https://www.legislation.gov.uk/uksi/2013/2909), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2909/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2909/regulation/4)

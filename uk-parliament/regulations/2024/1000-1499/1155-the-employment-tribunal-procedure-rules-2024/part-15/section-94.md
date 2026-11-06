@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94. Interim relief proceedings[^key-daf034ddeecbd03ac9c34adc4af55640]
+## 94. Interim relief proceedings[^c-daf034ddeecbd03ac9c34adc4af55640]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ When the Tribunal hears an application for interim relief (or for its variation 
 
 ## Annotations
 
-[^key-daf034ddeecbd03ac9c34adc4af55640]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2024/1155/rule/94) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-daf034ddeecbd03ac9c34adc4af55640]: Commencement: [Rule 94](https://www.legislation.gov.uk/uksi/2024/1155/rule/94) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00035]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52); section 161 was amended by the Employment Relations Act [2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), Schedule 1, paragraph 12 and section 165 was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2).
 

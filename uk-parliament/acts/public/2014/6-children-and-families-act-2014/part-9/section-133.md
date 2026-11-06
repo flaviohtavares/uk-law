@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Complaints to employment tribunals[^key-5529d4f2a04f4ada425e491a30579d2d]
+## 133. Complaints to employment tribunals[^c-5529d4f2a04f4ada425e491a30579d2d]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5529d4f2a04f4ada425e491a30579d2d]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2014/6/section/133) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/m) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))
+[^c-5529d4f2a04f4ada425e491a30579d2d]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2014/6/section/133) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/m) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))

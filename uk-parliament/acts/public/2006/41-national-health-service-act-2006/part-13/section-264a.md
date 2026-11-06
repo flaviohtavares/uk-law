@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264A. Provision of information about health service products[^key-711132df8f7ac11ede93dbe492becd09]
+## 264A. Provision of information about health service products[^c-711132df8f7ac11ede93dbe492becd09]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711132df8f7ac11ede93dbe492becd09]: Textual amendment: Ss. 264A-264C inserted (7.8.2017) by [Health Service Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/23/section/8), [12(3)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/3); [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/g)
+[^c-711132df8f7ac11ede93dbe492becd09]: Textual amendment: Ss. 264A-264C inserted (7.8.2017) by [Health Service Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/23/section/8), [12(3)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/3); [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/g)

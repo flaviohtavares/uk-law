@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Cereal Seed (England) Regulations 2002 (revoked)[^key-92c28057b73511d0c515ab186efb38ee]
+The Cereal Seed (England) Regulations 2002 (revoked)[^c-92c28057b73511d0c515ab186efb38ee]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 31st January 2003
 
-[^key-92c28057b73511d0c515ab186efb38ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92c28057b73511d0c515ab186efb38ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — General[^key-92c28057b73511d0c515ab186efb38ee]
+### PART I — General[^c-92c28057b73511d0c515ab186efb38ee]
 
 *Extent: E+W+S+NI*
 
@@ -61,7 +61,7 @@ Coming into force
 - [Section 4 — Definition of marketing](part-i/section-4.md)
 - [Section 5 — Seed to which these Regulations apply](part-i/section-5.md)
 
-### PART II — Procedures Relating to the Official Certification of Seed[^key-92c28057b73511d0c515ab186efb38ee]
+### PART II — Procedures Relating to the Official Certification of Seed[^c-92c28057b73511d0c515ab186efb38ee]
 
 *Extent: E+W+S+NI*
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 13 — Re-grading of seed](part-ii/section-13.md)
 - [Section 14 — Withdrawals](part-ii/section-14.md)
 
-### PART III — Control of Cereal Seed[^key-92c28057b73511d0c515ab186efb38ee]
+### PART III — Control of Cereal Seed[^c-92c28057b73511d0c515ab186efb38ee]
 
 *Extent: E+W+S+NI*
 
@@ -97,7 +97,7 @@ Coming into force
 - [Section 25 — Sealing of packages](part-iii/section-25.md)
 - [Section 26 — Labelling of packages](part-iii/section-26.md)
 
-### PART IV — Miscellaneous and Supplemental Provisions[^key-92c28057b73511d0c515ab186efb38ee]
+### PART IV — Miscellaneous and Supplemental Provisions[^c-92c28057b73511d0c515ab186efb38ee]
 
 *Extent: E+W+S+NI*
 
@@ -125,14 +125,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-92c28057b73511d0c515ab186efb38ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92c28057b73511d0c515ab186efb38ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
 **May not be in force at this date. Check the source.**
 
-[^key-92c28057b73511d0c515ab186efb38ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92c28057b73511d0c515ab186efb38ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-92c28057b73511d0c515ab186efb38ee]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3173) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(c)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/c)
+[^c-92c28057b73511d0c515ab186efb38ee]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3173) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(c)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/c)

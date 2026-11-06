@@ -49,11 +49,11 @@ The Secretary of State, having considered the report and recommendation of the s
 
 The Secretary of State, in exercise of the powers conferred by sections 114, 115 and 120 of the 2008 Act, makes the following Order—
 
-## 1. Citation and commencement[^key-3b9c6999c18886d5866cd691aa2e1212]
+## 1. Citation and commencement[^c-3b9c6999c18886d5866cd691aa2e1212]
 
 This Order may be cited as the South Hook Combined Heat and Power Plant Order 2014 and shall come into force on the day after the day on which it is made.
 
-## 2. Interpretation[^key-248c0bb052a1fbb0c6975080b84cd479]
+## 2. Interpretation[^c-248c0bb052a1fbb0c6975080b84cd479]
 
 (1) In this Order—
 
@@ -72,7 +72,7 @@ This Order may be cited as the South Hook Combined Heat and Power Plant Order 20
 - “design principles statement” means the design principles statement with reference number 1.22 (28th February 2014) and certified as the design principles statement by the Secretary of State for the purposes of this Order;
 - “draft CCP” means the draft code of construction practice with reference number 1.23 submitted with the application and certified as the draft CCP by the Secretary of State for the purposes of this Order;
 - “draft landscaping plan” means the draft landscaping plan with reference number 2.13 and certified as the draft landscaping plan by the Secretary of State for the purposes of this Order;
-- “the Environmental Permitting Regulations” means the Environmental Permitting (England and Wales) Regulations 2016 *(Extent: E+W)*[^key-b9246af0f0236eef486e3d9104a3544d] as may be amended from time to time;
+- “the Environmental Permitting Regulations” means the Environmental Permitting (England and Wales) Regulations 2016 *(Extent: E+W)*[^c-b9246af0f0236eef486e3d9104a3544d] as may be amended from time to time;
 - “environmental statement” means the environmental statement in three volumes and a non-technical summary with reference numbers 1.3.1 to 1.3.4 submitted with the application and certified as the environmental statement by the Secretary of State for the purposes of this Order;
 - “Feasibility Study” means the document entitled Carbon Capture Readiness Assessment with reference number 1.21 submitted with the application and certified as the Feasibility Study by the Secretary of State for the purposes of this Order;
 - “highway” and “highway authority” have the same meaning as in the 1980 Act;
@@ -96,7 +96,7 @@ This Order may be cited as the South Hook Combined Heat and Power Plant Order 20
 
 (3) All distances, directions and lengths referred to in this Order are approximate.
 
-## 3. Development consent etc. granted by the Order[^key-a7f0417676049b0677910d328712b1df]
+## 3. Development consent etc. granted by the Order[^c-a7f0417676049b0677910d328712b1df]
 
 (1) Subject to the provisions of this Order and to the requirements the undertaker is granted development consent for the authorised development to be carried out within the Order limits, and Schedule 1 (authorised development) and Schedule 2 (requirements) have effect for that purpose.
 
@@ -116,7 +116,7 @@ This Order may be cited as the South Hook Combined Heat and Power Plant Order 20
   - (i) the limits of deviation dimensions are a length of 23m (approximate east/west axis), and width of 8m (approximate north/south axis);
   - (ii) the key building dimensions are a height up to 85m, and diameter up to 8m.
 
-## 4. Procedure in relation to certain approvals etc. under requirements[^key-ef13c92e05b412a0925f7922d12b0ef3]
+## 4. Procedure in relation to certain approvals etc. under requirements[^c-ef13c92e05b412a0925f7922d12b0ef3]
 
 (1) Where an application is made to a relevant planning authority for any consent, agreement or approval required by a requirement, the following provisions apply, insofar as they are not inconsistent with orders, rules or regulations made under the 2008 Act, in respect of that application as they would apply if the consent, agreement or approval so required was required by a condition imposed on a grant of planning permission—
 
@@ -127,17 +127,17 @@ This Order may be cited as the South Hook Combined Heat and Power Plant Order 20
 
 (3) For the avoidance of doubt, the right of appeal conferred by paragraph (1) above pursuant to sections 78 and 79 of the 1990 Act is by notice to the Secretary of State.
 
-## 5. Maintenance of authorised development[^key-23b20d9c05b9f4285080f13173a89432]
+## 5. Maintenance of authorised development[^c-23b20d9c05b9f4285080f13173a89432]
 
 The undertaker may at any time maintain the authorised development, except to the extent that this Order, including the requirements or an agreement made under this Order, provides otherwise.
 
-## 6. Operation of generating station[^key-efa890396cff03aa695a03a63c068e3f]
+## 6. Operation of generating station[^c-efa890396cff03aa695a03a63c068e3f]
 
 (1) The undertaker is hereby authorised to operate the generating station comprised in the authorised development for the purpose of generating electricity and heat, including as a combined heat and power plant through the provision of heat to the existing South Hook LNG Terminal together with the generation of electricity.
 
 (2) This article does not relieve the undertaker of any obligation to obtain any permit or licence under any other legislation that may be required from time to time to authorise the operation of a generating station.
 
-## 7. Consent to transfer benefit of Order[^key-d264820a25691b3079288d5a55e7cf4d]
+## 7. Consent to transfer benefit of Order[^c-d264820a25691b3079288d5a55e7cf4d]
 
 (1) Without prejudice to section 156 of the 2008 Act, the undertaker may, with the consent of the Secretary of State—
 
@@ -148,7 +148,7 @@ The undertaker may at any time maintain the authorised development, except to th
 
 (3) The exercise by a person of any benefits or rights conferred in accordance with any transfer or grant under paragraph (1) must be subject to the same restrictions, liabilities and obligations as would apply under this Order if those benefits or rights were exercised by the undertaker.
 
-## 8. Defence to proceedings in respect of statutory nuisance[^key-f593e03024b61e08afe9178d8039dcfd]
+## 8. Defence to proceedings in respect of statutory nuisance[^c-f593e03024b61e08afe9178d8039dcfd]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00010] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order shall be made, and no fine may be imposed, under section 82(2) of that Act if—
 
@@ -161,11 +161,11 @@ The undertaker may at any time maintain the authorised development, except to th
 
 (2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) of the Control of Pollution Act 1974 and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded), shall not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised development.
 
-## 9. Access to works[^key-240721f1a6797faae23bf43af690ec18]
+## 9. Access to works[^c-240721f1a6797faae23bf43af690ec18]
 
 The undertaker may, for the purposes of the authorised development, and after the details of the proposed access works have been submitted to and approved by the relevant planning authorities, form and lay out such means of access or improve existing means of access, at such locations within the Order limits as the undertaker reasonably requires for the purposes of the authorised development.
 
-## 10. Discharge of water[^key-901bea06c08e0ec6ae486aec2d2348cc]
+## 10. Discharge of water[^c-901bea06c08e0ec6ae486aec2d2348cc]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -191,7 +191,7 @@ The undertaker may, for the purposes of the authorised development, and after th
 - (c) other expressions, excluding watercourse, used both in this article and in the Environmental Permitting Regulations have the same meaning as in those Regulations; and
 - (d) other expressions, excluding watercourse, used both in this article and the Water Resources Act 1991[^f00014] but not the Environmental Permitting Regulations have the same meaning as in that Act.
 
-## 11. Authority to survey and investigate and remediate the land[^key-dcb90b5a34b802b2112ff41eb45f122b]
+## 11. Authority to survey and investigate and remediate the land[^c-dcb90b5a34b802b2112ff41eb45f122b]
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits and—
 
@@ -215,7 +215,7 @@ The undertaker may, for the purposes of the authorised development, and after th
 
 (5) The undertaker must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the authority conferred by this article, such compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-## 12. Application of landlord and tenant law[^key-2ef0bf45040e387e6c9f11ef70a9bc59]
+## 12. Application of landlord and tenant law[^c-2ef0bf45040e387e6c9f11ef70a9bc59]
 
 (1) This article applies to—
 
@@ -232,11 +232,11 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-## 13. Operational land for purposes of the 1990 Act[^key-b950c0b16e71530f7c200b6952e03fac]
+## 13. Operational land for purposes of the 1990 Act[^c-b950c0b16e71530f7c200b6952e03fac]
 
 Development consent granted by this Order shall be treated as specific planning permission for the purposes of section 264(3)(a) of the 1990 Act (cases in which land is to be treated as operational land for the purposes of that Act) from the date at which the undertaker obtains a generation licence under section 6 of the Electricity Act 1989.
 
-## 14. Carbon Capture Readiness[^key-3098becbfa60e6b698b97300e6a54865]
+## 14. Carbon Capture Readiness[^c-3098becbfa60e6b698b97300e6a54865]
 
 (1) The following definitions apply for the purposes of this article—
 
@@ -272,7 +272,7 @@ and explain how it expects to continue to comply with paragraph (2) over the nex
 
 (9) This article shall cease to have effect if the capture equipment is installed or the authorised development is decommissioned.
 
-## 15. Certification of plans etc[^key-f1b433a7b814ae66023fe4bc18bb0126]
+## 15. Certification of plans etc[^c-f1b433a7b814ae66023fe4bc18bb0126]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the Secretary of State dated and referenced copies of—
 
@@ -293,7 +293,7 @@ for certification that they are true copies of the documents referred to in this
 
 (3) The undertaker shall submit to the relevant planning authorities copies of any plans or documents certified by the Secretary of State under paragraph (1).
 
-## 16. Arbitration[^key-32b7fd5e25eae31636584bf9319c7e06]
+## 16. Arbitration[^c-32b7fd5e25eae31636584bf9319c7e06]
 
 (1) Any difference under any provision of this Order, unless otherwise provided for, must be referred to and finally settled under the rules of arbitration of the International Chamber of Commerce by arbitrators appointed in accordance with those rules of arbitration.
 
@@ -313,11 +313,11 @@ Department of Energy and Climate Change
 
 22nd October 2014
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-3c1475e61783abe7f9c6a57c373aa360]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-3c1475e61783abe7f9c6a57c373aa360]
 
 Article 3
 
-[^key-3c1475e61783abe7f9c6a57c373aa360]
+[^c-3c1475e61783abe7f9c6a57c373aa360]
 
 A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act comprising the following components contained in the Work Nos. identified in the works plan (part A) and the key buildings and structures as identified in the works plan (part B) and referred to in the design principles statement (and identified as such below in relation to Work No. 1A)—
 
@@ -518,7 +518,7 @@ Requirement for written approval
 
 Amendments to approved details
 
-### 1. Interpretation[^key-a61f5cd1d874da8fd94b13abbbab75fe]
+### 1. Interpretation[^c-a61f5cd1d874da8fd94b13abbbab75fe]
 
 In this Schedule—
 
@@ -539,21 +539,21 @@ In this Schedule—
   - (k) provision of wheel cleansing facilities required pursuant to requirement 14 (Construction Traffic Management Plan);
   - (l) preparation of laydown areas and provision for temporary facilities (including parking areas and offices) necessary for (a) to (k) above.
 
-### 2. Time limits[^key-568fd09b3614f21a1fda98975239df2a]
+### 2. Time limits[^c-568fd09b3614f21a1fda98975239df2a]
 
 The authorised development must commence within 5 years of the date of this Order.
 
-### 3. Commencement of authorised development[^key-52d4f2958baeb1984fdb00e47dc157df]
+### 3. Commencement of authorised development[^c-52d4f2958baeb1984fdb00e47dc157df]
 
 Notice of the intended commencement of the authorised development must be given to the relevant planning authorities where practicable prior to such commencement and in any event within 7 days from the date that the authorised development is commenced.
 
-### 4. Commencement and completion of commissioning[^key-9918935bbeb2594931f7c1709504230f]
+### 4. Commencement and completion of commissioning[^c-9918935bbeb2594931f7c1709504230f]
 
 (1) Notice of the intended commencement of commissioning must be given to the relevant planning authorities where practicable prior to such commencement and in any event within seven (7) days from the date that commissioning is commenced.
 
 (2) Notice of the intended completion of commissioning must be given to the relevant planning authorities where practicable prior to such completion and in any event within 7 days from the date that commissioning is completed.
 
-### 5. Detailed design approval[^key-00977b7b7e3944befaea9890641f4305]
+### 5. Detailed design approval[^c-00977b7b7e3944befaea9890641f4305]
 
 (1) Except for the permitted preliminary works, no authorised development shall commence until written details of the layout, scale and external appearance of the authorised development have been submitted to, and approved by, the relevant planning authorities.
 
@@ -563,7 +563,7 @@ Notice of the intended commencement of the authorised development must be given 
 
 (4) Development within the Order limits, other than that authorised by reason of this Order, of buildings, plant or any other structures (or part thereof) must not be undertaken such that it results in the erection of buildings, plant or any other structures (or part thereof) above 5 metres in height (as measured from the highest part of the adjacent ground level), without prior approval of the relevant planning authorities.
 
-### 6. Provision, implementation and maintenance of landscaping[^key-211e6f705a674da731c59acf87ebccfe]
+### 6. Provision, implementation and maintenance of landscaping[^c-211e6f705a674da731c59acf87ebccfe]
 
 (1) Except for the permitted preliminary works, no authorised development shall commence until a written landscaping scheme has, after consultation with Natural Resources Wales, been submitted to and approved by the relevant planning authorities. The landscaping scheme must follow the principles set out in the draft landscaping plan and must reflect details of all proposed hard and soft landscaping works including—
 
@@ -581,7 +581,7 @@ Notice of the intended commencement of the authorised development must be given 
 
 (3) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
 
-### 7. Fencing and other means of enclosure[^key-a3e2a8f23745a1de0b0993c689e663fc]
+### 7. Fencing and other means of enclosure[^c-a3e2a8f23745a1de0b0993c689e663fc]
 
 (1) All proposed permanent fences, walls or other means of enclosure must be constructed as identified in the written details referred to in requirement 5 (detailed design approval) unless otherwise agreed in writing by the relevant planning authorities prior to the completion of commissioning.
 
@@ -589,7 +589,7 @@ Notice of the intended commencement of the authorised development must be given 
 
 (3) Any fencing or means of enclosure not covered by paragraph (1) must be removed from the site within 6 months of the completion of commissioning.
 
-### 8. Drainage and aerial emissions[^key-ccad4ea0f2cdd1730c795544ee2ea288]
+### 8. Drainage and aerial emissions[^c-ccad4ea0f2cdd1730c795544ee2ea288]
 
 (1) No authorised development shall commence until written details of the surface water, foul water and process waste water drainage systems (including means of pollution control) have, after consultation with Natural Resources Wales and Dwr Cymru (Welsh Water), been submitted to and approved by the relevant planning authorities.
 
@@ -602,7 +602,7 @@ Notice of the intended commencement of the authorised development must be given 
 - (a) must not increase overall nitrate loads into the Pembrokeshire Marine SAC from the levels permitted by Environmental Permitting Regulations Permit Number XP3538LD for the South Hook LNG Terminal as varied by Variation Number XP3535ME; and
 - (b) must ensure no adverse effect on the integrity of the Pembrokeshire Marine SAC as a result of other contaminants emitted or discharged by the authorised development.
 
-### 9. Contaminated land and groundwater[^key-a0231cd37de44a233314c8060c42ec20]
+### 9. Contaminated land and groundwater[^c-a0231cd37de44a233314c8060c42ec20]
 
 (1) No authorised development shall commence until a written scheme to deal with the contamination of any land, including groundwater, within the Order limits which is likely to cause significant harm to persons or pollution of controlled waters or the environment (as determined pursuant to Part 2A of the Environmental Protection Act 1990[^f00015]) has, after consultation with Natural Resources Wales, been submitted to and approved by the relevant planning authorities.
 
@@ -610,7 +610,7 @@ Notice of the intended commencement of the authorised development must be given 
 
 (3) Remediation must be carried out in accordance with the approved scheme.
 
-### 10. Archaeology[^key-8a89f6c4d4d5cb12e7f15550186c9e4e]
+### 10. Archaeology[^c-8a89f6c4d4d5cb12e7f15550186c9e4e]
 
 (1) No authorised development comprised in Work No. 4 or Work No. 7A shall commence until a written scheme for the investigation of areas of archaeological interest (as, in the case of Work No. 4, further detailed in section 13.7 of volume 1 of the environmental statement) has been submitted to and approved by the relevant planning authority.
 
@@ -620,19 +620,19 @@ Notice of the intended commencement of the authorised development must be given 
 
 (4) Any archaeological works or watching brief must be carried out in accordance with the approved scheme.
 
-### 11. Ecological management plan[^key-d77e115ed4ceeb80ef1593b508c63c69]
+### 11. Ecological management plan[^c-d77e115ed4ceeb80ef1593b508c63c69]
 
 (1) No authorised development shall commence until a written ecological management plan reflecting the survey results and, where necessary, ecological mitigation and enhancement measures (as further detailed in sections 9 and 10 of volume 1 of the environmental statement) has, after consultation with Natural Resources Wales, been submitted to and approved by the relevant planning authorities.
 
 (2) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
-### 12. Code of Construction Practice[^key-8034c33517ae3421a9613adf337b306a]
+### 12. Code of Construction Practice[^c-8034c33517ae3421a9613adf337b306a]
 
 (1) No authorised development shall commence until a Code of Construction Practice (“CCP”) has been submitted to and approved by the relevant planning authorities. The CCP must reflect the proposals set out in the draft CCP.
 
 (2) All construction works must be undertaken in accordance with the approved CCP, or with such changes to that document as agreed by the relevant planning authorities.
 
-### 13. Construction Environmental Management Plan[^key-114b0c7e1fa24031bb2fa789541adbf7]
+### 13. Construction Environmental Management Plan[^c-114b0c7e1fa24031bb2fa789541adbf7]
 
 (1) No authorised development shall commence until a Construction Environmental Management Plan (“CEMP”) has, after consultation with Natural Resources Wales, been submitted to and approved by the relevant planning authorities. The CEMP must reflect the proposals set out in the draft CEMP set out at appendix 4.2 of volume 3 of the environmental statement including:
 
@@ -646,7 +646,7 @@ Notice of the intended commencement of the authorised development must be given 
 
 (2) All construction works must be undertaken in accordance with the approved CEMP, or with such changes to that document as agreed by the relevant planning authorities.
 
-### 14. Construction Traffic Management Plan[^key-b298e97c8d56f5b7389be76f253ade59]
+### 14. Construction Traffic Management Plan[^c-b298e97c8d56f5b7389be76f253ade59]
 
 (1) No authorised development shall commence until a written Construction Traffic Management Plan (“CTMP”) has been submitted to and approved by the relevant planning authorities. The CTMP must reflect the proposals set out in the draft CTMP set out at appendix E of the transport assessment including:
 
@@ -663,13 +663,13 @@ Notice of the intended commencement of the authorised development must be given 
 
 (3) All construction works must be undertaken in accordance with the approved CTMP, or with such changes to that document as agreed by the relevant planning authorities.
 
-### 15. Local Liaison Committee[^key-795551016103199fb919b94ecd3c1978]
+### 15. Local Liaison Committee[^c-795551016103199fb919b94ecd3c1978]
 
 (1) No authorised development shall commence until the undertaker has established a committee to liaise with local residents and organisations about matters relating to the authorised development (a “local liaison committee”) which may, at the discretion of the undertaker, be combined with the functions and activities of the existing community liaison committee that is in operation for the activities of the South Hook LNG Terminal that is co-located at or near the site. The local liaison committee must be made up of representatives of the undertaker and main contractors for the authorised development. The undertaker must invite the relevant planning authorities, Natural Resources Wales, local councils and other relevant interest groups, as may be agreed with the relevant planning authority, to nominate representatives to join the local liaison committee. The undertaker must provide a full secretariat service and supply an appropriate venue. The local liaison committee must meet at least once every 3 months during the construction of the authorised development and at least once a year during the operation of the authorised development, unless otherwise agreed in writing by the majority of the members of the local liaison committee.
 
 (2) Except in an emergency, the undertaker must give 2 working days’ prior written notice to the local liaison committee and the relevant planning authorities in advance of carrying out steam purging. Notification of the activity, the reasons for the activity and its expected duration must also be posted on the undertaker’s internet web site. So far as reasonably practicable, steam purging must be commenced so as to predominantly take place between Mondays and Saturdays and not commence nor, so far as is reasonably practicable, continue on any Sunday or public holiday in Wales.
 
-### 16. External lighting[^key-93bc3baa2efaa078ab88eecfd36c7956]
+### 16. External lighting[^c-93bc3baa2efaa078ab88eecfd36c7956]
 
 (1) No authorised development shall commence until a lighting plan of the external lighting to be installed and used at the site during the construction period and operation of the authorised development has, after consultation with Natural Resources Wales, been submitted to and approved by the relevant planning authorities.
 
@@ -677,7 +677,7 @@ Notice of the intended commencement of the authorised development must be given 
 
 (3) Any approved lighting plan must subsequently be implemented and retained for the duration of the construction, commissioning and use of the authorised development, unless otherwise agreed in writing by the relevant planning authorities.
 
-### 17. Construction hours[^key-2ed12a82f1a25b096cd82d5ed3d761c1]
+### 17. Construction hours[^c-2ed12a82f1a25b096cd82d5ed3d761c1]
 
 (1) Construction work including deliveries to the site (but which for the purpose of this requirement shall not include the arrival or departure of personnel on the site, on-site briefings or meetings, the use of welfare facilities and non-intrusive activities) must only take place between—
 
@@ -688,43 +688,43 @@ but must not take place on a day which is a public holiday.
 
 (2) In paragraph (1) above, “non-intrusive activities” means internal activities such as electrical installation and fit out works that do not require the use of mechanical plant or equipment such as would create any discernible light, noise or vibration outside of the Order limits.
 
-### 18. Accumulations and deposits[^key-154f51779a600120dc17e4beb0581b27]
+### 18. Accumulations and deposits[^c-154f51779a600120dc17e4beb0581b27]
 
 (1) No authorised development comprised in Work No. 10A shall commence until a written scheme for the management of any accumulations or deposits whose effects may be harmful or visible or otherwise noticeable from outside the Order limits has been submitted to and approved by the relevant planning authority.
 
 (2) The approved scheme for the management of accumulations and deposits must be implemented before and maintained during the construction, operation and decommissioning of the authorised development.
 
-### 19. Travel plan[^key-77971b1b71be1c47a990cb55f07a6fe6]
+### 19. Travel plan[^c-77971b1b71be1c47a990cb55f07a6fe6]
 
 The authorised development shall not commence operation until a travel plan, which must include details of the expected means of travel to and from the authorised development and any parking to be provided, has been submitted to and approved by the relevant planning authorities. The travel plan must reflect the proposals set out in the draft travel plan set out at appendix F of the transport assessment. The approved plan must be implemented within one month of the completion of commissioning and must continue to be implemented for as long as the authorised development can be used.
 
-### 20. European protected species[^key-b16f2667d70c4caf931344f0fd50b4c1]
+### 20. European protected species[^c-b16f2667d70c4caf931344f0fd50b4c1]
 
 No authorised development shall commence until, after consultation with Natural Resources Wales, a scheme of protection and mitigation measures in respect of those bats which have been identified as present within the Order Limits has been submitted to and been approved by the relevant planning authorities; and the authorised development must be carried out in accordance with the approved scheme.
 
-### 21. Restoration of land used temporarily for construction[^key-c6044bef522fd76ec59aeaf182cf8b6e]
+### 21. Restoration of land used temporarily for construction[^c-c6044bef522fd76ec59aeaf182cf8b6e]
 
 Any land used for temporary works and on which subsequent permanent works have not taken place must be reinstated to its condition as at the start of the temporary use, unless otherwise approved by the relevant planning authorities, within 6 months of the completion of commissioning.
 
-### 22. Safety[^key-c2244ba57c67381cb3c49fa2c47f4fa2]
+### 22. Safety[^c-c2244ba57c67381cb3c49fa2c47f4fa2]
 
 No authorised development shall commence until the undertaker has submitted to the Secretary of State an assessment of the extent and severity of known hazards at the generating station with the potential to impact on local populations or major hazard installations, including fire or explosion following loss of containment of natural gas, accompanied by evidence of independent validation of the suitability and sufficiency of the assessment, and the Secretary of State has notified approval of the assessment.
 
-### 23. Carbon capture and storage[^key-9a4344ee6c821dfa5197592c98ef1742]
+### 23. Carbon capture and storage[^c-9a4344ee6c821dfa5197592c98ef1742]
 
 In the event the undertaker installs carbon capture and storage equipment within the Order limits then the undertaker shall, subject to any applicable statutory obligations and consenting requirements, install such equipment, where technically feasible and so far as is reasonably practicable, in accordance with the current CCS proposal and the principles set out in the design principles statement.
 
-### 24. Decommissioning[^key-4957a92c43ff85cae905967b7860d47c]
+### 24. Decommissioning[^c-4957a92c43ff85cae905967b7860d47c]
 
 (1) Unless otherwise agreed in writing by the relevant planning authorities, within 12 months of the authorised development ceasing to be used for the purposes of electricity and heat generation on a permanent basis, a scheme for the demolition and removal of the authorised development from the site must be submitted to and approved by the relevant planning authorities. The scheme must, amongst other matters, specify that any land used for the permanent works must be reinstated to its condition as at the completion of the permitted preliminary works (but requiring the removal of any structural foundations constructed in the course of such permitted preliminary works), or such alternative condition at the request of the undertaker as the relevant planning authorities may approve. In the event that the authorised development temporarily ceases operations and the duration of that temporary cessation of operations is likely to exceed a period in excess of twelve months, the undertaker must notify the relevant planning authorities of the purpose of the temporary cessation of operations and its likely duration.
 
 (2) The demolition and removal of the authorised development must be implemented in accordance with the approved scheme, unless otherwise agreed in writing by the relevant planning authorities.
 
-### 25. Requirement for written approval[^key-070f6685e03a30342f9bfc568e078fe8]
+### 25. Requirement for written approval[^c-070f6685e03a30342f9bfc568e078fe8]
 
 Where under any of the above requirements the approval or agreement of a relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
-### 26. Amendments to approved details[^key-f36aad5f4d37fef46d6f5789fa2e6be8]
+### 26. Amendments to approved details[^c-f36aad5f4d37fef46d6f5789fa2e6be8]
 
 (1) With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved by a relevant planning authority, the approved details must be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority.
 
@@ -746,9 +746,9 @@ A copy of the plans and other documents referred to in this Order and certified 
 
 [^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103), as amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635).
 
-[^key-3b9c6999c18886d5866cd691aa2e1212]: Commencement: Art. 1 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-3b9c6999c18886d5866cd691aa2e1212]: Commencement: Art. 1 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-248c0bb052a1fbb0c6975080b84cd479]: Commencement: Art. 2 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-248c0bb052a1fbb0c6975080b84cd479]: Commencement: Art. 2 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -758,29 +758,29 @@ A copy of the plans and other documents referred to in this Order and certified 
 
 [^f00007]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22). Section 48(3A) was inserted by section 124 of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26). Sections 79(4), 80(4), and 83(4) were amended by section 40 of, and Schedule 1 to, the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-b9246af0f0236eef486e3d9104a3544d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2846/article/2) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 71](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/71) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-b9246af0f0236eef486e3d9104a3544d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2014/2846/article/2) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 71](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/71) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-a7f0417676049b0677910d328712b1df]: Commencement: Art. 3 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-a7f0417676049b0677910d328712b1df]: Commencement: Art. 3 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-ef13c92e05b412a0925f7922d12b0ef3]: Commencement: Art. 4 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-ef13c92e05b412a0925f7922d12b0ef3]: Commencement: Art. 4 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
 [^f00009]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was amended by s.30 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27), and s.6(10) amended by s.89(3) of the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20). There are other amendments to this section that are not relevant to this Order.
 
-[^key-23b20d9c05b9f4285080f13173a89432]: Commencement: Art. 5 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-23b20d9c05b9f4285080f13173a89432]: Commencement: Art. 5 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-efa890396cff03aa695a03a63c068e3f]: Commencement: Art. 6 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-efa890396cff03aa695a03a63c068e3f]: Commencement: Art. 6 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-d264820a25691b3079288d5a55e7cf4d]: Commencement: Art. 7 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-d264820a25691b3079288d5a55e7cf4d]: Commencement: Art. 7 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-f593e03024b61e08afe9178d8039dcfd]: Commencement: Art. 8 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-f593e03024b61e08afe9178d8039dcfd]: Commencement: Art. 8 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
 [^f00010]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 
 [^f00011]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act [1990, c.25](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to the 1974 Act which are not relevant to this Order.
 
-[^key-240721f1a6797faae23bf43af690ec18]: Commencement: Art. 9 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-240721f1a6797faae23bf43af690ec18]: Commencement: Art. 9 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-901bea06c08e0ec6ae486aec2d2348cc]: Commencement: Art. 10 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-901bea06c08e0ec6ae486aec2d2348cc]: Commencement: Art. 10 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
 [^f00012]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36(2) and 99 of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
 
@@ -788,70 +788,70 @@ A copy of the plans and other documents referred to in this Order and certified 
 
 [^f00014]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). Section 85(1) was amended by paragraphs 21(1) and (2) of Part 1 of Schedule 21 to [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538).
 
-[^key-dcb90b5a34b802b2112ff41eb45f122b]: Commencement: Art. 11 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-dcb90b5a34b802b2112ff41eb45f122b]: Commencement: Art. 11 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-2ef0bf45040e387e6c9f11ef70a9bc59]: Commencement: Art. 12 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-2ef0bf45040e387e6c9f11ef70a9bc59]: Commencement: Art. 12 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-b950c0b16e71530f7c200b6952e03fac]: Commencement: Art. 13 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-b950c0b16e71530f7c200b6952e03fac]: Commencement: Art. 13 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-3098becbfa60e6b698b97300e6a54865]: Commencement: Art. 14 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-3098becbfa60e6b698b97300e6a54865]: Commencement: Art. 14 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-f1b433a7b814ae66023fe4bc18bb0126]: Commencement: Art. 15 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-f1b433a7b814ae66023fe4bc18bb0126]: Commencement: Art. 15 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-32b7fd5e25eae31636584bf9319c7e06]: Commencement: Art. 16 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-32b7fd5e25eae31636584bf9319c7e06]: Commencement: Art. 16 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-3c1475e61783abe7f9c6a57c373aa360]: Commencement: Sch. 1 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-3c1475e61783abe7f9c6a57c373aa360]: Commencement: Sch. 1 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-a61f5cd1d874da8fd94b13abbbab75fe]: Commencement: Sch. 2 para. 1 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-a61f5cd1d874da8fd94b13abbbab75fe]: Commencement: Sch. 2 para. 1 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-568fd09b3614f21a1fda98975239df2a]: Commencement: Sch. 2 para. 2 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-568fd09b3614f21a1fda98975239df2a]: Commencement: Sch. 2 para. 2 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-52d4f2958baeb1984fdb00e47dc157df]: Commencement: Sch. 2 para. 3 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-52d4f2958baeb1984fdb00e47dc157df]: Commencement: Sch. 2 para. 3 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-9918935bbeb2594931f7c1709504230f]: Commencement: Sch. 2 para. 4 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-9918935bbeb2594931f7c1709504230f]: Commencement: Sch. 2 para. 4 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-00977b7b7e3944befaea9890641f4305]: Commencement: Sch. 2 para. 5 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-00977b7b7e3944befaea9890641f4305]: Commencement: Sch. 2 para. 5 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-211e6f705a674da731c59acf87ebccfe]: Commencement: Sch. 2 para. 6 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-211e6f705a674da731c59acf87ebccfe]: Commencement: Sch. 2 para. 6 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-a3e2a8f23745a1de0b0993c689e663fc]: Commencement: Sch. 2 para. 7 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-a3e2a8f23745a1de0b0993c689e663fc]: Commencement: Sch. 2 para. 7 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-ccad4ea0f2cdd1730c795544ee2ea288]: Commencement: Sch. 2 para. 8 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-ccad4ea0f2cdd1730c795544ee2ea288]: Commencement: Sch. 2 para. 8 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-a0231cd37de44a233314c8060c42ec20]: Commencement: Sch. 2 para. 9 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-a0231cd37de44a233314c8060c42ec20]: Commencement: Sch. 2 para. 9 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
 [^f00015]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). The definition of contaminated land was amended by the Water Act [2003 c. 37](https://www.legislation.gov.uk/ukpga/2003/37) Pt 3 s.86(2) (April 6, 2012 as [SI 2012/284](https://www.legislation.gov.uk/uksi/2012/284)). There are amendments to this Act which are not relevant to this Order.
 
-[^key-8a89f6c4d4d5cb12e7f15550186c9e4e]: Commencement: Sch. 2 para. 10 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-8a89f6c4d4d5cb12e7f15550186c9e4e]: Commencement: Sch. 2 para. 10 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-d77e115ed4ceeb80ef1593b508c63c69]: Commencement: Sch. 2 para. 11 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-d77e115ed4ceeb80ef1593b508c63c69]: Commencement: Sch. 2 para. 11 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-8034c33517ae3421a9613adf337b306a]: Commencement: Sch. 2 para. 12 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-8034c33517ae3421a9613adf337b306a]: Commencement: Sch. 2 para. 12 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-114b0c7e1fa24031bb2fa789541adbf7]: Commencement: Sch. 2 para. 13 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-114b0c7e1fa24031bb2fa789541adbf7]: Commencement: Sch. 2 para. 13 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-b298e97c8d56f5b7389be76f253ade59]: Commencement: Sch. 2 para. 14 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-b298e97c8d56f5b7389be76f253ade59]: Commencement: Sch. 2 para. 14 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-795551016103199fb919b94ecd3c1978]: Commencement: Sch. 2 para. 15 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-795551016103199fb919b94ecd3c1978]: Commencement: Sch. 2 para. 15 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-93bc3baa2efaa078ab88eecfd36c7956]: Commencement: Sch. 2 para. 16 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-93bc3baa2efaa078ab88eecfd36c7956]: Commencement: Sch. 2 para. 16 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-2ed12a82f1a25b096cd82d5ed3d761c1]: Commencement: Sch. 2 para. 17 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-2ed12a82f1a25b096cd82d5ed3d761c1]: Commencement: Sch. 2 para. 17 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-154f51779a600120dc17e4beb0581b27]: Commencement: Sch. 2 para. 18 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-154f51779a600120dc17e4beb0581b27]: Commencement: Sch. 2 para. 18 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-77971b1b71be1c47a990cb55f07a6fe6]: Commencement: Sch. 2 para. 19 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-77971b1b71be1c47a990cb55f07a6fe6]: Commencement: Sch. 2 para. 19 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-b16f2667d70c4caf931344f0fd50b4c1]: Commencement: Sch. 2 para. 20 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-b16f2667d70c4caf931344f0fd50b4c1]: Commencement: Sch. 2 para. 20 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-c6044bef522fd76ec59aeaf182cf8b6e]: Commencement: Sch. 2 para. 21 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-c6044bef522fd76ec59aeaf182cf8b6e]: Commencement: Sch. 2 para. 21 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-c2244ba57c67381cb3c49fa2c47f4fa2]: Commencement: Sch. 2 para. 22 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-c2244ba57c67381cb3c49fa2c47f4fa2]: Commencement: Sch. 2 para. 22 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-9a4344ee6c821dfa5197592c98ef1742]: Commencement: Sch. 2 para. 23 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-9a4344ee6c821dfa5197592c98ef1742]: Commencement: Sch. 2 para. 23 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-4957a92c43ff85cae905967b7860d47c]: Commencement: Sch. 2 para. 24 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-4957a92c43ff85cae905967b7860d47c]: Commencement: Sch. 2 para. 24 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-070f6685e03a30342f9bfc568e078fe8]: Commencement: Sch. 2 para. 25 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-070f6685e03a30342f9bfc568e078fe8]: Commencement: Sch. 2 para. 25 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
 
-[^key-f36aad5f4d37fef46d6f5789fa2e6be8]: Commencement: Sch. 2 para. 26 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)
+[^c-f36aad5f4d37fef46d6f5789fa2e6be8]: Commencement: Sch. 2 para. 26 in force at 23.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2846/article/1)

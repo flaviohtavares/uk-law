@@ -33,7 +33,7 @@ This Statutory Instrument has been printed in substitution of the SI of the same
 
 Defence
 
-The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2012 (revoked)[^key-a37216c5bfaf1da1eff466b3619ad36b]
+The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2012 (revoked)[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 Made
 
@@ -43,39 +43,39 @@ Coming into force
 
 1st June 2012
 
-[^key-a37216c5bfaf1da1eff466b3619ad36b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a37216c5bfaf1da1eff466b3619ad36b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a37216c5bfaf1da1eff466b3619ad36b]
+## 1. Citation, commencement and interpretation[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designated vessels[^key-a37216c5bfaf1da1eff466b3619ad36b]
+## 2. Designated vessels[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designated controlled sites[^key-a37216c5bfaf1da1eff466b3619ad36b]
+## 3. Designated controlled sites[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-a37216c5bfaf1da1eff466b3619ad36b]
+## 4. Revocation[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a37216c5bfaf1da1eff466b3619ad36b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a37216c5bfaf1da1eff466b3619ad36b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a37216c5bfaf1da1eff466b3619ad36b]SCHEDULES
+[^c-a37216c5bfaf1da1eff466b3619ad36b]SCHEDULES
 
-## SCHEDULE 1 — Designated vessels[^key-a37216c5bfaf1da1eff466b3619ad36b]
+## SCHEDULE 1 — Designated vessels[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Designated controlled sites[^key-a37216c5bfaf1da1eff466b3619ad36b]
+## SCHEDULE 2 — Designated controlled sites[^c-a37216c5bfaf1da1eff466b3619ad36b]
 
 Article 3
 
@@ -83,8 +83,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-a37216c5bfaf1da1eff466b3619ad36b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a37216c5bfaf1da1eff466b3619ad36b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a37216c5bfaf1da1eff466b3619ad36b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1110) revoked (3.3.2017) by [The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2017 (S.I. 2017/147)](https://www.legislation.gov.uk/uksi/2017/147), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/147/article/1/1), [4](https://www.legislation.gov.uk/uksi/2017/147/article/4)
+[^c-a37216c5bfaf1da1eff466b3619ad36b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1110) revoked (3.3.2017) by [The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2017 (S.I. 2017/147)](https://www.legislation.gov.uk/uksi/2017/147), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/147/article/1/1), [4](https://www.legislation.gov.uk/uksi/2017/147/article/4)

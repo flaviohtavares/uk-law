@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Medical records[^key-eaba7d4f7069d123044052902cea65a4]
+## 77. Medical records[^c-eaba7d4f7069d123044052902cea65a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaba7d4f7069d123044052902cea65a4]: Commencement: Reg. 77 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-eaba7d4f7069d123044052902cea65a4]: Commencement: Reg. 77 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

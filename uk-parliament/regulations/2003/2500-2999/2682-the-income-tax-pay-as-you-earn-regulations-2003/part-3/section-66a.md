@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Deduction working sheets: retrospective employment income in closed tax year[^key-187a80c6ee54c11ce6903ff7cbcc9b41]
+## 66A. Deduction working sheets: retrospective employment income in closed tax year[^c-187a80c6ee54c11ce6903ff7cbcc9b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-187a80c6ee54c11ce6903ff7cbcc9b41]: Textual amendment: [Reg. 66A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/1077/regulation/10)
+[^c-187a80c6ee54c11ce6903ff7cbcc9b41]: Textual amendment: [Reg. 66A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/66A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/1077/regulation/10)

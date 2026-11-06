@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## A1. The net-zero emissions target[^key-5cf14605d7cf41035ef7f6b7788a60ee]
+## A1. The net-zero emissions target[^c-5cf14605d7cf41035ef7f6b7788a60ee]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cf14605d7cf41035ef7f6b7788a60ee]: Textual amendment: S. A1 and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 1](https://www.legislation.gov.uk/asp/2019/15/section/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-5cf14605d7cf41035ef7f6b7788a60ee]: Textual amendment: S. A1 and cross-heading inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 1](https://www.legislation.gov.uk/asp/2019/15/section/1), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

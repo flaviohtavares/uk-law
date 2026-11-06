@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 497. Information in advertisements[^key-698ecba7544cc499862302e677bb15cf]
+## 497. Information in advertisements[^c-698ecba7544cc499862302e677bb15cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In regulation 48 of the Credit Institutions (Protection of Depositors) Regulatio
 
 ## Annotations
 
-[^key-698ecba7544cc499862302e677bb15cf]: Commencement: Art. 497 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-698ecba7544cc499862302e677bb15cf]: Commencement: Art. 497 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

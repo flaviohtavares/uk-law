@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Power of sheriff to order sheriff clerk to execute deed relating to heritage[^key-8c84aece4ea323464529463e3f507945]
+## 87. Power of sheriff to order sheriff clerk to execute deed relating to heritage[^c-8c84aece4ea323464529463e3f507945]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c84aece4ea323464529463e3f507945]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/18/section/87) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8c84aece4ea323464529463e3f507945]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2014/18/section/87) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -68,29 +68,29 @@ As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislatio
 - (a) may be cited as the Fish Labelling Regulations 2013; and
 - (b) come into force on 2nd September 2013.
 
-(2) They apply in England only [^key-e1c22e3d5ee2b491acb75a92f89abb1d]....
+(2) They apply in England only [^c-e1c22e3d5ee2b491acb75a92f89abb1d]....
 
 ### 2. Interpretation
 
-(1)[^key-249debeac1b0c65986b58d5ae95f58e6] In these Regulations—
+(1)[^c-249debeac1b0c65986b58d5ae95f58e6] In these Regulations—
 
-- “the specified[^key-87af93988c5aa4a78e6b401f2d905666] Regulations” means Regulation 1224/2009, Regulation 404/2011 and Regulation 1379/2013;
+- “the specified[^c-87af93988c5aa4a78e6b401f2d905666] Regulations” means Regulation 1224/2009, Regulation 404/2011 and Regulation 1379/2013;
 - “Regulation 1224/2009” means Council Regulation [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the common fisheries policy;
 - “Regulation 404/2011” means Commission Implementing Regulation (EU) No. 404/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No. 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy;
 - “Regulation 1379/2013” means Regulation (EU) No. 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products
 
 (2) In these Regulations—
 
-- (a) references to any of the specified[^key-6fa245b6c7e841b501557daa861f27be] Regulations are references to the specified Regulations in question as amended from time to time; and
-- (b) terms used that are also used in any of the specified[^key-feaac6ddc73e35dc196692ccc20533e6] Regulations have the same meaning as in the specified Regulations in question.
+- (a) references to any of the specified[^c-6fa245b6c7e841b501557daa861f27be] Regulations are references to the specified Regulations in question as amended from time to time; and
+- (b) terms used that are also used in any of the specified[^c-feaac6ddc73e35dc196692ccc20533e6] Regulations have the same meaning as in the specified Regulations in question.
 
 ## PART 2 — United Kingdom commercial designations of species
 
-### 3. List of commercial designations of species[^key-2ccf8e65d25e5f7c0f412b67849e43a4]
+### 3. List of commercial designations of species[^c-2ccf8e65d25e5f7c0f412b67849e43a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Competent authority[^key-5a3d8a2029dd98cdda45d80a8dd6feb1]
+### 4. Competent authority[^c-5a3d8a2029dd98cdda45d80a8dd6feb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,23 +104,23 @@ In this Part, “**the Act**” means the Food Safety Act 1990.
 
 (1) In this Part—
 
-- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), subject to paragraphs (6) and (7)[^key-adc6e4de6c690824b4c4003481b68c4a]; and
+- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), subject to paragraphs (6) and (7)[^c-adc6e4de6c690824b4c4003481b68c4a]; and
 - (b) “**traceability requirement**” means a requirement referred to in paragraph (3), subject to paragraph (7).
 
 (2) For the purposes of paragraph (1)(a), the requirements are—
 
-- (a)[^key-a5d486fcae5de91cf24d11fa0c3bf879] a requirement specified in Article 35 of Regulation 1379/2013 as read with Article 38 of that Regulation, and a requirement specified in Article 39(3) or (4) of Regulation 1379/2013, as read with paragraph (1) of that Article.
+- (a)[^c-a5d486fcae5de91cf24d11fa0c3bf879] a requirement specified in Article 35 of Regulation 1379/2013 as read with Article 38 of that Regulation, and a requirement specified in Article 39(3) or (4) of Regulation 1379/2013, as read with paragraph (1) of that Article.
 - (b) a requirement specified in Article 58(6) of Regulation 1224/2009 as read with Articles 67(13) and 68 of Regulation 404/2011.
 
-(3) For the purposes of paragraph (1)(b), the requirements are Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation , Article 67(1) to (3)[^key-509022c678f2d884dab4c34000b093a2] , (5) to (7) and (9)[^key-3658aa2b9088083af0ae6900215ecdc5] to (13) of Regulation 404/2011 and Articles 35(1)(c) and 38 of Regulation 1379/2013.
+(3) For the purposes of paragraph (1)(b), the requirements are Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation , Article 67(1) to (3)[^c-509022c678f2d884dab4c34000b093a2] , (5) to (7) and (9)[^c-3658aa2b9088083af0ae6900215ecdc5] to (13) of Regulation 404/2011 and Articles 35(1)(c) and 38 of Regulation 1379/2013.
 
-(4)[^key-761fbca400823a04a9c10e8909c03405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-761fbca400823a04a9c10e8909c03405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-761fbca400823a04a9c10e8909c03405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-761fbca400823a04a9c10e8909c03405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-960a3abdab71509e9bdc2790452f6c69] The requirement referred to in paragraph (2)(a) does not apply in the circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) of Regulation 1224/2009
+(6)[^c-960a3abdab71509e9bdc2790452f6c69] The requirement referred to in paragraph (2)(a) does not apply in the circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) of Regulation 1224/2009
 
-(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^key-fd73cbf5315ce5e3a81e43849f3337ff] per day.
+(7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed £45[^c-fd73cbf5315ce5e3a81e43849f3337ff] per day.
 
 ### 7. Improvement notice
 
@@ -141,8 +141,8 @@ In this Part, “**the Act**” means the Food Safety Act 1990.
 
 > (3) In this section—
 >
-> - (a) “consumer information requirement” and “traceability requirement” have the meanings given by regulation 6(1) of the Fish Labelling Regulations 2013[^key-dc39276e24ee282d6f6b4a3064d8a92d];
-> - (b) “**operator**” has the same meaning as in the specified[^key-a04063ac9d03a82891ca8a4b0a4664bf] Regulations as defined in regulation 2(1) of the Fish Labelling Regulations 2013 as read with regulation 2(2)(a) of those Regulations.
+> - (a) “consumer information requirement” and “traceability requirement” have the meanings given by regulation 6(1) of the Fish Labelling Regulations 2013[^c-dc39276e24ee282d6f6b4a3064d8a92d];
+> - (b) “**operator**” has the same meaning as in the specified[^c-a04063ac9d03a82891ca8a4b0a4664bf] Regulations as defined in regulation 2(1) of the Fish Labelling Regulations 2013 as read with regulation 2(2)(a) of those Regulations.
 
 .
 
@@ -152,7 +152,7 @@ In this Part, “**the Act**” means the Food Safety Act 1990.
 
 (2) For subsection (1), substitute—
 
-> (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10, as applied by regulation 7 of the Fish Labelling Regulations 2013[^key-80df98888f8696daab68352959f4082b], may appeal to the First-tier Tribunal.
+> (1) Any person who is aggrieved by a decision of an authorised officer of an enforcement authority to serve an improvement notice under section 10, as applied by regulation 7 of the Fish Labelling Regulations 2013[^c-80df98888f8696daab68352959f4082b], may appeal to the First-tier Tribunal.
 
 .
 
@@ -169,7 +169,7 @@ In this Part, “**the Act**” means the Food Safety Act 1990.
 
 (2) For subsection (1), substitute—
 
-> (1) On an appeal against an improvement notice served under section 10, as applied by regulation 7 of the Fish Labelling Regulations 2013[^key-883a89fb36f58ecac0ab6cb99f98dccb], the First-tier Tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the First-tier Tribunal may in the circumstances think fit.
+> (1) On an appeal against an improvement notice served under section 10, as applied by regulation 7 of the Fish Labelling Regulations 2013[^c-883a89fb36f58ecac0ab6cb99f98dccb], the First-tier Tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the First-tier Tribunal may in the circumstances think fit.
 
 .
 
@@ -241,7 +241,7 @@ Regulation 13
 
 | *Section of the Act* | *Modification* |
 | --- | --- |
-| Section 3 (presumptions that food intended for human consumption)<br>Section 30(8) [^c21860581] (which relates to evidence of certificates given by a food analyst or examiner)<br>Section 33 (obstruction etc of officers)<br>Section 44 (protection of officers acting in good faith) | In these sections, for “this Act”, in each place occurring, substitute “the Fish Labelling Regulations 2013[^key-5d8b45d9a0c767bd9fd4e6a5a2d970e8]” |
+| Section 3 (presumptions that food intended for human consumption)<br>Section 30(8) [^c21860581] (which relates to evidence of certificates given by a food analyst or examiner)<br>Section 33 (obstruction etc of officers)<br>Section 44 (protection of officers acting in good faith) | In these sections, for “this Act”, in each place occurring, substitute “the Fish Labelling Regulations 2013[^c-5d8b45d9a0c767bd9fd4e6a5a2d970e8]” |
 |  |  |
 | Section 20 (offences due to fault of another person) | For “any of the preceding provisions of this Part”, substitute “ section 10(2), as applied by regulation 7 of the Fish Labelling Regulations 2013, or regulation 10 or 11 of those Regulations ” |
 |  |  |
@@ -264,7 +264,7 @@ Regulation 13
 - (a) in subsection (1)(a), after “made under it” insert “ , or of a consumer information requirement or a traceability requirement ”;
 - (b) after subsection (9), insert—
 
-  > (10) In this section, “consumer information requirement” and “traceability requirement” have the meanings given by regulation 6(1) of the Fish Labelling Regulations 2013[^key-2393a92e0b411c37c4c80d3b2d02c2cd].
+  > (10) In this section, “consumer information requirement” and “traceability requirement” have the meanings given by regulation 6(1) of the Fish Labelling Regulations 2013[^c-2393a92e0b411c37c4c80d3b2d02c2cd].
 
   .
 
@@ -318,49 +318,49 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21860511]: Marginal citation: OJ No L 31, 1.2.2002, p 1, as last amended by OJ No L 188, 18.7.2009, p 14.
 
-[^key-e1c22e3d5ee2b491acb75a92f89abb1d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/1/2) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1c22e3d5ee2b491acb75a92f89abb1d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/1/2) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-249debeac1b0c65986b58d5ae95f58e6]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/1) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/2)
+[^c-249debeac1b0c65986b58d5ae95f58e6]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/1) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/2)
 
-[^key-87af93988c5aa4a78e6b401f2d905666]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87af93988c5aa4a78e6b401f2d905666]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/1) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6fa245b6c7e841b501557daa861f27be]: Textual amendment: Word in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/2/a) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fa245b6c7e841b501557daa861f27be]: Textual amendment: Word in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/2/a) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-feaac6ddc73e35dc196692ccc20533e6]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/2/b) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-feaac6ddc73e35dc196692ccc20533e6]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/2/2/b) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ccf8e65d25e5f7c0f412b67849e43a4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1768/regulation/3) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ccf8e65d25e5f7c0f412b67849e43a4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1768/regulation/3) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a3d8a2029dd98cdda45d80a8dd6feb1]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1768/regulation/4) omitted (13.12.2014) by virtue of [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/4)
+[^c-5a3d8a2029dd98cdda45d80a8dd6feb1]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1768/regulation/4) omitted (13.12.2014) by virtue of [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/4)
 
-[^key-adc6e4de6c690824b4c4003481b68c4a]: Textual amendment: Words in reg. 6(1)(a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/a)
+[^c-adc6e4de6c690824b4c4003481b68c4a]: Textual amendment: Words in reg. 6(1)(a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/a)
 
-[^key-a5d486fcae5de91cf24d11fa0c3bf879]: Textual amendment: Reg. 6(2)(a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/b)
+[^c-a5d486fcae5de91cf24d11fa0c3bf879]: Textual amendment: Reg. 6(2)(a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/b)
 
-[^key-509022c678f2d884dab4c34000b093a2]: Textual amendment: Words in reg. 6(3) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/c)
+[^c-509022c678f2d884dab4c34000b093a2]: Textual amendment: Words in reg. 6(3) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/c)
 
-[^key-3658aa2b9088083af0ae6900215ecdc5]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/6/3) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(5)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/5/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3658aa2b9088083af0ae6900215ecdc5]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/6/3) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(5)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/5/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-761fbca400823a04a9c10e8909c03405]: Textual amendment: Reg. 6(4)(5) omitted (13.12.2014) by virtue of [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/d)
+[^c-761fbca400823a04a9c10e8909c03405]: Textual amendment: Reg. 6(4)(5) omitted (13.12.2014) by virtue of [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/d)
 
-[^key-960a3abdab71509e9bdc2790452f6c69]: Textual amendment: Reg. 6(6) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/e)
+[^c-960a3abdab71509e9bdc2790452f6c69]: Textual amendment: Reg. 6(6) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/5/e)
 
-[^key-fd73cbf5315ce5e3a81e43849f3337ff]: Textual amendment: Sum in [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/6/7) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(5)(ii)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/5/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd73cbf5315ce5e3a81e43849f3337ff]: Textual amendment: Sum in [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/6/7) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(5)(ii)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/5/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc39276e24ee282d6f6b4a3064d8a92d]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/7/3) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/a)
+[^c-dc39276e24ee282d6f6b4a3064d8a92d]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/7/3) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/a)
 
-[^key-a04063ac9d03a82891ca8a4b0a4664bf]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/7/3) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a04063ac9d03a82891ca8a4b0a4664bf]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/7/3) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [10(6)](https://www.legislation.gov.uk/uksi/2019/746/regulation/10/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21860541]: Marginal citation: Section 37 was amended by section 48(1) of, and paragraph 13(1) and (3) of Schedule 8 to, the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and by section 146 of, and Part 1 of Schedule 23 to, that Act.
 
-[^key-80df98888f8696daab68352959f4082b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/8/2) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/a)
+[^c-80df98888f8696daab68352959f4082b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/8/2) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/a)
 
-[^key-883a89fb36f58ecac0ab6cb99f98dccb]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/9/2) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/a)
+[^c-883a89fb36f58ecac0ab6cb99f98dccb]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2013/1768/regulation/9/2) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/a)
 
 [^c21860571]: Marginal citation: [S.I. 2010/420](https://www.legislation.gov.uk/uksi/2010/420) as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
 [^c21860581]: Marginal citation: Section 30 was amended by section 40(1) of, and paragraphs 7 and 8 of Schedule 5 to, the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-5d8b45d9a0c767bd9fd4e6a5a2d970e8]: Textual amendment: Words in Sch. para. 1 substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/b)
+[^c-5d8b45d9a0c767bd9fd4e6a5a2d970e8]: Textual amendment: Words in Sch. para. 1 substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/b)
 
 [^c21860591]: Marginal citation: Section 21 was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -368,4 +368,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21860611]: Marginal citation: Section 32 was amended by section 70 of, and paragraph 18 of Part 2 of Schedule 2 to, the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-2393a92e0b411c37c4c80d3b2d02c2cd]: Textual amendment: Words in [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1768/schedule/paragraph/2/b) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/c)
+[^c-2393a92e0b411c37c4c80d3b2d02c2cd]: Textual amendment: Words in [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1768/schedule/paragraph/2/b) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations 2014 (S.I. 2014/3104)](https://www.legislation.gov.uk/uksi/2014/3104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2014/3104/regulation/2/6/c)

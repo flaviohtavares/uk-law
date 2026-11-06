@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Power to dissolve the Commission[^key-100a39cadc9e39088b363ff0a49c8a5c]
+## 90. Power to dissolve the Commission[^c-100a39cadc9e39088b363ff0a49c8a5c]
 
 *Extent: E+W*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (3) The Secretary of State may not make an order under this section providing for the transfer of property, rights, liabilities or functions to a person unless the person has consented to the transfer.
 
-(4) An order under this section which transfers rights and liabilities relating to employees of the Commission must make provision for the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-3d5fa9b8b39f0501949b0d8a65675a4b] to apply to that transfer.
+(4) An order under this section which transfers rights and liabilities relating to employees of the Commission must make provision for the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-3d5fa9b8b39f0501949b0d8a65675a4b] to apply to that transfer.
 
 ## Annotations
 
-[^key-100a39cadc9e39088b363ff0a49c8a5c]: Commencement: S. 90 in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
+[^c-100a39cadc9e39088b363ff0a49c8a5c]: Commencement: S. 90 in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
 
-[^key-3d5fa9b8b39f0501949b0d8a65675a4b]: Textual amendment: Words in [s. 90(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/90/4) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(k)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/k)
+[^c-3d5fa9b8b39f0501949b0d8a65675a4b]: Textual amendment: Words in [s. 90(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/90/4) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 1(k)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/1/k)

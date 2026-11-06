@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Transfer of functions from the Office for Tenants and Social Landlords to the Homes and Communities Agency[^key-e4e7983a5c13f57b77696c36ba808ec0][^key-9e28c960f66cbcc5daeeb7eac2e78453]
+## 178. Transfer of functions from the Office for Tenants and Social Landlords to the Homes and Communities Agency[^c-e4e7983a5c13f57b77696c36ba808ec0][^c-9e28c960f66cbcc5daeeb7eac2e78453]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4e7983a5c13f57b77696c36ba808ec0]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2011/20/section/178) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-e4e7983a5c13f57b77696c36ba808ec0]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2011/20/section/178) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(t)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/t) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-9e28c960f66cbcc5daeeb7eac2e78453]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2011/20/section/178) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(d)](https://www.legislation.gov.uk/uksi/2012/628/article/6/d) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-9e28c960f66cbcc5daeeb7eac2e78453]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2011/20/section/178) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(d)](https://www.legislation.gov.uk/uksi/2012/628/article/6/d) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

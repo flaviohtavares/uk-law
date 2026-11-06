@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Insurance ... in respect of private use of vehicle to cover use under car-sharing arrangements.[^c13992171][^key-b8d931f8d5df0a67c9eb5cb76a81be58]
+## 150. Insurance ... in respect of private use of vehicle to cover use under car-sharing arrangements.[^c13992171][^c-b8d931f8d5df0a67c9eb5cb76a81be58]
 
 *Extent: E+W+S*
 
-(1) To the extent that a policy issued[^key-10ba038f302abd4afc428b5c79b7a65f] for the purposes of this Part of this Act—
+(1) To the extent that a policy issued[^c-10ba038f302abd4afc428b5c79b7a65f] for the purposes of this Part of this Act—
 
-- (a) restricts the insurance of the persons insured by the policy [^key-5f3d8446f7ed58ff3fd3b88831f7eb43]... to use of the vehicle for specified purposes (for example, social, domestic and pleasure purposes) of a non-commercial character, or
-- (b) excludes from that insurance [^key-4f1548c5444b3a7606e7a1fd257db144]... —
+- (a) restricts the insurance of the persons insured by the policy [^c-5f3d8446f7ed58ff3fd3b88831f7eb43]... to use of the vehicle for specified purposes (for example, social, domestic and pleasure purposes) of a non-commercial character, or
+- (b) excludes from that insurance [^c-4f1548c5444b3a7606e7a1fd257db144]... —
   - (i) use of the vehicle for hire or reward, or
   - (ii) business or commercial use of the vehicle, or
   - (iii) use of the vehicle for specified purposes of a business or commercial character,
 
-  then, for the purposes of that policy [^key-5d2f38b0007f3c5d33b34cd68dc3470f]... so far as it relates to such liabilities as are required to be covered by a policy under section 145 of this Act, the use of a vehicle on a journey in the course of which one or more passengers are carried at separate fares shall, if the conditions specified in subsection (2) below are satisfied, be treated as falling within that restriction or as not falling within that exclusion (as the case may be).
+  then, for the purposes of that policy [^c-5d2f38b0007f3c5d33b34cd68dc3470f]... so far as it relates to such liabilities as are required to be covered by a policy under section 145 of this Act, the use of a vehicle on a journey in the course of which one or more passengers are carried at separate fares shall, if the conditions specified in subsection (2) below are satisfied, be treated as falling within that restriction or as not falling within that exclusion (as the case may be).
 
 (2) The conditions referred to in subsection (1) above are—
 
@@ -44,14 +44,14 @@ summary: ''
 
 [^c13992171]: Modification: S. 150 excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(1)(b)(2)(b)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/1/b/2/b)
 
-[^key-b8d931f8d5df0a67c9eb5cb76a81be58]: Textual amendment: Words in s. 150 heading omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-b8d931f8d5df0a67c9eb5cb76a81be58]: Textual amendment: Words in s. 150 heading omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-10ba038f302abd4afc428b5c79b7a65f]: Textual amendment: Word in s. 150(1) substituted (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-10ba038f302abd4afc428b5c79b7a65f]: Textual amendment: Word in s. 150(1) substituted (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-5f3d8446f7ed58ff3fd3b88831f7eb43]: Textual amendment: Words in s. 150(1)(a) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-5f3d8446f7ed58ff3fd3b88831f7eb43]: Textual amendment: Words in s. 150(1)(a) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-4f1548c5444b3a7606e7a1fd257db144]: Textual amendment: Words in s. 150(1)(b) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-4f1548c5444b3a7606e7a1fd257db144]: Textual amendment: Words in s. 150(1)(b) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-5d2f38b0007f3c5d33b34cd68dc3470f]: Textual amendment: Words in s. 150(1)(b) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(c)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-5d2f38b0007f3c5d33b34cd68dc3470f]: Textual amendment: Words in s. 150(1)(b) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 13(3)(c)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/13/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
 [^c13992181]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).

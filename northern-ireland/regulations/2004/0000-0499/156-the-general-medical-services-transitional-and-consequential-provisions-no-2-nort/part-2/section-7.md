@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Removals from the list of patients who are violent[^key-8459a706bb43d3553c466f7673486f56]
+## 7. Removals from the list of patients who are violent[^c-8459a706bb43d3553c466f7673486f56]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8459a706bb43d3553c466f7673486f56]: Commencement: Art. 7 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-8459a706bb43d3553c466f7673486f56]: Commencement: Art. 7 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00016]: Footnote: Regulation 18(8)(b) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 20 — Drug testing in police detention: trigger offences[^key-1cae7a2a9ad730504a750f957f323ad1]
+## Schedule 20 — Drug testing in police detention: trigger offences[^c-1cae7a2a9ad730504a750f957f323ad1]
 
 *Extent: E+W*
 
@@ -162,4 +162,4 @@ This is the Schedule to be inserted after [Schedule 2A](https://www.legislation.
 
 ## Annotations
 
-[^key-1cae7a2a9ad730504a750f957f323ad1]: Commencement: Sch. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1cae7a2a9ad730504a750f957f323ad1]: Commencement: Sch. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

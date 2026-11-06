@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Rules of interpretation for instruments concerning property[^key-60c6380434bca3f264f8a6256ae7d15e]
+## 68. Rules of interpretation for instruments concerning property[^c-60c6380434bca3f264f8a6256ae7d15e]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ but this does not affect any reference to a person’s age.
 
 ## Annotations
 
-[^key-60c6380434bca3f264f8a6256ae7d15e]: Commencement: S. 68 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-60c6380434bca3f264f8a6256ae7d15e]: Commencement: S. 68 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

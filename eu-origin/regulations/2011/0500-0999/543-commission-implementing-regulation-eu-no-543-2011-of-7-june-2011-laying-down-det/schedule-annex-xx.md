@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XX — REGULATIONS REFERRED TO IN ARTICLE 150(2)[^key-dc163dbbf00782f345c87a532cef0971]
+## ANNEX XX — REGULATIONS REFERRED TO IN ARTICLE 150(2)[^c-dc163dbbf00782f345c87a532cef0971]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc163dbbf00782f345c87a532cef0971]: Textual amendment: [Annex 20](https://www.legislation.gov.uk/eur/2011/543/annex/XX) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(48)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc163dbbf00782f345c87a532cef0971]: Textual amendment: [Annex 20](https://www.legislation.gov.uk/eur/2011/543/annex/XX) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(48)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

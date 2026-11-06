@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Notice of decisions in respect of registration or renewal[^key-46a72b62694168e2bf190b338d5651e3]
+## 89. Notice of decisions in respect of registration or renewal[^c-46a72b62694168e2bf190b338d5651e3]
 
 *Extent: E+W*
 
@@ -38,12 +38,12 @@ summary: ''
 - (b) of the reasons for the decision, and
 - (c) of the right of appeal under section 101.
 
-(5)[^key-f02a0e76cf89b60dfebc13568d884fda] Where an application for registration under section 82 has been submitted by a specified state applicant, the registrar must give notice of the decision under subsection (2) or (4) to the person to whom the application relates no later than four months after the date on which the complete application was submitted.
+(5)[^c-f02a0e76cf89b60dfebc13568d884fda] Where an application for registration under section 82 has been submitted by a specified state applicant, the registrar must give notice of the decision under subsection (2) or (4) to the person to whom the application relates no later than four months after the date on which the complete application was submitted.
 
 (6) Where the registrar fails to give notice of a decision within the time period specified in subsection (5), that failure is to be treated for the purposes of Parts 3, 4 and 8 as a decision of the registrar.
 
 ## Annotations
 
-[^key-46a72b62694168e2bf190b338d5651e3]: Commencement: S. 89 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-46a72b62694168e2bf190b338d5651e3]: Commencement: S. 89 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-f02a0e76cf89b60dfebc13568d884fda]: Textual amendment: S. 89(5)(6) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [12](https://www.legislation.gov.uk/wsi/2026/24/regulation/12)
+[^c-f02a0e76cf89b60dfebc13568d884fda]: Textual amendment: S. 89(5)(6) inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [12](https://www.legislation.gov.uk/wsi/2026/24/regulation/12)

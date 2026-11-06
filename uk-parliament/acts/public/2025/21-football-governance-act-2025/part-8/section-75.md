@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Sanctions[^key-2b3f59c8c2f9cf1c82bf7bfb7452b670][^key-6594caa4790690d6e1f11f0b50e7c6e3][^key-423bf80686196e74eb9e72f0f4129051]
+## 75. Sanctions[^c-2b3f59c8c2f9cf1c82bf7bfb7452b670][^c-6594caa4790690d6e1f11f0b50e7c6e3][^c-423bf80686196e74eb9e72f0f4129051]
 
 *Extent: E+W*
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3f59c8c2f9cf1c82bf7bfb7452b670]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-2b3f59c8c2f9cf1c82bf7bfb7452b670]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-6594caa4790690d6e1f11f0b50e7c6e3]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/21/section/75) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/i)
+[^c-6594caa4790690d6e1f11f0b50e7c6e3]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/21/section/75) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/i)
 
-[^key-423bf80686196e74eb9e72f0f4129051]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/21/section/75) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/d/i)
+[^c-423bf80686196e74eb9e72f0f4129051]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/21/section/75) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(d)(i)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/d/i)

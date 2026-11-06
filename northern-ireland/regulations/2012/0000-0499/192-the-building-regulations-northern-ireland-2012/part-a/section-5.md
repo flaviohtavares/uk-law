@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Subject to the provisions of regulation 4, Parts A to M[^key-e177d768e2ecda146fdd35181c6074c5] and Parts R and V shall apply to the erection of a building.
+Subject to the provisions of regulation 4, Parts A to M[^c-e177d768e2ecda146fdd35181c6074c5] and Parts R and V shall apply to the erection of a building.
 
 ## Annotations
 
-[^key-e177d768e2ecda146fdd35181c6074c5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2012/192/regulation/5) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-e177d768e2ecda146fdd35181c6074c5]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/nisr/2012/192/regulation/5) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(3)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

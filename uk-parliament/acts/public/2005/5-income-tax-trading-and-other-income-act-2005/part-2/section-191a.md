@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191A. Chapter not to apply where cash basis used[^key-ca900047a09a2ceceb975d7cadb1e957]
+## 191A. Chapter not to apply where cash basis used[^c-ca900047a09a2ceceb975d7cadb1e957]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-ca900047a09a2ceceb975d7cadb1e957]: Textual amendment: S. 191A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/31)
+[^c-ca900047a09a2ceceb975d7cadb1e957]: Textual amendment: S. 191A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/31)

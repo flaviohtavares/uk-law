@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Statutory Undertakers[^key-ca512b5fd1c9176970de02e65429e980]
+## 28. Statutory Undertakers[^c-ca512b5fd1c9176970de02e65429e980]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Subject to the provisions of Schedule 9 (protective provisions), the undertaker 
 
 ## Annotations
 
-[^key-ca512b5fd1c9176970de02e65429e980]: Commencement: Art. 28 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-ca512b5fd1c9176970de02e65429e980]: Commencement: Art. 28 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

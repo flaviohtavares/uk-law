@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Compulsory acquisition of rights[^key-c4f2d5d0052e3d665d396848d849159b]
+## 25. Compulsory acquisition of rights[^c-c4f2d5d0052e3d665d396848d849159b]
 
 *Extent: E+W+S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f2d5d0052e3d665d396848d849159b]: Commencement: Art. 25 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-c4f2d5d0052e3d665d396848d849159b]: Commencement: Art. 25 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00038]: Footnote: Section 8 was amended by paragraphs 1 and 2 of Schedule 17 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

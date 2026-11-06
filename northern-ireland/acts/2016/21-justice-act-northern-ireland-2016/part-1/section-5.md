@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Collection officer to contact debtor in default[^key-620ce107e858944de4585c956c80e5a3]
+## 5. Collection officer to contact debtor in default[^c-620ce107e858944de4585c956c80e5a3]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-620ce107e858944de4585c956c80e5a3]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/21/section/5) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-620ce107e858944de4585c956c80e5a3]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2016/21/section/5) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Ambulatory references[^key-cd73cd0f6f4a25bab8f741a1c766de6d][^key-15410837e2a8d8e221266c8df19124ce]
+## 66. Ambulatory references[^c-cd73cd0f6f4a25bab8f741a1c766de6d][^c-15410837e2a8d8e221266c8df19124ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd73cd0f6f4a25bab8f741a1c766de6d]: Commencement: S. 66 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-cd73cd0f6f4a25bab8f741a1c766de6d]: Commencement: S. 66 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-15410837e2a8d8e221266c8df19124ce]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/29/section/66) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(rr)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/rr)
+[^c-15410837e2a8d8e221266c8df19124ce]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/29/section/66) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(rr)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/rr)

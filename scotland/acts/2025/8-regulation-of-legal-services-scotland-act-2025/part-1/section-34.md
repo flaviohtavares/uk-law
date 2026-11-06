@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Revocation of acquired rights[^key-5323375eed1df43ef01d2b2f03c47c4e][^key-3091e810094d9f21c7af4033f8c2d975]
+## 34. Revocation of acquired rights[^c-5323375eed1df43ef01d2b2f03c47c4e][^c-3091e810094d9f21c7af4033f8c2d975]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5323375eed1df43ef01d2b2f03c47c4e]: Commencement: S. 34 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5323375eed1df43ef01d2b2f03c47c4e]: Commencement: S. 34 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-3091e810094d9f21c7af4033f8c2d975]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2025/8/section/34) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-3091e810094d9f21c7af4033f8c2d975]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2025/8/section/34) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

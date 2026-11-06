@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Time and manner in which claims are to be made[^key-0cdf42d73f46d95485fe0151a8855b13]
+## 62. Time and manner in which claims are to be made[^c-0cdf42d73f46d95485fe0151a8855b13]
 
 *Extent: E+W+S*
 
@@ -80,4 +80,4 @@ and any claim received following that invitation, if made within 4 weeks of the 
 
 ## Annotations
 
-[^key-0cdf42d73f46d95485fe0151a8855b13]: Commencement: Reg. 62 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+[^c-0cdf42d73f46d95485fe0151a8855b13]: Commencement: Reg. 62 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)

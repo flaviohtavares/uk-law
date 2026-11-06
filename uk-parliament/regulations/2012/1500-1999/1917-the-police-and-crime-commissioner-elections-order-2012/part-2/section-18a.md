@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18A. Influencing voters at polling booths[^key-15c412c33c6f5f832a773c64d9c3e4db]
+## 18A. Influencing voters at polling booths[^c-15c412c33c6f5f832a773c64d9c3e4db]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-15c412c33c6f5f832a773c64d9c3e4db]: Textual amendment: [Art. 18A](https://www.legislation.gov.uk/uksi/2012/1917/article/18A) inserted (2.5.2024) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/4/2)
+[^c-15c412c33c6f5f832a773c64d9c3e4db]: Textual amendment: [Art. 18A](https://www.legislation.gov.uk/uksi/2012/1917/article/18A) inserted (2.5.2024) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/4/2)

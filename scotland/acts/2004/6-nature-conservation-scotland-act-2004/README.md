@@ -77,7 +77,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 19 — Offences in relation to sites of special scientific interest](part-2/section-19.md)
 - [Section 20 — Byelaws](part-2/section-20.md)
 
-##### Restoration notices[^key-bcaa12f96d13bad715ee638218a37e6c]
+##### Restoration notices[^c-bcaa12f96d13bad715ee638218a37e6c]
 
 - [Section 20A — Restoration notices](part-2/section-20a.md)
 
@@ -86,7 +86,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 21 — Representations to SNH on sites of special scientific interest](part-2/section-21.md)
 - [Section 22 — SSSI register](part-2/section-22.md)
 
-#### Chapter 2 — Nature conservation orders[^key-36c86f6066c8053127e1f41c5ad4c5a8]
+#### Chapter 2 — Nature conservation orders[^c-36c86f6066c8053127e1f41c5ad4c5a8]
 
 - [Section 23 — Nature conservation orders](part-2/section-23.md)
 - [Section 24 — Amendment or revocation of nature conservation orders](part-2/section-24.md)
@@ -95,7 +95,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 27 — Offences in relation to nature conservation orders](part-2/section-27.md)
 - [Section 28 — Reports](part-2/section-28.md)
 
-#### Chapter 3 — Land management orders[^key-99b362b56cc9ba95cdfacfa5fb68b659]
+#### Chapter 3 — Land management orders[^c-99b362b56cc9ba95cdfacfa5fb68b659]
 
 - [Section 29 — Proposals for land management orders](part-2/section-29.md)
 - [Section 30 — Power to make land management orders](part-2/section-30.md)
@@ -151,8 +151,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-bcaa12f96d13bad715ee638218a37e6c]: Textual amendment: S. 20A and cross-heading inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(1)(a)](https://www.legislation.gov.uk/asp/2011/6/section/40/1/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
+[^c-bcaa12f96d13bad715ee638218a37e6c]: Textual amendment: S. 20A and cross-heading inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 40(1)(a)](https://www.legislation.gov.uk/asp/2011/6/section/40/1/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(q)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/q)
 
-[^key-36c86f6066c8053127e1f41c5ad4c5a8]: Modification: Pt. 2 Ch. 2 applied (with modifications) by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [regs. 19](https://www.legislation.gov.uk/uksi/1994/2716/regulation/19), [20](https://www.legislation.gov.uk/uksi/1994/2716/regulation/20) (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20))) (as amended (6.4.2011) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2011 (S.S.I. 2011/155)](https://www.legislation.gov.uk/ssi/2011/155), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/155/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2011/155/regulation/5) and (31.1.2020) by [The Conservation (Natural Habitats, c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2019/113/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-36c86f6066c8053127e1f41c5ad4c5a8]: Modification: Pt. 2 Ch. 2 applied (with modifications) by [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716), [regs. 19](https://www.legislation.gov.uk/uksi/1994/2716/regulation/19), [20](https://www.legislation.gov.uk/uksi/1994/2716/regulation/20) (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20))) (as amended (6.4.2011) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2011 (S.S.I. 2011/155)](https://www.legislation.gov.uk/ssi/2011/155), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/155/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2011/155/regulation/5) and (31.1.2020) by [The Conservation (Natural Habitats, c.) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/113)](https://www.legislation.gov.uk/ssi/2019/113), [regs. 1](https://www.legislation.gov.uk/ssi/2019/113/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2019/113/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-99b362b56cc9ba95cdfacfa5fb68b659]: Modification: Pt. 2 Ch. 3 applied (with modifications) by S.I. 1994/2716, regs. 19, 21 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-99b362b56cc9ba95cdfacfa5fb68b659]: Modification: Pt. 2 Ch. 3 applied (with modifications) by S.I. 1994/2716, regs. 19, 21 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

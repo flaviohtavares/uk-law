@@ -37,11 +37,11 @@ Made
 
 The Department of Finance[^f00001], in exercise of the powers conferred by section 55 of the Legal Complaints and Regulation Act (Northern Ireland) 2016[^f00002], makes the following Order.
 
-## 1. Citation[^key-bf206dbf2c86a4a3cf84d68a8aa7ddef]
+## 1. Citation[^c-bf206dbf2c86a4a3cf84d68a8aa7ddef]
 
 This Order may be cited as the Legal Complaints and Regulation (2016 Act) (Commencement No. 2) Order (Northern Ireland) 2026.
 
-## 2. Appointed Day[^key-11f9136192a905f3c47ab79c380f8b12]
+## 2. Appointed Day[^c-11f9136192a905f3c47ab79c380f8b12]
 
 The day appointed for the coming into operation of section 9 of the Legal Complaints and Regulation Act (Northern Ireland) 2016 is 1st July 2026.
 
@@ -75,6 +75,6 @@ NOTE AS TO EARLIER COMMENCEMENT ORDER
 
 [^f00002]: Footnote: [2016 c.14 (N.I.)](https://www.legislation.gov.uk/nia/2016/14)
 
-[^key-bf206dbf2c86a4a3cf84d68a8aa7ddef]: Commencement: Art. 1 in operation at made date
+[^c-bf206dbf2c86a4a3cf84d68a8aa7ddef]: Commencement: Art. 1 in operation at made date
 
-[^key-11f9136192a905f3c47ab79c380f8b12]: Commencement: Art. 2 in operation at made date
+[^c-11f9136192a905f3c47ab79c380f8b12]: Commencement: Art. 2 in operation at made date

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 106. General interpretation[^key-40297af674e2b4fa338b0e2cf2204c91]
+## 106. General interpretation[^c-40297af674e2b4fa338b0e2cf2204c91]
 
 *Extent: E*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - “**admission**” includes institution and induction, collation, licence and any other process by which a person becomes the incumbent of a benefice or (for the purposes of section 104) the holder of a cathedral preferment and “**admit**” shall be construed accordingly;
 - “**the bishop**” means the bishop of the diocese concerned;
-- “**charity**” has the meaning ascribed to it by section 10 of the Charities Act 2011[^key-77c6fcabe057819daffec1b7c5c808bb] ;
+- “**charity**” has the meaning ascribed to it by section 10 of the Charities Act 2011[^c-77c6fcabe057819daffec1b7c5c808bb] ;
 - “**church**” means a church or chapel which has been consecrated for the purpose of public worship according to the rites and ceremonies of the Church of England, and includes a building used or intended to be used partly for the purpose of such public worship and partly for the purpose of a church hall, whether the whole building is consecrated or only such part thereof as is used or intended to be used for the purpose of such public worship, and any reference to the consecration of a church shall, in the case of such a building, be construed as including a reference to the consecration of the part of the building used or intended to be used for the purpose of such public worship as aforesaid;
 - “**the Church Buildings Council**” means the body of that name constituted in accordance with section 54 of the Dioceses, Pastoral and Mission Measure 2007 (No. 1);
 - “**the Commissioners**” means the Church Commissioners;
@@ -43,7 +43,7 @@ summary: ''
 - “**mission and pastoral committee**” means the committee appointed in accordance with section 2;
 - “**National Amenity Societies**” means the Ancient Monuments Society, the Council for British Archaeology, the Georgian Group, the Society for the Protection of Ancient Buildings, The Twentieth Century Society and the Victorian Society and such other body as may from time to time be designated by the Dean of the Arches and Auditor as a national amenity society for the purposes of this Measure;
 - “**the 1983 Measure**” means the Pastoral Measure 1983 (No. 1);
-- “Parsonages Board” means the Parsonages Board appointed or designated under section 1(1) of the Repair of Benefice Buildings Measure 1972.[^key-a482d251c8b0f34536739ea13ccb6db1]
+- “Parsonages Board” means the Parsonages Board appointed or designated under section 1(1) of the Repair of Benefice Buildings Measure 1972.[^c-a482d251c8b0f34536739ea13ccb6db1]
 - “**parsonage house**” means the house or other dwelling vested in the incumbent of a benefice (when the benefice is full) and being his or her official residence, and includes any outbuildings or land included in the curtilage of any such house or dwelling and any rights appurtenant thereto;
 - “**pastoral order**” means an order made by the bishop under section 11;
 - “**pastoral scheme**” means a scheme made by the Commissioners under Part 3 or 4, and includes (except where it is expressly or by necessary implication excluded) any such scheme made in pursuance of proposals by a joint boundary committee appointed under section 16 and a pastoral church buildings scheme;
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-40297af674e2b4fa338b0e2cf2204c91]: Commencement: S. 106 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-40297af674e2b4fa338b0e2cf2204c91]: Commencement: S. 106 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-77c6fcabe057819daffec1b7c5c808bb]: Textual amendment: Words in s. 106(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 148](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/148) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )
+[^c-77c6fcabe057819daffec1b7c5c808bb]: Textual amendment: Words in s. 106(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 148](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/148) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )
 
-[^key-a482d251c8b0f34536739ea13ccb6db1]: Textual amendment: Words in s. 106(1) inserted (1.7.2012) by [The Ecclesiastical Offices (Terms of Service) (Consequential Provisions) Order 2012 (S.I. 2012/992)](https://www.legislation.gov.uk/uksi/2012/992), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/992/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/992/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/992/schedule/5)
+[^c-a482d251c8b0f34536739ea13ccb6db1]: Textual amendment: Words in s. 106(1) inserted (1.7.2012) by [The Ecclesiastical Offices (Terms of Service) (Consequential Provisions) Order 2012 (S.I. 2012/992)](https://www.legislation.gov.uk/uksi/2012/992), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/992/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/992/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/992/schedule/5)

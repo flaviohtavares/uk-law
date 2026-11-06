@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Power of magistrates' court to fine where only imprisonment etc specified[^key-a7c94e2d15bc2e9970245deec406032c]
+## 119. Power of magistrates' court to fine where only imprisonment etc specified[^c-a7c94e2d15bc2e9970245deec406032c]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ For this purpose, “**default term**” means the term of imprisonment or deten
 
 ## Annotations
 
-[^key-a7c94e2d15bc2e9970245deec406032c]: Commencement: S. 119 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a7c94e2d15bc2e9970245deec406032c]: Commencement: S. 119 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

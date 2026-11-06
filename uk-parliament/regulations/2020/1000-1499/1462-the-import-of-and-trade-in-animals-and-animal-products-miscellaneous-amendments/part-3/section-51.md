@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Commission Decision [2008/185/EC](https://www.legislation.gov.uk/european/decision/2008/0185) on additional guarantees in intra-Community trade of pigs relating to Aujeszky's disease and criteria to provide information on this disease[^key-69352d4debb451ce2cc0a9fc850ebc10]
+## 51. Commission Decision [2008/185/EC](https://www.legislation.gov.uk/european/decision/2008/0185) on additional guarantees in intra-Community trade of pigs relating to Aujeszky's disease and criteria to provide information on this disease[^c-69352d4debb451ce2cc0a9fc850ebc10]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69352d4debb451ce2cc0a9fc850ebc10]: Commencement: Reg. 51 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-69352d4debb451ce2cc0a9fc850ebc10]: Commencement: Reg. 51 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

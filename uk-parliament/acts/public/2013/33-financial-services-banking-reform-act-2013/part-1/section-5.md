@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. PRA annual report[^key-e00638e5dc14c016f18b1f443d62daf3]
+## 5. PRA annual report[^c-e00638e5dc14c016f18b1f443d62daf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00638e5dc14c016f18b1f443d62daf3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/33/section/5) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/e)
+[^c-e00638e5dc14c016f18b1f443d62daf3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/33/section/5) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/e)

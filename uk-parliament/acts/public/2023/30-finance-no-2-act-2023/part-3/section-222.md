@@ -48,8 +48,8 @@ The investment entity effective tax rate in a territory for an accounting period
   Subtract the result of Step 7 from the result of Step 6.
 - *Step 9*
 
-  Divide the result of Step 8 by the result of Step 2[^key-34f8caf8093f27dd1522668568bab0e1]. This is the investment entity effective tax rate.
+  Divide the result of Step 8 by the result of Step 2[^c-34f8caf8093f27dd1522668568bab0e1]. This is the investment entity effective tax rate.
 
 ## Annotations
 
-[^key-34f8caf8093f27dd1522668568bab0e1]: Textual amendment: Words in s. 222 substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 67](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/67), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-34f8caf8093f27dd1522668568bab0e1]: Textual amendment: Words in s. 222 substituted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 67](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/67), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

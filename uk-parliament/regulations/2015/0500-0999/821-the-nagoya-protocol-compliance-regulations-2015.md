@@ -62,7 +62,7 @@ The Secretary of State, who is designated for the purposes of section 2(2) of th
 - “**body corporate**” includes a limited liability partnership;
 - “**civil sanction**” has the meaning given by regulation 7;
 - “**compliance notice**” has the meaning given by paragraph 1 of the Schedule;
-- “**the EU Regulation**” means Regulation (EU) No 511/2014 of the European Parliament and of the Council on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilisation in the Union [^c22474651] as it applies in the United Kingdom[^key-7d3faf4f0a225b619aca2e75f6296eae];
+- “**the EU Regulation**” means Regulation (EU) No 511/2014 of the European Parliament and of the Council on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilisation in the Union [^c22474651] as it applies in the United Kingdom[^c-7d3faf4f0a225b619aca2e75f6296eae];
 - “**inspector**” has the meaning given by regulation 9;
 - “**the Nagoya Protocol**” means the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity adopted at the tenth meeting of the Conference of the Parties to the Convention on Biological Diversity on 29th October 2010 [^c22474661];
 - “**non-compliance penalty**” has the meaning given by paragraph 23 of the Schedule;
@@ -89,7 +89,7 @@ The Secretary of State is the competent authority for the purposes of the EU Reg
 
 ### 4. Register of collections
 
-The Secretary of State must carry out the functions [^key-c1df746ec2af3399ef28c7532f0c701e]... under Article 5 of the EU Regulation.
+The Secretary of State must carry out the functions [^c-c1df746ec2af3399ef28c7532f0c701e]... under Article 5 of the EU Regulation.
 
 ### 5. Monitoring user compliance
 
@@ -99,7 +99,7 @@ The Secretary of State must make the request referred to in Article 7(1) of the 
 
 The Secretary of State must—
 
-- (a)[^key-a4174179d7e3f43dccc496a2f8ef580a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a4174179d7e3f43dccc496a2f8ef580a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) take any other appropriate, effective and proportionate administrative or policy measures necessary to provide that genetic resources or traditional knowledge associated with genetic resources are utilised in accordance with the Nagoya Protocol.
 
 ## PART 3 — Civil sanctions
@@ -281,7 +281,7 @@ that officer or member, as well as the association, is guilty of the offence and
 - (a) on summary conviction to a fine not exceeding £5,000 or to a term of imprisonment not exceeding three months, or to both;
 - (b) on conviction on indictment, to a fine or to a term of imprisonment not exceeding two years, or to both.
 
-(2) A person guilty of an offence under paragraph (c) of regulation 13, or regulation 14,[^key-3175af4f82a64b3450f7b72d44937100] is liable on summary conviction to a fine not exceeding £5,000.
+(2) A person guilty of an offence under paragraph (c) of regulation 13, or regulation 14,[^c-3175af4f82a64b3450f7b72d44937100] is liable on summary conviction to a fine not exceeding £5,000.
 
 (3) For the purposes of paragraph (1), the reference to £5,000 in relation to a fine in Northern Ireland shall be read as meaning the statutory maximum.
 
@@ -771,13 +771,13 @@ An impact assessment has not been produced for these Regulations as no significa
 
 [^c22474651]: Marginal citation: OJ No L 150, 20.5.2014, p. 59.
 
-[^key-7d3faf4f0a225b619aca2e75f6296eae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/821/regulation/2/1) inserted (31.12.2020) by [The Nagoya Protocol (Compliance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1393)](https://www.legislation.gov.uk/uksi/2018/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1393/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1393/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d3faf4f0a225b619aca2e75f6296eae]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/821/regulation/2/1) inserted (31.12.2020) by [The Nagoya Protocol (Compliance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1393)](https://www.legislation.gov.uk/uksi/2018/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1393/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1393/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22474661]: Marginal citation: Miscellaneous series No. 5/2014: Cm 8856. ISBN 9781474102919.
 
-[^key-c1df746ec2af3399ef28c7532f0c701e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/821/regulation/4) omitted (31.12.2020) by virtue of [The Nagoya Protocol (Compliance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1393)](https://www.legislation.gov.uk/uksi/2018/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1393/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1393/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1df746ec2af3399ef28c7532f0c701e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/821/regulation/4) omitted (31.12.2020) by virtue of [The Nagoya Protocol (Compliance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1393)](https://www.legislation.gov.uk/uksi/2018/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1393/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1393/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4174179d7e3f43dccc496a2f8ef580a]: Textual amendment: [Reg. 6(a)](https://www.legislation.gov.uk/uksi/2015/821/regulation/6/a) omitted (31.12.2020) by virtue of [The Nagoya Protocol (Compliance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1393)](https://www.legislation.gov.uk/uksi/2018/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1393/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1393/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4174179d7e3f43dccc496a2f8ef580a]: Textual amendment: [Reg. 6(a)](https://www.legislation.gov.uk/uksi/2015/821/regulation/6/a) omitted (31.12.2020) by virtue of [The Nagoya Protocol (Compliance) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1393)](https://www.legislation.gov.uk/uksi/2018/1393), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1393/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1393/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22474671]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86); subsections (1), (2) and (5) of section 33 were repealed by the [Magistrates' Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), [Schedule 6](https://www.legislation.gov.uk/ukpga/1952/55/schedule/6); subsection (3) was amended by the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [Schedule 8](https://www.legislation.gov.uk/ukpga/1971/23/schedule/8), [Part 2](https://www.legislation.gov.uk/ukpga/1971/23/part/2); subsection (4) was amended by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [Schedule 8](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8), [paragraph 71](https://www.legislation.gov.uk/ukpga/2003/39/paragraph/71), and Schedule 10.
 
@@ -787,7 +787,7 @@ An impact assessment has not been produced for these Regulations as no significa
 
 [^c22474701]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-3175af4f82a64b3450f7b72d44937100]: Textual amendment: Words in reg. 16(2) inserted (11.10.2015) by [The Nagoya Protocol (Compliance) (Amendment) Regulations 2015 (S.I. 2015/1691)](https://www.legislation.gov.uk/uksi/2015/1691), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1691/regulation/2)
+[^c-3175af4f82a64b3450f7b72d44937100]: Textual amendment: Words in reg. 16(2) inserted (11.10.2015) by [The Nagoya Protocol (Compliance) (Amendment) Regulations 2015 (S.I. 2015/1691)](https://www.legislation.gov.uk/uksi/2015/1691), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1691/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/1691/regulation/2)
 
 [^c22474711]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

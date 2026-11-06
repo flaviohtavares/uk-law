@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Repeals in Part 21 of FSMA 2000[^key-19e0bca59fb1c0cacf4ad23ab7cd1296]
+## 54. Repeals in Part 21 of FSMA 2000[^c-19e0bca59fb1c0cacf4ad23ab7cd1296]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19e0bca59fb1c0cacf4ad23ab7cd1296]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2012/21/section/54) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-19e0bca59fb1c0cacf4ad23ab7cd1296]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2012/21/section/54) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

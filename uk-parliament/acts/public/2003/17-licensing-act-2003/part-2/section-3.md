@@ -31,7 +31,7 @@ summary: ''
 - (g) the Under-Treasurer of the Middle Temple, or
 - (h) the Council of the Isles of Scilly.
 
-(1A)[^key-20c36dbc8f27a2b2e571ec850fb60726] In this Act, “**London licensing authority**” means each of the following licensing authorities—
+(1A)[^c-20c36dbc8f27a2b2e571ec850fb60726] In this Act, “**London licensing authority**” means each of the following licensing authorities—
 
 - (a) the council of a London borough,
 - (b) the Common Council of the City of London,
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20c36dbc8f27a2b2e571ec850fb60726]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/2003/17/section/3/1A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-20c36dbc8f27a2b2e571ec850fb60726]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/ukpga/2003/17/section/3/1A) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

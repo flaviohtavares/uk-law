@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Functions in relation to the Scottish Road Works Register[^key-1436be4a73f20593c267dec166d81ad3]
+## 113. Functions in relation to the Scottish Road Works Register[^c-1436be4a73f20593c267dec166d81ad3]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1436be4a73f20593c267dec166d81ad3]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2019/17/section/113) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-1436be4a73f20593c267dec166d81ad3]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2019/17/section/113) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Effect of SSSI notification[^key-9a1f64790f58969d5a872bc443c9dea5]
+## 11. Effect of SSSI notification[^c-9a1f64790f58969d5a872bc443c9dea5]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the SSSI notification has effect as amended by the modifications or, as the case
 
 ## Annotations
 
-[^key-9a1f64790f58969d5a872bc443c9dea5]: Commencement: S. 11 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-9a1f64790f58969d5a872bc443c9dea5]: Commencement: S. 11 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

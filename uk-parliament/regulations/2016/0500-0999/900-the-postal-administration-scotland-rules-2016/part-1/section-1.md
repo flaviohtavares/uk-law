@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-4eb85359d411511dd37ad25748b49086]
+## 1. Citation and commencement[^c-4eb85359d411511dd37ad25748b49086]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Postal Administration (Scotland) Rules 2016 and 
 
 ## Annotations
 
-[^key-4eb85359d411511dd37ad25748b49086]: Commencement: Rule 1 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-4eb85359d411511dd37ad25748b49086]: Commencement: Rule 1 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

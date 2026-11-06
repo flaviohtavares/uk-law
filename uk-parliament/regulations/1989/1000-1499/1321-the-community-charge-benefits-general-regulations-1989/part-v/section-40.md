@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Covenant income where no grant income or no contribution is assessed[^key-870d1e20f7d78459b2936d5374f5615e]
+## 40. Covenant income where no grant income or no contribution is assessed[^c-870d1e20f7d78459b2936d5374f5615e]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any sums intended for any expenditure specified in regulation 38(2)(a) to (f) (calculation of grant income) necessary as a result of his attendance on the course shall be disregarded;
 - (b) any covenant income, up to the amount of the standard maintenance grant, which is not so disregarded, shall be apportioned equally between the weeks of the period of study;
-- (c) there shall be disregarded from the amount so apportioned the amount which would have been disregarded under regulation 38(2)(g) and (2A)[^key-d415f3e23f08ea10c199b10658afce57] (calculation of grant income) had the student been in receipt of the standard maintenance grant;
+- (c) there shall be disregarded from the amount so apportioned the amount which would have been disregarded under regulation 38(2)(g) and (2A)[^c-d415f3e23f08ea10c199b10658afce57] (calculation of grant income) had the student been in receipt of the standard maintenance grant;
 - (d) there shall be deducted from any amount in excess of the sums in sub-paragraphs (a) and (b) the amount deducted by way of tax in respect of the covenanted income; and
 - (e) the balance, if any, shall be divided by 52 or 53 whichever is reasonable in the circumstances and treated as weekly income of which £5 shall be disregarded.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-870d1e20f7d78459b2936d5374f5615e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1989/1321/regulation/40) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-870d1e20f7d78459b2936d5374f5615e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1989/1321/regulation/40) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-d415f3e23f08ea10c199b10658afce57]: Textual amendment: Words in [reg. 40(1)(c)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/40/1/c) substituted (6.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) Regulations 1992 (S.I. 1992/432)](https://www.legislation.gov.uk/uksi/1992/432), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1992/432/regulation/1/1/c), [23](https://www.legislation.gov.uk/uksi/1992/432/regulation/23)
+[^c-d415f3e23f08ea10c199b10658afce57]: Textual amendment: Words in [reg. 40(1)(c)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/40/1/c) substituted (6.4.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) Regulations 1992 (S.I. 1992/432)](https://www.legislation.gov.uk/uksi/1992/432), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1992/432/regulation/1/1/c), [23](https://www.legislation.gov.uk/uksi/1992/432/regulation/23)

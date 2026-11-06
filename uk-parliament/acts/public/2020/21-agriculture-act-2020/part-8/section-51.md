@@ -36,8 +36,8 @@ In this Act—
 - “**private dwelling**” means so much of any land as consists of—
   - (a) a building or other structure used wholly or mainly as a private dwelling, or
   - (b) a garden, yard, private garage or outhouse enjoyed with such a building or structure;
-- “**subordinate legislation**” means an instrument made under primary legislation or under assimilated direct[^key-b7e6a41ebd39ae889ce9b26d0d8a9df3] legislation.
+- “**subordinate legislation**” means an instrument made under primary legislation or under assimilated direct[^c-b7e6a41ebd39ae889ce9b26d0d8a9df3] legislation.
 
 ## Annotations
 
-[^key-b7e6a41ebd39ae889ce9b26d0d8a9df3]: Textual amendment: Words in s. 51 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(l)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/l)
+[^c-b7e6a41ebd39ae889ce9b26d0d8a9df3]: Textual amendment: Words in s. 51 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(l)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/l)

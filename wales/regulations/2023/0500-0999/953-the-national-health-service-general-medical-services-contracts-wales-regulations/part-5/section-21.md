@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Fees, charges and financial interests[^key-77df61032ca94876e886b288a98b593c]
+## 21. Fees, charges and financial interests[^c-77df61032ca94876e886b288a98b593c]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ make that decision without regard to its own financial interests.
 
 ## Annotations
 
-[^key-77df61032ca94876e886b288a98b593c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2023/953/regulation/21) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-77df61032ca94876e886b288a98b593c]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2023/953/regulation/21) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Unit trust schemes[^key-ee0cbb111feefb9aa1efdb06183c504a]
+## 45. Unit trust schemes[^c-ee0cbb111feefb9aa1efdb06183c504a]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee0cbb111feefb9aa1efdb06183c504a]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2013/11/section/45) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ee0cbb111feefb9aa1efdb06183c504a]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2013/11/section/45) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

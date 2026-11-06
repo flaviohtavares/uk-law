@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (General Medical Services) Amendment (No.2) (Wales) Regulations 2000 (revoked)[^key-5abe084fb68989625df750b039bf7cb5]
+The National Health Service (General Medical Services) Amendment (No.2) (Wales) Regulations 2000 (revoked)[^c-5abe084fb68989625df750b039bf7cb5]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st August 2000
 
-[^key-5abe084fb68989625df750b039bf7cb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5abe084fb68989625df750b039bf7cb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-5abe084fb68989625df750b039bf7cb5]
+## 1. Citation, commencement, interpretation and application[^c-5abe084fb68989625df750b039bf7cb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1992 Regulations[^key-5abe084fb68989625df750b039bf7cb5]
+## 2. Amendment of the 1992 Regulations[^c-5abe084fb68989625df750b039bf7cb5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5abe084fb68989625df750b039bf7cb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5abe084fb68989625df750b039bf7cb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5abe084fb68989625df750b039bf7cb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5abe084fb68989625df750b039bf7cb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5abe084fb68989625df750b039bf7cb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1992) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/wsi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2004/1016/schedule/2)
+[^c-5abe084fb68989625df750b039bf7cb5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1992) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (Wales) (No. 2) Order 2004 (S.I. 2004/1016)](https://www.legislation.gov.uk/wsi/2004/1016), [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2004/1016/schedule/2)

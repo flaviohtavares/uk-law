@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Removals from the list of patients who have moved[^key-8d12e8bb0114512d2f806e36294015e5]
+## 8. Removals from the list of patients who have moved[^c-8d12e8bb0114512d2f806e36294015e5]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d12e8bb0114512d2f806e36294015e5]: Commencement: Art. 8 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-8d12e8bb0114512d2f806e36294015e5]: Commencement: Art. 8 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00020]: Footnote: Regulation 23(2) was amended by [S.I. 1997/730](https://www.legislation.gov.uk/uksi/1997/730), and [2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Proof of sending[^key-a862fd1e87f0dc665978eae0fb077cec]
+## 167. Proof of sending[^c-a862fd1e87f0dc665978eae0fb077cec]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a862fd1e87f0dc665978eae0fb077cec]: Commencement: Rule 167 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a862fd1e87f0dc665978eae0fb077cec]: Commencement: Rule 167 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

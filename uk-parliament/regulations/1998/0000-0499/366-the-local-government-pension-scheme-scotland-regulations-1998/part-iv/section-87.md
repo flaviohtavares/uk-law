@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Exclusion of rights to return of contributions[^key-7b099c73817da875e01f454ecc0951d7]
+## 87. Exclusion of rights to return of contributions[^c-7b099c73817da875e01f454ecc0951d7]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b099c73817da875e01f454ecc0951d7]: Commencement: Reg. 87 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-7b099c73817da875e01f454ecc0951d7]: Commencement: Reg. 87 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

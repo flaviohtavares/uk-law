@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 832B. Section 832: deductions from remitted income[^key-5fae1b4f49ac55f528385e35452020be]
+## 832B. Section 832: deductions from remitted income[^c-5fae1b4f49ac55f528385e35452020be]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fae1b4f49ac55f528385e35452020be]: Textual amendment: Ss. 832-832B substituted for s. 832 (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/53) (with [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/83))
+[^c-5fae1b4f49ac55f528385e35452020be]: Textual amendment: Ss. 832-832B substituted for s. 832 (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/53) (with [Sch. 7 para. 83](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/83))

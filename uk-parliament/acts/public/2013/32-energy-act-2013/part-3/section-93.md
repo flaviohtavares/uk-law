@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Compliance with nuclear safeguards obligations[^key-f44fd1e03f8b77235328ffa930a021da]
+## 93. Compliance with nuclear safeguards obligations[^c-f44fd1e03f8b77235328ffa930a021da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f44fd1e03f8b77235328ffa930a021da]: Textual amendment: [S. 93](https://www.legislation.gov.uk/ukpga/2013/32/section/93) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/6); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-f44fd1e03f8b77235328ffa930a021da]: Textual amendment: [S. 93](https://www.legislation.gov.uk/ukpga/2013/32/section/93) omitted (31.12.2020) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/6); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)

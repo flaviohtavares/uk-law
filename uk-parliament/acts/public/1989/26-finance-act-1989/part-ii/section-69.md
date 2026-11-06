@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Chargeable events.[^key-b817d39a38e94a36a8ed19da6bce688a][^c13112231]
+## 69. Chargeable events.[^c-b817d39a38e94a36a8ed19da6bce688a][^c13112231]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,8 +41,8 @@ summary: ''
 
 (3AA)[^c13112271] For the purposes of subsection (1)(a) above a transfer is also a qualifying transfer if—
 
-- (a) it is a transfer of relevant shares made to the trustees of the plan trust of a share incentive[^key-c69fe28dbf85cac7840903ef07a27420] plan,
-- (b) the plan is approved under Schedule 2 to the Income Tax (Earnings and Pensions) Act 2003[^key-6231c42e51c55af0008ca2b53d6f8e11] when the transfer is made, and
+- (a) it is a transfer of relevant shares made to the trustees of the plan trust of a share incentive[^c-c69fe28dbf85cac7840903ef07a27420] plan,
+- (b) the plan is approved under Schedule 2 to the Income Tax (Earnings and Pensions) Act 2003[^c-6231c42e51c55af0008ca2b53d6f8e11] when the transfer is made, and
 - (c) the consideration (if any) for which the transfer is made does not exceed the market value of the shares.
 
 (3AB) For the purpose of determining whether a transfer by the trustees is a qualifying transfer within subsection (3AA) above, where on or after 21st March 2000—
@@ -56,7 +56,7 @@ For this purpose “ **holding** ” means any number of shares of the same clas
 
 (3AC) For the purposes of subsections (3AA) and (3AB) above—
 
-- “ **market value** ” has the same meaning as it has for the purposes of the[^key-1168ebd6c672ea179cd261e084b45400] SIP code (see paragraph 92 of Schedule 2 to the Income Tax (Earnings and Pensions) Act 2003); and
+- “ **market value** ” has the same meaning as it has for the purposes of the[^c-1168ebd6c672ea179cd261e084b45400] SIP code (see paragraph 92 of Schedule 2 to the Income Tax (Earnings and Pensions) Act 2003); and
 - “ **relevant shares** ” means—
   - (i) shares that are held by the trustees of the employee share ownership trust at midnight on 20th March 2000, and
   - (ii) shares purchased by those trustees with original funds after that time.
@@ -77,9 +77,9 @@ For this purpose “ **holding** ” means any number of shares of the same clas
 (4ZA)[^c13112321] For the purposes of subsection (1)(b) above a transfer of securities is also made on qualifying terms if—
 
 - (a) it is made to a person exercising a right to acquire shares, and
-- (b) that right was obtained in accordance with the provisions of an[^key-8d437ea3a7baf813bae1188896d1e9da] SAYE option scheme within the meaning of the SAYE code (see section 516(4) of the Income Tax (Earnings and Pensions) Act 2003)—
+- (b) that right was obtained in accordance with the provisions of an[^c-8d437ea3a7baf813bae1188896d1e9da] SAYE option scheme within the meaning of the SAYE code (see section 516(4) of the Income Tax (Earnings and Pensions) Act 2003)—
   - (i) which was established by, or by a company controlled by, the company which established the trust, and
-  - (ii) which is approved under Schedule 3 to that Act[^key-c8cae596b3854a6531fca9c94c8d9179], and
+  - (ii) which is approved under Schedule 3 to that Act[^c-c8cae596b3854a6531fca9c94c8d9179], and
 - (c) that right is being exercised in accordance with the provisions of that scheme, and
 - (d) the consideration for the transfer is payable to the trustees.
 
@@ -131,7 +131,7 @@ and for this purpose a trust is established when the deed under which it is esta
 
 ## Annotations
 
-[^key-b817d39a38e94a36a8ed19da6bce688a]: Modification: S. 69 modified (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/142/2)
+[^c-b817d39a38e94a36a8ed19da6bce688a]: Modification: S. 69 modified (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/142/2)
 
 [^c13112231]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*.roll-over relief for disposal of assets to employeeshare ownership trusts*
 
@@ -143,11 +143,11 @@ and for this purpose a trust is established when the deed under which it is esta
 
 [^c13112271]: Textual amendment: S. 69(3AA)-(3AD) inserted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 55(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/55/3)
 
-[^key-c69fe28dbf85cac7840903ef07a27420]: Textual amendment: Words in s. 69(3AA)(a) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/2/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-c69fe28dbf85cac7840903ef07a27420]: Textual amendment: Words in s. 69(3AA)(a) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/2/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-6231c42e51c55af0008ca2b53d6f8e11]: Textual amendment: Words in s. 69(3AA)(b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/2/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-6231c42e51c55af0008ca2b53d6f8e11]: Textual amendment: Words in s. 69(3AA)(b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/2/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-1168ebd6c672ea179cd261e084b45400]: Textual amendment: Words in s. 69(3AC) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-1168ebd6c672ea179cd261e084b45400]: Textual amendment: Words in s. 69(3AC) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(3)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/3) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13112281]: Textual amendment: S. 69(3A) inserted (16.7.1992, the amending provision applying in relation to exchanges made on or after 1.1.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 36(1)(2)](https://www.legislation.gov.uk/ukpga/1992/48/section/36/1/2)
 
@@ -159,9 +159,9 @@ and for this purpose a trust is established when the deed under which it is esta
 
 [^c13112321]: Textual amendment: S. 69(4ZA) inserted (29.4.1996 with effect as mentioned in [s. 120(12)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/12) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 120(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/4)
 
-[^key-8d437ea3a7baf813bae1188896d1e9da]: Textual amendment: Words in s. 69(4ZA)(b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(4)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/4/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-8d437ea3a7baf813bae1188896d1e9da]: Textual amendment: Words in s. 69(4ZA)(b) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(4)(a)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/4/a) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-c8cae596b3854a6531fca9c94c8d9179]: Textual amendment: Words in s. 69(4ZA)(b)(ii) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(4)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/4/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-c8cae596b3854a6531fca9c94c8d9179]: Textual amendment: Words in s. 69(4ZA)(b)(ii) substituted (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 6 para. 160(4)(b)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6/paragraph/160/4/b) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c13112331]: Textual amendment: S. 69(4A) inserted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 102](https://www.legislation.gov.uk/ukpga/1994/9/section/102), [Sch. 13 para. 6(3)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/13/paragraph/6/3)
 

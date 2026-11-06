@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Refund of fees[^key-970597cd08c2f71ebc17c7546afe2977]
+## 49. Refund of fees[^c-970597cd08c2f71ebc17c7546afe2977]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the fee shall be regarded as if it had been paid to the general medical services
 
 ## Annotations
 
-[^key-970597cd08c2f71ebc17c7546afe2977]: Commencement: Art. 49 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-970597cd08c2f71ebc17c7546afe2977]: Commencement: Art. 49 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

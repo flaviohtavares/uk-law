@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE C2 (affected by repeal, see note) — Appropriate percentages: calculation of payments of Schedule C4 (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+## SCHEDULE C2 (affected by repeal, see note) — Appropriate percentages: calculation of payments of Schedule C4 (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 *Extent: N.I.*
 
-Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-### Part I (affected by repeal, see note) — Payments Under Regulation C11 (affected by repeal, see note)[^M_I_ad658b36-fcae-4e3e-94d9-babd7fc36beb][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+### Part I (affected by repeal, see note) — Payments Under Regulation C11 (affected by repeal, see note)[^M_I_ad658b36-fcae-4e3e-94d9-babd7fc36beb][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table A (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table A (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Males (affected by repeal, see note) — Members to whom regulation D2(2) does not apply (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Males (affected by repeal, see note) — Members to whom regulation D2(2) does not apply (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -76,11 +76,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table B (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table B (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Females (affected by repeal, see note) — Members to whom regulation D2(2) does not apply (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Females (affected by repeal, see note) — Members to whom regulation D2(2) does not apply (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -130,11 +130,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table C (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table C (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Males (affected by repeal, see note) — Members to whom regulation D2(2) applies (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Males (affected by repeal, see note) — Members to whom regulation D2(2) applies (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -164,11 +164,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table D (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table D (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Females (affected by repeal, see note) — Members to whom regulation D2(2) applies (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Females (affected by repeal, see note) — Members to whom regulation D2(2) applies (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -198,13 +198,13 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-### Part II (affected by repeal, see note) — Lump sum cost of each added year which cannot be bought by annual contributions because of the 15 per cent. limits (affected by repeal, see note)[^M_I_4d887072-3ec2-4273-bbd6-c45646668e82][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+### Part II (affected by repeal, see note) — Lump sum cost of each added year which cannot be bought by annual contributions because of the 15 per cent. limits (affected by repeal, see note)[^M_I_4d887072-3ec2-4273-bbd6-c45646668e82][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table E (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table E (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Males (affected by repeal, see note) — Class B and Class C members to whom regulation D2(2) does not apply (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Males (affected by repeal, see note) — Class B and Class C members to whom regulation D2(2) does not apply (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -240,11 +240,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table F (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table F (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Females (affected by repeal, see note) — Class B and C members to whom regulation D2(2) does not apply (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Females (affected by repeal, see note) — Class B and C members to whom regulation D2(2) does not apply (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -280,11 +280,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table G (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table G (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Males (affected by repeal, see note) — Class B and Class C members to whom regulation D2(2) applies (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Males (affected by repeal, see note) — Class B and Class C members to whom regulation D2(2) applies (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -314,11 +314,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table H (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table H (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111]
 
-##### Females (affected by repeal, see note) — Class B and Class C members to whom regulation D2(2) applies (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+##### Females (affected by repeal, see note) — Class B and Class C members to whom regulation D2(2) applies (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -348,11 +348,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-### Part III (affected by repeal, see note) — Payments under Regulation C15 (affected by repeal, see note)[^M_I_f6e43125-da7a-460a-820d-61a6e1c79b39][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+### Part III (affected by repeal, see note) — Payments under Regulation C15 (affected by repeal, see note)[^M_I_f6e43125-da7a-460a-820d-61a6e1c79b39][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table J (affected by repeal, see note) — Males (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table J (affected by repeal, see note) — Males (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -403,9 +403,9 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
-#### Table K (affected by repeal, see note) — Females (affected by repeal, see note)[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+#### Table K (affected by repeal, see note) — Females (affected by repeal, see note)[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 <table>
 <thead>
@@ -460,11 +460,11 @@ Regulations C11(2), C15(2) and paragraph 4 additional *(affected by repeal, see 
 </tbody>
 </table>
 
-[^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+[^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 ## Annotations
 
-[^key-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
+[^c-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
 
 [^M_I_ad658b36-fcae-4e3e-94d9-babd7fc36beb]: Commencement: Sch. C2 Pt. I in operation at 1.8.2000, see [reg. A1(1)](https://www.legislation.gov.uk/nisr/2000/177/regulation/A1/1)
 

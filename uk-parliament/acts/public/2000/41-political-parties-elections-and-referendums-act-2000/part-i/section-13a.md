@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Reimbursement of costs by Scottish Ministers etc.[^key-ddf7e035737d2ce527547cce16a35eac]
+## 13A. Reimbursement of costs by Scottish Ministers etc.[^c-ddf7e035737d2ce527547cce16a35eac]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddf7e035737d2ce527547cce16a35eac]: Textual amendment: S. 13A repealed (S.) (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 16](https://www.legislation.gov.uk/asp/2020/12/section/16), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-ddf7e035737d2ce527547cce16a35eac]: Textual amendment: S. 13A repealed (S.) (1.10.2020) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 16](https://www.legislation.gov.uk/asp/2020/12/section/16), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)

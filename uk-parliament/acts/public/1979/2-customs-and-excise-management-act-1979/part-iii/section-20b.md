@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20B. Approval of aerodromes[^key-ec0401c5ff731e550a7d4be93e288e15]
+## 20B. Approval of aerodromes[^c-ec0401c5ff731e550a7d4be93e288e15]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec0401c5ff731e550a7d4be93e288e15]: Textual amendment: [S. 20B](https://www.legislation.gov.uk/ukpga/1979/2/section/20B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 339(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/339/2)
+[^c-ec0401c5ff731e550a7d4be93e288e15]: Textual amendment: [S. 20B](https://www.legislation.gov.uk/ukpga/1979/2/section/20B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 339(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/339/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to maintain authorised project[^key-389d8816acb7e33768b69e39aff64604]
+## 4. Power to maintain authorised project[^c-389d8816acb7e33768b69e39aff64604]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may at any time maintain the authorised project, except to the ex
 
 ## Annotations
 
-[^key-389d8816acb7e33768b69e39aff64604]: Commencement: Art. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-389d8816acb7e33768b69e39aff64604]: Commencement: Art. 4 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

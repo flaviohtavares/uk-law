@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Responsible medical officer’s duty to revoke order: mandatory reviews[^key-82f55101a4939107c4f0cad4c582811f]
+## 79. Responsible medical officer’s duty to revoke order: mandatory reviews[^c-82f55101a4939107c4f0cad4c582811f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ the responsible medical officer shall make a determination revoking the compulso
 
 ## Annotations
 
-[^key-82f55101a4939107c4f0cad4c582811f]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2003/13/section/79) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-82f55101a4939107c4f0cad4c582811f]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2003/13/section/79) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

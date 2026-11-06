@@ -229,7 +229,7 @@ and for the words “adjustments in assessments or determinations" there shall b
 
 (2) A security issued by the Inter-American Development Bank[^c7223041] shall be taken for the purposes of capital transfer tax [^c7223051]. . . to be situated outside the United Kingdom.
 
-(3) No stamp duty shall be chargeable under Schedule 15 to the Finance Act 1999 (bearer instruments)[^c22515601] [^key-522a3388a128898e8ef3732e7298a15d]... on the transfer of the stock constituted by, or transferable by means of, any instrument issued by the Bank.
+(3) No stamp duty shall be chargeable under Schedule 15 to the Finance Act 1999 (bearer instruments)[^c22515601] [^c-522a3388a128898e8ef3732e7298a15d]... on the transfer of the stock constituted by, or transferable by means of, any instrument issued by the Bank.
 
 ### 132. Citation, interpretation, construction and repeals.
 
@@ -468,7 +468,7 @@ Section 72.
 
 #### Finance Act 1974
 
-**5.**[^key-05d2bae2160f22e9a10bb595057618da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-05d2bae2160f22e9a10bb595057618da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Savings
 
@@ -766,7 +766,7 @@ The repeals in Schedule 8 to the Finance Act 1975 have effect in relation to cha
 
 [^c22515601]: Textual amendment: Words in [s. 131(3)](https://www.legislation.gov.uk/ukpga/1976/40/section/131/3) substituted (with application in accordance with [s. 113(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/113/4) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16) s. 113(3) {Sch. 16 para. 3}
 
-[^key-522a3388a128898e8ef3732e7298a15d]: Textual amendment: Words in [s. 131(3)](https://www.legislation.gov.uk/ukpga/1976/40/section/131/3) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/20)
+[^c-522a3388a128898e8ef3732e7298a15d]: Textual amendment: Words in [s. 131(3)](https://www.legislation.gov.uk/ukpga/1976/40/section/131/3) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/20)
 
 [^c7223071]: Textual amendment: [S. 132(3)](https://www.legislation.gov.uk/ukpga/1976/40/section/132/3)(*a*) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 177(3)](https://www.legislation.gov.uk/ukpga/1979/2/section/177/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1979/2/schedule/6/part/I)
 
@@ -806,7 +806,7 @@ The repeals in Schedule 8 to the Finance Act 1975 have effect in relation to cha
 
 [^c7223251]: Textual amendment: [Schs. 4](https://www.legislation.gov.uk/ukpga/1976/40/schedule/4), [7](https://www.legislation.gov.uk/ukpga/1976/40/schedule/7), [8](https://www.legislation.gov.uk/ukpga/1976/40/schedule/8) and 9 paras. 3, 4, 8, 9, 12–16 repealed by [Income and Corporation Taxes Act 1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31) (see 1987 edition for these provisions)
 
-[^key-05d2bae2160f22e9a10bb595057618da]: Textual amendment: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/1976/40/schedule/9/paragraph/5) repealed (with effect in accordance with s. 381(1) of the commencing Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-05d2bae2160f22e9a10bb595057618da]: Textual amendment: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/1976/40/schedule/9/paragraph/5) repealed (with effect in accordance with s. 381(1) of the commencing Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c7223271]: Textual amendment: [Schs. 4](https://www.legislation.gov.uk/ukpga/1976/40/schedule/4), [7](https://www.legislation.gov.uk/ukpga/1976/40/schedule/7), [8](https://www.legislation.gov.uk/ukpga/1976/40/schedule/8) and 9 paras. 3, 4, 8, 9, 12–16 repealed by [Income and Corporation Taxes Act 1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31) (see 1987 edition for these provisions)
 

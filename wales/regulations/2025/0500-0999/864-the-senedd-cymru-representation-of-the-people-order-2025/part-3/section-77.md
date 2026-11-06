@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Payments for exhibition of election notices[^key-a9bb7f3f13ee2301d99c71701cc0c321]
+## 77. Payments for exhibition of election notices[^c-a9bb7f3f13ee2301d99c71701cc0c321]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ is guilty of an illegal practice.
 
 ## Annotations
 
-[^key-a9bb7f3f13ee2301d99c71701cc0c321]: Commencement: Art. 77 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a9bb7f3f13ee2301d99c71701cc0c321]: Commencement: Art. 77 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Pilot in command – responsibility for journey log[^key-a2c0bca7b50ba95fcaf45144ba9b73dc]
+## 52A. Pilot in command – responsibility for journey log[^c-a2c0bca7b50ba95fcaf45144ba9b73dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the pilot in command may complete the log as required by paragraph (3) at the en
 
 ## Annotations
 
-[^key-a2c0bca7b50ba95fcaf45144ba9b73dc]: Textual amendment: [Art. 52A](https://www.legislation.gov.uk/uksi/2015/870/article/52A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [8](https://www.legislation.gov.uk/uksi/2016/155/article/8)
+[^c-a2c0bca7b50ba95fcaf45144ba9b73dc]: Textual amendment: [Art. 52A](https://www.legislation.gov.uk/uksi/2015/870/article/52A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [8](https://www.legislation.gov.uk/uksi/2016/155/article/8)

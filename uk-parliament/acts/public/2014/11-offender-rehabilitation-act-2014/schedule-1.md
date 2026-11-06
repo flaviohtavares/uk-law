@@ -22,15 +22,15 @@ summary: ''
 
 Section 2
 
-### PART 1 — General[^key-fcfa9b2587a80eee14033b725109772a]
+### PART 1 — General[^c-fcfa9b2587a80eee14033b725109772a]
 
 **No longer in force.**
 
-**1.**[^key-fcfa9b2587a80eee14033b725109772a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fcfa9b2587a80eee14033b725109772a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Drugs
 
-**2.**[^key-0c727692dc5fac2124fb3dd294941438] In Chapter 6 of Part 12 of the Criminal Justice Act 2003 (sentencing: release, licences and recall), after section 256C insert—
+**2.**[^c-0c727692dc5fac2124fb3dd294941438] In Chapter 6 of Part 12 of the Criminal Justice Act 2003 (sentencing: release, licences and recall), after section 256C insert—
 
 > **256D. Drug testing requirements**
 >
@@ -86,6 +86,6 @@ Section 2
 
 ## Annotations
 
-[^key-fcfa9b2587a80eee14033b725109772a]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2014/11/schedule/1/part/1) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 12(5)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12/5) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-fcfa9b2587a80eee14033b725109772a]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2014/11/schedule/1/part/1) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 12(5)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12/5) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
 
-[^key-0c727692dc5fac2124fb3dd294941438]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/1/paragraph/2) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/40/article/2/r)
+[^c-0c727692dc5fac2124fb3dd294941438]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/1/paragraph/2) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(r)](https://www.legislation.gov.uk/uksi/2015/40/article/2/r)

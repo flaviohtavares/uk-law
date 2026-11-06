@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255B. Exception to Article 25 of Commission Regulation 2016/161: health care institutions[^key-09078faa41c281e9ae1e5b41492e45a6]
+## 255B. Exception to Article 25 of Commission Regulation 2016/161: health care institutions[^c-09078faa41c281e9ae1e5b41492e45a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09078faa41c281e9ae1e5b41492e45a6]: Textual amendment: [Reg. 255B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255B) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [109(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/109/b)
+[^c-09078faa41c281e9ae1e5b41492e45a6]: Textual amendment: [Reg. 255B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255B) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [109(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/109/b)

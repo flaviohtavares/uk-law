@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Disapplication of legislative provisions[^key-6f476f18c185dd8239f9de465414e9f7]
+## 30. Disapplication of legislative provisions[^c-6f476f18c185dd8239f9de465414e9f7]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ The following provisions do not apply in relation to the construction of works c
 
 ## Annotations
 
-[^key-6f476f18c185dd8239f9de465414e9f7]: Commencement: Art. 30 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-6f476f18c185dd8239f9de465414e9f7]: Commencement: Art. 30 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
 [^f00020]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57).
 

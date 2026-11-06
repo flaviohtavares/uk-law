@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Meaning of “alcoholic product”[^M_I_1434c11f-00b8-4023-e5d8-d630ddaa9020][^key-d5054d5e0e81230776fbda4e8e0e6a3b]
+## 44. Meaning of “alcoholic product”[^M_I_1434c11f-00b8-4023-e5d8-d630ddaa9020][^c-d5054d5e0e81230776fbda4e8e0e6a3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_I_1434c11f-00b8-4023-e5d8-d630ddaa9020]: Commencement: S. 44 not in force at Royal Assent, see s. 120(2)
 
-[^key-d5054d5e0e81230776fbda4e8e0e6a3b]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/30/section/44) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-d5054d5e0e81230776fbda4e8e0e6a3b]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/30/section/44) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

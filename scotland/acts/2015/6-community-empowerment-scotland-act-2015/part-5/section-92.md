@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Disapplication of restrictions in lease of land to relevant authority[^key-02d4be88baf75c8853618f6a77bc25f8]
+## 92. Disapplication of restrictions in lease of land to relevant authority[^c-02d4be88baf75c8853618f6a77bc25f8]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02d4be88baf75c8853618f6a77bc25f8]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2015/6/section/92) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-02d4be88baf75c8853618f6a77bc25f8]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2015/6/section/92) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

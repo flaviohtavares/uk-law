@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Disregard of certain interests and improvements[^key-9b2afb27ae1265bc5b92ef7fcec055c0]
+## 35. Disregard of certain interests and improvements[^c-9b2afb27ae1265bc5b92ef7fcec055c0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-9b2afb27ae1265bc5b92ef7fcec055c0]: Commencement: Art. 35 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-9b2afb27ae1265bc5b92ef7fcec055c0]: Commencement: Art. 35 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. No apparatus in the tunnel area without consent[^key-c934083a6058cf3ef57c2878e163137e]
+## 47. No apparatus in the tunnel area without consent[^c-c934083a6058cf3ef57c2878e163137e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regardless of anything contained in any enactment, no person is to enter upon, b
 
 ## Annotations
 
-[^key-c934083a6058cf3ef57c2878e163137e]: Commencement: Art. 47 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c934083a6058cf3ef57c2878e163137e]: Commencement: Art. 47 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

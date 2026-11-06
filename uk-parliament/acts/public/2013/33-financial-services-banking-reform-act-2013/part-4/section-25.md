@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Duty to notify regulator of grounds for withdrawal of approval[^key-15f09b5af0210141bceff650c61149db]
+## 25. Duty to notify regulator of grounds for withdrawal of approval[^c-15f09b5af0210141bceff650c61149db]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 63 of FSMA 2000 (withdrawal of approval), after subsection (2) insert
 
 ## Annotations
 
-[^key-15f09b5af0210141bceff650c61149db]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2013/33/section/25) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-15f09b5af0210141bceff650c61149db]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2013/33/section/25) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Double signing[^key-cc82c2a4a66e4634ea13dbab18354d4b]
+## 12. Double signing[^c-cc82c2a4a66e4634ea13dbab18354d4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc82c2a4a66e4634ea13dbab18354d4b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2015/25/section/12) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-cc82c2a4a66e4634ea13dbab18354d4b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2015/25/section/12) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20AC. Determination by Commissioners of composition of substance[^key-2a0f058aa6d96e0b7024bc3207a4dde2]
+## 20AC. Determination by Commissioners of composition of substance[^c-2a0f058aa6d96e0b7024bc3207a4dde2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a0f058aa6d96e0b7024bc3207a4dde2]: Textual amendment: S. 20AC inserted (19.3.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 18](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/18), [26](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26)
+[^c-2a0f058aa6d96e0b7024bc3207a4dde2]: Textual amendment: S. 20AC inserted (19.3.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 18](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/18), [26](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26)

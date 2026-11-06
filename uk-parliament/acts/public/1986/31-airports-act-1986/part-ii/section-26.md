@@ -30,10 +30,10 @@ summary: ''
 
 (2) This section applies to any provision relating to any securities of a public airport company and contained in—
 
-- (a) the articles of association[^key-0f41f53d055c7616fb9e2013d70a63de] of the company or any other instrument purporting to regulate to any extent the respective rights and liabilities of the members of the company,
+- (a) the articles of association[^c-0f41f53d055c7616fb9e2013d70a63de] of the company or any other instrument purporting to regulate to any extent the respective rights and liabilities of the members of the company,
 - (b) any resolution of the company, or
 - (c) any instrument issued by the company and embodying terms and conditions on which any such securities are to be held by persons for the time being holding them.
 
 ## Annotations
 
-[^key-0f41f53d055c7616fb9e2013d70a63de]: Textual amendment: Words in [s. 26(2)(a)](https://www.legislation.gov.uk/ukpga/1986/31/section/26/2/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 68(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/68/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0f41f53d055c7616fb9e2013d70a63de]: Textual amendment: Words in [s. 26(2)(a)](https://www.legislation.gov.uk/ukpga/1986/31/section/26/2/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 68(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/68/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

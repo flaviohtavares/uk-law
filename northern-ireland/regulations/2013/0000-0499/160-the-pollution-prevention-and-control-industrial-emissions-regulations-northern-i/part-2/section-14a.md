@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Conditions of permits: Materials facilities[^key-5a260d6ab8d60a86d9977be4a011e716]
+## 14A. Conditions of permits: Materials facilities[^c-5a260d6ab8d60a86d9977be4a011e716]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The enforcing authority shall ensure that a permit granted or varied on or after
 
 ## Annotations
 
-[^key-5a260d6ab8d60a86d9977be4a011e716]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2013/160/regulation/14A) inserted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/18/regulation/3/4)
+[^c-5a260d6ab8d60a86d9977be4a011e716]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2013/160/regulation/14A) inserted (1.4.2025) by [The Waste (Materials Facilities) Regulations (Northern Ireland) 2025 (S.R. 2025/18)](https://www.legislation.gov.uk/nisr/2025/18), [regs. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2025/18/regulation/3/4)

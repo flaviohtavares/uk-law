@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Responsibilities of the accountable manager[^key-2b6a4ca79beca562f1ce6cb960ca8c9f]
+## 87. Responsibilities of the accountable manager[^c-2b6a4ca79beca562f1ce6cb960ca8c9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6a4ca79beca562f1ce6cb960ca8c9f]: Commencement: Reg. 87 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-2b6a4ca79beca562f1ce6cb960ca8c9f]: Commencement: Reg. 87 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Power of court to cure defects in procedure[^key-8a2974b37f2d4e26310257bc458eca59]
+## 122. Power of court to cure defects in procedure[^c-8a2974b37f2d4e26310257bc458eca59]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.32 of the 1986 Rules.
 
 ## Annotations
 
-[^key-8a2974b37f2d4e26310257bc458eca59]: Commencement: Rule 122 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-8a2974b37f2d4e26310257bc458eca59]: Commencement: Rule 122 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

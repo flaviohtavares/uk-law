@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Manner and content of notifications (affected by repeal, see note)[^key-399b199dab6c889dc1487936a3b4dd9b][^key-399b199dab6c889dc1487936a3b4dd9b]
+## 60. Manner and content of notifications (affected by repeal, see note)[^c-399b199dab6c889dc1487936a3b4dd9b][^c-399b199dab6c889dc1487936a3b4dd9b]
 
 *Extent: E+W+S+N.I.*
 
-A notification under regulation 57, 58 or 59 must— *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+A notification under regulation 57, 58 or 59 must— *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
-- (a) be made in such manner as the FCA may direct; and *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
-- (b) contain or be accompanied by such information as the FCA may direct. *(affected by repeal, see note)*[^key-399b199dab6c889dc1487936a3b4dd9b]
+- (a) be made in such manner as the FCA may direct; and *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
+- (b) contain or be accompanied by such information as the FCA may direct. *(affected by repeal, see note)*[^c-399b199dab6c889dc1487936a3b4dd9b]
 
 ## Annotations
 
-[^key-399b199dab6c889dc1487936a3b4dd9b]: Textual amendment: Regulations revoked (14.12.2023 for the revocation of reg. 79) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/vi)
+[^c-399b199dab6c889dc1487936a3b4dd9b]: Textual amendment: Regulations revoked (14.12.2023 for the revocation of reg. 79) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/vi)

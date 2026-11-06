@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Reconsideration by the board[^key-1800ee2411295451871332abe09978d1]
+## 159. Reconsideration by the board[^c-1800ee2411295451871332abe09978d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1800ee2411295451871332abe09978d1]: Commencement: [Reg. 159](https://www.legislation.gov.uk/uksi/2014/2848/regulation/159) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-1800ee2411295451871332abe09978d1]: Commencement: [Reg. 159](https://www.legislation.gov.uk/uksi/2014/2848/regulation/159) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

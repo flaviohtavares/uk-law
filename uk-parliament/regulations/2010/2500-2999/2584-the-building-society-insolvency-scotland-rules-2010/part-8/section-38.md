@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Procedure on building society liquidator’s removal[^key-ec15a3315ac4a4b84219aa9930bd3fb1]
+## 38. Procedure on building society liquidator’s removal[^c-ec15a3315ac4a4b84219aa9930bd3fb1]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ec15a3315ac4a4b84219aa9930bd3fb1]: Commencement: Rule 38 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-ec15a3315ac4a4b84219aa9930bd3fb1]: Commencement: Rule 38 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00023]: Footnote: Rule 4.24 was amended by paragraph 19 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), and paragraph 141(9) of Schedule 2(II) to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).
 

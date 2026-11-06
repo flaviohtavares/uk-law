@@ -174,7 +174,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 > (8) This section does not apply in relation to a person to whom section 1AB applies.
 
-(5)[^key-55cbf93d12f85bf7b8ffff13f9963e78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-55cbf93d12f85bf7b8ffff13f9963e78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 7 (children detained in solemn proceedings)—
 
@@ -183,7 +183,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
   > (8) This section (other than subsection (5)) does not apply in relation to a person to whom section 1AB applies.
 
-(7)[^key-b58e67d348f94fc5e7e4ab8962a3ac59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b58e67d348f94fc5e7e4ab8962a3ac59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Licence conditions
 
@@ -257,11 +257,11 @@ In section 250 of the Criminal Justice Act 2003 (licence conditions) after subse
 
 *Extent: E+W*
 
-(1)[^key-3f301c7c6f2eba633f415d4e88b53c3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3f301c7c6f2eba633f415d4e88b53c3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Criminal Justice Act 2003 is amended in accordance with subsections (3) to (8).
 
-(3)[^key-b06e39f235cef9af8fb2ac2630ee34b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b06e39f235cef9af8fb2ac2630ee34b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 256B (supervision after release of certain young offenders serving less than 12 months) after subsection (1A) insert—
 
@@ -754,10 +754,10 @@ This is the Schedule to be inserted as Schedule 1A to the Prisoners and Criminal
 
 ## Annotations
 
-[^key-55cbf93d12f85bf7b8ffff13f9963e78]: Textual amendment: [S. 4(5)](https://www.legislation.gov.uk/ukpga/2020/3/section/4/5) omitted (30.4.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 60](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/60)
+[^c-55cbf93d12f85bf7b8ffff13f9963e78]: Textual amendment: [S. 4(5)](https://www.legislation.gov.uk/ukpga/2020/3/section/4/5) omitted (30.4.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 60](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/60)
 
-[^key-b58e67d348f94fc5e7e4ab8962a3ac59]: Textual amendment: [S. 4(7)](https://www.legislation.gov.uk/ukpga/2020/3/section/4/7) omitted (30.4.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 60](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/60)
+[^c-b58e67d348f94fc5e7e4ab8962a3ac59]: Textual amendment: [S. 4(7)](https://www.legislation.gov.uk/ukpga/2020/3/section/4/7) omitted (30.4.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 60](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/60)
 
-[^key-3f301c7c6f2eba633f415d4e88b53c3e]: Textual amendment: S. 7(1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3f301c7c6f2eba633f415d4e88b53c3e]: Textual amendment: S. 7(1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b06e39f235cef9af8fb2ac2630ee34b9]: Textual amendment: S. 7(3) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/15) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-b06e39f235cef9af8fb2ac2630ee34b9]: Textual amendment: S. 7(3) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/15) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 309. Applications for planning permission by statutory undertakers[^key-08faf4e9933d434c3651390942a8cac4]
+## 309. Applications for planning permission by statutory undertakers[^c-08faf4e9933d434c3651390942a8cac4]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08faf4e9933d434c3651390942a8cac4]: Commencement: S. 309 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-08faf4e9933d434c3651390942a8cac4]: Commencement: S. 309 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

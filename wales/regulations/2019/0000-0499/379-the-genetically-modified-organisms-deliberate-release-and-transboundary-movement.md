@@ -59,7 +59,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-f2089d8aa6e05d69ce0d068700281448]
+### 1. Title, commencement and application[^c-f2089d8aa6e05d69ce0d068700281448]
 
 (1) The title of these Regulations is the Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
@@ -71,7 +71,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendments to out of date references
 
-### 2. Amendments to the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^key-8ce09e225305226ad12bbaef7ab2a92c]
+### 2. Amendments to the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^c-8ce09e225305226ad12bbaef7ab2a92c]
 
 (1) The Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002 [^c23603581] are amended as follows.
 
@@ -81,15 +81,15 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (4) In Schedule 3, paragraph 1 for the words “and any specific identification” substitute “ the unique identifier assigned in accordance with Regulation 65/2004, and any other ”.
 
-## PART 3 — Amendments to subordinate legislation relating to withdrawal from the European Union[^key-a446549c7cc98f9c530ec56822e3651b]
+## PART 3 — Amendments to subordinate legislation relating to withdrawal from the European Union[^c-a446549c7cc98f9c530ec56822e3651b]
 
 **No longer in force.**
 
-### 3. Amendments to the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^key-a446549c7cc98f9c530ec56822e3651b]
+### 3. Amendments to the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002[^c-a446549c7cc98f9c530ec56822e3651b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Genetically Modified Organisms (Transboundary Movements) (Wales) Regulations 2005[^key-a446549c7cc98f9c530ec56822e3651b]
+### 4. The Genetically Modified Organisms (Transboundary Movements) (Wales) Regulations 2005[^c-a446549c7cc98f9c530ec56822e3651b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,10 +117,10 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23603571]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-f2089d8aa6e05d69ce0d068700281448]: Commencement: Reg. 1 in force at 20.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2)
+[^c-f2089d8aa6e05d69ce0d068700281448]: Commencement: Reg. 1 in force at 20.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2)
 
-[^key-8ce09e225305226ad12bbaef7ab2a92c]: Commencement: Reg. 2 in force at 20.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2)
+[^c-8ce09e225305226ad12bbaef7ab2a92c]: Commencement: Reg. 2 in force at 20.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/379/regulation/1/2)
 
 [^c23603581]: Marginal citation: [S.I. 2002/3188](https://www.legislation.gov.uk/uksi/2002/3188) (W.304), amended by [S.I. 2005/1913](https://www.legislation.gov.uk/uksi/2005/1913) (W.156), 2011/1043, 2013/755 (W.90), 2018/1216 (W.249).
 
-[^key-a446549c7cc98f9c530ec56822e3651b]: Textual amendment: Pt. 3 revoked (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/uksi/2019/1492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1492/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/1492/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a446549c7cc98f9c530ec56822e3651b]: Textual amendment: Pt. 3 revoked (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms (Deliberate Release and Transboundary Movement) (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1492)](https://www.legislation.gov.uk/uksi/2019/1492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1492/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/1492/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

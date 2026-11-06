@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-bfc11ba0b86048c1223605a78ae3d365] The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as set out in subsections (2) to (5).
+(1)[^c-bfc11ba0b86048c1223605a78ae3d365] The Police and Criminal Evidence (Northern Ireland) Order 1989 is amended as set out in subsections (2) to (5).
 
-(2)[^key-bfc11ba0b86048c1223605a78ae3d365] In Article 62 (intimate samples) for paragraph (9) substitute—
+(2)[^c-bfc11ba0b86048c1223605a78ae3d365] In Article 62 (intimate samples) for paragraph (9) substitute—
 
 > (9) In the case of an intimate sample which is a dental impression, the sample may be taken from a person only by a registered dentist.
 >
@@ -31,7 +31,7 @@ summary: ''
 > - (a) a medical practitioner;
 > - (b) a registered health care professional.
 
-(3)[^key-bfc11ba0b86048c1223605a78ae3d365] In Article 53 (interpretation of Part VI) after the definition of “registered dentist” insert—
+(3)[^c-bfc11ba0b86048c1223605a78ae3d365] In Article 53 (interpretation of Part VI) after the definition of “registered dentist” insert—
 
 > “**registered health care professional**” means a person (other than a medical practitioner) who is one of the following—
 >
@@ -40,11 +40,11 @@ summary: ''
 
 .
 
-(4)[^key-bfc11ba0b86048c1223605a78ae3d365] In Article 53 at the beginning insert “ (1) ” and at the end insert—
+(4)[^c-bfc11ba0b86048c1223605a78ae3d365] In Article 53 at the beginning insert “ (1) ” and at the end insert—
 
 > (2) In paragraph (1) “**health care profession**” means any profession mentioned in section 60(2) of the Health Act 1999 other than the profession of practising medicine and the profession of nursing.
 
-(5)[^key-bfc11ba0b86048c1223605a78ae3d365] In Article 89 (orders and regulations) after “Articles” insert “ 53, ”
+(5)[^c-bfc11ba0b86048c1223605a78ae3d365] In Article 89 (orders and regulations) after “Articles” insert “ 53, ”
 
 (6) Subsections (1) to (5) come into force in accordance with provision made by the Secretary of State by order.
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c521964]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2003/6/section/42) partly in force; [s. 42(6)](https://www.legislation.gov.uk/ukpga/2003/6/section/42/6) in force at Royal Assent, see [s. 42(6)](https://www.legislation.gov.uk/ukpga/2003/6/section/42/6)
 
-[^key-bfc11ba0b86048c1223605a78ae3d365]: Commencement: [S. 42(1)-(5)](https://www.legislation.gov.uk/ukpga/2003/6/section/42/1) in force at 1.3.2007 by [S.R. 2007/177](https://www.legislation.gov.uk/nisr/2007/177), [art. 2](https://www.legislation.gov.uk/nisr/2007/177/article/2)
+[^c-bfc11ba0b86048c1223605a78ae3d365]: Commencement: [S. 42(1)-(5)](https://www.legislation.gov.uk/ukpga/2003/6/section/42/1) in force at 1.3.2007 by [S.R. 2007/177](https://www.legislation.gov.uk/nisr/2007/177), [art. 2](https://www.legislation.gov.uk/nisr/2007/177/article/2)

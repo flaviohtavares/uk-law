@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Only one valid adjacency agreement[^key-c7c1c2584c2e8e40eef43bc56830ebba]
+## 92. Only one valid adjacency agreement[^c-c7c1c2584c2e8e40eef43bc56830ebba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7c1c2584c2e8e40eef43bc56830ebba]: Commencement: Reg. 92 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c7c1c2584c2e8e40eef43bc56830ebba]: Commencement: Reg. 92 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

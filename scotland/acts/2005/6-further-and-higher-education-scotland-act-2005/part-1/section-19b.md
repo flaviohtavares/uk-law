@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19B. Reporting by the Council[^key-540d95a2309169f7a4c2c36fadafd3e8]
+## 19B. Reporting by the Council[^c-540d95a2309169f7a4c2c36fadafd3e8]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-540d95a2309169f7a4c2c36fadafd3e8]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/asp/2005/6/section/19B) inserted (1.10.2026 except for the insertion of s. 19B(1)(b)) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 20(2)](https://www.legislation.gov.uk/asp/2026/5/section/20/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-540d95a2309169f7a4c2c36fadafd3e8]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/asp/2005/6/section/19B) inserted (1.10.2026 except for the insertion of s. 19B(1)(b)) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 20(2)](https://www.legislation.gov.uk/asp/2026/5/section/20/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

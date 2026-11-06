@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 235. Service of court documents within the jurisdiction[^key-786497635d503027f01aba0c93d65d47]
+## 235. Service of court documents within the jurisdiction[^c-786497635d503027f01aba0c93d65d47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where different provision is made in the regulations or these rules, CPR 
 
 ## Annotations
 
-[^key-786497635d503027f01aba0c93d65d47]: Commencement: [Rule 235](https://www.legislation.gov.uk/uksi/2011/1301/rule/235) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-786497635d503027f01aba0c93d65d47]: Commencement: [Rule 235](https://www.legislation.gov.uk/uksi/2011/1301/rule/235) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

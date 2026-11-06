@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5D. OGA’s power to require information about change in control of licensee[^key-5798b76b42295ccc3caff873ec454d02]
+## 5D. OGA’s power to require information about change in control of licensee[^c-5798b76b42295ccc3caff873ec454d02]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5798b76b42295ccc3caff873ec454d02]: Textual amendment: [S. 5D](https://www.legislation.gov.uk/ukpga/1998/17/section/5D) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 301](https://www.legislation.gov.uk/ukpga/2023/52/section/301), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iv)
+[^c-5798b76b42295ccc3caff873ec454d02]: Textual amendment: [S. 5D](https://www.legislation.gov.uk/ukpga/1998/17/section/5D) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 301](https://www.legislation.gov.uk/ukpga/2023/52/section/301), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/iv)

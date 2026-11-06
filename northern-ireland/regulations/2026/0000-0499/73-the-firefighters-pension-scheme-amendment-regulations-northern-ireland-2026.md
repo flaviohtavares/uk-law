@@ -48,11 +48,11 @@ In accordance with section 22(2)(b) of the 2014 Act, the Department has laid a r
 
 In accordance with section 3(5) of the 2014 Act, the Department of Finance[^f00003] has consented to the making of these Regulations.
 
-## 1. Citation and commencement[^key-d12dbaebee06986e18805caed33e7577]
+## 1. Citation and commencement[^c-d12dbaebee06986e18805caed33e7577]
 
 These Regulations may be cited as the Firefighters’ Pension Scheme (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 1st May 2026.
 
-## 2. Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^key-c3c0fd02fd6ed008a42e94f96a0bb248]
+## 2. Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^c-c3c0fd02fd6ed008a42e94f96a0bb248]
 
 (1) The Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^f00004] shall be amended as follows.
 
@@ -135,8 +135,8 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-d12dbaebee06986e18805caed33e7577]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1)
+[^c-d12dbaebee06986e18805caed33e7577]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1)
 
-[^key-c3c0fd02fd6ed008a42e94f96a0bb248]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/73/regulation/2) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1)
+[^c-c3c0fd02fd6ed008a42e94f96a0bb248]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/73/regulation/2) in operation at 1.5.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/73/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 78](https://www.legislation.gov.uk/nisr/2015/78), amended by [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420), [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155), [S.R. 2024 No. 130](https://www.legislation.gov.uk/nisr/2024/130) and [S.R. 2024 No. 218](https://www.legislation.gov.uk/nisr/2024/218).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Benefit of the Order[^key-4b7deba0db8729c49618b0a9963c9201]
+## 5. Benefit of the Order[^c-4b7deba0db8729c49618b0a9963c9201]
 
 *Extent: E+W+S*
 
@@ -80,4 +80,4 @@ except where sub-paragraph (8) applies, in which case no consent of the Secretar
 
 ## Annotations
 
-[^key-4b7deba0db8729c49618b0a9963c9201]: Commencement: Art. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-4b7deba0db8729c49618b0a9963c9201]: Commencement: Art. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

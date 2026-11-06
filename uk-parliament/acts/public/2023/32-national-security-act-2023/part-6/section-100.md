@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Commencement[^key-0b874559d36d46596c48187bedea3b15]
+## 100. Commencement[^c-0b874559d36d46596c48187bedea3b15]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b874559d36d46596c48187bedea3b15]: Commencement: S. 100 in force at Royal Assent, see 100(2)
+[^c-0b874559d36d46596c48187bedea3b15]: Commencement: S. 100 in force at Royal Assent, see 100(2)

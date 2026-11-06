@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 885. Authorised persons dealing in financial instruments[^key-d2b360deedce7efbb763b1657563ad1b]
+## 885. Authorised persons dealing in financial instruments[^c-d2b360deedce7efbb763b1657563ad1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2b360deedce7efbb763b1657563ad1b]: Modification: S. 885 excluded (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/9/b)
+[^c-d2b360deedce7efbb763b1657563ad1b]: Modification: S. 885 excluded (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/9/b)

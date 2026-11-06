@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Abolition of the TDA: transfer schemes[^key-6a81a6ac1f30d6ab5b0efeb117c6f15d]
+## 17. Abolition of the TDA: transfer schemes[^c-6a81a6ac1f30d6ab5b0efeb117c6f15d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 (schemes for the transfer of staff, property, rights and liabilities 
 
 ## Annotations
 
-[^key-6a81a6ac1f30d6ab5b0efeb117c6f15d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/21/section/17) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-6a81a6ac1f30d6ab5b0efeb117c6f15d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/21/section/17) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

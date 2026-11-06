@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Exemption relating to businesses[^key-402da8663007602bcdb22f7caabe1b3d]
+## 4. Exemption relating to businesses[^c-402da8663007602bcdb22f7caabe1b3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-402da8663007602bcdb22f7caabe1b3d]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2006/14/section/4) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-402da8663007602bcdb22f7caabe1b3d]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2006/14/section/4) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)

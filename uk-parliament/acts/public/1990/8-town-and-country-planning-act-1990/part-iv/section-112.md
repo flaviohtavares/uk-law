@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Amount recoverable under s. 111 and provisions for payment or remission of it.[^key-92cfde06caae60ba9fcb0e89875ad96c]
+## 112. Amount recoverable under s. 111 and provisions for payment or remission of it.[^c-92cfde06caae60ba9fcb0e89875ad96c]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ any deduction to be made under [^c14021171]. . .subsection (12) shall be a deduc
 
 ## Annotations
 
-[^key-92cfde06caae60ba9fcb0e89875ad96c]: Modification: [S. 112](https://www.legislation.gov.uk/ukpga/1990/8/section/112) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/4), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/83) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-92cfde06caae60ba9fcb0e89875ad96c]: Modification: [S. 112](https://www.legislation.gov.uk/ukpga/1990/8/section/112) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/4), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/83) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c14021151]: Textual amendment: Word in s. 112(9) repealed (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 31](https://www.legislation.gov.uk/ukpga/1991/34/section/31), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 6 para. 16(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/6/paragraph/16/a), [Sch. 19](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19), [Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/part/II) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4))
 

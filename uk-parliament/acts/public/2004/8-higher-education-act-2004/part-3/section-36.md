@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Variation of plans[^key-c7e2a2d171dfb01614fe6b689ad5a2b0]
+## 36. Variation of plans[^c-c7e2a2d171dfb01614fe6b689ad5a2b0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e2a2d171dfb01614fe6b689ad5a2b0]: Textual amendment: [Ss. 22-41](https://www.legislation.gov.uk/ukpga/2004/8/section/22) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
+[^c-c7e2a2d171dfb01614fe6b689ad5a2b0]: Textual amendment: [Ss. 22-41](https://www.legislation.gov.uk/ukpga/2004/8/section/22) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)

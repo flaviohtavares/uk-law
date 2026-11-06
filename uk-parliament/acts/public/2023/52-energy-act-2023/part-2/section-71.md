@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Payments to relevant market participants[^key-02114f199070303c79019a5a4e8c3a4a]
+## 71. Payments to relevant market participants[^c-02114f199070303c79019a5a4e8c3a4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02114f199070303c79019a5a4e8c3a4a]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/52/section/71) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-02114f199070303c79019a5a4e8c3a4a]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/52/section/71) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

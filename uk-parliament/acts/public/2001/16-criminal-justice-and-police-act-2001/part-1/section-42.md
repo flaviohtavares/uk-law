@@ -24,9 +24,9 @@ summary: ''
 
 - (a) that person is present outside or in the vicinity of any premises that are used by any individual (“**the resident**”) as his dwelling;
 - (b) that constable believes, on reasonable grounds, that that person is present there for the purpose (by his presence or otherwise) of representing to the resident or another individual (whether or not one who uses the premises as his dwelling), or of persuading the resident or such another individual—
-  - (i) that he should not do something that he is entitled or required to do; [^key-d7cc00e67e22744a29c65e15c20f7a63]...
+  - (i) that he should not do something that he is entitled or required to do; [^c-d7cc00e67e22744a29c65e15c20f7a63]...
   - (ii) that he should do something that he is not under any obligation to do;
-  - (iii)[^key-bc98c312330eeee89aacf982503e18ab] that they should not have done something they were entitled or required to do; or
+  - (iii)[^c-bc98c312330eeee89aacf982503e18ab] that they should not have done something they were entitled or required to do; or
   - (iv) that they should have done something they were not under any obligation to do; and
 - (c) that constable also believes, on reasonable grounds, that the presence of that person (either alone or together with that of any other persons who are also present)—
   - (i) amounts to, or is likely to result in, the harassment of the resident; or
@@ -75,9 +75,9 @@ but it shall include power to vary or withdraw a direction previously given unde
 
 ## Annotations
 
-[^key-d7cc00e67e22744a29c65e15c20f7a63]: Textual amendment: Word in s. 42(1)(b)(i) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 169(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/169/2/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/s)
+[^c-d7cc00e67e22744a29c65e15c20f7a63]: Textual amendment: Word in s. 42(1)(b)(i) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 169(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/169/2/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/s)
 
-[^key-bc98c312330eeee89aacf982503e18ab]: Textual amendment: S. 42(1)(b)(iii)(iv) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 169(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/169/2/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/s)
+[^c-bc98c312330eeee89aacf982503e18ab]: Textual amendment: S. 42(1)(b)(iii)(iv) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 169(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/169/2/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/s)
 
 [^c19362371]: Textual amendment: S. 42(4) substituted (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/127/2), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m) (subject to [arts. 3(4)(5)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/4/5))
 

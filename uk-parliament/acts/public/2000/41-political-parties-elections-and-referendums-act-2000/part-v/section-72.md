@@ -47,7 +47,7 @@ summary: ''
 
 (7) “**Campaign expenditure**” does not include anything which (in accordance with any enactment) falls to be included in—
 
-- (a)[^key-cc426d60920ad60866e6efdfb4116105] a return as to election expenses in respect of a candidate or candidates at a particular election, or[^key-241a58543695c33e4e617e221dbf6eee]
+- (a)[^c-cc426d60920ad60866e6efdfb4116105] a return as to election expenses in respect of a candidate or candidates at a particular election, or[^c-241a58543695c33e4e617e221dbf6eee]
 - (b) a recall petition return within the meaning of Schedule 5 to the Recall of MPs Act 2015 (see paragraph 1 of that Schedule).
 
 (8) Where a registered party is a party with accounting units—
@@ -63,6 +63,6 @@ summary: ''
 
 [^c10574391]: Commencement: S. 72 wholly in force at 16.2.2001; s. 72 not in force at Royal Assent, see s. 163(2); s. 72 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-cc426d60920ad60866e6efdfb4116105]: Textual amendment: S. 72(7) renumbered as s. 72(7)(a) (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/5/2/a); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-cc426d60920ad60866e6efdfb4116105]: Textual amendment: S. 72(7) renumbered as s. 72(7)(a) (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/5/2/a); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-241a58543695c33e4e617e221dbf6eee]: Textual amendment: S. 72(7)(b) and word inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/5/2/b); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-241a58543695c33e4e617e221dbf6eee]: Textual amendment: S. 72(7)(b) and word inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/5/2/b); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

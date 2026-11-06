@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137A. Payments to persons affected by social sector size criteria in calculation of universal credit or housing benefit[^key-2e38bf5c6207ba36aa43e7aab14f7f65]
+## 137A. Payments to persons affected by social sector size criteria in calculation of universal credit or housing benefit[^c-2e38bf5c6207ba36aa43e7aab14f7f65]
 
 *Extent: N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 (2) A person qualifies under this paragraph if—
 
-- (a) the person is entitled to universal credit in respect of any time on or after the relevant date[^key-a3dd4a50d469c7dbe2bbe4cf35d30ddd] ;
+- (a) the person is entitled to universal credit in respect of any time on or after the relevant date[^c-a3dd4a50d469c7dbe2bbe4cf35d30ddd] ;
 - (b) the amount of the award of universal credit includes an amount under Article 16 (“the housing costs element”);
 - (c) the amount of the housing costs element falls to be calculated in accordance with Part 5 of Schedule 4 to the Universal Credit Regulations (renters in social rented sector); and
 - (d) in the calculation of the amount of the housing costs element a deduction is made under paragraph 35 of that Schedule (deduction if the number of bedrooms in the accommodation occupied by the renter exceeds the number of bedrooms to which the renter is entitled in accordance with the regulations).
 
 (3) A person qualifies under this paragraph if—
 
-- (a) the person is entitled to housing benefit in the form of a rent rebate or rent allowance in respect of any time on or after the relevant date[^key-5e9ac208e6a144f0f10d25294e47cf24] ;
+- (a) the person is entitled to housing benefit in the form of a rent rebate or rent allowance in respect of any time on or after the relevant date[^c-5e9ac208e6a144f0f10d25294e47cf24] ;
 - (b) the calculation of the amount of rent allowance or rent rebate to which the person is entitled involves making a determination in accordance with regulation B14 of the Housing Benefit Regulations (determination of maximum rent (social sector)); and
 - (c) in making that determination a reduction is made under paragraph (2)(b) of that regulation (reduction in eligible rent if the number of bedrooms in the dwelling occupied by the claimant exceeds the number of bedrooms to which the claimant is entitled in accordance with the regulations).
 
-(4)[^key-7d666ec75ca34b2fdd8520fe22e48ff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7d666ec75ca34b2fdd8520fe22e48ff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-7d7e306ea0d04d1a6bfafce70ba7f3f9] The relevant date is 2nd January 2017.
+(4A)[^c-7d7e306ea0d04d1a6bfafce70ba7f3f9] The relevant date is 2nd January 2017.
 
 (5) Regulations may make provision—
 
@@ -78,12 +78,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2e38bf5c6207ba36aa43e7aab14f7f65]: Textual amendment: Art. 137A inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [19(2)](https://www.legislation.gov.uk/nisi/2016/999/article/19/2)
+[^c-2e38bf5c6207ba36aa43e7aab14f7f65]: Textual amendment: Art. 137A inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [19(2)](https://www.legislation.gov.uk/nisi/2016/999/article/19/2)
 
-[^key-a3dd4a50d469c7dbe2bbe4cf35d30ddd]: Textual amendment: Words in [art. 137A(2)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/2/a) substituted (28.4.2022) by [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/a), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-a3dd4a50d469c7dbe2bbe4cf35d30ddd]: Textual amendment: Words in [art. 137A(2)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/2/a) substituted (28.4.2022) by [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/a), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
 
-[^key-5e9ac208e6a144f0f10d25294e47cf24]: Textual amendment: Words in [art. 137A(3)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/3/a) substituted (28.4.2022) by [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(b)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/b), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-5e9ac208e6a144f0f10d25294e47cf24]: Textual amendment: Words in [art. 137A(3)(a)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/3/a) substituted (28.4.2022) by [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(b)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/b), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
 
-[^key-7d666ec75ca34b2fdd8520fe22e48ff1]: Textual amendment: [Art. 137A(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/4) omitted (28.4.2022) by virtue of [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(c)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/c), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-7d666ec75ca34b2fdd8520fe22e48ff1]: Textual amendment: [Art. 137A(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/4) omitted (28.4.2022) by virtue of [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(c)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/c), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
 
-[^key-7d7e306ea0d04d1a6bfafce70ba7f3f9]: Textual amendment: [Art. 137A(4A)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/4A) inserted (28.4.2022) by [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(d)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/d), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-7d7e306ea0d04d1a6bfafce70ba7f3f9]: Textual amendment: [Art. 137A(4A)](https://www.legislation.gov.uk/nisi/2015/2006/article/137A/4A) inserted (28.4.2022) by [Welfare Supplementary Payments (Amendment) Act (Northern Ireland) 2022 (c. 22)](https://www.legislation.gov.uk/nia/2022/22), [ss. 1(2)(d)](https://www.legislation.gov.uk/nia/2022/22/section/1/2/d), [4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)

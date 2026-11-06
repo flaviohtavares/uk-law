@@ -52,7 +52,7 @@ the court may, in addition to any sentence of imprisonment which it has the powe
 (4) The matters referred to in subsection (2)(a)(ii) above are—
 
 - (a) that the hospital proposed by the two medical practitioners mentioned in subsection (2)(a) above is suitable for the purpose of giving the medical treatment mentioned in paragraph (b) of subsection (3) above to the offender; and
-- (b) that, were a hospital direction made, the offender could be admitted to such hospital before the end of the day following the[^key-5c0994d3550decee977c093435a1d9af] 7 days beginning with the day on which the direction is made.
+- (b) that, were a hospital direction made, the offender could be admitted to such hospital before the end of the day following the[^c-5c0994d3550decee977c093435a1d9af] 7 days beginning with the day on which the direction is made.
 
 (5) The matters referred to in subsection (2)(b) above are—
 
@@ -69,7 +69,7 @@ the court may, in addition to any sentence of imprisonment which it has the powe
 
 (7) The measures mentioned in subsection (2) above are—
 
-- (a) in the case of an offender who, when the hospital direction is made, has not been admitted to the specified hospital, the removal, before the end of the day following the[^key-06f9534f851cd4d4735aae77cc6e5b7d] 7 days beginning with the day on which the direction is made, of the offender to the specified hospital by—
+- (a) in the case of an offender who, when the hospital direction is made, has not been admitted to the specified hospital, the removal, before the end of the day following the[^c-06f9534f851cd4d4735aae77cc6e5b7d] 7 days beginning with the day on which the direction is made, of the offender to the specified hospital by—
   - (i) a constable;
   - (ii) a person employed in, or contracted to provide services in or to, the specified hospital who is authorised by the managers of that hospital to remove persons to hospital for the purposes of this section; or
   - (iii) a specified person;
@@ -92,6 +92,6 @@ the court may, in addition to any sentence of imprisonment which it has the powe
 
 [^c18932021]: Textual amendment: Ss. 59A-59C and preceding cross-heading substituted for s. 59A (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 331(1)](https://www.legislation.gov.uk/asp/2003/13/section/331/1), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1), [Sch. 4 para. 8(6)](https://www.legislation.gov.uk/asp/2003/13/schedule/4/paragraph/8/6); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
-[^key-5c0994d3550decee977c093435a1d9af]: Textual amendment: Words in [s. 59A(4)(b)](https://www.legislation.gov.uk/ukpga/1995/46/section/59A/4/b) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 44(2)(a)](https://www.legislation.gov.uk/asp/2015/9/section/44/2/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-5c0994d3550decee977c093435a1d9af]: Textual amendment: Words in [s. 59A(4)(b)](https://www.legislation.gov.uk/ukpga/1995/46/section/59A/4/b) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 44(2)(a)](https://www.legislation.gov.uk/asp/2015/9/section/44/2/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-06f9534f851cd4d4735aae77cc6e5b7d]: Textual amendment: Words in [s. 59A(7)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/59A/7/a) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 44(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/44/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-06f9534f851cd4d4735aae77cc6e5b7d]: Textual amendment: Words in [s. 59A(7)(a)](https://www.legislation.gov.uk/ukpga/1995/46/section/59A/7/a) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 44(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/44/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

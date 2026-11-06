@@ -48,11 +48,11 @@ The Treasury, in exercise of the powers conferred by paragraphs 3(1)(a) and 56(2
 
 ## PART 1 — Introduction
 
-### 1. Citation and coming into force[^key-85d1add52e147ea247899ec8eb71ae6a]
+### 1. Citation and coming into force[^c-85d1add52e147ea247899ec8eb71ae6a]
 
 These Regulations may be cited as the Indirect Taxes (Notifiable Arrangements) Regulations 2017 and come into force on 1st January 2018.
 
-### 2. Interpretation[^key-bbcd2d3e5b71c0922fcf88a3592a8839]
+### 2. Interpretation[^c-bbcd2d3e5b71c0922fcf88a3592a8839]
 
 (1) In these Regulations—
 
@@ -73,11 +73,11 @@ These Regulations may be cited as the Indirect Taxes (Notifiable Arrangements) R
 
 ## PART 2 — Notifiable arrangements - VAT
 
-### 3. Notifiable arrangements in relation to VAT[^key-dd742d493594f9f7edee12effe3ed5a8]
+### 3. Notifiable arrangements in relation to VAT[^c-dd742d493594f9f7edee12effe3ed5a8]
 
 The arrangements described in this Part are prescribed as notifiable arrangements in relation to VAT.
 
-### 4. Retail supplies – splitting and value shifting[^key-98735b9c6c459a68cba778c3efce2821]
+### 4. Retail supplies – splitting and value shifting[^c-98735b9c6c459a68cba778c3efce2821]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
@@ -120,13 +120,13 @@ The arrangements described in this Part are prescribed as notifiable arrangement
 
 (8) In this regulation, “zero-rated supply” has the meaning given by section 30 of the Value Added Tax Act 1994[^f00008], excluding a supply of goods or services within items 2(d) and (g) and 8 to 13 of Group 12 in Part 2 of Schedule 8 to that Act.
 
-### 5. Offshore supplies – insurance and finance[^key-9f1760185da5e60629a8038fa0a8f959]
+### 5. Offshore supplies – insurance and finance[^c-9f1760185da5e60629a8038fa0a8f959]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
-(2) A person (“D”) who carries on business in the United Kingdom makes a supply of services to a person (“E”) who belongs outside the United Kingdom[^key-7acec770893d98a69be50676c2bc3959] and the supply is an exempt supply, or would be an exempt supply if made in the United Kingdom, by virtue of any item of Group 2 or any of items 1 to 6 and 8 of Group 5.
+(2) A person (“D”) who carries on business in the United Kingdom makes a supply of services to a person (“E”) who belongs outside the United Kingdom[^c-7acec770893d98a69be50676c2bc3959] and the supply is an exempt supply, or would be an exempt supply if made in the United Kingdom, by virtue of any item of Group 2 or any of items 1 to 6 and 8 of Group 5.
 
-(3)[^key-bc2091e4e16c991fe1656b1adfec19ff] E makes a supply of services to a person (“F”) who belongs in the United Kingdom and—
+(3)[^c-bc2091e4e16c991fe1656b1adfec19ff] E makes a supply of services to a person (“F”) who belongs in the United Kingdom and—
 
 - (a) where the place of supply of the services is the United Kingdom, it is an exempt supply; or
 - (b) in any other case, it would be an exempt supply if it were made in the United Kingdom.
@@ -136,23 +136,23 @@ The arrangements described in this Part are prescribed as notifiable arrangement
 (5) For the purposes of determining whether or not an arrangement meets the description in the preceding paragraphs, a supply of services is made by D to E or E to F notwithstanding that the supply—
 
 - (a) is incorporated within a supply made by another person;
-- (b) is split into separate supplies; [^key-13638f4c813b3285667eb3b1273a73d6]...
-- (c) is effected by means of a chain of supplies involving one or more intermediate suppliers; or[^key-b7ce15292ab4f1f72e99dbec902f427f]
-- (d)[^key-72b7d949f9decc9b6afe22a151069582] would otherwise fall to be disregarded by virtue of section 43(1)(a) of the Value Added Tax Act 1994.
+- (b) is split into separate supplies; [^c-13638f4c813b3285667eb3b1273a73d6]...
+- (c) is effected by means of a chain of supplies involving one or more intermediate suppliers; or[^c-b7ce15292ab4f1f72e99dbec902f427f]
+- (d)[^c-72b7d949f9decc9b6afe22a151069582] would otherwise fall to be disregarded by virtue of section 43(1)(a) of the Value Added Tax Act 1994.
 
 (6) In this regulation, “Group 2” and “Group 5” have the meanings given by Schedule 9 to the Value Added Tax Act 1994[^f00009].
 
-### 6. Offshore supplies – relevant business persons[^key-21633196700a2b458da9fdda86aa34ae]
+### 6. Offshore supplies – relevant business persons[^c-21633196700a2b458da9fdda86aa34ae]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
-(2) A person (“G”) who carries on business in the United Kingdom makes a supply of services to a relevant business person (“H”) who belongs outside the United Kingdom[^key-1518b64470da90aaa2cbf34b36668895].
+(2) A person (“G”) who carries on business in the United Kingdom makes a supply of services to a relevant business person (“H”) who belongs outside the United Kingdom[^c-1518b64470da90aaa2cbf34b36668895].
 
 (3) The supply by G to H would be taxable at the standard or reduced rate of VAT were H a relevant business person who belongs in the United Kingdom.
 
-(4) H makes a supply of services to a person (“I”) who belongs in the United Kingdom[^key-1d5eab32bdfbba864a8278c8ff428b58] and the supply—
+(4) H makes a supply of services to a person (“I”) who belongs in the United Kingdom[^c-1d5eab32bdfbba864a8278c8ff428b58] and the supply—
 
-- (a)[^key-4eaa7129298e0d95237af2136a2aad46] is an exempt supply made in the United Kingdom; or
+- (a)[^c-4eaa7129298e0d95237af2136a2aad46] is an exempt supply made in the United Kingdom; or
 - (b) is made in the place where H belongs.
 
 (5) The supply which G makes to H is used to make the supply by H to I.
@@ -160,13 +160,13 @@ The arrangements described in this Part are prescribed as notifiable arrangement
 (6) For the purposes of determining whether or not an arrangement meets the description in the preceding paragraphs, a supply of services is made by G to H or H to I notwithstanding that the supply—
 
 - (a) is incorporated within a supply made by another person;
-- (b) is split into separate supplies; [^key-41b486e4e946a676489755f162427346]...
-- (c) is effected by means of a chain of supplies involving one or more intermediate suppliers; or[^key-05cc538353050038601415ef88994c2d]
-- (d)[^key-4d950ca06a6d8cd5e320b47f1d02e629] would otherwise fall to be disregarded by virtue of section 43(1)(a) of the Value Added Tax Act 1994.
+- (b) is split into separate supplies; [^c-41b486e4e946a676489755f162427346]...
+- (c) is effected by means of a chain of supplies involving one or more intermediate suppliers; or[^c-05cc538353050038601415ef88994c2d]
+- (d)[^c-4d950ca06a6d8cd5e320b47f1d02e629] would otherwise fall to be disregarded by virtue of section 43(1)(a) of the Value Added Tax Act 1994.
 
 (7) In this regulation, “relevant business person” has the meaning given by section 7A(4) of the Value Added Tax Act 1994[^f00010];
 
-### 7. Options to tax- land[^key-d5a004e0c4b9135de015f013c035a7e4]
+### 7. Options to tax- land[^c-d5a004e0c4b9135de015f013c035a7e4]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
@@ -185,11 +185,11 @@ such that the supply is not a taxable supply, by virtue of paragraph 12(1) of Pa
 
 ## PART 3 — Notifiable arrangements – general
 
-### 8. Notifiable arrangements in relation to any indirect tax[^key-b15e6a8a09723d4a773b37e997523904]
+### 8. Notifiable arrangements in relation to any indirect tax[^c-b15e6a8a09723d4a773b37e997523904]
 
 The arrangements described in this Part are prescribed as notifiable arrangements in relation to any indirect tax.
 
-### 9. Confidentiality - promoters[^key-1a39bb90437f94e194e30a13282a2c9a]
+### 9. Confidentiality - promoters[^c-1a39bb90437f94e194e30a13282a2c9a]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
@@ -213,7 +213,7 @@ be kept confidential from HMRC or another promoter.
 
 (5) In paragraph (3)(b), “supplementary material” means any promotional material, data or written professional advice concerning the arrangement.
 
-### 10. Small and medium-sized enterprises[^key-a98ad3c0e9ca6c7f6a75b894e75a5d7a]
+### 10. Small and medium-sized enterprises[^c-a98ad3c0e9ca6c7f6a75b894e75a5d7a]
 
 (1) In regulation 11, “small or medium-sized enterprise” means a small or medium-sized enterprise as defined in this regulation.
 
@@ -241,7 +241,7 @@ in paragraph (2)(a) and (b), “the business” includes the business of each bo
 
   which ended immediately before the date on which it is reasonable to conclude that the arrangement to which regulation 11 applies commenced.
 
-### 11. Confidentiality – other persons[^key-38f6aa8bfde802d8cb4dd6b3d4a3857f]
+### 11. Confidentiality – other persons[^c-38f6aa8bfde802d8cb4dd6b3d4a3857f]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
@@ -270,7 +270,7 @@ be kept confidential from HMRC.
   - (i) investigate or examine any return, claim or declaration made by P or another person to HMRC; or
   - (ii) withhold payment of any or all of an amount claimed from HMRC by P or another person.
 
-### 12. Premium fees[^key-5381d0acf787de2816f85170391b905c]
+### 12. Premium fees[^c-5381d0acf787de2816f85170391b905c]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
@@ -285,7 +285,7 @@ be kept confidential from HMRC.
 - (b) to a significant extent attributable to the tax advantage obtained, or which may be obtained, by the arrangement or any element of the arrangement; and
 - (c) to any extent contingent upon that tax advantage being obtained as a matter of law.
 
-### 13. Standardised tax products[^key-d023cc79d9df7b0229e62e61051ac159]
+### 13. Standardised tax products[^c-d023cc79d9df7b0229e62e61051ac159]
 
 (1) An arrangement which meets the following description is a notifiable arrangement.
 
@@ -344,9 +344,9 @@ A Tax Information and Impact Note covering this instrument was published on 5 De
 
 [^f00001]: Footnote: [2017 c. 32](https://www.legislation.gov.uk/ukpga/2017/32).
 
-[^key-85d1add52e147ea247899ec8eb71ae6a]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-85d1add52e147ea247899ec8eb71ae6a]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-bbcd2d3e5b71c0922fcf88a3592a8839]: Commencement: Reg. 2 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-bbcd2d3e5b71c0922fcf88a3592a8839]: Commencement: Reg. 2 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
 [^f00002]: Footnote: See paragraph 6 of the Schedule.
 
@@ -360,60 +360,60 @@ A Tax Information and Impact Note covering this instrument was published on 5 De
 
 [^f00007]: Footnote: Subsection (1) was amended by section 21(1), (2) and (6) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), section 99(1) and (2) of the Finance Act 2001 and section 3(1) of the Finance (No. 2) Act [2010 (c. 31)](https://www.legislation.gov.uk/ukpga/2010/31).
 
-[^key-dd742d493594f9f7edee12effe3ed5a8]: Commencement: Reg. 3 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-dd742d493594f9f7edee12effe3ed5a8]: Commencement: Reg. 3 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-98735b9c6c459a68cba778c3efce2821]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-98735b9c6c459a68cba778c3efce2821]: Commencement: Reg. 4 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
 [^f00008]: Footnote: Section 30 was amended by section 28 of the Finance Act 1995 and section 29(2) of, and paragraph 7 of Schedule 3 to, the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-9f1760185da5e60629a8038fa0a8f959]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-9f1760185da5e60629a8038fa0a8f959]: Commencement: Reg. 5 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-7acec770893d98a69be50676c2bc3959]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(2)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/2/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-7acec770893d98a69be50676c2bc3959]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(2)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/2/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-bc2091e4e16c991fe1656b1adfec19ff]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/3) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(2)(b)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/2/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bc2091e4e16c991fe1656b1adfec19ff]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/3) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(2)(b)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/2/b); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-13638f4c813b3285667eb3b1273a73d6]: Textual amendment: Word in [reg. 5(5)(b)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/b) omitted (1.6.2023) by virtue of [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+[^c-13638f4c813b3285667eb3b1273a73d6]: Textual amendment: Word in [reg. 5(5)(b)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/b) omitted (1.6.2023) by virtue of [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
 
-[^key-b7ce15292ab4f1f72e99dbec902f427f]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/c) substituted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+[^c-b7ce15292ab4f1f72e99dbec902f427f]: Textual amendment: Words in [reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/c) substituted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
 
-[^key-72b7d949f9decc9b6afe22a151069582]: Textual amendment: [Reg. 5(5)(d)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/d) inserted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+[^c-72b7d949f9decc9b6afe22a151069582]: Textual amendment: [Reg. 5(5)(d)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/5/5/d) inserted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2023/473/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
 
 [^f00009]: Footnote: Group 2 as described in Part 2 of Schedule 9 is amended by section 38(1) of the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), paragraph 285(e)(i) of Part 2 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [2004/3083](https://www.legislation.gov.uk/uksi/2004/3083). Group 5 as described in Part 2 of Schedule 9 is amended by paragraph 81 of Part 2 of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 1997/510](https://www.legislation.gov.uk/uksi/1997/510), [1999/594](https://www.legislation.gov.uk/uksi/1999/594), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2003/1568](https://www.legislation.gov.uk/uksi/2003/1568), [2003/1569](https://www.legislation.gov.uk/uksi/2003/1569), [2008/2547](https://www.legislation.gov.uk/uksi/2008/2547), [2013/1402](https://www.legislation.gov.uk/uksi/2013/1402) and [2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-21633196700a2b458da9fdda86aa34ae]: Commencement: Reg. 6 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-21633196700a2b458da9fdda86aa34ae]: Commencement: Reg. 6 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-1518b64470da90aaa2cbf34b36668895]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1518b64470da90aaa2cbf34b36668895]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/2) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(a)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/a); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-1d5eab32bdfbba864a8278c8ff428b58]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/4) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/b/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-1d5eab32bdfbba864a8278c8ff428b58]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/4) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/b/i); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-4eaa7129298e0d95237af2136a2aad46]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/4/a) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/b/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-4eaa7129298e0d95237af2136a2aad46]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/4/a) substituted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [88(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/59/regulation/88/3/b/ii); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-41b486e4e946a676489755f162427346]: Textual amendment: Word in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/b) omitted (1.6.2023) by virtue of [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+[^c-41b486e4e946a676489755f162427346]: Textual amendment: Word in [reg. 6(6)(b)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/b) omitted (1.6.2023) by virtue of [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
 
-[^key-05cc538353050038601415ef88994c2d]: Textual amendment: Words in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/c) substituted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+[^c-05cc538353050038601415ef88994c2d]: Textual amendment: Words in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/c) substituted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
 
-[^key-4d950ca06a6d8cd5e320b47f1d02e629]: Textual amendment: [Reg. 6(6)(d)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/d) inserted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
+[^c-4d950ca06a6d8cd5e320b47f1d02e629]: Textual amendment: [Reg. 6(6)(d)](https://www.legislation.gov.uk/uksi/2017/1216/regulation/6/6/d) inserted (1.6.2023) by [The Indirect Taxes (Notifiable Arrangements) (Amendment) Regulations 2023 (S.I. 2023/473)](https://www.legislation.gov.uk/uksi/2023/473), [regs. 1](https://www.legislation.gov.uk/uksi/2023/473/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2023/473/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/473/regulation/5))
 
 [^f00010]: Footnote: Section 7A is inserted by paragraphs 1 and 4 of Part 1 of Schedule 36 to the Finance Act 2009.
 
-[^key-d5a004e0c4b9135de015f013c035a7e4]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-d5a004e0c4b9135de015f013c035a7e4]: Commencement: Reg. 7 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
 [^f00011]: Footnote: Schedule 10 was substituted by article 2 of [S.I. 2008/1146](https://www.legislation.gov.uk/uksi/2008/1146).
 
-[^key-b15e6a8a09723d4a773b37e997523904]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-b15e6a8a09723d4a773b37e997523904]: Commencement: Reg. 8 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-1a39bb90437f94e194e30a13282a2c9a]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-1a39bb90437f94e194e30a13282a2c9a]: Commencement: Reg. 9 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2017/1215](https://www.legislation.gov.uk/uksi/2017/1215).
 
-[^key-a98ad3c0e9ca6c7f6a75b894e75a5d7a]: Commencement: Reg. 10 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-a98ad3c0e9ca6c7f6a75b894e75a5d7a]: Commencement: Reg. 10 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
 [^f00013]: Footnote: [2016 c. 24](https://www.legislation.gov.uk/ukpga/2016/24).
 
 [^f00014]: Footnote: Section 43A was inserted by paragraph 2 of Schedule 2 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16). It is amended by [S.I. 2009/1890](https://www.legislation.gov.uk/uksi/2009/1890).
 
-[^key-38f6aa8bfde802d8cb4dd6b3d4a3857f]: Commencement: Reg. 11 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-38f6aa8bfde802d8cb4dd6b3d4a3857f]: Commencement: Reg. 11 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-5381d0acf787de2816f85170391b905c]: Commencement: Reg. 12 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-5381d0acf787de2816f85170391b905c]: Commencement: Reg. 12 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
 
-[^key-d023cc79d9df7b0229e62e61051ac159]: Commencement: Reg. 13 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)
+[^c-d023cc79d9df7b0229e62e61051ac159]: Commencement: Reg. 13 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1216/regulation/1)

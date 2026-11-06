@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92H. Members' interests[^key-4f8834f358e9ca04b0aa88e1ba9ec88e]
+## 92H. Members' interests[^c-4f8834f358e9ca04b0aa88e1ba9ec88e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f8834f358e9ca04b0aa88e1ba9ec88e]: Textual amendment: Ss. 92A-92J and cross-heading omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/15) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-4f8834f358e9ca04b0aa88e1ba9ec88e]: Textual amendment: Ss. 92A-92J and cross-heading omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/15) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

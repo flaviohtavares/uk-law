@@ -44,11 +44,11 @@ Coming into force
 
 1st August 2023
 
-The Commissioners for His Majesty’s Revenue and Customs make these Regulations in exercise of the powers conferred by sections 45(3) and (4), 55(1)(d), 88(1), (c), (d), (e), (f), (g), (j), (k) and (m) and (2)(c) to (e), 92(1)(d) and 118(1) to (3) of the Finance (No. 2) Act 2023[^f00001].[^key-523843f493cf163fde1a3fd384db4a56]
+The Commissioners for His Majesty’s Revenue and Customs make these Regulations in exercise of the powers conferred by sections 45(3) and (4), 55(1)(d), 88(1), (c), (d), (e), (f), (g), (j), (k) and (m) and (2)(c) to (e), 92(1)(d) and 118(1) to (3) of the Finance (No. 2) Act 2023[^f00001].[^c-523843f493cf163fde1a3fd384db4a56]
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and interpretation[^key-60f16c274201472f2d38230dec6cbd0b]
+### 1. Citation, commencement and interpretation[^c-60f16c274201472f2d38230dec6cbd0b]
 
 (1) These Regulations may be cited as the Alcoholic Products (Excise Duty) Regulations 2023 and come into force on 1st August 2023.
 
@@ -56,7 +56,7 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 
 - “**the Act**” means the Finance (No. 2) Act 2023;
 - “**actual strength method**” means ascertaining the strength of an alcoholic product in accordance with Schedule 2;
-- “[^key-7fa660a820c72262d3514942d3210cde]**approved person**” means a person who is approved under section 82 of the Act (approval requirement: producers);
+- “[^c-7fa660a820c72262d3514942d3210cde]**approved person**” means a person who is approved under section 82 of the Act (approval requirement: producers);
 - “**approved premises**” means any premises in respect of which an approved person is approved under section 82 of the Act;
 - “**business day**” means a day which is a business day within the meaning of section 92 of the Bills of Exchange Act 1882;
 - “**large pack**” means a container[^f00002] that is intended to contain a volume of more than 10 litres but not more than 400 litres;
@@ -64,7 +64,7 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 
 ## PART 2 — Alcoholic strength
 
-### 2. The volume of alcoholic product in any container[^key-0c1d954f262d8d60f6309e7fd4f671af]
+### 2. The volume of alcoholic product in any container[^c-0c1d954f262d8d60f6309e7fd4f671af]
 
 (1) For the purposes of Part 2 of the Act, except where paragraph (4) applies, the volume of alcoholic product in any container is to be ascertained in accordance with paragraphs (2) and (3).
 
@@ -88,7 +88,7 @@ the volume of alcoholic product in the container is to be taken to be the actual
 
 (6) Whether due care has been taken for the purposes of paragraph (4)(b) is to be ascertained in accordance with a notice published under paragraph (5).
 
-### 3. The strength of alcoholic product[^key-b19ba84de31e7197b8299d6f7a10e228]
+### 3. The strength of alcoholic product[^c-b19ba84de31e7197b8299d6f7a10e228]
 
 (1) For the purposes of Part 2 of the Act, except where paragraph (6) applies, the strength of an alcoholic product is to be ascertained in accordance with paragraphs to (2) to (5).
 
@@ -124,7 +124,7 @@ the volume of alcoholic product in the container is to be taken to be the actual
 - “**producer**” means a person approved under section 82 of the Act (approval requirement: producers);
 - “**unfinished alcoholic product**” means any alcoholic product in any stage of production before it has reached the state of maturity at which it is fit for consumption.
 
-### 4. Assessments where incorrectly low rate of alcohol duty applied[^key-08800633934dce89ed3fdc95012b1fa8]
+### 4. Assessments where incorrectly low rate of alcohol duty applied[^c-08800633934dce89ed3fdc95012b1fa8]
 
 (1) This regulation applies if—
 
@@ -146,7 +146,7 @@ the volume of alcoholic product in the container is to be taken to be the actual
 
 ## PART 3 — Reliefs
 
-### 5. Relief from duty for undrinkable sediment[^key-fe1a7be3842f84796ce808163ca146f6]
+### 5. Relief from duty for undrinkable sediment[^c-fe1a7be3842f84796ce808163ca146f6]
 
 (1) This regulation applies to undrinkable sediment.
 
@@ -159,7 +159,7 @@ the volume of alcoholic product in the container is to be taken to be the actual
 - “**cask-conditioned alcoholic product**” means alcoholic product which undergoes fermentation in the cask from which it is served for consumption;
 - “**undrinkable sediment**” means such part of a cask-conditioned alcoholic product as cannot be consumed.
 
-### 6. Grower’s domestic consumption relief[^key-1ebd93e9b93b582526f6882255294587]
+### 6. Grower’s domestic consumption relief[^c-1ebd93e9b93b582526f6882255294587]
 
 (1) Wine[^f00006] and other fermented product[^f00007] may without payment of alcohol duty be sent out from an alcoholic product production premises for the domestic consumption of the grower of the ingredients from which the wine or other fermented product is produced.
 
@@ -177,7 +177,7 @@ the volume of alcoholic product in the container is to be taken to be the actual
 - “**grower**” includes beekeeper and “**grown**” is to be construed accordingly;
 - “**producer**” means a producer of cider, wine or other fermented product who is approved under section 82 of the Act (approval requirement: producers).
 
-### 7. Draught relief – information to be provided[^key-dd2855f3f84d8d8d605d3d8779be6105]
+### 7. Draught relief – information to be provided[^c-dd2855f3f84d8d8d605d3d8779be6105]
 
 (1) This regulation applies if—
 
@@ -190,13 +190,13 @@ the volume of alcoholic product in the container is to be taken to be the actual
 
 (4) If the Commissioners publish a notice under paragraph (3), they must determine whether evidence is sufficient for the purposes of paragraph (2) in accordance with that notice.
 
-### 8. Small producer relief – the volume production limit condition[^key-1a1c4653c0f08d09371699b373f56512]
+### 8. Small producer relief – the volume production limit condition[^c-1a1c4653c0f08d09371699b373f56512]
 
 (1) This regulation applies where alcoholic products produced in, or imported into, Northern Ireland are chargeable to alcohol duty.
 
 (2) Alcoholic products are not small producer alcoholic products[^f00011] unless they are produced on production premises[^f00012] that meet the volume production limit condition relevant to that category of products.
 
-**9.**[^key-8868618392a3dbafb53135fbeb777372] (1) The “volume production limit condition” relevant to a category of products is met in relation to non-group premises[^f00013] if, in relation to those premises, neither of the following volumes exceeds the volume production limit specified for that category of products in paragraph (3)—
+**9.**[^c-8868618392a3dbafb53135fbeb777372] (1) The “volume production limit condition” relevant to a category of products is met in relation to non-group premises[^f00013] if, in relation to those premises, neither of the following volumes exceeds the volume production limit specified for that category of products in paragraph (3)—
 
 - (a) the total production volume of that category of products for the previous year[^f00014];
 - (b) the estimated total production volume of that category of products for the current year[^f00015].
@@ -240,7 +240,7 @@ the volume of alcoholic product in the container is to be taken to be the actual
 
 in relation to production premises for any production year.
 
-### 10. Small producer relief – certain removals within the United Kingdom[^key-ff8d199871be8ac951256fb961b6d8bc]
+### 10. Small producer relief – certain removals within the United Kingdom[^c-ff8d199871be8ac951256fb961b6d8bc]
 
 (1) This regulation applies where—
 
@@ -252,7 +252,7 @@ in relation to production premises for any production year.
 
 (3) If P elects to pay alcohol duty in accordance with paragraph (2), P must pay such amount on or before the date that the payment arising under paragraph (1)(a) would otherwise become due.
 
-**11.**[^key-8b4275559c457cdd76114428a8ab00b5] (1) This regulation applies where—
+**11.**[^c-8b4275559c457cdd76114428a8ab00b5] (1) This regulation applies where—
 
 - (a) a person (P) is liable for the payment of alcohol duty chargeable at the standard rate on an alcoholic product produced in, or imported into, Northern Ireland,
 - (b) P intends, and intended from the time the product became so chargeable, to remove the product to Great Britain from Northern Ireland, and
@@ -262,7 +262,7 @@ in relation to production premises for any production year.
 
 (3) If P elects to pay alcohol duty in accordance with paragraph (2), P must pay such amount on or before the date that the payment arising under paragraph (1)(a) would otherwise become due.
 
-### 12. Small producer relief – certificates required for imported alcoholic products[^key-19c0d34142da2767f0b6820d4f37b218]
+### 12. Small producer relief – certificates required for imported alcoholic products[^c-19c0d34142da2767f0b6820d4f37b218]
 
 (1) This regulation applies if—
 
@@ -272,7 +272,7 @@ in relation to production premises for any production year.
 
 (2) An alcoholic product is not a small producer alcoholic product unless the importer produces, on request by an officer of Revenue and Customs, a certificate endorsed by or on behalf of the relevant tax authorities of the country or territory in which the alcoholic product was produced certifying whether the product was, at the time of production, eligible to be charged at the discounted rate in Great Britain and Northern Ireland.
 
-### 13. Small producer relief – documentation to be provided[^key-7d18b282cd99694377f1b4a636b33ebb]
+### 13. Small producer relief – documentation to be provided[^c-7d18b282cd99694377f1b4a636b33ebb]
 
 (1) Subject to paragraph (3), this regulation applies where—
 
@@ -288,7 +288,7 @@ in relation to production premises for any production year.
 
 (3) Paragraph (2) does not apply to any supplier other than P where that supplier has not been provided with the documentation described in paragraph (2).
 
-### 14. Small producer relief – record-keeping[^key-c51f5d56ccd7470103128589f7d68b66]
+### 14. Small producer relief – record-keeping[^c-c51f5d56ccd7470103128589f7d68b66]
 
 (1) This regulation applies where a person (P) has paid, or is liable for the payment of, alcohol duty at the discounted rate on alcoholic products produced in, or imported into, the United Kingdom.
 
@@ -298,7 +298,7 @@ in relation to production premises for any production year.
 
 ## PART 4 — Denatured alcohol
 
-### 15. Denatured alcohol[^key-719c4af7804e3385fb7172a0a148513e]
+### 15. Denatured alcohol[^c-719c4af7804e3385fb7172a0a148513e]
 
 (1) This regulation applies where a person deals wholesale in denatured alcohol[^f00021].
 
@@ -308,7 +308,7 @@ in relation to production premises for any production year.
 
 ## PART 5 — Travellers’ allowances
 
-### 16. Amendment of the Travellers’ Allowances Order 1994[^key-c4c48ce0f34b94ac403a78bfa4fb1963]
+### 16. Amendment of the Travellers’ Allowances Order 1994[^c-c4c48ce0f34b94ac403a78bfa4fb1963]
 
 In Schedule 2 to the Travellers’ Allowances Order 1994[^f00023], in the entry relating to—
 
@@ -323,7 +323,7 @@ In Schedule 2 to the Travellers’ Allowances Order 1994[^f00023], in the entry 
   - (ii) “£2.97” substitute “£3.28”;
 - (h) spirits, for “£10.77” substitute “£11.88”.
 
-## Part 6 — Alcoholic products approvals[^key-ef57e9fefef547de39797bdb79bc41d8]
+## Part 6 — Alcoholic products approvals[^c-ef57e9fefef547de39797bdb79bc41d8]
 
 ### 17. Interpretation
 
@@ -462,7 +462,7 @@ An application for an approval under section 82 of the Act (approval requirement
 
 ## Part 10 — Spoilt alcoholic products
 
-### 27. Claims for repayment of alcohol duty[^key-5566a671e2f8cfb7e54dd0593b337f69]
+### 27. Claims for repayment of alcohol duty[^c-5566a671e2f8cfb7e54dd0593b337f69]
 
 (1) Where section 74 of the Act (spoilt alcoholic products) applies, the repayment of alcohol duty is subject to the conditions set out in paragraph (2).
 
@@ -572,7 +572,7 @@ Two of the Commissioners for His Majesty’s Revenue and Customs
 
 Regulation 2
 
-**1.**[^key-1d6ce1c45cd21f49743837bbd5c47176] (1) This paragraph applies to large packs filled with a metered or weighed volume of alcoholic product.
+**1.**[^c-1d6ce1c45cd21f49743837bbd5c47176] (1) This paragraph applies to large packs filled with a metered or weighed volume of alcoholic product.
 
 (2) The tolerance requirement is that the volume of alcoholic product does not exceed the volume ascertained by reference to the label of that large pack and any invoice, delivery note or similar document issued in relation to it by more than the amount set out in sub-paragraph (3).
 
@@ -583,7 +583,7 @@ Regulation 2
 
 (4) Where the sources described in sub-paragraph (2) indicate different volumes, the volume to be used for the purposes of this paragraph is the greater of those volumes.
 
-**2.**[^key-44f67c5ddb2da59440b7be30028f84e5] (1) This paragraph applies to large packs filled with a volume of alcoholic product that is not metered or weighed.
+**2.**[^c-44f67c5ddb2da59440b7be30028f84e5] (1) This paragraph applies to large packs filled with a volume of alcoholic product that is not metered or weighed.
 
 (2) The tolerance requirement is that the volume of alcoholic product in a large pack does not exceed the volume ascertained by reference to the label of that pack and any invoice, delivery note or similar document issued in relation to it by more than the amount set out in sub-paragraph (3).
 
@@ -599,7 +599,7 @@ Regulation 2
 
 Regulation 1(2)
 
-**1.**[^key-d0d7a474202f0a49f62809bb3b4c75a8] (1) Except where sub-paragraph (2) applies, the strength of spirits is to be determined—
+**1.**[^c-d0d7a474202f0a49f62809bb3b4c75a8] (1) Except where sub-paragraph (2) applies, the strength of spirits is to be determined—
 
 - (a) by determining the density of the spirits in air at 20 degrees Celsius and taking the strength of the spirits to be the percentage of alcohol by volume corresponding to that density in the Laboratory Alcohol Table, provided that where the density of any spirits determined as mentioned falls between any two consecutive numbers in that table the strength shall be determined by linear interpolation, or
 - (b) using any method that measures the strength of spirits to a level of accuracy equivalent to, or greater than, that measured by a method set out in sub-paragraph (a).
@@ -609,7 +609,7 @@ Regulation 1(2)
 - (a) require that the strength of the spirits be ascertained by any of the means prescribed by sub-paragraph (1) after removing from the spirits any such substance to the extent which they consider necessary by distillation or such other process as they direct and adding water to replace the volume so removed, or
 - (b) allow the strength of the spirits to be ascertained, as though they contained alcohol and water only, by either of the means prescribed by sub-paragraph (1).
 
-**2.**[^key-0fe75dc16041526742badac4ef68b12c] (1) Except where sub-paragraph (2) applies, the strength of any alcoholic product other than spirits is to be determined—
+**2.**[^c-0fe75dc16041526742badac4ef68b12c] (1) Except where sub-paragraph (2) applies, the strength of any alcoholic product other than spirits is to be determined—
 
 - (a) in the following manner—
   - (i) a representative sample is to be taken and, after first being cleared of sediment and gas by filtration, at the temperature of 20 degrees Celsius is to be distilled,
@@ -620,9 +620,9 @@ Regulation 1(2)
 
 (2) Where the result ascertained by a method specified in sub-paragraph (1) is rendered inaccurate by the presence of substances other than alcohol, that method is to be adjusted for the purpose of producing an accurate result until such result is produced.
 
-**3.**[^key-cd7d43bca7fcc5d17f76bc6ff0ae4489] In this Schedule “**Laboratory Alcohol Table**” means a table, published on 11th July 2023, entitled “Laboratory Alcohol Table” showing the relation between density at 20 degrees Celsius and alcoholic strength of mixtures of ethanol and water expressed as percentage by volume at 20 degrees Celsius and percentage by mass[^f00024].
+**3.**[^c-cd7d43bca7fcc5d17f76bc6ff0ae4489] In this Schedule “**Laboratory Alcohol Table**” means a table, published on 11th July 2023, entitled “Laboratory Alcohol Table” showing the relation between density at 20 degrees Celsius and alcoholic strength of mixtures of ethanol and water expressed as percentage by volume at 20 degrees Celsius and percentage by mass[^f00024].
 
-## Schedule 3 — INFORMATION TO BE CONTAINED IN AN APPLICATION FOR APPROVAL[^key-5bfc3b1146363159fb445573b20aef3e]
+## Schedule 3 — INFORMATION TO BE CONTAINED IN AN APPLICATION FOR APPROVAL[^c-5bfc3b1146363159fb445573b20aef3e]
 
 Regulation 18(b)(i)
 
@@ -691,29 +691,29 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2023 c. 30](https://www.legislation.gov.uk/ukpga/2023/30), referred to in these footnotes as “the Act”.
 
-[^key-523843f493cf163fde1a3fd384db4a56]: Modification: Regulations modified (1.8.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 8](https://www.legislation.gov.uk/uksi/2023/884/regulation/8)
+[^c-523843f493cf163fde1a3fd384db4a56]: Modification: Regulations modified (1.8.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 8](https://www.legislation.gov.uk/uksi/2023/884/regulation/8)
 
-[^key-60f16c274201472f2d38230dec6cbd0b]: Commencement: Reg. 1 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-60f16c274201472f2d38230dec6cbd0b]: Commencement: Reg. 1 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-7fa660a820c72262d3514942d3210cde]: Textual amendment: Words in reg. 1(2) inserted (1.2.2025) by [The Alcoholic Products (Excise Duty) (Amendment) Regulations 2024 (S.I. 2024/1186)](https://www.legislation.gov.uk/uksi/2024/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1186/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1186/regulation/2/2)
+[^c-7fa660a820c72262d3514942d3210cde]: Textual amendment: Words in reg. 1(2) inserted (1.2.2025) by [The Alcoholic Products (Excise Duty) (Amendment) Regulations 2024 (S.I. 2024/1186)](https://www.legislation.gov.uk/uksi/2024/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1186/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/1186/regulation/2/2)
 
 [^f00002]: Footnote: Section 1(1) of the Customs and Excise Management Act [1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) (“**CEMA**”) as amended by section 117(2) of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) provides that ““**container**” includes any bundle or package and any baggage, box, cask or other receptacle whatsoever”. Section 117(3) of the Act has the effect that the use of the expression “container” has the same meaning in the Act as in CEMA.
 
-[^key-0c1d954f262d8d60f6309e7fd4f671af]: Commencement: Reg. 2 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-0c1d954f262d8d60f6309e7fd4f671af]: Commencement: Reg. 2 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00003]: Footnote: “The Commissioners” is defined in section 1(1) of CEMA, which definition was substituted by paragraph 22(b) of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 117(3) of the Act applies this definition of “the Commissioners”.
 
-[^key-b19ba84de31e7197b8299d6f7a10e228]: Commencement: Reg. 3 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-b19ba84de31e7197b8299d6f7a10e228]: Commencement: Reg. 3 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-08800633934dce89ed3fdc95012b1fa8]: Commencement: Reg. 4 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-08800633934dce89ed3fdc95012b1fa8]: Commencement: Reg. 4 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00004]: Footnote: “Alcohol duty” is defined in section 47 of the Act (alcohol duty: charge).
 
 [^f00005]: Footnote: “Excise duty point” is defined in section 49 of the Act (excise duty point and payment).
 
-[^key-fe1a7be3842f84796ce808163ca146f6]: Commencement: Reg. 5 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-fe1a7be3842f84796ce808163ca146f6]: Commencement: Reg. 5 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-1ebd93e9b93b582526f6882255294587]: Commencement: Reg. 6 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-1ebd93e9b93b582526f6882255294587]: Commencement: Reg. 6 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00006]: Footnote: “Wine” is defined in paragraph 11 of Schedule 6 to the Act.
 
@@ -721,19 +721,19 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00008]: Footnote: “Cider” is defined in paragraph 5 of Schedule 6 to the Act.
 
-[^key-dd2855f3f84d8d8d605d3d8779be6105]: Commencement: Reg. 7 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-dd2855f3f84d8d8d605d3d8779be6105]: Commencement: Reg. 7 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00009]: Footnote: “Qualifying draught products” is defined in section 51(1) of the Act (alcoholic products qualifying for draught relief).
 
 [^f00010]: Footnote: “Full rates” is defined in section 50(1) of the Act (qualifying draught products: reduced rates).
 
-[^key-1a1c4653c0f08d09371699b373f56512]: Commencement: Reg. 8 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-1a1c4653c0f08d09371699b373f56512]: Commencement: Reg. 8 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00011]: Footnote: “Small producer alcoholic products” is defined in section 55 of the Act (small producer alcoholic products).
 
 [^f00012]: Footnote: “Production premises” is defined in section 69(2) of the Act (“producer”, “production premises”, “group premises” etc).
 
-[^key-8868618392a3dbafb53135fbeb777372]: Commencement: Reg. 9 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-8868618392a3dbafb53135fbeb777372]: Commencement: Reg. 9 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00013]: Footnote: “Non-group premises” is defined in section 69(6) of the Act (“producer”, “production premises”, “group premises” etc).
 
@@ -747,44 +747,44 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00018]: Footnote: “Production year” is defined in section 54(4)(a) of the Act (small producer relief: discounted rates).
 
-[^key-ff8d199871be8ac951256fb961b6d8bc]: Commencement: Reg. 10 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-ff8d199871be8ac951256fb961b6d8bc]: Commencement: Reg. 10 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00019]: Footnote: “Discounted rate” is defined in section 54(2) of the Act (small producer relief: discounted rates).
 
 [^f00020]: Footnote: “Standard rate” is defined in section 54(3) of the Act (small producer relief: discounted rates).
 
-[^key-8b4275559c457cdd76114428a8ab00b5]: Commencement: Reg. 11 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-8b4275559c457cdd76114428a8ab00b5]: Commencement: Reg. 11 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-19c0d34142da2767f0b6820d4f37b218]: Commencement: Reg. 12 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-19c0d34142da2767f0b6820d4f37b218]: Commencement: Reg. 12 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-7d18b282cd99694377f1b4a636b33ebb]: Commencement: Reg. 13 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-7d18b282cd99694377f1b4a636b33ebb]: Commencement: Reg. 13 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-c51f5d56ccd7470103128589f7d68b66]: Commencement: Reg. 14 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-c51f5d56ccd7470103128589f7d68b66]: Commencement: Reg. 14 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-719c4af7804e3385fb7172a0a148513e]: Commencement: Reg. 15 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-719c4af7804e3385fb7172a0a148513e]: Commencement: Reg. 15 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00021]: Footnote: “Denatured alcohol” is defined in section 90(2) of the Act (denatured alcohol); section 91(2) of the Act (licence to manufacture and deal wholesale in denatured alcohol) sets out what it means for a person to deal wholesale in denatured alcohol.
 
 [^f00022]: Footnote: [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524).
 
-[^key-c4c48ce0f34b94ac403a78bfa4fb1963]: Commencement: Reg. 16 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-c4c48ce0f34b94ac403a78bfa4fb1963]: Commencement: Reg. 16 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 1994/955](https://www.legislation.gov.uk/uksi/1994/955), as amended by [S.I. 2020/1412](https://www.legislation.gov.uk/uksi/2020/1412).
 
-[^key-ef57e9fefef547de39797bdb79bc41d8]: Textual amendment: Pts. 6-10 inserted (1.2.2025) by [The Alcoholic Products (Excise Duty) (Amendment) Regulations 2024 (S.I. 2024/1186)](https://www.legislation.gov.uk/uksi/2024/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1186/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1186/regulation/2/3)
+[^c-ef57e9fefef547de39797bdb79bc41d8]: Textual amendment: Pts. 6-10 inserted (1.2.2025) by [The Alcoholic Products (Excise Duty) (Amendment) Regulations 2024 (S.I. 2024/1186)](https://www.legislation.gov.uk/uksi/2024/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1186/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/1186/regulation/2/3)
 
-[^key-5566a671e2f8cfb7e54dd0593b337f69]: Modification: Reg. 27 applied (1.2.2025) by [S.I. 1995/1046](https://www.legislation.gov.uk/uksi/1995/1046), [reg. 6(3)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/6/3) (as substituted by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96)), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/5/3))
+[^c-5566a671e2f8cfb7e54dd0593b337f69]: Modification: Reg. 27 applied (1.2.2025) by [S.I. 1995/1046](https://www.legislation.gov.uk/uksi/1995/1046), [reg. 6(3)](https://www.legislation.gov.uk/uksi/1995/1046/regulation/6/3) (as substituted by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Consequential Amendments and Modifications, Revocations, Savings and Transitional Arrangements) Regulations 2025 (S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96)), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/96/regulation/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/96/schedule/2/paragraph/5/3))
 
-[^key-1d6ce1c45cd21f49743837bbd5c47176]: Commencement: Sch. 1 para. 1 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-1d6ce1c45cd21f49743837bbd5c47176]: Commencement: Sch. 1 para. 1 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-44f67c5ddb2da59440b7be30028f84e5]: Commencement: Sch. 1 para. 2 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-44f67c5ddb2da59440b7be30028f84e5]: Commencement: Sch. 1 para. 2 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-d0d7a474202f0a49f62809bb3b4c75a8]: Commencement: Sch. 2 para. 1 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-d0d7a474202f0a49f62809bb3b4c75a8]: Commencement: Sch. 2 para. 1 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-0fe75dc16041526742badac4ef68b12c]: Commencement: Sch. 2 para. 2 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-0fe75dc16041526742badac4ef68b12c]: Commencement: Sch. 2 para. 2 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
-[^key-cd7d43bca7fcc5d17f76bc6ff0ae4489]: Commencement: Sch. 2 para. 3 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
+[^c-cd7d43bca7fcc5d17f76bc6ff0ae4489]: Commencement: Sch. 2 para. 3 in force at 1.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/806/regulation/1/1)
 
 [^f00024]: Footnote: The table entitled “Laboratory Alcohol Table” is available at https://www.gov.uk/government/publications/laboratory-alcohol-table and hard copies are available for inspection, free of charge, at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-5bfc3b1146363159fb445573b20aef3e]: Textual amendment: [Schs. 3](https://www.legislation.gov.uk/uksi/2023/806/schedule/3), [4](https://www.legislation.gov.uk/uksi/2023/806/schedule/4) inserted (1.2.2025) by [The Alcoholic Products (Excise Duty) (Amendment) Regulations 2024 (S.I. 2024/1186)](https://www.legislation.gov.uk/uksi/2024/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1186/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1186/regulation/2/4)
+[^c-5bfc3b1146363159fb445573b20aef3e]: Textual amendment: [Schs. 3](https://www.legislation.gov.uk/uksi/2023/806/schedule/3), [4](https://www.legislation.gov.uk/uksi/2023/806/schedule/4) inserted (1.2.2025) by [The Alcoholic Products (Excise Duty) (Amendment) Regulations 2024 (S.I. 2024/1186)](https://www.legislation.gov.uk/uksi/2024/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1186/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/1186/regulation/2/4)

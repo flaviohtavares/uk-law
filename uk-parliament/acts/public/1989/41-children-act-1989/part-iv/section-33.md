@@ -60,7 +60,7 @@ without either the written consent of every person who has parental responsibili
 (8) Subsection (7)(b) does not—
 
 - (a) prevent the removal of such a child, for a period of less than one month, by the authority in whose care he is; or
-- (b) apply to arrangements for such a child to live outside England and Wales (which are governed by paragraph 19 of Schedule 2 in England, and section 124 of the Social Services and Well-being (Wales) Act 2014 in Wales[^key-9951f327d3de15088d5d31a203093355]).
+- (b) apply to arrangements for such a child to live outside England and Wales (which are governed by paragraph 19 of Schedule 2 in England, and section 124 of the Social Services and Well-being (Wales) Act 2014 in Wales[^c-9951f327d3de15088d5d31a203093355]).
 
 (9) The power in subsection (3)(b) is subject (in addition to being subject to the provisions of this section) to any right, duty, power, responsibility or authority which a person mentioned in that provision[^c15164801] has in relation to the child and his property by virtue of any other enactment.
 
@@ -76,6 +76,6 @@ without either the written consent of every person who has parental responsibili
 
 [^c15164791]: Textual amendment: Words in s. 33(6)(b)(ii) substituted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 63(c)(ii)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/63/c/ii) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)
 
-[^key-9951f327d3de15088d5d31a203093355]: Textual amendment: Words in s. 33(8)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [97](https://www.legislation.gov.uk/wsi/2016/413/regulation/97)
+[^c-9951f327d3de15088d5d31a203093355]: Textual amendment: Words in s. 33(8)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [97](https://www.legislation.gov.uk/wsi/2016/413/regulation/97)
 
 [^c15164801]: Textual amendment: Words in s. 33(9) substituted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 139](https://www.legislation.gov.uk/ukpga/2002/38/section/139), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148), [Sch. 3 para. 63(d)](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/63/d) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(o)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/o)

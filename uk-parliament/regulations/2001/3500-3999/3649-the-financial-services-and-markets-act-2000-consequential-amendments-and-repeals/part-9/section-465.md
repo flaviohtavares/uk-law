@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 465. Meaning of “policy holder”[^key-1437bdf152cee6f54bce77858865bb8a]
+## 465. Meaning of “policy holder”[^c-1437bdf152cee6f54bce77858865bb8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In article 2(1) of the Friendly Societies (Accounts and Related Provisions) Orde
 
 ## Annotations
 
-[^key-1437bdf152cee6f54bce77858865bb8a]: Commencement: Art. 465 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1437bdf152cee6f54bce77858865bb8a]: Commencement: Art. 465 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

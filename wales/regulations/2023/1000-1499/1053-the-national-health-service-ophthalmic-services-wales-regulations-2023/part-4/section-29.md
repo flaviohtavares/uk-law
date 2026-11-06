@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Procedure on review of Local Health Board decision[^key-c169e7f1fc9670d12dafea9f986fb645]
+## 29. Procedure on review of Local Health Board decision[^c-c169e7f1fc9670d12dafea9f986fb645]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c169e7f1fc9670d12dafea9f986fb645]: Commencement: Reg. 29 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-c169e7f1fc9670d12dafea9f986fb645]: Commencement: Reg. 29 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

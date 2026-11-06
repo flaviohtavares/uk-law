@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Application for recall: remit to sheriff[^key-16b32c407340f4f5fc85d57fda3282c3]
+## 36. Application for recall: remit to sheriff[^c-16b32c407340f4f5fc85d57fda3282c3]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16b32c407340f4f5fc85d57fda3282c3]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/21/section/36) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-16b32c407340f4f5fc85d57fda3282c3]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/21/section/36) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

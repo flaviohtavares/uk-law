@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Disclosure of information by practitioners etc. to the Commission and relevant professional organisations[^key-e313e80ab66fcaa9a14d3f7734a4c84d]
+## 59. Disclosure of information by practitioners etc. to the Commission and relevant professional organisations[^c-e313e80ab66fcaa9a14d3f7734a4c84d]
 
 *Extent: S*
 
@@ -198,4 +198,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e313e80ab66fcaa9a14d3f7734a4c84d]: Commencement: S. 59 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e313e80ab66fcaa9a14d3f7734a4c84d]: Commencement: S. 59 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

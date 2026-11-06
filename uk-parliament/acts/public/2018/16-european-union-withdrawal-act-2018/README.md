@@ -42,12 +42,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1 — Repeal of the European Communities Act 1972](section-1.md)
 
-### Savings for implementation period[^key-8ef4588bb5320892c0c10731ab23234a]
+### Savings for implementation period[^c-8ef4588bb5320892c0c10731ab23234a]
 
 - [Section 1A — Saving for ECA for implementation period](section-1a.md)
 - [Section 1B — Saving for EU-derived domestic legislation for implementation period](section-1b.md)
 
-### Retention of saved EU law at end of implementation period[^key-e96ad208b467ac7df3abd40ab54304fd]
+### Retention of saved EU law at end of implementation period[^c-e96ad208b467ac7df3abd40ab54304fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 6D — Incompatibility orders](section-6d.md)
 - [Section 7 — Status of assimilated law](section-7.md)
 
-### Further aspects of withdrawal[^key-e18f94452350f08ee318748bf6f2d3ad]
+### Further aspects of withdrawal[^c-e18f94452350f08ee318748bf6f2d3ad]
 
 - [Section 7A — General implementation of remainder of withdrawal agreement](section-7a.md)
 - [Section 7B — General implementation of EEA EFTA and Swiss agreements](section-7b.md)
@@ -82,7 +82,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 11 — Powers involving devolved authorities corresponding to sections 8 to 8C](section-11.md)
 - [Section 12 — Retaining EU restrictions in devolution legislation etc.](section-12.md)
 
-### Parliamentary oversight of withdrawal[^key-caf67c10a8e7ab92a8134c5e6bd33d73]
+### Parliamentary oversight of withdrawal[^c-caf67c10a8e7ab92a8134c5e6bd33d73]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,10 +130,10 @@ SCHEDULES
 
 [^M_I_26dbaa53-c4fa-4cd1-9852-b3aee3fd4c35]: Commencement: Act in force at 30.1.2020 so far as is necessary for the operation of the applied provisions by [2020 c. 2](https://www.legislation.gov.uk/ukpga/2020/2), [s. 2(11)(b)](https://www.legislation.gov.uk/ukpga/2020/2/section/2/11/b)
 
-[^key-8ef4588bb5320892c0c10731ab23234a]: Textual amendment: S. 1A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/1/section/1), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/a)
+[^c-8ef4588bb5320892c0c10731ab23234a]: Textual amendment: S. 1A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/1/section/1), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/a)
 
-[^key-e96ad208b467ac7df3abd40ab54304fd]: Textual amendment: Words in [s. 2 cross-heading](https://www.legislation.gov.uk/ukpga/2018/16/crossheading/retention-of-existing-eu-law) substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/39) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-e96ad208b467ac7df3abd40ab54304fd]: Textual amendment: Words in [s. 2 cross-heading](https://www.legislation.gov.uk/ukpga/2018/16/crossheading/retention-of-existing-eu-law) substituted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/39) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-e18f94452350f08ee318748bf6f2d3ad]: Textual amendment: S. 7A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)
+[^c-e18f94452350f08ee318748bf6f2d3ad]: Textual amendment: S. 7A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/1/section/5), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/c)
 
-[^key-caf67c10a8e7ab92a8134c5e6bd33d73]: Textual amendment: Words in s. 13 cross-heading substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/43) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvi)
+[^c-caf67c10a8e7ab92a8134c5e6bd33d73]: Textual amendment: Words in s. 13 cross-heading substituted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [s. 42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7), [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/43) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvi)

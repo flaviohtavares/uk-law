@@ -66,7 +66,7 @@ The Coventry Canal from its junction with the Birmingham and Fazeley Canal at Fa
 
 The Erewash Canal from Tamworth Road Bridge to its junction with the River Trent.
 
-The Forth and Clyde Canal.[^key-552d453ed8aa0ff93eb0b1d8af1924c9]
+The Forth and Clyde Canal.[^c-552d453ed8aa0ff93eb0b1d8af1924c9]
 
 The Fossdyke Navigation.
 
@@ -74,7 +74,7 @@ The Grand Union Canal from its junctions with the Birmingham and Fazeley Canal a
 
 The Grand Union Canal from Leicester to Norton Junction, including the branch to Market Harborough.
 
-The Kennet and Avon Canal from High Bridge, Reading, to the tail of the bottom lock at Bath.[^key-912d9816a5d918c0523c0cabc63f75de]
+The Kennet and Avon Canal from High Bridge, Reading, to the tail of the bottom lock at Bath.[^c-912d9816a5d918c0523c0cabc63f75de]
 
 The Lancaster Canal from Preston to Tewitfield, including the branch to Glasson Dock.
 
@@ -106,7 +106,7 @@ The Trent and Mersey Canal, including the branch to Hall Green.
 
 The Trent Navigation from Shardlow to the tail of Meadow Lane Lock, Nottingham, by way of the Beeston Canal and part of the Nottingham Canal and including the branch to the River Soar and the length of the River Trent from its junction with the Nottingham Canal to Beeston Weir.
 
-The Union Canal.[^key-19f780e050d43dd3549e83ec5f1fa63b]
+The Union Canal.[^c-19f780e050d43dd3549e83ec5f1fa63b]
 
 The River Ure Navigation from its junction with the Ripon Canal to Swale Nab.
 
@@ -118,10 +118,10 @@ The Worcester and Birmingham Canal.
 
 [^M_C_0be5a86f-f5a9-4c14-b26b-3b11049165dc]: Modification: Sch. 12 Pt. 2 modified (E.W.) by [British Waterways Act 1983 (c. ii)](https://www.legislation.gov.uk/ukla/1983/2), [s. 11(1)(2)](https://www.legislation.gov.uk/ukla/1983/2), [Sch. 2](https://www.legislation.gov.uk/ukla/1983/2) (with [s. 18](https://www.legislation.gov.uk/ukla/1983/2))
 
-[^key-552d453ed8aa0ff93eb0b1d8af1924c9]: Textual amendment: Words in Sch. 12 Pt. 2 inserted (S.) (1.4.2011) by [The British Waterways Board (Forth and Clyde and Union Canals) (Reclassification) Order 2011 (S.S.I. 2011/118)](https://www.legislation.gov.uk/ssi/2011/118), [arts. 1](https://www.legislation.gov.uk/ssi/2011/118/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2011/118/article/2/a)
+[^c-552d453ed8aa0ff93eb0b1d8af1924c9]: Textual amendment: Words in Sch. 12 Pt. 2 inserted (S.) (1.4.2011) by [The British Waterways Board (Forth and Clyde and Union Canals) (Reclassification) Order 2011 (S.S.I. 2011/118)](https://www.legislation.gov.uk/ssi/2011/118), [arts. 1](https://www.legislation.gov.uk/ssi/2011/118/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2011/118/article/2/a)
 
-[^key-912d9816a5d918c0523c0cabc63f75de]: Textual amendment: Words in Sch. 12 Pt. 2 substituted (18.4.2011) by [The British Waterways Board (Kennet and Avon Canal) (Reclassification) Order 2011 (S.I. 2011/889)](https://www.legislation.gov.uk/uksi/2011/889), [arts. 1](https://www.legislation.gov.uk/uksi/2011/889/article/1), [2](https://www.legislation.gov.uk/uksi/2011/889/article/2)
+[^c-912d9816a5d918c0523c0cabc63f75de]: Textual amendment: Words in Sch. 12 Pt. 2 substituted (18.4.2011) by [The British Waterways Board (Kennet and Avon Canal) (Reclassification) Order 2011 (S.I. 2011/889)](https://www.legislation.gov.uk/uksi/2011/889), [arts. 1](https://www.legislation.gov.uk/uksi/2011/889/article/1), [2](https://www.legislation.gov.uk/uksi/2011/889/article/2)
 
 [^c15340971]: Textual amendment: Entry in Sch. 12 Pt. 2 inserted (6.11.1996) by [S.I. 1996/2552](https://www.legislation.gov.uk/uksi/1996/2552), [art. 2](https://www.legislation.gov.uk/uksi/1996/2552/article/2)
 
-[^key-19f780e050d43dd3549e83ec5f1fa63b]: Textual amendment: Words in Sch. 12 Pt. 2 inserted (S.) (1.4.2011) by [The British Waterways Board (Forth and Clyde and Union Canals) (Reclassification) Order 2011 (S.S.I. 2011/118)](https://www.legislation.gov.uk/ssi/2011/118), [arts. 1](https://www.legislation.gov.uk/ssi/2011/118/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2011/118/article/2/b)
+[^c-19f780e050d43dd3549e83ec5f1fa63b]: Textual amendment: Words in Sch. 12 Pt. 2 inserted (S.) (1.4.2011) by [The British Waterways Board (Forth and Clyde and Union Canals) (Reclassification) Order 2011 (S.S.I. 2011/118)](https://www.legislation.gov.uk/ssi/2011/118), [arts. 1](https://www.legislation.gov.uk/ssi/2011/118/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2011/118/article/2/b)

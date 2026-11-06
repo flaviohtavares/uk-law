@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18A. Information to be given on request and on a member providing certain information[^key-99ed6e5768be6f3800354b15f2aebf65]
+## 18A. Information to be given on request and on a member providing certain information[^c-99ed6e5768be6f3800354b15f2aebf65]
 
 *Extent: E+W+S*
 
@@ -35,9 +35,9 @@ summary: ''
 (2) The information is—
 
 - (a) a statement of the options available to the member under the scheme rules; and
-- (b) that listed in Part 3 of Schedule 7 (information to be given to members having an opportunity to transfer flexible benefits) and, subject to regulation 18C,[^key-e5865b6d0ed09601b7e975e70933c8b9] in Schedule 10 (information to be given on the pensions guidance and members’ benefits).
+- (b) that listed in Part 3 of Schedule 7 (information to be given to members having an opportunity to transfer flexible benefits) and, subject to regulation 18C,[^c-e5865b6d0ed09601b7e975e70933c8b9] in Schedule 10 (information to be given on the pensions guidance and members’ benefits).
 
-(2A)[^key-d8062c8f99cd46f242a1c33823abf168] In relation to a collective money purchase scheme, information given in accordance with paragraph (2)(a) must include a statement that—
+(2A)[^c-d8062c8f99cd46f242a1c33823abf168] In relation to a collective money purchase scheme, information given in accordance with paragraph (2)(a) must include a statement that—
 
 - (a) there is no promise or guarantee as to the rate or amount of benefits provided under the scheme, and
 - (b) the rate or amount of benefits may fluctuate, which may result in—
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-99ed6e5768be6f3800354b15f2aebf65]: Textual amendment: Regs. 18A, 18B inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/482/regulation/7)
+[^c-99ed6e5768be6f3800354b15f2aebf65]: Textual amendment: Regs. 18A, 18B inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/482/regulation/7)
 
-[^key-e5865b6d0ed09601b7e975e70933c8b9]: Textual amendment: Words in [reg. 18A(2)(b)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18A/2/b) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations 2022 (S.I. 2022/30)](https://www.legislation.gov.uk/uksi/2022/30), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/30/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/30/regulation/2/4)
+[^c-e5865b6d0ed09601b7e975e70933c8b9]: Textual amendment: Words in [reg. 18A(2)(b)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18A/2/b) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations 2022 (S.I. 2022/30)](https://www.legislation.gov.uk/uksi/2022/30), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/30/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2022/30/regulation/2/4)
 
-[^key-d8062c8f99cd46f242a1c33823abf168]: Textual amendment: [Reg. 18A(2A)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18A/2A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(7)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/7)
+[^c-d8062c8f99cd46f242a1c33823abf168]: Textual amendment: [Reg. 18A(2A)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/18A/2A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(7)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/7)

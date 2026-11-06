@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 355. Power of the Welsh Ministers to acquire land identified in infrastructure policy statement[^key-52bce237ad19281f137abb4ecfc2f1c3]
+## 355. Power of the Welsh Ministers to acquire land identified in infrastructure policy statement[^c-52bce237ad19281f137abb4ecfc2f1c3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a blight notice has been served in respect of land falling within paragrap
 
 ## Annotations
 
-[^key-52bce237ad19281f137abb4ecfc2f1c3]: Commencement: S. 355 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-52bce237ad19281f137abb4ecfc2f1c3]: Commencement: S. 355 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

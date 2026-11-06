@@ -46,18 +46,18 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 47(1A)(b) of the Adults with Incapacity (Scotland) Act 2000[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-1b4b272eadded1418197a1fb279ae7b4]
+## 1. Citation and commencement[^c-1b4b272eadded1418197a1fb279ae7b4]
 
 These Regulations may be cited as the Adults with Incapacity (Requirements for Signing Medical Treatment Certificates) (Scotland) Amendment Regulations 2012 and come into force on 2nd July 2012.
 
-## 2. Amendment of the Adults with Incapacity (Requirements for Signing Medical Treatment Certificates) (Scotland) Regulations 2007[^key-60c306a13a40f97781652ee3473b49ce]
+## 2. Amendment of the Adults with Incapacity (Requirements for Signing Medical Treatment Certificates) (Scotland) Regulations 2007[^c-60c306a13a40f97781652ee3473b49ce]
 
 For regulation 2 of the Adults with Incapacity (Requirements for Signing Medical Treatment Certificates) (Scotland) Regulations 2007[^f00002] substitute—
 
 > **2.** The requirements prescribed for the purposes of section 47(1A)(b) of the Adults with Incapacity (Scotland) Act 2000 are that the person concerned must have had their knowledge of how to assess an individual’s capacity to be able to make decisions as to that individual’s medical treatment certified by—
 >
-> - (a) a body specified in schedule 2 of the Further and Higher Education (Scotland) Act 2005[^f00003]; [^key-c6e09d267ce2037e6819834e2e1f71a2]...
-> - (b)[^key-c6e09d267ce2037e6819834e2e1f71a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (a) a body specified in schedule 2 of the Further and Higher Education (Scotland) Act 2005[^f00003]; [^c-c6e09d267ce2037e6819834e2e1f71a2]...
+> - (b)[^c-c6e09d267ce2037e6819834e2e1f71a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -81,12 +81,12 @@ These Regulations amend the Adults with Incapacity (Requirements for Signing Med
 
 [^f00001]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4); section 47(1A) was inserted by section 35(2)(b) of the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13); section 87(1) provides that “prescribed” means prescribed by regulations.
 
-[^key-1b4b272eadded1418197a1fb279ae7b4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/170/regulation/1) in force at 2.7.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/170/regulation/1)
+[^c-1b4b272eadded1418197a1fb279ae7b4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/170/regulation/1) in force at 2.7.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/170/regulation/1)
 
-[^key-60c306a13a40f97781652ee3473b49ce]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/170/regulation/2) in force at 2.7.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/170/regulation/1)
+[^c-60c306a13a40f97781652ee3473b49ce]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/170/regulation/2) in force at 2.7.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/170/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2007/105](https://www.legislation.gov.uk/ssi/2007/105).
 
 [^f00003]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6); schedule 2 has been amended by [S.S.I. 2005/660](https://www.legislation.gov.uk/ssi/2005/660), [2006/480](https://www.legislation.gov.uk/ssi/2006/480), [2007/255](https://www.legislation.gov.uk/ssi/2007/255) and [524](https://www.legislation.gov.uk/ssi/2007/524), [2008/241](https://www.legislation.gov.uk/ssi/2008/241) and [412](https://www.legislation.gov.uk/ssi/2008/412) and [2011/227](https://www.legislation.gov.uk/ssi/2011/227) and [229](https://www.legislation.gov.uk/ssi/2011/229).
 
-[^key-c6e09d267ce2037e6819834e2e1f71a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/170/regulation/2) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 16](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/16) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-c6e09d267ce2037e6819834e2e1f71a2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/170/regulation/2) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 16](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/16) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))

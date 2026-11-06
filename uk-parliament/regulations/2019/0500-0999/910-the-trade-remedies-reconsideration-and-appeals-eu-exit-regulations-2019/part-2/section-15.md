@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. The effect of an original decision, withdrawal and termination of a reconsideration[^key-1516e31972d65fc13f0afb897d4c548c]
+## 15. The effect of an original decision, withdrawal and termination of a reconsideration[^c-1516e31972d65fc13f0afb897d4c548c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Paragraph (2) does not apply where—
 
 - (a) the TRA has made any notification or published any notice relevant to the reconsideration under regulation 14(3), (5) or (6); or
-- (b) the Secretary of State has made any notification, published any notice or laid any statement relevant to the reconsideration under regulation 14(8), (10), (11) , (11A)[^key-f03d0e45a85e02f69a7cc0a5ce5fe15a] or (12).
+- (b) the Secretary of State has made any notification, published any notice or laid any statement relevant to the reconsideration under regulation 14(8), (10), (11) , (11A)[^c-f03d0e45a85e02f69a7cc0a5ce5fe15a] or (12).
 
 (4) Where the TRA has accepted more than one application for reconsideration in respect of the same original decision (see regulation 11(7)), the TRA must not terminate the reconsideration if any of the applicants for that reconsideration objects to the TRA's proposed termination.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1516e31972d65fc13f0afb897d4c548c]: Commencement: Reg. 15 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-1516e31972d65fc13f0afb897d4c548c]: Commencement: Reg. 15 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
 
-[^key-f03d0e45a85e02f69a7cc0a5ce5fe15a]: Textual amendment: Word in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2019/910/regulation/15/3/b) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2024/545/regulation/42)
+[^c-f03d0e45a85e02f69a7cc0a5ce5fe15a]: Textual amendment: Word in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2019/910/regulation/15/3/b) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2024/545/regulation/42)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Secondary legislation: duty to review[^key-35df358fc81c4f4e753d689135fa80cc]
+## 19. Secondary legislation: duty to review[^c-35df358fc81c4f4e753d689135fa80cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 30 of the Small Business, Enterprise and Employment Act 2015 (meaning
 
 ## Annotations
 
-[^key-35df358fc81c4f4e753d689135fa80cc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19) in force at 1.10.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/695/article/3/b)
+[^c-35df358fc81c4f4e753d689135fa80cc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19) in force at 1.10.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/695/article/3/b)

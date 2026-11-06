@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Byelaws[^key-5b4e14b0e4550026ca532adf4e58f0fe]
+## 52. Byelaws[^c-5b4e14b0e4550026ca532adf4e58f0fe]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b4e14b0e4550026ca532adf4e58f0fe]: Commencement: Art. 52 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5b4e14b0e4550026ca532adf4e58f0fe]: Commencement: Art. 52 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00064]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

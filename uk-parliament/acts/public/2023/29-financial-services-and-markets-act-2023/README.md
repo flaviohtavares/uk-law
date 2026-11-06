@@ -42,7 +42,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Revocation of assimilated law[^key-dc5027f95e5e0931ef19ff53db66c28c]
+#### CHAPTER 1 — Revocation of assimilated law[^c-dc5027f95e5e0931ef19ff53db66c28c]
 
 *Extent: E+W+S+N.I.*
 
@@ -287,4 +287,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-dc5027f95e5e0931ef19ff53db66c28c]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(10)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/10/b)
+[^c-dc5027f95e5e0931ef19ff53db66c28c]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(10)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/10/b)

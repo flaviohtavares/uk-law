@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 69. Meaning of “conclusive” conviction etc.[^key-7ac902eca6dd170ae4239ed16887e5d7]
+## 69. Meaning of “conclusive” conviction etc.[^c-7ac902eca6dd170ae4239ed16887e5d7]
 
 *Extent: E*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ac902eca6dd170ae4239ed16887e5d7]: Commencement: S. 69 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-7ac902eca6dd170ae4239ed16887e5d7]: Commencement: S. 69 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

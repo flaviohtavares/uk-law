@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**3.**[^key-f8afa3cd42fcab94dfe187c93dca4db1] In regulation 6 (regulation of the conduct of the authority)—
+**3.**[^c-f8afa3cd42fcab94dfe187c93dca4db1] In regulation 6 (regulation of the conduct of the authority)—
 
 - (a) in paragraph (1), after “The functions conferred on the Authority by or under Air Navigation Orders”, insert “or other retained EU law regarding aviation safety”;
 - (b) in paragraph (8)(a), after “an Air Navigation Order” insert “or under other retained EU law regarding aviation safety”.
 
 ## Annotations
 
-[^key-f8afa3cd42fcab94dfe187c93dca4db1]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f8afa3cd42fcab94dfe187c93dca4db1]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

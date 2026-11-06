@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 253. Repeals[^key-00e9e8052c09d59d2243d5dac06b9482][^key-1fcaa71989d8cf33fe1a9817632ba01b]
+## 253. Repeals[^c-00e9e8052c09d59d2243d5dac06b9482][^c-1fcaa71989d8cf33fe1a9817632ba01b]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The statutory provisions mentioned in Schedule 7 are repealed to the extent spec
 
 ## Annotations
 
-[^key-00e9e8052c09d59d2243d5dac06b9482]: Commencement: S. 253 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-00e9e8052c09d59d2243d5dac06b9482]: Commencement: S. 253 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-1fcaa71989d8cf33fe1a9817632ba01b]: Commencement: S. 253 in operation at 1.4.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-1fcaa71989d8cf33fe1a9817632ba01b]: Commencement: S. 253 in operation at 1.4.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

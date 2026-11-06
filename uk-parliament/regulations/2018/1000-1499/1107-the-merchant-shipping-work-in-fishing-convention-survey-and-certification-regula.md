@@ -64,7 +64,7 @@ In accordance with section 86(4) of the Merchant Shipping Act 1995 the Secretary
   - (b) an organisation which has an agreement with the Secretary of State pursuant to Article 5(2) of Directive [2009/15/EC](https://www.legislation.gov.uk/european/directive/2009/0015) [^c23424771] of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations which authorises it to undertake surveys of ships under these Regulations;
 - “Convention” or “**Work in Fishing Convention**” means the convention adopted at Geneva on 14th June 2007 by the International Labour Organisation;
 - “**Convention State**” means a State, other than the United Kingdom, which is a party to the Convention;
-- “exempt fishing vessel” means a fishing vessel to which regulation 5 does not apply (see regulation 3(3) (application));[^key-776a81638ffffdfdb6e4a0c2fe883d15]
+- “exempt fishing vessel” means a fishing vessel to which regulation 5 does not apply (see regulation 3(3) (application));[^c-776a81638ffffdfdb6e4a0c2fe883d15]
 - “**fishing vessel owner**” means the owner of the fishing vessel or any other organisation or person such as the manager, agent or bareboat charterer, who has assumed the responsibility for the operation of the vessel from the owner and who, on assuming such responsibility, has agreed to take over the duties and responsibilities imposed on fishing vessel owners in accordance with the Convention, regardless of whether any other organisation or person fulfils certain of the duties or responsibilities on behalf of the fishing vessel owner;
 - “**length**” means registered length as defined by the Fishing Vessels (Codes of Practice) Regulations 2017 [^c23424781];
 - “**Merchant Shipping Notice**” means a notice described as such and issued by the Secretary of State, and any reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;
@@ -98,14 +98,14 @@ whichever distance is the greater.
 - (a) before a Work in Fishing Convention Certificate is first issued, an initial survey by a certifying authority, as set out in Merchant Shipping Notice 1885 (F);
 - (b) thereafter, at specified in intervals, a renewal survey by a certifying authority, as set out in Merchant Shipping Notice 1885 (F).
 
-(1A)[^key-ce57c9695ae31d06920f3f6d808d2514] Paragraph (1) does not apply to an exempt fishing vessel.
+(1A)[^c-ce57c9695ae31d06920f3f6d808d2514] Paragraph (1) does not apply to an exempt fishing vessel.
 
-(2) A renewal survey under paragraph (1)(b)[^key-07c797e79dc74f6fa79574fc68c98dcf] must be completed—
+(2) A renewal survey under paragraph (1)(b)[^c-07c797e79dc74f6fa79574fc68c98dcf] must be completed—
 
-- (a) if the length of the fishing vessel is 24 metres or more, within four years of the previous[^key-ea04c1ddf06a4d5eeab01a468cfcb419] survey;
+- (a) if the length of the fishing vessel is 24 metres or more, within four years of the previous[^c-ea04c1ddf06a4d5eeab01a468cfcb419] survey;
 - (b) if the length of the fishing vessel is less than 24 metres, within five years of the previous survey.
 
-(3) An exempt fishing vessel[^key-b27dc3770657a8da95a1217ada966975] is subject to a survey , other than a survey described in paragraph (1),[^key-bbd731e02300264a4f225e44d29e8863] by a certifying authority as set out in Merchant Shipping Notice 1885 (F).
+(3) An exempt fishing vessel[^c-b27dc3770657a8da95a1217ada966975] is subject to a survey , other than a survey described in paragraph (1),[^c-bbd731e02300264a4f225e44d29e8863] by a certifying authority as set out in Merchant Shipping Notice 1885 (F).
 
 ## 5. Issue of Work in Fishing Convention Certificates
 
@@ -186,7 +186,7 @@ but this paragraph does not apply in relation to Scotland.
 
 ## 9. Offences and penalties for United Kingdom fishing vessels
 
-(1) If a United Kingdom fishing vessel , which is not an exempt fishing vessel,[^key-f5bd35a8dc5be13a5020d9635e9c5ad6] proceeds or attempts to proceed to sea on a voyage without a valid Work in Fishing Convention Certificate, the fishing vessel , which is not an exempt fishing vessel, owner and the skipper of the fishing vessel , which is not an exempt fishing vessel, are guilty of an offence and liable on summary conviction—
+(1) If a United Kingdom fishing vessel , which is not an exempt fishing vessel,[^c-f5bd35a8dc5be13a5020d9635e9c5ad6] proceeds or attempts to proceed to sea on a voyage without a valid Work in Fishing Convention Certificate, the fishing vessel , which is not an exempt fishing vessel, owner and the skipper of the fishing vessel , which is not an exempt fishing vessel, are guilty of an offence and liable on summary conviction—
 
 - (a) in England and Wales to a fine; or
 - (b) in Scotland and Northern Ireland to a fine not exceeding level 5 on the standard scale,
@@ -210,7 +210,7 @@ is guilty of an offence and is liable on summary conviction—
 
 or on conviction on indictment by imprisonment for a term not exceeding two years, or a fine, or both.
 
-(3A)[^key-eaaf9d64440009092ed59f590ed859e2] If a United Kingdom fishing vessel which is an exempt fishing vessel is not made available for a survey in accordance with Merchant Shipping Notice 1885 (F), the fishing vessel owner and the skipper of the fishing vessel are guilty of an offence and are liable—
+(3A)[^c-eaaf9d64440009092ed59f590ed859e2] If a United Kingdom fishing vessel which is an exempt fishing vessel is not made available for a survey in accordance with Merchant Shipping Notice 1885 (F), the fishing vessel owner and the skipper of the fishing vessel are guilty of an offence and are liable—
 
 - (a) on summary conviction—
   - (i) in England and Wales, to a fine;
@@ -396,21 +396,21 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23424771]: Marginal citation: OJ No. L.131, 28.05.2009, p.47.
 
-[^key-776a81638ffffdfdb6e4a0c2fe883d15]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/2/1) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/2)
+[^c-776a81638ffffdfdb6e4a0c2fe883d15]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/2/1) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/2)
 
 [^c23424781]: Marginal citation: [S.I. 2017/943](https://www.legislation.gov.uk/uksi/2017/943).
 
 [^c23424791]: Marginal citation: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-ce57c9695ae31d06920f3f6d808d2514]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/1A) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/a)
+[^c-ce57c9695ae31d06920f3f6d808d2514]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/1A) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/a)
 
-[^key-07c797e79dc74f6fa79574fc68c98dcf]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/2) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/b/i)
+[^c-07c797e79dc74f6fa79574fc68c98dcf]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/2) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/b/i)
 
-[^key-ea04c1ddf06a4d5eeab01a468cfcb419]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/2) substituted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/b/ii)
+[^c-ea04c1ddf06a4d5eeab01a468cfcb419]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/2) substituted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/b/ii)
 
-[^key-b27dc3770657a8da95a1217ada966975]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/3) substituted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/c/i)
+[^c-b27dc3770657a8da95a1217ada966975]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/3) substituted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/c/i)
 
-[^key-bbd731e02300264a4f225e44d29e8863]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/3) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/c/ii)
+[^c-bbd731e02300264a4f225e44d29e8863]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/4/3) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/3/c/ii)
 
 [^c23424801]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -418,9 +418,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23424821]: Marginal citation: Cm 3772.
 
-[^key-f5bd35a8dc5be13a5020d9635e9c5ad6]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/9/1) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/4/a)
+[^c-f5bd35a8dc5be13a5020d9635e9c5ad6]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/9/1) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/4/a)
 
-[^key-eaaf9d64440009092ed59f590ed859e2]: Textual amendment: [Reg. 9(3A)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/9/3A) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/4/b)
+[^c-eaaf9d64440009092ed59f590ed859e2]: Textual amendment: [Reg. 9(3A)](https://www.legislation.gov.uk/uksi/2018/1107/regulation/9/3A) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/4/4/b)
 
 [^c23424831]: Marginal citation: Subsection 1A was inserted by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [Schedule 1 paragraph 4](https://www.legislation.gov.uk/ukpga/1997/28/schedule/1/paragraph/4).
 

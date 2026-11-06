@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Arbitration[^key-45420941ad85458eec14255c7923242c]
+## 48. Arbitration[^c-45420941ad85458eec14255c7923242c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to article 45 (procedure regarding certain approvals, etc.) and except w
 
 ## Annotations
 
-[^key-45420941ad85458eec14255c7923242c]: Commencement: Art. 48 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-45420941ad85458eec14255c7923242c]: Commencement: Art. 48 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

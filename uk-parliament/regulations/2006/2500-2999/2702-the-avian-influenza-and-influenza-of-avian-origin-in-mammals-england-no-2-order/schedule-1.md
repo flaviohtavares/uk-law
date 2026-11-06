@@ -28,8 +28,8 @@ The occupier must make and update daily a record of poultry, other captive birds
 
 - (a) alive;
 - (b) which have died;
-- (c) which show clinical signs of avian influenza or influenza of avian origin[^key-2090c8c8cb1c4ae55f7f05c432efc924];
-- (d) he thinks are likely to be infected with avian influenza or influenza of avian origin[^key-44645dd16fc85cbdb170032e91f80f13];
+- (c) which show clinical signs of avian influenza or influenza of avian origin[^c-2090c8c8cb1c4ae55f7f05c432efc924];
+- (d) he thinks are likely to be infected with avian influenza or influenza of avian origin[^c-44645dd16fc85cbdb170032e91f80f13];
 - (e) born or hatched.
 
 ### 2. Housing or isolation of poultry and other captive birds
@@ -47,7 +47,7 @@ No person shall move any poultry or other captive birds to or from the premises 
 
 ### 4. Prohibition on the removal of other things liable to transmit avian influenza
 
-No person may remove from the premises any carcase, poultry meat, poultry feed, utensils, material, waste, droppings, poultry or other captive bird manure, slurry, used litter or anything else liable to transmit avian influenza virus[^key-66de0b49f4e871f70cb91f61ea06a857] unless he is licensed by a veterinary inspector , and observes appropriate biosecurity measures in order to minimise the risk of spread of disease[^key-9a57cc4cadb1f9be4b08c3c4267f8510].
+No person may remove from the premises any carcase, poultry meat, poultry feed, utensils, material, waste, droppings, poultry or other captive bird manure, slurry, used litter or anything else liable to transmit avian influenza virus[^c-66de0b49f4e871f70cb91f61ea06a857] unless he is licensed by a veterinary inspector , and observes appropriate biosecurity measures in order to minimise the risk of spread of disease[^c-9a57cc4cadb1f9be4b08c3c4267f8510].
 
 ### 5. Prohibition on the movement of people, animals and vehicles to and from the premises
 
@@ -79,18 +79,18 @@ No person shall tamper with a seal attached under paragraph 7 or remove it befor
 
 ### 9. Disinfection at entrances and exits
 
-The occupier must, in accordance with an inspector's instructions, provide and maintain means of cleansing and[^key-a43cdeedbc666b4f8bb256724791cf2f] disinfection at the entrances and exits of the premises and of buildings housing poultry or other captive birds [^c1680320].
+The occupier must, in accordance with an inspector's instructions, provide and maintain means of cleansing and[^c-a43cdeedbc666b4f8bb256724791cf2f] disinfection at the entrances and exits of the premises and of buildings housing poultry or other captive birds [^c1680320].
 
 ## Annotations
 
-[^key-2090c8c8cb1c4ae55f7f05c432efc924]: Textual amendment: Words in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/1/c) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/a/i)
+[^c-2090c8c8cb1c4ae55f7f05c432efc924]: Textual amendment: Words in [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/1/c) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/a/i)
 
-[^key-44645dd16fc85cbdb170032e91f80f13]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/1/d) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/a/ii)
+[^c-44645dd16fc85cbdb170032e91f80f13]: Textual amendment: Words in [Sch. 1 para. 1(d)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/1/d) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/a/ii)
 
-[^key-66de0b49f4e871f70cb91f61ea06a857]: Textual amendment: Word in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/4) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/b)
+[^c-66de0b49f4e871f70cb91f61ea06a857]: Textual amendment: Word in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/4) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/b)
 
-[^key-9a57cc4cadb1f9be4b08c3c4267f8510]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/4) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(17)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/17)
+[^c-9a57cc4cadb1f9be4b08c3c4267f8510]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/4) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(17)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/17)
 
-[^key-a43cdeedbc666b4f8bb256724791cf2f]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/9) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(c)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/c)
+[^c-a43cdeedbc666b4f8bb256724791cf2f]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2006/2702/schedule/1/paragraph/9) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(40)(c)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/40/c)
 
 [^c1680320]: Marginal citation: Disinfectants approved for use under this Order are set out in the Schedules to the Diseases of Animals (Approved Disinfectants) Order 1978 ([S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32), amended by [S.I. 1999/919](https://www.legislation.gov.uk/uksi/1999/919), [S.I](https://www.legislation.gov.uk/uksi/1999/919/section/I). 2005/1908 and [S.I. 2006/1197](https://www.legislation.gov.uk/uksi/2006/1197); there are other amending instruments but these do not relate to avian influenza.).

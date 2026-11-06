@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. The universal postal service[^key-9eb3f06c6b2b40e4962fc71fc5fad784]
+## 30. The universal postal service[^c-9eb3f06c6b2b40e4962fc71fc5fad784]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (5) The Secretary of State may direct OFCOM to secure that the first universal postal service order does not include services of a description specified in the direction.
 
-(6)[^key-c60472a4a510c733362bad4682aa2fee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c60472a4a510c733362bad4682aa2fee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9eb3f06c6b2b40e4962fc71fc5fad784]: Commencement: S. 30 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9eb3f06c6b2b40e4962fc71fc5fad784]: Commencement: S. 30 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-c60472a4a510c733362bad4682aa2fee]: Textual amendment: [S. 30(6)](https://www.legislation.gov.uk/ukpga/2011/5/section/30/6) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c60472a4a510c733362bad4682aa2fee]: Textual amendment: [S. 30(6)](https://www.legislation.gov.uk/ukpga/2011/5/section/30/6) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

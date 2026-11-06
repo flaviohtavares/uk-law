@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Council websites[^key-9f0e17e32f1cb8db499e5c02c1e74050]
+## 125. Council websites[^c-9f0e17e32f1cb8db499e5c02c1e74050]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department must by regulations specify a standard format for the domain name
 
 ## Annotations
 
-[^key-9f0e17e32f1cb8db499e5c02c1e74050]: Commencement: [S. 125](https://www.legislation.gov.uk/nia/2014/8/section/125) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-9f0e17e32f1cb8db499e5c02c1e74050]: Commencement: [S. 125](https://www.legislation.gov.uk/nia/2014/8/section/125) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

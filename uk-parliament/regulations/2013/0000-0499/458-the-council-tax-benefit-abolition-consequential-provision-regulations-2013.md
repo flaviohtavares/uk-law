@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by section 32 of the Welfare Reform Act 2012[^f00001].
 
-## 1. Citation and commencement[^key-42feb7ef78a27400bbc22b89b5a43ed8]
+## 1. Citation and commencement[^c-42feb7ef78a27400bbc22b89b5a43ed8]
 
 These Regulations may be cited as the Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 and come into force on 1st April 2013.
 
-## 2. Extent and application[^key-96385b7b481f18978b6428e11c7925a4]
+## 2. Extent and application[^c-96385b7b481f18978b6428e11c7925a4]
 
 (1) Subject to paragraph (2), each of the revocations and amendments made by these Regulations has the same extent and application as the provision revoked or amended.
 
@@ -59,11 +59,11 @@ These Regulations may be cited as the Council Tax Benefit Abolition (Consequenti
 - (a) the National Assistance (Assessment of Resources) Regulations 1992[^f00002];
 - (b) the Housing Renewal Grants Regulations 1996[^f00003].
 
-## 3. Revocations[^key-f7c2b7d3935ae1b2b70c5f77f21392df]
+## 3. Revocations[^c-f7c2b7d3935ae1b2b70c5f77f21392df]
 
 The provisions specified in column 1 of Schedule 1 to these Regulations are revoked to the extent specified in column 3 of that Schedule.
 
-## 4. Consequential amendments[^key-048adc2b2d780228e8852432f9e120eb]
+## 4. Consequential amendments[^c-048adc2b2d780228e8852432f9e120eb]
 
 The amendments specified in Schedule 2 to these Regulations have effect.
 
@@ -77,7 +77,7 @@ Department for Work and Pensions
 
 28th February 2013
 
-## SCHEDULE 1 — Revocations[^key-58ee90013fb6b02f031532d7e339e0da]
+## SCHEDULE 1 — Revocations[^c-58ee90013fb6b02f031532d7e339e0da]
 
 Regulation 3
 
@@ -123,17 +123,17 @@ Regulation 3
 </tbody>
 </table>
 
-[^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^f00017][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^f00018][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^key-7918ae4c5f06c2fc412e9e84fae74051][^f00019][^f00020][^f00021][^f00022]
+[^f00004][^f00005][^f00006][^f00007][^f00008][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^f00017][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^f00018][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^c-7918ae4c5f06c2fc412e9e84fae74051][^f00019][^f00020][^f00021][^f00022]
 
 ## SCHEDULE 2 — Consequential amendments
 
 Regulation 4
 
-### 1. The Income Support (General) Regulations 1987[^key-c6b5d95479df9bb0dce8c49223f66ff6]
+### 1. The Income Support (General) Regulations 1987[^c-c6b5d95479df9bb0dce8c49223f66ff6]
 
 In regulation 51A(3)(d) (diminishing notional capital rule) of the Income Support (General) Regulations 1987[^f00023] for “has the same meaning as in regulation 2(1) of the Council Tax Benefit Regulations 2006 (interpretation)” substitute “means a period of 7 consecutive days beginning on a Monday and ending on a Sunday”.
 
-### 2. The Social Security (Claims and Payments) Regulations 1987[^key-a96d961fcda210aef0ff1f8bbe1ba335]
+### 2. The Social Security (Claims and Payments) Regulations 1987[^c-a96d961fcda210aef0ff1f8bbe1ba335]
 
 For regulation 33(1A) (persons unable to act) of the Social Security (Claims and Payments) Regulations 1987[^f00024] substitute—
 
@@ -141,23 +141,23 @@ For regulation 33(1A) (persons unable to act) of the Social Security (Claims and
 
 .
 
-### 3. The Jobseeker’s Allowance Regulations 1996[^key-5501eccf051c0f3a645194cc48616ba3]
+### 3. The Jobseeker’s Allowance Regulations 1996[^c-5501eccf051c0f3a645194cc48616ba3]
 
 In regulation 114(3)(c) (diminishing notional capital rule) of the Jobseeker’s Allowance Regulations 1996[^f00025] for “has the same meaning as in regulation 2(1) of the Council Tax Benefit (General) Regulations 1992 (interpretation)” substitute “means a period of 7 consecutive days beginning on a Monday and ending on a Sunday”.
 
-### 4. The Child Support Departure Direction and Consequential Amendments Regulations 1996[^key-97245b8122509cf6fbaa6c85d28e0735]
+### 4. The Child Support Departure Direction and Consequential Amendments Regulations 1996[^c-97245b8122509cf6fbaa6c85d28e0735]
 
 In regulation 12 (meaning of “benefit” for the purposes of section 28E of the Act) of the Child Support Departure Direction and Consequential Amendments Regulations 1996[^f00026] for “, housing benefit, and council tax benefit” substitute “and housing benefit”.
 
-### 5. The Child Support (Variations) Regulations 2000[^key-07e79c568ee7f3addd35301c5404f49f]
+### 5. The Child Support (Variations) Regulations 2000[^c-07e79c568ee7f3addd35301c5404f49f]
 
 In regulation 32 (meaning of “benefit” for the purposes of section 28E of the Act) of the Child Support (Variations) Regulations 2000[^f00027] for “, housing benefit and council tax benefit” substitute “and housing benefit”.
 
-### 6. The State Pension Credit Regulations 2002[^key-be69033ba3b13868efe89cc82206c7c8]
+### 6. The State Pension Credit Regulations 2002[^c-be69033ba3b13868efe89cc82206c7c8]
 
 In regulation 22(3)(c) (diminishing notional capital rule) of the State Pension Credit Regulations 2002[^f00028] for “has the same meaning as in regulation 2(1) of the Council Tax Benefit (General) Regulations 1992 (interpretation)” substitute “means a period of 7 consecutive days beginning on a Monday and ending on a Sunday”.
 
-### 7. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-8a56c643c88907bf16bfe89feb29b7c2]
+### 7. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-8a56c643c88907bf16bfe89feb29b7c2]
 
 In regulation 17(1) (calculation of requirements) of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00029] for sub-paragraph (b) substitute—
 
@@ -165,7 +165,7 @@ In regulation 17(1) (calculation of requirements) of the National Health Service
 
 .
 
-### 8. The Employment and Support Allowance Regulations 2008[^key-2b968064ca4bb8a71dbccb12fb922722]
+### 8. The Employment and Support Allowance Regulations 2008[^c-2b968064ca4bb8a71dbccb12fb922722]
 
 In regulation 116(3)(c) (diminishing notional capital rule) of the Employment and Support Allowance Regulations 2008[^f00030] for “has the same meaning as in regulation 2(1) of the Council Tax Benefit Regulations 2006 (interpretation)” substitute “means a period of 7 consecutive days beginning on a Monday and ending on a Sunday”.
 
@@ -185,19 +185,19 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00001]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5). The power in section 32 is vested in “the appropriate authority”. By virtue of section 32(2) and (3), the Secretary of State is “the appropriate authority” except where provision would be within the legislative competence of the National Assembly for Wales (were it contained within an Act of the Assembly) or could be made by the Welsh Ministers under any other power conferred on them.
 
-[^key-42feb7ef78a27400bbc22b89b5a43ed8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-42feb7ef78a27400bbc22b89b5a43ed8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
-[^key-96385b7b481f18978b6428e11c7925a4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/458/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-96385b7b481f18978b6428e11c7925a4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/458/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977). The functions of the Secretary of State under the National Assistance Act [1948 (c.29)](https://www.legislation.gov.uk/ukpga/1948/29), so far as they are exercisable in Scotland, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) and, so far as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) (“the 1999 Order”).
 
 [^f00003]: Footnote: [S.I. 1996/2890](https://www.legislation.gov.uk/uksi/1996/2890). The functions of the Secretary of State under the Housing Grants, Construction and Regeneration Act 1996 (c.52), so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the 1999 Order.
 
-[^key-f7c2b7d3935ae1b2b70c5f77f21392df]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/458/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-f7c2b7d3935ae1b2b70c5f77f21392df]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/458/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
-[^key-048adc2b2d780228e8852432f9e120eb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/458/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-048adc2b2d780228e8852432f9e120eb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/458/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
-[^key-58ee90013fb6b02f031532d7e339e0da]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-58ee90013fb6b02f031532d7e339e0da]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00004]: Footnote: Paragraph 52 was substituted by [S.I. 2008/3157](https://www.legislation.gov.uk/uksi/2008/3157).
 
@@ -225,7 +225,7 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00016]: Footnote: Schedule 3, paragraph 49 and Schedule 4, paragraph 45 were amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217).
 
-[^key-7918ae4c5f06c2fc412e9e84fae74051]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1) revoked in part (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-7918ae4c5f06c2fc412e9e84fae74051]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1) revoked in part (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00017]: Footnote: Regulation 3(d) was amended, and regulation 5 substituted, by [S.I. 2008/637](https://www.legislation.gov.uk/uksi/2008/637).
 
@@ -239,34 +239,34 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00022]: Footnote: Regulation 90 was substituted by [S.I. 2007/2911](https://www.legislation.gov.uk/uksi/2007/2911).
 
-[^key-c6b5d95479df9bb0dce8c49223f66ff6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-c6b5d95479df9bb0dce8c49223f66ff6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00023]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Regulation 51A was inserted by [S.I. 1990/1776](https://www.legislation.gov.uk/uksi/1990/1776). Sub-paragraph (d) of paragraph (3) was added by [S.I. 1993/315](https://www.legislation.gov.uk/uksi/1993/315) and amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217).
 
-[^key-a96d961fcda210aef0ff1f8bbe1ba335]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-a96d961fcda210aef0ff1f8bbe1ba335]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00024]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph (1A) was inserted by [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337) and amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217).
 
-[^key-5501eccf051c0f3a645194cc48616ba3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-5501eccf051c0f3a645194cc48616ba3]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00025]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-97245b8122509cf6fbaa6c85d28e0735]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-97245b8122509cf6fbaa6c85d28e0735]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00026]: Footnote: [S.I. 1996/2907](https://www.legislation.gov.uk/uksi/1996/2907). These Regulations are revoked by [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) for certain cases.
 
-[^key-07e79c568ee7f3addd35301c5404f49f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-07e79c568ee7f3addd35301c5404f49f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00027]: Footnote: [S.I. 2001/156](https://www.legislation.gov.uk/uksi/2001/156). These Regulations are revoked by [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) for certain cases.
 
-[^key-be69033ba3b13868efe89cc82206c7c8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-be69033ba3b13868efe89cc82206c7c8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00028]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
-[^key-8a56c643c88907bf16bfe89feb29b7c2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-8a56c643c88907bf16bfe89feb29b7c2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00029]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382).
 
-[^key-2b968064ca4bb8a71dbccb12fb922722]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
+[^c-2b968064ca4bb8a71dbccb12fb922722]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1)
 
 [^f00030]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).

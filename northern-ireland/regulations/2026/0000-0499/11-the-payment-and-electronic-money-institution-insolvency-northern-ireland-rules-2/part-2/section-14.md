@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Costs[^key-594b755d517298b8d9a14d997d72762e]
+## 14. Costs[^c-594b755d517298b8d9a14d997d72762e]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If the court makes a special administration order, the following are payable as 
 
 ## Annotations
 
-[^key-594b755d517298b8d9a14d997d72762e]: Commencement: [Rule 14](https://www.legislation.gov.uk/nisr/2026/11/rule/14) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-594b755d517298b8d9a14d997d72762e]: Commencement: [Rule 14](https://www.legislation.gov.uk/nisr/2026/11/rule/14) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

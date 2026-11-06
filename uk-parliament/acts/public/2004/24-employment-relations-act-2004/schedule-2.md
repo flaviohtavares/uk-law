@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Repeals[^key-2eded7a87e4d56587597a857e57b5762][^key-9a0206a80cb276373e0b7364a40d4aaa][^key-0a566ec033372e8d6d43461d9ee41c44][^key-4240e4673dfa4a3a4a03318a193f81f8]
+## SCHEDULE 2 — Repeals[^c-2eded7a87e4d56587597a857e57b5762][^c-9a0206a80cb276373e0b7364a40d4aaa][^c-0a566ec033372e8d6d43461d9ee41c44][^c-4240e4673dfa4a3a4a03318a193f81f8]
 
 *Extent: E+W+S*
 
@@ -33,10 +33,10 @@ Section 57(2)
 
 ## Annotations
 
-[^key-2eded7a87e4d56587597a857e57b5762]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 1.10.2004 for specified purposes by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))
+[^c-2eded7a87e4d56587597a857e57b5762]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 1.10.2004 for specified purposes by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(c)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))
 
-[^key-9a0206a80cb276373e0b7364a40d4aaa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 31.12.2004 for specified purposes by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2004/3342/article/11), [12](https://www.legislation.gov.uk/uksi/2004/3342/article/12))
+[^c-9a0206a80cb276373e0b7364a40d4aaa]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 31.12.2004 for specified purposes by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2004/3342/article/11), [12](https://www.legislation.gov.uk/uksi/2004/3342/article/12))
 
-[^key-0a566ec033372e8d6d43461d9ee41c44]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 6.4.2005 for specified purposes by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 9(2)](https://www.legislation.gov.uk/uksi/2005/872/article/9/2), [19(2)](https://www.legislation.gov.uk/uksi/2005/872/article/19/2))
+[^c-0a566ec033372e8d6d43461d9ee41c44]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 6.4.2005 for specified purposes by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 9(2)](https://www.legislation.gov.uk/uksi/2005/872/article/9/2), [19(2)](https://www.legislation.gov.uk/uksi/2005/872/article/19/2))
 
-[^key-4240e4673dfa4a3a4a03318a193f81f8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/c)
+[^c-4240e4673dfa4a3a4a03318a193f81f8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2) in force at 1.10.2005 in so far as not already in force by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/c)

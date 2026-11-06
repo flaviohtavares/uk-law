@@ -72,7 +72,7 @@ shall be taken, in relation to any time on or after 18th July 1996, to have conf
 
 (9) Subsections (6) to (8) above shall be deemed to have come into force on 4th December 1996.
 
-(10)[^key-35a3bb71b075c602940d454bfc65dabe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-35a3bb71b075c602940d454bfc65dabe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In this section—
 
@@ -91,6 +91,6 @@ shall be taken, in relation to any time on or after 18th July 1996, to have conf
 
 [^c14707221]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-35a3bb71b075c602940d454bfc65dabe]: Textual amendment: [S. 47(10)](https://www.legislation.gov.uk/ukpga/1997/16/section/47/10) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/c); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-35a3bb71b075c602940d454bfc65dabe]: Textual amendment: [S. 47(10)](https://www.legislation.gov.uk/ukpga/1997/16/section/47/10) omitted (1.4.2010) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 65(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/65/c); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
 [^c14707241]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-8e0609d6faff5684d63746e9d5416f8a][^key-bde5d1457562745f078e1b2e69609265] In section 47C of the Employment Rights Act 1996 (right not to be subjected to detriment for taking leave for family and domestic reasons), after subsection (4) there is inserted—
+(1)[^c-8e0609d6faff5684d63746e9d5416f8a][^c-bde5d1457562745f078e1b2e69609265] In section 47C of the Employment Rights Act 1996 (right not to be subjected to detriment for taking leave for family and domestic reasons), after subsection (4) there is inserted—
 
 > (5) An agency worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by the temporary work agency or the hirer done on the ground that—
 >
@@ -45,7 +45,7 @@ summary: ''
 > - “hirer”;
 > - “temporary work agency”.
 
-(2)[^key-a89f595d36fd264df53118ea249f9530] In section 48 of that Act (complaints to employment tribunals)—
+(2)[^c-a89f595d36fd264df53118ea249f9530] In section 48 of that Act (complaints to employment tribunals)—
 
 - (a) in subsection (1), for “47C” there is substituted “ 47C(1) ”;
 - (b) after subsection (1A) there is inserted—
@@ -68,7 +68,7 @@ summary: ''
   > - “hirer”;
   > - “temporary work agency”.
 
-(3)[^key-a89f595d36fd264df53118ea249f9530] In section 49 of that Act (remedies in the case of complaints to an employment tribunal)—
+(3)[^c-a89f595d36fd264df53118ea249f9530] In section 49 of that Act (remedies in the case of complaints to an employment tribunal)—
 
 - (a) in subsection (1), for “under section 48” there is substituted “ under section 48(1), (1ZA), (1A) or (1B) ”;
 - (b) after subsection (1), there is inserted—
@@ -80,8 +80,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0609d6faff5684d63746e9d5416f8a]: Commencement: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/1) in force at 1.10.2014 for specified purposes by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
+[^c-8e0609d6faff5684d63746e9d5416f8a]: Commencement: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/1) in force at 1.10.2014 for specified purposes by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
 
-[^key-bde5d1457562745f078e1b2e69609265]: Commencement: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/1) in force at 5.4.2015 for specified purposes by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/e)
+[^c-bde5d1457562745f078e1b2e69609265]: Commencement: [S. 129(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/1) in force at 5.4.2015 for specified purposes by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(e)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/e)
 
-[^key-a89f595d36fd264df53118ea249f9530]: Commencement: [S. 129(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/3) in force at 1.10.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
+[^c-a89f595d36fd264df53118ea249f9530]: Commencement: [S. 129(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/3) in force at 1.10.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)

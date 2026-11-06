@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Requirements under section 77: undertakings[^key-ced1d83d3dca245683d839d4f5deddee]
+## SCHEDULE 9 — Requirements under section 77: undertakings[^c-ced1d83d3dca245683d839d4f5deddee]
 
 *Extent: E+W*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 77
 
-### Procedure[^key-ced1d83d3dca245683d839d4f5deddee]
+### Procedure[^c-ced1d83d3dca245683d839d4f5deddee]
 
-**1.**[^key-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Variation of terms[^key-ced1d83d3dca245683d839d4f5deddee]
+### Variation of terms[^c-ced1d83d3dca245683d839d4f5deddee]
 
-**3.**[^key-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Compliance certificates[^key-ced1d83d3dca245683d839d4f5deddee]
+### Compliance certificates[^c-ced1d83d3dca245683d839d4f5deddee]
 
-**4.**[^key-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Inaccurate, incomplete or misleading information[^key-ced1d83d3dca245683d839d4f5deddee]
+### Inaccurate, incomplete or misleading information[^c-ced1d83d3dca245683d839d4f5deddee]
 
-**6.**[^key-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ced1d83d3dca245683d839d4f5deddee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ced1d83d3dca245683d839d4f5deddee]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2012/7/schedule/9) omitted (1.1.2024) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/80/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5))
+[^c-ced1d83d3dca245683d839d4f5deddee]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2012/7/schedule/9) omitted (1.1.2024) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/80/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/1431/regulation/5))

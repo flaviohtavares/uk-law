@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Research into juries by or on behalf of the Scottish Ministers: duty to report[^key-6461cea16d58ba0d171d32e51042b6ed][^key-f17bec5f4c2338f00a2add3a46984423]
+## 68. Research into juries by or on behalf of the Scottish Ministers: duty to report[^c-6461cea16d58ba0d171d32e51042b6ed][^c-f17bec5f4c2338f00a2add3a46984423]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6461cea16d58ba0d171d32e51042b6ed]: Commencement: S. 68 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6461cea16d58ba0d171d32e51042b6ed]: Commencement: S. 68 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-f17bec5f4c2338f00a2add3a46984423]: Commencement: S. 68 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(e)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/e)
+[^c-f17bec5f4c2338f00a2add3a46984423]: Commencement: S. 68 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(e)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/e)

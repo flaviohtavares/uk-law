@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Guarantees in respect of payment[^key-8f5b05b4aa80e2704ef425d9c3deb08b]
+## 14. Guarantees in respect of payment[^c-8f5b05b4aa80e2704ef425d9c3deb08b]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ are in place which have been approved by the relevant planning authority.
 
 ## Annotations
 
-[^key-8f5b05b4aa80e2704ef425d9c3deb08b]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2014/2935/article/14) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-8f5b05b4aa80e2704ef425d9c3deb08b]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2014/2935/article/14) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

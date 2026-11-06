@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Amendments relating to payment rates[^key-f28ab6a8c72ce8daa7790772dfc9645f]
+## 122. Amendments relating to payment rates[^c-f28ab6a8c72ce8daa7790772dfc9645f]
 
 *Extent: E+W*
 
 In regulation 12(1)(a), for “£27,892” substitute “£28,673”.
 
-**123.**[^key-eeed17b1b3027a03edfd3d7d8b1c8691] In regulation 13(4) for “£11,836” substitute “£12,167”.
+**123.**[^c-eeed17b1b3027a03edfd3d7d8b1c8691] In regulation 13(4) for “£11,836” substitute “£12,167”.
 
 ## Annotations
 
-[^key-f28ab6a8c72ce8daa7790772dfc9645f]: Commencement: Reg. 122 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-f28ab6a8c72ce8daa7790772dfc9645f]: Commencement: Reg. 122 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-eeed17b1b3027a03edfd3d7d8b1c8691]: Commencement: Reg. 123 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-eeed17b1b3027a03edfd3d7d8b1c8691]: Commencement: Reg. 123 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

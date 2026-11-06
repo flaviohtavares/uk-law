@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Enforcement[^key-0c0da7a40af404d32eedc655ac04f706]
+## 34. Enforcement[^c-0c0da7a40af404d32eedc655ac04f706]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c0da7a40af404d32eedc655ac04f706]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/20/section/34) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-0c0da7a40af404d32eedc655ac04f706]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/20/section/34) in force at 5.12.2014 by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

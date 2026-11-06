@@ -24,7 +24,7 @@ summary: ''
 
 Regulations 2(1) and 3(5)
 
-### Part A — Sorbates, benzoates and p-hydroxybenzoates[^key-9082aeca08dbb920c4fa19427a7060b5]
+### Part A — Sorbates, benzoates and p-hydroxybenzoates[^c-9082aeca08dbb920c4fa19427a7060b5]
 
 <table>
 <thead>
@@ -117,7 +117,7 @@ Regulations 2(1) and 3(5)
 
 [^f00021][^f00022]
 
-### Part B — Sulphur dioxide and sulphites[^key-83461ac8dbc46642ca016af3187596a2]
+### Part B — Sulphur dioxide and sulphites[^c-83461ac8dbc46642ca016af3187596a2]
 
 <table>
 <thead>
@@ -209,7 +209,7 @@ Regulations 2(1) and 3(5)
 | Gelatin | 50 |
 | Vegetable- and cereal-protein-based meat, fish and crustacean analogues | 200 |
 
-### Part C — Other preservatives[^key-fea8ee84313b8c134601ed7d749ca306]
+### Part C — Other preservatives[^c-fea8ee84313b8c134601ed7d749ca306]
 
 | EC No. | Name | Food | Maximum level |
 | --- | --- | --- | --- |
@@ -253,7 +253,7 @@ Regulations 2(1) and 3(5)
 |  |  | *Christmas pudding*<br>Pre-packed bread | 1000 mg/kg expressed as propionic acid |
 | E 1105 | Lysozyme | Ripened cheese | *quantum satis* |
 
-### Part D — Other antioxidants[^key-d873625155a73d5cd0d59d19e3be0f46]
+### Part D — Other antioxidants[^c-d873625155a73d5cd0d59d19e3be0f46]
 
 | EC No. | Name | Food | Maximum level (mg/kg) |
 | --- | --- | --- | --- |
@@ -276,7 +276,7 @@ Regulations 2(1) and 3(5)
 
 ## Annotations
 
-[^key-9082aeca08dbb920c4fa19427a7060b5]: Commencement: Sch. 2 Pt. A in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-9082aeca08dbb920c4fa19427a7060b5]: Commencement: Sch. 2 Pt. A in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f01000]: Footnote: (<sup>1</sup>) Benzoic acid may be present in certain fermented products resulting from the fermentation process following good manufacturing practice.
 
@@ -284,7 +284,7 @@ Regulations 2(1) and 3(5)
 
 [^f00022]: Footnote: O.J. No. L84, 27.3.87, p. 1
 
-[^key-83461ac8dbc46642ca016af3187596a2]: Commencement: Sch. 2 Pt. B in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-83461ac8dbc46642ca016af3187596a2]: Commencement: Sch. 2 Pt. B in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00023]: Footnote: In edible parts
 
@@ -300,7 +300,7 @@ Regulations 2(1) and 3(5)
 
 [^f00029]: Footnote: O.J. No. L54, 5.3.79, p. 1
 
-[^key-fea8ee84313b8c134601ed7d749ca306]: Commencement: Sch. 2 Pt. C in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-fea8ee84313b8c134601ed7d749ca306]: Commencement: Sch. 2 Pt. C in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00030]: Footnote: This substance may be present naturally in certain cheeses as a result of fermentation processes
 
@@ -316,6 +316,6 @@ Regulations 2(1) and 3(5)
 
 [^f00036]: Footnote: Propionic acid and its salts may be present in certain fermented products resulting from the fermentation process following good manufacturing practice
 
-[^key-d873625155a73d5cd0d59d19e3be0f46]: Commencement: Sch. 2 Pt. D in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-d873625155a73d5cd0d59d19e3be0f46]: Commencement: Sch. 2 Pt. D in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
 
 [^f00037]: Footnote: When combinations of gallates, BHA and BHT are used, the individual levels must be reduced proportionally

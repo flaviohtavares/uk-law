@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.26. Application for warrant: general rules[^key-50c327d15ff09cc0747ac9d21f6b8d7e]
+## 47.26. Application for warrant: general rules[^c-50c327d15ff09cc0747ac9d21f6b8d7e]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50c327d15ff09cc0747ac9d21f6b8d7e]: Commencement: Rule 47.26 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-50c327d15ff09cc0747ac9d21f6b8d7e]: Commencement: Rule 47.26 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

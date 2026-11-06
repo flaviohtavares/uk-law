@@ -43,21 +43,21 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety in exercise of the powers conferred by sections 7(4) and (5) of the Misuse of Drugs Act 1971[^f00001] as adapted by section 7(9) of the Act and now vested in it[^f00002] and of every other power enabling it in that behalf and on the recommendation of the Advisory Council on the Misuse of Drugs, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-ad8320a3a1293d4f63874c4aa51cf177]
+## 1. Citation and commencement[^c-ad8320a3a1293d4f63874c4aa51cf177]
 
 This Order may be cited as the Misuse of Drugs (Designation) Order (Northern Ireland) 2001 and shall come into operation on 1st February 2002.
 
-## 2. Interpretation[^key-102a3688331b5e55b638e7b24215d063]
+## 2. Interpretation[^c-102a3688331b5e55b638e7b24215d063]
 
 The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to this Order as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Designation[^key-221d21842bf0029bc8ace76a703ecf40]
+## 3. Designation[^c-221d21842bf0029bc8ace76a703ecf40]
 
 (1) The controlled drugs specified in Part I of the Schedule to this Order are designated as drugs to which section 7(4) of the Misuse of Drugs Act 1971 applies.
 
 (2) Part II of the Schedule shall have effect for the purpose of specifying those controlled drugs which are excepted from Part I of that Schedule.
 
-## 4. Revocations[^key-9a8c253206d0e4fbeb8407ed4f7a5aab]
+## 4. Revocations[^c-9a8c253206d0e4fbeb8407ed4f7a5aab]
 
 The Misuse of Drugs (Designation) Order (Northern Ireland) 1987[^f00004], the Misuse of Drugs (Designation) (Variation) Order (Northern Ireland) 1991[^f00005], the Misuse of Drugs (Designation) (Variation) Order (Northern Ireland) 1995[^f00006] and the Misuse of Drugs (Designation) (Variation) Order (Northern Ireland) 1998[^f00007] are revoked.
 
@@ -75,7 +75,7 @@ Article 2
 
 ### Part I — Controlled Drugs to which section 7(4) of the Misuse of Drugs Act 1971 applies
 
-**1.**[^key-8ab927f308fb6e3844b244a2a22b4c00] The following substances and products, namely:—
+**1.**[^c-8ab927f308fb6e3844b244a2a22b4c00] The following substances and products, namely:—
 
 - (a) Bufotenine
   - Cannabinol
@@ -152,24 +152,24 @@ Article 2
   - (iv) by replacement of the 4-ethoxycarbonyl by any other alkoxycarbonyl or any alkoxyalkyl or acyloxy group;
   - (v) by formation of an N-oxide or of a quaternary base.
 
-**2.**[^key-f03256434412b6574908f88871326e5e] Any stereoisomeric form of a substance specified in paragraph 1 above.
+**2.**[^c-f03256434412b6574908f88871326e5e] Any stereoisomeric form of a substance specified in paragraph 1 above.
 
-**3.**[^key-607fa172fa9cb3ed0f71c09d3ad48622] Any ester or ether of a substance specified in paragraph 1 or 2 above.
+**3.**[^c-607fa172fa9cb3ed0f71c09d3ad48622] Any ester or ether of a substance specified in paragraph 1 or 2 above.
 
-**4.**[^key-316e05cbf2212f40a646fc775cd717e4] Any salt of a substance specified in any of paragraphs 1 to 3 above.
+**4.**[^c-316e05cbf2212f40a646fc775cd717e4] Any salt of a substance specified in any of paragraphs 1 to 3 above.
 
-**5.**[^key-262c5b1300d45002f8aa08758b503294] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4 above.
+**5.**[^c-262c5b1300d45002f8aa08758b503294] Any preparation or other product containing a substance or product specified in any of paragraphs 1 to 4 above.
 
 ### Part II — Controlled Drugs excepted from Part I
 
-**1.**[^key-f5ca8462bd3aaa281d8823d0cc4cc1ca] The compounds referred to in paragraph 1(*e*) of Part I of this Schedule are—
+**1.**[^c-f5ca8462bd3aaa281d8823d0cc4cc1ca] The compounds referred to in paragraph 1(*e*) of Part I of this Schedule are—
 
 - Alfentanil
 - Carfentanil
 - Lofentanil
 - Sufentanil
 
-**2.**[^key-ddf699a14e97a581f46edfb78b8213ec] The compounds referred to in paragraph 1(*f*) of Part I of this Schedule are—
+**2.**[^c-ddf699a14e97a581f46edfb78b8213ec] The compounds referred to in paragraph 1(*f*) of Part I of this Schedule are—
 
 - Allylprodine
 - Alphameprodine
@@ -195,15 +195,15 @@ Part II of the Schedule specifies certain compounds which are excepted from para
 
 [^f00002]: Footnote: *see* [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Art. 5(*a*)
 
-[^key-ad8320a3a1293d4f63874c4aa51cf177]: Commencement: Art. 1 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-ad8320a3a1293d4f63874c4aa51cf177]: Commencement: Art. 1 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-102a3688331b5e55b638e7b24215d063]: Commencement: Art. 2 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-102a3688331b5e55b638e7b24215d063]: Commencement: Art. 2 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-221d21842bf0029bc8ace76a703ecf40]: Commencement: Art. 3 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-221d21842bf0029bc8ace76a703ecf40]: Commencement: Art. 3 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-9a8c253206d0e4fbeb8407ed4f7a5aab]: Commencement: Art. 4 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-9a8c253206d0e4fbeb8407ed4f7a5aab]: Commencement: Art. 4 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 66](https://www.legislation.gov.uk/nisr/1987/66)
 
@@ -213,16 +213,16 @@ Part II of the Schedule specifies certain compounds which are excepted from para
 
 [^f00007]: Footnote: [S.R. 1998 No. 129](https://www.legislation.gov.uk/nisr/1998/129)
 
-[^key-8ab927f308fb6e3844b244a2a22b4c00]: Commencement: Sch. 1 Pt. I para. 1 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-8ab927f308fb6e3844b244a2a22b4c00]: Commencement: Sch. 1 Pt. I para. 1 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-f03256434412b6574908f88871326e5e]: Commencement: Sch. 1 Pt. I para. 2 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-f03256434412b6574908f88871326e5e]: Commencement: Sch. 1 Pt. I para. 2 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-607fa172fa9cb3ed0f71c09d3ad48622]: Commencement: Sch. 1 para. 3 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-607fa172fa9cb3ed0f71c09d3ad48622]: Commencement: Sch. 1 para. 3 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-316e05cbf2212f40a646fc775cd717e4]: Commencement: Sch. 1 para. 4 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-316e05cbf2212f40a646fc775cd717e4]: Commencement: Sch. 1 para. 4 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-262c5b1300d45002f8aa08758b503294]: Commencement: Sch. 1 para. 5 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-262c5b1300d45002f8aa08758b503294]: Commencement: Sch. 1 para. 5 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-f5ca8462bd3aaa281d8823d0cc4cc1ca]: Commencement: Sch. 1 Pt. II para. 1 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-f5ca8462bd3aaa281d8823d0cc4cc1ca]: Commencement: Sch. 1 Pt. II para. 1 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
 
-[^key-ddf699a14e97a581f46edfb78b8213ec]: Commencement: Sch. 1 Pt. II para. 2 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)
+[^c-ddf699a14e97a581f46edfb78b8213ec]: Commencement: Sch. 1 Pt. II para. 2 in operation at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1)

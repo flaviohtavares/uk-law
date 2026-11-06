@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Effect of disqualification[^key-572023b470fbcaf17af371df6a8ab04c][^key-7d26eb119f96d29aaed031ea82934383]
+## 57. Effect of disqualification[^c-572023b470fbcaf17af371df6a8ab04c][^c-7d26eb119f96d29aaed031ea82934383]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-572023b470fbcaf17af371df6a8ab04c]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2010/16/section/57) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-572023b470fbcaf17af371df6a8ab04c]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2010/16/section/57) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-7d26eb119f96d29aaed031ea82934383]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2010/16/section/57) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-7d26eb119f96d29aaed031ea82934383]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2010/16/section/57) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

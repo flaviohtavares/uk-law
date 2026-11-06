@@ -24,14 +24,14 @@ Section 7
 
 ### Introduction
 
-**1.**[^key-4254f3d4f7076d8c5c56d44ab2b6f10b] This Schedule—
+**1.**[^c-4254f3d4f7076d8c5c56d44ab2b6f10b] This Schedule—
 
 - (a) sets out the circumstances in which a person (the “pensioner”) is entitled to an inherited amount for the purpose of section 7, and
 - (b) determines that amount.
 
 ### Dead spouse or civil partner in old state pension system etc
 
-**2.**[^key-54b05e71bc18a44da8681bc1df87f9d8] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**2.**[^c-54b05e71bc18a44da8681bc1df87f9d8] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the spouse or civil partner died before 6 April 2016,
@@ -40,7 +40,7 @@ Section 7
 
 (2) The inherited amount is equal to the weekly rate at which that Category B retirement pension would have been payable on the day on which the pensioner reached pensionable age if any element of the rate attributable to the basic pension were ignored.
 
-**3.**[^key-5adc968e47376d2c411833d1afbe73c2] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**3.**[^c-5adc968e47376d2c411833d1afbe73c2] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the spouse or civil partner reached pensionable age before 6 April 2016 but died on or after that date,
@@ -49,7 +49,7 @@ Section 7
 
 (2) The inherited amount is equal to the weekly rate at which that Category B retirement pension would have been payable on the day on which the pensioner reached pensionable age if section 48BB(8) and (9) of the Contributions and Benefits Act were ignored.
 
-**4.**[^key-d46e0213b615204bcf83ee4c7d77723e] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**4.**[^c-d46e0213b615204bcf83ee4c7d77723e] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the spouse or civil partner reached pensionable age before 6 April 2016 but died on or after that date,
@@ -60,7 +60,7 @@ Section 7
 
 ### Dead spouse or civil partner in new state pension system
 
-**5.**[^key-2c7eae21b58e2908665d9cdfb0038a39] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**5.**[^c-2c7eae21b58e2908665d9cdfb0038a39] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the pensioner was over pensionable age when the spouse or civil partner died,
@@ -69,7 +69,7 @@ Section 7
 
 (2) The inherited amount is half of the amount by which the transitional rate of the state pension for the spouse or civil partner exceeded the full rate of the state pension immediately before the death.
 
-**6.**[^key-0614d8436e9559822f6184f89bdf60b8] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**6.**[^c-0614d8436e9559822f6184f89bdf60b8] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the pensioner was under pensionable age when the spouse or civil partner died,
@@ -79,7 +79,7 @@ Section 7
 
 (2) The inherited amount is half of the amount by which the transitional rate of the state pension for the spouse or civil partner would have exceeded the full rate of the state pension if he or she had been alive on the day on which the pensioner reached pensionable age.
 
-**7.**[^key-97b3c2d20ec769204b234f3e438b34c7] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**7.**[^c-97b3c2d20ec769204b234f3e438b34c7] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the pensioner was over pensionable age when the spouse or civil partner died,
@@ -88,7 +88,7 @@ Section 7
 
 (2) The inherited amount is half of the amount by which the transitional rate of the state pension for the spouse or civil partner would have exceeded the full rate of the state pension if he or she had reached pensionable age on the day of the death.
 
-**8.**[^key-55fda64b6f9f4d98e24bea1909b1a96e] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
+**8.**[^c-55fda64b6f9f4d98e24bea1909b1a96e] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited amount under this paragraph if—
 
 - (a) the marriage took place or the civil partnership was formed before 6 April 2016,
 - (b) the pensioner was under pensionable age when the spouse or civil partner died,
@@ -102,27 +102,27 @@ Section 7
 
 ### Supplementary
 
-**9.**[^key-bea0e21d1ec83fce907416e7ca3e6e14] When determining entitlement to, or calculating, an inherited amount under this Schedule based on entitlement to an old state pension or a state pension under this Part of this Act ignore—
+**9.**[^c-bea0e21d1ec83fce907416e7ca3e6e14] When determining entitlement to, or calculating, an inherited amount under this Schedule based on entitlement to an old state pension or a state pension under this Part of this Act ignore—
 
 - (a) any requirement to make a claim for that pension;
 - (b) any provision suspending payment of, or disqualifying a person from receiving, any amount of that pension.
 
 ## Annotations
 
-[^key-4254f3d4f7076d8c5c56d44ab2b6f10b]: Commencement: Sch. 3 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-4254f3d4f7076d8c5c56d44ab2b6f10b]: Commencement: Sch. 3 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-54b05e71bc18a44da8681bc1df87f9d8]: Commencement: Sch. 3 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-54b05e71bc18a44da8681bc1df87f9d8]: Commencement: Sch. 3 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-5adc968e47376d2c411833d1afbe73c2]: Commencement: Sch. 3 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-5adc968e47376d2c411833d1afbe73c2]: Commencement: Sch. 3 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-d46e0213b615204bcf83ee4c7d77723e]: Commencement: Sch. 3 para. 4 in force at 6.4.2016, see s. 56(1)(4)
+[^c-d46e0213b615204bcf83ee4c7d77723e]: Commencement: Sch. 3 para. 4 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2c7eae21b58e2908665d9cdfb0038a39]: Commencement: Sch. 3 para. 5 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2c7eae21b58e2908665d9cdfb0038a39]: Commencement: Sch. 3 para. 5 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-0614d8436e9559822f6184f89bdf60b8]: Commencement: Sch. 3 para. 6 in force at 6.4.2016, see s. 56(1)(4)
+[^c-0614d8436e9559822f6184f89bdf60b8]: Commencement: Sch. 3 para. 6 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-97b3c2d20ec769204b234f3e438b34c7]: Commencement: Sch. 3 para. 7 in force at 6.4.2016, see s. 56(1)(4)
+[^c-97b3c2d20ec769204b234f3e438b34c7]: Commencement: Sch. 3 para. 7 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-55fda64b6f9f4d98e24bea1909b1a96e]: Commencement: Sch. 3 para. 8 in force at 6.4.2016, see s. 56(1)(4)
+[^c-55fda64b6f9f4d98e24bea1909b1a96e]: Commencement: Sch. 3 para. 8 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-bea0e21d1ec83fce907416e7ca3e6e14]: Commencement: Sch. 3 para. 9 in force at 6.4.2016, see s. 56(1)(4)
+[^c-bea0e21d1ec83fce907416e7ca3e6e14]: Commencement: Sch. 3 para. 9 in force at 6.4.2016, see s. 56(1)(4)

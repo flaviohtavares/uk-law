@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person with appeal rights (as provided for in this regulation) may appeal to the Secretary of State against the following decisions by NHS England[^key-fedf3951d93bcf656ad03378f887d7d5]—
+(1) A person with appeal rights (as provided for in this regulation) may appeal to the Secretary of State against the following decisions by NHS England[^c-fedf3951d93bcf656ad03378f887d7d5]—
 
 - (a) a decision under regulation 48(5)(b) to require a dispensing doctor to undertake to provide pharmaceutical services, in respect of which the only person with appeal rights is the dispensing doctor;
 - (b) a decision under regulation 50 requiring the termination of arrangements to provide pharmaceutical services, subject to any postponement of the discontinuation, in respect of which the only people with appeal rights are—
   - (i) the dispensing doctor who is being required to terminate arrangements, subject to any postponement of the discontinuation, and
-  - (ii) if there is any postponement of the discontinuation, the NHS pharmacist listed in relation to any pharmacy premises, the presence of which, or the choice of a patient to obtain services at or[^key-9a357398a2f8fe839b2257db92eef866] from which, led to the determination by NHS England;
+  - (ii) if there is any postponement of the discontinuation, the NHS pharmacist listed in relation to any pharmacy premises, the presence of which, or the choice of a patient to obtain services at or[^c-9a357398a2f8fe839b2257db92eef866] from which, led to the determination by NHS England;
 - (c) a decision to refuse an application for—
   - (i) outline consent under regulation 51,
   - (ii) premises approval under regulation 51, 54 or 55, or
@@ -79,6 +79,6 @@ and if the appeal against D2 is successful, P2 is a person with third party appe
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-9a357398a2f8fe839b2257db92eef866]: Textual amendment: Words in [reg. 63(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/63/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2025/989/regulation/40)
+[^c-9a357398a2f8fe839b2257db92eef866]: Textual amendment: Words in [reg. 63(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/63/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2025/989/regulation/40)

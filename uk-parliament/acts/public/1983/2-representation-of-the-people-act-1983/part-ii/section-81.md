@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Return as to election expenses.[^c14493811][^c14493821][^c14493841][^c14493832][^key-a74e98e474fb049a86157667748ff177][^c14479931]
+## 81. Return as to election expenses.[^c14493811][^c14493821][^c14493841][^c14493832][^c-a74e98e474fb049a86157667748ff177][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 *Extent: S*
 
-(3B)[^key-00a9df38fd76fbe362ac9ada341e6f97] In the application of paragraph (c) of subsection (3A) in relation to a local government election in Scotland, any regulations under that paragraph are to be made by the Scottish Ministers and such regulations are subject to the affirmative procedure.
+(3B)[^c-00a9df38fd76fbe362ac9ada341e6f97] In the application of paragraph (c) of subsection (3A) in relation to a local government election in Scotland, any regulations under that paragraph are to be made by the Scottish Ministers and such regulations are subject to the affirmative procedure.
 
 (4)[^c14493911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -79,7 +79,7 @@ summary: ''
 
 (10A)[^c14493971] The Electoral Commission may, by regulations, prescribe a form of return which may be used for the purposes of making any (or any description of) return required by this section.
 
-(10B)[^key-b488f400eb701c441789289ce596d318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10B)[^c-b488f400eb701c441789289ce596d318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11)[^c14493981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,7 +93,7 @@ summary: ''
 
 [^c14493832]: Modification: S. 81 applied (with modifications) (1.8.2001) by [S.I. 2001/2599](https://www.legislation.gov.uk/uksi/2001/2599), [art. 3](https://www.legislation.gov.uk/uksi/2001/2599/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2599/schedule/1) (as substituted (10.2.2009) by [S.I. 2009/256](https://www.legislation.gov.uk/uksi/2009/256), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/256/article/1/2), [3](https://www.legislation.gov.uk/uksi/2009/256/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/256/schedule/1))
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
@@ -115,7 +115,7 @@ summary: ''
 
 [^c19429301]: Textual amendment: S. 81(3A) inserted (1.1.2007 for E.W.S. and 1.7.2008 for N.I.) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 26](https://www.legislation.gov.uk/ukpga/2006/22/section/26), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) (with [s. 26(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/26/2)); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(l)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14/l) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2](https://www.legislation.gov.uk/uksi/2008/1316/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1316/article/4)
 
-[^key-00a9df38fd76fbe362ac9ada341e6f97]: Textual amendment: S. 81(3B) inserted (S.) (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 20(3)(a)](https://www.legislation.gov.uk/asp/2020/12/section/20/3/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-00a9df38fd76fbe362ac9ada341e6f97]: Textual amendment: S. 81(3B) inserted (S.) (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 20(3)(a)](https://www.legislation.gov.uk/asp/2020/12/section/20/3/a), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
 [^c14493911]: Textual amendment: S. 81(4) repealed (16.2.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [ss. 138(1)(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/138/1/2), [158(2)(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/158/2/3), [Sch. 18 para. 7(5)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/18/paragraph/7/5), [Sch. 22](https://www.legislation.gov.uk/ukpga/2000/41/schedule/22) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/I) (subject to transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II))
 
@@ -133,6 +133,6 @@ summary: ''
 
 [^c14493971]: Textual amendment: S. 81(10A) inserted (1.7.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 138(1)(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/138/1/2), [Sch. 18 para. 7(7)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/18/paragraph/7/7) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/I) (subject to transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II))
 
-[^key-b488f400eb701c441789289ce596d318]: Textual amendment: S. 81(10B) repealed (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 20(3)(b)](https://www.legislation.gov.uk/asp/2020/12/section/20/3/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-b488f400eb701c441789289ce596d318]: Textual amendment: S. 81(10B) repealed (29.9.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 20(3)(b)](https://www.legislation.gov.uk/asp/2020/12/section/20/3/b), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
 [^c14493981]: Textual amendment: S. 81(11) repealed (1.7.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [ss. 138(1)(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/138/1/2), [158(2)(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/158/2/3), [Sch. 18 para. 7(8)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/18/paragraph/7/8), [Sch. 22](https://www.legislation.gov.uk/ukpga/2000/41/schedule/22) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/I) (subject to transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II))

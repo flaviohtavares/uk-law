@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Additional information in statements provided in relation to certain fixed-sum credit agreements[^key-92748cc49eba4674b1ddf54c2b9f3102]
+## 12. Additional information in statements provided in relation to certain fixed-sum credit agreements[^c-92748cc49eba4674b1ddf54c2b9f3102]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-92748cc49eba4674b1ddf54c2b9f3102]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/1167/regulation/12) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
+[^c-92748cc49eba4674b1ddf54c2b9f3102]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/1167/regulation/12) in force at 1.10.2008, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/1167/regulation/1/3)
 
 [^M_F_9bbb517e-ebba-4f91-f9bb-34ea3fd929e4]: Textual amendment: Word in reg. 12(2) substituted (1.10.2008) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2008 (S.I. 2008/1751)](https://www.legislation.gov.uk/uksi/2008/1751), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1751/regulation/1), [2(e)(i)](https://www.legislation.gov.uk/uksi/2008/1751/regulation/2/e/i)
 

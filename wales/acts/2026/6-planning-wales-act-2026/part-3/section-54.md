@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Pre-application services: records and statement of services[^key-e0e718b5ed21236779ef4694cf61ef69]
+## 54. Pre-application services: records and statement of services[^c-e0e718b5ed21236779ef4694cf61ef69]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e718b5ed21236779ef4694cf61ef69]: Commencement: S. 54 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e0e718b5ed21236779ef4694cf61ef69]: Commencement: S. 54 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

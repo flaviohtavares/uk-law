@@ -100,7 +100,7 @@ it shall state the reason and cause it to be entered in the record of the procee
 - (a) a person of not less than sixteen but under twenty-one years of age has been guilty of any default for which the court could, if he were aged twenty-one years or over, commit him to prison; and
 - (b) the court considers that he should serve a term of detention,
 
-the court may, subject to Article 46C[^key-1a1402971b38cdaf4c38a82092664cf2] of the Criminal Justice (Children) (Northern Ireland) Order 1998, order him to be detained in a young offenders centre for a term not exceeding that for which, if he were aged twenty-one years or over, he could be committed to prison.
+the court may, subject to Article 46C[^c-1a1402971b38cdaf4c38a82092664cf2] of the Criminal Justice (Children) (Northern Ireland) Order 1998, order him to be detained in a young offenders centre for a term not exceeding that for which, if he were aged twenty-one years or over, he could be committed to prison.
 
 (4) Where a court orders a person to be detained in a young offenders centre, it may order that the term of that detention shall commence on the expiration of any other term of detention ordered by that or any other court.
 
@@ -239,13 +239,13 @@ and a court shall make an order under paragraph ( *a*) unless the court is of op
 
 #### 21. Discovery of further offences.
 
-(1) If an offender is convicted in Northern Ireland of an offence punishable with imprisonment in the case of a person aged twenty-one years or over[^c16953091], committed during the operational period of a suspended sentence or order for detention and it appears to a justice of the peace [^key-bb20e53f32adcf15e5dec1b8d8dd2556]... that he has not been dealt with in respect of the suspended sentence or order for detention, the justice may issue a summons requiring the offender to appear at the place and time specified therein, or may, subject to the following provisions of this section, issue a warrant for his arrest.
+(1) If an offender is convicted in Northern Ireland of an offence punishable with imprisonment in the case of a person aged twenty-one years or over[^c16953091], committed during the operational period of a suspended sentence or order for detention and it appears to a justice of the peace [^c-bb20e53f32adcf15e5dec1b8d8dd2556]... that he has not been dealt with in respect of the suspended sentence or order for detention, the justice may issue a summons requiring the offender to appear at the place and time specified therein, or may, subject to the following provisions of this section, issue a warrant for his arrest.
 
 (2)[^c16953121] A summons under this section shall not be issued except on complaint; and a warrant under this section shall not be issued except on complaint in writing and on oath.
 
 (2A) Subsection (2) does not apply to a summons or warrant issued (by virtue of section 9(12) of the Justice (Northern Ireland) Act 2002) by a judge of the Crown Court acting in consequence of a notice under section 20(3) of this Act.
 
-(3) A summons or warrant issued under this section shall direct the offender to appear or to be brought before the court by which the suspended sentence or order for detention was passed or made; but if a warrant is so issued requiring him to be brought before \[[^c16953111] the Crown Court\] and he cannot forthwith be brought before that court because the court is not being held, the warrant shall have effect as if it directed him to be brought before a magistrates' court [^key-b9f64393eed85cb853a9eb6f41825271]... and the latter court shall commit him in custody or on bail to \[[^c16953111] the Crown Court\] …[^c16953161].
+(3) A summons or warrant issued under this section shall direct the offender to appear or to be brought before the court by which the suspended sentence or order for detention was passed or made; but if a warrant is so issued requiring him to be brought before \[[^c16953111] the Crown Court\] and he cannot forthwith be brought before that court because the court is not being held, the warrant shall have effect as if it directed him to be brought before a magistrates' court [^c-b9f64393eed85cb853a9eb6f41825271]... and the latter court shall commit him in custody or on bail to \[[^c16953111] the Crown Court\] …[^c16953161].
 
 ### Miscellaneous
 
@@ -259,14 +259,14 @@ No person shall be sentenced by a court to corporal punishment, by whatever name
 
 *Subs. (1) rep. by 1978 c. 23*
 
-(2) The length of any sentence of imprisonment or term of detention in a young offenders centre or sentence of detention under Article[^c21311051] 13A(6),[^key-4b9a75e443fd7643bd95e3d82d6c9d3b] 14(5) or 15A(5)[^key-138a04849123bdd66fdf040c04e8d411] of the Criminal Justice (Northern Ireland) Order 2008 imposed on or ordered in relation to an offender by a court shall be treated as reduced by any relevant period, but where he[^c16953171] was previously subject to a probation order , a community service order[^c16953191], an order for conditional discharge or a suspended sentence or order for detention in respect of that offence, any such period falling before the order was made or the suspended sentence or order for detention was passed or made shall be disregarded for the purposes of this section.
+(2) The length of any sentence of imprisonment or term of detention in a young offenders centre or sentence of detention under Article[^c21311051] 13A(6),[^c-4b9a75e443fd7643bd95e3d82d6c9d3b] 14(5) or 15A(5)[^c-138a04849123bdd66fdf040c04e8d411] of the Criminal Justice (Northern Ireland) Order 2008 imposed on or ordered in relation to an offender by a court shall be treated as reduced by any relevant period, but where he[^c16953171] was previously subject to a probation order , a community service order[^c16953191], an order for conditional discharge or a suspended sentence or order for detention in respect of that offence, any such period falling before the order was made or the suspended sentence or order for detention was passed or made shall be disregarded for the purposes of this section.
 
 (2A) In subsection (2) “relevant period” means—
 
 - (a) any period during which the offender was in police detention in connection with the offence for which the sentence was passed; or
 - (b) any period during which he was in custody—
   - (i) by reason only of having been committed to custody by an order of a court made in connection with any proceedings relating to that sentence or the offence for which it was passed or any proceedings from which those proceedings arose; or
-  - (ii) by reason of his having been so committed and having been concurrently detained otherwise than by order of a court; or[^key-078eb7bec62d95579d8aae7b0f4766ea]
+  - (ii) by reason of his having been so committed and having been concurrently detained otherwise than by order of a court; or[^c-078eb7bec62d95579d8aae7b0f4766ea]
 - (c) any period during which he was in custody in a category 1 territory with a view to his being extradited to the United Kingdom to be tried or sentenced for that offence (and not for any other reason).
 
 In paragraph (c) “**category 1 territory**” means a territory designated under the Extradition Act 2003 for the purposes of Part 1 of that Act.
@@ -384,7 +384,7 @@ For the purpose of all enactments and instruments made under enactments relating
 
 [^c16952581]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-1a1402971b38cdaf4c38a82092664cf2]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/apni/1968/29/section/5/3) substituted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 30(6)](https://www.legislation.gov.uk/nia/2016/21/section/30/6), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 30(12)](https://www.legislation.gov.uk/nia/2016/21/section/30/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-1a1402971b38cdaf4c38a82092664cf2]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/apni/1968/29/section/5/3) substituted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 30(6)](https://www.legislation.gov.uk/nia/2016/21/section/30/6), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 30(12)](https://www.legislation.gov.uk/nia/2016/21/section/30/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
 
 [^c16952621]: Textual amendment: [2005 NI 15](https://www.legislation.gov.uk/2005/ni15)
 
@@ -418,27 +418,27 @@ For the purpose of all enactments and instruments made under enactments relating
 
 [^c16953091]: Textual amendment: [1989 NI 15](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-bb20e53f32adcf15e5dec1b8d8dd2556]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/apni/1968/29/section/21/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 61(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/61/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bb20e53f32adcf15e5dec1b8d8dd2556]: Textual amendment: Words in [s. 21(1)](https://www.legislation.gov.uk/apni/1968/29/section/21/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 61(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/61/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16953121]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
 [^c16953111]: Textual amendment: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-b9f64393eed85cb853a9eb6f41825271]: Textual amendment: Words in [s. 21(3)](https://www.legislation.gov.uk/apni/1968/29/section/21/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 61(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/61/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-b9f64393eed85cb853a9eb6f41825271]: Textual amendment: Words in [s. 21(3)](https://www.legislation.gov.uk/apni/1968/29/section/21/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 61(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/61/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16953161]: Textual amendment: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23)
 
 [^c21311051]: Textual amendment: Words in s. 26(2) inserted (15.5.2009) by [Criminal Justice (Northern Ireland) Order 2008 (Consequential Provision) Order 2009 (S.R. 2009/158)](https://www.legislation.gov.uk/nisr/2009/158), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/158/article/2/2)
 
-[^key-4b9a75e443fd7643bd95e3d82d6c9d3b]: Textual amendment: Word in [s. 26(2)](https://www.legislation.gov.uk/apni/1968/29/section/26/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 61](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/61)
+[^c-4b9a75e443fd7643bd95e3d82d6c9d3b]: Textual amendment: Word in [s. 26(2)](https://www.legislation.gov.uk/apni/1968/29/section/26/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 61](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/61)
 
-[^key-138a04849123bdd66fdf040c04e8d411]: Textual amendment: Words in s. 26(2) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 67](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/67)
+[^c-138a04849123bdd66fdf040c04e8d411]: Textual amendment: Words in s. 26(2) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 67](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/67)
 
 [^c16953171]: Textual amendment: [1989 NI 12](https://www.legislation.gov.uk/nisi/1989)
 
 [^c16953191]: Textual amendment: [1980 NI 6](https://www.legislation.gov.uk/nisi/1980)
 
-[^key-078eb7bec62d95579d8aae7b0f4766ea]: Textual amendment: Words in s. 26(2A) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 173(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/173/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(r)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/r)
+[^c-078eb7bec62d95579d8aae7b0f4766ea]: Textual amendment: Words in s. 26(2A) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 173(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/173/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(r)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/r)
 
 [^c16953231]: Textual amendment: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11)
 

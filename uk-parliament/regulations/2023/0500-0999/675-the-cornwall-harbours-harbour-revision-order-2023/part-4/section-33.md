@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Publication of general directions[^key-297b26c3ab1706858e8d5f87eac1025d]
+## 33. Publication of general directions[^c-297b26c3ab1706858e8d5f87eac1025d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-297b26c3ab1706858e8d5f87eac1025d]: Commencement: Art. 33 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-297b26c3ab1706858e8d5f87eac1025d]: Commencement: Art. 33 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

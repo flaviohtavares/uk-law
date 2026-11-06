@@ -29,7 +29,7 @@ summary: ''
 - (c) the payment of costs or expenses incurred—
   - (i) in connection with a claim that a person is subject to a liability to which the insurance relates, or
   - (ii) in connection with any proceedings relating to or arising out of a claim that a person is subject to a liability to which the insurance relates,
-- (ca)[^key-77ba3c5799b158da58c725362bbbebb4] the payment of costs or expenses incurred in connection with an employee giving evidence about matters related to the employee's employment in, or for the purposes of—
+- (ca)[^c-77ba3c5799b158da58c725362bbbebb4] the payment of costs or expenses incurred in connection with an employee giving evidence about matters related to the employee's employment in, or for the purposes of—
   - (i) a proceeding or other process (whether or not involving the employee), or
   - (ii) an investigation (whether or not likely to lead to any proceeding or other process involving the employee),
 - (cb) the payment of any costs or expenses incurred in connection with a proceeding or other process, or an investigation, in which—
@@ -39,7 +39,7 @@ summary: ''
   are being or are likely to be considered,
 - (d) the indemnification of an employer against loss from a payment made by the employer to an employee in respect of—
   - (i) a liability related to the employment, or
-  - (ii) any costs or expenses incurred as mentioned in paragraph (c) , (ca) or (cb)[^key-0e6ec2a88f0ca57a8b85309843a09826].
+  - (ii) any costs or expenses incurred as mentioned in paragraph (c) , (ca) or (cb)[^c-0e6ec2a88f0ca57a8b85309843a09826].
 
 (3) Condition B is that—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77ba3c5799b158da58c725362bbbebb4]: Textual amendment: S. 349(2)(ca)(cb) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/3/a)
+[^c-77ba3c5799b158da58c725362bbbebb4]: Textual amendment: S. 349(2)(ca)(cb) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/3/a)
 
-[^key-0e6ec2a88f0ca57a8b85309843a09826]: Textual amendment: Words in s. 349(2)(d) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/3/b)
+[^c-0e6ec2a88f0ca57a8b85309843a09826]: Textual amendment: Words in s. 349(2)(d) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/3/b)

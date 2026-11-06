@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Termination of disqualification order[^key-c54d3ecadf4109a290225b860d678f67][^key-ce7c9fd490621c52c25bea1f705e76e7]
+## 68. Termination of disqualification order[^c-c54d3ecadf4109a290225b860d678f67][^c-ce7c9fd490621c52c25bea1f705e76e7]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c54d3ecadf4109a290225b860d678f67]: Commencement: S. 68 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-c54d3ecadf4109a290225b860d678f67]: Commencement: S. 68 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ce7c9fd490621c52c25bea1f705e76e7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/32/section/68) in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-ce7c9fd490621c52c25bea1f705e76e7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/32/section/68) in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Late payment interest: supplementary[^key-6c9951a3d1a11ae213e0212c4ab1f41e][^key-a1cf3e9e852f0069b2fdf178935d9d63]
+## 158. Late payment interest: supplementary[^c-6c9951a3d1a11ae213e0212c4ab1f41e][^c-a1cf3e9e852f0069b2fdf178935d9d63]
 
 *Extent: E+W*
 
-(1) This section applies for the purposes of sections 157 , 157A and 157B[^key-86b58ea9513cfd433ae40f2ac370f1ba].
+(1) This section applies for the purposes of sections 157 , 157A and 157B[^c-86b58ea9513cfd433ae40f2ac370f1ba].
 
 (2) Late payment interest is not payable on late payment interest.
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6c9951a3d1a11ae213e0212c4ab1f41e]: Commencement: S. 158 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-6c9951a3d1a11ae213e0212c4ab1f41e]: Commencement: S. 158 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-a1cf3e9e852f0069b2fdf178935d9d63]: Textual amendment: Ss. 157, 157A, 158 substituted (25.1.2018) for ss. 157, 158 by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 58](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/58); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
+[^c-a1cf3e9e852f0069b2fdf178935d9d63]: Textual amendment: Ss. 157, 157A, 158 substituted (25.1.2018) for ss. 157, 158 by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 58](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/58); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
 
-[^key-86b58ea9513cfd433ae40f2ac370f1ba]: Textual amendment: Words in [s. 158(1)](https://www.legislation.gov.uk/anaw/2016/6/section/158/1) substituted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 38](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/38)
+[^c-86b58ea9513cfd433ae40f2ac370f1ba]: Textual amendment: Words in [s. 158(1)](https://www.legislation.gov.uk/anaw/2016/6/section/158/1) substituted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 38](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/38)

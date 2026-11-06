@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Withdrawal of sanction notices[^key-63cd3c1158ba4dba3104867628150905]
+## 123. Withdrawal of sanction notices[^c-63cd3c1158ba4dba3104867628150905]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63cd3c1158ba4dba3104867628150905]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2023/52/section/123) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-63cd3c1158ba4dba3104867628150905]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2023/52/section/123) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

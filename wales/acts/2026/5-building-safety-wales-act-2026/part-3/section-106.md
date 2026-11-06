@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Authorised officers: offences[^key-a25ea51d1ed198eaba207cd5dee6cfd8]
+## 106. Authorised officers: offences[^c-a25ea51d1ed198eaba207cd5dee6cfd8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a25ea51d1ed198eaba207cd5dee6cfd8]: Commencement: S. 106 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a25ea51d1ed198eaba207cd5dee6cfd8]: Commencement: S. 106 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

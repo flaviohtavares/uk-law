@@ -38,8 +38,8 @@ summary: ''
 > - “**practitioner**” means a person included in an ophthalmic list or a pharmaceutical list, and
 > - “**specified**” means specified in a notice under paragraph (a) of subsection (1).
 
-(2)[^key-6ef676f2301fc8af86ef3aaf40319d19] In section 107(9) of that Act, after “included in” insert “ an ophthalmic list or ”.
+(2)[^c-6ef676f2301fc8af86ef3aaf40319d19] In section 107(9) of that Act, after “included in” insert “ an ophthalmic list or ”.
 
 ## Annotations
 
-[^key-6ef676f2301fc8af86ef3aaf40319d19]: Commencement: [S. 31(2)](https://www.legislation.gov.uk/ukpga/2009/21/section/31/2) in force at 26.9.2023 by [S.I. 2023/1039](https://www.legislation.gov.uk/wsi/2023/1039), [art. 2](https://www.legislation.gov.uk/wsi/2023/1039/article/2)
+[^c-6ef676f2301fc8af86ef3aaf40319d19]: Commencement: [S. 31(2)](https://www.legislation.gov.uk/ukpga/2009/21/section/31/2) in force at 26.9.2023 by [S.I. 2023/1039](https://www.legislation.gov.uk/wsi/2023/1039), [art. 2](https://www.legislation.gov.uk/wsi/2023/1039/article/2)

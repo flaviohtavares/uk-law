@@ -188,9 +188,9 @@ Section 145
 
 > Judge of the Supreme Court
 
-#### ...[^key-99e56180b853a17c97192355560420be]
+#### ...[^c-99e56180b853a17c97192355560420be]
 
-**25.**[^key-99e56180b853a17c97192355560420be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-99e56180b853a17c97192355560420be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Justices of the Peace Act 1997 (c. 25)
 
@@ -201,7 +201,7 @@ Section 145
 
 #### Police Act 1997 (c. 50)
 
-**27.**[^key-943f556ab44545f5b439ca7d50d3ac5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-943f556ab44545f5b439ca7d50d3ac5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Special Immigration Appeals Commission Act 1997 (c. 68)
 
@@ -217,8 +217,8 @@ Section 145
 
 (2) In each of—
 
-- (a)[^key-25b2fe86ce13d8f69566f6298ea71059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-25b2fe86ce13d8f69566f6298ea71059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-25b2fe86ce13d8f69566f6298ea71059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-25b2fe86ce13d8f69566f6298ea71059] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) paragraphs 1(1)(a) and 2(2) of Schedule 3 (the Tribunal),
 
 for “the Appellate Jurisdiction Act 1876)” substitute “ Part 3 of the Constitutional Reform Act 2005) or is or has been a member of the Judicial Committee of the Privy Council ”.
@@ -265,28 +265,28 @@ for “the Appellate Jurisdiction Act 1876)” substitute “ Part 3 of the Cons
 
 **Not yet in force.**
 
-**36.**[^key-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Justice (Northern Ireland) Act 2002 (c. 26)
 
 **Not yet in force.**
 
-**37.**[^key-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**38.**[^key-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**39.**[^key-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-d9ae6f4f87722fa255d72def68c0f8ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99e56180b853a17c97192355560420be]: Textual amendment: Sch. 17 para. 25 and cross-heading repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-99e56180b853a17c97192355560420be]: Textual amendment: Sch. 17 para. 25 and cross-heading repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-943f556ab44545f5b439ca7d50d3ac5d]: Textual amendment: [Sch. 17 para. 27](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/27) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-943f556ab44545f5b439ca7d50d3ac5d]: Textual amendment: [Sch. 17 para. 27](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/27) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-25b2fe86ce13d8f69566f6298ea71059]: Textual amendment: [Sch. 17 para. 30(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/30/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/30/2/b) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-25b2fe86ce13d8f69566f6298ea71059]: Textual amendment: [Sch. 17 para. 30(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/30/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/30/2/b) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-d9ae6f4f87722fa255d72def68c0f8ef]: Textual amendment: [Sch. 17 paras. 36-39](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/36) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/8); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-d9ae6f4f87722fa255d72def68c0f8ef]: Textual amendment: [Sch. 17 paras. 36-39](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/36) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/8); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

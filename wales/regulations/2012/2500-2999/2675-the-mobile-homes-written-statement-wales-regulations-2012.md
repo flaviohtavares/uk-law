@@ -31,7 +31,7 @@ summary: ''
 
 MOBILE HOMES, WALES
 
-The Mobile Homes (Written Statement) (Wales) Regulations 2012 (revoked)[^key-222fa826fac2c1da7672d07ba9150129]
+The Mobile Homes (Written Statement) (Wales) Regulations 2012 (revoked)[^c-222fa826fac2c1da7672d07ba9150129]
 
 Made
 
@@ -45,31 +45,31 @@ Coming into force
 
 19 November 2012
 
-[^key-222fa826fac2c1da7672d07ba9150129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-222fa826fac2c1da7672d07ba9150129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-222fa826fac2c1da7672d07ba9150129]
+## 1. Title, commencement and application[^c-222fa826fac2c1da7672d07ba9150129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-222fa826fac2c1da7672d07ba9150129]
+## 2. Interpretation[^c-222fa826fac2c1da7672d07ba9150129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Written statement: prescribed requirements[^key-222fa826fac2c1da7672d07ba9150129]
+## 3. Written statement: prescribed requirements[^c-222fa826fac2c1da7672d07ba9150129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-222fa826fac2c1da7672d07ba9150129]
+## 4. Revocation[^c-222fa826fac2c1da7672d07ba9150129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-222fa826fac2c1da7672d07ba9150129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-222fa826fac2c1da7672d07ba9150129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — WRITTEN STATEMENT UNDER THE MOBILE HOMES ACT 1983 REQUIRED TO BE GIVEN TO A PROPOSED OCCUPIER OF A PITCH[^key-222fa826fac2c1da7672d07ba9150129]
+## SCHEDULE — WRITTEN STATEMENT UNDER THE MOBILE HOMES ACT 1983 REQUIRED TO BE GIVEN TO A PROPOSED OCCUPIER OF A PITCH[^c-222fa826fac2c1da7672d07ba9150129]
 
 Regulation 3
 
@@ -77,8 +77,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-222fa826fac2c1da7672d07ba9150129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-222fa826fac2c1da7672d07ba9150129]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-222fa826fac2c1da7672d07ba9150129]: Textual amendment: Regulations revoked (1.10.2014) by [The Mobile Homes (Written Statement) (Wales) Regulations 2014 (S.I. 2014/1762)](https://www.legislation.gov.uk/uksi/2014/1762), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1762/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1762/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1762/regulation/1/2))
+[^c-222fa826fac2c1da7672d07ba9150129]: Textual amendment: Regulations revoked (1.10.2014) by [The Mobile Homes (Written Statement) (Wales) Regulations 2014 (S.I. 2014/1762)](https://www.legislation.gov.uk/uksi/2014/1762), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1762/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1762/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1762/regulation/1/2))

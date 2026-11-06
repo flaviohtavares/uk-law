@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The committees of the Senedd[^key-60edd79c70d763519861630d1afb7962] must include one to be known as the Audit Committee or Pwyllgor Archwilio or by such other name as the Senedd may determine; and, if the Senedd makes such a determination, references to the committee in—
+(1) The committees of the Senedd[^c-60edd79c70d763519861630d1afb7962] must include one to be known as the Audit Committee or Pwyllgor Archwilio or by such other name as the Senedd may determine; and, if the Senedd makes such a determination, references to the committee in—
 
 - (a) any enactment (including any enactment comprised in or made under this Act) or prerogative instrument, or
 - (b) any other instrument or document,
@@ -36,12 +36,12 @@ have effect accordingly.
 - (c) the Counsel General or any person designated to exercise the functions of the Counsel General, or
 - (d) a Deputy Welsh Minister.
 
-(4) The Audit Committee must not be chaired by a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] who is a member of a political group with an executive role.
+(4) The Audit Committee must not be chaired by a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] who is a member of a political group with an executive role.
 
 ## Annotations
 
 [^c16526661]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))

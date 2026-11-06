@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Control of feeding stuffs and feed materials containing undesirable substances[^key-2c2257da9e4226c7c0476b9cb445dadc]
+## 12. Control of feeding stuffs and feed materials containing undesirable substances[^c-2c2257da9e4226c7c0476b9cb445dadc]
 
 *Extent: N.I.*
 
@@ -80,6 +80,6 @@ he shall immediately notify the Agency and an inspector appointed under section 
 
 ## Annotations
 
-[^key-2c2257da9e4226c7c0476b9cb445dadc]: Commencement: Reg. 12 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-2c2257da9e4226c7c0476b9cb445dadc]: Commencement: Reg. 12 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00025]: Footnote: O.J. No. L115, 4.5.1999, p. 32

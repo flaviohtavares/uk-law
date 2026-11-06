@@ -26,7 +26,7 @@ summary: ''
 
 (3)[^M_F_70466f5b-730a-48b6-b981-31eff0d11cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a53e7b4037370f0ed963d8008e468a8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a53e7b4037370f0ed963d8008e468a8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^M_F_70466f5b-730a-48b6-b981-31eff0d11cb0]: Textual amendment: S. 156(3) repealed by [Housing Act 1986 (c. 63, SIF 75:3)](https://www.legislation.gov.uk/ukpga/1986/63), [ss. 18](https://www.legislation.gov.uk/ukpga/1985/71/section/18), [24(3)](https://www.legislation.gov.uk/ukpga/1985/71/section/24/3), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1985/71/schedule/4/paragraph/8), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1985/71/schedule/12/part/I)
 
-[^key-a53e7b4037370f0ed963d8008e468a8d]: Textual amendment: S. 156(4) repealed (S.) (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/1); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
+[^c-a53e7b4037370f0ed963d8008e468a8d]: Textual amendment: S. 156(4) repealed (S.) (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/1); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))

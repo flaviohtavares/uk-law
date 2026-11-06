@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Grants by Greater London Authority[^key-7cbb75f2a4a378c75def83ceee7e5ad5]
+## 65. Grants by Greater London Authority[^c-7cbb75f2a4a378c75def83ceee7e5ad5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cbb75f2a4a378c75def83ceee7e5ad5]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/22/section/65) in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)
+[^c-7cbb75f2a4a378c75def83ceee7e5ad5]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2016/22/section/65) in force at 26.5.2016 by [S.I. 2016/609](https://www.legislation.gov.uk/uksi/2016/609), [reg. 2](https://www.legislation.gov.uk/uksi/2016/609/regulation/2)

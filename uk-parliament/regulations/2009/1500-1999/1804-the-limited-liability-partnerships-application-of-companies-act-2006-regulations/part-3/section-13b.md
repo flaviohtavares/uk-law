@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13B. Direction to change name wrongly registered[^key-f26415ff9b3485ac49d11af6c2c07597]
+## 13B. Direction to change name wrongly registered[^c-f26415ff9b3485ac49d11af6c2c07597]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ Section 76B applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-f26415ff9b3485ac49d11af6c2c07597]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13B) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/234/regulation/13); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-f26415ff9b3485ac49d11af6c2c07597]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13B) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/234/regulation/13); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

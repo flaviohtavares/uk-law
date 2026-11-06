@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Issue of goods vehicle test certificates (or of notices of refusal) and particulars to be contained therein[^key-8238a95c511f2fb200b933257f2be694]
+## 23. Issue of goods vehicle test certificates (or of notices of refusal) and particulars to be contained therein[^c-8238a95c511f2fb200b933257f2be694]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8238a95c511f2fb200b933257f2be694]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1988/1478/regulation/23) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-8238a95c511f2fb200b933257f2be694]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1988/1478/regulation/23) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

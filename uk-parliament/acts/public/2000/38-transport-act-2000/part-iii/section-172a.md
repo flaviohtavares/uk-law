@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172A. Suspension of charging schemes[^key-a16f8096161aa67132b54e74a4cabf34]
+## 172A. Suspension of charging schemes[^c-a16f8096161aa67132b54e74a4cabf34]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a16f8096161aa67132b54e74a4cabf34]: Textual amendment: S. 172A and cross-heading inserted (9.2.2009 for E., 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 114](https://www.legislation.gov.uk/ukpga/2008/26/section/114), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/579/article/2/o)
+[^c-a16f8096161aa67132b54e74a4cabf34]: Textual amendment: S. 172A and cross-heading inserted (9.2.2009 for E., 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 114](https://www.legislation.gov.uk/ukpga/2008/26/section/114), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/579/article/2/o)

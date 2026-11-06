@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Average weekly income other than earnings[^key-ec609d34137261b7916d85b8ad2b1131]
+## 23. Average weekly income other than earnings[^c-ec609d34137261b7916d85b8ad2b1131]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Any part of a relevant person’s income which does not consist of earnings shal
 
 ## Annotations
 
-[^key-ec609d34137261b7916d85b8ad2b1131]: Commencement: Reg. 23 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-ec609d34137261b7916d85b8ad2b1131]: Commencement: Reg. 23 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

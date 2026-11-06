@@ -41,52 +41,52 @@ Coming into force
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred on it by Articles 70(1) and (2)[^f00002] and 134(1)[^f00003] of the Education and Libraries (Northern Ireland) Order 1986[^f00004] makes the following Regulation:
 
-## 1. Citation and commencement[^key-64ac7d94c44a955120bd514271b70688]
+## 1. Citation and commencement[^c-64ac7d94c44a955120bd514271b70688]
 
 These Regulations may be cited as the Further Education Teachers’ (Eligibility) Regulations (Northern Ireland) 2007 and shall come into operation on 30<sup>th</sup> April 2007.
 
-## 2. Revocations[^key-9cfbc66eda0a2315d229272b755b5164]
+## 2. Revocations[^c-9cfbc66eda0a2315d229272b755b5164]
 
 The following regulations are revoked —
 
 - (a) Further Education Teacher’s (Eligibility) Regulations (Northern Ireland) 1997[^f00005];
 - (b) The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 1998[^f00006].
 
-## 3. Interpretation[^key-5d25095c993fe473ac5497a54c7fffc2]
+## 3. Interpretation[^c-5d25095c993fe473ac5497a54c7fffc2]
 
 In these Regulations—
 
 - “governing body” means the governing body of an institution of further education as defined in the Further Education (Northern Ireland) Order 1997[^f00007]
-- [^key-53fdbce66c0a845a1a3e6f804524b95d]...[^f00008]
+- [^c-53fdbce66c0a845a1a3e6f804524b95d]...[^f00008]
 -
 
-## 4. Application[^key-12e4b2670e88bfc183eedeaa851a4aa1]
+## 4. Application[^c-12e4b2670e88bfc183eedeaa851a4aa1]
 
 These Regulations apply to teachers in institutions of further education.
 
-## 5. Qualifications[^key-914ae1251e15e2bcb99ef81b175b7fa4]
+## 5. Qualifications[^c-914ae1251e15e2bcb99ef81b175b7fa4]
 
 Every person employed as a teacher shall have such qualifications as may be approved by the Department.
 
-## 6. Health Requirements[^key-7c6cb676bc0d4201e213419a522a6d56]
+## 6. Health Requirements[^c-7c6cb676bc0d4201e213419a522a6d56]
 
 (1) A governing body shall not employ a person as a teacher unless it is satisfied that he has the health or physical capacity for employment as a teacher.
 
-(2)[^key-951574ff699314d5db5f6f71177b23e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-951574ff699314d5db5f6f71177b23e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A person employed as a teacher shall not continue in that employment if the governing body is satisfied that he does not have the health or physical capacity for such employment.
 
-(4)[^key-db87778f885b3523df0a412bb1b7c101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-db87778f885b3523df0a412bb1b7c101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-db87778f885b3523df0a412bb1b7c101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-db87778f885b3523df0a412bb1b7c101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-db87778f885b3523df0a412bb1b7c101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-db87778f885b3523df0a412bb1b7c101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Employment of Unqualified Teachers[^key-35c3364e37f9bdce706f17371cadabd7]
+## 7. Employment of Unqualified Teachers[^c-35c3364e37f9bdce706f17371cadabd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Prohibition or restriction on a person’s employment as a teacher[^key-ebcdead96974bd415b07943f9ed523ae]
+## 8. Prohibition or restriction on a person’s employment as a teacher[^c-ebcdead96974bd415b07943f9ed523ae]
 
 (1) The Department may prohibit or restrict the employment or further employment of a person as a teacher—
 
@@ -104,7 +104,7 @@ Every person employed as a teacher shall have such qualifications as may be appr
 
 (5) Where the Department has prohibited or restricted a person’s employment as a teacher on any grounds under paragraph (1), it may subsequently remove or modify such prohibition or restriction.
 
-## 9. Misconduct reports[^key-2e5bfa56f2dafc1522745e0a173a5b2e]
+## 9. Misconduct reports[^c-2e5bfa56f2dafc1522745e0a173a5b2e]
 
 Where a governing body has dismissed a person from employment as a teacher on grounds of his misconduct (whether or not he is convicted of a criminal offence) or would have so dismissed him or considered so dismissing him but for his resignation, that governing body shall provide the Department with such information relating to those grounds as the Department thinks fit.
 
@@ -146,34 +146,34 @@ There are no longer any age requirements for teachers.
 
 [^f00004]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-64ac7d94c44a955120bd514271b70688]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-64ac7d94c44a955120bd514271b70688]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
-[^key-9cfbc66eda0a2315d229272b755b5164]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/127/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-9cfbc66eda0a2315d229272b755b5164]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/127/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1997 No. 388](https://www.legislation.gov.uk/nisr/1997/388)
 
 [^f00006]: Footnote: [S.R. 1998 No. 96](https://www.legislation.gov.uk/nisr/1998/96)
 
-[^key-5d25095c993fe473ac5497a54c7fffc2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/127/regulation/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-5d25095c993fe473ac5497a54c7fffc2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/127/regulation/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1997/1772 (N.I.15)](https://www.legislation.gov.uk/nisi/1997/1772)
 
-[^key-53fdbce66c0a845a1a3e6f804524b95d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2007/127/regulation/3) omitted (1.12.2011) by virtue of [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/2)
+[^c-53fdbce66c0a845a1a3e6f804524b95d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2007/127/regulation/3) omitted (1.12.2011) by virtue of [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/2)
 
 [^f00008]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
-[^key-12e4b2670e88bfc183eedeaa851a4aa1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/127/regulation/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-12e4b2670e88bfc183eedeaa851a4aa1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/127/regulation/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
-[^key-914ae1251e15e2bcb99ef81b175b7fa4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/127/regulation/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-914ae1251e15e2bcb99ef81b175b7fa4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/127/regulation/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
-[^key-7c6cb676bc0d4201e213419a522a6d56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/127/regulation/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-7c6cb676bc0d4201e213419a522a6d56]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/127/regulation/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
-[^key-951574ff699314d5db5f6f71177b23e9]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2007/127/regulation/6/2) revoked (1.12.2011) by [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/3)
+[^c-951574ff699314d5db5f6f71177b23e9]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2007/127/regulation/6/2) revoked (1.12.2011) by [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/3)
 
-[^key-db87778f885b3523df0a412bb1b7c101]: Textual amendment: [Reg. 6(4)-(6)](https://www.legislation.gov.uk/nisr/2007/127/regulation/6/4) revoked (1.12.2011) by [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/3)
+[^c-db87778f885b3523df0a412bb1b7c101]: Textual amendment: [Reg. 6(4)-(6)](https://www.legislation.gov.uk/nisr/2007/127/regulation/6/4) revoked (1.12.2011) by [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/3)
 
-[^key-35c3364e37f9bdce706f17371cadabd7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/127/regulation/7) revoked (1.12.2011) by [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/4)
+[^c-35c3364e37f9bdce706f17371cadabd7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/127/regulation/7) revoked (1.12.2011) by [The Further Education Teachers’ (Eligibility) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/372)](https://www.legislation.gov.uk/nisr/2011/372), [regs. 1](https://www.legislation.gov.uk/nisr/2011/372/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2011/372/regulation/2/4)
 
-[^key-ebcdead96974bd415b07943f9ed523ae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/127/regulation/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-ebcdead96974bd415b07943f9ed523ae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/127/regulation/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
 
-[^key-2e5bfa56f2dafc1522745e0a173a5b2e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/127/regulation/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)
+[^c-2e5bfa56f2dafc1522745e0a173a5b2e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/127/regulation/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/127/regulation/1)

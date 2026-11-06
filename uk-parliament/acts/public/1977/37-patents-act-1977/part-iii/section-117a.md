@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Effect of resuscitating a withdrawn application under section 117[^key-4ae10e77292193494a3f635210299e5b]
+## 117A. Effect of resuscitating a withdrawn application under section 117[^c-4ae10e77292193494a3f635210299e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,12 +45,12 @@ he has the right to continue to do the act or, as the case may be, to do the act
 
 (6) Where a product is disposed of to another in exercise of a right conferred by subsection (4) or (5) above, that other and any person claiming through him may deal with the product in the same way as if it had been disposed of by the applicant.
 
-(7)[^key-6b5ca4579e4ed844c55119c0a4324c0d] The above provisions apply in relation to the use of a patented invention for the services of the Crown as they apply in relation to infringement of the rights conferred by publication of the application for a patent (or, as the case may be, infringement of the patent).
+(7)[^c-6b5ca4579e4ed844c55119c0a4324c0d] The above provisions apply in relation to the use of a patented invention for the services of the Crown as they apply in relation to infringement of the rights conferred by publication of the application for a patent (or, as the case may be, infringement of the patent).
 
 “**Patented invention**” has the same meaning as in section 55 above.
 
 ## Annotations
 
-[^key-4ae10e77292193494a3f635210299e5b]: Textual amendment: Ss. 117A, 117B inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [18](https://www.legislation.gov.uk/uksi/2004/2357/article/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-4ae10e77292193494a3f635210299e5b]: Textual amendment: Ss. 117A, 117B inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [18](https://www.legislation.gov.uk/uksi/2004/2357/article/18) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
-[^key-6b5ca4579e4ed844c55119c0a4324c0d]: Textual amendment: S. 117A(7) inserted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/23) (see S.I. 2004/2357, art. 1(2))
+[^c-6b5ca4579e4ed844c55119c0a4324c0d]: Textual amendment: S. 117A(7) inserted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/23) (see S.I. 2004/2357, art. 1(2))

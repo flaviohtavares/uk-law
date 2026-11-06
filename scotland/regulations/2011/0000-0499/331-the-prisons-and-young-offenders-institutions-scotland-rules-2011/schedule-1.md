@@ -78,11 +78,11 @@ A prisoner is guilty of a breach of discipline if he or she—
 - (b) unauthorised property; or
 - (c) an article which he or she has been authorised to keep or possess but which he or she has not been specifically authorised to inhale or inhale the fumes thereof;
 
-**26.**[^key-fbefbdfb1bac35b94c04f95b043dca5f] uses a nicotine vapour product in an area of the prison where it is not permitted by virtue of rule 36 to use a nicotine vapour product;
+**26.**[^c-fbefbdfb1bac35b94c04f95b043dca5f] uses a nicotine vapour product in an area of the prison where it is not permitted by virtue of rule 36 to use a nicotine vapour product;
 
 **27.** administers a controlled drug to himself or herself or fails to prevent the administration of a controlled drug to himself or herself by another person but subject to rule 117;
 
-**27A.**[^key-37f828a90a9fc97256ca8c3871a9322c] has in his or her possession, or uses, an authorised personal communication device which was not provided to the prisoner by the Governor for use by that prisoner;
+**27A.**[^c-37f828a90a9fc97256ca8c3871a9322c] has in his or her possession, or uses, an authorised personal communication device which was not provided to the prisoner by the Governor for use by that prisoner;
 
 **27B.** has in his or her possession an authorised personal communication device in breach of the restrictions imposed by the Governor under rule 62A(3)(a);
 
@@ -96,14 +96,14 @@ A prisoner is guilty of a breach of discipline if he or she—
 
 **29.** fails to return to prison when he or she should return after being temporarily released under Part 15;
 
-**30.** fails to comply with any condition upon which he or she is temporarily released under rule 100 or[^key-a1ee34a4d45e11e00b8bc1ec9e3a6ae4] Part 15; or
+**30.** fails to comply with any condition upon which he or she is temporarily released under rule 100 or[^c-a1ee34a4d45e11e00b8bc1ec9e3a6ae4] Part 15; or
 
 **31.** attempts to commit, incites another prisoner to commit, or assists another prisoner to commit or attempt to commit, any of the foregoing breaches.
 
 ## Annotations
 
-[^key-fbefbdfb1bac35b94c04f95b043dca5f]: Textual amendment: Sch. 1 para. 26 substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/6)
+[^c-fbefbdfb1bac35b94c04f95b043dca5f]: Textual amendment: Sch. 1 para. 26 substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(6)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/6)
 
-[^key-37f828a90a9fc97256ca8c3871a9322c]: Textual amendment: [Sch. 1 paras. 27A-27E](https://www.legislation.gov.uk/ssi/2011/331/schedule/1/paragraph/27A) inserted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(8)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/8)
+[^c-37f828a90a9fc97256ca8c3871a9322c]: Textual amendment: [Sch. 1 paras. 27A-27E](https://www.legislation.gov.uk/ssi/2011/331/schedule/1/paragraph/27A) inserted (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(8)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/8)
 
-[^key-a1ee34a4d45e11e00b8bc1ec9e3a6ae4]: Textual amendment: Words in sch. 1 para. 30 inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(21)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/21)
+[^c-a1ee34a4d45e11e00b8bc1ec9e3a6ae4]: Textual amendment: Words in sch. 1 para. 30 inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(21)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/21)

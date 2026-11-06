@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-fbef68c388f586b9f8736d7ea930308c]
+## SCHEDULE 4 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-fbef68c388f586b9f8736d7ea930308c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 30
 
 ## Annotations
 
-[^key-fbef68c388f586b9f8736d7ea930308c]: Commencement: Sch. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-fbef68c388f586b9f8736d7ea930308c]: Commencement: Sch. 4 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

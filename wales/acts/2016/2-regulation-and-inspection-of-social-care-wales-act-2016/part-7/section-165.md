@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Designation of regulated activity[^key-c4f4a0ad2bf8e0b4cfd9e32b17212eef]
+## 165. Designation of regulated activity[^c-c4f4a0ad2bf8e0b4cfd9e32b17212eef]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f4a0ad2bf8e0b4cfd9e32b17212eef]: Commencement: [S. 165](https://www.legislation.gov.uk/anaw/2016/2/section/165) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-c4f4a0ad2bf8e0b4cfd9e32b17212eef]: Commencement: [S. 165](https://www.legislation.gov.uk/anaw/2016/2/section/165) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

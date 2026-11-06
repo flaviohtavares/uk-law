@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Election to allocate pension[^key-84ff5961a5b70d04565fccb1512ef749]
+## 61. Election to allocate pension[^c-84ff5961a5b70d04565fccb1512ef749]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ the scheme administrator may treat the election or, as the case may be, each of 
 
 ## Annotations
 
-[^key-84ff5961a5b70d04565fccb1512ef749]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2014/2336/regulation/61) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-84ff5961a5b70d04565fccb1512ef749]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2014/2336/regulation/61) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.1. Functions of representatives and supporters[^key-368bd9638dc727cdf839000377526c15]
+## 46.1. Functions of representatives and supporters[^c-368bd9638dc727cdf839000377526c15]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ unless other legislation (including a rule) otherwise requires.
 
 ## Annotations
 
-[^key-368bd9638dc727cdf839000377526c15]: Commencement: [Rule 46.1](https://www.legislation.gov.uk/uksi/2025/909/rule/46.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-368bd9638dc727cdf839000377526c15]: Commencement: [Rule 46.1](https://www.legislation.gov.uk/uksi/2025/909/rule/46.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01095]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 1 was amended by section 68 of, and paragraph 6 of Schedule 8 to, the Criminal Justice Act 1991 (c. 53), sections 43 and 109 of, and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 31 of, and paragraph 12 of Schedule 7 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 153 of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13). It is further amended by paragraphs 7 and 8 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), with effect from a date to be appointed.
 

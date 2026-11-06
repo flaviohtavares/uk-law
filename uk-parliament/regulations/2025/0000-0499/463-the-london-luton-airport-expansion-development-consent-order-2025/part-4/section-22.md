@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Felling, lopping and removal of trees, shrubs and hedgerows[^key-620416b4b63c571e714a57ac4448ddfd]
+## 22. Felling, lopping and removal of trees, shrubs and hedgerows[^c-620416b4b63c571e714a57ac4448ddfd]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ unless that tree, shrub or hedgerow has been identified in a scheme or plan subm
 
 ## Annotations
 
-[^key-620416b4b63c571e714a57ac4448ddfd]: Commencement: Art. 22 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-620416b4b63c571e714a57ac4448ddfd]: Commencement: Art. 22 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00064]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendment of regulation 116[^key-302587eee38910d898cf9e5021cdb157]
+## 56. Amendment of regulation 116[^c-302587eee38910d898cf9e5021cdb157]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In regulation 116—
 
 ## Annotations
 
-[^key-302587eee38910d898cf9e5021cdb157]: Commencement: Reg. 56 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-302587eee38910d898cf9e5021cdb157]: Commencement: Reg. 56 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

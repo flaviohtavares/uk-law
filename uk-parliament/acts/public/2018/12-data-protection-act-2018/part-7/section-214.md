@@ -22,8 +22,8 @@ summary: ''
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland, subject to—
 
-- (a) subsections (2) to (5), [^key-f04ba3a454555bbf476ad1dcf7b7bdef]...
-- (b)[^key-34c7fe8244174b45ed8b04f31f71db45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) subsections (2) to (5), [^c-f04ba3a454555bbf476ad1dcf7b7bdef]...
+- (b)[^c-34c7fe8244174b45ed8b04f31f71db45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 199 extends to England and Wales only.
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^M_I_1431e3f7-9d76-474d-d4be-f3e845bb4da3]: Commencement: S. 214 in force at Royal Assent, see [s. 212(2)(e)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/e)
 
-[^key-f04ba3a454555bbf476ad1dcf7b7bdef]: Textual amendment: Word in s. 214(1)(a) omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(6)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/6/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
+[^c-f04ba3a454555bbf476ad1dcf7b7bdef]: Textual amendment: Word in s. 214(1)(a) omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(6)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/6/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
 
-[^key-34c7fe8244174b45ed8b04f31f71db45]: Textual amendment: S. 214(1)(b) omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/6/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
+[^c-34c7fe8244174b45ed8b04f31f71db45]: Textual amendment: S. 214(1)(b) omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/6/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))

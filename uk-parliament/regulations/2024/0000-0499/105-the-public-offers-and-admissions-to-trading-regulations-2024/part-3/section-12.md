@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Prohibition of public offers of relevant securities[^key-908463050e4e38d9818dfe4a6495d54f]
+## 12. Prohibition of public offers of relevant securities[^c-908463050e4e38d9818dfe4a6495d54f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-908463050e4e38d9818dfe4a6495d54f]: Commencement: Reg. 12 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-908463050e4e38d9818dfe4a6495d54f]: Commencement: Reg. 12 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-5987f411490447367b7b42704fa6583f]
+The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-5987f411490447367b7b42704fa6583f]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 8th April 2002
 
-[^key-5987f411490447367b7b42704fa6583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5987f411490447367b7b42704fa6583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5987f411490447367b7b42704fa6583f]
+## 1. Citation and commencement[^c-5987f411490447367b7b42704fa6583f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Support) Regulations (Northern Ireland) 2001[^key-5987f411490447367b7b42704fa6583f]
+## 2. Amendment of the Education (Student Support) Regulations (Northern Ireland) 2001[^c-5987f411490447367b7b42704fa6583f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5987f411490447367b7b42704fa6583f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5987f411490447367b7b42704fa6583f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5987f411490447367b7b42704fa6583f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5987f411490447367b7b42704fa6583f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5987f411490447367b7b42704fa6583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5987f411490447367b7b42704fa6583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5987f411490447367b7b42704fa6583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5987f411490447367b7b42704fa6583f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5987f411490447367b7b42704fa6583f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/111) revoked (1.9.2002) by [Education (Student Support) Regulations (Northern Ireland) 2002 (S.R. 2002/224)](https://www.legislation.gov.uk/nisr/2002/224), [reg. 3(1)](https://www.legislation.gov.uk/nisr/2002/224/regulation/3)
+[^c-5987f411490447367b7b42704fa6583f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/111) revoked (1.9.2002) by [Education (Student Support) Regulations (Northern Ireland) 2002 (S.R. 2002/224)](https://www.legislation.gov.uk/nisr/2002/224), [reg. 3(1)](https://www.legislation.gov.uk/nisr/2002/224/regulation/3)

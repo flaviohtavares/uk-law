@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Debarment decisions: appeals[^key-ddadcf0e3c52f5f3e1307fcfdc9cadcb][^key-9279e294abb705b28d0b2c5413a56d3b][^key-1cb3282b79dfdd52559b5ec23de3ef56]
+## 65. Debarment decisions: appeals[^c-ddadcf0e3c52f5f3e1307fcfdc9cadcb][^c-9279e294abb705b28d0b2c5413a56d3b][^c-1cb3282b79dfdd52559b5ec23de3ef56]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ddadcf0e3c52f5f3e1307fcfdc9cadcb]: Commencement: S. 65 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-ddadcf0e3c52f5f3e1307fcfdc9cadcb]: Commencement: S. 65 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-9279e294abb705b28d0b2c5413a56d3b]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/54/section/65) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-9279e294abb705b28d0b2c5413a56d3b]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/54/section/65) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-1cb3282b79dfdd52559b5ec23de3ef56]: Modification: [Ss. 61-66](https://www.legislation.gov.uk/ukpga/2023/54/section/61) applied (with modifications) (24.2.2025) by [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348), [reg. 20D(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/20D/2) (as inserted by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(5)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34)))
+[^c-1cb3282b79dfdd52559b5ec23de3ef56]: Modification: [Ss. 61-66](https://www.legislation.gov.uk/ukpga/2023/54/section/61) applied (with modifications) (24.2.2025) by [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348), [reg. 20D(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/20D/2) (as inserted by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(5)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34)))

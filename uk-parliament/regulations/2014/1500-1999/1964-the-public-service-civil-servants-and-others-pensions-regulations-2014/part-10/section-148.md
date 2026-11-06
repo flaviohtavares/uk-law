@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Application of Chapter[^key-4d096a6a1e723c9cecfd58f5e4b90e92]
+## 148. Application of Chapter[^c-4d096a6a1e723c9cecfd58f5e4b90e92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to an active member of this scheme who has accr
 
 ## Annotations
 
-[^key-4d096a6a1e723c9cecfd58f5e4b90e92]: Commencement: [Reg. 148](https://www.legislation.gov.uk/uksi/2014/1964/regulation/148) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-4d096a6a1e723c9cecfd58f5e4b90e92]: Commencement: [Reg. 148](https://www.legislation.gov.uk/uksi/2014/1964/regulation/148) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

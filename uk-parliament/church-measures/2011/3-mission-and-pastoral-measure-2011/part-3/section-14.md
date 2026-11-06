@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14. Validity and operation of schemes and orders[^key-23f07c76970e83cfaa377ad3444bf738]
+## 14. Validity and operation of schemes and orders[^c-23f07c76970e83cfaa377ad3444bf738]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23f07c76970e83cfaa377ad3444bf738]: Commencement: S. 14 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-23f07c76970e83cfaa377ad3444bf738]: Commencement: S. 14 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

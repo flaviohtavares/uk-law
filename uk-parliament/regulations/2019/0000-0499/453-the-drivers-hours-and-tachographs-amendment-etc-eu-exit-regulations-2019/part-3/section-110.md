@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110.[^key-6e5a3d9b2975c09213827adfc399c7c4]
+## 110.[^c-6e5a3d9b2975c09213827adfc399c7c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 6, omit “This Regulation shall be binding in its entirety and di
 
 ## Annotations
 
-[^key-6e5a3d9b2975c09213827adfc399c7c4]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6e5a3d9b2975c09213827adfc399c7c4]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

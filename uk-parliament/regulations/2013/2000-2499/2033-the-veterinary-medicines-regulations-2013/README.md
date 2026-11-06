@@ -48,9 +48,9 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of mak
 
 The Secretary of State has carried out the consultation required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-In accordance with section 56(1) of the Finance Act 1973[^f00004], the Treasury consent to the making of these Regulations.[^key-06912ecdc15cac65aac919d1bb7902b2][^key-c2aaeeeb3126079250c5a9ddf19e92b3]
+In accordance with section 56(1) of the Finance Act 1973[^f00004], the Treasury consent to the making of these Regulations.[^c-06912ecdc15cac65aac919d1bb7902b2][^c-c2aaeeeb3126079250c5a9ddf19e92b3]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by section 56(1) of the Finance Act 1973.[^key-06912ecdc15cac65aac919d1bb7902b2][^key-c2aaeeeb3126079250c5a9ddf19e92b3]
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by section 56(1) of the Finance Act 1973.[^c-06912ecdc15cac65aac919d1bb7902b2][^c-c2aaeeeb3126079250c5a9ddf19e92b3]
 
 ## Contents
 
@@ -243,6 +243,6 @@ A full impact assessment has been prepared and placed in the libraries of both H
 
 [^f00004]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-06912ecdc15cac65aac919d1bb7902b2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2033): power to amend conferred (11.4.2021) by [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/10/1), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/2/c)
+[^c-06912ecdc15cac65aac919d1bb7902b2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2033): power to amend conferred (11.4.2021) by [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2021/3/section/10/1), [50(2)(c)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/2/c)
 
-[^key-c2aaeeeb3126079250c5a9ddf19e92b3]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-c2aaeeeb3126079250c5a9ddf19e92b3]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))

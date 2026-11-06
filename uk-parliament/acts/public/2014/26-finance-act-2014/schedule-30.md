@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 30 — Section 208 or 208A penalty: value of the denied advantage[^key-9d650a28e8953ae0acd1bd2831107cba]
+## SCHEDULE 30 — Section 208 or 208A penalty: value of the denied advantage[^c-9d650a28e8953ae0acd1bd2831107cba]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ or, if less, 100% of the amount of the deferred tax.
 
 ## Annotations
 
-[^key-9d650a28e8953ae0acd1bd2831107cba]: Textual amendment: Words in [Sch. 30](https://www.legislation.gov.uk/ukpga/2014/26/schedule/30) heading inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/10)
+[^c-9d650a28e8953ae0acd1bd2831107cba]: Textual amendment: Words in [Sch. 30](https://www.legislation.gov.uk/ukpga/2014/26/schedule/30) heading inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/10)

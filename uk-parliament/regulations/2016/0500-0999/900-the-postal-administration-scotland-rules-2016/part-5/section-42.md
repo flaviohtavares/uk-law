@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Criminal offences in relation to false claims or evidence[^key-6b8814394b1548111d9f0e7d037eae85]
+## 42. Criminal offences in relation to false claims or evidence[^c-6b8814394b1548111d9f0e7d037eae85]
 
 *Extent: S*
 
-(1) If a creditor produces under Rule 37[^key-6c019d403c5244db7798892aa8f17db0] a statement of claim, account, voucher or other evidence which is false, the creditor shall be guilty of an offence unless the creditor shows that the creditor neither knew nor had reason to believe that the statement of claim, account, voucher or other evidence was false.
+(1) If a creditor produces under Rule 37[^c-6c019d403c5244db7798892aa8f17db0] a statement of claim, account, voucher or other evidence which is false, the creditor shall be guilty of an offence unless the creditor shows that the creditor neither knew nor had reason to believe that the statement of claim, account, voucher or other evidence was false.
 
 (2) A person convicted of an offence under paragraph (1) shall be liable —
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b8814394b1548111d9f0e7d037eae85]: Commencement: Rule 42 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-6b8814394b1548111d9f0e7d037eae85]: Commencement: Rule 42 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-6c019d403c5244db7798892aa8f17db0]: Textual amendment: Words in [rule 42(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/42/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-6c019d403c5244db7798892aa8f17db0]: Textual amendment: Words in [rule 42(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/42/1) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

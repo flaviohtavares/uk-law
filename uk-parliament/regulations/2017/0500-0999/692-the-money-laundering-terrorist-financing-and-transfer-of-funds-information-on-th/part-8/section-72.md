@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person may not be required under regulation 66, 69 , 70, 74A or 74B[^key-84c40cbe517dd4710da7a8d379f420bb] to produce excluded material, or to provide information, produce documents or answer questions which that person would be entitled to refuse to provide, produce or answer on grounds of legal professional privilege in proceedings in the High Court, except that a lawyer may be required to provide the full name and address of the lawyer's client.
+(1) A person may not be required under regulation 66, 69 , 70, 74A or 74B[^c-84c40cbe517dd4710da7a8d379f420bb] to produce excluded material, or to provide information, produce documents or answer questions which that person would be entitled to refuse to provide, produce or answer on grounds of legal professional privilege in proceedings in the High Court, except that a lawyer may be required to provide the full name and address of the lawyer's client.
 
-(2) The provision of information in accordance with regulation 66, 69 , 70, 74A or 74B[^key-a6e561772e2626e0e2c60114e5bcdc30], is not to be taken to breach any restriction, however imposed, on the disclosure of information.
+(2) The provision of information in accordance with regulation 66, 69 , 70, 74A or 74B[^c-a6e561772e2626e0e2c60114e5bcdc30], is not to be taken to breach any restriction, however imposed, on the disclosure of information.
 
-(3) Where a disclosure is made in good faith in accordance with regulations 66, 69 , 70, 74A or 74B[^key-48756d259db7f4e90bcb9e5f9210e896] no civil liability arises in respect of the disclosure on the part of the person making the disclosure.
+(3) Where a disclosure is made in good faith in accordance with regulations 66, 69 , 70, 74A or 74B[^c-48756d259db7f4e90bcb9e5f9210e896] no civil liability arises in respect of the disclosure on the part of the person making the disclosure.
 
 (4) A warrant issued under regulation 70 does not confer the right to seize privileged material or excluded material.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-84c40cbe517dd4710da7a8d379f420bb]: Textual amendment: Words in reg. 72(1) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/2)
+[^c-84c40cbe517dd4710da7a8d379f420bb]: Textual amendment: Words in reg. 72(1) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/2)
 
-[^key-a6e561772e2626e0e2c60114e5bcdc30]: Textual amendment: Words in reg. 72(2) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/2)
+[^c-a6e561772e2626e0e2c60114e5bcdc30]: Textual amendment: Words in reg. 72(2) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/2)
 
-[^key-48756d259db7f4e90bcb9e5f9210e896]: Textual amendment: Words in reg. 72(3) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/2)
+[^c-48756d259db7f4e90bcb9e5f9210e896]: Textual amendment: Words in reg. 72(3) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/2)

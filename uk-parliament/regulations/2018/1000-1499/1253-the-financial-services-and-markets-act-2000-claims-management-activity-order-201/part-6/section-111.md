@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 111. Compensation (Claims Management Services) Regulations 2006[^key-3a34978b6cfd20d3a732063c10f9b6ee][^key-8dc7c6e4aba8cd21a6ab1f26b6b2c71b]
+## 111. Compensation (Claims Management Services) Regulations 2006[^c-3a34978b6cfd20d3a732063c10f9b6ee][^c-8dc7c6e4aba8cd21a6ab1f26b6b2c71b]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a34978b6cfd20d3a732063c10f9b6ee]: Commencement: Art. 111 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-3a34978b6cfd20d3a732063c10f9b6ee]: Commencement: Art. 111 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-8dc7c6e4aba8cd21a6ab1f26b6b2c71b]: Commencement: [Art. 111](https://www.legislation.gov.uk/uksi/2018/1253/article/111) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-8dc7c6e4aba8cd21a6ab1f26b6b2c71b]: Commencement: [Art. 111](https://www.legislation.gov.uk/uksi/2018/1253/article/111) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

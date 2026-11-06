@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment, in exercise of the powers conferred on it by Article 27(1) and Article 66(3) of the Energy (Northern Ireland) Order 2003[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-f4a328598d340b031414f74a37a984ff]
+## 1. Citation and commencement[^c-f4a328598d340b031414f74a37a984ff]
 
 These Regulations may be cited as the Energy Order 2003 (Supply of Information) Regulations (Northern Ireland) 2008 and shall come into operation on 15th February 2008.
 
-## 2. Interpretation[^key-4631d5a124b140ea895a80336ce7cfbe]
+## 2. Interpretation[^c-4631d5a124b140ea895a80336ce7cfbe]
 
 In these Regulations—
 
@@ -57,11 +57,11 @@ In these Regulations—
 - “licence holder” means the holder of a gas licence or an electricity licence; and
 - “the Order” means the Energy (Northern Ireland) Order 2003.
 
-## 3. National Security[^key-965dac139a01dd7ce987f10a87c12066]
+## 3. National Security[^c-965dac139a01dd7ce987f10a87c12066]
 
 The Authority or a licence holder may refuse to supply under Article 24, and the Council may refuse to supply under Article 26, of the Order any information which would be against the interests of national security to make public.
 
-## 4. Price sensitive information[^key-f589cd7a43ff9eecaade2a345a22242b]
+## 4. Price sensitive information[^c-f589cd7a43ff9eecaade2a345a22242b]
 
 (1) The Authority or a licence holder may refuse to supply under Article 24 of the Order any information which—
 
@@ -77,43 +77,43 @@ The Authority or a licence holder may refuse to supply under Article 24, and the
 - (c) “made public”, in relation to information, shall be construed in accordance with subsection (1) of section 58 of the Criminal Justice Act 1993[^f00004]; and
 - (d) “securities” means any securities to which Part V of the Criminal Justice Act 1993 (insider dealing) applies.
 
-## 5. Information whose disclosure would be affected by the application of other legislation[^key-338a68db80c99555221541eaa65a51d6]
+## 5. Information whose disclosure would be affected by the application of other legislation[^c-338a68db80c99555221541eaa65a51d6]
 
 (1) The Authority may refuse to supply under Article 24 of the Order any information not falling within regulation 4(1) which—
 
 - (a) was disclosed to the Authority in circumstances in which that disclosure would have been prohibited by or under a statutory provision imposing general restrictions on the disclosure of information but for an exemption from those restrictions naming the Authority as a person to whom information may be disclosed whether generally or for specified purposes or in specified circumstances; or
-- (b) was obtained by the Authority in the exercise of functions which it may exercise concurrently with the Competition and Markets Authority[^key-c12b4e0da988597dbd5360a5d4eb1a42] under Part IV of the Enterprise Act 2002[^f00005] or under Part I of the Competition Act 1998[^f00006].
+- (b) was obtained by the Authority in the exercise of functions which it may exercise concurrently with the Competition and Markets Authority[^c-c12b4e0da988597dbd5360a5d4eb1a42] under Part IV of the Enterprise Act 2002[^f00005] or under Part I of the Competition Act 1998[^f00006].
 
 (2) The Authority or a licence holder may refuse to supply under Article 24, and the Council may refuse to supply under Article 26, of the Order any information—
 
 - (a) whose disclosure would be prohibited by or under any statutory provision other than the Electricity (Northern Ireland) Order 1992, the Gas (Northern Ireland) Order 1996 or the Order; or
 - (b) whose disclosure is incompatible with any Community obligation.
 
-(3) Subject to paragraph (4), the Authority or a licence holder may refuse to supply under Article 24, and the Council may refuse to supply under Article 26, of the Order any information which constitutes personal data [^key-9d2eac47c7b0ebd45439a2282a401983]... and if the condition in paragraph (3A) or (3B) is satisfied[^key-ce7ea26f2586c7a53900cc202b67364a].
+(3) Subject to paragraph (4), the Authority or a licence holder may refuse to supply under Article 24, and the Council may refuse to supply under Article 26, of the Order any information which constitutes personal data [^c-9d2eac47c7b0ebd45439a2282a401983]... and if the condition in paragraph (3A) or (3B) is satisfied[^c-ce7ea26f2586c7a53900cc202b67364a].
 
-(3A)[^key-6328eab78e8d2d788b34b99c98cd2788] The condition in this paragraph is that the disclosure of the information to a member of the public—
+(3A)[^c-6328eab78e8d2d788b34b99c98cd2788] The condition in this paragraph is that the disclosure of the information to a member of the public—
 
 - (a) would contravene any of the data protection principles, or
 - (b) would do so if the exemptions in section 24(1) of the Data Protection Act 2018 (manual unstructured data held by public authorities) were disregarded.
 
 (3B) The condition in this paragraph is that the disclosure of the information to a member of the public would contravene—
 
-- (a) Article 21 of the UK GDPR[^key-4b36684f8dcdd1d5f19cd02dddb9f57c] (general processing: right to object to processing), or
+- (a) Article 21 of the UK GDPR[^c-4b36684f8dcdd1d5f19cd02dddb9f57c] (general processing: right to object to processing), or
 - (b) section 99 of the Data Protection Act 2018 (intelligence services processing: right to object to processing).
 
 (4) A licence holder may not, by virtue of paragraph (3) refuse to supply information which relates to a person who has made a complaint to which Article 22 of the Order applies and which is being investigated by the Council.
 
-(5)[^key-83ff4b2a666a8abcd10827ac3833652e] In this regulation—
+(5)[^c-83ff4b2a666a8abcd10827ac3833652e] In this regulation—
 
 - “**the data protection principles**” means the principles set out in—
-  - (a) Article 5(1) of the UK GDPR[^key-c2ab9a67aff63982f9103de08de07751],
+  - (a) Article 5(1) of the UK GDPR[^c-c2ab9a67aff63982f9103de08de07751],
   - (b) section 34(1) of the Data Protection Act 2018, and
   - (c) section 85(1) of that Act;
-- [^key-05c13d6215cf7bd343918ddbbfb46d63]...
+- [^c-05c13d6215cf7bd343918ddbbfb46d63]...
 - “**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
-- “[^key-6e5b92acf30dadf767f737942ff36227]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
+- “[^c-6e5b92acf30dadf767f737942ff36227]**the UK GDPR**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act);
 
-## 6. Information relevant to court proceedings or enforcement action[^key-22401944e58c5411644f47526439bf07]
+## 6. Information relevant to court proceedings or enforcement action[^c-22401944e58c5411644f47526439bf07]
 
 (1) The Authority or a licence holder may refuse to supply under Article 24, and the Council may refuse to supply under Article 26, of the Order any information whose disclosure would constitute or be punishable as a contempt of court.
 
@@ -123,7 +123,7 @@ The Authority or a licence holder may refuse to supply under Article 24, and the
 
 (4) A licence holder may refuse to supply information under Article 24 of the Order which the licence holder could not be compelled to give as evidence in civil proceedings or which is contained in documents or records which the licence holder could not be compelled to produce in evidence in any such proceedings.
 
-## 7. Information concerning internal discussions or deliberations[^key-1354e0a33d9377cd5319219f2708cb1f]
+## 7. Information concerning internal discussions or deliberations[^c-1354e0a33d9377cd5319219f2708cb1f]
 
 (1) Subject to paragraph (2), the Authority, or a licence holder may refuse to supply under Article 24, and the Council may refuse to supply under Article 26, of the Order—
 
@@ -139,7 +139,7 @@ The Authority or a licence holder may refuse to supply under Article 24, and the
 - (a) under Article 42 or 45 of the Order; or
 - (b) in relation to any criminal proceedings which the Authority has power to conduct.
 
-## 8. Information the cost or other burden of whose provision is excessive[^key-b1150f930cf49fe6b6f52659e7f47530]
+## 8. Information the cost or other burden of whose provision is excessive[^c-b1150f930cf49fe6b6f52659e7f47530]
 
 (1) A licence holder may refuse to supply under Article 24 of the Order any information where the cost or effort that would be incurred or suffered by the licence holder in supplying that information would be excessive in relation to the likely benefit of the information to the Council.
 
@@ -148,7 +148,7 @@ The Authority or a licence holder may refuse to supply under Article 24, and the
 - (a) the purposes for which the information is required by the Council; and
 - (b) the extent to which the provision of the information is necessary or expedient for those purposes.
 
-## 9. Information not held by the person to whom a direction is given[^key-cfb22a06205400a899330851c9d20554]
+## 9. Information not held by the person to whom a direction is given[^c-cfb22a06205400a899330851c9d20554]
 
 (1) A person may refuse to comply with a direction given to him if he does not hold the information specified or described in the direction.
 
@@ -157,7 +157,7 @@ The Authority or a licence holder may refuse to supply under Article 24, and the
 - (a) he holds it, otherwise than on behalf of another person, or
 - (b) another person holds it on his behalf.Statistics on complaints
 
-**10.**[^key-45c68d6134f8f60dd0850f6ddccd5474] Nothing in these Regulations entitles a licence holder to refuse to supply information to the Council under Article 24 of the Order, being information whose supply the Council has directed for the purposes of the Council’s functions under Article 20 of the Order.
+**10.**[^c-45c68d6134f8f60dd0850f6ddccd5474] Nothing in these Regulations entitles a licence holder to refuse to supply information to the Council under Article 24 of the Order, being information whose supply the Council has directed for the purposes of the Council’s functions under Article 20 of the Order.
 
 Sealed with the Official Seal of the Department of Enterprise, Trade and Investment
 
@@ -208,50 +208,50 @@ A licence holder cannot by virtue of these Regulations refuse to supply under Ar
 
 [^f00001]: Footnote: [S.I. 2003/419 (N.I.6)](https://www.legislation.gov.uk/nisi/2003/419)
 
-[^key-f4a328598d340b031414f74a37a984ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-f4a328598d340b031414f74a37a984ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-4631d5a124b140ea895a80336ce7cfbe]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/3/regulation/2) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-4631d5a124b140ea895a80336ce7cfbe]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/3/regulation/2) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 
 [^f00003]: Footnote: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
-[^key-965dac139a01dd7ce987f10a87c12066]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/3/regulation/3) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-965dac139a01dd7ce987f10a87c12066]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/3/regulation/3) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-f589cd7a43ff9eecaade2a345a22242b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/3/regulation/4) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-f589cd7a43ff9eecaade2a345a22242b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/3/regulation/4) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
 [^f00004]: Footnote: [1993 c.36](https://www.legislation.gov.uk/ukpga/1993/36)
 
-[^key-338a68db80c99555221541eaa65a51d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/3/regulation/5) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-338a68db80c99555221541eaa65a51d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/3/regulation/5) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-c12b4e0da988597dbd5360a5d4eb1a42]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/1/a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/54) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-c12b4e0da988597dbd5360a5d4eb1a42]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/1/a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/54) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
 [^f00005]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40); see also Article 46 of [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231) and Article 23 of [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
 [^f00006]: Footnote: [1998 c.41](https://www.legislation.gov.uk/ukpga/1998/41); see also Article 46 of [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231) and Article 23 of [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
-[^key-9d2eac47c7b0ebd45439a2282a401983]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-9d2eac47c7b0ebd45439a2282a401983]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-ce7ea26f2586c7a53900cc202b67364a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ce7ea26f2586c7a53900cc202b67364a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-6328eab78e8d2d788b34b99c98cd2788]: Textual amendment: [Reg. 5(3A)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3A)[(3B)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3B) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-6328eab78e8d2d788b34b99c98cd2788]: Textual amendment: [Reg. 5(3A)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3A)[(3B)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3B) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-4b36684f8dcdd1d5f19cd02dddb9f57c]: Textual amendment: Words in [reg. 5(3B)(a)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3B/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b36684f8dcdd1d5f19cd02dddb9f57c]: Textual amendment: Words in [reg. 5(3B)(a)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/3B/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83ff4b2a666a8abcd10827ac3833652e]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-83ff4b2a666a8abcd10827ac3833652e]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 338(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/338/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-c2ab9a67aff63982f9103de08de07751]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2ab9a67aff63982f9103de08de07751]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(3)(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/3/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-05c13d6215cf7bd343918ddbbfb46d63]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05c13d6215cf7bd343918ddbbfb46d63]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(3)(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/3/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e5b92acf30dadf767f737942ff36227]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e5b92acf30dadf767f737942ff36227]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/nisr/2008/3/regulation/5/5) inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 76(3)(c)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/76/3/c) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22401944e58c5411644f47526439bf07]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/3/regulation/6) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-22401944e58c5411644f47526439bf07]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/3/regulation/6) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-1354e0a33d9377cd5319219f2708cb1f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/3/regulation/7) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-1354e0a33d9377cd5319219f2708cb1f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/3/regulation/7) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-b1150f930cf49fe6b6f52659e7f47530]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/3/regulation/8) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-b1150f930cf49fe6b6f52659e7f47530]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/3/regulation/8) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-cfb22a06205400a899330851c9d20554]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/3/regulation/9) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-cfb22a06205400a899330851c9d20554]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/3/regulation/9) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
 
-[^key-45c68d6134f8f60dd0850f6ddccd5474]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/3/regulation/10) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)
+[^c-45c68d6134f8f60dd0850f6ddccd5474]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/3/regulation/10) in operation at 15.2.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/3/regulation/1)

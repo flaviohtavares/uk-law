@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.35. Application to set aside registration of, or to set aside decision not to register, an order made in the Republic of Ireland[^key-50a42694c93bb52f845722b28b9d8a79]
+## 5.35. Application to set aside registration of, or to set aside decision not to register, an order made in the Republic of Ireland[^c-50a42694c93bb52f845722b28b9d8a79]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50a42694c93bb52f845722b28b9d8a79]: Textual amendment: Rule 5.35 omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(6)(c)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/6/c) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-50a42694c93bb52f845722b28b9d8a79]: Textual amendment: Rule 5.35 omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(6)(c)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/6/c) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

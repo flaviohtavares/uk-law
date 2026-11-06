@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. General modifications[^key-57d66d93cd2b11ad1d39d68f7dd72024]
+## 19. General modifications[^c-57d66d93cd2b11ad1d39d68f7dd72024]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Unless otherwise specified in this Part, these Regulations have effect as if—
 
 ## Annotations
 
-[^key-57d66d93cd2b11ad1d39d68f7dd72024]: Commencement: Reg. 19 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-57d66d93cd2b11ad1d39d68f7dd72024]: Commencement: Reg. 19 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

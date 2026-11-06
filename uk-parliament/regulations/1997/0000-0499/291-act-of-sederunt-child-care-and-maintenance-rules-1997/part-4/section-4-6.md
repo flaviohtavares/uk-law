@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.6. Cancellation or variation of registered Part I order[^key-31908d1590614ae0b6c4b2902528ac35]
+## 4.6. Cancellation or variation of registered Part I order[^c-31908d1590614ae0b6c4b2902528ac35]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31908d1590614ae0b6c4b2902528ac35]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/uksi/1997/291/rule/4.6) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-31908d1590614ae0b6c4b2902528ac35]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/uksi/1997/291/rule/4.6) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Animal transport certificate[^key-caa710881727e90e950710115a281758]
+## 14. Animal transport certificate[^c-caa710881727e90e950710115a281758]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caa710881727e90e950710115a281758]: Commencement: Art. 14 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-caa710881727e90e950710115a281758]: Commencement: Art. 14 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

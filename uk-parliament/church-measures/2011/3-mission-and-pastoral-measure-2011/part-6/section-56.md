@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 56. Commissioners to appoint Committee with duties in respect of buildings closed for regular public worship[^key-e89d8a4733cc9010ae3aa16f27543650]
+## 56. Commissioners to appoint Committee with duties in respect of buildings closed for regular public worship[^c-e89d8a4733cc9010ae3aa16f27543650]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89d8a4733cc9010ae3aa16f27543650]: Commencement: S. 56 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-e89d8a4733cc9010ae3aa16f27543650]: Commencement: S. 56 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

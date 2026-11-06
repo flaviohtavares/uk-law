@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Punishment of offences[^key-bacc95ef4a4dd627dec614eafaa536ea]
+## 154. Punishment of offences[^c-bacc95ef4a4dd627dec614eafaa536ea]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bacc95ef4a4dd627dec614eafaa536ea]: Commencement: [Rule 154](https://www.legislation.gov.uk/uksi/2013/3208/rule/154) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-bacc95ef4a4dd627dec614eafaa536ea]: Commencement: [Rule 154](https://www.legislation.gov.uk/uksi/2013/3208/rule/154) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

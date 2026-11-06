@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Compulsory acquisition of rights and imposition of restrictive covenants[^key-ca105551002047716277e513bb3aaf15]
+## 27. Compulsory acquisition of rights and imposition of restrictive covenants[^c-ca105551002047716277e513bb3aaf15]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca105551002047716277e513bb3aaf15]: Commencement: Art. 27 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-ca105551002047716277e513bb3aaf15]: Commencement: Art. 27 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

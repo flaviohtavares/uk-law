@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Duty on goods imported into or removed from Northern Ireland[^c24415711][^key-17444395f6fedb51565de70f150e22f2]
+## 2. Duty on goods imported into or removed from Northern Ireland[^c24415711][^c-17444395f6fedb51565de70f150e22f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 [^c24415711]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/26/section/2) in force at Royal Assent for specified purposes, see [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e)
 
-[^key-17444395f6fedb51565de70f150e22f2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/26/section/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-17444395f6fedb51565de70f150e22f2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/26/section/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

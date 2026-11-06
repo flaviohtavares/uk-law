@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Right to buy same land exercisable by only one Part 5 community body[^key-3392d20c5d2ad8e59b6e073568c1efe7]
+## 58. Right to buy same land exercisable by only one Part 5 community body[^c-3392d20c5d2ad8e59b6e073568c1efe7]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3392d20c5d2ad8e59b6e073568c1efe7]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2016/18/section/58) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-3392d20c5d2ad8e59b6e073568c1efe7]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2016/18/section/58) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

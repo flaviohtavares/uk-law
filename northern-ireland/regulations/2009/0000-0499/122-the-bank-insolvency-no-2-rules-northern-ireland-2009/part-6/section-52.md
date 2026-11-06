@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Suspension and adjournment[^key-8c45c473003474a91dbb020f57e5d3f5]
+## 52. Suspension and adjournment[^c-8c45c473003474a91dbb020f57e5d3f5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c45c473003474a91dbb020f57e5d3f5]: Commencement: Rule 52 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8c45c473003474a91dbb020f57e5d3f5]: Commencement: Rule 52 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

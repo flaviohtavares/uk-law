@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Meaning of “final pay”[^key-c976e42cda7f1fd93a2c7a5293232f98]
+## 128. Meaning of “final pay”[^c-c976e42cda7f1fd93a2c7a5293232f98]
 
 *Extent: N.I.*
 
@@ -35,13 +35,13 @@ summary: ''
 - (a) that pension was eligible to be so increased; and
 - (b) the beginning date for that pension was the first day of the next scheme year after the earnings year.
 
-(4)[^key-9356baa625b539c67bda704135d42ba2] In this regulation—
+(4)[^c-9356baa625b539c67bda704135d42ba2] In this regulation—
 
 - (a) if the member is a transition member with continuity of service, “pensionable earnings” in respect of any period includes the member’s pensionable earnings under the PCSPS(NI) before the transition date for that member; and
 - (b) in respect of a period of assumed pay, “**pensionable earnings**” means the member’s assumed pay.
 
 ## Annotations
 
-[^key-c976e42cda7f1fd93a2c7a5293232f98]: Commencement: [Reg. 128](https://www.legislation.gov.uk/nisr/2014/290/regulation/128) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c976e42cda7f1fd93a2c7a5293232f98]: Commencement: [Reg. 128](https://www.legislation.gov.uk/nisr/2014/290/regulation/128) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-9356baa625b539c67bda704135d42ba2]: Textual amendment: [Reg. 128(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/128/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2022/67/regulation/38)
+[^c-9356baa625b539c67bda704135d42ba2]: Textual amendment: [Reg. 128(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/128/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2022/67/regulation/38)

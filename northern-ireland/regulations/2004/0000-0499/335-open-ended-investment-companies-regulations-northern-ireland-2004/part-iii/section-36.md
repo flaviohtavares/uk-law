@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Inspection of directors' service contracts[^key-1350683ba84583920cfcab71cac650c4]
+## 36. Inspection of directors' service contracts[^c-1350683ba84583920cfcab71cac650c4]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1350683ba84583920cfcab71cac650c4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2004/335/regulation/36) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-1350683ba84583920cfcab71cac650c4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2004/335/regulation/36) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -30,11 +30,11 @@ summary: ''
 
 (5A)[^c8119401] Where a solicitor is suspended from practice as a solicitor by virtue of paragraph (a) or (b) of section 18(1), the period of suspension shall, for the purposes of section 15(2)(f), expire on the solicitor ceasing to be detained in hospital[^c20654681] or subject to guardianship or, as the case may be, on the *curator bonis* being discharged.
 
-(5B)[^key-42b6c689c45e4c1a7d5ee221e500afde] A suspension from practice arising by virtue of section 18(1ZA) expires if the grounds for it no longer apply.
+(5B)[^c-42b6c689c45e4c1a7d5ee221e500afde] A suspension from practice arising by virtue of section 18(1ZA) expires if the grounds for it no longer apply.
 
 (5C) On the occurrence of any of the circumstances mentioned in subsections (4) to (5B), the solicitor concerned must notify the Council in writing (and without delay).
 
-(6) Where a solicitor is suspended from practice as a solicitor by virtue of paragraphs (c), (d) or (e) of section 18(1) or by virtue of section 18(1ZA)[^key-8b32c0726a9f3613ab86f2f761b7a954] , he may at any time apply to the Council to terminate the suspension.
+(6) Where a solicitor is suspended from practice as a solicitor by virtue of paragraphs (c), (d) or (e) of section 18(1) or by virtue of section 18(1ZA)[^c-8b32c0726a9f3613ab86f2f761b7a954] , he may at any time apply to the Council to terminate the suspension.
 
 (7) On an application under subsection (6), the Council may either—
 
@@ -55,6 +55,6 @@ summary: ''
 
 [^c20654681]: Textual amendment: Words in [s. 19(5A)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/5A) substituted (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/9/3)
 
-[^key-42b6c689c45e4c1a7d5ee221e500afde]: Textual amendment: [S. 19(5B)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/5B)[(5C)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/5C) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(2)(a)](https://www.legislation.gov.uk/asp/2010/16/section/137/2/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-42b6c689c45e4c1a7d5ee221e500afde]: Textual amendment: [S. 19(5B)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/5B)[(5C)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/5C) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(2)(a)](https://www.legislation.gov.uk/asp/2010/16/section/137/2/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
 
-[^key-8b32c0726a9f3613ab86f2f761b7a954]: Textual amendment: Words in [s. 19(6)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/6) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(2)(b)](https://www.legislation.gov.uk/asp/2010/16/section/137/2/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)
+[^c-8b32c0726a9f3613ab86f2f761b7a954]: Textual amendment: Words in [s. 19(6)](https://www.legislation.gov.uk/ukpga/1980/46/section/19/6) inserted (1.5.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 137(2)(b)](https://www.legislation.gov.uk/asp/2010/16/section/137/2/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(a)](https://www.legislation.gov.uk/ssi/2011/180/article/4/a)

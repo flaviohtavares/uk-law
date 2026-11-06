@@ -50,13 +50,13 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 104(3) to (7) of the Finance Act 2009[^f00001].
 
-## 1. Citation, commencement and effect[^key-1574722c5fb4ff59c94adaf997843568]
+## 1. Citation, commencement and effect[^c-1574722c5fb4ff59c94adaf997843568]
 
 (1) This Order may be cited as the Finance Act 2009, Sections 101 to 103 (Income Tax Self Assessment) (Appointed Days and Transitional and Consequential Provisions) Order 2011 and comes into force on 1st April 2011.
 
 (2) The amendments made by articles 6 to 11 have effect on and after 31st October 2011.
 
-## 2. Interpretation[^key-6aa3ceaadedb99fc1dae85c81211d077]
+## 2. Interpretation[^c-6aa3ceaadedb99fc1dae85c81211d077]
 
 In this Order—
 
@@ -70,13 +70,13 @@ In this Order—
 
   and includes any penalties assessed in relation to that tax or amount.
 
-## 3. Appointed days[^key-a88b47143b96339d71ae22ae87f01352][^key-25c82b7897bf93379ccf0fb06fd81d05]
+## 3. Appointed days[^c-a88b47143b96339d71ae22ae87f01352][^c-25c82b7897bf93379ccf0fb06fd81d05]
 
 (1) 31st October 2011 is the day appointed for the coming into force of sections 101 and 103 of the Finance Act 2009 (late payment interest on sums due to HMRC)[^f00006] for the purposes of any self-assessment amount payable by a person to HMRC.
 
 (2) 31st October 2011 is the day appointed for the coming into force of sections 102 and 103 of the Finance Act 2009 (repayment interest on sums to be paid by HMRC)[^f00007] for the purposes of any self-assessment amount payable or repayable by HMRC to any person.
 
-## 4. Transitional provision[^key-bc240cc49c5852bca585cd14b18a09c9][^key-17c3087d0df993f6ade8e33714669f8e]
+## 4. Transitional provision[^c-bc240cc49c5852bca585cd14b18a09c9][^c-17c3087d0df993f6ade8e33714669f8e]
 
 (1) In relation to any self-assessment amount payable by a person to HMRC and outstanding immediately prior to 31st October 2011—
 
@@ -88,15 +88,15 @@ In this Order—
 - (a) section 824 of the Income and Corporation Taxes Act 1988 (repayment supplements: individuals and others)[^f00009] and section 283 of the Taxation of Chargeable Gains Act 1992 (repayment supplements)[^f00010] have effect up to and including 30th October 2011, and
 - (b) sections 102 and 103 of the Finance Act 2009 have effect on and after 31st October 2011.
 
-## 5.[^key-43b33a3fc2e619cdf957935076a4b288]
+## 5.[^c-43b33a3fc2e619cdf957935076a4b288]
 
 For the avoidance of doubt, section 86 of the Taxes Management Act 1970, section 824 of the Income and Corporation Taxes Act 1988 and section 283 of the Taxation of Chargeable Gains Act 1992 do not have effect in relation to any self-assessment amount which becomes payable or repayable on or after 31st October 2011.
 
-## 6. Consequential provision[^key-7c6eef2e126ccbfdc1041e84836734a5]
+## 6. Consequential provision[^c-7c6eef2e126ccbfdc1041e84836734a5]
 
 The Taxes Management Act 1970 is amended as follows.
 
-## 7.[^key-7825ea3394c2b4a2d92bfbbea77d0e96]
+## 7.[^c-7825ea3394c2b4a2d92bfbbea77d0e96]
 
 In section 69(1) (recovery of penalty, surcharge or interest)[^f00011], at the end of paragraph (c) insert—
 
@@ -104,7 +104,7 @@ In section 69(1) (recovery of penalty, surcharge or interest)[^f00011], at the e
 >
 > - (d) interest charged under section 101 of the Finance Act 2009.
 
-## 8.[^key-2f140e94c4062a599dcce722418d99b9]
+## 8.[^c-2f140e94c4062a599dcce722418d99b9]
 
 (1) Section 107A (relevant trustees)[^f00012] is amended as follows.
 
@@ -136,18 +136,18 @@ In section 69(1) (recovery of penalty, surcharge or interest)[^f00011], at the e
 
     .
 
-## 9.[^key-c246e70da4becd994e0fc8f4a4905d41]
+## 9.[^c-c246e70da4becd994e0fc8f4a4905d41]
 
 In paragraph 6(1) of Schedule 2 to the Social Security Contributions and Benefits Act 1992 (other provisions)[^f00013]—
 
 - (a) for “Section 86 of the Taxes Management Act 1970 (interest on overdue tax)” substitute “Section 101 of the Finance Act 2009 (late payment interest on sums due to HMRC)”; and
 - (b) for “section 824 of the Act of 1988 (repayment supplements)” substitute “section 102 of the Finance Act 2009 (repayment interest on sums to be paid by HMRC)”.
 
-## 10.[^key-69da53fc6be9c226adbaa94a7c295a93]
+## 10.[^c-69da53fc6be9c226adbaa94a7c295a93]
 
 In the Taxes (Interest Rate) Regulations 1989[^f00014], omit regulation 3(1)(ab).
 
-## 11.[^key-6278c24b08ec088b2d1a5e40e44eb959]
+## 11.[^c-6278c24b08ec088b2d1a5e40e44eb959]
 
 In regulation 4(1) of the Recovery of Social Security Contributions Due in Other Member States Regulations 2010 (interest for late payment of claims)[^f00015] for the words from “under section 178” to “inclusive” substitute—
 
@@ -192,9 +192,9 @@ A full Impact Assessment of the effect that the interest harmonisation and late 
 
 [^f00001]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-1574722c5fb4ff59c94adaf997843568]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
+[^c-1574722c5fb4ff59c94adaf997843568]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
 
-[^key-6aa3ceaadedb99fc1dae85c81211d077]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
+[^c-6aa3ceaadedb99fc1dae85c81211d077]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
 
 [^f00002]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Section 8, together with sections 8A and 9, was subsituted for sections 8 and 9 by section 90(1) of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) and relevantly amended by section 178(1) of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9); section 121(1) of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8); and sections 88(1) and (2) and 114 of, and Part 5(3) of Schedule 27 to, the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
@@ -204,17 +204,17 @@ A full Impact Assessment of the effect that the interest harmonisation and late 
 
 [^f00005]: Footnote: Section 29 was subsituted by section 191 of the Finance Act 1994 and amended by section 117(3) of, and paragraph 12 of Schedule 19 to, the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36); section 88 of, and paragraph 22 of Schedule 29 to, the [Finance Act 2001(c. 9)](https://www.legislation.gov.uk/ukpga/2001/9); section 88(2) of the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7); sections 113 and 118 of, and paragraphs 65 and 71 of Schedule 36, and paragraphs 1 and 3 of Schedule 39, to, the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9); and section 374 of, and paragraphs 1 and 5 of Schedule 8 to the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8).
 
-[^key-a88b47143b96339d71ae22ae87f01352]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
+[^c-a88b47143b96339d71ae22ae87f01352]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
 
-[^key-25c82b7897bf93379ccf0fb06fd81d05]: Modification: [Art. 3](https://www.legislation.gov.uk/uksi/2011/701/article/3) modified (30.9.2011) by [The Finance Act 2009, Section 103 (Appointed Day) Order 2011 (S.I. 2011/2401)](https://www.legislation.gov.uk/uksi/2011/2401), [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/2401/article/2/2)
+[^c-25c82b7897bf93379ccf0fb06fd81d05]: Modification: [Art. 3](https://www.legislation.gov.uk/uksi/2011/701/article/3) modified (30.9.2011) by [The Finance Act 2009, Section 103 (Appointed Day) Order 2011 (S.I. 2011/2401)](https://www.legislation.gov.uk/uksi/2011/2401), [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/2401/article/2/2)
 
 [^f00006]: Footnote: For the rate of interest under section 103 see [S.I. 2010/1879](https://www.legislation.gov.uk/uksi/2010/1879).
 
 [^f00007]: Footnote: For the rate of interest under section 103 see [S.I. 2010/1879](https://www.legislation.gov.uk/uksi/2010/1879).
 
-[^key-bc240cc49c5852bca585cd14b18a09c9]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
+[^c-bc240cc49c5852bca585cd14b18a09c9]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
 
-[^key-17c3087d0df993f6ade8e33714669f8e]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2011/701/article/4) modified (30.9.2011) by [The Finance Act 2009, Section 103 (Appointed Day) Order 2011 (S.I. 2011/2401)](https://www.legislation.gov.uk/uksi/2011/2401), [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/2401/article/2/2)
+[^c-17c3087d0df993f6ade8e33714669f8e]: Modification: [Art. 4](https://www.legislation.gov.uk/uksi/2011/701/article/4) modified (30.9.2011) by [The Finance Act 2009, Section 103 (Appointed Day) Order 2011 (S.I. 2011/2401)](https://www.legislation.gov.uk/uksi/2011/2401), [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/2401/article/2/2)
 
 [^f00008]: Footnote: Section 86 was amended by sections 131(2) and 132 of, and paragraph 3 of Schedule 18 to, the Finance Act 1996.
 
@@ -222,26 +222,26 @@ A full Impact Assessment of the effect that the interest harmonisation and late 
 
 [^f00010]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12). Section 283 was amended by sections 196 and 258 of, and paragraph 46 of Schedule 19, and Part 5(23) of Schedule 26, to, the Finance Act 1994; section 92(5) of the Finance Act 1997; and sections 88 and 178 of, and paragraphs 7 and 24 of Schedule 12, and Part 3(15) of Schedule 26, to, the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-43b33a3fc2e619cdf957935076a4b288]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
+[^c-43b33a3fc2e619cdf957935076a4b288]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/701/article/1/1)
 
-[^key-7c6eef2e126ccbfdc1041e84836734a5]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
+[^c-7c6eef2e126ccbfdc1041e84836734a5]: Commencement: Art. 6 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
 
-[^key-7825ea3394c2b4a2d92bfbbea77d0e96]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
+[^c-7825ea3394c2b4a2d92bfbbea77d0e96]: Commencement: Art. 7 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
 
 [^f00011]: Footnote: Section 69 was substituted by section 89(2) of the Finance Act 2001 and relevantly amended by article 6 of [S.I. 2011/702](https://www.legislation.gov.uk/uksi/2011/702).
 
-[^key-2f140e94c4062a599dcce722418d99b9]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
+[^c-2f140e94c4062a599dcce722418d99b9]: Commencement: Art. 8 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
 
 [^f00012]: Footnote: Section 107A was inserted by section 103(5) of the Finance Act 1995 and amended by section 113 of, and paragraphs 65 and 75 of Schedule 36 to, the Finance Act 2008; article 8 of, and paragraphs 1 and 4 of Schedule 1 to, [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571); article 2 of, and paragraphs 1 and 3 of the Schedule to, [S.I. 2010/530](https://www.legislation.gov.uk/uksi/2010/530) and article 10 of [S.I. 2011/702](https://www.legislation.gov.uk/uksi/2011/702).
 
-[^key-c246e70da4becd994e0fc8f4a4905d41]: Commencement: Art. 9 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
+[^c-c246e70da4becd994e0fc8f4a4905d41]: Commencement: Art. 9 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
 
 [^f00013]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Paragraph 6(1) was amended by section 59(5) of the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-69da53fc6be9c226adbaa94a7c295a93]: Commencement: Art. 10 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
+[^c-69da53fc6be9c226adbaa94a7c295a93]: Commencement: Art. 10 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
 
 [^f00014]: Footnote: [S.I. 1989/1297](https://www.legislation.gov.uk/uksi/1989/1297). Regulation 3 was substituted by regulation 2 of [S.I. 1996/3187](https://www.legislation.gov.uk/uksi/1996/3187) and relevantly amended by regulation 2 of [S.I. 1998/310](https://www.legislation.gov.uk/uksi/1998/310).
 
-[^key-6278c24b08ec088b2d1a5e40e44eb959]: Commencement: Art. 11 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
+[^c-6278c24b08ec088b2d1a5e40e44eb959]: Commencement: Art. 11 in force at 1.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/701/article/1)
 
 [^f00015]: Footnote: [S.I. 2010/926](https://www.legislation.gov.uk/uksi/2010/926).

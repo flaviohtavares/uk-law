@@ -54,23 +54,23 @@ In accordance with section 163A of the New Roads and Street Works Act 1991[^f000
 
 as they think appropriate.
 
-## 1. Citation and commencement[^key-fd78e0d30431e3340fe9102f8b569bfd]
+## 1. Citation and commencement[^c-fd78e0d30431e3340fe9102f8b569bfd]
 
 These Regulations may be cited as the Road Works (Scottish Road Works Register Fees and Miscellaneous Amendment) Regulations 2024 and come into force on 1 April 2024.
 
-## 2. Interpretation[^key-35fa977c1c683cade0c5913cd2faad66]
+## 2. Interpretation[^c-35fa977c1c683cade0c5913cd2faad66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed fees[^key-0f3851e67db7adab240bb46c23dfa041]
+## 3. Prescribed fees[^c-0f3851e67db7adab240bb46c23dfa041]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-5866c021a53409cbf80eb679696f7966]
+## 4. Revocation[^c-5866c021a53409cbf80eb679696f7966]
 
 The Scottish Road Works Register (Prescribed Fees) Regulations 2022[^f00008] are revoked.
 
-## 5. Amendment of the Road Works (Qualifications of Operatives and Supervisors) (Scotland) Regulations 2017[^key-43dd6d1580bf7b2abdcb6ef36af182f2]
+## 5. Amendment of the Road Works (Qualifications of Operatives and Supervisors) (Scotland) Regulations 2017[^c-43dd6d1580bf7b2abdcb6ef36af182f2]
 
 (1) The Road Works (Qualifications of Operatives and Supervisors) (Scotland) Regulations 2017[^f00009] are amended in accordance with paragraph (2).
 
@@ -86,7 +86,7 @@ The Scottish Road Works Register (Prescribed Fees) Regulations 2022[^f00008] are
 
   .
 
-## 6. Amendment of the Road Works (Reinstatement Quality Plans, Qualifications of Supervisors and Operatives and Miscellaneous Amendments) (Scotland) Regulations 2023[^key-506366883bf40a3e94b1e8e20c6ef3f9]
+## 6. Amendment of the Road Works (Reinstatement Quality Plans, Qualifications of Supervisors and Operatives and Miscellaneous Amendments) (Scotland) Regulations 2023[^c-506366883bf40a3e94b1e8e20c6ef3f9]
 
 (1) The Road Works (Reinstatement Quality Plans, Qualifications of Supervisors and Operatives and Miscellaneous Amendments) (Scotland) Regulations 2023[^f00012] are amended in accordance with paragraph (2).
 
@@ -112,7 +112,7 @@ Edinburgh
 
 23rd January 2024
 
-## SCHEDULE — FIGURES FOR ROADS AUTHORITIES IN RELATION TO FORMULAE FOR CALCULATION OF PRESCRIBED FEES UNDER REGULATION 3(3)[^key-5c2e3ebbc3696e49e9d2a09c2976f640]
+## SCHEDULE — FIGURES FOR ROADS AUTHORITIES IN RELATION TO FORMULAE FOR CALCULATION OF PRESCRIBED FEES UNDER REGULATION 3(3)[^c-5c2e3ebbc3696e49e9d2a09c2976f640]
 
 Regulation 3(3)
 
@@ -180,17 +180,17 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00003]: Footnote: Section 163A was inserted by section 39 of the 2005 Act.
 
-[^key-fd78e0d30431e3340fe9102f8b569bfd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
+[^c-fd78e0d30431e3340fe9102f8b569bfd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
 
-[^key-35fa977c1c683cade0c5913cd2faad66]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/23/regulation/2) revoked (1.4.2025) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2025 (S.S.I. 2025/18)](https://www.legislation.gov.uk/ssi/2025/18), [regs. 1](https://www.legislation.gov.uk/ssi/2025/18/regulation/1), [4](https://www.legislation.gov.uk/ssi/2025/18/regulation/4)
+[^c-35fa977c1c683cade0c5913cd2faad66]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/23/regulation/2) revoked (1.4.2025) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2025 (S.S.I. 2025/18)](https://www.legislation.gov.uk/ssi/2025/18), [regs. 1](https://www.legislation.gov.uk/ssi/2025/18/regulation/1), [4](https://www.legislation.gov.uk/ssi/2025/18/regulation/4)
 
-[^key-0f3851e67db7adab240bb46c23dfa041]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/23/regulation/3) revoked (1.4.2025) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2025 (S.S.I. 2025/18)](https://www.legislation.gov.uk/ssi/2025/18), [regs. 1](https://www.legislation.gov.uk/ssi/2025/18/regulation/1), [4](https://www.legislation.gov.uk/ssi/2025/18/regulation/4)
+[^c-0f3851e67db7adab240bb46c23dfa041]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/23/regulation/3) revoked (1.4.2025) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2025 (S.S.I. 2025/18)](https://www.legislation.gov.uk/ssi/2025/18), [regs. 1](https://www.legislation.gov.uk/ssi/2025/18/regulation/1), [4](https://www.legislation.gov.uk/ssi/2025/18/regulation/4)
 
-[^key-5866c021a53409cbf80eb679696f7966]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/23/regulation/4) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
+[^c-5866c021a53409cbf80eb679696f7966]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/23/regulation/4) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
 
 [^f00008]: Footnote: [S.S.I. 2022/9](https://www.legislation.gov.uk/ssi/2022/9).
 
-[^key-43dd6d1580bf7b2abdcb6ef36af182f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2024/23/regulation/5) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
+[^c-43dd6d1580bf7b2abdcb6ef36af182f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2024/23/regulation/5) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2017/147](https://www.legislation.gov.uk/ssi/2017/147), as relevantly amended by [S.S.I. 2019/159](https://www.legislation.gov.uk/ssi/2019/159).
 
@@ -198,7 +198,7 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00011]: Footnote: EUIAS means Energy and Utility Skills Limited, a company limited by guarantee and registered in England and Wales under company number 03812163.
 
-[^key-506366883bf40a3e94b1e8e20c6ef3f9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2024/23/regulation/6) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
+[^c-506366883bf40a3e94b1e8e20c6ef3f9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2024/23/regulation/6) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
 
 [^f00012]: Footnote: [S.S.I. 2023/33](https://www.legislation.gov.uk/ssi/2023/33).
 
@@ -206,4 +206,4 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00014]: Footnote: EUIAS means Energy and Utility Skills Limited, a company limited by guarantee and registered in England and Wales under company number 03812163.
 
-[^key-5c2e3ebbc3696e49e9d2a09c2976f640]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2024/23/schedule) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)
+[^c-5c2e3ebbc3696e49e9d2a09c2976f640]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2024/23/schedule) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/23/regulation/1)

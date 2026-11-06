@@ -178,7 +178,7 @@ Section 38(1)
 
 *Extent: S*
 
-**29.**[^key-05a690097c9ed5be31f84bd7804e7f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-05a690097c9ed5be31f84bd7804e7f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Public Works Loans Act 1965 (c. 63)
 
@@ -402,7 +402,7 @@ Section 38(1)
 
 [^c10762091]: Textual amendment: Sch. 6 Pt. II para. 23 repealed (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/2)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 
-[^key-05a690097c9ed5be31f84bd7804e7f65]: Textual amendment: Sch. 6 para. 29 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-05a690097c9ed5be31f84bd7804e7f65]: Textual amendment: Sch. 6 para. 29 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
 [^c10762101]: Textual amendment: Sch. 6 Pt. II para. 34 repealed (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/2)); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(d)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/3150/schedule/2)
 

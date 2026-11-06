@@ -28,7 +28,7 @@ summary: ''
 
 (2) Any payment under paragraph (1) shall be calculated in accordance with actuarial guidance issued by the Department.
 
-(2A)[^key-0db3dbbb6afeac4566dd51696db73ecc] In the case of an eligible member, the pension used to calculate a payment under paragraph (1) is to include—
+(2A)[^c-0db3dbbb6afeac4566dd51696db73ecc] In the case of an eligible member, the pension used to calculate a payment under paragraph (1) is to include—
 
 - (a) where the pension is in payment—
   - (i) any final guarantee amount calculated in respect of the eligible member’s pension account under regulation 4B (statutory underpin; retirement, redundancy, ill-health) or 4C (statutory underpin: flexible retirement) of the Transitional Regulations; and
@@ -40,7 +40,7 @@ summary: ''
 
 (3) If a member receives a payment under this regulation, any pension account relating to that payment shall be closed and the member is entitled to no further benefits in relation to that pension account and no survivor benefits are subsequently payable upon the death of the member.
 
-(4)[^key-c8704b14fa877f7ad448e5c29475f7ed] In this regulation—
+(4)[^c-c8704b14fa877f7ad448e5c29475f7ed] In this regulation—
 
 - “**eligible member**” has the meaning given in regulation 4A(2) (statutory underpin: general) of the Transitional Regulations; and
 - “**survivor guarantee amount**” has the meaning given in regulation 4M(3) of the Transitional Regulations.
@@ -49,6 +49,6 @@ summary: ''
 
 [^c22152201]: Marginal citation: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171); regulations 11 and 12 were amended by [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751)
 
-[^key-0db3dbbb6afeac4566dd51696db73ecc]: Textual amendment: [Reg. 35(2A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/35/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/3/a)
+[^c-0db3dbbb6afeac4566dd51696db73ecc]: Textual amendment: [Reg. 35(2A)](https://www.legislation.gov.uk/nisr/2014/188/regulation/35/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/3/a)
 
-[^key-c8704b14fa877f7ad448e5c29475f7ed]: Textual amendment: [Reg. 35(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/35/4) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/3/b)
+[^c-c8704b14fa877f7ad448e5c29475f7ed]: Textual amendment: [Reg. 35(4)](https://www.legislation.gov.uk/nisr/2014/188/regulation/35/4) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/149)](https://www.legislation.gov.uk/nisr/2023/149), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/149/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2023/149/regulation/3/3/b)

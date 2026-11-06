@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**70.**[^key-81b6208cfe53669b79586b505e92332c] A person shall not use live fish as bait on a hook for the purpose of attracting and taking fish whilst angling in fresh water.
+**70.**[^c-81b6208cfe53669b79586b505e92332c] A person shall not use live fish as bait on a hook for the purpose of attracting and taking fish whilst angling in fresh water.
 
 ## Annotations
 
-[^key-81b6208cfe53669b79586b505e92332c]: Commencement: S. 70 in operation at 1.11.1997, see byelaw 1
+[^c-81b6208cfe53669b79586b505e92332c]: Commencement: S. 70 in operation at 1.11.1997, see byelaw 1

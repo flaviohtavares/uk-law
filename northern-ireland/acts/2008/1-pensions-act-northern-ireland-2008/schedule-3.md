@@ -28,8 +28,8 @@ Section 11.
 
 **3.** For the heading for Schedule 2 to that Order substitute “ EQUALISATION OF AND INCREASE IN PENSIONABLE AGE FOR MEN AND WOMEN ”.
 
-**4.**[^key-cf3d089a49bdf079971273e3e377b4c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf3d089a49bdf079971273e3e377b4c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf3d089a49bdf079971273e3e377b4c0]: Textual amendment: [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/4) omitted (2.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2012/3/schedule/1/paragraph/6)
+[^c-cf3d089a49bdf079971273e3e377b4c0]: Textual amendment: [Sch. 3 para. 4(4)](https://www.legislation.gov.uk/nia/2008/1/schedule/3/paragraph/4/4) omitted (2.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2012/3/schedule/1/paragraph/6)

@@ -26,7 +26,7 @@ Section 76(6)
 
 ### Registration of adoption orders
 
-**1.**[^key-440b0845a4f64e686e17e69714040801] (1) Every adoption order must contain a direction to the Registrar General to make in the Adopted Children Register an entry in the form prescribed by regulations made by the Department of Finance.
+**1.**[^c-440b0845a4f64e686e17e69714040801] (1) Every adoption order must contain a direction to the Registrar General to make in the Adopted Children Register an entry in the form prescribed by regulations made by the Department of Finance.
 
 (2) Where, on an application to a court for an adoption order in respect of a child, the identity of the child with a child to whom an entry in the registers of live-births or other records relates is proved to the satisfaction of the court, any adoption order made in pursuance of the application must contain a direction to the Registrar General to secure that the entry in the register or, as the case may be, record in question is marked with the word “Adopted”.
 
@@ -41,7 +41,7 @@ Section 76(6)
 
 ### Registration of adoptions in Great Britain, the Isle of Man and the Channel Islands
 
-**2.**[^key-1025e1943946b50d6cc528195b152f09] (1) Sub-paragraphs (2) and (3) apply where the Registrar General is notified by the authority maintaining a register of adoptions in a part of Great Britain or in the Isle of Man or the Channel Islands that an order has been made authorising the adoption of a child.
+**2.**[^c-1025e1943946b50d6cc528195b152f09] (1) Sub-paragraphs (2) and (3) apply where the Registrar General is notified by the authority maintaining a register of adoptions in a part of Great Britain or in the Isle of Man or the Channel Islands that an order has been made authorising the adoption of a child.
 
 (2) If an entry in the registers of live-births or other records (and no entry in the Adopted Children Register) relates to the child, the Registrar General must secure that the entry is marked with—
 
@@ -65,7 +65,7 @@ the Registrar General must secure that the marking is cancelled.
 
 ### Registration of other adoptions
 
-**3.**[^key-76c1848ce04b5f6e06d9c749424c9161] (1) If the Registrar General is satisfied, on an application under this paragraph, that there are sufficient particulars relating to a child adopted under a registrable foreign adoption to enable an entry to be made in the Adopted Children Register for the child, the Registrar General must make the entry accordingly.
+**3.**[^c-76c1848ce04b5f6e06d9c749424c9161] (1) If the Registrar General is satisfied, on an application under this paragraph, that there are sufficient particulars relating to a child adopted under a registrable foreign adoption to enable an entry to be made in the Adopted Children Register for the child, the Registrar General must make the entry accordingly.
 
 (2) If the Registrar General is also satisfied that an entry in the registers of live-births or other records relates to the child, the Registrar General must—
 
@@ -90,7 +90,7 @@ the Registrar General must secure that the marking is cancelled.
 
 ### Amendment of orders and rectification of Registers and other records
 
-**4.**[^key-b9c2eff34d1a6c81c450777ff67c4965] (1) The court by which an adoption order has been made may, on the application of the adopter or the adopted person, amend the order by the correction of any error in the particulars contained in it.
+**4.**[^c-b9c2eff34d1a6c81c450777ff67c4965] (1) The court by which an adoption order has been made may, on the application of the adopter or the adopted person, amend the order by the correction of any error in the particulars contained in it.
 
 (2) The court by which an adoption order has been made may, if satisfied on the application of the adopter or the adopted person that within the period of one year beginning with the date of the order any new name—
 
@@ -140,13 +140,13 @@ the Registrar General may secure that such alterations are made in those registe
 
 ### Marking of entries on re-registration of birth on legitimation
 
-**5.**[^key-dc27f3937f1ec47794c1629cdc7681d5] (1) Without prejudice to paragraph 2(4) and paragraph 4(5), where, after an entry in the registers of live-births or other records has been marked in accordance with paragraph 1 or 2, the birth is re-registered under Article 19 of the Births and Deaths Registration (Northern Ireland) Order 1976 (re-registration of births of legitimated persons), the entry made on the re-registration must be marked in the like manner.
+**5.**[^c-dc27f3937f1ec47794c1629cdc7681d5] (1) Without prejudice to paragraph 2(4) and paragraph 4(5), where, after an entry in the registers of live-births or other records has been marked in accordance with paragraph 1 or 2, the birth is re-registered under Article 19 of the Births and Deaths Registration (Northern Ireland) Order 1976 (re-registration of births of legitimated persons), the entry made on the re-registration must be marked in the like manner.
 
 (2) Without prejudice to paragraph 4(9), where an entry in the register of live-births or other records is marked in pursuance of paragraph 3 and the birth in question is subsequently re-registered under Article 19 of that Order, the entry made on re-registration must be marked in the like manner.
 
 ### Cancellations in registers on legitimation
 
-**6.**[^key-e25c1e0b90fa5b25ba40a9080eaa8eed] (1) This paragraph applies where an adoption order is revoked under section 54(1).
+**6.**[^c-e25c1e0b90fa5b25ba40a9080eaa8eed] (1) This paragraph applies where an adoption order is revoked under section 54(1).
 
 (2) The prescribed officer of the court must communicate the revocation in the prescribed manner to the Registrar General who must then cancel or secure the cancellation of—
 
@@ -159,14 +159,14 @@ the Registrar General may secure that such alterations are made in those registe
 
 ## Annotations
 
-[^key-440b0845a4f64e686e17e69714040801]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-440b0845a4f64e686e17e69714040801]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-1025e1943946b50d6cc528195b152f09]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1025e1943946b50d6cc528195b152f09]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-76c1848ce04b5f6e06d9c749424c9161]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-76c1848ce04b5f6e06d9c749424c9161]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-b9c2eff34d1a6c81c450777ff67c4965]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b9c2eff34d1a6c81c450777ff67c4965]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-dc27f3937f1ec47794c1629cdc7681d5]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-dc27f3937f1ec47794c1629cdc7681d5]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
 
-[^key-e25c1e0b90fa5b25ba40a9080eaa8eed]: Commencement: Sch. 1 para. 6 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e25c1e0b90fa5b25ba40a9080eaa8eed]: Commencement: Sch. 1 para. 6 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

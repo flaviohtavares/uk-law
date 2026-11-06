@@ -31,7 +31,7 @@ summary: ''
 
 SALARIES
 
-The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2008 (revoked)[^key-7ef19285adcd5e58c0832515e09f7fd0]
+The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2008 (revoked)[^c-7ef19285adcd5e58c0832515e09f7fd0]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st March 2008
 
-[^key-7ef19285adcd5e58c0832515e09f7fd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ef19285adcd5e58c0832515e09f7fd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-7ef19285adcd5e58c0832515e09f7fd0]
+## 1. Title and commencement[^c-7ef19285adcd5e58c0832515e09f7fd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-7ef19285adcd5e58c0832515e09f7fd0]
+## 2. Revocation[^c-7ef19285adcd5e58c0832515e09f7fd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase in Salaries[^key-7ef19285adcd5e58c0832515e09f7fd0]
+## 3. Increase in Salaries[^c-7ef19285adcd5e58c0832515e09f7fd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ef19285adcd5e58c0832515e09f7fd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ef19285adcd5e58c0832515e09f7fd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ef19285adcd5e58c0832515e09f7fd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ef19285adcd5e58c0832515e09f7fd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ef19285adcd5e58c0832515e09f7fd0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/26) revoked (3.11.2008) by [The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2008 (S.R. 2008/397)](https://www.legislation.gov.uk/nisr/2008/397), [arts. 1](https://www.legislation.gov.uk/nisr/2008/397/article/1), [2](https://www.legislation.gov.uk/nisr/2008/397/article/2)
+[^c-7ef19285adcd5e58c0832515e09f7fd0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/26) revoked (3.11.2008) by [The Salaries (Assembly Ombudsman and Commissioner for Complaints) Order (Northern Ireland) 2008 (S.R. 2008/397)](https://www.legislation.gov.uk/nisr/2008/397), [arts. 1](https://www.legislation.gov.uk/nisr/2008/397/article/1), [2](https://www.legislation.gov.uk/nisr/2008/397/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Penalties for conduct for which the Regulator has given penalty decision: penalty due[^key-4f232f7ed7ad26367c371c640eb1986b][^key-306a926a4e8a770ec6f14e63f0bead2b]
+## 54. Penalties for conduct for which the Regulator has given penalty decision: penalty due[^c-4f232f7ed7ad26367c371c640eb1986b][^c-306a926a4e8a770ec6f14e63f0bead2b]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f232f7ed7ad26367c371c640eb1986b]: Commencement: Art. 54 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-4f232f7ed7ad26367c371c640eb1986b]: Commencement: Art. 54 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-306a926a4e8a770ec6f14e63f0bead2b]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2018/1253/article/54) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-306a926a4e8a770ec6f14e63f0bead2b]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2018/1253/article/54) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

@@ -29,7 +29,7 @@ summary: ''
 - (a) shall be enforceable as if it were an order of the court, and
 - (b) shall cease to have effect if, while it is in force, the applicant has removed the child from the dwelling-house from which the relevant person is excluded to other accommodation for a continuous period of more than 24 hours.
 
-(4) This section has effect without prejudice to the powers of the High Court and family court[^key-c273b3cb979de46be1622f20824ecf4b] apart from this section.
+(4) This section has effect without prejudice to the powers of the High Court and family court[^c-c273b3cb979de46be1622f20824ecf4b] apart from this section.
 
 (5) In this section “exclusion requirement” and “relevant person” have the same meaning as in section 44A.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c15165701]: Textual amendment: Ss. 44A and 44B inserted (1.10.1997*)* by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [ss. 52](https://www.legislation.gov.uk/ukpga/1996/27/section/52), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1996/27/schedule/6/paragraph/3)(with Sch 9 para. 5); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art.3](https://www.legislation.gov.uk/uksi/1997/1892/article/3)
 
-[^key-c273b3cb979de46be1622f20824ecf4b]: Textual amendment: Words in [s. 44B(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/44B/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 107](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/107); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c273b3cb979de46be1622f20824ecf4b]: Textual amendment: Words in [s. 44B(4)](https://www.legislation.gov.uk/ukpga/1989/41/section/44B/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 107](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/107); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

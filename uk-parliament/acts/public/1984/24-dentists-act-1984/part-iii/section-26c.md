@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26C. Information for specified state professionals[^key-2ad8b76d6cbe57ea9d4c9b80e84a9edc]
+## 26C. Information for specified state professionals[^c-2ad8b76d6cbe57ea9d4c9b80e84a9edc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad8b76d6cbe57ea9d4c9b80e84a9edc]: Textual amendment: [S. 26C](https://www.legislation.gov.uk/ukpga/1984/24/section/26C) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/25)
+[^c-2ad8b76d6cbe57ea9d4c9b80e84a9edc]: Textual amendment: [S. 26C](https://www.legislation.gov.uk/ukpga/1984/24/section/26C) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/25)

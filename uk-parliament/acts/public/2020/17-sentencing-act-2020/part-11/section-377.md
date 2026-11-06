@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377. Binding over of parent or guardian: appeals, variations and revocations[^key-ddf2781ecf6196d3a81a3531315fbcfb]
+## 377. Binding over of parent or guardian: appeals, variations and revocations[^c-ddf2781ecf6196d3a81a3531315fbcfb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddf2781ecf6196d3a81a3531315fbcfb]: Commencement: [S. 377](https://www.legislation.gov.uk/ukpga/2020/17/section/377) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ddf2781ecf6196d3a81a3531315fbcfb]: Commencement: [S. 377](https://www.legislation.gov.uk/ukpga/2020/17/section/377) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

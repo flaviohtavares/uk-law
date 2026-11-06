@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Flood risk management plans: publicity of drafts etc. and consultation[^key-eb1528b6e85c8051aba007e73d0480ba]
+## 30. Flood risk management plans: publicity of drafts etc. and consultation[^c-eb1528b6e85c8051aba007e73d0480ba]
 
 *Extent: S*
 
@@ -62,10 +62,10 @@ which are received by SEPA before the expiry of the period determined under subs
 
 which are received by SEPA before the expiry of the period determined under subsection (4)(b).
 
-(9)[^key-d901b9480abb0a8bf794ed180a7e0749] In relation to a Scottish cross border area, a statement under subsection (1) and a draft under subsection (2) is to be published by SEPA and the Environment Agency acting jointly.
+(9)[^c-d901b9480abb0a8bf794ed180a7e0749] In relation to a Scottish cross border area, a statement under subsection (1) and a draft under subsection (2) is to be published by SEPA and the Environment Agency acting jointly.
 
 ## Annotations
 
-[^key-eb1528b6e85c8051aba007e73d0480ba]: Commencement: S. 30 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-eb1528b6e85c8051aba007e73d0480ba]: Commencement: S. 30 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
 
-[^key-d901b9480abb0a8bf794ed180a7e0749]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/asp/2009/6/section/30/9) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2010/1102/regulation/31)
+[^c-d901b9480abb0a8bf794ed180a7e0749]: Textual amendment: [S. 30(9)](https://www.legislation.gov.uk/asp/2009/6/section/30/9) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2010/1102/regulation/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Educational, prison and youth custody authorities[^key-d499104ae9bac1ad298c02fa9a27df99][^key-c686d3b280103fffcfbec22f05d6b10e]
+## 12. Educational, prison and youth custody authorities[^c-d499104ae9bac1ad298c02fa9a27df99][^c-c686d3b280103fffcfbec22f05d6b10e]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d499104ae9bac1ad298c02fa9a27df99]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-d499104ae9bac1ad298c02fa9a27df99]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-c686d3b280103fffcfbec22f05d6b10e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/32/section/12) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/e)
+[^c-c686d3b280103fffcfbec22f05d6b10e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/32/section/12) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Early morning alcohol restriction orders[^key-265d898f3c0f317b606404a15ac5eb10]
+## 119. Early morning alcohol restriction orders[^c-265d898f3c0f317b606404a15ac5eb10]
 
 *Extent: E+W*
 
@@ -103,7 +103,7 @@ summary: ''
 > - (j) where affected premises are a vessel—
 >   - (i) a navigation authority (within the meaning given by section 221(1) of the Water Resources Act 1991) having functions in relation to the waters where the vessel is usually moored or berthed or any waters where it is navigated at a time when it is used for licensable activities to which the proposed order relates,
 >   - (ii) the Environment Agency,
->   - (iii) Canal & River Trust[^key-09ca791514ec068747c20a5cdff279f3] , and
+>   - (iii) Canal & River Trust[^c-09ca791514ec068747c20a5cdff279f3] , and
 >   - (iv) the Secretary of State, and
 > - (k) a prescribed person.
 >
@@ -150,6 +150,6 @@ summary: ''
 
 ## Annotations
 
-[^key-265d898f3c0f317b606404a15ac5eb10]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2011/13/section/119) in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a)
+[^c-265d898f3c0f317b606404a15ac5eb10]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2011/13/section/119) in force at 31.10.2012 by [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a)
 
-[^key-09ca791514ec068747c20a5cdff279f3]: Textual amendment: Words in [s. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/22) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-09ca791514ec068747c20a5cdff279f3]: Textual amendment: Words in [s. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/22) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

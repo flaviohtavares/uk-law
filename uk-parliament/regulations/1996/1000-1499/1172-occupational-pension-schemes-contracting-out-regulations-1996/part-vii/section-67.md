@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Modification of section 51(1) of the 1993 Act in relation to revaluation and schemes which have ceased to be contracted-out.[^key-977600ffc5037b407e45310307df93eb]
+## 67. Modification of section 51(1) of the 1993 Act in relation to revaluation and schemes which have ceased to be contracted-out.[^c-977600ffc5037b407e45310307df93eb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-977600ffc5037b407e45310307df93eb]: Textual amendment: Regs. 67-69A revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(i)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/i)
+[^c-977600ffc5037b407e45310307df93eb]: Textual amendment: Regs. 67-69A revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(i)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/i)

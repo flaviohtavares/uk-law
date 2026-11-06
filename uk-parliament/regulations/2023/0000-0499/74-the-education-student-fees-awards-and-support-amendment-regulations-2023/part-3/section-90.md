@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Amendments relating to the ordinary residence requirements relating to students in existing protected categories[^key-3281a868ed4d08402dd2972006342011]
+## 90. Amendments relating to the ordinary residence requirements relating to students in existing protected categories[^c-3281a868ed4d08402dd2972006342011]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3281a868ed4d08402dd2972006342011]: Commencement: Reg. 90 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-3281a868ed4d08402dd2972006342011]: Commencement: Reg. 90 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00074]: Footnote: Paragraphs 4A, 4B and 4D were substituted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 4C was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48). Paragraph 4E was inserted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5 was amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5A was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 5B was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

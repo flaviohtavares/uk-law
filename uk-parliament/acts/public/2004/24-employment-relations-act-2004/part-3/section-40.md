@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Protection of employees in respect of jury service[^key-77bbaf7fda48bcd57ad2e88a480155c3]
+## 40. Protection of employees in respect of jury service[^c-77bbaf7fda48bcd57ad2e88a480155c3]
 
 *Extent: E+W+S*
 
@@ -98,4 +98,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77bbaf7fda48bcd57ad2e88a480155c3]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2004/24/section/40) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 13](https://www.legislation.gov.uk/uksi/2005/872/article/13))
+[^c-77bbaf7fda48bcd57ad2e88a480155c3]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2004/24/section/40) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 13](https://www.legislation.gov.uk/uksi/2005/872/article/13))

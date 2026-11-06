@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## G1. Teachers' superannuation account[^key-2485c6f373c4beaa13ced30054d31308]
+## G1. Teachers' superannuation account[^c-2485c6f373c4beaa13ced30054d31308]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Subject to the transitional provisions in Part I of Schedule 12, an account subs
 
 ## Annotations
 
-[^key-2485c6f373c4beaa13ced30054d31308]: Commencement: Reg. G1 in operation at 2.11.1998, see reg. A1
+[^c-2485c6f373c4beaa13ced30054d31308]: Commencement: Reg. G1 in operation at 2.11.1998, see reg. A1

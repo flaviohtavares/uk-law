@@ -29,7 +29,7 @@ summary: ''
 >
 > that question shall be determined according to whether the description is applicable as at the time of supply, rather than by reference to the time of the grant.
 
-(2)[^key-5da774d00ce92e5c7150cbff11ade531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5da774d00ce92e5c7150cbff11ade531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Amendments corresponding to those made by subsections (1) and (2) above shall be deemed to have had effect, for the purposes of the cases to which it applied, in relation to the [^c14707061]Value Added Tax Act 1983; and any provisions about the coming into force of any amendment of that Act shall be deemed to have had effect accordingly.
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c14707051]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-5da774d00ce92e5c7150cbff11ade531]: Textual amendment: [S. 35(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/35/2) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-5da774d00ce92e5c7150cbff11ade531]: Textual amendment: [S. 35(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/35/2) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
 
 [^c14707061]: Marginal citation: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55).
 

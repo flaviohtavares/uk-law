@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. Application of CPR Part 6 to service of court documents outside the jurisdiction[^key-e78c31e8b252f53cf398466ed1fbfa4f]
+## 172. Application of CPR Part 6 to service of court documents outside the jurisdiction[^c-e78c31e8b252f53cf398466ed1fbfa4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ CPR Part 6 applies to the service of court documents outside the jurisdiction wi
 
 ## Annotations
 
-[^key-e78c31e8b252f53cf398466ed1fbfa4f]: Commencement: [Rule 172](https://www.legislation.gov.uk/uksi/2013/3208/rule/172) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e78c31e8b252f53cf398466ed1fbfa4f]: Commencement: [Rule 172](https://www.legislation.gov.uk/uksi/2013/3208/rule/172) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

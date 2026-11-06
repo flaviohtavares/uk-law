@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Minimum price of alcohol
 
-### 1. Minimum price of alcohol[^key-7c87dde8ced9498cdcdae41fb80b02ac][^key-d983014ca37033ca8aef17523b814cd0]
+### 1. Minimum price of alcohol[^c-7c87dde8ced9498cdcdae41fb80b02ac][^c-d983014ca37033ca8aef17523b814cd0]
 
 (1) The Licensing (Scotland) Act 2005 is amended as follows.
 
@@ -111,7 +111,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in subsection (4)(a), for “or 150(2)” substitute “ , 150(2), paragraph 6A(4) of schedule 3, or paragraph 5A(4) of schedule 4 ”,
 - (b) in subsection (5)(a), for “or 123(6)” substitute “ , 123(6), paragraph 6A(4) of schedule 3, or paragraph 5A(4) of schedule 4 ”.
 
-### 2. Duration of minimum pricing provisions[^key-e79485f7a3ea78eb403d491270053b83]
+### 2. Duration of minimum pricing provisions[^c-e79485f7a3ea78eb403d491270053b83]
 
 (1) The minimum pricing provisions expire at the end of the 6 year period, unless an order is made under subsection (2).
 
@@ -127,7 +127,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**the 6 year period**” means the period of 6 years beginning with that day,
 - “**the minimum pricing provisions**” means paragraph 6A of schedule 3 to the Licensing (Scotland) Act 2005 and paragraph 5A of schedule 4 to that Act.
 
-### 3. Report on operation and effect of minimum pricing provisions[^key-a0dbbeafa4f62a52ff114008192a4702]
+### 3. Report on operation and effect of minimum pricing provisions[^c-a0dbbeafa4f62a52ff114008192a4702]
 
 (1) The Scottish Ministers must, as soon as practicable after the end of the 5 year period, lay before the Scottish Parliament a report on the operation and effect of the minimum pricing provisions during that period.
 
@@ -166,7 +166,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Miscellaneous repeal
 
-### 4. Repeal of section 1 of Alcohol etc. (Scotland) Act 2010[^key-4463524d8db670671ea03321ea989276]
+### 4. Repeal of section 1 of Alcohol etc. (Scotland) Act 2010[^c-4463524d8db670671ea03321ea989276]
 
 Section 1 of the Alcohol etc. (Scotland) Act 2010 is repealed.
 
@@ -186,12 +186,12 @@ The short title of this Act is the Alcohol (Minimum Pricing) (Scotland) Act 2012
 
 ## Annotations
 
-[^key-7c87dde8ced9498cdcdae41fb80b02ac]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/4/section/1) in force at 6.12.2017 for specified purposes by [S.S.I. 2017/402](https://www.legislation.gov.uk/ssi/2017/402), [art. 2](https://www.legislation.gov.uk/ssi/2017/402/article/2)
+[^c-7c87dde8ced9498cdcdae41fb80b02ac]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/4/section/1) in force at 6.12.2017 for specified purposes by [S.S.I. 2017/402](https://www.legislation.gov.uk/ssi/2017/402), [art. 2](https://www.legislation.gov.uk/ssi/2017/402/article/2)
 
-[^key-d983014ca37033ca8aef17523b814cd0]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/4/section/1) in force at 1.5.2018 in so far as not already in force by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
+[^c-d983014ca37033ca8aef17523b814cd0]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2012/4/section/1) in force at 1.5.2018 in so far as not already in force by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
 
-[^key-e79485f7a3ea78eb403d491270053b83]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/4/section/2) in force at 1.5.2018 by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
+[^c-e79485f7a3ea78eb403d491270053b83]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/4/section/2) in force at 1.5.2018 by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
 
-[^key-a0dbbeafa4f62a52ff114008192a4702]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2012/4/section/3) in force at 1.5.2018 by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
+[^c-a0dbbeafa4f62a52ff114008192a4702]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2012/4/section/3) in force at 1.5.2018 by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
 
-[^key-4463524d8db670671ea03321ea989276]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/4/section/4) in force at 1.5.2018 by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
+[^c-4463524d8db670671ea03321ea989276]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2012/4/section/4) in force at 1.5.2018 by [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)

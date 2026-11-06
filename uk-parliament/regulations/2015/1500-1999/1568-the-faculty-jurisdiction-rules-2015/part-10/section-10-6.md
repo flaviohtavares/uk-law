@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 10.6. Unopposed petitions[^key-03c1078ab68f4442af0b17997888e37c]
+## 10.6. Unopposed petitions[^c-03c1078ab68f4442af0b17997888e37c]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03c1078ab68f4442af0b17997888e37c]: Commencement: [Rule 10.6](https://www.legislation.gov.uk/uksi/2015/1568/article/10.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-03c1078ab68f4442af0b17997888e37c]: Commencement: [Rule 10.6](https://www.legislation.gov.uk/uksi/2015/1568/article/10.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

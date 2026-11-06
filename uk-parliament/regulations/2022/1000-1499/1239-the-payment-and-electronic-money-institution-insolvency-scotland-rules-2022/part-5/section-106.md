@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Exclusion of relevant funds claim by the court[^key-1e58cdb3d644f739adc8ee77e8133433]
+## 106. Exclusion of relevant funds claim by the court[^c-1e58cdb3d644f739adc8ee77e8133433]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e58cdb3d644f739adc8ee77e8133433]: Commencement: Rule 106 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-1e58cdb3d644f739adc8ee77e8133433]: Commencement: Rule 106 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -22,9 +22,9 @@ summary: ''
 
 Section 28
 
-**1.**[^key-1e4951f378683ce50eb69e9d7d30ed36] The Financial Services and Markets Act 2000 is amended as follows.
+**1.**[^c-1e4951f378683ce50eb69e9d7d30ed36] The Financial Services and Markets Act 2000 is amended as follows.
 
-**2.**[^key-f3d698cc3909033b61cc570ff01af07b] After section 55J insert—
+**2.**[^c-f3d698cc3909033b61cc570ff01af07b] After section 55J insert—
 
 > **55JA. Variation or cancellation on initiative of FCA: additional power**
 >
@@ -32,7 +32,7 @@ Section 28
 >
 > (2) In this section and that Schedule “**FCA-authorised person**” means an authorised person who is not a PRA-authorised person.
 
-**3.**[^key-921d167acec27c1c668c6fe7ca3c1301] After Schedule 6 insert—
+**3.**[^c-921d167acec27c1c668c6fe7ca3c1301] After Schedule 6 insert—
 
 > **SCHEDULE 6A — Variation or cancellation of Part 4A permission on initiative of FCA: additional power**
 >
@@ -222,26 +222,26 @@ Section 28
 >
 > (8) The FCA may revoke or amend a direction it makes under this Schedule.
 
-**4.**[^key-ad2094510cac094964a240b58e5c6dda] In section 133 (proceedings before Tribunal: general provision), after subsection (5) insert—
+**4.**[^c-ad2094510cac094964a240b58e5c6dda] In section 133 (proceedings before Tribunal: general provision), after subsection (5) insert—
 
 > (5A) In the case of a reference under paragraph 7 of Schedule 6A, the Tribunal—
 >
 > - (a) must determine what (if any) is the appropriate action that must be taken in relation to the matter, and
 > - (b) on determining the reference, must give such directions (if any) to such persons as the Tribunal considers appropriate for giving effect to its determination.
 
-**5.**[^key-767356d9bdc051faceb4f6bcaecdea06] In section 392 (application of sections 393 and 394)—
+**5.**[^c-767356d9bdc051faceb4f6bcaecdea06] In section 392 (application of sections 393 and 394)—
 
 - (a) in paragraph (a), at the end insert “ or paragraph 5(6) of Schedule 6A ”, and
 - (b) in paragraph (b), at the end insert “ or paragraph 5(7) of Schedule 6A ”.
 
 ## Annotations
 
-[^key-1e4951f378683ce50eb69e9d7d30ed36]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/1) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-1e4951f378683ce50eb69e9d7d30ed36]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/1) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
 
-[^key-f3d698cc3909033b61cc570ff01af07b]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/2) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-f3d698cc3909033b61cc570ff01af07b]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/2) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
 
-[^key-921d167acec27c1c668c6fe7ca3c1301]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/3) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-921d167acec27c1c668c6fe7ca3c1301]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/3) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
 
-[^key-ad2094510cac094964a240b58e5c6dda]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/4) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-ad2094510cac094964a240b58e5c6dda]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/4) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
 
-[^key-767356d9bdc051faceb4f6bcaecdea06]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/5) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-767356d9bdc051faceb4f6bcaecdea06]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/5) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)

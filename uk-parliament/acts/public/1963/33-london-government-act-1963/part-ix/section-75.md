@@ -32,7 +32,7 @@ summary: ''
 
 (3) The payment of compensation under this section shall not affect any right or claim to damages or compensation which an officer of any of the councils aforesaid or his widow or widower or child may have against any person other than that council or, except so far as may be agreed when the compensation is granted, against that council.
 
-(4)[^c3276561] This section shall apply to [^c3276571]... , an authority established by Part I,[^c3276581] II, III, IV or V of the Waste Regulation and Disposal (Authorities) Order 1985 the London Fire Commissioner[^key-a36f8c1ba9c14648e749bb0cbe82e0be] as it applies to the councils mentioned in subsection (1) of this section.
+(4)[^c3276561] This section shall apply to [^c3276571]... , an authority established by Part I,[^c3276581] II, III, IV or V of the Waste Regulation and Disposal (Authorities) Order 1985 the London Fire Commissioner[^c-a36f8c1ba9c14648e749bb0cbe82e0be] as it applies to the councils mentioned in subsection (1) of this section.
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c3276581]: Textual amendment: Words in s. 75(4) inserted after the words “the Inner London Education Authority” by virtue of [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 10](https://www.legislation.gov.uk/uksi/1985/1884/article/10), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1985/1884/schedule/3/paragraph/5)
 
-[^key-a36f8c1ba9c14648e749bb0cbe82e0be]: Textual amendment: Words in [s. 75(4)](https://www.legislation.gov.uk/ukpga/1963/33/section/75/4) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/25); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-a36f8c1ba9c14648e749bb0cbe82e0be]: Textual amendment: Words in [s. 75(4)](https://www.legislation.gov.uk/ukpga/1963/33/section/75/4) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/25); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)

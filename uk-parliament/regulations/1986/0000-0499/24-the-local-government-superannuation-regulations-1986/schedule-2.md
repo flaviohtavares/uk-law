@@ -22,7 +22,7 @@ summary: ''
 
 Regulation B1
 
-### PART I[^key-3eacf1d33cf1153e30ef26e9e316a0ad]
+### PART I[^c-3eacf1d33cf1153e30ef26e9e316a0ad]
 
 <table>
 <thead>
@@ -45,7 +45,7 @@ Regulation B1
 
 [^f00119][^f00120][^f00121]
 
-### PART II[^key-5d2af74abc017180962377106bef9be7]
+### PART II[^c-5d2af74abc017180962377106bef9be7]
 
 - A variable-time employee of a body described in column (1) of Part I who is not also in the whole-time employment of such a body.
 - A whole-time employee or a variable-time employee of the Board of Governors of the Museum of London, other than a person appointed under section 9(2) of the Museum of London Act 1965[^f00122] to act as secretary or treasurer of the Board.
@@ -54,16 +54,16 @@ Regulation B1
 
 ### PART III
 
-**1.**[^key-3758391993733f91894b25756f2a8969] The requirements to be satisfied in order that a whole-time manual worker employed by a body described in column (1) of Part I may be a pensionable employee by virtue of regulation B1(3)(c) are that—
+**1.**[^c-3758391993733f91894b25756f2a8969] The requirements to be satisfied in order that a whole-time manual worker employed by a body described in column (1) of Part I may be a pensionable employee by virtue of regulation B1(3)(c) are that—
 
 - (a) he became employed by that body as such a worker after ceasing to be employed in non-local government employment, and
 - (b) he has, not later than 12 months after the date on which he became employed by that body as such a worker, elected to become a pensionable employee by notice in writing given to that body.
 
-**2.**[^key-239a5a3f02dabe0b3120104c42b42db5] A notice under paragraph 1(b) must also contain a declaration by the worker that his pension rights under his non-local government scheme will be preserved or that he has applied, or will apply, for their transfer to the appropriate administering authority.
+**2.**[^c-239a5a3f02dabe0b3120104c42b42db5] A notice under paragraph 1(b) must also contain a declaration by the worker that his pension rights under his non-local government scheme will be preserved or that he has applied, or will apply, for their transfer to the appropriate administering authority.
 
 ## Annotations
 
-[^key-3eacf1d33cf1153e30ef26e9e316a0ad]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3eacf1d33cf1153e30ef26e9e316a0ad]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00119]: Footnote: [1947 c.41](https://www.legislation.gov.uk/ukpga/1947/41).
 
@@ -71,12 +71,12 @@ Regulation B1
 
 [^f00121]: Footnote: [S.I. 1948/1220](https://www.legislation.gov.uk/uksi/1948/1220).
 
-[^key-5d2af74abc017180962377106bef9be7]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-5d2af74abc017180962377106bef9be7]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00122]: Footnote: [1965 c.17](https://www.legislation.gov.uk/ukpga/1965/17).
 
 [^f00123]: Footnote: [1875 c.83](https://www.legislation.gov.uk/ukpga/1875/83).
 
-[^key-3758391993733f91894b25756f2a8969]: Commencement: [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/3/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3758391993733f91894b25756f2a8969]: Commencement: [Sch. 2 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/3/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-239a5a3f02dabe0b3120104c42b42db5]: Commencement: [Sch. 2 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/3/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-239a5a3f02dabe0b3120104c42b42db5]: Commencement: [Sch. 2 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/2/part/3/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

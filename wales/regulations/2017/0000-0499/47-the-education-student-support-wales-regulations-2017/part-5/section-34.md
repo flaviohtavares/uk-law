@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Deductions from the grant for travel[^key-ebe3f49ba15b93f9b50b517c0d8a106a]
+## 34. Deductions from the grant for travel[^c-ebe3f49ba15b93f9b50b517c0d8a106a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A deduction may be made from a grant under regulations 32 and 33 in accordance w
 
 ## Annotations
 
-[^key-ebe3f49ba15b93f9b50b517c0d8a106a]: Commencement: Reg. 34 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-ebe3f49ba15b93f9b50b517c0d8a106a]: Commencement: Reg. 34 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

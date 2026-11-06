@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. The special administration order[^key-a19753fba24c992ce05b0af844f2db1e]
+## 12. The special administration order[^c-a19753fba24c992ce05b0af844f2db1e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ If the court makes a special administration order, the order must state—
 
 ## Annotations
 
-[^key-a19753fba24c992ce05b0af844f2db1e]: Commencement: Rule 12 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a19753fba24c992ce05b0af844f2db1e]: Commencement: Rule 12 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

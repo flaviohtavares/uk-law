@@ -66,15 +66,15 @@ Notwithstanding regulation 2, Article 46 of the 1976 Order shall continue to hav
 
 ## 4. Review
 
-(1) The Department for Communities[^key-791b0fd454cd20f54f5db22e004127e2] must from time to time —
+(1) The Department for Communities[^c-791b0fd454cd20f54f5db22e004127e2] must from time to time —
 
-- (a) carry out a review of the regulatory system established by the 1976 Order insofar as it implements [^key-9ec3d7d09429470455c680ae91c8ffa4]... the principle of equal treatment between men and women in the access to and supply of goods and services [^c21524671] in respect of insurance services,
+- (a) carry out a review of the regulatory system established by the 1976 Order insofar as it implements [^c-9ec3d7d09429470455c680ae91c8ffa4]... the principle of equal treatment between men and women in the access to and supply of goods and services [^c21524671] in respect of insurance services,
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-54e0dcd935e8dfe3157dc90347b7c40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-54e0dcd935e8dfe3157dc90347b7c40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-54e0dcd935e8dfe3157dc90347b7c40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-54e0dcd935e8dfe3157dc90347b7c40a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The first report under this legislation must be published before the end of the period of five years beginning with the day on which these Regulations come into operation.
 
@@ -110,10 +110,10 @@ A Regulatory Impact Assessment of the effect that these Regulations will have on
 
 [^c21524661]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-791b0fd454cd20f54f5db22e004127e2]: Textual amendment: Words in reg. 4(1) substituted (12.12.2018) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/194)](https://www.legislation.gov.uk/nisr/2018/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/194/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2018/194/regulation/2)
+[^c-791b0fd454cd20f54f5db22e004127e2]: Textual amendment: Words in reg. 4(1) substituted (12.12.2018) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/194)](https://www.legislation.gov.uk/nisr/2018/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/194/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2018/194/regulation/2)
 
-[^key-9ec3d7d09429470455c680ae91c8ffa4]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2012/462/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/305/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ec3d7d09429470455c680ae91c8ffa4]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/nisr/2012/462/regulation/4/1/a) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/305/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21524671]: Marginal citation: O.J. No. L 373, 21.12,2004, p37
 
-[^key-54e0dcd935e8dfe3157dc90347b7c40a]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2012/462/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2012/462/regulation/4/3) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/305/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54e0dcd935e8dfe3157dc90347b7c40a]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2012/462/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2012/462/regulation/4/3) omitted (31.12.2020) by virtue of [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/305/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

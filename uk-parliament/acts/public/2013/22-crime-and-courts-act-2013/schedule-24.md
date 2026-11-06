@@ -103,7 +103,7 @@ The relevant NCA provisions
 | Schedule 3 | — paragraph 1(2) so far as it imposes a duty on:<br>- (a) a member of the Police Service of Northern Ireland, or<br>- (b) a person operating in Northern Ireland who falls  within paragraph 1(3)(f)<br>— paragraph 3 so far as it relates to the Chief Constable of the Police Service of Northern Ireland<br>— paragraph 14<br>— paragraph 15<br>— paragraph 25<br>— paragraph 26(3)(b) |
 | Schedule 5 | — paragraph 11(1)(c)<br>— paragraph 11(6) to (8)<br>— in paragraph 11(9), the definitions of “Northern Ireland general authorisation” and “Northern Ireland operational authorisation”<br>— paragraph 13<br>— in paragraph 30, the definition of “powers and privileges of a Northern Ireland constable” |
 | Schedule 6 | — paragraph 19 |
-| [^key-fa4e75232c92eeba6bcc324a5009412b]. . . | [^key-fa4e75232c92eeba6bcc324a5009412b]. . . |
+| [^c-fa4e75232c92eeba6bcc324a5009412b]. . . | [^c-fa4e75232c92eeba6bcc324a5009412b]. . . |
 
 **10.** In this Schedule—
 
@@ -112,4 +112,4 @@ The relevant NCA provisions
 
 ## Annotations
 
-[^key-fa4e75232c92eeba6bcc324a5009412b]: Textual amendment: [Sch. 24 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/24/paragraph/9) entry repealed (7.10.2013) by [The National Crime Agency (Limitation of Extension to Northern Ireland) Order 2013 (S.I. 2013/2326)](https://www.legislation.gov.uk/uksi/2013/2326), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2326/article/3/2)
+[^c-fa4e75232c92eeba6bcc324a5009412b]: Textual amendment: [Sch. 24 para. 9](https://www.legislation.gov.uk/ukpga/2013/22/schedule/24/paragraph/9) entry repealed (7.10.2013) by [The National Crime Agency (Limitation of Extension to Northern Ireland) Order 2013 (S.I. 2013/2326)](https://www.legislation.gov.uk/uksi/2013/2326), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2326/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2326/article/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Amendment of regulation 5[^key-142a78537fb91e9674174312cf8ed84e]
+## 47. Amendment of regulation 5[^c-142a78537fb91e9674174312cf8ed84e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 5 (effect of referral to another provider of dental services on th
 
 ## Annotations
 
-[^key-142a78537fb91e9674174312cf8ed84e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2013/364/regulation/47) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-142a78537fb91e9674174312cf8ed84e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2013/364/regulation/47) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

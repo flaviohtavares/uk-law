@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Determination of the winning 700 MHz individual frequency lot assignment stage bids[^key-9cb26c776dd9fc8cace603203117aa49]
+## 102. Determination of the winning 700 MHz individual frequency lot assignment stage bids[^c-9cb26c776dd9fc8cace603203117aa49]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cb26c776dd9fc8cace603203117aa49]: Commencement: Reg. 102 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-9cb26c776dd9fc8cace603203117aa49]: Commencement: Reg. 102 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

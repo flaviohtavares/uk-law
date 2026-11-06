@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321B. Inspectors' reports to be laid before Parliament[^key-aea2546a6607303b7c92456248c83c5f]
+## 321B. Inspectors' reports to be laid before Parliament[^c-aea2546a6607303b7c92456248c83c5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aea2546a6607303b7c92456248c83c5f]: Textual amendment: Pt. 13 Ch. 4A inserted (4.6.2014) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 4](https://www.legislation.gov.uk/ukpga/2011/18/section/4), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2014/1444](https://www.legislation.gov.uk/uksi/2014/1444), [art. 3](https://www.legislation.gov.uk/uksi/2014/1444/article/3)
+[^c-aea2546a6607303b7c92456248c83c5f]: Textual amendment: Pt. 13 Ch. 4A inserted (4.6.2014) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 4](https://www.legislation.gov.uk/ukpga/2011/18/section/4), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2014/1444](https://www.legislation.gov.uk/uksi/2014/1444), [art. 3](https://www.legislation.gov.uk/uksi/2014/1444/article/3)

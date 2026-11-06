@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary closure of streets and public rights of way[^key-0cdf86201505e485bc89165b7609c11d]
+## 11. Temporary closure of streets and public rights of way[^c-0cdf86201505e485bc89165b7609c11d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cdf86201505e485bc89165b7609c11d]: Commencement: Art. 11 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-0cdf86201505e485bc89165b7609c11d]: Commencement: Art. 11 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

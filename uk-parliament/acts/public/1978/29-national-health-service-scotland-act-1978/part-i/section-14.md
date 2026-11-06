@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Designated medical officers.[^key-046ff196cf20fcbfdda9dbc11f657411]
+## 14. Designated medical officers.[^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
 [^c20965901]: Textual amendment: S. 14 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [ss. 126(1)](https://www.legislation.gov.uk/asp/2008/5/section/126/1), [128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3](https://www.legislation.gov.uk/asp/2008/5/schedule/3) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

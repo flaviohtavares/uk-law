@@ -22,7 +22,7 @@ summary: ''
 
 Articles 36, 37 and 38
 
-### PART 1 — NATIONAL GRID[^key-6ccab47a1cdb54f944aa6aeda365b0d1]
+### PART 1 — NATIONAL GRID[^c-6ccab47a1cdb54f944aa6aeda365b0d1]
 
 City of York Council
 
@@ -67,7 +67,7 @@ North Yorkshire Council
 | E7-35 | Temporary use for construction, mitigation, maintenance dismantling and/or access | Work No. 10 | Removal of pylon foundations only to a depth of 1.5 metres |
 | F1-09 | Temporary use for construction, mitigation, maintenance dismantling and/or access | Work No. 11 |  |
 
-### PART 2 — NPG[^key-d4e1420829fdec0135586976ae1b0777]
+### PART 2 — NPG[^c-d4e1420829fdec0135586976ae1b0777]
 
 North Yorkshire Council
 
@@ -78,7 +78,7 @@ North Yorkshire Council
 | E2-06, E2-07 | Temporary use for construction, mitigation, maintenance dismantling and/or access | Work Nos. 9, U9 |  |
 | E6-13, E6-31 | Temporary use for construction, mitigation, maintenance dismantling and/or access | Work Nos. 9, U13 |  |
 
-### PART 3 — NGN[^key-b6a3d2a3e7686afd0e597f4c6f429e71]
+### PART 3 — NGN[^c-b6a3d2a3e7686afd0e597f4c6f429e71]
 
 North Yorkshire Council
 
@@ -88,8 +88,8 @@ North Yorkshire Council
 
 ## Annotations
 
-[^key-6ccab47a1cdb54f944aa6aeda365b0d1]: Commencement: Sch. 12 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-6ccab47a1cdb54f944aa6aeda365b0d1]: Commencement: Sch. 12 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-d4e1420829fdec0135586976ae1b0777]: Commencement: Sch. 12 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-d4e1420829fdec0135586976ae1b0777]: Commencement: Sch. 12 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-b6a3d2a3e7686afd0e597f4c6f429e71]: Commencement: Sch. 12 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-b6a3d2a3e7686afd0e597f4c6f429e71]: Commencement: Sch. 12 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

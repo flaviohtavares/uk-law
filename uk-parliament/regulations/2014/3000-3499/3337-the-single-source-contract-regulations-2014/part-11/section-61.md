@@ -43,10 +43,10 @@ E must assess whether the proposed sub-contract would be a qualifying sub-contra
 
 (6) Where the assessment is that the proposed sub-contract would be a qualifying sub-contract if it were entered into, E must give notice in writing of that fact to the Secretary of State and to F.
 
-(7)[^key-be91ff55b6179511870f129a1698f02d] For the purposes of paragraphs (2) and (5), where the value of the proposed contract is not less than £15,000,000, the record of the assessment must contain an assessment of whether the proposed contract would be the result of a competitive process and any other reason relied upon to justify a negative assessment.
+(7)[^c-be91ff55b6179511870f129a1698f02d] For the purposes of paragraphs (2) and (5), where the value of the proposed contract is not less than £15,000,000, the record of the assessment must contain an assessment of whether the proposed contract would be the result of a competitive process and any other reason relied upon to justify a negative assessment.
 
 (8) Where A, C or E (as the case may be) makes a record of assessment, A, C or E must give notice in writing to the Secretary of State and the SSRO that an assessment has been made.
 
 ## Annotations
 
-[^key-be91ff55b6179511870f129a1698f02d]: Textual amendment: [Reg. 61(7)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/61/7)[(8)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/61/8) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/1106/regulation/19)
+[^c-be91ff55b6179511870f129a1698f02d]: Textual amendment: [Reg. 61(7)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/61/7)[(8)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/61/8) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/1106/regulation/19)

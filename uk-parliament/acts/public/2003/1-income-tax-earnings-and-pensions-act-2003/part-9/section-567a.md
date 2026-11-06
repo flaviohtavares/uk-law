@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 567A. Cases in which Part 7A has applied to source of pension income[^key-47352af04ebcb2d18d4fae92ab0a93d4]
+## 567A. Cases in which Part 7A has applied to source of pension income[^c-47352af04ebcb2d18d4fae92ab0a93d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47352af04ebcb2d18d4fae92ab0a93d4]: Textual amendment: [S. 567A](https://www.legislation.gov.uk/ukpga/2003/1/section/567A) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/27)
+[^c-47352af04ebcb2d18d4fae92ab0a93d4]: Textual amendment: [S. 567A](https://www.legislation.gov.uk/ukpga/2003/1/section/567A) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/27)

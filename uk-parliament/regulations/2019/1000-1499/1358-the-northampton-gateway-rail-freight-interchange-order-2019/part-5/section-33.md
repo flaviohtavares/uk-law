@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Rights under or over streets[^key-647fcaf890094ea50a2a9fe051df96eb]
+## 33. Rights under or over streets[^c-647fcaf890094ea50a2a9fe051df96eb]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ is entitled to compensation to be determined, in case of dispute, under Part 1 o
 
 ## Annotations
 
-[^key-647fcaf890094ea50a2a9fe051df96eb]: Commencement: Art. 33 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-647fcaf890094ea50a2a9fe051df96eb]: Commencement: Art. 33 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

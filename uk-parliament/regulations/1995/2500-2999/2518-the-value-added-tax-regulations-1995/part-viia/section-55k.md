@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55K. Category of business[^key-ec8ed84719183a8a006edc190f800956][^key-ee82af7d77e229b34afc5529565091a3]
+## 55K. Category of business[^c-ec8ed84719183a8a006edc190f800956][^c-ee82af7d77e229b34afc5529565091a3]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where, at a relevant date, a flat-rate trader is expected, on reasonable grounds, to carry on business in more than one category in the period concerned, paragraph (3) below shall apply.
 
-(2)[^key-e8496161cefaefab597695885e4e774d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e8496161cefaefab597695885e4e774d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) He shall be regarded as being expected, on reasonable grounds, to carry on that category of business which is expected, on reasonable grounds, to be his main business activity in that period.
 
@@ -96,24 +96,24 @@ Table
 </tbody>
 </table>
 
-[^key-ae2e623c3e6e7b759eb81f3f9bd11626][^key-0dbea725231b21ae85a7489b51444f3a][^f01000][^key-ad7739d5a589a04490199a6312e897e4][^f01000][^key-c457e97bbfb20ee5258103bf2ee156ed]
+[^c-ae2e623c3e6e7b759eb81f3f9bd11626][^c-0dbea725231b21ae85a7489b51444f3a][^f01000][^c-ad7739d5a589a04490199a6312e897e4][^f01000][^c-c457e97bbfb20ee5258103bf2ee156ed]
 
 ## Annotations
 
-[^key-ec8ed84719183a8a006edc190f800956]: Modification: [Reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) modified (temp. until 30.9.2021) (15.7.2020) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [2](https://www.legislation.gov.uk/uksi/2020/728/article/2), [5](https://www.legislation.gov.uk/uksi/2020/728/article/5), [6](https://www.legislation.gov.uk/uksi/2020/728/article/6) (as amended (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92), [93](https://www.legislation.gov.uk/ukpga/2021/26/section/93))
+[^c-ec8ed84719183a8a006edc190f800956]: Modification: [Reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) modified (temp. until 30.9.2021) (15.7.2020) by [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [2](https://www.legislation.gov.uk/uksi/2020/728/article/2), [5](https://www.legislation.gov.uk/uksi/2020/728/article/5), [6](https://www.legislation.gov.uk/uksi/2020/728/article/6) (as amended (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2021/26/section/92), [93](https://www.legislation.gov.uk/ukpga/2021/26/section/93))
 
-[^key-ee82af7d77e229b34afc5529565091a3]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/1995/2518/part/7A) inserted (25.4.2002) by [The Value Added Tax (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1142)](https://www.legislation.gov.uk/uksi/2002/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1142/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2002/1142/regulation/7)
+[^c-ee82af7d77e229b34afc5529565091a3]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/1995/2518/part/7A) inserted (25.4.2002) by [The Value Added Tax (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1142)](https://www.legislation.gov.uk/uksi/2002/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1142/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2002/1142/regulation/7)
 
-[^key-e8496161cefaefab597695885e4e774d]: Textual amendment: [Reg. 55K(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K/2) omitted (1.1.2004) by virtue of [The Value Added Tax (Amendment) (No. 6) Regulations 2003 (S.I. 2003/3220)](https://www.legislation.gov.uk/uksi/2003/3220), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/3220/regulation/1/1/b), [18(3)](https://www.legislation.gov.uk/uksi/2003/3220/regulation/18/3)
+[^c-e8496161cefaefab597695885e4e774d]: Textual amendment: [Reg. 55K(2)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K/2) omitted (1.1.2004) by virtue of [The Value Added Tax (Amendment) (No. 6) Regulations 2003 (S.I. 2003/3220)](https://www.legislation.gov.uk/uksi/2003/3220), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/3220/regulation/1/1/b), [18(3)](https://www.legislation.gov.uk/uksi/2003/3220/regulation/18/3)
 
-[^key-ae2e623c3e6e7b759eb81f3f9bd11626]: Textual amendment: [Reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (4.1.2011) by [The Value Added Tax (Amendment) (No. 3) Regulations 2010 (S.I. 2010/2940)](https://www.legislation.gov.uk/uksi/2010/2940), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2940/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/2940/regulation/4)
+[^c-ae2e623c3e6e7b759eb81f3f9bd11626]: Textual amendment: [Reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (4.1.2011) by [The Value Added Tax (Amendment) (No. 3) Regulations 2010 (S.I. 2010/2940)](https://www.legislation.gov.uk/uksi/2010/2940), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2940/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/2940/regulation/4)
 
-[^key-0dbea725231b21ae85a7489b51444f3a]: Textual amendment: Word in [reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/728/article/6/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5))
+[^c-0dbea725231b21ae85a7489b51444f3a]: Textual amendment: Word in [reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2020/728/article/6/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5))
 
-[^f01000]: Footnote: (1)[^key-ae2e623c3e6e7b759eb81f3f9bd11626][^key-ee82af7d77e229b34afc5529565091a3]
+[^f01000]: Footnote: (1)[^c-ae2e623c3e6e7b759eb81f3f9bd11626][^c-ee82af7d77e229b34afc5529565091a3]
 
     “Labour-only building or construction services” means building or construction services where the value of materials supplied is less than 10 per cent of relevant turnover from such services; any other building or construction services are “general building or construction services”.
 
-[^key-ad7739d5a589a04490199a6312e897e4]: Textual amendment: Word in [reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/728/article/6/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5))
+[^c-ad7739d5a589a04490199a6312e897e4]: Textual amendment: Word in [reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2020/728/article/6/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5))
 
-[^key-c457e97bbfb20ee5258103bf2ee156ed]: Textual amendment: Word in [reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2020/728/article/6/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5))
+[^c-c457e97bbfb20ee5258103bf2ee156ed]: Textual amendment: Word in [reg. 55K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55K) Table substituted (temp.) (15.7.2020) by virtue of [The Value Added Tax (Reduced Rate) (Hospitality and Tourism) (Coronavirus) Order 2020 (S.I. 2020/728)](https://www.legislation.gov.uk/uksi/2020/728), [arts. 1](https://www.legislation.gov.uk/uksi/2020/728/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2020/728/article/6/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/728/article/5))

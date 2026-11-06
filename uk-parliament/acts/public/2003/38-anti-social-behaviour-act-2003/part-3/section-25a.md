@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Parenting contracts in respect of anti-social behaviour: local authorities[^key-cbf95ee6e27eb92b8b7e442abde9a6a0]
+## 25A. Parenting contracts in respect of anti-social behaviour: local authorities[^c-cbf95ee6e27eb92b8b7e442abde9a6a0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbf95ee6e27eb92b8b7e442abde9a6a0]: Textual amendment: Ss. 25A, 25B inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/23/1), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-cbf95ee6e27eb92b8b7e442abde9a6a0]: Textual amendment: Ss. 25A, 25B inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/23/1), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)

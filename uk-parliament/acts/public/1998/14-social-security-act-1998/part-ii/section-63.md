@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 63. Recovery of contributions etc[^key-9ea8d483b616cf4bf06e05530a7ffc55]
+## 63. Recovery of contributions etc[^c-9ea8d483b616cf4bf06e05530a7ffc55]
 
 After section 121 of the Administration Act there shall be inserted the following sections—
 
@@ -78,6 +78,6 @@ After section 121 of the Administration Act there shall be inserted the followin
 
 ## Annotations
 
-[^key-9ea8d483b616cf4bf06e05530a7ffc55]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/1998/14/section/63) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(f)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/f)
+[^c-9ea8d483b616cf4bf06e05530a7ffc55]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/1998/14/section/63) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(f)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/f)
 
 [^m00034]: Marginal citation: [1987 c. 18](https://www.legislation.gov.uk/ukpga/1987/18).

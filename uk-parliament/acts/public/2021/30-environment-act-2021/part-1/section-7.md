@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Environmental targets: review[^key-a9fa3d0bfff6bc5cd3771faa892a73c3][^key-ae4164ead907b2c9e617d0542fc3f9db]
+## 7. Environmental targets: review[^c-a9fa3d0bfff6bc5cd3771faa892a73c3][^c-ae4164ead907b2c9e617d0542fc3f9db]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ within the meaning of the Marine and Coastal Access Act 2009 (see section 322 of
 
 ## Annotations
 
-[^key-a9fa3d0bfff6bc5cd3771faa892a73c3]: Commencement: S. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-a9fa3d0bfff6bc5cd3771faa892a73c3]: Commencement: S. 7 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ae4164ead907b2c9e617d0542fc3f9db]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/30/section/7) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)
+[^c-ae4164ead907b2c9e617d0542fc3f9db]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/30/section/7) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/a)

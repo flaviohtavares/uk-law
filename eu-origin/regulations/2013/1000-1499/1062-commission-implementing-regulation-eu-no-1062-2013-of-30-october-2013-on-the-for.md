@@ -67,9 +67,9 @@ In order to enhance the efficiency of the Internal Market and competitiveness of
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The format of the UK[^key-6bd19abff075caafc220db0d611bdbbd] Technical Assessment is set out in the Annex.
+**Article 1.** The format of the UK[^c-6bd19abff075caafc220db0d611bdbbd] Technical Assessment is set out in the Annex.
 
-**Article 2.**[^key-1761df743750b0201f2c049e13ea03a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1761df743750b0201f2c049e13ea03a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -81,7 +81,7 @@ Done at Brussels, 30 October 2013.
 
 José Manuel Barroso
 
-## ANNEX — UK TECHNICAL ASSESSMENT[^key-869e90475ef6d43d548b93cd1d63351d]
+## ANNEX — UK TECHNICAL ASSESSMENT[^c-869e90475ef6d43d548b93cd1d63351d]
 
 No … of … \[date\]
 
@@ -137,7 +137,7 @@ Technical description of the product:
 
 9\.
 
-Specification of the intended use(s) in accordance with the applicable UK Assessment Document (hereinafter UKAD[^key-13d142ef6ddec6c1e8f45580f182cf4a]):
+Specification of the intended use(s) in accordance with the applicable UK Assessment Document (hereinafter UKAD[^c-13d142ef6ddec6c1e8f45580f182cf4a]):
 
 …
 
@@ -169,10 +169,10 @@ Annex(es)
 
 [^f00001]: Footnote: [OJ L 88, 4.4.2011, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.088.01.0005.01.ENG).
 
-[^key-6bd19abff075caafc220db0d611bdbbd]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/1062/article/1) substituted (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/2) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bd19abff075caafc220db0d611bdbbd]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2013/1062/article/1) substituted (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/2) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1761df743750b0201f2c049e13ea03a2]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2013/1062/article/2) omitted (31.12.2020) by virtue of [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/3) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1761df743750b0201f2c049e13ea03a2]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2013/1062/article/2) omitted (31.12.2020) by virtue of [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/3) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-869e90475ef6d43d548b93cd1d63351d]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2013/1062/annex) substituted (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/4/a) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-869e90475ef6d43d548b93cd1d63351d]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2013/1062/annex) substituted (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/4/a) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13d142ef6ddec6c1e8f45580f182cf4a]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2013/1062/annex) substituted (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/4/b) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13d142ef6ddec6c1e8f45580f182cf4a]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2013/1062/annex) substituted (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/6/4/b) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(i)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

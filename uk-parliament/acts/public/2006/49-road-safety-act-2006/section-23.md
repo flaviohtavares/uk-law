@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Careless, and inconsiderate, driving[^key-d2ab2728fd70b90bb8a7d51f26c20752]
+## 23. Careless, and inconsiderate, driving[^c-d2ab2728fd70b90bb8a7d51f26c20752]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Part 1 of Schedule 2 to the Road Traffic Offenders Act 1988 (c. 53) (prosecut
 
 ## Annotations
 
-[^key-d2ab2728fd70b90bb8a7d51f26c20752]: Commencement: S. 23 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/b)
+[^c-d2ab2728fd70b90bb8a7d51f26c20752]: Commencement: S. 23 in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/b)

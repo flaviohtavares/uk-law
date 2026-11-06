@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Welsh Ministers: powers of direction etc[^key-f6dfad711f94423b28dd577354aa7c87]
+## 29. Welsh Ministers: powers of direction etc[^c-f6dfad711f94423b28dd577354aa7c87]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6dfad711f94423b28dd577354aa7c87]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2009/2/section/29) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)
+[^c-f6dfad711f94423b28dd577354aa7c87]: Commencement: [S. 29](https://www.legislation.gov.uk/mwa/2009/2/section/29) in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2)

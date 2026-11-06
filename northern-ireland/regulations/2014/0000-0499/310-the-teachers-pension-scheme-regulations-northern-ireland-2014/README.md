@@ -45,7 +45,7 @@ Coming into operation-
 
 In accordance with section 21 of that Act, the Department of Education has consulted the representatives of such persons as appear to the Department likely to be affected by these Regulations.
 
-In accordance with section 3(5) of that Act, the Department of Finance and Personnel [^c22298511]has consented to the making of these Regulations.[^key-d08fb96d2226d126f1bc36d977931a4d]
+In accordance with section 3(5) of that Act, the Department of Finance and Personnel [^c22298511]has consented to the making of these Regulations.[^c-d08fb96d2226d126f1bc36d977931a4d]
 
 ## Contents
 
@@ -578,4 +578,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22298511]: Marginal citation: Formerly Department of Finance: see [S.I](https://www.legislation.gov.uk/nisr/2014/310/section/I). 1982/338 N.I. 6) Article 3.
 
-[^key-d08fb96d2226d126f1bc36d977931a4d]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2014/310) restricted (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/131)](https://www.legislation.gov.uk/nisr/2023/131), [regs. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1), [30](https://www.legislation.gov.uk/nisr/2023/131/regulation/30)
+[^c-d08fb96d2226d126f1bc36d977931a4d]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2014/310) restricted (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/131)](https://www.legislation.gov.uk/nisr/2023/131), [regs. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1), [30](https://www.legislation.gov.uk/nisr/2023/131/regulation/30)

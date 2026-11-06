@@ -45,11 +45,11 @@ summary: ''
 
 (6) The Secretary of State for Justice may exercise the power in subsection (4) only after consulting the Attorney General and the Secretary of State for the Home Department[^c21083341].
 
-(7) Nothing in this section authorises the making of a disclosure which contravenes the data protection legislation[^key-7367804806ed0ed2a9b759b6022437b5].
+(7) Nothing in this section authorises the making of a disclosure which contravenes the data protection legislation[^c-7367804806ed0ed2a9b759b6022437b5].
 
 (8) This section does not affect a power to disclose which exists apart from this section.
 
-(9)[^key-d1bcd540b924a31a3767a2af09dcf821] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(9)[^c-d1bcd540b924a31a3767a2af09dcf821] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
@@ -63,6 +63,6 @@ summary: ''
 
 [^c21083341]: Textual amendment: Words in s. 54 substituted (22.8.2007) by [The Secretary of State for Justice Order 2007 (S.I. 2007/2128)](https://www.legislation.gov.uk/uksi/2007/2128), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2128/article/1/2), [8](https://www.legislation.gov.uk/uksi/2007/2128/article/8), [Sch. para. 10(3)](https://www.legislation.gov.uk/uksi/2007/2128/schedule/paragraph/10/3)
 
-[^key-7367804806ed0ed2a9b759b6022437b5]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2004/28/section/54/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 103(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/103/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-7367804806ed0ed2a9b759b6022437b5]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2004/28/section/54/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 103(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/103/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-d1bcd540b924a31a3767a2af09dcf821]: Textual amendment: [S. 54(9)](https://www.legislation.gov.uk/ukpga/2004/28/section/54/9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 103(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/103/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d1bcd540b924a31a3767a2af09dcf821]: Textual amendment: [S. 54(9)](https://www.legislation.gov.uk/ukpga/2004/28/section/54/9) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 103(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/103/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

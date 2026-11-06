@@ -33,7 +33,7 @@ This Statutory Rule has been made to correct an error in [S.R. 2006 No. 118](htt
 
 LEGAL AID AND ADVICE
 
-Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 2006 (revoked)[^key-68a7d1b48bdeeec982bb23837881dbdc]
+Legal Advice and Assistance (Amendment No. 2) Regulations (Northern Ireland) 2006 (revoked)[^c-68a7d1b48bdeeec982bb23837881dbdc]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into operation
 
 22nd May 2006
 
-[^key-68a7d1b48bdeeec982bb23837881dbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68a7d1b48bdeeec982bb23837881dbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-68a7d1b48bdeeec982bb23837881dbdc]
+## 1. Citation and commencement[^c-68a7d1b48bdeeec982bb23837881dbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-68a7d1b48bdeeec982bb23837881dbdc]
+## 2. Revocation[^c-68a7d1b48bdeeec982bb23837881dbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Schedule 2[^key-68a7d1b48bdeeec982bb23837881dbdc]
+## 3. Amendment to Schedule 2[^c-68a7d1b48bdeeec982bb23837881dbdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68a7d1b48bdeeec982bb23837881dbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68a7d1b48bdeeec982bb23837881dbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-68a7d1b48bdeeec982bb23837881dbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68a7d1b48bdeeec982bb23837881dbdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68a7d1b48bdeeec982bb23837881dbdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/193) revoked (9.4.2007) by [Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/173)](https://www.legislation.gov.uk/nisr/2007/173), [regs. 1](https://www.legislation.gov.uk/nisr/2007/173/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/173/regulation/2)
+[^c-68a7d1b48bdeeec982bb23837881dbdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/193) revoked (9.4.2007) by [Legal Advice and Assistance (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/173)](https://www.legislation.gov.uk/nisr/2007/173), [regs. 1](https://www.legislation.gov.uk/nisr/2007/173/regulation/1), [2](https://www.legislation.gov.uk/nisr/2007/173/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Fixing of fines[^key-e43ce786c6aea493a4e6f9d30743ad53][^key-5b111d1f4f0f41e5933c69a5518082bd]
+## 249. Fixing of fines[^c-e43ce786c6aea493a4e6f9d30743ad53][^c-5b111d1f4f0f41e5933c69a5518082bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ the court may make such determination of his financial circumstances as it consi
 
 ## Annotations
 
-[^key-e43ce786c6aea493a4e6f9d30743ad53]: Commencement: S. 249 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e43ce786c6aea493a4e6f9d30743ad53]: Commencement: S. 249 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5b111d1f4f0f41e5933c69a5518082bd]: Commencement: S. 249 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5b111d1f4f0f41e5933c69a5518082bd]: Commencement: S. 249 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

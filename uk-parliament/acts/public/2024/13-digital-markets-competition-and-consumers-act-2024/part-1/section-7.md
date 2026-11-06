@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. The turnover condition[^key-eeb2ea2cb3a07051465337b6fa929d40][^key-e31f6b1d3e27a281d2ff02cbdc52e313]
+## 7. The turnover condition[^c-eeb2ea2cb3a07051465337b6fa929d40][^c-e31f6b1d3e27a281d2ff02cbdc52e313]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eeb2ea2cb3a07051465337b6fa929d40]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-eeb2ea2cb3a07051465337b6fa929d40]: Commencement: S. 7 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-e31f6b1d3e27a281d2ff02cbdc52e313]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/13/section/7) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-e31f6b1d3e27a281d2ff02cbdc52e313]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/13/section/7) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

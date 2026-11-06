@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35B. Fees[^key-cfe46835494779be0f3ff534c9e0f2fd]
+## 35B. Fees[^c-cfe46835494779be0f3ff534c9e0f2fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfe46835494779be0f3ff534c9e0f2fd]: Textual amendment: S. 35B and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 27](https://www.legislation.gov.uk/ukpga/2008/22/section/27), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)
+[^c-cfe46835494779be0f3ff534c9e0f2fd]: Textual amendment: S. 35B and cross-heading inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 27](https://www.legislation.gov.uk/ukpga/2008/22/section/27), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(n)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/n)

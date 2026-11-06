@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25.8. Where permission is granted[^key-fac486bccc89c6381f2f4fe36561bffb]
+## 25.8. Where permission is granted[^c-fac486bccc89c6381f2f4fe36561bffb]
 
 *Extent: E+W*
 
-(1) In any proceedings, where the court grants permission as mentioned in section 13(1), (3) or (5) of the[^key-137629fe9ebcad9443e817ba5f0abf87] 2014 Act or rule 25.4 (2)—
+(1) In any proceedings, where the court grants permission as mentioned in section 13(1), (3) or (5) of the[^c-137629fe9ebcad9443e817ba5f0abf87] 2014 Act or rule 25.4 (2)—
 
 - (a) it will grant permission only in relation to the expert named or the field identified in the application notice requesting the court’s permission; and
 - (b) the court will give directions specifying the date by which the expert is to provide a written report.
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)
+[^c-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)
 
-[^key-137629fe9ebcad9443e817ba5f0abf87]: Textual amendment: Words in rule 25.8(1) inserted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [50](https://www.legislation.gov.uk/uksi/2014/843/rule/50)
+[^c-137629fe9ebcad9443e817ba5f0abf87]: Textual amendment: Words in rule 25.8(1) inserted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [50](https://www.legislation.gov.uk/uksi/2014/843/rule/50)

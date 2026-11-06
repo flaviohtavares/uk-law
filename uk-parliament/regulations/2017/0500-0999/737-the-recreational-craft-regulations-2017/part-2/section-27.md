@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Duty to act with due care[^key-0b0dfa89d64664adefa8f7594d005a1e]
+## 27. Duty to act with due care[^c-0b0dfa89d64664adefa8f7594d005a1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ When making a product available on the market, a distributor must act with due c
 
 ## Annotations
 
-[^key-0b0dfa89d64664adefa8f7594d005a1e]: Commencement: Reg. 27 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-0b0dfa89d64664adefa8f7594d005a1e]: Commencement: Reg. 27 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

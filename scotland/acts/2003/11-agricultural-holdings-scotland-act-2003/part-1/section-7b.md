@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7B. Assignation of modern limited duration tenancies[^key-f09fbd79e15ba59b338e4332591e678e]
+## 7B. Assignation of modern limited duration tenancies[^c-f09fbd79e15ba59b338e4332591e678e]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f09fbd79e15ba59b338e4332591e678e]: Textual amendment: S. 7B inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 105(2)](https://www.legislation.gov.uk/asp/2016/18/section/105/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-f09fbd79e15ba59b338e4332591e678e]: Textual amendment: S. 7B inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 105(2)](https://www.legislation.gov.uk/asp/2016/18/section/105/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

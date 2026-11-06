@@ -42,18 +42,18 @@ Coming into operation-
 
 The Department for the Economy[^f00001] makes the following Regulations in exercise of the powers conferred by Article 20(1)(b) of The Tourism (Northern Ireland) Order 1992[^f00002].
 
-## 1. Citation and commencement[^key-86c2f7a73e4670baa61866619871e7e9]
+## 1. Citation and commencement[^c-86c2f7a73e4670baa61866619871e7e9]
 
 These Regulations may be cited as The Grading Inspection of Certified Tourist Establishments (Fees) Regulations (Northern Ireland) 2023 and shall come into operation on 15th August 2023.
 
-## 2. Interpretation[^key-e3490b7369a789bf40420314f040e944]
+## 2. Interpretation[^c-e3490b7369a789bf40420314f040e944]
 
 In these Regulations—
 
 - (a) “**grading inspection**” means an inspection of a certified tourist establishment, conducted by an officer of the Board at the request of that proprietor, for the purposes of assigning a grade under the Board’s Quality Assurance Grading Scheme in exercise of its powers under Article 21 of The Tourism (Northern Ireland) Order 1992; and
 - (b) any reference to a hotel, guest house, bed and breakfast establishment, self-catering establishment, hostel, campus accommodation or guest accommodation, in relation to any grading inspection, shall be construed as a reference to an establishment falling within that particular relevant statutory category of tourist establishment for the purposes of that inspection.
 
-## 3. Fees for grading inspections of certified tourist establishments[^key-f2958c45e9179f9b1d2148772ebee766]
+## 3. Fees for grading inspections of certified tourist establishments[^c-f2958c45e9179f9b1d2148772ebee766]
 
 For the purposes of Article 20(1)(b) of The Tourism (Northern Ireland) Order 1992, the fee payable to the Board by the proprietor of the / any certified tourist establishment, in respect of a grading inspection of that establishment, shall be—
 
@@ -90,10 +90,10 @@ The grading inspection is the assessment element of the Board’s Quality Assura
 
 [^f00002]: Footnote: See [S.I. 1992/235 (N.I. 3)](https://www.legislation.gov.uk/nisi/1992/235).
 
-[^key-86c2f7a73e4670baa61866619871e7e9]: Commencement: Reg. 1 in operation at 15.8.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/114/regulation/1)
+[^c-86c2f7a73e4670baa61866619871e7e9]: Commencement: Reg. 1 in operation at 15.8.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/114/regulation/1)
 
-[^key-e3490b7369a789bf40420314f040e944]: Commencement: Reg. 2 in operation at 15.8.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/114/regulation/1)
+[^c-e3490b7369a789bf40420314f040e944]: Commencement: Reg. 2 in operation at 15.8.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/114/regulation/1)
 
-[^key-f2958c45e9179f9b1d2148772ebee766]: Commencement: Reg. 3 in operation at 15.8.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/114/regulation/1)
+[^c-f2958c45e9179f9b1d2148772ebee766]: Commencement: Reg. 3 in operation at 15.8.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/114/regulation/1)
 
 [^f00003]: Footnote: The Northern Ireland Tourist Board (NITB) is more commonly referred to as Tourism Northern Ireland (Tourism NI).

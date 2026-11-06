@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Commencement of employment with a Real Time Information employer[^key-28b95329616db35a082d5dde097ce1c5]
+## 43A. Commencement of employment with a Real Time Information employer[^c-28b95329616db35a082d5dde097ce1c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28b95329616db35a082d5dde097ce1c5]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2009/470/regulation/43A) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [40](https://www.legislation.gov.uk/uksi/2022/1335/regulation/40)
+[^c-28b95329616db35a082d5dde097ce1c5]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2009/470/regulation/43A) omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [40](https://www.legislation.gov.uk/uksi/2022/1335/regulation/40)

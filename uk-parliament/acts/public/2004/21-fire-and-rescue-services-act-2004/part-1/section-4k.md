@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4K. Complaints and conduct matters etc[^key-f455a5ec8458ad32a969552ec2e67dd3]
+## 4K. Complaints and conduct matters etc[^c-f455a5ec8458ad32a969552ec2e67dd3]
 
 *Extent: E+W*
 
@@ -34,13 +34,13 @@ summary: ''
 (5) Before making an order under this section the Secretary of State must consult—
 
 - (a) the Police Advisory Board for England and Wales,
-- (b) the Director General of the Independent Office for Police Conduct[^key-483af5b1209d1bf505373065d1eb174e],
+- (b) the Director General of the Independent Office for Police Conduct[^c-483af5b1209d1bf505373065d1eb174e],
 - (c) such persons as appear to the Secretary of State to represent the views of police and crime commissioners,
 - (d) such persons as appear to the Secretary of State to represent the views of fire and rescue authorities, and
 - (e) such other persons as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-483af5b1209d1bf505373065d1eb174e]: Textual amendment: Words in s. 4K(5)(b) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 67](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/67); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-483af5b1209d1bf505373065d1eb174e]: Textual amendment: Words in s. 4K(5)(b) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 67](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/67); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

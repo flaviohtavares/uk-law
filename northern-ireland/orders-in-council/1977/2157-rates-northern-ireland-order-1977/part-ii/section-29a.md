@@ -52,9 +52,9 @@ summary: ''
 
 (8) Regulations may make such provision as the Department considers necessary or expedient for the purposes of this Article.
 
-(9) For the purposes of this Article a person is the partner of another person if the two persons are married to, or civil partners of, each other, or are living together as if spouses of each other.[^key-1f623ce68f30f9453edcec8a453427c3]
+(9) For the purposes of this Article a person is the partner of another person if the two persons are married to, or civil partners of, each other, or are living together as if spouses of each other.[^c-1f623ce68f30f9453edcec8a453427c3]
 
-(10)[^key-fd5055e4aad4ecfc1c406c88cfccfbeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-fd5055e4aad4ecfc1c406c88cfccfbeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) For the purposes of this Article—
 
@@ -67,6 +67,6 @@ summary: ''
 
 [^c19573461]: Textual amendment: Art. 29A inserted (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [10(1)](https://www.legislation.gov.uk/nisi/2006/2954/article/10/1); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2)
 
-[^key-1f623ce68f30f9453edcec8a453427c3]: Textual amendment: Words in [art. 29A(9)](https://www.legislation.gov.uk/nisi/1977/2157/article/29A/9) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [135(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/135/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-1f623ce68f30f9453edcec8a453427c3]: Textual amendment: Words in [art. 29A(9)](https://www.legislation.gov.uk/nisi/1977/2157/article/29A/9) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [135(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/135/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-fd5055e4aad4ecfc1c406c88cfccfbeb]: Textual amendment: [Art. 29A(10)](https://www.legislation.gov.uk/nisi/1977/2157/article/29A/10) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [135(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/135/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-fd5055e4aad4ecfc1c406c88cfccfbeb]: Textual amendment: [Art. 29A(10)](https://www.legislation.gov.uk/nisi/1977/2157/article/29A/10) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [135(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/135/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

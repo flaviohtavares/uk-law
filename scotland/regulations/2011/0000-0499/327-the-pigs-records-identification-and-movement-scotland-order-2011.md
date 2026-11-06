@@ -62,12 +62,12 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “**the Directive**” means Council Directive [2008/71/EC](https://www.legislation.gov.uk/european/directive/2008/0071) on the identification and registration of pigs [^c21027011];
 - “**herdmark**” means the number issued by the Scottish Ministers under article 4(2);
 - “**holding**” means any establishment, construction or, in the case of an open air farm, any place in which pigs are held, kept or handled;
-- “**holding register**” means the register described in article 5[^key-c3f531f8a26fe5b1cfc9b7e642d4b1f9];
+- “**holding register**” means the register described in article 5[^c-c3f531f8a26fe5b1cfc9b7e642d4b1f9];
 - “**identification mark**” means an eartag or tattoo applied under article 7;
 - “**keeper**” means any person having care and control of pigs, whether on a temporary or permanent basis;
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c21027021];
-- [^key-cbc99e70cceab6cce4fbbea20788cc0a]...
-- “**pig**” means any animal of the *Suidae* family, excluding feral pigs as defined in Article 2(b) of Council Directive [2001/89/EC](https://www.legislation.gov.uk/european/directive/2001/0089) of 23 October 2001 on Community measures for the control of classical swine fever , reading the related definition of “holding” in Directive[^key-1de7525aa152e84c664d8096ed73df5e] [2001/89/EC](https://www.legislation.gov.uk/eudr/2001/89) as if—
+- [^c-cbc99e70cceab6cce4fbbea20788cc0a]...
+- “**pig**” means any animal of the *Suidae* family, excluding feral pigs as defined in Article 2(b) of Council Directive [2001/89/EC](https://www.legislation.gov.uk/european/directive/2001/0089) of 23 October 2001 on Community measures for the control of classical swine fever , reading the related definition of “holding” in Directive[^c-1de7525aa152e84c664d8096ed73df5e] [2001/89/EC](https://www.legislation.gov.uk/eudr/2001/89) as if—
   - ((a)) the words “located in the territory of a member State,” were omitted,
   - ((b)) the words from “these fenced areas” to the end were omitted.
 
@@ -75,7 +75,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) Any reference in this Order to anything done in writing includes a reference to an electronic communication which has been recorded and may subsequently be used for reference, as defined in section 15 of the Electronic Communications Act 2000 [^c21027041].
 
-## 3. Notifications etc.[^key-7fc50a4b9c1cad7c6655b36f9b7d7327]
+## 3. Notifications etc.[^c-7fc50a4b9c1cad7c6655b36f9b7d7327]
 
 Any notice, walking licence, notification, authorisation or approval under this Order must be in writing, may be made subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
 
@@ -95,7 +95,7 @@ Any notice, walking licence, notification, authorisation or approval under this 
 
 (1) Within 48 hours of the movement of a pig on or off a holding, the keeper must record that movement in the holding register in accordance with this article.
 
-(2) The holding register is to include a movement record which[^key-734bd4dbc8f3fb59132185de84b5752d] must—
+(2) The holding register is to include a movement record which[^c-734bd4dbc8f3fb59132185de84b5752d] must—
 
 - (a) be completed in full by the keeper; and
 - (b) contain the—
@@ -153,7 +153,7 @@ Any notice, walking licence, notification, authorisation or approval under this 
 
 - (a) to a market;
 - (b) to a slaughterhouse;
-- (c) for the purposes of [^key-69868fdb032ed99d3985d700da5eac2c]... export; or
+- (c) for the purposes of [^c-69868fdb032ed99d3985d700da5eac2c]... export; or
 - (d) in accordance with article 10.
 
 (3) A document accompanying the pig as referred to in paragraph (1)(a) must contain details of the—
@@ -165,7 +165,7 @@ Any notice, walking licence, notification, authorisation or approval under this 
 
 ## 9. Additional identification requirements for export movements
 
-No person may move a pig off a holding for the purposes of [^key-e2d6c139b1c5c0bf6821f74b2b9308ab]... export unless it is marked in accordance with article 7(1)(a) or (b) and with a unique individual identification number.
+No person may move a pig off a holding for the purposes of [^c-e2d6c139b1c5c0bf6821f74b2b9308ab]... export unless it is marked in accordance with article 7(1)(a) or (b) and with a unique individual identification number.
 
 ## 10. Additional identification requirements for certain movements
 
@@ -322,25 +322,25 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^c21027011]: Marginal citation: OJ L 213, 8.8.2008, p.31.
 
-[^key-c3f531f8a26fe5b1cfc9b7e642d4b1f9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/327/article/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3f531f8a26fe5b1cfc9b7e642d4b1f9]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/327/article/2/1) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(2)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21027021]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39), amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120(1) and Schedule 22, paragraph 232(1).
 
-[^key-cbc99e70cceab6cce4fbbea20788cc0a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/327/article/2/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cbc99e70cceab6cce4fbbea20788cc0a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/327/article/2/1) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(2)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1de7525aa152e84c664d8096ed73df5e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/327/article/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(2)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1de7525aa152e84c664d8096ed73df5e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/327/article/2/1) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(2)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21027041]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [sections 406](https://www.legislation.gov.uk/ukpga/2003/21/section/406) and 411(2) and (3) and Schedule 17, paragraph 158.
 
-[^key-7fc50a4b9c1cad7c6655b36f9b7d7327]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2011/327/article/3) substituted (4.11.2011) by [The Pigs (Records, Identification and Movement) (Scotland) Amendment Order 2011 (S.S.I. 2011/351)](https://www.legislation.gov.uk/ssi/2011/351), [arts. 1](https://www.legislation.gov.uk/ssi/2011/351/article/1), [2](https://www.legislation.gov.uk/ssi/2011/351/article/2)
+[^c-7fc50a4b9c1cad7c6655b36f9b7d7327]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2011/327/article/3) substituted (4.11.2011) by [The Pigs (Records, Identification and Movement) (Scotland) Amendment Order 2011 (S.S.I. 2011/351)](https://www.legislation.gov.uk/ssi/2011/351), [arts. 1](https://www.legislation.gov.uk/ssi/2011/351/article/1), [2](https://www.legislation.gov.uk/ssi/2011/351/article/2)
 
-[^key-734bd4dbc8f3fb59132185de84b5752d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/ssi/2011/327/article/5/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-734bd4dbc8f3fb59132185de84b5752d]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/ssi/2011/327/article/5/2) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(3)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21027051]: Marginal citation: There are currently three groups; namely, Vion (processing group), Scottish Pig Producers and Scotlean (marketing groups).
 
-[^key-69868fdb032ed99d3985d700da5eac2c]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/ssi/2011/327/article/8/2/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(4)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69868fdb032ed99d3985d700da5eac2c]: Textual amendment: Words in [art. 8(2)(c)](https://www.legislation.gov.uk/ssi/2011/327/article/8/2/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(4)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2d6c139b1c5c0bf6821f74b2b9308ab]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/ssi/2011/327/article/9) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2d6c139b1c5c0bf6821f74b2b9308ab]: Textual amendment: Words in [art. 9](https://www.legislation.gov.uk/ssi/2011/327/article/9) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [28(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/28/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21027061]: Marginal citation: [S.S.I. 2002/34](https://www.legislation.gov.uk/ssi/2002/34), amended by [S.S.I. 2002/221](https://www.legislation.gov.uk/ssi/2002/221) and 369, 2003/228 and 2007/387, 400 and 423.
 

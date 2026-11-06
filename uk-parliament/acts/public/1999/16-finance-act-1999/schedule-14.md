@@ -47,7 +47,7 @@ Section 112(4).
 
 ### Finance Act 1980 (c.48)
 
-**6.**[^key-5b7f7724a8584160fa5a71a3ebf6d777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5b7f7724a8584160fa5a71a3ebf6d777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1982 (c.39)
 
@@ -65,17 +65,17 @@ Section 112(4).
 
 (3) In subsection (3) for the words from “section 126(1)” to “126(2) or (3)” substitute “ section 79(4) of the Finance Act 1986 does not apply by virtue of section 79(5) or (6) ”.
 
-**9.**[^key-e8949155c443da9aadac2085c44f9cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e8949155c443da9aadac2085c44f9cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** In section 83 of the Finance Act 1985 (duty on transfers in connection with divorce etc.)—
 
 - (a) in subsection (1) for “the heading “Conveyance or Transfer on Sale” in Schedule 1 to the Stamp Act 1891” substitute “ Part I of Schedule 13 to the Finance Act 1999 (conveyance or transfer on sale) ”;
-- (b)[^key-39ec500b444e83a327a6068c2502bd5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-39ec500b444e83a327a6068c2502bd5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** In section 84 of the Finance Act 1985 (duty on instruments varying dispositions on death etc.)—
 
 - (a) in subsection (1) for “the heading “Conveyance or Transfer on Sale” in Schedule 1 to the Stamp Act 1891” substitute “ Part I of Schedule 13 to the Finance Act 1999 (conveyance or transfer on sale) ”;
-- (b)[^key-e1bbfb0930293cc33b0898208f1ffadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e1bbfb0930293cc33b0898208f1ffadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1986 (c.41)
 
@@ -89,7 +89,7 @@ Section 112(4).
 
 .
 
-(3)[^key-10f5ffc0e5d863068160205604d29357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-10f5ffc0e5d863068160205604d29357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** (1) Section 70 of the Finance Act 1986 (clearance services) is amended as follows.
 
@@ -101,11 +101,11 @@ Section 112(4).
 
 .
 
-(3)[^key-c233ac3ddb16a3d243acd7f9dc232f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c233ac3ddb16a3d243acd7f9dc232f1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In section 75(2) of the Finance Act 1986 (acquisitions: further provisions about reliefs) for “the heading “Conveyance or Transfer on Sale” in Schedule 1 to the Stamp Act 1891” substitute “ Part I of Schedule 13 to the Finance Act 1999 (conveyance or transfer on sale) ”.
 
-**15.**[^key-799ccbef6f30e8433fed9f323c891245] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-799ccbef6f30e8433fed9f323c891245] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In section 77(1) of the Finance Act 1986 (acquisition of target company’s share capital) for “the heading ’Conveyance or Transfer on Sale’ in Schedule 1 to the Stamp Act 1891” substitute “ Part I of Schedule 13 to the Finance Act 1999 (conveyance or transfer on sale) ”.
 
@@ -207,16 +207,16 @@ Section 112(4).
 
 [^c1126491]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-5b7f7724a8584160fa5a71a3ebf6d777]: Textual amendment: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/6) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/2/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-5b7f7724a8584160fa5a71a3ebf6d777]: Textual amendment: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/6) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 3(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/3/2/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
-[^key-e8949155c443da9aadac2085c44f9cfd]: Textual amendment: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/9) omitted (with effect in accordance with s. 100(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/2)
+[^c-e8949155c443da9aadac2085c44f9cfd]: Textual amendment: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/9) omitted (with effect in accordance with s. 100(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/2)
 
-[^key-39ec500b444e83a327a6068c2502bd5c]: Textual amendment: [Sch. 14 para. 10(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/10/b) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20) (with [Sch. 32 para. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/22/1/e))
+[^c-39ec500b444e83a327a6068c2502bd5c]: Textual amendment: [Sch. 14 para. 10(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/10/b) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20) (with [Sch. 32 para. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/22/1/e))
 
-[^key-e1bbfb0930293cc33b0898208f1ffadc]: Textual amendment: [Sch. 14 para. 11(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/11/b) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20) (with [Sch. 32 para. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/22/1/e))
+[^c-e1bbfb0930293cc33b0898208f1ffadc]: Textual amendment: [Sch. 14 para. 11(b)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/11/b) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20) (with [Sch. 32 para. 22(1)(e)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/22/1/e))
 
-[^key-10f5ffc0e5d863068160205604d29357]: Textual amendment: [Sch. 14 para. 12(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/12/3) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20)
+[^c-10f5ffc0e5d863068160205604d29357]: Textual amendment: [Sch. 14 para. 12(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/12/3) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20)
 
-[^key-c233ac3ddb16a3d243acd7f9dc232f1e]: Textual amendment: [Sch. 14 para. 13(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/13/3) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20)
+[^c-c233ac3ddb16a3d243acd7f9dc232f1e]: Textual amendment: [Sch. 14 para. 13(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/13/3) omitted (with effect in accordance with s. 99(2) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 32 para. 20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/32/paragraph/20)
 
-[^key-799ccbef6f30e8433fed9f323c891245]: Textual amendment: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/15) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-799ccbef6f30e8433fed9f323c891245]: Textual amendment: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/1999/16/schedule/14/paragraph/15) omitted (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/2/b) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Provision for small payments on death.[^key-4ac1853242e196d861886a9f5c5e7ee7]
+## 24. Provision for small payments on death.[^c-4ac1853242e196d861886a9f5c5e7ee7]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ If any member of a registered society dies and at his death his property in the 
 
 ## Annotations
 
-[^key-4ac1853242e196d861886a9f5c5e7ee7]: Modification: [S. 24](https://www.legislation.gov.uk/apni/1969/24/section/24) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(a)(i)](https://www.legislation.gov.uk/nisr/2020/280/article/2/a/i)
+[^c-4ac1853242e196d861886a9f5c5e7ee7]: Modification: [S. 24](https://www.legislation.gov.uk/apni/1969/24/section/24) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(a)(i)](https://www.legislation.gov.uk/nisr/2020/280/article/2/a/i)
 
 [^c16934271]: Textual amendment: Increased to £5,000 for deaths after 31.3.1985, SR 1985/9
 

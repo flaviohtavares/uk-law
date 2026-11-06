@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. The National Institute for Health and Care Excellence[^key-466cc7558f6a51658db33ae7f257912b]
+## 232. The National Institute for Health and Care Excellence[^c-466cc7558f6a51658db33ae7f257912b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-466cc7558f6a51658db33ae7f257912b]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2012/7/section/232) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-466cc7558f6a51658db33ae7f257912b]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2012/7/section/232) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

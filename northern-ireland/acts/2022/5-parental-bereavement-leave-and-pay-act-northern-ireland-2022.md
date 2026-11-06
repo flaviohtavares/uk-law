@@ -36,7 +36,7 @@ An Act to make provision about leave and pay for employees whose children have d
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Parental bereavement leave[^key-71ccb0f86acfccc6082ea3e8f73982bd]
+## 1. Parental bereavement leave[^c-71ccb0f86acfccc6082ea3e8f73982bd]
 
 After Article 112E of the Employment Rights (Northern Ireland) Order 1996 insert—
 
@@ -143,7 +143,7 @@ After Article 112E of the Employment Rights (Northern Ireland) Order 1996 insert
 
 .
 
-## 2. Parental bereavement pay[^key-5e441ac936009328a4f5ea7b9ed06664]
+## 2. Parental bereavement pay[^c-5e441ac936009328a4f5ea7b9ed06664]
 
 After section 167ZZ8 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 insert—
 
@@ -360,7 +360,7 @@ After section 167ZZ8 of the Social Security Contributions and Benefits (Northern
 
 .
 
-## 3. Temporary provision: qualifying employment period for parental pay[^key-2192ebd0b64e60cdf2598e445ba8f8ea]
+## 3. Temporary provision: qualifying employment period for parental pay[^c-2192ebd0b64e60cdf2598e445ba8f8ea]
 
 (1) This section applies in relation to a person’s entitlement to payments of statutory parental bereavement pay in respect of a child who dies before 6 April in the year that is specified under subsection (2).
 
@@ -400,11 +400,11 @@ After section 167ZZ8 of the Social Security Contributions and Benefits (Northern
 
 (10) Regulations under subsection (2) are subject to negative resolution.
 
-## 4. Further amendments to do with parental bereavement leave and pay[^key-687fd3c406d0ffc7e88fde646193ff94][^key-301ee3ffd929aeca3dcd31ddfd810fa0][^key-3ac42fc2e0b6a5300fded6060815d2bc]
+## 4. Further amendments to do with parental bereavement leave and pay[^c-687fd3c406d0ffc7e88fde646193ff94][^c-301ee3ffd929aeca3dcd31ddfd810fa0][^c-3ac42fc2e0b6a5300fded6060815d2bc]
 
 The Schedule contains amendments that are related to the statutory entitlements created by sections 1 and 2.
 
-## 5. Commencement[^key-ae59a8d166d4aabe1df962b090180f31]
+## 5. Commencement[^c-ae59a8d166d4aabe1df962b090180f31]
 
 (1) Sections 1 to 3 come into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -425,7 +425,7 @@ must provide that they are to apply in respect of children who die on or after 6
 
 (7) An order under subsection (5) or (6) may make such transitory or transitional provision, or savings, as the Department making it considers necessary or expedient.
 
-## 6. Short title[^key-57c900026e7b5606ea381c132d6e2253]
+## 6. Short title[^c-57c900026e7b5606ea381c132d6e2253]
 
 This Act may be cited as the Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022.
 
@@ -437,7 +437,7 @@ Section 4.
 
 #### Social Security (Northern Ireland) Order 1989
 
-**1.**[^key-d7113bee584a17c2bacfaea76d9e8a9b][^key-577e7830a7b59cff01dc1a65ef9f3e9d] In Schedule 5 to the Social Security (Northern Ireland) Order 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5C insert—
+**1.**[^c-d7113bee584a17c2bacfaea76d9e8a9b][^c-577e7830a7b59cff01dc1a65ef9f3e9d] In Schedule 5 to the Social Security (Northern Ireland) Order 1989 (employment-related schemes for pensions or other benefits to comply with the principle of equal treatment), after paragraph 5C insert—
 
 > **Unfair parental bereavement leave provisions**
 >
@@ -481,11 +481,11 @@ Section 4.
 
 #### Social Security Contributions and Benefits (Northern Ireland) Act 1992
 
-**2.**[^key-24176c070a570ef4aca968a5db2f4fba][^key-853acee3501526e7b8d5a876fbda6028] The Social Security Contributions and Benefits (Northern Ireland) Act 1992 is amended as follows.
+**2.**[^c-24176c070a570ef4aca968a5db2f4fba][^c-853acee3501526e7b8d5a876fbda6028] The Social Security Contributions and Benefits (Northern Ireland) Act 1992 is amended as follows.
 
-**3.**[^key-35791eef02c71db98ed4c969f6c775c9][^key-119fa504ef86dc0a3b2c717803d8cd04] In section 1(5) (outline of contributory system: certain statutory payments), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
+**3.**[^c-35791eef02c71db98ed4c969f6c775c9][^c-119fa504ef86dc0a3b2c717803d8cd04] In section 1(5) (outline of contributory system: certain statutory payments), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
 
-**4.**[^key-960562974bdef5fdb07ae5ca50736a00][^key-9c5c98b4e4e5ffdad150ff27bef18271] In section 4(1)(a) (payments treated as remuneration and earnings)—
+**4.**[^c-960562974bdef5fdb07ae5ca50736a00][^c-9c5c98b4e4e5ffdad150ff27bef18271] In section 4(1)(a) (payments treated as remuneration and earnings)—
 
 - (a) at the end of sub-paragraph (v), omit “and”;
 - (b) after that sub-paragraph insert
@@ -496,13 +496,13 @@ Section 4.
 
   .
 
-**5.**[^key-33c5609baa22181f8972bbbbb01e6dbb][^key-57532b22a266c4956c3590e561ec98d7] In section 4AA(2) (limited liability partnerships: power to modify definitions of “employee” and “employer”), for “or 167ZS” substitute “, 167ZS or 167ZZ17”.
+**5.**[^c-33c5609baa22181f8972bbbbb01e6dbb][^c-57532b22a266c4956c3590e561ec98d7] In section 4AA(2) (limited liability partnerships: power to modify definitions of “employee” and “employer”), for “or 167ZS” substitute “, 167ZS or 167ZZ17”.
 
-**6.**[^key-806f0a3b1f6a9d25f57901b17fdd4599][^key-76f414a0e51edf4769754674134451bd] In section 4C(11) (power to make provision in consequence of provision made by virtue of section 4B(2) etc: definitions), in paragraph (a) of the definition of “statutory payment”, for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**6.**[^c-806f0a3b1f6a9d25f57901b17fdd4599][^c-76f414a0e51edf4769754674134451bd] In section 4C(11) (power to make provision in consequence of provision made by virtue of section 4B(2) etc: definitions), in paragraph (a) of the definition of “statutory payment”, for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**7.**[^key-648f067030adcc15792f6e517af68cfe][^key-3b39d4acd3d359e99ad2be13f166937c] In section 170 (interpretation), in the definition of “the Department”, for the words “and 12ZC” (which were inserted by paragraph 2(18)(a) of Schedule 1 to the Work and Families Act (Northern Ireland) 2015) substitute “, 12ZC and 12ZD”.
+**7.**[^c-648f067030adcc15792f6e517af68cfe][^c-3b39d4acd3d359e99ad2be13f166937c] In section 170 (interpretation), in the definition of “the Department”, for the words “and 12ZC” (which were inserted by paragraph 2(18)(a) of Schedule 1 to the Work and Families Act (Northern Ireland) 2015) substitute “, 12ZC and 12ZD”.
 
-**8.**[^key-ab9054cda68607f11e15b1ed19b25c7c][^key-e0a414cefc02c6611cab5710221c6a45] (1) Section 172 (Assembly, etc. control of regulations and orders) is amended as follows.
+**8.**[^c-ab9054cda68607f11e15b1ed19b25c7c][^c-e0a414cefc02c6611cab5710221c6a45] (1) Section 172 (Assembly, etc. control of regulations and orders) is amended as follows.
 
 (2) In subsection (2)(a), after “sections 167ZU to 167ZZ2” insert “or sections 167ZZ9 to 167ZZ12”.
 
@@ -516,15 +516,15 @@ Section 4.
 
 #### Social Security Administration (Northern Ireland) Act 1992
 
-**9.**[^key-f2a7ddb67aad268f8b54ea0fc6fcedc7][^key-003cd8d0e85bbca52906d3f00c382a70] The Social Security Administration (Northern Ireland) Act 1992 is amended as follows.
+**9.**[^c-f2a7ddb67aad268f8b54ea0fc6fcedc7][^c-003cd8d0e85bbca52906d3f00c382a70] The Social Security Administration (Northern Ireland) Act 1992 is amended as follows.
 
-**10.**[^key-1da331e6825c725c310ebe2778208ee1][^key-8812bd24533543cdfca0cd26747a8ce6] In section 5 (regulations about claims for and payments of benefits), in subsection (4A), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
+**10.**[^c-1da331e6825c725c310ebe2778208ee1][^c-8812bd24533543cdfca0cd26747a8ce6] In section 5 (regulations about claims for and payments of benefits), in subsection (4A), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
 
-**11.**[^key-9e52ae95e51e9c4ee6c74cccb03e4ffe][^key-4c3824ba19a202605b42035f99143766] In section 116AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**11.**[^c-9e52ae95e51e9c4ee6c74cccb03e4ffe][^c-4c3824ba19a202605b42035f99143766] In section 116AA (disclosure of contributions information etc by HMRC), in subsection (1), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**12.**[^key-b02811a5b8fdfab4cadf01dcb644b2bd][^key-2e2b0d488e3d5dd4fd2cac5bbeedc011] In section 143 (general financial arrangements), in subsection (1)(d), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**12.**[^c-b02811a5b8fdfab4cadf01dcb644b2bd][^c-2e2b0d488e3d5dd4fd2cac5bbeedc011] In section 143 (general financial arrangements), in subsection (1)(d), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**13.**[^key-87ccac45e12c2872e8ce92972fc44f7c][^key-1c583534972fd2ffd5bdc7cae1a97dd9] (1) Section 145 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
+**13.**[^c-87ccac45e12c2872e8ce92972fc44f7c][^c-1c583534972fd2ffd5bdc7cae1a97dd9] (1) Section 145 (adjustments between the National Insurance Fund and the Consolidated Fund) is amended as follows.
 
 (2) In subsection (1)(b)—
 
@@ -541,11 +541,11 @@ Section 4.
 
 #### Pensions (Northern Ireland) Order 1995
 
-**14.**[^key-3fe562a8fa4695bf163489b271103fd5][^key-7823ab7c493e51529ec6290b639477c0] In Article 63(3) of the Pensions (Northern Ireland) Order 1995, after “5” insert “, 5D”.
+**14.**[^c-3fe562a8fa4695bf163489b271103fd5][^c-7823ab7c493e51529ec6290b639477c0] In Article 63(3) of the Pensions (Northern Ireland) Order 1995, after “5” insert “, 5D”.
 
 #### Employment Rights (Northern Ireland) Order 1996
 
-**16.**[^key-7c22af6993a17c861fd396acff9a8084][^key-c889e563e37cc22dab97dd9d3ff028eb] In Article 2(3) (interpretation)—
+**16.**[^c-7c22af6993a17c861fd396acff9a8084][^c-c889e563e37cc22dab97dd9d3ff028eb] In Article 2(3) (interpretation)—
 
 - (a) at the appropriate place insert—
 
@@ -554,19 +554,19 @@ Section 4.
   ;
 - (b) in the definition of “week”, in paragraph (b), after “112B” insert “, 112EA”.
 
-**17.**[^key-1fc5211dbb84f5fde1380b02a7b24b40][^key-e962a3f06e90403233978054e7deb55e] In Article 59(1) (sums included within the meaning of “wages”), after sub-paragraph (cc) insert—
+**17.**[^c-1fc5211dbb84f5fde1380b02a7b24b40][^c-e962a3f06e90403233978054e7deb55e] In Article 59(1) (sums included within the meaning of “wages”), after sub-paragraph (cc) insert—
 
 > - (cd) statutory parental bereavement pay under Part 12ZD of that Act,
 
 .
 
-**18.**[^key-46db9bbf041b02a6c8168e8dbdd76d7d][^key-97158e734a540b7439daa295f283b42e] In Article 70C(2) (right not to be subjected to detriment for prescribed reasons), after sub-paragraph (ca) insert—
+**18.**[^c-46db9bbf041b02a6c8168e8dbdd76d7d][^c-97158e734a540b7439daa295f283b42e] In Article 70C(2) (right not to be subjected to detriment for prescribed reasons), after sub-paragraph (ca) insert—
 
 > - (cb) parental bereavement leave, or
 
 .
 
-**19.**[^key-85113b428ca85b1854e0489fab0dee46][^key-4b59d91a6989c09f1eedb7a66fda22b8] In Article 107K(3) (rights during and after period of absence on shared parental leave and other kinds of leave)—
+**19.**[^c-85113b428ca85b1854e0489fab0dee46][^c-4b59d91a6989c09f1eedb7a66fda22b8] In Article 107K(3) (rights during and after period of absence on shared parental leave and other kinds of leave)—
 
 - (a) at the end of sub-paragraph (d), omit “and”;
 - (b) after sub-paragraph (e) insert
@@ -577,7 +577,7 @@ Section 4.
 
   .
 
-**20.**[^key-51c4ee7222a8a30f51589424a43e56c9][^key-e56e0293b076c5778085d3b028fca6a9] (1) Article 112C (rights during and after paternity leave) is amended as follows.
+**20.**[^c-51c4ee7222a8a30f51589424a43e56c9][^c-e56e0293b076c5778085d3b028fca6a9] (1) Article 112C (rights during and after paternity leave) is amended as follows.
 
 (2) In paragraph (2), after sub-paragraph (ba) (but before the “and”) insert—
 
@@ -591,25 +591,25 @@ Section 4.
 
 .
 
-**21.**[^key-346d377d165651f07bc204e358f7a8d9][^key-889b7a9d7a5ba810adb6760c45ee3fca] (1) Article 120 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
+**21.**[^c-346d377d165651f07bc204e358f7a8d9][^c-889b7a9d7a5ba810adb6760c45ee3fca] (1) Article 120 (liability of employer to pay employee during period of notice: employments with normal working hours) is amended as follows.
 
 (2) In paragraph (1)(c), after “shared parental leave,” insert “parental bereavement leave,”.
 
 (3) In paragraph (2), after “statutory shared parental pay,” insert “parental bereavement pay, statutory parental bereavement pay,”.
 
-**22.**[^key-ffec66c608c4883fec9fa58fbdeb1237][^key-5bc2a1a457f384aa97367b693139b06d] (1) Article 121 (effect of notice of termination: employments without normal working hours) is amended as follows.
+**22.**[^c-ffec66c608c4883fec9fa58fbdeb1237][^c-5bc2a1a457f384aa97367b693139b06d] (1) Article 121 (effect of notice of termination: employments without normal working hours) is amended as follows.
 
 (2) In paragraph (3)(b), after “shared parental leave,” insert “parental bereavement leave,”.
 
 (3) In paragraph (4), after “statutory shared parental pay,” insert “parental bereavement pay, statutory parental bereavement pay,”.
 
-**23.**[^key-d6af3e6bc33d6c55b7767837f09fa442][^key-40cd6e732ae82d0001b25dc663a6aac8] In Article 131(3) (dismissal is unfair if it is because of leave for family reasons), after sub-paragraph (ca) insert—
+**23.**[^c-d6af3e6bc33d6c55b7767837f09fa442][^c-40cd6e732ae82d0001b25dc663a6aac8] In Article 131(3) (dismissal is unfair if it is because of leave for family reasons), after sub-paragraph (ca) insert—
 
 > - (cb) parental bereavement leave, or
 
 .
 
-**24.**[^key-98a85f1d0c4407ac332123e6b46eeb1c][^key-24d31f2eab53a238be0138495dd3d1e6] (1) Article 251 (orders and regulations) is amended as follows.
+**24.**[^c-98a85f1d0c4407ac332123e6b46eeb1c][^c-24d31f2eab53a238be0138495dd3d1e6] (1) Article 251 (orders and regulations) is amended as follows.
 
 (2) In paragraph (1A), after “112BAA,” insert “112EA,”.
 
@@ -617,9 +617,9 @@ Section 4.
 
 #### Social Security Contributions (Transfer of Functions, etc.)(Northern Ireland) Order 1999
 
-**25.**[^key-598628b605ba42136285986aab5f91f0][^key-c05861a43a4f9af2c61e6e1757bd6e6b] The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 is amended as follows.
+**25.**[^c-598628b605ba42136285986aab5f91f0][^c-c05861a43a4f9af2c61e6e1757bd6e6b] The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 is amended as follows.
 
-**26.**[^key-d5c710673964aa580671f1bb35200298][^key-e90d96f6331b1c3b2eb3756ceaacc7d6] (1) Article 7 (decisions by officers of Revenue and Customs) is amended as follows.
+**26.**[^c-d5c710673964aa580671f1bb35200298][^c-e90d96f6331b1c3b2eb3756ceaacc7d6] (1) Article 7 (decisions by officers of Revenue and Customs) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -630,15 +630,15 @@ Section 4.
 
 (3) In paragraph (3)(b), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**27.**[^key-964b00c15fff495816c2f95518bb285f][^key-e17a680ed734c458af9f6f4151f7f37c] In Article 10 (appeals against decisions of officers of Revenue and Customs), in paragraph (2)(a), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**27.**[^c-964b00c15fff495816c2f95518bb285f][^c-e17a680ed734c458af9f6f4151f7f37c] In Article 10 (appeals against decisions of officers of Revenue and Customs), in paragraph (2)(a), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**28.**[^key-67e8aace1437ab67357bc1076dcae063][^key-4aac010de186e9bcdeddde9d93c8a628] In Article 13 (matters arising as respects decisions), in paragraphs (1)(a)(i) and (4), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**28.**[^c-67e8aace1437ab67357bc1076dcae063][^c-4aac010de186e9bcdeddde9d93c8a628] In Article 13 (matters arising as respects decisions), in paragraphs (1)(a)(i) and (4), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
 #### Employment (Northern Ireland) Order 2002
 
-**29.**[^key-a2c5ea7aaf1d36720facf7de4cfd35f2][^key-731685dfe730ea00dc93c42a61002c52] The Employment (Northern Ireland) Order 2002 is amended as follows.
+**29.**[^c-a2c5ea7aaf1d36720facf7de4cfd35f2][^c-731685dfe730ea00dc93c42a61002c52] The Employment (Northern Ireland) Order 2002 is amended as follows.
 
-**30.**[^key-55a922288e8111301c7e4422a7fbd508][^key-a3a39a9bc33821a6fde47d2247c41dcd] (1) Article 8 (funding of employers’ liabilities as regards certain statutory pay) is amended as follows.
+**30.**[^c-55a922288e8111301c7e4422a7fbd508][^c-a3a39a9bc33821a6fde47d2247c41dcd] (1) Article 8 (funding of employers’ liabilities as regards certain statutory pay) is amended as follows.
 
 (2) In paragraph (1), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
 
@@ -656,17 +656,17 @@ Section 4.
 
   .
 
-**31.**[^key-53d80dca5fd8e5f8b0d60be23bd93919][^key-5c9d4b33df5ef5b31cea606e0a5f74f8] In Article 9 (regulations about payment), in paragraphs (1) and (2)(a), (b) and (d), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
+**31.**[^c-53d80dca5fd8e5f8b0d60be23bd93919][^c-5c9d4b33df5ef5b31cea606e0a5f74f8] In Article 9 (regulations about payment), in paragraphs (1) and (2)(a), (b) and (d), for “and statutory shared parental pay” substitute “, statutory shared parental pay and statutory parental bereavement pay”.
 
-**32.**[^key-7259d3d21b439ab3cba7593b51a360a3][^key-bd21a9cd48bd095eb782eb74ab56678e] In Article 11 (power to require information), in paragraphs (1) and (2)(a), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**32.**[^c-7259d3d21b439ab3cba7593b51a360a3][^c-bd21a9cd48bd095eb782eb74ab56678e] In Article 11 (power to require information), in paragraphs (1) and (2)(a), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**33.**[^key-8b1b20dbb1c212b7a8992daf4a7c4140][^key-c81661adf1389a67a093cde3aabc2b3f] In Article 12 (penalties for failure to comply), in paragraph (6), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
+**33.**[^c-8b1b20dbb1c212b7a8992daf4a7c4140][^c-c81661adf1389a67a093cde3aabc2b3f] In Article 12 (penalties for failure to comply), in paragraph (6), for “or statutory shared parental pay” substitute “, statutory shared parental pay or statutory parental bereavement pay”.
 
-**34.**[^key-5b13b4c87294a0dbb41d813242c6a120][^key-c0c837c0f461b70084210d773b3fd5d1] In Article 13 (penalties for fraud etc), paragraphs (1)(a) and (b), (3) and (5), after “statutory paternity pay” insert “or statutory parental bereavement pay”.
+**34.**[^c-5b13b4c87294a0dbb41d813242c6a120][^c-c0c837c0f461b70084210d773b3fd5d1] In Article 13 (penalties for fraud etc), paragraphs (1)(a) and (b), (3) and (5), after “statutory paternity pay” insert “or statutory parental bereavement pay”.
 
 #### Pensions (No.2) Act (Northern Ireland) 2008
 
-**35.**[^key-d562a8cd9442f21bb1b20781464c2677][^key-5f9bc1a782acd8e8a9cf7cef6afa8f84] In section 13 of the Pensions (No.2) Act (Northern Ireland) 2008 (qualifying earnings), in subsection (3), after paragraph (ea) insert—
+**35.**[^c-d562a8cd9442f21bb1b20781464c2677][^c-5f9bc1a782acd8e8a9cf7cef6afa8f84] In section 13 of the Pensions (No.2) Act (Northern Ireland) 2008 (qualifying earnings), in subsection (3), after paragraph (ea) insert—
 
 > - (eb) statutory parental bereavement pay under Part 12ZD of that Act;
 
@@ -676,15 +676,15 @@ Section 4.
 
 **Not yet in force.**
 
-**36.**[^key-bb2699e0157c92b7fd02e2950290bdb9] Part 12ZD of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, inserted by section 2 of this Act, is amended as follows.
+**36.**[^c-bb2699e0157c92b7fd02e2950290bdb9] Part 12ZD of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, inserted by section 2 of this Act, is amended as follows.
 
-**37.**[^key-5b0950551745b49d37eedeb23a78b2b3] In section 167ZZ9 (entitlement to statutory parental bereavement pay), after subsection (2)(b) insert—
+**37.**[^c-5b0950551745b49d37eedeb23a78b2b3] In section 167ZZ9 (entitlement to statutory parental bereavement pay), after subsection (2)(b) insert—
 
 > - (ba) that at the end of the relevant week the person was entitled to be in that employment,
 
 .
 
-**38.**[^key-1778a5d336e402b46ef0186b27888b7c] In section 167ZZ10 (entitlement: supplementary), after subsection (4) insert—
+**38.**[^c-1778a5d336e402b46ef0186b27888b7c] In section 167ZZ10 (entitlement: supplementary), after subsection (4) insert—
 
 > (5) The Department may by regulations provide for circumstances in which section 167ZZ9(2)(ba) does not have effect.
 
@@ -692,160 +692,160 @@ Section 4.
 
 ## Annotations
 
-[^key-71ccb0f86acfccc6082ea3e8f73982bd]: Commencement: S. 1 in operation at 22.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
+[^c-71ccb0f86acfccc6082ea3e8f73982bd]: Commencement: S. 1 in operation at 22.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
 
-[^key-5e441ac936009328a4f5ea7b9ed06664]: Commencement: S. 2 in operation at 22.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
+[^c-5e441ac936009328a4f5ea7b9ed06664]: Commencement: S. 2 in operation at 22.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
 
-[^key-2192ebd0b64e60cdf2598e445ba8f8ea]: Commencement: S. 3 in operation at 22.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
+[^c-2192ebd0b64e60cdf2598e445ba8f8ea]: Commencement: S. 3 in operation at 22.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/5/section/5/1)
 
-[^key-687fd3c406d0ffc7e88fde646193ff94]: Commencement: S. 4 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-687fd3c406d0ffc7e88fde646193ff94]: Commencement: S. 4 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-301ee3ffd929aeca3dcd31ddfd810fa0]: Commencement: S. 4 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
+[^c-301ee3ffd929aeca3dcd31ddfd810fa0]: Commencement: S. 4 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
 
-[^key-3ac42fc2e0b6a5300fded6060815d2bc]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/5/section/4) in operation at 23.3.2022 for specified purposes by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-3ac42fc2e0b6a5300fded6060815d2bc]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/5/section/4) in operation at 23.3.2022 for specified purposes by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-ae59a8d166d4aabe1df962b090180f31]: Commencement: S. 5 in operation at Royal Assent
+[^c-ae59a8d166d4aabe1df962b090180f31]: Commencement: S. 5 in operation at Royal Assent
 
-[^key-57c900026e7b5606ea381c132d6e2253]: Commencement: S. 6 in operation at Royal Assent
+[^c-57c900026e7b5606ea381c132d6e2253]: Commencement: S. 6 in operation at Royal Assent
 
-[^key-d7113bee584a17c2bacfaea76d9e8a9b]: Commencement: Sch. para. 1 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-d7113bee584a17c2bacfaea76d9e8a9b]: Commencement: Sch. para. 1 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-577e7830a7b59cff01dc1a65ef9f3e9d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/1) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-577e7830a7b59cff01dc1a65ef9f3e9d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/1) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-24176c070a570ef4aca968a5db2f4fba]: Commencement: Sch. para. 2 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-24176c070a570ef4aca968a5db2f4fba]: Commencement: Sch. para. 2 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-853acee3501526e7b8d5a876fbda6028]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/2) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-853acee3501526e7b8d5a876fbda6028]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/2) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-35791eef02c71db98ed4c969f6c775c9]: Commencement: Sch. para. 3 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-35791eef02c71db98ed4c969f6c775c9]: Commencement: Sch. para. 3 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-119fa504ef86dc0a3b2c717803d8cd04]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/3) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-119fa504ef86dc0a3b2c717803d8cd04]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/3) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-960562974bdef5fdb07ae5ca50736a00]: Commencement: Sch. para. 4 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-960562974bdef5fdb07ae5ca50736a00]: Commencement: Sch. para. 4 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-9c5c98b4e4e5ffdad150ff27bef18271]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/4) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-9c5c98b4e4e5ffdad150ff27bef18271]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/4) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-33c5609baa22181f8972bbbbb01e6dbb]: Commencement: Sch. para. 5 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-33c5609baa22181f8972bbbbb01e6dbb]: Commencement: Sch. para. 5 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-57532b22a266c4956c3590e561ec98d7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/5) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-57532b22a266c4956c3590e561ec98d7]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/5) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-806f0a3b1f6a9d25f57901b17fdd4599]: Commencement: Sch. para. 6 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-806f0a3b1f6a9d25f57901b17fdd4599]: Commencement: Sch. para. 6 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-76f414a0e51edf4769754674134451bd]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/6) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-76f414a0e51edf4769754674134451bd]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/6) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-648f067030adcc15792f6e517af68cfe]: Commencement: Sch. para. 7 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-648f067030adcc15792f6e517af68cfe]: Commencement: Sch. para. 7 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-3b39d4acd3d359e99ad2be13f166937c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/7) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-3b39d4acd3d359e99ad2be13f166937c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/7) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-ab9054cda68607f11e15b1ed19b25c7c]: Commencement: Sch. para. 8 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-ab9054cda68607f11e15b1ed19b25c7c]: Commencement: Sch. para. 8 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-e0a414cefc02c6611cab5710221c6a45]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/8) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-e0a414cefc02c6611cab5710221c6a45]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/8) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-f2a7ddb67aad268f8b54ea0fc6fcedc7]: Commencement: Sch. para. 9 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-f2a7ddb67aad268f8b54ea0fc6fcedc7]: Commencement: Sch. para. 9 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-003cd8d0e85bbca52906d3f00c382a70]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/9) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-003cd8d0e85bbca52906d3f00c382a70]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/9) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-1da331e6825c725c310ebe2778208ee1]: Commencement: Sch. para. 10 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-1da331e6825c725c310ebe2778208ee1]: Commencement: Sch. para. 10 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-8812bd24533543cdfca0cd26747a8ce6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/10) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-8812bd24533543cdfca0cd26747a8ce6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/10) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-9e52ae95e51e9c4ee6c74cccb03e4ffe]: Commencement: Sch. para. 11 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-9e52ae95e51e9c4ee6c74cccb03e4ffe]: Commencement: Sch. para. 11 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-4c3824ba19a202605b42035f99143766]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/11) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-4c3824ba19a202605b42035f99143766]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/11) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-b02811a5b8fdfab4cadf01dcb644b2bd]: Commencement: Sch. para. 12 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-b02811a5b8fdfab4cadf01dcb644b2bd]: Commencement: Sch. para. 12 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-2e2b0d488e3d5dd4fd2cac5bbeedc011]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/12) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-2e2b0d488e3d5dd4fd2cac5bbeedc011]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/12) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-87ccac45e12c2872e8ce92972fc44f7c]: Commencement: Sch. para. 13 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-87ccac45e12c2872e8ce92972fc44f7c]: Commencement: Sch. para. 13 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-1c583534972fd2ffd5bdc7cae1a97dd9]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/13) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-1c583534972fd2ffd5bdc7cae1a97dd9]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/13) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-3fe562a8fa4695bf163489b271103fd5]: Commencement: Sch. para. 14 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-3fe562a8fa4695bf163489b271103fd5]: Commencement: Sch. para. 14 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-7823ab7c493e51529ec6290b639477c0]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/14) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-7823ab7c493e51529ec6290b639477c0]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/14) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-7c22af6993a17c861fd396acff9a8084]: Commencement: Sch. para. 16 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-7c22af6993a17c861fd396acff9a8084]: Commencement: Sch. para. 16 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-c889e563e37cc22dab97dd9d3ff028eb]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/16) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-c889e563e37cc22dab97dd9d3ff028eb]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/16) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-1fc5211dbb84f5fde1380b02a7b24b40]: Commencement: Sch. para. 17 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-1fc5211dbb84f5fde1380b02a7b24b40]: Commencement: Sch. para. 17 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-e962a3f06e90403233978054e7deb55e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/17) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-e962a3f06e90403233978054e7deb55e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/17) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-46db9bbf041b02a6c8168e8dbdd76d7d]: Commencement: Sch. para. 18 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-46db9bbf041b02a6c8168e8dbdd76d7d]: Commencement: Sch. para. 18 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-97158e734a540b7439daa295f283b42e]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/18) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-97158e734a540b7439daa295f283b42e]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/18) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-85113b428ca85b1854e0489fab0dee46]: Commencement: Sch. para. 19 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-85113b428ca85b1854e0489fab0dee46]: Commencement: Sch. para. 19 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-4b59d91a6989c09f1eedb7a66fda22b8]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/19) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-4b59d91a6989c09f1eedb7a66fda22b8]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/19) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-51c4ee7222a8a30f51589424a43e56c9]: Commencement: Sch. para. 20 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-51c4ee7222a8a30f51589424a43e56c9]: Commencement: Sch. para. 20 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-e56e0293b076c5778085d3b028fca6a9]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/20) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-e56e0293b076c5778085d3b028fca6a9]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/20) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-346d377d165651f07bc204e358f7a8d9]: Commencement: Sch. para. 21 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-346d377d165651f07bc204e358f7a8d9]: Commencement: Sch. para. 21 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-889b7a9d7a5ba810adb6760c45ee3fca]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/21) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-889b7a9d7a5ba810adb6760c45ee3fca]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/21) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-ffec66c608c4883fec9fa58fbdeb1237]: Commencement: Sch. para. 22 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-ffec66c608c4883fec9fa58fbdeb1237]: Commencement: Sch. para. 22 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-5bc2a1a457f384aa97367b693139b06d]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/22) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-5bc2a1a457f384aa97367b693139b06d]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/22) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-d6af3e6bc33d6c55b7767837f09fa442]: Commencement: Sch. para. 23 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-d6af3e6bc33d6c55b7767837f09fa442]: Commencement: Sch. para. 23 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-40cd6e732ae82d0001b25dc663a6aac8]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/23) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-40cd6e732ae82d0001b25dc663a6aac8]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/23) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-98a85f1d0c4407ac332123e6b46eeb1c]: Commencement: Sch. para. 24 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-98a85f1d0c4407ac332123e6b46eeb1c]: Commencement: Sch. para. 24 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-24d31f2eab53a238be0138495dd3d1e6]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/24) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-24d31f2eab53a238be0138495dd3d1e6]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/24) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-598628b605ba42136285986aab5f91f0]: Commencement: Sch. para. 25 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-598628b605ba42136285986aab5f91f0]: Commencement: Sch. para. 25 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-c05861a43a4f9af2c61e6e1757bd6e6b]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/25) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-c05861a43a4f9af2c61e6e1757bd6e6b]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/25) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-d5c710673964aa580671f1bb35200298]: Commencement: Sch. para. 26 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-d5c710673964aa580671f1bb35200298]: Commencement: Sch. para. 26 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-e90d96f6331b1c3b2eb3756ceaacc7d6]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/26) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-e90d96f6331b1c3b2eb3756ceaacc7d6]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/26) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-964b00c15fff495816c2f95518bb285f]: Commencement: Sch. para. 27 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-964b00c15fff495816c2f95518bb285f]: Commencement: Sch. para. 27 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-e17a680ed734c458af9f6f4151f7f37c]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/27) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-e17a680ed734c458af9f6f4151f7f37c]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/27) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-67e8aace1437ab67357bc1076dcae063]: Commencement: Sch. para. 28 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-67e8aace1437ab67357bc1076dcae063]: Commencement: Sch. para. 28 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-4aac010de186e9bcdeddde9d93c8a628]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/28) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-4aac010de186e9bcdeddde9d93c8a628]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/28) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-a2c5ea7aaf1d36720facf7de4cfd35f2]: Commencement: Sch. para. 29 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-a2c5ea7aaf1d36720facf7de4cfd35f2]: Commencement: Sch. para. 29 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-731685dfe730ea00dc93c42a61002c52]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/29) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-731685dfe730ea00dc93c42a61002c52]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/29) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-55a922288e8111301c7e4422a7fbd508]: Commencement: Sch. para. 30 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-55a922288e8111301c7e4422a7fbd508]: Commencement: Sch. para. 30 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-a3a39a9bc33821a6fde47d2247c41dcd]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/30) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-a3a39a9bc33821a6fde47d2247c41dcd]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/30) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-53d80dca5fd8e5f8b0d60be23bd93919]: Commencement: Sch. para. 31 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-53d80dca5fd8e5f8b0d60be23bd93919]: Commencement: Sch. para. 31 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-5c9d4b33df5ef5b31cea606e0a5f74f8]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/31) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-5c9d4b33df5ef5b31cea606e0a5f74f8]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/31) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-7259d3d21b439ab3cba7593b51a360a3]: Commencement: Sch. para. 32 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-7259d3d21b439ab3cba7593b51a360a3]: Commencement: Sch. para. 32 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-bd21a9cd48bd095eb782eb74ab56678e]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/32) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-bd21a9cd48bd095eb782eb74ab56678e]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/32) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-8b1b20dbb1c212b7a8992daf4a7c4140]: Commencement: Sch. para. 33 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-8b1b20dbb1c212b7a8992daf4a7c4140]: Commencement: Sch. para. 33 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-c81661adf1389a67a093cde3aabc2b3f]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/33) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-c81661adf1389a67a093cde3aabc2b3f]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/33) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-5b13b4c87294a0dbb41d813242c6a120]: Commencement: Sch. para. 34 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-5b13b4c87294a0dbb41d813242c6a120]: Commencement: Sch. para. 34 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-c0c837c0f461b70084210d773b3fd5d1]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/34) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-c0c837c0f461b70084210d773b3fd5d1]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/34) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-d562a8cd9442f21bb1b20781464c2677]: Commencement: Sch. para. 35 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
+[^c-d562a8cd9442f21bb1b20781464c2677]: Commencement: Sch. para. 35 not in operation at Royal Assent, see [s. 5(5)](https://www.legislation.gov.uk/nia/2022/5/section/5/5)
 
-[^key-5f9bc1a782acd8e8a9cf7cef6afa8f84]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/35) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-5f9bc1a782acd8e8a9cf7cef6afa8f84]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/nia/2022/5/schedule/paragraph/35) in operation at 23.3.2022 by [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
 
-[^key-bb2699e0157c92b7fd02e2950290bdb9]: Commencement: Sch. para. 36 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
+[^c-bb2699e0157c92b7fd02e2950290bdb9]: Commencement: Sch. para. 36 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
 
-[^key-5b0950551745b49d37eedeb23a78b2b3]: Commencement: Sch. para. 37 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
+[^c-5b0950551745b49d37eedeb23a78b2b3]: Commencement: Sch. para. 37 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
 
-[^key-1778a5d336e402b46ef0186b27888b7c]: Commencement: Sch. para. 38 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)
+[^c-1778a5d336e402b46ef0186b27888b7c]: Commencement: Sch. para. 38 not in operation at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/nia/2022/5/section/5/6)

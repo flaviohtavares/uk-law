@@ -35,18 +35,18 @@ setting the weighted average of maximum mobile termination rates across the Unio
 
 (Text with EEA relevance) (revoked)
 
-[^key-0fe00d9215e7e3d7d97087528f135307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe00d9215e7e3d7d97087528f135307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0fe00d9215e7e3d7d97087528f135307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0fe00d9215e7e3d7d97087528f135307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0fe00d9215e7e3d7d97087528f135307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0fe00d9215e7e3d7d97087528f135307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0fe00d9215e7e3d7d97087528f135307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0fe00d9215e7e3d7d97087528f135307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fe00d9215e7e3d7d97087528f135307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fe00d9215e7e3d7d97087528f135307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fe00d9215e7e3d7d97087528f135307]: Textual amendment: Regulation revoked (31.12.2020) by [The Mobile Roaming (EU Exit) Regulations 2019 (S.I. 2019/587)](https://www.legislation.gov.uk/uksi/2019/587), [regs. 1](https://www.legislation.gov.uk/uksi/2019/587/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/587/regulation/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fe00d9215e7e3d7d97087528f135307]: Textual amendment: Regulation revoked (31.12.2020) by [The Mobile Roaming (EU Exit) Regulations 2019 (S.I. 2019/587)](https://www.legislation.gov.uk/uksi/2019/587), [regs. 1](https://www.legislation.gov.uk/uksi/2019/587/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/587/regulation/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

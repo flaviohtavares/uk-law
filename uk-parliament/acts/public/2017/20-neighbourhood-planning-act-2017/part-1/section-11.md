@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Format of local development schemes and documents[^key-8a7e6c1e11c16ca7197815bd2674956b]
+## 11. Format of local development schemes and documents[^c-8a7e6c1e11c16ca7197815bd2674956b]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a7e6c1e11c16ca7197815bd2674956b]: Commencement: S. 11 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/c)
+[^c-8a7e6c1e11c16ca7197815bd2674956b]: Commencement: S. 11 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/c)

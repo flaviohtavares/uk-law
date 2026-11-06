@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Expenses of voluntary arrangement[^key-fae24c099c328cb3e22329340f6a2e32]
+## 133. Expenses of voluntary arrangement[^c-fae24c099c328cb3e22329340f6a2e32]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a special administration order, a special administration (bank insolvency)
 
 ## Annotations
 
-[^key-fae24c099c328cb3e22329340f6a2e32]: Commencement: [Rule 133](https://www.legislation.gov.uk/uksi/2011/1301/rule/133) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fae24c099c328cb3e22329340f6a2e32]: Commencement: [Rule 133](https://www.legislation.gov.uk/uksi/2011/1301/rule/133) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

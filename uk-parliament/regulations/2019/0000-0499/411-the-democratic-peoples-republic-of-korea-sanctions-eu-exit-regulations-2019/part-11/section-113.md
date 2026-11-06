@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Procedure for offences by unincorporated bodies[^key-f5d5fe1635b7e2ab3002e2be33a764b2][^key-32c42487887b15f6bcb3832178715561]
+## 113. Procedure for offences by unincorporated bodies[^c-f5d5fe1635b7e2ab3002e2be33a764b2][^c-32c42487887b15f6bcb3832178715561]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-f5d5fe1635b7e2ab3002e2be33a764b2]: Commencement: Reg. 113 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-f5d5fe1635b7e2ab3002e2be33a764b2]: Commencement: Reg. 113 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-32c42487887b15f6bcb3832178715561]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2019/411/regulation/113) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32c42487887b15f6bcb3832178715561]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2019/411/regulation/113) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636711]: Marginal citation: [1925 c.8](https://www.legislation.gov.uk/ukpga/1925/8), as amended by [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and (3) and Schedule 1(17)(11), para. 1. Other amendments have been made to section 33 that are not relevant to these Regulations.
 

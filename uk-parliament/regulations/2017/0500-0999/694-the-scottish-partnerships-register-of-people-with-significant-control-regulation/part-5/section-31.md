@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. End-dating of additional matters[^key-cba1a03a14d44400200571a0b1687cea]
+## 31. End-dating of additional matters[^c-cba1a03a14d44400200571a0b1687cea]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where a statement delivered to the registrar in accordance with regulation 23, 2
 
 ## Annotations
 
-[^key-cba1a03a14d44400200571a0b1687cea]: Modification: [Reg. 31](https://www.legislation.gov.uk/uksi/2017/694/regulation/31) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [34](https://www.legislation.gov.uk/uksi/2020/645/regulation/34)
+[^c-cba1a03a14d44400200571a0b1687cea]: Modification: [Reg. 31](https://www.legislation.gov.uk/uksi/2017/694/regulation/31) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [34](https://www.legislation.gov.uk/uksi/2020/645/regulation/34)

@@ -35,7 +35,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Overview of Act
 
-### 1. Overview of Act[^key-f8d6f470165ba1a087e7acbda11f4773]
+### 1. Overview of Act[^c-f8d6f470165ba1a087e7acbda11f4773]
 
 This Act is arranged as follows—
 
@@ -45,7 +45,7 @@ This Act is arranged as follows—
 
 ## Part 2 — Duties of the Scottish Ministers
 
-### 2. Information and awareness about authorisation of transplantation and about pre-death procedures[^key-98a7ab97786519ddc9cf186821f56cc7]
+### 2. Information and awareness about authorisation of transplantation and about pre-death procedures[^c-98a7ab97786519ddc9cf186821f56cc7]
 
 (1) In section 1 of the 2006 Act, at the end of paragraph (c), insert
 
@@ -75,7 +75,7 @@ This Act is arranged as follows—
 
 .
 
-### 3. Establishment and maintenance of register[^key-259a9f75fbcf93f897dd35512b211188]
+### 3. Establishment and maintenance of register[^c-259a9f75fbcf93f897dd35512b211188]
 
 (1) The 2006 Act is amended as follows.
 
@@ -162,7 +162,7 @@ This Act is arranged as follows—
 
 ### Chapter 1 — Timing of authorisation
 
-#### 4. Timing of authorisation[^key-572f7990a926e067e8cc463607e5e67f]
+#### 4. Timing of authorisation[^c-572f7990a926e067e8cc463607e5e67f]
 
 (1) The 2006 Act is amended as follows.
 
@@ -230,7 +230,7 @@ This Act is arranged as follows—
 
 ### Chapter 2 — Authorisation by or on behalf of adult
 
-#### 5. Express authorisation by adult[^key-b3a4bc1b8cd2637415cf79476b7f7043]
+#### 5. Express authorisation by adult[^c-b3a4bc1b8cd2637415cf79476b7f7043]
 
 (1) The 2006 Act is amended as follows.
 
@@ -292,7 +292,7 @@ This Act is arranged as follows—
 
 .
 
-#### 6. Opt-out declaration by adult[^key-5573cdecbd14140b44860b9566057bd4]
+#### 6. Opt-out declaration by adult[^c-5573cdecbd14140b44860b9566057bd4]
 
 After section 6A of the 2006 Act insert—
 
@@ -360,7 +360,7 @@ After section 6A of the 2006 Act insert—
 
 .
 
-#### 7. Deemed authorisation for transplantation as respects adult[^key-b3896ceaf93f223515c354c1f8587eee][^key-5f9b30ab0322bd6cc0af061df5011720]
+#### 7. Deemed authorisation for transplantation as respects adult[^c-b3896ceaf93f223515c354c1f8587eee][^c-5f9b30ab0322bd6cc0af061df5011720]
 
 (1) The 2006 Act is amended as follows.
 
@@ -401,7 +401,7 @@ After section 6A of the 2006 Act insert—
 
 .
 
-#### 8. Non-resident adult: authorisation for transplantation by nearest relative[^key-6456f65c9b6b0c0de98c6ca07eac12fa]
+#### 8. Non-resident adult: authorisation for transplantation by nearest relative[^c-6456f65c9b6b0c0de98c6ca07eac12fa]
 
 After section 6D of the 2006 Act insert—
 
@@ -430,7 +430,7 @@ After section 6D of the 2006 Act insert—
 
 .
 
-#### 9. Adult incapable of understanding deemed authorisation: authorisation for transplantation by nearest relative[^key-4de10500552797fd15a094b23d0a4d3a]
+#### 9. Adult incapable of understanding deemed authorisation: authorisation for transplantation by nearest relative[^c-4de10500552797fd15a094b23d0a4d3a]
 
 After section 6E of the 2006 Act insert—
 
@@ -461,7 +461,7 @@ After section 6E of the 2006 Act insert—
 
 .
 
-#### 10. Excepted body parts: authorisation for transplantation by nearest relative[^key-50e91b2ff9450e04404f11a10b8758e0]
+#### 10. Excepted body parts: authorisation for transplantation by nearest relative[^c-50e91b2ff9450e04404f11a10b8758e0]
 
 After section 6F of the 2006 Act insert—
 
@@ -490,7 +490,7 @@ After section 6F of the 2006 Act insert—
 
 .
 
-#### 11. Authorisation for purpose other than transplantation by nearest relative[^key-8d9654c597683e7e6750860a30a6e086]
+#### 11. Authorisation for purpose other than transplantation by nearest relative[^c-8d9654c597683e7e6750860a30a6e086]
 
 (1) The 2006 Act is amended as follows.
 
@@ -531,7 +531,7 @@ After section 6F of the 2006 Act insert—
 
 (3) Section 7 is repealed.
 
-#### 12. Review of section 1(1)(d) and (e) and sections 6(1A), 6B and 6D of the 2006 Act[^key-74596b836999455f56cf525e50f1864a]
+#### 12. Review of section 1(1)(d) and (e) and sections 6(1A), 6B and 6D of the 2006 Act[^c-74596b836999455f56cf525e50f1864a]
 
 After section 6H of the 2006 Act insert—
 
@@ -559,7 +559,7 @@ After section 6H of the 2006 Act insert—
 
 ### Chapter 3 — Authorisation by or on behalf of child
 
-#### 13. Authorisation by child 12 years of age or over[^key-dadd1db810d16aec44a55ed072fab617]
+#### 13. Authorisation by child 12 years of age or over[^c-dadd1db810d16aec44a55ed072fab617]
 
 (1) The 2006 Act is amended as follows.
 
@@ -615,7 +615,7 @@ After section 6H of the 2006 Act insert—
 
 .
 
-#### 14. Opt-out declaration by child 12 years of age or over[^key-1cd97ec518bb13f85f5dce9eb455430d]
+#### 14. Opt-out declaration by child 12 years of age or over[^c-1cd97ec518bb13f85f5dce9eb455430d]
 
 After section 8A of the 2006 Act insert—
 
@@ -676,7 +676,7 @@ After section 8A of the 2006 Act insert—
 
 .
 
-#### 15. Authorisation by person with parental rights and responsibilities: child 12 years of age or over[^key-97441819d050da1fc904a36cbcf7abc7]
+#### 15. Authorisation by person with parental rights and responsibilities: child 12 years of age or over[^c-97441819d050da1fc904a36cbcf7abc7]
 
 (1) The 2006 Act is amended as follows.
 
@@ -717,7 +717,7 @@ After section 8A of the 2006 Act insert—
 
 (3) Section 9 is repealed.
 
-#### 16. Authorisation by person with parental rights and responsibilities: child under 12 years of age[^key-350fea017e49974cc00c4f715aa7d5e3]
+#### 16. Authorisation by person with parental rights and responsibilities: child under 12 years of age[^c-350fea017e49974cc00c4f715aa7d5e3]
 
 (1) Section 10 of the 2006 Act is amended as follows.
 
@@ -752,7 +752,7 @@ After section 8A of the 2006 Act insert—
 
 (4) Subsection (2) is repealed.
 
-#### 17. Authorisation by other persons: children[^key-d92e3075a63b422fb861c845ac23799e]
+#### 17. Authorisation by other persons: children[^c-d92e3075a63b422fb861c845ac23799e]
 
 After section 10 of the 2006 Act insert—
 
@@ -820,7 +820,7 @@ After section 10 of the 2006 Act insert—
 
 .
 
-#### 18. Functions of local authority with parental rights and responsibilities[^key-0c7b3c446b76e957bd530bc3dfa8fcf1]
+#### 18. Functions of local authority with parental rights and responsibilities[^c-0c7b3c446b76e957bd530bc3dfa8fcf1]
 
 (1) The 2006 Act is amended as follows.
 
@@ -860,7 +860,7 @@ After section 10 of the 2006 Act insert—
 
 ### Chapter 4 — Authorisations: general
 
-#### 19. Power to make provision about decisions[^key-6e85447d14d96a8672766cbb8186e6d0]
+#### 19. Power to make provision about decisions[^c-6e85447d14d96a8672766cbb8186e6d0]
 
 (1) The 2006 Act is amended as follows.
 
@@ -886,7 +886,7 @@ After section 10 of the 2006 Act insert—
 
 .
 
-#### 20. Withdrawal by person who is blind or unable to write[^key-ed7779efb451683295c31109b48815f0]
+#### 20. Withdrawal by person who is blind or unable to write[^c-ed7779efb451683295c31109b48815f0]
 
 (1) The 2006 Act is amended as follows.
 
@@ -931,11 +931,11 @@ After section 10 of the 2006 Act insert—
 
 (4) In section 8, subsections (3) to (6) are repealed.
 
-#### 21. Removal and use of part of body for quality assurance purposes[^key-abf159de6c1c695707f5c51a6d901a44]
+#### 21. Removal and use of part of body for quality assurance purposes[^c-abf159de6c1c695707f5c51a6d901a44]
 
 In section 3(1)(d) of the 2006 Act, after “audit” insert “ or quality assurance ”.
 
-#### 22. Removal of part of body of deceased person: further requirements[^key-ebb8369315a432a745c842a00ff23462]
+#### 22. Removal of part of body of deceased person: further requirements[^c-ebb8369315a432a745c842a00ff23462]
 
 (1) Section 11 of the 2006 Act is amended as follows.
 
@@ -993,7 +993,7 @@ In section 3(1)(d) of the 2006 Act, after “audit” insert “ or quality assu
 
 ### Chapter 5 — Pre-death procedures relating to transplantation
 
-#### 23. Pre-death procedures relating to transplantation[^key-9b8d136e10d832527a8a5e2a9ab4e350][^key-c7cee1869e3c880af8347ba2cc7d2339]
+#### 23. Pre-death procedures relating to transplantation[^c-9b8d136e10d832527a8a5e2a9ab4e350][^c-c7cee1869e3c880af8347ba2cc7d2339]
 
 (1) After section 16 of the 2006 Act insert—
 
@@ -1141,7 +1141,7 @@ In section 3(1)(d) of the 2006 Act, after “audit” insert “ or quality assu
 
 ### Chapter 6 — Duty to inquire
 
-#### 24. Duty to inquire[^key-8efff17fd1281b33c44e2011fb4e9a50]
+#### 24. Duty to inquire[^c-8efff17fd1281b33c44e2011fb4e9a50]
 
 After section 16G of the 2006 Act insert—
 
@@ -1234,7 +1234,7 @@ In this Act “**the 2006 Act**” means the Human Tissue (Scotland) Act 2006.
 
 (4) Otherwise, regulations under subsection (1) are subject to the negative procedure.
 
-### 27. Interpretation[^key-e45f3c4ee924e42301df6698ec2929df]
+### 27. Interpretation[^c-e45f3c4ee924e42301df6698ec2929df]
 
 (1) The 2006 Act is amended as follows.
 
@@ -1325,7 +1325,7 @@ In this Act “**the 2006 Act**” means the Human Tissue (Scotland) Act 2006.
 
 (6) In section 14(5), the definitions of “Health Board” and “Special Health Board” are repealed.
 
-### 28. Minor and consequential modifications[^key-f410ee8600fac12778da33484f88dde1]
+### 28. Minor and consequential modifications[^c-f410ee8600fac12778da33484f88dde1]
 
 (1) In section 1(5) of the Anatomy Act 1984—
 
@@ -1396,58 +1396,58 @@ The short title of this Act is the Human Tissue (Authorisation) (Scotland) Act 2
 
 ## Annotations
 
-[^key-f8d6f470165ba1a087e7acbda11f4773]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/11/section/1) in force at 11.10.2019 by [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/a)
+[^c-f8d6f470165ba1a087e7acbda11f4773]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/11/section/1) in force at 11.10.2019 by [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/a)
 
-[^key-98a7ab97786519ddc9cf186821f56cc7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/11/section/2) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-98a7ab97786519ddc9cf186821f56cc7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/11/section/2) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-259a9f75fbcf93f897dd35512b211188]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/11/section/3) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-259a9f75fbcf93f897dd35512b211188]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2019/11/section/3) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-572f7990a926e067e8cc463607e5e67f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/11/section/4) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-572f7990a926e067e8cc463607e5e67f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/11/section/4) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-b3a4bc1b8cd2637415cf79476b7f7043]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/11/section/5) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-b3a4bc1b8cd2637415cf79476b7f7043]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/11/section/5) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-5573cdecbd14140b44860b9566057bd4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/11/section/6) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-5573cdecbd14140b44860b9566057bd4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/11/section/6) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-b3896ceaf93f223515c354c1f8587eee]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/11/section/7) in force at 11.10.2019 for specified purposes by [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/b)
+[^c-b3896ceaf93f223515c354c1f8587eee]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/11/section/7) in force at 11.10.2019 for specified purposes by [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/b)
 
-[^key-5f9b30ab0322bd6cc0af061df5011720]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/11/section/7) in force at 26.3.2021 in so far as not already in force by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-5f9b30ab0322bd6cc0af061df5011720]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/11/section/7) in force at 26.3.2021 in so far as not already in force by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-6456f65c9b6b0c0de98c6ca07eac12fa]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/11/section/8) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-6456f65c9b6b0c0de98c6ca07eac12fa]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/11/section/8) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-4de10500552797fd15a094b23d0a4d3a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/11/section/9) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-4de10500552797fd15a094b23d0a4d3a]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/11/section/9) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-50e91b2ff9450e04404f11a10b8758e0]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/11/section/10) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-50e91b2ff9450e04404f11a10b8758e0]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/11/section/10) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-8d9654c597683e7e6750860a30a6e086]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/11/section/11) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-8d9654c597683e7e6750860a30a6e086]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/11/section/11) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-74596b836999455f56cf525e50f1864a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/11/section/12) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-74596b836999455f56cf525e50f1864a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/11/section/12) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-dadd1db810d16aec44a55ed072fab617]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/11/section/13) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-dadd1db810d16aec44a55ed072fab617]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2019/11/section/13) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-1cd97ec518bb13f85f5dce9eb455430d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/11/section/14) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-1cd97ec518bb13f85f5dce9eb455430d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2019/11/section/14) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-97441819d050da1fc904a36cbcf7abc7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/11/section/15) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-97441819d050da1fc904a36cbcf7abc7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/11/section/15) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-350fea017e49974cc00c4f715aa7d5e3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/11/section/16) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-350fea017e49974cc00c4f715aa7d5e3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2019/11/section/16) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-d92e3075a63b422fb861c845ac23799e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/11/section/17) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-d92e3075a63b422fb861c845ac23799e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/11/section/17) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-0c7b3c446b76e957bd530bc3dfa8fcf1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/11/section/18) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-0c7b3c446b76e957bd530bc3dfa8fcf1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/11/section/18) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-6e85447d14d96a8672766cbb8186e6d0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/11/section/19) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-6e85447d14d96a8672766cbb8186e6d0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/11/section/19) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-ed7779efb451683295c31109b48815f0]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/11/section/20) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-ed7779efb451683295c31109b48815f0]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/11/section/20) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-abf159de6c1c695707f5c51a6d901a44]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/11/section/21) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-abf159de6c1c695707f5c51a6d901a44]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/11/section/21) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-ebb8369315a432a745c842a00ff23462]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/11/section/22) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-ebb8369315a432a745c842a00ff23462]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/11/section/22) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-9b8d136e10d832527a8a5e2a9ab4e350]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/11/section/23) in force at 11.10.2019 for specified purposes by [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/c)
+[^c-9b8d136e10d832527a8a5e2a9ab4e350]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/11/section/23) in force at 11.10.2019 for specified purposes by [S.S.I. 2019/305](https://www.legislation.gov.uk/ssi/2019/305), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2019/305/regulation/2/c)
 
-[^key-c7cee1869e3c880af8347ba2cc7d2339]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/11/section/23) in force at 26.3.2021 in so far as not already in force by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-c7cee1869e3c880af8347ba2cc7d2339]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2019/11/section/23) in force at 26.3.2021 in so far as not already in force by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-8efff17fd1281b33c44e2011fb4e9a50]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/11/section/24) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-8efff17fd1281b33c44e2011fb4e9a50]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/11/section/24) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-e45f3c4ee924e42301df6698ec2929df]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/11/section/27) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-e45f3c4ee924e42301df6698ec2929df]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2019/11/section/27) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-f410ee8600fac12778da33484f88dde1]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/11/section/28) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-f410ee8600fac12778da33484f88dde1]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/11/section/28) in force at 26.3.2021 by [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

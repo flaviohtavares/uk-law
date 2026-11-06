@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Offences under the 2006 Act: continuation of investigation commenced by the Regulator and institution of criminal proceedings[^key-b72216c87a52e9d243e82203fd6a2ff3][^key-e49909c29edbecee09b5b48a3b132137]
+## 57. Offences under the 2006 Act: continuation of investigation commenced by the Regulator and institution of criminal proceedings[^c-b72216c87a52e9d243e82203fd6a2ff3][^c-e49909c29edbecee09b5b48a3b132137]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b72216c87a52e9d243e82203fd6a2ff3]: Commencement: Art. 57 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-b72216c87a52e9d243e82203fd6a2ff3]: Commencement: Art. 57 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-e49909c29edbecee09b5b48a3b132137]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2018/1253/article/57) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-e49909c29edbecee09b5b48a3b132137]: Commencement: [Art. 57](https://www.legislation.gov.uk/uksi/2018/1253/article/57) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

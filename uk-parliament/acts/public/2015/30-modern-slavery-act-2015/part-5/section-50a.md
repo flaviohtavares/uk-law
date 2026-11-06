@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Identified potential victims etc: assistance and support[^key-79cff1be8851082d755b38ceac08a162]
+## 50A. Identified potential victims etc: assistance and support[^c-79cff1be8851082d755b38ceac08a162]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79cff1be8851082d755b38ceac08a162]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/2015/30/section/50A) inserted (30.1.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 64](https://www.legislation.gov.uk/ukpga/2022/36/section/64), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/e)
+[^c-79cff1be8851082d755b38ceac08a162]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/2015/30/section/50A) inserted (30.1.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 64](https://www.legislation.gov.uk/ukpga/2022/36/section/64), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Police officer’s deferred pension[^key-3f2f224ce52688bfcb25fb97268d8b38]
+## 29. Police officer’s deferred pension[^c-3f2f224ce52688bfcb25fb97268d8b38]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ calculated as if the deferred pension were an ordinary pension calculated under 
 
 ## Annotations
 
-[^key-3f2f224ce52688bfcb25fb97268d8b38]: Commencement: Reg. 29 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-3f2f224ce52688bfcb25fb97268d8b38]: Commencement: Reg. 29 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

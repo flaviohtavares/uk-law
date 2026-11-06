@@ -50,7 +50,7 @@ Accordingly, the Department for Social Development makes the following Order:
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and effect[^key-da06ee560c917c23d0d072f05dcdf71f][^key-da06ee560c917c23d0d072f05dcdf71f]
+### 1. Citation, commencement and effect[^c-da06ee560c917c23d0d072f05dcdf71f][^c-da06ee560c917c23d0d072f05dcdf71f]
 
 (1) This Order may be cited as the Social Security Benefits Up-rating Order (Northern Ireland) 2012 and, subject to paragraph (2), shall come into operation for the purposes of—
 
@@ -79,7 +79,7 @@ Accordingly, the Department for Social Development makes the following Order:
 
 shall take effect for each case on the date specified in relation to that case in Article 6.
 
-### 2. Interpretation[^key-e520bc5fc2545db232b88f385062a80e][^key-e520bc5fc2545db232b88f385062a80e]
+### 2. Interpretation[^c-e520bc5fc2545db232b88f385062a80e][^c-e520bc5fc2545db232b88f385062a80e]
 
 (1) In this Order—
 
@@ -100,81 +100,81 @@ shall take effect for each case on the date specified in relation to that case i
 
 ## PART 2 — SOCIAL SECURITY BENEFITS AND PENSIONS
 
-### 3. Rates or amounts of certain benefits under the Contributions and Benefits Act[^key-c380b1894b573c7ab572873b88f49ac3]
+### 3. Rates or amounts of certain benefits under the Contributions and Benefits Act[^c-c380b1894b573c7ab572873b88f49ac3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Rates or amounts of certain pensions or allowances under the Contributions and Benefits Act[^key-c380b1894b573c7ab572873b88f49ac3]
+### 4. Rates or amounts of certain pensions or allowances under the Contributions and Benefits Act[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Rates or amounts of certain benefits under the Pension Schemes Act[^key-c380b1894b573c7ab572873b88f49ac3]
+### 5. Rates or amounts of certain benefits under the Pension Schemes Act[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Dates on which sums specified for rates or amounts of benefit under the Contributions and Benefits Act or the Pension Schemes Act are changed by this Order[^key-c380b1894b573c7ab572873b88f49ac3]
+### 6. Dates on which sums specified for rates or amounts of benefit under the Contributions and Benefits Act or the Pension Schemes Act are changed by this Order[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Workmen’s compensation[^key-c380b1894b573c7ab572873b88f49ac3]
+### 7. Workmen’s compensation[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Earnings limits[^key-c380b1894b573c7ab572873b88f49ac3]
+### 8. Earnings limits[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Statutory sick pay[^key-c380b1894b573c7ab572873b88f49ac3]
+### 9. Statutory sick pay[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Statutory maternity pay[^key-c380b1894b573c7ab572873b88f49ac3]
+### 10. Statutory maternity pay[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Ordinary and additional statutory paternity pay and statutory adoption pay[^key-c380b1894b573c7ab572873b88f49ac3]
+### 11. Ordinary and additional statutory paternity pay and statutory adoption pay[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Graduated retirement benefit[^key-c380b1894b573c7ab572873b88f49ac3]
+### 12. Graduated retirement benefit[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Disability living allowance[^key-c380b1894b573c7ab572873b88f49ac3]
+### 13. Disability living allowance[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Age addition to long-term incapacity benefit[^key-c380b1894b573c7ab572873b88f49ac3]
+### 14. Age addition to long-term incapacity benefit[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Transitional invalidity allowance in long-term incapacity benefit cases[^key-c380b1894b573c7ab572873b88f49ac3]
+### 15. Transitional invalidity allowance in long-term incapacity benefit cases[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Bereavement benefits[^key-c380b1894b573c7ab572873b88f49ac3]
+### 16. Bereavement benefits[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — INCOME SUPPORT AND HOUSING BENEFIT
 
-### 17. Applicable amounts for income support[^key-c380b1894b573c7ab572873b88f49ac3]
+### 17. Applicable amounts for income support[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Income support transitional protection[^key-c380b1894b573c7ab572873b88f49ac3]
+### 18. Income support transitional protection[^c-c380b1894b573c7ab572873b88f49ac3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Relevant sum for income support[^key-c380b1894b573c7ab572873b88f49ac3]
+### 19. Relevant sum for income support[^c-c380b1894b573c7ab572873b88f49ac3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Housing benefit[^key-9b137d6cf7841b4644fddec125b09a01][^key-d96bc8789de5204d4fa2aa07a54d95ad][^key-9b137d6cf7841b4644fddec125b09a01][^key-d96bc8789de5204d4fa2aa07a54d95ad]
+### 20. Housing benefit[^c-9b137d6cf7841b4644fddec125b09a01][^c-d96bc8789de5204d4fa2aa07a54d95ad][^c-9b137d6cf7841b4644fddec125b09a01][^c-d96bc8789de5204d4fa2aa07a54d95ad]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Housing Benefit Regulations shall be the sums set out in this Article and Schedules 5 and 6 to this Order; and for this purpose a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the Housing Benefit Regulations bearing that number.
 
@@ -184,91 +184,91 @@ shall take effect for each case on the date specified in relation to that case i
 
 - (a) in paragraph (1) for “£60∙60”, “£8∙60”, “£9∙40” and “£2∙85” substitute “£73∙85”, “£9∙90”, “£11∙45” and “£3∙30”, respectively; and
 - (b) in paragraph (2)—
-  - (i)[^key-ca06fd3f2d871fdd16c073ed93a3a44e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-ca06fd3f2d871fdd16c073ed93a3a44e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in sub-paragraph (b) for “£122∙00”, “£180∙00” and “£21∙55” substitute “£124∙00”, “£183∙00” and “£26∙25” respectively,
   - (iii) in sub-paragraph (c) for “£180∙00”, “£234∙00” and “£29∙60” substitute “£183∙00”, “£238∙00” and “£36∙10” respectively,
   - (iv) in sub-paragraph (d) for “£234∙00”, “£310∙00” and “£48∙45” substitute “£238∙00”, “£316∙00” and “£59∙05” respectively,
-  - (v)[^key-ca06fd3f2d871fdd16c073ed93a3a44e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-ca06fd3f2d871fdd16c073ed93a3a44e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) in sub-paragraph (f) for “£180∙00” substitute “£183∙00”,
   - (vii) in sub-paragraph (g) for “£180∙00”, “£310∙00” and “£5∙70” substitute “£183∙00”, “£316∙00” and “£6∙55” respectively, and
   - (viii) in sub-paragraph (h) for “£310∙00”, “£387∙00” and “£7∙20” substitute “£316∙00”, “£394∙00” and “£8∙25” respectively.
 
-(4)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Housing benefit for certain persons over the qualifying age for state pension credit[^key-8245561d009c86999478b02729e4102a][^key-b8e8b45f08ad4aff12c8e58db6a28df8][^key-8245561d009c86999478b02729e4102a][^key-b8e8b45f08ad4aff12c8e58db6a28df8]
+### 21. Housing benefit for certain persons over the qualifying age for state pension credit[^c-8245561d009c86999478b02729e4102a][^c-b8e8b45f08ad4aff12c8e58db6a28df8][^c-8245561d009c86999478b02729e4102a][^c-b8e8b45f08ad4aff12c8e58db6a28df8]
 
 (1) The sums relevant to the calculation of an applicable amount as specified in the Housing Benefit (SPC) Regulations shall be the sums set out in this Article and Schedules 7 and 8 to this Order; and for this purpose a reference in this Article to a numbered regulation or Schedule is a reference to the regulation of, or Schedule to, the Housing Benefit (SPC) Regulations bearing that number.
 
-(2)[^key-a260c376ce6dc907600253ad3e420df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a260c376ce6dc907600253ad3e420df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 53[^f00053] (non-dependant deductions)—
 
 - (a) in paragraph (1) for “£60∙60”, “£8∙60”, “£9∙40” and “£2∙85” substitute “£73∙85”, “£9∙90”, “£11∙45” and “£3∙30” respectively; and
 - (b) in paragraph (2)—
-  - (i)[^key-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (v)[^key-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-f51fd5cb7ceda7d4109d92a077f8a44a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) in sub-paragraph (f) for “£180∙00” substitute “£183∙00”,
   - (vii) in sub-paragraph (g) for “£180∙00”, “£310∙00” and “£5∙70” substitute “£183∙00”, “£316∙00” and “£6∙55” respectively, and
   - (viii) in sub-paragraph (h) for “£310∙00”, “£387∙00” and “£7∙20” substitute “£316∙00”, “£394∙00” and “£8∙25” respectively.
 
-(4)[^key-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-71ff39acb44f44ad7bda698df1303b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — JOBSEEKER’S ALLOWANCE
 
-### 22. Age-related amounts of contribution-based jobseeker’s allowance[^key-538c5ecef46fdc4564755aae568318ab]
+### 22. Age-related amounts of contribution-based jobseeker’s allowance[^c-538c5ecef46fdc4564755aae568318ab]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Applicable amounts for jobseeker’s allowance[^key-538c5ecef46fdc4564755aae568318ab]
+### 23. Applicable amounts for jobseeker’s allowance[^c-538c5ecef46fdc4564755aae568318ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Prescribed sum for jobseeker’s allowance[^key-538c5ecef46fdc4564755aae568318ab]
+### 24. Prescribed sum for jobseeker’s allowance[^c-538c5ecef46fdc4564755aae568318ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — STATE PENSION CREDIT
 
-### 25. State pension credit[^key-538c5ecef46fdc4564755aae568318ab]
+### 25. State pension credit[^c-538c5ecef46fdc4564755aae568318ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — EMPLOYMENT AND SUPPORT ALLOWANCE
 
-### 26. Applicable amounts for employment and support allowance[^key-538c5ecef46fdc4564755aae568318ab]
+### 26. Applicable amounts for employment and support allowance[^c-538c5ecef46fdc4564755aae568318ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 7 — REVOCATION
 
-### 27. Revocation[^key-538c5ecef46fdc4564755aae568318ab]
+### 27. Revocation[^c-538c5ecef46fdc4564755aae568318ab]
 
 **No longer in force.**
 
@@ -282,7 +282,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — Provisions of Schedule 4 to the Contributions and Benefits Act as amended by this Order[^key-613398a26a54823df39e24f3f9de6aad][^key-8620a1dc64767c837e9a58d48aa0d4ef][^key-613398a26a54823df39e24f3f9de6aad][^key-8620a1dc64767c837e9a58d48aa0d4ef]
+## SCHEDULE 1 — Provisions of Schedule 4 to the Contributions and Benefits Act as amended by this Order[^c-613398a26a54823df39e24f3f9de6aad][^c-8620a1dc64767c837e9a58d48aa0d4ef][^c-613398a26a54823df39e24f3f9de6aad][^c-8620a1dc64767c837e9a58d48aa0d4ef]
 
 Article 3(1)
 
@@ -392,7 +392,7 @@ Article 3(1)
 >
 > [^f00080]
 
-## SCHEDULE 2 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^key-300bf248bf8cf091f5b6cd26e0611923][^key-300bf248bf8cf091f5b6cd26e0611923]
+## SCHEDULE 2 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^c-300bf248bf8cf091f5b6cd26e0611923][^c-300bf248bf8cf091f5b6cd26e0611923]
 
 Article 17(3)
 
@@ -444,7 +444,7 @@ Article 17(3)
 > </tbody>
 > </table>
 
-## SCHEDULE 3 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^key-520ac2e85c895d97c3381261b596de54][^key-520ac2e85c895d97c3381261b596de54]
+## SCHEDULE 3 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^c-520ac2e85c895d97c3381261b596de54][^c-520ac2e85c895d97c3381261b596de54]
 
 Article 17(5)
 
@@ -467,7 +467,7 @@ Article 17(5)
 > | (7) [^f00087] Carer premium. | (7) £32∙60 in respect of each person who satisfies the condition specified in paragraph 14ZA. |
 > | (8) [^f00088] Enhanced disability premium where the conditions in paragraph 13A are satisfied. | (8)<br>- (a) £22∙89 in respect of each child or young person in respect of whom the conditions specified in paragraph 13A are satisfied;<br>- (b) £14∙80 in respect of each person who is neither—<br>  - (i) a child or young person, nor<br>  - (ii) a member of a couple or a polygamous marriage,<br><br>  in respect of whom the conditions specified in paragraph 13A are satisfied;<br>- (c) £21∙30 where the claimant is a member of a couple or a polygamous marriage and the conditions specified in paragraph 13A are satisfied in respect of a member of that couple or polygamous marriage. |
 
-## SCHEDULE 4 — Applicable amounts specified in the Income Support Regulations[^key-a8e42665e94f14a2518cdb601b99483a][^key-a8e42665e94f14a2518cdb601b99483a]
+## SCHEDULE 4 — Applicable amounts specified in the Income Support Regulations[^c-a8e42665e94f14a2518cdb601b99483a][^c-a8e42665e94f14a2518cdb601b99483a]
 
 Article 17(7)
 
@@ -496,7 +496,7 @@ Article 17(7)
 
 [^f00089][^f00090][^f00091][^f00092][^f00093][^f00094][^f00095]
 
-## SCHEDULE 5 — Part I of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^key-d4591a38618c815bbb020164f7c386cd][^key-10ebd9fe6bf516d3a707c328f56f275c][^key-d4591a38618c815bbb020164f7c386cd][^key-10ebd9fe6bf516d3a707c328f56f275c]
+## SCHEDULE 5 — Part I of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^c-d4591a38618c815bbb020164f7c386cd][^c-10ebd9fe6bf516d3a707c328f56f275c][^c-d4591a38618c815bbb020164f7c386cd][^c-10ebd9fe6bf516d3a707c328f56f275c]
 
 Article 20(5)
 
@@ -541,7 +541,7 @@ Article 20(5)
 > </tbody>
 > </table>
 
-## SCHEDULE 6 — Part IV of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^key-9010dcd78443220b273523a7d7daf2fd][^key-8e040abbc6f2ac0efb347af150a83e5f][^key-9010dcd78443220b273523a7d7daf2fd][^key-8e040abbc6f2ac0efb347af150a83e5f]
+## SCHEDULE 6 — Part IV of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^c-9010dcd78443220b273523a7d7daf2fd][^c-8e040abbc6f2ac0efb347af150a83e5f][^c-9010dcd78443220b273523a7d7daf2fd][^c-8e040abbc6f2ac0efb347af150a83e5f]
 
 Article 20(7)
 
@@ -561,7 +561,7 @@ Article 20(7)
 > | (8) Carer premium. | (8) £32∙60 in respect of each person who satisfies the condition specified in paragraph 17. |
 > | (9) [^f00097] Enhanced disability premium. | (9)<br>- (a) £22∙89 in respect of each child or young person in respect of whom the conditions specified in paragraph 15 are satisfied;<br>- (b) £14∙80 in respect of each person who is neither—<br>  - (i) a child or young person, nor<br>  - (ii) a member of a couple or a polygamous marriage,<br><br>  in respect of whom the conditions specified in paragraph 15 are satisfied;<br>- (c) £21∙30 where the claimant is a member of a couple or a polygamous marriage and the conditions specified in paragraph 15 are satisfied in respect of a member of that couple or polygamous marriage. |
 
-## SCHEDULE 7 — Part I of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^key-d857533697e5a74d8b17062c89319a57][^key-ccc37f29803cbba3383026b18d3edb01][^key-d857533697e5a74d8b17062c89319a57][^key-ccc37f29803cbba3383026b18d3edb01]
+## SCHEDULE 7 — Part I of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^c-d857533697e5a74d8b17062c89319a57][^c-ccc37f29803cbba3383026b18d3edb01][^c-d857533697e5a74d8b17062c89319a57][^c-ccc37f29803cbba3383026b18d3edb01]
 
 Article 21(5)
 
@@ -604,7 +604,7 @@ Article 21(5)
 > </tbody>
 > </table>
 
-## SCHEDULE 8 — Part IV of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^key-0e36382f252d6f71593fa0d967a10fb2][^key-3622be6d550b9dda77c29109356f9685][^key-0e36382f252d6f71593fa0d967a10fb2][^key-3622be6d550b9dda77c29109356f9685]
+## SCHEDULE 8 — Part IV of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^c-0e36382f252d6f71593fa0d967a10fb2][^c-3622be6d550b9dda77c29109356f9685][^c-0e36382f252d6f71593fa0d967a10fb2][^c-3622be6d550b9dda77c29109356f9685]
 
 Article 21(7)
 
@@ -621,7 +621,7 @@ Article 21(7)
 > | (3) Disabled child premium. | (3) £56∙63 in respect of each child or young person in respect of whom the condition specified in paragraph 8 is satisfied. |
 > | (4) Carer premium. | (4) £32∙60 in respect of each person who satisfies the condition specified in paragraph 9. |
 
-## SCHEDULE 9 — Part I of Schedule 1 to the Jobseeker’s Allowance Regulations as amended by this Order[^key-7c779b67048b04ab3d3df88082a6bab7][^key-7c779b67048b04ab3d3df88082a6bab7]
+## SCHEDULE 9 — Part I of Schedule 1 to the Jobseeker’s Allowance Regulations as amended by this Order[^c-7c779b67048b04ab3d3df88082a6bab7][^c-7c779b67048b04ab3d3df88082a6bab7]
 
 Article 23(3)
 
@@ -672,7 +672,7 @@ Article 23(3)
 > </tbody>
 > </table>
 
-## SCHEDULE 10 — Part IV of Schedule 1 to the Jobseeker’s Allowance Regulations as amended by this Order[^key-3402a83d608cbeee38813a8e7cd77773][^key-3402a83d608cbeee38813a8e7cd77773]
+## SCHEDULE 10 — Part IV of Schedule 1 to the Jobseeker’s Allowance Regulations as amended by this Order[^c-3402a83d608cbeee38813a8e7cd77773][^c-3402a83d608cbeee38813a8e7cd77773]
 
 Article 23(5)
 
@@ -700,7 +700,7 @@ Article 23(5)
 > | (8) Carer premium. | (8) £32∙60 in respect of each person who satisfied the condition specified in paragraph 17. |
 > | (9) [^f00103] Enhanced disability premium where the conditions in paragraph 15A are satisfied. | (9)<br>- (a) £22∙89 in respect of each child or young person in respect of whom the conditions specified in paragraph 15A are satisfied;<br>- (b) £14∙80 in respect of each person who is neither—<br>  - (i) a child or young person, nor<br>  - (ii) a member of a couple or a polygamous marriage,<br><br>  in respect of whom the conditions specified in paragraph 15A are satisfied;<br>- (c) £21∙30 where the claimant is a member of a couple or a polygamous marriage and the conditions specified in paragraph 15A are satisfied in respect of a member of that couple or polygamous marriage. |
 
-## SCHEDULE 11 — Part IVB of Schedule 1 to the Jobseeker’s Allowance Regulations as amended by this Order[^key-8a416c8d33d31d386291e2c9a7fe8c51][^key-8a416c8d33d31d386291e2c9a7fe8c51]
+## SCHEDULE 11 — Part IVB of Schedule 1 to the Jobseeker’s Allowance Regulations as amended by this Order[^c-8a416c8d33d31d386291e2c9a7fe8c51][^c-8a416c8d33d31d386291e2c9a7fe8c51]
 
 Article 23(6)
 
@@ -717,7 +717,7 @@ Article 23(6)
 > | (5) Carer premium. | (5) £32∙60 in respect of each person who satisfied the condition specified in paragraph 20J. |
 > | (6) Enhanced disability premium where the conditions in paragraph 20IA are satisfied. | (6) £21∙30 where the conditions specified in paragraph 20IA are satisfied in respect of a member of a joint-claim couple. |
 
-## SCHEDULE 12 — Applicable amounts specified in the Jobseeker’s Allowance Regulations[^key-01fc641d40c02a26e3ffc7d4d887ab5c][^key-01fc641d40c02a26e3ffc7d4d887ab5c]
+## SCHEDULE 12 — Applicable amounts specified in the Jobseeker’s Allowance Regulations[^c-01fc641d40c02a26e3ffc7d4d887ab5c][^c-01fc641d40c02a26e3ffc7d4d887ab5c]
 
 Article 23(8)
 
@@ -745,7 +745,7 @@ Article 23(8)
 
 [^f00105][^f00106][^f00107][^f00108][^f00109][^f00110][^f00111]
 
-## SCHEDULE 13 — Other amounts specified in the State Pension Credit Regulations[^key-6514f305264a30dd38455ef08acc8617][^key-6514f305264a30dd38455ef08acc8617]
+## SCHEDULE 13 — Other amounts specified in the State Pension Credit Regulations[^c-6514f305264a30dd38455ef08acc8617][^c-6514f305264a30dd38455ef08acc8617]
 
 Article 25(6)
 
@@ -769,7 +769,7 @@ Article 25(6)
 
 [^f00112][^f00113][^f00114]
 
-## SCHEDULE 14 — Part 1 of Schedule 4 to the Employment and Support Allowance Regulations as amended by this Order[^key-cf7eeccc8b1b8433adbc7171af85ca45][^key-cf7eeccc8b1b8433adbc7171af85ca45]
+## SCHEDULE 14 — Part 1 of Schedule 4 to the Employment and Support Allowance Regulations as amended by this Order[^c-cf7eeccc8b1b8433adbc7171af85ca45][^c-cf7eeccc8b1b8433adbc7171af85ca45]
 
 Article 26(2)
 
@@ -804,7 +804,7 @@ Article 26(2)
 > </tbody>
 > </table>
 
-## SCHEDULE 15 — Part 3 of Schedule 4 to the Employment and Support Allowance Regulations as amended by this Order[^key-9bc25125ee71ba2b08b2a9662add9d93][^key-9bc25125ee71ba2b08b2a9662add9d93]
+## SCHEDULE 15 — Part 3 of Schedule 4 to the Employment and Support Allowance Regulations as amended by this Order[^c-9bc25125ee71ba2b08b2a9662add9d93][^c-9bc25125ee71ba2b08b2a9662add9d93]
 
 Article 26(3)
 
@@ -829,7 +829,7 @@ Article 26(3)
 > | (3) Carer Premium | (3) £32∙60 in respect of each person who satisfies the condition specified in paragraph 8(1). |
 > | (4) Enhanced disability premium where the condition in paragraph 7 is satisfied. | (4)<br>- (a) £14∙80 in respect of each person who is neither—<br>  - (i) a child or young person, nor<br>  - (ii) a member of a couple or a polygamous marriage,<br><br>  in respect of whom the condition specified in paragraph 7 is satisfied;<br>- (b) £21∙30 where the claimant is a member of a couple or a polygamous marriage and the condition specified in paragraph 7 is satisfied in respect of a member of that couple or polygamous marriage. |
 
-## SCHEDULE 16 — Applicable amounts specified in the Employment and Support Allowance Regulations[^key-8ae032b90a6fa9980dff703c17cfe353][^key-8ae032b90a6fa9980dff703c17cfe353]
+## SCHEDULE 16 — Applicable amounts specified in the Employment and Support Allowance Regulations[^c-8ae032b90a6fa9980dff703c17cfe353][^c-8ae032b90a6fa9980dff703c17cfe353]
 
 Article 26(6)
 
@@ -928,11 +928,11 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-da06ee560c917c23d0d072f05dcdf71f]: Commencement: Art. 1 in operation at 1.4.2012, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/a)
+[^c-da06ee560c917c23d0d072f05dcdf71f]: Commencement: Art. 1 in operation at 1.4.2012, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/a)
 
 [^f00005]: Footnote: Section 35A was inserted by Article 50(3) of the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147) and subsection (1) was substituted by section 4(1)(a) of the [Social Security Act (Northern Ireland) 2002 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2002/10)
 
-[^key-e520bc5fc2545db232b88f385062a80e]: Commencement: Art. 2 in operation at 1.4.2012, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/a)
+[^c-e520bc5fc2545db232b88f385062a80e]: Commencement: Art. 2 in operation at 1.4.2012, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/a)
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -954,35 +954,35 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00015]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c380b1894b573c7ab572873b88f49ac3]: Textual amendment: [Arts. 3-19](https://www.legislation.gov.uk/nisr/2012/116/article/3) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-c380b1894b573c7ab572873b88f49ac3]: Textual amendment: [Arts. 3-19](https://www.legislation.gov.uk/nisr/2012/116/article/3) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
-[^key-9b137d6cf7841b4644fddec125b09a01]: Commencement: Art. 20 in operation at 1.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-9b137d6cf7841b4644fddec125b09a01]: Commencement: Art. 20 in operation at 1.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-d96bc8789de5204d4fa2aa07a54d95ad]: Commencement: Art. 20 in operation at 2.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-d96bc8789de5204d4fa2aa07a54d95ad]: Commencement: Art. 20 in operation at 2.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
 [^f00047]: Footnote: Regulation 72(1) and (2) was amended by Article 20(3) of [S.R. 2011 No. 119](https://www.legislation.gov.uk/nisr/2011/119)
 
-[^key-ca06fd3f2d871fdd16c073ed93a3a44e]: Textual amendment: [Art. 20(3)(b)(i)](https://www.legislation.gov.uk/nisr/2012/116/article/20/3/b/i)[(v)](https://www.legislation.gov.uk/nisr/2012/116/article/20/3/b/v) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-ca06fd3f2d871fdd16c073ed93a3a44e]: Textual amendment: [Art. 20(3)(b)(i)](https://www.legislation.gov.uk/nisr/2012/116/article/20/3/b/i)[(v)](https://www.legislation.gov.uk/nisr/2012/116/article/20/3/b/v) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
-[^key-f27accfd82dd7d9c4aa5dcb6f19bc2f8]: Textual amendment: [Art. 20(4)-(10)](https://www.legislation.gov.uk/nisr/2012/116/article/20/4) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-f27accfd82dd7d9c4aa5dcb6f19bc2f8]: Textual amendment: [Art. 20(4)-(10)](https://www.legislation.gov.uk/nisr/2012/116/article/20/4) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
-[^key-8245561d009c86999478b02729e4102a]: Commencement: Art. 21 in operation at 1.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-8245561d009c86999478b02729e4102a]: Commencement: Art. 21 in operation at 1.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-b8e8b45f08ad4aff12c8e58db6a28df8]: Commencement: Art. 21 in operation at 2.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-b8e8b45f08ad4aff12c8e58db6a28df8]: Commencement: Art. 21 in operation at 2.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-a260c376ce6dc907600253ad3e420df1]: Textual amendment: [Art. 21(2)](https://www.legislation.gov.uk/nisr/2012/116/article/21/2) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-a260c376ce6dc907600253ad3e420df1]: Textual amendment: [Art. 21(2)](https://www.legislation.gov.uk/nisr/2012/116/article/21/2) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
 [^f00053]: Footnote: Regulation 53(1) and (2) was amended by Article 21(3) of [S.R. 2011 No. 119](https://www.legislation.gov.uk/nisr/2011/119)
 
-[^key-f51fd5cb7ceda7d4109d92a077f8a44a]: Textual amendment: [Art. 21(3)(b)(i)-(v)](https://www.legislation.gov.uk/nisr/2012/116/article/21/3/b/i) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-f51fd5cb7ceda7d4109d92a077f8a44a]: Textual amendment: [Art. 21(3)(b)(i)-(v)](https://www.legislation.gov.uk/nisr/2012/116/article/21/3/b/i) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
-[^key-71ff39acb44f44ad7bda698df1303b14]: Textual amendment: [Art. 21(4)-(9)](https://www.legislation.gov.uk/nisr/2012/116/article/21/4) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-71ff39acb44f44ad7bda698df1303b14]: Textual amendment: [Art. 21(4)-(9)](https://www.legislation.gov.uk/nisr/2012/116/article/21/4) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
-[^key-538c5ecef46fdc4564755aae568318ab]: Textual amendment: [Arts. 22-27](https://www.legislation.gov.uk/nisr/2012/116/article/22) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
+[^c-538c5ecef46fdc4564755aae568318ab]: Textual amendment: [Arts. 22-27](https://www.legislation.gov.uk/nisr/2012/116/article/22) revoked (11.4.2013) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2013 (revoked) 2013 (S.R. 2013/69)](https://www.legislation.gov.uk/nisr/2013/69), [arts. 1(1)(h)](https://www.legislation.gov.uk/nisr/2013/69/article/1/1/h), [26](https://www.legislation.gov.uk/nisr/2013/69/article/26)
 
-[^key-613398a26a54823df39e24f3f9de6aad]: Commencement: Sch. 1 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/b)(i)
+[^c-613398a26a54823df39e24f3f9de6aad]: Commencement: Sch. 1 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/b)(i)
 
-[^key-8620a1dc64767c837e9a58d48aa0d4ef]: Commencement: Sch. 1 in operation at 9.4.2012 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/b)(ii)
+[^c-8620a1dc64767c837e9a58d48aa0d4ef]: Commencement: Sch. 1 in operation at 9.4.2012 in so far as not already in force, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/b)(ii)
 
 [^f00073]: Footnote: Paragraphs 2 and 2A were substituted for paragraph 2 by Article 4(2) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
@@ -1000,7 +1000,7 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00080]: Footnote: Paragraphs 1, 4 and 12 were amended by paragraph 41 of Schedule 1 to the Child Benefit Act 2005
 
-[^key-300bf248bf8cf091f5b6cd26e0611923]: Commencement: Sch. 2 comes into force in accordance with art. 1(1)(i)
+[^c-300bf248bf8cf091f5b6cd26e0611923]: Commencement: Sch. 2 comes into force in accordance with art. 1(1)(i)
 
 [^f00081]: Footnote: Sub-paragraphs (1) and (2) were substituted by regulation 2 of [S.R. 1990 No. 213](https://www.legislation.gov.uk/nisr/1990/213) and amended by paragraph 2 of Schedule 2 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and regulation 2(7)(a) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154)
 
@@ -1008,7 +1008,7 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00083]: Footnote: Sub-paragraph (1) was amended by regulation 18 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 2 of [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476), regulation 2(1)(b) of [S.R. 1999 No. 382](https://www.legislation.gov.uk/nisr/1999/382) and regulation 2(8) of [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128)
 
-[^key-520ac2e85c895d97c3381261b596de54]: Commencement: Sch. 3 comes into force in accordance with art. 1(1)(i)
+[^c-520ac2e85c895d97c3381261b596de54]: Commencement: Sch. 3 comes into force in accordance with art. 1(1)(i)
 
 [^f00084]: Footnote: Sub-paragraphs (2), (2A) and (3) were substituted by regulation 24(5)(g) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
@@ -1020,7 +1020,7 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00088]: Footnote: Sub-paragraph (8) was added by regulation 2(c)(iii) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367)
 
-[^key-a8e42665e94f14a2518cdb601b99483a]: Commencement: Sch. 4 comes into force in accordance with art. 1(1)(i)
+[^c-a8e42665e94f14a2518cdb601b99483a]: Commencement: Sch. 4 comes into force in accordance with art. 1(1)(i)
 
 [^f00089]: Footnote: Regulation 22A was inserted by regulation 13 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and paragraph (1) was amended by Article 9(2)(a) of [S.R. 1999 No. 371 (C. 28)](https://www.legislation.gov.uk/nisr/1999/371), regulation 4(2)(a) of [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4), paragraph 7 of Part I of the Schedule to [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and regulation 4(4) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
 
@@ -1036,33 +1036,33 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00095]: Footnote: Paragraph 15 was substituted by regulation 5(10)(b) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71)
 
-[^key-d4591a38618c815bbb020164f7c386cd]: Commencement: Sch. 5 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-d4591a38618c815bbb020164f7c386cd]: Commencement: Sch. 5 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-10ebd9fe6bf516d3a707c328f56f275c]: Commencement: Sch. 5 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-10ebd9fe6bf516d3a707c328f56f275c]: Commencement: Sch. 5 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
 [^f00096]: Footnote: Sub-paragraphs (1) to (3) were substituted by regulation 3(17)(a) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
 
-[^key-9010dcd78443220b273523a7d7daf2fd]: Commencement: Sch. 6 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-9010dcd78443220b273523a7d7daf2fd]: Commencement: Sch. 6 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-8e040abbc6f2ac0efb347af150a83e5f]: Commencement: Sch. 6 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-8e040abbc6f2ac0efb347af150a83e5f]: Commencement: Sch. 6 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
 [^f00097]: Footnote: Sub-paragraph (9) was amended by regulation 4(7)(b) of [S.R. 2011 No. 136](https://www.legislation.gov.uk/nisr/2011/136)
 
-[^key-d857533697e5a74d8b17062c89319a57]: Commencement: Sch. 7 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-d857533697e5a74d8b17062c89319a57]: Commencement: Sch. 7 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-ccc37f29803cbba3383026b18d3edb01]: Commencement: Sch. 7 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-ccc37f29803cbba3383026b18d3edb01]: Commencement: Sch. 7 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-0e36382f252d6f71593fa0d967a10fb2]: Commencement: Sch. 8 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-0e36382f252d6f71593fa0d967a10fb2]: Commencement: Sch. 8 in operation at 1.4.2012 for specified purposes, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-3622be6d550b9dda77c29109356f9685]: Commencement: Sch. 8 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
+[^c-3622be6d550b9dda77c29109356f9685]: Commencement: Sch. 8 in operation at 2.4.2012 in so far as not already in force, see [art. 1(1)(j)](https://www.legislation.gov.uk/nisr/2012/116/article/1/1/j)
 
-[^key-7c779b67048b04ab3d3df88082a6bab7]: Commencement: Sch. 9 comes into force in accordance with art. 1(1)(k)(ii)
+[^c-7c779b67048b04ab3d3df88082a6bab7]: Commencement: Sch. 9 comes into force in accordance with art. 1(1)(k)(ii)
 
 [^f00098]: Footnote: Paragraph 1 was amended by regulation 16 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356), paragraph 53(2) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), paragraph 23(11)(a) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), regulation 3(8)(a) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154), regulation 4(13)(a) and (b) of [S.R. 2008 No. 112](https://www.legislation.gov.uk/nisr/2008/112), regulation 19(24)(a) to (d) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and regulation 3 of [S.R. 2009 No. 261](https://www.legislation.gov.uk/nisr/2009/261)
 
 [^f00099]: Footnote: Sub-paragraph (1) was amended by regulation 2 of [S.R. 1996 No. 476](https://www.legislation.gov.uk/nisr/1996/476), regulation 2(1)(b) of [S.R. 1999 No. 382](https://www.legislation.gov.uk/nisr/1999/382) and regulation 4(10) of [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128)
 
-[^key-3402a83d608cbeee38813a8e7cd77773]: Commencement: Sch. 10 comes into force in accordance with art. 1(1)(k)(ii
+[^c-3402a83d608cbeee38813a8e7cd77773]: Commencement: Sch. 10 comes into force in accordance with art. 1(1)(k)(ii
 
 [^f00100]: Footnote: Sub-paragraph (2) was amended by regulation 5(5)(e) of [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103)
 
@@ -1072,11 +1072,11 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00103]: Footnote: Sub-paragraph (9) was added by regulation 4(c)(iii) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367)
 
-[^key-8a416c8d33d31d386291e2c9a7fe8c51]: Commencement: Sch. 11 comes into force in accordance with art. 1(1)(k)(ii)
+[^c-8a416c8d33d31d386291e2c9a7fe8c51]: Commencement: Sch. 11 comes into force in accordance with art. 1(1)(k)(ii)
 
 [^f00104]: Footnote: Part IVB was inserted by paragraph 53(4) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and amended by regulation 4(c)(vi) of [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367), regulation 2(7) of [S.R. 2001 No. 120](https://www.legislation.gov.uk/nisr/2001/120), paragraph 1 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), regulation 3(8)(l) of [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154) and regulation 5(5)(j) of [S.R. 2010 No. 103](https://www.legislation.gov.uk/nisr/2010/103)
 
-[^key-01fc641d40c02a26e3ffc7d4d887ab5c]: Commencement: Sch. 12 comes into force in accordance with art. 1(1)(k)(ii)
+[^c-01fc641d40c02a26e3ffc7d4d887ab5c]: Commencement: Sch. 12 comes into force in accordance with art. 1(1)(k)(ii)
 
 [^f00105]: Footnote: Regulation 145(1) was amended by regulation 13(a) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356) and regulation 28 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
@@ -1092,7 +1092,7 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00111]: Footnote: Schedule 4A was inserted by paragraph 57 of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-6514f305264a30dd38455ef08acc8617]: Commencement: Sch. 13 comes into force in accordance with art. 1(1)(l)
+[^c-6514f305264a30dd38455ef08acc8617]: Commencement: Sch. 13 comes into force in accordance with art. 1(1)(l)
 
 [^f00112]: Footnote: Paragraph 8(2) is modified in relation to certain persons so that it applies as if the reference to £100,000 were to £200,000 (s*ee* [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503))
 
@@ -1100,13 +1100,13 @@ Article 27 revokes the Social Security Benefits Up-rating Order (Northern Irelan
 
 [^f00114]: Footnote: Paragraph 2 was substituted by regulation 7(5) of [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580) and amended by regulation 5(5) of [S.R. 2006 No. 97](https://www.legislation.gov.uk/nisr/2006/97)
 
-[^key-cf7eeccc8b1b8433adbc7171af85ca45]: Commencement: Sch. 14 comes into force in accordance with art. 1(1)(m)
+[^c-cf7eeccc8b1b8433adbc7171af85ca45]: Commencement: Sch. 14 comes into force in accordance with art. 1(1)(m)
 
 [^f00115]: Footnote: Paragraph 1 was amended by regulation 3(29) of [S.R. 2008 No. 413](https://www.legislation.gov.uk/nisr/2008/413), regulation 8(15) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338) and regulation 5(5)(a) of [S.R. 2011 No. 368](https://www.legislation.gov.uk/nisr/2011/368)
 
-[^key-9bc25125ee71ba2b08b2a9662add9d93]: Commencement: Sch. 15 comes into force in accordance with art. 1(1)(m)
+[^c-9bc25125ee71ba2b08b2a9662add9d93]: Commencement: Sch. 15 comes into force in accordance with art. 1(1)(m)
 
-[^key-8ae032b90a6fa9980dff703c17cfe353]: Commencement: Sch. 16 comes into force in accordance with art. 1(1)(m)
+[^c-8ae032b90a6fa9980dff703c17cfe353]: Commencement: Sch. 16 comes into force in accordance with art. 1(1)(m)
 
 [^f00116]: Footnote: Paragraph 12 is modified in relation to certain persons so that it applies as if the reference to £100,000 were to £200,000 (s*ee* [S.R. 2008 No. 503](https://www.legislation.gov.uk/nisr/2008/503))
 

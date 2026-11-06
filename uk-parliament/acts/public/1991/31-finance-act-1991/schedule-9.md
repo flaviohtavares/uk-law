@@ -24,13 +24,13 @@ Section 50.
 
 ### Tax exempt life or endowment business
 
-**1.**[^key-a5194ef0957bac3d77eb91cbc487108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a5194ef0957bac3d77eb91cbc487108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-703ddd28dac0afa60ea8ed4dccef801b][^key-a5194ef0957bac3d77eb91cbc487108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-703ddd28dac0afa60ea8ed4dccef801b][^c-a5194ef0957bac3d77eb91cbc487108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Maximum benefits payable to members
 
-**3.**[^key-a5194ef0957bac3d77eb91cbc487108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a5194ef0957bac3d77eb91cbc487108c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Qualifying policies
 
@@ -58,6 +58,6 @@ Schedule 15 to that Act, in its application to the policy, shall have effect, in
 
 ## Annotations
 
-[^key-a5194ef0957bac3d77eb91cbc487108c]: Textual amendment: [Sch. 9 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/31/schedule/9/paragraph/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/b)
+[^c-a5194ef0957bac3d77eb91cbc487108c]: Textual amendment: [Sch. 9 paras. 1-3](https://www.legislation.gov.uk/ukpga/1991/31/schedule/9/paragraph/1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/b)
 
-[^key-703ddd28dac0afa60ea8ed4dccef801b]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1991/31/schedule/9/paragraph/2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/a)
+[^c-703ddd28dac0afa60ea8ed4dccef801b]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1991/31/schedule/9/paragraph/2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 18 para. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/18/paragraph/5/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendments to Title 2, Chapter 1[^key-15b9c7d146e9300d4541c61aef22a6f8]
+## 4. Amendments to Title 2, Chapter 1[^c-15b9c7d146e9300d4541c61aef22a6f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15b9c7d146e9300d4541c61aef22a6f8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-15b9c7d146e9300d4541c61aef22a6f8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

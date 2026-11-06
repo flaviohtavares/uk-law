@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.22A. Applications under the Mortgage Rights (Scotland) Act 2001[^key-00bc231a872990569770e2a2df13d7a8]
+## 2.22A. Applications under the Mortgage Rights (Scotland) Act 2001[^c-00bc231a872990569770e2a2df13d7a8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00bc231a872990569770e2a2df13d7a8]: Textual amendment: Rule 2.22A omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/3) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))
+[^c-00bc231a872990569770e2a2df13d7a8]: Textual amendment: Rule 2.22A omitted (30.9.2010) by virtue of [Act of Sederunt (Sheriff Court Rules) (Enforcement of Securities over Heritable Property) 2010 (S.S.I. 2010/324)](https://www.legislation.gov.uk/ssi/2010/324), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/3) (with [para. 2(12)](https://www.legislation.gov.uk/ssi/2010/324/paragraph/2/12))

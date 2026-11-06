@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — PUBLIC RIGHTS OF WAY[^key-cf54250626e45e187fe34e493ad328b8]
+## SCHEDULE 6 — PUBLIC RIGHTS OF WAY[^c-cf54250626e45e187fe34e493ad328b8]
 
 *Extent: E+W*
 
 Article 11
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-691eefe33a76d2c43d809dd425d84f00]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-691eefe33a76d2c43d809dd425d84f00]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Article 11
 | Rutland County Council | Public Right of Way – BrAW/1/1 From a start point shown as reference PRoW2A on sheet 5 of the traffic regulation measures plans – temporary road closures plans, for a distance of 460m in a generally southerly direction to the point shown as reference PRoW2B as shown on sheet 6 of the traffic regulation measures plans – temporary road closures | Closed to all traffic save for traffic under the direction of the undertaker |
 | Rutland County Council | Public Right of Way – BrAW/1/1 From a start point shown as reference PRoW3A on sheet 6 of the traffic regulation measures plans – temporary road closures plans, for a distance of 39m in a generally southerly direction to the point shown as reference PRoW3B as shown on sheet 6 of the traffic regulation measures plans – temporary road closures | Closed to all traffic save for traffic under the direction of the undertaker |
 
-### PART 2 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^key-0cb62b71d604826b7465518e757e235f]
+### PART 2 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^c-0cb62b71d604826b7465518e757e235f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -40,8 +40,8 @@ Article 11
 
 ## Annotations
 
-[^key-cf54250626e45e187fe34e493ad328b8]: Textual amendment: Word in Sch. 6 Pt. 1 heading substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-cf54250626e45e187fe34e493ad328b8]: Textual amendment: Word in Sch. 6 Pt. 1 heading substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
-[^key-691eefe33a76d2c43d809dd425d84f00]: Commencement: Sch. 6 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-691eefe33a76d2c43d809dd425d84f00]: Commencement: Sch. 6 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-0cb62b71d604826b7465518e757e235f]: Commencement: Sch. 6 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-0cb62b71d604826b7465518e757e235f]: Commencement: Sch. 6 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.202. Calls by liquidator[^key-894c1794863841df627b807919e3ce1a]
+## 4.202. Calls by liquidator[^c-894c1794863841df627b807919e3ce1a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject as follows, the powers conferred by the Act with respect to the making o
 
 ## Annotations
 
-[^key-894c1794863841df627b807919e3ce1a]: Commencement: [Rule 4.202](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.202) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-894c1794863841df627b807919e3ce1a]: Commencement: [Rule 4.202](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.202) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

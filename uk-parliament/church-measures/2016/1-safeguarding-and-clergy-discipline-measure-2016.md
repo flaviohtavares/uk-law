@@ -35,7 +35,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 ## Safeguarding children and vulnerable adults
 
-### 1. Clergy: suspension[^key-d07af7703482d4e1f1cee8a4dbb10b3c]
+### 1. Clergy: suspension[^c-d07af7703482d4e1f1cee8a4dbb10b3c]
 
 (1) In section 36 of the Clergy Discipline Measure 2003 (the title to which becomes “ Suspension of priest or deacon ”), in subsection (1), after paragraph (d) insert
 
@@ -105,7 +105,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 > | --- | --- |
 > | 7\. Proceedings on an appeal under section 36(6) or by virtue of section 37(6) of the Clergy Discipline Measure 2003 against a suspension made in reliance on section 36(1)(e) or 37(1)(e) of that Measure. | The appellant. |
 
-### 2. Churchwardens: disqualification and suspension[^key-b9eef80922528ac78789063f1ab0464f]
+### 2. Churchwardens: disqualification and suspension[^c-b9eef80922528ac78789063f1ab0464f]
 
 (1) In section 2 of the Churchwardens Measure 2001 (general disqualifications), after subsection (1) insert—
 
@@ -226,7 +226,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
   > (2) For provision about disqualification from being chosen for the office of churchwarden, see section 2 of the Churchwardens Measure 2001; and for provision about vacation of office as such on becoming disqualified under that section, see section 8 of that Measure.
 
-### 3. Parochial church council members etc: disqualification and suspension[^key-b3d86ff5b839d526ab100ca17342e840]
+### 3. Parochial church council members etc: disqualification and suspension[^c-b3d86ff5b839d526ab100ca17342e840]
 
 (1) In Part 6 of the Church Representation Rules (disqualifications etc.), in rule 46A (before which is inserted a cross-heading “Disqualification”), in paragraph (1), after sub-paragraph (a) insert—
 
@@ -347,7 +347,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (9) In that section of Appendix 1 to the Rules, in the note beginning “A person is disqualified”, for “he” substitute “ the person ”.
 
-### 4. Rules for appeals against suspensions[^key-4a0721ec1979a03d22c9f706310d62b7]
+### 4. Rules for appeals against suspensions[^c-4a0721ec1979a03d22c9f706310d62b7]
 
 (1) Rules made under section 26(1) of the Care of Churches and Ecclesiastical Jurisdiction Measure 1991 may make provision for carrying into effect—
 
@@ -355,17 +355,17 @@ A Measure passed by the General Synod of the Church of England to make provision
 - (b) Rule 46D of the Church Representation Rules (appeal against suspension of PCC member etc. in safeguarding case);
 - (c) provision made by Canon to confer a right of appeal against the suspension of a licence to exercise the office of reader or of a licence to serve as a lay worker.
 
-(2)[^key-b29c61c99fe3308dc14e310c40c41799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b29c61c99fe3308dc14e310c40c41799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b29c61c99fe3308dc14e310c40c41799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b29c61c99fe3308dc14e310c40c41799] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Guidance[^key-63f02623692db947fcf231505a1ca103]
+### 5. Guidance[^c-63f02623692db947fcf231505a1ca103]
 
-(1)[^key-626b48369292796e881c4c194174fbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-626b48369292796e881c4c194174fbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-626b48369292796e881c4c194174fbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-626b48369292796e881c4c194174fbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-626b48369292796e881c4c194174fbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-626b48369292796e881c4c194174fbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 8(1) of the Clergy Discipline Measure 2003 (acts or omissions constituting misconduct)—
 
@@ -380,7 +380,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 > (2A) The annual report referred to in paragraph (1)(b) shall include a statement as to whether the council has complied with the duty under section 5 of the Safeguarding and Clergy Discipline Measure 2016 (duty to have due regard to House of Bishops' guidance on safeguarding children and vulnerable adults).
 
-### 5A. Code of Practice[^key-ff4856514a15c4f764deb78edf67f73a]
+### 5A. Code of Practice[^c-ff4856514a15c4f764deb78edf67f73a]
 
 (1) The House of Bishops must issue, and may from time to time revise, a code of practice for relevant persons on safeguarding children and vulnerable adults.
 
@@ -446,18 +446,18 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (4) In subsection (3), “the Business Committee” means the Committee of the General Synod appointed in accordance with section 10 of the National Institutions Measure 1998.
 
-(5) A reference in this section to the code under section 5A includes a reference to a revision of the code; but subsection (1)(b) does not apply in the case of—[^key-bd25557120a44e99d99e66cc44da17b7]
+(5) A reference in this section to the code under section 5A includes a reference to a revision of the code; but subsection (1)(b) does not apply in the case of—[^c-bd25557120a44e99d99e66cc44da17b7]
 
 - (a) proposed revisions to requirements imposed by the Code on relevant persons, if the House of Bishops considers that those proposed revisions are insubstantial, or
 - (b) proposed revisions to guidance given by the Code to relevant persons on compliance with requirements imposed by the Code on them.
 
-### 6. Meaning of “child” and “vulnerable adult”[^key-1cbae9b5caee4d9337676f87743eef06]
+### 6. Meaning of “child” and “vulnerable adult”[^c-1cbae9b5caee4d9337676f87743eef06]
 
 (1) In this Measure, “**child**” means a person aged under 18.
 
 (2) In this Measure, “**vulnerable adult**” means a person aged 18 or over whose ability to protect himself or herself from violence, abuse, neglect or exploitation is significantly impaired through physical or mental disability or illness, old age, emotional fragility or distress, or otherwise; and for that purpose, the reference to being impaired is to being temporarily or indefinitely impaired.
 
-(3) The Archbishops' Council may by order amend this section so as to amend the definition of “vulnerable adult” and, in consequence of an amendment to that definition, amend any other provision of this Measure[^key-9386686d43b1f1dcfcbf38af427ef35b].
+(3) The Archbishops' Council may by order amend this section so as to amend the definition of “vulnerable adult” and, in consequence of an amendment to that definition, amend any other provision of this Measure[^c-9386686d43b1f1dcfcbf38af427ef35b].
 
 (4) An order under this section may not be made unless—
 
@@ -482,7 +482,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 ## Clergy discipline proceedings
 
-### 7. Removal of limitation period in sexual misconduct cases[^key-803c31d6dd596c56617a0a37c493d039]
+### 7. Removal of limitation period in sexual misconduct cases[^c-803c31d6dd596c56617a0a37c493d039]
 
 (1) In section 9 of the Clergy Discipline Measure 2003 (limitation period for disciplinary proceedings for misconduct), the text of which becomes subsection (1) of that section, at the end insert—
 
@@ -494,7 +494,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (2) This section applies to conduct occurring before the commencement of this section (as well as to conduct occurring afterwards).
 
-### 8. Application to make complaint out of time: power to suspend[^key-ecc6063430641a2c001e40e012fe5f84]
+### 8. Application to make complaint out of time: power to suspend[^c-ecc6063430641a2c001e40e012fe5f84]
 
 (1) After section 36 of the Clergy Discipline Measure 2003 insert—
 
@@ -578,7 +578,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (3) This section applies to conduct occurring before the commencement of this section (as well as to conduct occurring afterwards).
 
-### 9. Registrar of tribunals: delegation of functions[^key-4016524f0b329b26c4b4d15b0a297663]
+### 9. Registrar of tribunals: delegation of functions[^c-4016524f0b329b26c4b4d15b0a297663]
 
 (1) In section 5 of the Clergy Discipline Measure 2003 (registrar of tribunals), in subsection (7), after “registrar of tribunals for the other province” insert “ or, where a person has been selected under subsection (8), that person ”.
 
@@ -589,7 +589,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 > - (a) may select a person to perform the duties of the registrar in the circumstances mentioned in subsection (7), but
 > - (b) may not do so without having obtained the written approval of the president of tribunals.
 
-### 10. President of tribunals: power to remit to bishop[^key-87292b5e002570d3959089c3c51f203d]
+### 10. President of tribunals: power to remit to bishop[^c-87292b5e002570d3959089c3c51f203d]
 
 (1) In section 11 of the Clergy Discipline Measure 2003 (preliminary scrutiny of complaint), in subsection (4)—
 
@@ -633,7 +633,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 > (4) On a reconsideration following a direction under subsection (3)(b), the bishop may nonetheless decide under section 12(1)(a) to take no further action; and, if the bishop does so, this section applies accordingly.
 
-### 11. Provincial panels: reappointment of legally qualified persons[^key-99b881a654f62ab2e50e8ba5433f855e]
+### 11. Provincial panels: reappointment of legally qualified persons[^c-99b881a654f62ab2e50e8ba5433f855e]
 
 In section 21 of the Clergy Discipline Measure 2003 (provincial panels), in subsection (5)—
 
@@ -662,36 +662,36 @@ In section 21 of the Clergy Discipline Measure 2003 (provincial panels), in subs
 
 ## Annotations
 
-[^key-d07af7703482d4e1f1cee8a4dbb10b3c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2016/1/section/1) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-d07af7703482d4e1f1cee8a4dbb10b3c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2016/1/section/1) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-b9eef80922528ac78789063f1ab0464f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2016/1/section/2) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-b9eef80922528ac78789063f1ab0464f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2016/1/section/2) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-b3d86ff5b839d526ab100ca17342e840]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2016/1/section/3) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-b3d86ff5b839d526ab100ca17342e840]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2016/1/section/3) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-4a0721ec1979a03d22c9f706310d62b7]: Commencement: S. 4 in force at 16.5.2016 by [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-4a0721ec1979a03d22c9f706310d62b7]: Commencement: S. 4 in force at 16.5.2016 by [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
 
-[^key-b29c61c99fe3308dc14e310c40c41799]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/4/2)[(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/4/3) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-b29c61c99fe3308dc14e310c40c41799]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/ukcm/2016/1/section/4/2)[(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/4/3) repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-63f02623692db947fcf231505a1ca103]: Commencement: S. 5 in force at 1.10.2016 by [S.I. 2016/938](https://www.legislation.gov.uk/uksi/2016/938), [art. 2](https://www.legislation.gov.uk/uksi/2016/938/article/2)
+[^c-63f02623692db947fcf231505a1ca103]: Commencement: S. 5 in force at 1.10.2016 by [S.I. 2016/938](https://www.legislation.gov.uk/uksi/2016/938), [art. 2](https://www.legislation.gov.uk/uksi/2016/938/article/2)
 
-[^key-626b48369292796e881c4c194174fbe9]: Textual amendment: [S. 5(1)-(2A)](https://www.legislation.gov.uk/ukcm/2016/1/section/5/1) repealed (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/1), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2022/118/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2022/118/article/3/3))
+[^c-626b48369292796e881c4c194174fbe9]: Textual amendment: [S. 5(1)-(2A)](https://www.legislation.gov.uk/ukcm/2016/1/section/5/1) repealed (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/1), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2022/118/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2022/118/article/3/3))
 
-[^key-ff4856514a15c4f764deb78edf67f73a]: Textual amendment: [Ss. 5A-5C](https://www.legislation.gov.uk/ukcm/2016/1/section/5A) inserted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2021/3/section/1/1), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
+[^c-ff4856514a15c4f764deb78edf67f73a]: Textual amendment: [Ss. 5A-5C](https://www.legislation.gov.uk/ukcm/2016/1/section/5A) inserted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2021/3/section/1/1), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
 
-[^key-bd25557120a44e99d99e66cc44da17b7]: Textual amendment: [S. 5C(5)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/5C/5/a)[(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/5C/5/b) and words inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 3](https://www.legislation.gov.uk/ukcm/2024/1/section/3), [22(2)(c)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/c)
+[^c-bd25557120a44e99d99e66cc44da17b7]: Textual amendment: [S. 5C(5)(a)](https://www.legislation.gov.uk/ukcm/2016/1/section/5C/5/a)[(b)](https://www.legislation.gov.uk/ukcm/2016/1/section/5C/5/b) and words inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 3](https://www.legislation.gov.uk/ukcm/2024/1/section/3), [22(2)(c)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/c)
 
-[^key-1cbae9b5caee4d9337676f87743eef06]: Commencement: S. 6 in force at 1.10.2016 by [S.I. 2016/938](https://www.legislation.gov.uk/uksi/2016/938), [art. 2](https://www.legislation.gov.uk/uksi/2016/938/article/2)
+[^c-1cbae9b5caee4d9337676f87743eef06]: Commencement: S. 6 in force at 1.10.2016 by [S.I. 2016/938](https://www.legislation.gov.uk/uksi/2016/938), [art. 2](https://www.legislation.gov.uk/uksi/2016/938/article/2)
 
-[^key-9386686d43b1f1dcfcbf38af427ef35b]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/6/3) inserted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(2)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/2), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
+[^c-9386686d43b1f1dcfcbf38af427ef35b]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukcm/2016/1/section/6/3) inserted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(2)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/2), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
 
 [^M_F_533ab439-e0b3-46da-a02c-901cd670eb2d]: Textual amendment: Words in s. 6(6) substituted (retrospectively) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(9)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/9), [11(8)(d)](https://www.legislation.gov.uk/ukcm/2018/7/section/11/8/d), [17(2)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b)
 
-[^key-803c31d6dd596c56617a0a37c493d039]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2016/1/section/7) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-803c31d6dd596c56617a0a37c493d039]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2016/1/section/7) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-ecc6063430641a2c001e40e012fe5f84]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2016/1/section/8) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-ecc6063430641a2c001e40e012fe5f84]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2016/1/section/8) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-4016524f0b329b26c4b4d15b0a297663]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2016/1/section/9) in force at 16.5.2016 by [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-4016524f0b329b26c4b4d15b0a297663]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2016/1/section/9) in force at 16.5.2016 by [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
 
-[^key-87292b5e002570d3959089c3c51f203d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2016/1/section/10) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
+[^c-87292b5e002570d3959089c3c51f203d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2016/1/section/10) in force at 1.1.2017 by [S.I. 2016/1213](https://www.legislation.gov.uk/uksi/2016/1213), [art. 2](https://www.legislation.gov.uk/uksi/2016/1213/article/2)
 
-[^key-99b881a654f62ab2e50e8ba5433f855e]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2016/1/section/11) in force at 16.5.2016 by [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)
+[^c-99b881a654f62ab2e50e8ba5433f855e]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2016/1/section/11) in force at 16.5.2016 by [S.I. 2016/552](https://www.legislation.gov.uk/uksi/2016/552), [art. 2](https://www.legislation.gov.uk/uksi/2016/552/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Agency and liability of receiver for contracts.[^c15571141][^key-9c61b5e5c84c28d0f59b2c64be42e260]
+## 57. Agency and liability of receiver for contracts.[^c15571141][^c-9c61b5e5c84c28d0f59b2c64be42e260]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) wages or salary payable in respect of a period of holiday or absence from work through sickness or other good cause are deemed to be wages or (as the case may be) salary in respect of services rendered in that period, and
 - (b) a sum payable in lieu of holiday is deemed to be wages or (as the case may be) salary in respect of services rendered in the period by reference to which the holiday entitlement arose.
 
-(2D)[^key-32fd9d4bc0833bbe9808fc8940ff598c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-32fd9d4bc0833bbe9808fc8940ff598c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A receiver who is personally liable by virtue of subsection (2) is entitled to be indemnified out of the property in respect of which he was appointed.
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c15571141]: Modification: Ss. 55-58 applied (with modifications) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-9c61b5e5c84c28d0f59b2c64be42e260]: Modification: [Ss. 55-58](https://www.legislation.gov.uk/ukpga/1986/45/section/55) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-9c61b5e5c84c28d0f59b2c64be42e260]: Modification: [Ss. 55-58](https://www.legislation.gov.uk/ukpga/1986/45/section/55) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^c15571151]: Textual amendment: S. 57(1A) inserted (24.3.1994 with effect in relation to contracts of employment adopted on or after 15.3.1994) by [1994 c. 7](https://www.legislation.gov.uk/ukpga/1994/7), [s. 3(2)(5)](https://www.legislation.gov.uk/ukpga/1994/7/section/3/2/5)
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c15571171]: Textual amendment: S. 57(2A)-(2D) inserted (24.3.1994 with effect in relation to contracts of employment adopted on or after 15.3.1994) by [1994 c. 7](https://www.legislation.gov.uk/ukpga/1994/7), [s. 3(4)(5)](https://www.legislation.gov.uk/ukpga/1994/7/section/3/4/5)
 
-[^key-32fd9d4bc0833bbe9808fc8940ff598c]: Textual amendment: S. 57(2D) repealed (1.4.2016) by [The Public Services Reform (Insolvency) (Scotland) Order 2016 (S.S.I. 2016/141)](https://www.legislation.gov.uk/ssi/2016/141), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2016/141/article/1/2), [3](https://www.legislation.gov.uk/ssi/2016/141/article/3) (with [arts. 14](https://www.legislation.gov.uk/ssi/2016/141/article/14), [15](https://www.legislation.gov.uk/ssi/2016/141/article/15))
+[^c-32fd9d4bc0833bbe9808fc8940ff598c]: Textual amendment: S. 57(2D) repealed (1.4.2016) by [The Public Services Reform (Insolvency) (Scotland) Order 2016 (S.S.I. 2016/141)](https://www.legislation.gov.uk/ssi/2016/141), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2016/141/article/1/2), [3](https://www.legislation.gov.uk/ssi/2016/141/article/3) (with [arts. 14](https://www.legislation.gov.uk/ssi/2016/141/article/14), [15](https://www.legislation.gov.uk/ssi/2016/141/article/15))

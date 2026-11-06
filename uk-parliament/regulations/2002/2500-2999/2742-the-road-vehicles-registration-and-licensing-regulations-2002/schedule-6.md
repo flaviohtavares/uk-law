@@ -24,11 +24,11 @@ Regulations 37 and 38
 
 ### PART I — Conditions Subject to which Trade Licences are to be issued
 
-**1.**[^key-c7c624159cc487af048951304da5ba54] Where there is a change in the name, business name or business address of the holder of a trade licence, the holder must forthwith notify the change and the new name or address to the Secretary of State.
+**1.**[^c-c7c624159cc487af048951304da5ba54] Where there is a change in the name, business name or business address of the holder of a trade licence, the holder must forthwith notify the change and the new name or address to the Secretary of State.
 
 **2.** The holder of the licence shall not, and shall not permit any person to, alter, deface, mutilate or add anything to a trade plate.
 
-**3.** The holder of the licence shall not, and shall not permit any person to, exhibit on any vehicle any [^key-1d6be4d0aebe690f3a5b3583195f4545]... trade plate—
+**3.** The holder of the licence shall not, and shall not permit any person to, exhibit on any vehicle any [^c-1d6be4d0aebe690f3a5b3583195f4545]... trade plate—
 
 - (a) which has been altered, defaced multilated or added to;
 - (b) upon which the figures or particulars have become illegible; or
@@ -36,9 +36,9 @@ Regulations 37 and 38
 
 **4.** The holder of the licence shall not, and shall not permit any person to, exhibit on any vehicle anything which could be mistaken for a trade plate.
 
-**5.** The holder of the licence shall not permit any person to display [^key-f8a27f85234aa938b71abca71fcbdfe2]... any trade plates on a vehicle except a vehicle which that person is using for the purposes of the holder under the licence.
+**5.** The holder of the licence shall not permit any person to display [^c-f8a27f85234aa938b71abca71fcbdfe2]... any trade plates on a vehicle except a vehicle which that person is using for the purposes of the holder under the licence.
 
-**6.** The holder of the licence shall not, and shall not permit any person, to display [^key-b74820672c8604bb15ae7b34e66e21f3]... any trade plates on any vehicle unless—
+**6.** The holder of the licence shall not, and shall not permit any person, to display [^c-b74820672c8604bb15ae7b34e66e21f3]... any trade plates on any vehicle unless—
 
 - (a) that vehicle is within the classes of vehicle specified in section 11(2) of the 1994 Act (if the holder is a motor trader who is a manufacturer of vehicles), 11(3) (if the holder is any other motor trader) or 11(4) (if the holder is a vehicle tester); and
 - (b) the vehicle is being used for one or more of the prescribed purposes for which the holder may use the vehicle in accordance with regulation 36 and this Schedule.
@@ -141,10 +141,10 @@ A vehicle is used for “paragraph 12 purposes” if it is used for any of the f
 
 ## Annotations
 
-[^key-c7c624159cc487af048951304da5ba54]: Textual amendment: Sch. 6 para. 1 substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/2)
+[^c-c7c624159cc487af048951304da5ba54]: Textual amendment: Sch. 6 para. 1 substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/2)
 
-[^key-1d6be4d0aebe690f3a5b3583195f4545]: Textual amendment: Words in Sch. 6 para. 3 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/3)
+[^c-1d6be4d0aebe690f3a5b3583195f4545]: Textual amendment: Words in Sch. 6 para. 3 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/3)
 
-[^key-f8a27f85234aa938b71abca71fcbdfe2]: Textual amendment: Words in Sch. 6 para. 5 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(4)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/4)
+[^c-f8a27f85234aa938b71abca71fcbdfe2]: Textual amendment: Words in Sch. 6 para. 5 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(4)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/4)
 
-[^key-b74820672c8604bb15ae7b34e66e21f3]: Textual amendment: Words in Sch. 6 para. 6 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/5)
+[^c-b74820672c8604bb15ae7b34e66e21f3]: Textual amendment: Words in Sch. 6 para. 6 omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 16(5)](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/16/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Revocations[^key-73d5a58949aafdef5f5e56bac121038d]
+## 24. Revocations[^c-73d5a58949aafdef5f5e56bac121038d]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ The Feeding Stuffs Regulations (Northern Ireland) 1995[^f00028], the Feeding Stu
 
 ## Annotations
 
-[^key-73d5a58949aafdef5f5e56bac121038d]: Commencement: Reg. 24 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-73d5a58949aafdef5f5e56bac121038d]: Commencement: Reg. 24 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00028]: Footnote: [S.R. 1995 No. 451](https://www.legislation.gov.uk/nisr/1995/451)
 

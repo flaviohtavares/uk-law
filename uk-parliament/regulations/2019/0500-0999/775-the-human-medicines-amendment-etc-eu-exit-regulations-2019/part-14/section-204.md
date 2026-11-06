@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Amendment of Schedule 27 (package leaflets)[^key-3ce71b74c23c67a4a0e71ef35446987f]
+## 204. Amendment of Schedule 27 (package leaflets)[^c-3ce71b74c23c67a4a0e71ef35446987f]
 
 *Extent: E+W+S+N.I.*
 
 (1) Schedule 27 [^c23885391] is amended as follows.
 
-(2) In paragraph 8(c)(ii), for “Article 65 of the 2001 Directive”, substitute “ published under regulation 257D in the case of products for sale or supply in Great Britain, or in the case of products for sale or supply in Northern Ireland, any guidance published pursuant to Article 65 of the 2001 Directive or under regulation 257D that is applicable to such products.[^key-2ed4119a5c0eb35597d0891f08d88216] ”.
+(2) In paragraph 8(c)(ii), for “Article 65 of the 2001 Directive”, substitute “ published under regulation 257D in the case of products for sale or supply in Great Britain, or in the case of products for sale or supply in Northern Ireland, any guidance published pursuant to Article 65 of the 2001 Directive or under regulation 257D that is applicable to such products.[^c-2ed4119a5c0eb35597d0891f08d88216] ”.
 
-(3) In paragraph 11(f), for “marketing authorisation,” substitute “UK marketing authorisation, EU marketing authorisation”.[^key-c6fc64a3df3fd748e0703b839a68004e]
+(3) In paragraph 11(f), for “marketing authorisation,” substitute “UK marketing authorisation, EU marketing authorisation”.[^c-c6fc64a3df3fd748e0703b839a68004e]
 
-(4) In[^key-3f4fee243ff88c24f6f75398f3e4e404] paragraph 12 after[^key-b3ad1d850cedf6c7c8ad2ecc9c1334e5] “ Where the product ” insert "is authorised for sale or supply in Northern Ireland and”. .
+(4) In[^c-3f4fee243ff88c24f6f75398f3e4e404] paragraph 12 after[^c-b3ad1d850cedf6c7c8ad2ecc9c1334e5] “ Where the product ” insert "is authorised for sale or supply in Northern Ireland and”. .
 
 (5) In paragraph 13—
 
-- (a) after[^key-90b4eb4c991f3b7291b73c0ee2f6febb] “Article 23 of Regulation [(EC) No 726/2004"](https://www.legislation.gov.uk/eur/2004/726) insert “in the case of products for sale or supply in Northern Ireland, or the list referred to in regulation 202A, in the case of products for sale or supply in Great Britain,”;[^key-1752c2d70c736a83fedbeb7daa6cb495] ;
+- (a) after[^c-90b4eb4c991f3b7291b73c0ee2f6febb] “Article 23 of Regulation [(EC) No 726/2004"](https://www.legislation.gov.uk/eur/2004/726) insert “in the case of products for sale or supply in Northern Ireland, or the list referred to in regulation 202A, in the case of products for sale or supply in Great Britain,”;[^c-1752c2d70c736a83fedbeb7daa6cb495] ;
 - (b) before “statement”, insert “ symbol and ”; and
 - (c) before “This”, insert “ ▼ ”.
 
 (6) At the end insert—
 
-> **Part 3 — Advanced therapy medicinal products for sale or supply in Great Britain only[^key-b848d069a1f9e5b38090a74857761d40]**
+> **Part 3 — Advanced therapy medicinal products for sale or supply in Great Britain only[^c-b848d069a1f9e5b38090a74857761d40]**
 >
 > **18.**
 >
@@ -121,20 +121,20 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce71b74c23c67a4a0e71ef35446987f]: Commencement: Reg. 204 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3ce71b74c23c67a4a0e71ef35446987f]: Commencement: Reg. 204 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885391]: Marginal citation: Schedule 27 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-2ed4119a5c0eb35597d0891f08d88216]: Textual amendment: Words in reg. 204(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/a)
+[^c-2ed4119a5c0eb35597d0891f08d88216]: Textual amendment: Words in reg. 204(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/a)
 
-[^key-c6fc64a3df3fd748e0703b839a68004e]: Textual amendment: Words in reg. 204(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/b)
+[^c-c6fc64a3df3fd748e0703b839a68004e]: Textual amendment: Words in reg. 204(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/b)
 
-[^key-3f4fee243ff88c24f6f75398f3e4e404]: Textual amendment: Word in reg. 204(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/c/i)
+[^c-3f4fee243ff88c24f6f75398f3e4e404]: Textual amendment: Word in reg. 204(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/c/i)
 
-[^key-b3ad1d850cedf6c7c8ad2ecc9c1334e5]: Textual amendment: Words in reg. 204(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/c/ii)
+[^c-b3ad1d850cedf6c7c8ad2ecc9c1334e5]: Textual amendment: Words in reg. 204(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/c/ii)
 
-[^key-90b4eb4c991f3b7291b73c0ee2f6febb]: Textual amendment: Word in reg. 204(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(d)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/d/i)
+[^c-90b4eb4c991f3b7291b73c0ee2f6febb]: Textual amendment: Word in reg. 204(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(d)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/d/i)
 
-[^key-1752c2d70c736a83fedbeb7daa6cb495]: Textual amendment: Words in reg. 204(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/d/ii)
+[^c-1752c2d70c736a83fedbeb7daa6cb495]: Textual amendment: Words in reg. 204(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/d/ii)
 
-[^key-b848d069a1f9e5b38090a74857761d40]: Textual amendment: Words in reg. 204(6) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/e)
+[^c-b848d069a1f9e5b38090a74857761d40]: Textual amendment: Words in reg. 204(6) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 158(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/158/e)

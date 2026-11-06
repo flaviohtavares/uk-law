@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123A. Influencing persons signing a petition[^key-6555b5028f8a4aaaa49aeb1cb2a23919]
+## 123A. Influencing persons signing a petition[^c-6555b5028f8a4aaaa49aeb1cb2a23919]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-6555b5028f8a4aaaa49aeb1cb2a23919]: Textual amendment: Reg. 123A inserted (2.5.2024) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/8/3)
+[^c-6555b5028f8a4aaaa49aeb1cb2a23919]: Textual amendment: Reg. 123A inserted (2.5.2024) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/8/3)

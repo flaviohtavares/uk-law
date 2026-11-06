@@ -22,14 +22,14 @@ summary: ''
 
 (1) In section 417 of FSMA 2000 (definitions), in subsection (1)—
 
-- (a)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] omit the definition of “the Authority”,
-- (b)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “control of information rules” for “section 147(1)” substitute “ section 137P ”,
-- (c)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] after that definition insert—
+- (a)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] omit the definition of “the Authority”,
+- (b)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “control of information rules” for “section 147(1)” substitute “ section 137P ”,
+- (c)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] after that definition insert—
 
   > - “**credit-related regulated activity**” has the meaning given in section 23(1B);
 
   ,
-- (d)[^key-75441d8cc7ce693603ca545106e4c35d] after the definition of “exempt person” insert—
+- (d)[^c-75441d8cc7ce693603ca545106e4c35d] after the definition of “exempt person” insert—
 
   > “**the FCA**” means the Financial Conduct Authority;
 
@@ -50,7 +50,7 @@ summary: ''
   > “**Part 4A permission**” has the meaning given in section 55A(5);
 
   ,
-- (j)[^key-75441d8cc7ce693603ca545106e4c35d] after the definition of “partnership” insert—
+- (j)[^c-75441d8cc7ce693603ca545106e4c35d] after the definition of “partnership” insert—
 
   > “**the PRA**” means the Prudential Regulation Authority;
   >
@@ -59,34 +59,34 @@ summary: ''
   > “**PRA-regulated activity**” has the meaning given in section 22A;
 
   ,
-- (k)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “price stabilising rules” for “section 144” substitute “ section 137Q ”,
-- (l)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] after that definition insert—
+- (k)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “price stabilising rules” for “section 144” substitute “ section 137Q ”,
+- (l)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] after that definition insert—
 
   > - “**principal**” in relation to an appointed representative, is to be read in accordance with section 39;
 
   ,
-- (m)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “regulating provisions” for “section “159(1)” substitute “ section 140A ”,
-- (n)[^key-75441d8cc7ce693603ca545106e4c35d] after that definition insert—
+- (m)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “regulating provisions” for “section “159(1)” substitute “ section 140A ”,
+- (n)[^c-75441d8cc7ce693603ca545106e4c35d] after that definition insert—
 
   > - “**regulator**” has the meaning given in section 3A(2);
 
   ,
-- (o)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] omit the definitions of “regulatory objectives” and “regulatory provisions”,
-- (p)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] for the definition of “rule” substitute—
+- (o)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] omit the definitions of “regulatory objectives” and “regulatory provisions”,
+- (p)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] for the definition of “rule” substitute—
 
   > “**rule**” means a rule made by the FCA or the PRA under this Act;
 
   ,
-- (q)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “rule-making instrument” for “section 153” substitute “ section 138G ”,
-- (r)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] for the definition of “threshold conditions” substitute—
+- (q)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “rule-making instrument” for “section 153” substitute “ section 138G ”,
+- (r)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] for the definition of “threshold conditions” substitute—
 
   > “**threshold conditions**”, in relation to a regulated activity, has the meaning given in section 55B(1);
 
   ,
-- (s)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “UK authorised person” for “section 178(4)” substitute “ section 191G(1) ”, and
-- (t)[^key-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “the UK financial system” for “section 3” substitute “ section 1I ”.
+- (s)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “UK authorised person” for “section 178(4)” substitute “ section 191G(1) ”, and
+- (t)[^c-caba1263ed6c8ca945a9ee3ea20f45f4] in the definition of “the UK financial system” for “section 3” substitute “ section 1I ”.
 
-(2)[^key-75441d8cc7ce693603ca545106e4c35d] After section 421 of FSMA 2000 insert—
+(2)[^c-75441d8cc7ce693603ca545106e4c35d] After section 421 of FSMA 2000 insert—
 
 > **421ZA. Immediate group**
 >
@@ -98,7 +98,7 @@ summary: ''
 > - (d) a subsidiary undertaking of a parent undertaking of A;
 > - (e) a parent undertaking of a subsidiary undertaking of A.
 
-(3)[^key-75441d8cc7ce693603ca545106e4c35d] After section 425B of FSMA 2000 insert—
+(3)[^c-75441d8cc7ce693603ca545106e4c35d] After section 425B of FSMA 2000 insert—
 
 > **425C. Qualifying EU provision”**
 >
@@ -111,6 +111,6 @@ summary: ''
 
 ## Annotations
 
-[^key-caba1263ed6c8ca945a9ee3ea20f45f4]: Commencement: [S. 48(1)(a)-(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/a) [(e)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/e/i) [s. 48(1)(k)-(m)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/k) [s. 48(1)(o)-(t)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/o) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-caba1263ed6c8ca945a9ee3ea20f45f4]: Commencement: [S. 48(1)(a)-(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/a) [(e)(i)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/e/i) [s. 48(1)(k)-(m)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/k) [s. 48(1)(o)-(t)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/o) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-75441d8cc7ce693603ca545106e4c35d]: Commencement: [S. 48(1)(d)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/d)[(j)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/j)[(n)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/n)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/3) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-75441d8cc7ce693603ca545106e4c35d]: Commencement: [S. 48(1)(d)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/d)[(j)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/j)[(n)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/1/n)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/48/3) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

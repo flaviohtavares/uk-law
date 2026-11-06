@@ -48,7 +48,7 @@ Coming into force
 
 [^c15406441]These Regulations are made for the purpose only of consolidating other regulations revoked in the Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 .
 
-In accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.[^key-f0a957ecf2bd68bba849834e67d0c1e6]
+In accordance with section 176(1) of the Social Security Administration Act 1992, the Secretary of State has consulted with organisations appearing to him to be representative of the authorities concerned.[^c-f0a957ecf2bd68bba849834e67d0c1e6]
 
 ## Contents
 
@@ -211,7 +211,7 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 - [Section 74 — Non-dependant deductions](part-8/section-74.md)
 - [Section 75 — Minimum housing benefit](part-8/section-75.md)
 
-### PART 8A — Benefit cap[^key-3300f6a4af88852333099a324a65cb9a]
+### PART 8A — Benefit cap[^c-3300f6a4af88852333099a324a65cb9a]
 
 *Extent: E+W+S*
 
@@ -315,7 +315,7 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 - [Section 121 — Criminal offence](part-14/section-121.md)
 - [Section 121A — Supply of benefit administration information between authorities](part-14/section-121a.md)
 
-### PART 15 — Former pathfinder authorities[^key-0ac78a3d6f6360f9210dd29870a4b8e0]
+### PART 15 — Former pathfinder authorities[^c-0ac78a3d6f6360f9210dd29870a4b8e0]
 
 - [Section 122 — Modifications in respect of former pathfinder authorities](part-15/section-122.md)
 
@@ -390,8 +390,8 @@ Part 15 provides for the housing benefit scheme to be modified in the area of Pa
 
 [^c15406441]: Marginal citation: *See* section 172 of, and paragraph 10 of Part 1 of Schedule 7 to, the Social Security Administration Act 1992.
 
-[^key-f0a957ecf2bd68bba849834e67d0c1e6]: Modification: Instrument applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
+[^c-f0a957ecf2bd68bba849834e67d0c1e6]: Modification: Instrument applied (5.10.2009) by [The Flexible New Deal (Miscellaneous Provisions) Order 2009 (S.I. 2009/1562)](https://www.legislation.gov.uk/uksi/2009/1562), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/1562/regulation/2/1/c), [Sch.](https://www.legislation.gov.uk/uksi/2009/1562/schedule)
 
-[^key-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))
+[^c-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))
 
-[^key-0ac78a3d6f6360f9210dd29870a4b8e0]: Textual amendment: Pt. 15 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/4), [20(1)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/20/1)
+[^c-0ac78a3d6f6360f9210dd29870a4b8e0]: Textual amendment: Pt. 15 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/4), [20(1)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/20/1)

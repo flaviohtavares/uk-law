@@ -28,11 +28,11 @@ summary: ''
 
 where—
 
-B is the amount calculated (or last calculated) by the authority under section 42B(1) above or[^key-76dc18515c4417808df23d284960ca96] section 44(1) above as the basic amount of its council tax;
+B is the amount calculated (or last calculated) by the authority under section 42B(1) above or[^c-76dc18515c4417808df23d284960ca96] section 44(1) above as the basic amount of its council tax;
 
 A is the aggregate amount of all special items;
 
-T is the amount determined for item T in section 42B(1) above or[^key-5d89f5a55315a37209f1b17e8f6fc257] in section 44(1) above.
+T is the amount determined for item T in section 42B(1) above or[^c-5d89f5a55315a37209f1b17e8f6fc257] in section 44(1) above.
 
 (3) The authority shall calculate the basic amount of its council tax for dwellings in a part of its area to which one or more special items relate by adding to the amount given by the formula in subsection (2) above the aggregate of the amounts which, in relation to each of those special items, are given by the formula—
 
@@ -48,7 +48,7 @@ TP is (in each case) the aggregate of the amounts which are calculated by the bi
 
 (5) Regulations prescribing a period for the purposes of item TP in subsection (3) above may provide that, in any case where a billing authority fails to notify its calculation to the precepting authority within that period, that item shall be determined in the prescribed manner by such authority or authorities as may be prescribed.
 
-(5A)[^key-4a75968883f6b871062939a4248d31fc] Regulations under subsection (4) that apply to authorities in England may contain different rules for the purposes of calculating item TP in relation to different kinds of special item.
+(5A)[^c-4a75968883f6b871062939a4248d31fc] Regulations under subsection (4) that apply to authorities in England may contain different rules for the purposes of calculating item TP in relation to different kinds of special item.
 
 (5B) Regulations under subsection (4) that make provision by virtue of subsection (5A) may make consequential amendments to this Act.
 
@@ -60,8 +60,8 @@ TP is (in each case) the aggregate of the amounts which are calculated by the bi
 
 [^c12078161]: Modification: S. 45 excluded (12.1.2000 subject to transitional provisions Schedule 1, Table 1 of the commencing S.I.) [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 89](https://www.legislation.gov.uk/ukpga/1999/29/section/89) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3434](https://www.legislation.gov.uk/uksi/1999/3434), [art. 2](https://www.legislation.gov.uk/uksi/1999/3434/article/2)
 
-[^key-76dc18515c4417808df23d284960ca96]: Textual amendment: Words in s. 45(2) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 22(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/22/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-76dc18515c4417808df23d284960ca96]: Textual amendment: Words in s. 45(2) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 22(a)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/22/a); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-5d89f5a55315a37209f1b17e8f6fc257]: Textual amendment: Words in s. 45(2) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 22(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/22/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-5d89f5a55315a37209f1b17e8f6fc257]: Textual amendment: Words in s. 45(2) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 22(b)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/22/b); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-4a75968883f6b871062939a4248d31fc]: Textual amendment: S. 45(5A)(5B) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 15(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/15/2)
+[^c-4a75968883f6b871062939a4248d31fc]: Textual amendment: S. 45(5A)(5B) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 15(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/15/2)

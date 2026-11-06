@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Alternative method for submission of assignment stage bid form[^key-69444a1957537839da274801ec208fb1]
+## 98. Alternative method for submission of assignment stage bid form[^c-69444a1957537839da274801ec208fb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69444a1957537839da274801ec208fb1]: Commencement: Reg. 98 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-69444a1957537839da274801ec208fb1]: Commencement: Reg. 98 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 93. Section 92: application to Crown land[^key-1b6b9b2f0e6ec5ffc6f25b17f40ef65e]
+## 93. Section 92: application to Crown land[^c-1b6b9b2f0e6ec5ffc6f25b17f40ef65e]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6b9b2f0e6ec5ffc6f25b17f40ef65e]: Commencement: [S. 93](https://www.legislation.gov.uk/ukcm/2018/3/section/93) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-1b6b9b2f0e6ec5ffc6f25b17f40ef65e]: Commencement: [S. 93](https://www.legislation.gov.uk/ukcm/2018/3/section/93) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

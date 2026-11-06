@@ -27,7 +27,7 @@ summary: ''
   - (i) immediately before the commencement of the [^c9585901]British Nationality Act 1981 was a Commonwealth citizen having the right of abode in the United Kingdom by virtue of section 2(1)(d) or section 2(2) of this Act as then in force; and
   - (ii) has not ceased to be a Commonwealth citizen in the meanwhile.
 
-(2) In relation to Commonwealth citizens who have the right of abode in the United Kingdom by virtue of subsection (1)(b) above, this Act, except this section , section 5(2) and section 25[^key-ece02b76cba3376532af2a3aaacde692], shall apply as if they were British citizens; and in this Act (except as aforesaid) “**British citizen**” shall be construed accordingly.
+(2) In relation to Commonwealth citizens who have the right of abode in the United Kingdom by virtue of subsection (1)(b) above, this Act, except this section , section 5(2) and section 25[^c-ece02b76cba3376532af2a3aaacde692], shall apply as if they were British citizens; and in this Act (except as aforesaid) “**British citizen**” shall be construed accordingly.
 
 ## Annotations
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c9585901]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-ece02b76cba3376532af2a3aaacde692]: Textual amendment: Words in s. 2(2) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ece02b76cba3376532af2a3aaacde692]: Textual amendment: Words in s. 2(2) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

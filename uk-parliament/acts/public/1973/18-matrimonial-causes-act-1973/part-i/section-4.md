@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Divorce not precluded by previous judicial separation.[^key-ab35e4b330e7ebd4b39797ea194a391d]
+## 4. Divorce not precluded by previous judicial separation.[^c-ab35e4b330e7ebd4b39797ea194a391d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab35e4b330e7ebd4b39797ea194a391d]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1973/18/section/4) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/4) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-ab35e4b330e7ebd4b39797ea194a391d]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1973/18/section/4) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/4) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

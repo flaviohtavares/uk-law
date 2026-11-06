@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2A. Disapplication of section 1(1A) of the Social Security Administration Act 1992[^key-6847194c07bfd804938c1e528769d6c3]
+## 2A. Disapplication of section 1(1A) of the Social Security Administration Act 1992[^c-6847194c07bfd804938c1e528769d6c3]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Section 1(1A) of the Social Security Administration Act 1992 (requirement to sta
 
 ## Annotations
 
-[^key-6847194c07bfd804938c1e528769d6c3]: Textual amendment: Reg. 2A inserted (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations 2009 (S.I. 2009/471)](https://www.legislation.gov.uk/uksi/2009/471), [regs. 1](https://www.legislation.gov.uk/uksi/2009/471/regulation/1), [13](https://www.legislation.gov.uk/uksi/2009/471/regulation/13)
+[^c-6847194c07bfd804938c1e528769d6c3]: Textual amendment: Reg. 2A inserted (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations 2009 (S.I. 2009/471)](https://www.legislation.gov.uk/uksi/2009/471), [regs. 1](https://www.legislation.gov.uk/uksi/2009/471/regulation/1), [13](https://www.legislation.gov.uk/uksi/2009/471/regulation/13)

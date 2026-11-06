@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 215. Assessment of penalties under section 209[^key-5d972c0f6cb1bb18b9fa6a46a4093121]
+## 215. Assessment of penalties under section 209[^c-5d972c0f6cb1bb18b9fa6a46a4093121]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d972c0f6cb1bb18b9fa6a46a4093121]: Commencement: [S. 215](https://www.legislation.gov.uk/asp/2014/16/section/215) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-5d972c0f6cb1bb18b9fa6a46a4093121]: Commencement: [S. 215](https://www.legislation.gov.uk/asp/2014/16/section/215) in force at 16.2.2015 by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)

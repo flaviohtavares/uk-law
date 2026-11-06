@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Annual rate of full retirement pension (deferred members)[^key-f206c03c9ae62efa21157c062dbfc389]
+## 62. Annual rate of full retirement pension (deferred members)[^c-f206c03c9ae62efa21157c062dbfc389]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f206c03c9ae62efa21157c062dbfc389]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2014/1964/regulation/62) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-f206c03c9ae62efa21157c062dbfc389]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2014/1964/regulation/62) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

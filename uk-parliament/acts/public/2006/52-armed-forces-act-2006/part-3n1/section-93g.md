@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93G. Specimens of blood from persons incapable of consenting[^key-b04ece7f60dc61a439e6ec73391a4d6c]
+## 93G. Specimens of blood from persons incapable of consenting[^c-b04ece7f60dc61a439e6ec73391a4d6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b04ece7f60dc61a439e6ec73391a4d6c]: Textual amendment: Pt. 3 Ch. 3A inserted (8.3.2012 for specified purposes, 1.11.2013 in so far as not already in force) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/669/article/3/c); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
+[^c-b04ece7f60dc61a439e6ec73391a4d6c]: Textual amendment: Pt. 3 Ch. 3A inserted (8.3.2012 for specified purposes, 1.11.2013 in so far as not already in force) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/11/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/669/article/3/c); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)

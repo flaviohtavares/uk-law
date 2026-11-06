@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Powers of inspectors and others[^key-051ea98267b0e3858d248dd212e5fe76]
+## 30. Powers of inspectors and others[^c-051ea98267b0e3858d248dd212e5fe76]
 
 *Extent: N.I.*
 
@@ -107,7 +107,7 @@ any entry on those premises by virtue of this regulation shall only be effected 
 
 ## Annotations
 
-[^key-051ea98267b0e3858d248dd212e5fe76]: Commencement: Reg. 30 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-051ea98267b0e3858d248dd212e5fe76]: Commencement: Reg. 30 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2005 No. 925](https://www.legislation.gov.uk/uksi/2005/925)
 

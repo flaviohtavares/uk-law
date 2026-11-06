@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Dissolution of Historic Environment Advisory Council for Scotland[^key-ac1d091a571cba209ff0b27adf8b323f]
+## 7. Dissolution of Historic Environment Advisory Council for Scotland[^c-ac1d091a571cba209ff0b27adf8b323f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac1d091a571cba209ff0b27adf8b323f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/8/section/7) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-ac1d091a571cba209ff0b27adf8b323f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/8/section/7) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

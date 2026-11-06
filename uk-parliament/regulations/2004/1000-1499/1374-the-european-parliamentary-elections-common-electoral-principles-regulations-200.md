@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Parliamentary Elections (Common Electoral Principles) Regulations 2004 (revoked)[^key-f152cf81eb5a6e12d685ed90678107bc]
+The European Parliamentary Elections (Common Electoral Principles) Regulations 2004 (revoked)[^c-f152cf81eb5a6e12d685ed90678107bc]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 8th June 2004
 
-[^key-f152cf81eb5a6e12d685ed90678107bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f152cf81eb5a6e12d685ed90678107bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f152cf81eb5a6e12d685ed90678107bc]
+## 1. Citation, commencement and extent[^c-f152cf81eb5a6e12d685ed90678107bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the European Parliamentary Elections Act 2002[^key-f152cf81eb5a6e12d685ed90678107bc]
+## 2. Amendments of the European Parliamentary Elections Act 2002[^c-f152cf81eb5a6e12d685ed90678107bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments of the European Parliamentary Elections (Northern Ireland) Regulations 2004[^key-f152cf81eb5a6e12d685ed90678107bc]
+## 3. Amendments of the European Parliamentary Elections (Northern Ireland) Regulations 2004[^c-f152cf81eb5a6e12d685ed90678107bc]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the European Parliamentary Elections (Changes to the Franchise and Qualification of Representatives) Regulations 1994[^key-f152cf81eb5a6e12d685ed90678107bc]
+## 4. Amendment of the European Parliamentary Elections (Changes to the Franchise and Qualification of Representatives) Regulations 1994[^c-f152cf81eb5a6e12d685ed90678107bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f152cf81eb5a6e12d685ed90678107bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f152cf81eb5a6e12d685ed90678107bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f152cf81eb5a6e12d685ed90678107bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f152cf81eb5a6e12d685ed90678107bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f152cf81eb5a6e12d685ed90678107bc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1374) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f152cf81eb5a6e12d685ed90678107bc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1374) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Regulation-making[^key-f3ea081d7172dff83a6b84801aa45d06]
+## 79. Regulation-making[^c-f3ea081d7172dff83a6b84801aa45d06]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ea081d7172dff83a6b84801aa45d06]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2014/10/section/79) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-f3ea081d7172dff83a6b84801aa45d06]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2014/10/section/79) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

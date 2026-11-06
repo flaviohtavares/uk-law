@@ -68,8 +68,8 @@ Sections 14(1) and 97(3).
 
 *Extent: E+W*
 
-- (ia)[^key-871aeeae049cdbb4b4b05f59d207d112] that the authority must publish prescribed information in the prescribed manner;
-- (j) that the authority must supply prescribed information to the liable person when it serves a notice or on the request of the person *(Extent: E+W)*[^key-2ddf228934286030e40379d541416c20].
+- (ia)[^c-871aeeae049cdbb4b4b05f59d207d112] that the authority must publish prescribed information in the prescribed manner;
+- (j) that the authority must supply prescribed information to the liable person when it serves a notice or on the request of the person *(Extent: E+W)*[^c-2ddf228934286030e40379d541416c20].
 
 (5) Regulations under this Schedule may include provision—
 
@@ -82,7 +82,7 @@ Sections 14(1) and 97(3).
 
 (3) The regulations may include rules for determining whether any payment made by a person jointly and severally liable as to a fraction of an amount is (or is not) made towards satisfaction of his liability as to that fraction.
 
-### Discount (affected by repeal, see note)Variations and increases (Extent: E+W)[^key-4b0555db2073026031dffe5f987467da][^key-386f01a89184739335651a69c7ff7a2c]
+### Discount (affected by repeal, see note)Variations and increases (Extent: E+W)[^c-4b0555db2073026031dffe5f987467da][^c-386f01a89184739335651a69c7ff7a2c]
 
 *Extent: S*
 
@@ -93,21 +93,21 @@ Sections 14(1) and 97(3).
 - (a) any reference to the chargeable amount is a reference to an amount which, in respect of a particular dwelling, a person is solely liable to pay to an authority in respect of council tax for a financial year, and includes, unless the context otherwise requires, an amount which in the opinion of the authority a person will be so liable to pay; and
 - (b) any reference to any calculation of the chargeable amount includes a reference to any estimate of the amount.
 
-(2) Regulations under this Schedule may include provision that, before making any calculation of the chargeable amount for the purposes of regulations under this Schedule, the authority shall take reasonable steps to ascertain whether that amount is subject to any discount *(Extent: S)* *(affected by repeal, see note)*[^key-9ae2d9a9051a1ed587d2c9246bb7bcdc] variation *(Extent: S)* or increase[^key-068db65d2b023ca5caaa6c1194eb8eab], and if so, the amount of that discount *(Extent: S)* *(affected by repeal, see note)*[^key-9ae2d9a9051a1ed587d2c9246bb7bcdc] variation *(Extent: S)* or increase.
+(2) Regulations under this Schedule may include provision that, before making any calculation of the chargeable amount for the purposes of regulations under this Schedule, the authority shall take reasonable steps to ascertain whether that amount is subject to any discount *(Extent: S)* *(affected by repeal, see note)*[^c-9ae2d9a9051a1ed587d2c9246bb7bcdc] variation *(Extent: S)* or increase[^c-068db65d2b023ca5caaa6c1194eb8eab], and if so, the amount of that discount *(Extent: S)* *(affected by repeal, see note)*[^c-9ae2d9a9051a1ed587d2c9246bb7bcdc] variation *(Extent: S)* or increase.
 
 (3) The regulations may include provision that—
 
-- (a) where (having taken such steps) the authority has no reason to believe that the chargeable amount is subject to a discount *(Extent: S)* *(affected by repeal, see note)*[^key-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or to an increase[^key-e0b91b6e7d8e21fd30b5658370cd390f], it shall assume, in making any calculation of the chargeable amount for the purposes of regulations under this Schedule, that the chargeable amount is not subject to any discount *(Extent: S)* *(affected by repeal, see note)*[^key-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or increase[^key-fe385d17f3864deb5c6827c1ebbbb9a1] ; and
-- (b) where (having taken such steps) the authority has reason to believe that the chargeable amount is subject to a discount *(Extent: S)* *(affected by repeal, see note)*[^key-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or to an increase of a particular amount, it shall assume, in making any such calculation, that the chargeable amount is subject to a discount *(Extent: S)* *(affected by repeal, see note)*[^key-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or increase of that amount.
+- (a) where (having taken such steps) the authority has no reason to believe that the chargeable amount is subject to a discount *(Extent: S)* *(affected by repeal, see note)*[^c-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or to an increase[^c-e0b91b6e7d8e21fd30b5658370cd390f], it shall assume, in making any calculation of the chargeable amount for the purposes of regulations under this Schedule, that the chargeable amount is not subject to any discount *(Extent: S)* *(affected by repeal, see note)*[^c-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or increase[^c-fe385d17f3864deb5c6827c1ebbbb9a1] ; and
+- (b) where (having taken such steps) the authority has reason to believe that the chargeable amount is subject to a discount *(Extent: S)* *(affected by repeal, see note)*[^c-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or to an increase of a particular amount, it shall assume, in making any such calculation, that the chargeable amount is subject to a discount *(Extent: S)* *(affected by repeal, see note)*[^c-25a3c7c435438cba4ccf8cda2017aaa6] variation *(Extent: S)* or increase of that amount.
 
 (4) The regulations may include provision that the authority must inform the person who is or will be liable to pay the chargeable amount of that assumption.
 
 (5) The regulations may include provision that where—
 
-- (a) in accordance with any provision included under sub-paragraph (4) above the authority informs the person concerned that it has assumed that the chargeable amount is subject to a discount of a particular amount; and *(affected by repeal, see note)*[^key-9ff3cb49f092240ba1f81bc5c5fbec0b] —
+- (a) in accordance with any provision included under sub-paragraph (4) above the authority informs the person concerned that it has assumed that the chargeable amount is subject to a discount of a particular amount; and *(affected by repeal, see note)*[^c-9ff3cb49f092240ba1f81bc5c5fbec0b] —
   - (i) is subject to a discount of a particular amount, or
   - (ii) is not subject to any increase; and
-- (b) at any time before the end of the financial year following the financial year concerned, the person has reason to believe that the chargeable amount is not in fact subject to any discount, or is subject to a discount of a smaller amount *(affected by repeal, see note)*[^key-bca867ef2ac72a785aeda77bd8e391c6]—,
+- (b) at any time before the end of the financial year following the financial year concerned, the person has reason to believe that the chargeable amount is not in fact subject to any discount, or is subject to a discount of a smaller amount *(affected by repeal, see note)*[^c-bca867ef2ac72a785aeda77bd8e391c6]—,
   - (i) is not in fact subject to any discount, or is subject to a discount of a smaller amount, or
   - (ii) is in fact subject to an increase (whether or not the person is aware of the amount of the increase),
 
@@ -115,7 +115,7 @@ the person shall, within such period as may be prescribed, notify the authority 
 
 *Extent: S*
 
-(5A)[^key-e83bbdfc77f22aa62bec5537615da2fc] The regulations may include provision that where—
+(5A)[^c-e83bbdfc77f22aa62bec5537615da2fc] The regulations may include provision that where—
 
 - (a) in accordance with any provision included under sub-paragraph (4) the authority informs the person concerned of its assumption; and
 - (b) at any time before the end of the financial year following the financial year concerned, the person has reason to believe—
@@ -133,9 +133,9 @@ the person shall, within such period as may be prescribed, notify the authority 
 - (b (Extent: S)) that the information is to be supplied within a prescribed period of the request being made and, if the authority so requires, in a form specified in the request; and *(Extent: S)*
 - (c (Extent: S)) that a request may be served on the person concerned either by name or by such description as may be prescribed. *(Extent: S)*
 
-(6) In construing the reference in sub-paragraph (5)(b) *(Extent: S)* *(affected by repeal, see note)*[^key-1a8fbf2f9370c146824da2f42d305dbc] the references in sub-paragraphs (5)(b), (5A)(b)(ii) and (5B)(a)(iii) *(Extent: S)* above to the chargeable amount, the fact that the person concerned has wholly or partly discharged his liability to pay the amount shall be ignored.
+(6) In construing the reference in sub-paragraph (5)(b) *(Extent: S)* *(affected by repeal, see note)*[^c-1a8fbf2f9370c146824da2f42d305dbc] the references in sub-paragraphs (5)(b), (5A)(b)(ii) and (5B)(a)(iii) *(Extent: S)* above to the chargeable amount, the fact that the person concerned has wholly or partly discharged his liability to pay the amount shall be ignored.
 
-(7)[^key-1e22fabdef40b118bbc54bacc37eb51b] In this paragraph, “**increase**” means an increase under section 11B(1)(b) (higher amount of tax for empty dwellings: England),[^key-c3b60a4a0cf13ccb8b73528bd76728d0] 11C(1)(b) (higher amount for dwellings occupied periodically: England),[^key-32bf5ec403e5fd090bb9d46c85fcc01b] 12A(1)(b) (higher amount of tax for empty dwellings: Wales) or 12B(1)(b) (higher amount of tax for dwellings occupied periodically: Wales) .
+(7)[^c-1e22fabdef40b118bbc54bacc37eb51b] In this paragraph, “**increase**” means an increase under section 11B(1)(b) (higher amount of tax for empty dwellings: England),[^c-c3b60a4a0cf13ccb8b73528bd76728d0] 11C(1)(b) (higher amount for dwellings occupied periodically: England),[^c-32bf5ec403e5fd090bb9d46c85fcc01b] 12A(1)(b) (higher amount of tax for empty dwellings: Wales) or 12B(1)(b) (higher amount of tax for dwellings occupied periodically: Wales) .
 
 **5.** Regulations under this Schedule may include, as regards a case where persons are or will be jointly and severally liable to pay to an authority, in respect of a particular dwelling, an amount in respect of council tax for a financial year, provision equivalent to that included under paragraph 4 above subject to any modifications the Secretary of State thinks fit.
 
@@ -170,18 +170,18 @@ the authority may accept the smaller sum in satisfaction of the liability to pay
 
 ### Exempt dwellings etc.
 
-**8.** (1) Regulations under this Schedule may include provision that an authority which has received a copy of a proposed list sent to it under section 22(5)(b) , 22B(7)[^c18817071] , 22B(7A)[^key-7bccd0838257998af82eb463dbc447a9] or 85(1)(b) of this Act shall, as respects each dwelling shown in the copy which in the opinion of the authority will be a relevant dwelling on the day when the list comes into force, notify the person concerned of such matters relating to the dwelling’s entry in the copy as may be prescribed.
+**8.** (1) Regulations under this Schedule may include provision that an authority which has received a copy of a proposed list sent to it under section 22(5)(b) , 22B(7)[^c18817071] , 22B(7A)[^c-7bccd0838257998af82eb463dbc447a9] or 85(1)(b) of this Act shall, as respects each dwelling shown in the copy which in the opinion of the authority will be a relevant dwelling on the day when the list comes into force, notify the person concerned of such matters relating to the dwelling’s entry in the copy as may be prescribed.
 
 (2) Regulations under this Schedule may include provision that in any case where—
 
-- (a) a dwelling is not shown in the copy of a proposed list sent to an authority under section 22(5)(b) , 22B(7)[^c18817141] , 22B(7A)[^key-8eb66bcdfdf47053ba119f9a0b00b734] or 85(1)(b) of this Act but is shown in the copy of the list sent to the authority under section 22(7) , 22B(9)[^c18817161] or 85(4) of this Act; and
+- (a) a dwelling is not shown in the copy of a proposed list sent to an authority under section 22(5)(b) , 22B(7)[^c18817141] , 22B(7A)[^c-8eb66bcdfdf47053ba119f9a0b00b734] or 85(1)(b) of this Act but is shown in the copy of the list sent to the authority under section 22(7) , 22B(9)[^c18817161] or 85(4) of this Act; and
 - (b) in the opinion of the authority the dwelling was a relevant dwelling on the day when the list came into force,
 
 the authority shall notify the person concerned of such matters relating to the dwelling’s entry in the copy of the list sent to the authority under section 22(7) or 85(4) of this Act as may be prescribed.
 
 (3) Regulations under this Schedule may include provision that in any case where—
 
-- (a) the valuation band shown as applicable to a dwelling in the copy of a proposed list sent to an authority under section 22(5)(b) or 85(1)(b) of this Act is different from that shown as applicable to it in the copy of the list sent to the authority under section 22(7) , 22B(7A)[^key-bf48f6b5d1b1b8304b1ae25cebb95e7c] , 22B(9) or 85(4) of this Act; and
+- (a) the valuation band shown as applicable to a dwelling in the copy of a proposed list sent to an authority under section 22(5)(b) or 85(1)(b) of this Act is different from that shown as applicable to it in the copy of the list sent to the authority under section 22(7) , 22B(7A)[^c-bf48f6b5d1b1b8304b1ae25cebb95e7c] , 22B(9) or 85(4) of this Act; and
 - (b) in the opinion of the authority the dwelling was a relevant dwelling on the day when the list came into force,
 
 the authority shall notify the person concerned of such matters relating to the dwelling’s entry in the copy of the list sent to the authority under section 22(7) or 85(4) of this Act as may be prescribed.
@@ -251,7 +251,7 @@ provision equivalent to that included under paragraph 9 above subject to any mod
 - (c) it is requested by the authority for the purpose of carrying out its functions under Part I of this Act; and
 - (d) it does not fall within any prescribed description of information which need not be supplied.
 
-(1A)[^key-0818842f26e425d4ba194082a8f50c01] Information may be prescribed under sub-paragraph (1)(d) by reference to—
+(1A)[^c-0818842f26e425d4ba194082a8f50c01] Information may be prescribed under sub-paragraph (1)(d) by reference to—
 
 - (a) how the person concerned came to be in possession or control of the information;
 - (b) the purpose for which it is requested by the authority.
@@ -277,7 +277,7 @@ provision equivalent to that included under paragraph 9 above subject to any mod
 - (c) it is requested by the authority for the purpose of carrying out their functions under Part II of this Act; and
 - (d) it does not fall within any prescribed description of information which need not be supplied.
 
-(1A)[^key-7f274ad72ba29121d0de376f4c7d4650] Information may be prescribed under sub-paragraph (1)(d) by reference to—
+(1A)[^c-7f274ad72ba29121d0de376f4c7d4650] Information may be prescribed under sub-paragraph (1)(d) by reference to—
 
 - (a) how the person concerned came to be in possession or control of the information;
 - (b) the purpose for which it is requested by the authority.
@@ -335,11 +335,11 @@ to supply the billing authority with prescribed information if the Secretary of 
 
 (2) For the purposes of this paragraph information is relevant information if—
 
-- (a) it was obtained by the Secretary of State in exercising his functions under the Social Security Acts or Part 4 of the Welfare Reform Act 2012[^key-4e4398c421035bfd3686703185fa9bd2];
+- (a) it was obtained by the Secretary of State in exercising his functions under the Social Security Acts or Part 4 of the Welfare Reform Act 2012[^c-4e4398c421035bfd3686703185fa9bd2];
 - (b) the Secretary of State believes it would be useful to the authority in exercising its functions under Part I or II of this Act; and
 - (c) it falls within a prescribed description.
 
-**15A.**[^key-3f016edecc3a2506268053b9f9700cd5] (1) A Revenue and Customs official may supply information which is held by the Revenue and Customs in connection with a function of the Revenue and Customs to a qualifying person for prescribed purposes relating to council tax.
+**15A.**[^c-3f016edecc3a2506268053b9f9700cd5] (1) A Revenue and Customs official may supply information which is held by the Revenue and Customs in connection with a function of the Revenue and Customs to a qualifying person for prescribed purposes relating to council tax.
 
 (2) The following are qualifying persons for the purpose of this paragraph—
 
@@ -420,7 +420,7 @@ have the same meaning as in section 18 of the Commissioners for Revenue and Cust
 (3) A person guilty of an offence under this paragraph is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine, or both;
-- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c5907a5baadb444ce1cbd8b7b1dbadd4] or a fine not exceeding the statutory maximum, or both.
+- (b) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-c5907a5baadb444ce1cbd8b7b1dbadd4] or a fine not exceeding the statutory maximum, or both.
 
 (4) It is not an offence under this paragraph—
 
@@ -434,7 +434,7 @@ have the same meaning as in section 18 of the Commissioners for Revenue and Cust
 
 (6) For the purposes of this paragraph, “**lawful authority**” has the meaning given by section 123 of the Social Security Administration Act 1992.
 
-(7) In relation to an offence under this paragraph committed in England and Wales before 2 May 2022[^key-fd7552728ac80e67198d45ed0124e578] the reference in sub-paragraph (3)(b) to the general limit in a magistrates’ court[^key-b08b97be9e6f9c4fb3b8e4ab83cfab5f] is to be taken as a reference to 6 months.
+(7) In relation to an offence under this paragraph committed in England and Wales before 2 May 2022[^c-fd7552728ac80e67198d45ed0124e578] the reference in sub-paragraph (3)(b) to the general limit in a magistrates’ court[^c-b08b97be9e6f9c4fb3b8e4ab83cfab5f] is to be taken as a reference to 6 months.
 
 ### Supply of information by authorities
 
@@ -446,7 +446,7 @@ have the same meaning as in section 18 of the Commissioners for Revenue and Cust
 - (b) it believes it would be useful to the other authority in exercising its functions under either of those Parts; and
 - (c) it does not fall within any prescribed description of information which is not to be supplied.
 
-(3)[^key-8a8955c5d572399cca5f3905219899ab] Information may be prescribed under sub-paragraph (2)(c) by reference to—
+(3)[^c-8a8955c5d572399cca5f3905219899ab] Information may be prescribed under sub-paragraph (2)(c) by reference to—
 
 - (a) how the first-mentioned authority obtained the information;
 - (b) the purpose for which the first-mentioned authority believes that the information would be useful to the other authority.
@@ -470,7 +470,7 @@ have the same meaning as in section 18 of the Commissioners for Revenue and Cust
 - (a) is obtained under any other enactment; and
 - (b) does not fall within any prescribed description of information which cannot be used.
 
-**18A.**[^c18817211] (1) A billing *(Extent: S)* *(affected by repeal, see note)*[^key-32e25e8ada83bbb675ba2685d2a10d33] An *(Extent: S)* authority may use information it has obtained for the purpose of carrying out its functions under Part 1 or Part 2 *(Extent: S)*[^key-20b109fece3d294da17a6f9e487d58ef] of this Act for the purpose of—
+**18A.**[^c18817211] (1) A billing *(Extent: S)* *(affected by repeal, see note)*[^c-32e25e8ada83bbb675ba2685d2a10d33] An *(Extent: S)* authority may use information it has obtained for the purpose of carrying out its functions under Part 1 or Part 2 *(Extent: S)*[^c-20b109fece3d294da17a6f9e487d58ef] of this Act for the purpose of—
 
 - (a) identifying vacant dwellings, or
 - (b) taking steps to bring vacant dwellings back into use.
@@ -519,20 +519,20 @@ have the same meaning as in section 18 of the Commissioners for Revenue and Cust
 - (a) any reference to a payment on account of an amount, however expressed, is to any payment (whether interim, final or sole) in respect of the amount; and
 - (b) any reference to a managing agent, in relation to a dwelling, is to a person authorised to arrange lettings of the dwelling.
 
-**21.**[^c18817241] (1) This paragraph applies where a billing authority exercises the power under section 13A(1) above by determining a class of case in which liability is to be reduced. *(Extent: E+W)* *(affected by repeal, see note)*[^key-aad0aaf6efb407593a336b11ea4e02fa]
+**21.**[^c18817241] (1) This paragraph applies where a billing authority exercises the power under section 13A(1) above by determining a class of case in which liability is to be reduced. *(Extent: E+W)* *(affected by repeal, see note)*[^c-aad0aaf6efb407593a336b11ea4e02fa]
 
 This paragraph applies where— *(Extent: E+W)*
 
 - (a (Extent: E+W)) a billing authority in England or a specified authority (within the meaning of Schedule 1B) in Wales makes a council tax reduction scheme, or *(Extent: E+W)*
 - (b (Extent: E+W)) a billing authority exercises the power under section 13A(1)(c) by determining a class of case in which liability is to be reduced. *(Extent: E+W)*
 
-(2) Where the scheme or *(Extent: E+W)*[^key-9bcfccd9e7c4b3295a0826a2f6911f4a] the determination provides for liability to be reduced to nil, any dwelling in relation to which the reduction applies shall be treated for the purposes of this Schedule as an exempt dwelling.
+(2) Where the scheme or *(Extent: E+W)*[^c-9bcfccd9e7c4b3295a0826a2f6911f4a] the determination provides for liability to be reduced to nil, any dwelling in relation to which the reduction applies shall be treated for the purposes of this Schedule as an exempt dwelling.
 
 (3) Where the scheme or *(Extent: E+W)* the determination provides for liability to be reduced otherwise than to nil, any amount in relation to which the reduction applies shall be treated for the purposes of this Schedule as subject to a discount equal to the amount of the reduction.
 
 *Extent: S*
 
-**22.**[^key-74ac816f424939ca3c480d0469bab7e9] (1) This paragraph applies where a local authority establishes an energy efficiency discount scheme under section 80A.
+**22.**[^c-74ac816f424939ca3c480d0469bab7e9] (1) This paragraph applies where a local authority establishes an energy efficiency discount scheme under section 80A.
 
 (2) Where, under an energy efficiency discount scheme, the amount which a person is liable to pay in respect of council tax is reduced, any amount in relation to which the reduction applies is to be treated for the purposes of this schedule as subject to a discount equal to the amount of the reduction.
 
@@ -540,57 +540,57 @@ This paragraph applies where— *(Extent: E+W)*
 
 [^c12082461]: Textual amendment: Words in Sch. 2 para. 1(2) substituted (S.) (16.2.1996 subject to art. 2(2) of the commencing S.I.) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 176(16)(a)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/176/16/a) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 2(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/2/1/b/c)
 
-[^key-871aeeae049cdbb4b4b05f59d207d112]: Textual amendment: Sch. 2 para. 2(4)(ia) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 16(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/16/2)
+[^c-871aeeae049cdbb4b4b05f59d207d112]: Textual amendment: Sch. 2 para. 2(4)(ia) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 16(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/16/2)
 
-[^key-2ddf228934286030e40379d541416c20]: Textual amendment: Words in Sch. 2 para. 2(4)(j) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/16/3)
+[^c-2ddf228934286030e40379d541416c20]: Textual amendment: Words in Sch. 2 para. 2(4)(j) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/16/3)
 
-[^key-4b0555db2073026031dffe5f987467da]: Textual amendment: Word in Sch. 2 para. 4 cross-heading substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(4)](https://www.legislation.gov.uk/asp/2012/11/section/3/4), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-4b0555db2073026031dffe5f987467da]: Textual amendment: Word in Sch. 2 para. 4 cross-heading substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(4)](https://www.legislation.gov.uk/asp/2012/11/section/3/4), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-386f01a89184739335651a69c7ff7a2c]: Textual amendment: Words in Sch. 2 para. 4 cross-heading inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(14)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/14)
+[^c-386f01a89184739335651a69c7ff7a2c]: Textual amendment: Words in Sch. 2 para. 4 cross-heading inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(14)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/14)
 
-[^key-9ae2d9a9051a1ed587d2c9246bb7bcdc]: Textual amendment: Word in Sch. 2 para. 4(2) substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(a)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-9ae2d9a9051a1ed587d2c9246bb7bcdc]: Textual amendment: Word in Sch. 2 para. 4(2) substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(a)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-068db65d2b023ca5caaa6c1194eb8eab]: Textual amendment: Words in Sch. 2 para. 4(2) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(9)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/9)
+[^c-068db65d2b023ca5caaa6c1194eb8eab]: Textual amendment: Words in Sch. 2 para. 4(2) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(9)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/9)
 
-[^key-25a3c7c435438cba4ccf8cda2017aaa6]: Textual amendment: Word in Sch. 2 para. 4(3) substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(a)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-25a3c7c435438cba4ccf8cda2017aaa6]: Textual amendment: Word in Sch. 2 para. 4(3) substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(a)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/a), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-e0b91b6e7d8e21fd30b5658370cd390f]: Textual amendment: Words in Sch. 2 para. 4(3) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(10)(a)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/10/a)
+[^c-e0b91b6e7d8e21fd30b5658370cd390f]: Textual amendment: Words in Sch. 2 para. 4(3) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(10)(a)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/10/a)
 
-[^key-fe385d17f3864deb5c6827c1ebbbb9a1]: Textual amendment: Words in Sch. 2 para. 4(3) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(10)(b)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/10/b)
+[^c-fe385d17f3864deb5c6827c1ebbbb9a1]: Textual amendment: Words in Sch. 2 para. 4(3) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(10)(b)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/10/b)
 
-[^key-9ff3cb49f092240ba1f81bc5c5fbec0b]: Textual amendment: Words in Sch. 2 para. 4(5)(a) substituted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(11)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/11)
+[^c-9ff3cb49f092240ba1f81bc5c5fbec0b]: Textual amendment: Words in Sch. 2 para. 4(5)(a) substituted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(11)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/11)
 
-[^key-bca867ef2ac72a785aeda77bd8e391c6]: Textual amendment: Sch. 2 para. 4(5)(b)(i)(ii) substituted for words (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(12)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/12)
+[^c-bca867ef2ac72a785aeda77bd8e391c6]: Textual amendment: Sch. 2 para. 4(5)(b)(i)(ii) substituted for words (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(12)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/12)
 
-[^key-e83bbdfc77f22aa62bec5537615da2fc]: Textual amendment: Sch. 2 para. 4(5A)(5B) inserted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(b)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/b), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-e83bbdfc77f22aa62bec5537615da2fc]: Textual amendment: Sch. 2 para. 4(5A)(5B) inserted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(b)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/b), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-1a8fbf2f9370c146824da2f42d305dbc]: Textual amendment: Words in Sch. 2 para. 4(6) substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(c)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/c), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
+[^c-1a8fbf2f9370c146824da2f42d305dbc]: Textual amendment: Words in Sch. 2 para. 4(6) substituted (S.) (5.12.2012) by [Local Government Finance (Unoccupied Properties etc.) (Scotland) Act 2012 (asp 11)](https://www.legislation.gov.uk/asp/2012/11), [ss. 3(3)(c)](https://www.legislation.gov.uk/asp/2012/11/section/3/3/c), [5(1)](https://www.legislation.gov.uk/asp/2012/11/section/5/1)
 
-[^key-1e22fabdef40b118bbc54bacc37eb51b]: Textual amendment: Sch. 2 para. 4(7) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(13)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/13)
+[^c-1e22fabdef40b118bbc54bacc37eb51b]: Textual amendment: Sch. 2 para. 4(7) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 12(13)](https://www.legislation.gov.uk/ukpga/2012/17/section/12/13)
 
-[^key-c3b60a4a0cf13ccb8b73528bd76728d0]: Textual amendment: Words in Sch. 2 para. 4(7) substituted (16.12.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 29(7)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/29/7); [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
+[^c-c3b60a4a0cf13ccb8b73528bd76728d0]: Textual amendment: Words in Sch. 2 para. 4(7) substituted (16.12.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 29(7)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/29/7); [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
 
-[^key-32bf5ec403e5fd090bb9d46c85fcc01b]: Textual amendment: Words in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/4/7) inserted (E.W.) (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 80(3)(g)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/3/g), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-32bf5ec403e5fd090bb9d46c85fcc01b]: Textual amendment: Words in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/4/7) inserted (E.W.) (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 80(3)(g)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/3/g), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c18817071]: Textual amendment: Words in Sch. 2 para. 8(1) inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [Sch. 7 para. 53(2)(a)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/53/2/a)
 
-[^key-7bccd0838257998af82eb463dbc447a9]: Textual amendment: Word in [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/8/1) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(4)](https://www.legislation.gov.uk/asc/2024/6/section/20/4), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
+[^c-7bccd0838257998af82eb463dbc447a9]: Textual amendment: Word in [Sch. 2 para. 8(1)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/8/1) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(4)](https://www.legislation.gov.uk/asc/2024/6/section/20/4), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
 
 [^c18817141]: Textual amendment: Words in Sch. 2 para. 8(2) inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [Sch. 7 para. 53(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/53/2/b/i)
 
-[^key-8eb66bcdfdf47053ba119f9a0b00b734]: Textual amendment: Word in [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/8/2/a) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(4)](https://www.legislation.gov.uk/asc/2024/6/section/20/4), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
+[^c-8eb66bcdfdf47053ba119f9a0b00b734]: Textual amendment: Word in [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/8/2/a) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(4)](https://www.legislation.gov.uk/asc/2024/6/section/20/4), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
 
 [^c18817161]: Textual amendment: Words in Sch. 2 para. 8(2)(3) inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [Sch. 7 para. 53(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/53/2/b/ii)
 
-[^key-bf48f6b5d1b1b8304b1ae25cebb95e7c]: Textual amendment: Word in [Sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/8/3/a) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(4)](https://www.legislation.gov.uk/asc/2024/6/section/20/4), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
+[^c-bf48f6b5d1b1b8304b1ae25cebb95e7c]: Textual amendment: Word in [Sch. 2 para. 8(3)(a)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/8/3/a) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 20(4)](https://www.legislation.gov.uk/asc/2024/6/section/20/4), [23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
 
 [^c12082471]: Textual amendment: Words in Sch. 2 para. 8(5)(b) repealed (S.) (19.2.1996 subject to art. 2(2) of the commencing S.I.) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 2(1)(b)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/2/1/b/d)
 
-[^key-0818842f26e425d4ba194082a8f50c01]: Textual amendment: Sch. 2 para. 11(1A) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/3)
+[^c-0818842f26e425d4ba194082a8f50c01]: Textual amendment: Sch. 2 para. 11(1A) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/3)
 
 [^c12082481]: Textual amendment: Word in Sch. 2 para. 12(1) substituted (S.) (16.2.1996 subject to art. 2(2) of the commencing S.I.) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 176(16)(b)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/176/16/b) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 2(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/2/1/b/c)
 
-[^key-7f274ad72ba29121d0de376f4c7d4650]: Textual amendment: Sch. 2 para. 12(1A) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(4)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/4)
+[^c-7f274ad72ba29121d0de376f4c7d4650]: Textual amendment: Sch. 2 para. 12(1A) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(4)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/4)
 
 [^c12082491]: Textual amendment: Sch. 2 para. 12(2)(b) repealed (S.) (16.2.1996 subject to art. 2(2) of the commencing S.I.) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 2(1)(b)(d)(iv)](https://www.legislation.gov.uk/uksi/1996/323/article/2/1/b/d/iv)
 
@@ -598,23 +598,23 @@ This paragraph applies where— *(Extent: E+W)*
 
 [^c12082521]: Textual amendment: Word in each place it occurs in Sch. 2 para. 13 substituted (S.) (16.2.1996 subject to art. 2(2) of the commencing S.I.) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 176(16)(c)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/176/16/c) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 2(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/2/1/b/c)
 
-[^key-4e4398c421035bfd3686703185fa9bd2]: Textual amendment: Words in Sch. 2 para. 15(2)(a) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/4)
+[^c-4e4398c421035bfd3686703185fa9bd2]: Textual amendment: Words in Sch. 2 para. 15(2)(a) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(4)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/4)
 
-[^key-3f016edecc3a2506268053b9f9700cd5]: Textual amendment: Sch. 2 paras. 15A-15D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/2)
+[^c-3f016edecc3a2506268053b9f9700cd5]: Textual amendment: Sch. 2 paras. 15A-15D inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/2)
 
-[^key-c5907a5baadb444ce1cbd8b7b1dbadd4]: Textual amendment: Words in [Sch. 2 para. 15D(3)(b)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/15D/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-c5907a5baadb444ce1cbd8b7b1dbadd4]: Textual amendment: Words in [Sch. 2 para. 15D(3)(b)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/15D/3/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-fd7552728ac80e67198d45ed0124e578]: Textual amendment: Words in [Sch. 2 para. 15D(7)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/15D/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-fd7552728ac80e67198d45ed0124e578]: Textual amendment: Words in [Sch. 2 para. 15D(7)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/15D/7) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-b08b97be9e6f9c4fb3b8e4ab83cfab5f]: Textual amendment: Words in [Sch. 2 para. 15D(7)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/15D/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-b08b97be9e6f9c4fb3b8e4ab83cfab5f]: Textual amendment: Words in [Sch. 2 para. 15D(7)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/2/paragraph/15D/7) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-8a8955c5d572399cca5f3905219899ab]: Textual amendment: Sch. 2 para. 16(3) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(5)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/5)
+[^c-8a8955c5d572399cca5f3905219899ab]: Textual amendment: Sch. 2 para. 16(3) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 17(5)](https://www.legislation.gov.uk/ukpga/2012/17/section/17/5)
 
 [^c18817211]: Textual amendment: Sch. 2 para. 18A inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 85](https://www.legislation.gov.uk/ukpga/2003/26/section/85)
 
-[^key-32e25e8ada83bbb675ba2685d2a10d33]: Textual amendment: Word in Sch. 2 para. 18A(1) substituted (S.) (7.10.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 157(1)(a)](https://www.legislation.gov.uk/asp/2010/17/section/157/1/a), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
+[^c-32e25e8ada83bbb675ba2685d2a10d33]: Textual amendment: Word in Sch. 2 para. 18A(1) substituted (S.) (7.10.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 157(1)(a)](https://www.legislation.gov.uk/asp/2010/17/section/157/1/a), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
 
-[^key-20b109fece3d294da17a6f9e487d58ef]: Textual amendment: Words in Sch. 2 para. 18A(1) inserted (S.) (7.10.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 157(1)(b)](https://www.legislation.gov.uk/asp/2010/17/section/157/1/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
+[^c-20b109fece3d294da17a6f9e487d58ef]: Textual amendment: Words in Sch. 2 para. 18A(1) inserted (S.) (7.10.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 157(1)(b)](https://www.legislation.gov.uk/asp/2010/17/section/157/1/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
 
 [^c12082611]: Textual amendment: Words in Sch. 2 para. 19 substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 176(16)(d)(i)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/176/16/d/i) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(b)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/b/c)
 
@@ -628,8 +628,8 @@ This paragraph applies where— *(Extent: E+W)*
 
 [^c18817241]: Textual amendment: Sch. 2 para. 21 inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2003/26/section/127/1), [Sch. 7 para. 53(3)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/53/3)
 
-[^key-aad0aaf6efb407593a336b11ea4e02fa]: Textual amendment: Sch. 2 para. 21(1) substituted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/7/2)
+[^c-aad0aaf6efb407593a336b11ea4e02fa]: Textual amendment: Sch. 2 para. 21(1) substituted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/7/2)
 
-[^key-9bcfccd9e7c4b3295a0826a2f6911f4a]: Textual amendment: Words in Sch. 2 para. 21(2)(3) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/7/3)
+[^c-9bcfccd9e7c4b3295a0826a2f6911f4a]: Textual amendment: Words in Sch. 2 para. 21(2)(3) inserted (E.W.) (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/7/3)
 
-[^key-74ac816f424939ca3c480d0469bab7e9]: Textual amendment: Sch. 2 para. 22 inserted (S.) (1.4.2010) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 65(3)](https://www.legislation.gov.uk/asp/2009/12/section/65/3), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-74ac816f424939ca3c480d0469bab7e9]: Textual amendment: Sch. 2 para. 22 inserted (S.) (1.4.2010) by [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12), [ss. 65(3)](https://www.legislation.gov.uk/asp/2009/12/section/65/3), [100(2)](https://www.legislation.gov.uk/asp/2009/12/section/100/2) (with [s. 95](https://www.legislation.gov.uk/asp/2009/12/section/95)); [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

@@ -47,11 +47,11 @@ The Lords Commissioners of Her Majesty's Treasury by virtue of the powers confer
 
 ## Goods to which the Regulations apply
 
-**1.**[^key-4b96dbf3dabe40eea1a2330c0db9fff5] These Regulations shall apply to dutiable food and drink, tobacco and matches which are supplied to any of H.M. Ships specified in paragraphs (a) and (b) of Regulation 2, or (with the exception of matches) to the Admiralty at a naval victualling yard, depot or sub-depot, for distribution to any of H.M. Ships specified in paragraphs (a), (b) or (c) of Regulation 2 for the use of persons living in that ship (being persons borne on the books of that or of another of H.M. Ships or of a naval establishment) or to the Admiralty as aforesaid for distribution to any naval establishment for the use of officers and men of the Royal Navy and Royal Marines living in that establishment, and borne on the books of that or of some other naval establishment or of one of H.M. Ships.
+**1.**[^c-4b96dbf3dabe40eea1a2330c0db9fff5] These Regulations shall apply to dutiable food and drink, tobacco and matches which are supplied to any of H.M. Ships specified in paragraphs (a) and (b) of Regulation 2, or (with the exception of matches) to the Admiralty at a naval victualling yard, depot or sub-depot, for distribution to any of H.M. Ships specified in paragraphs (a), (b) or (c) of Regulation 2 for the use of persons living in that ship (being persons borne on the books of that or of another of H.M. Ships or of a naval establishment) or to the Admiralty as aforesaid for distribution to any naval establishment for the use of officers and men of the Royal Navy and Royal Marines living in that establishment, and borne on the books of that or of some other naval establishment or of one of H.M. Ships.
 
 ## Ships and naval establishments to which these Regulations apply
 
-**2.**[^key-794c616e5e05c3bdcb148e249aabb2e6] The goods specified in Regulation 1 may be supplied in accordance with these Regulations for consumption in the following classes of ships and naval establishments:—
+**2.**[^c-794c616e5e05c3bdcb148e249aabb2e6] The goods specified in Regulation 1 may be supplied in accordance with these Regulations for consumption in the following classes of ships and naval establishments:—
 
 - (a) H.M. Ships in commission which are normally required in the ordinary course of their duty to be absent from United Kingdom territorial waters for periods of more than six days continuously in each year;
 - (b) H.M. Ships in commission which are normally required in the ordinary course of their duty to be absent from United Kingdom territorial waters but not for periods as long as six days continuously and H.M. Ships in commission belonging to classes I and II (state of readiness) of the Reserve Fleet in which only officers and men serving in the Reserve Fleet are living;
@@ -59,7 +59,7 @@ The Lords Commissioners of Her Majesty's Treasury by virtue of the powers confer
 
 ## Scale of supply of tobacco
 
-**3.**[^key-d6ce7aadbcc8c578ee2f455396755164] The quantity of tobacco to be supplied under the terms of these Regulations in each month for the use of each person or officer or man mentioned in Regulation 1 who is an habitual user of tobacco and who is living in a ship or establishment specified in Regulation 2 hereof shall not exceed in the case of:—
+**3.**[^c-d6ce7aadbcc8c578ee2f455396755164] The quantity of tobacco to be supplied under the terms of these Regulations in each month for the use of each person or officer or man mentioned in Regulation 1 who is an habitual user of tobacco and who is living in a ship or establishment specified in Regulation 2 hereof shall not exceed in the case of:—
 
 |  |  |
 | --- | --- |
@@ -74,30 +74,30 @@ Provided that any tobacco taken on board any of H.M. Ships at any place outside 
 
 ## Supply of tobacco in certain cases
 
-**4.**[^key-5e8691df609522593250eb36ba5518f6] The tobacco supplied in accordance with paragraphs (c) and (d) of Regulation 3 shall be provided by the Admiralty from a naval victualling yard, depot or sub-depot.
+**4.**[^c-5e8691df609522593250eb36ba5518f6] The tobacco supplied in accordance with paragraphs (c) and (d) of Regulation 3 shall be provided by the Admiralty from a naval victualling yard, depot or sub-depot.
 
 ## Control of tobacco
 
-**5.**[^key-38e6b7180be018296c501a474e3dcb85] The marking, supply and distribution of tobacco supplied under the terms of these Regulations shall be in accordance with such conditions as may from time to time be prescribed by the Commissioners after consultation with the Admiralty.
+**5.**[^c-38e6b7180be018296c501a474e3dcb85] The marking, supply and distribution of tobacco supplied under the terms of these Regulations shall be in accordance with such conditions as may from time to time be prescribed by the Commissioners after consultation with the Admiralty.
 
 ## Control of dutiable liquor
 
-**6.**[^key-e79589e526265e778e1389c0989d05bb] The supply and distribution of dutiable liquor supplied under the terms of these Regulations shall be controlled by the Admiralty subject to the agreement of the Commissioners.
+**6.**[^c-e79589e526265e778e1389c0989d05bb] The supply and distribution of dutiable liquor supplied under the terms of these Regulations shall be controlled by the Admiralty subject to the agreement of the Commissioners.
 
 ## Goods to be treated as exported
 
-**7.**[^key-81d2489bd86f959fe9bed8302e025839] The goods specified in and supplied in accordance with Regulation 1 shall for all or any purposes of any customs or excise duty, drawback or allowance in respect of those goods be treated as exported, and a person supplying or intending to supply goods as aforesaid shall be treated accordingly as exporting or intending to export them, provided that all the conditions which may from time to time be prescribed by the Commissioners after consultation with the Admiralty in pursuance of section two hundred and seventy-two of the Customs and Excise Act, 1952, are duly complied with.
+**7.**[^c-81d2489bd86f959fe9bed8302e025839] The goods specified in and supplied in accordance with Regulation 1 shall for all or any purposes of any customs or excise duty, drawback or allowance in respect of those goods be treated as exported, and a person supplying or intending to supply goods as aforesaid shall be treated accordingly as exporting or intending to export them, provided that all the conditions which may from time to time be prescribed by the Commissioners after consultation with the Admiralty in pursuance of section two hundred and seventy-two of the Customs and Excise Act, 1952, are duly complied with.
 
 ## Time of exportation
 
-**8.**[^key-5bcf28078c4a413c363e8b7f9aa18238] The time of exportation of goods specified in Regulation 1 shall be deemed to be—
+**8.**[^c-5bcf28078c4a413c363e8b7f9aa18238] The time of exportation of goods specified in Regulation 1 shall be deemed to be—
 
 - (a) in the case of goods supplied direct to any of H.M. Ships of the classes specified in paragraphs (a) and (b) of Regulation 2, the time when the said goods are first received on board such ship, and
 - (b) in the case of goods supplied to the Admiralty, the time when the said goods are received for the first time in any naval victualling yard, depot or sub-depot in the United Kingdom.
 
 ## Adaptation of the customs and excise enactments
 
-**9.**[^key-d1a251d2a6ac2fe9d9cb71616e54ab43] The provisions of the Customs and Excise Act, 1952, so far as they are applicable, shall apply to goods supplied to H.M. Ships or to the Admiralty in accordance with these Regulations, with the following adaptations, namely—
+**9.**[^c-d1a251d2a6ac2fe9d9cb71616e54ab43] The provisions of the Customs and Excise Act, 1952, so far as they are applicable, shall apply to goods supplied to H.M. Ships or to the Admiralty in accordance with these Regulations, with the following adaptations, namely—
 
 - (a) In subsection (1) of section forty-seven, for the reference to goods to be shipped for exportation or as stores, or brought to any customs station for exportation, there shall be substituted a reference to goods supplied to H.M. Ships in accordance with regulations made under section two hundred and seventy-two, the expression “**exporter**” shall include a person so supplying such goods, and in sub -paragraph (b) of the said subsection the security to be given by the exporter to the satisfaction of the Commissioners shall, in lieu of the security mentioned in the said sub-paragraph, be security to the satisfaction of the Commissioners that all goods entered for supply to H.M. Ships shall be duly delivered to these ships, or that they will be otherwise accounted for to the satisfaction of the Commissioners;
 - (b) In section fifty-five, subsection (1) shall be adapted to read as follows:—
@@ -108,7 +108,7 @@ Provided that any tobacco taken on board any of H.M. Ships at any place outside 
 
 ## Definitions
 
-**10.**[^key-4fc82c2750872a44a1f91e285177af7a] In these Regulations unless the context otherwise requires each of the following expressions shall have the meaning hereby assigned to it:—
+**10.**[^c-4fc82c2750872a44a1f91e285177af7a] In these Regulations unless the context otherwise requires each of the following expressions shall have the meaning hereby assigned to it:—
 
 - “**Commissioners**” means the Commissioners of Customs and Excise;
 - “**food and drink**” means any article used as food or drink for human consumption other than drugs;
@@ -118,11 +118,11 @@ Provided that any tobacco taken on board any of H.M. Ships at any place outside 
 - “**Officers and men of the Royal Navy**” means serving officers and ratings of the Royal Navy and officers and ratings of the Royal Naval Reserve, Royal Naval Volunteer Reserve or other naval reserve when in actual service;
 - “**Officers and men of the Royal Marines**” means serving officers and men of the Royal Marines and officers and men of the Royal Marine Forces Volunteer Reserve or other Royal Marine reserve when in actual service.
 
-**11.**[^key-fa2dfaad3b8f74f272c336bf63cc8b7d] The Interpretation Act, 1889, shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
+**11.**[^c-fa2dfaad3b8f74f272c336bf63cc8b7d] The Interpretation Act, 1889, shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
 
-**12.**[^key-2ab0933aa1e5d5600f8b1399152ecd96] The Duty-free Suppliesfor the Royal Navy Regulations, 1951[^f00001], are hereby revoked.
+**12.**[^c-2ab0933aa1e5d5600f8b1399152ecd96] The Duty-free Suppliesfor the Royal Navy Regulations, 1951[^f00001], are hereby revoked.
 
-**13.**[^key-f72346cfa7420d5a0677131686bc302f] These Regulations may be cited as the Duty-Free Supplies for the Royal Navy Regulations, 1954, and shall come into operation on the first day of November, 1954.
+**13.**[^c-f72346cfa7420d5a0677131686bc302f] These Regulations may be cited as the Duty-Free Supplies for the Royal Navy Regulations, 1954, and shall come into operation on the first day of November, 1954.
 
 Dated this twenty-sixth day of October, 1954.
 
@@ -142,30 +142,30 @@ They replace and substantially re-enact, with minor modifications, the Duty-free
 
 ## Annotations
 
-[^key-4b96dbf3dabe40eea1a2330c0db9fff5]: Commencement: Reg. 1 in force at 1.11.1954
+[^c-4b96dbf3dabe40eea1a2330c0db9fff5]: Commencement: Reg. 1 in force at 1.11.1954
 
-[^key-794c616e5e05c3bdcb148e249aabb2e6]: Commencement: Reg. 2 in force at 1.11.1954
+[^c-794c616e5e05c3bdcb148e249aabb2e6]: Commencement: Reg. 2 in force at 1.11.1954
 
-[^key-d6ce7aadbcc8c578ee2f455396755164]: Commencement: Reg. 3 in force at 1.11.1954
+[^c-d6ce7aadbcc8c578ee2f455396755164]: Commencement: Reg. 3 in force at 1.11.1954
 
-[^key-5e8691df609522593250eb36ba5518f6]: Commencement: Reg. 4 in force at 1.11.1954
+[^c-5e8691df609522593250eb36ba5518f6]: Commencement: Reg. 4 in force at 1.11.1954
 
-[^key-38e6b7180be018296c501a474e3dcb85]: Commencement: Reg. 5 in force at 1.11.1954
+[^c-38e6b7180be018296c501a474e3dcb85]: Commencement: Reg. 5 in force at 1.11.1954
 
-[^key-e79589e526265e778e1389c0989d05bb]: Commencement: Reg. 6 in force at 1.11.1954
+[^c-e79589e526265e778e1389c0989d05bb]: Commencement: Reg. 6 in force at 1.11.1954
 
-[^key-81d2489bd86f959fe9bed8302e025839]: Commencement: Reg. 7 in force at 1.11.1954
+[^c-81d2489bd86f959fe9bed8302e025839]: Commencement: Reg. 7 in force at 1.11.1954
 
-[^key-5bcf28078c4a413c363e8b7f9aa18238]: Commencement: Reg. 8 in force at 1.11.1954
+[^c-5bcf28078c4a413c363e8b7f9aa18238]: Commencement: Reg. 8 in force at 1.11.1954
 
-[^key-d1a251d2a6ac2fe9d9cb71616e54ab43]: Commencement: Reg. 9 in force at 1.11.1954
+[^c-d1a251d2a6ac2fe9d9cb71616e54ab43]: Commencement: Reg. 9 in force at 1.11.1954
 
-[^key-4fc82c2750872a44a1f91e285177af7a]: Commencement: Reg. 10 in force at 1.11.1954
+[^c-4fc82c2750872a44a1f91e285177af7a]: Commencement: Reg. 10 in force at 1.11.1954
 
-[^key-fa2dfaad3b8f74f272c336bf63cc8b7d]: Commencement: Reg. 11 in force at 1.11.1954
+[^c-fa2dfaad3b8f74f272c336bf63cc8b7d]: Commencement: Reg. 11 in force at 1.11.1954
 
-[^key-2ab0933aa1e5d5600f8b1399152ecd96]: Commencement: Reg. 12 in force at 1.11.1954
+[^c-2ab0933aa1e5d5600f8b1399152ecd96]: Commencement: Reg. 12 in force at 1.11.1954
 
 [^f00001]: Footnote: (1951 I, p. 366).
 
-[^key-f72346cfa7420d5a0677131686bc302f]: Commencement: Reg. 13 in force at 1.11.1954
+[^c-f72346cfa7420d5a0677131686bc302f]: Commencement: Reg. 13 in force at 1.11.1954

@@ -25,10 +25,10 @@ summary: ''
 (2) In this Part—
 
 - “**the other parent**” means any person who is a parent of the child but is not one of the applicants or the woman who carried the child (including any man who is the father by virtue of section 35 or 36 of the 2008 Act or any woman who is a parent by virtue of section 42 or 43 of that Act);
-- “**parental order**” means an order under section 54 or section 54A[^key-ae5285726929b4cd7bcc56787c7e4f4a] of the 2008 Act;
+- “**parental order**” means an order under section 54 or section 54A[^c-ae5285726929b4cd7bcc56787c7e4f4a] of the 2008 Act;
 - “**parental order proceedings**” means proceedings for the making of a parental order under the 2008 Act or an order under any provision of the 2002 Act;
 - “**parental order reporter**” means an officer of the service or a Welsh family proceedings officer appointed to act on behalf of a child who is the subject of parental order proceedings;
-- “provision for contact” means—[^key-ed90765454f60b9972029cc7b77a6641]
+- “provision for contact” means—[^c-ed90765454f60b9972029cc7b77a6641]
   - (i) contact provision contained in a child arrangements order under section 8 of the 1989 Act, or
   - (ii) an order under section 34 of the 1989 Act;
 
@@ -38,19 +38,19 @@ summary: ''
 
 *Extent: E+W*
 
-Rules [^key-78a4bfc93d7ee5ae8dfa52efa6c6e201]... 12.19 and 12.21 apply as appropriate, with any necessary modifications, to parental order proceedings.
+Rules [^c-78a4bfc93d7ee5ae8dfa52efa6c6e201]... 12.19 and 12.21 apply as appropriate, with any necessary modifications, to parental order proceedings.
 
 ## 13.3. Who the parties are
 
 *Extent: E+W*
 
-(1) An application for a parental order under section 54 of the 2008 Act[^key-06f9a3ea082c99dd0dba51f2ef678c79] may be made by such of the following who satisfy the conditions set out in section 54(1) of the 2008 Act—
+(1) An application for a parental order under section 54 of the 2008 Act[^c-06f9a3ea082c99dd0dba51f2ef678c79] may be made by such of the following who satisfy the conditions set out in section 54(1) of the 2008 Act—
 
 - (a) a husband and wife;
 - (b) civil partners of each other; or
 - (c) two persons who are living as partners in an enduring family relationship and are not within the prohibited degrees of relationship in relation to each other.
 
-(1A)[^key-c7545f1e3ef656b304f4c79e5fb732a4] An application for a parental order under section 54A of the 2008 Act may only be made by one person who satisfies the conditions set out in subsection (1) of that section.
+(1A)[^c-c7545f1e3ef656b304f4c79e5fb732a4] An application for a parental order under section 54A of the 2008 Act may only be made by one person who satisfies the conditions set out in subsection (1) of that section.
 
 (2) The respondents to an application for a parental order are—
 
@@ -143,7 +143,7 @@ Unless the court directs otherwise, the first directions hearing must be within 
 - (b) give directions relating to the report of the parental order reporter and other evidence;
 - (c) consider whether any other person should be a party to the proceedings and, if so, give directions in accordance with rule 13.3(3) or (4) joining that person as a party;
 - (d) give directions relating to the appointment of a litigation friend for any protected party unless a litigation friend has already been appointed;
-- (e)[^key-5c1f1fadab9933338269bf82236f8a57] consider, in accordance with rule 29.17, whether the case needs to be transferred to another court and, if so, give appropriate directions;
+- (e)[^c-5c1f1fadab9933338269bf82236f8a57] consider, in accordance with rule 29.17, whether the case needs to be transferred to another court and, if so, give appropriate directions;
 - (f) give directions about—
   - (i) tracing the other parent or the woman who carried the child;
   - (ii) service of documents;
@@ -265,7 +265,7 @@ A court officer will give notice to the parties and to the parental order report
 
 (5) Where the child's place of birth cannot be proved to the satisfaction of the court—
 
-- (a) the child may be treated as having been born in the registration district and sub-district in which the court is sitting[^key-91aa1b8fceeae33222c06df0bb17cb8b] where it is probable that the child may have been born in—
+- (a) the child may be treated as having been born in the registration district and sub-district in which the court is sitting[^c-91aa1b8fceeae33222c06df0bb17cb8b] where it is probable that the child may have been born in—
   - (i) the United Kingdom;
   - (ii) the Channel Islands; or
   - (iii) the Isle of Man; or
@@ -290,7 +290,7 @@ A court officer will give notice to the parties and to the parental order report
 
 *Extent: E+W*
 
-(1)[^key-ad58fa6297414ecd164a38a5ecef02b6] An application for any of the orders referred to in section 41(2) of the 2002 Act (recovery orders) may be made without notice, in which case the applicant must file the application—
+(1)[^c-ad58fa6297414ecd164a38a5ecef02b6] An application for any of the orders referred to in section 41(2) of the 2002 Act (recovery orders) may be made without notice, in which case the applicant must file the application—
 
 - (a) where the application is made by telephone, the next business day after the making of the application; or
 - (b) in any other case, at the time when the application is made.
@@ -309,9 +309,9 @@ A court officer will give notice to the parties and to the parental order report
 
 *Extent: E+W*
 
-(1)[^key-fc7996ca2e8047f5e2abda316ad7e9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fc7996ca2e8047f5e2abda316ad7e9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) All documents relating to parental order proceedings and related proceedings under the 2002 Act [^key-d8e2b2ecffd3eea3bd3eb326c7bbb723]... must, while they are in the custody of the court, be kept in a place of special security.
+(2) All documents relating to parental order proceedings and related proceedings under the 2002 Act [^c-d8e2b2ecffd3eea3bd3eb326c7bbb723]... must, while they are in the custody of the court, be kept in a place of special security.
 
 (3) Any person who obtains any information in the course of, or relating to, parental order proceedings must treat that information as confidential and must only disclose it if—
 
@@ -368,13 +368,13 @@ Subject to the provisions of these rules, any practice direction or any directio
 
 (1) This rule applies to an application under paragraph 4 of Schedule 1 to the 2002 Act (amendment of a parental order and revocation of direction).
 
-(2)[^key-eae9a6578faddc3b3b4dba78aa41f87c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eae9a6578faddc3b3b4dba78aa41f87c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subject to paragraph (4), an application may be made without serving a copy of the application notice.
 
 (4) The court may direct that an application notice be served on such persons as it thinks fit.
 
-(5) Where the court makes an order granting the application, a court officer[^key-f3c98fe06f3404759f422a8c0428bd37] shall send the Registrar General a notice—
+(5) Where the court makes an order granting the application, a court officer[^c-f3c98fe06f3404759f422a8c0428bd37] shall send the Registrar General a notice—
 
 - (a) specifying the amendments; or
 - (b) informing the Registrar General of the revocation,
@@ -383,26 +383,26 @@ giving sufficient particulars of the order to enable the Registrar General to id
 
 ## Annotations
 
-[^key-ae5285726929b4cd7bcc56787c7e4f4a]: Textual amendment: Words in [rule 13.1(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/13.1/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/3)
+[^c-ae5285726929b4cd7bcc56787c7e4f4a]: Textual amendment: Words in [rule 13.1(2)](https://www.legislation.gov.uk/uksi/2010/2955/rule/13.1/2) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/3)
 
-[^key-ed90765454f60b9972029cc7b77a6641]: Textual amendment: Words in rule 13.1(2) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [30](https://www.legislation.gov.uk/uksi/2014/843/rule/30)
+[^c-ed90765454f60b9972029cc7b77a6641]: Textual amendment: Words in rule 13.1(2) substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [30](https://www.legislation.gov.uk/uksi/2014/843/rule/30)
 
-[^key-78a4bfc93d7ee5ae8dfa52efa6c6e201]: Textual amendment: Words in rule 13.2 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [53](https://www.legislation.gov.uk/uksi/2013/3204/rule/53) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-78a4bfc93d7ee5ae8dfa52efa6c6e201]: Textual amendment: Words in rule 13.2 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [53](https://www.legislation.gov.uk/uksi/2013/3204/rule/53) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-06f9a3ea082c99dd0dba51f2ef678c79]: Textual amendment: Words in [rule 13.3(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/13.3/1) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/4)
+[^c-06f9a3ea082c99dd0dba51f2ef678c79]: Textual amendment: Words in [rule 13.3(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/13.3/1) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/4)
 
-[^key-c7545f1e3ef656b304f4c79e5fb732a4]: Textual amendment: [Rule 13.3(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/13.3/1A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/5)
+[^c-c7545f1e3ef656b304f4c79e5fb732a4]: Textual amendment: [Rule 13.3(1A)](https://www.legislation.gov.uk/uksi/2010/2955/rule/13.3/1A) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 4(5)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/4/5)
 
-[^key-5c1f1fadab9933338269bf82236f8a57]: Textual amendment: Rule 13.9(1)(e) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [54](https://www.legislation.gov.uk/uksi/2013/3204/rule/54) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-5c1f1fadab9933338269bf82236f8a57]: Textual amendment: Rule 13.9(1)(e) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [54](https://www.legislation.gov.uk/uksi/2013/3204/rule/54) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-91aa1b8fceeae33222c06df0bb17cb8b]: Textual amendment: Words in rule 13.15(5)(a) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [55](https://www.legislation.gov.uk/uksi/2013/3204/rule/55) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-91aa1b8fceeae33222c06df0bb17cb8b]: Textual amendment: Words in rule 13.15(5)(a) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [55](https://www.legislation.gov.uk/uksi/2013/3204/rule/55) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-ad58fa6297414ecd164a38a5ecef02b6]: Textual amendment: Rule 13.17(1) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [56](https://www.legislation.gov.uk/uksi/2013/3204/rule/56) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-ad58fa6297414ecd164a38a5ecef02b6]: Textual amendment: Rule 13.17(1) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [56](https://www.legislation.gov.uk/uksi/2013/3204/rule/56) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-fc7996ca2e8047f5e2abda316ad7e9e6]: Textual amendment: Rule 13.18(1) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [57(a)](https://www.legislation.gov.uk/uksi/2013/3204/rule/57/a) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-fc7996ca2e8047f5e2abda316ad7e9e6]: Textual amendment: Rule 13.18(1) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [57(a)](https://www.legislation.gov.uk/uksi/2013/3204/rule/57/a) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-d8e2b2ecffd3eea3bd3eb326c7bbb723]: Textual amendment: Words in rule 13.18(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [57(b)](https://www.legislation.gov.uk/uksi/2013/3204/rule/57/b) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-d8e2b2ecffd3eea3bd3eb326c7bbb723]: Textual amendment: Words in rule 13.18(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [57(b)](https://www.legislation.gov.uk/uksi/2013/3204/rule/57/b) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-eae9a6578faddc3b3b4dba78aa41f87c]: Textual amendment: Rule 13.22(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [58(a)](https://www.legislation.gov.uk/uksi/2013/3204/rule/58/a) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-eae9a6578faddc3b3b4dba78aa41f87c]: Textual amendment: Rule 13.22(2) omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [58(a)](https://www.legislation.gov.uk/uksi/2013/3204/rule/58/a) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-f3c98fe06f3404759f422a8c0428bd37]: Textual amendment: Words in rule 13.22(5) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [58(b)](https://www.legislation.gov.uk/uksi/2013/3204/rule/58/b) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-f3c98fe06f3404759f422a8c0428bd37]: Textual amendment: Words in rule 13.22(5) substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [58(b)](https://www.legislation.gov.uk/uksi/2013/3204/rule/58/b) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

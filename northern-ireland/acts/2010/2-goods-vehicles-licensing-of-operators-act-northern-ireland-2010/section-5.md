@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Maximum numbers of vehicles[^key-3164d2d80e41ff615955f8e9b2037b4d]
+## 5. Maximum numbers of vehicles[^c-3164d2d80e41ff615955f8e9b2037b4d]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3164d2d80e41ff615955f8e9b2037b4d]: Commencement: S. 5 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-3164d2d80e41ff615955f8e9b2037b4d]: Commencement: S. 5 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

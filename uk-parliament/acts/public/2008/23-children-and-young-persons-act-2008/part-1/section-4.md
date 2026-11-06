@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Regulation of providers of social work services[^key-b6aec4b4381cada7a855e9c69a384abb]
+## 4. Regulation of providers of social work services[^c-b6aec4b4381cada7a855e9c69a384abb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6aec4b4381cada7a855e9c69a384abb]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2008/23/section/4) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 93(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/93/2/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(q)](https://www.legislation.gov.uk/uksi/2015/994/article/6/q)
+[^c-b6aec4b4381cada7a855e9c69a384abb]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2008/23/section/4) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 93(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/93/2/b), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(q)](https://www.legislation.gov.uk/uksi/2015/994/article/6/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Construction of bridges[^key-e23d6fa4a5d279f2073b47b1957abb55]
+## 17. Construction of bridges[^c-e23d6fa4a5d279f2073b47b1957abb55]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any bridge to be constructed or reconstructed under this Order for carrying a hi
 
 ## Annotations
 
-[^key-e23d6fa4a5d279f2073b47b1957abb55]: Commencement: Art. 17 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-e23d6fa4a5d279f2073b47b1957abb55]: Commencement: Art. 17 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

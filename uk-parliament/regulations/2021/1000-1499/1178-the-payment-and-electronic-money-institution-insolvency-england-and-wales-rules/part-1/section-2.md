@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Commencement[^key-fb392923482c3c8504e7bec99e550113]
+## 2. Commencement[^c-fb392923482c3c8504e7bec99e550113]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules come into force on 12th November 2021.
 
 ## Annotations
 
-[^key-fb392923482c3c8504e7bec99e550113]: Commencement: Rule 2 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-fb392923482c3c8504e7bec99e550113]: Commencement: Rule 2 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

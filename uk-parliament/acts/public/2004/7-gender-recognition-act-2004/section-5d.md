@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5D. Protected Scottish civil partnership: power to make further provision for issue of full certificate[^key-06ed41607177cd0801f91b6590890da0]
+## 5D. Protected Scottish civil partnership: power to make further provision for issue of full certificate[^c-06ed41607177cd0801f91b6590890da0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06ed41607177cd0801f91b6590890da0]: Textual amendment: [S. 5D](https://www.legislation.gov.uk/ukpga/2004/7/section/5D) repealed (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(11)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/11); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-06ed41607177cd0801f91b6590890da0]: Textual amendment: [S. 5D](https://www.legislation.gov.uk/ukpga/2004/7/section/5D) repealed (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 5(11)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/5/11); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))

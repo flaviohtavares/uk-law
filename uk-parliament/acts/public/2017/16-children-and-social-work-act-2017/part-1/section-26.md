@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Funding[^key-ccd917885ce0d3b7b0dbce7e7e8ca8ce]
+## 26. Funding[^c-ccd917885ce0d3b7b0dbce7e7e8ca8ce]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ After section 16N of the Children Act 2004 (inserted by section 25 of this Act) 
 
 ## Annotations
 
-[^key-ccd917885ce0d3b7b0dbce7e7e8ca8ce]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/16/section/26) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/o)
+[^c-ccd917885ce0d3b7b0dbce7e7e8ca8ce]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/16/section/26) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/o)

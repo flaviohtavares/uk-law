@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Information: payments to personal representatives[^key-99a19a8d12be91eadccc36633cad82fe]
+## 57. Information: payments to personal representatives[^c-99a19a8d12be91eadccc36633cad82fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ for the purposes of any matter connected with the making of payments to personal
 
 ## Annotations
 
-[^key-99a19a8d12be91eadccc36633cad82fe]: Commencement: S. 57 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-99a19a8d12be91eadccc36633cad82fe]: Commencement: S. 57 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

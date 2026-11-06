@@ -35,64 +35,64 @@ on establishing an information exchange mechanism with regard to intergovernment
 
 (Text with EEA relevance) (revoked)
 
-[^key-135e568f4329d995bf5dfe4e8007d4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-135e568f4329d995bf5dfe4e8007d4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 1. Subject matter and scope[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 2. Definitions[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Notification obligations with respect to intergovernmental agreements[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 3. Notification obligations with respect to intergovernmental agreements[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Assistance from the Commission[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 4. Assistance from the Commission[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Assessment by the Commission[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 5. Assessment by the Commission[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Notification obligations and assessment by the Commission with respect to existing intergovernmental agreements and to new intergovernmental agreements relating to electricity[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 6. Notification obligations and assessment by the Commission with respect to existing intergovernmental agreements and to new intergovernmental agreements relating to electricity[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Notification with respect to non-binding instruments[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 7. Notification with respect to non-binding instruments[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transparency and confidentiality[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 8. Transparency and confidentiality[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Coordination among Member States[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 9. Coordination among Member States[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Reporting and review[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 10. Reporting and review[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Repeal[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 11. Repeal[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 12. Entry into force[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Addressees[^key-135e568f4329d995bf5dfe4e8007d4b7]
+## Article 13. Addressees[^c-135e568f4329d995bf5dfe4e8007d4b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-135e568f4329d995bf5dfe4e8007d4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-135e568f4329d995bf5dfe4e8007d4b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-135e568f4329d995bf5dfe4e8007d4b7]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-135e568f4329d995bf5dfe4e8007d4b7]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

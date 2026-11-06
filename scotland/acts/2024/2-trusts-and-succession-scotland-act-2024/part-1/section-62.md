@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Arrangements to vary or revoke alimentary purposes[^key-47d25c2ea321d5726d95da8c37ca3633]
+## 62. Arrangements to vary or revoke alimentary purposes[^c-47d25c2ea321d5726d95da8c37ca3633]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the trust property, or any part of the trust property, an arrangement to vary or
 
 ## Annotations
 
-[^key-47d25c2ea321d5726d95da8c37ca3633]: Commencement: S. 62 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-47d25c2ea321d5726d95da8c37ca3633]: Commencement: S. 62 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

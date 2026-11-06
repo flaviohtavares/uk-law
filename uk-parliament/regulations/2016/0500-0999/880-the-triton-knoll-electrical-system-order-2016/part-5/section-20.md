@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^key-54654cd19d1860c8a7a52f836e74b7f1]
+## 20. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^c-54654cd19d1860c8a7a52f836e74b7f1]
 
 *Extent: E+W+S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54654cd19d1860c8a7a52f836e74b7f1]: Commencement: Art. 20 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-54654cd19d1860c8a7a52f836e74b7f1]: Commencement: Art. 20 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00033]: Footnote: Section 125 was amended by paragraph 17 of Schedule 16 to the Housing and Planning Act 2016.

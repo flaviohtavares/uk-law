@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Surviving spouses’ and civil partners’ pensions[^key-8e065a618bbb9f6e773df95b7bc4f5e0]
+## 65. Surviving spouses’ and civil partners’ pensions[^c-8e065a618bbb9f6e773df95b7bc4f5e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ if the member’s service had ceased on the date of death otherwise than by reas
 
 ## Annotations
 
-[^key-8e065a618bbb9f6e773df95b7bc4f5e0]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2014/2336/regulation/65) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-8e065a618bbb9f6e773df95b7bc4f5e0]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2014/2336/regulation/65) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

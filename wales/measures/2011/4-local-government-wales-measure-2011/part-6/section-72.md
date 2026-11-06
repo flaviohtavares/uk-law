@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Changes in composition of executive[^key-dec74568af3caf51aad2d105208574da]
+## 72. Changes in composition of executive[^c-dec74568af3caf51aad2d105208574da]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ and it is not the case set out in section 70.
 
 ## Annotations
 
-[^key-dec74568af3caf51aad2d105208574da]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/4/section/72) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-dec74568af3caf51aad2d105208574da]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/4/section/72) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

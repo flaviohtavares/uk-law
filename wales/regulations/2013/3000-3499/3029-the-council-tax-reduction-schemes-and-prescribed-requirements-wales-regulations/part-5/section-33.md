@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Provision for persons who are not pensioners[^key-e61ae67339a623cbe129dc11bada9196]
+## 33. Provision for persons who are not pensioners[^c-e61ae67339a623cbe129dc11bada9196]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e61ae67339a623cbe129dc11bada9196]: Commencement: Reg. 33 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e61ae67339a623cbe129dc11bada9196]: Commencement: Reg. 33 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

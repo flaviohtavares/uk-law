@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Appeals[^key-d35b123fce3368ad928bbd771a7ec8d2]
+## 12. Appeals[^c-d35b123fce3368ad928bbd771a7ec8d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A regulator must provide a right of appeal for an applicant against its—
 
 ## Annotations
 
-[^key-d35b123fce3368ad928bbd771a7ec8d2]: Commencement: Reg. 12 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-d35b123fce3368ad928bbd771a7ec8d2]: Commencement: Reg. 12 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

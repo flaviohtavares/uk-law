@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — Water Industry Commission for Scotland[^key-bc048865cbb6b12dde94259f903005b0][^key-975bb98d1691bb1c770a9497fba90763]
+## SCHEDULE 1 — Water Industry Commission for Scotland[^c-bc048865cbb6b12dde94259f903005b0][^c-975bb98d1691bb1c770a9497fba90763]
 
 *Extent: S*
 
@@ -205,6 +205,6 @@ Before schedule 1 (the Commissioner and Customer Panels) to the 2002 Act there i
 
 ## Annotations
 
-[^key-bc048865cbb6b12dde94259f903005b0]: Commencement: Sch. 1 in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-bc048865cbb6b12dde94259f903005b0]: Commencement: Sch. 1 in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
 
-[^key-975bb98d1691bb1c770a9497fba90763]: Commencement: Sch. 1 in force at 1.7.2005 in so far as not already in force by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-975bb98d1691bb1c770a9497fba90763]: Commencement: Sch. 1 in force at 1.7.2005 in so far as not already in force by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

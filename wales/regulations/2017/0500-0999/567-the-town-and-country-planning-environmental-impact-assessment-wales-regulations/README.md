@@ -43,7 +43,7 @@ Coming into force
 
 16 May 2017
 
-The Welsh Ministers being designated for the purposes of section 2(2) of the European Communities Act 1972 [^c23311101] in relation to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, insofar as it concerns town and country planning [^c23311111], in exercise of the powers conferred by that section, section 71A of the Town and Country Planning Act 1990 [^c23311121], and having taken into account the selection criteria in Annex III to Directive 2011/92/EU [^c23311131] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23311141], make the following Regulations.[^key-76cc86a449449f0a3c233361f09f32b3]
+The Welsh Ministers being designated for the purposes of section 2(2) of the European Communities Act 1972 [^c23311101] in relation to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, insofar as it concerns town and country planning [^c23311111], in exercise of the powers conferred by that section, section 71A of the Town and Country Planning Act 1990 [^c23311121], and having taken into account the selection criteria in Annex III to Directive 2011/92/EU [^c23311131] of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment [^c23311141], make the following Regulations.[^c-76cc86a449449f0a3c233361f09f32b3]
 
 ## Contents
 
@@ -64,7 +64,7 @@ The Welsh Ministers being designated for the purposes of section 2(2) of the Eur
 - [Section 6 — Requests for screening opinions](part-2/section-6.md)
 - [Section 7 — Requests for screening directions of the Welsh Ministers](part-2/section-7.md)
 
-### PART 3 — Procedures Concerning Applications for Planning Permission and Subsequent Applications[^key-e703f5149d1cb77e219cfeeb5f921722]
+### PART 3 — Procedures Concerning Applications for Planning Permission and Subsequent Applications[^c-e703f5149d1cb77e219cfeeb5f921722]
 
 *Extent: E+W*
 
@@ -111,7 +111,7 @@ The Welsh Ministers being designated for the purposes of section 2(2) of the Eur
 - [Section 28 — Information to accompany decisions](part-7/section-28.md)
 - [Section 29 — Duties to inform the public and the Welsh Ministers of final decisions](part-7/section-29.md)
 
-### PART 8 — Applications for planning permission or infrastructure consent made to the Welsh Ministers[^key-b345a443a5663aafb16178022aef12df]
+### PART 8 — Applications for planning permission or infrastructure consent made to the Welsh Ministers[^c-b345a443a5663aafb16178022aef12df]
 
 *Extent: E+W*
 
@@ -273,11 +273,11 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^c23311141]: Marginal citation: O.J. No. L 26, 28.1.2012, p. 1. The Directive has been amended by Directive 2014/52/EU of the European Parliament and of the Council O.J. No. L 124, 25.4.2014, p. 1. *See* in particular Article 3(1).
 
-[^key-76cc86a449449f0a3c233361f09f32b3]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-76cc86a449449f0a3c233361f09f32b3]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-e703f5149d1cb77e219cfeeb5f921722]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/wsi/2017/567/part/3) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(10)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/10) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-e703f5149d1cb77e219cfeeb5f921722]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/wsi/2017/567/part/3) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(10)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/10) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
 
-[^key-b345a443a5663aafb16178022aef12df]: Textual amendment: Words in [Pt. 8](https://www.legislation.gov.uk/wsi/2017/567/part/8) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(28)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/28) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-b345a443a5663aafb16178022aef12df]: Textual amendment: Words in [Pt. 8](https://www.legislation.gov.uk/wsi/2017/567/part/8) heading inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(28)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/28) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
 
 [^c23311891]: Marginal citation: [S.I. 2016/58](https://www.legislation.gov.uk/uksi/2016/58) (W. 28).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Vacant seats[^key-9c1912d8f19b55825adc6aadca496aba]
+## 9. Vacant seats[^c-9c1912d8f19b55825adc6aadca496aba]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c1912d8f19b55825adc6aadca496aba]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2024/4/section/9) in force at 24.8.2024, see [s. 25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b)
+[^c-9c1912d8f19b55825adc6aadca496aba]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2024/4/section/9) in force at 24.8.2024, see [s. 25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b)

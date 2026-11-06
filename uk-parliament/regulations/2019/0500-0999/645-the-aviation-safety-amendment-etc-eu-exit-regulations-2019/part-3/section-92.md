@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendment of Article 12 of Regulation (EU) No 2018/1139[^key-7d45a35d432f6f31b934cfd1e233f05b]
+## 92. Amendment of Article 12 of Regulation (EU) No 2018/1139[^c-7d45a35d432f6f31b934cfd1e233f05b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In Article 12 (design of parts)—
 
 ## Annotations
 
-[^key-7d45a35d432f6f31b934cfd1e233f05b]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7d45a35d432f6f31b934cfd1e233f05b]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

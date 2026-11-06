@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Filing and service of application[^key-877e952282f43ae49a1052659d34530a]
+## 96. Filing and service of application[^c-877e952282f43ae49a1052659d34530a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ and any such application may be heard on terms providing for the filing or servi
 
 ## Annotations
 
-[^key-877e952282f43ae49a1052659d34530a]: Commencement: Rule 96 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-877e952282f43ae49a1052659d34530a]: Commencement: Rule 96 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

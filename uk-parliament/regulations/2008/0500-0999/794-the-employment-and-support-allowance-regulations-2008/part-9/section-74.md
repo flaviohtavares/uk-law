@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where—
 
-- (a) a claimant[^key-5f6ea0ad2081d75811d94ca13b40ac14] is entitled to a contributory allowance in respect of any period of a week or part of a week;
+- (a) a claimant[^c-5f6ea0ad2081d75811d94ca13b40ac14] is entitled to a contributory allowance in respect of any period of a week or part of a week;
 - (b) there is—
   - (i) a pension payment;
   - (ii) a PPF periodic payment; or
@@ -39,4 +39,4 @@ the amount of that allowance is to be reduced by an amount equal to 50% of the e
 
 ## Annotations
 
-[^key-5f6ea0ad2081d75811d94ca13b40ac14]: Textual amendment: Words in reg. 74(1)(a) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/7/2)
+[^c-5f6ea0ad2081d75811d94ca13b40ac14]: Textual amendment: Words in reg. 74(1)(a) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/7/2)

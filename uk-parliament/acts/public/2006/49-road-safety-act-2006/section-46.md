@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Extension to Scotland and Northern Ireland[^key-847fc02b7f8bece59a266e53e5a14832]
+## 46. Extension to Scotland and Northern Ireland[^c-847fc02b7f8bece59a266e53e5a14832]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-847fc02b7f8bece59a266e53e5a14832]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/49/section/46) in force at 31.7.2008 by [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1864/article/3))
+[^c-847fc02b7f8bece59a266e53e5a14832]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/49/section/46) in force at 31.7.2008 by [S.I. 2008/1864](https://www.legislation.gov.uk/uksi/2008/1864), [art. 2](https://www.legislation.gov.uk/uksi/2008/1864/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1864/article/3))

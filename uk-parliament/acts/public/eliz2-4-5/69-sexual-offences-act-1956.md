@@ -41,19 +41,19 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 1. Rape of woman or man.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 1. Rape of woman or man.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Procurement of woman by threats.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 2. Procurement of woman by threats.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Procurement of woman by false pretences.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 3. Procurement of woman by false pretences.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Administering drugs to obtain or facilitate intercourse.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 4. Administering drugs to obtain or facilitate intercourse.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -61,11 +61,11 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 5. Intercourse with girl under thirteen.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 5. Intercourse with girl under thirteen.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Intercourse with girl between thirteen and sixteen.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 6. Intercourse with girl between thirteen and sixteen.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -73,13 +73,13 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 7. Intercourse with defective.[^key-184eb3fa87091cf69a37d9269d0b977a]
+#### 7. Intercourse with defective.[^c-184eb3fa87091cf69a37d9269d0b977a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c647565]
 
-#### 9. Procurement of defective.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 9. Procurement of defective.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,11 +87,11 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 10. Incest by a man.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 10. Incest by a man.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Incest by a woman.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 11. Incest by a woman.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,11 +99,11 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 12. Buggery.[^key-70e7c5e1acc0521a2cf374234e578036][^c647572]
+#### 12. Buggery.[^c-70e7c5e1acc0521a2cf374234e578036][^c647572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Indecency between men.[^key-70e7c5e1acc0521a2cf374234e578036][^c647584][^c647583]
+#### 13. Indecency between men.[^c-70e7c5e1acc0521a2cf374234e578036][^c647584][^c647583]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -111,15 +111,15 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 14. Indecent assault on a woman.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 14. Indecent assault on a woman.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Indecent assault on a man.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 15. Indecent assault on a man.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Assault with intent to commit buggery.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 16. Assault with intent to commit buggery.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -127,21 +127,21 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 17. Abduction of woman by force or for the sake of her property.[^key-70e7c5e1acc0521a2cf374234e578036]
+#### 17. Abduction of woman by force or for the sake of her property.[^c-70e7c5e1acc0521a2cf374234e578036]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c647591]
 
-#### 19. Abduction of unmarried girl under eighteen from parent or guardian.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 19. Abduction of unmarried girl under eighteen from parent or guardian.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Abduction of unmarried girl under sixteen from parent or guardian.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 20. Abduction of unmarried girl under sixteen from parent or guardian.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Abduction of defective from parent or guardian.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 21. Abduction of defective from parent or guardian.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -149,43 +149,43 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 22. Causing prostitution of women.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 22. Causing prostitution of women.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Procuration of girl under twenty-one.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 23. Procuration of girl under twenty-one.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Detention of woman in brothel or other premises.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 24. Detention of woman in brothel or other premises.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Permitting girl under thirteen to use premises for intercourse.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 25. Permitting girl under thirteen to use premises for intercourse.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Permitting girl between thirteen and sixteen to use premises for intercourse.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 26. Permitting girl between thirteen and sixteen to use premises for intercourse.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Permitting defective to use premises for intercourse.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 27. Permitting defective to use premises for intercourse.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl under sixteen.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 28. Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl under sixteen.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 29. Causing or encouraging prostitution of defective.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 29. Causing or encouraging prostitution of defective.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 30. Man living on earnings of prostitution.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 30. Man living on earnings of prostitution.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Woman exercising control over prostitute.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 31. Woman exercising control over prostitute.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -193,7 +193,7 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 *Extent: E+W*
 
-#### 32. Solicitation by men.[^key-41a11945de2e0bee61229d524c99f32a]
+#### 32. Solicitation by men.[^c-41a11945de2e0bee61229d524c99f32a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ An Act to consolidate (with corrections and improvements made under the Consolid
 
 It is an offence for a person to keep a brothel, or to manage, or act or assist in the management of, a brothel.
 
-#### 33A. Keeping a brothel used for prostitution[^key-27f60519668d049861881c47e5d04d8b]
+#### 33A. Keeping a brothel used for prostitution[^c-27f60519668d049861881c47e5d04d8b]
 
 (1) It is an offence for a person to keep, or to manage, or act or assist in the management of, a brothel to which people resort for practices involving prostitution (whether or not also for other practices).
 
@@ -219,20 +219,20 @@ It is an offence for the lessor or landlord of any premises or his agent to let 
 
 (1) It is an offence for the tenant or occupier, or person in charge, of any premises knowingly to permit the whole or part of the premises to be used as a brothel.
 
-(2) Where the tenant or occupier of any premises is convicted [^key-e792f46fe09f9fe5eb634c4f44975919]... of knowingly permitting the whole or part of the premises to be used as a brothel, the First Schedule to this Act shall apply to enlarge the rights of the lessor or landlord with respect to the assignment or determination of the lease or other contract under which the premises are held by the person convicted.
+(2) Where the tenant or occupier of any premises is convicted [^c-e792f46fe09f9fe5eb634c4f44975919]... of knowingly permitting the whole or part of the premises to be used as a brothel, the First Schedule to this Act shall apply to enlarge the rights of the lessor or landlord with respect to the assignment or determination of the lease or other contract under which the premises are held by the person convicted.
 
-(3) Where the tenant or occupier of any premises is so convicted, [^key-3eab4867def3be3f0d4ee01baeb203cc]... and either—
+(3) Where the tenant or occupier of any premises is so convicted, [^c-3eab4867def3be3f0d4ee01baeb203cc]... and either—
 
 - (a) the lessor or landlord, after having the conviction brought to his notice, fails or failed to exercise his statutory rights in relation to the lease or contract under which the premises are or were held by the person convicted; or
 - (b) The lessor or landlord, after exercising his statutory rights so as to determine that lease or contract, grants or granted a new lease or enters or entered into a new contract of tenancy of the premises to, with or for the benefit of the same person, without having all reasonable provisions to prevent the recurrence of the offence inserted in the new lease or contract;
 
 then, if subsequently an offence under this section is committed in respect of the premises during the subsistence of the lease or contract referred to in paragraph (*a*) of this subsection or (where paragraph (*b*) applies) during the subsistence of the new lease or contract, the lessor or landlord shall be deemed to be a party to that offence unless he shows that he took all reasonable steps to prevent the recurrence of the offence.
 
-References in this subsection to the statutory rights of a lessor or landlord refer to his rights under the First Schedule to this Act [^key-3eab4867def3be3f0d4ee01baeb203cc]....
+References in this subsection to the statutory rights of a lessor or landlord refer to his rights under the First Schedule to this Act [^c-3eab4867def3be3f0d4ee01baeb203cc]....
 
 #### 36. Tenant permitting premises to be used for prostitution.
 
-It is an offence for the tenant or occupier of any premises knowingly to permit the whole or part of the premises to be used for the purposes of habitual prostitution. (whether any prostitute involved is male or female)[^key-b87041e309247b3bdc447cbf22647c53]
+It is an offence for the tenant or occupier of any premises knowingly to permit the whole or part of the premises to be used for the purposes of habitual prostitution. (whether any prostitute involved is male or female)[^c-b87041e309247b3bdc447cbf22647c53]
 
 ### Powers and procedure for dealing with offenders
 
@@ -270,15 +270,15 @@ It is an offence for the tenant or occupier of any premises knowingly to permit 
 
 #### 40. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c647628]
 
-#### 41. Power of arrest in cases of trading in prostitution, or of soliciting by men.[^key-746fab1076a4bd609f5e4090762411e5]
+#### 41. Power of arrest in cases of trading in prostitution, or of soliciting by men.[^c-746fab1076a4bd609f5e4090762411e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 42. Power of search in case of man living on earnings of prostitution.[^key-746fab1076a4bd609f5e4090762411e5]
+#### 42. Power of search in case of man living on earnings of prostitution.[^c-746fab1076a4bd609f5e4090762411e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 43. Power to search for and remove woman detained for immoral purposes.[^key-746fab1076a4bd609f5e4090762411e5]
+#### 43. Power to search for and remove woman detained for immoral purposes.[^c-746fab1076a4bd609f5e4090762411e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -286,23 +286,23 @@ It is an offence for the tenant or occupier of any premises knowingly to permit 
 
 *Extent: E+W*
 
-#### 44. Meaning of “sexual intercourse”.[^key-746fab1076a4bd609f5e4090762411e5]
+#### 44. Meaning of “sexual intercourse”.[^c-746fab1076a4bd609f5e4090762411e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 45. Meaning of “defective”.[^key-746fab1076a4bd609f5e4090762411e5]
+#### 45. Meaning of “defective”.[^c-746fab1076a4bd609f5e4090762411e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Use of words “man”, “boy”, “woman” and “girl”.[^key-746fab1076a4bd609f5e4090762411e5][^c647643]
+#### 46. Use of words “man”, “boy”, “woman” and “girl”.[^c-746fab1076a4bd609f5e4090762411e5][^c647643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46A. Meaning of parental responsibility.[^key-746fab1076a4bd609f5e4090762411e5][^c647645]
+#### 46A. Meaning of parental responsibility.[^c-746fab1076a4bd609f5e4090762411e5][^c647645]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 47. Proof of exceptions.[^key-746fab1076a4bd609f5e4090762411e5]
+#### 47. Proof of exceptions.[^c-746fab1076a4bd609f5e4090762411e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -338,7 +338,7 @@ The enactments mentioned in the first column of the Third Schedule to this Act s
 
 (1) Nothing in this Act shall affect any previous enactment in its operation in relation to offences under any such enactment committed or partly committed before the commencement of this Act, or in relation to anything done before that commencement under the authority or for the purposes of any such enactment:
 
-[^key-82e672be21b1267fb36f22e0fd3955f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82e672be21b1267fb36f22e0fd3955f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to the provisions of this Act, and in particular to those of the Third Schedule, any reference in any document to an enactment repealed by this Act shall be construed as referring, or as including a reference, to the corresponding provision of this Act, so far as may be necessary to prevent this Act altering the substantial effect of the document.
 
@@ -382,7 +382,7 @@ Section 35.
 
 ### permitting use of premises as Brothel
 
-**1.** Upon the conviction of the tenant or occupier (in this Schedule referred to as “**the tenant**”), the lessor or landlord may require the tenant to assign or transfer[^key-eac0bd8accba05a8294240f6c1ef0582] the lease or other contract under which the premises are held by him to some person approved by the lessor or landlord.
+**1.** Upon the conviction of the tenant or occupier (in this Schedule referred to as “**the tenant**”), the lessor or landlord may require the tenant to assign or transfer[^c-eac0bd8accba05a8294240f6c1ef0582] the lease or other contract under which the premises are held by him to some person approved by the lessor or landlord.
 
 **2.** If the tenant fails to do so within three months, the lessor or landlord may determine the lease or contract (but without prejudice to the rights or remedies of any party thereto accrued before the date of the determination).
 
@@ -402,12 +402,12 @@ Section 37.
 
 | Offence | Mode of Prosecution | Punishment | Provisions as to alternative verdicts etc. |
 | --- | --- | --- | --- |
-| 1\. [^key-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
-| 2\. [^key-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
-| 3\. [^key-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
-| 4\. [^key-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
-| 5\. [^key-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
-| 6\. [^key-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
+| 1\. [^c-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
+| 2\. [^c-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
+| 3\. [^c-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
+| 4\. [^c-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
+| 5\. [^c-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
+| 6\. [^c-4cbc16bee92c23d04ab695a2f2f7baad]. . . | . . . | . . . | . . . |
 
 ### Part II — Offences other than felonies and attempts at felonies
 
@@ -448,7 +448,7 @@ Section 37.
 </tbody>
 </table>
 
-[^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^key-4cbc16bee92c23d04ab695a2f2f7baad][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b][^key-9962d6c31e0c11412c233f26c86d9950][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b]
+[^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^c-4cbc16bee92c23d04ab695a2f2f7baad][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b][^c-9962d6c31e0c11412c233f26c86d9950][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b][^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b]
 
 ## Third Schedule — Consequential Amendments of Enactments not Consolidated.[^c647880]
 
@@ -476,11 +476,11 @@ Section 48.
 
 [^c647550]: Commencement: Act wholly in force at 1.1.1957 see [s. 56](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/56)
 
-[^key-184eb3fa87091cf69a37d9269d0b977a]: Textual amendment: Ss. 1-7 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-184eb3fa87091cf69a37d9269d0b977a]: Textual amendment: Ss. 1-7 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647565]: Textual amendment: S. 8 repealed by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/schedule/8/part/I)
 
-[^key-70e7c5e1acc0521a2cf374234e578036]: Textual amendment: Ss. 9-17 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-70e7c5e1acc0521a2cf374234e578036]: Textual amendment: Ss. 9-17 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647572]: Modification: s. 12 amended by [Sexual Offences Act 1967 (c. 60)](https://www.legislation.gov.uk/ukpga/1967/60), [ss. 1](https://www.legislation.gov.uk/ukpga/1967/60/section/1), [2](https://www.legislation.gov.uk/ukpga/1967/60/section/2), [7](https://www.legislation.gov.uk/ukpga/1967/60/section/7)
 
@@ -490,21 +490,21 @@ Section 48.
 
 [^c647591]: Textual amendment: S. 18 repealed by [Family Law Reform Act 1969 (c. 46)](https://www.legislation.gov.uk/ukpga/1969/46), [s. 11](https://www.legislation.gov.uk/ukpga/1969/46/section/11)
 
-[^key-41a11945de2e0bee61229d524c99f32a]: Textual amendment: Ss. 19-32 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-41a11945de2e0bee61229d524c99f32a]: Textual amendment: Ss. 19-32 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647615]: Modification: s. 33 extended by [Sexual Offences Act 1967 (c. 60)](https://www.legislation.gov.uk/ukpga/1967/60), [s. 6](https://www.legislation.gov.uk/ukpga/1967/60/section/6)
 
-[^key-27f60519668d049861881c47e5d04d8b]: Textual amendment: S. 33A inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/55/2), [141](https://www.legislation.gov.uk/ukpga/2003/42/section/141); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-27f60519668d049861881c47e5d04d8b]: Textual amendment: S. 33A inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/55/2), [141](https://www.legislation.gov.uk/ukpga/2003/42/section/141); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647616]: Modification: s. 34 extended by [Sexual Offences Act 1967 (c. 60)](https://www.legislation.gov.uk/ukpga/1967/60), [s. 6](https://www.legislation.gov.uk/ukpga/1967/60/section/6)
 
 [^c647617]: Modification: s. 35 extended by [Sexual Offences Act 1967 (c. 60)](https://www.legislation.gov.uk/ukpga/1967/60), [s. 6](https://www.legislation.gov.uk/ukpga/1967/60/section/6)
 
-[^key-e792f46fe09f9fe5eb634c4f44975919]: Textual amendment: Words in [s. 35(2)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/35/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-e792f46fe09f9fe5eb634c4f44975919]: Textual amendment: Words in [s. 35(2)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/35/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
-[^key-3eab4867def3be3f0d4ee01baeb203cc]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/35/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-3eab4867def3be3f0d4ee01baeb203cc]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/35/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
-[^key-b87041e309247b3bdc447cbf22647c53]: Textual amendment: Words in s. 36 inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/42/schedule/1/paragraph/1); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-b87041e309247b3bdc447cbf22647c53]: Textual amendment: Words in s. 36 inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/42/schedule/1/paragraph/1); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647619]: Textual amendment: Words repealed by [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1971/23/schedule/11/part/IV)
 
@@ -520,7 +520,7 @@ Section 48.
 
 [^c647628]: Textual amendment: S. 40 repealed by [Police and Criminal Evidence Act 1984 (c. 60, SIF 95)](https://www.legislation.gov.uk/ukpga/1984/60), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1984/60/section/119/2), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1984/60/schedule/7/part/I)
 
-[^key-746fab1076a4bd609f5e4090762411e5]: Textual amendment: Ss. 41-47 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-746fab1076a4bd609f5e4090762411e5]: Textual amendment: Ss. 41-47 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647643]: Modification: s. 46 amended by [Sexual Offences (Amendment) Act 1976 (c. 82)](https://www.legislation.gov.uk/ukpga/1976/82), [s. 7](https://www.legislation.gov.uk/ukpga/1976/82/section/7) (2)
 
@@ -538,13 +538,13 @@ Section 48.
 
 [^c647651]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/51) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-82e672be21b1267fb36f22e0fd3955f0]: Textual amendment: Words in s. 52(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-82e672be21b1267fb36f22e0fd3955f0]: Textual amendment: Words in s. 52(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
 [^c647653]: Marginal citation: [1889 c. 63](https://www.legislation.gov.uk/ukpga/1889/63).
 
 [^c647655]: Textual amendment: Words in [s. 54(1)(2)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/section/54/1/2) repealed (5.11.1993) by Statute Law (Repeals) Act [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/I) Gp. 1
 
-[^key-eac0bd8accba05a8294240f6c1ef0582]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/schedule/FIRST/paragraph/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [6(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/6/2)
+[^c-eac0bd8accba05a8294240f6c1ef0582]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/69/schedule/FIRST/paragraph/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [6(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/6/2)
 
 [^c647657]: Marginal citation: [1946 c. 34](https://www.legislation.gov.uk/ukpga/1946/34).
 
@@ -554,11 +554,11 @@ Section 48.
 
 [^c647660]: Textual amendment: Words added by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194](https://www.legislation.gov.uk/ukpga/1989/42/section/194), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/5)
 
-[^key-4cbc16bee92c23d04ab695a2f2f7baad]: Textual amendment: Sch. 2 paras. 1-32 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-4cbc16bee92c23d04ab695a2f2f7baad]: Textual amendment: Sch. 2 paras. 1-32 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 11(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/11/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^M_F_ae243ee2-6e54-4b8e-c7ce-99e610b3545b]: Textual amendment: Words repealed by [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), [Sch. 13](https://www.legislation.gov.uk/ukpga/1977/45/schedule/13)
 
-[^key-9962d6c31e0c11412c233f26c86d9950]: Textual amendment: Sch. 2 para. 33A inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2003/42/section/55/3), [141](https://www.legislation.gov.uk/ukpga/2003/42/section/141); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-9962d6c31e0c11412c233f26c86d9950]: Textual amendment: Sch. 2 para. 33A inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2003/42/section/55/3), [141](https://www.legislation.gov.uk/ukpga/2003/42/section/141); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c647880]: Modification: The text of Sch. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

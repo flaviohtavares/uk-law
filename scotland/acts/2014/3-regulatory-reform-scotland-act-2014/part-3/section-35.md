@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Fines for relevant offences: court to consider financial benefits[^key-0dcdd5a2e037f5aa942bb18f0ba916af]
+## 35. Fines for relevant offences: court to consider financial benefits[^c-0dcdd5a2e037f5aa942bb18f0ba916af]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dcdd5a2e037f5aa942bb18f0ba916af]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/3/section/35) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-0dcdd5a2e037f5aa942bb18f0ba916af]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/3/section/35) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

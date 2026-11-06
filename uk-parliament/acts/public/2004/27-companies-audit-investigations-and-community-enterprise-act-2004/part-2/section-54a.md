@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Ceasing to be a community interest company and becoming a charity: application to court to cancel resolutions[^key-ff9a50a6f7a90aa9833b46b8e1522f5c][^key-6a8c2dc50ce7c3ed6419722e0f916c57][^key-9cedb83cee2af18f84bb46408f76fdce]
+## 54A. Ceasing to be a community interest company and becoming a charity: application to court to cancel resolutions[^c-ff9a50a6f7a90aa9833b46b8e1522f5c][^c-6a8c2dc50ce7c3ed6419722e0f916c57][^c-9cedb83cee2af18f84bb46408f76fdce]
 
 *Extent: E+W+S*
 
@@ -50,8 +50,8 @@ but not by a person who has consented to or voted in favour of the resolutions.
 
 ## Annotations
 
-[^key-ff9a50a6f7a90aa9833b46b8e1522f5c]: Modification: Ss. 53-55 power to apply (with modifications) or disapply conferred (E.W.) (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 234(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/234/2/a), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-ff9a50a6f7a90aa9833b46b8e1522f5c]: Modification: Ss. 53-55 power to apply (with modifications) or disapply conferred (E.W.) (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 234(2)(a)](https://www.legislation.gov.uk/ukpga/2011/25/section/234/2/a), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-6a8c2dc50ce7c3ed6419722e0f916c57]: Modification: [Ss. 53-55A](https://www.legislation.gov.uk/ukpga/2004/27/section/53) excluded (E.W.) (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1232/regulation/3)
+[^c-6a8c2dc50ce7c3ed6419722e0f916c57]: Modification: [Ss. 53-55A](https://www.legislation.gov.uk/ukpga/2004/27/section/53) excluded (E.W.) (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1232/regulation/3)
 
-[^key-9cedb83cee2af18f84bb46408f76fdce]: Textual amendment: Ss. 54-54C substituted for s. 54 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 237(1)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/237/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-9cedb83cee2af18f84bb46408f76fdce]: Textual amendment: Ss. 54-54C substituted for s. 54 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 237(1)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/237/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(A1)[^key-7bde2bc5a4a4738b77da241a475bd558] This regulation applies to a member who—
+(A1)[^c-7bde2bc5a4a4738b77da241a475bd558] This regulation applies to a member who—
 
 - (a) retires from pensionable employment on or after 1st April 2008—
   - (i) who submitted Form AW33E (or such other form as the Secretary of State accepted) together with supporting medical evidence if not included in the form, and
   - (ii) that form was received by the Secretary of State before 1st April 2008; or
 - (b) returns to employment which attracts a pension in accordance with paragraph (11).
 
-(1) A member to whom this regulation applies[^key-83ba6191e11893d22701d18a3a9ccc56] who retires from pensionable employment because of physical or mental infirmity that makes him permanently incapable of efficiently discharging the duties of that employment shall be entitled to a pension under this regulation if he has at least 2 years’ qualifying service or qualifies for a pension under regulation E1 (normal retirement pension).
+(1) A member to whom this regulation applies[^c-83ba6191e11893d22701d18a3a9ccc56] who retires from pensionable employment because of physical or mental infirmity that makes him permanently incapable of efficiently discharging the duties of that employment shall be entitled to a pension under this regulation if he has at least 2 years’ qualifying service or qualifies for a pension under regulation E1 (normal retirement pension).
 
 (2) Subject to paragraph (3), the pension under this regulation will be calculated as described in regulation E1.
 
@@ -49,7 +49,7 @@ summary: ''
 - (b) the pensionable service the member could have completed if he had stayed in pensionable employment until age 60; and
 - (c) 40 years’ pensionable service.
 
-(7)[^key-55b513339fded4984e4b751839005694] Subject to paragraph (8), where a member becomes entitled to a pension under paragraph (1), the Secretary of State may discharge her liability for that pension by the payment of a lump sum of an amount consistent with—[^key-23a91713eb5dd2345ed2a48894f7b866]
+(7)[^c-55b513339fded4984e4b751839005694] Subject to paragraph (8), where a member becomes entitled to a pension under paragraph (1), the Secretary of State may discharge her liability for that pension by the payment of a lump sum of an amount consistent with—[^c-23a91713eb5dd2345ed2a48894f7b866]
 
 - (a) the contracting-out requirements; and
 - (b) the preservation requirements.
@@ -58,29 +58,29 @@ summary: ''
 
 (9) For the purpose of paragraph (8), the Secretary of State may require whatever medical evidence that she considers necessary.
 
-(10)[^key-12cac39f8db3b289d0c32cc081462ecd] The amount of the lump sum payable under paragraph (7)—
+(10)[^c-12cac39f8db3b289d0c32cc081462ecd] The amount of the lump sum payable under paragraph (7)—
 
 - (a) will be equal to 5 times the yearly rate of the member’s incapacity pension (calculated in accordance with this regulation); and
-- (b) shall be payable in addition to the lump sum on retirement payable under regulation E6 (which shall not be subject to any reduction under regulation E6(3)) and the lump sum in place of part of pension payable under regulation E7[^key-d5b909d297033c4e7383acdd24d79936].
+- (b) shall be payable in addition to the lump sum on retirement payable under regulation E6 (which shall not be subject to any reduction under regulation E6(3)) and the lump sum in place of part of pension payable under regulation E7[^c-d5b909d297033c4e7383acdd24d79936].
 
 (11) The employment of a member to whom a pension is payable under this regulation may be pensionable under this Section of[^M_F_a55886c5-c3d4-4316-c92c-c6c0fd2e1ca6] the scheme providing that the member is under the age of 50 at the date on which he returns to pensionable employment.
 
-(12)[^key-aff78a8079e4b23944106b5a81bad654] For the purposes of calculating the amount of lump sum payable under paragraph (10), the member will be treated as if the member had made an election under regulation E7 to receive the maximum amount of further lump sum payable under that regulation.
+(12)[^c-aff78a8079e4b23944106b5a81bad654] For the purposes of calculating the amount of lump sum payable under paragraph (10), the member will be treated as if the member had made an election under regulation E7 to receive the maximum amount of further lump sum payable under that regulation.
 
 ## Annotations
 
-[^key-7bde2bc5a4a4738b77da241a475bd558]: Textual amendment: [Reg. E2(A1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/A1) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/2)
+[^c-7bde2bc5a4a4738b77da241a475bd558]: Textual amendment: [Reg. E2(A1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/A1) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/2)
 
-[^key-83ba6191e11893d22701d18a3a9ccc56]: Textual amendment: Words in [reg. E2(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/1) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/3)
+[^c-83ba6191e11893d22701d18a3a9ccc56]: Textual amendment: Words in [reg. E2(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/1) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/3)
 
-[^key-55b513339fded4984e4b751839005694]: Textual amendment: [Reg. E2(7)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/7) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/5/2)
+[^c-55b513339fded4984e4b751839005694]: Textual amendment: [Reg. E2(7)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/7) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [5(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/5/2)
 
-[^key-23a91713eb5dd2345ed2a48894f7b866]: Textual amendment: Words in [reg. E2(7)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/7) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/418/regulation/8)
+[^c-23a91713eb5dd2345ed2a48894f7b866]: Textual amendment: Words in [reg. E2(7)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/7) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2019/418/regulation/8)
 
-[^key-12cac39f8db3b289d0c32cc081462ecd]: Textual amendment: [Reg. E2(10)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/10) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/5/3)
+[^c-12cac39f8db3b289d0c32cc081462ecd]: Textual amendment: [Reg. E2(10)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/10) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [5(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/5/3)
 
-[^key-d5b909d297033c4e7383acdd24d79936]: Textual amendment: Words in [reg. E2(10)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/10/b) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/4)
+[^c-d5b909d297033c4e7383acdd24d79936]: Textual amendment: Words in [reg. E2(10)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/10/b) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/4)
 
 [^M_F_a55886c5-c3d4-4316-c92c-c6c0fd2e1ca6]: Textual amendment: Words in reg. E2(11) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-aff78a8079e4b23944106b5a81bad654]: Textual amendment: [Reg. E2(12)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/12) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/5)
+[^c-aff78a8079e4b23944106b5a81bad654]: Textual amendment: [Reg. E2(12)](https://www.legislation.gov.uk/uksi/1995/300/regulation/E2/12) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2008/654/regulation/10/5)

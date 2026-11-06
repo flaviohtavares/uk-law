@@ -45,11 +45,11 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## Preliminary
 
-### 1. Citation and commencement[^key-80cba518bcff01b9e1742a0e2cf0e237]
+### 1. Citation and commencement[^c-80cba518bcff01b9e1742a0e2cf0e237]
 
 These Regulations may be cited as the Local Government Pension Scheme (Management and Investment of Funds) Regulations (Northern Ireland) 2000, and shall come into operation on 1st August 2000.
 
-### 2. General definitions[^key-e7382b0a80ea232d24363468c9809466]
+### 2. General definitions[^c-e7382b0a80ea232d24363468c9809466]
 
 In these Regulations—
 
@@ -76,7 +76,7 @@ In these Regulations—
 - “traded option” means an option quoted on a recognised stock exchange or on the London International Financial Futures Exchange;
 - “unquoted securities investment partnership” means a partnership for investing in securities which are normally not quoted on a recognised stock exchange when the partnership buys them.
 
-### 3. Definition of “investment”[^key-43c7511ac01b3cc5dec8e3ec7389bc93]
+### 3. Definition of “investment”[^c-43c7511ac01b3cc5dec8e3ec7389bc93]
 
 (1) Subject to paragraphs (2) to (9), in these Regulations “investment” and similar expressions have their normal meaning.
 
@@ -104,7 +104,7 @@ In these Regulations—
 
 (9) A sub-underwriting contract is an investment.
 
-### 4. Definition of “investment manager”[^key-27ba75008f0543689278a095ddacc7ec]
+### 4. Definition of “investment manager”[^c-27ba75008f0543689278a095ddacc7ec]
 
 (1) This regulation describes those persons who count as an “investment manager” for the purposes of these Regulations.
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 ## Management of the fund
 
-### 5. Management of the fund[^key-1985c1c6ddb9668390bac9f4a7df275b]
+### 5. Management of the fund[^c-1985c1c6ddb9668390bac9f4a7df275b]
 
 (1) This regulation specifies the sums which the Committee must pay or credit to and may pay from the fund it administers.
 
@@ -138,7 +138,7 @@ In these Regulations—
 
 (4) Any costs, charges and expenses incurred in administering the fund (except those incurred in connection with a FSAVC scheme) may be paid from it.
 
-### 6. Choice of investment managers[^key-104e17154ccae349d320ab179f649d08]
+### 6. Choice of investment managers[^c-104e17154ccae349d320ab179f649d08]
 
 (1) Instead of managing and investing fund money itself, the Committee may appoint one or more investment managers to manage and invest the fund money for it.
 
@@ -155,7 +155,7 @@ In these Regulations—
 
 (6) The Committee must have taken proper advice.
 
-### 7. Terms of appointment of investment managers[^key-9a89cb6ff22d76e7500bd0cd79e2ca90]
+### 7. Terms of appointment of investment managers[^c-9a89cb6ff22d76e7500bd0cd79e2ca90]
 
 (1) Investment managers must, if appointed, be appointed on the terms set out in paragraphs (2) to (7).
 
@@ -178,7 +178,7 @@ In these Regulations—
 
 (8) In determining the investment manager’s terms of appointment, the Committee must take proper advice.
 
-### 8. Review of investment manager’s performance[^key-d208783a1ebe70ff773e997a2e2e45cf]
+### 8. Review of investment manager’s performance[^c-d208783a1ebe70ff773e997a2e2e45cf]
 
 (1) Where the Committee has appointed an investment manager it must keep his performance under review.
 
@@ -193,7 +193,7 @@ In these Regulations—
 
 ## Investments
 
-### 9. Use and investment of fund money[^key-375d7d0a966a5d974ce4b10a753e07e3]
+### 9. Use and investment of fund money[^c-375d7d0a966a5d974ce4b10a753e07e3]
 
 (1) The Committee must invest any fund money that is not needed immediately to make payments from the fund.
 
@@ -208,7 +208,7 @@ In these Regulations—
 
 (5) The Committee must consider such advice in taking any steps about its investments.
 
-### 10. Statement of investment principles[^key-0a9198114379de4cd612a890d1c89dd8]
+### 10. Statement of investment principles[^c-0a9198114379de4cd612a890d1c89dd8]
 
 (1) The Committee must, after consultation with such persons as it considers appropriate, prepare, maintain and publish a written statement of the principles governing its decisions about investments.
 
@@ -226,13 +226,13 @@ In these Regulations—
 
 (4) The written statement must be revised by the Committee in accordance with any material change in its policy on the matters referred to in paragraph (2) and published .
 
-### 11. Investments under section 11 of the Trustee Investments Act 1961[^key-f455f040604169b9cea8c29367ce7776]
+### 11. Investments under section 11 of the Trustee Investments Act 1961[^c-f455f040604169b9cea8c29367ce7776]
 
 (1) The Committee may invest in any investment made in accordance with a section 11 scheme without any restriction as to quantity.
 
 (2) A “section 11 scheme” is a scheme under section 11 of the Trustee Investments Act 1961[^f00012] (which enables the Treasury to approve schemes for local authorities to invest collectively).
 
-### 12. Restrictions on investments[^key-3df8e72a87e7a4d5d2c001e19708660b]
+### 12. Restrictions on investments[^c-3df8e72a87e7a4d5d2c001e19708660b]
 
 (1) The limits which apply to certain sorts of investments are set out in the Schedule.
 
@@ -258,61 +258,61 @@ Regulations 7(7) and 12.
 
 ### Part I
 
-#### 1. 1% limit[^key-7c2bad0ddf70d4bc1071e7754d2b490e]
+#### 1. 1% limit[^c-7c2bad0ddf70d4bc1071e7754d2b490e]
 
 Any single sub-underwriting contract.
 
-#### 2. 2% limit[^key-866f822952ea6580942724ce1537a2d2]
+#### 2. 2% limit[^c-866f822952ea6580942724ce1537a2d2]
 
 All contributions to any single partnership.
 
-#### 3. 5% limit[^key-d2df67d3b707970a8b7503212dce7bf7]
+#### 3. 5% limit[^c-d2df67d3b707970a8b7503212dce7bf7]
 
 All contributions to partnerships.
 
-#### 4. 10% limit[^key-20ee46857223c326bacd3214b16b9c41]
+#### 4. 10% limit[^c-20ee46857223c326bacd3214b16b9c41]
 
 All deposits with a person specified in paragraph 12 or 13 of Schedule 2 to the Banking Act 1987 and all loans (but see paragraph 14).
 
-**5.**[^key-12f250c58790f86e51a7d2784afb23c1] All investments in unlisted securities of companies.
+**5.**[^c-12f250c58790f86e51a7d2784afb23c1] All investments in unlisted securities of companies.
 
-**6.**[^key-bb732ae9723c576be127a0e1c242eee9] Any single holding (but see paragraphs 15 and 16).
+**6.**[^c-bb732ae9723c576be127a0e1c242eee9] Any single holding (but see paragraphs 15 and 16).
 
-**7.**[^key-86d6164c94ee9418b6c8985288eba843] All deposits with any single bank, institution or person (other than the National Savings Bank).
+**7.**[^c-86d6164c94ee9418b6c8985288eba843] All deposits with any single bank, institution or person (other than the National Savings Bank).
 
-#### 8. 15% limit[^key-030153d353fc893e64a70bddf3d8b3c6]
+#### 8. 15% limit[^c-030153d353fc893e64a70bddf3d8b3c6]
 
 All sub-underwriting contracts.
 
-#### 9. 25% limit[^key-eb26163a7da6c1d13ab7191a8d8ebdaa]
+#### 9. 25% limit[^c-eb26163a7da6c1d13ab7191a8d8ebdaa]
 
 All investments in units or other shares of the investments subject to the trusts of unit trust schemes managed by any one body (but see paragraph 16).
 
-**10.**[^key-5caca68b601d102185823d2d9ca5db79] All investments in open-ended investment companies where the collective investment schemes constituted by the companies are managed by any one body.
+**10.**[^c-5caca68b601d102185823d2d9ca5db79] All investments in open-ended investment companies where the collective investment schemes constituted by the companies are managed by any one body.
 
-**11.**[^key-90e51d345601ee6390394479225779fe] All investments in units or other shares of the investments subject to the trusts of unit trust schemes and all investments in open-ended investment companies where the unit trust schemes and the collective investment schemes constituted by those companies are managed by any one body (but see paragraph 16).
+**11.**[^c-90e51d345601ee6390394479225779fe] All investments in units or other shares of the investments subject to the trusts of unit trust schemes and all investments in open-ended investment companies where the unit trust schemes and the collective investment schemes constituted by those companies are managed by any one body (but see paragraph 16).
 
-**12.**[^key-776568b158130b79ab962c6de43a4d05] All insurance contracts.
+**12.**[^c-776568b158130b79ab962c6de43a4d05] All insurance contracts.
 
-**13.**[^key-b5f9557559846f19648ab2dff6c79afb] All securities transferred (or agreed to be transferred) by the Committee under stock lending arrangements.
+**13.**[^c-b5f9557559846f19648ab2dff6c79afb] All securities transferred (or agreed to be transferred) by the Committee under stock lending arrangements.
 
 ### Part II — Exceptions to limits in Part I
 
-**14.**[^key-561f1c4e49f58f7036ff593a07c51411] The restriction in paragraph 4 does not apply to a Government loan.
+**14.**[^c-561f1c4e49f58f7036ff593a07c51411] The restriction in paragraph 4 does not apply to a Government loan.
 
-**15.**[^key-c7e475ca352c8402cec1a1298a86671e] The restriction in paragraph 6 does not apply if—
+**15.**[^c-c7e475ca352c8402cec1a1298a86671e] The restriction in paragraph 6 does not apply if—
 
 - (a) the investment is made by an investment manager appointed under regulation 6, and
 - (b) the single holding is in units or other shares of the investments subject to the trusts of any one unit trust scheme.
 
-**16.**[^key-676c59d7ebc86abba9ba95f1100ef4b7] The restrictions in paragraphs 6 , 9 and 11 do not apply—
+**16.**[^c-676c59d7ebc86abba9ba95f1100ef4b7] The restrictions in paragraphs 6 , 9 and 11 do not apply—
 
 - (a) to any investment falling within paragraph 1 of Part I (National Savings) or paragraph 1 or 2 of Part II (interest bearing securities, loans etc.) of Schedule 1 to the Trustee Investments Act 1961, or
 - (b) to a deposit with a relevant institution.
 
 ### Part III — Interpretation of Parts I and II
 
-**17.**[^key-c24d689c22935235ad4a4df07baf31c6] In this Schedule—
+**17.**[^c-c24d689c22935235ad4a4df07baf31c6] In this Schedule—
 
 - “Collective investment scheme” has the meaning given in section 75 of the Financial Services Act 1986[^f00013];
 - “Companies” includes companies established under the law of any territory outside the United Kingdom;
@@ -352,9 +352,9 @@ The principal amendments are—
 
 [^f00002]: Footnote: [S.R.& O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisr/1973/504) Art. 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424)
 
-[^key-80cba518bcff01b9e1742a0e2cf0e237]: Commencement: Reg. 1 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-80cba518bcff01b9e1742a0e2cf0e237]: Commencement: Reg. 1 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-e7382b0a80ea232d24363468c9809466]: Commencement: Reg. 2 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-e7382b0a80ea232d24363468c9809466]: Commencement: Reg. 2 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2000 No. 177](https://www.legislation.gov.uk/nisr/2000/177)
 
@@ -370,65 +370,65 @@ The principal amendments are—
 
 [^f00009]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12)
 
-[^key-43c7511ac01b3cc5dec8e3ec7389bc93]: Commencement: Reg. 3 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-43c7511ac01b3cc5dec8e3ec7389bc93]: Commencement: Reg. 3 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
 [^f00010]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50)
 
-[^key-27ba75008f0543689278a095ddacc7ec]: Commencement: Reg. 4 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-27ba75008f0543689278a095ddacc7ec]: Commencement: Reg. 4 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
 [^f00011]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
 
-[^key-1985c1c6ddb9668390bac9f4a7df275b]: Commencement: Reg. 5 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-1985c1c6ddb9668390bac9f4a7df275b]: Commencement: Reg. 5 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-104e17154ccae349d320ab179f649d08]: Commencement: Reg. 6 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-104e17154ccae349d320ab179f649d08]: Commencement: Reg. 6 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-9a89cb6ff22d76e7500bd0cd79e2ca90]: Commencement: Reg. 7 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-9a89cb6ff22d76e7500bd0cd79e2ca90]: Commencement: Reg. 7 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-d208783a1ebe70ff773e997a2e2e45cf]: Commencement: Reg. 8 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-d208783a1ebe70ff773e997a2e2e45cf]: Commencement: Reg. 8 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-375d7d0a966a5d974ce4b10a753e07e3]: Commencement: Reg. 9 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-375d7d0a966a5d974ce4b10a753e07e3]: Commencement: Reg. 9 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-0a9198114379de4cd612a890d1c89dd8]: Commencement: Reg. 10 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-0a9198114379de4cd612a890d1c89dd8]: Commencement: Reg. 10 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-f455f040604169b9cea8c29367ce7776]: Commencement: Reg. 11 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-f455f040604169b9cea8c29367ce7776]: Commencement: Reg. 11 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
 [^f00012]: Footnote: [1961 c. 62](https://www.legislation.gov.uk/ukpga/1961/62)
 
-[^key-3df8e72a87e7a4d5d2c001e19708660b]: Commencement: Reg. 12 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-3df8e72a87e7a4d5d2c001e19708660b]: Commencement: Reg. 12 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-7c2bad0ddf70d4bc1071e7754d2b490e]: Commencement: Sch. para. 1 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-7c2bad0ddf70d4bc1071e7754d2b490e]: Commencement: Sch. para. 1 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-866f822952ea6580942724ce1537a2d2]: Commencement: Sch. para. 2 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-866f822952ea6580942724ce1537a2d2]: Commencement: Sch. para. 2 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-d2df67d3b707970a8b7503212dce7bf7]: Commencement: Sch. para. 3 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-d2df67d3b707970a8b7503212dce7bf7]: Commencement: Sch. para. 3 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-20ee46857223c326bacd3214b16b9c41]: Commencement: Sch. para. 4 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-20ee46857223c326bacd3214b16b9c41]: Commencement: Sch. para. 4 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-12f250c58790f86e51a7d2784afb23c1]: Commencement: Sch. para. 5 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-12f250c58790f86e51a7d2784afb23c1]: Commencement: Sch. para. 5 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-bb732ae9723c576be127a0e1c242eee9]: Commencement: Sch. para. 6 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-bb732ae9723c576be127a0e1c242eee9]: Commencement: Sch. para. 6 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-86d6164c94ee9418b6c8985288eba843]: Commencement: Sch. para. 7 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-86d6164c94ee9418b6c8985288eba843]: Commencement: Sch. para. 7 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-030153d353fc893e64a70bddf3d8b3c6]: Commencement: Sch. para. 8 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-030153d353fc893e64a70bddf3d8b3c6]: Commencement: Sch. para. 8 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-eb26163a7da6c1d13ab7191a8d8ebdaa]: Commencement: Sch. para. 9 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-eb26163a7da6c1d13ab7191a8d8ebdaa]: Commencement: Sch. para. 9 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-5caca68b601d102185823d2d9ca5db79]: Commencement: Sch. para. 10 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-5caca68b601d102185823d2d9ca5db79]: Commencement: Sch. para. 10 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-90e51d345601ee6390394479225779fe]: Commencement: Sch. para. 11 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-90e51d345601ee6390394479225779fe]: Commencement: Sch. para. 11 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-776568b158130b79ab962c6de43a4d05]: Commencement: Sch. para. 12 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-776568b158130b79ab962c6de43a4d05]: Commencement: Sch. para. 12 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-b5f9557559846f19648ab2dff6c79afb]: Commencement: Sch. para. 13 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-b5f9557559846f19648ab2dff6c79afb]: Commencement: Sch. para. 13 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-561f1c4e49f58f7036ff593a07c51411]: Commencement: Sch. para. 14 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-561f1c4e49f58f7036ff593a07c51411]: Commencement: Sch. para. 14 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-c7e475ca352c8402cec1a1298a86671e]: Commencement: Sch. para. 15 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-c7e475ca352c8402cec1a1298a86671e]: Commencement: Sch. para. 15 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-676c59d7ebc86abba9ba95f1100ef4b7]: Commencement: Sch. para. 16 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-676c59d7ebc86abba9ba95f1100ef4b7]: Commencement: Sch. para. 16 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
-[^key-c24d689c22935235ad4a4df07baf31c6]: Commencement: Sch. para. 17 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
+[^c-c24d689c22935235ad4a4df07baf31c6]: Commencement: Sch. para. 17 in operation at 1.8.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/178/regulation/1)
 
 [^f00013]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60)
 

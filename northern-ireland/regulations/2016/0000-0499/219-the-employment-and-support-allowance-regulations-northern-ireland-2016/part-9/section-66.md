@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Councillor’s allowance[^key-1634077d3e8fbd6f53cc3010d923fa9b]
+## 66. Councillor’s allowance[^c-1634077d3e8fbd6f53cc3010d923fa9b]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of section 3(1)(c) of the Act—
 
 ## Annotations
 
-[^key-1634077d3e8fbd6f53cc3010d923fa9b]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2016/219/regulation/66) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-1634077d3e8fbd6f53cc3010d923fa9b]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2016/219/regulation/66) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

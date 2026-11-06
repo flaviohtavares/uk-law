@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.85. Mutual credit and set-off[^key-c87bd3b983ebc283c6987bd443616dae][^key-bac887a0c800ebfb3e0f18ce383ae4ea]
+## 2.85. Mutual credit and set-off[^c-c87bd3b983ebc283c6987bd443616dae][^c-bac887a0c800ebfb3e0f18ce383ae4ea]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c87bd3b983ebc283c6987bd443616dae]: Modification: [Rule 2.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.85) applied (10.8.2005) by [The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 (S.I. 2005/1998)](https://www.legislation.gov.uk/uksi/2005/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1998/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (with [reg. 22(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/1))
+[^c-c87bd3b983ebc283c6987bd443616dae]: Modification: [Rule 2.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.85) applied (10.8.2005) by [The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 (S.I. 2005/1998)](https://www.legislation.gov.uk/uksi/2005/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1998/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/2) (with [reg. 22(1)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/22/1))
 
-[^key-bac887a0c800ebfb3e0f18ce383ae4ea]: Textual amendment: [Rule 2.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.85) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [9](https://www.legislation.gov.uk/uksi/2005/527/rule/9) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-bac887a0c800ebfb3e0f18ce383ae4ea]: Textual amendment: [Rule 2.85](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.85) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [9](https://www.legislation.gov.uk/uksi/2005/527/rule/9) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

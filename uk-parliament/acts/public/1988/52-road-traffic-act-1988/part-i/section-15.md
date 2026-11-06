@@ -55,14 +55,14 @@ a person must not without reasonable excuse drive the passenger car on a road.
 - (b) defining in relation to any class of vehicle what part of the vehicle is to be regarded as the front of the vehicle for the purposes of subsection (1) or (3A)[^c13971621] above or as the rear of the vehicle for the purposes of subsection (3) or (3A) above,
 - (c) prescribing for the purposes of subsection (1) or (3) above the descriptions of seat belt to be worn by children of any prescribed description and the manner in which such seat belt is to be fixed and used.
 
-(5A)[^key-38ac76084073e98c02da76c6ea171657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-38ac76084073e98c02da76c6ea171657] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c13971651] Regulations made for the purposes of subsection (3) or (3A) above—
 
 - (a) shall include an exemption for any child holding a valid certificate signed by a medical practitioner to the effect that it is inadvisable on medical grounds for him to wear a seat belt, and
-- (b) may[^key-7a84234ef40068aa07b76657cb317f20] include an exemption for any child holding a certificate to the like effect which was issued in any member State [^key-4035ae40783a81342203ec26e22b5dfc]... and which, under the law of that State, is valid for purposes corresponding to those of this section,
+- (b) may[^c-7a84234ef40068aa07b76657cb317f20] include an exemption for any child holding a certificate to the like effect which was issued in any member State [^c-4035ae40783a81342203ec26e22b5dfc]... and which, under the law of that State, is valid for purposes corresponding to those of this section,
 
-[^key-7098f10b4298568396aa1b44e2adeb58]....
+[^c-7098f10b4298568396aa1b44e2adeb58]....
 
 (7) If the driver of a motor vehicle is informed by a constable that he may be prosecuted for an offence under subsection (4) above, he is not in proceedings for that offence entitled to rely on an exception afforded to a child by a certificate referred to in subsection (6) above unless—
 
@@ -92,7 +92,7 @@ a person must not without reasonable excuse drive the passenger car on a road.
   - (e) has a maximum laden weight not exceeding 3.5 tonnes,
 - “**regulations**” means regulations made by the Secretary of State under this section, [^c13971681]. . .
 - “**seat belt**” includes any description of restraining device for a child and any reference to wearing a seat belt is to be construed accordingly.
-- [^key-89f56adcc7411feddf3a9dca2e7372e7]...
+- [^c-89f56adcc7411feddf3a9dca2e7372e7]...
 
 (9A)[^c19262611] The reference in subsection (1) above to the air bag being deactivated includes a reference to the case where the air bag is designed or adapted in such a way that it cannot inflate enough to pose a risk of injury to a child travelling in a rear-facing child restraining device in the seat in question.
 
@@ -116,15 +116,15 @@ a person must not without reasonable excuse drive the passenger car on a road.
 
 [^c13971621]: Textual amendment: Words in s. 15(5)(b) inserted (2.2.1993) by [S.I. 1992/3105](https://www.legislation.gov.uk/uksi/1992/3105), [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/1992/3105/regulation/3/4/b).
 
-[^key-38ac76084073e98c02da76c6ea171657]: Textual amendment: [S. 15(5A)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/5A) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38ac76084073e98c02da76c6ea171657]: Textual amendment: [S. 15(5A)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/5A) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13971651]: Textual amendment: S. 15(6) substituted (2.2.1993) by [S.I. 1992/3105](https://www.legislation.gov.uk/uksi/1992/3105), [reg. 3(6)](https://www.legislation.gov.uk/uksi/1992/3105/regulation/3/6).
 
-[^key-7a84234ef40068aa07b76657cb317f20]: Textual amendment: Word in [s. 15(6)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/6/b) substituted (31.12.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a84234ef40068aa07b76657cb317f20]: Textual amendment: Word in [s. 15(6)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/6/b) substituted (31.12.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/b/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4035ae40783a81342203ec26e22b5dfc]: Textual amendment: Words in [s. 15(6)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/6/b) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/b/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4035ae40783a81342203ec26e22b5dfc]: Textual amendment: Words in [s. 15(6)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/6/b) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/b/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7098f10b4298568396aa1b44e2adeb58]: Textual amendment: Words in [s. 15(6)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/6) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7098f10b4298568396aa1b44e2adeb58]: Textual amendment: Words in [s. 15(6)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/6) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19262631]: Textual amendment: In s. 15(9) definition of "bus" inserted (18.9.2006) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892)](https://www.legislation.gov.uk/uksi/2006/1892), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/3/4)
 
@@ -134,7 +134,7 @@ a person must not without reasonable excuse drive the passenger car on a road.
 
 [^c13971681]: Textual amendment: Word in s. 15(9) omitted (2.2.1993) by virtue of [S.I. 1992/3105](https://www.legislation.gov.uk/uksi/1992/3105), [reg. 3(7)(b)](https://www.legislation.gov.uk/uksi/1992/3105/regulation/3/7/b).
 
-[^key-89f56adcc7411feddf3a9dca2e7372e7]: Textual amendment: Words in [s. 15(9)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/9) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89f56adcc7411feddf3a9dca2e7372e7]: Textual amendment: Words in [s. 15(9)](https://www.legislation.gov.uk/ukpga/1988/52/section/15/9) omitted (31.12.2020) by virtue of [The Motor Vehicles (Wearing of Seat Belts) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/512)](https://www.legislation.gov.uk/uksi/2019/512), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/512/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/512/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19262611]: Textual amendment: S. 15(9A) inserted (18.9.2006) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations 2006 (S.I. 2006/1892)](https://www.legislation.gov.uk/uksi/2006/1892), [reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/1892/regulation/3/5)
 

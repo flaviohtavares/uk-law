@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Vaccination and immunisation: Scotland[^key-8c8c6532830615bfeba18408b4b1d892]
+## 36. Vaccination and immunisation: Scotland[^c-8c8c6532830615bfeba18408b4b1d892]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8c6532830615bfeba18408b4b1d892]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2020/7/section/36) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-8c8c6532830615bfeba18408b4b1d892]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2020/7/section/36) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Requisite majorities[^key-3a360dfdc98735913f293d097650c4c8]
+## 59. Requisite majorities[^c-3a360dfdc98735913f293d097650c4c8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a360dfdc98735913f293d097650c4c8]: Commencement: Rule 59 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-3a360dfdc98735913f293d097650c4c8]: Commencement: Rule 59 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

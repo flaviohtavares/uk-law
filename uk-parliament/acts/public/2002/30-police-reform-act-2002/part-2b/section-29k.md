@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29K. Other restrictions on disclosure of information[^key-2c39f0af6dd8bee3a3f609c11ed14793]
+## 29K. Other restrictions on disclosure of information[^c-2c39f0af6dd8bee3a3f609c11ed14793]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by regulations make provision setting out the circumstances in which the Director General[^key-8643d11c00bdf3d56cde9c57bb91d50d] is required or authorised to disclose information falling within subsection (2) (or any particular description of such information) to persons specified, or of a description specified, in the regulations.
+(1) The Secretary of State may by regulations make provision setting out the circumstances in which the Director General[^c-8643d11c00bdf3d56cde9c57bb91d50d] is required or authorised to disclose information falling within subsection (2) (or any particular description of such information) to persons specified, or of a description specified, in the regulations.
 
 (2) The information falling within this subsection is—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c39f0af6dd8bee3a3f609c11ed14793]: Textual amendment: Pt. 2B inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/28/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+[^c-2c39f0af6dd8bee3a3f609c11ed14793]: Textual amendment: Pt. 2B inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/28/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
 
-[^key-8643d11c00bdf3d56cde9c57bb91d50d]: Textual amendment: Words in [s. 29K](https://www.legislation.gov.uk/ukpga/2002/30/section/29K) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/49); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-8643d11c00bdf3d56cde9c57bb91d50d]: Textual amendment: Words in [s. 29K](https://www.legislation.gov.uk/ukpga/2002/30/section/29K) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 49](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/49); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

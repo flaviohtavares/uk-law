@@ -33,7 +33,7 @@ An Act to reform the law of Scotland relating to children, to the adoption of ch
 
 \[19th July 1995\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c5f34689700c3ea544d765571b5a879d]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c5f34689700c3ea544d765571b5a879d]
 
 ## Contents
 
@@ -350,7 +350,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-c5f34689700c3ea544d765571b5a879d]: Modification: Act: power to modify conferred (1.9.2025) by [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1), [s. 190(2A)](https://www.legislation.gov.uk/asp/2011/1/section/190/2A) (as substituted by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/asp/2024/5/section/29/2/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/c))
+[^c-c5f34689700c3ea544d765571b5a879d]: Modification: Act: power to modify conferred (1.9.2025) by [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1), [s. 190(2A)](https://www.legislation.gov.uk/asp/2011/1/section/190/2A) (as substituted by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 29(2)(b)](https://www.legislation.gov.uk/asp/2024/5/section/29/2/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/c))
 
 [^c13125301]: Modification: [Pt. II Ch. 1](https://www.legislation.gov.uk/ukpga/1995/36/part/II/chapter/1) (ss. 16-38) modifed (1.4.1997) by [S.I. 1996/3255](https://www.legislation.gov.uk/uksi/1996/3255), [reg. 7(1)](https://www.legislation.gov.uk/uksi/1996/3255/regulation/7/1)
 

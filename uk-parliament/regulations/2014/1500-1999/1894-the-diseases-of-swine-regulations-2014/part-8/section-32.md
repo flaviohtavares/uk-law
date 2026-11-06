@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Notices[^key-3575ecf6e03974785a0d312af4dd7ac1]
+## 32. Notices[^c-3575ecf6e03974785a0d312af4dd7ac1]
 
 *Extent: E+W+S*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3575ecf6e03974785a0d312af4dd7ac1]: Commencement: Reg. 32 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-3575ecf6e03974785a0d312af4dd7ac1]: Commencement: Reg. 32 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
 [^f00035]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

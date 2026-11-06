@@ -52,17 +52,17 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 In accordance with section 172(1) of the Social Security Administration Act 1992, the Secretary of State has referred the proposals for these Regulations to the Social Security Advisory Committee.
 
-## 1. Citation and commencement[^key-73f60ce6fd2d4060aa50bfeddd9da6ae]
+## 1. Citation and commencement[^c-73f60ce6fd2d4060aa50bfeddd9da6ae]
 
-These Regulations may be cited as the Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 and come into force on 11th April 2018[^key-f41bf09c460195bf2fbaa51bb6cca649].
+These Regulations may be cited as the Universal Credit (Surpluses and Self-employed Losses) (Digital Service) Amendment Regulations 2015 and come into force on 11th April 2018[^c-f41bf09c460195bf2fbaa51bb6cca649].
 
-## 2. Carry forward of surplus earnings[^key-373d6c9bbe7b776f0775edc2b0424c26]
+## 2. Carry forward of surplus earnings[^c-373d6c9bbe7b776f0775edc2b0424c26]
 
 (1) The Universal Credit Regulations 2013[^f00002] are amended as follows.
 
 (2) After regulation 54 (calculation of earned income – general principles) insert—
 
-> **54A. Surplus earnings[^key-803845fdabe786384e59137ddb954ab8]**
+> **54A. Surplus earnings[^c-803845fdabe786384e59137ddb954ab8]**
 >
 > (1) This regulation applies in relation to a claim for universal credit where—
 >
@@ -122,7 +122,7 @@ These Regulations may be cited as the Universal Credit (Surpluses and Self-emplo
 
 .
 
-## 3. Self-employed earnings – treatment of losses[^key-ac67785787301f6b5bd1eeafc3fed64e]
+## 3. Self-employed earnings – treatment of losses[^c-ac67785787301f6b5bd1eeafc3fed64e]
 
 (1) The Universal Credit Regulations 2013 are amended as follows.
 
@@ -143,7 +143,7 @@ These Regulations may be cited as the Universal Credit (Surpluses and Self-emplo
 >
 > *Step 3*
 >
-> - Deduct from the amount resulting from step 1 or (if applicable) step 2 any payment made by the person to HMRC in the assessment period by way of national insurance contributions or income tax in respect of any trade, profession or vocation carried on by the person[^key-b1d8b97238e7ce17090e9ad4f5311544].
+> - Deduct from the amount resulting from step 1 or (if applicable) step 2 any payment made by the person to HMRC in the assessment period by way of national insurance contributions or income tax in respect of any trade, profession or vocation carried on by the person[^c-b1d8b97238e7ce17090e9ad4f5311544].
 > - If the amount resulting from steps 1 to 3 is nil or a negative amount, the amount of the person’s self-employed earnings in respect of the assessment period is nil (and ignore the following steps).
 >
 > *Step 4*
@@ -167,12 +167,12 @@ These Regulations may be cited as the Universal Credit (Surpluses and Self-emplo
 >
 > (1) For the purposes of regulation 57(2), a person has an unused loss if—
 >
-> - (a) in calculating the person’s self-employed earnings for any of the previous [^key-9c790f25a1960df1cf3f64b8cf19daf3]... assessment periods, the amount resulting from steps 1 to 3 in regulation 57(2) was a negative amount (a “loss”); and
+> - (a) in calculating the person’s self-employed earnings for any of the previous [^c-9c790f25a1960df1cf3f64b8cf19daf3]... assessment periods, the amount resulting from steps 1 to 3 in regulation 57(2) was a negative amount (a “loss”); and
 > - (b) the loss has not been extinguished in a subsequent assessment period.
 >
 > (2) For the purposes of paragraph (1)(b) a loss is extinguished if no amount of that loss remains after it has been deducted at step 5 in regulation 57(2).
 >
-> (3) Where a person was entitled to a previous award of universal credit and the last day of entitlement in respect of that award fell within the 6 months preceding the first day of entitlement in respect of the new award, the Secretary of State may, for the purposes of this regulation (provided the person provides such information as the Secretary of State requires), treat—[^key-adb4e8c7a25925d05ccf7aa8ee074192]
+> (3) Where a person was entitled to a previous award of universal credit and the last day of entitlement in respect of that award fell within the 6 months preceding the first day of entitlement in respect of the new award, the Secretary of State may, for the purposes of this regulation (provided the person provides such information as the Secretary of State requires), treat—[^c-adb4e8c7a25925d05ccf7aa8ee074192]
 >
 > - (a) the assessment periods under the previous award; and
 > - (b) any months between that award and the current award in respect of which a claim has been made,
@@ -183,7 +183,7 @@ These Regulations may be cited as the Universal Credit (Surpluses and Self-emplo
 
 (5) In regulation 58 (permitted expenses) in paragraph (3) omit sub-paragraph (b).
 
-## 4. Saving[^key-f00d7b660ee8a4f6430e13c92b53f582][^key-469ee374fe7aa49b8a5ce5a6367ef671]
+## 4. Saving[^c-f00d7b660ee8a4f6430e13c92b53f582][^c-469ee374fe7aa49b8a5ce5a6367ef671]
 
 (1) The amendments made by these Regulations do not apply to an award of universal credit unless it is—
 
@@ -206,9 +206,9 @@ These Regulations may be cited as the Universal Credit (Surpluses and Self-emplo
 - “the digital service computer system” is the computer system operated by the Secretary of State in digital service areas;
 - “universal credit provisions” means the provisions listed in Schedule 2 to the Welfare Reform Act 2012 (Commencement No. 9 and Transitional and Transitory Provisions and Commencement No. 8 and Savings and Transitional Provisions (Amendment)) Order 2013.
 
-(4) In regulation 54A of the Universal Credit Regulations 2013 (as inserted [^key-fc8ffc97d75931ec8cab32502ad5c115]...), “the old award” does not include an award the last day of which fell before 11th April 2018[^key-ecaeba5e91de369d9815f366512bf525] and, in regulation 57A (as inserted by regulation 3(4)), “unused loss” does not include the loss from an assessment period that began[^key-a95ba6d75bd1e580f9c02d73f23f178c] before that date.
+(4) In regulation 54A of the Universal Credit Regulations 2013 (as inserted [^c-fc8ffc97d75931ec8cab32502ad5c115]...), “the old award” does not include an award the last day of which fell before 11th April 2018[^c-ecaeba5e91de369d9815f366512bf525] and, in regulation 57A (as inserted by regulation 3(4)), “unused loss” does not include the loss from an assessment period that began[^c-a95ba6d75bd1e580f9c02d73f23f178c] before that date.
 
-## 5. Transitional provision – temporary de minimis period[^M_I_f784cbb9-e408-4560-8f4e-62f70d329164][^key-63561878a0ac45de3dd252cec0b3d8f3]
+## 5. Transitional provision – temporary de minimis period[^M_I_f784cbb9-e408-4560-8f4e-62f70d329164][^c-63561878a0ac45de3dd252cec0b3d8f3]
 
 (1) For the purposes of applying regulation 54A (surplus earnings) of the Universal Credit Regulations 2013 in relation to a claim for universal credit made in respect of a period that begins before the end of the temporary de minimis period, the meaning of “relevant threshold” in paragraph (6) of that regulation is modified by substituting “£2,500” for “£300”.
 
@@ -244,36 +244,36 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-73f60ce6fd2d4060aa50bfeddd9da6ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+[^c-73f60ce6fd2d4060aa50bfeddd9da6ae]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
 
-[^key-f41bf09c460195bf2fbaa51bb6cca649]: Textual amendment: Words in reg. 1 substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/2)
+[^c-f41bf09c460195bf2fbaa51bb6cca649]: Textual amendment: Words in reg. 1 substituted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/2)
 
-[^key-373d6c9bbe7b776f0775edc2b0424c26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/345/regulation/2) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+[^c-373d6c9bbe7b776f0775edc2b0424c26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/345/regulation/2) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-803845fdabe786384e59137ddb954ab8]: Textual amendment: Words in reg. 2(2) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/3)
+[^c-803845fdabe786384e59137ddb954ab8]: Textual amendment: Words in reg. 2(2) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/3)
 
 [^f00006]: Footnote: Regulation 62 was substituted by [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888).
 
-[^key-ac67785787301f6b5bd1eeafc3fed64e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/345/regulation/3) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+[^c-ac67785787301f6b5bd1eeafc3fed64e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/345/regulation/3) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
 
-[^key-b1d8b97238e7ce17090e9ad4f5311544]: Textual amendment: Words in reg. 3(2) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/a)
+[^c-b1d8b97238e7ce17090e9ad4f5311544]: Textual amendment: Words in reg. 3(2) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/a)
 
-[^key-9c790f25a1960df1cf3f64b8cf19daf3]: Textual amendment: Word in reg. 3(4) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/b/i)
+[^c-9c790f25a1960df1cf3f64b8cf19daf3]: Textual amendment: Word in reg. 3(4) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(b)(i)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/b/i)
 
-[^key-adb4e8c7a25925d05ccf7aa8ee074192]: Textual amendment: Words in reg. 3(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/b/ii)
+[^c-adb4e8c7a25925d05ccf7aa8ee074192]: Textual amendment: Words in reg. 3(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/4/b/ii)
 
-[^key-f00d7b660ee8a4f6430e13c92b53f582]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
+[^c-f00d7b660ee8a4f6430e13c92b53f582]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/345/regulation/4) in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
 
-[^key-469ee374fe7aa49b8a5ce5a6367ef671]: Textual amendment: Reg. 4 substituted (3.11.2015 with application in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2015/1754/regulation/21)
+[^c-469ee374fe7aa49b8a5ce5a6367ef671]: Textual amendment: Reg. 4 substituted (3.11.2015 with application in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2015/1754/regulation/21)
 
-[^key-fc8ffc97d75931ec8cab32502ad5c115]: Textual amendment: Words in reg. 4(4) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/a)
+[^c-fc8ffc97d75931ec8cab32502ad5c115]: Textual amendment: Words in reg. 4(4) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/a)
 
-[^key-ecaeba5e91de369d9815f366512bf525]: Textual amendment: Words in reg. 4(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/b)
+[^c-ecaeba5e91de369d9815f366512bf525]: Textual amendment: Words in reg. 4(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/b)
 
-[^key-a95ba6d75bd1e580f9c02d73f23f178c]: Textual amendment: Word in reg. 4(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/c)
+[^c-a95ba6d75bd1e580f9c02d73f23f178c]: Textual amendment: Word in reg. 4(4) substituted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(5)(c)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/5/c)
 
 [^M_I_f784cbb9-e408-4560-8f4e-62f70d329164]: Commencement: Reg. 5 in force at 11.4.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/345/regulation/1)
 
-[^key-63561878a0ac45de3dd252cec0b3d8f3]: Textual amendment: Reg. 5 inserted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/6)
+[^c-63561878a0ac45de3dd252cec0b3d8f3]: Textual amendment: Reg. 5 inserted (14.2.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2018/65/regulation/7/6)

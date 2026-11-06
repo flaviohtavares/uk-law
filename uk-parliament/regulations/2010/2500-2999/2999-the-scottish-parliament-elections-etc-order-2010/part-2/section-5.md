@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Polling districts and places at elections[^key-3c34a92500c7d07920ae9b7f3dddb865]
+## 5. Polling districts and places at elections[^c-3c34a92500c7d07920ae9b7f3dddb865]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c34a92500c7d07920ae9b7f3dddb865]: Commencement: Art. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3c34a92500c7d07920ae9b7f3dddb865]: Commencement: Art. 5 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00023]: Footnote: Sections 18A and 18B were substituted by the 2006 Act, section 16.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Powers in relation to fundamental provisions[^key-e4e243cb4a136ce8e8321b4657d9ec72]
+## 22. Powers in relation to fundamental provisions[^c-e4e243cb4a136ce8e8321b4657d9ec72]
 
 *Extent: E+W*
 
@@ -30,10 +30,10 @@ summary: ''
 - (a) section 20(1) does not apply to a fundamental provision;
 - (b) section 20(2) does not apply to a fundamental provision.
 
-(3)[^key-19da495f6f114b1fe5b13e0799487c3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-19da495f6f114b1fe5b13e0799487c3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4e243cb4a136ce8e8321b4657d9ec72]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2016/1/section/22) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e4e243cb4a136ce8e8321b4657d9ec72]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2016/1/section/22) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-19da495f6f114b1fe5b13e0799487c3d]: Textual amendment: [S. 22(3)](https://www.legislation.gov.uk/anaw/2016/1/section/22/3) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 3](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/3)
+[^c-19da495f6f114b1fe5b13e0799487c3d]: Textual amendment: [S. 22(3)](https://www.legislation.gov.uk/anaw/2016/1/section/22/3) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 3](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/3)

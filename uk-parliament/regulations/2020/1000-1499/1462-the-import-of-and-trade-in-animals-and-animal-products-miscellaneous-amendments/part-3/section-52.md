@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Commission Decision [2008/636/EC](https://www.legislation.gov.uk/european/decision/2008/0636) establishing the list of third countries from which Member States authorise imports of ova and embryos of the porcine species[^key-b9ec6fe5cab1eceb1a43596b5283f8de]
+## 52. Commission Decision [2008/636/EC](https://www.legislation.gov.uk/european/decision/2008/0636) establishing the list of third countries from which Member States authorise imports of ova and embryos of the porcine species[^c-b9ec6fe5cab1eceb1a43596b5283f8de]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9ec6fe5cab1eceb1a43596b5283f8de]: Commencement: Reg. 52 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-b9ec6fe5cab1eceb1a43596b5283f8de]: Commencement: Reg. 52 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

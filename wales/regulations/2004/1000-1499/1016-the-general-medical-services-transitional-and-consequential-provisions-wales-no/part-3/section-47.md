@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Sub-contracting[^key-ba3e27947278accfea7c4e01765a72a7]
+## 47. Sub-contracting[^c-ba3e27947278accfea7c4e01765a72a7]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ the term of the general medical services contract which gives effect to paragrap
 
 ## Annotations
 
-[^key-ba3e27947278accfea7c4e01765a72a7]: Commencement: Art. 47 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-ba3e27947278accfea7c4e01765a72a7]: Commencement: Art. 47 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00047]: Footnote: Section 28M was inserted in to the 1977 Act by section 172(1) of the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43).

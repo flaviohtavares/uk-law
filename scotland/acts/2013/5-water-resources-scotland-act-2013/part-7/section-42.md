@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Scheduled provision[^key-328275622d730048d3a8c143715c996f]
+## 42. Scheduled provision[^c-328275622d730048d3a8c143715c996f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 makes further provision in relation to water shortage orders.
 
 ## Annotations
 
-[^key-328275622d730048d3a8c143715c996f]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2013/5/section/42) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-328275622d730048d3a8c143715c996f]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2013/5/section/42) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

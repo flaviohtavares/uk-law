@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Power to pay final salary benefits[^key-4286795177bf331cbdbc6d6bff8c39f6][^key-35d9f67124a10fd449307444764d143a]
+## 78. Power to pay final salary benefits[^c-4286795177bf331cbdbc6d6bff8c39f6][^c-35d9f67124a10fd449307444764d143a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4286795177bf331cbdbc6d6bff8c39f6]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-4286795177bf331cbdbc6d6bff8c39f6]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-35d9f67124a10fd449307444764d143a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/7/section/78) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-35d9f67124a10fd449307444764d143a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/7/section/78) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

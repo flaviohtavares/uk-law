@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Directions under Part 6[^key-b0b8389b7c5525302c19efb6fee6bd0d]
+## 94. Directions under Part 6[^c-b0b8389b7c5525302c19efb6fee6bd0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b8389b7c5525302c19efb6fee6bd0d]: Textual amendment: [Reg. 94](https://www.legislation.gov.uk/uksi/2019/792/regulation/94) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(y)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/y)
+[^c-b0b8389b7c5525302c19efb6fee6bd0d]: Textual amendment: [Reg. 94](https://www.legislation.gov.uk/uksi/2019/792/regulation/94) omitted (25.4.2025) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [24(y)](https://www.legislation.gov.uk/uksi/2025/507/regulation/24/y)

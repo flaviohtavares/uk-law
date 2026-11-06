@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28A. Wave and tidal stream generating stations[^key-90e6fe66f103a11faccafd5e8f209c9d]
+## 28A. Wave and tidal stream generating stations[^c-90e6fe66f103a11faccafd5e8f209c9d]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90e6fe66f103a11faccafd5e8f209c9d]: Textual amendment: [Art. 28A](https://www.legislation.gov.uk/nisr/2009/154/article/28A) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [21](https://www.legislation.gov.uk/nisr/2013/116/article/21) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-90e6fe66f103a11faccafd5e8f209c9d]: Textual amendment: [Art. 28A](https://www.legislation.gov.uk/nisr/2009/154/article/28A) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [21](https://www.legislation.gov.uk/nisr/2013/116/article/21) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Overview of this Part[^key-e2b82e1811658e28955e5af97b3b8bdd]
+## 56. Overview of this Part[^c-e2b82e1811658e28955e5af97b3b8bdd]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2b82e1811658e28955e5af97b3b8bdd]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2017/2/section/56) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/a) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-e2b82e1811658e28955e5af97b3b8bdd]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2017/2/section/56) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(a)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/a) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

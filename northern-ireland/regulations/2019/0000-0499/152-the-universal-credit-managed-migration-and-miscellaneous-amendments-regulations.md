@@ -46,7 +46,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of the Welfare Reform (Northern Ireland) Order 2015.
 
-## 1. Citation and commencement[^key-e3019c647d88cedf92cba52637f74355]
+## 1. Citation and commencement[^c-e3019c647d88cedf92cba52637f74355]
 
 (1) These Regulations may be cited as the Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019.
 
@@ -58,7 +58,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (5) Regulation 6 comes into force on 27th January 2021.
 
-## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016: managed migration (including provision for persons previously entitled to a severe disability premium)[^key-d0737230c9a49003c61182b923a481cf]
+## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016: managed migration (including provision for persons previously entitled to a severe disability premium)[^c-d0737230c9a49003c61182b923a481cf]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00002] are amended in accordance with paragraphs (2) to (10).
 
@@ -547,7 +547,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 .
 
-## 3. Two week run-on of income support, income-based jobseeker’s allowance and income-related employment and support allowance: amendment of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^key-d344a095f4cccd88d53d75e43f5fd1a7]
+## 3. Two week run-on of income support, income-based jobseeker’s allowance and income-related employment and support allowance: amendment of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^c-d344a095f4cccd88d53d75e43f5fd1a7]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00030] are amended in accordance with paragraphs (2) to (7).
 
@@ -586,9 +586,9 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (7) In regulation 12(3) (appeals etc. relating to certain existing benefits) after “regulation 6” insert “, 47 or 48”.
 
-## 4. Two week run-on of income-based jobseeker’s allowance and income-related employment and support allowance: day appointed for abolition[^key-1baefb6fe2d16753f5b58c129f936f63]
+## 4. Two week run-on of income-based jobseeker’s allowance and income-related employment and support allowance: day appointed for abolition[^c-1baefb6fe2d16753f5b58c129f936f63]
 
-(1) Subject to paragraph (2) where, in relation to any relevant claim for universal credit, an article (“the specified article”) of any Order made under the powers in Article 2(2) of the Welfare Reform (Northern Ireland) Order 2015 provides for the coming into force of the amending provisions, the provision in that Article for the day appointed is to be read as though the day appointed was the last day of the period of two weeks beginning with the day after the day[^key-b2d4bff608c03ea82d02ab1fb2d27517] mentioned in that provision.
+(1) Subject to paragraph (2) where, in relation to any relevant claim for universal credit, an article (“the specified article”) of any Order made under the powers in Article 2(2) of the Welfare Reform (Northern Ireland) Order 2015 provides for the coming into force of the amending provisions, the provision in that Article for the day appointed is to be read as though the day appointed was the last day of the period of two weeks beginning with the day after the day[^c-b2d4bff608c03ea82d02ab1fb2d27517] mentioned in that provision.
 
 (2) For the purposes of paragraphs (4) and (5) of Article 6 of the No. 8 Order (conversion to employment and support allowance of awards of incapacity benefit and severe disablement allowance), including as they apply for the purposes of any other Order made under Article 2(2) of the Welfare Reform (Northern Ireland) Order 2015, the day appointed by the specified Article for the coming into force of the amending provisions shall be treated as though it was the day that applies apart from this regulation.
 
@@ -598,7 +598,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - “the No. 8 Order” means the Welfare Reform (Northern Ireland) Order 2015 (Commencement No 8 and Transitional and Transitory Provisions) Order 2017[^f00038];
 - “relevant claim for universal credit” means a claim for universal credit made on or after 22nd July 2020 including a claim where, under the Article in question, the amending provisions come into force despite incorrect information having been given by the claimant, but excluding any claim that is treated as made by a couple in the circumstances referred to in regulation 8(8) (claims for universal credit by members of a couple) of the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2016[^f00039].
 
-## 5. 12 month exemption from the minimum income floor for new claimants[^key-187c18580067b2949d1c8a75f872562c]
+## 5. 12 month exemption from the minimum income floor for new claimants[^c-187c18580067b2949d1c8a75f872562c]
 
 (1) For regulation 64(1)(a) of the Universal Credit Regulations (Northern Ireland) 2016 (start-up period)[^f00040] substitute—
 
@@ -608,7 +608,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (2) Regulation 60 (minimum income floor not to apply for first 12 months) of the Universal Credit (Transitional Provisions) Regulations 2016[^f00041] is revoked.
 
-## 6. Abolition of restriction on claims by persons entitled to SDP[^key-b7fa691b0b40215faa65898e2f85496c]
+## 6. Abolition of restriction on claims by persons entitled to SDP[^c-b7fa691b0b40215faa65898e2f85496c]
 
 Regulation 2B (Restriction on claims for universal credit by persons entitled to a severe disability premium)[^f00042] of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 is revoked.
 
@@ -674,9 +674,9 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [S.I. 2015/2006 (N.I.1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-e3019c647d88cedf92cba52637f74355]: Commencement: Reg. 1 in operation at 24.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2)
+[^c-e3019c647d88cedf92cba52637f74355]: Commencement: Reg. 1 in operation at 24.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2)
 
-[^key-d0737230c9a49003c61182b923a481cf]: Commencement: Reg. 2 in operation at 24.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2)
+[^c-d0737230c9a49003c61182b923a481cf]: Commencement: Reg. 2 in operation at 24.7.2019, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2)
 
 [^f00002]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226).
 
@@ -734,7 +734,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00029]: Footnote: Paragraph 11 was amended by paragraph 1 of Schedule 11 to the Social Security (2018 Benefits Up-Rating) Order (Northern Ireland) 2019 ([S.I. 2019/46](https://www.legislation.gov.uk/uksi/2019/46)).
 
-[^key-d344a095f4cccd88d53d75e43f5fd1a7]: Commencement: Reg. 3 in operation at 22.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/3)
+[^c-d344a095f4cccd88d53d75e43f5fd1a7]: Commencement: Reg. 3 in operation at 22.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/3)
 
 [^f00030]: Footnote: Relevant amendments to these Regulations made by regulation 3 come into force on 24<sup>th</sup> July 2019 and the further amendments made by this regulation come into force on 22<sup>nd</sup> July 2020.
 
@@ -752,20 +752,20 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00037]: Footnote: Regulation 48 was inserted by regulation 2(8) of these Regulations.
 
-[^key-1baefb6fe2d16753f5b58c129f936f63]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2019/152/regulation/4) in operation at 22.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/3)
+[^c-1baefb6fe2d16753f5b58c129f936f63]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2019/152/regulation/4) in operation at 22.7.2020, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/3)
 
-[^key-b2d4bff608c03ea82d02ab1fb2d27517]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2019/152/regulation/4/1) inserted (4.8.2020) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/165)](https://www.legislation.gov.uk/nisr/2020/165), [regs. 1](https://www.legislation.gov.uk/nisr/2020/165/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/165/regulation/2/2)
+[^c-b2d4bff608c03ea82d02ab1fb2d27517]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2019/152/regulation/4/1) inserted (4.8.2020) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/165)](https://www.legislation.gov.uk/nisr/2020/165), [regs. 1](https://www.legislation.gov.uk/nisr/2020/165/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/165/regulation/2/2)
 
 [^f00038]: Footnote: [S.R. 2017 No. 190 (C. 11)](https://www.legislation.gov.uk/nisr/2017/190).
 
 [^f00039]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220).
 
-[^key-187c18580067b2949d1c8a75f872562c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2019/152/regulation/5) in operation at 23.9.2020, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/4)
+[^c-187c18580067b2949d1c8a75f872562c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2019/152/regulation/5) in operation at 23.9.2020, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/4)
 
 [^f00040]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216).
 
 [^f00041]: Footnote: Regulation 60 was inserted by regulation 2(8) of these Regulations.
 
-[^key-b7fa691b0b40215faa65898e2f85496c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2019/152/regulation/6) in operation at 27.1.2021, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/5)
+[^c-b7fa691b0b40215faa65898e2f85496c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2019/152/regulation/6) in operation at 27.1.2021, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/5)
 
 [^f00042]: Footnote: Regulation 2B was inserted by regulation 2(3) of [S.R. 2019 No. 2](https://www.legislation.gov.uk/nisr/2019/2).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Other cases where authority under duty to review plan[^key-7553cbb69b35a3bce4b60faf30e82886]
+## 48. Other cases where authority under duty to review plan[^c-7553cbb69b35a3bce4b60faf30e82886]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7553cbb69b35a3bce4b60faf30e82886]: Commencement: S. 48 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-7553cbb69b35a3bce4b60faf30e82886]: Commencement: S. 48 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

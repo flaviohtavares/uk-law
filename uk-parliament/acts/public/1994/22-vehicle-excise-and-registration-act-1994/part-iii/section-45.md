@@ -49,7 +49,7 @@ is guilty of an offence.
 
 is guilty of an offence.
 
-(3A)[^c18236881] A person who, in supplying information or producing documents for the purposes of any regulations made under section 61A [^key-0d71e528d461b9104feaa2ed477b6492]... —
+(3A)[^c18236881] A person who, in supplying information or producing documents for the purposes of any regulations made under section 61A [^c-0d71e528d461b9104feaa2ed477b6492]... —
 
 - (a) makes a statement which to his knowledge is false or in any material respect misleading or recklessly makes a statement which is false or in any material respect misleading, or
 - (b) produces or otherwise makes use of a document which to his knowledge is false or in any material respect misleading,
@@ -58,7 +58,7 @@ is guilty of an offence.
 
 (3B) A person who—
 
-- (a) with intent to deceive, forges, alters or uses a certificate issued by virtue of section 61A [^key-0d71e528d461b9104feaa2ed477b6492]... ;
+- (a) with intent to deceive, forges, alters or uses a certificate issued by virtue of section 61A [^c-0d71e528d461b9104feaa2ed477b6492]... ;
 - (b) knowing or believing that it will be used for deception lends such a certificate to another or allows another to alter or use it; or
 - (c) without reasonable excuse makes or has in his possession any document so closely resembling such a certificate as to be calculated to deceive,
 
@@ -83,4 +83,4 @@ is guilty of an offence.
 
 [^c18236881]: Textual amendment: S. 45(3A)(3B) inserted (1.5.1995 with effect as mentioned in [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/29) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [Sch. 4 Pt. IV paras. 24](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/part/IV/paragraph/24), [29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/part/IV/paragraph/29)
 
-[^key-0d71e528d461b9104feaa2ed477b6492]: Textual amendment: Words in s. 45(3A)(3B) omitted (1.1.2017) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 paras. 3(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/3/a), [19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/19)
+[^c-0d71e528d461b9104feaa2ed477b6492]: Textual amendment: Words in s. 45(3A)(3B) omitted (1.1.2017) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 18 paras. 3(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/3/a), [19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/18/paragraph/19)

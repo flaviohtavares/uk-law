@@ -34,7 +34,7 @@ Financial Services And Markets
 
 Electronic Communications
 
-The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 (revoked)[^key-b891e385be303bdf3e54421fea648144]
+The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 (revoked)[^c-b891e385be303bdf3e54421fea648144]
 
 Made
 
@@ -42,28 +42,28 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-b891e385be303bdf3e54421fea648144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b891e385be303bdf3e54421fea648144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b891e385be303bdf3e54421fea648144]
+## 1. Citation and commencement[^c-b891e385be303bdf3e54421fea648144]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002[^key-b891e385be303bdf3e54421fea648144]
+## 2. The Electronic Commerce Directive (Financial Services and Markets) Regulations 2002[^c-b891e385be303bdf3e54421fea648144]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-b891e385be303bdf3e54421fea648144]
+## 3. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-b891e385be303bdf3e54421fea648144]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b891e385be303bdf3e54421fea648144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b891e385be303bdf3e54421fea648144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b891e385be303bdf3e54421fea648144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b891e385be303bdf3e54421fea648144]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b891e385be303bdf3e54421fea648144]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/852) revoked (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/1361/regulation/10) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b891e385be303bdf3e54421fea648144]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/852) revoked (31.12.2020) by [The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1361)](https://www.legislation.gov.uk/uksi/2019/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1361/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/1361/regulation/10) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

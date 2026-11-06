@@ -94,7 +94,7 @@ Section 34
 
 **10.** In section 5 (regulations about claims and payments) in subsection (6), before “subsection” there is inserted “or housing credit (within the meaning of the State Pension Credit Act 2002)”.
 
-**11.**[^key-c19833c78f600d7ad4cff0b52e910cbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c19833c78f600d7ad4cff0b52e910cbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** (1) Section 122F (supply by rent officers of information) is amended as follows.
 
@@ -122,4 +122,4 @@ Section 34
 
 ## Annotations
 
-[^key-c19833c78f600d7ad4cff0b52e910cbe]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/5/schedule/4/paragraph/11) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(f)(ii)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/f/ii), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-c19833c78f600d7ad4cff0b52e910cbe]: Textual amendment: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/5/schedule/4/paragraph/11) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(f)(ii)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/f/ii), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))

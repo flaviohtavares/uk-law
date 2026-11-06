@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Operating protocol for release on licence under section 3AA[^key-0588c1fcd584c5c5f6e24b5a2c08018d]
+## 21A. Operating protocol for release on licence under section 3AA[^c-0588c1fcd584c5c5f6e24b5a2c08018d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0588c1fcd584c5c5f6e24b5a2c08018d]: Textual amendment: S. 21A inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 57(2)](https://www.legislation.gov.uk/asp/2019/14/section/57/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)
+[^c-0588c1fcd584c5c5f6e24b5a2c08018d]: Textual amendment: S. 21A inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 57(2)](https://www.legislation.gov.uk/asp/2019/14/section/57/2), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)

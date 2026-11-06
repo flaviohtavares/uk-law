@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Financial penalties[^key-87fec4770dd2e511b8b5cabdec254137][^key-80be02d16c65e72b37e8357100aa89e1]
+## 104. Financial penalties[^c-87fec4770dd2e511b8b5cabdec254137][^c-80be02d16c65e72b37e8357100aa89e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87fec4770dd2e511b8b5cabdec254137]: Commencement: S. 104 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-87fec4770dd2e511b8b5cabdec254137]: Commencement: S. 104 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-80be02d16c65e72b37e8357100aa89e1]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2023/56/section/104) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)
+[^c-80be02d16c65e72b37e8357100aa89e1]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2023/56/section/104) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)

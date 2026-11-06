@@ -26,9 +26,9 @@ summary: ''
 - (b) is on maternity leave;
 - (c) is on adoption leave;
 - (d) is on paternity leave;
-- (e) is on parental leave shared parental leave or parental bereavement leave[^key-8210456bf5c91dfa4656dcf5602270a7]; [^key-5dbf8ac7724b05868fd8cbdd415015e8]...
-- (ea)[^key-c31d193d486ae858c31220377db95a94] is on carer’s leave; [^key-47ea569bf30b9af50a80eb265e76508f]...
-- (eb)[^key-5191bd0ceeb1c2b1c6415ed3e94ae49d] is on neonatal care leave; or
+- (e) is on parental leave shared parental leave or parental bereavement leave[^c-8210456bf5c91dfa4656dcf5602270a7]; [^c-5dbf8ac7724b05868fd8cbdd415015e8]...
+- (ea)[^c-c31d193d486ae858c31220377db95a94] is on carer’s leave; [^c-47ea569bf30b9af50a80eb265e76508f]...
+- (eb)[^c-5191bd0ceeb1c2b1c6415ed3e94ae49d] is on neonatal care leave; or
 - (f) is within regulation 21(4) or (6).
 
 (2) If paragraph (1) applies—
@@ -52,12 +52,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8210456bf5c91dfa4656dcf5602270a7]: Textual amendment: Words in [reg. 68(1)(e)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1/e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [37(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/37/4)
+[^c-8210456bf5c91dfa4656dcf5602270a7]: Textual amendment: Words in [reg. 68(1)(e)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1/e) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [37(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/37/4)
 
-[^key-5dbf8ac7724b05868fd8cbdd415015e8]: Textual amendment: Word in [reg. 68(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1) omitted (1.4.2024) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/24/2)
+[^c-5dbf8ac7724b05868fd8cbdd415015e8]: Textual amendment: Word in [reg. 68(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1) omitted (1.4.2024) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/24/2)
 
-[^key-c31d193d486ae858c31220377db95a94]: Textual amendment: [Reg. 68(1)(ea)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1/ea) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/24/3)
+[^c-c31d193d486ae858c31220377db95a94]: Textual amendment: [Reg. 68(1)(ea)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1/ea) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [24(3)](https://www.legislation.gov.uk/uksi/2024/281/regulation/24/3)
 
-[^key-47ea569bf30b9af50a80eb265e76508f]: Textual amendment: Word in [reg. 68(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1) omitted (6.4.2025) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/3), [28(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/28/a)
+[^c-47ea569bf30b9af50a80eb265e76508f]: Textual amendment: Word in [reg. 68(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1) omitted (6.4.2025) by virtue of [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/3), [28(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/28/a)
 
-[^key-5191bd0ceeb1c2b1c6415ed3e94ae49d]: Textual amendment: [Reg. 68(1)(eb)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1/eb) inserted (6.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/3), [28(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/28/b)
+[^c-5191bd0ceeb1c2b1c6415ed3e94ae49d]: Textual amendment: [Reg. 68(1)(eb)](https://www.legislation.gov.uk/uksi/2015/94/regulation/68/1/eb) inserted (6.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/3), [28(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/28/b)

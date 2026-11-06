@@ -257,7 +257,7 @@ Section 32.
 
 (48) Omit Schedule 1 (Health and Social Services Boards) and Schedule 3 (the Agency).
 
-(49)[^key-f183c8832d318153d65c38122c0126df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(49)[^c-f183c8832d318153d65c38122c0126df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (50) In Schedule 10 (prohibition on sale of medical practices)—
 
@@ -364,7 +364,7 @@ Section 32.
 
 ### The Health and Personal Social Services (Northern Ireland) Order 1991 (NI 1)
 
-**13.** (1)[^key-ae7ceb3dc473373e06ebadca39414b69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.** (1)[^c-ae7ceb3dc473373e06ebadca39414b69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Article 2(3) after “Article 2(2)” insert “ and (2A) ”.
 
@@ -418,7 +418,7 @@ Section 32.
 (8) In Article 21 (indicative amounts for doctors' practices)—
 
 - (a) in paragraph (1) omit the words “in relation to which it is the relevant Health and Social Services Board”;
-- (b)[^key-c354ee898505085503580b09c37da7f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c354ee898505085503580b09c37da7f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) omit paragraphs (7) and (8A).
 
 (9) In Article 23(1) (power to raise funds) for “Health and Social Services Boards” substitute “ the Regional Board, the Regional Agency, ”.
@@ -466,7 +466,7 @@ Section 32.
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**15.**[^key-de19c244faae32d5078183487e98a880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-de19c244faae32d5078183487e98a880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Criminal Justice (Northern Ireland) Order 1996 (NI 24)
 
@@ -500,7 +500,7 @@ Section 32.
 **18.** (1) In section 51 (provision of information as to births and deaths)—
 
 - (a) in subsections (1) and (2) for “or the Agency” substitute “ , RBSO ”;
-- (b)[^key-73b609ab48bea8e781a6db470f489e12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-73b609ab48bea8e781a6db470f489e12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 54(1) (public access to meetings of certain bodies)—
 
@@ -527,14 +527,14 @@ Section 32.
 
 ## Annotations
 
-[^key-f183c8832d318153d65c38122c0126df]: Textual amendment: [Sch. 6 para. 3(49)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/49) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f183c8832d318153d65c38122c0126df]: Textual amendment: [Sch. 6 para. 3(49)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/49) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^M_F_5bd77ac0-8b90-43b1-a76a-da9e6443de5b]: Textual amendment: [Sch. 6 para. 3(50)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/3/49) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-ae7ceb3dc473373e06ebadca39414b69]: Textual amendment: [Sch. 6 para. 13(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/13/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ae7ceb3dc473373e06ebadca39414b69]: Textual amendment: [Sch. 6 para. 13(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/13/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-c354ee898505085503580b09c37da7f4]: Textual amendment: [Sch. 6 para. 13(8)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/13/8/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-c354ee898505085503580b09c37da7f4]: Textual amendment: [Sch. 6 para. 13(8)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/13/8/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-de19c244faae32d5078183487e98a880]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/15) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-de19c244faae32d5078183487e98a880]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/15) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-73b609ab48bea8e781a6db470f489e12]: Textual amendment: [Sch. 6 para. 18(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/18/1/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-73b609ab48bea8e781a6db470f489e12]: Textual amendment: [Sch. 6 para. 18(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/18/1/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 242(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/242/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

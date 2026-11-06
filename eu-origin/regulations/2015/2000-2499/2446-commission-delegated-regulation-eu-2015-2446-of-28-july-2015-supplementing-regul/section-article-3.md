@@ -22,8 +22,8 @@ summary: ''
 
 At the time of registration of a person, the customs authorities shall collect and store the data laid down in Annex 12-01 concerning that person. That data shall constitute the EORI record.
 
-[^key-2f56740b482fe2724150b8c78e07109a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f56740b482fe2724150b8c78e07109a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f56740b482fe2724150b8c78e07109a]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2015/2446/article/3) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [reg. 3(3)(ba)](https://www.legislation.gov.uk/uksi/2019/715/regulation/3/3/ba) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/4/2/a))
+[^c-2f56740b482fe2724150b8c78e07109a]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2015/2446/article/3) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [reg. 3(3)(ba)](https://www.legislation.gov.uk/uksi/2019/715/regulation/3/3/ba) (as inserted by [S.I. 2020/1379](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/4/2/a))

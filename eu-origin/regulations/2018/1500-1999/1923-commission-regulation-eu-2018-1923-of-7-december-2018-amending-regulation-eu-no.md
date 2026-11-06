@@ -35,14 +35,14 @@ amending Regulation (EU) No 360/2012 as regards its period of application
 
 (Text with EEA relevance) (revoked)
 
-[^key-1dfefac612cf7218c72d3eacb57ba878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dfefac612cf7218c72d3eacb57ba878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1dfefac612cf7218c72d3eacb57ba878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1dfefac612cf7218c72d3eacb57ba878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1dfefac612cf7218c72d3eacb57ba878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1dfefac612cf7218c72d3eacb57ba878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dfefac612cf7218c72d3eacb57ba878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dfefac612cf7218c72d3eacb57ba878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1dfefac612cf7218c72d3eacb57ba878]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(w)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/w) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-1dfefac612cf7218c72d3eacb57ba878]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(w)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/w) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

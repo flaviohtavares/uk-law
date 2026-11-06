@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17AB. Prohibition on acting unless membership notified[^key-5027ec350d4d6f4d9ebf78c40d3fe343]
+## 17AB. Prohibition on acting unless membership notified[^c-5027ec350d4d6f4d9ebf78c40d3fe343]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ Section 167N (prohibition on acting unless directorship notified) applies to LLP
 
 ## Annotations
 
-[^key-5027ec350d4d6f4d9ebf78c40d3fe343]: Textual amendment: [Regs. 17AA](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17AA), [17AB](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17AB) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-5027ec350d4d6f4d9ebf78c40d3fe343]: Textual amendment: [Regs. 17AA](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17AA), [17AB](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17AB) inserted (18.11.2025) by [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/3) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)

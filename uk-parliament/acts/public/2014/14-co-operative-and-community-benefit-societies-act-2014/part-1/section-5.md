@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Cancellation of registration: conditions for cancellation[^key-848a2f68fa41bb781529d6d55ea8c53f]
+## 5. Cancellation of registration: conditions for cancellation[^c-848a2f68fa41bb781529d6d55ea8c53f]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 (3) Condition B is that any of the following is proved to the FCA's satisfaction—
 
 - (a) that an acknowledgment of registration has been obtained by fraud or mistake;
-- (b)[^key-bc0e93b2a426162b113e414fb5cc5448] that the society has less than 3 members (and does not have 2 members both of which are registered societies);
+- (b)[^c-bc0e93b2a426162b113e414fb5cc5448] that the society has less than 3 members (and does not have 2 members both of which are registered societies);
 - (c) that the society has ceased to exist.
 
 (4) Condition C is that it is proved to the FCA's satisfaction—
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-848a2f68fa41bb781529d6d55ea8c53f]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2014/14/section/5) applied (with modifications) by 1979 c. 34, s. 20(1)-(1ZD) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/10/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-848a2f68fa41bb781529d6d55ea8c53f]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2014/14/section/5) applied (with modifications) by 1979 c. 34, s. 20(1)-(1ZD) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 10(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/10/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
 
-[^key-bc0e93b2a426162b113e414fb5cc5448]: Modification: [S. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2014/14/section/5/3/b) modified by 1979 c. 34, s. 6(1A) (as inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/6/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-bc0e93b2a426162b113e414fb5cc5448]: Modification: [S. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2014/14/section/5/3/b) modified by 1979 c. 34, s. 6(1A) (as inserted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/6/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

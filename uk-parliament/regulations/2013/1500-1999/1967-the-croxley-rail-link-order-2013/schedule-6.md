@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-25f77c543bdf40d0dd34db0eabc46565]
+## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-25f77c543bdf40d0dd34db0eabc46565]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ Article 20
 
 ## Annotations
 
-[^key-25f77c543bdf40d0dd34db0eabc46565]: Commencement: Sch. 6 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-25f77c543bdf40d0dd34db0eabc46565]: Commencement: Sch. 6 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

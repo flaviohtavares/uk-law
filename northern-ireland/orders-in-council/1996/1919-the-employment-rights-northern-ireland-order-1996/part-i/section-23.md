@@ -28,7 +28,7 @@ summary: ''
 - (ba)[^c17621291] an award under Article 146(5); or
 - (c) a redundancy payment,
 
-the amount of a week's pay shall not exceed £783[^key-7940118541453397c8a89a2510d344cd].
+the amount of a week's pay shall not exceed £783[^c-7940118541453397c8a89a2510d344cd].
 
 *Paras. (2)‐(4) rep. by 1999 NI 9*
 
@@ -46,4 +46,4 @@ the amount of a week's pay shall not exceed £783[^key-7940118541453397c8a89a251
 
 [^c17621291]: Textual amendment: [2003 NI 15](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-7940118541453397c8a89a2510d344cd]: Textual amendment: Sum in [art. 23(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/23/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))
+[^c-7940118541453397c8a89a2510d344cd]: Textual amendment: Sum in [art. 23(1)](https://www.legislation.gov.uk/nisi/1996/1919/article/23/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 (S.R. 2026/57)](https://www.legislation.gov.uk/nisr/2026/57), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/57/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2026/57/schedule) (with [art. 4](https://www.legislation.gov.uk/nisr/2026/57/article/4))

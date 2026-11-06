@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Repeals[^key-861553113c16e9a5abc555eea9349142][^key-b0a43fcfef123e9fde05db386ec12f2c]
+## 47. Repeals[^c-861553113c16e9a5abc555eea9349142][^c-b0a43fcfef123e9fde05db386ec12f2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The enactments listed in Schedule 4 are hereby repealed to the extent specified.
 
 ## Annotations
 
-[^key-861553113c16e9a5abc555eea9349142]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/19/section/47) in force at 1.10.2004 for specified purposes by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-861553113c16e9a5abc555eea9349142]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/19/section/47) in force at 1.10.2004 for specified purposes by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
 
-[^key-b0a43fcfef123e9fde05db386ec12f2c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/19/section/47) in force at 14.6.2007 by [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3))
+[^c-b0a43fcfef123e9fde05db386ec12f2c]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2004/19/section/47) in force at 14.6.2007 by [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3))

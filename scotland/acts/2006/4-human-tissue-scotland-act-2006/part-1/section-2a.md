@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Establishment and maintenance of register[^key-133b54b5d8e022d6794c3b5a2a86aa99]
+## 2A. Establishment and maintenance of register[^c-133b54b5d8e022d6794c3b5a2a86aa99]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-133b54b5d8e022d6794c3b5a2a86aa99]: Textual amendment: Ss. 2A-2D and cross-heading inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 3(2)](https://www.legislation.gov.uk/asp/2019/11/section/3/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-133b54b5d8e022d6794c3b5a2a86aa99]: Textual amendment: Ss. 2A-2D and cross-heading inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 3(2)](https://www.legislation.gov.uk/asp/2019/11/section/3/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

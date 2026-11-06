@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Amendment to regulation 177[^key-bb0840a309428d5440b2b4be197758b1]
+## 74. Amendment to regulation 177[^c-bb0840a309428d5440b2b4be197758b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 177 (application of Part and interpretation)[^f00084]—
 
 ## Annotations
 
-[^key-bb0840a309428d5440b2b4be197758b1]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2024/832/regulation/74) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-bb0840a309428d5440b2b4be197758b1]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2024/832/regulation/74) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00084]: Footnote: Paragraph (1A) (which includes a typographical error being corrected by the amendment) and the definition of “signal” in paragraph (5), were inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); paragraph (4) was substituted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).

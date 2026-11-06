@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Duty to produce a land use strategy[^key-2018af33260e50ecf2b7830a08470d15]
+## 57. Duty to produce a land use strategy[^c-2018af33260e50ecf2b7830a08470d15]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) The objectives, proposals and policies referred to in subsection (2) must contribute to—
 
-- (a) achievement of the Scottish Ministers' duties under section A1 or A3[^key-c4acbdf0ff9a76ec584f3a7587285835];
+- (a) achievement of the Scottish Ministers' duties under section A1 or A3[^c-c4acbdf0ff9a76ec584f3a7587285835];
 - (b) achievement of the Scottish Ministers' objectives in relation to adaptation to climate change, including those set out in any programme produced by virtue of section 53(2); and
 - (c) sustainable development.
 
@@ -50,6 +50,6 @@ lay a revised strategy before the Scottish Parliament; and subsections (2) to (5
 
 ## Annotations
 
-[^key-2018af33260e50ecf2b7830a08470d15]: Commencement: S. 57 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-2018af33260e50ecf2b7830a08470d15]: Commencement: S. 57 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-c4acbdf0ff9a76ec584f3a7587285835]: Textual amendment: Words in [s. 57(3)(a)](https://www.legislation.gov.uk/asp/2009/12/section/57/3/a) substituted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(21)](https://www.legislation.gov.uk/asp/2024/15/section/2/21), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-c4acbdf0ff9a76ec584f3a7587285835]: Textual amendment: Words in [s. 57(3)(a)](https://www.legislation.gov.uk/asp/2009/12/section/57/3/a) substituted (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(21)](https://www.legislation.gov.uk/asp/2024/15/section/2/21), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

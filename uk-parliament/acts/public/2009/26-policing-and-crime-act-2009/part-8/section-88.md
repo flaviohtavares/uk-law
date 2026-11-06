@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Provision of safeguarding information to the police[^key-ca57af4586e85dd02f0a573b2f71688a]
+## 88. Provision of safeguarding information to the police[^c-ca57af4586e85dd02f0a573b2f71688a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After section 50 of the Safeguarding Vulnerable Groups Act 2006 (c. 47) insertâ€
 
 ## Annotations
 
-[^key-ca57af4586e85dd02f0a573b2f71688a]: Commencement: S. 88 in force at 30.11.2009 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/2/a)
+[^c-ca57af4586e85dd02f0a573b2f71688a]: Commencement: S. 88 in force at 30.11.2009 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/2/a)

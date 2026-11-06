@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) (No. 2) Order 2010 (revoked)[^key-6ac84243035464ae942c02d20d5bf04f]
+The European Communities (Designation) (No. 2) Order 2010 (revoked)[^c-6ac84243035464ae942c02d20d5bf04f]
 
 Made
 
@@ -52,42 +52,42 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-6ac84243035464ae942c02d20d5bf04f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ac84243035464ae942c02d20d5bf04f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6ac84243035464ae942c02d20d5bf04f]
+## 1. Citation, commencement and interpretation[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the safety management of road infrastructure[^key-6ac84243035464ae942c02d20d5bf04f]
+## 2. Designation in relation to the safety management of road infrastructure[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to the prevention, reduction and management of waste[^key-6ac84243035464ae942c02d20d5bf04f]
+## 3. Designation in relation to the prevention, reduction and management of waste[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to the environmental aspects of product design[^key-6ac84243035464ae942c02d20d5bf04f]
+## 4. Designation in relation to the environmental aspects of product design[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Relationship with other designations[^key-6ac84243035464ae942c02d20d5bf04f]
+## 5. Relationship with other designations[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions[^key-6ac84243035464ae942c02d20d5bf04f]
+## 6. Restrictions[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-6ac84243035464ae942c02d20d5bf04f]
+## 7. Revocations[^c-6ac84243035464ae942c02d20d5bf04f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ac84243035464ae942c02d20d5bf04f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ac84243035464ae942c02d20d5bf04f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ac84243035464ae942c02d20d5bf04f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ac84243035464ae942c02d20d5bf04f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ac84243035464ae942c02d20d5bf04f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1552) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ac84243035464ae942c02d20d5bf04f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1552) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

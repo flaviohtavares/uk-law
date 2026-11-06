@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S*
 
-(A1)[^key-4c0f527def2b7a70488294346bea91ee] A person may not contribute to or accrue further pensionable service under this Section of the scheme in relation to the person’s service after 31st March 2022.
+(A1)[^c-4c0f527def2b7a70488294346bea91ee] A person may not contribute to or accrue further pensionable service under this Section of the scheme in relation to the person’s service after 31st March 2022.
 
 (A2) Paragraphs (1) to (9) of this regulation apply to a person’s service under this Section of the scheme before 1st April 2022.
 
-(A3)[^key-91141305e62943e37ae92a981a4e1888] Nothing in paragraphs (8G) to (8U) of this regulation prevents a member’s remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 being treated as pensionable service under this Section of the scheme in accordance with section 2 of that Act (remediable service treated as pensionable under Chapter 1 legacy schemes).
+(A3)[^c-91141305e62943e37ae92a981a4e1888] Nothing in paragraphs (8G) to (8U) of this regulation prevents a member’s remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 being treated as pensionable service under this Section of the scheme in accordance with section 2 of that Act (remediable service treated as pensionable under Chapter 1 legacy schemes).
 
-(1) Persons who cease to satisfy the conditions for eligibility for membership specified in regulation B1(1)[^key-fcc27740b33c2baff6e495375987bf90] may not contribute to or accrue further pensionable service under this Section of the scheme.
+(1) Persons who cease to satisfy the conditions for eligibility for membership specified in regulation B1(1)[^c-fcc27740b33c2baff6e495375987bf90] may not contribute to or accrue further pensionable service under this Section of the scheme.
 
-(2)[^key-021a0baf71178b33992e14d521ac2c6f] Persons whose pensions under this Section of the scheme are payable may not contribute to or accrue further pensionable service under this Section of the scheme, except in the cases referred to in—
+(2)[^c-021a0baf71178b33992e14d521ac2c6f] Persons whose pensions under this Section of the scheme are payable may not contribute to or accrue further pensionable service under this Section of the scheme, except in the cases referred to in—
 
 - (a) regulation E2(11);
 - (b) regulation E2A(11) but subject to paragraph (3);
@@ -39,7 +39,7 @@ summary: ''
 - (a) regulation E2B(3)(a) applies may not (except where paragraph (b) applies) contribute to or accrue further pensionable service under this Section of the scheme from the date the Secretary of State makes a determination under that regulation;
 - (b) paragraph (a) applies may contribute to or accrue further pensionable service under this Section of the scheme from the day after the first anniversary of that person’s NHS employment following the date of the Secretary of State’s determination under regulation E2B if that person is under the age of 50 on that day.
 
-(4)[^key-775fc945faaff866b753ead3beaf552e] Subject to paragraph (7), a person who satisfies Condition A or Condition B may not contribute to or accrue pensionable service under this Section of the scheme in respect of any period of NHS employment on or after 1st July 2009 (“the relevant employment”) with effect from the later of—
+(4)[^c-775fc945faaff866b753ead3beaf552e] Subject to paragraph (7), a person who satisfies Condition A or Condition B may not contribute to or accrue pensionable service under this Section of the scheme in respect of any period of NHS employment on or after 1st July 2009 (“the relevant employment”) with effect from the later of—
 
 - (a) that date, and
 - (b) the date on which Condition A or Condition B is met.
@@ -66,7 +66,7 @@ summary: ''
 - (a) which, having regard to the purpose of the arrangement and its effect on the functions of the employing authority, the Secretary of State considers has that equivalence, and
 - (b) under which the Secretary of State requires the parties to agree that the rights of the person whose employment is being transferred should, as far as practicable, be treated no less favourably than they would have been under a TUPE transfer.
 
-(8A)[^key-ae992b7c09388a5d27d6660ce0f1340f] For the purposes of paragraphs (8B) to (8F), a retention arrangement is one under which—
+(8A)[^c-ae992b7c09388a5d27d6660ce0f1340f] For the purposes of paragraphs (8B) to (8F), a retention arrangement is one under which—
 
 - (a) a person is seconded from an employing authority (“**the sending employing authority**”) to another body which is not an employing authority (“the other body”), and
 - (b) that person, pursuant to an intention of the sending employing authority, remains an employee of that authority in circumstances where that person’s performance of services pursuant to a qualifying contract for the other body counts as pensionable service only by reason of that retention arrangement.
@@ -91,7 +91,7 @@ This is subject to paragraph (8E).
 
 (8H) A person who on 1st April 2012 has attained the age of 50 may not contribute to or accrue further pensionable service under this Section of the scheme unless that person either—
 
-- (a)[^key-0f1cf0642f2e4dd4de89f7c950984a29] is in pensionable employment on 31st March 2015,
+- (a)[^c-0f1cf0642f2e4dd4de89f7c950984a29] is in pensionable employment on 31st March 2015,
 - (b) returns to pensionable employment on or after 1st April 2015 in circumstances where the provisions of regulation B2 do not apply, or
 - (c) is permitted to join this Section of the scheme by virtue of regulation B2(3).
 
@@ -110,7 +110,7 @@ This is subject to paragraph (8E).
 - (a) under regulation R2, or
 - (b) under regulation R3 and would, if that employment were to continue until that person attained the age of 60 years, be able to count in excess of 20 years’ pensionable service as a mental health officer for the purposes of paragraphs (5) and (6) of that regulation.
 
-(8L)[^key-10c02b2e81eb8cf6351709d0e82f75a6] A person who, on 1st April 2012, has attained the age of 46 years and 7 months but has not attained the age of 50, may not contribute to or accrue further pensionable service under this Section of the scheme unless one of paragraphs (8J), (8M) or (8N) applies to that person and that person—
+(8L)[^c-10c02b2e81eb8cf6351709d0e82f75a6] A person who, on 1st April 2012, has attained the age of 46 years and 7 months but has not attained the age of 50, may not contribute to or accrue further pensionable service under this Section of the scheme unless one of paragraphs (8J), (8M) or (8N) applies to that person and that person—
 
 - (a) is in pensionable employment on 31st March 2015,
 - (b) returns to pensionable employment on or after 1st April 2015 in circumstances where the provisions of regulation B2 do not apply, or
@@ -175,20 +175,20 @@ where—
 
 [^M_F_b0ef8ea9-7f0a-442c-cbc9-00a29ef80918]: Textual amendment: Words in [reg. B3](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-4c0f527def2b7a70488294346bea91ee]: Textual amendment: [Reg. B3(A1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/A1)[(A2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/A2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/327)](https://www.legislation.gov.uk/uksi/2022/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/327/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/327/regulation/2)
+[^c-4c0f527def2b7a70488294346bea91ee]: Textual amendment: [Reg. B3(A1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/A1)[(A2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/A2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2022 (S.I. 2022/327)](https://www.legislation.gov.uk/uksi/2022/327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/327/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/327/regulation/2)
 
-[^key-91141305e62943e37ae92a981a4e1888]: Textual amendment: [Reg. B3(A3)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/A3) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) Regulations 2023 (S.I. 2023/985)](https://www.legislation.gov.uk/uksi/2023/985), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/985/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2023/985/schedule/2/paragraph/1)
+[^c-91141305e62943e37ae92a981a4e1888]: Textual amendment: [Reg. B3(A3)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/A3) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) Regulations 2023 (S.I. 2023/985)](https://www.legislation.gov.uk/uksi/2023/985), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/985/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2023/985/schedule/2/paragraph/1)
 
-[^key-fcc27740b33c2baff6e495375987bf90]: Textual amendment: Words in [reg. B3(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/1) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/4/2)
+[^c-fcc27740b33c2baff6e495375987bf90]: Textual amendment: Words in [reg. B3(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/1) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/4/2)
 
-[^key-021a0baf71178b33992e14d521ac2c6f]: Textual amendment: [Reg. B3(2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/2)[(3)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/3) substituted for [reg. B3(2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/2) (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/381/regulation/3) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-021a0baf71178b33992e14d521ac2c6f]: Textual amendment: [Reg. B3(2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/2)[(3)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/3) substituted for [reg. B3(2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/2) (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2009/381/regulation/3) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-775fc945faaff866b753ead3beaf552e]: Textual amendment: [Reg. B3(4)-(9)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/4) inserted (1.7.2009) by [The National Health Service Pension Scheme (Amendment) Regulations 2009 (S.I. 2009/1298)](https://www.legislation.gov.uk/uksi/2009/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1298/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1298/regulation/2/3)
+[^c-775fc945faaff866b753ead3beaf552e]: Textual amendment: [Reg. B3(4)-(9)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/4) inserted (1.7.2009) by [The National Health Service Pension Scheme (Amendment) Regulations 2009 (S.I. 2009/1298)](https://www.legislation.gov.uk/uksi/2009/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1298/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1298/regulation/2/3)
 
-[^key-ae992b7c09388a5d27d6660ce0f1340f]: Textual amendment: [Reg. B3(8A)-(8F)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/8A) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2014/570/regulation/4) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-ae992b7c09388a5d27d6660ce0f1340f]: Textual amendment: [Reg. B3(8A)-(8F)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/8A) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2014/570/regulation/4) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
 [^M_F_dd6a8c88-d8fc-4082-cc92-e932ae3119c2]: Textual amendment: Reg. B3(8G)-(8U) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/4)
 
-[^key-0f1cf0642f2e4dd4de89f7c950984a29]: Textual amendment: [Reg. B3(8H)(a)-(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/8H/a) substituted for reg. B3(8H)(a)(b) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [5(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/5/2) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-0f1cf0642f2e4dd4de89f7c950984a29]: Textual amendment: [Reg. B3(8H)(a)-(c)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/8H/a) substituted for reg. B3(8H)(a)(b) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [5(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/5/2) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-10c02b2e81eb8cf6351709d0e82f75a6]: Textual amendment: [Reg. B3(8L)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/8L) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [5(3)](https://www.legislation.gov.uk/uksi/2016/245/regulation/5/3) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-10c02b2e81eb8cf6351709d0e82f75a6]: Textual amendment: [Reg. B3(8L)](https://www.legislation.gov.uk/uksi/1995/300/regulation/B3/8L) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [5(3)](https://www.legislation.gov.uk/uksi/2016/245/regulation/5/3) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

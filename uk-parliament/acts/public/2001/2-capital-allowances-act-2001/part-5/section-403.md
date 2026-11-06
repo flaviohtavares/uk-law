@@ -30,10 +30,10 @@ summary: ''
 - section 404 (exclusion of undeveloped market value of land), and
 - section 406 (reduction where premium relief previously allowed).
 
-(2A)[^key-4b776404a7b344cf08651901a3c67270] For the purposes of this section the reference to expenditure on acquiring a mineral asset does not include expenditure incurred on the restoration of a relevant site (within the meaning of section 416 or 416ZA).
+(2A)[^c-4b776404a7b344cf08651901a3c67270] For the purposes of this section the reference to expenditure on acquiring a mineral asset does not include expenditure incurred on the restoration of a relevant site (within the meaning of section 416 or 416ZA).
 
 (3) In this Chapter “**the buyer**”, in relation to the acquisition of a mineral asset, means the person acquiring it.
 
 ## Annotations
 
-[^key-4b776404a7b344cf08651901a3c67270]: Textual amendment: [S. 403(2A)](https://www.legislation.gov.uk/ukpga/2001/2/section/403/2A) inserted (with effect in accordance with s. 92(10) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 92(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/92/3)
+[^c-4b776404a7b344cf08651901a3c67270]: Textual amendment: [S. 403(2A)](https://www.legislation.gov.uk/ukpga/2001/2/section/403/2A) inserted (with effect in accordance with s. 92(10) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 92(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/92/3)

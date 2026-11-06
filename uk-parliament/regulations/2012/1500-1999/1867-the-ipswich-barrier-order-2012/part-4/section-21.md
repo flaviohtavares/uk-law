@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Power to acquire land[^key-6fa7b302e54b485a5bdd5c5b1bae8f1b]
+## 21. Power to acquire land[^c-6fa7b302e54b485a5bdd5c5b1bae8f1b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Agency may acquire compulsorily so much of the land shown on the land plans 
 
 ## Annotations
 
-[^key-6fa7b302e54b485a5bdd5c5b1bae8f1b]: Commencement: Art. 21 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-6fa7b302e54b485a5bdd5c5b1bae8f1b]: Commencement: Art. 21 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

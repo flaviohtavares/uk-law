@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Plastic Materials and Articles in Contact with Food (Amendment) (Wales) Regulations 2005 (revoked)[^key-620ec27678b074b81189d38bc95c7384]
+The Plastic Materials and Articles in Contact with Food (Amendment) (Wales) Regulations 2005 (revoked)[^c-620ec27678b074b81189d38bc95c7384]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into force
 
 28 February 2005
 
-[^key-620ec27678b074b81189d38bc95c7384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620ec27678b074b81189d38bc95c7384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-620ec27678b074b81189d38bc95c7384]
+## 1. Title, application and commencement[^c-620ec27678b074b81189d38bc95c7384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^key-620ec27678b074b81189d38bc95c7384]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^c-620ec27678b074b81189d38bc95c7384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-620ec27678b074b81189d38bc95c7384]
+## 3.[^c-620ec27678b074b81189d38bc95c7384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-620ec27678b074b81189d38bc95c7384]
+## 4.[^c-620ec27678b074b81189d38bc95c7384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-620ec27678b074b81189d38bc95c7384]
+## 5.[^c-620ec27678b074b81189d38bc95c7384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-620ec27678b074b81189d38bc95c7384]
+## 6.[^c-620ec27678b074b81189d38bc95c7384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-620ec27678b074b81189d38bc95c7384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620ec27678b074b81189d38bc95c7384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-620ec27678b074b81189d38bc95c7384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-620ec27678b074b81189d38bc95c7384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-620ec27678b074b81189d38bc95c7384]: Textual amendment: Regulations revoked (19.11.2006) by [The Plastic Materials and Articles in Contact with Food (Wales) Regulations 2006 (S.I. 2006/2982)](https://www.legislation.gov.uk/uksi/2006/2982), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2982/regulation/1), [25(e)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/25/e) (with [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/18/1))
+[^c-620ec27678b074b81189d38bc95c7384]: Textual amendment: Regulations revoked (19.11.2006) by [The Plastic Materials and Articles in Contact with Food (Wales) Regulations 2006 (S.I. 2006/2982)](https://www.legislation.gov.uk/uksi/2006/2982), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2982/regulation/1), [25(e)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/25/e) (with [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/18/1))

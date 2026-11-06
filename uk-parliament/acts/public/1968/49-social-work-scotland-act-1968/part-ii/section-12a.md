@@ -24,13 +24,13 @@ summary: ''
 
 - (a) shall make an assessment of the needs of that person for those services; and
 - (b)[^c16719471] shall then decide, having regard to the results of that assessment, and taking account—
-  - (i)[^key-e95c7acfb26e3955a8d7c5c375759ec6] if an adult carer provides, or intends to provide, care for that person, of the care provided by that carer,
+  - (i)[^c-e95c7acfb26e3955a8d7c5c375759ec6] if an adult carer provides, or intends to provide, care for that person, of the care provided by that carer,
   - (ia) if a young carer provides, or intends to provide, care for that person, of the care provided by that carer,
-  - (ii) in so far as it is reasonable and practicable to do so, [^key-647476f5ddcccdfab3ddd67b224b6796]... of the views of the person whose needs are being assessed [^key-3e2f5dca47de401e17aaf4aa5555018c]... (provided that [^key-63a058faa7d84988aadb498df0afca0a]... there is a wish, or as the case may be a capacity, to express a view),
+  - (ii) in so far as it is reasonable and practicable to do so, [^c-647476f5ddcccdfab3ddd67b224b6796]... of the views of the person whose needs are being assessed [^c-3e2f5dca47de401e17aaf4aa5555018c]... (provided that [^c-63a058faa7d84988aadb498df0afca0a]... there is a wish, or as the case may be a capacity, to express a view),
 
   whether the needs of the person being assessed call for the provision of any such services.
 
-(1A)[^key-351556269628b25cf7e7b3fabc26a6c4] In subsection (1)(b)(i) and (ia), the reference to the care provided by a carer means—
+(1A)[^c-351556269628b25cf7e7b3fabc26a6c4] In subsection (1)(b)(i) and (ia), the reference to the care provided by a carer means—
 
 - (a) in the case of an adult carer who has an adult carer support plan, the information about that care set out in that plan,
 - (b) in the case of a young carer who has a young carer statement, the information about that care set out in that statement.
@@ -73,8 +73,8 @@ the local authority shall so notify that Health Board or housing authority, and 
 
 (8) In this section—
 
-- “adult carer” and “adult carer support plan” have the meanings given by the Carers (Scotland) Act 2016,[^key-19e436d29b50aec249defb22d7b33f6b]
-- “community care services” means services, other than services for children, which a local authority is under a duty or has a power to provide, or to secure the provision of, under—[^key-8f4954a600993332274dce8029bed3a9]
+- “adult carer” and “adult carer support plan” have the meanings given by the Carers (Scotland) Act 2016,[^c-19e436d29b50aec249defb22d7b33f6b]
+- “community care services” means services, other than services for children, which a local authority is under a duty or has a power to provide, or to secure the provision of, under—[^c-8f4954a600993332274dce8029bed3a9]
   - (a) Part 2 of this Act; or
   - (b) any of the following provisions of the Mental Health (Care and Treatment) (Scotland) Act 2003—
     - (i) section 25 (care and support services etc. );
@@ -83,7 +83,7 @@ the local authority shall so notify that Health Board or housing authority, and 
 - “**disabled person**” has the same meaning as in the said Act of 1986; and
 - “**medical practitioner**” means a fully registered person within the meaning of section 55 (interpretation) of the Medical Act 1983.
 - “[^c9964291]**person**” means a natural person.
-- “young carer” and “young carer statement” have the meanings given by the Carers (Scotland) Act 2016.[^key-cfd2cd39c39c4156b9fcdf08a4077add]
+- “young carer” and “young carer statement” have the meanings given by the Carers (Scotland) Act 2016.[^c-cfd2cd39c39c4156b9fcdf08a4077add]
 
 ## Annotations
 
@@ -95,15 +95,15 @@ the local authority shall so notify that Health Board or housing authority, and 
 
 [^c16719471]: Textual amendment: S. 12A(1)(b) substituted (1.9.2002) by [Community Care and Health (Scotland) Act 2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5), [s. 8](https://www.legislation.gov.uk/asp/2002/5/section/8); [S.S.I. 2002/170](https://www.legislation.gov.uk/ssi/2002/170), [art. 2](https://www.legislation.gov.uk/ssi/2002/170/article/2)
 
-[^key-e95c7acfb26e3955a8d7c5c375759ec6]: Textual amendment: S. 12A(1)(b)(i)(ia) substituted for s. 12A(1)(b)(i) (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(a)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/a), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-e95c7acfb26e3955a8d7c5c375759ec6]: Textual amendment: S. 12A(1)(b)(i)(ia) substituted for s. 12A(1)(b)(i) (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(a)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/a), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-647476f5ddcccdfab3ddd67b224b6796]: Textual amendment: Word in s. 12A(1)(b)(ii) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(b)(i)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/b/i), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-647476f5ddcccdfab3ddd67b224b6796]: Textual amendment: Word in s. 12A(1)(b)(ii) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(b)(i)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/b/i), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-3e2f5dca47de401e17aaf4aa5555018c]: Textual amendment: Words in s. 12A(1)(b)(ii) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(b)(ii)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/b/ii), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-3e2f5dca47de401e17aaf4aa5555018c]: Textual amendment: Words in s. 12A(1)(b)(ii) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(b)(ii)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/b/ii), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-63a058faa7d84988aadb498df0afca0a]: Textual amendment: Words in s. 12A(1)(b)(ii) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(b)(iii)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/b/iii), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-63a058faa7d84988aadb498df0afca0a]: Textual amendment: Words in s. 12A(1)(b)(ii) repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(2)(b)(iii)](https://www.legislation.gov.uk/asp/2016/9/section/30/2/b/iii), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-351556269628b25cf7e7b3fabc26a6c4]: Textual amendment: S. 12A(1A)(1B) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(3)](https://www.legislation.gov.uk/asp/2016/9/section/30/3), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-351556269628b25cf7e7b3fabc26a6c4]: Textual amendment: S. 12A(1A)(1B) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(3)](https://www.legislation.gov.uk/asp/2016/9/section/30/3), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
 [^c16714191]: Modification: S. 12A(2) power to modify conferred (1.4.2002) by [Community Care and Health (Scotland) Act 2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5), [s. 1(7)](https://www.legislation.gov.uk/asp/2002/5/section/1/7); [S.S.I. 2002/170](https://www.legislation.gov.uk/ssi/2002/170), [art. 2](https://www.legislation.gov.uk/ssi/2002/170/article/2)
 
@@ -117,10 +117,10 @@ the local authority shall so notify that Health Board or housing authority, and 
 
 [^c9964281]: Marginal citation: [1986 c. 33](https://www.legislation.gov.uk/ukpga/1986/33) (113:1).
 
-[^key-19e436d29b50aec249defb22d7b33f6b]: Textual amendment: Words in s. 12A(8) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(4)(a)](https://www.legislation.gov.uk/asp/2016/9/section/30/4/a), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-19e436d29b50aec249defb22d7b33f6b]: Textual amendment: Words in s. 12A(8) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(4)(a)](https://www.legislation.gov.uk/asp/2016/9/section/30/4/a), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
 
-[^key-8f4954a600993332274dce8029bed3a9]: Textual amendment: Words in s. 12A(8) substituted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 1(3)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/1/3)
+[^c-8f4954a600993332274dce8029bed3a9]: Textual amendment: Words in s. 12A(8) substituted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [sch. para. 1(3)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/1/3)
 
 [^c9964291]: Textual amendment: S. 12A(8): definition of “**person**” inserted (1.4.1996) by [1995 c. 12](https://www.legislation.gov.uk/ukpga/1995/12), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/1995/12/section/2/3), [5(2)](https://www.legislation.gov.uk/ukpga/1995/12/section/5/2)
 
-[^key-cfd2cd39c39c4156b9fcdf08a4077add]: Textual amendment: Words in s. 12A(8) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(4)(b)](https://www.legislation.gov.uk/asp/2016/9/section/30/4/b), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-cfd2cd39c39c4156b9fcdf08a4077add]: Textual amendment: Words in s. 12A(8) inserted (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [ss. 30(4)(b)](https://www.legislation.gov.uk/asp/2016/9/section/30/4/b), [45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)

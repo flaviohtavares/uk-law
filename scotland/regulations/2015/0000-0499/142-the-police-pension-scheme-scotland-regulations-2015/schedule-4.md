@@ -24,7 +24,7 @@ Regulation 218
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-ea21876116564e6dba460da08ba6aff7]
+#### 1. Interpretation[^c-ea21876116564e6dba460da08ba6aff7]
 
 In this Schedule—
 
@@ -40,7 +40,7 @@ In this Schedule—
   - (a) who is an active member of this scheme; or
   - (b) who, for the purpose of determining entitlement to payment of benefits to or in respect of the member, is taken to be an active member of this scheme[^f00091];
 - “closing date”, in relation to a transition member, means—
-  - (za) if the member is a full protection member of the existing police pension scheme, 31 March 2022;[^key-d77ae1689c987dd760c134bb78564781]
+  - (za) if the member is a full protection member of the existing police pension scheme, 31 March 2022;[^c-d77ae1689c987dd760c134bb78564781]
   - (b) if the member is a tapered protection member of the existing police pension scheme, the tapered protection closing date for that member; or
   - (c) if the member is not a protected member of the existing police pension scheme, the scheme closing date;
 - “exception” means an exception to section 18(1) of the Act;
@@ -64,17 +64,17 @@ In this Schedule—
   - (c) in relation to the 1988 NI police pension scheme or the 2009 NI police pension scheme, has the meaning given in the 2015 NI police pension scheme; and
   - (d) in relation to an existing scheme other than the 1987 scheme or the 2006 scheme, means a person in respect of whom an exception under section 18(6) of the Act applies for the purpose of that scheme; and
 - “transition date”, in relation to a transition member, means—
-  - (za) if the member is a full protection member of the existing police pension scheme, 1 April 2022;[^key-23ba0f7ea9cf35d74aa0d0956a68a761]
+  - (za) if the member is a full protection member of the existing police pension scheme, 1 April 2022;[^c-23ba0f7ea9cf35d74aa0d0956a68a761]
   - (b) if the member is a tapered protection member of the existing police pension scheme, the day after the tapered protection closing date for that member;
   - (c) if the member is not a protected member of that scheme, the day after the scheme closing date.
 
-#### 2. Meaning of “tapered protection closing date”[^key-8bcc40f11aef0c3033af21aa63677d1a]
+#### 2. Meaning of “tapered protection closing date”[^c-8bcc40f11aef0c3033af21aa63677d1a]
 
 (1) The tapered protection closing date for a tapered protection member of the existing police pension scheme is a date between 24th May 2015 and 31st March 2022 (inclusive) determined by the scheme manager by reference to a table published for that purpose on the www.sppa.gov.uk website.
 
 (2) If a tapered protection member falls within more than one sub-paragraph in a paragraph in Part 4 or 5 of this Schedule, the scheme manager must determine the tapered protection closing date by reference to the table which provides the latest tapered protection closing date.
 
-#### 3. Pensionable service under a police scheme[^key-e582fb6adb6a72572dc42bf77d5d3793]
+#### 3. Pensionable service under a police scheme[^c-e582fb6adb6a72572dc42bf77d5d3793]
 
 (1) For the purpose of this Schedule, a transition member (T) is in pensionable service under a police scheme while T is on unpaid leave from the employment to which that service relates.
 
@@ -94,7 +94,7 @@ In this Schedule—
     - (i) that does not exceed 5 years; and
     - (ii) during which the employment relationship continues [^f00092].
 
-#### 4. Continuity of service (1987 transition members)[^key-5d913b1b1fc774c455f163c8aa1bf0b0]
+#### 4. Continuity of service (1987 transition members)[^c-5d913b1b1fc774c455f163c8aa1bf0b0]
 
 (1) A 1987 transition member (T) has continuity of service for the purpose of these Regulations if T has continuity of service in relation to—
 
@@ -113,7 +113,7 @@ In this Schedule—
 - (c) another scheme under section 1 of the Act providing for payment of retirement pensions;
 - (d) the 2015 NI police pension scheme.
 
-#### 5. Continuity of service (2006 transition members)[^key-e11101c5464a402d8c9edc022489bb7d]
+#### 5. Continuity of service (2006 transition members)[^c-e11101c5464a402d8c9edc022489bb7d]
 
 (1) A 2006 transition member (T) has continuity of service for the purpose of these Regulations if T has continuity of service in relation to—
 
@@ -133,7 +133,7 @@ In this Schedule—
 - (d) another scheme under section 1 of the Act providing for payment of retirement pensions; or
 - (e) the 2015 NI police pension scheme.
 
-#### 6. Meaning of “active member” of the 1987 scheme or the equivalent NI police pension scheme[^key-610388824728ad299cad92166962dd84]
+#### 6. Meaning of “active member” of the 1987 scheme or the equivalent NI police pension scheme[^c-610388824728ad299cad92166962dd84]
 
 (1) This paragraph applies in relation to—
 
@@ -142,7 +142,7 @@ In this Schedule—
 
 (2) For the purpose of this Schedule, a transition member (T) is an active member of a scheme mentioned in sub-paragraph (1) on a given date if on that date T is in pensionable service[^f00093] under that scheme.
 
-#### 7. Meaning of “active member” of the 2006 scheme or the equivalent NI police pension scheme[^key-3f4e239db648caa032ceaaabf96ae605]
+#### 7. Meaning of “active member” of the 2006 scheme or the equivalent NI police pension scheme[^c-3f4e239db648caa032ceaaabf96ae605]
 
 (1) This paragraph applies in relation to—
 
@@ -161,7 +161,7 @@ In this Schedule—
 - (c) another scheme under section 1 of the Act providing for payment of retirement pensions; or
 - (d) the 2015 NI police pension scheme.
 
-#### 8. Meaning of “active member” of an existing scheme[^key-faca82d71c4e21376c17bc89f1fccd70]
+#### 8. Meaning of “active member” of an existing scheme[^c-faca82d71c4e21376c17bc89f1fccd70]
 
 (1) This paragraph applies in relation to an existing scheme other than the 1987 scheme or the 2006 scheme (“the existing scheme”).
 
@@ -180,16 +180,16 @@ In this Schedule—
 
 ### PART 2 — Exceptions for full protection members of the 1987 scheme
 
-#### 9. Meaning of “full protection member” (the 1987 scheme)[^key-3a13a804df7b6035a462cba1b122233d]
+#### 9. Meaning of “full protection member” (the 1987 scheme)[^c-3a13a804df7b6035a462cba1b122233d]
 
 (1) A person (P) to whom paragraph 11 applies is a full protection member of the 1987 scheme.
 
-(2)[^key-5f77ecc75ba0113ab7fb819584db08b9] P ceases to be a full protection member of the 1987 scheme on whichever of the following days occurs first—
+(2)[^c-5f77ecc75ba0113ab7fb819584db08b9] P ceases to be a full protection member of the 1987 scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme; or
 - (b) 31 March 2022.
 
-#### 10. Exception for full protection member during protection period[^key-82dbd245d1ba12c192e9fecdcbd9ef0a]
+#### 10. Exception for full protection member during protection period[^c-82dbd245d1ba12c192e9fecdcbd9ef0a]
 
 (1) The protection period for a full protection member of the 1987 scheme—
 
@@ -202,7 +202,7 @@ In this Schedule—
 - (b) section 18(1) of the Act does not apply in respect of that pensionable service; and
 - (c) benefits are to be provided under the 1987 scheme to or in respect of P in relation to that pensionable service.
 
-#### 11. Active member of the 1987 scheme on scheme closing date[^key-67d5abcf1cbd06c681a5804c02f3a41f]
+#### 11. Active member of the 1987 scheme on scheme closing date[^c-67d5abcf1cbd06c681a5804c02f3a41f]
 
 (1) This paragraph applies if any of the following sub-paragraphs applies.
 
@@ -227,16 +227,16 @@ In this Schedule—
 
 ### PART 3 — Exceptions for full protection members of the 2006 scheme
 
-#### 12. Meaning of “full protection member” (the 2006 scheme)[^key-eb78761a9d79205edf9181e42a4d1fd1]
+#### 12. Meaning of “full protection member” (the 2006 scheme)[^c-eb78761a9d79205edf9181e42a4d1fd1]
 
 (1) A person (P) to whom paragraph 14 applies is a full protection member of the 2006 scheme.
 
-(2)[^key-65fa1d584466bfd68d508879f3466e81] P ceases to be a full protection member of the 2006 scheme on whichever of the following days occurs first—
+(2)[^c-65fa1d584466bfd68d508879f3466e81] P ceases to be a full protection member of the 2006 scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme; or
 - (b) 31 March 2022.
 
-#### 13. Exception for full protection member during protection period[^key-d335687e40ac779c68ee4871822d1bde]
+#### 13. Exception for full protection member during protection period[^c-d335687e40ac779c68ee4871822d1bde]
 
 (1) The protection period for a full protection member of the 2006 scheme—
 
@@ -249,7 +249,7 @@ In this Schedule—
 - (b) section 18(1) of the Act does not apply in respect of that pensionable service; and
 - (c) benefits are to be provided under the 2006 scheme to or in respect of P in relation to that pensionable service.
 
-#### 14. Active member of the 2006 scheme on scheme closing date[^key-0670b3c79426076d30bea3b5072b160a]
+#### 14. Active member of the 2006 scheme on scheme closing date[^c-0670b3c79426076d30bea3b5072b160a]
 
 (1) This paragraph applies if any of the following sub-paragraphs applies.
 
@@ -278,7 +278,7 @@ In this Schedule—
 
 ### PART 4 — Exceptions for tapered protection members of the 1987 scheme
 
-#### 15. Meaning of “tapered protection member” (the 1987 scheme)[^key-ff699bd532657a9a381542d14e2f4ef5]
+#### 15. Meaning of “tapered protection member” (the 1987 scheme)[^c-ff699bd532657a9a381542d14e2f4ef5]
 
 (1) A person (P) to whom paragraph 17 applies is a tapered protection member of the 1987 scheme.
 
@@ -287,7 +287,7 @@ In this Schedule—
 - (a) P’s tapered protection closing date; or
 - (b) the day on which P ceases to be in pensionable service under the 1987 scheme.
 
-#### 16. Exception for tapered protection members during protection period[^key-65640ab9de3e38361899eab17e35782c]
+#### 16. Exception for tapered protection members during protection period[^c-65640ab9de3e38361899eab17e35782c]
 
 (1) The protection period for a tapered protection member of the 1987 scheme—
 
@@ -300,7 +300,7 @@ In this Schedule—
 - (b) section 18(1) of the Act does not apply in respect of that pensionable service; and
 - (c) benefits are to be provided under the 1987 scheme to or in respect of P in relation to that pensionable service.
 
-#### 17. Active member of the 1987 scheme on scheme closing date[^key-83dc2be9aca4e394e7cbdb72f937fd5f]
+#### 17. Active member of the 1987 scheme on scheme closing date[^c-83dc2be9aca4e394e7cbdb72f937fd5f]
 
 (1) This paragraph applies if any of the following sub-paragraphs applies.
 
@@ -340,7 +340,7 @@ In this Schedule—
 
 ### PART 5 — Exceptions for tapered protection members of the 2006 scheme
 
-#### 18. Meaning of “tapered protection member” (the 2006 scheme)[^key-859dfb52127118a67469bacf0545c389]
+#### 18. Meaning of “tapered protection member” (the 2006 scheme)[^c-859dfb52127118a67469bacf0545c389]
 
 (1) A person (P) to whom paragraph 20 applies is a tapered protection member of the 2006 scheme.
 
@@ -349,7 +349,7 @@ In this Schedule—
 - (a) P’s tapered protection closing date; or
 - (b) the day on which P ceases to be in pensionable service under the 2006 scheme.
 
-#### 19. Exception for tapered protection members during protection period[^key-00e36df2945d273ef481432270e8daf2]
+#### 19. Exception for tapered protection members during protection period[^c-00e36df2945d273ef481432270e8daf2]
 
 (1) The protection period for a tapered protection member of the 2006 scheme—
 
@@ -362,7 +362,7 @@ In this Schedule—
 - (b) section 18(1) of the Act does not apply in respect of that pensionable service; and
 - (c) benefits are to be provided under the 2006 scheme to or in respect of P in relation to that pensionable service.
 
-#### 20. Active member of the 2006 scheme on scheme closing date[^key-cc145aaec083cd00e909a85b5007517b]
+#### 20. Active member of the 2006 scheme on scheme closing date[^c-cc145aaec083cd00e909a85b5007517b]
 
 (1) This paragraph applies if any of the following sub-paragraphs applies.
 
@@ -391,14 +391,14 @@ In this Schedule—
 
 ### PART 6 — Payment of ill-health pension to transition members with continuity of service
 
-#### 21. Meaning of “ill-health pension” in relation to the existing police pension scheme[^key-04efb80edf8d3aa49a6a67618b603109]
+#### 21. Meaning of “ill-health pension” in relation to the existing police pension scheme[^c-04efb80edf8d3aa49a6a67618b603109]
 
 For the purpose of this Part, “ill-health pension”, in relation to the existing police pension scheme, means—
 
 - (a) an ill-health award under regulation B3 of the 1987 Regulations (policeman’s ill-health award); or
 - (b) a standard ill-health pension under regulation 30 of the 2007 Regulations (calculation of standard ill-health pension).
 
-#### 22. Meaning of “normal pension age under the existing police pension scheme”[^key-dbf45f37e249dfbe112a75f76245f2e7]
+#### 22. Meaning of “normal pension age under the existing police pension scheme”[^c-dbf45f37e249dfbe112a75f76245f2e7]
 
 (1) This paragraph applies for the purpose of this Part.
 
@@ -409,7 +409,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 - (a) the voluntary retirement age determined under regulation A4(4) of the 1987 Regulations; or
 - (b) for a member of the police force who does not have a voluntary retirement age under regulation A4(4) of the 1987 Regulations, the age of 60.
 
-#### 23. Transition member who has not reached normal pension age under the existing police pension scheme[^key-37c4764a4cd654d1e8df7cc7f3194b26]
+#### 23. Transition member who has not reached normal pension age under the existing police pension scheme[^c-37c4764a4cd654d1e8df7cc7f3194b26]
 
 (1) This paragraph applies in relation to a transition member with continuity of service who—
 
@@ -455,7 +455,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 - (a) the member’s pensionable service since the closing date is taken to be pensionable service under the existing police pension scheme; and
 - (b) any member contributions paid under this scheme are taken to be paid under the existing police pension scheme.
 
-#### 24. When transition member reaches normal pension age under the existing police pension scheme[^key-66608288f86d1704096dde294036bb2b]
+#### 24. When transition member reaches normal pension age under the existing police pension scheme[^c-66608288f86d1704096dde294036bb2b]
 
 (1) This paragraph applies in relation to a transition member with continuity of service who is receiving payment of a transition member’s ill-health pension under paragraph 23.
 
@@ -482,7 +482,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 ### PART 7 — Payment of death benefits in respect of transition members with continuity of service
 
-#### 25. Annual rate of surviving adult’s pension payable under this scheme when a 1987 transition member dies as a pensioner member[^key-9442c99db7999f28df80f85ae486aa95]
+#### 25. Annual rate of surviving adult’s pension payable under this scheme when a 1987 transition member dies as a pensioner member[^c-9442c99db7999f28df80f85ae486aa95]
 
 (1) This regulation applies in relation to a 1987 transition member with continuity of service who dies as a pensioner member of this scheme.
 
@@ -495,7 +495,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the member’s surviving spouse or surviving civil partner would have been entitled under the 1987 scheme.
 
-#### 26. Annual rate of surviving adult’s pension payable under this scheme when a 2006 transition member dies as a pensioner member[^key-0520c3766e89e97fc42ca2af3126651c]
+#### 26. Annual rate of surviving adult’s pension payable under this scheme when a 2006 transition member dies as a pensioner member[^c-0520c3766e89e97fc42ca2af3126651c]
 
 (1) This regulation applies in relation to a 2006 transition member with continuity of service who dies as a pensioner member of this scheme.
 
@@ -508,7 +508,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the member’s surviving spouse, surviving civil partner or other adult dependant would have been entitled under the 2006 scheme.
 
-#### 27. Annual rate of surviving adult’s pension payable under this scheme when a 1987 transition member dies as a deferred member[^key-90d22a903ed6146de310eafe43fd1a4e]
+#### 27. Annual rate of surviving adult’s pension payable under this scheme when a 1987 transition member dies as a deferred member[^c-90d22a903ed6146de310eafe43fd1a4e]
 
 (1) This regulation applies in relation to a 1987 transition member with continuity of service who dies as a deferred member of this scheme.
 
@@ -521,7 +521,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the member’s surviving spouse or surviving civil partner would have been entitled under the 1987 scheme.
 
-#### 28. Annual rate of surviving adult’s pension payable under this scheme when a 2006 transition member dies as a deferred member[^key-e2016a5e234ada80d3da3340da8dba8e]
+#### 28. Annual rate of surviving adult’s pension payable under this scheme when a 2006 transition member dies as a deferred member[^c-e2016a5e234ada80d3da3340da8dba8e]
 
 (1) This regulation applies in relation to a 2006 transition member with continuity of service who dies as a deferred member of this scheme.
 
@@ -534,7 +534,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the member’s surviving spouse, surviving civil partner or other adult dependant would have been entitled under the 2006 scheme.
 
-#### 29. Annual rate of surviving adult’s pension payable under this scheme when a 1987 transition member dies as an active member[^key-68bd15987b5281cd5c420dc3feced45f]
+#### 29. Annual rate of surviving adult’s pension payable under this scheme when a 1987 transition member dies as an active member[^c-68bd15987b5281cd5c420dc3feced45f]
 
 (1) This paragraph applies in relation to a 1987 transition member with continuity of service—
 
@@ -550,7 +550,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the member’s surviving spouse or surviving civil partner would have been entitled under the 1987 scheme.
 
-#### 30. Annual rate of surviving adult’s pension payable under this scheme when a 2006 transition member dies as an active member[^key-52bd8d4c595471b11e7e83a6d7641b46]
+#### 30. Annual rate of surviving adult’s pension payable under this scheme when a 2006 transition member dies as an active member[^c-52bd8d4c595471b11e7e83a6d7641b46]
 
 (1) This paragraph applies in relation to a 2006 transition member with continuity of service—
 
@@ -566,7 +566,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the member’s surviving spouse, surviving civil partner or other adult dependant would have been entitled under the 2006 scheme.
 
-#### 31. Payment of eligible child’s pension in respect of any transition member[^key-dd72da596b056be2afcbac8decc90a40]
+#### 31. Payment of eligible child’s pension in respect of any transition member[^c-dd72da596b056be2afcbac8decc90a40]
 
 (1) This paragraph applies in relation to a transition member with continuity of service—
 
@@ -583,7 +583,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (4) The amount of pension payable under paragraph (3)(b) is subject to the same conditions, and ceases to be payable in the same circumstances, as is the pension to which the eligible child would have been entitled under the existing police pension scheme.
 
-#### 32. Lump sum death grant payable on death of active member[^key-9ad229ec3f9a2751e1fef218e6cb41de]
+#### 32. Lump sum death grant payable on death of active member[^c-9ad229ec3f9a2751e1fef218e6cb41de]
 
 (1) This paragraph applies in relation to a transition member with continuity of service who dies as an active member of this scheme.
 
@@ -592,7 +592,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 - (a) a lump sum death grant is payable in respect of the member under regulation 151; but
 - (b) a death in service lump sum death grant is not payable under the existing police pension scheme.
 
-#### 33. Death gratuities - dependants[^key-4c227ec9f7ca699ae88097b9bb529c80]
+#### 33. Death gratuities - dependants[^c-4c227ec9f7ca699ae88097b9bb529c80]
 
 (1) This paragraph applies in relation to a transition member with continuity of service—
 
@@ -609,7 +609,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 - (a) regulation 155; and
 - (b) regulation E2 of the 1987 Regulations (gratuities – dependent relatives).
 
-#### 34. Death gratuity – estate[^key-43c6307658229c62f877e8946be3c23d]
+#### 34. Death gratuity – estate[^c-43c6307658229c62f877e8946be3c23d]
 
 (1) This paragraph applies in relation to a transition member with continuity of service who dies as a deferred member, pensioner member or active member of this scheme.
 
@@ -625,11 +625,11 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 ### PART 8 — Transitional provisions relating to the existing police pension scheme
 
-#### 35. Pensionable service under the existing police pension scheme[^key-86bbb642598a81ee7694af7b3a055eef]
+#### 35. Pensionable service under the existing police pension scheme[^c-86bbb642598a81ee7694af7b3a055eef]
 
 (1) This paragraph applies in relation to a transition member with continuity of service (T).
 
-(2) The provisions of the existing police pension scheme relating to purchase of increased benefits continue to apply after the closing date , but not after 31st March 2022,[^key-d6630a4d0459a71c05ac7f95b5597577] as if T continued in pensionable service under that scheme.
+(2) The provisions of the existing police pension scheme relating to purchase of increased benefits continue to apply after the closing date , but not after 31st March 2022,[^c-d6630a4d0459a71c05ac7f95b5597577] as if T continued in pensionable service under that scheme.
 
 (3) T may choose to end payments for added 60ths or added years after joining this scheme.
 
@@ -637,7 +637,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (5) In determining T’s final salary for any purposes of the existing police pension scheme under Schedule 7 to the Act (final salary link), pensionable earnings derived from service under this scheme are to be regarded as derived from service under the existing police pension scheme.
 
-#### 36. Becoming a deferred member of the existing police pension scheme[^key-040af4323435a32959e25b5687a87387]
+#### 36. Becoming a deferred member of the existing police pension scheme[^c-040af4323435a32959e25b5687a87387]
 
 (1) A transition member with continuity of service (T) does not become a deferred member of the existing police pension scheme unless T becomes a deferred member of this scheme.
 
@@ -648,7 +648,7 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (3) If T re-enters pensionable service under this scheme after a gap in service not exceeding 5 years, T ceases to be a deferred member of the existing police pension scheme.
 
-#### 37. Qualifying for benefits on retirement under the existing police pension scheme[^key-f1fffba39506aa58794558d338b2b60f]
+#### 37. Qualifying for benefits on retirement under the existing police pension scheme[^c-f1fffba39506aa58794558d338b2b60f]
 
 (1) In determining whether a transition member with continuity of service (T) qualifies for benefits on retirement under the existing police pension scheme, T’s pensionable service under the existing police pension scheme includes the total of—
 
@@ -657,11 +657,11 @@ For the purpose of this Part, “ill-health pension”, in relation to the exist
 
 (2) In calculating the T’s continuous period of pensionable service under this scheme, a period of part-time service counts as if it were a period of full-time service.
 
-#### 38. Refund of contributions under the existing police pension scheme[^key-b454d74cef3a9a5319d0310bbbdbb515]
+#### 38. Refund of contributions under the existing police pension scheme[^c-b454d74cef3a9a5319d0310bbbdbb515]
 
 If a transition member with continuity of service (T) opts out of this scheme and T has less than 2 years’ qualifying service, T must be refunded all member contributions under the existing police pension scheme.
 
-#### 39. Calculation of weighted accrual for service in the 1987 scheme[^key-b33c7f30b5f16611992fd707f6bd332a]
+#### 39. Calculation of weighted accrual for service in the 1987 scheme[^c-b33c7f30b5f16611992fd707f6bd332a]
 
 (1) This paragraph applies to a 1987 transition member with continuity of service (“the member”).
 
@@ -694,20 +694,20 @@ where—
 - (a) part-time service is taken to be full-time service; and
 - (b) the limit of 30 years’ service applies.
 
-(7) The annual rate of pension payable to the member under the 1987 scheme is the higher of—[^key-b8f0e2a84c5cda7c9820d7615b2a5452]
+(7) The annual rate of pension payable to the member under the 1987 scheme is the higher of—[^c-b8f0e2a84c5cda7c9820d7615b2a5452]
 
 - (a) the amount calculated by multiplying the accrual rate by the member’s final pay, or
 - (b) where a member is entitled to a deferred pension under regulation B5 (policeman’s deferred pension) and Part 6 (policeman’s deferred pension) of schedule B of the 1987 Regulations, the amount of pension that would have been payable under the 1987 scheme if those provisions applied for the calculation instead of sub-paragraphs (3) to (6) of this paragraph.
 
 (8) If the member is in part-time service, the member’s final pay is calculated using the full-time equivalent rate of the member’s pensionable earnings.
 
-#### 40. Calculation of lump sum under the 1987 scheme[^key-1d651198b985b399d3035005ac22d062]
+#### 40. Calculation of lump sum under the 1987 scheme[^c-1d651198b985b399d3035005ac22d062]
 
 (1) In calculating the limit on the lump sum payable under regulation B7(4) of the 1987 Regulations (commutation – general provision) to a 1987 transition member, the member’s continuous period of pensionable service under this scheme is included when calculating the member’s pensionable service under the 1987 scheme.
 
 (2) In calculating the member’s continuous period of pensionable service under this scheme, a period of part-time service counts as if it were a period of full-time service.
 
-#### 41. Declaration under existing police pension scheme continues to have effect[^key-aefa1669a735286a2bfe414eeb54d54f]
+#### 41. Declaration under existing police pension scheme continues to have effect[^c-aefa1669a735286a2bfe414eeb54d54f]
 
 (1) This paragraph applies if a transition member with continuity of service has not made a declaration under these Regulations that another adult is the dependant of the member for the purpose of death benefits under this scheme.
 
@@ -718,7 +718,7 @@ where—
 - (a) was made for the purpose of the existing police pension scheme; and
 - (b) as at the closing date, had effect under that scheme.
 
-#### 42. Nomination under existing police pension scheme continues to have effect[^key-9b0d61ef5699b1fe5c15df76166cca5d]
+#### 42. Nomination under existing police pension scheme continues to have effect[^c-9b0d61ef5699b1fe5c15df76166cca5d]
 
 (1) This paragraph applies if a transition member with continuity of service has not nominated a person under these Regulations to receive a lump sum death grant under this scheme.
 
@@ -731,19 +731,19 @@ where—
 
 ### PART 9 — Transfer of final salary benefits
 
-#### 43. Meaning of “final salary benefits”[^key-3b40505d47b86521ffadc864056bb50e]
+#### 43. Meaning of “final salary benefits”[^c-3b40505d47b86521ffadc864056bb50e]
 
 (1) In this Part, “final salary benefits” means benefits accrued under a final salary scheme, subject to sub-paragraph (2).
 
 (2) Where only part of the pension entitlement payable under a final salary scheme to or in respect of a person which is based on the pensionable service of that person is or may be determined by reference to the person’s final salary, “final salary benefits” means the benefits in respect of which the pension entitlement is so determined.
 
-#### 44. Acceptance of club transfer value payments[^key-088af27ad8243d7f569db20cb11af99b]
+#### 44. Acceptance of club transfer value payments[^c-088af27ad8243d7f569db20cb11af99b]
 
 (1) If the scheme manager accepts a transfer payment under regulation 179 (request for acceptance of a transfer payment) on the condition that any part of the transfer payment that relates to the member’s final salary benefits is to be paid into the existing police pension scheme, that part of the transfer payment must be paid into the 2006 scheme.
 
 (2) Any part of a club transfer value payment received from another pension scheme that relates to a member’s final salary benefits must be paid into the 2006 scheme.
 
-#### 45. Joining this scheme or the 2006 scheme[^key-2df6cde052062ad304d2f635083e917d]
+#### 45. Joining this scheme or the 2006 scheme[^c-2df6cde052062ad304d2f635083e917d]
 
 (1) This paragraph applies to a person who transfers final salary benefits into the 2006 scheme after the scheme closing date.
 
@@ -757,7 +757,7 @@ where—
 
 ### PART 10 — Pensionable service after the scheme closing date
 
-#### 46. Transition member with continuity of service[^key-30fe4ab41d856f458c913943095fd509]
+#### 46. Transition member with continuity of service[^c-30fe4ab41d856f458c913943095fd509]
 
 (1) A transition member with continuity of service joins this scheme—
 
@@ -769,7 +769,7 @@ where—
 - (a) on or after the transition date; or
 - (b) on or after ceasing to be a full protection member.
 
-#### 47. Active member of the 1988 NI police pension scheme on scheme closing date who joins 1987 scheme[^key-797edf684d183c7a4260c4612aa9ae74]
+#### 47. Active member of the 1988 NI police pension scheme on scheme closing date who joins 1987 scheme[^c-797edf684d183c7a4260c4612aa9ae74]
 
 (1) This paragraph applies in relation to a person (P) who—
 
@@ -788,7 +788,7 @@ where—
 - (a) begins on the day P joins the 1987 scheme; and
 - (b) ends when P ceases to be a full protection member or tapered protection member of the 1987 scheme.
 
-#### 48. Active member of the 1988 NI police pension scheme on scheme closing date who joins 2006 scheme[^key-f7f372aea4ba95b353e9549dd9d5147e]
+#### 48. Active member of the 1988 NI police pension scheme on scheme closing date who joins 2006 scheme[^c-f7f372aea4ba95b353e9549dd9d5147e]
 
 (1) This paragraph applies in relation to a person (P) who—
 
@@ -807,7 +807,7 @@ where—
 - (a) begins on the day P joins the 2006 scheme; and
 - (b) ends when P ceases to be a full protection member or tapered protection member of the 2006 scheme.
 
-#### 49. Active member of the 1987 scheme on scheme closing date[^key-08375f6291f98db1199d424955280863]
+#### 49. Active member of the 1987 scheme on scheme closing date[^c-08375f6291f98db1199d424955280863]
 
 (1) This sub-paragraph applies in relation to a person (P) who—
 
@@ -832,7 +832,7 @@ where—
 - (a) begins on the day P joins the 2006 scheme; and
 - (b) ends when P ceases to be a full protection member or tapered protection member of the 2006 scheme.
 
-#### 50. Deferred member of the 1987 scheme on scheme closing date[^key-781ac174201070300647a44e25dfea12]
+#### 50. Deferred member of the 1987 scheme on scheme closing date[^c-781ac174201070300647a44e25dfea12]
 
 (1) This paragraph applies in relation to a member of the 1987 scheme (P) who—
 
@@ -854,7 +854,7 @@ where—
 - (c) another scheme under section 1 of the Act providing for payment of retirement pensions;
 - (d) the 2015 NI police pension scheme.
 
-#### 51. Active member of the 2009 NI police pension scheme on scheme closing date[^key-fcb3d6961618505961951fe7ef3c00f6]
+#### 51. Active member of the 2009 NI police pension scheme on scheme closing date[^c-fcb3d6961618505961951fe7ef3c00f6]
 
 (1) This paragraph applies in relation to a person (P) who—
 
@@ -873,7 +873,7 @@ where—
 - (a) begins on the day P joins the 2006 scheme; and
 - (b) ends when P ceases to be a full protection member or tapered protection member of the 2006 scheme.
 
-#### 52. Active member of the existing England and Wales scheme on the scheme closing date[^key-fe24a0f499a7b51526c859a63531c3ef]
+#### 52. Active member of the existing England and Wales scheme on the scheme closing date[^c-fe24a0f499a7b51526c859a63531c3ef]
 
 (1) This paragraph applies in relation to a person (P) who—
 
@@ -893,7 +893,7 @@ where—
 - (a) begins on the day P joins the 2006 scheme; and
 - (b) ends when P ceases to be a full protection member or tapered protection member of the 2006 scheme.
 
-#### 53. Active member of an existing scheme on the scheme closing date[^key-065aea5af355b057b2dd3a118842738f]
+#### 53. Active member of an existing scheme on the scheme closing date[^c-065aea5af355b057b2dd3a118842738f]
 
 (1) This paragraph applies in relation to a person (P) who—
 
@@ -915,7 +915,7 @@ where—
 
 ## Annotations
 
-[^key-ea21876116564e6dba460da08ba6aff7]: Commencement: Sch. 4 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ea21876116564e6dba460da08ba6aff7]: Commencement: Sch. 4 para. 1 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00089]: Footnote: [S.I. 1987/257](https://www.legislation.gov.uk/uksi/1987/257).
 
@@ -923,124 +923,124 @@ where—
 
 [^f00091]: Footnote: See Chapter 1 of Part 4 (active membership) for when a member of the police force is taken to be an active member of this scheme.
 
-[^key-d77ae1689c987dd760c134bb78564781]: Textual amendment: Words in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/2/a)
+[^c-d77ae1689c987dd760c134bb78564781]: Textual amendment: Words in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/2/a)
 
-[^key-23ba0f7ea9cf35d74aa0d0956a68a761]: Textual amendment: Words in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/2/b)
+[^c-23ba0f7ea9cf35d74aa0d0956a68a761]: Textual amendment: Words in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/1) inserted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/2/b)
 
-[^key-8bcc40f11aef0c3033af21aa63677d1a]: Commencement: Sch. 4 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-8bcc40f11aef0c3033af21aa63677d1a]: Commencement: Sch. 4 para. 2 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-e582fb6adb6a72572dc42bf77d5d3793]: Commencement: Sch. 4 para. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e582fb6adb6a72572dc42bf77d5d3793]: Commencement: Sch. 4 para. 3 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00092]: Footnote: See regulation 13 (periods of unpaid leave) for periods of unpaid leave during which the employment relationship continues.
 
-[^key-5d913b1b1fc774c455f163c8aa1bf0b0]: Commencement: Sch. 4 para. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-5d913b1b1fc774c455f163c8aa1bf0b0]: Commencement: Sch. 4 para. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-e11101c5464a402d8c9edc022489bb7d]: Commencement: Sch. 4 para. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e11101c5464a402d8c9edc022489bb7d]: Commencement: Sch. 4 para. 5 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-610388824728ad299cad92166962dd84]: Commencement: Sch. 4 para. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-610388824728ad299cad92166962dd84]: Commencement: Sch. 4 para. 6 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00093]: Footnote: See the definition of “pensionable service” in section 37 of the Act.
 
-[^key-3f4e239db648caa032ceaaabf96ae605]: Commencement: Sch. 4 para. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3f4e239db648caa032ceaaabf96ae605]: Commencement: Sch. 4 para. 7 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-faca82d71c4e21376c17bc89f1fccd70]: Commencement: Sch. 4 para. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-faca82d71c4e21376c17bc89f1fccd70]: Commencement: Sch. 4 para. 8 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-3a13a804df7b6035a462cba1b122233d]: Commencement: Sch. 4 para. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3a13a804df7b6035a462cba1b122233d]: Commencement: Sch. 4 para. 9 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-5f77ecc75ba0113ab7fb819584db08b9]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/9/2) substituted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/3)
+[^c-5f77ecc75ba0113ab7fb819584db08b9]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/9/2) substituted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/3)
 
-[^key-82dbd245d1ba12c192e9fecdcbd9ef0a]: Commencement: Sch. 4 para. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-82dbd245d1ba12c192e9fecdcbd9ef0a]: Commencement: Sch. 4 para. 10 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-67d5abcf1cbd06c681a5804c02f3a41f]: Commencement: Sch. 4 para. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-67d5abcf1cbd06c681a5804c02f3a41f]: Commencement: Sch. 4 para. 11 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-eb78761a9d79205edf9181e42a4d1fd1]: Commencement: Sch. 4 para. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-eb78761a9d79205edf9181e42a4d1fd1]: Commencement: Sch. 4 para. 12 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-65fa1d584466bfd68d508879f3466e81]: Textual amendment: [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/12/2) substituted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/4)
+[^c-65fa1d584466bfd68d508879f3466e81]: Textual amendment: [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/12/2) substituted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/4)
 
-[^key-d335687e40ac779c68ee4871822d1bde]: Commencement: Sch. 4 para. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d335687e40ac779c68ee4871822d1bde]: Commencement: Sch. 4 para. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-0670b3c79426076d30bea3b5072b160a]: Commencement: Sch. 4 para. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0670b3c79426076d30bea3b5072b160a]: Commencement: Sch. 4 para. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-ff699bd532657a9a381542d14e2f4ef5]: Commencement: Sch. 4 para. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ff699bd532657a9a381542d14e2f4ef5]: Commencement: Sch. 4 para. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-65640ab9de3e38361899eab17e35782c]: Commencement: Sch. 4 para. 16 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-65640ab9de3e38361899eab17e35782c]: Commencement: Sch. 4 para. 16 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-83dc2be9aca4e394e7cbdb72f937fd5f]: Commencement: Sch. 4 para. 17 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-83dc2be9aca4e394e7cbdb72f937fd5f]: Commencement: Sch. 4 para. 17 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-859dfb52127118a67469bacf0545c389]: Commencement: Sch. 4 para. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-859dfb52127118a67469bacf0545c389]: Commencement: Sch. 4 para. 18 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-00e36df2945d273ef481432270e8daf2]: Commencement: Sch. 4 para. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-00e36df2945d273ef481432270e8daf2]: Commencement: Sch. 4 para. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-cc145aaec083cd00e909a85b5007517b]: Commencement: Sch. 4 para. 20 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-cc145aaec083cd00e909a85b5007517b]: Commencement: Sch. 4 para. 20 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-04efb80edf8d3aa49a6a67618b603109]: Commencement: Sch. 4 para. 21 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-04efb80edf8d3aa49a6a67618b603109]: Commencement: Sch. 4 para. 21 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-dbf45f37e249dfbe112a75f76245f2e7]: Commencement: Sch. 4 para. 22 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-dbf45f37e249dfbe112a75f76245f2e7]: Commencement: Sch. 4 para. 22 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-37c4764a4cd654d1e8df7cc7f3194b26]: Commencement: Sch. 4 para. 23 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-37c4764a4cd654d1e8df7cc7f3194b26]: Commencement: Sch. 4 para. 23 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-66608288f86d1704096dde294036bb2b]: Commencement: Sch. 4 para. 24 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-66608288f86d1704096dde294036bb2b]: Commencement: Sch. 4 para. 24 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-9442c99db7999f28df80f85ae486aa95]: Commencement: Sch. 4 para. 25 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9442c99db7999f28df80f85ae486aa95]: Commencement: Sch. 4 para. 25 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-0520c3766e89e97fc42ca2af3126651c]: Commencement: Sch. 4 para. 26 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0520c3766e89e97fc42ca2af3126651c]: Commencement: Sch. 4 para. 26 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-90d22a903ed6146de310eafe43fd1a4e]: Commencement: Sch. 4 para. 27 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-90d22a903ed6146de310eafe43fd1a4e]: Commencement: Sch. 4 para. 27 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-e2016a5e234ada80d3da3340da8dba8e]: Commencement: Sch. 4 para. 28 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e2016a5e234ada80d3da3340da8dba8e]: Commencement: Sch. 4 para. 28 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-68bd15987b5281cd5c420dc3feced45f]: Commencement: Sch. 4 para. 29 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-68bd15987b5281cd5c420dc3feced45f]: Commencement: Sch. 4 para. 29 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-52bd8d4c595471b11e7e83a6d7641b46]: Commencement: Sch. 4 para. 30 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-52bd8d4c595471b11e7e83a6d7641b46]: Commencement: Sch. 4 para. 30 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-dd72da596b056be2afcbac8decc90a40]: Commencement: Sch. 4 para. 31 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-dd72da596b056be2afcbac8decc90a40]: Commencement: Sch. 4 para. 31 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-9ad229ec3f9a2751e1fef218e6cb41de]: Commencement: Sch. 4 para. 32 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9ad229ec3f9a2751e1fef218e6cb41de]: Commencement: Sch. 4 para. 32 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-4c227ec9f7ca699ae88097b9bb529c80]: Commencement: Sch. 4 para. 33 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-4c227ec9f7ca699ae88097b9bb529c80]: Commencement: Sch. 4 para. 33 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-43c6307658229c62f877e8946be3c23d]: Commencement: Sch. 4 para. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-43c6307658229c62f877e8946be3c23d]: Commencement: Sch. 4 para. 34 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-86bbb642598a81ee7694af7b3a055eef]: Commencement: Sch. 4 para. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-86bbb642598a81ee7694af7b3a055eef]: Commencement: Sch. 4 para. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-d6630a4d0459a71c05ac7f95b5597577]: Textual amendment: Words in [sch. 4 para. 35(2)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/35/2) inserted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/5)
+[^c-d6630a4d0459a71c05ac7f95b5597577]: Textual amendment: Words in [sch. 4 para. 35(2)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/35/2) inserted (1.4.2022) by [The Police Pensions (Scotland) Amendment Regulations 2022 (S.S.I. 2022/101)](https://www.legislation.gov.uk/ssi/2022/101), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/101/regulation/1/2), [2(5)](https://www.legislation.gov.uk/ssi/2022/101/regulation/2/5)
 
-[^key-040af4323435a32959e25b5687a87387]: Commencement: Sch. 4 para. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-040af4323435a32959e25b5687a87387]: Commencement: Sch. 4 para. 36 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00094]: Footnote: See Part 6 (retirement benefits) for the meaning of “qualifying service”.
 
-[^key-f1fffba39506aa58794558d338b2b60f]: Commencement: Sch. 4 para. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f1fffba39506aa58794558d338b2b60f]: Commencement: Sch. 4 para. 37 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-b454d74cef3a9a5319d0310bbbdbb515]: Commencement: Sch. 4 para. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b454d74cef3a9a5319d0310bbbdbb515]: Commencement: Sch. 4 para. 38 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-b33c7f30b5f16611992fd707f6bd332a]: Commencement: Sch. 4 para. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-b33c7f30b5f16611992fd707f6bd332a]: Commencement: Sch. 4 para. 39 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-b8f0e2a84c5cda7c9820d7615b2a5452]: Textual amendment: Words in [sch. 4 para. 39(7)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/39/7) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [66](https://www.legislation.gov.uk/ssi/2019/68/regulation/66)
+[^c-b8f0e2a84c5cda7c9820d7615b2a5452]: Textual amendment: Words in [sch. 4 para. 39(7)](https://www.legislation.gov.uk/ssi/2015/142/schedule/4/paragraph/39/7) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [66](https://www.legislation.gov.uk/ssi/2019/68/regulation/66)
 
-[^key-1d651198b985b399d3035005ac22d062]: Commencement: Sch. 4 para. 40 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1d651198b985b399d3035005ac22d062]: Commencement: Sch. 4 para. 40 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-aefa1669a735286a2bfe414eeb54d54f]: Commencement: Sch. 4 para. 41 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-aefa1669a735286a2bfe414eeb54d54f]: Commencement: Sch. 4 para. 41 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-9b0d61ef5699b1fe5c15df76166cca5d]: Commencement: Sch. 4 para. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9b0d61ef5699b1fe5c15df76166cca5d]: Commencement: Sch. 4 para. 42 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-3b40505d47b86521ffadc864056bb50e]: Commencement: Sch. 4 para. 43 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3b40505d47b86521ffadc864056bb50e]: Commencement: Sch. 4 para. 43 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-088af27ad8243d7f569db20cb11af99b]: Commencement: Sch. 4 para. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-088af27ad8243d7f569db20cb11af99b]: Commencement: Sch. 4 para. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-2df6cde052062ad304d2f635083e917d]: Commencement: Sch. 4 para. 45 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2df6cde052062ad304d2f635083e917d]: Commencement: Sch. 4 para. 45 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-30fe4ab41d856f458c913943095fd509]: Commencement: Sch. 4 para. 46 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-30fe4ab41d856f458c913943095fd509]: Commencement: Sch. 4 para. 46 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-797edf684d183c7a4260c4612aa9ae74]: Commencement: Sch. 4 para. 47 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-797edf684d183c7a4260c4612aa9ae74]: Commencement: Sch. 4 para. 47 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-f7f372aea4ba95b353e9549dd9d5147e]: Commencement: Sch. 4 para. 48 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f7f372aea4ba95b353e9549dd9d5147e]: Commencement: Sch. 4 para. 48 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-08375f6291f98db1199d424955280863]: Commencement: Sch. 4 para. 49 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-08375f6291f98db1199d424955280863]: Commencement: Sch. 4 para. 49 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-781ac174201070300647a44e25dfea12]: Commencement: Sch. 4 para. 50 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-781ac174201070300647a44e25dfea12]: Commencement: Sch. 4 para. 50 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-fcb3d6961618505961951fe7ef3c00f6]: Commencement: Sch. 4 para. 51 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-fcb3d6961618505961951fe7ef3c00f6]: Commencement: Sch. 4 para. 51 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-fe24a0f499a7b51526c859a63531c3ef]: Commencement: Sch. 4 para. 52 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-fe24a0f499a7b51526c859a63531c3ef]: Commencement: Sch. 4 para. 52 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-065aea5af355b057b2dd3a118842738f]: Commencement: Sch. 4 para. 53 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-065aea5af355b057b2dd3a118842738f]: Commencement: Sch. 4 para. 53 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -64,7 +64,7 @@ shall, if effective immediately before that date, have effect as from that date 
 
 (3) This paragraph applies in particular to things done by or in relation to the Commission for purposes of, or in connection with, functions which are transferred to the Secretary of State by section 22(4) of, and Schedule 4 to, this Act; but sub-paragraph (1) is subject to paragraph 7 of this Schedule.
 
-**4.** (1)[^key-3faa340ec3beb24f55313172b1787532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.** (1)[^c-3faa340ec3beb24f55313172b1787532] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Every agreement (whether written or not), and every instrument or other document, which relates to any function, property, right or liability of the Commission shall have effect, so far as may be required for continuing its effect on or after the date on which this Act is passed, as if—
 
@@ -90,7 +90,7 @@ be construed as references to the Paymaster General.
 
 *Extent: E+W+S*
 
-**6.**[^key-bb752bd7cb5148934b3051129d13f893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bb752bd7cb5148934b3051129d13f893] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Provisions relating to the 1982 Act
 
@@ -122,7 +122,7 @@ the proposals shall not by virtue of paragraph 3(1) of this Schedule be taken to
 
 *Extent: E+W+S*
 
-**10.**[^key-605af3dd6c8a1454678a47a839147c80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-605af3dd6c8a1454678a47a839147c80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Saving of 1988 Order
 
@@ -138,12 +138,12 @@ the proposals shall not by virtue of paragraph 3(1) of this Schedule be taken to
 
 [^c1205595]: Marginal citation: [1916 c. 68](https://www.legislation.gov.uk/ukpga/1916/68).
 
-[^key-3faa340ec3beb24f55313172b1787532]: Textual amendment: [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-3faa340ec3beb24f55313172b1787532]: Textual amendment: [Sch. 5 para. 4(1)](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1205596]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-bb752bd7cb5148934b3051129d13f893]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-bb752bd7cb5148934b3051129d13f893]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-605af3dd6c8a1454678a47a839147c80]: Textual amendment: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-605af3dd6c8a1454678a47a839147c80]: Textual amendment: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/1989/38/schedule/5/paragraph/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1205598]: Marginal citation: [1988 c. 19](https://www.legislation.gov.uk/ukpga/1988/19).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 248. Application of this Part to trustees[^key-f733ed0b8bc2928d6e077f2a506f1256]
+## 248. Application of this Part to trustees[^c-f733ed0b8bc2928d6e077f2a506f1256]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f733ed0b8bc2928d6e077f2a506f1256]: Commencement: [S. 248](https://www.legislation.gov.uk/asp/2014/16/section/248) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f733ed0b8bc2928d6e077f2a506f1256]: Commencement: [S. 248](https://www.legislation.gov.uk/asp/2014/16/section/248) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

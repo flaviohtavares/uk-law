@@ -31,7 +31,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (Corporate Finance Exemption) Order 2000 (revoked)[^key-27899b6a11f45339951556f50239d683]
+The Data Protection (Corporate Finance Exemption) Order 2000 (revoked)[^c-27899b6a11f45339951556f50239d683]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st March 2000
 
-[^key-27899b6a11f45339951556f50239d683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27899b6a11f45339951556f50239d683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-27899b6a11f45339951556f50239d683]
+## 1. Citation and commencement[^c-27899b6a11f45339951556f50239d683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Matters to be taken into account[^key-27899b6a11f45339951556f50239d683]
+## 2. Matters to be taken into account[^c-27899b6a11f45339951556f50239d683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27899b6a11f45339951556f50239d683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27899b6a11f45339951556f50239d683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-27899b6a11f45339951556f50239d683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27899b6a11f45339951556f50239d683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27899b6a11f45339951556f50239d683]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 239](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/239) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and savings in [Sch. 20 paras. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/9), [58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-27899b6a11f45339951556f50239d683]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 239](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/239) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and savings in [Sch. 20 paras. 9](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/9), [58](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

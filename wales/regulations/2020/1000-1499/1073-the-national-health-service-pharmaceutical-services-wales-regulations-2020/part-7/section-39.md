@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Removal from a pharmaceutical list for breach of conditions on fitness grounds or imposition or variation or imposition of new conditions under section 108 of the 2006 Act[^key-0187aab0385578d75a6883c4d8899210]
+## 39. Removal from a pharmaceutical list for breach of conditions on fitness grounds or imposition or variation or imposition of new conditions under section 108 of the 2006 Act[^c-0187aab0385578d75a6883c4d8899210]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ the Local Health Board must remove the person from its pharmaceutical list and m
 
 ## Annotations
 
-[^key-0187aab0385578d75a6883c4d8899210]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2020/1073/regulation/39) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-0187aab0385578d75a6883c4d8899210]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2020/1073/regulation/39) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

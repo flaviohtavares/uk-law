@@ -28,8 +28,8 @@ summary: ''
 
 (4) For the purposes of subsection (3) sections 446G and 446H of ITEPA 2003 are to be ignored.
 
-(5)[^key-e9a73fdcce2912da6b90337a33ce0609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e9a73fdcce2912da6b90337a33ce0609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9a73fdcce2912da6b90337a33ce0609]: Textual amendment: S. 1034(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)
+[^c-e9a73fdcce2912da6b90337a33ce0609]: Textual amendment: S. 1034(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)

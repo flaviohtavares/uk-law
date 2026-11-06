@@ -50,29 +50,29 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-9a8d357f690bdfe66d0784866aa7f081]
+### 1. Citation, commencement and interpretation[^c-9a8d357f690bdfe66d0784866aa7f081]
 
 (1) These Regulations may be cited as the Medical Profession (Responsible Officers) Regulations 2010 and shall come into force on 1st January 2011.
 
 (2) In these Regulations—
 
 - “the Act” means the Medical Act 1983;
-- “the 2006 Act” means the National Health Service Act 2006;[^key-f8bba9e96840030734569070d194b75d]
+- “the 2006 Act” means the National Health Service Act 2006;[^c-f8bba9e96840030734569070d194b75d]
 - “armed forces bodies” means the bodies referred to in paragraphs 12 to 14 of the Schedule to these Regulations;
-- [^key-714c2da91a0ed12ff65674bfd86c274c]...
+- [^c-714c2da91a0ed12ff65674bfd86c274c]...
 - “hospital” has the same meaning as in section 275 of the National Health Service Act 2006[^f00003];
 - “integrated care provider” means a person, other than a person specified in regulation 1A(3), who is party to an integrated care provider contract;
 - “integrated care provider contract” has the meaning given in regulation 1A;
 - “medical practitioner”, except in regulation 7(1)(b), means a registered medical practitioner[^f00004];
-- “[^key-90157ce9d5916b63377546f832a7c5a7]NHS body” means any of the bodies listed in paragraphs 1 to 6, 15 to 17 and 25C of the Schedule to these Regulations;
-- “[^key-6709b4b7404bcdc01e363731d5759687]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- “[^c-90157ce9d5916b63377546f832a7c5a7]NHS body” means any of the bodies listed in paragraphs 1 to 6, 15 to 17 and 25C of the Schedule to these Regulations;
+- “[^c-6709b4b7404bcdc01e363731d5759687]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
 - “non-departmental public body” means a body established by an Act of Parliament, an Act of the Scottish Parliament or by a statutory instrument made under any such Act to perform functions conferred on it under or by virtue of that Act or instrument or any other Act or instrument;
 - “practising privileges” means the grant, by a person managing a hospital, to a medical practitioner of permission to practise as a medical practitioner in that hospital;
 - “primary medical services” has the meaning given in regulation 1A(7);
 - “Scottish training governance body” means a body which exercises, on behalf of Scottish Ministers, functions conferred on Scottish Ministers that relate to education and training relating to the health service, including without prejudice to that generality, functions specified in section 47 of the National Health Service (Scotland) Act 1978[^f00005];
-- “sufficient number of responsible officers” means the number of responsible officers required to ensure that each responsible officer appointed under regulation 5(2) has the capacity to carryout their responsibilities in regulations 11 and 13.[^key-43cb4a0078f490572e003f8bc338505c]
+- “sufficient number of responsible officers” means the number of responsible officers required to ensure that each responsible officer appointed under regulation 5(2) has the capacity to carryout their responsibilities in regulations 11 and 13.[^c-43cb4a0078f490572e003f8bc338505c]
 
-### 1A. Integrated care provider contracts[^key-60b3782422a3625aa2e2b300c52aa22f]
+### 1A. Integrated care provider contracts[^c-60b3782422a3625aa2e2b300c52aa22f]
 
 *Extent: E*
 
@@ -85,7 +85,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 (3) The persons specified in this paragraph are—
 
-- (a) NHS England[^key-e74673b6869542386807a25db3ae78e7] ;
+- (a) NHS England[^c-e74673b6869542386807a25db3ae78e7] ;
 - (b) one or more CCGs; or
 - (c) one or more local authorities in England.
 
@@ -109,8 +109,8 @@ and include such services where they are provided under arrangements entered int
 
 - “adult social care services” means services provided pursuant to the exercise of the adult social services functions of a local authority in England;
 - “adult social services functions” means social services functions within the meaning of section 1A of the Local Authority and Social Services Act 1970 so far as relating to persons aged 18 or over, excluding any function to which Chapter 4 of Part 8 of the Education and Inspections Act 2006 applies;
-- [^key-6600d190162d607c39e08082686062b3]...
-- “[^key-29e6873fed5dc30e088d3e4f99e4a52a]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
+- [^c-6600d190162d607c39e08082686062b3]...
+- “[^c-29e6873fed5dc30e088d3e4f99e4a52a]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
 - “primary medical services” means services which NHS England considers appropriate to secure the provision of under section 83(2) of the 2006 Act (primary medical services);
 - “public health functions” means—
   - (a) the public health functions of the Secretary of State under the following provisions of the 2006 Act—
@@ -125,7 +125,7 @@ and include such services where they are provided under arrangements entered int
   - (d) the public health functions of the Secretary of State where they are exercised by NHS England, a CCG or a local authority in England, where those bodies are acting pursuant to arrangements made under section 7A (exercise of the Secretary of Health’s public health functions) of the 2006 Act;
 - “public health services” means services which are provided pursuant to the exercise of public health functions;
 - “secondary care services” means—
-  - (a) such services, accommodation or facilities as an integrated care board[^key-14bce2f032973bacdd18cb6e4301a4c0] considers it appropriate to make arrangements for the provision of under or by virtue of section 3 (duties of integrated care boards as to commissioning of health services) or 3A (power of integrated care boards to commission certain health services) of the 2006 Act; or
+  - (a) such services, accommodation or facilities as an integrated care board[^c-14bce2f032973bacdd18cb6e4301a4c0] considers it appropriate to make arrangements for the provision of under or by virtue of section 3 (duties of integrated care boards as to commissioning of health services) or 3A (power of integrated care boards to commission certain health services) of the 2006 Act; or
   - (b) such services or facilities as NHS England is required by the Secretary of State to arrange by virtue of regulations made under section 3B (power to require Board to commission certain health services) of the 2006 Act.
 
 (8) For the purposes of this regulation, any of the following is a local authority in England—
@@ -137,7 +137,7 @@ and include such services where they are provided under arrangements entered int
 - (e) the Common Council of the City of London;
 - (f) the Council of the Isles of Scilly.
 
-### 2. Application of these Regulations to armed forces bodies[^key-61e1f840e8b96ce96492aa67bae588c6]
+### 2. Application of these Regulations to armed forces bodies[^c-61e1f840e8b96ce96492aa67bae588c6]
 
 (1) These Regulations apply to serving members of the armed forces bodies as if they were employed by those bodies.
 
@@ -145,20 +145,20 @@ and include such services where they are provided under arrangements entered int
 
 (3) Where the sole or main role of a medical practitioner employed by the Ministry of Defence is to work in support of any of the armed forces bodies, for the purposes of these Regulations that medical practitioner shall be treated as employed by that body.
 
-### 3. Application and extent[^key-34614240443983b8c57178864daf9f19]
+### 3. Application and extent[^c-34614240443983b8c57178864daf9f19]
 
 (1) These Regulations, except Part 3, extend to England and Wales, and Scotland.
 
 (2) Part 3 (additional responsibilities of responsible officers) extends to England and Wales, and applies in relation to England only.
 
-(3)[^key-d4ffac15c4c638ed2f3dfd67fb030433] In so far as these Regulations are amended by Part 4 of the Amendments Relating to the Provision of Integrated Care Regulations 2019—
+(3)[^c-d4ffac15c4c638ed2f3dfd67fb030433] In so far as these Regulations are amended by Part 4 of the Amendments Relating to the Provision of Integrated Care Regulations 2019—
 
 - (a) they extend to England and Wales; and
 - (b) they apply in relation to England only.
 
 ## PART 2 — Responsible Officers
 
-### 4. Designated bodies[^key-fc82255eb0d7b7e7b351a2f39c59b75a]
+### 4. Designated bodies[^c-fc82255eb0d7b7e7b351a2f39c59b75a]
 
 (1) The designation of bodies for the purposes of section 45A of the Act is prescribed as follows.
 
@@ -166,25 +166,25 @@ and include such services where they are provided under arrangements entered int
 
 (3) The bodies listed in Part 2 of the Schedule to these Regulations, to the extent that they do not fall within Part 1 of the Schedule, are designated bodies only if and for so long as they employ or contract with one or more medical practitioners.
 
-### 5. Duty to nominate or appoint responsible officers[^key-34cc0f76903cbde445244605fd9f0f53][^key-49a05deea81d9b13697bb06a1292a628]
+### 5. Duty to nominate or appoint responsible officers[^c-34cc0f76903cbde445244605fd9f0f53][^c-49a05deea81d9b13697bb06a1292a628]
 
 (1) Subject to the following provisions of this regulation, every designated body must nominate or appoint a responsible officer.
 
-(2) NHS England , the Department of Health and Social Care and the General Council[^key-942cdc7a43dbcae8d76611eb22484611] must nominate or appoint a sufficient number of responsible officers.
+(2) NHS England , the Department of Health and Social Care and the General Council[^c-942cdc7a43dbcae8d76611eb22484611] must nominate or appoint a sufficient number of responsible officers.
 
-(2A)[^key-f83f5886c1a5c3c067e94a10c6e97ad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-f83f5886c1a5c3c067e94a10c6e97ad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) When a responsible officer nominated or appointed in accordance with paragraphs (1) or (2)[^key-52991ac7096fca3f7db6bae6dc73fa8a] ceases to hold that position, subject to paragraph (4), the designated body must nominate or appoint a replacement as soon as reasonably practicable.
+(3) When a responsible officer nominated or appointed in accordance with paragraphs (1) or (2)[^c-52991ac7096fca3f7db6bae6dc73fa8a] ceases to hold that position, subject to paragraph (4), the designated body must nominate or appoint a replacement as soon as reasonably practicable.
 
-(4) When a responsible officer nominated or appointed in accordance with paragraph (2) ceases to hold that position, the designated body[^key-dd8ceb58fded194c2d8340056a5968e6] is not required to nominate or appoint a replacement if, in its opinion, there remains a sufficient number of responsible officers appointed or nominated under that paragraph.
+(4) When a responsible officer nominated or appointed in accordance with paragraph (2) ceases to hold that position, the designated body[^c-dd8ceb58fded194c2d8340056a5968e6] is not required to nominate or appoint a replacement if, in its opinion, there remains a sufficient number of responsible officers appointed or nominated under that paragraph.
 
-(4A)[^key-d7ac7b6859039d7d7382bff43e232750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-d7ac7b6859039d7d7382bff43e232750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to paragraph (6), a body listed in Part 2 of the Schedule to these Regulations which is a designated body by virtue of regulation 4(3) is not required to nominate or appoint a responsible officer if, and for so long as, there is no prescribed connection under regulation 10 between that body and any medical practitioner.
 
 (6) Paragraph (5) does not apply where a medical practitioner would have, but for the application of regulation 12, a prescribed connection with a designated body under regulation 10.
 
-### 6. Duty to nominate or appoint additional responsible officers in cases of conflict of interest or appearance of bias[^key-c675f04e4ee365790e59a59e0d8d1b23]
+### 6. Duty to nominate or appoint additional responsible officers in cases of conflict of interest or appearance of bias[^c-c675f04e4ee365790e59a59e0d8d1b23]
 
 (1) A designated body must nominate or appoint a second responsible officer where—
 
@@ -195,7 +195,7 @@ and include such services where they are provided under arrangements entered int
 
 (3) Where a second responsible officer has been nominated or appointed in accordance with paragraph (1), that responsible officer, and not the first responsible officer, has the responsibilities specified in regulation 11 or 13 in relation to the relevant practitioner.
 
-### 7. Conditions for nomination or appointment of responsible officers and for remaining as responsible officers[^key-c96b37ea561f7d2258ade61223fc43dc]
+### 7. Conditions for nomination or appointment of responsible officers and for remaining as responsible officers[^c-c96b37ea561f7d2258ade61223fc43dc]
 
 (1) The following conditions must be satisfied in order for a person to be nominated or appointed as a responsible officer of a designated body under regulation 5 or 6—
 
@@ -204,7 +204,7 @@ and include such services where they are provided under arrangements entered int
 
 (2) A responsible officer must continue to be a medical practitioner in order to remain as a responsible officer.
 
-### 8. Nomination or appointment of one person as responsible officer for two or more designated bodies[^key-04b4dd2b720a804abe8b3e52b9adc7d0]
+### 8. Nomination or appointment of one person as responsible officer for two or more designated bodies[^c-04b4dd2b720a804abe8b3e52b9adc7d0]
 
 The same person may be nominated or appointed as the responsible officer for two or more designated bodies where each designated body concerned is satisfied that—
 
@@ -212,48 +212,48 @@ The same person may be nominated or appointed as the responsible officer for two
 - (b) the person has the capacity to carry out their responsibilities under regulation 11 or 13 for each body; and
 - (c) no conflict of interest is likely to arise.
 
-### 9. Nomination of responsible officer by the Secretary of State[^key-711dfd1b8ba92daf4617532ff237603f]
+### 9. Nomination of responsible officer by the Secretary of State[^c-711dfd1b8ba92daf4617532ff237603f]
 
 (1) Subject to the following provisions of this regulation, the Secretary of State may nominate a responsible officer for a designated body where—
 
-- (a) the designated body has failed to nominate or appoint a responsible officer or a sufficient number of responsible officers[^key-1acc3e876bb649a0990f4c6cc2936168] in accordance with regulation 5 or 6; or
+- (a) the designated body has failed to nominate or appoint a responsible officer or a sufficient number of responsible officers[^c-1acc3e876bb649a0990f4c6cc2936168] in accordance with regulation 5 or 6; or
 - (b) the designated body has nominated or appointed as a responsible officer a person who does not meet the conditions in regulation 7.
 
 (2) Before making a nomination under paragraph (1) for an NHS body in Scotland, the Secretary of State must consult the Scottish Ministers.
 
 (3) Before making a nomination under paragraph (1) for an NHS body in Wales, the Secretary of State must consult the Welsh Ministers.
 
-(4) Before making a nomination under paragraph (1) for an NHS Foundation Trust, the Secretary of State must consult NHS England[^key-c10ffa165957957118e37be8a38b2253].
+(4) Before making a nomination under paragraph (1) for an NHS Foundation Trust, the Secretary of State must consult NHS England[^c-c10ffa165957957118e37be8a38b2253].
 
-### 10. Connection between designated bodies and medical practitioners[^key-3f51287b28f6c80ac582091e90fdcbf0]
+### 10. Connection between designated bodies and medical practitioners[^c-3f51287b28f6c80ac582091e90fdcbf0]
 
 (1) For the purposes of section 45B of the Act, and subject to the following provisions of this regulation and to regulation 12, a designated body has a prescribed connection with a medical practitioner in the following circumstances—
 
-- (za)[^key-8d8cec99abb00765b7a1706b66a1170f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (za)[^c-8d8cec99abb00765b7a1706b66a1170f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (a) the designated body is—
   - (i) a postgraduate medical deanery and the medical practitioner is a doctor in training who is a member of a foundation or specialty training programme managed by that deanery; or
-  - (ia)[^key-f646cf3b1a32023ee8279108085d412a] NHS England[^key-bb81971c8d1f878a26f25da5a53c0f9f] and the medical practitioner is a doctor in training who is a member of a foundation or speciality training programme managed by NHS England; or
+  - (ia)[^c-f646cf3b1a32023ee8279108085d412a] NHS England[^c-bb81971c8d1f878a26f25da5a53c0f9f] and the medical practitioner is a doctor in training who is a member of a foundation or speciality training programme managed by NHS England; or
   - (ii) a Scottish training governance body, and the medical practitioner is a doctor in training on a postgraduate medical programme which is managed by that Scottish training governance body and has been approved by the General Council;
 
 *Extent: E*
 
-- (aa)[^key-706457eea300d525c191697a1362854c] where none of the preceding sub-paragraphs apply, the designated body is an integrated care provider where the medical practitioner—
+- (aa)[^c-706457eea300d525c191697a1362854c] where none of the preceding sub-paragraphs apply, the designated body is an integrated care provider where the medical practitioner—
   - (i) is employed by an integrated care provider to provide primary medical services; or
   - (ii) provides health services under the 2006 Act (which are not primary medical services) for or on behalf of an integrated care provider or is engaged by such a provider to provide such services;
-- (b) where none of the preceding sub-paragraphs apply[^key-cc16a27414e4d7d95d6dbbff8f5e27f2], the medical practitioner is on the designated body’s medical performers list or ophthalmic performers list[^key-baadd15132de686a3b166559eea7959d] prepared in accordance with—
-  - (i)[^key-e738450d277a901f43bc61027954ae85] regulations 3(1)(a) or 3(1)(c) (as the case may be) of the National Health Service (Performers Lists) (England) Regulations 2013;
-  - (ii) regulation 3(1)(a) of the National Health Service (Performers Lists) (Wales) Regulations 2026[^key-396928b709093266c32f87bf6063965a]; or
+- (b) where none of the preceding sub-paragraphs apply[^c-cc16a27414e4d7d95d6dbbff8f5e27f2], the medical practitioner is on the designated body’s medical performers list or ophthalmic performers list[^c-baadd15132de686a3b166559eea7959d] prepared in accordance with—
+  - (i)[^c-e738450d277a901f43bc61027954ae85] regulations 3(1)(a) or 3(1)(c) (as the case may be) of the National Health Service (Performers Lists) (England) Regulations 2013;
+  - (ii) regulation 3(1)(a) of the National Health Service (Performers Lists) (Wales) Regulations 2026[^c-396928b709093266c32f87bf6063965a]; or
   - (iii) regulation 4(1) of the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^f00010];
-- (ba)[^key-f8f00533152febad7dbf0aac00d1a041] where none of the preceding sub-paragraphs apply, the designated body is the Department of Health and Social Care[^key-da658b711473dcac4903b061e4f67013] and the medical practitioner is employed by a local authority in England;
+- (ba)[^c-f8f00533152febad7dbf0aac00d1a041] where none of the preceding sub-paragraphs apply, the designated body is the Department of Health and Social Care[^c-da658b711473dcac4903b061e4f67013] and the medical practitioner is employed by a local authority in England;
 - (bb) where none of the preceding sub-paragraphs apply, the designated body is the Pathology Delivery Board and the medical practitioner is on the Home Office Register of Forensic Pathologists;
-- (c)[^key-077654e74508fb3fcf72e916e452f57a] where none of the preceding sub-paragraphs apply, the medical practitioner is employed by the designated body;
+- (c)[^c-077654e74508fb3fcf72e916e452f57a] where none of the preceding sub-paragraphs apply, the medical practitioner is employed by the designated body;
 - (d) the designated body is a locum agency referred to in paragraph 20 of the Schedule to these Regulations, and the medical practitioner contracts with that agency;
 - (e) sub-paragraph (d) does not apply and—
   - (i) the designated body is a primary care organisation, and for this purpose “primary care organisation” means a body referred to in paragraph 1, 2 or 6 of the Schedule to these Regulations;
   - (ii) the medical practitioner contracts with a locum agency which is not a designated body referred to in paragraph 20 of the Schedule to these Regulations; and
   - (iii) the medical practitioner’s address as registered with the General Council is located within the primary care organisation’s area;
-- (f)[^key-30c14a985806c1cd82c4d2da9f47e564] the designated body owns or manages a hospital and the medical practitioner has responsibility for treating patients in that hospital in accordance with practising privileges for that hospital;
-- (g)[^key-2d8d92fda7e9d7ebb0918a8677126120] where none of the preceding sub-paragraphs apply, the designated body is—
+- (f)[^c-30c14a985806c1cd82c4d2da9f47e564] the designated body owns or manages a hospital and the medical practitioner has responsibility for treating patients in that hospital in accordance with practising privileges for that hospital;
+- (g)[^c-2d8d92fda7e9d7ebb0918a8677126120] where none of the preceding sub-paragraphs apply, the designated body is—
   - (i) the Faculty of Occupational Medicine,
   - (ii) the Faculty of Public Health,
   - (iii) the Faculty of Pharmaceutical Medicine,
@@ -299,7 +299,7 @@ M does not have a prescribed connection with a designated body under this regula
 
 (5) For the purposes of paragraphs (2)(c)(ii), (2)(e)(ii)(bb) and (2)(g)(ii)(bb), the location of a designated body is the address of its principal office.
 
-### 11. Responsibilities of responsible officers: prescribed connection under regulation 10[^key-76fd1e1b8eb38d5ccd7fea083a04950b]
+### 11. Responsibilities of responsible officers: prescribed connection under regulation 10[^c-76fd1e1b8eb38d5ccd7fea083a04950b]
 
 (1) Subject to paragraph (6), the responsible officer for a designated body has the following responsibilities relating to the evaluation of the fitness to practise of every medical practitioner who has a prescribed connection with that body by virtue of regulation 10.
 
@@ -318,9 +318,9 @@ M does not have a prescribed connection with a designated body under this regula
 
 (5) Responsible officers must co-operate with the General Council and any of its committees, or any persons authorised by the General Council, in connection with the exercise by them of any of their functions under Part 3A or 5 of the Act.
 
-(6)[^key-924d529b0881b8310bc99eb6ed6bfadd] Where a responsible officer is nominated or appointed in accordance with regulation 5(2) ([^key-7e4b930dde1c65a416dd6e3539ad1440]... sufficient number of responsible officers) the division of responsibilities under paragraph (1) for each responsible officer is to be determined by the designated body that nominated or appointed the responsible officer[^key-a4c2cdd8b9fba9e516b9f3949c621ad0].
+(6)[^c-924d529b0881b8310bc99eb6ed6bfadd] Where a responsible officer is nominated or appointed in accordance with regulation 5(2) ([^c-7e4b930dde1c65a416dd6e3539ad1440]... sufficient number of responsible officers) the division of responsibilities under paragraph (1) for each responsible officer is to be determined by the designated body that nominated or appointed the responsible officer[^c-a4c2cdd8b9fba9e516b9f3949c621ad0].
 
-### 12. Connection between designated bodies and medical practitioners who are responsible officers[^key-62b25077a8914caab0fffc46c913d572][^key-5877d9b400f4cb24994f27f0f761b7a4]
+### 12. Connection between designated bodies and medical practitioners who are responsible officers[^c-62b25077a8914caab0fffc46c913d572][^c-5877d9b400f4cb24994f27f0f761b7a4]
 
 (1) A registered medical practitioner who is a responsible officer for a body referred to in column 1 of the table has, for the purposes of section 45B of the Act, a prescribed connection with the body, department or persons referred to in the corresponding entry in column 2 of that table.
 
@@ -353,7 +353,7 @@ has, for the purposes of section 45B of the Act, a prescribed connection with th
 
 has, for the purposes of section 45B of the Act, a prescribed connection with the General Council.
 
-### 13. Responsibilities of responsible officers: prescribed connection under regulation 12[^key-1bc62f9b530ee4a1aeee8ed74371c2bf]
+### 13. Responsibilities of responsible officers: prescribed connection under regulation 12[^c-1bc62f9b530ee4a1aeee8ed74371c2bf]
 
 (1) Subject to paragraph (6), the responsible officer for a designated body has the following responsibilities relating to the evaluation of the fitness to practise of every medical practitioner who has a prescribed connection with that body by virtue of regulation 12.
 
@@ -375,13 +375,13 @@ has, for the purposes of section 45B of the Act, a prescribed connection with th
 
 (5) Responsible officers must co-operate with the General Council and any of its committees, or any persons authorised by the General Council, in connection with the exercise by them of any of their functions under Part 3A or 5 of the Act.
 
-(6)[^key-3ba39406f8b83467b841a0aee4ca34f4] Where a responsible officer is nominated or appointed in accordance with regulation
+(6)[^c-3ba39406f8b83467b841a0aee4ca34f4] Where a responsible officer is nominated or appointed in accordance with regulation
 
-5(2) ([^key-5ba7419ad6ef5ff3107c41a0bfd470d2]... sufficient number of responsible officers) the division of responsibilities under paragraph (1) for each responsible officer is to be determined by the designated body who nominated or appointed the responsible officer[^key-66fb49ed72a36befa1b83207cd65097f].
+5(2) ([^c-5ba7419ad6ef5ff3107c41a0bfd470d2]... sufficient number of responsible officers) the division of responsibilities under paragraph (1) for each responsible officer is to be determined by the designated body who nominated or appointed the responsible officer[^c-66fb49ed72a36befa1b83207cd65097f].
 
-### 14. Provision of resources to responsible officers[^key-5f395e78fee250f5c0310e9b204b53ed]
+### 14. Provision of resources to responsible officers[^c-5f395e78fee250f5c0310e9b204b53ed]
 
-(1) Subject to paragraph (2), each designated body must provide the responsible officer or responsible officers (as the case may be)[^key-1b7c89e415e98da4c4dc3a9760fe48a7] nominated or appointed for that body with sufficient funds and other resources necessary to enable the officer to discharge their responsibilities for that body under regulations 11 and 13.
+(1) Subject to paragraph (2), each designated body must provide the responsible officer or responsible officers (as the case may be)[^c-1b7c89e415e98da4c4dc3a9760fe48a7] nominated or appointed for that body with sufficient funds and other resources necessary to enable the officer to discharge their responsibilities for that body under regulations 11 and 13.
 
 (2) Where the designated body does not employ its responsible officer, the body must provide the resources referred to in paragraph (1) to—
 
@@ -392,7 +392,7 @@ has, for the purposes of section 45B of the Act, a prescribed connection with th
 
 (4) The designated body must determine the amount of the sufficient funds referred to in paragraph (3) and provide to the medical practitioner a written demand for the sum required to be paid.
 
-### 15. Duty to have regard to guidance[^key-c8029f7dc22e3f6e0e5da0fb81585678]
+### 15. Duty to have regard to guidance[^c-c8029f7dc22e3f6e0e5da0fb81585678]
 
 In discharging their responsibilities under regulations 11 and 13, responsible officers shall have regard to the following—
 
@@ -403,14 +403,14 @@ In discharging their responsibilities under regulations 11 and 13, responsible o
 
 *Extent: E+W*
 
-### 16. Additional responsibilities of responsible officers: prescribed connection under regulation 10[^key-438175eb5aa1484ede0c745043b5be48]
+### 16. Additional responsibilities of responsible officers: prescribed connection under regulation 10[^c-438175eb5aa1484ede0c745043b5be48]
 
 (1) Where a responsible officer has responsibilities under regulation 11 in respect of a medical practitioner who has a prescribed connection with a designated body in accordance with regulation 10, the responsible officer has the following additional responsibilities to the extent that the medical practitioner concerned is practising in England.
 
 (2) In relation to the entry by the designated body into contracts of employment or for the provision of services with medical practitioners, the responsible officer must—
 
 - (a) ensure that medical practitioners have qualifications and experience appropriate to the work to be performed;
-- (aa)[^key-eeccd2f7fe46c1db748262a764169428] ensure that medical practitioners have sufficient knowledge of the English language necessary for the work to be performed in a safe and competent manner;
+- (aa)[^c-eeccd2f7fe46c1db748262a764169428] ensure that medical practitioners have sufficient knowledge of the English language necessary for the work to be performed in a safe and competent manner;
 - (b) ensure that appropriate references are obtained and checked;
 - (c) take any steps necessary to verify the identity of medical practitioners;
 - (d) where the designated body is a Primary Care Trust, manage admission to the performers list in accordance with the National Health Service (Performers Lists) Regulations 2004; and
@@ -427,7 +427,7 @@ In discharging their responsibilities under regulations 11 and 13, responsible o
 - (a) initiate investigations with appropriately qualified investigators;
 - (b) ensure that procedures are in place to address concerns raised by patients or staff of the designated body or arising from any other source;
 - (c) ensure that any investigation into the conduct or performance of a medical practitioner takes into account any other relevant matters within the designated body;
-- (d)[^key-1ec6ecdc68305477132a6957d5f0816e] where the designated body is NHS England, manage admission to the medical performers list in accordance with the National Health Service (Performers Lists) Regulations 2013;
+- (d)[^c-1ec6ecdc68305477132a6957d5f0816e] where the designated body is NHS England, manage admission to the medical performers list in accordance with the National Health Service (Performers Lists) Regulations 2013;
 - (e) ensure that a medical practitioner who is subject to procedures under this paragraph is kept informed about the progress of the investigation;
 - (f) ensure that procedures under this paragraph include provision for the medical practitioner’s comments to be sought and taken into account where appropriate;
 - (g) where appropriate—
@@ -440,7 +440,7 @@ In discharging their responsibilities under regulations 11 and 13, responsible o
   - (iv) addressing any systemic issues within the designated body which may have contributed to the concerns identified;
 - (i) maintain accurate records of all steps taken in accordance with this paragraph.
 
-### 17. Additional responsibilities of responsible officers: prescribed connection under regulation 12[^key-b03f0da5727bfcaacc3d645ebb4cfaa1]
+### 17. Additional responsibilities of responsible officers: prescribed connection under regulation 12[^c-b03f0da5727bfcaacc3d645ebb4cfaa1]
 
 (1) Where a responsible officer has responsibilities under regulation 13 in respect of a medical practitioner who has a prescribed connection with a designated body in accordance with regulation 12, the responsible officer has the following additional responsibilities to the extent that the medical practitioner concerned is practising in England.
 
@@ -469,17 +469,17 @@ In discharging their responsibilities under regulations 11 and 13, responsible o
   - (iii) providing opportunities to increase the medical practitioner’s work experience;
 - (i) maintain accurate records of all steps taken in accordance with this paragraph.
 
-### 18. Duty to have regard to guidance[^key-52c03bf5f7f7ed215897097ad4ce8cdf]
+### 18. Duty to have regard to guidance[^c-52c03bf5f7f7ed215897097ad4ce8cdf]
 
 In discharging their responsibilities under regulations 16 and 17, responsible officers must have regard to the following—
 
 - (a) guidance given by the Secretary of State in accordance with section 120(6) of the Health and Social Care Act 2008; and
-- (b)[^key-f1f10b6a90d1d1906b6f1a7ec0964951] guidance given by the National Clinical Assessment Service division of the National Health Service Litigation Authority, to the extent that it relates to the nomination or appointment of responsible officers or their prescribed responsibilities; and
+- (b)[^c-f1f10b6a90d1d1906b6f1a7ec0964951] guidance given by the National Clinical Assessment Service division of the National Health Service Litigation Authority, to the extent that it relates to the nomination or appointment of responsible officers or their prescribed responsibilities; and
 - (c) guidance given by NHS England to the extent that it relates to the responsible officer’s duties under regulation 16(2)(aa).
 
-### 19. Provision of resources to responsible officers[^key-eabdc13287f9b44d7b9d875229241d53]
+### 19. Provision of resources to responsible officers[^c-eabdc13287f9b44d7b9d875229241d53]
 
-(1) Each designated body must provide its responsible officer or responsible officers (as the case may be)[^key-50a3223a6f09e6edf520a45478005e83] with sufficient funds and other resources necessary to enable the officer to discharge their responsibilities for that body under regulations 16 and 17.
+(1) Each designated body must provide its responsible officer or responsible officers (as the case may be)[^c-50a3223a6f09e6edf520a45478005e83] with sufficient funds and other resources necessary to enable the officer to discharge their responsibilities for that body under regulations 16 and 17.
 
 (2) Where the designated body does not employ its responsible officer, the body must provide the resources referred to in paragraph (1) to—
 
@@ -508,74 +508,74 @@ Regulation 4
 
 Regulation 4(2)
 
-**1.**[^key-6c14692af0d52cb04edb3ce1368a77d6] NHS England.
+**1.**[^c-6c14692af0d52cb04edb3ce1368a77d6] NHS England.
 
-**2.**[^key-65f32841dd3a7b997b9a603a94e7aa21] Local Health Boards.
+**2.**[^c-65f32841dd3a7b997b9a603a94e7aa21] Local Health Boards.
 
 *Extent: E*
 
-**2A.**[^key-245435b076cd6f6f3a38f15281b3d96b] Integrated care providers.
+**2A.**[^c-245435b076cd6f6f3a38f15281b3d96b] Integrated care providers.
 
-**3.**[^key-8f7e59dc25fac7df94711d3a3611183b] National Health Service trusts other than Ambulance Trusts[^key-9fc5991ad231ac3a434b5a5cbf456abe].
+**3.**[^c-8f7e59dc25fac7df94711d3a3611183b] National Health Service trusts other than Ambulance Trusts[^c-9fc5991ad231ac3a434b5a5cbf456abe].
 
-**4.**[^key-46c4c8bbd717b02099be2f7069447e6f] NHS[^key-392050e50e1f2a1e847a6a50599d1aec] foundation trusts other than Ambulance Trusts.
+**4.**[^c-46c4c8bbd717b02099be2f7069447e6f] NHS[^c-392050e50e1f2a1e847a6a50599d1aec] foundation trusts other than Ambulance Trusts.
 
-**5.**[^key-2f7ff294d3ae1f761535c753d7118c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2f7ff294d3ae1f761535c753d7118c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-640a67cf02c3a455e14f040b06676f83] Health Boards.
+**6.**[^c-640a67cf02c3a455e14f040b06676f83] Health Boards.
 
-**7.**[^key-6c84d110282c0b5a8fbf31585b33287a] The Department of Health and Social Care[^key-d8cfcee5a761deb2061235dc9c3d3025].
+**7.**[^c-6c84d110282c0b5a8fbf31585b33287a] The Department of Health and Social Care[^c-d8cfcee5a761deb2061235dc9c3d3025].
 
-**8.**[^key-a05dbcb20ebb2329fbfa7d8c2df9a1fb] The Scottish Ministers.
+**8.**[^c-a05dbcb20ebb2329fbfa7d8c2df9a1fb] The Scottish Ministers.
 
-**9.**[^key-642d3e71df96085c679472bebd3c7bb1] The Welsh Ministers.
+**9.**[^c-642d3e71df96085c679472bebd3c7bb1] The Welsh Ministers.
 
-**10.**[^key-d27cc545fa35fe969e03df2c20ac6fa5] Postgraduate medical deaneries in England and Wales.
+**10.**[^c-d27cc545fa35fe969e03df2c20ac6fa5] Postgraduate medical deaneries in England and Wales.
 
-**11.**[^key-13b8d01e42a7c684d12dbbe6ce63e9c3] Any Scottish training governance body.
+**11.**[^c-13b8d01e42a7c684d12dbbe6ce63e9c3] Any Scottish training governance body.
 
-**12.**[^key-2cd859864e8c936c36a38344fa5e782c] The Royal Navy.
+**12.**[^c-2cd859864e8c936c36a38344fa5e782c] The Royal Navy.
 
-**13.**[^key-454e848d0801325c00111a3de286f949] The regular army within the meaning of section 374 of the Armed Forces Act 2006.
+**13.**[^c-454e848d0801325c00111a3de286f949] The regular army within the meaning of section 374 of the Armed Forces Act 2006.
 
-**14.**[^key-d55bb826f2eeb32d589e76714563fbd2] The Royal Air Force.
+**14.**[^c-d55bb826f2eeb32d589e76714563fbd2] The Royal Air Force.
 
-**14A.**[^key-ed9fdd02b15dc03ad0171ed93404e875] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14A.**[^c-ed9fdd02b15dc03ad0171ed93404e875] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14B.**[^key-1440835f7cbdc1f665a633d100eebdda] Pathology Delivery Board.
+**14B.**[^c-1440835f7cbdc1f665a633d100eebdda] Pathology Delivery Board.
 
-**14C.**[^key-70c973e3e7340c7bf722e54df05e4142] The General Council.
+**14C.**[^c-70c973e3e7340c7bf722e54df05e4142] The General Council.
 
 ### PART 2 — Designated bodies which employ or contract with medical practitioners
 
 Regulation 4(3)
 
-**15.**[^key-a9b0c6e2d4c9fa3b620367c9f288c20d] Special Health Boards.
+**15.**[^c-a9b0c6e2d4c9fa3b620367c9f288c20d] Special Health Boards.
 
-**16.**[^key-1acd9c01e4bec8b1475c73dbc4a0fd6e] Special Health Authorities.
+**16.**[^c-1acd9c01e4bec8b1475c73dbc4a0fd6e] Special Health Authorities.
 
-**17.**[^key-d9a2b66cbbcd20b3f14faacd59f8125e] The Common Services Agency for the Scottish Health Service[^f00012].
+**17.**[^c-d9a2b66cbbcd20b3f14faacd59f8125e] The Common Services Agency for the Scottish Health Service[^f00012].
 
-**18.**[^key-9c20ea2c4cf4635b90613486c3cc397c] Bodies which provide independent health care services within the meaning of section 10F(1)(a) to (d) of the National Health Service (Scotland) Act 1978[^key-2ca41f50da79f0f69729f610c2a36a2c].
+**18.**[^c-9c20ea2c4cf4635b90613486c3cc397c] Bodies which provide independent health care services within the meaning of section 10F(1)(a) to (d) of the National Health Service (Scotland) Act 1978[^c-2ca41f50da79f0f69729f610c2a36a2c].
 
-**19.**[^key-30e651fd389eeb60d4d113214382021f] A Government department or any executive agency of a Government department.
+**19.**[^c-30e651fd389eeb60d4d113214382021f] A Government department or any executive agency of a Government department.
 
-**20.**[^key-7d090eb6a59129a195d5b7ed96898a18] The following locum agencies—
+**20.**[^c-7d090eb6a59129a195d5b7ed96898a18] The following locum agencies—
 
 - (a) limited companies with shares owned wholly by the Secretary of State for Health, which are concerned with the contracting of locum doctors[^f00014]; and
-- (b)[^key-f9b262570aaa9af20e6860792df11174] locum agencies in England and Wales which supply medical locums under the Framework Agreement for the supply of locum doctors (including locum general practitioners) to NHS bodies and the wider public sector.
+- (b)[^c-f9b262570aaa9af20e6860792df11174] locum agencies in England and Wales which supply medical locums under the Framework Agreement for the supply of locum doctors (including locum general practitioners) to NHS bodies and the wider public sector.
 
-**21.**[^key-985beab0b5b731d582d04f3cf7b80cb8] A non-departmental public body.
+**21.**[^c-985beab0b5b731d582d04f3cf7b80cb8] A non-departmental public body.
 
-**22.**[^key-60b36e327139b6f49bfe9e525a2c93b6] Any body whose principal office is located in the United Kingdom and whose President or Dean is a member of the Academy of Medical Royal Colleges.
+**22.**[^c-60b36e327139b6f49bfe9e525a2c93b6] Any body whose principal office is located in the United Kingdom and whose President or Dean is a member of the Academy of Medical Royal Colleges.
 
-**23.**[^key-3f06af6e7ad1268ed7d49d2895fa61fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-3f06af6e7ad1268ed7d49d2895fa61fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-09bd2d7171baabe45061942af2eaa34a] The Independent Doctors’ Federation.
+**24.**[^c-09bd2d7171baabe45061942af2eaa34a] The Independent Doctors’ Federation.
 
-**25.**[^key-7ddabee2209dc4e49e7a8c0776c27866] Any organisation engaged in the provision of treatment for disease, disorder or injury by or under the supervision of a medical practitioner.
+**25.**[^c-7ddabee2209dc4e49e7a8c0776c27866] Any organisation engaged in the provision of treatment for disease, disorder or injury by or under the supervision of a medical practitioner.
 
-**25A.**[^key-d36adbfd9ab3d6d2e871c4e320d04117] Any organisation engaged in providing the services of medical practitioners to work as resident medical officers in independent hospitals.
+**25A.**[^c-d36adbfd9ab3d6d2e871c4e320d04117] Any organisation engaged in providing the services of medical practitioners to work as resident medical officers in independent hospitals.
 
 **25B.** Any organisation engaged in providing medical defence services to medical practitioners in respect of claims for medical negligence or professional misconduct.
 
@@ -585,7 +585,7 @@ Regulation 4(3)
 
 **25E.** The Faculty of Homeopathy.
 
-**26.**[^key-d7936103dca2132df5d0dd0f887b3448] (1) Any organisation which carries out surgical procedures (including any pre-operative and post-operative care associated with such procedures) undertaken by or under the supervision of a medical practitioner who is employed by, or who contracts with, that organisation for—
+**26.**[^c-d7936103dca2132df5d0dd0f887b3448] (1) Any organisation which carries out surgical procedures (including any pre-operative and post-operative care associated with such procedures) undertaken by or under the supervision of a medical practitioner who is employed by, or who contracts with, that organisation for—
 
 - (a) the purpose of treating disease, injuries or disorders;
 - (b) subject to sub-paragraph (2), cosmetic purposes, where the procedure involves the use of instruments or equipment which are inserted into the body; or
@@ -597,7 +597,7 @@ Regulation 4(3)
 - (b) tattooing; and
 - (c) the removal of hair roots or small blemishes on the skin by the application of heat using an electric current.
 
-**27.**[^key-84d69223320fda34ea107457cbe12459] (1) Subject to sub-paragraph (2), any organisation which carries out diagnostic and screening procedures involving—
+**27.**[^c-84d69223320fda34ea107457cbe12459] (1) Subject to sub-paragraph (2), any organisation which carries out diagnostic and screening procedures involving—
 
 - (a) the use of X-rays and other methods in order to examine the body through the use of radiation, ultrasound or magnetic resonance imaging;
 - (b) the use of instruments and equipment which are inserted into the body to—
@@ -612,31 +612,31 @@ Regulation 4(3)
 - (a) the procedure is carried out by means of a pin prick; or
 - (b) it is not necessary to send such samples to a specialist facility for analysis.
 
-**28.**[^key-2f78e23a7dc53fab1b0c74bb8c1a2c22] Any organisation which is engaged in the analysis and reporting of the results of the procedures referred to in paragraph 27.
+**28.**[^c-2f78e23a7dc53fab1b0c74bb8c1a2c22] Any organisation which is engaged in the analysis and reporting of the results of the procedures referred to in paragraph 27.
 
-**29.**[^key-f90abe3dac507cabe96243d6324e729d] Any organisation which engages in the management of—
+**29.**[^c-f90abe3dac507cabe96243d6324e729d] Any organisation which engages in the management of—
 
 - (a) supply of blood, blood components and blood derived products intended for transfusion;
 - (b) the supply of tissues and tissue-derived products intended for transplant, grafting or use in a surgical procedure; and
 - (c) the matching and allocation of donor organs intended for transplant, and of stem cells and bone marrow intended for transfusion.
 
-**30.**[^key-83e7ad434f0065403fffef0ab28c04f6] Any organisation engaged in the termination of pregnancies.
+**30.**[^c-83e7ad434f0065403fffef0ab28c04f6] Any organisation engaged in the termination of pregnancies.
 
-**31.**[^key-2c4cc7ee84bf3e5f8fc90828c49e2663] Any organisation engaged in the provision of medical services in slimming clinics, including the prescribing of medicines for the purposes of weight reduction.
+**31.**[^c-2c4cc7ee84bf3e5f8fc90828c49e2663] Any organisation engaged in the provision of medical services in slimming clinics, including the prescribing of medicines for the purposes of weight reduction.
 
-**32.**[^key-47ca891c155a6a9af3090e6dbc70fd8b] A body engaged in the provision of residential accommodation together with nursing care.
+**32.**[^c-47ca891c155a6a9af3090e6dbc70fd8b] A body engaged in the provision of residential accommodation together with nursing care.
 
-**33.**[^key-426abf0fb321f10b5918d5075274aa84] A body engaged in the provision of first aid treatment and established for that purpose.
+**33.**[^c-426abf0fb321f10b5918d5075274aa84] A body engaged in the provision of first aid treatment and established for that purpose.
 
-**34.**[^key-4d2c30e55ce95b2b8ac2ef8ab6ded499] A body engaged in the provision of treatment in a sports ground or gymnasium where it is provided for the sole benefit of persons taking part in sporting activities and events.
+**34.**[^c-4d2c30e55ce95b2b8ac2ef8ab6ded499] A body engaged in the provision of treatment in a sports ground or gymnasium where it is provided for the sole benefit of persons taking part in sporting activities and events.
 
-**35.**[^key-0125f3558a719b275071507f3f17df28] A body engaged in the carrying out of any of the activities authorised by a licence granted by the Human Fertilisation and Embryology Authority under paragraph 1 of Schedule 2 to the Human Fertilisation and Embryology Act 1990[^f00017].
+**35.**[^c-0125f3558a719b275071507f3f17df28] A body engaged in the carrying out of any of the activities authorised by a licence granted by the Human Fertilisation and Embryology Authority under paragraph 1 of Schedule 2 to the Human Fertilisation and Embryology Act 1990[^f00017].
 
-**36.**[^key-3589401994f405c8cb4e75c30b0e418e] A body engaged in the provision of residential accommodation for a person, together with treatment for drug or alcohol misuse, where acceptance by the person of such treatment is a condition of the provision of the accommodation.
+**36.**[^c-3589401994f405c8cb4e75c30b0e418e] A body engaged in the provision of residential accommodation for a person, together with treatment for drug or alcohol misuse, where acceptance by the person of such treatment is a condition of the provision of the accommodation.
 
-**37.**[^key-9c25dd1c8420c529f05fe84e861061c3] A body engaged in the provision of medical advice in cases where immediate action or attention is needed, or triage provided, over the telephone or by electronic mail and established for that purpose, and for the purposes of this provision “triage” means the assignment of degrees of urgency to diseases, disorders or injuries in order to decide the order and place of treatment of patients.
+**37.**[^c-9c25dd1c8420c529f05fe84e861061c3] A body engaged in the provision of medical advice in cases where immediate action or attention is needed, or triage provided, over the telephone or by electronic mail and established for that purpose, and for the purposes of this provision “triage” means the assignment of degrees of urgency to diseases, disorders or injuries in order to decide the order and place of treatment of patients.
 
-**38.**[^key-ef8dc3ed9654b8e4f00797f64f79e193] An organisation engaged in the provision of medical services (otherwise than in a hospital) in which such services are provided only under arrangements made on behalf of service users by an insurance provider with whom the service users hold an insurance policy, other than an insurance policy which is solely or primarily intended to provide benefits in connection with the diagnosis or treatment of physical or mental illness, disability or infirmity.
+**38.**[^c-ef8dc3ed9654b8e4f00797f64f79e193] An organisation engaged in the provision of medical services (otherwise than in a hospital) in which such services are provided only under arrangements made on behalf of service users by an insurance provider with whom the service users hold an insurance policy, other than an insurance policy which is solely or primarily intended to provide benefits in connection with the diagnosis or treatment of physical or mental illness, disability or infirmity.
 
 EXPLANATORY NOTE
 
@@ -686,240 +686,240 @@ An impact assessment has been prepared in relation to these Regulations and is a
 
 [^f00002]: Footnote: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-9a8d357f690bdfe66d0784866aa7f081]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-9a8d357f690bdfe66d0784866aa7f081]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-f8bba9e96840030734569070d194b75d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2019/248/regulation/14)
+[^c-f8bba9e96840030734569070d194b75d]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2019/248/regulation/14)
 
-[^key-714c2da91a0ed12ff65674bfd86c274c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/46/2/a)
+[^c-714c2da91a0ed12ff65674bfd86c274c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [46(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/46/2/a)
 
 [^f00003]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
 [^f00004]: Footnote: The definition of “registered medical practitioner” in Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) was substituted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), Schedule 1, paragraph 10 with effect from 16th November 2009.
 
-[^key-90157ce9d5916b63377546f832a7c5a7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/391/regulation/2/2/a)
+[^c-90157ce9d5916b63377546f832a7c5a7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/391/regulation/2/2/a)
 
-[^key-6709b4b7404bcdc01e363731d5759687]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/46/2/b)
+[^c-6709b4b7404bcdc01e363731d5759687]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [46(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/46/2/b)
 
 [^f00005]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). NHS Education for Scotland is currently the sole body in this class.
 
-[^key-43cb4a0078f490572e003f8bc338505c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/391/regulation/2/2/b)
+[^c-43cb4a0078f490572e003f8bc338505c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/2) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/391/regulation/2/2/b)
 
-[^key-60b3782422a3625aa2e2b300c52aa22f]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1A) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2019/248/regulation/15)
+[^c-60b3782422a3625aa2e2b300c52aa22f]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1A) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2019/248/regulation/15)
 
-[^key-e74673b6869542386807a25db3ae78e7]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-e74673b6869542386807a25db3ae78e7]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-6600d190162d607c39e08082686062b3]: Textual amendment: Words in [reg. 1A(7)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1A/7) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/49/2/a)
+[^c-6600d190162d607c39e08082686062b3]: Textual amendment: Words in [reg. 1A(7)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1A/7) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [49(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/49/2/a)
 
-[^key-29e6873fed5dc30e088d3e4f99e4a52a]: Textual amendment: Words in [reg. 1A(7)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1A/7) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [49(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/49/2/b)
+[^c-29e6873fed5dc30e088d3e4f99e4a52a]: Textual amendment: Words in [reg. 1A(7)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1A/7) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [49(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/49/2/b)
 
-[^key-14bce2f032973bacdd18cb6e4301a4c0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/2841) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-14bce2f032973bacdd18cb6e4301a4c0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/2841) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-61e1f840e8b96ce96492aa67bae588c6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2841/regulation/2) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-61e1f840e8b96ce96492aa67bae588c6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/2841/regulation/2) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
 [^f00006]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-34614240443983b8c57178864daf9f19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2841/regulation/3) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-34614240443983b8c57178864daf9f19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2841/regulation/3) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-d4ffac15c4c638ed2f3dfd67fb030433]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/3/3) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/248/regulation/16)
+[^c-d4ffac15c4c638ed2f3dfd67fb030433]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/3/3) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/248/regulation/16)
 
-[^key-fc82255eb0d7b7e7b351a2f39c59b75a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2841/regulation/4) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-fc82255eb0d7b7e7b351a2f39c59b75a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2841/regulation/4) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-34cc0f76903cbde445244605fd9f0f53]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-34cc0f76903cbde445244605fd9f0f53]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-49a05deea81d9b13697bb06a1292a628]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/2)
+[^c-49a05deea81d9b13697bb06a1292a628]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/2)
 
-[^key-942cdc7a43dbcae8d76611eb22484611]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/2) inserted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/2/a)
+[^c-942cdc7a43dbcae8d76611eb22484611]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/2) inserted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/2/a)
 
-[^key-f83f5886c1a5c3c067e94a10c6e97ad9]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/2A) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-f83f5886c1a5c3c067e94a10c6e97ad9]: Textual amendment: [Reg. 5(2A)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/2A) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-52991ac7096fca3f7db6bae6dc73fa8a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/3) substituted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-52991ac7096fca3f7db6bae6dc73fa8a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/3) substituted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-dd8ceb58fded194c2d8340056a5968e6]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/4) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/2/b)
+[^c-dd8ceb58fded194c2d8340056a5968e6]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/4) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/2/b)
 
-[^key-d7ac7b6859039d7d7382bff43e232750]: Textual amendment: [Reg. 5(4A)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/4A) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-d7ac7b6859039d7d7382bff43e232750]: Textual amendment: [Reg. 5(4A)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/5/4A) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-c675f04e4ee365790e59a59e0d8d1b23]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2841/regulation/6) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-c675f04e4ee365790e59a59e0d8d1b23]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2841/regulation/6) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-c96b37ea561f7d2258ade61223fc43dc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2841/regulation/7) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-c96b37ea561f7d2258ade61223fc43dc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2841/regulation/7) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-04b4dd2b720a804abe8b3e52b9adc7d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/2841/regulation/8) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-04b4dd2b720a804abe8b3e52b9adc7d0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/2841/regulation/8) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-711dfd1b8ba92daf4617532ff237603f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/2841/regulation/9) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-711dfd1b8ba92daf4617532ff237603f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/2841/regulation/9) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-1acc3e876bb649a0990f4c6cc2936168]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/9/1/a) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/3)
+[^c-1acc3e876bb649a0990f4c6cc2936168]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/9/1/a) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/3)
 
-[^key-c10ffa165957957118e37be8a38b2253]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/9/4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [108(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/108/2)
+[^c-c10ffa165957957118e37be8a38b2253]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/9/4) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [108(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/108/2)
 
-[^key-3f51287b28f6c80ac582091e90fdcbf0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-3f51287b28f6c80ac582091e90fdcbf0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-8d8cec99abb00765b7a1706b66a1170f]: Textual amendment: [Reg. 10(1)(za)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/za) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/3/a)
+[^c-8d8cec99abb00765b7a1706b66a1170f]: Textual amendment: [Reg. 10(1)(za)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/za) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/3/a)
 
-[^key-f646cf3b1a32023ee8279108085d412a]: Textual amendment: [Reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ia) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/b)
+[^c-f646cf3b1a32023ee8279108085d412a]: Textual amendment: [Reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ia) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/b)
 
-[^key-bb81971c8d1f878a26f25da5a53c0f9f]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ia) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-bb81971c8d1f878a26f25da5a53c0f9f]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/a)[(ia)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ia) substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-706457eea300d525c191697a1362854c]: Textual amendment: [Reg. 10(1)(aa)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/aa) inserted (E.) (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2019/248/regulation/17)
+[^c-706457eea300d525c191697a1362854c]: Textual amendment: [Reg. 10(1)(aa)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/aa) inserted (E.) (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2019/248/regulation/17)
 
-[^key-cc16a27414e4d7d95d6dbbff8f5e27f2]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/c/i)
+[^c-cc16a27414e4d7d95d6dbbff8f5e27f2]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/c/i)
 
-[^key-baadd15132de686a3b166559eea7959d]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/c/ii)
+[^c-baadd15132de686a3b166559eea7959d]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/c/ii)
 
-[^key-e738450d277a901f43bc61027954ae85]: Textual amendment: [Reg. 10(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b/i) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(d)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/d)
+[^c-e738450d277a901f43bc61027954ae85]: Textual amendment: [Reg. 10(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b/i) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(d)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/d)
 
-[^key-396928b709093266c32f87bf6063965a]: Textual amendment: Words in [reg. 10(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b/ii) substituted (28.3.2026) by [The National Health Service (Performers Lists) (Wales) Regulations 2026 (W.S.I. 2026/63)](https://www.legislation.gov.uk/wsi/2026/63), [reg. 1](https://www.legislation.gov.uk/wsi/2026/63/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2026/63/schedule/2/paragraph/6) (with [reg. 42](https://www.legislation.gov.uk/wsi/2026/63/regulation/42))
+[^c-396928b709093266c32f87bf6063965a]: Textual amendment: Words in [reg. 10(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/b/ii) substituted (28.3.2026) by [The National Health Service (Performers Lists) (Wales) Regulations 2026 (W.S.I. 2026/63)](https://www.legislation.gov.uk/wsi/2026/63), [reg. 1](https://www.legislation.gov.uk/wsi/2026/63/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2026/63/schedule/2/paragraph/6) (with [reg. 42](https://www.legislation.gov.uk/wsi/2026/63/regulation/42))
 
 [^f00010]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114).
 
-[^key-f8f00533152febad7dbf0aac00d1a041]: Textual amendment: [Reg. 10(1)(ba)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/bb) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(e)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/e)
+[^c-f8f00533152febad7dbf0aac00d1a041]: Textual amendment: [Reg. 10(1)(ba)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/bb) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(e)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/e)
 
-[^key-da658b711473dcac4903b061e4f67013]: Textual amendment: Words in [reg. 10(1)(ba)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ba) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/3/b)
+[^c-da658b711473dcac4903b061e4f67013]: Textual amendment: Words in [reg. 10(1)(ba)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/ba) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/3/b)
 
-[^key-077654e74508fb3fcf72e916e452f57a]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/c) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(f)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/f)
+[^c-077654e74508fb3fcf72e916e452f57a]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/c) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(f)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/f)
 
-[^key-30c14a985806c1cd82c4d2da9f47e564]: Textual amendment: [Reg. 10(1)(f)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/f) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(g)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/g)
+[^c-30c14a985806c1cd82c4d2da9f47e564]: Textual amendment: [Reg. 10(1)(f)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/f) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(g)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/g)
 
-[^key-2d8d92fda7e9d7ebb0918a8677126120]: Textual amendment: [Reg. 10(1)(g)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/g) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(h)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/h)
+[^c-2d8d92fda7e9d7ebb0918a8677126120]: Textual amendment: [Reg. 10(1)(g)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/10/1/g) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(4)(h)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/4/h)
 
-[^key-76fd1e1b8eb38d5ccd7fea083a04950b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-76fd1e1b8eb38d5ccd7fea083a04950b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-924d529b0881b8310bc99eb6ed6bfadd]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11/6) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/5)
+[^c-924d529b0881b8310bc99eb6ed6bfadd]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11/6) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/5)
 
-[^key-7e4b930dde1c65a416dd6e3539ad1440]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11/6) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/4/a)
+[^c-7e4b930dde1c65a416dd6e3539ad1440]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11/6) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/4/a)
 
-[^key-a4c2cdd8b9fba9e516b9f3949c621ad0]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11/6) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/4/b)
+[^c-a4c2cdd8b9fba9e516b9f3949c621ad0]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/11/6) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/4/b)
 
-[^key-62b25077a8914caab0fffc46c913d572]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/2841/regulation/12) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-62b25077a8914caab0fffc46c913d572]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/2841/regulation/12) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-5877d9b400f4cb24994f27f0f761b7a4]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/2841/regulation/12) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/5)
+[^c-5877d9b400f4cb24994f27f0f761b7a4]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/2841/regulation/12) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/5)
 
-[^key-1bc62f9b530ee4a1aeee8ed74371c2bf]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-1bc62f9b530ee4a1aeee8ed74371c2bf]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-3ba39406f8b83467b841a0aee4ca34f4]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13/6) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/7)
+[^c-3ba39406f8b83467b841a0aee4ca34f4]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13/6) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/7)
 
-[^key-5ba7419ad6ef5ff3107c41a0bfd470d2]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13/6) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/6/a)
+[^c-5ba7419ad6ef5ff3107c41a0bfd470d2]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13/6) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/6/a)
 
-[^key-66fb49ed72a36befa1b83207cd65097f]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13/6) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/6/b)
+[^c-66fb49ed72a36befa1b83207cd65097f]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/13/6) substituted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/6/b)
 
-[^key-5f395e78fee250f5c0310e9b204b53ed]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/2841/regulation/14) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-5f395e78fee250f5c0310e9b204b53ed]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/2841/regulation/14) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-1b7c89e415e98da4c4dc3a9760fe48a7]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/14/1) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/8)
+[^c-1b7c89e415e98da4c4dc3a9760fe48a7]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/14/1) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2013/391/regulation/3/8)
 
-[^key-c8029f7dc22e3f6e0e5da0fb81585678]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/2841/regulation/15) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-c8029f7dc22e3f6e0e5da0fb81585678]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/2841/regulation/15) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-438175eb5aa1484ede0c745043b5be48]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/2841/regulation/16) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-438175eb5aa1484ede0c745043b5be48]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/2841/regulation/16) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-eeccd2f7fe46c1db748262a764169428]: Textual amendment: [Reg. 16(2)(aa)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/16/2/aa) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/2/a)
+[^c-eeccd2f7fe46c1db748262a764169428]: Textual amendment: [Reg. 16(2)(aa)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/16/2/aa) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/2/a)
 
-[^key-1ec6ecdc68305477132a6957d5f0816e]: Textual amendment: [Reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/16/2/d) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/2/b)
+[^c-1ec6ecdc68305477132a6957d5f0816e]: Textual amendment: [Reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/16/2/d) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/2/b)
 
-[^key-b03f0da5727bfcaacc3d645ebb4cfaa1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/2841/regulation/17) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-b03f0da5727bfcaacc3d645ebb4cfaa1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/2841/regulation/17) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-52c03bf5f7f7ed215897097ad4ce8cdf]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-52c03bf5f7f7ed215897097ad4ce8cdf]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-f1f10b6a90d1d1906b6f1a7ec0964951]: Textual amendment: [Reg. 18(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18/b)[(c)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18/c) substituted for [reg. 18(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18/b) (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/3)
+[^c-f1f10b6a90d1d1906b6f1a7ec0964951]: Textual amendment: [Reg. 18(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18/b)[(c)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18/c) substituted for [reg. 18(b)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/18/b) (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/3)
 
-[^key-eabdc13287f9b44d7b9d875229241d53]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/2841/regulation/19) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-eabdc13287f9b44d7b9d875229241d53]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/2841/regulation/19) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-50a3223a6f09e6edf520a45478005e83]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/19/1) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/4)
+[^c-50a3223a6f09e6edf520a45478005e83]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/19/1) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/391/regulation/4/4)
 
-[^key-6c14692af0d52cb04edb3ce1368a77d6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/1) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-6c14692af0d52cb04edb3ce1368a77d6]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/1) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-65f32841dd3a7b997b9a603a94e7aa21]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/2) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-65f32841dd3a7b997b9a603a94e7aa21]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/2) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-245435b076cd6f6f3a38f15281b3d96b]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/2A) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2019/248/regulation/18)
+[^c-245435b076cd6f6f3a38f15281b3d96b]: Textual amendment: [Sch. para. 2A](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/2A) inserted (E.) (1.4.2019) by The Amendments Relating to the [Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2019/248/regulation/18)
 
-[^key-8f7e59dc25fac7df94711d3a3611183b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/3) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-8f7e59dc25fac7df94711d3a3611183b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/3) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-9fc5991ad231ac3a434b5a5cbf456abe]: Textual amendment: Words in [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/3) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/3)
+[^c-9fc5991ad231ac3a434b5a5cbf456abe]: Textual amendment: Words in [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/3) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/3)
 
-[^key-46c4c8bbd717b02099be2f7069447e6f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/4) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-46c4c8bbd717b02099be2f7069447e6f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/4) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-392050e50e1f2a1e847a6a50599d1aec]: Textual amendment: Words in [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/4) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/4)
+[^c-392050e50e1f2a1e847a6a50599d1aec]: Textual amendment: Words in [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/4) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/4)
 
-[^key-2f7ff294d3ae1f761535c753d7118c6b]: Textual amendment: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/5) omitted (1.4.2013) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/5)
+[^c-2f7ff294d3ae1f761535c753d7118c6b]: Textual amendment: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/5) omitted (1.4.2013) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/5)
 
-[^key-640a67cf02c3a455e14f040b06676f83]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/6) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-640a67cf02c3a455e14f040b06676f83]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/6) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-6c84d110282c0b5a8fbf31585b33287a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/7) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-6c84d110282c0b5a8fbf31585b33287a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/7) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-d8cfcee5a761deb2061235dc9c3d3025]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/7) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(t)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/t) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-d8cfcee5a761deb2061235dc9c3d3025]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/7) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(t)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/t) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-a05dbcb20ebb2329fbfa7d8c2df9a1fb]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/8) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-a05dbcb20ebb2329fbfa7d8c2df9a1fb]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/8) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-642d3e71df96085c679472bebd3c7bb1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/9) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-642d3e71df96085c679472bebd3c7bb1]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/9) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-d27cc545fa35fe969e03df2c20ac6fa5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/10) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-d27cc545fa35fe969e03df2c20ac6fa5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/10) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-13b8d01e42a7c684d12dbbe6ce63e9c3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/11) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-13b8d01e42a7c684d12dbbe6ce63e9c3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/11) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-2cd859864e8c936c36a38344fa5e782c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/12) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-2cd859864e8c936c36a38344fa5e782c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/12) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-454e848d0801325c00111a3de286f949]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/13) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-454e848d0801325c00111a3de286f949]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/13) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-d55bb826f2eeb32d589e76714563fbd2]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/14) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-d55bb826f2eeb32d589e76714563fbd2]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/14) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-ed9fdd02b15dc03ad0171ed93404e875]: Textual amendment: [Sch. para. 14A](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/14A) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-ed9fdd02b15dc03ad0171ed93404e875]: Textual amendment: [Sch. para. 14A](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/14A) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/13/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-1440835f7cbdc1f665a633d100eebdda]: Textual amendment: [Sch. Pt. 1 paras. 14A](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/14A), [14B](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/14B) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/6)
+[^c-1440835f7cbdc1f665a633d100eebdda]: Textual amendment: [Sch. Pt. 1 paras. 14A](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/14A), [14B](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/1/paragraph/14B) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2013/391/regulation/5/6)
 
-[^key-70c973e3e7340c7bf722e54df05e4142]: Textual amendment: [Sch. para. 14C](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/14C) inserted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/7/a)
+[^c-70c973e3e7340c7bf722e54df05e4142]: Textual amendment: [Sch. para. 14C](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/14C) inserted (27.3.2025) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/7/a)
 
-[^key-a9b0c6e2d4c9fa3b620367c9f288c20d]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/15) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-a9b0c6e2d4c9fa3b620367c9f288c20d]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/15) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-1acd9c01e4bec8b1475c73dbc4a0fd6e]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/16) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-1acd9c01e4bec8b1475c73dbc4a0fd6e]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/16) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-d9a2b66cbbcd20b3f14faacd59f8125e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/17) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-d9a2b66cbbcd20b3f14faacd59f8125e]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/17) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
 [^f00012]: Footnote: The Common Services Agency is a non-departmental public body, known as the NHS National Services Scotland. See http://www.nhsnss.org/index.php?id=2.
 
-[^key-9c20ea2c4cf4635b90613486c3cc397c]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/18) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-9c20ea2c4cf4635b90613486c3cc397c]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/18) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-2ca41f50da79f0f69729f610c2a36a2c]: Textual amendment: Words in [Sch. para. 18](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/18) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/67)
+[^c-2ca41f50da79f0f69729f610c2a36a2c]: Textual amendment: Words in [Sch. para. 18](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/18) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/67)
 
-[^key-30e651fd389eeb60d4d113214382021f]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/19) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-30e651fd389eeb60d4d113214382021f]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/19) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-7d090eb6a59129a195d5b7ed96898a18]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/20) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-7d090eb6a59129a195d5b7ed96898a18]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/20) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
 [^f00014]: Footnote: Currently the sole member of this class is NHS Professionals Ltd, company number 06704614; see also www.nhsprofessionals.nhs.uk.
 
-[^key-f9b262570aaa9af20e6860792df11174]: Textual amendment: [Sch. Pt. 2 para. 20(b)](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/2/paragraph/20/b) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/391/regulation/6/2)
+[^c-f9b262570aaa9af20e6860792df11174]: Textual amendment: [Sch. Pt. 2 para. 20(b)](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/2/paragraph/20/b) substituted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/391/regulation/6/2)
 
-[^key-985beab0b5b731d582d04f3cf7b80cb8]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/21) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-985beab0b5b731d582d04f3cf7b80cb8]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/21) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-60b36e327139b6f49bfe9e525a2c93b6]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/22) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-60b36e327139b6f49bfe9e525a2c93b6]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/22) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-3f06af6e7ad1268ed7d49d2895fa61fe]: Textual amendment: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/23) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/7/b)
+[^c-3f06af6e7ad1268ed7d49d2895fa61fe]: Textual amendment: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/23) omitted (27.3.2025) by virtue of [The Medical Profession (Responsible Officers) (Amendment) Regulations 2025 (S.I. 2025/221)](https://www.legislation.gov.uk/uksi/2025/221), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/221/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2025/221/regulation/2/7/b)
 
-[^key-09bd2d7171baabe45061942af2eaa34a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/24) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-09bd2d7171baabe45061942af2eaa34a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/24) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-7ddabee2209dc4e49e7a8c0776c27866]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/25) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-7ddabee2209dc4e49e7a8c0776c27866]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/25) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-d36adbfd9ab3d6d2e871c4e320d04117]: Textual amendment: [Sch. Pt. 2 paras. 25A-25E](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/2/paragraph/25A) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/6/3)
+[^c-d36adbfd9ab3d6d2e871c4e320d04117]: Textual amendment: [Sch. Pt. 2 paras. 25A-25E](https://www.legislation.gov.uk/uksi/2010/2841/schedule/part/2/paragraph/25A) inserted (1.4.2013) by [The Medical Profession (Responsible Officers) (Amendment) Regulations 2013 (S.I. 2013/391)](https://www.legislation.gov.uk/uksi/2013/391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/391/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2013/391/regulation/6/3)
 
-[^key-d7936103dca2132df5d0dd0f887b3448]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/26) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-d7936103dca2132df5d0dd0f887b3448]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/26) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-84d69223320fda34ea107457cbe12459]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/27) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-84d69223320fda34ea107457cbe12459]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/27) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-2f78e23a7dc53fab1b0c74bb8c1a2c22]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/28) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-2f78e23a7dc53fab1b0c74bb8c1a2c22]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/28) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-f90abe3dac507cabe96243d6324e729d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/29) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-f90abe3dac507cabe96243d6324e729d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/29) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-83e7ad434f0065403fffef0ab28c04f6]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/30) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-83e7ad434f0065403fffef0ab28c04f6]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/30) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-2c4cc7ee84bf3e5f8fc90828c49e2663]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/31) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-2c4cc7ee84bf3e5f8fc90828c49e2663]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/31) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-47ca891c155a6a9af3090e6dbc70fd8b]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/32) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-47ca891c155a6a9af3090e6dbc70fd8b]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/32) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-426abf0fb321f10b5918d5075274aa84]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/33) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-426abf0fb321f10b5918d5075274aa84]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/33) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-4d2c30e55ce95b2b8ac2ef8ab6ded499]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/34) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-4d2c30e55ce95b2b8ac2ef8ab6ded499]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/34) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-0125f3558a719b275071507f3f17df28]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/35) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-0125f3558a719b275071507f3f17df28]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/35) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
 [^f00017]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Paragraph 1 of Schedule 2 was amended by the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), section 11(2), Schedule 2, paragraphs 1 and 2 and section 66, Schedule 8, Part I and by [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522).
 
-[^key-3589401994f405c8cb4e75c30b0e418e]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/36) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-3589401994f405c8cb4e75c30b0e418e]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/36) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-9c25dd1c8420c529f05fe84e861061c3]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/37) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-9c25dd1c8420c529f05fe84e861061c3]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/37) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
 
-[^key-ef8dc3ed9654b8e4f00797f64f79e193]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/38) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)
+[^c-ef8dc3ed9654b8e4f00797f64f79e193]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2010/2841/schedule/paragraph/38) in force at 1.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2841/regulation/1/1)

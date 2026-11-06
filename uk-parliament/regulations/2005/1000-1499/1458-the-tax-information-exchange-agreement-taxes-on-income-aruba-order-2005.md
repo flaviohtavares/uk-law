@@ -32,7 +32,7 @@ summary: ''
 
 INCOME TAX
 
-The Tax Information Exchange Agreement (Taxes on Income) (Aruba) Order 2005 (revoked)[^key-0f559dc95b8530d58f148f574ed74234]
+The Tax Information Exchange Agreement (Taxes on Income) (Aruba) Order 2005 (revoked)[^c-0f559dc95b8530d58f148f574ed74234]
 
 Made
 
@@ -44,84 +44,84 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-0f559dc95b8530d58f148f574ed74234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f559dc95b8530d58f148f574ed74234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-0f559dc95b8530d58f148f574ed74234]
+## 1. Citation[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Declaration about exchange of information[^key-0f559dc95b8530d58f148f574ed74234]
+## 2. Declaration about exchange of information[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f559dc95b8530d58f148f574ed74234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f559dc95b8530d58f148f574ed74234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0f559dc95b8530d58f148f574ed74234]
+## SCHEDULE[^c-0f559dc95b8530d58f148f574ed74234]
 
-### PART I — CONVENTION BETWEEN THE KINGDOM OF THE NETHERLANDS IN RESPECT OF ARUBA AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND CONCERNING THE AUTOMATIC EXCHANGE OF INFORMATION ABOUT SAVINGS INCOME IN THE FORM OF INTEREST PAYMENTS[^key-0f559dc95b8530d58f148f574ed74234]
+### PART I — CONVENTION BETWEEN THE KINGDOM OF THE NETHERLANDS IN RESPECT OF ARUBA AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND CONCERNING THE AUTOMATIC EXCHANGE OF INFORMATION ABOUT SAVINGS INCOME IN THE FORM OF INTEREST PAYMENTS[^c-0f559dc95b8530d58f148f574ed74234]
 
-#### Article 1 — General Scope[^key-0f559dc95b8530d58f148f574ed74234]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 2 — Definitions[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 1 — General Scope[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 3 — Identity and residence of beneficial owners[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 2 — Definitions[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 4 — Automatic exchange of information[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 3 — Identity and residence of beneficial owners[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 5 — Transposition[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 4 — Automatic exchange of information[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 6 — Annex[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 5 — Transposition[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 7 — Entry Into Force[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 6 — Annex[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 8 — Termination[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 7 — Entry Into Force[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Annex[^key-0f559dc95b8530d58f148f574ed74234]
-
-##### 1. Provisions relating to secrecy[^key-0f559dc95b8530d58f148f574ed74234]
+#### Article 8 — Termination[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0f559dc95b8530d58f148f574ed74234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Annex[^c-0f559dc95b8530d58f148f574ed74234]
 
-**3.**[^key-0f559dc95b8530d58f148f574ed74234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-0f559dc95b8530d58f148f574ed74234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — Exchange of Notes[^key-0f559dc95b8530d58f148f574ed74234]
-
-#### Note from the United Kingdom[^key-0f559dc95b8530d58f148f574ed74234]
+##### 1. Provisions relating to secrecy[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Note from the Kingdom of the Netherlands in respect of Aruba[^key-0f559dc95b8530d58f148f574ed74234]
+**2.**[^c-0f559dc95b8530d58f148f574ed74234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-0f559dc95b8530d58f148f574ed74234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-0f559dc95b8530d58f148f574ed74234] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — Exchange of Notes[^c-0f559dc95b8530d58f148f574ed74234]
+
+#### Note from the United Kingdom[^c-0f559dc95b8530d58f148f574ed74234]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Note from the Kingdom of the Netherlands in respect of Aruba[^c-0f559dc95b8530d58f148f574ed74234]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0f559dc95b8530d58f148f574ed74234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f559dc95b8530d58f148f574ed74234]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f559dc95b8530d58f148f574ed74234]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/1458) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-0f559dc95b8530d58f148f574ed74234]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/1458) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

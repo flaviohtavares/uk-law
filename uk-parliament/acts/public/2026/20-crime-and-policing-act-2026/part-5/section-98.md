@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Offences relating to semen-defaced images, intimate photographs or films and voyeurism[^key-e241df2bed8dab30136f8f384b959363][^key-4d26f4e86f0bda7eac1f282f3c887df0]
+## 98. Offences relating to semen-defaced images, intimate photographs or films and voyeurism[^c-e241df2bed8dab30136f8f384b959363][^c-4d26f4e86f0bda7eac1f282f3c887df0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 13 makes provision in connection with offences relating to semen-deface
 
 ## Annotations
 
-[^key-e241df2bed8dab30136f8f384b959363]: Commencement: S. 98 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e241df2bed8dab30136f8f384b959363]: Commencement: S. 98 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4d26f4e86f0bda7eac1f282f3c887df0]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2026/20/section/98) in force at 29.6.2026 for specified purposes by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/h)
+[^c-4d26f4e86f0bda7eac1f282f3c887df0]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2026/20/section/98) in force at 29.6.2026 for specified purposes by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/h)

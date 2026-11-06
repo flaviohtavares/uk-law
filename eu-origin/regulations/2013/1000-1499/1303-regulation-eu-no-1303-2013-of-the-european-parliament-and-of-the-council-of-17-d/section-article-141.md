@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 141 (affected by repeal, see note). Submission of closure documents and payment of the final balance (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+## Article 141 (affected by repeal, see note). Submission of closure documents and payment of the final balance (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-1. In addition to the documents referred to in Article 138, for the final accounting year from 1 July 2023 to 30 June 2024, Member States shall submit a final implementation report for the operational programme or the last annual implementation report for the operational programme supported by the EMFF. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+1. In addition to the documents referred to in Article 138, for the final accounting year from 1 July 2023 to 30 June 2024, Member States shall submit a final implementation report for the operational programme or the last annual implementation report for the operational programme supported by the EMFF. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
-2. The final balance shall be paid no later than three months after the date of acceptance of accounts of the final accounting year or one month after the date of acceptance of the final implementation report, whichever date is later. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+2. The final balance shall be paid no later than three months after the date of acceptance of accounts of the final accounting year or one month after the date of acceptance of the final implementation report, whichever date is later. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
 ## Annotations
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

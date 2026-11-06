@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Exclusion from restrictions under section 115: certain film expenditure[^key-28cd221d3cd475086daaacff5d735f19]
+## 116. Exclusion from restrictions under section 115: certain film expenditure[^c-28cd221d3cd475086daaacff5d735f19]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28cd221d3cd475086daaacff5d735f19]: Textual amendment: S. 116 repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 16](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/16), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)
+[^c-28cd221d3cd475086daaacff5d735f19]: Textual amendment: S. 116 repealed (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 16](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/16), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21), [Sch. 27 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/1)

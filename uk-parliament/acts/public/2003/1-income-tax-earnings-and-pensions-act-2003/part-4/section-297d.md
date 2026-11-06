@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297D. Armed forces: accommodation allowances[^key-3411228b378102d66603082cbdbb4db9]
+## 297D. Armed forces: accommodation allowances[^c-3411228b378102d66603082cbdbb4db9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3411228b378102d66603082cbdbb4db9]: Textual amendment: S. 297D inserted (with effect in accordance with s. 8(2) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/8/1); S.I. 2019/1160, reg. 2
+[^c-3411228b378102d66603082cbdbb4db9]: Textual amendment: S. 297D inserted (with effect in accordance with s. 8(2) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/8/1); S.I. 2019/1160, reg. 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Names of electoral wards[^key-75e210293317154cfb2eff23cc304657]
+## 44. Names of electoral wards[^c-75e210293317154cfb2eff23cc304657]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e210293317154cfb2eff23cc304657]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2024/5/section/44) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-75e210293317154cfb2eff23cc304657]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2024/5/section/44) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

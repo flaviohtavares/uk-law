@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Manufacture of veterinary medicinal products[^key-2ad0952616d8a3038e0872ccd6d30f17]
+## 5. Manufacture of veterinary medicinal products[^c-2ad0952616d8a3038e0872ccd6d30f17]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad0952616d8a3038e0872ccd6d30f17]: Commencement: Reg. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-2ad0952616d8a3038e0872ccd6d30f17]: Commencement: Reg. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 12 — PETROL VAPOUR RECOVERY[^key-509ded185ac48ead954313b700865f6d]
+## SCHEDULE 12 — PETROL VAPOUR RECOVERY[^c-509ded185ac48ead954313b700865f6d]
 
 *Extent: N.I.*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulation 7
 
-### PART 1 — PVR I[^key-509ded185ac48ead954313b700865f6d]
+### PART 1 — PVR I[^c-509ded185ac48ead954313b700865f6d]
 
-#### 1. Application[^key-509ded185ac48ead954313b700865f6d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Interpretation[^key-509ded185ac48ead954313b700865f6d]
+#### 1. Application[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Exercise of enforcing authority functions[^key-509ded185ac48ead954313b700865f6d]
+#### 2. Interpretation[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — PVR II[^key-509ded185ac48ead954313b700865f6d]
-
-#### 1. Application[^key-509ded185ac48ead954313b700865f6d]
+#### 3. Exercise of enforcing authority functions[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Interpretation[^key-509ded185ac48ead954313b700865f6d]
+### PART 2 — PVR II[^c-509ded185ac48ead954313b700865f6d]
+
+#### 1. Application[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Exercise of district council functions[^key-509ded185ac48ead954313b700865f6d]
+#### 2. Interpretation[^c-509ded185ac48ead954313b700865f6d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Exercise of district council functions[^c-509ded185ac48ead954313b700865f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-509ded185ac48ead954313b700865f6d]: Textual amendment: Regulations revoked (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-509ded185ac48ead954313b700865f6d]: Textual amendment: Regulations revoked (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

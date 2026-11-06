@@ -53,7 +53,7 @@ After section 3 of the [^c707535]Unsolicited Goods and Services Act 1971 (hereaf
 
 ## 2. Amendments consequential on section 1.
 
-(1)[^key-4a4a6f2ff49c4c9a5bcaff6ce4eae8d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4a4a6f2ff49c4c9a5bcaff6ce4eae8d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For section 6(2) of the Act of 1971 there shall be substituted—
 
@@ -65,17 +65,17 @@ After section 3 of the [^c707535]Unsolicited Goods and Services Act 1971 (hereaf
 
 (1) An offence under section 3(2) of the Act of 1971 may be prosecuted on indictment; and a person convicted on indictment of an offence under that section shall be liable to a fine.
 
-(2)[^key-8bfde983fdc2c3eb88276aa769be4779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8bfde983fdc2c3eb88276aa769be4779] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Short title, citation, commencement, transitional provisions and extent.
 
 (1) This Act may be cited as the Unsolicited Goods and Services (Amendment) Act 1975 and the [^c707536]Unsolicited Goods and Services Act 1971 and this Act may be cited together as the Unsolicited Goods and Services Acts 1971 and 1975.
 
-(2)[^key-c4d698b01e8a48a481e495c580005a9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c4d698b01e8a48a481e495c580005a9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c4d698b01e8a48a481e495c580005a9c][^c707537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c4d698b01e8a48a481e495c580005a9c][^c707537] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c4d698b01e8a48a481e495c580005a9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c4d698b01e8a48a481e495c580005a9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This Act shall not extend to Northern Ireland.
 
@@ -85,12 +85,12 @@ After section 3 of the [^c707535]Unsolicited Goods and Services Act 1971 (hereaf
 
 [^c707535]: Marginal citation: [1971 c. 30](https://www.legislation.gov.uk/ukpga/1971/30).
 
-[^key-4a4a6f2ff49c4c9a5bcaff6ce4eae8d8]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1975/13/section/2/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-4a4a6f2ff49c4c9a5bcaff6ce4eae8d8]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/1975/13/section/2/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
-[^key-8bfde983fdc2c3eb88276aa769be4779]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1975/13/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-8bfde983fdc2c3eb88276aa769be4779]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1975/13/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c707536]: Marginal citation: [1971 c. 30](https://www.legislation.gov.uk/ukpga/1971/30).
 
-[^key-c4d698b01e8a48a481e495c580005a9c]: Textual amendment: [Ss. 4(2)-(4)](https://www.legislation.gov.uk/ukpga/1975/13/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-c4d698b01e8a48a481e495c580005a9c]: Textual amendment: [Ss. 4(2)-(4)](https://www.legislation.gov.uk/ukpga/1975/13/section/4/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
 
 [^c707537]: Modification: Power of appointment conferred by s. 4(3) partly exercised: [S.I. 1975/731](https://www.legislation.gov.uk/uksi/1975/731)

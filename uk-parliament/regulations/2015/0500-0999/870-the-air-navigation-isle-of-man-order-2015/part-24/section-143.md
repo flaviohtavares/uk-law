@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Mandatory reporting of birdstrikes[^key-817dd8bb58f7abd9ec0d3291fa1f9c15]
+## 143. Mandatory reporting of birdstrikes[^c-817dd8bb58f7abd9ec0d3291fa1f9c15]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-817dd8bb58f7abd9ec0d3291fa1f9c15]: Textual amendment: [Art. 143](https://www.legislation.gov.uk/uksi/2015/870/article/143) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [10](https://www.legislation.gov.uk/uksi/2020/1280/article/10)
+[^c-817dd8bb58f7abd9ec0d3291fa1f9c15]: Textual amendment: [Art. 143](https://www.legislation.gov.uk/uksi/2015/870/article/143) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [10](https://www.legislation.gov.uk/uksi/2020/1280/article/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 204. Insolvent estate and institution’s assets[^key-23c8e3d442561cd438688b5d2c8d5e41]
+## 204. Insolvent estate and institution’s assets[^c-23c8e3d442561cd438688b5d2c8d5e41]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ References to “the insolvent estate” are to the institution’s assets.
 
 ## Annotations
 
-[^key-23c8e3d442561cd438688b5d2c8d5e41]: Commencement: Rule 204 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-23c8e3d442561cd438688b5d2c8d5e41]: Commencement: Rule 204 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Convertible securities etc: creditor relationships[^key-a151420b8926bc14e1c9b39aaffdaaa7][^c14611531]
+## 92. Convertible securities etc: creditor relationships[^c-a151420b8926bc14e1c9b39aaffdaaa7][^c14611531]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a151420b8926bc14e1c9b39aaffdaaa7]: Textual amendment: S. 92 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/9), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-a151420b8926bc14e1c9b39aaffdaaa7]: Textual amendment: S. 92 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/9), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
 
 [^c14611531]: Modification: S. 92 modified (27.7.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 65(9)](https://www.legislation.gov.uk/ukpga/1999/16/section/65/9)

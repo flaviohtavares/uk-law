@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Procedure relating to modifications under section 169[^key-7c213c6f65ec8fdee447a2f4a0a71ea3]
+## 170. Procedure relating to modifications under section 169[^c-7c213c6f65ec8fdee447a2f4a0a71ea3]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c213c6f65ec8fdee447a2f4a0a71ea3]: Commencement: S. 170 in force at Royal Assent, see [s. 334(2)(h)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)
+[^c-7c213c6f65ec8fdee447a2f4a0a71ea3]: Commencement: S. 170 in force at Royal Assent, see [s. 334(2)(h)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/h)

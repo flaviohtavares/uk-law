@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Death of registered person[^key-1616149c7947fbaf87d31af9182b41d1]
+## 39. Death of registered person[^c-1616149c7947fbaf87d31af9182b41d1]
 
 *Extent: N.I.*
 
-(1) If more than one person is registered in respect of a children’s home, and a registered person dies, the other registered person shall without delay notify the RQIA[^key-4ca5e5950155e725f54604a422e453f9] of the death in writing.
+(1) If more than one person is registered in respect of a children’s home, and a registered person dies, the other registered person shall without delay notify the RQIA[^c-4ca5e5950155e725f54604a422e453f9] of the death in writing.
 
 (2) If only one person is registered in respect of a children’s home, and he dies, his personal representatives shall notify the RQIA in writing –
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1616149c7947fbaf87d31af9182b41d1]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/176/regulation/39) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-1616149c7947fbaf87d31af9182b41d1]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/176/regulation/39) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

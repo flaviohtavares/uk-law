@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Codes of Practice[^key-5ce0c3d469e865ae865df3cfeed5d08b]
+## 35. Codes of Practice[^c-5ce0c3d469e865ae865df3cfeed5d08b]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ A code of practice in operation under section 377 or 377A of the Proceeds of Cri
 
 ## Annotations
 
-[^key-5ce0c3d469e865ae865df3cfeed5d08b]: Textual amendment: [Art. 35](https://www.legislation.gov.uk/uksi/2013/2605/article/35) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [14](https://www.legislation.gov.uk/uksi/2015/1751/article/14)
+[^c-5ce0c3d469e865ae865df3cfeed5d08b]: Textual amendment: [Art. 35](https://www.legislation.gov.uk/uksi/2013/2605/article/35) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [14](https://www.legislation.gov.uk/uksi/2015/1751/article/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Meaning of “banking partnership”[^key-c71cf833d9c35bdc7193eddf998261ff]
+## 16. Meaning of “banking partnership”[^c-c71cf833d9c35bdc7193eddf998261ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c71cf833d9c35bdc7193eddf998261ff]: Commencement: Art. 16 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c71cf833d9c35bdc7193eddf998261ff]: Commencement: Art. 16 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00021]: Footnote: Inserted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 18(2).

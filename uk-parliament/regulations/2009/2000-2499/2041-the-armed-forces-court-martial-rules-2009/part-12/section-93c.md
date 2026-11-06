@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93C. Special provisions relating to sexual offences[^key-0580617b4db15d0dd4d3f95009a472c3]
+## 93C. Special provisions relating to sexual offences[^c-0580617b4db15d0dd4d3f95009a472c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ and if the judge advocate is required by paragraphs (7) to (9) to give such a di
 
 ## Annotations
 
-[^key-0580617b4db15d0dd4d3f95009a472c3]: Textual amendment: [Rules 93A-93C](https://www.legislation.gov.uk/uksi/2009/2041/rule/93A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/605/rule/11)
+[^c-0580617b4db15d0dd4d3f95009a472c3]: Textual amendment: [Rules 93A-93C](https://www.legislation.gov.uk/uksi/2009/2041/rule/93A) inserted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/605/rule/11)

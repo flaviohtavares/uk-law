@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Payment to be made to a person entitled[^key-4bd187c74e878576252c6686e1f5d6ba]
+## 72. Payment to be made to a person entitled[^c-4bd187c74e878576252c6686e1f5d6ba]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bd187c74e878576252c6686e1f5d6ba]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2006/406/regulation/72) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-4bd187c74e878576252c6686e1f5d6ba]: Commencement: [Reg. 72](https://www.legislation.gov.uk/nisr/2006/406/regulation/72) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

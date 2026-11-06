@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Preliminary[^key-a2f755de21142871b6f3450cb1c2e563]
+## 54. Preliminary[^c-a2f755de21142871b6f3450cb1c2e563]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ References in this Part to “the 2000 Act” are references to the Adults with 
 
 ## Annotations
 
-[^key-a2f755de21142871b6f3450cb1c2e563]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2007/10/section/54) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-a2f755de21142871b6f3450cb1c2e563]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2007/10/section/54) in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)

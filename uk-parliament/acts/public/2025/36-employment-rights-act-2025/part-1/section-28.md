@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Dismissal for failing to agree to variation of contract, etc[^key-d148c049a128f8c512dd6ad5c5892705]
+## 28. Dismissal for failing to agree to variation of contract, etc[^c-d148c049a128f8c512dd6ad5c5892705]
 
 *Extent: E+W+S*
 
-(1)[^key-5d967ba5a8d0cbe6412c07b22c4b6a46][^key-e51c8f746f4696886147e69122f90cd1] The Employment Rights Act 1996 is amended as follows.
+(1)[^c-5d967ba5a8d0cbe6412c07b22c4b6a46][^c-e51c8f746f4696886147e69122f90cd1] The Employment Rights Act 1996 is amended as follows.
 
-(2)[^key-5d967ba5a8d0cbe6412c07b22c4b6a46][^key-e51c8f746f4696886147e69122f90cd1] Part 10 (unfair dismissal) is amended in accordance with subsections (3) to (5).
+(2)[^c-5d967ba5a8d0cbe6412c07b22c4b6a46][^c-e51c8f746f4696886147e69122f90cd1] Part 10 (unfair dismissal) is amended in accordance with subsections (3) to (5).
 
-(3)[^key-a79c34ec1c0f3f9948f7aa8ed60cfa78][^key-d906e702a70124e23b14df633a8c1d4e] Before section 105 insert—
+(3)[^c-a79c34ec1c0f3f9948f7aa8ed60cfa78][^c-d906e702a70124e23b14df633a8c1d4e] Before section 105 insert—
 
 > **104I. Contracts of employment: restricted variations**
 >
@@ -269,18 +269,18 @@ summary: ''
 
 .
 
-(6)[^key-22dd34391fd664c19ec5ef23e3c9ca2a] In section 236 (orders and regulations), in subsection (3) (regulations subject to affirmative procedure), after “99,” insert “104I, 104J(5)(f), 104K(7)(d),”.
+(6)[^c-22dd34391fd664c19ec5ef23e3c9ca2a] In section 236 (orders and regulations), in subsection (3) (regulations subject to affirmative procedure), after “99,” insert “104I, 104J(5)(f), 104K(7)(d),”.
 
 ## Annotations
 
-[^key-d148c049a128f8c512dd6ad5c5892705]: Commencement: S. 28 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d148c049a128f8c512dd6ad5c5892705]: Commencement: S. 28 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5d967ba5a8d0cbe6412c07b22c4b6a46]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/a)
+[^c-5d967ba5a8d0cbe6412c07b22c4b6a46]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/a)
 
-[^key-e51c8f746f4696886147e69122f90cd1]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/2) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/a)
+[^c-e51c8f746f4696886147e69122f90cd1]: Commencement: [S. 28(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/2) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/a)
 
-[^key-a79c34ec1c0f3f9948f7aa8ed60cfa78]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/b)
+[^c-a79c34ec1c0f3f9948f7aa8ed60cfa78]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/b)
 
-[^key-d906e702a70124e23b14df633a8c1d4e]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/b)
+[^c-d906e702a70124e23b14df633a8c1d4e]: Commencement: [S. 28(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/3) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(5)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/5/b)
 
-[^key-22dd34391fd664c19ec5ef23e3c9ca2a]: Commencement: [S. 28(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/6) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/c)
+[^c-22dd34391fd664c19ec5ef23e3c9ca2a]: Commencement: [S. 28(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/28/6) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(13)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/13/c)

@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Education (Student Loans) (Repayment) (Amendment) Regulations 2008 (revoked)[^key-0377c5fba8a86f5057213a29b3c047e8]
+The Education (Student Loans) (Repayment) (Amendment) Regulations 2008 (revoked)[^c-0377c5fba8a86f5057213a29b3c047e8]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2008
 
-[^key-0377c5fba8a86f5057213a29b3c047e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0377c5fba8a86f5057213a29b3c047e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0377c5fba8a86f5057213a29b3c047e8]
+## 1. Citation and commencement[^c-0377c5fba8a86f5057213a29b3c047e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans) (Repayment) Regulations 2000[^key-0377c5fba8a86f5057213a29b3c047e8]
+## 2. Amendment of the Education (Student Loans) (Repayment) Regulations 2000[^c-0377c5fba8a86f5057213a29b3c047e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0377c5fba8a86f5057213a29b3c047e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0377c5fba8a86f5057213a29b3c047e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0377c5fba8a86f5057213a29b3c047e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0377c5fba8a86f5057213a29b3c047e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0377c5fba8a86f5057213a29b3c047e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0377c5fba8a86f5057213a29b3c047e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0377c5fba8a86f5057213a29b3c047e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0377c5fba8a86f5057213a29b3c047e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0377c5fba8a86f5057213a29b3c047e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/546) revoked (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations 2009 (S.I. 2009/470)](https://www.legislation.gov.uk/uksi/2009/470), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/470/schedule) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/6))
+[^c-0377c5fba8a86f5057213a29b3c047e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/546) revoked (6.4.2009) by [The Education (Student Loans) (Repayment) Regulations 2009 (S.I. 2009/470)](https://www.legislation.gov.uk/uksi/2009/470), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2009/470/schedule) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/6))

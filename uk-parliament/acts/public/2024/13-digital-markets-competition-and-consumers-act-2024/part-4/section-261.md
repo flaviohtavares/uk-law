@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Duties of trader on cancellation or end of subscription contract[^key-bcd7cf5609089951c1eee3a4deb7dc2b]
+## 261. Duties of trader on cancellation or end of subscription contract[^c-bcd7cf5609089951c1eee3a4deb7dc2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd7cf5609089951c1eee3a4deb7dc2b]: Commencement: S. 261 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-bcd7cf5609089951c1eee3a4deb7dc2b]: Commencement: S. 261 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

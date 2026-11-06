@@ -294,7 +294,7 @@ For each diocese, there is to continue to be a Diocesan Board of Education (refe
 
 (4) The references in subsections (2) and (3) to the consistory court of the diocese are, in the case of the diocese of Canterbury, to be read as references to the commissary court of that diocese.
 
-### 13. Safeguarding[^key-8898fd5e11766a0917318fc946399461]
+### 13. Safeguarding[^c-8898fd5e11766a0917318fc946399461]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -439,7 +439,7 @@ A DBE may enter into arrangements with one or more other DBEs for the purpose of
 
 (8) A reference in this Measure to provision made by or under another Measure or an Act of Parliament includes a reference to provision made after the passing of this Measure.
 
-(9)[^key-362dd4bfdfe15b296d207409f959bd06] For the purposes of this Measure, where a meeting is held in more than one place (including electronic, digital or virtual locations, web addresses or conference call telephone numbers) and accordingly without any, or without all, of the persons being together in the same place—
+(9)[^c-362dd4bfdfe15b296d207409f959bd06] For the purposes of this Measure, where a meeting is held in more than one place (including electronic, digital or virtual locations, web addresses or conference call telephone numbers) and accordingly without any, or without all, of the persons being together in the same place—
 
 - (a) a reference to attending the meeting includes a reference to attending it by electronic means (including by telephone conference, video conference, live webcast or live interactive streaming), and
 - (b) a person is to be regarded as attending the meeting at any given time if the person is at that time able to hear and be heard by, and where practicable to see and be seen by, the other persons attending.
@@ -795,9 +795,9 @@ Section 3(10)
 
 [^c24508941]: Commencement: [S. 3(10)](https://www.legislation.gov.uk/ukcm/2021/1/section/3/10) comes into force in relation to each diocese on the day certified in relation to that diocese under s. 23(1), see [s. 24(4)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/4)
 
-[^key-8898fd5e11766a0917318fc946399461]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukcm/2021/1/section/13) repealed (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(6)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/6), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
+[^c-8898fd5e11766a0917318fc946399461]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukcm/2021/1/section/13) repealed (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(6)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/6), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
 
-[^key-362dd4bfdfe15b296d207409f959bd06]: Textual amendment: [S. 20(9)](https://www.legislation.gov.uk/ukcm/2021/1/section/20/9) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/7)
+[^c-362dd4bfdfe15b296d207409f959bd06]: Textual amendment: [S. 20(9)](https://www.legislation.gov.uk/ukcm/2021/1/section/20/9) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/7)
 
 [^c24508951]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2) comes into force in relation to each diocese on the day certified in relation to that diocese under s. 23(1), see [s. 24(4)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/4)
 

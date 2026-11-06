@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Action to be taken under section 8(4)[^key-b5b5baca62b8b9067d6ae941ca433a6b]
+## 42. Action to be taken under section 8(4)[^c-b5b5baca62b8b9067d6ae941ca433a6b]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b5baca62b8b9067d6ae941ca433a6b]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/2079/regulation/42) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-b5b5baca62b8b9067d6ae941ca433a6b]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/2079/regulation/42) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

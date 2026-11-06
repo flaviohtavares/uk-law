@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Road accidents[^key-c8335e602af9113ec8595f0588d43d25]
+## 136. Road accidents[^c-c8335e602af9113ec8595f0588d43d25]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ An offender is not uninsured in relation to the use of a vehicle for this purpos
 
 ## Annotations
 
-[^key-c8335e602af9113ec8595f0588d43d25]: Commencement: S. 136 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c8335e602af9113ec8595f0588d43d25]: Commencement: S. 136 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

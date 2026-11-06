@@ -51,7 +51,7 @@ Coming into force
 
 [^c2080815]In respect of provisions in these Regulations relating to housing benefit and council tax benefit, organisations appearing to the Secretary of State to be representative of the authorities concerned have agreed that consultations need not be undertaken .
 
-In accordance with section 173(1)(b) of the Social Security Administration Act 1992 [^c2080816], the Secretary of State has obtained the agreement of the Social Security Advisory Committee that the proposals in respect of these Regulations should not be referred to it.[^key-ee386ef2960b399fe1d2ad7b82c1b3ea]
+In accordance with section 173(1)(b) of the Social Security Administration Act 1992 [^c2080816], the Secretary of State has obtained the agreement of the Social Security Advisory Committee that the proposals in respect of these Regulations should not be referred to it.[^c-ee386ef2960b399fe1d2ad7b82c1b3ea]
 
 ## PART 1 — General
 
@@ -66,13 +66,13 @@ These Regulations may be cited as the Jobseeker's Allowance (Employment, Skills 
 - “**the Act**” means the Jobseekers Act 1995;
 - “**claimant**” means a person who claims a jobseeker's allowance, except that in relation to a joint-claim couple claiming a joint-claim jobseeker's allowance, it means either or both of the members of the couple;
 - “**the Council Tax Benefit Regulations**” means the Council Tax Benefit Regulations 2006 [^c2080817];
-- “full-time student” has the same meaning as in regulation 1(3) of the Jobseeker’s Allowance Regulations;[^key-176c97fb2f92065128361309a5e07e0f]
+- “full-time student” has the same meaning as in regulation 1(3) of the Jobseeker’s Allowance Regulations;[^c-176c97fb2f92065128361309a5e07e0f]
 - “**the Housing Benefit Regulations**” means the Housing Benefit Regulations 2006 [^c2080818];
 - “**the Housing Renewal Grants Regulations**” means the Housing Renewal Grants Regulations 1996 [^c2080819];
 - “**the Jobseeker's Allowance Regulations**” means the Jobseeker's Allowance Regulations 1996 [^c2080820];
-- “New Enterprise Allowance” means an employment initiative provided in pursuance of arrangements made by or on behalf of the Secretary of State under section 2 of the Employment and Training Act 1973 designed to assist claimants into self-employed earner’s employment;[^key-c50e279fa049f462379544434ab07234]
+- “New Enterprise Allowance” means an employment initiative provided in pursuance of arrangements made by or on behalf of the Secretary of State under section 2 of the Employment and Training Act 1973 designed to assist claimants into self-employed earner’s employment;[^c-c50e279fa049f462379544434ab07234]
 - “**the Scheme**” means the Employment, Skills and Enterprise Scheme;
-- “self-employed earner’s employment” has the same meaning as in the Benefits Act;[^key-cfb21871254a6cf6eddd8cf1e5b7f253]
+- “self-employed earner’s employment” has the same meaning as in the Benefits Act;[^c-cfb21871254a6cf6eddd8cf1e5b7f253]
 - “**working day**” means any day except for a Saturday, Sunday, Christmas Day, Good Friday or bank holiday under the Banking and Financial Dealings Act 1971 [^c2080821] in England and Wales or in Scotland;
 - “**the Employment, Skills and Enterprise Scheme**” means a scheme within section 17A (schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.) of the Act known by that name and provided pursuant to arrangements made by the Secretary of State that is designed to assist claimants to obtain employment or self-employment, and which may include for any individual work-related activity (including work experience or job search).
 
@@ -116,13 +116,13 @@ whichever is earlier.
 
 (3) Where paragraph (2)(a) applies, the requirement ceases to apply on the day specified in the notice.
 
-### 5A. Requirement to meet the jobseeking conditions[^key-358c6e4cbc00668406e50de3fe8369f4]
+### 5A. Requirement to meet the jobseeking conditions[^c-358c6e4cbc00668406e50de3fe8369f4]
 
 (1) A claimant who is participating in the Scheme is not required to meet the condition set out in section 1(2)(c) of the Act (conditions for entitlement to a jobseeker’s allowance: actively seeking employment) if the claimant is also participating in New Enterprise Allowance.
 
 (2) A claimant who is participating in the Scheme is not required to meet the conditions set out in section 1(2)(a) and (c) of the Act (conditions for entitlement to a jobseeker’s allowance: available for and actively seeking employment) if the claimant is a full-time student.
 
-(3)[^key-bc226df1b5dd640d713a801242402b2b] A claimant who is participating in the Scheme is not required to meet the conditions set out in section 1(2)(a) and (c) of the Act if the claimant has been discharged from detention in a prison, remand centre or youth custody institution, for one week commencing with the date of that discharge.
+(3)[^c-bc226df1b5dd640d713a801242402b2b] A claimant who is participating in the Scheme is not required to meet the conditions set out in section 1(2)(a) and (c) of the Act if the claimant has been discharged from detention in a prison, remand centre or youth custody institution, for one week commencing with the date of that discharge.
 
 ## PART 3 — Sanctions
 
@@ -130,21 +130,21 @@ whichever is earlier.
 
 A claimant who fails to comply with any requirement notified under regulation 4 is to be regarded as having failed to participate in the Scheme.
 
-### 7. Good cause[^key-db5a139c5868524156c9ffb9c92a7de2]
+### 7. Good cause[^c-db5a139c5868524156c9ffb9c92a7de2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Consequences of failure to participate in the Scheme[^key-4315a3b89ca2719c46bf6b1a53dd67f3]
+### 8. Consequences of failure to participate in the Scheme[^c-4315a3b89ca2719c46bf6b1a53dd67f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Hardship
 
-### 9. Hardship[^key-e7babc418eaaceb7dce7b651ea646729]
+### 9. Hardship[^c-e7babc418eaaceb7dce7b651ea646729]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Hardship for joint-claim couples[^key-debb46e45fdde5cbc07f7d0f4e2ef3b0]
+### 10. Hardship for joint-claim couples[^c-debb46e45fdde5cbc07f7d0f4e2ef3b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -260,7 +260,7 @@ The Jobseeker's Allowance Regulations are amended as follows—
 
   .
 
-### 17. Consequential amendments relating to decisions and appeals[^key-392104f81fb8d870f9de6e0e251e8a99]
+### 17. Consequential amendments relating to decisions and appeals[^c-392104f81fb8d870f9de6e0e251e8a99]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -274,7 +274,7 @@ The Jobseeker's Allowance Regulations are amended as follows—
 
 - (a) regulation 4 (requirement to participate and notification);
 - (b) regulation 5(2)(a) (notice that requirement to participate ceases); and
-- (c)[^key-9b73de87397008aaddda1580e4aae401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9b73de87397008aaddda1580e4aae401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions
 
@@ -344,11 +344,11 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2080816]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-ee386ef2960b399fe1d2ad7b82c1b3ea]: Modification: Regulations modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
+[^c-ee386ef2960b399fe1d2ad7b82c1b3ea]: Modification: Regulations modified (26.3.2013) by [Jobseekers (Back to Work Schemes) Act 2013 (c. 17)](https://www.legislation.gov.uk/ukpga/2013/17), [ss. 1](https://www.legislation.gov.uk/ukpga/2013/17/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2013/17/section/3/2)
 
 [^c2080817]: Marginal citation: [S.I. 2006/215](https://www.legislation.gov.uk/uksi/2006/215).
 
-[^key-176c97fb2f92065128361309a5e07e0f]: Textual amendment: Words in reg. 2(1) inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/2/a)
+[^c-176c97fb2f92065128361309a5e07e0f]: Textual amendment: Words in reg. 2(1) inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/2/a)
 
 [^c2080818]: Marginal citation: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -356,25 +356,25 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2080820]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-c50e279fa049f462379544434ab07234]: Textual amendment: Words in reg. 2(1) inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/2/b)
+[^c-c50e279fa049f462379544434ab07234]: Textual amendment: Words in reg. 2(1) inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/2/b)
 
-[^key-cfb21871254a6cf6eddd8cf1e5b7f253]: Textual amendment: Words in reg. 2(1) inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/2/c)
+[^c-cfb21871254a6cf6eddd8cf1e5b7f253]: Textual amendment: Words in reg. 2(1) inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/2/c)
 
 [^c2080821]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^c2080822]: Marginal citation: *See* section 17A(10) of the Act for the meaning of the “jobseeking conditions”.
 
-[^key-358c6e4cbc00668406e50de3fe8369f4]: Textual amendment: Reg. 5A inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/3)
+[^c-358c6e4cbc00668406e50de3fe8369f4]: Textual amendment: Reg. 5A inserted (5.8.2011) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2011 (S.I. 2011/1707)](https://www.legislation.gov.uk/uksi/2011/1707), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1707/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/1707/regulation/3/3)
 
-[^key-bc226df1b5dd640d713a801242402b2b]: Textual amendment: [Reg. 5A(3)](https://www.legislation.gov.uk/uksi/2011/917/regulation/5A/3) inserted (1.3.2012) by [The Jobseeker's Allowance (Jobseeking and Work for Your Benefit) (Amendment and Revocation) Regulations 2012 (S.I. 2012/397)](https://www.legislation.gov.uk/uksi/2012/397), [regs. 1](https://www.legislation.gov.uk/uksi/2012/397/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/397/regulation/3)
+[^c-bc226df1b5dd640d713a801242402b2b]: Textual amendment: [Reg. 5A(3)](https://www.legislation.gov.uk/uksi/2011/917/regulation/5A/3) inserted (1.3.2012) by [The Jobseeker's Allowance (Jobseeking and Work for Your Benefit) (Amendment and Revocation) Regulations 2012 (S.I. 2012/397)](https://www.legislation.gov.uk/uksi/2012/397), [regs. 1](https://www.legislation.gov.uk/uksi/2012/397/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/397/regulation/3)
 
-[^key-db5a139c5868524156c9ffb9c92a7de2]: Textual amendment: Reg. 7 revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
+[^c-db5a139c5868524156c9ffb9c92a7de2]: Textual amendment: Reg. 7 revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
 
-[^key-4315a3b89ca2719c46bf6b1a53dd67f3]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/917/regulation/8) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
+[^c-4315a3b89ca2719c46bf6b1a53dd67f3]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/917/regulation/8) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
 
-[^key-e7babc418eaaceb7dce7b651ea646729]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/917/regulation/9) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
+[^c-e7babc418eaaceb7dce7b651ea646729]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/917/regulation/9) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
 
-[^key-debb46e45fdde5cbc07f7d0f4e2ef3b0]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/917/regulation/10) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
+[^c-debb46e45fdde5cbc07f7d0f4e2ef3b0]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/917/regulation/10) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
 
 [^c2080827]: Marginal citation: Relevant amending instruments are [S.I. 2001/739](https://www.legislation.gov.uk/uksi/2001/739) and 2002/530 which relate to the definition of “self-employment route” in the Jobseeker's Allowance Regulations.
 
@@ -402,6 +402,6 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c2080839]: Marginal citation: Relevant amending instruments are [S.I. 1999/2165](https://www.legislation.gov.uk/uksi/1999/2165), 1999/3156, 2000/1978, 2000/2910, 2004/963, 2004/3168, 2005/2060, 2005/2929, 2006/2378, 2009/3228, 2010/641 and 2011/688; [regulation 53](https://www.legislation.gov.uk/uksi/2011/917/regulation/53) was also modified by [S.I. 2010/1222](https://www.legislation.gov.uk/uksi/2010/1222).
 
-[^key-392104f81fb8d870f9de6e0e251e8a99]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/917/regulation/17) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
+[^c-392104f81fb8d870f9de6e0e251e8a99]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/917/regulation/17) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/a)
 
-[^key-9b73de87397008aaddda1580e4aae401]: Textual amendment: [Reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2011/917/regulation/18/2/c) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/b)
+[^c-9b73de87397008aaddda1580e4aae401]: Textual amendment: [Reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2011/917/regulation/18/2/c) revoked (22.10.2012) by [The Jobseekerâ€™s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/7/b)

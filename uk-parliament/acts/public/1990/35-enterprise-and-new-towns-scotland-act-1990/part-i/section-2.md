@@ -36,7 +36,7 @@ summary: ''
 
 (4) Arrangements under subsection (3) above may—
 
-- (a) include arrangements for encouraging increases in the opportunities for (and types of) employment and training[^c1031006] that are available to women and girls, to disabled persons or to persons of any racial group (as defined in section 9 of the Equality Act 2010[^key-a93afa12d0b5bcbfa8c0c4d23fadcfbe]) which constitutes a minority within the population of Scotland;
+- (a) include arrangements for encouraging increases in the opportunities for (and types of) employment and training[^c1031006] that are available to women and girls, to disabled persons or to persons of any racial group (as defined in section 9 of the Equality Act 2010[^c-a93afa12d0b5bcbfa8c0c4d23fadcfbe]) which constitutes a minority within the population of Scotland;
 - (b) be made in respect of training anywhere in the United Kingdom or elsewhere;
 - (c)[^c1031008] include provision for the making of payments by Scottish Enterprise or Highlands and Islands Enterprise, by way of grant or loan or otherwise, to persons who provide facilities in pursuance of the arrangements, to persons who use those facilities and to other persons specified in or determined under the arrangements; and
 - (d) include provision for the making of payments to Scottish Enterprise or Highlands and Islands Enterprise by other parties to the arrangements and by persons who use those facilities.
@@ -63,7 +63,7 @@ summary: ''
 
 [^c1031006]: Textual amendment: Words in s. 2(4) substituted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 47(4)(b)](https://www.legislation.gov.uk/ukpga/1993/19/section/47/4/b); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1).
 
-[^key-a93afa12d0b5bcbfa8c0c4d23fadcfbe]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1990/35/section/2/4/a) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 20 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5) (see S.I. 2010/2317, art. 2)
+[^c-a93afa12d0b5bcbfa8c0c4d23fadcfbe]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1990/35/section/2/4/a) substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 20 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5) (see S.I. 2010/2317, art. 2)
 
 [^c1031008]: Modification: S. 2(4)(c) excluded (7.10.1996) by [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207), [reg. 103(2)](https://www.legislation.gov.uk/uksi/1996/207/regulation/103/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/1996/207/schedule/7/paragraph/14).
 

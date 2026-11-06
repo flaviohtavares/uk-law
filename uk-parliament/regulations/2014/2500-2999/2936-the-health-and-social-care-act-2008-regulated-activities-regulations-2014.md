@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1
 
 In accordance with section 20(8) of that Act, the Secretary of State has consulted such persons as the Secretary of State considers appropriate.
 
-A draft of these Regulations was laid before Parliament in accordance with section 162(3) of the Health and Social Care Act 2008, and was approved by a resolution of each House of Parliament.[^key-2e5595db4be0bf2daf297589d41e8d58]
+A draft of these Regulations was laid before Parliament in accordance with section 162(3) of the Health and Social Care Act 2008, and was approved by a resolution of each House of Parliament.[^c-2e5595db4be0bf2daf297589d41e8d58]
 
 ## PART 1 — General
 
@@ -72,7 +72,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (5) All other provisions of these Regulations come into force on 1st April 2015.
 
-(6)[^key-afbf65ee4c78ef98110d1fe7d45b3dad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-afbf65ee4c78ef98110d1fe7d45b3dad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Interpretation
 
@@ -83,7 +83,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - “**the 1983 Act**” means the Mental Health Act 1983 [^c22244731];
 - “**the 2005 Act**” means the Mental Capacity Act 2005 [^c22244741];
 - “**the 2006 Act**” means the National Health Service Act 2006 [^c22244751];
-- “**the 2001 Order**” means the Health Professions Order 2001[^key-d47af1b8975339a02064d5a7f47e079b];
+- “**the 2001 Order**” means the Health Professions Order 2001[^c-d47af1b8975339a02064d5a7f47e079b];
 - “**the 2010 Regulations**” means the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010 [^c22244771];
 - “**employment**” means—
   - (a) employment under a contract of service, an apprenticeship, a contract for services or otherwise than under a contract, and
@@ -97,8 +97,8 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - “health care professional”, except in paragraph 4 of Schedule 1, means a person who is registered as a member of any profession to which section 60(2) of the Health Act 1999 [^c22244801] (regulation of health professions, social workers, other care workers, etc) applies;
 - “**health service body**” means—
   - (a) an NHS trust established under section 25 of the 2006 Act,
-  - (b) an NHS foundation trust,[^key-10aaa42978967ce993b84fef385f93ba]...
-  - (c) a Special Health Authority , or[^key-d5f1db55f75d4e7e979d36fee429308f]
+  - (b) an NHS foundation trust,[^c-10aaa42978967ce993b84fef385f93ba]...
+  - (c) a Special Health Authority , or[^c-d5f1db55f75d4e7e979d36fee429308f]
   - (d) NHS England;
 - “hospital”, except in paragraphs 1(3)(d) and 5 of Schedule 1, has the same meaning as in section 275 (interpretation) of the 2006 Act;
 - “**institution within the further education sector**” has the same meaning as in section 91 (interpretation of Education Acts) of the Further and Higher Education Act 1992 [^c22244811];
@@ -126,9 +126,9 @@ other than any services which, having regard to their nature and the circumstanc
   - (a) any building or other structure, including any machinery, engineering systems or other objects which are physically affixed and integral to such building or structure, and any surrounding grounds, or
   - (b) a vehicle,
 
-but in regulations 12, 14 and 15 does not include the service user's accommodation where such accommodation is not provided as part of the service user's care or treatment [^key-555f7a0d75499e74e2d75fc54646527f]...;
+but in regulations 12, 14 and 15 does not include the service user's accommodation where such accommodation is not provided as part of the service user's care or treatment [^c-555f7a0d75499e74e2d75fc54646527f]...;
 
-- [^key-c435343cb2216029417e40e645a8753d]...
+- [^c-c435343cb2216029417e40e645a8753d]...
 - “**reasonable adjustments**” means such reasonable adjustments as would be required under the Equality Act 2010 [^c22244821];
 - “**registered manager**” means, in respect of a regulated activity, a person registered with the Commission [^c22244831] under Chapter 2 of Part 1 of the Act as a manager in respect of that activity;
 - “**registered person**” means, in respect of a regulated activity, a person who is the service provider or registered manager in respect of that activity;
@@ -141,10 +141,10 @@ but in regulations 12, 14 and 15 does not include the service user's accommodati
 - “**shared lives scheme**” means a scheme carried on (whether or not for profit) by a local authority or other person for the purposes of—
   - (a) recruiting and training shared lives carers,
   - (b) making arrangements for the placing of service users with shared lives carers, and
-  - (c) supporting and monitoring placements ,[^key-b6ab473f4239fe1777f9c3e14cd6f16e]
+  - (c) supporting and monitoring placements ,[^c-b6ab473f4239fe1777f9c3e14cd6f16e]
 
     and for the purposes of section 20A of the Act (functions relating to processing of information by registered persons) “adult placement scheme” has the same meaning as “shared lives scheme”
-- “**social worker**” means a person who is registered as such in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^key-3f2c2b36f31f77505f2f325172eca548];
+- “**social worker**” means a person who is registered as such in the register of social workers in England maintained under section 39(1) of the Children and Social Work Act 2017[^c-3f2c2b36f31f77505f2f325172eca548];
 - “treatment”, except in paragraph 5 of Schedule 1, includes—
   - (a) a diagnostic or screening procedure carried out for medical purposes,
   - (b) the ongoing assessment of a service user's mental or physical state,
@@ -201,20 +201,20 @@ but in regulations 12, 14 and 15 does not include the service user's accommodati
   - (ii) where P is a partnership, intrinsic to their role in the carrying on of the regulated activity, and
 - (c) is able to supply to the Commission, or arrange for the availability of, information relating to themselves specified in Schedule 3.
 
-(5) The requirement referred to in paragraph (3)(a)(ii) is that P has the necessary qualifications , competence[^key-b534688b53be012afe43adefc5fe37e1], skills and experience to carry on the regulated activity.
+(5) The requirement referred to in paragraph (3)(a)(ii) is that P has the necessary qualifications , competence[^c-b534688b53be012afe43adefc5fe37e1], skills and experience to carry on the regulated activity.
 
-(6) The requirement referred to in paragraph (3)(b)(ii) is that, through the combination of the qualifications , competence[^key-d4ac0ee1cb9d951725babb4c2b0a84da], skills and experience of the partners, P has the necessary qualifications, skills and experience to carry on the regulated activity.
+(6) The requirement referred to in paragraph (3)(b)(ii) is that, through the combination of the qualifications , competence[^c-d4ac0ee1cb9d951725babb4c2b0a84da], skills and experience of the partners, P has the necessary qualifications, skills and experience to carry on the regulated activity.
 
-(7)[^key-4c52438538a69dd1e0cee51c13b5482b] In assessing an individual’s character for the purposes of paragraph (4)(a), the matters considered must include those listed in Part 2 of Schedule 4.
+(7)[^c-4c52438538a69dd1e0cee51c13b5482b] In assessing an individual’s character for the purposes of paragraph (4)(a), the matters considered must include those listed in Part 2 of Schedule 4.
 
 #### 5. Fit and proper persons: directors
 
-(1)[^key-c2f24fc290a4f8d942b22a6da67d790c] This regulation applies where the service provider is a body other than a partnership.
+(1)[^c-c2f24fc290a4f8d942b22a6da67d790c] This regulation applies where the service provider is a body other than a partnership.
 
-(2) Unless the individual satisfies all the requirements set out in paragraph (3), a service provider[^key-36fac04f6848160eda6d9db20811573c] must not appoint or have in place an individual—
+(2) Unless the individual satisfies all the requirements set out in paragraph (3), a service provider[^c-36fac04f6848160eda6d9db20811573c] must not appoint or have in place an individual—
 
 - (a) as a director of the service provider, or
-- (b) performing the functions of, or functions equivalent or similar to the functions of, [^key-5def0b41f17f2f4942a9456ec7ee4af7]... a director.
+- (b) performing the functions of, or functions equivalent or similar to the functions of, [^c-5def0b41f17f2f4942a9456ec7ee4af7]... a director.
 
 (3) The requirements referred to in paragraph (2) are that—
 
@@ -248,11 +248,11 @@ but in regulations 12, 14 and 15 does not include the service user's accommodati
 (3) The registered person must take all reasonable steps to ensure that the nominated individual—
 
 - (a) is of good character,
-- (b) has the necessary qualifications , competence[^key-011a7cab3e3a52377f528998561f2b6f], skills and experience to properly supervise the management of the carrying on of the regulated activity,
+- (b) has the necessary qualifications , competence[^c-011a7cab3e3a52377f528998561f2b6f], skills and experience to properly supervise the management of the carrying on of the regulated activity,
 - (c) is able by reason of their health, after reasonable adjustments are made, of properly doing so, and
 - (d) is able to supply to the registered person, or arrange for the availability of, the information specified in Schedule 3.
 
-(4)[^key-4efdd19cbe0d1e41e74096c64d56c199] In assessing an individual’s character for the purposes of paragraph (3)(a), the matters considered must include those listed in Part 2 of Schedule 4.
+(4)[^c-4efdd19cbe0d1e41e74096c64d56c199] In assessing an individual’s character for the purposes of paragraph (3)(a), the matters considered must include those listed in Part 2 of Schedule 4.
 
 #### 7. Requirements relating to registered managers
 
@@ -261,17 +261,17 @@ but in regulations 12, 14 and 15 does not include the service user's accommodati
 (2) M is not fit to be a registered manager in respect of a regulated activity unless M is—
 
 - (a) of good character,
-- (b) has the necessary qualifications , competence[^key-80c0474cb21756fdffc68962bca485b3], skills and experience to manage the carrying on of the regulated activity,
+- (b) has the necessary qualifications , competence[^c-80c0474cb21756fdffc68962bca485b3], skills and experience to manage the carrying on of the regulated activity,
 - (c) able by reason of M's health, after reasonable adjustments are made, of doing so, and
 - (d) able to supply to the Commission, or arrange for the availability of, the information specified in Schedule 3.
 
-(3)[^key-0a9bdddd1c8e40309ee03c328a3fd5aa] In assessing an individual’s character for the purposes of paragraph (2)(a), the matters considered must include those listed in Part 2 of Schedule 4.
+(3)[^c-0a9bdddd1c8e40309ee03c328a3fd5aa] In assessing an individual’s character for the purposes of paragraph (2)(a), the matters considered must include those listed in Part 2 of Schedule 4.
 
 ### SECTION 2 — Fundamental Standards
 
 #### 8. General
 
-(1) A registered person must comply with regulations 9 to 20A[^key-37774507476a3ddbfb734d1b644bfa14] in carrying on a regulated activity.
+(1) A registered person must comply with regulations 9 to 20A[^c-37774507476a3ddbfb734d1b644bfa14] in carrying on a regulated activity.
 
 (2) But paragraph (1) does not require a person to do something to the extent that what is required to be done to comply with regulations 9 to 20A has already been done by another person who is a registered person in relation to the regulated activity concerned.
 
@@ -305,7 +305,7 @@ but in regulations 12, 14 and 15 does not include the service user's accommodati
 
 (6) But if Part 4 or 4A of the 1983 Act applies to a service user, care and treatment must be provided in accordance with the provisions of that Act.
 
-#### 9A. Visiting and accompanying in care homes, hospitals and hospices[^key-3051eefd51e76365416b58bfce5070f0]
+#### 9A. Visiting and accompanying in care homes, hospitals and hospices[^c-3051eefd51e76365416b58bfce5070f0]
 
 (1) This regulation applies to a registered person in respect of a relevant regulated activity carried on in a care home, hospital or hospice.
 
@@ -393,23 +393,23 @@ but in regulations 12, 14 and 15 does not include the service user's accommodati
 - (h) assessing the risk of, and preventing, detecting and controlling the spread of, infections, including those that are health care associated;
 - (i) where responsibility for the care and treatment of service users is shared with, or transferred to, other persons, working with such other persons, service users and other appropriate persons to ensure that timely care planning takes place to ensure the health, safety and welfare of the service users.
 
-(3)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3C)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3D)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3D)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-06fa4e51470e37f54eb1c82c9a22184a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 13. Safeguarding service users from abuse and improper treatment
 
@@ -509,9 +509,9 @@ including by use of physical, mechanical or chemical means.
 - (b) assess, monitor and mitigate the risks relating to the health, safety and welfare of service users and others who may be at risk which arise from the carrying on of the regulated activity;
 - (c) maintain securely an accurate, complete and contemporaneous record in respect of each service user, including a record of the care and treatment provided to the service user and of decisions taken in relation to the care and treatment provided;
 - (d) maintain securely such other records as are necessary to be kept in relation to—
-  - (i) persons employed in the carrying on of the regulated activity,[^key-db91cfb89fb91f50aa0eff025337b2d1] and[^key-cd19ffe51124347e2be6f93488b6e784]
-  - (ii) the management of the regulated activity,[^key-dc038bfa5ae212b9a9dd42c6ac7a7397] [^key-6bb9718f5d467d54019ef80d02c299ca]...
-  - (iii)[^key-c3d2980b3df329871ecf41e06313e35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) persons employed in the carrying on of the regulated activity,[^c-db91cfb89fb91f50aa0eff025337b2d1] and[^c-cd19ffe51124347e2be6f93488b6e784]
+  - (ii) the management of the regulated activity,[^c-dc038bfa5ae212b9a9dd42c6ac7a7397] [^c-6bb9718f5d467d54019ef80d02c299ca]...
+  - (iii)[^c-c3d2980b3df329871ecf41e06313e35e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) seek and act on feedback from relevant persons and other persons on the services provided in the carrying on of the regulated activity, for the purposes of continually evaluating and improving such services;
 - (f) evaluate and improve their practice in respect of the processing of the information referred to in sub-paragraphs (a) to (e).
 
@@ -543,12 +543,12 @@ including by use of physical, mechanical or chemical means.
 - (a) paragraph (1), or
 - (b) in a case to which regulation 5 applies, paragraph (3) of that regulation.
 
-(3) Subject to paragraph (3A), the[^key-6422fbb5cdae15ce2f226bd5469a9838] following information must be available in relation to each such person employed—
+(3) Subject to paragraph (3A), the[^c-6422fbb5cdae15ce2f226bd5469a9838] following information must be available in relation to each such person employed—
 
 - (a) the information specified in Schedule 3, and
 - (b) such other information as is required under any enactment to be kept by the registered person in relation to such persons employed.
 
-(3A)[^key-2d50d8f6ebd46c5e7da1f05e68a3e232] Unless regulation 4, 6 or 7 applies, where the person so employed is a volunteer, paragraph (3) does not require the information specified in paragraph 7 of Schedule 3 to be made available.
+(3A)[^c-2d50d8f6ebd46c5e7da1f05e68a3e232] Unless regulation 4, 6 or 7 applies, where the person so employed is a volunteer, paragraph (3) does not require the information specified in paragraph 7 of Schedule 3 to be made available.
 
 (4) Persons employed must be registered with the relevant professional body where such registration is required by, or under, any enactment in relation to—
 
@@ -562,24 +562,24 @@ including by use of physical, mechanical or chemical means.
 
 (6) Paragraphs (1) and (3) of this regulation do not apply in a case to which regulation 5 applies.
 
-(7)[^key-0fac383b85b6a7de929e1fc6bb7544d0] For the purposes of this regulation, a “volunteer” is a person employed under arrangements to provide their services voluntarily as referred to in regulation 2(2)(c).
+(7)[^c-0fac383b85b6a7de929e1fc6bb7544d0] For the purposes of this regulation, a “volunteer” is a person employed under arrangements to provide their services voluntarily as referred to in regulation 2(2)(c).
 
 #### 20. Duty of candour
 
-(1) Registered persons[^key-63d32820d5881c85eb3cbb65c0b747d3] must act in an open and transparent way with relevant persons in relation to care and treatment provided to service users in carrying on a regulated activity.
+(1) Registered persons[^c-63d32820d5881c85eb3cbb65c0b747d3] must act in an open and transparent way with relevant persons in relation to care and treatment provided to service users in carrying on a regulated activity.
 
-(2) As soon as reasonably practicable after becoming aware that a notifiable safety incident has occurred a registered person[^key-8aa04ece90ade8611c933a3cb5902396] must—
+(2) As soon as reasonably practicable after becoming aware that a notifiable safety incident has occurred a registered person[^c-8aa04ece90ade8611c933a3cb5902396] must—
 
 - (a) notify the relevant person that the incident has occurred in accordance with paragraph (3), and
 - (b) provide reasonable support to the relevant person in relation to the incident, including when giving such notification.
 
 (3) The notification to be given under paragraph (2)(a) must—
 
-- (a) be given in person by one or more representatives of the registered person[^key-a6a5b920c0a04b1728ff52108d38dd60],
-- (b) provide an account, which to the best of the registered person’s[^key-bce51ea76521cd047e5be4ea79978c2d] knowledge is true, of all the facts the registered person knows about the incident as at the date of the notification,
-- (c) advise the relevant person what further enquiries into the incident the registered person[^key-d65149f323b88ea4061dfde682b046c0] believes are appropriate,
+- (a) be given in person by one or more representatives of the registered person[^c-a6a5b920c0a04b1728ff52108d38dd60],
+- (b) provide an account, which to the best of the registered person’s[^c-bce51ea76521cd047e5be4ea79978c2d] knowledge is true, of all the facts the registered person knows about the incident as at the date of the notification,
+- (c) advise the relevant person what further enquiries into the incident the registered person[^c-d65149f323b88ea4061dfde682b046c0] believes are appropriate,
 - (d) include an apology, and
-- (e) be recorded in a written record which is kept securely by the registered person[^key-1936e89486bc1bc5365225c5fc4c9b2b].
+- (e) be recorded in a written record which is kept securely by the registered person[^c-1936e89486bc1bc5365225c5fc4c9b2b].
 
 (4) The notification given under paragraph (2)(a) must be followed by a written notification given or sent to the relevant person containing—
 
@@ -588,12 +588,12 @@ including by use of physical, mechanical or chemical means.
 - (c) the results of any further enquiries into the incident, and
 - (d) an apology.
 
-(5) But if the relevant person cannot be contacted in person or declines to speak to the representative of the registered person[^key-3ba2ad5fbe2402fdf409f27fa849df99]—
+(5) But if the relevant person cannot be contacted in person or declines to speak to the representative of the registered person[^c-3ba2ad5fbe2402fdf409f27fa849df99]—
 
 - (a) paragraphs (2) to (4) are not to apply, and
 - (b) a written record is to be kept of attempts to contact or to speak to the relevant person.
 
-(6) The registered person[^key-da6f8fbf5242c13075ab273104e9c28a] must keep a copy of all correspondence with the relevant person under paragraph (4).
+(6) The registered person[^c-da6f8fbf5242c13075ab273104e9c28a] must keep a copy of all correspondence with the relevant person under paragraph (4).
 
 (7) In this regulation—
 
@@ -602,16 +602,16 @@ including by use of physical, mechanical or chemical means.
   - (a) harm that requires a moderate increase in treatment, and
   - (b) significant, but not permanent, harm;
 - “**moderate increase in treatment**” means an unplanned return to surgery, an unplanned re-admission, a prolonged episode of care, extra time in hospital or as an outpatient, cancelling of treatment, or transfer to another treatment area (such as intensive care);
-- “notifiable safety incident” has the meaning given in paragraphs (8) and (9);[^key-876cd66bc95ca13930b55d692e9b3a6f]
-- “prolonged pain” means pain which a service user has experienced, or is likely to experience, for a continuous period of at least 28 days;[^key-8afc93b9cf24b20a772b080f65f2e627]
+- “notifiable safety incident” has the meaning given in paragraphs (8) and (9);[^c-876cd66bc95ca13930b55d692e9b3a6f]
+- “prolonged pain” means pain which a service user has experienced, or is likely to experience, for a continuous period of at least 28 days;[^c-8afc93b9cf24b20a772b080f65f2e627]
 - “**prolonged psychological harm**” means psychological harm which a service user has experienced, or is likely to experience, for a continuous period of at least 28 days;
 - “**relevant person**” means the service user or, in the following circumstances, a person lawfully acting on their behalf—
   - (a) on the death of the service user,
   - (b) where the service user is under 16 and not competent to make a decision in relation to their care or treatment, or
-  - (c) where the service user is 16 or over and lacks capacity[^key-77f5435e8349c9b624c15d7a1feff189]... in relation to the matter;
+  - (c) where the service user is 16 or over and lacks capacity[^c-77f5435e8349c9b624c15d7a1feff189]... in relation to the matter;
 - “**severe harm**” means a permanent lessening of bodily, sensory, motor, physiologic or intellectual functions, including removal of the wrong limb or organ or brain damage, that is related directly to the incident and not related to the natural course of the service user's illness or underlying condition.
 
-(8)[^key-8074735693f9f837ad5b0ceb824140ba] In relation to a health service body, “notifiable safety incident” means any unintended or unexpected incident that occurred in respect of a service user during the provision of a regulated activity that, in the reasonable opinion of a health care professional, could result in, or appears to have resulted in—
+(8)[^c-8074735693f9f837ad5b0ceb824140ba] In relation to a health service body, “notifiable safety incident” means any unintended or unexpected incident that occurred in respect of a service user during the provision of a regulated activity that, in the reasonable opinion of a health care professional, could result in, or appears to have resulted in—
 
 - (a) the death of the service user, where the death relates directly to the incident rather than to the natural course of the service user’s illness or underlying condition, or
 - (b) severe harm, moderate harm or prolonged psychological harm to the service user.
@@ -628,7 +628,7 @@ including by use of physical, mechanical or chemical means.
   - (i) the death of the service user, or
   - (ii) any injury to the service user which, if left untreated, would lead to one or more of the outcomes mentioned in sub-paragraph (a).
 
-#### 20A. Requirement as to display of performance assessments[^key-848a66492cec7d2f8cfa740dfb6613f2]
+#### 20A. Requirement as to display of performance assessments[^c-848a66492cec7d2f8cfa740dfb6613f2]
 
 (1) This regulation applies where, and to the extent that, a service provider has received a rating of its performance by the Commission following an assessment of its performance under section 46(1) of the Act (reviews and performance assessments).
 
@@ -674,9 +674,9 @@ For the purposes of compliance with the requirements set out in these Regulation
 (1) It is an offence for a registered person to fail to comply with any of the requirements in the following regulations, as read with regulation 8—
 
 - (a) regulation 11,
-- (b) regulation 16(3), [^key-8b8cf3e9cc6b1eff3e4d6b34a2689e39]...
+- (b) regulation 16(3), [^c-8b8cf3e9cc6b1eff3e4d6b34a2689e39]...
 - (c) regulation 17(3).
-- (d)[^key-63e2ae8adf8f12d51e6fb3ca1af6a848] regulation 20(2)(a) and (3), or
+- (d)[^c-63e2ae8adf8f12d51e6fb3ca1af6a848] regulation 20(2)(a) and (3), or
 - (e) regulation 20A.
 
 (2) A registered person commits an offence if the registered person fails to comply with a requirement of regulation 12, 13(1) to (4) or 14, as read with regulation 8, and such failure results in—
@@ -685,25 +685,25 @@ For the purposes of compliance with the requirements set out in these Regulation
 - (b) a service user being exposed to a significant risk of such harm occurring, or
 - (c) in a case of theft, misuse or misappropriation of money or property, any loss by a service user of the money or property concerned.
 
-(3)[^key-2e88be68f137cae19993fbaacba22ff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2e88be68f137cae19993fbaacba22ff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) But it is a defence for a registered person[^key-9c2cf5096f747003d34db3a2ef96eac5]... to prove that they took all reasonable steps and exercised all due diligence to prevent the breach of any of those regulations that has occurred.
+(4) But it is a defence for a registered person[^c-9c2cf5096f747003d34db3a2ef96eac5]... to prove that they took all reasonable steps and exercised all due diligence to prevent the breach of any of those regulations that has occurred.
 
 ### 23. Offences: penalties
 
-(1)[^key-a8934b48cd646a2b15f61cba65a18e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a8934b48cd646a2b15f61cba65a18e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a8934b48cd646a2b15f61cba65a18e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a8934b48cd646a2b15f61cba65a18e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a8934b48cd646a2b15f61cba65a18e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a8934b48cd646a2b15f61cba65a18e64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) A person guilty of an offence under regulation 22(1) for breach of regulation 11 or an offence under regulation 22(2) is liable on summary conviction to a fine[^key-c78038eebe1a7f4146832cbd311e0794] .
+(4) A person guilty of an offence under regulation 22(1) for breach of regulation 11 or an offence under regulation 22(2) is liable on summary conviction to a fine[^c-c78038eebe1a7f4146832cbd311e0794] .
 
-(5) A person guilty of an offence under regulation 22(1) for breach of regulation 16(3), 17(3) or 20(2)(a) and (3[^key-69ad820985add678134f0b66469ad4ce] is liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
+(5) A person guilty of an offence under regulation 22(1) for breach of regulation 16(3), 17(3) or 20(2)(a) and (3[^c-69ad820985add678134f0b66469ad4ce] is liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
 
-(5A)[^key-e40c0ce9b6f455db0e2653edf8f80e6f] A person guilty of an offence under regulation 22(1) for breach of regulation 20A is liable, on summary conviction, to a fine not exceeding level 2 on the standard scale.
+(5A)[^c-e40c0ce9b6f455db0e2653edf8f80e6f] A person guilty of an offence under regulation 22(1) for breach of regulation 20A is liable, on summary conviction, to a fine not exceeding level 2 on the standard scale.
 
-(6)[^key-cfd4006d757b69e18580339e3c934677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-cfd4006d757b69e18580339e3c934677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Penalty Notices
 
@@ -767,14 +767,14 @@ For the purposes of compliance with the requirements set out in these Regulation
 
 ### 25. Revocations
 
-(1)[^key-53572f3ead402bd0796ceff00efe8ae5] The following are revoked—
+(1)[^c-53572f3ead402bd0796ceff00efe8ae5] The following are revoked—
 
 - (a) the 2010 Regulations,
 - (b) the Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2011 [^c22244921],
 - (c) regulation 11 of the Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 [^c22244931], and
 - (d) the Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 [^c22244941].
 
-(2)[^key-85b9d98e3b9a46f26176640c0fed7496] Despite the revocation in paragraph (1)(a), the definitions of “nursing care” and “personal care” in regulation 2 of the 2010 Regulations (interpretation) are to continue to have effect so far as necessary for the purposes of section 73 of the Care Act 2014 (Human Rights Act 1998: provision of regulated care or support etc a public function).
+(2)[^c-85b9d98e3b9a46f26176640c0fed7496] Despite the revocation in paragraph (1)(a), the definitions of “nursing care” and “personal care” in regulation 2 of the 2010 Regulations (interpretation) are to continue to have effect so far as necessary for the purposes of section 73 of the Care Act 2014 (Human Rights Act 1998: provision of regulated care or support etc a public function).
 
 ### 26. Transitional and transitory provision
 
@@ -783,11 +783,11 @@ For the purposes of compliance with the requirements set out in these Regulation
 - (a) was the subject of a warning notice given by the Commission in accordance with regulation 27(2)(a) of the 2010 Regulations (offences), and
 - (b) occurred during the period ending with the time specified in that notice within which the registered person must take action to secure compliance in accordance with section 29(2)(c)(ii) of the Act.
 
-(2)[^key-da67c85ecc9db232473725e9981b2691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-da67c85ecc9db232473725e9981b2691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 27. Review
 
-(1) Before the end of each review period[^key-a85c5157387ae9bbc09d16d3c2853037], the Secretary of State must—
+(1) Before the end of each review period[^c-a85c5157387ae9bbc09d16d3c2853037], the Secretary of State must—
 
 - (a) carry out a review of these Regulations,
 - (b) set out the conclusions of the review in a report, and
@@ -799,7 +799,7 @@ For the purposes of compliance with the requirements set out in these Regulation
 - (b) assess the extent to which those objectives are achieved, and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(3)[^key-f7da7d5c8247caf53313b272a63906f9] Subject to paragraph (4), in this regulation, “**review period**” means—
+(3)[^c-f7da7d5c8247caf53313b272a63906f9] Subject to paragraph (4), in this regulation, “**review period**” means—
 
 - (a) the period beginning on 13th July 2023 and ending five years after that date;
 - (b) each subsequent period of five years beginning on the day after the date on which the immediately preceding review period came to an end.
@@ -871,8 +871,8 @@ The provision of residential accommodation for a person together with treatment 
 - (c) diagnostic and screening procedures,
 - (d) services in slimming clinics,
 - (e) the practice of alternative and complementary medicine, with the exception of the practice of osteopathy or chiropractic,
-- (f) the provision of treatment in a sports ground or gymnasium (including associated premises) where it is provided for the sole benefit of persons taking part in, or attending, sporting activities and events, *(affected by repeal, see note)*[^key-a23eaa6b05027091f873f5614d94cae3]
-- (g) the provision of treatment (not being first aid for the purposes of paragraph 9 of Schedule 2) under temporary arrangements to deliver health care to those taking part in, or attending, sporting or cultural events, *(affected by repeal, see note)*[^key-867988251dc4f53194fb3febcaf4bfe1]
+- (f) the provision of treatment in a sports ground or gymnasium (including associated premises) where it is provided for the sole benefit of persons taking part in, or attending, sporting activities and events, *(affected by repeal, see note)*[^c-a23eaa6b05027091f873f5614d94cae3]
+- (g) the provision of treatment (not being first aid for the purposes of paragraph 9 of Schedule 2) under temporary arrangements to deliver health care to those taking part in, or attending, sporting or cultural events, *(affected by repeal, see note)*[^c-867988251dc4f53194fb3febcaf4bfe1]
 - (h) the provision of hyperbaric therapy, being the administration of oxygen (whether or not combined with one or more other gases) to a person who is in a sealed chamber which is gradually pressurised with compressed air, where the primary use of that chamber is—
   - (i) pursuant to regulation 6(3)(b) of the Diving at Work Regulations 1997 [^c22244961] or regulation 8 or 12 of the Work in Compressed Air Regulations 1996 [^c22244971], or
   - (ii) otherwise for the treatment of workers in connection with the work which they perform, and
@@ -893,14 +893,14 @@ The provision of residential accommodation for a person together with treatment 
   - (x) a biomedical scientist,
   - (xi) a clinical scientist,
   - (xii) an operating department practitioner,
-  - (xiii) a paramedic, [^key-55d69fae7f1a95d7823704881225a46e]...
-  - (xiv) a radiographer; or[^key-cb2b769fde2d0b795455ecd9688a049a]
+  - (xiii) a paramedic, [^c-55d69fae7f1a95d7823704881225a46e]...
+  - (xiv) a radiographer; or[^c-cb2b769fde2d0b795455ecd9688a049a]
   - (xv) an associate
 - (b) “biomedical scientist”, “clinical scientist”, “operating department practitioner”, “paramedic” and “**radiographer**” means persons registered as such with the Health and Care Professions Council pursuant to article 5 of the 2001 Order;
 - (c) “**dental practitioner**” means a dentist registered as such with the General Dental Council pursuant to section 14 of the Dentists Act 1984 [^c22244991];
 - (d) “dental hygienist”, “dental therapist”, “dental nurse”, “dental technician” and “**orthodontic therapist**” means persons registered as such with the General Dental Council in the dental care professionals register;
 - (e) “**mental disorder**” means any disorder or disability of the mind, including dependence on alcohol or drugs;
-- (f) “**midwife**” means a registered midwife ;[^key-7a91aa7d3661c1629ff781209359ccb2]
+- (f) “**midwife**” means a registered midwife ;[^c-7a91aa7d3661c1629ff781209359ccb2]
 - (g) “**associate**” means a person registered under the Anaesthesia Associates and Physician Associates Order 2024.
 
 ### 5. Assessment or medical treatment for persons detained under the 1983 Act
@@ -1033,7 +1033,7 @@ The provision of residential accommodation for a person together with treatment 
 
 (2) Medical advice in cases where immediate action or attention is needed, or triage provided, over the telephone or by electronic mail by a body established for that purpose.
 
-(3)[^key-2808b829bbb57c2ef68950711139c73a] Transport services which are provided within the confines of the site or venue being used for an activity or event mentioned in paragraph 4(3)(f) or (g) are excepted from sub-paragraph (1). *(affected by repeal, see note)*[^key-2808b829bbb57c2ef68950711139c73a]
+(3)[^c-2808b829bbb57c2ef68950711139c73a] Transport services which are provided within the confines of the site or venue being used for an activity or event mentioned in paragraph 4(3)(f) or (g) are excepted from sub-paragraph (1). *(affected by repeal, see note)*[^c-2808b829bbb57c2ef68950711139c73a]
 
 (3) Transport services are excepted from sub-paragraph (1) if they are provided within the confines of a site or venue being used for—
 
@@ -1042,7 +1042,7 @@ The provision of residential accommodation for a person together with treatment 
 
 (4) The provision of an air ambulance is excepted from sub-paragraph (1) where—
 
-- (a) the aircraft is registered with the Civil Aviation Authority pursuant to article 27 (application for the registration of an aircraft) of the Air Navigation Order 2016[^key-0bb47785b66a89f1b23bcb943b15d879], and
+- (a) the aircraft is registered with the Civil Aviation Authority pursuant to article 27 (application for the registration of an aircraft) of the Air Navigation Order 2016[^c-0bb47785b66a89f1b23bcb943b15d879], and
 - (b) the person providing the air ambulance does not provide treatment to a patient.
 
 (5) For the purposes of this paragraph—
@@ -1061,7 +1061,7 @@ The provision of residential accommodation for a person together with treatment 
   - (ii) otherwise than in pursuance of the 2006 Act, and
   - (iii) who provides such services only to service users in their own homes;
 - (b) the provision of advice, information and support in relation to pregnancy, childbirth or the acquisition of parenting skills, where provided by a body whose primary purpose or function is not the provision of health care (other than that advice, information and support);
-- (c) services provided under arrangements relating to the care of pregnant women and women who are breast feeding made under Part 1 of the Care Act 2014 (care and support)[^key-36e1b02a6a663f33592a6044e9befaad].
+- (c) services provided under arrangements relating to the care of pregnant women and women who are breast feeding made under Part 1 of the Care Act 2014 (care and support)[^c-36e1b02a6a663f33592a6044e9befaad].
 
 ### 11. Termination of pregnancies
 
@@ -1164,7 +1164,7 @@ Regulation 3(4)
 
 **11.** Treatment provided in a school to the pupils of that school by a nurse who is engaged and directed by the school.
 
-**12.**[^key-618879cb1ba3aab1eb917bff67fcd6a1] Any activity which—
+**12.**[^c-618879cb1ba3aab1eb917bff67fcd6a1] Any activity which—
 
 - (a) is carried on for the purpose of testing for the presence of severe acute respiratory syndrome coronavirus (“SARS-CoV-2”) in an individual, or for the presence of antibodies to SARS-CoV-2, or
 - (b) is carried on for the purpose of processing, analysing or reporting the results of a test for the presence of SARS-CoV-2 in an individual, or for the presence of antibodies to SARS-CoV-2.
@@ -1231,8 +1231,8 @@ Regulation 24
 | Regulation 25 of the Care Quality Commission (Registration) Regulations 2009 [^c22245111] | Contravention of, or failure to comply with, any of the provisions of regulations 12 and 14 to 20 of the Care Quality Commission (Registration) Regulations 2009 | £1,250 in the case of an offence committed by a service provider;<br>£625 in the case of an offence committed by a registered manager |
 | Regulation 22(1)(a) or (2) of these Regulations | Contravention of, or failure to comply with, requirements in regulations 11, 12, 13(1) to (4) and 14 | £4,000 in the case of an offence committed by a service provider;<br>£2,000 in the case of an offence committed by a registered manager |
 | Regulation 22(1)(b) or (c) of these Regulations | Contravention of, or failure to comply with, requirements in regulations 16(3) and 17(3) | £300 |
-| Regulation 22(1)(d) of these Regulations[^key-7c706646e2d6dadf699ce71ac429fe16] | Contravention of, or failure to comply with, requirements in regulation 20(2)(a) and (3) | £1,250 |
-| Regulation 22(1)(e) of these Regulations[^key-05c487590a8b379d2a0166f40acafe29] | Contravention of, or failure to comply with, requirements in regulation 20A | £100 |
+| Regulation 22(1)(d) of these Regulations[^c-7c706646e2d6dadf699ce71ac429fe16] | Contravention of, or failure to comply with, requirements in regulation 20(2)(a) and (3) | £1,250 |
+| Regulation 22(1)(e) of these Regulations[^c-05c487590a8b379d2a0166f40acafe29] | Contravention of, or failure to comply with, requirements in regulation 20A | £100 |
 | Section 10(1) of the Act | Carrying on a regulated activity without being registered | £4,000 |
 | Section 33 of the Act | Failure to comply with conditions | £4,000 in the case of an offence committed by a service provider;<br>£2,000 in the case of an offence committed by a registered manager |
 | Section 34(1) of the Act | Carrying on a regulated activity whilst registration is suspended | £4,000 |
@@ -1286,9 +1286,9 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244711]: Marginal citation: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14). Section 20 of the Health and Social Care Act 2008 (“**the 2008 Act**”) was amended by section 81 of the [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23). Section 161(3) of the 2008 Act was amended by section 294(4) of the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-2e5595db4be0bf2daf297589d41e8d58]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2936) modified (temp.) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 181(7)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/181/7/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2e5595db4be0bf2daf297589d41e8d58]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2936) modified (temp.) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 181(7)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/181/7/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-afbf65ee4c78ef98110d1fe7d45b3dad]: Textual amendment: [Reg. 1(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/6) omitted (30.3.2025) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2025 (S.I. 2025/232)](https://www.legislation.gov.uk/uksi/2025/232), [regs. 1](https://www.legislation.gov.uk/uksi/2025/232/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/232/regulation/3/2)
+[^c-afbf65ee4c78ef98110d1fe7d45b3dad]: Textual amendment: [Reg. 1(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/6) omitted (30.3.2025) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2025 (S.I. 2025/232)](https://www.legislation.gov.uk/uksi/2025/232), [regs. 1](https://www.legislation.gov.uk/uksi/2025/232/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/232/regulation/3/2)
 
 [^c22244721]: Marginal citation: [2010 c. 32](https://www.legislation.gov.uk/ukpga/2010/32). Section 1B was inserted by section 53(7) of the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
@@ -1298,7 +1298,7 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244751]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-d47af1b8975339a02064d5a7f47e079b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 34(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/34/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-d47af1b8975339a02064d5a7f47e079b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 34(a)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/34/a); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c22244771]: Marginal citation: [S.I. 2010/781](https://www.legislation.gov.uk/uksi/2010/781), as amended by [S.I. 2011/2711](https://www.legislation.gov.uk/uksi/2011/2711), 2012/921, 2012/979, 2012/1479, 2012/1513, 2013/235 and 2013/472.
 
@@ -1308,15 +1308,15 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244801]: Marginal citation: [1999 c. 21](https://www.legislation.gov.uk/ukpga/1999/21). Relevant amendments were made by the Health and Social Care Act 2008, sections 111 and 116, paragraph 1 of Schedule 8 and Part 2 of Schedule 15, the Health and Social Care Act 2012, sections 209 and 213, and [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253) and 2010/231.
 
-[^key-10aaa42978967ce993b84fef385f93ba]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [124(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/124/2/a)
+[^c-10aaa42978967ce993b84fef385f93ba]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [124(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/124/2/a)
 
-[^key-d5f1db55f75d4e7e979d36fee429308f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [124(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/124/2/b)
+[^c-d5f1db55f75d4e7e979d36fee429308f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [124(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/124/2/b)
 
 [^c22244811]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). Relevant amendments were made by the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [section 125](https://www.legislation.gov.uk/ukpga/2009/22/section/125) and paragraphs 1 and 13(1) and (2) of Schedule 8.
 
-[^key-555f7a0d75499e74e2d75fc54646527f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/2/a)
+[^c-555f7a0d75499e74e2d75fc54646527f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/2/a)
 
-[^key-c435343cb2216029417e40e645a8753d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/2/b)
+[^c-c435343cb2216029417e40e645a8753d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/2/b)
 
 [^c22244821]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -1324,101 +1324,101 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244841]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Relevant amendments were made by the [Education Act 1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), [sections 51](https://www.legislation.gov.uk/ukpga/1997/44/section/51) and 57, paragraph 10 of Schedule 7 and Schedule 8, the [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [section 215](https://www.legislation.gov.uk/ukpga/2002/32/section/215) and Part 3 of Schedule 22, the [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [section 95](https://www.legislation.gov.uk/ukpga/2006/21/section/95), and the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [section 54](https://www.legislation.gov.uk/ukpga/2011/21/section/54) and paragraph 9 of Schedule 13, and [S.I. 2010/1080](https://www.legislation.gov.uk/uksi/2010/1080).
 
-[^key-b6ab473f4239fe1777f9c3e14cd6f16e]: Textual amendment: Words in reg. 2(1) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/64/regulation/4)
+[^c-b6ab473f4239fe1777f9c3e14cd6f16e]: Textual amendment: Words in reg. 2(1) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/64/regulation/4)
 
-[^key-3f2c2b36f31f77505f2f325172eca548]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 34(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/34/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-3f2c2b36f31f77505f2f325172eca548]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/2/1) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 34(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/34/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
 [^c22244851]: Marginal citation: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47). Relevant amendments were made by section 65(2) of the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9).
 
 [^c22244861]: Marginal citation: [S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93). Relevant amendments were made by [S.I. 2011/1941](https://www.legislation.gov.uk/uksi/2011/1941).
 
-[^key-b534688b53be012afe43adefc5fe37e1]: Textual amendment: Word in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/4/5) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/5/a)
+[^c-b534688b53be012afe43adefc5fe37e1]: Textual amendment: Word in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/4/5) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/5/a)
 
-[^key-d4ac0ee1cb9d951725babb4c2b0a84da]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/4/6) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/5/a)
+[^c-d4ac0ee1cb9d951725babb4c2b0a84da]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/4/6) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/5/a)
 
-[^key-4c52438538a69dd1e0cee51c13b5482b]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/4/7) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/5/b)
+[^c-4c52438538a69dd1e0cee51c13b5482b]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/4/7) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/5/b)
 
-[^key-c2f24fc290a4f8d942b22a6da67d790c]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/5/1) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/6/2)
+[^c-c2f24fc290a4f8d942b22a6da67d790c]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/5/1) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/6/2)
 
-[^key-36fac04f6848160eda6d9db20811573c]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/5/2) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/6/3/a)
+[^c-36fac04f6848160eda6d9db20811573c]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/5/2) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/6/3/a)
 
-[^key-5def0b41f17f2f4942a9456ec7ee4af7]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/5/2/b) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/6/3/b)
+[^c-5def0b41f17f2f4942a9456ec7ee4af7]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/5/2/b) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/6/3/b)
 
-[^key-011a7cab3e3a52377f528998561f2b6f]: Textual amendment: Word in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/6/3/b) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/7/a)
+[^c-011a7cab3e3a52377f528998561f2b6f]: Textual amendment: Word in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/6/3/b) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/7/a)
 
-[^key-4efdd19cbe0d1e41e74096c64d56c199]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/6/4) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/7/b)
+[^c-4efdd19cbe0d1e41e74096c64d56c199]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/6/4) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/7/b)
 
-[^key-80c0474cb21756fdffc68962bca485b3]: Textual amendment: Word in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/7/2/b) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/8/a)
+[^c-80c0474cb21756fdffc68962bca485b3]: Textual amendment: Word in [reg. 7(2)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/7/2/b) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/8/a)
 
-[^key-0a9bdddd1c8e40309ee03c328a3fd5aa]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/7/3) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/8/b)
+[^c-0a9bdddd1c8e40309ee03c328a3fd5aa]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/7/3) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/8/b)
 
-[^key-37774507476a3ddbfb734d1b644bfa14]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2014/2936/regulation/8) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/64/regulation/9)
+[^c-37774507476a3ddbfb734d1b644bfa14]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2014/2936/regulation/8) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/64/regulation/9)
 
-[^key-3051eefd51e76365416b58bfce5070f0]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2014/2936/regulation/9A) inserted (6.4.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2023 (S.I. 2023/1402)](https://www.legislation.gov.uk/uksi/2023/1402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1402/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1402/regulation/2/2)
+[^c-3051eefd51e76365416b58bfce5070f0]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2014/2936/regulation/9A) inserted (6.4.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2023 (S.I. 2023/1402)](https://www.legislation.gov.uk/uksi/2023/1402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1402/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1402/regulation/2/2)
 
-[^key-06fa4e51470e37f54eb1c82c9a22184a]: Textual amendment: [Reg. 12(3)-(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/12/3) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/3)
+[^c-06fa4e51470e37f54eb1c82c9a22184a]: Textual amendment: [Reg. 12(3)-(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/12/3) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/3)
 
 [^c22244871]: Marginal citation: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-db91cfb89fb91f50aa0eff025337b2d1]: Textual amendment: Word in [reg. 17(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/i) substituted (11.11.2021) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/891)](https://www.legislation.gov.uk/uksi/2021/891), [regs. 1](https://www.legislation.gov.uk/uksi/2021/891/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/891/regulation/6/a)
+[^c-db91cfb89fb91f50aa0eff025337b2d1]: Textual amendment: Word in [reg. 17(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/i) substituted (11.11.2021) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/891)](https://www.legislation.gov.uk/uksi/2021/891), [regs. 1](https://www.legislation.gov.uk/uksi/2021/891/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/891/regulation/6/a)
 
-[^key-cd19ffe51124347e2be6f93488b6e784]: Textual amendment: Word in [reg. 17(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/i) inserted (15.3.2022) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/4/a)
+[^c-cd19ffe51124347e2be6f93488b6e784]: Textual amendment: Word in [reg. 17(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/i) inserted (15.3.2022) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/4/a)
 
-[^key-dc038bfa5ae212b9a9dd42c6ac7a7397]: Textual amendment: Words in [reg. 17(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/ii) substituted (11.11.2021) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/891)](https://www.legislation.gov.uk/uksi/2021/891), [regs. 1](https://www.legislation.gov.uk/uksi/2021/891/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/891/regulation/6/b)
+[^c-dc038bfa5ae212b9a9dd42c6ac7a7397]: Textual amendment: Words in [reg. 17(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/ii) substituted (11.11.2021) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/891)](https://www.legislation.gov.uk/uksi/2021/891), [regs. 1](https://www.legislation.gov.uk/uksi/2021/891/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/891/regulation/6/b)
 
-[^key-6bb9718f5d467d54019ef80d02c299ca]: Textual amendment: Word in [reg. 17(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/ii) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/4/b)
+[^c-6bb9718f5d467d54019ef80d02c299ca]: Textual amendment: Word in [reg. 17(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/ii) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/4/b)
 
-[^key-c3d2980b3df329871ecf41e06313e35e]: Textual amendment: [Reg. 17(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/iii) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/4/c)
+[^c-c3d2980b3df329871ecf41e06313e35e]: Textual amendment: [Reg. 17(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/17/2/d/iii) omitted (15.3.2022) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 3) Regulations 2022 (S.I. 2022/206)](https://www.legislation.gov.uk/uksi/2022/206), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/206/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2022/206/regulation/2/4/c)
 
-[^key-6422fbb5cdae15ce2f226bd5469a9838]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/19/3) substituted (15.1.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1404)](https://www.legislation.gov.uk/uksi/2023/1404), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/2/2/a)
+[^c-6422fbb5cdae15ce2f226bd5469a9838]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/19/3) substituted (15.1.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1404)](https://www.legislation.gov.uk/uksi/2023/1404), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/2/2/a)
 
-[^key-2d50d8f6ebd46c5e7da1f05e68a3e232]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/19/3A) inserted (15.1.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1404)](https://www.legislation.gov.uk/uksi/2023/1404), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/2/2/b)
+[^c-2d50d8f6ebd46c5e7da1f05e68a3e232]: Textual amendment: [Reg. 19(3A)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/19/3A) inserted (15.1.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1404)](https://www.legislation.gov.uk/uksi/2023/1404), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/2/2/b)
 
-[^key-0fac383b85b6a7de929e1fc6bb7544d0]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/19/7) inserted (15.1.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1404)](https://www.legislation.gov.uk/uksi/2023/1404), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/2/2/c)
+[^c-0fac383b85b6a7de929e1fc6bb7544d0]: Textual amendment: [Reg. 19(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/19/7) inserted (15.1.2024) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1404)](https://www.legislation.gov.uk/uksi/2023/1404), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1404/regulation/2/2/c)
 
-[^key-63d32820d5881c85eb3cbb65c0b747d3]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/1) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/2)
+[^c-63d32820d5881c85eb3cbb65c0b747d3]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/1) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/2)
 
-[^key-8aa04ece90ade8611c933a3cb5902396]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/2) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/a)
+[^c-8aa04ece90ade8611c933a3cb5902396]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/2) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/a)
 
-[^key-a6a5b920c0a04b1728ff52108d38dd60]: Textual amendment: Words in [reg. 20(3)(a)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/a) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
+[^c-a6a5b920c0a04b1728ff52108d38dd60]: Textual amendment: Words in [reg. 20(3)(a)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/a) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
 
-[^key-bce51ea76521cd047e5be4ea79978c2d]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/b) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
+[^c-bce51ea76521cd047e5be4ea79978c2d]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/b) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
 
-[^key-d65149f323b88ea4061dfde682b046c0]: Textual amendment: Words in [reg. 20(3)(c)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/c) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
+[^c-d65149f323b88ea4061dfde682b046c0]: Textual amendment: Words in [reg. 20(3)(c)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/c) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
 
-[^key-1936e89486bc1bc5365225c5fc4c9b2b]: Textual amendment: Words in [reg. 20(3)(e)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/e) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
+[^c-1936e89486bc1bc5365225c5fc4c9b2b]: Textual amendment: Words in [reg. 20(3)(e)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/3/e) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/b)
 
-[^key-3ba2ad5fbe2402fdf409f27fa849df99]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/5) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/c)
+[^c-3ba2ad5fbe2402fdf409f27fa849df99]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/5) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/c)
 
-[^key-da6f8fbf5242c13075ab273104e9c28a]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/6) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(d)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/d)
+[^c-da6f8fbf5242c13075ab273104e9c28a]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/6) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(3)(d)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/3/d)
 
-[^key-876cd66bc95ca13930b55d692e9b3a6f]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/7) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/4/a)
+[^c-876cd66bc95ca13930b55d692e9b3a6f]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/7) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/4/a)
 
-[^key-8afc93b9cf24b20a772b080f65f2e627]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/7) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/4/b)
+[^c-8afc93b9cf24b20a772b080f65f2e627]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/7) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/4/b)
 
-[^key-77f5435e8349c9b624c15d7a1feff189]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/7) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(4)(c)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/4/c)
+[^c-77f5435e8349c9b624c15d7a1feff189]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/7) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(4)(c)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/4/c)
 
-[^key-8074735693f9f837ad5b0ceb824140ba]: Textual amendment: [Reg. 20(8)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/8)[(9)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/9) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/5)
+[^c-8074735693f9f837ad5b0ceb824140ba]: Textual amendment: [Reg. 20(8)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/8)[(9)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20/9) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2015/64/regulation/10/5)
 
-[^key-848a66492cec7d2f8cfa740dfb6613f2]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20A) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/64/regulation/11)
+[^c-848a66492cec7d2f8cfa740dfb6613f2]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/2014/2936/regulation/20A) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/64/regulation/11)
 
-[^key-8b8cf3e9cc6b1eff3e4d6b34a2689e39]: Textual amendment: Word in [reg. 22(1)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/1/b) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/2/a)
+[^c-8b8cf3e9cc6b1eff3e4d6b34a2689e39]: Textual amendment: Word in [reg. 22(1)(b)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/1/b) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/2/a)
 
-[^key-63e2ae8adf8f12d51e6fb3ca1af6a848]: Textual amendment: [Reg. 22(1)(d)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/1/d)[(e)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/1/e) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/2/b)
+[^c-63e2ae8adf8f12d51e6fb3ca1af6a848]: Textual amendment: [Reg. 22(1)(d)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/1/d)[(e)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/1/e) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/2/b)
 
-[^key-2e88be68f137cae19993fbaacba22ff6]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/3) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/3)
+[^c-2e88be68f137cae19993fbaacba22ff6]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/3) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/3)
 
-[^key-9c2cf5096f747003d34db3a2ef96eac5]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/4) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/4)
+[^c-9c2cf5096f747003d34db3a2ef96eac5]: Textual amendment: Words in [reg. 22(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/22/4) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2015/64/regulation/12/4)
 
-[^key-a8934b48cd646a2b15f61cba65a18e64]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/1)[(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/2)[(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/3) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 85(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/85/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-a8934b48cd646a2b15f61cba65a18e64]: Textual amendment: [Reg. 23(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/1)[(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/2)[(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/3) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 85(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/85/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-c78038eebe1a7f4146832cbd311e0794]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 85(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/85/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-c78038eebe1a7f4146832cbd311e0794]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/4) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 85(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/85/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-69ad820985add678134f0b66469ad4ce]: Textual amendment: Words in [reg. 23(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/5) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/13/2)
+[^c-69ad820985add678134f0b66469ad4ce]: Textual amendment: Words in [reg. 23(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/5) substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/13/2)
 
-[^key-e40c0ce9b6f455db0e2653edf8f80e6f]: Textual amendment: [Reg. 23(5A)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/5A) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/13/3)
+[^c-e40c0ce9b6f455db0e2653edf8f80e6f]: Textual amendment: [Reg. 23(5A)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/5A) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/13/3)
 
-[^key-cfd4006d757b69e18580339e3c934677]: Textual amendment: [Reg. 23(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/6) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2015/64/regulation/13/4)
+[^c-cfd4006d757b69e18580339e3c934677]: Textual amendment: [Reg. 23(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/23/6) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2015/64/regulation/13/4)
 
 [^c22244891]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
@@ -1426,7 +1426,7 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244911]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). *See* section 1 and paragraph 1 of Schedule 1.
 
-[^key-53572f3ead402bd0796ceff00efe8ae5]: Textual amendment: Reg. 25 renumbered as reg. 25(1) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/14/2)
+[^c-53572f3ead402bd0796ceff00efe8ae5]: Textual amendment: Reg. 25 renumbered as reg. 25(1) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/14/2)
 
 [^c22244921]: Marginal citation: [S.I. 2011/2711](https://www.legislation.gov.uk/uksi/2011/2711).
 
@@ -1434,19 +1434,19 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244941]: Marginal citation: [S.I. 2012/1513](https://www.legislation.gov.uk/uksi/2012/1513).
 
-[^key-85b9d98e3b9a46f26176640c0fed7496]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/25/2) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/14/3)
+[^c-85b9d98e3b9a46f26176640c0fed7496]: Textual amendment: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/25/2) inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/14/3)
 
-[^key-da67c85ecc9db232473725e9981b2691]: Textual amendment: Reg. 26(2) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [15](https://www.legislation.gov.uk/uksi/2015/64/regulation/15)
+[^c-da67c85ecc9db232473725e9981b2691]: Textual amendment: Reg. 26(2) omitted (1.4.2015) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [15](https://www.legislation.gov.uk/uksi/2015/64/regulation/15)
 
-[^key-a85c5157387ae9bbc09d16d3c2853037]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/27/1) substituted (30.3.2025) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2025 (S.I. 2025/232)](https://www.legislation.gov.uk/uksi/2025/232), [regs. 1](https://www.legislation.gov.uk/uksi/2025/232/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/232/regulation/3/3/a)
+[^c-a85c5157387ae9bbc09d16d3c2853037]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/27/1) substituted (30.3.2025) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2025 (S.I. 2025/232)](https://www.legislation.gov.uk/uksi/2025/232), [regs. 1](https://www.legislation.gov.uk/uksi/2025/232/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2025/232/regulation/3/3/a)
 
-[^key-f7da7d5c8247caf53313b272a63906f9]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/27/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/27/4) inserted (30.3.2025) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2025 (S.I. 2025/232)](https://www.legislation.gov.uk/uksi/2025/232), [regs. 1](https://www.legislation.gov.uk/uksi/2025/232/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/232/regulation/3/3/b)
+[^c-f7da7d5c8247caf53313b272a63906f9]: Textual amendment: [Reg. 27(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/27/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/27/4) inserted (30.3.2025) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2025 (S.I. 2025/232)](https://www.legislation.gov.uk/uksi/2025/232), [regs. 1](https://www.legislation.gov.uk/uksi/2025/232/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2025/232/regulation/3/3/b)
 
 [^c22244951]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-a23eaa6b05027091f873f5614d94cae3]: Textual amendment: [Sch. 1 para. 4(3)(f)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/3/f) omitted (7.9.2026 for specified purposes) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026 (S.I. 2026/495)](https://www.legislation.gov.uk/uksi/2026/495), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/495/regulation/2/2)
+[^c-a23eaa6b05027091f873f5614d94cae3]: Textual amendment: [Sch. 1 para. 4(3)(f)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/3/f) omitted (7.9.2026 for specified purposes) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026 (S.I. 2026/495)](https://www.legislation.gov.uk/uksi/2026/495), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/495/regulation/2/2)
 
-[^key-867988251dc4f53194fb3febcaf4bfe1]: Textual amendment: [Sch. 1 para. 4(3)(g)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/3/g) omitted (7.9.2026 for specified purposes) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026 (S.I. 2026/495)](https://www.legislation.gov.uk/uksi/2026/495), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/495/regulation/2/2)
+[^c-867988251dc4f53194fb3febcaf4bfe1]: Textual amendment: [Sch. 1 para. 4(3)(g)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/3/g) omitted (7.9.2026 for specified purposes) by virtue of [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026 (S.I. 2026/495)](https://www.legislation.gov.uk/uksi/2026/495), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2026/495/regulation/2/2)
 
 [^c22244961]: Marginal citation: [S.I. 1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
 
@@ -1454,13 +1454,13 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22244981]: Marginal citation: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Relevant amendments were made by: the [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [sections 11](https://www.legislation.gov.uk/ukpga/2008/22/section/11) and 66, Paragraphs 1 and 2 of Schedule 2, and Schedule 8, Part 1; and [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522).
 
-[^key-55d69fae7f1a95d7823704881225a46e]: Textual amendment: Word in [Sch. 1 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/4/a) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 23(a)(i)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23/a/i)
+[^c-55d69fae7f1a95d7823704881225a46e]: Textual amendment: Word in [Sch. 1 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/4/a) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 23(a)(i)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23/a/i)
 
-[^key-cb2b769fde2d0b795455ecd9688a049a]: Textual amendment: [Sch. 1 para. 4(4)(a)(xv)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/4/a/xv) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 23(a)(ii)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23/a/ii)
+[^c-cb2b769fde2d0b795455ecd9688a049a]: Textual amendment: [Sch. 1 para. 4(4)(a)(xv)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/4/a/xv) and word inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 23(a)(ii)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23/a/ii)
 
 [^c22244991]: Marginal citation: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24). Section 14 was substituted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-7a91aa7d3661c1629ff781209359ccb2]: Textual amendment: [Sch. 1 para. 4(4)(g)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/4/g) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 23(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23/b)
+[^c-7a91aa7d3661c1629ff781209359ccb2]: Textual amendment: [Sch. 1 para. 4(4)(g)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/4/4/g) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 23(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/23/b)
 
 [^c22245001]: Marginal citation: [Section 17E](https://www.legislation.gov.uk/uksi/2014/2936/section/17E) was inserted into the [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20) by section 32(1) and (2) of the [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12).
 
@@ -1468,11 +1468,11 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22245021]: Marginal citation: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17). Relevant amendments were made by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and 2008/1774.
 
-[^key-2808b829bbb57c2ef68950711139c73a]: Textual amendment: [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/9/3) substituted (7.9.2026 for specified purposes) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026 (S.I. 2026/495)](https://www.legislation.gov.uk/uksi/2026/495), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/2/3)
+[^c-2808b829bbb57c2ef68950711139c73a]: Textual amendment: [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/9/3) substituted (7.9.2026 for specified purposes) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2026 (S.I. 2026/495)](https://www.legislation.gov.uk/uksi/2026/495), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2026/495/regulation/2/3)
 
-[^key-0bb47785b66a89f1b23bcb943b15d879]: Textual amendment: Words in [Sch. 1 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/9/4/a) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/2/paragraph/7) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-0bb47785b66a89f1b23bcb943b15d879]: Textual amendment: Words in [Sch. 1 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/9/4/a) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/part/2/paragraph/7) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-36e1b02a6a663f33592a6044e9befaad]: Textual amendment: Words in [Sch. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/10/2/c) substituted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/48) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+[^c-36e1b02a6a663f33592a6044e9befaad]: Textual amendment: Words in [Sch. 1 para. 10(2)(c)](https://www.legislation.gov.uk/uksi/2014/2936/schedule/1/paragraph/10/2/c) substituted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/48) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
 
 [^c22245041]: Marginal citation: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). *See* section 5 (registration authorities), as amended by the [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [section 139(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/139/1) and paragraphs 103 and 105 of Schedule 3, the Health and Social Care Act 2008, section 95 and paragraphs 1 and 6 of Schedule 5, and section 4(2)(b) of the [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23).
 
@@ -1482,7 +1482,7 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22245071]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67). Section 74 was amended by the [Statute Law (Repeals) Act 1993 (c. 50)](https://www.legislation.gov.uk/ukpga/1993/50) and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-618879cb1ba3aab1eb917bff67fcd6a1]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2014/2936/schedule/2/paragraph/12) inserted (17.12.2020) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 2) Regulations 2020 (S.I. 2020/1550)](https://www.legislation.gov.uk/uksi/2020/1550), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1550/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1550/regulation/2)
+[^c-618879cb1ba3aab1eb917bff67fcd6a1]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2014/2936/schedule/2/paragraph/12) inserted (17.12.2020) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) (Coronavirus) (No. 2) Regulations 2020 (S.I. 2020/1550)](https://www.legislation.gov.uk/uksi/2020/1550), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1550/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1550/regulation/2)
 
 [^c22245081]: Marginal citation: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Sections 113A and 113B were inserted by section 163(2) of the [Serious Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by: the Safeguarding Vulnerable Groups Act 2006, section 63(1) and Schedule 9, Part 2, paragraph 14; the [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [section 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1) and paragraph 149 of Schedule 16; the [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [section 50](https://www.legislation.gov.uk/ukpga/2008/4/section/50); the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [sections 97(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/97/2) and 112(2) and Part 8 of Schedule 8; the Protection of Freedoms Act 2012, sections 79(2), 80(1), 82 and 115, paragraphs 35 to 37 and 135 of Schedule 9, and Parts 5 and 6 of Schedule 10; the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [section 15(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/15/3) and Schedule 8, Part 2, paragraphs 55 and 60; and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203), 2010/1146, 2012/3006 and 2013/1200.
 
@@ -1492,6 +1492,6 @@ A full impact assessment of the costs and benefits of this instrument is availab
 
 [^c22245111]: Marginal citation: [S.I. 2009/3112](https://www.legislation.gov.uk/uksi/2009/3112), as amended by [S.I. 2010/49](https://www.legislation.gov.uk/uksi/2010/49), 2012/921, 2012/1641 and 2013/235.
 
-[^key-7c706646e2d6dadf699ce71ac429fe16]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2936/schedule/5) Table substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/17/2)
+[^c-7c706646e2d6dadf699ce71ac429fe16]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2936/schedule/5) Table substituted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2015/64/regulation/17/2)
 
-[^key-05c487590a8b379d2a0166f40acafe29]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2936/schedule/5) Table inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/17/3)
+[^c-05c487590a8b379d2a0166f40acafe29]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/2936/schedule/5) Table inserted (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2015 (S.I. 2015/64)](https://www.legislation.gov.uk/uksi/2015/64), [regs. 1](https://www.legislation.gov.uk/uksi/2015/64/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2015/64/regulation/17/3)

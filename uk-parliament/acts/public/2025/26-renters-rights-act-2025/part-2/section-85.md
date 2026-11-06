@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Other duties[^key-40a2776b62748e006362cb8112590970]
+## 85. Other duties[^c-40a2776b62748e006362cb8112590970]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40a2776b62748e006362cb8112590970]: Commencement: S. 85 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-40a2776b62748e006362cb8112590970]: Commencement: S. 85 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power of police, etc to dispose of seized psychoactive substances[^key-5a4a66789d9d1d5ecc0a4963512024b3]
+## 50. Power of police, etc to dispose of seized psychoactive substances[^c-5a4a66789d9d1d5ecc0a4963512024b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4a66789d9d1d5ecc0a4963512024b3]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/2/section/50) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-5a4a66789d9d1d5ecc0a4963512024b3]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/2/section/50) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

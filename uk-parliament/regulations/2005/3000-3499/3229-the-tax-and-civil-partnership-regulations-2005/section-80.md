@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80.[^key-b5947e8747262c332fad9d25641b00ea]
+## 80.[^c-b5947e8747262c332fad9d25641b00ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 591 (discretionary approval), in subsection (2) —
 
 ## Annotations
 
-[^key-b5947e8747262c332fad9d25641b00ea]: Commencement: Reg. 80 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b5947e8747262c332fad9d25641b00ea]: Commencement: Reg. 80 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

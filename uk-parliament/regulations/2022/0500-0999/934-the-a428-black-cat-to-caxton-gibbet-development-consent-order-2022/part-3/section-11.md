@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Application of the 1991 Act[^key-567224e11b7bc7f36ad446ca9906f26e]
+## 11. Application of the 1991 Act[^c-567224e11b7bc7f36ad446ca9906f26e]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - section 78A[^f00042] (contributions to costs of re-surfacing by undertaker); and
 - Schedule 3A[^f00043] (restriction on works following substantial street works).
 
-(4) The provisions of the 1991 Act mentioned in paragraph (5) (which, together with other provisions of that Act, apply in relation to the execution of street works) and any regulations made, or code of practice issued or approved, under those provisions apply (with the necessary modifications) in relation to any restriction on the use, alteration or diversion of a street of a temporary nature by the undertaker under the powers conferred by article 16 (temporary alteration, diversion,[^key-4c3eac704ccc6d56bae32b29a6374ac1] prohibition and restriction of use of streets) whether or not the restriction on the use, alteration or diversion constitutes street works within the meaning of that Act.
+(4) The provisions of the 1991 Act mentioned in paragraph (5) (which, together with other provisions of that Act, apply in relation to the execution of street works) and any regulations made, or code of practice issued or approved, under those provisions apply (with the necessary modifications) in relation to any restriction on the use, alteration or diversion of a street of a temporary nature by the undertaker under the powers conferred by article 16 (temporary alteration, diversion,[^c-4c3eac704ccc6d56bae32b29a6374ac1] prohibition and restriction of use of streets) whether or not the restriction on the use, alteration or diversion constitutes street works within the meaning of that Act.
 
 (5) The provisions of the 1991 Act[^f00044] referred to in paragraph (4) are—
 
@@ -66,7 +66,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-567224e11b7bc7f36ad446ca9906f26e]: Commencement: Art. 11 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-567224e11b7bc7f36ad446ca9906f26e]: Commencement: Art. 11 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00033]: Footnote: Section 64 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the 1991 Act.
 
@@ -90,7 +90,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 [^f00043]: Footnote: Schedule 3A was inserted by section 52(2) of, and Schedule 4 to, the Traffic Management Act 2004.
 
-[^key-4c3eac704ccc6d56bae32b29a6374ac1]: Textual amendment: Word in [art. 11(4)](https://www.legislation.gov.uk/uksi/2022/934/article/11/4) inserted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-4c3eac704ccc6d56bae32b29a6374ac1]: Textual amendment: Word in [art. 11(4)](https://www.legislation.gov.uk/uksi/2022/934/article/11/4) inserted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
 
 [^f00044]: Footnote: Sections 54, 55, 57, 60, 68 and 69 were amended by section 40(1) and (2) of, and Schedule 1 to, the Traffic Management Act 2004.
 

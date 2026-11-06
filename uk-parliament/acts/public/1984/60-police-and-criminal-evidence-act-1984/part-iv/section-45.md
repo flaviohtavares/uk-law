@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In sections 43, 44 and 45ZB[^key-a85246d079c606d8edb5fa17398e8bf0] of this Act “**magistrates’ court**” means a court consisting of two or more justices of the peace sitting otherwise than in open court.
+(1) In sections 43, 44 and 45ZB[^c-a85246d079c606d8edb5fa17398e8bf0] of this Act “**magistrates’ court**” means a court consisting of two or more justices of the peace sitting otherwise than in open court.
 
 (2) Any reference in this Part of this Act to a period of time or a time of day is to be treated as approximate only.
 
 ## Annotations
 
-[^key-a85246d079c606d8edb5fa17398e8bf0]: Textual amendment: Words in s. 45(1) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/3), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)
+[^c-a85246d079c606d8edb5fa17398e8bf0]: Textual amendment: Words in s. 45(1) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 74(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/74/3), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/23)

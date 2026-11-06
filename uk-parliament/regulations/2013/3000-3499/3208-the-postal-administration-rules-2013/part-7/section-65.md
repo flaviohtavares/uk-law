@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Notice of proposed distribution[^key-6b08f7cc1a07c1ff18149ee4655ddce4]
+## 65. Notice of proposed distribution[^c-6b08f7cc1a07c1ff18149ee4655ddce4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b08f7cc1a07c1ff18149ee4655ddce4]: Commencement: [Rule 65](https://www.legislation.gov.uk/uksi/2013/3208/rule/65) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6b08f7cc1a07c1ff18149ee4655ddce4]: Commencement: [Rule 65](https://www.legislation.gov.uk/uksi/2013/3208/rule/65) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

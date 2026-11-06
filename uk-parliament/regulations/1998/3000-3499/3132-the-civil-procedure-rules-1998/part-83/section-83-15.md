@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83.15. Application for warrant of control or warrant of delivery[^key-47e86d3c6fd2cdb1267b2c84766853be]
+## 83.15. Application for warrant of control or warrant of delivery[^c-47e86d3c6fd2cdb1267b2c84766853be]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
   - (i) the County Court hearing centre where the judgment or order which it is sought to enforce was made; or
   - (ii) the County Court hearing centre to which the proceedings have since been transferred.
 
-(5) Subject to paragraph (4)(b)(ii), a request for a warrant of control to enforce a judgment or order made at the Civil National Business Centre[^key-ea4f407e1bff76936307dc1ef0ebfcc4] must be made to that office.
+(5) Subject to paragraph (4)(b)(ii), a request for a warrant of control to enforce a judgment or order made at the Civil National Business Centre[^c-ea4f407e1bff76936307dc1ef0ebfcc4] must be made to that office.
 
 (6) In the request, the creditor must certify—
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-47e86d3c6fd2cdb1267b2c84766853be]: Textual amendment: Pt. 83 inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/407/schedule) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
 
-[^key-ea4f407e1bff76936307dc1ef0ebfcc4]: Textual amendment: Words in [rule 83.15(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.15/5) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [32](https://www.legislation.gov.uk/uksi/2023/788/rule/32)
+[^c-ea4f407e1bff76936307dc1ef0ebfcc4]: Textual amendment: Words in [rule 83.15(5)](https://www.legislation.gov.uk/uksi/1998/3132/rule/83.15/5) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [32](https://www.legislation.gov.uk/uksi/2023/788/rule/32)

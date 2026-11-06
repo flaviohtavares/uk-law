@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Disregard of payments treated as not relevant income[^key-a73695ec3137bf3a71de397cc10f23f2]
+## 119. Disregard of payments treated as not relevant income[^c-a73695ec3137bf3a71de397cc10f23f2]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ Where the Department treats any payment as not being relevant income for the pur
 
 ## Annotations
 
-[^key-a73695ec3137bf3a71de397cc10f23f2]: Commencement: Reg. 119 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-a73695ec3137bf3a71de397cc10f23f2]: Commencement: Reg. 119 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00107]: Footnote: Section 72A was inserted by Article 18 of the Child Support (Northern Ireland) Order 1995 ([S.I. 1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))

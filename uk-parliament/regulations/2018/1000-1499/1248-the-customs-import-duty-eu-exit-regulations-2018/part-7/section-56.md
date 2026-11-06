@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Applications for remission and repayment of duty[^key-a54a7afecdfb7f484c9bdd5d8a1d2d96][^key-302606d159bff3b39c5b1dbf0584ce62][^key-9887b5ec47b0e7ee20527f9cfeaa88dc][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 56. Applications for remission and repayment of duty[^c-a54a7afecdfb7f484c9bdd5d8a1d2d96][^c-302606d159bff3b39c5b1dbf0584ce62][^c-9887b5ec47b0e7ee20527f9cfeaa88dc][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,8 +41,8 @@ and HMRC must notify the applicant of that fact as soon as practicable after the
 
 ## Annotations
 
-[^key-a54a7afecdfb7f484c9bdd5d8a1d2d96]: Commencement: Reg. 56 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a54a7afecdfb7f484c9bdd5d8a1d2d96]: Commencement: Reg. 56 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9887b5ec47b0e7ee20527f9cfeaa88dc]: Modification: [Regs. 55-65](https://www.legislation.gov.uk/uksi/2018/1248/regulation/55) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))
+[^c-9887b5ec47b0e7ee20527f9cfeaa88dc]: Modification: [Regs. 55-65](https://www.legislation.gov.uk/uksi/2018/1248/regulation/55) applied (with modifications) (24.12.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 32A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32A) (as inserted by [The Customs (Miscellaneous Amendments) (No. 3) Regulations 2024 (S.I. 2024/1265)](https://www.legislation.gov.uk/uksi/2024/1265), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2024/1265/regulation/6))

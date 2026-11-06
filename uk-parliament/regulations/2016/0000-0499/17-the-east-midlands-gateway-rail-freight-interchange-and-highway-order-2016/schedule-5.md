@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-58e08d71df18ae6b5bd1009cae9ea36f]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-58e08d71df18ae6b5bd1009cae9ea36f]
 
 <table>
 <thead>
@@ -39,7 +39,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-8cd1252809762213166f5297a764d528]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE PERMANENTLY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-8cd1252809762213166f5297a764d528]
 
 <table>
 <thead>
@@ -51,7 +51,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 3 — NEW PUBLIC RIGHTS OF WAY TO BE CREATED[^key-8d9a274bcd76d1c47550c97c0360ce72]
+### PART 3 — NEW PUBLIC RIGHTS OF WAY TO BE CREATED[^c-8d9a274bcd76d1c47550c97c0360ce72]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way or permissive way to be created* | *(3)*<br>*Extent of new public right of way or permissive way to be created* |
 | --- | --- | --- |
@@ -61,8 +61,8 @@ Article 12
 
 ## Annotations
 
-[^key-58e08d71df18ae6b5bd1009cae9ea36f]: Commencement: Sch. 5 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-58e08d71df18ae6b5bd1009cae9ea36f]: Commencement: Sch. 5 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-8cd1252809762213166f5297a764d528]: Commencement: Sch. 5 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-8cd1252809762213166f5297a764d528]: Commencement: Sch. 5 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-8d9a274bcd76d1c47550c97c0360ce72]: Commencement: Sch. 5 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-8d9a274bcd76d1c47550c97c0360ce72]: Commencement: Sch. 5 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

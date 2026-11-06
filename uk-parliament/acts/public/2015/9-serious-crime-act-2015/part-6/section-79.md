@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Throwing articles into prisons[^key-c045513e17d9ba0f84648be12c9bc3dc]
+## 79. Throwing articles into prisons[^c-c045513e17d9ba0f84648be12c9bc3dc]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 40CA of the Prison Act 1952 (inserted by section 78 above) insertâ
 
 ## Annotations
 
-[^key-c045513e17d9ba0f84648be12c9bc3dc]: Commencement: S. 79 in force at 10.11.2015 by [S.I. 2015/1809](https://www.legislation.gov.uk/uksi/2015/1809), [reg. 3](https://www.legislation.gov.uk/uksi/2015/1809/regulation/3)
+[^c-c045513e17d9ba0f84648be12c9bc3dc]: Commencement: S. 79 in force at 10.11.2015 by [S.I. 2015/1809](https://www.legislation.gov.uk/uksi/2015/1809), [reg. 3](https://www.legislation.gov.uk/uksi/2015/1809/regulation/3)

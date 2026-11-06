@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Workplace parking places[^key-778ea21eb8cf8656ce3d43f01e6505c8]
+## 71. Workplace parking places[^c-778ea21eb8cf8656ce3d43f01e6505c8]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ for the purpose of attending a place at which the relevant person carries on bus
 
 ## Annotations
 
-[^key-778ea21eb8cf8656ce3d43f01e6505c8]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2019/17/section/71) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-778ea21eb8cf8656ce3d43f01e6505c8]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2019/17/section/71) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

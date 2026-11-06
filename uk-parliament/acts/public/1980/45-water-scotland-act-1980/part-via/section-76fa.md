@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76FA. Domestic distribution failures where water is supplied to the public by private supply[^key-6f27b738baff4959475417b4a130817f][^key-a20ca9cb10a8a35dde257126268b94b3]
+## 76FA. Domestic distribution failures where water is supplied to the public by private supply[^c-6f27b738baff4959475417b4a130817f][^c-a20ca9cb10a8a35dde257126268b94b3]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f27b738baff4959475417b4a130817f]: Textual amendment: [S. 76FA](https://www.legislation.gov.uk/ukpga/1980/45/section/76FA) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 1(2)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/1/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
+[^c-6f27b738baff4959475417b4a130817f]: Textual amendment: [S. 76FA](https://www.legislation.gov.uk/ukpga/1980/45/section/76FA) omitted (27.10.2017) by virtue of [The Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017 (S.S.I. 2017/282)](https://www.legislation.gov.uk/ssi/2017/282), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1), [sch. 10 para. 1(2)](https://www.legislation.gov.uk/ssi/2017/282/schedule/10/paragraph/1/2) (with [reg. 2](https://www.legislation.gov.uk/ssi/2017/282/regulation/2))
 
-[^key-a20ca9cb10a8a35dde257126268b94b3]: Textual amendment: S. 76FA title substituted (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [48(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/48/c) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
+[^c-a20ca9cb10a8a35dde257126268b94b3]: Textual amendment: S. 76FA title substituted (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [48(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/48/c) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))

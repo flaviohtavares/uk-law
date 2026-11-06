@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Removal of ISPM 15 mark from wood packaging material[^key-ce50503898b4c55371d87c2bd92d1a26]
+## 32. Removal of ISPM 15 mark from wood packaging material[^c-ce50503898b4c55371d87c2bd92d1a26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where an inspector knows, or has reasonable grounds for suspecting, that the ISP
 
 ## Annotations
 
-[^key-ce50503898b4c55371d87c2bd92d1a26]: Commencement: Reg. 32 in force at 27.3.2020, see reg. 1
+[^c-ce50503898b4c55371d87c2bd92d1a26]: Commencement: Reg. 32 in force at 27.3.2020, see reg. 1

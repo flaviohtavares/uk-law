@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The specific ongoing registration conditions[^key-0cedb676b58af13616e25545745591d7]
+## 6. The specific ongoing registration conditions[^c-0cedb676b58af13616e25545745591d7]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ the OfS must notify the governing body of the institution of its intention to do
 
 ## Annotations
 
-[^key-0cedb676b58af13616e25545745591d7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/29/section/6) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-0cedb676b58af13616e25545745591d7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/29/section/6) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Safety precautions with respect to entrances to shafts, staple-pits and outlets.[^key-5211b0bdb0b1d0ec05447226128fad98]
+## 31. Safety precautions with respect to entrances to shafts, staple-pits and outlets.[^c-5211b0bdb0b1d0ec05447226128fad98]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5211b0bdb0b1d0ec05447226128fad98]: Textual amendment: [S. 31](https://www.legislation.gov.uk/apni/1969/6/section/31) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-5211b0bdb0b1d0ec05447226128fad98]: Textual amendment: [S. 31](https://www.legislation.gov.uk/apni/1969/6/section/31) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

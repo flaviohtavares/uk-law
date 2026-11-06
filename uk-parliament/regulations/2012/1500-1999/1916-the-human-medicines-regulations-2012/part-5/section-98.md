@@ -24,7 +24,7 @@ summary: ''
 
 (2) A breach of a provision in this Part includes any—
 
-- (a) failure by the holder of a marketing authorisation or parallel import licence[^key-b2773b215ec1d9701423996238ff0512] to comply with any requirement or obligation in this Part:
+- (a) failure by the holder of a marketing authorisation or parallel import licence[^c-b2773b215ec1d9701423996238ff0512] to comply with any requirement or obligation in this Part:
 - (b) contravention by any person of any prohibition in this Part; or
 - (c) failure to comply with any requirement imposed on a person by the licensing authority pursuant to this Part.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2773b215ec1d9701423996238ff0512]: Textual amendment: Words in reg. 98(2)(a) inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1878/regulation/4) and words in reg. 98(2)(a) inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [4(2)(p)](https://www.legislation.gov.uk/nisr/2014/324/regulation/4/2/p)
+[^c-b2773b215ec1d9701423996238ff0512]: Textual amendment: Words in reg. 98(2)(a) inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1878/regulation/4) and words in reg. 98(2)(a) inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [4(2)(p)](https://www.legislation.gov.uk/nisr/2014/324/regulation/4/2/p)

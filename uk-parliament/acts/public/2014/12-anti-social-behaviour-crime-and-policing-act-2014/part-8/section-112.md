@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. British Transport Police: Crown status under Firearms Act 1968[^key-73eba39e6261c9dcff79f2a62fd42c55]
+## 112. British Transport Police: Crown status under Firearms Act 1968[^c-73eba39e6261c9dcff79f2a62fd42c55]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73eba39e6261c9dcff79f2a62fd42c55]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2014/12/section/112) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/8)
+[^c-73eba39e6261c9dcff79f2a62fd42c55]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2014/12/section/112) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/8)

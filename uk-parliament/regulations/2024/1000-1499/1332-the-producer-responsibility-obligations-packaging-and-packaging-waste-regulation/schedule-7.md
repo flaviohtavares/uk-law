@@ -22,13 +22,13 @@ summary: ''
 
 Regulation 58
 
-### 1. Power to delegate functions[^key-ffd74abb7f148ebe7e46e32a2072ac3b][^key-ffd74abb7f148ebe7e46e32a2072ac3b]
+### 1. Power to delegate functions[^c-ffd74abb7f148ebe7e46e32a2072ac3b][^c-ffd74abb7f148ebe7e46e32a2072ac3b]
 
 (1) The scheme administrator may enter into an agreement with a public body or with a private sector body for that body to perform any of the functions of the scheme administrator on behalf of the scheme administrator.
 
 (2) The scheme administrator must obtain the consent of each of the appropriate authorities before entering into an agreement under sub-paragraph (1).
 
-(2A)[^key-edbe98bbd69d9b34105c1e755bcc09e2] Sub-paragraphs (2B) and (2C) apply where the person appointed as the scheme administrator is the Secretary of State or a statutory body.
+(2A)[^c-edbe98bbd69d9b34105c1e755bcc09e2] Sub-paragraphs (2B) and (2C) apply where the person appointed as the scheme administrator is the Secretary of State or a statutory body.
 
 (2B) The scheme administrator may appoint a body (a “Producer Responsibility Organisation” or “PRO”) to—
 
@@ -43,9 +43,9 @@ such of the scheme administrator’s functions as are specified in the appointme
 - (b) the proposed duration of the appointment; and
 - (c) the functions which it proposes to appoint that body to perform.
 
-(3)[^key-1586f4dbe8f10c40373d7c336d828b2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1586f4dbe8f10c40373d7c336d828b2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1A. Appointment of a PRO: supplementary[^key-14dcffe44e92ec1388ebbf1e9fb3ddc4]
+### 1A. Appointment of a PRO: supplementary[^c-14dcffe44e92ec1388ebbf1e9fb3ddc4]
 
 (1) The scheme administrator may only appoint a body as a PRO if the scheme administrator is satisfied that the body—
 
@@ -172,7 +172,7 @@ Anything done by an outgoing PRO in connection with the exercise of its function
 - (a) the new PRO, in a case where it is appointed to take over the functions of the outgoing PRO; or
 - (b) the scheme administrator, in any other case.
 
-### 2. Principles[^key-4d4bf71f4b8185609e4606dc5753a8ff][^key-4d4bf71f4b8185609e4606dc5753a8ff]
+### 2. Principles[^c-4d4bf71f4b8185609e4606dc5753a8ff][^c-4d4bf71f4b8185609e4606dc5753a8ff]
 
 In exercising its functions, the scheme administrator is to act in accordance with the following principles—
 
@@ -192,7 +192,7 @@ In exercising its functions, the scheme administrator is to act in accordance wi
 - (g) that it must exercise its functions transparently, accounting fully for all monies received by it, and disbursed by it in the exercise of its functions;
 - (h) that it is not to earn a profit from carrying out its functions under these Regulations.
 
-### 3. Communications[^key-dc0802ac5e37de490f7420860c3cfdda][^key-dc0802ac5e37de490f7420860c3cfdda]
+### 3. Communications[^c-dc0802ac5e37de490f7420860c3cfdda][^c-dc0802ac5e37de490f7420860c3cfdda]
 
 (1) The scheme administrator must make and maintain effective arrangements for—
 
@@ -210,7 +210,7 @@ the persons referred to in sub-paragraph (2).
     - (aa) its proposals to exercise its functions; or
     - (bb) its strategy or annual operational plan.
 
-### 4. Public information[^key-e6174145ac77c7052d738188a62e973b][^key-e6174145ac77c7052d738188a62e973b]
+### 4. Public information[^c-e6174145ac77c7052d738188a62e973b][^c-e6174145ac77c7052d738188a62e973b]
 
 (1) The scheme administrator must make available to members of the public, and to businesses that discard packaging waste, information on—
 
@@ -234,7 +234,7 @@ the persons referred to in sub-paragraph (2).
 - (c) differences in recycling behaviour of members of the public and businesses and differences in collection systems in different areas within the United Kingdom; and
 - (d) any other factor the scheme administrator considers relevant.
 
-### 5. Guidance, etc., to producers[^key-9a3822cb3778e0883cae23ce1cbacb91][^key-9a3822cb3778e0883cae23ce1cbacb91]
+### 5. Guidance, etc., to producers[^c-9a3822cb3778e0883cae23ce1cbacb91][^c-9a3822cb3778e0883cae23ce1cbacb91]
 
 (1) The scheme administrator may provide, or arrange for the provision of, information, guidance, and any other support the scheme administrator considers necessary, to businesses which are producers, to assist them in understanding and meeting their disposal cost obligations under these Regulations.
 
@@ -245,7 +245,7 @@ the persons referred to in sub-paragraph (2).
 - (a) the obligation to pay disposal fees and administration fees under Part 5; and
 - (b) any other obligations which are connected to that obligation, including obligations to keep records, make reports of information, and carry out recyclability assessments, which are used for the purposes of calculating the producer’s disposal fees and administration fees.
 
-### 6. Guidance, etc., to relevant authorities[^key-f856bbacbbb0ffbe12d22e429d25202d][^key-f856bbacbbb0ffbe12d22e429d25202d]
+### 6. Guidance, etc., to relevant authorities[^c-f856bbacbbb0ffbe12d22e429d25202d][^c-f856bbacbbb0ffbe12d22e429d25202d]
 
 (1) The scheme administrator must produce guidance on the methodology and procedure that the scheme administrator will use and, where relevant, the factors that the scheme administrator will take into account, in—
 
@@ -269,7 +269,7 @@ the persons referred to in sub-paragraph (2).
 
 (5) The scheme administrator may determine what level of information, guidance, advice or other support is required for the purposes of sub-paragraph (4), taking into account the needs of different relevant authorities.
 
-### 7. Methodology and guidance on assessment of recyclability[^key-737a3e7a8b90965c39db66028b3b91af][^key-737a3e7a8b90965c39db66028b3b91af]
+### 7. Methodology and guidance on assessment of recyclability[^c-737a3e7a8b90965c39db66028b3b91af][^c-737a3e7a8b90965c39db66028b3b91af]
 
 The scheme administrator must—
 
@@ -278,7 +278,7 @@ The scheme administrator must—
   - (ii) guidance on the use of that methodology;
 - (b) publish that methodology and guidance in the way appearing to the scheme administrator to be most appropriate to bring them to the attention of producers.
 
-### 8. Statement of policy on modulation of disposal fees[^key-693b60be57180daf29bf40d4cc88dad1][^key-693b60be57180daf29bf40d4cc88dad1]
+### 8. Statement of policy on modulation of disposal fees[^c-693b60be57180daf29bf40d4cc88dad1][^c-693b60be57180daf29bf40d4cc88dad1]
 
 (1) The scheme administrator must prepare and issue a statement of its policy with respect to modulating under regulation 64 the amounts calculated under regulation 62 and used in determining a liable producer’s disposal fee, in which it explains the circumstances in which those amounts may be increased, reduced or left unchanged.
 
@@ -300,7 +300,7 @@ The scheme administrator must—
 - (a) publish the first statement of policy issued under sub-paragraph (1) as soon as practicable after the day on which the scheme administrator is appointed under regulation 58;
 - (b) review its statement of policy at least once every three years, and if necessary issue a revised statement of policy.
 
-### 9. Lists[^key-fedc4f3b7e0840edfa37c9fa1bc100b6][^key-fedc4f3b7e0840edfa37c9fa1bc100b6]
+### 9. Lists[^c-fedc4f3b7e0840edfa37c9fa1bc100b6][^c-fedc4f3b7e0840edfa37c9fa1bc100b6]
 
 (1) The scheme administrator must compile a list of items of packaging which are commonly disposed of in public bins or as ground litter (“commonly binned or littered items”), from the best evidence available to the scheme administrator.
 
@@ -313,9 +313,9 @@ The scheme administrator must—
 
 (4) The scheme administrator must publish the lists compiled under sub-paragraphs (1) and (2), and any updated versions of those lists, in the way which appears to the scheme administrator to be most likely to draw them to the attention of producers, relevant authorities and any other persons appearing to the scheme administrator to have an interest in the lists.
 
-### 10. Complaints procedure[^key-15466feb355038aa2181926d367ac0a0][^key-15466feb355038aa2181926d367ac0a0]
+### 10. Complaints procedure[^c-15466feb355038aa2181926d367ac0a0][^c-15466feb355038aa2181926d367ac0a0]
 
-The scheme administrator must establish a procedure to manage and resolve complaints by producers and relevant authorities as to the way in which the scheme administrator exercises its functions under the Regulations, or the way in which a Producer Responsibility Organisation appointed under paragraph 1(2B) of this Schedule or a body with which the scheme administrator enters into an agreement under paragraph 1(1) of this Schedule exercises the functions conferred on that body,[^key-873de8606bd35a87dff001149df20297] including in particular—
+The scheme administrator must establish a procedure to manage and resolve complaints by producers and relevant authorities as to the way in which the scheme administrator exercises its functions under the Regulations, or the way in which a Producer Responsibility Organisation appointed under paragraph 1(2B) of this Schedule or a body with which the scheme administrator enters into an agreement under paragraph 1(1) of this Schedule exercises the functions conferred on that body,[^c-873de8606bd35a87dff001149df20297] including in particular—
 
 - (a) complaints by liable producers in relation to the assessment of—
   - (i) the disposal fee or the administration fee which they are liable to pay for an assessment year under regulation 60(2); or
@@ -325,7 +325,7 @@ The scheme administrator must establish a procedure to manage and resolve compla
   - (ii) any decision concerning the payments they are due to receive towards their chargeable disposal costs under regulation 76; or
   - (iii) any recalculation of their chargeable disposal costs under regulation 80.
 
-### 11. Strategy[^key-806c5dffaa206fca5e57a2e52c595217][^key-806c5dffaa206fca5e57a2e52c595217]
+### 11. Strategy[^c-806c5dffaa206fca5e57a2e52c595217][^c-806c5dffaa206fca5e57a2e52c595217]
 
 (1) The scheme administrator must before the end of the period of 6 months beginning with the date on which it is appointed publish a strategy setting out—
 
@@ -352,7 +352,7 @@ The scheme administrator must establish a procedure to manage and resolve compla
 
 (5) The strategy must be reviewed and updated at intervals of not more than 5 years after it is first published.
 
-### 12. Operational plan[^key-c0d21a088f7f3f8c758e2e13d487cc7d][^key-c0d21a088f7f3f8c758e2e13d487cc7d]
+### 12. Operational plan[^c-c0d21a088f7f3f8c758e2e13d487cc7d][^c-c0d21a088f7f3f8c758e2e13d487cc7d]
 
 (1) The scheme administrator must publish an operational plan each year by 28th February setting out—
 
@@ -372,7 +372,7 @@ The scheme administrator must establish a procedure to manage and resolve compla
 
 (4) If the scheme administrator makes any changes to its operational plan, it must publish an updated version as soon as reasonably possible.
 
-### 13. Annual report[^key-5b985f1d389f9abf533d6ff3366cc71f][^key-5b985f1d389f9abf533d6ff3366cc71f]
+### 13. Annual report[^c-5b985f1d389f9abf533d6ff3366cc71f][^c-5b985f1d389f9abf533d6ff3366cc71f]
 
 (1) The scheme administrator must publish a report each year by 30th September which—
 
@@ -391,7 +391,7 @@ The scheme administrator must establish a procedure to manage and resolve compla
 
 (3) The scheme administrator must take any representations made to it under sub-paragraph (2) into account in finalising its report.
 
-### 14. Accounts[^key-8d06cca0203b44fa02fe652b1fac44a9][^key-8d06cca0203b44fa02fe652b1fac44a9]
+### 14. Accounts[^c-8d06cca0203b44fa02fe652b1fac44a9][^c-8d06cca0203b44fa02fe652b1fac44a9]
 
 (1) The scheme administrator must—
 
@@ -416,38 +416,38 @@ The scheme administrator must establish a procedure to manage and resolve compla
 
 ## Annotations
 
-[^key-ffd74abb7f148ebe7e46e32a2072ac3b]: Commencement: Sch. 7 para. 1 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-ffd74abb7f148ebe7e46e32a2072ac3b]: Commencement: Sch. 7 para. 1 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-edbe98bbd69d9b34105c1e755bcc09e2]: Textual amendment: [Sch. 7 para. 1(2A)-(2C)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/1/2A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/14/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-edbe98bbd69d9b34105c1e755bcc09e2]: Textual amendment: [Sch. 7 para. 1(2A)-(2C)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/1/2A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/14/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-1586f4dbe8f10c40373d7c336d828b2e]: Textual amendment: [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/1/3) omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/14/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-1586f4dbe8f10c40373d7c336d828b2e]: Textual amendment: [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/1/3) omitted (1.1.2026) by virtue of [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/14/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-14dcffe44e92ec1388ebbf1e9fb3ddc4]: Textual amendment: [Sch. 7 paras. 1A-1E](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/1A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1369/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-14dcffe44e92ec1388ebbf1e9fb3ddc4]: Textual amendment: [Sch. 7 paras. 1A-1E](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/1A) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1369/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-4d4bf71f4b8185609e4606dc5753a8ff]: Commencement: Sch. 7 para. 2 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-4d4bf71f4b8185609e4606dc5753a8ff]: Commencement: Sch. 7 para. 2 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-dc0802ac5e37de490f7420860c3cfdda]: Commencement: Sch. 7 para. 3 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-dc0802ac5e37de490f7420860c3cfdda]: Commencement: Sch. 7 para. 3 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-e6174145ac77c7052d738188a62e973b]: Commencement: Sch. 7 para. 4 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-e6174145ac77c7052d738188a62e973b]: Commencement: Sch. 7 para. 4 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-9a3822cb3778e0883cae23ce1cbacb91]: Commencement: Sch. 7 para. 5 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-9a3822cb3778e0883cae23ce1cbacb91]: Commencement: Sch. 7 para. 5 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-f856bbacbbb0ffbe12d22e429d25202d]: Commencement: Sch. 7 para. 6 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-f856bbacbbb0ffbe12d22e429d25202d]: Commencement: Sch. 7 para. 6 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-737a3e7a8b90965c39db66028b3b91af]: Commencement: Sch. 7 para. 7 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-737a3e7a8b90965c39db66028b3b91af]: Commencement: Sch. 7 para. 7 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-693b60be57180daf29bf40d4cc88dad1]: Commencement: Sch. 7 para. 8 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-693b60be57180daf29bf40d4cc88dad1]: Commencement: Sch. 7 para. 8 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-fedc4f3b7e0840edfa37c9fa1bc100b6]: Commencement: Sch. 7 para. 9 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-fedc4f3b7e0840edfa37c9fa1bc100b6]: Commencement: Sch. 7 para. 9 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-15466feb355038aa2181926d367ac0a0]: Commencement: Sch. 7 para. 10 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-15466feb355038aa2181926d367ac0a0]: Commencement: Sch. 7 para. 10 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-873de8606bd35a87dff001149df20297]: Textual amendment: Words in [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/10) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/14/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-873de8606bd35a87dff001149df20297]: Textual amendment: Words in [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2024/1332/schedule/7/paragraph/10) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/14/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-806c5dffaa206fca5e57a2e52c595217]: Commencement: Sch. 7 para. 11 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-806c5dffaa206fca5e57a2e52c595217]: Commencement: Sch. 7 para. 11 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-c0d21a088f7f3f8c758e2e13d487cc7d]: Commencement: Sch. 7 para. 12 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-c0d21a088f7f3f8c758e2e13d487cc7d]: Commencement: Sch. 7 para. 12 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-5b985f1d389f9abf533d6ff3366cc71f]: Commencement: Sch. 7 para. 13 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-5b985f1d389f9abf533d6ff3366cc71f]: Commencement: Sch. 7 para. 13 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-8d06cca0203b44fa02fe652b1fac44a9]: Commencement: Sch. 7 para. 14 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-8d06cca0203b44fa02fe652b1fac44a9]: Commencement: Sch. 7 para. 14 in force at 12.12.2024, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)

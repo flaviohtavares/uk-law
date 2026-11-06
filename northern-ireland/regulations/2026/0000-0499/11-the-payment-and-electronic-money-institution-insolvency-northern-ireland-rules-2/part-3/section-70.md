@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Functions and meetings of the creditors’ committee[^key-58f9512b42535878758da7909eaf0a12]
+## 70. Functions and meetings of the creditors’ committee[^c-58f9512b42535878758da7909eaf0a12]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58f9512b42535878758da7909eaf0a12]: Commencement: [Rule 70](https://www.legislation.gov.uk/nisr/2026/11/rule/70) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-58f9512b42535878758da7909eaf0a12]: Commencement: [Rule 70](https://www.legislation.gov.uk/nisr/2026/11/rule/70) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

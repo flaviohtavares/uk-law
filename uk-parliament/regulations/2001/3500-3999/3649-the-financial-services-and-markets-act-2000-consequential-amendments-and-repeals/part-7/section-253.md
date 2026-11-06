@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Appropriate annuity contracts etc.[^key-ef9c6f24499b34bd28db0a118dd5e113]
+## 253. Appropriate annuity contracts etc.[^c-ef9c6f24499b34bd28db0a118dd5e113]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef9c6f24499b34bd28db0a118dd5e113]: Commencement: Art. 253 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ef9c6f24499b34bd28db0a118dd5e113]: Commencement: Art. 253 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00173]: Footnote: Regulation 145 was inserted by [S.S.I 2001/23](https://www.legislation.gov.uk/ssi/2001/23), regulation 4.

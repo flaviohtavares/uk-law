@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Examining authority to examine applications[^key-2ad2d4cfe547773a7b983bbbf5efd536][^key-a49edec5997522fce807ac04ff0a3168]
+## 41. Examining authority to examine applications[^c-2ad2d4cfe547773a7b983bbbf5efd536][^c-a49edec5997522fce807ac04ff0a3168]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ An examining authority has the function of examining an application in respect o
 
 ## Annotations
 
-[^key-2ad2d4cfe547773a7b983bbbf5efd536]: Commencement: S. 41 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-2ad2d4cfe547773a7b983bbbf5efd536]: Commencement: S. 41 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-a49edec5997522fce807ac04ff0a3168]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2024/3/section/41) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-a49edec5997522fce807ac04ff0a3168]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2024/3/section/41) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The FCA[^key-9927ca5530fa26b483ba2aa61ac1396f] may require an issuer to make public any information provided to the FCA under section 89H.
+(1) The FCA[^c-9927ca5530fa26b483ba2aa61ac1396f] may require an issuer to make public any information provided to the FCA under section 89H.
 
 (2) If the issuer fails to comply with a requirement under subsection (1), the FCA may, after seeking representations from the issuer, make the information public.
 
@@ -29,8 +29,8 @@ summary: ''
 - “control” and “controlled” have the meaning given by subsection (4) below;
 - “**specified**” means specified in the notice;
 - “**voteholder**” means a person who—
-  - (a) holds voting rights in respect of any voting shares for the purposes of sections 89A to 89G (transparency rules), [^key-3a339c7abca02ab4e455b4f6f8f1479c]...
-  - (b) [^key-3a339c7abca02ab4e455b4f6f8f1479c]...
+  - (a) holds voting rights in respect of any voting shares for the purposes of sections 89A to 89G (transparency rules), [^c-3a339c7abca02ab4e455b4f6f8f1479c]...
+  - (b) [^c-3a339c7abca02ab4e455b4f6f8f1479c]...
 
 (4) For the purposes of those sections a person (“A”) controls another person (“B”) if—
 
@@ -50,6 +50,6 @@ are treated as held by A.
 
 [^c2076386]: Textual amendment: Ss. 89H-89J and cross-heading inserted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1267](https://www.legislation.gov.uk/ukpga/2006/46/section/1267), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a)
 
-[^key-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9927ca5530fa26b483ba2aa61ac1396f]: Textual amendment: Words in ss. 89A-97 substituted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss.](https://www.legislation.gov.uk/ukpga/2012/21/section) [16(2)(3)(g)](https://www.legislation.gov.uk/ukpga/2012/21/section/16/3/g), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-3a339c7abca02ab4e455b4f6f8f1479c]: Textual amendment: Words in s. 89J(3) omitted (1.11.2015 for specified purposes, 26.11.2015 in so far as not already in force) by virtue of [The Transparency Regulations 2015 (S.I. 2015/1755)](https://www.legislation.gov.uk/uksi/2015/1755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/2/5)
+[^c-3a339c7abca02ab4e455b4f6f8f1479c]: Textual amendment: Words in s. 89J(3) omitted (1.11.2015 for specified purposes, 26.11.2015 in so far as not already in force) by virtue of [The Transparency Regulations 2015 (S.I. 2015/1755)](https://www.legislation.gov.uk/uksi/2015/1755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2015/1755/regulation/2/5)

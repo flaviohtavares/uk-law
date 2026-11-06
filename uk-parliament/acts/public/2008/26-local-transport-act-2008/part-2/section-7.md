@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Local transport policies[^key-77e77439ee1926a9496b44e3c71ee62a][^key-7cd645670bdce31ae2a803c0db6636aa]
+## 7. Local transport policies[^c-77e77439ee1926a9496b44e3c71ee62a][^c-7cd645670bdce31ae2a803c0db6636aa]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77e77439ee1926a9496b44e3c71ee62a]: Commencement: S. 7 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-77e77439ee1926a9496b44e3c71ee62a]: Commencement: S. 7 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-7cd645670bdce31ae2a803c0db6636aa]: Commencement: S. 7 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/579/article/2/a)
+[^c-7cd645670bdce31ae2a803c0db6636aa]: Commencement: S. 7 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/579/article/2/a)

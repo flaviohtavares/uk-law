@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 15 — DOCUMENTS TO BE CERTIFIED[^key-dfd987840a34e2144f6a51ff93653a2c]
+## SCHEDULE 15 — DOCUMENTS TO BE CERTIFIED[^c-dfd987840a34e2144f6a51ff93653a2c]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ Article 64
 
 ## Annotations
 
-[^key-dfd987840a34e2144f6a51ff93653a2c]: Commencement: Sch. 15 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-dfd987840a34e2144f6a51ff93653a2c]: Commencement: Sch. 15 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

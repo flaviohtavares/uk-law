@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Power to vary provisions concerning election expenses[^key-4b83021a23644aa1038d94e6f203ff61]
+## 50. Power to vary provisions concerning election expenses[^c-4b83021a23644aa1038d94e6f203ff61]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b83021a23644aa1038d94e6f203ff61]: Commencement: Art. 50 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4b83021a23644aa1038d94e6f203ff61]: Commencement: Art. 50 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Preparation of plan: procedure and delivery agreement[^key-a5f343f48b27b31b5f1927a43f6f8384]
+## 21. Preparation of plan: procedure and delivery agreement[^c-a5f343f48b27b31b5f1927a43f6f8384]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f343f48b27b31b5f1927a43f6f8384]: Commencement: S. 21 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a5f343f48b27b31b5f1927a43f6f8384]: Commencement: S. 21 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.21. Who is to serve[^key-fe589970343ba157e4f46d596d14d251]
+## 6.21. Who is to serve[^c-fe589970343ba157e4f46d596d14d251]
 
 *Extent: E+W*
 
-(1) A[^key-f448bd57a735448b7e688720f9f7bf38] party to proceedings will serve a document which that party has prepared except where—
+(1) A[^c-f448bd57a735448b7e688720f9f7bf38] party to proceedings will serve a document which that party has prepared except where—
 
 - (a) a rule or practice direction provides that the court will serve the document; or
 - (b) the court orders otherwise.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
+[^c-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
 
-[^key-f448bd57a735448b7e688720f9f7bf38]: Textual amendment: Word in [rule 6.21(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.21/1) substituted (31.12.2020) by [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [4(13)](https://www.legislation.gov.uk/uksi/2019/521/regulation/4/13) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/521/regulation/18)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f448bd57a735448b7e688720f9f7bf38]: Textual amendment: Word in [rule 6.21(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.21/1) substituted (31.12.2020) by [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [4(13)](https://www.legislation.gov.uk/uksi/2019/521/regulation/4/13) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/521/regulation/18)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

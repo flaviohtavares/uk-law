@@ -35,22 +35,22 @@ concerning the authorisation of robenidine hydrochloride (Robenz 66G) as a feed 
 
 (Text with EEA relevance) (revoked)
 
-[^key-9e3df5281b1896b9818793b96794e1ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e3df5281b1896b9818793b96794e1ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-9e3df5281b1896b9818793b96794e1ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9e3df5281b1896b9818793b96794e1ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9e3df5281b1896b9818793b96794e1ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-9e3df5281b1896b9818793b96794e1ef]
+## ANNEX[^c-9e3df5281b1896b9818793b96794e1ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9e3df5281b1896b9818793b96794e1ef]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 338](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/338) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-9e3df5281b1896b9818793b96794e1ef]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 338](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/338) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

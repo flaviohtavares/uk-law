@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — UK declaration of conformity or suitability for use of interoperability constituents[^key-b85e770f89e729ea72b1d454b9f9d1e2]
+## SCHEDULE 7 — UK declaration of conformity or suitability for use of interoperability constituents[^c-b85e770f89e729ea72b1d454b9f9d1e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ In this Schedule “examination certificate” means a certificate drawn up as p
 
 ## Annotations
 
-[^key-b85e770f89e729ea72b1d454b9f9d1e2]: Textual amendment: Sch. 7 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/345/schedule/6) (as amended: by [S.I. 2020/318](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(14)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/a), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/b) and [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(11)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/a), [4(11)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b85e770f89e729ea72b1d454b9f9d1e2]: Textual amendment: Sch. 7 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/345/schedule/6) (as amended: by [S.I. 2020/318](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(14)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/a), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/14/b) and [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(11)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/a), [4(11)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/11/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

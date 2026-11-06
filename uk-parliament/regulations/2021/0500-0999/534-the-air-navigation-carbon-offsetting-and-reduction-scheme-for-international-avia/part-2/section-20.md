@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Service of notices given by the Regulator[^key-38f8160a4f2087d191395ad4e97db109]
+## 20. Service of notices given by the Regulator[^c-38f8160a4f2087d191395ad4e97db109]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38f8160a4f2087d191395ad4e97db109]: Commencement: Art. 20 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-38f8160a4f2087d191395ad4e97db109]: Commencement: Art. 20 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00021]: Footnote: Eurocontrol is the intergovernmental body established by the International Convention Relating to Co-operation for the Safety of Air Navigation of 13th December 1960 (the Eurocontrol Convention).

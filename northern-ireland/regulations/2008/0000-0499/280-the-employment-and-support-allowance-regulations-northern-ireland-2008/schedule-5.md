@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 69
 
-### PART 1 — AMOUNTS PRESCRIBED FOR THE PURPOSES OF SECTION 4(2) OF THE ACT[^key-78297c72ef8e0da49f5f126660151237]
+### PART 1 — AMOUNTS PRESCRIBED FOR THE PURPOSES OF SECTION 4(2) OF THE ACT[^c-78297c72ef8e0da49f5f126660151237]
 
 <table>
 <thead>
@@ -48,9 +48,9 @@ Regulation 69
 </tbody>
 </table>
 
-[^key-5643f68b3681c09ba953133eaca9c0e7][^key-0f5fdc21f26d7c2aa2623c9a55f1f9ab][^key-6dda05fd1dffee43e554a59d5f01add0][^f00168]
+[^c-5643f68b3681c09ba953133eaca9c0e7][^c-0f5fdc21f26d7c2aa2623c9a55f1f9ab][^c-6dda05fd1dffee43e554a59d5f01add0][^f00168]
 
-### PART 2 — AMOUNTS PRESCRIBED FOR THE PURPOSES OF SECTIONS 2(1) AND 4(2) OF THE ACT[^key-ba067bc7c1fc7438f01cc94897959ec8]
+### PART 2 — AMOUNTS PRESCRIBED FOR THE PURPOSES OF SECTIONS 2(1) AND 4(2) OF THE ACT[^c-ba067bc7c1fc7438f01cc94897959ec8]
 
 <table>
 <thead>
@@ -64,24 +64,24 @@ Regulation 69
 </tbody>
 </table>
 
-[^key-03a30d078d32701ed82ee0ae5fae2d50][^key-087e6a36d0311a8773df837286d9d6e3][^key-fd9cf8afa8de100bc44d252b4ce2fc70]
+[^c-03a30d078d32701ed82ee0ae5fae2d50][^c-087e6a36d0311a8773df837286d9d6e3][^c-fd9cf8afa8de100bc44d252b4ce2fc70]
 
 ## Annotations
 
-[^key-78297c72ef8e0da49f5f126660151237]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-78297c72ef8e0da49f5f126660151237]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-5643f68b3681c09ba953133eaca9c0e7]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/6/a)
+[^c-5643f68b3681c09ba953133eaca9c0e7]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/6/a)
 
-[^key-0f5fdc21f26d7c2aa2623c9a55f1f9ab]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/6/b)
+[^c-0f5fdc21f26d7c2aa2623c9a55f1f9ab]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/6/b)
 
-[^key-6dda05fd1dffee43e554a59d5f01add0]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/6/c)
+[^c-6dda05fd1dffee43e554a59d5f01add0]: Textual amendment: Words in [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/1) substituted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/368)](https://www.legislation.gov.uk/nisr/2011/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/368/regulation/1/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2011/368/regulation/5/6/c)
 
 [^f00168]: Footnote: [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71); regulation 2 was amended by paragraph 1(s) of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and regulation 6 of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
-[^key-ba067bc7c1fc7438f01cc94897959ec8]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/2) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-ba067bc7c1fc7438f01cc94897959ec8]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/2) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-03a30d078d32701ed82ee0ae5fae2d50]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2008/280/schedule/5) substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/4/a)
+[^c-03a30d078d32701ed82ee0ae5fae2d50]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2008/280/schedule/5) substituted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/4/a)
 
-[^key-087e6a36d0311a8773df837286d9d6e3]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2008/280/schedule/5) inserted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/4/b)
+[^c-087e6a36d0311a8773df837286d9d6e3]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisr/2008/280/schedule/5) inserted (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations (Northern Ireland) 2010 (S.R. 2010/58)](https://www.legislation.gov.uk/nisr/2010/58), [regs. 1](https://www.legislation.gov.uk/nisr/2010/58/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2010/58/regulation/5/4/b)
 
-[^key-fd9cf8afa8de100bc44d252b4ce2fc70]: Textual amendment: Word in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/2) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(32)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/32)
+[^c-fd9cf8afa8de100bc44d252b4ce2fc70]: Textual amendment: Word in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2008/280/schedule/5/part/2) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(32)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/32)

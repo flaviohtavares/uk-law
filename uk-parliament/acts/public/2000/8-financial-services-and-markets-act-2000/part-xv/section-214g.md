@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214G. Notification to Parliamentary Committees[^key-b9041ced8c3e2336b6de5f595ac197c9]
+## 214G. Notification to Parliamentary Committees[^c-b9041ced8c3e2336b6de5f595ac197c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9041ced8c3e2336b6de5f595ac197c9]: Textual amendment: S. 214G inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/15/section/3), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/c)
+[^c-b9041ced8c3e2336b6de5f595ac197c9]: Textual amendment: S. 214G inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/15/section/3), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/c)

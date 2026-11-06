@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of the Jobseeker's Allowance Regulations 1996[^key-cd4e792a33072e702aaf526f057ad6cd][^M_I_cc4101f2-850a-4095-967f-0b2d1ae62ab5]
+## 55. Amendment of the Jobseeker's Allowance Regulations 1996[^c-cd4e792a33072e702aaf526f057ad6cd][^M_I_cc4101f2-850a-4095-967f-0b2d1ae62ab5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cd4e792a33072e702aaf526f057ad6cd]: Commencement: Reg. 55 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-cd4e792a33072e702aaf526f057ad6cd]: Commencement: Reg. 55 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_cc4101f2-850a-4095-967f-0b2d1ae62ab5]: Commencement: Reg. 55 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

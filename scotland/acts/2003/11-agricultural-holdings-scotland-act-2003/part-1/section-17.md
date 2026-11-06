@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Resumption of land by landlord[^key-6b421570633f26aa9d94759b3ea0a539]
+## 17. Resumption of land by landlord[^c-6b421570633f26aa9d94759b3ea0a539]
 
 *Extent: S*
 
-(1) The landlord may resume the land or any part of the land comprised in a lease constituting a short limited duration tenancy or , a limited duration tenancy or a modern limited duration tenancy[^key-8dcbc9d50e1f39fe74c0a0f4d79b9d6d] if (and only if)—
+(1) The landlord may resume the land or any part of the land comprised in a lease constituting a short limited duration tenancy or , a limited duration tenancy or a modern limited duration tenancy[^c-8dcbc9d50e1f39fe74c0a0f4d79b9d6d] if (and only if)—
 
 - (a) the resumption is for a non-agricultural purpose in respect of which permission requires to be obtained, and has been obtained, under the enactments relating to town and country planning by—
   - (i) in the case of a short limited duration tenancy, any person (including the tenant);
-  - (ii) in the case of a limited duration tenancy or a modern limited duration tenancy[^key-b74e95adef7869375779629921d05f77] , any person apart from the tenant;
+  - (ii) in the case of a limited duration tenancy or a modern limited duration tenancy[^c-b74e95adef7869375779629921d05f77] , any person apart from the tenant;
 - (b) the lease does not expressly prohibit resumption for that purpose; and
 - (c) notice as mentioned in subsection (2) has been given.
 
@@ -62,8 +62,8 @@ that land is, if the conditions in subsection (6) are fulfilled, to be restored 
 
 ## Annotations
 
-[^key-6b421570633f26aa9d94759b3ea0a539]: Commencement: S. 17 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-6b421570633f26aa9d94759b3ea0a539]: Commencement: S. 17 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-8dcbc9d50e1f39fe74c0a0f4d79b9d6d]: Textual amendment: Words in s. 17(1) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(9)(a)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/9/a) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-8dcbc9d50e1f39fe74c0a0f4d79b9d6d]: Textual amendment: Words in s. 17(1) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(9)(a)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/9/a) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
 
-[^key-b74e95adef7869375779629921d05f77]: Textual amendment: Words in s. 17(1)(ii) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(9)(b)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/9/b) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-b74e95adef7869375779629921d05f77]: Textual amendment: Words in s. 17(1)(ii) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(9)(b)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/9/b) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

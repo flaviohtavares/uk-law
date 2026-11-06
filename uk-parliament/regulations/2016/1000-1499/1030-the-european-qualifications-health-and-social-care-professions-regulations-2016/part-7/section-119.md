@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Introductory[^key-7e8a84930915337bfffa98f6347b2747]
+## 119. Introductory[^c-7e8a84930915337bfffa98f6347b2747]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Regulation and Inspection of Social Care (Wales) Act 2016[^f00098] (Deddf Rh
 
 ## Annotations
 
-[^key-7e8a84930915337bfffa98f6347b2747]: Commencement: Reg. 119 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-7e8a84930915337bfffa98f6347b2747]: Commencement: Reg. 119 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00098]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).

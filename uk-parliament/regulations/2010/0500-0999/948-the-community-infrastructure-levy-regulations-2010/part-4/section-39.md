@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Effect of death on assumed liability[^key-0afe6bc92b16cca2d0a65f7e6cfcf71a]
+## 39. Effect of death on assumed liability[^c-0afe6bc92b16cca2d0a65f7e6cfcf71a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0afe6bc92b16cca2d0a65f7e6cfcf71a]: Commencement: Reg. 39 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-0afe6bc92b16cca2d0a65f7e6cfcf71a]: Commencement: Reg. 39 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

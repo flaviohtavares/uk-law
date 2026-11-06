@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Regulations[^key-ee659e5c0cc385cbfa8f547cef204a4a]
+## 122. Regulations[^c-ee659e5c0cc385cbfa8f547cef204a4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 - (g) section 69 (payment compliance notices);
 - (h) section 70(3)(a) (information about payments: financial thresholds);
 - (i) section 75 (contract change notices and publication of modifications);
-- (ia)[^key-b969900f1b9dbb51b21168309c1440d0] section 83C (provision for inclusion in relevant outsourcing contracts);
+- (ia)[^c-b969900f1b9dbb51b21168309c1440d0] section 83C (provision for inclusion in relevant outsourcing contracts);
 - (j) section 87 (regulated below-threshold contracts: notices);
 - (k) section 89 (treaty state suppliers: international agreements);
 - (l) section 91 (treaty state suppliers: non-discrimination in Scotland);
@@ -89,7 +89,7 @@ summary: ''
 - (e) section 69 (payment compliance notices);
 - (f) section 70(3)(a) (information about payments: financial thresholds);
 - (g) section 75 (contract change notices and publication of modifications);
-- (ga)[^key-73483b5b12cf0b59099127862e2e68f7] section 83C (provision for inclusion in relevant outsourcing contracts);
+- (ga)[^c-73483b5b12cf0b59099127862e2e68f7] section 83C (provision for inclusion in relevant outsourcing contracts);
 - (h) section 87 (regulated below-threshold contracts: notices);
 - (i) section 89 (treaty state suppliers: international agreements);
 - (j) section 92 (trade disputes);
@@ -100,7 +100,7 @@ summary: ''
 
 *Extent: W*
 
-- (na)[^key-3853656f1655dbfa1c6c2f8a6c44955d] section‍ 120A (disapplication of Act: NHS procurement in Wales);
+- (na)[^c-3853656f1655dbfa1c6c2f8a6c44955d] section‍ 120A (disapplication of Act: NHS procurement in Wales);
 - (o) section 121 (amendment of Act in relation to private utilities);
 - (p) section 123 (interpretation);
 - (q) section 125 (power to make consequential, etc, provision), if the regulations made under it modify primary legislation;
@@ -131,7 +131,7 @@ summary: ''
 
 (14) Regulations of the Scottish Ministers under any of the following provisions are subject to the affirmative procedure (see section 29 of the Interpretation and Legislative Reform (Scotland) Act 2010)—
 
-- (za)[^key-5f9c24fc448f5dbae329bd038f3814c1] section 83C (provision to be included in relevant outsourcing contracts);
+- (za)[^c-5f9c24fc448f5dbae329bd038f3814c1] section 83C (provision to be included in relevant outsourcing contracts);
 - (zb) section 83F (power to amend section 83A, 83B or 83E);
 - (a) section 90 (treaty state suppliers: non-discrimination);
 - (b) section 92 (trade disputes);
@@ -139,12 +139,12 @@ summary: ''
 
 ## Annotations
 
-[^key-ee659e5c0cc385cbfa8f547cef204a4a]: Commencement: S. 122 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-ee659e5c0cc385cbfa8f547cef204a4a]: Commencement: S. 122 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
 
-[^key-b969900f1b9dbb51b21168309c1440d0]: Textual amendment: [S. 122(4)(ia)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/4/ia) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)
+[^c-b969900f1b9dbb51b21168309c1440d0]: Textual amendment: [S. 122(4)(ia)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/4/ia) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)
 
-[^key-73483b5b12cf0b59099127862e2e68f7]: Textual amendment: [S. 122(10)(ga)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/10/ga) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)
+[^c-73483b5b12cf0b59099127862e2e68f7]: Textual amendment: [S. 122(10)(ga)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/10/ga) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)
 
-[^key-3853656f1655dbfa1c6c2f8a6c44955d]: Textual amendment: [S. 122(10)(na)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/10/na) inserted (W.) (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 2(3)](https://www.legislation.gov.uk/asc/2024/1/section/2/3), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-3853656f1655dbfa1c6c2f8a6c44955d]: Textual amendment: [S. 122(10)(na)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/10/na) inserted (W.) (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 2(3)](https://www.legislation.gov.uk/asc/2024/1/section/2/3), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)
 
-[^key-5f9c24fc448f5dbae329bd038f3814c1]: Textual amendment: [S. 122(14)(za)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/14/za)[(zb)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/14/zb) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(4)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4/c), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)
+[^c-5f9c24fc448f5dbae329bd038f3814c1]: Textual amendment: [S. 122(14)(za)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/14/za)[(zb)](https://www.legislation.gov.uk/ukpga/2023/54/section/122/14/zb) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(4)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4/c), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)

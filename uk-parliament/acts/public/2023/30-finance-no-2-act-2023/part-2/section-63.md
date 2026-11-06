@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Modified duty discount[^M_I_d935051f-d9b8-400b-95e6-74eab5554b9a][^key-db33d15da8ad6b0859984a1cf83d9268]
+## 63. Modified duty discount[^M_I_d935051f-d9b8-400b-95e6-74eab5554b9a][^c-db33d15da8ad6b0859984a1cf83d9268]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_d935051f-d9b8-400b-95e6-74eab5554b9a]: Commencement: S. 63 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-db33d15da8ad6b0859984a1cf83d9268]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/30/section/63) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-db33d15da8ad6b0859984a1cf83d9268]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/30/section/63) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Costs of production[^key-c73dced2671fdf631b8c43c99000ab62]
+## 11. Costs of production[^c-c73dced2671fdf631b8c43c99000ab62]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c73dced2671fdf631b8c43c99000ab62]: Commencement: Reg. 11 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-c73dced2671fdf631b8c43c99000ab62]: Commencement: Reg. 11 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

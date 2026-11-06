@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Liability for offence under section 77 committed by a body[^key-8b3549a00bee36992a951338a67d4233]
+## 79. Liability for offence under section 77 committed by a body[^c-8b3549a00bee36992a951338a67d4233]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the person (as well as the body) commits the offence and is liable to be proceed
 
 ## Annotations
 
-[^key-8b3549a00bee36992a951338a67d4233]: Commencement: S. 79 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8b3549a00bee36992a951338a67d4233]: Commencement: S. 79 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F2. War service[^key-111856d6da06635260d176621eb38d85]
+## F2. War service[^c-111856d6da06635260d176621eb38d85]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-111856d6da06635260d176621eb38d85]: Commencement: [Reg. F2](https://www.legislation.gov.uk/uksi/1986/24/regulation/F2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-111856d6da06635260d176621eb38d85]: Commencement: [Reg. F2](https://www.legislation.gov.uk/uksi/1986/24/regulation/F2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

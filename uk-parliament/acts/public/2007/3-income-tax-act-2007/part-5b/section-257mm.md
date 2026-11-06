@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257MM. Requirement to use money raised and to trade for minimum period[^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257MM. Requirement to use money raised and to trade for minimum period[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Employing money on the acquisition of shares or stock in a body does not of itself amount to employing the money for the funded purpose.
 
-(3A)[^key-f9c304ff7c397697066ca1517547a413] Employing money on the repayment of a loan does not amount to employing the money for the funded purpose.
+(3A)[^c-f9c304ff7c397697066ca1517547a413] Employing money on the repayment of a loan does not amount to employing the money for the funded purpose.
 
 (4) Subsection (1) does not fail to be met merely because an amount of money which is not significant is employed for other purposes.
 
@@ -55,12 +55,12 @@ subsection (2) has effect as if it referred to that shorter period.
 
 - (a) in subsection (1), for “28 months” substitute “ 24 months ”,
 - (b) in that subsection, for “the funded purpose” substitute “ the carrying out of the social impact contract concerned ”, and
-- (c) omit subsections (2), (3), (3A),[^key-700f2be1f5e361bbb759714f421542a4] (5) and (6).
+- (c) omit subsections (2), (3), (3A),[^c-700f2be1f5e361bbb759714f421542a4] (5) and (6).
 
 ## Annotations
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
 
-[^key-f9c304ff7c397697066ca1517547a413]: Textual amendment: S. 257MM(3A) inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/9/2)
+[^c-f9c304ff7c397697066ca1517547a413]: Textual amendment: S. 257MM(3A) inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/9/2)
 
-[^key-700f2be1f5e361bbb759714f421542a4]: Textual amendment: Word in s. 257MM(7)(c) inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/9/3)
+[^c-700f2be1f5e361bbb759714f421542a4]: Textual amendment: Word in s. 257MM(7)(c) inserted (with effect in accordance with Sch. 1 para. 14(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/9/3)

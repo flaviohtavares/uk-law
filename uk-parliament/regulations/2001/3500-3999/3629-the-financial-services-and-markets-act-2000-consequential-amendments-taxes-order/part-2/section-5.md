@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Settled property: qualifying interests in possession[^key-858e67e28be3fd362a1889d98ce6f878]
+## 5. Settled property: qualifying interests in possession[^c-858e67e28be3fd362a1889d98ce6f878]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-858e67e28be3fd362a1889d98ce6f878]: Commencement: Art. 5 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-858e67e28be3fd362a1889d98ce6f878]: Commencement: Art. 5 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00007]: Footnote: Section 59 was relevantly amended by section 52(4) of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
 

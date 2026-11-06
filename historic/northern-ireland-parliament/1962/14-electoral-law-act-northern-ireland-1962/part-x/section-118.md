@@ -33,7 +33,7 @@ summary: ''
 
   .
 
-(4)[^key-eb3446f6eb1219cebfcf3f049448da5f] This section does not apply where section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies in relation to the electoral misdemeanour.
+(4)[^c-eb3446f6eb1219cebfcf3f049448da5f] This section does not apply where section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies in relation to the electoral misdemeanour.
 
 ## Annotations
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c18659421]: Textual amendment: SI 1987/168
 
-[^key-eb3446f6eb1219cebfcf3f049448da5f]: Textual amendment: [S. 118(4)](https://www.legislation.gov.uk/apni/1962/14/section/118/4) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 1 para. 1(7)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1/7) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-eb3446f6eb1219cebfcf3f049448da5f]: Textual amendment: [S. 118(4)](https://www.legislation.gov.uk/apni/1962/14/section/118/4) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 1 para. 1(7)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1/7) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

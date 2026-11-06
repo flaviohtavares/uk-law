@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Interpretation[^key-405de8e2965b49004484c2c9b3525d01]
+## 130. Interpretation[^c-405de8e2965b49004484c2c9b3525d01]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ In this Chapter—
 
 ## Annotations
 
-[^key-405de8e2965b49004484c2c9b3525d01]: Commencement: Reg. 130 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-405de8e2965b49004484c2c9b3525d01]: Commencement: Reg. 130 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00110]: Footnote: [S.I. 1991/1522](https://www.legislation.gov.uk/uksi/1991/1522)
 

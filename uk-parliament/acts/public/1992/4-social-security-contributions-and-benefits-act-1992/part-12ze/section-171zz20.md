@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZZ20. Restrictions on contracting out[^key-043f2ffa14b996b394ed43ecce5817f0]
+## 171ZZ20. Restrictions on contracting out[^c-043f2ffa14b996b394ed43ecce5817f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-043f2ffa14b996b394ed43ecce5817f0]: Textual amendment: [Pt. 12ZE](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZE) inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/5); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-043f2ffa14b996b394ed43ecce5817f0]: Textual amendment: [Pt. 12ZE](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZE) inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/5); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

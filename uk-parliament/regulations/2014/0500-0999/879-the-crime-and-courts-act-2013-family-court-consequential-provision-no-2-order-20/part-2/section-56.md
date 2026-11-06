@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**56.**[^key-df44cbaa81449b2bb335ba3c924e627b] In section 17—
+**56.**[^c-df44cbaa81449b2bb335ba3c924e627b] In section 17—
 
 - (a) in the title, for “magistrates’ courts” substitute “the family court in England and Wales or in magistrates’ courts in Northern Ireland”;
 - (b) in subsection (4)—
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df44cbaa81449b2bb335ba3c924e627b]: Commencement: Art. 56 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-df44cbaa81449b2bb335ba3c924e627b]: Commencement: Art. 56 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

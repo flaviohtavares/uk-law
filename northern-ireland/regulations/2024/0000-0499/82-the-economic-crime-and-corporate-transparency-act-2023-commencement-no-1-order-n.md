@@ -43,13 +43,13 @@ The Department of Justice makes the following Order, in exercise of the powers c
 
 In accordance with section 219(5) of that Act, the Department of Justice has consulted the Secretary of State
 
-## 1. Citation and interpretation[^key-f89a86a6a533d9903ff6f9889063765c]
+## 1. Citation and interpretation[^c-f89a86a6a533d9903ff6f9889063765c]
 
 (1) This Order may be cited as the Economic Crime and Corporate Transparency Act 2023 (Commencement No. 1) Order (Northern Ireland) 2024.
 
 (2) In this Order “**the 2023 Act**” means the Economic Crime and Corporate Transparency Act 2023.
 
-## 2. Appointed Day[^key-976dc148a6cdeeaa8d7a79393f1c63d0]
+## 2. Appointed Day[^c-976dc148a6cdeeaa8d7a79393f1c63d0]
 
 The day appointed for the coming into operation of Part 3 of Schedule 8 to the 2023 Act (cryptoassets: confiscation orders) and section 179 of the 2023 Act so far as it relates to Part 3 of Schedule 8 and, so far as not already in force, is 26th April 2024.
 
@@ -69,6 +69,6 @@ This Order brings into operation on 26th April 2024 Part 3 of Schedule 8 to the 
 
 [^f00001]: Footnote: [2023 c.56](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-f89a86a6a533d9903ff6f9889063765c]: Commencement: Art. 1 in operation at made date
+[^c-f89a86a6a533d9903ff6f9889063765c]: Commencement: Art. 1 in operation at made date
 
-[^key-976dc148a6cdeeaa8d7a79393f1c63d0]: Commencement: Art. 2 in operation at made date
+[^c-976dc148a6cdeeaa8d7a79393f1c63d0]: Commencement: Art. 2 in operation at made date

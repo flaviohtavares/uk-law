@@ -34,7 +34,7 @@ summary: ''
 - (j) rules 94(8) and 97(6) (making of a collective settlement approval order);
 - (k) rule 96(6) (determination of the application for a collective settlement order);
 - (l) rule 108 (decision of the Tribunal on request for permission to appeal);
-- (m)[^key-cd51f207b365cb3f240c8db3e8bf0914] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-cd51f207b365cb3f240c8db3e8bf0914] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 may be done by the President or a chairman acting alone.
 
@@ -50,4 +50,4 @@ may be done by the President or a chairman acting alone.
 
 ## Annotations
 
-[^key-cd51f207b365cb3f240c8db3e8bf0914]: Textual amendment: [Rule 110(1)(m)](https://www.legislation.gov.uk/uksi/2015/1648/rule/110/1/m) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/8/6) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd51f207b365cb3f240c8db3e8bf0914]: Textual amendment: [Rule 110(1)(m)](https://www.legislation.gov.uk/uksi/2015/1648/rule/110/1/m) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 2 para. 8(6)](https://www.legislation.gov.uk/uksi/2019/93/schedule/2/paragraph/8/6) (with [Sch. 4 paras. 7](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/7), [13](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/13)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

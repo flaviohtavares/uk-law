@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Notices[^key-6b11966d6bf33549c330048fc2ddd102]
+## 55. Notices[^c-6b11966d6bf33549c330048fc2ddd102]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ and references to serving include references to similar expressions (such as giv
 
 ## Annotations
 
-[^key-6b11966d6bf33549c330048fc2ddd102]: Commencement: S. 55 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)
+[^c-6b11966d6bf33549c330048fc2ddd102]: Commencement: S. 55 in force at 8.9.2008 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1)

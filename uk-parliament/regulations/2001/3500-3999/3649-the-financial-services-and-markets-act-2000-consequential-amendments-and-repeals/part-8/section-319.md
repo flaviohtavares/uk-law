@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. Schemes for meeting losses and liabilities of certain health service bodies[^key-4b8cadabefed119fffd994b45634e052]
+## 319. Schemes for meeting losses and liabilities of certain health service bodies[^c-4b8cadabefed119fffd994b45634e052]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b8cadabefed119fffd994b45634e052]: Textual amendment: [Art. 319](https://www.legislation.gov.uk/uksi/2001/3649/article/319) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
+[^c-4b8cadabefed119fffd994b45634e052]: Textual amendment: [Art. 319](https://www.legislation.gov.uk/uksi/2001/3649/article/319) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)

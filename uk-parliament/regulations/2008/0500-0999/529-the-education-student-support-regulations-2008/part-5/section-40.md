@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amount of the disabled students’ allowance[^key-190c89dc94daeb9072392077322bf4f5]
+## 40. Amount of the disabled students’ allowance[^c-190c89dc94daeb9072392077322bf4f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-190c89dc94daeb9072392077322bf4f5]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-190c89dc94daeb9072392077322bf4f5]: Commencement: Reg. 40 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

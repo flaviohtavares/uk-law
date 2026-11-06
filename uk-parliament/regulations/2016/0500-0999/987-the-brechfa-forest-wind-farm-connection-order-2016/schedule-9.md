@@ -24,7 +24,7 @@ Article 29
 
 ### PART 1 — For the protection of oil undertakers
 
-**1.**[^key-2f49882b29ee30340733a2e8905ca2c3] (1) For the protection of the statutory undertakers referred to in this Part of this Schedule the following provisions are to have effect, unless otherwise agreed in writing at any time between the undertaker and the statutory undertaker concerned.
+**1.**[^c-2f49882b29ee30340733a2e8905ca2c3] (1) For the protection of the statutory undertakers referred to in this Part of this Schedule the following provisions are to have effect, unless otherwise agreed in writing at any time between the undertaker and the statutory undertaker concerned.
 
 (2) In this Part of this Schedule—
 
@@ -35,11 +35,11 @@ Article 29
 - “Mainline Pipelines Limited” means Mainline Pipelines Limited (company number 00995545) whose registered office is at 11 Old Jewry, London EC2R 8DU; and
 - “statutory undertaker” means Mainline Pipelines Limited and its successors in title and function, for the area of the authorised development, and in relation to any apparatus, means the undertaker for whom it belongs or by whom it is maintained.
 
-**2.**[^key-f9d97b6ed03acee57ee0bc9f2ce37c8e] This Part of this Schedule does not apply to apparatus in respect of which the relations between the statutory undertaker and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+**2.**[^c-f9d97b6ed03acee57ee0bc9f2ce37c8e] This Part of this Schedule does not apply to apparatus in respect of which the relations between the statutory undertaker and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-**3.**[^key-46b248e64558109828c277f624600723] Regardless of any provision in this Order or anything shown on the land plans, the undertaker is not to acquire any apparatus otherwise than by agreement.
+**3.**[^c-46b248e64558109828c277f624600723] Regardless of any provision in this Order or anything shown on the land plans, the undertaker is not to acquire any apparatus otherwise than by agreement.
 
-**4.**[^key-5b8589bc6c6c7f3f1e114b6dddf3c6bb] (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus is not to be removed under this Part of this Schedule and any right of a statutory undertaker to maintain that apparatus in that land is not to be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the statutory undertaker in question.
+**4.**[^c-5b8589bc6c6c7f3f1e114b6dddf3c6bb] (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus is not to be removed under this Part of this Schedule and any right of a statutory undertaker to maintain that apparatus in that land is not to be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the statutory undertaker in question.
 
 (2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the undertaker requires the removal of any apparatus placed in that land, it must give to the statutory undertaker in question written notice of that Requirement, together with a plan and section of the work proposed.
 
@@ -51,7 +51,7 @@ Article 29
 
 (6) Nothing in sub-paragraph (5) is to authorise the undertaker to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-**5.**[^key-076fae98e23f3c9cf655449dac1d81c8] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 4(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under that paragraph, the statutory undertaker must submit to the undertaker in question a plan, section and description of the works to be executed.
+**5.**[^c-076fae98e23f3c9cf655449dac1d81c8] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 4(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under that paragraph, the statutory undertaker must submit to the undertaker in question a plan, section and description of the works to be executed.
 
 (2) Those works must be executed only in accordance with the plan, section and description submitted under sub-paragraph (1) and in accordance with such reasonable Requirements as may be made in accordance with sub-paragraph (3) by the statutory undertaker for the alteration or otherwise for the protection of the apparatus, or for securing access to it, and the statutory undertaker shall be entitled to watch and inspect the execution of those works.
 
@@ -63,7 +63,7 @@ Article 29
 
 (6) The undertaker is not to be required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to the statutory undertaker in question notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-**6.**[^key-1fc71e0582e3c57b3f5795f188f7010b] (1) Subject to the following provisions of this paragraph, the undertaker must repay to a statutory undertaker the proper and reasonable expenses reasonably incurred by that statutory undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus.
+**6.**[^c-1fc71e0582e3c57b3f5795f188f7010b] (1) Subject to the following provisions of this paragraph, the undertaker must repay to a statutory undertaker the proper and reasonable expenses reasonably incurred by that statutory undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus.
 
 (2) There is to be deducted from any sum payable under sub-paragraph (1) the value of any apparatus removed under the provisions of this Part of this Schedule, that value being calculated after removal.
 
@@ -83,11 +83,11 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### PART 2 — For the protection of National Grid Gas plc and National Grid Electricity Transmission Plc
 
-#### 1. Application[^key-0303fabe4c89acb09909d697460618af]
+#### 1. Application[^c-0303fabe4c89acb09909d697460618af]
 
 For the protection of the protected persons referred to in this part of this Schedule the following provisions shall have effect, unless otherwise agreed in writing between the undertaker and the protected person concerned.
 
-#### 2. Interpretation[^key-a28d5671226923b2917ab8d1a00eebe2]
+#### 2. Interpretation[^c-a28d5671226923b2917ab8d1a00eebe2]
 
 In this Part of this Schedule—
 
@@ -110,11 +110,11 @@ In this Part of this Schedule—
 
 **3.**[^M_I_30695893-c7e4-46b9-9d04-f4a72e855a42] Except for paragraphs 5 and 6 (retained apparatus: protection),7 (expenses) and 8 (indemnity) this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the protected person are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 4. Acquisition of land[^key-faf5855cf7ca930ae15975895c059a7e]
+#### 4. Acquisition of land[^c-faf5855cf7ca930ae15975895c059a7e]
 
 Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker shall not acquire any land interest or apparatus or override any easement or other interest of the protected person otherwise than by agreement.
 
-#### 5. Retained apparatus—Protection—Gas Protected Persons[^key-e34a28bb085e118c0eeb658c5d567831]
+#### 5. Retained apparatus—Protection—Gas Protected Persons[^c-e34a28bb085e118c0eeb658c5d567831]
 
 (1) Not less than 56 days before the commencement of any authorised works authorised by this Order that are near to, or will or may affect, or where construction access is to be taken over, any apparatus the undertaker shall submit to the protected persons in question a plan.
 
@@ -154,7 +154,7 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (12) As soon as reasonably practicable after any ground subsidence event attributable to the authorised works the undertaker shall implement an appropriate ground mitigation scheme save that the protected person retains the right to carry out any further necessary protective works for the safeguarding of its apparatus and can recover any such costs in line with paragraph 7.
 
-#### 6. Retained apparatus—Protection—Electricity Undertakers[^key-b4da455b6d309c27b2bb9ab3ace07095]
+#### 6. Retained apparatus—Protection—Electricity Undertakers[^c-b4da455b6d309c27b2bb9ab3ace07095]
 
 (1) Not less than 56 days before the commencement of any authorised works authorised by this Order that are near to, or will or may affect, or where construction access is to be taken over, any apparatus the undertaker shall submit to the protected person in question a plan and seek from National Grid details of the underground extent of their electricity tower foundations.
 
@@ -202,7 +202,7 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (12) As soon as reasonably practicable after any ground subsidence event attributable to the authorised works the undertaker shall implement an appropriate ground mitigation scheme save that the protected person retains the right to carry out any further necessary protective works for the safeguarding of its apparatus and can recover any such costs in line with paragraph 7.
 
-#### 7. Expenses[^key-42e418f0addad9359a2ebebb5d77dffb]
+#### 7. Expenses[^c-42e418f0addad9359a2ebebb5d77dffb]
 
 (1) Subject to the following provisions of this paragraph, the undertaker shall pay to a protected person on demand all charges, costs and expenses reasonably anticipated or incurred by that protected person in, or in connection with, the inspection, or protection of any apparatus of any such works as are referred to in this Schedule including without limitation—
 
@@ -215,7 +215,7 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (3) An amount which apart from this sub-paragraph would be payable to a protected person in respect of works by virtue of sub-paragraph (1) shall, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the protected person any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-#### 8. Indemnity[^key-efabb3369ae725d10db9a37dbabacd10]
+#### 8. Indemnity[^c-efabb3369ae725d10db9a37dbabacd10]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works authorised by this Schedule or in direct consequence of the construction, use, maintenance or failure of any of the authorised development by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by him) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Schedule or any subsidence resulting from any of these works), any damage is caused to any apparatus or property of a protected person, or there is any interruption in any service provided, or in the supply of any goods, by any protected person, or the protected person becomes liable to pay any amount to any third party, the undertaker shall—
 
@@ -228,27 +228,27 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (4) A protected person shall give the undertaker reasonable notice of any such claim or demand and no settlement or compromise shall be made without first consulting the undertaker and considering its representations.
 
-#### 9. Enactments and agreements[^key-7524725468954af7f528a51e7251d744]
+#### 9. Enactments and agreements[^c-7524725468954af7f528a51e7251d744]
 
 Nothing in this part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and a protected person in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 10. Co-operation[^key-782c96331ebb519d0503da5bab767459]
+#### 10. Co-operation[^c-782c96331ebb519d0503da5bab767459]
 
 Where in consequence of the proposed construction of any of the authorised development a protected person makes Requirements for the protection or alteration of apparatus under paragraphs 5 and/or 6 the undertaker shall use all reasonable endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of the protected person’s undertaking and each protected person shall use all reasonable endeavours to co-operate with the undertaker for that purpose.
 
-#### 11. Access[^key-26806aa14ca05c69f7419bf16f46d106]
+#### 11. Access[^c-26806aa14ca05c69f7419bf16f46d106]
 
 If in consequence of the agreement reached in accordance with paragraph 4 or the powers granted under this Order the access to any apparatus is materially obstructed, the undertaker shall provide such alternative means of access to such apparatus as will enable the protected person to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 12. Arbitration[^key-4ac358f7c8288234508132c142f683b1]
+#### 12. Arbitration[^c-4ac358f7c8288234508132c142f683b1]
 
 Any difference or dispute arising between the undertaker and a protected person under this Schedule shall, unless otherwise agreed in writing between the undertaker and that protected person, be determined by arbitration in accordance with article 35 (arbitration).
 
 ### PART 3 — For the protection of Dwr Cymru Cyfyngedig
 
-**1.**[^key-7cf89e11012ee553bfda3e3c8f483f36] For the protection of DCC referred to in this Part 3 of Schedule 9, the following provisions shall, unless otherwise agreed in writing between the undertaker and DCC, have effect.
+**1.**[^c-7cf89e11012ee553bfda3e3c8f483f36] For the protection of DCC referred to in this Part 3 of Schedule 9, the following provisions shall, unless otherwise agreed in writing between the undertaker and DCC, have effect.
 
-**2.**[^key-861c529a031b6091a789e11774013c7b] In this Part of this Schedule—
+**2.**[^c-861c529a031b6091a789e11774013c7b] In this Part of this Schedule—
 
 - “accessories” has the same meaning as that set out in section 219 WIA 1991 but shall also include any feature or aspect of a design that is intended to receive or facilitate the receipt of rainwater or surface water and which is part of a sustainable drainage system;
 - “DCC apparatus” means all apparatus or accessories vested in or belonging to DCC for the purpose of carrying on its statutory undertaking including reservoirs, water treatment works and waste water treatment works;
@@ -267,11 +267,11 @@ Any difference or dispute arising between the undertaker and a protected person 
 
   for the avoidance of doubt, all other terms are as defined in Article 2 of this Order.
 
-**3.**[^key-1b8e3d3ddfdd9622002bf0efe8aa1f61] (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker shall not acquire any DCC apparatus or its accessories or override or extinguish any easement or other interest of DCC or acquire any land or other interest of DCC identified in the book of reference or create any new rights over the same otherwise than by agreement with DCC in accordance with the provisions of this Schedule.
+**3.**[^c-1b8e3d3ddfdd9622002bf0efe8aa1f61] (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker shall not acquire any DCC apparatus or its accessories or override or extinguish any easement or other interest of DCC or acquire any land or other interest of DCC identified in the book of reference or create any new rights over the same otherwise than by agreement with DCC in accordance with the provisions of this Schedule.
 
 (2) Sub-paragraph (1) does not apply to the powers conferred on the undertaker by this Order to interfere temporarily with DCC’s rights to access DCC apparatus or accessories but subject always to paragraphs 7 and 8 of this Part and to the undertaker giving DCC 28 days’ notice of such interference.
 
-#### 4. Precedence of the Water Industry Act 1991[^key-1b775f380c05e021578584748da1de9a]
+#### 4. Precedence of the Water Industry Act 1991[^c-1b775f380c05e021578584748da1de9a]
 
 (1) Regardless of any provision of this Order and this Schedule the undertaker shall comply fully with all provisions of the WIA 1991 in relation to any use of, any connection with or any actions or omissions which in any way affect the DCC apparatus and nothing in this Order shall release the undertaker from the Requirement to comply with the provisions of the WIA 1991 in relation to any use of, any connection with or any actions or omissions which in any way affect the DCC apparatus, including without limitation—
 
@@ -289,7 +289,7 @@ Any difference or dispute arising between the undertaker and a protected person 
 
 (2) The arbitration provisions at article 35 or specified in this Schedule shall not apply where DCC uses a warrant of entry in accordance with the provisions of the WIA 1991.
 
-#### 5. Protection of DCC apparatus[^key-765d167db60b3df8a2d38a4ee35fb16e]
+#### 5. Protection of DCC apparatus[^c-765d167db60b3df8a2d38a4ee35fb16e]
 
 (1) Not less than 28 days before starting the execution of any works that are within the clearance area or will, or could reasonably foreseeably affect, any DCC apparatus the removal or alteration of which has not been required by the undertaker under paragraph 4(k), the undertaker shall submit to DCC written notice together with a draft specification.
 
@@ -316,7 +316,7 @@ Any difference or dispute arising between the undertaker and a protected person 
 
 (10) Any affected DCC apparatus which is no longer required by DCC but is not removed shall be transferred to the undertaker by way of a deed of transfer from DCC at the undertaker’s expense and on such terms as DCC reasonably requires.
 
-#### 6. Suspension of works[^key-a82a1f7281e21f116b4eb613abc7f0b8]
+#### 6. Suspension of works[^c-a82a1f7281e21f116b4eb613abc7f0b8]
 
 (1) DCC shall be entitled to instruct the undertaker to suspend the works if in DCC’s reasonable opinion the actions of the undertaker, or those of its contractor(s) or subcontractor(s) in carrying out the works, have caused damage to any DCC apparatus and/or are likely to cause or result in damage to any DCC apparatus and/or have caused or are likely to cause damage to the environment arising as a result of damage to DCC apparatus. In the event of such instruction being given by DCC—
 
@@ -328,11 +328,11 @@ Any difference or dispute arising between the undertaker and a protected person 
 
 (2) DCC shall be entitled to reclaim all reasonable costs of all remedial works undertaken in accordance with this paragraph 6.
 
-**7.**[^key-1c72625215178bafc0ea79c609a8ce61] (1) In the event that either the undertaker or DCC (for the purpose of this paragraph 7 “the party” or together “the parties”) wishes to take any action which would impact on the ability of the undertaker to carry out the development or DCC to carry out its statutory functions, the parties shall use reasonable endeavours to cooperate with one another in order to align work streams so to minimise or avoid disruption to the other party’s works. In respect of the references to ‘work’ and ‘works’ in this sub-paragraph 7(1), to the extent that this refers to ‘work’ or ‘works’ to be undertaken by DCC, the definition of works in paragraph 2 of this Part does not apply.
+**7.**[^c-1c72625215178bafc0ea79c609a8ce61] (1) In the event that either the undertaker or DCC (for the purpose of this paragraph 7 “the party” or together “the parties”) wishes to take any action which would impact on the ability of the undertaker to carry out the development or DCC to carry out its statutory functions, the parties shall use reasonable endeavours to cooperate with one another in order to align work streams so to minimise or avoid disruption to the other party’s works. In respect of the references to ‘work’ and ‘works’ in this sub-paragraph 7(1), to the extent that this refers to ‘work’ or ‘works’ to be undertaken by DCC, the definition of works in paragraph 2 of this Part does not apply.
 
 (2) Subject to paragraph 8, differences or disputes arising between the undertaker and DCC under this Schedule shall, unless otherwise agreed in writing between the undertaker and DCC, be determined by arbitration in accordance with article 35 (arbitration) of the Order.
 
-#### 8. Emergency Works[^key-d9966ac70bec65a2b04e3694638db7e7]
+#### 8. Emergency Works[^c-d9966ac70bec65a2b04e3694638db7e7]
 
 (1) The undertaker is permitted to carry out emergency works provided that it first notifies DCC of the proposed emergency works.
 
@@ -344,11 +344,11 @@ Any difference or dispute arising between the undertaker and a protected person 
 
 ### PART 4 — For the protection of Wales and West Utilities Limited
 
-#### 1. Application[^key-e09701aba2bdb5925727260fc15f0726]
+#### 1. Application[^c-e09701aba2bdb5925727260fc15f0726]
 
 For the protection of the protected person referred to in this part of this Schedule the following provisions shall, unless otherwise agreed in writing between the undertaker and the protected person, have effect.
 
-#### 2. Interpretation[^key-4ba0f191ee552bffd12f1b3d949cca3a]
+#### 2. Interpretation[^c-4ba0f191ee552bffd12f1b3d949cca3a]
 
 In this Part of this Schedule—
 
@@ -364,11 +364,11 @@ In this Part of this Schedule—
 
 **3.**[^M_I_4fcedfd0-f53b-4e98-9865-16b35f3e482f] Except for paragraphs 5 (retained apparatus: Protection Gas Undertakers) and 6 (expenses) this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the protected person are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 4. Acquisition of Land[^key-c33aec899c63f100a2304881cba40e4b]
+#### 4. Acquisition of Land[^c-c33aec899c63f100a2304881cba40e4b]
 
 Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference to the Order, the undertaker shall not acquire any land interest or apparatus or override any easement or other interest of the protected person otherwise than by agreement.
 
-#### 5. Retained apparatus: Protection: Protected Persons[^key-b1af97d7cfd29bcc9fedc7c7edc8bfb4]
+#### 5. Retained apparatus: Protection: Protected Persons[^c-b1af97d7cfd29bcc9fedc7c7edc8bfb4]
 
 (1) Not less than 56 days before the commencement of any authorised works authorised by this Order that are near to, or will or may affect, any apparatus the undertaker shall submit to the protected person in question a plan.
 
@@ -405,7 +405,7 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (11) At all times when carrying out any works authorised under the Order comply with Wales and West Utilities Limited’s policies for safe working in proximity to gas apparatus “Specification for safe working in the vicinity of pipelines and associated installation operating above 2 BAR’s” and HSE’s “HSG47 Avoiding Danger from underground services”.
 
-#### 6. Expenses[^key-d07438ec2f2576f00f52b127cb93c67d]
+#### 6. Expenses[^c-d07438ec2f2576f00f52b127cb93c67d]
 
 (1) Subject to the following provisions of this paragraph, the undertaker shall pay to the protected person on demand all charges, costs and expenses reasonably committed or incurred by the protected person in, or in connection with, the inspection, removal, alteration, relaying or replacing or protection of any apparatus or the construction of any new apparatus which may be required as a direct consequence of the execution of any such works as are referred to in this Schedule including without limitation—
 
@@ -418,7 +418,7 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (3) An amount which apart from this sub-paragraph would be payable to the protected person in respect of works by virtue of sub-paragraph (1) shall, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the protected person any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-#### 7. Indemnity[^key-90f61580440311737265d448d297cd60]
+#### 7. Indemnity[^c-90f61580440311737265d448d297cd60]
 
 (1) If by reason or in consequence of the construction of any such works authorised by this Order or in consequence of the construction, use, maintenance or failure of any of the authorised works by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by him) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Order or any subsidence resulting from any of these works), any damage is caused to any apparatus or property of the protected person, or there is any interruption in any service provided, or in the supply of any goods, by any protected person, or the protected person becomes liable to pay any amount to any third party, the undertaker shall—
 
@@ -433,27 +433,27 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (5) Notwithstanding any other provision in this Schedule and or the provisions of sub-paragraph 7(2) of this Schedule and for the avoidance of doubt, the protected person shall not be deemed whether by admission, approval, consent, confirmation, acknowledgement, inspection or otherwise to have assumed any responsibility for the plan or any authorised works (without limitation) carried out or to be carried out nor shall the protected person be deemed to have accepted, acknowledged or given or made any representation that the authorised works shall not cause any damage to any Apparatus.
 
-#### 8. Enactments and agreements[^key-b3118a8d6c0a6f09fc36bfd01f42119d]
+#### 8. Enactments and agreements[^c-b3118a8d6c0a6f09fc36bfd01f42119d]
 
 Nothing in this part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and a protected person in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 9. Co-operation[^key-25292eeec3cd1b68377fd8426fd4f574]
+#### 9. Co-operation[^c-25292eeec3cd1b68377fd8426fd4f574]
 
 Where in consequence of the proposed construction of any of the authorised works the protected person makes Requirements for the protection or alteration of apparatus under paragraphs 5 the undertaker shall use all reasonable endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of the protected person’s undertaking and the protected person shall use all reasonable endeavours to co-operate with the undertaker for that purpose.
 
-#### 10. Access[^key-e4c65fb1cdacf692a62b0e54eaa59336]
+#### 10. Access[^c-e4c65fb1cdacf692a62b0e54eaa59336]
 
 If in consequence of the powers granted under this Order the access to any apparatus is materially obstructed, the undertaker shall provide such alternative means of access to such apparatus as will enable the protected person to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 11. Arbitration[^key-bb10814d099b499ec80a77cdc5fe85f5]
+#### 11. Arbitration[^c-bb10814d099b499ec80a77cdc5fe85f5]
 
 Any difference or dispute arising between the undertaker and the protected person under this Schedule shall, unless otherwise agreed in writing between the undertaker and the protected person, be determined by arbitration in accordance with article 35 (arbitration).
 
 ### PART 5 — For the protection of operators of electronic communications code networks
 
-**1.**[^key-ea457ed73837ba8660a76c1b72dcb73d] For the protection of any operator, the following provisions are to have effect, unless otherwise agreed in writing between the undertaker and the operator.
+**1.**[^c-ea457ed73837ba8660a76c1b72dcb73d] For the protection of any operator, the following provisions are to have effect, unless otherwise agreed in writing between the undertaker and the operator.
 
-**2.**[^key-6fa34360b2d5e97537c8d7155f51b816] In this Part of this Schedule—
+**2.**[^c-6fa34360b2d5e97537c8d7155f51b816] In this Part of this Schedule—
 
 - “the 2003 Act” means the Communications Act 2003[^f00027];
 - “conduit system” has the same meaning as in the electronic communications code and references to providing a conduit system are to be construed in accordance with paragraph 1(3A) of that code;
@@ -465,115 +465,115 @@ Any difference or dispute arising between the undertaker and the protected perso
 - “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106 of, or paragraph 17 of Schedule 18 to, the 2003 Act; and
 - “operator” means the operator of an electronic communications code network.
 
-**3.**[^key-2b537bf01e7cac2257b4c83d23b95e6d] The exercise of the powers of article 30 (statutory undertakers) are subject to paragraph 23 of Schedule 2 to the Telecommunications Act 1984[^f00028].
+**3.**[^c-2b537bf01e7cac2257b4c83d23b95e6d] The exercise of the powers of article 30 (statutory undertakers) are subject to paragraph 23 of Schedule 2 to the Telecommunications Act 1984[^f00028].
 
-**4.**[^key-4faf5a2e7d9ff29c81eca979bc673540] (1) Subject to sub-paragraphs (2) and (3), if as the result of the authorised development or their construction, or of any subsidence resulting from any of those works any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works, or other property of an operator) the undertaker must bear and pay the cost reasonably and properly incurred by the operator in making good such damage.
+**4.**[^c-4faf5a2e7d9ff29c81eca979bc673540] (1) Subject to sub-paragraphs (2) and (3), if as the result of the authorised development or their construction, or of any subsidence resulting from any of those works any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works, or other property of an operator) the undertaker must bear and pay the cost reasonably and properly incurred by the operator in making good such damage.
 
 (2) Nothing in sub-paragraph (1) is to impose any liability on the undertaker with respect to any damage to the extent that it is attributable to the act, neglect or default of an operator, its officers, servants, contractors or agents.
 
 (3) Any difference arising between the undertaker and the operator under this paragraph is to be referred to and settled by arbitration under article 35 (arbitration).
 
-**5.**[^key-7ea4601644bf522505a1fad6b003e34d] This Part of this Schedule does not apply to—
+**5.**[^c-7ea4601644bf522505a1fad6b003e34d] This Part of this Schedule does not apply to—
 
 - (a) any apparatus in respect of which the relations between the undertaker and an operator are regulated by the provisions of Part 3 of the 1991 Act; or
 - (b) any damage caused by electro-magnetic interference arising from the construction or use of the authorised development.
 
-**6.**[^key-526d8ae651787fd37e0256bd7bd0c279] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
+**6.**[^c-526d8ae651787fd37e0256bd7bd0c279] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
 ## Annotations
 
-[^key-2f49882b29ee30340733a2e8905ca2c3]: Commencement: [Sch. 9 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-2f49882b29ee30340733a2e8905ca2c3]: Commencement: [Sch. 9 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00024]: Footnote: [1962 c.58](https://www.legislation.gov.uk/ukpga/1962/58).
 
-[^key-f9d97b6ed03acee57ee0bc9f2ce37c8e]: Commencement: [Sch. 9 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-f9d97b6ed03acee57ee0bc9f2ce37c8e]: Commencement: [Sch. 9 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-46b248e64558109828c277f624600723]: Commencement: [Sch. 9 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-46b248e64558109828c277f624600723]: Commencement: [Sch. 9 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-5b8589bc6c6c7f3f1e114b6dddf3c6bb]: Commencement: [Sch. 9 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-5b8589bc6c6c7f3f1e114b6dddf3c6bb]: Commencement: [Sch. 9 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-076fae98e23f3c9cf655449dac1d81c8]: Commencement: [Sch. 9 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-076fae98e23f3c9cf655449dac1d81c8]: Commencement: [Sch. 9 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-1fc71e0582e3c57b3f5795f188f7010b]: Commencement: [Sch. 9 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-1fc71e0582e3c57b3f5795f188f7010b]: Commencement: [Sch. 9 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/1/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-0303fabe4c89acb09909d697460618af]: Commencement: [Sch. 9 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-0303fabe4c89acb09909d697460618af]: Commencement: [Sch. 9 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-a28d5671226923b2917ab8d1a00eebe2]: Commencement: [Sch. 9 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-a28d5671226923b2917ab8d1a00eebe2]: Commencement: [Sch. 9 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00025]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44).
 
 [^M_I_30695893-c7e4-46b9-9d04-f4a72e855a42]: Commencement: [Sch. 9 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-faf5855cf7ca930ae15975895c059a7e]: Commencement: [Sch. 9 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-faf5855cf7ca930ae15975895c059a7e]: Commencement: [Sch. 9 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-e34a28bb085e118c0eeb658c5d567831]: Commencement: [Sch. 9 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-e34a28bb085e118c0eeb658c5d567831]: Commencement: [Sch. 9 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-b4da455b6d309c27b2bb9ab3ace07095]: Commencement: [Sch. 9 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-b4da455b6d309c27b2bb9ab3ace07095]: Commencement: [Sch. 9 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-42e418f0addad9359a2ebebb5d77dffb]: Commencement: [Sch. 9 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/7) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-42e418f0addad9359a2ebebb5d77dffb]: Commencement: [Sch. 9 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/7) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-efabb3369ae725d10db9a37dbabacd10]: Commencement: [Sch. 9 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/8) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-efabb3369ae725d10db9a37dbabacd10]: Commencement: [Sch. 9 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/8) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-7524725468954af7f528a51e7251d744]: Commencement: [Sch. 9 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/9) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-7524725468954af7f528a51e7251d744]: Commencement: [Sch. 9 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/9) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-782c96331ebb519d0503da5bab767459]: Commencement: [Sch. 9 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/10) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-782c96331ebb519d0503da5bab767459]: Commencement: [Sch. 9 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/10) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-26806aa14ca05c69f7419bf16f46d106]: Commencement: [Sch. 9 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/11) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-26806aa14ca05c69f7419bf16f46d106]: Commencement: [Sch. 9 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/2/paragraph/11) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-4ac358f7c8288234508132c142f683b1]: Commencement: Sch. 9 Pt. 2 para. 12 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-4ac358f7c8288234508132c142f683b1]: Commencement: Sch. 9 Pt. 2 para. 12 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-7cf89e11012ee553bfda3e3c8f483f36]: Commencement: [Sch. 9 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-7cf89e11012ee553bfda3e3c8f483f36]: Commencement: [Sch. 9 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-861c529a031b6091a789e11774013c7b]: Commencement: [Sch. 9 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-861c529a031b6091a789e11774013c7b]: Commencement: [Sch. 9 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00026]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-1b8e3d3ddfdd9622002bf0efe8aa1f61]: Commencement: [Sch. 9 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-1b8e3d3ddfdd9622002bf0efe8aa1f61]: Commencement: [Sch. 9 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-1b775f380c05e021578584748da1de9a]: Commencement: [Sch. 9 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-1b775f380c05e021578584748da1de9a]: Commencement: [Sch. 9 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-765d167db60b3df8a2d38a4ee35fb16e]: Commencement: [Sch. 9 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-765d167db60b3df8a2d38a4ee35fb16e]: Commencement: [Sch. 9 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-a82a1f7281e21f116b4eb613abc7f0b8]: Commencement: [Sch. 9 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-a82a1f7281e21f116b4eb613abc7f0b8]: Commencement: [Sch. 9 Pt. 3 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-1c72625215178bafc0ea79c609a8ce61]: Commencement: [Sch. 9 Pt. 3 para. 7](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/7) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-1c72625215178bafc0ea79c609a8ce61]: Commencement: [Sch. 9 Pt. 3 para. 7](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/7) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-d9966ac70bec65a2b04e3694638db7e7]: Commencement: [Sch. 9 Pt. 3 para. 8](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/8) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-d9966ac70bec65a2b04e3694638db7e7]: Commencement: [Sch. 9 Pt. 3 para. 8](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/3/paragraph/8) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-e09701aba2bdb5925727260fc15f0726]: Commencement: [Sch. 9 Pt. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-e09701aba2bdb5925727260fc15f0726]: Commencement: [Sch. 9 Pt. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-4ba0f191ee552bffd12f1b3d949cca3a]: Commencement: [Sch. 9 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-4ba0f191ee552bffd12f1b3d949cca3a]: Commencement: [Sch. 9 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^M_I_4fcedfd0-f53b-4e98-9865-16b35f3e482f]: Commencement: [Sch. 9 Pt. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-c33aec899c63f100a2304881cba40e4b]: Commencement: [Sch. 9 Pt. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-c33aec899c63f100a2304881cba40e4b]: Commencement: [Sch. 9 Pt. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-b1af97d7cfd29bcc9fedc7c7edc8bfb4]: Commencement: [Sch. 9 Pt. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-b1af97d7cfd29bcc9fedc7c7edc8bfb4]: Commencement: [Sch. 9 Pt. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-d07438ec2f2576f00f52b127cb93c67d]: Commencement: [Sch. 9 Pt. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-d07438ec2f2576f00f52b127cb93c67d]: Commencement: [Sch. 9 Pt. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-90f61580440311737265d448d297cd60]: Commencement: [Sch. 9 Pt. 4 para. 7](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/7) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-90f61580440311737265d448d297cd60]: Commencement: [Sch. 9 Pt. 4 para. 7](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/7) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-b3118a8d6c0a6f09fc36bfd01f42119d]: Commencement: [Sch. 9 Pt. 4 para. 8](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/8) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-b3118a8d6c0a6f09fc36bfd01f42119d]: Commencement: [Sch. 9 Pt. 4 para. 8](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/8) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-25292eeec3cd1b68377fd8426fd4f574]: Commencement: [Sch. 9 Pt. 4 para. 9](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/9) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-25292eeec3cd1b68377fd8426fd4f574]: Commencement: [Sch. 9 Pt. 4 para. 9](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/9) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-e4c65fb1cdacf692a62b0e54eaa59336]: Commencement: [Sch. 9 Pt. 4 para. 10](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/10) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-e4c65fb1cdacf692a62b0e54eaa59336]: Commencement: [Sch. 9 Pt. 4 para. 10](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/10) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-bb10814d099b499ec80a77cdc5fe85f5]: Commencement: [Sch. 9 Pt. 4 para. 11](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/11) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-bb10814d099b499ec80a77cdc5fe85f5]: Commencement: [Sch. 9 Pt. 4 para. 11](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/4/paragraph/11) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-ea457ed73837ba8660a76c1b72dcb73d]: Commencement: [Sch. 9 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-ea457ed73837ba8660a76c1b72dcb73d]: Commencement: [Sch. 9 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/1) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-6fa34360b2d5e97537c8d7155f51b816]: Commencement: [Sch. 9 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-6fa34360b2d5e97537c8d7155f51b816]: Commencement: [Sch. 9 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/2) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00027]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to the Act which are not relevant to this Order.
 
-[^key-2b537bf01e7cac2257b4c83d23b95e6d]: Commencement: [Sch. 9 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-2b537bf01e7cac2257b4c83d23b95e6d]: Commencement: [Sch. 9 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/3) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00028]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12). There are amendments to the Act which are not relevant to this Order.
 
-[^key-4faf5a2e7d9ff29c81eca979bc673540]: Commencement: [Sch. 9 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-4faf5a2e7d9ff29c81eca979bc673540]: Commencement: [Sch. 9 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/4) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-7ea4601644bf522505a1fad6b003e34d]: Commencement: [Sch. 9 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-7ea4601644bf522505a1fad6b003e34d]: Commencement: [Sch. 9 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/5) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
-[^key-526d8ae651787fd37e0256bd7bd0c279]: Commencement: [Sch. 9 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-526d8ae651787fd37e0256bd7bd0c279]: Commencement: [Sch. 9 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/987/schedule/9/part/5/paragraph/6) in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

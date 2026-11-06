@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97ZA. Installation and use of recording equipment: AETR requirements[^key-65ac7c299b60264567fc5009100a60ce]
+## 97ZA. Installation and use of recording equipment: AETR requirements[^c-65ac7c299b60264567fc5009100a60ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ the employer also commits an offence and shall be liable on summary conviction t
 
 ## Annotations
 
-[^key-65ac7c299b60264567fc5009100a60ce]: Textual amendment: [Ss. 97ZA-97ZC](https://www.legislation.gov.uk/ukpga/1968/73/section/97ZA) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/453/regulation/5)
+[^c-65ac7c299b60264567fc5009100a60ce]: Textual amendment: [Ss. 97ZA-97ZC](https://www.legislation.gov.uk/ukpga/1968/73/section/97ZA) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/453/regulation/5)

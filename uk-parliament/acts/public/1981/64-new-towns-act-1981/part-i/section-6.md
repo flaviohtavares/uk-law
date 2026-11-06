@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Allocation or transfer of new town functions.[^key-fda5cde8e42fe865031ab21afe654e07]
+## 6. Allocation or transfer of new town functions.[^c-fda5cde8e42fe865031ab21afe654e07]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ the Secretary of State shall consult with that corporation.
 
 ## Annotations
 
-[^key-fda5cde8e42fe865031ab21afe654e07]: Modification: S. 6 modified (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/891/regulation/5/b)
+[^c-fda5cde8e42fe865031ab21afe654e07]: Modification: S. 6 modified (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/891/regulation/5/b)

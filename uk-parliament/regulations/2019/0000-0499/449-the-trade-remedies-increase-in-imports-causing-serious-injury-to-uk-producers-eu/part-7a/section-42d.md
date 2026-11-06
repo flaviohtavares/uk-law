@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42D. Conduct[^key-00f86e4c54f9730392b505827865b475]
+## 42D. Conduct[^c-00f86e4c54f9730392b505827865b475]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Parts 2 to 5 apply to the international dispute investigation to the extent the 
 
 ## Annotations
 
-[^key-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)
+[^c-00f86e4c54f9730392b505827865b475]: Textual amendment: Pt. 7A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/99/regulation/10)

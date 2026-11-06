@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-38657e998b1ab69ab1f236d25654dc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-38657e998b1ab69ab1f236d25654dc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-38657e998b1ab69ab1f236d25654dc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-38657e998b1ab69ab1f236d25654dc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-38657e998b1ab69ab1f236d25654dc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-38657e998b1ab69ab1f236d25654dc47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If before the commencement of section 136 any statement was made by or on behalf of the Secretary of State—
 
@@ -43,4 +43,4 @@ shall be as effective, in relation to those determinations, as if that section h
 
 ## Annotations
 
-[^key-38657e998b1ab69ab1f236d25654dc47]: Textual amendment: [S. 137(1)-(3)](https://www.legislation.gov.uk/ukpga/1993/28/section/137/1) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 14 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-38657e998b1ab69ab1f236d25654dc47]: Textual amendment: [S. 137(1)-(3)](https://www.legislation.gov.uk/ukpga/1993/28/section/137/1) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 14 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3/4), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

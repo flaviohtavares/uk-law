@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Adjustment , waiver reduction or refund of periodic fees[^key-5e82b2bf899eb9375c1927f2d47f6662]
+## SCHEDULE 8 — Adjustment , waiver reduction or refund of periodic fees[^c-5e82b2bf899eb9375c1927f2d47f6662]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ the licensing authority shall refund the whole or any part of the difference bet
 
 (3) If during a fee period the number of special import notices given by a licence holder is less than the estimated number notified by the licensing authority in accordance with paragraph 15 of Part 3 of Schedule 4, the licensing authority shall refund the difference, if any, between the amount payable in accordance with that paragraph and the amount which would have been payable if the estimated number notified by the licensing authority for that fee period had been the same as the actual number of notices given during that year.
 
-### 2A. Waiver or refund: converted EU marketing authorisations[^key-e4c9df5adfb53bb4c6de0330b076328b]
+### 2A. Waiver or refund: converted EU marketing authorisations[^c-e4c9df5adfb53bb4c6de0330b076328b]
 
 (1) Where the licensing authority revokes a converted EU marketing authorisation in accordance with paragraph 6(3) of Schedule 33A to the Human Medicines Regulations, the periodic fee payable under regulation 38(1) in relation to that authorisation shall be refunded, or if it has not yet been paid, shall be waived.
 
@@ -51,6 +51,6 @@ Any sums payable to the applicant by way of refund of any fees under the provisi
 
 ## Annotations
 
-[^key-5e82b2bf899eb9375c1927f2d47f6662]: Textual amendment: Word in [Sch. 8](https://www.legislation.gov.uk/uksi/2016/190/schedule/8) heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/10/2) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e82b2bf899eb9375c1927f2d47f6662]: Textual amendment: Word in [Sch. 8](https://www.legislation.gov.uk/uksi/2016/190/schedule/8) heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/10/2) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e4c9df5adfb53bb4c6de0330b076328b]: Textual amendment: [Sch. 8 para. 2A](https://www.legislation.gov.uk/uksi/2016/190/schedule/8/paragraph/2A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/10/3) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4c9df5adfb53bb4c6de0330b076328b]: Textual amendment: [Sch. 8 para. 2A](https://www.legislation.gov.uk/uksi/2016/190/schedule/8/paragraph/2A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/10/3) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

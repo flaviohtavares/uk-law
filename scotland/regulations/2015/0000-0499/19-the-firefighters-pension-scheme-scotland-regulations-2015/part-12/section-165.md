@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Set-off[^key-c4d75f931db73b18c2fd7ee07cdcec27]
+## 165. Set-off[^c-c4d75f931db73b18c2fd7ee07cdcec27]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d75f931db73b18c2fd7ee07cdcec27]: Commencement: [Reg. 165](https://www.legislation.gov.uk/ssi/2015/19/regulation/165) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-c4d75f931db73b18c2fd7ee07cdcec27]: Commencement: [Reg. 165](https://www.legislation.gov.uk/ssi/2015/19/regulation/165) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00062]: Footnote: Section 124(1) was amended by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 12, paragraphs 43 and 61, the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19), Schedule 5, paragraph 8, the Pensions Act 2004, section 7(2), Schedule 12, paragraphs 34, 43 and 69 and Schedule 13, Part 1 and [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053), [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745) and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 

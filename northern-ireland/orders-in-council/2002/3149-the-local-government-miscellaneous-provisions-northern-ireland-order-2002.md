@@ -27,7 +27,7 @@ summary: ''
 
 2002 No. 3149 (N.I. 3)
 
-The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^key-9715e0486c4504dcc2d830197a437dcb]
+The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^c-9715e0486c4504dcc2d830197a437dcb]
 
 17th December 2002
 
@@ -104,8 +104,8 @@ The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^k
 
 (1) A district council may—
 
-- (a)[^key-0fef4bf9909fa9d52ebe853853c228a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) take action in accordance with any plan prepared by, or proposals agreed by, a policing and community safety partnership or district policing and community safety partnership established by it[^key-8395c0809477f7901e5ffac681b8dd00];
+- (a)[^c-0fef4bf9909fa9d52ebe853853c228a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) take action in accordance with any plan prepared by, or proposals agreed by, a policing and community safety partnership or district policing and community safety partnership established by it[^c-8395c0809477f7901e5ffac681b8dd00];
 - (c) accept financial or other support provided by such a partnership; and
 - (d) generally assist (whether financially or otherwise) and facilitate such a partnership in the exercise of its functions.
 
@@ -115,9 +115,9 @@ The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^k
 
 (4) In this Article—
 
-- [^key-033384051d04d3a2684f91d5c51257e0]...
+- [^c-033384051d04d3a2684f91d5c51257e0]...
 - “the enhancement of community safety”, in relation to any district, means making the district one in which it is, and is perceived to be, safer to live and work, in particular by the reduction of actual and perceived levels of crime and other anti-social behaviour;
-- [^key-033384051d04d3a2684f91d5c51257e0]...
+- [^c-033384051d04d3a2684f91d5c51257e0]...
 
 *Article 10—Repeals*
 
@@ -125,7 +125,7 @@ The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^k
 
 ## Annotations
 
-[^key-9715e0486c4504dcc2d830197a437dcb]: Modification: [Order](https://www.legislation.gov.uk/nisi/2002/3149): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-9715e0486c4504dcc2d830197a437dcb]: Modification: [Order](https://www.legislation.gov.uk/nisi/2002/3149): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c22334521]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/nisi/2002/3149/article/3) repealed (1.4.2012) by [Local Government Finance Act (Northern Ireland) 2011 (c. 10)](https://www.legislation.gov.uk/nia/2011/10), [ss. 46](https://www.legislation.gov.uk/nia/2011/10/section/46), [47(2)](https://www.legislation.gov.uk/nia/2011/10/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/10/schedule/2); [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
 
@@ -137,8 +137,8 @@ The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002[^k
 
 [^c22334561]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/nisi/2002/3149/article/3) repealed (1.4.2012) by [Local Government Finance Act (Northern Ireland) 2011 (c. 10)](https://www.legislation.gov.uk/nia/2011/10), [ss. 46](https://www.legislation.gov.uk/nia/2011/10/section/46), [47(2)](https://www.legislation.gov.uk/nia/2011/10/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/10/schedule/2); [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
 
-[^key-0fef4bf9909fa9d52ebe853853c228a4]: Textual amendment: Art. 9(1)(a) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 7 para. 10(1)(a)](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10/1/a), [8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d/e)
+[^c-0fef4bf9909fa9d52ebe853853c228a4]: Textual amendment: Art. 9(1)(a) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 7 para. 10(1)(a)](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10/1/a), [8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d/e)
 
-[^key-8395c0809477f7901e5ffac681b8dd00]: Textual amendment: Words in art. 9(1)(b) substituted (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 7 para. 10(1)(b)](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10/1/b) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
+[^c-8395c0809477f7901e5ffac681b8dd00]: Textual amendment: Words in art. 9(1)(b) substituted (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 7 para. 10(1)(b)](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10/1/b) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d)
 
-[^key-033384051d04d3a2684f91d5c51257e0]: Textual amendment: Words in art. 9(4) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10/2), [8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d/e)
+[^c-033384051d04d3a2684f91d5c51257e0]: Textual amendment: Words in art. 9(4) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/nia/2011/24/schedule/7/paragraph/10/2), [8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(d)(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/d/e)

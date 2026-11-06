@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Friendly societies: exemption from tax in respect of life or endowment business[^key-da63a52075aee3131bf80bd5f2e13bd9]
+## 32. Friendly societies: exemption from tax in respect of life or endowment business[^c-da63a52075aee3131bf80bd5f2e13bd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-da63a52075aee3131bf80bd5f2e13bd9]: Commencement: Art. 32 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-da63a52075aee3131bf80bd5f2e13bd9]: Commencement: Art. 32 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00036]: Footnote: Section 460 was relevantly amended by paragraph 6 of Schedule 9 to the Finance Act 1990, paragraph 5(5) of Schedule 9 to the Finance (No. 2) Act 1992 and paragraph 1(1) and (2)(c) of Schedule 9 to the Finance Act 1995.
 

@@ -34,7 +34,7 @@ summary: ''
 - (a) advocating or initiating any cause or matter on behalf of any person, by any means specified in the provision, in consideration of any payment or benefit in kind of a description so specified, or
 - (b) urging, in consideration of any such payment or benefit in kind, any other member of the Parliament to advocate or initiate any cause or matter on behalf of any person by any such means.
 
-(4A)[^key-c1af60abb01d52be501bccd7a4ba9081] Any requirement or prohibition (however expressed) imposed by provision made in pursuance of subsections (2) to (4) may be subject to such exceptions as are specified in the provision.
+(4A)[^c-c1af60abb01d52be501bccd7a4ba9081] Any requirement or prohibition (however expressed) imposed by provision made in pursuance of subsections (2) to (4) may be subject to such exceptions as are specified in the provision.
 
 (5) Provision may be made for—
 
@@ -58,4 +58,4 @@ if the member fails to comply with, or contravenes, any provision made in pursua
 
 [^c20302731]: Modification: S. 39(2)(b) modified (S.) by [Interests of Members of the Scottish Parliament Act 2006 (asp 12)](https://www.legislation.gov.uk/asp/2006/12), [s. 12(3)](https://www.legislation.gov.uk/asp/2006/12/section/12/3) (the modification coming into force on the day after the date of the first dissolution of the Parliament following the date of Royal Assent in accordance with s. 21(4) of the modifying Act, which first dissolution began at midnight on 2.4.2007)
 
-[^key-c1af60abb01d52be501bccd7a4ba9081]: Textual amendment: S. 39(4A)-(7) substituted (3.7.2012) for s. 39(5)-(7) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/7/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 7(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/7/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/c)
+[^c-c1af60abb01d52be501bccd7a4ba9081]: Textual amendment: S. 39(4A)-(7) substituted (3.7.2012) for s. 39(5)-(7) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/7/2), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 7(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/7/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/c)

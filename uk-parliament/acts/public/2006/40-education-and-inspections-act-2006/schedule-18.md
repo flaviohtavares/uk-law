@@ -29,7 +29,7 @@ Section 184
 | Education Act 1996 (c. 56) | In section 444—<br>- in subsection (1A), the words “without reasonable justification”, and<br>- in subsection (3), paragraph (b) and the word “or” immediately following it. |
 | Education Act 2002 (c. 32) | In section 1(3), the definition of “qualifying school”.<br>Section 2(7) and (8).<br>In Schedule 21, paragraph 54. |
 
-### Part 2 — Repeals coming into force in accordance with section 188(2)[^key-01f1658eff9f4bcbe7e41b01bf1d7700]
+### Part 2 — Repeals coming into force in accordance with section 188(2)[^c-01f1658eff9f4bcbe7e41b01bf1d7700]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -40,7 +40,7 @@ Section 184
 | Education Act 2002 (c. 32) | Section 159(3).<br>In Schedule 21, paragraph 110(3). |
 | Education Act 2005 (c. 18) | In Schedule 9, paragraph 21. |
 
-### Part 3 — School organisation[^key-46159d76440a8d6bdc97c5a7efd2c053]
+### Part 3 — School organisation[^c-46159d76440a8d6bdc97c5a7efd2c053]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -54,7 +54,7 @@ Section 184
 | Education Act 2002 (c. 32) | Section 73.<br>In Schedule 21, paragraph 53. |
 | Education Act 2005 (c. 18) | Sections 64 to 67.<br>In section 68(1), in paragraph (a) the words “, 28A”, and paragraphs (d) and (e).<br>Section 69(a).<br>Section 73.<br>Schedules 10 and 11.<br>In Schedule 12, paragraphs 1(2), 2, 3, 5, 6 and 9 to 12. |
 
-### Part 4 — Schools causing concern[^key-dd83c7cd8489be2805a40641a643af70]
+### Part 4 — Schools causing concern[^c-dd83c7cd8489be2805a40641a643af70]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -63,7 +63,7 @@ Section 184
 | Education Act 2002 (c. 32) | In section 63(5), the words “of the Secretary of State or, as the case may be,”. |
 | Education Act 2005 (c. 18) | In section 17(1), all the words following paragraph (b).<br>In section 18, in paragraph (a) of the definition of “the appropriate appointing authority”, the words “, a Church in Wales school”.<br>In Schedule 5, paragraph 3(14). |
 
-### Part 5 — Inspections[^key-4a3e01bf3ad753d187be33ea51abcc1f][^key-43353a902a072a9c1f0653b90b456abc]
+### Part 5 — Inspections[^c-4a3e01bf3ad753d187be33ea51abcc1f][^c-43353a902a072a9c1f0653b90b456abc]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -92,7 +92,7 @@ Section 184
 | Education Act 2005 (c. 18) | Sections 1 to 4.<br>In section 5(5), the word “and” at the end of paragraph (e).<br>In section 9, “2(2)(b) or”.<br>Section 11(2) to (4).<br>Schedule 1.<br>In Schedule 7, paragraphs 1 and 4(5).<br>In Schedule 9, paragraph 5. |
 | Childcare Act 2006 (c. 21) | Section 14.<br>Section 31.<br>Section 50(4).<br>Section 61(4).<br>In section 77, in each of subsections (1) and (2) the words “A person authorised for the purposes of this subsection by”, and subsection (7).<br>Sections 80 and 81. |
 
-### Part 6 — Other repeals[^key-0596e78d37e09cb89658c282ee65f935][^key-d9d0f9cc984f43a65fba0fe6b5357abd][^key-bf7b24f54530acfa90692d2c9fcf685d][^key-f47bd261d6e027addd1845350e5974ca][^key-d1c31adbb8c9e6f6cc5881e741c0858b][^key-86e36dc28bbd5bb6cec5620baa5d78d7][^key-fb0be9defe5dbf34fb5345811795dbea][^key-64b783daaf0998c67ace52552b5de55e][^key-488ed166ab7f18ad90443c01ec46dc4e][^key-88f9453a0b08892194b2c160a87b1541][^key-97520a2f05b9e6f0b4dc0002980eb16b][^key-791751cf3796f0b744b3fa4aba791756][^key-a7c97fc8bb80e969908896a18c6724af][^key-b75bf8dd0a5ef59f83dd558674ba58aa][^key-31b119550f5cfe2600149f82a4f4f0ca][^key-d24923f7a960fe368292a425f7bdcc7d][^key-d3d252ce2cb64250a45cbc66dabbe84e]
+### Part 6 — Other repeals[^c-0596e78d37e09cb89658c282ee65f935][^c-d9d0f9cc984f43a65fba0fe6b5357abd][^c-bf7b24f54530acfa90692d2c9fcf685d][^c-f47bd261d6e027addd1845350e5974ca][^c-d1c31adbb8c9e6f6cc5881e741c0858b][^c-86e36dc28bbd5bb6cec5620baa5d78d7][^c-fb0be9defe5dbf34fb5345811795dbea][^c-64b783daaf0998c67ace52552b5de55e][^c-488ed166ab7f18ad90443c01ec46dc4e][^c-88f9453a0b08892194b2c160a87b1541][^c-97520a2f05b9e6f0b4dc0002980eb16b][^c-791751cf3796f0b744b3fa4aba791756][^c-a7c97fc8bb80e969908896a18c6724af][^c-b75bf8dd0a5ef59f83dd558674ba58aa][^c-31b119550f5cfe2600149f82a4f4f0ca][^c-d24923f7a960fe368292a425f7bdcc7d][^c-d3d252ce2cb64250a45cbc66dabbe84e]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -106,46 +106,46 @@ Section 184
 
 ## Annotations
 
-[^key-01f1658eff9f4bcbe7e41b01bf1d7700]: Commencement: Sch. 18 Pt. 2 in force at 8.1.2007, see s. 188(2)
+[^c-01f1658eff9f4bcbe7e41b01bf1d7700]: Commencement: Sch. 18 Pt. 2 in force at 8.1.2007, see s. 188(2)
 
-[^key-46159d76440a8d6bdc97c5a7efd2c053]: Commencement: [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
+[^c-46159d76440a8d6bdc97c5a7efd2c053]: Commencement: [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
 
-[^key-dd83c7cd8489be2805a40641a643af70]: Commencement: [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/4) in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ii)
+[^c-dd83c7cd8489be2805a40641a643af70]: Commencement: [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/4) in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ii)
 
-[^key-4a3e01bf3ad753d187be33ea51abcc1f]: Commencement: [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5) in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ii)
+[^c-4a3e01bf3ad753d187be33ea51abcc1f]: Commencement: [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5) in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ii)
 
-[^key-43353a902a072a9c1f0653b90b456abc]: Commencement: [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5) in force at 30.6.2008 for specified purposes by [S.I. 2008/1429](https://www.legislation.gov.uk/wsi/2008/1429), [art. 3(2)](https://www.legislation.gov.uk/wsi/2008/1429/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2008/1429/schedule/part/2)
+[^c-43353a902a072a9c1f0653b90b456abc]: Commencement: [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5) in force at 30.6.2008 for specified purposes by [S.I. 2008/1429](https://www.legislation.gov.uk/wsi/2008/1429), [art. 3(2)](https://www.legislation.gov.uk/wsi/2008/1429/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2008/1429/schedule/part/2)
 
-[^key-0596e78d37e09cb89658c282ee65f935]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 12.12.2006 for specified purposes for E. by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/k)
+[^c-0596e78d37e09cb89658c282ee65f935]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 12.12.2006 for specified purposes for E. by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/k)
 
-[^key-d9d0f9cc984f43a65fba0fe6b5357abd]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 8.1.2007 for specified purposes for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3400/article/2/e)
+[^c-d9d0f9cc984f43a65fba0fe6b5357abd]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 8.1.2007 for specified purposes for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3400/article/2/e)
 
-[^key-bf7b24f54530acfa90692d2c9fcf685d]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 8.1.2007 for specified purposes by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(h)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/h)
+[^c-bf7b24f54530acfa90692d2c9fcf685d]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 8.1.2007 for specified purposes by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(h)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/h)
 
-[^key-f47bd261d6e027addd1845350e5974ca]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 8.2.2007 for specified purposes for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 4(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/4/d)
+[^c-f47bd261d6e027addd1845350e5974ca]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 8.2.2007 for specified purposes for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 4(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/4/d)
 
-[^key-d1c31adbb8c9e6f6cc5881e741c0858b]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 27.2.2007 for specified purposes for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(g)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/g)
+[^c-d1c31adbb8c9e6f6cc5881e741c0858b]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 27.2.2007 for specified purposes for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(g)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/g)
 
-[^key-86e36dc28bbd5bb6cec5620baa5d78d7]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 27.2.2007 for specified purposes by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 7(e)](https://www.legislation.gov.uk/uksi/2006/3400/article/7/e)
+[^c-86e36dc28bbd5bb6cec5620baa5d78d7]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 27.2.2007 for specified purposes by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 7(e)](https://www.legislation.gov.uk/uksi/2006/3400/article/7/e)
 
-[^key-fb0be9defe5dbf34fb5345811795dbea]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.4.2007 for specified purposes for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/935/article/4/d)
+[^c-fb0be9defe5dbf34fb5345811795dbea]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.4.2007 for specified purposes for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(d)](https://www.legislation.gov.uk/uksi/2007/935/article/4/d)
 
-[^key-64b783daaf0998c67ace52552b5de55e]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 25.5.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
+[^c-64b783daaf0998c67ace52552b5de55e]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 25.5.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/q)
 
-[^key-488ed166ab7f18ad90443c01ec46dc4e]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 25.5.2007 for specified purposes for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 6(d)](https://www.legislation.gov.uk/uksi/2007/935/article/6/d)
+[^c-488ed166ab7f18ad90443c01ec46dc4e]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 25.5.2007 for specified purposes for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 6(d)](https://www.legislation.gov.uk/uksi/2007/935/article/6/d)
 
-[^key-88f9453a0b08892194b2c160a87b1541]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2007 for specified purposes for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/h)
+[^c-88f9453a0b08892194b2c160a87b1541]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2007 for specified purposes for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/h)
 
-[^key-97520a2f05b9e6f0b4dc0002980eb16b]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(m)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/m) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2007/1801/article/5/2))
+[^c-97520a2f05b9e6f0b4dc0002980eb16b]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(m)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/m) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2007/1801/article/5/2))
 
-[^key-791751cf3796f0b744b3fa4aba791756]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 30.6.2008 for specified purposes for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/wsi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/wsi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2008/1429/schedule/part/1)
+[^c-791751cf3796f0b744b3fa4aba791756]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 30.6.2008 for specified purposes for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/wsi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/wsi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2008/1429/schedule/part/1)
 
-[^key-a7c97fc8bb80e969908896a18c6724af]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2008 for specified purposes for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/wsi/2008/1429), [art. 3(3)](https://www.legislation.gov.uk/wsi/2008/1429/article/3/3), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2008/1429/schedule/part/3)
+[^c-a7c97fc8bb80e969908896a18c6724af]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2008 for specified purposes for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/wsi/2008/1429), [art. 3(3)](https://www.legislation.gov.uk/wsi/2008/1429/article/3/3), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2008/1429/schedule/part/3)
 
-[^key-b75bf8dd0a5ef59f83dd558674ba58aa]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.1.2009 for specified purposes for W. by [S.I. 2009/2545](https://www.legislation.gov.uk/wsi/2009/2545), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2009/2545/article/3/2/d)
+[^c-b75bf8dd0a5ef59f83dd558674ba58aa]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.1.2009 for specified purposes for W. by [S.I. 2009/2545](https://www.legislation.gov.uk/wsi/2009/2545), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2009/2545/article/3/2/d)
 
-[^key-31b119550f5cfe2600149f82a4f4f0ca]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2009 for specified purposes for W. by [S.I. 2009/1027](https://www.legislation.gov.uk/wsi/2009/1027), [art. 3(d)](https://www.legislation.gov.uk/wsi/2009/1027/article/3/d)
+[^c-31b119550f5cfe2600149f82a4f4f0ca]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 1.9.2009 for specified purposes for W. by [S.I. 2009/1027](https://www.legislation.gov.uk/wsi/2009/1027), [art. 3(d)](https://www.legislation.gov.uk/wsi/2009/1027/article/3/d)
 
-[^key-d24923f7a960fe368292a425f7bdcc7d]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 2.4.2010 for specified purposes for W. by [S.I. 2010/736](https://www.legislation.gov.uk/wsi/2010/736), [art. 3(d)](https://www.legislation.gov.uk/wsi/2010/736/article/3/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2010/736/article/4))
+[^c-d24923f7a960fe368292a425f7bdcc7d]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 2.4.2010 for specified purposes for W. by [S.I. 2010/736](https://www.legislation.gov.uk/wsi/2010/736), [art. 3(d)](https://www.legislation.gov.uk/wsi/2010/736/article/3/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2010/736/article/4))
 
-[^key-d3d252ce2cb64250a45cbc66dabbe84e]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(m)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/m)
+[^c-d3d252ce2cb64250a45cbc66dabbe84e]: Commencement: [Sch. 18 Pt. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/6) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(m)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/m)

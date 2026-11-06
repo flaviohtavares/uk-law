@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Persons entitled to copy of application[^key-0b15523fad313b63f6f82350e07caf31]
+## 22. Persons entitled to copy of application[^c-0b15523fad313b63f6f82350e07caf31]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b15523fad313b63f6f82350e07caf31]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2011/1301/rule/22) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0b15523fad313b63f6f82350e07caf31]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2011/1301/rule/22) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

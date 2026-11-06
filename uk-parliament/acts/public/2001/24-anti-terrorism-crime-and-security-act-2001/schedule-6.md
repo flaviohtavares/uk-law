@@ -55,7 +55,7 @@ Section 70
 (3) At each sitting of the Commission—
 
 - (a) three members shall attend;
-- (b) one of the members shall be a person who holds or has held high judicial office (within the meaning of Part 3 of the Constitutional Reform Act 2005) or is or has been a member of the Judicial Committee of the Privy Council;[^key-00e5d13ea78c295b0ca433f12ee9113f] and
+- (b) one of the members shall be a person who holds or has held high judicial office (within the meaning of Part 3 of the Constitutional Reform Act 2005) or is or has been a member of the Judicial Committee of the Privy Council;[^c-00e5d13ea78c295b0ca433f12ee9113f] and
 - (c) the chairman or another member nominated by him shall preside and report the Commission’s decision.
 
 (4)[^c19540171] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under sub-paragraph (1).
@@ -103,7 +103,7 @@ Section 70
 
 - (a) in relation to proceedings in England and Wales, the Attorney General;
 - (b) in relation to proceedings in Scotland, the Advocate General for Scotland; and
-- (c) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland[^key-f9e1d1ab04535d7a8d169e3a09515d0f] .
+- (c) in relation to proceedings in Northern Ireland, the Advocate General for Northern Ireland[^c-f9e1d1ab04535d7a8d169e3a09515d0f] .
 
 (3) A person appointed under this paragraph must—
 
@@ -119,8 +119,8 @@ Section 70
 
 [^c19540051]: Textual amendment: Words in Sch. 6 para. 4(1) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 300(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/300/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
 
-[^key-00e5d13ea78c295b0ca433f12ee9113f]: Textual amendment: Words in Sch. 6 para. 4(3)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 31](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/31); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
+[^c-00e5d13ea78c295b0ca433f12ee9113f]: Textual amendment: Words in Sch. 6 para. 4(3)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 17 para. 31](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/31); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/e)
 
 [^c19540171]: Textual amendment: Sch. 6 para. 4(4)-(6) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 300(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/300/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
 
-[^key-f9e1d1ab04535d7a8d169e3a09515d0f]: Textual amendment: Words in Sch. 6 para. 6(2)(c) substituted (12.4.2010) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/91/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/91/3) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2))
+[^c-f9e1d1ab04535d7a8d169e3a09515d0f]: Textual amendment: Words in Sch. 6 para. 6(2)(c) substituted (12.4.2010) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [s. 91(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/91/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/91/3) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2))

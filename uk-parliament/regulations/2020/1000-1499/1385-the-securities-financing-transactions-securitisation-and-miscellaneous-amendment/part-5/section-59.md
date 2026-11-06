@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. The Securitisation (Amendment) (EU Exit) Regulations 2019[^key-3b5e692457fef3c9458d46af95cf79af]
+## 59. The Securitisation (Amendment) (EU Exit) Regulations 2019[^c-3b5e692457fef3c9458d46af95cf79af]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3b5e692457fef3c9458d46af95cf79af]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2020/1385/regulation/59) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-3b5e692457fef3c9458d46af95cf79af]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2020/1385/regulation/59) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00045]: Footnote: [S.I. 2019/660](https://www.legislation.gov.uk/uksi/2019/660), as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646).
 

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Driving prohibition requirement[^key-7cedad7753034db1119a197865951918]
+## 14. Driving prohibition requirement[^c-7cedad7753034db1119a197865951918]
 
 *Extent: E+W*
 
-(1)[^key-4d455543627c5f422688ef32ac91085c] The Sentencing Code is amended in accordance with subsections (2) to (7).
+(1)[^c-4d455543627c5f422688ef32ac91085c] The Sentencing Code is amended in accordance with subsections (2) to (7).
 
-(2)[^key-4d455543627c5f422688ef32ac91085c] In section 163(2) (availability of driving disqualification), at the end insert “(including where the court makes a community order or a suspended sentence order which imposes a driving prohibition requirement).”
+(2)[^c-4d455543627c5f422688ef32ac91085c] In section 163(2) (availability of driving disqualification), at the end insert “(including where the court makes a community order or a suspended sentence order which imposes a driving prohibition requirement).”
 
-(3)[^key-4d455543627c5f422688ef32ac91085c] In section 201 (community order requirements table), in the table, after the entry relating to the prohibited activity requirement insert—
+(3)[^c-4d455543627c5f422688ef32ac91085c] In section 201 (community order requirements table), in the table, after the entry relating to the prohibited activity requirement insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -32,7 +32,7 @@ summary: ''
 
 .
 
-(4)[^key-4d455543627c5f422688ef32ac91085c] In section 207 (availability of community order requirements)—
+(4)[^c-4d455543627c5f422688ef32ac91085c] In section 207 (availability of community order requirements)—
 
 - (a) before the italic heading before subsection (1) insert—
 
@@ -47,7 +47,7 @@ summary: ''
   >
   > (5) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of this section to have been committed on the last of those days.
 
-(5)[^key-4d455543627c5f422688ef32ac91085c] In section 287 (community requirements table), in the table, after the entry relating to the prohibited activity requirement insert—
+(5)[^c-4d455543627c5f422688ef32ac91085c] In section 287 (community requirements table), in the table, after the entry relating to the prohibited activity requirement insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -55,7 +55,7 @@ summary: ''
 
 .
 
-(6)[^key-4d455543627c5f422688ef32ac91085c] In section 291 (availability of community requirements)—
+(6)[^c-4d455543627c5f422688ef32ac91085c] In section 291 (availability of community requirements)—
 
 - (a) before the italic heading before subsection (1) insert—
 
@@ -70,7 +70,7 @@ summary: ''
   >
   > (5) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of this section to have been committed on the last of those days.
 
-(7)[^key-4d455543627c5f422688ef32ac91085c] In Schedule 9 (community orders and suspended sentence orders: requirements), after Part 4 insert—
+(7)[^c-4d455543627c5f422688ef32ac91085c] In Schedule 9 (community orders and suspended sentence orders: requirements), after Part 4 insert—
 
 > **Part 4A — Driving prohibition requirement**
 >
@@ -99,12 +99,12 @@ summary: ''
 > - “**motor vehicle**” has the same meaning as in the Road Traffic Act 1988 except that for this purpose section 189(1) of that Act is to be read as if paragraph (c) (certain electrically assisted pedal cycles not to be treated as motor vehicles) were omitted;
 > - “**road**” has the same meaning as in the Road Traffic Act 1988 (see section 192 of that Act).
 
-(8)[^key-de004f4d75996fadac63dee1faf65bc3] In section 177H of the Armed Forces Act 2006 (availability of driving disqualification order), at the end insert “(including where the court makes a service community order, an overseas community order or a suspended sentence order which imposes a driving prohibition requirement).”
+(8)[^c-de004f4d75996fadac63dee1faf65bc3] In section 177H of the Armed Forces Act 2006 (availability of driving disqualification order), at the end insert “(including where the court makes a service community order, an overseas community order or a suspended sentence order which imposes a driving prohibition requirement).”
 
 ## Annotations
 
-[^key-7cedad7753034db1119a197865951918]: Commencement: S. 14 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-7cedad7753034db1119a197865951918]: Commencement: S. 14 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-4d455543627c5f422688ef32ac91085c]: Commencement: [S. 14(1)-(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/14/1) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/d) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-4d455543627c5f422688ef32ac91085c]: Commencement: [S. 14(1)-(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/14/1) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/d) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
 
-[^key-de004f4d75996fadac63dee1faf65bc3]: Commencement: [S. 14(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/14/8) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/e) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-de004f4d75996fadac63dee1faf65bc3]: Commencement: [S. 14(8)](https://www.legislation.gov.uk/ukpga/2026/2/section/14/8) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/e) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

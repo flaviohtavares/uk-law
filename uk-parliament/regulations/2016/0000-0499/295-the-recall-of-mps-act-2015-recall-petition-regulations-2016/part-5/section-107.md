@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Procedure in relation to postal petition statements: personal identifier verification: England and Wales and Scotland[^key-191fbee288bea0aaa1556c4f6cb9f9fc]
+## 107. Procedure in relation to postal petition statements: personal identifier verification: England and Wales and Scotland[^c-191fbee288bea0aaa1556c4f6cb9f9fc]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-191fbee288bea0aaa1556c4f6cb9f9fc]: Commencement: Reg. 107 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-191fbee288bea0aaa1556c4f6cb9f9fc]: Commencement: Reg. 107 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

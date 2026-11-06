@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Punishment of offences under these Rules[^key-4f2ba196c62f3c8ddcc3600be1ffeeec]
+## SCHEDULE 1 — Punishment of offences under these Rules[^c-4f2ba196c62f3c8ddcc3600be1ffeeec]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Rule 1.4
 
 ## Annotations
 
-[^key-4f2ba196c62f3c8ddcc3600be1ffeeec]: Commencement: Sch. 1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4f2ba196c62f3c8ddcc3600be1ffeeec]: Commencement: Sch. 1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

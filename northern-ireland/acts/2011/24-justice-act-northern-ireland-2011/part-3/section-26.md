@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Annual report by DPCSPs to principal PCSP[^key-e6c751d4179a9470699912482781acee]
+## 26. Annual report by DPCSPs to principal PCSP[^c-e6c751d4179a9470699912482781acee]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6c751d4179a9470699912482781acee]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2011/24/section/26) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-e6c751d4179a9470699912482781acee]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2011/24/section/26) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

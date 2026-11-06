@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183B. Protection of prohibitions and restrictions etc on processing: other enactments[^key-65deab101ecc18b194bb4c26b1270842]
+## 183B. Protection of prohibitions and restrictions etc on processing: other enactments[^c-65deab101ecc18b194bb4c26b1270842]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,12 +34,12 @@ summary: ''
 (5) In this section—
 
 - (a) “**the main data protection legislation**” and “**requirement**” have the same meaning as in section 183A, and
-- (b) “**pre-commencement enactment**” means an enactment so far as passed or made before 20th August 2025[^key-79af9794db26153d08755ea59021b7f1].
+- (b) “**pre-commencement enactment**” means an enactment so far as passed or made before 20th August 2025[^c-79af9794db26153d08755ea59021b7f1].
 
 (6) Section 183A(5) applies for the purposes of subsection (1)(a) of this section as it applies for the purposes of section 183A(1).
 
 ## Annotations
 
-[^key-65deab101ecc18b194bb4c26b1270842]: Textual amendment: S. 183B inserted (1.1.2024) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(3)(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
+[^c-65deab101ecc18b194bb4c26b1270842]: Textual amendment: S. 183B inserted (1.1.2024) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(3)(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
 
-[^key-79af9794db26153d08755ea59021b7f1]: Textual amendment: Words in [s. 183B(5)(b)](https://www.legislation.gov.uk/ukpga/2018/12/section/183B/5/b) substituted (29.1.2026) by [The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026 (S.I. 2026/82)](https://www.legislation.gov.uk/uksi/2026/82), [reg. 12(3)](https://www.legislation.gov.uk/uksi/2026/82/regulation/12/3)
+[^c-79af9794db26153d08755ea59021b7f1]: Textual amendment: Words in [s. 183B(5)(b)](https://www.legislation.gov.uk/ukpga/2018/12/section/183B/5/b) substituted (29.1.2026) by [The Data (Use and Access) Act 2025 (Commencement No. 6 and Transitional and Saving Provisions) Regulations 2026 (S.I. 2026/82)](https://www.legislation.gov.uk/uksi/2026/82), [reg. 12(3)](https://www.legislation.gov.uk/uksi/2026/82/regulation/12/3)

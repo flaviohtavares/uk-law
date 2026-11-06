@@ -25,7 +25,7 @@ summary: ''
 - (a) failed to remove any vehicle on the relevant land which appears to the constable to belong to him or to be in his possession or under his control; or
 - (b) entered any land in the area of the relevant local authority as a trespasser with a vehicle before the end of the relevant period with the intention of residing there.
 
-(2) The relevant period is the period of three[^key-580967e116ba22f614f56f767f62aa5e] months starting with the day on which the direction is given.
+(2) The relevant period is the period of three[^c-580967e116ba22f614f56f767f62aa5e] months starting with the day on which the direction is given.
 
 (3) The constable may seize and remove the vehicle.
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c19808901]: Textual amendment: S. 62C inserted (E.W.) (27.2.2004) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2003/38/section/62/1), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
 
-[^key-580967e116ba22f614f56f767f62aa5e]: Textual amendment: Word in s. 62C(2) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/6), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
+[^c-580967e116ba22f614f56f767f62aa5e]: Textual amendment: Word in s. 62C(2) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/6), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Ombudsman’s power to require information.[^c1709505][^c2076065][^key-89b56794da40bc9a7bdf380174bdfdc3][^key-b60ae7e7c9147bac7e58c9fc5a7a5139]
+## 231. Ombudsman’s power to require information.[^c1709505][^c2076065][^c-89b56794da40bc9a7bdf380174bdfdc3][^c-b60ae7e7c9147bac7e58c9fc5a7a5139]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
     S. 231 applied (31.10.2004 for certain purposes and 14.1.2005 otherwise) by [The Financial Services and Markets Act 2000 (Transitional Provisions) (Complaints Relating to General Insurance and Mortgages) Order 2004 (S.I. 2004/454)](https://www.legislation.gov.uk/uksi/2004/454), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/454/article/1/2), [11(5)](https://www.legislation.gov.uk/uksi/2004/454/article/11/5)
 
-[^key-89b56794da40bc9a7bdf380174bdfdc3]: Modification: S. 231 applied (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [79(1)](https://www.legislation.gov.uk/uksi/2018/1253/article/79/1)
+[^c-89b56794da40bc9a7bdf380174bdfdc3]: Modification: S. 231 applied (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [79(1)](https://www.legislation.gov.uk/uksi/2018/1253/article/79/1)
 
-[^key-b60ae7e7c9147bac7e58c9fc5a7a5139]: Modification: [S. 231](https://www.legislation.gov.uk/ukpga/2000/8/section/231) applied (28.1.2021 for specified purposes, 30.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021 (S.I. 2021/90)](https://www.legislation.gov.uk/uksi/2021/90), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3), [15(1)](https://www.legislation.gov.uk/uksi/2021/90/article/15/1)
+[^c-b60ae7e7c9147bac7e58c9fc5a7a5139]: Modification: [S. 231](https://www.legislation.gov.uk/ukpga/2000/8/section/231) applied (28.1.2021 for specified purposes, 30.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021 (S.I. 2021/90)](https://www.legislation.gov.uk/uksi/2021/90), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3), [15(1)](https://www.legislation.gov.uk/uksi/2021/90/article/15/1)

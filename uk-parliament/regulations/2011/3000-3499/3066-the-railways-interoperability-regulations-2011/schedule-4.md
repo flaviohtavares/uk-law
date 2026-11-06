@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — UK verification assessment procedure for subsystems[^key-40a4baa342deba4c64f7256ec306552f]
+## SCHEDULE 4 — UK verification assessment procedure for subsystems[^c-40a4baa342deba4c64f7256ec306552f]
 
 *Extent: E+W+S+N.I.*
 
@@ -137,4 +137,4 @@ If a UK certificate of verification is to be issued for certain parts of a subsy
 
 ## Annotations
 
-[^key-40a4baa342deba4c64f7256ec306552f]: Textual amendment: Sch. 4 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/345/schedule/3) (as amended by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/a), [5(13)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/b), [5(13)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/c), [5(13)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40a4baa342deba4c64f7256ec306552f]: Textual amendment: Sch. 4 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/345/schedule/3) (as amended by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/b), [5(13)(a)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/a), [5(13)(b)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/b), [5(13)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/c), [5(13)(d)](https://www.legislation.gov.uk/uksi/2020/318/regulation/5/13/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

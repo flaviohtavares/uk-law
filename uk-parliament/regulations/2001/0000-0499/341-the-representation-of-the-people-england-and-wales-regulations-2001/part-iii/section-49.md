@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Supply of register and list of overseas electors in data form[^key-28d68e5953b7d40d49f1ccfd04da1f5e]
+## 49. Supply of register and list of overseas electors in data form[^c-28d68e5953b7d40d49f1ccfd04da1f5e]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28d68e5953b7d40d49f1ccfd04da1f5e]: Commencement: Reg. 49 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-28d68e5953b7d40d49f1ccfd04da1f5e]: Commencement: Reg. 49 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
 [^f00035]: Footnote: The exercise of the powers in section 52(1) is made subject to section 7(1) of the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41) and section 52(1A), as inserted by Schedule 21 to that Act, is relevant to those powers.

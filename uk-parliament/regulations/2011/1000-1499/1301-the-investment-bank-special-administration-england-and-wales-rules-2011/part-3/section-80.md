@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Adjournment by chair[^key-0ebac3bf994e8d86b2d985b1b918261e]
+## 80. Adjournment by chair[^c-0ebac3bf994e8d86b2d985b1b918261e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ebac3bf994e8d86b2d985b1b918261e]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2011/1301/rule/80) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0ebac3bf994e8d86b2d985b1b918261e]: Commencement: [Rule 80](https://www.legislation.gov.uk/uksi/2011/1301/rule/80) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

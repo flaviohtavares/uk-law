@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Reckoning of part-time service[^key-b095054549f26cce673a79fab8170b3b]
+## 11. Reckoning of part-time service[^c-b095054549f26cce673a79fab8170b3b]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Where—
 
 ## Annotations
 
-[^key-b095054549f26cce673a79fab8170b3b]: Commencement: Reg. 11 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-b095054549f26cce673a79fab8170b3b]: Commencement: Reg. 11 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Landlords who are trustees[^key-125d1a128477296fa9260d4fe1a1f08e]
+## 45. Landlords who are trustees[^c-125d1a128477296fa9260d4fe1a1f08e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If trustees constitute a landlord, the landlord may be registered or licensed fo
 
 ## Annotations
 
-[^key-125d1a128477296fa9260d4fe1a1f08e]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2014/7/section/45) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(v)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/v)
+[^c-125d1a128477296fa9260d4fe1a1f08e]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2014/7/section/45) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(v)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/v)

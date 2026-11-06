@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendments related to section 40[^key-a83c1815ab7a316513a640b3338407ce]
+## 41. Amendments related to section 40[^c-a83c1815ab7a316513a640b3338407ce]
 
 *Extent: E+W+S*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a83c1815ab7a316513a640b3338407ce]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-a83c1815ab7a316513a640b3338407ce]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

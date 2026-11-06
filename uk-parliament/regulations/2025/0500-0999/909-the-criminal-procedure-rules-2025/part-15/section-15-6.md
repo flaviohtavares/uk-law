@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.6. Review of public interest ruling[^key-9a159369415298b8f66318e2bd01a32b]
+## 15.6. Review of public interest ruling[^c-9a159369415298b8f66318e2bd01a32b]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a159369415298b8f66318e2bd01a32b]: Commencement: [Rule 15.6](https://www.legislation.gov.uk/uksi/2025/909/rule/15.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9a159369415298b8f66318e2bd01a32b]: Commencement: [Rule 15.6](https://www.legislation.gov.uk/uksi/2025/909/rule/15.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00416]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 14 was amended by section 331 of, and paragraphs 20 and 30 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 15 was amended by section 331 of, and paragraphs 20 and 31 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).

@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Insurance and Reinsurance Undertakings (Prudential Requirements) (Risk Margin) Regulations 2023 (revoked)[^key-fab908c044c2c34f8d649b36d1e788f5]
+The Insurance and Reinsurance Undertakings (Prudential Requirements) (Risk Margin) Regulations 2023 (revoked)[^c-fab908c044c2c34f8d649b36d1e788f5]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 31st December 2023
 
-[^key-fab908c044c2c34f8d649b36d1e788f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fab908c044c2c34f8d649b36d1e788f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-fab908c044c2c34f8d649b36d1e788f5]
+## 1. Citation, commencement and extent[^c-fab908c044c2c34f8d649b36d1e788f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Commission Delegated Regulation (EU) 2015/35[^key-fab908c044c2c34f8d649b36d1e788f5]
+## 2. Amendment of Commission Delegated Regulation (EU) 2015/35[^c-fab908c044c2c34f8d649b36d1e788f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Solvency 2 Regulations 2015[^key-fab908c044c2c34f8d649b36d1e788f5]
+## 3. Amendment of the Solvency 2 Regulations 2015[^c-fab908c044c2c34f8d649b36d1e788f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fab908c044c2c34f8d649b36d1e788f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fab908c044c2c34f8d649b36d1e788f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fab908c044c2c34f8d649b36d1e788f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fab908c044c2c34f8d649b36d1e788f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fab908c044c2c34f8d649b36d1e788f5]: Textual amendment: Regulations revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/620/regulation/2/d)
+[^c-fab908c044c2c34f8d649b36d1e788f5]: Textual amendment: Regulations revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/620/regulation/2/d)

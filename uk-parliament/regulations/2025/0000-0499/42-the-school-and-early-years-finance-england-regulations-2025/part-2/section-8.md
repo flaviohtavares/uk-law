@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^key-1eeae867ef336e4d8c855175e321e676]
+## 8. Determination of the individual schools budget for the funding period and limit on increase in central expenditure[^c-1eeae867ef336e4d8c855175e321e676]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ those amounts may be used by the local authority in the funding period for the p
 
 ## Annotations
 
-[^key-1eeae867ef336e4d8c855175e321e676]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/42/regulation/8) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-1eeae867ef336e4d8c855175e321e676]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/42/regulation/8) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00051]: Footnote: [S.I. 1997/319](https://www.legislation.gov.uk/uksi/1997/319). These Regulations have lapsed but article 11 of [S.I. 2004/533](https://www.legislation.gov.uk/uksi/2004/533) contains a savings provision for regulation 16 of those Regulations. Regulation 16 was substituted by [S.I. 1998/371](https://www.legislation.gov.uk/uksi/1998/371) and amended by [S.I. 1999/1852](https://www.legislation.gov.uk/uksi/1999/1852) and [2003/515](https://www.legislation.gov.uk/uksi/2003/515).

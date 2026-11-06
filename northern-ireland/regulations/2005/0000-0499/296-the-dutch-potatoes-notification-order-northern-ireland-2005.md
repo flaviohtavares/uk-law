@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Dutch Potatoes (Notification) Order (Northern Ireland) 2005 (revoked)[^key-a41f46ae4b63b41cfe97893fd34bea73]
+The Dutch Potatoes (Notification) Order (Northern Ireland) 2005 (revoked)[^c-a41f46ae4b63b41cfe97893fd34bea73]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 6th July 2005
 
-[^key-a41f46ae4b63b41cfe97893fd34bea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a41f46ae4b63b41cfe97893fd34bea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a41f46ae4b63b41cfe97893fd34bea73]
+## 1. Citation and commencement[^c-a41f46ae4b63b41cfe97893fd34bea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a41f46ae4b63b41cfe97893fd34bea73]
+## 2. Interpretation[^c-a41f46ae4b63b41cfe97893fd34bea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Notification of imports[^key-a41f46ae4b63b41cfe97893fd34bea73]
+## 3. Notification of imports[^c-a41f46ae4b63b41cfe97893fd34bea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of an inspector[^key-a41f46ae4b63b41cfe97893fd34bea73]
+## 4. Powers of an inspector[^c-a41f46ae4b63b41cfe97893fd34bea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences[^key-a41f46ae4b63b41cfe97893fd34bea73]
+## 5. Offences[^c-a41f46ae4b63b41cfe97893fd34bea73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a41f46ae4b63b41cfe97893fd34bea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a41f46ae4b63b41cfe97893fd34bea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a41f46ae4b63b41cfe97893fd34bea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a41f46ae4b63b41cfe97893fd34bea73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a41f46ae4b63b41cfe97893fd34bea73]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/296) revoked (4.12.2008) by [The Plant Health (Amendment No.2) Order (Northern Ireland) 2008 (S.R. 2008/442)](https://www.legislation.gov.uk/nisr/2008/442), [arts. 1](https://www.legislation.gov.uk/nisr/2008/442/article/1), [4(c)](https://www.legislation.gov.uk/nisr/2008/442/article/4/c)
+[^c-a41f46ae4b63b41cfe97893fd34bea73]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/296) revoked (4.12.2008) by [The Plant Health (Amendment No.2) Order (Northern Ireland) 2008 (S.R. 2008/442)](https://www.legislation.gov.uk/nisr/2008/442), [arts. 1](https://www.legislation.gov.uk/nisr/2008/442/article/1), [4(c)](https://www.legislation.gov.uk/nisr/2008/442/article/4/c)

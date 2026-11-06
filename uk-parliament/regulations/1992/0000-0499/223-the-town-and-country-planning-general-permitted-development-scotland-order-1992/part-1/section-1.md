@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Application, citation and commencement[^key-c03ff28c3c3943304f72ff9b7e20ce6c]
+## 1. Application, citation and commencement[^c-c03ff28c3c3943304f72ff9b7e20ce6c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c03ff28c3c3943304f72ff9b7e20ce6c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1992/223/article/1) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-c03ff28c3c3943304f72ff9b7e20ce6c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1992/223/article/1) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)

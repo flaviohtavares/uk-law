@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Mayoral development corporations[^key-2359ac28e58ea642a11d3c15eba2db4d]
+## 38. Mayoral development corporations[^c-2359ac28e58ea642a11d3c15eba2db4d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 20 provides for mayoral development corporations to be established with
 
 ## Annotations
 
-[^key-2359ac28e58ea642a11d3c15eba2db4d]: Commencement: S. 38 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-2359ac28e58ea642a11d3c15eba2db4d]: Commencement: S. 38 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

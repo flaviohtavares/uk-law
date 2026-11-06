@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Visits[^key-0ba32bffd87d6b35564af571a7f633fe]
+## 7. Visits[^c-0ba32bffd87d6b35564af571a7f633fe]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ba32bffd87d6b35564af571a7f633fe]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2007/10/section/7) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-0ba32bffd87d6b35564af571a7f633fe]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2007/10/section/7) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

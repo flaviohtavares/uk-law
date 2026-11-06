@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Conditions for the production of hydrolysed protein for feeding to farmed animals other than ruminants[^key-277923e7f1e12feba1efa3351dee1ba7]
+## SCHEDULE 4 — Conditions for the production of hydrolysed protein for feeding to farmed animals other than ruminants[^c-277923e7f1e12feba1efa3351dee1ba7]
 
 *Extent: S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Regulation 17
 
-**1.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-277923e7f1e12feba1efa3351dee1ba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-277923e7f1e12feba1efa3351dee1ba7]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-277923e7f1e12feba1efa3351dee1ba7]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

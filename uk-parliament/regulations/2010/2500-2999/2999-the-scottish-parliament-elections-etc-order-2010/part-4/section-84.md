@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Application of certain provisions for Scottish parliamentary elections[^key-598cf0592635cfce141b273f5122a85c]
+## 84. Application of certain provisions for Scottish parliamentary elections[^c-598cf0592635cfce141b273f5122a85c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ for the purposes of a Scottish parliamentary election but only in relation to th
 
 ## Annotations
 
-[^key-598cf0592635cfce141b273f5122a85c]: Commencement: Art. 84 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-598cf0592635cfce141b273f5122a85c]: Commencement: Art. 84 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00052]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9).
 

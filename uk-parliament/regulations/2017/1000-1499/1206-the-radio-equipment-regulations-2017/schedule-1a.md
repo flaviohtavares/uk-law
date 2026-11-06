@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1A — Information in relation to charging capabilities and compatible charging devices[^key-ca1d6e17cb8661608d9b30b7d6a06e6a]
+## Schedule 1A — Information in relation to charging capabilities and compatible charging devices[^c-ca1d6e17cb8661608d9b30b7d6a06e6a]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ Regulation 13(2A)(a)
 
 ## Annotations
 
-[^key-ca1d6e17cb8661608d9b30b7d6a06e6a]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/uksi/2017/1206/schedule/1A) inserted (N.I.) (28.12.2024) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/1231)](https://www.legislation.gov.uk/uksi/2024/1231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/2/12)
+[^c-ca1d6e17cb8661608d9b30b7d6a06e6a]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/uksi/2017/1206/schedule/1A) inserted (N.I.) (28.12.2024) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/1231)](https://www.legislation.gov.uk/uksi/2024/1231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/2/12)

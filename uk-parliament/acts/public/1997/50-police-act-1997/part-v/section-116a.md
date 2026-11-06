@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116A. Up-dating certificates[^key-aa828bcf05a3e7776ce2574923ef491f]
+## 116A. Up-dating certificates[^c-aa828bcf05a3e7776ce2574923ef491f]
 
 *Extent: E+W*
 
@@ -98,7 +98,7 @@ which is subject to up-date arrangements.
 
 ## Annotations
 
-[^key-aa828bcf05a3e7776ce2574923ef491f]: Textual amendment: S. 116A inserted (E.W.) (17.6.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 83](https://www.legislation.gov.uk/ukpga/2012/9/section/83), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/b)
+[^c-aa828bcf05a3e7776ce2574923ef491f]: Textual amendment: S. 116A inserted (E.W.) (17.6.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 83](https://www.legislation.gov.uk/ukpga/2012/9/section/83), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/b)
 
 [^M_F_3a7795d3-cad8-4328-9741-cda88d53e155]: Textual amendment: Word in s. 116A(1) substituted (E.W.) (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [37(g)](https://www.legislation.gov.uk/uksi/2012/3006/article/37/g) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 

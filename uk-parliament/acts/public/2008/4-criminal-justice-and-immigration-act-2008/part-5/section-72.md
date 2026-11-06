@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Offences committed outside the United Kingdom[^key-957331b6efb3d6ec510538b167da87f2]
+## 72. Offences committed outside the United Kingdom[^c-957331b6efb3d6ec510538b167da87f2]
 
 *Extent: E+W*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-957331b6efb3d6ec510538b167da87f2]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2008/4/section/72) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/34)
+[^c-957331b6efb3d6ec510538b167da87f2]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2008/4/section/72) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/34)

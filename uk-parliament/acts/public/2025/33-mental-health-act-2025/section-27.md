@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Community treatment orders: role of nominated person[^key-7dc862d00d395a2c1dc820bdb52e4333]
+## 27. Community treatment orders: role of nominated person[^c-7dc862d00d395a2c1dc820bdb52e4333]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dc862d00d395a2c1dc820bdb52e4333]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-7dc862d00d395a2c1dc820bdb52e4333]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

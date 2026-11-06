@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4E. Duty to notify etc. the European Commission: agreements with third countries[^key-fb7359a0a8e4c1923f53943eb5425ea7]
+## 4E. Duty to notify etc. the European Commission: agreements with third countries[^c-fb7359a0a8e4c1923f53943eb5425ea7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb7359a0a8e4c1923f53943eb5425ea7]: Textual amendment: [S. 4E](https://www.legislation.gov.uk/ukpga/1986/44/section/4E) repealed (31.12.2020 immediately before IP completion day) by [The Gas (Internal Markets) Regulations 2020 (S.I. 2020/625)](https://www.legislation.gov.uk/uksi/2020/625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2020/625/regulation/10/4)
+[^c-fb7359a0a8e4c1923f53943eb5425ea7]: Textual amendment: [S. 4E](https://www.legislation.gov.uk/ukpga/1986/44/section/4E) repealed (31.12.2020 immediately before IP completion day) by [The Gas (Internal Markets) Regulations 2020 (S.I. 2020/625)](https://www.legislation.gov.uk/uksi/2020/625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2020/625/regulation/10/4)

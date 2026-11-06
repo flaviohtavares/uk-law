@@ -28,7 +28,7 @@ Section 13(1) and (2)[^c19415711] of the [^c18258291]Indictable Offences Act 184
 - (cc)[^c18258311] warrants of arrest issued under section 97A above;
 - (d) warrants of commitment issued under this Act ;and[^c18258321]
 - (e) warrants of arrest issued under paragraph 4 of Schedule 3 to the Crime and Disorder Act 1998; and[^c18258341]
-- (f) warrants of arrest issued under paragraph 3(2) of Schedule 4 to the Sentencing Code[^key-ea61cb3e88a1d3e3a47aa35ea164d1aa] (offender referred to court by youth offender panel).
+- (f) warrants of arrest issued under paragraph 3(2) of Schedule 4 to the Sentencing Code[^c-ea61cb3e88a1d3e3a47aa35ea164d1aa] (offender referred to court by youth offender panel).
 
 ## Annotations
 
@@ -48,4 +48,4 @@ Section 13(1) and (2)[^c19415711] of the [^c18258291]Indictable Offences Act 184
 
 [^c18258341]: Textual amendment: S. 126(f) and the preceding “and” inserted (26.6.2000) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [s. 67](https://www.legislation.gov.uk/ukpga/1999/23/section/67), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/1999/23/schedule/4/paragraph/9) (with [Sch. 7 paras. 3(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/3/3), [5(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/5/2)); [S.I. 2000/1587](https://www.legislation.gov.uk/uksi/2000/1587), [art. 2(b)](https://www.legislation.gov.uk/uksi/2000/1587/article/2/b)
 
-[^key-ea61cb3e88a1d3e3a47aa35ea164d1aa]: Textual amendment: Words in s. 126(f) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 58](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/58) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ea61cb3e88a1d3e3a47aa35ea164d1aa]: Textual amendment: Words in s. 126(f) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 58](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/58) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

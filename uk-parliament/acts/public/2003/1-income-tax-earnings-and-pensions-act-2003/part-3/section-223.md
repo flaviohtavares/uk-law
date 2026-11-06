@@ -27,7 +27,7 @@ summary: ''
 - (c) PAYE regulations require P to deduct an amount of income tax (“the deductible tax”),
 - (d) P deducts none, or only some, of the deductible tax, and
 - (e) either or both of the following occur—
-  - (i) P accounts to the Commissioners for Her Majesty’s Revenue and Customs[^key-59f00b3f07e4580bd56377d1e1c262f6] for some or all of the deductible tax (whether or not P has actually deducted the amount accounted for);
+  - (i) P accounts to the Commissioners for Her Majesty’s Revenue and Customs[^c-59f00b3f07e4580bd56377d1e1c262f6] for some or all of the deductible tax (whether or not P has actually deducted the amount accounted for);
   - (ii) one or more persons other than P (apart from the director) account to the Commissioners for Her Majesty’s Revenue and Customs for some or all of the deductible tax.
 
 (2) For the purposes of this section it does not matter whether the director’s employment is held at the time when P makes the payment mentioned in subsection (1)(a) so long as it is held at some point in the tax year in which the payment is made.
@@ -54,7 +54,7 @@ the deductible tax is treated as earnings for the tax year in which the director
 - (a) the director is employed as a full-time working director of the company, or
 - (b) the company is—
   - (i) non-profit-making, or
-  - (ii) a charitable company[^key-12e9088211ca10c6b60ff9df668c5dd0] .
+  - (ii) a charitable company[^c-12e9088211ca10c6b60ff9df668c5dd0] .
 
 (8) In this section—
 
@@ -68,6 +68,6 @@ the deductible tax is treated as earnings for the tax year in which the director
 
 ## Annotations
 
-[^key-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-59f00b3f07e4580bd56377d1e1c262f6]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(2)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/2); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-12e9088211ca10c6b60ff9df668c5dd0]: Textual amendment: Words in s. 223(7)(b)(ii) substituted (coming into force for the tax year 2012-13 and subsequent tax years) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 17(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/17/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 13](https://www.legislation.gov.uk/uksi/2012/736/article/13)
+[^c-12e9088211ca10c6b60ff9df668c5dd0]: Textual amendment: Words in s. 223(7)(b)(ii) substituted (coming into force for the tax year 2012-13 and subsequent tax years) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 17(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/17/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 13](https://www.legislation.gov.uk/uksi/2012/736/article/13)

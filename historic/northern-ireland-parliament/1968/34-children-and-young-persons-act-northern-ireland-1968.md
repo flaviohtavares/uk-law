@@ -40,14 +40,14 @@ Children and Young Persons Act (Northern Ireland) 1968 [^c16953361]
 
 #### 20. Cruelty to persons under sixteen.
 
-(1) If any person who has attained the age of sixteen and has responsibility for[^c16953371] any child or young person under that age, wilfully assaults, ill-treats, neglects, abandons or exposes him, or causes or procures him to be assaulted, ill-treated, neglected, abandoned or exposed in a manner likely to cause him unnecessary suffering or injury to health [^key-c3b8cc357a138ee9ee242b1e2c665169]..., that person shall be guilty of an offence, and shall be liable—
+(1) If any person who has attained the age of sixteen and has responsibility for[^c16953371] any child or young person under that age, wilfully assaults, ill-treats, neglects, abandons or exposes him, or causes or procures him to be assaulted, ill-treated, neglected, abandoned or exposed in a manner likely to cause him unnecessary suffering or injury to health [^c-c3b8cc357a138ee9ee242b1e2c665169]..., that person shall be guilty of an offence, and shall be liable—
 
 - (a) on conviction on indictment, to an unlimited fine[^c16953391] or to imprisonment for a term not exceeding ten years[^c16953411] or to both;
 - (b) on summary conviction, to a fine not exceeding level 3 on the standard scale or to imprisonment for a term not exceeding six months or to both.
 
 (2) For the purposes of this section—
 
-- (za)[^key-56ff406fabf73442a7d69d4de94d0cba] a reference to—
+- (za)[^c-56ff406fabf73442a7d69d4de94d0cba] a reference to—
   - (i) ill-treatment is to ill-treatment whether physical or otherwise;
   - (ii) suffering or injury is to suffering or injury whether physical or otherwise;
 - (a) a parent or other person legally liable to maintain a child or young person, or the legal guardian of a child or young person shall be deemed to have neglected him in a manner likely to cause injury to his health if he has failed to provide adequate food, clothing, medical aid or lodging for him, or if, having been unable otherwise to provide such food, clothing, medical aid or lodging, he has failed to take steps to procure it to be provided under the \[Health and Personal Social Services (Northern Ireland) Order 1972 [^m00001]\] or Part VII of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c16953471];
@@ -150,7 +150,7 @@ the same complaint or summons may charge the offence in respect of all or any of
 
 (3) In this section “the appropriate authority” means the authority within whose area the child's address is or, if that is not known, the authority within whose area the offence is alleged to have been committed, and “authority” and “area” have the same meaning as in the Children Order.
 
-#### 36. Interpretation of Part II.[^key-ea354d0359599d5bfd13f2840791dca7][^key-f0d538bf08b5dcff9ef70aeb7c1aac24][^c16953911]
+#### 36. Interpretation of Part II.[^c-ea354d0359599d5bfd13f2840791dca7][^c-f0d538bf08b5dcff9ef70aeb7c1aac24][^c16953911]
 
 (1) For the purposes of this Part, the following shall be presumed to have responsibility for a child or young person—
 
@@ -187,7 +187,7 @@ Courts of summary jurisdiction constituted in accordance with the provisions of 
 
 ### 96. Powers of other courts.
 
-(1)[^c16953941] Where it appears to any court by or before which a person is convicted of having committed in respect of a child or young person any of the offences mentioned in Schedule 1 (not being an offence which resulted in the death of the child or young person) that it may be appropriate for a care or supervision order to be made with respect to him under the Children Order, the court may direct the appropriate [^key-3e0e47e7979efe5b73b7e9c925e12865]... HSC[^c22004671] trust to undertake an investigation of the child's circumstances.
+(1)[^c16953941] Where it appears to any court by or before which a person is convicted of having committed in respect of a child or young person any of the offences mentioned in Schedule 1 (not being an offence which resulted in the death of the child or young person) that it may be appropriate for a care or supervision order to be made with respect to him under the Children Order, the court may direct the appropriate [^c-3e0e47e7979efe5b73b7e9c925e12865]... HSC[^c22004671] trust to undertake an investigation of the child's circumstances.
 
 (1A) Paragraphs (2) to (6) of Article 56 of the Children Order (power of court in family proceedings to direct investigation into child's circumstances) shall have effect where the court gives a direction under this section as they have effect where a court gives a direction under that Article.
 
@@ -264,7 +264,7 @@ Subject to the provisions of this Act, all orders of a court of summary jurisdic
 
 ### 178. Assessors for county court in appeals from juvenile courts.
 
-(1) Where a county court deals with a case on appeal from a juvenile court, the judge shall, where practicable, be assisted by two [^key-577e9e8232eb0e34699aa3365d9db6c7]...[^c16953981] lay magistrates, at least one of whom (where practicable) is a woman, who shall sit with him and act as assessors.
+(1) Where a county court deals with a case on appeal from a juvenile court, the judge shall, where practicable, be assisted by two [^c-577e9e8232eb0e34699aa3365d9db6c7]...[^c16953981] lay magistrates, at least one of whom (where practicable) is a woman, who shall sit with him and act as assessors.
 
 (2) Where in any case only one such lay magistrate is available, the judge may sit with that lay magistrate; and where in any case no such lay magistrate is available and it appears to the judge that an adjournment would not be in the interests of justice, he may sit alone.
 
@@ -272,7 +272,7 @@ Subject to the provisions of this Act, all orders of a court of summary jurisdic
 
 (4) In this section—
 
-- [^key-e64c59c098c7a6fab1d6921e63fec117]...
+- [^c-e64c59c098c7a6fab1d6921e63fec117]...
 - “judge” has the same meaning as in the County Courts Act (Northern Ireland) 1959 [^m00003].
 
 *S. 179 rep. by 1998 NI 9*
@@ -342,7 +342,7 @@ An offence under section 5 of the Domestic Violence, Crime and Victims Act 2004,
 
 An offence under section 13(1) of the Criminal Justice Act (Northern Ireland) 1966 (encouraging or assisting suicide) where the relevant act is an act capable of, and done with the intention of, encouraging or assisting the suicide of a child or young person.[^c21311121]
 
-An offence under section 184(1) of the Online Safety Act 2023 (encouraging or assisting serious self-harm) where the relevant act is an act capable of, and done with the intention of, encouraging or assisting the serious self-harm of a child or young person.[^key-2827d56cc085c3845b860616074135a0]
+An offence under section 184(1) of the Online Safety Act 2023 (encouraging or assisting serious self-harm) where the relevant act is an act capable of, and done with the intention of, encouraging or assisting the serious self-harm of a child or young person.[^c-2827d56cc085c3845b860616074135a0]
 
 Any offence under section 27,[^c20712191]. . . of the Offences against the Person Act 1861 [^c17226311], and any offence against a child or young person under section 42 or 43[^c20713341] of that Act.
 
@@ -370,7 +370,7 @@ Any offence under Article 147(2) of the Children Order in respect of a contraven
 
 Any offence against a child or young person under the Sexual Offences (Northern Ireland) Order 2008 or any attempt to commit such an offence[^c20713411]
 
-An offence against a child or young person under section 1 or 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 or any attempt to commit such an offence.[^key-24c95ef75b5a3da70ffca4724a1f6e83]
+An offence against a child or young person under section 1 or 2 of the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 or any attempt to commit such an offence.[^c-24c95ef75b5a3da70ffca4724a1f6e83]
 
 ## SCHEDULE 2 — CONSTITUTION OF JUVENILE COURTS[^c16954411]
 
@@ -386,7 +386,7 @@ Sections 63 and 178.
 
 #### Composition of juvenile court
 
-**3.** (1) Subject to the provisions of paragraph 4, a juvenile court shall be constituted of a resident magistrate, who shall be chairman, and two lay magistrates[^c16954421] [^key-cf0198eddb8aa5b648d88c9e72985a82]..., of whom one at least shall be a woman.
+**3.** (1) Subject to the provisions of paragraph 4, a juvenile court shall be constituted of a resident magistrate, who shall be chairman, and two lay magistrates[^c16954421] [^c-cf0198eddb8aa5b648d88c9e72985a82]..., of whom one at least shall be a woman.
 
 *Sub-para. (2) rep. by 2002 c. 26*
 
@@ -404,13 +404,13 @@ Sections 63 and 178.
 
 #### Other provisions
 
-**7.**[^key-f923761327881e12cf1c82b9a62259da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f923761327881e12cf1c82b9a62259da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** Regulations made by the \[[^c16954441] Lord Chancellor after consultation with the Lord Chief Justice[^c19758351]\] shall—
 
 *Sub-para. (a) rep. by 2002 c. 26*
 
-- (b)[^key-86ed89bf47a75bc038ce4d8e7b1ba6fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-86ed89bf47a75bc038ce4d8e7b1ba6fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) provide for anything which is necessary or expedient for giving due effect to the provisions of this Act;
 - [(d)[^c16954461] be subject to negative resolution[^c22004751].\]
 
@@ -428,13 +428,13 @@ Sections 63 and 178.
 
 [^c16953371]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 
-[^key-c3b8cc357a138ee9ee242b1e2c665169]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/apni/1968/34/section/20/1) repealed (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 21(a)](https://www.legislation.gov.uk/nia/2021/2/section/21/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(u)](https://www.legislation.gov.uk/nisr/2022/57/article/2/u)
+[^c-c3b8cc357a138ee9ee242b1e2c665169]: Textual amendment: Words in [s. 20(1)](https://www.legislation.gov.uk/apni/1968/34/section/20/1) repealed (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 21(a)](https://www.legislation.gov.uk/nia/2021/2/section/21/a); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(u)](https://www.legislation.gov.uk/nisr/2022/57/article/2/u)
 
 [^c16953391]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/1984/ni3)
 
 [^c16953411]: Textual amendment: [1989 NI 15](https://www.legislation.gov.uk/1989/ni15)
 
-[^key-56ff406fabf73442a7d69d4de94d0cba]: Textual amendment: [S. 20(2)(za)](https://www.legislation.gov.uk/apni/1968/34/section/20/2/za) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 21(b)](https://www.legislation.gov.uk/nia/2021/2/section/21/b); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(u)](https://www.legislation.gov.uk/nisr/2022/57/article/2/u)
+[^c-56ff406fabf73442a7d69d4de94d0cba]: Textual amendment: [S. 20(2)(za)](https://www.legislation.gov.uk/apni/1968/34/section/20/2/za) inserted (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 21(b)](https://www.legislation.gov.uk/nia/2021/2/section/21/b); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(u)](https://www.legislation.gov.uk/nisr/2022/57/article/2/u)
 
 [^m00001]: Marginal citation: 1972 NI 14
 
@@ -470,9 +470,9 @@ Sections 63 and 178.
 
 [^c16953891]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 
-[^key-ea354d0359599d5bfd13f2840791dca7]: Modification: [S. 36](https://www.legislation.gov.uk/apni/1968/34/section/36) applied (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 11(2)](https://www.legislation.gov.uk/nia/2021/2/section/11/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(k)](https://www.legislation.gov.uk/nisr/2022/57/article/2/k)
+[^c-ea354d0359599d5bfd13f2840791dca7]: Modification: [S. 36](https://www.legislation.gov.uk/apni/1968/34/section/36) applied (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 11(2)](https://www.legislation.gov.uk/nia/2021/2/section/11/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(k)](https://www.legislation.gov.uk/nisr/2022/57/article/2/k)
 
-[^key-f0d538bf08b5dcff9ef70aeb7c1aac24]: Modification: [S. 36](https://www.legislation.gov.uk/apni/1968/34/section/36) applied (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 17(2)](https://www.legislation.gov.uk/nia/2021/2/section/17/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(q)](https://www.legislation.gov.uk/nisr/2022/57/article/2/q)
+[^c-f0d538bf08b5dcff9ef70aeb7c1aac24]: Modification: [S. 36](https://www.legislation.gov.uk/apni/1968/34/section/36) applied (21.2.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [s. 17(2)](https://www.legislation.gov.uk/nia/2021/2/section/17/2); [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(q)](https://www.legislation.gov.uk/nisr/2022/57/article/2/q)
 
 [^c16953911]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 
@@ -480,7 +480,7 @@ Sections 63 and 178.
 
 [^c16953941]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 
-[^key-3e0e47e7979efe5b73b7e9c925e12865]: Textual amendment: Words in [s. 96(1)](https://www.legislation.gov.uk/apni/1968/34/section/96/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-3e0e47e7979efe5b73b7e9c925e12865]: Textual amendment: Words in [s. 96(1)](https://www.legislation.gov.uk/apni/1968/34/section/96/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c22004671]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -490,11 +490,11 @@ Sections 63 and 178.
 
 [^c16953971]: Textual amendment: rep. prosp. by [1998 NI 9](https://www.legislation.gov.uk/1998/ni9)
 
-[^key-577e9e8232eb0e34699aa3365d9db6c7]: Textual amendment: Words in [s. 178(1)](https://www.legislation.gov.uk/apni/1968/34/section/178/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/1/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-577e9e8232eb0e34699aa3365d9db6c7]: Textual amendment: Words in [s. 178(1)](https://www.legislation.gov.uk/apni/1968/34/section/178/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/1/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16953981]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-e64c59c098c7a6fab1d6921e63fec117]: Textual amendment: Words in [s. 178(4)](https://www.legislation.gov.uk/apni/1968/34/section/178/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/1/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-e64c59c098c7a6fab1d6921e63fec117]: Textual amendment: Words in [s. 178(4)](https://www.legislation.gov.uk/apni/1968/34/section/178/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/1/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00003]: Marginal citation: 1959 c.25
 
@@ -510,7 +510,7 @@ Sections 63 and 178.
 
 [^c21311121]: Textual amendment: Sch. 1: entry substituted (1.2.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 21 para. 57](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/57) (with savings in [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. paras. 18(a)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/18/a), [25(a)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/25/a)
 
-[^key-2827d56cc085c3845b860616074135a0]: Textual amendment: Words in Sch. 1 inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/8); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-2827d56cc085c3845b860616074135a0]: Textual amendment: Words in Sch. 1 inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/8); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
 [^c20712191]: Textual amendment: Sch. 1: words in the entry relating to the Offences Against the Person Act 1861 repealed (2.2.2009) by [Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [81](https://www.legislation.gov.uk/nisi/2008/1769/article/81), [83](https://www.legislation.gov.uk/nisi/2008/1769/article/83), [Sch. 1 para. 12(4)(a)(i)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/12/4/a/i), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
@@ -542,21 +542,21 @@ Sections 63 and 178.
 
 [^c20713411]: Textual amendment: Sch. 1: entry inserted (2.2.2009) by [Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [81](https://www.legislation.gov.uk/nisi/2008/1769/article/81), [Sch. 1 para. 12(4)(i)](https://www.legislation.gov.uk/nisi/2008/1769/schedule/1/paragraph/12/4/i); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
-[^key-24c95ef75b5a3da70ffca4724a1f6e83]: Textual amendment: Words in Sch. 1 added (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/1)
+[^c-24c95ef75b5a3da70ffca4724a1f6e83]: Textual amendment: Words in Sch. 1 added (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/1)
 
 [^c16954411]: Textual amendment: [1964 c. 21 (NI)](https://www.legislation.gov.uk/apni/1964/21)
 
 [^c16954421]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-cf0198eddb8aa5b648d88c9e72985a82]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/apni/1968/34/schedule/2/paragraph/3/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-cf0198eddb8aa5b648d88c9e72985a82]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/apni/1968/34/schedule/2/paragraph/3/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-f923761327881e12cf1c82b9a62259da]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/apni/1968/34/schedule/2/paragraph/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-f923761327881e12cf1c82b9a62259da]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/apni/1968/34/schedule/2/paragraph/7) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16954441]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
 [^c19758351]: Textual amendment: Words in Sch. 2 para. 8 inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 18(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/18/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
-[^key-86ed89bf47a75bc038ce4d8e7b1ba6fc]: Textual amendment: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/apni/1968/34/schedule/2/paragraph/8/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(2)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/2/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-86ed89bf47a75bc038ce4d8e7b1ba6fc]: Textual amendment: [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/apni/1968/34/schedule/2/paragraph/8/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 62(2)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/62/2/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16954461]: Textual amendment: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 

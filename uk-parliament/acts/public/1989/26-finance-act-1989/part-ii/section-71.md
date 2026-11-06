@@ -35,11 +35,11 @@ summary: ''
 
 (4) In such a case—
 
-- (a) the trustees shall be treated as receiving, when the further event occurs, income of an amount that[^key-bf68ea1fcedc17a6796a74347766075c] is equal to the chargeable amount,
-- (b)[^key-9b585e301cd57281bc09c0f49c41cc93] that income shall be chargeable to income tax for the year of assessment at the end of which the further event occurs,
-- (ba) the tax so chargeable shall be charged on the full amount of the income the trustees are treated as receiving in the year of assessment , and[^key-43ed0aabd50a03fcc65afcf793f7a027]
-- (bb) the trustees are liable for any tax so chargeable, [^key-3c9ab1c48b10b63b4881ecb19f710ba7]...
-- (c)[^key-92c41914601244673499c1806ef4a06f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the trustees shall be treated as receiving, when the further event occurs, income of an amount that[^c-bf68ea1fcedc17a6796a74347766075c] is equal to the chargeable amount,
+- (b)[^c-9b585e301cd57281bc09c0f49c41cc93] that income shall be chargeable to income tax for the year of assessment at the end of which the further event occurs,
+- (ba) the tax so chargeable shall be charged on the full amount of the income the trustees are treated as receiving in the year of assessment , and[^c-43ed0aabd50a03fcc65afcf793f7a027]
+- (bb) the trustees are liable for any tax so chargeable, [^c-3c9ab1c48b10b63b4881ecb19f710ba7]...
+- (c)[^c-92c41914601244673499c1806ef4a06f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to subsection (6) below, for the purposes of subsection (4) above the chargeable amount is an amount equal to the aggregate of the total outstanding amount repaid in the year of assessment.
 
@@ -73,12 +73,12 @@ the sum or part (as the case may be) shall not be included in the total outstand
 
 [^c13112471]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*.roll-over relief for disposal of assets to employeeshare ownership trusts*
 
-[^key-bf68ea1fcedc17a6796a74347766075c]: Textual amendment: Words in s. 71(4)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 408(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/408/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-bf68ea1fcedc17a6796a74347766075c]: Textual amendment: Words in s. 71(4)(a) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 408(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/408/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-9b585e301cd57281bc09c0f49c41cc93]: Textual amendment: S. 71(4)(b)(ba)(bb) substituted for s. 71(4)(b) (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 408(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/408/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-9b585e301cd57281bc09c0f49c41cc93]: Textual amendment: S. 71(4)(b)(ba)(bb) substituted for s. 71(4)(b) (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 408(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/408/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-43ed0aabd50a03fcc65afcf793f7a027]: Textual amendment: Word in s. 71(4)(ba) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 28(4)(a)(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/28/4/a)
+[^c-43ed0aabd50a03fcc65afcf793f7a027]: Textual amendment: Word in s. 71(4)(ba) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 28(4)(a)(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/28/4/a)
 
-[^key-3c9ab1c48b10b63b4881ecb19f710ba7]: Textual amendment: Word in s. 71(4)(bb) repealed (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 28(4)(b)(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/28/4/b), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
+[^c-3c9ab1c48b10b63b4881ecb19f710ba7]: Textual amendment: Word in s. 71(4)(bb) repealed (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 28(4)(b)(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/28/4/b), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
 
-[^key-92c41914601244673499c1806ef4a06f]: Textual amendment: S. 71(4)(c) repealed (with effect in relation to payments made on or after 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 28(2)(b)(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/28/2/b), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
+[^c-92c41914601244673499c1806ef4a06f]: Textual amendment: S. 71(4)(c) repealed (with effect in relation to payments made on or after 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 28(2)(b)(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/28/2/b), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)

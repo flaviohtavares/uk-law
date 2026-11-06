@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. International agreements to improve tax compliance[^key-51251c692b2e717ad2c396417cb1a6d8]
+## 222. International agreements to improve tax compliance[^c-51251c692b2e717ad2c396417cb1a6d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51251c692b2e717ad2c396417cb1a6d8]: Textual amendment: [S. 222](https://www.legislation.gov.uk/ukpga/2013/29/section/222) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/a)
+[^c-51251c692b2e717ad2c396417cb1a6d8]: Textual amendment: [S. 222](https://www.legislation.gov.uk/ukpga/2013/29/section/222) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/a)

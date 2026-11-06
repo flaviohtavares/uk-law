@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48AA. Category B retirement pension for divorcee or former civil partner[^key-f1602cb5a3d3c77be77616cc781082c2]
+## 48AA. Category B retirement pension for divorcee or former civil partner[^c-f1602cb5a3d3c77be77616cc781082c2]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1602cb5a3d3c77be77616cc781082c2]: Textual amendment: [Ss. 48A](https://www.legislation.gov.uk/ukpga/1992/4/section/48A), [48AA](https://www.legislation.gov.uk/ukpga/1992/4/section/48AA) substituted for s. 48A (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 60](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/60) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/19/section/8), [9](https://www.legislation.gov.uk/ukpga/2014/19/section/9), [Sch. 5 paras. 2-4](https://www.legislation.gov.uk/ukpga/2014/19/schedule/5/paragraph/2))
+[^c-f1602cb5a3d3c77be77616cc781082c2]: Textual amendment: [Ss. 48A](https://www.legislation.gov.uk/ukpga/1992/4/section/48A), [48AA](https://www.legislation.gov.uk/ukpga/1992/4/section/48AA) substituted for s. 48A (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 60](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/60) (with [ss. 8](https://www.legislation.gov.uk/ukpga/2014/19/section/8), [9](https://www.legislation.gov.uk/ukpga/2014/19/section/9), [Sch. 5 paras. 2-4](https://www.legislation.gov.uk/ukpga/2014/19/schedule/5/paragraph/2))

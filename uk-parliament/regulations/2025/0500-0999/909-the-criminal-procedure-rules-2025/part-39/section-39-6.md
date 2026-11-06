@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.6. Respondent’s notice[^key-a9a8d178a140f9c2803a9aaeed0c28b7]
+## 39.6. Respondent’s notice[^c-a9a8d178a140f9c2803a9aaeed0c28b7]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9a8d178a140f9c2803a9aaeed0c28b7]: Commencement: [Rule 39.6](https://www.legislation.gov.uk/uksi/2025/909/rule/39.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a9a8d178a140f9c2803a9aaeed0c28b7]: Commencement: [Rule 39.6](https://www.legislation.gov.uk/uksi/2025/909/rule/39.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

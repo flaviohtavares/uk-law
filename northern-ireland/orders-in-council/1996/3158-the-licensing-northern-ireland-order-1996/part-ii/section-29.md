@@ -34,9 +34,9 @@ for such period, not exceeding 6 months, as the court thinks fit.
   - (i) proposes to resume business under the licence in the original premises within a reasonable period (if Article 32 does not apply), or
   - (ii) has made an application for a new licence for those or other premises, or proposes to do so within a reasonable period.
 
-(2A)[^c17145811] Where the original premises were an indoor arena or outdoor stadium,[^key-a37ae70c154cd72f98aa9d95423e67a9] the court may consider an application under this Article notwithstanding that the premises in which it is proposed to continue the business are not, or will not be, an indoor arena or outdoor stadium, within the meaning of this Order.
+(2A)[^c17145811] Where the original premises were an indoor arena or outdoor stadium,[^c-a37ae70c154cd72f98aa9d95423e67a9] the court may consider an application under this Article notwithstanding that the premises in which it is proposed to continue the business are not, or will not be, an indoor arena or outdoor stadium, within the meaning of this Order.
 
-(3) An application under this Article shall be made to a court of summary jurisdiction [^key-5b6642ee9745a470f5d3815391c4bc01]....
+(3) An application under this Article shall be made to a court of summary jurisdiction [^c-5b6642ee9745a470f5d3815391c4bc01]....
 
 (4) Where an order has been made under paragraph (1), a court of summary jurisdiction may, on application by the holder of the licence, make such further order or orders under that paragraph as it thinks fit.
 
@@ -56,6 +56,6 @@ whichever first occurs.
 
 [^c17145811]: Textual amendment: [2004 NI 17](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-a37ae70c154cd72f98aa9d95423e67a9]: Textual amendment: Words in art. 29(2A) substituted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 5](https://www.legislation.gov.uk/nia/2016/24/section/5), 8(1)
+[^c-a37ae70c154cd72f98aa9d95423e67a9]: Textual amendment: Words in art. 29(2A) substituted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 5](https://www.legislation.gov.uk/nia/2016/24/section/5), 8(1)
 
-[^key-5b6642ee9745a470f5d3815391c4bc01]: Textual amendment: Words in [art. 29(3)](https://www.legislation.gov.uk/nisi/1996/3158/article/29/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-5b6642ee9745a470f5d3815391c4bc01]: Textual amendment: Words in [art. 29(3)](https://www.legislation.gov.uk/nisi/1996/3158/article/29/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

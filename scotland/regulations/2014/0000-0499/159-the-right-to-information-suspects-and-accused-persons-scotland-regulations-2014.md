@@ -54,7 +54,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## 2. Interpretation
 
-(1)[^key-66b26e6c9d2db511b514b706462742ec] For the purposes of these Regulations, a person is in police custody if the person has been arrested by a constable in connection with an offence, except where arrested under the Extradition Act 2003, and is in custody in a police station or other premises.
+(1)[^c-66b26e6c9d2db511b514b706462742ec] For the purposes of these Regulations, a person is in police custody if the person has been arrested by a constable in connection with an offence, except where arrested under the Extradition Act 2003, and is in custody in a police station or other premises.
 
 (2) In these Regulations—
 
@@ -111,7 +111,7 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22114211]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), [Schedule 1](https://www.legislation.gov.uk/ukpga/2008/7/schedule/1), [Part 1](https://www.legislation.gov.uk/ukpga/2008/7/part/1). The functions conferred upon the Minister of the Crown under section 2(2), in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-66b26e6c9d2db511b514b706462742ec]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/159/regulation/2/1) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 17](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/17) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2)).
+[^c-66b26e6c9d2db511b514b706462742ec]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/ssi/2014/159/regulation/2/1) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 17](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/17) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2)).
 
 [^c22114241]: Marginal citation: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 

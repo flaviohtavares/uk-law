@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Minor and consequential amendments[^key-33e49f1d152548470c27506c49c43486]
+## 15. Minor and consequential amendments[^c-33e49f1d152548470c27506c49c43486]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 to these Regulations makes minor and consequential amendments to the 
 
 ## Annotations
 
-[^key-33e49f1d152548470c27506c49c43486]: Commencement: Reg. 15 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-33e49f1d152548470c27506c49c43486]: Commencement: Reg. 15 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Inspectors and inspectorates: reports and information sharing[^key-136c31a3b471b41faf65adce70810260]
+## 51. Inspectors and inspectorates: reports and information sharing[^c-136c31a3b471b41faf65adce70810260]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-136c31a3b471b41faf65adce70810260]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2026/21/section/51) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-136c31a3b471b41faf65adce70810260]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2026/21/section/51) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

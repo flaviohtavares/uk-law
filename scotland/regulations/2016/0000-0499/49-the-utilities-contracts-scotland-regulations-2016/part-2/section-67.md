@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Contract notices[^key-bdc9bf63c2a17b78c847c84b8f683122]
+## 67. Contract notices[^c-bdc9bf63c2a17b78c847c84b8f683122]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdc9bf63c2a17b78c847c84b8f683122]: Textual amendment: [Reg. 67](https://www.legislation.gov.uk/ssi/2016/49/regulation/67) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(38)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/38) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-bdc9bf63c2a17b78c847c84b8f683122]: Textual amendment: [Reg. 67](https://www.legislation.gov.uk/ssi/2016/49/regulation/67) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(38)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/38) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

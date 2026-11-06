@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2017-11-30.
 
-## 9. Duties relating to compliance with the Directives[^key-e3b7ad51f425fa8b634368b347669194]
+## 9. Duties relating to compliance with the Directives[^c-e3b7ad51f425fa8b634368b347669194]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3b7ad51f425fa8b634368b347669194]: Textual amendment: [Regs. 4-21](https://www.legislation.gov.uk/uksi/2010/490/regulation/4) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-e3b7ad51f425fa8b634368b347669194]: Textual amendment: [Regs. 4-21](https://www.legislation.gov.uk/uksi/2010/490/regulation/4) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

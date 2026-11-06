@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81B. Alternative means of returning postal ballot paper[^key-d25e3178a2e053229c0075f589f1180a]
+## 81B. Alternative means of returning postal ballot paper[^c-d25e3178a2e053229c0075f589f1180a]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of rule 45(2)(a) of the election rules, a postal ballot paper�
 
 ## Annotations
 
-[^key-d25e3178a2e053229c0075f589f1180a]: Textual amendment: [Reg. 81B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81B) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/319/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))
+[^c-d25e3178a2e053229c0075f589f1180a]: Textual amendment: [Reg. 81B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81B) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/319/regulation/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Protection for spent cautions under Rehabilitation of Offenders Act 1974[^key-ea300a675f7b461194c2c153cd640a70]
+## 49. Protection for spent cautions under Rehabilitation of Offenders Act 1974[^c-ea300a675f7b461194c2c153cd640a70]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea300a675f7b461194c2c153cd640a70]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2008/4/section/49) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/a)
+[^c-ea300a675f7b461194c2c153cd640a70]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2008/4/section/49) in force at 19.12.2008 by [S.I. 2008/3260](https://www.legislation.gov.uk/uksi/2008/3260), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/3260/article/2/1/a)

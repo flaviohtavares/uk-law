@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Interpretation of Part 4[^key-11f14ed655d0eb0abe65284f5df4ff2d][^key-0321724a17c626594a66b68cd81209c2]
+## 59. Interpretation of Part 4[^c-11f14ed655d0eb0abe65284f5df4ff2d][^c-0321724a17c626594a66b68cd81209c2]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11f14ed655d0eb0abe65284f5df4ff2d]: Commencement: S. 59 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-11f14ed655d0eb0abe65284f5df4ff2d]: Commencement: S. 59 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-0321724a17c626594a66b68cd81209c2]: Commencement: S. 59 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-0321724a17c626594a66b68cd81209c2]: Commencement: S. 59 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)

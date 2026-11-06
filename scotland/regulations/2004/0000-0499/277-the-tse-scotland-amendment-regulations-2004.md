@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The TSE (Scotland) Amendment Regulations 2004 (revoked)[^key-94b643018b96530b385c81cd4018052b]
+The TSE (Scotland) Amendment Regulations 2004 (revoked)[^c-94b643018b96530b385c81cd4018052b]
 
 Made
 
@@ -47,34 +47,34 @@ Coming into force
 
 20th July 2004
 
-[^key-94b643018b96530b385c81cd4018052b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94b643018b96530b385c81cd4018052b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-94b643018b96530b385c81cd4018052b]
+## 1. Citation and commencement[^c-94b643018b96530b385c81cd4018052b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (Scotland) Regulations 2002[^key-94b643018b96530b385c81cd4018052b]
+## 2. Amendment of the TSE (Scotland) Regulations 2002[^c-94b643018b96530b385c81cd4018052b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94b643018b96530b385c81cd4018052b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94b643018b96530b385c81cd4018052b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-94b643018b96530b385c81cd4018052b]
+## SCHEDULE[^c-94b643018b96530b385c81cd4018052b]
 
 Regulation 2(3)
 
-[^key-94b643018b96530b385c81cd4018052b]
+[^c-94b643018b96530b385c81cd4018052b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-94b643018b96530b385c81cd4018052b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94b643018b96530b385c81cd4018052b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94b643018b96530b385c81cd4018052b]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-94b643018b96530b385c81cd4018052b]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Limitations on exemptions for small and medium-sized groups[^key-99c0a5a32e63850a0d4f45279304c0c2]
+## 12. Limitations on exemptions for small and medium-sized groups[^c-99c0a5a32e63850a0d4f45279304c0c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In subsection (2) of section 248 of the Act (exemption for small and medium-size
 
 ## Annotations
 
-[^key-99c0a5a32e63850a0d4f45279304c0c2]: Commencement: Art. 12 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-99c0a5a32e63850a0d4f45279304c0c2]: Commencement: Art. 12 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

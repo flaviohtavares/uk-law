@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9C — Commissioner for the Ulster Scots and the Ulster British tradition[^key-6b46e730769964005706cd88d4a7d327]
+## Schedule 9C — Commissioner for the Ulster Scots and the Ulster British tradition[^c-6b46e730769964005706cd88d4a7d327]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,4 +141,4 @@ The Commissioner may do whatever the Commissioner considers appropriate for faci
 
 ## Annotations
 
-[^key-6b46e730769964005706cd88d4a7d327]: Textual amendment: Sch. 9C inserted (22.5.2023) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/45/schedule/3); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/f)
+[^c-6b46e730769964005706cd88d4a7d327]: Textual amendment: Sch. 9C inserted (22.5.2023) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2022/45/schedule/3); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/f)

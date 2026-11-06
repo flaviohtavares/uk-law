@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Order in respect of certain assertions[^key-8c8a793aa5c79443d78fb63a76547265]
+## 39. Order in respect of certain assertions[^c-8c8a793aa5c79443d78fb63a76547265]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8a793aa5c79443d78fb63a76547265]: Commencement: S. 39 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8c8a793aa5c79443d78fb63a76547265]: Commencement: S. 39 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. Periods of time expressed in days[^key-c2811cf8136210ae587cecfd0351a0ec]
+## 196. Periods of time expressed in days[^c-c2811cf8136210ae587cecfd0351a0ec]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2811cf8136210ae587cecfd0351a0ec]: Commencement: Rule 196 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c2811cf8136210ae587cecfd0351a0ec]: Commencement: Rule 196 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

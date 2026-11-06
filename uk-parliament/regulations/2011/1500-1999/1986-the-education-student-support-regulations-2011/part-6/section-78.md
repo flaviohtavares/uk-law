@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Type 1 and type 2 teacher training students who are not 2008 or 2009 cohort students[^key-163f0d3f73e17c9ee537667344be6dfa]
+## 78. Type 1 and type 2 teacher training students who are not 2008 or 2009 cohort students[^c-163f0d3f73e17c9ee537667344be6dfa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-163f0d3f73e17c9ee537667344be6dfa]: Textual amendment: Reg. 78 omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)
+[^c-163f0d3f73e17c9ee537667344be6dfa]: Textual amendment: Reg. 78 omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)

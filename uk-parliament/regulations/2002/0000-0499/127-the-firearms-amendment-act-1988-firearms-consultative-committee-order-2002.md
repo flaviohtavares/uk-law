@@ -41,11 +41,11 @@ Coming into force
 
 In exercise of the power conferred on the Secretary of State by section 22(8) of the Firearms (Amendment) Act 1988[^f00001], I hereby make the following Order:
 
-**1.**[^key-bd5fc717b521c2e3833ef3fbea48a61b] This Order may be cited as the Firearms (Amendment) Act 1988 (Firearms Consultative Committee) Order 2002 and shall come into force on 1st February 2002.
+**1.**[^c-bd5fc717b521c2e3833ef3fbea48a61b] This Order may be cited as the Firearms (Amendment) Act 1988 (Firearms Consultative Committee) Order 2002 and shall come into force on 1st February 2002.
 
-**2.**[^key-6767ba5dfde9564dbf5347fb1b05f5da] The Firearms Consultative Committee shall continue to exist for a period of two years beginning on 1st February 2002.
+**2.**[^c-6767ba5dfde9564dbf5347fb1b05f5da] The Firearms Consultative Committee shall continue to exist for a period of two years beginning on 1st February 2002.
 
-**3.**[^key-d315706a0f9886129e0e26bdc84eb5a5] The Firearms (Amendment) Act 1988 (Firearms Consultative Committee) Orders 1996[^f00002] and 2000[^f00003]are hereby revoked.
+**3.**[^c-d315706a0f9886129e0e26bdc84eb5a5] The Firearms (Amendment) Act 1988 (Firearms Consultative Committee) Orders 1996[^f00002] and 2000[^f00003]are hereby revoked.
 
 John Denham
 
@@ -63,11 +63,11 @@ This Order continues in existence the Firearms Consultative Committee establishe
 
 [^f00001]: Footnote: [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45).
 
-[^key-bd5fc717b521c2e3833ef3fbea48a61b]: Commencement: Art. 1 in force at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1)
+[^c-bd5fc717b521c2e3833ef3fbea48a61b]: Commencement: Art. 1 in force at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1)
 
-[^key-6767ba5dfde9564dbf5347fb1b05f5da]: Commencement: Art. 2 in force at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1)
+[^c-6767ba5dfde9564dbf5347fb1b05f5da]: Commencement: Art. 2 in force at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1)
 
-[^key-d315706a0f9886129e0e26bdc84eb5a5]: Commencement: Art. 3 in force at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1)
+[^c-d315706a0f9886129e0e26bdc84eb5a5]: Commencement: Art. 3 in force at 1.2.2002, see [art. 1](https://www.legislation.gov.uk/uksi/2002/127/article/1)
 
 [^f00002]: Footnote: S.I. [1996/3272](https://www.legislation.gov.uk/uksi/1996/3272).
 

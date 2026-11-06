@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 323B. Insurers in financial difficulties: write-down orders[^key-fd8003c631c4828a53ba35f7b1154fdf]
+## 323B. Insurers in financial difficulties: write-down orders[^c-fd8003c631c4828a53ba35f7b1154fdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8003c631c4828a53ba35f7b1154fdf]: Textual amendment: [S. 323B](https://www.legislation.gov.uk/ukpga/2009/4/section/323B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/32/3)
+[^c-fd8003c631c4828a53ba35f7b1154fdf]: Textual amendment: [S. 323B](https://www.legislation.gov.uk/ukpga/2009/4/section/323B) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/32/3)

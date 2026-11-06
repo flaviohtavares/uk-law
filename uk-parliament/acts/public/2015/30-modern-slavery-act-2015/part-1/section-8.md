@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to make slavery and trafficking reparation orders[^key-2128a259e84d5b409672a7f100c100f6]
+## 8. Power to make slavery and trafficking reparation orders[^c-2128a259e84d5b409672a7f100c100f6]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ the court must give preference to compensation (although it may impose a fine as
 
 ## Annotations
 
-[^key-2128a259e84d5b409672a7f100c100f6]: Commencement: S. 8 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)
+[^c-2128a259e84d5b409672a7f100c100f6]: Commencement: S. 8 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Looked after children: adoption not proceeding[^key-60e151240fbb77026d896ba5d21a80a4][^key-95b91ae07a8590c78d0db395e47c74b2][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 26. Looked after children: adoption not proceeding[^c-60e151240fbb77026d896ba5d21a80a4][^c-95b91ae07a8590c78d0db395e47c74b2][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -49,14 +49,14 @@ summary: ''
 
 (9) The court by which a person is convicted by virtue of subsection (8) may order that the child in respect of whom the offence is committed be delivered to the child's parent or guardian or, as the case may be, the relevant local authority.
 
-(10)[^key-5c00a91014106d53ef95390980b4d440] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-5c00a91014106d53ef95390980b4d440] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60e151240fbb77026d896ba5d21a80a4]: Commencement: S. 26 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-60e151240fbb77026d896ba5d21a80a4]: Commencement: S. 26 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-95b91ae07a8590c78d0db395e47c74b2]: Modification: S. 26 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(f)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/f)
+[^c-95b91ae07a8590c78d0db395e47c74b2]: Modification: S. 26 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(f)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/f)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-5c00a91014106d53ef95390980b4d440]: Textual amendment: S. 26(10) repealed (27.1.2010) by [Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/8/3)
+[^c-5c00a91014106d53ef95390980b4d440]: Textual amendment: S. 26(10) repealed (27.1.2010) by [Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [Sch. para. 8(3)](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/8/3)

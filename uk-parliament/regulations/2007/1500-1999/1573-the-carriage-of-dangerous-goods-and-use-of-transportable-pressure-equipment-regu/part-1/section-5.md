@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Member States of the Communities which are not Contracting Parties to ADR or Member States of COTIF[^key-e727cdaa973037c823281c6eec5746c8]
+## 5. Member States of the Communities which are not Contracting Parties to ADR or Member States of COTIF[^c-e727cdaa973037c823281c6eec5746c8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)
+[^c-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)

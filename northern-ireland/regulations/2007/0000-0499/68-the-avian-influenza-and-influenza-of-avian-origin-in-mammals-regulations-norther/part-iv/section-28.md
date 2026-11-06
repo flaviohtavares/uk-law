@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Declaration of a protection, surveillance and restricted zone[^key-00e0651ee8b4298ccee3717be08d1bcd]
+## 28. Declaration of a protection, surveillance and restricted zone[^c-00e0651ee8b4298ccee3717be08d1bcd]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00e0651ee8b4298ccee3717be08d1bcd]: Commencement: Reg. 28 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-00e0651ee8b4298ccee3717be08d1bcd]: Commencement: Reg. 28 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

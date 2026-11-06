@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Transmissible Spongiform Encephalopathies (Scotland) Amendment (No. 2) Regulations 2008 (revoked)[^key-b0aeb4a711d941989ed928e97f581876]
+The Transmissible Spongiform Encephalopathies (Scotland) Amendment (No. 2) Regulations 2008 (revoked)[^c-b0aeb4a711d941989ed928e97f581876]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 1st January 2009
 
-[^key-b0aeb4a711d941989ed928e97f581876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0aeb4a711d941989ed928e97f581876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b0aeb4a711d941989ed928e97f581876]
+## 1. Citation and commencement[^c-b0aeb4a711d941989ed928e97f581876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006[^key-b0aeb4a711d941989ed928e97f581876]
+## 2. Amendment of the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006[^c-b0aeb4a711d941989ed928e97f581876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment[^key-b0aeb4a711d941989ed928e97f581876]
+## 3. Consequential amendment[^c-b0aeb4a711d941989ed928e97f581876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-b0aeb4a711d941989ed928e97f581876]
+## 4. Transitional provision[^c-b0aeb4a711d941989ed928e97f581876]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0aeb4a711d941989ed928e97f581876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0aeb4a711d941989ed928e97f581876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b0aeb4a711d941989ed928e97f581876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0aeb4a711d941989ed928e97f581876]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0aeb4a711d941989ed928e97f581876]: Textual amendment: Regulations revoked (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10)
+[^c-b0aeb4a711d941989ed928e97f581876]: Textual amendment: Regulations revoked (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10)

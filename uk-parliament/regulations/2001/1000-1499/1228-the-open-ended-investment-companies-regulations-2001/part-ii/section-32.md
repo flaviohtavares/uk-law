@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 172(8) of the 1986 Act or Article 146(7) of the 1989 Order[^key-bf461a5ae8e16efd466624bd70171e13] (final meeting of creditors and vacation of office by liquidator), as that section applies by virtue of Part V of that Act or Part 6 of that Order[^key-bf9c4e1509d09ea6f434027976bdaf31] (winding up of unregistered companies) has effect, in relation to open-ended investment companies, as if the reference to the registrar of companies was a reference to the Authority.
+(1) Section 172(8) of the 1986 Act or Article 146(7) of the 1989 Order[^c-bf461a5ae8e16efd466624bd70171e13] (final meeting of creditors and vacation of office by liquidator), as that section applies by virtue of Part V of that Act or Part 6 of that Order[^c-bf9c4e1509d09ea6f434027976bdaf31] (winding up of unregistered companies) has effect, in relation to open-ended investment companies, as if the reference to the registrar of companies was a reference to the Authority.
 
 (2) Where, in respect of an open-ended investment company, the Authority receives—
 
-- (a) a notice given for the purposes of section 172(8) of the 1986 Act or Article 146(7) of the 1989 Order[^key-f48fa7873a97c7463337880a3e70780a] (as aforesaid); or
+- (a) a notice given for the purposes of section 172(8) of the 1986 Act or Article 146(7) of the 1989 Order[^c-f48fa7873a97c7463337880a3e70780a] (as aforesaid); or
 - (b) a notice from the official receiver that the winding up, by the court, of the company is complete;
 
 the Authority must, on receipt of the notice, forthwith register it and, subject to the provisions of this regulation, at the end of the period of three months beginning with the day of the registration of the notice, the company is to be dissolved.
@@ -52,8 +52,8 @@ not later than seven days after the giving of the direction, the determination o
 
 ## Annotations
 
-[^key-bf461a5ae8e16efd466624bd70171e13]: Textual amendment: Words in reg. 32(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 8(a)(i)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/8/a/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-bf461a5ae8e16efd466624bd70171e13]: Textual amendment: Words in reg. 32(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 8(a)(i)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/8/a/i) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-bf9c4e1509d09ea6f434027976bdaf31]: Textual amendment: Words in reg. 32(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/8/a/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-bf9c4e1509d09ea6f434027976bdaf31]: Textual amendment: Words in reg. 32(1) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/8/a/ii) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-f48fa7873a97c7463337880a3e70780a]: Textual amendment: Words in reg. 32(2) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/8/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-f48fa7873a97c7463337880a3e70780a]: Textual amendment: Words in reg. 32(2) inserted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/8/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

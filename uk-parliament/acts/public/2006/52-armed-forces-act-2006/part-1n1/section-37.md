@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Prize offences by officer in command of ship or aircraft[^key-3904671eb3a957d70035b07dd0a59a79][^key-a6b15d1552a0c5a9eeae1fe91af5abf9]
+## 37. Prize offences by officer in command of ship or aircraft[^c-3904671eb3a957d70035b07dd0a59a79][^c-a6b15d1552a0c5a9eeae1fe91af5abf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3904671eb3a957d70035b07dd0a59a79]: Commencement: S. 37 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3904671eb3a957d70035b07dd0a59a79]: Commencement: S. 37 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a6b15d1552a0c5a9eeae1fe91af5abf9]: Commencement: S. 37 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a6b15d1552a0c5a9eeae1fe91af5abf9]: Commencement: S. 37 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

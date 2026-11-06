@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Removal of trustee or officer etc for protective etc purposes[^key-6e1fb2a628dbcd29c3fe0eeb284b2ac0]
+## 79. Removal of trustee or officer etc for protective etc purposes[^c-6e1fb2a628dbcd29c3fe0eeb284b2ac0]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e1fb2a628dbcd29c3fe0eeb284b2ac0]: Textual amendment: S. 79 substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)
+[^c-6e1fb2a628dbcd29c3fe0eeb284b2ac0]: Textual amendment: S. 79 substituted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/4/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/c)

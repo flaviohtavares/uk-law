@@ -39,7 +39,7 @@ even though membership of the body is open to the public, or to a section of the
 
 (4) Paragraph (3) applies to a provision for conferring benefits on persons on one sex only (disregarding any benefits to persons of the opposite sex which are exceptional or are relatively insignificant), being a provision which constitutes the main object of a body within paragraph (1).
 
-(5)[^c20772631] Paragraphs (2) to (4) do not apply to discrimination under Article 3, 3A or 4A[^key-26de91375c969b63222a52e3066e63cc] in its application to Articles 30 to 32 unless the treatment mentioned in those paragraphs is—
+(5)[^c20772631] Paragraphs (2) to (4) do not apply to discrimination under Article 3, 3A or 4A[^c-26de91375c969b63222a52e3066e63cc] in its application to Articles 30 to 32 unless the treatment mentioned in those paragraphs is—
 
 - (a) a proportionate means of achieving a legitimate aim, or
 - (b) for the purpose of preventing or compensating for a disadvantage linked to sex.
@@ -48,4 +48,4 @@ even though membership of the body is open to the public, or to a section of the
 
 [^c20772631]: Textual amendment: Art. 35(5) inserted (6.4.2008) by [Sex Discrimination (Amendment of Legislation) Regulations 2008 (S.I. 2008/963)](https://www.legislation.gov.uk/uksi/2008/963), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/963/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/963/regulation/2/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/963/schedule/2/paragraph/7)
 
-[^key-26de91375c969b63222a52e3066e63cc]: Textual amendment: Words in art. 35(5) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2016/191/regulation/15)
+[^c-26de91375c969b63222a52e3066e63cc]: Textual amendment: Words in art. 35(5) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2016/191/regulation/15)

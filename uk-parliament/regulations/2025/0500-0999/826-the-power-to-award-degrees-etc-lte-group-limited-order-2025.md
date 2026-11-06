@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Power to Award Degrees etc. (LTE Group Limited) Order 2025 (revoked)[^key-21199b0626a3bdfdee655d1a587924cb]
+The Power to Award Degrees etc. (LTE Group Limited) Order 2025 (revoked)[^c-21199b0626a3bdfdee655d1a587924cb]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 1st January 2026
 
-[^key-21199b0626a3bdfdee655d1a587924cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21199b0626a3bdfdee655d1a587924cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-21199b0626a3bdfdee655d1a587924cb]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Authorisation to grant awards[^key-21199b0626a3bdfdee655d1a587924cb]
+## 1. Citation and commencement[^c-21199b0626a3bdfdee655d1a587924cb]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-21199b0626a3bdfdee655d1a587924cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 2. Authorisation to grant awards[^c-21199b0626a3bdfdee655d1a587924cb]
 
-**4.**[^key-21199b0626a3bdfdee655d1a587924cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-21199b0626a3bdfdee655d1a587924cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-21199b0626a3bdfdee655d1a587924cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-21199b0626a3bdfdee655d1a587924cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21199b0626a3bdfdee655d1a587924cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-21199b0626a3bdfdee655d1a587924cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21199b0626a3bdfdee655d1a587924cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21199b0626a3bdfdee655d1a587924cb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/826) revoked (29.12.2025) by [The Power to Award Degrees etc. (LTE Group Limited) (Revocation) Order 2025 (S.I. 2025/1283)](https://www.legislation.gov.uk/uksi/2025/1283), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1283/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1283/article/2)
+[^c-21199b0626a3bdfdee655d1a587924cb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/826) revoked (29.12.2025) by [The Power to Award Degrees etc. (LTE Group Limited) (Revocation) Order 2025 (S.I. 2025/1283)](https://www.legislation.gov.uk/uksi/2025/1283), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1283/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1283/article/2)

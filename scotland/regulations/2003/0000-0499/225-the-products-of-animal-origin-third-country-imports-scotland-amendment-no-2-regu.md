@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Products of Animal Origin (Third Country Imports) (Scotland) Amendment (No. 2) Regulations 2003 (revoked)[^key-1b5312d0baa0c15a4053a5021b7a0927]
+The Products of Animal Origin (Third Country Imports) (Scotland) Amendment (No. 2) Regulations 2003 (revoked)[^c-1b5312d0baa0c15a4053a5021b7a0927]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 11th April 2003
 
-[^key-1b5312d0baa0c15a4053a5021b7a0927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b5312d0baa0c15a4053a5021b7a0927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1b5312d0baa0c15a4053a5021b7a0927]
+## 1. Citation and commencement[^c-1b5312d0baa0c15a4053a5021b7a0927]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^key-1b5312d0baa0c15a4053a5021b7a0927]
+## 2. Amendment to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^c-1b5312d0baa0c15a4053a5021b7a0927]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b5312d0baa0c15a4053a5021b7a0927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b5312d0baa0c15a4053a5021b7a0927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1b5312d0baa0c15a4053a5021b7a0927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b5312d0baa0c15a4053a5021b7a0927]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b5312d0baa0c15a4053a5021b7a0927]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1), [71(d)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/d)
+[^c-1b5312d0baa0c15a4053a5021b7a0927]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1), [71(d)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/d)

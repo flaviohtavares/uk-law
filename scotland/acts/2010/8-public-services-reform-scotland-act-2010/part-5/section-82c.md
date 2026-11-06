@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82C. Review and redevelopment of staffing methods[^key-440884fe6be680c50f1f7f641b74c8f9]
+## 82C. Review and redevelopment of staffing methods[^c-440884fe6be680c50f1f7f641b74c8f9]
 
 *Extent: S*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) SCSWIS may develop and recommend to the Scottish Ministers revised staffing methods for use by persons who provide care services.
 
-(3) Subsections (2), (3), (5) , (6)[^key-886d2e8f9baff0fff68b0cee368bf6cf] and (7) of section 82A apply to the redevelopment of staffing methods under this section as they apply to their development under that section.
+(3) Subsections (2), (3), (5) , (6)[^c-886d2e8f9baff0fff68b0cee368bf6cf] and (7) of section 82A apply to the redevelopment of staffing methods under this section as they apply to their development under that section.
 
 (4) The Scottish Ministers may direct SCSWIS to develop a revised staffing method for use in relation to a particular kind of care service specified in the direction.
 
 ## Annotations
 
-[^key-440884fe6be680c50f1f7f641b74c8f9]: Textual amendment: [Pt. 5 Ch. 3A](https://www.legislation.gov.uk/asp/2010/8/part/5/chapter/3A) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2) (as amended by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4))
+[^c-440884fe6be680c50f1f7f641b74c8f9]: Textual amendment: [Pt. 5 Ch. 3A](https://www.legislation.gov.uk/asp/2010/8/part/5/chapter/3A) inserted (1.4.2024) by [Health and Care (Staffing) (Scotland) Act 2019 (asp 6)](https://www.legislation.gov.uk/asp/2019/6), [ss. 12(2)](https://www.legislation.gov.uk/asp/2019/6/section/12/2), [15(2)](https://www.legislation.gov.uk/asp/2019/6/section/15/2); [S.S.I. 2024/20](https://www.legislation.gov.uk/ssi/2024/20), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/20/regulation/2/2) (as amended by [The Health and Care (Staffing) (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/127)](https://www.legislation.gov.uk/ssi/2023/127), [regs. 1](https://www.legislation.gov.uk/ssi/2023/127/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2023/127/regulation/3/4))
 
-[^key-886d2e8f9baff0fff68b0cee368bf6cf]: Annotation text not found in the source document.
+[^c-886d2e8f9baff0fff68b0cee368bf6cf]: Annotation text not found in the source document.

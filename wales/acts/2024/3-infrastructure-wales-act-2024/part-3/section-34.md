@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Notice of accepted applications and publicity[^key-b30ebf179f836dffc410fb7d02eee3d6][^key-6b00cc240f5da00676f49e4c4b8d8cba]
+## 34. Notice of accepted applications and publicity[^c-b30ebf179f836dffc410fb7d02eee3d6][^c-6b00cc240f5da00676f49e4c4b8d8cba]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ the reasons for extending the deadline.
 
 ## Annotations
 
-[^key-b30ebf179f836dffc410fb7d02eee3d6]: Commencement: S. 34 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-b30ebf179f836dffc410fb7d02eee3d6]: Commencement: S. 34 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-6b00cc240f5da00676f49e4c4b8d8cba]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2024/3/section/34) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-6b00cc240f5da00676f49e4c4b8d8cba]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2024/3/section/34) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

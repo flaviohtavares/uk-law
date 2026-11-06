@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Subscription for stock[^key-aa7d71e6717f42f7e6f619263d2108de]
+## 16. Subscription for stock[^c-aa7d71e6717f42f7e6f619263d2108de]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa7d71e6717f42f7e6f619263d2108de]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-aa7d71e6717f42f7e6f619263d2108de]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

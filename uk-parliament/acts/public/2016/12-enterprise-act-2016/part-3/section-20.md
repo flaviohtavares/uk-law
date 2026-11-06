@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Extending the primary authority scheme[^c22567891][^key-ff362812747b332675bcf7823892e5e9]
+## 20. Extending the primary authority scheme[^c22567891][^c-ff362812747b332675bcf7823892e5e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -681,4 +681,4 @@ summary: ''
 
 [^c22567891]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/12/section/20) in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c)
 
-[^key-ff362812747b332675bcf7823892e5e9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/12/section/20) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)
+[^c-ff362812747b332675bcf7823892e5e9]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/12/section/20) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)

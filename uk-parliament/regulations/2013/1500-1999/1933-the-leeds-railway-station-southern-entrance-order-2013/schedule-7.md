@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — ACCESS TO WORKS[^key-1113b0db61aa408ce4b82fc6f93da54a]
+## SCHEDULE 7 — ACCESS TO WORKS[^c-1113b0db61aa408ce4b82fc6f93da54a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 10
 
 ## Annotations
 
-[^key-1113b0db61aa408ce4b82fc6f93da54a]: Commencement: Sch. 7 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-1113b0db61aa408ce4b82fc6f93da54a]: Commencement: Sch. 7 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

@@ -36,94 +36,94 @@ laying down revised procedures for conducting Commission inspections in the fiel
 
 (Text with EEA relevance) (revoked)
 
-[^key-6fed7cadabc603a0b74a6c6ff4de5953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fed7cadabc603a0b74a6c6ff4de5953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — SUBJECT MATTER AND DEFINITIONS[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
-### Article 1. Subject matter[^key-6fed7cadabc603a0b74a6c6ff4de5953]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 1. Subject matter[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — GENERAL REQUIREMENTS[^key-6fed7cadabc603a0b74a6c6ff4de5953]
-
-### Article 3. Cooperation of Member States[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 2. Definitions[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Exercise of Commission powers[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+## CHAPTER II — GENERAL REQUIREMENTS[^c-6fed7cadabc603a0b74a6c6ff4de5953]
+
+### Article 3. Cooperation of Member States[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Participation of national inspectors in Commission inspections[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 4. Exercise of Commission powers[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Technical assistance from the European Maritime Safety Agency in Commission inspections[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 5. Participation of national inspectors in Commission inspections[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Qualification criteria and training for Commission inspectors[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 6. Technical assistance from the European Maritime Safety Agency in Commission inspections[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — PROCEDURES FOR THE CONDUCT OF COMMISSION INSPECTIONS[^key-6fed7cadabc603a0b74a6c6ff4de5953]
-
-### Article 8. Notice of inspections[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 7. Qualification criteria and training for Commission inspectors[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Preparation of inspections[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+## CHAPTER III — PROCEDURES FOR THE CONDUCT OF COMMISSION INSPECTIONS[^c-6fed7cadabc603a0b74a6c6ff4de5953]
+
+### Article 8. Notice of inspections[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Conduct of inspections[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 9. Preparation of inspections[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Inspection report[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 10. Conduct of inspections[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Response from the Member State[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 11. Inspection report[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Action by the Commission[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 12. Response from the Member State[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — GENERAL AND FINAL PROVISIONS[^key-6fed7cadabc603a0b74a6c6ff4de5953]
-
-### Article 14. Confidentiality of information[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 13. Action by the Commission[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Commission inspection programme[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+## CHAPTER IV — GENERAL AND FINAL PROVISIONS[^c-6fed7cadabc603a0b74a6c6ff4de5953]
+
+### Article 14. Confidentiality of information[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Informing Member States of major non-conformity[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 15. Commission inspection programme[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Review[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 16. Informing Member States of major non-conformity[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Repeal[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 17. Review[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Entry into force[^key-6fed7cadabc603a0b74a6c6ff4de5953]
+### Article 18. Repeal[^c-6fed7cadabc603a0b74a6c6ff4de5953]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6fed7cadabc603a0b74a6c6ff4de5953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 19. Entry into force[^c-6fed7cadabc603a0b74a6c6ff4de5953]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6fed7cadabc603a0b74a6c6ff4de5953]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6fed7cadabc603a0b74a6c6ff4de5953]: Textual amendment: Regulation revoked (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2019/308/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fed7cadabc603a0b74a6c6ff4de5953]: Textual amendment: Regulation revoked (31.12.2020) by [The Ship and Port Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/308)](https://www.legislation.gov.uk/uksi/2019/308), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/308/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2019/308/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

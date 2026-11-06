@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Overview[^key-77c32856c4b111351ac8a107d475e811]
+## 11. Overview[^c-77c32856c4b111351ac8a107d475e811]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ This Chapter makes provision for the assessment of disused tips; in particular, 
 
 ## Annotations
 
-[^key-77c32856c4b111351ac8a107d475e811]: Commencement: S. 11 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-77c32856c4b111351ac8a107d475e811]: Commencement: S. 11 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

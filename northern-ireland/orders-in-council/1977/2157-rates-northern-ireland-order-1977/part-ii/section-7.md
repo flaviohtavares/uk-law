@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Making of rates[^key-2a959b9f86d759ca3d68acf80741f715][^key-89fdd491b7558d799e13a29f57e66a52]
+## 7. Making of rates[^c-2a959b9f86d759ca3d68acf80741f715][^c-89fdd491b7558d799e13a29f57e66a52]
 
 *Extent: N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2a959b9f86d759ca3d68acf80741f715]: Modification: Art. 7 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
+[^c-2a959b9f86d759ca3d68acf80741f715]: Modification: Art. 7 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
 
-[^key-89fdd491b7558d799e13a29f57e66a52]: Modification: [Art. 7](https://www.legislation.gov.uk/nisi/1977/2157/article/7) applied in part (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2022/48/section/11/4), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-89fdd491b7558d799e13a29f57e66a52]: Modification: [Art. 7](https://www.legislation.gov.uk/nisi/1977/2157/article/7) applied in part (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2022/48/section/11/4), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
 [^c16882961]: Textual amendment: [1998 NI 22](https://www.legislation.gov.uk/nisi/1998)

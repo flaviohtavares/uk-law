@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Entry on to primary medical services performers list of persons whose application has been granted under regulation 12 of the 1997 Regulations[^key-f78573449f667dc1fac28bc6bf23b58f]
+## 36. Entry on to primary medical services performers list of persons whose application has been granted under regulation 12 of the 1997 Regulations[^c-f78573449f667dc1fac28bc6bf23b58f]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ it shall add that person’s name to its primary medical services performers lis
 
 ## Annotations
 
-[^key-f78573449f667dc1fac28bc6bf23b58f]: Commencement: Art. 36 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f78573449f667dc1fac28bc6bf23b58f]: Commencement: Art. 36 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00024]: Footnote: Regulation 12 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

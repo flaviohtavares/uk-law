@@ -53,7 +53,7 @@ summary: ''
 - “blank proxy” is to be interpreted in accordance with rule 9.3;
 - \[Note: “business day” is defined in section 251\];
 - “**centre of main interests**” has the same meaning as in the EU Regulation;
-- “COMI proceedings” means insolvency proceedings in Scotland to which the EU Regulation applies where the centre of the debtor’s main interests is in the United Kingdom;[^key-f9370f51851f866fb6d10843f6e17808]
+- “COMI proceedings” means insolvency proceedings in Scotland to which the EU Regulation applies where the centre of the debtor’s main interests is in the United Kingdom;[^c-f9370f51851f866fb6d10843f6e17808]
 - \[Note: “connected” used of a person in relation to a company is defined in section 249 of the Act\];
 - “**consumer**” means an individual acting for purposes that are wholly or mainly outside that individual's trade, business, craft or profession;
 - \[Note: “contributory” is defined in section 79\];
@@ -68,7 +68,7 @@ summary: ''
 - “**document**” includes a written notice or statement or anything else in writing capable of being delivered to a recipient;
 - “establishment” has the same meaning as in Article 2(10) of the EU Regulation;
 - “establishment proceedings” means insolvency proceedings in Scotland to which the EU Regulation applies where the debtor has an establishment in the United Kingdom;
-- \[Note: “EU Regulation” is defined in section 436 [^key-2aed2ab1067f191f09356fdde15da434]...\];
+- \[Note: “EU Regulation” is defined in section 436 [^c-2aed2ab1067f191f09356fdde15da434]...\];
 - \[Note: “**the Gazette**” has the meaning given in section 251\];
 - “**Gazette notice**” means a notice which is, has been or is to be gazetted;
 - “**to gazette**” means to advertise in the Gazette, whether electronically or otherwise;
@@ -76,12 +76,12 @@ summary: ''
 - “identification details” and similar references to information identifying persons, proceedings, etc. are to be interpreted in accordance with rule 1.7;
 - “**insolvent estate**” means the company's assets;
 - “**IP number**” means the number assigned to an office-holder as an insolvency practitioner by the Secretary of State;
-- [^key-623989de935b9cbdd7686e8bb8c37b12]...
-- [^key-0332676bf0a4d4462abbe167c185d1c6]...
+- [^c-623989de935b9cbdd7686e8bb8c37b12]...
+- [^c-0332676bf0a4d4462abbe167c185d1c6]...
 - “**meeting**” in relation to a company's creditors or contributories means either a “physical meeting” or a “virtual meeting”;
-- [^key-f2e245337a56474b824fd5d733b19930]...
+- [^c-f2e245337a56474b824fd5d733b19930]...
 - “**nominated person**” means a person who has been required under section 66 or 131 to make out and submit a statement as to the affairs of a company in receivership or being wound up by the court;
-- [^key-869ef09656c0bc38d35fd85349ed50f2]...
+- [^c-869ef09656c0bc38d35fd85349ed50f2]...
 - “**office-holder**” means a person who under the Act or these Rules holds an office in relation to insolvency proceedings and includes a nominee;
 - “**the official rate**”, in relation to interest, is defined in section 251 [^c23537891];
 - “**petitioner**” includes a person who has been substituted as such;
@@ -92,7 +92,7 @@ summary: ''
 - “proxy” and “proxy-holder” are to be interpreted in accordance with rule 9.2;
 - “**qualified to act as an insolvency practitioner**”, in relation to a company, is to be interpreted in accordance with Part 13 of the Act [^c23537921];
 - \[Note: “records” is defined in section 436(1)\];
-- [^key-b323c26c7f664912bd468eb9a7634826]...
+- [^c-b323c26c7f664912bd468eb9a7634826]...
 - “serve” and “service” are to be interpreted in respect of a particular document by reference to the Rules of Court;
 - “**standard contents**” means—
   - (a) for a Gazette notice, the standard contents set out in Chapter 5 of Part 1;
@@ -105,8 +105,8 @@ summary: ''
   - (d) for notices to be delivered to other persons, the standard contents set out in Chapter 8 of Part 1;
 - “**standard fee for copies**” means 15 pence per A4 or A5 page or 30 pence per A3 page;
 - “statement of claim” is to be interpreted in accordance with rule 7.16;
-- [^key-f68c7c434aab8ce0e404a8b937015ded]...
-- [^key-cb0739a1867c0c6073019eda28b6d488]...
+- [^c-f68c7c434aab8ce0e404a8b937015ded]...
+- [^c-cb0739a1867c0c6073019eda28b6d488]...
 - “**venue**” in relation to any proceedings, attendance before the court, decision procedure or meeting means the time, date and place or platform for the proceedings, attendance, decision procedure or meeting;
 - “**virtual meeting**” has the meaning given by rule 8.2;
 - “**winding up by the court**” means a winding up under section 122, 124A [^c23537951] or 221;
@@ -209,16 +209,16 @@ are not included.
 </tbody>
 </table>
 
-## 1.8. Reasons for stating whether proceedings are or will be COMI proceedings, establishment proceedings etc.[^key-41159e0c3c11633350098720d8cc6dfc]
+## 1.8. Reasons for stating whether proceedings are or will be COMI proceedings, establishment proceedings etc.[^c-41159e0c3c11633350098720d8cc6dfc]
 
 *Extent: S*
 
-Where these Rules require reasons to be given for a statement that proceedings are or will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-fa8dc22c72f247c9428ccdb2d620452f], the reasons must include as applicable[^M_F_d4f7c9b9-a4a4-44b6-ab1c-2626fcd3da02]—
+Where these Rules require reasons to be given for a statement that proceedings are or will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-fa8dc22c72f247c9428ccdb2d620452f], the reasons must include as applicable[^M_F_d4f7c9b9-a4a4-44b6-ab1c-2626fcd3da02]—
 
 - (a) the company's centre of main interests;
 - (b) the place of the company's registered office within the meaning of Article 3(1) of the EU Regulation and where appropriate an explanation why this is not the same as the centre of main interests;
-- (ba)[^key-40a1d1f2e130ac66db8f88af7424abbf] the place where there is an establishment within the jurisdiction; or
-- (c) a statement that there is no registered office if that be the case in proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-a81f20a55ed55af8369055965fd73500].
+- (ba)[^c-40a1d1f2e130ac66db8f88af7424abbf] the place where there is an establishment within the jurisdiction; or
+- (c) a statement that there is no registered office if that be the case in proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-a81f20a55ed55af8369055965fd73500].
 
 ## 1.9. Prescribed format of documents
 
@@ -342,7 +342,7 @@ the document must contain the standard contents set out in this Chapter (in addi
 - (f) notice of the liquidator's death under rule 3.8;
 - (g) notice to AiB that a liquidator has vacated office on loss of qualification to act under rule 5.31(2)(b);
 - (h) any report including a progress report (including a final progress report);
-- (i)[^key-431f9f2ae75fe5c68bc796c9d7be2037] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-431f9f2ae75fe5c68bc796c9d7be2037] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The office-holder must deliver with a document mentioned in paragraph (1) and (2) a notice containing the standard contents required by this Part.
 
@@ -949,23 +949,23 @@ No insolvency proceedings are invalidated by any formal defect or irregularity u
 
 [^c23537831]: Marginal citation: [Section 22](https://www.legislation.gov.uk/ssi/2018/347/section/22) is amended by section 7 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-f9370f51851f866fb6d10843f6e17808]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) inserted (31.12.2020) by S.I. 2019/146, Sch. para. 137B(1)(c) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f9370f51851f866fb6d10843f6e17808]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) inserted (31.12.2020) by S.I. 2019/146, Sch. para. 137B(1)(c) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23537841]: Marginal citation: [S.I. 2018/1082](https://www.legislation.gov.uk/uksi/2018/1082).
 
 [^c23537851]: Marginal citation: [Section 246ZF](https://www.legislation.gov.uk/ssi/2018/347/section/246ZF) is prospectively inserted for Scotland by section 122 of the 2015 Act.
 
-[^key-2aed2ab1067f191f09356fdde15da434]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(b) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-2aed2ab1067f191f09356fdde15da434]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(b) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23537871]: Marginal citation: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-623989de935b9cbdd7686e8bb8c37b12]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(i) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-623989de935b9cbdd7686e8bb8c37b12]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(i) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-0332676bf0a4d4462abbe167c185d1c6]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(ii) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-0332676bf0a4d4462abbe167c185d1c6]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(ii) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-f2e245337a56474b824fd5d733b19930]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(iii) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f2e245337a56474b824fd5d733b19930]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(iii) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-869ef09656c0bc38d35fd85349ed50f2]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(iv) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-869ef09656c0bc38d35fd85349ed50f2]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(iv) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23537891]: Marginal citation: [Rule 7](https://www.legislation.gov.uk/ssi/2018/347/rule/7).26 specifies a rate used in calculating the official rate in accordance with section 189(4) and (5) of the Act.
 
@@ -975,27 +975,27 @@ No insolvency proceedings are invalidated by any formal defect or irregularity u
 
 [^c23537921]: Marginal citation: [Part 13](https://www.legislation.gov.uk/ssi/2018/347/part/13) was amended by the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20), [section 17](https://www.legislation.gov.uk/ukpga/2015/20/section/17) and the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26), [sections 115](https://www.legislation.gov.uk/ukpga/2015/26/section/115) and 137 to 143. Other amendments not relevant to this instrument have been made to Part 13.
 
-[^key-b323c26c7f664912bd468eb9a7634826]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(v) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-b323c26c7f664912bd468eb9a7634826]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(v) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-f68c7c434aab8ce0e404a8b937015ded]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(vi) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f68c7c434aab8ce0e404a8b937015ded]: Textual amendment: Words in [rule 1.2(1)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.2/1) omitted (31.12.2020) by virtue of S.I. 2019/146, Sch. para. 137B(1)(a)(vi) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-cb0739a1867c0c6073019eda28b6d488]: Textual amendment: Words in rule 1.2(1) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137B(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137B/1/a/vii) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-cb0739a1867c0c6073019eda28b6d488]: Textual amendment: Words in rule 1.2(1) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137B(1)(a)(vii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137B/1/a/vii) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23537951]: Marginal citation: [Section 124A](https://www.legislation.gov.uk/ssi/2018/347/section/124A) was inserted by section 60 of the [Companies Act 1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40) and amended by article 305 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and section 25 of the [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27).
 
 [^c23537961]: Marginal citation: [Section 436B(1)](https://www.legislation.gov.uk/ssi/2018/347/section/436B/1) of the Act provides that a reference in the Act to a thing in writing includes that thing in electronic form; subsection (2) excludes certain sections of the Act from the application of subsection (1). Section 436B was inserted by S.I. 2010/18. Section 436B(2) is prospectively amended for Scotland by [S.S.I. 2016/141](https://www.legislation.gov.uk/ssi/2016/141), [article 13](https://www.legislation.gov.uk/ssi/2016/141/article/13).
 
-[^key-41159e0c3c11633350098720d8cc6dfc]: Textual amendment: [Rule 1.8](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8) heading substituted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(2) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-41159e0c3c11633350098720d8cc6dfc]: Textual amendment: [Rule 1.8](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8) heading substituted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(2) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-fa8dc22c72f247c9428ccdb2d620452f]: Textual amendment: Words in [rule 1.8](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8) substituted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(3) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-fa8dc22c72f247c9428ccdb2d620452f]: Textual amendment: Words in [rule 1.8](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8) substituted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(3) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^M_F_d4f7c9b9-a4a4-44b6-ab1c-2626fcd3da02]: Textual amendment: Words in [rule 1.8](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8) inserted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(3) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-40a1d1f2e130ac66db8f88af7424abbf]: Textual amendment: [Rule 1.8(ba)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8/ba) inserted by S.I. 2019/146, Sch. para. 137C(4) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-40a1d1f2e130ac66db8f88af7424abbf]: Textual amendment: [Rule 1.8(ba)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8/ba) inserted by S.I. 2019/146, Sch. para. 137C(4) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-a81f20a55ed55af8369055965fd73500]: Textual amendment: [Rule 1.8(c)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8/c) substituted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(5) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-a81f20a55ed55af8369055965fd73500]: Textual amendment: [Rule 1.8(c)](https://www.legislation.gov.uk/ssi/2018/347/rule/1.8/c) substituted (31.12.2020) by S.I. 2019/146, Sch. para. 137C(5) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-431f9f2ae75fe5c68bc796c9d7be2037]: Textual amendment: Rule 1.17(2)(i) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137D](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137D) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-431f9f2ae75fe5c68bc796c9d7be2037]: Textual amendment: Rule 1.17(2)(i) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137D](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137D) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23537971]: Marginal citation: [Section 246B](https://www.legislation.gov.uk/ssi/2018/347/section/246B) was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18) and prospectively amended for Scotland by [S.S.I. 2016/141](https://www.legislation.gov.uk/ssi/2016/141).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Relevant person’s right to require review of compulsory supervision order[^key-92f1386e970ce74a169226a3332bfd33]
+## 46. Relevant person’s right to require review of compulsory supervision order[^c-92f1386e970ce74a169226a3332bfd33]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92f1386e970ce74a169226a3332bfd33]: Commencement: S. 46 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-92f1386e970ce74a169226a3332bfd33]: Commencement: S. 46 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

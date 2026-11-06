@@ -22,7 +22,7 @@ summary: ''
 
 (1) Allowances are available under this Part if a person incurs qualifying expenditure on research and development.
 
-(2)[^key-569d6145689c82c0375b8c01b53a99fd] In this Part “research and development”—
+(2)[^c-569d6145689c82c0375b8c01b53a99fd] In this Part “research and development”—
 
 - (a) means activities that fall to be treated as research and development in accordance with generally accepted accounting practice, and
 - (b) includes oil and gas exploration and appraisal.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-569d6145689c82c0375b8c01b53a99fd]: Textual amendment: S. 437(2)(3) substituted for s. 437(2) (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 407](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/407) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-569d6145689c82c0375b8c01b53a99fd]: Textual amendment: S. 437(2)(3) substituted for s. 437(2) (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 407](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/407) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

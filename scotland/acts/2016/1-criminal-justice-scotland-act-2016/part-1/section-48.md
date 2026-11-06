@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Power of search etc. on arrest[^key-98bc4c1543eb5330dbb38b51cf75e5ec]
+## 48. Power of search etc. on arrest[^c-98bc4c1543eb5330dbb38b51cf75e5ec]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98bc4c1543eb5330dbb38b51cf75e5ec]: Commencement: S. 48 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-98bc4c1543eb5330dbb38b51cf75e5ec]: Commencement: S. 48 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

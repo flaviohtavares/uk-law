@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — STREET TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-2b62624b65be8b386cc11d8a332cf3c1]
+## SCHEDULE 5 — STREET TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-2b62624b65be8b386cc11d8a332cf3c1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 8
 
 ## Annotations
 
-[^key-2b62624b65be8b386cc11d8a332cf3c1]: Commencement: Sch. 5 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-2b62624b65be8b386cc11d8a332cf3c1]: Commencement: Sch. 5 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

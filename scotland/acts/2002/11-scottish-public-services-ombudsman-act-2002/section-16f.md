@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16F. Complaints handling procedures: application of other enactments[^key-41535e83dfba7a390730b3ac558b1016]
+## 16F. Complaints handling procedures: application of other enactments[^c-41535e83dfba7a390730b3ac558b1016]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The duties in sections 16A(2) and (3) and 16C(2) do not apply to the extent that
 
 ## Annotations
 
-[^key-41535e83dfba7a390730b3ac558b1016]: Textual amendment: Ss. 16A-16G and cross-heading inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 119](https://www.legislation.gov.uk/asp/2010/8/section/119), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-41535e83dfba7a390730b3ac558b1016]: Textual amendment: Ss. 16A-16G and cross-heading inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 119](https://www.legislation.gov.uk/asp/2010/8/section/119), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

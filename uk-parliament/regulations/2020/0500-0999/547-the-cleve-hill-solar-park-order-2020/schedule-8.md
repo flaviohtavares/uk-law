@@ -24,7 +24,7 @@ Article 29
 
 ### PART 1 — LICENSED MARINE ACTIVITIES
 
-**1.**[^key-4231e6501922d282cf998149993cfa85] (1) In this licence—
+**1.**[^c-4231e6501922d282cf998149993cfa85] (1) In this licence—
 
 - “**the 2009 Act**” means the Marine and Coastal Access Act 2009;
 - “**authorised deposits**” means the substances and articles specified in paragraph of Part 1 of this licence;
@@ -77,7 +77,7 @@ Article 29
 
   TN34 3DW
 
-#### 2. Details of licensed marine activities[^key-0f42ebff5b15bbbdf2dc7a52cf2ad9bf]
+#### 2. Details of licensed marine activities[^c-0f42ebff5b15bbbdf2dc7a52cf2ad9bf]
 
 (1) Subject to the licence conditions, this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act which—
 
@@ -120,7 +120,7 @@ Article 29
   - (iii) do not provide an overall increase or reduction in flood level; and
   - (iv) do not require excavations of beach material deeper than 1.5 metres.
 
-**3.**[^key-97658cd6e140e0d550767b8b5c014fd1] The substances or articles authorised for deposit at sea include—
+**3.**[^c-97658cd6e140e0d550767b8b5c014fd1] The substances or articles authorised for deposit at sea include—
 
 - (a) iron and steel, copper and aluminium;
 - (b) stone and rock;
@@ -131,7 +131,7 @@ Article 29
 - (g) marine coatings; and
 - (h) material extracted from within the offshore Order limits.
 
-**4.**[^key-5c58e6b68810a7c7023e4f80e780fa29] The grid coordinates for that part of the authorised development comprising Work No. 9 are specified below and more particularly on the location, order limits and grid coordinates plan—
+**4.**[^c-5c58e6b68810a7c7023e4f80e780fa29] The grid coordinates for that part of the authorised development comprising Work No. 9 are specified below and more particularly on the location, order limits and grid coordinates plan—
 
 | *Point ID* | *Latitude (DMS)* | *Longitude (DMS)* | *Point ID* | *Latitude (DMS)* | *Longitude (DMS)* |
 | --- | --- | --- | --- | --- | --- |
@@ -235,32 +235,32 @@ Article 29
 | 98 | 51° 20′ 31.727″ N | 0° 54′ 3.734″ E | 197 | 51° 20′ 46.743″ N | 0° 56′ 35.249″ E |
 | 99 | 51° 20′ 32.193″ N | 0° 54′ 5.976″ E | 198 | 51° 20′ 46.536″ N | 0° 56′ 37.296″ E |
 
-**5.**[^key-757c1c879e68b06d1b03644f5d307812] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) relating to the transfer of the licence only apply to a transfer not falling within article 5 (consent to transfer benefit of Order).
+**5.**[^c-757c1c879e68b06d1b03644f5d307812] The provisions of section 72 (variation, suspension, revocation and transfer) of the 2009 Act apply to this licence except that the provisions of section 72(7) relating to the transfer of the licence only apply to a transfer not falling within article 5 (consent to transfer benefit of Order).
 
-**6.**[^key-17adbe9c69260693a03406f32890a823] With respect to any condition which requires the licensed activities be carried out in accordance with the plans, protocols or statements approved under this Schedule, the approved details, plan or project are taken to include any amendments that may subsequently be approved in writing by the MMO.
+**6.**[^c-17adbe9c69260693a03406f32890a823] With respect to any condition which requires the licensed activities be carried out in accordance with the plans, protocols or statements approved under this Schedule, the approved details, plan or project are taken to include any amendments that may subsequently be approved in writing by the MMO.
 
-**7.**[^key-360c4e31dd7b57545644ab9e9c348af8] Any amendments to or variations from the approved details must be in accordance with the principles and assessments set out in the environmental statement. Such agreement may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of the relevant planning authority or that other person that the subject matter of the agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
+**7.**[^c-360c4e31dd7b57545644ab9e9c348af8] Any amendments to or variations from the approved details must be in accordance with the principles and assessments set out in the environmental statement. Such agreement may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of the relevant planning authority or that other person that the subject matter of the agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
 ### PART 2 — CONDITIONS
 
-#### 1. Notifications regarding licensed activities[^key-c1996137bfb792bf0f7409c462ee428b]
+#### 1. Notifications regarding licensed activities[^c-c1996137bfb792bf0f7409c462ee428b]
 
 The licence holder must inform the MMO in writing of the commencement of the first licensed activity at least 24 hours prior to such commencement.
 
-**2.**[^key-a513eb66a0efc6b7c534a8198dfbcb1e] (1) The licence holder must inform the MMO of the name and function of any agent or contractor appointed to engage in any licensed activity not less than 24 hours before the commencement of the licensed activity in question.
+**2.**[^c-a513eb66a0efc6b7c534a8198dfbcb1e] (1) The licence holder must inform the MMO of the name and function of any agent or contractor appointed to engage in any licensed activity not less than 24 hours before the commencement of the licensed activity in question.
 
 (2) Any changes to details supplied under sub-paragraph (1) must be notified to the MMO in writing prior to the agent, contractor or vessel engaging in the licensed activity in question.
 
 (3) Only those persons notified to the MMO in accordance with this condition are permitted to carry out a licensed activity.
 
-**3.**[^key-6963429e963f172a1678673aa3f205e7] The licence holder must ensure that a copy of this Schedule has been read and understood by any agents and contractors that will be carrying out any licensed activity on behalf of the licence holder, as notified to the MMO under condition 10.
+**3.**[^c-6963429e963f172a1678673aa3f205e7] The licence holder must ensure that a copy of this Schedule has been read and understood by any agents and contractors that will be carrying out any licensed activity on behalf of the licence holder, as notified to the MMO under condition 10.
 
-**4.**[^key-d5189f5530b36543639b7cd31e17a801] Copies of this Schedule must be available for inspection at the following locations—
+**4.**[^c-d5189f5530b36543639b7cd31e17a801] Copies of this Schedule must be available for inspection at the following locations—
 
 - (a) the licence holder's registered office; and
 - (b) during the construction of the authorised development only, at any site office which is adjacent to or near the river and which has been provided for the purposes of the construction of the authorised development.
 
-#### 5. Pollution prevention[^key-a870a7bc87aac323c547f144ff0afb5d]
+#### 5. Pollution prevention[^c-a870a7bc87aac323c547f144ff0afb5d]
 
 The licence holder must—
 
@@ -272,11 +272,11 @@ The licence holder must—
 - (f) ensure that any coatings and any treatments are suitable for use in the marine environment and are used in accordance with either guidelines approved by the Health and Safety Executive or the Environment Agency;
 - (g) not use priority substances and polluting chemicals listed under the Environmental Quality Standards Directive during works.
 
-#### 6. Post-construction[^key-fe7535f4edaf05de697e8378391f9d4b]
+#### 6. Post-construction[^c-fe7535f4edaf05de697e8378391f9d4b]
 
 The licence holder must remove all temporary structures, waste and debris associated with the construction activities within 6 weeks following completion of the final construction activity.
 
-#### 7. Maintenance[^key-92b2e5de3a26e03fa9c27787d7695321]
+#### 7. Maintenance[^c-92b2e5de3a26e03fa9c27787d7695321]
 
 (1) Unless otherwise agreed by the MMO, the licenced activities may not commence until a maintenance plan has been approved in writing by the MMO.
 
@@ -286,30 +286,30 @@ The licence holder must remove all temporary structures, waste and debris associ
 
 ## Annotations
 
-[^key-4231e6501922d282cf998149993cfa85]: Commencement: Sch. 8 Pt. 1 para. 1 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-4231e6501922d282cf998149993cfa85]: Commencement: Sch. 8 Pt. 1 para. 1 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-0f42ebff5b15bbbdf2dc7a52cf2ad9bf]: Commencement: Sch. 8 Pt. 1 para. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-0f42ebff5b15bbbdf2dc7a52cf2ad9bf]: Commencement: Sch. 8 Pt. 1 para. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-97658cd6e140e0d550767b8b5c014fd1]: Commencement: Sch. 8 Pt. 1 para. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-97658cd6e140e0d550767b8b5c014fd1]: Commencement: Sch. 8 Pt. 1 para. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-5c58e6b68810a7c7023e4f80e780fa29]: Commencement: Sch. 8 Pt. 1 para. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-5c58e6b68810a7c7023e4f80e780fa29]: Commencement: Sch. 8 Pt. 1 para. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-757c1c879e68b06d1b03644f5d307812]: Commencement: Sch. 8 Pt. 1 para. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-757c1c879e68b06d1b03644f5d307812]: Commencement: Sch. 8 Pt. 1 para. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-17adbe9c69260693a03406f32890a823]: Commencement: Sch. 8 Pt. 1 para. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-17adbe9c69260693a03406f32890a823]: Commencement: Sch. 8 Pt. 1 para. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-360c4e31dd7b57545644ab9e9c348af8]: Commencement: Sch. 8 Pt. 1 para. 7 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-360c4e31dd7b57545644ab9e9c348af8]: Commencement: Sch. 8 Pt. 1 para. 7 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-c1996137bfb792bf0f7409c462ee428b]: Commencement: Sch. 8 Pt. 2 para. 1 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-c1996137bfb792bf0f7409c462ee428b]: Commencement: Sch. 8 Pt. 2 para. 1 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-a513eb66a0efc6b7c534a8198dfbcb1e]: Commencement: Sch. 8 Pt. 2 para. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-a513eb66a0efc6b7c534a8198dfbcb1e]: Commencement: Sch. 8 Pt. 2 para. 2 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-6963429e963f172a1678673aa3f205e7]: Commencement: Sch. 8 Pt. 2 para. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-6963429e963f172a1678673aa3f205e7]: Commencement: Sch. 8 Pt. 2 para. 3 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-d5189f5530b36543639b7cd31e17a801]: Commencement: Sch. 8 Pt. 2 para. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-d5189f5530b36543639b7cd31e17a801]: Commencement: Sch. 8 Pt. 2 para. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-a870a7bc87aac323c547f144ff0afb5d]: Commencement: Sch. 8 Pt. 2 para. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-a870a7bc87aac323c547f144ff0afb5d]: Commencement: Sch. 8 Pt. 2 para. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-fe7535f4edaf05de697e8378391f9d4b]: Commencement: Sch. 8 Pt. 2 para. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-fe7535f4edaf05de697e8378391f9d4b]: Commencement: Sch. 8 Pt. 2 para. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-92b2e5de3a26e03fa9c27787d7695321]: Commencement: Sch. 8 Pt. 2 para. 7 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-92b2e5de3a26e03fa9c27787d7695321]: Commencement: Sch. 8 Pt. 2 para. 7 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

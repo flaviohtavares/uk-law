@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Circumstances in which a person is to be treated as reponsible or not responsible for another[^key-c245eee1705e764a178b38d0e39b0b33]
+## 9. Circumstances in which a person is to be treated as reponsible or not responsible for another[^c-c245eee1705e764a178b38d0e39b0b33]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c245eee1705e764a178b38d0e39b0b33]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1991/2887/regulation/9) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-c245eee1705e764a178b38d0e39b0b33]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1991/2887/regulation/9) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

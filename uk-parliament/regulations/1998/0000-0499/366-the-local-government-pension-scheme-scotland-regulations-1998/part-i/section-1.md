@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-60ce3ad30f27442660e1775626c1983e]
+## 1. Citation and commencement[^c-60ce3ad30f27442660e1775626c1983e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Local Government Pension Scheme (Scotland)
 
 ## Annotations
 
-[^key-60ce3ad30f27442660e1775626c1983e]: Commencement: Reg. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-60ce3ad30f27442660e1775626c1983e]: Commencement: Reg. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Modification of the relevant benefit year[^key-1c1cb6e089a9651c75e2a271c42a2704]
+## 13. Modification of the relevant benefit year[^c-1c1cb6e089a9651c75e2a271c42a2704]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ but would satisfy those conditions if the modified definition of “relevant ben
 
 ## Annotations
 
-[^key-1c1cb6e089a9651c75e2a271c42a2704]: Textual amendment: Reg. 13 substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/7)
+[^c-1c1cb6e089a9651c75e2a271c42a2704]: Textual amendment: Reg. 13 substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/7)

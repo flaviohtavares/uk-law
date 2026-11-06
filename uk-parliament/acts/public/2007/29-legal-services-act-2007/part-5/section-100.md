@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Lists of disqualified persons[^key-40e88faf1a46290f718222cb52f95d11]
+## 100. Lists of disqualified persons[^c-40e88faf1a46290f718222cb52f95d11]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40e88faf1a46290f718222cb52f95d11]: Commencement: S. 100 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-40e88faf1a46290f718222cb52f95d11]: Commencement: S. 100 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

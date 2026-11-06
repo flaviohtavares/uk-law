@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Manner of voting at Senedd elections[^key-0e623bad37dde1f7570886fad1f15250]
+## 5. Manner of voting at Senedd elections[^c-0e623bad37dde1f7570886fad1f15250]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ whether P2 is registered by virtue of that provision or not.
 
 ## Annotations
 
-[^key-0e623bad37dde1f7570886fad1f15250]: Commencement: Art. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0e623bad37dde1f7570886fad1f15250]: Commencement: Art. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00029]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). Section 38 was amended by Part 2 of Schedule 17 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); paragraph 2(2) of Schedule 5 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48); paragraph 292 of Schedule 16 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); and sections 3 and 38 of, and paragraph 82 of Schedule 1 to, the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Fit and proper person: criminal conviction certificate[^key-25443099be95accc11aca2004c946fca]
+## 72. Fit and proper person: criminal conviction certificate[^c-25443099be95accc11aca2004c946fca]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ After section 32O of the 1960 Act (inserted by section 71), insert—
 
 ## Annotations
 
-[^key-25443099be95accc11aca2004c946fca]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2014/14/section/72) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-25443099be95accc11aca2004c946fca]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2014/14/section/72) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

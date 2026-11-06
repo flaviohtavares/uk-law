@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Right to request family group decision-making services[^key-688f6560a1da3187fe1178b8283eaa7f]
+## 14. Right to request family group decision-making services[^c-688f6560a1da3187fe1178b8283eaa7f]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688f6560a1da3187fe1178b8283eaa7f]: Commencement: S. 14 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-688f6560a1da3187fe1178b8283eaa7f]: Commencement: S. 14 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

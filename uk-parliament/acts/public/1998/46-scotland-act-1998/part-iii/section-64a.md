@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Assignment of VAT[^key-410b0d93d0e31e49d0d1e6e1a229f82a]
+## 64A. Assignment of VAT[^c-410b0d93d0e31e49d0d1e6e1a229f82a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ where RR is the number of percentage points in the rate at which value added tax
 
 ## Annotations
 
-[^key-410b0d93d0e31e49d0d1e6e1a229f82a]: Textual amendment: S. 64A inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/16/3), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-410b0d93d0e31e49d0d1e6e1a229f82a]: Textual amendment: S. 64A inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/16/3), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)

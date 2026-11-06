@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Compliance with Regulations[^key-8874b9533ea61a69af888cab7f9f70b5]
+## 41. Compliance with Regulations[^c-8874b9533ea61a69af888cab7f9f70b5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where there is more than one registered person in respect of a children’s home
 
 ## Annotations
 
-[^key-8874b9533ea61a69af888cab7f9f70b5]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2005/176/regulation/41) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-8874b9533ea61a69af888cab7f9f70b5]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2005/176/regulation/41) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

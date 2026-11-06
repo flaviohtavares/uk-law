@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1998 (revoked)[^key-aac923d44815e4d23d0eca81754fc0dc]
+Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1998 (revoked)[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 Made
 
@@ -40,123 +40,123 @@ Coming into operation
 
 1st May 1998
 
-[^key-aac923d44815e4d23d0eca81754fc0dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aac923d44815e4d23d0eca81754fc0dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 1. Citation and commencement[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 2. Interpretation[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibitions and restrictions on the despatch of live bovine animals and the products derived therefrom[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 3. Prohibitions and restrictions on the despatch of live bovine animals and the products derived therefrom[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Production of controlled bovine by-products[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 4. Production of controlled bovine by-products[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Control of the consignment of bovine material[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 5. Control of the consignment of bovine material[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Use of controlled bovine by-products and other products[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 6. Use of controlled bovine by-products and other products[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Slaughter of eligible animals from herds in Northern Ireland[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 7. Slaughter of eligible animals from herds in Northern Ireland[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Approval of establishments for the purpose of despatch of eligible and relevant goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 8. Approval of establishments for the purpose of despatch of eligible and relevant goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Fees[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 9. Fees[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers to stop and search vehicles and vessels and detain goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 10. Powers to stop and search vehicles and vessels and detain goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Powers of entry[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 11. Powers of entry[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Seizure of illegal goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 12. Seizure of illegal goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Sampling and other checks and examinations[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 13. Sampling and other checks and examinations[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Powers of customs officers to detain vehicles and vessels[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 14. Powers of customs officers to detain vehicles and vessels[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Suspension notices and orders[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 15. Suspension notices and orders[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Obstruction[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 16. Obstruction[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Offences and penalties[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 17. Offences and penalties[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Enforcement[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 18. Enforcement[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Amendments[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 19. Amendments[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Revocation of the Bovines and Bovine Products (Despatch Prohibition and Production Restriction) Regulations (Northern Ireland) 1997[^key-aac923d44815e4d23d0eca81754fc0dc]
+## 20. Revocation of the Bovines and Bovine Products (Despatch Prohibition and Production Restriction) Regulations (Northern Ireland) 1997[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aac923d44815e4d23d0eca81754fc0dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aac923d44815e4d23d0eca81754fc0dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Conditions of approval of establishments for the production of relevant goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## SCHEDULE 1 — Conditions of approval of establishments for the production of relevant goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 Regulations 3(8) and 8(13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Conditions of approval of establishments for the production of eligible goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## SCHEDULE 2 — Conditions of approval of establishments for the production of eligible goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 Regulations 3(8) and 8(13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Additional mark for the export of relevant goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## SCHEDULE 3 — Additional mark for the export of relevant goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 Regulations 2(2) and 8(7), (8), (9), (10) and (11)
 
-**1.**[^key-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aac923d44815e4d23d0eca81754fc0dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Additional mark for the export of eligible goods[^key-aac923d44815e4d23d0eca81754fc0dc]
+## SCHEDULE 4 — Additional mark for the export of eligible goods[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 Regulations 2(2) and 8(7), (8), (9), (10) and (11)
 
-### Additional mark for carcases[^key-aac923d44815e4d23d0eca81754fc0dc]
+### Additional mark for carcases[^c-aac923d44815e4d23d0eca81754fc0dc]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1998/163/images/nisr_19980163_en_002)
 
@@ -168,8 +168,8 @@ Equilateral triangle, side dimensions 5.5 cms. In the upper part the letters VS 
 
 **May not be in force at this date. Check the source.**
 
-[^key-aac923d44815e4d23d0eca81754fc0dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aac923d44815e4d23d0eca81754fc0dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aac923d44815e4d23d0eca81754fc0dc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/163) revoked (29.7.1999) by [Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/308)](https://www.legislation.gov.uk/nisr/1999/308), [regs. 1](https://www.legislation.gov.uk/nisr/1999/308/regulation/1), [25](https://www.legislation.gov.uk/nisr/1999/308/regulation/25) (with [(3)](https://www.legislation.gov.uk/nisr/1999/308/regulation/25/3)
+[^c-aac923d44815e4d23d0eca81754fc0dc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/163) revoked (29.7.1999) by [Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1999 (revoked) 1999 (S.R. 1999/308)](https://www.legislation.gov.uk/nisr/1999/308), [regs. 1](https://www.legislation.gov.uk/nisr/1999/308/regulation/1), [25](https://www.legislation.gov.uk/nisr/1999/308/regulation/25) (with [(3)](https://www.legislation.gov.uk/nisr/1999/308/regulation/25/3)

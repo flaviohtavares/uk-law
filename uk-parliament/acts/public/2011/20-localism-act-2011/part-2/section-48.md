@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Power to require public authorities to make payments in respect of certain EU financial sanctions[^key-ab39450768ad8d009dc138eb4b9bc06a]
+## 48. Power to require public authorities to make payments in respect of certain EU financial sanctions[^c-ab39450768ad8d009dc138eb4b9bc06a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab39450768ad8d009dc138eb4b9bc06a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/20/section/48) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-ab39450768ad8d009dc138eb4b9bc06a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/20/section/48) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

@@ -41,7 +41,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 207(4) and (6) and 216(3) of the Equality Act 2010[^f00001], makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-4b4cbd2dcef7eb0091391536fdb080df]
+## 1. Citation, commencement and interpretation[^c-4b4cbd2dcef7eb0091391536fdb080df]
 
 (1) This Order may be cited as the Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010.
 
@@ -74,7 +74,7 @@ The Secretary of State, in exercise of the powers conferred by sections 207(4) a
   - (i) the Age Regulations;
   - (j) the 2007 Sexual Orientation Regulations.
 
-## 2. Provisions coming into force on 1st October 2010[^key-2a3be72f0b4669d4074502a828a1bf6d]
+## 2. Provisions coming into force on 1st October 2010[^c-2a3be72f0b4669d4074502a828a1bf6d]
 
 (1) Subject to articles 3 to 25, the relevant provisions of the 2010 Act, as set out in the following paragraphs, come into force on 1st October 2010.
 
@@ -222,7 +222,7 @@ The Secretary of State, in exercise of the powers conferred by sections 207(4) a
   - (vi) sections 84 and 85 of the 2006 Act;
   - (vii) sections 55 and 56 of the Local Transport Act 2008[^f00022].
 
-## 3. Commencement and savings relating to the Additional Support Needs Tribunal for Scotland[^key-5a6b2e6b8645535f47bda8cddf38c192]
+## 3. Commencement and savings relating to the Additional Support Needs Tribunal for Scotland[^c-5a6b2e6b8645535f47bda8cddf38c192]
 
 The following provisions of Part 9 of the 2010 Act (enforcement) (in so far as not coming into force under article 2(9)) come into force on 18th March 2011—
 
@@ -231,13 +231,13 @@ The following provisions of Part 9 of the 2010 Act (enforcement) (in so far as n
 - (c) section 136(6)(f);
 - (d) in Schedule 17, Part 3.
 
-**4.**[^key-4243ff619d7ece91e948cec4f7b968a8] (1) Paragraph (2) applies in relation to a claim that the responsible body of a school in Scotland to which section 85 of the 2010 Act applies has contravened Part 6 of the 2010 Act because of a person’s disability, if the act complained of is done on 1st October 2010 or is done after that date but before 18th March 2011, and the legal proceedings in respect of it are instituted before 18th March 2011.
+**4.**[^c-4243ff619d7ece91e948cec4f7b968a8] (1) Paragraph (2) applies in relation to a claim that the responsible body of a school in Scotland to which section 85 of the 2010 Act applies has contravened Part 6 of the 2010 Act because of a person’s disability, if the act complained of is done on 1st October 2010 or is done after that date but before 18th March 2011, and the legal proceedings in respect of it are instituted before 18th March 2011.
 
 (2) Despite their repeal by Schedule 27 to the 2010 Act, section 28N of, and Part 3 of Schedule 3 to, the 1995 Act[^f00023] have effect in relation to the claim; and for that purpose, the reference in paragraph 9 of that Schedule to Chapter 1 of Part 4 of the 1995 Act is to be read as a reference to Part 6 of the 2010 Act so far as relating to disability.
 
 (3) Subsection (6) of section 118 of the 2010 Act applies for the purposes of this article as it applies for the purposes of that section.
 
-## 5. Savings and consequential amendments relating to Wales[^key-73ca2bf3589117cf31ce2bc355f21f4b]
+## 5. Savings and consequential amendments relating to Wales[^c-73ca2bf3589117cf31ce2bc355f21f4b]
 
 (1) Despite their lapse by virtue of Schedule 27 to the 2010 Act, subject to paragraph (2), the Special Educational Needs and Disability Tribunal (General Provisions and Disability Claims Procedure) Regulations 2002[^f00024] continue in effect so far as they relate to Wales until regulations under paragraph 6 of Schedule 17 to the 2010 Act come into force.
 
@@ -262,16 +262,16 @@ The following provisions of Part 9 of the 2010 Act (enforcement) (in so far as n
 
   .
 
-**6.**[^key-d5b5d2f3cc14c1541fac0484976546c1] Despite its repeal by Schedule 27 to the 2010 Act, section 28JA of the 1995 Act[^f00025] continues to have effect but the references in that section to proceedings under Chapter 1 of Part IV of the 1995 Act are to be read as references to proceedings under Chapter 1 of Part 6 of the 2010 Act and section 116 of, and Schedule 17 to, that Act.
+**6.**[^c-d5b5d2f3cc14c1541fac0484976546c1] Despite its repeal by Schedule 27 to the 2010 Act, section 28JA of the 1995 Act[^f00025] continues to have effect but the references in that section to proceedings under Chapter 1 of Part IV of the 1995 Act are to be read as references to proceedings under Chapter 1 of Part 6 of the 2010 Act and section 116 of, and Schedule 17 to, that Act.
 
-## 7. Transitional provisions[^key-0f55bfe390c02ad3e9c5ec71d546da81]
+## 7. Transitional provisions[^c-0f55bfe390c02ad3e9c5ec71d546da81]
 
 Part 9 of the 2010 Act (enforcement) applies where—
 
 - (a) an act carried out before 1st October 2010 is unlawful under a previous enactment, and
 - (b) that act continues on or after 1st October 2010 and is unlawful under the 2010 Act.
 
-**8.**[^key-dc9cb961589635f1b55bb7ddabab9774] (1) Paragraph (2) applies to the following acts—
+**8.**[^c-dc9cb961589635f1b55bb7ddabab9774] (1) Paragraph (2) applies to the following acts—
 
 - (a) bringing proceedings under a previous enactment;
 - (b) giving evidence or information in connection with proceedings under a previous enactment;
@@ -280,7 +280,7 @@ Part 9 of the 2010 Act (enforcement) applies where—
 
 (2) Section 27 of the 2010 Act (victimisation) applies in relation to an act to which this paragraph applies, and for that purpose the references in that section to “this Act” are to be read as references to the relevant previous enactment.
 
-## 9. Transitory provision relating to the public sector equality duty[^key-26388281c439a83073f089c1fa381c94]
+## 9. Transitory provision relating to the public sector equality duty[^c-26388281c439a83073f089c1fa381c94]
 
 Pending the commencement of paragraph 76 of Schedule 26 to the 2010 Act[^f00026] so far as it relates to section 34(2)(b) of the 2006 Act, as substituted by sub-paragraph (3) of that paragraph, section 34 of the 2006 Act, and section 33(1) of that Act[^f00027] so far as it applies to that section, apply in relation to duties under or by virtue of—
 
@@ -288,7 +288,7 @@ Pending the commencement of paragraph 76 of Schedule 26 to the 2010 Act[^f00026]
 - (b) section 71 of the 1976 Act; and
 - (c) sections 49A to 49D of the 1995 Act.
 
-## 10. Transitory provisions relating to ships and hovercraft[^key-3d1472a2af5af732127b38c52afdacaf][^key-85c2a6f1107cc1777f4abaaeccf97753]
+## 10. Transitory provisions relating to ships and hovercraft[^c-3d1472a2af5af732127b38c52afdacaf][^c-85c2a6f1107cc1777f4abaaeccf97753]
 
 (1) In this article, “shipping matter” means—
 
@@ -319,7 +319,7 @@ Pending the commencement of paragraph 76 of Schedule 26 to the 2010 Act[^f00026]
 
 (9) Despite their amendment by the 2010 Order, sections 49A to 49D of the 1995 Act, so far as they relate to discrimination within the meaning of section 21D of that Act, continue to apply in the form immediately before their amendment by that Order, so far as they relate to a shipping matter within paragraph (1)(c), until regulations under section 30(2) of the 2010 Act come into force.
 
-**11.**[^key-4f7f0811264e546d157a0e8ad8a8299d] (1) Despite their repeal or revocation by Schedule 27 to the 2010 Act, the provisions set out in Schedule 3 continue to have effect so far as they relate to work on ships, work on hovercraft and seafarers until regulations under section 81 of the 2010 Act come into force.
+**11.**[^c-4f7f0811264e546d157a0e8ad8a8299d] (1) Despite their repeal or revocation by Schedule 27 to the 2010 Act, the provisions set out in Schedule 3 continue to have effect so far as they relate to work on ships, work on hovercraft and seafarers until regulations under section 81 of the 2010 Act come into force.
 
 (2) The following provisions of Schedule 26 to the 2010 Act[^f00032] do not come into force in relation to work on ships, work on hovercraft and seafarers until regulations under section 81 of the 2010 Act come into force—
 
@@ -335,13 +335,13 @@ Pending the commencement of paragraph 76 of Schedule 26 to the 2010 Act[^f00026]
 - (b) sections 71 to 71B of, and Schedule 1A to, the 1976 Act;
 - (c) sections 49A to 49D of the 1995 Act.
 
-(5)[^key-b7d04783cce99740a935c5e1cbd2dbc9] Despite their amendment by article 24 and Schedule 8, the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00003] continue to apply in the form immediately before their amendment by those provisions, so far as they relate to work on ships, work on hovercraft and seafarers, until regulations under section 81 of the 2010 Act come into force.
+(5)[^c-b7d04783cce99740a935c5e1cbd2dbc9] Despite their amendment by article 24 and Schedule 8, the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00003] continue to apply in the form immediately before their amendment by those provisions, so far as they relate to work on ships, work on hovercraft and seafarers, until regulations under section 81 of the 2010 Act come into force.
 
-## 12. Transitory provision relating to taxis and private hire vehicles[^key-641437cf29e2d951b1121905c1e90e1a]
+## 12. Transitory provision relating to taxis and private hire vehicles[^c-641437cf29e2d951b1121905c1e90e1a]
 
 Despite their repeal by Schedule 27 to the 2010 Act, sections 36 and 36A of the 1995 Act[^f00034], and section 38 of the 1995 Act[^f00035] in so far as it relates to appeals against decisions of licensing authorities under section 36 or 36A of that Act, continue to have effect until section 165 of the 2010 Act comes fully into force.
 
-## 13. Transitory provisions relating to guidance[^key-64acc9f4202e03ea6cab58932aba5661]
+## 13. Transitory provisions relating to guidance[^c-64acc9f4202e03ea6cab58932aba5661]
 
 (1) Until guidance under section 6(5) of the 2010 Act (disability) comes into force, the guidance referred to in paragraph (2) has effect for the purposes of that section.
 
@@ -349,7 +349,7 @@ Despite their repeal by Schedule 27 to the 2010 Act, sections 36 and 36A of the 
 
 (3) Despite its repeal by Schedule 27 to the 2010 Act, section 3 of the 1995 Act[^f00037] continues to have effect, so far as it confers power to issue that guidance.
 
-**14.**[^key-5a57b5bb98573af0c4c359acb0b09eba] (1) Until guidance issued under paragraph 22(3)(b) of Schedule 3 to the 2010 Act (insurance: sex, gender reassignment, pregnancy and maternity) comes into force, the guidance referred to in paragraph (2) has effect for the purposes of paragraph 22(3)(b).
+**14.**[^c-5a57b5bb98573af0c4c359acb0b09eba] (1) Until guidance issued under paragraph 22(3)(b) of Schedule 3 to the 2010 Act (insurance: sex, gender reassignment, pregnancy and maternity) comes into force, the guidance referred to in paragraph (2) has effect for the purposes of paragraph 22(3)(b).
 
 (2) The guidance is “Guidance on the publication of data associated with the use of gender in the assessment of insurance risks”[^f00038]; and for that purpose—
 
@@ -364,7 +364,7 @@ Despite their repeal by Schedule 27 to the 2010 Act, sections 36 and 36A of the 
 
 (3) Despite its repeal by Schedule 27 to the 2010 Act, section 45(3)(a) of the 1975 Act[^f00039] continues to have effect, so far as it confers power to issue that guidance.
 
-## 15. Savings[^key-d495e05ead040da79e6368d208ec7bf6]
+## 15. Savings[^c-d495e05ead040da79e6368d208ec7bf6]
 
 The 2010 Act does not apply where the act complained of occurs wholly before 1st October 2010 so that—
 
@@ -375,15 +375,15 @@ The 2010 Act does not apply where the act complained of occurs wholly before 1st
   - (iv) any investigation, legal proceeding or remedy in respect of any such right, obligation, liability or penalty; and
 - (b) any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed, as if the 2010 Act had not been commenced.
 
-**16.**[^key-19479599142086d30302d89f78c7e2f7] (1) The repeals and revocations made by Schedule 27 to the 2010 Act do not affect the operation of a transitional provision or saving relating to the commencement of a provision for which there is corresponding provision in the 2010 Act, in so far as the transitional provision or saving is not expressly restated in the 2010 Act but remains capable of having effect.
+**16.**[^c-19479599142086d30302d89f78c7e2f7] (1) The repeals and revocations made by Schedule 27 to the 2010 Act do not affect the operation of a transitional provision or saving relating to the commencement of a provision for which there is corresponding provision in the 2010 Act, in so far as the transitional provision or saving is not expressly restated in the 2010 Act but remains capable of having effect.
 
 (2) The repeal or revocation by Schedule 27 to the 2010 Act of a provision previously repealed or revoked subject to a saving does not affect the continued operation of that saving.
 
 (3) The repeal or revocation by Schedule 27 to the 2010 Act of a saving on the previous repeal or revocation of a provision does not affect the saving in so far as it is not expressly restated in the 2010 Act but remains capable of having effect.
 
-**17.**[^key-d14c77632ff0e486f0ed8440e7c34954] Despite the repeal of section 1 of the 1989 Act[^f00040] (overriding of pre-1975 statutory requirements which conflict with the 1975 Act) by Schedule 27 to the 2010 Act, any provision which, immediately before that repeal, is of no effect as a result of that section continues to be of no effect.
+**17.**[^c-d14c77632ff0e486f0ed8440e7c34954] Despite the repeal of section 1 of the 1989 Act[^f00040] (overriding of pre-1975 statutory requirements which conflict with the 1975 Act) by Schedule 27 to the 2010 Act, any provision which, immediately before that repeal, is of no effect as a result of that section continues to be of no effect.
 
-**18.**[^key-f80caff0237b32b2d400034234077415] (1) This article applies in respect of insurance business in relation to an existing insurance policy within paragraph 23(1) of Schedule 3 to the 2010 Act.
+**18.**[^c-f80caff0237b32b2d400034234077415] (1) This article applies in respect of insurance business in relation to an existing insurance policy within paragraph 23(1) of Schedule 3 to the 2010 Act.
 
 (2) Despite their repeal or revocation by Schedule 27 to the 2010 Act, the provisions set out in Schedule 5 continue to have effect.
 
@@ -391,7 +391,7 @@ The 2010 Act does not apply where the act complained of occurs wholly before 1st
 
 (4) The guidance referred to in paragraph (2) of article 14 applies unaffected by sub-paragraphs (a) to (h) of that paragraph.
 
-**19.**[^key-0750cf3ac3f8f53d8194e248dfd6b543] Despite their repeal by Schedule 27 to the 2010 Act, the following provisions of the 1995 Act continue to have effect—
+**19.**[^c-0750cf3ac3f8f53d8194e248dfd6b543] Despite their repeal by Schedule 27 to the 2010 Act, the following provisions of the 1995 Act continue to have effect—
 
 - (a) section 30(5) (amendment of section 62 of the Further and Higher Education Act 1992[^f00041]) and section 30(1) so far as relating to it;
 - (b) section 39 (amendments of section 20 of the Civic Government (Scotland) Act 1982[^f00042]);
@@ -399,23 +399,23 @@ The 2010 Act does not apply where the act complained of occurs wholly before 1st
 - (d) in Schedule 1, paragraph 7(1) to (4), and (7) (persons on register of disabled persons on 12th January 1995 and on date of commencement of paragraph 7 deemed to have disability etc.)[^f00044]; and
 - (e) in Schedule 6, paragraph 1(a) (amendment of section 12(1) of the Employment and Training Act 1973[^f00045]) and paragraph 6 (amendment of section 16 of the Enterprise and New Towns (Scotland) Act 1990[^f00046]).
 
-**20.**[^key-4bcf147f0b68f0a8a11edde128668710] Despite their revocation by Schedule 27 to the 2010 Act, regulations 2(2) and 44 to 46 of the Age Regulations continue to have effect so far as they relate to Schedule 6 to those Regulations.
+**20.**[^c-4bcf147f0b68f0a8a11edde128668710] Despite their revocation by Schedule 27 to the 2010 Act, regulations 2(2) and 44 to 46 of the Age Regulations continue to have effect so far as they relate to Schedule 6 to those Regulations.
 
-**21.**[^key-f5cd14fb27b8c28198dbdaa59b02eda3] (1) Subordinate legislation specified in the first column of the table in Schedule 7, in so far as made under the provision of a previous enactment specified in the second column, is to be treated as made under the provision of the 2010 Act specified in the third column.
+**21.**[^c-f5cd14fb27b8c28198dbdaa59b02eda3] (1) Subordinate legislation specified in the first column of the table in Schedule 7, in so far as made under the provision of a previous enactment specified in the second column, is to be treated as made under the provision of the 2010 Act specified in the third column.
 
 (2) Despite its repeal by Schedule 27 to the 2010 Act, section 67(3)(b) of the 1995 Act (power to sub-delegate) continues to have effect in so far as it provides authority for the Rail Vehicle Accessibility Exemption Orders (Parliamentary Procedures) Regulations 2008[^f00047].
 
-**22.**[^key-4195ffc82f8aabe58b10eb543a3b6323] (1) The guidance referred to in paragraph (2), in so far as it was issued under section 28E(3) of the 1995 Act, is to be treated as issued under paragraph 2(4) of Schedule 10 to the 2010 Act.
+**22.**[^c-4195ffc82f8aabe58b10eb543a3b6323] (1) The guidance referred to in paragraph (2), in so far as it was issued under section 28E(3) of the 1995 Act, is to be treated as issued under paragraph 2(4) of Schedule 10 to the 2010 Act.
 
 (2) The guidance is “Guidance on Accessible Schools: Planning to increase access to schools for disabled pupils”[^f00048].
 
-## 23. Revocation and consequential etc. provisions[^key-eb5070840689852896c3262af2aec9a2]
+## 23. Revocation and consequential etc. provisions[^c-eb5070840689852896c3262af2aec9a2]
 
 In the Rail Passengers’ Rights and Obligations Regulations 2010[^f00049], omit regulation 10 (amendment of section 19 of the 1995 Act).
 
-**24.**[^key-4b50be4bec103072862ea4fba3836234] The amendments in Schedule 8 have effect.
+**24.**[^c-4b50be4bec103072862ea4fba3836234] The amendments in Schedule 8 have effect.
 
-**25.**[^key-035edbf8557ac04ed90077c6299b4b0b] A reference in any other subordinate legislation to a previous enactment is, so far as the context allows, to be read as a reference to the 2010 Act so far as corresponding to the previous enactment (and the context of the reference is to be read as being subject to such consequential alterations as are required).
+**25.**[^c-035edbf8557ac04ed90077c6299b4b0b] A reference in any other subordinate legislation to a previous enactment is, so far as the context allows, to be read as a reference to the 2010 Act so far as corresponding to the previous enactment (and the context of the reference is to be read as being subject to such consequential alterations as are required).
 
 Theresa May
 
@@ -423,7 +423,7 @@ Secretary of State for the Home Department
 
 20th September 2010
 
-## SCHEDULE 1 — Savings of previous enactments in relation to a shipping matter[^key-1002fa56a20dd5b9e7c875fe610f2e20]
+## SCHEDULE 1 — Savings of previous enactments in relation to a shipping matter[^c-1002fa56a20dd5b9e7c875fe610f2e20]
 
 Article 10(2) and (3)
 
@@ -462,7 +462,7 @@ Article 10(2) and (3)
 | Schedule 3A |  |  |
 | Part II of Schedule 4 |  |  |
 
-## SCHEDULE 2 — Savings of subordinate legislation in relation to a shipping matter[^key-4a7fd417c25c1ec8cb121b7f895f6e17]
+## SCHEDULE 2 — Savings of subordinate legislation in relation to a shipping matter[^c-4a7fd417c25c1ec8cb121b7f895f6e17]
 
 Article 10(6) and (7)
 
@@ -504,7 +504,7 @@ Article 10(6) and (7)
 
 [^f01000][^f01003][^f01011][^f01017][^f01001][^f01004][^f01012][^f01002][^f01005][^f01013][^f01006][^f01014][^f01007][^f01015][^f01008][^f01016][^f01009][^f01010]
 
-## SCHEDULE 3 — Savings of previous enactments in relation to work on ships, work on hovercraft and seafarers[^key-6d3ba800497f5325cc92b86486247521]
+## SCHEDULE 3 — Savings of previous enactments in relation to work on ships, work on hovercraft and seafarers[^c-6d3ba800497f5325cc92b86486247521]
 
 Article 11(1)
 
@@ -548,7 +548,7 @@ Article 11(1)
 | Part I of Schedule 3 |  |  |  |
 | Schedule 3A |  |  |  |
 
-## SCHEDULE 4 — Savings of subordinate legislation in relation to work on ships, work on hovercraft and seafarers[^key-c16bfb21ff04e5d78a65bbc74702fff4]
+## SCHEDULE 4 — Savings of subordinate legislation in relation to work on ships, work on hovercraft and seafarers[^c-c16bfb21ff04e5d78a65bbc74702fff4]
 
 Article 11(3)
 
@@ -594,7 +594,7 @@ Article 11(3)
 
 [^f01018][^f01020][^f01024][^f01034][^f01019][^f01021][^f01025][^f01035][^f01022][^f01026][^f01036][^f01023][^f01027][^f01037][^f01028][^f01029][^f01030][^f01031][^f01032][^f01033]
 
-## SCHEDULE 5 — Savings of previous enactments in relation to existing insurance policies[^key-36e88a7f1bed56fade39f8147465d32b]
+## SCHEDULE 5 — Savings of previous enactments in relation to existing insurance policies[^c-36e88a7f1bed56fade39f8147465d32b]
 
 Article 18(2)
 
@@ -651,7 +651,7 @@ Article 18(2)
 
 [^f01038][^f01050][^f01058][^f01039][^f01051][^f01059][^f01040][^f01052][^f01060][^f01065][^f01041][^f01053][^f01061][^f01054][^f01062][^f01042][^f01055][^f01063][^f01043][^f01056][^f01064][^f01044][^f01057][^f01045][^f01046][^f01047][^f01048][^f01049]
 
-## SCHEDULE 6 — Savings of subordinate legislation in relation to existing insurance policies[^key-348cd60fcf5db93a1a9e30e2efbf52d2]
+## SCHEDULE 6 — Savings of subordinate legislation in relation to existing insurance policies[^c-348cd60fcf5db93a1a9e30e2efbf52d2]
 
 Article 18(3)
 
@@ -686,7 +686,7 @@ Article 18(3)
 
 [^f01066][^f01067][^f01073][^f01078][^f01068][^f01074][^f01069][^f01075][^f01070][^f01076][^f01071][^f01077][^f01072]
 
-## SCHEDULE 7 — Savings of subordinate legislation[^key-fa3339dec7ff486e8a0cdc29ac12a132]
+## SCHEDULE 7 — Savings of subordinate legislation[^c-fa3339dec7ff486e8a0cdc29ac12a132]
 
 Article 21(1)
 
@@ -784,7 +784,7 @@ Article 21(1)
 
 Article 24
 
-### 1. Public Service Vehicles Accessibility Regulations 2000[^key-44bcf05df2389c3eca63214c23980a88][^f00050]
+### 1. Public Service Vehicles Accessibility Regulations 2000[^c-44bcf05df2389c3eca63214c23980a88][^f00050]
 
 (1) The Public Service Vehicles Accessibility Regulations 2000 are amended as follows—
 
@@ -809,7 +809,7 @@ Article 24
 
 (7) In relation to accessibility certificates, declarations of conformity or conformity certificates to which sub-paragraph (5) or (6) applies, the sub-paragraph in question has effect instead of section 17(2)(a) of the Interpretation Act 1978 as applied by section 23(3) of that Act; but that is without prejudice to any other provision of that Act.
 
-### 2. The Disability Discrimination Act 1995 (Taxis) (Carrying of Guide Dogs etc.) (England and Wales) Regulations 2000[^key-aef6e5f1b2d5eed9747e3296d638e149][^f00051]
+### 2. The Disability Discrimination Act 1995 (Taxis) (Carrying of Guide Dogs etc.) (England and Wales) Regulations 2000[^c-aef6e5f1b2d5eed9747e3296d638e149][^f00051]
 
 (1) The Disability Discrimination Act 1995 (Taxis) (Carrying of Guide Dogs etc.) (England and Wales) Regulations 2000 are amended as follows.
 
@@ -852,7 +852,7 @@ Article 24
 
 (12) In relation to notices of exemption to which sub-paragraph (10) or (11) applies, the sub-paragraph in question has effect instead of section 17(2)(a) of the Interpretation Act 1978 as applied by section 23(3) of that Act; but that is without prejudice to any other provision of that Act.
 
-### 3. The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003[^key-50eb9389ad656102de743fdc57e07d89][^f00052]
+### 3. The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003[^c-50eb9389ad656102de743fdc57e07d89][^f00052]
 
 (1) The Disability Discrimination Act 1995 (Private Hire Vehicles) (Carriage of Guide Dogs etc.) (England and Wales) Regulations 2003 are amended as follows.
 
@@ -891,7 +891,7 @@ Article 24
 
 (12) In relation to notices of exemption to which sub-paragraph (10) or (11) applies, the sub-paragraph in question has effect instead of section 17(2)(a) of the Interpretation Act 1978 as applied by section 23(3) of that Act; but that is without prejudice to any other provision of that Act.
 
-### 4. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^key-e21674ce0cc941d9e9cfbb57c2abce27][^f00054]
+### 4. The Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^c-e21674ce0cc941d9e9cfbb57c2abce27][^f00054]
 
 In regulation 2(1) of the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00055]—
 
@@ -900,7 +900,7 @@ In regulation 2(1) of the Employment Tribunals (Constitution and Rules of Proced
 - (c) omit the definition of “Race Relations Act”;
 - (d) omit the definition of “Sex Discrimination Act”.
 
-**5.**[^key-4c4ab243cac17ac80bba2f9c2deeea0f] (1) Schedule 1 to those Regulations (The Employment Tribunals Rules of Procedure) is amended as follows.
+**5.**[^c-4c4ab243cac17ac80bba2f9c2deeea0f] (1) Schedule 1 to those Regulations (The Employment Tribunals Rules of Procedure) is amended as follows.
 
 (2) In rule 50(1), for sub-paragraph (b)[^f00056] substitute the following—
 
@@ -926,7 +926,7 @@ In regulation 2(1) of the Employment Tribunals (Constitution and Rules of Proced
 
 .
 
-**6.**[^key-6131db4387e1c570313165e6c22c2cf5] (1) Schedule 6 to those Regulations (The Employment Tribunals (Equal Value) Rules of Procedure)[^f00061] is amended as follows.
+**6.**[^c-6131db4387e1c570313165e6c22c2cf5] (1) Schedule 6 to those Regulations (The Employment Tribunals (Equal Value) Rules of Procedure)[^f00061] is amended as follows.
 
 (2) In rule 2(1)—
 
@@ -960,11 +960,11 @@ In regulation 2(1) of the Employment Tribunals (Constitution and Rules of Proced
 
 (8) In rule 4(5), for “section 1(3) of the Equal Pay Act (defence of a genuine material factor)” substitute “section 69 of the Equality Act (defence of material factor)”.
 
-### 7. The Employment Equality (Age) Regulations 2006[^key-efad539e46c4d63bda10169e05a2ccc6]
+### 7. The Employment Equality (Age) Regulations 2006[^c-efad539e46c4d63bda10169e05a2ccc6]
 
 In paragraph 1(1) of Schedule 6 (duty to consider working beyond retirement), in the definition of “employee”, for “a person to whom regulation 30 (exception for retirement) applies”, substitute “a person who is a relevant worker for the purposes of paragraph 8 of Schedule 9 to the Equality Act 2010 (exceptions relating to retirement)”.
 
-### 8. Change of title of the Public Service Vehicles Accessibility (Amendment) Regulations 2009[^key-3e4d654c61ee93dc3ccebf8beeacc3a8][^f00064]
+### 8. Change of title of the Public Service Vehicles Accessibility (Amendment) Regulations 2009[^c-3e4d654c61ee93dc3ccebf8beeacc3a8][^f00064]
 
 (1) The title to the Public Service Vehicles Accessibility (Amendment) Regulations 2009 made on 2nd April 2009, and registered with serial number 876, becomes the “Public Service Vehicles Accessibility (Amendment) (No. 2) Regulations 2009”.
 
@@ -1039,7 +1039,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15), amended by the 2010 Order.
 
-[^key-4b4cbd2dcef7eb0091391536fdb080df]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4b4cbd2dcef7eb0091391536fdb080df]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279).
 
@@ -1065,7 +1065,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00013]: Footnote: [S.I. 2007/1263](https://www.legislation.gov.uk/uksi/2007/1263).
 
-[^key-2a3be72f0b4669d4074502a828a1bf6d]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-2a3be72f0b4669d4074502a828a1bf6d]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00014]: Footnote: Schedule 26 has been amended by the 2010 Order and the paragraphs within it have been renumbered.
 
@@ -1085,33 +1085,33 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00022]: Footnote: [2008 c.26](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-5a6b2e6b8645535f47bda8cddf38c192]: Commencement: Art. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-5a6b2e6b8645535f47bda8cddf38c192]: Commencement: Art. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-4243ff619d7ece91e948cec4f7b968a8]: Commencement: Art. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4243ff619d7ece91e948cec4f7b968a8]: Commencement: Art. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00023]: Footnote: Section 28N was inserted by the Special Educational Needs and Disability Act [2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10), section 23 and amended by the Disability Discrimination Act 2005, Schedule 1, Part 1, paragraphs 1 and 24 and by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). Part 3 of Schedule 3 was inserted by the Special Educational Needs and Disability Act 2001, Schedule 3, paragraph 1 and amended by the Education (Wales) Measure 2009 ([2009 No. 5](https://www.legislation.gov.uk/ukcm/2009/5)), Schedule, paragraphs 6 and 9, the Disability Discrimination Act 2005, Schedule 1, Part 1, paragraphs 1 and 38, [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833), the Education Act 2002, Schedule 18, paragraphs 7 and 12, the 2006 Act, Schedule 3, paragraphs 41 and 56 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-73ca2bf3589117cf31ce2bc355f21f4b]: Commencement: Art. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-73ca2bf3589117cf31ce2bc355f21f4b]: Commencement: Art. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00024]: Footnote: [S.I. 2002/1985](https://www.legislation.gov.uk/uksi/2002/1985), amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683), which was made under sections 28J(1), (2), (3) and (8), 67(1) and (3) and 68(1) of the 1995 Act, which is being repealed by Schedule 27 to the 2010 Act. It was also made under other powers not relevant to this Order.
 
-[^key-d5b5d2f3cc14c1541fac0484976546c1]: Commencement: Art. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-d5b5d2f3cc14c1541fac0484976546c1]: Commencement: Art. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00025]: Footnote: Section 28JA was inserted by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-0f55bfe390c02ad3e9c5ec71d546da81]: Commencement: Art. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-0f55bfe390c02ad3e9c5ec71d546da81]: Commencement: Art. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-dc9cb961589635f1b55bb7ddabab9774]: Commencement: Art. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-dc9cb961589635f1b55bb7ddabab9774]: Commencement: Art. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-26388281c439a83073f089c1fa381c94]: Commencement: Art. 9 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-26388281c439a83073f089c1fa381c94]: Commencement: Art. 9 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00026]: Footnote: Paragraph 76 of Schedule 26 was renumbered as such by the 2010 Order.
 
 [^f00027]: Footnote: Section 33(1) was amended by [S.I. 2006/1031](https://www.legislation.gov.uk/uksi/2006/1031).
 
-[^key-3d1472a2af5af732127b38c52afdacaf]: Commencement: Art. 10 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-3d1472a2af5af732127b38c52afdacaf]: Commencement: Art. 10 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-85c2a6f1107cc1777f4abaaeccf97753]: Modification: [Art. 10](https://www.legislation.gov.uk/uksi/2010/2317/article/10) excluded (27.3.2013) by [The Merchant Shipping (Passengers’ Rights) Regulations 2013 (S.I. 2013/425)](https://www.legislation.gov.uk/uksi/2013/425), [regs. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/425/regulation/10)
+[^c-85c2a6f1107cc1777f4abaaeccf97753]: Modification: [Art. 10](https://www.legislation.gov.uk/uksi/2010/2317/article/10) excluded (27.3.2013) by [The Merchant Shipping (Passengers’ Rights) Regulations 2013 (S.I. 2013/425)](https://www.legislation.gov.uk/uksi/2013/425), [regs. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/425/regulation/10)
 
 [^f00028]: Footnote: Schedule 26 has been amended by the 2010 Order and the paragraphs within it have been renumbered.
 
@@ -1121,43 +1121,43 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00031]: Footnote: Section 25 was amended by [S.I. 2006/1721](https://www.legislation.gov.uk/uksi/2006/1721) and [2007/1263](https://www.legislation.gov.uk/uksi/2007/1263).
 
-[^key-4f7f0811264e546d157a0e8ad8a8299d]: Commencement: Art. 11 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4f7f0811264e546d157a0e8ad8a8299d]: Commencement: Art. 11 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00032]: Footnote: Schedule 26 has been amended by the 2010 Order and the paragraphs within it have been renumbered.
 
 [^f00033]: Footnote: Paragraph 13 of Schedule 26 was inserted by the 2010 Order and paragraph 15 was renumbered as such by that Order.
 
-[^key-b7d04783cce99740a935c5e1cbd2dbc9]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2010/2317/article/11/5) inserted (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (Amendment) Order 2010 (S.I. 2010/2337)](https://www.legislation.gov.uk/uksi/2010/2337), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2337/article/1/2), [2](https://www.legislation.gov.uk/uksi/2010/2337/article/2)
+[^c-b7d04783cce99740a935c5e1cbd2dbc9]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/uksi/2010/2317/article/11/5) inserted (1.10.2010) by [The Equality Act 2010 (Commencement No. 4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010 (Amendment) Order 2010 (S.I. 2010/2337)](https://www.legislation.gov.uk/uksi/2010/2337), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2337/article/1/2), [2](https://www.legislation.gov.uk/uksi/2010/2337/article/2)
 
-[^key-641437cf29e2d951b1121905c1e90e1a]: Commencement: Art. 12 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-641437cf29e2d951b1121905c1e90e1a]: Commencement: Art. 12 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00034]: Footnote: Section 36 was amended by the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26), section 55, and section 36A was inserted by the Local Transport Act 2008, section 56(1) and (2).
 
 [^f00035]: Footnote: Section 38 was amended by the Local Transport Act 2008, section 56(1), (3), (4), (5), (6) and (7), the Private Hire Vehicles (Carriage of Guide Dogs etc.) Act [2002 (c.37)](https://www.legislation.gov.uk/ukpga/2002/37), section 3 and the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 368(1), (2) and (3) and Schedule 10.
 
-[^key-64acc9f4202e03ea6cab58932aba5661]: Commencement: Art. 13 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-64acc9f4202e03ea6cab58932aba5661]: Commencement: Art. 13 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00036]: Footnote: ISBN 978-0-11-703686-4.
 
 [^f00037]: Footnote: Section 3 was amended by the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13), Schedule 1, Part 1, paragraphs 1 and 3 and the Special Educational Needs and Disability Act [2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10), section 38.
 
-[^key-5a57b5bb98573af0c4c359acb0b09eba]: Commencement: Art. 14 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-5a57b5bb98573af0c4c359acb0b09eba]: Commencement: Art. 14 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00038]: Footnote: ISBN 978-1-84532-436-0.
 
 [^f00039]: Footnote: Section 45(3)(a) was inserted by [S.I. 2008/963](https://www.legislation.gov.uk/uksi/2008/963).
 
-[^key-d495e05ead040da79e6368d208ec7bf6]: Commencement: Art. 15 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-d495e05ead040da79e6368d208ec7bf6]: Commencement: Art. 15 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-19479599142086d30302d89f78c7e2f7]: Commencement: Art. 16 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-19479599142086d30302d89f78c7e2f7]: Commencement: Art. 16 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-d14c77632ff0e486f0ed8440e7c34954]: Commencement: Art. 17 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-d14c77632ff0e486f0ed8440e7c34954]: Commencement: Art. 17 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00040]: Footnote: Section 1 was amended by [S.I. 2001/2660](https://www.legislation.gov.uk/uksi/2001/2660).
 
-[^key-f80caff0237b32b2d400034234077415]: Commencement: Art. 18 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-f80caff0237b32b2d400034234077415]: Commencement: Art. 18 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-0750cf3ac3f8f53d8194e248dfd6b543]: Commencement: Art. 19 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-0750cf3ac3f8f53d8194e248dfd6b543]: Commencement: Art. 19 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00041]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13); section 62 was amended by the 1995 Act, section 30 and by the 2010 Act, Schedule 26, paragraph 23 (as inserted by the 2010 Order).
 
@@ -1171,27 +1171,27 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00046]: Footnote: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35); section 16 was amended by the 1995 Act, Schedule 6, paragraph 6 and by the 2010 Act, Schedule 26, paragraph 21 (as inserted by the 2010 Order).
 
-[^key-4bcf147f0b68f0a8a11edde128668710]: Commencement: Art. 20 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4bcf147f0b68f0a8a11edde128668710]: Commencement: Art. 20 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-f5cd14fb27b8c28198dbdaa59b02eda3]: Commencement: Art. 21 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-f5cd14fb27b8c28198dbdaa59b02eda3]: Commencement: Art. 21 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00047]: Footnote: [S.I. 2008/2975](https://www.legislation.gov.uk/uksi/2008/2975).
 
-[^key-4195ffc82f8aabe58b10eb543a3b6323]: Commencement: Art. 22 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4195ffc82f8aabe58b10eb543a3b6323]: Commencement: Art. 22 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00048]: Footnote: Ref. LEA/0168/2002.
 
-[^key-eb5070840689852896c3262af2aec9a2]: Commencement: Art. 23 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-eb5070840689852896c3262af2aec9a2]: Commencement: Art. 23 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00049]: Footnote: [S.I. 2010/1504](https://www.legislation.gov.uk/uksi/2010/1504).
 
-[^key-4b50be4bec103072862ea4fba3836234]: Commencement: Art. 24 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4b50be4bec103072862ea4fba3836234]: Commencement: Art. 24 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-035edbf8557ac04ed90077c6299b4b0b]: Commencement: Art. 25 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-035edbf8557ac04ed90077c6299b4b0b]: Commencement: Art. 25 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-1002fa56a20dd5b9e7c875fe610f2e20]: Commencement: Sch. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-1002fa56a20dd5b9e7c875fe610f2e20]: Commencement: Sch. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-4a7fd417c25c1ec8cb121b7f895f6e17]: Commencement: Sch. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4a7fd417c25c1ec8cb121b7f895f6e17]: Commencement: Sch. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f01000]: Footnote: (a)
 
@@ -1265,9 +1265,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
     [S.I. 2006/1542](https://www.legislation.gov.uk/uksi/2006/1542).
 
-[^key-6d3ba800497f5325cc92b86486247521]: Commencement: Sch. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-6d3ba800497f5325cc92b86486247521]: Commencement: Sch. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-c16bfb21ff04e5d78a65bbc74702fff4]: Commencement: Sch. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-c16bfb21ff04e5d78a65bbc74702fff4]: Commencement: Sch. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f01018]: Footnote: (a)
 
@@ -1349,7 +1349,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
     [S.I. 2006/1542](https://www.legislation.gov.uk/uksi/2006/1542).
 
-[^key-36e88a7f1bed56fade39f8147465d32b]: Commencement: Sch. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-36e88a7f1bed56fade39f8147465d32b]: Commencement: Sch. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f01038]: Footnote: (a)
 
@@ -1463,7 +1463,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
     Section 82 was amended by the 2006 Act, Schedule 3, paragraphs 6 and 18(1)(b)(i)-(iii) and Schedule 4, the Civil Partnership Act 2004, Schedule 27, paragraph 54(a) and (b) and by [S.I. 2000/2040](https://www.legislation.gov.uk/uksi/2000/2040), [2007/2914](https://www.legislation.gov.uk/uksi/2007/2914) and [2001/2660](https://www.legislation.gov.uk/uksi/2001/2660).
 
-[^key-348cd60fcf5db93a1a9e30e2efbf52d2]: Commencement: Sch. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-348cd60fcf5db93a1a9e30e2efbf52d2]: Commencement: Sch. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f01066]: Footnote: (a)
 
@@ -1517,7 +1517,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
     [S.I. 2006/1542](https://www.legislation.gov.uk/uksi/2006/1542).
 
-[^key-fa3339dec7ff486e8a0cdc29ac12a132]: Commencement: Sch. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-fa3339dec7ff486e8a0cdc29ac12a132]: Commencement: Sch. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f01079]: Footnote: (a)
 
@@ -1691,27 +1691,27 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
     [S.I. 2010/904](https://www.legislation.gov.uk/uksi/2010/904).
 
-[^key-44bcf05df2389c3eca63214c23980a88]: Commencement: Sch. 8 para. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-44bcf05df2389c3eca63214c23980a88]: Commencement: Sch. 8 para. 1 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00050]: Footnote: [S.I. 2000/1970](https://www.legislation.gov.uk/uksi/2000/1970), amended by [S.I. 2000/3318](https://www.legislation.gov.uk/uksi/2000/3318), [2002/2981](https://www.legislation.gov.uk/uksi/2002/2981), [2005/2988](https://www.legislation.gov.uk/uksi/2005/2988), [2009/143](https://www.legislation.gov.uk/uksi/2009/143) and [2009/876](https://www.legislation.gov.uk/uksi/2009/876).
 
-[^key-aef6e5f1b2d5eed9747e3296d638e149]: Commencement: Sch. 8 para. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-aef6e5f1b2d5eed9747e3296d638e149]: Commencement: Sch. 8 para. 2 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00051]: Footnote: [S.I. 2000/2990](https://www.legislation.gov.uk/uksi/2000/2990), amended by [S.I. 2006/1616](https://www.legislation.gov.uk/uksi/2006/1616).
 
-[^key-50eb9389ad656102de743fdc57e07d89]: Commencement: Sch. 8 para. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-50eb9389ad656102de743fdc57e07d89]: Commencement: Sch. 8 para. 3 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00052]: Footnote: [S.I. 2003/3122](https://www.legislation.gov.uk/uksi/2003/3122).
 
 [^f00053]: Footnote: Section 37A was inserted by the Private Hire Vehicles (Carriage of Dogs etc.) Act [2002 (c.37)](https://www.legislation.gov.uk/ukpga/2002/37), section 1(1).
 
-[^key-e21674ce0cc941d9e9cfbb57c2abce27]: Commencement: Sch. 8 para. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-e21674ce0cc941d9e9cfbb57c2abce27]: Commencement: Sch. 8 para. 4 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00054]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861).
 
 [^f00055]: Footnote: Regulation 2(1) was amended by [S.I. 2004/2351](https://www.legislation.gov.uk/uksi/2004/2351), [2005/1865](https://www.legislation.gov.uk/uksi/2005/1865), [2006/680](https://www.legislation.gov.uk/uksi/2006/680) and [2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-4c4ab243cac17ac80bba2f9c2deeea0f]: Commencement: Sch. 8 para. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-4c4ab243cac17ac80bba2f9c2deeea0f]: Commencement: Sch. 8 para. 5 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00056]: Footnote: Rule 50(1)(b) was amended by [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
@@ -1723,7 +1723,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00060]: Footnote: Rule 61(8) was substituted by [S.I. 2007/2602](https://www.legislation.gov.uk/uksi/2007/2602).
 
-[^key-6131db4387e1c570313165e6c22c2cf5]: Commencement: Sch. 8 para. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-6131db4387e1c570313165e6c22c2cf5]: Commencement: Sch. 8 para. 6 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00061]: Footnote: Schedule 6 was inserted by [S.I. 2004/2351](https://www.legislation.gov.uk/uksi/2004/2351).
 
@@ -1731,9 +1731,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00063]: Footnote: Rule 4(4) was amended by [S.I. 2008/3240](https://www.legislation.gov.uk/uksi/2008/3240).
 
-[^key-efad539e46c4d63bda10169e05a2ccc6]: Commencement: Sch. 8 para. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-efad539e46c4d63bda10169e05a2ccc6]: Commencement: Sch. 8 para. 7 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
-[^key-3e4d654c61ee93dc3ccebf8beeacc3a8]: Commencement: Sch. 8 para. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
+[^c-3e4d654c61ee93dc3ccebf8beeacc3a8]: Commencement: Sch. 8 para. 8 in force at 1.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2317/article/1/2)
 
 [^f00064]: Footnote: [S.I. 2009/876](https://www.legislation.gov.uk/uksi/2009/876).
 

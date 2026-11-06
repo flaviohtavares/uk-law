@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.13. Accommodation or support requirements[^key-3552ef16b2e5bec7bd608ef1a5612a03]
+## 14.13. Accommodation or support requirements[^c-3552ef16b2e5bec7bd608ef1a5612a03]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3552ef16b2e5bec7bd608ef1a5612a03]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2020/759) revoked (6.10.2025) by [The Criminal Procedure Rules 2025 (S.I. 2025/909)](https://www.legislation.gov.uk/uksi/2025/909), [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3552ef16b2e5bec7bd608ef1a5612a03]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2020/759) revoked (6.10.2025) by [The Criminal Procedure Rules 2025 (S.I. 2025/909)](https://www.legislation.gov.uk/uksi/2025/909), [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

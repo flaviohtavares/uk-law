@@ -44,15 +44,15 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 68(2)(ja)[^f00002] of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-0a43ec42bca4607e470b10b398c9fdcf]
+## 1. Citation and commencement[^c-0a43ec42bca4607e470b10b398c9fdcf]
 
 This Order may be cited as the Land and Buildings Transaction Tax (Additional Amount-Second Homes Main Residence Relief) (Scotland) Order 2017 and comes into force on 30th June 2017.
 
-## 2. Amendment of schedule 2A[^key-dace38222186f8e75ed0a0085941b8b4]
+## 2. Amendment of schedule 2A[^c-dace38222186f8e75ed0a0085941b8b4]
 
 Part 5 of schedule 2A of the Land and Buildings Transaction Tax (Scotland) Act 2013 (repayment of and relief from the additional amount) is amended in accordance with articles 3 and 4.
 
-## 3. Repayment of additional amount: spouses, civil partners and cohabitants replacing main residence[^key-8547436d52c72dc6a142bd16fa51a6ea][^key-dbadef4898e7986f80eba8da9682dbc1]
+## 3. Repayment of additional amount: spouses, civil partners and cohabitants replacing main residence[^c-8547436d52c72dc6a142bd16fa51a6ea][^c-dbadef4898e7986f80eba8da9682dbc1]
 
 After paragraph 8, insert—
 
@@ -74,7 +74,7 @@ After paragraph 8, insert—
 
 .
 
-## 4. Relief for replacement of main residence: spouses, civil partners and cohabitants[^key-a889f4b4cb3c6a5dd902440b84dd338a][^key-83b0c118518e177dde6071a71a59de96]
+## 4. Relief for replacement of main residence: spouses, civil partners and cohabitants[^c-a889f4b4cb3c6a5dd902440b84dd338a][^c-83b0c118518e177dde6071a71a59de96]
 
 After paragraph 9, insert—
 
@@ -94,7 +94,7 @@ After paragraph 9, insert—
 
 .
 
-## 5. Transitional provision[^key-c3aee5ce92753e8e819460861678384d][^key-25c828b38baad19484283f0d01778171]
+## 5. Transitional provision[^c-c3aee5ce92753e8e819460861678384d][^c-25c828b38baad19484283f0d01778171]
 
 The amendments made by articles 3 and 4 apply only in relation to a chargeable transaction in respect of which—
 
@@ -123,18 +123,18 @@ This Order amends the Land and Buildings Transaction Tax (Scotland) Act 2013 to 
 
 [^f00002]: Footnote: Section 68 was relevantly amended by section 2(1)(c)(i) of the 2016 Act.
 
-[^key-0a43ec42bca4607e470b10b398c9fdcf]: Commencement: Art. 1 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
+[^c-0a43ec42bca4607e470b10b398c9fdcf]: Commencement: Art. 1 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
 
-[^key-dace38222186f8e75ed0a0085941b8b4]: Commencement: Art. 2 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
+[^c-dace38222186f8e75ed0a0085941b8b4]: Commencement: Art. 2 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
 
-[^key-8547436d52c72dc6a142bd16fa51a6ea]: Commencement: Art. 3 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
+[^c-8547436d52c72dc6a142bd16fa51a6ea]: Commencement: Art. 3 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
 
-[^key-dbadef4898e7986f80eba8da9682dbc1]: Modification: [Art. 3](https://www.legislation.gov.uk/ssi/2017/233/article/3) amended (23.6.2018) by [Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018 (asp 11)](https://www.legislation.gov.uk/asp/2018/11), [ss. 1(1)](https://www.legislation.gov.uk/asp/2018/11/section/1/1), [3](https://www.legislation.gov.uk/asp/2018/11/section/3)
+[^c-dbadef4898e7986f80eba8da9682dbc1]: Modification: [Art. 3](https://www.legislation.gov.uk/ssi/2017/233/article/3) amended (23.6.2018) by [Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018 (asp 11)](https://www.legislation.gov.uk/asp/2018/11), [ss. 1(1)](https://www.legislation.gov.uk/asp/2018/11/section/1/1), [3](https://www.legislation.gov.uk/asp/2018/11/section/3)
 
-[^key-a889f4b4cb3c6a5dd902440b84dd338a]: Commencement: Art. 4 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
+[^c-a889f4b4cb3c6a5dd902440b84dd338a]: Commencement: Art. 4 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
 
-[^key-83b0c118518e177dde6071a71a59de96]: Modification: [Art. 4](https://www.legislation.gov.uk/ssi/2017/233/article/4) amended (23.6.2018) by [Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018 (asp 11)](https://www.legislation.gov.uk/asp/2018/11), [ss. 1(1)](https://www.legislation.gov.uk/asp/2018/11/section/1/1), [3](https://www.legislation.gov.uk/asp/2018/11/section/3)
+[^c-83b0c118518e177dde6071a71a59de96]: Modification: [Art. 4](https://www.legislation.gov.uk/ssi/2017/233/article/4) amended (23.6.2018) by [Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018 (asp 11)](https://www.legislation.gov.uk/asp/2018/11), [ss. 1(1)](https://www.legislation.gov.uk/asp/2018/11/section/1/1), [3](https://www.legislation.gov.uk/asp/2018/11/section/3)
 
-[^key-c3aee5ce92753e8e819460861678384d]: Commencement: Art. 5 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
+[^c-c3aee5ce92753e8e819460861678384d]: Commencement: Art. 5 in force at 30.6.2017, see [art. 1](https://www.legislation.gov.uk/ssi/2017/233/article/1)
 
-[^key-25c828b38baad19484283f0d01778171]: Modification: [Art. 5](https://www.legislation.gov.uk/ssi/2017/233/article/5) amended (23.6.2018) by [Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018 (asp 11)](https://www.legislation.gov.uk/asp/2018/11), [ss. 1](https://www.legislation.gov.uk/asp/2018/11/section/1), [3](https://www.legislation.gov.uk/asp/2018/11/section/3)
+[^c-25c828b38baad19484283f0d01778171]: Modification: [Art. 5](https://www.legislation.gov.uk/ssi/2017/233/article/5) amended (23.6.2018) by [Land and Buildings Transaction Tax (Relief from Additional Amount) (Scotland) Act 2018 (asp 11)](https://www.legislation.gov.uk/asp/2018/11), [ss. 1](https://www.legislation.gov.uk/asp/2018/11/section/1), [3](https://www.legislation.gov.uk/asp/2018/11/section/3)

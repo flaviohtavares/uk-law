@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Interconnected bodies corporate[^key-0d0bc66e5b8472bb5a4869385531879d][^key-cd901bde53dddd8736ef2554dc6b6daa]
+## 176. Interconnected bodies corporate[^c-0d0bc66e5b8472bb5a4869385531879d][^c-cd901bde53dddd8736ef2554dc6b6daa]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d0bc66e5b8472bb5a4869385531879d]: Commencement: S. 176 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-0d0bc66e5b8472bb5a4869385531879d]: Commencement: S. 176 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-cd901bde53dddd8736ef2554dc6b6daa]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2024/13/section/176) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-cd901bde53dddd8736ef2554dc6b6daa]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2024/13/section/176) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

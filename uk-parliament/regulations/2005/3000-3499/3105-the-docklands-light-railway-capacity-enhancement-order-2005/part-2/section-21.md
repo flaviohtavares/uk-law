@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Town and country planning[^key-a8028875dd839a97244762714bbd0005]
+## 21. Town and country planning[^c-a8028875dd839a97244762714bbd0005]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a8028875dd839a97244762714bbd0005]: Commencement: Art. 21 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-a8028875dd839a97244762714bbd0005]: Commencement: Art. 21 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
 [^f00025]: Footnote: S.I. [1969/17](https://www.legislation.gov.uk/uksi/1969/17).
 

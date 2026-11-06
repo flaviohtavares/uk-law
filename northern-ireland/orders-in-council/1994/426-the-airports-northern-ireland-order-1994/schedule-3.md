@@ -54,7 +54,7 @@ the airport operator shall pay such compensation as may be just in respect of th
 
 shall, subject to sub-paragraph (2), be entitled to recover compensation for the diminution from the airport operator.
 
-(2) Sub-paragraph (1)(b) does not apply to the coming into operation of a direction given under Article 8 for the purpose specified in paragraph (3)(a) of that Article if the building or structure in question constitutes development for which planning permission is required under the Planning Act (Northern Ireland) 2011[^key-f17a688ee7e6adea24c20215341ffdbd] .
+(2) Sub-paragraph (1)(b) does not apply to the coming into operation of a direction given under Article 8 for the purpose specified in paragraph (3)(a) of that Article if the building or structure in question constitutes development for which planning permission is required under the Planning Act (Northern Ireland) 2011[^c-f17a688ee7e6adea24c20215341ffdbd] .
 
 (3) For the purpose of assessing the amount of any compensation payable under this paragraph, the value of land shall be determined in accordance with rules (2) to (4) in Article 6(1) of the Land Compensation (Northern Ireland) Order 1982[^c5480201].
 
@@ -77,6 +77,6 @@ shall, subject to sub-paragraph (2), be entitled to recover compensation for the
 
 ## Annotations
 
-[^key-f17a688ee7e6adea24c20215341ffdbd]: Textual amendment: Words in Sch. 3 para. 3(2) substituted (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 71](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/71) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-f17a688ee7e6adea24c20215341ffdbd]: Textual amendment: Words in Sch. 3 para. 3(2) substituted (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 71](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/71) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
 [^c5480201]: Textual amendment: [1982 NI 9](https://www.legislation.gov.uk/nisi/1982)

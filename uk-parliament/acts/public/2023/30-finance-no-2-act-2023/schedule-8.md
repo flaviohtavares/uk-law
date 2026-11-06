@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 8 — Qualifying draught products: reduced rates[^key-02e0ab4665f8688f3fc42fa053d37f3b]
+## Schedule 8 — Qualifying draught products: reduced rates[^c-02e0ab4665f8688f3fc42fa053d37f3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Section 50
 
 ## Annotations
 
-[^key-02e0ab4665f8688f3fc42fa053d37f3b]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/8) substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
+[^c-02e0ab4665f8688f3fc42fa053d37f3b]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/2023/30/schedule/8) substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)

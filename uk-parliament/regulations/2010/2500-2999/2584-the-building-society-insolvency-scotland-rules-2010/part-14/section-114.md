@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Certificate of giving notice, etc.[^key-50a0ed301fbdc7900ac7a4c2f464bd7b]
+## 114. Certificate of giving notice, etc.[^c-50a0ed301fbdc7900ac7a4c2f464bd7b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.23 of the 1986 Rules.
 
 ## Annotations
 
-[^key-50a0ed301fbdc7900ac7a4c2f464bd7b]: Commencement: Rule 114 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-50a0ed301fbdc7900ac7a4c2f464bd7b]: Commencement: Rule 114 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

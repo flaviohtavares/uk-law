@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Bridleways, cycle tracks and footpaths[^key-15ce9189a75c6fd66b6d6cd00c833ba7]
+## 16. Bridleways, cycle tracks and footpaths[^c-15ce9189a75c6fd66b6d6cd00c833ba7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15ce9189a75c6fd66b6d6cd00c833ba7]: Commencement: Art. 16 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-15ce9189a75c6fd66b6d6cd00c833ba7]: Commencement: Art. 16 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

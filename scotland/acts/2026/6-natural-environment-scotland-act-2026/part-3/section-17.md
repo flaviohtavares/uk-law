@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Right to request action where deer are not being managed[^key-2a9d657c68246d846ec785ae4c0efd46]
+## 17. Right to request action where deer are not being managed[^c-2a9d657c68246d846ec785ae4c0efd46]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a9d657c68246d846ec785ae4c0efd46]: Commencement: S. 17 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-2a9d657c68246d846ec785ae4c0efd46]: Commencement: S. 17 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

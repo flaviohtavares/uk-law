@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 7
 
-**1.**[^key-552156e5df3e69a361d7e5c008218c1e] Where any land is transferred to and vests in any body in accordance with this Schedule, any rights or liabilities—
+**1.**[^c-552156e5df3e69a361d7e5c008218c1e] Where any land is transferred to and vests in any body in accordance with this Schedule, any rights or liabilities—
 
 - (a) enjoyed or incurred by the transferor in connection with the land; and
 - (b) subsisting immediately before the implementation date,
 
 also transfer to, and by virtue of these Regulations, vest in, that body.
 
-### 2. Rules relating to transfer[^key-c5855a339dea876bd8b725f17142fedd]
+### 2. Rules relating to transfer[^c-c5855a339dea876bd8b725f17142fedd]
 
 (1) This paragraph applies where any proposals that a community school should become a foundation school have been approved.
 
@@ -38,36 +38,36 @@ also transfer to, and by virtue of these Regulations, vest in, that body.
 - (a) the trustees of the school, to be held by them on trust for the purposes of the school; or
 - (b) if the school has no trustees, the governing body, to be held by that body for the relevant purposes.
 
-**3.**[^key-1a2b6ae61e052c9c6b71646448fcb2f7] (1) This paragraph applies where any proposals that a community school should become a voluntary aided school have been approved.
+**3.**[^c-1a2b6ae61e052c9c6b71646448fcb2f7] (1) This paragraph applies where any proposals that a community school should become a voluntary aided school have been approved.
 
 (2) In such a case, any land other than playing fields which, immediately before the implementation date, was held or used by a local authority for the purposes of the community school must on that date transfer to, and by virtue of this paragraph vest in, the trustees of the school, to be held by them on trust for the purposes of the school.
 
-**4.**[^key-c954b61a76b28108640b47bb2f4f1bb1] (1) This paragraph applies where any proposals that a community school should become a voluntary controlled school have been approved.
+**4.**[^c-c954b61a76b28108640b47bb2f4f1bb1] (1) This paragraph applies where any proposals that a community school should become a voluntary controlled school have been approved.
 
 (2) In such a case, any land other than playing fields which, immediately before the implementation date, was held or used by a local authority for the purposes of the community school must on that date transfer to, and by virtue of this paragraph vest in, the trustees of the school, to be held by them on trust for the purposes of the school.
 
-**5.**[^key-03d713217e2755b4d9190252bb41d643] (1) This paragraph applies where any proposals that a voluntary aided school should become a foundation school have been approved.
+**5.**[^c-03d713217e2755b4d9190252bb41d643] (1) This paragraph applies where any proposals that a voluntary aided school should become a foundation school have been approved.
 
 (2) In such a case, any land which, immediately before the implementation date, was held by the local authority for the purposes of the voluntary aided school must on that date transfer to, and by virtue of this paragraph vest in—
 
 - (a) the trustees of the school, to be held by them on trust for the purposes of the school; or
 - (b) if the school has no trustees, the governing body to be held by that body for the relevant purposes.
 
-**6.**[^key-7fce6832c70dd97ea44535c47027cc05] (1) This paragraph applies where any proposals that a voluntary controlled school should become a foundation school have been approved.
+**6.**[^c-7fce6832c70dd97ea44535c47027cc05] (1) This paragraph applies where any proposals that a voluntary controlled school should become a foundation school have been approved.
 
 (2) In such a case, any land which, immediately before the implementation date, was held by the local authority for the purposes of the voluntary controlled school must on that date transfer to, and by virtue of this paragraph vest in—
 
 - (a) the trustees of the school, to be held by them on trust for the purposes of the school; or
 - (b) if the school has no trustees, the governing body to be held by that body for the relevant purposes.
 
-**7.**[^key-b34877a06a354d0b7c3d3c126632574a] (1) This paragraph applies where any proposals that a community special school should become a foundation special school have been approved.
+**7.**[^c-b34877a06a354d0b7c3d3c126632574a] (1) This paragraph applies where any proposals that a community special school should become a foundation special school have been approved.
 
 (2) In such a case, any land which, immediately before the implementation date, was held or used by a local authority for the purposes of the community special school must on that date be transferred to, and by virtue of this paragraph vest in—
 
 - (a) the trustees of the school, to be held by them on trust for the purposes of the school; or
 - (b) if the school has no trustees, the governing body to be held by that body for the relevant purposes.
 
-### 8. Outstanding transfers[^key-479cb26532cf3e8bdf8c32271b8590fa]
+### 8. Outstanding transfers[^c-479cb26532cf3e8bdf8c32271b8590fa]
 
 Where immediately before the implementation date in relation to any change of category—
 
@@ -76,7 +76,7 @@ Where immediately before the implementation date in relation to any change of ca
 
 paragraphs 2 to 7 are to apply to the school as if it had been so transferred by that time.
 
-### 9. Transfers of right to use land[^key-3452017d8918ab317c2dc946bd1953d5]
+### 9. Transfers of right to use land[^c-3452017d8918ab317c2dc946bd1953d5]
 
 Where paragraph 2, 3, 4 or 7 applies to a school and any land held by a person or body other than a local authority was, immediately before the implementation date, used for the purposes of the school, any rights or liabilities—
 
@@ -85,7 +85,7 @@ Where paragraph 2, 3, 4 or 7 applies to a school and any land held by a person o
 
 on that date transfers to, and by virtue of these Regulations vests in, the trustees of the school or, if there are no trustees, the governing body.
 
-### 10. Land excluded from transfers[^key-79dfffa2a03e36607f7d8feea73b576c]
+### 10. Land excluded from transfers[^c-79dfffa2a03e36607f7d8feea73b576c]
 
 (1) Nothing in paragraphs 2 to 8 of this Schedule has the effect of transferring to, or vesting in, any body—
 
@@ -109,7 +109,7 @@ the land (and any rights or liabilities relating to it) is excluded.
 - (a) may confer any rights or impose any liabilities that could have been conferred or imposed by such an agreement, and
 - (b) must have effect as if contained in such an agreement.
 
-### 11. Restrictions on disposal of land when proposals are pending[^key-a0a0bd40f2772a874608df070d5a137e]
+### 11. Restrictions on disposal of land when proposals are pending[^c-a0a0bd40f2772a874608df070d5a137e]
 
 (1) For the purposes of paragraphs 11 to 13 of this Schedule the procedure for becoming a school of another category is pending in relation to a school when it has been initiated by the governing body in relation to the school on any occasion and not terminated (as initiated on that occasion).
 
@@ -125,7 +125,7 @@ the land (and any rights or liabilities relating to it) is excluded.
 - (f) if the governing body decide not to implement the proposals; or
 - (g) if revocation proposals are approved.
 
-**12.**[^key-8fc356eb16f47c8da211b76c64aebf44] (1) During any period when the procedure for becoming a school of another category is pending in relation to a school, a local authority must not—
+**12.**[^c-8fc356eb16f47c8da211b76c64aebf44] (1) During any period when the procedure for becoming a school of another category is pending in relation to a school, a local authority must not—
 
 - (a) dispose of any land used wholly or partly for the purposes of the school, or
 - (b) enter into a contract to dispose of any such land,
@@ -145,7 +145,7 @@ except with the consent of the adjudicator.
 - (a) references to disposing of land include granting or disposing of any interest in land, and
 - (b) references to entering into a contract to dispose of land include granting an option to acquire land or such an interest.
 
-**13.**[^key-70f570d9235ddd54aabee0a86bc98189] (1) During any period when the procedure for becoming a school of another category is pending in relation to a school, a local authority must not, in relation to any land of the authority used or held for the purposes of the school, take without the consent of the adjudicator any action (including appropriation of the land for any purpose) by which the land ceases to any extent to be so used or held.
+**13.**[^c-70f570d9235ddd54aabee0a86bc98189] (1) During any period when the procedure for becoming a school of another category is pending in relation to a school, a local authority must not, in relation to any land of the authority used or held for the purposes of the school, take without the consent of the adjudicator any action (including appropriation of the land for any purpose) by which the land ceases to any extent to be so used or held.
 
 (2) If in the case of any school—
 
@@ -154,11 +154,11 @@ except with the consent of the adjudicator.
 
 the provisions relating to the transfer of property in this Schedule have effect as if, immediately before the implementation date in relation to the change of category, the property were used or held by the authority for the purposes for which it was used or held when the procedure for becoming a school of another category was initiated.
 
-### 14. Provision of information[^key-b08b04ccee79abf327efb257c3be2105]
+### 14. Provision of information[^c-b08b04ccee79abf327efb257c3be2105]
 
 Any local authority and governing body of a maintained school must give the adjudicator such information as he may require for the purposes of the exercise of his functions under these Regulations.
 
-### 15. Division and apportionment of property[^key-0997c5655906a6590dfd5a1670ba18cb]
+### 15. Division and apportionment of property[^c-0997c5655906a6590dfd5a1670ba18cb]
 
 (1) Any property, rights and liabilities of a transferor held or used or subsisting—
 
@@ -181,7 +181,7 @@ must be correspondingly divided or apportioned so that each part is payable in r
 
 subject (in either case) to such arrangements for the protection of the other person concerned as may be agreed between the transferor and the transferee or determined by the adjudicator under paragraph 17.
 
-### 16. Identification of property, rights and liabilities[^key-3f638aa4427c393348411400528d9e76]
+### 16. Identification of property, rights and liabilities[^c-3f638aa4427c393348411400528d9e76]
 
 (1) The transferor and the transferee must arrive at such written agreements, and execute such other instruments, as are necessary or expedient to identify or define the property, rights and liabilities transferred to the transferee or retained by the transferor, or for making any such arrangements as are mentioned in paragraph 15 as will afford to the transferor and the transferee as against one another such rights and safeguards as they may require for the proper discharge of their respective functions.
 
@@ -201,7 +201,7 @@ subject (in either case) to such arrangements for the protection of the other pe
 
 (4) Any transfer of any estate or interest in land under these Regulations (whether by virtue of an agreement or instrument entered into before or after the implementation date) is to be regarded as having taken place on the implementation date.
 
-### 17. Resolution of disputes[^key-87b7474b94c5d03dea63efd1f113eb08]
+### 17. Resolution of disputes[^c-87b7474b94c5d03dea63efd1f113eb08]
 
 (1) In the case of any matter on which agreement is required to be reached under paragraph 15 or 16, if such an agreement has not been reached within a period of 6 months from the implementation date, the adjudicator may give a direction determining that matter, and may include in the direction any provision which may have been included in an agreement under paragraph 15 or 16.
 
@@ -209,17 +209,17 @@ subject (in either case) to such arrangements for the protection of the other pe
 
 (3) The adjudicator must consult the transferor, the transferee and any other interested person before giving a direction under this paragraph.
 
-### 18. Right to production of documents of title[^key-c1fb7ff74b89ae53c60b080ae3570dda]
+### 18. Right to production of documents of title[^c-c1fb7ff74b89ae53c60b080ae3570dda]
 
 (1) Where a transfer to which this Schedule applies relates to registered land, the transferor must execute any instrument under the Land Registration Acts 1925 to 2002[^f00032], deliver any certificate under those Acts, and do such other things under those Acts as he would be required to execute, deliver or do in the case of a transfer by agreement between the transferor and the transferee.
 
 (2) Where on any transfer to which this Schedule applies the transferor is entitled to retain possession of any documents relating in part to the title to any land or other property transferred to the transferee, the transferor must be treated as having given to the transferee an acknowledgment in writing of the right of the transferee to production of that document and to delivery of copies of it; and section 64 of the Law of Property Act 1925[^f00033] has effect accordingly, and on the basis that the acknowledgment did not contain any such expression of contrary intention as is mentioned in that section.
 
-### 19. Proof of title by certificate[^key-2b4977e96dc482f70b45fb82fd3c2282]
+### 19. Proof of title by certificate[^c-2b4977e96dc482f70b45fb82fd3c2282]
 
 The adjudicator may issue a certificate stating that any property specified in the certificate, or any interest in or right over any such property as may be so specified, or any right or liability so specified, was or was not transferred by virtue of these Regulations to any body corporate or persons so specified; and any such certificate is to be conclusive evidence for all purposes of that fact.
 
-### 20. Construction of agreements[^key-3972db0bf42c865b5ba63e7bac79410e]
+### 20. Construction of agreements[^c-3972db0bf42c865b5ba63e7bac79410e]
 
 (1) Where in the case of any transfer to which this Schedule applies any rights or liabilities transferred are rights or liabilities under an agreement to which the transferor was a party immediately before the transfer date, the agreement , unless the context otherwise requires, has effect on and after the transfer date as if—
 
@@ -232,11 +232,11 @@ and paragraph (d) applies in particular to the covenants, stipulations and condi
 
 (2) This paragraph applies to any agreement whether in writing or not and whether or not of such a nature that rights and liabilities under it could be assigned by the transferor.
 
-**21.**[^key-553e774368d02663e884114cb9690fa5] (1) Without prejudice to the generality of paragraph 20 , the transferee under a transfer to which this Schedule applies and any other person must, as from the implementation date, have the same rights, powers and remedies (and in particular the same rights and powers as to the taking or resisting of legal proceedings or the making or resisting of applications to any authority) for ascertaining, perfecting or enforcing any right or liability transferred to and vested in the transferee by virtue of these regulations as he would have had if that right or liability had at all times been a right or liability of the transferee.
+**21.**[^c-553e774368d02663e884114cb9690fa5] (1) Without prejudice to the generality of paragraph 20 , the transferee under a transfer to which this Schedule applies and any other person must, as from the implementation date, have the same rights, powers and remedies (and in particular the same rights and powers as to the taking or resisting of legal proceedings or the making or resisting of applications to any authority) for ascertaining, perfecting or enforcing any right or liability transferred to and vested in the transferee by virtue of these regulations as he would have had if that right or liability had at all times been a right or liability of the transferee.
 
 (2) Any legal proceedings or applications to any authority pending on the transfer date by or against the transferor, in so far as they relate to any property, right or liability transferred to the transferee by virtue of these regulations, or to any agreement relating to any such property, right or liability, must be continued by or against the transferee to the exclusion of the transferor.
 
-### 22. Third parties affected by vesting provisions[^key-b91e0a2ea868156d28f823d5d37c2cb0]
+### 22. Third parties affected by vesting provisions[^c-b91e0a2ea868156d28f823d5d37c2cb0]
 
 (1) Without prejudice to the generality of paragraphs 20 to 21, any transaction effected between a transferor and a transferee in pursuance of paragraph 15 or of a direction under paragraph 17 is binding on all other persons, even if it would, apart from this sub-paragraph, have required the consent or concurrence of any person other than the transferor and the transferee.
 
@@ -251,7 +251,7 @@ such compensation as may be just must be paid to the that person by the transfer
 
 (4) Any dispute as to whether and if so how much compensation is payable under sub-paragraph (3), or as to the person to whom it must be paid, must be referred to and determined by the adjudicator.
 
-**23.**[^key-592dc5a191fe57173e55fd871481fc97] In this Schedule—
+**23.**[^c-592dc5a191fe57173e55fd871481fc97] In this Schedule—
 
 - “relevant purposes” means—
   - (a) in relation to a transfer to a school’s foundation body, the purposes of the schools comprising the group for which the body acts; or
@@ -260,54 +260,54 @@ such compensation as may be just must be paid to the that person by the transfer
 
 ## Annotations
 
-[^key-552156e5df3e69a361d7e5c008218c1e]: Commencement: Sch. 6 para. 1 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-552156e5df3e69a361d7e5c008218c1e]: Commencement: Sch. 6 para. 1 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-c5855a339dea876bd8b725f17142fedd]: Commencement: Sch. 6 para. 2 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-c5855a339dea876bd8b725f17142fedd]: Commencement: Sch. 6 para. 2 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-1a2b6ae61e052c9c6b71646448fcb2f7]: Commencement: Sch. 6 para. 3 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-1a2b6ae61e052c9c6b71646448fcb2f7]: Commencement: Sch. 6 para. 3 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-c954b61a76b28108640b47bb2f4f1bb1]: Commencement: Sch. 6 para. 4 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-c954b61a76b28108640b47bb2f4f1bb1]: Commencement: Sch. 6 para. 4 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-03d713217e2755b4d9190252bb41d643]: Commencement: Sch. 6 para. 5 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-03d713217e2755b4d9190252bb41d643]: Commencement: Sch. 6 para. 5 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-7fce6832c70dd97ea44535c47027cc05]: Commencement: Sch. 6 para. 6 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-7fce6832c70dd97ea44535c47027cc05]: Commencement: Sch. 6 para. 6 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-b34877a06a354d0b7c3d3c126632574a]: Commencement: Sch. 6 para. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-b34877a06a354d0b7c3d3c126632574a]: Commencement: Sch. 6 para. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-479cb26532cf3e8bdf8c32271b8590fa]: Commencement: Sch. 6 para. 8 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-479cb26532cf3e8bdf8c32271b8590fa]: Commencement: Sch. 6 para. 8 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-3452017d8918ab317c2dc946bd1953d5]: Commencement: Sch. 6 para. 9 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-3452017d8918ab317c2dc946bd1953d5]: Commencement: Sch. 6 para. 9 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-79dfffa2a03e36607f7d8feea73b576c]: Commencement: Sch. 6 para. 10 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-79dfffa2a03e36607f7d8feea73b576c]: Commencement: Sch. 6 para. 10 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-a0a0bd40f2772a874608df070d5a137e]: Commencement: Sch. 6 para. 11 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-a0a0bd40f2772a874608df070d5a137e]: Commencement: Sch. 6 para. 11 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-8fc356eb16f47c8da211b76c64aebf44]: Commencement: Sch. 6 para. 12 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-8fc356eb16f47c8da211b76c64aebf44]: Commencement: Sch. 6 para. 12 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00031]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-70f570d9235ddd54aabee0a86bc98189]: Commencement: Sch. 6 para. 13 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-70f570d9235ddd54aabee0a86bc98189]: Commencement: Sch. 6 para. 13 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-b08b04ccee79abf327efb257c3be2105]: Commencement: Sch. 6 para. 14 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-b08b04ccee79abf327efb257c3be2105]: Commencement: Sch. 6 para. 14 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-0997c5655906a6590dfd5a1670ba18cb]: Commencement: Sch. 6 para. 15 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-0997c5655906a6590dfd5a1670ba18cb]: Commencement: Sch. 6 para. 15 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-3f638aa4427c393348411400528d9e76]: Commencement: Sch. 6 para. 16 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-3f638aa4427c393348411400528d9e76]: Commencement: Sch. 6 para. 16 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-87b7474b94c5d03dea63efd1f113eb08]: Commencement: Sch. 6 para. 17 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-87b7474b94c5d03dea63efd1f113eb08]: Commencement: Sch. 6 para. 17 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-c1fb7ff74b89ae53c60b080ae3570dda]: Commencement: Sch. 6 para. 18 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-c1fb7ff74b89ae53c60b080ae3570dda]: Commencement: Sch. 6 para. 18 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00032]: Footnote: [1925 c.21](https://www.legislation.gov.uk/ukpga/1925/21), [1987 c.2](https://www.legislation.gov.uk/ukpga/1987/2), and [2002 c.9](https://www.legislation.gov.uk/ukpga/2002/9).
 
 [^f00033]: Footnote: [1925 c.20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-2b4977e96dc482f70b45fb82fd3c2282]: Commencement: Sch. 6 para. 19 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-2b4977e96dc482f70b45fb82fd3c2282]: Commencement: Sch. 6 para. 19 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-3972db0bf42c865b5ba63e7bac79410e]: Commencement: Sch. 6 para. 20 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-3972db0bf42c865b5ba63e7bac79410e]: Commencement: Sch. 6 para. 20 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-553e774368d02663e884114cb9690fa5]: Commencement: Sch. 6 para. 21 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-553e774368d02663e884114cb9690fa5]: Commencement: Sch. 6 para. 21 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-b91e0a2ea868156d28f823d5d37c2cb0]: Commencement: Sch. 6 para. 22 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-b91e0a2ea868156d28f823d5d37c2cb0]: Commencement: Sch. 6 para. 22 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-592dc5a191fe57173e55fd871481fc97]: Commencement: Sch. 6 para. 23 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-592dc5a191fe57173e55fd871481fc97]: Commencement: Sch. 6 para. 23 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

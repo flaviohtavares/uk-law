@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-155480fcf249fa609e353ab6a95c5d7a] Subject to the provisions of this section, any person who, without lawful authority, drives or parks a mechanically propelled[^c13972031] vehicle wholly or partly on a cycle track is guilty of an offence.
+(1)[^c-155480fcf249fa609e353ab6a95c5d7a] Subject to the provisions of this section, any person who, without lawful authority, drives or parks a mechanically propelled[^c13972031] vehicle wholly or partly on a cycle track is guilty of an offence.
 
 (2) A person shall not be convicted of an offence under subsection (1) above with respect to a vehicle if he proves to the satisfaction of the court—
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c13972021]: Modification: S. 21 extended (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 2(1)(xxxvii)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/2/1/xxxvii); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-155480fcf249fa609e353ab6a95c5d7a]: Modification: S. 21(1) excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-155480fcf249fa609e353ab6a95c5d7a]: Modification: S. 21(1) excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13972031]: Textual amendment: Words in s. 21(1) substituted (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 67](https://www.legislation.gov.uk/ukpga/2000/37/section/67), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 7 para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/7/paragraph/4/1/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Application of Part[^key-e9c5907f435cb0b1269fd8f6b8f8e728]
+## 58. Application of Part[^c-e9c5907f435cb0b1269fd8f6b8f8e728]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Part applies in relation to retirement benefits payable in respect of a con
 
 ## Annotations
 
-[^key-e9c5907f435cb0b1269fd8f6b8f8e728]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2014/290/regulation/58) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-e9c5907f435cb0b1269fd8f6b8f8e728]: Commencement: [Reg. 58](https://www.legislation.gov.uk/nisr/2014/290/regulation/58) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

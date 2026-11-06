@@ -34,14 +34,14 @@ summary: ''
 - (b) section 46(2),
 - (c) section 52(5),
 - (d) section 83,
-- (e) section 90(1) , (5A)(a) or (11A)(a)[^key-b8891af0a6682568b38e071fc6c4c2d7],
-- (ea)[^key-d1d1709f3551042d44788352641c53e0] section 202A,
+- (e) section 90(1) , (5A)(a) or (11A)(a)[^c-b8891af0a6682568b38e071fc6c4c2d7],
+- (ea)[^c-d1d1709f3551042d44788352641c53e0] section 202A,
 - (f) section 239,
 - (g) section 240(3),
 - (h) section 245,
 - (i) section 253,
-- (j) section 257(1) , (4A)(a) or (10A)(a)[^key-ac4625fa254b340c7486894dadc746a8], [^key-cfb9a806f1c2507e0f4a95a80eae12a0]...
-- (ja)[^key-6c4f72f9b65020767671a5a04eebd811] section 258A(2), or
+- (j) section 257(1) , (4A)(a) or (10A)(a)[^c-ac4625fa254b340c7486894dadc746a8], [^c-cfb9a806f1c2507e0f4a95a80eae12a0]...
+- (ja)[^c-6c4f72f9b65020767671a5a04eebd811] section 258A(2), or
 - (k) paragraph 33 of Schedule 8,
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
@@ -57,7 +57,7 @@ is (if a draft of the instrument has not been laid before, and approved by a res
 (5) A statutory instrument containing—
 
 - (a) regulations under section 10(3),
-- (aa)[^key-09c0ed03c5ecfd8e9eaa3635d9476e3e] regulations under section 12(5B),
+- (aa)[^c-09c0ed03c5ecfd8e9eaa3635d9476e3e] regulations under section 12(5B),
 - (b) regulations under section 52(3),
 - (c) regulations under section 58(8)(a),
 - (d) regulations under section 71 to which section 72 does not apply,
@@ -83,14 +83,14 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 ## Annotations
 
-[^key-b8891af0a6682568b38e071fc6c4c2d7]: Textual amendment: Words in s. 267(3)(e) inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 18(6)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/18/6/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
+[^c-b8891af0a6682568b38e071fc6c4c2d7]: Textual amendment: Words in s. 267(3)(e) inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 18(6)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/18/6/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
 
-[^key-d1d1709f3551042d44788352641c53e0]: Textual amendment: S. 267(3)(ea) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(13)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/13), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
+[^c-d1d1709f3551042d44788352641c53e0]: Textual amendment: S. 267(3)(ea) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 74(13)](https://www.legislation.gov.uk/ukpga/2025/18/section/74/13), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/c)
 
-[^key-ac4625fa254b340c7486894dadc746a8]: Textual amendment: Words in s. 267(3)(j) inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 18(6)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/18/6/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
+[^c-ac4625fa254b340c7486894dadc746a8]: Textual amendment: Words in s. 267(3)(j) inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 18(6)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/18/6/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
 
-[^key-cfb9a806f1c2507e0f4a95a80eae12a0]: Textual amendment: Word in s. 267(3) omitted (20.6.2025) by virtue of [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/21/3/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
+[^c-cfb9a806f1c2507e0f4a95a80eae12a0]: Textual amendment: Word in s. 267(3) omitted (20.6.2025) by virtue of [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 21(3)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/21/3/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
 
-[^key-6c4f72f9b65020767671a5a04eebd811]: Textual amendment: S. 267(3)(ja) inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 21(3)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/21/3/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
+[^c-6c4f72f9b65020767671a5a04eebd811]: Textual amendment: S. 267(3)(ja) inserted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 21(3)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/21/3/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/b)
 
-[^key-09c0ed03c5ecfd8e9eaa3635d9476e3e]: Textual amendment: S. 267(5)(aa) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 14(8)](https://www.legislation.gov.uk/ukpga/2024/9/section/14/8), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/n)
+[^c-09c0ed03c5ecfd8e9eaa3635d9476e3e]: Textual amendment: S. 267(5)(aa) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 14(8)](https://www.legislation.gov.uk/ukpga/2024/9/section/14/8), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/n)

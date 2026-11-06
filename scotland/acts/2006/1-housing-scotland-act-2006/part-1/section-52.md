@@ -27,9 +27,9 @@ summary: ''
 - (a) which the tenant considers necessary for the purpose of making the house suitable for the accommodation, welfare or employment of any disabled person who occupies, or intends to occupy, the house as a sole or main residence, or
 - (b) in respect of which a grant is payable in accordance with regulations made under section 15(1)(a) (grants for improving energy efficiency of houses) of the Social Security Act 1990 (c. 27).
 
-(2A)[^key-e3f343d34d56a0b4af47705db95398f7] The work that may be carried out in pursuance of subsection (2)(a) does not include work to common parts within the meaning of section 37(5) of the Equality Act 2010.
+(2A)[^c-e3f343d34d56a0b4af47705db95398f7] The work that may be carried out in pursuance of subsection (2)(a) does not include work to common parts within the meaning of section 37(5) of the Equality Act 2010.
 
-(3) [^key-749e57b64aefd4d34e7f1c7c56d57b3a]... A tenant is not entitled to exercise the right set out in subsection (2) without the consent of the landlord, which must not be unreasonably withheld.
+(3) [^c-749e57b64aefd4d34e7f1c7c56d57b3a]... A tenant is not entitled to exercise the right set out in subsection (2) without the consent of the landlord, which must not be unreasonably withheld.
 
 (4) An application for consent to carry out work in pursuance of subsection (2) must specify the work which the tenant proposes to carry out.
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3f343d34d56a0b4af47705db95398f7]: Textual amendment: S. 52(2A) inserted (21.2.2020) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Regulations 2020 (S.S.I. 2020/52)](https://www.legislation.gov.uk/ssi/2020/52), [regs. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2020/52/regulation/11/2)
+[^c-e3f343d34d56a0b4af47705db95398f7]: Textual amendment: S. 52(2A) inserted (21.2.2020) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Regulations 2020 (S.S.I. 2020/52)](https://www.legislation.gov.uk/ssi/2020/52), [regs. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1), [11(2)](https://www.legislation.gov.uk/ssi/2020/52/regulation/11/2)
 
-[^key-749e57b64aefd4d34e7f1c7c56d57b3a]: Textual amendment: Word in s. 52(3) repealed (21.2.2020) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Regulations 2020 (S.S.I. 2020/52)](https://www.legislation.gov.uk/ssi/2020/52), [regs. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1), [11(3)](https://www.legislation.gov.uk/ssi/2020/52/regulation/11/3)
+[^c-749e57b64aefd4d34e7f1c7c56d57b3a]: Textual amendment: Word in s. 52(3) repealed (21.2.2020) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Regulations 2020 (S.S.I. 2020/52)](https://www.legislation.gov.uk/ssi/2020/52), [regs. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1), [11(3)](https://www.legislation.gov.uk/ssi/2020/52/regulation/11/3)

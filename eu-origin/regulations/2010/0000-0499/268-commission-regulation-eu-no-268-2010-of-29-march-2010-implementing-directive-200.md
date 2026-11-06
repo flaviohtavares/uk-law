@@ -33,46 +33,46 @@ of 29 March 2010
 
 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the access to spatial data sets and services of the Member States by Community institutions and bodies under harmonised conditions (revoked)
 
-[^key-7db888d7578506f6b706d9e6d7ebb868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7db888d7578506f6b706d9e6d7ebb868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-7db888d7578506f6b706d9e6d7ebb868]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Restrictions on access[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 1. Subject matter[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Arrangements[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 2. Restrictions on access[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Use of spatial data sets and services[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 3. Arrangements[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Metadata[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 4. Use of spatial data sets and services[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transparency[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 5. Metadata[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Response Times[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 6. Transparency[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transitional provisions[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 7. Response Times[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-7db888d7578506f6b706d9e6d7ebb868]
+## Article 8. Transitional provisions[^c-7db888d7578506f6b706d9e6d7ebb868]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7db888d7578506f6b706d9e6d7ebb868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force[^c-7db888d7578506f6b706d9e6d7ebb868]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7db888d7578506f6b706d9e6d7ebb868]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7db888d7578506f6b706d9e6d7ebb868]: Textual amendment: Regulation revoked (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [14](https://www.legislation.gov.uk/uksi/2018/1338/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7db888d7578506f6b706d9e6d7ebb868]: Textual amendment: Regulation revoked (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [14](https://www.legislation.gov.uk/uksi/2018/1338/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

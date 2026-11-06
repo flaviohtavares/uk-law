@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Notice requiring appointment of content manager[^key-b6388fce4c1c84177742f270e2e4c825]
+## 15. Notice requiring appointment of content manager[^c-b6388fce4c1c84177742f270e2e4c825]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6388fce4c1c84177742f270e2e4c825]: Commencement: S. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b6388fce4c1c84177742f270e2e4c825]: Commencement: S. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

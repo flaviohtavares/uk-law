@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Contracts to which section 2 of the 1989 Act does not apply[^key-7b1e03ff8c1e7c407f73a848e990a804]
+## 317. Contracts to which section 2 of the 1989 Act does not apply[^c-7b1e03ff8c1e7c407f73a848e990a804]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b1e03ff8c1e7c407f73a848e990a804]: Commencement: Art. 317 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7b1e03ff8c1e7c407f73a848e990a804]: Commencement: Art. 317 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. LNG facilities[^key-65dabbd1524c69b549e22a676fe5b15c]
+## 18. LNG facilities[^c-65dabbd1524c69b549e22a676fe5b15c]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65dabbd1524c69b549e22a676fe5b15c]: Commencement: S. 18 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-65dabbd1524c69b549e22a676fe5b15c]: Commencement: S. 18 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

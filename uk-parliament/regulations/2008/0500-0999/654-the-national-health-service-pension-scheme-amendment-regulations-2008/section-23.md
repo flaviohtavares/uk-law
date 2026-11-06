@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Amendment of regulation G7[^key-cca3445c9a0b09f5713f87e271739e22]
+## 23. Amendment of regulation G7[^c-cca3445c9a0b09f5713f87e271739e22]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For paragraph (4) of regulation G7 (widower’s pension) substitute—
 
 ## Annotations
 
-[^key-cca3445c9a0b09f5713f87e271739e22]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-cca3445c9a0b09f5713f87e271739e22]: Commencement: Reg. 23 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

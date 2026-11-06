@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Child sex offenders: requirement to notify if entering premises where children present[^key-193bbcabf0b3fe7ce41c6868e0dd1eec]
+## 120. Child sex offenders: requirement to notify if entering premises where children present[^c-193bbcabf0b3fe7ce41c6868e0dd1eec]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,4 +149,4 @@ After section 86 of the Sexual Offences Act 2003 insert—
 
 ## Annotations
 
-[^key-193bbcabf0b3fe7ce41c6868e0dd1eec]: Commencement: S. 120 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-193bbcabf0b3fe7ce41c6868e0dd1eec]: Commencement: S. 120 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

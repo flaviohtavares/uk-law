@@ -115,7 +115,7 @@ in consequence of any personal injury to the applicant; or
 - (d) a guaranteed income payment and, if the amount of that payment has been abated to less than £10 by a pension or payment falling within article 39(1)(a) or (b) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00287], so much of that pension or payment as would not, in aggregate with the amount of any guaranteed income payment disregarded, exceed £10;
 - (e) a payment made to compensate for the non-payment of such a pension or payment as is mentioned in any of the preceding sub-paragraphs;
 - (f) a pension paid by the government of a country outside Great Britain which is analogous to any of the pensions or payments mentioned in paragraphs (a) to (d) above;
-- (g)[^key-2c961245fcb1500bb05b2d28e3d17461] a pension paid by a government to victims of National Socialist persecution.
+- (g)[^c-2c961245fcb1500bb05b2d28e3d17461] a pension paid by a government to victims of National Socialist persecution.
 
 **21.** Subject to paragraph 40 of this Schedule, £15 of any—
 
@@ -174,7 +174,7 @@ whichever is less.
 **30.** (1) Any payment made to the applicant in respect of a person who is a member of the applicant’s family—
 
 - (a) pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002[^f00291] or in accordance with a scheme approved by the Scottish Ministers under section 71 of the Adoption and Children (Scotland) Act 2007[^f00292] (adoption allowances schemes);
-- (b) which is a payment made by a local authority in pursuance of section 15(1) of, and paragraph 15 of Schedule 1 to, the Children Act 1989[^f00293] (local authority contribution to a child’s maintenance where the child is living with a person as a result of a child arrangements[^key-446efd5d094bf274cb6d593148ce7e22] order) or in Scotland section 50 of the Children Act 1975[^f00294] (payments towards maintenance of children);
+- (b) which is a payment made by a local authority in pursuance of section 15(1) of, and paragraph 15 of Schedule 1 to, the Children Act 1989[^f00293] (local authority contribution to a child’s maintenance where the child is living with a person as a result of a child arrangements[^c-446efd5d094bf274cb6d593148ce7e22] order) or in Scotland section 50 of the Children Act 1975[^f00294] (payments towards maintenance of children);
 - (c) which is a payment made by an authority, as defined in Article 2 of the Children (Northern Ireland) Order 1995[^f00295], in pursuance of Article 15 of, and paragraph 17 of Schedule 1 to, that Order (contribution by an authority to child’s maintenance);
 - (d) in accordance with regulations made pursuant to section 14F of the Children Act 1989 (special guardianship support services);
 
@@ -183,10 +183,10 @@ whichever is less.
 **31.** Any payment made to the applicant with whom a person is accommodated by virtue of arrangements made—
 
 - (a) by a local authority under—
-  - (i) section 23(2)(a) or 22C[^key-d86b3a09c2c08534d526775976039bf9] of the Children Act 1989 (provision of accommodation and maintenance for a child whom they are looking after);
-  - (ii) section 26 of the Children (Scotland) Act 1995[^f00296] (manner of provision of accommodation to child looked after by local authority); [^key-9bfed5f67a00c6a74cf8c376eb644338]...
-  - (iii) regulations 33 or 51 of the Looked After Children (Scotland) Regulations 2009[^f00297] (fostering and kinship care allowances and fostering allowances); [^key-828fe74b98249e0d0f68ef02756ea9d2]...
-  - (iv)[^key-22154d3b5d22718204505669e0a0822f] section 81 of the Social Services and Well-being (Wales) Act 2014; or
+  - (i) section 23(2)(a) or 22C[^c-d86b3a09c2c08534d526775976039bf9] of the Children Act 1989 (provision of accommodation and maintenance for a child whom they are looking after);
+  - (ii) section 26 of the Children (Scotland) Act 1995[^f00296] (manner of provision of accommodation to child looked after by local authority); [^c-9bfed5f67a00c6a74cf8c376eb644338]...
+  - (iii) regulations 33 or 51 of the Looked After Children (Scotland) Regulations 2009[^f00297] (fostering and kinship care allowances and fostering allowances); [^c-828fe74b98249e0d0f68ef02756ea9d2]...
+  - (iv)[^c-22154d3b5d22718204505669e0a0822f] section 81 of the Social Services and Well-being (Wales) Act 2014; or
 - (b) by a voluntary organisation under section 59(1)(a) of the Children Act 1989 (provision of accommodation by voluntary organisations).
 
 **32.** Any payment made to the applicant or the applicant’s partner for a person (“the person concerned”), who is not normally a member of the applicant’s household but is temporarily in the applicant’s care, by—
@@ -195,19 +195,19 @@ whichever is less.
 - (b) a local authority but excluding payments of housing benefit made in respect of the person concerned;
 - (c) a voluntary organisation;
 - (d) the person concerned pursuant to section 26(3A) of the National Assistance Act 1948[^f00298];
-- (e) a primary care trust established under section 16A of the National Health Service Act 1977[^f00299] or established by an order made under section 18(2)(c)[^key-49f839463467d38ee99b5b95ba2c9f24] of the National Health Service Act 2006[^f00300]; [^key-aab9c4a819c7f485ca98d11ad013b4db]...
-- (f) a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006[^f00301];[^key-cb0d1c28cb8aa7c4579fa109deadc919]
-- (g)[^key-c20235f31d391f2c46752eeb6f9cc8d7] the person concerned where the payment is for the provision of accommodation to meet that person’s needs for care and support arranged pursuant to section 35 or 36 of the Social Services and Well-being (Wales) Act 2014; or
+- (e) a primary care trust established under section 16A of the National Health Service Act 1977[^f00299] or established by an order made under section 18(2)(c)[^c-49f839463467d38ee99b5b95ba2c9f24] of the National Health Service Act 2006[^f00300]; [^c-aab9c4a819c7f485ca98d11ad013b4db]...
+- (f) a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006[^f00301];[^c-cb0d1c28cb8aa7c4579fa109deadc919]
+- (g)[^c-c20235f31d391f2c46752eeb6f9cc8d7] the person concerned where the payment is for the provision of accommodation to meet that person’s needs for care and support arranged pursuant to section 35 or 36 of the Social Services and Well-being (Wales) Act 2014; or
 - (h) the person concerned where the payment is for the provision of accommodation to meet that person’s needs for care and support arranged pursuant to section 18 or 19 of the Care Act 2014.
 
-**33.**[^key-a5baf8da29d46adec57292b00d04b8e0] Any payment made by a local authority in accordance with—
+**33.**[^c-a5baf8da29d46adec57292b00d04b8e0] Any payment made by a local authority in accordance with—
 
 - (a) section 17, 23B, 23C or 24A of the Children Act 1989;
 - (b) section 12 of the Social Work (Scotland) Act 1968;
 - (c) section 22, 29 or 30 of the Children (Scotland) Act 1995; or
 - (d) section 37, 38, 109, 110 or 114 of the Social Services and Well-being (Wales) Act 2014, but excluding any direct payments under that Act.
 
-**34.** (1)[^key-4ba3f41e396425461575f10cb682f584] Subject to sub-paragraph (2), any payment (or part payment) made by a local authority to a person (“A”) which A passes on to the applicant, where the payment is made in accordance with—
+**34.** (1)[^c-4ba3f41e396425461575f10cb682f584] Subject to sub-paragraph (2), any payment (or part payment) made by a local authority to a person (“A”) which A passes on to the applicant, where the payment is made in accordance with—
 
 - (a) section 23C of the Children Act 1989;
 - (b) section 29 of the Children (Scotland) Act 1995; or
@@ -242,9 +242,9 @@ whichever is less.
 
 **39.** Where a payment of income is made in a currency other than sterling, any banking charge or commission payable in converting that payment into sterling.
 
-**40.** The total of an applicant’s income or, if the applicant is a member of a family, the family’s income and the income of any person which that applicant is treated as possessing under paragraph 30(3) (calculation of income and capital: applicant’s family and polygamous marriages) to be disregarded under paragraph 74(2)(b) and paragraph 75(1)(d) of this scheme (calculation of covenant income where a contribution assessed, covenant income where no grant income or no contribution is assessed), paragraph 78(2) of this scheme (treatment of student loans), paragraph 80(3)[^key-4cde9c98dda5acbd4d027b25d2fdf0ce] of this scheme (treatment of payments from access funds) and paragraphs 20 and 21 of this Schedule is in no case to exceed £20 per week.
+**40.** The total of an applicant’s income or, if the applicant is a member of a family, the family’s income and the income of any person which that applicant is treated as possessing under paragraph 30(3) (calculation of income and capital: applicant’s family and polygamous marriages) to be disregarded under paragraph 74(2)(b) and paragraph 75(1)(d) of this scheme (calculation of covenant income where a contribution assessed, covenant income where no grant income or no contribution is assessed), paragraph 78(2) of this scheme (treatment of student loans), paragraph 80(3)[^c-4cde9c98dda5acbd4d027b25d2fdf0ce] of this scheme (treatment of payments from access funds) and paragraphs 20 and 21 of this Schedule is in no case to exceed £20 per week.
 
-**41.** (1) Any payment made under or by any of the Trusts, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^key-f1b3c59f07f7054fb6e61749a060679a] or the Independent Living Fund (2006).
+**41.** (1) Any payment made under or by any of the Trusts, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-f1b3c59f07f7054fb6e61749a060679a] or the Independent Living Fund (2006).
 
 (2) Any payment by or on behalf of a person who is suffering or who suffered from haemophilia or who is or was a qualifying person, which derives from a payment made under or by any of the Trusts to which sub-paragraph (1) refers and which is made to or for the benefit of—
 
@@ -278,7 +278,7 @@ but only for a period of two years from the relevant date.
 
 (6) In the case of a person to whom or for whose benefit a payment referred to in this paragraph is made, any income which derives from any payment of income or capital made under or deriving from any of the Trusts.
 
-(7) For the purposes of sub-paragraphs (2) to (6), any reference to the Trusts is to be construed as including a reference to the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^key-1a2c24c9a81e67fda501bd626ecbb963] and the London Bombings Relief Charitable Fund.
+(7) For the purposes of sub-paragraphs (2) to (6), any reference to the Trusts is to be construed as including a reference to the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-1a2c24c9a81e67fda501bd626ecbb963] and the London Bombings Relief Charitable Fund.
 
 **42.** Any housing benefit.
 
@@ -294,7 +294,7 @@ but only for a period of two years from the relevant date.
 - (b) as respects Wales, under regulation 5, 6 or 11 of the National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007[^f00305] (travelling expenses and health service supplies);
 - (c) as respects Scotland, under regulation 3, 5 or 11 of the National Health Service (Travelling Expenses and Remission of Charges) (Scotland) (No 2) Regulations 2003[^f00306] (travelling expenses and health service supplies).
 
-(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^key-38b45a37b6f271b8083389562c948a39], the Scottish Ministers or the Welsh Ministers which is analogous to a payment or repayment mentioned in sub-paragraph (1).
+(2) Any payment or repayment made by the Secretary of State for Health and Social Care[^c-38b45a37b6f271b8083389562c948a39], the Scottish Ministers or the Welsh Ministers which is analogous to a payment or repayment mentioned in sub-paragraph (1).
 
 **47.** Any payment made to such persons entitled to receive benefits as may be determined by or under a scheme made pursuant to section 13 of the Social Security Act 1988[^f00307] in lieu of vouchers or similar arrangements in connection with the provision of those benefits (including payments made in place of healthy start vouchers, milk tokens or the supply of vitamins).
 
@@ -343,7 +343,7 @@ but only for a period of two years from the relevant date.
 
 **58.** Except in a case which falls under sub-paragraph (1) of paragraph 18 of Schedule 6, where the applicant is a person who satisfies any of the conditions of sub-paragraph (2) of that paragraph, any amount of working tax credit up to £17.10.
 
-**59.**[^key-6210b816fa0fd4b6774b61b70653f888] Any payment made—
+**59.**[^c-6210b816fa0fd4b6774b61b70653f888] Any payment made—
 
 - (a) as a direct payment as defined in section 4(2) of the Social Care (Self-directed Support) (Scotland) Act 2013;
 - (b) under sections 12A to 12D of the National Health Service Act 2006 (direct payments for health care);
@@ -375,7 +375,7 @@ but only for a period of two years from the relevant date.
 
 **66.** Any payment of child benefit.
 
-**67.**[^key-2a843fd76b0cec78e55c4fa1d16287e8] Any bereavement support payment under section 30 of the Pensions Act 2014 (bereavement support payment) except any such payment which is disregarded as capital under paragraph 12(1)(h) of Schedule 9 or paragraph 65 of Schedule 9.
+**67.**[^c-2a843fd76b0cec78e55c4fa1d16287e8] Any bereavement support payment under section 30 of the Pensions Act 2014 (bereavement support payment) except any such payment which is disregarded as capital under paragraph 12(1)(h) of Schedule 9 or paragraph 65 of Schedule 9.
 
 ## Annotations
 
@@ -401,7 +401,7 @@ but only for a period of two years from the relevant date.
 
 [^f00287]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517).
 
-[^key-2c961245fcb1500bb05b2d28e3d17461]: Textual amendment: Sch. Scheme Sch. 7 para. 20(g) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [29(a)](https://www.legislation.gov.uk/wsi/2018/14/regulation/29/a)
+[^c-2c961245fcb1500bb05b2d28e3d17461]: Textual amendment: Sch. Scheme Sch. 7 para. 20(g) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [29(a)](https://www.legislation.gov.uk/wsi/2018/14/regulation/29/a)
 
 [^f00288]: Footnote: [1988 c.30](https://www.legislation.gov.uk/ukpga/1988/30).
 
@@ -415,53 +415,53 @@ but only for a period of two years from the relevant date.
 
 [^f00293]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-446efd5d094bf274cb6d593148ce7e22]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 30(1)(b) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [26](https://www.legislation.gov.uk/uksi/2014/852/article/26)
+[^c-446efd5d094bf274cb6d593148ce7e22]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 30(1)(b) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [26](https://www.legislation.gov.uk/uksi/2014/852/article/26)
 
 [^f00294]: Footnote: [1975 c.72](https://www.legislation.gov.uk/ukpga/1975/72).
 
 [^f00295]: Footnote: [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755).
 
-[^key-d86b3a09c2c08534d526775976039bf9]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 31(a)(i) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(i)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/i)
+[^c-d86b3a09c2c08534d526775976039bf9]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 31(a)(i) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(i)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/i)
 
 [^f00296]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-9bfed5f67a00c6a74cf8c376eb644338]: Textual amendment: Word in Sch. Scheme Sch. 7 para. 31(a)(ii) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(ii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/ii)
+[^c-9bfed5f67a00c6a74cf8c376eb644338]: Textual amendment: Word in Sch. Scheme Sch. 7 para. 31(a)(ii) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(ii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/ii)
 
 [^f00297]: Footnote: [S.I. 2009/210](https://www.legislation.gov.uk/uksi/2009/210).
 
-[^key-828fe74b98249e0d0f68ef02756ea9d2]: Textual amendment: Word in Sch. Scheme Sch. 7 para. 31(a)(iii) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(iii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/iii)
+[^c-828fe74b98249e0d0f68ef02756ea9d2]: Textual amendment: Word in Sch. Scheme Sch. 7 para. 31(a)(iii) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(iii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/iii)
 
-[^key-22154d3b5d22718204505669e0a0822f]: Textual amendment: Sch. Scheme Sch. 7 para. 31(a)(iv) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(iv)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/iv)
+[^c-22154d3b5d22718204505669e0a0822f]: Textual amendment: Sch. Scheme Sch. 7 para. 31(a)(iv) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(a)(iv)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/a/iv)
 
 [^f00298]: Footnote: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29).
 
 [^f00299]: Footnote: [1977 c.49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-49f839463467d38ee99b5b95ba2c9f24]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 32(e) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [30(a)](https://www.legislation.gov.uk/wsi/2014/66/regulation/30/a)
+[^c-49f839463467d38ee99b5b95ba2c9f24]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 32(e) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [30(a)](https://www.legislation.gov.uk/wsi/2014/66/regulation/30/a)
 
 [^f00300]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-aab9c4a819c7f485ca98d11ad013b4db]: Textual amendment: Word in Sch. Scheme Sch. 7 para. 32(e) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(b)(i)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/b/i)
+[^c-aab9c4a819c7f485ca98d11ad013b4db]: Textual amendment: Word in Sch. Scheme Sch. 7 para. 32(e) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(b)(i)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/b/i)
 
 [^f00301]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-cb0d1c28cb8aa7c4579fa109deadc919]: Textual amendment: Sch. Scheme Sch. 7 para. 32(f): semicolon substituted for full stop (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(b)(ii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/b/ii)
+[^c-cb0d1c28cb8aa7c4579fa109deadc919]: Textual amendment: Sch. Scheme Sch. 7 para. 32(f): semicolon substituted for full stop (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(b)(ii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/b/ii)
 
-[^key-c20235f31d391f2c46752eeb6f9cc8d7]: Textual amendment: Sch. Scheme Sch. 7 paras. 32(g)[(h)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/7/paragraph/32/h) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(b)(iii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/b/iii)
+[^c-c20235f31d391f2c46752eeb6f9cc8d7]: Textual amendment: Sch. Scheme Sch. 7 paras. 32(g)[(h)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/7/paragraph/32/h) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(b)(iii)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/b/iii)
 
-[^key-a5baf8da29d46adec57292b00d04b8e0]: Textual amendment: Sch. Scheme Sch. 7 para. 33 substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(c)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/c)
+[^c-a5baf8da29d46adec57292b00d04b8e0]: Textual amendment: Sch. Scheme Sch. 7 para. 33 substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(c)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/c)
 
-[^key-4ba3f41e396425461575f10cb682f584]: Textual amendment: Sch. Scheme Sch. 7 para. 34(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(d)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/d)
+[^c-4ba3f41e396425461575f10cb682f584]: Textual amendment: Sch. Scheme Sch. 7 para. 34(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(d)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/d)
 
 [^f00302]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
 [^f00303]: Footnote: [1964 c.53](https://www.legislation.gov.uk/ukpga/1964/53).
 
-[^key-4cde9c98dda5acbd4d027b25d2fdf0ce]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 40 substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [30(b)](https://www.legislation.gov.uk/wsi/2014/66/regulation/30/b)
+[^c-4cde9c98dda5acbd4d027b25d2fdf0ce]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 40 substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [30(b)](https://www.legislation.gov.uk/wsi/2014/66/regulation/30/b)
 
-[^key-f1b3c59f07f7054fb6e61749a060679a]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 41(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [29(b)](https://www.legislation.gov.uk/wsi/2018/14/regulation/29/b)
+[^c-f1b3c59f07f7054fb6e61749a060679a]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 41(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [29(b)](https://www.legislation.gov.uk/wsi/2018/14/regulation/29/b)
 
-[^key-1a2c24c9a81e67fda501bd626ecbb963]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 41(7) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [29(b)](https://www.legislation.gov.uk/wsi/2018/14/regulation/29/b)
+[^c-1a2c24c9a81e67fda501bd626ecbb963]: Textual amendment: Words in Sch. Scheme Sch. 7 para. 41(7) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [29(b)](https://www.legislation.gov.uk/wsi/2018/14/regulation/29/b)
 
 [^f00304]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382).
 
@@ -469,7 +469,7 @@ but only for a period of two years from the relevant date.
 
 [^f00306]: Footnote: [S.I. 2003/460](https://www.legislation.gov.uk/uksi/2003/460).
 
-[^key-38b45a37b6f271b8083389562c948a39]: Textual amendment: Words in [Sch. Scheme Sch. 7 para. 46(2)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/7/paragraph/46/2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2019 (S.I. 2019/11)](https://www.legislation.gov.uk/wsi/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/11/regulation/1/1), [17(a)](https://www.legislation.gov.uk/wsi/2019/11/regulation/17/a)
+[^c-38b45a37b6f271b8083389562c948a39]: Textual amendment: Words in [Sch. Scheme Sch. 7 para. 46(2)](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/7/paragraph/46/2) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2019 (S.I. 2019/11)](https://www.legislation.gov.uk/wsi/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/11/regulation/1/1), [17(a)](https://www.legislation.gov.uk/wsi/2019/11/regulation/17/a)
 
 [^f00307]: Footnote: [1988 c.7](https://www.legislation.gov.uk/ukpga/1988/7).
 
@@ -485,8 +485,8 @@ but only for a period of two years from the relevant date.
 
 [^f00313]: Footnote: [S.I. 1983/686](https://www.legislation.gov.uk/uksi/1983/686).
 
-[^key-6210b816fa0fd4b6774b61b70653f888]: Textual amendment: Sch. Scheme Sch. 7 para. 59 substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(e)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/e)
+[^c-6210b816fa0fd4b6774b61b70653f888]: Textual amendment: Sch. Scheme Sch. 7 para. 59 substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [29(e)](https://www.legislation.gov.uk/wsi/2016/50/regulation/29/e)
 
 [^f00316]: Footnote: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
 
-[^key-2a843fd76b0cec78e55c4fa1d16287e8]: Textual amendment: [Sch. Scheme Sch. 7 para. 67](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/7/paragraph/67) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2019 (S.I. 2019/11)](https://www.legislation.gov.uk/wsi/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/11/regulation/1/1), [17(b)](https://www.legislation.gov.uk/wsi/2019/11/regulation/17/b)
+[^c-2a843fd76b0cec78e55c4fa1d16287e8]: Textual amendment: [Sch. Scheme Sch. 7 para. 67](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/7/paragraph/67) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2019 (S.I. 2019/11)](https://www.legislation.gov.uk/wsi/2019/11), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/11/regulation/1/1), [17(b)](https://www.legislation.gov.uk/wsi/2019/11/regulation/17/b)

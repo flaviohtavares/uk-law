@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Specification for imitation firearms[^key-ea72caf7639d8a821478699c110bc406]
+## 39. Specification for imitation firearms[^c-ea72caf7639d8a821478699c110bc406]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) he manufactures an imitation firearm which does not conform to the specifications required of it by regulations under this section;
 - (b) he modifies an imitation firearm so that it ceases to conform to the specifications so required of it;
 - (c) he modifies a firearm to create an imitation firearm that does not conform to the specifications so required of it; or
-- (d)[^key-422a828cfc9e29bd33c2f2fa2bf5e5ec] he brings an imitation firearm which does not conform to the specifications so required of it into Great Britain or causes such an imitation firearm to be brought into Great Britain.
+- (d)[^c-422a828cfc9e29bd33c2f2fa2bf5e5ec] he brings an imitation firearm which does not conform to the specifications so required of it into Great Britain or causes such an imitation firearm to be brought into Great Britain.
 
 (3) An offence under this section shall be punishable, on summary conviction—
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea72caf7639d8a821478699c110bc406]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/38/section/39) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(h)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/h)
+[^c-ea72caf7639d8a821478699c110bc406]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/38/section/39) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(h)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/h)
 
-[^key-422a828cfc9e29bd33c2f2fa2bf5e5ec]: Modification: [S. 39(2)(d)](https://www.legislation.gov.uk/ukpga/2006/38/section/39/2/d) restricted (11.8.2011) by [The Violent Crime Reduction Act 2006 (Specification for Imitation Firearms) Regulations 2011 (S.I. 2011/1754)](https://www.legislation.gov.uk/uksi/2011/1754), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1754/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/1754/regulation/7)
+[^c-422a828cfc9e29bd33c2f2fa2bf5e5ec]: Modification: [S. 39(2)(d)](https://www.legislation.gov.uk/ukpga/2006/38/section/39/2/d) restricted (11.8.2011) by [The Violent Crime Reduction Act 2006 (Specification for Imitation Firearms) Regulations 2011 (S.I. 2011/1754)](https://www.legislation.gov.uk/uksi/2011/1754), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1754/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/1754/regulation/7)

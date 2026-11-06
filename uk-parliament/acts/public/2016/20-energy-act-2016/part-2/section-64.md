@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Disclosure required for returns and reports prepared by OGA[^key-e0c59f63b6943bbd86ba469b98247c95]
+## 64. Disclosure required for returns and reports prepared by OGA[^c-e0c59f63b6943bbd86ba469b98247c95]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0c59f63b6943bbd86ba469b98247c95]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2016/20/section/64) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-e0c59f63b6943bbd86ba469b98247c95]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2016/20/section/64) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 41
 
-### 1. Schedule 9 to the Able Marine Energy Park Development Consent Order 2014[^key-7dde1ad8db34e5bfe31b048b88a9bcb3]
+### 1. Schedule 9 to the Able Marine Energy Park Development Consent Order 2014[^c-7dde1ad8db34e5bfe31b048b88a9bcb3]
 
 After paragraph 120 of Schedule 9 insert new Part 16—
 
@@ -46,7 +46,7 @@ After paragraph 120 of Schedule 9 insert new Part 16—
 >
 > **123. Regulation of powers over Rosper Road**
 >
-> (1) Subject to VPI complying with paragraphs 128, 129, 130, 131 and 133[^key-8017c2a3c33925b25ce8c303ab709f49] of Part 8 of Schedule 9 to the OCGT Order the undertaker must not exercise the powers granted under this Order so as to hinder or prevent—
+> (1) Subject to VPI complying with paragraphs 128, 129, 130, 131 and 133[^c-8017c2a3c33925b25ce8c303ab709f49] of Part 8 of Schedule 9 to the OCGT Order the undertaker must not exercise the powers granted under this Order so as to hinder or prevent—
 >
 > - (a) the construction, operation, use or maintenance of the OCGT water connection; or
 > - (b) access between all parts of the OCGT authorised development and Rosper Road,
@@ -91,6 +91,6 @@ After paragraph 120 of Schedule 9 insert new Part 16—
 
 ## Annotations
 
-[^key-7dde1ad8db34e5bfe31b048b88a9bcb3]: Commencement: Sch. 13 para. 1 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-7dde1ad8db34e5bfe31b048b88a9bcb3]: Commencement: Sch. 13 para. 1 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-8017c2a3c33925b25ce8c303ab709f49]: Textual amendment: Words in Sch. 13 para. 1 substituted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-8017c2a3c33925b25ce8c303ab709f49]: Textual amendment: Words in Sch. 13 para. 1 substituted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)

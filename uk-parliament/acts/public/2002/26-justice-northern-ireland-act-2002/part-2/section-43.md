@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Appointment and removal of Director by Attorney General[^key-848db620131a3c6ffda69e818c1ac747]
+## 43. Appointment and removal of Director by Attorney General[^c-848db620131a3c6ffda69e818c1ac747]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) a person who holds high judicial office, within the meaning of Part 3 of the Constitutional Reform Act 2005[^c20694721] and does not hold (and has never held) the office of Lord Chief Justice, Lord Justice of Appeal or judge of the High Court, and
 - (b) a person who holds, or has held, office as a judge of the High Court in England and Wales or a judge of the Court of Session.
 
-(6) The selection of the persons to be the members of a tribunal is to be made by the Lord Chancellor after consultation with all of the following—[^key-0b9da138f36440d4b7c485be6c3217ce]
+(6) The selection of the persons to be the members of a tribunal is to be made by the Lord Chancellor after consultation with all of the following—[^c-0b9da138f36440d4b7c485be6c3217ce]
 
 - (a) the President of the Supreme Court;
 - (b) the Lord Chief Justice of England and Wales;
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-848db620131a3c6ffda69e818c1ac747]: Commencement: S. 43 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/14)
+[^c-848db620131a3c6ffda69e818c1ac747]: Commencement: S. 43 in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/14)
 
 [^c20694721]: Textual amendment: Words in s. 43(5)(a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 145](https://www.legislation.gov.uk/ukpga/2005/4/section/145), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 17 para. 33(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/17/paragraph/33/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
 
-[^key-0b9da138f36440d4b7c485be6c3217ce]: Textual amendment: Words in [s. 43(6)](https://www.legislation.gov.uk/ukpga/2002/26/section/43/6) inserted (12.4.2010) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 121](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/121) (with [Sch. 5 para. 115(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/115/2)); [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/i)
+[^c-0b9da138f36440d4b7c485be6c3217ce]: Textual amendment: Words in [s. 43(6)](https://www.legislation.gov.uk/ukpga/2002/26/section/43/6) inserted (12.4.2010) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 121](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/121) (with [Sch. 5 para. 115(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/115/2)); [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/i)

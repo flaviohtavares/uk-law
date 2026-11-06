@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16C. Supplementary provisions as to orders under s. 16A.[^key-ec5f41a5fc8b4f65ed757b59c2300a66][^key-6a7500b7cdac0e5bf5ff9e195ebd9b07][^key-4b809c876d447c731aada4eb56aa6d00][^c13547041]
+## 16C. Supplementary provisions as to orders under s. 16A.[^c-ec5f41a5fc8b4f65ed757b59c2300a66][^c-6a7500b7cdac0e5bf5ff9e195ebd9b07][^c-4b809c876d447c731aada4eb56aa6d00][^c13547041]
 
 *Extent: E+W+S*
 
@@ -33,10 +33,10 @@ and paragraph 25 of that Schedule shall apply to regulations under that subsecti
 
 ## Annotations
 
-[^key-ec5f41a5fc8b4f65ed757b59c2300a66]: Modification: S. 16C applied (with modifications) by 2003 c. iii, s. 7(3B) (as modified by 2006 c. 12, ss. 16A(6), 16B(2) (as inserted) (E.) (14.2.2012) by [2011 c. 22](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/7/1), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1))
+[^c-ec5f41a5fc8b4f65ed757b59c2300a66]: Modification: S. 16C applied (with modifications) by 2003 c. iii, s. 7(3B) (as modified by 2006 c. 12, ss. 16A(6), 16B(2) (as inserted) (E.) (14.2.2012) by [2011 c. 22](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/7/1), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1))
 
-[^key-6a7500b7cdac0e5bf5ff9e195ebd9b07]: Modification: S. 16C applied (with modifications) (30.1.2014) by [Hertfordshire County Council (Filming on Highways) Act 2014 (c. i)](https://www.legislation.gov.uk/ukla/2014/1), [s. 5](https://www.legislation.gov.uk/ukla/2014/1/section/5)
+[^c-6a7500b7cdac0e5bf5ff9e195ebd9b07]: Modification: S. 16C applied (with modifications) (30.1.2014) by [Hertfordshire County Council (Filming on Highways) Act 2014 (c. i)](https://www.legislation.gov.uk/ukla/2014/1), [s. 5](https://www.legislation.gov.uk/ukla/2014/1/section/5)
 
-[^key-4b809c876d447c731aada4eb56aa6d00]: Modification: S. 16C applied (with modifications) (17.12.2014) by [Buckinghamshire County Council (Filming on Highways) Act 2014 (c. ii)](https://www.legislation.gov.uk/ukla/2014/2), [s. 5](https://www.legislation.gov.uk/ukla/2014/2/section/5)
+[^c-4b809c876d447c731aada4eb56aa6d00]: Modification: S. 16C applied (with modifications) (17.12.2014) by [Buckinghamshire County Council (Filming on Highways) Act 2014 (c. ii)](https://www.legislation.gov.uk/ukla/2014/2), [s. 5](https://www.legislation.gov.uk/ukla/2014/2/section/5)
 
 [^c13547041]: Textual amendment: S. 16C inserted (3.5.1994) by [1994 c. 11](https://www.legislation.gov.uk/ukpga/1994/11), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1994/11/section/1/1)

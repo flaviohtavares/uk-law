@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Application[^key-8cf34160e28762b92073fa1e1e753795]
+## 22. Application[^c-8cf34160e28762b92073fa1e1e753795]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ An application for inclusion in the register must—
 
 ## Annotations
 
-[^key-8cf34160e28762b92073fa1e1e753795]: Commencement: S. 22 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-8cf34160e28762b92073fa1e1e753795]: Commencement: S. 22 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

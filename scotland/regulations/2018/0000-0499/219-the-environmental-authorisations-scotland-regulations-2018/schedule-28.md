@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 28 — PETROL VAPOUR RECOVERY ACTIVITIES[^key-b26c57f40970c0bcd2846f38af096b80]
+## SCHEDULE 28 — PETROL VAPOUR RECOVERY ACTIVITIES[^c-b26c57f40970c0bcd2846f38af096b80]
 
 *Extent: S*
 
@@ -219,4 +219,4 @@ SEPA must ensure that an authorisation includes such conditions as it considers 
 
 ## Annotations
 
-[^key-b26c57f40970c0bcd2846f38af096b80]: Textual amendment: [Sch. 28](https://www.legislation.gov.uk/ssi/2018/219/schedule/28) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 19](https://www.legislation.gov.uk/ssi/2025/165/schedule/19) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b26c57f40970c0bcd2846f38af096b80]: Textual amendment: [Sch. 28](https://www.legislation.gov.uk/ssi/2018/219/schedule/28) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 19](https://www.legislation.gov.uk/ssi/2025/165/schedule/19) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

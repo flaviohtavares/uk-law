@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189B. Green deal plans[^key-7a1d4a4ada529928b53e8783ca8dd21b]
+## 189B. Green deal plans[^c-7a1d4a4ada529928b53e8783ca8dd21b]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ and except as provided by this subsection, a person is not and is not to be trea
 
 ## Annotations
 
-[^key-7a1d4a4ada529928b53e8783ca8dd21b]: Textual amendment: Ss. 189B-189D inserted (E.W.S) (28.2.2014) by [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/436/article/6) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))
+[^c-7a1d4a4ada529928b53e8783ca8dd21b]: Textual amendment: Ss. 189B-189D inserted (E.W.S) (28.2.2014) by [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/436/article/6) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))

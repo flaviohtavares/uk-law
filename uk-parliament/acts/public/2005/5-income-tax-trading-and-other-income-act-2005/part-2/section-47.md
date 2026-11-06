@@ -30,7 +30,7 @@ summary: ''
 (3) Case B is where the gift incorporates a conspicuous advertisement for the trader unless—
 
 - (a) the gift is food, drink, tobacco or a token or voucher exchangeable for goods, or
-- (b) the cost of the gift to the trader, together with any other gifts (except food, drink, tobacco or a token or voucher exchangeable for goods) given to the same person in the same tax year[^key-d90744c6f2331868415545df71f8d5a6], exceeds £50.
+- (b) the cost of the gift to the trader, together with any other gifts (except food, drink, tobacco or a token or voucher exchangeable for goods) given to the same person in the same tax year[^c-d90744c6f2331868415545df71f8d5a6], exceeds £50.
 
 The Treasury may by order amend the sum for the time being specified in paragraph (b) so as to increase it.
 
@@ -47,4 +47,4 @@ The Treasury may by order amend the sum for the time being specified in paragrap
 
 ## Annotations
 
-[^key-d90744c6f2331868415545df71f8d5a6]: Textual amendment: Words in [s. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/47/3/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 11](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/11), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-d90744c6f2331868415545df71f8d5a6]: Textual amendment: Words in [s. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/47/3/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 11](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/11), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

@@ -39,7 +39,7 @@ summary: ''
 
 (4) The Secretary of State may not make an order under subsection (2) if he is satisfied that the order would make a person stateless.
 
-(4A)[^key-587987ae6bc4e0aa8a9b2adca56c7df7] But that does not prevent the Secretary of State from making an order under subsection (2) to deprive a person of a citizenship status if—
+(4A)[^c-587987ae6bc4e0aa8a9b2adca56c7df7] But that does not prevent the Secretary of State from making an order under subsection (2) to deprive a person of a citizenship status if—
 
 - (a) the citizenship status results from the person's naturalisation,
 - (b) the Secretary of State is satisfied that the deprivation is conducive to the public good because the person, while having that citizenship status, has conducted him or herself in a manner which is seriously prejudicial to the vital interests of the United Kingdom, any of the Islands, or any British overseas territory, and
@@ -51,7 +51,7 @@ summary: ''
 - (b) the reasons for the order, and
 - (c) the person’s right of appeal under section 40A(1) or under section 2B of the Special Immigration Appeals Commission Act 1997 (c. 68).
 
-(5A)[^key-c0ba9a6d690a4ab10475d225d541229f] Subsection (5) does not apply if—
+(5A)[^c-c0ba9a6d690a4ab10475d225d541229f] Subsection (5) does not apply if—
 
 - (a) the Secretary of State does not have the information needed to be able to give notice under that subsection,
 - (b) the Secretary of State reasonably considers it necessary, in the interests of—
@@ -100,6 +100,6 @@ summary: ''
 
 [^c19270511]: Textual amendment: S. 40(2) substituted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 56(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/56/1), [62](https://www.legislation.gov.uk/ukpga/2006/13/section/62); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
 
-[^key-587987ae6bc4e0aa8a9b2adca56c7df7]: Textual amendment: [S. 40(4A)](https://www.legislation.gov.uk/ukpga/1981/61/section/40/4A) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/66/1), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(t)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/t) as amended by SI 2014/2771 art 14
+[^c-587987ae6bc4e0aa8a9b2adca56c7df7]: Textual amendment: [S. 40(4A)](https://www.legislation.gov.uk/ukpga/1981/61/section/40/4A) inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2014/22/section/66/1), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(t)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/t) as amended by SI 2014/2771 art 14
 
-[^key-c0ba9a6d690a4ab10475d225d541229f]: Textual amendment: [S. 40(5A)-(5E)](https://www.legislation.gov.uk/ukpga/1981/61/section/40/5A) inserted (10.5.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1) (with [s. 10(6)-(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/6)); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)
+[^c-c0ba9a6d690a4ab10475d225d541229f]: Textual amendment: [S. 40(5A)-(5E)](https://www.legislation.gov.uk/ukpga/1981/61/section/40/5A) inserted (10.5.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1) (with [s. 10(6)-(8)](https://www.legislation.gov.uk/ukpga/2022/36/section/10/6)); [S.I. 2023/450](https://www.legislation.gov.uk/uksi/2023/450), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/450/regulation/2/a)

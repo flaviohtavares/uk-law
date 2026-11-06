@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Old development plans[^key-8c2513466a43e4d452012ae8c82012bd]
+## 53. Old development plans[^c-8c2513466a43e4d452012ae8c82012bd]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c2513466a43e4d452012ae8c82012bd]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2006/17/section/53) in force at 28.2.2009 by [S.S.I. 2009/70](https://www.legislation.gov.uk/ssi/2009/70), [art. 2](https://www.legislation.gov.uk/ssi/2009/70/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/70/schedule)
+[^c-8c2513466a43e4d452012ae8c82012bd]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2006/17/section/53) in force at 28.2.2009 by [S.S.I. 2009/70](https://www.legislation.gov.uk/ssi/2009/70), [art. 2](https://www.legislation.gov.uk/ssi/2009/70/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/70/schedule)

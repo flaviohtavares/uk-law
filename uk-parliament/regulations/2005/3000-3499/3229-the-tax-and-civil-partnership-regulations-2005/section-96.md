@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96.[^key-ba0c0068785caa3ed5c2b7a67fa1d740]
+## 96.[^c-ba0c0068785caa3ed5c2b7a67fa1d740]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 702 (estates of deceased persons in course of administration: applica
 
 ## Annotations
 
-[^key-ba0c0068785caa3ed5c2b7a67fa1d740]: Commencement: Reg. 96 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-ba0c0068785caa3ed5c2b7a67fa1d740]: Commencement: Reg. 96 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

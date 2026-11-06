@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206B. Prohibition or restriction on carrying on of relevant designated activities[^key-2b1944bb154d3981015749ae1b403001][^key-83b96e19617665ae08afd85daeede5e6]
+## 206B. Prohibition or restriction on carrying on of relevant designated activities[^c-2b1944bb154d3981015749ae1b403001][^c-83b96e19617665ae08afd85daeede5e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ may be exercised in relation to the same contravention.
 
 ## Annotations
 
-[^key-2b1944bb154d3981015749ae1b403001]: Modification: [S. 206B](https://www.legislation.gov.uk/ukpga/2000/8/section/206B) applied (with modifications) (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [24](https://www.legislation.gov.uk/uksi/2025/29/regulation/24), [25](https://www.legislation.gov.uk/uksi/2025/29/regulation/25), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/uksi/2025/29/schedule/1/part/1), [2](https://www.legislation.gov.uk/uksi/2025/29/schedule/1/part/2); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
+[^c-2b1944bb154d3981015749ae1b403001]: Modification: [S. 206B](https://www.legislation.gov.uk/ukpga/2000/8/section/206B) applied (with modifications) (14.1.2025 for specified purposes, 13.7.2026 in so far as not already in force) by [The Short Selling Regulations 2025 (S.I. 2025/29)](https://www.legislation.gov.uk/uksi/2025/29), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2025/29/regulation/2/3), [24](https://www.legislation.gov.uk/uksi/2025/29/regulation/24), [25](https://www.legislation.gov.uk/uksi/2025/29/regulation/25), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/uksi/2025/29/schedule/1/part/1), [2](https://www.legislation.gov.uk/uksi/2025/29/schedule/1/part/2); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/b)
 
-[^key-83b96e19617665ae08afd85daeede5e6]: Textual amendment: S. 206B inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/15)
+[^c-83b96e19617665ae08afd85daeede5e6]: Textual amendment: S. 206B inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/15)

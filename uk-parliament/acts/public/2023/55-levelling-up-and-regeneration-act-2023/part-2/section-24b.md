@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24B. Co-operation with local government pension scheme managers[^key-67befa161f62cfb55a181a476ef7ca41]
+## 24B. Co-operation with local government pension scheme managers[^c-67befa161f62cfb55a181a476ef7ca41]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ in connection with that employment.
 
 ## Annotations
 
-[^key-67befa161f62cfb55a181a476ef7ca41]: Textual amendment: S. 24B inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/43/2), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)
+[^c-67befa161f62cfb55a181a476ef7ca41]: Textual amendment: S. 24B inserted (15.7.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 43(2)](https://www.legislation.gov.uk/ukpga/2026/23/section/43/2), [108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)); [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/a)

@@ -36,15 +36,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Extension of civil partnership to different sex couples
 
-### 1. Different sex civil partnerships[^key-2310d63ac79c7f321ebc8faaa4253b1e][^key-83078d50c5555daf96767378c674f693]
+### 1. Different sex civil partnerships[^c-2310d63ac79c7f321ebc8faaa4253b1e][^c-83078d50c5555daf96767378c674f693]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
 (2) In section 1 (civil partnership), in subsection (1) the words “of the same sex” are repealed.
 
-### 2. Recognition of overseas different sex relationships[^key-513a4f468a5b0beac0f5fb1755d35ef7][^key-78100d14d1ce628e85fbd0514296912e]
+### 2. Recognition of overseas different sex relationships[^c-513a4f468a5b0beac0f5fb1755d35ef7][^c-78100d14d1ce628e85fbd0514296912e]
 
-(1)[^key-37e40e2ba2c121f5a28d88f4dfe92526] The Civil Partnership Act 2004 is amended as follows.
+(1)[^c-37e40e2ba2c121f5a28d88f4dfe92526] The Civil Partnership Act 2004 is amended as follows.
 
 (2) In section 212 (meaning of “overseas relationship”), subsection (1)(b)(i) is repealed.
 
@@ -60,7 +60,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (c) in subsection (3), after “this section” insert “ amending Part 1 of Schedule 20 ”,
 - (d) in subsection (5), after “amending” insert “ Part 1 of ”,
 - (e) in subsection (6), after “this section” insert “ amending Part 1 of Schedule 20 ”,
-- (f)[^key-37e40e2ba2c121f5a28d88f4dfe92526] after subsection (6) insert—
+- (f)[^c-37e40e2ba2c121f5a28d88f4dfe92526] after subsection (6) insert—
 
   > (7) The Scottish Ministers may by regulations amend Part 2 of Schedule 20 by—
   >
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 (4) In section 215 (overseas relationship treated as civil partnerships: the general rule)—
 
 - (a) in subsection (2), for “subsection (3)” substitute “ subsections (3) and (3A) ”,
-- (b)[^key-37e40e2ba2c121f5a28d88f4dfe92526] after subsection (3) insert—
+- (b)[^c-37e40e2ba2c121f5a28d88f4dfe92526] after subsection (3) insert—
 
   > (3A) In its application to an overseas relationship between persons of different sexes entered into before this subsection comes into force, subsection (2) is subject to—
   >
@@ -106,7 +106,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) in that Part, in paragraph 1, for “section 213” substitute “ section 213(1)(a) ”,
 - (c) after that Part insert as Part 2 the text in schedule 1 of this Act.
 
-### 3. Interim recognition of different sex relationships formed outwith Scotland[^key-037d3d598db46b3e9e90f99d0a1e8a56]
+### 3. Interim recognition of different sex relationships formed outwith Scotland[^c-037d3d598db46b3e9e90f99d0a1e8a56]
 
 (1) This section applies to a civil partnership between persons of different sexes—
 
@@ -139,7 +139,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Power to enable marriages to become civil partnerships
 
-### 4. Power to enable marriages to become civil partnerships[^key-9a9fd44deaa61a8ad0428cdf3fa9326e]
+### 4. Power to enable marriages to become civil partnerships[^c-9a9fd44deaa61a8ad0428cdf3fa9326e]
 
 (1) The Scottish Ministers may by regulations make provision for, or in connection with, enabling the parties to a marriage—
 
@@ -174,7 +174,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Recognition of marriages converted to civil partnerships outwith Scotland
 
-### 5. Recognition of marriages converted to civil partnerships outwith Scotland[^key-ca1e28259e1049f1189e94a158653d60]
+### 5. Recognition of marriages converted to civil partnerships outwith Scotland[^c-ca1e28259e1049f1189e94a158653d60]
 
 (1) The Scottish Ministers may by regulations make provision of the type described in subsection (2) in relation to a marriage that is converted into a civil partnership in accordance with provision made under—
 
@@ -199,7 +199,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Eligibility and registration in Scotland
 
-### 6. Eligibility of persons of different sexes to enter into a civil partnership[^key-0ba7c3b72b4e02eb0c72602b6644ec6b]
+### 6. Eligibility of persons of different sexes to enter into a civil partnership[^c-0ba7c3b72b4e02eb0c72602b6644ec6b]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
@@ -207,16 +207,16 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 7. Persons who may register civil partnerships between persons of different sexes
 
-(1)[^key-169bb07133fe27b262ea969cd8f70b4c][^key-9a4307ba00d35a3d6744326f4df7ea12] The Civil Partnership Act 2004 is amended as follows.
+(1)[^c-169bb07133fe27b262ea969cd8f70b4c][^c-9a4307ba00d35a3d6744326f4df7ea12] The Civil Partnership Act 2004 is amended as follows.
 
 (2) In section 94A (persons who may register civil partnerships)—
 
-- (a)[^key-f1e5a57c5b0df29172235b6e7618afcb] in subsection (1)—
+- (a)[^c-f1e5a57c5b0df29172235b6e7618afcb] in subsection (1)—
   - (i) after “A civil partnership” insert “ between persons of the same sex ”,
   - (ii) in paragraph (a)(i) after “civil partnerships” insert “ between persons of the same sex ”,
   - (iii) in paragraph (a)(ii) after “section 94B” insert “ to register civil partnerships between persons of the same sex ”,
   - (iv) in paragraph (a)(iii) after “section 94E” insert “ to register civil partnerships between persons of the same sex ”,
-- (b)[^key-169bb07133fe27b262ea969cd8f70b4c][^key-1220dd512e196c9ff939dc25535fd9a3] after subsection (2) insert—
+- (b)[^c-169bb07133fe27b262ea969cd8f70b4c][^c-1220dd512e196c9ff939dc25535fd9a3] after subsection (2) insert—
 
   > (2A) A civil partnership between persons of different sexes may be registered by and only by—
   >
@@ -232,17 +232,17 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   > - (b) the Scottish Ministers are satisfied that the body meets the qualifying requirements.
 
   ,
-- (c)[^key-f1e5a57c5b0df29172235b6e7618afcb] in subsection (3)—
+- (c)[^c-f1e5a57c5b0df29172235b6e7618afcb] in subsection (3)—
   - (i) for “or (2)(a)” substitute “ , (2)(a), (2A)(a) or (2B)(a) ”,
   - (ii) in paragraph (a) after “subsection (2)(a)” insert “ or subsection (2B)(a) ”,
   - (iii) in paragraph (b) after “civil partnerships” insert “ between persons of the same sex or between persons of different sexes ”,
   - (iv) in paragraph (c) after “civil partnerships” insert “ between persons of the same sex or between persons of different sexes ”,
   - (v) in paragraph (d) after “civil partnerships” in the second place that it appears insert “ between persons of the same sex or between persons of different sexes ”,
-- (d)[^key-f1e5a57c5b0df29172235b6e7618afcb] in subsection (4)(a) after “subsection (1)(a)” insert  “ or (2A)(a) ”,
+- (d)[^c-f1e5a57c5b0df29172235b6e7618afcb] in subsection (4)(a) after “subsection (1)(a)” insert  “ or (2A)(a) ”,
 - (e) in subsection (5) for “subsection (2)(b)” substitute “ subsections (2)(b) and (2B)(b) ”,
-- (f)[^key-169bb07133fe27b262ea969cd8f70b4c][^key-9a4307ba00d35a3d6744326f4df7ea12] in section 126(4) (regulations) after “94A(1)(a)(i)” insert “ , (2A)(a)(i) ”.
+- (f)[^c-169bb07133fe27b262ea969cd8f70b4c][^c-9a4307ba00d35a3d6744326f4df7ea12] in section 126(4) (regulations) after “94A(1)(a)(i)” insert “ , (2A)(a)(i) ”.
 
-### 8. Registration and removal of celebrants[^key-5e55cb9dca0fd9694976973c9d446ca8]
+### 8. Registration and removal of celebrants[^c-5e55cb9dca0fd9694976973c9d446ca8]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
@@ -274,7 +274,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in subsection (1)(b) after “94B(1)” insert “ or (1A) ”,
 - (b) in subsection (5) after “94B(1)” insert “ or (1A) ”.
 
-### 9. Temporary authorisation of celebrants[^key-df44dfd8db5ea515fdd5edeb72721eda]
+### 9. Temporary authorisation of celebrants[^c-df44dfd8db5ea515fdd5edeb72721eda]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
@@ -299,7 +299,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 10. Second registration of civil partnership[^key-109aabeb9832e2977a5e8726871aa5c4]
+### 10. Second registration of civil partnership[^c-109aabeb9832e2977a5e8726871aa5c4]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
@@ -355,7 +355,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Dissolution
 
-### 11. Postponement of decree of dissolution where religious impediment to marry exists[^key-e264b97358dd2a008ed4d3668208b9c2][^key-5daf8119e4ffd0bfe8137e6de16e99f0]
+### 11. Postponement of decree of dissolution where religious impediment to marry exists[^c-e264b97358dd2a008ed4d3668208b9c2][^c-5daf8119e4ffd0bfe8137e6de16e99f0]
 
 (1) The Civil Partnership Act 2004 is amended as follows.
 
@@ -402,7 +402,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Marriage between civil partners in a qualifying civil partnership: celebrants
 
-### 12. Marriage between civil partners in a qualifying civil partnership: celebrants[^key-3e2ba6d90112eeb670839dedaa64c5ca]
+### 12. Marriage between civil partners in a qualifying civil partnership: celebrants[^c-3e2ba6d90112eeb670839dedaa64c5ca]
 
 (1) The Marriage (Scotland) Act 1977 is amended as follows.
 
@@ -417,7 +417,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Forced civil partnerships
 
-### 13. Forced civil partnerships[^key-3516eee9562faae6de3d7bcabbcc71e8]
+### 13. Forced civil partnerships[^c-3516eee9562faae6de3d7bcabbcc71e8]
 
 (1) The Anti-social Behaviour, Crime and Policing Act 2014 is amended as follows.
 
@@ -437,7 +437,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Consequential modifications
 
-### 14. Consequential modifications[^key-776eef1924c6796110bcbd60fd74c305][^key-4c25113e2c290ce3a9dd5e4c154077f3][^key-d2374e0a21a647bb324d3ed51a779e1b][^key-81975f51f047c615cb7f302640d6b5b3]
+### 14. Consequential modifications[^c-776eef1924c6796110bcbd60fd74c305][^c-4c25113e2c290ce3a9dd5e4c154077f3][^c-d2374e0a21a647bb324d3ed51a779e1b][^c-81975f51f047c615cb7f302640d6b5b3]
 
 Schedule 2 modifies other enactments.
 
@@ -476,7 +476,7 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
 (introduced by section 2(6)(c))
 
-**1.**[^key-ef32aa6a360995f4e23710a6630d7e2c][^key-fc6727063e446ba89ff4a52864099e36] The following is the text to be inserted as Part 2 of schedule 20 of the Civil Partnership Act 2004—
+**1.**[^c-ef32aa6a360995f4e23710a6630d7e2c][^c-fc6727063e446ba89ff4a52864099e36] The following is the text to be inserted as Part 2 of schedule 20 of the Civil Partnership Act 2004—
 
 > **PART 2 — Specified relationships: different sex couples**
 >
@@ -540,7 +540,7 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
 ### Modification of the Registration of Births, Deaths and Marriages (Scotland) Act 1965
 
-**1.**[^key-1bda586d83dcc67e775c2aa60cc36316] (1) The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is modified as follows.
+**1.**[^c-1bda586d83dcc67e775c2aa60cc36316] (1) The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is modified as follows.
 
 (2) In section 14(5) (duty to give information of particulars of birth), in both places that it appears, after “married to” insert “ or in a civil partnership with ”.
 
@@ -553,7 +553,7 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
 ### Modification of the Family Law (Scotland) Act 1985
 
-**2.**[^key-2ff3f7edf27cf241fdbf34e7292528db] (1) The Family Law (Scotland) Act 1985 is modified as follows.
+**2.**[^c-2ff3f7edf27cf241fdbf34e7292528db] (1) The Family Law (Scotland) Act 1985 is modified as follows.
 
 (2) In section 9(1)(c)(ii) (principles to be applied)—
 
@@ -569,7 +569,7 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
 ### Modification of the Law Reform (Parent and Child) (Scotland) Act 1986
 
-**3.**[^key-6421d30878da59ae3b04187f1cbd0e87] (1) The Law Reform (Parent and Child) (Scotland) Act 1986 is modified as follows.
+**3.**[^c-6421d30878da59ae3b04187f1cbd0e87] (1) The Law Reform (Parent and Child) (Scotland) Act 1986 is modified as follows.
 
 (2) In section 5 (presumptions)—
 
@@ -583,7 +583,7 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
 ### Modification of the Children (Scotland) Act 1995
 
-**4.**[^key-b5289a9756c6a566b952ff75227978eb] (1) The Children (Scotland) Act 1995 is modified as follows.
+**4.**[^c-b5289a9756c6a566b952ff75227978eb] (1) The Children (Scotland) Act 1995 is modified as follows.
 
 (2) In section 3 (provisions relating both to parental responsibilities and to parental rights)—
 
@@ -615,7 +615,7 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
 ### Modification of the Gender Recognition Act 2004
 
-**5.**[^key-0dfa1596095fe25d0f165e0877308e79][^key-0322683821ae7c5ec966e44c79975574][^M_I_4a888d6c-85ea-4daa-be66-fe20decf3257] (1) The Gender Recognition Act 2004 is modified as follows.
+**5.**[^c-0dfa1596095fe25d0f165e0877308e79][^c-0322683821ae7c5ec966e44c79975574][^M_I_4a888d6c-85ea-4daa-be66-fe20decf3257] (1) The Gender Recognition Act 2004 is modified as follows.
 
 (2) In section 3 (evidence), after subsection (6F) insert—
 
@@ -802,13 +802,13 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 (19) In schedule 3 (registration)—
 
 - (a) in paragraph 19, the word “4F,” is repealed,
-- (b)[^key-0dfa1596095fe25d0f165e0877308e79] in paragraph 20A(4), in the definition of qualifying Scottish civil partnership, for “each” substitute “ one, or each, ”.
+- (b)[^c-0dfa1596095fe25d0f165e0877308e79] in paragraph 20A(4), in the definition of qualifying Scottish civil partnership, for “each” substitute “ one, or each, ”.
 
 ### Modification of the Civil Partnership Act 2004
 
-**6.** (1)[^key-5ead622e97f75b4b2e5f3e610bbef08a] The Civil Partnership Act 2004 is modified as follows.
+**6.** (1)[^c-5ead622e97f75b4b2e5f3e610bbef08a] The Civil Partnership Act 2004 is modified as follows.
 
-(2)[^key-19a29d7136d285d8b6d7a35029b787af] In section 117 (dissolution)—
+(2)[^c-19a29d7136d285d8b6d7a35029b787af] In section 117 (dissolution)—
 
 - (a) in subsection (2)(b), before “an interim” insert “ subject tosubsection (3A), ”,
 - (b) after subsection (3) insert—
@@ -820,13 +820,13 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
 
   .
 
-(3)[^key-c13fe59ab4fef564f26c9d1d4574fd6b] In section 122 (registration of dissolution of civil partnership)—
+(3)[^c-c13fe59ab4fef564f26c9d1d4574fd6b] In section 122 (registration of dissolution of civil partnership)—
 
 - (a) in subsection (1), after “dissolution” insert “ and of declarator of nullity ”,
 - (b) in subsection (5), after “dissolution” insert “ or, as the case may be, of the declarator of nullity of civil partnership ”,
 - (c) the section title becomes “ **Registration of dissolutions and declarators of nullity of civil partnerships** ”.
 
-(4)[^key-5ead622e97f75b4b2e5f3e610bbef08a] In section 225 (jurisdiction of Scottish courts)—
+(4)[^c-5ead622e97f75b4b2e5f3e610bbef08a] In section 225 (jurisdiction of Scottish courts)—
 
 - (a) after subsection (3) insert—
 
@@ -842,86 +842,86 @@ The short title of this Act is the Civil Partnership (Scotland) Act 2020.
   - (i) “(but only where the court is the Court of Session)” is repealed,
   - (ii) for “(3)” in both places that it appears substitute “ (3A) ”.
 
-(5)[^key-5ead622e97f75b4b2e5f3e610bbef08a] In section 237 (supplementary provisions relating to recognition of dissolution etc.), in subsection (2)(b)(ii), for “legal relationships between two people of the same sex” substitute “ relationships of the sort that the civil partnership in question is (whether generally, between two persons of the same sex, or between two persons of different sexes) ”.
+(5)[^c-5ead622e97f75b4b2e5f3e610bbef08a] In section 237 (supplementary provisions relating to recognition of dissolution etc.), in subsection (2)(b)(ii), for “legal relationships between two people of the same sex” substitute “ relationships of the sort that the civil partnership in question is (whether generally, between two persons of the same sex, or between two persons of different sexes) ”.
 
 ### Modification of the Marriage and Civil Partnership (Scotland) Act 2014
 
-**7.**[^key-39508f76e29816539016e8535d18a520] (1) The Marriage and Civil Partnership (Scotland) Act 2014 is modified as follows.
+**7.**[^c-39508f76e29816539016e8535d18a520] (1) The Marriage and Civil Partnership (Scotland) Act 2014 is modified as follows.
 
 (2) In section 30 (renewed marriage or civil partnership following issue of full gender recognition certificate), in subsection (1)(b) for “both parties” substitute “ a party (or both parties) ”.
 
 ## Annotations
 
-[^key-2310d63ac79c7f321ebc8faaa4253b1e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/15/section/1) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/2)
+[^c-2310d63ac79c7f321ebc8faaa4253b1e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/15/section/1) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/2)
 
-[^key-83078d50c5555daf96767378c674f693]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/15/section/1) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-83078d50c5555daf96767378c674f693]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/15/section/1) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-513a4f468a5b0beac0f5fb1755d35ef7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/15/section/2) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/2)
+[^c-513a4f468a5b0beac0f5fb1755d35ef7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/15/section/2) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/2)
 
-[^key-78100d14d1ce628e85fbd0514296912e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/15/section/2) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-78100d14d1ce628e85fbd0514296912e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/15/section/2) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-37e40e2ba2c121f5a28d88f4dfe92526]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2020/15/section/2/1)[(3)(f)](https://www.legislation.gov.uk/asp/2020/15/section/2/3/f)[(4)(b)](https://www.legislation.gov.uk/asp/2020/15/section/2/4/b) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/a)
+[^c-37e40e2ba2c121f5a28d88f4dfe92526]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2020/15/section/2/1)[(3)(f)](https://www.legislation.gov.uk/asp/2020/15/section/2/3/f)[(4)(b)](https://www.legislation.gov.uk/asp/2020/15/section/2/4/b) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/a)
 
-[^key-037d3d598db46b3e9e90f99d0a1e8a56]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/15/section/3) in force at 1.2.2021 by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/414/regulation/3))
+[^c-037d3d598db46b3e9e90f99d0a1e8a56]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/15/section/3) in force at 1.2.2021 by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/414/regulation/3))
 
-[^key-9a9fd44deaa61a8ad0428cdf3fa9326e]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/15/section/4) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-9a9fd44deaa61a8ad0428cdf3fa9326e]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/15/section/4) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-ca1e28259e1049f1189e94a158653d60]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/15/section/5) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-ca1e28259e1049f1189e94a158653d60]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/15/section/5) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-0ba7c3b72b4e02eb0c72602b6644ec6b]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/15/section/6) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-0ba7c3b72b4e02eb0c72602b6644ec6b]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/15/section/6) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-169bb07133fe27b262ea969cd8f70b4c]: Commencement: S. 7(1)(2)(b)(f) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/b)
+[^c-169bb07133fe27b262ea969cd8f70b4c]: Commencement: S. 7(1)(2)(b)(f) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/b)
 
-[^key-9a4307ba00d35a3d6744326f4df7ea12]: Commencement: S. 7(1)(2)(f) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-9a4307ba00d35a3d6744326f4df7ea12]: Commencement: S. 7(1)(2)(f) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-f1e5a57c5b0df29172235b6e7618afcb]: Commencement: S. 7(2)(a)(c)(d) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-f1e5a57c5b0df29172235b6e7618afcb]: Commencement: S. 7(2)(a)(c)(d) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-1220dd512e196c9ff939dc25535fd9a3]: Commencement: S. 7(2)(b) in force at 1.6.2021 for specified purposes by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-1220dd512e196c9ff939dc25535fd9a3]: Commencement: S. 7(2)(b) in force at 1.6.2021 for specified purposes by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-5e55cb9dca0fd9694976973c9d446ca8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/15/section/8) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-5e55cb9dca0fd9694976973c9d446ca8]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/15/section/8) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-df44dfd8db5ea515fdd5edeb72721eda]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/15/section/9) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-df44dfd8db5ea515fdd5edeb72721eda]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/15/section/9) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-109aabeb9832e2977a5e8726871aa5c4]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/15/section/10) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-109aabeb9832e2977a5e8726871aa5c4]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/15/section/10) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
-[^key-e264b97358dd2a008ed4d3668208b9c2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/15/section/11) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/c)
+[^c-e264b97358dd2a008ed4d3668208b9c2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/15/section/11) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/c)
 
-[^key-5daf8119e4ffd0bfe8137e6de16e99f0]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/15/section/11) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-5daf8119e4ffd0bfe8137e6de16e99f0]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/15/section/11) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-3e2ba6d90112eeb670839dedaa64c5ca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/15/section/12) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-3e2ba6d90112eeb670839dedaa64c5ca]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/15/section/12) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-3516eee9562faae6de3d7bcabbcc71e8]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/15/section/13) in force at 30.11.2023 by [S.S.I. 2023/146](https://www.legislation.gov.uk/ssi/2023/146), [reg. 2](https://www.legislation.gov.uk/ssi/2023/146/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/146/schedule)
+[^c-3516eee9562faae6de3d7bcabbcc71e8]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/15/section/13) in force at 30.11.2023 by [S.S.I. 2023/146](https://www.legislation.gov.uk/ssi/2023/146), [reg. 2](https://www.legislation.gov.uk/ssi/2023/146/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/146/schedule)
 
-[^key-776eef1924c6796110bcbd60fd74c305]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/c)
+[^c-776eef1924c6796110bcbd60fd74c305]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/c)
 
-[^key-4c25113e2c290ce3a9dd5e4c154077f3]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 1.6.2021 for specified purposes by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-4c25113e2c290ce3a9dd5e4c154077f3]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 1.6.2021 for specified purposes by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-d2374e0a21a647bb324d3ed51a779e1b]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 30.11.2021 for specified purposes by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-d2374e0a21a647bb324d3ed51a779e1b]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 30.11.2021 for specified purposes by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
-[^key-81975f51f047c615cb7f302640d6b5b3]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 30.11.2023 for specified purposes by [S.S.I. 2023/146](https://www.legislation.gov.uk/ssi/2023/146), [reg. 2](https://www.legislation.gov.uk/ssi/2023/146/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/146/schedule)
+[^c-81975f51f047c615cb7f302640d6b5b3]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/15/section/14) in force at 30.11.2023 for specified purposes by [S.S.I. 2023/146](https://www.legislation.gov.uk/ssi/2023/146), [reg. 2](https://www.legislation.gov.uk/ssi/2023/146/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/146/schedule)
 
-[^key-ef32aa6a360995f4e23710a6630d7e2c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/15/schedule/1/paragraph/1) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/2)
+[^c-ef32aa6a360995f4e23710a6630d7e2c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/15/schedule/1/paragraph/1) in force at 1.2.2021 for specified purposes by [S.S.I. 2020/414](https://www.legislation.gov.uk/ssi/2020/414), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/1/a)[(2)](https://www.legislation.gov.uk/ssi/2020/414/regulation/2/2)
 
-[^key-fc6727063e446ba89ff4a52864099e36]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/15/schedule/1/paragraph/1) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-fc6727063e446ba89ff4a52864099e36]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/15/schedule/1/paragraph/1) in force at 1.6.2021 in so far as not already in force by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-1bda586d83dcc67e775c2aa60cc36316]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/1) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-1bda586d83dcc67e775c2aa60cc36316]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/1) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-2ff3f7edf27cf241fdbf34e7292528db]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/2) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-2ff3f7edf27cf241fdbf34e7292528db]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/2) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-6421d30878da59ae3b04187f1cbd0e87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/3) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-6421d30878da59ae3b04187f1cbd0e87]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/3) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-b5289a9756c6a566b952ff75227978eb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/4) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-b5289a9756c6a566b952ff75227978eb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/4) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-0dfa1596095fe25d0f165e0877308e79]: Commencement: Sch. 2 para. 5(1)(19)(b) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/c)
+[^c-0dfa1596095fe25d0f165e0877308e79]: Commencement: Sch. 2 para. 5(1)(19)(b) in force at 18.1.2021 for specified purposes by [S.S.I. 2020/457](https://www.legislation.gov.uk/ssi/2020/457), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/457/regulation/2/c)
 
-[^key-0322683821ae7c5ec966e44c79975574]: Commencement: Sch. 2 para. 5(1)(19)(b) in force at 30.11.2021 in so far as not already in force by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-0322683821ae7c5ec966e44c79975574]: Commencement: Sch. 2 para. 5(1)(19)(b) in force at 30.11.2021 in so far as not already in force by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
 [^M_I_4a888d6c-85ea-4daa-be66-fe20decf3257]: Commencement: Sch. 2 para. 5(2)-(18)(19)(a) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
-[^key-5ead622e97f75b4b2e5f3e610bbef08a]: Commencement: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/1)[(4)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/4)[(5)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/5) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-5ead622e97f75b4b2e5f3e610bbef08a]: Commencement: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/1)[(4)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/4)[(5)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/5) in force at 1.6.2021 by [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-19a29d7136d285d8b6d7a35029b787af]: Commencement: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/2) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-19a29d7136d285d8b6d7a35029b787af]: Commencement: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/2) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
-[^key-c13fe59ab4fef564f26c9d1d4574fd6b]: Commencement: [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/3) in force at 30.11.2023 by [S.S.I. 2023/146](https://www.legislation.gov.uk/ssi/2023/146), [reg. 2](https://www.legislation.gov.uk/ssi/2023/146/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/146/schedule)
+[^c-c13fe59ab4fef564f26c9d1d4574fd6b]: Commencement: [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/3) in force at 30.11.2023 by [S.S.I. 2023/146](https://www.legislation.gov.uk/ssi/2023/146), [reg. 2](https://www.legislation.gov.uk/ssi/2023/146/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/146/schedule)
 
-[^key-39508f76e29816539016e8535d18a520]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/7) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-39508f76e29816539016e8535d18a520]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/7) in force at 30.11.2021 by [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257B. Associated donations in relation to tainted charity donations[^key-f939e13f081f148e0fe98362cdff33dd]
+## 257B. Associated donations in relation to tainted charity donations[^c-f939e13f081f148e0fe98362cdff33dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ and a reference to a donation “becoming” a tainted donation is to be read wi
 
 ## Annotations
 
-[^key-f939e13f081f148e0fe98362cdff33dd]: Textual amendment: [Ss. 257A](https://www.legislation.gov.uk/ukpga/1992/12/section/257A), [257B](https://www.legislation.gov.uk/ukpga/1992/12/section/257B) substituted for s, 257A (with effect in accordance with [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/19) (with [s. 56(9)(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/9/10))
+[^c-f939e13f081f148e0fe98362cdff33dd]: Textual amendment: [Ss. 257A](https://www.legislation.gov.uk/ukpga/1992/12/section/257A), [257B](https://www.legislation.gov.uk/ukpga/1992/12/section/257B) substituted for s, 257A (with effect in accordance with [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/19) (with [s. 56(9)(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/9/10))

@@ -32,7 +32,7 @@ summary: ''
 
 Sheriff Court
 
-The Sheriff Court Fees Order 2022 (revoked)[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+The Sheriff Court Fees Order 2022 (revoked)[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 Made
 
@@ -44,114 +44,114 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-86d0f8e4a35c9f8ac51e344d27c2c597]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86d0f8e4a35c9f8ac51e344d27c2c597]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 1. Citation, commencement and effect[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 2. Interpretation[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees payable in sheriff courts[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 3. Fees payable in sheriff courts[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Certain fees payable only once[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 4. Certain fees payable only once[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Matters included in certain fees[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 5. Matters included in certain fees[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fees payable in the Sheriff Personal Injury Court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 6. Fees payable in the Sheriff Personal Injury Court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cases in which an extra fee is payable[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 7. Cases in which an extra fee is payable[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Exemption of certain persons from fees: legal aid[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 8. Exemption of certain persons from fees: legal aid[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Exemption of certain persons from fees: social security[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 9. Exemption of certain persons from fees: social security[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Cases where articles 8 and 9 do not apply[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 10. Cases where articles 8 and 9 do not apply[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exemption in connection with estate exempt from inheritance tax[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 11. Exemption in connection with estate exempt from inheritance tax[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Exemptions relating to particular proceedings[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 12. Exemptions relating to particular proceedings[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Exemptions for applicants for certain interdicts and orders[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 13. Exemptions for applicants for certain interdicts and orders[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Exemption of certain motions from fees: jury trials in the Sheriff Personal Injury Court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 14. Exemption of certain motions from fees: jury trials in the Sheriff Personal Injury Court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Revocations[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## 15. Revocations[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-86d0f8e4a35c9f8ac51e344d27c2c597]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86d0f8e4a35c9f8ac51e344d27c2c597]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLES OF FEES[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## SCHEDULE 1 — TABLES OF FEES[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 Article 3(1)(a)
 
-### PART 1 — Sheriff court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+### PART 1 — Sheriff court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Sheriff Personal Injury Court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+### PART 2 — Sheriff Personal Injury Court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLES OF FEES[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## SCHEDULE 2 — TABLES OF FEES[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 Article 3(1)(b)
 
-### PART 1 — Sheriff court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+### PART 1 — Sheriff court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Sheriff Personal Injury Court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+### PART 2 — Sheriff Personal Injury Court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLES OF FEES[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+## SCHEDULE 3 — TABLES OF FEES[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 Article 3(1)(c)
 
-### PART 1 — Sheriff court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+### PART 1 — Sheriff court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Sheriff Personal Injury Court[^key-86d0f8e4a35c9f8ac51e344d27c2c597]
+### PART 2 — Sheriff Personal Injury Court[^c-86d0f8e4a35c9f8ac51e344d27c2c597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-86d0f8e4a35c9f8ac51e344d27c2c597]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-86d0f8e4a35c9f8ac51e344d27c2c597]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-86d0f8e4a35c9f8ac51e344d27c2c597]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/181) revoked (1.11.2024) by [The Sheriff Court Fees Order 2024 (S.S.I. 2024/235)](https://www.legislation.gov.uk/ssi/2024/235), [arts. 1](https://www.legislation.gov.uk/ssi/2024/235/article/1), [15(a)](https://www.legislation.gov.uk/ssi/2024/235/article/15/a)
+[^c-86d0f8e4a35c9f8ac51e344d27c2c597]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/181) revoked (1.11.2024) by [The Sheriff Court Fees Order 2024 (S.S.I. 2024/235)](https://www.legislation.gov.uk/ssi/2024/235), [arts. 1](https://www.legislation.gov.uk/ssi/2024/235/article/1), [15(a)](https://www.legislation.gov.uk/ssi/2024/235/article/15/a)

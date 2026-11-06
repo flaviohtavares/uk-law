@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Expedited appeals: joining of related appeals[^key-8d7e9632456d40083b4aa31b6c6ed2ba]
+## 24. Expedited appeals: joining of related appeals[^c-8d7e9632456d40083b4aa31b6c6ed2ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7e9632456d40083b4aa31b6c6ed2ba]: Commencement: S. 24 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-8d7e9632456d40083b4aa31b6c6ed2ba]: Commencement: S. 24 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred upon it by section 119 of the Transport Act 2000[^f00001] hereby makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-ada08ce5682e1af0f6e0ad00b95ba6bd]
+## 1. Citation, commencement and application[^c-ada08ce5682e1af0f6e0ad00b95ba6bd]
 
 (1) These Regulations may be cited as the Quality Partnership Schemes (Existing Facilities) (Wales) Regulations 2002 and come into force on 20th December 2002.
 
 (2) These Regulations apply to Wales.
 
-## 2. Interpretation[^key-76dcbece50cd65c0e9fb5ec3ea499e50]
+## 2. Interpretation[^c-76dcbece50cd65c0e9fb5ec3ea499e50]
 
 In these Regulations—
 
@@ -55,13 +55,13 @@ In these Regulations—
 - “electronic communication” (“*cyfathrebu electronig*”) has the meaning assigned to that term by section 15(1) of the Electronic Communications Act 2000[^f00002]; and
 - “scheme” (“*cynllun*”) means a quality partnership scheme.
 
-## 3. Specifying existing facilities[^key-6ad5df9c14b57d8a253a3a58cabdc01f]
+## 3. Specifying existing facilities[^c-6ad5df9c14b57d8a253a3a58cabdc01f]
 
 (1) An existing facility may not be specified in a scheme if that facility was first provided more than ten years before the date on which notice is given under section 115(1) of the Act.
 
 (2) An existing facility which was first provided more than five years before the date on which notice is given under section 115(1) of the Act may not be specified in a scheme if any person who, on that date, is relying on that facility in providing a local service has objected to it being specified, and that objection has not been withdrawn.
 
-## 4. Objections[^key-8aae1dfe7e43648f070102f084caca95]
+## 4. Objections[^c-8aae1dfe7e43648f070102f084caca95]
 
 (1) Any objection for the purposes of regulation 3(2) must be made in writing or by electronic communication and must be served, before the end of the period specified in the notice given under section 115(1), on—
 
@@ -72,7 +72,7 @@ In these Regulations—
 
 (3) A scheme to which regulation 3(2) relates must, when made, state that no objection for the purposes of that paragraph has been received and which has not been withdrawn.
 
-**5.**[^key-579096624aff26eff0e091cce5746a0d] Section 115 of the Act is to apply, in relation to proposed schemes which specify existing facilities, as if after subsection (4) there were inserted—
+**5.**[^c-579096624aff26eff0e091cce5746a0d] Section 115 of the Act is to apply, in relation to proposed schemes which specify existing facilities, as if after subsection (4) there were inserted—
 
 > (5) Where the proposed scheme specifies one or more existing facilities, the authority shall, in the notice given under subsection (1)—
 >
@@ -101,16 +101,16 @@ Regulation 5 provides that an authority must, when it gives notice of a proposed
 
 [^f00001]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-ada08ce5682e1af0f6e0ad00b95ba6bd]: Commencement: Reg. 1 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
+[^c-ada08ce5682e1af0f6e0ad00b95ba6bd]: Commencement: Reg. 1 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
 
-[^key-76dcbece50cd65c0e9fb5ec3ea499e50]: Commencement: Reg. 2 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
+[^c-76dcbece50cd65c0e9fb5ec3ea499e50]: Commencement: Reg. 2 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-6ad5df9c14b57d8a253a3a58cabdc01f]: Commencement: Reg. 3 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
+[^c-6ad5df9c14b57d8a253a3a58cabdc01f]: Commencement: Reg. 3 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
 
-[^key-8aae1dfe7e43648f070102f084caca95]: Commencement: Reg. 4 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
+[^c-8aae1dfe7e43648f070102f084caca95]: Commencement: Reg. 4 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
 
-[^key-579096624aff26eff0e091cce5746a0d]: Commencement: Reg. 5 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
+[^c-579096624aff26eff0e091cce5746a0d]: Commencement: Reg. 5 in force at 20.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/3017/regulation/1/1)
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

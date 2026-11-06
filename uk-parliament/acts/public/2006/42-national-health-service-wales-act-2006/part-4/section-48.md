@@ -34,7 +34,7 @@ summary: ''
 - (a) persons practising in partnership elect to become a health service body, and
 - (b) there is a change in the membership of the partnership.
 
-(5)[^key-d6d1137039851f442138e616df85a4a5] Where—
+(5)[^c-d6d1137039851f442138e616df85a4a5] Where—
 
 - (a) by virtue of regulations under subsection (3), section 7(11) applies in relation to a general medical services contract, and
 - (b) a direction as to payments is made under that subsection in relation to the contract,
@@ -43,4 +43,4 @@ the direction is enforceable in a county court (if the court so orders) as if it
 
 ## Annotations
 
-[^key-d6d1137039851f442138e616df85a4a5]: Modification: [S. 48(5)](https://www.legislation.gov.uk/ukpga/2006/42/section/48/5) applied (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 3 para. 107(2)(b)](https://www.legislation.gov.uk/wsi/2023/953/schedule/3/paragraph/107/2/b)
+[^c-d6d1137039851f442138e616df85a4a5]: Modification: [S. 48(5)](https://www.legislation.gov.uk/ukpga/2006/42/section/48/5) applied (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 3 para. 107(2)(b)](https://www.legislation.gov.uk/wsi/2023/953/schedule/3/paragraph/107/2/b)

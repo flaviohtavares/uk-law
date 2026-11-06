@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Right to buy: application for consent[^key-c36bae3b4380d65fc9068eae9528b503]
+## 54. Right to buy: application for consent[^c-c36bae3b4380d65fc9068eae9528b503]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36bae3b4380d65fc9068eae9528b503]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/18/section/54) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-c36bae3b4380d65fc9068eae9528b503]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/18/section/54) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Court of Session rules[^key-fb39244cbdd3c1cf48220208a0f82a50]
+## 126. Court of Session rules[^c-fb39244cbdd3c1cf48220208a0f82a50]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ In the Court of Session Act 1988—
 
 ## Annotations
 
-[^key-fb39244cbdd3c1cf48220208a0f82a50]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2010/16/section/126) in force at 1.9.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 7](https://www.legislation.gov.uk/ssi/2011/180/article/7)
+[^c-fb39244cbdd3c1cf48220208a0f82a50]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2010/16/section/126) in force at 1.9.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 7](https://www.legislation.gov.uk/ssi/2011/180/article/7)

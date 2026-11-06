@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Introductory standard contracts and prohibited conduct standard contracts: notices under sections 173 and 181[^key-1b510ed0dea15b170cd06f1f82e2a049][^key-b6d383a30ce08064689ce895046fd098][^key-b6d383a30ce08064689ce895046fd098]
+## 151. Introductory standard contracts and prohibited conduct standard contracts: notices under sections 173 and 181[^c-1b510ed0dea15b170cd06f1f82e2a049][^c-b6d383a30ce08064689ce895046fd098][^c-b6d383a30ce08064689ce895046fd098]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b510ed0dea15b170cd06f1f82e2a049]: Commencement: [S. 151](https://www.legislation.gov.uk/anaw/2016/1/section/151) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-1b510ed0dea15b170cd06f1f82e2a049]: Commencement: [S. 151](https://www.legislation.gov.uk/anaw/2016/1/section/151) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))
+[^c-b6d383a30ce08064689ce895046fd098]: Modification: [Pt. 9](https://www.legislation.gov.uk/anaw/2016/1/part/9) excluded (1.12.2022) by 2004 c. 34, s. 33(c) (as inserted by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(2)(c)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/2/c))

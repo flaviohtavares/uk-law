@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Dissolution of federations following decision by the governing body of a federation[^key-ea999b9938ceaa0f7827960c0b83b829]
+## 34. Dissolution of federations following decision by the governing body of a federation[^c-ea999b9938ceaa0f7827960c0b83b829]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ the governing body of the federation must give notice of the decision and of the
 
 ## Annotations
 
-[^key-ea999b9938ceaa0f7827960c0b83b829]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/1035/regulation/34) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-ea999b9938ceaa0f7827960c0b83b829]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/1035/regulation/34) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Licensing of activities relating to load control[^key-98712f1583373709316b962b18e5e24e][^key-e2381593219e40160cbaf202715dee49]
+## 249. Licensing of activities relating to load control[^c-98712f1583373709316b962b18e5e24e][^c-e2381593219e40160cbaf202715dee49]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 19, which amends the Electricity Act 1989, provides for the licensing o
 
 ## Annotations
 
-[^key-98712f1583373709316b962b18e5e24e]: Commencement: S. 249 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-98712f1583373709316b962b18e5e24e]: Commencement: S. 249 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-e2381593219e40160cbaf202715dee49]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2023/52/section/249) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-e2381593219e40160cbaf202715dee49]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2023/52/section/249) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

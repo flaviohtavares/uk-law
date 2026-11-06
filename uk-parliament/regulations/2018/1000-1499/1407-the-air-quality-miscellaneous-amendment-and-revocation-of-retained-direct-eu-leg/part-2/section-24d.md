@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24D. Decision (EU) 2019/1741 establishing the format and frequency of data to be made available by the Member States for the purposes of reporting under Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/0166) of the European Parliament and of the Council concerning the establishment of a European Pollutant and Release Transfer Register[^M_I_255fc17a-c91e-4075-b1f6-26ed9e6f57dd][^key-fad4a0f1f934fd08ca70ebcde83f280e]
+## 24D. Decision (EU) 2019/1741 establishing the format and frequency of data to be made available by the Member States for the purposes of reporting under Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/0166) of the European Parliament and of the Council concerning the establishment of a European Pollutant and Release Transfer Register[^M_I_255fc17a-c91e-4075-b1f6-26ed9e6f57dd][^c-fad4a0f1f934fd08ca70ebcde83f280e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 [^M_I_255fc17a-c91e-4075-b1f6-26ed9e6f57dd]: Commencement: Reg. 24D in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fad4a0f1f934fd08ca70ebcde83f280e]: Textual amendment: Regs. 24B-24E inserted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)
+[^c-fad4a0f1f934fd08ca70ebcde83f280e]: Textual amendment: Regs. 24B-24E inserted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)

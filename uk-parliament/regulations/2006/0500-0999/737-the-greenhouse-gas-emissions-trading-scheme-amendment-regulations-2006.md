@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2006 (revoked)[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+The Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2006 (revoked)[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 Made
 
@@ -46,134 +46,134 @@ Coming into force
 
 6th April 2006
 
-[^key-2ae29a08115b4ccce82c8c0f2ccb6726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ae29a08115b4ccce82c8c0f2ccb6726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 1. Title and commencement[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 2. Amendment of the Greenhouse Gas Emissions Trading Scheme Regulations 2005[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 3.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 4.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 5.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 6.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 7.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 8.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 9.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 10.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 11.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 12.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 13.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 14.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 15.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 16.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 17.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 18.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 19.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 20.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 21.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 22.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 23.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 24.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 25.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 26.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27.[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## 27.[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ae29a08115b4ccce82c8c0f2ccb6726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ae29a08115b4ccce82c8c0f2ccb6726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+## SCHEDULE[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 Regulation 27
 
-[^key-2ae29a08115b4ccce82c8c0f2ccb6726]
+[^c-2ae29a08115b4ccce82c8c0f2ccb6726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ae29a08115b4ccce82c8c0f2ccb6726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ae29a08115b4ccce82c8c0f2ccb6726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ae29a08115b4ccce82c8c0f2ccb6726]: Textual amendment: Regulations revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(i)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/i) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-2ae29a08115b4ccce82c8c0f2ccb6726]: Textual amendment: Regulations revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(i)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/i) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))

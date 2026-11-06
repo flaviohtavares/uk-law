@@ -46,7 +46,7 @@ Regulation 3
   - (ii) has failed to pay or remit contributions (whether under these Regulations or under the 1996 Regulations) to the Department; or
   - (iii) has failed to comply with any provision of this Scheme relating to pensionable employment.
 
-(8) sub-paragraphs (3) to (5)[^key-0da582c58d60a4647fb10fdc5ef99269] apply to a school which had previously ceased to be an accepted school as they apply to a school which has not previously been an accepted school.
+(8) sub-paragraphs (3) to (5)[^c-0da582c58d60a4647fb10fdc5ef99269] apply to a school which had previously ceased to be an accepted school as they apply to a school which has not previously been an accepted school.
 
 (9) In this Part “**governing body**” includes any person by whom teachers are employed.
 
@@ -91,6 +91,6 @@ Regulation 3
 
 [^c22298961]: Marginal citation: S.R. [1996 No.260](https://www.legislation.gov.uk/ukcm/1996/260) as amended by S.R. [2001 No. 149](https://www.legislation.gov.uk/ukcm/2001/149), S.R. [2003 No. 86](https://www.legislation.gov.uk/ukcm/2003/86), S.R. [2005 No. 495](https://www.legislation.gov.uk/ukcm/2005/495), S.R. [2006 No. 163](https://www.legislation.gov.uk/ukcm/2006/163) and S.R. [2007 No. 137](https://www.legislation.gov.uk/ukcm/2007/137).
 
-[^key-0da582c58d60a4647fb10fdc5ef99269]: Textual amendment: Words in Sch. 1 para. 1(8) substituted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/126/regulation/14)
+[^c-0da582c58d60a4647fb10fdc5ef99269]: Textual amendment: Words in Sch. 1 para. 1(8) substituted (1.4.2015) by virtue of [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [14](https://www.legislation.gov.uk/nisr/2015/126/regulation/14)
 
 [^c22298971]: Marginal citation: S.R. [1998 No. 333](https://www.legislation.gov.uk/ukcm/1998/333), as amended by S.R. [2001 No. 149](https://www.legislation.gov.uk/ukcm/2001/149), S.R. [2003 No. 147](https://www.legislation.gov.uk/ukcm/2003/147), S.R. [2005 No. 181](https://www.legislation.gov.uk/ukcm/2005/181), S.R. [2005 No. 495](https://www.legislation.gov.uk/ukcm/2005/495), S.R. [2006 No. 163](https://www.legislation.gov.uk/ukcm/2006/163), S.R. [2006 No. 366](https://www.legislation.gov.uk/ukcm/2006/366), S.R. [2007 No. 137](https://www.legislation.gov.uk/ukcm/2007/137), S.R. [2008 No. 50](https://www.legislation.gov.uk/ukcm/2008/50), S.R. [2010 No. 137](https://www.legislation.gov.uk/ukcm/2010/137), S.R. [2012 No. 126](https://www.legislation.gov.uk/ukcm/2012/126), S.R. [2013 No. 54](https://www.legislation.gov.uk/ukcm/2013/54), S.R. [2014 No. 37](https://www.legislation.gov.uk/ukcm/2014/37) and S.R. [2014 No. 70](https://www.legislation.gov.uk/ukcm/2014/70).

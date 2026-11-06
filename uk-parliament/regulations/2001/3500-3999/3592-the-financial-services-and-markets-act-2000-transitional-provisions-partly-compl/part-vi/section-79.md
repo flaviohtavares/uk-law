@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Preservation of right of appeal against disciplinary measure[^key-162249e20f30fc09cac4cf0cb929eaa6]
+## 79. Preservation of right of appeal against disciplinary measure[^c-162249e20f30fc09cac4cf0cb929eaa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the person who had a right to appeal against the imposition of the measure may r
 
 ## Annotations
 
-[^key-162249e20f30fc09cac4cf0cb929eaa6]: Commencement: Art. 79 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-162249e20f30fc09cac4cf0cb929eaa6]: Commencement: Art. 79 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

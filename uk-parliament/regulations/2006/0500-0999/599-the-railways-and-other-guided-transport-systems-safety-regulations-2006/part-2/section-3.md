@@ -22,7 +22,7 @@ summary: ''
 
 (1) After 30th September 2006 no person shall operate a train in relation to any infrastructure on the mainline railway unless—
 
-- (a) he has established and is maintaining a safety management system which meets the requirements set out in regulation 5(1) to (3)[^key-2fde689ac9de31539a8ba4936be55058]; and
+- (a) he has established and is maintaining a safety management system which meets the requirements set out in regulation 5(1) to (3)[^c-2fde689ac9de31539a8ba4936be55058]; and
 - (b) he holds a current safety certificate in relation to the operation in question,
 
 except to the extent that he is doing so within an engineering possession.
@@ -35,4 +35,4 @@ except to the extent that he is doing so within an engineering possession.
 
 ## Annotations
 
-[^key-2fde689ac9de31539a8ba4936be55058]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2006/599/regulation/3/1/a) substituted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/4)
+[^c-2fde689ac9de31539a8ba4936be55058]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2006/599/regulation/3/1/a) substituted (21.5.2013) by [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Decision notices issued pursuant to this Chapter[^key-aa6133349915ebe5b6ec527d4ac8be2e]
+## 67. Decision notices issued pursuant to this Chapter[^c-aa6133349915ebe5b6ec527d4ac8be2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where, pursuant to a provision in this Chapter, the Authority gives a decision n
 
 ## Annotations
 
-[^key-aa6133349915ebe5b6ec527d4ac8be2e]: Commencement: Art. 67 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-aa6133349915ebe5b6ec527d4ac8be2e]: Commencement: Art. 67 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

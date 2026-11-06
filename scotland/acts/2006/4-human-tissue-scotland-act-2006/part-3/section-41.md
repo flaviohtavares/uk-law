@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-7a0db1e91050ecd01fde0ad208fe9702] Notice under section 38(2) or 40(2)(a)—
+(1)[^c-7a0db1e91050ecd01fde0ad208fe9702] Notice under section 38(2) or 40(2)(a)—
 
 - (a) may be—
   - (i) delivered;
@@ -32,16 +32,16 @@ summary: ''
 
 (2) For the purposes of sections 38(2) and 40(2)(a), the manager of an establishment which is—
 
-- (a)[^key-7a0db1e91050ecd01fde0ad208fe9702] a health service hospital, is the Health Board responsible for the administration of the hospital;
-- (b)[^key-225df56a7f75101db94c6d5efc4bf6b2] a university or any other establishment, is the person or holder of such post as the Scottish Ministers may specify by order under this subsection.
+- (a)[^c-7a0db1e91050ecd01fde0ad208fe9702] a health service hospital, is the Health Board responsible for the administration of the hospital;
+- (b)[^c-225df56a7f75101db94c6d5efc4bf6b2] a university or any other establishment, is the person or holder of such post as the Scottish Ministers may specify by order under this subsection.
 
-(3)[^key-7a0db1e91050ecd01fde0ad208fe9702] In subsection (2)(a)—
+(3)[^c-7a0db1e91050ecd01fde0ad208fe9702] In subsection (2)(a)—
 
 - “**Health Board**” means a board constituted by order under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c. 29);
 - “**health service hospital**” has the meaning given by section 108(1) of that Act.
 
 ## Annotations
 
-[^key-7a0db1e91050ecd01fde0ad208fe9702]: Commencement: S. 41(1)(2)(a)(3) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-7a0db1e91050ecd01fde0ad208fe9702]: Commencement: S. 41(1)(2)(a)(3) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-225df56a7f75101db94c6d5efc4bf6b2]: Commencement: S. 41(2)(b) in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-225df56a7f75101db94c6d5efc4bf6b2]: Commencement: S. 41(2)(b) in force at 1.9.2006 in so far as not already in force by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)

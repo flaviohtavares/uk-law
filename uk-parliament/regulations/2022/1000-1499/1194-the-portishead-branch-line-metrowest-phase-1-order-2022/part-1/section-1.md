@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-7520faffac5e8f41ed73c5f4a466817d]
+## 1. Citation and commencement[^c-7520faffac5e8f41ed73c5f4a466817d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Portishead Branch Line (MetroWest Phase 1) Order 
 
 ## Annotations
 
-[^key-7520faffac5e8f41ed73c5f4a466817d]: Commencement: Art. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-7520faffac5e8f41ed73c5f4a466817d]: Commencement: Art. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

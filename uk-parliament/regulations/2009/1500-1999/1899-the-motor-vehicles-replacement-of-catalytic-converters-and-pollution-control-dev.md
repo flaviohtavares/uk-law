@@ -54,7 +54,7 @@ These Regulations may be cited as the Motor Vehicles (Replacement of Catalytic C
 
 ## 2. Interpretation
 
-(1)[^key-cd3a845d6971565d25fcc742f4fc4433] A reference in these Regulations to a vehicle being of category M or N followed by a number in subscript is to be construed in accordance with—
+(1)[^c-cd3a845d6971565d25fcc742f4fc4433] A reference in these Regulations to a vehicle being of category M or N followed by a number in subscript is to be construed in accordance with—
 
 - (a) Article 4 of the Type Approval Regulation where the vehicle was approved pursuant to the requirements of that Regulation;
 - (b) Annex II to the second Framework Directive where the vehicle was approved pursuant to the requirements of that Directive; and
@@ -68,7 +68,7 @@ These Regulations may be cited as the Motor Vehicles (Replacement of Catalytic C
 - “**the 1998 Regulations**” means the Motor Vehicles (EC Type Approval) Regulations 1998 [^c19785361];
 - “**the 2007 Regulations**” means the Motor Vehicles (Type Approval) Regulations (Northern Ireland) 2007 [^c19785371];
 - “**the 2009 Regulations**” means the Road Vehicles (Approval) Regulations 2009 [^c19785381];
-- “the 2020 Regulations” means the Road Vehicles (Approval) Regulations 2020;[^key-a51ff18e30825413ef205b322f9902a8]
+- “the 2020 Regulations” means the Road Vehicles (Approval) Regulations 2020;[^c-a51ff18e30825413ef205b322f9902a8]
 - “**the first Framework Directive**” means Council Directive [70/156/EEC](https://www.legislation.gov.uk/eudr/1970/156) [^c19785391];
 - “**the second Framework Directive**” means Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) of the European Parliament and of the Council [^c19785401];
 - “**ECE Regulation 83**” means Regulation 83 which is an annex to the UNECE Agreement and contains uniform provisions concerning the approval of vehicles with regard to the emission of pollutants according to engine fuel requirements;
@@ -90,7 +90,7 @@ These Regulations may be cited as the Motor Vehicles (Replacement of Catalytic C
 - “**a 715 relevant vehicle**” means a vehicle which—
   - (a) falls within vehicle category M<sub>1</sub>, M<sub>2</sub>, N<sub>1</sub> or N<sub>2</sub> and has a reference mass not exceeding 2840kg;
   - (b) is subject to—
-    - (i) an EC certificate of conformity issued in accordance with the 1998 Regulations, 2009 Regulations or 2020 Regulations, or any equivalent provision of the law of a member State (other than the United Kingdom) or any other EEA state giving effect to Article 6 of the first Framework Directive, article 18 of the second Framework Directive or Article 36 of the Type Approval Regulation, or[^key-fb9c03bc56210d224f8a5fc34ff10007]
+    - (i) an EC certificate of conformity issued in accordance with the 1998 Regulations, 2009 Regulations or 2020 Regulations, or any equivalent provision of the law of a member State (other than the United Kingdom) or any other EEA state giving effect to Article 6 of the first Framework Directive, article 18 of the second Framework Directive or Article 36 of the Type Approval Regulation, or[^c-fb9c03bc56210d224f8a5fc34ff10007]
     - (ii) a national certificate of conformity issued in accordance with the 1982 Regulations, the 1984 Regulations, the 2007 Regulations, the 2009 Regulations or the 2020 Regulations or any provision of a member State (other than the United Kingdom) or any other EEA state having equivalent effect,
 
     where that certificate was issued in consequence of the vehicle satisfying the requirements of the Vehicle Emissions Regulations; and
@@ -107,7 +107,7 @@ These Regulations may be cited as the Motor Vehicles (Replacement of Catalytic C
 
 (3) Other words or terms used in—
 
-- (a) the first or second Framework Directive or the Type Approval Regulation[^key-b9bcb38e6c6070ba41b67d28a94e08b7],
+- (a) the first or second Framework Directive or the Type Approval Regulation[^c-b9bcb38e6c6070ba41b67d28a94e08b7],
 - (b) the Vehicle Emissions Directive or Vehicle Emissions Regulations, or
 - (c) ECE Regulation 83 or 103,
 
@@ -119,7 +119,7 @@ shall, for the purposes of these Regulations, have the same meaning as in, or be
 - (b) a Department's approval certificate issued in accordance with—
   - (i) the 1985 Regulations (but not for the purposes of the definition of “a 715 relevant vehicle”); or
   - (ii) the 2007 Regulations; and
-- (c) a national small series certificate of conformity issued in accordance with the 2009 Regulations or the 2020 Regulations[^key-578da2c30cfd9e87089d3a07aeb54942] (but does not include an individual approval certificate issued in accordance with those Regulations).
+- (c) a national small series certificate of conformity issued in accordance with the 2009 Regulations or the 2020 Regulations[^c-578da2c30cfd9e87089d3a07aeb54942] (but does not include an individual approval certificate issued in accordance with those Regulations).
 
 (5) For the purposes of these Regulations, the date on which a vehicle is first used is determined in accordance with—
 
@@ -258,9 +258,9 @@ which is a replacement part capable of being fitted to a 220 relevant vehicle or
 
 (4) Proceedings for an offence under these Regulations shall not be brought except by the enforcement authority.
 
-(4A)[^key-3f708e90619214e1d80a430396b8174a] Paragraph (4) does not apply to proceedings in Scotland.
+(4A)[^c-3f708e90619214e1d80a430396b8174a] Paragraph (4) does not apply to proceedings in Scotland.
 
-(5) Nothing[^key-12a35d3e8095118cad2b844bdaeb1ded] in these Regulations shall authorise the enforcement authority to bring proceedings in Scotland for an offence.
+(5) Nothing[^c-12a35d3e8095118cad2b844bdaeb1ded] in these Regulations shall authorise the enforcement authority to bring proceedings in Scotland for an offence.
 
 Signed by authority of the Secretary of State
 
@@ -480,7 +480,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19785321]: Marginal citation: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811); to which there are amendments not relevant to these Regulations.
 
-[^key-cd3a845d6971565d25fcc742f4fc4433]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-cd3a845d6971565d25fcc742f4fc4433]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/1) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c19785331]: Marginal citation: [S.I. 1982/1271](https://www.legislation.gov.uk/uksi/1982/1271); amended by [S.I. 1984/697](https://www.legislation.gov.uk/uksi/1984/697), 1987/1508, 1992/3084 and 2003/1866; there are other amending instruments but none is relevant.
 
@@ -494,7 +494,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19785381]: Marginal citation: [S.I. 2009/717](https://www.legislation.gov.uk/uksi/2009/717).
 
-[^key-a51ff18e30825413ef205b322f9902a8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/2) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/b/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-a51ff18e30825413ef205b322f9902a8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/2) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/b/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c19785391]: Marginal citation: OJ No L42, 23.2.70, p. 1; last amended by Commission Directive 2007/37/EC (OJ No L161, 22.6.07, p. 60).
 
@@ -504,23 +504,23 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19785421]: Marginal citation: OJ No L199, 28.7.08, p.1.
 
-[^key-fb9c03bc56210d224f8a5fc34ff10007]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/b/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-fb9c03bc56210d224f8a5fc34ff10007]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/b/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c19785431]: Marginal citation: Cmnd 2535 and 3562.
 
 [^c19785441]: Marginal citation: OJ No. L76, 6.4.70, p 1; amending Directives include Commission Directive 98/77/EC (OJ No L286, 23.10.98, p.34) and Commission Directive 2002/80/EC (OJ No L291, 28.10.02, p.20) and it was last amended by Council Directive 2006/96/EC (OJ No L363, 20.12.06, p. 81).
 
-[^key-b9bcb38e6c6070ba41b67d28a94e08b7]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/3/a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/c) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-b9bcb38e6c6070ba41b67d28a94e08b7]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/3/a) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/c) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-578da2c30cfd9e87089d3a07aeb54942]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/4/c) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(d)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/d) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-578da2c30cfd9e87089d3a07aeb54942]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/2/4/c) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 23(2)(d)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/23/2/d) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c19785451]: Marginal citation: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078), to which there are amendments not relevant to these Regulations.
 
 [^c19785461]: Marginal citation: [S.R. 1999/454](https://www.legislation.gov.uk/nisr/1999/454).
 
-[^key-3f708e90619214e1d80a430396b8174a]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/9/4A) inserted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/2)
+[^c-3f708e90619214e1d80a430396b8174a]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/9/4A) inserted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/2)
 
-[^key-12a35d3e8095118cad2b844bdaeb1ded]: Textual amendment: Word in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/9/5) substituted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/3)
+[^c-12a35d3e8095118cad2b844bdaeb1ded]: Textual amendment: Word in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2009/1899/regulation/9/5) substituted (5.9.2011) by [The Motor Cycles Etc. (Replacement of Catalytic Converters) and Motor Vehicles (Replacement of Catalytic Converters and Pollution Control Devices) (Amendment) Regulations 2011 (S.I. 2011/1854)](https://www.legislation.gov.uk/uksi/2011/1854), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1854/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2011/1854/regulation/2/3)
 
 [^c19785471]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

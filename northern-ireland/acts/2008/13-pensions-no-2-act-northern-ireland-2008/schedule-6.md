@@ -66,11 +66,11 @@ Section 100.
 
 **Not yet in force.**
 
-**10.**[^key-81e8d640b10022d917c7ddc8d8f9d0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-81e8d640b10022d917c7ddc8d8f9d0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**11.**[^key-81e8d640b10022d917c7ddc8d8f9d0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-81e8d640b10022d917c7ddc8d8f9d0af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -173,7 +173,7 @@ Section 100.
 
 .
 
-**15.**[^key-380566c336f07eb3ec84d7eb3a982b81] In paragraph 33 make the existing provision sub-paragraph (1) and at the end add—
+**15.**[^c-380566c336f07eb3ec84d7eb3a982b81] In paragraph 33 make the existing provision sub-paragraph (1) and at the end add—
 
 > (2) Where the scheme is a variable-rate scheme, regulations under this paragraph may have the effect that the amount of periodic compensation payable to a person is, from a specified time, to be different from the amount that would otherwise be payable under this Schedule.
 >
@@ -208,10 +208,10 @@ Section 100.
 
 ## Annotations
 
-[^key-81e8d640b10022d917c7ddc8d8f9d0af]: Textual amendment: Sch. 6 paras. 10-11 (never in operation) omitted (7.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 20](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/20); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iv)
+[^c-81e8d640b10022d917c7ddc8d8f9d0af]: Textual amendment: Sch. 6 paras. 10-11 (never in operation) omitted (7.6.2012) by virtue of [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 20](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/20); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(k)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/k/iv)
 
 [^c21481121]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/13) partly in operation; [Sch. 6 para. 13](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/13) not in operation at Royal Assent see [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1); [Sch. 6 para. 13](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/13) in operation for certain purposes at 1.4.2009 by [S.R. 2009/147](https://www.legislation.gov.uk/nisr/2009/147), [art. 2(a)(ii)](https://www.legislation.gov.uk/nisr/2009/147/article/2/a/ii)
 
 [^c21481451]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/14) partly in operation; [Sch. 6 para. 14](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/14) not in operation at Royal Assent see [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1); [Sch. 6 para. 14](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/14) in operation for certain purposes at 1.4.2009 by [S.R. 2009/147](https://www.legislation.gov.uk/nisr/2009/147), [art. 2(a)(iii)](https://www.legislation.gov.uk/nisr/2009/147/article/2/a/iii)
 
-[^key-380566c336f07eb3ec84d7eb3a982b81]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/15) in operation at 2.2.2018 by [S.R. 2018/23](https://www.legislation.gov.uk/nisr/2018/23), [art. 2](https://www.legislation.gov.uk/nisr/2018/23/article/2)
+[^c-380566c336f07eb3ec84d7eb3a982b81]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/nia/2008/13/schedule/6/paragraph/15) in operation at 2.2.2018 by [S.R. 2018/23](https://www.legislation.gov.uk/nisr/2018/23), [art. 2](https://www.legislation.gov.uk/nisr/2018/23/article/2)

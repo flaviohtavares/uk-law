@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Restriction on works while final notice in force[^key-388a06e7977bb7250ae1f124e0bf216b][^key-b3b9c921ab457ad3e29325a0c91b9f2e]
+## 200. Restriction on works while final notice in force[^c-388a06e7977bb7250ae1f124e0bf216b][^c-b3b9c921ab457ad3e29325a0c91b9f2e]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-388a06e7977bb7250ae1f124e0bf216b]: Commencement: S. 200 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-388a06e7977bb7250ae1f124e0bf216b]: Commencement: S. 200 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-b3b9c921ab457ad3e29325a0c91b9f2e]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/55/section/200) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-b3b9c921ab457ad3e29325a0c91b9f2e]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2023/55/section/200) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

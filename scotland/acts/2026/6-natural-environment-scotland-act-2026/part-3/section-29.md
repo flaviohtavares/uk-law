@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Authorisation for taking or killing deer during close seasons[^key-7be5711f718855ba9ea504186a036c46]
+## 29. Authorisation for taking or killing deer during close seasons[^c-7be5711f718855ba9ea504186a036c46]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7be5711f718855ba9ea504186a036c46]: Commencement: S. 29 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-7be5711f718855ba9ea504186a036c46]: Commencement: S. 29 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

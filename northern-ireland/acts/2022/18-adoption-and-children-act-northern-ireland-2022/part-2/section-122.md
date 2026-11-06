@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Duty of authorities to promote etc. achievement, learning and development, and to prevent disruption to education or training[^key-3b7ab7b1dcc2eefea9514910f5aba82d]
+## 122. Duty of authorities to promote etc. achievement, learning and development, and to prevent disruption to education or training[^c-3b7ab7b1dcc2eefea9514910f5aba82d]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b7ab7b1dcc2eefea9514910f5aba82d]: Commencement: S. 122 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3b7ab7b1dcc2eefea9514910f5aba82d]: Commencement: S. 122 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

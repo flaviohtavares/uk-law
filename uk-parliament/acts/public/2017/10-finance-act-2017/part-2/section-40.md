@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. The register[^key-b3c896146c1a966addb9e9f29adbc95f]
+## 40. The register[^c-b3c896146c1a966addb9e9f29adbc95f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c896146c1a966addb9e9f29adbc95f]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/10/section/40) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-b3c896146c1a966addb9e9f29adbc95f]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/10/section/40) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

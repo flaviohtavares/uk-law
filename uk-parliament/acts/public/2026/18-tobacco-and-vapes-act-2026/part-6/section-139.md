@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Power to extend Part 6 and Communications Act 2003 to other products[^key-779611fc4bd335e0ddcfeab048035eff]
+## 139. Power to extend Part 6 and Communications Act 2003 to other products[^c-779611fc4bd335e0ddcfeab048035eff]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-779611fc4bd335e0ddcfeab048035eff]: Commencement: S. 139 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-779611fc4bd335e0ddcfeab048035eff]: Commencement: S. 139 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

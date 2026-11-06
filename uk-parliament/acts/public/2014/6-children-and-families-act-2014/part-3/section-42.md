@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Duty to secure special educational provision and health care provision in accordance with EHC Plan[^key-0c0af5f9b718b3f4e2a0914500b0e19c]
+## 42. Duty to secure special educational provision and health care provision in accordance with EHC Plan[^c-0c0af5f9b718b3f4e2a0914500b0e19c]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (4) “**The responsible commissioning body**”, in relation to any specified health care provision, means the body (or each body) that is under a duty to arrange health care provision of that kind in respect of the child or young person.
 
-(5)[^key-f3a92e3703ebbc30d10f665dd9ebc3a8] Subsections (2) and (3) do not apply if the child's parent or the young person has made suitable alternative arrangements.
+(5)[^c-f3a92e3703ebbc30d10f665dd9ebc3a8] Subsections (2) and (3) do not apply if the child's parent or the young person has made suitable alternative arrangements.
 
 (6) “**Specified**”, in relation to an EHC plan, means specified in the plan.
 
 ## Annotations
 
-[^key-0c0af5f9b718b3f4e2a0914500b0e19c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/6/section/42) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
+[^c-0c0af5f9b718b3f4e2a0914500b0e19c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2014/6/section/42) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
 
-[^key-f3a92e3703ebbc30d10f665dd9ebc3a8]: Modification: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/42/5) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)
+[^c-f3a92e3703ebbc30d10f665dd9ebc3a8]: Modification: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/42/5) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)

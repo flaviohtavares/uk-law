@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Restrictions following the closed period[^key-b4a7e41b13392dec23e6696b9069c69b]
+## 21. Restrictions following the closed period[^c-b4a7e41b13392dec23e6696b9069c69b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ From the end of the closed period until the end of February—
 
 ## Annotations
 
-[^key-b4a7e41b13392dec23e6696b9069c69b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2021/77/regulation/21) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-b4a7e41b13392dec23e6696b9069c69b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2021/77/regulation/21) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

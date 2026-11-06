@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Use of relevant international standards[^key-c32b423aa1d73a56092bbe4cfa7f2b9f]
+## 19. Use of relevant international standards[^c-c32b423aa1d73a56092bbe4cfa7f2b9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 contains amendments about the use of international standards.
 
 ## Annotations
 
-[^key-c32b423aa1d73a56092bbe4cfa7f2b9f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2020/29/section/19) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/r)
+[^c-c32b423aa1d73a56092bbe4cfa7f2b9f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2020/29/section/19) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/r)

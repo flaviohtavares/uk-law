@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if, during or at the end of the administration period for an estate—
 
 - (a) the personal representatives pay the trustees of a settlement a sum representing income of the personal representatives, and
-- (b) if this Chapter had applied to personal representatives, income tax would have been charged on that income at the property trust rate, the savings trust rate or[^key-5f0aa5843da89dc0ce2525d376996146] the dividend trust rate or at the trust rate.
+- (b) if this Chapter had applied to personal representatives, income tax would have been charged on that income at the property trust rate, the savings trust rate or[^c-5f0aa5843da89dc0ce2525d376996146] the dividend trust rate or at the trust rate.
 
 (2) The sum is treated as—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f0aa5843da89dc0ce2525d376996146]: Textual amendment: Words in s. 483(1)(b) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/26)
+[^c-5f0aa5843da89dc0ce2525d376996146]: Textual amendment: Words in s. 483(1)(b) inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/26)

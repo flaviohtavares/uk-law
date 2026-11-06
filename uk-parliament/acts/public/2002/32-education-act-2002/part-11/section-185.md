@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Supplementary provisions relating to transfer or delegation of functions[^key-f88ee8468c64f22743650d8827f854a6][^key-464c1642e26e7f0f5bcf9c4801a62471]
+## 185. Supplementary provisions relating to transfer or delegation of functions[^c-f88ee8468c64f22743650d8827f854a6][^c-464c1642e26e7f0f5bcf9c4801a62471]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f88ee8468c64f22743650d8827f854a6]: Commencement: S. 185 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-f88ee8468c64f22743650d8827f854a6]: Commencement: S. 185 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-464c1642e26e7f0f5bcf9c4801a62471]: Commencement: S. 185 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-464c1642e26e7f0f5bcf9c4801a62471]: Commencement: S. 185 in force at 1.9.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)

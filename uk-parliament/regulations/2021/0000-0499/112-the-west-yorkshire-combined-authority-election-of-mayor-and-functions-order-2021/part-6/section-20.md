@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Traffic regulation[^key-a5fd1b2c826d309625595396e6466a76]
+## 20. Traffic regulation[^c-a5fd1b2c826d309625595396e6466a76]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a5fd1b2c826d309625595396e6466a76]: Commencement: Art. 20 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-a5fd1b2c826d309625595396e6466a76]: Commencement: Art. 20 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24433701]: Marginal citation: [Section 1](https://www.legislation.gov.uk/uksi/2021/112/section/1) was amended by paragraph 17 of Schedule 8 to the New Roads and Street Works Act 1991, paragraph 36 of Schedule 22 to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [paragraph 7](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/7) of Schedule 11 to the Transport Act 2000, section 45 of the Local Transport Act 2008, and paragraph 71 of Schedule 1 to the Infrastructure Act 2015.
 

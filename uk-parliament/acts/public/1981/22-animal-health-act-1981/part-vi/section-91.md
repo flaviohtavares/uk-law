@@ -25,10 +25,10 @@ summary: ''
 - (a) that the order has been made; and
 - (b) where copies of the order may be obtained.
 
-(2) Every local authority shall at their own expense publish every order of the Minister, and every licence or other instrument sent to them by the Minister, the appropriate Minister, or the Ministers— *(Extent: S)* *(affected by repeal, see note)*[^key-aa931cf5942c9bfc075ea4c9763eb5d6]
+(2) Every local authority shall at their own expense publish every order of the Minister, and every licence or other instrument sent to them by the Minister, the appropriate Minister, or the Ministers— *(Extent: S)* *(affected by repeal, see note)*[^c-aa931cf5942c9bfc075ea4c9763eb5d6]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-aa931cf5942c9bfc075ea4c9763eb5d6] in such manner as he or they shall direct; and *(Extent: S)* *(affected by repeal, see note)*[^key-aa931cf5942c9bfc075ea4c9763eb5d6]
-- (b (Extent: S) (affected by repeal, see note))[^key-aa931cf5942c9bfc075ea4c9763eb5d6] subject to and in the absence of any direction, by advertisement in a newspaper circulating in the district of the local authority. *(Extent: S)* *(affected by repeal, see note)*[^key-aa931cf5942c9bfc075ea4c9763eb5d6]
+- (a (Extent: S) (affected by repeal, see note))[^c-aa931cf5942c9bfc075ea4c9763eb5d6] in such manner as he or they shall direct; and *(Extent: S)* *(affected by repeal, see note)*[^c-aa931cf5942c9bfc075ea4c9763eb5d6]
+- (b (Extent: S) (affected by repeal, see note))[^c-aa931cf5942c9bfc075ea4c9763eb5d6] subject to and in the absence of any direction, by advertisement in a newspaper circulating in the district of the local authority. *(Extent: S)* *(affected by repeal, see note)*[^c-aa931cf5942c9bfc075ea4c9763eb5d6]
 
 (3) The validity or effect of an order of the Minister, or licence or other instrument issued by the Minister, the appropriate Minister or the Ministers shall not be affected by want of or defect or irregularity in its publication.
 
@@ -45,6 +45,6 @@ shall be exercisable by statutory instrument.
 
 ## Annotations
 
-[^key-aa931cf5942c9bfc075ea4c9763eb5d6]: Textual amendment: [S. 91(2)](https://www.legislation.gov.uk/ukpga/1981/22/section/91/2) repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/4) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-aa931cf5942c9bfc075ea4c9763eb5d6]: Textual amendment: [S. 91(2)](https://www.legislation.gov.uk/ukpga/1981/22/section/91/2) repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/4) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
 [^c10347231]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Financial support for registered higher education providers[^key-d4a291d4365990e2415111de9e1e3d40]
+## 39. Financial support for registered higher education providers[^c-d4a291d4365990e2415111de9e1e3d40]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4a291d4365990e2415111de9e1e3d40]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/29/section/39) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/a)
+[^c-d4a291d4365990e2415111de9e1e3d40]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/29/section/39) in force at 1.1.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/2/a)

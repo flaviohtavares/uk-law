@@ -31,24 +31,24 @@ Injuries in War Compensation Act 1914 (Session 2) (repealed)
 
 1914 c.18
 
-[^key-7c44359038cb5387328f2cfe7eb569da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c44359038cb5387328f2cfe7eb569da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[27th November 1914\]
 
 **No longer in force.**
 
-## 1. Pension schemes for persons disabled abroad in connection with warlike operations.[^key-7c44359038cb5387328f2cfe7eb569da][^key-7c44359038cb5387328f2cfe7eb569da]
+## 1. Pension schemes for persons disabled abroad in connection with warlike operations.[^c-7c44359038cb5387328f2cfe7eb569da][^c-7c44359038cb5387328f2cfe7eb569da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of 4 & 5 GeorgeGeo. 5. c. 30.[^key-7c44359038cb5387328f2cfe7eb569da][^key-7c44359038cb5387328f2cfe7eb569da]
+## 2. Extension of 4 & 5 GeorgeGeo. 5. c. 30.[^c-7c44359038cb5387328f2cfe7eb569da][^c-7c44359038cb5387328f2cfe7eb569da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title.[^key-7c44359038cb5387328f2cfe7eb569da][^key-7c44359038cb5387328f2cfe7eb569da]
+## 3. Short title.[^c-7c44359038cb5387328f2cfe7eb569da][^c-7c44359038cb5387328f2cfe7eb569da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c44359038cb5387328f2cfe7eb569da]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/5-6/18) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-7c44359038cb5387328f2cfe7eb569da]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/5-6/18) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4

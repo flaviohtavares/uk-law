@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^key-fc32b5683ec4dfb91508069e74659b4c]
+## SCHEDULE 4 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^c-fc32b5683ec4dfb91508069e74659b4c]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ Article 18(3)
 
 ## Annotations
 
-[^key-fc32b5683ec4dfb91508069e74659b4c]: Commencement: Sch. 4 comes into force in accordance with art. 1(1)(h)
+[^c-fc32b5683ec4dfb91508069e74659b4c]: Commencement: Sch. 4 comes into force in accordance with art. 1(1)(h)

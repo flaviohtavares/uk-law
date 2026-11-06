@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Local inquiries[^key-ab3aa9d8f7dfec7ef4b34a4acc5ff90b]
+## 68. Local inquiries[^c-ab3aa9d8f7dfec7ef4b34a4acc5ff90b]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The Secretary of State may cause to be held such inquiries as she may consider n
 
 ## Annotations
 
-[^key-ab3aa9d8f7dfec7ef4b34a4acc5ff90b]: Commencement: Art. 68 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-ab3aa9d8f7dfec7ef4b34a4acc5ff90b]: Commencement: Art. 68 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00032]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Penalty offences and penalties[^key-b132f75da6ec0bfacc316315a31432ef]
+## 59. Penalty offences and penalties[^c-b132f75da6ec0bfacc316315a31432ef]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b132f75da6ec0bfacc316315a31432ef]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2011/24/section/59) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-b132f75da6ec0bfacc316315a31432ef]: Commencement: [S. 59](https://www.legislation.gov.uk/nia/2011/24/section/59) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

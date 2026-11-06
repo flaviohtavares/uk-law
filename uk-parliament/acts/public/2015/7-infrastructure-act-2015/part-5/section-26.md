@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Timing of appointment of examining authority[^key-8ff4d9dfce7221f3c773e53ac2d44095]
+## 26. Timing of appointment of examining authority[^c-8ff4d9dfce7221f3c773e53ac2d44095]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 61 of the Planning Act 2008 (decision as to whether application for o
 
 ## Annotations
 
-[^key-8ff4d9dfce7221f3c773e53ac2d44095]: Commencement: S. 26 in force at 12.4.2015 by [S.I. 2015/758](https://www.legislation.gov.uk/uksi/2015/758), [reg. 2](https://www.legislation.gov.uk/uksi/2015/758/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/758/article/4/2))
+[^c-8ff4d9dfce7221f3c773e53ac2d44095]: Commencement: S. 26 in force at 12.4.2015 by [S.I. 2015/758](https://www.legislation.gov.uk/uksi/2015/758), [reg. 2](https://www.legislation.gov.uk/uksi/2015/758/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/758/article/4/2))

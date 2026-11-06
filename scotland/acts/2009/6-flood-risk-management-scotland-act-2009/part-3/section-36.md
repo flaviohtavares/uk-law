@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Local flood risk management plans: completion and publication[^key-4f7064ea5723eefe969801135de316ed]
+## 36. Local flood risk management plans: completion and publication[^c-4f7064ea5723eefe969801135de316ed]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ the lead authority must notify the Scottish Ministers of that fact.
 
 ## Annotations
 
-[^key-4f7064ea5723eefe969801135de316ed]: Commencement: S. 36 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-4f7064ea5723eefe969801135de316ed]: Commencement: S. 36 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. The planning authority for an area[^key-eb6b2501fd5fb2c2dd6bc75af4a8adbd]
+## 7. The planning authority for an area[^c-eb6b2501fd5fb2c2dd6bc75af4a8adbd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6b2501fd5fb2c2dd6bc75af4a8adbd]: Commencement: S. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-eb6b2501fd5fb2c2dd6bc75af4a8adbd]: Commencement: S. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

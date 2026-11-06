@@ -31,7 +31,7 @@ Regulation 2(1)
     - (cc) any of the explosives are smokeless powder or percussion caps; or
     - (dd) the explosives are to be stored by a person who is registered as a firearms dealer under section 33 of the Firearms Act 1968 [^c22150911];
   - (ii) the local authority for the area in which the storage is to take place where none of the explosives are of a type to which sub-paragraph (a)(i) applies;
-- (b)[^key-49cf0cf8c387ecdbed8e99d6f08cb869] the Executive where the explosives are to be stored—
+- (b)[^c-49cf0cf8c387ecdbed8e99d6f08cb869] the Executive where the explosives are to be stored—
   - (i) on the surface at a mine, whether in a building or not;
   - (ii) below ground at a mine; or
   - (iii) within a harbour;
@@ -55,4 +55,4 @@ Regulation 2(1)
 
 [^c22150911]: Marginal citation: [1968 c.27](https://www.legislation.gov.uk/ukpga/1968/27); section 33(3) was amended by the [Firearms (Amendment) Act 1988 (c. 45)](https://www.legislation.gov.uk/ukpga/1988/45), [section 13(1)](https://www.legislation.gov.uk/ukpga/1988/45/section/13/1) and the [Firearms Act 1997 (c. 5)](https://www.legislation.gov.uk/ukpga/1997/5), [section 42(2)](https://www.legislation.gov.uk/ukpga/1997/5/section/42/2).
 
-[^key-49cf0cf8c387ecdbed8e99d6f08cb869]: Textual amendment: Sch. 1 para. 1(b) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(f)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-49cf0cf8c387ecdbed8e99d6f08cb869]: Textual amendment: Sch. 1 para. 1(b) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 18(f)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/18/f) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

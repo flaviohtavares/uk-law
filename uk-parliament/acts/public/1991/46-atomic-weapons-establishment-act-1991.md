@@ -61,7 +61,7 @@ and any reference in this subsection to a company includes a reference to a comp
 
 (4) In this Act—
 
-- “company” means a company as defined in section 1(1) of the Companies Act 2006 and “formed”, in relation to a company, includes the alteration of the company’s articles so as to add, remove or alter a statement of the company’s objects;[^key-7b04a95d7c3caf3955506fdcdce3cd0e]
+- “company” means a company as defined in section 1(1) of the Companies Act 2006 and “formed”, in relation to a company, includes the alteration of the company’s articles so as to add, remove or alter a statement of the company’s objects;[^c-7b04a95d7c3caf3955506fdcdce3cd0e]
 - “**contractor**” means a company which carries on designated activities at designated premises under contract with the Secretary of State or, by making the services of employees or property available, enables such activities to be carried on at such premises, whether by a company or by the Secretary of State;
 - “**designated**”, with reference to any activities or premises, means designated by an order under subsection (1) above.
 
@@ -71,9 +71,9 @@ and any reference in this subsection to a company includes a reference to a comp
 
 *Extent: E+W*
 
-(1) The Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-f37eed2000fb82e170c7489a833018bd] shall apply to the transfer of the undertaking or any part of it whether or not, apart from this provision, the undertaking would be treated as an undertaking to whose transfer those Regulations apply[^key-9da8fa3aef9b816792b3e8e7e991b9cc].
+(1) The Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-f37eed2000fb82e170c7489a833018bd] shall apply to the transfer of the undertaking or any part of it whether or not, apart from this provision, the undertaking would be treated as an undertaking to whose transfer those Regulations apply[^c-9da8fa3aef9b816792b3e8e7e991b9cc].
 
-(2) For the purposes of those Regulations, the services of the qualified employees together with the rights in or over the premises and property used for the purposes of the undertaking shall be treated as a part of that undertaking to whose transfer those Regulations apply[^key-36071f8750fdf841823e44f6e4b20911] whether or not the company which is to become their employer also carries on designated activities.
+(2) For the purposes of those Regulations, the services of the qualified employees together with the rights in or over the premises and property used for the purposes of the undertaking shall be treated as a part of that undertaking to whose transfer those Regulations apply[^c-36071f8750fdf841823e44f6e4b20911] whether or not the company which is to become their employer also carries on designated activities.
 
 (3) Where in pursuance of the arrangements referred to in section 1(3) above a company is to become the employer of any person, none of the agreed redundancy procedures applicable to persons employed in the civil service of the Crown shall apply to him.
 
@@ -185,9 +185,9 @@ Section 3.
 
 **10.** For the purposes of section 31 of the Planning (Hazardous Substances) Act 1990 (exercise of powers in relation to Crown land), any interest of a contractor in designated premises shall be treated as a Crown interest in those premises.
 
-### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-3e9d8b3b0a683f33ca92b00d6a11d35a]
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-3e9d8b3b0a683f33ca92b00d6a11d35a]
 
-**10A.**[^key-3e9d8b3b0a683f33ca92b00d6a11d35a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10A.**[^c-3e9d8b3b0a683f33ca92b00d6a11d35a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Clean Air Act 1993[^c1192394]
 
@@ -200,13 +200,13 @@ Section 3.
 
 (3) For all other purposes of that Act any such premises shall be treated as Crown premises occupied by a government department.
 
-### Environmental Permitting (England and Wales) Regulations 2016[^key-e94bfe4fa03b599bd84931948297203e]
+### Environmental Permitting (England and Wales) Regulations 2016[^c-e94bfe4fa03b599bd84931948297203e]
 
-**10C.**[^key-f764e273e05bf687ebf3493af52c1c8a] (1) For the purposes of the Environmental Permitting (England and Wales) Regulations 2016 ([^key-e41458870aeee6198bc5ee1be5802f78][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) , so far as relating to an environmental permit for the disposal of radioactive waste, a relevant site in designated premises shall be treated as a site in respect of which a nuclear site licence is for the time being in force.
+**10C.**[^c-f764e273e05bf687ebf3493af52c1c8a] (1) For the purposes of the Environmental Permitting (England and Wales) Regulations 2016 ([^c-e41458870aeee6198bc5ee1be5802f78][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) , so far as relating to an environmental permit for the disposal of radioactive waste, a relevant site in designated premises shall be treated as a site in respect of which a nuclear site licence is for the time being in force.
 
 (2) For the purposes of sub-paragraph (1), “relevant site” means a site used by a contractor for the purposes of any activity which would, if section 1 of the Nuclear Installations Act 1965 applied to the site, require a nuclear site licence.
 
-### Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32)[^key-e0d0b0cd650c451124bf108486f13236]
+### Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32)[^c-e0d0b0cd650c451124bf108486f13236]
 
 **10D.** (1) The power of the Secretary of State under section 111(6) of the Energy Act 2013 (Crown exemptions) shall include power to provide for exemptions, in relation to designated premises or activities carried on by a contractor at such premises, from all or any of the relevant provisions.
 
@@ -225,13 +225,13 @@ Section 3.
 
 [^c1033563]: Commencement: Act wholly in force at 25.9.1991 see [s. 6(2)](https://www.legislation.gov.uk/ukpga/1991/46/section/6/2).
 
-[^key-7b04a95d7c3caf3955506fdcdce3cd0e]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/1991/46/section/1/4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 122](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/122) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-7b04a95d7c3caf3955506fdcdce3cd0e]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/1991/46/section/1/4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 122](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/122) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-f37eed2000fb82e170c7489a833018bd]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1991/46/section/2/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6/2/a)
+[^c-f37eed2000fb82e170c7489a833018bd]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1991/46/section/2/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6/2/a)
 
-[^key-9da8fa3aef9b816792b3e8e7e991b9cc]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1991/46/section/2/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6/2/b)
+[^c-9da8fa3aef9b816792b3e8e7e991b9cc]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1991/46/section/2/1) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6/2/b)
 
-[^key-36071f8750fdf841823e44f6e4b20911]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1991/46/section/2/2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6/3)
+[^c-36071f8750fdf841823e44f6e4b20911]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1991/46/section/2/2) substituted (6.4.2006 with application in accordance with reg. 21(1)) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/6/3)
 
 [^c1033566]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
@@ -247,16 +247,16 @@ Section 3.
 
 [^c1033573]: Textual amendment: Sch. para. 8(1) repealed (27.8.1993) by 1993, c. 11, s. 67(3), Sch.6
 
-[^key-3e9d8b3b0a683f33ca92b00d6a11d35a]: Textual amendment: Sch. para. 10A and cross-heading repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 6(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/6/a), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-3e9d8b3b0a683f33ca92b00d6a11d35a]: Textual amendment: Sch. para. 10A and cross-heading repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 6(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/6/a), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
 [^c1192394]: Textual amendment: Sch. para. 10B and crossheading inserted (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/67/1), [Sch. 4 para.5](https://www.legislation.gov.uk/ukpga/1993/11/schedule/4/paragraph/5)
 
 [^c1033575]: Textual amendment: Sch. para. 10B and crossheading inserted (27.8.1993) by [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11), [s. 67(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/67/1), [Sch. 4 para.5](https://www.legislation.gov.uk/ukpga/1993/11/schedule/4/paragraph/5)
 
-[^key-e94bfe4fa03b599bd84931948297203e]: Textual amendment: Words in Sch. para. 10C heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 7(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/7/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e94bfe4fa03b599bd84931948297203e]: Textual amendment: Words in Sch. para. 10C heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 7(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/7/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-f764e273e05bf687ebf3493af52c1c8a]: Textual amendment: Sch. para. 10C inserted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 6(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-f764e273e05bf687ebf3493af52c1c8a]: Textual amendment: Sch. para. 10C inserted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 6(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
-[^key-e41458870aeee6198bc5ee1be5802f78]: Textual amendment: Words in Sch. para. 10C(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 7(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/7/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e41458870aeee6198bc5ee1be5802f78]: Textual amendment: Words in Sch. para. 10C(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 7(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/7/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-e0d0b0cd650c451124bf108486f13236]: Textual amendment: Sch. para. 10D inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-e0d0b0cd650c451124bf108486f13236]: Textual amendment: Sch. para. 10D inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))

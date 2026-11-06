@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Authorisation of superfunds[^key-3ede9c0573bb5836a4fde5fb3f694363]
+## 63. Authorisation of superfunds[^c-3ede9c0573bb5836a4fde5fb3f694363]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ede9c0573bb5836a4fde5fb3f694363]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-3ede9c0573bb5836a4fde5fb3f694363]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

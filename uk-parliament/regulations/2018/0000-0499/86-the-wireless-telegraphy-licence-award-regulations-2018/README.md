@@ -41,7 +41,7 @@ Coming into force
 
 [^c22919281]The Office of Communications (“OFCOM”), in exercise of the powers conferred by section 14(1), (2), (3), (4), (6) and (7) and section 122(7) of the Wireless Telegraphy Act 2006 (“**the Act**”), make the following Regulations.
 
-Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.[^key-09cc9f6a246f5802fe3ad40aeabe45c2]
+Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.[^c-09cc9f6a246f5802fe3ad40aeabe45c2]
 
 ## Contents
 
@@ -319,4 +319,4 @@ A full regulatory impact assessment of the effect of these Regulations has been 
 
 [^c22919281]: Marginal citation: [2006 c.36](https://www.legislation.gov.uk/ukpga/2006/36).
 
-[^key-09cc9f6a246f5802fe3ad40aeabe45c2]: Modification: Regulations applied (1.2.2018) by [The Wireless Telegraphy (Limitation of Number of Licences) Order 2018 (S.I. 2018/89)](https://www.legislation.gov.uk/uksi/2018/89), [art. 2(2)](https://www.legislation.gov.uk/uksi/2018/89/article/2/2)
+[^c-09cc9f6a246f5802fe3ad40aeabe45c2]: Modification: Regulations applied (1.2.2018) by [The Wireless Telegraphy (Limitation of Number of Licences) Order 2018 (S.I. 2018/89)](https://www.legislation.gov.uk/uksi/2018/89), [art. 2(2)](https://www.legislation.gov.uk/uksi/2018/89/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Voting rights of persons who are not members of council[^key-736a061a29b22e0b5caa6352fcd80117]
+## 17. Voting rights of persons who are not members of council[^c-736a061a29b22e0b5caa6352fcd80117]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ must for all purposes be treated as a non-voting member of that committee.
 
 ## Annotations
 
-[^key-736a061a29b22e0b5caa6352fcd80117]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/8/section/17) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-736a061a29b22e0b5caa6352fcd80117]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/8/section/17) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

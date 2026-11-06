@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 150. Interest in property to be declared on request[^key-a9c71afe6bcfe427079e5d7faa1ca10d]
+## 150. Interest in property to be declared on request[^c-a9c71afe6bcfe427079e5d7faa1ca10d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.202 of the 1991 Rules.
 
 ## Annotations
 
-[^key-a9c71afe6bcfe427079e5d7faa1ca10d]: Commencement: Rule 150 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-a9c71afe6bcfe427079e5d7faa1ca10d]: Commencement: Rule 150 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

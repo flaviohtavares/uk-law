@@ -28,7 +28,7 @@ In its application to Northern Ireland this Act has effect as if—
 - (d) references to a local planning authority were references to the Department of the Environment in Northern Ireland,
 - (e) references to a highway were references to a road (within the meaning of the Roads (Northern Ireland) Order 1980 (S.I. 1980/1085 (N.I. 11)),
 - (f) references to a local authority were references to a district council,
-- (g) the reference in section 28(2)(d) to section 143 of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) were a reference to Article 11 of the Criminal Justice (Northern Ireland) Order 1994 ( *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c06657d2d203133b8c1581d2d5c86f8]S.I. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c06657d2d203133b8c1581d2d5c86f8] 1994/2795 N.I. 15)), *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-7c06657d2d203133b8c1581d2d5c86f8]
+- (g) the reference in section 28(2)(d) to section 143 of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) were a reference to Article 11 of the Criminal Justice (Northern Ireland) Order 1994 ( *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7c06657d2d203133b8c1581d2d5c86f8]S.I. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7c06657d2d203133b8c1581d2d5c86f8] 1994/2795 N.I. 15)), *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-7c06657d2d203133b8c1581d2d5c86f8]
 - (h) the reference in section 31(5) to section 32(2)(b) of the Police and Criminal Evidence Act 1984 (c. 60) were a reference to Article 34(2)(b) of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)), and
 - (i) for section 39 there were substituted—
 
@@ -40,4 +40,4 @@ In its application to Northern Ireland this Act has effect as if—
 
 ## Annotations
 
-[^key-7c06657d2d203133b8c1581d2d5c86f8]: Textual amendment: S. 38(g) omitted (E.W.S.) (14.2.2012) by virtue of [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 1(12)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/12), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1)
+[^c-7c06657d2d203133b8c1581d2d5c86f8]: Textual amendment: S. 38(g) omitted (E.W.S.) (14.2.2012) by virtue of [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 1(12)](https://www.legislation.gov.uk/ukpga/2011/22/section/1/12), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1)

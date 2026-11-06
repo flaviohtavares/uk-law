@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 193. Adjournment of hearings: directions[^key-9646f23af6ba8ce57dac0e584db535b6]
+## 193. Adjournment of hearings: directions[^c-9646f23af6ba8ce57dac0e584db535b6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.10 of the 1986 Rules. In paragraph (2)(c)(iii), for “Rule 7.9(1)(
 
 ## Annotations
 
-[^key-9646f23af6ba8ce57dac0e584db535b6]: Commencement: Rule 193 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9646f23af6ba8ce57dac0e584db535b6]: Commencement: Rule 193 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

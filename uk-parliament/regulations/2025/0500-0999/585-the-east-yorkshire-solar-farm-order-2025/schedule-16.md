@@ -22,7 +22,7 @@ summary: ''
 
 Article 46
 
-### 1. Interpretation[^key-9613a640f37681836bfc5dd455bbe334]
+### 1. Interpretation[^c-9613a640f37681836bfc5dd455bbe334]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph 4(2)(b); and
 - “**working day**” means any day other than a Saturday, Sunday or English bank or public holiday.
 
-### 2. Applications made under requirement[^key-285dd2282207e54868ecd732bb5f4a79]
+### 2. Applications made under requirement[^c-285dd2282207e54868ecd732bb5f4a79]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement, the undertaker will also submit a copy of that application to any requirement consultee.
 
@@ -46,7 +46,7 @@ In this Schedule—
 
 (5) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a requirement included in this Order and the relevant planning authority does not determine the application within the period set out in sub-paragraph (2) and is accompanied by a report pursuant to sub-paragraph (4) which states that the subject matter of such application is likely to give rise to any materially new or materially different environmental effects compared to those in the environmental statement then the application is to be taken to have been refused by the relevant planning authority at the end of that period.
 
-### 3. Further information and consultation[^key-9fcf3e094185c5e57678fc966e487203]
+### 3. Further information and consultation[^c-9fcf3e094185c5e57678fc966e487203]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -58,7 +58,7 @@ In this Schedule—
 
 (5) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 2 and paragraph 3.
 
-### 4. Appeals[^key-599abc288081a476f8b61eb05f696717]
+### 4. Appeals[^c-599abc288081a476f8b61eb05f696717]
 
 (1) The undertaker may appeal in the event that—
 
@@ -99,7 +99,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (11) On application by the relevant planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to advice on planning appeals and award costs published in Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-269a949f6dd498a4f9cb4160852ee21e]
+### 5. Fees[^c-269a949f6dd498a4f9cb4160852ee21e]
 
 (1) Where an application is made to the relevant planning authority for written consent, agreement or approval in respect of a requirement, the fee prescribed under regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00074] (as may be amended or replaced from time to time)) is to apply and must be paid to the relevant planning authority for each application.
 
@@ -112,14 +112,14 @@ and may deal with the application as if it had been made to them in the first in
 
 ## Annotations
 
-[^key-9613a640f37681836bfc5dd455bbe334]: Commencement: Sch. 16 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-9613a640f37681836bfc5dd455bbe334]: Commencement: Sch. 16 para. 1 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-285dd2282207e54868ecd732bb5f4a79]: Commencement: Sch. 16 para. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-285dd2282207e54868ecd732bb5f4a79]: Commencement: Sch. 16 para. 2 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-9fcf3e094185c5e57678fc966e487203]: Commencement: Sch. 16 para. 3 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-9fcf3e094185c5e57678fc966e487203]: Commencement: Sch. 16 para. 3 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-599abc288081a476f8b61eb05f696717]: Commencement: Sch. 16 para. 4 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-599abc288081a476f8b61eb05f696717]: Commencement: Sch. 16 para. 4 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-269a949f6dd498a4f9cb4160852ee21e]: Commencement: Sch. 16 para. 5 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-269a949f6dd498a4f9cb4160852ee21e]: Commencement: Sch. 16 para. 5 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
 [^f00074]: Footnote: S.I. amended by [S.I. 2013/2153](https://www.legislation.gov.uk/uksi/2013/2153), [S.I. 2014/357](https://www.legislation.gov.uk/uksi/2014/357), [S.I. 2014/643](https://www.legislation.gov.uk/uksi/2014/643), [S.I.2017/1314](https://www.legislation.gov.uk/uksi/2017/1314) and [S.I. 2019/1154](https://www.legislation.gov.uk/uksi/2019/1154).

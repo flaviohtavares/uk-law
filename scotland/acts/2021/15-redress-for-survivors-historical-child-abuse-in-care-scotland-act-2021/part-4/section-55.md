@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Review panels[^key-d471dd7281f7c861cab8f0134dced03f]
+## 55. Review panels[^c-d471dd7281f7c861cab8f0134dced03f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d471dd7281f7c861cab8f0134dced03f]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2021/15/section/55) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-d471dd7281f7c861cab8f0134dced03f]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2021/15/section/55) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

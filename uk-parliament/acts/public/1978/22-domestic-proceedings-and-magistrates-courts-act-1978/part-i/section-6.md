@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Either party to a marriage may apply to the family court[^key-25cb4ba2fd8b346085434234b14a3f3a] for an order under this section on the ground that either the party making the application or the other party to the marriage has agreed to make such financial provision as may be specified in the application and, subject to subsection (3) below, the court on such an application may, if—
+(1) Either party to a marriage may apply to the family court[^c-25cb4ba2fd8b346085434234b14a3f3a] for an order under this section on the ground that either the party making the application or the other party to the marriage has agreed to make such financial provision as may be specified in the application and, subject to subsection (3) below, the court on such an application may, if—
 
 - (a) it is satisfied that the applicant or the respondent, as the case may be, has agreed to make that provision, and
 - (b) it has no reason to think that it would be contrary to the interests of justice to exercise its powers hereunder,
@@ -58,7 +58,7 @@ then if both the parties agree, the court may order that the applicant or the re
 
 (8) Where the court makes an order under this section which contains provision for the making of periodical payments and, by virtue of subsection (4) above, an application for an order under section 2 of this Act is treated as if it had been withdrawn, then the term which may be specified as the term for which the payments are to be made may begin with the date of the making of the application for the order under section 2 or any later date.
 
-(9) Where the respondent is not present or represented by counsel or solicitor at the hearing of an application for an order under subsection (1) above, the court shall not make an order under this section unless there is produced to the court such evidence as may be prescribed by rules of court[^key-eaa8c11f613cd90c9fe4bd2ed9ba2be8] of—
+(9) Where the respondent is not present or represented by counsel or solicitor at the hearing of an application for an order under subsection (1) above, the court shall not make an order under this section unless there is produced to the court such evidence as may be prescribed by rules of court[^c-eaa8c11f613cd90c9fe4bd2ed9ba2be8] of—
 
 - (a) the consent of the respondent to the making of the order,
 - (b) the financial resources of the respondent, and
@@ -68,6 +68,6 @@ then if both the parties agree, the court may order that the applicant or the re
 
 [^c18620201]: Textual amendment: S. 6 substituted by [Matrimonial and Family Proceedings Act 1984 (c. 42, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1984/42), [ss. 10](https://www.legislation.gov.uk/ukpga/1984/42/section/10), [47](https://www.legislation.gov.uk/ukpga/1984/42/section/47), [48(2)](https://www.legislation.gov.uk/ukpga/1984/42/section/48/2)
 
-[^key-25cb4ba2fd8b346085434234b14a3f3a]: Textual amendment: Words in s. 6(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 69](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/69); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-25cb4ba2fd8b346085434234b14a3f3a]: Textual amendment: Words in s. 6(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 69](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/69); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-eaa8c11f613cd90c9fe4bd2ed9ba2be8]: Textual amendment: Words in s. 6(9) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 191](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/191); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-eaa8c11f613cd90c9fe4bd2ed9ba2be8]: Textual amendment: Words in s. 6(9) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 191](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/191); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)

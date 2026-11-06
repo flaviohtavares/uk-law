@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41H. Temporary stop notices: offences[^key-eba100c79515c25e1d1c210f2cd58c66][^key-c56edb19d6381922b2975d5cf59abd1a]
+## 41H. Temporary stop notices: offences[^c-eba100c79515c25e1d1c210f2cd58c66][^c-c56edb19d6381922b2975d5cf59abd1a]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-eba100c79515c25e1d1c210f2cd58c66]: Modification: Ss. 28-41I applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-eba100c79515c25e1d1c210f2cd58c66]: Modification: Ss. 28-41I applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-c56edb19d6381922b2975d5cf59abd1a]: Textual amendment: Ss. 41A-41I and cross-headings inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 23(1)](https://www.legislation.gov.uk/asp/2011/3/section/23/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); S.S.I. 2011/372, art. 2, Sch.
+[^c-c56edb19d6381922b2975d5cf59abd1a]: Textual amendment: Ss. 41A-41I and cross-headings inserted (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 23(1)](https://www.legislation.gov.uk/asp/2011/3/section/23/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); S.S.I. 2011/372, art. 2, Sch.

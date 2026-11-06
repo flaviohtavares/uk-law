@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Pre-consolidation modifications of enactments relating to crofting[^key-58b5a7b7681451498cce831a0dbdeea4]
+## 52. Pre-consolidation modifications of enactments relating to crofting[^c-58b5a7b7681451498cce831a0dbdeea4]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58b5a7b7681451498cce831a0dbdeea4]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2010/14/section/52) in force at 30.10.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
+[^c-58b5a7b7681451498cce831a0dbdeea4]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2010/14/section/52) in force at 30.10.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)

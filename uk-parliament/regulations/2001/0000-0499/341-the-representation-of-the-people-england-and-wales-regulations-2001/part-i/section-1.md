@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and extent[^key-3d9678413338215720b33dc3be340512]
+## 1. Citation, commencement and extent[^c-3d9678413338215720b33dc3be340512]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d9678413338215720b33dc3be340512]: Commencement: Reg. 1 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-3d9678413338215720b33dc3be340512]: Commencement: Reg. 1 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

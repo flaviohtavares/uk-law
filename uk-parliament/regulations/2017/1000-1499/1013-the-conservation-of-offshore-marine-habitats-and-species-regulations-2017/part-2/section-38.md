@@ -33,7 +33,7 @@ summary: ''
 - (a) a competent authority acting in the exercise of its functions; or
 - (b) any other person exercising such functions on behalf of a competent authority.
 
-(3) Paragraphs (6) to (8) do not apply to any person on a third country ship unless the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state[^key-3698c993776cb610a919751a630fc0eb].
+(3) Paragraphs (6) to (8) do not apply to any person on a third country ship unless the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state[^c-3698c993776cb610a919751a630fc0eb].
 
 (4) A person is guilty of an offence if—
 
@@ -85,9 +85,9 @@ summary: ''
 (13) Paragraph (12) applies where the defendant (“D”) shows that—
 
 - (a) the actions in question were for the purpose, and in the course, of sea fishing; and
-- (b) D had taken any steps that could reasonably be taken to ensure compliance with the requirements or conditions of any relevant[^key-6908b0cfe8436fb0db98a020e8bb311c] assimilated[^key-4e668b9a3b1cdbb23aa77261b7010c0e] law.
+- (b) D had taken any steps that could reasonably be taken to ensure compliance with the requirements or conditions of any relevant[^c-6908b0cfe8436fb0db98a020e8bb311c] assimilated[^c-4e668b9a3b1cdbb23aa77261b7010c0e] law.
 
-(14) In paragraph (13), “**any relevant[^key-e7bbfeef2ccbefe0c7a01ef92d15b7a1] assimilated[^key-0a21fd4f99686e9f7ff85c412ad4ab00] law**” means any instrument relating to sea fishing which—
+(14) In paragraph (13), “**any relevant[^c-e7bbfeef2ccbefe0c7a01ef92d15b7a1] assimilated[^c-0a21fd4f99686e9f7ff85c412ad4ab00] law**” means any instrument relating to sea fishing which—
 
 - (a) regulates such fishing for the purpose (whether or not the sole purpose) of minimising the extent to which it has a result of the kind referred to in paragraph (12) or the risk that it may have a result of that kind; and
 - (b) is adopted by any EU instrument under—
@@ -100,14 +100,14 @@ summary: ''
 
 ## Annotations
 
-[^key-3698c993776cb610a919751a630fc0eb]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/3) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2019/579/regulation/53/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3698c993776cb610a919751a630fc0eb]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/3) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2019/579/regulation/53/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6908b0cfe8436fb0db98a020e8bb311c]: Textual amendment: Words in [reg. 38(13)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/13) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [53(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/53/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6908b0cfe8436fb0db98a020e8bb311c]: Textual amendment: Words in [reg. 38(13)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/13) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [53(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/53/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e668b9a3b1cdbb23aa77261b7010c0e]: Textual amendment: Word in [reg. 38(13)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/13/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 40(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/40/a)
+[^c-4e668b9a3b1cdbb23aa77261b7010c0e]: Textual amendment: Word in [reg. 38(13)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/13/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 40(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/40/a)
 
-[^key-e7bbfeef2ccbefe0c7a01ef92d15b7a1]: Textual amendment: Words in [reg. 38(14)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/14) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [53(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/53/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7bbfeef2ccbefe0c7a01ef92d15b7a1]: Textual amendment: Words in [reg. 38(14)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/14) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [53(3)](https://www.legislation.gov.uk/uksi/2019/579/regulation/53/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a21fd4f99686e9f7ff85c412ad4ab00]: Textual amendment: Word in [reg. 38(14)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/14) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 40(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/40/a)
+[^c-0a21fd4f99686e9f7ff85c412ad4ab00]: Textual amendment: Word in [reg. 38(14)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/38/14) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 40(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/40/a)
 
 [^c23068111]: Marginal citation: OJ No. L 354, 28.12.2013, p.22, as amended by Council Regulation (EU) No 1385/2013 (OJ No. L 354, 28.12.2013, p.86) and Regulation (EU) 2015/812 (OJ No. L 133, 29.5.2015, p.1).

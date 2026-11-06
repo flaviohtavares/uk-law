@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^key-a7025397e21570206422d324795e6bc2]
+## SCHEDULE 6 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^c-a7025397e21570206422d324795e6bc2]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ Dover District Council
 
 ## Annotations
 
-[^key-a7025397e21570206422d324795e6bc2]: Commencement: Sch. 6 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-a7025397e21570206422d324795e6bc2]: Commencement: Sch. 6 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Other claimants with incapacity for work: credits only cases[^key-1d97b44a2fa26e26736407cf780d99a1]
+## 28. Other claimants with incapacity for work: credits only cases[^c-1d97b44a2fa26e26736407cf780d99a1]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d97b44a2fa26e26736407cf780d99a1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/226/regulation/28) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-1d97b44a2fa26e26736407cf780d99a1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/226/regulation/28) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

@@ -34,7 +34,7 @@ Sea Fisheries
 
 Conservation Of Sea Fish
 
-The Sea Fish (Prohibition on Fishing) (Firth of Clyde) Order 2024 (revoked)[^key-fbfc2fe7a38160750df92018ea1321fa]
+The Sea Fish (Prohibition on Fishing) (Firth of Clyde) Order 2024 (revoked)[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 Made
 
@@ -48,46 +48,46 @@ Coming into force
 
 14th February 2024
 
-[^key-fbfc2fe7a38160750df92018ea1321fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbfc2fe7a38160750df92018ea1321fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, cessation and effect[^key-fbfc2fe7a38160750df92018ea1321fa]
+## 1. Citation, commencement, cessation and effect[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fbfc2fe7a38160750df92018ea1321fa]
+## 2. Interpretation[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on fishing[^key-fbfc2fe7a38160750df92018ea1321fa]
+## 3. Prohibition on fishing[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-fbfc2fe7a38160750df92018ea1321fa]
+## 4. Revocation[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fbfc2fe7a38160750df92018ea1321fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbfc2fe7a38160750df92018ea1321fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Description of areas – boundary lines[^key-fbfc2fe7a38160750df92018ea1321fa]
+## SCHEDULE — Description of areas – boundary lines[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 Article 3
 
-### PART 1[^key-fbfc2fe7a38160750df92018ea1321fa]
+### PART 1[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-fbfc2fe7a38160750df92018ea1321fa]
+### PART 2[^c-fbfc2fe7a38160750df92018ea1321fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fbfc2fe7a38160750df92018ea1321fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbfc2fe7a38160750df92018ea1321fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbfc2fe7a38160750df92018ea1321fa]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/6) revoked (14.2.2026) by [The Sea Fish (Prohibition on Fishing) (Firth of Clyde) Order 2026 (S.S.I. 2026/10)](https://www.legislation.gov.uk/ssi/2026/10), [arts. 1](https://www.legislation.gov.uk/ssi/2026/10/article/1), [5](https://www.legislation.gov.uk/ssi/2026/10/article/5)
+[^c-fbfc2fe7a38160750df92018ea1321fa]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/6) revoked (14.2.2026) by [The Sea Fish (Prohibition on Fishing) (Firth of Clyde) Order 2026 (S.S.I. 2026/10)](https://www.legislation.gov.uk/ssi/2026/10), [arts. 1](https://www.legislation.gov.uk/ssi/2026/10/article/1), [5](https://www.legislation.gov.uk/ssi/2026/10/article/5)

@@ -24,22 +24,22 @@ Section 104.
 
 ### Part 1: Saving for jurisdiction conferred by other statutory provisions
 
-**1.**[^key-d977a05251491ac4fe3fc046342014d2] Nothing in Part 1 affects any jurisdiction conferred by any other statutory provision on a county court or magistrates' court as regards matters arising outside Northern Ireland.
+**1.**[^c-d977a05251491ac4fe3fc046342014d2] Nothing in Part 1 affects any jurisdiction conferred by any other statutory provision on a county court or magistrates' court as regards matters arising outside Northern Ireland.
 
 ### Part 1: Lay magistrates
 
-**2.**[^key-0c9120ed96e448bafb7c8fd07fd233d2] A person who, immediately before section 4 comes into operation, was a lay magistrate for a county court division shall be treated as having been appointed under section 4 as a lay magistrate for the administrative court division which—
+**2.**[^c-0c9120ed96e448bafb7c8fd07fd233d2] A person who, immediately before section 4 comes into operation, was a lay magistrate for a county court division shall be treated as having been appointed under section 4 as a lay magistrate for the administrative court division which—
 
 - (a) is specified in the first directions given under section 2 as an administrative court division for all or the residual purposes of a magistrates' court; and
 - (b) contains the whole or the largest part of the county court division for which the lay justice was appointed.
 
 ### Part 1: Justices of the peace
 
-**3.**[^key-d9c469ba2a0f4fc1860406df42be5aec] A person who, immediately before section 5 comes into operation, was a justice of the peace for a county court division shall be treated as having been appointed under section 5(2) as a justice of the peace for Northern Ireland.
+**3.**[^c-d9c469ba2a0f4fc1860406df42be5aec] A person who, immediately before section 5 comes into operation, was a justice of the peace for a county court division shall be treated as having been appointed under section 5(2) as a justice of the peace for Northern Ireland.
 
 ### Part 2: Committal proceedings
 
-**4.**[^key-ffae60d7d20c037afc06f6a07e0a3b2d] A provision in Part 2 does not apply in relation to proceedings instituted before the coming into operation of that provision; and for this purpose proceedings are to be taken to be instituted—
+**4.**[^c-ffae60d7d20c037afc06f6a07e0a3b2d] A provision in Part 2 does not apply in relation to proceedings instituted before the coming into operation of that provision; and for this purpose proceedings are to be taken to be instituted—
 
 - (a) where—
   - (i) a summons or warrant is issued under Article 20 of the Magistrates' Courts (Northern Ireland) Order 1981, or
@@ -83,10 +83,10 @@ and where the application of this paragraph would result in there being more tha
 
 ## Annotations
 
-[^key-d977a05251491ac4fe3fc046342014d2]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d977a05251491ac4fe3fc046342014d2]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-0c9120ed96e448bafb7c8fd07fd233d2]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/2) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-0c9120ed96e448bafb7c8fd07fd233d2]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/2) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-d9c469ba2a0f4fc1860406df42be5aec]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/3) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d9c469ba2a0f4fc1860406df42be5aec]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/3) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-ffae60d7d20c037afc06f6a07e0a3b2d]: Modification: [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/4) applied (8.3.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(1)](https://www.legislation.gov.uk/nia/2022/4/section/5/1)[(3)](https://www.legislation.gov.uk/nia/2022/4/section/5/3)
+[^c-ffae60d7d20c037afc06f6a07e0a3b2d]: Modification: [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/4) applied (8.3.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(1)](https://www.legislation.gov.uk/nia/2022/4/section/5/1)[(3)](https://www.legislation.gov.uk/nia/2022/4/section/5/3)

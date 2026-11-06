@@ -28,11 +28,11 @@ summary: ''
 
 - (a) shall secure that, where an employee has a right to leave under this section, she is entitled to an ordinary maternity leave period of at least 26 weeks;
 - (b) may allow an employee to choose, subject to prescribed restrictions, the date on which an ordinary maternity leave period starts;
-- (ba)[^key-b5934696407e4285a4826519ecd36184] may allow an employee to bring forward the date on which an ordinary maternity leave period ends, subject to prescribed restrictions and subject to satisfying prescribed conditions;
+- (ba)[^c-b5934696407e4285a4826519ecd36184] may allow an employee to bring forward the date on which an ordinary maternity leave period ends, subject to prescribed restrictions and subject to satisfying prescribed conditions;
 - (bb) may allow an employee in prescribed circumstances to revoke, or to be treated as revoking, the bringing forward of that date;
 - (c) may specify circumstances in which an employee may work for her employer during an ordinary maternity leave period without bringing the period to an end.
 
-(3A)[^key-b5277d61b5dbe141fff8bec110f24269] Provision under subsection (3)(ba) is to secure that an employee may bring forward the date on which an ordinary maternity leave period ends only if the employee or another person has taken, or is taking, prescribed steps as regards leave under section 75E or statutory shared parental pay in respect of the child.
+(3A)[^c-b5277d61b5dbe141fff8bec110f24269] Provision under subsection (3)(ba) is to secure that an employee may bring forward the date on which an ordinary maternity leave period ends only if the employee or another person has taken, or is taking, prescribed steps as regards leave under section 75E or statutory shared parental pay in respect of the child.
 
 (4) Subject to section 74, an employee who exercises her right under subsection (1)—
 
@@ -64,9 +64,9 @@ summary: ''
 
 [^c20102461]: Textual amendment: S. 71(3) substituted (27.6.2006 for certain purposes, otherwise 1.10.2006) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [ss. 11](https://www.legislation.gov.uk/ukpga/2006/18/section/11), [19](https://www.legislation.gov.uk/ukpga/2006/18/section/19), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/31); [S.I. 2006/1682](https://www.legislation.gov.uk/uksi/2006/1682), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1682/article/2/c), [3(c)(d)](https://www.legislation.gov.uk/uksi/2006/1682/article/3/c/d)
 
-[^key-b5934696407e4285a4826519ecd36184]: Textual amendment: S. 71(3)(ba)(bb) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/2/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
+[^c-b5934696407e4285a4826519ecd36184]: Textual amendment: S. 71(3)(ba)(bb) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/2/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
 
-[^key-b5277d61b5dbe141fff8bec110f24269]: Textual amendment: S. 71(3A) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/2/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
+[^c-b5277d61b5dbe141fff8bec110f24269]: Textual amendment: S. 71(3A) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 118(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/118/2/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
 
 [^c16744171]: Textual amendment: Words in s. 71(4)(a) inserted (24.11.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2002/22/section/17/2/a); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/1), [3](https://www.legislation.gov.uk/uksi/2002/2866/article/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/1) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3/paragraph/3))
 

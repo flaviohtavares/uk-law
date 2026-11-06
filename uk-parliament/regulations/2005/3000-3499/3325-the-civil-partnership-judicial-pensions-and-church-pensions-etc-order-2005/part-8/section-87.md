@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**87.**[^key-4ee467277ea1dba350d1b3ea99f72122] In Schedule 4 (compensation of clergy), in paragraph 13(1)(c) and (3), after “spouse”, in each place, insert “or surviving civil partner”.
+**87.**[^c-4ee467277ea1dba350d1b3ea99f72122] In Schedule 4 (compensation of clergy), in paragraph 13(1)(c) and (3), after “spouse”, in each place, insert “or surviving civil partner”.
 
 ## Annotations
 
-[^key-4ee467277ea1dba350d1b3ea99f72122]: Commencement: Art. 87 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-4ee467277ea1dba350d1b3ea99f72122]: Commencement: Art. 87 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

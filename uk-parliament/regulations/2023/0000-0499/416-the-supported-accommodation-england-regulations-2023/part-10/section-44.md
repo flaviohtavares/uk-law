@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Transitional provisions[^key-9545493e78598c00471cc8e800e247b7]
+## 44. Transitional provisions[^c-9545493e78598c00471cc8e800e247b7]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9545493e78598c00471cc8e800e247b7]: Commencement: Reg. 44 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-9545493e78598c00471cc8e800e247b7]: Commencement: Reg. 44 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00043]: Footnote: Section 11 was amended by the Adoption and Children Act 2002, Schedule 3, paragraph 106, the Health and Social Care (Community Health and Standards) Act 2003, Schedule 9, paragraph 20, the Education and Inspections Act 2006, Schedule 14, paragraph 42 and the Health and Social Care Act 2008, Schedule 5, paragraph 10.
 

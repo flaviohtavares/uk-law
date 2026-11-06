@@ -33,7 +33,7 @@ Exiting The European Union, Wales
 
 Education, Wales
 
-The Education (Student Support) (Postgraduate Master's Degrees) (Wales) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-32aa44ce4485107801c981e1e6f5d89b]
+The Education (Student Support) (Postgraduate Master's Degrees) (Wales) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-32aa44ce4485107801c981e1e6f5d89b]
 
 Made
 
@@ -45,40 +45,40 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-32aa44ce4485107801c981e1e6f5d89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32aa44ce4485107801c981e1e6f5d89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — TITLE AND COMMENCEMENT[^key-32aa44ce4485107801c981e1e6f5d89b]
+## PART 1 — TITLE AND COMMENCEMENT[^c-32aa44ce4485107801c981e1e6f5d89b]
 
-### 1. Title and commencement[^key-32aa44ce4485107801c981e1e6f5d89b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — AMENDMENTS[^key-32aa44ce4485107801c981e1e6f5d89b]
-
-### 2.[^key-32aa44ce4485107801c981e1e6f5d89b]
+### 1. Title and commencement[^c-32aa44ce4485107801c981e1e6f5d89b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to regulation 16[^key-32aa44ce4485107801c981e1e6f5d89b]
+## PART 2 — AMENDMENTS[^c-32aa44ce4485107801c981e1e6f5d89b]
+
+### 2.[^c-32aa44ce4485107801c981e1e6f5d89b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments to Schedule 2[^key-32aa44ce4485107801c981e1e6f5d89b]
+### 3. Amendment to regulation 16[^c-32aa44ce4485107801c981e1e6f5d89b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendments to Schedule 3[^key-32aa44ce4485107801c981e1e6f5d89b]
+### 4. Amendments to Schedule 2[^c-32aa44ce4485107801c981e1e6f5d89b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32aa44ce4485107801c981e1e6f5d89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 5. Amendments to Schedule 3[^c-32aa44ce4485107801c981e1e6f5d89b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-32aa44ce4485107801c981e1e6f5d89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-32aa44ce4485107801c981e1e6f5d89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32aa44ce4485107801c981e1e6f5d89b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32aa44ce4485107801c981e1e6f5d89b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/uksi/2020/1302), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1302/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1302/regulation/2)
+[^c-32aa44ce4485107801c981e1e6f5d89b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/uksi/2020/1302), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1302/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1302/regulation/2)

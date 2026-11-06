@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414C. Contents of strategic report[^key-bc472f1eab209e28ccdd03d205cc9047][^key-9655dc66dfddbae2826f8174097ccacf][^key-dad63577b1944f4e84da593288ed18df]
+## 414C. Contents of strategic report[^c-bc472f1eab209e28ccdd03d205cc9047][^c-9655dc66dfddbae2826f8174097ccacf][^c-dad63577b1944f4e84da593288ed18df]
 
 *Extent: E+W+S+N.I.*
 
-[^key-bc472f1eab209e28ccdd03d205cc9047]
+[^c-bc472f1eab209e28ccdd03d205cc9047]
 
 (1) The purpose of the strategic report is to inform members of the company and help them assess how the directors have performed their duty under section 172 (duty to promote the success of the company).
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) a fair review of the company’s business, and
 - (b) a description of the principal risks and uncertainties facing the company.
 
-Section 414CZA (section 172(1) statement) and sections 414CA and 414CB (non-financial[^key-4e06e40f36dd090199424b367007fe21] and sustainability[^key-35ca315353496c5ce95e51ae578ba22c] information statement) make further provision about the contents of a strategic report.
+Section 414CZA (section 172(1) statement) and sections 414CA and 414CB (non-financial[^c-4e06e40f36dd090199424b367007fe21] and sustainability[^c-35ca315353496c5ce95e51ae578ba22c] information statement) make further provision about the contents of a strategic report.
 
 (3) The review required is a balanced and comprehensive analysis of—
 
@@ -88,12 +88,12 @@ If the report does not contain information of each kind mentioned in paragraphs 
 
 ## Annotations
 
-[^key-bc472f1eab209e28ccdd03d205cc9047]: Modification: Pt. 15 Ch. 4A applied in part (with modifications) by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
+[^c-bc472f1eab209e28ccdd03d205cc9047]: Modification: Pt. 15 Ch. 4A applied in part (with modifications) by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
 
-[^key-9655dc66dfddbae2826f8174097ccacf]: Modification: S. 414C applied (with modifications) by [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 12A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12A) (as inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/4) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7))) (as amended (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/2/2))
+[^c-9655dc66dfddbae2826f8174097ccacf]: Modification: S. 414C applied (with modifications) by [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 12A](https://www.legislation.gov.uk/uksi/2008/1911/regulation/12A) (as inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/4) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7))) (as amended (6.4.2022) by [The Limited Liability Partnerships (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/46)](https://www.legislation.gov.uk/uksi/2022/46), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/46/regulation/2/2))
 
-[^key-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
+[^c-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
 
-[^key-4e06e40f36dd090199424b367007fe21]: Textual amendment: Words in s. 414C(2) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/860/regulation/3)
+[^c-4e06e40f36dd090199424b367007fe21]: Textual amendment: Words in s. 414C(2) inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/860/regulation/3)
 
-[^key-35ca315353496c5ce95e51ae578ba22c]: Textual amendment: Words in [s. 414C(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/414C/2) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/31/regulation/2)
+[^c-35ca315353496c5ce95e51ae578ba22c]: Textual amendment: Words in [s. 414C(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/414C/2) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Strategic Report) (Climate-related Financial Disclosure) Regulations 2022 (S.I. 2022/31)](https://www.legislation.gov.uk/uksi/2022/31), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/31/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/31/regulation/2)

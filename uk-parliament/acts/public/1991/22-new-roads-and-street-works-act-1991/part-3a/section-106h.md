@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106H. Arrangements for third party to exercise functions[^key-a51d82489ef40c44974f509c849e251b]
+## 106H. Arrangements for third party to exercise functions[^c-a51d82489ef40c44974f509c849e251b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a51d82489ef40c44974f509c849e251b]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ukpga/1991/22/part/3A) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 56(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/56/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/1))
+[^c-a51d82489ef40c44974f509c849e251b]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ukpga/1991/22/part/3A) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 56(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/56/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/1))

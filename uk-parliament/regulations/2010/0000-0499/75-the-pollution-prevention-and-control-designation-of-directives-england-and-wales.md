@@ -31,7 +31,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Pollution Prevention and Control (Designation of Directives)(England and Wales) Order 2010 (revoked)[^key-33135c9822d42a91b5573704d3a8358d]
+The Pollution Prevention and Control (Designation of Directives)(England and Wales) Order 2010 (revoked)[^c-33135c9822d42a91b5573704d3a8358d]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 15th February 2010
 
-[^key-33135c9822d42a91b5573704d3a8358d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33135c9822d42a91b5573704d3a8358d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-33135c9822d42a91b5573704d3a8358d]
+## 1. Citation, commencement, extent and application[^c-33135c9822d42a91b5573704d3a8358d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-33135c9822d42a91b5573704d3a8358d]
+## 2. Revocation[^c-33135c9822d42a91b5573704d3a8358d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation[^key-33135c9822d42a91b5573704d3a8358d]
+## 3. Designation[^c-33135c9822d42a91b5573704d3a8358d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33135c9822d42a91b5573704d3a8358d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33135c9822d42a91b5573704d3a8358d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-33135c9822d42a91b5573704d3a8358d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33135c9822d42a91b5573704d3a8358d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33135c9822d42a91b5573704d3a8358d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/75) revoked (12.7.2011) by [The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2011 (S.I. 2011/1505)](https://www.legislation.gov.uk/uksi/2011/1505), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1505/article/1/1), [2](https://www.legislation.gov.uk/uksi/2011/1505/article/2)
+[^c-33135c9822d42a91b5573704d3a8358d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/75) revoked (12.7.2011) by [The Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2011 (S.I. 2011/1505)](https://www.legislation.gov.uk/uksi/2011/1505), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/1505/article/1/1), [2](https://www.legislation.gov.uk/uksi/2011/1505/article/2)

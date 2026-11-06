@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 485. Interest on unpaid levies[^key-46730cc06544452c0e8538ca3f36182a]
+## 485. Interest on unpaid levies[^c-46730cc06544452c0e8538ca3f36182a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ The Local Government Residuary Body (England) Order 1995 is amended as followsâ€
 
 ## Annotations
 
-[^key-46730cc06544452c0e8538ca3f36182a]: Commencement: Art. 485 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-46730cc06544452c0e8538ca3f36182a]: Commencement: Art. 485 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00318]: Footnote: Article 24(3) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

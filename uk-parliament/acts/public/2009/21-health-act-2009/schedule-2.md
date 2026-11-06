@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2 — De-authorised NHS foundation trusts[^key-6cd5e2c4bb9f62f83587e549da69075c]
+## Schedule 2 — De-authorised NHS foundation trusts[^c-6cd5e2c4bb9f62f83587e549da69075c]
 
 *Extent: E+W*
 
@@ -113,4 +113,4 @@ After Schedule 8 to the National Health Service Act 2006 (c. 41) insert—
 
 ## Annotations
 
-[^key-6cd5e2c4bb9f62f83587e549da69075c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/2) in force at 15.2.2010 for specified purposes by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/30/article/3/c)
+[^c-6cd5e2c4bb9f62f83587e549da69075c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/2) in force at 15.2.2010 for specified purposes by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/30/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 179. Compensation where planning permission is revoked or modified[^key-3e3a4d2ba5127b32c64ebb7ecc6b9151][^key-b571f5e949d91e70c796dcb549b011bf]
+## 179. Compensation where planning permission is revoked or modified[^c-3e3a4d2ba5127b32c64ebb7ecc6b9151][^c-b571f5e949d91e70c796dcb549b011bf]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e3a4d2ba5127b32c64ebb7ecc6b9151]: Commencement: S. 179 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-3e3a4d2ba5127b32c64ebb7ecc6b9151]: Commencement: S. 179 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-b571f5e949d91e70c796dcb549b011bf]: Commencement: S. 179 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-b571f5e949d91e70c796dcb549b011bf]: Commencement: S. 179 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

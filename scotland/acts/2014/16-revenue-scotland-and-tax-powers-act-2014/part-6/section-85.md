@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Notice of enquiry[^key-1964123b7c50361b06be4764e15400f1]
+## 85. Notice of enquiry[^c-1964123b7c50361b06be4764e15400f1]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1964123b7c50361b06be4764e15400f1]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/16/section/85) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-1964123b7c50361b06be4764e15400f1]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/16/section/85) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

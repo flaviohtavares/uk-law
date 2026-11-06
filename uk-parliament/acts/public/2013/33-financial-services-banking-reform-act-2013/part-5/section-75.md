@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Injunctions[^key-5e70fda36d4a9e6bec606d94f93dc49c]
+## 75. Injunctions[^c-5e70fda36d4a9e6bec606d94f93dc49c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ the court may make an order restraining the participant or the person (as the ca
 
 ## Annotations
 
-[^key-5e70fda36d4a9e6bec606d94f93dc49c]: Commencement: S. 75 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-5e70fda36d4a9e6bec606d94f93dc49c]: Commencement: S. 75 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

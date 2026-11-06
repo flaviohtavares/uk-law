@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Amendment of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (English language text)[^key-df86b7b5d70cc67f29ed9c0938e1ec90]
+## 103. Amendment of the National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (English language text)[^c-df86b7b5d70cc67f29ed9c0938e1ec90]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df86b7b5d70cc67f29ed9c0938e1ec90]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2023/1071/regulation/103) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-df86b7b5d70cc67f29ed9c0938e1ec90]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2023/1071/regulation/103) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00083]: Footnote: [S.I. 2020/1073 (W. 241)](https://www.legislation.gov.uk/wsi/2020/1073), to which there are amendments not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Private rights[^key-29db21b0718dbbf6e7756be558dafc58]
+## 26. Private rights[^c-29db21b0718dbbf6e7756be558dafc58]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-29db21b0718dbbf6e7756be558dafc58]: Commencement: Art. 26 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-29db21b0718dbbf6e7756be558dafc58]: Commencement: Art. 26 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331A. Meaning of “knowledge-intensive company”[^key-cf472efca7ddb449f0bc8da391096d4c]
+## 331A. Meaning of “knowledge-intensive company”[^c-cf472efca7ddb449f0bc8da391096d4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,9 +43,9 @@ summary: ''
   - (b) if the relevant company is a parent company at the applicable time, the sum of—
     - (i) the operating costs of the relevant company, and
     - (ii) the operating costs of each company which is a qualifying subsidiary of the relevant company at that time;
-- “**the relevant three preceding years**” means, subject to subsection (5A), the three consecutive years the last of which ends immediately before the beginning of the last accounts filing period.[^key-52ce6568ce642bfe099e5e4a55862891]
+- “**the relevant three preceding years**” means, subject to subsection (5A), the three consecutive years the last of which ends immediately before the beginning of the last accounts filing period.[^c-52ce6568ce642bfe099e5e4a55862891]
 
-(5A)[^key-08514cdaf2792bdb6dcc032606cf2a52] If the last accounts filing period ends more than 12 months before the applicable time, the relevant three preceding years are the three consecutive years the last of which ends 12 months before the applicable time.
+(5A)[^c-08514cdaf2792bdb6dcc032606cf2a52] If the last accounts filing period ends more than 12 months before the applicable time, the relevant three preceding years are the three consecutive years the last of which ends 12 months before the applicable time.
 
 (6) “The innovation condition” is—
 
@@ -120,8 +120,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cf472efca7ddb449f0bc8da391096d4c]: Textual amendment: S. 331A inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/20)
+[^c-cf472efca7ddb449f0bc8da391096d4c]: Textual amendment: S. 331A inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/20)
 
-[^key-52ce6568ce642bfe099e5e4a55862891]: Textual amendment: Words in s. 331A(5) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-52ce6568ce642bfe099e5e4a55862891]: Textual amendment: Words in s. 331A(5) substituted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
 
-[^key-08514cdaf2792bdb6dcc032606cf2a52]: Textual amendment: S. 331A(5A) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/5/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))
+[^c-08514cdaf2792bdb6dcc032606cf2a52]: Textual amendment: S. 331A(5A) inserted (retrospectively) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 29(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/5/b)[(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/29/6) (with [s. 30](https://www.legislation.gov.uk/ukpga/2016/24/section/30))

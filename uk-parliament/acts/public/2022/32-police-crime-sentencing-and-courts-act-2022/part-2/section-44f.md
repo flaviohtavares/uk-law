@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44F. Application of this Chapter to service police etc[^key-ac71bf50a1c321104c3a9dbb00472490]
+## 44F. Application of this Chapter to service police etc[^c-ac71bf50a1c321104c3a9dbb00472490]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac71bf50a1c321104c3a9dbb00472490]: Textual amendment: S. 44F inserted (12.1.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 29](https://www.legislation.gov.uk/ukpga/2024/21/section/29), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/b)
+[^c-ac71bf50a1c321104c3a9dbb00472490]: Textual amendment: S. 44F inserted (12.1.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 29](https://www.legislation.gov.uk/ukpga/2024/21/section/29), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/b)

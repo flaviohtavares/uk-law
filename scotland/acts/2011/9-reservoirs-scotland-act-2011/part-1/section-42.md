@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Offences: construction or alteration[^key-d66671c56e61aee04646f515dc6540a7]
+## 42. Offences: construction or alteration[^c-d66671c56e61aee04646f515dc6540a7]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d66671c56e61aee04646f515dc6540a7]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2011/9/section/42) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-d66671c56e61aee04646f515dc6540a7]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2011/9/section/42) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

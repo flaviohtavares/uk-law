@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Interpretation: Financial Services Compensation Scheme[^key-0ce04859303b9f786ed70a91e491a092]
+## 127. Interpretation: Financial Services Compensation Scheme[^c-0ce04859303b9f786ed70a91e491a092]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 181(1) of the Pension Schemes Act 1993—
 
 ## Annotations
 
-[^key-0ce04859303b9f786ed70a91e491a092]: Commencement: Art. 127 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0ce04859303b9f786ed70a91e491a092]: Commencement: Art. 127 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

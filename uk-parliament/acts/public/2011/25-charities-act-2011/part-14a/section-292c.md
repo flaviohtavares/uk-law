@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292C. Charity trustees' duties in relation to social investments[^key-0491c66dccba46479a332dfbead7bc05]
+## 292C. Charity trustees' duties in relation to social investments[^c-0491c66dccba46479a332dfbead7bc05]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0491c66dccba46479a332dfbead7bc05]: Textual amendment: Pt. 14A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/15/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)
+[^c-0491c66dccba46479a332dfbead7bc05]: Textual amendment: Pt. 14A inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2016/4/section/15/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/k)

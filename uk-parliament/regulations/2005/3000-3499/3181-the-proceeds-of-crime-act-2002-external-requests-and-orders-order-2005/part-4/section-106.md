@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Applications to give effect to external orders[^key-144d5af229d4d9834e186f30dd544f43]
+## 106. Applications to give effect to external orders[^c-144d5af229d4d9834e186f30dd544f43]
 
 *Extent: E+W+S+N.I.*
 
 (1) An application may be made by the relevant Director to the Crown Court to give effect to an external order.
 
-(2) No application to give effect to such an order under this Order[^key-4b8f196bb97c6f4e931d6798d98c4908] may be made otherwise than under paragraph (1).
+(2) No application to give effect to such an order under this Order[^c-4b8f196bb97c6f4e931d6798d98c4908] may be made otherwise than under paragraph (1).
 
 (3) An application under paragraph (1)—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-144d5af229d4d9834e186f30dd544f43]: Commencement: [Art. 106](https://www.legislation.gov.uk/uksi/2005/3181/article/106) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-144d5af229d4d9834e186f30dd544f43]: Commencement: [Art. 106](https://www.legislation.gov.uk/uksi/2005/3181/article/106) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-4b8f196bb97c6f4e931d6798d98c4908]: Textual amendment: Words in [art. 106(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/106/2) inserted (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/4/c)
+[^c-4b8f196bb97c6f4e931d6798d98c4908]: Textual amendment: Words in [art. 106(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/106/2) inserted (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [4(c)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/4/c)

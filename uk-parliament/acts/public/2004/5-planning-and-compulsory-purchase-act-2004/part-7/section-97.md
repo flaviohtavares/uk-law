@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Old mining permissions: Scotland[^key-b215d34cb3ec8fc8cac5ef1c7b82fd15]
+## 97. Old mining permissions: Scotland[^c-b215d34cb3ec8fc8cac5ef1c7b82fd15]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b215d34cb3ec8fc8cac5ef1c7b82fd15]: Commencement: S. 97 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-b215d34cb3ec8fc8cac5ef1c7b82fd15]: Commencement: S. 97 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)

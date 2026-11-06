@@ -60,7 +60,7 @@ An Act to provide for the establishment of a Passenger Transport Board for an ar
 
 For the purposes of sub-paragraph (ii) of paragraph (e) of this subsection and of paragraph (a) of subsection (6) of section fourteen of this Act the undertaking of the Westminster Omnibus Company, Limited, and the undertaking of the Westminster Coaching Services, Limited, shall be deemed to be one undertaking owned by the Westminster Omnibus Company, Limited.
 
-(3)[^key-675cae970d092670928521f45934303c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-675cae970d092670928521f45934303c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subject to the provisions of this Act, the Executive, on the transfer of any undertaking specified in Parts I, II, III or VI of the Second Schedule to this Act—
 
@@ -94,13 +94,13 @@ For the purposes of sub-paragraph (ii) of paragraph (e) of this subsection and o
 
 #### 18. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c607072]
 
-#### 19. Provision of service of passenger vessels on River Thames.[^key-03f0685187ebf523617d72494431e331]
+#### 19. Provision of service of passenger vessels on River Thames.[^c-03f0685187ebf523617d72494431e331]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 20—22. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c607087]
 
-#### 23. Power to abandon tramway systems.[^key-c20c5e7c9eb5a8b13e2e7a406eb0d470]
+#### 23. Power to abandon tramway systems.[^c-c20c5e7c9eb5a8b13e2e7a406eb0d470]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -223,7 +223,7 @@ Provided that the managers of the said fund or bank may at any time, at the join
 
 ## Part VIII — Transitional and Supplemental Provisions
 
-### 81. Exemption from stamp duties.[^key-5122e2411f91b7842b20d49800380517]
+### 81. Exemption from stamp duties.[^c-5122e2411f91b7842b20d49800380517]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -349,7 +349,7 @@ Provided that (a) the payments to be made by the amalgamated railway companies u
 
 (22) The trust deed hereinbefore referred to shall be executed between the Metropolitan Company of the first part and such other persons as may be agreed between the Metropolitan Company and the amalgamated railway companies, or, in default of agreement, as may be appointed by the Minister, as trustees of the second part, and each of the amalgamated railway companies of the other parts, and shall contain such trusts, terms, and conditions as may be necessary or expedient having regard to the provisions of this section and such other terms and conditions of a like nature to the terms and conditions relating to the administration of the trust which are contained in the trust deed which is referred to as the old trust deed in Part III of the Third Schedule to this Act as are not inconsistent with the provisions of this section.
 
-(23)[^key-01d076047d84a06fbefb68d93a318526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(23)[^c-01d076047d84a06fbefb68d93a318526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (24) In this section, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively:—
 
@@ -362,7 +362,7 @@ Provided that (a) the payments to be made by the amalgamated railway companies u
 
 ### 92. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c607288]
 
-### 93. Protection for statutory gas and water undertakers.[^key-6341c93bcb5d4fc1db8a776625715c7b]
+### 93. Protection for statutory gas and water undertakers.[^c-6341c93bcb5d4fc1db8a776625715c7b]
 
 (1) The following provisions shall, unless otherwise agreed between the Executive[^c607289] and the undertakers, have effect in relation to the abandonment of any tramway, or any part of any such tramway, under or by virtue of section twenty-three of this Act.
 
@@ -387,7 +387,7 @@ Provided that paragraph (1) of the said section (which relates to the giving of 
 
 ### 97. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c607298]
 
-### 98. Provisions as to undertaking of Surplus Lands Committee.[^key-27b3cda6151ed85196cd4463f84d58c2]
+### 98. Provisions as to undertaking of Surplus Lands Committee.[^c-27b3cda6151ed85196cd4463f84d58c2]
 
 (1) The Metropolitan Railway Company shall, as soon as practicable after the passing of this Act, cause a company (in this section referred to as “**the limited company**”) to be formed and incorporated under the [^c607299]Companies Act 1929 as a company limited by shares and registered with a memorandum and articles of association in such form as may be approved by a resolution passed by the holders of surplus lands stock of the Metropolitan Railway Company (in this section referred to as “**surplus lands stock**”) in general meeting.
 
@@ -875,7 +875,7 @@ Any compensation granted, whether by the Executive[^c607405] or by the arbitrato
 
 [^c607040]: Marginal citation: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
 
-[^key-675cae970d092670928521f45934303c]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/5/3) repealed by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-675cae970d092670928521f45934303c]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/5/3) repealed by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c607056]: Marginal citation: [1929 c. 23](https://www.legislation.gov.uk/ukpga/1929/23).
 
@@ -895,11 +895,11 @@ Any compensation granted, whether by the Executive[^c607405] or by the arbitrato
 
 [^c607072]: Textual amendment: [Ss. 18](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/18), [20–22](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/20) repealed by [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1962/46/schedule/12/part/II)
 
-[^key-03f0685187ebf523617d72494431e331]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/19) omitted (15.7.2003) by virtue of [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/1/2)
+[^c-03f0685187ebf523617d72494431e331]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/19) omitted (15.7.2003) by virtue of [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/1/2)
 
 [^c607087]: Textual amendment: [Ss. 18](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/18), [20–22](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/20) repealed by [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1962/46/schedule/12/part/II)
 
-[^key-c20c5e7c9eb5a8b13e2e7a406eb0d470]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/23) omitted (15.7.2003) by virtue of [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/1/3)
+[^c-c20c5e7c9eb5a8b13e2e7a406eb0d470]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/23) omitted (15.7.2003) by virtue of [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/1/3)
 
 [^c607103]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/24) repealed (E.W.) by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3)(*b*), Sch. 7
 
@@ -961,7 +961,7 @@ Any compensation granted, whether by the Executive[^c607405] or by the arbitrato
 
 [^c607244]: Textual amendment: Words added by London Passenger Transport Act 1935 (c. cx), s. 90
 
-[^key-5122e2411f91b7842b20d49800380517]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/81) repealed by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-5122e2411f91b7842b20d49800380517]: Textual amendment: [S. 81](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/81) repealed by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c607252]: Textual amendment: [Ss. 81(2)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/81/2), [82–84](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/82), [85(1)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/85/1), [87](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/87), [90](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/90), [91](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/91) repealed by [Statute Law Revision Act 1960 (c. 56)](https://www.legislation.gov.uk/ukpga/1960/56)
 
@@ -985,13 +985,13 @@ Any compensation granted, whether by the Executive[^c607405] or by the arbitrato
 
 [^c607284]: Textual amendment: Words substituted by virtue of [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1962/46/schedule/2/part/I) and [Transport (London) Act 1969 (c. 35)](https://www.legislation.gov.uk/ukpga/1969/35), [Sch. 3 para. 1(1)(2)(g)](https://www.legislation.gov.uk/ukpga/1969/35/schedule/3/paragraph/1/1/2/g)
 
-[^key-01d076047d84a06fbefb68d93a318526]: Textual amendment: [S. 89(23)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/89/23) repealed by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-01d076047d84a06fbefb68d93a318526]: Textual amendment: [S. 89(23)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/89/23) repealed by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c607287]: Textual amendment: [Ss. 81(2)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/81/2), [82–84](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/82), [85(1)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/85/1), [87](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/87), [90](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/90), [91](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/91) repealed by [Statute Law Revision Act 1960 (c. 56)](https://www.legislation.gov.uk/ukpga/1960/56)
 
 [^c607288]: Textual amendment: [S. 92](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/92) repealed by [Local Government Act 1948 (c. 26)](https://www.legislation.gov.uk/ukpga/1948/26), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1948/26/schedule/2/part/III)
 
-[^key-6341c93bcb5d4fc1db8a776625715c7b]: Modification: [S. 93](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/93) applied (15.7.2003) by [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 2 Pt. 2(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/2/part/2/1)
+[^c-6341c93bcb5d4fc1db8a776625715c7b]: Modification: [S. 93](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/93) applied (15.7.2003) by [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 2 Pt. 2(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/2/part/2/1)
 
 [^c607289]: Textual amendment: Words substituted by virtue of [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 2 Pt. I](https://www.legislation.gov.uk/ukpga/1962/46/schedule/2/part/I) and [Transport (London) Act 1969 (c. 35)](https://www.legislation.gov.uk/ukpga/1969/35), [Sch. 3 para. 1(1)(2)(g)](https://www.legislation.gov.uk/ukpga/1969/35/schedule/3/paragraph/1/1/2/g)
 
@@ -1005,7 +1005,7 @@ Any compensation granted, whether by the Executive[^c607405] or by the arbitrato
 
 [^c607298]: Textual amendment: [S. 97](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/97) repealed by [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1962/46/schedule/12/part/II)
 
-[^key-27b3cda6151ed85196cd4463f84d58c2]: Modification: [S. 98](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/98) applied (15.7.2003) by [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 2 Pt. 2(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/2/part/2/1)
+[^c-27b3cda6151ed85196cd4463f84d58c2]: Modification: [S. 98](https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/section/98) applied (15.7.2003) by [Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 2 Pt. 2(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/2/part/2/1)
 
 [^c607299]: Marginal citation: [1929 c. 23](https://www.legislation.gov.uk/ukpga/1929/23).
 

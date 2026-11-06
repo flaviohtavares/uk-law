@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Jurisdiction to try offences[^key-9a1a17c6f8758c50d0c72c69993d7b52]
+## 62. Jurisdiction to try offences[^c-9a1a17c6f8758c50d0c72c69993d7b52]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a1a17c6f8758c50d0c72c69993d7b52]: Commencement: Reg. 62 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-9a1a17c6f8758c50d0c72c69993d7b52]: Commencement: Reg. 62 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500381]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).

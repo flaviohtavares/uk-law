@@ -77,7 +77,7 @@ An Act to amend the Exchequer and Audit Departments Acts 1866 and 1889.
 
 ## 9. Minor amendments of 29 & 30 Vict. c. 39.
 
-(1)[^key-499d42970ec8c878c1f69736582e5f41][^c582399] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-499d42970ec8c878c1f69736582e5f41][^c582399] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c582400] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -85,7 +85,7 @@ An Act to amend the Exchequer and Audit Departments Acts 1866 and 1889.
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c582402]
 
-(5)[^key-a8b0791452952e7e6f7901076fd8838d][^c582399] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a8b0791452952e7e6f7901076fd8838d][^c582399] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10. Short title, construction, and repeal.
 
@@ -135,7 +135,7 @@ An Act to amend the Exchequer and Audit Departments Acts 1866 and 1889.
 
 [^c582394]: Textual amendment: [S. 8(4)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/52/section/8/4) repealed by [Statute Law (Repeals) Act 1975 (c. 10)](https://www.legislation.gov.uk/ukpga/1975/10), [Sch. Pt. VII](https://www.legislation.gov.uk/ukpga/1975/10/schedule/part/VII)
 
-[^key-499d42970ec8c878c1f69736582e5f41]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/52/section/9/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
+[^c-499d42970ec8c878c1f69736582e5f41]: Textual amendment: [S. 9(1)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/52/section/9/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
 
 [^c582399]: Modification: The text of s. 9(1)(3)(5) and Sch. 1 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -143,7 +143,7 @@ An Act to amend the Exchequer and Audit Departments Acts 1866 and 1889.
 
 [^c582402]: Textual amendment: S. 9(4) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
-[^key-a8b0791452952e7e6f7901076fd8838d]: Textual amendment: [S. 9(5)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/52/section/9/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
+[^c-a8b0791452952e7e6f7901076fd8838d]: Textual amendment: [S. 9(5)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/52/section/9/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
 
 [^c582404]: Textual amendment: [S. 10(2)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/52/section/10/2) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Recovery of costs of new connections[^key-a7802348cc844f4382eee24925c0d1a8]
+## 41. Recovery of costs of new connections[^c-a7802348cc844f4382eee24925c0d1a8]
 
 *Extent: E+W*
 
 (1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 39 (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from the undertaker compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
-(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 38 (temporary use of land for maintaining the authorised development)[^key-29fdeb65e21332373a545cb51a1a6d45], any person who is—
+(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 38 (temporary use of land for maintaining the authorised development)[^c-29fdeb65e21332373a545cb51a1a6d45], any person who is—
 
 - (a) the owner or occupier of premises the drains of which communicated with that sewer; or
 - (b) the owner of a private sewer which communicated with that sewer,
@@ -38,6 +38,6 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-a7802348cc844f4382eee24925c0d1a8]: Commencement: Art. 41 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-a7802348cc844f4382eee24925c0d1a8]: Commencement: Art. 41 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-29fdeb65e21332373a545cb51a1a6d45]: Textual amendment: Words in [art. 41(2)](https://www.legislation.gov.uk/uksi/2022/934/article/41/2) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-29fdeb65e21332373a545cb51a1a6d45]: Textual amendment: Words in [art. 41(2)](https://www.legislation.gov.uk/uksi/2022/934/article/41/2) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)

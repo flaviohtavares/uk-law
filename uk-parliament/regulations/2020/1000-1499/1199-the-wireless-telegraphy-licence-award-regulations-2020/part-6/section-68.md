@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Bidding for numbered 3.6 GHz lots in the assignment stage[^key-c648964955efb049ba9eca45a1cdc09b]
+## 68. Bidding for numbered 3.6 GHz lots in the assignment stage[^c-c648964955efb049ba9eca45a1cdc09b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c648964955efb049ba9eca45a1cdc09b]: Commencement: Reg. 68 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c648964955efb049ba9eca45a1cdc09b]: Commencement: Reg. 68 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

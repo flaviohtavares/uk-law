@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Potatoes Originating in Egypt (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-1e5b97d1fe493538d802e71a7254f4f0]
+The Potatoes Originating in Egypt (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-1e5b97d1fe493538d802e71a7254f4f0]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into operation
 
 5th March 2001
 
-[^key-1e5b97d1fe493538d802e71a7254f4f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e5b97d1fe493538d802e71a7254f4f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1e5b97d1fe493538d802e71a7254f4f0]
+## 1. Citation, commencement and interpretation[^c-1e5b97d1fe493538d802e71a7254f4f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt Regulations (Northern Ireland) 1998[^key-1e5b97d1fe493538d802e71a7254f4f0]
+## 2. Amendment of the Potatoes Originating in Egypt Regulations (Northern Ireland) 1998[^c-1e5b97d1fe493538d802e71a7254f4f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e5b97d1fe493538d802e71a7254f4f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e5b97d1fe493538d802e71a7254f4f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — New Schedule to the Potatoes Originating in Egypt Regulations (Northern Ireland) 1998[^key-1e5b97d1fe493538d802e71a7254f4f0]
+## SCHEDULE — New Schedule to the Potatoes Originating in Egypt Regulations (Northern Ireland) 1998[^c-1e5b97d1fe493538d802e71a7254f4f0]
 
 Regulation 2(3)
 
-> **SCHEDULE — Instruments amending Commission Decision [96/301/EC](https://www.legislation.gov.uk/european/decision/1996/0301)[^key-1e5b97d1fe493538d802e71a7254f4f0]**
+> **SCHEDULE — Instruments amending Commission Decision [96/301/EC](https://www.legislation.gov.uk/european/decision/1996/0301)[^c-1e5b97d1fe493538d802e71a7254f4f0]**
 >
 > Regulation 2
 >
@@ -69,8 +69,8 @@ Regulation 2(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e5b97d1fe493538d802e71a7254f4f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e5b97d1fe493538d802e71a7254f4f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e5b97d1fe493538d802e71a7254f4f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/32) revoked (11.5.2004) by [The Potatoes Originating in Egypt Regulations (Northern Ireland) 2004 (S.R. 2004/183)](https://www.legislation.gov.uk/nisr/2004/183), [regs. 1](https://www.legislation.gov.uk/nisr/2004/183/regulation/1), [8](https://www.legislation.gov.uk/nisr/2004/183/regulation/8), [Sch.](https://www.legislation.gov.uk/nisr/2004/183/schedule)
+[^c-1e5b97d1fe493538d802e71a7254f4f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/32) revoked (11.5.2004) by [The Potatoes Originating in Egypt Regulations (Northern Ireland) 2004 (S.R. 2004/183)](https://www.legislation.gov.uk/nisr/2004/183), [regs. 1](https://www.legislation.gov.uk/nisr/2004/183/regulation/1), [8](https://www.legislation.gov.uk/nisr/2004/183/regulation/8), [Sch.](https://www.legislation.gov.uk/nisr/2004/183/schedule)

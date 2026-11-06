@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Amendment of article 18 (other voting offences)[^key-a480ce070a5659c1f89d8c5396e03881]
+## 58. Amendment of article 18 (other voting offences)[^c-a480ce070a5659c1f89d8c5396e03881]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In article 18 (other voting offences), after paragraph (6) insert—
 
 ## Annotations
 
-[^key-a480ce070a5659c1f89d8c5396e03881]: Commencement: Reg. 58 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-a480ce070a5659c1f89d8c5396e03881]: Commencement: Reg. 58 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

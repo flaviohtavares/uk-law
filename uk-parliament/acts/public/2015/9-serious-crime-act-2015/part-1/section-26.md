@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Appeals[^key-5e7a692ccd6e9983006aa01d039f8dc1]
+## 26. Appeals[^c-5e7a692ccd6e9983006aa01d039f8dc1]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e7a692ccd6e9983006aa01d039f8dc1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2015/9/section/26) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)
+[^c-5e7a692ccd6e9983006aa01d039f8dc1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2015/9/section/26) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)

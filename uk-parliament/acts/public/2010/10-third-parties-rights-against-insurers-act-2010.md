@@ -34,11 +34,11 @@ An Act to make provision about the rights of third parties against insurers of l
 
 \[25th March 2010\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-151807212c9b65a1a914ba913b13345b]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-151807212c9b65a1a914ba913b13345b]
 
 ## Transfer of rights to third parties
 
-### 1. Rights against insurer of insolvent person etc[^key-92166eaa097f02c01db5ccca32773f9c]
+### 1. Rights against insurer of insolvent person etc[^c-92166eaa097f02c01db5ccca32773f9c]
 
 (1) This section applies if—
 
@@ -59,11 +59,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 (5) In this Act—
 
 - (a) references to an “insured” are to a person who incurs or who is subject to a liability to a third party against which that person is insured under a contract of insurance;
-- (b) references to a “relevant person” are to a person within sections 4 to 7 (and see also paragraph 1A of Schedule 3)[^key-60047cf4a988a209902d91414242dad0] ;
+- (b) references to a “relevant person” are to a person within sections 4 to 7 (and see also paragraph 1A of Schedule 3)[^c-60047cf4a988a209902d91414242dad0] ;
 - (c) references to a “third party” are to be construed in accordance with subsection (2);
 - (d) references to “transferred rights” are to rights under a contract of insurance which are transferred under this section.
 
-### 2. Establishing liability in England and Wales and Northern Ireland[^key-483ee97c7799e781ba2e13cdb920042c]
+### 2. Establishing liability in England and Wales and Northern Ireland[^c-483ee97c7799e781ba2e13cdb920042c]
 
 *Extent: E+W+N.I.*
 
@@ -95,7 +95,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) In this section, references to the insurer's potential liability to P are references to the insurer's liability in respect of the insured's liability to P, if established.
 
-### 3. Establishing liability in Scotland[^key-4b613d11a4ab9202d47ed8169a9ce002]
+### 3. Establishing liability in Scotland[^c-4b613d11a4ab9202d47ed8169a9ce002]
 
 *Extent: S*
 
@@ -127,57 +127,57 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Relevant persons
 
-### 4. Individuals[^key-ab8af6d14599a6f2a257360c5910675b]
+### 4. Individuals[^c-ab8af6d14599a6f2a257360c5910675b]
 
 (1) An individual is a relevant person if any of the following is in force in respect of that individual in England and Wales—
 
-- (a)[^key-f3ca0553aefbea233e031aa1b02b590f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f3ca0553aefbea233e031aa1b02b590f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an administration order made under Part 6 of the County Courts Act 1984,
 - (c) an enforcement restriction order made under Part 6A of that Act,
 - (d) subject to subsection (4), a debt relief order made under Part 7A of the Insolvency Act 1986,
 - (e) a voluntary arrangement approved in accordance with Part 8 of that Act, or
 - (f) a bankruptcy order made under Part 9 of that Act.
 
-(2) An individual is a relevant person if either[^key-4c654e953724d03ca48f1d2c4ec7c09e] of the following is in force in respect of the individual’s estate[^key-03cbe1a9264643707d38ea6f083d3e79] in Scotland—
+(2) An individual is a relevant person if either[^c-4c654e953724d03ca48f1d2c4ec7c09e] of the following is in force in respect of the individual’s estate[^c-03cbe1a9264643707d38ea6f083d3e79] in Scotland—
 
-- (a) an award of sequestration made by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016[^key-e41bb27e37534c9e47596c50cc357c2a], or[^key-c8735a88fed9cf88c6ca0336d2478e91]
-- (b) a protected trust deed within the meaning of that Act, [^key-95d1cfab9db72e8c7b0955d11accb590]...
-- (c)[^key-95d1cfab9db72e8c7b0955d11accb590] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an award of sequestration made by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016[^c-e41bb27e37534c9e47596c50cc357c2a], or[^c-c8735a88fed9cf88c6ca0336d2478e91]
+- (b) a protected trust deed within the meaning of that Act, [^c-95d1cfab9db72e8c7b0955d11accb590]...
+- (c)[^c-95d1cfab9db72e8c7b0955d11accb590] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An individual is a relevant person if any of the following is in force in respect of that individual in Northern Ireland—
 
 - (a) an administration order made under Part 6 of the Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/226 (N.I. 6)),
 - (b) a deed of arrangement registered in accordance with Chapter 1 of Part 8 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)),
-- (ba)[^key-0615f7e5d23e16459b15ce65f1cd52db] subject to subsection (4), a debt relief order made under Part 7A of that Order,
+- (ba)[^c-0615f7e5d23e16459b15ce65f1cd52db] subject to subsection (4), a debt relief order made under Part 7A of that Order,
 - (c) a voluntary arrangement approved under Chapter 2 of Part 8 of that Order, or
 - (d) a bankruptcy order made under Part 9 of that Order.
 
-(4) If an individual is a relevant person by virtue of subsection (1)(d) or (3)(ba)[^key-6cdf8490680f5f4c40abc2038c824838], that person is a relevant person for the purposes of section 1(1)(b) only.
+(4) If an individual is a relevant person by virtue of subsection (1)(d) or (3)(ba)[^c-6cdf8490680f5f4c40abc2038c824838], that person is a relevant person for the purposes of section 1(1)(b) only.
 
-(5) Where an award of sequestration made by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016[^key-618bb2f1a97778da1a3750805ca61ea2] is recalled or reduced, any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
+(5) Where an award of sequestration made by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016[^c-618bb2f1a97778da1a3750805ca61ea2] is recalled or reduced, any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
 
-(6)[^key-4048ec506fec06f9914d88799efac05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4048ec506fec06f9914d88799efac05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Individuals who die insolvent[^key-2447e0667f48a0b79f64e997d6787718]
+### 5. Individuals who die insolvent[^c-2447e0667f48a0b79f64e997d6787718]
 
 (1) An individual who dies insolvent is a relevant person for the purposes of section 1(1)(b) only.
 
 (2) For the purposes of this section an individual (D) is to be regarded as having died insolvent if, following D's death—
 
 - (a) D's estate falls to be administered in accordance with an order under section 421 of the Insolvency Act 1986 or Article 365 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N. I. 19)),
-- (b) an award of sequestration is made by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016[^key-c26e0ad663b51941f2eb2046ab863699] in respect of D's estate and the award is not recalled or reduced, or
-- (c) a judicial factor is appointed under section 11A of the Judicial Factors (Scotland) Act 1889 in respect of D's estate and the judicial factor certifies that the estate is absolutely insolvent within the meaning of the Bankruptcy (Scotland) Act 2016[^key-7b412e1857e3d07abc8298c08ae5f0b8].
+- (b) an award of sequestration is made by virtue of section 2 or 5 of the Bankruptcy (Scotland) Act 2016[^c-c26e0ad663b51941f2eb2046ab863699] in respect of D's estate and the award is not recalled or reduced, or
+- (c) a judicial factor is appointed under section 11A of the Judicial Factors (Scotland) Act 1889 in respect of D's estate and the judicial factor certifies that the estate is absolutely insolvent within the meaning of the Bankruptcy (Scotland) Act 2016[^c-7b412e1857e3d07abc8298c08ae5f0b8].
 
 (3) Where a transfer of rights under section 1 takes place as a result of an insured person being a relevant person by virtue of this section, references in this Act to an insured are, where the context so requires, to be read as references to the insured's estate.
 
-### 6. Corporate bodies etc[^key-6a1f83ba53aaec42edd803c80e60b144]
+### 6. Corporate bodies etc[^c-6a1f83ba53aaec42edd803c80e60b144]
 
-(1)[^key-3681c2c2a26bfd7e221a35d251e65a4a] A body corporate or unincorporated body is a relevant person if a compromise or arrangement between the body and its creditors (or a class of them) is in force, having been sanctioned in accordance with section 899 or 901F[^key-68e93695d0ccc4aae33d2680a2c8ff2f] of the Companies Act 2006.
+(1)[^c-3681c2c2a26bfd7e221a35d251e65a4a] A body corporate or unincorporated body is a relevant person if a compromise or arrangement between the body and its creditors (or a class of them) is in force, having been sanctioned in accordance with section 899 or 901F[^c-68e93695d0ccc4aae33d2680a2c8ff2f] of the Companies Act 2006.
 
 (2) A body corporate or an unincorporated body is a relevant person if, in England and Wales or Scotland—
 
 - (a) a voluntary arrangement approved in accordance with Part 1 of the Insolvency Act 1986 is in force in respect of it,
-- (b)[^key-e87bd3495c0c908354a57eefa2d1766f] the body is in administration under Schedule B1 to that Act,
+- (b)[^c-e87bd3495c0c908354a57eefa2d1766f] the body is in administration under Schedule B1 to that Act,
 - (c) there is a person appointed in accordance with Part 3 of that Act who is acting as receiver or manager of the body's property (or there would be such a person so acting but for a temporary vacancy),
 - (d) the body is, or is being, wound up voluntarily in accordance with Chapter 2 of Part 4 of that Act,
 - (e) there is a person appointed under section 135 of that Act who is acting as provisional liquidator in respect of the body (or there would be such a person so acting but for a temporary vacancy), or
@@ -185,40 +185,40 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) A body corporate or an unincorporated body is a relevant person if, in Scotland—
 
-- (a) an award of sequestration has been made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^key-a7c6fa523daa4ac1ec77d81d7cf390f1] in respect of the body's estate, and the body has not been discharged under that Act,
-- (b) the body has been dissolved and an award of sequestration has been made by virtue of[^key-a4905347893322a49a3433b17dbad10b] that section in respect of its estate, or[^key-8fce0f1148a5113a23ff7ffdb5479860]
-- (c) a protected trust deed within the meaning of the Bankruptcy (Scotland) Act 2016[^key-b6bb8767b32460d54548018258aa1708] is in force in respect of the body's estate, [^key-e2efd9d327e9c5fbf74934c1ef7e4815]...
-- (d)[^key-e2efd9d327e9c5fbf74934c1ef7e4815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an award of sequestration has been made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^c-a7c6fa523daa4ac1ec77d81d7cf390f1] in respect of the body's estate, and the body has not been discharged under that Act,
+- (b) the body has been dissolved and an award of sequestration has been made by virtue of[^c-a4905347893322a49a3433b17dbad10b] that section in respect of its estate, or[^c-8fce0f1148a5113a23ff7ffdb5479860]
+- (c) a protected trust deed within the meaning of the Bankruptcy (Scotland) Act 2016[^c-b6bb8767b32460d54548018258aa1708] is in force in respect of the body's estate, [^c-e2efd9d327e9c5fbf74934c1ef7e4815]...
+- (d)[^c-e2efd9d327e9c5fbf74934c1ef7e4815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A body corporate or an unincorporated body is a relevant person if, in Northern Ireland—
 
 - (a) a voluntary arrangement approved in accordance with Part 2 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N. I. 19)) is in force in respect of the body,
-- (b)[^key-a916462cc92a7bc43be06bc1828abadf] the body is in administration under Schedule B1 to that Order,
+- (b)[^c-a916462cc92a7bc43be06bc1828abadf] the body is in administration under Schedule B1 to that Order,
 - (c) there is a person appointed in accordance with Part 4 of that Order who is acting as receiver or manager of the body's property (or there would be such a person so acting but for a temporary vacancy),
 - (d) the body is, or is being, wound up voluntarily in accordance with Chapter 2 of Part 5 of that Order,
 - (e) there is a person appointed under Article 115 of that Order who is acting as provisional liquidator in respect of the body (or there would be such a person so acting but for a temporary vacancy), or
 - (f) the body is, or is being, wound up by the court following the making of a winding-up order under Chapter 6 of Part 5 of that Order or Part 6 of that Order.
 
-(4A)[^key-b458ac8210a7bd9b7cf1f67c1695fefc] A body corporate or unincorporated body is a relevant person if it is in insolvency under Part 2 of the Banking Act 2009.
+(4A)[^c-b458ac8210a7bd9b7cf1f67c1695fefc] A body corporate or unincorporated body is a relevant person if it is in insolvency under Part 2 of the Banking Act 2009.
 
 (4B) A body corporate or unincorporated body is a relevant person if it is in administration under relevant sectoral legislation as defined in Schedule A1.
 
-(5) A body within subsection (1)[^key-0f51546a80c1bbb037e0c3d32a26dc74] is not a relevant person in relation to a liability that is transferred to another body by the order sanctioning the compromise or arrangement.
+(5) A body within subsection (1)[^c-0f51546a80c1bbb037e0c3d32a26dc74] is not a relevant person in relation to a liability that is transferred to another body by the order sanctioning the compromise or arrangement.
 
-(6) Where a body is a relevant person by virtue of subsection (1)[^key-5e718696e3d912a586b9ed16644157a1], section 1 has effect to transfer rights only to a person on whom the compromise or arrangement is binding.
+(6) Where a body is a relevant person by virtue of subsection (1)[^c-5e718696e3d912a586b9ed16644157a1], section 1 has effect to transfer rights only to a person on whom the compromise or arrangement is binding.
 
-(7) Where an award of sequestration made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^key-bf3acdedb9058736396b82d8c5285c8c] is recalled or reduced, any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
+(7) Where an award of sequestration made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^c-bf3acdedb9058736396b82d8c5285c8c] is recalled or reduced, any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
 
-(8)[^key-40af2a33b11c480773e8b17e37748613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-40af2a33b11c480773e8b17e37748613] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this section—
 
 - (a) a reference to a person appointed in accordance with Part 3 of the Insolvency Act 1986 includes a reference to a person appointed under section 101 of the Law of Property Act 1925;
 - (b) a reference to a receiver or manager of a body's property includes a reference to a receiver or manager of part only of the property and to a receiver only of the income arising from the property or from part of it;
-- (c) for the purposes of subsection (3) “**body corporate or unincorporated body**” includes any entity, other than a trust, the estate of which may be sequestrated by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^key-9fbd86d86f605128fb83a8ace58dbcf7];
+- (c) for the purposes of subsection (3) “**body corporate or unincorporated body**” includes any entity, other than a trust, the estate of which may be sequestrated by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^c-9fbd86d86f605128fb83a8ace58dbcf7];
 - (d) a reference to a person appointed in accordance with Part 4 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N. I. 19)) includes a reference to a person appointed under section 19 of the Conveyancing Act 1881.
 
-### 6A. Corporate bodies etc that are dissolved[^key-7712d59579395860985a9041c41859c8]
+### 6A. Corporate bodies etc that are dissolved[^c-7712d59579395860985a9041c41859c8]
 
 (1) A body corporate or unincorporated body is a relevant person if the body has been dissolved, subject to the exceptions in subsections (2) and (3).
 
@@ -228,27 +228,27 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) For the purposes of this section, “dissolved” means dissolved under the law of England and Wales, Scotland or Northern Ireland (whether or not by a process referred to as dissolution).
 
-### 7. Scottish trusts[^key-1a01215963065c9e65b2eaa5031b38d1]
+### 7. Scottish trusts[^c-1a01215963065c9e65b2eaa5031b38d1]
 
 (1) A trustee of a Scottish trust is, in respect of a liability of that trustee that falls to be met out of the trust estate, a relevant person if—
 
-- (a) an award of sequestration has been made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^key-7f1a19b4c7221b09541347546a6ddef6] in respect of the trust estate, and the trust has not been discharged under that Act, or[^key-54ef50c23dee0be53903dfa59f274a9d]
-- (b) a protected trust deed within the meaning of that Act is in force in respect of the trust estate, [^key-7a888d2299101015251a74fa39aae0b8]...
-- (c)[^key-7a888d2299101015251a74fa39aae0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an award of sequestration has been made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^c-7f1a19b4c7221b09541347546a6ddef6] in respect of the trust estate, and the trust has not been discharged under that Act, or[^c-54ef50c23dee0be53903dfa59f274a9d]
+- (b) a protected trust deed within the meaning of that Act is in force in respect of the trust estate, [^c-7a888d2299101015251a74fa39aae0b8]...
+- (c)[^c-7a888d2299101015251a74fa39aae0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where an award of sequestration made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^key-a514c1af7422f4dc3c4b9a770d1523c8] is recalled or reduced any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
+(2) Where an award of sequestration made by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^c-a514c1af7422f4dc3c4b9a770d1523c8] is recalled or reduced any rights which were transferred under section 1 as a result of that award are re-transferred to and vest in the person who became a relevant person as a result of the award.
 
-(3)[^key-fade8ff9856db31e29e902edc689086c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fade8ff9856db31e29e902edc689086c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In this section “**Scottish trust**” means a trust the estate of which may be sequestrated by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^key-2b4329563888ee49fd3b65dfd72ebd7a].
+(4) In this section “**Scottish trust**” means a trust the estate of which may be sequestrated by virtue of section 6 of the Bankruptcy (Scotland) Act 2016[^c-2b4329563888ee49fd3b65dfd72ebd7a].
 
 ## Transferred rights: supplemental
 
-### 8. Limit on rights transferred[^key-3569fff4ae8ac86ade02bda1a0d6119d]
+### 8. Limit on rights transferred[^c-3569fff4ae8ac86ade02bda1a0d6119d]
 
 Where the liability of an insured to a third party is less than the liability of the insurer to the insured (ignoring the effect of section 1), no rights are transferred under that section in respect of the difference.
 
-### 9. Conditions affecting transferred rights[^key-3c892176ce4759d46fcdbfd1f54bb26c]
+### 9. Conditions affecting transferred rights[^c-3c892176ce4759d46fcdbfd1f54bb26c]
 
 (1) This section applies where transferred rights are subject to a condition (whether under the contract of insurance from which the transferred rights are derived or otherwise) that the insured has to fulfil.
 
@@ -256,8 +256,8 @@ Where the liability of an insured to a third party is less than the liability of
 
 (3) The transferred rights are not subject to a condition requiring the insured to provide information or assistance to the insurer if that condition cannot be fulfilled because the insured is—
 
-- (a) an individual who has died, [^key-51d08bd43efad03954e33fcabb829a02]...
-- (b) a body corporate that has been dissolved, or[^key-c72c6ecc8e5e2c866844b80b155e9292]
+- (a) an individual who has died, [^c-51d08bd43efad03954e33fcabb829a02]...
+- (b) a body corporate that has been dissolved, or[^c-c72c6ecc8e5e2c866844b80b155e9292]
 - (c) an unincorporated body, other than a partnership, that has been dissolved.
 
 (4) A condition requiring the insured to provide information or assistance to the insurer does not include a condition requiring the insured to notify the insurer of the existence of a claim under the contract of insurance.
@@ -269,15 +269,15 @@ Where the liability of an insured to a third party is less than the liability of
 (7) In this section—
 
 - “**contract of marine insurance**” has the meaning given by section 1 of the Marine Insurance Act 1906;
-- [^key-c43ef203c003581e30b338182712399c]...
+- [^c-c43ef203c003581e30b338182712399c]...
 - “**personal injury**” includes any disease and any impairment of a person's physical or mental condition.
 
-(8)[^key-304a35e64fd37acf5b78bde5353c5a9c] For the purposes of this section—
+(8)[^c-304a35e64fd37acf5b78bde5353c5a9c] For the purposes of this section—
 
 - (a) “dissolved” means dissolved under the law of England and Wales, Scotland or Northern Ireland (whether or not by a process referred to as dissolution), and
 - (b) a body has been dissolved even if, since it was dissolved, something has happened which has the effect that (but for this paragraph) the body is treated as not having been dissolved or as no longer being dissolved.
 
-### 10. Insurer's right of set off[^key-85d1a5c804ef80e4f710b7ab9d7bf362]
+### 10. Insurer's right of set off[^c-85d1a5c804ef80e4f710b7ab9d7bf362]
 
 (1) This section applies if—
 
@@ -289,13 +289,13 @@ Where the liability of an insured to a third party is less than the liability of
 
 ## Provision of information etc
 
-### 11. Information and disclosure for third parties[^key-41b7ae581c8b69a10bb6121b63824ae0]
+### 11. Information and disclosure for third parties[^c-41b7ae581c8b69a10bb6121b63824ae0]
 
 Schedule 1 (information and disclosure for third parties) has effect.
 
 ## Enforcement of transferred rights
 
-### 12. Limitation and prescription[^key-f6d07abdb740fa458cb0711b7fe7e8cf]
+### 12. Limitation and prescription[^c-f6d07abdb740fa458cb0711b7fe7e8cf]
 
 (1) Subsection (2) applies where a person brings proceedings for a declaration under section 2(2)(a), or for a declarator under section 3(2)(a), and the proceedings are started or, in Scotland, commenced—
 
@@ -312,7 +312,7 @@ Schedule 1 (information and disclosure for third parties) has effect.
 - (b) that, for the purposes of the law of prescription in Scotland, the obligation in respect of which the proceedings are brought became enforceable against the insurer otherwise than at that time, or
 - (c) that, for the purposes of the law of limitation in Northern Ireland, that person's cause of action against the insurer arose otherwise than at the time when that person established the liability of the insured.
 
-### 13. Jurisdiction within the United Kingdom[^key-9f590cd5b7d17d06f26c075c0f02ded3]
+### 13. Jurisdiction within the United Kingdom[^c-9f590cd5b7d17d06f26c075c0f02ded3]
 
 (1) Where a person (P) domiciled in a part of the United Kingdom is entitled to bring proceedings under this Act against an insurer domiciled in another part, P may do so in the part where P is domiciled or in the part where the insurer is domiciled (whatever the contract of insurance may stipulate as to where proceedings are to be brought).
 
@@ -331,21 +331,21 @@ Schedule 1 (information and disclosure for third parties) has effect.
 
 ## Enforcement of insured's liability
 
-### 14. Effect of transfer on insured's liability[^key-8b9223e893d65e129e2b80637fd8e37c]
+### 14. Effect of transfer on insured's liability[^c-8b9223e893d65e129e2b80637fd8e37c]
 
 (1) Where rights in respect of an insured's liability to a third party are transferred under section 1, the third party may enforce that liability against the insured only to the extent (if any) that it exceeds the amount recoverable from the insurer by virtue of the transfer.
 
 (2) Subsection (3) applies if a transfer of rights under section 1 occurs because the insured person is a relevant person by virtue of—
 
 - (a) section 4(1)(a) or (e), (2)(b) or (3)(b) or (c),
-- (b) section 6(1)[^key-f68a4fd321470c05dcd8dfc8427aa8d5], (2)(a), (3)(c) or (4)(a), or
+- (b) section 6(1)[^c-f68a4fd321470c05dcd8dfc8427aa8d5], (2)(a), (3)(c) or (4)(a), or
 - (c) section 7(1)(b).
 
 (3) If the liability is subject to the arrangement, trust deed or compromise by virtue of which the insured is a relevant person, the liability is to be treated as subject to that arrangement, trust deed or compromise only to the extent that the liability exceeds the amount recoverable from the insurer by virtue of the transfer.
 
-(4)[^key-0eda8e310a3b14859096827ee1d0dfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0eda8e310a3b14859096827ee1d0dfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0eda8e310a3b14859096827ee1d0dfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0eda8e310a3b14859096827ee1d0dfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of this section the amount recoverable from the insurer does not include any amount that the third party is unable to recover as a result of—
 
@@ -359,15 +359,15 @@ Schedule 1 (information and disclosure for third parties) has effect.
 
 ## Application of Act
 
-### 15. Reinsurance[^key-dd9ab6ac5da0556c50521f80d4de696f]
+### 15. Reinsurance[^c-dd9ab6ac5da0556c50521f80d4de696f]
 
 This Act does not apply to a case where the liability referred to in section 1(1) is itself a liability incurred by an insurer under a contract of insurance.
 
-### 16. Voluntarily-incurred liabilities[^key-7ed675d7905ce8edd0daf077e066a5cc]
+### 16. Voluntarily-incurred liabilities[^c-7ed675d7905ce8edd0daf077e066a5cc]
 
 It is irrelevant for the purposes of section 1 whether or not the liability of the insured is or was incurred voluntarily.
 
-### 17. Avoidance[^key-1f752835894c3165c5099eb72d532898]
+### 17. Avoidance[^c-1f752835894c3165c5099eb72d532898]
 
 (1) A contract of insurance to which this section applies is of no effect in so far as it purports, whether directly or indirectly, to avoid or terminate the contract or alter the rights of the parties under it in the event of the insured—
 
@@ -376,7 +376,7 @@ It is irrelevant for the purposes of section 1 whether or not the liability of t
 
 (2) A contract of insurance is one to which this section applies if the insured's rights under it are capable of being transferred under section 1.
 
-### 18. Cases with a foreign element[^key-749cbe2a53c0d3649bf848165003e56a]
+### 18. Cases with a foreign element[^c-749cbe2a53c0d3649bf848165003e56a]
 
 Except as expressly provided, the application of this Act does not depend on whether there is a connection with a part of the United Kingdom; and in particular it does not depend on—
 
@@ -387,7 +387,7 @@ Except as expressly provided, the application of this Act does not depend on whe
 
 ## Supplemental
 
-### 19. Power to change the meaning of “relevant person”[^key-03dc8720257e470532f12231aaaddd75]
+### 19. Power to change the meaning of “relevant person”[^c-03dc8720257e470532f12231aaaddd75]
 
 (1) The Secretary of State may by regulations make provision adding or removing circumstances in which a person is a “ **relevant person** ” for the purposes of this Act, subject to subsection (2).
 
@@ -436,9 +436,9 @@ must provide that, in such a case, the person is to be treated for the purposes 
 
 (11) Regulations under this section may not be made unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
-### 19A. Interpretation[^key-d37cb3ed1692f18f6040aaa49807eb1a]
+### 19A. Interpretation[^c-d37cb3ed1692f18f6040aaa49807eb1a]
 
-(1) The references to enactments in sections 4 to 7 [^key-805354cfb62c3fbbb10067190061652e]... [^key-cd316ab5d26180915e449ecdc2973cae]... , Schedule A1 and paragraph 3(2)(b)[^key-8d7c7ed701031d58345fd23a149263a5] of Schedule 1 are to be treated as including references to those enactments as amended, extended or applied by another enactment, whenever passed or made, unless the contrary intention appears.
+(1) The references to enactments in sections 4 to 7 [^c-805354cfb62c3fbbb10067190061652e]... [^c-cd316ab5d26180915e449ecdc2973cae]... , Schedule A1 and paragraph 3(2)(b)[^c-8d7c7ed701031d58345fd23a149263a5] of Schedule 1 are to be treated as including references to those enactments as amended, extended or applied by another enactment, whenever passed or made, unless the contrary intention appears.
 
 (2) In this Act, “**enactment**” means an enactment contained in, or in an instrument made under, any of the following—
 
@@ -447,7 +447,7 @@ must provide that, in such a case, the person is to be treated for the purposes 
 - (c) an Act of the Scottish Parliament;
 - (d) Northern Ireland legislation.
 
-### 20. Amendments, transitionals, repeals, etc[^key-d1d611d12dd629a624f030db51a1be94]
+### 20. Amendments, transitionals, repeals, etc[^c-d1d611d12dd629a624f030db51a1be94]
 
 (1) Schedule 2 (amendments) has effect.
 
@@ -455,7 +455,7 @@ must provide that, in such a case, the person is to be treated for the purposes 
 
 (3) Schedule 4 (repeals and revocations) has effect.
 
-### 21. Short title, commencement and extent[^key-22f69251dbe57543badece64a2a6a148]
+### 21. Short title, commencement and extent[^c-22f69251dbe57543badece64a2a6a148]
 
 (1) This Act may be cited as the Third Parties (Rights against Insurers) Act 2010.
 
@@ -471,11 +471,11 @@ must provide that, in such a case, the person is to be treated for the purposes 
 
 SCHEDULES
 
-## SCHEDULE A1 — Administration under relevant sectoral legislation[^key-d5a7818690a735c48c740739312f2f6b][^key-8b003671849154188ad3359e0e5b418c]
+## SCHEDULE A1 — Administration under relevant sectoral legislation[^c-d5a7818690a735c48c740739312f2f6b][^c-8b003671849154188ad3359e0e5b418c]
 
 Section 6(4B)
 
-[^key-d5a7818690a735c48c740739312f2f6b]For the purposes of section 6(4B)—
+[^c-d5a7818690a735c48c740739312f2f6b]For the purposes of section 6(4B)—
 
 - (a) a body is in administration under relevant sectoral legislation if the appointment of an administrator of the body under an enactment listed below has effect, and
 - (b) the body does not cease to be in administration merely because an administrator vacates office (by reason of resignation, death or otherwise) or is removed from office.
@@ -506,7 +506,7 @@ Investment Bank Special Administration Regulations 2011 ([S.I. 2011/245](https:/
 
 Part 6 of the Financial Services (Banking Reform) Act 2013
 
-Payment and Electronic Money Institution Insolvency Regulations 2021 ([^key-73374a4d47e97a234a5b9caf00d5b304][S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716))
+Payment and Electronic Money Institution Insolvency Regulations 2021 ([^c-73374a4d47e97a234a5b9caf00d5b304][S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716))
 
 #### Postal Services
 
@@ -530,7 +530,7 @@ Section 11
 
 ### Notices requesting information
 
-**1.**[^key-37b143d61502c415b0543ba38c648c40] (1) If a person (A) reasonably believes that—
+**1.**[^c-37b143d61502c415b0543ba38c648c40] (1) If a person (A) reasonably believes that—
 
 - (a) another person (B) has incurred a liability to A, and
 - (b) B is a relevant person,
@@ -573,7 +573,7 @@ A may, by notice in writing, request from C such information falling within that
 
 ### Provision of information where notice given under paragraph 1
 
-**2.**[^key-12c6d076bb3d48b1bf6909c77f345ac9] (1) A person (R) who receives a notice under paragraph 1 must, within the period of 28 days beginning with the day of receipt of the notice—
+**2.**[^c-12c6d076bb3d48b1bf6909c77f345ac9] (1) A person (R) who receives a notice under paragraph 1 must, within the period of 28 days beginning with the day of receipt of the notice—
 
 - (a) provide to the person who gave the notice any information specified in it that R is able to provide;
 - (b) in relation to any such information that R is not able to provide, notify that person why R is not able to provide it.
@@ -591,14 +591,14 @@ R must, within the period of 28 days beginning with the day of receipt of the no
 
 (4) No duty arises by virtue of this paragraph in respect of information as to which a claim to legal professional privilege or, in Scotland, to confidentiality as between client and professional legal adviser could be maintained in legal proceedings.
 
-### Notices requiring disclosure: bodies that have been dissolved[^key-c0aef1cbd23e989bb3e1388b0dc684fb]
+### Notices requiring disclosure: bodies that have been dissolved[^c-c0aef1cbd23e989bb3e1388b0dc684fb]
 
 *Extent: E+W+N.I.*
 
-**3.**[^key-cbe82106de8120e07b339b9de6ba9eca] (1) If—
+**3.**[^c-cbe82106de8120e07b339b9de6ba9eca] (1) If—
 
-- (a) a person (P) has started proceedings under this Act against an insurer in respect of a liability [^key-6234c037d0a940e1d1e7b72a37b2331b]...
-- (b)[^key-069f2fa5814ae8cf932efab422b7e1cc] P claims the liability has been incurred to P by—
+- (a) a person (P) has started proceedings under this Act against an insurer in respect of a liability [^c-6234c037d0a940e1d1e7b72a37b2331b]...
+- (b)[^c-069f2fa5814ae8cf932efab422b7e1cc] P claims the liability has been incurred to P by—
   - (i) a body corporate, or
   - (ii) an unincorporated body other than a partnership, and
 - (c) the body has been dissolved,
@@ -608,7 +608,7 @@ P may by notice in writing require a person to whom sub-paragraph (2) applies to
 (2) This sub-paragraph applies to a person if—
 
 - (a) immediately before the time of the alleged transfer under section 1, that person was an officer or employee of the body, or
-- (b) immediately before the body was dissolved (or, if it has been dissolved more than once, immediately before it was last dissolved)[^key-f17869874cb94cf8878e09d7c9833e53], that person was—
+- (b) immediately before the body was dissolved (or, if it has been dissolved more than once, immediately before it was last dissolved)[^c-f17869874cb94cf8878e09d7c9833e53], that person was—
   - (i) acting as an insolvency practitioner in relation to the body (within the meaning given by section 388(1) of the Insolvency Act 1986 or Article 3 of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 N.I. 19)), or
   - (ii) acting as the official receiver in relation to the winding up of the body.
 
@@ -617,11 +617,11 @@ P may by notice in writing require a person to whom sub-paragraph (2) applies to
 - (a) a copy of the particulars of claim required to be served in connection with the proceedings mentioned in sub-paragraph (1), or
 - (b) where those proceedings are arbitral proceedings, the particulars of claim that would be required to be so served if they were court proceedings.
 
-(4)[^key-567f047fd0736c0caf7424b624d786be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-567f047fd0736c0caf7424b624d786be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-567f047fd0736c0caf7424b624d786be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-567f047fd0736c0caf7424b624d786be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-77af79eb4d7822a6a2bfca937b45ef3b] For the purposes of this paragraph—
+(6)[^c-77af79eb4d7822a6a2bfca937b45ef3b] For the purposes of this paragraph—
 
 - (a) “dissolved” means dissolved under the law of England and Wales, Scotland or Northern Ireland (whether or not by a process referred to as dissolution), and
 - (b) a body has been dissolved even if, since it was dissolved, something has happened which has the effect that (but for this paragraph) the body is treated as not having been dissolved or as no longer being dissolved.
@@ -630,7 +630,7 @@ P may by notice in writing require a person to whom sub-paragraph (2) applies to
 
 *Extent: E+W+N.I.*
 
-**4.**[^key-4f255fa263ddf052e35ab43231531c57] (1) Subject to the provisions of this paragraph and to any necessary modifications—
+**4.**[^c-4f255fa263ddf052e35ab43231531c57] (1) Subject to the provisions of this paragraph and to any necessary modifications—
 
 - (a) the duties of disclosure of a person who receives a notice under paragraph 3, and
 - (b) the rights of inspection of the person giving the notice,
@@ -650,18 +650,18 @@ are the same as the corresponding duties and rights under Civil Procedure Rules 
 
 ### Avoidance
 
-**5.**[^key-f8a02f38d05081c569a93b507f86da36] A contract of insurance is of no effect in so far as it purports, whether directly or indirectly—
+**5.**[^c-f8a02f38d05081c569a93b507f86da36] A contract of insurance is of no effect in so far as it purports, whether directly or indirectly—
 
 - (a) to avoid or terminate the contract or alter the rights of the parties under it in the event of a person providing information, or giving disclosure, that the person is required to provide or give by virtue of a notice under paragraph 1 or 3, or
 - (b) otherwise to prohibit, prevent or restrict a person from providing such information or giving such disclosure.
 
 ### Other rights to information etc
 
-**6.**[^key-ee5c42536361c8312d1e0e5c50afd9e4] Rights to information, or to inspection of documents, that a person has by virtue of paragraph 1 or 3 are in addition to any such rights as the person has apart from that paragraph.
+**6.**[^c-ee5c42536361c8312d1e0e5c50afd9e4] Rights to information, or to inspection of documents, that a person has by virtue of paragraph 1 or 3 are in addition to any such rights as the person has apart from that paragraph.
 
 ### Interpretation
 
-**7.**[^key-a0ca63f628c5a06a0e262d6686d51e7b] For the purposes of this Schedule—
+**7.**[^c-a0ca63f628c5a06a0e262d6686d51e7b] For the purposes of this Schedule—
 
 - (a) a person is able to provide information only if—
   - (i) that person can obtain it without undue difficulty from a document that is in that person's control, or
@@ -674,14 +674,14 @@ Section 20
 
 ### Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))
 
-**1.**[^key-0fe6bc6c52fbd5ac8fed79c5f94b4be3] In Article 100 of the Road Traffic (Northern Ireland) Order 1981 (bankruptcy etc of insured persons not to affect certain claims by third-parties)—
+**1.**[^c-0fe6bc6c52fbd5ac8fed79c5f94b4be3] In Article 100 of the Road Traffic (Northern Ireland) Order 1981 (bankruptcy etc of insured persons not to affect certain claims by third-parties)—
 
 - (a) for “such event as is mentioned in section 1(1) of the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ event which results in that person being a relevant person for the purposes of the Third Parties (Rights against Insurers) Act 2010 ”, and
 - (b) for “the said Act of 1930” substitute “ that Act ”.
 
 ### Road Traffic Act 1988 (c. 52)
 
-**2.**[^key-c26f3d64b4e11a2f604697f84fead5dc] In section 153 of the Road Traffic Act 1988 (bankruptcy etc of insured or secured persons not to affect claims by third parties)—
+**2.**[^c-c26f3d64b4e11a2f604697f84fead5dc] In section 153 of the Road Traffic Act 1988 (bankruptcy etc of insured or secured persons not to affect claims by third parties)—
 
 - (a) in subsection (1), for “any of the events mentioned in subsection (2) below” substitute “ an event which results in that person being a relevant person for the purposes of the Third Parties (Rights against Insurers) Act 2010 ”,
 - (b) in that subsection, for “Third Parties (Rights against Insurers) Act 1930” substitute “ that Act ”,
@@ -690,27 +690,27 @@ Section 20
 
 ### Merchant Shipping Act 1995 (c. 21)
 
-**3.**[^key-6f0b4c5a3dd98a2766e953e941c13975] In section 165 of the Merchant Shipping Act 1995 (rights of third parties against insurers), in subsection (5), for “Third Parties (Rights against Insurers) Act 1930 and the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+**3.**[^c-6f0b4c5a3dd98a2766e953e941c13975] In section 165 of the Merchant Shipping Act 1995 (rights of third parties against insurers), in subsection (5), for “Third Parties (Rights against Insurers) Act 1930 and the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
 
 ### Cross-Border Insolvency Regulations 2006 (S.I. 2006/1030)
 
-**4.**[^key-cb6ac8783143f2d50efd02233ca7ffcd] In paragraph 5 of Schedule 1 to the Cross-Border Insolvency Regulations 2006 (scope of Article 1), for “Third Parties (Rights against Insurers) Act 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+**4.**[^c-cb6ac8783143f2d50efd02233ca7ffcd] In paragraph 5 of Schedule 1 to the Cross-Border Insolvency Regulations 2006 (scope of Article 1), for “Third Parties (Rights against Insurers) Act 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
 
 ### Cross-Border Insolvency Regulations (Northern Ireland) 2007 (S.R. 2007/115)
 
-**5.**[^key-b74bcc71154e3a925aa4854b74b42465] In paragraph 5 of Schedule 1 to the Cross-Border Insolvency Regulations (Northern Ireland) 2007 (scope of Article 1), for “Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
+**5.**[^c-b74bcc71154e3a925aa4854b74b42465] In paragraph 5 of Schedule 1 to the Cross-Border Insolvency Regulations (Northern Ireland) 2007 (scope of Article 1), for “Third Parties (Rights against Insurers) Act (Northern Ireland) 1930” substitute “ Third Parties (Rights against Insurers) Act 2010 ”.
 
 ## SCHEDULE 3 — Transitory, transitional and saving provisions
 
 Section 20
 
-### Application of this Act[^key-a73af45d7b9ebfbf9c55bb856cd1be99]
+### Application of this Act[^c-a73af45d7b9ebfbf9c55bb856cd1be99]
 
-**1.**[^key-f96d385cd219f741a16cf6c16ff65664] (1) Section 1(1)(a) applies where the insured became a relevant person before, as well as when the insured becomes such a person on or after, commencement day.
+**1.**[^c-f96d385cd219f741a16cf6c16ff65664] (1) Section 1(1)(a) applies where the insured became a relevant person before, as well as when the insured becomes such a person on or after, commencement day.
 
 (2) Section 1(1)(b) applies where the liability was incurred before, as well as where it is incurred on or after, commencement day.
 
-### Relevant persons[^key-16a2a54e3ecbbbb30fe50c2e4df57cd0]
+### Relevant persons[^c-16a2a54e3ecbbbb30fe50c2e4df57cd0]
 
 **1A.** (1) An individual, company or limited liability partnership not within sections 4 to 7 is to be treated as a relevant person for the purposes of this Act in the following cases.
 
@@ -741,27 +741,27 @@ Section 20
 
 (7) In those cases, the person is a relevant person only in relation to liabilities under a contract of insurance under which the person was insured at the time of the event mentioned in sub-paragraph (2)(a), (3)(a), (4)(a), (5)(a) or (6)(a) (as appropriate).
 
-### Bankruptcy and Diligence etc (Scotland) Act 2007[^key-ee34ba24980b4d887e0895fc0ca98324]
+### Bankruptcy and Diligence etc (Scotland) Act 2007[^c-ee34ba24980b4d887e0895fc0ca98324]
 
-**2.**[^key-70acdb69d0973485775e69c2ee8e6f64] Until the coming into force of section 47(1) of the Bankruptcy and Diligence etc (Scotland) Act 2007 (asp 3), the reference to that provision in paragraph 1(5) of Schedule 1 is to be read as a reference to section 486(1) of the Companies Act 1985.
+**2.**[^c-70acdb69d0973485775e69c2ee8e6f64] Until the coming into force of section 47(1) of the Bankruptcy and Diligence etc (Scotland) Act 2007 (asp 3), the reference to that provision in paragraph 1(5) of Schedule 1 is to be read as a reference to section 486(1) of the Companies Act 1985.
 
-### Application of 1930 Acts[^key-2b50cbf8117c1e36c232109b76a0655c]
+### Application of 1930 Acts[^c-2b50cbf8117c1e36c232109b76a0655c]
 
-**3.**[^key-9ade4fc13d2953bc336180d82ea4002b] Despite its repeal by this Act, the Third Parties (Rights against Insurers) Act 1930 continues to apply in relation to—
-
-- (a) cases where the event referred to in subsection (1) of section 1 of that Act and the incurring of the liability referred to in that subsection both happened before commencement day;
-- (b) cases where the death of the deceased person referred to in subsection (2) of that section happened before that day.
-
-**4.**[^key-86132793317d9f5110e8cf69360edb7a] Despite its repeal by this Act, the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930 continues to apply in relation to—
+**3.**[^c-9ade4fc13d2953bc336180d82ea4002b] Despite its repeal by this Act, the Third Parties (Rights against Insurers) Act 1930 continues to apply in relation to—
 
 - (a) cases where the event referred to in subsection (1) of section 1 of that Act and the incurring of the liability referred to in that subsection both happened before commencement day;
 - (b) cases where the death of the deceased person referred to in subsection (2) of that section happened before that day.
 
-### Interpretation[^key-ee22c6e39a24f17c8f561e19ffcbb3e1]
+**4.**[^c-86132793317d9f5110e8cf69360edb7a] Despite its repeal by this Act, the Third Parties (Rights against Insurers) Act (Northern Ireland) 1930 continues to apply in relation to—
 
-**5.**[^key-b389c5c6b238aaab79e55a429fa69eeb] In this Schedule “**commencement day**” means the day on which this Act comes into force.
+- (a) cases where the event referred to in subsection (1) of section 1 of that Act and the incurring of the liability referred to in that subsection both happened before commencement day;
+- (b) cases where the death of the deceased person referred to in subsection (2) of that section happened before that day.
 
-## SCHEDULE 4 — Repeals and revocations[^key-bc36cf0e52b442930165277cb8201c41]
+### Interpretation[^c-ee22c6e39a24f17c8f561e19ffcbb3e1]
+
+**5.**[^c-b389c5c6b238aaab79e55a429fa69eeb] In this Schedule “**commencement day**” means the day on which this Act comes into force.
+
+## SCHEDULE 4 — Repeals and revocations[^c-bc36cf0e52b442930165277cb8201c41]
 
 Section 20
 
@@ -781,200 +781,200 @@ Section 20
 
 ## Annotations
 
-[^key-151807212c9b65a1a914ba913b13345b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2010/10) excluded by 1995 c. 21, s. 225P(7)(c) (as inserted (14.4.2015) by [Wreck Removal Convention Act 2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/2/2) (with [s. 255T](https://www.legislation.gov.uk/ukpga/2011/8/section/255T)); [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3))
+[^c-151807212c9b65a1a914ba913b13345b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2010/10) excluded by 1995 c. 21, s. 225P(7)(c) (as inserted (14.4.2015) by [Wreck Removal Convention Act 2011 (c. 8)](https://www.legislation.gov.uk/ukpga/2011/8), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2011/8/section/2/2) (with [s. 255T](https://www.legislation.gov.uk/ukpga/2011/8/section/255T)); [S.I. 2015/133](https://www.legislation.gov.uk/uksi/2015/133), [art. 3](https://www.legislation.gov.uk/uksi/2015/133/article/3))
 
-[^key-92166eaa097f02c01db5ccca32773f9c]: Commencement: S. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-92166eaa097f02c01db5ccca32773f9c]: Commencement: S. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-60047cf4a988a209902d91414242dad0]: Textual amendment: Words in s. 1(5)(b) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/4)
+[^c-60047cf4a988a209902d91414242dad0]: Textual amendment: Words in s. 1(5)(b) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/4)
 
-[^key-483ee97c7799e781ba2e13cdb920042c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/10/section/2) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-483ee97c7799e781ba2e13cdb920042c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/10/section/2) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-4b613d11a4ab9202d47ed8169a9ce002]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/10/section/3) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-4b613d11a4ab9202d47ed8169a9ce002]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/10/section/3) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-ab8af6d14599a6f2a257360c5910675b]: Commencement: S. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-ab8af6d14599a6f2a257360c5910675b]: Commencement: S. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-f3ca0553aefbea233e031aa1b02b590f]: Textual amendment: S. 4(1)(a) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(22)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/22) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-f3ca0553aefbea233e031aa1b02b590f]: Textual amendment: S. 4(1)(a) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(22)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/22) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
-[^key-4c654e953724d03ca48f1d2c4ec7c09e]: Textual amendment: Word in s. 4(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/i)
+[^c-4c654e953724d03ca48f1d2c4ec7c09e]: Textual amendment: Word in s. 4(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/i)
 
-[^key-03cbe1a9264643707d38ea6f083d3e79]: Textual amendment: Words in s. 4(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/ii)
+[^c-03cbe1a9264643707d38ea6f083d3e79]: Textual amendment: Words in s. 4(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/ii)
 
-[^key-e41bb27e37534c9e47596c50cc357c2a]: Textual amendment: Words in s. 4(2)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/iii)
+[^c-e41bb27e37534c9e47596c50cc357c2a]: Textual amendment: Words in s. 4(2)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/iii)
 
-[^key-c8735a88fed9cf88c6ca0336d2478e91]: Textual amendment: Word in s. 4(2)(a) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/iv)
+[^c-c8735a88fed9cf88c6ca0336d2478e91]: Textual amendment: Word in s. 4(2)(a) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/iv)
 
-[^key-95d1cfab9db72e8c7b0955d11accb590]: Textual amendment: S. 4(2)(c) and word omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(v)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/v)
+[^c-95d1cfab9db72e8c7b0955d11accb590]: Textual amendment: S. 4(2)(c) and word omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(a)(v)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/a/v)
 
-[^key-0615f7e5d23e16459b15ce65f1cd52db]: Textual amendment: S. 4(3)(ba) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/2/2)
+[^c-0615f7e5d23e16459b15ce65f1cd52db]: Textual amendment: S. 4(3)(ba) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/2/2)
 
-[^key-6cdf8490680f5f4c40abc2038c824838]: Textual amendment: Words in s. 4(4) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/2/3)
+[^c-6cdf8490680f5f4c40abc2038c824838]: Textual amendment: Words in s. 4(4) inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/2/3)
 
-[^key-618bb2f1a97778da1a3750805ca61ea2]: Textual amendment: Words in s. 4(5) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/b)
+[^c-618bb2f1a97778da1a3750805ca61ea2]: Textual amendment: Words in s. 4(5) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/b)
 
-[^key-4048ec506fec06f9914d88799efac05f]: Textual amendment: S. 4(6) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(c)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/c)
+[^c-4048ec506fec06f9914d88799efac05f]: Textual amendment: S. 4(6) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(2)(c)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/2/c)
 
-[^key-2447e0667f48a0b79f64e997d6787718]: Commencement: S. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-2447e0667f48a0b79f64e997d6787718]: Commencement: S. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-c26e0ad663b51941f2eb2046ab863699]: Textual amendment: Words in [s. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2010/10/section/5/2/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/3/a)
+[^c-c26e0ad663b51941f2eb2046ab863699]: Textual amendment: Words in [s. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2010/10/section/5/2/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/3/a)
 
-[^key-7b412e1857e3d07abc8298c08ae5f0b8]: Textual amendment: Word in [s. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2010/10/section/5/2/c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/3/b)
+[^c-7b412e1857e3d07abc8298c08ae5f0b8]: Textual amendment: Word in [s. 5(2)(c)](https://www.legislation.gov.uk/ukpga/2010/10/section/5/2/c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/3/b)
 
-[^key-6a1f83ba53aaec42edd803c80e60b144]: Commencement: S. 6 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-6a1f83ba53aaec42edd803c80e60b144]: Commencement: S. 6 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-3681c2c2a26bfd7e221a35d251e65a4a]: Textual amendment: S. 6(1) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/1/a)
+[^c-3681c2c2a26bfd7e221a35d251e65a4a]: Textual amendment: S. 6(1) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/1/a)
 
-[^key-68e93695d0ccc4aae33d2680a2c8ff2f]: Textual amendment: Words in s. 6(1) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 45](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/45) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-68e93695d0ccc4aae33d2680a2c8ff2f]: Textual amendment: Words in s. 6(1) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 45](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/45) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-e87bd3495c0c908354a57eefa2d1766f]: Textual amendment: S. 6(2)(b) substituted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/3/2)
+[^c-e87bd3495c0c908354a57eefa2d1766f]: Textual amendment: S. 6(2)(b) substituted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/3/2)
 
-[^key-a7c6fa523daa4ac1ec77d81d7cf390f1]: Textual amendment: Words in s. 6(3)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/i)
+[^c-a7c6fa523daa4ac1ec77d81d7cf390f1]: Textual amendment: Words in s. 6(3)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/i)
 
-[^key-a4905347893322a49a3433b17dbad10b]: Textual amendment: Words in s. 6(3)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/ii)
+[^c-a4905347893322a49a3433b17dbad10b]: Textual amendment: Words in s. 6(3)(b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/ii)
 
-[^key-8fce0f1148a5113a23ff7ffdb5479860]: Textual amendment: Word in s. 6(3)(b) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/iii)
+[^c-8fce0f1148a5113a23ff7ffdb5479860]: Textual amendment: Word in s. 6(3)(b) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/iii)
 
-[^key-b6bb8767b32460d54548018258aa1708]: Textual amendment: Word in s. 6(3)(c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/iv)
+[^c-b6bb8767b32460d54548018258aa1708]: Textual amendment: Word in s. 6(3)(c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/iv)
 
-[^key-e2efd9d327e9c5fbf74934c1ef7e4815]: Textual amendment: S. 6(3)(d) and word omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(v)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/v)
+[^c-e2efd9d327e9c5fbf74934c1ef7e4815]: Textual amendment: S. 6(3)(d) and word omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(a)(v)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/a/v)
 
-[^key-a916462cc92a7bc43be06bc1828abadf]: Textual amendment: S. 6(4)(b) substituted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/3/3)
+[^c-a916462cc92a7bc43be06bc1828abadf]: Textual amendment: S. 6(4)(b) substituted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/3/3)
 
-[^key-b458ac8210a7bd9b7cf1f67c1695fefc]: Textual amendment: S. 6(4A)(4B) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/3/1)
+[^c-b458ac8210a7bd9b7cf1f67c1695fefc]: Textual amendment: S. 6(4A)(4B) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/3/1)
 
-[^key-0f51546a80c1bbb037e0c3d32a26dc74]: Textual amendment: Words in s. 6(5) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/1/b)
+[^c-0f51546a80c1bbb037e0c3d32a26dc74]: Textual amendment: Words in s. 6(5) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/1/b)
 
-[^key-5e718696e3d912a586b9ed16644157a1]: Textual amendment: Words in s. 6(6) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/1/b)
+[^c-5e718696e3d912a586b9ed16644157a1]: Textual amendment: Words in s. 6(6) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/1/b)
 
-[^key-bf3acdedb9058736396b82d8c5285c8c]: Textual amendment: Words in s. 6(7) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/b)
+[^c-bf3acdedb9058736396b82d8c5285c8c]: Textual amendment: Words in s. 6(7) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/b)
 
-[^key-40af2a33b11c480773e8b17e37748613]: Textual amendment: S. 6(8) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(c)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/c)
+[^c-40af2a33b11c480773e8b17e37748613]: Textual amendment: S. 6(8) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(c)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/c)
 
-[^key-9fbd86d86f605128fb83a8ace58dbcf7]: Textual amendment: Words in s. 6(9)(c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(d)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/d)
+[^c-9fbd86d86f605128fb83a8ace58dbcf7]: Textual amendment: Words in s. 6(9)(c) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(4)(d)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/4/d)
 
-[^key-7712d59579395860985a9041c41859c8]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/2010/10/section/6A) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/570/regulation/4)
+[^c-7712d59579395860985a9041c41859c8]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/2010/10/section/6A) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/570/regulation/4)
 
-[^key-1a01215963065c9e65b2eaa5031b38d1]: Commencement: S. 7 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-1a01215963065c9e65b2eaa5031b38d1]: Commencement: S. 7 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-7f1a19b4c7221b09541347546a6ddef6]: Textual amendment: Words in s. 7(1)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/a/i)
+[^c-7f1a19b4c7221b09541347546a6ddef6]: Textual amendment: Words in s. 7(1)(a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(a)(i)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/a/i)
 
-[^key-54ef50c23dee0be53903dfa59f274a9d]: Textual amendment: Word in s. 7(1)(a) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/a/ii)
+[^c-54ef50c23dee0be53903dfa59f274a9d]: Textual amendment: Word in s. 7(1)(a) inserted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/a/ii)
 
-[^key-7a888d2299101015251a74fa39aae0b8]: Textual amendment: S. 7(1)(c) and word omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/a/iii)
+[^c-7a888d2299101015251a74fa39aae0b8]: Textual amendment: S. 7(1)(c) and word omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/a/iii)
 
-[^key-a514c1af7422f4dc3c4b9a770d1523c8]: Textual amendment: Words in s. 7(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/b)
+[^c-a514c1af7422f4dc3c4b9a770d1523c8]: Textual amendment: Words in s. 7(2) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/b)
 
-[^key-fade8ff9856db31e29e902edc689086c]: Textual amendment: S. 7(3) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(c)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/c)
+[^c-fade8ff9856db31e29e902edc689086c]: Textual amendment: S. 7(3) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(c)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/c)
 
-[^key-2b4329563888ee49fd3b65dfd72ebd7a]: Textual amendment: Words in s. 7(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(d)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/d)
+[^c-2b4329563888ee49fd3b65dfd72ebd7a]: Textual amendment: Words in s. 7(4) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(5)(d)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/5/d)
 
-[^key-3569fff4ae8ac86ade02bda1a0d6119d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2010/10/section/8) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-3569fff4ae8ac86ade02bda1a0d6119d]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2010/10/section/8) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-3c892176ce4759d46fcdbfd1f54bb26c]: Commencement: S. 9 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-3c892176ce4759d46fcdbfd1f54bb26c]: Commencement: S. 9 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-51d08bd43efad03954e33fcabb829a02]: Textual amendment: Word in s. 9(3)(a) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/2/a)
+[^c-51d08bd43efad03954e33fcabb829a02]: Textual amendment: Word in s. 9(3)(a) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/2/a)
 
-[^key-c72c6ecc8e5e2c866844b80b155e9292]: Textual amendment: S. 9(3)(c) and word inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/2/b)
+[^c-c72c6ecc8e5e2c866844b80b155e9292]: Textual amendment: S. 9(3)(c) and word inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/2/b)
 
-[^key-c43ef203c003581e30b338182712399c]: Textual amendment: Words in s. 9(7) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/3)
+[^c-c43ef203c003581e30b338182712399c]: Textual amendment: Words in s. 9(7) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/3)
 
-[^key-304a35e64fd37acf5b78bde5353c5a9c]: Textual amendment: S. 9(8) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/4)
+[^c-304a35e64fd37acf5b78bde5353c5a9c]: Textual amendment: S. 9(8) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2016/570/regulation/5/4)
 
-[^key-85d1a5c804ef80e4f710b7ab9d7bf362]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2010/10/section/10) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-85d1a5c804ef80e4f710b7ab9d7bf362]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2010/10/section/10) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-41b7ae581c8b69a10bb6121b63824ae0]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2010/10/section/11) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-41b7ae581c8b69a10bb6121b63824ae0]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2010/10/section/11) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-f6d07abdb740fa458cb0711b7fe7e8cf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2010/10/section/12) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-f6d07abdb740fa458cb0711b7fe7e8cf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2010/10/section/12) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-9f590cd5b7d17d06f26c075c0f02ded3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2010/10/section/13) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-9f590cd5b7d17d06f26c075c0f02ded3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2010/10/section/13) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-8b9223e893d65e129e2b80637fd8e37c]: Commencement: S. 14 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-8b9223e893d65e129e2b80637fd8e37c]: Commencement: S. 14 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-f68a4fd321470c05dcd8dfc8427aa8d5]: Textual amendment: Word in s. 14(2)(b) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/2)
+[^c-f68a4fd321470c05dcd8dfc8427aa8d5]: Textual amendment: Word in s. 14(2)(b) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/2)
 
-[^key-0eda8e310a3b14859096827ee1d0dfb4]: Textual amendment: [S. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2010/10/section/14/4) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(6)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/6)
+[^c-0eda8e310a3b14859096827ee1d0dfb4]: Textual amendment: [S. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2010/10/section/14/4) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(6)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/6)
 
-[^key-dd9ab6ac5da0556c50521f80d4de696f]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2010/10/section/15) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-dd9ab6ac5da0556c50521f80d4de696f]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2010/10/section/15) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-7ed675d7905ce8edd0daf077e066a5cc]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2010/10/section/16) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-7ed675d7905ce8edd0daf077e066a5cc]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2010/10/section/16) in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-1f752835894c3165c5099eb72d532898]: Commencement: S. 17 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-1f752835894c3165c5099eb72d532898]: Commencement: S. 17 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-749cbe2a53c0d3649bf848165003e56a]: Commencement: S. 18 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-749cbe2a53c0d3649bf848165003e56a]: Commencement: S. 18 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-03dc8720257e470532f12231aaaddd75]: Textual amendment: S. 19 substituted (12.4.2015) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4) , [ss. 19](https://www.legislation.gov.uk/ukpga/2015/4/section/19) , [23(3)(a)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/a)
+[^c-03dc8720257e470532f12231aaaddd75]: Textual amendment: S. 19 substituted (12.4.2015) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4) , [ss. 19](https://www.legislation.gov.uk/ukpga/2015/4/section/19) , [23(3)(a)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/a)
 
-[^key-d37cb3ed1692f18f6040aaa49807eb1a]: Textual amendment: S. 19A inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/6)
+[^c-d37cb3ed1692f18f6040aaa49807eb1a]: Textual amendment: S. 19A inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/6)
 
-[^key-805354cfb62c3fbbb10067190061652e]: Textual amendment: Word in s. 19A(1) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/3/a)
+[^c-805354cfb62c3fbbb10067190061652e]: Textual amendment: Word in s. 19A(1) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/3/a)
 
-[^key-cd316ab5d26180915e449ecdc2973cae]: Textual amendment: Words in s. 19A(1) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(7)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/7)
+[^c-cd316ab5d26180915e449ecdc2973cae]: Textual amendment: Words in s. 19A(1) omitted (30.11.2016) by virtue of [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 35(7)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35/7)
 
-[^key-8d7c7ed701031d58345fd23a149263a5]: Textual amendment: Words in s. 19A(1) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/3/b)
+[^c-8d7c7ed701031d58345fd23a149263a5]: Textual amendment: Words in s. 19A(1) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/7/3/b)
 
-[^key-d1d611d12dd629a624f030db51a1be94]: Commencement: S. 20 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-d1d611d12dd629a624f030db51a1be94]: Commencement: S. 20 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-22f69251dbe57543badece64a2a6a148]: Commencement: S. 21 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-22f69251dbe57543badece64a2a6a148]: Commencement: S. 21 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-d5a7818690a735c48c740739312f2f6b]: Modification: Sch. A1 modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/138/regulation/36) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/b))
+[^c-d5a7818690a735c48c740739312f2f6b]: Modification: Sch. A1 modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2019/138/regulation/36) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/b))
 
-[^key-8b003671849154188ad3359e0e5b418c]: Textual amendment: Sch. A1 inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/570/regulation/3/2)
+[^c-8b003671849154188ad3359e0e5b418c]: Textual amendment: Sch. A1 inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/570/regulation/3/2)
 
-[^key-73374a4d47e97a234a5b9caf00d5b304]: Textual amendment: Words in [Sch. A1](https://www.legislation.gov.uk/ukpga/2010/10/schedule/A1) inserted (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/4/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-73374a4d47e97a234a5b9caf00d5b304]: Textual amendment: Words in [Sch. A1](https://www.legislation.gov.uk/ukpga/2010/10/schedule/A1) inserted (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/4/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-37b143d61502c415b0543ba38c648c40]: Commencement: Sch. 1 para. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-37b143d61502c415b0543ba38c648c40]: Commencement: Sch. 1 para. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-12c6d076bb3d48b1bf6909c77f345ac9]: Commencement: Sch. 1 para. 2 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-12c6d076bb3d48b1bf6909c77f345ac9]: Commencement: Sch. 1 para. 2 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-c0aef1cbd23e989bb3e1388b0dc684fb]: Textual amendment: Words in Sch. 1 para. 3 heading substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/6)
+[^c-c0aef1cbd23e989bb3e1388b0dc684fb]: Textual amendment: Words in Sch. 1 para. 3 heading substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/6)
 
-[^key-cbe82106de8120e07b339b9de6ba9eca]: Commencement: Sch. 1 para. 3 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-cbe82106de8120e07b339b9de6ba9eca]: Commencement: Sch. 1 para. 3 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-6234c037d0a940e1d1e7b72a37b2331b]: Textual amendment: Words in Sch. 1 para. 3(1)(a) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/2/a)
+[^c-6234c037d0a940e1d1e7b72a37b2331b]: Textual amendment: Words in Sch. 1 para. 3(1)(a) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/2/a)
 
-[^key-069f2fa5814ae8cf932efab422b7e1cc]: Textual amendment: Sch. 1 para. 3(1)(b)(c) substituted for Sch. 1 para. 3(1)(b) (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/2/b)
+[^c-069f2fa5814ae8cf932efab422b7e1cc]: Textual amendment: Sch. 1 para. 3(1)(b)(c) substituted for Sch. 1 para. 3(1)(b) (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/2/b)
 
-[^key-f17869874cb94cf8878e09d7c9833e53]: Textual amendment: Words in Sch. 1 para. 3(2)(b) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/3)
+[^c-f17869874cb94cf8878e09d7c9833e53]: Textual amendment: Words in Sch. 1 para. 3(2)(b) substituted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/3)
 
-[^key-567f047fd0736c0caf7424b624d786be]: Textual amendment: Sch. 1 para. 3(4)(5) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/4)
+[^c-567f047fd0736c0caf7424b624d786be]: Textual amendment: Sch. 1 para. 3(4)(5) omitted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by virtue of [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/4)
 
-[^key-77af79eb4d7822a6a2bfca937b45ef3b]: Textual amendment: Sch. 1 para. 3(6) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/5)
+[^c-77af79eb4d7822a6a2bfca937b45ef3b]: Textual amendment: Sch. 1 para. 3(6) inserted (1.8.2016 immediately after 2010 c. 10 and 2015 c. 4, s. 20, Sch. 2 come into force by virtue of S.I. 2016/550) by [The Third Parties (Rights against Insurers) Regulations 2016 (S.I. 2016/570)](https://www.legislation.gov.uk/uksi/2016/570), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/570/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2016/570/regulation/6/5)
 
-[^key-4f255fa263ddf052e35ab43231531c57]: Commencement: Sch. 1 para. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-4f255fa263ddf052e35ab43231531c57]: Commencement: Sch. 1 para. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-f8a02f38d05081c569a93b507f86da36]: Commencement: Sch. 1 para. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-f8a02f38d05081c569a93b507f86da36]: Commencement: Sch. 1 para. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-ee5c42536361c8312d1e0e5c50afd9e4]: Commencement: Sch. 1 para. 6 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-ee5c42536361c8312d1e0e5c50afd9e4]: Commencement: Sch. 1 para. 6 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-a0ca63f628c5a06a0e262d6686d51e7b]: Commencement: Sch. 1 para. 7 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-a0ca63f628c5a06a0e262d6686d51e7b]: Commencement: Sch. 1 para. 7 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-0fe6bc6c52fbd5ac8fed79c5f94b4be3]: Commencement: Sch. 2 para. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-0fe6bc6c52fbd5ac8fed79c5f94b4be3]: Commencement: Sch. 2 para. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-c26f3d64b4e11a2f604697f84fead5dc]: Commencement: Sch. 2 para. 2 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-c26f3d64b4e11a2f604697f84fead5dc]: Commencement: Sch. 2 para. 2 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-6f0b4c5a3dd98a2766e953e941c13975]: Commencement: Sch. 2 para. 3 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-6f0b4c5a3dd98a2766e953e941c13975]: Commencement: Sch. 2 para. 3 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-cb6ac8783143f2d50efd02233ca7ffcd]: Commencement: Sch. 2 para. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-cb6ac8783143f2d50efd02233ca7ffcd]: Commencement: Sch. 2 para. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-b74bcc71154e3a925aa4854b74b42465]: Commencement: Sch. 2 para. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-b74bcc71154e3a925aa4854b74b42465]: Commencement: Sch. 2 para. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-a73af45d7b9ebfbf9c55bb856cd1be99]: Textual amendment: Sch. 3 para. 1 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/2)
+[^c-a73af45d7b9ebfbf9c55bb856cd1be99]: Textual amendment: Sch. 3 para. 1 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/2)
 
-[^key-f96d385cd219f741a16cf6c16ff65664]: Commencement: Sch. 3 para. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-f96d385cd219f741a16cf6c16ff65664]: Commencement: Sch. 3 para. 1 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-16a2a54e3ecbbbb30fe50c2e4df57cd0]: Textual amendment: Sch. 3 para. 1A and cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/3)
+[^c-16a2a54e3ecbbbb30fe50c2e4df57cd0]: Textual amendment: Sch. 3 para. 1A and cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/3)
 
-[^key-ee34ba24980b4d887e0895fc0ca98324]: Textual amendment: Sch. 3 para 2 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/4)
+[^c-ee34ba24980b4d887e0895fc0ca98324]: Textual amendment: Sch. 3 para 2 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/4)
 
-[^key-70acdb69d0973485775e69c2ee8e6f64]: Commencement: Sch. 3 para. 2 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-70acdb69d0973485775e69c2ee8e6f64]: Commencement: Sch. 3 para. 2 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-2b50cbf8117c1e36c232109b76a0655c]: Textual amendment: Sch. 3 para. 3 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/5)
+[^c-2b50cbf8117c1e36c232109b76a0655c]: Textual amendment: Sch. 3 para. 3 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/5)
 
-[^key-9ade4fc13d2953bc336180d82ea4002b]: Commencement: Sch. 3 para. 3 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-9ade4fc13d2953bc336180d82ea4002b]: Commencement: Sch. 3 para. 3 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-86132793317d9f5110e8cf69360edb7a]: Commencement: Sch. 3 para. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-86132793317d9f5110e8cf69360edb7a]: Commencement: Sch. 3 para. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-ee22c6e39a24f17c8f561e19ffcbb3e1]: Textual amendment: Sch. 3 para. 5 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/6)
+[^c-ee22c6e39a24f17c8f561e19ffcbb3e1]: Textual amendment: Sch. 3 para. 5 cross-heading inserted (1.8.2016 being the day appointed for the coming into force of 2010 c. 10 by S.I. 2016/550) by [Insurance Act 2015 (c. 4)](https://www.legislation.gov.uk/ukpga/2015/4), [s. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2015/4/section/23/3/b), [Sch. 2 para. 5(6)](https://www.legislation.gov.uk/ukpga/2015/4/schedule/2/paragraph/5/6)
 
-[^key-b389c5c6b238aaab79e55a429fa69eeb]: Commencement: Sch. 3 para. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-b389c5c6b238aaab79e55a429fa69eeb]: Commencement: Sch. 3 para. 5 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-bc36cf0e52b442930165277cb8201c41]: Commencement: Sch. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-bc36cf0e52b442930165277cb8201c41]: Commencement: Sch. 4 in force at 1.8.2016 by [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)

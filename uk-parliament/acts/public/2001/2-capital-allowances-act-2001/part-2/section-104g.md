@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104G. Disposal events in respect of cushion gas[^key-13ecf208088f59648f92556e7f81c390]
+## 104G. Disposal events in respect of cushion gas[^c-13ecf208088f59648f92556e7f81c390]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ it is to be treated for the purposes of this Part as two separate disposal event
 
 ## Annotations
 
-[^key-13ecf208088f59648f92556e7f81c390]: Textual amendment: S. 104G inserted (8.4.2010) (with effect in accordance with s. 28(10) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 28(7)](https://www.legislation.gov.uk/ukpga/2010/13/section/28/7)
+[^c-13ecf208088f59648f92556e7f81c390]: Textual amendment: S. 104G inserted (8.4.2010) (with effect in accordance with s. 28(10) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 28(7)](https://www.legislation.gov.uk/ukpga/2010/13/section/28/7)

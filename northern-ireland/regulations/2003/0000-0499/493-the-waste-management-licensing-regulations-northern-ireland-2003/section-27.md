@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Revocations[^key-6615adf9297e8fec57ef0497af5b8f41]
+## 27. Revocations[^c-6615adf9297e8fec57ef0497af5b8f41]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6615adf9297e8fec57ef0497af5b8f41]: Commencement: Reg. 27 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-6615adf9297e8fec57ef0497af5b8f41]: Commencement: Reg. 27 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00062]: Footnote: [S.R. 1992 No. 254](https://www.legislation.gov.uk/nisr/1992/254)
 

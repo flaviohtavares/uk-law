@@ -22,14 +22,14 @@ summary: ''
 
 Articles 13 and 24
 
-**1.**[^key-502cad78d0b752e7e3965fd04c08d052] In relating this Schedule to its corresponding rights of way and access plans, the provisions described in this Schedule are shown on the rights of way and access plans in the following manner—
+**1.**[^c-502cad78d0b752e7e3965fd04c08d052] In relating this Schedule to its corresponding rights of way and access plans, the provisions described in this Schedule are shown on the rights of way and access plans in the following manner—
 
 - (a) Existing highways to be stopped up, as described in column 2 of Part 1 and Part 2 of this Schedule, are shown by thick black hatching (as shown in the key on the rights of way and access plans) over the extent of the area to be stopped up, which is described in column 3 of Part 1 and Part 2 of this Schedule.
 - (b) New highways which are to be substituted for a highway to be stopped up (or which are otherwise to be provided) other than the new or improved A14 Trunk Road and the improved A1 Trunk Road, as are included in column 4 of Part 1 of this Schedule, are shown by black stipple with a centre line (as shown in the key on the rights of way and access plans) and are given a reference label (a capital letter in a circle) and will be a road unless the word ‘bridleway’ appears beneath its reference letter in column 4.
 - (c) Private means of access to be stopped up, as described in column 2 of Parts 3 and 4 of this Schedule, are shown by a solid black band (as shown in the key on the rights of way and access plans), over the extent of stopping up described in column 3 of Parts 3 and 4, and are given a reference label (a lower case letter in a circle).
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided) in relation to the new or improved A14 Trunk Road, as are included in column 4 of Part 3 of this Schedule, are shown by thin diagonal hatching (as shown in the key on the rights of way and access plans) and are given a reference label (a number in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-94d1cb5583878f4b361bffe64e9106b8]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-94d1cb5583878f4b361bffe64e9106b8]
 
 <table>
 <thead>
@@ -144,7 +144,7 @@ Articles 13 and 24
 </tbody>
 </table>
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-56e64b8c5c90aaf86b4b769c17572ad2]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-56e64b8c5c90aaf86b4b769c17572ad2]
 
 <table>
 <thead>
@@ -214,7 +214,7 @@ Articles 13 and 24
 </tbody>
 </table>
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-ca44d4eb050b53cd1f5bc07c05d0f98f]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-ca44d4eb050b53cd1f5bc07c05d0f98f]
 
 <table>
 <thead>
@@ -413,7 +413,7 @@ Articles 13 and 24
 </tbody>
 </table>
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-535d94fe882d8931e93248a28edc4628]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-535d94fe882d8931e93248a28edc4628]
 
 <table>
 <thead>
@@ -487,12 +487,12 @@ Articles 13 and 24
 
 ## Annotations
 
-[^key-502cad78d0b752e7e3965fd04c08d052]: Commencement: Sch. 4 para. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-502cad78d0b752e7e3965fd04c08d052]: Commencement: Sch. 4 para. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
 
-[^key-94d1cb5583878f4b361bffe64e9106b8]: Commencement: Sch. 4 Pt. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-94d1cb5583878f4b361bffe64e9106b8]: Commencement: Sch. 4 Pt. 1 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
 
-[^key-56e64b8c5c90aaf86b4b769c17572ad2]: Commencement: Sch. 4 Pt. 2 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-56e64b8c5c90aaf86b4b769c17572ad2]: Commencement: Sch. 4 Pt. 2 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
 
-[^key-ca44d4eb050b53cd1f5bc07c05d0f98f]: Commencement: Sch. 4 Pt. 3 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-ca44d4eb050b53cd1f5bc07c05d0f98f]: Commencement: Sch. 4 Pt. 3 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
 
-[^key-535d94fe882d8931e93248a28edc4628]: Commencement: Sch. 4 Pt. 4 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-535d94fe882d8931e93248a28edc4628]: Commencement: Sch. 4 Pt. 4 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

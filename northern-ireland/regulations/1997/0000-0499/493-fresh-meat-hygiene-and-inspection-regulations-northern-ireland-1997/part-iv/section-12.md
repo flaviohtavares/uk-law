@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. General conditions[^key-ccb5243f61eb2450762077dd43b8b419]
+## 12. General conditions[^c-ccb5243f61eb2450762077dd43b8b419]
 
 *Extent: N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb5243f61eb2450762077dd43b8b419]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-ccb5243f61eb2450762077dd43b8b419]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00016]: Footnote: O.J. No. L.121, 29.7.1964, as amended and updated by Council Directives [91/497/EEC](https://www.legislation.gov.uk/european/directive/1991/0497) O.J. No. L.268 24.9.91, [92/5/EEC](https://www.legislation.gov.uk/european/directive/1992/0005) O.J. No. L.57,2.3.92, [95/23/EC](https://www.legislation.gov.uk/european/directive/1995/0023) O.J. No. L.243 11.10.95 and Council Decision [95/1/EC](https://www.legislation.gov.uk/european/decision/1995/0001) O.J. No. L.1 1.1.95

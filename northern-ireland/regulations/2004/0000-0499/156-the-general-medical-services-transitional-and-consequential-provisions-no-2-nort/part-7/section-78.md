@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Determination of a Board made on or after the relevant date (regulation 8 of the Disciplinary Procedures Regulations)[^key-327a64febca93a464178c18eb63464df]
+## 78. Determination of a Board made on or after the relevant date (regulation 8 of the Disciplinary Procedures Regulations)[^c-327a64febca93a464178c18eb63464df]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ and if it makes any one or more of the decisions specified in sub-paragraphs (b)
 
 ## Annotations
 
-[^key-327a64febca93a464178c18eb63464df]: Commencement: Art. 78 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-327a64febca93a464178c18eb63464df]: Commencement: Art. 78 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

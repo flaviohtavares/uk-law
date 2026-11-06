@@ -46,7 +46,7 @@ is approved if it is for the time being approved for the purposes of this sectio
 (6) If a question arises as to—
 
 - (a) whether, or
-- (b) to[^key-a71cc3a32ac23e2793837d0213b83ef3] what extent,
+- (b) to[^c-a71cc3a32ac23e2793837d0213b83ef3] what extent,
 
 any activities constitute or constituted scientific research, the Inland Revenue must refer the question for decision to the Secretary of State, whose decision is final.
 
@@ -62,4 +62,4 @@ any activities constitute or constituted scientific research, the Inland Revenue
 
 [^c19089721]: Textual amendment: Words in s. 88(5) substituted (with effect as mentioned in [s. 14(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/14/5) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/22/section/14/4)
 
-[^key-a71cc3a32ac23e2793837d0213b83ef3]: Textual amendment: Word in s. 88(6)(b) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 600](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/600) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a71cc3a32ac23e2793837d0213b83ef3]: Textual amendment: Word in s. 88(6)(b) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 600](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/600) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

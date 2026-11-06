@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z12. Distribution to holder of excessive rights: charge to tax[^key-228ceee17a63954421c7bcbab46e5182]
+## 69Z12. Distribution to holder of excessive rights: charge to tax[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ P is the percentage of the rights to the net asset value of the company held by,
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)

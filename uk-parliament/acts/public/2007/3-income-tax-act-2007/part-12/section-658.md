@@ -28,7 +28,7 @@ summary: ''
 
 (4) Accordingly, a power in sections 656 and 657 to provide for a provision to apply with modifications in relation to a particular case includes power to provide for the provision not to apply in relation to that case.
 
-(5)[^key-ca331521416ea8220d09975a281c42a6] Subsections (6) to (10) apply for the purposes of sections 656 and 657 and this section.
+(5)[^c-ca331521416ea8220d09975a281c42a6] Subsections (6) to (10) apply for the purposes of sections 656 and 657 and this section.
 
 (6) “**UK shares**” means shares in a UK resident company.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca331521416ea8220d09975a281c42a6]: Textual amendment: S. 658(5)-(10) substituted for s. 658(5) (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 20](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/20)
+[^c-ca331521416ea8220d09975a281c42a6]: Textual amendment: S. 658(5)-(10) substituted for s. 658(5) (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 20](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/20)

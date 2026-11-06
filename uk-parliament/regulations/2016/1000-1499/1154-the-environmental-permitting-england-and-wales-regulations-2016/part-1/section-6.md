@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In these Regulations, except in Schedule 1A,[^key-41cac2401cd56d894c4bc608c004f56b] “**local authority**” means—
+(1) In these Regulations, except in Schedule 1A,[^c-41cac2401cd56d894c4bc608c004f56b] “**local authority**” means—
 
 - (a) in England outside Greater London—
   - (i) a district council,
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41cac2401cd56d894c4bc608c004f56b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/6/1) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41cac2401cd56d894c4bc608c004f56b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/6/1) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23192801]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).

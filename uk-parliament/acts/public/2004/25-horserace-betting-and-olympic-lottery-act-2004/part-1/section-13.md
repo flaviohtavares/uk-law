@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Consequential amendments[^key-0041b611a0ea5277d16978aec0a87480]
+## 13. Consequential amendments[^c-0041b611a0ea5277d16978aec0a87480]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 2 (consequential amendments) shall have effect.
 
 ## Annotations
 
-[^key-0041b611a0ea5277d16978aec0a87480]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2004/25/section/13) in force at 13.7.2011 for specified purposes by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)
+[^c-0041b611a0ea5277d16978aec0a87480]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2004/25/section/13) in force at 13.7.2011 for specified purposes by [S.I. 2011/1704](https://www.legislation.gov.uk/uksi/2011/1704), [art. 2](https://www.legislation.gov.uk/uksi/2011/1704/article/2)

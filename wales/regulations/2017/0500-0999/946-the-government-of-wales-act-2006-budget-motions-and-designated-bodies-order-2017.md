@@ -31,7 +31,7 @@ summary: ''
 
 Constitutional Law
 
-The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2017 (revoked)[^key-a1a3c86ca8f340cae933193194c49474]
+The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2017 (revoked)[^c-a1a3c86ca8f340cae933193194c49474]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 11 December 2017
 
-[^key-a1a3c86ca8f340cae933193194c49474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1a3c86ca8f340cae933193194c49474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a1a3c86ca8f340cae933193194c49474]
+## 1. Title and commencement[^c-a1a3c86ca8f340cae933193194c49474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designations[^key-a1a3c86ca8f340cae933193194c49474]
+## 2. Designations[^c-a1a3c86ca8f340cae933193194c49474]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1a3c86ca8f340cae933193194c49474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1a3c86ca8f340cae933193194c49474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Designated Bodies[^key-a1a3c86ca8f340cae933193194c49474]
+## SCHEDULE — Designated Bodies[^c-a1a3c86ca8f340cae933193194c49474]
 
 Article 2
 
@@ -69,8 +69,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1a3c86ca8f340cae933193194c49474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1a3c86ca8f340cae933193194c49474]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1a3c86ca8f340cae933193194c49474]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2017/946) revoked (21.1.2019) by [The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018 (S.I. 2018/1173)](https://www.legislation.gov.uk/wsi/2018/1173), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1173/article/2/b)
+[^c-a1a3c86ca8f340cae933193194c49474]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2017/946) revoked (21.1.2019) by [The Government of Wales Act 2006 (Budget Motions and Designated Bodies) Order 2018 (S.I. 2018/1173)](https://www.legislation.gov.uk/wsi/2018/1173), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1173/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Filing obligations of medium-sized LLPs[^key-f839c6dd9fa306af9aa744cac49cb00a]
+## 13. Filing obligations of medium-sized LLPs[^c-f839c6dd9fa306af9aa744cac49cb00a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f839c6dd9fa306af9aa744cac49cb00a]: Commencement: Reg. 13 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-f839c6dd9fa306af9aa744cac49cb00a]: Commencement: Reg. 13 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

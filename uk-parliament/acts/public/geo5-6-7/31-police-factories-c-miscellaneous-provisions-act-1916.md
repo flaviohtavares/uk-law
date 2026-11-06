@@ -53,25 +53,25 @@ An Act to amend the Enactments relating to the Police and certain other Enactmen
 
 ### 5. Regulations of street collections.[^c6442591]
 
-(1)[^key-41746e2bb3ead8dad9db160fe359f34e][^key-70ab5484ed081228c2dc92ab7d98cb62] Each of the authorities specified in subsection (1A) below[^c6442601] may make regulations with respect to the places where and the conditions under which persons may be permitted in any street or public place, within their area, to collect money or sell articles for the benefit of charitable or other purposes, and any person who acts in contravention of any such regulation shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale[^c6442621] or in the case of a second or subsequent offence not exceeding level 1 on the standard scale[^c6442631]:
+(1)[^c-41746e2bb3ead8dad9db160fe359f34e][^c-70ab5484ed081228c2dc92ab7d98cb62] Each of the authorities specified in subsection (1A) below[^c6442601] may make regulations with respect to the places where and the conditions under which persons may be permitted in any street or public place, within their area, to collect money or sell articles for the benefit of charitable or other purposes, and any person who acts in contravention of any such regulation shall be liable on summary conviction to a fine not exceeding level 1 on the standard scale[^c6442621] or in the case of a second or subsequent offence not exceeding level 1 on the standard scale[^c6442631]:
 
 Provided that—
 
-- (a) regulations made under this section shall not come into operation until they have been confirmed by the Secretary of State [^key-74e18dd61f67fe6d581f0aa99f6368eb]..., and published for such time and in such manner as the Secretary of State [^key-74e18dd61f67fe6d581f0aa99f6368eb]... may direct; and
+- (a) regulations made under this section shall not come into operation until they have been confirmed by the Secretary of State [^c-74e18dd61f67fe6d581f0aa99f6368eb]..., and published for such time and in such manner as the Secretary of State [^c-74e18dd61f67fe6d581f0aa99f6368eb]... may direct; and
 - (b) regulations made under this section shall not apply to the selling of articles in any street or public place when the articles are sold in the ordinary course of trade, and for the purpose of earning a livelihood, and no representation is made by or on behalf of the seller that any part of the proceeds of sale will be devoted to any charitable purpose.
 
 (1A)[^c6442641] The authorities referred to in subsection (1) above are—
 
 - (a) the Common Council of the City of London,
-- (b)[^key-e5a4d151dffc47553c3cdc56462ca759] the Mayor's Office for Policing and Crime, and
+- (b)[^c-e5a4d151dffc47553c3cdc56462ca759] the Mayor's Office for Policing and Crime, and
 - (c) the council of each district;
 
 but any regulations made by a district council under that subsection shall not have effect with respect to any street or public place which is within the Metropolitan Police District as well as within the district.
 
 (2)[^c6442651] This section, except subsection (3) thereof, shall apply to Ireland with the following modifications:—
 
-- (a) references to the Secretary of State [^key-e04735eba0ea62d1c66798a0244769a0]... shall be construed as references to the Lord Lieutenant; and
-- (b) references to the Mayor's Office for Policing and Crime[^key-b8f7c6f74a1dee767ab9d17fd66533ba] shall . . . [^c6442661] be construed as references to the Inspector General of the Royal Irish Constabulary.
+- (a) references to the Secretary of State [^c-e04735eba0ea62d1c66798a0244769a0]... shall be construed as references to the Lord Lieutenant; and
+- (b) references to the Mayor's Office for Policing and Crime[^c-b8f7c6f74a1dee767ab9d17fd66533ba] shall . . . [^c6442661] be construed as references to the Inspector General of the Royal Irish Constabulary.
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6442671]
 
@@ -121,9 +121,9 @@ This Act may be cited as the Police, Factories, &c. (Miscellaneous Provisions) A
 
 [^c6442591]: Modification: S. 5: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1) Table B(39)
 
-[^key-41746e2bb3ead8dad9db160fe359f34e]: Modification: S. 5(1) functions made exercisable concurrently (13.12.2006) by [Transfer of Functions (Third Sector, Communities and Equality) Order 2006 (S.I. 2006/2951)](https://www.legislation.gov.uk/uksi/2006/2951), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2951/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2006/2951/article/3/1)
+[^c-41746e2bb3ead8dad9db160fe359f34e]: Modification: S. 5(1) functions made exercisable concurrently (13.12.2006) by [Transfer of Functions (Third Sector, Communities and Equality) Order 2006 (S.I. 2006/2951)](https://www.legislation.gov.uk/uksi/2006/2951), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2951/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2006/2951/article/3/1)
 
-[^key-70ab5484ed081228c2dc92ab7d98cb62]: Modification: S. 5(1) function no longer exercisable concurrently (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2016/997/article/10/4) (with [arts. 11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-70ab5484ed081228c2dc92ab7d98cb62]: Modification: S. 5(1) function no longer exercisable concurrently (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2016/997/article/10/4) (with [arts. 11](https://www.legislation.gov.uk/uksi/2016/997/article/11), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
 [^c6442601]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 22](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/22)
 
@@ -131,17 +131,17 @@ This Act may be cited as the Police, Factories, &c. (Miscellaneous Provisions) A
 
 [^c6442631]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-74e18dd61f67fe6d581f0aa99f6368eb]: Textual amendment: Words in s. 5(1)(a) omitted (9.11.2016) by virtue of [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-74e18dd61f67fe6d581f0aa99f6368eb]: Textual amendment: Words in s. 5(1)(a) omitted (9.11.2016) by virtue of [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
 [^c6442641]: Textual amendment: S. 5(1A) inserted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 22](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/22)
 
-[^key-e5a4d151dffc47553c3cdc56462ca759]: Textual amendment: S. 5(1A)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 65(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/65/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e5a4d151dffc47553c3cdc56462ca759]: Textual amendment: S. 5(1A)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 65(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/65/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c6442651]: Modification: Functions of Lord Lieutenant of Ireland now exercisable by Secretary of State: [Irish Free State (Consequential Provisions) Act 1922 (13 Geo. 5 Sess. 2 c. 2)](https://www.legislation.gov.uk/ukpga/Geo5Sess2/13/2), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/Geo5Sess2/13/2/schedule/1/paragraph/1/1) and [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/4)
 
-[^key-e04735eba0ea62d1c66798a0244769a0]: Textual amendment: Words in s. 5(2) omitted (9.11.2016) by virtue of [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-e04735eba0ea62d1c66798a0244769a0]: Textual amendment: Words in s. 5(2) omitted (9.11.2016) by virtue of [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-b8f7c6f74a1dee767ab9d17fd66533ba]: Textual amendment: Words in s. 5(2)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 65(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/65/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-b8f7c6f74a1dee767ab9d17fd66533ba]: Textual amendment: Words in s. 5(2)(b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 65(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/65/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c6442661]: Textual amendment: Words omitted by virtue of [Statute Law Revision Act 1927 (c. 42)](https://www.legislation.gov.uk/ukpga/1927/42), [s. 3](https://www.legislation.gov.uk/ukpga/1927/42/section/3)
 

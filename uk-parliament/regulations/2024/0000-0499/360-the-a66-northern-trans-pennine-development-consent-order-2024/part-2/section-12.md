@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Access to works[^key-25626bc5c103d4438a5f1a2dd4a7c356]
+## 12. Access to works[^c-25626bc5c103d4438a5f1a2dd4a7c356]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may form and lay out means of access, or improve existing means o
 
 ## Annotations
 
-[^key-25626bc5c103d4438a5f1a2dd4a7c356]: Commencement: Art. 12 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-25626bc5c103d4438a5f1a2dd4a7c356]: Commencement: Art. 12 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

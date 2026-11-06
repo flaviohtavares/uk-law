@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 341. Insider dealing: special defences[^key-31e268bba19e68fbab5b8c4a9a40499c]
+## 341. Insider dealing: special defences[^c-31e268bba19e68fbab5b8c4a9a40499c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31e268bba19e68fbab5b8c4a9a40499c]: Commencement: Art. 341 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-31e268bba19e68fbab5b8c4a9a40499c]: Commencement: Art. 341 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

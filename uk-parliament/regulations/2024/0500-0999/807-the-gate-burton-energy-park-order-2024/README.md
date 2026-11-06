@@ -41,7 +41,7 @@ Coming into force
 
 An application has been made to the Secretary of State for an order granting development consent under section 37 of the Planning Act 2008 (“**the 2008 Act**”)[^f00001] in accordance with the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00002].
 
-The application has been examined by the Examining Authority appointed by the Secretary of State pursuant to chapter 3 of Part 6 of the 2008 Act and carried out in accordance with [^key-e0bba4090ae2b59eb467dd6080d30780]... the Infrastructure Planning (Examination Procedure) Rules 2010[^f00003].
+The application has been examined by the Examining Authority appointed by the Secretary of State pursuant to chapter 3 of Part 6 of the 2008 Act and carried out in accordance with [^c-e0bba4090ae2b59eb467dd6080d30780]... the Infrastructure Planning (Examination Procedure) Rules 2010[^f00003].
 
 The Examining Authority, having considered the application together with the documents that accompanied it, and the representations made and not withdrawn, has, in accordance with section 74(2)[^f00004] of the 2008 Act made a report and recommendation to the Secretary of State.
 
@@ -174,7 +174,7 @@ A copy of the Order plans and the book of reference mentioned in the Order and c
 
 [^f00002]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264), amended by [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2010/602](https://www.legislation.gov.uk/uksi/2010/602), [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), [S.I. 2012/2654](https://www.legislation.gov.uk/uksi/2012/2654), [S.I. 2012/2732](https://www.legislation.gov.uk/uksi/2012/2732), [S.I. 2013/522](https://www.legislation.gov.uk/uksi/2013/522), [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469), [S.I. 2014/2381](https://www.legislation.gov.uk/uksi/2014/2381), [S.I. 2015/377](https://www.legislation.gov.uk/uksi/2015/377), [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [S.I. 2017/524](https://www.legislation.gov.uk/uksi/2017/524), [2017/572](https://www.legislation.gov.uk/uksi/2017/572) and [S.I. 2018/378](https://www.legislation.gov.uk/uksi/2018/378).
 
-[^key-e0bba4090ae2b59eb467dd6080d30780]: Textual amendment: Words in Preamble omitted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-e0bba4090ae2b59eb467dd6080d30780]: Textual amendment: Words in Preamble omitted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
 [^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Production of air weapon certificate[^key-9c6087706707a2145e60f1f0ee6d213f]
+## 27. Production of air weapon certificate[^c-9c6087706707a2145e60f1f0ee6d213f]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c6087706707a2145e60f1f0ee6d213f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2015/10/section/27) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))
+[^c-9c6087706707a2145e60f1f0ee6d213f]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2015/10/section/27) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(a)](https://www.legislation.gov.uk/ssi/2016/130/article/3/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/130/article/4))

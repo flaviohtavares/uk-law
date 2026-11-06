@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Privileged communications[^key-782985202dc9689e7f46d1261330b4ac][^key-4991c787e3331c25212dfd10203f943e]
+## 81. Privileged communications[^c-782985202dc9689e7f46d1261330b4ac][^c-4991c787e3331c25212dfd10203f943e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ which in proceedings in the High Court would be protected from disclosure on gro
 
 ## Annotations
 
-[^key-782985202dc9689e7f46d1261330b4ac]: Commencement: S. 81 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-782985202dc9689e7f46d1261330b4ac]: Commencement: S. 81 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4991c787e3331c25212dfd10203f943e]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2024/13/section/81) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4991c787e3331c25212dfd10203f943e]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2024/13/section/81) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

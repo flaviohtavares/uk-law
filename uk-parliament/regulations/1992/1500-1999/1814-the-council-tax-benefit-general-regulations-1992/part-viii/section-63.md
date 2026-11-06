@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Evidence and information[^key-574dc918b34c906de2e84d3b0972d4cd]
+## 63. Evidence and information[^c-574dc918b34c906de2e84d3b0972d4cd]
 
 *Extent: E+W+S*
 
@@ -31,16 +31,16 @@ summary: ''
 
 - (a) a payment which is—
   - (i) disregarded under paragraph 22 (income in kind) of Schedule 4 or paragraph 32 of Schedule 5 (payments in kind made by a charity or under certain trusts), and
-  - (ii) made under the Trusts , the Fund or the Eileen Trust[^key-a47d9de451f3080ab11e8e5879dd63e2];
-- (b) a payment which is disregarded under paragraph 35 of Schedule 4 or under paragraph 23 of Schedule 5 (payments made under certain trusts), other than a payment under the Independent Living Funds.[^key-25ddf5ddcb5c6daef09bfd207e931f26]
-- (c)[^key-819faa344ea0fdded0d266262160b764] a payment which is disregarded under regulation 52(9)(b) or (c) (non-dependant deductions) or paragraph 2(b) or (c) of Schedule 2 (second adult’s gross income) other than a payment under the Independent Living Funds.
+  - (ii) made under the Trusts , the Fund or the Eileen Trust[^c-a47d9de451f3080ab11e8e5879dd63e2];
+- (b) a payment which is disregarded under paragraph 35 of Schedule 4 or under paragraph 23 of Schedule 5 (payments made under certain trusts), other than a payment under the Independent Living Funds.[^c-25ddf5ddcb5c6daef09bfd207e931f26]
+- (c)[^c-819faa344ea0fdded0d266262160b764] a payment which is disregarded under regulation 52(9)(b) or (c) (non-dependant deductions) or paragraph 2(b) or (c) of Schedule 2 (second adult’s gross income) other than a payment under the Independent Living Funds.
 
 ## Annotations
 
-[^key-574dc918b34c906de2e84d3b0972d4cd]: Commencement: Reg. 63 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
+[^c-574dc918b34c906de2e84d3b0972d4cd]: Commencement: Reg. 63 in force at 17.8.1992, see [reg. 1(a)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/a)
 
-[^key-a47d9de451f3080ab11e8e5879dd63e2]: Textual amendment: Words in [reg. 63(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/a/ii) substituted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(4)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/4/made)
+[^c-a47d9de451f3080ab11e8e5879dd63e2]: Textual amendment: Words in [reg. 63(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/a/ii) substituted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(4)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/4/made)
 
-[^key-25ddf5ddcb5c6daef09bfd207e931f26]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/b)[(c)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/c) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)
+[^c-25ddf5ddcb5c6daef09bfd207e931f26]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/b)[(c)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/c) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)
 
-[^key-819faa344ea0fdded0d266262160b764]: Textual amendment: [Reg. 63(3)(c)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/c) added (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1993/688/regulation/18)
+[^c-819faa344ea0fdded0d266262160b764]: Textual amendment: [Reg. 63(3)(c)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/63/3/c) added (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/1993/688/regulation/18)

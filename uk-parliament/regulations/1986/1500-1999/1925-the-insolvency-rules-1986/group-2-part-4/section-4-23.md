@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.23. Return of petition[^key-4a65b02e620fbe57296cc99dfcba8b90]
+## 4.23. Return of petition[^c-4a65b02e620fbe57296cc99dfcba8b90]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a65b02e620fbe57296cc99dfcba8b90]: Commencement: [Rule 4.23](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.23) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4a65b02e620fbe57296cc99dfcba8b90]: Commencement: [Rule 4.23](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.23) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

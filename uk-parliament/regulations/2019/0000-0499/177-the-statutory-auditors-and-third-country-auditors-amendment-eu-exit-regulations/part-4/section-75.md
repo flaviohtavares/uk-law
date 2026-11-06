@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Amendment of Regulation 537/2014[^key-e3c5f28a39c3e40e3e7e3ff7da620f87]
+## 75. Amendment of Regulation 537/2014[^c-e3c5f28a39c3e40e3e7e3ff7da620f87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) No. 537/2014 of the European Parliament and of the Council of 16
 
 ## Annotations
 
-[^key-e3c5f28a39c3e40e3e7e3ff7da620f87]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-e3c5f28a39c3e40e3e7e3ff7da620f87]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

@@ -33,7 +33,7 @@ ROADS
 
 ROAD TRAFFIC AND VEHICLES
 
-The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-e56cf9e6e952abe9c2ac6df87b453bd8]
+The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-e56cf9e6e952abe9c2ac6df87b453bd8]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into operation
 
 1st August 2007
 
-[^key-e56cf9e6e952abe9c2ac6df87b453bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e56cf9e6e952abe9c2ac6df87b453bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e56cf9e6e952abe9c2ac6df87b453bd8]
+## 1. Citation and commencement[^c-e56cf9e6e952abe9c2ac6df87b453bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-e56cf9e6e952abe9c2ac6df87b453bd8]
+## 2. Amendments[^c-e56cf9e6e952abe9c2ac6df87b453bd8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e56cf9e6e952abe9c2ac6df87b453bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e56cf9e6e952abe9c2ac6df87b453bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e56cf9e6e952abe9c2ac6df87b453bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e56cf9e6e952abe9c2ac6df87b453bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e56cf9e6e952abe9c2ac6df87b453bd8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/242) revoked (28.5.2008) by [The Motorways Traffic Regulations (Northern Ireland) 2008 (S.R. 2008/135)](https://www.legislation.gov.uk/nisr/2008/135), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2008/135/regulation/15), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/3)
+[^c-e56cf9e6e952abe9c2ac6df87b453bd8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/242) revoked (28.5.2008) by [The Motorways Traffic Regulations (Northern Ireland) 2008 (S.R. 2008/135)](https://www.legislation.gov.uk/nisr/2008/135), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1), [15](https://www.legislation.gov.uk/nisr/2008/135/regulation/15), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/3)

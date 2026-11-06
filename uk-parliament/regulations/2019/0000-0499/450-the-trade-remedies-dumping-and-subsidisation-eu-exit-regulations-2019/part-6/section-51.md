@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Market share requirement[^key-76d20bbe27519fe12cfdbaf73b34ae8f]
+## 51. Market share requirement[^c-76d20bbe27519fe12cfdbaf73b34ae8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purpose of paragraph 9 of Schedule 4 to the Act, the market share requir
 
 ## Annotations
 
-[^key-76d20bbe27519fe12cfdbaf73b34ae8f]: Commencement: Reg. 51 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-76d20bbe27519fe12cfdbaf73b34ae8f]: Commencement: Reg. 51 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

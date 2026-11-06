@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Exception from Class 4 liability in respect of earnings from employed earner’s employment chargeable to income tax under Schedule D.[^key-c80bd583e6dc57b3ebe405d81fe43d3c]
+## 94. Exception from Class 4 liability in respect of earnings from employed earner’s employment chargeable to income tax under Schedule D.[^c-c80bd583e6dc57b3ebe405d81fe43d3c]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f02ac1a7771069ecdecc3b56e250d197] If, for any year of assessment—
+(1)[^c-f02ac1a7771069ecdecc3b56e250d197] If, for any year of assessment—
 
 - (a) an earner has earnings from employment which is employed earner’s employment; and
 - (b) those earnings are chargeable to income tax under Schedule D;
@@ -37,6 +37,6 @@ the earner shall be excepted from liability to pay contributions under section 1
 
 ## Annotations
 
-[^key-c80bd583e6dc57b3ebe405d81fe43d3c]: Textual amendment: Reg. 94 substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2003/193/regulation/11/2)
+[^c-c80bd583e6dc57b3ebe405d81fe43d3c]: Textual amendment: Reg. 94 substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2003/193/regulation/11/2)
 
-[^key-f02ac1a7771069ecdecc3b56e250d197]: Textual amendment: Reg. 94(1) substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2003/193/regulation/11/3)
+[^c-f02ac1a7771069ecdecc3b56e250d197]: Textual amendment: Reg. 94(1) substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2003/193/regulation/11/3)

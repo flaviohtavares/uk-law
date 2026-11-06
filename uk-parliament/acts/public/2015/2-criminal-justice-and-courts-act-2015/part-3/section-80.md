@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Reporting restrictions: information society services[^key-b49b7966882aa9a39dd04d09aa173ea8]
+## 80. Reporting restrictions: information society services[^c-b49b7966882aa9a39dd04d09aa173ea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Schedule 15 makes special provision in connection with the operation of the foll
 
 ## Annotations
 
-[^key-b49b7966882aa9a39dd04d09aa173ea8]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2015/2/section/80) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/65) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/5))
+[^c-b49b7966882aa9a39dd04d09aa173ea8]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2015/2/section/80) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/65) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/5))

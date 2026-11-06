@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Method of settlement of certain disputes under 1991 Act[^key-91bf4e1a2173900c58f71a8b560b170e]
+## 36. Method of settlement of certain disputes under 1991 Act[^c-91bf4e1a2173900c58f71a8b560b170e]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91bf4e1a2173900c58f71a8b560b170e]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2005/12/section/36) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-91bf4e1a2173900c58f71a8b560b170e]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2005/12/section/36) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

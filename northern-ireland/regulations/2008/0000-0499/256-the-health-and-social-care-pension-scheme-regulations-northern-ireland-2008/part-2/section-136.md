@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Employing authority and certain member record keeping and contribution estimates[^key-e96201dc243894b570849d5f5db39b0d]
+## 136. Employing authority and certain member record keeping and contribution estimates[^c-e96201dc243894b570849d5f5db39b0d]
 
 *Extent: N.I.*
 
@@ -27,9 +27,9 @@ summary: ''
 
 no later than 1 month after the date on which that return was required to be submitted to Her Majesty’s Revenue and Customs.
 
-(2)[^key-72c7478773f6d8e121dc50c428aa5149] As regards a GMS practice or an APMS contractor, in respect of each scheme year, the practice or contractor must provide the Department with a statement of estimated pensionable earnings in respect of any non-GP provider that is a GMS practice or APMS contractor or who assists in the provision of HSC services provided by that GMS practice or APMS contractor, at least 1 month before the beginning of that scheme year.
+(2)[^c-72c7478773f6d8e121dc50c428aa5149] As regards a GMS practice or an APMS contractor, in respect of each scheme year, the practice or contractor must provide the Department with a statement of estimated pensionable earnings in respect of any non-GP provider that is a GMS practice or APMS contractor or who assists in the provision of HSC services provided by that GMS practice or APMS contractor, at least 1 month before the beginning of that scheme year.
 
-(3) If, in respect of a scheme year, a non-GP provider has failed to comply with the requirements of paragraph (1), the non-GP provider’s pensionable earnings for that scheme year shall be zero and no contributions paid in respect of that scheme year are to be refunded[^key-d6c021e178ed69708a264e4c308545ec] .
+(3) If, in respect of a scheme year, a non-GP provider has failed to comply with the requirements of paragraph (1), the non-GP provider’s pensionable earnings for that scheme year shall be zero and no contributions paid in respect of that scheme year are to be refunded[^c-d6c021e178ed69708a264e4c308545ec] .
 
 - This is subject to paragraph (4).
 
@@ -51,7 +51,7 @@ the Department may require that non-GP provider’s personal representatives to 
 - (i) within the period referred to in paragraph (1), or
 - (ii) within such other period as the Department should permit.
 
-(6)[^key-356c1f2d308bf3f9c195fe949fc041cb] An employing authority must, in respect of a person, keep a record of all—
+(6)[^c-356c1f2d308bf3f9c195fe949fc041cb] An employing authority must, in respect of a person, keep a record of all—
 
 - (a) contributions paid under regulations 27, 34 or 36;
 - (b) contributions due under regulations 27, 34 or 36, but unpaid;
@@ -79,10 +79,10 @@ the Department may require that non-GP provider’s personal representatives to 
 
 ## Annotations
 
-[^key-e96201dc243894b570849d5f5db39b0d]: Textual amendment: [Reg. 136](https://www.legislation.gov.uk/nisr/2008/256/regulation/136) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [49](https://www.legislation.gov.uk/nisr/2009/188/regulation/49)
+[^c-e96201dc243894b570849d5f5db39b0d]: Textual amendment: [Reg. 136](https://www.legislation.gov.uk/nisr/2008/256/regulation/136) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [49](https://www.legislation.gov.uk/nisr/2009/188/regulation/49)
 
-[^key-72c7478773f6d8e121dc50c428aa5149]: Textual amendment: [Reg. 136(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136/2) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [43](https://www.legislation.gov.uk/nisr/2022/196/regulation/43)
+[^c-72c7478773f6d8e121dc50c428aa5149]: Textual amendment: [Reg. 136(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136/2) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [43](https://www.legislation.gov.uk/nisr/2022/196/regulation/43)
 
-[^key-d6c021e178ed69708a264e4c308545ec]: Textual amendment: Words in [reg. 136(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [14(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/14/2)
+[^c-d6c021e178ed69708a264e4c308545ec]: Textual amendment: Words in [reg. 136(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [14(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/14/2)
 
-[^key-356c1f2d308bf3f9c195fe949fc041cb]: Textual amendment: [Reg. 136(6)-(13)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136/6) substituted for reg. (6)-(10) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [14(3)](https://www.legislation.gov.uk/nisr/2014/225/regulation/14/3)
+[^c-356c1f2d308bf3f9c195fe949fc041cb]: Textual amendment: [Reg. 136(6)-(13)](https://www.legislation.gov.uk/nisr/2008/256/regulation/136/6) substituted for reg. (6)-(10) (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation), Health and Social Care (Pension Scheme) (Amendment No.2) Regulations (Northern Ireland) 2014 (S.R. 2014/225)](https://www.legislation.gov.uk/nisr/2014/225), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/225/regulation/1/2), [14(3)](https://www.legislation.gov.uk/nisr/2014/225/regulation/14/3)

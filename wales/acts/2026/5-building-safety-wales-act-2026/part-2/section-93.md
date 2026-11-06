@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Interpretation[^key-53c1b68381c5692590d887998fdc2298]
+## 93. Interpretation[^c-53c1b68381c5692590d887998fdc2298]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53c1b68381c5692590d887998fdc2298]: Commencement: S. 93 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-53c1b68381c5692590d887998fdc2298]: Commencement: S. 93 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 67 and 104(1) of the New Roads and Street Works Act 1991[^f00001].
 
-## 1. Citation, application and commencement[^key-4348619d5bf6e0a80a78c1e97bc3f53e]
+## 1. Citation, application and commencement[^c-4348619d5bf6e0a80a78c1e97bc3f53e]
 
 These Regulations—
 
@@ -54,24 +54,24 @@ These Regulations—
 - (b) apply in respect of street works in England; and
 - (c) come into force on 6th April 2017.
 
-## 2. Interpretation[^key-2fed877f750043af39fc7d23f115d20f]
+## 2. Interpretation[^c-2fed877f750043af39fc7d23f115d20f]
 
 (1) In these Regulations—
 
 - “the 2009 Regulations” means the Street Works (Qualifications of Supervisors and Operatives) (England) Regulations 2009[^f00002];
-- “[^key-fa031679d5585baaa4a36cb2e5eef666]**the 2023 Regulations**” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
-- [^key-9c7ff5f6c261bd628908f1ccd2ff2837]...
+- “[^c-fa031679d5585baaa4a36cb2e5eef666]**the 2023 Regulations**” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023;
+- [^c-9c7ff5f6c261bd628908f1ccd2ff2837]...
 - “the Act” means the New Roads and Street Works Act 1991;
-- “[^key-93b05b1f1ccdf23974e9f2f9d0d4c0a2]**adaptation period**” has the meaning given to it in regulation 3 of the 2023 Regulations;
+- “[^c-93b05b1f1ccdf23974e9f2f9d0d4c0a2]**adaptation period**” has the meaning given to it in regulation 3 of the 2023 Regulations;
 - “approved assessment centre” means an establishment approved by an approved body for the purpose of assessing competence in the types of work which fall to be done by a trained operative or supervisor;
 - “approved body” has the meaning given to it by regulation 8(1);
 - “approved register” means the register mentioned in regulation 8(2);
-- “[^key-b23d7f93cc16e1f403fb33c06c1db018]**aptitude test**” has the meaning given to it in regulation 3 of the 2023 Regulations;
+- “[^c-b23d7f93cc16e1f403fb33c06c1db018]**aptitude test**” has the meaning given to it in regulation 3 of the 2023 Regulations;
 - “certificate” means a certificate of competence or certificate of recognition (except where the reference is to a renewal certificate);
 - “certificate of competence” means a qualification, award or an equivalent which is granted by an approved body;
 - “certificate of recognition” means a certificate issued in pursuance of regulation 3(3)(b) or (c);
-- “[^key-1017c748a169c4196d7b599075d39e53]**competent authority**” means Qualifications Scotland[^key-f1354966dc4d5623452b88c2fe4dc2df], the City and Guilds of London Institute and the Certification and Association Board for the Water Authority;
-- “registration body” means Qualifications Scotland[^key-3be84fee1cbf5cd95f96e5125214aae6];
+- “[^c-1017c748a169c4196d7b599075d39e53]**competent authority**” means Qualifications Scotland[^c-f1354966dc4d5623452b88c2fe4dc2df], the City and Guilds of London Institute and the Certification and Association Board for the Water Authority;
+- “registration body” means Qualifications Scotland[^c-3be84fee1cbf5cd95f96e5125214aae6];
 - “renewal certificate” means a certificate issued in pursuance of regulation 13;
 - “supervisor” means a person by whom street works are required to be supervised under section 67(1) of the Act; and
 - “trained operative” means a person whose presence at the site of street works is required under section 67(2) of the Act.
@@ -81,7 +81,7 @@ These Regulations—
 - (a) assessed as having the required level of competence in a type of work if that person has passed a practical and theoretical assessment designed to demonstrate attainment of the required level of knowledge and understanding of, and skill in, that type of work; and
 - (b) reassessed as having the required level of competence in a type of work if that person has passed a theoretical assessment designed to demonstrate that the required level of knowledge and understanding of that type of work has been retained and kept up to date since the previous assessment or reassessment.
 
-## 3. Prescribed qualifications[^key-a948db6f28e410b5f3e887cb82a717f7]
+## 3. Prescribed qualifications[^c-a948db6f28e410b5f3e887cb82a717f7]
 
 (1) A person has a prescribed qualification as a trained operative for a type of work (T) listed in Schedule 1, if that person is qualified in—
 
@@ -100,16 +100,16 @@ These Regulations—
 (3) For the purposes of paragraphs (1) and (2), a person is qualified in a type of work if, in respect of that work—
 
 - (a) an approved body has issued a certificate of competence showing that the person has been assessed by an approved assessment centre as having the required level of competence;
-- (b)[^key-0aef811fe182a7359f48a5b64cb566d6] a competent authority has issued a certificate of recognition stating that qualifications held by the person for that type of work have been recognised under Part 2 of the 2023 Regulations; or
+- (b)[^c-0aef811fe182a7359f48a5b64cb566d6] a competent authority has issued a certificate of recognition stating that qualifications held by the person for that type of work have been recognised under Part 2 of the 2023 Regulations; or
 - (c) a competent authority has issued a certificate of recognition stating that the person has completed an adaptation period or has taken and passed an aptitude test, imposed in accordance with Part 2 of the 2023 Regulations;
 
 and the certificate is registered in the approved register.
 
-## 4. Grace period before registration[^key-2085f17349b47e27009cb1b9f6489777]
+## 4. Grace period before registration[^c-2085f17349b47e27009cb1b9f6489777]
 
 For a period of two months beginning with the day on which a person is awarded a certificate (including a renewal certificate) for a type of work, that person is deemed to be qualified in that type of work notwithstanding that the relevant certificate has not been registered or re-registered (as the case may be) in the approved register.
 
-## 5. Prescribed qualifications: UK equivalents[^key-c99393f547a8c55aa59e3e7528e80185]
+## 5. Prescribed qualifications: UK equivalents[^c-c99393f547a8c55aa59e3e7528e80185]
 
 (1) A person has a prescribed qualification for a type of work listed in Schedule 1 or 2 if the person has an equivalent qualification in respect of that type of work which is recognised in another part of the United Kingdom.
 
@@ -121,15 +121,15 @@ For a period of two months beginning with the day on which a person is awarded a
   - (ii) in relation to Scotland, it is prescribed by regulations made under sections 126 and 163(1) of the Act, or
   - (iii) in relation to Northern Ireland, it is prescribed by regulations made under article 27 of the Street Works (Northern Ireland) Order 1995[^f00005].
 
-## 6. Restrictions on qualifications[^key-3053bf5c662a317161eb4793cf989db0]
+## 6. Restrictions on qualifications[^c-3053bf5c662a317161eb4793cf989db0]
 
 A prescribed qualification may relate to all types of work listed in Schedule 1 or 2 which may fall to be done by a trained operative or supervisor or may be restricted to some of them, and the requirements of section 67 of the Act are deemed to be satisfied only in relation to the types of work to which that qualification relates.
 
-## 7. Freedom to provide services on a temporary basis[^key-7e41b573d26cad80e93f2cc159d7c793]
+## 7. Freedom to provide services on a temporary basis[^c-7e41b573d26cad80e93f2cc159d7c793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Qualification registration[^key-50863546dd0ef9446d9008965e1a9b51]
+## 8. Qualification registration[^c-50863546dd0ef9446d9008965e1a9b51]
 
 (1) The bodies approved for the purpose of issuing certificates of competence are those bodies that have been formally recognised for that purpose in accordance with the rules and criteria set out in sections 132 and 133 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00006].
 
@@ -145,11 +145,11 @@ A prescribed qualification may relate to all types of work listed in Schedule 1 
 - (b) the issue by a competent authority of a certificate of recognition in accordance with regulation 3(3)(b) or (c); or
 - (c) receipt of a request for re-registration made under paragraph (4).
 
-## 9. Expiry of registration[^key-11fc841658684324337e3a20d4f743ba]
+## 9. Expiry of registration[^c-11fc841658684324337e3a20d4f743ba]
 
 A certificate ceases to be registered at the end of the period of five years beginning with the day on which it was issued, but a certificate may be re-registered for any number of further periods in accordance with regulations 10 to 12.
 
-## 10. Re-registration more than 12 months before expiry[^key-abf186367db0cffe599f639bf8c76ee7]
+## 10. Re-registration more than 12 months before expiry[^c-abf186367db0cffe599f639bf8c76ee7]
 
 (1) A certificate issued in respect of a type of work may be re-registered for a further period of five years if—
 
@@ -163,7 +163,7 @@ A certificate ceases to be registered at the end of the period of five years beg
 
 (3) The further period for which a certificate is registered under this regulation begins on the day on which the renewal certificate is issued.
 
-## 11. Re-registration within 12 months of expiry[^key-9b64bd1e7c484bcbed8c6041f87992c0]
+## 11. Re-registration within 12 months of expiry[^c-9b64bd1e7c484bcbed8c6041f87992c0]
 
 (1) A certificate issued in respect of a type of work may be re-registered for a further period of five years if—
 
@@ -172,7 +172,7 @@ A certificate ceases to be registered at the end of the period of five years beg
 
 (2) The further period for which a certificate is registered under this regulation begins on the day after the expiry of the previous registration.
 
-## 12. Re-registration after expiry[^key-6147360f6971b55c666659b245e06b22]
+## 12. Re-registration after expiry[^c-6147360f6971b55c666659b245e06b22]
 
 (1) A certificate issued in respect of a type of work may be re-registered for a further period of five years if—
 
@@ -181,11 +181,11 @@ A certificate ceases to be registered at the end of the period of five years beg
 
 (2) The further period for which a certificate is registered under this regulation begins on the day on which the renewal certificate is issued.
 
-## 13. Renewal certificates[^key-265c85c469fe6342f9cbf7a83230b486]
+## 13. Renewal certificates[^c-265c85c469fe6342f9cbf7a83230b486]
 
 An approved body may award a person with a renewal certificate for a type of work if that person has been assessed or reassessed by an approved assessment centre as having the required level of competence in that type of work.
 
-## 14. Exemption for fire and rescue authorities[^key-ee0e663cecc0fb6525377658c63af2cd]
+## 14. Exemption for fire and rescue authorities[^c-ee0e663cecc0fb6525377658c63af2cd]
 
 (1) This regulation applies where a fire and rescue authority is executing street works which do not involve—
 
@@ -196,7 +196,7 @@ An approved body may award a person with a renewal certificate for a type of wor
 
 (3) In this regulation “fire and rescue authority” means a fire and rescue authority under the Fire and Rescue Service Act 2004[^f00007].
 
-## 15. Validity of certificates obtained under the 2009 Regulations[^key-c69b74a5d43c22767cc77e4c91b39f92]
+## 15. Validity of certificates obtained under the 2009 Regulations[^c-c69b74a5d43c22767cc77e4c91b39f92]
 
 (1) This regulation applies where, immediately before the commencement date—
 
@@ -212,7 +212,7 @@ An approved body may award a person with a renewal certificate for a type of wor
 
 (4) In this regulation “commencement date” means 6th April 2017.
 
-## 16. Review[^key-c3869a574113e907a5a7debbea239141]
+## 16. Review[^c-c3869a574113e907a5a7debbea239141]
 
 (1) The Secretary of State must from time to time—
 
@@ -230,7 +230,7 @@ An approved body may award a person with a renewal certificate for a type of wor
 
 (4) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-## 17. Revocations[^key-38e0668f533a18cabd86df13565a2a8c]
+## 17. Revocations[^c-38e0668f533a18cabd86df13565a2a8c]
 
 The following instruments are revoked—
 
@@ -247,67 +247,67 @@ Department for Transport
 
 24th November 2016
 
-## SCHEDULE 1 — Certificates of Competence for Trained Operatives[^key-3c19f6711cb43b62209aaf86afc37c22]
+## SCHEDULE 1 — Certificates of Competence for Trained Operatives[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 Regulations 3(1), 5 and 6
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O2 - Excavation in the highway
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O3 - Reinstatement and compaction of backfill materials
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O4 - Reinstatement of sub-base and base in non-bituminous materials
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O5 - Reinstatement in cold-lay bituminous materials
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O6 - Reinstatement in hot-lay bituminous materials
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O7 - Reinstatement of concrete slabs
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]
+[^c-3c19f6711cb43b62209aaf86afc37c22]
 
 O8 - Reinstatement of modular surfaces and concrete footways
 
-## SCHEDULE 2 — Certificates of Competence for Supervisors[^key-cca4a2dd6eabf95056960b06bd89108e]
+## SCHEDULE 2 — Certificates of Competence for Supervisors[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 Regulations 3(2), 5 and 6
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]
+[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 S2 - Monitoring excavation in the highway
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]
+[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 S3 - Monitoring reinstatement and compaction of backfill materials
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]
+[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 S4 - Monitoring reinstatement of sub-base and base in non-bituminous materials
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]
+[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 S5 - Monitoring reinstatement in bituminous materials
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]
+[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 S6 - Monitoring reinstatement of concrete slabs
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]
+[^c-cca4a2dd6eabf95056960b06bd89108e]
 
 S7 - Monitoring reinstatement of modular surfaces and concrete footways
 
-## SCHEDULE 3 — Validity of certificates obtained under the 2009 Regulations[^key-2c27c1d135319cf1f27d9d79975ed4dc]
+## SCHEDULE 3 — Validity of certificates obtained under the 2009 Regulations[^c-2c27c1d135319cf1f27d9d79975ed4dc]
 
 Regulation 15
 
@@ -354,68 +354,68 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-4348619d5bf6e0a80a78c1e97bc3f53e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-4348619d5bf6e0a80a78c1e97bc3f53e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-2fed877f750043af39fc7d23f115d20f]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-2fed877f750043af39fc7d23f115d20f]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
 [^f00002]: Footnote: [S.I. 2009/2257](https://www.legislation.gov.uk/uksi/2009/2257).
 
-[^key-fa031679d5585baaa4a36cb2e5eef666]: Textual amendment: Words in reg. 2(1) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/2/a)
+[^c-fa031679d5585baaa4a36cb2e5eef666]: Textual amendment: Words in reg. 2(1) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/2/a)
 
-[^key-9c7ff5f6c261bd628908f1ccd2ff2837]: Textual amendment: Words in reg. 2(1) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/8/2/a)
+[^c-9c7ff5f6c261bd628908f1ccd2ff2837]: Textual amendment: Words in reg. 2(1) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/8/2/a)
 
-[^key-93b05b1f1ccdf23974e9f2f9d0d4c0a2]: Textual amendment: Words in reg. 2(1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/2/b)
+[^c-93b05b1f1ccdf23974e9f2f9d0d4c0a2]: Textual amendment: Words in reg. 2(1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/2/b)
 
-[^key-b23d7f93cc16e1f403fb33c06c1db018]: Textual amendment: Words in reg. 2(1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(2)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/2/c)
+[^c-b23d7f93cc16e1f403fb33c06c1db018]: Textual amendment: Words in reg. 2(1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(2)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/2/c)
 
-[^key-1017c748a169c4196d7b599075d39e53]: Textual amendment: Words in reg. 2(1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/8/2/b)
+[^c-1017c748a169c4196d7b599075d39e53]: Textual amendment: Words in reg. 2(1) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/8/2/b)
 
-[^key-f1354966dc4d5623452b88c2fe4dc2df]: Textual amendment: Words in reg. 2(1) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/16/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-f1354966dc4d5623452b88c2fe4dc2df]: Textual amendment: Words in reg. 2(1) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/16/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-3be84fee1cbf5cd95f96e5125214aae6]: Textual amendment: Words in reg. 2(1) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/16/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-3be84fee1cbf5cd95f96e5125214aae6]: Textual amendment: Words in reg. 2(1) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 16(2)(b)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/16/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-a948db6f28e410b5f3e887cb82a717f7]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-a948db6f28e410b5f3e887cb82a717f7]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-0aef811fe182a7359f48a5b64cb566d6]: Textual amendment: Reg. 3(3)(b)(c) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/3)
+[^c-0aef811fe182a7359f48a5b64cb566d6]: Textual amendment: Reg. 3(3)(b)(c) substituted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 98(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/98/3)
 
-[^key-2085f17349b47e27009cb1b9f6489777]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/1147/regulation/4) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-2085f17349b47e27009cb1b9f6489777]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/1147/regulation/4) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-c99393f547a8c55aa59e3e7528e80185]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/1147/regulation/5) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-c99393f547a8c55aa59e3e7528e80185]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/1147/regulation/5) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
 [^f00005]: Footnote: [S.I. 1995/3210](https://www.legislation.gov.uk/uksi/1995/3210).
 
-[^key-3053bf5c662a317161eb4793cf989db0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/1147/regulation/6) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-3053bf5c662a317161eb4793cf989db0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/1147/regulation/6) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-7e41b573d26cad80e93f2cc159d7c793]: Textual amendment: Reg. 7 omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/8/3)
+[^c-7e41b573d26cad80e93f2cc159d7c793]: Textual amendment: Reg. 7 omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/8/3)
 
-[^key-50863546dd0ef9446d9008965e1a9b51]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/1147/regulation/8) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-50863546dd0ef9446d9008965e1a9b51]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/1147/regulation/8) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
 [^f00006]: Footnote: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-11fc841658684324337e3a20d4f743ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2016/1147/regulation/9) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-11fc841658684324337e3a20d4f743ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2016/1147/regulation/9) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-abf186367db0cffe599f639bf8c76ee7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/1147/regulation/10) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-abf186367db0cffe599f639bf8c76ee7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/1147/regulation/10) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-9b64bd1e7c484bcbed8c6041f87992c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/1147/regulation/11) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-9b64bd1e7c484bcbed8c6041f87992c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/1147/regulation/11) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-6147360f6971b55c666659b245e06b22]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/1147/regulation/12) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-6147360f6971b55c666659b245e06b22]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2016/1147/regulation/12) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-265c85c469fe6342f9cbf7a83230b486]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/1147/regulation/13) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-265c85c469fe6342f9cbf7a83230b486]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2016/1147/regulation/13) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-ee0e663cecc0fb6525377658c63af2cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/1147/regulation/14) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-ee0e663cecc0fb6525377658c63af2cd]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2016/1147/regulation/14) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
 [^f00007]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-c69b74a5d43c22767cc77e4c91b39f92]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/1147/regulation/15) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-c69b74a5d43c22767cc77e4c91b39f92]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2016/1147/regulation/15) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-c3869a574113e907a5a7debbea239141]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/1147/regulation/16) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-c3869a574113e907a5a7debbea239141]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2016/1147/regulation/16) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-38e0668f533a18cabd86df13565a2a8c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2016/1147/regulation/17) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-38e0668f533a18cabd86df13565a2a8c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2016/1147/regulation/17) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
 [^f00008]: Footnote: [S.I. 2015/384](https://www.legislation.gov.uk/uksi/2015/384).
 
-[^key-3c19f6711cb43b62209aaf86afc37c22]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1147/schedule/1) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-3c19f6711cb43b62209aaf86afc37c22]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1147/schedule/1) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-cca4a2dd6eabf95056960b06bd89108e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1147/schedule/2) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-cca4a2dd6eabf95056960b06bd89108e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1147/schedule/2) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
 
-[^key-2c27c1d135319cf1f27d9d79975ed4dc]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2016/1147/schedule/3) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)
+[^c-2c27c1d135319cf1f27d9d79975ed4dc]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2016/1147/schedule/3) in force at 6.4.2017, see [reg. 1(c)](https://www.legislation.gov.uk/uksi/2016/1147/regulation/1/c)

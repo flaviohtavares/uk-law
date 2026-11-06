@@ -44,13 +44,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 355(4)(g) and (h) of that Act a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-3cf7dd0037a4a08e93ca8e2f0eca9895]
+## 1. Citation and commencement[^c-3cf7dd0037a4a08e93ca8e2f0eca9895]
 
 (1) These Regulations may be cited as the Gambling Act 2005 (Mandatory and Default Conditions) (England and Wales) Regulations 2007 and shall come into force on whichever is the later of 21st May 2007 or the day after the Regulations are made.
 
 (2) These Regulations shall extend to England and Wales.
 
-## 2. Interpretation[^key-1f52f9dcda49588d1347ab359f2f252d]
+## 2. Interpretation[^c-1f52f9dcda49588d1347ab359f2f252d]
 
 In these Regulations—
 
@@ -77,7 +77,7 @@ In these Regulations—
 - “track premises licence” means a betting premises licence in respect of a track;
 - “wholly automated gaming table” means equipment that would fall within the definition of a gaming machine in section 235 of the 2005 Act but for its exclusion from that definition by subsection (2)(i) of that section.
 
-## 3. Mandatory conditions attaching to every premises licence[^key-184b8b1d4c94d5f0721828d7a0013082]
+## 3. Mandatory conditions attaching to every premises licence[^c-184b8b1d4c94d5f0721828d7a0013082]
 
 (1) The conditions specified in paragraphs (2), (3) and (4) shall be attached to every premises licence.
 
@@ -95,47 +95,47 @@ In these Regulations—
 - (a) a “private lottery” means a private society lottery or a work lottery within the meaning of paragraphs 10 and 11 of Schedule 11 to the 2005 Act; and
 - (b) a “customer lottery” has the same meaning as in Part 3 of Schedule 11 to the 2005 Act.
 
-## 4. Mandatory conditions attaching to casino premises licences[^key-916d049affd65c3215a1fdd30f1f295a]
+## 4. Mandatory conditions attaching to casino premises licences[^c-916d049affd65c3215a1fdd30f1f295a]
 
 The conditions specified in Part 1 of Schedule 1 shall be attached to all types of casino premises licences.
 
-**5.**[^key-7a879855fba01197c2dc0e62f76e0cb7] The conditions specified in Part 2 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to regional casino premises licences.
+**5.**[^c-7a879855fba01197c2dc0e62f76e0cb7] The conditions specified in Part 2 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to regional casino premises licences.
 
-**6.**[^key-f3d6d8845344791cc8ad5b7d66c873be] The conditions specified in Part 3 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to large casino premises licences.
+**6.**[^c-f3d6d8845344791cc8ad5b7d66c873be] The conditions specified in Part 3 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to large casino premises licences.
 
-**7.**[^key-812bf1534ad0d27caeda900d4a860419] The conditions specified in Part 4 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to small casino premises licences.
+**7.**[^c-812bf1534ad0d27caeda900d4a860419] The conditions specified in Part 4 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to small casino premises licences.
 
-**8.**[^key-1fe72af6c219b22e726d8fea42de3686] The conditions specified in Part 5 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to converted casino premises licences.
+**8.**[^c-1fe72af6c219b22e726d8fea42de3686] The conditions specified in Part 5 of Schedule 1 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to converted casino premises licences.
 
-## 9. Default conditions attaching to casino premises licences[^key-88c0707a623d56c2e9738159f000755b]
+## 9. Default conditions attaching to casino premises licences[^c-88c0707a623d56c2e9738159f000755b]
 
 The conditions specified in Part 6 of Schedule 1 shall be attached to casino premises licences unless excluded by the licensing authority who issue the licence, in exercise of their powers under section 169(1)(b) of the 2005 Act.
 
-## 10. Mandatory conditions attaching to bingo premises licences[^key-4dfd609bd8d75a2d2aab04039f4361a7]
+## 10. Mandatory conditions attaching to bingo premises licences[^c-4dfd609bd8d75a2d2aab04039f4361a7]
 
 The conditions specified in Part 1 of Schedule 2 shall be attached to bingo premises licences.
 
-## 11. Default conditions attaching to bingo premises licences[^key-ac8869849fddbce3ac5b448c03851689]
+## 11. Default conditions attaching to bingo premises licences[^c-ac8869849fddbce3ac5b448c03851689]
 
 The conditions specified in Part 2 of Schedule 2 shall be attached to bingo premises licences unless excluded by the licensing authority who issue the licence, in exercise of their powers under section 169(1)(b) of the 2005 Act.
 
-## 12. Mandatory conditions attaching to adult gaming centre premises licences[^key-9e76f39044f78e318c09e171ae5e692f]
+## 12. Mandatory conditions attaching to adult gaming centre premises licences[^c-9e76f39044f78e318c09e171ae5e692f]
 
 The conditions specified in Schedule 3 shall be attached to adult gaming centre premises licences.
 
-## 13. Mandatory conditions attaching to family entertainment centre premises licences[^key-2cb5cd6c47d0663719bfee2409dda60f]
+## 13. Mandatory conditions attaching to family entertainment centre premises licences[^c-2cb5cd6c47d0663719bfee2409dda60f]
 
 The conditions specified in Schedule 4 shall be attached to family entertainment centre premises licences.
 
-## 14. Mandatory conditions attaching to betting premises licences other than track premises licences[^key-5b20eaecad3ea2f1fad5d909b65fcd5f]
+## 14. Mandatory conditions attaching to betting premises licences other than track premises licences[^c-5b20eaecad3ea2f1fad5d909b65fcd5f]
 
 The conditions specified in Part 1 of Schedule 5 shall be attached to betting premises licences other than track premises licences.
 
-## 15. Default conditions attaching to betting premises licences other than track premises licences[^key-b75a8437b3315b799ab1fd1d0fdeb387]
+## 15. Default conditions attaching to betting premises licences other than track premises licences[^c-b75a8437b3315b799ab1fd1d0fdeb387]
 
 The conditions specified in Part 2 of Schedule 5 shall be attached to betting premises licences other than track premises licences unless excluded by the licensing authority who issue the licence, in exercise of their powers under section 169(1)(b) of the 2005 Act.
 
-## 16. Mandatory conditions attaching to track premises licences[^key-69e82eba90ccb67df5c4744a1ba0d836]
+## 16. Mandatory conditions attaching to track premises licences[^c-69e82eba90ccb67df5c4744a1ba0d836]
 
 (1) The conditions specified in Part 1 of Schedule 6 shall be attached to track premises licences.
 
@@ -143,7 +143,7 @@ The conditions specified in Part 2 of Schedule 5 shall be attached to betting pr
 
 (3) The conditions specified in Part 3 of Schedule 6 shall, in addition to the conditions specified in Part 1 of that Schedule, be attached to track premises licences in respect of premises that are dog tracks.
 
-## 17. Default conditions attaching to track premises licences[^key-b415d019ea8ca765f7d76367a3c56337]
+## 17. Default conditions attaching to track premises licences[^c-b415d019ea8ca765f7d76367a3c56337]
 
 The conditions specified in Part 4 of Schedule 6 shall be attached to track premises licences unless excluded by the licensing authority who issue the licence, in exercise of their powers under section 169(1)(b) of the 2005 Act.
 
@@ -161,32 +161,32 @@ Regulations 4 to 9
 
 ### PART 1 — Mandatory conditions attaching to casino premises licences
 
-**1.**[^key-acde9048f04adc323a111ab084ec9daf] (1) The principal entrance to the premises shall be from a street.
+**1.**[^c-acde9048f04adc323a111ab084ec9daf] (1) The principal entrance to the premises shall be from a street.
 
 (2) No entrance to the premises shall be from premises that are used wholly or mainly by children, by young persons, or by both.
 
 (3) No customer shall be able to enter the premises directly from any other premises in respect of which a licence issued under Part 8 of the Act, or a permit issued under Schedule 10, 12 or 13 to the Act, has effect.
 
-**2.**[^key-632722f93a9b1dbf50f2754befa8362b] A gap of at least 2 metres shall be maintained between any ordinary gaming table and any other equipment, apparatus or structure used by a person to gamble on the premises.
+**2.**[^c-632722f93a9b1dbf50f2754befa8362b] A gap of at least 2 metres shall be maintained between any ordinary gaming table and any other equipment, apparatus or structure used by a person to gamble on the premises.
 
-**3.**[^key-1c3e8ecd7180f7eef6cf0de7e744c7f1] No more than 40 separate player positions may be made available for use in relation to wholly automated gaming tables at any time.
+**3.**[^c-1c3e8ecd7180f7eef6cf0de7e744c7f1] No more than 40 separate player positions may be made available for use in relation to wholly automated gaming tables at any time.
 
-**4.**[^key-0bc13fae0efc4ce1314c2cd00f1a6a2c] (1) The rules of each type of casino game that is available to be played on the premises shall be displayed in a prominent place within both the table gaming area and other gambling area of the premises to which customers wishing to use facilities for gambling have unrestricted access.
+**4.**[^c-0bc13fae0efc4ce1314c2cd00f1a6a2c] (1) The rules of each type of casino game that is available to be played on the premises shall be displayed in a prominent place within both the table gaming area and other gambling area of the premises to which customers wishing to use facilities for gambling have unrestricted access.
 
 (2) The condition in sub-paragraph (1) may be satisfied by—
 
 - (a) displaying a clear and legible sign setting out the rules; or
 - (b) making available to customers leaflets or other written material containing the rules.
 
-**5.**[^key-f2fa5a735647fe34c92663ded0538c6d] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling at any gaming table, gaming machine or betting machine in order to do so.
+**5.**[^c-f2fa5a735647fe34c92663ded0538c6d] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling at any gaming table, gaming machine or betting machine in order to do so.
 
 ### PART 2 — Mandatory conditions attaching to regional casino premises licences
 
-**1.**[^key-a493de2fb291257beaee83c3e7730d5f] A notice shall be displayed in a prominent place at every entrance to the gambling area of the premises stating that no person under the age of 18 years is permitted to enter that part of the premises.
+**1.**[^c-a493de2fb291257beaee83c3e7730d5f] A notice shall be displayed in a prominent place at every entrance to the gambling area of the premises stating that no person under the age of 18 years is permitted to enter that part of the premises.
 
-**2.**[^key-0c9ba87e1c0541785eed8642789267ee] The gambling area of the premises shall not be capable of being seen from any part of the premises to which children, young persons, or both, have access.
+**2.**[^c-0c9ba87e1c0541785eed8642789267ee] The gambling area of the premises shall not be capable of being seen from any part of the premises to which children, young persons, or both, have access.
 
-**3.**[^key-4682a6fe7286aa27f58168cef11053bc] (1) The premises shall contain a table gaming area the floor area of which is no less than 1000m².
+**3.**[^c-4682a6fe7286aa27f58168cef11053bc] (1) The premises shall contain a table gaming area the floor area of which is no less than 1000m².
 
 (2) Subject to sub-paragraph (3), in determining the floor area of the table gaming area, any number of separate areas within the premises may be taken into account.
 
@@ -194,7 +194,7 @@ Regulations 4 to 9
 
 (4) No gambling shall be permitted in the table gaming area of the premises other than gambling by way of table gaming.
 
-**4.**[^key-2a3373924e28dd8f0de31a39e97a4087] (1) The premises shall contain a non-gambling area the floor area of which is no less than 1500m².
+**4.**[^c-2a3373924e28dd8f0de31a39e97a4087] (1) The premises shall contain a non-gambling area the floor area of which is no less than 1500m².
 
 (2) The non-gambling area may consist of one or more areas within the premises.
 
@@ -204,9 +204,9 @@ Regulations 4 to 9
 
 (5) At any time during which facilities for gambling are provided on the premises, each separate area comprising the non-gambling area, other than the lobby areas and toilet facilities referred to in sub-paragraph (3), shall contain recreational facilities that are available for use by customers on the premises.
 
-**5.**[^key-220275fbcff321b96e97bc5dfc56af19] A notice shall be displayed in a prominent place in each part of the premises used for providing facilities for betting, setting out the terms on which persons are invited to bet on the premises.
+**5.**[^c-220275fbcff321b96e97bc5dfc56af19] A notice shall be displayed in a prominent place in each part of the premises used for providing facilities for betting, setting out the terms on which persons are invited to bet on the premises.
 
-**6.**[^key-e7eb1d7e430ade4b7c6747e681432413] (1) A notice setting out the information in sub-paragraph (2) shall be displayed in a prominent place at the main point on the premises where payment for the charge is to be made for a game card (or set of game cards) in respect of a game of bingo.
+**6.**[^c-e7eb1d7e430ade4b7c6747e681432413] (1) A notice setting out the information in sub-paragraph (2) shall be displayed in a prominent place at the main point on the premises where payment for the charge is to be made for a game card (or set of game cards) in respect of a game of bingo.
 
 (2) The notice in sub-paragraph (1) shall include the following information—
 
@@ -226,21 +226,21 @@ Regulations 4 to 9
 - (b) making available leaflets or other written material containing the rules, or
 - (c) running an audio-visual guide to the rules prior to any bingo game being commenced.
 
-**7.**[^key-03f2f51502e02dc41e1f5f1855b94ba2] No more than 40 separate betting positions may be made available for use in relation to betting machines at any time.
+**7.**[^c-03f2f51502e02dc41e1f5f1855b94ba2] No more than 40 separate betting positions may be made available for use in relation to betting machines at any time.
 
 ### PART 3 — Mandatory conditions attaching to large casino premises licences
 
-**1.**[^key-d62b062af3d99fb416690165ff6622c6] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
+**1.**[^c-d62b062af3d99fb416690165ff6622c6] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
 
-**2.**[^key-33fc6715470edb3e783d2179d23904cb] (1) The premises shall contain a table gaming area, the floor area of which is no less than 1000m².
+**2.**[^c-33fc6715470edb3e783d2179d23904cb] (1) The premises shall contain a table gaming area, the floor area of which is no less than 1000m².
 
 (2) Subject to sub-paragraph (3), in determining the floor area of the table gaming area, any number of separate areas within the premises may be taken into account.
 
 (3) Any separate area that comprises less than 12.5% of the minimum required table gaming area shall not be taken into account in determining the table gaming area.
 
-**3.**[^key-eaaf2918e8b812935d2748d0b8057f6f] No gambling shall be permitted in the table gaming area of the premises other than gambling by way of table gaming.
+**3.**[^c-eaaf2918e8b812935d2748d0b8057f6f] No gambling shall be permitted in the table gaming area of the premises other than gambling by way of table gaming.
 
-**4.**[^key-edc588e58685bc31540f4e9b5e1741c4] (1) The premises shall contain a non-gambling area which comprises no less than 500m².
+**4.**[^c-edc588e58685bc31540f4e9b5e1741c4] (1) The premises shall contain a non-gambling area which comprises no less than 500m².
 
 (2) The non-gambling area may consist of one or more areas within the premises.
 
@@ -250,9 +250,9 @@ Regulations 4 to 9
 
 (5) At any time during which facilities for gambling are being provided on the premises, each separate area comprising of the non-gambling area, other than the lobby areas and toilet facilities referred to in sub-paragraph (3), shall contain recreational facilities that are available for use by customers on the premises.
 
-**5.**[^key-d2009241ccfee3c79c82f351da302b5f] A notice shall be displayed in a prominent place in each part of the premises used for providing facilities for betting, setting out the terms on which persons are invited to bet on the premises.
+**5.**[^c-d2009241ccfee3c79c82f351da302b5f] A notice shall be displayed in a prominent place in each part of the premises used for providing facilities for betting, setting out the terms on which persons are invited to bet on the premises.
 
-**6.**[^key-7402376a110b1ea114bd55fc6addb665] (1) A notice setting out the information in sub-paragraph (2) shall be displayed in a prominent place at the main point on the premises where payment for the charge is to be made for a game card (or set of game cards) in respect of a game of bingo.
+**6.**[^c-7402376a110b1ea114bd55fc6addb665] (1) A notice setting out the information in sub-paragraph (2) shall be displayed in a prominent place at the main point on the premises where payment for the charge is to be made for a game card (or set of game cards) in respect of a game of bingo.
 
 (2) The notice in sub-paragraph (1) shall include the following information—
 
@@ -272,21 +272,21 @@ Regulations 4 to 9
 - (b) making available leaflets or other written material containing the rules, or
 - (c) running an audio-visual guide to the rules prior to any bingo game being commenced.
 
-**7.**[^key-906c4cf60296bb7f65547b9d16df095f] No more than 40 separate betting positions may be made available for use in relation to betting machines at any time.
+**7.**[^c-906c4cf60296bb7f65547b9d16df095f] No more than 40 separate betting positions may be made available for use in relation to betting machines at any time.
 
 ### PART 4 — Mandatory conditions attaching to small casino premises licences
 
-**1.**[^key-84c98bccfea88ea1f5ab5fac9728ffe4] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
+**1.**[^c-84c98bccfea88ea1f5ab5fac9728ffe4] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
 
-**2.**[^key-b9e68ec91c8915087ab5afe2476b07da] (1) The premises shall contain a table gaming area, the floor area of which is no less than 250m²[^key-a082e4925434ed85c9d74e406dd87067].
+**2.**[^c-b9e68ec91c8915087ab5afe2476b07da] (1) The premises shall contain a table gaming area, the floor area of which is no less than 250m²[^c-a082e4925434ed85c9d74e406dd87067].
 
 (2) Subject to sub-paragraph (3), in determining the floor area of the table gaming area, any number of separate areas within the premises may be taken into account.
 
 (3) Any separate area that comprises less than 12.5% of the minimum required table gaming area shall not be taken into account in determining the table gaming area.
 
-**3.**[^key-180b154a6629363fccc78a58c5c3ddc0] No gambling shall be permitted in the table gaming area of the premises other than gambling by way of table gaming.
+**3.**[^c-180b154a6629363fccc78a58c5c3ddc0] No gambling shall be permitted in the table gaming area of the premises other than gambling by way of table gaming.
 
-**4.**[^key-cfc5e82fa7f40bdcc8a9f676785840c9] (1) The premises shall contain a non-gambling area which comprises no less than 250m².
+**4.**[^c-cfc5e82fa7f40bdcc8a9f676785840c9] (1) The premises shall contain a non-gambling area which comprises no less than 250m².
 
 (2) The non-gambling area may consist of one or more areas within the premises.
 
@@ -296,13 +296,13 @@ Regulations 4 to 9
 
 (5) At any time during which facilities for gambling are being provided on the premises, each separate area comprising the non-gambling area, other than the lobby areas and toilet facilities referred to in sub-paragraph (3), shall contain recreational facilities that are available for use by customers on the premises.
 
-**5.**[^key-8425a361f1dd764039ad572cf1b643f5] A notice shall be displayed in a prominent place in each part of the premises used for providing facilities for betting, setting out the terms on which persons are invited to bet on the premises.
+**5.**[^c-8425a361f1dd764039ad572cf1b643f5] A notice shall be displayed in a prominent place in each part of the premises used for providing facilities for betting, setting out the terms on which persons are invited to bet on the premises.
 
-**6.**[^key-c9010680c26117dec834799f6ec03cf5] No more than 40 separate betting positions may be made available for use in relation to betting machines at any time.
+**6.**[^c-c9010680c26117dec834799f6ec03cf5] No more than 40 separate betting positions may be made available for use in relation to betting machines at any time.
 
 ### PART 5 — Mandatory conditions attaching to converted casino premises licences
 
-**A1.**[^key-9ec7fb319579b663c72c48567ceda49d] In this Part—
+**A1.**[^c-9ec7fb319579b663c72c48567ceda49d] In this Part—
 
 - “**extended converted casino premises**” means premises in which gaming machines are made available for use in accordance with the extended gaming machine entitlement;
 - “**extended gaming machine entitlement**” means the entitlement conferred on the holder of a converted casino premises licence to make gaming machines available for use on the premises in accordance with paragraph 65(6)(za) of Schedule 4 to the Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) Order 2006;
@@ -319,25 +319,25 @@ Regulations 4 to 9
 - (c) facilities for gambling must not be provided in the non-gambling area, and
 - (d) at any time during which facilities for gambling are being provided on the premises, each separate area comprising the non-gambling area, other than the lobby areas and toilet facilities referred to in sub-paragraph (b), must contain recreational facilities that are available for use by customers on the premises.
 
-**1.**[^key-a569e046421a43d60c3e6646677f24c3] (1)[^key-8a34619816374498ad6fdeee73db1998] This paragraph applies to all premises in respect of which a converted casino premises licence has effect.
+**1.**[^c-a569e046421a43d60c3e6646677f24c3] (1)[^c-8a34619816374498ad6fdeee73db1998] This paragraph applies to all premises in respect of which a converted casino premises licence has effect.
 
-(2)[^key-316963890717d8574b0c78b46ba3cd66] A notice shall be displayed in a prominent place at every entrance to the premises stating that no person under the age of 18 years is permitted to enter the premises.
+(2)[^c-316963890717d8574b0c78b46ba3cd66] A notice shall be displayed in a prominent place at every entrance to the premises stating that no person under the age of 18 years is permitted to enter the premises.
 
-**2.**[^key-39fd94ec27dc78dce785f52f1f8b5df5] (1)[^key-30bd9f828a7fc5f99627710bf83b0ada] This paragraph applies to larger converted casino premises.
+**2.**[^c-39fd94ec27dc78dce785f52f1f8b5df5] (1)[^c-30bd9f828a7fc5f99627710bf83b0ada] This paragraph applies to larger converted casino premises.
 
-(2)[^key-2e565cf95e47e2a70aafbdefa4e43a64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2e565cf95e47e2a70aafbdefa4e43a64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The premises shall contain a non-gambling area, the floor area of which is no less than 10% of the floor area of the gambling area.
 
-(4)[^key-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f3f650c3feabacd0e79ec5caa5d1c18b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2ea4c3cf097fa87b1860f1a83dcbe16a] (1) This paragraph applies to extended converted casino premises.
+**3.**[^c-2ea4c3cf097fa87b1860f1a83dcbe16a] (1) This paragraph applies to extended converted casino premises.
 
 (2) The premises must contain a table gaming area, the floor area of which is no less than the lesser of—
 
@@ -386,7 +386,7 @@ Regulations 4 to 9
 | At least 280, but less than 300 | 18 |
 | Less than 280 | 16\. |
 
-### PART 6 — Default conditions attaching to casino premises licences[^key-ac89ef5651d79b18386c1dd7450ab8e8]
+### PART 6 — Default conditions attaching to casino premises licences[^c-ac89ef5651d79b18386c1dd7450ab8e8]
 
 No facilities for gambling shall be provided on the premises between the hours of 6am and noon on any day.
 
@@ -396,15 +396,15 @@ Regulations 10 and 11
 
 ### PART 1 — Mandatory conditions attaching to bingo premises licences
 
-**1.**[^key-47b119ba33daf74aa6b62d03025b676f] A notice stating that no person under the age of 18 years is permitted to play bingo on the premises shall be displayed in a prominent place at every entrance to the premises.
+**1.**[^c-47b119ba33daf74aa6b62d03025b676f] A notice stating that no person under the age of 18 years is permitted to play bingo on the premises shall be displayed in a prominent place at every entrance to the premises.
 
-**2.**[^key-886068344ce76315702d2878baa66efc] No customer shall be able to enter the premises directly from any other premises in respect of which one of the following permissions has effect—
+**2.**[^c-886068344ce76315702d2878baa66efc] No customer shall be able to enter the premises directly from any other premises in respect of which one of the following permissions has effect—
 
 - (a) a casino premises licence;
 - (b) an adult gaming centre premises licence;
 - (c) a betting premises licence other than a track premises licence; and
 
-**3.**[^key-3591f5ad444df0b8ce87b38c3eaa57ae] (1) This paragraph shall apply where children or young persons or both are permitted by the licence holder to enter the premises, and Category B or C gaming machines are made available for use on the premises.
+**3.**[^c-3591f5ad444df0b8ce87b38c3eaa57ae] (1) This paragraph shall apply where children or young persons or both are permitted by the licence holder to enter the premises, and Category B or C gaming machines are made available for use on the premises.
 
 (2) Any area of the premises to which category B and C gaming machines are located—
 
@@ -419,7 +419,7 @@ Regulations 10 and 11
 
 (4) A notice stating that no person under the age of 18 years is permitted to enter the area shall be displayed in a prominent place at the entrance to any area of the premises in which Category B or C gaming machines are made available for use.
 
-**4.**[^key-f37fc253acbd32a0858c5ae1747fc3c0] (1) In the case of a charge for admission to the premises, a notice of that charge shall be displayed in a prominent place at the principal entrance to the premises.
+**4.**[^c-f37fc253acbd32a0858c5ae1747fc3c0] (1) In the case of a charge for admission to the premises, a notice of that charge shall be displayed in a prominent place at the principal entrance to the premises.
 
 (2) In the case of any other charges in respect of gaming, a notice setting out the information in sub-paragraph (3) shall be displayed at the main point where payment for the charge is to be made.
 
@@ -433,7 +433,7 @@ Regulations 10 and 11
 
 (5) A reference in this paragraph to a charge in respect of gaming does not include an amount paid for an opportunity to win one or more prizes in gaming to which section 288 of the 2005 Act (meaning of “prize gaming”) applies.
 
-**5.**[^key-2a958854f1efc2da0db2033c891f1e35] (1) The rules of each type of game that is available to be played the premises other than games played on gaming machines shall be made available to customers within the premises.
+**5.**[^c-2a958854f1efc2da0db2033c891f1e35] (1) The rules of each type of game that is available to be played the premises other than games played on gaming machines shall be made available to customers within the premises.
 
 (2) The condition in sub-paragraph (1) may be satisfied by—
 
@@ -441,25 +441,25 @@ Regulations 10 and 11
 - (b) making available leaflets or other written material containing the rules, or
 - (c) running an audio-visual guide to the rules prior to any bingo game being commenced.
 
-**6.**[^key-559fed4a9f4897bd61076bc1a38e1309] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling in order to do so.
+**6.**[^c-559fed4a9f4897bd61076bc1a38e1309] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling in order to do so.
 
 ### PART 2 — Default conditions attaching to bingo premises licences
 
-**1.**[^key-a4a538bf566a8767f6e387fd63525ada] Subject to paragraph 2, no facilities for gambling shall be provided on the premises between the hours of midnight and 9am.
+**1.**[^c-a4a538bf566a8767f6e387fd63525ada] Subject to paragraph 2, no facilities for gambling shall be provided on the premises between the hours of midnight and 9am.
 
-**2.**[^key-005fabeb138201343dd3b826d308b50a] The condition in paragraph 1 shall not apply to making gaming machines available for use.
+**2.**[^c-005fabeb138201343dd3b826d308b50a] The condition in paragraph 1 shall not apply to making gaming machines available for use.
 
 ## SCHEDULE 3 — Mandatory conditions attaching to adult gaming centre premises licences
 
 Regulation 12
 
-**1.**[^key-04577a9f1ef0389a93287349ce5c2d9f] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
+**1.**[^c-04577a9f1ef0389a93287349ce5c2d9f] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
 
-**2.**[^key-5b16cb00a8dfdf6d4f7ae6b6b06d9842] No customer shall be able to access the premises directly from any other premises in respect of which a licence issued under Part 8 of the Act, or a permit issued under Schedule 10, 12 or 13 to the Act, has effect.
+**2.**[^c-5b16cb00a8dfdf6d4f7ae6b6b06d9842] No customer shall be able to access the premises directly from any other premises in respect of which a licence issued under Part 8 of the Act, or a permit issued under Schedule 10, 12 or 13 to the Act, has effect.
 
-**3.**[^key-14d26ed7d15bff26c5e68c3e294890d3] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling at any gaming machine in order to do so.
+**3.**[^c-14d26ed7d15bff26c5e68c3e294890d3] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling at any gaming machine in order to do so.
 
-**4.**[^key-8d0d2d06fbc5c2926ed61eb8ab8b975a] (1) No alcohol shall be permitted to be consumed on the premises at any time during which facilities for gambling are being provided on the premises.
+**4.**[^c-8d0d2d06fbc5c2926ed61eb8ab8b975a] (1) No alcohol shall be permitted to be consumed on the premises at any time during which facilities for gambling are being provided on the premises.
 
 (2) A notice stating the condition in sub-paragraph (1) shall be displayed in a prominent place at every entrance to the premises.
 
@@ -467,15 +467,15 @@ Regulation 12
 
 Regulation 13
 
-**1.**[^key-f35083e7982e4e1d705837014f520b54] No customer shall be able to access the premises directly from any other premises in respect of which one of the following premises licences has effect—
+**1.**[^c-f35083e7982e4e1d705837014f520b54] No customer shall be able to access the premises directly from any other premises in respect of which one of the following premises licences has effect—
 
 - (a) a casino premises licence;
 - (b) an adult gaming centre premises licence;
 - (c) a betting premises licence other than a track premises licence.
 
-**2.**[^key-b3fce1d9caabc5d4c95607390e412b52] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling at any gaming machine in order to do so.
+**2.**[^c-b3fce1d9caabc5d4c95607390e412b52] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling at any gaming machine in order to do so.
 
-**3.**[^key-2dd8c8843dd2a194a1f3b7501ef5155a] (1) Where Category C gaming machines are made available for use on the premises, any area of the premises in which those machines are located—
+**3.**[^c-2dd8c8843dd2a194a1f3b7501ef5155a] (1) Where Category C gaming machines are made available for use on the premises, any area of the premises in which those machines are located—
 
 - (a) shall be separated from the rest of the premises by a physical barrier which is effective to prevent access other than by an entrance designed for the purpose;
 - (b) shall be supervised at all times to ensure children or young persons or both do not enter the area; and
@@ -488,7 +488,7 @@ Regulation 13
 
 (3) A notice stating that no person under the age of 18 years is permitted to enter the area shall be displayed in a prominent place at the entrance to any area of the premises in which Category C gaming machines are made available for use.
 
-**4.**[^key-a2d45363ab8da42ae46988039cd05337] (1) No alcohol shall be permitted to be consumed on the premises at any time during which facilities for gambling are being provided on the premises.
+**4.**[^c-a2d45363ab8da42ae46988039cd05337] (1) No alcohol shall be permitted to be consumed on the premises at any time during which facilities for gambling are being provided on the premises.
 
 (2) A notice stating the condition in sub-paragraph (1) shall be displayed in a prominent place at every entrance to the premises.
 
@@ -498,34 +498,34 @@ Regulations 14 and 15
 
 ### PART 1 — Mandatory conditions attaching to betting premises licences (other than track premises licences)
 
-**1.**[^key-7743b6c3cbdf9985100a353b7f4c0408] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
+**1.**[^c-7743b6c3cbdf9985100a353b7f4c0408] A notice stating that no person under the age of 18 years is permitted to enter the premises shall be displayed in a prominent place at every entrance to the premises.
 
-**2.**[^key-8c4026c5a1d59ddac74feda38f177d56] (1) Access to the premises shall be from a street or from other premises with a betting premises licence.
+**2.**[^c-8c4026c5a1d59ddac74feda38f177d56] (1) Access to the premises shall be from a street or from other premises with a betting premises licence.
 
 (2) Without prejudice to sub-paragraph (1), there shall be no means of direct access between the premises and other premises used for the retail sale of merchandise or services.
 
-**3.**[^key-e179c01ba1fd4a6743ec12ca552bfcee] Subject to anything permitted by virtue of the 2005 Act, or done in accordance with paragraphs 4, 5, 6 and 7 below, the premises shall not be used for any purpose other than for providing facilities for betting.
+**3.**[^c-e179c01ba1fd4a6743ec12ca552bfcee] Subject to anything permitted by virtue of the 2005 Act, or done in accordance with paragraphs 4, 5, 6 and 7 below, the premises shall not be used for any purpose other than for providing facilities for betting.
 
-**4.**[^key-78641907e0f9075ec2990b1348a472e2] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to leave any gaming machine or betting machine in order to do so.
+**4.**[^c-78641907e0f9075ec2990b1348a472e2] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to leave any gaming machine or betting machine in order to do so.
 
-**5.**[^key-ed601847fc9394577646242b77d87544] No apparatus for making information or other material available in the form of sounds or visual images may be used on the premises, except for apparatus used for the following purposes—
+**5.**[^c-ed601847fc9394577646242b77d87544] No apparatus for making information or other material available in the form of sounds or visual images may be used on the premises, except for apparatus used for the following purposes—
 
 - (a) communicating information about, or coverage of, sporting events, including—
   - (i) information relating to betting on such an event; and
   - (ii) any other matter or information, including an advertisement, which is incidental to such an event;
 - (b) communicating information relating to betting on any event (including the result of the event) in connection with which betting transactions may be or have been effected on the premises.
 
-**6.**[^key-db9e0e22d6d02e1bda30a23d43637037] No publications, other than racing periodicals or specialist betting publications, may be sold or offered for sale on the premises.
+**6.**[^c-db9e0e22d6d02e1bda30a23d43637037] No publications, other than racing periodicals or specialist betting publications, may be sold or offered for sale on the premises.
 
-**7.**[^key-7a4956a96e59ee704e09f3bafe39031b] No music, dancing or other entertainment shall be provided or permitted on the premises, save for entertainment provided in accordance with paragraph 5.
+**7.**[^c-7a4956a96e59ee704e09f3bafe39031b] No music, dancing or other entertainment shall be provided or permitted on the premises, save for entertainment provided in accordance with paragraph 5.
 
-**8.**[^key-32b1c4cea417d7d659d3c25df4277402] (1) No alcohol shall be permitted to be consumed on the premises at any time during which facilities for gambling are being provided on the premises.
+**8.**[^c-32b1c4cea417d7d659d3c25df4277402] (1) No alcohol shall be permitted to be consumed on the premises at any time during which facilities for gambling are being provided on the premises.
 
 (2) A notice stating the condition in sub-paragraph (1) shall be displayed in a prominent place at every entrance to the premises.
 
-**9.**[^key-bd4b714da3d1fd3febe1d619d9846683] A notice setting out the terms on which customers are invited to bet on the premises shall be displayed in a prominent place on the premises to which customers have unrestricted access.
+**9.**[^c-bd4b714da3d1fd3febe1d619d9846683] A notice setting out the terms on which customers are invited to bet on the premises shall be displayed in a prominent place on the premises to which customers have unrestricted access.
 
-### PART 2 — Default conditions attaching to betting premises licences (other than in respect of tracks)[^key-8644c0e1a92f04ab4e11ce17740ef780]
+### PART 2 — Default conditions attaching to betting premises licences (other than in respect of tracks)[^c-8644c0e1a92f04ab4e11ce17740ef780]
 
 No facilities for gambling shall be provided on the premises between the hours of 10pm on one day and 7am on the next day.
 
@@ -535,29 +535,29 @@ Regulations 16 and 17
 
 ### PART 1 — Mandatory conditions attaching to all track premises licences
 
-**1.**[^key-4aeaca2301bad4bd8a9280c34b38de7f] No customer shall be able to access the premises directly from any other premises in respect of which one of the following premises licences has effect—
+**1.**[^c-4aeaca2301bad4bd8a9280c34b38de7f] No customer shall be able to access the premises directly from any other premises in respect of which one of the following premises licences has effect—
 
 - (a) a casino premises licence;
 - (b) an adult gaming centre premises licence.
 
-**2.**[^key-836b556d90fef9f8b15a4c624cdd4750] A notice stating that no person under the age of 18 is permitted to bet on the premises shall be displayed in a prominent place at every public entrance to the premises.
+**2.**[^c-836b556d90fef9f8b15a4c624cdd4750] A notice stating that no person under the age of 18 is permitted to bet on the premises shall be displayed in a prominent place at every public entrance to the premises.
 
-**3.**[^key-87416d5043739196db9995f20890d810] The terms on which a bet may be placed must be displayed in a prominent place within the premises to which customers wishing to use facilities for betting have unrestricted access.
+**3.**[^c-87416d5043739196db9995f20890d810] The terms on which a bet may be placed must be displayed in a prominent place within the premises to which customers wishing to use facilities for betting have unrestricted access.
 
-**4.**[^key-399bada68b95f0c3d70e152e14d5dea0] The premises licence holder shall make arrangements to ensure that betting operators who are admitted to the premises for the purpose of accepting bets—
+**4.**[^c-399bada68b95f0c3d70e152e14d5dea0] The premises licence holder shall make arrangements to ensure that betting operators who are admitted to the premises for the purpose of accepting bets—
 
 - (a) will be operating under a valid operating licence; and
 - (b) are enabled to accept such bets in accordance with—
   - (i) the conditions imposed under sections 92 (general betting operating licence) or 93 (pool betting operating licence) of the 2005 Act, or
   - (ii) an authorisation under section 94 (horse-race pool betting operating licence) of that Act.
 
-**5.**[^key-f36dcbe98c7c6138d85e9b9eae146c45] The premises licence holder shall make arrangements to ensure that reasonable steps are taken to remove from the premises any person who is found to be accepting bets on the premises otherwise than in accordance with the 2005 Act.
+**5.**[^c-f36dcbe98c7c6138d85e9b9eae146c45] The premises licence holder shall make arrangements to ensure that reasonable steps are taken to remove from the premises any person who is found to be accepting bets on the premises otherwise than in accordance with the 2005 Act.
 
-**6.**[^key-364deb9533b03aa6780e1e8c2f4d9118] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling in order to do so.
+**6.**[^c-364deb9533b03aa6780e1e8c2f4d9118] Any ATM made available for use on the premises shall be located in a place that requires any customer who wishes to use it to cease gambling in order to do so.
 
 ### PART 2 — Mandatory conditions attaching to track premises licences in respect of premises that are horse-race courses
 
-**1.**[^key-7e39d628a5d7b74af7145e1edef8fc67] (1) This paragraph shall apply to converted track premises licences in respect of premises that are horse-race courses.
+**1.**[^c-7e39d628a5d7b74af7145e1edef8fc67] (1) This paragraph shall apply to converted track premises licences in respect of premises that are horse-race courses.
 
 (2) The licence holder shall ensure that in respect of any part of the track, which immediately before 1st September 2007 was made available for the purposes of complying with a condition imposed under section 13(2) of the 1963 Act (which provides for conditions to be imposed on a certificate under section 13 relating to the places which are to be provided for enabling betting to take place on the track), that part shall continue to be made available for the purposes of enabling betting operators and betting operators’ assistants to use it for carrying on business in connection with providing facilities for betting.
 
@@ -581,7 +581,7 @@ Regulations 16 and 17
 
 (9) This paragraph shall not apply after 31st August 2012.
 
-**2.**[^key-faf948aaca01b982854e00b5adcb5c93] (1) This paragraph shall apply to all track premises licences in respect of premises that are horse-race courses.
+**2.**[^c-faf948aaca01b982854e00b5adcb5c93] (1) This paragraph shall apply to all track premises licences in respect of premises that are horse-race courses.
 
 (2) The licence holder shall provide a place on the premises where betting operators and betting operators’ assistants, including small-scale operators, may carry on business in connection with providing facilities for betting and to which the public may resort for the purpose of betting.
 
@@ -589,7 +589,7 @@ Regulations 16 and 17
 
 (4) This paragraph shall not apply to converted track premises licences before 1st September 2012.
 
-**3.**[^key-5496b8b4947f2037b8b2ff5c6858a7ef] In this Part “converted track premises licence” means a premises licence issued in respect of a track where—
+**3.**[^c-5496b8b4947f2037b8b2ff5c6858a7ef] In this Part “converted track premises licence” means a premises licence issued in respect of a track where—
 
 - (a) the holder of the licence held a certificate under section 13 of the 1963 Act, in respect of the same or substantially the same premises (referred to below as “the 1963 Act permission”);
 - (b) the 1963 Act permission had effect immediately before 1st September 2007; and
@@ -597,25 +597,25 @@ Regulations 16 and 17
 
 ### PART 3 — Mandatory conditions attaching to track premises licences in respect of premises that are dog racing tracks
 
-**1.**[^key-16f577aeafcc87c01859f31a319f0915] A totalisator on the premises shall only be operated—
+**1.**[^c-16f577aeafcc87c01859f31a319f0915] A totalisator on the premises shall only be operated—
 
 - (a) while the public are admitted to the premises for the purpose of attending dog races and no other sporting events are taking place on the premises; and
 - (b) for effecting with persons on the premises betting transactions on dog races taking place on the premises.
 
-**2.**[^key-7c0544126d0d6c3f47ae766ffaab78c6] (1) At any time during which the totalisator is being lawfully used on the premises—
+**2.**[^c-7c0544126d0d6c3f47ae766ffaab78c6] (1) At any time during which the totalisator is being lawfully used on the premises—
 
 - (a) no betting operator or betting operator’s assistant shall be excluded from the premises by reason only of the fact that he proposes to accept or negotiate bets on the premises; and
 - (b) there shall be made available on the premises space for betting operators and betting operators’ assistants where they can conveniently accept and negotiate bets in connection with dog races run on the premises on that day.
 
 (2) This paragraph is without prejudice to section 180 (pool betting on dog races) of the 2005 Act.
 
-**3.**[^key-5a1ac67d242c7ab6b886129529f38d3c] For the purposes of this Part, “totalisator” means the apparatus for betting known as the totalisator or pari mutuel, or any other machine or instrument of betting of a like nature, whether mechanically operated or not.
+**3.**[^c-5a1ac67d242c7ab6b886129529f38d3c] For the purposes of this Part, “totalisator” means the apparatus for betting known as the totalisator or pari mutuel, or any other machine or instrument of betting of a like nature, whether mechanically operated or not.
 
 ### PART 4 — Default conditions attaching to all track premises licences
 
-**1.**[^key-cdd5b0093f8fc24a16dc531ae492c293] Subject to paragraph 2, no facilities for gambling shall be provided on the premises between the hours of 10pm on one day, and 7am on the next day.
+**1.**[^c-cdd5b0093f8fc24a16dc531ae492c293] Subject to paragraph 2, no facilities for gambling shall be provided on the premises between the hours of 10pm on one day, and 7am on the next day.
 
-**2.**[^key-e8296c05cff660e982368a3aa077e026] The prohibition in paragraph 1 does not apply on days when a sporting event is taking place on the premises, in which case gambling transactions may take place at any time during that day.
+**2.**[^c-e8296c05cff660e982368a3aa077e026] The prohibition in paragraph 1 does not apply on days when a sporting event is taking place on the premises, in which case gambling transactions may take place at any time during that day.
 
 EXPLANATORY NOTE
 
@@ -653,9 +653,9 @@ Regulation 17 provides that the conditions set out in Part 4 of Schedule 6 will 
 
 [^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-3cf7dd0037a4a08e93ca8e2f0eca9895]: Commencement: Reg. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-3cf7dd0037a4a08e93ca8e2f0eca9895]: Commencement: Reg. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-1f52f9dcda49588d1347ab359f2f252d]: Commencement: Reg. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-1f52f9dcda49588d1347ab359f2f252d]: Commencement: Reg. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
 [^f00002]: Footnote: [1963 c.2](https://www.legislation.gov.uk/ukpga/1963/2).
 
@@ -665,188 +665,188 @@ Regulation 17 provides that the conditions set out in Part 4 of Schedule 6 will 
 
 [^f00005]: Footnote: See Part 7 of Schedule 4 to the Gambling Act 2005 (Commencement No.6 and Transitional Provisions) Order 2006 ([S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272)); amended by [S.I. 2006/3361](https://www.legislation.gov.uk/uksi/2006/3361).
 
-[^key-184b8b1d4c94d5f0721828d7a0013082]: Commencement: Reg. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-184b8b1d4c94d5f0721828d7a0013082]: Commencement: Reg. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
 [^f00006]: Footnote: See the National Lottery Regulations 1994 ([S.I. 1994/189](https://www.legislation.gov.uk/uksi/1994/189)) which prohibits the sale of National Lottery tickets in specified premises licensed for gambling activities.
 
-[^key-916d049affd65c3215a1fdd30f1f295a]: Commencement: Reg. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-916d049affd65c3215a1fdd30f1f295a]: Commencement: Reg. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-7a879855fba01197c2dc0e62f76e0cb7]: Commencement: Reg. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-7a879855fba01197c2dc0e62f76e0cb7]: Commencement: Reg. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-f3d6d8845344791cc8ad5b7d66c873be]: Commencement: Reg. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-f3d6d8845344791cc8ad5b7d66c873be]: Commencement: Reg. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-812bf1534ad0d27caeda900d4a860419]: Commencement: Reg. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-812bf1534ad0d27caeda900d4a860419]: Commencement: Reg. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-1fe72af6c219b22e726d8fea42de3686]: Commencement: Reg. 8 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-1fe72af6c219b22e726d8fea42de3686]: Commencement: Reg. 8 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-88c0707a623d56c2e9738159f000755b]: Commencement: Reg. 9 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-88c0707a623d56c2e9738159f000755b]: Commencement: Reg. 9 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-4dfd609bd8d75a2d2aab04039f4361a7]: Commencement: Reg. 10 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-4dfd609bd8d75a2d2aab04039f4361a7]: Commencement: Reg. 10 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-ac8869849fddbce3ac5b448c03851689]: Commencement: Reg. 11 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-ac8869849fddbce3ac5b448c03851689]: Commencement: Reg. 11 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-9e76f39044f78e318c09e171ae5e692f]: Commencement: Reg. 12 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-9e76f39044f78e318c09e171ae5e692f]: Commencement: Reg. 12 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-2cb5cd6c47d0663719bfee2409dda60f]: Commencement: Reg. 13 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-2cb5cd6c47d0663719bfee2409dda60f]: Commencement: Reg. 13 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-5b20eaecad3ea2f1fad5d909b65fcd5f]: Commencement: Reg. 14 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-5b20eaecad3ea2f1fad5d909b65fcd5f]: Commencement: Reg. 14 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-b75a8437b3315b799ab1fd1d0fdeb387]: Commencement: Reg. 15 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-b75a8437b3315b799ab1fd1d0fdeb387]: Commencement: Reg. 15 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-69e82eba90ccb67df5c4744a1ba0d836]: Commencement: Reg. 16 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-69e82eba90ccb67df5c4744a1ba0d836]: Commencement: Reg. 16 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-b415d019ea8ca765f7d76367a3c56337]: Commencement: Reg. 17 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-b415d019ea8ca765f7d76367a3c56337]: Commencement: Reg. 17 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-acde9048f04adc323a111ab084ec9daf]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-acde9048f04adc323a111ab084ec9daf]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-632722f93a9b1dbf50f2754befa8362b]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-632722f93a9b1dbf50f2754befa8362b]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-1c3e8ecd7180f7eef6cf0de7e744c7f1]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-1c3e8ecd7180f7eef6cf0de7e744c7f1]: Commencement: Sch. 1 Pt. 1 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-0bc13fae0efc4ce1314c2cd00f1a6a2c]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-0bc13fae0efc4ce1314c2cd00f1a6a2c]: Commencement: Sch. 1 Pt. 1 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-f2fa5a735647fe34c92663ded0538c6d]: Commencement: Sch. 1 Pt. 1 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-f2fa5a735647fe34c92663ded0538c6d]: Commencement: Sch. 1 Pt. 1 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-a493de2fb291257beaee83c3e7730d5f]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-a493de2fb291257beaee83c3e7730d5f]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-0c9ba87e1c0541785eed8642789267ee]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-0c9ba87e1c0541785eed8642789267ee]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-4682a6fe7286aa27f58168cef11053bc]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-4682a6fe7286aa27f58168cef11053bc]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-2a3373924e28dd8f0de31a39e97a4087]: Commencement: Sch. 1 Pt. 2 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-2a3373924e28dd8f0de31a39e97a4087]: Commencement: Sch. 1 Pt. 2 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-220275fbcff321b96e97bc5dfc56af19]: Commencement: Sch. 1 Pt. 2 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-220275fbcff321b96e97bc5dfc56af19]: Commencement: Sch. 1 Pt. 2 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-e7eb1d7e430ade4b7c6747e681432413]: Commencement: Sch. 1 Pt. 2 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-e7eb1d7e430ade4b7c6747e681432413]: Commencement: Sch. 1 Pt. 2 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-03f2f51502e02dc41e1f5f1855b94ba2]: Commencement: Sch. 1 Pt. 2 para. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-03f2f51502e02dc41e1f5f1855b94ba2]: Commencement: Sch. 1 Pt. 2 para. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-d62b062af3d99fb416690165ff6622c6]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-d62b062af3d99fb416690165ff6622c6]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-33fc6715470edb3e783d2179d23904cb]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-33fc6715470edb3e783d2179d23904cb]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-eaaf2918e8b812935d2748d0b8057f6f]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-eaaf2918e8b812935d2748d0b8057f6f]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-edc588e58685bc31540f4e9b5e1741c4]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-edc588e58685bc31540f4e9b5e1741c4]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-d2009241ccfee3c79c82f351da302b5f]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-d2009241ccfee3c79c82f351da302b5f]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-7402376a110b1ea114bd55fc6addb665]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-7402376a110b1ea114bd55fc6addb665]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-906c4cf60296bb7f65547b9d16df095f]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-906c4cf60296bb7f65547b9d16df095f]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-84c98bccfea88ea1f5ab5fac9728ffe4]: Commencement: Sch. 1 Pt. 4 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-84c98bccfea88ea1f5ab5fac9728ffe4]: Commencement: Sch. 1 Pt. 4 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-b9e68ec91c8915087ab5afe2476b07da]: Commencement: Sch. 1 Pt. 4 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-b9e68ec91c8915087ab5afe2476b07da]: Commencement: Sch. 1 Pt. 4 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-a082e4925434ed85c9d74e406dd87067]: Textual amendment: Word in [Sch. 1 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/4/paragraph/2/1) substituted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/2)
+[^c-a082e4925434ed85c9d74e406dd87067]: Textual amendment: Word in [Sch. 1 Pt. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/4/paragraph/2/1) substituted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/2)
 
-[^key-180b154a6629363fccc78a58c5c3ddc0]: Commencement: Sch. 1 Pt. 4 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-180b154a6629363fccc78a58c5c3ddc0]: Commencement: Sch. 1 Pt. 4 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-cfc5e82fa7f40bdcc8a9f676785840c9]: Commencement: Sch. 1 Pt. 4 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-cfc5e82fa7f40bdcc8a9f676785840c9]: Commencement: Sch. 1 Pt. 4 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-8425a361f1dd764039ad572cf1b643f5]: Commencement: Sch. 1 Pt. 4 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-8425a361f1dd764039ad572cf1b643f5]: Commencement: Sch. 1 Pt. 4 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-c9010680c26117dec834799f6ec03cf5]: Commencement: Sch. 1 Pt. 4 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-c9010680c26117dec834799f6ec03cf5]: Commencement: Sch. 1 Pt. 4 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-9ec7fb319579b663c72c48567ceda49d]: Textual amendment: [Sch. 1 Pt. 5 paras. A1-C1](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/A1) inserted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/a)
+[^c-9ec7fb319579b663c72c48567ceda49d]: Textual amendment: [Sch. 1 Pt. 5 paras. A1-C1](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/A1) inserted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/a)
 
-[^key-a569e046421a43d60c3e6646677f24c3]: Commencement: Sch. 1 Pt. 5 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-a569e046421a43d60c3e6646677f24c3]: Commencement: Sch. 1 Pt. 5 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-8a34619816374498ad6fdeee73db1998]: Textual amendment: [Sch. 1 Pt. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/1/1) inserted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/b/ii)
+[^c-8a34619816374498ad6fdeee73db1998]: Textual amendment: [Sch. 1 Pt. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/1/1) inserted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/b/ii)
 
-[^key-316963890717d8574b0c78b46ba3cd66]: Textual amendment: Sch. 1 Pt. 5 para. 1 renumbered as Sch. 1 Pt. 5 para. 1(2) (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/b/i)
+[^c-316963890717d8574b0c78b46ba3cd66]: Textual amendment: Sch. 1 Pt. 5 para. 1 renumbered as Sch. 1 Pt. 5 para. 1(2) (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/b/i)
 
-[^key-39fd94ec27dc78dce785f52f1f8b5df5]: Commencement: Sch. 1 Pt. 5 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-39fd94ec27dc78dce785f52f1f8b5df5]: Commencement: Sch. 1 Pt. 5 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-30bd9f828a7fc5f99627710bf83b0ada]: Textual amendment: [Sch. 1 Pt. 5 para. 2(1)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/2/1) substituted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/c/i)
+[^c-30bd9f828a7fc5f99627710bf83b0ada]: Textual amendment: [Sch. 1 Pt. 5 para. 2(1)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/2/1) substituted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/c/i)
 
-[^key-2e565cf95e47e2a70aafbdefa4e43a64]: Textual amendment: [Sch. 1 Pt. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/2/2) omitted (22.7.2025) by virtue of [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/c/ii)
+[^c-2e565cf95e47e2a70aafbdefa4e43a64]: Textual amendment: [Sch. 1 Pt. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/2/2) omitted (22.7.2025) by virtue of [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/c/ii)
 
-[^key-f3f650c3feabacd0e79ec5caa5d1c18b]: Textual amendment: [Sch. 1 Pt. 5 para. 2(4)-(7)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/2/4) omitted (22.7.2025) by virtue of [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/c/ii)
+[^c-f3f650c3feabacd0e79ec5caa5d1c18b]: Textual amendment: [Sch. 1 Pt. 5 para. 2(4)-(7)](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/2/4) omitted (22.7.2025) by virtue of [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/c/ii)
 
-[^key-2ea4c3cf097fa87b1860f1a83dcbe16a]: Textual amendment: [Sch. 1 Pt. 5 paras. 3-5](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/3) inserted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(d)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/d)
+[^c-2ea4c3cf097fa87b1860f1a83dcbe16a]: Textual amendment: [Sch. 1 Pt. 5 paras. 3-5](https://www.legislation.gov.uk/uksi/2007/1409/schedule/1/part/5/paragraph/3) inserted (22.7.2025) by [The Casinos (Gaming Machines and Mandatory Conditions) Regulations 2025 (S.I. 2025/735)](https://www.legislation.gov.uk/uksi/2025/735), [regs. 1](https://www.legislation.gov.uk/uksi/2025/735/regulation/1), [4(3)(d)](https://www.legislation.gov.uk/uksi/2025/735/regulation/4/3/d)
 
-[^key-ac89ef5651d79b18386c1dd7450ab8e8]: Commencement: Sch. 1 Pt. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-ac89ef5651d79b18386c1dd7450ab8e8]: Commencement: Sch. 1 Pt. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-47b119ba33daf74aa6b62d03025b676f]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-47b119ba33daf74aa6b62d03025b676f]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-886068344ce76315702d2878baa66efc]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-886068344ce76315702d2878baa66efc]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-3591f5ad444df0b8ce87b38c3eaa57ae]: Commencement: Sch. 2 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-3591f5ad444df0b8ce87b38c3eaa57ae]: Commencement: Sch. 2 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-f37fc253acbd32a0858c5ae1747fc3c0]: Commencement: Sch. 2 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-f37fc253acbd32a0858c5ae1747fc3c0]: Commencement: Sch. 2 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-2a958854f1efc2da0db2033c891f1e35]: Commencement: Sch. 2 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-2a958854f1efc2da0db2033c891f1e35]: Commencement: Sch. 2 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-559fed4a9f4897bd61076bc1a38e1309]: Commencement: Sch. 2 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-559fed4a9f4897bd61076bc1a38e1309]: Commencement: Sch. 2 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-a4a538bf566a8767f6e387fd63525ada]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-a4a538bf566a8767f6e387fd63525ada]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-005fabeb138201343dd3b826d308b50a]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-005fabeb138201343dd3b826d308b50a]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-04577a9f1ef0389a93287349ce5c2d9f]: Commencement: Sch. 3 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-04577a9f1ef0389a93287349ce5c2d9f]: Commencement: Sch. 3 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-5b16cb00a8dfdf6d4f7ae6b6b06d9842]: Commencement: Sch. 3 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-5b16cb00a8dfdf6d4f7ae6b6b06d9842]: Commencement: Sch. 3 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-14d26ed7d15bff26c5e68c3e294890d3]: Commencement: Sch. 3 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-14d26ed7d15bff26c5e68c3e294890d3]: Commencement: Sch. 3 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-8d0d2d06fbc5c2926ed61eb8ab8b975a]: Commencement: Sch. 3 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-8d0d2d06fbc5c2926ed61eb8ab8b975a]: Commencement: Sch. 3 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-f35083e7982e4e1d705837014f520b54]: Commencement: Sch. 4 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-f35083e7982e4e1d705837014f520b54]: Commencement: Sch. 4 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-b3fce1d9caabc5d4c95607390e412b52]: Commencement: Sch. 4 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-b3fce1d9caabc5d4c95607390e412b52]: Commencement: Sch. 4 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-2dd8c8843dd2a194a1f3b7501ef5155a]: Commencement: Sch. 4 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-2dd8c8843dd2a194a1f3b7501ef5155a]: Commencement: Sch. 4 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-a2d45363ab8da42ae46988039cd05337]: Commencement: Sch. 4 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-a2d45363ab8da42ae46988039cd05337]: Commencement: Sch. 4 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-7743b6c3cbdf9985100a353b7f4c0408]: Commencement: Sch. 5 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-7743b6c3cbdf9985100a353b7f4c0408]: Commencement: Sch. 5 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-8c4026c5a1d59ddac74feda38f177d56]: Commencement: Sch. 5 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-8c4026c5a1d59ddac74feda38f177d56]: Commencement: Sch. 5 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-e179c01ba1fd4a6743ec12ca552bfcee]: Commencement: Sch. 5 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-e179c01ba1fd4a6743ec12ca552bfcee]: Commencement: Sch. 5 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-78641907e0f9075ec2990b1348a472e2]: Commencement: Sch. 5 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-78641907e0f9075ec2990b1348a472e2]: Commencement: Sch. 5 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-ed601847fc9394577646242b77d87544]: Commencement: Sch. 5 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-ed601847fc9394577646242b77d87544]: Commencement: Sch. 5 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-db9e0e22d6d02e1bda30a23d43637037]: Commencement: Sch. 5 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-db9e0e22d6d02e1bda30a23d43637037]: Commencement: Sch. 5 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-7a4956a96e59ee704e09f3bafe39031b]: Commencement: Sch. 5 para. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-7a4956a96e59ee704e09f3bafe39031b]: Commencement: Sch. 5 para. 7 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-32b1c4cea417d7d659d3c25df4277402]: Commencement: Sch. 5 para. 8 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-32b1c4cea417d7d659d3c25df4277402]: Commencement: Sch. 5 para. 8 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-bd4b714da3d1fd3febe1d619d9846683]: Commencement: Sch. 5 para. 9 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-bd4b714da3d1fd3febe1d619d9846683]: Commencement: Sch. 5 para. 9 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-8644c0e1a92f04ab4e11ce17740ef780]: Commencement: Sch. 5 Pt. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-8644c0e1a92f04ab4e11ce17740ef780]: Commencement: Sch. 5 Pt. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-4aeaca2301bad4bd8a9280c34b38de7f]: Commencement: Sch. 6 Pt. 1 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-4aeaca2301bad4bd8a9280c34b38de7f]: Commencement: Sch. 6 Pt. 1 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-836b556d90fef9f8b15a4c624cdd4750]: Commencement: Sch. 6 Pt. 1 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-836b556d90fef9f8b15a4c624cdd4750]: Commencement: Sch. 6 Pt. 1 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-87416d5043739196db9995f20890d810]: Commencement: Sch. 6 Pt. 1 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-87416d5043739196db9995f20890d810]: Commencement: Sch. 6 Pt. 1 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-399bada68b95f0c3d70e152e14d5dea0]: Commencement: Sch. 6 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-399bada68b95f0c3d70e152e14d5dea0]: Commencement: Sch. 6 para. 4 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-f36dcbe98c7c6138d85e9b9eae146c45]: Commencement: Sch. 6 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-f36dcbe98c7c6138d85e9b9eae146c45]: Commencement: Sch. 6 para. 5 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-364deb9533b03aa6780e1e8c2f4d9118]: Commencement: Sch. 6 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-364deb9533b03aa6780e1e8c2f4d9118]: Commencement: Sch. 6 para. 6 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-7e39d628a5d7b74af7145e1edef8fc67]: Commencement: Sch. 6 Pt. 2 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-7e39d628a5d7b74af7145e1edef8fc67]: Commencement: Sch. 6 Pt. 2 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-faf948aaca01b982854e00b5adcb5c93]: Commencement: Sch. 6 Pt. 2 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-faf948aaca01b982854e00b5adcb5c93]: Commencement: Sch. 6 Pt. 2 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2006/3266](https://www.legislation.gov.uk/uksi/2006/3266).
 
-[^key-5496b8b4947f2037b8b2ff5c6858a7ef]: Commencement: Sch. 6 Pt. 2 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-5496b8b4947f2037b8b2ff5c6858a7ef]: Commencement: Sch. 6 Pt. 2 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-16f577aeafcc87c01859f31a319f0915]: Commencement: Sch. 6 Pt. 3 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-16f577aeafcc87c01859f31a319f0915]: Commencement: Sch. 6 Pt. 3 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-7c0544126d0d6c3f47ae766ffaab78c6]: Commencement: Sch. 6 Pt. 3 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-7c0544126d0d6c3f47ae766ffaab78c6]: Commencement: Sch. 6 Pt. 3 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-5a1ac67d242c7ab6b886129529f38d3c]: Commencement: Sch. 6 Pt. 3 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-5a1ac67d242c7ab6b886129529f38d3c]: Commencement: Sch. 6 Pt. 3 para. 3 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-cdd5b0093f8fc24a16dc531ae492c293]: Commencement: Sch. 6 Pt. 4 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-cdd5b0093f8fc24a16dc531ae492c293]: Commencement: Sch. 6 Pt. 4 para. 1 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
 
-[^key-e8296c05cff660e982368a3aa077e026]: Commencement: Sch. 6 Pt. 4 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)
+[^c-e8296c05cff660e982368a3aa077e026]: Commencement: Sch. 6 Pt. 4 para. 2 in force at 21.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1409/regulation/1/1)

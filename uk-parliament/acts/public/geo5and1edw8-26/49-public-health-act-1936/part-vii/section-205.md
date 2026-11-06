@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-If the occupier of a factory [^c611624]. . . knowingly allows a woman to be employed therein within four weeks after she has given birth to a child, he shall be liable to a fine not exceeding level 1 on the standard scale[^c611626]. [^key-8a3c0708d3cc20b500c146454dab8e3f]...
+If the occupier of a factory [^c611624]. . . knowingly allows a woman to be employed therein within four weeks after she has given birth to a child, he shall be liable to a fine not exceeding level 1 on the standard scale[^c611626]. [^c-8a3c0708d3cc20b500c146454dab8e3f]...
 
 ## Annotations
 
@@ -28,4 +28,4 @@ If the occupier of a factory [^c611624]. . . knowingly allows a woman to be empl
 
 [^c611626]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-8a3c0708d3cc20b500c146454dab8e3f]: Textual amendment: Words in s. 205 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-8a3c0708d3cc20b500c146454dab8e3f]: Textual amendment: Words in s. 205 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of regulation 6[^key-6eb3d45347d086f55facec37b8b50729]
+## 7. Amendment of regulation 6[^c-6eb3d45347d086f55facec37b8b50729]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 6(2), after sub-paragraph (a) insert—
 
 ## Annotations
 
-[^key-6eb3d45347d086f55facec37b8b50729]: Commencement: Reg. 7 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-6eb3d45347d086f55facec37b8b50729]: Commencement: Reg. 7 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The CAA may, for the purposes of articles 36 and 187, and Chapter 2 of this Part[^key-4d80781b681a13b3f8a4d9d7321287d5]—
+The CAA may, for the purposes of articles 36 and 187, and Chapter 2 of this Part[^c-4d80781b681a13b3f8a4d9d7321287d5]—
 
 - (a) approve any course of training or instruction;
 - (b) authorise a person to conduct such examinations or tests as it may specify; and
@@ -28,4 +28,4 @@ The CAA may, for the purposes of articles 36 and 187, and Chapter 2 of this Part
 
 ## Annotations
 
-[^key-4d80781b681a13b3f8a4d9d7321287d5]: Textual amendment: Words in [art. 168](https://www.legislation.gov.uk/uksi/2016/765/article/168) substituted (5.12.2018) by [The Air Navigation (Amendment) (No. 2) Order 2018 (S.I. 2018/1160)](https://www.legislation.gov.uk/uksi/2018/1160), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1160/article/1), [5](https://www.legislation.gov.uk/uksi/2018/1160/article/5)
+[^c-4d80781b681a13b3f8a4d9d7321287d5]: Textual amendment: Words in [art. 168](https://www.legislation.gov.uk/uksi/2016/765/article/168) substituted (5.12.2018) by [The Air Navigation (Amendment) (No. 2) Order 2018 (S.I. 2018/1160)](https://www.legislation.gov.uk/uksi/2018/1160), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1160/article/1), [5](https://www.legislation.gov.uk/uksi/2018/1160/article/5)

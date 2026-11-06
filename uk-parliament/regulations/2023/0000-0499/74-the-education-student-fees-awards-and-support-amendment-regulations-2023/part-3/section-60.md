@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Amendments relating to the ordinary residence requirements for persons in existing protected categories[^key-ee908cfff927a082b4012fd68fddb5c6]
+## 60. Amendments relating to the ordinary residence requirements for persons in existing protected categories[^c-ee908cfff927a082b4012fd68fddb5c6]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee908cfff927a082b4012fd68fddb5c6]: Commencement: Reg. 60 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-ee908cfff927a082b4012fd68fddb5c6]: Commencement: Reg. 60 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00053]: Footnote: Paragraph 4A was inserted by [S.I. 2018/137](https://www.legislation.gov.uk/uksi/2018/137) and amended by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 4B was substituted by [S.I, 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 4C was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48). Paragraph 4D was substituted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203) and amended by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348). Paragraph 4E was inserted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5 was substituted by [S.I. 2011/87](https://www.legislation.gov.uk/uksi/2011/87) and amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5B was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

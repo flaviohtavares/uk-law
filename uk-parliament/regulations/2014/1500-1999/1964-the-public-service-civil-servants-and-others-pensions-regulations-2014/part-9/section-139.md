@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Refund of all member contributions and payments for extra pension made by the member[^key-5566e856e2028a23a1ebd6f98f39efe8]
+## 139. Refund of all member contributions and payments for extra pension made by the member[^c-5566e856e2028a23a1ebd6f98f39efe8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5566e856e2028a23a1ebd6f98f39efe8]: Commencement: [Reg. 139](https://www.legislation.gov.uk/uksi/2014/1964/regulation/139) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-5566e856e2028a23a1ebd6f98f39efe8]: Commencement: [Reg. 139](https://www.legislation.gov.uk/uksi/2014/1964/regulation/139) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00073]: Footnote: Section 205 was amended by Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) Schedule 46 paragraphs 119 and 121 and [S.I. 2010/536](https://www.legislation.gov.uk/uksi/2010/536).

@@ -32,7 +32,7 @@ summary: ''
 
 Local Loans
 
-The Local Loans (Increase of Limit) Order 2019 (revoked)[^key-a0785585fc6bd8d0e375c449bf23c1b8]
+The Local Loans (Increase of Limit) Order 2019 (revoked)[^c-a0785585fc6bd8d0e375c449bf23c1b8]
 
 Made
 
@@ -40,18 +40,18 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-a0785585fc6bd8d0e375c449bf23c1b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0785585fc6bd8d0e375c449bf23c1b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-a0785585fc6bd8d0e375c449bf23c1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a0785585fc6bd8d0e375c449bf23c1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a0785585fc6bd8d0e375c449bf23c1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a0785585fc6bd8d0e375c449bf23c1b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0785585fc6bd8d0e375c449bf23c1b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0785585fc6bd8d0e375c449bf23c1b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0785585fc6bd8d0e375c449bf23c1b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0785585fc6bd8d0e375c449bf23c1b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0785585fc6bd8d0e375c449bf23c1b8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1317) revoked (12.5.2022) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 112(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/3); [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)
+[^c-a0785585fc6bd8d0e375c449bf23c1b8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1317) revoked (12.5.2022) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 112(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/112/3); [S.I. 2022/531](https://www.legislation.gov.uk/uksi/2022/531), [reg. 2](https://www.legislation.gov.uk/uksi/2022/531/regulation/2)

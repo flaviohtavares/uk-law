@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Feedingstuffs[^key-c0b5b357fdfbecd0095a9e4f426ae4b3]
+## 8. Feedingstuffs[^c-c0b5b357fdfbecd0095a9e4f426ae4b3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 5 (feedingstuffs) has effect.
 
 ## Annotations
 
-[^key-c0b5b357fdfbecd0095a9e4f426ae4b3]: Commencement: Reg. 8 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-c0b5b357fdfbecd0095a9e4f426ae4b3]: Commencement: Reg. 8 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

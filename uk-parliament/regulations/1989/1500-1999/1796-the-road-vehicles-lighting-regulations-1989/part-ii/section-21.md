@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Projecting trailers and vehicles carrying overhanging or projecting loads or equipment[^key-fa01e6870ce9981dc1b4276f3897a8a4]
+## 21. Projecting trailers and vehicles carrying overhanging or projecting loads or equipment[^c-fa01e6870ce9981dc1b4276f3897a8a4]
 
 *Extent: E+W+S*
 
 (1) No person shall use, or cause or permit to be used, on a road in the circumstances mentioned in paragraph (2)–
 
 - (a) any trailer which forms part of a combination of vehicles which projects laterally beyond any preceding vehicle in the combination; or
-- (b) any vehicle or[^key-9a8e906bfdb3640c30d3c1b501e8e637] combination of vehicles which carries a load or equipment
+- (b) any vehicle or[^c-9a8e906bfdb3640c30d3c1b501e8e637] combination of vehicles which carries a load or equipment
 
 in either case under the conditions specified in an item in column 2 of the Table below, unless the vehicle or combination of vehicles complies with the requirements specified in that item in column 3 of that Table.
 
@@ -44,7 +44,7 @@ in either case under the conditions specified in an item in column 2 of the Tabl
 </tbody>
 </table>
 
-[^key-cbead9dbe55f01f0679fb570b4082a7f]
+[^c-cbead9dbe55f01f0679fb570b4082a7f]
 
 (2) The circumstances referred to in paragraph (1) are–
 
@@ -53,8 +53,8 @@ in either case under the conditions specified in an item in column 2 of the Tabl
 
 ## Annotations
 
-[^key-fa01e6870ce9981dc1b4276f3897a8a4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1989/1796/regulation/21) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-fa01e6870ce9981dc1b4276f3897a8a4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1989/1796/regulation/21) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-9a8e906bfdb3640c30d3c1b501e8e637]: Textual amendment: Word in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/21/1/b) substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [17(1)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/17/1)
+[^c-9a8e906bfdb3640c30d3c1b501e8e637]: Textual amendment: Word in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/21/1/b) substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [17(1)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/17/1)
 
-[^key-cbead9dbe55f01f0679fb570b4082a7f]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/21/1) Table Item 4 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/17/2)
+[^c-cbead9dbe55f01f0679fb570b4082a7f]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/21/1) Table Item 4 substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/17/2)

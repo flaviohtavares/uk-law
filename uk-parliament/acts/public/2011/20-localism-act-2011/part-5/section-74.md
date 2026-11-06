@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Council tax calculations by billing authorities in England[^key-ac13921975808ec409c61de6d829bd27]
+## 74. Council tax calculations by billing authorities in England[^c-ac13921975808ec409c61de6d829bd27]
 
 *Extent: E+W*
 
@@ -101,4 +101,4 @@ Before section 32 of the Local Government Finance Act 1992 insert—
 
 ## Annotations
 
-[^key-ac13921975808ec409c61de6d829bd27]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2011/20/section/74) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-ac13921975808ec409c61de6d829bd27]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2011/20/section/74) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

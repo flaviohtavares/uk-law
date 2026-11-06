@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Applications for placement orders[^key-9a5ab7150048052f81a50ca1b5bb8203]
+## 19. Applications for placement orders[^c-9a5ab7150048052f81a50ca1b5bb8203]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ the court may give any directions it considers appropriate for the medical or ps
 
 ## Annotations
 
-[^key-9a5ab7150048052f81a50ca1b5bb8203]: Commencement: S. 19 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-9a5ab7150048052f81a50ca1b5bb8203]: Commencement: S. 19 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

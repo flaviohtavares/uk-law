@@ -29,13 +29,13 @@ summary: ''
 
 (3) If and so long as an election under subsection (1) above is in force, stamp duty or stamp duty reserve tax (as the case may require) shall, in connection with the clearance services to which the election relates, be chargeable in relation to—
 
-- (a) a transfer [^key-6b37feb1ccdb9bdef61b74f89d917401]... falling within section 70(1) or 96(1) above,
+- (a) a transfer [^c-6b37feb1ccdb9bdef61b74f89d917401]... falling within section 70(1) or 96(1) above,
 - (b) an agreement falling within section 90(4) above by virtue of section 96(1) above, or
 - (c) an agreement falling within section 90(5) above,
 
 as it would be chargeable apart from sections 70, 90(4) and (5) and 96 above.
 
-(4) Where stamp duty or stamp duty reserve tax is chargeable by virtue of subsection (3) above in relation to a transfer [^key-2c38fd65b6155956a07b990f05de30de]... or agreement, sections 70, 90(4) and (5) and 96 above shall not have effect in relation to that transfer [^key-2c38fd65b6155956a07b990f05de30de]... or agreement.
+(4) Where stamp duty or stamp duty reserve tax is chargeable by virtue of subsection (3) above in relation to a transfer [^c-2c38fd65b6155956a07b990f05de30de]... or agreement, sections 70, 90(4) and (5) and 96 above shall not have effect in relation to that transfer [^c-2c38fd65b6155956a07b990f05de30de]... or agreement.
 
 (5) Nothing in subsection (3) or (4) above affects the application of section 70 or 96 above in relation to a transfer falling within section 70(1) or 96(1) above by the operator or his nominee to, or to a nominee of, another operator in relation to whom no election under subsection (1) above is for the time being in force.
 
@@ -80,8 +80,8 @@ as if the obligations and liabilities imposed on the operator were imposed joint
 
 [^c22576651]: Textual amendment: S. 97A inserted (1.7.1996) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 196(3)(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/196/3/6)
 
-[^key-6b37feb1ccdb9bdef61b74f89d917401]: Textual amendment: Words in s. 97A(3)(a) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/14/2)
+[^c-6b37feb1ccdb9bdef61b74f89d917401]: Textual amendment: Words in s. 97A(3)(a) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/14/2)
 
-[^key-2c38fd65b6155956a07b990f05de30de]: Textual amendment: Word in s. 97A(4) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 14(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/14/3)
+[^c-2c38fd65b6155956a07b990f05de30de]: Textual amendment: Word in s. 97A(4) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 14(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/14/3)
 
 [^c22556181]: Textual amendment: S. 97A(13) added (with effect in as mentioned in [s. 134(5)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/4)

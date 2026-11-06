@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of regulation 18 (wholesale dealing in medicinal products)[^key-5732ef2af8c768619194b7143da4dae9]
+## 15. Amendment of regulation 18 (wholesale dealing in medicinal products)[^c-5732ef2af8c768619194b7143da4dae9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,11 +28,11 @@ summary: ''
 - (b) in sub-paragraph (b) for “distribution.” substitute “ distribution; or ”;
 - (c) insert at the end—
 
-  > - (c) import a medicinal product into Great Britain[^key-6bab84d28886fbf3c7a8084f9dee3d61] from an approved country for import [^key-87aac159b4c1613f1bf1b4b5b339518e]....
+  > - (c) import a medicinal product into Great Britain[^c-6bab84d28886fbf3c7a8084f9dee3d61] from an approved country for import [^c-87aac159b4c1613f1bf1b4b5b339518e]....
 
   .
 
-(2A)[^key-07d22d07be10489e468f947b47bb598d] After paragraph (2) insert—
+(2A)[^c-07d22d07be10489e468f947b47bb598d] After paragraph (2) insert—
 
 > (2A) Paragraph (1)(c) does not apply to imports into Great Britain from an EEA State of medicinal products that have been released for sale, supply or distribution in an EEA State or the United Kingdom before IP completion day.
 >
@@ -40,7 +40,7 @@ summary: ''
 
 .
 
-(3)[^key-1b4cd8f67821c9423aec8a59443eb0b0] For paragraph (6) substitute—
+(3)[^c-1b4cd8f67821c9423aec8a59443eb0b0] For paragraph (6) substitute—
 
 > (6) A wholesale dealer’s licence does not authorise the distribution of a medicinal product by way of wholesale dealing, or possession of a medicinal product for the purpose of such distribution, unless—
 >
@@ -51,20 +51,20 @@ summary: ''
 
 .
 
-(4)[^key-b09235daa0a5695b2ac1c9c4b5a9def3] In paragraph (7) for “paragraph (6)” substitute “paragraph (6)(b)”.
+(4)[^c-b09235daa0a5695b2ac1c9c4b5a9def3] In paragraph (7) for “paragraph (6)” substitute “paragraph (6)(b)”.
 
 ## Annotations
 
-[^key-5732ef2af8c768619194b7143da4dae9]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5732ef2af8c768619194b7143da4dae9]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884451]: Marginal citation: Regulation 18 was substituted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and further amended by [S.I. 2016/186](https://www.legislation.gov.uk/uksi/2016/186).
 
-[^key-6bab84d28886fbf3c7a8084f9dee3d61]: Textual amendment: Words in reg. 15(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/a/i)
+[^c-6bab84d28886fbf3c7a8084f9dee3d61]: Textual amendment: Words in reg. 15(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/a/i)
 
-[^key-87aac159b4c1613f1bf1b4b5b339518e]: Textual amendment: Words in reg. 15(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/a/ii)
+[^c-87aac159b4c1613f1bf1b4b5b339518e]: Textual amendment: Words in reg. 15(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/a/ii)
 
-[^key-07d22d07be10489e468f947b47bb598d]: Textual amendment: Reg. 15(2A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/b)
+[^c-07d22d07be10489e468f947b47bb598d]: Textual amendment: Reg. 15(2A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/b)
 
-[^key-1b4cd8f67821c9423aec8a59443eb0b0]: Textual amendment: Reg. 15(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/c)
+[^c-1b4cd8f67821c9423aec8a59443eb0b0]: Textual amendment: Reg. 15(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/c)
 
-[^key-b09235daa0a5695b2ac1c9c4b5a9def3]: Textual amendment: Reg. 15(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/d)
+[^c-b09235daa0a5695b2ac1c9c4b5a9def3]: Textual amendment: Reg. 15(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 10(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/10/d)

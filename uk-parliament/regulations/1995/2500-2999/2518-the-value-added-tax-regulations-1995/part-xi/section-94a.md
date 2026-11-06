@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**94A.**[^key-2f46ee2deb9a5b3ca43cf9e3ab8c9250] In this Part a reference to receipt of payment (however expressed) includes a reference to receipt by a person to whom a right to receive it has been assigned.
+**94A.**[^c-2f46ee2deb9a5b3ca43cf9e3ab8c9250] In this Part a reference to receipt of payment (however expressed) includes a reference to receipt by a person to whom a right to receive it has been assigned.
 
 ## Annotations
 
-[^key-2f46ee2deb9a5b3ca43cf9e3ab8c9250]: Textual amendment: [Reg. 94A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/94A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Value Added Tax (Amendment) (No. 2) Regulations 1999 (S.I. 1999/599)](https://www.legislation.gov.uk/uksi/1999/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/599/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1999/599/regulation/3)
+[^c-2f46ee2deb9a5b3ca43cf9e3ab8c9250]: Textual amendment: [Reg. 94A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/94A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Value Added Tax (Amendment) (No. 2) Regulations 1999 (S.I. 1999/599)](https://www.legislation.gov.uk/uksi/1999/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/599/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1999/599/regulation/3)

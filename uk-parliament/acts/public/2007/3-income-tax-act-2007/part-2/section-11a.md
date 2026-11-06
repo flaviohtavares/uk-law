@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Income charged at Scottish rates[^key-d38fa400d31ecfcf1de74f1f1ce55dfe][^M_F_b0ad5ab8-e93b-4919-9934-e4db81dcc732]
+## 11A. Income charged at Scottish rates[^c-d38fa400d31ecfcf1de74f1f1ce55dfe][^M_F_b0ad5ab8-e93b-4919-9934-e4db81dcc732]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d38fa400d31ecfcf1de74f1f1ce55dfe]: Textual amendment: S. 11A inserted (with effect in accordance with Sch. 38 para. 12 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 38 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/38/paragraph/5)
+[^c-d38fa400d31ecfcf1de74f1f1ce55dfe]: Textual amendment: S. 11A inserted (with effect in accordance with Sch. 38 para. 12 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 38 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/38/paragraph/5)
 
 [^M_F_b0ad5ab8-e93b-4919-9934-e4db81dcc732]: Textual amendment: Word in s. 11A heading substituted (30.11.2016 with effect in relation to tax year 2017-18 and subsequent tax years) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 13(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/13/10), [14(4)(15)](https://www.legislation.gov.uk/ukpga/2016/11/section/14/4/15), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3); [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [regs. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2), [3](https://www.legislation.gov.uk/uksi/2016/1161/regulation/3)
 

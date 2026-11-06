@@ -32,7 +32,7 @@ Scottish Public Services Ombudsman Act 2002
 
 An Act of the Scottish Parliament to make provision (including provision for the purposes of section 91 of the Scotland Act 1998) for the appointment and functions of the Scottish Public Services Ombudsman; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st March 2002 and received Royal Assent on 23rd April 2002[^key-172ba9a0e434e610ff78914b722d91f6]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st March 2002 and received Royal Assent on 23rd April 2002[^c-172ba9a0e434e610ff78914b722d91f6]
 
 ## Contents
 
@@ -62,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 15 — Reports on investigations](section-15.md)
 - [Section 16 — Special reports](section-16.md)
 
-### Listed authorities: complaints handling procedures[^key-41535e83dfba7a390730b3ac558b1016]
+### Listed authorities: complaints handling procedures[^c-41535e83dfba7a390730b3ac558b1016]
 
 *Extent: S*
 
@@ -74,13 +74,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 16E — Submission of description of complaints handling procedure: general](section-16e.md)
 - [Section 16F — Complaints handling procedures: application of other enactments](section-16f.md)
 
-### Complaints handling procedures: promotion of best practice etc.[^key-41535e83dfba7a390730b3ac558b1016]
+### Complaints handling procedures: promotion of best practice etc.[^c-41535e83dfba7a390730b3ac558b1016]
 
 *Extent: S*
 
 - [Section 16G — Complaints handling procedures: promotion of best practice etc.](section-16g.md)
 
-### Other functions of the Ombudsman[^key-2ed0852c3a4a6c4fb5467c81ec0d8f38]
+### Other functions of the Ombudsman[^c-2ed0852c3a4a6c4fb5467c81ec0d8f38]
 
 - [Section 16H — Reviews under the Welfare Funds (Scotland) Act 2015](section-16h.md)
 
@@ -114,8 +114,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-172ba9a0e434e610ff78914b722d91f6]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/11) applied by 2005 asp. 3 s. 11A(1)-(4) (as inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 131](https://www.legislation.gov.uk/asp/2010/8/section/131), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c))
+[^c-172ba9a0e434e610ff78914b722d91f6]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/11) applied by 2005 asp. 3 s. 11A(1)-(4) (as inserted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 131](https://www.legislation.gov.uk/asp/2010/8/section/131), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(c)](https://www.legislation.gov.uk/ssi/2011/278/article/2/c))
 
-[^key-41535e83dfba7a390730b3ac558b1016]: Textual amendment: Ss. 16A-16G and cross-heading inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 119](https://www.legislation.gov.uk/asp/2010/8/section/119), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-41535e83dfba7a390730b3ac558b1016]: Textual amendment: Ss. 16A-16G and cross-heading inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 119](https://www.legislation.gov.uk/asp/2010/8/section/119), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-2ed0852c3a4a6c4fb5467c81ec0d8f38]: Textual amendment: [S. 16H](https://www.legislation.gov.uk/asp/2002/11/section/16H) and cross-heading inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(3)](https://www.legislation.gov.uk/asp/2015/5/section/13/3), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-2ed0852c3a4a6c4fb5467c81ec0d8f38]: Textual amendment: [S. 16H](https://www.legislation.gov.uk/asp/2002/11/section/16H) and cross-heading inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(3)](https://www.legislation.gov.uk/asp/2015/5/section/13/3), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)

@@ -46,25 +46,25 @@ Coming into force
 
 The Secretary of State for Health makes the following Order in exercise of the powers conferred by sections 167 and 161(3) and (4) of the Health and Social Care Act 2008[^f00001].
 
-## 1. Citation, commencement and extent[^key-74e0b78ac1edfef32308af9dd9fc0d9b]
+## 1. Citation, commencement and extent[^c-74e0b78ac1edfef32308af9dd9fc0d9b]
 
 (1) This Order may be cited as the Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 and comes into force on 1st October 2010.
 
 (2) The amendment of any provision by this Order has the same extent as the provision being amended.
 
-## 2. Consequential amendments[^key-96daa0b2fb3a08781095f2e74434d5d1]
+## 2. Consequential amendments[^c-96daa0b2fb3a08781095f2e74434d5d1]
 
 The legislation listed in articles 3 to 25 is amended as provided for in those articles.
 
-## 3. Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980[^key-d7f92f9763cb40e4863e1734d8bf9129]
+## 3. Medicines (Sale or Supply) (Miscellaneous Provisions) Regulations 1980[^c-d7f92f9763cb40e4863e1734d8bf9129]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Medicines (Pharmacy and General Sale – Exemption) Order 1980[^key-51ee22748880dba64ca68a95e1910473]
+## 4. Medicines (Pharmacy and General Sale – Exemption) Order 1980[^c-51ee22748880dba64ca68a95e1910473]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Income Support (General) Regulations 1987[^key-10bf556178c0aa4d44fcfb8544351b90]
+## 5. Income Support (General) Regulations 1987[^c-10bf556178c0aa4d44fcfb8544351b90]
 
 In regulation 2(1) of the Income Support (General) Regulations 1987 (interpretation)[^f00004], for the definition of “independent hospital” substitute—
 
@@ -75,15 +75,15 @@ In regulation 2(1) of the Income Support (General) Regulations 1987 (interpretat
 
 .
 
-## 6. Social Fund Cold Weather Payments (General) Regulations 1988[^key-07b556bfad4436409b66773b61aa6989]
+## 6. Social Fund Cold Weather Payments (General) Regulations 1988[^c-07b556bfad4436409b66773b61aa6989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-98f0fee2f733b131eac3cc207735b459]
+## 7. Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^c-98f0fee2f733b131eac3cc207735b459]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Jobseeker’s Allowance Regulations 1996[^key-414f85952f3fa910867442e592544c04]
+## 8. Jobseeker’s Allowance Regulations 1996[^c-414f85952f3fa910867442e592544c04]
 
 In regulation 1 of the Jobseeker’s Allowance Regulations 1996 (citation, commencement and interpretation)[^f00007], for the definition of “independent hospital” in paragraph (3) substitute—
 
@@ -94,19 +94,19 @@ In regulation 1 of the Jobseeker’s Allowance Regulations 1996 (citation, comme
 
 .
 
-## 9. Prescription Only Medicines (Human Use) Order 1997[^key-a24ec3acef43c7b41bc46ff23ebe0938]
+## 9. Prescription Only Medicines (Human Use) Order 1997[^c-a24ec3acef43c7b41bc46ff23ebe0938]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Social Fund Winter Fuel Payment Regulations 2000[^key-15fcc9dd294215fa725672c68144f423]
+## 10. Social Fund Winter Fuel Payment Regulations 2000[^c-15fcc9dd294215fa725672c68144f423]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^key-86ddae47c18d9c186ed12263850872f1]
+## 11. Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^c-86ddae47c18d9c186ed12263850872f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. State Pension Credit Regulations 2002[^key-3b85055e211c8595c7db74f4b03c67de]
+## 12. State Pension Credit Regulations 2002[^c-3b85055e211c8595c7db74f4b03c67de]
 
 In regulation 1 of the State Pension Credit Regulations 2002 (citation, commencement and interpretation)[^f00011], for the definition of “independent hospital” in paragraph (2), substitute—
 
@@ -117,11 +117,11 @@ In regulation 1 of the State Pension Credit Regulations 2002 (citation, commence
 
 .
 
-## 13. The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^key-a3ca23ede1410f9d2960a265fb4027e2]
+## 13. The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^c-a3ca23ede1410f9d2960a265fb4027e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Residential Family Centres Regulations 2002[^key-4040d197c6ec826a456472575519cd3e]
+## 14. Residential Family Centres Regulations 2002[^c-4040d197c6ec826a456472575519cd3e]
 
 In regulation 3 of the Residential Family Centres Regulations 2002 (excepted establishments)[^f00013] for paragraph (a) substitute—
 
@@ -129,7 +129,7 @@ In regulation 3 of the Residential Family Centres Regulations 2002 (excepted est
 
 .
 
-## 15. Communications (Television Licensing) Regulations 2004[^key-21433721a5d481edb4763ec9aee72706]
+## 15. Communications (Television Licensing) Regulations 2004[^c-21433721a5d481edb4763ec9aee72706]
 
 In paragraph 5 of Part 2 of Schedule 4 to the Communications (Television Licensing) Regulations 2004 (Accommodation for Residential Care Licences)[^f00014]—
 
@@ -155,7 +155,7 @@ In paragraph 5 of Part 2 of Schedule 4 to the Communications (Television Licensi
 
   .
 
-## 16. Blood Safety and Quality Regulations 2005[^key-73e8894e45a87a12e3efab8cc9184a98]
+## 16. Blood Safety and Quality Regulations 2005[^c-73e8894e45a87a12e3efab8cc9184a98]
 
 In regulation 1(3) of the Blood Safety and Quality Regulations 2005 (citation, commencement and interpretation)[^f00015]—
 
@@ -193,7 +193,7 @@ In regulation 1(3) of the Blood Safety and Quality Regulations 2005 (citation, c
 
   .
 
-## 17. Children Act 2004 (Children’s Services) Regulations 2005[^key-87979c6c9cbbd45f5a1f6e2e9417322f]
+## 17. Children Act 2004 (Children’s Services) Regulations 2005[^c-87979c6c9cbbd45f5a1f6e2e9417322f]
 
 (1) Regulation 2 of the Children Act 2004 (Children’s Services) Regulations 2005 (children’s services)[^f00016] is amended as follows.
 
@@ -224,7 +224,7 @@ In regulation 1(3) of the Blood Safety and Quality Regulations 2005 (citation, c
 
 .
 
-## 18. National Health Service (General Dental Services Contracts) Regulations 2005[^key-dcbeeb6a7a1d24fd4a5c6ed6dc7c3c4a]
+## 18. National Health Service (General Dental Services Contracts) Regulations 2005[^c-dcbeeb6a7a1d24fd4a5c6ed6dc7c3c4a]
 
 In Schedule 3 to the National Health Service (General Dental Services Contracts) Regulations 2005 (other contractual terms)[^f00017], for paragraph 46 (entry and inspection by the Care Quality Commission), substitute the following—
 
@@ -232,7 +232,7 @@ In Schedule 3 to the National Health Service (General Dental Services Contracts)
 
 .
 
-## 19. National Health Service (Personal Dental Services Agreements) Regulations 2005[^key-be98b8dd1b17b5fafe79175a378373b8]
+## 19. National Health Service (Personal Dental Services Agreements) Regulations 2005[^c-be98b8dd1b17b5fafe79175a378373b8]
 
 In Schedule 3 to the National Health Service (Personal Dental Services Agreements) Regulations 2005 (other contractual terms)[^f00018], for paragraph 46 (entry and inspection by the Care Quality Commission), substitute the following—
 
@@ -240,7 +240,7 @@ In Schedule 3 to the National Health Service (Personal Dental Services Agreement
 
 .
 
-## 20. Housing Benefit Regulations 2006[^key-38a3ebff821502db2cb4ebf61abb96d6]
+## 20. Housing Benefit Regulations 2006[^c-38a3ebff821502db2cb4ebf61abb96d6]
 
 In regulation 2 of the Housing Benefit Regulations 2006 (interpretation)[^f00019], for the definition of “independent hospital” in paragraph (1), substitute—
 
@@ -251,7 +251,7 @@ In regulation 2 of the Housing Benefit Regulations 2006 (interpretation)[^f00019
 
 .
 
-## 21. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-31cf474e3e0cc2564ebce1f96a42c19e]
+## 21. Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-31cf474e3e0cc2564ebce1f96a42c19e]
 
 In regulation 2 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 (interpretation)[^f00020], for the definition of “independent hospital” in paragraph (1), substitute—
 
@@ -262,15 +262,15 @@ In regulation 2 of the Housing Benefit (Persons who have attained the qualifying
 
 .
 
-## 22. Council Tax Benefit Regulations 2006[^key-d2f6d35ffb1a3c1e1caeffb397fadd8f]
+## 22. Council Tax Benefit Regulations 2006[^c-d2f6d35ffb1a3c1e1caeffb397fadd8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-4ae755b5613924e0240aa09f70992734]
+## 23. Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-4ae755b5613924e0240aa09f70992734]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Digital Switchover (Disclosure of Information) Act 2007 (Prescription of Information) Order 2007[^key-2a468d7a8237db5032a33def16e3d0ef]
+## 24. Digital Switchover (Disclosure of Information) Act 2007 (Prescription of Information) Order 2007[^c-2a468d7a8237db5032a33def16e3d0ef]
 
 In article 3 of the Digital Switchover (Disclosure of Information) Act 2007 (Prescription of Information) Order 2007 (prescription of information: “social security information” and “war pensions information”)[^f00023], in the definition of “independent hospital” in paragraph (4) of that article, for paragraph (a) of the definition, substitute—
 
@@ -279,7 +279,7 @@ In article 3 of the Digital Switchover (Disclosure of Information) Act 2007 (Pre
 
 .
 
-## 25. Employment and Support Allowance Regulations 2008[^key-66567b07fa46cb1bf024dedf501acb75]
+## 25. Employment and Support Allowance Regulations 2008[^c-66567b07fa46cb1bf024dedf501acb75]
 
 In regulation 2 of the Employment and Support Allowance Regulations 2008 (interpretation)[^f00024], for the definition of “independent hospital” in paragraph (1), substitute—
 
@@ -312,78 +312,78 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-74e0b78ac1edfef32308af9dd9fc0d9b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1881/article/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-74e0b78ac1edfef32308af9dd9fc0d9b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/1881/article/1) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
-[^key-96daa0b2fb3a08781095f2e74434d5d1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1881/article/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-96daa0b2fb3a08781095f2e74434d5d1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/1881/article/2) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
-[^key-d7f92f9763cb40e4863e1734d8bf9129]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1881/article/3) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-d7f92f9763cb40e4863e1734d8bf9129]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/1881/article/3) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-51ee22748880dba64ca68a95e1910473]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1881/article/4) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-51ee22748880dba64ca68a95e1910473]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2010/1881/article/4) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-10bf556178c0aa4d44fcfb8544351b90]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1881/article/5) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-10bf556178c0aa4d44fcfb8544351b90]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1881/article/5) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00004]: Footnote: [S.I.1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). The definition of “independent hospital” was inserted by [S.I. 2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), regulation 2, Schedule 1, paragraph 1(a)(ii).
 
-[^key-07b556bfad4436409b66773b61aa6989]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1881/article/6) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-07b556bfad4436409b66773b61aa6989]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2010/1881/article/6) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-98f0fee2f733b131eac3cc207735b459]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1881/article/7) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-98f0fee2f733b131eac3cc207735b459]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2010/1881/article/7) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-414f85952f3fa910867442e592544c04]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1881/article/8) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-414f85952f3fa910867442e592544c04]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/1881/article/8) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00007]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). The definition of “independent hospital” was inserted by [S.I. 2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), regulation 3, Schedule 2, paragraph 1(a)(ii).
 
-[^key-a24ec3acef43c7b41bc46ff23ebe0938]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2010/1881/article/9) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-a24ec3acef43c7b41bc46ff23ebe0938]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2010/1881/article/9) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-15fcc9dd294215fa725672c68144f423]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2010/1881/article/10) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2) (as amended by [S.I. 2024/898](https://www.legislation.gov.uk/uksi/2024/898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/898/regulation/2/3/c/ii))
+[^c-15fcc9dd294215fa725672c68144f423]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2010/1881/article/10) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2) (as amended by [S.I. 2024/898](https://www.legislation.gov.uk/uksi/2024/898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/898/regulation/2/3/c/ii))
 
-[^key-86ddae47c18d9c186ed12263850872f1]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/1881/article/11) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-86ddae47c18d9c186ed12263850872f1]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/uksi/2010/1881/article/11) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-3b85055e211c8595c7db74f4b03c67de]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/1881/article/12) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-3b85055e211c8595c7db74f4b03c67de]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/1881/article/12) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00011]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792). The definition of “independent hospital” was inserted by [S.I. 2005/2687](https://www.legislation.gov.uk/uksi/2005/2687), Schedule 5, paragraph 1.
 
-[^key-a3ca23ede1410f9d2960a265fb4027e2]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2010/1881/article/13) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
+[^c-a3ca23ede1410f9d2960a265fb4027e2]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2010/1881/article/13) revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(m)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/m)
 
-[^key-4040d197c6ec826a456472575519cd3e]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/1881/article/14) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-4040d197c6ec826a456472575519cd3e]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/1881/article/14) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00013]: Footnote: [S.I. 2002/3213](https://www.legislation.gov.uk/uksi/2002/3213).
 
-[^key-21433721a5d481edb4763ec9aee72706]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/1881/article/15) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-21433721a5d481edb4763ec9aee72706]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/1881/article/15) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00014]: Footnote: [S.I. 2004/692](https://www.legislation.gov.uk/uksi/2004/692).
 
-[^key-73e8894e45a87a12e3efab8cc9184a98]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/1881/article/16) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-73e8894e45a87a12e3efab8cc9184a98]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/1881/article/16) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00015]: Footnote: [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50). The definition of “independent clinic” was inserted by [S.I. 2006/2013](https://www.legislation.gov.uk/uksi/2006/2013), regulation 2(d); the definition of “independent hospital” was substituted by [S.I. 2006/2013](https://www.legislation.gov.uk/uksi/2006/2013), regulation 2(b), the definition of “person responsible for management of a facility” was inserted by [2006/2013](https://www.legislation.gov.uk/uksi/2006/2013), regulation 2(d) and the definition of “registered person” was substituted by [S.I. 2006/2013](https://www.legislation.gov.uk/uksi/2006/2013), regulation 2(c).
 
-[^key-87979c6c9cbbd45f5a1f6e2e9417322f]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/1881/article/17) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-87979c6c9cbbd45f5a1f6e2e9417322f]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/1881/article/17) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00016]: Footnote: [S.I. 2005/1972](https://www.legislation.gov.uk/uksi/2005/1972), to which there are amendments not relevant to this Order.
 
-[^key-dcbeeb6a7a1d24fd4a5c6ed6dc7c3c4a]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/1881/article/18) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-dcbeeb6a7a1d24fd4a5c6ed6dc7c3c4a]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/1881/article/18) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00017]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361). Paragraph 46 was substituted by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), Schedule 5, paragraph 17(b).
 
-[^key-be98b8dd1b17b5fafe79175a378373b8]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2010/1881/article/19) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-be98b8dd1b17b5fafe79175a378373b8]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2010/1881/article/19) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00018]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373). Paragraph 46 was substituted by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), Schedule 5, paragraph 18(b).
 
-[^key-38a3ebff821502db2cb4ebf61abb96d6]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2010/1881/article/20) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-38a3ebff821502db2cb4ebf61abb96d6]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2010/1881/article/20) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00019]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213), to which there are amendments not relevant to this Order.
 
-[^key-31cf474e3e0cc2564ebce1f96a42c19e]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2010/1881/article/21) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-31cf474e3e0cc2564ebce1f96a42c19e]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2010/1881/article/21) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00020]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214), to which there are amendments not relevant to this Order.
 
-[^key-d2f6d35ffb1a3c1e1caeffb397fadd8f]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2010/1881/article/22) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-d2f6d35ffb1a3c1e1caeffb397fadd8f]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2010/1881/article/22) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-4ae755b5613924e0240aa09f70992734]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2010/1881/article/23) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
+[^c-4ae755b5613924e0240aa09f70992734]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/uksi/2010/1881/article/23) revoked (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/458/schedule/1)
 
-[^key-2a468d7a8237db5032a33def16e3d0ef]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2010/1881/article/24) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-2a468d7a8237db5032a33def16e3d0ef]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2010/1881/article/24) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00023]: Footnote: [S.I. 2007/1768](https://www.legislation.gov.uk/uksi/2007/1768), to which there are amendments not relevant to this Order.
 
-[^key-66567b07fa46cb1bf024dedf501acb75]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2010/1881/article/25) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
+[^c-66567b07fa46cb1bf024dedf501acb75]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2010/1881/article/25) in force at 1.10.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1881/article/1/1)
 
 [^f00024]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794), to which there are amendments not relevant to this Order.

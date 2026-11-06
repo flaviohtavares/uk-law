@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Power under FSMA 2000 to make transitional provisions[^key-f3cf9fe1ee34370b0827c20783e8ff94][^key-981d17a25a9c1498d39be9e046e9c6fe]
+## 68. Power under FSMA 2000 to make transitional provisions[^c-f3cf9fe1ee34370b0827c20783e8ff94][^c-981d17a25a9c1498d39be9e046e9c6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3cf9fe1ee34370b0827c20783e8ff94]: Commencement: S. 68 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f3cf9fe1ee34370b0827c20783e8ff94]: Commencement: S. 68 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-981d17a25a9c1498d39be9e046e9c6fe]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/29/section/68) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(tt)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/tt)
+[^c-981d17a25a9c1498d39be9e046e9c6fe]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/29/section/68) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(tt)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/tt)

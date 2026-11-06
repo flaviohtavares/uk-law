@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 772. Interpretation of Chapter[^key-864e0407f05501eb62dba7a34bf30007]
+## 772. Interpretation of Chapter[^c-864e0407f05501eb62dba7a34bf30007]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-864e0407f05501eb62dba7a34bf30007]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in relation to disposals on or after 5.7.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [ss. 79(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/5), [82(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/1) (with [s. 82(2)-(15)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/2)); which omission also has effect so far as it would not otherwise have effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)
+[^c-864e0407f05501eb62dba7a34bf30007]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in relation to disposals on or after 5.7.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [ss. 79(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/5), [82(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/1) (with [s. 82(2)-(15)](https://www.legislation.gov.uk/ukpga/2016/24/section/82/2)); which omission also has effect so far as it would not otherwise have effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)

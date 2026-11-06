@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.3. Right to use one claim form to start two or more claims[^key-bcb7d55f46a57c8106a63c71af4846b4]
+## 7.3. Right to use one claim form to start two or more claims[^c-bcb7d55f46a57c8106a63c71af4846b4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A claimant may use a single claim form to start all claims which can be convenie
 
 ## Annotations
 
-[^key-bcb7d55f46a57c8106a63c71af4846b4]: Commencement: [Rule 7.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-bcb7d55f46a57c8106a63c71af4846b4]: Commencement: [Rule 7.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/7.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

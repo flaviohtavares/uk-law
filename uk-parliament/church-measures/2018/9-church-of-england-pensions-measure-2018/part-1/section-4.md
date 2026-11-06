@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4. Meaning of “stipendiary ecclesiastical service”[^key-9a923b60dbacfb8f81adf2c4d30f8764]
+## 4. Meaning of “stipendiary ecclesiastical service”[^c-9a923b60dbacfb8f81adf2c4d30f8764]
 
 *Extent: E*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a923b60dbacfb8f81adf2c4d30f8764]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2018/9/section/4) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-9a923b60dbacfb8f81adf2c4d30f8764]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2018/9/section/4) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

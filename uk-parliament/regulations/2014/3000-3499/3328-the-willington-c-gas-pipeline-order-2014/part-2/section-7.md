@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Limits of deviation[^key-bb32351c074c42e6787117ce64156e7d]
+## 7. Limits of deviation[^c-bb32351c074c42e6787117ce64156e7d]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ In carrying out, maintaining or diverting the authorised development, the undert
 
 ## Annotations
 
-[^key-bb32351c074c42e6787117ce64156e7d]: Commencement: Art. 7 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-bb32351c074c42e6787117ce64156e7d]: Commencement: Art. 7 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

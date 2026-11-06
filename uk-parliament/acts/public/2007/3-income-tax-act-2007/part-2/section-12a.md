@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Savings income charged at the savings nil rate[^key-34db9d158ce7f8c21a9befe70e93f717]
+## 12A. Savings income charged at the savings nil rate[^c-34db9d158ce7f8c21a9befe70e93f717]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-34db9d158ce7f8c21a9befe70e93f717]: Textual amendment: Ss. 12A, 12B inserted (with effect for the tax year 2016-17 and subsequent years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/5)[(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/17)
+[^c-34db9d158ce7f8c21a9befe70e93f717]: Textual amendment: Ss. 12A, 12B inserted (with effect for the tax year 2016-17 and subsequent years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 4(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/5)[(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/4/17)
 
 [^M_F_89b4a79d-dfaa-4058-d646-dc85e92964c2]: Textual amendment: Words in s. 12A(3) inserted (30.11.2016 with effect in relation to tax year 2017-18 and subsequent tax years) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 6(11)(a)(24)](https://www.legislation.gov.uk/ukpga/2016/24/section/6/11/a); [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [regs. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2), [3](https://www.legislation.gov.uk/uksi/2016/1161/regulation/3)
 

@@ -27,7 +27,7 @@ summary: ''
 - (a) any UK person, and
 - (b) any body corporate not legally constituted in the United Kingdom if the person with whom the arrangements mentioned in subsection (1) are made knows, or has reasonable cause to believe, that at least one potential beneficiary of any prizes from remote gaming under the arrangements is a UK person.
 
-(3) Remote gaming duty is chargeable at the rate of 40%[^key-fa38f462fc4c168341e0cb517e5dd8b4] of the gaming provider's profits on remote gaming for an accounting period.
+(3) Remote gaming duty is chargeable at the rate of 40%[^c-fa38f462fc4c168341e0cb517e5dd8b4] of the gaming provider's profits on remote gaming for an accounting period.
 
 (4) The gaming provider's profits on remote gaming for an accounting period are the aggregate of—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa38f462fc4c168341e0cb517e5dd8b4]: Textual amendment: Word in [s. 155(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/155/3) substituted (for accounting periods beginning on or after 1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 86(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/2) (with [s. 86(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/4))
+[^c-fa38f462fc4c168341e0cb517e5dd8b4]: Textual amendment: Word in [s. 155(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/155/3) substituted (for accounting periods beginning on or after 1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 86(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/2) (with [s. 86(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/86/4))

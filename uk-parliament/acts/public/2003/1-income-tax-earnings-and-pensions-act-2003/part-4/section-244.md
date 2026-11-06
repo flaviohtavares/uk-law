@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) No liability to income tax arises[^key-5358c7d73557bab2b534becdcd944b18] in respect of the provision for an employee of a cycle or cyclist’s safety equipment if conditions A to C are met.
+(1) No liability to income tax arises[^c-5358c7d73557bab2b534becdcd944b18] in respect of the provision for an employee of a cycle or cyclist’s safety equipment if conditions A to C are met.
 
 (2) Condition A is that there is no transfer of the property in the cycle or equipment in question.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5358c7d73557bab2b534becdcd944b18]: Textual amendment: Words in s. 244(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/3)
+[^c-5358c7d73557bab2b534becdcd944b18]: Textual amendment: Words in s. 244(1) substituted (with effect in accordance with s. 16(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2005/7/section/16/3)

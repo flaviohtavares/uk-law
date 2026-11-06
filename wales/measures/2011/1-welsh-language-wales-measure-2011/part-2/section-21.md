@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Working collaboratively with ombudsmen, commissioners etc[^key-cfbab08ceac6390ccf450dd5bc3457d7]
+## 21. Working collaboratively with ombudsmen, commissioners etc[^c-cfbab08ceac6390ccf450dd5bc3457d7]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfbab08ceac6390ccf450dd5bc3457d7]: Commencement: [S. 21](https://www.legislation.gov.uk/mwa/2011/1/section/21) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/a)
+[^c-cfbab08ceac6390ccf450dd5bc3457d7]: Commencement: [S. 21](https://www.legislation.gov.uk/mwa/2011/1/section/21) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.4. Steps taken by the parties[^key-94510452b9fb9320ff93d756e4ba979e][^key-0601918f646572a4052c6e7ac6fc156f]
+## 29.4. Steps taken by the parties[^c-94510452b9fb9320ff93d756e4ba979e][^c-0601918f646572a4052c6e7ac6fc156f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The parties must endeavour to agree appropriate directions for the management of
 
 ## Annotations
 
-[^key-94510452b9fb9320ff93d756e4ba979e]: Commencement: [Rule 29.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-94510452b9fb9320ff93d756e4ba979e]: Commencement: [Rule 29.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-0601918f646572a4052c6e7ac6fc156f]: Textual amendment: [Rule 29.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.4) substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/article/2), [10(c)](https://www.legislation.gov.uk/uksi/2013/262/rule/10/c) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/article/22))
+[^c-0601918f646572a4052c6e7ac6fc156f]: Textual amendment: [Rule 29.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.4) substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/article/2), [10(c)](https://www.legislation.gov.uk/uksi/2013/262/rule/10/c) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/article/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Co-operation with the Scottish Ministers for the purposes of sharing information with victims[^key-2024eae94af8ef6232a4cabdb6d27ee8]
+## 43. Co-operation with the Scottish Ministers for the purposes of sharing information with victims[^c-2024eae94af8ef6232a4cabdb6d27ee8]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2024eae94af8ef6232a4cabdb6d27ee8]: Commencement: S. 43 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-2024eae94af8ef6232a4cabdb6d27ee8]: Commencement: S. 43 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

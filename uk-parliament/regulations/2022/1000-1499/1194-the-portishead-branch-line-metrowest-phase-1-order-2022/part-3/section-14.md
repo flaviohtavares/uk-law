@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Permanent stopping up of streets[^key-c03dfc019dc081b1820e621e4a36df62]
+## 14. Permanent stopping up of streets[^c-c03dfc019dc081b1820e621e4a36df62]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c03dfc019dc081b1820e621e4a36df62]: Commencement: Art. 14 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-c03dfc019dc081b1820e621e4a36df62]: Commencement: Art. 14 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

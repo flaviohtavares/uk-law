@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Responsibility of licensees[^key-7bc563537e759f1a613a91b6fdccbcdd]
+## 58. Responsibility of licensees[^c-7bc563537e759f1a613a91b6fdccbcdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bc563537e759f1a613a91b6fdccbcdd]: Commencement: Reg. 58 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7bc563537e759f1a613a91b6fdccbcdd]: Commencement: Reg. 58 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Protective Provisions[^key-f6893fa285bfb690119d952bcccc3f72]
+## 54. Protective Provisions[^c-f6893fa285bfb690119d952bcccc3f72]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 (protection for electricity, gas, water and sewerage undertakers) and
 
 ## Annotations
 
-[^key-f6893fa285bfb690119d952bcccc3f72]: Commencement: Art. 54 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-f6893fa285bfb690119d952bcccc3f72]: Commencement: Art. 54 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

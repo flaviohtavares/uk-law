@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Periodic support payments accredited RHI installations for complex systems in respect of which an application for accreditation was made before 24th September 2013[^key-ed4c0657e9a261b29f9f2953c7617619]
+## 65. Periodic support payments accredited RHI installations for complex systems in respect of which an application for accreditation was made before 24th September 2013[^c-ed4c0657e9a261b29f9f2953c7617619]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed4c0657e9a261b29f9f2953c7617619]: Textual amendment: Reg. 65 omitted (1.3.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/vi), [27(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/27/b)
+[^c-ed4c0657e9a261b29f9f2953c7617619]: Textual amendment: Reg. 65 omitted (1.3.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/vi), [27(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/27/b)

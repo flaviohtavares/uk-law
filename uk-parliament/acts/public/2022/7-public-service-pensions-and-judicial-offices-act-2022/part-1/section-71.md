@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Meaning of “judicial office” etc[^key-cd7f2c767a9ad3ad4efa12a033dc4a24][^key-8d68f6d5299d55b3c09beda73ff663c1]
+## 71. Meaning of “judicial office” etc[^c-cd7f2c767a9ad3ad4efa12a033dc4a24][^c-8d68f6d5299d55b3c09beda73ff663c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7f2c767a9ad3ad4efa12a033dc4a24]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-cd7f2c767a9ad3ad4efa12a033dc4a24]: Commencement: S. 71 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-8d68f6d5299d55b3c09beda73ff663c1]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/7/section/71) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-8d68f6d5299d55b3c09beda73ff663c1]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2022/7/section/71) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

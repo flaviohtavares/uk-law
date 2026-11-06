@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 251A. Communications from Revenue Scotland to taxpayers[^key-24d7d41be5106764cb070290f785fe5f]
+## 251A. Communications from Revenue Scotland to taxpayers[^c-24d7d41be5106764cb070290f785fe5f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24d7d41be5106764cb070290f785fe5f]: Textual amendment: [S. 251A](https://www.legislation.gov.uk/asp/2014/16/section/251A) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 56(2)](https://www.legislation.gov.uk/asp/2024/14/section/56/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/c)
+[^c-24d7d41be5106764cb070290f785fe5f]: Textual amendment: [S. 251A](https://www.legislation.gov.uk/asp/2014/16/section/251A) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 56(2)](https://www.legislation.gov.uk/asp/2024/14/section/56/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/c)

@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Wales) (Amendment) (No. 2) Order 2019 (revoked)[^key-4f7b8d99cc1e31d24b8473f14cb44271]
+The Plant Health (Wales) (Amendment) (No. 2) Order 2019 (revoked)[^c-4f7b8d99cc1e31d24b8473f14cb44271]
 
 Made
 
@@ -43,24 +43,24 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1
 
-[^key-4f7b8d99cc1e31d24b8473f14cb44271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f7b8d99cc1e31d24b8473f14cb44271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-4f7b8d99cc1e31d24b8473f14cb44271]
+## 1. Title and commencement[^c-4f7b8d99cc1e31d24b8473f14cb44271]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Wales) Order 2018[^key-4f7b8d99cc1e31d24b8473f14cb44271]
+## 2. Amendment of the Plant Health (Wales) Order 2018[^c-4f7b8d99cc1e31d24b8473f14cb44271]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f7b8d99cc1e31d24b8473f14cb44271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f7b8d99cc1e31d24b8473f14cb44271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4f7b8d99cc1e31d24b8473f14cb44271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f7b8d99cc1e31d24b8473f14cb44271]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f7b8d99cc1e31d24b8473f14cb44271]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-4f7b8d99cc1e31d24b8473f14cb44271]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

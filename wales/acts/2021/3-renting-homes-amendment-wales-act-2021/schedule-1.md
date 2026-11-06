@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — NEW SCHEDULE 8A TO THE 2016 ACT[^key-6c07941cb62aebac3ce310ba44f52e68]
+## SCHEDULE 1 — NEW SCHEDULE 8A TO THE 2016 ACT[^c-6c07941cb62aebac3ce310ba44f52e68]
 
 *Extent: E+W*
 
 (introduced by section 3)
 
-[^key-6c07941cb62aebac3ce310ba44f52e68]
+[^c-6c07941cb62aebac3ce310ba44f52e68]
 
 This Schedule sets out the new Schedule 8A to the 2016 Act, to be inserted after Schedule 8—
 
@@ -114,4 +114,4 @@ This Schedule sets out the new Schedule 8A to the 2016 Act, to be inserted after
 
 ## Annotations
 
-[^key-6c07941cb62aebac3ce310ba44f52e68]: Commencement: [Sch. 1](https://www.legislation.gov.uk/asc/2021/3/schedule/1) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-6c07941cb62aebac3ce310ba44f52e68]: Commencement: [Sch. 1](https://www.legislation.gov.uk/asc/2021/3/schedule/1) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

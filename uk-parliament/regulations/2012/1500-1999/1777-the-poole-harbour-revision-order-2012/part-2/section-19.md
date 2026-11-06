@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Powers with respect to disposal of wrecks[^key-426b35c92d1de30ace1aad55def08b7a]
+## 19. Powers with respect to disposal of wrecks[^c-426b35c92d1de30ace1aad55def08b7a]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-426b35c92d1de30ace1aad55def08b7a]: Commencement: Art. 19 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-426b35c92d1de30ace1aad55def08b7a]: Commencement: Art. 19 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

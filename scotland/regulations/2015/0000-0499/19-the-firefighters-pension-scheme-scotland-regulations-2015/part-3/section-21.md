@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Pension credit member[^key-9beac847b6c20e81867a63ca22ceca7b]
+## 21. Pension credit member[^c-9beac847b6c20e81867a63ca22ceca7b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A person is a pension credit member of this scheme if that person has been given
 
 ## Annotations
 
-[^key-9beac847b6c20e81867a63ca22ceca7b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/19/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-9beac847b6c20e81867a63ca22ceca7b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/19/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

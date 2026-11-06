@@ -51,7 +51,7 @@ summary: ''
 
 (8) Period B in paragraph (6) is so much of the period beginning on P's assumed pensionable employment end date and ending immediately before P's 65th birthday as would not cause P's reckonable service to be increased to more than 20 years.
 
-(9) Where P is a person with relevant mixed service the increase in P's reckonable service arising from this regulation is to be treated, for the purpose of regulation 48 (person with mixed service: meaning and normal pension age), as having occurred before[^key-a6649b54bcc6e7402bd64aa8af6e5a00] the disqualifying break.
+(9) Where P is a person with relevant mixed service the increase in P's reckonable service arising from this regulation is to be treated, for the purpose of regulation 48 (person with mixed service: meaning and normal pension age), as having occurred before[^c-a6649b54bcc6e7402bd64aa8af6e5a00] the disqualifying break.
 
 (10) In paragraph (9) P is a person with relevant mixed service where—
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6649b54bcc6e7402bd64aa8af6e5a00]: Textual amendment: Word in [reg. 71(9)](https://www.legislation.gov.uk/uksi/2010/990/regulation/71/9) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/2651/regulation/16)
+[^c-a6649b54bcc6e7402bd64aa8af6e5a00]: Textual amendment: Word in [reg. 71(9)](https://www.legislation.gov.uk/uksi/2010/990/regulation/71/9) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/2651/regulation/16)

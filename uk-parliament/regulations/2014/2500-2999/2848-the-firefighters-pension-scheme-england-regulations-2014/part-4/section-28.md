@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Establishment of pension accounts: general[^key-83e463c7ba99dc9c2e217b7b5bb0ac83]
+## 28. Establishment of pension accounts: general[^c-83e463c7ba99dc9c2e217b7b5bb0ac83]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83e463c7ba99dc9c2e217b7b5bb0ac83]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/2848/regulation/28) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-83e463c7ba99dc9c2e217b7b5bb0ac83]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/2848/regulation/28) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

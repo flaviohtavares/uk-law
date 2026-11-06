@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Entitlement: Great Britain[^c1942075][^key-a6aa8ca013edda9b1f1d315655dfdea8]
+## 131. Entitlement: Great Britain[^c1942075][^c-a6aa8ca013edda9b1f1d315655dfdea8]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ After Part 8 of the Social Security Contributions and Benefits Act 1992 (c. 4) i
 
 [^c1942075]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2008/14/section/131) partly in force; [s. 131](https://www.legislation.gov.uk/ukpga/2008/14/section/131) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-a6aa8ca013edda9b1f1d315655dfdea8]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2008/14/section/131) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-a6aa8ca013edda9b1f1d315655dfdea8]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2008/14/section/131) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

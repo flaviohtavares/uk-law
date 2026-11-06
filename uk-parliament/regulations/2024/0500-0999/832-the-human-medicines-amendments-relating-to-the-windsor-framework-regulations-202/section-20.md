@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment to regulation 44[^key-eb229f1d35c02cf2e0286e3290bf85df]
+## 20. Amendment to regulation 44[^c-eb229f1d35c02cf2e0286e3290bf85df]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 44 (requirement for wholesale dealers to deal only with specified 
 
 ## Annotations
 
-[^key-eb229f1d35c02cf2e0286e3290bf85df]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/832/regulation/20) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-eb229f1d35c02cf2e0286e3290bf85df]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2024/832/regulation/20) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00027]: Footnote: Regulation 44 was substituted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855); paragraph (6) was amended by [S.I. 2016/186](https://www.legislation.gov.uk/uksi/2016/186) and [2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); paragraph (8) was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

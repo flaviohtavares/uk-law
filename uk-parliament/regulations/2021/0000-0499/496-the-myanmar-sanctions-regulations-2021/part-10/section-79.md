@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Transitional provision: prior obligations etc.[^key-f95fecec468282e46114de277679a94c]
+## 79. Transitional provision: prior obligations etc.[^c-f95fecec468282e46114de277679a94c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) The provisions referred to in paragraphs (2) and (3) are—
 
 - (a) regulation 41(5) (finance: exceptions from prohibitions), and
-- (b) paragraph[^key-ab7f5f89eeedf452c423f669cececb0c] 9(a) of Schedule 4 (Treasury licences: purposes).
+- (b) paragraph[^c-ab7f5f89eeedf452c423f669cececb0c] 9(a) of Schedule 4 (Treasury licences: purposes).
 
 (5) In this regulation—
 
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f95fecec468282e46114de277679a94c]: Commencement: Reg. 79 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-f95fecec468282e46114de277679a94c]: Commencement: Reg. 79 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500621]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/uksi/2021/496/schedule/1) to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) provides that “**IP completion day**” has the same meaning as in the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) (see [section 39(1) to (5)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1) of that Act).
 
-[^key-ab7f5f89eeedf452c423f669cececb0c]: Textual amendment: Word in [reg. 79(4)(b)](https://www.legislation.gov.uk/uksi/2021/496/regulation/79/4/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [33(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/33/11)
+[^c-ab7f5f89eeedf452c423f669cececb0c]: Textual amendment: Word in [reg. 79(4)(b)](https://www.legislation.gov.uk/uksi/2021/496/regulation/79/4/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [33(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/33/11)
 
 [^c24500631]: Marginal citation: OJ No. L 121, 3.5.2013, p.1.

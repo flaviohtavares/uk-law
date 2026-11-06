@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Investigation of record keeping (regulation 16 of the Disciplinary Procedures Regulations)[^key-f3fd06f4164b1f05b4c3b2a284033005]
+## 82. Investigation of record keeping (regulation 16 of the Disciplinary Procedures Regulations)[^c-f3fd06f4164b1f05b4c3b2a284033005]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ that amount shall be recoverable by the appropriate Board, insofar as it has not
 
 ## Annotations
 
-[^key-f3fd06f4164b1f05b4c3b2a284033005]: Commencement: Art. 82 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f3fd06f4164b1f05b4c3b2a284033005]: Commencement: Art. 82 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

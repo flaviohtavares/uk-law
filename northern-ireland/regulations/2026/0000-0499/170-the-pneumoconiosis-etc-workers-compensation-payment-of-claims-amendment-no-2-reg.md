@@ -42,13 +42,13 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 3(3), 4(3) and 11(1) and (4) of the Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and application[^key-7084fdd921d857a0400f95c76b9f4ce2]
+## 1. Citation, commencement and application[^c-7084fdd921d857a0400f95c76b9f4ce2]
 
 (1) These Regulations may be cited as the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) (Amendment No. 2) Regulations (Northern Ireland) 2026 and shall come into operation on 31st October 2026 or the day after they are affirmed by resolution of the Assembly if later.
 
 (2) These Regulations apply only in relation to any case in which a person first satisfies the conditions of entitlement to a payment under the Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979 on or after the day on which these Regulations come into operation.
 
-## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations[^key-6435777b076b4d9df4be87cf1fe40d10]
+## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations[^c-6435777b076b4d9df4be87cf1fe40d10]
 
 (1) The Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations (Northern Ireland) 1988[^f00003] are amended in accordance with paragraphs (2) to (9).
 
@@ -149,9 +149,9 @@ By virtue of regulation 1(2), the amendments made by these Regulations apply onl
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), the Department for Employment and Learning Act (Northern Ireland) [2001 (c. 15 (N.I.))](https://www.legislation.gov.uk/nia/2001/15), Article 3 of [S.R. 2006 No. 192](https://www.legislation.gov.uk/nisr/2006/192) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-7084fdd921d857a0400f95c76b9f4ce2]: Commencement: Reg. 1 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/170/regulation/1/1)
+[^c-7084fdd921d857a0400f95c76b9f4ce2]: Commencement: Reg. 1 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/170/regulation/1/1)
 
-[^key-6435777b076b4d9df4be87cf1fe40d10]: Commencement: Reg. 2 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/170/regulation/1/1)
+[^c-6435777b076b4d9df4be87cf1fe40d10]: Commencement: Reg. 2 in operation at 31.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/170/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1988 No. 242](https://www.legislation.gov.uk/nisr/1988/242); relevant amending Regulations are [S.R. 2008 No. 352](https://www.legislation.gov.uk/nisr/2008/352) and [S.R. 2026 No. 24](https://www.legislation.gov.uk/nisr/2026/24)
 

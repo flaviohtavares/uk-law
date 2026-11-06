@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The name and address of every person appointed as a process server or removed from or otherwise ceasing to hold the office of process server shall be published in such manner and at such times as \[[^f00056] the Lord Chief Justice[^key-0eb4cc363eb348c64cfabf9f27b27db1] or district judge as the case may be\] thinks expedient.
+(1) The name and address of every person appointed as a process server or removed from or otherwise ceasing to hold the office of process server shall be published in such manner and at such times as \[[^f00056] the Lord Chief Justice[^c-0eb4cc363eb348c64cfabf9f27b27db1] or district judge as the case may be\] thinks expedient.
 
-(2) [^key-6db5621c57fb68667736218cc984f7bb]... Every process server appointed after the conning into operation of these Rules shall on appointment, take the oath set out in Form 38.
+(2) [^c-6db5621c57fb68667736218cc984f7bb]... Every process server appointed after the conning into operation of these Rules shall on appointment, take the oath set out in Form 38.
 
 (3) Subject to the provisions of this Order, a process server shall serve all civil bills and other documents received by him for service.
 
-(4) Every process server shall keep, [^key-9544f6036248e57d7da1a0afd6923082]... \[[^f00056] or district judge as the case may be\], a book in which he shall enter the following particulars in relation to every civil bill or document received by him for service, that is to say—
+(4) Every process server shall keep, [^c-9544f6036248e57d7da1a0afd6923082]... \[[^f00056] or district judge as the case may be\], a book in which he shall enter the following particulars in relation to every civil bill or document received by him for service, that is to say—
 
 - (a) the names of the plaintiff and defendant;
 - (b) the cause of action;
@@ -45,7 +45,7 @@ summary: ''
 
 \[[^f00058] . . .\]
 
-(9) It shall be the duty of every process server to attend the court as required[^key-583b1a8a261d92d5d720f252d7372be4] and produce his book or books, or in his unavoidable absence to cause such book or books to be so produced.
+(9) It shall be the duty of every process server to attend the court as required[^c-583b1a8a261d92d5d720f252d7372be4] and produce his book or books, or in his unavoidable absence to cause such book or books to be so produced.
 
 (10) In the event of the unavoidable absence or of the illness or death of a process server, his book or books shall be so produced and verified by some person who can swear to the handwriting of the process server, and on being so verified shall be prima facie evidence of the matters entered therein.
 
@@ -59,16 +59,16 @@ summary: ''
 
 [^f00056]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13
 
-[^key-0eb4cc363eb348c64cfabf9f27b27db1]: Textual amendment: Words in Order 6 rule 2(1) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-0eb4cc363eb348c64cfabf9f27b27db1]: Textual amendment: Words in Order 6 rule 2(1) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/i); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
-[^key-6db5621c57fb68667736218cc984f7bb]: Textual amendment: Words in Order 6 rule 2(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-6db5621c57fb68667736218cc984f7bb]: Textual amendment: Words in Order 6 rule 2(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/ii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
-[^key-9544f6036248e57d7da1a0afd6923082]: Textual amendment: Words in Order 6 rule 2(4) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-9544f6036248e57d7da1a0afd6923082]: Textual amendment: Words in Order 6 rule 2(4) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/iii); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00057]: Footnote: Words substituted by [S.R. 1995 No. 282](https://www.legislation.gov.uk/nisr/1995/282) with effect from 1.9.95
 
 [^f00058]: Footnote: Rule 2 (8) revoked by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 1.9.95
 
-[^key-583b1a8a261d92d5d720f252d7372be4]: Textual amendment: Words in Order 6 rule 2(9) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/iv); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-583b1a8a261d92d5d720f252d7372be4]: Textual amendment: Words in Order 6 rule 2(9) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/2/a/iv); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00059]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13

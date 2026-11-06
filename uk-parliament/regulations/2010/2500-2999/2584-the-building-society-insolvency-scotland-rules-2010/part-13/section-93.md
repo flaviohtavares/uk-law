@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Chair of meetings[^key-af1d9eece002b66d2ac95eea95dc67e2]
+## 93. Chair of meetings[^c-af1d9eece002b66d2ac95eea95dc67e2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af1d9eece002b66d2ac95eea95dc67e2]: Commencement: Rule 93 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-af1d9eece002b66d2ac95eea95dc67e2]: Commencement: Rule 93 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

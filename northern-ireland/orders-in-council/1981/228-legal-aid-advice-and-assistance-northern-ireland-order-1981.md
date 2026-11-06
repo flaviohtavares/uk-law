@@ -27,7 +27,7 @@ summary: ''
 
 1981 No. 228 (NI 8)
 
-Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^key-3d077a6186755d66bc7196cbf8e5378e]
+Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^c-3d077a6186755d66bc7196cbf8e5378e]
 
 18th February 1981 [^c22025351][^c22025361][^c20371681][^c22022931]
 
@@ -47,9 +47,9 @@ Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^key-3d077a618675
 
 (2) For the purposes of section 42(2) of the Northern Ireland Constitution Act 1973[^m00002] (validity of Acts of the Parliament of Northern Ireland), provisions of this Order which re-enact provisions of an Act of the Parliament of Northern Ireland shall be deemed to be provisions of such an Act.
 
-(3) References in this Order to counsel and solicitors shall be construed in accordance with Article 10 of the European Communities (Services of Lawyers) Order 1978[^m00003] , as it has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^key-f31b59737d593e670b4550bb5324845a].
+(3) References in this Order to counsel and solicitors shall be construed in accordance with Article 10 of the European Communities (Services of Lawyers) Order 1978[^m00003] , as it has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^c-f31b59737d593e670b4550bb5324845a].
 
-(4)[^key-b2fd8309b205d65891fbe5ab679bf1bb] In this Order—
+(4)[^c-b2fd8309b205d65891fbe5ab679bf1bb] In this Order—
 
 - “**the Department**” means the Department of Justice;
 - “**the Director**” means the Director of Legal Aid Casework designated under section 2 of the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014.
@@ -63,10 +63,10 @@ Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^key-3d077a618675
 (1) Advice and assistance to which this Article applies shall, subject to and in accordance with the following provisions of this Part, be available for any person if— *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
 - (a) his disposable income does not exceed *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]£234[^c21349821] a week; or *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
-- (b) he is (directly or indirectly) in receipt of *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] income support[^c17503921] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], an income-based jobseeker's allowance (payable under the Jobseekers (Northern Ireland) Order 1995) or an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance),[^c21082511] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] or[^key-b466475057e20e9b07110218c194063a] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
+- (b) he is (directly or indirectly) in receipt of *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] income support[^c17503921] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], an income-based jobseeker's allowance (payable under the Jobseekers (Northern Ireland) Order 1995) or an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance),[^c21082511] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] or[^c-b466475057e20e9b07110218c194063a] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 - (c) he is in receipt of a guarantee credit under the State Pension Credit Act (Northern Ireland) 2002, *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
-and *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] in any case[^key-718b3f6f71688d9e1acd9b9c9ea37f53] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] his disposable capital does not exceed *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] £1,000[^c17503961] £3,000[^c17503981].
+and *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] in any case[^c-718b3f6f71688d9e1acd9b9c9ea37f53] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] his disposable capital does not exceed *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] £1,000[^c17503961] £3,000[^c17503981].
 
 (2) Regulations may provide that there shall be substituted— *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
@@ -155,7 +155,7 @@ and in sub-paragraph ( *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-
 
 (1) In respect of advice or assistance given to any person (in this Article and Article 8 referred to as “a client”), a client shall not, except in accordance with the following provisions of this Article, be required to pay any charge or fee. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
-(2) Where a client's disposable income exceeds *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]£100[^c21351551] a week and he is not (directly or indirectly) in receipt of *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] income support[^c17504121] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], an income-based jobseeker's allowance (payable under the Jobseekers (Northern Ireland) Order 1995)[^c21082551] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]or a guarantee credit under the State Pension Credit Act (Northern Ireland) 2002[^key-253a8837be215e7dc8e0c93c68fe7daa] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] or an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance) *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], paragraph (1) shall not exempt him from liability to pay, in respect of the advice or assistance, charges or fees up to, but not in the aggregate exceeding, such amount as may be prescribed. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
+(2) Where a client's disposable income exceeds *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]£100[^c21351551] a week and he is not (directly or indirectly) in receipt of *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] income support[^c17504121] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], an income-based jobseeker's allowance (payable under the Jobseekers (Northern Ireland) Order 1995)[^c21082551] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]or a guarantee credit under the State Pension Credit Act (Northern Ireland) 2002[^c-253a8837be215e7dc8e0c93c68fe7daa] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] or an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance) *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], paragraph (1) shall not exempt him from liability to pay, in respect of the advice or assistance, charges or fees up to, but not in the aggregate exceeding, such amount as may be prescribed. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
 (3) Regulations may provide that for the sum specified in paragraph (2) there shall be substituted such other sum as may be prescribed. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
@@ -220,7 +220,7 @@ and regulations may prescribe the criteria for determining any question arising 
 
 (5A)[^c17504261] Legal aid shall not be available— *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
-- (a)[^key-ab4d1c88773557830b494caf527aeb74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ab4d1c88773557830b494caf527aeb74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to any *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] Health and Social Care trust[^c22022991] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]; or *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 - (c) to any other prescribed body; or *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 - (d) to a guardian ad litem, *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
@@ -376,11 +376,11 @@ being sums not recouped to that fund by sums which are recovered by virtue of an
 
 (4) Except in so far as the regulations otherwise provide, any resources of a person's *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] spouse or civil partner[^c17504401] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] shall be treated for the purposes of this Article as that person's resources, and the regulations may also make provision, in relation to minors and any other special cases, for taking into account the resources of other persons. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
-(5) The regulations may also include, in relation to advice and assistance, provision as to the cases in which a person is for the purposes of Articles 3 and 7 to be taken to be (directly or indirectly) in receipt of *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] income support[^c17504421] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], an income-based jobseeker's allowance (payable under the Jobseekers (Northern Ireland) Order 1995) or an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance)[^c21082631] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]or a guarantee credit under the State Pension Credit Act (Northern Ireland) 2002[^key-af4e94d3763553eb3bd86d27e98b4747] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73].
+(5) The regulations may also include, in relation to advice and assistance, provision as to the cases in which a person is for the purposes of Articles 3 and 7 to be taken to be (directly or indirectly) in receipt of *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] income support[^c17504421] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73], an income-based jobseeker's allowance (payable under the Jobseekers (Northern Ireland) Order 1995) or an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance)[^c21082631] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]or a guarantee credit under the State Pension Credit Act (Northern Ireland) 2002[^c-af4e94d3763553eb3bd86d27e98b4747] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73].
 
 (6) Subject to the provisions of this Article, the disposable income and disposable capital of a person applying for legal aid, and the maximum amount of his contribution to the legal aid fund in respect of any proceedings, shall be determined in accordance with regulations. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
-(7) Regulations for the purposes of this Article shall be made with the concurrence of the *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] Department of Finance and Personnel[^key-b079cfbbcd7793aa6041150bf7f302e1] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73].
+(7) Regulations for the purposes of this Article shall be made with the concurrence of the *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] Department of Finance and Personnel[^c-b079cfbbcd7793aa6041150bf7f302e1] *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73].
 
 ### Solicitors and counsel (affected by repeal, see note)[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
@@ -611,7 +611,7 @@ In this Part and Schedules 1 and 2— *(affected by repeal, see note)*[^M_F_8481
 - “statutory provision” has the meaning assigned to it by section 1( *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] *f*) of the Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73] [^m00005];
 - “tribunal” includes an inquiry or proceedings before an arbitrator or umpire, however appointed, whether such inquiry or proceedings take place under a reference by consent or otherwise. *(affected by repeal, see note)*[^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]
 
-## PART III — FREE LEGAL AID IN CRIMINAL PROCEEDINGS[^key-5f14f4f47955ad2d6d4435dea0fc8297]
+## PART III — FREE LEGAL AID IN CRIMINAL PROCEEDINGS[^c-5f14f4f47955ad2d6d4435dea0fc8297]
 
 ### 28. Free legal aid in the magistrates' court
 
@@ -630,11 +630,11 @@ assigned to him for that purpose in such manner as may be prescribed by rules ma
 
 (4) A letter applying for free legal aid by virtue of this Article shall—
 
-- (a) be addressed to the clerk of petty sessions [^key-d5a3693845fc26fc79b6e95ab14edced]...;
+- (a) be addressed to the clerk of petty sessions [^c-d5a3693845fc26fc79b6e95ab14edced]...;
 - (b) give particulars of the offence charged; and
 - (c) set out the grounds of the application.
 
-(5) Where an application is made by virtue of this Article, a court of summary jurisdiction[^key-7cae370923371330dd7a8f26e9dbedbe] shall have the like power exercisable on the like grounds of granting a criminal aid certificate as a magistrates' court would have if the applicant had been charged with the offence before it.
+(5) Where an application is made by virtue of this Article, a court of summary jurisdiction[^c-7cae370923371330dd7a8f26e9dbedbe] shall have the like power exercisable on the like grounds of granting a criminal aid certificate as a magistrates' court would have if the applicant had been charged with the offence before it.
 
 (6) The refusal of a criminal aid certificate made by letter shall not prevent the applicant being granted a criminal aid certificate at the hearing.
 
@@ -680,7 +680,7 @@ assigned to him for that purpose in such manner as may be prescribed by rules ma
 (2) Subject to the provisions of this Article, a criminal aid certificate may be granted in respect of any person—
 
 - (a) by a magistrates' court, upon his being returned for trial; or
-- (b) by the judge of the court before which he is to be tried, at any time after reading [^key-7eb3a69418ac4054c1101216166fe50d]... the written statements tendered[^key-7eb3a69418ac4054c1101216166fe50d]... at the preliminary enquiry, or
+- (b) by the judge of the court before which he is to be tried, at any time after reading [^c-7eb3a69418ac4054c1101216166fe50d]... the written statements tendered[^c-7eb3a69418ac4054c1101216166fe50d]... at the preliminary enquiry, or
 - (c) where a notice of transfer is given under Article 3 of the Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988, by the magistrates' court before which the person to whom the notice relates is brought or by the Crown Court sitting at the place specified by the notice as the proposed place of trial or at any place substituted for it by a direction mentioned in Article 4(5) of that Order, [^c21388211] . . .
 - (d) [^c21388211]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .or
 - (e) where a notice of transfer is given under Article 4 of the Children's Evidence (Northern Ireland) Order 1995, by the magistrates' court before which the person to whom the notice relates is brought or by the Crown Court sitting at the place specified by the notice as the proposed place of trial or at any place substituted for it by a direction mentioned in paragraph 2(4) of Schedule 1 to that Order,
@@ -695,7 +695,7 @@ and such court or judge is in this Part referred to as “the certifying authori
 (4) Where a criminal aid certificate is granted to any person under this Article that person shall be entitled to free legal aid in respect of work reasonably undertaken and properly done by the solicitor assigned to that person in—
 
 - (a) giving notice of appeal to the Court of Appeal or of an application for leave to appeal and in matters preliminary thereto, being work done within the ordinary time for giving the notice or making the application; and
-- (b) obtaining the opinion of the counsel assigned to that person as to the appeal or application or matters connected therewith; and[^key-fd351f1868c214fcf773e14966ac071d]
+- (b) obtaining the opinion of the counsel assigned to that person as to the appeal or application or matters connected therewith; and[^c-fd351f1868c214fcf773e14966ac071d]
 - (c) applying to a magistrates' court for bail under section 91 of the Justice Act (Northern Ireland) 2011.
 
 (5) The foregoing provisions of this Article shall apply to persons who appear or are brought before the Crown Court to be dealt with and shall, for the purposes of their application to such persons be amended as follows:—
@@ -706,12 +706,12 @@ and such court or judge is in this Part referred to as “the certifying authori
 
 ### 30. Free legal aid on appeal to the county court
 
-(1) Where a person who has been convicted of an offence or sentenced for an offence by a magistrates' court desires to appeal to a county court against the conviction or the sentence, but has not sufficient means to enable him to obtain legal aid for the purpose, he may make an application for free legal aid to the court by which he was convicted or sentenced, or to any magistrates' court [^key-2994ae71f38483cb53e2359845a32b98]..., and where a person so convicted or sentenced has given notice of appeal to a county court, the other party to the appeal, if he has not sufficient means to enable him to obtain legal aid for the purpose of resisting the appeal, may make an application for free legal aid to any magistrates' court [^key-2994ae71f38483cb53e2359845a32b98]....
+(1) Where a person who has been convicted of an offence or sentenced for an offence by a magistrates' court desires to appeal to a county court against the conviction or the sentence, but has not sufficient means to enable him to obtain legal aid for the purpose, he may make an application for free legal aid to the court by which he was convicted or sentenced, or to any magistrates' court [^c-2994ae71f38483cb53e2359845a32b98]..., and where a person so convicted or sentenced has given notice of appeal to a county court, the other party to the appeal, if he has not sufficient means to enable him to obtain legal aid for the purpose of resisting the appeal, may make an application for free legal aid to any magistrates' court [^c-2994ae71f38483cb53e2359845a32b98]....
 
 (2) An application made under paragraph (1) may be made either—
 
 - (a) in person to the court; or
-- (b) by letter addressed to the clerk of petty sessions [^key-d1f56882a5274a637db1551e89005fc7]..., setting out the facts of the case and the grounds of the application.
+- (b) by letter addressed to the clerk of petty sessions [^c-d1f56882a5274a637db1551e89005fc7]..., setting out the facts of the case and the grounds of the application.
 
 (3) If on an application made under paragraph (1) it appears to the court that—
 
@@ -764,7 +764,7 @@ If, on a question of granting a person free legal aid under Article 28, 28A,[^c1
 
 ### 33. Report on means of applicant for free legal aid
 
-(1)[^key-75941cf23e32a0b67bcaa0c6abb19c59] Where a person has applied for free legal aid and has furnished a statement of means under Article 32(1) the court having power to grant a certificate entitling him to such legal aid may, before or after the granting of the certificate, require the Department for Social Development[^c17505461] to arrange for an officer of that Department to enquire into the means of that person and where such a request is made that Department shall comply with it and arrange for the officer to make a report to the court.
+(1)[^c-75941cf23e32a0b67bcaa0c6abb19c59] Where a person has applied for free legal aid and has furnished a statement of means under Article 32(1) the court having power to grant a certificate entitling him to such legal aid may, before or after the granting of the certificate, require the Department for Social Development[^c17505461] to arrange for an officer of that Department to enquire into the means of that person and where such a request is made that Department shall comply with it and arrange for the officer to make a report to the court.
 
 (2) Where the court receives a report under paragraph (1) before a certificate is granted, it shall, in determining whether or not to grant the certificate, have regard to the report and where the court receives such a report after a certificate has been granted, it may revoke the certificate if it appears to the court that the person to whom the certificate was granted—
 
@@ -774,9 +774,9 @@ If, on a question of granting a person free legal aid under Article 28, 28A,[^c1
 
 (3) Where a certificate is revoked under paragraph (2), the cost of legal aid incurred to the date of revocation may be recovered from the person to whom the certificate was granted (or if such person was a child or young person, the parent or guardian) as a civil debt due to the Crown and a county court notwithstanding any limitation imposed on its jurisdiction under any statutory provision shall have jurisdiction to hear and determine any action brought to recover such cost.
 
-(4)[^key-d0fc5c8b109f6e60d840fe2311398042] Paragraph (3) does not apply in relation to a person who is already subject to an order under Article 33A(1) in respect of the cost of legal aid incurred.
+(4)[^c-d0fc5c8b109f6e60d840fe2311398042] Paragraph (3) does not apply in relation to a person who is already subject to an order under Article 33A(1) in respect of the cost of legal aid incurred.
 
-### 33A. Order to recover costs of legal aid[^key-644f5e67081f60d034f1b9063ed3693a]
+### 33A. Order to recover costs of legal aid[^c-644f5e67081f60d034f1b9063ed3693a]
 
 (1) Where a person has been granted a criminal aid certificate the court may, subject to rules made under Article 36, make an order requiring him to pay some or all of the cost of legal aid incurred to the date of the order unless he is already subject to an action under Article 33(3) to recover that cost.
 
@@ -787,7 +787,7 @@ If, on a question of granting a person free legal aid under Article 28, 28A,[^c1
 - (c) the persons who may apply to the court for such an order to be made and the circumstances and manner in which that application may be made,
 - (d) the determination of the cost of legal aid incurred for the purposes of the making of such an order,
 - (e) the manner in which, and persons by whom, an investigation into the means of any person may be carried out for the purposes of making such an order,
-- (f) the furnishing of information and evidence to the court or the Director[^key-6b9c09239748e7aa31bb4c93d5b8ba44] for the purpose of enabling the court to decide whether to make such an order and (if so) the amount to be paid,
+- (f) the furnishing of information and evidence to the court or the Director[^c-6b9c09239748e7aa31bb4c93d5b8ba44] for the purpose of enabling the court to decide whether to make such an order and (if so) the amount to be paid,
 - (g) prohibiting persons who are required to furnish information or evidence from dealing with property until they have furnished the information or evidence or until a decision whether to make an order, or as to the amount to be paid, has been made,
 - (h) rights of appeal against such an order,
 - (i) the person or body to which, and manner in which, payments required by such an order must be made and what that person or body is to do with them,
@@ -828,7 +828,7 @@ include preparation for and participation in any court-ordered youth conference 
 - (c) the form for the purpose of Article 32(1); and
 - (d) the rates or scales of payment of any fees, costs or other expenses which are payable under this Part.
 
-(4)[^key-9ab3428f4dd64dd5719ffd877454f40c] Except as provided by paragraph (5), rules under this Article are subject to negative resolution.
+(4)[^c-9ab3428f4dd64dd5719ffd877454f40c] Except as provided by paragraph (5), rules under this Article are subject to negative resolution.
 
 (5) The rules to which paragraph (6) applies shall not be made unless a draft of the rules has been laid before, and approved by resolution of, the Assembly.
 
@@ -839,7 +839,7 @@ include preparation for and participation in any court-ordered youth conference 
 - (c) rules made under this Article which contain any provision made by virtue of Article 36B (as substituted by Schedule 2 to the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014);
 - (d) rules made under this Article which contain any provision made by virtue of Article 38A (as inserted by Schedule 2 to the Legal Aid and Coroners' Courts Act (Northern Ireland) 2014).
 
-### 36A. Assignment of solicitor and counsel[^key-ba16fc6f692bc3096451b6f90c58f6ca]
+### 36A. Assignment of solicitor and counsel[^c-ba16fc6f692bc3096451b6f90c58f6ca]
 
 (1) Rules under Article 36(3)(b) must provide that, subject to paragraphs (2) and (3) and to any provision made by virtue of paragraph (4), a person in respect of whom a criminal aid certificate has been granted may select any solicitor or counsel willing to act for that person to be assigned so to act.
 
@@ -925,7 +925,7 @@ the right to be indemnified shall be treated for the purposes of paragraph (3) a
 
 (5) Nothing in paragraphs (3) and (4) shall be taken as depriving any person or body of persons of the protection of any statutory provision or, save as provided in paragraph (4), as conferring any larger right on the Lord Chancellor to recover money in respect of any expenses than the person referred to in paragraph (3) would have had if the expenses had been incurred by him.
 
-### 38A. Restriction of disclosure of information[^key-42af64ef521d86ce2d0618542fda0bad]
+### 38A. Restriction of disclosure of information[^c-42af64ef521d86ce2d0618542fda0bad]
 
 (1) Information which is furnished—
 
@@ -957,7 +957,7 @@ In this Part—
 - “criminal aid certificate” means a certificate granted under Article 28(1), 28A(3), 29(2) or 30(3);
 - “diversionary youth conference” has the meaning assigned to that expression by Article 10A(2) of the Criminal Justice (Children) (Northern Ireland) Order 1998;
 - “magistrates' court” has the meaning assigned to that expression by Article 2(2)(b) of the Magistrates' Courts (Northern Ireland) Order 1981[^c17505731];
-- [^key-5b9e60173d12fc533208489616effcd6]...
+- [^c-5b9e60173d12fc533208489616effcd6]...
 - “statutory provision” has the meaning assigned to it by section 1( *f*) of the Interpretation Act (Northern Ireland) 1954 [^m00006].
 
 ## PART IV — MISCELLANEOUS
@@ -1002,7 +1002,7 @@ Article 10.
 - (a) proceedings which relate to a direction under section 202(3) [^c20372251]. . . as to the distribution of funds in the hands of a receiver;
 - (b) applications under section 210 relating to action taken or proposed to be taken by a receiver;
 - (c) applications under section 211 to vary or discharge an order under any of sections 196 to 199[^c20372311] for the appointment of or conferring powers on a receiver;
-- (ca)[^key-6f5513ce10a512e8b86a672d0398636a] proceedings which relate to a direction under section 215D;
+- (ca)[^c-6f5513ce10a512e8b86a672d0398636a] proceedings which relate to a direction under section 215D;
 - (d) applications under section 220 or 221 for the payment of compensation;
 - (e) applications under sections 351(3), 362(3), 369(3) or 375(2) to vary or discharge certain orders made under Part 8.
 
@@ -1025,8 +1025,8 @@ Article 10.
 - (g) proceedings under Article 101 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^m00018] and section 101 of the Social Security Administration (Northern Ireland) Act 1992[^c17505991].
 - (h)[^c17506011] appeals under Article 22 of the Child Support (Northern Ireland) Order 1991, so far as such appeals are to be made to a court of summary jurisdiction by virtue of Article 2 of the Child Support Appeals (Jurisdiction of Courts) Order (Northern Ireland) 1993, and proceedings under Article 28 of the Child Support (Northern Ireland) Order 1991
 - (i)[^c17506031] proceedings under paragraphs 3, 5, 6, 9 and 10 of Schedule 1 to the Anti-terrorism, Crime and Security Act 2001.
-- (j)[^c17506051] proceedings under sections 195M,[^key-97b44ada881c1e5411c22b31ad6fd19d] 295, 297, 297E, 297F,[^key-db921fb9ad7d48d744215131d3000ea0] 298, 301 and 302 of the Proceeds of Crime Act 2002
-- (ja)[^key-afe888f96e900d4d8b8980880266ae01] proceedings for the discharge or variation of an order under section 195M of the Proceeds of Crime Act 2002;
+- (j)[^c17506051] proceedings under sections 195M,[^c-97b44ada881c1e5411c22b31ad6fd19d] 295, 297, 297E, 297F,[^c-db921fb9ad7d48d744215131d3000ea0] 298, 301 and 302 of the Proceeds of Crime Act 2002
+- (ja)[^c-afe888f96e900d4d8b8980880266ae01] proceedings for the discharge or variation of an order under section 195M of the Proceeds of Crime Act 2002;
 - (jb) proceedings which relate to a direction under section 215D of the Proceeds of Crime Act 2002;
 - (k)[^c17506071] proceedings for, or relating to, an anti-social behaviour order under Article 3 or 4 of the Anti-social Behaviour (Northern Ireland) Order 2004;
 - (l)[^c22025221] proceedings for the variation or discharge of an order under Article 7 or 7A of the Protection from Harassment (Northern Ireland) Order 1997.
@@ -1125,7 +1125,7 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 ## Annotations
 
-[^key-3d077a6186755d66bc7196cbf8e5378e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/228): power to amend conferred (1.9.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 90(2)(b)](https://www.legislation.gov.uk/nia/2011/24/section/90/2/b), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
+[^c-3d077a6186755d66bc7196cbf8e5378e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1981/228): power to amend conferred (1.9.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 90(2)(b)](https://www.legislation.gov.uk/nia/2011/24/section/90/2/b), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
 
 [^c22025351]: Textual amendment: Order repealed (1.11.2003 for the repeals of arts.18(1)-(7), 19, 20.3.2006 the repeal of art. 23, 1.4.2015 for the repeal of Pt. 2 to the extent that it remains in operation, otherwise prosp.) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/uksi/2003/435), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/435/article/1/2), [49(5)](https://www.legislation.gov.uk/uksi/2003/435/article/49/5), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/435/schedule/5) (with transitional provisions and savings in [art. 48](https://www.legislation.gov.uk/uksi/2003/435/article/48), [Sch. 3](https://www.legislation.gov.uk/uksi/2003/435/schedule/3)); [S.R. 2003/344](https://www.legislation.gov.uk/nisr/2003/344), [art. 4](https://www.legislation.gov.uk/nisr/2003/344/article/4), [Sch. 2](https://www.legislation.gov.uk/nisr/2003/344/schedule/2); [S.R. 2006/27](https://www.legislation.gov.uk/nisr/2006/27), [art. 3](https://www.legislation.gov.uk/nisr/2006/27/article/3); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
@@ -1145,9 +1145,9 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^m00003]: Marginal citation: SI 1978/1910
 
-[^key-f31b59737d593e670b4550bb5324845a]: Textual amendment: Words in art. 2(3) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/4) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-f31b59737d593e670b4550bb5324845a]: Textual amendment: Words in art. 2(3) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/4) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
 
-[^key-b2fd8309b205d65891fbe5ab679bf1bb]: Textual amendment: Art. 2(4) inserted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-b2fd8309b205d65891fbe5ab679bf1bb]: Textual amendment: Art. 2(4) inserted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
 [^M_F_8481dbfd-45b8-4406-bdf0-6b2a848b3a73]: Textual amendment: Pt. 2 (to the extent that it remains in operation) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/uksi/2003/435), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/435/article/1/2), [49(5)](https://www.legislation.gov.uk/uksi/2003/435/article/49/5), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/435/schedule/5) (with transitional provisions and savings in [art. 48](https://www.legislation.gov.uk/uksi/2003/435/article/48), [Sch. 3](https://www.legislation.gov.uk/uksi/2003/435/schedule/3)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
@@ -1157,9 +1157,9 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c21082511]: Textual amendment: Words in art. 3(1)(b) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [reg. 2(2)](https://www.legislation.gov.uk/nisr/2008/412/regulation/2/2)
 
-[^key-b466475057e20e9b07110218c194063a]: Textual amendment: Art. 3(1)(c) and word inserted (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(2)(a)](https://www.legislation.gov.uk/nia/2011/24/section/82/2/a), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
+[^c-b466475057e20e9b07110218c194063a]: Textual amendment: Art. 3(1)(c) and word inserted (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(2)(a)](https://www.legislation.gov.uk/nia/2011/24/section/82/2/a), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
 
-[^key-718b3f6f71688d9e1acd9b9c9ea37f53]: Textual amendment: Words in art. 3(1) substituted (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(2)(b)](https://www.legislation.gov.uk/nia/2011/24/section/82/2/b), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
+[^c-718b3f6f71688d9e1acd9b9c9ea37f53]: Textual amendment: Words in art. 3(1) substituted (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(2)(b)](https://www.legislation.gov.uk/nia/2011/24/section/82/2/b), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
 
 [^c17503961]: Textual amendment: SR 1992/106
 
@@ -1181,7 +1181,7 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c21082551]: Textual amendment: Words in art. 7(2) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [reg. 2(3)](https://www.legislation.gov.uk/nisr/2008/412/regulation/2/3)
 
-[^key-253a8837be215e7dc8e0c93c68fe7daa]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/nisi/1981/228/article/7/2) inserted (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(3)](https://www.legislation.gov.uk/nia/2011/24/section/82/3), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
+[^c-253a8837be215e7dc8e0c93c68fe7daa]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/nisi/1981/228/article/7/2) inserted (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(3)](https://www.legislation.gov.uk/nia/2011/24/section/82/3), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
 
 [^c21351601]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/nisi/1981/228/article/9/1) (in connection with proceedings involving a personal injury) substituted (6.4.2009) by [Legal Aid (Financial Conditions) Regulations (Northern Ireland) 2009 (S.R. 2009/104)](https://www.legislation.gov.uk/nisr/2009/104), [reg. 3(a)](https://www.legislation.gov.uk/nisr/2009/104/regulation/3/a)
 
@@ -1193,7 +1193,7 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c17504261]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)
 
-[^key-ab4d1c88773557830b494caf527aeb74]: Textual amendment: [Art. 10(5A)(a)](https://www.legislation.gov.uk/nisi/1981/228/article/10/5A/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 64](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/64); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ab4d1c88773557830b494caf527aeb74]: Textual amendment: [Art. 10(5A)(a)](https://www.legislation.gov.uk/nisi/1981/228/article/10/5A/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 64](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/64); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c22022991]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(c)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/c) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -1217,9 +1217,9 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c21082631]: Textual amendment: Words in art. 14(5) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/412)](https://www.legislation.gov.uk/nisr/2008/412), [reg. 2(4)](https://www.legislation.gov.uk/nisr/2008/412/regulation/2/4)
 
-[^key-af4e94d3763553eb3bd86d27e98b4747]: Textual amendment: Words in [art. 14(5)](https://www.legislation.gov.uk/nisi/1981/228/article/14/5) added (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(4)](https://www.legislation.gov.uk/nia/2011/24/section/82/4), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
+[^c-af4e94d3763553eb3bd86d27e98b4747]: Textual amendment: Words in [art. 14(5)](https://www.legislation.gov.uk/nisi/1981/228/article/14/5) added (7.1.2013) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 82(4)](https://www.legislation.gov.uk/nia/2011/24/section/82/4), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/449/article/2/a)
 
-[^key-b079cfbbcd7793aa6041150bf7f302e1]: Textual amendment: Words in art. 14(7) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [5](https://www.legislation.gov.uk/uksi/2012/2595/article/5) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-b079cfbbcd7793aa6041150bf7f302e1]: Textual amendment: Words in art. 14(7) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [5](https://www.legislation.gov.uk/uksi/2012/2595/article/5) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
 [^c17504481]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)
 
@@ -1265,15 +1265,15 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^m00005]: Marginal citation: 1954 c.33
 
-[^key-5f14f4f47955ad2d6d4435dea0fc8297]: Modification: Pt. 3 transfer of functions (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2014/11/section/1/2/a)[(3)](https://www.legislation.gov.uk/nia/2014/11/section/1/3)[(4)](https://www.legislation.gov.uk/nia/2014/11/section/1/4), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/193/article/2/a)
+[^c-5f14f4f47955ad2d6d4435dea0fc8297]: Modification: Pt. 3 transfer of functions (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2014/11/section/1/2/a)[(3)](https://www.legislation.gov.uk/nia/2014/11/section/1/3)[(4)](https://www.legislation.gov.uk/nia/2014/11/section/1/4), [12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/193/article/2/a)
 
 [^c17505181]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
 [^c20371841]: Textual amendment: Art. 28(2A) inserted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 46](https://www.legislation.gov.uk/ukpga/2007/6/section/46), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2007/2045/article/3))
 
-[^key-d5a3693845fc26fc79b6e95ab14edced]: Textual amendment: Words in [art. 28(4)(a)](https://www.legislation.gov.uk/nisi/1981/228/article/28/4/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/1/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d5a3693845fc26fc79b6e95ab14edced]: Textual amendment: Words in [art. 28(4)(a)](https://www.legislation.gov.uk/nisi/1981/228/article/28/4/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/1/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-7cae370923371330dd7a8f26e9dbedbe]: Textual amendment: Words in [art. 28(5)](https://www.legislation.gov.uk/nisi/1981/228/article/28/5) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/1/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-7cae370923371330dd7a8f26e9dbedbe]: Textual amendment: Words in [art. 28(5)](https://www.legislation.gov.uk/nisi/1981/228/article/28/5) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/1/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17505121]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
@@ -1281,15 +1281,15 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c17505211]: Textual amendment: [1995 NI 3](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-7eb3a69418ac4054c1101216166fe50d]: Textual amendment: Words in [art. 29(2)(b)](https://www.legislation.gov.uk/nisi/1981/228/article/29/2/b) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 7](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/7); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-7eb3a69418ac4054c1101216166fe50d]: Textual amendment: Words in [art. 29(2)(b)](https://www.legislation.gov.uk/nisi/1981/228/article/29/2/b) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 7](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/7); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c21388211]: Textual amendment: Art. 29(2)(d) and preceding word repealed (4.7.1996) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 46(2)](https://www.legislation.gov.uk/ukpga/1996/25/section/46/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/25/schedule/5) (as modified in its application to Northern Ireland by Sch. 4 paras. 19, 36)
 
-[^key-fd351f1868c214fcf773e14966ac071d]: Textual amendment: Art. 29(4)(c) and word added (11.6.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 83(3)](https://www.legislation.gov.uk/nia/2011/24/section/83/3), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 3(a)](https://www.legislation.gov.uk/nisr/2012/214/article/3/a)
+[^c-fd351f1868c214fcf773e14966ac071d]: Textual amendment: Art. 29(4)(c) and word added (11.6.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 83(3)](https://www.legislation.gov.uk/nia/2011/24/section/83/3), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 3(a)](https://www.legislation.gov.uk/nisr/2012/214/article/3/a)
 
-[^key-2994ae71f38483cb53e2359845a32b98]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/nisi/1981/228/article/30/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-2994ae71f38483cb53e2359845a32b98]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/nisi/1981/228/article/30/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-d1f56882a5274a637db1551e89005fc7]: Textual amendment: Words in [art. 30(2)(b)](https://www.legislation.gov.uk/nisi/1981/228/article/30/2/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-d1f56882a5274a637db1551e89005fc7]: Textual amendment: Words in [art. 30(2)(b)](https://www.legislation.gov.uk/nisi/1981/228/article/30/2/b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17505361]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
@@ -1301,15 +1301,15 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c17505441]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-75941cf23e32a0b67bcaa0c6abb19c59]: Modification: Art. 33(1) continued (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/2)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-75941cf23e32a0b67bcaa0c6abb19c59]: Modification: Art. 33(1) continued (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/2) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/2)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
 [^c17505461]: Textual amendment: [2005 NI 19](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-d0fc5c8b109f6e60d840fe2311398042]: Textual amendment: Art. 33(4) inserted (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 81(3)](https://www.legislation.gov.uk/nia/2011/24/section/81/3), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/142/article/2/b)
+[^c-d0fc5c8b109f6e60d840fe2311398042]: Textual amendment: Art. 33(4) inserted (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 81(3)](https://www.legislation.gov.uk/nia/2011/24/section/81/3), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/142/article/2/b)
 
-[^key-644f5e67081f60d034f1b9063ed3693a]: Textual amendment: Art. 33A inserted (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 81(2)](https://www.legislation.gov.uk/nia/2011/24/section/81/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/142/article/2/b)
+[^c-644f5e67081f60d034f1b9063ed3693a]: Textual amendment: Art. 33A inserted (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 81(2)](https://www.legislation.gov.uk/nia/2011/24/section/81/2), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/142/article/2/b)
 
-[^key-6b9c09239748e7aa31bb4c93d5b8ba44]: Textual amendment: Word in [art. 33A(2)(f)](https://www.legislation.gov.uk/nisi/1981/228/article/33A/2/f) substituted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/3) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-6b9c09239748e7aa31bb4c93d5b8ba44]: Textual amendment: Word in [art. 33A(2)(f)](https://www.legislation.gov.uk/nisi/1981/228/article/33A/2/f) substituted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/3) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
 [^c20372121]: Textual amendment: Words in art. 34 repealed (16.4.2007) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 86](https://www.legislation.gov.uk/ukpga/2002/26/section/86), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2007/237](https://www.legislation.gov.uk/nisr/2007/237), [art. 2](https://www.legislation.gov.uk/nisr/2007/237/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/237/schedule)
 
@@ -1327,9 +1327,9 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c17505551]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-9ab3428f4dd64dd5719ffd877454f40c]: Textual amendment: [Art. 36(4)-(6)](https://www.legislation.gov.uk/nisi/1981/228/article/36/4) substituted for [art. 36(4)](https://www.legislation.gov.uk/nisi/1981/228/article/36/4) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/4) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-9ab3428f4dd64dd5719ffd877454f40c]: Textual amendment: [Art. 36(4)-(6)](https://www.legislation.gov.uk/nisi/1981/228/article/36/4) substituted for [art. 36(4)](https://www.legislation.gov.uk/nisi/1981/228/article/36/4) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/4) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
-[^key-ba16fc6f692bc3096451b6f90c58f6ca]: Textual amendment: Arts. 36A, 36B substituted (1.4.2015) for art. 36A by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/5) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-ba16fc6f692bc3096451b6f90c58f6ca]: Textual amendment: Arts. 36A, 36B substituted (1.4.2015) for art. 36A by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/5) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
 [^M_F_5c06342b-893a-4669-c57d-fef0bf22da5b]: Textual amendment: Arts. 36A, 36B substituted (1.4.2015) for art. 36A by Legal Aid and Coroners‘ [Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/5) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
@@ -1339,13 +1339,13 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c17505611]: Textual amendment: SI 1982/159
 
-[^key-42af64ef521d86ce2d0618542fda0bad]: Textual amendment: [Art. 38A](https://www.legislation.gov.uk/nisi/1981/228/article/38A) inserted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/6) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-42af64ef521d86ce2d0618542fda0bad]: Textual amendment: [Art. 38A](https://www.legislation.gov.uk/nisi/1981/228/article/38A) inserted (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/1/6) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
 
 [^c17505651]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
 [^c17505731]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-5b9e60173d12fc533208489616effcd6]: Textual amendment: Words in [art. 39](https://www.legislation.gov.uk/nisi/1981/228/article/39) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-5b9e60173d12fc533208489616effcd6]: Textual amendment: Words in [art. 39](https://www.legislation.gov.uk/nisi/1981/228/article/39) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 85(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/85/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00006]: Marginal citation: 1954 c.33
 
@@ -1363,7 +1363,7 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c20372311]: Textual amendment: Words in [Sch. 1 Pt. I para. 2A(1)(c)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/part/I/paragraph/2A/1/c) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 148(3)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/148/3); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to transitional and transitory and savings provisions in [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-6f5513ce10a512e8b86a672d0398636a]: Textual amendment: [Sch. 1 para. 2A(1)(ca)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/2A/1/ca) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 45(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/45/2); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
+[^c-6f5513ce10a512e8b86a672d0398636a]: Textual amendment: [Sch. 1 para. 2A(1)(ca)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/2A/1/ca) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 45(2)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/45/2); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
 
 [^c21082661]: Textual amendment: Words in [Sch. 1 Pt. I para. 2A(2)(a)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/part/I/paragraph/2A/2/a) substituted (8.6.2008) by [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(3)(a)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/3/a), [85(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/85/2)
 
@@ -1399,11 +1399,11 @@ but nothing in this paragraph shall require him to have regard to any fees payab
 
 [^c17506051]: Textual amendment: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29)
 
-[^key-97b44ada881c1e5411c22b31ad6fd19d]: Textual amendment: Word in [Sch. 1 para. 3(j)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/3/j) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/45/3/a); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
+[^c-97b44ada881c1e5411c22b31ad6fd19d]: Textual amendment: Word in [Sch. 1 para. 3(j)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/3/j) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/45/3/a); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
 
-[^key-db921fb9ad7d48d744215131d3000ea0]: Textual amendment: Words in [Sch. 1 para. 3(j)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/3/j) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 97](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/97); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(j)](https://www.legislation.gov.uk/uksi/2016/147/article/3/j)
+[^c-db921fb9ad7d48d744215131d3000ea0]: Textual amendment: Words in [Sch. 1 para. 3(j)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/3/j) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 97](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/97); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(j)](https://www.legislation.gov.uk/uksi/2016/147/article/3/j)
 
-[^key-afe888f96e900d4d8b8980880266ae01]: Textual amendment: [Sch. 1 para. 3(ja)(jb)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/3/ja/jb) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/45/3/b); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
+[^c-afe888f96e900d4d8b8980880266ae01]: Textual amendment: [Sch. 1 para. 3(ja)(jb)](https://www.legislation.gov.uk/nisi/1981/228/schedule/1/paragraph/3/ja/jb) inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 7 para. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/45/3/b); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(i)](https://www.legislation.gov.uk/uksi/2016/147/article/3/i)
 
 [^c17506071]: Textual amendment: [2004 NI 12](https://www.legislation.gov.uk/2004/ni12)
 

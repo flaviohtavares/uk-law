@@ -31,7 +31,7 @@ of 12 December 2017
 
 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms
 
-[^key-c5bbadff0443c73288bc0164f176fc30]
+[^c-c5bbadff0443c73288bc0164f176fc30]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -1179,11 +1179,11 @@ Regulation (EU) No 575/2013 is amended as follows:
 
 ## Article 2. Transitional provisions concerning outstanding securitisation positions
 
-(1.)[^key-1d94783d2471a52c0b70e9166587010f] In respect of securitisations the securities of which were issued before 1 January 2019, institutions shall continue to apply the provisions set out in Chapter 5 of Title II of Part Three and Article 337 of Regulation (EU) No 575/2013 until 31 December 2019 in the version applicable on 31 December 2018.
+(1.)[^c-1d94783d2471a52c0b70e9166587010f] In respect of securitisations the securities of which were issued before 1 January 2019, institutions shall continue to apply the provisions set out in Chapter 5 of Title II of Part Three and Article 337 of Regulation (EU) No 575/2013 until 31 December 2019 in the version applicable on 31 December 2018.
 
 For the purposes of this Article, in the case of securitisations which do not involve the issuance of securities, the reference to ‘securitisations the securities of which were issued’ shall be deemed to mean securitisations the initial securitisation positions of which were created.
 
-(2.)[^key-43fa7f5b8d6d823c16b7e013cbdb445d] For the purposes of paragraph 1, Chapter 5 of Title 2 of Part 3 and Article 337 of Regulation (EU) No 575/2013 (in the version applicable on 31 December 2018) have effect with the following modifications—
+(2.)[^c-43fa7f5b8d6d823c16b7e013cbdb445d] For the purposes of paragraph 1, Chapter 5 of Title 2 of Part 3 and Article 337 of Regulation (EU) No 575/2013 (in the version applicable on 31 December 2018) have effect with the following modifications—
 
 - (a)) ignore the following provisions (obligations of the EBA)—
   - (i) in Article 243 (traditional securitisation), paragraph 6;
@@ -1243,7 +1243,7 @@ M. MAASIKAS
 
 ## Annotations
 
-[^key-c5bbadff0443c73288bc0164f176fc30]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-c5bbadff0443c73288bc0164f176fc30]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ C 219, 17.6.2016, p. 2](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2016.219.01.0002.01.ENG).
 
@@ -1263,6 +1263,6 @@ M. MAASIKAS
 
 [^f00009]: Footnote: Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC, 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 ([OJ L 347, 28.12.2017, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2017.347.01.0035.01.ENG)).’;
 
-[^key-1d94783d2471a52c0b70e9166587010f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2017/2401/article/2) renumbered as Art. 2(1) (31.12.2020) by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [56(a)](https://www.legislation.gov.uk/uksi/2019/660/regulation/56/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d94783d2471a52c0b70e9166587010f]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2017/2401/article/2) renumbered as Art. 2(1) (31.12.2020) by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [56(a)](https://www.legislation.gov.uk/uksi/2019/660/regulation/56/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43fa7f5b8d6d823c16b7e013cbdb445d]: Textual amendment: [Art. 2(2)(3)](https://www.legislation.gov.uk/eur/2017/2401/article/2/2/3) inserted (31.12.2020) by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [56(b)](https://www.legislation.gov.uk/uksi/2019/660/regulation/56/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43fa7f5b8d6d823c16b7e013cbdb445d]: Textual amendment: [Art. 2(2)(3)](https://www.legislation.gov.uk/eur/2017/2401/article/2/2/3) inserted (31.12.2020) by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [56(b)](https://www.legislation.gov.uk/uksi/2019/660/regulation/56/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

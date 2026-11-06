@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Duty to consult local people etc. on performance[^key-be9b0587dadfa0c51414dcbb348f6e3e]
+## 90. Duty to consult local people etc. on performance[^c-be9b0587dadfa0c51414dcbb348f6e3e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A principal council must from time to time, and at least once in each financial 
 
 ## Annotations
 
-[^key-be9b0587dadfa0c51414dcbb348f6e3e]: Commencement: S. 90 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/297/article/2/a)
+[^c-be9b0587dadfa0c51414dcbb348f6e3e]: Commencement: S. 90 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/297/article/2/a)

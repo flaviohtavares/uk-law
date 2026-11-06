@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284A. Transformer vehicles[^key-54fbbb52a18d7fc05aebffb8592a4a54]
+## 284A. Transformer vehicles[^c-54fbbb52a18d7fc05aebffb8592a4a54]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ summary: ''
 
 (8) The provision that may be made by virtue of subsection (6)(f) includes provision extending or adapting any power to make subordinate legislation.
 
-(9) Regulations under subsection (3) may provide that a reference in the regulations to, or to any provision of, legislation (including [^key-496118f82bd56cc82e397e965deff0fb]... legislation of a country or territory outside the United Kingdom) is to be construed as a reference to that legislation or that provision as amended from time to time.
+(9) Regulations under subsection (3) may provide that a reference in the regulations to, or to any provision of, legislation (including [^c-496118f82bd56cc82e397e965deff0fb]... legislation of a country or territory outside the United Kingdom) is to be construed as a reference to that legislation or that provision as amended from time to time.
 
 (10) In this section—
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54fbbb52a18d7fc05aebffb8592a4a54]: Textual amendment: Pt. 17A inserted (4.5.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/31/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
+[^c-54fbbb52a18d7fc05aebffb8592a4a54]: Textual amendment: Pt. 17A inserted (4.5.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/31/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
 
-[^key-496118f82bd56cc82e397e965deff0fb]: Textual amendment: Words in [s. 284A(9)](https://www.legislation.gov.uk/ukpga/2000/8/section/284A/9) omitted (31.12.2020) by virtue of [The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019 (S.I. 2019/407)](https://www.legislation.gov.uk/uksi/2019/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/5/2) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/2))
+[^c-496118f82bd56cc82e397e965deff0fb]: Textual amendment: Words in [s. 284A(9)](https://www.legislation.gov.uk/ukpga/2000/8/section/284A/9) omitted (31.12.2020) by virtue of [The Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019 (S.I. 2019/407)](https://www.legislation.gov.uk/uksi/2019/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/407/regulation/5/2) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/54/2))

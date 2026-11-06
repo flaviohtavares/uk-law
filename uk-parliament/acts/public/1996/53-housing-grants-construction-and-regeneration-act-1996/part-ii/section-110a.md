@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Payment notices: contractual requirements[^key-899a6462055dc8d3e08885bec4b8663d][^key-27cfbad8be3eef0931747447e4151b93]
+## 110A. Payment notices: contractual requirements[^c-899a6462055dc8d3e08885bec4b8663d][^c-27cfbad8be3eef0931747447e4151b93]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-899a6462055dc8d3e08885bec4b8663d]: Textual amendment: Ss. 110A, 110B inserted (1.10.2011 for E.W., 1.11.2011 for S.) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 143(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/143/3), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2); [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1597/article/3), S.S.I. 2011/291, art. 2
+[^c-899a6462055dc8d3e08885bec4b8663d]: Textual amendment: Ss. 110A, 110B inserted (1.10.2011 for E.W., 1.11.2011 for S.) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 143(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/143/3), [148(8)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/8), [149](https://www.legislation.gov.uk/ukpga/2009/20/section/149) (with [s. 149(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/149/4)); [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2); [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1597/article/3), S.S.I. 2011/291, art. 2
 
-[^key-27cfbad8be3eef0931747447e4151b93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/2) excluded (E.W.) (5.5.2023) by [The Construction Contracts (Exclusion) (Wales) Order 2023 (S.I. 2023/475)](https://www.legislation.gov.uk/uksi/2023/475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/475/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/475/article/3)
+[^c-27cfbad8be3eef0931747447e4151b93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/2) excluded (E.W.) (5.5.2023) by [The Construction Contracts (Exclusion) (Wales) Order 2023 (S.I. 2023/475)](https://www.legislation.gov.uk/uksi/2023/475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/475/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/475/article/3)

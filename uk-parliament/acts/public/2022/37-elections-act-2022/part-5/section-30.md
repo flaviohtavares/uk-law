@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Disqualification orders[^key-918894739ffd45f86b4cdda82b584ce1][^key-5ae616acb8b7866a5ef1cd4f6aa007de]
+## 30. Disqualification orders[^c-918894739ffd45f86b4cdda82b584ce1][^c-5ae616acb8b7866a5ef1cd4f6aa007de]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) Subsection (2) does not apply where the court considers that there are particular circumstances relating to the offence or to the offender which would make it unjust in all the circumstances to make the order; and in such a case the court must state in open court the reasons for not making the order.
 
-(3A)[^key-58720ecb9d3626968045e4b8fcfadc29] Where the court is a Scottish court, it must—
+(3A)[^c-58720ecb9d3626968045e4b8fcfadc29] Where the court is a Scottish court, it must—
 
 - (a) take the aggravation under subsection (1)(c) into account when determining the appropriate sentence, and
 - (b) state—
@@ -62,14 +62,14 @@ it is to be taken for the purposes of subsection (1)(b) to have been committed o
 
 - “**presumed**” means presumed by the offender;
 - “**Schedule 9 offence**” means an offence listed in Schedule 9 (and any reference in that Schedule to an offence includes a reference to that offence committed by aiding, abetting, counselling or procuring the commission of that offence).
-- “[^key-947e91cf4bbafe361febe5ec3ba91443]**Scottish court**” means a court with jurisdiction over Scottish criminal law offences.
+- “[^c-947e91cf4bbafe361febe5ec3ba91443]**Scottish court**” means a court with jurisdiction over Scottish criminal law offences.
 
 ## Annotations
 
-[^key-918894739ffd45f86b4cdda82b584ce1]: Commencement: S. 30 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-918894739ffd45f86b4cdda82b584ce1]: Commencement: S. 30 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-5ae616acb8b7866a5ef1cd4f6aa007de]: Commencement: S. 30 in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e) (with [Sch. paras. 9(1)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/1)[(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/4))
+[^c-5ae616acb8b7866a5ef1cd4f6aa007de]: Commencement: S. 30 in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e) (with [Sch. paras. 9(1)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/1)[(4)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/9/4))
 
-[^key-58720ecb9d3626968045e4b8fcfadc29]: Textual amendment: [S. 30(3A)](https://www.legislation.gov.uk/ukpga/2022/37/section/30/3A) inserted (S.) (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 17(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/17/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-58720ecb9d3626968045e4b8fcfadc29]: Textual amendment: [S. 30(3A)](https://www.legislation.gov.uk/ukpga/2022/37/section/30/3A) inserted (S.) (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 17(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/17/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
 
-[^key-947e91cf4bbafe361febe5ec3ba91443]: Textual amendment: Words in [s. 30(9)](https://www.legislation.gov.uk/ukpga/2022/37/section/30/9) inserted (S.) (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 17(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/17/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-947e91cf4bbafe361febe5ec3ba91443]: Textual amendment: Words in [s. 30(9)](https://www.legislation.gov.uk/ukpga/2022/37/section/30/9) inserted (S.) (1.8.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 17(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/17/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

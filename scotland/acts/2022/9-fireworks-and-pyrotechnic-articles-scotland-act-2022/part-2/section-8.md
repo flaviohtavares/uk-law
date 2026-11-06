@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Fireworks training course[^key-aa3e269ff07dc4c4532629b440c9f31d]
+## 8. Fireworks training course[^c-aa3e269ff07dc4c4532629b440c9f31d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa3e269ff07dc4c4532629b440c9f31d]: Commencement: S. 8 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-aa3e269ff07dc4c4532629b440c9f31d]: Commencement: S. 8 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342. False information[^key-77837424930eba57b32f4ee976cddc9d][^key-ea15f72b42679a79a456e8b9a75656ca]
+## 342. False information[^c-77837424930eba57b32f4ee976cddc9d][^c-ea15f72b42679a79a456e8b9a75656ca]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77837424930eba57b32f4ee976cddc9d]: Commencement: [S. 342](https://www.legislation.gov.uk/ukpga/2005/19/section/342) in force at 1.1.2007 for specified purposes by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-77837424930eba57b32f4ee976cddc9d]: Commencement: [S. 342](https://www.legislation.gov.uk/ukpga/2005/19/section/342) in force at 1.1.2007 for specified purposes by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3272/schedule/1) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-ea15f72b42679a79a456e8b9a75656ca]: Commencement: [S. 342](https://www.legislation.gov.uk/ukpga/2005/19/section/342) in force at 21.5.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/1157, arts. 3(3), 4)
+[^c-ea15f72b42679a79a456e8b9a75656ca]: Commencement: [S. 342](https://www.legislation.gov.uk/ukpga/2005/19/section/342) in force at 21.5.2007 in so far as not already in force by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/1157, arts. 3(3), 4)

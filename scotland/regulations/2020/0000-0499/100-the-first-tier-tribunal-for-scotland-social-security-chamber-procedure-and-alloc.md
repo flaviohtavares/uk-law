@@ -46,15 +46,15 @@ In accordance with section 11(1)(b) and paragraph 4(3) of schedule 9 of that Act
 
 In accordance with section 79(2)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament [^c24044351].
 
-## 1. Citation and commencement[^key-011f4f537be416db9639013b6aeab696]
+## 1. Citation and commencement[^c-011f4f537be416db9639013b6aeab696]
 
 These Regulations may be cited as the First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 and come into force on the day after the day on which they are made.
 
-## 2. Amendment of the First-tier Tribunal for Scotland (Allocation of Functions to the Social Security Chamber) Regulations 2018[^key-fe6446611db1e47996ab40a40644d9ca]
+## 2. Amendment of the First-tier Tribunal for Scotland (Allocation of Functions to the Social Security Chamber) Regulations 2018[^c-fe6446611db1e47996ab40a40644d9ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the First-tier Tribunal for Scotland Social Security Chamber (Procedure) Regulations 2018[^key-c5f4772b657e8a498cd556035019f79b]
+## 3. Amendment of the First-tier Tribunal for Scotland Social Security Chamber (Procedure) Regulations 2018[^c-c5f4772b657e8a498cd556035019f79b]
 
 (1) The rules in the schedule of the First-tier Tribunal for Scotland Social Security Chamber (Procedure) Regulations 2018 [^c24044371] are amended as follows.
 
@@ -130,11 +130,11 @@ Regulation 3(8) amends the duty to treat a request for a review as also being an
 
 [^c24044351]: Marginal citation: The powers to make these Regulations are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-011f4f537be416db9639013b6aeab696]: Commencement: Reg. 1 in force at 26.3.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1)
+[^c-011f4f537be416db9639013b6aeab696]: Commencement: Reg. 1 in force at 26.3.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1)
 
-[^key-fe6446611db1e47996ab40a40644d9ca]: Textual amendment: Reg. 2 omitted (18.3.2021) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Allocation of Functions) Amendment Regulations 2021 (S.S.I. 2021/149)](https://www.legislation.gov.uk/ssi/2021/149), [regs. 1](https://www.legislation.gov.uk/ssi/2021/149/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/149/regulation/3/2)
+[^c-fe6446611db1e47996ab40a40644d9ca]: Textual amendment: Reg. 2 omitted (18.3.2021) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Allocation of Functions) Amendment Regulations 2021 (S.S.I. 2021/149)](https://www.legislation.gov.uk/ssi/2021/149), [regs. 1](https://www.legislation.gov.uk/ssi/2021/149/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2021/149/regulation/3/2)
 
-[^key-c5f4772b657e8a498cd556035019f79b]: Commencement: Reg. 3 in force at 26.3.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1)
+[^c-c5f4772b657e8a498cd556035019f79b]: Commencement: Reg. 3 in force at 26.3.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1)
 
 [^c24044371]: Marginal citation: [S.S.I. 2018/273](https://www.legislation.gov.uk/ssi/2018/273), which was amended by [S.S.I. 2018/343](https://www.legislation.gov.uk/ssi/2018/343).
 

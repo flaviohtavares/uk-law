@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12.2. Applications for permission to appeal[^key-c52f648b072691c65d0f0f0d527ec6a6]
+## 12.2. Applications for permission to appeal[^c-c52f648b072691c65d0f0f0d527ec6a6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c52f648b072691c65d0f0f0d527ec6a6]: Commencement: Para. 12.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c52f648b072691c65d0f0f0d527ec6a6]: Commencement: Para. 12.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -24,9 +24,9 @@ Section 85
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-5d646d5a92d3919c70926221e2dcb340] The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-5d646d5a92d3919c70926221e2dcb340] The Town and Country Planning Act 1990 is amended as follows.
 
-**2.**[^key-01bf9d9b003aa3ef6c5f099a45e3899a] (1) Section 83 (making of simplified planning zone schemes) is amended as follows.
+**2.**[^c-01bf9d9b003aa3ef6c5f099a45e3899a] (1) Section 83 (making of simplified planning zone schemes) is amended as follows.
 
 (2) In subsections (1A), (2B) and (4) (as inserted by section 42 of the Planning and Compulsory Purchase Act 2004 (c. 5)) for “regional spatial strategy” substitute “ regional strategy ”.
 
@@ -36,7 +36,7 @@ Section 85
 
 .
 
-**3.**[^key-575cc22f394da1762a5aed253e9e432b] (1) In Schedule 1 (local planning authorities: distribution of functions), paragraph 7 (as substituted by Schedule 6 to the Planning and Compulsory Purchase Act 2004) is amended as follows.
+**3.**[^c-575cc22f394da1762a5aed253e9e432b] (1) In Schedule 1 (local planning authorities: distribution of functions), paragraph 7 (as substituted by Schedule 6 to the Planning and Compulsory Purchase Act 2004) is amended as follows.
 
 (2) In sub-paragraph (2)(a), for “the RPB” substitute “ the responsible regional authorities ”.
 
@@ -58,35 +58,35 @@ Section 85
 
 > (11) In this paragraph “**responsible regional authorities**”, in relation to a regional strategy, has the same meaning as in Part 5 of the Local Democracy, Economic Development and Construction Act 2009.
 
-**4.**[^key-fd97f1c118d1311b45999ca0363f38e8] In Schedule 7 (simplified planning zones), in paragraph 12(1A)(a) (as substituted by section 49(6) of the Planning and Compulsory Purchase Act 2004) for “regional spatial strategy” substitute “ regional strategy under Part 5 of the Local Democracy, Economic Development and Construction Act 2009 ”.
+**4.**[^c-fd97f1c118d1311b45999ca0363f38e8] In Schedule 7 (simplified planning zones), in paragraph 12(1A)(a) (as substituted by section 49(6) of the Planning and Compulsory Purchase Act 2004) for “regional spatial strategy” substitute “ regional strategy under Part 5 of the Local Democracy, Economic Development and Construction Act 2009 ”.
 
 ### Regional Development Agencies Act 1998 (c. 45)
 
-**5.**[^key-6e05fc04cbcfbdcf071572310cba65bf] The Regional Development Agencies Act 1998 is amended as follows.
+**5.**[^c-6e05fc04cbcfbdcf071572310cba65bf] The Regional Development Agencies Act 1998 is amended as follows.
 
-**6.**[^key-46a75a51e7cb7125a2e29d6528858bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-46a75a51e7cb7125a2e29d6528858bba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f78441c3ca8bb6680cf41b3d49ff977a] Omit section 8 (regional consultation).
+**7.**[^c-f78441c3ca8bb6680cf41b3d49ff977a] Omit section 8 (regional consultation).
 
-**8.**[^key-0ec0f097851f7d8a062ff4fff8f9a37c] In section 18 (regional accountability), omit subsections (1) and (1A).
+**8.**[^c-0ec0f097851f7d8a062ff4fff8f9a37c] In section 18 (regional accountability), omit subsections (1) and (1A).
 
 ### Greater London Authority Act 1999 (c. 29)
 
-**9.**[^key-8f51fad2eb2853a0985ea6b5e0349d55] The Greater London Authority Act 1999 is amended as follows.
+**9.**[^c-8f51fad2eb2853a0985ea6b5e0349d55] The Greater London Authority Act 1999 is amended as follows.
 
-**10.**[^key-94f092e3d249c90c855af4eeca815b37] In section 342 (matters to which Mayor to have regard), in subsection (1)(a) (as substituted by Schedule 7 to the Planning and Compulsory Purchase Act 2004 (c. 5)), for “regional spatial strategy” substitute “ regional strategy under Part 5 of the Local Democracy, Economic Development and Construction Act 2009 ”.
+**10.**[^c-94f092e3d249c90c855af4eeca815b37] In section 342 (matters to which Mayor to have regard), in subsection (1)(a) (as substituted by Schedule 7 to the Planning and Compulsory Purchase Act 2004 (c. 5)), for “regional spatial strategy” substitute “ regional strategy under Part 5 of the Local Democracy, Economic Development and Construction Act 2009 ”.
 
-**11.**[^key-a84ba2fcca214a24434e42d9817c64ab] In Schedule 10 (Transport for London), in paragraph 2(3A), for “regional planning body”, substitute “ responsible regional authorities (within the meaning of Part 5 of the Local Democracy, Economic Development and Construction Act 2009) ”.
+**11.**[^c-a84ba2fcca214a24434e42d9817c64ab] In Schedule 10 (Transport for London), in paragraph 2(3A), for “regional planning body”, substitute “ responsible regional authorities (within the meaning of Part 5 of the Local Democracy, Economic Development and Construction Act 2009) ”.
 
 ### Planning and Compulsory Purchase Act 2004 (c. 5)
 
-**12.**[^key-13b40334a9a8bacbdedcf8548a2eb1a6] The Planning and Compulsory Purchase Act 2004 is amended as follows.
+**12.**[^c-13b40334a9a8bacbdedcf8548a2eb1a6] The Planning and Compulsory Purchase Act 2004 is amended as follows.
 
-**13.**[^key-762b024ff9ab25e65513549d6d77532f] Omit sections 1 to 12 (regional functions).
+**13.**[^c-762b024ff9ab25e65513549d6d77532f] Omit sections 1 to 12 (regional functions).
 
-**14.**[^key-62c3be59e952a88feb7a2d538b04f607] In section 19 (preparation of local development documents), in subsections (2)(b) and (d), for “the RSS” substitute “ the regional strategy ”.
+**14.**[^c-62c3be59e952a88feb7a2d538b04f607] In section 19 (preparation of local development documents), in subsections (2)(b) and (d), for “the RSS” substitute “ the regional strategy ”.
 
-**15.**[^key-f04daa49022c0a508188547fd47bad8b] (1) Section 24 (conformity with regional strategy) is amended as follows.
+**15.**[^c-f04daa49022c0a508188547fd47bad8b] (1) Section 24 (conformity with regional strategy) is amended as follows.
 
 (2) In subsection (1)(a), for “the RSS” substitute “ the regional strategy ”.
 
@@ -96,15 +96,15 @@ Section 85
 
 (5) Omit subsections (6), (8) and (9).
 
-**16.**[^key-5f1a22027f5a0981c797f9e10735963f] In section 28 (joint local development documents), in subsection (4), for “the RSS”, in both places, substitute “ regional strategy ”.
+**16.**[^c-5f1a22027f5a0981c797f9e10735963f] In section 28 (joint local development documents), in subsection (4), for “the RSS”, in both places, substitute “ regional strategy ”.
 
-**17.**[^key-c752a7c1041aa9903e8f329f02975b32] In section 37 (interpretation), for subsection (6) substitute—
+**17.**[^c-c752a7c1041aa9903e8f329f02975b32] In section 37 (interpretation), for subsection (6) substitute—
 
 > (6) Regional strategy” means a regional strategy under Part 5 of the Local Democracy, Economic Development and Construction Act 2009.
 >
 > (6A) “**Responsible regional authorities**” is to be construed in accordance with Part 5 of the Local Democracy, Economic Development and Construction Act 2009.
 
-**18.**[^key-a3fc9e8f50625716b2fd72dbbef20e45] (1) Section 39 (sustainable development) is amended as follows.
+**18.**[^c-a3fc9e8f50625716b2fd72dbbef20e45] (1) Section 39 (sustainable development) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -114,7 +114,7 @@ Section 85
 
 (3) In subsection (3), for “subsection (1)(a) and (b)” substitute “ subsection (1)(b) ”.
 
-**19.**[^key-e267d6bb9bf95929e69904f4a061eb8d] (1) Section 113 (validity of strategies etc) is amended as follows.
+**19.**[^c-e267d6bb9bf95929e69904f4a061eb8d] (1) Section 113 (validity of strategies etc) is amended as follows.
 
 (2) In subsection (1)(a), for “the regional spatial strategy” substitute “ the regional strategy ”.
 
@@ -136,40 +136,40 @@ Section 85
 
 ## Annotations
 
-[^key-5d646d5a92d3919c70926221e2dcb340]: Commencement: Sch. 5 para. 1 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-5d646d5a92d3919c70926221e2dcb340]: Commencement: Sch. 5 para. 1 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-01bf9d9b003aa3ef6c5f099a45e3899a]: Commencement: Sch. 5 para. 2 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-01bf9d9b003aa3ef6c5f099a45e3899a]: Commencement: Sch. 5 para. 2 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-575cc22f394da1762a5aed253e9e432b]: Commencement: Sch. 5 para. 3 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-575cc22f394da1762a5aed253e9e432b]: Commencement: Sch. 5 para. 3 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-fd97f1c118d1311b45999ca0363f38e8]: Commencement: Sch. 5 para. 4 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-fd97f1c118d1311b45999ca0363f38e8]: Commencement: Sch. 5 para. 4 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-6e05fc04cbcfbdcf071572310cba65bf]: Commencement: Sch. 5 para. 5 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-6e05fc04cbcfbdcf071572310cba65bf]: Commencement: Sch. 5 para. 5 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-46a75a51e7cb7125a2e29d6528858bba]: Textual amendment: Sch. 5 para. 6 repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-46a75a51e7cb7125a2e29d6528858bba]: Textual amendment: Sch. 5 para. 6 repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-f78441c3ca8bb6680cf41b3d49ff977a]: Commencement: Sch. 5 para. 7 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-f78441c3ca8bb6680cf41b3d49ff977a]: Commencement: Sch. 5 para. 7 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-0ec0f097851f7d8a062ff4fff8f9a37c]: Commencement: Sch. 5 para. 8 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-0ec0f097851f7d8a062ff4fff8f9a37c]: Commencement: Sch. 5 para. 8 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-8f51fad2eb2853a0985ea6b5e0349d55]: Commencement: Sch. 5 para. 9 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-8f51fad2eb2853a0985ea6b5e0349d55]: Commencement: Sch. 5 para. 9 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-94f092e3d249c90c855af4eeca815b37]: Commencement: Sch. 5 para. 10 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-94f092e3d249c90c855af4eeca815b37]: Commencement: Sch. 5 para. 10 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-a84ba2fcca214a24434e42d9817c64ab]: Commencement: Sch. 5 para. 11 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-a84ba2fcca214a24434e42d9817c64ab]: Commencement: Sch. 5 para. 11 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-13b40334a9a8bacbdedcf8548a2eb1a6]: Commencement: Sch. 5 para. 12 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-13b40334a9a8bacbdedcf8548a2eb1a6]: Commencement: Sch. 5 para. 12 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-762b024ff9ab25e65513549d6d77532f]: Commencement: Sch. 5 para. 13 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-762b024ff9ab25e65513549d6d77532f]: Commencement: Sch. 5 para. 13 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-62c3be59e952a88feb7a2d538b04f607]: Commencement: Sch. 5 para. 14 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-62c3be59e952a88feb7a2d538b04f607]: Commencement: Sch. 5 para. 14 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-f04daa49022c0a508188547fd47bad8b]: Commencement: Sch. 5 para. 15 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-f04daa49022c0a508188547fd47bad8b]: Commencement: Sch. 5 para. 15 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-5f1a22027f5a0981c797f9e10735963f]: Commencement: Sch. 5 para. 16 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-5f1a22027f5a0981c797f9e10735963f]: Commencement: Sch. 5 para. 16 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-c752a7c1041aa9903e8f329f02975b32]: Commencement: Sch. 5 para. 17 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-c752a7c1041aa9903e8f329f02975b32]: Commencement: Sch. 5 para. 17 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-a3fc9e8f50625716b2fd72dbbef20e45]: Commencement: Sch. 5 para. 18 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-a3fc9e8f50625716b2fd72dbbef20e45]: Commencement: Sch. 5 para. 18 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-e267d6bb9bf95929e69904f4a061eb8d]: Commencement: Sch. 5 para. 19 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-e267d6bb9bf95929e69904f4a061eb8d]: Commencement: Sch. 5 para. 19 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)

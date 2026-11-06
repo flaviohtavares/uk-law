@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Grant of immunity: prohibition of criminal enforcement action[^key-e9472370e153b721548bdaa89f1e1dea]
+## 39. Grant of immunity: prohibition of criminal enforcement action[^c-e9472370e153b721548bdaa89f1e1dea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9472370e153b721548bdaa89f1e1dea]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/41/section/39) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-e9472370e153b721548bdaa89f1e1dea]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/41/section/39) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

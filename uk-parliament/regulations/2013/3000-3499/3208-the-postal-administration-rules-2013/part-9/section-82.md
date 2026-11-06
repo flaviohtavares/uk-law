@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Moving from postal administration to dissolution[^key-eea745ee86d31583b94cdcd1463ffe6f]
+## 82. Moving from postal administration to dissolution[^c-eea745ee86d31583b94cdcd1463ffe6f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eea745ee86d31583b94cdcd1463ffe6f]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2013/3208/rule/82) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-eea745ee86d31583b94cdcd1463ffe6f]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2013/3208/rule/82) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

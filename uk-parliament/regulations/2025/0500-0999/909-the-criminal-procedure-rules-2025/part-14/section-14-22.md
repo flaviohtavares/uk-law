@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.22. Appeal against custody time limit decision[^key-e1e520bd0de371023ec2a3cc83b8ab3f]
+## 14.22. Appeal against custody time limit decision[^c-e1e520bd0de371023ec2a3cc83b8ab3f]
 
 *Extent: E+W*
 
@@ -137,7 +137,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e1e520bd0de371023ec2a3cc83b8ab3f]: Commencement: [Rule 14.22](https://www.legislation.gov.uk/uksi/2025/909/rule/14.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e1e520bd0de371023ec2a3cc83b8ab3f]: Commencement: [Rule 14.22](https://www.legislation.gov.uk/uksi/2025/909/rule/14.22) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00390]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 22(7) and (8) was amended by section 43 of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37).
 

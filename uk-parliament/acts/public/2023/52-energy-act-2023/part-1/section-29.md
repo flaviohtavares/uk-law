@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Power to require information for purposes of monitoring[^key-b4a8931c1f9db375fbabf977e4b1d4ec]
+## 29. Power to require information for purposes of monitoring[^c-b4a8931c1f9db375fbabf977e4b1d4ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4a8931c1f9db375fbabf977e4b1d4ec]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/52/section/29) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-b4a8931c1f9db375fbabf977e4b1d4ec]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/52/section/29) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

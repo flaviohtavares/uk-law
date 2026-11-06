@@ -86,7 +86,7 @@ Section 72.
 
   .
 
-**12.**[^key-ef6eaacbe9c4208b2f5d944f4c7186a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ef6eaacbe9c4208b2f5d944f4c7186a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** In section 128 (recovery of possession of house to which Rent (Scotland) Act 1984 applies) after “1984” there shall be inserted the words “ or in Part II of the Housing (Scotland) Act 1988 ”.
 
@@ -137,6 +137,6 @@ Section 72.
 
 [^c10517601]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/1988/43/schedule/9/paragraph/10) repealed (S.) (30.9.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [ss. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [113(1)](https://www.legislation.gov.uk/asp/2001/10/section/113/1), [Sch. 10 para. 14(15)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/15); [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2(2)](https://www.legislation.gov.uk/ssi/2002/321/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/321/schedule) Table (subject to transitional provisions in arts. 3-5)
 
-[^key-ef6eaacbe9c4208b2f5d944f4c7186a0]: Textual amendment: Sch. 9 para. 12 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-ef6eaacbe9c4208b2f5d944f4c7186a0]: Textual amendment: Sch. 9 para. 12 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c10517611]: Textual amendment: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/1988/43/schedule/9/paragraph/21) repealed (30.9.2002) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 14(15)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/15); [S.I. 2002/321](https://www.legislation.gov.uk/uksi/2002/321), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2002/321/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/321/schedule) Table (subject to transitional provisions in arts. 3-5)

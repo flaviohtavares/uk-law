@@ -82,10 +82,10 @@ Section 1
 - (c) he is a member, co-opted member, officer or member of staff of a listed authority;
 - (d) he is disqualified from being a member of the Assembly (other than by virtue of paragraph 6 of this Schedule or section 16(1)(d) of the Government of Wales Act 2006[^c20338631]);
 - (e) he is disqualified from being a member of a local authority in Wales (other than by virtue of paragraph 6 of this Schedule).
-- (f)[^key-cf38da2281db4b8abd78523271267cc1] he is a care home provider, domiciliary care provider or independent palliative care provider;
+- (f)[^c-cf38da2281db4b8abd78523271267cc1] he is a care home provider, domiciliary care provider or independent palliative care provider;
 - (g) he is an officer or member of staff of a provider of that kind.
 
-(1A)[^key-833988017de1731a82182e19142a1876] For the purposes of sub-paragraph (1)(g) a person is an officer of a provider if he or she has control or management of a provider which is not an individual or the affairs of such a provider.
+(1A)[^c-833988017de1731a82182e19142a1876] For the purposes of sub-paragraph (1)(g) a person is an officer of a provider if he or she has control or management of a provider which is not an individual or the affairs of such a provider.
 
 (2) The appointment of a person as the Ombudsman or an acting Ombudsman is not valid if the person is disqualified under sub-paragraph (1).
 
@@ -217,7 +217,7 @@ as may have been provided for by or under the terms of his appointment.
 
 (7) If a report prepared under this paragraph—
 
-- (a) mentions the name of any person other than a listed authority , care home provider, domiciliary care provider or independent palliative care provider[^key-ed6c7907f6ca64bb98a3183430556045] in respect of which a complaint has been made or referred under this Act, or
+- (a) mentions the name of any person other than a listed authority , care home provider, domiciliary care provider or independent palliative care provider[^c-ed6c7907f6ca64bb98a3183430556045] in respect of which a complaint has been made or referred under this Act, or
 - (b) includes any particulars which, in the opinion of the Ombudsman, are likely to identify any such person and which, in his opinion, can be omitted without impairing the effectiveness of the report,
 
 that information must not be included in a version of the report laid before the Assembly under sub-paragraph (3), sent to a person under sub-paragraph (3) or (4) or published by the Ombudsman under sub-paragraph (5), subject to sub-paragraph (8).
@@ -303,7 +303,7 @@ that information must not be included in a version of the report laid before the
 
 ### Examinations by the Comptroller and Auditor General
 
-**20.**[^key-131ee8e5f63a495226a34cedbae05438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-131ee8e5f63a495226a34cedbae05438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Supplementary powers
 
@@ -331,9 +331,9 @@ that information must not be included in a version of the report laid before the
 
 [^c20338631]: Textual amendment: Words in Sch. 1 para. 5(1)(d) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 86(5)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/86/5) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-cf38da2281db4b8abd78523271267cc1]: Textual amendment: Sch. 1 para. 5(1)(f)(g) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 30(2)(a)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/30/2/a); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-cf38da2281db4b8abd78523271267cc1]: Textual amendment: Sch. 1 para. 5(1)(f)(g) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 30(2)(a)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/30/2/a); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-833988017de1731a82182e19142a1876]: Textual amendment: Sch. 1 para. 5(1A) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 30(2)(b)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/30/2/b); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-833988017de1731a82182e19142a1876]: Textual amendment: Sch. 1 para. 5(1A) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 30(2)(b)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/30/2/b); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
 [^c20336001]: Commencement: Sch. 1 para. 6 wholly in force at 1.4.2006; Sch. 1 para. 6 not in force at Royal Assent see s. 40; Sch. 1 para. 6 in force for certain purposes at 12.10.2005 and wholly in force at 1.4.2006 by [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [arts. 3(a)](https://www.legislation.gov.uk/uksi/2005/2800/article/3/a), [5(1)(3)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2005/2800/schedule/1/part/1)
 
@@ -361,7 +361,7 @@ that information must not be included in a version of the report laid before the
 
 [^c20338871]: Textual amendment: Words in Sch. 1 para. 14(3) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 86(11)(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/86/11/b) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-ed6c7907f6ca64bb98a3183430556045]: Textual amendment: Words in Sch. 1 para. 14(7)(a) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 30(3)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/30/3); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-ed6c7907f6ca64bb98a3183430556045]: Textual amendment: Words in Sch. 1 para. 14(7)(a) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 30(3)](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/30/3); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
 [^c20336391]: Commencement: Sch. 1 para. 15 partly in force; Sch. 1 para. 15 not in force at Royal Assent see s. 40; Sch. 1 para. 15(1)-(4) in force at 1.4.2006 by [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)(3)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1/3)
 
@@ -381,4 +381,4 @@ that information must not be included in a version of the report laid before the
 
 [^c20339171]: Textual amendment: Words in Sch. 1 para. 18(6)(a) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 86(13)(b)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/86/13/b) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-131ee8e5f63a495226a34cedbae05438]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2005/10/schedule/1/paragraph/20) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/63) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-131ee8e5f63a495226a34cedbae05438]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2005/10/schedule/1/paragraph/20) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/63) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

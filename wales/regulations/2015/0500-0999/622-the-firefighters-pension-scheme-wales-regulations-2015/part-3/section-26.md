@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Pensionable pay[^key-e826b3e8559ab2f8019ce3a8d49c4e23]
+## 26. Pensionable pay[^c-e826b3e8559ab2f8019ce3a8d49c4e23]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e826b3e8559ab2f8019ce3a8d49c4e23]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e826b3e8559ab2f8019ce3a8d49c4e23]: Commencement: Reg. 26 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

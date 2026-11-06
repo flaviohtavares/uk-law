@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Establishment of Firefighters’ Pension Fund[^key-0ef0a3d6349f311e3f165b3c4491af50]
+## 131. Establishment of Firefighters’ Pension Fund[^c-0ef0a3d6349f311e3f165b3c4491af50]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Firefighters’ Pension Fund established and maintained by the scheme manage
 
 ## Annotations
 
-[^key-0ef0a3d6349f311e3f165b3c4491af50]: Commencement: Reg. 131 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0ef0a3d6349f311e3f165b3c4491af50]: Commencement: Reg. 131 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

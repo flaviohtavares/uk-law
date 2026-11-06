@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendments of the Armed Forces Pension Scheme 2005[^key-60ab298cb7a4cfc9937ef69259cdf960]
+## 3. Amendments of the Armed Forces Pension Scheme 2005[^c-60ab298cb7a4cfc9937ef69259cdf960]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60ab298cb7a4cfc9937ef69259cdf960]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2005/438/article/3) in force at 6.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/438/article/1)
+[^c-60ab298cb7a4cfc9937ef69259cdf960]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2005/438/article/3) in force at 6.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/438/article/1)
 
 [^f00004]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). The definition of “pension credit rights” in subsection (1) of section 124 and subsection (2A) of that section were inserted by paragraph 61 of Schedule 12 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).

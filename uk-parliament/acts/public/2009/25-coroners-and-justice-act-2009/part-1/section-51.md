@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Public funding for advocacy at certain inquests[^key-1d1a8d0ba23dbeeab54c17b7335b4f29]
+## 51. Public funding for advocacy at certain inquests[^c-1d1a8d0ba23dbeeab54c17b7335b4f29]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d1a8d0ba23dbeeab54c17b7335b4f29]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2009/25/section/51) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-1d1a8d0ba23dbeeab54c17b7335b4f29]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2009/25/section/51) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32A. Interaction with the Renewable Transport Fuel Obligation[^key-62f86bac52a33910fba657deeebf1f91]
+## 32A. Interaction with the Renewable Transport Fuel Obligation[^c-62f86bac52a33910fba657deeebf1f91]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62f86bac52a33910fba657deeebf1f91]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2018/611/regulation/32A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [14](https://www.legislation.gov.uk/uksi/2021/76/regulation/14)
+[^c-62f86bac52a33910fba657deeebf1f91]: Textual amendment: [Reg. 32A](https://www.legislation.gov.uk/uksi/2018/611/regulation/32A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [14](https://www.legislation.gov.uk/uksi/2021/76/regulation/14)

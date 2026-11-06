@@ -49,7 +49,7 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984, the Welsh Mi
 
 ## PART 1 — Preliminary
 
-### 1. Title, application and coming into force[^key-d56b9195a1d2c3133a0971c5c8ff57e1]
+### 1. Title, application and coming into force[^c-d56b9195a1d2c3133a0971c5c8ff57e1]
 
 (1) The title of these Regulations is the Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025.
 
@@ -57,7 +57,7 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984, the Welsh Mi
 
 (3) These Regulations come into force on 1 July 2026.
 
-### 2. Interpretation[^key-3e271dca7c590d0315b927fc4205209e]
+### 2. Interpretation[^c-3e271dca7c590d0315b927fc4205209e]
 
 (1) In these Regulations—
 
@@ -71,7 +71,7 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984, the Welsh Mi
     - (i) in relation to a major change, the plan or document that was approved under regulation 24(7) or (9);
     - (ii) in relation to a notifiable change, the version of the plan or document that accompanied the notice to the building control authority given under regulation 20(1);
     - (iii) in relation to a recordable change, the version of the plan or document that was revised under regulation 18(2)(b) and in respect of which a record was made under regulation 18(2)(a);
-- “**applicant**” (“***ceisydd***”) except in Part 6 of these Regulations (see regulations 46(2) and 50(1))[^key-419d2469d83c531eee98216c5ade5faa] means the client or the client together with the person making the application;
+- “**applicant**” (“***ceisydd***”) except in Part 6 of these Regulations (see regulations 46(2) and 50(1))[^c-419d2469d83c531eee98216c5ade5faa] means the client or the client together with the person making the application;
 - “**building control approval**” (“***cymeradwyaeth rheolaeth adeiladu***”) has the meaning given in paragraph 1B(2) of Schedule 1 to the 1984 Act;
 - “**building control approval application for HRB work**” (“***cais am gymeradwyaeth rheolaeth adeiladu ar gyfer gwaith ARU***”) has the meaning given in regulation 3(a);
 - “**building control approval application for work to existing HRB**” (“***cais am gymeradwyaeth rheolaeth adeiladu ar gyfer gwaith i ARU presennol***”) has the meaning given in regulation 11(1)(a);
@@ -91,12 +91,12 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984, the Welsh Mi
 - “**compliance explanation**” (“***eglurhad cydymffurfedd***”) has the meaning given in regulation 19(2)(g);
 - “**construction control plan**” (“***cynllun rheolaeth adeiladu***”) means a document in accordance with paragraph 2 of Schedule 1;
 - “**controlled change**” (“***newid a reolaethir***”) has the meaning given in regulation 18(1);
-- “[^key-8ec699398c92fb43098c5a1c71ff0e34]**electronic facility**” ("***cyfleuster electronig***") has the meaning given in regulation 31(13);
+- “[^c-8ec699398c92fb43098c5a1c71ff0e34]**electronic facility**” ("***cyfleuster electronig***") has the meaning given in regulation 31(13);
 - “**enforcing authority**” (“***awdurdod gorfodi***”) has the meaning given by article 25 of the Regulatory Reform (Fire Safety) Order 2005[^f00006];
 - “**exempt work**” (“***gwaith esempt***”) has the meaning given in regulation 56;
 - “**fire and emergency file**” (“***ffeil tân ac argyfwng***”) means a document in accordance with paragraph 5 of Schedule 1;
 - “**fire safety compliance information**” (“***gwybodaeth am gydymffurfedd o ran diogelwch tân***”) has the meaning given in regulation 12(3)(d);
-- “[^key-16a483a6c5fee3e836507fe2f9efafa1]**fire safety information**” (“***gwybodaeth am ddiogelwch tân***”) means information relating to the following—
+- “[^c-16a483a6c5fee3e836507fe2f9efafa1]**fire safety information**” (“***gwybodaeth am ddiogelwch tân***”) means information relating to the following—
   - (a) the design and construction of the building and the services, fittings and equipment provided in or in connection with the building;
   - (b) the design of the material change of use and building work to implement it;
   - (c) the composition of materials used;
@@ -139,7 +139,7 @@ In accordance with section 14(7)[^f00002] of the Building Act 1984, the Welsh Mi
 
 ### CHAPTER 1 — New HRBs
 
-#### 3. Building control approval for HRB work or stage of HRB work[^key-9ec583c2df49af76dc85f21e8f3a6013]
+#### 3. Building control approval for HRB work or stage of HRB work[^c-9ec583c2df49af76dc85f21e8f3a6013]
 
 Before any person starts HRB work or starts a stage of HRB work, the client in relation to that work must—
 
@@ -148,7 +148,7 @@ Before any person starts HRB work or starts a stage of HRB work, the client in r
 - (c) fulfil those requirements, if any, which under the building control approval must be fulfilled before the work or, the stage of the work is started, and
 - (d) notify the building control authority of the date on which the work or the stage of the work is to start under regulation 9(2) (notice before starting on site and further notice when work is “commenced”).
 
-#### 4. Building control approval applications for HRB work or stage of HRB work[^key-10555b3e69d541a714437bb64b61f0cf]
+#### 4. Building control approval applications for HRB work or stage of HRB work[^c-10555b3e69d541a714437bb64b61f0cf]
 
 (1) A building control approval application for HRB work must be made in writing, signed by the applicant, and must include—
 
@@ -200,7 +200,7 @@ Before any person starts HRB work or starts a stage of HRB work, the client in r
     - (aa) the plans referred to in paragraph (2)(b) are to be those plans as are necessary to show that the work comprised in the stage to which the application relates would comply with all applicable requirements of the building regulations and a summary of plans for the work beyond that stage;
     - (bb) the Building Regulations compliance statement must set out the design principles and building standards to be applied to the work comprised in the stage to which the application relates and a summary of the design principles and building standards to be applied beyond that stage.
 
-#### 5. Building control approval applications for HRB work or stage of HRB work: time limit[^key-67bbe445865b9a7611ce5076634fc3b4]
+#### 5. Building control approval applications for HRB work or stage of HRB work: time limit[^c-67bbe445865b9a7611ce5076634fc3b4]
 
 (1) Where the building control authority receives a building control approval application for HRB work or a building control approval application for a stage of HRB work which is valid, the building control authority must determine it—
 
@@ -209,7 +209,7 @@ Before any person starts HRB work or starts a stage of HRB work, the client in r
 
 (2) A building control approval application for HRB work or a building control application for a stage of HRB work is valid if it complies with the requirements of regulation 4.
 
-#### 6. Building control approval applications for HRB work or stage of HRB work: consultation[^key-156e6e2ed13a6e78d6f360a616cc7369]
+#### 6. Building control approval applications for HRB work or stage of HRB work: consultation[^c-156e6e2ed13a6e78d6f360a616cc7369]
 
 (1) Before determining a building control approval application for HRB work or a building control approval application for a stage of HRB work, the building control authority must consult—
 
@@ -229,7 +229,7 @@ Before any person starts HRB work or starts a stage of HRB work, the client in r
 
 (5) The building control authority is not required to consult under this regulation where it is satisfied following consideration of the application there are sufficient grounds to reject the application.
 
-#### 7. Building control approval applications for HRB work or stage of HRB work: decisions[^key-c42fd482db80f2761fb97431ae629b43]
+#### 7. Building control approval applications for HRB work or stage of HRB work: decisions[^c-c42fd482db80f2761fb97431ae629b43]
 
 (1) The building control authority must grant the building control approval sought in a building control approval application for HRB work or a building control approval application for a stage of HRB work unless the application or any document that accompanied the application—
 
@@ -288,7 +288,7 @@ that revised plan or document is approved from the date specified in the approva
 
 (13) In this regulation, “**specified**” means specified by the building control authority.
 
-#### 8. Building control authority’s power to require notifications etc. for HRB work or stage of HRB work[^key-78335ca9a9a20283d783fe04724252ba]
+#### 8. Building control authority’s power to require notifications etc. for HRB work or stage of HRB work[^c-78335ca9a9a20283d783fe04724252ba]
 
 (1) The building control authority may, by notice in writing, require a client—
 
@@ -297,13 +297,13 @@ that revised plan or document is approved from the date specified in the approva
 
 (2) In this regulation, “**specified**” means specified by the building control authority in the notice referred to in paragraph (1).
 
-#### 9. Notice before starting on site and further notice when work is “commenced”[^key-205eec9908c4c5b117e49d2767f90583]
+#### 9. Notice before starting on site and further notice when work is “commenced”[^c-205eec9908c4c5b117e49d2767f90583]
 
 (1) This regulation applies where building control approval for HRB work or building control approval for a stage of HRB work is granted under regulation 7 (building control approval applications for HRB work or stage of HRB work: decisions).
 
 (2) At least 5 working days before the day on which the HRB work or the stage of HRB work starts, the client, or somebody acting on their behalf, must give a notice to the building control authority setting out their intention to start the work and the date the work is to start.
 
-(3) Within 5 working[^key-cb988fdfc1ddcdc54e8263c9d9db67ab] days after the day on which the HRB work is to be regarded as commenced, the client, or someone acting on their behalf, must give a notice to that effect to the building control authority.
+(3) Within 5 working[^c-cb988fdfc1ddcdc54e8263c9d9db67ab] days after the day on which the HRB work is to be regarded as commenced, the client, or someone acting on their behalf, must give a notice to that effect to the building control authority.
 
 (4) If the building control authority is not satisfied the work is to be regarded as commenced it must give the client a notice to that effect (“rejection notice”) within 4 weeks of the date the notice under paragraph (3) is given, and the rejection notice must give the reason for rejection and what needs to be completed for the work to be regarded as commenced.
 
@@ -333,7 +333,7 @@ that revised plan or document is approved from the date specified in the approva
 
 ### CHAPTER 2 — Existing HRBs
 
-#### 10. Notification of emergency repairs to existing HRB[^key-cabaaecf865d112f3af2dc8d0234ea47]
+#### 10. Notification of emergency repairs to existing HRB[^c-cabaaecf865d112f3af2dc8d0234ea47]
 
 (1) Where work to existing HRB consists only of emergency repairs and it is not practicable to comply with regulation 11 before starting the work, the client must—
 
@@ -343,7 +343,7 @@ that revised plan or document is approved from the date specified in the approva
 
 (2) In this regulation, “**emergency repairs**” means repairs to a building which are necessary to be carried out as a matter of urgency due to the risk to health, safety or welfare of persons in or about the building.
 
-#### 11. Building control approval for work to existing HRB[^key-3a50a895cf769350256e28c5f9d4d11a]
+#### 11. Building control approval for work to existing HRB[^c-3a50a895cf769350256e28c5f9d4d11a]
 
 (1) Before any person starts any work to existing HRB, the client in relation to that work must—
 
@@ -358,7 +358,7 @@ that revised plan or document is approved from the date specified in the approva
 - (b) exempt work, or
 - (c) work to which regulation 10 (notification of emergency repairs to existing HRB) applies.
 
-#### 12. Building control approval applications for work to existing HRB[^key-47d1e2ef7feb9ece2a53d172300d273f]
+#### 12. Building control approval applications for work to existing HRB[^c-47d1e2ef7feb9ece2a53d172300d273f]
 
 (1) Subject to paragraphs (3) and (4), where a building control approval application for work to existing HRB is required by regulation 11 (building control approval for work to existing HRB), it must be made in writing, signed by the applicant, and must include—
 
@@ -440,7 +440,7 @@ that revised plan or document is approved from the date specified in the approva
 - (b) exempt work, or
 - (c) work to which regulation 10 (notification of emergency repairs to existing HRB) applies.
 
-#### 13. Building control approval applications for work to existing HRB: time limit[^key-b0c4f378f4d0d82236ba145b64bef007]
+#### 13. Building control approval applications for work to existing HRB: time limit[^c-b0c4f378f4d0d82236ba145b64bef007]
 
 (1) Where the building control authority receives a building control approval application for work to existing HRB which is valid, it must determine it—
 
@@ -449,7 +449,7 @@ that revised plan or document is approved from the date specified in the approva
 
 (2) A building control approval application for work to existing HRB is valid if it complies with regulation 12.
 
-#### 14. Building control approval applications for work to existing HRB: consultation[^key-913df82f58d3ac7bf419d15722ac0543]
+#### 14. Building control approval applications for work to existing HRB: consultation[^c-913df82f58d3ac7bf419d15722ac0543]
 
 (1) Before determining a building control application for work to existing HRB, the building control authority must consult—
 
@@ -478,11 +478,11 @@ that revised plan or document is approved from the date specified in the approva
 
 (6) In this regulation “category A work” and “category B work” have the meaning given in regulation 12 (building control approval application for work to existing HRB).
 
-#### 15. Building control approval applications for work to existing HRB: decisions[^key-690dc9cc994e638e672fd638f34cf91c]
+#### 15. Building control approval applications for work to existing HRB: decisions[^c-690dc9cc994e638e672fd638f34cf91c]
 
 (1) The building control authority must grant the building control approval sought in a building control approval application for work to existing HRB unless—
 
-- (a) the building control authority does not agree with the client’s assessment in regulation 12(1)(e)(viii)(bb)[^key-f9e819cc61cfd000c27eaac6f8988910];
+- (a) the building control authority does not agree with the client’s assessment in regulation 12(1)(e)(viii)(bb)[^c-f9e819cc61cfd000c27eaac6f8988910];
 - (b) the building control authority is of the opinion that oversight will be required at a different point, be that earlier or later than the point described in the application;
 - (c) the application or any document that accompanied the application (or is provided under regulation 12(5))—
   - (i) does not comply with the requirements of regulation 12;
@@ -539,7 +539,7 @@ then that revised plan or document is approved from the date specified in the ap
 
 (12) Where the building control authority decides not to approve a plan or document under paragraph (11), if requested the building control authority must give the reasons for the decision.
 
-#### 16. Building control authority’s power to require notifications for work to existing HRB[^key-5bb45ddc929653b8982ea4e85966b51e]
+#### 16. Building control authority’s power to require notifications for work to existing HRB[^c-5bb45ddc929653b8982ea4e85966b51e]
 
 (1) The building control authority may, by notice in writing, require a client—
 
@@ -548,13 +548,13 @@ then that revised plan or document is approved from the date specified in the ap
 
 (2) In this regulation, “**specified**” means specified by the building control authority in the notice referred to in paragraph (1).
 
-#### 17. Notice before starting on site and further notice when work is “commenced”[^key-65cf021b8acbf3ea2688eb2797c4dee6]
+#### 17. Notice before starting on site and further notice when work is “commenced”[^c-65cf021b8acbf3ea2688eb2797c4dee6]
 
 (1) This regulation applies where building control approval for work to existing HRB is granted under regulation 15.
 
 (2) At least 5 working days before the day on which the work to existing HRB starts, the client, or somebody acting on their behalf must give a notice to the building control authority setting out their intention to start the work and the date that work is to start.
 
-(3) Within 5 working[^key-8283378022a5396b800038a8a8305a3d] days after the day on which the work to existing HRB is to be regarded as commenced, the client, or somebody acting on their behalf must give a notice to that effect to the building control authority.
+(3) Within 5 working[^c-8283378022a5396b800038a8a8305a3d] days after the day on which the work to existing HRB is to be regarded as commenced, the client, or somebody acting on their behalf must give a notice to that effect to the building control authority.
 
 (4) If the building control authority is not satisfied the work is to be regarded as commenced, it must give the client a notice to that effect (“rejection notice”) within 4 weeks of the date the notice under paragraph (3) is given, and the rejection notice must give reasons for the rejection and what needs to be completed for the work to be regarded as commenced.
 
@@ -582,7 +582,7 @@ then that revised plan or document is approved from the date specified in the ap
 
 ## PART 3 — Changes before or during construction
 
-### 18. Change control[^key-304e841d46d2706a763cf6585c6b1a39]
+### 18. Change control[^c-304e841d46d2706a763cf6585c6b1a39]
 
 (1) This regulation applies where one or more of the following changes (“controlled change”) is proposed—
 
@@ -590,7 +590,7 @@ then that revised plan or document is approved from the date specified in the ap
 - (b) a change to any stage of HRB work, including adding or removing a stage;
 - (c) a change to any strategies, policies or procedures described in any current agreed document.
 
-(2) Before any controlled change may[^key-4eff1b511307cb2a5554f95c8b45d23d] be carried out, the client must ensure—
+(2) Before any controlled change may[^c-4eff1b511307cb2a5554f95c8b45d23d] be carried out, the client must ensure—
 
 - (a) a record is made of the controlled change under regulation 19, and
 - (b) a revised version of any agreed document affected by the controlled change is produced.
@@ -627,7 +627,7 @@ until the building control authority has notified the client of the outcome of t
 - “**current agreed document**” (“***dogfen gytunedig gyfredol***”) means the document that is an agreed document at the time the controlled change is proposed;
 - “**current plans**” (“***planiau cyfredol***”) means the plans that are an agreed document at the time the controlled change is proposed.
 
-### 19. Change control: record-keeping[^key-e006d7a59c51558dd4c0a867689f32c7]
+### 19. Change control: record-keeping[^c-e006d7a59c51558dd4c0a867689f32c7]
 
 (1) The principal contractor (or sole contractor) must create and maintain a document for the purposes of recording information in respect of changes to the project (“change control log”).
 
@@ -647,7 +647,7 @@ until the building control authority has notified the client of the outcome of t
     - (cc) regulations 32 to 36 (mandatory occurrence reporting);
     - (dd) Part 2B (dutyholders and competence) of the 2010 Regulations[^f00015].
 
-### 20. Change control: notification requirements[^key-9e275e8e0d10f1c671a6733b80f8f802]
+### 20. Change control: notification requirements[^c-9e275e8e0d10f1c671a6733b80f8f802]
 
 (1) A notice under regulation 18(3) must be in writing, signed by the client or someone acting on their behalf, and must include—
 
@@ -664,7 +664,7 @@ until the building control authority has notified the client of the outcome of t
 
 (4) Where a notice under paragraph (2) is given to the person giving the notification, the person must provide the information within 10 working days of receipt of the notice.
 
-### 21. Change control applications[^key-7783e6e5ec38a44a18a602517c90d363]
+### 21. Change control applications[^c-7783e6e5ec38a44a18a602517c90d363]
 
 (1) A change control application must be made by the client in writing, signed by the applicant, and must include—
 
@@ -684,7 +684,7 @@ until the building control authority has notified the client of the outcome of t
 
 (3) A change control application must be accompanied by the revised version of the agreed document produced under regulation 18(2)(b).
 
-### 22. Change control applications: time limit[^key-1a14935db35fbbc6ccc285a76d90a435]
+### 22. Change control applications: time limit[^c-1a14935db35fbbc6ccc285a76d90a435]
 
 (1) Where the building control authority receives a change control application which is valid, the building control authority must determine it—
 
@@ -693,7 +693,7 @@ until the building control authority has notified the client of the outcome of t
 
 (2) A change control application is valid if it complies with the requirements of regulation 21.
 
-### 23. Change control applications: consultation[^key-1e775411a95935a8d62ba0487d504918]
+### 23. Change control applications: consultation[^c-1e775411a95935a8d62ba0487d504918]
 
 (1) Before determining a change control application relating to a controlled change of a kind described in regulation 18(1)(a), the building control authority must consult—
 
@@ -715,7 +715,7 @@ until the building control authority has notified the client of the outcome of t
 
 (6) In this regulation, “**category B work**” has the meaning given in regulation 12(6).
 
-### 24. Change control applications: decisions[^key-a52599dcc07bbc09bcd984dd68f8c660]
+### 24. Change control applications: decisions[^c-a52599dcc07bbc09bcd984dd68f8c660]
 
 (1) The building control authority must grant the building control approval sought in a change control application unless the application or any document that accompanied the application—
 
@@ -770,11 +770,11 @@ then that revised plan or document is approved from the date specified in the ap
 
 (11) In this regulation, “**specified**” means specified by the building control authority.
 
-### 25. Change control: the building control authority’s power to specify notifiable changes and major changes[^key-aac7d9a0b0abfd55673cbf5c41a4a9a8]
+### 25. Change control: the building control authority’s power to specify notifiable changes and major changes[^c-aac7d9a0b0abfd55673cbf5c41a4a9a8]
 
 The building control authority may specify that a particular type of controlled change is a notifiable change or a major change, in relation to specified work, by giving notice in writing to that effect to the client, principal contractor (or sole contractor) and the principal designer (or sole or lead designer) for that work.
 
-### 26. Change control: major changes and notifiable changes[^key-6e519563e535ad03cb1dfb7118692995]
+### 26. Change control: major changes and notifiable changes[^c-6e519563e535ad03cb1dfb7118692995]
 
 (1) In these Regulations—
 
@@ -828,7 +828,7 @@ The building control authority may specify that a particular type of controlled 
 - “**staged work statement**” (“***datganiad gwaith fesul cam***”) has the meaning given in regulation 4(3)(b)(i);
 - “**subsequent stages statement**” (“***datganiad camau dilynol***”) has the meaning given in regulation 4(3)(c)(i).
 
-### 27. New client etc.[^key-1bad84388edee68d4faf48fba20579f2]
+### 27. New client etc.[^c-1bad84388edee68d4faf48fba20579f2]
 
 (1) Subject to paragraphs (4) and (5), if, at any time after building control approval for HRB work, a stage of HRB work or work to existing HRB is granted, a person (in this regulation “C”) ceases to be the client in relation to the work, they must, within 14 days after the date they cease to be the client, provide the client (in this regulation “N”) with—
 
@@ -868,7 +868,7 @@ the notice sent under paragraph (2)(a) must explain the reasons for not providin
 
 that person (IP) is not to be treated as a new client provided no building work has been carried out since their appointment or vesting, and where IP then disposes of C’s property to a new client, paragraph (1) applies to IP as if—
 
-- (i) sub-paragraphs (c) and (d) (except paragraph (ii)(bb)[^key-a2c7371c758c6e3e87902c8d10c73de1]) were omitted, and
+- (i) sub-paragraphs (c) and (d) (except paragraph (ii)(bb)[^c-a2c7371c758c6e3e87902c8d10c73de1]) were omitted, and
 - (ii) where they are not able to confirm they have the documents referred to in paragraph (1)(a), the notice sent under paragraph (2) by N must explain the reasons for not providing the confirmation.
 
 (5) Where—
@@ -934,7 +934,7 @@ paragraph (6) applies instead of paragraph (1).
 
 - “**HRB project**” (“***prosiect ARU***”) means the work described in the initial notice given under section 47 of the 1984 Act.
 
-### 28. Insolvency etc. of the client: notifications[^key-343f7231ed4977aecfd8184520d42144]
+### 28. Insolvency etc. of the client: notifications[^c-343f7231ed4977aecfd8184520d42144]
 
 (1) Where the client becomes aware that any of the circumstances referred to in paragraph (2) apply in relation to them, the client must, within 14 days of that day, give a notice to the building control authority which—
 
@@ -974,7 +974,7 @@ paragraph (6) applies instead of paragraph (1).
 
 (9) In this regulation “**the 2016 Rules**” means the Insolvency (England and Wales) Rules 2016[^f00024].
 
-### 29. New principal contractor or principal designer etc: notification[^key-c423a0a7e6fdeb2a6fca5e127ff42e31]
+### 29. New principal contractor or principal designer etc: notification[^c-c423a0a7e6fdeb2a6fca5e127ff42e31]
 
 (1) This paragraph applies where, at any time after building control approval for HRB work, a stage of HRB work or work to existing HRB is granted the client appoints a principal contractor (or sole contractor) or principal designer (or sole or lead designer) or where duties are assigned under regulation 11T(4) of the 2010 Regulations.
 
@@ -1036,7 +1036,7 @@ paragraph (6) applies instead of paragraph (1).
 - (a) a record is made of the change of principal contractor (or sole contractor) or principal designer (or sole or lead designer) in the change control log, and
 - (b) the construction control plan is revised, under regulation 18, to reflect the change.
 
-### 30. Variation of a requirement imposed on a building control approval[^key-32864c11204dad9afb4a083e622ea4e3]
+### 30. Variation of a requirement imposed on a building control approval[^c-32864c11204dad9afb4a083e622ea4e3]
 
 (1) In relation to HRB work, a stage of HRB work or work to existing HRB, a client may request, by notice in writing, that the building control authority vary a requirement imposed on a building control approval.
 
@@ -1063,7 +1063,7 @@ paragraph (6) applies instead of paragraph (1).
 
 ## PART 4 — Golden thread, mandatory reporting, information handover etc.
 
-### 31. Golden thread[^key-8e178d75df649074a240ceac3cc11348]
+### 31. Golden thread[^c-8e178d75df649074a240ceac3cc11348]
 
 (1) The arrangements made by a client under regulation 11R of the 2010 Regulations[^f00033] must include—
 
@@ -1072,7 +1072,7 @@ paragraph (6) applies instead of paragraph (1).
   - (ii) procedures for persons involved with designing or carrying out the work to have access to the electronic facility for maintaining the golden thread information in the facility;
 - (b) where the work is work to existing HRB—
   - (i) arrangements for an electronic facility which holds the golden thread information to be maintained by the client (or someone on their behalf) for the purpose of updating the golden thread information in relation to the work;
-  - (ii) procedures for persons involved with designing or carrying out the work to have access to the electronic[^key-bcbbe797a511a69d52242ceec9474b7c] facility for the purpose of maintaining the golden thread information in the electronic facility.
+  - (ii) procedures for persons involved with designing or carrying out the work to have access to the electronic[^c-bcbbe797a511a69d52242ceec9474b7c] facility for the purpose of maintaining the golden thread information in the electronic facility.
 
 (2) The client must ensure the golden thread information—
 
@@ -1128,7 +1128,7 @@ the client must ensure the electronic facility is updated to include a copy of t
 - “**electronic facility**” (“***cyfleuster electronig***”) means the facility referred to in paragraph (1).
 - “**golden thread information**” (“***gwybodaeth llinyn aur***”) means the information required by this regulation to be included in the electronic facility including previous versions of any document which has been updated.
 
-### 32. Mandatory occurrence reporting system[^key-257df258d3622a15c8b122acb8139a98]
+### 32. Mandatory occurrence reporting system[^c-257df258d3622a15c8b122acb8139a98]
 
 (1) The principal dutyholders must—
 
@@ -1149,7 +1149,7 @@ the client must ensure the electronic facility is updated to include a copy of t
 - (a) exempt work, or
 - (b) work to which regulation 10 (notification of emergency repairs to existing HRB) applies.
 
-### 33. Mandatory occurrence reporting: reporting to the building control authority[^key-59c6fdf0a435c5b9eb5d919961aa8459]
+### 33. Mandatory occurrence reporting: reporting to the building control authority[^c-59c6fdf0a435c5b9eb5d919961aa8459]
 
 (1) Where there is a safety occurrence during the construction phase, a principal dutyholder must follow the reporting procedure on becoming aware of the occurrence.
 
@@ -1179,16 +1179,16 @@ the client must ensure the electronic facility is updated to include a copy of t
 - (a) exempt work, or
 - (b) work to which regulation 10 (notification of emergency repairs to existing HRB) applies.
 
-### 34. Mandatory occurrence reporting: defences[^key-2547e80d1ff0fe7a4db5124abc158545]
+### 34. Mandatory occurrence reporting: defences[^c-2547e80d1ff0fe7a4db5124abc158545]
 
 Where a principal dutyholder has committed an offence under section 35 of the 1984 Act of contravening these Regulations by failing to follow the reporting procedure in relation to a safety occurrence as required by regulation 33, it is a defence for the principal dutyholder if they reasonably believed that the other principal dutyholder had—
 
 - (a) already notified the building control authority of the safety occurrence under regulation 33, and
 - (b) already provided the building control authority with a written report of the safety occurrence under regulation 33.
 
-### 35. Mandatory occurrence reporting: definitions[^key-7e0ab6252163969bf84ebf4a0ecfaee2]
+### 35. Mandatory occurrence reporting: definitions[^c-7e0ab6252163969bf84ebf4a0ecfaee2]
 
-(1) In regulations 31 to 34[^key-b44eb740eb2cc539d92561dbf72b3aef]—
+(1) In regulations 31 to 34[^c-b44eb740eb2cc539d92561dbf72b3aef]—
 
 - “**construction phase**” (“***cyfnod adeiladu***”) means the period of time beginning when the HRB work, a stage of HRB work or work to existing HRB starts and ending when the work is completed;
 - “**HRB design work**” (“***gwaith dylunio ARU***”) means design of any HRB work, stage of HRB work or work to existing HRB;
@@ -1203,11 +1203,11 @@ Where a principal dutyholder has committed an offence under section 35 of the 19
 
 (2) In the definition of “safety occurrence”, the “risk condition” is that use of the building in question without the incident or situation being remedied would be likely to present a risk of a significant number of deaths, or serious injury to a significant number of people.
 
-### 36. Mandatory occurrence reporting: client duty on appointment of principal contractor or principal designer[^key-4d8699b543f3660f93f624c673449ea1]
+### 36. Mandatory occurrence reporting: client duty on appointment of principal contractor or principal designer[^c-4d8699b543f3660f93f624c673449ea1]
 
 Where, in relation to HRB work, a stage of HRB work or work to existing HRB, the client appoints a principal contractor (or sole contractor) or principal designer (or sole or lead designer), the client must take all reasonable steps to satisfy themselves that the person appointed is able to fulfil the requirements in regulations 32 and 33.
 
-### 37. Handover of information on completion etc.[^key-9acf24630a8333120ff8532a3a01cf67]
+### 37. Handover of information on completion etc.[^c-9acf24630a8333120ff8532a3a01cf67]
 
 (1) The client for, or any person working alone carrying out, HRB work, a stage of HRB work or work to existing HRB must give—
 
@@ -1245,7 +1245,7 @@ to the responsible person no later than the date the work is completed, or where
     - (i) the completion certificate application in relation to the HRB work, the stage of HRB work or work to existing HRB which the client proposes to make, and
     - (ii) each document which under regulation 39(2) is required to accompany the application.
 
-### 38. Information to be provided where work is scheme work[^key-8652f47942716872779d30e91c9257cd]
+### 38. Information to be provided where work is scheme work[^c-8652f47942716872779d30e91c9257cd]
 
 (1) Where work to existing HRB consists only of scheme work and Part B of Schedule 1 to the 2010 Regulations imposes a requirement in relation to the work, the certifier must give the fire safety information to the client and the responsible person no later than—
 
@@ -1275,11 +1275,11 @@ to the responsible person no later than the date the work is completed, or where
 (9) In this regulation—
 
 - “**certifier**” (“***ardystiwr***”) means where the work is described in column 1 of the Table in Schedule 3 to the 2010 Regulations and the work is to be carried out by a person described in the corresponding entry in column 2 of that Table, the person carrying out the work;
-- [^key-05fe383248373f0ed921c75c9f97110a]...
+- [^c-05fe383248373f0ed921c75c9f97110a]...
 
 ## PART 5 — Completion certificates
 
-### 39. Completion certificate applications[^key-190768998e426fdbe3f93147438995a2]
+### 39. Completion certificate applications[^c-190768998e426fdbe3f93147438995a2]
 
 (1) An application for a completion certificate in relation to HRB work, a stage of HRB work or work to existing HRB (“a completion certificate application”) must be signed by the applicant and must include—
 
@@ -1343,7 +1343,7 @@ or, where regulation 12(3) applies, such of the documents referred to in paragra
   - (i) in the case of a principal contractor (or sole contractor), that they fulfilled their duties as a principal contractor under Part 2B (dutyholders and competence) of the 2010 Regulations[^f00034];
   - (ii) in the case of a principal designer (or sole or lead designer), that they fulfilled their duties as a principal designer under Part 2B (dutyholders and competence) of the 2010 Regulations[^f00035].
 
-### 40. Completion certificate applications: time limit[^key-465f831c78ed95f37fcfc24963ccfd9c]
+### 40. Completion certificate applications: time limit[^c-465f831c78ed95f37fcfc24963ccfd9c]
 
 (1) Where the building control authority receives a completion certificate application in relation to HRB work, a stage of HRB work or work to existing HRB which is valid, the building control authority must—
 
@@ -1352,7 +1352,7 @@ or, where regulation 12(3) applies, such of the documents referred to in paragra
 
 (2) A completion certificate application is valid if it complies with regulation 39.
 
-### 41. Completion certificate applications: consultation[^key-f6a6f626d8ec7fbfee30a466c12be19d]
+### 41. Completion certificate applications: consultation[^c-f6a6f626d8ec7fbfee30a466c12be19d]
 
 (1) Before determining a completion certificate application, the building control authority must consult—
 
@@ -1380,11 +1380,11 @@ or, where regulation 12(3) applies, such of the documents referred to in paragra
 
 (6) In this regulation “category A work” and “category B work” have the meaning given in regulation 12(6).
 
-### 42. Completion certificate applications: inspection[^key-50f24fbb10d497ae1383c1815dbe4a88]
+### 42. Completion certificate applications: inspection[^c-50f24fbb10d497ae1383c1815dbe4a88]
 
 Before determining a completion certificate application the building control authority must inspect the completed HRB work, stage of HRB work or work to existing HRB to assess whether the work complies with all applicable requirements of the building regulations.
 
-### 43. Completion certificate applications: decisions[^key-947d1ca792fc3af6fce1899b68331148]
+### 43. Completion certificate applications: decisions[^c-947d1ca792fc3af6fce1899b68331148]
 
 (1) The building control authority must approve a completion certificate application and issue a completion certificate, if it is satisfied, after taking all reasonable steps, that—
 
@@ -1411,7 +1411,7 @@ Before determining a completion certificate application the building control aut
 - (a) a copy of the completion certificate application and each of the documents which accompanied the application, and
 - (b) a copy of the completion certificate.
 
-### 44. Partial completion certificates[^key-c61737b845c41b75fe3004722382f1f4]
+### 44. Partial completion certificates[^c-c61737b845c41b75fe3004722382f1f4]
 
 (1) This regulation applies where—
 
@@ -1493,7 +1493,7 @@ if such a statement was not already provided to the building control authority, 
 (10) The building control authority must approve the partial completion certificate application and issue a partial completion certificate if it is satisfied, after taking all reasonable steps, that—
 
 - (a) the part of the HRB work or work to existing HRB which the application relates complies with all applicable requirements of the building regulations and the part of the building to be occupied before completion of the HRB work or work to existing HRB complies with all applicable requirements of the building regulations;
-- (b) the documents and information listed in paragraphs (3) and (4)[^key-730f899dc33b16f9e9c5f826591c1c8f] and submitted as part of the application are complete and accurate;
+- (b) the documents and information listed in paragraphs (3) and (4)[^c-730f899dc33b16f9e9c5f826591c1c8f] and submitted as part of the application are complete and accurate;
 - (c) the information, as to the date on which the application is made, to be provided to the responsible person under regulation 37 has been given.
 
 (11) If the building control authority is not satisfied under paragraph (10) it must reject the partial completion certificate application.
@@ -1523,7 +1523,7 @@ if such a statement was not already provided to the building control authority, 
 
 ## PART 6 — Inspections etc., regularisation, review of decisions, appeals and section 30A procedures etc.
 
-### 45. Inspections etc.[^key-9814ed85ff60ec8fc806e8ede66c57fd]
+### 45. Inspections etc.[^c-9814ed85ff60ec8fc806e8ede66c57fd]
 
 The building control authority for any building or proposed building in relation to that building or proposed building may take such steps as it considers appropriate to check compliance with all applicable requirements of the building regulations, including—
 
@@ -1531,7 +1531,7 @@ The building control authority for any building or proposed building in relation
 - (b) requiring the laying open of building work for inspection by the building control authority;
 - (c) requiring an inspection to be undertaken and the record of the inspection provided.
 
-### 46. Regularisation of unauthorised building work[^key-326a8a2970732124762ddd491cfc3c84]
+### 46. Regularisation of unauthorised building work[^c-326a8a2970732124762ddd491cfc3c84]
 
 (1) This regulation applies where it appears to the building control authority that unauthorised building work has been carried out on or after 11 November 1985.
 
@@ -1588,7 +1588,7 @@ which will assist the responsible person to operate and maintain the building wi
 
 but work is not unauthorised building work to the extent that it consists only of scheme work or exempt work.
 
-### 47. Appeal of decisions[^key-6a595fd1299361782f25c91519f1a035]
+### 47. Appeal of decisions[^c-6a595fd1299361782f25c91519f1a035]
 
 (1) The following decisions of the building control authority may be appealed to the Welsh Ministers—
 
@@ -1611,7 +1611,7 @@ but work is not unauthorised building work to the extent that it consists only o
 
 (3) An appeal must be made to the Welsh Ministers within 15 working days beginning with the day after the day on which the decision referred to in paragraph (1) is notified to the person.
 
-(4) An appeal under[^key-a8cbba92e0863f00a99c42a02e2fe37c] paragraph (3) must contain the following information—
+(4) An appeal under[^c-a8cbba92e0863f00a99c42a02e2fe37c] paragraph (3) must contain the following information—
 
 - (a) the name, address, telephone number and (if available) email address for the person giving the notice;
 - (b) if the person giving the notice is doing so on behalf of a person who falls within the description in paragraph (2), the name and address of that person and a statement that the person giving the notice is authorised to give the notice on behalf of that person;
@@ -1621,13 +1621,13 @@ but work is not unauthorised building work to the extent that it consists only o
   - (ii) sets out the reasons the person considers the decision should be reviewed;
 - (e) any information that is available to the person giving the notice, that may have been relevant to the building control authority’s decision but was not available at the time the decision was made.
 
-(5) The Welsh Ministers must notify the appellant of the outcome within 13 weeks beginning with the day after the day on which the Welsh Ministers receive the appeal[^key-da3fc02c2cae96e79993bdce06dfd04f].
+(5) The Welsh Ministers must notify the appellant of the outcome within 13 weeks beginning with the day after the day on which the Welsh Ministers receive the appeal[^c-da3fc02c2cae96e79993bdce06dfd04f].
 
 (6) A notice that the appeal has upheld the decision must give reasons for that decision.
 
 (7) If the appeal varies the decision the building control authority must issue a new decision.
 
-### 48. Appeal in relation to Welsh Ministers’ decision[^key-1c4ec6e918b414cc6f704b704b1380cd]
+### 48. Appeal in relation to Welsh Ministers’ decision[^c-1c4ec6e918b414cc6f704b704b1380cd]
 
 (1) A person may appeal to the magistrates’ court against the decision of the Welsh Ministers in relation to an appeal of a decision of a kind referred to in regulation 47(1), provided that the appeal is made within 15 working days beginning with the day after the day on which the Welsh Ministers notify the person of their decision under regulation 47(5).
 
@@ -1640,7 +1640,7 @@ but work is not unauthorised building work to the extent that it consists only o
 
 (3) If the magistrates’ court allows an appeal it may quash or vary the decision.
 
-### 49. Section 30A prescribed applications[^key-1a3b0848d409425d4e0e21c60acc63d1]
+### 49. Section 30A prescribed applications[^c-1a3b0848d409425d4e0e21c60acc63d1]
 
 (1) The following applications are prescribed for the purposes of section 30A(1) of the 1984 Act—
 
@@ -1658,9 +1658,9 @@ but work is not unauthorised building work to the extent that it consists only o
 - “**prescribed**” (“***rhagnodedig***”) has the meaning given in section 126 of the 1984 Act;
 - “**original application**” (“***cais gwreiddiol***”) has the meaning given in section 30A(1) of the 1984 Act.
 
-### 50. Section 30A applications: procedure[^key-378f268ac1d96a144b9dd554d33eb9cb]
+### 50. Section 30A applications: procedure[^c-378f268ac1d96a144b9dd554d33eb9cb]
 
-(1) An application under section 30A of the 1984 Act (“section 30A application”) must be made in writing to the Welsh Ministers by the client for the work to which the original application relates (in this Part , except in regulation 46,[^key-c65a897b417e9cf6e87441e51f970c30] “the applicant”) and accompanied by the documents specified in paragraph (3).
+(1) An application under section 30A of the 1984 Act (“section 30A application”) must be made in writing to the Welsh Ministers by the client for the work to which the original application relates (in this Part , except in regulation 46,[^c-c65a897b417e9cf6e87441e51f970c30] “the applicant”) and accompanied by the documents specified in paragraph (3).
 
 (2) A section 30A application must be made no later than 6 weeks after the day the relevant period in relation to the application ends.
 
@@ -1676,13 +1676,13 @@ but work is not unauthorised building work to the extent that it consists only o
 
 (5) In this regulation “**relevant period**” has the meaning given in section 30A(9) of the 1984 Act.
 
-### 51. Section 30A applications: electronic submissions[^key-e1e49df89860a8887dd213f7a41444e0]
+### 51. Section 30A applications: electronic submissions[^c-e1e49df89860a8887dd213f7a41444e0]
 
 (1) Where an applicant submits a section 30A application through electronic facilities provided by the Welsh Ministers for that purpose, they are taken to have consented to the use of electronic communications for all purposes relating to the section 30A application that are capable of being carried out electronically.
 
 (2) The deemed consent in paragraph (1) may be revoked by the applicant giving the Welsh Ministers 2 weeks’ notice in writing specifying that the notice is given under this regulation.
 
-### 52. Section 30A applications: determinations[^key-344813b0b471c6620f27777bca537634]
+### 52. Section 30A applications: determinations[^c-344813b0b471c6620f27777bca537634]
 
 (1) A section 30A application is to be determined[^f00036] by written representations.
 
@@ -1700,7 +1700,7 @@ but work is not unauthorised building work to the extent that it consists only o
 
 (8) The Welsh Ministers must send a copy of the Welsh Ministers’ decision to the building control authority.
 
-### 53. Section 30A applications: appointed persons[^key-f039769e5671a3a470c689c2a64a011c]
+### 53. Section 30A applications: appointed persons[^c-f039769e5671a3a470c689c2a64a011c]
 
 (1) The Welsh Ministers may appoint a person to determine a section 30A application instead of the Welsh Ministers.
 
@@ -1717,7 +1717,7 @@ but work is not unauthorised building work to the extent that it consists only o
 
 (6) Where an application is determined by a person appointed under this regulation their decision is to be treated as the decision of the Welsh Ministers.
 
-### 54. Deemed rejection of the original application[^key-02741f9b212a64753629e5007a92fa74]
+### 54. Deemed rejection of the original application[^c-02741f9b212a64753629e5007a92fa74]
 
 Where in relation to an application that is prescribed in regulation 49 (section 30A prescribed applications)—
 
@@ -1726,7 +1726,7 @@ Where in relation to an application that is prescribed in regulation 49 (section
 
 the original application is treated as rejected by the building control authority.
 
-### 55. Section 30A applications: appeals[^key-44376188ef350091bf308d92e9ccea5e]
+### 55. Section 30A applications: appeals[^c-44376188ef350091bf308d92e9ccea5e]
 
 (1) An appeal to the magistrates’ court under section 30A(8) of the 1984 Act must be made within 15 working days beginning with the day after the day on which the Welsh Ministers give the decision to the applicant under regulation 52(6) (section 30A applications: determinations).
 
@@ -1741,11 +1741,11 @@ the original application is treated as rejected by the building control authorit
 
 ## PART 7 — Miscellaneous
 
-### 56. Exempt work[^key-9480971caa5f263368f752148345575f]
+### 56. Exempt work[^c-9480971caa5f263368f752148345575f]
 
 For the purposes of these Regulations, building work which consists only of work of a kind described in Schedule 2 is exempt work.
 
-### 57. Contraventions by the building control authority not to be subject to enforcement[^key-7bb29b1d56f1f68a04cd9f0b232fa994]
+### 57. Contraventions by the building control authority not to be subject to enforcement[^c-7bb29b1d56f1f68a04cd9f0b232fa994]
 
 The following provisions of these Regulations are prescribed for the purposes of sections 35(2) and 35B(7)(a) of the 1984 Act—
 
@@ -1770,7 +1770,7 @@ The following provisions of these Regulations are prescribed for the purposes of
 - (s) regulation 52 (section 30A applications: determinations);
 - (t) regulation 53 (section 30A applications: appointed persons).
 
-### 58. Provisions in relation to which a stop notice may be given[^key-7a9f109d5ed9837a627937bb30860d5d]
+### 58. Provisions in relation to which a stop notice may be given[^c-7a9f109d5ed9837a627937bb30860d5d]
 
 The following provisions are prescribed for the purposes of section 35C(1)(a) of the 1984 Act (stop notices)—
 
@@ -1781,7 +1781,7 @@ The following provisions are prescribed for the purposes of section 35C(1)(a) of
 - (e) regulation 18(6) (major change not to be carried out before approval);
 - (f) regulation 24(10)(a) (major change not to proceed until approval under a requirement is received) but only in relation to a major change (as defined in regulation 26 of these Regulations).
 
-### 59. Transitional provisions[^key-59cfb39ca68c32e4972fd414a672637a]
+### 59. Transitional provisions[^c-59cfb39ca68c32e4972fd414a672637a]
 
 Schedule 3 contains transitional provisions.
 
@@ -1795,7 +1795,7 @@ Cabinet Secretary for Economy, Energy and Planning, one of the Welsh Ministers
 
 Regulation 2
 
-### 1. Competence declaration[^key-0e9b188953ca85deb1bef5ceaf1e5085]
+### 1. Competence declaration[^c-0e9b188953ca85deb1bef5ceaf1e5085]
 
 (1) A competence declaration is a statement, in relation to work, that contains a declaration in relation to—
 
@@ -1834,7 +1834,7 @@ Regulation 2
 - (a) be signed by the client or by a person on behalf of the client, and
 - (b) where there is more than one contractor for the HRB work, a stage of HRB work or work to existing HRB, include a copy of each record that the client created under regulation 11U(8) or 11U(9) (principal designer and principal contractor) of the 2010 Regulations[^f00044].
 
-### 2. Construction control plan[^key-0d4c3d05092ac65c23190a4e1c22a409]
+### 2. Construction control plan[^c-0d4c3d05092ac65c23190a4e1c22a409]
 
 A construction control plan must set out—
 
@@ -1857,7 +1857,7 @@ and a summary of their responsibilities;
 
 - (e) the policies the client has adopted to review the construction control plan.
 
-### 3. Change control plan[^key-8ed05ac5030e877064a2349cade6c0be]
+### 3. Change control plan[^c-8ed05ac5030e877064a2349cade6c0be]
 
 (1) A change control plan must set out the strategies, policies and procedures the client has adopted to ensure any controlled change takes place under regulation 18 (change control), and to log each controlled change under regulation 19 (change control: record-keeping) including explaining—
 
@@ -1870,7 +1870,7 @@ and a summary of their responsibilities;
 
 (2) In this paragraph “**dutyholders**” means the client, the principal contractor (or sole contractor) and the principal designer (or sole or lead designer).
 
-### 4. Building Regulations compliance statement[^key-ee5aa4dde10ad1a13a49f82695ff59d5]
+### 4. Building Regulations compliance statement[^c-ee5aa4dde10ad1a13a49f82695ff59d5]
 
 (1) A Building Regulations compliance statement must set out the approach taken in designing the proposed higher-risk building or in designing the work to be carried out on the higher-risk building and the building standards applied, in particular—
 
@@ -1880,7 +1880,7 @@ and a summary of their responsibilities;
 
 (2) A Building Regulations compliance statement must be accompanied by a statement signed by the principal designer confirming that the information in the Building Regulations compliance statement is correct.
 
-### 5. Fire and emergency file[^key-7738291ad2289defb760a029e2efd5ac]
+### 5. Fire and emergency file[^c-7738291ad2289defb760a029e2efd5ac]
 
 (1) A fire and emergency file must set out—
 
@@ -1901,7 +1901,7 @@ and a summary of their responsibilities;
 - (a) the spread of fire;
 - (b) structural failure.
 
-### 6. Partial completion strategy[^key-ac9cf07022f750caf13d3dc68ef006c4]
+### 6. Partial completion strategy[^c-ac9cf07022f750caf13d3dc68ef006c4]
 
 A partial completion strategy must explain—
 
@@ -1913,7 +1913,7 @@ A partial completion strategy must explain—
 
 Regulation 56
 
-**1.**[^key-6f9a1334d8a0e0ea809a3cbdbecfed26] Work consisting of—
+**1.**[^c-6f9a1334d8a0e0ea809a3cbdbecfed26] Work consisting of—
 
 - (a) in relation to an existing fixed building service, which is not a fixed internal or external lighting system—
   - (i) replacing any part which is not a combustion appliance,
@@ -1954,14 +1954,14 @@ where the work does not include any work to underground drainage, and includes n
   - (i) the work consists solely of the installation of such insulation, and
   - (ii) the work is not carried out in order to comply with any requirements of the 2010 Regulations.
 
-**2.**[^key-611e0a84a746f5d5fb26e56310176b1c] Installation of thermal insulation to suspended timber floors where—
+**2.**[^c-611e0a84a746f5d5fb26e56310176b1c] Installation of thermal insulation to suspended timber floors where—
 
 - (a) the work consists solely of the installation of such insulation, and
 - (b) the work is not carried out in order to comply with any requirements of the 2010 Regulations.
 
-**3.**[^key-49f0e016fb7392e2c14a725757687c69] For the purposes of this Schedule—
+**3.**[^c-49f0e016fb7392e2c14a725757687c69] For the purposes of this Schedule—
 
-- [^key-97f8c91203ded8596da62a77c118f77d]...
+- [^c-97f8c91203ded8596da62a77c118f77d]...
 - “**self-contained**” (“***hunangynhwysol***”) in relation to a fixed building service means consisting of a single appliance and any associated controls which is neither connected to, nor forms part of, any other fixed building service;
 - “**special location**” (“***lleoliad arbennig***”) means—
   - (a) within a room containing a bath or shower, the space surrounding a bath tap or shower head, where the space extends—
@@ -1977,7 +1977,7 @@ where the work does not include any work to underground drainage, and includes n
 
 Regulation 59
 
-### 1. Transitional provisions in relation to plans deposited or initial notices given before 1 July 2026[^key-f5fbb7ae6a5125b00189202af9d17001]
+### 1. Transitional provisions in relation to plans deposited or initial notices given before 1 July 2026[^c-f5fbb7ae6a5125b00189202af9d17001]
 
 (1) This paragraph applies where before 1 July 2026—
 
@@ -2001,7 +2001,7 @@ Regulation 59
 
 and Parts 2 to 6 of these Regulations apply instead to the work.
 
-### 2. Interpretation[^key-8190462baf8ad3339d14be576dfa8d57]
+### 2. Interpretation[^c-8190462baf8ad3339d14be576dfa8d57]
 
 For the purposes of this Schedule—
 
@@ -2040,23 +2040,23 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Section 14(7) was amended by paragraph 17(3) of Schedule 5 to the 2022 Act.
 
-[^key-d56b9195a1d2c3133a0971c5c8ff57e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-d56b9195a1d2c3133a0971c5c8ff57e1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-3e271dca7c590d0315b927fc4205209e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-3e271dca7c590d0315b927fc4205209e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [2013/2621 (W. 258)](https://www.legislation.gov.uk/wsi/2013/2621), [2013/2730 (W. 264)](https://www.legislation.gov.uk/wsi/2013/2730), [2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2024/110), [2015/1486 (W. 165)](https://www.legislation.gov.uk/wsi/2015/1486), [2016/361 (W. 113)](https://www.legislation.gov.uk/wsi/2016/361), [2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611), [2017/1274 (W. 296)](https://www.legislation.gov.uk/wsi/2017/1274), [2018/552 (W. 94)](https://www.legislation.gov.uk/wsi/2018/552), [2018/588 (W. 97)](https://www.legislation.gov.uk/wsi/2018/588), [2019/1499 (W. 275)](https://www.legislation.gov.uk/wsi/2019/1499), [2022/564 (W. 130)](https://www.legislation.gov.uk/wsi/2022/564), [2022/993 (W. 210)](https://www.legislation.gov.uk/wsi/2022/993), [2024/742 (W. 103)](https://www.legislation.gov.uk/wsi/2024/742), [2024/1268 (W. 214)](https://www.legislation.gov.uk/wsi/2024/1268), [2025/377 (W. 74)](https://www.legislation.gov.uk/wsi/2025/377) and [2025/704 (W. 119)](https://www.legislation.gov.uk/wsi/2025/704). There are other amending instruments, but none is relevant to this Regulations.
 
 [^f00004]: Footnote: [S.I. 2023/1210 (W. 213)](https://www.legislation.gov.uk/wsi/2023/1210).
 
-[^key-419d2469d83c531eee98216c5ade5faa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2/1) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/2/a)
+[^c-419d2469d83c531eee98216c5ade5faa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2/1) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/2/a)
 
 [^f00005]: Footnote: Section 121A of the 1984 Act was inserted by section 32(4) of the 2022 Act.
 
-[^key-8ec699398c92fb43098c5a1c71ff0e34]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2/1) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/2/c)
+[^c-8ec699398c92fb43098c5a1c71ff0e34]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2/1) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(2)(c)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/2/c)
 
 [^f00006]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541), to which there are amendments not relevant to these Regulations.
 
-[^key-16a483a6c5fee3e836507fe2f9efafa1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2/1) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/2/b)
+[^c-16a483a6c5fee3e836507fe2f9efafa1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/2/1) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/2/b)
 
 [^f00007]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -2068,73 +2068,73 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: Regulation 2 was amended by and regulation 11U inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-9ec583c2df49af76dc85f21e8f3a6013]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/1321/regulation/3) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-9ec583c2df49af76dc85f21e8f3a6013]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/1321/regulation/3) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-10555b3e69d541a714437bb64b61f0cf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/1321/regulation/4) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-10555b3e69d541a714437bb64b61f0cf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/1321/regulation/4) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00012]: Footnote: Regulation 46B was inserted by regulation 9(2) of the Building etc. (Amendment) (No. 2) (Wales) Regulations 2025.
 
-[^key-67bbe445865b9a7611ce5076634fc3b4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/1321/regulation/5) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-67bbe445865b9a7611ce5076634fc3b4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/1321/regulation/5) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-156e6e2ed13a6e78d6f360a616cc7369]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/1321/regulation/6) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-156e6e2ed13a6e78d6f360a616cc7369]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/1321/regulation/6) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-c42fd482db80f2761fb97431ae629b43]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/1321/regulation/7) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-c42fd482db80f2761fb97431ae629b43]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/1321/regulation/7) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00013]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-78335ca9a9a20283d783fe04724252ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/1321/regulation/8) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-78335ca9a9a20283d783fe04724252ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/1321/regulation/8) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-205eec9908c4c5b117e49d2767f90583]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/1321/regulation/9) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-205eec9908c4c5b117e49d2767f90583]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/1321/regulation/9) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-cb988fdfc1ddcdc54e8263c9d9db67ab]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/9/3) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/3)
+[^c-cb988fdfc1ddcdc54e8263c9d9db67ab]: Textual amendment: Word in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/9/3) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/3)
 
-[^key-cabaaecf865d112f3af2dc8d0234ea47]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/1321/regulation/10) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-cabaaecf865d112f3af2dc8d0234ea47]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/1321/regulation/10) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-3a50a895cf769350256e28c5f9d4d11a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/1321/regulation/11) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-3a50a895cf769350256e28c5f9d4d11a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/1321/regulation/11) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-47d1e2ef7feb9ece2a53d172300d273f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/1321/regulation/12) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-47d1e2ef7feb9ece2a53d172300d273f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/1321/regulation/12) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-b0c4f378f4d0d82236ba145b64bef007]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/1321/regulation/13) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-b0c4f378f4d0d82236ba145b64bef007]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/1321/regulation/13) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-913df82f58d3ac7bf419d15722ac0543]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/1321/regulation/14) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-913df82f58d3ac7bf419d15722ac0543]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/1321/regulation/14) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-690dc9cc994e638e672fd638f34cf91c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/1321/regulation/15) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-690dc9cc994e638e672fd638f34cf91c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2025/1321/regulation/15) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-f9e819cc61cfd000c27eaac6f8988910]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/15/1/a) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/5)
+[^c-f9e819cc61cfd000c27eaac6f8988910]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/15/1/a) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/5)
 
 [^f00014]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-5bb45ddc929653b8982ea4e85966b51e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/1321/regulation/16) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-5bb45ddc929653b8982ea4e85966b51e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2025/1321/regulation/16) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-65cf021b8acbf3ea2688eb2797c4dee6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/1321/regulation/17) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-65cf021b8acbf3ea2688eb2797c4dee6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2025/1321/regulation/17) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-8283378022a5396b800038a8a8305a3d]: Textual amendment: Word in [reg. 17(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/17/3) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(6)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/6)
+[^c-8283378022a5396b800038a8a8305a3d]: Textual amendment: Word in [reg. 17(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/17/3) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(6)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/6)
 
-[^key-304e841d46d2706a763cf6585c6b1a39]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/1321/regulation/18) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-304e841d46d2706a763cf6585c6b1a39]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2025/1321/regulation/18) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-4eff1b511307cb2a5554f95c8b45d23d]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/18/2) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(7)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/7)
+[^c-4eff1b511307cb2a5554f95c8b45d23d]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/18/2) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(7)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/7)
 
-[^key-e006d7a59c51558dd4c0a867689f32c7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/1321/regulation/19) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-e006d7a59c51558dd4c0a867689f32c7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2025/1321/regulation/19) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00015]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-9e275e8e0d10f1c671a6733b80f8f802]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/1321/regulation/20) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-9e275e8e0d10f1c671a6733b80f8f802]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2025/1321/regulation/20) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-7783e6e5ec38a44a18a602517c90d363]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/1321/regulation/21) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-7783e6e5ec38a44a18a602517c90d363]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2025/1321/regulation/21) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-1a14935db35fbbc6ccc285a76d90a435]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/1321/regulation/22) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-1a14935db35fbbc6ccc285a76d90a435]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2025/1321/regulation/22) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-1e775411a95935a8d62ba0487d504918]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/1321/regulation/23) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-1e775411a95935a8d62ba0487d504918]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2025/1321/regulation/23) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-a52599dcc07bbc09bcd984dd68f8c660]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2025/1321/regulation/24) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-a52599dcc07bbc09bcd984dd68f8c660]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2025/1321/regulation/24) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00016]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-aac7d9a0b0abfd55673cbf5c41a4a9a8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/1321/regulation/25) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-aac7d9a0b0abfd55673cbf5c41a4a9a8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2025/1321/regulation/25) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-6e519563e535ad03cb1dfb7118692995]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/1321/regulation/26) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-6e519563e535ad03cb1dfb7118692995]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2025/1321/regulation/26) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-1bad84388edee68d4faf48fba20579f2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2025/1321/regulation/27) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-1bad84388edee68d4faf48fba20579f2]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2025/1321/regulation/27) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00017]: Footnote: Regulation 11R was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
@@ -2142,7 +2142,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-a2c7371c758c6e3e87902c8d10c73de1]: Textual amendment: Words in reg. 27(4)(b)(i) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(9)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/9)
+[^c-a2c7371c758c6e3e87902c8d10c73de1]: Textual amendment: Words in reg. 27(4)(b)(i) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(9)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/9)
 
 [^f00020]: Footnote: Regulation 11R was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
@@ -2150,13 +2150,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00022]: Footnote: Regulation 11R was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-343f7231ed4977aecfd8184520d42144]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2025/1321/regulation/28) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-343f7231ed4977aecfd8184520d42144]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2025/1321/regulation/28) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00023]: Footnote: Part A1 was inserted by section 1(1) of the Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12).
 
 [^f00024]: Footnote: [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024).
 
-[^key-c423a0a7e6fdeb2a6fca5e127ff42e31]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2025/1321/regulation/29) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-c423a0a7e6fdeb2a6fca5e127ff42e31]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2025/1321/regulation/29) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00025]: Footnote: Regulation 11V was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
@@ -2174,89 +2174,89 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00032]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-32864c11204dad9afb4a083e622ea4e3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2025/1321/regulation/30) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-32864c11204dad9afb4a083e622ea4e3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2025/1321/regulation/30) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-8e178d75df649074a240ceac3cc11348]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2025/1321/regulation/31) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-8e178d75df649074a240ceac3cc11348]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2025/1321/regulation/31) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00033]: Footnote: Regulation 11R was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-bcbbe797a511a69d52242ceec9474b7c]: Textual amendment: Word in reg. 31(1)(b)(ii) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(10)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/10)
+[^c-bcbbe797a511a69d52242ceec9474b7c]: Textual amendment: Word in reg. 31(1)(b)(ii) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(10)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/10)
 
-[^key-257df258d3622a15c8b122acb8139a98]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2025/1321/regulation/32) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-257df258d3622a15c8b122acb8139a98]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2025/1321/regulation/32) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-59c6fdf0a435c5b9eb5d919961aa8459]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2025/1321/regulation/33) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-59c6fdf0a435c5b9eb5d919961aa8459]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2025/1321/regulation/33) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-2547e80d1ff0fe7a4db5124abc158545]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2025/1321/regulation/34) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-2547e80d1ff0fe7a4db5124abc158545]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2025/1321/regulation/34) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-7e0ab6252163969bf84ebf4a0ecfaee2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2025/1321/regulation/35) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-7e0ab6252163969bf84ebf4a0ecfaee2]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2025/1321/regulation/35) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-b44eb740eb2cc539d92561dbf72b3aef]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/35/1) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(11)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/11)
+[^c-b44eb740eb2cc539d92561dbf72b3aef]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/35/1) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(11)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/11)
 
-[^key-4d8699b543f3660f93f624c673449ea1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2025/1321/regulation/36) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-4d8699b543f3660f93f624c673449ea1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2025/1321/regulation/36) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-9acf24630a8333120ff8532a3a01cf67]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2025/1321/regulation/37) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-9acf24630a8333120ff8532a3a01cf67]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2025/1321/regulation/37) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-8652f47942716872779d30e91c9257cd]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2025/1321/regulation/38) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-8652f47942716872779d30e91c9257cd]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2025/1321/regulation/38) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-05fe383248373f0ed921c75c9f97110a]: Textual amendment: Words in [reg. 38(9)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/38/9) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(12)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/12)
+[^c-05fe383248373f0ed921c75c9f97110a]: Textual amendment: Words in [reg. 38(9)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/38/9) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(12)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/12)
 
-[^key-190768998e426fdbe3f93147438995a2]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2025/1321/regulation/39) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-190768998e426fdbe3f93147438995a2]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2025/1321/regulation/39) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00034]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
 [^f00035]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-465f831c78ed95f37fcfc24963ccfd9c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2025/1321/regulation/40) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-465f831c78ed95f37fcfc24963ccfd9c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2025/1321/regulation/40) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-f6a6f626d8ec7fbfee30a466c12be19d]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2025/1321/regulation/41) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-f6a6f626d8ec7fbfee30a466c12be19d]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2025/1321/regulation/41) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-50f24fbb10d497ae1383c1815dbe4a88]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2025/1321/regulation/42) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-50f24fbb10d497ae1383c1815dbe4a88]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2025/1321/regulation/42) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-947d1ca792fc3af6fce1899b68331148]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2025/1321/regulation/43) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-947d1ca792fc3af6fce1899b68331148]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2025/1321/regulation/43) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-c61737b845c41b75fe3004722382f1f4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2025/1321/regulation/44) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-c61737b845c41b75fe3004722382f1f4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2025/1321/regulation/44) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-730f899dc33b16f9e9c5f826591c1c8f]: Textual amendment: Words in [reg. 44(10)(b)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/44/10/b) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(13)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/13)
+[^c-730f899dc33b16f9e9c5f826591c1c8f]: Textual amendment: Words in [reg. 44(10)(b)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/44/10/b) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(13)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/13)
 
-[^key-9814ed85ff60ec8fc806e8ede66c57fd]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2025/1321/regulation/45) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-9814ed85ff60ec8fc806e8ede66c57fd]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2025/1321/regulation/45) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-326a8a2970732124762ddd491cfc3c84]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2025/1321/regulation/46) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-326a8a2970732124762ddd491cfc3c84]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2025/1321/regulation/46) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-6a595fd1299361782f25c91519f1a035]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2025/1321/regulation/47) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-6a595fd1299361782f25c91519f1a035]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2025/1321/regulation/47) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-a8cbba92e0863f00a99c42a02e2fe37c]: Textual amendment: Words in [reg. 47(4)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/47/4) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(14)(a)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/14/a)
+[^c-a8cbba92e0863f00a99c42a02e2fe37c]: Textual amendment: Words in [reg. 47(4)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/47/4) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(14)(a)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/14/a)
 
-[^key-da3fc02c2cae96e79993bdce06dfd04f]: Textual amendment: Words in [reg. 47(5)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/47/5) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(14)(b)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/14/b)
+[^c-da3fc02c2cae96e79993bdce06dfd04f]: Textual amendment: Words in [reg. 47(5)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/47/5) substituted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(14)(b)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/14/b)
 
-[^key-1c4ec6e918b414cc6f704b704b1380cd]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2025/1321/regulation/48) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-1c4ec6e918b414cc6f704b704b1380cd]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2025/1321/regulation/48) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-1a3b0848d409425d4e0e21c60acc63d1]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2025/1321/regulation/49) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-1a3b0848d409425d4e0e21c60acc63d1]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2025/1321/regulation/49) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-378f268ac1d96a144b9dd554d33eb9cb]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2025/1321/regulation/50) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-378f268ac1d96a144b9dd554d33eb9cb]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2025/1321/regulation/50) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-c65a897b417e9cf6e87441e51f970c30]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/50/1) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(15)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/15)
+[^c-c65a897b417e9cf6e87441e51f970c30]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/50/1) inserted (20.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(15)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/15)
 
-[^key-e1e49df89860a8887dd213f7a41444e0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2025/1321/regulation/51) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-e1e49df89860a8887dd213f7a41444e0]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2025/1321/regulation/51) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-344813b0b471c6620f27777bca537634]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2025/1321/regulation/52) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-344813b0b471c6620f27777bca537634]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2025/1321/regulation/52) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00036]: Footnote: Section 30A(7) of the 1984 Act provides that to determine a section 30A application, the 1984 Act and the building regulations apply in relation to the Welsh Ministers as they apply to the building control authority.
 
-[^key-f039769e5671a3a470c689c2a64a011c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2025/1321/regulation/53) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-f039769e5671a3a470c689c2a64a011c]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2025/1321/regulation/53) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-02741f9b212a64753629e5007a92fa74]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2025/1321/regulation/54) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-02741f9b212a64753629e5007a92fa74]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2025/1321/regulation/54) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-44376188ef350091bf308d92e9ccea5e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2025/1321/regulation/55) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-44376188ef350091bf308d92e9ccea5e]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2025/1321/regulation/55) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-9480971caa5f263368f752148345575f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2025/1321/regulation/56) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-9480971caa5f263368f752148345575f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2025/1321/regulation/56) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-7bb29b1d56f1f68a04cd9f0b232fa994]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2025/1321/regulation/57) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-7bb29b1d56f1f68a04cd9f0b232fa994]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2025/1321/regulation/57) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-7a9f109d5ed9837a627937bb30860d5d]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2025/1321/regulation/58) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-7a9f109d5ed9837a627937bb30860d5d]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2025/1321/regulation/58) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-59cfb39ca68c32e4972fd414a672637a]: Commencement: [Reg. 59](https://www.legislation.gov.uk/wsi/2025/1321/regulation/59) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-59cfb39ca68c32e4972fd414a672637a]: Commencement: [Reg. 59](https://www.legislation.gov.uk/wsi/2025/1321/regulation/59) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-0e9b188953ca85deb1bef5ceaf1e5085]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-0e9b188953ca85deb1bef5ceaf1e5085]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00037]: Footnote: Regulation 11V(2)(b) was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
@@ -2274,32 +2274,32 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00044]: Footnote: Regulation 11U was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-0d4c3d05092ac65c23190a4e1c22a409]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-0d4c3d05092ac65c23190a4e1c22a409]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00045]: Footnote: Part 2B was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
 [^f00046]: Footnote: Regulation 11V was inserted by [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
-[^key-8ed05ac5030e877064a2349cade6c0be]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/3) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-8ed05ac5030e877064a2349cade6c0be]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/3) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-ee5aa4dde10ad1a13a49f82695ff59d5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/4) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-ee5aa4dde10ad1a13a49f82695ff59d5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/4) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-7738291ad2289defb760a029e2efd5ac]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/5) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-7738291ad2289defb760a029e2efd5ac]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/5) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-ac9cf07022f750caf13d3dc68ef006c4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/6) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-ac9cf07022f750caf13d3dc68ef006c4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2025/1321/schedule/1/paragraph/6) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-6f9a1334d8a0e0ea809a3cbdbecfed26]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-6f9a1334d8a0e0ea809a3cbdbecfed26]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-611e0a84a746f5d5fb26e56310176b1c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-611e0a84a746f5d5fb26e56310176b1c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-49f0e016fb7392e2c14a725757687c69]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/3) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-49f0e016fb7392e2c14a725757687c69]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/3) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
-[^key-97f8c91203ded8596da62a77c118f77d]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/3) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(16)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/16)
+[^c-97f8c91203ded8596da62a77c118f77d]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2025/1321/schedule/2/paragraph/3) omitted (20.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2026 (W.S.I. 2026/112)](https://www.legislation.gov.uk/wsi/2026/112), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/112/regulation/1/2), [7(16)](https://www.legislation.gov.uk/wsi/2026/112/regulation/7/16)
 
-[^key-f5fbb7ae6a5125b00189202af9d17001]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2025/1321/schedule/3/paragraph/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-f5fbb7ae6a5125b00189202af9d17001]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2025/1321/schedule/3/paragraph/1) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
 
 [^f00047]: Footnote: [S.I. 2025/1320 (W. 215)](https://www.legislation.gov.uk/wsi/2025/1320).
 
 [^f00048]: Footnote: [S.I. 2024/1268 (W. 214)](https://www.legislation.gov.uk/wsi/2024/1268).
 
-[^key-8190462baf8ad3339d14be576dfa8d57]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2025/1321/schedule/3/paragraph/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)
+[^c-8190462baf8ad3339d14be576dfa8d57]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2025/1321/schedule/3/paragraph/2) in force at 1.7.2026, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3)

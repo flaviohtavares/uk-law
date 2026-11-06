@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.18. False claim of status as creditor, etc[^key-adad6a6a63eafb3b16391158993a6912]
+## 12.18. False claim of status as creditor, etc[^c-adad6a6a63eafb3b16391158993a6912]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adad6a6a63eafb3b16391158993a6912]: Commencement: [Rule 12.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-adad6a6a63eafb3b16391158993a6912]: Commencement: [Rule 12.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

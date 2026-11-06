@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Time limit for exercise of authority to acquire land compulsorily or take land temporarily[^key-0a3f0974f8f7c4e0518b3c0f56f60408]
+## 26. Time limit for exercise of authority to acquire land compulsorily or take land temporarily[^c-0a3f0974f8f7c4e0518b3c0f56f60408]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a3f0974f8f7c4e0518b3c0f56f60408]: Commencement: Art. 26 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-0a3f0974f8f7c4e0518b3c0f56f60408]: Commencement: Art. 26 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00042]: Footnote: Section 4 was amended by sections 184, 185 and 199(2) of, and paragraphs 1 and 2 of Part 1 of Schedule 13 to, the Housing and Planning Act 2016.

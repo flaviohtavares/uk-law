@@ -32,10 +32,10 @@ summary: ''
 
 (4) Schedule 1 (enlistment of men in the reserve forces) shall have effect.
 
-(5)[^key-f0e59bac41c2e42a183aa904533b0077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f0e59bac41c2e42a183aa904533b0077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c8319341]: Textual amendment: Words in s. 9 substituted (1.7.1997) by [1997 c. 23](https://www.legislation.gov.uk/ukpga/1997/23), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/1997/23/section/8/2), [9(2)](https://www.legislation.gov.uk/ukpga/1997/23/section/9/2) (with [s. 7(3)](https://www.legislation.gov.uk/ukpga/1997/23/section/7/3), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1997/23/schedule/2/paragraph/6))
 
-[^key-f0e59bac41c2e42a183aa904533b0077]: Textual amendment: S. 9(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f0e59bac41c2e42a183aa904533b0077]: Textual amendment: S. 9(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

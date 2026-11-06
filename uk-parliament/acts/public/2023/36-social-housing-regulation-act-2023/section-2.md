@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Advisory panel[^key-e387a0c249f88ce71584b1eefcfb8828][^key-636dfd3bbd0a612cf117a02517920e25]
+## 2. Advisory panel[^c-e387a0c249f88ce71584b1eefcfb8828][^c-636dfd3bbd0a612cf117a02517920e25]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ After section 96 of the Housing and Regeneration Act 2008 insert—
 
 ## Annotations
 
-[^key-e387a0c249f88ce71584b1eefcfb8828]: Commencement: S. 2 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-e387a0c249f88ce71584b1eefcfb8828]: Commencement: S. 2 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-636dfd3bbd0a612cf117a02517920e25]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/36/section/2) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/b)
+[^c-636dfd3bbd0a612cf117a02517920e25]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/36/section/2) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/b)

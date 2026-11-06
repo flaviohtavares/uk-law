@@ -50,7 +50,7 @@ Such a scheme is referred to in this Act as an armed forces pension scheme.
 
 Such a scheme is referred to in this Act as an armed and reserve forces compensation scheme.
 
-(2A)[^key-8669266392367ee9cca150d7425f4090] Subsections (1) and (2) are subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(2A)[^c-8669266392367ee9cca150d7425f4090] Subsections (1) and (2) are subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 (3) The Secretary of State may provide for any scheme under this section to be administered by another person.
 
@@ -434,7 +434,7 @@ Section 7
 
 ## Annotations
 
-[^key-8669266392367ee9cca150d7425f4090]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/ukpga/2004/32/section/1/2A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/28) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(m)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/m)
+[^c-8669266392367ee9cca150d7425f4090]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/ukpga/2004/32/section/1/2A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/28) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(m)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/m)
 
 [^c2088536]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/32/section/5) wholly in force at 6.4.2005; [s. 5](https://www.legislation.gov.uk/ukpga/2004/32/section/5) not in force at Royal Assent see [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8); [s. 5](https://www.legislation.gov.uk/ukpga/2004/32/section/5) in force for certain purposes at 21.1.2005 by [S.I. 2005/116](https://www.legislation.gov.uk/uksi/2005/116), [art. 2](https://www.legislation.gov.uk/uksi/2005/116/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/116/schedule); [s. 5](https://www.legislation.gov.uk/ukpga/2004/32/section/5) in force for further certain purposes at 22.2.2005 and at 6.4.2005 insofar as not already in force by [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2](https://www.legislation.gov.uk/uksi/2005/356/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2005/356/schedule/1), [2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
 

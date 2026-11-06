@@ -39,13 +39,13 @@ not later than 30 days[^c20073111] after the end of the referendum period.
 - (a) the person making the claim, or
 - (b) the person with whose authority the expenses in question were incurred,
 
-may apply in England and Wales to the High Court or the county court or, in Northern Ireland,[^key-4afb92e3933b47cb050956f4003f3d27] to the High Court or a county court or, in Scotland, to the Court of Session or the sheriff for leave for the claim to be paid although sent in after the end of the period mentioned in that subsection; and the court, if satisfied that for any special reason it is appropriate to do so, may by order grant the leave.
+may apply in England and Wales to the High Court or the county court or, in Northern Ireland,[^c-4afb92e3933b47cb050956f4003f3d27] to the High Court or a county court or, in Scotland, to the Court of Session or the sheriff for leave for the claim to be paid although sent in after the end of the period mentioned in that subsection; and the court, if satisfied that for any special reason it is appropriate to do so, may by order grant the leave.
 
 (5) Nothing in subsection (1) or (2) shall apply in relation to any sum paid in pursuance of the order of leave.
 
 (6) Subsection (2) is without prejudice to any rights of a creditor of a permitted participant to obtain payment before the end of the period allowed under that subsection.
 
-(7)[^key-fa188383adb5b0085ed05f60b19cacf3] Subsections (7) to (10) of section 77 shall apply for the purposes of this section as if—
+(7)[^c-fa188383adb5b0085ed05f60b19cacf3] Subsections (7) to (10) of section 77 shall apply for the purposes of this section as if—
 
 - (a) any reference to subsection (1), (2) or (4) of that section were a reference to subsection (1), (2) or (4) above; and
 - (b) any reference to campaign expenditure were a reference to referendum expenses; and
@@ -61,6 +61,6 @@ may apply in England and Wales to the High Court or the county court or, in Nort
 
 [^c20073131]: Textual amendment: Words in s. 115(2) substituted (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2006/22/section/65/3/b), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/22) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))
 
-[^key-4afb92e3933b47cb050956f4003f3d27]: Textual amendment: Words in s. 115(4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4afb92e3933b47cb050956f4003f3d27]: Textual amendment: Words in s. 115(4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 121(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/121/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-fa188383adb5b0085ed05f60b19cacf3]: Modification: S. 115(7) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/24); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-fa188383adb5b0085ed05f60b19cacf3]: Modification: S. 115(7) modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/24); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

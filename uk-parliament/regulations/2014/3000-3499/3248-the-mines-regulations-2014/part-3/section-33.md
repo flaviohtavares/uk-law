@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Precautions against inrushes[^key-07ee1d4d50bb0c84a5d9b30368f061d0]
+## 33. Precautions against inrushes[^c-07ee1d4d50bb0c84a5d9b30368f061d0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is prevented.
 
 ## Annotations
 
-[^key-07ee1d4d50bb0c84a5d9b30368f061d0]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/3248/regulation/33) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-07ee1d4d50bb0c84a5d9b30368f061d0]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/3248/regulation/33) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

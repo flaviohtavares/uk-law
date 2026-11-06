@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Application of the 1981 Act[^key-0f880fac70d9669ef5ffe9667cb617c0]
+## 30. Application of the 1981 Act[^c-0f880fac70d9669ef5ffe9667cb617c0]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Omit section 5A[^f00048] (time limit for general vesting declaration).
 
-(5) In section 5B(1)[^f00049] (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 5A” substitute “section 118 (legal challenges relating to applications for orders granting development consent) of[^key-8668d425b79424074ce02668e06900e0] the Planning Act 2008, the five year period mentioned in article 26 (time limit for exercise of authority to acquire land compulsorily or take land temporarily) of the Portishead Branch Line (MetroWest Phase 1) Order 2022”.
+(5) In section 5B(1)[^f00049] (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 5A” substitute “section 118 (legal challenges relating to applications for orders granting development consent) of[^c-8668d425b79424074ce02668e06900e0] the Planning Act 2008, the five year period mentioned in article 26 (time limit for exercise of authority to acquire land compulsorily or take land temporarily) of the Portishead Branch Line (MetroWest Phase 1) Order 2022”.
 
 (6) In section 6(1)(b)[^f00050] (notices after execution of declaration) for “section 15 of, or paragraph 6 of Schedule 1 to, the Acquisition of Land Act 1981” substitute “section 134 (notice of authorisation of compulsory acquisition) of the Planning Act 2008”.
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0f880fac70d9669ef5ffe9667cb617c0]: Commencement: Art. 30 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-0f880fac70d9669ef5ffe9667cb617c0]: Commencement: Art. 30 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00047]: Footnote: Section 5 was amended by section 183 of, and Schedule 15 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
@@ -52,7 +52,7 @@ summary: ''
 
 [^f00049]: Footnote: Section 5B was inserted by section 202(2) of the Housing and Planning Act 2016.
 
-[^key-8668d425b79424074ce02668e06900e0]: Textual amendment: Words in [art. 30(5)](https://www.legislation.gov.uk/uksi/2022/1194/article/30/5) substituted (17.10.2025) by [The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025 (S.I. 2025/1097)](https://www.legislation.gov.uk/uksi/2025/1097), [art. 1](https://www.legislation.gov.uk/uksi/2025/1097/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1097/schedule)
+[^c-8668d425b79424074ce02668e06900e0]: Textual amendment: Words in [art. 30(5)](https://www.legislation.gov.uk/uksi/2022/1194/article/30/5) substituted (17.10.2025) by [The Portishead Branch Line (MetroWest Phase 1) (Correction) Order 2025 (S.I. 2025/1097)](https://www.legislation.gov.uk/uksi/2025/1097), [art. 1](https://www.legislation.gov.uk/uksi/2025/1097/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1097/schedule)
 
 [^f00050]: Footnote: Section 6 was amended by section 183 of, and paragraphs 4 and 7 of Schedule 15 to, the Housing and Planning Act 2016 and section 4 of, and paragraph 52(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Loading, stowage, unloading and cleaning of containers, tanks and vehicles[^key-74b41a3c7ccf70b58316fc0621e88a99]
+## 19. Loading, stowage, unloading and cleaning of containers, tanks and vehicles[^c-74b41a3c7ccf70b58316fc0621e88a99]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ are securely closed prior to the commencement of and throughout the journey.
 
 ## Annotations
 
-[^key-74b41a3c7ccf70b58316fc0621e88a99]: Commencement: Reg. 19 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-74b41a3c7ccf70b58316fc0621e88a99]: Commencement: Reg. 19 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Cancellation of designation: further provision[^key-7355453bc4c784d538cc5f04df5287fa]
+## 77. Cancellation of designation: further provision[^c-7355453bc4c784d538cc5f04df5287fa]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ as the Lord Chancellor considers necessary or expedient in consequence of the ca
 
 ## Annotations
 
-[^key-7355453bc4c784d538cc5f04df5287fa]: Commencement: S. 77 in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-7355453bc4c784d538cc5f04df5287fa]: Commencement: S. 77 in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)

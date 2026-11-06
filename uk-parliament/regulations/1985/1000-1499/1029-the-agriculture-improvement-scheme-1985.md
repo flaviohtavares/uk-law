@@ -33,7 +33,7 @@ AGRICULTURE
 
 HORTICULTURE
 
-The Agriculture Improvement Scheme 1985 (revoked)[^key-623b846bc8353c66725b9da5a8bdc11b]
+The Agriculture Improvement Scheme 1985 (revoked)[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 Approved by both Houses of Parliament
 
@@ -55,61 +55,61 @@ Remainder
 
 1st October 1985
 
-[^key-623b846bc8353c66725b9da5a8bdc11b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623b846bc8353c66725b9da5a8bdc11b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 1. Citation, extent and commencement[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 2. Interpretation[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of grants[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 3. Payment of grants[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restrictions on payment of grant[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 4. Restrictions on payment of grant[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amounts of grant[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 5. Amounts of grant[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Claims for grant[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 6. Claims for grant[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Closing dates for claims[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 7. Closing dates for claims[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Standard costs[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 8. Standard costs[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Reduction or withholding of grant[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 9. Reduction or withholding of grant[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Variation of the 1980 Scheme[^key-623b846bc8353c66725b9da5a8bdc11b]
+## 10. Variation of the 1980 Scheme[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-623b846bc8353c66725b9da5a8bdc11b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623b846bc8353c66725b9da5a8bdc11b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ELIGIBLE WORKS, FACILITIES AND TRANSACTIONS AND RATES OF GRANT[^key-623b846bc8353c66725b9da5a8bdc11b]
+## SCHEDULE 1 — ELIGIBLE WORKS, FACILITIES AND TRANSACTIONS AND RATES OF GRANT[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 Paragraphs 3(1), 4(1) and (2), 5(1), (2) and (4) and 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — VARIATION OF THE 1980 SCHEME[^key-623b846bc8353c66725b9da5a8bdc11b]
+## SCHEDULE 2 — VARIATION OF THE 1980 SCHEME[^c-623b846bc8353c66725b9da5a8bdc11b]
 
 Paragraph 10
 
@@ -117,10 +117,10 @@ Paragraph 10
 
 **May not be in force at this date. Check the source.**
 
-[^key-623b846bc8353c66725b9da5a8bdc11b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-623b846bc8353c66725b9da5a8bdc11b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-623b846bc8353c66725b9da5a8bdc11b]: Textual amendment: Scheme revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-623b846bc8353c66725b9da5a8bdc11b]: Textual amendment: Scheme revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

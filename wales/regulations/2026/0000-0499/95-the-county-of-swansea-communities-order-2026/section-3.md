@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Mawr, Clydach, Birchgrove, and Morriston — changes in community and community ward boundaries and consequential changes to electoral arrangements[^key-9507c95645418b5a04570c0135fb8921]
+## 3. Mawr, Clydach, Birchgrove, and Morriston — changes in community and community ward boundaries and consequential changes to electoral arrangements[^c-9507c95645418b5a04570c0135fb8921]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The part of the Craig-cefn-parc ward of the community of Mawr shown shaded on Ma
 
 ## Annotations
 
-[^key-9507c95645418b5a04570c0135fb8921]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2026/95/article/3) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-9507c95645418b5a04570c0135fb8921]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2026/95/article/3) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19B. Extended meaning of benefit” etc. in Part 1[^key-2cb1170292ef35df54782cc6ea65a87e]
+## 19B. Extended meaning of benefit” etc. in Part 1[^c-2cb1170292ef35df54782cc6ea65a87e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In this Part references to “benefit” or “contributory benefit” include b
 
 ## Annotations
 
-[^key-2cb1170292ef35df54782cc6ea65a87e]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/ukpga/1992/7/section/19B) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 5](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/5)
+[^c-2cb1170292ef35df54782cc6ea65a87e]: Textual amendment: [S. 19B](https://www.legislation.gov.uk/ukpga/1992/7/section/19B) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 5](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/5)

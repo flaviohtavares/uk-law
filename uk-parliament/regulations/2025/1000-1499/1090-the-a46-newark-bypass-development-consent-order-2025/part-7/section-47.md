@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Application of landlord and tenant law[^key-ba606b5c293882b43c1334e9140e9ec3]
+## 47. Application of landlord and tenant law[^c-ba606b5c293882b43c1334e9140e9ec3]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-ba606b5c293882b43c1334e9140e9ec3]: Commencement: Art. 47 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-ba606b5c293882b43c1334e9140e9ec3]: Commencement: Art. 47 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

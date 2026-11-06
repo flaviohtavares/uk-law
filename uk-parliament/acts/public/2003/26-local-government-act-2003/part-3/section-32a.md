@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Power to pay grant to joint committees of London councils[^key-3b40f09cafa0d82be6efe3f4ce6e3ffd]
+## 32A. Power to pay grant to joint committees of London councils[^c-3b40f09cafa0d82be6efe3f4ce6e3ffd]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
   - (a) all the London borough councils, and
   - (b) the Common Council of the City of London.
 
-## 32A. Power of strategic authorities to pay grant[^key-9a6c41c15b4dac582b8b5ee88e5ff59d]
+## 32A. Power of strategic authorities to pay grant[^c-9a6c41c15b4dac582b8b5ee88e5ff59d]
 
 *Extent: E+W*
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b40f09cafa0d82be6efe3f4ce6e3ffd]: Textual amendment: S. 32A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 66](https://www.legislation.gov.uk/ukpga/2026/23/section/66), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-3b40f09cafa0d82be6efe3f4ce6e3ffd]: Textual amendment: S. 32A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 66](https://www.legislation.gov.uk/ukpga/2026/23/section/66), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-9a6c41c15b4dac582b8b5ee88e5ff59d]: Textual amendment: S. 32A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 42(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/42/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-9a6c41c15b4dac582b8b5ee88e5ff59d]: Textual amendment: S. 32A inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 42(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/42/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

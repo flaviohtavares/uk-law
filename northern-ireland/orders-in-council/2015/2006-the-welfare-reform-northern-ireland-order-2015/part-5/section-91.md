@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Hospital in-patients[^key-92ee30d124c08b2759451337dfea5ff0]
+## 91. Hospital in-patients[^c-92ee30d124c08b2759451337dfea5ff0]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92ee30d124c08b2759451337dfea5ff0]: Commencement: [Art. 91](https://www.legislation.gov.uk/nisi/2015/2006/article/91) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/d)
+[^c-92ee30d124c08b2759451337dfea5ff0]: Commencement: [Art. 91](https://www.legislation.gov.uk/nisi/2015/2006/article/91) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/d)

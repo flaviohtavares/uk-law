@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Committal for sentence of dangerous adult offenders[^key-951c70bbfe4608a916431cd44ed4fedd]
+## 15. Committal for sentence of dangerous adult offenders[^c-951c70bbfe4608a916431cd44ed4fedd]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) on the summary trial of a specified offence (see section 306) triable either way a person aged 18 or over is convicted of the offence, and
 - (b) the court is of the opinion that an extended sentence of detention in a young offender institution or of imprisonment (see section 266 or 279) would be available in relation to the offence.
 
-(1A)[^key-ff7388e29d1c967000edbec77fce5459] This section also applies where—
+(1A)[^c-ff7388e29d1c967000edbec77fce5459] This section also applies where—
 
 - (a) on the summary trial of an offence specified in Schedule 17A triable either way a person is convicted of the offence, and
 - (b) the court is of the opinion that the circumstances are such that a serious terrorism sentence (see section 268A or 282A) may be required to be imposed.
@@ -38,12 +38,12 @@ summary: ''
 
 (5) Nothing the court does under this section may be challenged or be the subject of any appeal in any court on the ground that it is inconsistent with an indication of sentence.
 
-(6) Nothing in this section prevents the court from committing an offender convicted of an offence[^key-dd421f98a526506d3f9da86c907fccc8] to the Crown Court for sentence under section 14 or 18 if the provisions of that section are satisfied.
+(6) Nothing in this section prevents the court from committing an offender convicted of an offence[^c-dd421f98a526506d3f9da86c907fccc8] to the Crown Court for sentence under section 14 or 18 if the provisions of that section are satisfied.
 
 ## Annotations
 
-[^key-951c70bbfe4608a916431cd44ed4fedd]: Commencement: S. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-951c70bbfe4608a916431cd44ed4fedd]: Commencement: S. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ff7388e29d1c967000edbec77fce5459]: Textual amendment: [S. 15(1A)](https://www.legislation.gov.uk/ukpga/2020/17/section/15/1A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/2/a)
+[^c-ff7388e29d1c967000edbec77fce5459]: Textual amendment: [S. 15(1A)](https://www.legislation.gov.uk/ukpga/2020/17/section/15/1A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/2/a)
 
-[^key-dd421f98a526506d3f9da86c907fccc8]: Textual amendment: Words in [s. 15(6)](https://www.legislation.gov.uk/ukpga/2020/17/section/15/6) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/2/b)
+[^c-dd421f98a526506d3f9da86c907fccc8]: Textual amendment: Words in [s. 15(6)](https://www.legislation.gov.uk/ukpga/2020/17/section/15/6) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/2/b)

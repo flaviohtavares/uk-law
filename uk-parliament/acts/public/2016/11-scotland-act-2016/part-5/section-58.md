@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Fuel poverty: support schemes[^key-8a82d1b3fbacb947810950f6e0419022][^key-b5f9307166dc67f644705943fce412c0]
+## 58. Fuel poverty: support schemes[^c-8a82d1b3fbacb947810950f6e0419022][^c-b5f9307166dc67f644705943fce412c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a82d1b3fbacb947810950f6e0419022]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2016/11/section/58) in force at 1.12.2017 for specified purposes by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a)
+[^c-8a82d1b3fbacb947810950f6e0419022]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2016/11/section/58) in force at 1.12.2017 for specified purposes by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a)
 
-[^key-b5f9307166dc67f644705943fce412c0]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2016/11/section/58) in force at 1.4.2018 in so far as not already in force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-b5f9307166dc67f644705943fce412c0]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2016/11/section/58) in force at 1.4.2018 in so far as not already in force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)

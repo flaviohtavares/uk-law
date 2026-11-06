@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Review of the statement of purpose[^key-4c42ec6c1ee85a5b681c3718e30552d5]
+## 4. Review of the statement of purpose[^c-4c42ec6c1ee85a5b681c3718e30552d5]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The registered person must—
 
 ## Annotations
 
-[^key-4c42ec6c1ee85a5b681c3718e30552d5]: Commencement: Reg. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-4c42ec6c1ee85a5b681c3718e30552d5]: Commencement: Reg. 4 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -51,8 +51,8 @@ summary: ''
 - “**post**” means pre-paid delivery by a postal service which seeks to deliver documents within the United Kingdom no later than the next working day in all or the majority of cases, and to deliver outside the United Kingdom within such a period as is reasonable in all the circumstances,
 - “**prior chargee**” means the proprietor of a registered charge to whom notice is being given under section 49(1) of the Act,
 - “**subsequent chargee**” means the chargee giving notice under section 49(1) of the Act,
-- [^key-6a78b81e730a35679214c6ef84492879]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-6a78b81e730a35679214c6ef84492879]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a78b81e730a35679214c6ef84492879]: Textual amendment: Words in rule 107(6) omitted (10.11.2008) by virtue of [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/38) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-6a78b81e730a35679214c6ef84492879]: Textual amendment: Words in rule 107(6) omitted (10.11.2008) by virtue of [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/38) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

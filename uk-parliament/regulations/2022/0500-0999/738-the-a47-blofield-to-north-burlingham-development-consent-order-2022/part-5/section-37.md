@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Apparatus and rights of statutory undertakers in stopped up streets[^key-eabf60577a25486da3d2a19bad9acec4]
+## 37. Apparatus and rights of statutory undertakers in stopped up streets[^c-eabf60577a25486da3d2a19bad9acec4]
 
 *Extent: E+W+S*
 
 (1) Where a street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), any statutory utility whose apparatus is under, in, on, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this article, as if this Order had not been made.
 
-(2) Where a street is altered, diverted, prohibited or restricted under article 16 (temporary alteration, diversion, prohibition and restriction of use of streets)[^key-f44b5eef833c7d531a2a8412a5358b5d] any statutory utility whose apparatus is under, in, on, over, along or across the street may, and if reasonably requested to do so by the undertaker must—
+(2) Where a street is altered, diverted, prohibited or restricted under article 16 (temporary alteration, diversion, prohibition and restriction of use of streets)[^c-f44b5eef833c7d531a2a8412a5358b5d] any statutory utility whose apparatus is under, in, on, over, along or across the street may, and if reasonably requested to do so by the undertaker must—
 
 - (a) remove the apparatus and place it or other apparatus provided in substitution for it in such other position as the utility may reasonably determine and have power to place it; or
 - (b) provide other apparatus in substitution for the existing apparatus and place it in such position as described in sub-paragraph (a).
@@ -58,8 +58,8 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-eabf60577a25486da3d2a19bad9acec4]: Commencement: Art. 37 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-eabf60577a25486da3d2a19bad9acec4]: Commencement: Art. 37 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
-[^key-f44b5eef833c7d531a2a8412a5358b5d]: Textual amendment: Words in [art. 37(2)](https://www.legislation.gov.uk/uksi/2022/738/article/37/2) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
+[^c-f44b5eef833c7d531a2a8412a5358b5d]: Textual amendment: Words in [art. 37(2)](https://www.legislation.gov.uk/uksi/2022/738/article/37/2) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
 
 [^f00076]: Footnote: There are amendments to section 151 which are not relevant to this Order.

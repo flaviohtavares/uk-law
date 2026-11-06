@@ -22,7 +22,7 @@ summary: ''
 
 Article 44
 
-### 1. Applications made for certain approvals[^key-24c2c345828d1202359799a797478135]
+### 1. Applications made for certain approvals[^c-24c2c345828d1202359799a797478135]
 
 (1) Where an application has been made to a discharging authority for any consent, agreement or approval required or contemplated by any of the provisions of this Order the discharging authority must give notice to the undertaker of their decision on the application before the end of the decision period.
 
@@ -32,7 +32,7 @@ Article 44
 - (b) where further information is requested under paragraph 2, 5 weeks from the day immediately following that on which further information has been supplied by the undertaker under paragraph 2; or
 - (c) such longer period as may be agreed by the undertaker and the discharging authority in writing before the end of the period in paragraph (a) or (b).
 
-### 2. Further information[^key-ebeae184a54cda9fe8590a4d3ed5183e]
+### 2. Further information[^c-ebeae184a54cda9fe8590a4d3ed5183e]
 
 (1) In relation to any application to which this Schedule applies, the discharging authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -40,7 +40,7 @@ Article 44
 
 (3) If the discharging authority does not give such notification as specified in sub-paragraph (2) it is to be deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Fees[^key-935511a6f7c96138d525d18b0c441d72]
+### 3. Fees[^c-935511a6f7c96138d525d18b0c441d72]
 
 (1) Where an application is made to the discharging authority for consent, agreement or approval in respect of a requirement, a fee of £97.00 is to be paid to that authority.
 
@@ -51,7 +51,7 @@ Article 44
 
 unless within that period the undertaker agrees, in writing, that the fee is to be retained by the discharging authority and credited in respect of a future application.
 
-### 4. Appeals[^key-b558c98fbdf39b3850ebd46b1af32edf]
+### 4. Appeals[^c-b558c98fbdf39b3850ebd46b1af32edf]
 
 (1) The undertaker may appeal in the event that—
 
@@ -94,7 +94,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (12) On application by the discharging authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the Planning Practice Guidance published by the Department for Communities and Local Government on 6th March 2014 or any circular or guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 11[^key-1b5fcf322eabdf8d67819fc7d036818d]
+### 5. Interpretation of Schedule 11[^c-1b5fcf322eabdf8d67819fc7d036818d]
 
 In this Schedule—
 
@@ -102,12 +102,12 @@ In this Schedule—
 
 ## Annotations
 
-[^key-24c2c345828d1202359799a797478135]: Commencement: Sch. 11 para. 1 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-24c2c345828d1202359799a797478135]: Commencement: Sch. 11 para. 1 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
-[^key-ebeae184a54cda9fe8590a4d3ed5183e]: Commencement: Sch. 11 para. 2 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-ebeae184a54cda9fe8590a4d3ed5183e]: Commencement: Sch. 11 para. 2 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
-[^key-935511a6f7c96138d525d18b0c441d72]: Commencement: Sch. 11 para. 3 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-935511a6f7c96138d525d18b0c441d72]: Commencement: Sch. 11 para. 3 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
-[^key-b558c98fbdf39b3850ebd46b1af32edf]: Commencement: Sch. 11 para. 4 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-b558c98fbdf39b3850ebd46b1af32edf]: Commencement: Sch. 11 para. 4 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
-[^key-1b5fcf322eabdf8d67819fc7d036818d]: Commencement: Sch. 11 para. 5 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-1b5fcf322eabdf8d67819fc7d036818d]: Commencement: Sch. 11 para. 5 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

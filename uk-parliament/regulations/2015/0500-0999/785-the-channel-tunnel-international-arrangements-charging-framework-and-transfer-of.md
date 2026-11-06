@@ -44,7 +44,7 @@ Coming into force in accordance with article
 
 The Secretary of State for Transport makes this Order in exercise of the powers conferred on the appropriate Minister by section 11of the Channel Tunnel Act 1987[^f00001].
 
-## 1. Citation and commencement[^key-9edf038e0f53f3517cdba00ddc5afb9a]
+## 1. Citation and commencement[^c-9edf038e0f53f3517cdba00ddc5afb9a]
 
 (1) This Order may be cited as the Channel Tunnel (International Arrangements) (Charging Framework and Transfer of Economic Regulation Functions) Order 2015.
 
@@ -52,33 +52,33 @@ The Secretary of State for Transport makes this Order in exercise of the powers 
 
 (3) The Secretary of State for Transport must give notice in the London, Edinburgh and Belfast Gazettes of the date provided for in paragraph (2).
 
-## 2. Interpretation[^key-3831cb510dd512f705a7d3fccb830ce6]
+## 2. Interpretation[^c-3831cb510dd512f705a7d3fccb830ce6]
 
 In this Order—
 
 - ”the 2005 Order” means the Channel Tunnel (International Arrangements) Order 2005[^f00002];
-- “[^key-67eaed899d81855a1305505d228b4e5c]**the 2016 Regulations**” means the Railway (Access, Management and Licensing of Railway Undertakings) Regulations 2016;
+- “[^c-67eaed899d81855a1305505d228b4e5c]**the 2016 Regulations**” means the Railway (Access, Management and Licensing of Railway Undertakings) Regulations 2016;
 - “the IGC regulation” means the regulation of the Intergovernmental Commission of 23rd March 2015 transferring economic rail regulation competence from the Intergovernmental Commission to the national regulatory bodies, setting out principles for cooperation between them and establishing a charging framework for the Channel Fixed Link; and
 - “Intergovernmental Commission” means the Commission established pursuant to Article 10 of the Treaty[^f00005].
 
-## 3. Application of the IGC regulation[^key-0c6bc52f139e552962fafa3a0bbf1aed]
+## 3. Application of the IGC regulation[^c-0c6bc52f139e552962fafa3a0bbf1aed]
 
 The IGC regulation, the text of which is set out in the Schedule, has effect.
 
-## 4. Revocation[^key-e43cb505c3d36ece21c344bd06452649]
+## 4. Revocation[^c-e43cb505c3d36ece21c344bd06452649]
 
 The 2005 Order, the Channel Tunnel (International Arrangements) (Amendment) Order 2008[^f00006] and the Channel Tunnel (International Arrangements) (Amendment) Order 2009[^f00007] are revoked.
 
-## 5. Supplemental provisions and savings[^key-afc3ba90f053c3f42305eb5e899cfe29]
+## 5. Supplemental provisions and savings[^c-afc3ba90f053c3f42305eb5e899cfe29]
 
 (1) This article is subject to Article 5 of the IGC regulation.
 
-(2) In any case where the 2016 Regulations[^key-368c9563a9da581b88573456d77fedf4], make provision equivalent to that made under or by virtue of the 2005 Order before its revocation by this Order, then—
+(2) In any case where the 2016 Regulations[^c-368c9563a9da581b88573456d77fedf4], make provision equivalent to that made under or by virtue of the 2005 Order before its revocation by this Order, then—
 
-- (a) in so far as anything done by any person under or by virtue of the 2005 Order could have been done by that person under such provisions of the 2016 Regulations[^key-7272600998c2a6ed539eef3452a9a33f], it is to have effect as if so done; and
+- (a) in so far as anything done by any person under or by virtue of the 2005 Order could have been done by that person under such provisions of the 2016 Regulations[^c-7272600998c2a6ed539eef3452a9a33f], it is to have effect as if so done; and
 - (b) in so far as anything that is in the process of being done by any person under or by virtue of the 2005 Order, immediately before its revocation, could continue to be done by that person under such provisions of the 2016 Regulations, it may continue to be so done.
 
-(3) Anything done or in the process of being done by the Intergovernmental Commission under or by virtue of the 2005 Order is to be treated as done or in the process of being done by the Office of Rail and Road[^key-6f9198290535ea00fe9325656566edb1].
+(3) Anything done or in the process of being done by the Intergovernmental Commission under or by virtue of the 2005 Order is to be treated as done or in the process of being done by the Office of Rail and Road[^c-6f9198290535ea00fe9325656566edb1].
 
 Signed by authority of the Secretary of State for Transport
 
@@ -90,7 +90,7 @@ Department for Transport
 
 24th March 2015
 
-## SCHEDULE — Regulation transferring economic rail regulation competence from the Intergovernmental Commission to the national regulatory bodies, setting out principles for cooperation between them and establishing a charging framework for the Channel Fixed Link[^key-34933ce1197e9d600a1cd1d7cc7dff9f]
+## SCHEDULE — Regulation transferring economic rail regulation competence from the Intergovernmental Commission to the national regulatory bodies, setting out principles for cooperation between them and establishing a charging framework for the Channel Fixed Link[^c-34933ce1197e9d600a1cd1d7cc7dff9f]
 
 Article 3
 
@@ -123,30 +123,30 @@ An impact assessment has not been produced in respect of this Order, since it ha
 
 [^f00001]: Footnote: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53). “Appropriate Minister” is defined in section 13(1) of that Act.
 
-[^key-9edf038e0f53f3517cdba00ddc5afb9a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/785/article/1) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+[^c-9edf038e0f53f3517cdba00ddc5afb9a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/785/article/1) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
 
-[^key-3831cb510dd512f705a7d3fccb830ce6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/785/article/2) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+[^c-3831cb510dd512f705a7d3fccb830ce6]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/785/article/2) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
 
 [^f00002]: Footnote: [S.I. 2005/3207](https://www.legislation.gov.uk/uksi/2005/3207), amended by [S.I. 2008/2366](https://www.legislation.gov.uk/uksi/2008/2366) and [2009/2081](https://www.legislation.gov.uk/uksi/2009/2081). All those instruments are revoked by this Order.
 
-[^key-67eaed899d81855a1305505d228b4e5c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/785/article/2) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+[^c-67eaed899d81855a1305505d228b4e5c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2015/785/article/2) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
 
 [^f00005]: Footnote: “Treaty” is defined in section 1(4) of the Channel Tunnel Act 1987.
 
-[^key-0c6bc52f139e552962fafa3a0bbf1aed]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/785/article/3) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+[^c-0c6bc52f139e552962fafa3a0bbf1aed]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/785/article/3) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
 
-[^key-e43cb505c3d36ece21c344bd06452649]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/785/article/4) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+[^c-e43cb505c3d36ece21c344bd06452649]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/785/article/4) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
 
 [^f00006]: Footnote: [S.I. 2008/2366](https://www.legislation.gov.uk/uksi/2008/2366).
 
 [^f00007]: Footnote: [S.I. 2009/2081](https://www.legislation.gov.uk/uksi/2009/2081).
 
-[^key-afc3ba90f053c3f42305eb5e899cfe29]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/785/article/5) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+[^c-afc3ba90f053c3f42305eb5e899cfe29]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/785/article/5) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
 
-[^key-368c9563a9da581b88573456d77fedf4]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/785/article/5/2) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+[^c-368c9563a9da581b88573456d77fedf4]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/785/article/5/2) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
 
-[^key-7272600998c2a6ed539eef3452a9a33f]: Textual amendment: Words in [art. 5(2)(a)(b)](https://www.legislation.gov.uk/uksi/2015/785/article/5/2/a/b) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
+[^c-7272600998c2a6ed539eef3452a9a33f]: Textual amendment: Words in [art. 5(2)(a)(b)](https://www.legislation.gov.uk/uksi/2015/785/article/5/2/a/b) substituted (E.W.S.) (29.7.2016) by [The Railways (Access, Management and Licensing of Railway Undertakings) Regulations 2016 (S.I. 2016/645)](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 15(4)](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/15/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4))
 
-[^key-6f9198290535ea00fe9325656566edb1]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2015/785/article/5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(nn)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/nn) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+[^c-6f9198290535ea00fe9325656566edb1]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2015/785/article/5) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(nn)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/nn) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
 
-[^key-34933ce1197e9d600a1cd1d7cc7dff9f]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/785/schedule) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)
+[^c-34933ce1197e9d600a1cd1d7cc7dff9f]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/785/schedule) in force at 15.6.2016 as notified in the London Gazette dated 24.6.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/785/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/785/article/1/3)

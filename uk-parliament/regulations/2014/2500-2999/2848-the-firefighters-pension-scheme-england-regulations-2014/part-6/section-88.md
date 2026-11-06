@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Eligible child’s pension payable on death of pensioner member[^key-b43925434406f4d1df946d88ce04cb2d]
+## 88. Eligible child’s pension payable on death of pensioner member[^c-b43925434406f4d1df946d88ce04cb2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b43925434406f4d1df946d88ce04cb2d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2014/2848/regulation/88) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b43925434406f4d1df946d88ce04cb2d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2014/2848/regulation/88) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

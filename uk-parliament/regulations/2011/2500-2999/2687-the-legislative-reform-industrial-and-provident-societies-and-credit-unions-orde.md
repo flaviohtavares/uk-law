@@ -58,7 +58,7 @@ In accordance with section 18(8) of that Act, the revised draft Order has been a
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-5c9f3e4cb9c5985ee17484b31e48aa70]
+### 1. Citation, commencement and extent[^c-5c9f3e4cb9c5985ee17484b31e48aa70]
 
 (1) This Order may be cited as the Legislative Reform (Industrial and Provident Societies and Credit Unions) Order 2011 and shall come into force as follows—
 
@@ -67,7 +67,7 @@ In accordance with section 18(8) of that Act, the revised draft Order has been a
 
 (2) This Order extends to Great Britain only, except article 22 which also extends to Northern Ireland.
 
-### 2. Interpretation[^key-ee85381a1c7de7469557d4c14dc17468]
+### 2. Interpretation[^c-ee85381a1c7de7469557d4c14dc17468]
 
 In this Order—
 
@@ -77,43 +77,43 @@ In this Order—
 
 ## PART 2 — Industrial and Provident Societies
 
-### 3. Maximum shareholding in society[^key-28f644791c07e6e6fd6c3d59daf24145]
+### 3. Maximum shareholding in society[^c-28f644791c07e6e6fd6c3d59daf24145]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Annual return[^key-28f644791c07e6e6fd6c3d59daf24145]
+### 4. Annual return[^c-28f644791c07e6e6fd6c3d59daf24145]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-28f644791c07e6e6fd6c3d59daf24145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-28f644791c07e6e6fd6c3d59daf24145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-28f644791c07e6e6fd6c3d59daf24145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-28f644791c07e6e6fd6c3d59daf24145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Industrial and Provident Societies and Credit Unions
 
-### 7. Provision of copies of rules[^key-28f644791c07e6e6fd6c3d59daf24145]
+### 7. Provision of copies of rules[^c-28f644791c07e6e6fd6c3d59daf24145]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Members under 18[^key-3fbdbcfe45f43a1797b54b107cde1757]
+### 8. Members under 18[^c-3fbdbcfe45f43a1797b54b107cde1757]
 
-(1)[^key-e891e75354ef6d1178b0aad5bce49776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e891e75354ef6d1178b0aad5bce49776] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 9[^f00011] of the 1979 Act (deposits by persons too young to be members), for “section 20 of the 1965 Act” substitute “any provision of the credit union’s rules”.
 
-### 9. Dissolution[^key-d46ce39762e9612868e4fdc73bb684a9]
+### 9. Dissolution[^c-d46ce39762e9612868e4fdc73bb684a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Publication of interim accounts[^key-34c2217aaacbf38c2b2bdd9901e99264]
+### 10. Publication of interim accounts[^c-34c2217aaacbf38c2b2bdd9901e99264]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Credit Unions
 
-**11.**[^key-927b3114597628c63bf7b1f31f757e2f] Articles 12 to 21 amend the 1979 Act.
+**11.**[^c-927b3114597628c63bf7b1f31f757e2f] Articles 12 to 21 amend the 1979 Act.
 
-### 12. Common bonds[^key-f7770c53bad0c40c0163323219a179e3]
+### 12. Common bonds[^c-f7770c53bad0c40c0163323219a179e3]
 
 (1) Section 1[^f00016] (registration under the Industrial and Provident Societies Act 1965) is amended as follows.
 
@@ -127,7 +127,7 @@ In this Order—
 
 (4) Omit subsections (3A) to (6).
 
-**13.**[^key-af37345576cd8e2519e3c3bbb769645e] After section 1 insert—
+**13.**[^c-af37345576cd8e2519e3c3bbb769645e] After section 1 insert—
 
 > **1A. Common bonds appropriate to a credit union**
 >
@@ -177,7 +177,7 @@ In this Order—
 >
 > (5) In this section “specified” means specified by order made by the Treasury.
 
-**14.**[^key-66ee9b40fab1e4ea1a3a4c7f336af780] (1) In section 5 (membership and voting rights)—
+**14.**[^c-66ee9b40fab1e4ea1a3a4c7f336af780] (1) In section 5 (membership and voting rights)—
 
 - (a) in subsection (5), for “ceases to fulfil the qualifications for admission to membership” substitute “ceases to fall within a common bond and as a result would not qualify for admission to membership”;
 - (b) in subsection (7), for “whether a common bond exists between the members of the credit union” substitute “whether the requirements of section 1B are met”.
@@ -206,11 +206,11 @@ In this Order—
 >
 > **4A.** The terms of admission to membership of the society, including any special provision for the insurance of members in relation to their shares.
 
-### 15. Corporate members[^key-378e410f21dea56e6add53ad60cb6584][^key-2912d6d46d72785fc5004a84b189c140][^key-1e2cc7562ee28ea4147ac2c137a09855]
+### 15. Corporate members[^c-378e410f21dea56e6add53ad60cb6584][^c-2912d6d46d72785fc5004a84b189c140][^c-1e2cc7562ee28ea4147ac2c137a09855]
 
-(1)[^key-378e410f21dea56e6add53ad60cb6584] In section 5, omit subsection (1).
+(1)[^c-378e410f21dea56e6add53ad60cb6584] In section 5, omit subsection (1).
 
-(2)[^key-378e410f21dea56e6add53ad60cb6584] After section 5 insert—
+(2)[^c-378e410f21dea56e6add53ad60cb6584] After section 5 insert—
 
 > **5A. Corporate members**
 >
@@ -233,7 +233,7 @@ In this Order—
 > - (b) an individual who is a member of the credit union in his capacity as a partner in a partnership; or
 > - (c) an individual who is a member of the credit union in his capacity as an officer or member of the governing body of an unincorporated association.
 
-(3)[^key-378e410f21dea56e6add53ad60cb6584] In section 11[^f00019] (loans)—
+(3)[^c-378e410f21dea56e6add53ad60cb6584] In section 11[^f00019] (loans)—
 
 - (a) in subsection (1), at the beginning, insert “Subject as follows,”;
 - (b) after subsection (1) insert—
@@ -245,13 +245,13 @@ In this Order—
 
 (4) In section 29[^f00020] (orders and regulations)—
 
-- (a)[^key-2912d6d46d72785fc5004a84b189c140] in subsection (2), after “Except as provided by section 23A(7),” insert “and”;
-- (b)[^key-1e2cc7562ee28ea4147ac2c137a09855] in subsection (2), before “A statutory instrument” insert “Subject to subsection (3),”;
-- (c)[^key-1e2cc7562ee28ea4147ac2c137a09855] after subsection (2) insert—
+- (a)[^c-2912d6d46d72785fc5004a84b189c140] in subsection (2), after “Except as provided by section 23A(7),” insert “and”;
+- (b)[^c-1e2cc7562ee28ea4147ac2c137a09855] in subsection (2), before “A statutory instrument” insert “Subject to subsection (3),”;
+- (c)[^c-1e2cc7562ee28ea4147ac2c137a09855] after subsection (2) insert—
 
   > (3) A statutory instrument containing an order under section 5A or section 11(1A) of this Act may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(5)[^key-1e2cc7562ee28ea4147ac2c137a09855] In section 31(1)[^f00021] (interpretation)—
+(5)[^c-1e2cc7562ee28ea4147ac2c137a09855] In section 31(1)[^f00021] (interpretation)—
 
 - (a) above the definition of “charitable” insert—
 
@@ -263,7 +263,7 @@ In this Order—
 
   > - “partnership” means a partnership not regarded as a legal person under the law of the country or territory in which it was established;
 
-(6)[^key-1e2cc7562ee28ea4147ac2c137a09855] In Schedule 1, for paragraph 13[^f00022] substitute—
+(6)[^c-1e2cc7562ee28ea4147ac2c137a09855] In Schedule 1, for paragraph 13[^f00022] substitute—
 
 > **13.** Provision for—
 >
@@ -272,14 +272,14 @@ In this Order—
 >   - (i) the membership is terminated to comply with the limit on the number of corporate members, or
 >   - (ii) the shares must be repaid in order to comply with the limit on shares allotted to corporate members (see section 5A above).
 
-### 16. Non-qualifying members[^key-a54fbbcb46c562cc3f9f385cad05e522]
+### 16. Non-qualifying members[^c-a54fbbcb46c562cc3f9f385cad05e522]
 
 In section 5—
 
 - (a) in subsection (5) omit “, subject to subsection (6) below,”;
 - (b) omit subsection (6).
 
-### 17. Deferred shares[^key-1f73badbdf6acc1a290b2002c2ab5be9]
+### 17. Deferred shares[^c-1f73badbdf6acc1a290b2002c2ab5be9]
 
 (1) In section 7 (shares)—
 
@@ -318,7 +318,7 @@ In section 5—
 >
 > (5) On any modification of the definition of “deferred shares” in the Building Societies Act 1986 or an instrument made under that Act, the Treasury may, by order, modify the meaning of deferred shares in this section so as to assimilate it to the modified definition.
 
-### 18. Attachment of shares[^key-94f0a37dfafce411a84d29e8f4d4a505]
+### 18. Attachment of shares[^c-94f0a37dfafce411a84d29e8f4d4a505]
 
 (1) In section 7[^f00024]—
 
@@ -331,7 +331,7 @@ In section 5—
 
 > (1C) Where a loan by a credit union is made to a member and is not a secured loan within the meaning of section 11A below, the terms of the loan must include provision as to whether, for the duration of the loan, the borrower is permitted to withdraw shares where his paid-up shareholding (excluding any deferred shares) in the credit union is, or following the withdrawal would be, less than his total liability (including contingent liability) to the credit union whether as borrower, guarantor or otherwise.
 
-### 19. Interest-bearing shares[^key-af86508b4375d64dadc4132b4bb20f6c]
+### 19. Interest-bearing shares[^c-af86508b4375d64dadc4132b4bb20f6c]
 
 (1) After section 7, insert—
 
@@ -371,11 +371,11 @@ In section 5—
 
 > **13A.** If the issue of interest-bearing shares is permitted, provision for converting such shares into shares which are not interest-bearing to comply with subsection (3) of section 7A above.
 
-### 20. Fee for ancillary services[^key-f06b3d1a22d79aeb94b87ae0c183605c]
+### 20. Fee for ancillary services[^c-f06b3d1a22d79aeb94b87ae0c183605c]
 
 In section 9A(1)[^f00025] (power to charge for ancillary services), for “a fee to cover the cost of”, substitute “such fee as it considers appropriate for”.
 
-### 21. Dividends[^key-b7960ebee4999d865b66e3b395b83396]
+### 21. Dividends[^c-b7960ebee4999d865b66e3b395b83396]
 
 In section 14[^f00026] (computation and application of profits), for subsection (4), substitute—
 
@@ -386,32 +386,32 @@ In section 14[^f00026] (computation and application of profits), for subsection 
 
 ## PART 5 — Consequential, transitional and supplementary provisions
 
-### 22. Regulated Activities Order – consequential amendment[^key-3d635ebdbed6bc683e987fae06a060e3]
+### 22. Regulated Activities Order – consequential amendment[^c-3d635ebdbed6bc683e987fae06a060e3]
 
 *Extent: E+W+S+N.I.*
 
 In article 76 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00027], after “section 119 of the Building Societies Act 1986”, insert “or section 31A of the Credit Unions Act 1979”.
 
-### 23. Transitional provisions[^key-b5ff73cf71c78b0dced33c8124254ea1]
+### 23. Transitional provisions[^c-b5ff73cf71c78b0dced33c8124254ea1]
 
 The amendment to section 20 of the 1965 Act by article 8 shall not have effect in relation to a society until seven days following the first general meeting of that society after this Order comes into force.
 
-**24.**[^key-ebe8cd4d158e311fc82a678a5f2e3618] For the purposes of sections 1, 1A and 1B of the 1979 Act as amended or inserted by articles 12 and 13—
+**24.**[^c-ebe8cd4d158e311fc82a678a5f2e3618] For the purposes of sections 1, 1A and 1B of the 1979 Act as amended or inserted by articles 12 and 13—
 
 - (a) any reference in the rules of a credit union to a qualification for admission to membership shall, if the context requires, be interpreted as a reference to a common bond;
 - (b) any qualification for admission to membership of a credit union approved by the Authority before this Order comes into force shall be treated as a common bond approved by the Authority.
 
-**25.**[^key-31cf047be8c6de8f45a9cb72be5278b1] (1) The Authority may, subject to paragraph (2), vary a permission given to a credit union under Part 4 of the Financial Services and Markets Act 2000[^f00028] before the date on which this Order comes into force by varying the description of the regulated activity for which it gives permission to the extent necessary for the credit union to admit bodies corporate to membership.
+**25.**[^c-31cf047be8c6de8f45a9cb72be5278b1] (1) The Authority may, subject to paragraph (2), vary a permission given to a credit union under Part 4 of the Financial Services and Markets Act 2000[^f00028] before the date on which this Order comes into force by varying the description of the regulated activity for which it gives permission to the extent necessary for the credit union to admit bodies corporate to membership.
 
 (2) The Authority may not vary a permission under paragraph (1) where a credit union gives written notice to the Authority before the date on which this Order comes into force that it does not wish the Authority to vary its permission.
 
-**26.**[^key-8a452316b3520f7b6e09d8b3ade62b5e] No individual who is a member of a credit union immediately before this Order comes into force shall cease to be a member, or to be eligible for membership, by reason of the amendments made by this Order.
+**26.**[^c-8a452316b3520f7b6e09d8b3ade62b5e] No individual who is a member of a credit union immediately before this Order comes into force shall cease to be a member, or to be eligible for membership, by reason of the amendments made by this Order.
 
-**27.**[^key-308936ffa29888b6279c71be36d87307] The amendment to section 7(5) of the 1979 Act by article 18 shall not have effect in relation to any loan made by the credit union before this Order comes into force.
+**27.**[^c-308936ffa29888b6279c71be36d87307] The amendment to section 7(5) of the 1979 Act by article 18 shall not have effect in relation to any loan made by the credit union before this Order comes into force.
 
-**28.**[^key-df919482a62193f0aad21b2488fb7bd4] The amendment to section 9A(1) of the 1979 Act by article 20 shall not have effect in relation to ancillary services provided by a credit union to any person who is a member of that credit union immediately before this Order comes into force.
+**28.**[^c-df919482a62193f0aad21b2488fb7bd4] The amendment to section 9A(1) of the 1979 Act by article 20 shall not have effect in relation to ancillary services provided by a credit union to any person who is a member of that credit union immediately before this Order comes into force.
 
-**29.**[^key-04c48641953428cebd52c86aa204e1f1] Words and expressions used in articles 24 to 28 which are also used in the 1979 Act have the same meaning in those articles as they have in that Act.
+**29.**[^c-04c48641953428cebd52c86aa204e1f1] Words and expressions used in articles 24 to 28 which are also used in the 1979 Act have the same meaning in those articles as they have in that Act.
 
 Angela Watkinson
 
@@ -445,11 +445,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-5c9f3e4cb9c5985ee17484b31e48aa70]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2687/article/1) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-5c9f3e4cb9c5985ee17484b31e48aa70]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2687/article/1) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00002]: Footnote: [2010 c.7](https://www.legislation.gov.uk/ukpga/2010/7).
 
-[^key-ee85381a1c7de7469557d4c14dc17468]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2687/article/2) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-ee85381a1c7de7469557d4c14dc17468]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2687/article/2) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00003]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12).
 
@@ -457,37 +457,37 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00005]: Footnote: [1979 c.34](https://www.legislation.gov.uk/ukpga/1979/34).
 
-[^key-28f644791c07e6e6fd6c3d59daf24145]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/uksi/2011/2687/article/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-28f644791c07e6e6fd6c3d59daf24145]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/uksi/2011/2687/article/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-3fbdbcfe45f43a1797b54b107cde1757]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2687/article/8) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-3fbdbcfe45f43a1797b54b107cde1757]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2687/article/8) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-e891e75354ef6d1178b0aad5bce49776]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2011/2687/article/8/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-e891e75354ef6d1178b0aad5bce49776]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2011/2687/article/8/1) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^f00011]: Footnote: Section 9 was amended by [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501).
 
-[^key-d46ce39762e9612868e4fdc73bb684a9]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2687/article/9) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-d46ce39762e9612868e4fdc73bb684a9]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2687/article/9) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-34c2217aaacbf38c2b2bdd9901e99264]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2011/2687/article/10) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-34c2217aaacbf38c2b2bdd9901e99264]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/uksi/2011/2687/article/10) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-927b3114597628c63bf7b1f31f757e2f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2687/article/11) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-927b3114597628c63bf7b1f31f757e2f]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2687/article/11) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-f7770c53bad0c40c0163323219a179e3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2687/article/12) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-f7770c53bad0c40c0163323219a179e3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2687/article/12) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00016]: Footnote: Section 1 was amended by [S.I. 1996/1189](https://www.legislation.gov.uk/uksi/1996/1189), [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501) and [S.I. 2003/256](https://www.legislation.gov.uk/uksi/2003/256).
 
-[^key-af37345576cd8e2519e3c3bbb769645e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2687/article/13) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-af37345576cd8e2519e3c3bbb769645e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2687/article/13) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-66ee9b40fab1e4ea1a3a4c7f336af780]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2687/article/14) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-66ee9b40fab1e4ea1a3a4c7f336af780]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2687/article/14) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00017]: Footnote: Section 20 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617); there are other amending instruments but none is relevant.
 
 [^f00018]: Footnote: Section 21 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617); there are other amending instruments but none is relevant.
 
-[^key-378e410f21dea56e6add53ad60cb6584]: Commencement: [Art. 15(1)-(3)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/1) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-378e410f21dea56e6add53ad60cb6584]: Commencement: [Art. 15(1)-(3)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/1) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-2912d6d46d72785fc5004a84b189c140]: Commencement: [Art. 15(4)(a)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/a) in force at 1.12.2013, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/a)
+[^c-2912d6d46d72785fc5004a84b189c140]: Commencement: [Art. 15(4)(a)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/a) in force at 1.12.2013, see [art. 1(1)(a)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/a)
 
-[^key-1e2cc7562ee28ea4147ac2c137a09855]: Commencement: [Art. 15(4)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/b)[(c)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/c)[(5)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/5)[(6)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/6) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-1e2cc7562ee28ea4147ac2c137a09855]: Commencement: [Art. 15(4)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/b)[(c)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/4/c)[(5)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/5)[(6)](https://www.legislation.gov.uk/uksi/2011/2687/article/15/6) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00019]: Footnote: Section 11 was amended by [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501); there are other amending instruments but none is relevant.
 
@@ -497,42 +497,42 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00022]: Footnote: Paragraph 13 was amended by [S.I. 2002/1501](https://www.legislation.gov.uk/uksi/2002/1501).
 
-[^key-a54fbbcb46c562cc3f9f385cad05e522]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2011/2687/article/16) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-a54fbbcb46c562cc3f9f385cad05e522]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2011/2687/article/16) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-1f73badbdf6acc1a290b2002c2ab5be9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2011/2687/article/17) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-1f73badbdf6acc1a290b2002c2ab5be9]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2011/2687/article/17) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00023]: Footnote: Section 11A was inserted by [S.I. 1996/1189](https://www.legislation.gov.uk/uksi/1996/1189).
 
-[^key-94f0a37dfafce411a84d29e8f4d4a505]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2011/2687/article/18) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-94f0a37dfafce411a84d29e8f4d4a505]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2011/2687/article/18) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00024]: Footnote: Section 7(5) was amended by [S.I. 1996/1189](https://www.legislation.gov.uk/uksi/1996/1189).
 
-[^key-af86508b4375d64dadc4132b4bb20f6c]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2687/article/19) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-af86508b4375d64dadc4132b4bb20f6c]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2687/article/19) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-f06b3d1a22d79aeb94b87ae0c183605c]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2011/2687/article/20) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-f06b3d1a22d79aeb94b87ae0c183605c]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2011/2687/article/20) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00025]: Footnote: Section 9A was inserted by [S.I. 2003/256](https://www.legislation.gov.uk/uksi/2003/256).
 
-[^key-b7960ebee4999d865b66e3b395b83396]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2011/2687/article/21) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-b7960ebee4999d865b66e3b395b83396]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2011/2687/article/21) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00026]: Footnote: Section 14 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617); there are other amending instruments but none is relevant.
 
-[^key-3d635ebdbed6bc683e987fae06a060e3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2011/2687/article/22) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-3d635ebdbed6bc683e987fae06a060e3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2011/2687/article/22) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00027]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), to which there are amendments which are not relevant to this Order.
 
-[^key-b5ff73cf71c78b0dced33c8124254ea1]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2011/2687/article/23) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-b5ff73cf71c78b0dced33c8124254ea1]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2011/2687/article/23) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-ebe8cd4d158e311fc82a678a5f2e3618]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2011/2687/article/24) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-ebe8cd4d158e311fc82a678a5f2e3618]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2011/2687/article/24) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-31cf047be8c6de8f45a9cb72be5278b1]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2011/2687/article/25) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-31cf047be8c6de8f45a9cb72be5278b1]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2011/2687/article/25) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
 [^f00028]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-8a452316b3520f7b6e09d8b3ade62b5e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2011/2687/article/26) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-8a452316b3520f7b6e09d8b3ade62b5e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2011/2687/article/26) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-308936ffa29888b6279c71be36d87307]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2011/2687/article/27) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-308936ffa29888b6279c71be36d87307]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2011/2687/article/27) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-df919482a62193f0aad21b2488fb7bd4]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2011/2687/article/28) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-df919482a62193f0aad21b2488fb7bd4]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2011/2687/article/28) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
 
-[^key-04c48641953428cebd52c86aa204e1f1]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2011/2687/article/29) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)
+[^c-04c48641953428cebd52c86aa204e1f1]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2011/2687/article/29) in force at 8.1.2012, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/2687/article/1/1/b)

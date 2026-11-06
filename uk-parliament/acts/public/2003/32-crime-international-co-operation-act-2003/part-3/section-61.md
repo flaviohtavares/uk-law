@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Power of appellate courts in Scotland to suspend disqualification[^key-0aa5ebac42080ba5566dce117bbd2b8a]
+## 61. Power of appellate courts in Scotland to suspend disqualification[^c-0aa5ebac42080ba5566dce117bbd2b8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ as the Secretary of State may determine.
 
 ## Annotations
 
-[^key-0aa5ebac42080ba5566dce117bbd2b8a]: Commencement: S. 61 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-0aa5ebac42080ba5566dce117bbd2b8a]: Commencement: S. 61 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)

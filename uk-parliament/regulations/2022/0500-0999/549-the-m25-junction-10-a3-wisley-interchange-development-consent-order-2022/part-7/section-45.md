@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Certification of documents, etc.[^key-56eed2a96ae8953978b7bd5b7bd9b40f]
+## 45. Certification of documents, etc.[^c-56eed2a96ae8953978b7bd5b7bd9b40f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56eed2a96ae8953978b7bd5b7bd9b40f]: Commencement: Art. 45 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-56eed2a96ae8953978b7bd5b7bd9b40f]: Commencement: Art. 45 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

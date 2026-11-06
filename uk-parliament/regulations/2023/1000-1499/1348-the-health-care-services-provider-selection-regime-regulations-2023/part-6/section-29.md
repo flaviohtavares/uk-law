@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Transitional provision[^key-12b6316a2ff6c40226de26cc6875240a]
+## 29. Transitional provision[^c-12b6316a2ff6c40226de26cc6875240a]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ any framework agreement for relevant health care services between one or more re
 
 ## Annotations
 
-[^key-12b6316a2ff6c40226de26cc6875240a]: Commencement: Reg. 29 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-12b6316a2ff6c40226de26cc6875240a]: Commencement: Reg. 29 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

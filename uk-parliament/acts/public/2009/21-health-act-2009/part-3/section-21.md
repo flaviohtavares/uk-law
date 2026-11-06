@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Prohibition of tobacco displays etc[^c2006734][^key-a8b64959e7f1bbf9b0e04b91a7943173][^key-a9493d0f5e785c46a528405db3818309][^key-4759e974d7c93ddb3f8a63e9a1251c16][^key-8c35d91cb2f24d69e9b20db123e16af7][^key-e995a38831d1451bf4c55f388521fa8f][^key-40b63220fbee6a775cb38c22a6a3b822]
+## 21. Prohibition of tobacco displays etc[^c2006734][^c-a8b64959e7f1bbf9b0e04b91a7943173][^c-a9493d0f5e785c46a528405db3818309][^c-4759e974d7c93ddb3f8a63e9a1251c16][^c-8c35d91cb2f24d69e9b20db123e16af7][^c-e995a38831d1451bf4c55f388521fa8f][^c-40b63220fbee6a775cb38c22a6a3b822]
 
 *Extent: E+W*
 
@@ -97,14 +97,14 @@ After section 7 of the Tobacco Advertising and Promotion Act 2002 (developments 
 
 [^c2006734]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) partly in force; [s. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force for specified purposes at Royal Assent see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b)
 
-[^key-a8b64959e7f1bbf9b0e04b91a7943173]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2012 for specified purposes for E. by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/a)
+[^c-a8b64959e7f1bbf9b0e04b91a7943173]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2012 for specified purposes for E. by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(1A)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A/a)
 
-[^key-a9493d0f5e785c46a528405db3818309]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 31.10.2012 for specified purposes for N.I. by [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/a)
+[^c-a9493d0f5e785c46a528405db3818309]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 31.10.2012 for specified purposes for N.I. by [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2012/389/article/2/1/a)
 
-[^key-4759e974d7c93ddb3f8a63e9a1251c16]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 3.12.2012 for specified purposes for W. by [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/a)
+[^c-4759e974d7c93ddb3f8a63e9a1251c16]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 3.12.2012 for specified purposes for W. by [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2012/1288/article/2/2/a)
 
-[^key-8c35d91cb2f24d69e9b20db123e16af7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2015 for specified purposes for W. by [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(b)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/b)
+[^c-8c35d91cb2f24d69e9b20db123e16af7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2015 for specified purposes for W. by [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(b)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/b)
 
-[^key-e995a38831d1451bf4c55f388521fa8f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2015 for specified purposes for N.I. by [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/b)
+[^c-e995a38831d1451bf4c55f388521fa8f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2015 for specified purposes for N.I. by [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/b)
 
-[^key-40b63220fbee6a775cb38c22a6a3b822]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2015 for specified purposes for E. by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/b)
+[^c-40b63220fbee6a775cb38c22a6a3b822]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/21/section/21) in force at 6.4.2015 for specified purposes for E. by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/b)

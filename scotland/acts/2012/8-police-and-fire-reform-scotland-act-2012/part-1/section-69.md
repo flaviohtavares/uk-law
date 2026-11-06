@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Complaints against the Commissioner[^key-9f0663eace2173934a6cdeba1f6b51ad][^key-438c7f8fb652739b80b2eb4f1d96ed34][^key-438c7f8fb652739b80b2eb4f1d96ed34]
+## 69. Complaints against the Commissioner[^c-9f0663eace2173934a6cdeba1f6b51ad][^c-438c7f8fb652739b80b2eb4f1d96ed34][^c-438c7f8fb652739b80b2eb4f1d96ed34]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ Before section 43 of the 2006 Act insert—
 
 ## Annotations
 
-[^key-9f0663eace2173934a6cdeba1f6b51ad]: Commencement: S. 69 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-9f0663eace2173934a6cdeba1f6b51ad]: Commencement: S. 69 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)
+[^c-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)

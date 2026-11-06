@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Building, engineering and mining operations[^key-8370256a5ef831a14d0b7fd58b419e0b]
+## 4. Building, engineering and mining operations[^c-8370256a5ef831a14d0b7fd58b419e0b]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8370256a5ef831a14d0b7fd58b419e0b]: Commencement: S. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8370256a5ef831a14d0b7fd58b419e0b]: Commencement: S. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Matrimonial and Family Proceedings Act 1984[^key-335f4d840d856a816b5b76c1327d5f5b]
+## 63. Matrimonial and Family Proceedings Act 1984[^c-335f4d840d856a816b5b76c1327d5f5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In the Matrimonial and Family Proceedings Act 1984 [^c23624471]—
 
 ## Annotations
 
-[^key-335f4d840d856a816b5b76c1327d5f5b]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-335f4d840d856a816b5b76c1327d5f5b]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624471]: Marginal citation: 1984 c 42.

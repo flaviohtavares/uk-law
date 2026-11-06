@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Acceptable forms of payment for metal[^key-1957509f09aa2c3a475784cc1d64db2f]
+## 69. Acceptable forms of payment for metal[^c-1957509f09aa2c3a475784cc1d64db2f]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ After section 33 of the 1982 Act insert—
 
 ## Annotations
 
-[^key-1957509f09aa2c3a475784cc1d64db2f]: Commencement: S. 69 in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)
+[^c-1957509f09aa2c3a475784cc1d64db2f]: Commencement: S. 69 in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule)

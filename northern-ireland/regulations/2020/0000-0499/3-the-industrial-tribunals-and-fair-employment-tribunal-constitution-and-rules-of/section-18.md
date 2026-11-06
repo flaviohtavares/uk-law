@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Transitional provisions[^key-36f1296a4475649fa7e51c9d7044c1bf]
+## 18. Transitional provisions[^c-36f1296a4475649fa7e51c9d7044c1bf]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36f1296a4475649fa7e51c9d7044c1bf]: Commencement: Reg. 18 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-36f1296a4475649fa7e51c9d7044c1bf]: Commencement: Reg. 18 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
 [^f00032]: Footnote: [S.R. 2005 No. 150](https://www.legislation.gov.uk/nisr/2005/150).

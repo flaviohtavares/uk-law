@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21Q (Extent: E. W. N.I.). Costs orders[^key-b1ebacd9b1254e839f0162f60442e9bc]
+## 21Q (Extent: E. W. N.I.). Costs orders[^c-b1ebacd9b1254e839f0162f60442e9bc]
 
 *Extent: E. W. N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1ebacd9b1254e839f0162f60442e9bc]: Textual amendment: [Art. 21Q](https://www.legislation.gov.uk/uksi/2013/2605/article/21Q) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [17](https://www.legislation.gov.uk/uksi/2024/1127/article/17)
+[^c-b1ebacd9b1254e839f0162f60442e9bc]: Textual amendment: [Art. 21Q](https://www.legislation.gov.uk/uksi/2013/2605/article/21Q) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [17](https://www.legislation.gov.uk/uksi/2024/1127/article/17)
 
 [^f00006]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Short title[^key-234a6486048a48252f2ebce54cc2c14d]
+## 122. Short title[^c-234a6486048a48252f2ebce54cc2c14d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Moveable Transactions (Scotland) Act 2023.
 
 ## Annotations
 
-[^key-234a6486048a48252f2ebce54cc2c14d]: Commencement: S. 122 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)
+[^c-234a6486048a48252f2ebce54cc2c14d]: Commencement: S. 122 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)

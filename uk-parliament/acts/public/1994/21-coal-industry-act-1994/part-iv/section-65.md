@@ -40,7 +40,7 @@ summary: ''
   - (e) depositing spoil from any activities carried on in the course of any coal-mining operations and draining coal mines,
 
   and an operation carried on in relation to minerals other than coal is a coal-mining operation in so far as it is carried on in relation to those minerals as part of, or is ancillary to, operations carried on in relation to coal;
-- “**company**” has the meaning given by section 1(1) of the Companies Act 2006[^key-940bd0347432ee11f2eb44d8fc1c42f3];
+- “**company**” has the meaning given by section 1(1) of the Companies Act 2006[^c-940bd0347432ee11f2eb44d8fc1c42f3];
 - “**contravention**” includes a failure to comply, and cognate expressions shall be construed accordingly;
 - “**the Corporation**” means the British Coal Corporation or, in relation to times before the commencement of section 1 of the [^c10939431]Coal Industry Act 1987, the National Coal Board;
 - “**debenture**” includes debenture stock;
@@ -61,7 +61,7 @@ summary: ''
 - “**shares**” includes stock;
 - “**subordinate legislation**” has the same meaning as in the [^c10939441]Interpretation Act 1978;
 - “**subsidence damage**” has the same meaning as in the 1991 Act;
-- “**subsidiary**” and “**wholly-owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^key-718f49903cd70f36841cb6e289be7e19];
+- “**subsidiary**” and “**wholly-owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^c-718f49903cd70f36841cb6e289be7e19];
 - “**successor company**” means any company which, at a time when it is wholly owned by the Crown, becomes entitled or subject, in accordance with any restructuring scheme, to any property, rights or liabilities;
 - “**undertaking**”, in relation to the Corporation, includes the undertakings of its wholly-owned subsidiaries.
 
@@ -87,10 +87,10 @@ and in this subsection “**oil or gas**” means oil or gas within the meaning 
 
 [^c10939411]: Marginal citation: [1991 c. 45](https://www.legislation.gov.uk/ukpga/1991/45).
 
-[^key-940bd0347432ee11f2eb44d8fc1c42f3]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/65/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 147(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/147/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-940bd0347432ee11f2eb44d8fc1c42f3]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/65/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 147(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/147/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c10939431]: Marginal citation: [1987 c. 3](https://www.legislation.gov.uk/ukpga/1987/3).
 
 [^c10939441]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-718f49903cd70f36841cb6e289be7e19]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/65/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 147(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/147/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-718f49903cd70f36841cb6e289be7e19]: Textual amendment: Words in [s. 65(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/65/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 147(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/147/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

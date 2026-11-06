@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Secured creditors[^key-e00190487ae097faee782a2fd9559bb8]
+## 149. Secured creditors[^c-e00190487ae097faee782a2fd9559bb8]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00190487ae097faee782a2fd9559bb8]: Commencement: [Rule 149](https://www.legislation.gov.uk/nisr/2026/11/rule/149) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e00190487ae097faee782a2fd9559bb8]: Commencement: [Rule 149](https://www.legislation.gov.uk/nisr/2026/11/rule/149) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

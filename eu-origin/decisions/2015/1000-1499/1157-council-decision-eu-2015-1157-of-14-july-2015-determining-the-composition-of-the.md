@@ -33,14 +33,14 @@ of 14 July 2015
 
 determining the composition of the European Economic and Social Committee (revoked)
 
-[^key-f8f9dd867fa8c71c89e7c6fb454b47bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8f9dd867fa8c71c89e7c6fb454b47bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f8f9dd867fa8c71c89e7c6fb454b47bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f8f9dd867fa8c71c89e7c6fb454b47bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f8f9dd867fa8c71c89e7c6fb454b47bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f8f9dd867fa8c71c89e7c6fb454b47bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f8f9dd867fa8c71c89e7c6fb454b47bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8f9dd867fa8c71c89e7c6fb454b47bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8f9dd867fa8c71c89e7c6fb454b47bb]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8f9dd867fa8c71c89e7c6fb454b47bb]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

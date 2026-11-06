@@ -30,12 +30,12 @@ summary: ''
   - (iii) liquid waste; and
 - (b) is not landfill gas.
 
-(3) The participant may use fossil fuel (not being feedstock derived from fossil fuel)[^key-ffcfc2dfd09826a82c321fa5a8b348c0] in the accredited RHI installation only in accordance with paragraphs (5) and (6) of regulation 38.
+(3) The participant may use fossil fuel (not being feedstock derived from fossil fuel)[^c-ffcfc2dfd09826a82c321fa5a8b348c0] in the accredited RHI installation only in accordance with paragraphs (5) and (6) of regulation 38.
 
-(4)[^key-4feee2802efde4f661f5ee342630c2b3] The participant may use feedstock derived from fossil fuel in the accredited RHI installation only in accordance with regulation 40A.
+(4)[^c-4feee2802efde4f661f5ee342630c2b3] The participant may use feedstock derived from fossil fuel in the accredited RHI installation only in accordance with regulation 40A.
 
 ## Annotations
 
-[^key-ffcfc2dfd09826a82c321fa5a8b348c0]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/uksi/2018/611/regulation/41/3) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [18(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/18/a)
+[^c-ffcfc2dfd09826a82c321fa5a8b348c0]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/uksi/2018/611/regulation/41/3) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [18(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/18/a)
 
-[^key-4feee2802efde4f661f5ee342630c2b3]: Textual amendment: [Reg. 41(4)](https://www.legislation.gov.uk/uksi/2018/611/regulation/41/4) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [18(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/18/b)
+[^c-4feee2802efde4f661f5ee342630c2b3]: Textual amendment: [Reg. 41(4)](https://www.legislation.gov.uk/uksi/2018/611/regulation/41/4) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [18(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/18/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. “Financial thresholds”[^key-0da21c932d6bd3a7d40f12372adbeabd]
+## 72. “Financial thresholds”[^c-0da21c932d6bd3a7d40f12372adbeabd]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da21c932d6bd3a7d40f12372adbeabd]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-0da21c932d6bd3a7d40f12372adbeabd]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Register of categories of certain Part 3 services[^key-75b7ffab1ef336bce4963b8e30d9478e][^key-9b7bd63f72636940ef027ef40a5b727c]
+## 95. Register of categories of certain Part 3 services[^c-75b7ffab1ef336bce4963b8e30d9478e][^c-9b7bd63f72636940ef027ef40a5b727c]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ entries relating to that service are to be added to the part of the register est
 
 ## Annotations
 
-[^key-75b7ffab1ef336bce4963b8e30d9478e]: Commencement: S. 95 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-75b7ffab1ef336bce4963b8e30d9478e]: Commencement: S. 95 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-9b7bd63f72636940ef027ef40a5b727c]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/50/section/95) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z2)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z2)
+[^c-9b7bd63f72636940ef027ef40a5b727c]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2023/50/section/95) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z2)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Direct labour organisations.[^key-03f9f6390a382936e82998f772cafaae]
+## 32. Direct labour organisations.[^c-03f9f6390a382936e82998f772cafaae]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03f9f6390a382936e82998f772cafaae]: Textual amendment: S. 32 repealed: (E.W.) (27.7.1999 with effect in accordance with ss. 21, 27 of the amending Act) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [ss. 21(1)(c)](https://www.legislation.gov.uk/ukpga/1999/27/section/21/1/c), [34](https://www.legislation.gov.uk/ukpga/1999/27/section/34), [Sch. 2(1)](https://www.legislation.gov.uk/ukpga/1999/27/schedule/2/1), Note; and (S.) (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/f), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-03f9f6390a382936e82998f772cafaae]: Textual amendment: S. 32 repealed: (E.W.) (27.7.1999 with effect in accordance with ss. 21, 27 of the amending Act) by [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27), [ss. 21(1)(c)](https://www.legislation.gov.uk/ukpga/1999/27/section/21/1/c), [34](https://www.legislation.gov.uk/ukpga/1999/27/section/34), [Sch. 2(1)](https://www.legislation.gov.uk/ukpga/1999/27/schedule/2/1), Note; and (S.) (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 60(1)(f)](https://www.legislation.gov.uk/asp/2003/1/section/60/1/f), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)

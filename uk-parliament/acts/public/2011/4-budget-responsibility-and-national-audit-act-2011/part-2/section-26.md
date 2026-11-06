@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-294f1c1afb375fff9307b2b1c56e2934][^key-1e3bd7c16dfdc28903fd28ebfa0052c3] Schedule 4 contains transitional provision.
+(1)[^c-294f1c1afb375fff9307b2b1c56e2934][^c-1e3bd7c16dfdc28903fd28ebfa0052c3] Schedule 4 contains transitional provision.
 
-(2)[^key-bb597b70d97f9f989f6db403285370cd] Schedule 5 contains consequential amendments.
+(2)[^c-bb597b70d97f9f989f6db403285370cd] Schedule 5 contains consequential amendments.
 
 ## Annotations
 
-[^key-294f1c1afb375fff9307b2b1c56e2934]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/4/section/26/1) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-294f1c1afb375fff9307b2b1c56e2934]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/4/section/26/1) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-1e3bd7c16dfdc28903fd28ebfa0052c3]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/4/section/26/1) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-1e3bd7c16dfdc28903fd28ebfa0052c3]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/4/section/26/1) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(i)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
 
-[^key-bb597b70d97f9f989f6db403285370cd]: Commencement: [S. 26(2)](https://www.legislation.gov.uk/ukpga/2011/4/section/26/2) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-bb597b70d97f9f989f6db403285370cd]: Commencement: [S. 26(2)](https://www.legislation.gov.uk/ukpga/2011/4/section/26/2) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

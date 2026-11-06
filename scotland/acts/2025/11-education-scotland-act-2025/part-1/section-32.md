@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Review of accreditation function[^key-9e4d927f5896cb07efc7962b794fd21c][^key-2316181731829681888dbc35c66916bd]
+## 32. Review of accreditation function[^c-9e4d927f5896cb07efc7962b794fd21c][^c-2316181731829681888dbc35c66916bd]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e4d927f5896cb07efc7962b794fd21c]: Commencement: S. 32 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-9e4d927f5896cb07efc7962b794fd21c]: Commencement: S. 32 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-2316181731829681888dbc35c66916bd]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2025/11/section/32) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-2316181731829681888dbc35c66916bd]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2025/11/section/32) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

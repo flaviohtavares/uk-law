@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Admission and rejection of relevant funds claim[^key-0c273c0d7fde2b842580172800f8d420]
+## 103. Admission and rejection of relevant funds claim[^c-0c273c0d7fde2b842580172800f8d420]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c273c0d7fde2b842580172800f8d420]: Commencement: Rule 103 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0c273c0d7fde2b842580172800f8d420]: Commencement: Rule 103 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Defence to proceedings in respect of statutory nuisance[^key-a80ec2d89125404fe87cc2a71a35c04c]
+## 61. Defence to proceedings in respect of statutory nuisance[^c-a80ec2d89125404fe87cc2a71a35c04c]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a80ec2d89125404fe87cc2a71a35c04c]: Commencement: Art. 61 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-a80ec2d89125404fe87cc2a71a35c04c]: Commencement: Art. 61 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294771]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments that are not relevant to this Order.
 

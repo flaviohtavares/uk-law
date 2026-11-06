@@ -44,13 +44,13 @@ In accordance with section 3(4) of the Financial Services Act 2021, the Treasury
 
 In accordance with section 9L(2)(a) of the Bank of England Act 1998, the Treasury have consulted the Financial Policy Committee.
 
-In the opinion of the Treasury, one of the effects of these Regulations is that an activity will become a PRA-regulated activity within the meaning of the Financial Services and Markets Act 2000[^f00007].[^key-182284da27c6d3f0cd1a5c2e91624c78]
+In the opinion of the Treasury, one of the effects of these Regulations is that an activity will become a PRA-regulated activity within the meaning of the Financial Services and Markets Act 2000[^f00007].[^c-182284da27c6d3f0cd1a5c2e91624c78]
 
-A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament, in accordance with section 9N(1) of the Bank of England Act 1998[^f00008], sections 22B (3)(a) and 429(2) of the Financial Services and Markets Act 2000[^f00009], section 258A(3)(b) of the Banking Act 2009 and sections 3(7), 45(4) and 46(3) of the Financial Services Act 2021.[^key-182284da27c6d3f0cd1a5c2e91624c78]
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament, in accordance with section 9N(1) of the Bank of England Act 1998[^f00008], sections 22B (3)(a) and 429(2) of the Financial Services and Markets Act 2000[^f00009], section 258A(3)(b) of the Banking Act 2009 and sections 3(7), 45(4) and 46(3) of the Financial Services Act 2021.[^c-182284da27c6d3f0cd1a5c2e91624c78]
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-033321306bfa4f8abf643c4aa3b5ea61][^key-033321306bfa4f8abf643c4aa3b5ea61]
+### 1. Citation, commencement and extent[^c-033321306bfa4f8abf643c4aa3b5ea61][^c-033321306bfa4f8abf643c4aa3b5ea61]
 
 (1) These Regulations may be cited as the Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021.
 
@@ -62,7 +62,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 ## PART 2 — Amendment of Primary Legislation and Northern Ireland Legislation
 
-### 2. Insolvency Act 1986[^key-033483f802aa4707418765d7bf834454]
+### 2. Insolvency Act 1986[^c-033483f802aa4707418765d7bf834454]
 
 (1) Section 387A (financial institutions and their non-preferential debts) of the Insolvency Act 1986[^f00010] is amended as follows.
 
@@ -94,7 +94,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 .
 
-### 3. Insolvency (Northern Ireland) Order 1989[^key-3d8c69f6c57725efddac191081b159b4]
+### 3. Insolvency (Northern Ireland) Order 1989[^c-3d8c69f6c57725efddac191081b159b4]
 
 (1) Article 347A (financial institutions and their non-preferential debts) of the Insolvency (Northern Ireland) Order 1989[^f00014] is amended as follows.
 
@@ -126,7 +126,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 .
 
-### 4. Financial Services and Markets Act 2000[^key-75718900b36435e2c6293abe4bc9e091]
+### 4. Financial Services and Markets Act 2000[^c-75718900b36435e2c6293abe4bc9e091]
 
 (1) The Financial Services and Markets Act 2000[^f00015] is amended as follows.
 
@@ -184,7 +184,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 - (a) in subsection (1)(b), after “Directive 2013/36/ EU UK law” insert “, CRR rules”;
 - (b) in subsection (2)(c), after “Directive 2013/36/ EU UK law” insert “, in CRR rules”.
 
-### 5. Terrorism Act 2000[^key-011709198c9c4799f41fa7775937b595]
+### 5. Terrorism Act 2000[^c-011709198c9c4799f41fa7775937b595]
 
 In paragraph 3(1) of Schedule 3A to the Terrorism Act 2000[^f00025] (interpretation of Part 1 – regulated sector), for the definition of “the Capital Requirements Regulation” substitute—
 
@@ -192,7 +192,7 @@ In paragraph 3(1) of Schedule 3A to the Terrorism Act 2000[^f00025] (interpretat
 
 .
 
-### 6. Proceeds of Crime Act 2002[^key-f50d63e289ee8d1b97784f6354f522c9]
+### 6. Proceeds of Crime Act 2002[^c-f50d63e289ee8d1b97784f6354f522c9]
 
 In paragraph 3(1) of Schedule 9 to the Proceeds of Crime Act 2002[^f00026] (interpretation of Part 1 – regulated sector), for the definition of “the Capital Requirements Regulation” substitute—
 
@@ -200,7 +200,7 @@ In paragraph 3(1) of Schedule 9 to the Proceeds of Crime Act 2002[^f00026] (inte
 
 .
 
-### 7. Banking (Special Provisions) Act 2008[^key-8f591daaab2e09f346b1211322a1942b]
+### 7. Banking (Special Provisions) Act 2008[^c-8f591daaab2e09f346b1211322a1942b]
 
 (1) Section 15 (interpretation) of the Banking (Special Provisions) Act 2008[^f00027] is amended as follows.
 
@@ -212,7 +212,7 @@ In paragraph 3(1) of Schedule 9 to the Proceeds of Crime Act 2002[^f00026] (inte
 
 (3) In subsection (2), for “Title 1 of Part Two of [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council” substitute “Title 1 of Part Two of [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and the Own Funds and Eligible Liabilities (CRR) Part of the PRA Rulebook”.
 
-### 8. Counter-Terrorism Act 2008[^key-7ac6a7252bd08ad873c1e25f292c4b02]
+### 8. Counter-Terrorism Act 2008[^c-7ac6a7252bd08ad873c1e25f292c4b02]
 
 In paragraph 7 of Schedule 7 to the Counter-Terrorism Act 2008[^f00028] (interpretation of Part 2 – persons to whom a direction may be given), for the definition of “the capital requirements regulation” substitute—
 
@@ -220,7 +220,7 @@ In paragraph 7 of Schedule 7 to the Counter-Terrorism Act 2008[^f00028] (interpr
 
 .
 
-### 9. Banking Act 2009[^key-65a59812da994beb08b1fcd380956f11]
+### 9. Banking Act 2009[^c-65a59812da994beb08b1fcd380956f11]
 
 (1) The Banking Act 2009[^f00029] is amended as follows.
 
@@ -246,7 +246,7 @@ In paragraph 7 of Schedule 7 to the Counter-Terrorism Act 2008[^f00028] (interpr
 
   .
 
-### 10. Bankruptcy (Scotland) Act 2016[^key-c2d31d4965ceb5232a65b1e4db24d156]
+### 10. Bankruptcy (Scotland) Act 2016[^c-c2d31d4965ceb5232a65b1e4db24d156]
 
 (1) Section 129A (interpretation of section 129 – priority in distribution) of the Bankruptcy (Scotland) Act 2016[^f00033] is amended as follows.
 
@@ -280,7 +280,7 @@ In paragraph 7 of Schedule 7 to the Counter-Terrorism Act 2008[^f00028] (interpr
 
 ## PART 3 — Amendments to Secondary Legislation
 
-### 11. Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^key-f039b1dc3c1550572879249bd1d29f4e]
+### 11. Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^c-f039b1dc3c1550572879249bd1d29f4e]
 
 For article 2A(4) of the Financial Services and Markets Act 2000 (Gibraltar) Order 2001[^f00034] (the passport rights regulations: Gibraltar-based firms) substitute—
 
@@ -288,14 +288,14 @@ For article 2A(4) of the Financial Services and Markets Act 2000 (Gibraltar) Ord
 
 .
 
-### 12. Financial Conglomerates and Other Financial Groups Regulations 2004[^key-e77e8f676d4b338f205a54e381dfb5ab]
+### 12. Financial Conglomerates and Other Financial Groups Regulations 2004[^c-e77e8f676d4b338f205a54e381dfb5ab]
 
 In regulation 1(2) (interpretation) of the Financial Conglomerates and Other Financial Groups Regulations 2004[^f00035]—
 
 - (a) omit the definition of “the capital requirements directive”;
 - (b) omit the definition of “the capital requirements regulation”.
 
-### 13. Electronic Money Regulations 2011[^key-97b84697c67590a42e3251bc469f7347]
+### 13. Electronic Money Regulations 2011[^c-97b84697c67590a42e3251bc469f7347]
 
 In regulation 2(1) (interpretation) of the Electronic Money Regulations 2011[^f00036], for the definition of “the capital requirements regulation” substitute—
 
@@ -303,7 +303,7 @@ In regulation 2(1) (interpretation) of the Electronic Money Regulations 2011[^f0
 
 .
 
-### 14. Bank of England Act 1998 (Macro-prudential Measures) Order 2013[^key-778d53c70571b40a022965c43e6e9407]
+### 14. Bank of England Act 1998 (Macro-prudential Measures) Order 2013[^c-778d53c70571b40a022965c43e6e9407]
 
 In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudential Measures) Order 2013[^f00037], in the definition of “financial sector entity”, for paragraph (e) substitute—
 
@@ -311,7 +311,7 @@ In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudenti
 
 .
 
-### 15. Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013[^key-80309d8193f3e7f1f6af022a95bce9d2]
+### 15. Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013[^c-80309d8193f3e7f1f6af022a95bce9d2]
 
 (1) The Financial Services and Markets Act 2000 (PRA-regulated Activities) Order 2013[^f00038] is amended as follows.
 
@@ -364,7 +364,7 @@ In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudenti
 
 .
 
-### 16. Capital Requirements Regulations 2013[^key-b45c8ac4e769043b7260c9e1c4b7ebd7]
+### 16. Capital Requirements Regulations 2013[^c-b45c8ac4e769043b7260c9e1c4b7ebd7]
 
 (1) The Capital Requirements Regulations 2013[^f00040] are amended as follows.
 
@@ -463,7 +463,7 @@ In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudenti
 - (b) in paragraph (4)(a), for “a regulator” substitute “the PRA”;
 - (c) for “the regulator”, in each place it occurs, substitute “the PRA”.
 
-### 17. Capital Requirements (Capital Buffers and Macro-prudential Measures) Regulations 2014[^key-4419e69c826a997153ad33f44f7abf9d]
+### 17. Capital Requirements (Capital Buffers and Macro-prudential Measures) Regulations 2014[^c-4419e69c826a997153ad33f44f7abf9d]
 
 (1) The Capital Requirements (Capital Buffers and Macro-prudential Measures) Regulations 2014[^f00044] are amended as follows.
 
@@ -495,7 +495,7 @@ In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudenti
 
 (8) In regulation 35 (combined buffer requirement), for “appropriate regulator” substitute “PRA”.
 
-### 18. Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^key-4a17e0f21ee7eabcc2b4afee8b4a1fce]
+### 18. Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^c-4a17e0f21ee7eabcc2b4afee8b4a1fce]
 
 (1) Article 1 (citation, commencement and interpretation) of the Financial Services and Markets Act 2000 (Excluded Activities and Prohibitions) Order 2014[^f00047] is amended as follows.
 
@@ -511,7 +511,7 @@ In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudenti
 
 .
 
-### 19. Bank Recovery and Resolution (No. 2) Order 2014[^key-8d1b978243c0ce7f92fe3101c3ff9e69]
+### 19. Bank Recovery and Resolution (No. 2) Order 2014[^c-8d1b978243c0ce7f92fe3101c3ff9e69]
 
 (1) The Bank Recovery and Resolution (No. 2) Order 2014[^f00049] is amended as follows.
 
@@ -564,11 +564,11 @@ In article 1(2) (interpretation) of the Bank of England Act 1998 (Macro-prudenti
 
 (14) In paragraph 4 of Schedule 2 (information to be contained in a group resolution plan), in the definition of “group resolution”, in paragraph (a), for “Part 6 of the Capital Requirements Regulations 2013” substitute “the capital requirements regulation and CRR rules”.
 
-### 20. Solvency 2 Regulations 2015[^key-0b3d37f59a355ef7d94390d9363a9459]
+### 20. Solvency 2 Regulations 2015[^c-0b3d37f59a355ef7d94390d9363a9459]
 
 In regulation 11 (equivalent provisions) of the Solvency 2 Regulations 2015[^f00053], omit paragraph (5).
 
-### 21. Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-097827ddddb6f59bf5351f3e9b3b05fc]
+### 21. Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-097827ddddb6f59bf5351f3e9b3b05fc]
 
 (1) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^f00054] are amended as follows.
 
@@ -580,7 +580,7 @@ In regulation 11 (equivalent provisions) of the Solvency 2 Regulations 2015[^f00
 
 (3) In regulation 25(1) (supervisory action), for “or a qualifying parent undertaking (as defined by section 192B of FSMA)” substitute “, a qualifying parent undertaking (as defined by section 192B of FSMA) or a non-authorised parent undertaking (as defined by section 143B of FSMA)”.
 
-### 22. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^key-22a22f6195dab89ce695eb05f90bb2ce]
+### 22. Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^c-22a22f6195dab89ce695eb05f90bb2ce]
 
 In regulation 6(6) (requirements applying to exempt investment firms) of the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017[^f00055], for the definition of “the capital requirements regulation” substitute—
 
@@ -588,7 +588,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 .
 
-### 23. Payment Services Regulations 2017[^key-86c32446a81f71236365a89d6ffbce4c]
+### 23. Payment Services Regulations 2017[^c-86c32446a81f71236365a89d6ffbce4c]
 
 (1) The Payment Services Regulations 2017[^f00056] are amended as follows.
 
@@ -605,7 +605,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 ## PART 4 — Amendment of Retained Direct EU Legislation
 
-### 24. Regulation (EU) No. 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories[^key-47cbaa047c62d30692492f5d050134a3]
+### 24. Regulation (EU) No. 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories[^c-47cbaa047c62d30692492f5d050134a3]
 
 (1) [Regulation (EU) No. 648/2012](https://www.legislation.gov.uk/european/regulation/2012/0648) of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories[^f00057] is amended as follows.
 
@@ -693,7 +693,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 (8) In Article 50d (calculation of specific items to be reported by the CCP), omit point (c).
 
-### 25. Capital Requirements Regulation[^key-6ca48cccf3251da9cae77f5d9952d5b5]
+### 25. Capital Requirements Regulation[^c-6ca48cccf3251da9cae77f5d9952d5b5]
 
 (1) The Capital Requirements Regulation[^f00060] is amended as follows.
 
@@ -855,7 +855,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 (56) In Annex III (items subject to supplementary reporting of liquid assets)[^f00077], after “Title II of Part Three”, in each place it occurs, insert “of this Regulation and Articles 132a to 132c of Chapter 3 of the Standardised Approach and Internal Ratings Based Approach to Credit Risk (CRR) Part of the PRA Rulebook”.
 
-### 26. Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/european/directive/1998/0026) and 2014/65/EU and Regulation (EU) No 236/2012[^key-0b98adff119c87218d7c819e5eba9fb3]
+### 26. Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/european/directive/1998/0026) and 2014/65/EU and Regulation (EU) No 236/2012[^c-0b98adff119c87218d7c819e5eba9fb3]
 
 (1) [Regulation (EU) No 909/2014](https://www.legislation.gov.uk/european/regulation/2014/0909) of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/european/directive/1998/0026) and [2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) and [Regulation (EU) No 236/2012](https://www.legislation.gov.uk/european/regulation/2012/0236)[^f00078] is amended as follows.
 
@@ -874,7 +874,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
   - (ii) in the second paragraph, after “[Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575)” insert “, CRR rules”;
 - (b) in paragraph 4, in point (f), for “Part Eight of [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575)” substitute “the Disclosure (CRR) Part of the PRA Rulebook”.
 
-### 27. Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^key-03d32141709550b18ad355eeb8e1c8c9]
+### 27. Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^c-03d32141709550b18ad355eeb8e1c8c9]
 
 (1) Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 supplementing [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive[^f00082] is amended as follows.
 
@@ -897,7 +897,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 .
 
-### 28. Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market[^key-a31b351a3690ac82c5f7058a205afaf2]
+### 28. Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market[^c-a31b351a3690ac82c5f7058a205afaf2]
 
 (1) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market and repealing [Directive 2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071)[^f00087] is amended as follows.
 
@@ -913,7 +913,7 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 .
 
-### 29. Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds[^key-4a8f85b535283ab7fa53e00766d9db10]
+### 29. Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds[^c-4a8f85b535283ab7fa53e00766d9db10]
 
 (1) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds[^f00088] is amended as follows.
 
@@ -927,19 +927,19 @@ In regulation 6(6) (requirements applying to exempt investment firms) of the Fin
 
 (4) In Article 17(9) (diversification), for “point (f) of Article 10(1) or point (c) of Article 11(1) of Delegated Regulation (EU) 2015/61” substitute “point (f) of Article 10(1) or point (c) of Article 11(1) of Chapter 2 (Rules on standards for the liquidity coverage requirement for credit institutions) of the Liquidity Coverage Ratio (CRR) Part of the PRA Rulebook”.
 
-### 30. Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation[^key-21118b66cda3dddbe9b33e060d476165]
+### 30. Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation[^c-21118b66cda3dddbe9b33e060d476165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Amendment of Equivalence Directions
 
-### 31. Capital Requirements Regulation Equivalence Directions 2020[^key-255affa39204db35b3451adb3b6e844d]
+### 31. Capital Requirements Regulation Equivalence Directions 2020[^c-255affa39204db35b3451adb3b6e844d]
 
 In paragraph 3 of the Capital Requirements Regulation Equivalence Directions 2020[^f00092], omit “, 132(3)”.
 
 ## PART 6 — Amendment of the Capital Requirements Regulation (Amendment) Regulations 2021
 
-### 32. Capital Requirements Regulation (Amendment) Regulations 2021[^key-3760bd3f65176e386e3455790e3d4d2f][^key-3760bd3f65176e386e3455790e3d4d2f]
+### 32. Capital Requirements Regulation (Amendment) Regulations 2021[^c-3760bd3f65176e386e3455790e3d4d2f][^c-3760bd3f65176e386e3455790e3d4d2f]
 
 (1) The Capital Requirements Regulation (Amendment) Regulations 2021[^f00093] are amended as follows.
 
@@ -1075,28 +1075,28 @@ In paragraph 3 of the Capital Requirements Regulation Equivalence Directions 202
 
 ## PART 7 — Exclusion of certain investment firms from Banking Act 2009 provisions
 
-### 33. Description of institution not included within the meaning of “investment firm”[^key-387c0a35d4c34173edf10aab063c8ce2]
+### 33. Description of institution not included within the meaning of “investment firm”[^c-387c0a35d4c34173edf10aab063c8ce2]
 
 An institution which is an “FCA Investment Firm” within the meaning of section 143A (FCA investment firms) of the Financial Services and Markets Act 2000[^f00104] is specified for the purpose of section 258A(2)(b) (“investment firm”) of the Banking Act 2009[^f00105].
 
 ## PART 8 — Savings and transitional provision
 
-### 34. Saving for amendment of existing technical standards instruments made by the Financial Conduct Authority[^key-f1f6fa74ed7ab8a80f4187c0c5c4a4f6]
+### 34. Saving for amendment of existing technical standards instruments made by the Financial Conduct Authority[^c-f1f6fa74ed7ab8a80f4187c0c5c4a4f6]
 
-Notwithstanding the amendment of Article 124(4) of the Capital Requirements Regulation[^f00106] by regulation 25(16)[^key-5d9d17257a758680c45b7e37c8d27c38] of these Regulations which removes the power of the FCA to make, modify, amend or revoke technical standards, the Financial Conduct Authority (“**FCA**”) retains the power to modify, amend or revoke any technical standards in force immediately before 1 January 2022 which were—
+Notwithstanding the amendment of Article 124(4) of the Capital Requirements Regulation[^f00106] by regulation 25(16)[^c-5d9d17257a758680c45b7e37c8d27c38] of these Regulations which removes the power of the FCA to make, modify, amend or revoke technical standards, the Financial Conduct Authority (“**FCA**”) retains the power to modify, amend or revoke any technical standards in force immediately before 1 January 2022 which were—
 
 - (a) adopted by the European Commission before IP completion day, or
 - (b) made by the FCA after IP completion day,
 
 under those Articles.
 
-### 35. Transitional provision in respect of Article 6(1) and (4) of Regulation (EU) 2017/2402[^key-91c1bad4a5e5590716f189e9e9b20af1]
+### 35. Transitional provision in respect of Article 6(1) and (4) of Regulation (EU) 2017/2402[^c-91c1bad4a5e5590716f189e9e9b20af1]
 
 (1) This regulation applies to securitisations the securities of which were issued or the initial securitisation positions of which were created before 1 January 2022.
 
 (2) If the requirements set out in Article 6(1) of Regulation (EU) 2017/2402[^f00107] were met in the manner specified in Article 6(4) of that Regulation before 1 January 2022, and were it not for the prudential regulation changes*,* the requirements set out in Article 6(1) of Regulation (EU) 2017/2402 would continue to be met in the manner specified in Article 6(4) of that Regulation in respect of such a securitisation after 1 January 2022, then the requirements set out in Article 6(1) of that Regulation are deemed to be met in respect of that securitisation.
 
-### 36. Transitional provision in respect of Article 43(5) of Regulation (EU) 2017/2402[^key-648c1c7cdbb6bd67330afb72df5c99c4]
+### 36. Transitional provision in respect of Article 43(5) of Regulation (EU) 2017/2402[^c-648c1c7cdbb6bd67330afb72df5c99c4]
 
 (1) This regulation applies to securitisations to which Article 43(5) (transitional provisions) of Regulation (EU) 2017/2402 applies.
 
@@ -1104,7 +1104,7 @@ under those Articles.
 
 (3) In paragraph (2), references to Article 407 (additional risk weight) and Article 410 (uniform condition of application) of [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) are references to those Articles in the version applicable on 31 December 2018 as modified by points (a) to (c) of Article 43(5) of Regulation (EU) 2017/2402.
 
-### 37. Transitional provision in respect of Article 43(6) of Regulation (EU) 2017/2402[^key-7f1a8e0441bd7f6c6817f09db38f37d0]
+### 37. Transitional provision in respect of Article 43(6) of Regulation (EU) 2017/2402[^c-7f1a8e0441bd7f6c6817f09db38f37d0]
 
 (1) This regulation applies to securitisations to which Article 43(6) (transitional provisions) of Regulation (EU) 2017/2402 applies.
 
@@ -1112,7 +1112,7 @@ under those Articles.
 
 (3) In paragraph (2), references to Article 405 of [Regulation (EU) No 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) are references to that Article in the version applicable on 31 December 2018 as modified by points (a) and (b) of Article 43(6) of Regulation (EU) 2017/2402.
 
-### 38. Application and interpretation of regulations 35 to 37[^key-7c1d959b84d326d03224e49c41ad02d3]
+### 38. Application and interpretation of regulations 35 to 37[^c-7c1d959b84d326d03224e49c41ad02d3]
 
 (1) The transitional provisions in regulations 35 to 37 apply from the beginning of 1 January 2022 and cease to have effect on 1 January 2023.
 
@@ -1180,15 +1180,15 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00007]: Footnote: See section 22B(2)(a)(i) of the Financial Services and Markets Act 2000.
 
-[^key-182284da27c6d3f0cd1a5c2e91624c78]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-182284da27c6d3f0cd1a5c2e91624c78]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00008]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11); section 9N was inserted by section 4(1) of the Financial Services Act 2012.
 
 [^f00009]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8); section 22B was inserted, with section 22A, by section 9 of the Financial Services Act 2012; “PRA-regulated activity” is defined in section 22 of the Financial Services and Markets Act 2000, which has been amended by section 7(1) of the Financial Services Act 2012; section 144F was inserted by paragraph 1 of Schedule 3 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22); and section 429(2) was amended by section 5 and paragraph 19 of Schedule 3 to that Act.
 
-[^key-033321306bfa4f8abf643c4aa3b5ea61]: Commencement: Reg. 1 in force at 8.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2)
+[^c-033321306bfa4f8abf643c4aa3b5ea61]: Commencement: Reg. 1 in force at 8.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2)
 
-[^key-033483f802aa4707418765d7bf834454]: Commencement: Reg. 2 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-033483f802aa4707418765d7bf834454]: Commencement: Reg. 2 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00010]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 387A was inserted by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244).
 
@@ -1198,11 +1198,11 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00013]: Footnote: Section 143F was inserted by paragraph 1 of Schedule 2 to the Financial Services Act 2021.
 
-[^key-3d8c69f6c57725efddac191081b159b4]: Commencement: Reg. 3 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-3d8c69f6c57725efddac191081b159b4]: Commencement: Reg. 3 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00014]: Footnote: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405); article 347A was inserted by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244) and modified by [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350).
 
-[^key-75718900b36435e2c6293abe4bc9e091]: Commencement: Reg. 4 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-75718900b36435e2c6293abe4bc9e091]: Commencement: Reg. 4 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00015]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -1224,23 +1224,23 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00024]: Footnote: Sections 190O, 192R and 192T were inserted by [S.I. 2020/1406](https://www.legislation.gov.uk/uksi/2020/1406) and were amended by paragraphs 4, 14, 15 and 16 of Schedule 3 to the Financial Services Act 2021.
 
-[^key-011709198c9c4799f41fa7775937b595]: Commencement: Reg. 5 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-011709198c9c4799f41fa7775937b595]: Commencement: Reg. 5 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00025]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); Schedule 3A was inserted by section 3 and paragraphs 5(1) and (6) of Part 3 of Schedule 2 to the Anti-terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24) and the definition of “Capital Requirements Regulation” in paragraph 3(1) of Schedule 3A was inserted by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-f50d63e289ee8d1b97784f6354f522c9]: Commencement: Reg. 6 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-f50d63e289ee8d1b97784f6354f522c9]: Commencement: Reg. 6 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00026]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); Part 1 of Schedule 9 was substituted by article 2 of [S.I. 2007/3287](https://www.legislation.gov.uk/uksi/2007/3287); the definition of “Capital Requirements Regulation” was inserted by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and amended by [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-8f591daaab2e09f346b1211322a1942b]: Commencement: Reg. 7 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-8f591daaab2e09f346b1211322a1942b]: Commencement: Reg. 7 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00027]: Footnote: [2008 c. 2](https://www.legislation.gov.uk/ukpga/2008/2); section 15(2) was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-7ac6a7252bd08ad873c1e25f292c4b02]: Commencement: Reg. 8 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-7ac6a7252bd08ad873c1e25f292c4b02]: Commencement: Reg. 8 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00028]: Footnote: [2008 c. 28](https://www.legislation.gov.uk/ukpga/2008/28); paragraph 7 of Part 2 of Schedule 7 was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-65a59812da994beb08b1fcd380956f11]: Commencement: Reg. 9 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-65a59812da994beb08b1fcd380956f11]: Commencement: Reg. 9 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00029]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -1250,33 +1250,33 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00032]: Footnote: Section 6A was inserted by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329) and amended by [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239) and [2018/1394](https://www.legislation.gov.uk/uksi/2018/1394).
 
-[^key-c2d31d4965ceb5232a65b1e4db24d156]: Commencement: Reg. 10 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-c2d31d4965ceb5232a65b1e4db24d156]: Commencement: Reg. 10 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00033]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21); section 129A was inserted by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244).
 
-[^key-f039b1dc3c1550572879249bd1d29f4e]: Commencement: Reg. 11 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-f039b1dc3c1550572879249bd1d29f4e]: Commencement: Reg. 11 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00034]: Footnote: [S.I. 2001/3084](https://www.legislation.gov.uk/uksi/2001/3084), as amended by [S.I. 2018/589](https://www.legislation.gov.uk/uksi/2018/589). These Regulations are prospectively revoked by paragraph 19 of Schedule 8 to the Financial Services Act 2021.
 
-[^key-e77e8f676d4b338f205a54e381dfb5ab]: Commencement: Reg. 12 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-e77e8f676d4b338f205a54e381dfb5ab]: Commencement: Reg. 12 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00035]: Footnote: [S.I. 2004/1862](https://www.legislation.gov.uk/uksi/2004/1862), as amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115); there are other amending instruments but none are relevant.
 
-[^key-97b84697c67590a42e3251bc469f7347]: Commencement: Reg. 13 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-97b84697c67590a42e3251bc469f7347]: Commencement: Reg. 13 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00036]: Footnote: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99) as amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115); there are other amending instruments but none are relevant.
 
-[^key-778d53c70571b40a022965c43e6e9407]: Commencement: Reg. 14 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-778d53c70571b40a022965c43e6e9407]: Commencement: Reg. 14 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00037]: Footnote: [S.I. 2013/644](https://www.legislation.gov.uk/uksi/2013/644), as amended by [S.I. 2018.1297](https://www.legislation.gov.uk/uksi/2018/1297); there are other amending instruments but none are relevant.
 
-[^key-80309d8193f3e7f1f6af022a95bce9d2]: Commencement: Reg. 15 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-80309d8193f3e7f1f6af022a95bce9d2]: Commencement: Reg. 15 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00038]: Footnote: [S.I. 2013/556](https://www.legislation.gov.uk/uksi/2013/556), amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632); there is another amending instrument but it is not relevant.
 
 [^f00039]: Footnote: Section 59 of the Financial Services and Markets Act 2000 was amended by section 18 of, and paragraph 1 of Schedule 3 to, the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), paragraph 2 of Schedule 4 to the Bank of England and Financial Services Act [2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), section 14 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-b45c8ac4e769043b7260c9e1c4b7ebd7]: Commencement: Reg. 16 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-b45c8ac4e769043b7260c9e1c4b7ebd7]: Commencement: Reg. 16 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00040]: Footnote: [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), amended by paragraphs 22 and 23 of Schedule 3 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22); relevant amending instruments are [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401), [S.I. 2019/264](https://www.legislation.gov.uk/uksi/2019/264) and [S.I. 2020/1406](https://www.legislation.gov.uk/uksi/2020/1406).
 
@@ -1286,7 +1286,7 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00043]: Footnote: Regulation 39 is amended by paragraph 22 of Schedule 3 to the Financial Services Act 2021.
 
-[^key-4419e69c826a997153ad33f44f7abf9d]: Commencement: Reg. 17 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-4419e69c826a997153ad33f44f7abf9d]: Commencement: Reg. 17 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00044]: Footnote: [S.I. 2014/894](https://www.legislation.gov.uk/uksi/2014/894), as amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
@@ -1294,13 +1294,13 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00046]: Footnote: Regulation 12A was inserted by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-4a17e0f21ee7eabcc2b4afee8b4a1fce]: Commencement: Reg. 18 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-4a17e0f21ee7eabcc2b4afee8b4a1fce]: Commencement: Reg. 18 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00047]: Footnote: [S.I. 2014/2080](https://www.legislation.gov.uk/uksi/2014/2080).
 
 [^f00048]: Footnote: The definition of “liquid assets” was amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-8d1b978243c0ce7f92fe3101c3ff9e69]: Commencement: Reg. 19 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-8d1b978243c0ce7f92fe3101c3ff9e69]: Commencement: Reg. 19 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00049]: Footnote: [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
 
@@ -1310,23 +1310,23 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00052]: Footnote: Articles 11(1)(a), 33(6)(a), 36, 53(4)(a), 107, 121(1), 147(3)(b), 154, 159(1)(a), 181 and paragraph 4 of Schedule 2 were amended by [S.I. 2018/1394](https://www.legislation.gov.uk/uksi/2018/1394).
 
-[^key-0b3d37f59a355ef7d94390d9363a9459]: Commencement: Reg. 20 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-0b3d37f59a355ef7d94390d9363a9459]: Commencement: Reg. 20 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00053]: Footnote: [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575); regulation 11 was amended by [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
 
-[^key-097827ddddb6f59bf5351f3e9b3b05fc]: Commencement: Reg. 21 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-097827ddddb6f59bf5351f3e9b3b05fc]: Commencement: Reg. 21 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00054]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-22a22f6195dab89ce695eb05f90bb2ce]: Commencement: Reg. 22 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-22a22f6195dab89ce695eb05f90bb2ce]: Commencement: Reg. 22 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00055]: Footnote: [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701); the definition of “the capital requirements regulation” was inserted by [S.I. 2017/1255](https://www.legislation.gov.uk/uksi/2017/1255).
 
-[^key-86c32446a81f71236365a89d6ffbce4c]: Commencement: Reg. 23 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-86c32446a81f71236365a89d6ffbce4c]: Commencement: Reg. 23 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00056]: Footnote: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752), as amended by [S.I. 2018/1201](https://www.legislation.gov.uk/uksi/2018/1201); there are other amending instruments but none are relevant.
 
-[^key-47cbaa047c62d30692492f5d050134a3]: Commencement: Reg. 24 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-47cbaa047c62d30692492f5d050134a3]: Commencement: Reg. 24 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00057]: Footnote: EUR 2012/648, as amended by [S.I. 2018/1184](https://www.legislation.gov.uk/uksi/2018/1184), [S.I. 2018/1318](https://www.legislation.gov.uk/uksi/2018/1318), [S.I. 2019/335](https://www.legislation.gov.uk/uksi/2019/335), [S.I. 2019/1416](https://www.legislation.gov.uk/uksi/2019/1416) and [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646).
 
@@ -1334,7 +1334,7 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00059]: Footnote: Article 3 was amended by [S.I. 2019/335](https://www.legislation.gov.uk/uksi/2019/335) and [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685).
 
-[^key-6ca48cccf3251da9cae77f5d9952d5b5]: Commencement: Reg. 25 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-6ca48cccf3251da9cae77f5d9952d5b5]: Commencement: Reg. 25 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00060]: Footnote: EUR 2013/575, amended, or prospectively amended, by sections 1 and 7 of, and Schedules 1 and 4 to, the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22) and [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401), [2019/264](https://www.legislation.gov.uk/uksi/2019/264), [2019/660](https://www.legislation.gov.uk/uksi/2019/660), [2019/710](https://www.legislation.gov.uk/uksi/2019/710), [2019/1232](https://www.legislation.gov.uk/uksi/2019/1232), [2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [2020/1470](https://www.legislation.gov.uk/uksi/2020/1470) and [2021/558](https://www.legislation.gov.uk/uksi/2021/558).
 
@@ -1372,7 +1372,7 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00077]: Footnote: Annex III was amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401) and is prospectively amended by paragraph 46 of Schedule 1 to the Financial Services Act 2021.
 
-[^key-0b98adff119c87218d7c819e5eba9fb3]: Commencement: Reg. 26 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-0b98adff119c87218d7c819e5eba9fb3]: Commencement: Reg. 26 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00078]: Footnote: EUR 909/2014.
 
@@ -1382,7 +1382,7 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00081]: Footnote: Article 54 was amended by [S.I. 2018/1320](https://www.legislation.gov.uk/uksi/2018/1320).
 
-[^key-03d32141709550b18ad355eeb8e1c8c9]: Commencement: Reg. 27 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-03d32141709550b18ad355eeb8e1c8c9]: Commencement: Reg. 27 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00082]: Footnote: EUR 2017/565 OJ L 87, 31.3.2017, p. 1–83.
 
@@ -1394,21 +1394,21 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00086]: Footnote: EUR 2014/49/EU OJ L 173, 12.6.2014, p. 149–178.
 
-[^key-a31b351a3690ac82c5f7058a205afaf2]: Commencement: Reg. 28 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-a31b351a3690ac82c5f7058a205afaf2]: Commencement: Reg. 28 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00087]: Footnote: EUR 2017/1129, as amended by [S.I. 2019/107](https://www.legislation.gov.uk/uksi/2019/107) and [2020/628](https://www.legislation.gov.uk/uksi/2020/628).
 
-[^key-4a8f85b535283ab7fa53e00766d9db10]: Commencement: Reg. 29 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-4a8f85b535283ab7fa53e00766d9db10]: Commencement: Reg. 29 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00088]: Footnote: EUR 2017/1131, amended by [S.I. 2019/394](https://www.legislation.gov.uk/uksi/2019/394).
 
-[^key-21118b66cda3dddbe9b33e060d476165]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1376) revoked (1.11.2024 for the revocation of reg. 30) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/c/ii)
+[^c-21118b66cda3dddbe9b33e060d476165]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1376) revoked (1.11.2024 for the revocation of reg. 30) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/c/ii)
 
-[^key-255affa39204db35b3451adb3b6e844d]: Commencement: Reg. 31 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-255affa39204db35b3451adb3b6e844d]: Commencement: Reg. 31 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00092]: Footnote: https://www.legislation.gov.uk/uksi/2019/541/pdfs/uksiod\_20190541\_en\_015.pdf. These Directions were made under [S.I. 2019/541](https://www.legislation.gov.uk/uksi/2019/541) and have effect subject to regulation 8(1) of [S.I. 2020/1055](https://www.legislation.gov.uk/uksi/2020/1055).
 
-[^key-3760bd3f65176e386e3455790e3d4d2f]: Commencement: Reg. 32 in force at 8.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2)
+[^c-3760bd3f65176e386e3455790e3d4d2f]: Commencement: Reg. 32 in force at 8.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2)
 
 [^f00093]: Footnote: [S.I. 2021/1078](https://www.legislation.gov.uk/uksi/2021/1078).
 
@@ -1432,27 +1432,27 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00103]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-387c0a35d4c34173edf10aab063c8ce2]: Commencement: Reg. 33 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-387c0a35d4c34173edf10aab063c8ce2]: Commencement: Reg. 33 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00104]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 143A was inserted by Schedule 2 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22).
 
 [^f00105]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 258A was inserted by section 21 of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). Section 258A has been amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [2018/1394](https://www.legislation.gov.uk/uksi/2018/1394).
 
-[^key-f1f6fa74ed7ab8a80f4187c0c5c4a4f6]: Commencement: Reg. 34 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-f1f6fa74ed7ab8a80f4187c0c5c4a4f6]: Commencement: Reg. 34 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00106]: Footnote: “the Capital Requirements Regulation” is defined in section 47 of the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22).
 
-[^key-5d9d17257a758680c45b7e37c8d27c38]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/uksi/2021/1376/regulation/34) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2022/838/regulation/18)
+[^c-5d9d17257a758680c45b7e37c8d27c38]: Textual amendment: Word in [reg. 34](https://www.legislation.gov.uk/uksi/2021/1376/regulation/34) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2022/838/regulation/18)
 
-[^key-91c1bad4a5e5590716f189e9e9b20af1]: Commencement: Reg. 35 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-91c1bad4a5e5590716f189e9e9b20af1]: Commencement: Reg. 35 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00107]: Footnote: EUR 2017/2402; Article 6 was amended by S.I. 2019/660 and is amended by regulation 30 of this instrument.
 
-[^key-648c1c7cdbb6bd67330afb72df5c99c4]: Commencement: Reg. 36 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-648c1c7cdbb6bd67330afb72df5c99c4]: Commencement: Reg. 36 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
-[^key-7f1a8e0441bd7f6c6817f09db38f37d0]: Commencement: Reg. 37 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-7f1a8e0441bd7f6c6817f09db38f37d0]: Commencement: Reg. 37 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
-[^key-7c1d959b84d326d03224e49c41ad02d3]: Commencement: Reg. 38 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
+[^c-7c1d959b84d326d03224e49c41ad02d3]: Commencement: Reg. 38 in force at 1.1.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3)
 
 [^f00108]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 

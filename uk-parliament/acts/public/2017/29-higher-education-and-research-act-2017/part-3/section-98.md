@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Exercise of functions by the Councils: supplementary[^key-cb6ac88612762469e5249b5c144a089f]
+## 98. Exercise of functions by the Councils: supplementary[^c-cb6ac88612762469e5249b5c144a089f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb6ac88612762469e5249b5c144a089f]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/29/section/98) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-cb6ac88612762469e5249b5c144a089f]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/29/section/98) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

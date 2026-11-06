@@ -31,7 +31,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) (Amendment) Regulations Order of Council 2008 (revoked)[^key-eff59ac692eb2dab86b685961f2b7ad6]
+The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) (Amendment) Regulations Order of Council 2008 (revoked)[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 Made
 
@@ -45,44 +45,44 @@ At the Council Chamber, Whitehall, the 13th day of September 2008
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-eff59ac692eb2dab86b685961f2b7ad6]
+## 1. Title and commencement[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval[^key-eff59ac692eb2dab86b685961f2b7ad6]
+## 2. Approval[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — THE VETERINARY SURGEONS (EXAMINATION OF COMMONWEALTH AND FOREIGN CANDIDATES) (AMENDMENT) REGULATIONS 2008[^key-eff59ac692eb2dab86b685961f2b7ad6]
+## SCHEDULE — THE VETERINARY SURGEONS (EXAMINATION OF COMMONWEALTH AND FOREIGN CANDIDATES) (AMENDMENT) REGULATIONS 2008[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 Article 2
 
-[^key-eff59ac692eb2dab86b685961f2b7ad6]
+[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 The Council of the Royal College of Veterinary Surgeons, in exercise of its powers under section 6(4) of the Veterinary Surgeons Act 1966, makes the following amendment to the Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations 2005.
 
-### 1. Citation[^key-eff59ac692eb2dab86b685961f2b7ad6]
+### 1. Citation[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendments to the Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations 2005[^key-eff59ac692eb2dab86b685961f2b7ad6]
+### 2. Amendments to the Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations 2005[^c-eff59ac692eb2dab86b685961f2b7ad6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eff59ac692eb2dab86b685961f2b7ad6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eff59ac692eb2dab86b685961f2b7ad6]: Textual amendment: Regulations revoked (1.1.2025) by [The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations Order of Council 2024 (S.I. 2024/1326)](https://www.legislation.gov.uk/uksi/2024/1326), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1326/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1326/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/1326/schedule)
+[^c-eff59ac692eb2dab86b685961f2b7ad6]: Textual amendment: Regulations revoked (1.1.2025) by [The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations Order of Council 2024 (S.I. 2024/1326)](https://www.legislation.gov.uk/uksi/2024/1326), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1326/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1326/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/1326/schedule)

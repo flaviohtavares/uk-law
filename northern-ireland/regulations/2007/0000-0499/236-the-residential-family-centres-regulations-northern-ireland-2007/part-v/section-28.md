@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Financial position[^key-0abc1105df3e96012f4847cef75d039a]
+## 28. Financial position[^c-0abc1105df3e96012f4847cef75d039a]
 
 *Extent: N.I.*
 
 (1) The registered provider shall carry on the residential family centre in such a manner as is likely to ensure that the centre will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
-(2) The registered person shall, if the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] so requests, provide such information and documents to the RQIA as it may require for the purpose of considering the financial viability of the centre, including—
+(2) The registered person shall, if the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] so requests, provide such information and documents to the RQIA as it may require for the purpose of considering the financial viability of the centre, including—
 
 - (a) the annual accounts of the centre certified by an accountant;
 - (b) a reference from a bank expressing an opinion as to the registered provider’s financial standing;
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0abc1105df3e96012f4847cef75d039a]: Commencement: Reg. 28 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-0abc1105df3e96012f4847cef75d039a]: Commencement: Reg. 28 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

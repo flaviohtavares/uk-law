@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18C. Capitated patients[^key-3c2bf873fc877b611ae05162a2742607]
+## 18C. Capitated patients[^c-3c2bf873fc877b611ae05162a2742607]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (3), where a contractor[^key-7bddf704178f1dc31cdafca9d666cfd4] has elected to enter into a prototype agreement, on any day (“the relevant day”) a patient is a capitated patient if that patient has been provided with a banded course of treatment by the contractor (C1) within a period of three years immediately preceding that day, provided that—
+(1) Subject to paragraph (3), where a contractor[^c-7bddf704178f1dc31cdafca9d666cfd4] has elected to enter into a prototype agreement, on any day (“the relevant day”) a patient is a capitated patient if that patient has been provided with a banded course of treatment by the contractor (C1) within a period of three years immediately preceding that day, provided that—
 
 - (a) the banded course of treatment has not been provided by a foundation trainee;
 - (b) the patient has not been referred to C1 for the banded course of treatment by another primary dental services contractor; and
@@ -31,12 +31,12 @@ summary: ''
 - (a) a banded course of treatment does not include the provision of an urgent course of treatment; and
 - (b) “foundation trainee” has the meaning given in Section 12 of the General Dental Services Statement of Financial Entitlements 2013 (glossary of terms).
 
-(3)[^key-425cc749c22aa8743b6ffd52827a2c07] This regulation does not apply where the contractor is a CDS prototype contractor.
+(3)[^c-425cc749c22aa8743b6ffd52827a2c07] This regulation does not apply where the contractor is a CDS prototype contractor.
 
 ## Annotations
 
-[^key-3c2bf873fc877b611ae05162a2742607]: Textual amendment: Regs. 18A-18C inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/1728/regulation/5)
+[^c-3c2bf873fc877b611ae05162a2742607]: Textual amendment: Regs. 18A-18C inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/1728/regulation/5)
 
-[^key-7bddf704178f1dc31cdafca9d666cfd4]: Textual amendment: Words in reg. 18C(1) substituted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/298/regulation/6/a)
+[^c-7bddf704178f1dc31cdafca9d666cfd4]: Textual amendment: Words in reg. 18C(1) substituted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/298/regulation/6/a)
 
-[^key-425cc749c22aa8743b6ffd52827a2c07]: Textual amendment: Reg. 18C(3) inserted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/298/regulation/6/b)
+[^c-425cc749c22aa8743b6ffd52827a2c07]: Textual amendment: Reg. 18C(3) inserted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/298/regulation/6/b)

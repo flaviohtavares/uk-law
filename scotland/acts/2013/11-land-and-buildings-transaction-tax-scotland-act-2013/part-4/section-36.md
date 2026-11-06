@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Declaration[^key-8ae7d48943979a2ae698df027a177f22]
+## 36. Declaration[^c-8ae7d48943979a2ae698df027a177f22]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae7d48943979a2ae698df027a177f22]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2013/11/section/36) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8ae7d48943979a2ae698df027a177f22]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2013/11/section/36) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

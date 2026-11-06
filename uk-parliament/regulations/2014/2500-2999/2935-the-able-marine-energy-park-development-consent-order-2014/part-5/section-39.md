@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Rights under or over streets[^key-d98217d8a10f3eddc83f5d9a31bc44fa]
+## 39. Rights under or over streets[^c-d98217d8a10f3eddc83f5d9a31bc44fa]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d98217d8a10f3eddc83f5d9a31bc44fa]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2014/2935/article/39) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-d98217d8a10f3eddc83f5d9a31bc44fa]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2014/2935/article/39) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153ZA. Qualifying payments[^key-eef8a2e39bff7cb018975dc441991078]
+## 153ZA. Qualifying payments[^c-eef8a2e39bff7cb018975dc441991078]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 (8) The Treasury may by regulations add a payment of a specified kind to the list in Part 1 of Schedule 5A.
 
-(8A)[^key-2afa7da1581780c393ebcfc4ae4a601a] Regulations under this section may have effect in relation to deaths occurring before the regulations are made.
+(8A)[^c-2afa7da1581780c393ebcfc4ae4a601a] Regulations under this section may have effect in relation to deaths occurring before the regulations are made.
 
 (9) Regulations under this section are to be made by statutory instrument.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eef8a2e39bff7cb018975dc441991078]: Textual amendment: S. 153ZA and cross-heading inserted (with effect in accordance with s. 95(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/95/1)
+[^c-eef8a2e39bff7cb018975dc441991078]: Textual amendment: S. 153ZA and cross-heading inserted (with effect in accordance with s. 95(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/95/1)
 
-[^key-2afa7da1581780c393ebcfc4ae4a601a]: Textual amendment: [S. 153ZA(8A)](https://www.legislation.gov.uk/ukpga/1984/51/section/153ZA/8A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/75/2)
+[^c-2afa7da1581780c393ebcfc4ae4a601a]: Textual amendment: [S. 153ZA(8A)](https://www.legislation.gov.uk/ukpga/1984/51/section/153ZA/8A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/75/2)

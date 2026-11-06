@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Hearing witnesses in the UK through television links[^key-c0679b929358e2f21472b6a69ada2711]
+## 30. Hearing witnesses in the UK through television links[^c-c0679b929358e2f21472b6a69ada2711]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ as made in proceedings before the nominated court.
 
 ## Annotations
 
-[^key-c0679b929358e2f21472b6a69ada2711]: Commencement: S. 30 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-c0679b929358e2f21472b6a69ada2711]: Commencement: S. 30 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

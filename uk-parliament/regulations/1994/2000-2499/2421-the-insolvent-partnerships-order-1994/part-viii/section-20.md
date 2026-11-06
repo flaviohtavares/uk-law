@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Revocation[^key-62fc09a6d86d5afe07009b106902411e]
+## 20. Revocation[^c-62fc09a6d86d5afe07009b106902411e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Insolvent Partnerships Order 1986 is hereby revoked.
 
 ## Annotations
 
-[^key-62fc09a6d86d5afe07009b106902411e]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/1994/2421/article/20) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-62fc09a6d86d5afe07009b106902411e]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/1994/2421/article/20) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

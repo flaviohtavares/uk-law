@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Amendment of regulation F2[^key-2bc6a82921a56a75ebbeb4c19d6f4d44]
+## 16. Amendment of regulation F2[^c-2bc6a82921a56a75ebbeb4c19d6f4d44]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bc6a82921a56a75ebbeb4c19d6f4d44]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-2bc6a82921a56a75ebbeb4c19d6f4d44]: Commencement: Reg. 16 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

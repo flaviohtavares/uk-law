@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304. Limitation on power to make administration order[^key-a9dedee77005add17153ed039d4631d9]
+## 304. Limitation on power to make administration order[^c-a9dedee77005add17153ed039d4631d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ For section 8(4)[^f00231] of the Insolvency Act 1986 (restrictions on making of 
 
 ## Annotations
 
-[^key-a9dedee77005add17153ed039d4631d9]: Commencement: Art. 304 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a9dedee77005add17153ed039d4631d9]: Commencement: Art. 304 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00231]: Footnote: Section 8(4) has been amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), Schedule 6, paragraph 25(1).

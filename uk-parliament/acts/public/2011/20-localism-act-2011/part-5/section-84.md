@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Consideration of expression of interest: further provisions[^key-778cd1ee73a42d2fb8c1945f60930cf8][^key-e188daa4a883149d7448a4907ed50968][^key-c7389bad1e1d6699ffbc6c720fc2400c][^key-e188daa4a883149d7448a4907ed50968]
+## 84. Consideration of expression of interest: further provisions[^c-778cd1ee73a42d2fb8c1945f60930cf8][^c-e188daa4a883149d7448a4907ed50968][^c-c7389bad1e1d6699ffbc6c720fc2400c][^c-e188daa4a883149d7448a4907ed50968]
 
 *Extent: E+W*
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-778cd1ee73a42d2fb8c1945f60930cf8]: Commencement: S. 84 in force at 27.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 4](https://www.legislation.gov.uk/uksi/2012/1463/article/4)
+[^c-778cd1ee73a42d2fb8c1945f60930cf8]: Commencement: S. 84 in force at 27.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 4](https://www.legislation.gov.uk/uksi/2012/1463/article/4)
 
-[^key-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))
+[^c-e188daa4a883149d7448a4907ed50968]: Modification: Pt. 5 Ch. 2 modified in part by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4) as amended (2.1.2019) by S.I. 2018/1296, reg. 14(2))
 
-[^key-c7389bad1e1d6699ffbc6c720fc2400c]: Modification: S. 84 modified by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4))
+[^c-c7389bad1e1d6699ffbc6c720fc2400c]: Modification: S. 84 modified by S.I. 2008/2113, reg. 10A (as inserted (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/930/regulation/3/4))

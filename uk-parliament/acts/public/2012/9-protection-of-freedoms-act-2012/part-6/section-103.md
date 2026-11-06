@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Meaning of “publicly-owned company”[^key-817393758ec5a30f4042e6fc796dbb2f]
+## 103. Meaning of “publicly-owned company”[^c-817393758ec5a30f4042e6fc796dbb2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-817393758ec5a30f4042e6fc796dbb2f]: Commencement: S. 103 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/b)
+[^c-817393758ec5a30f4042e6fc796dbb2f]: Commencement: S. 103 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/b)

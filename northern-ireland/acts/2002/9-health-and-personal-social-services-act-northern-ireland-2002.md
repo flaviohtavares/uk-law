@@ -54,7 +54,7 @@ An Act to amend the Health and Personal Social Services (Northern Ireland) Order
 
 (2) In Article 36(5) of the 1972 Order for “paragraph (3)” there shall be substituted “ paragraph (4)(a) or (b) ”.
 
-(3)[^key-a94a9502dd9d4ea3b95ec399ee1cb701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a94a9502dd9d4ea3b95ec399ee1cb701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. The Northern Ireland Practice and Education Council for Nursing and Midwifery
 
@@ -276,6 +276,6 @@ Section 2.
 
 ## Annotations
 
-[^key-a94a9502dd9d4ea3b95ec399ee1cb701]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/nia/2002/9/section/1/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 191](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/191); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a94a9502dd9d4ea3b95ec399ee1cb701]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/nia/2002/9/section/1/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 191](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/191); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c11659941]: Textual amendment: fully exercised by SR 2002/311

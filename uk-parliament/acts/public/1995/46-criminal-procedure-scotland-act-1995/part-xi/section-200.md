@@ -63,7 +63,7 @@ a statement of the reasons for which it appears to the court that an inquiry oug
 
 (8) On making an order of committal to hospital under subsection (2)(b) above the court shall send to the hospital specified in the order a statement of the reasons for which the court is of the opinion that an inquiry ought to be made into the mental condition of the person to whom it relates, and of any information before the court about his mental condition.
 
-(9) A person remanded under this section may , before the expiry of the period of 24 hours beginning with his remand,[^c18910881] appeal to the[^c19825161] appropriate Appeal Court[^key-bcb77ec62df646edb32a4fcde215f612] by note of appeal against the refusal of bail or against the conditions imposed and a person committed to hospital under this section may , at any time during the period when the order for his committal, or, as the case may be, renewal of such order, is in force,[^c18910921] appeal to the appropriate Appeal Court by note of appeal against the order of committal [^c18910971]. . . [^c19831501]. . . , and the appropriate Appeal Court, either in court or in chambers, may after hearing parties—
+(9) A person remanded under this section may , before the expiry of the period of 24 hours beginning with his remand,[^c18910881] appeal to the[^c19825161] appropriate Appeal Court[^c-bcb77ec62df646edb32a4fcde215f612] by note of appeal against the refusal of bail or against the conditions imposed and a person committed to hospital under this section may , at any time during the period when the order for his committal, or, as the case may be, renewal of such order, is in force,[^c18910921] appeal to the appropriate Appeal Court by note of appeal against the order of committal [^c18910971]. . . [^c19831501]. . . , and the appropriate Appeal Court, either in court or in chambers, may after hearing parties—
 
 - (a) review the order and grant bail on such conditions as it thinks fit; or
 - (b) confirm the order; or
@@ -72,13 +72,13 @@ a statement of the reasons for which it appears to the court that an inquiry oug
 (9A)[^c19831541] A note of appeal under subsection (9) above is to be—
 
 - (a) lodged with the clerk of the court from which the appeal is to be taken; and
-- (b) sent without delay by that clerk (where not the clerk of the appropriate Appeal Court[^key-87f5003e82f4e038bf1933f3d4fd871c]) to the clerk of the appropriate Appeal Court.
+- (b) sent without delay by that clerk (where not the clerk of the appropriate Appeal Court[^c-87f5003e82f4e038bf1933f3d4fd871c]) to the clerk of the appropriate Appeal Court.
 
 (10) The court may, on cause shown, vary an order for committal to hospital under subsection (2)(b) above by substituting another hospital for the hospital specified in the order.
 
 (11) Subsection (2)(b) above shall apply to the variation of an order under subsection (10) above as it applies to the making of an order for committal to hospital.
 
-(12)[^key-7cf75ee1854d71de1580fa9cfd07eb7f] In this section—
+(12)[^c-7cf75ee1854d71de1580fa9cfd07eb7f] In this section—
 
 - “appropriate Appeal Court” means—
   - (a) in the case of an appeal under subsection (9) against a decision of the High Court, that Court;
@@ -97,7 +97,7 @@ a statement of the reasons for which it appears to the court that an inquiry oug
 
 [^c19825161]: Textual amendment: Words in s. 200(9) inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 6(4)(a)(i)](https://www.legislation.gov.uk/asp/2007/6/section/6/4/a/i), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-bcb77ec62df646edb32a4fcde215f612]: Textual amendment: Words in s. 200(9) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(6)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/6/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-bcb77ec62df646edb32a4fcde215f612]: Textual amendment: Words in s. 200(9) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(6)(a)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/6/a) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
 [^c18910921]: Textual amendment: Words in s. 200(9) inserted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 132(b)](https://www.legislation.gov.uk/asp/2003/13/section/132/b), [333(2)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/2); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3)
 
@@ -107,6 +107,6 @@ a statement of the reasons for which it appears to the court that an inquiry oug
 
 [^c19831541]: Textual amendment: S. 200(9A) added (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 6(4)(b)](https://www.legislation.gov.uk/asp/2007/6/section/6/4/b), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-87f5003e82f4e038bf1933f3d4fd871c]: Textual amendment: Words in s. 200(9A)(b) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(6)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/6/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-87f5003e82f4e038bf1933f3d4fd871c]: Textual amendment: Words in s. 200(9A)(b) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(6)(b)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/6/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-7cf75ee1854d71de1580fa9cfd07eb7f]: Textual amendment: S. 200(12) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(6)(c)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/6/c) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-7cf75ee1854d71de1580fa9cfd07eb7f]: Textual amendment: S. 200(12) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [sch. 2 para. 5(6)(c)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/5/6/c) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

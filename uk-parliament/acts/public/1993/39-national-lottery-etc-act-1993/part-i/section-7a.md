@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Annual fee[^key-342656e8cabf9c51c0163bc60635858b]
+## 7A. Annual fee[^c-342656e8cabf9c51c0163bc60635858b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-342656e8cabf9c51c0163bc60635858b]: Textual amendment: S. 7A inserted (6.1.2010) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/5/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2010/2](https://www.legislation.gov.uk/uksi/2010/2), [art. 2](https://www.legislation.gov.uk/uksi/2010/2/article/2)
+[^c-342656e8cabf9c51c0163bc60635858b]: Textual amendment: S. 7A inserted (6.1.2010) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/5/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2010/2](https://www.legislation.gov.uk/uksi/2010/2), [art. 2](https://www.legislation.gov.uk/uksi/2010/2/article/2)

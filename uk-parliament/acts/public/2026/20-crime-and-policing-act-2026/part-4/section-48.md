@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Child criminal exploitation[^key-dc6f988487c2fc3731d457742343b0ff]
+## 48. Child criminal exploitation[^c-dc6f988487c2fc3731d457742343b0ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ D1 is to be treated for the purposes of this section and section 49 as also havi
 
 ## Annotations
 
-[^key-dc6f988487c2fc3731d457742343b0ff]: Commencement: S. 48 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)
+[^c-dc6f988487c2fc3731d457742343b0ff]: Commencement: S. 48 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/7)

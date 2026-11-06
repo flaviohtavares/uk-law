@@ -76,7 +76,7 @@ The provisions of Part II (benefit) of the Act, in their application to a marine
   - (i) the expression “**place of work**” shall include the ship or vessel in the service of which the mariner is employed;
   - (ii) the requirements of subsection (1)(b) shall not apply in the case of a mariner who, with the express or implied permission of his employer, is travelling to or from such ship or vessel as aforesaid in any other ship or vessel;
 - (c) in addition to the provisions of section 54 of the Act (accidents happening while meeting an emergency), an accident happening to a mariner in or about a ship or vessel on board which he is for the time being employed shall be deemed to arise out of and in the course of his employment if it happens while he is taking steps on as actual or supposed emergency on or in connection with any ship or vessel to rescue, succor or protect persons who are, or are thought to be or possibly to be, injured or imperilled, or to avert or minimise serious damage to property;
-- (d)[^key-e55b093f6ba4c04f4bd2a03eedaaa4cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e55b093f6ba4c04f4bd2a03eedaaa4cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Accidents happening to pilots
 
@@ -89,8 +89,8 @@ An accident happening to a mariner employed as a pilot who normally plies his tr
 
 Those provisions of section 82(5) of the Act which provide for disqualification for the receipt of benefit during periods of absence from Great Britain shall have effect in relation to benefit payable in respect of an accident arising out of and in the course of, or a prescribed disease due to the nature of, the employment of a mariner, subject to the following exceptions:—
 
-- (a)[^key-8b8ad1efc0e2154672bb58f6e0e19c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) a mariner shall not be disqualified for receiving reduced earnings allowance under section 59A of the Act[^key-c85417d0f7a894a0227a8bc056f41763] by reason of being absent from Great Britain in the course of his employment (being employed earner's employment as a mariner).
+- (a)[^c-8b8ad1efc0e2154672bb58f6e0e19c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a mariner shall not be disqualified for receiving reduced earnings allowance under section 59A of the Act[^c-c85417d0f7a894a0227a8bc056f41763] by reason of being absent from Great Britain in the course of his employment (being employed earner's employment as a mariner).
 
 ## 6. Notice of accident and obligations of employers
 
@@ -135,7 +135,7 @@ Regulation 1(3)
 
 **3.** In regulation 7(a), the words “or by a superintendent” shall be omitted.
 
-**4.** Regulations 2(2), [^key-97d00a821ad61da8cd1a4fd4a18034da]...and 4 shall not apply.
+**4.** Regulations 2(2), [^c-97d00a821ad61da8cd1a4fd4a18034da]...and 4 shall not apply.
 
 EXPLANATORY NOTE
 
@@ -147,11 +147,11 @@ In so far as these Regulations are made under the power conferred by section 129
 
 [^f00001]: Footnote: (1975 III, p. 1448).
 
-[^key-e55b093f6ba4c04f4bd2a03eedaaa4cd]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/uksi/1975/470/regulation/3/d) revoked (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1983/186/regulation/3/2)
+[^c-e55b093f6ba4c04f4bd2a03eedaaa4cd]: Textual amendment: [Reg. 3(d)](https://www.legislation.gov.uk/uksi/1975/470/regulation/3/d) revoked (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1983/186/regulation/3/2)
 
-[^key-8b8ad1efc0e2154672bb58f6e0e19c5a]: Textual amendment: Reg. 5(a) revoked (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1983/186/regulation/3/2)
+[^c-8b8ad1efc0e2154672bb58f6e0e19c5a]: Textual amendment: Reg. 5(a) revoked (6.4.1983) by [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1983/186/regulation/3/2)
 
-[^key-c85417d0f7a894a0227a8bc056f41763]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1975/470/regulation/5/b) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [3](https://www.legislation.gov.uk/uksi/1988/553/regulation/3)
+[^c-c85417d0f7a894a0227a8bc056f41763]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/uksi/1975/470/regulation/5/b) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [3](https://www.legislation.gov.uk/uksi/1988/553/regulation/3)
 
 [^f00002]: Footnote: (Rev. XVI, p. 432: 1948 I, p. 2990).
 
@@ -159,4 +159,4 @@ In so far as these Regulations are made under the power conferred by section 129
 
 [^f00004]: Footnote: (1951 I, p. 1508).
 
-[^key-97d00a821ad61da8cd1a4fd4a18034da]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/1975/470/schedule/paragraph/4) omitted (6.4.1983) by virtue of [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/1983/186/regulation/3/3)
+[^c-97d00a821ad61da8cd1a4fd4a18034da]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/uksi/1975/470/schedule/paragraph/4) omitted (6.4.1983) by virtue of [The Social Security (Abolition of Injury Benefit) (Consequential) Regulations 1983 (S.I. 1983/186)](https://www.legislation.gov.uk/uksi/1983/186), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1983/186/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/1983/186/regulation/3/3)

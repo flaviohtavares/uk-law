@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment of regulation 5 (pre-application opinion by the Secretary of State as to content of environmental statement)[^key-52882762451b401e1c317d48ae36d843]
+## 50. Amendment of regulation 5 (pre-application opinion by the Secretary of State as to content of environmental statement)[^c-52882762451b401e1c317d48ae36d843]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52882762451b401e1c317d48ae36d843]: Commencement: Reg. 50 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-52882762451b401e1c317d48ae36d843]: Commencement: Reg. 50 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

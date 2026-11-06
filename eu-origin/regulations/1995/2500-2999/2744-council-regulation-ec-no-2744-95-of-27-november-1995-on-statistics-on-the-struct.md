@@ -33,92 +33,92 @@ of 27 November 1995
 
 on statistics on the structure and distribution of earnings (revoked)
 
-[^key-d17aca175a1cb92e804fe12a266f9817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d17aca175a1cb92e804fe12a266f9817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. General provisions[^key-d17aca175a1cb92e804fe12a266f9817]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Reference period[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 1. General provisions[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Scope[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 2. Reference period[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Statistical Units[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 3. Scope[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Characteristics of the required information[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 4. Statistical Units[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Data collection[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 5. Characteristics of the required information[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Representativeness[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 6. Data collection[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Processing of results[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 7. Representativeness[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Forwarding of results[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 8. Processing of results[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Arrangements for implementation[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 9. Forwarding of results[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Procedure[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 10. Arrangements for implementation[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-d17aca175a1cb92e804fe12a266f9817]
+## Article 11. Procedure[^c-d17aca175a1cb92e804fe12a266f9817]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 12. Entry into force[^c-d17aca175a1cb92e804fe12a266f9817]
 
-## ANNEX — SPECIAL PROVISIONS[^key-d17aca175a1cb92e804fe12a266f9817]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817] I.
+[^c-d17aca175a1cb92e804fe12a266f9817]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — SPECIAL PROVISIONS[^c-d17aca175a1cb92e804fe12a266f9817]
+
+[^c-d17aca175a1cb92e804fe12a266f9817] I.
 
 **Exceptions to the reference period (Article 2)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817]1.
+[^c-d17aca175a1cb92e804fe12a266f9817]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817]2.
+[^c-d17aca175a1cb92e804fe12a266f9817]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817] II.
+[^c-d17aca175a1cb92e804fe12a266f9817] II.
 
 **Exceptions to the scope of the survey (Article 3)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817]1.
+[^c-d17aca175a1cb92e804fe12a266f9817]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817]2.
+[^c-d17aca175a1cb92e804fe12a266f9817]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d17aca175a1cb92e804fe12a266f9817]3.
+[^c-d17aca175a1cb92e804fe12a266f9817]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d17aca175a1cb92e804fe12a266f9817]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d17aca175a1cb92e804fe12a266f9817]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

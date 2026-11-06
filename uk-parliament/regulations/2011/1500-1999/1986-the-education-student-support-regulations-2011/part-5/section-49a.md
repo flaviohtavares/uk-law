@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Quarters in respect of which grant for travel is payable[^key-24d1e1ee6c29d13c4f852208b88a5a9d][^key-3d6325c25f442e62ba7889d1e54589f8]
+## 49A. Quarters in respect of which grant for travel is payable[^c-24d1e1ee6c29d13c4f852208b88a5a9d][^c-3d6325c25f442e62ba7889d1e54589f8]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ the student may qualify for a grant for travel in respect of such quarters of th
 
 ## Annotations
 
-[^key-24d1e1ee6c29d13c4f852208b88a5a9d]: Textual amendment: Reg. 49A substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [21](https://www.legislation.gov.uk/uksi/2023/74/regulation/21)
+[^c-24d1e1ee6c29d13c4f852208b88a5a9d]: Textual amendment: Reg. 49A substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [21](https://www.legislation.gov.uk/uksi/2023/74/regulation/21)
 
-[^key-3d6325c25f442e62ba7889d1e54589f8]: Textual amendment: Reg. 49A heading inserted (1.6.2023) by [The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521)](https://www.legislation.gov.uk/uksi/2023/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/521/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2023/521/regulation/5/5) (with [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2023/521/regulation/4/3/a))
+[^c-3d6325c25f442e62ba7889d1e54589f8]: Textual amendment: Reg. 49A heading inserted (1.6.2023) by [The Education (Student Finance) (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/521)](https://www.legislation.gov.uk/uksi/2023/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/521/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2023/521/regulation/5/5) (with [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2023/521/regulation/4/3/a))

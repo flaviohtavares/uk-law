@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**65.**[^key-6fb13633eead9b03f9e96925736438ab] Part 1 of the 1972 Act, as it has effect as set out in Schedule 3 to the Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995, is amended as follows.
+**65.**[^c-6fb13633eead9b03f9e96925736438ab] Part 1 of the 1972 Act, as it has effect as set out in Schedule 3 to the Reciprocal Enforcement of Maintenance Orders (United States of America) Order 1995, is amended as follows.
 
 ## Annotations
 
-[^key-6fb13633eead9b03f9e96925736438ab]: Commencement: Art. 65 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-6fb13633eead9b03f9e96925736438ab]: Commencement: Art. 65 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

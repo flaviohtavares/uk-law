@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Protective provisions in respect of flood defence works and watercourses etc.[^key-1ba0c2f7303e217680adcf6845ce6734]
+## 186. Protective provisions in respect of flood defence works and watercourses etc.[^c-1ba0c2f7303e217680adcf6845ce6734]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ shall be referred (in the case of a dispute falling within paragraph (d) above, 
 
 ## Annotations
 
-[^key-1ba0c2f7303e217680adcf6845ce6734]: Modification: [S. 186](https://www.legislation.gov.uk/ukpga/1991/56/section/186) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(8)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/8) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-1ba0c2f7303e217680adcf6845ce6734]: Modification: [S. 186](https://www.legislation.gov.uk/ukpga/1991/56/section/186) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(8)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/8) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13221701]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).

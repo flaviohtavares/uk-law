@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power to alter layout etc. of streets[^key-1003169120af9251e85ac86048655e03]
+## 8. Power to alter layout etc. of streets[^c-1003169120af9251e85ac86048655e03]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1003169120af9251e85ac86048655e03]: Commencement: Art. 8 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-1003169120af9251e85ac86048655e03]: Commencement: Art. 8 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Procedure in relation to further approvals, etc[^key-4f6d3d6aa33d9e0f027f1298c78b572e]
+## 39. Procedure in relation to further approvals, etc[^c-4f6d3d6aa33d9e0f027f1298c78b572e]
 
 *Extent: E+W+S*
 
 (1) In this article—
 
-- “competent authority” means the competent authority as defined regulation 7 of the Conservation of Habitats and Species Regulations 2017/1012[^key-36176878a667bd7d0cebb0084c10d659];
+- “competent authority” means the competent authority as defined regulation 7 of the Conservation of Habitats and Species Regulations 2017/1012[^c-36176878a667bd7d0cebb0084c10d659];
 - “plans” includes sections, drawings, specifications and particulars (including descriptions of methods of construction).
 
 (2) Where an application is made to the relevant planning authority, a highway authority, a street authority, a traffic authority or the owner of a sewer or drain for any consent, agreement or approval required under any of the provisions of this Order such application shall, where appropriate, conform to the objective standard as set out in the measures of success for discharge of requirements and shall be accompanied by proper and sufficient plans of the proposal and such consent, agreement or approval shall, if given, be in writing and may be given subject to such reasonable terms and conditions as the authority or owner may require and shall not be unreasonably withheld.
@@ -31,7 +31,7 @@ summary: ''
 
 (4) Subject to paragraph (5), in the event of any refusal or disapproval by the authority or owner, the undertaker may resubmit a revised application, or revised plans in support of the original application, and, in that event, if the authority or owner has not intimated its refusal or disapproval and the grounds of refusal or disapproval within 56 days of the revised application or of revised plans being submitted, it shall be deemed to have given its consent or agreement to, or its approval of, the revised application or plans.
 
-(5) Paragraphs (3) and (4) do not apply in the case of any application that is considered by the competent authority as requiring an appropriate assessment under the Conservation of Habitats and Species Regulations 2017[^key-34e6e5a15d6ae138f4019ddf477b5ac5].
+(5) Paragraphs (3) and (4) do not apply in the case of any application that is considered by the competent authority as requiring an appropriate assessment under the Conservation of Habitats and Species Regulations 2017[^c-34e6e5a15d6ae138f4019ddf477b5ac5].
 
 (6) The undertaker shall not carry out the proposal until any such application or plans have been approved (or deemed to have been approved) or settled by arbitration.
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f6d3d6aa33d9e0f027f1298c78b572e]: Commencement: Art. 39 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-4f6d3d6aa33d9e0f027f1298c78b572e]: Commencement: Art. 39 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-36176878a667bd7d0cebb0084c10d659]: Textual amendment: Words in [art. 39(1)](https://www.legislation.gov.uk/uksi/2014/1873/article/39/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 36(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/36/3/a)
+[^c-36176878a667bd7d0cebb0084c10d659]: Textual amendment: Words in [art. 39(1)](https://www.legislation.gov.uk/uksi/2014/1873/article/39/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 36(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/36/3/a)
 
-[^key-34e6e5a15d6ae138f4019ddf477b5ac5]: Textual amendment: Words in [art. 39(5)](https://www.legislation.gov.uk/uksi/2014/1873/article/39/5) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 36(3)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/36/3/b)
+[^c-34e6e5a15d6ae138f4019ddf477b5ac5]: Textual amendment: Words in [art. 39(5)](https://www.legislation.gov.uk/uksi/2014/1873/article/39/5) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 36(3)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/36/3/b)

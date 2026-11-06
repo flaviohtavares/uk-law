@@ -55,7 +55,7 @@ Where the court issues a corrected full gender recognition certificate, a court 
 
 The rules in this Chapter apply to an application under section 36 of the 1973 Act [^c20647901] or paragraph 73 of Schedule 5 to the 2004 Act to alter a maintenance agreement after the death of one of the parties.
 
-## 8.7. Where to start proceedings[^key-eeca1970696bcfc223f88c6ba80e5670]
+## 8.7. Where to start proceedings[^c-eeca1970696bcfc223f88c6ba80e5670]
 
 *Extent: E+W*
 
@@ -139,7 +139,7 @@ The rules in this Chapter apply to an application under section 17 of the Marrie
 
 Where an application for an order under section 17 of the Married Women's Property Act 1882 [^c20647921] or section 66 of the 2004 Act is made in any proceedings for a financial order, the application must be made in accordance with the Part 18 procedure.
 
-## 8.14. Where to start proceedings[^key-25f34cb44188ab0cfb9544b733535d8e]
+## 8.14. Where to start proceedings[^c-25f34cb44188ab0cfb9544b733535d8e]
 
 *Extent: E+W*
 
@@ -183,7 +183,7 @@ The rules in this Chapter apply to applications made in accordance with—
 - (c) section 56(1)(b) and (2) of the 1986 Act [^c20647941] (declarations of legitimacy or legitimation); and
 - (d) section 57 of the 1986 Act [^c20647951] (declarations as to adoptions effected overseas).
 
-## 8.19. Where to start proceedings[^key-1a5badb430a84ead13d2633f4997210e]
+## 8.19. Where to start proceedings[^c-1a5badb430a84ead13d2633f4997210e]
 
 *Extent: E+W*
 
@@ -198,11 +198,11 @@ The rules in this Chapter apply to applications made in accordance with—
 | *Proceedings* | *Respondent* |
 | --- | --- |
 | Applications for declarations as to marital or civil partnership status. | The other party to the marriage or civil partnership in question or, where the applicant is a third party, both parties to the marriage or civil partnership. |
-| Applications for declarations of parentage. | (i) The person whose parentage is in issue[^key-448682998ad23ca812abc1aeb8fc6553] except where that person is a child[^key-3a1757732faaf4fd9f9fccd8863bd72c]; and<br>(ii) any person who is or is alleged to be the parent of the person whose parentage is in issue,<br>except where that person is the applicant or is a child[^key-24b06030546f8eed33f51a5827e1d945]. |
+| Applications for declarations of parentage. | (i) The person whose parentage is in issue[^c-448682998ad23ca812abc1aeb8fc6553] except where that person is a child[^c-3a1757732faaf4fd9f9fccd8863bd72c]; and<br>(ii) any person who is or is alleged to be the parent of the person whose parentage is in issue,<br>except where that person is the applicant or is a child[^c-24b06030546f8eed33f51a5827e1d945]. |
 | Applications for declarations of legitimacy or legitimation. | The applicant's father and mother or the survivor of them. |
 | Applications for declarations as to adoption effected overseas. | The person(s) whom the applicant is claiming are or are not the applicant's adoptive parents. |
 
-(Under rule 16.2 the court may make a child a party to certain proceedings (including applications for declarations of parentage) where it considers that to be in the best interests of the child.)[^key-1a6d6831b4824aec0cc2a0407ac62f66]
+(Under rule 16.2 the court may make a child a party to certain proceedings (including applications for declarations of parentage) where it considers that to be in the best interests of the child.)[^c-1a6d6831b4824aec0cc2a0407ac62f66]
 
 (2) The applicant must include in his application particulars of every person whose interest may be affected by the proceedings and his relationship to the applicant.
 
@@ -244,15 +244,15 @@ Subject to rule9.26(6), the rules in this Chapter apply to an application for pe
 
 (Rule 9.26(6) enables the application for permission to apply for a financial remedy under section 13 of the 1984 Act or paragraph 4 of Schedule 7 to the 2004 Act to be heard at the same time as the application for a financial remedy under Part 3 of the 1984 Act or Schedule 7 to the 2004 Act where that application is an application for a consent order.)
 
-(The Family Court (Composition and Distribution of Business) Rules 2014 make provision in relation to the allocation of the proceedings to which this Chapter applies to a specified level of judge in the family court.)[^key-acc47eacea831cfc35c2aa38a8851982]
+(The Family Court (Composition and Distribution of Business) Rules 2014 make provision in relation to the allocation of the proceedings to which this Chapter applies to a specified level of judge in the family court.)[^c-acc47eacea831cfc35c2aa38a8851982]
 
-## 8.24. How to start proceedings[^key-eae467eb120bbd90dedbf4e2cc245e89]
+## 8.24. How to start proceedings[^c-eae467eb120bbd90dedbf4e2cc245e89]
 
 *Extent: E+W*
 
 The application must be made in accordance with the Part 18 procedure.
 
-## 8.25. Application without notice[^key-1f66b19a4129ede9dedcd9b2684438ee]
+## 8.25. Application without notice[^c-1f66b19a4129ede9dedcd9b2684438ee]
 
 *Extent: E+W*
 
@@ -268,7 +268,7 @@ The application must be made in accordance with the Part 18 procedure.
 
 The court officer must—
 
-- (a) fix a date, time and place for the hearing of the application [^key-7fc9058beaa3fce3b070b422fdf2282b]...; and
+- (a) fix a date, time and place for the hearing of the application [^c-7fc9058beaa3fce3b070b422fdf2282b]...; and
 - (b) give notice of the date of the hearing to the applicant.
 
 ## 8.27. Hearings to be in private unless the court directs otherwise
@@ -277,7 +277,7 @@ The court officer must—
 
 An application under this Chapter must be heard in private unless the court directs otherwise.
 
-## 8.28. Direction that application be dealt with by a district judge of the principal registry[^key-22aed0feab133faf0557dada7da30087]
+## 8.28. Direction that application be dealt with by a district judge of the principal registry[^c-22aed0feab133faf0557dada7da30087]
 
 *Extent: E+W*
 
@@ -289,7 +289,7 @@ An application under this Chapter must be heard in private unless the court dire
 
 This Chapter applies to an application for the transfer of a tenancy under section 53 of, and Schedule 7 to, the 1996 Act.
 
-## 8.30. Where to start proceedings[^key-a43893d375d54108481b1a6fa39e4bb3]
+## 8.30. Where to start proceedings[^c-a43893d375d54108481b1a6fa39e4bb3]
 
 *Extent: E+W*
 
@@ -310,7 +310,7 @@ unless the court directs that the applicant must do so.
 
 (2) Where service is effected by the applicant, the applicant must file a certificate of service.
 
-(Part 6 of these Rules makes provision in relation to the method of service, and includes rule 6.23A which specifies how service is to be effected on a person where there are reasonable grounds to believe that person is residing in a refuge.)[^key-4e561d52e01549ecd9b38c727b1f8dfd]
+(Part 6 of these Rules makes provision in relation to the method of service, and includes rule 6.23A which specifies how service is to be effected on a person where there are reasonable grounds to believe that person is residing in a refuge.)[^c-4e561d52e01549ecd9b38c727b1f8dfd]
 
 ## 8.32. Who the parties are
 
@@ -347,7 +347,7 @@ In this Chapter—
 - “**child support maintenance**” has the meaning assigned to it in section 3(6) of the 1991 Act [^c20647981];
 - “**reviewable disposition**” has the meaning assigned to it in section 32L(5) of the 1991 Act.
 
-## 8.37. Where to start proceedings[^key-a98ed67ea7113ce01ad3785ba0935589]
+## 8.37. Where to start proceedings[^c-a98ed67ea7113ce01ad3785ba0935589]
 
 *Extent: E+W*
 
@@ -357,7 +357,7 @@ In this Chapter—
 
 *Extent: E+W*
 
-(1) The applicant to the proceedings is the Secretary of State[^key-67e32d21b102e5dbc8b35b5ee32a6f75] and the respondent is the person who has failed to pay child support maintenance.
+(1) The applicant to the proceedings is the Secretary of State[^c-67e32d21b102e5dbc8b35b5ee32a6f75] and the respondent is the person who has failed to pay child support maintenance.
 
 (2) The court may at any time direct that —
 
@@ -408,19 +408,19 @@ may, within 14 days beginning with the date of service or receipt, file a statem
 - (a) the order must include a provision allowing any respondent to apply to the court for an order to be reconsidered as soon as just and convenient at a full hearing; and
 - (b) the applicant must, as soon as reasonably practicable, serve upon each respondent a copy of the order and a copy of the written evidence in support of the application.
 
-## 8.41. Scope of this Chapter[^key-e1f6dc066b2e29407aeb239aa8c0ea39]
+## 8.41. Scope of this Chapter[^c-e1f6dc066b2e29407aeb239aa8c0ea39]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.42. Child acting without a children's guardian[^key-e1f6dc066b2e29407aeb239aa8c0ea39]
+## 8.42. Child acting without a children's guardian[^c-e1f6dc066b2e29407aeb239aa8c0ea39]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.43. Who the respondents are[^key-e1f6dc066b2e29407aeb239aa8c0ea39]
+## 8.43. Who the respondents are[^c-e1f6dc066b2e29407aeb239aa8c0ea39]
 
 *Extent: E+W*
 
@@ -432,13 +432,13 @@ may, within 14 days beginning with the date of service or receipt, file a statem
 
 [^c20647901]: Marginal citation: [Section 36](https://www.legislation.gov.uk/uksi/2010/2955/section/36) was amended by section 26(1) of the [Inheritance (Provision for Family and Dependants) Act 1975 (c.63)](https://www.legislation.gov.uk/ukpga/1975/63).
 
-[^key-eeca1970696bcfc223f88c6ba80e5670]: Textual amendment: Rule 8.7 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [16](https://www.legislation.gov.uk/uksi/2013/3204/rule/16) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-eeca1970696bcfc223f88c6ba80e5670]: Textual amendment: Rule 8.7 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [16](https://www.legislation.gov.uk/uksi/2013/3204/rule/16) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
 [^c20647911]: Marginal citation: [1882 c.75](https://www.legislation.gov.uk/ukpga/1882/75).
 
 [^c20647921]: Marginal citation: [Section 17](https://www.legislation.gov.uk/uksi/2010/2955/section/17) was amended by the [Statute Law (Repeals) Act 1969 (c.52)](https://www.legislation.gov.uk/ukpga/1969/52) and section 43 of the Matrimonial and Family Proceedings Act 1984.
 
-[^key-25f34cb44188ab0cfb9544b733535d8e]: Textual amendment: Rule 8.14 substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [17](https://www.legislation.gov.uk/uksi/2013/3204/rule/17) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-25f34cb44188ab0cfb9544b733535d8e]: Textual amendment: Rule 8.14 substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [17](https://www.legislation.gov.uk/uksi/2013/3204/rule/17) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
 [^c20647931]: Marginal citation: [Section 55A](https://www.legislation.gov.uk/uksi/2010/2955/section/55A) was inserted by section 83(1) and (2) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
@@ -446,38 +446,38 @@ may, within 14 days beginning with the date of service or receipt, file a statem
 
 [^c20647951]: Marginal citation: [Section 57](https://www.legislation.gov.uk/uksi/2010/2955/section/57) was amended by section 139(1) of and paragraphs 46, and 49(a) and (b) of Schedule 3 to the [Adoption and Children Act 2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38) and section 83(5) of and paragraphs 3 and 6 of Schedule 8 to the Child Support, Pensions and Social Security Act 2000.
 
-[^key-1a5badb430a84ead13d2633f4997210e]: Textual amendment: Rule 8.19 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [18](https://www.legislation.gov.uk/uksi/2013/3204/rule/18) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-1a5badb430a84ead13d2633f4997210e]: Textual amendment: Rule 8.19 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [18](https://www.legislation.gov.uk/uksi/2013/3204/rule/18) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-448682998ad23ca812abc1aeb8fc6553]: Textual amendment: Words in rule 8.20(1) table substituted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [15](https://www.legislation.gov.uk/uksi/2012/679/rule/15) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
+[^c-448682998ad23ca812abc1aeb8fc6553]: Textual amendment: Words in rule 8.20(1) table substituted (6.4.2012) by [The Family Procedure (Amendment) Rules 2012 (S.I. 2012/679)](https://www.legislation.gov.uk/uksi/2012/679), [rules 1](https://www.legislation.gov.uk/uksi/2012/679/rule/1), [15](https://www.legislation.gov.uk/uksi/2012/679/rule/15) (with [rule 30](https://www.legislation.gov.uk/uksi/2012/679/rule/30))
 
-[^key-3a1757732faaf4fd9f9fccd8863bd72c]: Textual amendment: Words in [rule 8.20(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.20/1) table inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2016/901/rule/3/a/i) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-3a1757732faaf4fd9f9fccd8863bd72c]: Textual amendment: Words in [rule 8.20(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.20/1) table inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2016/901/rule/3/a/i) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-24b06030546f8eed33f51a5827e1d945]: Textual amendment: Words in [rule 8.20(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.20/1) table inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/901/rule/3/a/ii) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-24b06030546f8eed33f51a5827e1d945]: Textual amendment: Words in [rule 8.20(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.20/1) table inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/901/rule/3/a/ii) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-1a6d6831b4824aec0cc2a0407ac62f66]: Textual amendment: Words in rule 8.20(1) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/3/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
+[^c-1a6d6831b4824aec0cc2a0407ac62f66]: Textual amendment: Words in rule 8.20(1) inserted (3.10.2016) by [The Family Procedure (Amendment No. 2) Rules 2016 (S.I. 2016/901)](https://www.legislation.gov.uk/uksi/2016/901), [rules 1](https://www.legislation.gov.uk/uksi/2016/901/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/901/rule/3/b) (with [rule 9](https://www.legislation.gov.uk/uksi/2016/901/rule/9))
 
-[^key-acc47eacea831cfc35c2aa38a8851982]: Textual amendment: Words in [rule 8.23](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.23) inserted (7.8.2017) by [The Family Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/741)](https://www.legislation.gov.uk/uksi/2017/741), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/741/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2017/741/rule/3)
+[^c-acc47eacea831cfc35c2aa38a8851982]: Textual amendment: Words in [rule 8.23](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.23) inserted (7.8.2017) by [The Family Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/741)](https://www.legislation.gov.uk/uksi/2017/741), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/741/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2017/741/rule/3)
 
-[^key-eae467eb120bbd90dedbf4e2cc245e89]: Textual amendment: Rule 8.24 substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [19](https://www.legislation.gov.uk/uksi/2013/3204/rule/19) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-eae467eb120bbd90dedbf4e2cc245e89]: Textual amendment: Rule 8.24 substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [19](https://www.legislation.gov.uk/uksi/2013/3204/rule/19) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-1f66b19a4129ede9dedcd9b2684438ee]: Textual amendment: [Rule 8.25](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.25) substituted (7.8.2017) by [The Family Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/741)](https://www.legislation.gov.uk/uksi/2017/741), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/741/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2017/741/rule/4)
+[^c-1f66b19a4129ede9dedcd9b2684438ee]: Textual amendment: [Rule 8.25](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.25) substituted (7.8.2017) by [The Family Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/741)](https://www.legislation.gov.uk/uksi/2017/741), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/741/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2017/741/rule/4)
 
-[^key-7fc9058beaa3fce3b070b422fdf2282b]: Textual amendment: Words in [rule 8.26(a)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.26/a) omitted (6.4.2015) by virtue of [The Family Procedure (Amendment No. 4) Rules 2014 (S.I. 2014/3296)](https://www.legislation.gov.uk/uksi/2014/3296), [rules 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/3), [8](https://www.legislation.gov.uk/uksi/2014/3296/rule/8) (with [rule 15](https://www.legislation.gov.uk/uksi/2014/3296/rule/15))
+[^c-7fc9058beaa3fce3b070b422fdf2282b]: Textual amendment: Words in [rule 8.26(a)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.26/a) omitted (6.4.2015) by virtue of [The Family Procedure (Amendment No. 4) Rules 2014 (S.I. 2014/3296)](https://www.legislation.gov.uk/uksi/2014/3296), [rules 1(3)](https://www.legislation.gov.uk/uksi/2014/3296/rule/1/3), [8](https://www.legislation.gov.uk/uksi/2014/3296/rule/8) (with [rule 15](https://www.legislation.gov.uk/uksi/2014/3296/rule/15))
 
-[^key-22aed0feab133faf0557dada7da30087]: Textual amendment: [Rule 8.28](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.28) omitted (7.8.2017) by virtue of [The Family Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/741)](https://www.legislation.gov.uk/uksi/2017/741), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/741/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2017/741/rule/5)
+[^c-22aed0feab133faf0557dada7da30087]: Textual amendment: [Rule 8.28](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.28) omitted (7.8.2017) by virtue of [The Family Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/741)](https://www.legislation.gov.uk/uksi/2017/741), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/741/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2017/741/rule/5)
 
-[^key-a43893d375d54108481b1a6fa39e4bb3]: Textual amendment: Rule 8.30 substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [21](https://www.legislation.gov.uk/uksi/2013/3204/rule/21) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-a43893d375d54108481b1a6fa39e4bb3]: Textual amendment: Rule 8.30 substituted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [21](https://www.legislation.gov.uk/uksi/2013/3204/rule/21) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
 [^c20647961]: Marginal citation: [Paragraph 1](https://www.legislation.gov.uk/uksi/2010/2955/paragraph/1) of Schedule 7 to the Family Law Act 1996 was amended by section 82 of and paragraphs 16(1) and (2) of Schedule 9 to the Civil Partnership Act 2004 and article 2 of and paragraph 10(b)(i) of the Schedule to the [Housing Act 1996 (Consequential Amendments) Order 1997 (S.I. 1997/74)](https://www.legislation.gov.uk/uksi/1997/74).
 
-[^key-4e561d52e01549ecd9b38c727b1f8dfd]: Textual amendment: Words in [rule 8.31](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.31) inserted (13.1.2025) by [The Family Procedure (Amendment) Rules 2024 (S.I. 2024/1016)](https://www.legislation.gov.uk/uksi/2024/1016), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1016/rule/1/3/b), [5](https://www.legislation.gov.uk/uksi/2024/1016/rule/5)
+[^c-4e561d52e01549ecd9b38c727b1f8dfd]: Textual amendment: Words in [rule 8.31](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.31) inserted (13.1.2025) by [The Family Procedure (Amendment) Rules 2024 (S.I. 2024/1016)](https://www.legislation.gov.uk/uksi/2024/1016), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1016/rule/1/3/b), [5](https://www.legislation.gov.uk/uksi/2024/1016/rule/5)
 
 [^c20647971]: Marginal citation: [Section 32L](https://www.legislation.gov.uk/uksi/2010/2955/section/32L) was inserted by section 24 of the [Child Maintenance and Other Payments Act 2008 (c.6)](https://www.legislation.gov.uk/ukpga/2008/6).
 
 [^c20647981]: Marginal citation: [Section 3(6)](https://www.legislation.gov.uk/uksi/2010/2955/section/3/6) was amended by section 1(2) of the Child Support, Pensions and Social Security Act 2000.
 
-[^key-a98ed67ea7113ce01ad3785ba0935589]: Textual amendment: Rule 8.37 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [22](https://www.legislation.gov.uk/uksi/2013/3204/rule/22) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-a98ed67ea7113ce01ad3785ba0935589]: Textual amendment: Rule 8.37 omitted (22.4.2014) by virtue of [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [22](https://www.legislation.gov.uk/uksi/2013/3204/rule/22) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
 
-[^key-67e32d21b102e5dbc8b35b5ee32a6f75]: Textual amendment: Words in [rule 8.38(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.38/1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 125(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/125/b)
+[^c-67e32d21b102e5dbc8b35b5ee32a6f75]: Textual amendment: Words in [rule 8.38(1)](https://www.legislation.gov.uk/uksi/2010/2955/rule/8.38/1) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 125(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/125/b)
 
-[^key-e1f6dc066b2e29407aeb239aa8c0ea39]: Textual amendment: [Pt. 8 Ch. 9](https://www.legislation.gov.uk/uksi/2010/2955/part/8/chapter/9) omitted (27.2.2023) by virtue of [The Family Procedure (Amendment) Rules 2023 (S.I. 2023/61)](https://www.legislation.gov.uk/uksi/2023/61), [rules 1(3)](https://www.legislation.gov.uk/uksi/2023/61/rule/1/3), [8](https://www.legislation.gov.uk/uksi/2023/61/rule/8)
+[^c-e1f6dc066b2e29407aeb239aa8c0ea39]: Textual amendment: [Pt. 8 Ch. 9](https://www.legislation.gov.uk/uksi/2010/2955/part/8/chapter/9) omitted (27.2.2023) by virtue of [The Family Procedure (Amendment) Rules 2023 (S.I. 2023/61)](https://www.legislation.gov.uk/uksi/2023/61), [rules 1(3)](https://www.legislation.gov.uk/uksi/2023/61/rule/1/3), [8](https://www.legislation.gov.uk/uksi/2023/61/rule/8)

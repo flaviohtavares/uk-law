@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Qualifying conditions for the grant for travel – courses in medicine and dentistry[^key-ce1039567439e40bf80b78bbcf3291e3]
+## 48. Qualifying conditions for the grant for travel – courses in medicine and dentistry[^c-ce1039567439e40bf80b78bbcf3291e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ A grant is available to an eligible student attending a course in medicine or de
 
 ## Annotations
 
-[^key-ce1039567439e40bf80b78bbcf3291e3]: Commencement: Reg. 48 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-ce1039567439e40bf80b78bbcf3291e3]: Commencement: Reg. 48 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

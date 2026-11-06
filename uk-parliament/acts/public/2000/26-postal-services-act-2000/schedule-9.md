@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Repeals and revocations[^c10294491][^key-8fd7e2f80e75d14689801df39591b07d]
+## SCHEDULE 9 — Repeals and revocations[^c10294491][^c-8fd7e2f80e75d14689801df39591b07d]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,10 +84,10 @@ Section 127(6).
 |  |  | Regulation 3(1) to (3). |
 |  |  | Regulations 4 to 6. |
 
-[^key-8fd7e2f80e75d14689801df39591b07d]Note: The repeal of section 52 of the Post Office Act 1953 (which extends only to Scotland) does not affect any liability at common law in respect of any offence described in that section.
+[^c-8fd7e2f80e75d14689801df39591b07d]Note: The repeal of section 52 of the Post Office Act 1953 (which extends only to Scotland) does not affect any liability at common law in respect of any offence described in that section.
 
 ## Annotations
 
 [^c10294491]: Commencement: Sch. 9 not in force at Royal Assent see s. 130; Sch. 9 in force for specified purposes at 6.11.2000, for further specified purposes at 1.1.2001 and 26.3.2001 by [S.I. 2000/2957](https://www.legislation.gov.uk/uksi/2000/2957), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2000/2957/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2000/2957/schedule/1), [2](https://www.legislation.gov.uk/uksi/2000/2957/schedule/2), [3](https://www.legislation.gov.uk/uksi/2000/2957/schedule/3); (with transitional provisions in arts. 3-8); Sch. 9 in force for further specified purposes at 26.3.2001 by [S.I. 2001/878](https://www.legislation.gov.uk/uksi/2001/878), [art. 2](https://www.legislation.gov.uk/uksi/2001/878/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/878/schedule) (subject to [arts. 3-17](https://www.legislation.gov.uk/uksi/2001/878/article/3)) and for further specified purposes at 26.3.2001 by [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
-[^key-8fd7e2f80e75d14689801df39591b07d]: Commencement: Sch. 9 in force at 1.5.2007 for specified purposes by [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)
+[^c-8fd7e2f80e75d14689801df39591b07d]: Commencement: Sch. 9 in force at 1.5.2007 for specified purposes by [S.I. 2007/1181](https://www.legislation.gov.uk/uksi/2007/1181), [art. 2](https://www.legislation.gov.uk/uksi/2007/1181/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1181/schedule)

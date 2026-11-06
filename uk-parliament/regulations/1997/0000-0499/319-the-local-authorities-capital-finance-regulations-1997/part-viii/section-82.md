@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Capital receipts in relation to a single asset[^key-c4e9a791c860f21a4dc2c4c5d8fc614a]
+## 82. Capital receipts in relation to a single asset[^c-c4e9a791c860f21a4dc2c4c5d8fc614a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e9a791c860f21a4dc2c4c5d8fc614a]: Commencement: Reg. 82 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c4e9a791c860f21a4dc2c4c5d8fc614a]: Commencement: Reg. 82 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

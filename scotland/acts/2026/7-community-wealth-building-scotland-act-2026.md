@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Community wealth building statement
 
-### 1. Community wealth building statement[^key-6c9d335ab57bdddba8c4f4c204f33fdb][^key-7ba41aba03d99f0e0b11a7ecdeec04d3]
+### 1. Community wealth building statement[^c-6c9d335ab57bdddba8c4f4c204f33fdb][^c-7ba41aba03d99f0e0b11a7ecdeec04d3]
 
 (1) The Scottish Ministers must prepare a community wealth building statement.
 
@@ -99,7 +99,7 @@ to increase the number, and promote the development, of employee-owned businesse
 
 (7) Regulations under subsection (6) are subject to the affirmative procedure.
 
-### 2. Publication and laying of statement[^key-66df53286a5d4ccb3397d89e3b38a99f][^key-52cde8102aefa34faed4c7b7cee3dfeb]
+### 2. Publication and laying of statement[^c-66df53286a5d4ccb3397d89e3b38a99f][^c-52cde8102aefa34faed4c7b7cee3dfeb]
 
 (1) The Scottish Ministers must—
 
@@ -119,7 +119,7 @@ to increase the number, and promote the development, of employee-owned businesse
   - (ii) the ways in which, in preparing the community wealth building statement, they have taken account of views expressed in the course of that process, and
 - (b) lay a copy of the report before the Scottish Parliament.
 
-### 3. Review and revision of statement[^key-74fd2549626478cb143454a24633547f][^key-8cae885819c781804097d452133e3353]
+### 3. Review and revision of statement[^c-74fd2549626478cb143454a24633547f][^c-8cae885819c781804097d452133e3353]
 
 (1) The Scottish Ministers—
 
@@ -130,7 +130,7 @@ to increase the number, and promote the development, of employee-owned businesse
 
 (3) Section 1(2), (3) and (5) and section 2(1) and (5) apply in relation to revising the community wealth building statement as they apply in relation to preparing the first community wealth building statement.
 
-### 4. Reporting on statement[^key-9b0dafd2e639ecc0ee179628ff59fdae][^key-5adddbcb943a37dc86ba034ad314b36b]
+### 4. Reporting on statement[^c-9b0dafd2e639ecc0ee179628ff59fdae][^c-5adddbcb943a37dc86ba034ad314b36b]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of each reporting period—
 
@@ -152,7 +152,7 @@ to increase the number, and promote the development, of employee-owned businesse
 
 ## Community wealth building action plan
 
-### 5. Community wealth building action plan[^key-74587357d2cacf1edb4e06d7190f5e45][^key-73ab99ea758fa062876d485200099651]
+### 5. Community wealth building action plan[^c-74587357d2cacf1edb4e06d7190f5e45][^c-73ab99ea758fa062876d485200099651]
 
 (1) Each local authority, working jointly with the relevant public bodies relating to it, must prepare a community wealth building action plan for the area of the local authority in question within the period of 3 years beginning with the day on which this section comes into force.
 
@@ -258,7 +258,7 @@ to increase the number, and promote the development, of employee-owned businesse
 
 (18) Regulations under subsection (17) are subject to the affirmative procedure.
 
-### 6. Local authorities acting jointly[^key-712d16d42f39f19d83dd1345506261e9][^key-94256cd16e188c96f5cf38dcd368def1]
+### 6. Local authorities acting jointly[^c-712d16d42f39f19d83dd1345506261e9][^c-94256cd16e188c96f5cf38dcd368def1]
 
 (1) Two or more local authorities may act jointly, with the relevant public bodies relating to them, to prepare and publish a community wealth building action plan for the areas of the local authorities in question.
 
@@ -269,7 +269,7 @@ to increase the number, and promote the development, of employee-owned businesse
   - (i) a local authority, in relation to a community wealth building action plan or community wealth building partnership, is a reference to the authorities acting jointly, and
   - (ii) the area of a local authority is a reference to the combined areas of those authorities.
 
-### 7. Review and revision of action plan[^key-cb42a6c85b9cdb20c5c5b83c5a9bf91c][^key-306f62776a092b0792d1c29bd5a4f5d2]
+### 7. Review and revision of action plan[^c-cb42a6c85b9cdb20c5c5b83c5a9bf91c][^c-306f62776a092b0792d1c29bd5a4f5d2]
 
 (1) Each community wealth building partnership—
 
@@ -282,7 +282,7 @@ to increase the number, and promote the development, of employee-owned businesse
 
 (4) Subsection (1) and section 5(6), (7), (12), and (14) apply in relation to a revised community wealth building action plan published under subsection (3) as they apply in relation to a community wealth building action plan published under section 5.
 
-### 8. Reporting on action plan[^key-c8bd694fea42898a893ceb7599218656][^key-33d555dd6a467a6e06284b5551bd23da]
+### 8. Reporting on action plan[^c-c8bd694fea42898a893ceb7599218656][^c-33d555dd6a467a6e06284b5551bd23da]
 
 (1) Each community wealth building partnership must, as soon as reasonably practicable after the end of each reporting period, prepare a report setting out—
 
@@ -301,13 +301,13 @@ to increase the number, and promote the development, of employee-owned businesse
 - (a) the period of 5 years beginning with the day on which the community wealth building action plan is first published,
 - (b) each subsequent period of 5 years.
 
-### 9. Implementation of action plan[^key-46b331d380c8eb891cb1358d654bf691][^key-1d17e574d7e5c6f7bbf77016984e60df]
+### 9. Implementation of action plan[^c-46b331d380c8eb891cb1358d654bf691][^c-1d17e574d7e5c6f7bbf77016984e60df]
 
 During the period to which a community wealth building action plan relates, the community wealth building partners must, so far as reasonably practicable, implement the measures set out in the plan in the area of the local authority.
 
 ## Guidance about community wealth building
 
-### 10. Guidance about community wealth building[^key-8fdb7051df7f6dcb8cdb76ef316b7560][^key-9d6986f90057105c88310215855db667]
+### 10. Guidance about community wealth building[^c-8fdb7051df7f6dcb8cdb76ef316b7560][^c-9d6986f90057105c88310215855db667]
 
 (1) The Scottish Ministers must issue guidance about—
 
@@ -336,7 +336,7 @@ publish the guidance in such manner as they consider appropriate (including as p
 
 (7) References in section 5(14) and section 11(1) to guidance under this section include references to guidance revised under subsection (5).
 
-### 11. Duty to have due regard to guidance[^key-4e29f153519c847fd39978ad24d52073][^key-86104ac641e29b26edca5ed51f8c0c98]
+### 11. Duty to have due regard to guidance[^c-4e29f153519c847fd39978ad24d52073][^c-86104ac641e29b26edca5ed51f8c0c98]
 
 (1) The specified public bodies must have due regard to guidance issued under section 10(1)(b) when developing—
 
@@ -353,7 +353,7 @@ publish the guidance in such manner as they consider appropriate (including as p
 
 ## General
 
-### 12. Ancillary provision[^key-a1ab6cab371835f23d4fcf40258a1492]
+### 12. Ancillary provision[^c-a1ab6cab371835f23d4fcf40258a1492]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary or consequential provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -367,7 +367,7 @@ publish the guidance in such manner as they consider appropriate (including as p
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) are otherwise subject to the negative procedure.
 
-### 13. Interpretation[^key-8db9a2430a353b0987e0c1037c7a4744]
+### 13. Interpretation[^c-8db9a2430a353b0987e0c1037c7a4744]
 
 In this Act—
 
@@ -378,7 +378,7 @@ In this Act—
 - “**specified public bodies**” has the meaning given by section 10(4),
 - “**United Nations sustainable development goals**” has the meaning given by section 98 of the Climate Change (Scotland) Act 2009.
 
-### 14. Commencement[^key-94cc64d6f16479abfb473cf922f614c0]
+### 14. Commencement[^c-94cc64d6f16479abfb473cf922f614c0]
 
 (1) This section and sections 12, 13 and 15 come into force on the day after Royal Assent.
 
@@ -386,15 +386,15 @@ In this Act—
 
 (3) Regulations under this section may make different provision for different purposes.
 
-### 15. Short title[^key-42632299d207ef27fe951f8c8a7524eb]
+### 15. Short title[^c-42632299d207ef27fe951f8c8a7524eb]
 
 The short title of this Act is the Community Wealth Building (Scotland) Act 2026.
 
-## Schedule — Specified public bodies[^key-1df3b45433979442fb31dac1a023600a][^key-81778678ff6fe0833e9ec9673386d919]
+## Schedule — Specified public bodies[^c-1df3b45433979442fb31dac1a023600a][^c-81778678ff6fe0833e9ec9673386d919]
 
 (introduced by section 11)
 
-[^key-81778678ff6fe0833e9ec9673386d919]
+[^c-81778678ff6fe0833e9ec9673386d919]
 
 - British Waterways Board
 - Creative Scotland
@@ -420,58 +420,58 @@ The short title of this Act is the Community Wealth Building (Scotland) Act 2026
 
 ## Annotations
 
-[^key-6c9d335ab57bdddba8c4f4c204f33fdb]: Commencement: S. 1 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-6c9d335ab57bdddba8c4f4c204f33fdb]: Commencement: S. 1 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-7ba41aba03d99f0e0b11a7ecdeec04d3]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/7/section/1) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-7ba41aba03d99f0e0b11a7ecdeec04d3]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2026/7/section/1) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-66df53286a5d4ccb3397d89e3b38a99f]: Commencement: S. 2 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-66df53286a5d4ccb3397d89e3b38a99f]: Commencement: S. 2 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-52cde8102aefa34faed4c7b7cee3dfeb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/7/section/2) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-52cde8102aefa34faed4c7b7cee3dfeb]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/7/section/2) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-74fd2549626478cb143454a24633547f]: Commencement: S. 3 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-74fd2549626478cb143454a24633547f]: Commencement: S. 3 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-8cae885819c781804097d452133e3353]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/7/section/3) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-8cae885819c781804097d452133e3353]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/7/section/3) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-9b0dafd2e639ecc0ee179628ff59fdae]: Commencement: S. 4 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-9b0dafd2e639ecc0ee179628ff59fdae]: Commencement: S. 4 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-5adddbcb943a37dc86ba034ad314b36b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/7/section/4) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-5adddbcb943a37dc86ba034ad314b36b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2026/7/section/4) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-74587357d2cacf1edb4e06d7190f5e45]: Commencement: S. 5 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-74587357d2cacf1edb4e06d7190f5e45]: Commencement: S. 5 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-73ab99ea758fa062876d485200099651]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/7/section/5) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-73ab99ea758fa062876d485200099651]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/7/section/5) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-712d16d42f39f19d83dd1345506261e9]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-712d16d42f39f19d83dd1345506261e9]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-94256cd16e188c96f5cf38dcd368def1]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/7/section/6) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-94256cd16e188c96f5cf38dcd368def1]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2026/7/section/6) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-cb42a6c85b9cdb20c5c5b83c5a9bf91c]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-cb42a6c85b9cdb20c5c5b83c5a9bf91c]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-306f62776a092b0792d1c29bd5a4f5d2]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/7/section/7) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-306f62776a092b0792d1c29bd5a4f5d2]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/7/section/7) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-c8bd694fea42898a893ceb7599218656]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-c8bd694fea42898a893ceb7599218656]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-33d555dd6a467a6e06284b5551bd23da]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/7/section/8) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-33d555dd6a467a6e06284b5551bd23da]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/7/section/8) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-46b331d380c8eb891cb1358d654bf691]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-46b331d380c8eb891cb1358d654bf691]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-1d17e574d7e5c6f7bbf77016984e60df]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/7/section/9) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-1d17e574d7e5c6f7bbf77016984e60df]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2026/7/section/9) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-8fdb7051df7f6dcb8cdb76ef316b7560]: Commencement: S. 10 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-8fdb7051df7f6dcb8cdb76ef316b7560]: Commencement: S. 10 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-9d6986f90057105c88310215855db667]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/7/section/10) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-9d6986f90057105c88310215855db667]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/7/section/10) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-4e29f153519c847fd39978ad24d52073]: Commencement: S. 11 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-4e29f153519c847fd39978ad24d52073]: Commencement: S. 11 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-86104ac641e29b26edca5ed51f8c0c98]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/7/section/11) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-86104ac641e29b26edca5ed51f8c0c98]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/7/section/11) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
 
-[^key-a1ab6cab371835f23d4fcf40258a1492]: Commencement: S. 12 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+[^c-a1ab6cab371835f23d4fcf40258a1492]: Commencement: S. 12 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
 
-[^key-8db9a2430a353b0987e0c1037c7a4744]: Commencement: S. 13 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+[^c-8db9a2430a353b0987e0c1037c7a4744]: Commencement: S. 13 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
 
-[^key-94cc64d6f16479abfb473cf922f614c0]: Commencement: S. 14 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+[^c-94cc64d6f16479abfb473cf922f614c0]: Commencement: S. 14 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
 
-[^key-42632299d207ef27fe951f8c8a7524eb]: Commencement: S. 15 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
+[^c-42632299d207ef27fe951f8c8a7524eb]: Commencement: S. 15 in force at 26.3.2026, see [s. 14(1)](https://www.legislation.gov.uk/asp/2026/7/section/14/1)
 
-[^key-1df3b45433979442fb31dac1a023600a]: Commencement: Sch. not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
+[^c-1df3b45433979442fb31dac1a023600a]: Commencement: Sch. not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/asp/2026/7/section/14/2)
 
-[^key-81778678ff6fe0833e9ec9673386d919]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2026/7/schedule) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)
+[^c-81778678ff6fe0833e9ec9673386d919]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2026/7/schedule) in force at 1.10.2026 by [S.S.I. 2026/265](https://www.legislation.gov.uk/ssi/2026/265), [reg. 2](https://www.legislation.gov.uk/ssi/2026/265/regulation/2)

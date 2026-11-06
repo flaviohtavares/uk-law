@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Safety of navigation[^key-7d82eea6ffa0570348dfe34829ac296c]
+## 23. Safety of navigation[^c-7d82eea6ffa0570348dfe34829ac296c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d82eea6ffa0570348dfe34829ac296c]: Commencement: Art. 23 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-7d82eea6ffa0570348dfe34829ac296c]: Commencement: Art. 23 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Other revocations and amendments[^key-5bac8f459b2bb9e939682fcbe93d9cff][^key-b2ad46569a3a3d4a9c0cf209e4db845e]
+## 67. Other revocations and amendments[^c-5bac8f459b2bb9e939682fcbe93d9cff][^c-b2ad46569a3a3d4a9c0cf209e4db845e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5bac8f459b2bb9e939682fcbe93d9cff]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-5bac8f459b2bb9e939682fcbe93d9cff]: Commencement: Reg. 67 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-b2ad46569a3a3d4a9c0cf209e4db845e]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2ad46569a3a3d4a9c0cf209e4db845e]: Commencement: Reg. 67 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23947391]: Marginal citation: [S.I. 2013/164](https://www.legislation.gov.uk/uksi/2013/164), as amended by s.4(4)(a) of the [Wales Act 2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29); [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534); [S.I. 2015/1850](https://www.legislation.gov.uk/uksi/2015/1850); [S.I. 2016/504](https://www.legislation.gov.uk/uksi/2016/504); [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560); [S.I. 2017/754](https://www.legislation.gov.uk/uksi/2017/754); [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682); and [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).
 

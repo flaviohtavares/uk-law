@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291. Proceedings in patents county court.[^key-15374626240688bd297835cec1403e27]
+## 291. Proceedings in patents county court.[^c-15374626240688bd297835cec1403e27]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15374626240688bd297835cec1403e27]: Textual amendment: [S. 291](https://www.legislation.gov.uk/ukpga/1988/48/section/291) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 30(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/30/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/c)
+[^c-15374626240688bd297835cec1403e27]: Textual amendment: [S. 291](https://www.legislation.gov.uk/ukpga/1988/48/section/291) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 30(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/30/3); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/c)

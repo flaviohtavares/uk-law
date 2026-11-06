@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. General[^key-f353039936af38669c449c1ba255a61d]
+## 4. General[^c-f353039936af38669c449c1ba255a61d]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f353039936af38669c449c1ba255a61d]: Commencement: Reg. 4 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-f353039936af38669c449c1ba255a61d]: Commencement: Reg. 4 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00013]: Footnote: Within the meaning of section 20 of, and Schedule 2 to,the 1998 Act and section 39(1) of the 2002 Act.
 

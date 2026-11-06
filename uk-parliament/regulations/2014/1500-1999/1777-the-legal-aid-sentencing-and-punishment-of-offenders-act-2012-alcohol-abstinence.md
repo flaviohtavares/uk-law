@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 77(1), (4) and (8) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation and interpretation[^key-4ba6d9c16fd75b14938ab7eff58c9e3a]
+## 1. Citation and interpretation[^c-4ba6d9c16fd75b14938ab7eff58c9e3a]
 
 (1) This Order may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Alcohol Abstinence and Monitoring Requirements) Piloting Order 2014.
 
@@ -46,17 +46,17 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012; and
 - (b) “alcohol abstinence and monitoring requirement” has the same meaning as in Part 12 of the Criminal Justice Act 2003[^f00002].
 
-## 2. Coming into force of section 76 of the Act[^key-25998ecb691e29fb6f8fdb9241014e43]
+## 2. Coming into force of section 76 of the Act[^c-25998ecb691e29fb6f8fdb9241014e43]
 
 Subject to articles 3 and 4(1), section 76 of the Act (alcohol abstinence and monitoring requirement) comes into force on 31st July 2014 for all purposes other than application by the Armed Forces Act 2006[^f00003].
 
-## 3. Area in relation to which section 76 of the Act is in force[^key-97924eec374c28bd2170203c741bd40f]
+## 3. Area in relation to which section 76 of the Act is in force[^c-97924eec374c28bd2170203c741bd40f]
 
 Section 76 of the Act comes into force only in relation to the South London local justice area[^f00004].
 
-## 4. Period for which section 76 of the Act is in force[^key-e101696afbbd1f8703ff1f6ea169e10b]
+## 4. Period for which section 76 of the Act is in force[^c-e101696afbbd1f8703ff1f6ea169e10b]
 
-(1) Subject to paragraph (2), section 76 of the Act, in so far as it is brought into force by article 2, ceases to have effect at the end of 31st March 2016[^key-31c5f2c003a3a3e69871ebec24c9f8aa].
+(1) Subject to paragraph (2), section 76 of the Act, in so far as it is brought into force by article 2, ceases to have effect at the end of 31st March 2016[^c-31c5f2c003a3a3e69871ebec24c9f8aa].
 
 (2) Paragraph (1) does not affect the continued application after that date of an alcohol abstinence and monitoring requirement imposed by a court during the period mentioned in that paragraph.
 
@@ -180,18 +180,18 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-4ba6d9c16fd75b14938ab7eff58c9e3a]: Commencement: Art. 1 in force at made date
+[^c-4ba6d9c16fd75b14938ab7eff58c9e3a]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44)**.** Section 212A was inserted by section 76 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
-[^key-25998ecb691e29fb6f8fdb9241014e43]: Commencement: Art. 2 in force at made date
+[^c-25998ecb691e29fb6f8fdb9241014e43]: Commencement: Art. 2 in force at made date
 
 [^f00003]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-97924eec374c28bd2170203c741bd40f]: Commencement: Art. 3 in force at made date
+[^c-97924eec374c28bd2170203c741bd40f]: Commencement: Art. 3 in force at made date
 
 [^f00004]: Footnote: England and Wales are divided into areas known as local justice areas as required by section 8 of the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39). These were established by the Local Justice Areas Order 2005 ([S.I. 2005/554](https://www.legislation.gov.uk/uksi/2005/554)) (“the 2005 Order”). This was altered by the Local Justice Areas Order 2011 ([S.I. 2011/1168](https://www.legislation.gov.uk/uksi/2011/1168)) which created the new local justice area of South London from 1st January 2012 (see Table 1 of article 3). Whilst the 2005 order has been subsequently amended, the amendments are not relevant for the purposes of this Order.
 
-[^key-e101696afbbd1f8703ff1f6ea169e10b]: Commencement: Art. 4 in force at made date
+[^c-e101696afbbd1f8703ff1f6ea169e10b]: Commencement: Art. 4 in force at made date
 
-[^key-31c5f2c003a3a3e69871ebec24c9f8aa]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1777/article/4/1) substituted (30.1.2016) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Alcohol Abstinence and Monitoring Requirements) Piloting (Amendment) Order 2016 (S.I. 2016/1)](https://www.legislation.gov.uk/uksi/2016/1), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1/article/2)
+[^c-31c5f2c003a3a3e69871ebec24c9f8aa]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2014/1777/article/4/1) substituted (30.1.2016) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Alcohol Abstinence and Monitoring Requirements) Piloting (Amendment) Order 2016 (S.I. 2016/1)](https://www.legislation.gov.uk/uksi/2016/1), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1/article/1), [2](https://www.legislation.gov.uk/uksi/2016/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Transfer value payments made to other schemes or pension arrangements[^key-222ad9c6860e9bf1e279f859b4284ab6]
+## 133. Transfer value payments made to other schemes or pension arrangements[^c-222ad9c6860e9bf1e279f859b4284ab6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-222ad9c6860e9bf1e279f859b4284ab6]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2015/182/regulation/133) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-222ad9c6860e9bf1e279f859b4284ab6]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2015/182/regulation/133) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00049]: Footnote: Section 95(2) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 

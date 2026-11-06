@@ -38,280 +38,280 @@ on advanced therapy medicinal products and amending Directive 2001/83/EC and Reg
 
 (Text with EEA relevance) (revoked)
 
-[^key-58466dca164eb350ef0192d79ebde62c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58466dca164eb350ef0192d79ebde62c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER 1 — SUBJECT MATTER AND DEFINITIONS[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 1 — SUBJECT MATTER AND DEFINITIONS[^c-58466dca164eb350ef0192d79ebde62c]
 
-### Article 1. Subject matter[^key-58466dca164eb350ef0192d79ebde62c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 1. Subject matter[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 2 — MARKETING AUTHORISATION REQUIREMENTS[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 3. Donation, procurement and testing[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 2. Definitions[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Clinical trials[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 2 — MARKETING AUTHORISATION REQUIREMENTS[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 3. Donation, procurement and testing[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Good manufacturing practice[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 4. Clinical trials[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Issues specific to medical devices[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 5. Good manufacturing practice[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Specific requirements for advanced therapy medicinal products containing devices[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 6. Issues specific to medical devices[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 3 — MARKETING AUTHORISATION PROCEDURE[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 8. Evaluation procedure[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 7. Specific requirements for advanced therapy medicinal products containing devices[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Combined advanced therapy medicinal products[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 3 — MARKETING AUTHORISATION PROCEDURE[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 8. Evaluation procedure[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 4 — SUMMARY OF PRODUCT CHARACTERISTICS, LABELLING AND PACKAGE LEAFLET[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 10. Summary of product characteristics[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 9. Combined advanced therapy medicinal products[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Labelling of outer/immediate packaging[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 4 — SUMMARY OF PRODUCT CHARACTERISTICS, LABELLING AND PACKAGE LEAFLET[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 10. Summary of product characteristics[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Special immediate packaging[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 11. Labelling of outer/immediate packaging[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Package leaflet[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 12. Special immediate packaging[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 5 — POST-AUTHORISATION REQUIREMENTS[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 14. Post-authorisation follow-up of efficacy and adverse reactions, and risk management[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 13. Package leaflet[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Traceability[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 5 — POST-AUTHORISATION REQUIREMENTS[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 14. Post-authorisation follow-up of efficacy and adverse reactions, and risk management[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 6 — INCENTIVES[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 16. Scientific advice[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 15. Traceability[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Scientific recommendation on advanced therapy classification[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 6 — INCENTIVES[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 16. Scientific advice[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Certification of quality and non-clinical data[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 17. Scientific recommendation on advanced therapy classification[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Reduction of the fee for marketing authorisation[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 18. Certification of quality and non-clinical data[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 7 — COMMITTEE FOR ADVANCED THERAPIES[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 20. Committee for Advanced Therapies[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 19. Reduction of the fee for marketing authorisation[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Composition of the Committee for Advanced Therapies[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 7 — COMMITTEE FOR ADVANCED THERAPIES[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 20. Committee for Advanced Therapies[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Conflicts of interest[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 21. Composition of the Committee for Advanced Therapies[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Tasks of the Committee for Advanced Therapies[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 22. Conflicts of interest[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 8 — GENERAL AND FINAL PROVISIONS[^key-58466dca164eb350ef0192d79ebde62c]
-
-### Article 24. Amendments to the Annexes[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 23. Tasks of the Committee for Advanced Therapies[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Report and review[^key-58466dca164eb350ef0192d79ebde62c]
+## CHAPTER 8 — GENERAL AND FINAL PROVISIONS[^c-58466dca164eb350ef0192d79ebde62c]
+
+### Article 24. Amendments to the Annexes[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25a. Exercise of the delegation[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 25. Report and review[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 26. Committee procedure[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 25a. Exercise of the delegation[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 27. Amendments to Regulation (EC) No 726/2004[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 26. Committee procedure[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28. Amendments to Directive 2001/83/EC[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 27. Amendments to Regulation (EC) No 726/2004[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 29. Transitional period[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 28. Amendments to Directive 2001/83/EC[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 30. Entry into force[^key-58466dca164eb350ef0192d79ebde62c]
+### Article 29. Transitional period[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 30. Entry into force[^c-58466dca164eb350ef0192d79ebde62c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-58466dca164eb350ef0192d79ebde62c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Manipulations referred to in the first indent of Article 2(1)(c)[^key-58466dca164eb350ef0192d79ebde62c]
+## ANNEX I — Manipulations referred to in the first indent of Article 2(1)(c)[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Summary of product characteristics referred to in Article 10[^key-58466dca164eb350ef0192d79ebde62c]
+## ANNEX II — Summary of product characteristics referred to in Article 10[^c-58466dca164eb350ef0192d79ebde62c]
 
-[^key-58466dca164eb350ef0192d79ebde62c]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-58466dca164eb350ef0192d79ebde62c]2.
-
-[^key-58466dca164eb350ef0192d79ebde62c]2.1.
+[^c-58466dca164eb350ef0192d79ebde62c]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]2.2.
+[^c-58466dca164eb350ef0192d79ebde62c]2.
+
+[^c-58466dca164eb350ef0192d79ebde62c]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]3.
+[^c-58466dca164eb350ef0192d79ebde62c]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.
-
-[^key-58466dca164eb350ef0192d79ebde62c]4.1.
+[^c-58466dca164eb350ef0192d79ebde62c]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.2.
+[^c-58466dca164eb350ef0192d79ebde62c]4.
+
+[^c-58466dca164eb350ef0192d79ebde62c]4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.3.
+[^c-58466dca164eb350ef0192d79ebde62c]4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.4.
+[^c-58466dca164eb350ef0192d79ebde62c]4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.5.
+[^c-58466dca164eb350ef0192d79ebde62c]4.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.6.
+[^c-58466dca164eb350ef0192d79ebde62c]4.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.7.
+[^c-58466dca164eb350ef0192d79ebde62c]4.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.8.
+[^c-58466dca164eb350ef0192d79ebde62c]4.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]4.9.
+[^c-58466dca164eb350ef0192d79ebde62c]4.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]5.
-
-[^key-58466dca164eb350ef0192d79ebde62c]5.1.
+[^c-58466dca164eb350ef0192d79ebde62c]4.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]5.2.
+[^c-58466dca164eb350ef0192d79ebde62c]5.
+
+[^c-58466dca164eb350ef0192d79ebde62c]5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]5.3.
+[^c-58466dca164eb350ef0192d79ebde62c]5.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]6.
-
-[^key-58466dca164eb350ef0192d79ebde62c]6.1.
+[^c-58466dca164eb350ef0192d79ebde62c]5.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]6.2.
+[^c-58466dca164eb350ef0192d79ebde62c]6.
+
+[^c-58466dca164eb350ef0192d79ebde62c]6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]6.3.
+[^c-58466dca164eb350ef0192d79ebde62c]6.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]6.4.
+[^c-58466dca164eb350ef0192d79ebde62c]6.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]6.5.
+[^c-58466dca164eb350ef0192d79ebde62c]6.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]6.6.
+[^c-58466dca164eb350ef0192d79ebde62c]6.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]7.
+[^c-58466dca164eb350ef0192d79ebde62c]6.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]8.
+[^c-58466dca164eb350ef0192d79ebde62c]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]9.
+[^c-58466dca164eb350ef0192d79ebde62c]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58466dca164eb350ef0192d79ebde62c]10.
+[^c-58466dca164eb350ef0192d79ebde62c]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Labelling of outer/immediate packaging referred to in Article 11[^key-58466dca164eb350ef0192d79ebde62c]
+[^c-58466dca164eb350ef0192d79ebde62c]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Package leaflet referred to in Article 13[^key-58466dca164eb350ef0192d79ebde62c]
+## ANNEX III — Labelling of outer/immediate packaging referred to in Article 11[^c-58466dca164eb350ef0192d79ebde62c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV — Package leaflet referred to in Article 13[^c-58466dca164eb350ef0192d79ebde62c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-58466dca164eb350ef0192d79ebde62c]: Textual amendment: Regulation revoked (in so far as it applies to medicinal products for human use) (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(o)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/o) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58466dca164eb350ef0192d79ebde62c]: Textual amendment: Regulation revoked (in so far as it applies to medicinal products for human use) (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(o)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/o) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

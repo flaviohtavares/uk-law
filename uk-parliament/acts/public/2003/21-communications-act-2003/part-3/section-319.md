@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. OFCOM’s standards code[^key-c583c7b873013ce61dd4df1738149238]
+## 319. OFCOM’s standards code[^c-c583c7b873013ce61dd4df1738149238]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-401c956d3cc2c36590204b40fb7465aa] It shall be the duty of OFCOM to set, and from time to time to review and revise, such standards for the content of programmes to be included in television and radio services as appear to them best calculated to secure the standards objectives.
+(1)[^c-401c956d3cc2c36590204b40fb7465aa] It shall be the duty of OFCOM to set, and from time to time to review and revise, such standards for the content of programmes to be included in television and radio services as appear to them best calculated to secure the standards objectives.
 
 (2) The standards objectives are—
 
@@ -30,10 +30,10 @@ summary: ''
 - (d) that news included in television and radio services is reported with due accuracy;
 - (e) that the proper degree of responsibility is exercised with respect to the content of programmes which are religious programmes;
 - (f) that generally accepted standards are applied to the contents of television and radio services so as to provide adequate protection for members of the public from the inclusion in such services of offensive and harmful material;
-- (fa)[^key-f7ad574edca17426ccc5616d686a8765] that the product placement requirements referred to in section 321(3A) are met in relation to programmes included in a television programme service (other than advertisements);
+- (fa)[^c-f7ad574edca17426ccc5616d686a8765] that the product placement requirements referred to in section 321(3A) are met in relation to programmes included in a television programme service (other than advertisements);
 - (g) that advertising that contravenes the prohibition on political advertising set out in section 321(2) is not included in television or radio services;
 - (h) that the inclusion of advertising which may be misleading, harmful or offensive in television and radio services is prevented;
-- (ha)[^key-0d07a89391a6f2a31e283fa3f20592b7] that the requirements of any EU directives, as they had effect immediately before IP completion day, with respect to advertising included in television and radio services are complied with;
+- (ha)[^c-0d07a89391a6f2a31e283fa3f20592b7] that the requirements of any EU directives, as they had effect immediately before IP completion day, with respect to advertising included in television and radio services are complied with;
 - (i) that the international obligations of the United Kingdom with respect to advertising included in television and radio services are complied with;
 - (j) that the unsuitable sponsorship of programmes included in television and radio services is prevented;
 - (k) that there is no undue discrimination between advertisers who seek to have advertisements included in television and radio services; and
@@ -64,11 +64,11 @@ summary: ''
 
 (8) In this section “**news**” means news in whatever form it is included in a service.
 
-(9)[^key-c905a8e7d1b737d6c9d1affe2135bdba] Subject to[^key-9a158ccd58af99c19488f883c0f6819e] subsections (10) to (12)[^key-559922a88eb9575eb406b8d090a83e9a], Subsection (2)(fa) applies only in relation to programmes the production of which begins after 19th December 2009.
+(9)[^c-c905a8e7d1b737d6c9d1affe2135bdba] Subject to[^c-9a158ccd58af99c19488f883c0f6819e] subsections (10) to (12)[^c-559922a88eb9575eb406b8d090a83e9a], Subsection (2)(fa) applies only in relation to programmes the production of which begins after 19th December 2009.
 
-(10)[^key-d2d9bf2e5da6ec153a9f8d2d6802a5f9] So far as relating to product placement falling within paragraph 4(ba) of Schedule 11A (electronic cigarettes and electronic cigarette refill containers), subsection (2)(fa) applies only in relation to programmes the production of which begins after 19th May 2016.
+(10)[^c-d2d9bf2e5da6ec153a9f8d2d6802a5f9] So far as relating to product placement falling within paragraph 4(ba) of Schedule 11A (electronic cigarettes and electronic cigarette refill containers), subsection (2)(fa) applies only in relation to programmes the production of which begins after 19th May 2016.
 
-(11)[^key-a5308402684d646a9a9e30984492d18b] So far as relating to product placement falling within paragraph 4(bb) of Schedule 11A (undertakings whose principal activity is the manufacture or sale of electronic cigarettes or electronic cigarette refill containers), subsection (2)(fa) applies only in relation to programmes the production of which begins after 31 October 2020.
+(11)[^c-a5308402684d646a9a9e30984492d18b] So far as relating to product placement falling within paragraph 4(bb) of Schedule 11A (undertakings whose principal activity is the manufacture or sale of electronic cigarettes or electronic cigarette refill containers), subsection (2)(fa) applies only in relation to programmes the production of which begins after 31 October 2020.
 
 (12) Subsection (2)(fa) applies in relation to a programme the production of which began before 1 November 2020 as if, in Schedule 11A (which contains the product placement requirements referred to in section 321(3A))—
 
@@ -82,20 +82,20 @@ summary: ''
 
 ## Annotations
 
-[^key-c583c7b873013ce61dd4df1738149238]: Commencement: S. 319 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c583c7b873013ce61dd4df1738149238]: Commencement: S. 319 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-401c956d3cc2c36590204b40fb7465aa]: Modification: S. 319(1) modified (20.7.2004) by [Contracting Out (Functions relating to Broadcast Advertising) and Specification of Relevant Functions Order 2004 (S.I. 2004/1975)](https://www.legislation.gov.uk/uksi/2004/1975), [art. 1](https://www.legislation.gov.uk/uksi/2004/1975/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2004/1975/schedule/paragraph/1/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/1975/article/5))
+[^c-401c956d3cc2c36590204b40fb7465aa]: Modification: S. 319(1) modified (20.7.2004) by [Contracting Out (Functions relating to Broadcast Advertising) and Specification of Relevant Functions Order 2004 (S.I. 2004/1975)](https://www.legislation.gov.uk/uksi/2004/1975), [art. 1](https://www.legislation.gov.uk/uksi/2004/1975/article/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2004/1975/schedule/paragraph/1/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/1975/article/5))
 
-[^key-f7ad574edca17426ccc5616d686a8765]: Textual amendment: S. 319(2)(fa) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/831/regulation/2/2)
+[^c-f7ad574edca17426ccc5616d686a8765]: Textual amendment: S. 319(2)(fa) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/831/regulation/2/2)
 
-[^key-0d07a89391a6f2a31e283fa3f20592b7]: Textual amendment: S. 319(2)(ha) inserted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/24) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)(6)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d07a89391a6f2a31e283fa3f20592b7]: Textual amendment: S. 319(2)(ha) inserted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/24) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)(6)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c905a8e7d1b737d6c9d1affe2135bdba]: Textual amendment: S. 319(9) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/831/regulation/2/3)
+[^c-c905a8e7d1b737d6c9d1affe2135bdba]: Textual amendment: S. 319(9) inserted (16.4.2010) by [The Audiovisual Media Services (Product Placement) Regulations 2010 (S.I. 2010/831)](https://www.legislation.gov.uk/uksi/2010/831), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/831/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/831/regulation/2/3)
 
-[^key-9a158ccd58af99c19488f883c0f6819e]: Textual amendment: Words in s. 319(9) inserted (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [45(1)(a)](https://www.legislation.gov.uk/uksi/2016/507/regulation/45/1/a) (with [reg. 57](https://www.legislation.gov.uk/uksi/2016/507/regulation/57))
+[^c-9a158ccd58af99c19488f883c0f6819e]: Textual amendment: Words in s. 319(9) inserted (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [45(1)(a)](https://www.legislation.gov.uk/uksi/2016/507/regulation/45/1/a) (with [reg. 57](https://www.legislation.gov.uk/uksi/2016/507/regulation/57))
 
-[^key-559922a88eb9575eb406b8d090a83e9a]: Textual amendment: Words in s. 319(9) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/12/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-559922a88eb9575eb406b8d090a83e9a]: Textual amendment: Words in s. 319(9) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/12/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-d2d9bf2e5da6ec153a9f8d2d6802a5f9]: Textual amendment: S. 319(10) inserted (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [45(1)(b)](https://www.legislation.gov.uk/uksi/2016/507/regulation/45/1/b) (with [reg. 57](https://www.legislation.gov.uk/uksi/2016/507/regulation/57))
+[^c-d2d9bf2e5da6ec153a9f8d2d6802a5f9]: Textual amendment: S. 319(10) inserted (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [45(1)(b)](https://www.legislation.gov.uk/uksi/2016/507/regulation/45/1/b) (with [reg. 57](https://www.legislation.gov.uk/uksi/2016/507/regulation/57))
 
-[^key-a5308402684d646a9a9e30984492d18b]: Textual amendment: S. 319(11)(12) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/12/b) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-a5308402684d646a9a9e30984492d18b]: Textual amendment: S. 319(11)(12) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/12/b) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))

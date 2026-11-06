@@ -26,7 +26,7 @@ summary: ''
 
 #### Membership
 
-**1.**[^key-02964cc46a2d0f4f8928f5a44d46b6cf][^key-ee953c87a25d3c5f41e074504bea09c0] (1) The WAO is to have 9 members.
+**1.**[^c-02964cc46a2d0f4f8928f5a44d46b6cf][^c-ee953c87a25d3c5f41e074504bea09c0] (1) The WAO is to have 9 members.
 
 (2) They are to be—
 
@@ -36,7 +36,7 @@ summary: ''
 
 #### Appointment of non-executive and employee members
 
-**2.**[^key-6471283f6d06be0ef208c2234b4f2628][^key-6ff880715fd0c7217d078e106ebdac85] (1) The members of the WAO (other than the Auditor General) are to be appointed in accordance with the provisions of this Schedule.
+**2.**[^c-6471283f6d06be0ef208c2234b4f2628][^c-6ff880715fd0c7217d078e106ebdac85] (1) The members of the WAO (other than the Auditor General) are to be appointed in accordance with the provisions of this Schedule.
 
 (2) All appointments must be on merit.
 
@@ -46,7 +46,7 @@ summary: ''
 
 #### Status
 
-**3.**[^key-3b054852f495be4a806af40e43b10949][^key-7684f899e1bbd3f2e2aa43ea4c082f19] (1) Neither the WAO nor any of its members is to be regarded—
+**3.**[^c-3b054852f495be4a806af40e43b10949][^c-7684f899e1bbd3f2e2aa43ea4c082f19] (1) Neither the WAO nor any of its members is to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
@@ -61,13 +61,13 @@ summary: ''
 
 #### Appointment of non-executive members
 
-**4.**[^key-e3f76053c72d88fcf10bde949d7aea99] (1) Non-executive members are to be appointed by the National Assembly.
+**4.**[^c-e3f76053c72d88fcf10bde949d7aea99] (1) Non-executive members are to be appointed by the National Assembly.
 
 (2) Appointments made under sub-paragraph (1) must be based on the conclusions of a fair and open competition.
 
 #### Appointment of chair of the WAO
 
-**5.**[^key-74ec3be3010ee5b86c85b4d41505c7b7] (1) The chair of the WAO is to be appointed by the National Assembly from amongst the non-executive members.
+**5.**[^c-74ec3be3010ee5b86c85b4d41505c7b7] (1) The chair of the WAO is to be appointed by the National Assembly from amongst the non-executive members.
 
 (2) But no appointment can be made until the First Minister has been consulted.
 
@@ -77,13 +77,13 @@ summary: ''
 
 #### Period of appointment and re-appointment
 
-**6.**[^key-0771202da6edbc4ef962960b85cb1089] (1) An appointment under this Part of this Schedule is to be for a period of no more than 4 years.
+**6.**[^c-0771202da6edbc4ef962960b85cb1089] (1) An appointment under this Part of this Schedule is to be for a period of no more than 4 years.
 
 (2) A person may not be appointed under this Part of this Schedule more than twice.
 
 #### Remuneration arrangements
 
-**7.**[^key-de1bd5c51e031c5dbde6483161530233] (1) The National Assembly may make remuneration arrangements in relation to the person who chairs the WAO (subject to sub-paragraph (2) and paragraph 9).
+**7.**[^c-de1bd5c51e031c5dbde6483161530233] (1) The National Assembly may make remuneration arrangements in relation to the person who chairs the WAO (subject to sub-paragraph (2) and paragraph 9).
 
 (2) But no arrangements can be made until the First Minister has been consulted.
 
@@ -102,7 +102,7 @@ summary: ''
 
 #### Other terms of appointment
 
-**8.**[^key-194cf82792726ff617806463dc983a54] (1) The National Assembly may determine other terms for an appointment under this Part of this Schedule (subject to paragraph 9).
+**8.**[^c-194cf82792726ff617806463dc983a54] (1) The National Assembly may determine other terms for an appointment under this Part of this Schedule (subject to paragraph 9).
 
 (2) Those terms may include restrictions on—
 
@@ -117,19 +117,19 @@ summary: ''
 
 #### Consultation
 
-**9.**[^key-24f12294627857459c235869e9a967b2] (1) No arrangements under paragraph 7 or determination under paragraph 8 may be made unless there has been consultation with an appropriate person with oversight of public appointments.
+**9.**[^c-24f12294627857459c235869e9a967b2] (1) No arrangements under paragraph 7 or determination under paragraph 8 may be made unless there has been consultation with an appropriate person with oversight of public appointments.
 
 (2) Consultation required under sub-paragraph (1) is in addition to the consultation required under paragraph 7(2).
 
 #### Termination of appointments
 
-**10.**[^key-25f51efe1f07a6627ee2cb5c6c901d9b] (1) The person who chairs the WAO may resign from the position of chair by giving written notice to the National Assembly.
+**10.**[^c-25f51efe1f07a6627ee2cb5c6c901d9b] (1) The person who chairs the WAO may resign from the position of chair by giving written notice to the National Assembly.
 
 (2) A non-executive member may resign by giving written notice to the National Assembly.
 
 (3) The term of appointment of a person who resigns in accordance with sub-paragraphs (1) or (2) ends when the resignation is accepted.
 
-**11.**[^key-dd0314530e26e29678eae3a31d0d5b03] (1) The National Assembly may terminate the appointment of a non-executive member by giving the member written notice if—
+**11.**[^c-dd0314530e26e29678eae3a31d0d5b03] (1) The National Assembly may terminate the appointment of a non-executive member by giving the member written notice if—
 
 - (a) the member has been absent from meetings of the WAO without the WAO's permission for a period or periods totalling 3 months or more in any 12 month period,
 - (b) the member has become bankrupt or has made an arrangement with creditors,
@@ -140,7 +140,7 @@ summary: ''
 
 (2) If a non-executive member whose appointment is terminated under sub-paragraph (1) is the chair of the WAO, that person's appointment as chair is also terminated.
 
-**12.**[^key-f265797d4ae033d7bbc9e7889b458dfe] (1) The National Assembly may terminate the appointment of a non-executive member as chair of the WAO.
+**12.**[^c-f265797d4ae033d7bbc9e7889b458dfe] (1) The National Assembly may terminate the appointment of a non-executive member as chair of the WAO.
 
 (2) But before an appointment can be terminated the First Minister must be consulted.
 
@@ -153,7 +153,7 @@ summary: ''
 
 #### Additional remuneration of the Auditor General
 
-**13.**[^key-44b9a1e5eef71894f19eaa0c084d63d0] (1) The WAO may make provision for additional payments to be made to the Auditor General by way of allowances and other benefits to cover expenses properly and necessarily incurred by the Auditor General in his or her capacity as a member and chief executive of the WAO.
+**13.**[^c-44b9a1e5eef71894f19eaa0c084d63d0] (1) The WAO may make provision for additional payments to be made to the Auditor General by way of allowances and other benefits to cover expenses properly and necessarily incurred by the Auditor General in his or her capacity as a member and chief executive of the WAO.
 
 (2) Payments made under sub-paragraph (1) may be made in addition to the remuneration payable to the Auditor General under section 7.
 
@@ -163,14 +163,14 @@ summary: ''
 
 #### Appointment
 
-**14.**[^key-cf01dd3830e5ae7ec671b6a68baf1527] The employee members are to comprise—
+**14.**[^c-cf01dd3830e5ae7ec671b6a68baf1527] The employee members are to comprise—
 
 - (a) a person appointed in accordance with paragraph 15 (“the appointed member”), and
 - (b) 2 persons appointed in accordance with paragraph 16 (“the elected members”).
 
 #### The appointed member
 
-**15.**[^key-0412348cfee0873f7b27306dc9688628] (1) The Auditor General must recommend a person to the non-executive members for appointment under this paragraph.
+**15.**[^c-0412348cfee0873f7b27306dc9688628] (1) The Auditor General must recommend a person to the non-executive members for appointment under this paragraph.
 
 (2) The non-executive members must—
 
@@ -179,7 +179,7 @@ summary: ''
 
 #### The elected members
 
-**16.**[^key-d0a185efcc1eced27fbad36ae13384a3] (1) The WAO must conduct a ballot of its staff for the purpose of appointing a person or, as the case may be, persons under this paragraph.
+**16.**[^c-d0a185efcc1eced27fbad36ae13384a3] (1) The WAO must conduct a ballot of its staff for the purpose of appointing a person or, as the case may be, persons under this paragraph.
 
 (2) The elected members are to be appointed by the non-executive members in accordance with the result of the ballot.
 
@@ -187,7 +187,7 @@ summary: ''
 
 #### Terms of appointment
 
-**17.**[^key-74f864ee10d0bf865916d10f2b5c5d72] (1) The terms of the employee members' appointment are to be determined by the non-executive members.
+**17.**[^c-74f864ee10d0bf865916d10f2b5c5d72] (1) The terms of the employee members' appointment are to be determined by the non-executive members.
 
 (2) The terms may include remuneration arrangements which—
 
@@ -202,7 +202,7 @@ summary: ''
 
 #### Other terms of appointment
 
-**18.**[^key-a4c47bc407dd1a3d4bfc80d134b3f877] (1) The non-executive members may determine other terms for an appointment of an employee member.
+**18.**[^c-a4c47bc407dd1a3d4bfc80d134b3f877] (1) The non-executive members may determine other terms for an appointment of an employee member.
 
 (2) Those terms may include restrictions on—
 
@@ -213,16 +213,16 @@ summary: ''
 
 #### Termination of appointments
 
-**19.**[^key-8f94661442a66988da0a4bf04391f3cf] The appointment of an employee member terminates—
+**19.**[^c-8f94661442a66988da0a4bf04391f3cf] The appointment of an employee member terminates—
 
 - (a) if the terms of appointment provide for it to expire at the end of a period, at the end of that period, and
 - (b) in any event, when the member ceases to be an employee of the WAO.
 
-**20.**[^key-fbd96aca14e9d69fe146232866a9f41c] (1) An employee member may resign by giving written notice to the non-executive members.
+**20.**[^c-fbd96aca14e9d69fe146232866a9f41c] (1) An employee member may resign by giving written notice to the non-executive members.
 
 (2) The appointment is terminated upon acceptance of the resignation by the non-executive members.
 
-**21.**[^key-d9a444aa137e96ff152f563d404327ac] The non-executive members may terminate the appointment of an employee member by giving the member written notice if—
+**21.**[^c-d9a444aa137e96ff152f563d404327ac] The non-executive members may terminate the appointment of an employee member by giving the member written notice if—
 
 - (a) the member has been absent from meetings of the WAO without the WAO's permission for a period or periods totalling 3 months or more in any 12 month period,
 - (b) the member has become bankrupt or has made an arrangement with creditors,
@@ -235,7 +235,7 @@ summary: ''
 
 #### Appointment
 
-**22.**[^key-b42f5e5b1e331477aa2b30d05db6a97e] (1) The WAO may employ staff.
+**22.**[^c-b42f5e5b1e331477aa2b30d05db6a97e] (1) The WAO may employ staff.
 
 (2) A person cannot be appointed as a member of staff of the WAO if the person is disqualified from being appointed on any of the grounds specified in Part 6 of this Schedule.
 
@@ -247,16 +247,16 @@ summary: ''
 
 #### Status
 
-**23.**[^key-757abebec70da47f1a507d9ae793be27] A member of the staff of the WAO is not to be regarded—
+**23.**[^c-757abebec70da47f1a507d9ae793be27] A member of the staff of the WAO is not to be regarded—
 
 - (a) as the servant or agent of the Crown, or
 - (b) as enjoying any status, immunity or privilege of the Crown.
 
-**24.**[^key-37760f4df966d12d84daf9b7b7815fb2] But a member of the staff of the WAO is to be taken to be a Crown servant for the purposes of the Official Secrets Act 1989.
+**24.**[^c-37760f4df966d12d84daf9b7b7815fb2] But a member of the staff of the WAO is to be taken to be a Crown servant for the purposes of the Official Secrets Act 1989.
 
 #### Remuneration arrangements
 
-**25.**[^key-0cd7123dae99a622d72442cdf6a26880] (1) The WAO must pay employees such remuneration as may be provided for by or under the terms of their employment.
+**25.**[^c-0cd7123dae99a622d72442cdf6a26880] (1) The WAO must pay employees such remuneration as may be provided for by or under the terms of their employment.
 
 (2) The WAO must make payments to the Minister for the Civil Service, at such times as the Minister may determine, of such amounts as may be so determined in respect of—
 
@@ -265,7 +265,7 @@ summary: ''
 
 ### PART 6 — DISQUALIFICATION AS MEMBER OF, OR EMPLOYEE OF, THE WAO
 
-**26.**[^key-4476d22b3cfee53a46ffa66022571a63][^key-86e0fe1045ac9136be3e2922fe8dad9f] (1) A person cannot be appointed as a member or employee of the WAO if the person is disqualified on any of the grounds specified in sub-paragraph (3).
+**26.**[^c-4476d22b3cfee53a46ffa66022571a63][^c-86e0fe1045ac9136be3e2922fe8dad9f] (1) A person cannot be appointed as a member or employee of the WAO if the person is disqualified on any of the grounds specified in sub-paragraph (3).
 
 (2) A person ceases to be a member or employee of the WAO if the person is disqualified on any of the grounds specified in sub-paragraph (3).
 
@@ -286,11 +286,11 @@ summary: ''
 
 #### General
 
-**27.**[^key-de3ca54795b06f976841cbbcf9c539e1] The WAO must make rules for the purpose of regulating the WAO's procedure.
+**27.**[^c-de3ca54795b06f976841cbbcf9c539e1] The WAO must make rules for the purpose of regulating the WAO's procedure.
 
 #### Quorum for WAO meetings
 
-**28.**[^key-6c3ed222ed59d0919371c5ba7c4db25a] (1) The rules must provide for a quorum for any meetings of the WAO (including meetings of committees or sub-committees set up under paragraph 29).
+**28.**[^c-6c3ed222ed59d0919371c5ba7c4db25a] (1) The rules must provide for a quorum for any meetings of the WAO (including meetings of committees or sub-committees set up under paragraph 29).
 
 (2) The rules may provide that different quorums may apply in different circumstances (for example, in relation to particular meetings or for particular purposes).
 
@@ -298,31 +298,31 @@ summary: ''
 
 #### Committees
 
-**29.** (1)[^key-38c529f838024e656590c61a11d80530] The rules may include—
+**29.** (1)[^c-38c529f838024e656590c61a11d80530] The rules may include—
 
 - (a) provision for the setting up of committees of the WAO and for those committees to set up sub-committees, and
 - (b) provision regulating the procedures of those committees and sub-committees.
 
-(2)[^key-73ef1cdf6b4572c3742e7875fd55b293] An employee of the WAO who is not an employee member may be a member of a committee or sub-committee.
+(2)[^c-73ef1cdf6b4572c3742e7875fd55b293] An employee of the WAO who is not an employee member may be a member of a committee or sub-committee.
 
-(3)[^key-73ef1cdf6b4572c3742e7875fd55b293] A person who is neither a member of the WAO nor an employee of the WAO may be a member of a committee or sub-committee, provided that no functions of the WAO are delegated to the committee or sub-committee (see paragraph 32).
+(3)[^c-73ef1cdf6b4572c3742e7875fd55b293] A person who is neither a member of the WAO nor an employee of the WAO may be a member of a committee or sub-committee, provided that no functions of the WAO are delegated to the committee or sub-committee (see paragraph 32).
 
 #### Ballots
 
-**30.**[^key-d134a85f6ab04210862376ec3dc7ef14] The rules must include provision about the conduct of ballots for the purpose of appointing employee members (see paragraph 16).
+**30.**[^c-d134a85f6ab04210862376ec3dc7ef14] The rules must include provision about the conduct of ballots for the purpose of appointing employee members (see paragraph 16).
 
 ### PART 8 — OTHER MATTERS
 
 #### Validity
 
-**31.**[^key-1e37ae5a99ac0989b094ca71f09ca75b] The validity of anything done by the WAO (including anything done by its non-executive members, the employee members, any committee or sub-committee and by any employee of the WAO) is not affected by—
+**31.**[^c-1e37ae5a99ac0989b094ca71f09ca75b] The validity of anything done by the WAO (including anything done by its non-executive members, the employee members, any committee or sub-committee and by any employee of the WAO) is not affected by—
 
 - (a) a vacancy, or
 - (b) a defective appointment.
 
 #### Delegation of functions
 
-**32.**[^key-5fce19cd95437d7157284e31959e9e6e][^key-9655cec61c6e1ff994bb1d912ecb8b71] (1) The WAO may delegate any of its functions to—
+**32.**[^c-5fce19cd95437d7157284e31959e9e6e][^c-9655cec61c6e1ff994bb1d912ecb8b71] (1) The WAO may delegate any of its functions to—
 
 - (a) any of its members, employees or committees, or
 - (b) a person who provides services to the WAO.
@@ -344,7 +344,7 @@ summary: ''
 
 #### WAO accounts
 
-**33.**[^key-029ce5c58c683280dbf8aadd1fb32c70] (1) The Auditor General is to be the accounting officer for the WAO.
+**33.**[^c-029ce5c58c683280dbf8aadd1fb32c70] (1) The Auditor General is to be the accounting officer for the WAO.
 
 (2) The accounting officer must, for each financial year, in accordance with directions given by the Treasury—
 
@@ -369,7 +369,7 @@ summary: ''
 
 #### Audit etc of the WAO
 
-**34.**[^key-3dac4f8b43b3d06c26d0d1d38a8a4483] (1) It is for the National Assembly to appoint a person as auditor of the WAO's accounts, and to determine that person's terms of appointment.
+**34.**[^c-3dac4f8b43b3d06c26d0d1d38a8a4483] (1) It is for the National Assembly to appoint a person as auditor of the WAO's accounts, and to determine that person's terms of appointment.
 
 (2) The WAO may recommend a person for the purposes of sub-paragraph (1).
 
@@ -381,7 +381,7 @@ summary: ''
 
 (6) The WAO must pay the auditor such remuneration as may be provided for by or under the terms of the auditor's appointment.
 
-**35.**[^key-d12212acfe1ddb90c262b95fa3b4bfb4] (1) A statement of accounts prepared under paragraph 33 must be—
+**35.**[^c-d12212acfe1ddb90c262b95fa3b4bfb4] (1) A statement of accounts prepared under paragraph 33 must be—
 
 - (a) signed by the accounting officer of the WAO, and
 - (b) submitted by the chair of the WAO to the auditor appointed under paragraph 34,
@@ -426,7 +426,7 @@ no later than 5 months after the end of the financial year to which the statemen
 
 #### Documentary evidence
 
-**36.**[^key-1d77ac52afc6e344c43cd7bedbb89946] (1) The application of the WAO's seal is to be authenticated by the signature of—
+**36.**[^c-1d77ac52afc6e344c43cd7bedbb89946] (1) The application of the WAO's seal is to be authenticated by the signature of—
 
 - (a) a member of the WAO, or
 - (b) an employee of the WAO authorised (whether generally or specifically) for that purpose by the WAO.
@@ -438,86 +438,86 @@ no later than 5 months after the end of the financial year to which the statemen
 
 ## Annotations
 
-[^key-02964cc46a2d0f4f8928f5a44d46b6cf]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/1) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(i)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/i)
+[^c-02964cc46a2d0f4f8928f5a44d46b6cf]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/1) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(i)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/i)
 
-[^key-ee953c87a25d3c5f41e074504bea09c0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/1) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-ee953c87a25d3c5f41e074504bea09c0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/1) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-6471283f6d06be0ef208c2234b4f2628]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/2) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(ii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/ii)
+[^c-6471283f6d06be0ef208c2234b4f2628]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/2) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(ii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/ii)
 
-[^key-6ff880715fd0c7217d078e106ebdac85]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/2) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-6ff880715fd0c7217d078e106ebdac85]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/2) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-3b054852f495be4a806af40e43b10949]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/3) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(iii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/iii)
+[^c-3b054852f495be4a806af40e43b10949]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/3) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(iii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/iii)
 
-[^key-7684f899e1bbd3f2e2aa43ea4c082f19]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/3) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-7684f899e1bbd3f2e2aa43ea4c082f19]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/3) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-e3f76053c72d88fcf10bde949d7aea99]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/4) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(iv)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/iv)
+[^c-e3f76053c72d88fcf10bde949d7aea99]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/4) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(iv)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/iv)
 
-[^key-74ec3be3010ee5b86c85b4d41505c7b7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/5) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(v)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/v)
+[^c-74ec3be3010ee5b86c85b4d41505c7b7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/5) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(v)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/v)
 
-[^key-0771202da6edbc4ef962960b85cb1089]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/6) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(vi)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/vi)
+[^c-0771202da6edbc4ef962960b85cb1089]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/6) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(vi)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/vi)
 
-[^key-de1bd5c51e031c5dbde6483161530233]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/7) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(vii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/vii)
+[^c-de1bd5c51e031c5dbde6483161530233]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/7) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(vii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/vii)
 
-[^key-194cf82792726ff617806463dc983a54]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/8) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(viii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/viii)
+[^c-194cf82792726ff617806463dc983a54]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/8) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(viii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/viii)
 
-[^key-24f12294627857459c235869e9a967b2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/9) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(ix)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/ix)
+[^c-24f12294627857459c235869e9a967b2]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/9) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(ix)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/ix)
 
-[^key-25f51efe1f07a6627ee2cb5c6c901d9b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/10) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(x)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/x)
+[^c-25f51efe1f07a6627ee2cb5c6c901d9b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/10) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(x)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/x)
 
-[^key-dd0314530e26e29678eae3a31d0d5b03]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/11) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(x)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/x)
+[^c-dd0314530e26e29678eae3a31d0d5b03]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/11) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(x)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/x)
 
-[^key-f265797d4ae033d7bbc9e7889b458dfe]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/12) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(x)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/x)
+[^c-f265797d4ae033d7bbc9e7889b458dfe]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/12) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(x)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/x)
 
-[^key-44b9a1e5eef71894f19eaa0c084d63d0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/13) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xi)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xi)
+[^c-44b9a1e5eef71894f19eaa0c084d63d0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/13) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xi)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xi)
 
-[^key-cf01dd3830e5ae7ec671b6a68baf1527]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/14) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-cf01dd3830e5ae7ec671b6a68baf1527]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/14) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-0412348cfee0873f7b27306dc9688628]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/15) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-0412348cfee0873f7b27306dc9688628]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/15) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-d0a185efcc1eced27fbad36ae13384a3]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/16) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-d0a185efcc1eced27fbad36ae13384a3]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/16) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-74f864ee10d0bf865916d10f2b5c5d72]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/17) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-74f864ee10d0bf865916d10f2b5c5d72]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/17) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-a4c47bc407dd1a3d4bfc80d134b3f877]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/18) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-a4c47bc407dd1a3d4bfc80d134b3f877]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/18) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-8f94661442a66988da0a4bf04391f3cf]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/19) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-8f94661442a66988da0a4bf04391f3cf]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/19) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-fbd96aca14e9d69fe146232866a9f41c]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/20) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-fbd96aca14e9d69fe146232866a9f41c]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/20) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-d9a444aa137e96ff152f563d404327ac]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/21) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-d9a444aa137e96ff152f563d404327ac]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/21) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-b42f5e5b1e331477aa2b30d05db6a97e]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/22) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-b42f5e5b1e331477aa2b30d05db6a97e]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/22) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-757abebec70da47f1a507d9ae793be27]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/23) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-757abebec70da47f1a507d9ae793be27]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/23) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-37760f4df966d12d84daf9b7b7815fb2]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/24) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-37760f4df966d12d84daf9b7b7815fb2]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/24) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-0cd7123dae99a622d72442cdf6a26880]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/25) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-0cd7123dae99a622d72442cdf6a26880]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/25) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-4476d22b3cfee53a46ffa66022571a63]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/26) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xii)
+[^c-4476d22b3cfee53a46ffa66022571a63]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/26) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xii)
 
-[^key-86e0fe1045ac9136be3e2922fe8dad9f]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/26) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-86e0fe1045ac9136be3e2922fe8dad9f]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/26) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-de3ca54795b06f976841cbbcf9c539e1]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/27) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xiii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xiii)
+[^c-de3ca54795b06f976841cbbcf9c539e1]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/27) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xiii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xiii)
 
-[^key-6c3ed222ed59d0919371c5ba7c4db25a]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/28) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xiv)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xiv)
+[^c-6c3ed222ed59d0919371c5ba7c4db25a]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/28) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xiv)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xiv)
 
-[^key-38c529f838024e656590c61a11d80530]: Commencement: [Sch. 1 para. 29(1)](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/29/1) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xv)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xv)
+[^c-38c529f838024e656590c61a11d80530]: Commencement: [Sch. 1 para. 29(1)](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/29/1) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xv)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xv)
 
-[^key-73ef1cdf6b4572c3742e7875fd55b293]: Commencement: [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/29/2)[(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/29/3) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-73ef1cdf6b4572c3742e7875fd55b293]: Commencement: [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/29/2)[(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/29/3) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-d134a85f6ab04210862376ec3dc7ef14]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/30) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xvi)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xvi)
+[^c-d134a85f6ab04210862376ec3dc7ef14]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/30) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xvi)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xvi)
 
-[^key-1e37ae5a99ac0989b094ca71f09ca75b]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/31) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xvii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xvii)
+[^c-1e37ae5a99ac0989b094ca71f09ca75b]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/31) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xvii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xvii)
 
-[^key-5fce19cd95437d7157284e31959e9e6e]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/32) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xviii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xviii)
+[^c-5fce19cd95437d7157284e31959e9e6e]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/32) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(u)(xviii)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/u/xviii)
 
-[^key-9655cec61c6e1ff994bb1d912ecb8b71]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/32) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-9655cec61c6e1ff994bb1d912ecb8b71]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/32) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-029ce5c58c683280dbf8aadd1fb32c70]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/33) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-029ce5c58c683280dbf8aadd1fb32c70]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/33) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-3dac4f8b43b3d06c26d0d1d38a8a4483]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/34) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-3dac4f8b43b3d06c26d0d1d38a8a4483]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/34) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-d12212acfe1ddb90c262b95fa3b4bfb4]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/35) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-d12212acfe1ddb90c262b95fa3b4bfb4]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/35) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-1d77ac52afc6e344c43cd7bedbb89946]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/36) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-1d77ac52afc6e344c43cd7bedbb89946]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/anaw/2013/3/schedule/1/paragraph/36) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

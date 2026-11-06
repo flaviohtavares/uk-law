@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Interim receiving orders: duties of respondent etc.[^key-2526d3081f749cfa639ccbec41bde2a5]
+## 155. Interim receiving orders: duties of respondent etc.[^c-2526d3081f749cfa639ccbec41bde2a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2526d3081f749cfa639ccbec41bde2a5]: Commencement: [Art. 155](https://www.legislation.gov.uk/uksi/2005/3181/article/155) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-2526d3081f749cfa639ccbec41bde2a5]: Commencement: [Art. 155](https://www.legislation.gov.uk/uksi/2005/3181/article/155) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

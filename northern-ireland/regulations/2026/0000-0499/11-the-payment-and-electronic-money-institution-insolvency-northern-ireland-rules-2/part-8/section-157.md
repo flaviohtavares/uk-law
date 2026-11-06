@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. Records[^key-5202636364db7d6a8a3133d4b0387637]
+## 157. Records[^c-5202636364db7d6a8a3133d4b0387637]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ The administrator must include in the administrator’s records of the special a
 
 ## Annotations
 
-[^key-5202636364db7d6a8a3133d4b0387637]: Commencement: [Rule 157](https://www.legislation.gov.uk/nisr/2026/11/rule/157) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5202636364db7d6a8a3133d4b0387637]: Commencement: [Rule 157](https://www.legislation.gov.uk/nisr/2026/11/rule/157) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

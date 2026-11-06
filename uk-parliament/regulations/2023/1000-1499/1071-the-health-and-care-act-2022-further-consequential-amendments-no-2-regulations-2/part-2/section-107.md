@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Other amendments[^key-8fa4b5ba015c84043af6afedfc312bda]
+## 107. Other amendments[^c-8fa4b5ba015c84043af6afedfc312bda]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Schedule contains further amendments replacing references to the National He
 
 ## Annotations
 
-[^key-8fa4b5ba015c84043af6afedfc312bda]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2023/1071/regulation/107) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-8fa4b5ba015c84043af6afedfc312bda]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2023/1071/regulation/107) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

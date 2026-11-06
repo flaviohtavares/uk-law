@@ -48,11 +48,11 @@ The Scottish Ministers have consulted such persons as they consider appropriate 
 
 In accordance with section 165(5)(a) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-03ce3edcdbb8e582b9a4a8fb1b332de1]
+## 1. Citation and commencement[^c-03ce3edcdbb8e582b9a4a8fb1b332de1]
 
 This Order may be cited as the Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 and comes into force on the date on which the Biodiversity Beyond National Jurisdiction Agreement[^f00002] enters into force for the United Kingdom[^f00003].
 
-## 2. Amendment of the Marine (Scotland) Act 2010[^key-ca96c9f004dbb44f6a693ea3e7b0b55f]
+## 2. Amendment of the Marine (Scotland) Act 2010[^c-ca96c9f004dbb44f6a693ea3e7b0b55f]
 
 (1) The Marine (Scotland) Act 2010[^f00004] is amended as follows.
 
@@ -93,7 +93,7 @@ This Order may be cited as the Marine Licensing (Miscellaneous Amendment) (Scotl
 
 (4) In section 29(5) (grant or refusal of licence), after “5” insert “or 13”.
 
-## 3. Amendment of the Marine Licensing (Register of Licensing Information) (Scotland) Regulations 2011[^key-a8f9cfb72784a9b71e2890148be67982]
+## 3. Amendment of the Marine Licensing (Register of Licensing Information) (Scotland) Regulations 2011[^c-a8f9cfb72784a9b71e2890148be67982]
 
 (1) The Marine Licensing (Register of Licensing Information) (Scotland) Regulations 2011[^f00005] is amended as follows.
 
@@ -111,7 +111,7 @@ This Order may be cited as the Marine Licensing (Miscellaneous Amendment) (Scotl
 
 (8) In regulation 12(1) (incineration or loading vehicle etc. for incineration), for “9 or 10” substitute “9, 10 or 17”.
 
-## 4. Amendment of the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^key-5cdac36bf8a2a509fc625805731587c4]
+## 4. Amendment of the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^c-5cdac36bf8a2a509fc625805731587c4]
 
 (1) The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^f00006] is amended as follows.
 
@@ -231,21 +231,21 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^f00001]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5); sections 21 and 32 were amended by the Biodiversity Beyond National Jurisdiction Act [2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6).
 
-[^key-03ce3edcdbb8e582b9a4a8fb1b332de1]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
+[^c-03ce3edcdbb8e582b9a4a8fb1b332de1]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
 
 [^f00002]: Footnote: The Biodiversity Beyond National Jurisdiction Agreement is the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023 (2023 CP 942).
 
 [^f00003]: Footnote: In accordance with article 68(1), the Biodiversity Beyond National Jurisdiction Agreement entered into force on 17 January 2026. Under article 68(2) of the Agreement, the Agreement shall enter into force for the United Kingdom on the thirtieth day following the deposit of its instrument of ratification, approval, acceptance or accession. It will be possible to find out the date on which the Agreement enters into force for the United Kingdom by referring to the relevant page on UK Treaties Online which can be found at this link: https://www.gov.uk/uk-treaties.
 
-[^key-ca96c9f004dbb44f6a693ea3e7b0b55f]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/172/article/2) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
+[^c-ca96c9f004dbb44f6a693ea3e7b0b55f]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/172/article/2) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
 
 [^f00004]: Footnote: Section 21 was amended by the Biodiversity Beyond National Jurisdiction Act [2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6) and section 27 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-a8f9cfb72784a9b71e2890148be67982]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/172/article/3) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
+[^c-a8f9cfb72784a9b71e2890148be67982]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/172/article/3) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
 
 [^f00005]: Footnote: [S.S.I. 2011/80](https://www.legislation.gov.uk/ssi/2011/80).
 
-[^key-5cdac36bf8a2a509fc625805731587c4]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/172/article/4) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
+[^c-5cdac36bf8a2a509fc625805731587c4]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/172/article/4) in force at 9.8.2026, see [art. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1)
 
 [^f00006]: Footnote: [S.S.I. 2011/204](https://www.legislation.gov.uk/ssi/2011/204), relevant amending instrument is [S.S.I. 2012/25](https://www.legislation.gov.uk/ssi/2012/25).
 

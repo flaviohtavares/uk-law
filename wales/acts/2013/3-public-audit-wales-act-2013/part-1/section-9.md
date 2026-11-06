@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Supplementary powers[^key-246aaaeaf1dde2ed2aaf5094e0e8653c]
+## 9. Supplementary powers[^c-246aaaeaf1dde2ed2aaf5094e0e8653c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-246aaaeaf1dde2ed2aaf5094e0e8653c]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/3/section/9) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-246aaaeaf1dde2ed2aaf5094e0e8653c]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/3/section/9) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

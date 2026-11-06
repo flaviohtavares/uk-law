@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. How to secure or help to secure the availability of accommodation[^key-4b9b263dafd962fa35dbf142a286d642][^key-f54d9dd1c47b0c78e9d027adfa6a1574]
+## 64. How to secure or help to secure the availability of accommodation[^c-4b9b263dafd962fa35dbf142a286d642][^c-f54d9dd1c47b0c78e9d027adfa6a1574]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b9b263dafd962fa35dbf142a286d642]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2014/7/section/64) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
+[^c-4b9b263dafd962fa35dbf142a286d642]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2014/7/section/64) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
 
-[^key-f54d9dd1c47b0c78e9d027adfa6a1574]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2014/7/section/64) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 15](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/15)
+[^c-f54d9dd1c47b0c78e9d027adfa6a1574]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2014/7/section/64) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 15](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/15)

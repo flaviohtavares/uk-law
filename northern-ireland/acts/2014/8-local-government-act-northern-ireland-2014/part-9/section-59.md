@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Decision following report[^key-2b6f4f7797b344e8abce545ebf564742]
+## 59. Decision following report[^c-2b6f4f7797b344e8abce545ebf564742]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 - (b) specifying the details of that failure; and
 - (c) stating that the Commissioner has decided not to censure, suspend or disqualify the person.
 
-(7A)[^key-ccb37b309427e9b8a263c6dfa020f3e0] Where the Commissioner censures a person under subsection (4),the Commissioner must give notice to the clerk of the council concerned—
+(7A)[^c-ccb37b309427e9b8a263c6dfa020f3e0] Where the Commissioner censures a person under subsection (4),the Commissioner must give notice to the clerk of the council concerned—
 
 - (a) stating that the person has failed to comply with the code of conduct;
 - (b) specifying the details of that failure; and
@@ -62,8 +62,8 @@ summary: ''
 
 (10) A copy of any notice under this section—
 
-- (a) must be given to any person who is the subject of the decision to which the notice relates; [^key-7de0721dbd7062b13160edea0684b5ff]...
-- (b) must be published in one or more newspapers circulating in the district of the council concerned and.[^key-9297389dca2f15097696314368197330]
+- (a) must be given to any person who is the subject of the decision to which the notice relates; [^c-7de0721dbd7062b13160edea0684b5ff]...
+- (b) must be published in one or more newspapers circulating in the district of the council concerned and.[^c-9297389dca2f15097696314368197330]
 - (c) may be published elsewhere.
 
 (11) Where the person concerned is no longer a councillor of the council concerned but is a councillor of another council—
@@ -85,10 +85,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6f4f7797b344e8abce545ebf564742]: Commencement: S. 59 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-2b6f4f7797b344e8abce545ebf564742]: Commencement: S. 59 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-ccb37b309427e9b8a263c6dfa020f3e0]: Textual amendment: S. 59(7A) inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/3) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
+[^c-ccb37b309427e9b8a263c6dfa020f3e0]: Textual amendment: S. 59(7A) inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 3](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/3) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
 
-[^key-7de0721dbd7062b13160edea0684b5ff]: Textual amendment: Word in s. 59(10)(a) omitted (1.4.2016) by virtue of [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 4(a)](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/4/a) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
+[^c-7de0721dbd7062b13160edea0684b5ff]: Textual amendment: Word in s. 59(10)(a) omitted (1.4.2016) by virtue of [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 4(a)](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/4/a) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
 
-[^key-9297389dca2f15097696314368197330]: Textual amendment: S. 59(10)(c) and preceding word inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 4(b)](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/4/b) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))
+[^c-9297389dca2f15097696314368197330]: Textual amendment: S. 59(10)(c) and preceding word inserted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 7 para. 4(b)](https://www.legislation.gov.uk/nia/2016/4/schedule/7/paragraph/4/b) (with [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/2/paragraph/9))

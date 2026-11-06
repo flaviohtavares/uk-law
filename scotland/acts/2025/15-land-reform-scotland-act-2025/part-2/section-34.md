@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Interest payable on compensation[^key-ac18ef2b6dbbfb77519f8e0ac91c2086]
+## 34. Interest payable on compensation[^c-ac18ef2b6dbbfb77519f8e0ac91c2086]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac18ef2b6dbbfb77519f8e0ac91c2086]: Commencement: S. 34 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-ac18ef2b6dbbfb77519f8e0ac91c2086]: Commencement: S. 34 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

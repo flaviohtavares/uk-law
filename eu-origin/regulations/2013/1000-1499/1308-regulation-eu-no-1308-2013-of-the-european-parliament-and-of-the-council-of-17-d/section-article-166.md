@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In order to encourage action by the organisations referred to in Articles 152 to 163 to facilitate the adjustment of supply to market requirements, with the exception of action relating to withdrawal from the market, the appropriate authority may make regulations[^key-62f8c125dfa2eb2a6c5a4a3a29601063] concerning measures in the sectors listed in Article 1(2):
+In order to encourage action by the organisations referred to in Articles 152 to 163 to facilitate the adjustment of supply to market requirements, with the exception of action relating to withdrawal from the market, the appropriate authority may make regulations[^c-62f8c125dfa2eb2a6c5a4a3a29601063] concerning measures in the sectors listed in Article 1(2):
 
 - ((a)) improving quality;
 - ((b)) promoting better organisation of production, processing and marketing;
@@ -29,4 +29,4 @@ In order to encourage action by the organisations referred to in Articles 152 to
 
 ## Annotations
 
-[^key-62f8c125dfa2eb2a6c5a4a3a29601063]: Textual amendment: Words in [Art. 166](https://www.legislation.gov.uk/eur/2013/1308/article/166) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62f8c125dfa2eb2a6c5a4a3a29601063]: Textual amendment: Words in [Art. 166](https://www.legislation.gov.uk/eur/2013/1308/article/166) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

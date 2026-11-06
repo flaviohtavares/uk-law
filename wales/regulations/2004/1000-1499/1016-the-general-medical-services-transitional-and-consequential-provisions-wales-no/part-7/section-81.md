@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Details to be included on prescription forms[^key-bd03e1ee42c3ea003352a0bc9c670d33]
+## 81. Details to be included on prescription forms[^c-bd03e1ee42c3ea003352a0bc9c670d33]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ prescription forms, issued for the purposes of a default contract, a general med
 
 ## Annotations
 
-[^key-bd03e1ee42c3ea003352a0bc9c670d33]: Commencement: Art. 81 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-bd03e1ee42c3ea003352a0bc9c670d33]: Commencement: Art. 81 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

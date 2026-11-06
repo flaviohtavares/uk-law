@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Ore shipment and export reports[^key-9758b73cd6aac911fb073896a6ab7fdd]
+## 28. Ore shipment and export reports[^c-9758b73cd6aac911fb073896a6ab7fdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9758b73cd6aac911fb073896a6ab7fdd]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2019/196/part/5) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2026/835/regulation/20)
+[^c-9758b73cd6aac911fb073896a6ab7fdd]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2019/196/part/5) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2026/835/regulation/20)

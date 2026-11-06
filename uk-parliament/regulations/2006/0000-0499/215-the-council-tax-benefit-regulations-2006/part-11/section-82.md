@@ -16,7 +16,7 @@ summary: ''
 
 ## 82. Meaning of excess benefit
 
-In this Part “**excess benefit**” means any amount which has been allowed by way of council tax benefit and to which there was no entitlement under these Regulations (whether on the initial decision or as subsequently revised or superseded or further revised or superseded[^key-a0e7c84fe946891374f26f421907ea2e]) and includes any excess which arises by reason of—
+In this Part “**excess benefit**” means any amount which has been allowed by way of council tax benefit and to which there was no entitlement under these Regulations (whether on the initial decision or as subsequently revised or superseded or further revised or superseded[^c-a0e7c84fe946891374f26f421907ea2e]) and includes any excess which arises by reason of—
 
 - (a) a reduction in the amount a person is liable to pay in respect of council tax in consequence of—
   - (i) regulations made under section 13 [^c1541363] of the 1992 Act (reduction in the amount of a person's council tax); or
@@ -25,7 +25,7 @@ In this Part “**excess benefit**” means any amount which has been allowed by
 
 ## Annotations
 
-[^key-a0e7c84fe946891374f26f421907ea2e]: Textual amendment: Words in reg. 82 substituted by SI 2005/2904 reg. 3 (as amended) (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/29/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-a0e7c84fe946891374f26f421907ea2e]: Textual amendment: Words in reg. 82 substituted by SI 2005/2904 reg. 3 (as amended) (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/29/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1541363]: Marginal citation: Amended by the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [section 127](https://www.legislation.gov.uk/ukpga/2003/26/section/127) and Schedule 7, paragraphs 40 and 42.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Regulated below-threshold contracts[^key-c9a5633679ee4412e51af4f05a97ebda][^key-ff6a49d8c1b8e44514b320b64b89d0b6]
+## 84. Regulated below-threshold contracts[^c-c9a5633679ee4412e51af4f05a97ebda][^c-ff6a49d8c1b8e44514b320b64b89d0b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a5633679ee4412e51af4f05a97ebda]: Commencement: S. 84 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-c9a5633679ee4412e51af4f05a97ebda]: Commencement: S. 84 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-ff6a49d8c1b8e44514b320b64b89d0b6]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2023/54/section/84) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-ff6a49d8c1b8e44514b320b64b89d0b6]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2023/54/section/84) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

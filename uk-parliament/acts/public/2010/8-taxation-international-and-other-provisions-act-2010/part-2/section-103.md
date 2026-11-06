@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Interpreting sections 99 to 101 ...[^key-ffc54f40b478198acdd511f0971db267]
+## 103. Interpreting sections 99 to 101 ...[^c-ffc54f40b478198acdd511f0971db267]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section has effect for the interpretation of sections 99 to 101 [^key-ad51eed554e9bd1014639e93513253b6]...
+(1) This section has effect for the interpretation of sections 99 to 101 [^c-ad51eed554e9bd1014639e93513253b6]...
 
 (2) The “total income” of the category of business concerned for any period of account is the amount (if any) by which—
 
@@ -62,6 +62,6 @@ have the same meaning in those paragraphs as they have in those provisions.
 
 ## Annotations
 
-[^key-ffc54f40b478198acdd511f0971db267]: Textual amendment: Words in s. 103 heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 240(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/240/3)
+[^c-ffc54f40b478198acdd511f0971db267]: Textual amendment: Words in s. 103 heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 240(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/240/3)
 
-[^key-ad51eed554e9bd1014639e93513253b6]: Textual amendment: Words in s. 103(1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 240(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/240/2)
+[^c-ad51eed554e9bd1014639e93513253b6]: Textual amendment: Words in s. 103(1) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 240(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/240/2)

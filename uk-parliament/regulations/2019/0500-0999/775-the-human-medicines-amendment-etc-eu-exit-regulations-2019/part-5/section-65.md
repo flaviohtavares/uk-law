@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendment of regulation 59 (conditions of UK marketing authorisation or parallel import licence: general)[^key-26c57068723e40bd942d6bcf7984e8f8]
+## 65. Amendment of regulation 59 (conditions of UK marketing authorisation or parallel import licence: general)[^c-26c57068723e40bd942d6bcf7984e8f8]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 59 [^c23884861] is amended as follows.
 
-(1A)[^key-5ab8b715b79bd7b33655a2a3fdacbd6a] In paragraph (3) for “An obligation” substitute “In relation to a UKMA(NI) or UKMA(UK), an obligation”.
+(1A)[^c-5ab8b715b79bd7b33655a2a3fdacbd6a] In paragraph (3) for “An obligation” substitute “In relation to a UKMA(NI) or UKMA(UK), an obligation”.
 
-(2)[^key-651d66a6d840a00b4599d3fc06f4fbc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-651d66a6d840a00b4599d3fc06f4fbc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b30d8a92cdbbc8f5ec2cdbacf3791995] After paragraph (3), insert—
+(3)[^c-b30d8a92cdbbc8f5ec2cdbacf3791995] After paragraph (3), insert—
 
 > (3A) In relation to a UKMA(GB), an obligation to conduct such studies as are referred to in paragraph (2)(f) must—
 >
@@ -64,18 +64,18 @@ summary: ''
 
 .
 
-(6)[^key-3851e83143e290066582383b21e320fc] In paragraph (5) for “marketing authorisation” substitute “UKMA(NI) or UKMA(UK).
+(6)[^c-3851e83143e290066582383b21e320fc] In paragraph (5) for “marketing authorisation” substitute “UKMA(NI) or UKMA(UK).
 
 ## Annotations
 
-[^key-26c57068723e40bd942d6bcf7984e8f8]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-26c57068723e40bd942d6bcf7984e8f8]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884861]: Marginal citation: Regulation 59 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-5ab8b715b79bd7b33655a2a3fdacbd6a]: Textual amendment: Reg. 65(1A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/a)
+[^c-5ab8b715b79bd7b33655a2a3fdacbd6a]: Textual amendment: Reg. 65(1A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/a)
 
-[^key-651d66a6d840a00b4599d3fc06f4fbc8]: Textual amendment: Reg. 65(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/b)
+[^c-651d66a6d840a00b4599d3fc06f4fbc8]: Textual amendment: Reg. 65(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/b)
 
-[^key-b30d8a92cdbbc8f5ec2cdbacf3791995]: Textual amendment: Reg. 65(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/c)
+[^c-b30d8a92cdbbc8f5ec2cdbacf3791995]: Textual amendment: Reg. 65(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/c)
 
-[^key-3851e83143e290066582383b21e320fc]: Textual amendment: Reg. 65(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/d)
+[^c-3851e83143e290066582383b21e320fc]: Textual amendment: Reg. 65(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 48(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/48/d)

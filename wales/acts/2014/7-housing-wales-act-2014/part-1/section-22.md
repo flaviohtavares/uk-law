@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Licence conditions[^key-c3a8ff1102e611cb27df06d072c7e3d1]
+## 22. Licence conditions[^c-c3a8ff1102e611cb27df06d072c7e3d1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3a8ff1102e611cb27df06d072c7e3d1]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2014/7/section/22) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(l)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/l)
+[^c-c3a8ff1102e611cb27df06d072c7e3d1]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2014/7/section/22) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(l)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Procedure on further review[^key-efa756fa50554f93b73123c812209b55]
+## 70. Procedure on further review[^c-efa756fa50554f93b73123c812209b55]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efa756fa50554f93b73123c812209b55]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1988/1890/regulation/70) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-efa756fa50554f93b73123c812209b55]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1988/1890/regulation/70) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

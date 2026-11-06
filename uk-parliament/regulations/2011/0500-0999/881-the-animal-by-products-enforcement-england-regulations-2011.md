@@ -36,7 +36,7 @@ Animal Health
 
 Public Health, England
 
-The Animal By-Products (Enforcement) (England) Regulations 2011 (revoked)[^key-7a3d461ff97cd4a9b57200697634b0bd]
+The Animal By-Products (Enforcement) (England) Regulations 2011 (revoked)[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 Made
 
@@ -50,7 +50,7 @@ Coming into force
 
 23rd March 2011
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 1 — Introduction
 
@@ -58,11 +58,11 @@ Coming into force
 
 ### 1. Citation, commencement and application
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Interpretation
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — The competent authority and miscellaneous provisions
 
@@ -70,31 +70,31 @@ Coming into force
 
 ### 3. The competent authority
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Access
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.** [^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.** [^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.** [^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.** [^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Use of organic fertilisers and soil improvers
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Collection centres
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Remote areas
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Placing on the market
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Registration and approval
 
@@ -102,27 +102,27 @@ Coming into force
 
 ### 11. Procedure for registration of plants and establishments
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Notifications of competent authority in respect of registration
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13. Procedure for approval
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Notification in respect of decisions on approval
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Reasons for decisions
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Appeals procedure
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Offences and penalties
 
@@ -130,19 +130,19 @@ Coming into force
 
 ### 17. Offences in respect of the EU Control Regulation and the EU Implementing Regulation
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 18. Offence of obstruction
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Corporate, partnership and unincorporated association offences
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Penalties
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Enforcement
 
@@ -150,27 +150,27 @@ Coming into force
 
 ### 21. Enforcement authority
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22. Authorised person
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 23. Powers of entry and additional powers
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Warrant
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 25. Notices served by an authorised person
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 26. Power to disclose information for enforcement purposes
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — Consequential amendments
 
@@ -178,7 +178,7 @@ Coming into force
 
 ### 27. Consequential amendments
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 7 — Revocations and transitional provision
 
@@ -186,15 +186,15 @@ Coming into force
 
 ### 28. Revocations
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 29. Transitional provision
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 30. Review of these Regulations
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a3d461ff97cd4a9b57200697634b0bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Jim Paice
 
@@ -204,93 +204,93 @@ Department for Environment, Food and Rural Affairs
 
 **No longer in force.**
 
-## SCHEDULE 1 — Animal By-Product Requirements[^key-7a3d461ff97cd4a9b57200697634b0bd]
+## SCHEDULE 1 — Animal By-Product Requirements[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 Regulation 17
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Consequential Amendments[^key-7a3d461ff97cd4a9b57200697634b0bd]
+## SCHEDULE 2 — Consequential Amendments[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 Regulation 27
 
-### 1. The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 1. The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations 1991[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Controlled Waste Regulations 1992[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 2. The Controlled Waste Regulations 1992[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The Waste Management Licensing Regulations 1994[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 3. The Waste Management Licensing Regulations 1994[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Animal By-Products (Identification) Regulations 1995[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 4. The Animal By-Products (Identification) Regulations 1995[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The Bovine Offal (Prohibition) (England, Wales and Scotland) (Revocation) Regulations 1995[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 5. The Bovine Offal (Prohibition) (England, Wales and Scotland) (Revocation) Regulations 1995[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. The Products of Animal Origin (Import and Export) Regulations 1996[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 6. The Products of Animal Origin (Import and Export) Regulations 1996[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. The Animal By-Products (Identification) (England) Regulations 2003[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 7. The Animal By-Products (Identification) (England) Regulations 2003[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The Foot-and-Mouth Disease (England) Order 2006[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 8. The Foot-and-Mouth Disease (England) Order 2006[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. The Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 9. The Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Animals and Animal Products (Import and Export) (England) Regulations 2006[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 10. The Animals and Animal Products (Import and Export) (England) Regulations 2006[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. The Products of Animal Origin (Third Country Imports) (England) Regulations 2006[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 11. The Products of Animal Origin (Third Country Imports) (England) Regulations 2006[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. The Avian Influenza (H5N1 in Poultry) (England) Order 2006[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 12. The Avian Influenza (H5N1 in Poultry) (England) Order 2006[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. The Avian Influenza (H5N1 in Wild Birds) (England) Order 2006[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 13. The Avian Influenza (H5N1 in Wild Birds) (England) Order 2006[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. The Cattle Identification Regulations 2007[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 14. The Cattle Identification Regulations 2007[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 15. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. The Cosmetic Products (Safety) Regulations 2008[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 16. The Cosmetic Products (Safety) Regulations 2008[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. The Animal Gatherings Order 2010[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 17. The Animal Gatherings Order 2010[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. The Environmental Permitting (England and Wales) Regulations 2010[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 18. The Environmental Permitting (England and Wales) Regulations 2010[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. The Transmissible Spongiform Encephalopathies (England) Regulations 2010[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 19. The Transmissible Spongiform Encephalopathies (England) Regulations 2010[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. The Zoonoses and Animal By-Products (Fees) (England) Regulations 2010[^key-7a3d461ff97cd4a9b57200697634b0bd]
+### 20. The Zoonoses and Animal By-Products (Fees) (England) Regulations 2010[^c-7a3d461ff97cd4a9b57200697634b0bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -322,4 +322,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-7a3d461ff97cd4a9b57200697634b0bd]: Textual amendment: Regulations revoked (12.12.2013) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 28(d)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/28/d)
+[^c-7a3d461ff97cd4a9b57200697634b0bd]: Textual amendment: Regulations revoked (12.12.2013) by [The Animal By-Products (Enforcement) (England) Regulations 2013 (S.I. 2013/2952)](https://www.legislation.gov.uk/uksi/2013/2952), [reg. 28(d)](https://www.legislation.gov.uk/uksi/2013/2952/regulation/28/d)

@@ -26,9 +26,9 @@ Section 85
 
 **1.** Part 3 of the Criminal Law (Consolidation) (Scotland) Act 1995 is amended as follows.
 
-**2.**[^key-badbc87bde09c9f615321a05efd493b5] The heading to that Part becomes “ Investigation of Revenue and Customs offences ”.
+**2.**[^c-badbc87bde09c9f615321a05efd493b5] The heading to that Part becomes “ Investigation of Revenue and Customs offences ”.
 
-**3.**[^key-9cb58ecb56fb926ef4116e17f51772ee] At the beginning of that Part insert—
+**3.**[^c-9cb58ecb56fb926ef4116e17f51772ee] At the beginning of that Part insert—
 
 > **Investigation of offences by HMRC**
 >
@@ -373,13 +373,13 @@ Section 85
 >
 > (3) An authorised officer may arrest without warrant any person whom the officer has reasonable grounds for suspecting has committed an offence under subsection (1) or (2) above.
 
-**4.**[^key-4ca6b630aefcc818843713aacd9d73a2][^key-98096b2ab81fe1c9b3f00dcdd0e8a497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4ca6b630aefcc818843713aacd9d73a2][^c-98096b2ab81fe1c9b3f00dcdd0e8a497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f4262babff67ea1d94a5074ef39f605d][^key-630bdf04477ce00d82bbee2baa447a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f4262babff67ea1d94a5074ef39f605d][^c-630bdf04477ce00d82bbee2baa447a1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4f5198e3afedabd49a067e8aa0559985] In section 26 (detention in connection with drug smuggling offences), for “a customs office” (in both places) substitute “ an office of Revenue and Customs ”.
+**6.**[^c-4f5198e3afedabd49a067e8aa0559985] In section 26 (detention in connection with drug smuggling offences), for “a customs office” (in both places) substitute “ an office of Revenue and Customs ”.
 
-**7.**[^key-b939964e94c2f6bc773bd8775e567ccb] After that section insert—
+**7.**[^c-b939964e94c2f6bc773bd8775e567ccb] After that section insert—
 
 > **Power of arrest**
 >
@@ -403,13 +403,13 @@ Section 85
 
 **8.** Section 307 of the Criminal Procedure (Scotland) Act 1995 (interpretation) is amended as follows.
 
-**9.**[^key-3bed864665d961e965af5ff22b5186f9] In subsection (1), in the definition of “officer of law”, for paragraph (ba) substitute—
+**9.**[^c-3bed864665d961e965af5ff22b5186f9] In subsection (1), in the definition of “officer of law”, for paragraph (ba) substitute—
 
 > - (ba) subject to subsection (1A) below, an officer of Revenue and Customs acting with the authority (which may be general or specific) of the Commissioners for Her Majesty's Revenue and Customs;
 
 .
 
-**10.**[^key-60ab09bede26c15431a106f16e9965ce] After that subsection insert—
+**10.**[^c-60ab09bede26c15431a106f16e9965ce] After that subsection insert—
 
 > (1A) The inclusion of officers of Revenue and Customs as “officers of law” shall not have effect in relation to any matter specified in—
 >
@@ -424,13 +424,13 @@ Section 85
 
 **11.** The Criminal Justice and Police Act 2001 is amended as follows.
 
-**12.**[^key-f4f9954c20c49cdcd046ae24856950f2] In section 63(2) (powers to obtain hard copies etc of information stored in electronic form), after paragraph (g) insert—
+**12.**[^c-f4f9954c20c49cdcd046ae24856950f2] In section 63(2) (powers to obtain hard copies etc of information stored in electronic form), after paragraph (g) insert—
 
 > - (ga) section 23E(5)(b) (as read with section 23K(2)) of the Criminal Law (Consolidation) (Scotland) Act 1995;
 
 .
 
-**13.**[^key-27792cdbbad105eb9717e9aec3f9ab58] In Schedule 1—
+**13.**[^c-27792cdbbad105eb9717e9aec3f9ab58] In Schedule 1—
 
 - (a) in Part 1, after paragraph 59 insert—
 
@@ -451,26 +451,26 @@ Section 85
 
 ## Annotations
 
-[^key-badbc87bde09c9f615321a05efd493b5]: Commencement: Sch. 23 para. 2 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-badbc87bde09c9f615321a05efd493b5]: Commencement: Sch. 23 para. 2 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-9cb58ecb56fb926ef4116e17f51772ee]: Commencement: Sch. 23 para. 3 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-9cb58ecb56fb926ef4116e17f51772ee]: Commencement: Sch. 23 para. 3 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-4ca6b630aefcc818843713aacd9d73a2]: Textual amendment: [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/4) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(4)](https://www.legislation.gov.uk/uksi/2018/46/article/19/4) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
+[^c-4ca6b630aefcc818843713aacd9d73a2]: Textual amendment: [Sch. 23 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/4) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(4)](https://www.legislation.gov.uk/uksi/2018/46/article/19/4) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
 
-[^key-98096b2ab81fe1c9b3f00dcdd0e8a497]: Commencement: Sch. 23 para. 4 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-98096b2ab81fe1c9b3f00dcdd0e8a497]: Commencement: Sch. 23 para. 4 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-f4262babff67ea1d94a5074ef39f605d]: Textual amendment: [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/5) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(4)](https://www.legislation.gov.uk/uksi/2018/46/article/19/4) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
+[^c-f4262babff67ea1d94a5074ef39f605d]: Textual amendment: [Sch. 23 para. 5](https://www.legislation.gov.uk/ukpga/2007/11/schedule/23/paragraph/5) repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [19(4)](https://www.legislation.gov.uk/uksi/2018/46/article/19/4) (with [art. 19(2)](https://www.legislation.gov.uk/uksi/2018/46/article/19/2))
 
-[^key-630bdf04477ce00d82bbee2baa447a1e]: Commencement: Sch. 23 para. 5 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-630bdf04477ce00d82bbee2baa447a1e]: Commencement: Sch. 23 para. 5 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-4f5198e3afedabd49a067e8aa0559985]: Commencement: Sch. 23 para. 6 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-4f5198e3afedabd49a067e8aa0559985]: Commencement: Sch. 23 para. 6 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-b939964e94c2f6bc773bd8775e567ccb]: Commencement: Sch. 23 para. 7 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-b939964e94c2f6bc773bd8775e567ccb]: Commencement: Sch. 23 para. 7 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-3bed864665d961e965af5ff22b5186f9]: Commencement: Sch. 23 para. 9 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-3bed864665d961e965af5ff22b5186f9]: Commencement: Sch. 23 para. 9 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-60ab09bede26c15431a106f16e9965ce]: Commencement: Sch. 23 para. 10 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-60ab09bede26c15431a106f16e9965ce]: Commencement: Sch. 23 para. 10 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-f4f9954c20c49cdcd046ae24856950f2]: Commencement: Sch. 23 para. 12 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-f4f9954c20c49cdcd046ae24856950f2]: Commencement: Sch. 23 para. 12 in force at 1.12.2007 for the purposes of the amendment made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
 
-[^key-27792cdbbad105eb9717e9aec3f9ab58]: Commencement: Sch. 23 para. 13 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)
+[^c-27792cdbbad105eb9717e9aec3f9ab58]: Commencement: Sch. 23 para. 13 in force at 1.12.2007 for the purposes of the amendments made by that paragraph by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/b)

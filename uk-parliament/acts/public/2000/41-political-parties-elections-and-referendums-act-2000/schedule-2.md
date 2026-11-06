@@ -34,9 +34,9 @@ Section 2.
 
 - (a) the Speaker of the House of Commons;
 - (b) the member who is the Chairman of the Home Affairs Committee of the House of Commons; or
-- (c) the member who is the Secretary of State for[^key-c305bb5bc30d36c4218e5e15eff9164a] Housing, Communities and Local Government[^key-45cc441115706904f685f11ad9825a6f].
+- (c) the member who is the Secretary of State for[^c-c305bb5bc30d36c4218e5e15eff9164a] Housing, Communities and Local Government[^c-45cc441115706904f685f11ad9825a6f].
 
-(1A)[^M_F_0c73c227-18cc-4706-8b80-9abe5775ac13] The reference in sub-paragraph (1)(c) to the member who is the Secretary of State for Housing, Communities and Local Government[^key-2f3fd7d5579041e80fe91362493719e0] does not include any member appointed under section 2(2A).
+(1A)[^M_F_0c73c227-18cc-4706-8b80-9abe5775ac13] The reference in sub-paragraph (1)(c) to the member who is the Secretary of State for Housing, Communities and Local Government[^c-2f3fd7d5579041e80fe91362493719e0] does not include any member appointed under section 2(2A).
 
 (2) An appointed member shall cease to be a member of the Speaker’s Committee if—
 
@@ -70,12 +70,12 @@ the members of the Committee.
 
 ## Annotations
 
-[^key-c305bb5bc30d36c4218e5e15eff9164a]: Textual amendment: Words in Sch. 2 para. 2(1)(c) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 15(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/15/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-c305bb5bc30d36c4218e5e15eff9164a]: Textual amendment: Words in Sch. 2 para. 2(1)(c) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 15(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/15/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-45cc441115706904f685f11ad9825a6f]: Textual amendment: Words in Sch. 2 para. 2(1)(c) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/8/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-45cc441115706904f685f11ad9825a6f]: Textual amendment: Words in Sch. 2 para. 2(1)(c) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/8/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^M_F_0c73c227-18cc-4706-8b80-9abe5775ac13]: Textual amendment: Sch. 2 para. 2(1A) inserted (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/18/2), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
 
-[^key-2f3fd7d5579041e80fe91362493719e0]: Textual amendment: Words in Sch. 2 para. 2(1A) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/8/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-2f3fd7d5579041e80fe91362493719e0]: Textual amendment: Words in Sch. 2 para. 2(1A) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/8/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
 [^M_F_5fc2b138-acfb-4492-bcc9-5f8d566a8d5e]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2000/41/schedule/2/paragraph/4) and cross-heading inserted (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/17/2), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/908/regulation/3))

@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for the food drink and milk industries, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-640c11dcb72db30d53665e551c22cf48]
+## Article 2. Application and Interpretation[^c-640c11dcb72db30d53665e551c22cf48]
 
 1. The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -1540,7 +1540,7 @@ DESCRIPTION OF TECHNIQUES
 
 [^f00003]: Footnote: https://circabc.europa.eu/ui/group/06f33a94-9829-4eee-b187-21bb783a0fbf/library/d00a6ea2-6a30-46fc-8064-16200f9fe7f6?p=1&n=10&sort=modified\_DESC
 
-[^key-640c11dcb72db30d53665e551c22cf48]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [24B(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24B/2) (as inserted by [S.I. 2020/1313](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-640c11dcb72db30d53665e551c22cf48]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [24B(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/24B/2) (as inserted by [S.I. 2020/1313](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment ([OJ L 135, 30.5.1991, p. 40](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.135.01.0040.01.ENG)).
 

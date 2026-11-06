@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Regulations about registration of marriages and civil partnerships in gender-change cases[^key-7cc81e02bdab811d0b41f2b4e1f8db18]
+## 48. Regulations about registration of marriages and civil partnerships in gender-change cases[^c-7cc81e02bdab811d0b41f2b4e1f8db18]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ In Part 3 of Schedule 3 (registration: Northern Ireland), after paragraph 32 ins
 
 ## Annotations
 
-[^key-7cc81e02bdab811d0b41f2b4e1f8db18]: Commencement: Reg. 48 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-7cc81e02bdab811d0b41f2b4e1f8db18]: Commencement: Reg. 48 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

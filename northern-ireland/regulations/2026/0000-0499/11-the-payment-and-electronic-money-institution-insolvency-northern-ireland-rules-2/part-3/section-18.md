@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Statement of affairs: content[^key-088f072cd25ed9373fe39b7ceccc2be6]
+## 18. Statement of affairs: content[^c-088f072cd25ed9373fe39b7ceccc2be6]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-088f072cd25ed9373fe39b7ceccc2be6]: Commencement: [Rule 18](https://www.legislation.gov.uk/nisr/2026/11/rule/18) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-088f072cd25ed9373fe39b7ceccc2be6]: Commencement: [Rule 18](https://www.legislation.gov.uk/nisr/2026/11/rule/18) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

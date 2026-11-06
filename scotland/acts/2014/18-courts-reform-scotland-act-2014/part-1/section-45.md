@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Summary sheriff: criminal competence and jurisdiction[^key-b2c618bae4937faaa9db1ebea7a33756]
+## 45. Summary sheriff: criminal competence and jurisdiction[^c-b2c618bae4937faaa9db1ebea7a33756]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2c618bae4937faaa9db1ebea7a33756]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/18/section/45) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-b2c618bae4937faaa9db1ebea7a33756]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2014/18/section/45) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

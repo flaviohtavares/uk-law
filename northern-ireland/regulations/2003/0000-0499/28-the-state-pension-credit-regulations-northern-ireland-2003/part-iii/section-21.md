@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Notional capital[^key-0676e6bee6c5ae7f119e88f9d2cbf341]
+## 21. Notional capital[^c-0676e6bee6c5ae7f119e88f9d2cbf341]
 
 *Extent: N.I.*
 
 (1) A claimant shall be treated as possessing capital of which he has deprived himself for the purpose of securing entitlement to state pension credit or increasing the amount of that benefit except to the extent that the capital which he is treated as possessing is reduced in accordance with regulation 22 (diminishing notional capital rule).
 
-(2)[^key-0c6aa6022f49eabc6410dbcda0aae1e9] A person who disposes of a capital resource for the purpose of –
+(2)[^c-0c6aa6022f49eabc6410dbcda0aae1e9] A person who disposes of a capital resource for the purpose of –
 
 - (a) reducing or paying a debt owed by the claimant, or
 - (b) purchasing goods or services if the expenditure was reasonable in the circumstances of the claimant’s case,
@@ -40,6 +40,6 @@ shall be regarded as not depriving himself of it.
 
 ## Annotations
 
-[^key-0676e6bee6c5ae7f119e88f9d2cbf341]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/28/regulation/21) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-0676e6bee6c5ae7f119e88f9d2cbf341]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2003/28/regulation/21) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
-[^key-0c6aa6022f49eabc6410dbcda0aae1e9]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/nisr/2003/28/regulation/21/2) substituted (5.4.2004) by [The State Pension Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (S.R. 2004/110)](https://www.legislation.gov.uk/nisr/2004/110), [regs. 1](https://www.legislation.gov.uk/nisr/2004/110/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2004/110/regulation/3/4)
+[^c-0c6aa6022f49eabc6410dbcda0aae1e9]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/nisr/2003/28/regulation/21/2) substituted (5.4.2004) by [The State Pension Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (S.R. 2004/110)](https://www.legislation.gov.uk/nisr/2004/110), [regs. 1](https://www.legislation.gov.uk/nisr/2004/110/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2004/110/regulation/3/4)

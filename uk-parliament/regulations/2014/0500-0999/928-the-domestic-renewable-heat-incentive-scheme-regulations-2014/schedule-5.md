@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Tariffs[^key-f9c1648c3cf8ea1f268e3f1ec8d84771]
+## SCHEDULE 5 — Tariffs[^c-f9c1648c3cf8ea1f268e3f1ec8d84771]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Table 1
 
 ## Annotations
 
-[^key-f9c1648c3cf8ea1f268e3f1ec8d84771]: Commencement: Sch. 5 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-f9c1648c3cf8ea1f268e3f1ec8d84771]: Commencement: Sch. 5 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Modifications to Banking Appeal Tribunal Regulations 1987[^key-6f2f305397a08cf2cfbda95b713ce9ef]
+## 117. Modifications to Banking Appeal Tribunal Regulations 1987[^c-6f2f305397a08cf2cfbda95b713ce9ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,7 +58,7 @@ The Banking Appeal Regulations 1987[^f00039] and the Banking Appeal Tribunal (Sc
 
 ## Annotations
 
-[^key-6f2f305397a08cf2cfbda95b713ce9ef]: Commencement: Art. 117 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-6f2f305397a08cf2cfbda95b713ce9ef]: Commencement: Art. 117 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00039]: Footnote: S.I. [1987/1299](https://www.legislation.gov.uk/uksi/1987/1299). The Regulations were amended by S.I. [1993/982](https://www.legislation.gov.uk/uksi/1993/982) and S.I. [1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).
 

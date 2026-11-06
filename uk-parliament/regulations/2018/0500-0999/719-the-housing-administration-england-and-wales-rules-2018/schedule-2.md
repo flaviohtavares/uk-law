@@ -22,7 +22,7 @@ summary: ''
 
 Rule 2.7(2)
 
-**2.**[^key-2910b666dfc3c524668b75110501dfa2] (1) This Schedule sets out the requirements for service where a document is required to be served.
+**2.**[^c-2910b666dfc3c524668b75110501dfa2] (1) This Schedule sets out the requirements for service where a document is required to be served.
 
 (2) Service is to be carried out in accordance with Part 6 of the CPR as that Part applies to either a “claim form” or a “document other than a claim form” except where this Schedule provides otherwise or the court otherwise approves or directs.
 
@@ -44,7 +44,7 @@ and must be served by the applicant.
 
 (8) Part 6 of the CPR applies to the service of documents outside the jurisdiction with such modifications as the court may approve or direct.
 
-### 3. Service of application for housing administration[^key-3d75be8c6f94866f747dbf47a4a7d271]
+### 3. Service of application for housing administration[^c-3d75be8c6f94866f747dbf47a4a7d271]
 
 (1) An application to the court for a housing administration order must be served by delivering the documents as follows—
 
@@ -64,11 +64,11 @@ and must be served by the applicant.
 - (b) where the applicant does not know of any such office, the registered office; or
 - (c) if there is no such registered office, the usual or last known address.
 
-### 4. Service on joint housing administrators[^key-872c094939444622738c68a304ee8c0b]
+### 4. Service on joint housing administrators[^c-872c094939444622738c68a304ee8c0b]
 
 Service of a document on one of joint housing administrators is to be treated as service on all of them.
 
-### 5. Certificate of service[^key-ad9e5343baeb4c4716af9588e60265fd]
+### 5. Certificate of service[^c-ad9e5343baeb4c4716af9588e60265fd]
 
 (1) The service of an application must be verified by a certificate of service.
 
@@ -89,10 +89,10 @@ Service of a document on one of joint housing administrators is to be treated as
 
 ## Annotations
 
-[^key-2910b666dfc3c524668b75110501dfa2]: Commencement: Sch. 2 para. 2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2910b666dfc3c524668b75110501dfa2]: Commencement: Sch. 2 para. 2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
-[^key-3d75be8c6f94866f747dbf47a4a7d271]: Commencement: Sch. 2 para. 3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-3d75be8c6f94866f747dbf47a4a7d271]: Commencement: Sch. 2 para. 3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
-[^key-872c094939444622738c68a304ee8c0b]: Commencement: Sch. 2 para. 4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-872c094939444622738c68a304ee8c0b]: Commencement: Sch. 2 para. 4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
-[^key-ad9e5343baeb4c4716af9588e60265fd]: Commencement: Sch. 2 para. 5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-ad9e5343baeb4c4716af9588e60265fd]: Commencement: Sch. 2 para. 5 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

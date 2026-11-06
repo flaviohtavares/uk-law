@@ -48,42 +48,42 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 16(1) of that Act, they have consulted with representatives of such interests as appear to them to be concerned.
 
-## 1. Citation, commencement and extent[^key-4dad589dd813cfad9ebfaca0ee46c99f]
+## 1. Citation, commencement and extent[^c-4dad589dd813cfad9ebfaca0ee46c99f]
 
 These Regulations may be cited as the Seed (Fees etc.) (Scotland) Regulations 2017 and come into force on 1st July 2017.
 
-**2.**[^key-71442cbebeaa79d3c8632a9fe36b6faa] These Regulations extend to Scotland only.
+**2.**[^c-71442cbebeaa79d3c8632a9fe36b6faa] These Regulations extend to Scotland only.
 
-## 3. Interpretation[^key-711ddb1c73cdd0c751f501ace51f7c0d]
+## 3. Interpretation[^c-711ddb1c73cdd0c751f501ace51f7c0d]
 
 (1) In these Regulations—
 
 - “the 2016 Regulations” means the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016[^f00002];
-- [^key-da49c55f019ff1adfed346194f4ec3a2]...
+- [^c-da49c55f019ff1adfed346194f4ec3a2]...
 
-(2)[^key-0604e9fb990f37f59f718377c8347ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0604e9fb990f37f59f718377c8347ad5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees for matters set out in schedule 1[^key-311b1b2200a1fc3d5fbc1005b4f46830]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Fees for matters set out in schedule 2[^key-311b1b2200a1fc3d5fbc1005b4f46830]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Exemptions[^key-311b1b2200a1fc3d5fbc1005b4f46830]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. Revocations[^key-311b1b2200a1fc3d5fbc1005b4f46830]
+## 4. Fees for matters set out in schedule 1[^c-311b1b2200a1fc3d5fbc1005b4f46830]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016[^key-cfc65e3e55e014903020361f67bbd7e7]
+## 5. Fees for matters set out in schedule 2[^c-311b1b2200a1fc3d5fbc1005b4f46830]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Exemptions[^c-311b1b2200a1fc3d5fbc1005b4f46830]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Revocations[^c-311b1b2200a1fc3d5fbc1005b4f46830]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendment of the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016[^c-cfc65e3e55e014903020361f67bbd7e7]
 
 In regulation 15(2) (right to make representations) of the 2016 Regulations [^f00009], for “the person refused a licence” substitute “the person who applied for a licence under regulation 3”.
 
@@ -97,7 +97,7 @@ Edinburgh
 
 30th May 2017
 
-## SCHEDULE 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^key-7b64fb18c832f704675bef18438935cd]
+## SCHEDULE 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^c-7b64fb18c832f704675bef18438935cd]
 
 **No longer in force.**
 
@@ -105,7 +105,7 @@ Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — FEES FOR MATTERS RELATING TO THE 2016 REGULATIONS[^key-e7249405fe5aec6f25468d52a986558c]
+## SCHEDULE 2 — FEES FOR MATTERS RELATING TO THE 2016 REGULATIONS[^c-e7249405fe5aec6f25468d52a986558c]
 
 **No longer in force.**
 
@@ -201,24 +201,24 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1964 c.14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16(1) was amended by the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”), section 4(1) and schedule 4, paragraph 5(1) and (2). Section 16(1A) was inserted by the 1972 Act, section 4(1) and schedule 4, paragraph 5(1) and (2). See section 38(1) for the definition of “the Minister”. The functions of the Secretary of State, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-4dad589dd813cfad9ebfaca0ee46c99f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
+[^c-4dad589dd813cfad9ebfaca0ee46c99f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
 
-[^key-71442cbebeaa79d3c8632a9fe36b6faa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/179/regulation/2) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
+[^c-71442cbebeaa79d3c8632a9fe36b6faa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/179/regulation/2) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
 
-[^key-711ddb1c73cdd0c751f501ace51f7c0d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/179/regulation/3) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
+[^c-711ddb1c73cdd0c751f501ace51f7c0d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/179/regulation/3) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68) as amended by [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
-[^key-da49c55f019ff1adfed346194f4ec3a2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2017/179/regulation/3/1) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/a)
+[^c-da49c55f019ff1adfed346194f4ec3a2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2017/179/regulation/3/1) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/a)
 
-[^key-0604e9fb990f37f59f718377c8347ad5]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2017/179/regulation/3/2) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/a)
+[^c-0604e9fb990f37f59f718377c8347ad5]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2017/179/regulation/3/2) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(a)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/a)
 
-[^key-311b1b2200a1fc3d5fbc1005b4f46830]: Textual amendment: [Regs. 4-7](https://www.legislation.gov.uk/ssi/2017/179/regulation/4) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/b)
+[^c-311b1b2200a1fc3d5fbc1005b4f46830]: Textual amendment: [Regs. 4-7](https://www.legislation.gov.uk/ssi/2017/179/regulation/4) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/b)
 
-[^key-cfc65e3e55e014903020361f67bbd7e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/179/regulation/8) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
+[^c-cfc65e3e55e014903020361f67bbd7e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/179/regulation/8) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68) as amended by [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
-[^key-7b64fb18c832f704675bef18438935cd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2017/179/schedule/1) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(c)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/c)
+[^c-7b64fb18c832f704675bef18438935cd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2017/179/schedule/1) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(c)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/c)
 
-[^key-e7249405fe5aec6f25468d52a986558c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2017/179/schedule/2) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(c)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/c)
+[^c-e7249405fe5aec6f25468d52a986558c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2017/179/schedule/2) revoked (1.7.2018) by [The Seed (Fees) (Scotland) Regulations 2018 (S.S.I. 2018/152)](https://www.legislation.gov.uk/ssi/2018/152), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/152/regulation/1/1), [6(1)(c)](https://www.legislation.gov.uk/ssi/2018/152/regulation/6/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 219. Administrator’s duties on vacating office[^key-dc8c9320ba9537e9f67f21b7df162216]
+## 219. Administrator’s duties on vacating office[^c-dc8c9320ba9537e9f67f21b7df162216]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc8c9320ba9537e9f67f21b7df162216]: Commencement: [Rule 219](https://www.legislation.gov.uk/uksi/2011/1301/rule/219) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-dc8c9320ba9537e9f67f21b7df162216]: Commencement: [Rule 219](https://www.legislation.gov.uk/uksi/2011/1301/rule/219) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

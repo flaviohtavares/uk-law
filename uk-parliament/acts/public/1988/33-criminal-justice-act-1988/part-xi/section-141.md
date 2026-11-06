@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any person who manufactures, sells or hires or offers for sale or hire, exposes or has in his possession for the purpose of sale or hire, or lends or gives to any other person, a weapon to which this section applies shall be guilty of an offence and liable on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or both.
 
-(1A)[^key-91478f790c7dbd91942cb87a450b79da] Any person who possesses a weapon to which this section applies in private is guilty of an offence and liable—
+(1A)[^c-91478f790c7dbd91942cb87a450b79da] Any person who possesses a weapon to which this section applies in private is guilty of an offence and liable—
 
 - (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding 51 weeks, to a fine or to both;
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months, to a fine not exceeding level 5 on the standard scale or to both;
@@ -75,7 +75,7 @@ summary: ''
 
 (5) It shall be a defence for any person charged in respect of any conduct of his relating to a weapon to which this section applies—
 
-- (a) with an offence under subsection (1) or (1A)[^key-d2e328681867d8ec3454700eb26c0ac1] above; or
+- (a) with an offence under subsection (1) or (1A)[^c-d2e328681867d8ec3454700eb26c0ac1] above; or
 - (b) with an offence under section 50(2) or (3) of the [^c12795611]Customs and Excise Management Act 1979 (improper importation),
 
 to show[^c19756244] that his conduct was only for the purposes of functions carried out on behalf of the Crown or of a visiting force.
@@ -90,7 +90,7 @@ which is present in the United Kingdom (including United Kingdom territorial wat
 
 (7) This subsection applies to any place on, under or above an installation in a designated area within the meaning of section 1(7) of the [^c12795631]Continental Shelf Act 1964 or any waters within 500 metres of such an installation.
 
-(7A)[^key-e953a249ab1d1742d9bd6823481cf033] It is a defence for a person charged with an offence under subsection (1A) to show that the weapon in question is one of historical importance.
+(7A)[^c-e953a249ab1d1742d9bd6823481cf033] It is a defence for a person charged with an offence under subsection (1A) to show that the weapon in question is one of historical importance.
 
 (8) It shall be a defence for any person charged in respect of any conduct of his relating to a weapon to which this section applies—
 
@@ -99,7 +99,7 @@ which is present in the United Kingdom (including United Kingdom territorial wat
 
 to show that the conduct in question was only for the purposes of making the weapon available to a museum or gallery to which this subsection applies.
 
-(8A)[^key-e93a8ba43b2f38edb09e572d03520228] It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only in their capacity as the operator of, or as a person acting on behalf of, a museum or gallery.
+(8A)[^c-e93a8ba43b2f38edb09e572d03520228] It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only in their capacity as the operator of, or as a person acting on behalf of, a museum or gallery.
 
 (9) If the operator of, or a person acting on behalf of,[^M_F_5223570f-4f3c-4567-b951-0e27757560b4] a museum or gallery to which subsection (8) above applies is charged with hiring or lending a weapon to which this section applies, it shall be a defence for him to show that he had reasonable grounds for believing that the person to whom he lent or hired it would use it only for cultural, artistic or educational purposes.
 
@@ -107,7 +107,7 @@ to show that the conduct in question was only for the purposes of making the wea
 
 (11) In this section “**museum or gallery**” includes any institution which has as its purpose, or one of its purposes, the preservation, display and interpretation of material of historical, artistic or scientific interest and gives the public access to it.
 
-(11ZA)[^key-99e691aa899931a06eeb866218736f6c] It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question for educational purposes only.
+(11ZA)[^c-99e691aa899931a06eeb866218736f6c] It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question for educational purposes only.
 
 (11A)[^c20404341] It shall be a defence for a person charged in respect of conduct of his relating to a weapon to which this section applies—
 
@@ -118,7 +118,7 @@ to show that his conduct was for the purpose only of making the weapon in questi
 
 *Extent: E+W+N.I.*
 
-(11AA)[^key-3509db23648ab3ca7524577ea76a4bc5] It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only for one or more of the purposes specified in subsection (11B).
+(11AA)[^c-3509db23648ab3ca7524577ea76a4bc5] It is a defence for a person charged with an offence under subsection (1A) to show that they possessed the weapon in question only for one or more of the purposes specified in subsection (11B).
 
 (11B) Those purposes are—
 
@@ -126,21 +126,21 @@ to show that his conduct was for the purpose only of making the weapon in questi
 - (b) the production of films (within the meaning of Part 1 of the Copyright, Designs and Patents Act 1988 – see section 5B of that Act);
 - (c) the production of television programmes (within the meaning of the Communications Act 2003 – see section 405(1) of that Act).
 
-(11C) For the purposes of this section a person shall be taken to have shown a matter specified in subsection (5), (7A), (8), (8A), (9), (11ZA), (11A) or (11AA)[^key-6d7235f80adc51df1b69be4cdaae9d34] if—
+(11C) For the purposes of this section a person shall be taken to have shown a matter specified in subsection (5), (7A), (8), (8A), (9), (11ZA), (11A) or (11AA)[^c-6d7235f80adc51df1b69be4cdaae9d34] if—
 
 - (a) sufficient evidence of that matter is adduced to raise an issue with respect to it; and
 - (b) the contrary is not proved beyond a reasonable doubt.
 
 (11D) The Secretary of State may by order made by statutory instrument—
 
-- (a) provide for exceptions and exemptions from the offence under subsection (1) or (1A) *(Extent: E+W+N.I.)*[^key-ffcb7b96dbce3ba3ff264be1fe5c797b] above or from the prohibition in subsection (4) above; and
+- (a) provide for exceptions and exemptions from the offence under subsection (1) or (1A) *(Extent: E+W+N.I.)*[^c-ffcb7b96dbce3ba3ff264be1fe5c797b] above or from the prohibition in subsection (4) above; and
 - (b) provide for it to be a defence in proceedings for such an offence, or for an offence under section 50(2) or (3) of the Customs and Excise Management Act 1979, to show the matters specified or described in the order.
 
 (11E) A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before Parliament and approved by a resolution of each House.
 
 (12) This section shall not have effect in relation to anything done before it comes into force.
 
-(12A)[^key-84dbf9cac5951a970fbea98e2e7b70b7] An order under this section which has the effect that possession in private of a weapon of a particular description is, or is to become, an offence under subsection (1A) may make provision—
+(12A)[^c-84dbf9cac5951a970fbea98e2e7b70b7] An order under this section which has the effect that possession in private of a weapon of a particular description is, or is to become, an offence under subsection (1A) may make provision—
 
 - (a) enabling arrangements to be made for the surrender of weapons of that description;
 - (b) as to the procedure to be followed in relation to the surrender of such weapons;
@@ -149,7 +149,7 @@ to show that his conduct was for the purpose only of making the weapon in questi
 - (e) as to the procedure to be followed in respect of a claim and for the determination of a claim;
 - (f) enabling a person to exercise a discretion in determining whether to make a payment in response to a claim and the amount of such a payment.
 
-(13) In the application of this section to Northern Ireland in subsection (2) above the reference to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland and the reference[^key-a69be79cca6b37336c6e1bb4a2a667df] to the [^c12795641]Firearms Act 1968 shall be construed as a reference to the [^c12795651]Firearms (Northern Ireland) Order 2004[^c19071781].
+(13) In the application of this section to Northern Ireland in subsection (2) above the reference to the Secretary of State shall be construed as a reference to the Department of Justice in Northern Ireland and the reference[^c-a69be79cca6b37336c6e1bb4a2a667df] to the [^c12795641]Firearms Act 1968 shall be construed as a reference to the [^c12795651]Firearms (Northern Ireland) Order 2004[^c19071781].
 
 ## 141. Offensive weapons.[^M_E_8c6205d9-0526-4cab-df86-76e9d0a08df9]
 
@@ -383,13 +383,13 @@ subsection (11A) does not apply unless the condition in subsection (11D) is sati
 
 [^M_E_94442d10-4602-43b4-8f58-6469fb360dff]: Extent: This version of this provision extends to England and Wales only; separate versions have been created for Scotland and Northern Ireland only
 
-[^key-91478f790c7dbd91942cb87a450b79da]: Textual amendment: [S. 141(1A)-(1F)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/1A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2) (with [s. 46(18)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/18)[(19)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/19)); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-91478f790c7dbd91942cb87a450b79da]: Textual amendment: [S. 141(1A)-(1F)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/1A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2) (with [s. 46(18)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/18)[(19)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/19)); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
 [^c12795601]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
 [^c19756091]: Textual amendment: [S. 141(3)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/3) repealed (S.) (1.11.2007) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 66(2)](https://www.legislation.gov.uk/asp/2007/17/section/66/2), [67](https://www.legislation.gov.uk/asp/2007/17/section/67), [Sch. 5](https://www.legislation.gov.uk/asp/2007/17/schedule/5); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3 Sch.](https://www.legislation.gov.uk/ssi/2007/431/article/3/schedule); and repealed (E.W.N.I.) (1.4.2008) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 65](https://www.legislation.gov.uk/ukpga/2006/38/section/65), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [arts. 2(e)](https://www.legislation.gov.uk/uksi/2008/791/article/2/e)
 
-[^key-d2e328681867d8ec3454700eb26c0ac1]: Textual amendment: Words in [s. 141(5)(a)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/5/a) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-d2e328681867d8ec3454700eb26c0ac1]: Textual amendment: Words in [s. 141(5)(a)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/5/a) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
 [^c12795611]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -399,25 +399,25 @@ subsection (11A) does not apply unless the condition in subsection (11D) is sati
 
 [^c12795631]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-e953a249ab1d1742d9bd6823481cf033]: Textual amendment: [S. 141(7A)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/7A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/4), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-e953a249ab1d1742d9bd6823481cf033]: Textual amendment: [S. 141(7A)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/7A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/4), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
-[^key-e93a8ba43b2f38edb09e572d03520228]: Textual amendment: [S. 141(8A)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/8A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/5), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-e93a8ba43b2f38edb09e572d03520228]: Textual amendment: [S. 141(8A)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/8A) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/5), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
 [^M_F_5223570f-4f3c-4567-b951-0e27757560b4]: Textual amendment: Words in [s. 141(9)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/9) substituted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(6)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/6), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
-[^key-99e691aa899931a06eeb866218736f6c]: Textual amendment: [S. 141(11ZA)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/11ZA) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/7), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
+[^c-99e691aa899931a06eeb866218736f6c]: Textual amendment: [S. 141(11ZA)](https://www.legislation.gov.uk/ukpga/1988/33/section/141/11ZA) inserted (14.7.2021 for E.W., 27.3.2023 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/7), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d); [S.S.I. 2023/72](https://www.legislation.gov.uk/ssi/2023/72), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2023/72/regulation/2/1/b)
 
 [^c20404341]: Textual amendment: S. 141(11A)-(11E) inserted (E.W.N.I.) (1.4.2008 for purpose of inserting (11D) and (11E) and 6.4.2008 in so far as not already in force) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2006/38/section/43/4), [51](https://www.legislation.gov.uk/ukpga/2006/38/section/51), [66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/ukpga/2006/38/schedule/2/paragraph/11/3); [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [arts. 2(c)](https://www.legislation.gov.uk/uksi/2008/791/article/2/c), [3(c)](https://www.legislation.gov.uk/uksi/2008/791/article/3/c)
 
-[^key-3509db23648ab3ca7524577ea76a4bc5]: Textual amendment: S. 141(11AA) inserted (E.W.N.I.) (14.7.2021 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/9), [70(1)(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
+[^c-3509db23648ab3ca7524577ea76a4bc5]: Textual amendment: S. 141(11AA) inserted (E.W.N.I.) (14.7.2021 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/9), [70(1)(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
 
-[^key-6d7235f80adc51df1b69be4cdaae9d34]: Textual amendment: Words in s. 141(11C) substituted (E.W.N.I.) (14.7.2021 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(10)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/10), [70(1)(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
+[^c-6d7235f80adc51df1b69be4cdaae9d34]: Textual amendment: Words in s. 141(11C) substituted (E.W.N.I.) (14.7.2021 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(10)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/10), [70(1)(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
 
-[^key-ffcb7b96dbce3ba3ff264be1fe5c797b]: Textual amendment: Words in s. 141(11D)(a) inserted (E.W.N.I.) (14.7.2021 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(11)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/11), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
+[^c-ffcb7b96dbce3ba3ff264be1fe5c797b]: Textual amendment: Words in s. 141(11D)(a) inserted (E.W.N.I.) (14.7.2021 for E.W.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(11)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/11), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/d)
 
-[^key-84dbf9cac5951a970fbea98e2e7b70b7]: Textual amendment: S. 141(12A) inserted (1.1.2021 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(15)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/15), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/g)
+[^c-84dbf9cac5951a970fbea98e2e7b70b7]: Textual amendment: S. 141(12A) inserted (1.1.2021 for S.) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 46(15)](https://www.legislation.gov.uk/ukpga/2019/17/section/46/15), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/2); [S.S.I. 2020/410](https://www.legislation.gov.uk/ssi/2020/410), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2020/410/regulation/2/g)
 
-[^key-a69be79cca6b37336c6e1bb4a2a667df]: Textual amendment: Words in s. 141(13) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 31(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/31/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a69be79cca6b37336c6e1bb4a2a667df]: Textual amendment: Words in s. 141(13) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 31(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/31/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c12795641]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 

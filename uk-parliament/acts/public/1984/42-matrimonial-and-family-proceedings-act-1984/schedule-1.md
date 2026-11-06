@@ -83,7 +83,7 @@ Section 46(1).
 **13.** In section 35 of that Act—
 
 - (a) in subsection (2) for the words “section 25(3)” there shall be substituted the words “section 25(4)”;
-- (b)[^key-d9735a7c8e1e88fe15675111e0613d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d9735a7c8e1e88fe15675111e0613d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.**[^c4595951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -114,7 +114,7 @@ Section 46(1).
 
 ### Adoption Act 1976 (c. 36)
 
-**20.**[^key-dd3b2215fc57f958822499541e9c1107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-dd3b2215fc57f958822499541e9c1107] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
 
@@ -135,7 +135,7 @@ Section 46(1).
 
 **25.** In section 20(8) of that Act, after the word “respondent” there shall be inserted the words “or the applicant, as the case may be,”.
 
-**26.**[^key-958ca718fbf259f11e4fb91f69c4237f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-958ca718fbf259f11e4fb91f69c4237f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** In Schedule 1 to that Act—
 
@@ -164,7 +164,7 @@ Section 46(1).
 
 [^c4595931]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1984/42/schedule/1/paragraph/9) repealed (5.4.1993) by [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1992/56/section/2/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1992/56/schedule/3); [S.I. 1993/618](https://www.legislation.gov.uk/uksi/1993/618), [art. 2](https://www.legislation.gov.uk/uksi/1993/618/article/2)
 
-[^key-d9735a7c8e1e88fe15675111e0613d68]: Textual amendment: Sch. 1 para. 13(b) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-d9735a7c8e1e88fe15675111e0613d68]: Textual amendment: Sch. 1 para. 13(b) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c4595951]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/1984/42/schedule/1/paragraph/14) repealed by [Family Law Act 1986 (c. 55, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1986/55), [ss. 68(2)](https://www.legislation.gov.uk/ukpga/1986/55/section/68/2), [69(5)(6)(7)](https://www.legislation.gov.uk/ukpga/1986/55/section/69/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/1986/55/schedule/2)
 
@@ -174,11 +174,11 @@ Section 46(1).
 
 [^c4596001]: Textual amendment: Sch. 1 para. 19 repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-dd3b2215fc57f958822499541e9c1107]: Textual amendment: Sch. 1 para. 20 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-dd3b2215fc57f958822499541e9c1107]: Textual amendment: Sch. 1 para. 20 repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c4596021]: Textual amendment: Sch. 1 para. 23 repealed (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108](https://www.legislation.gov.uk/ukpga/1989/41/section/108), [Sch. 15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-958ca718fbf259f11e4fb91f69c4237f]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1984/42/schedule/1/paragraph/26) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-958ca718fbf259f11e4fb91f69c4237f]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1984/42/schedule/1/paragraph/26) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^M_F_80ab0242-7040-4efb-ae3a-7dc51e674104]: Textual amendment: Sch. 1 para. 28 repealed (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [Sch. 5 para 27](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/27); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 

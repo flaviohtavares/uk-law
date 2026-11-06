@@ -31,7 +31,7 @@ summary: ''
 
 (4) A statutory instrument containing—
 
-- (a)[^key-249f49d8c8d6abe792847ea7ddca5409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-249f49d8c8d6abe792847ea7ddca5409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an order under section 87(1) modifying an enactment; or
 - (c) regulations under section 60(2)(c), 61(10), 78(8) or (9) or 81,
 
@@ -39,4 +39,4 @@ shall not be made unless a draft of the instrument has been laid before, and app
 
 ## Annotations
 
-[^key-249f49d8c8d6abe792847ea7ddca5409]: Textual amendment: S. 88(4)(a) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-249f49d8c8d6abe792847ea7ddca5409]: Textual amendment: S. 88(4)(a) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

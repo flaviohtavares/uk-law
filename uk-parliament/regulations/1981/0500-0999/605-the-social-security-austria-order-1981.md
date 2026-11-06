@@ -56,19 +56,19 @@ And Whereas by section 143(1) of the Social Security Act 1975 and section 15(1) 
 
 Now, therefore, Her Majesty, in pursuance of the said section 143(1), and the said section 15(1), and of all other powers enabling Her Majesty in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-## 1. Citation and commencement[^key-30aad69440cb513120d5c635e0b62071]
+## 1. Citation and commencement[^c-30aad69440cb513120d5c635e0b62071]
 
 This Order may be cited as the Social Security (Austria) Order 1981 and shall come into operation on 1st May 1981.
 
-## 2. Modification of the Social Security Act 1975[^key-b90b1de85c06119c5044e6d01a96fafc]
+## 2. Modification of the Social Security Act 1975[^c-b90b1de85c06119c5044e6d01a96fafc]
 
 The Social Security Act 1975 shall be modified to such extent as may be required to give effect to the provisions contained in the Convention on social security set out in the Schedule to this Order, so far as the same relate to England, Wales and Scotland.
 
-## 3. Modification of the Child Benefit Act 1975[^key-f7d9435ac1f22607e030543060280f1e]
+## 3. Modification of the Child Benefit Act 1975[^c-f7d9435ac1f22607e030543060280f1e]
 
 Part I of the Child Benefit Act 1975 and any regulations made under it shall be modified to such extent as may be required to give effect to the Convention on social security set out in the Schedule to this Order, so far as the same relate to England, Wales and Scotland.
 
-## 4. Revocation of Orders[^key-bd8d9af8c8498d40ebdc111cdd441a5a]
+## 4. Revocation of Orders[^c-bd8d9af8c8498d40ebdc111cdd441a5a]
 
 The Family Allowances, National Insurance and Industrial Injuries (Austria) Order 1972 and the Social Security (Austria) Order 1977 are hereby revoked.
 
@@ -76,7 +76,7 @@ N.E. Leigh
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-951e444d8bf4adc8ca14628757fbc4fc]
+## SCHEDULE[^c-951e444d8bf4adc8ca14628757fbc4fc]
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE REPUBLIC OF AUSTRIA
 >
@@ -493,15 +493,15 @@ This Order makes provision for the modification of the Social Security Act 1975 
 
 ## Annotations
 
-[^key-30aad69440cb513120d5c635e0b62071]: Commencement: Art. 1 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
+[^c-30aad69440cb513120d5c635e0b62071]: Commencement: Art. 1 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
 
-[^key-b90b1de85c06119c5044e6d01a96fafc]: Commencement: Art. 2 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
+[^c-b90b1de85c06119c5044e6d01a96fafc]: Commencement: Art. 2 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
 
-[^key-f7d9435ac1f22607e030543060280f1e]: Commencement: Art. 3 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
+[^c-f7d9435ac1f22607e030543060280f1e]: Commencement: Art. 3 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
 
-[^key-bd8d9af8c8498d40ebdc111cdd441a5a]: Commencement: Art. 4 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
+[^c-bd8d9af8c8498d40ebdc111cdd441a5a]: Commencement: Art. 4 in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
 
-[^key-951e444d8bf4adc8ca14628757fbc4fc]: Commencement: Sch. in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
+[^c-951e444d8bf4adc8ca14628757fbc4fc]: Commencement: Sch. in force at 1.5.1981, see [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1)
 
 [^f00001]: Footnote: S.I. 1972/1586.
 

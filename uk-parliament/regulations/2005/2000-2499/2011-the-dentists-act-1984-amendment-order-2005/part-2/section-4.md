@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of section 2[^key-3376a53e6c8303c6f35441a8855a706a]
+## 4. Amendment of section 2[^c-3376a53e6c8303c6f35441a8855a706a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3376a53e6c8303c6f35441a8855a706a]: Commencement: Art. 4 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-3376a53e6c8303c6f35441a8855a706a]: Commencement: Art. 4 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00004]: Footnote: Subsection (4A) was inserted by S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).

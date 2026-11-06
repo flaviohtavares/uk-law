@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Participation requests[^key-bcd999bfad1716e6a4d33a3d92635027]
+## 22. Participation requests[^c-bcd999bfad1716e6a4d33a3d92635027]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd999bfad1716e6a4d33a3d92635027]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/6/section/22) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)
+[^c-bcd999bfad1716e6a4d33a3d92635027]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/6/section/22) in force at 1.4.2017 by [S.S.I. 2017/40](https://www.legislation.gov.uk/ssi/2017/40), [art. 2](https://www.legislation.gov.uk/ssi/2017/40/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/40/schedule)

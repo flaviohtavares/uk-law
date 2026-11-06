@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Preparing schedule of key heat network assets[^key-fa28b64f907bb619913262b64b8d0f36]
+## 85. Preparing schedule of key heat network assets[^c-fa28b64f907bb619913262b64b8d0f36]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa28b64f907bb619913262b64b8d0f36]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2021/9/section/85) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-fa28b64f907bb619913262b64b8d0f36]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2021/9/section/85) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

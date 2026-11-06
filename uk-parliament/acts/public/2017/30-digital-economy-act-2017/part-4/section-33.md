@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Registered designs: infringement: marking product with internet link[^key-b42c0849d88988c8f63527260f713dc7]
+## 33. Registered designs: infringement: marking product with internet link[^c-b42c0849d88988c8f63527260f713dc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b42c0849d88988c8f63527260f713dc7]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/30/section/33) in force at 1.10.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/b)
+[^c-b42c0849d88988c8f63527260f713dc7]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/30/section/33) in force at 1.10.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/b)

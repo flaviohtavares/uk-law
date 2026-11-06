@@ -61,17 +61,17 @@ The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scot
 
 (2) This article shall not apply in the case of an importation from Northern Ireland.
 
-(3) In this article “place of destination" means the address on the health certification accompanying the animals if they are delivered to that address, or, if they are delivered to a different address,[^key-c383740462586f776499399f6bfb6a40]... the first place of delivery of the animals.
+(3) In this article “place of destination" means the address on the health certification accompanying the animals if they are delivered to that address, or, if they are delivered to a different address,[^c-c383740462586f776499399f6bfb6a40]... the first place of delivery of the animals.
 
 ## 3. Importation of pigs from areas not free from Aujeszky’s disease
 
-(1) In accordance with Commission[^key-f83405203bea34002afd31aa5ac5bebc] [Decision 2008/185/EC](https://www.legislation.gov.uk/european/decision/2008/0185) on additional guarantees in intra-Community trade of pigs relating to Aujeszky’s disease and criteria to provide information on this disease any person importing pigs intended for production or slaughter into Great Britain from any place other than those specified in paragraph (2) below shall—
+(1) In accordance with Commission[^c-f83405203bea34002afd31aa5ac5bebc] [Decision 2008/185/EC](https://www.legislation.gov.uk/european/decision/2008/0185) on additional guarantees in intra-Community trade of pigs relating to Aujeszky’s disease and criteria to provide information on this disease any person importing pigs intended for production or slaughter into Great Britain from any place other than those specified in paragraph (2) below shall—
 
 - (a) take them directly from the point of entry into Great Britain to the premises of destination named in the accompanying health certificate;
 - (b) not allow them to come into contact with pigs which are not part of the same consignment; and
 - (c) ensure that the vehicle is thoroughly cleansed and disinfected before it leaves the premises of destination.
 
-(2)[^key-1d483f765f1055483594c5198306d21c] Paragraph (1) does not apply in the case of the importation of pigs from any of the territories specified in Annex 1 of Commission Decision [2008/185/EC](https://www.legislation.gov.uk/eudn/2008/185) as at exit day.
+(2)[^c-1d483f765f1055483594c5198306d21c] Paragraph (1) does not apply in the case of the importation of pigs from any of the territories specified in Annex 1 of Commission Decision [2008/185/EC](https://www.legislation.gov.uk/eudn/2008/185) as at exit day.
 
 (3) In the case of pigs imported for production, the occupier of the premises of destination shall ensure that, after the arrival of the imported pigs, no pigs are removed from the premises unless directly to a slaughterhouse for immediate slaughter and then only under the authority of, and in accordance with the conditions of, a licence issued by an authorised inspector; and this provision shall remain in force until the premises have been completely de-stocked of pigs and thoroughly cleansed and disinfected.
 
@@ -84,7 +84,7 @@ The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scot
 
 ## 4. Importation of cattle from Canada
 
-(1) Any person importing cattle into Great Britain from Canada under the provisions of [Regulation (EU) 206/2010](https://www.legislation.gov.uk/european/regulation/2010/0206)[^key-d9160385ce96b55db3bea0814a1eb91d] (laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements), other than cattle originating from Canadian Health Accredited Herds which maintain their health status during transportation, shall transport the cattle directly from the point of arrival into Great Britain to isolation premises complying with the conditions in Schedule 2 to this Order.
+(1) Any person importing cattle into Great Britain from Canada under the provisions of [Regulation (EU) 206/2010](https://www.legislation.gov.uk/european/regulation/2010/0206)[^c-d9160385ce96b55db3bea0814a1eb91d] (laying down lists of third countries, territories or parts thereof authorised for the introduction into the European Union of certain animals and fresh meat and the veterinary certification requirements), other than cattle originating from Canadian Health Accredited Herds which maintain their health status during transportation, shall transport the cattle directly from the point of arrival into Great Britain to isolation premises complying with the conditions in Schedule 2 to this Order.
 
 (2) Any person importing into Great Britain from Canada bulls (other than for direct entry to semen collection centres) or non-pregnant females, originating in both instances from herds in which not all bovines over 24 months of age have been tested negative for enzootic bovine leukosis within the twelve months prior to the date of export, shall ensure that—
 
@@ -103,13 +103,13 @@ shall ensure that the animals are kept in isolation for 9 months following impor
 
 ## 5. Importation of cattle for meat production in specified circumstances
 
-(1) Any person importing cattle for meat production into Great Britain [^key-282f7b861b1ca7ab71938eb94b236b95]... shall ensure that they do not come into contact with non-imported cattle either during transportation or after arrival at the premises of destination specified in the accompanying health certification.
+(1) Any person importing cattle for meat production into Great Britain [^c-282f7b861b1ca7ab71938eb94b236b95]... shall ensure that they do not come into contact with non-imported cattle either during transportation or after arrival at the premises of destination specified in the accompanying health certification.
 
 (2) The occupier of the premises of destination shall ensure that the imported cattle are not removed from the premises unless directly to a slaughterhouse for immediate slaughter or to a slaughter market and then only under the authority of, and in accordance with the conditions of, a licence issued by an authorised inspector.
 
 ## 6. Importation of cattle for slaughter in specified circumstances
 
-Any person importing cattle for slaughter into Great Britain [^key-8dba640eed5cc77340d0d2e24a57c330]... shall transport them directly from the point of arrival in Great Britain to the slaughterhouse named in the health certification accompanying the animals, and shall ensure that they are slaughtered within 72 hours of arrival.
+Any person importing cattle for slaughter into Great Britain [^c-8dba640eed5cc77340d0d2e24a57c330]... shall transport them directly from the point of arrival in Great Britain to the slaughterhouse named in the health certification accompanying the animals, and shall ensure that they are slaughtered within 72 hours of arrival.
 
 ## 7. Importation of sheep and goats
 
@@ -147,19 +147,19 @@ Gwilym Jones
 
 Parliamentary Under Secretary of State, Welsh Office
 
-## SCHEDULE 1 — TERRITORIES TO WHICH RULES RELATING TO IMPORTED PIGS DO NOT APPLY[^key-57a1a23686bb14ee91b5d1c451c2b74d]
+## SCHEDULE 1 — TERRITORIES TO WHICH RULES RELATING TO IMPORTED PIGS DO NOT APPLY[^c-57a1a23686bb14ee91b5d1c451c2b74d]
 
 **No longer in force.**
 
 Article 3(2)
 
-**1.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-57a1a23686bb14ee91b5d1c451c2b74d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — CONDITIONS APPLICABLE TO POST IMPORT ISOLATION PREMISES FOR CATTLE
 
@@ -235,39 +235,39 @@ Any animal with a positive reaction to the EBL test shall be slaughtered forthwi
 
 **24.** After final collection is completed the teasers shall remain in isolation until the bull has been tested for EBL and found clear, after which time the teaser may be released. Alternatively the teaser may be sent for slaughter.
 
-## SCHEDULE 3 — COMMUNITY INSTRUMENTS PERMITTING THE IMPORT OF CATTLE SUBJECT TO SPECIFIED CONDITIONS[^key-ad8ed159f94db14ffb0bc565554e72a5]
+## SCHEDULE 3 — COMMUNITY INSTRUMENTS PERMITTING THE IMPORT OF CATTLE SUBJECT TO SPECIFIED CONDITIONS[^c-ad8ed159f94db14ffb0bc565554e72a5]
 
 **No longer in force.**
 
 Articles 5(1) and 6
 
-**1.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ad8ed159f94db14ffb0bc565554e72a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note does not form part of the Order)
 
@@ -295,20 +295,20 @@ A Compliance Cost Assessment for this Order has been prepared and placed in the 
 
 [^c1783238]: Marginal citation: [1981 c.22](https://www.legislation.gov.uk/ukpga/1981/22). See section 86(1) for a definition of “the Ministers" and “the appropriate Minister".
 
-[^key-c383740462586f776499399f6bfb6a40]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/1995/2439/article/2/3) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/2)
+[^c-c383740462586f776499399f6bfb6a40]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/1995/2439/article/2/3) omitted (29.3.2019) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/2)
 
-[^key-f83405203bea34002afd31aa5ac5bebc]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/3/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/3)
+[^c-f83405203bea34002afd31aa5ac5bebc]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/3/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/3)
 
-[^key-1d483f765f1055483594c5198306d21c]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/1995/2439/article/3/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d483f765f1055483594c5198306d21c]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/1995/2439/article/3/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9160385ce96b55db3bea0814a1eb91d]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/4/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/4)
+[^c-d9160385ce96b55db3bea0814a1eb91d]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/4/1) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2019/526/regulation/9/4)
 
-[^key-282f7b861b1ca7ab71938eb94b236b95]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/5/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-282f7b861b1ca7ab71938eb94b236b95]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/1995/2439/article/5/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8dba640eed5cc77340d0d2e24a57c330]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/1995/2439/article/6) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8dba640eed5cc77340d0d2e24a57c330]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/1995/2439/article/6) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1783242]: Marginal citation: [S.I. 1993/14](https://www.legislation.gov.uk/uksi/1993/14).
 
-[^key-57a1a23686bb14ee91b5d1c451c2b74d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2439/schedule/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57a1a23686bb14ee91b5d1c451c2b74d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2439/schedule/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad8ed159f94db14ffb0bc565554e72a5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2439/schedule/3) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad8ed159f94db14ffb0bc565554e72a5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2439/schedule/3) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/782)](https://www.legislation.gov.uk/uksi/2019/782), [regs. 1](https://www.legislation.gov.uk/uksi/2019/782/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/782/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

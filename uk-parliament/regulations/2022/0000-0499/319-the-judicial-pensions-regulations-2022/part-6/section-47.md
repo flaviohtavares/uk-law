@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Annual rate of full retirement pension (active members)[^key-bc3892b6b37d5744f99a6a4435e10095]
+## 47. Annual rate of full retirement pension (active members)[^c-bc3892b6b37d5744f99a6a4435e10095]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc3892b6b37d5744f99a6a4435e10095]: Commencement: Reg. 47 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-bc3892b6b37d5744f99a6a4435e10095]: Commencement: Reg. 47 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

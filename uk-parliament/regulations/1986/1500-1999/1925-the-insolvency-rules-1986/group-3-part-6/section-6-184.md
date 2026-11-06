@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.184. Interest in property to be declared on request[^key-a254264268e88bc06a0de513b47d1815]
+## 6.184. Interest in property to be declared on request[^c-a254264268e88bc06a0de513b47d1815]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a254264268e88bc06a0de513b47d1815]: Commencement: [Rule 6.184](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.184) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a254264268e88bc06a0de513b47d1815]: Commencement: [Rule 6.184](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.184) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00187]: Marginal citation: \[FORM 6.63\]

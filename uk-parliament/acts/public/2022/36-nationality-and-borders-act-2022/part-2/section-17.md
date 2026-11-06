@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Clarification of basis for support where asylum claim inadmissible[^key-74ad7b1cf37df2e5a39f71342105e922][^key-91163ad995f10f6a74be9ab53306a17e]
+## 17. Clarification of basis for support where asylum claim inadmissible[^c-74ad7b1cf37df2e5a39f71342105e922][^c-91163ad995f10f6a74be9ab53306a17e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74ad7b1cf37df2e5a39f71342105e922]: Commencement: S. 17 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-74ad7b1cf37df2e5a39f71342105e922]: Commencement: S. 17 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-91163ad995f10f6a74be9ab53306a17e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/36/section/17) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/16)
+[^c-91163ad995f10f6a74be9ab53306a17e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/36/section/17) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/16)

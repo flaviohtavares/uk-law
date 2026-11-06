@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Temporary increase in amount of first-year allowances for small enterprises[^key-b506d01482d43d09e35923224830516c]
+## 142. Temporary increase in amount of first-year allowances for small enterprises[^c-b506d01482d43d09e35923224830516c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b506d01482d43d09e35923224830516c]: Textual amendment: [S. 142](https://www.legislation.gov.uk/ukpga/2004/12/section/142) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/4/a)
+[^c-b506d01482d43d09e35923224830516c]: Textual amendment: [S. 142](https://www.legislation.gov.uk/ukpga/2004/12/section/142) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/4/a)

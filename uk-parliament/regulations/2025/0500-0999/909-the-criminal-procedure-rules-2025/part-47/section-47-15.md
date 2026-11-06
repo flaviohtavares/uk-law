@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.15. Content of application for a customer information order under the Terrorism Act 2000 or the National Security Act 2023[^key-6cec0456dbe141563db826d34c0c147e]
+## 47.15. Content of application for a customer information order under the Terrorism Act 2000 or the National Security Act 2023[^c-6cec0456dbe141563db826d34c0c147e]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ As well as complying with rules 47.6 and 47.11, an applicant who wants the court
 
 ## Annotations
 
-[^key-6cec0456dbe141563db826d34c0c147e]: Commencement: Rule 47.15 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6cec0456dbe141563db826d34c0c147e]: Commencement: Rule 47.15 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01163]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 364 was amended by section 107 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).

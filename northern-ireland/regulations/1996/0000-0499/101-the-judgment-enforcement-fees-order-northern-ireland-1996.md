@@ -40,11 +40,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred on him by section 116(1) and (4) of the Judicature (Northern Ireland) Act 1978[^f00001], after consultation with the Lord Chief Justice and with the concurrence of the Treasury, hereby makes the following Order:—
 
-## 1. Citation and commencement[^key-a8c06251bf2235e6d7039cd9cf6035b5]
+## 1. Citation and commencement[^c-a8c06251bf2235e6d7039cd9cf6035b5]
 
 This Order may be cited as the Judgment Enforcement Fees Order (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
-## 2. Interpretation[^key-f6a533c726c50ace1c1337a9ff307be2]
+## 2. Interpretation[^c-f6a533c726c50ace1c1337a9ff307be2]
 
 In this Order, unless the context otherwise requires—
 
@@ -54,29 +54,29 @@ In this Order, unless the context otherwise requires—
 - (d) a rule or form referred to by number means the rule or form as numbered in the Judgment Enforcement Rules;
 - (e) a fee or column referred to by number means the fee or column so numbered in the Schedule to this Order.
 
-## 3. Revocation[^key-b32ea6fc4dd28e5136f3dc85a1dd2945]
+## 3. Revocation[^c-b32ea6fc4dd28e5136f3dc85a1dd2945]
 
 The Judgment Enforcement Fees Order (Northern Ireland) 1992[^f00003], the Judgment Enforcement Fees (Amendment) Order (Northern Ireland) 1994[^f00004] and the Judgment Enforcement Fees (Amendment) Order (Northern Ireland) 1995[^f00005] are hereby revoked.
 
-## 4. Fees to be taken in the Enforcement of Judgments Office[^key-140b16ed11eaabc0838c31a289a04461]
+## 4. Fees to be taken in the Enforcement of Judgments Office[^c-140b16ed11eaabc0838c31a289a04461]
 
 (1) The fees set out in column 3 shall be taken in the Office in respect of the matters provided for in column 2.
 
 (2) Subject to any provision to the contrary in the Schedule to this Order the fees prescribed by this Order shall be payable by the party at whose instance the action for which the fee is prescribed is undertaken, and shall be payable before the action is undertaken.
 
-## 5. Manner in which fees are to be taken[^key-0a8dd23c0f149a1760133f34bfa0848b]
+## 5. Manner in which fees are to be taken[^c-0a8dd23c0f149a1760133f34bfa0848b]
 
 The fees prescribed by this Order shall be taken in cash.
 
-## 6. Question over payment of any fee[^key-86b637d62c41c77c5173db2d268bbb53]
+## 6. Question over payment of any fee[^c-86b637d62c41c77c5173db2d268bbb53]
 
 Where any question arises with regard to the payment of any fee the Office may report the matter to the Lord Chancellor and obtain his directions thereon.
 
-## 7. Payment of fee causing hardship[^key-f7583964840f175993e35385de63faf3]
+## 7. Payment of fee causing hardship[^c-f7583964840f175993e35385de63faf3]
 
 Where it appears to the Lord Chancellor that the payment of any fee specified in the Schedule to this Order would, owing to the exceptional circumstances of the particular case, involve hardship, he may reduce or remit the fee in that case.
 
-## 8. Application of fees[^key-c4982d6f295c2bf645e11fd94e1e5209]
+## 8. Application of fees[^c-c4982d6f295c2bf645e11fd94e1e5209]
 
 All fees received by virtue of the Schedule to this Order shall, unless otherwise appropriated in aid, be paid into the Consolidated Fund.
 
@@ -98,7 +98,7 @@ Dated 14th March 1996
 
 Article 4
 
-### Part I[^key-488917e457950ea31212c8cb54511a30]
+### Part I[^c-488917e457950ea31212c8cb54511a30]
 
 <table>
 <thead>
@@ -132,7 +132,7 @@ Article 4
 </tbody>
 </table>
 
-### Part II — Judgment Enforcement (Recovery of Admitted Debts) Rules (Northern Ireland) 1985[^key-aa7cb55ec8be1573d0f354086a54f8b6]
+### Part II — Judgment Enforcement (Recovery of Admitted Debts) Rules (Northern Ireland) 1985[^c-aa7cb55ec8be1573d0f354086a54f8b6]
 
 **Recovery of Certain Debts Without Judgment**
 
@@ -166,13 +166,13 @@ This Order revokes and replaces the Judgment Enforcement Fees Order (Northern Ir
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-a8c06251bf2235e6d7039cd9cf6035b5]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-a8c06251bf2235e6d7039cd9cf6035b5]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-f6a533c726c50ace1c1337a9ff307be2]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-f6a533c726c50ace1c1337a9ff307be2]: Commencement: Art. 2 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
 [^f00002]: Footnote: S.I. [1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226)
 
-[^key-b32ea6fc4dd28e5136f3dc85a1dd2945]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-b32ea6fc4dd28e5136f3dc85a1dd2945]: Commencement: Art. 3 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
 [^f00003]: Footnote: [S.R. 1992 No. 19](https://www.legislation.gov.uk/nisr/1992/19)
 
@@ -180,16 +180,16 @@ This Order revokes and replaces the Judgment Enforcement Fees Order (Northern Ir
 
 [^f00005]: Footnote: [S.R. 1995 No. 217](https://www.legislation.gov.uk/nisr/1995/217)
 
-[^key-140b16ed11eaabc0838c31a289a04461]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-140b16ed11eaabc0838c31a289a04461]: Commencement: Art. 4 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-0a8dd23c0f149a1760133f34bfa0848b]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-0a8dd23c0f149a1760133f34bfa0848b]: Commencement: Art. 5 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-86b637d62c41c77c5173db2d268bbb53]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-86b637d62c41c77c5173db2d268bbb53]: Commencement: Art. 6 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-f7583964840f175993e35385de63faf3]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-f7583964840f175993e35385de63faf3]: Commencement: Art. 7 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-c4982d6f295c2bf645e11fd94e1e5209]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-c4982d6f295c2bf645e11fd94e1e5209]: Commencement: Art. 8 in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-488917e457950ea31212c8cb54511a30]: Commencement: Sch. Pt. I in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-488917e457950ea31212c8cb54511a30]: Commencement: Sch. Pt. I in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
 
-[^key-aa7cb55ec8be1573d0f354086a54f8b6]: Commencement: Sch. Pt. II in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)
+[^c-aa7cb55ec8be1573d0f354086a54f8b6]: Commencement: Sch. Pt. II in operation at 1.4.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/101/article/1)

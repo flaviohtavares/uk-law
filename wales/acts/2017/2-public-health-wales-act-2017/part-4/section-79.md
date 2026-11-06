@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Approved premises and vehicles: premises remedial action notices[^key-02a8c12181d13b4739573d5ce694ea40]
+## 79. Approved premises and vehicles: premises remedial action notices[^c-02a8c12181d13b4739573d5ce694ea40]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a8c12181d13b4739573d5ce694ea40]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2017/2/section/79) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(u)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/u) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-02a8c12181d13b4739573d5ce694ea40]: Commencement: [S. 79](https://www.legislation.gov.uk/anaw/2017/2/section/79) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(u)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/u) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

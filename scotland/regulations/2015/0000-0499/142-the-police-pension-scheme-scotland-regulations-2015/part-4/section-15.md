@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Application of Chapter[^key-2ffebaae6c2fd7f22f9e217395b4abac]
+## 15. Application of Chapter[^c-2ffebaae6c2fd7f22f9e217395b4abac]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to a continuous period of eligible service.
 
 ## Annotations
 
-[^key-2ffebaae6c2fd7f22f9e217395b4abac]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2ffebaae6c2fd7f22f9e217395b4abac]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

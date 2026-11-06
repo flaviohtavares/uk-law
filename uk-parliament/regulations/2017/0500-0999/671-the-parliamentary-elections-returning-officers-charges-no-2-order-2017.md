@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People
 
-The Parliamentary Elections (Returning Officers’ Charges) (No. 2) Order 2017 (revoked)[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+The Parliamentary Elections (Returning Officers’ Charges) (No. 2) Order 2017 (revoked)[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 Made
 
@@ -39,39 +39,39 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-efb0da9b1c266d8237f93b7f5c9e80e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efb0da9b1c266d8237f93b7f5c9e80e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## 1. Citation, commencement and extent[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## 2. Revocation[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Returning officers: overall maximum recoverable amount[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## 3. Returning officers: overall maximum recoverable amount[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Returning officers: maximum recoverable amount for specified services[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## 4. Returning officers: maximum recoverable amount for specified services[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Returning officers: maximum recoverable amount for specified expenses[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## 5. Returning officers: maximum recoverable amount for specified expenses[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Overall maximum recoverable amount at an uncontested parliamentary election[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## 6. Overall maximum recoverable amount at an uncontested parliamentary election[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efb0da9b1c266d8237f93b7f5c9e80e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efb0da9b1c266d8237f93b7f5c9e80e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for specified services and specified expenses for each constituency where a parliamentary election is a standalone poll.[^key-efb0da9b1c266d8237f93b7f5c9e80e0]
+## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for specified services and specified expenses for each constituency where a parliamentary election is a standalone poll.[^c-efb0da9b1c266d8237f93b7f5c9e80e0]
 
 Articles 3, 4(1) and 5(1)
 
@@ -79,8 +79,8 @@ Articles 3, 4(1) and 5(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-efb0da9b1c266d8237f93b7f5c9e80e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efb0da9b1c266d8237f93b7f5c9e80e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efb0da9b1c266d8237f93b7f5c9e80e0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/671) revoked (5.11.2019) by [The Parliamentary Elections (Returning Officers' Charges) Order 2019 (S.I. 2019/1454)](https://www.legislation.gov.uk/uksi/2019/1454), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1454/article/1/1), [2](https://www.legislation.gov.uk/uksi/2019/1454/article/2)
+[^c-efb0da9b1c266d8237f93b7f5c9e80e0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/671) revoked (5.11.2019) by [The Parliamentary Elections (Returning Officers' Charges) Order 2019 (S.I. 2019/1454)](https://www.legislation.gov.uk/uksi/2019/1454), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1454/article/1/1), [2](https://www.legislation.gov.uk/uksi/2019/1454/article/2)

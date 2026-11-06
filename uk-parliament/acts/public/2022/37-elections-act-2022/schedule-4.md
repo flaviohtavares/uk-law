@@ -22,13 +22,13 @@ summary: ''
 
 Section 6
 
-### 1. Representation of the People Act 1983[^key-fbb1d0c519e72a84d0467b5895ac6821][^key-00ab5a151fe1bf2ecae92a5c5fb47bc3][^key-0fa813e42cdf3e94d65449de14a1e527]
+### 1. Representation of the People Act 1983[^c-fbb1d0c519e72a84d0467b5895ac6821][^c-00ab5a151fe1bf2ecae92a5c5fb47bc3][^c-0fa813e42cdf3e94d65449de14a1e527]
 
 RPA 1983 is amended as follows.
 
-**2.**[^key-146ac1fcef56a88a3f5eaeafb47ed3fa] (1)[^key-f15c86abfa8c909c68f4be30f8580028][^key-17c669148d0742609badba3e22fc2ffc] Section 61 (other voting offences) is amended as follows.
+**2.**[^c-146ac1fcef56a88a3f5eaeafb47ed3fa] (1)[^c-f15c86abfa8c909c68f4be30f8580028][^c-17c669148d0742609badba3e22fc2ffc] Section 61 (other voting offences) is amended as follows.
 
-(2)[^key-54615fb68da5976f31e95d159538167c] After subsection (1) insert—
+(2)[^c-54615fb68da5976f31e95d159538167c] After subsection (1) insert—
 
 > (1A) A person (“**P**”) is guilty of an offence if P applies for the appointment of a proxy to vote for P—
 >
@@ -49,7 +49,7 @@ RPA 1983 is amended as follows.
 >   - (i) P is or will be registered in a register of local government electors in England otherwise than in pursuance of a service declaration, and
 >   - (ii) P knows that the person to be appointed is already appointed as proxy to vote, at a local government election in England, or at local government elections in England, for two or more other electors none of whom is registered in a register of local government electors in England in pursuance of a service declaration.
 
-(3)[^key-b2e4469bb8da5cc89f05f5edee9544bf] After subsection (3A) insert—
+(3)[^c-b2e4469bb8da5cc89f05f5edee9544bf] After subsection (3A) insert—
 
 > (3B) A person (“**P**”) is also guilty of an offence if P votes as proxy—
 >
@@ -69,20 +69,20 @@ RPA 1983 is amended as follows.
 >
 >   where P knows that more than two of those electors are registered in a register of local government electors otherwise than in pursuance of a service declaration.
 
-(4)[^key-b2e4469bb8da5cc89f05f5edee9544bf] In subsection (4)—
+(4)[^c-b2e4469bb8da5cc89f05f5edee9544bf] In subsection (4)—
 
 - (a) omit “at a parliamentary election in any constituency or”;
 - (b) after “any electoral area” insert “in Wales or Scotland”.
 
-(5)[^key-b2e4469bb8da5cc89f05f5edee9544bf] In subsection (6), after “subsection” insert “(3B) or”.
+(5)[^c-b2e4469bb8da5cc89f05f5edee9544bf] In subsection (6), after “subsection” insert “(3B) or”.
 
-**3.**[^key-b61ddaf1d0e5efb99f3ac38bfbeb2829][^key-78b7ce2624103824b249eea4fe94dafa] In section 202 (general provisions as to interpretation), in subsection (1), after the definition of “registered political party” insert—
+**3.**[^c-b61ddaf1d0e5efb99f3ac38bfbeb2829][^c-78b7ce2624103824b249eea4fe94dafa] In section 202 (general provisions as to interpretation), in subsection (1), after the definition of “registered political party” insert—
 
 > - “**service declaration**” means a declaration made by a person under and in accordance with section 15;
 
 .
 
-**4.**[^key-19be869c73b6e0e21b10f5e1af9059c2][^key-810b49882cb9a27b51e65aaca689c869] (1) Rule 35 of Schedule 1 (questions to be put to voters) is amended as follows.
+**4.**[^c-19be869c73b6e0e21b10f5e1af9059c2][^c-810b49882cb9a27b51e65aaca689c869] (1) Rule 35 of Schedule 1 (questions to be put to voters) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -118,26 +118,26 @@ RPA 1983 is amended as follows.
 
 (7) In paragraph (2), for “3(a), (b) and (c)” substitute “3(a) and (b)”.
 
-**5.**[^key-b45335df9b86a73b9df8b8e2d83dc7de] In Schedule 2 (provisions which may be contained in regulations as to registration etc), after paragraph 5B insert—
+**5.**[^c-b45335df9b86a73b9df8b8e2d83dc7de] In Schedule 2 (provisions which may be contained in regulations as to registration etc), after paragraph 5B insert—
 
 > **5C.** (1) Provision as to the steps that the Chief Electoral Officer for Northern Ireland must take, before appointing a person as proxy to vote for another, to ensure that the appointment complies with section 8(2A) of the Representation of the People Act 1985.
 >
 > (2) Provision under sub-paragraph (1) may require a registration officer in Great Britain to provide information about whether the person has or will have an entry in a register of parliamentary electors maintained by the officer.
 
-### 6. Representation of the People Act 1985[^key-9ca06eb03ee97675290cde52f84b1b14]
+### 6. Representation of the People Act 1985[^c-9ca06eb03ee97675290cde52f84b1b14]
 
-(1)[^key-2bf0ae08a59419bc9f1623d44b79ea75][^key-5eb8b98abff49c8bde9dc8d0ffce92d4] Section 8 of the Representation of the People Act 1985 (proxies at parliamentary elections in Northern Ireland) is amended as follows.
+(1)[^c-2bf0ae08a59419bc9f1623d44b79ea75][^c-5eb8b98abff49c8bde9dc8d0ffce92d4] Section 8 of the Representation of the People Act 1985 (proxies at parliamentary elections in Northern Ireland) is amended as follows.
 
-(2)[^key-a0842629cd8dc3d021b261a613c0b90a] After subsection (2) insert—
+(2)[^c-a0842629cd8dc3d021b261a613c0b90a] After subsection (2) insert—
 
 > (2A) A person is not capable of being appointed to vote, or voting, as proxy at a parliamentary election unless the person is or will be registered in a register of parliamentary electors in Great Britain or Northern Ireland.
 
-(3)[^key-a0842629cd8dc3d021b261a613c0b90a] In subsection (3)—
+(3)[^c-a0842629cd8dc3d021b261a613c0b90a] In subsection (3)—
 
 - (a) omit the “or” at the end of paragraph (a);
 - (b) omit paragraph (b).
 
-(4)[^key-cf4bf10be06fa62e36ab71fc1847b6d8] For subsection (5) substitute—
+(4)[^c-cf4bf10be06fa62e36ab71fc1847b6d8] For subsection (5) substitute—
 
 > (5) A person—
 >
@@ -148,11 +148,11 @@ RPA 1983 is amended as follows.
 >
 > (5B) Where the polls for two or more parliamentary elections are held on the same day, references in subsection (5A) to a parliamentary election are to all of those elections taken together.
 
-(5)[^key-a0842629cd8dc3d021b261a613c0b90a] After subsection (7) insert—
+(5)[^c-a0842629cd8dc3d021b261a613c0b90a] After subsection (7) insert—
 
 > (7A) The requirements prescribed under subsections (6) and (7) must include a requirement for an application to contain the proxy’s date of birth.
 
-### 7. Representation of the People Act 2000[^key-774e4e634e167d37fd5470d9a0ac08ee][^key-38da365003e867a84d182560e0f99143]
+### 7. Representation of the People Act 2000[^c-774e4e634e167d37fd5470d9a0ac08ee][^c-38da365003e867a84d182560e0f99143]
 
 (1) Paragraph 6 of Schedule 4 to the Representation of the People Act 2000 (proxies at parliamentary elections and local government elections in Great Britain) is amended as follows.
 
@@ -177,7 +177,7 @@ RPA 1983 is amended as follows.
 - (a) omit paragraph (a);
 - (b) in paragraph (b), after “electoral area” insert “in Wales or Scotland”.
 
-### 8. Termination of certain proxy appointments on the specified day[^key-ef9e3111cc7452083785ba7bf3e78565][^key-3d2f10a0cfd95868d296c30e771c6d3b][^key-2a56d5fc9f43f316f473ba0bd9c6b693]
+### 8. Termination of certain proxy appointments on the specified day[^c-ef9e3111cc7452083785ba7bf3e78565][^c-3d2f10a0cfd95868d296c30e771c6d3b][^c-2a56d5fc9f43f316f473ba0bd9c6b693]
 
 *Extent: E+W+S*
 
@@ -188,7 +188,7 @@ RPA 1983 is amended as follows.
   - (i) parliamentary elections in England and Wales or Scotland or local government elections in England (or both), or
   - (ii) a particular parliamentary election in England and Wales or Scotland or local government election in England.
 
-(2)[^key-3049e4b2e95134cd900fcc0b4d0869f4] On the specified day, the proxy appointment ceases to have effect as mentioned in sub-paragraph (1)(b).
+(2)[^c-3049e4b2e95134cd900fcc0b4d0869f4] On the specified day, the proxy appointment ceases to have effect as mentioned in sub-paragraph (1)(b).
 
 (3) The registration officer must, before the specified day, send the person who is entitled to vote by proxy by means of the proxy appointment—
 
@@ -222,14 +222,14 @@ RPA 1983 is amended as follows.
 - “**RPA 2000**” means the Representation of the People Act 2000;
 - “**specified**” means specified by the Secretary of State in regulations made by statutory instrument.
 
-**9.**[^key-d993674c504e91f40fc9a34b0b539c32][^key-ba82de1fedc4b8afc1f2fbfe6eeb360c][^key-d635b35811c8dabe149637df0b4fa55e] (1) This paragraph applies where—
+**9.**[^c-d993674c504e91f40fc9a34b0b539c32][^c-ba82de1fedc4b8afc1f2fbfe6eeb360c][^c-d635b35811c8dabe149637df0b4fa55e] (1) This paragraph applies where—
 
 - (a) a proxy appointment is in force immediately before the day specified for the purposes of this paragraph (“the specified day”) as a result of an application made before the day on which the relevant provisions of this Schedule come into force, and
 - (b) the appointment has effect immediately before the specified day in relation to—
   - (i) parliamentary elections in Northern Ireland, or
   - (ii) a particular parliamentary election in Northern Ireland.
 
-(2)[^key-aa4f6b7404928be0b893d18bc9c355db] On the specified day, the proxy appointment ceases to have effect as mentioned in sub-paragraph (1)(b).
+(2)[^c-aa4f6b7404928be0b893d18bc9c355db] On the specified day, the proxy appointment ceases to have effect as mentioned in sub-paragraph (1)(b).
 
 (3) The Chief Electoral Officer for Northern Ireland must, before the specified day, send the person who is entitled to vote by proxy by means of the proxy appointment—
 
@@ -248,7 +248,7 @@ RPA 1983 is amended as follows.
 - “**RPA 1985**” means the Representation of the People Act 1985;
 - “**specified**” means specified by the Secretary of State in regulations made by statutory instrument.
 
-### 10. Termination of applications for certain proxy appointments on the specified day[^key-5d695ae2d05e1b52e2e620824dfd80bd][^key-9f771256d3159d377f638627e9575d99][^key-be004798e26287b3ddb845a11e36635e]
+### 10. Termination of applications for certain proxy appointments on the specified day[^c-5d695ae2d05e1b52e2e620824dfd80bd][^c-9f771256d3159d377f638627e9575d99][^c-be004798e26287b3ddb845a11e36635e]
 
 (1) An application for a proxy appointment that is made before, but not determined by, the day specified for the purposes of this paragraph (“the specified day”) is to be treated as not having been made so far as the application relates to—
 
@@ -261,7 +261,7 @@ RPA 1983 is amended as follows.
 
 (4) Expressions used in this paragraph and in paragraph 8 have the same meaning as in that paragraph.
 
-**11.**[^key-114ac52f83cb7e9a2c27844998634756][^key-8f42a81c98c7a8a26ad71ad9b8d2b8a6][^key-e83e234dac3e554d21aad5ede73a80dc] (1) An application for a proxy appointment that is made before, but not determined by, the day specified for the purposes of this paragraph (“the specified day”) is to be treated as not having been made so far as the application relates to—
+**11.**[^c-114ac52f83cb7e9a2c27844998634756][^c-8f42a81c98c7a8a26ad71ad9b8d2b8a6][^c-e83e234dac3e554d21aad5ede73a80dc] (1) An application for a proxy appointment that is made before, but not determined by, the day specified for the purposes of this paragraph (“the specified day”) is to be treated as not having been made so far as the application relates to—
 
 - (a) parliamentary elections in Northern Ireland, or
 - (b) a particular parliamentary election in Northern Ireland.
@@ -276,70 +276,70 @@ RPA 1983 is amended as follows.
 
 ## Annotations
 
-[^key-fbb1d0c519e72a84d0467b5895ac6821]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-fbb1d0c519e72a84d0467b5895ac6821]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-00ab5a151fe1bf2ecae92a5c5fb47bc3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/1) in force at 31.10.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/i)
+[^c-00ab5a151fe1bf2ecae92a5c5fb47bc3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/1) in force at 31.10.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/i)
 
-[^key-0fa813e42cdf3e94d65449de14a1e527]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/1) in force at 31.1.2024 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/i)
+[^c-0fa813e42cdf3e94d65449de14a1e527]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/1) in force at 31.1.2024 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(i)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/i)
 
-[^key-146ac1fcef56a88a3f5eaeafb47ed3fa]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-146ac1fcef56a88a3f5eaeafb47ed3fa]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-f15c86abfa8c909c68f4be30f8580028]: Commencement: [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/1) in force at 31.10.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/ii)
+[^c-f15c86abfa8c909c68f4be30f8580028]: Commencement: [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/1) in force at 31.10.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/ii)
 
-[^key-17c669148d0742609badba3e22fc2ffc]: Commencement: [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/ii)
+[^c-17c669148d0742609badba3e22fc2ffc]: Commencement: [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/ii)
 
-[^key-54615fb68da5976f31e95d159538167c]: Commencement: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/2) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/ii)
+[^c-54615fb68da5976f31e95d159538167c]: Commencement: [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/2) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/ii)
 
-[^key-b2e4469bb8da5cc89f05f5edee9544bf]: Commencement: [Sch. 4 para. 2(3)-(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/3) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/ii) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
+[^c-b2e4469bb8da5cc89f05f5edee9544bf]: Commencement: [Sch. 4 para. 2(3)-(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/2/3) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/ii) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
 
-[^key-b61ddaf1d0e5efb99f3ac38bfbeb2829]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-b61ddaf1d0e5efb99f3ac38bfbeb2829]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-78b7ce2624103824b249eea4fe94dafa]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/3) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/iii)
+[^c-78b7ce2624103824b249eea4fe94dafa]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/3) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/iii)
 
-[^key-19be869c73b6e0e21b10f5e1af9059c2]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-19be869c73b6e0e21b10f5e1af9059c2]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-810b49882cb9a27b51e65aaca689c869]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/4) in force at 31.1.2024 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/iii) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/5))
+[^c-810b49882cb9a27b51e65aaca689c869]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/4) in force at 31.1.2024 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/iii) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/5))
 
-[^key-b45335df9b86a73b9df8b8e2d83dc7de]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-b45335df9b86a73b9df8b8e2d83dc7de]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-9ca06eb03ee97675290cde52f84b1b14]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-9ca06eb03ee97675290cde52f84b1b14]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-2bf0ae08a59419bc9f1623d44b79ea75]: Commencement: [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/1) in force at 31.10.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/iv)
+[^c-2bf0ae08a59419bc9f1623d44b79ea75]: Commencement: [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/1) in force at 31.10.2023 for specified purposes by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/iv)
 
-[^key-5eb8b98abff49c8bde9dc8d0ffce92d4]: Commencement: [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/iv)
+[^c-5eb8b98abff49c8bde9dc8d0ffce92d4]: Commencement: [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/iv)
 
-[^key-a0842629cd8dc3d021b261a613c0b90a]: Commencement: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/3)[(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/5) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/iv)
+[^c-a0842629cd8dc3d021b261a613c0b90a]: Commencement: [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/3)[(5)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/5) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/iv)
 
-[^key-cf4bf10be06fa62e36ab71fc1847b6d8]: Commencement: [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/4) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/iv) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
+[^c-cf4bf10be06fa62e36ab71fc1847b6d8]: Commencement: [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/6/4) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(iv)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/iv) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
 
-[^key-774e4e634e167d37fd5470d9a0ac08ee]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-774e4e634e167d37fd5470d9a0ac08ee]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-38da365003e867a84d182560e0f99143]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/7) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/v) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
+[^c-38da365003e867a84d182560e0f99143]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/7) in force at 31.1.2024 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(d)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/d/v) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/4))
 
-[^key-ef9e3111cc7452083785ba7bf3e78565]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-ef9e3111cc7452083785ba7bf3e78565]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-3d2f10a0cfd95868d296c30e771c6d3b]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/8) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/7))
+[^c-3d2f10a0cfd95868d296c30e771c6d3b]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/8) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/7))
 
-[^key-2a56d5fc9f43f316f473ba0bd9c6b693]: Subordinate legislation: Sch. 4 para. 8: 31.1.2024 specified for the purposes of Sch. 4 para. 8 by S.I. 2023/1145, [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/a)
+[^c-2a56d5fc9f43f316f473ba0bd9c6b693]: Subordinate legislation: Sch. 4 para. 8: 31.1.2024 specified for the purposes of Sch. 4 para. 8 by S.I. 2023/1145, [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/a)
 
-[^key-3049e4b2e95134cd900fcc0b4d0869f4]: Modification: [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/8/2) excluded (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 paras. 26](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/26), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39) (with [Sch. 2 paras. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18), [31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
+[^c-3049e4b2e95134cd900fcc0b4d0869f4]: Modification: [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/8/2) excluded (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 paras. 26](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/26), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39) (with [Sch. 2 paras. 18](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/18), [31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
 
-[^key-d993674c504e91f40fc9a34b0b539c32]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-d993674c504e91f40fc9a34b0b539c32]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-ba82de1fedc4b8afc1f2fbfe6eeb360c]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/9) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/7))
+[^c-ba82de1fedc4b8afc1f2fbfe6eeb360c]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/9) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/7))
 
-[^key-d635b35811c8dabe149637df0b4fa55e]: Subordinate legislation: Sch. 4 para. 9: 31.1.2024 specified for the purposes of Sch. 4 para. 9 by S.I. 2023/1145, [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/a)
+[^c-d635b35811c8dabe149637df0b4fa55e]: Subordinate legislation: Sch. 4 para. 9: 31.1.2024 specified for the purposes of Sch. 4 para. 9 by S.I. 2023/1145, [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/a)
 
-[^key-aa4f6b7404928be0b893d18bc9c355db]: Modification: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/9/2) excluded (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39) (with [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
+[^c-aa4f6b7404928be0b893d18bc9c355db]: Modification: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/9/2) excluded (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39) (with [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
 
-[^key-5d695ae2d05e1b52e2e620824dfd80bd]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-5d695ae2d05e1b52e2e620824dfd80bd]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-9f771256d3159d377f638627e9575d99]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/10) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v)
+[^c-9f771256d3159d377f638627e9575d99]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/10) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v)
 
-[^key-be004798e26287b3ddb845a11e36635e]: Subordinate legislation: Sch. 4 para. 10: 31.10.2023 specified for the purposes of Sch. 4 para. 10 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/b)
+[^c-be004798e26287b3ddb845a11e36635e]: Subordinate legislation: Sch. 4 para. 10: 31.10.2023 specified for the purposes of Sch. 4 para. 10 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/b)
 
-[^key-114ac52f83cb7e9a2c27844998634756]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-114ac52f83cb7e9a2c27844998634756]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-8f42a81c98c7a8a26ad71ad9b8d2b8a6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/11) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v)
+[^c-8f42a81c98c7a8a26ad71ad9b8d2b8a6]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/37/schedule/4/paragraph/11) in force at 31.10.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 2(f)(v)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/2/f/v)
 
-[^key-e83e234dac3e554d21aad5ede73a80dc]: Subordinate legislation: Sch. 4 para. 11: 31.10.2023 specified for the purposes of Sch. 4 para. 11 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/b)
+[^c-e83e234dac3e554d21aad5ede73a80dc]: Subordinate legislation: Sch. 4 para. 11: 31.10.2023 specified for the purposes of Sch. 4 para. 11 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/4/b)

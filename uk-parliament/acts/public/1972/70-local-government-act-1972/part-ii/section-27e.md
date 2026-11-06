@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27E (Extent: W.). Power of community meeting to apply for an order grouping its community with other communities under a common community council (Extent: W.)[^key-5771fbb6c70c5d1533767d6c2e027473]
+## 27E (Extent: W.). Power of community meeting to apply for an order grouping its community with other communities under a common community council (Extent: W.)[^c-5771fbb6c70c5d1533767d6c2e027473]
 
 *Extent: E+W.*
 
@@ -43,4 +43,4 @@ are present and voting at the community meeting. *(Extent: W.)*
 
 ## Annotations
 
-[^key-5771fbb6c70c5d1533767d6c2e027473]: Textual amendment: S. 27E inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 105](https://www.legislation.gov.uk/mwa/2011/4/section/105), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-5771fbb6c70c5d1533767d6c2e027473]: Textual amendment: S. 27E inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 105](https://www.legislation.gov.uk/mwa/2011/4/section/105), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

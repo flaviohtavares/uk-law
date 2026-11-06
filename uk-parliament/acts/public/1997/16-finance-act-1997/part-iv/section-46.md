@@ -36,7 +36,7 @@ summary: ''
 >
 > - “**the quantified amount**” means the amount (if any) which is shown by the taxpayer to constitute the amount that would appropriately compensate him for loss or damage shown by him to have resulted, for any business carried on by him, from the making of the mistaken assumptions; and
 > - “**VAT provisions**” means the provisions of—
->   - (a) any enactment, subordinate legislation or EU[^key-57119bcb45ca4a659e62cf757c749f11] legislation (whether or not still in force) which relates to VAT or to any matter connected with VAT; or
+>   - (a) any enactment, subordinate legislation or EU[^c-57119bcb45ca4a659e62cf757c749f11] legislation (whether or not still in force) which relates to VAT or to any matter connected with VAT; or
 >   - (b) any notice published by the Commissioners under or for the purposes of any such enactment or subordinate legislation.
 
 (2) After section 80 of that Act there shall be inserted the following sections—
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57119bcb45ca4a659e62cf757c749f11]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-57119bcb45ca4a659e62cf757c749f11]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 193A. Exceptions to requirement that HSC employment must have ceased[^key-0aee919d3bcf0a16607fe12c9bd6b456]
+## 193A. Exceptions to requirement that HSC employment must have ceased[^c-0aee919d3bcf0a16607fe12c9bd6b456]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aee919d3bcf0a16607fe12c9bd6b456]: Textual amendment: [Reg. 193A](https://www.legislation.gov.uk/nisr/2008/256/regulation/193A) inserted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/18)
+[^c-0aee919d3bcf0a16607fe12c9bd6b456]: Textual amendment: [Reg. 193A](https://www.legislation.gov.uk/nisr/2008/256/regulation/193A) inserted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/18)

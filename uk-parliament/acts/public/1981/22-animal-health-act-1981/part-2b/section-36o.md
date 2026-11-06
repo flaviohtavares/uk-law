@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36O. Ascertaining genotypes and identifying livestock[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+## 36O. Ascertaining genotypes and identifying livestock[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7c572a5d4dd871dcacbe5fbd47ef548]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/ukpga/1981/22/part/2B) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 11](https://www.legislation.gov.uk/asp/2006/11/section/11), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-c7c572a5d4dd871dcacbe5fbd47ef548]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/ukpga/1981/22/part/2B) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 11](https://www.legislation.gov.uk/asp/2006/11/section/11), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

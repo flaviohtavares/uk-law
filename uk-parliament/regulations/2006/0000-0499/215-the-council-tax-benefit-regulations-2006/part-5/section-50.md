@@ -18,8 +18,8 @@ summary: ''
 
 (1) For the purposes of ascertaining income other than grant income, covenant income and loans treated as income in accordance with regulation 51, any amounts intended for any expenditure specified in regulation 46(2) (calculation of grant income), necessary as a result of his attendance on the course shall be disregarded but only if, and to the extent that, the necessary expenditure exceeds or is likely to exceed the amount of the sums disregarded under regulation 46(2) or (3), 47(3), 48(1)(a) or (c) or 51(5) (calculation of grant income, covenant income and treatment of student loans) on like expenditure.
 
-(2)[^key-bbbee39ae69146ec9e82a3a4bf1562a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bbbee39ae69146ec9e82a3a4bf1562a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbbee39ae69146ec9e82a3a4bf1562a3]: Textual amendment: Reg. 50(2) omitted (6.4.2009) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/9)
+[^c-bbbee39ae69146ec9e82a3a4bf1562a3]: Textual amendment: Reg. 50(2) omitted (6.4.2009) by virtue of [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2009/583/regulation/8/9)

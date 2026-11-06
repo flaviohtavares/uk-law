@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Income support transitional protection[^key-1dc1c2d7b6c8f3f8b3fe1ca8190407f1]
+## 19. Income support transitional protection[^c-1dc1c2d7b6c8f3f8b3fe1ca8190407f1]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ Sums which are special transitional additions to income support payable in accor
 
 ## Annotations
 
-[^key-1dc1c2d7b6c8f3f8b3fe1ca8190407f1]: Commencement: Art. 19 comes into force in accordance with art. 1(1)(h)
+[^c-1dc1c2d7b6c8f3f8b3fe1ca8190407f1]: Commencement: Art. 19 comes into force in accordance with art. 1(1)(h)
 
 [^f00033]: Footnote: [S.R. 1987 No. 460](https://www.legislation.gov.uk/nisr/1987/460); relevant amending regulations are [S.R. 1988 Nos. 132](https://www.legislation.gov.uk/nisr/1988/132) and [153](https://www.legislation.gov.uk/nisr/1988/153), [S.R. 1989 No. 371](https://www.legislation.gov.uk/nisr/1989/371) and [S.R. 1991 No. 341](https://www.legislation.gov.uk/nisr/1991/341)

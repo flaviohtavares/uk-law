@@ -44,8 +44,8 @@ summary: ''
 
 is (either alone or in combination with other factors) a valid means of establishing the authenticity of the communication, the integrity of the communication or both.
 
-(5)[^key-8de720b541040e10a1619fc84c573a10] Paragraph (2) does not apply in relation to an application for an absent vote made under Part 1 of Schedule 2, for which the general requirements are set out in paragraph 11 of Part 2 of that Schedule.
+(5)[^c-8de720b541040e10a1619fc84c573a10] Paragraph (2) does not apply in relation to an application for an absent vote made under Part 1 of Schedule 2, for which the general requirements are set out in paragraph 11 of Part 2 of that Schedule.
 
 ## Annotations
 
-[^key-8de720b541040e10a1619fc84c573a10]: Textual amendment: [Art. 87(5)](https://www.legislation.gov.uk/uksi/2012/1917/article/87/5) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/4)
+[^c-8de720b541040e10a1619fc84c573a10]: Textual amendment: [Art. 87(5)](https://www.legislation.gov.uk/uksi/2012/1917/article/87/5) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/17/4)

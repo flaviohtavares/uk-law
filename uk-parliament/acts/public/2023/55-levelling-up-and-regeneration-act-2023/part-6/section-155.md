@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Assessing and monitoring impact on outcomes etc[^key-202197a7f6f47110b52cc0940e6ec2c0]
+## 155. Assessing and monitoring impact on outcomes etc[^c-202197a7f6f47110b52cc0940e6ec2c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-202197a7f6f47110b52cc0940e6ec2c0]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2023/55/section/155) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-202197a7f6f47110b52cc0940e6ec2c0]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2023/55/section/155) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

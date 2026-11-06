@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Deposits during the principal stage[^key-c376986edae8dbd843e0310b1babd3b9]
+## 54. Deposits during the principal stage[^c-c376986edae8dbd843e0310b1babd3b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c376986edae8dbd843e0310b1babd3b9]: Commencement: Reg. 54 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c376986edae8dbd843e0310b1babd3b9]: Commencement: Reg. 54 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

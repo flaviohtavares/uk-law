@@ -180,7 +180,7 @@ Sections 1 to 5, 7, 10 and 11.
 
 **19.** In Schedule 5 to the Contributions and Benefits Act (pension increase or lump sum where entitlement to retirement pension is deferred) in paragraph 2 (pension increase where entitlement deferred) in sub-paragraph (7) (increase to take account of up-rating of pensions) after “132” insert “ or 132A ”.
 
-**20.**[^key-f6f27a854eb4c40b1304a73ee3100622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f6f27a854eb4c40b1304a73ee3100622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
 
@@ -290,11 +290,11 @@ Sections 1 to 5, 7, 10 and 11.
 
 #### The State Pension Credit Act (Northern Ireland) 2002 (c. 14)
 
-**41.**[^key-938620227bc9384e5dda2854d8008f62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-938620227bc9384e5dda2854d8008f62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6f27a854eb4c40b1304a73ee3100622]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/20) repealed (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/nia/2012/3/schedule/2/paragraph/4/d) (with [s. 3(8)](https://www.legislation.gov.uk/nia/2012/3/section/3/8)); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(j)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/j/iv)
+[^c-f6f27a854eb4c40b1304a73ee3100622]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/20) repealed (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 2 para. 4(d)](https://www.legislation.gov.uk/nia/2012/3/schedule/2/paragraph/4/d) (with [s. 3(8)](https://www.legislation.gov.uk/nia/2012/3/section/3/8)); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(j)(iv)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/j/iv)
 
 [^c21200011]: Textual amendment: [Sch. 1 para. 32(a)](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/32/a) repealed (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 116](https://www.legislation.gov.uk/nia/2008/13/section/116), [118(2)(c)](https://www.legislation.gov.uk/nia/2008/13/section/118/2/c), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/6)
 
@@ -302,4 +302,4 @@ Sections 1 to 5, 7, 10 and 11.
 
 [^c21199991]: Textual amendment: [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/36) repealed (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 116](https://www.legislation.gov.uk/nia/2008/13/section/116), [118(2)(c)](https://www.legislation.gov.uk/nia/2008/13/section/118/2/c), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/6) (with Sch. 10 Pt. 6 note 2(b))
 
-[^key-938620227bc9384e5dda2854d8008f62]: Textual amendment: [Sch. 1 para. 41](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/41) omitted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 75](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/75)
+[^c-938620227bc9384e5dda2854d8008f62]: Textual amendment: [Sch. 1 para. 41](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/41) omitted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 75](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/75)

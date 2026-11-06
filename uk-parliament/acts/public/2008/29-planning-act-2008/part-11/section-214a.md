@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214A. Secretary of State: power to require review of certain charging schedules[^key-9fc04ad71e56872af88e6905daa30785]
+## 214A. Secretary of State: power to require review of certain charging schedules[^c-9fc04ad71e56872af88e6905daa30785]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ as a result of the CIL which is or will be chargeable in respect of street vote 
 
 ## Annotations
 
-[^key-9fc04ad71e56872af88e6905daa30785]: Textual amendment: [S. 214A](https://www.legislation.gov.uk/ukpga/2008/29/section/214A) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/8), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)
+[^c-9fc04ad71e56872af88e6905daa30785]: Textual amendment: [S. 214A](https://www.legislation.gov.uk/ukpga/2008/29/section/214A) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/8), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Deduction from earnings: other cases[^key-6b0452b963a9dac823cc9b8a8fccd01e][^key-bd02bd7c260157bb0352406bce43b9f0]
+## 110. Deduction from earnings: other cases[^c-6b0452b963a9dac823cc9b8a8fccd01e][^c-bd02bd7c260157bb0352406bce43b9f0]
 
 *Extent: N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b0452b963a9dac823cc9b8a8fccd01e]: Commencement: [Art. 110](https://www.legislation.gov.uk/nisi/2015/2006/article/110) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(c)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/c)
+[^c-6b0452b963a9dac823cc9b8a8fccd01e]: Commencement: [Art. 110](https://www.legislation.gov.uk/nisi/2015/2006/article/110) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(c)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/c)
 
-[^key-bd02bd7c260157bb0352406bce43b9f0]: Commencement: [Art. 110](https://www.legislation.gov.uk/nisi/2015/2006/article/110) in operation at 20.6.2016 otherwise except in relation to universal credit by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/215/article/3/3)
+[^c-bd02bd7c260157bb0352406bce43b9f0]: Commencement: [Art. 110](https://www.legislation.gov.uk/nisi/2015/2006/article/110) in operation at 20.6.2016 otherwise except in relation to universal credit by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/215/article/3/3)

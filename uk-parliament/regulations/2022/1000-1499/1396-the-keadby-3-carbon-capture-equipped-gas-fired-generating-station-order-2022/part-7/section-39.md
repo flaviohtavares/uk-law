@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Deemed marine licence under the Marine and Coast Access Act 2009[^key-18242491c5a704f277f453337063708e]
+## 39. Deemed marine licence under the Marine and Coast Access Act 2009[^c-18242491c5a704f277f453337063708e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker is deemed to have been granted the licence under Part 4 of the 20
 
 ## Annotations
 
-[^key-18242491c5a704f277f453337063708e]: Commencement: Art. 39 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-18242491c5a704f277f453337063708e]: Commencement: Art. 39 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

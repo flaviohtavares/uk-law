@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 41. Child support: decisions superseding earlier decisions[^key-0f76af8441972c81bff442d009304c51][^key-1d7f8482bb45859b3edcf69164604e95]
+## 41. Child support: decisions superseding earlier decisions[^c-0f76af8441972c81bff442d009304c51][^c-1d7f8482bb45859b3edcf69164604e95]
 
 For sections 17 to 19 of the Child Support Act there shall be substituted the following section—
 
@@ -38,6 +38,6 @@ For sections 17 to 19 of the Child Support Act there shall be substituted the fo
 
 ## Annotations
 
-[^key-0f76af8441972c81bff442d009304c51]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/1998/14/section/41) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
+[^c-0f76af8441972c81bff442d009304c51]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/1998/14/section/41) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
-[^key-1d7f8482bb45859b3edcf69164604e95]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/1998/14/section/41) in force at 1.6.1999 in so far as not already in force by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (with [arts. 48-51](https://www.legislation.gov.uk/uksi/1999/1510/article/48))
+[^c-1d7f8482bb45859b3edcf69164604e95]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/1998/14/section/41) in force at 1.6.1999 in so far as not already in force by [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (with [arts. 48-51](https://www.legislation.gov.uk/uksi/1999/1510/article/48))

@@ -30,43 +30,43 @@ This Statutory Instrument has been made in consequence of defects in [S.I. 2024/
 
 2024 No. 898
 
-SOCIAL SECURITY *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+SOCIAL SECURITY *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-The Social Fund Winter Fuel Payment (Amendment) Regulations 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+The Social Fund Winter Fuel Payment (Amendment) Regulations 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-Made *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+Made *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-at 2.50 p.m. on 3rd September 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+at 2.50 p.m. on 3rd September 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+Laid before Parliament *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-at 5.15 p.m. on 3rd September 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+at 5.15 p.m. on 3rd September 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-Coming into force in accordance with regulation 1(1) *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+Coming into force in accordance with regulation 1(1) *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 138(2) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e][^f00001] and section 71(1)(a), (2)(a), (3) and (5) of the Scotland Act 2016 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e][^f00002]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 138(2) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e][^f00001] and section 71(1)(a), (2)(a), (3) and (5) of the Scotland Act 2016 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e][^f00002]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-In accordance with section 173(1)(a) of the Social Security Administration Act 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e][^f00003], it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+In accordance with section 173(1)(a) of the Social Security Administration Act 1992 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e][^f00003], it appears to the Secretary of State that by reason of the urgency of this matter it is inexpedient to refer the proposals in respect of these Regulations to the Social Security Advisory Committee. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-## 1 (Extent: E+W) (affected by repeal, see note). Citation, commencement and extent (Extent: E+W) (affected by repeal, see note)[^key-37ec6ad49ae9ebe13c93960dd6a06b9a][^key-6bbadc82416ff80b2e91c271a847f23e][^key-6bbadc82416ff80b2e91c271a847f23e]
+## 1 (Extent: E+W) (affected by repeal, see note). Citation, commencement and extent (Extent: E+W) (affected by repeal, see note)[^c-37ec6ad49ae9ebe13c93960dd6a06b9a][^c-6bbadc82416ff80b2e91c271a847f23e][^c-6bbadc82416ff80b2e91c271a847f23e]
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] These Regulations may be cited as the Social Fund Winter Fuel Payment (Amendment) Regulations 2024 and come into force immediately before the Social Fund Winter Fuel Payment Regulations 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e][^f00004] come into force. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] These Regulations may be cited as the Social Fund Winter Fuel Payment (Amendment) Regulations 2024 and come into force immediately before the Social Fund Winter Fuel Payment Regulations 2024 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e][^f00004] come into force. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] These Regulations extend to England and Wales and Scotland. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] These Regulations extend to England and Wales and Scotland. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-## 2 (Extent: E+W) (affected by repeal, see note). Amendments to the Social Fund Winter Fuel Payment Regulations 2024 (Extent: E+W) (affected by repeal, see note)[^key-be65434eaa78f1e2a2132ca4de34a98f][^key-6bbadc82416ff80b2e91c271a847f23e][^key-6bbadc82416ff80b2e91c271a847f23e]
+## 2 (Extent: E+W) (affected by repeal, see note). Amendments to the Social Fund Winter Fuel Payment Regulations 2024 (Extent: E+W) (affected by repeal, see note)[^c-be65434eaa78f1e2a2132ca4de34a98f][^c-6bbadc82416ff80b2e91c271a847f23e][^c-6bbadc82416ff80b2e91c271a847f23e]
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] The Social Fund Winter Fuel Payment Regulations 2024 are amended as follows. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] The Social Fund Winter Fuel Payment Regulations 2024 are amended as follows. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] In regulation 7(1) (revocations) after “Regulations” insert *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e] “and Orders” *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] In regulation 7(1) (revocations) after “Regulations” insert *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e] “and Orders” *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] In Schedule 2— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] In Schedule 2— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] in the heading after “Regulations” insert *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e] “and Orders” *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] in the heading to the first column of the table after “Regulations” insert *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e] “and Orders” *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] in the table— *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
-  - (i (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] in the entry relating to the Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e][^f00005], in the third column, for “Paragraph 34” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e] “Paragraph 32” *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
-  - (ii (Extent: E+W) (affected by repeal, see note))[^key-6bbadc82416ff80b2e91c271a847f23e] in the entry relating to the Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e][^f00006], in the third column, for “Regulation 10” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e] “Article 10” *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-6bbadc82416ff80b2e91c271a847f23e]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] in the heading after “Regulations” insert *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e] “and Orders” *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] in the heading to the first column of the table after “Regulations” insert *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e] “and Orders” *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] in the table— *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
+  - (i (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] in the entry relating to the Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e][^f00005], in the third column, for “Paragraph 34” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e] “Paragraph 32” *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^c-6bbadc82416ff80b2e91c271a847f23e] in the entry relating to the Health and Social Care Act 2008 (Miscellaneous Consequential Amendments) Order 2010 *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e][^f00006], in the third column, for “Regulation 10” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e] “Article 10” *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-6bbadc82416ff80b2e91c271a847f23e]
 
 Signed by authority of the Secretary of State
 
@@ -94,7 +94,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 ## Annotations
 
-[^key-6bbadc82416ff80b2e91c271a847f23e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/898) revoked (E.W.) (15.9.2025) by [The Social Fund Winter Fuel Payment Regulations 2025 (S.I. 2025/969)](https://www.legislation.gov.uk/uksi/2025/969), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2025/969/regulation/7/b)
+[^c-6bbadc82416ff80b2e91c271a847f23e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/898) revoked (E.W.) (15.9.2025) by [The Social Fund Winter Fuel Payment Regulations 2025 (S.I. 2025/969)](https://www.legislation.gov.uk/uksi/2025/969), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/969/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2025/969/regulation/7/b)
 
 [^f00001]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). See section 138(4) for the definition of “prescribed”. Section 175(1) is amended by paragraph 29(2) of Schedule 3 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
 
@@ -102,11 +102,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-37ec6ad49ae9ebe13c93960dd6a06b9a]: Commencement: Reg. 1 in force at 16.9.2024 (immediately before the Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869) come into force), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1)
+[^c-37ec6ad49ae9ebe13c93960dd6a06b9a]: Commencement: Reg. 1 in force at 16.9.2024 (immediately before the Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869) come into force), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2024/869](https://www.legislation.gov.uk/uksi/2024/869).
 
-[^key-be65434eaa78f1e2a2132ca4de34a98f]: Commencement: Reg. 2 in force at 16.9.2024 (immediately before the Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869) come into force), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1)
+[^c-be65434eaa78f1e2a2132ca4de34a98f]: Commencement: Reg. 2 in force at 16.9.2024 (immediately before the Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869) come into force), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2005/2877](https://www.legislation.gov.uk/uksi/2005/2877).
 

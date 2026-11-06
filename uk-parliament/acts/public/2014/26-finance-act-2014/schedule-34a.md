@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 34A — Promoters of tax avoidance schemes: defeated arrangements[^key-fea248034a37b6104b524be84c2a47fa]
+## SCHEDULE 34A — Promoters of tax avoidance schemes: defeated arrangements[^c-fea248034a37b6104b524be84c2a47fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 For this purpose arrangements in relation to which information relating to a reference number has been provided in compliance with section 312 of FA 2004 are treated as arrangements to which that reference number has been allocated under Part 7 of that Act.
 
-(4) Arrangements to which the same reference number has been allocated under paragraph 9 of Schedule 11A to VATA 1994 (disclosure of avoidance schemes) or paragraph 22 of Schedule 17 to FA 2017 (disclosure of avoidance schemes:[^key-6fe2eb2d0f67af196aa14ce455bca97e] VAT and other indirect taxes) are treated as being substantially the same.
+(4) Arrangements to which the same reference number has been allocated under paragraph 9 of Schedule 11A to VATA 1994 (disclosure of avoidance schemes) or paragraph 22 of Schedule 17 to FA 2017 (disclosure of avoidance schemes:[^c-6fe2eb2d0f67af196aa14ce455bca97e] VAT and other indirect taxes) are treated as being substantially the same.
 
 (5) Any two or more sets of arrangements which are the subject of follower notices given by reference to the same judicial ruling are treated as being substantially the same.
 
@@ -167,14 +167,14 @@ For this purpose arrangements in relation to which information relating to a ref
 
 **14.** (1) Condition D is that—
 
-- (a) the arrangements are disclosable VAT or other indirect tax[^key-cf2f9e5e57eabff2da43ab0e744e8bf0] arrangements to which a [^key-dfaa4db8e8d5f867c574089e4dab5da4]... person is a party,
-- (b) the [^key-d4ed87f9a7b11d19d9016f7848e66865]... person has made a return or claim on the basis that a relevant tax advantage arises,
+- (a) the arrangements are disclosable VAT or other indirect tax[^c-cf2f9e5e57eabff2da43ab0e744e8bf0] arrangements to which a [^c-dfaa4db8e8d5f867c574089e4dab5da4]... person is a party,
+- (b) the [^c-d4ed87f9a7b11d19d9016f7848e66865]... person has made a return or claim on the basis that a relevant tax advantage arises,
 - (c) the relevant tax advantage has been counteracted, and
 - (d) the counteraction is final.
 
-(2) For the purposes of sub-paragraph (1) “**relevant tax advantage**” means a tax advantage which the arrangements might be expected to enable the [^key-dbeb7aab3e200f2cb239b8c41c3253c7]... person to obtain.
+(2) For the purposes of sub-paragraph (1) “**relevant tax advantage**” means a tax advantage which the arrangements might be expected to enable the [^c-dbeb7aab3e200f2cb239b8c41c3253c7]... person to obtain.
 
-(3) For the purposes of this paragraph the relevant tax advantage is “counteracted” if adjustments are made in respect of the [^key-455706597168f15bab93219a2510938f]... person's tax position on the basis that the whole or part of that tax advantage does not arise.
+(3) For the purposes of this paragraph the relevant tax advantage is “counteracted” if adjustments are made in respect of the [^c-455706597168f15bab93219a2510938f]... person's tax position on the basis that the whole or part of that tax advantage does not arise.
 
 **15.** (1) Condition E is that the arrangements are disclosable VAT arrangements to which a taxable person (“T”) is a party and—
 
@@ -287,7 +287,7 @@ For this purpose arrangements in relation to which information relating to a ref
 
 ### PART 4 — Meeting section 237A conditions: bodies corporate and partnerships
 
-#### Relevant bodies controlled etc by other persons treated as meeting section 237A condition[^key-2dedc6818ab43dc5c7f4e3963b93fe50]
+#### Relevant bodies controlled etc by other persons treated as meeting section 237A condition[^c-2dedc6818ab43dc5c7f4e3963b93fe50]
 
 **20.** (1) A relevant body is treated as meeting a section 237A condition at the section 237A(2) relevant time if any of Conditions A to C is met.
 
@@ -348,14 +348,14 @@ any relevant body which those persons together control or have significant influ
 
 **23.** (1) In this Part of this Schedule—
 
-- “[^key-ca3888503a64e8ca6870bba778ee74d9]**control**” and “**significant influence**” have the same meanings as in Part 4 of Schedule 34 (see paragraph 13A(5) to (11));
+- “[^c-ca3888503a64e8ca6870bba778ee74d9]**control**” and “**significant influence**” have the same meanings as in Part 4 of Schedule 34 (see paragraph 13A(5) to (11));
 
   references to a person being a promoter are to the person carrying on business as a promoter;
 - “**relevant body**” has the same meaning as in Part 3 of this Schedule;
 - “**section 237A(2) relevant time**” means the time referred to in section 237A(2);
 - “**section 237A condition**” means any of the conditions in section 237A(11), (12) and (13).
 
-(2) For the purposes of paragraphs 20 to 22[^key-5bc1d801f67d009242ecc33bcbcd8445], the condition in section 237A(11) (occurrence of 3 relevant defeats in the 3 years ending with the relevant time) is taken to have been met by a person at any time if at least 3 relevant defeats have occurred in relation to the person in the period of 3 years ending with that time.
+(2) For the purposes of paragraphs 20 to 22[^c-5bc1d801f67d009242ecc33bcbcd8445], the condition in section 237A(11) (occurrence of 3 relevant defeats in the 3 years ending with the relevant time) is taken to have been met by a person at any time if at least 3 relevant defeats have occurred in relation to the person in the period of 3 years ending with that time.
 
 ### PART 5 — Supplementary
 
@@ -410,7 +410,7 @@ For the purposes of paragraph (b) it does not matter whether the reference is (f
 
 is treated as providing the information at the end of the period referred to in subsection (3) of that section.
 
-#### “Disclosable VAT or other indirect tax arrangements”[^key-a513db6507258c4613f3deb782a3a636]
+#### “Disclosable VAT or other indirect tax arrangements”[^c-a513db6507258c4613f3deb782a3a636]
 
 **26A.** (1) For the purposes of this Schedule arrangements are “disclosable VAT or other indirect tax arrangements” at any time if at that time—
 
@@ -433,7 +433,7 @@ is treated as providing the information at the end of the period referred to in 
 
 #### “Disclosable Schedule 11A VAT arrangements”[^M_F_ccf47f67-8a91-447f-c573-00970c557618]
 
-**27.** For the purposes of paragraph 26A[^key-a30c00bd41ddba759ec6544db09a929b] arrangements are “disclosable Schedule 11A[^key-3f48d35965921bd053f065fd784eda5b] VAT arrangements” at any time if at that time—
+**27.** For the purposes of paragraph 26A[^c-a30c00bd41ddba759ec6544db09a929b] arrangements are “disclosable Schedule 11A[^c-3f48d35965921bd053f065fd784eda5b] VAT arrangements” at any time if at that time—
 
 - (a) a person has complied with paragraph 6 of Schedule 11A to VATA 1994 in relation to the arrangements (duty to notify Commissioners),
 - (b) a person under a duty to comply with that paragraph in relation to the arrangements has failed to do so, or
@@ -441,7 +441,7 @@ is treated as providing the information at the end of the period referred to in 
 
 #### Paragraphs 26 to 27: supplementary[^M_F_bcc28b1e-55d4-49ac-c737-3d4db661522a]
 
-**28.** (1) A person “fails to comply” with any provision mentioned in paragraph 26(1)(a), 26A(2)(a)[^key-783322e8329383ad0f2f5cd2b0616491] or 27(b) if and only if any of the conditions in sub-paragraphs (2) to (4) is met.
+**28.** (1) A person “fails to comply” with any provision mentioned in paragraph 26(1)(a), 26A(2)(a)[^c-783322e8329383ad0f2f5cd2b0616491] or 27(b) if and only if any of the conditions in sub-paragraphs (2) to (4) is met.
 
 (2) The condition in this sub-paragraph is that—
 
@@ -490,34 +490,34 @@ and such a return is treated as made by the person in question.
 
 ## Annotations
 
-[^key-fea248034a37b6104b524be84c2a47fa]: Textual amendment: Sch. 34A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/5)
+[^c-fea248034a37b6104b524be84c2a47fa]: Textual amendment: Sch. 34A inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/5)
 
-[^key-6fe2eb2d0f67af196aa14ce455bca97e]: Textual amendment: Words in [Sch. 34A para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/2/4) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/2)
+[^c-6fe2eb2d0f67af196aa14ce455bca97e]: Textual amendment: Words in [Sch. 34A para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/2/4) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/2)
 
-[^key-cf2f9e5e57eabff2da43ab0e744e8bf0]: Textual amendment: Words in [Sch. 34A para. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/1/a) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/a)
+[^c-cf2f9e5e57eabff2da43ab0e744e8bf0]: Textual amendment: Words in [Sch. 34A para. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/1/a) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/a)
 
-[^key-dfaa4db8e8d5f867c574089e4dab5da4]: Textual amendment: Word in [Sch. 34A para. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/1/a) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
+[^c-dfaa4db8e8d5f867c574089e4dab5da4]: Textual amendment: Word in [Sch. 34A para. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/1/a) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
 
-[^key-d4ed87f9a7b11d19d9016f7848e66865]: Textual amendment: Word in [Sch. 34A para. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/1/b) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
+[^c-d4ed87f9a7b11d19d9016f7848e66865]: Textual amendment: Word in [Sch. 34A para. 14(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/1/b) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
 
-[^key-dbeb7aab3e200f2cb239b8c41c3253c7]: Textual amendment: Word in [Sch. 34A para. 14(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/2) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
+[^c-dbeb7aab3e200f2cb239b8c41c3253c7]: Textual amendment: Word in [Sch. 34A para. 14(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/2) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
 
-[^key-455706597168f15bab93219a2510938f]: Textual amendment: Word in [Sch. 34A para. 14(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/3) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
+[^c-455706597168f15bab93219a2510938f]: Textual amendment: Word in [Sch. 34A para. 14(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/14/3) omitted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/3/b)
 
-[^key-2dedc6818ab43dc5c7f4e3963b93fe50]: Textual amendment: Sch. 34A paras. 20-22 and cross-headings substituted (with effect in accordance with s. 24(6) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2017/10/section/24/3)
+[^c-2dedc6818ab43dc5c7f4e3963b93fe50]: Textual amendment: Sch. 34A paras. 20-22 and cross-headings substituted (with effect in accordance with s. 24(6) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2017/10/section/24/3)
 
-[^key-ca3888503a64e8ca6870bba778ee74d9]: Textual amendment: Words in Sch. 34A para. 23(1) substituted (with effect in accordance with s. 24(6) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/24/4/a)
+[^c-ca3888503a64e8ca6870bba778ee74d9]: Textual amendment: Words in Sch. 34A para. 23(1) substituted (with effect in accordance with s. 24(6) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/24/4/a)
 
-[^key-5bc1d801f67d009242ecc33bcbcd8445]: Textual amendment: Words in Sch. 34A para. 23(2) substituted (with effect in accordance with s. 24(6) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/10/section/24/4/b)
+[^c-5bc1d801f67d009242ecc33bcbcd8445]: Textual amendment: Words in Sch. 34A para. 23(2) substituted (with effect in accordance with s. 24(6) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/10/section/24/4/b)
 
-[^key-a513db6507258c4613f3deb782a3a636]: Textual amendment: [Sch. 34A para. 26A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/26A) and cross-heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/4)
+[^c-a513db6507258c4613f3deb782a3a636]: Textual amendment: [Sch. 34A para. 26A](https://www.legislation.gov.uk/ukpga/2014/26/schedule/34A/paragraph/26A) and cross-heading inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/4)
 
 [^M_F_ccf47f67-8a91-447f-c573-00970c557618]: Textual amendment: Words in Sch. 34A para. 27 cross-heading inserted (16.11.2017 for specified purposes) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/5)
 
-[^key-a30c00bd41ddba759ec6544db09a929b]: Textual amendment: Words in Sch. 34A para. 27 substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(6)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/6/a)
+[^c-a30c00bd41ddba759ec6544db09a929b]: Textual amendment: Words in Sch. 34A para. 27 substituted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(6)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/6/a)
 
-[^key-3f48d35965921bd053f065fd784eda5b]: Textual amendment: Words in Sch. 34A para. 27 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(6)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/6/b)
+[^c-3f48d35965921bd053f065fd784eda5b]: Textual amendment: Words in Sch. 34A para. 27 inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(6)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/6/b)
 
 [^M_F_bcc28b1e-55d4-49ac-c737-3d4db661522a]: Textual amendment: Words in Sch. 34A para. 28 cross-heading substituted (16.11.2017 for specified purposes) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/7)
 
-[^key-783322e8329383ad0f2f5cd2b0616491]: Textual amendment: Word in Sch. 34A para. 28(1) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/8)
+[^c-783322e8329383ad0f2f5cd2b0616491]: Textual amendment: Word in Sch. 34A para. 28(1) inserted (16.11.2017 for specified purposes, 1.1.2018 in so far as not already in force) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4), [Sch. 17 para. 54(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/54/8)

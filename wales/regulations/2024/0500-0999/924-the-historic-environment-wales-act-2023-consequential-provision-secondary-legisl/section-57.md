@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**57.**[^key-9990607ab7075e0c7ae1b83f0fd0314f] In regulation 17(1)(b)—
+**57.**[^c-9990607ab7075e0c7ae1b83f0fd0314f] In regulation 17(1)(b)—
 
 - (a) omit “or” in the fourth place it occurs;
 - (b) after “the Planning (Listed Buildings and Conservation Areas) Act 1990” insert “, or under paragraph 2(5) and (6) of Schedule 9 to the Historic Environment (Wales) Act 2023”.
 
 ## Annotations
 
-[^key-9990607ab7075e0c7ae1b83f0fd0314f]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2024/924/regulation/57) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-9990607ab7075e0c7ae1b83f0fd0314f]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2024/924/regulation/57) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

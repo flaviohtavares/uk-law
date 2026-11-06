@@ -29,155 +29,155 @@ Rates Act 1984 (repealed)
 
 1984 c. 33
 
-[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part I — Selective Limitation of Rates and Precepts[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+## Part I — Selective Limitation of Rates and Precepts[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
-### 1. Power to prescribe maximum rates and precepts.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Designation of authorities.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 1. Power to prescribe maximum rates and precepts.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Expenditure levels.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 2. Designation of authorities.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Determination of maximum rate or precept.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 3. Expenditure levels.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Interim maximum.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 4. Determination of maximum rate or precept.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Form and effect of maximum.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 5. Interim maximum.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Certificates of compliance.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 6. Form and effect of maximum.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Information.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 7. Certificates of compliance.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — General Limitation of Rates and Precepts[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
-
-### 9. Power to introduce general control.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 8. Information.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Authorities subject to general control.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+## Part II — General Limitation of Rates and Precepts[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
+
+### 9. Power to introduce general control.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Expenditure levels and variation of maximum.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 10. Authorities subject to general control.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Supplementary provisions.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 11. Expenditure levels and variation of maximum.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — Other Provisions Relating to Rates and Precepts[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 12. Supplementary provisions.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
-### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Part III — Other Provisions Relating to Rates and Precepts[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
+
+### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **May not be in force at this date. Check the source.**
 
-### 14. Provision of information to ratepayers.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 14. Provision of information to ratepayers.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **May not be in force at this date. Check the source.**
 
-### 16. Miscellaneous amendments and repeals.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 16. Miscellaneous amendments and repeals.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part IV — Supplementary[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+## Part IV — Supplementary[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
-### 17. Expenses.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 18. Commence-ment.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 17. Expenses.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Short title, interpreta-tion and extent.[^key-8e1cc1cd61cba2ce8febcddbf5989c0b][^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### 18. Commence-ment.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8e1cc1cd61cba2ce8febcddbf5989c0b] SCHEDULES
+### 19. Short title, interpreta-tion and extent.[^c-8e1cc1cd61cba2ce8febcddbf5989c0b][^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
-## SCHEDULE 1 — Miscellaneous Amendments and Repeals[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8e1cc1cd61cba2ce8febcddbf5989c0b] SCHEDULES
+
+## SCHEDULE 1 — Miscellaneous Amendments and Repeals[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 Section 16(1).
 
-### Interpretation[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### Interpretation[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2—22.**[^key-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2—22.**[^c-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Adjustment of grant for disparities in rate revenue[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
-
-**May not be in force at this date. Check the source.**
-
-**23.**[^key-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Substituted rates and precepts[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### Adjustment of grant for disparities in rate revenue[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **May not be in force at this date. Check the source.**
 
-**24.**[^key-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]
+### Substituted rates and precepts[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
+
+**May not be in force at this date. Check the source.**
+
+**24.**[^c-8e1cc1cd61cba2ce8febcddbf5989c0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]
 
 **No longer in force.**
 
@@ -185,4 +185,4 @@ Section 16(1).
 
 ## Annotations
 
-[^key-8e1cc1cd61cba2ce8febcddbf5989c0b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1984/33) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/7)
+[^c-8e1cc1cd61cba2ce8febcddbf5989c0b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1984/33) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/7)

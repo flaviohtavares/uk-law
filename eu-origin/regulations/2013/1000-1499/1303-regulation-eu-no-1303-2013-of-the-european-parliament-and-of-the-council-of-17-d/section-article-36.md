@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 36. Integrated territorial investment[^key-a1cdf430923ae3bec0fd584662aaf231]
+## Article 36. Integrated territorial investment[^c-a1cdf430923ae3bec0fd584662aaf231]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1cdf430923ae3bec0fd584662aaf231]: Textual amendment: [Art. 36](https://www.legislation.gov.uk/eur/2013/1303/article/36) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [7(11)](https://www.legislation.gov.uk/uksi/2019/785/regulation/7/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1cdf430923ae3bec0fd584662aaf231]: Textual amendment: [Art. 36](https://www.legislation.gov.uk/eur/2013/1303/article/36) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [7(11)](https://www.legislation.gov.uk/uksi/2019/785/regulation/7/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

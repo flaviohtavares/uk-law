@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 110. Transitional provisions[^key-d77ca398f6d4f43f69358612ed9b0791]
+## 110. Transitional provisions[^c-d77ca398f6d4f43f69358612ed9b0791]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The transitional provisions in Schedule 8 shall have effect.
 
 ## Annotations
 
-[^key-d77ca398f6d4f43f69358612ed9b0791]: Commencement: S. 110 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-d77ca398f6d4f43f69358612ed9b0791]: Commencement: S. 110 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

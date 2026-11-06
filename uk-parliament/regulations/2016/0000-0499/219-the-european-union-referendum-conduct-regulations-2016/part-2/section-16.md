@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Notice of poll[^key-556fc60a8192772d990d539eb5bd9f53]
+## 16. Notice of poll[^c-556fc60a8192772d990d539eb5bd9f53]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-556fc60a8192772d990d539eb5bd9f53]: Commencement: Reg. 16 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-556fc60a8192772d990d539eb5bd9f53]: Commencement: Reg. 16 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

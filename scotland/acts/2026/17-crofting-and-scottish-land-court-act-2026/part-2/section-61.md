@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Giving or updating guidance on access rights[^key-720d72f9428ba91d06ab821b63db2993]
+## 61. Giving or updating guidance on access rights[^c-720d72f9428ba91d06ab821b63db2993]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-720d72f9428ba91d06ab821b63db2993]: Commencement: S. 61 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-720d72f9428ba91d06ab821b63db2993]: Commencement: S. 61 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

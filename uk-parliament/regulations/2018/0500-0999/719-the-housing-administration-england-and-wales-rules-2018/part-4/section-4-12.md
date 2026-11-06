@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.12. Application under section 176A(5) to disapply section 176A[^key-4c3026104572e4ce8864b3264f6f7225]
+## 4.12. Application under section 176A(5) to disapply section 176A[^c-4c3026104572e4ce8864b3264f6f7225]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c3026104572e4ce8864b3264f6f7225]: Commencement: Rule 4.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4c3026104572e4ce8864b3264f6f7225]: Commencement: Rule 4.12 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

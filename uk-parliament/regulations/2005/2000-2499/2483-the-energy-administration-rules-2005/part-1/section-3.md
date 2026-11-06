@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Extent[^key-893a864656d069363d951821a8e0ddcc]
+## 3. Extent[^c-893a864656d069363d951821a8e0ddcc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Rules apply in relation to protected energy companies which the courts in En
 
 ## Annotations
 
-[^key-893a864656d069363d951821a8e0ddcc]: Commencement: Rule 3 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-893a864656d069363d951821a8e0ddcc]: Commencement: Rule 3 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

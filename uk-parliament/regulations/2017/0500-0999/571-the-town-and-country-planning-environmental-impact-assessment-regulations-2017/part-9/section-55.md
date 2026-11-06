@@ -44,7 +44,7 @@ summary: ''
 
 (6) In determining for the purposes of—
 
-- (a) paragraph 2(6)(b)[^key-0860ab4be91b1564bd912902ddb69fd6] of Schedule 2 to the 1991 Act, paragraph 9(9) of Schedule 13 to the 1995 Act and paragraph 6(8) of Schedule 14 to the 1995 Act (determination of conditions); or
+- (a) paragraph 2(6)(b)[^c-0860ab4be91b1564bd912902ddb69fd6] of Schedule 2 to the 1991 Act, paragraph 9(9) of Schedule 13 to the 1995 Act and paragraph 6(8) of Schedule 14 to the 1995 Act (determination of conditions); or
 - (b) paragraph 5(5) of Schedule 2 to the 1991 Act, paragraph 11(2) of Schedule 13 to the 1995 Act and paragraph 9(2) of Schedule 14 to the 1995 Act (right of appeal),
 
 the time which has elapsed without the relevant mineral planning authority giving the applicant written notice of their determination in a case where the authority has notified an applicant in accordance with regulation 11(1) that the submission of an environmental statement is required and the Secretary of State has given a screening direction in relation to the ROMP development in question, no account shall be taken of any period before the issue of the direction.
@@ -55,4 +55,4 @@ the time which has elapsed without the relevant mineral planning authority givin
 
 [^c23016851]: Marginal citation: Paragraph 5 was amended by section 198 of the Planning Act 2008.
 
-[^key-0860ab4be91b1564bd912902ddb69fd6]: Textual amendment: Words in reg. 55(6)(a) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/9)
+[^c-0860ab4be91b1564bd912902ddb69fd6]: Textual amendment: Words in reg. 55(6)(a) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/9)

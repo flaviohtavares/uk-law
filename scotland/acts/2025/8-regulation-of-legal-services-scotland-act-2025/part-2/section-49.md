@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Entities changing regulatory regime[^key-e5979754e1cc4a1756983fc3753e02af][^key-6b99c1672c489719206a07e39e50d5c3]
+## 49. Entities changing regulatory regime[^c-e5979754e1cc4a1756983fc3753e02af][^c-6b99c1672c489719206a07e39e50d5c3]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5979754e1cc4a1756983fc3753e02af]: Commencement: S. 49 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e5979754e1cc4a1756983fc3753e02af]: Commencement: S. 49 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-6b99c1672c489719206a07e39e50d5c3]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2025/8/section/49) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-6b99c1672c489719206a07e39e50d5c3]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2025/8/section/49) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

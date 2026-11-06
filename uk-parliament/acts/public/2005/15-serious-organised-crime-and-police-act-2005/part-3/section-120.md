@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Staff custody officers: designation[^key-aca40aad81581d2c623e7588e6316857]
+## 120. Staff custody officers: designation[^c-aca40aad81581d2c623e7588e6316857]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca40aad81581d2c623e7588e6316857]: Textual amendment: S. 120 repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)
+[^c-aca40aad81581d2c623e7588e6316857]: Textual amendment: S. 120 repealed (12.1.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(6)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/6/b), [Sch. 8 Pt. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/13)

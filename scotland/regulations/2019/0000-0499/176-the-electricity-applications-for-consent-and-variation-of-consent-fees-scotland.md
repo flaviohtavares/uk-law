@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 36(8), 36C(2) and 60(3) and paragraph 1(3) of schedule 8 of the Electricity Act 1989[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-c761f7bb8f7dc4f8d899c08a2c8e997c]
+## 1. Citation, commencement and extent[^c-c761f7bb8f7dc4f8d899c08a2c8e997c]
 
 (1) These Regulations may be cited as the Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Regulations 2019 and come into force on 30 June 2019.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-3b298d374b040a9ce304726627b5b8ee]
+## 2. Interpretation[^c-3b298d374b040a9ce304726627b5b8ee]
 
 In these Regulations—
 
@@ -61,7 +61,7 @@ In these Regulations—
 - “the 1990 Regulations” means the Electricity (Applications for Consent) Regulations 1990[^f00003],
 - “variation application” means an application made to the Scottish Ministers under section 36C(1) of the Electricity Act (variation of section 36 consents) to vary a consent under section 36 of that Act.
 
-## 3. Application[^key-83a71bb0d8024cdebd0f2c268f043905]
+## 3. Application[^c-83a71bb0d8024cdebd0f2c268f043905]
 
 These Regulations apply in relation to—
 
@@ -71,13 +71,13 @@ These Regulations apply in relation to—
 
 which is made to the Scottish Ministers on or after 30 June 2019.
 
-## 4. Fees payable on applications for consent[^key-e127ba16a6d6126e880054c1c2592be5]
+## 4. Fees payable on applications for consent[^c-e127ba16a6d6126e880054c1c2592be5]
 
 (1) Where an application to which these regulations apply is made, a fee is payable to the Scottish Ministers.
 
 (2) The fee payable in respect of the application is as specified in the schedule.
 
-## 5. Revocation[^key-bed2e550909b1c6513016b986c3f2523]
+## 5. Revocation[^c-bed2e550909b1c6513016b986c3f2523]
 
 (1) Subject to paragraph (2), regulation 11 of the 1990 Regulations is revoked.
 
@@ -99,11 +99,11 @@ Regulation 4(2)
 
 ### Fees for applications made under section 36 of the Electricity Act to construct, extend or operate a generating station
 
-**1.**[^key-f59516dad65d950be0c90cc055376166] (1) Subject to sub-paragraph (2), where an application is made under section 36 of the Electricity Act to construct, extend or operate a generating station, the fee payable in respect of the application is as specified in Table 1.
+**1.**[^c-f59516dad65d950be0c90cc055376166] (1) Subject to sub-paragraph (2), where an application is made under section 36 of the Electricity Act to construct, extend or operate a generating station, the fee payable in respect of the application is as specified in Table 1.
 
 (2) Where the subject matter of the application is two or more of the matters specified in Table 1, the fee to be paid is the higher or the highest of the relevant fees.
 
-Table 1[^key-efac0d928544b5de2e70ca73761411d1]
+Table 1[^c-efac0d928544b5de2e70ca73761411d1]
 
 | Subject matter of application | Fee payable |
 | --- | --- |
@@ -152,11 +152,11 @@ Table 1[^key-efac0d928544b5de2e70ca73761411d1]
 
 ### Fees for applications made under section 37 of the Electricity Act to install or keep installed an electric line above ground
 
-**2.**[^key-259dd2ddc8db625a42e441972360b732] (1) Subject to sub-paragraph (2), where an application is made under section 37 of the Electricity Act to install or keep installed an electric line above ground, the fee payable in respect of the application is calculated in accordance with Table 2.
+**2.**[^c-259dd2ddc8db625a42e441972360b732] (1) Subject to sub-paragraph (2), where an application is made under section 37 of the Electricity Act to install or keep installed an electric line above ground, the fee payable in respect of the application is calculated in accordance with Table 2.
 
 (2) Where the subject matter of the application relates to matters specified under entry 1(b) or (c), or 2(b) of Table 2, lengths over 500 metres will be rounded to the nearest whole kilometre.
 
-Table 2[^key-cc532eb33d63c8b0ec6911e9c53fc914]
+Table 2[^c-cc532eb33d63c8b0ec6911e9c53fc914]
 
 | Subject matter of application | Fee payable |
 | --- | --- |
@@ -170,11 +170,11 @@ Table 2[^key-cc532eb33d63c8b0ec6911e9c53fc914]
 
 ### Fees for variation applications
 
-**3.**[^key-02a7cf2fd5e46923b07a4b0df31d1ce3] (1) Subject to sub-paragraph (2), where a variation application is made, the fee payable in respect of the variation application is as specified in Table 3.
+**3.**[^c-02a7cf2fd5e46923b07a4b0df31d1ce3] (1) Subject to sub-paragraph (2), where a variation application is made, the fee payable in respect of the variation application is as specified in Table 3.
 
 (2) Where the subject matter of the variation application is two or more of the matters specified in Table 3, the fee to be paid is the higher or the highest of the relevant fees.
 
-Table 3[^key-78d60d3aa7e0bf7fcbd041c3eca628f5]
+Table 3[^c-78d60d3aa7e0bf7fcbd041c3eca628f5]
 
 | Variation application | Fee payable |
 | --- | --- |
@@ -225,28 +225,28 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00001]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). The functions of the Secretary of State under section 60(3) and paragraph 1(3) of schedule 8 were transferred to the Scottish Ministers by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and Schedule 1. The functions of the Secretary of State under sections 36(8) were transferred to the Scottish Ministers by virtue of [S.I. 2006/1040](https://www.legislation.gov.uk/uksi/2006/1040), article 3.
 
-[^key-c761f7bb8f7dc4f8d899c08a2c8e997c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/176/regulation/1) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-c761f7bb8f7dc4f8d899c08a2c8e997c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/176/regulation/1) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-3b298d374b040a9ce304726627b5b8ee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/176/regulation/2) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-3b298d374b040a9ce304726627b5b8ee]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/176/regulation/2) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2017/101](https://www.legislation.gov.uk/ssi/2017/101) as relevantly amended by [S.S.I. 2017/451](https://www.legislation.gov.uk/ssi/2017/451).
 
 [^f00003]: Footnote: [S.I. 1990/455](https://www.legislation.gov.uk/uksi/1990/455) as relevantly amended by [S.S.I. 2013/58](https://www.legislation.gov.uk/ssi/2013/58) and [S.S.I. 2005/295](https://www.legislation.gov.uk/ssi/2005/295).
 
-[^key-83a71bb0d8024cdebd0f2c268f043905]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/176/regulation/3) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-83a71bb0d8024cdebd0f2c268f043905]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/176/regulation/3) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-e127ba16a6d6126e880054c1c2592be5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/176/regulation/4) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-e127ba16a6d6126e880054c1c2592be5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/176/regulation/4) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-bed2e550909b1c6513016b986c3f2523]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/176/regulation/5) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-bed2e550909b1c6513016b986c3f2523]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/176/regulation/5) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-f59516dad65d950be0c90cc055376166]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/176/schedule/paragraph/1) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-f59516dad65d950be0c90cc055376166]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2019/176/schedule/paragraph/1) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-efac0d928544b5de2e70ca73761411d1]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2019/176/schedule) Table 1 substituted (13.12.2022) by [The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310)](https://www.legislation.gov.uk/ssi/2022/310), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/310/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/310/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/310/regulation/3))
+[^c-efac0d928544b5de2e70ca73761411d1]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2019/176/schedule) Table 1 substituted (13.12.2022) by [The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310)](https://www.legislation.gov.uk/ssi/2022/310), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/310/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/310/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/310/regulation/3))
 
-[^key-259dd2ddc8db625a42e441972360b732]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2019/176/schedule/paragraph/2) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-259dd2ddc8db625a42e441972360b732]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2019/176/schedule/paragraph/2) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-cc532eb33d63c8b0ec6911e9c53fc914]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2019/176/schedule) Table 2 substituted (13.12.2022) by [The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310)](https://www.legislation.gov.uk/ssi/2022/310), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/310/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/310/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/310/regulation/3))
+[^c-cc532eb33d63c8b0ec6911e9c53fc914]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2019/176/schedule) Table 2 substituted (13.12.2022) by [The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310)](https://www.legislation.gov.uk/ssi/2022/310), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/310/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/310/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/310/regulation/3))
 
-[^key-02a7cf2fd5e46923b07a4b0df31d1ce3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2019/176/schedule/paragraph/3) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
+[^c-02a7cf2fd5e46923b07a4b0df31d1ce3]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2019/176/schedule/paragraph/3) in force at 30.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/176/regulation/1/1)
 
-[^key-78d60d3aa7e0bf7fcbd041c3eca628f5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2019/176/schedule) Table 3 substituted (13.12.2022) by [The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310)](https://www.legislation.gov.uk/ssi/2022/310), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/310/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/310/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/310/regulation/3))
+[^c-78d60d3aa7e0bf7fcbd041c3eca628f5]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2019/176/schedule) Table 3 substituted (13.12.2022) by [The Electricity (Applications for Consent and Variation of Consent) (Fees) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/310)](https://www.legislation.gov.uk/ssi/2022/310), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/310/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/310/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/310/regulation/3))

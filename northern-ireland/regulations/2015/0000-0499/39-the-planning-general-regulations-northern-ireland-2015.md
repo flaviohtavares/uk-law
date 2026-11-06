@@ -80,7 +80,7 @@ Regulation 3 does not apply in the case of an application for planning permissio
 - (b) sections 64 and 65 shall not apply except to the extent that they apply to a completion notice served under section 66 by the Department; and
 - (c) the provisions of Part 3 of the 2011 Act listed in the first column of the Schedule to these Regulations shall have effect subject to the modifications in the second column of that Schedule.
 
-(2)[^key-8a9055cea8bc6dd42137e4a091c446d6]
+(2)[^c-8a9055cea8bc6dd42137e4a091c446d6]
 
 - If an application for planning permission for development to which regulation 3 applies is referred to the Department under section 29 for determination by it that section shall have effect subject to the modification that, in subsection (7), for the words “the applicant and the appropriate council” substitute “the interested council” and for the words “the applicant or the council so requests in writing, the Department shall afford each of them an opportunity” substitute the words “the interested council requests in writing, the Department shall give it the opportunity”.
 
@@ -165,6 +165,6 @@ The Explanatory Memorandum is available alongside the Regulations on the governm
 
 [^c22349121]: Marginal citation: [2011 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
 
-[^key-8a9055cea8bc6dd42137e4a091c446d6]: Textual amendment: Reg. 5(2) substituted (15.4.2015) by [The Planning General (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/176)](https://www.legislation.gov.uk/nisr/2015/176), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/176/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/176/regulation/2)
+[^c-8a9055cea8bc6dd42137e4a091c446d6]: Textual amendment: Reg. 5(2) substituted (15.4.2015) by [The Planning General (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/176)](https://www.legislation.gov.uk/nisr/2015/176), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/176/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/176/regulation/2)
 
 [^c22349131]: Marginal citation: [2014 c.8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8)

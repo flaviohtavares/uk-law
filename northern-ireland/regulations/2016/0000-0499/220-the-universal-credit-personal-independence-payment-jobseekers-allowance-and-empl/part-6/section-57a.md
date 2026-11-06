@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57A. Recovery of expenses[^key-995fbc104caf1fd20f34d15ffbdb5389]
+## 57A. Recovery of expenses[^c-995fbc104caf1fd20f34d15ffbdb5389]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-995fbc104caf1fd20f34d15ffbdb5389]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/nisr/2016/220/regulation/57A) inserted (7.11.2016) by [The Social Security (Expenses of Paying Sums in Relation to Vehicle Hire) Regulations (Northern Ireland) 2016 (S.R. 2016/376)](https://www.legislation.gov.uk/nisr/2016/376), [regs. 1](https://www.legislation.gov.uk/nisr/2016/376/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/376/regulation/3)
+[^c-995fbc104caf1fd20f34d15ffbdb5389]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/nisr/2016/220/regulation/57A) inserted (7.11.2016) by [The Social Security (Expenses of Paying Sums in Relation to Vehicle Hire) Regulations (Northern Ireland) 2016 (S.R. 2016/376)](https://www.legislation.gov.uk/nisr/2016/376), [regs. 1](https://www.legislation.gov.uk/nisr/2016/376/regulation/1), [3](https://www.legislation.gov.uk/nisr/2016/376/regulation/3)

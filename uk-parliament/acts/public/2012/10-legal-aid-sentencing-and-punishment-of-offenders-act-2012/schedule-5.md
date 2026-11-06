@@ -252,11 +252,11 @@ Section 39
 
 #### Family Law Act 1996 (c. 27)
 
-**43.**[^key-5c4061df7c7d2acdc01d3b33b4426cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-5c4061df7c7d2acdc01d3b33b4426cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-5c4061df7c7d2acdc01d3b33b4426cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-5c4061df7c7d2acdc01d3b33b4426cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-5c4061df7c7d2acdc01d3b33b4426cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-5c4061df7c7d2acdc01d3b33b4426cf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Crime and Disorder Act 1998 (c. 37)
 
@@ -300,11 +300,11 @@ Section 39
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**52.**[^key-b449598c5b65c9ed39a55331a89a7abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-b449598c5b65c9ed39a55331a89a7abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-b449598c5b65c9ed39a55331a89a7abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-b449598c5b65c9ed39a55331a89a7abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-b449598c5b65c9ed39a55331a89a7abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-b449598c5b65c9ed39a55331a89a7abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Freedom of Information Act 2000 (c. 36)
 
@@ -376,7 +376,7 @@ Section 39
 
 #### Criminal Justice and Immigration Act 2008 (c. 4)
 
-**69.**[^key-c24203be6c1c9011957eaaa8326200fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-c24203be6c1c9011957eaaa8326200fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Equality Act 2010 (c. 15)
 
@@ -384,7 +384,7 @@ Section 39
 
 #### Terrorist Asset-Freezing etc Act 2010 (c. 38)
 
-**71.**[^key-77a032a118f884a55235d5b8726a6a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-77a032a118f884a55235d5b8726a6a7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Repeals consequential on Part 1 of this Schedule
 
@@ -419,16 +419,16 @@ Section 39
 </tbody>
 </table>
 
-[^key-1b969a9cb4e5857e628ba96eef4cde0b]
+[^c-1b969a9cb4e5857e628ba96eef4cde0b]
 
 ## Annotations
 
-[^key-5c4061df7c7d2acdc01d3b33b4426cf4]: Textual amendment: [Sch. 5 paras. 43-45](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/43) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/e/i), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-5c4061df7c7d2acdc01d3b33b4426cf4]: Textual amendment: [Sch. 5 paras. 43-45](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/43) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/e/i), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
-[^key-b449598c5b65c9ed39a55331a89a7abe]: Textual amendment: [Sch. 5 paras. 52-54](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/52) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b449598c5b65c9ed39a55331a89a7abe]: Textual amendment: [Sch. 5 paras. 52-54](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/52) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c24203be6c1c9011957eaaa8326200fc]: Textual amendment: [Sch. 5 para. 69](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/69) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c24203be6c1c9011957eaaa8326200fc]: Textual amendment: [Sch. 5 para. 69](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/69) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-77a032a118f884a55235d5b8726a6a7d]: Textual amendment: [Sch. 5 para. 71](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/71) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)
+[^c-77a032a118f884a55235d5b8726a6a7d]: Textual amendment: [Sch. 5 para. 71](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/71) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)
 
-[^key-1b969a9cb4e5857e628ba96eef4cde0b]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/e/ii), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-1b969a9cb4e5857e628ba96eef4cde0b]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/3/e/ii), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)

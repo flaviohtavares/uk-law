@@ -164,7 +164,7 @@ Sections 1 and 2.
 
 **51.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8087401]
 
-**52.**[^key-6db3f43010bd267422c89908c9df18e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-6db3f43010bd267422c89908c9df18e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **53.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8087421]
 
@@ -184,11 +184,11 @@ Sections 1 and 2.
 
 **65.**[^c8087501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**66.**[^key-afc728aabe4571a38775fe592f8e5235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-afc728aabe4571a38775fe592f8e5235] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **67.**[^c8087511] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**68.**[^key-c4a8c9bad8734a99cb49a444b1535dd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-c4a8c9bad8734a99cb49a444b1535dd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **69.**[^M_F_9ab43f12-783b-4a88-e6c0-e2f4528d6a3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -206,7 +206,7 @@ Sections 1 and 2.
 
 **76.**[^c8087631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**77.**[^key-bd7c88cc894360c140940992f42e2e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**77.**[^c-bd7c88cc894360c140940992f42e2e9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **78.** (1)[^c8087681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -338,7 +338,7 @@ Sections 1 and 2.
 
 [^c8087401]: Textual amendment: [Sch. 1 paras. 44–49](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/paragraph/44), [51](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/paragraph/51) repealed by [S.I. 1985/39](https://www.legislation.gov.uk/uksi/1985/39), [art. 9](https://www.legislation.gov.uk/uksi/1985/39/article/9)(*d*)
 
-[^key-6db3f43010bd267422c89908c9df18e4]: Textual amendment: Sch. 1 para. 52 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-6db3f43010bd267422c89908c9df18e4]: Textual amendment: Sch. 1 para. 52 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8087421]: Textual amendment: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/paragraph/53) repealed by [S.I. 1985/39](https://www.legislation.gov.uk/uksi/1985/39), [art. 9](https://www.legislation.gov.uk/uksi/1985/39/article/9)(*f*)
 
@@ -358,11 +358,11 @@ Sections 1 and 2.
 
 [^c8087501]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/part/I), [para. 65](https://www.legislation.gov.uk/ukpga/1980/53/paragraph/65) repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-afc728aabe4571a38775fe592f8e5235]: Textual amendment: Sch. 1 para. 66 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-afc728aabe4571a38775fe592f8e5235]: Textual amendment: Sch. 1 para. 66 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8087511]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/part/I), [para. 67](https://www.legislation.gov.uk/ukpga/1980/53/paragraph/67) repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-c4a8c9bad8734a99cb49a444b1535dd1]: Textual amendment: Sch. 1 para. 68 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-c4a8c9bad8734a99cb49a444b1535dd1]: Textual amendment: Sch. 1 para. 68 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^M_F_9ab43f12-783b-4a88-e6c0-e2f4528d6a3a]: Textual amendment: Sch. 1 para. 69 repealed in part by [Health and Social Security Act 1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), [s. 24](https://www.legislation.gov.uk/ukpga/1984/48/section/24), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1984/48/schedule/8/part/I); remainder repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [Health Authorities Act 1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
@@ -380,7 +380,7 @@ Sections 1 and 2.
 
 [^c8087631]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/part/I), [para. 76](https://www.legislation.gov.uk/ukpga/1980/53/paragraph/76) repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 
-[^key-bd7c88cc894360c140940992f42e2e9b]: Textual amendment: Sch. 1 para. 77 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-bd7c88cc894360c140940992f42e2e9b]: Textual amendment: Sch. 1 para. 77 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8087681]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1980/53/schedule/1/part/I), [para. 78(1)](https://www.legislation.gov.uk/ukpga/1980/53/paragraph/78/1) repealed (28.6.1995 for specified purposes and otherwise 1.4.1996) by [1995 c. 17](https://www.legislation.gov.uk/ukpga/1995/17), [ss. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1995/17/section/5/1/2), [8](https://www.legislation.gov.uk/ukpga/1995/17/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/17/schedule/3) (with [Sch. 2 paras. 6](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/17/schedule/2/paragraph/16))
 

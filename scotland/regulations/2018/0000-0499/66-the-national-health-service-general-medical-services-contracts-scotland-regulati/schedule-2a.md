@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 2A — VACCINATION SERVICES[^key-2fcec80d1b24171b8b941e6be9a696eb]
+## SCHEDULE 2A — VACCINATION SERVICES[^c-2fcec80d1b24171b8b941e6be9a696eb]
 
 Regulation 20A
 
@@ -100,7 +100,7 @@ The contractor must, in relation to each vaccination service which they provide,
 
 ### 5. Supplementary vaccinations and immunisations
 
-(1) Where directions given under section 17M of the Act[^key-97f9ef94dedd4e28768fe93b80aca8bb] have provided for a fee to be payable for the provision of a vaccination or immunisation of a specified type in specified circumstances, but those directions have not specified that the vaccination or immunisation is to form part of the vaccinations and immunisations described by paragraph 3 or the childhood vaccinations and immunisations described by paragraph 4, that vaccination or immunisation is to be considered a “supplementary vaccination and immunisation”.
+(1) Where directions given under section 17M of the Act[^c-97f9ef94dedd4e28768fe93b80aca8bb] have provided for a fee to be payable for the provision of a vaccination or immunisation of a specified type in specified circumstances, but those directions have not specified that the vaccination or immunisation is to form part of the vaccinations and immunisations described by paragraph 3 or the childhood vaccinations and immunisations described by paragraph 4, that vaccination or immunisation is to be considered a “supplementary vaccination and immunisation”.
 
 (2) Subject to paragraph 1, a Health Board may require a contractor to provide to their patients any of the supplementary vaccinations and immunisations.
 
@@ -123,6 +123,6 @@ The contractor must, in relation to each vaccination service which they provide,
 
 ## Annotations
 
-[^key-2fcec80d1b24171b8b941e6be9a696eb]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ssi/2018/66/schedule/2A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [7](https://www.legislation.gov.uk/ssi/2021/302/regulation/7)
+[^c-2fcec80d1b24171b8b941e6be9a696eb]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ssi/2018/66/schedule/2A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [7](https://www.legislation.gov.uk/ssi/2021/302/regulation/7)
 
-[^key-97f9ef94dedd4e28768fe93b80aca8bb]: Textual amendment: Words in [sch. 2A para. 5(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/2A/paragraph/5/1) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2022/130/regulation/7)
+[^c-97f9ef94dedd4e28768fe93b80aca8bb]: Textual amendment: Words in [sch. 2A para. 5(1)](https://www.legislation.gov.uk/ssi/2018/66/schedule/2A/paragraph/5/1) inserted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [7](https://www.legislation.gov.uk/ssi/2022/130/regulation/7)

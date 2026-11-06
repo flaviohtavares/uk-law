@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Amendments relating to the establishment or restriction of schemes[^key-23ca5937c3e4cec74f53fb4c8cfcf146][^key-51ddb853b33652bdafa8d27f09d94fb3]
+## 95. Amendments relating to the establishment or restriction of schemes[^c-23ca5937c3e4cec74f53fb4c8cfcf146][^c-51ddb853b33652bdafa8d27f09d94fb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,6 +171,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23ca5937c3e4cec74f53fb4c8cfcf146]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-23ca5937c3e4cec74f53fb4c8cfcf146]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-51ddb853b33652bdafa8d27f09d94fb3]: Commencement: S. 95 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-51ddb853b33652bdafa8d27f09d94fb3]: Commencement: S. 95 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

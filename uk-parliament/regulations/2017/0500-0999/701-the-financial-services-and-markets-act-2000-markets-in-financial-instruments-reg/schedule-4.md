@@ -73,8 +73,8 @@ In section 381E(3) of the Income Tax (Trading and Other Income) Act 2005 [^c2301
 (2) In section 474(1) [^c23019871] (minor definitions for Part 15), in the definition of “MiFID investment firm”—
 
 - (a) for the words from “Directive” to “2004” substitute “ Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 ”;
-- (b)[^key-4a7818de617d21397079f738ec22deb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-9ba9df929671badba52a59819979d230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4a7818de617d21397079f738ec22deb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9ba9df929671badba52a59819979d230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 494A [^c23019881] (interpretation), in the definition of “transferable securities”, for “Directive [2004/39/EC](https://www.legislation.gov.uk/eudr/2004/39)” substitute “ Directive 2014/65/EU ”.
 
@@ -179,9 +179,9 @@ In section 11(3)(b) of the Financial Services (Banking Reform) Act 2013 [^c23019
 
 [^c23019871]: Marginal citation: Section 474(1) was amended by [S.I. 2007/2932](https://www.legislation.gov.uk/uksi/2007/2932); there are other amendments but none is relevant.
 
-[^key-4a7818de617d21397079f738ec22deb3]: Textual amendment: [Sch. 4 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/9/2/b) revoked (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [37](https://www.legislation.gov.uk/uksi/2017/1255/regulation/37)
+[^c-4a7818de617d21397079f738ec22deb3]: Textual amendment: [Sch. 4 para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/9/2/b) revoked (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [37](https://www.legislation.gov.uk/uksi/2017/1255/regulation/37)
 
-[^key-9ba9df929671badba52a59819979d230]: Textual amendment: [Sch. 4 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/9/2/c) revoked (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [37](https://www.legislation.gov.uk/uksi/2017/1255/regulation/37)
+[^c-9ba9df929671badba52a59819979d230]: Textual amendment: [Sch. 4 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/9/2/c) revoked (2.1.2018) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (No.2) Regulations 2017 (S.I. 2017/1255)](https://www.legislation.gov.uk/uksi/2017/1255), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2017/1255/regulation/2/a), [37](https://www.legislation.gov.uk/uksi/2017/1255/regulation/37)
 
 [^c23019881]: Marginal citation: Section 494A was inserted by [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649); there are amendments to this section but none is relevant.
 

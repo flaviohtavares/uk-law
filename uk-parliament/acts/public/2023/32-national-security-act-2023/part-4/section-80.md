@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Offences: penalties[^key-8f27e234b0a9eed60d331bfe7e6f7204][^key-069478e79b7e65cd6422c43661e7d071]
+## 80. Offences: penalties[^c-8f27e234b0a9eed60d331bfe7e6f7204][^c-069478e79b7e65cd6422c43661e7d071]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f27e234b0a9eed60d331bfe7e6f7204]: Commencement: S. 80 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-8f27e234b0a9eed60d331bfe7e6f7204]: Commencement: S. 80 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-069478e79b7e65cd6422c43661e7d071]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/32/section/80) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-069478e79b7e65cd6422c43661e7d071]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2023/32/section/80) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

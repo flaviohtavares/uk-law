@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Disclosure of information[^key-6918999d85cac4a7359ccd4244f1955e]
+## 18. Disclosure of information[^c-6918999d85cac4a7359ccd4244f1955e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6918999d85cac4a7359ccd4244f1955e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/17/section/18) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-6918999d85cac4a7359ccd4244f1955e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2021/17/section/18) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206A. Notification to Commissioners[^key-2d0b331c30d291aeda2f67d58ba52203]
+## 206A. Notification to Commissioners[^c-2d0b331c30d291aeda2f67d58ba52203]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d0b331c30d291aeda2f67d58ba52203]: Textual amendment: [Reg. 206A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/206A) inserted (1.1.2021) by [The Value Added Tax (Amendment) Regulations 2020 (S.I. 2020/1384)](https://www.legislation.gov.uk/uksi/2020/1384), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1384/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1384/regulation/2/5)
+[^c-2d0b331c30d291aeda2f67d58ba52203]: Textual amendment: [Reg. 206A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/206A) inserted (1.1.2021) by [The Value Added Tax (Amendment) Regulations 2020 (S.I. 2020/1384)](https://www.legislation.gov.uk/uksi/2020/1384), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1384/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1384/regulation/2/5)

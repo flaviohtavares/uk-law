@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Grant or refusal of application for renewal[^key-2935984e83a17fede9ffefff6b03c0ef]
+## 67. Grant or refusal of application for renewal[^c-2935984e83a17fede9ffefff6b03c0ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Sections 65, 66 and 68 apply for the purposes of an application to renew a speci
 
 ## Annotations
 
-[^key-2935984e83a17fede9ffefff6b03c0ef]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2017/2/section/67) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(j)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/j) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-2935984e83a17fede9ffefff6b03c0ef]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2017/2/section/67) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(j)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/j) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

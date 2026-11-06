@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Abatement of works abandoned or decayed[^key-8f9384e76068315e38587f41f177f2f9]
+## 36. Abatement of works abandoned or decayed[^c-8f9384e76068315e38587f41f177f2f9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Where any of the offshore works or any part of them is abandoned or allowed to f
 
 ## Annotations
 
-[^key-8f9384e76068315e38587f41f177f2f9]: Commencement: Art. 36 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-8f9384e76068315e38587f41f177f2f9]: Commencement: Art. 36 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00042]: Footnote: Section 105(2) was substituted by section 69(3) of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).

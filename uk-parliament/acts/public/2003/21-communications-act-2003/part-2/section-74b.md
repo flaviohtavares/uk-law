@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74B. Review of access-related conditions[^key-52c4d70f9767a30461419282e3934e4e]
+## 74B. Review of access-related conditions[^c-52c4d70f9767a30461419282e3934e4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52c4d70f9767a30461419282e3934e4e]: Textual amendment: Ss. 74A, 74B inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/32)
+[^c-52c4d70f9767a30461419282e3934e4e]: Textual amendment: Ss. 74A, 74B inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/32)

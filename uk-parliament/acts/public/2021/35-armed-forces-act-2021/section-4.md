@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Summary hearings: power to rectify mistakes etc[^key-8e82d1f6ba133cd10c3aa1d645d9189f][^key-57d12e24136ae43a0e0502b4a2ec0fc6][^key-4ca6239698b43a09ab98541cdaeb4424]
+## 4. Summary hearings: power to rectify mistakes etc[^c-8e82d1f6ba133cd10c3aa1d645d9189f][^c-57d12e24136ae43a0e0502b4a2ec0fc6][^c-4ca6239698b43a09ab98541cdaeb4424]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8e82d1f6ba133cd10c3aa1d645d9189f]: Commencement: S. 4 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-8e82d1f6ba133cd10c3aa1d645d9189f]: Commencement: S. 4 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-57d12e24136ae43a0e0502b4a2ec0fc6]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/35/section/4) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b)
+[^c-57d12e24136ae43a0e0502b4a2ec0fc6]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/35/section/4) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b)
 
-[^key-4ca6239698b43a09ab98541cdaeb4424]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/35/section/4) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-4ca6239698b43a09ab98541cdaeb4424]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/35/section/4) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)

@@ -33,7 +33,7 @@ An Act to amend the law relating to education.
 
 \[29th July 1988\] [^c12668451]
 
-[^c12668461][^c12668471][^c12668481][^c12668491]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ab558a24c26eb026f13483572db8a532][^key-95b3722114e3fe457f41bcc196eefd0f][^key-5b7652067181c819fcd4d58815f11c51]
+[^c12668461][^c12668471][^c12668481][^c12668491]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ab558a24c26eb026f13483572db8a532][^c-95b3722114e3fe457f41bcc196eefd0f][^c-5b7652067181c819fcd4d58815f11c51]
 
 ## Contents
 
@@ -394,7 +394,7 @@ An Act to amend the law relating to education.
 
 *Extent: E+W+S*
 
-#### Chapter I — local authority Functions with respect to Higher and Further Education[^key-dd8a5cd1b7a66756b606dd2897e7636c]
+#### Chapter I — local authority Functions with respect to Higher and Further Education[^c-dd8a5cd1b7a66756b606dd2897e7636c]
 
 *Extent: E+W*
 
@@ -680,11 +680,11 @@ SCHEDULES
 
 [^c12668491]: Modification: Act: for any reference to the Education Assets Board there is substituted (1.10.1998) a reference to the Education Transfer Council by virtue of [School Standards and Framework Act 1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), [s. 136](https://www.legislation.gov.uk/ukpga/1998/31/section/136); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2212/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I)
 
-[^key-ab558a24c26eb026f13483572db8a532]: Modification: Act applied (E.W.) (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-ab558a24c26eb026f13483572db8a532]: Modification: Act applied (E.W.) (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-95b3722114e3fe457f41bcc196eefd0f]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-95b3722114e3fe457f41bcc196eefd0f]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-5b7652067181c819fcd4d58815f11c51]: Modification: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-5b7652067181c819fcd4d58815f11c51]: Modification: Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
 [^c12668501]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1988/40/part/I) (ss. 1-119) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39).
 
@@ -702,7 +702,7 @@ SCHEDULES
 
 [^c12673311]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1988/40/part/II) (ss. 120-161) modified (6. 5. 1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 84(2)](https://www.legislation.gov.uk/ukpga/1992/13/section/84/2); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1).
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
 
 [^c12673511]: Modification: Pt. II Ch. II (ss. 121-138) modified (temp. until 31. 3. 1993) (6. 5. 1992) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 64(1)](https://www.legislation.gov.uk/ukpga/1992/13/section/64/1); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Schs.1](https://www.legislation.gov.uk/uksi/1992/831/schedule/1) and 3.
 

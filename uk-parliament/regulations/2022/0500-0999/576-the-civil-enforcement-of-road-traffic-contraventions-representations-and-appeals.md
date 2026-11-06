@@ -38,13 +38,13 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-bdd8297c4f7094142af5059404c5734d][^key-8b72d76d097b11711b5348ca7d4a02bb][^key-edd1adaa6283811f7613ca6d6a940605][^key-a19ad32e87757d7275b9c34027774938]The Lord Chancellor makes these Regulations in exercise of the powers conferred by section 101B of the Road Traffic Regulation Act 1984[^f00001] (“the RTRA 1984”) and by sections 80 and 89(1) and (3) of the Traffic Management Act 2004[^f00002] (“the TMA 2004”).
+[^c-bdd8297c4f7094142af5059404c5734d][^c-8b72d76d097b11711b5348ca7d4a02bb][^c-edd1adaa6283811f7613ca6d6a940605][^c-a19ad32e87757d7275b9c34027774938]The Lord Chancellor makes these Regulations in exercise of the powers conferred by section 101B of the Road Traffic Regulation Act 1984[^f00001] (“the RTRA 1984”) and by sections 80 and 89(1) and (3) of the Traffic Management Act 2004[^f00002] (“the TMA 2004”).
 
-In accordance with section 134(5) of the RTRA 1984 and section 89(5) of the TMA 2004, a draft of these Regulations has been laid before, and approved by, a resolution of each House of Parliament.[^key-bdd8297c4f7094142af5059404c5734d][^key-8b72d76d097b11711b5348ca7d4a02bb][^key-edd1adaa6283811f7613ca6d6a940605][^key-a19ad32e87757d7275b9c34027774938][^key-aa3d1434c717c543ba47713e780851a0][^key-2bd9ed11b5bb6f0c9398a4ee91faa251][^key-6d9845cabae1f6f77bb1a61daa4cd3fa][^key-b8ccdb92f0827a215f150c6bde2c674b]
+In accordance with section 134(5) of the RTRA 1984 and section 89(5) of the TMA 2004, a draft of these Regulations has been laid before, and approved by, a resolution of each House of Parliament.[^c-bdd8297c4f7094142af5059404c5734d][^c-8b72d76d097b11711b5348ca7d4a02bb][^c-edd1adaa6283811f7613ca6d6a940605][^c-a19ad32e87757d7275b9c34027774938][^c-aa3d1434c717c543ba47713e780851a0][^c-2bd9ed11b5bb6f0c9398a4ee91faa251][^c-6d9845cabae1f6f77bb1a61daa4cd3fa][^c-b8ccdb92f0827a215f150c6bde2c674b]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement, extent and application[^key-32c115b0ce419771695522f7ba0f30ea]
+### 1. Citation, commencement, extent and application[^c-32c115b0ce419771695522f7ba0f30ea]
 
 (1) These Regulations may be cited as the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022.
 
@@ -52,7 +52,7 @@ In accordance with section 134(5) of the RTRA 1984 and section 89(5) of the TMA 
 
 (3) These Regulations extend to England and Wales, and apply only in relation to England.
 
-### 2. Interpretation of Parts 1 to 5[^key-74160a9629719e3478a459e73139a3c1]
+### 2. Interpretation of Parts 1 to 5[^c-74160a9629719e3478a459e73139a3c1]
 
 (1) In this Part and Parts 2 to 5—
 
@@ -98,7 +98,7 @@ it is authorised or required by the 2022 General Regulations or these Regulation
 
 ### CHAPTER 1 — Information to be included in regulation 9 penalty charge notices and enforcement notices
 
-#### 3. Information about right to make representations or appeal to be included in regulation 9 penalty charge notices and enforcement notices[^key-34cbfade6ab50cee18c15197f0b0563f]
+#### 3. Information about right to make representations or appeal to be included in regulation 9 penalty charge notices and enforcement notices[^c-34cbfade6ab50cee18c15197f0b0563f]
 
 (1) A regulation 9 penalty charge notice must include the following information—
 
@@ -134,14 +134,14 @@ it is authorised or required by the 2022 General Regulations or these Regulation
 
 ### CHAPTER 2 — Enforcement notices: representations and appeals
 
-#### 4. Application of Chapter 2[^key-cf7020d4d4e8184b44b06eb03783df33]
+#### 4. Application of Chapter 2[^c-cf7020d4d4e8184b44b06eb03783df33]
 
 This Chapter applies where a person—
 
 - (a) is served with a notice to owner, or
 - (b) is served with a regulation 10 penalty charge notice and the penalty charge to which it relates has not been paid.
 
-#### 5. Representations against the enforcement notice[^key-9a0a2f21f2530336e4684f81bbfa2983]
+#### 5. Representations against the enforcement notice[^c-9a0a2f21f2530336e4684f81bbfa2983]
 
 (1) The recipient may make representations against the enforcement notice to the enforcement authority which served it on the recipient.
 
@@ -187,7 +187,7 @@ This Chapter applies where a person—
 - “**hiring agreement**” and “**vehicle-hire firm**” have the same meanings as in section 66 of the Road Traffic Offenders Act 1988[^f00004];
 - “**the material time**” means the time when the alleged contravention is said to have been committed.
 
-#### 6. Duties of an enforcement authority to which representations are made under regulation 5[^key-8f874ed125034c16258fa3a55e359f0f]
+#### 6. Duties of an enforcement authority to which representations are made under regulation 5[^c-8f874ed125034c16258fa3a55e359f0f]
 
 (1) This regulation applies where an enforcement authority receives representations from a recipient under regulation 5.
 
@@ -231,7 +231,7 @@ the authority must, within the period of 56 days beginning with the date on whic
 
 (8) The cancellation of an enforcement notice under this regulation does not prevent the enforcement authority from serving a new enforcement notice on another person in accordance with the 2022 General Regulations.
 
-#### 7. Appeal to an adjudicator against a decision to reject a recipient’s representations[^key-0ec602bf2ae3a3ab4b431350af9a3c72]
+#### 7. Appeal to an adjudicator against a decision to reject a recipient’s representations[^c-0ec602bf2ae3a3ab4b431350af9a3c72]
 
 (1) A recipient may appeal to an adjudicator against an enforcement authority’s decision not to accept their representations.
 
@@ -291,7 +291,7 @@ the adjudicator may recommend to the enforcement authority that it cancel the en
 
 ## PART 3 — Representations and appeals in relation to the immobilisation of vehicles
 
-### 8. Representations against immobilisation[^key-3be84a525e3d48f72ac3ee24964bbb5f]
+### 8. Representations against immobilisation[^c-3be84a525e3d48f72ac3ee24964bbb5f]
 
 (1) This regulation applies where—
 
@@ -336,7 +336,7 @@ the adjudicator may recommend to the enforcement authority that it cancel the en
 
 (8) In determining the form for making representations, the enforcement authority must act through the joint committee.
 
-### 9. Duties of an enforcement authority to which representations are made under regulation 8[^key-67f1f0fe49b4e444eb634ab6c61208c9]
+### 9. Duties of an enforcement authority to which representations are made under regulation 8[^c-67f1f0fe49b4e444eb634ab6c61208c9]
 
 (1) This regulation applies where an enforcement authority receives representations under regulation 8.
 
@@ -383,7 +383,7 @@ the authority must refund the appropriate sums.
 
 (10) Paragraphs (6), (8) and (9) do not require an enforcement authority to refund any sum to the extent (if any) to which it was properly paid.
 
-### 10. Appeal to an adjudicator against enforcement authority’s decision to reject representations[^key-3a067f44243e6d5f265039c21950df7f]
+### 10. Appeal to an adjudicator against enforcement authority’s decision to reject representations[^c-3a067f44243e6d5f265039c21950df7f]
 
 (1) A person (“**P**”) may appeal to an adjudicator against an enforcement authority’s decision not to accept that—
 
@@ -437,7 +437,7 @@ the adjudicator may recommend that the enforcement authority make such a refund.
 
 ## PART 4 — Representations and appeals in relation to removed vehicles
 
-### 11. Representations about a removed vehicle[^key-99d89214738b87cdf6fbfd6ae40b62eb]
+### 11. Representations about a removed vehicle[^c-99d89214738b87cdf6fbfd6ae40b62eb]
 
 (1) This regulation applies where, in relation to a vehicle found in a civil enforcement area for parking contraventions and removed under regulations made under section 99 of the RTRA 1984[^f00005], a person (“**P**”)—
 
@@ -481,7 +481,7 @@ the adjudicator may recommend that the enforcement authority make such a refund.
 
 (6) In determining the form for making representations, the enforcement authority must act through the joint committee.
 
-### 12. Duties of an enforcement authority to which representations are made under regulation 11[^key-52a09636364f3489ac089d2103b596eb]
+### 12. Duties of an enforcement authority to which representations are made under regulation 11[^c-52a09636364f3489ac089d2103b596eb]
 
 (1) This regulation applies where an enforcement authority receives representations under regulation 11.
 
@@ -544,7 +544,7 @@ the authority must, within the period of 56 days beginning with the date on whic
   - (i) the relevant charges that R was required to pay under section 101A(1) of the RTRA 1984, or
   - (ii) the amount that was deducted from the proceeds of sale of the vehicle in respect of the relevant charges in accordance with section 101A(2) of that Act.
 
-### 13. Appeal to an adjudicator against enforcement authority’s decision to reject representations[^key-b3a662f4fbd93e97899414bcc7425162]
+### 13. Appeal to an adjudicator against enforcement authority’s decision to reject representations[^c-b3a662f4fbd93e97899414bcc7425162]
 
 (1) A person (“**P**”) may appeal to an adjudicator against an enforcement authority’s decision not to accept that—
 
@@ -600,21 +600,21 @@ the adjudicator may recommend that the enforcement authority make such a refund.
 
 ## PART 5 — Miscellaneous provisions
 
-### 14. Proceedings in connection with invalid notices[^key-98c71c65ab1753e4b006d3a40e67bfca]
+### 14. Proceedings in connection with invalid notices[^c-98c71c65ab1753e4b006d3a40e67bfca]
 
 Part 4 of Schedule 1 contains provision for, and in connection with, the referral to an adjudicator of a case in which an order of a county court is deemed to have been revoked under regulation 23 of the 2022 General Regulations.
 
-### 15. Procedure of adjudicators[^key-66450ea0337b0c52367223c88ace4739]
+### 15. Procedure of adjudicators[^c-66450ea0337b0c52367223c88ace4739]
 
 An adjudicator may regulate their own procedure, subject to the provisions of Schedule 1.
 
-### 16. Recovery of sums payable[^key-d571ab77752a9f12ceda76e45983e0f1]
+### 16. Recovery of sums payable[^c-d571ab77752a9f12ceda76e45983e0f1]
 
 (1) Any amount which is payable under any provision of these Regulations requiring an enforcement authority to refund any sum is, if a county court so orders, to be recoverable by the person to whom the amount is payable as if it were payable under a county court order.
 
 (2) Paragraph (1) does not apply to a penalty charge which remains payable following an appeal under regulation 7.
 
-### 17. The register[^key-2a07a5f7bd5d301bcaaf1af82416d12f]
+### 17. The register[^c-2a07a5f7bd5d301bcaaf1af82416d12f]
 
 (1) The proper officer must establish and maintain a register for the purpose of recording proceedings conducted under these Regulations.
 
@@ -626,7 +626,7 @@ An adjudicator may regulate their own procedure, subject to the provisions of Sc
 
 (5) A document purporting to be certified by the proper officer to be a true copy of any entry of a decision in a register is to be evidence of the entry and of the matters contained in it.
 
-### 18. False representations[^key-7d59d3e9c8aebedf8a3ea9ac7b288b98]
+### 18. False representations[^c-7d59d3e9c8aebedf8a3ea9ac7b288b98]
 
 (1) A person who—
 
@@ -641,11 +641,11 @@ commits an offence.
 
 ### CHAPTER 1 — Revocation of the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007 and related provisions
 
-#### 19. Revocation of the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007[^key-28d754830659d6b3a14a1ffa4175cbbb]
+#### 19. Revocation of the Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007[^c-28d754830659d6b3a14a1ffa4175cbbb]
 
 The Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007[^f00009] are revoked.
 
-#### 20. Interpretation of Chapter[^key-62510754b551e6191db573f52df22c1e]
+#### 20. Interpretation of Chapter[^c-62510754b551e6191db573f52df22c1e]
 
 (1) In this Chapter—
 
@@ -657,7 +657,7 @@ The Civil Enforcement of Parking Contraventions (England) Representations and Ap
 
 (2) This Chapter is without prejudice to section 16 of the Interpretation Act 1978.
 
-#### 21. Saving and transitional provisions: representations and appeals in relation to penalty charges for parking contraventions occurring before the commencement date[^key-10271f3e18790f4b62784f6bb7e44f49]
+#### 21. Saving and transitional provisions: representations and appeals in relation to penalty charges for parking contraventions occurring before the commencement date[^c-10271f3e18790f4b62784f6bb7e44f49]
 
 (1) Parts 2 and 5 of, and the Schedule to, the 2007 Appeals Regulations continue to have effect, on and after the commencement date, for the purposes of, and in connection with—
 
@@ -691,7 +691,7 @@ The Civil Enforcement of Parking Contraventions (England) Representations and Ap
   - (a) a penalty charge notice served under regulation 10 of the saved 2007 General Regulations on or after the commencement date, or
   - (b) a notice to owner served under regulation 19 of the saved 2007 General Regulations on or after that date.
 
-#### 22. Savings and transitional provisions: representations and appeals against immobilisation of vehicles before the commencement date[^key-b62ed4f22eea71184387b828c9a0172a]
+#### 22. Savings and transitional provisions: representations and appeals against immobilisation of vehicles before the commencement date[^c-b62ed4f22eea71184387b828c9a0172a]
 
 (1) Parts 3 and 5 of, and the Schedule to, the 2007 Appeals Regulations continue to have effect, on and after the commencement date, for the purposes of, and in connection with—
 
@@ -714,7 +714,7 @@ The Civil Enforcement of Parking Contraventions (England) Representations and Ap
 
 (3) For the purposes of paragraph (2)(a)(iii) “notice of appeal” and “proper officer” have the meanings they had for the purposes of Schedule 1 to the 2007 Appeals Regulations.
 
-#### 23. Savings and transitional provisions: representations and appeals in connection with removal of vehicles before the commencement date[^key-184e7baa2719f6de083f771b4760e57a]
+#### 23. Savings and transitional provisions: representations and appeals in connection with removal of vehicles before the commencement date[^c-184e7baa2719f6de083f771b4760e57a]
 
 (1) Parts 4 and 5 of, and the Schedule to, the 2007 Appeals Regulations continue to have effect, on and after the commencement date, for the purposes of, and in connection with—
 
@@ -746,7 +746,7 @@ The Civil Enforcement of Parking Contraventions (England) Representations and Ap
   - (a) found in a civil enforcement area for parking contraventions, and
   - (b) removed under regulations made under section 99 of the RTRA 1984.
 
-#### 24. Savings and transitional provisions: invalid notice cases[^key-8a392cb88444ae0b74f07820233aae87]
+#### 24. Savings and transitional provisions: invalid notice cases[^c-8a392cb88444ae0b74f07820233aae87]
 
 (1) Part 5 of, and the Schedule to, the 2007 Appeals Regulations continue to have effect, on and after the commencement date, for the purposes of any case which was referred to an adjudicator under paragraph 19 of the Schedule to those Regulations before the commencement date.
 
@@ -762,7 +762,7 @@ The Civil Enforcement of Parking Contraventions (England) Representations and Ap
 
 ### CHAPTER 2 — Other consequential provisions
 
-#### 25. Consequential amendments[^key-0f2028f85060b19c71d3023f9b1a892f]
+#### 25. Consequential amendments[^c-0f2028f85060b19c71d3023f9b1a892f]
 
 Schedule 2 contains amendments in consequence of these Regulations.
 
@@ -780,7 +780,7 @@ Regulations 7, 10, 13 and 14,
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-13f301902da8b7b391c0c72b8f1c16a6]
+#### 1. Interpretation[^c-13f301902da8b7b391c0c72b8f1c16a6]
 
 (1) In this Schedule—
 
@@ -801,7 +801,7 @@ Regulations 7, 10, 13 and 14,
 
 ### PART 2 — Initiating an appeal
 
-**2.**[^key-da969d4a48fd137cbb5007991330c852] (1) An appeal must be made by delivering a notice of appeal to the proper officer.
+**2.**[^c-da969d4a48fd137cbb5007991330c852] (1) An appeal must be made by delivering a notice of appeal to the proper officer.
 
 (2) A notice of appeal—
 
@@ -822,7 +822,7 @@ Regulations 7, 10, 13 and 14,
 - (a) the appellant must include in the notice a statement of the reasons which are relied upon for justifying the delay, and
 - (b) the adjudicator must treat any such statement of reasons for delay as a request to extend that period.
 
-#### 3. Action upon receipt of notice of appeal and copy of such notice[^key-6c0a8b89587c14bc167d0a63c6adf9ef]
+#### 3. Action upon receipt of notice of appeal and copy of such notice[^c-6c0a8b89587c14bc167d0a63c6adf9ef]
 
 (1) Upon receiving a notice of appeal the proper officer must—
 
@@ -856,7 +856,7 @@ Regulations 7, 10, 13 and 14,
 
 (8) In this paragraph “**notice of rejection**” means a notice of a decision made by an enforcement authority not to accept representations made to it under regulation 5, 8 or 11;
 
-#### 4. Further representations by the parties[^key-9ac20f5d41f5826729abf5aaae18e52d]
+#### 4. Further representations by the parties[^c-9ac20f5d41f5826729abf5aaae18e52d]
 
 (1) Any party may deliver representations in relation to the matters referred to in regulation 5(2)(b), 8(5) or 11(3), as appropriate in the circumstances, to the proper officer at any time before the appeal is determined.
 
@@ -879,7 +879,7 @@ Regulations 7, 10, 13 and 14,
 
 (9) This paragraph is without prejudice to the powers of an adjudicator under paragraph 10.
 
-#### 5. Adjudicator’s power to require attendance of witnesses and production of documents[^key-59692c3de6e5b4db57e1636512240170]
+#### 5. Adjudicator’s power to require attendance of witnesses and production of documents[^c-59692c3de6e5b4db57e1636512240170]
 
 (1) The adjudicator may send a notice, in writing, to any person (including a party to the appeal) requiring that person to—
 
@@ -904,7 +904,7 @@ Regulations 7, 10, 13 and 14,
 - (a) commits an offence, and
 - (b) is liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-#### 6. Disposal of an appeal without a hearing[^key-f1aa03792669fd7e48117068898dcb48]
+#### 6. Disposal of an appeal without a hearing[^c-f1aa03792669fd7e48117068898dcb48]
 
 (1) Subject to the following provisions of this paragraph, the adjudicator may dispose of an appeal without a hearing.
 
@@ -921,7 +921,7 @@ Regulations 7, 10, 13 and 14,
 - (a) there has elapsed a period of 28 days beginning with the date on which an acknowledgment is sent in accordance with paragraph 3(1) during which neither party has requested a hearing, or
 - (b) both parties have consented to its disposal without a hearing.
 
-#### 7. Notice of time and place of hearing[^key-6fce07a7252cc14d26e89634eafdf98d]
+#### 7. Notice of time and place of hearing[^c-6fce07a7252cc14d26e89634eafdf98d]
 
 (1) This paragraph has effect where a hearing is to be held for the purpose of disposing of an appeal.
 
@@ -941,7 +941,7 @@ Regulations 7, 10, 13 and 14,
 
 (5) This paragraph applies to an adjourned hearing but, if before the adjournment, the time and place of the adjourned hearing are notified to all persons expected to attend, no further notice is required.
 
-#### 8. Public and private hearings and admission to a hearing[^key-8f55efaca8584b43bb35c281ee8923fb]
+#### 8. Public and private hearings and admission to a hearing[^c-8f55efaca8584b43bb35c281ee8923fb]
 
 (1) Subject to the provisions of this paragraph, a hearing is to be held in public.
 
@@ -957,7 +957,7 @@ Regulations 7, 10, 13 and 14,
 
 (5) Without prejudice to any other powers an adjudicator may have, the adjudicator may exclude from the hearing of an appeal, or part of it, any person whose conduct has disrupted, or is likely, in the opinion of the adjudicator, to disrupt, the hearing.
 
-#### 9. Appearances at a hearing[^key-da50909dda23eb83a61008e6073e9533]
+#### 9. Appearances at a hearing[^c-da50909dda23eb83a61008e6073e9533]
 
 (1) The parties may appear at the hearing of an appeal.
 
@@ -967,7 +967,7 @@ Regulations 7, 10, 13 and 14,
 
 (4) If in any particular case the adjudicator is satisfied that there are sufficient reasons for doing so, the adjudicator may prohibit a particular person from assisting or representing either party at the hearing.
 
-#### 10. Procedure at a hearing[^key-1792d1cb8cbcd01c22693cb32a6a6b94]
+#### 10. Procedure at a hearing[^c-1792d1cb8cbcd01c22693cb32a6a6b94]
 
 (1) At the beginning of the hearing of an appeal the adjudicator must explain the order of proceedings.
 
@@ -980,7 +980,7 @@ Regulations 7, 10, 13 and 14,
 
 (4) Without prejudice to paragraph 6(3)(c), where a party who has been sent a notice of the hearing of an appeal or has otherwise been notified of the hearing in accordance with paragraph 7 fails to attend the hearing, the adjudicator may dispose of the appeal in that party’s absence.
 
-#### 11. Decisions on appeals[^key-24799d427f18720ca98fdee44c38b328]
+#### 11. Decisions on appeals[^c-24799d427f18720ca98fdee44c38b328]
 
 (1) The adjudicator must give the reasons for a decision on an appeal.
 
@@ -994,7 +994,7 @@ Regulations 7, 10, 13 and 14,
 - (a) as soon as practicable record the decision in the register, together with the adjudicator’s reasons and any directions given, and
 - (b) send a copy of the register entry to each party.
 
-#### 12. Review of adjudicator’s decision[^key-e1ee7c38b88000c4d1bec45a04d2c19f]
+#### 12. Review of adjudicator’s decision[^c-e1ee7c38b88000c4d1bec45a04d2c19f]
 
 (1) The adjudicator may, on the application of a party, review—
 
@@ -1028,7 +1028,7 @@ Regulations 7, 10, 13 and 14,
 
 (6) Paragraph 11 applies to the confirmation, revocation or variation of a decision under this paragraph as it applies to a decision made on the disposal of an appeal.
 
-#### 13. Costs[^key-1ffab5b776c3fe9fa86a6ff50a221231]
+#### 13. Costs[^c-1ffab5b776c3fe9fa86a6ff50a221231]
 
 (1) An adjudicator must not normally make an order awarding costs and expenses.
 
@@ -1043,7 +1043,7 @@ Regulations 7, 10, 13 and 14,
 
 (4) An order must require the party against whom it is made to pay to the other party a specified sum in respect of the costs and expenses incurred by that other party in connection with the proceedings.
 
-#### 14. Consolidation of proceedings[^key-84962c4650a0fd943bc7a61e4cb47dbc]
+#### 14. Consolidation of proceedings[^c-84962c4650a0fd943bc7a61e4cb47dbc]
 
 (1) Where there are pending two or more appeals and at any time it appears to an adjudicator that—
 
@@ -1054,7 +1054,7 @@ the adjudicator may order that both or all of the appeals or those specified in 
 
 (2) An order must not be made under this paragraph unless all parties concerned have been given an opportunity to make representations against the making of the order.
 
-#### 15. Miscellaneous powers of adjudicators[^key-629aaca4dede91cee61718640a2cbe5b]
+#### 15. Miscellaneous powers of adjudicators[^c-629aaca4dede91cee61718640a2cbe5b]
 
 (1) An adjudicator may—
 
@@ -1066,13 +1066,13 @@ the adjudicator may order that both or all of the appeals or those specified in 
 
 (2) An adjudicator may exercise the powers conferred by this Schedule (other than paragraph 12) on the application of a party or on the adjudicator’s own motion.
 
-#### 16. Clerical errors[^key-de3ec18389ae7fe801a512dabc546968]
+#### 16. Clerical errors[^c-de3ec18389ae7fe801a512dabc546968]
 
 Clerical mistakes in any document recording a direction or decision of the adjudicator, or errors in such a document arising from an accidental slip or omission, may be corrected by the proper officer on the direction of the adjudicator.
 
 ### PART 3 — Service of documents
 
-#### 17. Service of documents on a party to an appeal[^key-98154be958ef6273cd746fe8c2f62d93]
+#### 17. Service of documents on a party to an appeal[^c-98154be958ef6273cd746fe8c2f62d93]
 
 (1) This paragraph applies to any notice or other document required or authorised by these Regulations to be sent to a party to an appeal (an “appeal document”).
 
@@ -1116,7 +1116,7 @@ Clerical mistakes in any document recording a direction or decision of the adjud
 - (b) where an appeal document is sent by fax or other means of electronic data transmission it is to be taken to have been delivered on the first working day after the day on which it was transmitted;
 - (c) where an appeal document is left at a document exchange in accordance with sub-paragraph (7) it is to be taken to have been delivered on the second working day after the day on which it was left.
 
-#### 18. Delivery of documents to the proper officer[^key-81cdef3f076b0d9b614c0c99e1fd0546]
+#### 18. Delivery of documents to the proper officer[^c-81cdef3f076b0d9b614c0c99e1fd0546]
 
 (1) This paragraph applies to any notice or other document required or authorised by or under this Schedule to be delivered to the proper officer (a “PO document”).
 
@@ -1133,7 +1133,7 @@ Clerical mistakes in any document recording a direction or decision of the adjud
 
 ### PART 4 — Directions as to invalid notices
 
-#### 19. Directions as to invalid notices[^key-65f3f96749b997e0d2bf3661017b2581]
+#### 19. Directions as to invalid notices[^c-65f3f96749b997e0d2bf3661017b2581]
 
 (1) This paragraph applies where—
 
@@ -1155,13 +1155,13 @@ Clerical mistakes in any document recording a direction or decision of the adjud
 
 Regulation 25
 
-### 1. Amendment of article 8A of the High Court and County Courts Jurisdiction Order 1991[^key-7bfdf5477db64980d29388dd76f37211]
+### 1. Amendment of article 8A of the High Court and County Courts Jurisdiction Order 1991[^c-7bfdf5477db64980d29388dd76f37211]
 
 (1) Article 8A of the High Court and County Courts Jurisdiction Order 1991[^f00014] is amended in accordance with this paragraph.
 
 (2) In paragraph (1)(c)(ii), for “Civil Enforcement of Parking Contraventions (England) Representations and Appeals Regulations 2007” substitute “Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022”.
 
-### 2. Amendment of Article 7 of the Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) Order 2007[^key-8991115467ec1435963844e232684885]
+### 2. Amendment of Article 7 of the Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) Order 2007[^c-8991115467ec1435963844e232684885]
 
 (1) Article 7 of the Traffic Management Act 2004 (Commencement No. 5 and Transitional Provisions) (England) Order 2007[^f00015] is amended in accordance with this paragraph.
 
@@ -1174,7 +1174,7 @@ Regulation 25
 
 (4) In paragraph (5), for “4” substitute “5”.
 
-### 3. Amendment of the Penalty Charges Enforcement (London) Regulations 2012[^key-1710b71fab6b579927467f1f58661367]
+### 3. Amendment of the Penalty Charges Enforcement (London) Regulations 2012[^c-1710b71fab6b579927467f1f58661367]
 
 (1) The Penalty Charges Enforcement (London) Regulations 2012[^f00016] are amended as follows.
 
@@ -1185,7 +1185,7 @@ Regulation 25
 - (a) in sub-paragraph (iv), for “7(4)”, substitute “7(8)”; and
 - (b) in the words after that sub-paragraph, for “7(5)”, substitute “7(9)”.
 
-### 4. Amendment of the Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015[^key-aec3e654272320a133417c85765f13c8]
+### 4. Amendment of the Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015[^c-aec3e654272320a133417c85765f13c8]
 
 (1) The Household Waste (Fixed Penalty and Penalty Charge) Regulations 2015[^f00017] are amended as follows.
 
@@ -1277,7 +1277,7 @@ Regulation 25
   - (viii) in sub-paragraph (6), for “regulation 4(2)(b), 8(4) or 11(4)” substitute “regulation 5(2)(b), 8(5) or 11(3)”;
   - (ix) omit sub-paragraph (7).
 
-### 5. Amendment of the West Midlands Combined Authority (Functions and Amendment) Order 2017[^key-6ae434f4dbf664ae1232f53d3a320f20]
+### 5. Amendment of the West Midlands Combined Authority (Functions and Amendment) Order 2017[^c-6ae434f4dbf664ae1232f53d3a320f20]
 
 (1) Article 6 of the West Midlands Combined Authority (Functions and Amendment) Order 2017[^f00018] is amended as follows.
 
@@ -1289,7 +1289,7 @@ Regulation 25
 
 .
 
-### 6. Amendment of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^key-ffd36d603d89ee6f390c7520d44b301b]
+### 6. Amendment of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^c-ffd36d603d89ee6f390c7520d44b301b]
 
 (1) Article 24 of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^f00019] is amended as follows.
 
@@ -1332,51 +1332,51 @@ An Explanatory Memorandum has been published alongside this instrument at www.le
 
 ## Annotations
 
-[^key-bdd8297c4f7094142af5059404c5734d]: Modification: Regulations applied (with modifications) (31.5.2022) by [S.I. 2015/969](https://www.legislation.gov.uk/uksi/2015/969), [reg. 4](https://www.legislation.gov.uk/uksi/2015/969/regulation/4), [Sch](https://www.legislation.gov.uk/uksi/2015/969/schedule) (as amended by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4))
+[^c-bdd8297c4f7094142af5059404c5734d]: Modification: Regulations applied (with modifications) (31.5.2022) by [S.I. 2015/969](https://www.legislation.gov.uk/uksi/2015/969), [reg. 4](https://www.legislation.gov.uk/uksi/2015/969/regulation/4), [Sch](https://www.legislation.gov.uk/uksi/2015/969/schedule) (as amended by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/4))
 
-[^key-8b72d76d097b11711b5348ca7d4a02bb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1432/article/15)
+[^c-8b72d76d097b11711b5348ca7d4a02bb]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1432/article/15)
 
-[^key-edd1adaa6283811f7613ca6d6a940605]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/232/regulation/17)
+[^c-edd1adaa6283811f7613ca6d6a940605]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/232/regulation/17)
 
-[^key-a19ad32e87757d7275b9c34027774938]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576) modified (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [25(3)](https://www.legislation.gov.uk/uksi/2024/402/article/25/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-a19ad32e87757d7275b9c34027774938]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576) modified (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [25(3)](https://www.legislation.gov.uk/uksi/2024/402/article/25/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
 [^f00001]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27). Section 101B was inserted by paragraph 3(1) of Schedule 11 to the Traffic Management Act [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), and was amended by [S.I. 2007/1756](https://www.legislation.gov.uk/uksi/2007/1756). Section 134(5) was amended by [S.I. 2007/1756](https://www.legislation.gov.uk/uksi/2007/1756).
 
 [^f00002]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-aa3d1434c717c543ba47713e780851a0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2025/117/regulation/16)
+[^c-aa3d1434c717c543ba47713e780851a0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2025/117/regulation/16)
 
-[^key-2bd9ed11b5bb6f0c9398a4ee91faa251]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/115/regulation/12)
+[^c-2bd9ed11b5bb6f0c9398a4ee91faa251]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/115/regulation/12)
 
-[^key-6d9845cabae1f6f77bb1a61daa4cd3fa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [9](https://www.legislation.gov.uk/uksi/2025/113/article/9)
+[^c-6d9845cabae1f6f77bb1a61daa4cd3fa]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [9](https://www.legislation.gov.uk/uksi/2025/113/article/9)
 
-[^key-b8ccdb92f0827a215f150c6bde2c674b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/118/regulation/12)
+[^c-b8ccdb92f0827a215f150c6bde2c674b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2022/576): functions made exercisable concurrently (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/118/regulation/12)
 
-[^key-32c115b0ce419771695522f7ba0f30ea]: Commencement: Reg. 1 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-32c115b0ce419771695522f7ba0f30ea]: Commencement: Reg. 1 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2022/71](https://www.legislation.gov.uk/uksi/2022/71).
 
-[^key-74160a9629719e3478a459e73139a3c1]: Commencement: Reg. 2 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-74160a9629719e3478a459e73139a3c1]: Commencement: Reg. 2 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-34cbfade6ab50cee18c15197f0b0563f]: Commencement: Reg. 3 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-34cbfade6ab50cee18c15197f0b0563f]: Commencement: Reg. 3 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-cf7020d4d4e8184b44b06eb03783df33]: Commencement: Reg. 4 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-cf7020d4d4e8184b44b06eb03783df33]: Commencement: Reg. 4 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-9a0a2f21f2530336e4684f81bbfa2983]: Commencement: Reg. 5 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-9a0a2f21f2530336e4684f81bbfa2983]: Commencement: Reg. 5 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00004]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53). The definition of “hiring agreement” in section 66(8) was amended by the Road Safety Act [2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-8f874ed125034c16258fa3a55e359f0f]: Commencement: Reg. 6 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-8f874ed125034c16258fa3a55e359f0f]: Commencement: Reg. 6 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-0ec602bf2ae3a3ab4b431350af9a3c72]: Commencement: Reg. 7 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-0ec602bf2ae3a3ab4b431350af9a3c72]: Commencement: Reg. 7 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-3be84a525e3d48f72ac3ee24964bbb5f]: Commencement: Reg. 8 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-3be84a525e3d48f72ac3ee24964bbb5f]: Commencement: Reg. 8 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-67f1f0fe49b4e444eb634ab6c61208c9]: Commencement: Reg. 9 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-67f1f0fe49b4e444eb634ab6c61208c9]: Commencement: Reg. 9 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-3a067f44243e6d5f265039c21950df7f]: Commencement: Reg. 10 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-3a067f44243e6d5f265039c21950df7f]: Commencement: Reg. 10 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-99d89214738b87cdf6fbfd6ae40b62eb]: Commencement: Reg. 11 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-99d89214738b87cdf6fbfd6ae40b62eb]: Commencement: Reg. 11 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00005]: Footnote: The Regulations that currently apply in England are the Removal and Disposal of Vehicles Regulations 1986 ([S.I. 1986/183](https://www.legislation.gov.uk/uksi/1986/183)).
 
@@ -1386,102 +1386,102 @@ An Explanatory Memorandum has been published alongside this instrument at www.le
 
 [^f00008]: Footnote: [S.I. 1986/183](https://www.legislation.gov.uk/uksi/1986/183). Regulation 5C was inserted by [S.I. 2007/3484](https://www.legislation.gov.uk/uksi/2007/3484), it was amended by [S.I. 2021/461](https://www.legislation.gov.uk/uksi/2021/461).
 
-[^key-52a09636364f3489ac089d2103b596eb]: Commencement: Reg. 12 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-52a09636364f3489ac089d2103b596eb]: Commencement: Reg. 12 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-b3a662f4fbd93e97899414bcc7425162]: Commencement: Reg. 13 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-b3a662f4fbd93e97899414bcc7425162]: Commencement: Reg. 13 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-98c71c65ab1753e4b006d3a40e67bfca]: Commencement: Reg. 14 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-98c71c65ab1753e4b006d3a40e67bfca]: Commencement: Reg. 14 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-66450ea0337b0c52367223c88ace4739]: Commencement: Reg. 15 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-66450ea0337b0c52367223c88ace4739]: Commencement: Reg. 15 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-d571ab77752a9f12ceda76e45983e0f1]: Commencement: Reg. 16 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-d571ab77752a9f12ceda76e45983e0f1]: Commencement: Reg. 16 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-2a07a5f7bd5d301bcaaf1af82416d12f]: Commencement: Reg. 17 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-2a07a5f7bd5d301bcaaf1af82416d12f]: Commencement: Reg. 17 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-7d59d3e9c8aebedf8a3ea9ac7b288b98]: Commencement: Reg. 18 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-7d59d3e9c8aebedf8a3ea9ac7b288b98]: Commencement: Reg. 18 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-28d754830659d6b3a14a1ffa4175cbbb]: Commencement: Reg. 19 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-28d754830659d6b3a14a1ffa4175cbbb]: Commencement: Reg. 19 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2007/3482](https://www.legislation.gov.uk/uksi/2007/3482).
 
-[^key-62510754b551e6191db573f52df22c1e]: Commencement: Reg. 20 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-62510754b551e6191db573f52df22c1e]: Commencement: Reg. 20 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2007/3483](https://www.legislation.gov.uk/uksi/2007/3483). The Regulations were revoked, with savings, by the 2022 General Regulations.
 
-[^key-10271f3e18790f4b62784f6bb7e44f49]: Commencement: Reg. 21 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-10271f3e18790f4b62784f6bb7e44f49]: Commencement: Reg. 21 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-b62ed4f22eea71184387b828c9a0172a]: Commencement: Reg. 22 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-b62ed4f22eea71184387b828c9a0172a]: Commencement: Reg. 22 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-184e7baa2719f6de083f771b4760e57a]: Commencement: Reg. 23 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-184e7baa2719f6de083f771b4760e57a]: Commencement: Reg. 23 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00011]: Footnote: “The relevant charges” is defined, in the case of a vehicle in a civil enforcement area for parking contraventions, in section 101A(3) of the RTRA 1984.
 
-[^key-8a392cb88444ae0b74f07820233aae87]: Commencement: Reg. 24 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-8a392cb88444ae0b74f07820233aae87]: Commencement: Reg. 24 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-0f2028f85060b19c71d3023f9b1a892f]: Commencement: Reg. 25 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-0f2028f85060b19c71d3023f9b1a892f]: Commencement: Reg. 25 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-13f301902da8b7b391c0c72b8f1c16a6]: Commencement: Sch. 1 para. 1 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-13f301902da8b7b391c0c72b8f1c16a6]: Commencement: Sch. 1 para. 1 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-da969d4a48fd137cbb5007991330c852]: Commencement: Sch. 1 para. 2 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-da969d4a48fd137cbb5007991330c852]: Commencement: Sch. 1 para. 2 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-6c0a8b89587c14bc167d0a63c6adf9ef]: Commencement: Sch. 1 para. 3 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-6c0a8b89587c14bc167d0a63c6adf9ef]: Commencement: Sch. 1 para. 3 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-9ac20f5d41f5826729abf5aaae18e52d]: Commencement: Sch. 1 para. 4 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-9ac20f5d41f5826729abf5aaae18e52d]: Commencement: Sch. 1 para. 4 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-59692c3de6e5b4db57e1636512240170]: Commencement: Sch. 1 para. 5 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-59692c3de6e5b4db57e1636512240170]: Commencement: Sch. 1 para. 5 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-f1aa03792669fd7e48117068898dcb48]: Commencement: Sch. 1 para. 6 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-f1aa03792669fd7e48117068898dcb48]: Commencement: Sch. 1 para. 6 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-6fce07a7252cc14d26e89634eafdf98d]: Commencement: Sch. 1 para. 7 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-6fce07a7252cc14d26e89634eafdf98d]: Commencement: Sch. 1 para. 7 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-8f55efaca8584b43bb35c281ee8923fb]: Commencement: Sch. 1 para. 8 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-8f55efaca8584b43bb35c281ee8923fb]: Commencement: Sch. 1 para. 8 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-da50909dda23eb83a61008e6073e9533]: Commencement: Sch. 1 para. 9 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-da50909dda23eb83a61008e6073e9533]: Commencement: Sch. 1 para. 9 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-1792d1cb8cbcd01c22693cb32a6a6b94]: Commencement: Sch. 1 para. 10 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-1792d1cb8cbcd01c22693cb32a6a6b94]: Commencement: Sch. 1 para. 10 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-24799d427f18720ca98fdee44c38b328]: Commencement: Sch. 1 para. 11 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-24799d427f18720ca98fdee44c38b328]: Commencement: Sch. 1 para. 11 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-e1ee7c38b88000c4d1bec45a04d2c19f]: Commencement: Sch. 1 para. 12 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-e1ee7c38b88000c4d1bec45a04d2c19f]: Commencement: Sch. 1 para. 12 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-1ffab5b776c3fe9fa86a6ff50a221231]: Commencement: Sch. 1 para. 13 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-1ffab5b776c3fe9fa86a6ff50a221231]: Commencement: Sch. 1 para. 13 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-84962c4650a0fd943bc7a61e4cb47dbc]: Commencement: Sch. 1 para. 14 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-84962c4650a0fd943bc7a61e4cb47dbc]: Commencement: Sch. 1 para. 14 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-629aaca4dede91cee61718640a2cbe5b]: Commencement: Sch. 1 para. 15 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-629aaca4dede91cee61718640a2cbe5b]: Commencement: Sch. 1 para. 15 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-de3ec18389ae7fe801a512dabc546968]: Commencement: Sch. 1 para. 16 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-de3ec18389ae7fe801a512dabc546968]: Commencement: Sch. 1 para. 16 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-98154be958ef6273cd746fe8c2f62d93]: Commencement: Sch. 1 para. 17 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-98154be958ef6273cd746fe8c2f62d93]: Commencement: Sch. 1 para. 17 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00013]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-81cdef3f076b0d9b614c0c99e1fd0546]: Commencement: Sch. 1 para. 18 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-81cdef3f076b0d9b614c0c99e1fd0546]: Commencement: Sch. 1 para. 18 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-65f3f96749b997e0d2bf3661017b2581]: Commencement: Sch. 1 para. 19 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-65f3f96749b997e0d2bf3661017b2581]: Commencement: Sch. 1 para. 19 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
-[^key-7bfdf5477db64980d29388dd76f37211]: Commencement: Sch. 2 para. 1 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-7bfdf5477db64980d29388dd76f37211]: Commencement: Sch. 2 para. 1 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724). Article 8A was inserted by [S.I. 1993/1407](https://www.legislation.gov.uk/uksi/1993/1407), and paragraph (1)(a)(iii) to (v) was inserted by [S.I. 2009/577](https://www.legislation.gov.uk/uksi/2009/577). There are other amendments to Article 8A but none is relevant.
 
-[^key-8991115467ec1435963844e232684885]: Commencement: Sch. 2 para. 2 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-8991115467ec1435963844e232684885]: Commencement: Sch. 2 para. 2 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), as amended by [S.I. 2008/488](https://www.legislation.gov.uk/uksi/2008/488).
 
-[^key-1710b71fab6b579927467f1f58661367]: Commencement: Sch. 2 para. 3 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-1710b71fab6b579927467f1f58661367]: Commencement: Sch. 2 para. 3 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2012/1234](https://www.legislation.gov.uk/uksi/2012/1234).
 
-[^key-aec3e654272320a133417c85765f13c8]: Commencement: Sch. 2 para. 4 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-aec3e654272320a133417c85765f13c8]: Commencement: Sch. 2 para. 4 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2015/969](https://www.legislation.gov.uk/uksi/2015/969).
 
-[^key-6ae434f4dbf664ae1232f53d3a320f20]: Commencement: Sch. 2 para. 5 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-6ae434f4dbf664ae1232f53d3a320f20]: Commencement: Sch. 2 para. 5 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2017/510](https://www.legislation.gov.uk/uksi/2017/510).
 
-[^key-ffd36d603d89ee6f390c7520d44b301b]: Commencement: Sch. 2 para. 6 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
+[^c-ffd36d603d89ee6f390c7520d44b301b]: Commencement: Sch. 2 para. 6 in force at 31.5.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2021/112](https://www.legislation.gov.uk/uksi/2021/112).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Deductions for pension payment and PPF payment[^key-a65bbe0036a98524c402280c22ace2a8]
+## 67. Deductions for pension payment and PPF payment[^c-a65bbe0036a98524c402280c22ace2a8]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ the amount of that allowance is to be reduced by an amount equal to 50 per cent.
 
 ## Annotations
 
-[^key-a65bbe0036a98524c402280c22ace2a8]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2016/219/regulation/67) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-a65bbe0036a98524c402280c22ace2a8]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2016/219/regulation/67) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

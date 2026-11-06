@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Adjustment of account after early payment of deferred pension ceases[^key-2ceb38bb22a3827e873f84d680fc4152]
+## 47. Adjustment of account after early payment of deferred pension ceases[^c-2ceb38bb22a3827e873f84d680fc4152]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ When a deferred member who has received the early payment of a deferred pension 
 
 ## Annotations
 
-[^key-2ceb38bb22a3827e873f84d680fc4152]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/2848/regulation/47) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2ceb38bb22a3827e873f84d680fc4152]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/2848/regulation/47) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

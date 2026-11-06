@@ -42,17 +42,17 @@ The Secretary of State makes this Order—
 - (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
 - (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
 
-## 1. Citation and commencement[^key-29ade558fcff9798b6d604402c425d30]
+## 1. Citation and commencement[^c-29ade558fcff9798b6d604402c425d30]
 
 (1) This Order may be cited as the Offshore Installations (Safety Zones) Order 2015.
 
 (2) This Order comes into force on 18th March 2015 except for article 2(1) which comes into force as provided in article 2(2).
 
-## 2. Establishment of safety zones[^key-da6a6f0f9d7ac3333effca1278c42322][^key-fef91d1d6dcaa256b19f91425c316918]
+## 2. Establishment of safety zones[^c-da6a6f0f9d7ac3333effca1278c42322][^c-fef91d1d6dcaa256b19f91425c316918]
 
-(1)[^key-da6a6f0f9d7ac3333effca1278c42322] A safety zone is established around each installation specified in column 1 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of the Schedule.
+(1)[^c-da6a6f0f9d7ac3333effca1278c42322] A safety zone is established around each installation specified in column 1 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of the Schedule.
 
-(2)[^key-fef91d1d6dcaa256b19f91425c316918] Paragraph (1) comes into force, as respects each installation specified in column 1 of the Schedule, when the installation arrives at its station.
+(2)[^c-fef91d1d6dcaa256b19f91425c316918] Paragraph (1) comes into force, as respects each installation specified in column 1 of the Schedule, when the installation arrives at its station.
 
 Signed by authority of the Secretary of State for Work and Pensions
 
@@ -64,7 +64,7 @@ Department for Work and Pensions
 
 23rd February 2015
 
-## SCHEDULE — INSTALLATIONS[^key-d95964030b6207e09d8f688d7b3b8557]
+## SCHEDULE — INSTALLATIONS[^c-d95964030b6207e09d8f688d7b3b8557]
 
 Article 2
 
@@ -75,7 +75,7 @@ Article 2
 | Catcher Area Development Project, Block 28/9a, Varadero Field | 56°48.37′ North | 00°42.30′ East |
 | Cawdor Manifold and Production Wells, Block 30/13a**,** Cawdor Field | 56°32.35′ North | 02°34.47′ East |
 | Cayley/Montrose Intermediate Towheads, Block 22/17s, Cayley Field | 57°26.16′ North | 01°18.42′ East |
-| Cladhan Field Development Project, Block 210/9a and 210/30a, Cladhan Field | 61°08.86′ North[^key-271530a9b27c6c54b6e2da161c52dcbe] | 00°47.17′ East |
+| Cladhan Field Development Project, Block 210/9a and 210/30a, Cladhan Field | 61°08.86′ North[^c-271530a9b27c6c54b6e2da161c52dcbe] | 00°47.17′ East |
 | Flyndre Manifold and Production Wells, Block 30/14a, Flyndre Field | 56°33.55′ North | 02°37.85′ East |
 | Golden Eagle Northern Drill Centre, Block 14/26a, Golden Eagle Field | 58°00.79′ North | 00°55.38′ West |
 | Shaw Drill Centre, Block 22/22a, Montrose Field | 57°17.81′ North | 01°21.77′ East |
@@ -116,14 +116,14 @@ It is estimated that the installations, which are not on station at the time of 
 
 [^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-29ade558fcff9798b6d604402c425d30]: Commencement: Art. 1 in force at 18.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/407/article/1/2)
+[^c-29ade558fcff9798b6d604402c425d30]: Commencement: Art. 1 in force at 18.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/407/article/1/2)
 
-[^key-da6a6f0f9d7ac3333effca1278c42322]: Commencement: Art. 2(1) comes into force in accordance with art. 2(2)
+[^c-da6a6f0f9d7ac3333effca1278c42322]: Commencement: Art. 2(1) comes into force in accordance with art. 2(2)
 
-[^key-fef91d1d6dcaa256b19f91425c316918]: Commencement: Art. 2(2) in force at 18.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/407/article/1/2)
+[^c-fef91d1d6dcaa256b19f91425c316918]: Commencement: Art. 2(2) in force at 18.3.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/407/article/1/2)
 
 [^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-d95964030b6207e09d8f688d7b3b8557]: Commencement: Sch. in force in accordance with art. 2(2)
+[^c-d95964030b6207e09d8f688d7b3b8557]: Commencement: Sch. in force in accordance with art. 2(2)
 
-[^key-271530a9b27c6c54b6e2da161c52dcbe]: Textual amendment: Words in Sch. substituted (14.7.2015) by [The Offshore Installations (Safety Zones) (No. 2) Order 2015 (S.I. 2015/1406)](https://www.legislation.gov.uk/uksi/2015/1406), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1406/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1406/article/3)
+[^c-271530a9b27c6c54b6e2da161c52dcbe]: Textual amendment: Words in Sch. substituted (14.7.2015) by [The Offshore Installations (Safety Zones) (No. 2) Order 2015 (S.I. 2015/1406)](https://www.legislation.gov.uk/uksi/2015/1406), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1406/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/1406/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Duty to promote particular objectives[^key-0bde576873c050eef9204a1d18d6f455][^key-78d15e6e37d1abe7fe12be916fab5e1d]
+## 163. Duty to promote particular objectives[^c-0bde576873c050eef9204a1d18d6f455][^c-78d15e6e37d1abe7fe12be916fab5e1d]
 
 *Extent: E+W+S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0bde576873c050eef9204a1d18d6f455]: Commencement: S. 163 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-0bde576873c050eef9204a1d18d6f455]: Commencement: S. 163 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-78d15e6e37d1abe7fe12be916fab5e1d]: Commencement: S. 163 in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-78d15e6e37d1abe7fe12be916fab5e1d]: Commencement: S. 163 in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)

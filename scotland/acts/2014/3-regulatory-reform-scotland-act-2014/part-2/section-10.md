@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Nomination of primary authorities[^key-552cdaf3bd80036fec8ede7db9897e1a]
+## 10. Nomination of primary authorities[^c-552cdaf3bd80036fec8ede7db9897e1a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-552cdaf3bd80036fec8ede7db9897e1a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/3/section/10) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-552cdaf3bd80036fec8ede7db9897e1a]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/3/section/10) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

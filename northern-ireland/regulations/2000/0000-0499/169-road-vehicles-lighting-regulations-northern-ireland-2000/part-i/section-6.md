@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Exceptions — vehicles towing or being towed[^key-1307883fd82183d86a001d99e47042ce]
+## 6. Exceptions — vehicles towing or being towed[^c-1307883fd82183d86a001d99e47042ce]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1307883fd82183d86a001d99e47042ce]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/169/regulation/6) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-1307883fd82183d86a001d99e47042ce]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/169/regulation/6) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

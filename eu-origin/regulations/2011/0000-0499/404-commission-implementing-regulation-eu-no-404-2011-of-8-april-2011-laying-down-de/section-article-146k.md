@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 146k. Exchange of inspection and surveillance related data[^key-73c9878b4f4c1ffacb83f109951c4329]
+## Article 146k. Exchange of inspection and surveillance related data[^c-73c9878b4f4c1ffacb83f109951c4329]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73c9878b4f4c1ffacb83f109951c4329]: Textual amendment: [Arts. 146e-153](https://www.legislation.gov.uk/eur/2011/404/article/146e) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(100)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/100); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73c9878b4f4c1ffacb83f109951c4329]: Textual amendment: [Arts. 146e-153](https://www.legislation.gov.uk/eur/2011/404/article/146e) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(100)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/100); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

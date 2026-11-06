@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 94. Payment of expenses from diocesan pastoral accounts and application of moneys[^key-d1c2b277062a33f9ed7f435815f59f4d]
+## 94. Payment of expenses from diocesan pastoral accounts and application of moneys[^c-d1c2b277062a33f9ed7f435815f59f4d]
 
 *Extent: E*
 
-(1) Expenses incurred by or on behalf of, or under the authority or direction of, the bishop of any diocese or any mission and pastoral committee or the Commissioners for the purposes of this Measure or any scheme or order made shall be paid out of the moneys standing to the credit of the diocesan pastoral account so far as those moneys suffice, but any such expenses shall not include the salaries or wages of persons in the regular employment of the bishop, any board or committee of the diocese [^key-ba04feba48b8393668423109deb64dac]... or any part of any such salaries or wages.
+(1) Expenses incurred by or on behalf of, or under the authority or direction of, the bishop of any diocese or any mission and pastoral committee or the Commissioners for the purposes of this Measure or any scheme or order made shall be paid out of the moneys standing to the credit of the diocesan pastoral account so far as those moneys suffice, but any such expenses shall not include the salaries or wages of persons in the regular employment of the bishop, any board or committee of the diocese [^c-ba04feba48b8393668423109deb64dac]... or any part of any such salaries or wages.
 
 (2) Where any such expenses are incurred in respect of more than one diocese the Commissioners shall, after consultation with the diocesan board of finance of each diocese concerned, determine the proportions in which the expenses are to be borne by each diocese.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1c2b277062a33f9ed7f435815f59f4d]: Commencement: S. 94 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-d1c2b277062a33f9ed7f435815f59f4d]: Commencement: S. 94 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-ba04feba48b8393668423109deb64dac]: Textual amendment: Words in s. 94(1) omitted (25.1.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(7)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/7), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)
+[^c-ba04feba48b8393668423109deb64dac]: Textual amendment: Words in s. 94(1) omitted (25.1.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 18(7)](https://www.legislation.gov.uk/ukcm/2024/1/section/18/7), [22(2)(h)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/h)

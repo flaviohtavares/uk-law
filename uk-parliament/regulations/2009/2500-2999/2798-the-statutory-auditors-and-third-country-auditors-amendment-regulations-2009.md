@@ -34,7 +34,7 @@ Companies
 
 Auditors
 
-The Statutory Auditors and Third Country Auditors (Amendment) Regulations 2009 (revoked)[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]
+The Statutory Auditors and Third Country Auditors (Amendment) Regulations 2009 (revoked)[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 21st October 2009
 
-[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]
+## 1. Citation and commencement[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transfer of audit working papers to third countries: revocation of transitional provision[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]
+## 2. Transfer of audit working papers to third countries: revocation of transitional provision[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6810a2541ff26dc4a7bd7c4641f3bc5]: Textual amendment: Regulations revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), [reg. 2](https://www.legislation.gov.uk/uksi/2013/1672/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)
+[^c-b6810a2541ff26dc4a7bd7c4641f3bc5]: Textual amendment: Regulations revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), [reg. 2](https://www.legislation.gov.uk/uksi/2013/1672/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)

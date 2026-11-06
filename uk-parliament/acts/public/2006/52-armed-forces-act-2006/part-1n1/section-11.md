@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Misconduct towards a superior officer[^key-65e93038fdd1a4fad8c6d59e5b7c1bd9][^key-4fcdb9a600041249e3b22f7502dbac88][^key-343c28e729aa5b79e6d17bc4d123f924]
+## 11. Misconduct towards a superior officer[^c-65e93038fdd1a4fad8c6d59e5b7c1bd9][^c-4fcdb9a600041249e3b22f7502dbac88][^c-343c28e729aa5b79e6d17bc4d123f924]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-65e93038fdd1a4fad8c6d59e5b7c1bd9]: Commencement: S. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-65e93038fdd1a4fad8c6d59e5b7c1bd9]: Commencement: S. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4fcdb9a600041249e3b22f7502dbac88]: Commencement: S. 11 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4fcdb9a600041249e3b22f7502dbac88]: Commencement: S. 11 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-343c28e729aa5b79e6d17bc4d123f924]: Modification: S. 11 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/826/regulation/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-343c28e729aa5b79e6d17bc4d123f924]: Modification: S. 11 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/826/regulation/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))

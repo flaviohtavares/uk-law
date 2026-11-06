@@ -41,7 +41,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development, in exercise of the powers conferred by sections 35(3), 35A(4) and (5)(a), (c)(i) and (d), 149(6), 160(9)(ea), 161(1), (3) and (7), 162(1)(b), 167(3)(b) to (d) and 171(1) to (4) of, and paragraphs 1 and 1A of Schedule 11 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(m), 124(1) and (2) and 165(1) of the Social Security Administration (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the concurrence of the Treasury, in so far as such concurrence is required[^f00004], by this statutory rule, which contains only regulations made by virtue of, or consequential upon, the Social Security Act (Northern Ireland) 2002[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-12692f4626e2ee62e5254634cbe239fb]
+## 1. Citation, commencement and interpretation[^c-12692f4626e2ee62e5254634cbe239fb]
 
 (1) These Regulations may be cited as the Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation –
 
@@ -52,7 +52,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Statutory Maternity Pay (General) Regulations[^key-3d8aa2b34f7427c2befb217dd73c97ac][^key-076c51fa898bf036c372234ecc1ac13c][^key-994208cdd3071f236166cdbc1953c1c9]
+## 2. Amendment of the Statutory Maternity Pay (General) Regulations[^c-3d8aa2b34f7427c2befb217dd73c97ac][^c-076c51fa898bf036c372234ecc1ac13c][^c-994208cdd3071f236166cdbc1953c1c9]
 
 (1) The Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00007] shall be amended in accordance with paragraphs (2) to (6).
 
@@ -116,18 +116,18 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (6) In regulation 28 (rounding to avoid fractional amounts) for “at the higher rate specified in Article 49(2) of the 1986 Order” there shall be substituted “at the earnings-related rate referred to in section 162(1) of the Contributions and Benefits Act”.
 
-## 3. Amendment of the Statutory Maternity Pay (Health and Social Services Employees) Regulations[^key-2540e2e163cf681eb57f89fd3231f04d]
+## 3. Amendment of the Statutory Maternity Pay (Health and Social Services Employees) Regulations[^c-2540e2e163cf681eb57f89fd3231f04d]
 
 In regulation 2(2) of the Statutory Maternity Pay (Health and Social Services Employees) Regulations (Northern Ireland) 1992[^f00020] (treatment of more than one contract of service as one contract) for “21 days” there shall be substituted “28 days”.
 
-## 4. Amendment of the Statutory Sick Pay (General) Regulations[^key-129bc313251086e9fffb2624a33de62b]
+## 4. Amendment of the Statutory Sick Pay (General) Regulations[^c-129bc313251086e9fffb2624a33de62b]
 
 In regulation 3 of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00021] (period of entitlement ending or not arising) –
 
 - (a) in paragraph (4)(b)[^f00022] for “6th week” there shall be substituted “4th week”; and
 - (b) in paragraph (5)(a) for “6th week” there shall be substituted “4th week”.
 
-## 5. Amendment of the Social Security (Maternity Allowance) Regulations[^key-a777d2aaa95c549da611654637fbaef4]
+## 5. Amendment of the Social Security (Maternity Allowance) Regulations[^c-a777d2aaa95c549da611654637fbaef4]
 
 In regulation 3 of the Social Security (Maternity Allowance) Regulations (Northern Ireland) 1987[^f00023] (modification of the maternity allowance period) –
 
@@ -135,7 +135,7 @@ In regulation 3 of the Social Security (Maternity Allowance) Regulations (Northe
 - (b) paragraph (2) shall be omitted; and
 - (c) in paragraph (2A)[^f00025] for “18 weeks” there shall be substituted “26 weeks”.
 
-## 6. Amendment of the Social Security (Maternity Allowance) (Earnings) Regulations[^key-6014307bcc582dbf80bbaace08b8f00b]
+## 6. Amendment of the Social Security (Maternity Allowance) (Earnings) Regulations[^c-6014307bcc582dbf80bbaace08b8f00b]
 
 (1) The Social Security (Maternity Allowance) (Earnings) Regulations (Northern Ireland) 2000[^f00026] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -167,11 +167,11 @@ In regulation 3 of the Social Security (Maternity Allowance) Regulations (Northe
 
   .
 
-## 7. Transitional Provision[^key-4d391db554d11ab050b8c367b56b9a52]
+## 7. Transitional Provision[^c-4d391db554d11ab050b8c367b56b9a52]
 
 In relation to any period before 6th April 2003, the reference to section 162(1)(b) of the Contributions and Benefits Act in regulation 6(2) is a reference to section 162(3) of that Act.
 
-## 8. Revocations[^key-97b15ddbc0ebfda31836513150f4a3be]
+## 8. Revocations[^c-97b15ddbc0ebfda31836513150f4a3be]
 
 The following regulations are hereby revoked –
 
@@ -245,15 +245,15 @@ The impact on business of the commencement of these provisions is detailed in th
 
 [^f00005]: Footnote: [2002 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2002/10)
 
-[^key-12692f4626e2ee62e5254634cbe239fb]: Commencement: Reg. 1 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-12692f4626e2ee62e5254634cbe239fb]: Commencement: Reg. 1 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3d8aa2b34f7427c2befb217dd73c97ac]: Commencement: Reg. 2(1)(2)(4)(5) in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-3d8aa2b34f7427c2befb217dd73c97ac]: Commencement: Reg. 2(1)(2)(4)(5) in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
-[^key-076c51fa898bf036c372234ecc1ac13c]: Commencement: Reg. 2(3) in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/354/regulation/1/1/b)
+[^c-076c51fa898bf036c372234ecc1ac13c]: Commencement: Reg. 2(3) in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/354/regulation/1/1/b)
 
-[^key-994208cdd3071f236166cdbc1953c1c9]: Commencement: Reg. 2(6) in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/354/regulation/1/1/b)
+[^c-994208cdd3071f236166cdbc1953c1c9]: Commencement: Reg. 2(6) in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2002/354/regulation/1/1/b)
 
 [^f00007]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30)
 
@@ -281,17 +281,17 @@ The impact on business of the commencement of these provisions is detailed in th
 
 [^f00019]: Footnote: Section 160(9)(ea) is inserted by section 3(d) of the Social Security Act (Northern Ireland) 2002
 
-[^key-2540e2e163cf681eb57f89fd3231f04d]: Commencement: Reg. 3 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-2540e2e163cf681eb57f89fd3231f04d]: Commencement: Reg. 3 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
 [^f00020]: Footnote: [S.R. 1992 No. 17](https://www.legislation.gov.uk/nisr/1992/17)
 
-[^key-129bc313251086e9fffb2624a33de62b]: Commencement: Reg. 4 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-129bc313251086e9fffb2624a33de62b]: Commencement: Reg. 4 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
 [^f00021]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263)
 
 [^f00022]: Footnote: Paragraphs (4) and (5) were added by regulation 2 of [S.R. 1987 No. 248](https://www.legislation.gov.uk/nisr/1987/248) and paragraph (4) was substituted by regulation 5(b) of [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191)
 
-[^key-a777d2aaa95c549da611654637fbaef4]: Commencement: Reg. 5 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-a777d2aaa95c549da611654637fbaef4]: Commencement: Reg. 5 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
 [^f00023]: Footnote: [S.R. 1987 No. 170](https://www.legislation.gov.uk/nisr/1987/170)
 
@@ -299,13 +299,13 @@ The impact on business of the commencement of these provisions is detailed in th
 
 [^f00025]: Footnote: Paragraph (2A) was inserted by regulation 3(2) of [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191)
 
-[^key-6014307bcc582dbf80bbaace08b8f00b]: Commencement: Reg. 6 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-6014307bcc582dbf80bbaace08b8f00b]: Commencement: Reg. 6 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
 [^f00026]: Footnote: [S.R. 2000 No. 104](https://www.legislation.gov.uk/nisr/2000/104)
 
-[^key-4d391db554d11ab050b8c367b56b9a52]: Commencement: Reg. 7 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-4d391db554d11ab050b8c367b56b9a52]: Commencement: Reg. 7 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
-[^key-97b15ddbc0ebfda31836513150f4a3be]: Commencement: Reg. 8 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
+[^c-97b15ddbc0ebfda31836513150f4a3be]: Commencement: Reg. 8 in operation at 24.11.2002 with effect in accordance with reg. 1(2)
 
 [^f00027]: Footnote: [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191)
 

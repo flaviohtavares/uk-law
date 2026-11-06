@@ -48,7 +48,7 @@ Coming into force
 
 1st December 2008
 
-The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to persistent organic pollutants, dangerous substances, preparations and chemicals, makes the following Regulations in exercise of the powers conferred by that section:[^key-83987507d612be8db2a8b089673257c6][^key-a4a6385952cb736338c27aa07ff50020][^key-cde47cd75431496c23f40f9617be216f]
+The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to persistent organic pollutants, dangerous substances, preparations and chemicals, makes the following Regulations in exercise of the powers conferred by that section:[^c-83987507d612be8db2a8b089673257c6][^c-a4a6385952cb736338c27aa07ff50020][^c-cde47cd75431496c23f40f9617be216f]
 
 ## Contents
 
@@ -138,7 +138,7 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 - [Section 23 — Revocations and amendments](part-7/section-23.md)
 
-### PART 8 — Review[^key-c551538dbb473cba65a62ddd8f2b79d4]
+### PART 8 — Review[^c-c551538dbb473cba65a62ddd8f2b79d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -238,10 +238,10 @@ A transposition note and an Impact Assessment of the effect of this instrument o
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The power of the Minister to make regulations in relation to matters in or as regards Scotland is preserved by section 57(1) of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-83987507d612be8db2a8b089673257c6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/2852) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 49](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/49)
+[^c-83987507d612be8db2a8b089673257c6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/2852) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 49](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/49)
 
-[^key-a4a6385952cb736338c27aa07ff50020]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/2852): power to amend conferred (9.11.2021 for specified purposes, 28.2.2022 in so far as not already in force) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6), [Sch. 21 paras. 2-5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/2), [7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/7) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
+[^c-a4a6385952cb736338c27aa07ff50020]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/2852): power to amend conferred (9.11.2021 for specified purposes, 28.2.2022 in so far as not already in force) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)[(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6), [Sch. 21 paras. 2-5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/2), [7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/21/paragraph/7) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/p)
 
-[^key-cde47cd75431496c23f40f9617be216f]: Modification: Regulations applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/49)
+[^c-cde47cd75431496c23f40f9617be216f]: Modification: Regulations applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/49)
 
-[^key-c551538dbb473cba65a62ddd8f2b79d4]: Textual amendment: Pt. 8 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2013/2919/regulation/6)
+[^c-c551538dbb473cba65a62ddd8f2b79d4]: Textual amendment: Pt. 8 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2013/2919/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Article 9 of Regulation [(EC) No 2150/2005](https://www.legislation.gov.uk/eur/2005/2150)[^key-4e79af724796ff15060fdfa01ee35e7e]
+## 92. Article 9 of Regulation [(EC) No 2150/2005](https://www.legislation.gov.uk/eur/2005/2150)[^c-4e79af724796ff15060fdfa01ee35e7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 9 (compliance monitoring) for “Member States” substitute “ The 
 
 ## Annotations
 
-[^key-4e79af724796ff15060fdfa01ee35e7e]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-4e79af724796ff15060fdfa01ee35e7e]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

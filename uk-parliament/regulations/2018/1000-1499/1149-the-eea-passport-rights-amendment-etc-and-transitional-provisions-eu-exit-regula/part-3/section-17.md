@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of regulations 9(2) and 12(2), the period is one that begins with IP completion day[^key-78b0cf50eb9630846a896f6b0674f107] and ends—
+(1) For the purposes of regulations 9(2) and 12(2), the period is one that begins with IP completion day[^c-78b0cf50eb9630846a896f6b0674f107] and ends—
 
 - (a) after three years beginning with the day on which IP completion day occurs, or
 - (b) if earlier, with a day determined in accordance with paragraph (3), (5) or (7).
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78b0cf50eb9630846a896f6b0674f107]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2018/1149/regulation/17) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(j)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/j)
+[^c-78b0cf50eb9630846a896f6b0674f107]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2018/1149/regulation/17) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(j)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/j)

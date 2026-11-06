@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 3 — Church Representation Rules[^c13201901][^key-5b3e739e1fae85544ac3d29c8b8188eb][^key-527865d8b5d7a30aaceb7e1461366a6a][^key-90c23ce1eb9353e4b3bbc1a11fff24b4][^key-bb00f0d2f32359b842aec8f7761f9e40]
+## SCHEDULE 3 — Church Representation Rules[^c13201901][^c-5b3e739e1fae85544ac3d29c8b8188eb][^c-527865d8b5d7a30aaceb7e1461366a6a][^c-90c23ce1eb9353e4b3bbc1a11fff24b4][^c-bb00f0d2f32359b842aec8f7761f9e40]
 
 *Extent: E*
 
@@ -442,7 +442,7 @@ Section 4.
 
 **23.** (1) In the case of the cathedral church of each diocese (other than the cathedral church of Christ in Oxford, as to which see paragraph (2)) or, where a diocese has more than one cathedral church, each of them, the diocesan synod must make a scheme to provide for the representation on a deanery synod of—
 
-- (a) the dean, the residentiary canons and other ministers and any lay residentiary canon[^key-cf37455cbc30afa3e30c9eee4fbf0517] (or any of them), and
+- (a) the dean, the residentiary canons and other ministers and any lay residentiary canon[^c-cf37455cbc30afa3e30c9eee4fbf0517] (or any of them), and
 - (b) unless the cathedral church is a parish church, every lay person whose name is on the community roll.
 
 (2) In the case of Westminster Abbey, St. George's Chapel, Windsor and the cathedral church of Christ in Oxford, the diocesan synod in each case must make a scheme to provide for the representation on a deanery synod of—
@@ -513,11 +513,11 @@ Section 4.
 
 **27.** (1) In each diocese, a diocesan electoral registration officer is appointed by the bishop's council and standing committee of the diocesan synod.
 
-(2) The diocesan electoral registration officer must , subject to paragraph (4),[^key-e48e058329621d0e9e070e2ae0545965] record in a register the name and address of every member of the house of clergy of each deanery synod in the diocese (the “register of clerical electors”).
+(2) The diocesan electoral registration officer must , subject to paragraph (4),[^c-e48e058329621d0e9e070e2ae0545965] record in a register the name and address of every member of the house of clergy of each deanery synod in the diocese (the “register of clerical electors”).
 
-(3) The diocesan electoral registration officer must , subject to paragraph (4),[^key-8b21f3cee5762ef220b186ceeda4c106] record in a register (separate from the register of clerical electors) the name and address of every member of the house of laity of each deanery synod in the diocese (the “register of lay electors”).
+(3) The diocesan electoral registration officer must , subject to paragraph (4),[^c-8b21f3cee5762ef220b186ceeda4c106] record in a register (separate from the register of clerical electors) the name and address of every member of the house of laity of each deanery synod in the diocese (the “register of lay electors”).
 
-(4)[^key-3ed0622446e202d627c5c612a92e47c9] Persons co-opted as members of the house of clergy or the house of laity of a deanery synod are not to be recorded in the register concerned.
+(4)[^c-3ed0622446e202d627c5c612a92e47c9] Persons co-opted as members of the house of clergy or the house of laity of a deanery synod are not to be recorded in the register concerned.
 
 (5) Where a member of the house of clergy or the house of laity of a deanery synod has provided the diocesan electoral registration officer with an email address, the address recorded for that member in the register must include that email address.
 
@@ -809,9 +809,9 @@ Section 4.
 (8) The presiding officer must—
 
 - (a) scrutinise each nomination paper as soon as it is lodged, and
-- (b) without delay, inform the candidate and each of the persons who nominated the candidate[^key-9972d043e08ac3c89c9f6c15edc9bf3f] whether the nomination is valid.
+- (b) without delay, inform the candidate and each of the persons who nominated the candidate[^c-9972d043e08ac3c89c9f6c15edc9bf3f] whether the nomination is valid.
 
-(9) If the presiding officer rules that a nomination is not valid, the officer must give the candidate and each of the persons who nominated the candidate the reasons for the ruling when informing each of them of it under paragraph (8)(b)[^key-08c7e5e3f7e3d49e89b5f6c0da88dc84].
+(9) If the presiding officer rules that a nomination is not valid, the officer must give the candidate and each of the persons who nominated the candidate the reasons for the ruling when informing each of them of it under paragraph (8)(b)[^c-08c7e5e3f7e3d49e89b5f6c0da88dc84].
 
 (10) A person is not included as a candidate for an election to a diocesan synod if the presiding officer has not received a valid nomination for that person—
 
@@ -828,7 +828,7 @@ Section 4.
 
 ##### Conduct of election
 
-**42.** (1) Where an election to a diocesan synod is to be held, the presiding officer for the election must ensure that each qualified elector is given a voting paper in Form 6, or is given a voting paper in Form 7, showing the name of each candidate; and the voting paper must be accompanied by a written explanation of the right of appeal under Rule 58(2) against the ruling that the nomination of a candidate is valid and of the right of appeal under Rule 58A against the result of the election[^key-9f6f6faa57d214e272e56e028824612c].
+**42.** (1) Where an election to a diocesan synod is to be held, the presiding officer for the election must ensure that each qualified elector is given a voting paper in Form 6, or is given a voting paper in Form 7, showing the name of each candidate; and the voting paper must be accompanied by a written explanation of the right of appeal under Rule 58(2) against the ruling that the nomination of a candidate is valid and of the right of appeal under Rule 58A against the result of the election[^c-9f6f6faa57d214e272e56e028824612c].
 
 (2) The diocesan synod must, no later than 31 December in the year before an election of its members, decide which form of voting paper is to be used by the deaneries in the election.
 
@@ -929,7 +929,7 @@ Section 4.
 
 (4) Where an election to fill a casual vacancy of that kind is to take place at a meeting under paragraph (2) but is not completed within six months of the occurrence of the vacancy, the bishop must give directions (which may include directions for the election to be conducted in accordance with Rules 38 to 42).
 
-(5) Where an election to fill a casual vacancy is to take place by virtue of a direction of the bishop under paragraph (2)(a) or (4) that the election is to be conducted in accordance with Rules 38 to 42, those Rules[^key-1423dcf012d201873423b0d2fb733022] have effect, but as if a reference to the timetable fixed under Rule 35(2)(a) were a reference to the timetable fixed under paragraph (2)(b) or by virtue of paragraph (4) of this Rule.
+(5) Where an election to fill a casual vacancy is to take place by virtue of a direction of the bishop under paragraph (2)(a) or (4) that the election is to be conducted in accordance with Rules 38 to 42, those Rules[^c-1423dcf012d201873423b0d2fb733022] have effect, but as if a reference to the timetable fixed under Rule 35(2)(a) were a reference to the timetable fixed under paragraph (2)(b) or by virtue of paragraph (4) of this Rule.
 
 (6) Where the period for holding a general election to either house of a diocesan synod is due to begin within nine months of the occurrence of the vacancy, it is not to be filled unless the members of the bishop's council and standing committee who are from the house concerned direct otherwise.
 
@@ -941,10 +941,10 @@ Section 4.
 
 - (a) each person elected by the diocesan electors of each diocese (see Rule 54),
 - (b) each representative elected under the Channel Islands (Representation) Measure 1931,
-- (c) two lay persons elected or[^key-87e879d7d336f96a48d8a69089c1de46] chosen by and from the members of religious communities [^key-1e679a3f95150c396285479146645607]... in either province, with the election or[^key-f1ca0800ac5d58a027d48455684db70a] choice being made in such manner as the rules under Rule 56 provide,
+- (c) two lay persons elected or[^c-87e879d7d336f96a48d8a69089c1de46] chosen by and from the members of religious communities [^c-1e679a3f95150c396285479146645607]... in either province, with the election or[^c-f1ca0800ac5d58a027d48455684db70a] choice being made in such manner as the rules under Rule 56 provide,
 - (d) each person who is an ex officio member under Rule 47,
 - (e) each person who is co-opted under Rule 48, and
-- (f) at least three but no more than four other persons, each of whom is an actual communicant and who is elected or chosen as soon as practicable after a dissolution of the Synod in such manner as the Armed Forces Synod may decide or, in so far as provision is not made in that manner, in such manner as the rules under Rule 56 provide[^key-62b3827c5c8c357ded462cf34dfcd148].
+- (f) at least three but no more than four other persons, each of whom is an actual communicant and who is elected or chosen as soon as practicable after a dissolution of the Synod in such manner as the Armed Forces Synod may decide or, in so far as provision is not made in that manner, in such manner as the rules under Rule 56 provide[^c-62b3827c5c8c357ded462cf34dfcd148].
 
 (2) The term of office of a member of the House of Laity under paragraph (1)(a), (b), (c) or (f) is (subject to termination or resignation) for the lifetime of the Synod for which the member is elected or chosen; but that does not prevent the person from doing either of the following during a dissolution of the Synod—
 
@@ -958,7 +958,7 @@ Section 4.
 
 (4) The total number of persons elected or chosen under the following provisions taken together must not exceed seven—
 
-- (a) paragraph (1)(f)[^key-282d692118d7d60b6d01c79a9a14044a] of this Rule [^key-202062e1a74db06e2ccd2c2f14f8b0a7]... ,
+- (a) paragraph (1)(f)[^c-282d692118d7d60b6d01c79a9a14044a] of this Rule [^c-202062e1a74db06e2ccd2c2f14f8b0a7]... ,
 - (b) in Canon H2 (representation of the clergy in the Lower House of the Convocations), paragraph 1(d) in the form which it takes in relation to the Province of Canterbury, and
 - (c) in Canon H3 (constitution of the Upper Houses of the Convocations), paragraph 1(bb).
 
@@ -1039,7 +1039,7 @@ Section 4.
 - (a) each of the first, second and third conditions, and
 - (b) one of the fourth, fifth and sixth conditions.
 
-(2) The first condition is that the person has received Communion according to the use of the Church of England, or a Church in communion with it, at least three times in the twelve months preceding the relevant day ; and the person is to be treated as meeting the first condition for the purposes of these Rules if the person would have met it but for matters connected with coronavirus (within the meaning of the Coronavirus Act 2020)[^key-147454ad09ce0046310ac25bc202f27e].
+(2) The first condition is that the person has received Communion according to the use of the Church of England, or a Church in communion with it, at least three times in the twelve months preceding the relevant day ; and the person is to be treated as meeting the first condition for the purposes of these Rules if the person would have met it but for matters connected with coronavirus (within the meaning of the Coronavirus Act 2020)[^c-147454ad09ce0046310ac25bc202f27e].
 
 (3) The second condition is that the person—
 
@@ -1083,16 +1083,16 @@ Section 4.
 
 (5) A division of a diocese under this Rule remains in force until it is revoked by the diocesan synod.
 
-(6)[^key-4b5f3305f92c5076027752e045ddbe7b] Where a diocese is divided under this Rule—
+(6)[^c-4b5f3305f92c5076027752e045ddbe7b] Where a diocese is divided under this Rule—
 
 - (a) a diocesan elector who is a representative of the laity is entitled to vote in the area to which the body by which the elector was elected belongs;
 - (b) a diocesan elector who is not a representative of the laity is entitled to vote in whichever area the diocesan synod decides.
 
 #### Timing
 
-**52.** (1) The elections to the House of Laity are to be carried out in the period of 100 days beginning with the day on which the General Synod is dissolved.[^key-821c992644d31766ffa16ba446c9eba4]
+**52.** (1) The elections to the House of Laity are to be carried out in the period of 100 days beginning with the day on which the General Synod is dissolved.[^c-821c992644d31766ffa16ba446c9eba4]
 
-(2)[^key-e6e18a44be535b195f758a1dadc84cd9] The elections are to be carried out in each diocese in accordance with the timetable provided by rules under Rule 56; and a reference in these Rules to a date given in the timetable for the stage of an election is a reference to the date given for that stage of the election in accordance with that timetable.
+(2)[^c-e6e18a44be535b195f758a1dadc84cd9] The elections are to be carried out in each diocese in accordance with the timetable provided by rules under Rule 56; and a reference in these Rules to a date given in the timetable for the stage of an election is a reference to the date given for that stage of the election in accordance with that timetable.
 
 (3) This Rule has effect subject to any directions given by the General Synod or the Presidents.
 
@@ -1111,7 +1111,7 @@ Section 4.
 
 (5) Rules under paragraph (4) are of no effect unless the Business Committee has approved them.
 
-(6)[^key-76f3dce2154059baa832f50fb66b94c7] The presiding officer must, in accordance with rules under Rule 56, give each person entitled to vote in an election to the House of Laity in a diocese a letter which contains the matters specified in those rules.
+(6)[^c-76f3dce2154059baa832f50fb66b94c7] The presiding officer must, in accordance with rules under Rule 56, give each person entitled to vote in an election to the House of Laity in a diocese a letter which contains the matters specified in those rules.
 
 #### Entitlement to vote
 
@@ -1133,38 +1133,38 @@ Section 4.
 - (a) the date of the dissolution of the Synod, or
 - (b) in the case of an election to fill a casual vacancy, the date on which invitations to nominate are issued.
 
-(5) The diocesan electoral registration officer must, by the date given in the timetable (which must be at least 21 days before the invitations to nominate are issued under Rule 55)[^key-6e0a8cf021314494ff033f5891f31a6e], give the secretary of each deanery synod in the diocese a copy of the names and addresses recorded in the register of lay electors.
+(5) The diocesan electoral registration officer must, by the date given in the timetable (which must be at least 21 days before the invitations to nominate are issued under Rule 55)[^c-6e0a8cf021314494ff033f5891f31a6e], give the secretary of each deanery synod in the diocese a copy of the names and addresses recorded in the register of lay electors.
 
-(6) The secretary of each deanery synod must, by the date given in the timetable (which must be within seven days of the date given in the timetable for the purposes of paragraph (5))[^key-1a38b5a5ec17cff125578b3606350433], provide the diocesan electoral registration officer with—
+(6) The secretary of each deanery synod must, by the date given in the timetable (which must be within seven days of the date given in the timetable for the purposes of paragraph (5))[^c-1a38b5a5ec17cff125578b3606350433], provide the diocesan electoral registration officer with—
 
 - (a) if the names and addresses are correct, a certificate in writing to that effect, or
 - (b) if they are not correct, a notification in writing of the corrections required.
 
 (7) In ascertaining for the purposes of paragraph (6) whether the names and addresses are correct, the secretary of each deanery synod must ask each elector who has not provided an email address whether he or she wishes to provide one.
 
-(8) The diocesan electoral registration officer must, no later than the date given in the timetable (which must be at least 14 days before the date given in the timetable for the issue of invitations to nominate under Rule 55)[^key-c212addd6fc78529e9f1e70e540e8ad0], give a copy of the names and addresses (with any corrections required having been made) to the presiding officer in the election.
+(8) The diocesan electoral registration officer must, no later than the date given in the timetable (which must be at least 14 days before the date given in the timetable for the issue of invitations to nominate under Rule 55)[^c-c212addd6fc78529e9f1e70e540e8ad0], give a copy of the names and addresses (with any corrections required having been made) to the presiding officer in the election.
 
-(9)[^key-9027bdb789b8e7c9be2aafea8e1f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-9027bdb789b8e7c9be2aafea8e1f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-9027bdb789b8e7c9be2aafea8e1f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-9027bdb789b8e7c9be2aafea8e1f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-9027bdb789b8e7c9be2aafea8e1f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-9027bdb789b8e7c9be2aafea8e1f5091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Nomination
 
 **55.** (1) A candidate for election in a diocese to the House of Laity must be nominated by two persons, each of whom is a diocesan elector in the diocese.
 
-(2) The presiding officer in each diocese , having taken into account the replies received to the letter sent by virtue of Rule 53(6),[^key-52fbe90e197d668f52c684539b9624f7] must ensure that , on the date given in the timetable,[^key-5c2850dbd3cd541ac4c9638cd283a7d2] each diocesan elector in the diocese is issued with an invitation to nominate.
+(2) The presiding officer in each diocese , having taken into account the replies received to the letter sent by virtue of Rule 53(6),[^c-52fbe90e197d668f52c684539b9624f7] must ensure that , on the date given in the timetable,[^c-5c2850dbd3cd541ac4c9638cd283a7d2] each diocesan elector in the diocese is issued with an invitation to nominate.
 
 (3) If a person who is qualified for election but is not a diocesan elector requests a nomination paper, the presiding officer must ensure that the person is issued with a nomination paper.
 
-(4) The period for making nominations begins with the date given in the timetable and ends with the date given in the timetable; and that period must be at least 21 days[^key-357b96ea3f32e3180daebd09794cf6e2] beginning with the day after that on which the invitations to nominate are issued.
+(4) The period for making nominations begins with the date given in the timetable and ends with the date given in the timetable; and that period must be at least 21 days[^c-357b96ea3f32e3180daebd09794cf6e2] beginning with the day after that on which the invitations to nominate are issued.
 
 (5) The presiding officer must ensure that, when an invitation to nominate is issued to a person, the person is also given written notification of when nominations close.
 
-(6)[^key-58411ea90eb2e63c965df4ef01e71ac7] The invitation to nominate must state that, if an election is held in which there are sufficient candidates to require a poll to be held and invitations to vote to be issued, the name of each person who has nominated a candidate will be published alongside the name of the candidate.
+(6)[^c-58411ea90eb2e63c965df4ef01e71ac7] The invitation to nominate must state that, if an election is held in which there are sufficient candidates to require a poll to be held and invitations to vote to be issued, the name of each person who has nominated a candidate will be published alongside the name of the candidate.
 
-(7)[^key-013d9ba8e9b2da14ad9d58de62357448] Rules under Rule 56 must include provision for the inspection of the register of lay electors during the period within which nominations may be made.
+(7)[^c-013d9ba8e9b2da14ad9d58de62357448] Rules under Rule 56 must include provision for the inspection of the register of lay electors during the period within which nominations may be made.
 
 #### Election rules
 
@@ -1205,8 +1205,8 @@ Section 4.
 
 (4) Notice of an appeal under this Rule—
 
-- (a) must be in writing,[^key-950cc29abf5a24eb228d37f3441ac1e3]...
-- (b) must give brief particulars of the grounds of the appeal, and[^key-1a5592e2cd27673d79e425362ef0e045]
+- (a) must be in writing,[^c-950cc29abf5a24eb228d37f3441ac1e3]...
+- (b) must give brief particulars of the grounds of the appeal, and[^c-1a5592e2cd27673d79e425362ef0e045]
 - (c) may be accompanied by written submissions
 
 (5) Notice of an appeal under this Rule relating to the roll of a parish must be given to the lay chair of the deanery synod.
@@ -1221,7 +1221,7 @@ Section 4.
 - (b) if the appeal arises from a revision of the roll of a parish or the creation of a new roll for a parish, the day on which the revised or new roll is published under Rule 5 or 8, or
 - (c) if the appeal arises from the creation or revision of a register of clerical or lay electors, the end of the period for which the register is made available for inspection under Rule 39(6).
 
-##### 57A. Enrolment appeals: referral and representations etc.[^key-1f6ef048d7b7c6ef4974f6d8223e463f]
+##### 57A. Enrolment appeals: referral and representations etc.[^c-1f6ef048d7b7c6ef4974f6d8223e463f]
 
 (1) Where notice of an appeal under Rule 57 is given, the person to whom it is given must without delay (and in any event within 48 hours of receiving it unless the appellant has in the meantime given written notice to withdraw the appeal)—
 
@@ -1252,7 +1252,7 @@ Section 4.
 
 #### Election appeals
 
-**58.**[^key-43d4af0b9d7b14cd5765a54094de7a38] (1) An appeal may be made against a determination that a nomination of a candidate for a relevant election is not valid on the grounds that the nomination is valid and that the person should, accordingly, be included as a candidate for the election.
+**58.**[^c-43d4af0b9d7b14cd5765a54094de7a38] (1) An appeal may be made against a determination that a nomination of a candidate for a relevant election is not valid on the grounds that the nomination is valid and that the person should, accordingly, be included as a candidate for the election.
 
 (2) An appeal may be made against a determination that a nomination of a candidate for a relevant election is valid on the grounds that the nomination is not valid and that the person should, accordingly, not be included as a candidate for the election.
 
@@ -1302,7 +1302,7 @@ Section 4.
 
 #### Election appeals: power to make rules for House of Laity of General Synod
 
-**59.** (1)[^key-d231325b1e1e46e26ed4b17f1beb37fb] The General Synod must make rules providing for—
+**59.** (1)[^c-d231325b1e1e46e26ed4b17f1beb37fb] The General Synod must make rules providing for—
 
 - (a) a right of appeal relating to a person’s eligibility to vote in an election to the House of Laity of the General Synod for the purposes of Rule 46(1)(c) or (f) (religious communities and Armed Forces Synod);
 - (b) a right of appeal against a determination of whether a nomination of a candidate for election to that House is valid;
@@ -1310,7 +1310,7 @@ Section 4.
 
 (2) The rules may provide that, on an appeal arising out of an election to the House of Laity, a person who was declared elected but whose election is or may be affected by the appeal is to be regarded for all purposes as a member of that House pending the determination of the appeal.
 
-(2A)[^key-40d6a0b48b32b202cb86fcecc0aadc8e] The rules may include provision as to the payment of expenses incurred by the person who determines an appeal under the rules.
+(2A)[^c-40d6a0b48b32b202cb86fcecc0aadc8e] The rules may include provision as to the payment of expenses incurred by the person who determines an appeal under the rules.
 
 (3) The rules may—
 
@@ -1323,7 +1323,7 @@ Section 4.
 
 (5) The rules are to be made in accordance with the Standing Orders of the General Synod.
 
-##### 59A. Election appeals: appeal procedures[^key-1a9faa0c185b3e817ecaf74b171bf204]
+##### 59A. Election appeals: appeal procedures[^c-1a9faa0c185b3e817ecaf74b171bf204]
 
 (1) Each of the following appeals (referred to in this Part as a “summary election appeal”) is to be dealt with in accordance with Rules 60 to 60C and 61I—
 
@@ -1339,7 +1339,7 @@ Section 4.
 
 #### Referral of appeal to bishop's council and standing committee
 
-##### 60. Summary election appeal: notice[^key-ed7f48a5482cc2e03ad955b30bd8f5c7]
+##### 60. Summary election appeal: notice[^c-ed7f48a5482cc2e03ad955b30bd8f5c7]
 
 (1) Notice of a summary election appeal—
 
@@ -1358,7 +1358,7 @@ Section 4.
 (6) Notice of an appeal under Rule 58A(4) (appeal against allowance or disallowance of vote) must be given no later than two days after—
 
 - (a) the day on which the vote in question is allowed or disallowed, or
-- (b) if the appeal is being brought on grounds that there is an error in the roll of a parish or the register of clerical or lay electors but an enrolment appeal[^key-2dec642ad39d68aa4edf6850707d800b] has yet to be determined, the day on which that appeal is determined.
+- (b) if the appeal is being brought on grounds that there is an error in the roll of a parish or the register of clerical or lay electors but an enrolment appeal[^c-2dec642ad39d68aa4edf6850707d800b] has yet to be determined, the day on which that appeal is determined.
 
 ##### 60A. Summary election appeal: referral to relevant judge, etc.
 
@@ -1430,7 +1430,7 @@ Section 4.
 
 #### Determination of appeal
 
-##### 61. Full election appeal: notice of appeal[^key-0eb3f12995b4e0d786d1faba57cf743b]
+##### 61. Full election appeal: notice of appeal[^c-0eb3f12995b4e0d786d1faba57cf743b]
 
 (1) Notice of a full election appeal—
 
@@ -1586,9 +1586,9 @@ Section 4.
 - (b) that the matter at issue amounts to a procedural irregularity in the conduct of the election but the appeal should nonetheless in all the circumstances be dismissed;
 - (c) that the appeal is wholly without merit and should accordingly be dismissed.
 
-##### 61I. Appeals: general[^key-b6c8648ae49494ab355be0d46299cc43]
+##### 61I. Appeals: general[^c-b6c8648ae49494ab355be0d46299cc43]
 
-[^key-403ddb60e7a98299913a65519e29e20c]
+[^c-403ddb60e7a98299913a65519e29e20c]
 
 (1) The decision on an appeal under this Part is final as to the matters at issue.
 
@@ -2053,7 +2053,7 @@ a reference to the combined area of the benefices concerned.
 
 (5) In these Rules, “**public worship**” means public worship according to the rites and ceremonies of the Church of England; and a reference in these Rules to a building licensed for public worship includes a reference to a building only part of which is so licensed.
 
-(6) In these Rules, “**community roll**”, in relation to a cathedral church, means the roll kept in the case of that cathedral church for the purposes of section 6(1) of the Cathedrals Measure 2021[^key-568fede26d00ff815983316e883d29f1] ; but for the purposes of these Rules, a person’s name is to be treated as being on the community roll of a cathedral church only if the dean has declared the person to be a habitual worshipper[^key-bbf362a605a5c94903e00f8624f0aaf6].
+(6) In these Rules, “**community roll**”, in relation to a cathedral church, means the roll kept in the case of that cathedral church for the purposes of section 6(1) of the Cathedrals Measure 2021[^c-568fede26d00ff815983316e883d29f1] ; but for the purposes of these Rules, a person’s name is to be treated as being on the community roll of a cathedral church only if the dean has declared the person to be a habitual worshipper[^c-bbf362a605a5c94903e00f8624f0aaf6].
 
 (7) A reference in these Rules to a person's name being on the roll of a parish is, in the case of a person whose name is on the roll of a guild church, a reference to the person's name being on the roll of the parish in which the guild church is situated.
 
@@ -2066,7 +2066,7 @@ a reference to the combined area of the benefices concerned.
 - (a) the deed has been enrolled in the High Court and recorded in the registry of a diocese under that Act, and
 - (b) no vacation of the enrolment of the deed is recorded in a diocesan registry under the Clerical Disabilities Act 1870 (Amendment) Measure 1934.
 
-#### Interpretation: remote meetings[^key-8e960deda5416a723c3ea0923a85d82a]
+#### Interpretation: remote meetings[^c-8e960deda5416a723c3ea0923a85d82a]
 
 **83A.** (1) This Rule applies for the purposes of these Rules and for the purposes of any provision made by or under any other Measure or other instrument (whenever passed or made) about meetings of a body constituted by or under these Rules or about parochial church meetings.
 
@@ -2096,7 +2096,7 @@ a reference to the combined area of the benefices concerned.
 - “**PCC**” means parochial church council;
 - “**personal data**” has the same meaning as in the Data Protection Act 2018;
 - “register of clerical electors” and “register of lay electors” each have the meaning given in Rule 27;
-- “[^key-02361c82c61e47793f78f596c64678ff]**religious community**” means a religious community which comes within the meaning given in the Canons (see Canon DA 1) and is designated by the House of Bishops for the purposes of these Rules;
+- “[^c-02361c82c61e47793f78f596c64678ff]**religious community**” means a religious community which comes within the meaning given in the Canons (see Canon DA 1) and is designated by the House of Bishops for the purposes of these Rules;
 - “**the roll**” has the meaning given in Rule 1(1).
 
 (2) A reference in these Rules to something being in writing is to be read with Rule 76(2) (which makes provision about emails).
@@ -2188,7 +2188,7 @@ a reference to the combined area of the benefices concerned.
 
 (2) The PCC must ensure that a copy of the roll is available for inspection at the meeting.
 
-(3) The annual report to be provided under paragraph (1)(b) must include a statement as to whether the PCC has complied with the requirements imposed by the code under section 5A of the Safeguarding and Clergy Discipline Measure 2016[^key-17fc243e195fcf235627683db81e3ac2].
+(3) The annual report to be provided under paragraph (1)(b) must include a statement as to whether the PCC has complied with the requirements imposed by the code under section 5A of the Safeguarding and Clergy Discipline Measure 2016[^c-17fc243e195fcf235627683db81e3ac2].
 
 (4) The annual report to be provided under paragraph (1)(b) must be prepared in accordance with the Statement of Recommended Practice for accounting and reporting by charities published from time to time by the Charity Commission[^M_F_0da56d06-828b-44ec-f3ef-535f4ca30670].
 
@@ -2249,7 +2249,7 @@ a reference to the combined area of the benefices concerned.
 
 (2) But if the person has his or her name on the roll of more than one parish, he or she must choose one of the parishes concerned for the purpose of qualifying for election as a parochial representative of the laity to the deanery synod.
 
-(2A)[^key-2796faace585b2e9df986b0e4209c9a6] Where a person does not satisfy the condition in paragraph (1)(b), or the condition in paragraph (1)(c) for the person’s name to have been on the roll for at least the previous six months, the bishop may waive the condition concerned so far as it applies to qualification for election to the PCC, if the bishop considers there are exceptional circumstances which justify waiving the condition.
+(2A)[^c-2796faace585b2e9df986b0e4209c9a6] Where a person does not satisfy the condition in paragraph (1)(b), or the condition in paragraph (1)(c) for the person’s name to have been on the roll for at least the previous six months, the bishop may waive the condition concerned so far as it applies to qualification for election to the PCC, if the bishop considers there are exceptional circumstances which justify waiving the condition.
 
 (3) A person may not be nominated for election under Rule M6(1)(a) or (b) unless—
 
@@ -2258,7 +2258,7 @@ a reference to the combined area of the benefices concerned.
 
 (4) A person may not be nominated for election under Rule M6(1)(a) if the person is disqualified under Part 7 from membership of the deanery synod[^M_F_bde06796-1f1a-4bd1-93d1-e022a396ea08].
 
-(5)[^key-d7fdbb832272b4651ec940b7d7d1c039] The annual meeting may by resolution decide that a person who serves as a parochial representative of the laity on the deanery synod for the whole or any part of each of a specified number of successive terms of office may not be nominated for election under Rule M6(1)(a) to serve as such for the whole or any part of the term of office immediately following the last of those terms.
+(5)[^c-d7fdbb832272b4651ec940b7d7d1c039] The annual meeting may by resolution decide that a person who serves as a parochial representative of the laity on the deanery synod for the whole or any part of each of a specified number of successive terms of office may not be nominated for election under Rule M6(1)(a) to serve as such for the whole or any part of the term of office immediately following the last of those terms.
 
 (6) A resolution under paragraph (5) may not apply to a term of office—
 
@@ -2512,7 +2512,7 @@ a reference to the combined area of the benefices concerned.
 - (a) begins with the date of election, and
 - (b) ends with the next 30 June following the annual meeting at which elections of parochial representatives of the laity to the deanery synod are required to be held under Rule M6(1)(a).
 
-(4)[^key-0b5e0524d49d95928a888cad80ad6870] A person who is a member of the PCC under Rule M15(1)(k) (co-opted members) holds office as such for the period which—
+(4)[^c-0b5e0524d49d95928a888cad80ad6870] A person who is a member of the PCC under Rule M15(1)(k) (co-opted members) holds office as such for the period which—
 
 - (a) begins when the decision to co-opt the person as a member takes effect, and
 - (b) ends with the conclusion of the next annual meeting.
@@ -2716,7 +2716,7 @@ a reference to the combined area of the benefices concerned.
 - (a) each member of the PCC, and
 - (b) any person entitled to attend the meetings of the PCC under Rule M24(2).
 
-(2)[^key-d7164392a9ec9bd7b3a663f458c06462] If, within the period specified by the chair of the PCC beginning with the date on which the proposals are sent, at least one-third of the members of the PCC approve in writing and no member objects in writing, the proposals are to be treated at the end of that period as if they had been approved at a duly convened meeting.
+(2)[^c-d7164392a9ec9bd7b3a663f458c06462] If, within the period specified by the chair of the PCC beginning with the date on which the proposals are sent, at least one-third of the members of the PCC approve in writing and no member objects in writing, the proposals are to be treated at the end of that period as if they had been approved at a duly convened meeting.
 
 (3) Where proposals are circulated under this Rule for approval, the secretary must report to the next meeting of the PCC—
 
@@ -2993,7 +2993,7 @@ Form 7
 
 [image: see source](https://www.legislation.gov.uk/ukcm/1969/2/images/ukcm_19690002_en_epp_013)[image: see source](https://www.legislation.gov.uk/ukcm/1969/2/images/ukcm_19690002_en_epp_014)
 
-[^key-2044052800e38841c06e4e7f631df10b][^key-794659435940db14fb3f505ca2fba0d8][^M_F_1dd5f512-e39b-4539-90c4-ac1c0d7f78b9]Form M1
+[^c-2044052800e38841c06e4e7f631df10b][^c-794659435940db14fb3f505ca2fba0d8][^M_F_1dd5f512-e39b-4539-90c4-ac1c0d7f78b9]Form M1
 
 [image: see source](https://www.legislation.gov.uk/ukcm/1969/2/images/ukcm_19690002_en_epp_015)[image: see source](https://www.legislation.gov.uk/ukcm/1969/2/images/ukcm_19690002_en_epp_016)
 
@@ -3019,12 +3019,12 @@ Each of the following expressions is defined or otherwise glossed or explained i
 | communion, with Church of England in | Rule 83(3) and (4) |
 | community roll | Rule 83(6) |
 | Constitution | Rule 84(1) |
-| date given in the timetable[^key-f53a450909e8ddaf2c51b3ca283936be] | Rule 52(2) |
+| date given in the timetable[^c-f53a450909e8ddaf2c51b3ca283936be] | Rule 52(2) |
 | diocesan elector | Rule 54(2) and (3) |
 | diocesan electoral registration officer | Rule 27(1) |
 | diocesan safeguarding advisor (in Part 7) | Rule 71(1) |
 | district church council (in Part 9) | Rule M35(1) |
-| enrolment appeal (in Part 6)[^key-37595f8ab1cb38053e6274a8ae5614c8] | Rule 57A(10) |
+| enrolment appeal (in Part 6)[^c-37595f8ab1cb38053e6274a8ae5614c8] | Rule 57A(10) |
 | Form, numbered | Rule 84(3) |
 | full election appeal (in Part 6) | Rule 59A(2) |
 | give | Rule 76(3) and (4) |
@@ -3054,13 +3054,13 @@ Each of the following expressions is defined or otherwise glossed or explained i
 
     [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3) modified (30.6.1999) by [Cathedrals Measure 1999 (No. 1)](https://www.legislation.gov.uk/ukcm/1999/1), [ss. 12(4)](https://www.legislation.gov.uk/ukcm/1999/1/section/12/4), [38(2)(3)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/2/3) (with [ss. 33](https://www.legislation.gov.uk/ukcm/1999/1/section/33), [37](https://www.legislation.gov.uk/ukcm/1999/1/section/37), [38(5)(6)](https://www.legislation.gov.uk/ukcm/1999/1/section/38/5/6))
 
-[^key-5b3e739e1fae85544ac3d29c8b8188eb]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3) applied by [Churchwardens Measure 2001 (No. 1)](https://www.legislation.gov.uk/ukcm/2001/1), [s. 5(7)](https://www.legislation.gov.uk/ukcm/2001/1/section/5/7) (as substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/15); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2))
+[^c-5b3e739e1fae85544ac3d29c8b8188eb]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3) applied by [Churchwardens Measure 2001 (No. 1)](https://www.legislation.gov.uk/ukcm/2001/1), [s. 5(7)](https://www.legislation.gov.uk/ukcm/2001/1/section/5/7) (as substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/15); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2))
 
-[^key-527865d8b5d7a30aaceb7e1461366a6a]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3): power to modify conferred (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [ss. 41(2)(d)](https://www.legislation.gov.uk/ukcm/2021/2/section/41/2/d), [53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-527865d8b5d7a30aaceb7e1461366a6a]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3): power to modify conferred (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [ss. 41(2)(d)](https://www.legislation.gov.uk/ukcm/2021/2/section/41/2/d), [53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-90c23ce1eb9353e4b3bbc1a11fff24b4]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3) modified (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [ss. 40(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/40/3), [53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1)) (as amended (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/3), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24))
+[^c-90c23ce1eb9353e4b3bbc1a11fff24b4]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3) modified (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [ss. 40(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/40/3), [53(3)](https://www.legislation.gov.uk/ukcm/2021/2/section/53/3) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1)) (as amended (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/3), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/24))
 
-[^key-bb00f0d2f32359b842aec8f7761f9e40]: Textual amendment: Sch. 3 substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukcm/2019/1/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/ukcm/2019/1/schedule/3)); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-bb00f0d2f32359b842aec8f7761f9e40]: Textual amendment: Sch. 3 substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukcm/2019/1/schedule/1) (with [Sch. 3](https://www.legislation.gov.uk/ukcm/2019/1/schedule/3)); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
 [^M_F_cc32f965-1546-4489-f5e0-7416b1094c01]: Textual amendment: Words in Sch. 3 rule 1(2)(c) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/2/1)
 
@@ -3072,37 +3072,37 @@ Each of the following expressions is defined or otherwise glossed or explained i
 
 [^M_F_31774951-32e7-44a3-dda4-e258304d7863]: Textual amendment: [Sch. 3 rule 13(8)(c)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/13/8/c) and word inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [3](https://www.legislation.gov.uk/uksi/2025/995/paragraph/3)
 
-[^key-cf37455cbc30afa3e30c9eee4fbf0517]: Textual amendment: Words in [Sch. 3 rule 23(1)(a)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/23/1/a) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/2)
+[^c-cf37455cbc30afa3e30c9eee4fbf0517]: Textual amendment: Words in [Sch. 3 rule 23(1)(a)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/23/1/a) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/2)
 
-[^key-e48e058329621d0e9e070e2ae0545965]: Textual amendment: Words in Sch. 3 rule 27(2) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/11/1)
+[^c-e48e058329621d0e9e070e2ae0545965]: Textual amendment: Words in Sch. 3 rule 27(2) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/11/1)
 
-[^key-8b21f3cee5762ef220b186ceeda4c106]: Textual amendment: Words in Sch. 3 rule 27(3) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/11/1)
+[^c-8b21f3cee5762ef220b186ceeda4c106]: Textual amendment: Words in Sch. 3 rule 27(3) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/11/1)
 
-[^key-3ed0622446e202d627c5c612a92e47c9]: Textual amendment: Sch. 3 rule 27(4) substituted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/11/2)
+[^c-3ed0622446e202d627c5c612a92e47c9]: Textual amendment: Sch. 3 rule 27(4) substituted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/11/2)
 
 [^M_F_66067468-398c-438c-ee95-54417af941b1]: Textual amendment: Sch. 3 rules 27A-27D inserted (1.1.2020) by [The Church Representation Rules (Amendment) Resolution 2019 (S.I. 2019/1182)](https://www.legislation.gov.uk/uksi/2019/1182), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/3/1); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
 [^M_F_f5ee1f6e-1c29-4d39-a259-062ee7a1e526]: Textual amendment: Words in Sch. 3 rule 40(5)(a) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [4](https://www.legislation.gov.uk/uksi/2025/995/paragraph/4)
 
-[^key-9972d043e08ac3c89c9f6c15edc9bf3f]: Textual amendment: Words in Sch. 3 rule 40(8)(b) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/3/2/a)
+[^c-9972d043e08ac3c89c9f6c15edc9bf3f]: Textual amendment: Words in Sch. 3 rule 40(8)(b) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/3/2/a)
 
-[^key-08c7e5e3f7e3d49e89b5f6c0da88dc84]: Textual amendment: Words in Sch. 3 rule 40(9) substituted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/3/2/b)
+[^c-08c7e5e3f7e3d49e89b5f6c0da88dc84]: Textual amendment: Words in Sch. 3 rule 40(9) substituted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/3/2/b)
 
-[^key-9f6f6faa57d214e272e56e028824612c]: Textual amendment: Words in Sch. 3 rule 42(1) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/9/2)
+[^c-9f6f6faa57d214e272e56e028824612c]: Textual amendment: Words in Sch. 3 rule 42(1) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/9/2)
 
-[^key-1423dcf012d201873423b0d2fb733022]: Textual amendment: Words in [Sch. 3 rule 45(5)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/45/5) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 17(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/17/1), [22(2)(g)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/g)
+[^c-1423dcf012d201873423b0d2fb733022]: Textual amendment: Words in [Sch. 3 rule 45(5)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/45/5) substituted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 17(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/17/1), [22(2)(g)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/g)
 
-[^key-87e879d7d336f96a48d8a69089c1de46]: Textual amendment: Words in Sch. 3 rule 46(1)(c) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/2/a)
+[^c-87e879d7d336f96a48d8a69089c1de46]: Textual amendment: Words in Sch. 3 rule 46(1)(c) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/2/a)
 
-[^key-1e679a3f95150c396285479146645607]: Textual amendment: Words in Sch. 3 rule 46(1)(c) omitted (1.9.2020) by virtue of [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/3), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-1e679a3f95150c396285479146645607]: Textual amendment: Words in Sch. 3 rule 46(1)(c) omitted (1.9.2020) by virtue of [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/3), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-f1ca0800ac5d58a027d48455684db70a]: Textual amendment: Words in Sch. 3 rule 46(1)(c) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/2/b)
+[^c-f1ca0800ac5d58a027d48455684db70a]: Textual amendment: Words in Sch. 3 rule 46(1)(c) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/2/b)
 
-[^key-62b3827c5c8c357ded462cf34dfcd148]: Textual amendment: Words in Sch. 3 rule 46(1)(f) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/3)
+[^c-62b3827c5c8c357ded462cf34dfcd148]: Textual amendment: Words in Sch. 3 rule 46(1)(f) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/3)
 
-[^key-282d692118d7d60b6d01c79a9a14044a]: Textual amendment: Word in Sch. 3 rule 46(4)(a) substituted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/4/a)
+[^c-282d692118d7d60b6d01c79a9a14044a]: Textual amendment: Word in Sch. 3 rule 46(4)(a) substituted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/4/a)
 
-[^key-202062e1a74db06e2ccd2c2f14f8b0a7]: Textual amendment: Words in Sch. 3 rule 46(4)(a) omitted (9.4.2020) by virtue of [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(4)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/4/b)
+[^c-202062e1a74db06e2ccd2c2f14f8b0a7]: Textual amendment: Words in Sch. 3 rule 46(4)(a) omitted (9.4.2020) by virtue of [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [12(4)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/12/4/b)
 
 [^M_F_4a8f308b-cacc-47a0-aaae-785e9f5aabe5]: Textual amendment: Words in Sch. 3 rule 49(5) substituted (1.1.2020) by [The Church Representation Rules (Amendment) Resolution 2019 (S.I. 2019/1182)](https://www.legislation.gov.uk/uksi/2019/1182), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/3/2); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
@@ -3110,81 +3110,81 @@ Each of the following expressions is defined or otherwise glossed or explained i
 
 [^M_F_270e4600-0528-462d-ae4a-c2f8cfba4614]: Textual amendment: Sch. 3 rule 49(11)(12) inserted (1.1.2020) by [The Church Representation Rules (Amendment) Resolution 2019 (S.I. 2019/1182)](https://www.legislation.gov.uk/uksi/2019/1182), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/3/4); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-147454ad09ce0046310ac25bc202f27e]: Textual amendment: Words in Sch. 3 rule 50(2) inserted (15.7.2021) by [The Church Representation Rules (Amendment) Resolution 2021 (S.I. 2021/825)](https://www.legislation.gov.uk/uksi/2021/825), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2021/825/paragraph/1/2), [2](https://www.legislation.gov.uk/uksi/2021/825/paragraph/2)
+[^c-147454ad09ce0046310ac25bc202f27e]: Textual amendment: Words in Sch. 3 rule 50(2) inserted (15.7.2021) by [The Church Representation Rules (Amendment) Resolution 2021 (S.I. 2021/825)](https://www.legislation.gov.uk/uksi/2021/825), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2021/825/paragraph/1/2), [2](https://www.legislation.gov.uk/uksi/2021/825/paragraph/2)
 
-[^key-4b5f3305f92c5076027752e045ddbe7b]: Textual amendment: Sch. 3 rule 51(6) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [13](https://www.legislation.gov.uk/uksi/2020/406/paragraph/13)
+[^c-4b5f3305f92c5076027752e045ddbe7b]: Textual amendment: Sch. 3 rule 51(6) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [13](https://www.legislation.gov.uk/uksi/2020/406/paragraph/13)
 
-[^key-821c992644d31766ffa16ba446c9eba4]: Textual amendment: Words in Sch. 3 rule 52(1) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/1) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-821c992644d31766ffa16ba446c9eba4]: Textual amendment: Words in Sch. 3 rule 52(1) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/1) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-e6e18a44be535b195f758a1dadc84cd9]: Textual amendment: Sch. 3 rule 52(2) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/2) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-e6e18a44be535b195f758a1dadc84cd9]: Textual amendment: Sch. 3 rule 52(2) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/2) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-76f3dce2154059baa832f50fb66b94c7]: Textual amendment: Sch. 3 rule 53(6) inserted (6.9.2025) by virtue of [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/3) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-76f3dce2154059baa832f50fb66b94c7]: Textual amendment: Sch. 3 rule 53(6) inserted (6.9.2025) by virtue of [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/3) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-6e0a8cf021314494ff033f5891f31a6e]: Textual amendment: Words in Sch. 3 rule 54(5) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/4) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-6e0a8cf021314494ff033f5891f31a6e]: Textual amendment: Words in Sch. 3 rule 54(5) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/4) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-1a38b5a5ec17cff125578b3606350433]: Textual amendment: Words in Sch. 3 rule 54(6) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/5) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-1a38b5a5ec17cff125578b3606350433]: Textual amendment: Words in Sch. 3 rule 54(6) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/5) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-c212addd6fc78529e9f1e70e540e8ad0]: Textual amendment: Words in Sch. 3 rule 54(8) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/6) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-c212addd6fc78529e9f1e70e540e8ad0]: Textual amendment: Words in Sch. 3 rule 54(8) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/6) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-9027bdb789b8e7c9be2aafea8e1f5091]: Textual amendment: Sch. 3 rule 54(9)-(11) omitted (6.9.2025) by virtue of [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/7) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-9027bdb789b8e7c9be2aafea8e1f5091]: Textual amendment: Sch. 3 rule 54(9)-(11) omitted (6.9.2025) by virtue of [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/7) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-52fbe90e197d668f52c684539b9624f7]: Textual amendment: Words in Sch. 3 rule 55(2) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/8/a) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-52fbe90e197d668f52c684539b9624f7]: Textual amendment: Words in Sch. 3 rule 55(2) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/8/a) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-5c2850dbd3cd541ac4c9638cd283a7d2]: Textual amendment: Words in Sch. 3 rule 55(2) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/8/b) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-5c2850dbd3cd541ac4c9638cd283a7d2]: Textual amendment: Words in Sch. 3 rule 55(2) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/8/b) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-357b96ea3f32e3180daebd09794cf6e2]: Textual amendment: Words in Sch. 3 rule 55(4) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/9) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-357b96ea3f32e3180daebd09794cf6e2]: Textual amendment: Words in Sch. 3 rule 55(4) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/9) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-58411ea90eb2e63c965df4ef01e71ac7]: Textual amendment: Sch. 3 rule 55(6) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/10) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-58411ea90eb2e63c965df4ef01e71ac7]: Textual amendment: Sch. 3 rule 55(6) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/10) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-013d9ba8e9b2da14ad9d58de62357448]: Textual amendment: Sch. 3 rule 55(7) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/11) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-013d9ba8e9b2da14ad9d58de62357448]: Textual amendment: Sch. 3 rule 55(7) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/11) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-950cc29abf5a24eb228d37f3441ac1e3]: Textual amendment: Word in Sch. 3 rule 57(4)(a) omitted (15.7.2020) by virtue of [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [2(1)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/2/1/a)
+[^c-950cc29abf5a24eb228d37f3441ac1e3]: Textual amendment: Word in Sch. 3 rule 57(4)(a) omitted (15.7.2020) by virtue of [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [2(1)(a)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/2/1/a)
 
-[^key-1a5592e2cd27673d79e425362ef0e045]: Textual amendment: Sch. 3 rule 57(4)(c) and word inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [2(1)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/2/1/b)
+[^c-1a5592e2cd27673d79e425362ef0e045]: Textual amendment: Sch. 3 rule 57(4)(c) and word inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [2(1)(b)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/2/1/b)
 
-[^key-1f6ef048d7b7c6ef4974f6d8223e463f]: Textual amendment: Sch. 3 rule 57A inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/2/2)
+[^c-1f6ef048d7b7c6ef4974f6d8223e463f]: Textual amendment: Sch. 3 rule 57A inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/2/2)
 
-[^key-43d4af0b9d7b14cd5765a54094de7a38]: Textual amendment: Sch. 3 rules 58, 58A substituted for Sch. 3 rule 58 (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/3/1)
+[^c-43d4af0b9d7b14cd5765a54094de7a38]: Textual amendment: Sch. 3 rules 58, 58A substituted for Sch. 3 rule 58 (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/3/1)
 
-[^key-d231325b1e1e46e26ed4b17f1beb37fb]: Textual amendment: Sch. 3 rule 59(1) substituted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/4/1)
+[^c-d231325b1e1e46e26ed4b17f1beb37fb]: Textual amendment: Sch. 3 rule 59(1) substituted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [4(1)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/4/1)
 
-[^key-40d6a0b48b32b202cb86fcecc0aadc8e]: Textual amendment: Sch. 3 rule 59(2A) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/4/2)
+[^c-40d6a0b48b32b202cb86fcecc0aadc8e]: Textual amendment: Sch. 3 rule 59(2A) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/4/2)
 
-[^key-1a9faa0c185b3e817ecaf74b171bf204]: Textual amendment: Sch. 3 rule 59A inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [5](https://www.legislation.gov.uk/uksi/2020/406/paragraph/5)
+[^c-1a9faa0c185b3e817ecaf74b171bf204]: Textual amendment: Sch. 3 rule 59A inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [5](https://www.legislation.gov.uk/uksi/2020/406/paragraph/5)
 
-[^key-ed7f48a5482cc2e03ad955b30bd8f5c7]: Textual amendment: Sch. 3 rules 60-60C substituted for Sch. 3 rule 60 (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [6](https://www.legislation.gov.uk/uksi/2020/406/paragraph/6)
+[^c-ed7f48a5482cc2e03ad955b30bd8f5c7]: Textual amendment: Sch. 3 rules 60-60C substituted for Sch. 3 rule 60 (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [6](https://www.legislation.gov.uk/uksi/2020/406/paragraph/6)
 
-[^key-2dec642ad39d68aa4edf6850707d800b]: Modification: Sch. 3 rules 60-60C applied by 2001 No. 1, s. 5A(9) (as inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/10/3))
+[^c-2dec642ad39d68aa4edf6850707d800b]: Modification: Sch. 3 rules 60-60C applied by 2001 No. 1, s. 5A(9) (as inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/10/3))
 
-[^key-0eb3f12995b4e0d786d1faba57cf743b]: Textual amendment: Sch. 3 rules 61-61H substituted for Sch. 3 rule 61 (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [7](https://www.legislation.gov.uk/uksi/2020/406/paragraph/7)
+[^c-0eb3f12995b4e0d786d1faba57cf743b]: Textual amendment: Sch. 3 rules 61-61H substituted for Sch. 3 rule 61 (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [7](https://www.legislation.gov.uk/uksi/2020/406/paragraph/7)
 
-[^key-b6c8648ae49494ab355be0d46299cc43]: Textual amendment: Sch. 3 rule 61I inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [8](https://www.legislation.gov.uk/uksi/2020/406/paragraph/8)
+[^c-b6c8648ae49494ab355be0d46299cc43]: Textual amendment: Sch. 3 rule 61I inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [8](https://www.legislation.gov.uk/uksi/2020/406/paragraph/8)
 
-[^key-403ddb60e7a98299913a65519e29e20c]: Modification: Sch. 3 rule 61I applied by 2001 No. 1, s. 5A(9) (as inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/10/3))
+[^c-403ddb60e7a98299913a65519e29e20c]: Modification: Sch. 3 rule 61I applied by 2001 No. 1, s. 5A(9) (as inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [10(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/10/3))
 
 [^M_F_2ac3bf8c-b5a6-490e-d5fb-8abf6df86d2b]: Textual amendment: Words in Sch. 3 rule 62(4) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [5](https://www.legislation.gov.uk/uksi/2025/995/paragraph/5)
 
-[^key-568fede26d00ff815983316e883d29f1]: Textual amendment: Words in Sch. 3 rule 83(6) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/13) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-568fede26d00ff815983316e883d29f1]: Textual amendment: Words in Sch. 3 rule 83(6) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 13](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/13) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
-[^key-bbf362a605a5c94903e00f8624f0aaf6]: Textual amendment: Words in Sch. 3 rule 83(6) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [14](https://www.legislation.gov.uk/uksi/2020/406/paragraph/14)
+[^c-bbf362a605a5c94903e00f8624f0aaf6]: Textual amendment: Words in Sch. 3 rule 83(6) inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [14](https://www.legislation.gov.uk/uksi/2020/406/paragraph/14)
 
-[^key-8e960deda5416a723c3ea0923a85d82a]: Textual amendment: [Sch. 3 rule 83A](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/83A) and cross-heading inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/1)
+[^c-8e960deda5416a723c3ea0923a85d82a]: Textual amendment: [Sch. 3 rule 83A](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/83A) and cross-heading inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/1)
 
 [^M_F_1a6a88ef-648a-4ab9-9ffd-46aaa99ce705]: Textual amendment: Words in Sch. 3 rule 84(1) inserted (1.1.2020) by [The Church Representation Rules (Amendment) Resolution 2019 (S.I. 2019/1182)](https://www.legislation.gov.uk/uksi/2019/1182), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/1/3), [3(5)](https://www.legislation.gov.uk/uksi/2019/1182/paragraph/3/5); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-02361c82c61e47793f78f596c64678ff]: Textual amendment: Words in [Sch. 3 rule 84(1)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/84/1) inserted (14.7.2021) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/4), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2021/545](https://www.legislation.gov.uk/uksi/2021/545), [art. 2](https://www.legislation.gov.uk/uksi/2021/545/article/2)
+[^c-02361c82c61e47793f78f596c64678ff]: Textual amendment: Words in [Sch. 3 rule 84(1)](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/rule/84/1) inserted (14.7.2021) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/4), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2021/545](https://www.legislation.gov.uk/uksi/2021/545), [art. 2](https://www.legislation.gov.uk/uksi/2021/545/article/2)
 
-[^key-17fc243e195fcf235627683db81e3ac2]: Textual amendment: Words in Sch. 3 rule M5(3) substituted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/3), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
+[^c-17fc243e195fcf235627683db81e3ac2]: Textual amendment: Words in Sch. 3 rule M5(3) substituted (1.3.2022) by [Safeguarding (Code of Practice) Measure 2021 (No. 3)](https://www.legislation.gov.uk/ukcm/2021/3), [ss. 2(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/2/3), [3(3)](https://www.legislation.gov.uk/ukcm/2021/3/section/3/3); [S.I. 2022/118](https://www.legislation.gov.uk/uksi/2022/118), [art. 2](https://www.legislation.gov.uk/uksi/2022/118/article/2)
 
 [^M_F_0da56d06-828b-44ec-f3ef-535f4ca30670]: Textual amendment: Words in Sch. 3 rule M5(4) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [6](https://www.legislation.gov.uk/uksi/2025/995/paragraph/6)
 
 [^M_F_c9b30ca1-cfdf-459c-ac19-654aabb5719e]: Textual amendment: Words in Sch. 3 rule M5(5)(a) substituted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [6](https://www.legislation.gov.uk/uksi/2025/995/paragraph/6)
 
-[^key-2796faace585b2e9df986b0e4209c9a6]: Textual amendment: Sch. 3 rule M8(2A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 17(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/17/2), [22(2)(g)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/g)
+[^c-2796faace585b2e9df986b0e4209c9a6]: Textual amendment: Sch. 3 rule M8(2A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 17(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/17/2), [22(2)(g)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/g)
 
 [^M_F_bde06796-1f1a-4bd1-93d1-e022a396ea08]: Textual amendment: Words in Sch. 3 rule M8(4) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/7/1/a)
 
-[^key-d7fdbb832272b4651ec940b7d7d1c039]: Textual amendment: Sch. 3 rule M8(5)-(7) substituted (15.7.2021) by [The Church Representation Rules (Amendment) Resolution 2021 (S.I. 2021/825)](https://www.legislation.gov.uk/uksi/2021/825), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2021/825/paragraph/1/2), [3](https://www.legislation.gov.uk/uksi/2021/825/paragraph/3)
+[^c-d7fdbb832272b4651ec940b7d7d1c039]: Textual amendment: Sch. 3 rule M8(5)-(7) substituted (15.7.2021) by [The Church Representation Rules (Amendment) Resolution 2021 (S.I. 2021/825)](https://www.legislation.gov.uk/uksi/2021/825), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2021/825/paragraph/1/2), [3](https://www.legislation.gov.uk/uksi/2021/825/paragraph/3)
 
 [^M_F_b9c23414-8f4e-4e2d-f20f-b2e8236a352a]: Textual amendment: Words in Sch. 3 rule M8(8)(a) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [7(1)(b)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/7/1/b)
 
@@ -3200,9 +3200,9 @@ Each of the following expressions is defined or otherwise glossed or explained i
 
 [^M_F_d234432d-203d-4ab1-ee9b-2661ed9070e4]: Textual amendment: Sch. 3 rule M12B inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [9](https://www.legislation.gov.uk/uksi/2025/995/paragraph/9)
 
-[^key-0b5e0524d49d95928a888cad80ad6870]: Textual amendment: Sch. 3 rule M17(4)(5) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [15](https://www.legislation.gov.uk/uksi/2020/406/paragraph/15)
+[^c-0b5e0524d49d95928a888cad80ad6870]: Textual amendment: Sch. 3 rule M17(4)(5) inserted (9.4.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/2), [15](https://www.legislation.gov.uk/uksi/2020/406/paragraph/15)
 
-[^key-d7164392a9ec9bd7b3a663f458c06462]: Textual amendment: Sch. 3 rule M29(2) substituted (6.3.2026) by [The Church Representation Rules (Amendment) Resolution 2026 (S.I. 2026/198)](https://www.legislation.gov.uk/uksi/2026/198), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/198/rule/1/2), [2](https://www.legislation.gov.uk/uksi/2026/198/rule/2)
+[^c-d7164392a9ec9bd7b3a663f458c06462]: Textual amendment: Sch. 3 rule M29(2) substituted (6.3.2026) by [The Church Representation Rules (Amendment) Resolution 2026 (S.I. 2026/198)](https://www.legislation.gov.uk/uksi/2026/198), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/198/rule/1/2), [2](https://www.legislation.gov.uk/uksi/2026/198/rule/2)
 
 [^M_F_3629ab8b-1983-4974-d5b3-29123bf6fe00]: Textual amendment: Sch. 3 Pt. 10 Form 1 para. 2C preceding word “OR” omitted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/2/4/a)
 
@@ -3216,12 +3216,12 @@ Each of the following expressions is defined or otherwise glossed or explained i
 
 [^M_F_2705e682-44bd-48c1-d6a6-b24783e9acae]: Textual amendment: Sch. 3 Pt. 10 Form 1 Note 3: words “or 2C” omitted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 2) Resolution 2025 (S.I. 2025/995)](https://www.legislation.gov.uk/uksi/2025/995), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1/2), [2(4)(f)](https://www.legislation.gov.uk/uksi/2025/995/paragraph/2/4/f)
 
-[^key-2044052800e38841c06e4e7f631df10b]: Textual amendment: Sch. 3 Pt. 10 Form M1: word “at…” inserted after “on the…day of……………20…” (15.7.2021) by [The Church Representation Rules (Amendment) Resolution 2021 (S.I. 2021/825)](https://www.legislation.gov.uk/uksi/2021/825), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2021/825/paragraph/1/2), [4](https://www.legislation.gov.uk/uksi/2021/825/paragraph/4)
+[^c-2044052800e38841c06e4e7f631df10b]: Textual amendment: Sch. 3 Pt. 10 Form M1: word “at…” inserted after “on the…day of……………20…” (15.7.2021) by [The Church Representation Rules (Amendment) Resolution 2021 (S.I. 2021/825)](https://www.legislation.gov.uk/uksi/2021/825), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2021/825/paragraph/1/2), [4](https://www.legislation.gov.uk/uksi/2021/825/paragraph/4)
 
-[^key-794659435940db14fb3f505ca2fba0d8]: Textual amendment: Sch. 3 Pt. 10 Form M1: in the sentence beginning “The Annual Parochial Church Meeting will be held”, the words “\[in……………\] \[and\] \[if applicable, insert details of how to access remote meeting\] on” are substituted for the words from “in” to “on” (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/2)
+[^c-794659435940db14fb3f505ca2fba0d8]: Textual amendment: Sch. 3 Pt. 10 Form M1: in the sentence beginning “The Annual Parochial Church Meeting will be held”, the words “\[in……………\] \[and\] \[if applicable, insert details of how to access remote meeting\] on” are substituted for the words from “in” to “on” (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [s. 22(2)(j)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/j), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukcm/2024/1/schedule/2/paragraph/2)
 
 [^M_F_1dd5f512-e39b-4539-90c4-ac1c0d7f78b9]: Textual amendment: Sch. 3 Pt. 10 Form M1: words “the annual fabric report under section 50 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018” substituted for words “the annual report on the fabric, goods and ornaments of the church or churches of the parish” (1.8.2023) by [The Church Representation Rules (Amendment) Resolution 2023 (S.I. 2023/863)](https://www.legislation.gov.uk/uksi/2023/863), [paras. 1](https://www.legislation.gov.uk/uksi/2025/995/paragraph/1), [4](https://www.legislation.gov.uk/uksi/2025/995/paragraph/4)
 
-[^key-f53a450909e8ddaf2c51b3ca283936be]: Textual amendment: Words in [Sch. 3 Pt. 11](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/part/11) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/12) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
+[^c-f53a450909e8ddaf2c51b3ca283936be]: Textual amendment: Words in [Sch. 3 Pt. 11](https://www.legislation.gov.uk/ukcm/1969/2/schedule/3/part/11) inserted (6.9.2025) by [The Church Representation Rules (Amendment) (No. 1) Resolution 2025 (S.I. 2025/994)](https://www.legislation.gov.uk/uksi/2025/994), [paras. 1(2)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/2/12) (with [para. 1(3)](https://www.legislation.gov.uk/uksi/2025/994/paragraph/1/3))
 
-[^key-37595f8ab1cb38053e6274a8ae5614c8]: Textual amendment: Words in Sch. 3 Pt. 11 inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/10/2)
+[^c-37595f8ab1cb38053e6274a8ae5614c8]: Textual amendment: Words in Sch. 3 Pt. 11 inserted (15.7.2020) by [The Church Representation Rules (Amendment) Resolution 2020 (S.I. 2020/406)](https://www.legislation.gov.uk/uksi/2020/406), [paras. 1(3)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2020/406/paragraph/10/2)

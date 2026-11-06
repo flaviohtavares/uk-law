@@ -31,46 +31,46 @@ Air Corporations Act 1966 (repealed)
 
 1966 c.11
 
-[^key-0d29a4333d6399b0042620da9524b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d29a4333d6399b0042620da9524b5f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[10th March 1966\]
 
 **No longer in force.**
 
-## 1. Capital reconstruction of B.O.A.C.[^key-0d29a4333d6399b0042620da9524b5f4][^key-0d29a4333d6399b0042620da9524b5f4]
+## 1. Capital reconstruction of B.O.A.C.[^c-0d29a4333d6399b0042620da9524b5f4][^c-0d29a4333d6399b0042620da9524b5f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2-8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0d29a4333d6399b0042620da9524b5f4][^key-0d29a4333d6399b0042620da9524b5f4]
+## 2-8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0d29a4333d6399b0042620da9524b5f4][^c-0d29a4333d6399b0042620da9524b5f4]
 
-## 9. Citation, interpretation and repeals.[^key-0d29a4333d6399b0042620da9524b5f4][^key-0d29a4333d6399b0042620da9524b5f4]
+## 9. Citation, interpretation and repeals.[^c-0d29a4333d6399b0042620da9524b5f4][^c-0d29a4333d6399b0042620da9524b5f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-0d29a4333d6399b0042620da9524b5f4] SCHEDULES
+[^c-0d29a4333d6399b0042620da9524b5f4] SCHEDULES
 
-## SCHEDULE 1 — Transferred Stock of British Overseas Airways Corporation[^key-0d29a4333d6399b0042620da9524b5f4]
+## SCHEDULE 1 — Transferred Stock of British Overseas Airways Corporation[^c-0d29a4333d6399b0042620da9524b5f4]
 
 Section 1.
 
-### Renaming of certain Stock[^key-0d29a4333d6399b0042620da9524b5f4]
+### Renaming of certain Stock[^c-0d29a4333d6399b0042620da9524b5f4]
 
-**1.**[^key-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of provisions applicable to Government Stock[^key-0d29a4333d6399b0042620da9524b5f4]
+### Application of provisions applicable to Government Stock[^c-0d29a4333d6399b0042620da9524b5f4]
 
-**2.**[^key-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transitional provisions[^key-0d29a4333d6399b0042620da9524b5f4]
+### Transitional provisions[^c-0d29a4333d6399b0042620da9524b5f4]
 
-**4.**[^key-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0d29a4333d6399b0042620da9524b5f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d29a4333d6399b0042620da9524b5f4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1966/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-0d29a4333d6399b0042620da9524b5f4]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1966/11) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

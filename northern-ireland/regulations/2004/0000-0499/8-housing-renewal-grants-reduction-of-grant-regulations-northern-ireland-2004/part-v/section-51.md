@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Further disregard of student’s income[^key-13af20ff13e2ac472e914e56be766ab3]
+## 51. Further disregard of student’s income[^c-13af20ff13e2ac472e914e56be766ab3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where any part of a student’s income has already been taken into account for t
 
 ## Annotations
 
-[^key-13af20ff13e2ac472e914e56be766ab3]: Commencement: Reg. 51 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-13af20ff13e2ac472e914e56be766ab3]: Commencement: Reg. 51 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

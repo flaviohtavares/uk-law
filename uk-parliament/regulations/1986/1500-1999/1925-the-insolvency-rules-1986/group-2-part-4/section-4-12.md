@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.12. Verification of petition[^key-bf10fa457660e16abe8898f376ff1c5d]
+## 4.12. Verification of petition[^c-bf10fa457660e16abe8898f376ff1c5d]
 
 *Extent: E+W*
 
@@ -41,12 +41,12 @@ summary: ''
 
 (7) An affidavit verifying more than one petition shall include in its title the names of the companies to which it relates and shall set out, in respect of each company, the statements relied on by the petitioner; and a clear and legible photocopy of the affidavit shall be filed with each petition which it verifies.
 
-(8)[^key-95c1d556b5e1083831c0378e8762483e] The affidavit shall state whether, in the opinion of the person making the application, (i) the EC Regulation will apply and (ii) if so, whether the proceedings will be main proceedings or territorial proceedings.
+(8)[^c-95c1d556b5e1083831c0378e8762483e] The affidavit shall state whether, in the opinion of the person making the application, (i) the EC Regulation will apply and (ii) if so, whether the proceedings will be main proceedings or territorial proceedings.
 
 ## Annotations
 
-[^key-bf10fa457660e16abe8898f376ff1c5d]: Commencement: Rule 4.12 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bf10fa457660e16abe8898f376ff1c5d]: Commencement: Rule 4.12 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00036]: Marginal citation: \[FORM 4.2\] \[FORM 4.3\]
 
-[^key-95c1d556b5e1083831c0378e8762483e]: Textual amendment: Rule 4.12(8) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/1/2), [20](https://www.legislation.gov.uk/uksi/2005/527/rule/20)
+[^c-95c1d556b5e1083831c0378e8762483e]: Textual amendment: Rule 4.12(8) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/rule/1/2), [20](https://www.legislation.gov.uk/uksi/2005/527/rule/20)

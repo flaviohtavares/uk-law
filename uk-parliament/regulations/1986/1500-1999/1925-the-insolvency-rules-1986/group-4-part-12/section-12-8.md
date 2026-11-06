@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.8. Insolvency practitioner's security[^key-fbd1805b6e08824515e4e366d7fbad69]
+## 12.8. Insolvency practitioner's security[^c-fbd1805b6e08824515e4e366d7fbad69]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ to review from time to time the adequacy of the responsible insolvency practitio
 
 ## Annotations
 
-[^key-fbd1805b6e08824515e4e366d7fbad69]: Commencement: [Rule 12.8](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.8) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fbd1805b6e08824515e4e366d7fbad69]: Commencement: [Rule 12.8](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.8) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

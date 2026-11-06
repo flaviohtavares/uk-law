@@ -48,7 +48,7 @@ unless he has successfully completed training in accordance with the regulations
 (5) Regulations under this Article may, in particular, include–
 
 - (a) provision about the nature of training;
-- (b) provision for the approval by the Department of persons providing training or giving instruction as part of training and the withdrawal of approval (including provision for appeals to a court of summary jurisdiction [^key-125e5dab868ddd484c1f108e0ebdd4fa]... against refusal and withdrawal of approval) and provision for exemptions from any requirement of approval;
+- (b) provision for the approval by the Department of persons providing training or giving instruction as part of training and the withdrawal of approval (including provision for appeals to a court of summary jurisdiction [^c-125e5dab868ddd484c1f108e0ebdd4fa]... against refusal and withdrawal of approval) and provision for exemptions from any requirement of approval;
 - (c) provision for the training or assessment, or the supervision of training or assessment, of persons providing training or giving instruction as part of training;
 - (d) provision for the evidencing of the successful completion of training; and
 - (e) provision authorising the Department to make available information about persons providing training or giving instruction as part of training.
@@ -57,4 +57,4 @@ unless he has successfully completed training in accordance with the regulations
 
 ## Annotations
 
-[^key-125e5dab868ddd484c1f108e0ebdd4fa]: Textual amendment: Words in art. 64(5)(b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 132(9)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/132/9), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-125e5dab868ddd484c1f108e0ebdd4fa]: Textual amendment: Words in art. 64(5)(b) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 132(9)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/132/9), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

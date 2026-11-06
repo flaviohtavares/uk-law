@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.116. Procedure on removal[^key-d5f48ed67571dfa9f3f8fa60b8cdfb01]
+## 4.116. Procedure on removal[^c-d5f48ed67571dfa9f3f8fa60b8cdfb01]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5f48ed67571dfa9f3f8fa60b8cdfb01]: Commencement: [Rule 4.116](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.116) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d5f48ed67571dfa9f3f8fa60b8cdfb01]: Commencement: [Rule 4.116](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.116) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

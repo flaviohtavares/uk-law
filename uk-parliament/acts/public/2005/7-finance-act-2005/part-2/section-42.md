@@ -34,7 +34,7 @@ summary: ''
 (5) In section 35—
 
 - (a) in subsection (1), for “those trusts are qualifying trusts if they are” substitute “ the property is held in qualifying trust if the trust is ”,
-- (b)[^key-4673cd72b9e41d068743fbbfcfbfaa52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4673cd72b9e41d068743fbbfcfbfaa52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (2), before “which” insert “ the purposes of ”.
 
 (6) In section 36, for “the trusts on which it is held are qualifying trusts” substitute “ it is held in qualifying trust ”.
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4673cd72b9e41d068743fbbfcfbfaa52]: Textual amendment: S. 42(5)(b) repealed (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/5)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)
+[^c-4673cd72b9e41d068743fbbfcfbfaa52]: Textual amendment: S. 42(5)(b) repealed (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 13 para. 35(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/5)[(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/35/7), [Sch. 26 Pt. 3(15)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/15)

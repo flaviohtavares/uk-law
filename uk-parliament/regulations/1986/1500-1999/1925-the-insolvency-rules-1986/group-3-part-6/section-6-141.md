@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.141. Recourse to the court[^key-1c8c6cf0dde081e78e56496c3a60c4c1]
+## 6.141. Recourse to the court[^c-1c8c6cf0dde081e78e56496c3a60c4c1]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) If there is no creditors' committee, the trustee's notice of his application shall be sent to such one or more of the bankrupt's creditors as the court may direct, which creditors may nominate one or more of their number to appear or be represented.
 
-(4) The court may, if it appears to be a proper case, order the costs of the trustee's application, including the costs of any member of the creditors' committee appearing or being represented[^key-ffd5883c4fa2602cfb3182c8f5d84457] on it, or any creditor so appearing or being represented, to be paid out of the estate.
+(4) The court may, if it appears to be a proper case, order the costs of the trustee's application, including the costs of any member of the creditors' committee appearing or being represented[^c-ffd5883c4fa2602cfb3182c8f5d84457] on it, or any creditor so appearing or being represented, to be paid out of the estate.
 
 ## Annotations
 
-[^key-1c8c6cf0dde081e78e56496c3a60c4c1]: Commencement: [Rule 6.141](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.141) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1c8c6cf0dde081e78e56496c3a60c4c1]: Commencement: [Rule 6.141](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.141) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-ffd5883c4fa2602cfb3182c8f5d84457]: Textual amendment: Words in [rule 6.141(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.141/4) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 115](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/115)
+[^c-ffd5883c4fa2602cfb3182c8f5d84457]: Textual amendment: Words in [rule 6.141(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.141/4) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 115](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/115)

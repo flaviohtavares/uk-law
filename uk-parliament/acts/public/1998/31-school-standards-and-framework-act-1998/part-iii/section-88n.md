@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88N. Further provision about schemes adopted or made by virtue of section 88M[^key-fff7d3364a51a0a8358573f4fba9676d]
+## 88N. Further provision about schemes adopted or made by virtue of section 88M[^c-fff7d3364a51a0a8358573f4fba9676d]
 
 *Extent: E+W*
 
 (1) Regulations may make provision about the contents of schemes under section 88M(2), including provision about the duties that may be imposed by such schemes on—
 
-- (a) local authorities[^key-570ae5afeec7f2b1ffee877e975cdee5] in England, and
+- (a) local authorities[^c-570ae5afeec7f2b1ffee877e975cdee5] in England, and
 - (b) the admission authorities for maintained schools in England.
 
-(2) Regulations may provide that where a local authority[^key-5177265949adaa73e26402711f36dc2e] in England or the governing body of a maintained school in England have, in such manner as may be prescribed, adopted a scheme formulated by a local authority for the purpose mentioned in section 88M(1)(a), sections 496 and 497 of the Education Act 1996 are to apply as if any obligations imposed on the local authority or governing body under the scheme were duties imposed on them by that Act.
+(2) Regulations may provide that where a local authority[^c-5177265949adaa73e26402711f36dc2e] in England or the governing body of a maintained school in England have, in such manner as may be prescribed, adopted a scheme formulated by a local authority for the purpose mentioned in section 88M(1)(a), sections 496 and 497 of the Education Act 1996 are to apply as if any obligations imposed on the local authority or governing body under the scheme were duties imposed on them by that Act.
 
 (3) Regulations may provide that where any decision as to whether a child is to be granted or refused admission to a maintained school in England falls to be made in prescribed circumstances, the decision must, if a scheme adopted or made by virtue of section 88M so provides, be made by the local authority regardless of whether they are the admission authority for the school.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fff7d3364a51a0a8358573f4fba9676d]: Textual amendment: Ss. 88B-88Q inserted (2.12.2008 for specified purposes, 26.1.2009 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 151(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/151/4), [173(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/b/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
+[^c-fff7d3364a51a0a8358573f4fba9676d]: Textual amendment: Ss. 88B-88Q inserted (2.12.2008 for specified purposes, 26.1.2009 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 151(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/151/4), [173(2)(b)(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/2/b/4); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/a), [4(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/d)
 
-[^key-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-570ae5afeec7f2b1ffee877e975cdee5]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/3) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))

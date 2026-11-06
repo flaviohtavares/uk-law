@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Amendment of regulation 38 (register)[^key-1da7edc6eb9eb7758ee423f075c27a1a]
+## 20. Amendment of regulation 38 (register)[^c-1da7edc6eb9eb7758ee423f075c27a1a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In regulation 38 (register)—
 
 ## Annotations
 
-[^key-1da7edc6eb9eb7758ee423f075c27a1a]: Commencement: Reg. 20 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-1da7edc6eb9eb7758ee423f075c27a1a]: Commencement: Reg. 20 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

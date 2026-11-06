@@ -134,7 +134,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Northern Ireland Assembly
 
-### 3. MPs to be disqualified for membership of Assembly[^c22089041][^key-ab63496dbf60cc41c6416928ca352e8b]
+### 3. MPs to be disqualified for membership of Assembly[^c22089041][^c-ab63496dbf60cc41c6416928ca352e8b]
 
 (1) In section 1(1) of the Northern Ireland Assembly Disqualification Act 1975 (disqualification of holders of certain offices etc), before paragraph (a) insert—
 
@@ -165,7 +165,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) In section 47(4) of that Act (remuneration of members), for “either House of Parliament” substitute “ the House of Lords ”.
 
-### 4. Members of the Dàil Èireann to be disqualified for membership of Assembly[^c22089071][^key-36d7b4dc30aa59ea4e76446eb2efc765]
+### 4. Members of the Dàil Èireann to be disqualified for membership of Assembly[^c22089071][^c-36d7b4dc30aa59ea4e76446eb2efc765]
 
 (1) In section 1(1) of the Northern Ireland Assembly Disqualification Act 1975 (disqualification of holders of certain offices etc), before paragraph (e) insert—
 
@@ -179,7 +179,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > A person returned at an election as a member of the Northern Ireland Assembly is not disqualified under section 1(1)(db) at any time in the period of 8 days beginning with the day the person is so returned.
 
-### 5. Statements by prospective members of Assembly[^c22089081][^key-3537fb955bc81f41a94bd6de567d3a98]
+### 5. Statements by prospective members of Assembly[^c22089081][^c-3537fb955bc81f41a94bd6de567d3a98]
 
 (1) The Northern Ireland Assembly (Elections) Order 2001 (S.I. 2001/2599) is amended as follows.
 
@@ -280,7 +280,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Justice Minister
 
-### 8. Appointment of Justice Minister[^key-8f73442eb635a93444d185f0a9d8b256]
+### 8. Appointment of Justice Minister[^c-8f73442eb635a93444d185f0a9d8b256]
 
 (1) Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with policing and justice functions) is amended as follows.
 
@@ -321,7 +321,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 > (18) In this paragraph and paragraph 3E “**nominating officer**” has the same meaning as in section 18.
 
-### 9. Reappointment of other Northern Ireland Ministers in certain cases[^key-24030216c1c0d15514404a88fd0af4cb]
+### 9. Reappointment of other Northern Ireland Ministers in certain cases[^c-24030216c1c0d15514404a88fd0af4cb]
 
 In Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with policing and justice functions), after paragraph 3D insert—
 
@@ -444,7 +444,7 @@ In Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with poli
   - (i) section 10(4BA) (as inserted by subsection (1)(c));
   - (ii) section 201(2) and (2A) (as amended by subsection (2)).
 
-### 14. Registration as an elector: abolition of 3 month residence requirement[^key-41528c4c6ce64a78e1ad939717cfca93]
+### 14. Registration as an elector: abolition of 3 month residence requirement[^c-41528c4c6ce64a78e1ad939717cfca93]
 
 (1) The following provisions (which impose or relate to the requirement that persons registering as electors in Northern Ireland must have been resident there for three months) are repealed or revoked—
 
@@ -469,9 +469,9 @@ In Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with poli
   - (ii) in Part 2, omit paragraph 7(1);
 - (b) in the Representation of the People Act 2000, omit paragraph 7 of Schedule 1.
 
-### 15. Registration as an overseas elector: declaration of nationality[^key-002cb78d5e1b225fb3b5ee4a139bf56b]
+### 15. Registration as an overseas elector: declaration of nationality[^c-002cb78d5e1b225fb3b5ee4a139bf56b]
 
-(1)[^key-1ea908ec00294d83d8dcc4ad6f96d992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1ea908ec00294d83d8dcc4ad6f96d992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741), in regulation 20 (contents of overseas elector's declaration)—
 
@@ -523,7 +523,7 @@ In Part 1A of Schedule 4A to the Northern Ireland Act 1998 (department with poli
 
   > (6) In this regulation “**eligible Irish citizen**” has the meaning given by section 2(9) and (10) of the 1985 Act.
 
-### 16. Absent voting[^key-76dad6cb830dcf56ced9d493261f5067]
+### 16. Absent voting[^c-76dad6cb830dcf56ced9d493261f5067]
 
 (1) In section 13BA of the Representation of the People Act 1983 (alteration of registers in Northern Ireland: pending elections), omit subsection (4) (which prevents late registration as an absent voter).
 
@@ -706,7 +706,7 @@ the amendment or revocation is treated, for the purposes of that enactment, as h
 
 (3) Subject to subsections (1) and (2), this Act extends to the whole of the United Kingdom.
 
-(4)[^key-838d7746cc6365263f1e60100c1063d3] See also paragraph 38 of Schedule 1 to the Elections Act 2022 (which relates to section 17 of this Act: electoral identity cards).
+(4)[^c-838d7746cc6365263f1e60100c1063d3] See also paragraph 38 of Schedule 1 to the Elections Act 2022 (which relates to section 17 of this Act: electoral identity cards).
 
 ### 28. Commencement
 
@@ -853,27 +853,27 @@ Section 21
 
 [^c22089041]: Commencement: S. 3 in force at 5.5.2016 unless the Northern Ireland Assembly is dissolved at an earlier date, see ss. 7, 28(6)
 
-[^key-ab63496dbf60cc41c6416928ca352e8b]: Commencement: S. 3 in force at 29.3.2016, being the first day after this Act is passed on which the Northern Ireland Assembly is dissolved, see s. 28(6)
+[^c-ab63496dbf60cc41c6416928ca352e8b]: Commencement: S. 3 in force at 29.3.2016, being the first day after this Act is passed on which the Northern Ireland Assembly is dissolved, see s. 28(6)
 
 [^c22089071]: Commencement: S. 4 in force at 5.5.2016 unless the Northern Ireland Assembly is dissolved at an earlier date, see ss. 7, 28(6)
 
-[^key-36d7b4dc30aa59ea4e76446eb2efc765]: Commencement: S. 3 in force at 29.3.2016, being the first day after this Act is passed on which the Northern Ireland Assembly is dissolved, see s. 28(6)
+[^c-36d7b4dc30aa59ea4e76446eb2efc765]: Commencement: S. 3 in force at 29.3.2016, being the first day after this Act is passed on which the Northern Ireland Assembly is dissolved, see s. 28(6)
 
 [^c22089081]: Commencement: S. 5 in force at 5.5.2016 unless the Northern Ireland Assembly is dissolved at an earlier date, see ss. 7, 28(6)
 
-[^key-3537fb955bc81f41a94bd6de567d3a98]: Commencement: S. 3 in force at 29.3.2016, being the first day after this Act is passed on which the Northern Ireland Assembly is dissolved, see s. 28(6)
+[^c-3537fb955bc81f41a94bd6de567d3a98]: Commencement: S. 3 in force at 29.3.2016, being the first day after this Act is passed on which the Northern Ireland Assembly is dissolved, see s. 28(6)
 
-[^key-8f73442eb635a93444d185f0a9d8b256]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/13/section/8) in force at 27.9.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
+[^c-8f73442eb635a93444d185f0a9d8b256]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/13/section/8) in force at 27.9.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/a)
 
-[^key-24030216c1c0d15514404a88fd0af4cb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/13/section/9) in force at 27.9.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/b)
+[^c-24030216c1c0d15514404a88fd0af4cb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/13/section/9) in force at 27.9.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/1/b)
 
-[^key-41528c4c6ce64a78e1ad939717cfca93]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/13/section/14) in force at 1.10.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
+[^c-41528c4c6ce64a78e1ad939717cfca93]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/13/section/14) in force at 1.10.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/a)
 
-[^key-002cb78d5e1b225fb3b5ee4a139bf56b]: Commencement: S. 15 in force at 1.10.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/b)
+[^c-002cb78d5e1b225fb3b5ee4a139bf56b]: Commencement: S. 15 in force at 1.10.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/b)
 
-[^key-1ea908ec00294d83d8dcc4ad6f96d992]: Textual amendment: S. 15(1) repealed (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 11(e)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/11/e) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-1ea908ec00294d83d8dcc4ad6f96d992]: Textual amendment: S. 15(1) repealed (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 11(e)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/11/e) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
 
-[^key-76dad6cb830dcf56ced9d493261f5067]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/13/section/16) in force at 1.10.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/c)
+[^c-76dad6cb830dcf56ced9d493261f5067]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/13/section/16) in force at 1.10.2014 by [S.I. 2014/2613](https://www.legislation.gov.uk/uksi/2014/2613), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2014/2613/article/2/2/c)
 
 [^c22079731]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/13/section/18) partly in force; [s. 18(1)(2)(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/18/1/2/4) in force at 13.5.2014, see [s. 28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4) and s. 18(3) in force for E.W. at 10.6.2014 and for S. at 19.9.2004, see [s. 28(5)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/5) and [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/414/article/5/m)
 
@@ -881,4 +881,4 @@ Section 21
 
 [^c22089091]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/13/section/24) coming into force in accordance with s. 28(1)(h)(3)
 
-[^key-838d7746cc6365263f1e60100c1063d3]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/27/4) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/39); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
+[^c-838d7746cc6365263f1e60100c1063d3]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/27/4) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/39); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)

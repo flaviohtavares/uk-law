@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Matters to be ascertained[^key-7c7064aa3817b9786fb16ff44616a37c]
+## 5. Matters to be ascertained[^c-7c7064aa3817b9786fb16ff44616a37c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ This is subject to paragraph 7 of Schedule 5.
 
 ## Annotations
 
-[^key-7c7064aa3817b9786fb16ff44616a37c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/25/section/5) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-7c7064aa3817b9786fb16ff44616a37c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/25/section/5) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

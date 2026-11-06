@@ -42,19 +42,19 @@ Coming into force in accordance with regulation 1
 
 [^c23991471]A draft of these Regulations was laid before Parliament in accordance with section 176(1) of the Social Security Contributions and Benefits Act 1992 and approved by resolution of each House of Parliament.
 
-This instrument contains only regulations made by virtue of, or consequential upon, the Schedule to the Parental Bereavement (Leave and Pay) Act 2018 [^c23991481] and is made before the end of the period of 6 months beginning with the coming into force of that enactment [^c23991491].[^key-b3b7492aa76c847b4d36f56cb2b9e1e8]
+This instrument contains only regulations made by virtue of, or consequential upon, the Schedule to the Parental Bereavement (Leave and Pay) Act 2018 [^c23991481] and is made before the end of the period of 6 months beginning with the coming into force of that enactment [^c23991491].[^c-b3b7492aa76c847b4d36f56cb2b9e1e8]
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-b1b95a4485ab4da0c529f229d7dc8608]
+### 1. Citation and commencement[^c-b1b95a4485ab4da0c529f229d7dc8608]
 
 These Regulations may be cited as the Statutory Parental Bereavement Pay (General) Regulations 2020 and come into force on the day after the day on which they are made.
 
-### 2. Application[^key-ddd22cfc6932556d85ceac85a7782683]
+### 2. Application[^c-ddd22cfc6932556d85ceac85a7782683]
 
 These Regulations apply in respect of children who die on or after 6th April 2020.
 
-### 3. Interpretation[^key-78c49f8be2ad778543a295b895ed2e43]
+### 3. Interpretation[^c-78c49f8be2ad778543a295b895ed2e43]
 
 (1) In these Regulations—
 
@@ -88,7 +88,7 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
 ## PART 2 — ENTITLEMENT
 
-### 4. Conditions of entitlement to statutory parental bereavement pay[^key-b855c35fb75c79b46511de9f20e95c41]
+### 4. Conditions of entitlement to statutory parental bereavement pay[^c-b855c35fb75c79b46511de9f20e95c41]
 
 (1) The conditions prescribed under section 171ZZ6(3) of the 1992 Act (conditions as to relationship with a child who has died) are that, at the date of C's death, the person is—
 
@@ -146,22 +146,22 @@ These Regulations apply in respect of children who die on or after 6th April 202
 
   but do not include any other adoptive relationships.
 
-### 5. Number of weeks of pay[^key-694c7593c868718107cb92deab2eb590]
+### 5. Number of weeks of pay[^c-694c7593c868718107cb92deab2eb590]
 
 The number of weeks in respect of which a person is entitled to payments of statutory parental bereavement pay is two weeks.
 
-### 6. Options in respect of payment of statutory parental bereavement pay[^key-ee45b289344fb0968c02c2241704adc9]
+### 6. Options in respect of payment of statutory parental bereavement pay[^c-ee45b289344fb0968c02c2241704adc9]
 
 A person may choose for statutory parental bereavement pay to be paid in respect of—
 
 - (a) a single period of either one week or two weeks, or
 - (b) discontinuous periods of a week each.
 
-### 7. Qualifying period[^key-e6b0d83a5bf5cc822bdd345d39c7e946]
+### 7. Qualifying period[^c-e6b0d83a5bf5cc822bdd345d39c7e946]
 
 The qualifying period for the purposes of section 171ZZ9(5) of the 1992 Act (period within which statutory parental bereavement pay is payable) is a period of 56 weeks beginning with the date of C's death.
 
-### 8. Notice and evidence requirements for statutory parental bereavement pay[^key-90bc00730ac2cc4c6ddaf831f5a51150]
+### 8. Notice and evidence requirements for statutory parental bereavement pay[^c-90bc00730ac2cc4c6ddaf831f5a51150]
 
 (1) The notice provided for in section 171ZZ7(1) of the 1992 Act (notice to be given stating the week or weeks in respect of which payments are to be made) must be given to whoever will be liable to pay statutory parental bereavement pay—
 
@@ -196,7 +196,7 @@ The qualifying period for the purposes of section 171ZZ9(5) of the 1992 Act (per
 - “**Period A**” means the period of 56 days beginning with the date of C's death;
 - “**Period B**” means the period beginning the day after the end of Period A and ending with the end of the period specified in regulation 7.
 
-### 9. Cases where there is no liability to pay statutory parental bereavement pay[^key-c88b81fc3f56c0970a6579128525e707]
+### 9. Cases where there is no liability to pay statutory parental bereavement pay[^c-c88b81fc3f56c0970a6579128525e707]
 
 (1) There is no liability to pay statutory parental bereavement pay to a person in respect of any week—
 
@@ -210,7 +210,7 @@ The qualifying period for the purposes of section 171ZZ9(5) of the 1992 Act (per
 - (b) is subsequently found not guilty of any offence and is released, or
 - (c) is convicted of an offence but does not receive a custodial sentence.
 
-### 10. Work during period of payment of statutory parental bereavement pay[^key-e805212d46ddae64f7cebea4e2ec995c]
+### 10. Work during period of payment of statutory parental bereavement pay[^c-e805212d46ddae64f7cebea4e2ec995c]
 
 (1) Despite section 171ZZ9(8) of the 1992 Act (statutory parental bereavement pay not payable to a person in respect of a week during any part of which the person works for any employer who is not liable to pay the person statutory parental bereavement pay), statutory parental bereavement pay is payable to a person in respect of a statutory pay week [^c23991661] during any part of which the person works only for an employer—
 
@@ -223,7 +223,7 @@ The qualifying period for the purposes of section 171ZZ9(5) of the 1992 Act (per
 
 ## PART 3 — CONDITIONS OF ENTITLEMENT RELATING TO EMPLOYMENT AND EARNINGS
 
-### 11. Treatment of persons as employees[^key-0f0a60ef4a021ddeaf659abc85f7b7db]
+### 11. Treatment of persons as employees[^c-0f0a60ef4a021ddeaf659abc85f7b7db]
 
 (1) A person is treated as an employee for the purposes of Part 12ZD of the 1992 Act (even though not falling within the definition of ‘employee’ in section 171ZZ14(2) of that Act) where, and in so far as, that person is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations 1978 [^c23991671] (but see paragraph (3)).
 
@@ -245,7 +245,7 @@ as they have effect in relation to a person who is, or as the case may be, is no
   - (i) is exempt from the provisions of the 1992 Act, or
   - (ii) is a person against whom the provisions of the 1992 Act are not enforceable.
 
-### 12. Continuous employment[^key-88ddd8f0019782b17381bbccb688cf43]
+### 12. Continuous employment[^c-88ddd8f0019782b17381bbccb688cf43]
 
 (1) A week is to be treated for the purposes of section 171ZZ6 of the 1992 Act as part of a period of continuous employment with the employer even though no contract of service exists with that employer in respect of that week in the circumstances mentioned in paragraph (2) and subject to paragraphs (3) and (4).
 
@@ -269,7 +269,7 @@ and returns to work for their employer after the incapacity for or absence from 
 
 then in that case paragraph (2) shall apply as if the words “and returns to work for their employer after the incapacity for or absence from work” were omitted.
 
-### 13. Continuous employment and unfair dismissal[^key-3a4165050543e2dcf5ffecc7ddc0dea3]
+### 13. Continuous employment and unfair dismissal[^c-3a4165050543e2dcf5ffecc7ddc0dea3]
 
 (1) Where in consequence of specified action in relation to a person's dismissal, the person is reinstated or re-engaged by their employer or by a successor or associated employer of that employer then—
 
@@ -285,7 +285,7 @@ then in that case paragraph (2) shall apply as if the words “and returns to wo
   - (ii) that person making a claim in accordance with a dismissal procedures agreement designated by an order under section 110 of that Act [^c23991701], or
   - (iii) any action taken by a conciliation officer under sections 18A to 18C (conciliation) of the Employment Tribunals Act 1996 [^c23991711].
 
-### 14. Continuous employment and stoppages of work[^key-b9a7887226c8ca7c8cd78e9af06d2374]
+### 14. Continuous employment and stoppages of work[^c-b9a7887226c8ca7c8cd78e9af06d2374]
 
 (1) Where a person does not work for any week or part of a week because there is a stoppage of work at that person's place of employment due to a trade dispute within the meaning of section 35(1) of the Jobseekers Act 1995 [^c23991721] then—
 
@@ -296,7 +296,7 @@ then in that case paragraph (2) shall apply as if the words “and returns to wo
 
 (3) Paragraph (1)(b) and paragraph (2) do not apply to a person who proves that at no time did they have a direct interest in the trade dispute in question.
 
-### 15. Modification for periods of employment between 25 and 26 weeks[^key-07a2c4142a0f336915e50b721d891b37]
+### 15. Modification for periods of employment between 25 and 26 weeks[^c-07a2c4142a0f336915e50b721d891b37]
 
 (1) This regulation applies where a person has been in employed earner's employment with the same employer in each of 26 consecutive weeks (but no more than 26 weeks), ending with the week immediately preceding the week of C's death.
 
@@ -305,7 +305,7 @@ then in that case paragraph (2) shall apply as if the words “and returns to wo
 - (a) the first Saturday after the start date, or
 - (b) where the start date is a Saturday, that day.
 
-### 16. Change of employer[^key-a8ac29bc46e9e33ada6524de6b507aa3]
+### 16. Change of employer[^c-a8ac29bc46e9e33ada6524de6b507aa3]
 
 (1) Where a person's employer changes, a person's employment is to be treated for the purposes of section 171ZZ6 of the 1992 Act as continuous employment with the second employer in the following circumstances—
 
@@ -318,7 +318,7 @@ then in that case paragraph (2) shall apply as if the words “and returns to wo
 
 (2) In paragraph (1)(e) “associated employer” must be construed in accordance with section 231 of the Employment Rights Act 1996.
 
-### 17. Reinstatement after service with the armed forces[^key-9b581ef779d23fd54763ca847c352a0f]
+### 17. Reinstatement after service with the armed forces[^c-9b581ef779d23fd54763ca847c352a0f]
 
 Where a person—
 
@@ -327,7 +327,7 @@ Where a person—
 
 that person's previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in that six month period shall be treated as continuous for the purposes of section 171ZZ6 of the 1992 Act.
 
-### 18. Treatment of two or more employers or two or more contracts of service as one[^key-cae38a54e446095634b5e0d372d03775]
+### 18. Treatment of two or more employers or two or more contracts of service as one[^c-cae38a54e446095634b5e0d372d03775]
 
 (1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) (aggregation of earnings paid in respect of different employed earner's employments by different persons) of the Social Security (Contributions) Regulations 2001 [^c23991741], the employers of that person in respect of those employments shall be treated as one for the purposes of Part 12ZD of the 1992 Act (and these Regulations).
 
@@ -335,7 +335,7 @@ that person's previous period of employment with that employer (or if there was 
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part 12ZD of the 1992 Act (and these Regulations) except where, by virtue of regulation 14 (aggregation of earnings paid in respect of separate employed earner's employments under the same employer) of the Social Security (Contributions) Regulations 2001, the earnings from those contracts of service are not aggregated for the purpose of earnings-related contributions.
 
-### 19. Normal weekly earnings[^key-14afbe6fcb600c4c6e65af060863d86f]
+### 19. Normal weekly earnings[^c-14afbe6fcb600c4c6e65af060863d86f]
 
 (1) For the purposes of section 171ZZ14(6) (which defines normal weekly earnings for the purposes of Part 12ZD of the 1992 Act) “earnings” and “relevant period” have the meanings given in this regulation.
 
@@ -370,7 +370,7 @@ that person's previous period of employment with that employer (or if there was 
 
 (8) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
 
-(8A)[^key-b01b1a76a92b8cfe757ebd5361631ef7] Paragraph (8B) applies where for all or part of the relevant period—
+(8A)[^c-b01b1a76a92b8cfe757ebd5361631ef7] Paragraph (8B) applies where for all or part of the relevant period—
 
 - (a) a person is a furloughed employee;
 - (b) the person’s employer has claimed and is in receipt of financial support in respect of the person’s earnings under the Coronavirus Job Retention Scheme; and
@@ -392,11 +392,11 @@ that person's previous period of employment with that employer (or if there was 
 
 ## PART 4 — PAYMENT OF STATUTORY PARENTAL BEREAVEMENT PAY
 
-### 20. Weekly rate of payment[^key-c2183e2243d09ea20883b2ebb077c3d1]
+### 20. Weekly rate of payment[^c-c2183e2243d09ea20883b2ebb077c3d1]
 
 (1) The weekly rate of payment of statutory parental bereavement pay is the smaller of the following two amounts—
 
-- (a) £194.32[^key-6e41184de535cc7d202cbd3a3ce07486];
+- (a) £194.32[^c-6e41184de535cc7d202cbd3a3ce07486];
 - (b) 90% of the normal weekly earnings of the person claiming statutory parental bereavement pay determined in accordance with section 171ZZ14(6) of the 1992 Act and regulation 19.
 
 (2) Where the amount of any payment of statutory parental bereavement pay is calculated by reference to—
@@ -406,7 +406,7 @@ that person's previous period of employment with that employer (or if there was 
 
 and that amount includes a fraction of a penny, the payment shall be rounded up to the nearest whole number of pence.
 
-### 21. Statutory parental bereavement pay and contractual remuneration[^key-fe93df25884a416ca65c3ac4c06cee77]
+### 21. Statutory parental bereavement pay and contractual remuneration[^c-fe93df25884a416ca65c3ac4c06cee77]
 
 For the purposes of section 171ZZ11(1) and (2) of the 1992 Act (payment of contractual remuneration to go towards discharging liability to pay statutory parental bereavement pay and payment of statutory parental bereavement pay to go towards discharging liability to pay contractual remuneration), the payments which are to be treated as contractual remuneration are sums payable under a contract of service—
 
@@ -414,7 +414,7 @@ For the purposes of section 171ZZ11(1) and (2) of the 1992 Act (payment of contr
 - (b) for incapacity for work due to sickness or injury, or
 - (c) by reason of the birth, adoption, care or death of a child.
 
-### 22. Avoidance of liability for statutory parental bereavement pay[^key-27d31cf1910d8a447c3db580bad8e357]
+### 22. Avoidance of liability for statutory parental bereavement pay[^c-27d31cf1910d8a447c3db580bad8e357]
 
 (1) A former employer shall be liable to make payments of statutory parental bereavement pay to a former employee in any case where the employee had been employed for a continuous period of at least 8 weeks and the employee's contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory parental bereavement pay.
 
@@ -428,11 +428,11 @@ For the purposes of section 171ZZ11(1) and (2) of the 1992 Act (payment of contr
   > - (a) ending on the last day of payment under the former contract of employment, and
   > - (b) beginning with the day following the day of payment under that contract to fall at least 8 weeks earlier than the day of payment mentioned in sub-paragraph (a).
 
-### 23. Payment of statutory parental bereavement pay[^key-c0ba44324dde8f0ef82918201a263eca]
+### 23. Payment of statutory parental bereavement pay[^c-c0ba44324dde8f0ef82918201a263eca]
 
 Payments of statutory parental bereavement pay may be made in like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board and lodgings.
 
-### 24. Time when statutory parental bereavement pay is to be paid[^key-396ea73dad6fcb5474af0d51294a7bb6]
+### 24. Time when statutory parental bereavement pay is to be paid[^c-396ea73dad6fcb5474af0d51294a7bb6]
 
 (1) In any case where—
 
@@ -456,7 +456,7 @@ that amount of statutory parental bereavement pay shall be paid within the time 
 
 (5) In this regulation “**pay day**” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a person who is or was an employee of theirs, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
 
-### 25. Liability of the Commissioners to pay statutory parental bereavement pay[^key-d8f2b920c93467b1c46d2a0104a64daa]
+### 25. Liability of the Commissioners to pay statutory parental bereavement pay[^c-d8f2b920c93467b1c46d2a0104a64daa]
 
 (1) Despite section 171ZZ8(1) of the 1992 Act (liability to make payments of statutory parental bereavement pay is liability of the employer), where the conditions in regulation 24(1)(a) and (b) are satisfied, liability to make payments of statutory parental bereavement pay to a person is to be the liability of the Commissioners and not the employer for—
 
@@ -488,7 +488,7 @@ that amount of statutory parental bereavement pay shall be paid within the time 
   - (iii) a receiver of its undertaking is duly appointed, or
   - (iv) a voluntary arrangement proposed for the purposes of Part I of the Insolvency Act 1986 is approved under that Part.
 
-### 26. Liability of the Commissioners to pay statutory parental bereavement pay in cases of legal custody or imprisonment[^key-3a1ef0556b4378cd4ce17ddefdc88788]
+### 26. Liability of the Commissioners to pay statutory parental bereavement pay in cases of legal custody or imprisonment[^c-3a1ef0556b4378cd4ce17ddefdc88788]
 
 Where there is liability to pay statutory parental bereavement pay—
 
@@ -497,11 +497,11 @@ Where there is liability to pay statutory parental bereavement pay—
 
 that liability, despite section 171ZZ8(1) of the 1992 Act, shall be that of the Commissioners and not the employer.
 
-### 27. Payments by the Commissioners[^key-efe7dbbb9c38e211685a4ff4790657c0]
+### 27. Payments by the Commissioners[^c-efe7dbbb9c38e211685a4ff4790657c0]
 
 Where the Commissioners become liable in accordance with regulation 25 (liability of the Commissioners to pay statutory parental bereavement pay) or regulation 26 (liability of the Commissioners to pay statutory parental bereavement pay in case of legal custody or imprisonment) then payment is to be made as soon as reasonably practicable after they become so liable, by means of an instrument of payment or by such other means as appear to the Commissioners to be appropriate in the circumstances of any particular case.
 
-### 28. Persons unable to act[^key-45f87ec8b7ea2ea3d0c2359b09ddd590]
+### 28. Persons unable to act[^c-45f87ec8b7ea2ea3d0c2359b09ddd590]
 
 (1) This regulation applies where—
 
@@ -523,7 +523,7 @@ Where the Commissioners become liable in accordance with regulation 25 (liabilit
 
 (4) Anything required by Part 12ZD of the 1992 Act to be done by or to the person who is unable to act may be done by or to the person appointed under this regulation to act on behalf of the person unable to act, and the receipt of the person so appointed shall be a good discharge to the employer or former employer of the person unable to act for any sum paid.
 
-### 29. Service of notices[^key-f7d7fa5f04ce5225316c3a4fa646185d]
+### 29. Service of notices[^c-f7d7fa5f04ce5225316c3a4fa646185d]
 
 (1) Where a notice is to be given under these Regulations, it may be given—
 
@@ -583,13 +583,13 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^c23991491]: Marginal citation: See section 173(5) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5). Pursuant to section 172 of that Act, where the Secretary of State proposes to make regulations under the Social Security Contributions and Benefits Act 1992, the Secretary of State is required to refer such proposals, normally in the form of draft regulations, to the Social Security Advisory Committee. This requirement does not apply where the regulations are contained in a statutory instrument made before the end of a period of six months beginning with the coming into force of the enactments by virtue or as a consequence of which the regulations are being made.
 
-[^key-b3b7492aa76c847b4d36f56cb2b9e1e8]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-b3b7492aa76c847b4d36f56cb2b9e1e8]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-b1b95a4485ab4da0c529f229d7dc8608]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-b1b95a4485ab4da0c529f229d7dc8608]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-ddd22cfc6932556d85ceac85a7782683]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/233/regulation/2) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-ddd22cfc6932556d85ceac85a7782683]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/233/regulation/2) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-78c49f8be2ad778543a295b895ed2e43]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/233/regulation/3) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-78c49f8be2ad778543a295b895ed2e43]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/233/regulation/3) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991501]: Marginal citation: [2008 c. 22](https://www.legislation.gov.uk/ukpga/2008/22); [section 54](https://www.legislation.gov.uk/uksi/2020/233/section/54) was amended by the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [Schedule 11](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11), [Part 1](https://www.legislation.gov.uk/ukpga/2013/22/part/1), [paragraph 206](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/206) and by [S.I. 2018/1413](https://www.legislation.gov.uk/uksi/2018/1413).
 
@@ -615,7 +615,7 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^c23991611]: Marginal citation: For the meaning of ‘week’ in Part 3, see [section 171ZZ14(5)](https://www.legislation.gov.uk/uksi/2020/233/section/171ZZ14/5) of the 1992 Act.
 
-[^key-b855c35fb75c79b46511de9f20e95c41]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/233/regulation/4) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-b855c35fb75c79b46511de9f20e95c41]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/233/regulation/4) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991621]: Marginal citation: [Section 51A](https://www.legislation.gov.uk/uksi/2020/233/section/51A) was inserted by the Children and Families Act 2014, section 9.
 
@@ -625,29 +625,29 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^c23991651]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36); [sections 1](https://www.legislation.gov.uk/uksi/2020/233/section/1) and 2 were amended by the Human Fertilisation and Embryology Act 2008, Schedule 6, Part 2, paragraphs 48 and 49.
 
-[^key-694c7593c868718107cb92deab2eb590]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/233/regulation/5) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-694c7593c868718107cb92deab2eb590]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/233/regulation/5) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-ee45b289344fb0968c02c2241704adc9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/233/regulation/6) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-ee45b289344fb0968c02c2241704adc9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/233/regulation/6) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-e6b0d83a5bf5cc822bdd345d39c7e946]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/233/regulation/7) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-e6b0d83a5bf5cc822bdd345d39c7e946]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/233/regulation/7) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-90bc00730ac2cc4c6ddaf831f5a51150]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/233/regulation/8) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-90bc00730ac2cc4c6ddaf831f5a51150]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/233/regulation/8) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-c88b81fc3f56c0970a6579128525e707]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/233/regulation/9) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-c88b81fc3f56c0970a6579128525e707]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/233/regulation/9) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-e805212d46ddae64f7cebea4e2ec995c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/233/regulation/10) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-e805212d46ddae64f7cebea4e2ec995c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/233/regulation/10) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991661]: Marginal citation: For the definition of “statutory pay week”, see [section 171ZZ9](https://www.legislation.gov.uk/uksi/2020/233/section/171ZZ9) of the 1992 Act.
 
-[^key-0f0a60ef4a021ddeaf659abc85f7b7db]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/233/regulation/11) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-0f0a60ef4a021ddeaf659abc85f7b7db]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/233/regulation/11) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991671]: Marginal citation: [S.I. 1978/1689](https://www.legislation.gov.uk/uksi/1978/1689), amended by the [National Insurance Contributions Act 2015 (c.5)](https://www.legislation.gov.uk/ukpga/2015/5), [section 6](https://www.legislation.gov.uk/ukpga/2015/5/section/6) and by [S.I. 1980/1713](https://www.legislation.gov.uk/uksi/1980/1713), 1990/1894, 1994/726, 1998/1728, 2003/736, 2003/2420, 2004/770, 2005/3133, 2006/1530, 2012/816, 2014/635, 2015/478; there are other amendments but none is relevant.
 
 [^c23991681]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004); [regulation 145](https://www.legislation.gov.uk/uksi/2020/233/regulation/145) was amended by [S.I. 2012/817](https://www.legislation.gov.uk/uksi/2012/817).
 
-[^key-88ddd8f0019782b17381bbccb688cf43]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/233/regulation/12) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-88ddd8f0019782b17381bbccb688cf43]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/233/regulation/12) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-3a4165050543e2dcf5ffecc7ddc0dea3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/233/regulation/13) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-3a4165050543e2dcf5ffecc7ddc0dea3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/233/regulation/13) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991691]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -655,23 +655,23 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^c23991711]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17); [sections 18A to 18C](https://www.legislation.gov.uk/uksi/2020/233/section/18A) were inserted by the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [section 7](https://www.legislation.gov.uk/ukpga/2013/24/section/7) and Schedule 1, paragraph 6.
 
-[^key-b9a7887226c8ca7c8cd78e9af06d2374]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/233/regulation/14) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-b9a7887226c8ca7c8cd78e9af06d2374]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/233/regulation/14) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991721]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-07a2c4142a0f336915e50b721d891b37]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/233/regulation/15) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-07a2c4142a0f336915e50b721d891b37]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/233/regulation/15) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-a8ac29bc46e9e33ada6524de6b507aa3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/233/regulation/16) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-a8ac29bc46e9e33ada6524de6b507aa3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/233/regulation/16) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-9b581ef779d23fd54763ca847c352a0f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/233/regulation/17) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-9b581ef779d23fd54763ca847c352a0f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/233/regulation/17) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991731]: Marginal citation: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17).
 
-[^key-cae38a54e446095634b5e0d372d03775]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/233/regulation/18) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-cae38a54e446095634b5e0d372d03775]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/233/regulation/18) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991741]: Marginal citation: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-14afbe6fcb600c4c6e65af060863d86f]: Commencement: Reg. 19 in force at 10.3.2020, see reg. 1
+[^c-14afbe6fcb600c4c6e65af060863d86f]: Commencement: Reg. 19 in force at 10.3.2020, see reg. 1
 
 [^c23991751]: Marginal citation: Schedule 3 was amended by [S.I. 2001/2412](https://www.legislation.gov.uk/uksi/2001/2412), 2001/3629, 2002/307, 2002/2924, 2003/1059, 2003/2085, 2003/2340, 2003/2985, 2004/173, 2004/770, 2004/2096, 2005/728, 2005/778, 2005/2422, 2005/3130, 2006/576, 2006/883, 2006/2003, 2006/2829, 2007/2091, 2007/2401, 2007/2905, 2008/607, 2008/1431, 2008/2624, 2009/600, 2010/188, 2011/225, 2011/797, 2011/1000, 2011/2700, 2012/817, 2013/622, 2013/1142, 2013/1907, 2014/608, 2014/3159, 2014/3228, 2015/478, 2015/543, 2016/352, 2016/647, 2016/1067, 2017/307, 2017/373, 2018/120; regulation 27 was amended by [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770), 2005/3130.
 
@@ -685,34 +685,34 @@ These Regulations are part of a package of legislative measures and the relevant
 
 [^c23991801]: Marginal citation: Section 151(6) was amended by the Social Security Contributions (Transfer of Functions, etc.) Act 1999, Schedule 1, paragraph 9.
 
-[^key-b01b1a76a92b8cfe757ebd5361631ef7]: Textual amendment: [Reg. 19(8A)-(8C)](https://www.legislation.gov.uk/uksi/2020/233/regulation/19/8A) inserted (with application in accordance with reg. 2(1)(2) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/450/regulation/7)
+[^c-b01b1a76a92b8cfe757ebd5361631ef7]: Textual amendment: [Reg. 19(8A)-(8C)](https://www.legislation.gov.uk/uksi/2020/233/regulation/19/8A) inserted (with application in accordance with reg. 2(1)(2) of the amending S.I.) by [The Maternity Allowance, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Adoption Pay, Statutory Shared Parental Pay and Statutory Parental Bereavement Pay (Normal Weekly Earnings etc.) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/450)](https://www.legislation.gov.uk/uksi/2020/450), [regs. 1](https://www.legislation.gov.uk/uksi/2020/450/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/450/regulation/7)
 
-[^key-c2183e2243d09ea20883b2ebb077c3d1]: Commencement: Reg. 20 in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-c2183e2243d09ea20883b2ebb077c3d1]: Commencement: Reg. 20 in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-6e41184de535cc7d202cbd3a3ce07486]: Textual amendment: Sum in [Reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2020/233/regulation/20/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(3)](https://www.legislation.gov.uk/uksi/2026/148/article/10/3)
+[^c-6e41184de535cc7d202cbd3a3ce07486]: Textual amendment: Sum in [Reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/2020/233/regulation/20/1/a) substituted (6.4.2026) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(c)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/c), [10(3)](https://www.legislation.gov.uk/uksi/2026/148/article/10/3)
 
-[^key-fe93df25884a416ca65c3ac4c06cee77]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/233/regulation/21) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-fe93df25884a416ca65c3ac4c06cee77]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/233/regulation/21) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-27d31cf1910d8a447c3db580bad8e357]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/233/regulation/22) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-27d31cf1910d8a447c3db580bad8e357]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/233/regulation/22) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-c0ba44324dde8f0ef82918201a263eca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/233/regulation/23) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-c0ba44324dde8f0ef82918201a263eca]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/233/regulation/23) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-396ea73dad6fcb5474af0d51294a7bb6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/233/regulation/24) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-396ea73dad6fcb5474af0d51294a7bb6]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/233/regulation/24) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991811]: Marginal citation: [Section 8(1)](https://www.legislation.gov.uk/uksi/2020/233/section/8/1) was amended by the [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1), [paragraph 46](https://www.legislation.gov.uk/ukpga/2006/18/paragraph/46), the Children and Families Act 2014, Schedule 7, paragraphs 44 and 45 and the Parental Bereavement (Leave and Pay) Act 2018, Schedule Part 3, paragraphs 29 and 30.
 
-[^key-d8f2b920c93467b1c46d2a0104a64daa]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/233/regulation/25) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-d8f2b920c93467b1c46d2a0104a64daa]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2020/233/regulation/25) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991821]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); [section 421](https://www.legislation.gov.uk/uksi/2020/233/section/421) was amended by the [Insolvency Act 2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39), [section 12](https://www.legislation.gov.uk/ukpga/2000/39/section/12), the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4), [Part 1](https://www.legislation.gov.uk/ukpga/2005/4/part/1), [paragraphs 185](https://www.legislation.gov.uk/ukpga/2005/4/paragraph/185) and 192 and [S.I. 2002/1037](https://www.legislation.gov.uk/uksi/2002/1037), 2017/702 and 2019/146.
 
 [^c23991831]: Marginal citation: [1889 c. 39](https://www.legislation.gov.uk/ukpga/1889/39); [section 11A](https://www.legislation.gov.uk/uksi/2020/233/section/11A) was inserted by the [Bankruptcy (Scotland) Act 1985 (c. 66)](https://www.legislation.gov.uk/ukpga/1985/66), [Schedule 7](https://www.legislation.gov.uk/ukpga/1985/66/schedule/7), [paragraph 4](https://www.legislation.gov.uk/ukpga/1985/66/paragraph/4) and amended by the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [Schedule 5](https://www.legislation.gov.uk/asp/2007/3/schedule/5), [paragraph 5](https://www.legislation.gov.uk/asp/2007/3/paragraph/5) and Schedule 6, and the [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [Schedule 8](https://www.legislation.gov.uk/asp/2016/21/schedule/8), [paragraph 1](https://www.legislation.gov.uk/asp/2016/21/paragraph/1).
 
-[^key-3a1ef0556b4378cd4ce17ddefdc88788]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/233/regulation/26) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-3a1ef0556b4378cd4ce17ddefdc88788]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/233/regulation/26) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-efe7dbbb9c38e211685a4ff4790657c0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/233/regulation/27) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-efe7dbbb9c38e211685a4ff4790657c0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/233/regulation/27) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
-[^key-45f87ec8b7ea2ea3d0c2359b09ddd590]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/233/regulation/28) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-45f87ec8b7ea2ea3d0c2359b09ddd590]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2020/233/regulation/28) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
 
 [^c23991841]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-f7d7fa5f04ce5225316c3a4fa646185d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/233/regulation/29) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)
+[^c-f7d7fa5f04ce5225316c3a4fa646185d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/233/regulation/29) in force at 10.3.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/233/regulation/1)

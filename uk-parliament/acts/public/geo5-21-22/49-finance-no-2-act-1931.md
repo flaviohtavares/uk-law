@@ -57,8 +57,8 @@ An Act to increase the Customs and Excise duties on beer and tobacco, the Custom
 
 (1) Any securities issued by the Treasury under any Act may be issued with the condition that—
 
-- (a) so long as the securities are in the beneficial ownership of persons who are not [^key-f5179ab38684f500b29bc848a22b68bd]... resident in the United Kingdom, the interest thereon shall be exempt from income tax: and
-- (b) so long as the securities are in the beneficial ownership of persons who are not[^key-295338c911a7fcb78772ffd3bb054c16] [^key-f5179ab38684f500b29bc848a22b68bd]... resident in the United Kingdom, neither the capital thereof nor the interest thereon shall be liable to any taxation present or future.
+- (a) so long as the securities are in the beneficial ownership of persons who are not [^c-f5179ab38684f500b29bc848a22b68bd]... resident in the United Kingdom, the interest thereon shall be exempt from income tax: and
+- (b) so long as the securities are in the beneficial ownership of persons who are not[^c-295338c911a7fcb78772ffd3bb054c16] [^c-f5179ab38684f500b29bc848a22b68bd]... resident in the United Kingdom, neither the capital thereof nor the interest thereon shall be liable to any taxation present or future.
 
 (2)[^c586826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -120,9 +120,9 @@ An Act to increase the Customs and Excise duties on beer and tobacco, the Custom
 
     S. 22 extended (31.7.1998 with effect in relation to any gilt-edged security issued before 6.4.1998 without FOTRA conditions) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 161(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/161/1)
 
-[^key-f5179ab38684f500b29bc848a22b68bd]: Textual amendment: Word in s. 22(1)(a)(b) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 114(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/114/1) (with [Sch. 46 para. 114(2)-(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/114/2))
+[^c-f5179ab38684f500b29bc848a22b68bd]: Textual amendment: Word in s. 22(1)(a)(b) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 114(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/114/1) (with [Sch. 46 para. 114(2)-(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/114/2))
 
-[^key-295338c911a7fcb78772ffd3bb054c16]: Textual amendment: Word in s. 22(1)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 24(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/24/1) (with [Sch. 9 para. 24(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/24/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/24/4))
+[^c-295338c911a7fcb78772ffd3bb054c16]: Textual amendment: Word in s. 22(1)(b) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 24(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/24/1) (with [Sch. 9 para. 24(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/24/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/24/4))
 
 [^c586826]: Textual amendment: Ss. 22(2), 23 repealed (with saving) by [Income Tax Act 1952 (c. 10)](https://www.legislation.gov.uk/ukpga/1952/10), [s. 527](https://www.legislation.gov.uk/ukpga/1952/10/section/527), [Sch. 25](https://www.legislation.gov.uk/ukpga/1952/10/schedule/25)
 

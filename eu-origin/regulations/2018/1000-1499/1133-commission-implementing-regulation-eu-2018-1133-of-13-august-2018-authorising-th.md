@@ -35,22 +35,22 @@ authorising the placing on the market of dried aerial parts of *Hoodia parviflor
 
 (Text with EEA relevance) (revoked)
 
-[^key-a31d5f66d633951dcb1e0e2493c5b4e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a31d5f66d633951dcb1e0e2493c5b4e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a31d5f66d633951dcb1e0e2493c5b4e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a31d5f66d633951dcb1e0e2493c5b4e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a31d5f66d633951dcb1e0e2493c5b4e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a31d5f66d633951dcb1e0e2493c5b4e7]
+## ANNEX[^c-a31d5f66d633951dcb1e0e2493c5b4e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a31d5f66d633951dcb1e0e2493c5b4e7]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/14) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a31d5f66d633951dcb1e0e2493c5b4e7]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/14) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

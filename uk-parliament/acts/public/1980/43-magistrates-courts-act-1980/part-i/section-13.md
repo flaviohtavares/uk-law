@@ -20,37 +20,37 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c18239331][^key-b41cda06a494cd912d6c611e3c230bb0] Subject to the provisions of this section, where the court, instead of proceeding in the absence of the accused, adjourns or further adjourns the trial, the court may, [^c18239341]. . ., issue a warrant for his arrest.
+(1)[^c18239331][^c-b41cda06a494cd912d6c611e3c230bb0] Subject to the provisions of this section, where the court, instead of proceeding in the absence of the accused, adjourns or further adjourns the trial, the court may, [^c18239341]. . ., issue a warrant for his arrest.
 
-(2)[^c18239331][^key-b41cda06a494cd912d6c611e3c230bb0] Where a summons has been issued, the court shall not issue a warrant under this section unless the condition in subsection (2A) below or that in subsection (2B) below is fulfilled[^c18239361].
+(2)[^c18239331][^c-b41cda06a494cd912d6c611e3c230bb0] Where a summons has been issued, the court shall not issue a warrant under this section unless the condition in subsection (2A) below or that in subsection (2B) below is fulfilled[^c18239361].
 
-(2A)[^c18239381][^key-b41cda06a494cd912d6c611e3c230bb0] The condition in this subsection is that it is proved to the satisfaction of the court, on oath or in such other manner as may be prescribed, that the summons was served on the accused within what appears to the court to be a reasonable time before the trial or adjourned trial.
+(2A)[^c18239381][^c-b41cda06a494cd912d6c611e3c230bb0] The condition in this subsection is that it is proved to the satisfaction of the court, on oath or in such other manner as may be prescribed, that the summons was served on the accused within what appears to the court to be a reasonable time before the trial or adjourned trial.
 
-(2B)[^c18239331][^key-b41cda06a494cd912d6c611e3c230bb0] The condition in this subsection is that—
+(2B)[^c18239331][^c-b41cda06a494cd912d6c611e3c230bb0] The condition in this subsection is that—
 
 - (a) the adjournment now being made is a second or subsequent adjournment of the trial,
 - (b) the accused was present on the last (or only) occasion when the trial was adjourned, and
 - (c) on that occasion the court determined the time for the hearing at which the adjournment is now being made.
 
-(3)[^c18239331][^c18239421][^key-b41cda06a494cd912d6c611e3c230bb0] A warrant for the arrest of any person who has attained the age of 18 shall not be issued under this section unless—
+(3)[^c18239331][^c18239421][^c-b41cda06a494cd912d6c611e3c230bb0] A warrant for the arrest of any person who has attained the age of 18 shall not be issued under this section unless—
 
 - (a) [^c19343961]. . . the offence to which the warrant relates is punishable with imprisonment, or
 - (b) the court, having convicted the accused, proposes to impose a disqualification on him.
 
-(3A)[^c18239331][^key-b41cda06a494cd912d6c611e3c230bb0] A warrant for the arrest of any person who has not attained the age of 18 shall not be issued under this section unless—
+(3A)[^c18239331][^c-b41cda06a494cd912d6c611e3c230bb0] A warrant for the arrest of any person who has not attained the age of 18 shall not be issued under this section unless—
 
 - (a)[^c19343941] the offence to which the warrant relates is punishable, in the case of a person who has attained the age of 18, with imprisonment, or
 - (b) the court, having convicted the accused, proposes to impose a disqualification on him.
 
 (4)[^c18239431] This section shall not apply to an adjournment on the occasion of the accused’s conviction in his absence under subsection (5) of section 12 above or to an adjournment required by subsection (9) of that section.
 
-(5)[^key-b41cda06a494cd912d6c611e3c230bb0] [^c19963931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b41cda06a494cd912d6c611e3c230bb0] [^c19963931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c18239331]: Modification: S. 13(1)-(3A)(5) applied (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 2(5)](https://www.legislation.gov.uk/ukpga/2000/6/section/2/5), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1)
 
-[^key-b41cda06a494cd912d6c611e3c230bb0]: Modification: S. 13(1)-(3A)(5) applied (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2020/17/section/6/6), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b41cda06a494cd912d6c611e3c230bb0]: Modification: S. 13(1)-(3A)(5) applied (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2020/17/section/6/6), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c18239341]: Textual amendment: Words in s. 13(1) repealed (1.9.1998 subject as mentioned in [S.I. 1998/1837](https://www.legislation.gov.uk/uksi/1998/1837), [art. 4](https://www.legislation.gov.uk/uksi/1998/1837/article/4)) by [1998 c. 15](https://www.legislation.gov.uk/ukpga/1998/15), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1998/15/section/3/1); [S.I. 1998/1837](https://www.legislation.gov.uk/uksi/1998/1837), [arts2](https://www.legislation.gov.uk/uksi/1998/1837/article/2), [4](https://www.legislation.gov.uk/uksi/1998/1837/article/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Repeal of section 5 of the Museum of London Act 1986[^key-520f3fa82c6891665728b0e238344f45]
+## 49. Repeal of section 5 of the Museum of London Act 1986[^c-520f3fa82c6891665728b0e238344f45]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 5 of the Museum of London Act 1986 (c. 8) (which provides for reports ab
 
 ## Annotations
 
-[^key-520f3fa82c6891665728b0e238344f45]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2007/24/section/49) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)
+[^c-520f3fa82c6891665728b0e238344f45]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2007/24/section/49) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/582/article/2/c)

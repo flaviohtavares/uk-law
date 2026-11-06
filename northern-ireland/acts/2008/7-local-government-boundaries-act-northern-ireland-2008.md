@@ -34,9 +34,9 @@ An Act to provide for 11 local government districts in Northern Ireland, for the
 
 \[23rd May 2008\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-2c861eeab1725a9470d314403945db6a][^key-6098c71cc0958de33ab8344955329702]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-2c861eeab1725a9470d314403945db6a][^c-6098c71cc0958de33ab8344955329702]
 
-## 1. Local government districts and wards[^c19279961][^key-aa06f24cee5b6e8e59660b073536d086][^key-9f98ce60c178aab53f55858e8d1d4e31][^key-b98716bf8d97262ccbe3d2c8b7d52d34][^key-17498c390c133ed276fdc4d6c5ecff00]
+## 1. Local government districts and wards[^c19279961][^c-aa06f24cee5b6e8e59660b073536d086][^c-9f98ce60c178aab53f55858e8d1d4e31][^c-b98716bf8d97262ccbe3d2c8b7d52d34][^c-17498c390c133ed276fdc4d6c5ecff00]
 
 (1) For the purposes of local government, Northern Ireland shall be divided into 11 districts (to be known as “**local government districts**”).
 
@@ -105,9 +105,9 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
   .
 
-## 3. Consequential amendment and repeals[^c19279981][^key-8ec3131ef147aaeead839c7aa4ef4b49]
+## 3. Consequential amendment and repeals[^c19279981][^c-8ec3131ef147aaeead839c7aa4ef4b49]
 
-(1)[^key-60a2857a85c13e5a4fd5221f9cba0162][^key-e9ed67aa3f1650473c6dcfbcd8785299][^key-b5820327491b4b1c73d8f4e83863643a] In section 1(1) of the principal Act for “the Local Government (Boundaries) Act (Northern Ireland) 1971” substitute “ section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008 ”.
+(1)[^c-60a2857a85c13e5a4fd5221f9cba0162][^c-e9ed67aa3f1650473c6dcfbcd8785299][^c-b5820327491b4b1c73d8f4e83863643a] In section 1(1) of the principal Act for “the Local Government (Boundaries) Act (Northern Ireland) 1971” substitute “ section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008 ”.
 
 (2) The statutory provisions set out in the Schedule are repealed to the extent mentioned in column 2 of the Schedule.
 
@@ -152,28 +152,28 @@ Section 3
 
 ## Annotations
 
-[^key-2c861eeab1725a9470d314403945db6a]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/7) power to make supplementary and transitional provisions conferred (20.5.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 124(1)(b)](https://www.legislation.gov.uk/nia/2014/8/section/124/1/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)
+[^c-2c861eeab1725a9470d314403945db6a]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/7) power to make supplementary and transitional provisions conferred (20.5.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 124(1)(b)](https://www.legislation.gov.uk/nia/2014/8/section/124/1/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)
 
-[^key-6098c71cc0958de33ab8344955329702]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6098c71cc0958de33ab8344955329702]: Modification: [Act](https://www.legislation.gov.uk/nia/2008/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c19279961]: Commencement: S. 1 partly in force; s. 1 in force at 31.5.2008 for specified purposes, see s. 5(2)
 
-[^key-aa06f24cee5b6e8e59660b073536d086]: Commencement: S. 1 in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2)
+[^c-aa06f24cee5b6e8e59660b073536d086]: Commencement: S. 1 in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2)
 
-[^key-9f98ce60c178aab53f55858e8d1d4e31]: Commencement: S. 1 in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2))
+[^c-9f98ce60c178aab53f55858e8d1d4e31]: Commencement: S. 1 in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2))
 
-[^key-b98716bf8d97262ccbe3d2c8b7d52d34]: Commencement: S. 1 in operation at 26.5.2014 for specified purposes and with effect in accordance with art. 4(1) of the amending S.R. by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2))
+[^c-b98716bf8d97262ccbe3d2c8b7d52d34]: Commencement: S. 1 in operation at 26.5.2014 for specified purposes and with effect in accordance with art. 4(1) of the amending S.R. by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2))
 
-[^key-17498c390c133ed276fdc4d6c5ecff00]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2008/7/section/1) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
+[^c-17498c390c133ed276fdc4d6c5ecff00]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2008/7/section/1) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
 
 [^c19279981]: Commencement: S. 3 partly in force; s. 3(2) in force at 23.5.2008 for specified purposes, see s. 5(3)
 
-[^key-8ec3131ef147aaeead839c7aa4ef4b49]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2008/7/section/3) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
+[^c-8ec3131ef147aaeead839c7aa4ef4b49]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2008/7/section/3) in operation at 1.4.2015 in so far as not already in operation by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
 
-[^key-60a2857a85c13e5a4fd5221f9cba0162]: Commencement: S. 3(1) in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2))
+[^c-60a2857a85c13e5a4fd5221f9cba0162]: Commencement: S. 3(1) in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2))
 
-[^key-e9ed67aa3f1650473c6dcfbcd8785299]: Commencement: S. 3(1) in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2)
+[^c-e9ed67aa3f1650473c6dcfbcd8785299]: Commencement: S. 3(1) in operation at 3.10.2013 for specified purposes by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2)
 
-[^key-b5820327491b4b1c73d8f4e83863643a]: Commencement: S. 3(1) in operation at 26.5.2014 for specified purposes and with effect in accordance with art. 4(1) of the amending S.R. by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2))
+[^c-b5820327491b4b1c73d8f4e83863643a]: Commencement: S. 3(1) in operation at 26.5.2014 for specified purposes and with effect in accordance with art. 4(1) of the amending S.R. by [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2))
 
 [^c19280041]: Commencement: [Sch.](https://www.legislation.gov.uk/nia/2008/7/schedule) partly in force; [Sch.](https://www.legislation.gov.uk/nia/2008/7/schedule) in force at 23.5.2008 for specified purposes, see [s. 5(3)](https://www.legislation.gov.uk/nia/2008/7/section/5/3)

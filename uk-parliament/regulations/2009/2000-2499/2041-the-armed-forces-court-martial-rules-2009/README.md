@@ -52,7 +52,7 @@ In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this i
 - [Section 2 — Interpretation: proceedings and parties](part-1/section-2.md)
 - [Section 3 — Interpretation: general](part-1/section-3.md)
 
-### PART 1A — THE OVERRIDING OBJECTIVE[^key-c2caccb7da5dcfc31a1b6246876f1e87]
+### PART 1A — THE OVERRIDING OBJECTIVE[^c-c2caccb7da5dcfc31a1b6246876f1e87]
 
 - [Section 3A — The overriding objective](part-1a/section-3a.md)
 - [Section 3B — The duty of the participants in a case](part-1a/section-3b.md)
@@ -219,7 +219,7 @@ In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this i
 - [Section 99 — Variation or discharge of special measures direction](part-12/section-99.md)
 - [Section 100 — Warning to lay members](part-12/section-100.md)
 
-#### CHAPTER 7 — Use of specimens in proceedings for offences relating to alcohol and drugs[^key-5531149adfba653bb0c7a39559f8c3f6]
+#### CHAPTER 7 — Use of specimens in proceedings for offences relating to alcohol and drugs[^c-5531149adfba653bb0c7a39559f8c3f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -250,7 +250,7 @@ In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this i
 - [Section 116 — Mitigation of sentence](part-14/section-116.md)
 - [Section 117 — Pronouncement of sentence](part-14/section-117.md)
 
-### Part 14A — Review of sentence proceedings[^key-95d0d03183061a38114703e74c691439]
+### Part 14A — Review of sentence proceedings[^c-95d0d03183061a38114703e74c691439]
 
 - [Section 117A — Application of Part 14A](part-14a/section-117a.md)
 - [Section 117B — Review of sentence](part-14a/section-117b.md)
@@ -314,7 +314,7 @@ In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this i
 - [Section 151 — Certification of contempt of court](part-18/section-151.md)
 - [Section 151A — Certification of failure to comply with production order](part-18/section-151a.md)
 
-#### Chapter 3 — Driving Disqualification Orders[^key-f981866ff5bf983d35a7c6457aeb8f6e]
+#### Chapter 3 — Driving Disqualification Orders[^c-f981866ff5bf983d35a7c6457aeb8f6e]
 
 - [Section 151B — Application to remove a disqualification](part-18/section-151b.md)
 - [Section 151C — Information to be supplied on order for disqualification, etc.](part-18/section-151c.md)
@@ -325,7 +325,7 @@ In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this i
 - [Section 153 — Withholding of matter from the public in proceedings before the court](part-19/section-153.md)
 - [Section 154 — Appeals](part-19/section-154.md)
 
-### PART 20 — CONSEQUENCES OF ELECTION FOR COURT MARTIAL TRIAL[^key-a38d1360beb151f851f761a219b5cbac]
+### PART 20 — CONSEQUENCES OF ELECTION FOR COURT MARTIAL TRIAL[^c-a38d1360beb151f851f761a219b5cbac]
 
 *Extent: E+W+S+N.I.*
 
@@ -414,12 +414,12 @@ Part 21 makes transitory and transitional provisions. Rule 167 provides that unt
 
 [^c19793401]: Marginal citation: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-c2caccb7da5dcfc31a1b6246876f1e87]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/2041/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1263/rule/4)
+[^c-c2caccb7da5dcfc31a1b6246876f1e87]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/2041/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2022/1263/rule/4)
 
-[^key-5531149adfba653bb0c7a39559f8c3f6]: Textual amendment: Pt. 12 Ch. 7 inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [18](https://www.legislation.gov.uk/uksi/2013/2527/article/18)
+[^c-5531149adfba653bb0c7a39559f8c3f6]: Textual amendment: Pt. 12 Ch. 7 inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [18](https://www.legislation.gov.uk/uksi/2013/2527/article/18)
 
-[^key-95d0d03183061a38114703e74c691439]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/2041/part/14A) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1036/rule/14)
+[^c-95d0d03183061a38114703e74c691439]: Textual amendment: [Pt. 14A](https://www.legislation.gov.uk/uksi/2009/2041/part/14A) inserted (16.10.2024) by [The Armed Forces (Court Martial) (Amendment) Rules 2024 (S.I. 2024/1036)](https://www.legislation.gov.uk/uksi/2024/1036), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/1036/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2024/1036/rule/14)
 
-[^key-f981866ff5bf983d35a7c6457aeb8f6e]: Textual amendment: [Pt. 18 Ch. 3](https://www.legislation.gov.uk/uksi/2009/2041/part/18/chapter/3) inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/209/regulation/17)
+[^c-f981866ff5bf983d35a7c6457aeb8f6e]: Textual amendment: [Pt. 18 Ch. 3](https://www.legislation.gov.uk/uksi/2009/2041/part/18/chapter/3) inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/209/regulation/17)
 
-[^key-a38d1360beb151f851f761a219b5cbac]: Textual amendment: [Pt. 20](https://www.legislation.gov.uk/uksi/2009/2041/part/20) revoked (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-a38d1360beb151f851f761a219b5cbac]: Textual amendment: [Pt. 20](https://www.legislation.gov.uk/uksi/2009/2041/part/20) revoked (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)

@@ -45,27 +45,27 @@ Coming into Operation
 
 1st April 1965
 
-In exercise of the powers conferred on me by section 34 of the Police Act 1964, I hereby make the following Regulations:—[^key-c2db9089629b20b86f44f5feb9b4683c]
+In exercise of the powers conferred on me by section 34 of the Police Act 1964, I hereby make the following Regulations:—[^c-c2db9089629b20b86f44f5feb9b4683c]
 
-## 1. Qualifications for appointment[^key-1a2d5fced98b05d09c9ae6f7270e3258]
+## 1. Qualifications for appointment[^c-1a2d5fced98b05d09c9ae6f7270e3258]
 
-(1)[^key-e7de1161bec8e2dd2bc3f17cd6988f08] A candidate for appointment as a special constable—
+(1)[^c-e7de1161bec8e2dd2bc3f17cd6988f08] A candidate for appointment as a special constable—
 
-- (a) must, if not a national of the United Kingdom or[^key-0b3c3db14faa1fcd165db933bf006e27] a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993, have leave to enter or remain in the United Kingdom for an indefinite period;
+- (a) must, if not a national of the United Kingdom or[^c-0b3c3db14faa1fcd165db933bf006e27] a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993, have leave to enter or remain in the United Kingdom for an indefinite period;
 - (b) must satisfy the chief officer of police that he is sufficiently competent in written and spoken English, and sufficiently numerate, by passing such assessments in written and spoken English, and numeracy, as may be determined by the chief officer of police;
-- (c)[^key-7813aa8abb58c0757851d96199e7099d] must have attained the age of 17 years;
+- (c)[^c-7813aa8abb58c0757851d96199e7099d] must have attained the age of 17 years;
 - (ca) must have attained the age of 18 years before being appointed as a special constable;
 - (d) must be of good character;
 - (e) must be in good health;
-- (f)[^key-1b061ca3ce321db0fb7133bc5fc4e01a] must (unless he is applying to transfer to the police area from another police area) on being so required by the chief officer give a sample of hair, oral fluid or urine to be tested, in accordance with procedures determined by the Secretary of State, for evidence of such controlled drugs as the Secretary of State may determine.
+- (f)[^c-1b061ca3ce321db0fb7133bc5fc4e01a] must (unless he is applying to transfer to the police area from another police area) on being so required by the chief officer give a sample of hair, oral fluid or urine to be tested, in accordance with procedures determined by the Secretary of State, for evidence of such controlled drugs as the Secretary of State may determine.
 
-(2)[^key-a44bf3a92d873fdf01f86b8d63ddd13e] For the purposes of this regulation, “**national of the United Kingdom**” means—
+(2)[^c-a44bf3a92d873fdf01f86b8d63ddd13e] For the purposes of this regulation, “**national of the United Kingdom**” means—
 
 - (a) a British citizen;
 - (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has the right of abode in the United Kingdom; or
 - (c) a person who is a British overseas territories citizen by virtue of a connection with Gibraltar.
 
-## 1ZA. Taking of fingerprints and samples prior to appointment[^key-1e170e6ad985878a30cfa778800e15f0]
+## 1ZA. Taking of fingerprints and samples prior to appointment[^c-1e170e6ad985878a30cfa778800e15f0]
 
 (1) Where a candidate for appointment as a special constable is offered an appointment, the offer shall, unless the candidate is applying to transfer to the police area from another police area, be subject to the following conditions—
 
@@ -212,9 +212,9 @@ in which case the chief officer may direct the appropriate officer to decide the
 
 (6) Where the chief officer decides to extend the period under paragraph (5), the chief officer shall provide written notification of the reasons for that decision to the special constable concerned.
 
-## 1A. Fingerprints[^key-33581f0e32f30653cc3c7da8322d6f4f]
+## 1A. Fingerprints[^c-33581f0e32f30653cc3c7da8322d6f4f]
 
-(1) Subject to paragraph (4)[^key-04d534ad54384943157b856017af4b92] every special constable shall in accordance with the directions of the chief officer have his fingerprints taken.
+(1) Subject to paragraph (4)[^c-04d534ad54384943157b856017af4b92] every special constable shall in accordance with the directions of the chief officer have his fingerprints taken.
 
 (2) Fingerprints of special constables taken in accordance with paragraph (1) shall be kept separate from the fingerprints of persons whose fingerprints have been taken otherwise than in accordance with that paragraph or regulation 18(1) of the Police Regulations 2003.
 
@@ -223,24 +223,24 @@ in which case the chief officer may direct the appropriate officer to decide the
 - (a) if on his ceasing to be a special constable he becomes a member of the police force maintained for that area, his fingerprints shall be kept in accordance with regulation 18(2) of the Police Regulations 2003, and
 - (b) if on his ceasing to be a special constable for that police area he becomes a member of another police force or is appointed as a special constable for another police area, his fingerprints and all copies and records of those fingerprints shall be transferred to the chief officer of that other police force and kept in accordance with regulation 18(2) of the Police Regulations 2003 or paragraph (2) as the case may be.
 
-(4)[^key-59f2e0916934b93a471843485b9c476e] A special constable who was required to have fingerprints taken under regulation 1ZA(1) shall not also be required to have his fingerprints taken under paragraph (1).
+(4)[^c-59f2e0916934b93a471843485b9c476e] A special constable who was required to have fingerprints taken under regulation 1ZA(1) shall not also be required to have his fingerprints taken under paragraph (1).
 
-## 1B. Samples[^key-f4045edb53cf1838112e5a10cd67e47d]
+## 1B. Samples[^c-f4045edb53cf1838112e5a10cd67e47d]
 
-(1)[^key-536de54c1e74d1050f35d2ced613c644] Every special constable must provide a sample when directed to do so by the chief officer and in accordance with any such direction.
+(1)[^c-536de54c1e74d1050f35d2ced613c644] Every special constable must provide a sample when directed to do so by the chief officer and in accordance with any such direction.
 
 (2) Samples or the information derived from samples of special constables taken in accordance with this regulation shall be kept separate from the samples or the information derived from samples taken in accordance with section 63 of the Police and Criminal Evidence Act 1984.
 
-(2A)[^key-7dea51e8d458ec114ad4f19934484aea] Samples or the information derived from samples of special constables taken in accordance with this regulation (or treated as if so taken, by virtue of regulation 1ZA(3)(b)) may be checked against samples or the information derived from samples taken in accordance with the Police and Criminal Evidence Act 1984 or recovered from scenes of crime.
+(2A)[^c-7dea51e8d458ec114ad4f19934484aea] Samples or the information derived from samples of special constables taken in accordance with this regulation (or treated as if so taken, by virtue of regulation 1ZA(3)(b)) may be checked against samples or the information derived from samples taken in accordance with the Police and Criminal Evidence Act 1984 or recovered from scenes of crime.
 
-(3)[^key-1688fb8935a0d11bb1b1a665d4badacf] The samples taken from a special constable in accordance with this regulation shall be destroyed before the end of the period of six months beginning with the date on which they were taken.
+(3)[^c-1688fb8935a0d11bb1b1a665d4badacf] The samples taken from a special constable in accordance with this regulation shall be destroyed before the end of the period of six months beginning with the date on which they were taken.
 
 (3A) The information derived from samples of a special constable taken in accordance with this regulation, and all copies and records thereof shall be destroyed within 12 months of that special constable ceasing to be a special constable for that police area except that—
 
 - (a) if, on ceasing to be a special constable, the person becomes a member of the police force maintained for that area, the samples or information derived from samples shall be kept in accordance with regulation 19(2) of the Police Regulations 2003; and
 - (b) if, on ceasing to be a special constable for that police area, the person is appointed as a special constable for another police area or is appointed as a member of a police force maintained for another police area, the samples or information derived from samples shall be transferred to the chief officer in that other police area and kept in accordance with paragraph (2) or regulation 19(2) of the Police Regulations 2003, as the case may be.
 
-(4)[^key-4184d3a20767c7bde7a01752c02c650a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4184d3a20767c7bde7a01752c02c650a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this regulation “sample” means—
 
@@ -269,15 +269,15 @@ to give a sample of oral fluid or urine to be tested for evidence of controlled 
 
 shall face such consequences as are specified in that determination.
 
-## 2. Suspension[^key-cca57310121abb88f81254e09e6103c7]
+## 2. Suspension[^c-cca57310121abb88f81254e09e6103c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Retirement[^key-1af859763f0808f9e220cf2707554097]
+## 3. Retirement[^c-1af859763f0808f9e220cf2707554097]
 
 (1) A special constable may retire subject to his having given to the chief constable a month's written notice of his intention to retire or such shorter notice as may have been accepted by the chief constable.
 
-[^key-57db6bd01c65f8b77a81d143dcf30cba]...
+[^c-57db6bd01c65f8b77a81d143dcf30cba]...
 
 (2) The chief constable may require a special constable to retire on such date as he may specify—
 
@@ -285,20 +285,20 @@ shall face such consequences as are specified in that determination.
 - (b) on the grounds that he is disabled to perform the ordinary duties of a special constable and the disablement is likely to be permanent, or
 - (c) as an alternative to dismissal, where he has been remiss or negligent in the discharge of his duty or otherwise unfit for the same.
 
-## 4. Expenses and allowances[^key-41980aabed18120f094cf123913f455b]
+## 4. Expenses and allowances[^c-41980aabed18120f094cf123913f455b]
 
 (1) A special constable may be reimbursed any out-of-pocket expenses reasonably incurred by him in the execution of his duty or paid an allowance in lieu of such reimbursement.
 
 (2) A special constable may be paid an allowance—
 
 - (a) in respect of loss of remuneration in his private employment while required for duty, or
-- (b) in respect of such other matters as the local policing body for the area[^key-aebe3e956a3984ecbdbd2f11f0484ece] may from time to time approve.
+- (b) in respect of such other matters as the local policing body for the area[^c-aebe3e956a3984ecbdbd2f11f0484ece] may from time to time approve.
 
-(3) An allowance paid under this Regulation shall be of such amount and subject to such conditions as the local policing body for the area[^key-49abe9af51bdc2d26af0bc21a5cbfac3] may from time to time approve.
+(3) An allowance paid under this Regulation shall be of such amount and subject to such conditions as the local policing body for the area[^c-49abe9af51bdc2d26af0bc21a5cbfac3] may from time to time approve.
 
 (4) Except as provided in these Regulations, a special constable shall not be entitled to any remuneration in respect of his services as such.
 
-## 5. Sick pay[^key-2b660f71a27f325b4430b7c4bd09ce1b]
+## 5. Sick pay[^c-2b660f71a27f325b4430b7c4bd09ce1b]
 
 (1) Where a special constable loses remuneration in his private employment in consequence of an injury received or disease contracted—
 
@@ -307,24 +307,24 @@ shall face such consequences as are specified in that determination.
 
 he shall be entitled to an allowance by way of sick pay, as hereinafter provided.
 
-(2) The sick pay shall be payable for so long as the special constable continues to lose remuneration in his private employment or for a period of 28 weeks[^key-cb973d75c68ef9732badbbf7b1735cfd], whichever is the less; and, subject to paragraph (3) of this Regulation, the rate thereof shall be the rate of such loss of remuneration.
+(2) The sick pay shall be payable for so long as the special constable continues to lose remuneration in his private employment or for a period of 28 weeks[^c-cb973d75c68ef9732badbbf7b1735cfd], whichever is the less; and, subject to paragraph (3) of this Regulation, the rate thereof shall be the rate of such loss of remuneration.
 
-(3)[^key-bcd0a3f77e8e39d9e2d5a1f91c9ca685] There shall be deducted from the sick pay an amount equal to the amount of any of the following to which the special constable is entitled, that is to say—
+(3)[^c-bcd0a3f77e8e39d9e2d5a1f91c9ca685] There shall be deducted from the sick pay an amount equal to the amount of any of the following to which the special constable is entitled, that is to say—
 
 - (a) any sickness benefit under the Social Security Act 1975, or
 - (b) any statutory sick pay under the Social Security and Housing Benefits Act 1982.
 
-## 5A. Special Constables' Allowance[^key-4810269ea19d21922c955bb4ba93c6f6]
+## 5A. Special Constables' Allowance[^c-4810269ea19d21922c955bb4ba93c6f6]
 
-(1) A local policing body[^key-cfa7a7cf41042b67fccd1d0166776a8d] may, following a recommendation of the chief officer of police [^key-2010af75144f95ffa9c1cd9af300db0a]..., undertake to make payments (referred to in this regulation as a Special Constables' Allowance) at a rate set by the local policing body to all or any number of special constables appointed for their area.
+(1) A local policing body[^c-cfa7a7cf41042b67fccd1d0166776a8d] may, following a recommendation of the chief officer of police [^c-2010af75144f95ffa9c1cd9af300db0a]..., undertake to make payments (referred to in this regulation as a Special Constables' Allowance) at a rate set by the local policing body to all or any number of special constables appointed for their area.
 
-(2)[^key-4c1f4520cd158dced2fda937e28bf132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4c1f4520cd158dced2fda937e28bf132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4c1f4520cd158dced2fda937e28bf132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4c1f4520cd158dced2fda937e28bf132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Different rates of Special Constables' Allowance may be paid under this regulation to different special constables appointed within a police area.
 
-## 6. Interpretation[^key-329329d162ceea6f3e244fab5f7bb737]
+## 6. Interpretation[^c-329329d162ceea6f3e244fab5f7bb737]
 
 (1) In these Regulations the expression “**special constable**” means a special constable appointed for a police area in England and Wales and a reference to duty is a reference to duty as such a special constable.
 
@@ -332,13 +332,13 @@ he shall be entitled to an allowance by way of sick pay, as hereinafter provided
 
 (3) The Interpretation Act 1889 shall apply for the interpretation of these Regulations as it applies for the interpretation of an Act of Parliament.
 
-## 7. Revocations[^key-9db8a591ebd48d83ec5955675cbdf9a3]
+## 7. Revocations[^c-9db8a591ebd48d83ec5955675cbdf9a3]
 
 (1) The Orders specified in the Schedule to this Order are hereby revoked.
 
 (2) Section 38 of the Interpretation Act 1889 shall apply in relation to the said Orders as if this Regulation were an Act of Parliament and the said Orders were Acts of Parliament repealed by an Act of Parliament.
 
-## 8. Citation and commencement[^key-e1ffa31ec888478b0ffa129d1de1ac52]
+## 8. Citation and commencement[^c-e1ffa31ec888478b0ffa129d1de1ac52]
 
 These Regulations may be cited as the Special Constables Regulations 1965 and shall come into operation on 1st April 1965.
 
@@ -350,7 +350,7 @@ Home Office ,Whitehall
 
 19th March 1965
 
-## SCHEDULE — ORDERS REVOKED[^key-e989531975426a17722109fbcd3a6e97]
+## SCHEDULE — ORDERS REVOKED[^c-e989531975426a17722109fbcd3a6e97]
 
 Regulation 7
 
@@ -361,17 +361,17 @@ Regulation 7
 | The Special Constables Order 1942 | S.R. & O. 1942/1904 (Rev. XVIII, p. 185: 1942 I, p. 76). |
 | The Special Constables Order 1948 | S.I. 1948/866 (Rev. XVIII, p. 180: 1948 I, p. 3480). |
 
-## SCHEDULE 2 — BOUNTY PAYMENTS[^key-e3c3159327258d8cbf3ae30d0ec7f175]
+## SCHEDULE 2 — BOUNTY PAYMENTS[^c-e3c3159327258d8cbf3ae30d0ec7f175]
 
 **No longer in force.**
 
 Regulation 5A
 
-**1.**[^key-e3c3159327258d8cbf3ae30d0ec7f175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e3c3159327258d8cbf3ae30d0ec7f175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e3c3159327258d8cbf3ae30d0ec7f175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e3c3159327258d8cbf3ae30d0ec7f175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e3c3159327258d8cbf3ae30d0ec7f175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e3c3159327258d8cbf3ae30d0ec7f175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -379,70 +379,70 @@ These Regulations, which come into operation on 1st April 1965 (when the provisi
 
 ## Annotations
 
-[^key-c2db9089629b20b86f44f5feb9b4683c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1965/536) applied (1.7.2004) by [The British Transport Police (Transitional and Consequential Provisions) Order 2004 (S.I. 2004/1573)](https://www.legislation.gov.uk/uksi/2004/1573), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1573/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2004/1573/article/11/2)
+[^c-c2db9089629b20b86f44f5feb9b4683c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1965/536) applied (1.7.2004) by [The British Transport Police (Transitional and Consequential Provisions) Order 2004 (S.I. 2004/1573)](https://www.legislation.gov.uk/uksi/2004/1573), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1573/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2004/1573/article/11/2)
 
-[^key-1a2d5fced98b05d09c9ae6f7270e3258]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/1965/536/regulation/1) substituted (3.2.2003) by [The Special Constables (Amendment) Regulations 2002 (S.I. 2002/3180)](https://www.legislation.gov.uk/uksi/2002/3180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/2/2)
+[^c-1a2d5fced98b05d09c9ae6f7270e3258]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/1965/536/regulation/1) substituted (3.2.2003) by [The Special Constables (Amendment) Regulations 2002 (S.I. 2002/3180)](https://www.legislation.gov.uk/uksi/2002/3180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/2/2)
 
-[^key-e7de1161bec8e2dd2bc3f17cd6988f08]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1) renumbered as reg. 1(1) (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/745/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7de1161bec8e2dd2bc3f17cd6988f08]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1) renumbered as reg. 1(1) (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/745/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b3c3db14faa1fcd165db933bf006e27]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/a) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/23/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b3c3db14faa1fcd165db933bf006e27]: Textual amendment: Words in [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/a) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/23/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7813aa8abb58c0757851d96199e7099d]: Textual amendment: [Reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/c)[(ca)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/ca) substituted for [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/c) (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/2/2)
+[^c-7813aa8abb58c0757851d96199e7099d]: Textual amendment: [Reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/c)[(ca)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/ca) substituted for [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/1/c) (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/2/2)
 
-[^key-1b061ca3ce321db0fb7133bc5fc4e01a]: Textual amendment: [Reg. 1(f)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/f) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1961/regulation/3)
+[^c-1b061ca3ce321db0fb7133bc5fc4e01a]: Textual amendment: [Reg. 1(f)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/f) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1961/regulation/3)
 
-[^key-a44bf3a92d873fdf01f86b8d63ddd13e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/2) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/23/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a44bf3a92d873fdf01f86b8d63ddd13e]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1/2) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/23/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e170e6ad985878a30cfa778800e15f0]: Textual amendment: [Regs. 1ZA-1ZE](https://www.legislation.gov.uk/uksi/1965/536/regulation/1ZA) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/1961/regulation/4)
+[^c-1e170e6ad985878a30cfa778800e15f0]: Textual amendment: [Regs. 1ZA-1ZE](https://www.legislation.gov.uk/uksi/1965/536/regulation/1ZA) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/1961/regulation/4)
 
-[^key-33581f0e32f30653cc3c7da8322d6f4f]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1965/536/regulation/1A) inserted (1.5.2007) by [The Police (Fingerprints) Regulations 2007 (S.I. 2007/1162)](https://www.legislation.gov.uk/uksi/2007/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1162/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1162/regulation/2/2)
+[^c-33581f0e32f30653cc3c7da8322d6f4f]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/1965/536/regulation/1A) inserted (1.5.2007) by [The Police (Fingerprints) Regulations 2007 (S.I. 2007/1162)](https://www.legislation.gov.uk/uksi/2007/1162), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1162/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1162/regulation/2/2)
 
-[^key-04d534ad54384943157b856017af4b92]: Textual amendment: Words in [reg. 1A(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1A/1) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2012/1961/regulation/5/1)
+[^c-04d534ad54384943157b856017af4b92]: Textual amendment: Words in [reg. 1A(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1A/1) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2012/1961/regulation/5/1)
 
-[^key-59f2e0916934b93a471843485b9c476e]: Textual amendment: [Reg. 1A(4)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1A/4) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1961/regulation/5/2)
+[^c-59f2e0916934b93a471843485b9c476e]: Textual amendment: [Reg. 1A(4)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1A/4) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1961/regulation/5/2)
 
-[^key-f4045edb53cf1838112e5a10cd67e47d]: Textual amendment: [Regs. 1B](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B), [1C](https://www.legislation.gov.uk/uksi/1965/536/regulation/1C) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/1961/regulation/6)
+[^c-f4045edb53cf1838112e5a10cd67e47d]: Textual amendment: [Regs. 1B](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B), [1C](https://www.legislation.gov.uk/uksi/1965/536/regulation/1C) inserted (20.8.2012) by [The Special Constables (Amendment) Regulations 2012 (S.I. 2012/1961)](https://www.legislation.gov.uk/uksi/2012/1961), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1961/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/1961/regulation/6)
 
-[^key-536de54c1e74d1050f35d2ced613c644]: Textual amendment: [Reg. 1B(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/1) substituted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/a)
+[^c-536de54c1e74d1050f35d2ced613c644]: Textual amendment: [Reg. 1B(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/1) substituted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/a)
 
-[^key-7dea51e8d458ec114ad4f19934484aea]: Textual amendment: [Reg. 1B(2A)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/2A) inserted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/b)
+[^c-7dea51e8d458ec114ad4f19934484aea]: Textual amendment: [Reg. 1B(2A)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/2A) inserted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/b)
 
-[^key-1688fb8935a0d11bb1b1a665d4badacf]: Textual amendment: [Reg. 1B(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/3)[(3A)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/3A) substituted for [reg. 1B(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/3) (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/c)
+[^c-1688fb8935a0d11bb1b1a665d4badacf]: Textual amendment: [Reg. 1B(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/3)[(3A)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/3A) substituted for [reg. 1B(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/3) (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/c)
 
-[^key-4184d3a20767c7bde7a01752c02c650a]: Textual amendment: [Reg. 1B(4)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/4) omitted (1.4.2015) by virtue of [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/d)
+[^c-4184d3a20767c7bde7a01752c02c650a]: Textual amendment: [Reg. 1B(4)](https://www.legislation.gov.uk/uksi/1965/536/regulation/1B/4) omitted (1.4.2015) by virtue of [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2015/461/regulation/3/d)
 
-[^key-cca57310121abb88f81254e09e6103c7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1965/536/regulation/2) revoked (1.4.2004) by [The Police (Conduct) Regulations 2004 (S.I. 2004/645)](https://www.legislation.gov.uk/uksi/2004/645), [regs. 1](https://www.legislation.gov.uk/uksi/2004/645/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2004/645/regulation/2/2/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2004/645/regulation/2/3))
+[^c-cca57310121abb88f81254e09e6103c7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/1965/536/regulation/2) revoked (1.4.2004) by [The Police (Conduct) Regulations 2004 (S.I. 2004/645)](https://www.legislation.gov.uk/uksi/2004/645), [regs. 1](https://www.legislation.gov.uk/uksi/2004/645/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2004/645/regulation/2/2/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2004/645/regulation/2/3))
 
-[^key-1af859763f0808f9e220cf2707554097]: Commencement: Reg. 3 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-1af859763f0808f9e220cf2707554097]: Commencement: Reg. 3 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-57db6bd01c65f8b77a81d143dcf30cba]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/3/1) omitted (1.2.2020) by virtue of [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [72(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/72/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-57db6bd01c65f8b77a81d143dcf30cba]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/3/1) omitted (1.2.2020) by virtue of [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [72(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/72/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
 
-[^key-41980aabed18120f094cf123913f455b]: Commencement: Reg. 4 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-41980aabed18120f094cf123913f455b]: Commencement: Reg. 4 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-aebe3e956a3984ecbdbd2f11f0484ece]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/4/2) substituted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/461/regulation/4/a)
+[^c-aebe3e956a3984ecbdbd2f11f0484ece]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/4/2) substituted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/461/regulation/4/a)
 
-[^key-49abe9af51bdc2d26af0bc21a5cbfac3]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/4/3) substituted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/461/regulation/4/b)
+[^c-49abe9af51bdc2d26af0bc21a5cbfac3]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/4/3) substituted (1.4.2015) by [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/461/regulation/4/b)
 
-[^key-2b660f71a27f325b4430b7c4bd09ce1b]: Commencement: Reg. 5 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-2b660f71a27f325b4430b7c4bd09ce1b]: Commencement: Reg. 5 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-cb973d75c68ef9732badbbf7b1735cfd]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5/2) substituted (1.9.1992) by [The Special Constables (Amendment) (No. 2) Regulations 1992 (S.I. 1992/1641)](https://www.legislation.gov.uk/uksi/1992/1641), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1641/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/1641/regulation/2/a)
+[^c-cb973d75c68ef9732badbbf7b1735cfd]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5/2) substituted (1.9.1992) by [The Special Constables (Amendment) (No. 2) Regulations 1992 (S.I. 1992/1641)](https://www.legislation.gov.uk/uksi/1992/1641), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1641/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/1992/1641/regulation/2/a)
 
-[^key-bcd0a3f77e8e39d9e2d5a1f91c9ca685]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5/3) substituted (1.9.1992) by [The Special Constables (Amendment) (No. 2) Regulations 1992 (S.I. 1992/1641)](https://www.legislation.gov.uk/uksi/1992/1641), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1641/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/1641/regulation/2/b)
+[^c-bcd0a3f77e8e39d9e2d5a1f91c9ca685]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5/3) substituted (1.9.1992) by [The Special Constables (Amendment) (No. 2) Regulations 1992 (S.I. 1992/1641)](https://www.legislation.gov.uk/uksi/1992/1641), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1641/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/1992/1641/regulation/2/b)
 
-[^key-4810269ea19d21922c955bb4ba93c6f6]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A) substituted (10.1.2003) by [The Special Constables (Amendment) Regulations 2002 (S.I. 2002/3180)](https://www.legislation.gov.uk/uksi/2002/3180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/2/3)
+[^c-4810269ea19d21922c955bb4ba93c6f6]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A) substituted (10.1.2003) by [The Special Constables (Amendment) Regulations 2002 (S.I. 2002/3180)](https://www.legislation.gov.uk/uksi/2002/3180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/2/3)
 
-[^key-cfa7a7cf41042b67fccd1d0166776a8d]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/1)[(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/2) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/2/2)
+[^c-cfa7a7cf41042b67fccd1d0166776a8d]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/1)[(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/2) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/2/2)
 
-[^key-2010af75144f95ffa9c1cd9af300db0a]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/1) omitted (1.4.2015) by virtue of [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/461/regulation/5/a)
+[^c-2010af75144f95ffa9c1cd9af300db0a]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/1) omitted (1.4.2015) by virtue of [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/461/regulation/5/a)
 
-[^key-4c1f4520cd158dced2fda937e28bf132]: Textual amendment: [Reg. 5A(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/2)[(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/3) omitted (1.4.2015) by virtue of [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/461/regulation/5/b)
+[^c-4c1f4520cd158dced2fda937e28bf132]: Textual amendment: [Reg. 5A(2)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/2)[(3)](https://www.legislation.gov.uk/uksi/1965/536/regulation/5A/3) omitted (1.4.2015) by virtue of [The Special Constables (Amendment) Regulations 2015 (S.I. 2015/461)](https://www.legislation.gov.uk/uksi/2015/461), [regs. 1](https://www.legislation.gov.uk/uksi/2015/461/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/461/regulation/5/b)
 
-[^key-329329d162ceea6f3e244fab5f7bb737]: Commencement: Reg. 6 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-329329d162ceea6f3e244fab5f7bb737]: Commencement: Reg. 6 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-9db8a591ebd48d83ec5955675cbdf9a3]: Commencement: Reg. 7 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-9db8a591ebd48d83ec5955675cbdf9a3]: Commencement: Reg. 7 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-e1ffa31ec888478b0ffa129d1de1ac52]: Commencement: Reg. 8 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-e1ffa31ec888478b0ffa129d1de1ac52]: Commencement: Reg. 8 in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-e989531975426a17722109fbcd3a6e97]: Commencement: Sch. in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
+[^c-e989531975426a17722109fbcd3a6e97]: Commencement: Sch. in force at 1.4.1965, see [reg. 8](https://www.legislation.gov.uk/uksi/1965/536/regulation/8)
 
-[^key-e3c3159327258d8cbf3ae30d0ec7f175]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1965/536/schedule/2) omitted (10.1.2003) by virtue of [The Special Constables (Amendment) Regulations 2002 (S.I. 2002/3180)](https://www.legislation.gov.uk/uksi/2002/3180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/2/4)
+[^c-e3c3159327258d8cbf3ae30d0ec7f175]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1965/536/schedule/2) omitted (10.1.2003) by virtue of [The Special Constables (Amendment) Regulations 2002 (S.I. 2002/3180)](https://www.legislation.gov.uk/uksi/2002/3180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2002/3180/regulation/2/4)

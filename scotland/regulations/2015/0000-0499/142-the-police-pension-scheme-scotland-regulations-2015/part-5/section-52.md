@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Active member’s account to remain open during periods of unpaid leave[^key-668406c1a9a703b14f6af4564a13a5a2]
+## 52. Active member’s account to remain open during periods of unpaid leave[^c-668406c1a9a703b14f6af4564a13a5a2]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-668406c1a9a703b14f6af4564a13a5a2]: Commencement: Reg. 52 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-668406c1a9a703b14f6af4564a13a5a2]: Commencement: Reg. 52 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00041]: Footnote: See regulation 13 for periods of unpaid leave during which the employment relationship continues.

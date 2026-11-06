@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Guidance[^key-991d061a2398138c59d8667109dfe5ea][^key-9cf9c98f9a83cde4ebb26318939207a4]
+## 108. Guidance[^c-991d061a2398138c59d8667109dfe5ea][^c-9cf9c98f9a83cde4ebb26318939207a4]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-991d061a2398138c59d8667109dfe5ea]: Commencement: S. 108 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-991d061a2398138c59d8667109dfe5ea]: Commencement: S. 108 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-9cf9c98f9a83cde4ebb26318939207a4]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2022/30/section/108) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z7)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z7)
+[^c-9cf9c98f9a83cde4ebb26318939207a4]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2022/30/section/108) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z7)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z7)

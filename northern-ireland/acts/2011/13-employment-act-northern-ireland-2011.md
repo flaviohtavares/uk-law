@@ -155,11 +155,11 @@ In the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18), in Article 9 
 
 In Article 17(1) of the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) for the words from “shall, if a county court so orders,” to the end substitute “ shall be enforceable as if it were payable under an order of the county court. ”.
 
-### 8. Conciliation before bringing of proceedings[^key-645121f4fbcb3961b657f66192b35445]
+### 8. Conciliation before bringing of proceedings[^c-645121f4fbcb3961b657f66192b35445]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Conciliation after bringing of proceedings[^key-6637242d129a6c53d423d00c8d57e4b2]
+### 9. Conciliation after bringing of proceedings[^c-6637242d129a6c53d423d00c8d57e4b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -229,11 +229,11 @@ In the Industrial Tribunals (Northern Ireland) Order 1996 (NI 18) after Article 
 
 (3) In paragraph (3)(b) after “following” insert “ (if otherwise relevant to the industrial tribunal proceedings) ”.
 
-### 12. Conciliation before bringing of proceedings[^key-d169627218c82adec12ff8a5199cb93e]
+### 12. Conciliation before bringing of proceedings[^c-d169627218c82adec12ff8a5199cb93e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Conciliation after bringing of proceedings[^key-8cd50ed9b01526f0e3cf7c97ac64bc9a]
+### 13. Conciliation after bringing of proceedings[^c-8cd50ed9b01526f0e3cf7c97ac64bc9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -668,17 +668,17 @@ Section 16.
 
 [^c22528681]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/13/section/7) wholly in operation at 3.4.2011, see [s. 17(1)](https://www.legislation.gov.uk/nia/2011/13/section/17/1) and [S.R. 2011/159](https://www.legislation.gov.uk/nisr/2011/159), [art. 2](https://www.legislation.gov.uk/nisr/2011/159/article/2) (subject to transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/nisr/2011/159/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/159/schedule))
 
-[^key-645121f4fbcb3961b657f66192b35445]: Textual amendment: [S. 8](https://www.legislation.gov.uk/nia/2011/13/section/8) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
+[^c-645121f4fbcb3961b657f66192b35445]: Textual amendment: [S. 8](https://www.legislation.gov.uk/nia/2011/13/section/8) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
 
-[^key-6637242d129a6c53d423d00c8d57e4b2]: Textual amendment: [S. 9](https://www.legislation.gov.uk/nia/2011/13/section/9) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
+[^c-6637242d129a6c53d423d00c8d57e4b2]: Textual amendment: [S. 9](https://www.legislation.gov.uk/nia/2011/13/section/9) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
 
 [^c22528741]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/13/section/10) wholly in operation at 3.4.2011, see [s. 17(1)](https://www.legislation.gov.uk/nia/2011/13/section/17/1) and [S.R. 2011/159](https://www.legislation.gov.uk/nisr/2011/159), [art. 2](https://www.legislation.gov.uk/nisr/2011/159/article/2) (subject to transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/nisr/2011/159/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/159/schedule))
 
 [^c22528751]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/13/section/11) wholly in operation at 3.4.2011, see [s. 17(1)](https://www.legislation.gov.uk/nia/2011/13/section/17/1) and [S.R. 2011/159](https://www.legislation.gov.uk/nisr/2011/159), [art. 2](https://www.legislation.gov.uk/nisr/2011/159/article/2) (subject to transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/nisr/2011/159/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/159/schedule))
 
-[^key-d169627218c82adec12ff8a5199cb93e]: Textual amendment: [S. 12](https://www.legislation.gov.uk/nia/2011/13/section/12) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
+[^c-d169627218c82adec12ff8a5199cb93e]: Textual amendment: [S. 12](https://www.legislation.gov.uk/nia/2011/13/section/12) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
 
-[^key-8cd50ed9b01526f0e3cf7c97ac64bc9a]: Textual amendment: [S. 13](https://www.legislation.gov.uk/nia/2011/13/section/13) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
+[^c-8cd50ed9b01526f0e3cf7c97ac64bc9a]: Textual amendment: [S. 13](https://www.legislation.gov.uk/nia/2011/13/section/13) repealed (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 3](https://www.legislation.gov.uk/nia/2016/15/schedule/3); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(o)](https://www.legislation.gov.uk/nisr/2020/1/article/2/o)
 
 [^c22528801]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/13/section/14) wholly in operation at 3.4.2011, see [s. 17(1)](https://www.legislation.gov.uk/nia/2011/13/section/17/1) and [S.R. 2011/159](https://www.legislation.gov.uk/nisr/2011/159), [art. 2](https://www.legislation.gov.uk/nisr/2011/159/article/2) (subject to transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/nisr/2011/159/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2011/159/schedule))
 

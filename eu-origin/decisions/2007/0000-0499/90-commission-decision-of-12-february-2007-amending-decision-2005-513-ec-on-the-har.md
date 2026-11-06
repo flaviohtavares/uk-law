@@ -39,14 +39,14 @@ amending Decision 2005/513/EC on the harmonised use of radio spectrum in the 5 G
 
 (2007/90/EC) (revoked)
 
-[^key-831785b4dd6727860167ad2cd5a4f31f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831785b4dd6727860167ad2cd5a4f31f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-831785b4dd6727860167ad2cd5a4f31f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-831785b4dd6727860167ad2cd5a4f31f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-831785b4dd6727860167ad2cd5a4f31f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-831785b4dd6727860167ad2cd5a4f31f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-831785b4dd6727860167ad2cd5a4f31f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831785b4dd6727860167ad2cd5a4f31f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-831785b4dd6727860167ad2cd5a4f31f]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-831785b4dd6727860167ad2cd5a4f31f]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

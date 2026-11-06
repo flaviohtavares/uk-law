@@ -211,17 +211,17 @@ Section 32
 
 > - (c) where the patient is a community patient, by the responsible clinician, by the managers of the responsible hospital or by the nearest relative of the patient.
 
-(5)[^key-7e84c251b3f53b1ec5c4329162b39872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7e84c251b3f53b1ec5c4329162b39872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-7e84c251b3f53b1ec5c4329162b39872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7e84c251b3f53b1ec5c4329162b39872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** (1) Section 24 (visiting and examination of patients) is amended as follows.
 
 (2) In subsection (1), after “this Act” insert “ , or who is a community patient, ”.
 
-(3)[^key-2b5c2b0e6bedf196abf3839eb296b5e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2b5c2b0e6bedf196abf3839eb296b5e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2b5c2b0e6bedf196abf3839eb296b5e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2b5c2b0e6bedf196abf3839eb296b5e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** (1) Section 25 (restrictions on discharge by nearest relative) is amended as follows.
 
@@ -440,7 +440,7 @@ Section 32
 
 ### Members of Parliament suffering from mental disorder
 
-**33.**[^key-5f7daffc089acfbd27fa95494b119df2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-5f7daffc089acfbd27fa95494b119df2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interpretation
 
@@ -513,9 +513,9 @@ Section 32
 
 [^c2100693]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/4) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/4) in force for specified purposes at 1.4.2008 by [S.I. 2008/745](https://www.legislation.gov.uk/uksi/2008/745), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2008/745/article/2/c/ii); [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3) in force insofar as not already in force at 3.11.2008 by [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1900/article/1/1), [2(i)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-7e84c251b3f53b1ec5c4329162b39872]: Textual amendment: [Sch. 3 paras. 10(5)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/10/5)[(6)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/10/6) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(f)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/f), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-7e84c251b3f53b1ec5c4329162b39872]: Textual amendment: [Sch. 3 paras. 10(5)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/10/5)[(6)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/10/6) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(f)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/f), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-2b5c2b0e6bedf196abf3839eb296b5e6]: Textual amendment: [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/11/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/11/4) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(f)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/f), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-2b5c2b0e6bedf196abf3839eb296b5e6]: Textual amendment: [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/11/3)[(4)](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/11/4) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 39(4)(f)](https://www.legislation.gov.uk/ukpga/2012/7/section/39/4/f), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
 [^c2100676]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/16) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/16) in force at 3.11.2008 by [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2008/1210/article/1/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/1210/article/4))
 
@@ -529,4 +529,4 @@ Section 32
 
 [^c2100683]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/25) not in force at Royal Assent see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/25) in force at 3.11.2008 by [S.I. 2008/1210](https://www.legislation.gov.uk/uksi/2008/1210), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2008/1210/article/1/1/b), [2(b)](https://www.legislation.gov.uk/uksi/2008/1210/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/1210/article/4))
 
-[^key-5f7daffc089acfbd27fa95494b119df2]: Textual amendment: [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/33) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/6/2)
+[^c-5f7daffc089acfbd27fa95494b119df2]: Textual amendment: [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/2007/12/schedule/3/paragraph/33) omitted (28.4.2013) by virtue of [Mental Health (Discrimination) Act 2013 (c. 8)](https://www.legislation.gov.uk/ukpga/2013/8), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2013/8/section/4/1), [Sch. para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/8/schedule/paragraph/6/2)

@@ -32,10 +32,10 @@ summary: ''
 
 (3) In the case of a property business carried on by a company as a member of a firm, the basic rules in sections 205 and 206 are explained in section 1270(2) and (3).
 
-(4) See also section 86 of FA 2012[^key-4f03f9d224c73bab5bd90f227c0fbccf] (which qualifies the basic rules in sections 205 and 206 for the purpose of applying the I - E rules in relation to[^key-c0c5f4fbfa6a62dd0ec748150766c9b9] an insurance company).
+(4) See also section 86 of FA 2012[^c-4f03f9d224c73bab5bd90f227c0fbccf] (which qualifies the basic rules in sections 205 and 206 for the purpose of applying the I - E rules in relation to[^c-c0c5f4fbfa6a62dd0ec748150766c9b9] an insurance company).
 
 ## Annotations
 
-[^key-4f03f9d224c73bab5bd90f227c0fbccf]: Textual amendment: Words in s. 203(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 146(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/146/a)
+[^c-4f03f9d224c73bab5bd90f227c0fbccf]: Textual amendment: Words in s. 203(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 146(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/146/a)
 
-[^key-c0c5f4fbfa6a62dd0ec748150766c9b9]: Textual amendment: Words in s. 203(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 146(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/146/b)
+[^c-c0c5f4fbfa6a62dd0ec748150766c9b9]: Textual amendment: Words in s. 203(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 146(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/146/b)

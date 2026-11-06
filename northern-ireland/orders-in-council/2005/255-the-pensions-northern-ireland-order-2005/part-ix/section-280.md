@@ -30,10 +30,10 @@ summary: ''
 
 - (a) Part II (the Pensions Regulator),
 - (b) Part III (the Board of the Pension Protection Fund), other than Chapter 1,
-- (ba)[^key-83e494a0b5de32cb0dd58e3fc517cf00] Part 4 (scheme funding),
+- (ba)[^c-83e494a0b5de32cb0dd58e3fc517cf00] Part 4 (scheme funding),
 - (c) Articles 234 and 235 (pension protection),
-- (d) Articles 236 and 238 (consultation by employers), [^key-89f443ed488dc95f6f7b0a4d5332f69b]...
-- (e)[^key-89f443ed488dc95f6f7b0a4d5332f69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) Articles 236 and 238 (consultation by employers), [^c-89f443ed488dc95f6f7b0a4d5332f69b]...
+- (e)[^c-89f443ed488dc95f6f7b0a4d5332f69b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Regulations may also modify any of the provisions of Part III as it applies in relation to an eligible scheme in respect of which a relevant public authority has—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83e494a0b5de32cb0dd58e3fc517cf00]: Textual amendment: [Art. 280(2)(ba)](https://www.legislation.gov.uk/nisi/2005/255/article/280/2/ba) inserted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 29(2)](https://www.legislation.gov.uk/nia/2012/3/section/29/2), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
+[^c-83e494a0b5de32cb0dd58e3fc517cf00]: Textual amendment: [Art. 280(2)(ba)](https://www.legislation.gov.uk/nisi/2005/255/article/280/2/ba) inserted (2.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 29(2)](https://www.legislation.gov.uk/nia/2012/3/section/29/2), [34(2)](https://www.legislation.gov.uk/nia/2012/3/section/34/2)
 
-[^key-89f443ed488dc95f6f7b0a4d5332f69b]: Textual amendment: [Art. 280(2)(e)](https://www.legislation.gov.uk/nisi/2005/255/article/280/2/e) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/193/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89f443ed488dc95f6f7b0a4d5332f69b]: Textual amendment: [Art. 280(2)(e)](https://www.legislation.gov.uk/nisi/2005/255/article/280/2/e) and word omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/193/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

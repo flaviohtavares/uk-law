@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Legislative competence: restriction relating to retained EU law[^key-d6eb13fee2762ac5704f5da7415ba941]
+## 30A. Legislative competence: restriction relating to retained EU law[^c-d6eb13fee2762ac5704f5da7415ba941]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6eb13fee2762ac5704f5da7415ba941]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/1998/46/section/30A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/2/3)
+[^c-d6eb13fee2762ac5704f5da7415ba941]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/1998/46/section/30A) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/2/3)

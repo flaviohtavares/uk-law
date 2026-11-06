@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Temporary use of land by National Grid[^key-c99d6127de70ca6a33c16d72b6b958e1]
+## 28. Temporary use of land by National Grid[^c-c99d6127de70ca6a33c16d72b6b958e1]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c99d6127de70ca6a33c16d72b6b958e1]: Commencement: Art. 28 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-c99d6127de70ca6a33c16d72b6b958e1]: Commencement: Art. 28 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

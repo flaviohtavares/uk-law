@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Infrastructure Levy: England[^key-617259ab1d75e2fefb5f9c6a821c147d]
+## 137. Infrastructure Levy: England[^c-617259ab1d75e2fefb5f9c6a821c147d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 12 makes provision for, and in connection with, the imposition, in Engl
 
 ## Annotations
 
-[^key-617259ab1d75e2fefb5f9c6a821c147d]: Commencement: S. 137 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-617259ab1d75e2fefb5f9c6a821c147d]: Commencement: S. 137 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

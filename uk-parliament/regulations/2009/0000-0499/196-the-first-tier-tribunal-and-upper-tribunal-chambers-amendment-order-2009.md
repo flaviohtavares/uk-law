@@ -32,7 +32,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2009 (revoked)[^key-01f9428db6f14745cdd057b6ad1f9b15]
+The First-tier Tribunal and Upper Tribunal (Chambers) (Amendment) Order 2009 (revoked)[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 1st April 2009
 
-[^key-01f9428db6f14745cdd057b6ad1f9b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01f9428db6f14745cdd057b6ad1f9b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 1. Citation and commencement[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 2. Amendments to the First-tier Tribunal and Upper Tribunal (Chambers) Order 2008[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 3.[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 4.[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 5.[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 6.[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 7.[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 8.[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provision[^key-01f9428db6f14745cdd057b6ad1f9b15]
+## 9. Transitional provision[^c-01f9428db6f14745cdd057b6ad1f9b15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01f9428db6f14745cdd057b6ad1f9b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01f9428db6f14745cdd057b6ad1f9b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-01f9428db6f14745cdd057b6ad1f9b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01f9428db6f14745cdd057b6ad1f9b15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01f9428db6f14745cdd057b6ad1f9b15]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/196) revoked (except for the purposes of art. 9) (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)
+[^c-01f9428db6f14745cdd057b6ad1f9b15]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/196) revoked (except for the purposes of art. 9) (29.11.2010) by [The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 (S.I. 2010/2655)](https://www.legislation.gov.uk/uksi/2010/2655), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2655/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/2655/schedule)

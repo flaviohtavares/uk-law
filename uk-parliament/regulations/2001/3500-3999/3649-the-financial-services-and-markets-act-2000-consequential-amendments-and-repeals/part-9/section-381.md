@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 381. Interpretation of “deposit-taker”[^key-b4de679fed1d22fde94ad2f9e1770adb]
+## 381. Interpretation of “deposit-taker”[^c-b4de679fed1d22fde94ad2f9e1770adb]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ After Rule 13.12 of those Rules insert—
 
 ## Annotations
 
-[^key-b4de679fed1d22fde94ad2f9e1770adb]: Commencement: Art. 381 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b4de679fed1d22fde94ad2f9e1770adb]: Commencement: Art. 381 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00276]: Footnote: [1979, c. 37](https://www.legislation.gov.uk/ukpga/1979/37), repealed by the Banking Act 1987, section 108, Schedule 7.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50A. Anonymous entries[^key-32c741239d4e588aa1f2dbfe6cf5338d]
+## 50A. Anonymous entries[^c-32c741239d4e588aa1f2dbfe6cf5338d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32c741239d4e588aa1f2dbfe6cf5338d]: Textual amendment: [Reg. 50A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/50A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2014/1808/regulation/12)
+[^c-32c741239d4e588aa1f2dbfe6cf5338d]: Textual amendment: [Reg. 50A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/50A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2014/1808/regulation/12)

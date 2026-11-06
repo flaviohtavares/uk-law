@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Election to accelerate charge under section 238[^key-7e887c9d435bc12d6df6782a9f00b261]
+## 239. Election to accelerate charge under section 238[^c-7e887c9d435bc12d6df6782a9f00b261]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e887c9d435bc12d6df6782a9f00b261]: Textual amendment: Ss. 238, 239 omitted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 52(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/52/3)
+[^c-7e887c9d435bc12d6df6782a9f00b261]: Textual amendment: Ss. 238, 239 omitted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 52(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/52/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Amount of fixed penalty[^key-f8e8562ff84d322568c48b2f24ea33d4][^key-ad7443f4b5927a8ab14dc62618b096e5][^key-eb4520fc2cc56ec18e1a057bdfde8528][^key-964f8b0bd32fde0a3b2e0a704b29023f]
+## 74. Amount of fixed penalty[^c-f8e8562ff84d322568c48b2f24ea33d4][^c-ad7443f4b5927a8ab14dc62618b096e5][^c-eb4520fc2cc56ec18e1a057bdfde8528][^c-964f8b0bd32fde0a3b2e0a704b29023f]
 
 *Extent: E+W*
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e8562ff84d322568c48b2f24ea33d4]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 14.3.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
+[^c-f8e8562ff84d322568c48b2f24ea33d4]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 14.3.2006 for specified purposes for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/795/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/795/schedule/1)
 
-[^key-ad7443f4b5927a8ab14dc62618b096e5]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
+[^c-ad7443f4b5927a8ab14dc62618b096e5]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 16.3.2006 for specified purposes for W. by [S.I. 2006/768](https://www.legislation.gov.uk/wsi/2006/768), [art. 3](https://www.legislation.gov.uk/wsi/2006/768/article/3)
 
-[^key-eb4520fc2cc56ec18e1a057bdfde8528]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 6.4.2006 for E. in so far as not already in force by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-eb4520fc2cc56ec18e1a057bdfde8528]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 6.4.2006 for E. in so far as not already in force by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-964f8b0bd32fde0a3b2e0a704b29023f]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(dd)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/dd)
+[^c-964f8b0bd32fde0a3b2e0a704b29023f]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2005/16/section/74) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. in so far as not already in force by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(dd)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/dd)

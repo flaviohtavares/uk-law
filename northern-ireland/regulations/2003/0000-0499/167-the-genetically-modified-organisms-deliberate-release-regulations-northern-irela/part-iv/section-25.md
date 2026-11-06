@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Duties of the Department on receiving applications for renewal of consent to market[^key-52a8b911d05d64fe382b706b7edd4e8b]
+## 25. Duties of the Department on receiving applications for renewal of consent to market[^c-52a8b911d05d64fe382b706b7edd4e8b]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52a8b911d05d64fe382b706b7edd4e8b]: Commencement: Reg. 25 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-52a8b911d05d64fe382b706b7edd4e8b]: Commencement: Reg. 25 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

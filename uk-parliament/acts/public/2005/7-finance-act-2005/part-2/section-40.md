@@ -34,7 +34,7 @@ summary: ''
 
 they may give notice to the trustees and the person in relation to whom the vulnerable person election was made that the election never had effect or ceased to have effect from a date specified in the notice.
 
-(4) A person aggrieved by a determination of the Board of Inland Revenue under subsection (3) may by notice appeal [^key-ac5d4ace1ce14b184afeebdd626bed6b]....
+(4) A person aggrieved by a determination of the Board of Inland Revenue under subsection (3) may by notice appeal [^c-ac5d4ace1ce14b184afeebdd626bed6b]....
 
 (5) The notice of appeal must be given to the Board of Inland Revenue within 30 days after the notice of the determination was given under subsection (3).
 
@@ -44,4 +44,4 @@ they may give notice to the trustees and the person in relation to whom the vuln
 
 ## Annotations
 
-[^key-ac5d4ace1ce14b184afeebdd626bed6b]: Textual amendment: Words in s. 40(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 445](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/445)
+[^c-ac5d4ace1ce14b184afeebdd626bed6b]: Textual amendment: Words in s. 40(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 445](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/445)

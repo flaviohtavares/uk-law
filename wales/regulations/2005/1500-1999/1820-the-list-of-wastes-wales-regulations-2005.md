@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, WALES
 
-The List of Wastes (Wales) Regulations 2005 (revoked)[^key-4cc7444fb314927cfcaf6355cd37061f]
+The List of Wastes (Wales) Regulations 2005 (revoked)[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 Made
 
@@ -41,138 +41,138 @@ Coming into force
 
 16 July 2005
 
-[^key-4cc7444fb314927cfcaf6355cd37061f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cc7444fb314927cfcaf6355cd37061f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-4cc7444fb314927cfcaf6355cd37061f]
+## 1. Title, commencement and application[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4cc7444fb314927cfcaf6355cd37061f]
+## 2. Interpretation[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Effect of the List of Wastes[^key-4cc7444fb314927cfcaf6355cd37061f]
+## 3. Effect of the List of Wastes[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Properties and characteristics of dangerous substances classified as hazardous waste[^key-4cc7444fb314927cfcaf6355cd37061f]
+## 4. Properties and characteristics of dangerous substances classified as hazardous waste[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential Amendments[^key-4cc7444fb314927cfcaf6355cd37061f]
+## 5. Consequential Amendments[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cc7444fb314927cfcaf6355cd37061f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cc7444fb314927cfcaf6355cd37061f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — THE LIST OF WASTES — THE ANNEX TO THE LIST OF WASTES DECISION[^key-4cc7444fb314927cfcaf6355cd37061f]
+## SCHEDULE 1 — THE LIST OF WASTES — THE ANNEX TO THE LIST OF WASTES DECISION[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 Regulation 2(2)(b)
 
-> **ANNEX — List of wastes pursuant to Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste and Article 1(4) of Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) on hazardous waste[^key-4cc7444fb314927cfcaf6355cd37061f]**
+> **ANNEX — List of wastes pursuant to Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste and Article 1(4) of Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) on hazardous waste[^c-4cc7444fb314927cfcaf6355cd37061f]**
 >
-> [^key-4cc7444fb314927cfcaf6355cd37061f]
+> [^c-4cc7444fb314927cfcaf6355cd37061f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.1.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.1.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.2.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.2.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.3.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.3.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.4.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.4.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **01.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **01.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **02.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **02.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **03.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **03.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **04.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **04.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **05.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **05.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **06.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **06.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **07.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **07.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **08.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **08.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **09.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **09.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **12.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **13.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **13.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **14.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **14.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **15.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **15.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **16.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **16.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **17.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **17.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **18.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **18.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **19.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **20.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **20.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-4cc7444fb314927cfcaf6355cd37061f]
+## SCHEDULE 2[^c-4cc7444fb314927cfcaf6355cd37061f]
 
 Regulation 5
 
-### The Environmental Protection (Duty of Care) Regulations 1991[^key-4cc7444fb314927cfcaf6355cd37061f]
+### The Environmental Protection (Duty of Care) Regulations 1991[^c-4cc7444fb314927cfcaf6355cd37061f]
 
-**1.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Landfill (England and Wales)Regulations 2002[^key-4cc7444fb314927cfcaf6355cd37061f]
+### The Landfill (England and Wales)Regulations 2002[^c-4cc7444fb314927cfcaf6355cd37061f]
 
-**3.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Landfill Allowances Scheme (Wales) Regulations 2004[^key-4cc7444fb314927cfcaf6355cd37061f]
+### The Landfill Allowances Scheme (Wales) Regulations 2004[^c-4cc7444fb314927cfcaf6355cd37061f]
 
-**5.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4cc7444fb314927cfcaf6355cd37061f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4cc7444fb314927cfcaf6355cd37061f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cc7444fb314927cfcaf6355cd37061f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cc7444fb314927cfcaf6355cd37061f]: Textual amendment: Regulations revoked (20.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2015 (S.I. 2015/1417)](https://www.legislation.gov.uk/wsi/2015/1417), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/7/a)
+[^c-4cc7444fb314927cfcaf6355cd37061f]: Textual amendment: Regulations revoked (20.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2015 (S.I. 2015/1417)](https://www.legislation.gov.uk/wsi/2015/1417), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/1/2), [7(a)](https://www.legislation.gov.uk/wsi/2015/1417/regulation/7/a)

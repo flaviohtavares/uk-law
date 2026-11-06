@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^key-4bc0b2c94d1fa16be5474be73279ccae]
+## 87. Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^c-4bc0b2c94d1fa16be5474be73279ccae]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Jobseeker’s Allowance Regulations (Northern Ireland)
 
 ## Annotations
 
-[^key-4bc0b2c94d1fa16be5474be73279ccae]: Commencement: Reg. 87 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-4bc0b2c94d1fa16be5474be73279ccae]: Commencement: Reg. 87 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00148]: Footnote: [S,R. (N.I.) 1996/198](https://www.legislation.gov.uk/nisr/1996/198). In regulation 1(2), the definition of “couple” was substituted by [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

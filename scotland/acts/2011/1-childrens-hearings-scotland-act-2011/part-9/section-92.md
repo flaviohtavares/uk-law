@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Powers of grounds hearing on deferral[^key-864c74af77eca9099a86ae12b5e908b0]
+## 92. Powers of grounds hearing on deferral[^c-864c74af77eca9099a86ae12b5e908b0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-864c74af77eca9099a86ae12b5e908b0]: Commencement: S. 92 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-864c74af77eca9099a86ae12b5e908b0]: Commencement: S. 92 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

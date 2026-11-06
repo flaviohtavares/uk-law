@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Information for the governing body of a federation[^key-01f4f046410f11c50e0edcd36d51afb4]
+## 76. Information for the governing body of a federation[^c-01f4f046410f11c50e0edcd36d51afb4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01f4f046410f11c50e0edcd36d51afb4]: Commencement: Reg. 76 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-01f4f046410f11c50e0edcd36d51afb4]: Commencement: Reg. 76 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

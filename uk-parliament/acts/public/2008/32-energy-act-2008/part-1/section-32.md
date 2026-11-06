@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Safety zones[^key-aa2232969be6cbca48a93bf150ef3f24]
+## 32. Safety zones[^c-aa2232969be6cbca48a93bf150ef3f24]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 21, 23 and 24 of the Petroleum Act 1987 (c. 12) (safety zones) apply in
 
 ## Annotations
 
-[^key-aa2232969be6cbca48a93bf150ef3f24]: Commencement: S. 32 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)
+[^c-aa2232969be6cbca48a93bf150ef3f24]: Commencement: S. 32 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/a/ii)

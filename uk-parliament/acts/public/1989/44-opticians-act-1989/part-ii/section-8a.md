@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Registers of students[^key-ca6011100426cae3fd1626a6c66822bb]
+## 8A. Registers of students[^c-ca6011100426cae3fd1626a6c66822bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca6011100426cae3fd1626a6c66822bb]: Textual amendment: S. 8A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 9](https://www.legislation.gov.uk/uksi/2005/848/article/9) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-ca6011100426cae3fd1626a6c66822bb]: Textual amendment: S. 8A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 9](https://www.legislation.gov.uk/uksi/2005/848/article/9) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

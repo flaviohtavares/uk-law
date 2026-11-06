@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Costs contribution orders made by courts[^key-01d0d787a4601cf0696351b93086389c]
+## 153. Costs contribution orders made by courts[^c-01d0d787a4601cf0696351b93086389c]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d0d787a4601cf0696351b93086389c]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2022/30/section/153) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-01d0d787a4601cf0696351b93086389c]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2022/30/section/153) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Article 11 of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^key-071f42f4ecb7a71b68c8650a5acd969f]
+## 31. Article 11 of Regulation [(EC) No 550/2004](https://www.legislation.gov.uk/eur/2004/550)[^c-071f42f4ecb7a71b68c8650a5acd969f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 11 (relations with military authorities).
 
 ## Annotations
 
-[^key-071f42f4ecb7a71b68c8650a5acd969f]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-071f42f4ecb7a71b68c8650a5acd969f]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

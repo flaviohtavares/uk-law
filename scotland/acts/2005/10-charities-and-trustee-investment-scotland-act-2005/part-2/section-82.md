@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Prevention of unauthorised fundraising[^key-cc3218c5c7c3690a6f5fc4825965814d]
+## 82. Prevention of unauthorised fundraising[^c-cc3218c5c7c3690a6f5fc4825965814d]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ the body need not, for the purposes of an application under subsection (1) made 
 
 ## Annotations
 
-[^key-cc3218c5c7c3690a6f5fc4825965814d]: Commencement: S. 82 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-cc3218c5c7c3690a6f5fc4825965814d]: Commencement: S. 82 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

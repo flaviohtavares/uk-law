@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Quality contracts schemes[^key-de3a4260f910636008db39fe30c0804a]
+## 19. Quality contracts schemes[^c-de3a4260f910636008db39fe30c0804a]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de3a4260f910636008db39fe30c0804a]: Commencement: S. 19 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-de3a4260f910636008db39fe30c0804a]: Commencement: S. 19 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

@@ -32,15 +32,15 @@ Section 97.
 
 *Extent: E+W+S*
 
-**2.**[^key-bc60953f243216052fe660f133061fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bc60953f243216052fe660f133061fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Trade Descriptions Act 1968
 
 *Extent: E+W+S*
 
-**3.**[^key-abb34e42e9acbf84cf6a101c57c12c28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-abb34e42e9acbf84cf6a101c57c12c28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f2c16e93e6ffc0b4911e7df3c5d35796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f2c16e93e6ffc0b4911e7df3c5d35796] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Greater London Council (General Powers) Act 1972
 
@@ -52,7 +52,7 @@ Section 97.
 
 *Extent: E+W+S*
 
-**6.**[^key-c944dadd30aff18f9e70dff71f03275a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c944dadd30aff18f9e70dff71f03275a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Weights and Measures &c. Act 1976
 
@@ -129,15 +129,15 @@ and 53(1), for the words “Act of 1963”, wherever they occur, there shall be 
 
 [^c13373061]: Marginal citation: [1928 c. 32](https://www.legislation.gov.uk/ukpga/1928/32).
 
-[^key-bc60953f243216052fe660f133061fef]: Textual amendment: Sch. 12 para. 2 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-bc60953f243216052fe660f133061fef]: Textual amendment: Sch. 12 para. 2 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
-[^key-abb34e42e9acbf84cf6a101c57c12c28]: Textual amendment: Sch. 12 para. 3 repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-abb34e42e9acbf84cf6a101c57c12c28]: Textual amendment: Sch. 12 para. 3 repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-f2c16e93e6ffc0b4911e7df3c5d35796]: Textual amendment: Sch. 12 para. 4 repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-f2c16e93e6ffc0b4911e7df3c5d35796]: Textual amendment: Sch. 12 para. 4 repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^c13373141]: Marginal citation: [1972 c. xl](https://www.legislation.gov.uk/ukla/1972/40).
 
-[^key-c944dadd30aff18f9e70dff71f03275a]: Textual amendment: Sch. 12 para. 6 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1) [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-c944dadd30aff18f9e70dff71f03275a]: Textual amendment: Sch. 12 para. 6 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [arts. 3(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/3/1) [8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c13373191]: Marginal citation: [1976 c. 77](https://www.legislation.gov.uk/ukpga/1976/77).
 

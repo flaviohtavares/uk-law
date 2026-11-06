@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Appointment of Court of Session judges, etc.[^key-1ff05d40cef44c1f47e1b281ad687bc5]
+## 123. Appointment of Court of Session judges, etc.[^c-1ff05d40cef44c1f47e1b281ad687bc5]
 
 *Extent: S*
 
@@ -142,4 +142,4 @@ In the Judiciary and Courts (Scotland) Act 2008, for sections 21 to 23 substitut
 
 ## Annotations
 
-[^key-1ff05d40cef44c1f47e1b281ad687bc5]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2014/18/section/123) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1ff05d40cef44c1f47e1b281ad687bc5]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2014/18/section/123) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

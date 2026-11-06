@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Contact: supplementary[^key-3868af1a800bd60bf814a321c016c380]
+## 24. Contact: supplementary[^c-3868af1a800bd60bf814a321c016c380]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3868af1a800bd60bf814a321c016c380]: Commencement: S. 24 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-3868af1a800bd60bf814a321c016c380]: Commencement: S. 24 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

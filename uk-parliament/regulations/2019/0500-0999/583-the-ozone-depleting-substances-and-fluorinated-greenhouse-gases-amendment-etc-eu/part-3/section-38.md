@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Insertion of new Articles 2A and 2B[^key-1b350c1728f5238af812b3f821cd07a3]
+## 38. Insertion of new Articles 2A and 2B[^c-1b350c1728f5238af812b3f821cd07a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ After Article 2, insert—
 
 ## Annotations
 
-[^key-1b350c1728f5238af812b3f821cd07a3]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1b350c1728f5238af812b3f821cd07a3]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

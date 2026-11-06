@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 902. Excluded assets[^key-979391bd31c45e022e5dd8f9bc6531b7]
+## 902. Excluded assets[^c-979391bd31c45e022e5dd8f9bc6531b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-979391bd31c45e022e5dd8f9bc6531b7]: Textual amendment: S. 902 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 180](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/180)
+[^c-979391bd31c45e022e5dd8f9bc6531b7]: Textual amendment: S. 902 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 180](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/180)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Radio communication and radio navigation equipment of aircraft[^key-1ce3da40d1db5b27079dee2e04ffc390]
+## 34. Radio communication and radio navigation equipment of aircraft[^c-1ce3da40d1db5b27079dee2e04ffc390]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ce3da40d1db5b27079dee2e04ffc390]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2015/870/article/34) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-1ce3da40d1db5b27079dee2e04ffc390]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2015/870/article/34) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

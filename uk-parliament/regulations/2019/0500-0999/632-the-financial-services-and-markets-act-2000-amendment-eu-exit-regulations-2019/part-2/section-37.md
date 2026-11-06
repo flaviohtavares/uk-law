@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Section 137Q (price stabilising rules)[^key-50232c7b2b5903e54c60632308e3df21]
+## 37. Section 137Q (price stabilising rules)[^c-50232c7b2b5903e54c60632308e3df21]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-50232c7b2b5903e54c60632308e3df21]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-50232c7b2b5903e54c60632308e3df21]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657631]: Marginal citation: Subsection (3A) was substituted by [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72H. Application of regulations 73 to 75[^key-03f0ccf32c3972217410dcbbb60e2832]
+## 72H. Application of regulations 73 to 75[^c-03f0ccf32c3972217410dcbbb60e2832]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulations 73 to 75 apply to—
 
 ## Annotations
 
-[^key-03f0ccf32c3972217410dcbbb60e2832]: Textual amendment: [Reg. 72H](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72H) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2012/822/regulation/34)
+[^c-03f0ccf32c3972217410dcbbb60e2832]: Textual amendment: [Reg. 72H](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72H) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2012/822/regulation/34)

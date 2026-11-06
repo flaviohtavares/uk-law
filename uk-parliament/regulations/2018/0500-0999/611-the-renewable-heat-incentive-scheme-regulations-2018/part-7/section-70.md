@@ -61,7 +61,7 @@ where—
 
 - “**applicable period**” means the period—
   - (a) commencing on—
-    - (ai) the date on which the installation capacity of a shared ground loop system is modified under regulation 52A;[^key-bd70f66602298ca1e05ab91a59453adc]
+    - (ai) the date on which the installation capacity of a shared ground loop system is modified under regulation 52A;[^c-bd70f66602298ca1e05ab91a59453adc]
     - (i) the tariff start date, if it is the first year of payment; or
     - (ii) in any other case, the most recent anniversary of the tariff start date; and
   - (b) ending with the last day of the quarterly period preceding the quarterly period for which a periodic support payment is being calculated;
@@ -72,4 +72,4 @@ where—
 
 ## Annotations
 
-[^key-bd70f66602298ca1e05ab91a59453adc]: Textual amendment: Words in [reg. 70(6)](https://www.legislation.gov.uk/uksi/2018/611/regulation/70/6) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [29](https://www.legislation.gov.uk/uksi/2021/76/regulation/29)
+[^c-bd70f66602298ca1e05ab91a59453adc]: Textual amendment: Words in [reg. 70(6)](https://www.legislation.gov.uk/uksi/2018/611/regulation/70/6) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [29](https://www.legislation.gov.uk/uksi/2021/76/regulation/29)

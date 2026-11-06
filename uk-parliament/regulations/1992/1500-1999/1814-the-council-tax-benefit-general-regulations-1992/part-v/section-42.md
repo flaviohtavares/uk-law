@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Calculation of grant income[^key-b3c1119429598fa327ed31a8f4c67cdb]
+## 42. Calculation of grant income[^c-b3c1119429598fa327ed31a8f4c67cdb]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (d) intended to meet additional expenditure connected with term time residential study away from the student’s educational establishment;
 - (e) on account of the student maintaining a home at a place other than that at which he resides during his course;
 - (f) on account of any other person but only if that person is residing outside of the United Kingdom and there is no applicable amount in respect of him;
-- (g) intended to meet the cost of books and equipment (other than special equipment) or, in the case of a full-time student, if not so intended an amount equal to £273[^key-ecf22017d357ac77798e86f8c0e9f3fc] towards such costs;
+- (g) intended to meet the cost of books and equipment (other than special equipment) or, in the case of a full-time student, if not so intended an amount equal to £273[^c-ecf22017d357ac77798e86f8c0e9f3fc] towards such costs;
 - (h) intended to meet travel expenses incurred as a result of his attendance on the course.
 
 (3) Where in pursuance of an award a student is in receipt of a grant in respect of maintenance under regulation 17(b) of the Education (Mandatory Awards) Regulations 1991 (payments), there shall be excluded from his grant income a sum equal to the amount specified in paragraph 7(4) of Schedule 2 to those Regulations (disregard of travel costs) being the amount to be disregarded in respect of travel costs in the particular circumstances of his case.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c1119429598fa327ed31a8f4c67cdb]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1992/1814/regulation/42) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-b3c1119429598fa327ed31a8f4c67cdb]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1992/1814/regulation/42) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-ecf22017d357ac77798e86f8c0e9f3fc]: Textual amendment: Word in [reg. 42(2)(g)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/42/2/g) substituted (6.9.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1993 (S.I. 1993/1540)](https://www.legislation.gov.uk/uksi/1993/1540), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/1/1/b/ii), [2(1)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/2/2/a) (with [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/1/1/b/i))
+[^c-ecf22017d357ac77798e86f8c0e9f3fc]: Textual amendment: Word in [reg. 42(2)(g)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/42/2/g) substituted (6.9.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1993 (S.I. 1993/1540)](https://www.legislation.gov.uk/uksi/1993/1540), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/1/1/b/ii), [2(1)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/2/2/a) (with [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/1993/1540/regulation/1/1/b/i))

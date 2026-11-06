@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A National Park authority may enter into an agreement (a “**management agreement**”) with any person having a right[^key-d8534673a1ec78fe0f8a0e993ef20e2c] in land to do, or secure the doing of, whatever the parties to the agreement consider necessary to achieve, in relation to the National Park, the National Park aims.
+(1) A National Park authority may enter into an agreement (a “**management agreement**”) with any person having a right[^c-d8534673a1ec78fe0f8a0e993ef20e2c] in land to do, or secure the doing of, whatever the parties to the agreement consider necessary to achieve, in relation to the National Park, the National Park aims.
 
 (2) A management agreement may include such incidental and consequential provisions (including financial ones) as the authority considers necessary or expedient for the purposes of the agreement.
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) The Trusts (Scotland) Act 1921 (c.58) has effect as if the powers conferred on trustees by section 4 of that Act (general powers of trustees) included a power to enter into management agreements relating to the trust estate.
 
-(5)[^key-7fa61dbd64d1a9778057af4386562bff] A management agreement which affects a right in land which is—
+(5)[^c-7fa61dbd64d1a9778057af4386562bff] A management agreement which affects a right in land which is—
 
 - (a) a right registered in the Land Register of Scotland, may be registered in that register,
 - (b) a right registrable (but not registered) in that register, may be recorded in the Register of Sasines.
@@ -41,12 +41,12 @@ summary: ''
 
 (9) Where the agreement has been registered or recorded under subsection (5), an agreement to terminate it must be registered or, as the case may be, recorded in the same way.
 
-(10)[^key-37be165c9f5bb0755b0a2f5fb7f4f71f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-37be165c9f5bb0755b0a2f5fb7f4f71f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8534673a1ec78fe0f8a0e993ef20e2c]: Textual amendment: Words in s. 15(1) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 41(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41/a) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-d8534673a1ec78fe0f8a0e993ef20e2c]: Textual amendment: Words in s. 15(1) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 41(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41/a) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-7fa61dbd64d1a9778057af4386562bff]: Textual amendment: S. 15(5) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 41(b)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41/b) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-7fa61dbd64d1a9778057af4386562bff]: Textual amendment: S. 15(5) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 41(b)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41/b) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-37be165c9f5bb0755b0a2f5fb7f4f71f]: Textual amendment: S. 15(10) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 41(c)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41/c) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-37be165c9f5bb0755b0a2f5fb7f4f71f]: Textual amendment: S. 15(10) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 41(c)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/41/c) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

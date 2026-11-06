@@ -48,7 +48,7 @@ he does not, in doing so, incur any liability by reason only of the absence of, 
 
 A banker who gives value for, or has a lien on, a cheque payable to order which the holder delivers to him for collection without indorsing it, has such (if any) rights as he would have had if, upon delivery, the holder had indorsed it in blank.
 
-## 3. Unindorsed cheques as evidence of payment.[^key-7d530fc9ff6aeef3edf3856f95bdd996][^key-9f3e915dc607cdcca5f8f5527febca3a][^c613072]
+## 3. Unindorsed cheques as evidence of payment.[^c-7d530fc9ff6aeef3edf3856f95bdd996][^c-9f3e915dc607cdcca5f8f5527febca3a][^c613072]
 
 (1)[^c613073] An unindorsed cheque which appears to have been paid by the banker on whom it is drawn is evidence of the receipt by the payee of the sum payable by the cheque.
 
@@ -57,7 +57,7 @@ A banker who gives value for, or has a lien on, a cheque payable to order which 
 - (a) the copy is made by the banker in whose possession the cheque is after presentment and,
 - (b) it is certified by him to be a true copy of the original.
 
-## 4. Protection of bankers collecting payment of cheques, &c.[^c613085][^c613086][^key-f1c6bdc252e836d0ff7ca1125263516b][^key-b678ee6edf584ea80ae8a8df50d2df51][^c613084]
+## 4. Protection of bankers collecting payment of cheques, &c.[^c613085][^c613086][^c-f1c6bdc252e836d0ff7ca1125263516b][^c-b678ee6edf584ea80ae8a8df50d2df51][^c613084]
 
 (1) Where a banker, in good faith and without negligence,—
 
@@ -105,9 +105,9 @@ This Act extends to Northern Ireland, . . . [^c613090]
 
 [^c613068]: Commencement: Act wholly in force 17.10.1957, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/8/2)
 
-[^key-7d530fc9ff6aeef3edf3856f95bdd996]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/3) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
+[^c-7d530fc9ff6aeef3edf3856f95bdd996]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/3) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
 
-[^key-9f3e915dc607cdcca5f8f5527febca3a]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/3) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)
+[^c-9f3e915dc607cdcca5f8f5527febca3a]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/3) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)
 
 [^c613072]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/3) extended by [S.I. 1972/641](https://www.legislation.gov.uk/uksi/1972/641), [reg. 7(2)](https://www.legislation.gov.uk/uksi/1972/641/regulation/7/2), [1972](https://www.legislation.gov.uk/uksi/1972/641/regulation/1972)/764, reg. 21(5), 1972/765, reg. 8(2), 1976/2012, reg. 22(2), [S.I. 1984/779](https://www.legislation.gov.uk/uksi/1984/779), [reg. 7(2)](https://www.legislation.gov.uk/uksi/1984/779/regulation/7/2)
 
@@ -123,9 +123,9 @@ This Act extends to Northern Ireland, . . . [^c613090]
 
 [^c613086]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/4) extended by [S.I. 1984/779](https://www.legislation.gov.uk/uksi/1984/779), [reg. 7(2)](https://www.legislation.gov.uk/uksi/1984/779/regulation/7/2)
 
-[^key-f1c6bdc252e836d0ff7ca1125263516b]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/4) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)
+[^c-f1c6bdc252e836d0ff7ca1125263516b]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/4) applied (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [96](https://www.legislation.gov.uk/uksi/2015/624/regulation/96)
 
-[^key-b678ee6edf584ea80ae8a8df50d2df51]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/4) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
+[^c-b678ee6edf584ea80ae8a8df50d2df51]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/4) applied (with modifications) (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2015/623/regulation/58)
 
 [^c613084]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/36/section/4) extended by [S.I. 1972/641](https://www.legislation.gov.uk/uksi/1972/641), [reg. 7(2)](https://www.legislation.gov.uk/uksi/1972/641/regulation/7/2), [1972](https://www.legislation.gov.uk/uksi/1972/641/regulation/1972)/764, reg. 21(5), 1972/765, reg. 8(2) and 1976/2012, reg. 22(2)
 

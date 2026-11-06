@@ -25,12 +25,12 @@ summary: ''
 (2) That order is an order—
 
 - (a) declaring that the money attachment ceases to have effect; and
-- (b) requiring the officer of court[^key-4b6208a10692ae32e4fcc84ca324c821] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor or, as the case may be, the person whose money it is.
+- (b) requiring the officer of court[^c-4b6208a10692ae32e4fcc84ca324c821] to return the money attached or, where the value of any such money has been realised, a sum equivalent to that value, to the debtor or, as the case may be, the person whose money it is.
 
 (3) Where, at any time before a payment order is made or the money attachment ceases to have effect, the sheriff is satisfied that any money attached is not owned by the debtor—
 
 - (a) the sheriff must make an order such as is mentioned in subsection (2) above restricted to that money; and
-- (b) after the order is made, the officer of court[^key-24c0bdc4d9087b89f2fed7e797fdd6bd] may attach other money owned by the debtor and kept at the place at which the original money attachment was executed.
+- (b) after the order is made, the officer of court[^c-24c0bdc4d9087b89f2fed7e797fdd6bd] may attach other money owned by the debtor and kept at the place at which the original money attachment was executed.
 
 (4) An order under this section may be made—
 
@@ -43,7 +43,7 @@ summary: ''
 
 - (a) the debtor;
 - (b) the creditor;
-- (c) the officer of court[^key-f1922576509622f007ddf16fe7d7090c]; and
+- (c) the officer of court[^c-f1922576509622f007ddf16fe7d7090c]; and
 - (d) any other person the sheriff thinks has an interest.
 
 (6) The sheriff may not make an order under this section without first—
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4b6208a10692ae32e4fcc84ca324c821]: Textual amendment: Words in [s. 186(2)(b)](https://www.legislation.gov.uk/asp/2007/3/section/186/2/b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-4b6208a10692ae32e4fcc84ca324c821]: Textual amendment: Words in [s. 186(2)(b)](https://www.legislation.gov.uk/asp/2007/3/section/186/2/b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-24c0bdc4d9087b89f2fed7e797fdd6bd]: Textual amendment: Words in [s. 186(3)(b)](https://www.legislation.gov.uk/asp/2007/3/section/186/3/b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-24c0bdc4d9087b89f2fed7e797fdd6bd]: Textual amendment: Words in [s. 186(3)(b)](https://www.legislation.gov.uk/asp/2007/3/section/186/3/b) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
-[^key-f1922576509622f007ddf16fe7d7090c]: Textual amendment: Words in [s. 186(5)(c)](https://www.legislation.gov.uk/asp/2007/3/section/186/5/c) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-f1922576509622f007ddf16fe7d7090c]: Textual amendment: Words in [s. 186(5)(c)](https://www.legislation.gov.uk/asp/2007/3/section/186/5/c) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/24/2); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)

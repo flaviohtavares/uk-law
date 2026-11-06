@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**125.**[^key-b52ee1b7cbd5abad422098513b6cadfd] Omit section 46 (local authority plans for community care services).
+**125.**[^c-b52ee1b7cbd5abad422098513b6cadfd] Omit section 46 (local authority plans for community care services).
 
 ## Annotations
 
-[^key-b52ee1b7cbd5abad422098513b6cadfd]: Commencement: Reg. 125 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b52ee1b7cbd5abad422098513b6cadfd]: Commencement: Reg. 125 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Option proportion[^key-4fe9feae0177306a32380795a0fec167]
+## 66. Option proportion[^c-4fe9feae0177306a32380795a0fec167]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fe9feae0177306a32380795a0fec167]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2014/290/regulation/66) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-4fe9feae0177306a32380795a0fec167]: Commencement: [Reg. 66](https://www.legislation.gov.uk/nisr/2014/290/regulation/66) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

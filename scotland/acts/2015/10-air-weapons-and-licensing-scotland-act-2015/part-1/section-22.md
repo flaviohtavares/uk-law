@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Power to enter and inspect club premises[^key-71ca3201ce2086730186dda1a5170632]
+## 22. Power to enter and inspect club premises[^c-71ca3201ce2086730186dda1a5170632]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71ca3201ce2086730186dda1a5170632]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/10/section/22) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-71ca3201ce2086730186dda1a5170632]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/10/section/22) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))

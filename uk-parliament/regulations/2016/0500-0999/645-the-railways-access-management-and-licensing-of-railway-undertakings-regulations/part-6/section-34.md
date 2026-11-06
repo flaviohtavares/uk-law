@@ -46,12 +46,12 @@ summary: ''
 
 (8) The Office of Rail and Road must regularly, and in any case at least every two years, consult representatives of users of the rail freight and passenger transport services, to take into account their views on the rail services markets.
 
-(9)[^key-8c4d5388e0b50acef494d50711467010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8c4d5388e0b50acef494d50711467010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-8c4d5388e0b50acef494d50711467010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-8c4d5388e0b50acef494d50711467010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c23154371]: Marginal citation: [S. I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066); see the definition of “safety authority” in regulation 2. Amendments have been made to [S.I. 2011/3066](https://www.legislation.gov.uk/uksi/2011/3066) which are not relevant to these Regulations. The IGC is the safety authority for the Channel Tunnel.
 
-[^key-8c4d5388e0b50acef494d50711467010]: Textual amendment: [Reg. 34(9)](https://www.legislation.gov.uk/uksi/2016/645/regulation/34/9)[(10)](https://www.legislation.gov.uk/uksi/2016/645/regulation/34/10) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [18](https://www.legislation.gov.uk/uksi/2019/518/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c4d5388e0b50acef494d50711467010]: Textual amendment: [Reg. 34(9)](https://www.legislation.gov.uk/uksi/2016/645/regulation/34/9)[(10)](https://www.legislation.gov.uk/uksi/2016/645/regulation/34/10) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [18](https://www.legislation.gov.uk/uksi/2019/518/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

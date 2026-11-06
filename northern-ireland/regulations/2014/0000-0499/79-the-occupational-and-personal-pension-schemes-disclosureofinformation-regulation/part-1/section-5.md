@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Civil penalties relating to occupational pension schemes[^key-c39cd3b0e2a1efe8ff3e471cc8249b35]
+## 5. Civil penalties relating to occupational pension schemes[^c-c39cd3b0e2a1efe8ff3e471cc8249b35]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where in relation to an occupational pension scheme a person fails without reaso
 
 ## Annotations
 
-[^key-c39cd3b0e2a1efe8ff3e471cc8249b35]: Commencement: Reg. 5 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-c39cd3b0e2a1efe8ff3e471cc8249b35]: Commencement: Reg. 5 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

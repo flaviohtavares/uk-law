@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Duration and effect of banning order[^key-362e96906678bb84041dc4487da21028]
+## 17. Duration and effect of banning order[^c-362e96906678bb84041dc4487da21028]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-362e96906678bb84041dc4487da21028]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/22/section/17) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-362e96906678bb84041dc4487da21028]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/22/section/17) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

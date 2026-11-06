@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Meaning of “election expenses”[^key-83a0580475d459a1752e918c4d2cad16]
+## 65. Meaning of “election expenses”[^c-83a0580475d459a1752e918c4d2cad16]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a0580475d459a1752e918c4d2cad16]: Commencement: Art. 65 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-83a0580475d459a1752e918c4d2cad16]: Commencement: Art. 65 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

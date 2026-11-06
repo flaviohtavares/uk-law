@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1039. Disqualification orders: consequential amendments[^key-d13c86591a74bc51b3c55c1ee7288431]
+## 1039. Disqualification orders: consequential amendments[^c-d13c86591a74bc51b3c55c1ee7288431]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d13c86591a74bc51b3c55c1ee7288431]: Textual amendment: [S. 1039](https://www.legislation.gov.uk/ukpga/2006/46/section/1039) omitted (26.5.2015 for specified purposes, 1.10.2015 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2015/26/schedule/7/paragraph/25); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/g)
+[^c-d13c86591a74bc51b3c55c1ee7288431]: Textual amendment: [S. 1039](https://www.legislation.gov.uk/ukpga/2006/46/section/1039) omitted (26.5.2015 for specified purposes, 1.10.2015 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2015/26/schedule/7/paragraph/25); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/g)

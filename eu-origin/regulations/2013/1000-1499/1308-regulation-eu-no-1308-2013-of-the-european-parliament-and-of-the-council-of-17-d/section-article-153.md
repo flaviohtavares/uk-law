@@ -23,7 +23,7 @@ summary: ''
 1. The statutes of a producer organisation shall require its producer members, in particular, to:
 
 - (a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;
-- (b) be members of only one producer organisation for any given product of the holding; however nothing in this Regulation prevents the Secretary of State from providing that this condition does not apply[^key-7d08df35e8b6b0e31ca835d8ae2fed6e] in duly justified cases where producer members hold two distinct production units located in different geographical areas;
+- (b) be members of only one producer organisation for any given product of the holding; however nothing in this Regulation prevents the Secretary of State from providing that this condition does not apply[^c-7d08df35e8b6b0e31ca835d8ae2fed6e] in duly justified cases where producer members hold two distinct production units located in different geographical areas;
 - (c) provide the information requested by the producer organisation for statistical purposes.
 
 2. The statutes of a producer organisation shall also provide for:
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d08df35e8b6b0e31ca835d8ae2fed6e]: Textual amendment: Words in [Art. 153(1)(b)](https://www.legislation.gov.uk/eur/2013/1308/article/153/1/b) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/828/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d08df35e8b6b0e31ca835d8ae2fed6e]: Textual amendment: Words in [Art. 153(1)(b)](https://www.legislation.gov.uk/eur/2013/1308/article/153/1/b) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/828/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

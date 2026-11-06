@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47A. Director disqualification: licensing offences[^key-b93b880117283660e247c1d7d8384f6e]
+## 47A. Director disqualification: licensing offences[^c-b93b880117283660e247c1d7d8384f6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Annotations
 
-[^key-b93b880117283660e247c1d7d8384f6e]: Textual amendment: [Reg. 47A](https://www.legislation.gov.uk/uksi/2021/496/regulation/47A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(7)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/7)
+[^c-b93b880117283660e247c1d7d8384f6e]: Textual amendment: [Reg. 47A](https://www.legislation.gov.uk/uksi/2021/496/regulation/47A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(7)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/7)

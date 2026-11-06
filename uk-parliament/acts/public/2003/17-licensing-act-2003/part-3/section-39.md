@@ -27,7 +27,7 @@ summary: ''
 (3) Where a notice is given under section 37(5) (and not withdrawn), the authority must—
 
 - (a) hold a hearing to consider it, unless the authority, the applicant and the chief officer of police who gave the notice agree that a hearing is unnecessary, and
-- (b) having regard to the notice, reject the application if it considers it appropriate[^key-f71ef4301e7a7be53c8d5a2bdbc0f704] for the promotion of the crime prevention objective to do so.
+- (b) having regard to the notice, reject the application if it considers it appropriate[^c-f71ef4301e7a7be53c8d5a2bdbc0f704] for the promotion of the crime prevention objective to do so.
 
 (4) Where an application under section 37 is granted or rejected, the relevant licensing authority must give a notice to that effect to—
 
@@ -45,4 +45,4 @@ That time is the time specified in the application or, if that time is before th
 
 [^c21020911]: Commencement: S. 39 in force for certain purposes at 7.2.2005 and 7.8.2005 otherwise by [S.I. 2004/2360](https://www.legislation.gov.uk/uksi/2004/2360), [art. 2](https://www.legislation.gov.uk/uksi/2004/2360/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2360/schedule); [S.I. 2005/2090](https://www.legislation.gov.uk/uksi/2005/2090), [art. 2](https://www.legislation.gov.uk/uksi/2005/2090/article/2)
 
-[^key-f71ef4301e7a7be53c8d5a2bdbc0f704]: Textual amendment: Word in s. 39(3)(b) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/7), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-f71ef4301e7a7be53c8d5a2bdbc0f704]: Textual amendment: Word in s. 39(3)(b) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/7), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

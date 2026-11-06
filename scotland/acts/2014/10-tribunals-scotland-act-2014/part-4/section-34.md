@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Training and review[^key-e35b7aeacb9a6980899398632fb78d25]
+## 34. Training and review[^c-e35b7aeacb9a6980899398632fb78d25]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35b7aeacb9a6980899398632fb78d25]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/10/section/34) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e35b7aeacb9a6980899398632fb78d25]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2014/10/section/34) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

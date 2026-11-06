@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20A. Diagnostic tests[^key-637a4735fc083f43bf8886a69fc385dc]
+## 20A. Diagnostic tests[^c-637a4735fc083f43bf8886a69fc385dc]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-637a4735fc083f43bf8886a69fc385dc]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/uksi/2006/182/article/20A) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/3)
+[^c-637a4735fc083f43bf8886a69fc385dc]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/uksi/2006/182/article/20A) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1472/article/2/3)

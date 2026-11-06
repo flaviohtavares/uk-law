@@ -24,7 +24,7 @@ Section 145
 
 ### Computation of UK equivalent profits: creditor relationships
 
-**1.** (1)[^key-1e3367dc77aa2a95f6b7b31eaad6d105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.** (1)[^c-1e3367dc77aa2a95f6b7b31eaad6d105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Paragraph 3 of Schedule 10 to the Finance Act 1996 (c. 8) (assumptions to be made in relation to creditor relationships) shall cease to have effect.
 
@@ -46,12 +46,12 @@ Section 145
 
 (6) In this paragraph—
 
-- “**creditor relationship**” has the same meaning as in Part 5 of the Corporation Tax Act 2009[^key-79f9fbcae1f1976bee18ae80b7dca81f]; and
+- “**creditor relationship**” has the same meaning as in Part 5 of the Corporation Tax Act 2009[^c-79f9fbcae1f1976bee18ae80b7dca81f]; and
 - “**United Kingdom equivalent profits**” has the meaning given in paragraph 5 of Schedule 27 to the Taxes Act 1988.
 
 ### Computation of UK equivalent profits: derivative contracts
 
-**2.** (1)[^key-2b30f71ce658f15f5d452b4b1f448cc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.** (1)[^c-2b30f71ce658f15f5d452b4b1f448cc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Paragraph 35 of Schedule 26 to the Finance Act 2002 (c. 23) (assumptions to be made in relation to derivative contracts) shall cease to have effect.
 
@@ -73,7 +73,7 @@ Section 145
 
 (6) In this paragraph—
 
-- “**derivative contract**” has the same meaning as in Part 7 of the Corporation Tax Act 2009[^key-eb8f7d0847e1c266eede55ef94047ebd];
+- “**derivative contract**” has the same meaning as in Part 7 of the Corporation Tax Act 2009[^c-eb8f7d0847e1c266eede55ef94047ebd];
 - “**United Kingdom equivalent profits**” has the meaning given in paragraph 5 of Schedule 27 to the Taxes Act 1988.
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
@@ -145,31 +145,31 @@ Section 145
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**4.**[^key-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**5.**[^key-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**6.**[^key-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**7.**[^key-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**8.**[^key-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**9.**[^key-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3c079e6c8821e9d4f7c60d6d2f6239e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**10.**[^key-11a8846aa065f06e66b11865fbdc6b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-11a8846aa065f06e66b11865fbdc6b05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
@@ -180,23 +180,23 @@ Section 145
 
 ### Treatment of umbrella funds and funds comprising more than one class of interest
 
-**12.**[^key-02847f5c060e0f142194db95eee22401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-02847f5c060e0f142194db95eee22401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Investment conditions to be met by funds seeking certification as distributing fund
 
-**13.**[^key-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Investment conditions to be met by funds seeking certification as distributing fund
 
-**14.**[^key-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exchange of interests of different classes
 
-**15.**[^key-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Correction of cross-reference
 
-**16.**[^key-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b488640f3e939dbdd5981388c9cc0905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Transitional provision
 
@@ -220,18 +220,18 @@ may be certified as a distributing fund under Chapter 5 of Part 17 of that Act i
 
 ## Annotations
 
-[^key-1e3367dc77aa2a95f6b7b31eaad6d105]: Textual amendment: Sch. 26 para. 1(1) repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-1e3367dc77aa2a95f6b7b31eaad6d105]: Textual amendment: Sch. 26 para. 1(1) repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
 
-[^key-79f9fbcae1f1976bee18ae80b7dca81f]: Textual amendment: Words in Sch. 26 para. 1(6) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 581(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/581/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-79f9fbcae1f1976bee18ae80b7dca81f]: Textual amendment: Words in Sch. 26 para. 1(6) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 581(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/581/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-2b30f71ce658f15f5d452b4b1f448cc0]: Textual amendment: Sch. 26 para. 2(1) repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-2b30f71ce658f15f5d452b4b1f448cc0]: Textual amendment: Sch. 26 para. 2(1) repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
 
-[^key-eb8f7d0847e1c266eede55ef94047ebd]: Textual amendment: Words in Sch. 26 para. 2(6) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 581(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/581/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-eb8f7d0847e1c266eede55ef94047ebd]: Textual amendment: Words in Sch. 26 para. 2(6) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 581(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/581/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-3c079e6c8821e9d4f7c60d6d2f6239e6]: Textual amendment: Sch. 26 paras. 4-9 repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-3c079e6c8821e9d4f7c60d6d2f6239e6]: Textual amendment: Sch. 26 paras. 4-9 repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
 
-[^key-11a8846aa065f06e66b11865fbdc6b05]: Textual amendment: [Sch. 26 para. 10](https://www.legislation.gov.uk/ukpga/2004/12/schedule/26/paragraph/10) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-11a8846aa065f06e66b11865fbdc6b05]: Textual amendment: [Sch. 26 para. 10](https://www.legislation.gov.uk/ukpga/2004/12/schedule/26/paragraph/10) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-02847f5c060e0f142194db95eee22401]: Textual amendment: Sch. 26 para. 12 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-02847f5c060e0f142194db95eee22401]: Textual amendment: Sch. 26 para. 12 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b488640f3e939dbdd5981388c9cc0905]: Textual amendment: Sch. 26 paras. 13-16 repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-b488640f3e939dbdd5981388c9cc0905]: Textual amendment: Sch. 26 paras. 13-16 repealed (with effect in accordance with art. 1(2)(3), Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)

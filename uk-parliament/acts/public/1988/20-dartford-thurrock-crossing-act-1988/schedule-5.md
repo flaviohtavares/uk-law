@@ -51,13 +51,13 @@ Sections 8(2) and 14(6).
 
 #### Application of Employment Transfer Regulations
 
-**3.** (1) For the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-e9ee11ef314ae7bfa3c4eb2d128adb92] section 14 of this Act shall be treated (without prejudice to any effect it may have for those purposes apart from this sub-paragraph) as effecting on the termination of the appointment of the person appointed under section 11 of this Act to levy tolls a transfer to which those regulations apply of an undertaking in which all persons who immediately before termination were employees of that person were then employed.
+**3.** (1) For the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-e9ee11ef314ae7bfa3c4eb2d128adb92] section 14 of this Act shall be treated (without prejudice to any effect it may have for those purposes apart from this sub-paragraph) as effecting on the termination of the appointment of the person appointed under section 11 of this Act to levy tolls a transfer to which those regulations apply of an undertaking in which all persons who immediately before termination were employees of that person were then employed.
 
 (2) In their application in relation to any transfer of an undertaking effected, or treated by virtue of sub-paragraph (1) above as effected, by section 14 of this Act, those regulations shall be subject to paragraph 4 below.
 
 #### Preservation of pensions, etc.
 
-**4.** Regulation 10[^key-0b1277ad0c12b36c23708d078b69c262] of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-d7cb6c617bc822822f4e4a0fef0f8822] shall not apply—
+**4.** Regulation 10[^c-0b1277ad0c12b36c23708d078b69c262] of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-d7cb6c617bc822822f4e4a0fef0f8822] shall not apply—
 
 - (a) in relation to the contract of employment of any person employed in the undertaking; or
 - (b) in relation to any collective agreement in its application in relation to any person so employed.
@@ -73,22 +73,22 @@ Sections 8(2) and 14(6).
 
 **6.** (1) In this Schedule, “**the Employment Transfer Regulations**” means the [^c8138221]Transfer of Undertakings (Protection of Employment) Regulations 1981.
 
-(2) Expressions used in Part 1 of this Schedule[^key-e700413f990b9a09893bde60e2a1a5fc] to which a meaning is given by those regulations have the same meaning in Part 1 of this Schedule.
+(2) Expressions used in Part 1 of this Schedule[^c-e700413f990b9a09893bde60e2a1a5fc] to which a meaning is given by those regulations have the same meaning in Part 1 of this Schedule.
 
-(3)[^key-a149a718ce5071829cd5d523600a2e38] Expressions used in Part 2 of this Schedule to which a meaning is given by the Transfer of Undertakings (Protection of Employment) Regulations 2006 have the same meaning in Part 2 of this Schedule.
+(3)[^c-a149a718ce5071829cd5d523600a2e38] Expressions used in Part 2 of this Schedule to which a meaning is given by the Transfer of Undertakings (Protection of Employment) Regulations 2006 have the same meaning in Part 2 of this Schedule.
 
 ## Annotations
 
 [^c8138211]: Textual amendment: [Sch. 5 Pt. I para. 2(2)](https://www.legislation.gov.uk/ukpga/1988/20/schedule/5/part/I/paragraph/2/2) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3), [Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-e9ee11ef314ae7bfa3c4eb2d128adb92]: Textual amendment: Words in Sch. 5 para. 3(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/2)
+[^c-e9ee11ef314ae7bfa3c4eb2d128adb92]: Textual amendment: Words in Sch. 5 para. 3(1) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/2)
 
-[^key-0b1277ad0c12b36c23708d078b69c262]: Textual amendment: Words in Sch. 5 para. 4 substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/3)
+[^c-0b1277ad0c12b36c23708d078b69c262]: Textual amendment: Words in Sch. 5 para. 4 substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/3)
 
-[^key-d7cb6c617bc822822f4e4a0fef0f8822]: Textual amendment: Words in Sch. 5 para. 4 substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/2)
+[^c-d7cb6c617bc822822f4e4a0fef0f8822]: Textual amendment: Words in Sch. 5 para. 4 substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/2)
 
 [^c8138221]: Marginal citation: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794).
 
-[^key-e700413f990b9a09893bde60e2a1a5fc]: Textual amendment: Words in Sch. 5 para. 6(2) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(4)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/4/a)
+[^c-e700413f990b9a09893bde60e2a1a5fc]: Textual amendment: Words in Sch. 5 para. 6(2) substituted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(4)(a)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/4/a)
 
-[^key-a149a718ce5071829cd5d523600a2e38]: Textual amendment: Sch. 5 para. 6(3) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(4)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/4/b)
+[^c-a149a718ce5071829cd5d523600a2e38]: Textual amendment: Sch. 5 para. 6(3) inserted (with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [Sch. 2 para. 5(4)(b)](https://www.legislation.gov.uk/uksi/2006/246/schedule/2/paragraph/5/4/b)

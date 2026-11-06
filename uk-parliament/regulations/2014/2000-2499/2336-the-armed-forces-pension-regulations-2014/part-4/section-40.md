@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Account to specify amount of retirement pension[^key-d79afa0b1d6d2de6dfb6a6ef1a5c7b2c]
+## 40. Account to specify amount of retirement pension[^c-d79afa0b1d6d2de6dfb6a6ef1a5c7b2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d79afa0b1d6d2de6dfb6a6ef1a5c7b2c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/2336/regulation/40) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-d79afa0b1d6d2de6dfb6a6ef1a5c7b2c]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/2336/regulation/40) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

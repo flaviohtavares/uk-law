@@ -32,7 +32,7 @@ summary: ''
 - (a) in the case of a complaint relating to a deduction by the employer, the date of payment of the wages from which the deduction was made, or
 - (b) in the case of a complaint relating to a payment received by the employer, the date when the payment was received.
 
-(2A)[^key-0533cf3bb13054dbe2f4fa8e431ea4a6] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-0533cf3bb13054dbe2f4fa8e431ea4a6] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where a complaint is brought under this Article in respect of — —
 
@@ -47,6 +47,6 @@ the references in paragraph (2) to the deduction or payment are to the last dedu
 
 ## Annotations
 
-[^key-0533cf3bb13054dbe2f4fa8e431ea4a6]: Textual amendment: [Art. 55(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/55/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/14); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-0533cf3bb13054dbe2f4fa8e431ea4a6]: Textual amendment: [Art. 55(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/55/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/14); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
 [^c17621411]: Textual amendment: [1998 NI 8](https://www.legislation.gov.uk/nisi/1998)

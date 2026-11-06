@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Protection from actions of defamation[^key-a1749f245330e47968e7126a12600f5b]
+## 22. Protection from actions of defamation[^c-a1749f245330e47968e7126a12600f5b]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1749f245330e47968e7126a12600f5b]: Commencement: S. 22 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a1749f245330e47968e7126a12600f5b]: Commencement: S. 22 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

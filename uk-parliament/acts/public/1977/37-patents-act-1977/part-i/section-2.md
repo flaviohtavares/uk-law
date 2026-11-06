@@ -39,8 +39,8 @@ summary: ''
 
 (5) In this section references to the inventor include references to any proprietor of the invention for the time being.
 
-(6)[^key-8858de31e5af502c9f9711f0c9534e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8858de31e5af502c9f9711f0c9534e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8858de31e5af502c9f9711f0c9534e74]: Textual amendment: S. 2(6) repealed (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(i)(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/i/l)
+[^c-8858de31e5af502c9f9711f0c9534e74]: Textual amendment: S. 2(6) repealed (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/16/schedule/3); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(i)(l)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/i/l)

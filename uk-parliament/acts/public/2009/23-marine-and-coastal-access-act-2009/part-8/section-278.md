@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Forfeiture by court following conviction[^key-c2aadbcd78c89ba80af682a7af2989bb]
+## 278. Forfeiture by court following conviction[^c-c2aadbcd78c89ba80af682a7af2989bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,24 +32,24 @@ summary: ''
 
 (6) In this section—
 
-- “[^key-d0450992b192fba7e88b029e2182a6fa]**assimilated restriction**” means a restriction that—
+- “[^c-d0450992b192fba7e88b029e2182a6fa]**assimilated restriction**” means a restriction that—
   - (a) was created or arose by or under the EU Treaties before IP completion day, and
   - (b) forms part of assimilated law,
 
   as modified from time to time;
 - “**the fisheries legislation**” means—
   - (a) any enactments relating to sea fishing (including any enactment relating to fishing for shellfish, salmon or migratory trout);
-  - (b) any assimilated[^key-d04eae6204f8836031b938dc16f61d31][^key-d006faae59390a5c4f84f147f7aa1aa0] restriction or assimilated obligation relating to sea fishing;
-- [^key-a560076d55b773bfdfa1ca425d8c24aa]...
+  - (b) any assimilated[^c-d04eae6204f8836031b938dc16f61d31][^c-d006faae59390a5c4f84f147f7aa1aa0] restriction or assimilated obligation relating to sea fishing;
+- [^c-a560076d55b773bfdfa1ca425d8c24aa]...
 
 ## Annotations
 
-[^key-c2aadbcd78c89ba80af682a7af2989bb]: Commencement: S. 278 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-c2aadbcd78c89ba80af682a7af2989bb]: Commencement: S. 278 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
 
-[^key-d0450992b192fba7e88b029e2182a6fa]: Textual amendment: Words in s. 278(6) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(4)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/4/a)
+[^c-d0450992b192fba7e88b029e2182a6fa]: Textual amendment: Words in s. 278(6) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(4)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/4/a)
 
-[^key-d04eae6204f8836031b938dc16f61d31]: Textual amendment: Word in s. 278(6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(4)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/4/b)
+[^c-d04eae6204f8836031b938dc16f61d31]: Textual amendment: Word in s. 278(6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(4)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/4/b)
 
-[^key-d006faae59390a5c4f84f147f7aa1aa0]: Textual amendment: Words in s. 278(6) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d006faae59390a5c4f84f147f7aa1aa0]: Textual amendment: Words in s. 278(6) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a560076d55b773bfdfa1ca425d8c24aa]: Textual amendment: Words in s. 278(6) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(4)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/4/c)
+[^c-a560076d55b773bfdfa1ca425d8c24aa]: Textual amendment: Words in s. 278(6) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(4)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/4/c)

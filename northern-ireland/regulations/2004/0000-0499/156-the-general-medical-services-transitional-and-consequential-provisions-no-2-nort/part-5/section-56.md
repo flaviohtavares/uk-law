@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Allocation of medical practitioners on previous lists[^key-e2045e983274701ae69ce9c5fcf94196]
+## 56. Allocation of medical practitioners on previous lists[^c-e2045e983274701ae69ce9c5fcf94196]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In the case of a medical practitioner, whose name, immediately before 1st April 
 
 ## Annotations
 
-[^key-e2045e983274701ae69ce9c5fcf94196]: Commencement: Art. 56 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-e2045e983274701ae69ce9c5fcf94196]: Commencement: Art. 56 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

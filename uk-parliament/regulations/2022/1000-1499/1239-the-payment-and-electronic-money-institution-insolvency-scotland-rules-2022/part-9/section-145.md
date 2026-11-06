@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Application to court by creditor[^key-73f240fc46e2d03e85d565cc370ec60b]
+## 145. Application to court by creditor[^c-73f240fc46e2d03e85d565cc370ec60b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73f240fc46e2d03e85d565cc370ec60b]: Commencement: Rule 145 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-73f240fc46e2d03e85d565cc370ec60b]: Commencement: Rule 145 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

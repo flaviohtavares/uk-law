@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Works of co-authorship[^key-dd4372434f8ad72f76962e9b8ef2143a]
+## 10A. Works of co-authorship[^c-dd4372434f8ad72f76962e9b8ef2143a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd4372434f8ad72f76962e9b8ef2143a]: Textual amendment: S. 10A inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1782/regulation/4) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
+[^c-dd4372434f8ad72f76962e9b8ef2143a]: Textual amendment: S. 10A inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1782/regulation/4) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))

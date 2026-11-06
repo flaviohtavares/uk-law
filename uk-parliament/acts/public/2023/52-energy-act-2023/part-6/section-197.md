@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. GEMA’s annual report to cover matters relating to designated documents[^key-4a43e58f75411d4c39cbf4efbbd5d64b][^key-ce0f5b1114027700c2387743723ec916]
+## 197. GEMA’s annual report to cover matters relating to designated documents[^c-4a43e58f75411d4c39cbf4efbbd5d64b][^c-ce0f5b1114027700c2387743723ec916]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a43e58f75411d4c39cbf4efbbd5d64b]: Commencement: S. 197 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-4a43e58f75411d4c39cbf4efbbd5d64b]: Commencement: S. 197 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-ce0f5b1114027700c2387743723ec916]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2023/52/section/197) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vii)
+[^c-ce0f5b1114027700c2387743723ec916]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2023/52/section/197) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vii)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vii)

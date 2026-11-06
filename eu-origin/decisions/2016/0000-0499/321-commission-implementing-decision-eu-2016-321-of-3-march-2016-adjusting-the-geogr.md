@@ -81,15 +81,15 @@ All relevant information on the authorisation of MON 810 maize should be entered
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** The cultivation of genetically modified maize (*Zea mays* L.) MON 810 shall be prohibited in Wales, Scotland and Northern Ireland[^key-3714059a8a17c2ef9764fadbb0ad0b2a].
+**Article 1.** The cultivation of genetically modified maize (*Zea mays* L.) MON 810 shall be prohibited in Wales, Scotland and Northern Ireland[^c-3714059a8a17c2ef9764fadbb0ad0b2a].
 
-**Article 2.**[^key-d95a0d62b4c880abb7a20cd188e31c05] The information set out in this Decision must be entered—
+**Article 2.**[^c-d95a0d62b4c880abb7a20cd188e31c05] The information set out in this Decision must be entered—
 
 - (a) in Wales, in the register maintained under the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002;
 - (b) in Scotland, in the register maintained under the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002;
 - (c) in Northern Ireland, in the register maintained under the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003.
 
-**Article 3.**[^key-e37aed4081f9c022a193c55ec4a6b487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e37aed4081f9c022a193c55ec4a6b487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 3 March 2016.
 
@@ -99,7 +99,7 @@ Vytenis Andriukaitis
 
 *Member of the Commission*
 
-## ANNEX — TERRITORIES WHERE THE CULTIVATION OF MON 810 MAIZE IS PROHIBITED[^key-0b807da368c95d0389ee0cee960c96b8]
+## ANNEX — TERRITORIES WHERE THE CULTIVATION OF MON 810 MAIZE IS PROHIBITED[^c-0b807da368c95d0389ee0cee960c96b8]
 
 **No longer in force.**
 
@@ -117,10 +117,10 @@ Vytenis Andriukaitis
 
 [^f00005]: Footnote: Directive (EU) 2015/412 of the European Parliament and of the Council of 11 March 2015 amending Directive 2001/18/EC as regards the possibility for the Member states to restrict or prohibit the cultivation of genetically modified organisms (GMOs) in their territory ([OJ L 68, 13.3.2015, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.068.01.0001.01.ENG)).
 
-[^key-3714059a8a17c2ef9764fadbb0ad0b2a]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2016/321/article/1) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(2)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3714059a8a17c2ef9764fadbb0ad0b2a]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2016/321/article/1) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(2)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d95a0d62b4c880abb7a20cd188e31c05]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/321/article/2) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(3)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d95a0d62b4c880abb7a20cd188e31c05]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/321/article/2) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(3)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e37aed4081f9c022a193c55ec4a6b487]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2016/321/article/3) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(4)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e37aed4081f9c022a193c55ec4a6b487]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2016/321/article/3) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(4)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b807da368c95d0389ee0cee960c96b8]: Textual amendment: [Annex](https://www.legislation.gov.uk/eudn/2016/321/annex) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(5)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b807da368c95d0389ee0cee960c96b8]: Textual amendment: [Annex](https://www.legislation.gov.uk/eudn/2016/321/annex) omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [12(5)](https://www.legislation.gov.uk/uksi/2019/90/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

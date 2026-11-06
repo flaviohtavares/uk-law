@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 220. Provisions relating to service of documents.[^c18742681][^key-322a61045484a18f3ea9a691503fa2ad]
+## 220. Provisions relating to service of documents.[^c18742681][^c-322a61045484a18f3ea9a691503fa2ad]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ that document may be served either by leaving it in the hands of a person who is
 
 [^c18742681]: Modification: S. 220 applied (21.7.1994) by [1994 c. xiii](https://www.legislation.gov.uk/ukla/1994/13), [s. 29(4)](https://www.legislation.gov.uk/ukla/1994/13/section/29/4)
 
-[^key-322a61045484a18f3ea9a691503fa2ad]: Modification: S. 220 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
+[^c-322a61045484a18f3ea9a691503fa2ad]: Modification: S. 220 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
 
 [^c18742691]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

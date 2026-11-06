@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make new provision in relation to prostitut
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 28th February 2007 and received Royal Assent on 5th April 2007
 
-## 1. Offences relating to prostitution[^key-ac5696e2cc22b7cafb86dbd404645a7e]
+## 1. Offences relating to prostitution[^c-ac5696e2cc22b7cafb86dbd404645a7e]
 
 (1) A person (“A”) who, for the purpose of obtaining the services of a person engaged in prostitution, solicits in a relevant place commits an offence.
 
@@ -63,7 +63,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   and in subsection (1) includes a place which is visible from a place mentioned in paragraph (a) or (b).
 
-## 2. Arrest for offences under section 1[^key-dbc843af62bb99a6864ef4177ea7746f]
+## 2. Arrest for offences under section 1[^c-dbc843af62bb99a6864ef4177ea7746f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,6 +77,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-ac5696e2cc22b7cafb86dbd404645a7e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/11/section/1) in force at 15.10.2007 by [S.S.I. 2007/382](https://www.legislation.gov.uk/ssi/2007/382), [art. 2](https://www.legislation.gov.uk/ssi/2007/382/article/2)
+[^c-ac5696e2cc22b7cafb86dbd404645a7e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/11/section/1) in force at 15.10.2007 by [S.S.I. 2007/382](https://www.legislation.gov.uk/ssi/2007/382), [art. 2](https://www.legislation.gov.uk/ssi/2007/382/article/2)
 
-[^key-dbc843af62bb99a6864ef4177ea7746f]: Textual amendment: S. 2 repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/21); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-dbc843af62bb99a6864ef4177ea7746f]: Textual amendment: S. 2 repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/21); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

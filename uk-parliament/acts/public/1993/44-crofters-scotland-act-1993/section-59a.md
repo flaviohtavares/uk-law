@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59A. Equal opportunities[^key-07745d21bff4372637f12bf0d526168d]
+## 59A. Equal opportunities[^c-07745d21bff4372637f12bf0d526168d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07745d21bff4372637f12bf0d526168d]: Textual amendment: S. 59A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 2](https://www.legislation.gov.uk/asp/2007/7/section/2), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-07745d21bff4372637f12bf0d526168d]: Textual amendment: S. 59A inserted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [ss. 2](https://www.legislation.gov.uk/asp/2007/7/section/2), [43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)

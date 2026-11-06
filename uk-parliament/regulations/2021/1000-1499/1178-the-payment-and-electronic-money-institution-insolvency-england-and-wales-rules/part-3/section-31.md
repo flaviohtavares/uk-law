@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Adjournment of meeting to approve the statement of proposals[^key-61c93054745681cf2380c9c5b4718785]
+## 31. Adjournment of meeting to approve the statement of proposals[^c-61c93054745681cf2380c9c5b4718785]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61c93054745681cf2380c9c5b4718785]: Commencement: Rule 31 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-61c93054745681cf2380c9c5b4718785]: Commencement: Rule 31 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Effect of company’s insolvency[^key-68a977d38c293275672c08cb8660d5f2]
+## 27. Effect of company’s insolvency[^c-68a977d38c293275672c08cb8660d5f2]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68a977d38c293275672c08cb8660d5f2]: Commencement: S. 27 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-68a977d38c293275672c08cb8660d5f2]: Commencement: S. 27 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

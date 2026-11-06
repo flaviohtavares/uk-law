@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Time[^key-ec8f553d63351f56be8e9f553f7515ea]
+## 5. Time[^c-ec8f553d63351f56be8e9f553f7515ea]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the time specified by these Rules, a practice direction or an order for doing any act ends on a day other than a working day, the act is done in time if it is done before midnight on the next working day.
 
-(3) Where any act is required to be, or may be, done within or no later than[^key-551113d30125cf1c8d59fa624475a8c3] a certain number of days of or from an event, the date of that event must not be included in the calculation. (For example, a response must be received within 28 days of the date on which the respondent was sent a copy of the claim: if the copy of the claim was sent on 1st October the latest date for receipt of the response by the Tribunal is 29th October).
+(3) Where any act is required to be, or may be, done within or no later than[^c-551113d30125cf1c8d59fa624475a8c3] a certain number of days of or from an event, the date of that event must not be included in the calculation. (For example, a response must be received within 28 days of the date on which the respondent was sent a copy of the claim: if the copy of the claim was sent on 1st October the latest date for receipt of the response by the Tribunal is 29th October).
 
 (4) Where any act is required to be, or may be, done not less than a certain number of days before or after an event, the date of that event must not be included in the calculation. (For example, if a party wishes to send representations in writing for consideration by the Tribunal at a hearing, the representations must be received not less than 7 days before the hearing: if the hearing is fixed for 8th October, the representations must be received by the Tribunal no later than 1st October).
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ec8f553d63351f56be8e9f553f7515ea]: Commencement: Rule 5 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-ec8f553d63351f56be8e9f553f7515ea]: Commencement: Rule 5 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-551113d30125cf1c8d59fa624475a8c3]: Textual amendment: Words in rule 5(3) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/4)
+[^c-551113d30125cf1c8d59fa624475a8c3]: Textual amendment: Words in rule 5(3) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/4)
 
 [^f00027]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80), to which there are amendments not relevant to this instrument.

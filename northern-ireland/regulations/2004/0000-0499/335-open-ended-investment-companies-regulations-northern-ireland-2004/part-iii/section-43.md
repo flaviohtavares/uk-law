@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Events affecting company status[^key-bc1dd6d3bff9731e397b2fd5cedac3cf]
+## 43. Events affecting company status[^c-bc1dd6d3bff9731e397b2fd5cedac3cf]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc1dd6d3bff9731e397b2fd5cedac3cf]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2004/335/regulation/43) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-bc1dd6d3bff9731e397b2fd5cedac3cf]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2004/335/regulation/43) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

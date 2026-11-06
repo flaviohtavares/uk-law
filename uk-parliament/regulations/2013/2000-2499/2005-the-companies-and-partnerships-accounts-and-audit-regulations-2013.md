@@ -36,7 +36,7 @@ Partnership
 
 Limited Liability Partnerships
 
-The Companies and Partnerships (Accounts and Audit) Regulations 2013 (revoked)[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+The Companies and Partnerships (Accounts and Audit) Regulations 2013 (revoked)[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 Made
 
@@ -44,44 +44,44 @@ Made
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-67f0c9239d7144f6461aa61eaa45bfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67f0c9239d7144f6461aa61eaa45bfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 1. Citation, commencement, application and interpretation[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2006 Act[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 2. Amendments to the 2006 Act[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the 2008 LLP Regulations (which apply provisions of the Companies Act 2006 to LLPs, with modifications)[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 3. Amendments to the 2008 LLP Regulations (which apply provisions of the Companies Act 2006 to LLPs, with modifications)[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Partnerships (Accounts) Regulations 2008[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 4. Amendments to the Partnerships (Accounts) Regulations 2008[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Small Companies and Groups (Accounts and Directors’ Report) Regulations 2008[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 5. Amendments to the Small Companies and Groups (Accounts and Directors’ Report) Regulations 2008[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 6. Amendments to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-67f0c9239d7144f6461aa61eaa45bfbd]
+## 7. Revocation[^c-67f0c9239d7144f6461aa61eaa45bfbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67f0c9239d7144f6461aa61eaa45bfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67f0c9239d7144f6461aa61eaa45bfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-67f0c9239d7144f6461aa61eaa45bfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67f0c9239d7144f6461aa61eaa45bfbd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67f0c9239d7144f6461aa61eaa45bfbd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2005) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-67f0c9239d7144f6461aa61eaa45bfbd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2005) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

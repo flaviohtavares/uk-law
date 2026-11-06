@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Capital buffer: investment[^key-c80b1f6b0baa554b6e617771a7b53e39]
+## 75. Capital buffer: investment[^c-c80b1f6b0baa554b6e617771a7b53e39]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c80b1f6b0baa554b6e617771a7b53e39]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-c80b1f6b0baa554b6e617771a7b53e39]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 33(3) of the Environmental Protection Act 1990[^f00001], (having in particular had regard in exercising that power to the matters speciifed in section 33(4) of that Act) and of all other powers enabling him in that behalf hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-fce087bd9a893ec8dae9a140eb27bbf4]
+## 1. Citation and commencement[^c-fce087bd9a893ec8dae9a140eb27bbf4]
 
 These Regulations may be cited as the Waste Management Licensing (Amendment) Regulations 1996 and shall come into force on 14th May 1996.
 
-## 2. Amendment of the Waste Management Licensing Regulations 1994[^key-d0bb6f1e155088e99ddc2c56a77a0814]
+## 2. Amendment of the Waste Management Licensing Regulations 1994[^c-d0bb6f1e155088e99ddc2c56a77a0814]
 
 (1) In paragraph 17 of Schedule 3 to the Waste Management Licensing Regulations 1994[^f00002], there shall be added:
 
@@ -82,8 +82,8 @@ A compliance cost assessment in respect of these Regulations may be obtained fro
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-fce087bd9a893ec8dae9a140eb27bbf4]: Commencement: Reg. 1 in force at 14.5.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1279/regulation/1)
+[^c-fce087bd9a893ec8dae9a140eb27bbf4]: Commencement: Reg. 1 in force at 14.5.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1279/regulation/1)
 
-[^key-d0bb6f1e155088e99ddc2c56a77a0814]: Commencement: Reg. 2 in force at 14.5.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1279/regulation/1)
+[^c-d0bb6f1e155088e99ddc2c56a77a0814]: Commencement: Reg. 2 in force at 14.5.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1996/1279/regulation/1)
 
 [^f00002]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056), to which there are amendments not relevant to these Regulations.

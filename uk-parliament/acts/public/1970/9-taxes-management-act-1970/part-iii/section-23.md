@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to obtain copies of registers of securities.[^key-0829a6caf31bcacd3a9aec5f90579c3d]
+## 23. Power to obtain copies of registers of securities.[^c-0829a6caf31bcacd3a9aec5f90579c3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0829a6caf31bcacd3a9aec5f90579c3d]: Textual amendment: S. 23 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(l)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/l), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-0829a6caf31bcacd3a9aec5f90579c3d]: Textual amendment: S. 23 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(l)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/l), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

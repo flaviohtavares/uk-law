@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.8. Hearings and decisions[^key-df31729bcb80898d843240a0003e8fb2]
+## 34.8. Hearings and decisions[^c-df31729bcb80898d843240a0003e8fb2]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ anyone other than the prosecutor who applied for that ruling, unless the court o
 
 ## Annotations
 
-[^key-df31729bcb80898d843240a0003e8fb2]: Commencement: [Rule 34.8](https://www.legislation.gov.uk/uksi/2025/909/rule/34.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-df31729bcb80898d843240a0003e8fb2]: Commencement: [Rule 34.8](https://www.legislation.gov.uk/uksi/2025/909/rule/34.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

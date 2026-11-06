@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Independent review: further provision[^key-6c9583d7aa02abd10f23f706e76e7627][^key-eb399167522cd2af6e219a201c48e215]
+## 66. Independent review: further provision[^c-6c9583d7aa02abd10f23f706e76e7627][^c-eb399167522cd2af6e219a201c48e215]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c9583d7aa02abd10f23f706e76e7627]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-6c9583d7aa02abd10f23f706e76e7627]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-eb399167522cd2af6e219a201c48e215]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2025/28/section/66) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-eb399167522cd2af6e219a201c48e215]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2025/28/section/66) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

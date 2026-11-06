@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Sections 28 to 31 etc: supplementary[^key-8611d58c8cf5613c00f6ae70638ebd2d]
+## 32. Sections 28 to 31 etc: supplementary[^c-8611d58c8cf5613c00f6ae70638ebd2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8611d58c8cf5613c00f6ae70638ebd2d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2015/26/section/32) in force at 1.7.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 5](https://www.legislation.gov.uk/uksi/2015/1329/regulation/5)
+[^c-8611d58c8cf5613c00f6ae70638ebd2d]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2015/26/section/32) in force at 1.7.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 5](https://www.legislation.gov.uk/uksi/2015/1329/regulation/5)

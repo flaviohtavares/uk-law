@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Associated bodies[^key-7c23c1aa9cad28af83ddc90c76c20657]
+## 9. Associated bodies[^c-7c23c1aa9cad28af83ddc90c76c20657]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c23c1aa9cad28af83ddc90c76c20657]: Textual amendment: Reg. 9 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2008/1144/regulation/3)
+[^c-7c23c1aa9cad28af83ddc90c76c20657]: Textual amendment: Reg. 9 omitted (29.6.2008 with effect in relation to financial years beginning on or after that date) by virtue of [The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1144)](https://www.legislation.gov.uk/uksi/2008/1144), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1144/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2008/1144/regulation/3)

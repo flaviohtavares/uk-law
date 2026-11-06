@@ -48,11 +48,11 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 42(1)(b) of the Customs and Excise Management Act 1979[^f00001].
 
-## 1. Citation and commencement[^key-d7202fde1f94743a8a002205b476b8f3]
+## 1. Citation and commencement[^c-d7202fde1f94743a8a002205b476b8f3]
 
 These Regulations may be cited as the Customs Importation (Miscellaneous Provisions and Amendment) (EU Exit) Regulations 2021 and come into force on 1st January 2022.
 
-## 2. Removal of goods imported through the Channel Tunnel[^key-42e68514a6ba819f51056c61b2e9c377]
+## 2. Removal of goods imported through the Channel Tunnel[^c-42e68514a6ba819f51056c61b2e9c377]
 
 (1) This regulation applies where goods are subject to regulation 131(2) (chargeable goods carried by RoRo vehicles destined for RoRo listed locations: making of declarations) of the Customs (Import Duty) (EU Exit) Regulations 2018[^f00002].
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Customs Importation (Miscellaneous Provisi
 - “**Free-circulation procedure**” has the meaning as given by section 3(3)(a) of the Taxation (Cross-border Trade) Act 2018[^f00003];
 - “**the Tunnel system**” has the meaning given by section 1(7) of the Channel Tunnel Act 1987[^f00004].
 
-## 3. Amendment to the Ship’s Report, Importation and Exportation by Sea Regulations 1981[^key-8b6e9eb1d5bcf92451d5401de4ea7fe5]
+## 3. Amendment to the Ship’s Report, Importation and Exportation by Sea Regulations 1981[^c-8b6e9eb1d5bcf92451d5401de4ea7fe5]
 
 (1) The Ship’s Report, Importation and Exportation by Sea Regulations 1981[^f00005] are amended as follows.
 
@@ -89,7 +89,7 @@ These Regulations may be cited as the Customs Importation (Miscellaneous Provisi
 >
 > (1) Paragraph (2) applies where goods are subject to regulation 131(2) (chargeable goods carried by RoRo vehicles destined for RoRo listed locations: making of declarations) or 131F(3) (chargeable goods carried by relevant vehicles destined of other listed locations: making of declarations) of the Customs (Import Duty) (EU Exit) Regulations 2018.
 >
-> (2) Relevant goods[^key-5ae0dc17ca5a5a68a0533adcd9f1a8f6] imported by sea must not be removed from an approved wharf unless—
+> (2) Relevant goods[^c-5ae0dc17ca5a5a68a0533adcd9f1a8f6] imported by sea must not be removed from an approved wharf unless—
 >
 > - (a) the goods have been discharged from the free-circulation procedure; or
 > - (b) the movement is approved by an HMRC officer.
@@ -101,7 +101,7 @@ These Regulations may be cited as the Customs Importation (Miscellaneous Provisi
 > - (a) be taken directly from the approved wharf to an HMRC inland border facility; and
 > - (b) arrive at the HMRC inland border facility in the same condition as the goods were at the time of importation.
 >
-> (5)[^key-000f0b2b5744a577aee89b831ee64235] In this regulation—
+> (5)[^c-000f0b2b5744a577aee89b831ee64235] In this regulation—
 >
 > - “**HMRC inland border facility**” means a place used by HMRC to exercise search and examination powers under the Customs and Excise Management Act 1979;
 > - “**Relevant goods**” means any goods other than goods which were Union goods—
@@ -135,9 +135,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 42 was amended by paragraph 36 of Schedule 7 to the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22). There are other amending instruments, but none are relevant.
 
-[^key-d7202fde1f94743a8a002205b476b8f3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1)
+[^c-d7202fde1f94743a8a002205b476b8f3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1)
 
-[^key-42e68514a6ba819f51056c61b2e9c377]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1312/regulation/2) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1)
+[^c-42e68514a6ba819f51056c61b2e9c377]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1312/regulation/2) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248). Relevant amending instruments are [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), and [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346).
 
@@ -145,10 +145,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-8b6e9eb1d5bcf92451d5401de4ea7fe5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1312/regulation/3) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1)
+[^c-8b6e9eb1d5bcf92451d5401de4ea7fe5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1312/regulation/3) in force at 1.1.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1312/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1981/1260](https://www.legislation.gov.uk/uksi/1981/1260). Relevant amending instruments are [S.I. 2018/1247](https://www.legislation.gov.uk/uksi/2018/1247), [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), and [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
-[^key-5ae0dc17ca5a5a68a0533adcd9f1a8f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/1312/regulation/3/3) substituted (31.12.2021) by [The Customs Importation (Miscellaneous Provisions and Amendment) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/1442)](https://www.legislation.gov.uk/uksi/2021/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1442/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1442/regulation/2/2/a)
+[^c-5ae0dc17ca5a5a68a0533adcd9f1a8f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/1312/regulation/3/3) substituted (31.12.2021) by [The Customs Importation (Miscellaneous Provisions and Amendment) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/1442)](https://www.legislation.gov.uk/uksi/2021/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1442/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1442/regulation/2/2/a)
 
-[^key-000f0b2b5744a577aee89b831ee64235]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/1312/regulation/3/3) substituted (31.12.2021) by [The Customs Importation (Miscellaneous Provisions and Amendment) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/1442)](https://www.legislation.gov.uk/uksi/2021/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1442/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1442/regulation/2/2/b)
+[^c-000f0b2b5744a577aee89b831ee64235]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2021/1312/regulation/3/3) substituted (31.12.2021) by [The Customs Importation (Miscellaneous Provisions and Amendment) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/1442)](https://www.legislation.gov.uk/uksi/2021/1442), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1442/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1442/regulation/2/2/b)

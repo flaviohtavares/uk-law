@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186A. Charges in respect of public health functions[^key-093964989310e3da9492ea269a82ed2b]
+## 186A. Charges in respect of public health functions[^c-093964989310e3da9492ea269a82ed2b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-093964989310e3da9492ea269a82ed2b]: Textual amendment: [S. 186A](https://www.legislation.gov.uk/ukpga/2006/41/section/186A) inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/50/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-093964989310e3da9492ea269a82ed2b]: Textual amendment: [S. 186A](https://www.legislation.gov.uk/ukpga/2006/41/section/186A) inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/50/1), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Protective work to buildings[^key-2fdf7f9ed1cdbde1d89a54125af1e05e]
+## 20. Protective work to buildings[^c-2fdf7f9ed1cdbde1d89a54125af1e05e]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 the undertaker must, except in the case of emergency, serve on the owners and occupiers of the building, structure or land not less than 14 days' notice of its intention to exercise that power and, in a case falling within sub-paragraph (a), (c) or (d) specifying the protective works proposed to be carried out.
 
-(6) Where a notice is served under paragraph (5)(a), [^key-08bdb958442d437ad0a696558393cdcb]... (5)(c) or (5)(d), the owner or occupier of the building, structure or land concerned may, by serving a counter-notice within the period of 10 days beginning with the day on which the notice was served, require the question of whether it is necessary or expedient to carry out the protective works or to enter the building, structure or land to be referred to arbitration under article 42(3) (procedures in relation to certain approvals etc.).
+(6) Where a notice is served under paragraph (5)(a), [^c-08bdb958442d437ad0a696558393cdcb]... (5)(c) or (5)(d), the owner or occupier of the building, structure or land concerned may, by serving a counter-notice within the period of 10 days beginning with the day on which the notice was served, require the question of whether it is necessary or expedient to carry out the protective works or to enter the building, structure or land to be referred to arbitration under article 42(3) (procedures in relation to certain approvals etc.).
 
 (7) The undertaker must compensate the owners and occupiers of any building, structure or land in relation to which powers under this article have been exercised for any loss or damage arising to them by reason of the exercise of those powers.
 
@@ -65,6 +65,6 @@ the undertaker must compensate the owners and occupiers of the building or struc
 
 ## Annotations
 
-[^key-2fdf7f9ed1cdbde1d89a54125af1e05e]: Commencement: Art. 20 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-2fdf7f9ed1cdbde1d89a54125af1e05e]: Commencement: Art. 20 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-08bdb958442d437ad0a696558393cdcb]: Textual amendment: Word in [art. 20(6)](https://www.legislation.gov.uk/uksi/2020/419/article/20/6) omitted (10.3.2021) by virtue of [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
+[^c-08bdb958442d437ad0a696558393cdcb]: Textual amendment: Word in [art. 20(6)](https://www.legislation.gov.uk/uksi/2020/419/article/20/6) omitted (10.3.2021) by virtue of [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)

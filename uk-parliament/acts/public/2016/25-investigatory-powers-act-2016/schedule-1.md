@@ -26,7 +26,7 @@ Section 7
 
 #### Payment of monetary penalties
 
-**1.**[^key-4638e9109f543e5818ef62859b528eee] (1) A monetary penalty imposed by a monetary penalty notice must be paid to the Commissioner within the period specified in the notice.
+**1.**[^c-4638e9109f543e5818ef62859b528eee] (1) A monetary penalty imposed by a monetary penalty notice must be paid to the Commissioner within the period specified in the notice.
 
 (2) The period specified under sub-paragraph (1) must not be less than 28 days beginning with the day after the day on which the notice is served.
 
@@ -34,7 +34,7 @@ Section 7
 
 #### Contents of monetary penalty notices
 
-**2.**[^key-5093384972ddbdc4d9d211b65379acb6] A monetary penalty notice must, in particular—
+**2.**[^c-5093384972ddbdc4d9d211b65379acb6] A monetary penalty notice must, in particular—
 
 - (a) state the name and address of the person on whom it is to be served,
 - (b) provide details of the notice of intent served on that person (see paragraph 4),
@@ -47,7 +47,7 @@ Section 7
 
 #### Enforcement obligations
 
-**3.**[^key-0370412bf1231c82e293f643e2d25565] (1) The Commissioner may include an enforcement obligation, or enforcement obligations, in a monetary penalty notice if the Commissioner considers that the interception to which the notice relates is continuing.
+**3.**[^c-0370412bf1231c82e293f643e2d25565] (1) The Commissioner may include an enforcement obligation, or enforcement obligations, in a monetary penalty notice if the Commissioner considers that the interception to which the notice relates is continuing.
 
 (2) Each of the following is an enforcement obligation—
 
@@ -60,7 +60,7 @@ Section 7
 
 #### Consultation requirements before service of monetary penalty notices
 
-**4.**[^key-682f9f059de2859bdd91e23285604117] (1) The Commissioner must proceed in accordance with sub-paragraphs (2) to (7) before serving a monetary penalty notice on a person.
+**4.**[^c-682f9f059de2859bdd91e23285604117] (1) The Commissioner must proceed in accordance with sub-paragraphs (2) to (7) before serving a monetary penalty notice on a person.
 
 (2) The Commissioner must serve a notice of intent on the person.
 
@@ -89,7 +89,7 @@ Section 7
 
 (8) If the Commissioner decides not to serve a monetary penalty notice on a person as a result of any representations which have been made by the person in accordance with a notice of intent or sub-paragraph (6), the Commissioner must inform the person of that fact.
 
-**5.**[^key-39d1b5e3bc5378f95f66ac69462ab866] (1) The Commissioner may not vary a notice of intent except as set out in sub-paragraph (2).
+**5.**[^c-39d1b5e3bc5378f95f66ac69462ab866] (1) The Commissioner may not vary a notice of intent except as set out in sub-paragraph (2).
 
 (2) The Commissioner may vary a notice of intent by extending the period mentioned in paragraph 4(4)(f) or (g).
 
@@ -99,7 +99,7 @@ Section 7
 
 (5) A variation or cancellation of a notice of intent is effected by serving on the person on whom the notice was served a notice setting out the variation or cancellation.
 
-**6.**[^key-1f7ad1207c5df222c89b6f9dda5d9de4] (1) The Commissioner must not serve a monetary penalty notice on a person in respect of an interception if any notice of intent in respect of that interception was served on the person more than 3 months earlier.
+**6.**[^c-1f7ad1207c5df222c89b6f9dda5d9de4] (1) The Commissioner must not serve a monetary penalty notice on a person in respect of an interception if any notice of intent in respect of that interception was served on the person more than 3 months earlier.
 
 (2) But the Commissioner may serve a monetary penalty notice on a person where the service of the notice would otherwise be prevented by sub-paragraph (1) if the Commissioner—
 
@@ -108,7 +108,7 @@ Section 7
 
 #### Variation or cancellation of monetary penalty notices
 
-**7.**[^key-3afbb0d3141989a67b29098838fe87f7] (1) The Commissioner may vary or cancel a monetary penalty notice.
+**7.**[^c-3afbb0d3141989a67b29098838fe87f7] (1) The Commissioner may vary or cancel a monetary penalty notice.
 
 (2) But the Commissioner may not vary a monetary penalty notice in a way that is detrimental to the person on whom it was served (whether by increasing the amount of the monetary penalty, by reducing the period specified in the notice as the period within which the penalty must be paid, by imposing a new enforcement obligation or making an existing enforcement obligation effective earlier or otherwise more onerous, or otherwise).
 
@@ -125,7 +125,7 @@ Section 7
 
 #### Appeals in relation to monetary penalty notices
 
-**8.**[^key-1378ba42e46ef27679ab3dd5750a9a9b] (1) A person on whom a monetary penalty notice is served may appeal to the First-tier Tribunal against—
+**8.**[^c-1378ba42e46ef27679ab3dd5750a9a9b] (1) A person on whom a monetary penalty notice is served may appeal to the First-tier Tribunal against—
 
 - (a) the monetary penalty notice or any provision of it, or
 - (b) any refusal of a request by the person to serve a notice of variation or cancellation in relation to the monetary penalty notice.
@@ -153,7 +153,7 @@ Section 7
 
 #### Enforcement of monetary penalty notices
 
-**9.**[^key-ae4ab6333ba1f98ceb0b34d2ab367ef0] (1) This paragraph applies in relation to any penalty payable to the Commissioner by virtue of a monetary penalty notice.
+**9.**[^c-ae4ab6333ba1f98ceb0b34d2ab367ef0] (1) This paragraph applies in relation to any penalty payable to the Commissioner by virtue of a monetary penalty notice.
 
 (2) In England and Wales or Northern Ireland, the penalty is recoverable—
 
@@ -162,13 +162,13 @@ Section 7
 
 (3) In Scotland, the penalty is recoverable as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by the sheriff for any sheriffdom in Scotland.
 
-**10.**[^key-86c3f851cf7f09fab4cf3b5d6da59f49] (1) A person on whom a monetary penalty notice containing an enforcement obligation is served must comply with the obligation.
+**10.**[^c-86c3f851cf7f09fab4cf3b5d6da59f49] (1) A person on whom a monetary penalty notice containing an enforcement obligation is served must comply with the obligation.
 
 (2) The duty imposed by sub-paragraph (1) is enforceable by civil proceedings by the Commissioner for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
 
 #### Guidance
 
-**11.**[^key-d579ab5800554f86445f11b5ce5e9129] (1) The Commissioner must prepare and issue guidance on how the Commissioner proposes to exercise the Commissioner's functions under section 7 and this Schedule.
+**11.**[^c-d579ab5800554f86445f11b5ce5e9129] (1) The Commissioner must prepare and issue guidance on how the Commissioner proposes to exercise the Commissioner's functions under section 7 and this Schedule.
 
 (2) The guidance must, in particular, deal with—
 
@@ -185,7 +185,7 @@ Section 7
 
 #### Interpretation of Part 1
 
-**12.**[^key-21f494becef83b7caafd30ee3b9a4932] In this Part of this Schedule—
+**12.**[^c-21f494becef83b7caafd30ee3b9a4932] In this Part of this Schedule—
 
 - “**address**” means—
   - (a) in the case of a registered company, the address of its registered office,
@@ -202,7 +202,7 @@ Section 7
 
 #### Information notices
 
-**13.**[^key-ba72a668ff232da392f47f45dadc562b] (1) The Commissioner may by notice (an “information notice”) request any person on whom the Commissioner is considering whether to serve a Part 1 notice of intent or a Part 1 monetary penalty notice to provide such information as the Commissioner reasonably requires for the purpose of deciding whether to serve it.
+**13.**[^c-ba72a668ff232da392f47f45dadc562b] (1) The Commissioner may by notice (an “information notice”) request any person on whom the Commissioner is considering whether to serve a Part 1 notice of intent or a Part 1 monetary penalty notice to provide such information as the Commissioner reasonably requires for the purpose of deciding whether to serve it.
 
 (2) Where the Commissioner requests that documents be produced, the Commissioner may take copies of, or extracts from, any document so produced.
 
@@ -219,7 +219,7 @@ Section 7
 - (a) specifying the manner in which the information is to be provided may include specifying the form in which it is to be provided, and
 - (b) the specified period within which the information is to be provided must not be less than 28 days beginning with the day after the day on which the information notice is served.
 
-**14.**[^key-2afc8f515fe68334e3a70bf9980b6e41] (1) The Commissioner may not vary an information notice except as set out in sub-paragraph (2).
+**14.**[^c-2afc8f515fe68334e3a70bf9980b6e41] (1) The Commissioner may not vary an information notice except as set out in sub-paragraph (2).
 
 (2) The Commissioner may vary an information notice by extending the period within which the information is to be provided if the person on whom the notice is served appeals under paragraph 15 in relation to the notice.
 
@@ -231,7 +231,7 @@ Section 7
 
 #### Appeals in relation to information notices
 
-**15.**[^key-c90dbfdc973b7920e8a76723e678c504] (1) A person on whom an information notice is served may appeal to the First-tier Tribunal against—
+**15.**[^c-c90dbfdc973b7920e8a76723e678c504] (1) A person on whom an information notice is served may appeal to the First-tier Tribunal against—
 
 - (a) the information notice or any provision of it, or
 - (b) any refusal of a request by the person to serve a notice of variation or cancellation in relation to the information notice.
@@ -259,7 +259,7 @@ Section 7
 
 #### Enforcement of information notices
 
-**16.**[^key-a2c990c7e5db126269ca8ec0ab2be73d] (1) The Commissioner may serve a Part 2 monetary penalty notice on a person if the person—
+**16.**[^c-a2c990c7e5db126269ca8ec0ab2be73d] (1) The Commissioner may serve a Part 2 monetary penalty notice on a person if the person—
 
 - (a) without reasonable excuse fails to comply with an information notice, or
 - (b) knowingly or recklessly gives any information which is false in a material particular in response to an information notice.
@@ -283,7 +283,7 @@ Section 7
 
 Any period falling within paragraph (b)(ii) must not be less than 28 days beginning with the day after the day on which the notice is served.
 
-**17.**[^key-9af026b0cf7550a42acf9593f25e601c] (1) Part 1 of this Schedule applies in relation to a Part 2 monetary penalty notice and the penalty that relates to that notice as it applies in relation to a Part 1 monetary penalty notice and the penalty that relates to that notice.
+**17.**[^c-9af026b0cf7550a42acf9593f25e601c] (1) Part 1 of this Schedule applies in relation to a Part 2 monetary penalty notice and the penalty that relates to that notice as it applies in relation to a Part 1 monetary penalty notice and the penalty that relates to that notice.
 
 (2) The provisions in Part 1 of this Schedule so far as relating to enforcement obligations do not apply in relation to a Part 2 monetary penalty notice.
 
@@ -295,7 +295,7 @@ Any period falling within paragraph (b)(ii) must not be less than 28 days beginn
 
 #### Technical assistance for the Commissioner
 
-**18.**[^key-6420325428e2fced30d90285961eb376] (1) OFCOM must comply with any reasonable request made by the Commissioner, in connection with the Commissioner's functions under section 7 and this Schedule, for advice on technical and similar matters relating to electronic communications.
+**18.**[^c-6420325428e2fced30d90285961eb376] (1) OFCOM must comply with any reasonable request made by the Commissioner, in connection with the Commissioner's functions under section 7 and this Schedule, for advice on technical and similar matters relating to electronic communications.
 
 (2) For this purpose, the Commissioner may disclose to OFCOM any information obtained by the Commissioner under this Schedule.
 
@@ -303,7 +303,7 @@ Any period falling within paragraph (b)(ii) must not be less than 28 days beginn
 
 #### Interpretation of Part 2
 
-**19.**[^key-3e5ece1563e328e8d0520ebba19bd22e] In this Part of this Schedule—
+**19.**[^c-3e5ece1563e328e8d0520ebba19bd22e] In this Part of this Schedule—
 
 - “**the Commissioner**” means the Investigatory Powers Commissioner;
 - “**enforcement obligation**” has the meaning given by paragraph 3(2);
@@ -316,40 +316,40 @@ Any period falling within paragraph (b)(ii) must not be less than 28 days beginn
 
 ## Annotations
 
-[^key-4638e9109f543e5818ef62859b528eee]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/1) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-4638e9109f543e5818ef62859b528eee]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/1) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-5093384972ddbdc4d9d211b65379acb6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/2) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-5093384972ddbdc4d9d211b65379acb6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/2) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-0370412bf1231c82e293f643e2d25565]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/3) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-0370412bf1231c82e293f643e2d25565]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/3) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-682f9f059de2859bdd91e23285604117]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/4) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-682f9f059de2859bdd91e23285604117]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/4) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-39d1b5e3bc5378f95f66ac69462ab866]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/5) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-39d1b5e3bc5378f95f66ac69462ab866]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/5) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-1f7ad1207c5df222c89b6f9dda5d9de4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/6) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-1f7ad1207c5df222c89b6f9dda5d9de4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/6) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-3afbb0d3141989a67b29098838fe87f7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/7) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-3afbb0d3141989a67b29098838fe87f7]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/7) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-1378ba42e46ef27679ab3dd5750a9a9b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/8) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-1378ba42e46ef27679ab3dd5750a9a9b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/8) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-ae4ab6333ba1f98ceb0b34d2ab367ef0]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/9) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-ae4ab6333ba1f98ceb0b34d2ab367ef0]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/9) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-86c3f851cf7f09fab4cf3b5d6da59f49]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/10) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-86c3f851cf7f09fab4cf3b5d6da59f49]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/10) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-d579ab5800554f86445f11b5ce5e9129]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/11) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-d579ab5800554f86445f11b5ce5e9129]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/11) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-21f494becef83b7caafd30ee3b9a4932]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/12) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-21f494becef83b7caafd30ee3b9a4932]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/12) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-ba72a668ff232da392f47f45dadc562b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/13) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-ba72a668ff232da392f47f45dadc562b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/13) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-2afc8f515fe68334e3a70bf9980b6e41]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/14) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-2afc8f515fe68334e3a70bf9980b6e41]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/14) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-c90dbfdc973b7920e8a76723e678c504]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/15) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-c90dbfdc973b7920e8a76723e678c504]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/15) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-a2c990c7e5db126269ca8ec0ab2be73d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/16) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-a2c990c7e5db126269ca8ec0ab2be73d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/16) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-9af026b0cf7550a42acf9593f25e601c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/17) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-9af026b0cf7550a42acf9593f25e601c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/17) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-6420325428e2fced30d90285961eb376]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/18) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-6420325428e2fced30d90285961eb376]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/18) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
 
-[^key-3e5ece1563e328e8d0520ebba19bd22e]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/19) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)
+[^c-3e5ece1563e328e8d0520ebba19bd22e]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2016/25/schedule/1/paragraph/19) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/g)

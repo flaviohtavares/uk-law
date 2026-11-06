@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007 (revoked)[^key-67bd44e4393116a4ce9484ab6698a706]
+The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2007 (revoked)[^c-67bd44e4393116a4ce9484ab6698a706]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 28th January 2008
 
-[^key-67bd44e4393116a4ce9484ab6698a706]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67bd44e4393116a4ce9484ab6698a706]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-67bd44e4393116a4ce9484ab6698a706]
+## 1. Citation, commencement and extent[^c-67bd44e4393116a4ce9484ab6698a706]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-67bd44e4393116a4ce9484ab6698a706]
+## 2. Interpretation[^c-67bd44e4393116a4ce9484ab6698a706]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-67bd44e4393116a4ce9484ab6698a706]
+## 3. Fees[^c-67bd44e4393116a4ce9484ab6698a706]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-67bd44e4393116a4ce9484ab6698a706]
+## 4. Revocation[^c-67bd44e4393116a4ce9484ab6698a706]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67bd44e4393116a4ce9484ab6698a706]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67bd44e4393116a4ce9484ab6698a706]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-67bd44e4393116a4ce9484ab6698a706]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67bd44e4393116a4ce9484ab6698a706]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67bd44e4393116a4ce9484ab6698a706]: Textual amendment: Regulations revoked (26.6.2009) by [The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2009 (S.S.I. 2009/230)](https://www.legislation.gov.uk/ssi/2009/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/230/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2009/230/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/ssi/2009/230/regulation/5), [sch.](https://www.legislation.gov.uk/ssi/2009/230/schedule))
+[^c-67bd44e4393116a4ce9484ab6698a706]: Textual amendment: Regulations revoked (26.6.2009) by [The Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2009 (S.S.I. 2009/230)](https://www.legislation.gov.uk/ssi/2009/230), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/230/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2009/230/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/ssi/2009/230/regulation/5), [sch.](https://www.legislation.gov.uk/ssi/2009/230/schedule))

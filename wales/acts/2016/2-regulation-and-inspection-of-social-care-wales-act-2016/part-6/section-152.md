@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Review of undertakings: disposals by fitness to practise panel[^key-173d3ea1020575547dacd7b9713fb9a9]
+## 152. Review of undertakings: disposals by fitness to practise panel[^c-173d3ea1020575547dacd7b9713fb9a9]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-173d3ea1020575547dacd7b9713fb9a9]: Commencement: [S. 152](https://www.legislation.gov.uk/anaw/2016/2/section/152) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-173d3ea1020575547dacd7b9713fb9a9]: Commencement: [S. 152](https://www.legislation.gov.uk/anaw/2016/2/section/152) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

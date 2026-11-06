@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State may by regulations modify the Rural Development Regulation and assimilated direct[^key-2ddc9e0e3242ea39e5bc156c32cb84ae] legislation made under that Regulation, as it has effect in relation to England, for or in connection with—
+(1) The Secretary of State may by regulations modify the Rural Development Regulation and assimilated direct[^c-2ddc9e0e3242ea39e5bc156c32cb84ae] legislation made under that Regulation, as it has effect in relation to England, for or in connection with—
 
 - (a) extending the period to which the core contribution relates;
 - (b) amending the amount of the core contribution;
@@ -68,4 +68,4 @@ summary: ''
 
 [^c24386101]: Commencement: S. 16 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-2ddc9e0e3242ea39e5bc156c32cb84ae]: Textual amendment: Words in s. 16 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(d)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/d)
+[^c-2ddc9e0e3242ea39e5bc156c32cb84ae]: Textual amendment: Words in s. 16 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(d)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/d)

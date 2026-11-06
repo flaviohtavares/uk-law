@@ -36,7 +36,7 @@ stating the nature of the apparatus and (if known) whether it is for the time be
 
 (4) If an undertaker fails to comply with his duties under this section—
 
-- (a) he commits an offence and is liable on summary conviction to a fine not exceeding level 5[^key-10917fe7a22d34017693511d6f8df9d1] on the standard scale; and
+- (a) he commits an offence and is liable on summary conviction to a fine not exceeding level 5[^c-10917fe7a22d34017693511d6f8df9d1] on the standard scale; and
 - (b) he is liable to compensate any person in respect of damage or loss incurred by him in consequence of the failure.
 
 (5) In criminal or civil proceedings arising out of any such failure it is a defence for the undertaker to show that all reasonable care was taken by him, and by his contractors and by persons in his employ or that of his contractors, to secure that no such failure occurred.
@@ -48,4 +48,4 @@ stating the nature of the apparatus and (if known) whether it is for the time be
 
 ## Annotations
 
-[^key-10917fe7a22d34017693511d6f8df9d1]: Textual amendment: Words in [s. 138(4)](https://www.legislation.gov.uk/ukpga/1991/22/section/138/4) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-10917fe7a22d34017693511d6f8df9d1]: Textual amendment: Words in [s. 138(4)](https://www.legislation.gov.uk/ukpga/1991/22/section/138/4) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

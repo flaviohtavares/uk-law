@@ -32,7 +32,7 @@ summary: ''
 
 Gender Recognition
 
-The Gender Recognition (Approved Countries and Territories) Order 2011 (revoked)[^key-d4c20f29ea51d6d5d524b40c3d9b7777]
+The Gender Recognition (Approved Countries and Territories) Order 2011 (revoked)[^c-d4c20f29ea51d6d5d524b40c3d9b7777]
 
 Made
 
@@ -40,34 +40,34 @@ Made
 
 Coming into force in accordance with Article 1
 
-[^key-d4c20f29ea51d6d5d524b40c3d9b7777]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4c20f29ea51d6d5d524b40c3d9b7777]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d4c20f29ea51d6d5d524b40c3d9b7777]
+## 1. Citation and commencement[^c-d4c20f29ea51d6d5d524b40c3d9b7777]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approved countries and territories[^key-d4c20f29ea51d6d5d524b40c3d9b7777]
+## 2. Approved countries and territories[^c-d4c20f29ea51d6d5d524b40c3d9b7777]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-d4c20f29ea51d6d5d524b40c3d9b7777]
+## 3. Revocation[^c-d4c20f29ea51d6d5d524b40c3d9b7777]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4c20f29ea51d6d5d524b40c3d9b7777]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4c20f29ea51d6d5d524b40c3d9b7777]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Approved Countries and Territories[^key-d4c20f29ea51d6d5d524b40c3d9b7777]
+## SCHEDULE — Approved Countries and Territories[^c-d4c20f29ea51d6d5d524b40c3d9b7777]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4c20f29ea51d6d5d524b40c3d9b7777]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4c20f29ea51d6d5d524b40c3d9b7777]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4c20f29ea51d6d5d524b40c3d9b7777]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1630) revoked (9.4.2024) by [The Gender Recognition (Approved Countries and Territories and Saving Provision) Order 2024 (S.I. 2024/401)](https://www.legislation.gov.uk/uksi/2024/401), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/401/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/401/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/401/article/4))
+[^c-d4c20f29ea51d6d5d524b40c3d9b7777]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1630) revoked (9.4.2024) by [The Gender Recognition (Approved Countries and Territories and Saving Provision) Order 2024 (S.I. 2024/401)](https://www.legislation.gov.uk/uksi/2024/401), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/401/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/401/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/401/article/4))

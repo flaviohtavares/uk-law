@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Meaning of dangerous driving: constables etc[^key-130ef9094a3a6aaa8752239292ad2843][^key-a54489559a56a6fd619434add0ee4928]
+## 5. Meaning of dangerous driving: constables etc[^c-130ef9094a3a6aaa8752239292ad2843][^c-a54489559a56a6fd619434add0ee4928]
 
 *Extent: E+W+S*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-130ef9094a3a6aaa8752239292ad2843]: Commencement: S. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-130ef9094a3a6aaa8752239292ad2843]: Commencement: S. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-a54489559a56a6fd619434add0ee4928]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/32/section/5) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/a)
+[^c-a54489559a56a6fd619434add0ee4928]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/32/section/5) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/a)

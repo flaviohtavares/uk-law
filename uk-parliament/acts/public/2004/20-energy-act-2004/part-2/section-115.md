@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Discharge of renewables obligation in Great Britain by payment[^key-75b7990e518eabfdd2ee5420437df7e4]
+## 115. Discharge of renewables obligation in Great Britain by payment[^c-75b7990e518eabfdd2ee5420437df7e4]
 
 *Extent: E+W+S*
 
@@ -90,10 +90,10 @@ summary: ''
 > - (a) in relation to a shortfall in amounts received by the Authority by way of discharge payments for a period, means that period; and
 > - (b) in relation to a shortfall in amounts received by the Northern Ireland authority by way of discharge payments for a period, means any period that includes the whole or a part of that period.
 
-(6)[^key-4076ada608818bbde1955d9520060f30] The requirements of section 32(7) of the 1989 Act (consultation before making an order) may be satisfied in the case of an order containing provision made by virtue of this section by consultation that took place wholly or partly before the commencement of this section.
+(6)[^c-4076ada608818bbde1955d9520060f30] The requirements of section 32(7) of the 1989 Act (consultation before making an order) may be satisfied in the case of an order containing provision made by virtue of this section by consultation that took place wholly or partly before the commencement of this section.
 
 ## Annotations
 
-[^key-75b7990e518eabfdd2ee5420437df7e4]: Commencement: S. 115 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-75b7990e518eabfdd2ee5420437df7e4]: Commencement: S. 115 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-4076ada608818bbde1955d9520060f30]: Modification: S. 115(6): transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-4076ada608818bbde1955d9520060f30]: Modification: S. 115(6): transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))

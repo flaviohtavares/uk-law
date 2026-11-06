@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 265A. Planning inquiries to be held in public subject to certain exceptions[^key-b3a6bf0a8ebbd43fa8e0f5ad4b3a7946]
+## 265A. Planning inquiries to be held in public subject to certain exceptions[^c-b3a6bf0a8ebbd43fa8e0f5ad4b3a7946]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ is interested in the inquiry, or prospective inquiry, in relation to a matter me
 
 ## Annotations
 
-[^key-b3a6bf0a8ebbd43fa8e0f5ad4b3a7946]: Textual amendment: S. 265A inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 91(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/91/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)
+[^c-b3a6bf0a8ebbd43fa8e0f5ad4b3a7946]: Textual amendment: S. 265A inserted (6.8.2004 for specified purposes, 7.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 91(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/91/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)

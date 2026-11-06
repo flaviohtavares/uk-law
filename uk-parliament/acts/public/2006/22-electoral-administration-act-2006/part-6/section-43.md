@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Access to other election documents: contravention of regulations[^c18923941][^c19703161][^c20191371][^key-08e3556973955ff89ec1313fe395f9b3][^key-45e58c00f22b76e69b1eb95f06b1ef34][^key-be8f6a94c676f9b833d63c52dd5284f0]
+## 43. Access to other election documents: contravention of regulations[^c18923941][^c19703161][^c20191371][^c-08e3556973955ff89ec1313fe395f9b3][^c-45e58c00f22b76e69b1eb95f06b1ef34][^c-be8f6a94c676f9b833d63c52dd5284f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ summary: ''
 
 [^c20191371]: Modification: S. 43 applied (with modifications) (24.7.2008) by [The Local Authorities (Conduct of Referendums) (Wales) Regulations 2008 (S.I. 2008/1848)](https://www.legislation.gov.uk/uksi/2008/1848), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2008/1848/regulation/1/2/3), [8](https://www.legislation.gov.uk/uksi/2008/1848/regulation/8), [Sch. 4 para. 1 Table 4](https://www.legislation.gov.uk/uksi/2008/1848/schedule/4/paragraph/1)
 
-[^key-08e3556973955ff89ec1313fe395f9b3]: Modification: S. 43 applied (with modifications) (E.W.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1)
+[^c-08e3556973955ff89ec1313fe395f9b3]: Modification: S. 43 applied (with modifications) (E.W.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1)
 
-[^key-45e58c00f22b76e69b1eb95f06b1ef34]: Modification: S. 43 applied (with modifications) (E.W.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1)
+[^c-45e58c00f22b76e69b1eb95f06b1ef34]: Modification: S. 43 applied (with modifications) (E.W.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1 Table 5](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1)
 
-[^key-be8f6a94c676f9b833d63c52dd5284f0]: Modification: S. 43 applied (with modifications) by S.I. 2012/2031 reg. 17 Sch. 8 Table 4 (as inserted (E.W.) (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/798/regulation/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/798/schedule/3))
+[^c-be8f6a94c676f9b833d63c52dd5284f0]: Modification: S. 43 applied (with modifications) by S.I. 2012/2031 reg. 17 Sch. 8 Table 4 (as inserted (E.W.) (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/798/regulation/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/798/schedule/3))

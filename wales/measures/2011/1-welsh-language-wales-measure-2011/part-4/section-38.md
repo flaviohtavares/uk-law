@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendment of standards potentially applicable[^key-123effc05295da5ddb4ac72fb2323c3d]
+## 38. Amendment of standards potentially applicable[^c-123effc05295da5ddb4ac72fb2323c3d]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-123effc05295da5ddb4ac72fb2323c3d]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2011/1/section/38) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-123effc05295da5ddb4ac72fb2323c3d]: Commencement: [S. 38](https://www.legislation.gov.uk/mwa/2011/1/section/38) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

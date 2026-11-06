@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Investigations[^key-50e9f3fd8daba105ccb58957c7160828]
+## 115. Investigations[^c-50e9f3fd8daba105ccb58957c7160828]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50e9f3fd8daba105ccb58957c7160828]: Commencement: [S. 115](https://www.legislation.gov.uk/mwa/2011/1/section/115) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)
+[^c-50e9f3fd8daba105ccb58957c7160828]: Commencement: [S. 115](https://www.legislation.gov.uk/mwa/2011/1/section/115) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)

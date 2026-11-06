@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where a person is the manager of related properties, the owners of a majority[^key-485e9e26c8c39c4cb336e44114b1f512] of those properties may—
+(1) Where a person is the manager of related properties, the owners of a majority[^c-485e9e26c8c39c4cb336e44114b1f512] of those properties may—
 
 - (a) dismiss that person; and
 - (b) where they do so, appoint some other person to be such manager,
@@ -31,4 +31,4 @@ and such actings shall be effective notwithstanding the terms of any real burden
 
 ## Annotations
 
-[^key-485e9e26c8c39c4cb336e44114b1f512]: Textual amendment: Words in [s. 64(1)](https://www.legislation.gov.uk/asp/2003/9/section/64/1) substituted (1.4.2026 for specified purposes) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 70(2)](https://www.legislation.gov.uk/asp/2025/13/section/70/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-485e9e26c8c39c4cb336e44114b1f512]: Textual amendment: Words in [s. 64(1)](https://www.legislation.gov.uk/asp/2003/9/section/64/1) substituted (1.4.2026 for specified purposes) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 70(2)](https://www.legislation.gov.uk/asp/2025/13/section/70/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

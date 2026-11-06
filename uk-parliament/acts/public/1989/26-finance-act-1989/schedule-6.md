@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Retirement Benefits Schemes[^key-a81f65aeae915cf014d8f6493c06416e]
+## SCHEDULE 6 — Retirement Benefits Schemes[^c-a81f65aeae915cf014d8f6493c06416e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,114 +24,114 @@ summary: ''
 
 Section 75.
 
-### Part I — Amendments of Taxes Act[^key-a81f65aeae915cf014d8f6493c06416e]
+### Part I — Amendments of Taxes Act[^c-a81f65aeae915cf014d8f6493c06416e]
 
-#### Preliminary[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Preliminary[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**1.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Amendments[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Amendments[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**2.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Effect of amendments[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Effect of amendments[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**18.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Approved Schemes: General[^key-a81f65aeae915cf014d8f6493c06416e]
+### Part II — Approved Schemes: General[^c-a81f65aeae915cf014d8f6493c06416e]
 
-#### Preliminary[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Preliminary[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**19.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Remuneration[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Remuneration[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**20.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Accelerated accrual[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Accelerated accrual[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**23.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Associated employments[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Associated employments[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**25.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Connected schemes[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Connected schemes[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**26.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Augmentation[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Augmentation[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**27.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Centralised schemes[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Centralised schemes[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**28.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Election[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Election[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**29.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplementary[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Supplementary[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**30.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Approved Schemes: Additional Voluntary Contributions[^key-a81f65aeae915cf014d8f6493c06416e]
+### Part III — Approved Schemes: Additional Voluntary Contributions[^c-a81f65aeae915cf014d8f6493c06416e]
 
-#### Preliminary[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Preliminary[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**31.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Abatement of benefits[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Abatement of benefits[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**32.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Return of surplus funds[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Return of surplus funds[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**33.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplementary[^key-a81f65aeae915cf014d8f6493c06416e]
+#### Supplementary[^c-a81f65aeae915cf014d8f6493c06416e]
 
-**35.**[^key-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-a81f65aeae915cf014d8f6493c06416e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a81f65aeae915cf014d8f6493c06416e]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1989/26/schedule/6) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-a81f65aeae915cf014d8f6493c06416e]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1989/26/schedule/6) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

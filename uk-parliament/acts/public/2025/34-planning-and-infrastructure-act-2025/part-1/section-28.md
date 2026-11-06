@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Electricity transmission systems: extension of commissioning period[^key-7899730ea60b7547eb0eba8504b30686]
+## 28. Electricity transmission systems: extension of commissioning period[^c-7899730ea60b7547eb0eba8504b30686]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In [section 6G](https://www.legislation.gov.uk/ukpga/1989/29/section/6G)[(1)](ht
 
 ## Annotations
 
-[^key-7899730ea60b7547eb0eba8504b30686]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/34/section/28) in force at 18.2.2026, see [s. 118(1)(o)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/o)
+[^c-7899730ea60b7547eb0eba8504b30686]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/34/section/28) in force at 18.2.2026, see [s. 118(1)(o)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/o)

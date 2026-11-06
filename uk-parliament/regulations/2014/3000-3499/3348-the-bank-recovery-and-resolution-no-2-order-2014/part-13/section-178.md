@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Assessment of business reorganisation plans drawn up on an individual basis[^key-5f5c311f72543af1506b2c1da5a8d781]
+## 178. Assessment of business reorganisation plans drawn up on an individual basis[^c-5f5c311f72543af1506b2c1da5a8d781]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f5c311f72543af1506b2c1da5a8d781]: Textual amendment: [Pt. 13 Ch. 4](https://www.legislation.gov.uk/uksi/2014/3348/part/13/chapter/4) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 102](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/102); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f5c311f72543af1506b2c1da5a8d781]: Textual amendment: [Pt. 13 Ch. 4](https://www.legislation.gov.uk/uksi/2014/3348/part/13/chapter/4) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 102](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/102); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

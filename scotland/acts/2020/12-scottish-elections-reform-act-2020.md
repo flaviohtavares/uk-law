@@ -37,7 +37,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Term lengths
 
-#### 1. Dates of general elections to the Scottish Parliament[^key-beed58345760824fa11bc17205adea99]
+#### 1. Dates of general elections to the Scottish Parliament[^c-beed58345760824fa11bc17205adea99]
 
 (1) In the Scotland Act 1998—
 
@@ -48,7 +48,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Section 1 of the Scottish Elections (Dates) Act 2016 (date of general election for Scottish Parliament) is repealed.
 
-#### 2. Dates of Scottish local government elections[^key-36016a54e60290f72d94a78426e7561c]
+#### 2. Dates of Scottish local government elections[^c-36016a54e60290f72d94a78426e7561c]
 
 (1) In section 5 of the Local Government etc. (Scotland) Act 1994 (elections and term of office of councillors)—
 
@@ -59,7 +59,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Scottish Parliament elections
 
-#### 3. Postponement of general elections to the Scottish Parliament[^key-403f7bba49bbfc4101d2c86707c6cd80]
+#### 3. Postponement of general elections to the Scottish Parliament[^c-403f7bba49bbfc4101d2c86707c6cd80]
 
 (1) The Scotland Act 1998 is amended as follows.
 
@@ -87,7 +87,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Scottish local government elections
 
-#### 4. Electoral wards: number of councillors[^key-e613ea1e42b23a314643d2c319d57766]
+#### 4. Electoral wards: number of councillors[^c-e613ea1e42b23a314643d2c319d57766]
 
 (1) Section 1 of the Local Governance (Scotland) Act 2004 (electoral wards) is amended as follows.
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In subsection (2A), for “either one or two” substitute “ one ”.
 
-#### 5. Electors: prohibition on voting more than once[^key-4f042977e2ce17f9775fda4885302bfc]
+#### 5. Electors: prohibition on voting more than once[^c-4f042977e2ce17f9775fda4885302bfc]
 
 (1) The Representation of the People Act 1983 is amended as follows.
 
@@ -130,7 +130,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 6. Electronic voting[^key-aeb4d12d825892df5538bd01a778e81a]
+#### 6. Electronic voting[^c-aeb4d12d825892df5538bd01a778e81a]
 
 (1) The Local Governance (Scotland) Act 2004 is amended in accordance with subsections (2) and (3).
 
@@ -153,7 +153,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 7. Evaluation of pilot schemes[^key-0cbafa21cf2ced1961fbde3710f7f4eb]
+#### 7. Evaluation of pilot schemes[^c-0cbafa21cf2ced1961fbde3710f7f4eb]
 
 In section 5 of the Scottish Local Government (Elections) Act 2002 (pilot schemes for local elections)—
 
@@ -185,7 +185,7 @@ In section 5 of the Scottish Local Government (Elections) Act 2002 (pilot scheme
 
 ### Registration of attainers
 
-#### 8. Entitlement to register as an elector before attaining voting age[^key-a6fffacebe4cca94bb2ab75dc39d9a69]
+#### 8. Entitlement to register as an elector before attaining voting age[^c-a6fffacebe4cca94bb2ab75dc39d9a69]
 
 (1) Section 4 of the Representation of the People Act 1983 (entitlement to be registered as parliamentary or local government elector) is amended in accordance with subsections (2) and (3).
 
@@ -211,7 +211,7 @@ In section 5 of the Scottish Local Government (Elections) Act 2002 (pilot scheme
 
 ### Codes of practice
 
-#### 9. Expenditure of candidates at Scottish parliamentary elections[^key-dca3f308e2880b15ca818873be9eae02]
+#### 9. Expenditure of candidates at Scottish parliamentary elections[^c-dca3f308e2880b15ca818873be9eae02]
 
 In the Political Parties, Elections and Referendums Act 2000, after section 6G insert—
 
@@ -250,7 +250,7 @@ In the Political Parties, Elections and Referendums Act 2000, after section 6G i
 
 .
 
-#### 10. Expenditure of candidates at Scottish local government elections[^key-e0e68eccab82f70b317aabb59e5e16dc]
+#### 10. Expenditure of candidates at Scottish local government elections[^c-e0e68eccab82f70b317aabb59e5e16dc]
 
 In schedule 4B of the Representation of the People Act 1983 (Scottish local government elections: election expenses) (as inserted by section 17(4) of the Local Electoral Administration and Registration Services (Scotland) Act 2006), after paragraph 12 insert—
 
@@ -289,7 +289,7 @@ In schedule 4B of the Representation of the People Act 1983 (Scottish local gove
 
 .
 
-#### 11. Attendance of observers at Scottish parliamentary elections[^key-96b16fbdbfbc90034e3920386b6cfbce]
+#### 11. Attendance of observers at Scottish parliamentary elections[^c-96b16fbdbfbc90034e3920386b6cfbce]
 
 (1) The Political Parties, Elections and Referendums Act 2000 is amended in accordance with subsections (2) to (5).
 
@@ -309,13 +309,13 @@ In schedule 4B of the Representation of the People Act 1983 (Scottish local gove
 - (a) after “at”, in the first place where it occurs, insert “ Scottish parliamentary elections and ”,
 - (b) after “to”, in the second place where it occurs, insert “ Scottish Parliamentary general elections, elections under section 9 of the Scotland Act 1998 (constituency vacancies) and ”.
 
-#### 12. Controlled expenditure of third parties at Scottish local government elections[^key-dfe549f7b45279dbf7def436bdf67458]
+#### 12. Controlled expenditure of third parties at Scottish local government elections[^c-dfe549f7b45279dbf7def436bdf67458]
 
 In section 85A(1) of the Political Parties, Elections and Referendums Act 2000 (controlled expenditure of third parties: power of Scottish Ministers), after “Parliament” insert “ and local government elections in Scotland ”.
 
 ### Reporting and standards
 
-#### 13. Reviews of electoral and political matters[^key-708a7ac5da6189faa27397a52dae5365]
+#### 13. Reviews of electoral and political matters[^c-708a7ac5da6189faa27397a52dae5365]
 
 (1) The Political Parties, Elections and Referendums Act 2000 is amended as follows.
 
@@ -363,7 +363,7 @@ In section 85A(1) of the Political Parties, Elections and Referendums Act 2000 (
 
 .
 
-#### 14. Setting of performance standards[^key-d526debf379384ffc0de05af2f37daea]
+#### 14. Setting of performance standards[^c-d526debf379384ffc0de05af2f37daea]
 
 (1) The Political Parties, Elections and Referendums Act 2000 is amended as follows.
 
@@ -395,7 +395,7 @@ In section 85A(1) of the Political Parties, Elections and Referendums Act 2000 (
 
 ### Funding
 
-#### 15. Financing of Electoral Commission[^key-fe080167460014156ee8d26c9de18c2f]
+#### 15. Financing of Electoral Commission[^c-fe080167460014156ee8d26c9de18c2f]
 
 (1) Schedule 1 of the Political Parties, Elections and Referendums Act 2000 (the Electoral Commission) is amended as follows.
 
@@ -445,13 +445,13 @@ In section 85A(1) of the Political Parties, Elections and Referendums Act 2000 (
 
   .
 
-#### 16. Reimbursement of costs by Scottish Ministers etc.[^key-4a404553dce4bb3ee5cdf4fcfa500f3d]
+#### 16. Reimbursement of costs by Scottish Ministers etc.[^c-4a404553dce4bb3ee5cdf4fcfa500f3d]
 
 Section 13A of the Political Parties, Elections and Referendums Act 2000 (reimbursement of costs by Scottish Ministers etc.) is repealed.
 
 ### Examination and audit: devolved Scottish elections
 
-#### 17. Electoral Commission: five-year plan[^key-1bccd957ee40c629f49fe88acb0a9373]
+#### 17. Electoral Commission: five-year plan[^c-1bccd957ee40c629f49fe88acb0a9373]
 
 (1) Schedule 1 of the Political Parties, Elections and Referendums Act 2000 (the Electoral Commission) is amended as follows.
 
@@ -476,7 +476,7 @@ Section 13A of the Political Parties, Elections and Referendums Act 2000 (reimbu
 
 .
 
-#### 18. Accounts and accounting officer[^key-75b479353c189bdfff813ac4dc7a6f11]
+#### 18. Accounts and accounting officer[^c-75b479353c189bdfff813ac4dc7a6f11]
 
 (1) Schedule 1 of the Political Parties, Elections and Referendums Act 2000 (the Electoral Commission) is amended as follows.
 
@@ -493,7 +493,7 @@ Section 13A of the Political Parties, Elections and Referendums Act 2000 (reimbu
 
 ### Reporting
 
-#### 19. Reports by Electoral Commission: devolved Scottish elections[^key-91cddf549d7c71110199fabb0b4e940a]
+#### 19. Reports by Electoral Commission: devolved Scottish elections[^c-91cddf549d7c71110199fabb0b4e940a]
 
 (1) Schedule 1 of the Political Parties, Elections and Referendums Act 2000 (the Electoral Commission) is amended as follows.
 
@@ -506,7 +506,7 @@ Section 13A of the Political Parties, Elections and Referendums Act 2000 (reimbu
 
 ### Expenses and donations for local government elections
 
-#### 20. Electoral Commission: election expenses at Scottish local government elections[^key-a1c5490cfaa73537b5aea69298fd830a]
+#### 20. Electoral Commission: election expenses at Scottish local government elections[^c-a1c5490cfaa73537b5aea69298fd830a]
 
 (1) In section 26 of the Electoral Administration Act 2006 (return as to election expenses), subsection (2) is repealed and accordingly the amendments made by that section apply to local government elections in Scotland.
 
@@ -527,7 +527,7 @@ Section 13A of the Political Parties, Elections and Referendums Act 2000 (reimbu
 
 .
 
-#### 21. Electoral Commission: donations to candidates at local government elections[^key-7dc66736d18392a7985d482abed5459b]
+#### 21. Electoral Commission: donations to candidates at local government elections[^c-7dc66736d18392a7985d482abed5459b]
 
 (1) In section 130 of the Political Parties, Elections and Referendums Act 2000 (control of donations to candidates), subsection (4) is repealed and accordingly the amendments made by that section have effect in relation to local government elections in Scotland.
 
@@ -560,7 +560,7 @@ Section 13A of the Political Parties, Elections and Referendums Act 2000 (reimbu
 
 ### Voting by disabled persons: devolved Scottish elections
 
-#### 22. Reports on elections: voting by disabled persons at devolved Scottish elections[^key-a45e9a221dc52d174f1ff7ee98ad042c]
+#### 22. Reports on elections: voting by disabled persons at devolved Scottish elections[^c-a45e9a221dc52d174f1ff7ee98ad042c]
 
 In section 5 of the Political Parties, Elections and Referendums Act 2000 (reports on elections and referendums), after subsection (2B) insert—
 
@@ -584,7 +584,7 @@ In section 5 of the Political Parties, Elections and Referendums Act 2000 (repor
 
 ### Miscellaneous
 
-#### 23. Notification of Commission regulations: devolved Scottish elections[^key-ef8cce352bc57a09be02e751d3f8f5a5]
+#### 23. Notification of Commission regulations: devolved Scottish elections[^c-ef8cce352bc57a09be02e751d3f8f5a5]
 
 In schedule 1 of the Political Parties, Elections and Referendums Act 2000 (the Electoral Commission) after paragraph 21 insert—
 
@@ -606,7 +606,7 @@ In schedule 1 of the Political Parties, Elections and Referendums Act 2000 (the 
 
 ## PART 3 — Electoral Management Board for Scotland
 
-### 24. Electoral Management Board for Scotland: general functions[^key-a444cfc70b361e8d53cfd416f35f1661]
+### 24. Electoral Management Board for Scotland: general functions[^c-a444cfc70b361e8d53cfd416f35f1661]
 
 In section 1 of the Local Electoral Administration (Scotland) Act 2011 (Electoral Management Board for Scotland)—
 
@@ -628,7 +628,7 @@ In section 1 of the Local Electoral Administration (Scotland) Act 2011 (Electora
 
   .
 
-### 25. Directions to returning officers: Scottish parliamentary elections[^key-17a7fed7c57788810084c590f518ceec]
+### 25. Directions to returning officers: Scottish parliamentary elections[^c-17a7fed7c57788810084c590f518ceec]
 
 Before section 5 of the Local Electoral Administration (Scotland) Act 2011 (but after the italic heading preceding that section) insert—
 
@@ -645,7 +645,7 @@ Before section 5 of the Local Electoral Administration (Scotland) Act 2011 (but 
 
 .
 
-### 26. Directions to electoral registration officers: Scottish parliamentary elections[^key-dfb452cad25be57ff1ef83533337dcf1]
+### 26. Directions to electoral registration officers: Scottish parliamentary elections[^c-dfb452cad25be57ff1ef83533337dcf1]
 
 After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert—
 
@@ -659,7 +659,7 @@ After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert
 
 .
 
-### 27. Electoral Management Board for Scotland: miscellaneous amendments[^key-1fcbb90714515e0ab783765eb6c67122]
+### 27. Electoral Management Board for Scotland: miscellaneous amendments[^c-1fcbb90714515e0ab783765eb6c67122]
 
 (1) The Local Electoral Administration (Scotland) Act 2011 is amended as follows.
 
@@ -707,7 +707,7 @@ After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert
 
 ## PART 4 — Boundaries Scotland
 
-### 28. Boundaries Scotland[^key-28c7a0e5299c67ceed55c559c7722373]
+### 28. Boundaries Scotland[^c-28c7a0e5299c67ceed55c559c7722373]
 
 (1) The commission originally constituted under section 12 of the Local Government (Scotland) Act 1973 as the Local Government Boundary Commission for Scotland is to continue to be a commission but is renamed and is to be known as Boundaries Scotland.
 
@@ -718,7 +718,7 @@ After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert
 
 (3) The schedule makes further provision in consequence of this section.
 
-### 29. Reviews of local government wards and number of councillors[^key-3352f3a400b85e33d3a2e76467e27eee]
+### 29. Reviews of local government wards and number of councillors[^c-3352f3a400b85e33d3a2e76467e27eee]
 
 (1) In the Local Government (Scotland) Act 1973—
 
@@ -742,7 +742,7 @@ After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert
 
 (3) Accordingly, section 20(4) of the Islands (Scotland) Act 2018 is repealed.
 
-### 30. Changes to boundaries of parliamentary constituencies: procedure[^key-8bd27925a0c46664327440f12d3be0f4]
+### 30. Changes to boundaries of parliamentary constituencies: procedure[^c-8bd27925a0c46664327440f12d3be0f4]
 
 (1) Paragraph 6 of schedule 1 of the Scotland Act 1998 (Orders in Council) is amended as follows.
 
@@ -780,7 +780,7 @@ After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert
 
 .
 
-### 31. Changes to local government areas or electoral arrangements: procedure[^key-5bd6982c27c79e35549bdfc7f77961fb]
+### 31. Changes to local government areas or electoral arrangements: procedure[^c-5bd6982c27c79e35549bdfc7f77961fb]
 
 (1) The Local Government (Scotland) Act 1973 is amended in accordance with subsections (2) to (7).
 
@@ -907,11 +907,11 @@ After section 5 of the Local Electoral Administration (Scotland) Act 2011 insert
 - (a) in subsection (2), for “order”, in the first place where it occurs, substitute “ regulations ”,
 - (b) in subsection (2A), for “an order” substitute “ regulations ”.
 
-### 32. Scottish Parliament constituency boundaries: timing of first report[^key-3a1388e532090a20cccd273d36f75b11]
+### 32. Scottish Parliament constituency boundaries: timing of first report[^c-3a1388e532090a20cccd273d36f75b11]
 
 In paragraph 3(4) of schedule 1 of the Scotland Act 1998, for “no earlier than 1 May 2018 and no later than 1 May 2022” substitute “ no later than 1 May 2025 ”.
 
-### 33. Publishing of proposals affecting Scottish Parliament constituencies[^key-18b656e9946fd0c377d3cb994df58736]
+### 33. Publishing of proposals affecting Scottish Parliament constituencies[^c-18b656e9946fd0c377d3cb994df58736]
 
 In the opening words of paragraph 7(2) of schedule 1 of the Scotland Act 1998, for “at least one newspaper circulating in the constituency” substitute “ such manner as it thinks fit ”.
 
@@ -952,7 +952,7 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### Local Government (Scotland) Act 1973
 
-**1.**[^key-1a824ba4ed8855c67e8b6dafc3a4fd9a] (1) The Local Government (Scotland) Act 1973 is amended as follows.
+**1.**[^c-1a824ba4ed8855c67e8b6dafc3a4fd9a] (1) The Local Government (Scotland) Act 1973 is amended as follows.
 
 (2) In the following provisions, for “the Boundary Commission” substitute “ Boundaries Scotland ”
 
@@ -1043,14 +1043,14 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### House of Commons Disqualification Act 1975
 
-**2.**[^key-51b4c5e0e840d6f30df097d65e23243e] In Part 2 of schedule 1 of the House of Commons Disqualification Act 1975—
+**2.**[^c-51b4c5e0e840d6f30df097d65e23243e] In Part 2 of schedule 1 of the House of Commons Disqualification Act 1975—
 
 - (a) after the entry for the Board of the Pension Protection Fund insert— “ Boundaries Scotland ”,
 - (b) the entry for the Local Government Boundary Commission for Scotland is repealed.
 
 ### Scotland Act 1998
 
-**3.**[^key-e607f1fabb61a4a5fb79c7f5cf918686] (1) Schedule 1 of the Scotland Act 1998 is amended as follows.
+**3.**[^c-e607f1fabb61a4a5fb79c7f5cf918686] (1) Schedule 1 of the Scotland Act 1998 is amended as follows.
 
 (2) In the following provisions, for “the Local Government Boundary Commission for Scotland” substitute “ Boundaries Scotland ”
 
@@ -1099,7 +1099,7 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### Scottish Public Services Ombudsman Act 2002
 
-**4.**[^key-bc29ad42bc76ef07ce704c7955783326] In Part 2 of schedule 2 of the Scottish Public Services Ombudsman Act 2002, under the heading “Scottish public authorities”—
+**4.**[^c-bc29ad42bc76ef07ce704c7955783326] In Part 2 of schedule 2 of the Scottish Public Services Ombudsman Act 2002, under the heading “Scottish public authorities”—
 
 - (a) after paragraph 20A insert—
 
@@ -1110,7 +1110,7 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**5.**[^key-9fb256667cb7c5cfad983ac731648bf6] In Part 7 of schedule 1 of the Freedom of Information (Scotland) Act 2002—
+**5.**[^c-9fb256667cb7c5cfad983ac731648bf6] In Part 7 of schedule 1 of the Freedom of Information (Scotland) Act 2002—
 
 - (a) after paragraph 61A insert—
 
@@ -1121,14 +1121,14 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
-**6.**[^key-797f94373ce467d3e80d89c3112099f8] In schedule 2 of the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (the specified authorities), under the heading “Advisory bodies”—
+**6.**[^c-797f94373ce467d3e80d89c3112099f8] In schedule 2 of the Public Appointments and Public Bodies etc. (Scotland) Act 2003 (the specified authorities), under the heading “Advisory bodies”—
 
 - (a) before the entry for the Judicial Appointments Board for Scotland insert— “ Boundaries Scotland ”,
 - (b) the entry for the Local Government Boundary Commission for Scotland is repealed.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**7.**[^key-a24d467f35224cdf36b7f18c93f14a46] (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
+**7.**[^c-a24d467f35224cdf36b7f18c93f14a46] (1) The Public Services Reform (Scotland) Act 2010 is amended as follows.
 
 (2) In schedule 5 (improvement of public functions: listed bodies), under the heading “Scottish public authorities with mixed functions or no reserved functions”—
 
@@ -1142,14 +1142,14 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### Public Records (Scotland) Act 2011
 
-**8.**[^key-b5375e4283466d3f531648ae733f1885] In the schedule of the Public Records (Scotland) Act 2011, under the heading “Others”—
+**8.**[^c-b5375e4283466d3f531648ae733f1885] In the schedule of the Public Records (Scotland) Act 2011, under the heading “Others”—
 
 - (a) after the entry for Bòrd na Gàidhlig insert— “ Boundaries Scotland ”,
 - (b) the entry for the Local Government Boundary Commission for Scotland is repealed.
 
 ### Procurement Reform (Scotland) Act 2014
 
-**9.**[^key-5d24bc479024275bc97ebf568dc01bc7] In Part 3 of the schedule of the Procurement Reform (Scotland) Act 2014—
+**9.**[^c-5d24bc479024275bc97ebf568dc01bc7] In Part 3 of the schedule of the Procurement Reform (Scotland) Act 2014—
 
 - (a) after paragraph 23 insert—
 
@@ -1160,128 +1160,128 @@ The short title of this Act is the Scottish Elections (Reform) Act 2020.
 
 ### Gender Representation on Public Boards (Scotland) Act 2018
 
-**10.**[^key-2b9e011220beaf6d2114a98c53410b97] In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018 (public authorities)—
+**10.**[^c-2b9e011220beaf6d2114a98c53410b97] In schedule 1 of the Gender Representation on Public Boards (Scotland) Act 2018 (public authorities)—
 
 - (a) after the entry for Bòrd na Gàidhlig insert— “ Boundaries Scotland ”,
 - (b) the entry for the Local Government Boundary Commission for Scotland is repealed.
 
 ### Islands (Scotland) Act 2018
 
-**11.**[^key-0cabe459d6a8292957e7cf46daf6ed43] In section 20 of the Islands (Scotland) Act 2018 (reviews of wards in certain local government areas)—
+**11.**[^c-0cabe459d6a8292957e7cf46daf6ed43] In section 20 of the Islands (Scotland) Act 2018 (reviews of wards in certain local government areas)—
 
 - (a) in subsection (1), for “the Local Government Boundary Commission for Scotland (“Boundary Commission”)” substitute “ Boundaries Scotland ”,
 - (b) in subsection (3), for “the Boundary Commission” substitute “ Boundaries Scotland ”.
 
 ### Representation of the People (Scotland) Regulations 2001
 
-**12.**[^key-f895620fc1cd538cc59ee3641398c5ac] In regulation 100(1) of the Representation of the People (Scotland) Regulations 2001 (S.S.I. 2001/497), for “the Local Government Boundary Commission for Scotland” substitute “ Boundaries Scotland ”.
+**12.**[^c-f895620fc1cd538cc59ee3641398c5ac] In regulation 100(1) of the Representation of the People (Scotland) Regulations 2001 (S.S.I. 2001/497), for “the Local Government Boundary Commission for Scotland” substitute “ Boundaries Scotland ”.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000 (Codes of Conduct for Members of certain Scottish Public Authorities) Order 2006
 
-**13.**[^key-c64e7dc1dbd26d85e81ab62dd23b416c] In the schedule of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (Codes of Conduct for Members of certain Scottish Public Authorities) Order 2006 (S.S.I. 2006/26)—
+**13.**[^c-c64e7dc1dbd26d85e81ab62dd23b416c] In the schedule of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (Codes of Conduct for Members of certain Scottish Public Authorities) Order 2006 (S.S.I. 2006/26)—
 
 - (a) after the entry for Architecture and Design Scotland insert— “ Boundaries Scotland ”,
 - (b) the entry for the Local Government Boundary Commission for Scotland is revoked.
 
 ### Scottish Parliament (Disqualification) Order 2015
 
-**14.**[^key-a29591859a10c79b1f66018d71afabc4] In Part 1 of the schedule of the Scottish Parliament (Disqualification) Order 2015 (S.S.I. 2015/350)—
+**14.**[^c-a29591859a10c79b1f66018d71afabc4] In Part 1 of the schedule of the Scottish Parliament (Disqualification) Order 2015 (S.S.I. 2015/350)—
 
 - (a) after the entry relating to any member of Bòrd na Gàidhlig insert— “ Any member of Boundaries Scotland. ”,
 - (b) the entry relating to any member of the Local Government Boundary Commission for Scotland is revoked.
 
 ## Annotations
 
-[^key-beed58345760824fa11bc17205adea99]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/12/section/1) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-beed58345760824fa11bc17205adea99]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/12/section/1) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-36016a54e60290f72d94a78426e7561c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/12/section/2) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-36016a54e60290f72d94a78426e7561c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/12/section/2) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-403f7bba49bbfc4101d2c86707c6cd80]: Commencement: S. 3 in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-403f7bba49bbfc4101d2c86707c6cd80]: Commencement: S. 3 in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-e613ea1e42b23a314643d2c319d57766]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/12/section/4) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-e613ea1e42b23a314643d2c319d57766]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/12/section/4) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-4f042977e2ce17f9775fda4885302bfc]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/12/section/5) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-4f042977e2ce17f9775fda4885302bfc]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/12/section/5) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
-[^key-aeb4d12d825892df5538bd01a778e81a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/12/section/6) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-aeb4d12d825892df5538bd01a778e81a]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/12/section/6) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-0cbafa21cf2ced1961fbde3710f7f4eb]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/12/section/7) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-0cbafa21cf2ced1961fbde3710f7f4eb]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/12/section/7) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-a6fffacebe4cca94bb2ab75dc39d9a69]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/12/section/8) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-a6fffacebe4cca94bb2ab75dc39d9a69]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/12/section/8) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-dca3f308e2880b15ca818873be9eae02]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/12/section/9) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-dca3f308e2880b15ca818873be9eae02]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/12/section/9) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-e0e68eccab82f70b317aabb59e5e16dc]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/12/section/10) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-e0e68eccab82f70b317aabb59e5e16dc]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/12/section/10) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
-[^key-96b16fbdbfbc90034e3920386b6cfbce]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/12/section/11) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-96b16fbdbfbc90034e3920386b6cfbce]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/12/section/11) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-dfe549f7b45279dbf7def436bdf67458]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/12/section/12) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-dfe549f7b45279dbf7def436bdf67458]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/12/section/12) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
-[^key-708a7ac5da6189faa27397a52dae5365]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/12/section/13) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-708a7ac5da6189faa27397a52dae5365]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/12/section/13) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-d526debf379384ffc0de05af2f37daea]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/12/section/14) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-d526debf379384ffc0de05af2f37daea]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/12/section/14) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-fe080167460014156ee8d26c9de18c2f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/12/section/15) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-fe080167460014156ee8d26c9de18c2f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/12/section/15) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-4a404553dce4bb3ee5cdf4fcfa500f3d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/12/section/16) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-4a404553dce4bb3ee5cdf4fcfa500f3d]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/12/section/16) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-1bccd957ee40c629f49fe88acb0a9373]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/12/section/17) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-1bccd957ee40c629f49fe88acb0a9373]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/12/section/17) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-75b479353c189bdfff813ac4dc7a6f11]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/12/section/18) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-75b479353c189bdfff813ac4dc7a6f11]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/12/section/18) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-91cddf549d7c71110199fabb0b4e940a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/12/section/19) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-91cddf549d7c71110199fabb0b4e940a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/12/section/19) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-a1c5490cfaa73537b5aea69298fd830a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/12/section/20) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-a1c5490cfaa73537b5aea69298fd830a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/12/section/20) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
-[^key-7dc66736d18392a7985d482abed5459b]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/12/section/21) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
+[^c-7dc66736d18392a7985d482abed5459b]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/12/section/21) in force at 29.9.2021 by [S.S.I. 2021/311](https://www.legislation.gov.uk/ssi/2021/311), [reg. 2](https://www.legislation.gov.uk/ssi/2021/311/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/311/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/311/regulation/3))
 
-[^key-a45e9a221dc52d174f1ff7ee98ad042c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/12/section/22) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-a45e9a221dc52d174f1ff7ee98ad042c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/12/section/22) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-ef8cce352bc57a09be02e751d3f8f5a5]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/12/section/23) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-ef8cce352bc57a09be02e751d3f8f5a5]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/12/section/23) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-a444cfc70b361e8d53cfd416f35f1661]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/12/section/24) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-a444cfc70b361e8d53cfd416f35f1661]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/12/section/24) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-17a7fed7c57788810084c590f518ceec]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/12/section/25) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-17a7fed7c57788810084c590f518ceec]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/12/section/25) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-dfb452cad25be57ff1ef83533337dcf1]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/12/section/26) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-dfb452cad25be57ff1ef83533337dcf1]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/12/section/26) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-1fcbb90714515e0ab783765eb6c67122]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/12/section/27) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
+[^c-1fcbb90714515e0ab783765eb6c67122]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/12/section/27) in force at 1.10.2020 by [S.S.I. 2020/278](https://www.legislation.gov.uk/ssi/2020/278), [reg. 2](https://www.legislation.gov.uk/ssi/2020/278/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/278/schedule)
 
-[^key-28c7a0e5299c67ceed55c559c7722373]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/12/section/28) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-28c7a0e5299c67ceed55c559c7722373]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2020/12/section/28) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-3352f3a400b85e33d3a2e76467e27eee]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/12/section/29) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-3352f3a400b85e33d3a2e76467e27eee]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/12/section/29) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-8bd27925a0c46664327440f12d3be0f4]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2020/12/section/30) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-8bd27925a0c46664327440f12d3be0f4]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2020/12/section/30) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-5bd6982c27c79e35549bdfc7f77961fb]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2020/12/section/31) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/124/regulation/3))
+[^c-5bd6982c27c79e35549bdfc7f77961fb]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2020/12/section/31) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/124/regulation/3))
 
-[^key-3a1388e532090a20cccd273d36f75b11]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/12/section/32) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-3a1388e532090a20cccd273d36f75b11]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/12/section/32) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-18b656e9946fd0c377d3cb994df58736]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/12/section/33) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-18b656e9946fd0c377d3cb994df58736]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/12/section/33) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-1a824ba4ed8855c67e8b6dafc3a4fd9a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-1a824ba4ed8855c67e8b6dafc3a4fd9a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/1) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-51b4c5e0e840d6f30df097d65e23243e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/2) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-51b4c5e0e840d6f30df097d65e23243e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/2) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-e607f1fabb61a4a5fb79c7f5cf918686]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/3) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-e607f1fabb61a4a5fb79c7f5cf918686]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/3) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-bc29ad42bc76ef07ce704c7955783326]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/4) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-bc29ad42bc76ef07ce704c7955783326]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/4) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-9fb256667cb7c5cfad983ac731648bf6]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/5) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-9fb256667cb7c5cfad983ac731648bf6]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/5) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-797f94373ce467d3e80d89c3112099f8]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/6) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-797f94373ce467d3e80d89c3112099f8]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/6) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-a24d467f35224cdf36b7f18c93f14a46]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/7) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-a24d467f35224cdf36b7f18c93f14a46]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/7) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-b5375e4283466d3f531648ae733f1885]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/8) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-b5375e4283466d3f531648ae733f1885]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/8) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-5d24bc479024275bc97ebf568dc01bc7]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/9) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-5d24bc479024275bc97ebf568dc01bc7]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/9) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-2b9e011220beaf6d2114a98c53410b97]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/10) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-2b9e011220beaf6d2114a98c53410b97]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/10) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-0cabe459d6a8292957e7cf46daf6ed43]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/11) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-0cabe459d6a8292957e7cf46daf6ed43]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/11) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-f895620fc1cd538cc59ee3641398c5ac]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/12) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-f895620fc1cd538cc59ee3641398c5ac]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/12) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-c64e7dc1dbd26d85e81ab62dd23b416c]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/13) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-c64e7dc1dbd26d85e81ab62dd23b416c]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/13) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
 
-[^key-a29591859a10c79b1f66018d71afabc4]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/14) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)
+[^c-a29591859a10c79b1f66018d71afabc4]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2020/12/schedule/paragraph/14) in force at 14.5.2021 by [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule)

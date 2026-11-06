@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Amendment of regulation 4[^key-a514ec42bc85ebcc3314d629e37c2a32]
+## 124. Amendment of regulation 4[^c-a514ec42bc85ebcc3314d629e37c2a32]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 4 (payment of compensation)—
 
 ## Annotations
 
-[^key-a514ec42bc85ebcc3314d629e37c2a32]: Commencement: [Reg. 124](https://www.legislation.gov.uk/ssi/2011/364/regulation/124) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-a514ec42bc85ebcc3314d629e37c2a32]: Commencement: [Reg. 124](https://www.legislation.gov.uk/ssi/2011/364/regulation/124) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

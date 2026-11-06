@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2008/1
 
 Children And Young Persons, England
 
-The Childcare (Inspections) (Amendment) Regulations 2009 (revoked)[^key-a1ed7b5c5c526834a260581701590d4f]
+The Childcare (Inspections) (Amendment) Regulations 2009 (revoked)[^c-a1ed7b5c5c526834a260581701590d4f]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 31st July 2009
 
-[^key-a1ed7b5c5c526834a260581701590d4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1ed7b5c5c526834a260581701590d4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a1ed7b5c5c526834a260581701590d4f]
+## 1. Citation and commencement[^c-a1ed7b5c5c526834a260581701590d4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Childcare (Inspections) Regulations 2008[^key-a1ed7b5c5c526834a260581701590d4f]
+## 2. Amendment to the Childcare (Inspections) Regulations 2008[^c-a1ed7b5c5c526834a260581701590d4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1ed7b5c5c526834a260581701590d4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1ed7b5c5c526834a260581701590d4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1ed7b5c5c526834a260581701590d4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1ed7b5c5c526834a260581701590d4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1ed7b5c5c526834a260581701590d4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1508) revoked (1.8.2012) by [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1698/regulation/3)
+[^c-a1ed7b5c5c526834a260581701590d4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1508) revoked (1.8.2012) by [The Childcare (Inspections) (Amendment and Revocation) Regulations 2012 (S.I. 2012/1698)](https://www.legislation.gov.uk/uksi/2012/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1698/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/1698/regulation/3)

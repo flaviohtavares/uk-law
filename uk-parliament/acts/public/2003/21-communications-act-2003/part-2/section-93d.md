@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93D. Modification of commitments[^key-55668106a1ca74a9aff59136d7e2358f]
+## 93D. Modification of commitments[^c-55668106a1ca74a9aff59136d7e2358f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55668106a1ca74a9aff59136d7e2358f]: Textual amendment: Ss. 93A-93D and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/44)
+[^c-55668106a1ca74a9aff59136d7e2358f]: Textual amendment: Ss. 93A-93D and cross-heading inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/44)

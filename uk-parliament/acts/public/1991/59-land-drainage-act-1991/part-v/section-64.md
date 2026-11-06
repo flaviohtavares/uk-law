@@ -29,7 +29,7 @@ summary: ''
   - (ii) relate to the drainage of land; and
   - (iii) confer any powers or impose any duties on that board or authority.
 
-(1A)[^key-eb5b97ae497704607f1aabae6b098480] A person may not be authorised under subsection (1)(a) or (b) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+(1A)[^c-eb5b97ae497704607f1aabae6b098480] A person may not be authorised under subsection (1)(a) or (b) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
 
 (2) A person entitled under this section to enter any land—
 
@@ -43,7 +43,7 @@ summary: ''
 
 (4) Where injury is sustained by any person by reason of the exercise by an internal drainage board or local authority of any of their powers under this section, the board or authority shall be liable to make full compensation to the injured person.
 
-(5) In case of dispute, the amount of the compensation payable under subsection (4) above shall be determined by the Upper Tribunal[^key-18468dc9d984483fd1fd45daa0c2a93c].
+(5) In case of dispute, the amount of the compensation payable under subsection (4) above shall be determined by the Upper Tribunal[^c-18468dc9d984483fd1fd45daa0c2a93c].
 
 (6) If any person intentionally obstructs or impedes any person exercising a power conferred by this section, he shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 4 on the standard scale.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb5b97ae497704607f1aabae6b098480]: Textual amendment: [S. 64(1A)](https://www.legislation.gov.uk/ukpga/1991/59/section/64/1A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/21); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-eb5b97ae497704607f1aabae6b098480]: Textual amendment: [S. 64(1A)](https://www.legislation.gov.uk/ukpga/1991/59/section/64/1A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/21); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
-[^key-18468dc9d984483fd1fd45daa0c2a93c]: Textual amendment: Words in s. 64(5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 242](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/242) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-18468dc9d984483fd1fd45daa0c2a93c]: Textual amendment: Words in s. 64(5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 242](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/242) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

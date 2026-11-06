@@ -24,7 +24,7 @@ Article 13(5)
 
 ### PART 1 — GENERAL
 
-#### 1. Returning officers and polling stations[^key-c7482fdaf620b0b95f49f836f565eacc]
+#### 1. Returning officers and polling stations[^c-c7482fdaf620b0b95f49f836f565eacc]
 
 (1) Where the polls at a Scottish parliamentary general election and an ordinary local government election are taken together under article 13(1)—
 
@@ -36,7 +36,7 @@ Article 13(5)
 - (a) the returning officers for those elections shall decide which returning officer shall discharge in the area in which the polls are combined (“the combined area”) those functions of the other which are specified in paragraph 2; and
 - (b) the only polling stations which shall be used in the combined area at such elections are the polling stations used at the election for which the returning officer who discharges the functions referred to above acts as returning officer.
 
-#### 2. Functions at combined polls[^key-d4aed13deeb66843f516a5b4f9c6fe6c]
+#### 2. Functions at combined polls[^c-d4aed13deeb66843f516a5b4f9c6fe6c]
 
 (1) The functions referred to in paragraph 1 are the functions conferred or imposed—
 
@@ -57,7 +57,7 @@ and, where the proceedings on the issue and receipt of postal ballot papers at t
 - (h) rule 42(2)(b) (authorisation to order removal from polling station); and
 - (i) in rule 55 paragraph (1) (the count) (as substituted by paragraph 18 of this Schedule) and paragraph (5).
 
-#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^key-794c6b30bfcbdcce3e9a3e6c96b6163f]
+#### 3. Modification of provisions about expenses in this Order and the 1983 Act[^c-794c6b30bfcbdcce3e9a3e6c96b6163f]
 
 (1) Where those functions of a returning officer at an election which are specified in paragraph 2 are discharged by the returning officer at another election under paragraph 1, references to the returning officer or the returning officer’s charges or expenditure—
 
@@ -72,11 +72,11 @@ shall, to the extent that such functions are so discharged, be construed as refe
 
 ### PART 2 — MODIFICATIONS OF THE SCOTTISH PARLIAMENTARY ELECTION RULES
 
-#### 4. Modifications of the Scottish Parliamentary Election Rules: general provision[^key-ebf0def25b272719f06a8558cf07e2d7]
+#### 4. Modifications of the Scottish Parliamentary Election Rules: general provision[^c-ebf0def25b272719f06a8558cf07e2d7]
 
 Where the poll at a Scottish parliamentary election is taken with the poll at a local government election under article 13(1) or (2), the Scottish Parliamentary Election Rules shall have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
-#### 5. Colour of ballot papers where polls combined[^key-cbad17031c097dd5c4a4fda9a6435999]
+#### 5. Colour of ballot papers where polls combined[^c-cbad17031c097dd5c4a4fda9a6435999]
 
 After rule 28 there shall be added—
 
@@ -86,7 +86,7 @@ After rule 28 there shall be added—
 
 .
 
-#### 6. Rule 33 (notice of poll)[^key-988d32aa9a0662ac1381e2e0dea75423]
+#### 6. Rule 33 (notice of poll)[^c-988d32aa9a0662ac1381e2e0dea75423]
 
 At the end of rule 33 there shall be added—
 
@@ -98,7 +98,7 @@ At the end of rule 33 there shall be added—
 
 .
 
-#### 7. Rule 37 (issue of official poll cards)[^key-5275e4afb97d48309c62ef5c3384a6ee]
+#### 7. Rule 37 (issue of official poll cards)[^c-5275e4afb97d48309c62ef5c3384a6ee]
 
 At the end of rule 37 there shall be added—
 
@@ -106,7 +106,7 @@ At the end of rule 37 there shall be added—
 
 .
 
-#### 8. Rule 38 (equipment of polling stations)[^key-fa8d687bd824e07962c146fa1053a4ac]
+#### 8. Rule 38 (equipment of polling stations)[^c-fa8d687bd824e07962c146fa1053a4ac]
 
 (1) After paragraph (1) of rule 38 there shall be added—
 
@@ -116,7 +116,7 @@ At the end of rule 37 there shall be added—
 
 (3) In paragraph (12) of that rule, for “form O” there shall be substituted “form W”.
 
-#### 9. Rule 39 (appointment of polling and counting agents)[^key-de7b5a208eac23c1f294c46638b94d32]
+#### 9. Rule 39 (appointment of polling and counting agents)[^c-de7b5a208eac23c1f294c46638b94d32]
 
 After paragraph (6) of rule 39 there shall be added—
 
@@ -124,13 +124,13 @@ After paragraph (6) of rule 39 there shall be added—
 
 .
 
-#### 10. Rule 44 (questions to be put to voters)[^key-c77cb881d1288ee84648222025207dc8]
+#### 10. Rule 44 (questions to be put to voters)[^c-c77cb881d1288ee84648222025207dc8]
 
 (1) In paragraph (1) of rule 44, in questions 1(b), 2(b) and 4 before “election” there shall be inserted “Scottish parliamentary”.
 
 (2) In paragraph (1) of rule 44, in question 3(b) after “elsewhere” there shall be inserted “at this Scottish parliamentary election”.
 
-#### 11. Rule 46 (voting procedure)[^key-fcfe926efa4613da963fdf6bddec8200]
+#### 11. Rule 46 (voting procedure)[^c-fcfe926efa4613da963fdf6bddec8200]
 
 At the end of rule 46 there shall be added—
 
@@ -138,7 +138,7 @@ At the end of rule 46 there shall be added—
 
 .
 
-#### 12. Rule 47 (votes marked by presiding officer)[^key-df8c19a89e423b27a555566ba4350444]
+#### 12. Rule 47 (votes marked by presiding officer)[^c-df8c19a89e423b27a555566ba4350444]
 
 At the end of rule 47 there shall be added—
 
@@ -146,7 +146,7 @@ At the end of rule 47 there shall be added—
 
 .
 
-#### 13. Rule 48 (voting by persons with disabilities)[^key-b1e3bc7add95f127e93624dad013d030]
+#### 13. Rule 48 (voting by persons with disabilities)[^c-b1e3bc7add95f127e93624dad013d030]
 
 At the end of rule 48 there shall be added—
 
@@ -154,7 +154,7 @@ At the end of rule 48 there shall be added—
 
 .
 
-#### 14. Rule 49 (tendered ballot papers)[^key-1b835518b277b515e7d59db641e9c39c]
+#### 14. Rule 49 (tendered ballot papers)[^c-1b835518b277b515e7d59db641e9c39c]
 
 At the end of rule 49 there shall be added—
 
@@ -162,7 +162,7 @@ At the end of rule 49 there shall be added—
 
 .
 
-#### 15. Rule 52 (adjournment of poll in case of riot)[^key-e5f4d88f46d4bf85900587f55fb0c32f]
+#### 15. Rule 52 (adjournment of poll in case of riot)[^c-e5f4d88f46d4bf85900587f55fb0c32f]
 
 In rule 52(1) for “CRO” there shall be substituted—
 
@@ -170,7 +170,7 @@ In rule 52(1) for “CRO” there shall be substituted—
 
 .
 
-#### 16. Rule 53 (procedure on close of poll)[^key-9450497a7b840b41bce439214192bdf3]
+#### 16. Rule 53 (procedure on close of poll)[^c-9450497a7b840b41bce439214192bdf3]
 
 After rule 53(2) there shall be added—
 
@@ -180,7 +180,7 @@ After rule 53(2) there shall be added—
 
 .
 
-#### 17. Rule 54 (attendance at counting of votes)[^key-5d5355ba0fb0027f6ca4f9e42dbb30f2]
+#### 17. Rule 54 (attendance at counting of votes)[^c-5d5355ba0fb0027f6ca4f9e42dbb30f2]
 
 (1) For paragraphs (1) and (2) of rule 54 there shall be substituted the following paragraphs—
 
@@ -212,7 +212,7 @@ After rule 53(2) there shall be added—
 
 .
 
-#### 18. Rule 55 (the count)[^key-883506b50c7d0a187b60053c2df42f17]
+#### 18. Rule 55 (the count)[^c-883506b50c7d0a187b60053c2df42f17]
 
 For rule 55(1) there shall be substituted—
 
@@ -241,7 +241,7 @@ For rule 55(1) there shall be substituted—
 
 .
 
-#### 19. Rule 69 (orders for production of documents and records)[^key-f94a0823bac2fd4d76db44c3d67dcb24]
+#### 19. Rule 69 (orders for production of documents and records)[^c-f94a0823bac2fd4d76db44c3d67dcb24]
 
 After paragraph (8) of rule 69 there shall be added—
 
@@ -249,7 +249,7 @@ After paragraph (8) of rule 69 there shall be added—
 
 .
 
-#### 20. Countermand or abandonment of poll etc. on death of candidate[^key-59805a27b14220d82455ad80ecd241c8]
+#### 20. Countermand or abandonment of poll etc. on death of candidate[^c-59805a27b14220d82455ad80ecd241c8]
 
 (1) After rule 75 (regional election: death of candidate) there shall be added—
 
@@ -273,13 +273,13 @@ After paragraph (8) of rule 69 there shall be added—
 
 ### PART 3 — MODIFICATIONS OF THE SCOTTISH LOCAL GOVERNMENT ELECTIONS RULES
 
-#### 21. Modifications of the local elections rules: general provision[^key-39d12248472eac4a44778a121334981a]
+#### 21. Modifications of the local elections rules: general provision[^c-39d12248472eac4a44778a121334981a]
 
 (1) Where the poll at a local government election is taken together with the poll at a Scottish parliamentary election under article 13(1) or (2), the rules comprised in Schedule 1 to the Scottish Local Government Elections Order 2011[^f00103] shall have effect subject to the modifications set out in the remaining paragraphs of this Part.
 
 (2) In this Part the rules referred to in sub-paragraph (1) are referred to as “the local elections rules”.
 
-#### 22. Rule 14 of the local elections rules (the ballot papers)[^key-7948bddb53f70ed791fd6e4616771d83]
+#### 22. Rule 14 of the local elections rules (the ballot papers)[^c-7948bddb53f70ed791fd6e4616771d83]
 
 (1) After rule 14(2) of the local elections rules there shall be added—
 
@@ -293,7 +293,7 @@ After paragraph (8) of rule 69 there shall be added—
 
 .
 
-#### 23. Rule 20 of the local elections rules (notice of poll)[^key-5cbf544d72a0e4d2f813e6c613ffa82f]
+#### 23. Rule 20 of the local elections rules (notice of poll)[^c-5cbf544d72a0e4d2f813e6c613ffa82f]
 
 At the end of rule 20 of the local elections rules there shall be added—
 
@@ -305,7 +305,7 @@ At the end of rule 20 of the local elections rules there shall be added—
 
 .
 
-#### 24. Rule 24 of the local elections rules (issue of official poll cards and notifications)[^key-8072e225979d40ee03533690b7b99286]
+#### 24. Rule 24 of the local elections rules (issue of official poll cards and notifications)[^c-8072e225979d40ee03533690b7b99286]
 
 At the end of rule 24 of the local elections rules there shall be added—
 
@@ -313,7 +313,7 @@ At the end of rule 24 of the local elections rules there shall be added—
 
 .
 
-#### 25. Rule 25 of the local elections rules (equipment of polling stations)[^key-0c71ea49038c5aafb8cd392e5084a23f]
+#### 25. Rule 25 of the local elections rules (equipment of polling stations)[^c-0c71ea49038c5aafb8cd392e5084a23f]
 
 (1) After paragraph (1) of rule 25 of the local elections rules there shall be added—
 
@@ -331,7 +331,7 @@ At the end of rule 24 of the local elections rules there shall be added—
 
 .
 
-#### 26. Rule 26 of the local elections rules (appointment of polling and counting agents)[^key-5ed3518a079f6018d6097a941f695607]
+#### 26. Rule 26 of the local elections rules (appointment of polling and counting agents)[^c-5ed3518a079f6018d6097a941f695607]
 
 After rule 26(5) of the local elections rules there shall be added—
 
@@ -339,13 +339,13 @@ After rule 26(5) of the local elections rules there shall be added—
 
 .
 
-#### 27. Rule 31 of the local elections rules (questions to be put to voters)[^key-ffa217413ed0bc9b5880c8a25559a9f9]
+#### 27. Rule 31 of the local elections rules (questions to be put to voters)[^c-ffa217413ed0bc9b5880c8a25559a9f9]
 
 (1) In paragraph (3) of rule 31 of the local elections rules, in questions 1(b), 2(b) and 4 after “this election” there shall be inserted “for this local government area”.
 
 (2) In paragraph (3) of rule 31 of the local elections rules, in question 3(b) after “elsewhere” there shall be inserted “at the election for this local government area”.
 
-#### 28. Rule 33 of the local elections rules (voting procedure)[^key-6408b4fe25f0f4f00480ad7b53f0db7d]
+#### 28. Rule 33 of the local elections rules (voting procedure)[^c-6408b4fe25f0f4f00480ad7b53f0db7d]
 
 After rule 33(3) of the local elections rules there shall be added—
 
@@ -353,7 +353,7 @@ After rule 33(3) of the local elections rules there shall be added—
 
 .
 
-#### 29. Rule 34 of the local elections rules (votes marked by presiding officer)[^key-5ba18a275b23362bbcce0b687d2cfd42]
+#### 29. Rule 34 of the local elections rules (votes marked by presiding officer)[^c-5ba18a275b23362bbcce0b687d2cfd42]
 
 After rule 34(2) of the local elections rules there shall be added—
 
@@ -361,7 +361,7 @@ After rule 34(2) of the local elections rules there shall be added—
 
 .
 
-#### 30. Rule 35 of the local elections rules (voting by persons with disabilities)[^key-3ca65bd5e74729d5eeb7845841d4d2a3]
+#### 30. Rule 35 of the local elections rules (voting by persons with disabilities)[^c-3ca65bd5e74729d5eeb7845841d4d2a3]
 
 After rule 35(4) of the local elections rules there shall be added—
 
@@ -369,7 +369,7 @@ After rule 35(4) of the local elections rules there shall be added—
 
 .
 
-#### 31. Rule 36 of the local elections rules (tendered ballot papers)[^key-72d2a598093d51254899e73c96e11675]
+#### 31. Rule 36 of the local elections rules (tendered ballot papers)[^c-72d2a598093d51254899e73c96e11675]
 
 After rule 36(8) of the local election rules there shall be added—
 
@@ -377,11 +377,11 @@ After rule 36(8) of the local election rules there shall be added—
 
 .
 
-#### 32. Rule 39 of the local elections rules (adjournment of poll in case of riot)[^key-f557c1c61824d9735736258c9f6c3d4c]
+#### 32. Rule 39 of the local elections rules (adjournment of poll in case of riot)[^c-f557c1c61824d9735736258c9f6c3d4c]
 
 At the end of paragraph (1) of rule 39 of the local elections rules there shall be inserted “who discharges the functions specified in paragraph 2 of Schedule 5 to the Scottish Parliament (Elections etc.) Order 2015”.
 
-#### 33. Rule 40 of the local elections rules (procedure on close of poll)[^key-2bc268ac943ef0ddd0258525b8150582]
+#### 33. Rule 40 of the local elections rules (procedure on close of poll)[^c-2bc268ac943ef0ddd0258525b8150582]
 
 After rule 40(1) of the local elections rules there shall be added—
 
@@ -391,7 +391,7 @@ After rule 40(1) of the local elections rules there shall be added—
 
 .
 
-#### 34. Rule 41 of the local elections rules (attendance at counting of votes)[^key-7760297dc37f81c73fe8db6ba2b658f4]
+#### 34. Rule 41 of the local elections rules (attendance at counting of votes)[^c-7760297dc37f81c73fe8db6ba2b658f4]
 
 (1) For rule 41(1) of the local elections rules there shall be substituted—
 
@@ -409,7 +409,7 @@ After rule 40(1) of the local elections rules there shall be added—
 
 (3) In paragraph (3) of rule 41 before “counting of the votes” in the first place where those words occur, there shall be inserted “proceedings under rule 43(1) (as so substituted) or at the,” and before “the efficient” there shall be inserted “the efficient separating of the ballot papers or, as the case may be,”.
 
-#### 35. Rule 43 of the local elections rules (the count)[^key-c9bcec859289b30580b3bfda21565fa0]
+#### 35. Rule 43 of the local elections rules (the count)[^c-c9bcec859289b30580b3bfda21565fa0]
 
 (1) For paragraph (1) of rule 43 of the local elections rules there shall be substituted—
 
@@ -440,7 +440,7 @@ After rule 40(1) of the local elections rules there shall be added—
 
 (2) In paragraph (5) of rule 43 of the local elections rules, for “paragraph (1)(b)” there shall be substituted “paragraph (1)(d) or (1A)(b)”.
 
-#### 36. Rule 58 of the local elections rules (delivery of documents)[^key-671b05fcaea2e7c6207bf8f3c8d84c3d]
+#### 36. Rule 58 of the local elections rules (delivery of documents)[^c-671b05fcaea2e7c6207bf8f3c8d84c3d]
 
 Rule 58 of the local elections rules shall be renumbered as paragraph (1) of that rule and after paragraph (1) as so renumbered there shall be added—
 
@@ -448,7 +448,7 @@ Rule 58 of the local elections rules shall be renumbered as paragraph (1) of tha
 
 .
 
-#### 37. Rule 59 of the local election rules (orders for production of documents)[^key-9fc5369d07055c02d24eac32c7d13917]
+#### 37. Rule 59 of the local election rules (orders for production of documents)[^c-9fc5369d07055c02d24eac32c7d13917]
 
 (1) In rule 59 of the local elections rules, after paragraph (1)(b) (immediately before the word “or” following it), there shall be inserted—
 
@@ -475,7 +475,7 @@ Rule 58 of the local elections rules shall be renumbered as paragraph (1) of tha
 
 .
 
-#### 38. Rule 65 of local elections rules (countermand or abandonment of poll on death of party candidate)[^key-4019c2a1f32fd318d5d9576a1dfdc9ab]
+#### 38. Rule 65 of local elections rules (countermand or abandonment of poll on death of party candidate)[^c-4019c2a1f32fd318d5d9576a1dfdc9ab]
 
 After rule 65(2) of the local elections rules there shall be added—
 
@@ -483,7 +483,7 @@ After rule 65(2) of the local elections rules there shall be added—
 
 .
 
-#### 39. Rule 66 of local elections rules (abandonment of poll)[^key-e0f99c12b71c7bceb95c3871eebc5de3]
+#### 39. Rule 66 of local elections rules (abandonment of poll)[^c-e0f99c12b71c7bceb95c3871eebc5de3]
 
 For rule 66(2) to (6) of the local elections rules there shall be substituted—
 
@@ -499,102 +499,102 @@ For rule 66(2) to (6) of the local elections rules there shall be substituted—
 
 .
 
-#### 40. Local elections rules: postal voting statement[^key-d02b38accddda36b1f3d7b76800c3cb3]
+#### 40. Local elections rules: postal voting statement[^c-d02b38accddda36b1f3d7b76800c3cb3]
 
 In Part 7 of Schedule 1 to the local elections rules (forms for use at Scottish local government elections), for Form 8 (form of postal voting statement) there shall be substituted form T or, as the case may be, form X set out in the Appendix (which may be used with such variations as the circumstances may require).
 
-#### 41. Local elections rules: declaration by the companion of a voter with disabilities[^key-a2232dd83a91a1d318be473b100c820e]
+#### 41. Local elections rules: declaration by the companion of a voter with disabilities[^c-a2232dd83a91a1d318be473b100c820e]
 
 In Part 7 of Schedule 1 to the local elections rules (forms for use at Scottish local government elections), in Form 15 (form of declaration by the companion of a voter with disabilities), after “this election” wherever occurring insert “and the election now being held in this Scottish parliamentary constituency”.
 
 ## Annotations
 
-[^key-c7482fdaf620b0b95f49f836f565eacc]: Commencement: Sch. 5 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c7482fdaf620b0b95f49f836f565eacc]: Commencement: Sch. 5 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-d4aed13deeb66843f516a5b4f9c6fe6c]: Commencement: Sch. 5 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-d4aed13deeb66843f516a5b4f9c6fe6c]: Commencement: Sch. 5 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00100]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9); section 3 was amended by the Local Electoral Administration and Registration Services (Scotland) Act 2006, (asp 14), section 34(6); section 16 was amended by the Scottish Local Government (Elections) Act [2009 (asp 10)](https://www.legislation.gov.uk/asp/2009/10), section 2. The current rules are the Scottish Local Government Elections Rules 2011, comprising Schedule 1 to the Scottish Local Government Elections Order 2011 ([S.S.I. 2011/399](https://www.legislation.gov.uk/ssi/2011/399), amended by [S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60) and [S.S.I. 2012/342](https://www.legislation.gov.uk/ssi/2012/342)).
 
 [^f00101]: Footnote: Part 5 has been amended by [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), [S.I. 2006/834](https://www.legislation.gov.uk/uksi/2006/834), [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925), [S.I. 2008/305](https://www.legislation.gov.uk/uksi/2008/305) and [S.I. 2010/930](https://www.legislation.gov.uk/uksi/2010/930).
 
-[^key-794c6b30bfcbdcce3e9a3e6c96b6163f]: Commencement: Sch. 5 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-794c6b30bfcbdcce3e9a3e6c96b6163f]: Commencement: Sch. 5 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-ebf0def25b272719f06a8558cf07e2d7]: Commencement: Sch. 5 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-ebf0def25b272719f06a8558cf07e2d7]: Commencement: Sch. 5 para. 4 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-cbad17031c097dd5c4a4fda9a6435999]: Commencement: Sch. 5 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-cbad17031c097dd5c4a4fda9a6435999]: Commencement: Sch. 5 para. 5 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-988d32aa9a0662ac1381e2e0dea75423]: Commencement: Sch. 5 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-988d32aa9a0662ac1381e2e0dea75423]: Commencement: Sch. 5 para. 6 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-5275e4afb97d48309c62ef5c3384a6ee]: Commencement: Sch. 5 para. 7 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5275e4afb97d48309c62ef5c3384a6ee]: Commencement: Sch. 5 para. 7 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-fa8d687bd824e07962c146fa1053a4ac]: Commencement: Sch. 5 para. 8 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-fa8d687bd824e07962c146fa1053a4ac]: Commencement: Sch. 5 para. 8 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-de7b5a208eac23c1f294c46638b94d32]: Commencement: Sch. 5 para. 9 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-de7b5a208eac23c1f294c46638b94d32]: Commencement: Sch. 5 para. 9 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-c77cb881d1288ee84648222025207dc8]: Commencement: Sch. 5 para. 10 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c77cb881d1288ee84648222025207dc8]: Commencement: Sch. 5 para. 10 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-fcfe926efa4613da963fdf6bddec8200]: Commencement: Sch. 5 para. 11 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-fcfe926efa4613da963fdf6bddec8200]: Commencement: Sch. 5 para. 11 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-df8c19a89e423b27a555566ba4350444]: Commencement: Sch. 5 para. 12 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-df8c19a89e423b27a555566ba4350444]: Commencement: Sch. 5 para. 12 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-b1e3bc7add95f127e93624dad013d030]: Commencement: Sch. 5 para. 13 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-b1e3bc7add95f127e93624dad013d030]: Commencement: Sch. 5 para. 13 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-1b835518b277b515e7d59db641e9c39c]: Commencement: Sch. 5 para. 14 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-1b835518b277b515e7d59db641e9c39c]: Commencement: Sch. 5 para. 14 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-e5f4d88f46d4bf85900587f55fb0c32f]: Commencement: Sch. 5 para. 15 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e5f4d88f46d4bf85900587f55fb0c32f]: Commencement: Sch. 5 para. 15 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-9450497a7b840b41bce439214192bdf3]: Commencement: Sch. 5 para. 16 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-9450497a7b840b41bce439214192bdf3]: Commencement: Sch. 5 para. 16 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-5d5355ba0fb0027f6ca4f9e42dbb30f2]: Commencement: Sch. 5 para. 17 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5d5355ba0fb0027f6ca4f9e42dbb30f2]: Commencement: Sch. 5 para. 17 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-883506b50c7d0a187b60053c2df42f17]: Commencement: Sch. 5 para. 18 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-883506b50c7d0a187b60053c2df42f17]: Commencement: Sch. 5 para. 18 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-f94a0823bac2fd4d76db44c3d67dcb24]: Commencement: Sch. 5 para. 19 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f94a0823bac2fd4d76db44c3d67dcb24]: Commencement: Sch. 5 para. 19 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00102]: Footnote: [S.S.I. 2011/399](https://www.legislation.gov.uk/ssi/2011/399), amended by [S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60) and [S.S.I. 2012/342](https://www.legislation.gov.uk/ssi/2012/342).
 
-[^key-59805a27b14220d82455ad80ecd241c8]: Commencement: Sch. 5 para. 20 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-59805a27b14220d82455ad80ecd241c8]: Commencement: Sch. 5 para. 20 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-39d12248472eac4a44778a121334981a]: Commencement: Sch. 5 para. 21 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-39d12248472eac4a44778a121334981a]: Commencement: Sch. 5 para. 21 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00103]: Footnote: [S.S.I. 2011/399](https://www.legislation.gov.uk/ssi/2011/399), amended by [S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60) and [S.S.I. 2012/342](https://www.legislation.gov.uk/ssi/2012/342).
 
-[^key-7948bddb53f70ed791fd6e4616771d83]: Commencement: Sch. 5 para. 22 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7948bddb53f70ed791fd6e4616771d83]: Commencement: Sch. 5 para. 22 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-5cbf544d72a0e4d2f813e6c613ffa82f]: Commencement: Sch. 5 para. 23 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5cbf544d72a0e4d2f813e6c613ffa82f]: Commencement: Sch. 5 para. 23 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-8072e225979d40ee03533690b7b99286]: Commencement: Sch. 5 para. 24 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-8072e225979d40ee03533690b7b99286]: Commencement: Sch. 5 para. 24 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-0c71ea49038c5aafb8cd392e5084a23f]: Commencement: Sch. 5 para. 25 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-0c71ea49038c5aafb8cd392e5084a23f]: Commencement: Sch. 5 para. 25 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-5ed3518a079f6018d6097a941f695607]: Commencement: Sch. 5 para. 26 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5ed3518a079f6018d6097a941f695607]: Commencement: Sch. 5 para. 26 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-ffa217413ed0bc9b5880c8a25559a9f9]: Commencement: Sch. 5 para. 27 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-ffa217413ed0bc9b5880c8a25559a9f9]: Commencement: Sch. 5 para. 27 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-6408b4fe25f0f4f00480ad7b53f0db7d]: Commencement: Sch. 5 para. 28 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6408b4fe25f0f4f00480ad7b53f0db7d]: Commencement: Sch. 5 para. 28 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-5ba18a275b23362bbcce0b687d2cfd42]: Commencement: Sch. 5 para. 29 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5ba18a275b23362bbcce0b687d2cfd42]: Commencement: Sch. 5 para. 29 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-3ca65bd5e74729d5eeb7845841d4d2a3]: Commencement: Sch. 5 para. 30 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-3ca65bd5e74729d5eeb7845841d4d2a3]: Commencement: Sch. 5 para. 30 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-72d2a598093d51254899e73c96e11675]: Commencement: Sch. 5 para. 31 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-72d2a598093d51254899e73c96e11675]: Commencement: Sch. 5 para. 31 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-f557c1c61824d9735736258c9f6c3d4c]: Commencement: Sch. 5 para. 32 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f557c1c61824d9735736258c9f6c3d4c]: Commencement: Sch. 5 para. 32 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-2bc268ac943ef0ddd0258525b8150582]: Commencement: Sch. 5 para. 33 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-2bc268ac943ef0ddd0258525b8150582]: Commencement: Sch. 5 para. 33 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-7760297dc37f81c73fe8db6ba2b658f4]: Commencement: Sch. 5 para. 34 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7760297dc37f81c73fe8db6ba2b658f4]: Commencement: Sch. 5 para. 34 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-c9bcec859289b30580b3bfda21565fa0]: Commencement: Sch. 5 para. 35 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c9bcec859289b30580b3bfda21565fa0]: Commencement: Sch. 5 para. 35 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-671b05fcaea2e7c6207bf8f3c8d84c3d]: Commencement: Sch. 5 para. 36 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-671b05fcaea2e7c6207bf8f3c8d84c3d]: Commencement: Sch. 5 para. 36 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-9fc5369d07055c02d24eac32c7d13917]: Commencement: Sch. 5 para. 37 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-9fc5369d07055c02d24eac32c7d13917]: Commencement: Sch. 5 para. 37 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-4019c2a1f32fd318d5d9576a1dfdc9ab]: Commencement: Sch. 5 para. 38 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-4019c2a1f32fd318d5d9576a1dfdc9ab]: Commencement: Sch. 5 para. 38 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-e0f99c12b71c7bceb95c3871eebc5de3]: Commencement: Sch. 5 para. 39 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e0f99c12b71c7bceb95c3871eebc5de3]: Commencement: Sch. 5 para. 39 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-d02b38accddda36b1f3d7b76800c3cb3]: Commencement: Sch. 5 para. 40 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-d02b38accddda36b1f3d7b76800c3cb3]: Commencement: Sch. 5 para. 40 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-a2232dd83a91a1d318be473b100c820e]: Commencement: Sch. 5 para. 41 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a2232dd83a91a1d318be473b100c820e]: Commencement: Sch. 5 para. 41 in force at 16.12.2015 in accordance with art. 1(1)

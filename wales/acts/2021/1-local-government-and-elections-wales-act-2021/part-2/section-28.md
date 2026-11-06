@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Powers to make supplementary provision[^key-294c47787c561e092c5a3c461bbeb099]
+## 28. Powers to make supplementary provision[^c-294c47787c561e092c5a3c461bbeb099]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-294c47787c561e092c5a3c461bbeb099]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2021/1/section/28) in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/231/regulation/2/a)
+[^c-294c47787c561e092c5a3c461bbeb099]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2021/1/section/28) in force at 4.3.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 2(a)](https://www.legislation.gov.uk/wsi/2021/231/regulation/2/a)

@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Table of revocations[^key-2b99ad8f9679aa354ac13cb7cb32d229]
+### 1. Table of revocations[^c-2b99ad8f9679aa354ac13cb7cb32d229]
 
 The enactments cited in the table are revoked.
 
@@ -40,4 +40,4 @@ The enactments cited in the table are revoked.
 
 ## Annotations
 
-[^key-2b99ad8f9679aa354ac13cb7cb32d229]: Commencement: Sch. 1 para. 1 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-2b99ad8f9679aa354ac13cb7cb32d229]: Commencement: Sch. 1 para. 1 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

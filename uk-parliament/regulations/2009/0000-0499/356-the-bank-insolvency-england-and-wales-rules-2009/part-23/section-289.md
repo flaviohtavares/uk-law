@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 289. “Responsible insolvency practitioner”, etc.[^key-0229f4419f5834726e12f42480f8f0f3]
+## 289. “Responsible insolvency practitioner”, etc.[^c-0229f4419f5834726e12f42480f8f0f3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In relation to a bank insolvency, “**the responsible insolvency practitioner**
 
 ## Annotations
 
-[^key-0229f4419f5834726e12f42480f8f0f3]: Commencement: Rule 289 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-0229f4419f5834726e12f42480f8f0f3]: Commencement: Rule 289 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

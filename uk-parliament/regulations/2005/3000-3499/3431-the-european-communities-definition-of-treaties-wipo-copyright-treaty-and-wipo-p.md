@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (WIPO Copyright Treaty and WIPO Performances and Phonograms Treaty) Order 2005 (revoked)[^key-728681e12253a6e4098360edd0d788f6]
+The European Communities (Definition of Treaties) (WIPO Copyright Treaty and WIPO Performances and Phonograms Treaty) Order 2005 (revoked)[^c-728681e12253a6e4098360edd0d788f6]
 
 Made
 
@@ -48,34 +48,34 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-728681e12253a6e4098360edd0d788f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728681e12253a6e4098360edd0d788f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-728681e12253a6e4098360edd0d788f6]
+## 1.[^c-728681e12253a6e4098360edd0d788f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-728681e12253a6e4098360edd0d788f6]
+## 2.[^c-728681e12253a6e4098360edd0d788f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-728681e12253a6e4098360edd0d788f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728681e12253a6e4098360edd0d788f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-728681e12253a6e4098360edd0d788f6]
+## SCHEDULE[^c-728681e12253a6e4098360edd0d788f6]
 
-[^key-728681e12253a6e4098360edd0d788f6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-728681e12253a6e4098360edd0d788f6]
+[^c-728681e12253a6e4098360edd0d788f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-728681e12253a6e4098360edd0d788f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728681e12253a6e4098360edd0d788f6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-728681e12253a6e4098360edd0d788f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-728681e12253a6e4098360edd0d788f6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/3431) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-728681e12253a6e4098360edd0d788f6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/3431) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

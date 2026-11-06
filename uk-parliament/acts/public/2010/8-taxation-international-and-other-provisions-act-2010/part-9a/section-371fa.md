@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371FA. The basic rule[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371FA. The basic rule[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-815beda95bfb765b6595430ff4ebb26f] Take the following steps to determine the CFC's profits falling within this Chapter for the purposes of step 2 in section 371BB(1) (the CFC charge gateway).
+(1)[^c-815beda95bfb765b6595430ff4ebb26f] Take the following steps to determine the CFC's profits falling within this Chapter for the purposes of step 2 in section 371BB(1) (the CFC charge gateway).
 
 This is subject to regulations under section 371FD or 371FE.
 
@@ -51,6 +51,6 @@ This is subject to regulations under section 371FD or 371FE.
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-815beda95bfb765b6595430ff4ebb26f]: Modification: S. 371FA(1) excluded (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Controlled Foreign Companies (Excluded Banking Business Profits) Regulations 2012 (S.I. 2012/3041)](https://www.legislation.gov.uk/uksi/2012/3041), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/3/2)
+[^c-815beda95bfb765b6595430ff4ebb26f]: Modification: S. 371FA(1) excluded (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Controlled Foreign Companies (Excluded Banking Business Profits) Regulations 2012 (S.I. 2012/3041)](https://www.legislation.gov.uk/uksi/2012/3041), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/3041/regulation/3/2)

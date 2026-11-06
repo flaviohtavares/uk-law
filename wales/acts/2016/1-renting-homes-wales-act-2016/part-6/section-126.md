@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Variation by landlord of other terms: notice procedure[^key-bfaade65ca0d7b7e0246257e7b53113b]
+## 126. Variation by landlord of other terms: notice procedure[^c-bfaade65ca0d7b7e0246257e7b53113b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfaade65ca0d7b7e0246257e7b53113b]: Textual amendment: [S. 126](https://www.legislation.gov.uk/anaw/2016/1/section/126) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 12(3)](https://www.legislation.gov.uk/asc/2021/3/section/12/3), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-bfaade65ca0d7b7e0246257e7b53113b]: Textual amendment: [S. 126](https://www.legislation.gov.uk/anaw/2016/1/section/126) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [ss. 12(3)](https://www.legislation.gov.uk/asc/2021/3/section/12/3), [19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

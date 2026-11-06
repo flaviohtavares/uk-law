@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Obstruction of officers[^key-979dcbe984fcc80b4ecf78c0dee7570e]
+## 56. Obstruction of officers[^c-979dcbe984fcc80b4ecf78c0dee7570e]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-979dcbe984fcc80b4ecf78c0dee7570e]: Commencement: Art. 56 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-979dcbe984fcc80b4ecf78c0dee7570e]: Commencement: Art. 56 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

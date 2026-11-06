@@ -14,9 +14,9 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 69. The period of a reduction under section 19: higher-level sanctions[^key-0531c15e0b897aae6d20045afed927cf]
+## 69. The period of a reduction under section 19: higher-level sanctions[^c-0531c15e0b897aae6d20045afed927cf]
 
-(1)[^key-7d672e67d573a3b3a8f3633778fbb205] Subject to paragraphs (3) and (4), a reduction under section 19 (higher-level sanctions) in the circumstances described in the first column of the following table is to have effect for the period set out in the second column.
+(1)[^c-7d672e67d573a3b3a8f3633778fbb205] Subject to paragraphs (3) and (4), a reduction under section 19 (higher-level sanctions) in the circumstances described in the first column of the following table is to have effect for the period set out in the second column.
 
 |  |  |
 | --- | --- |
@@ -25,18 +25,18 @@ summary: ''
 | Where there have been one or more previous sanctionable failures by the claimant that fall within paragraph (2) and the date of the most recent previous sanctionable failure is not within 52 weeks beginning with the date of the current sanctionable failure | 13 weeks |
 | Where there have been one or more previous sanctionable failures by the claimant that fall within paragraph (2) and the date of the most recent previous sanctionable failure is within 52 weeks, but not within 2 weeks, beginning with the date of the current sanctionable failure and the period of reduction applicable to the most recent previous sanctionable failure is or, but for paragraph (4), would have been— |  |
 | (a) 13 weeks | 26 weeks |
-| (b) 26 weeks | 26 weeks[^key-15f1bb0c6e08e4104c0bb1e2247a553b] |
-| (c) [^key-7d2fe0e6fd1cca03c0673d13603e2fcb]... | [^key-7d2fe0e6fd1cca03c0673d13603e2fcb]. . . |
+| (b) 26 weeks | 26 weeks[^c-15f1bb0c6e08e4104c0bb1e2247a553b] |
+| (c) [^c-7d2fe0e6fd1cca03c0673d13603e2fcb]... | [^c-7d2fe0e6fd1cca03c0673d13603e2fcb]. . . |
 | Where there have been one or more previous sanctionable failures by the claimant that fall within paragraph (2) and the date of the most recent previous sanctionable failure is within 2 weeks beginning with the date of the current sanctionable failure and the period of reduction applicable to the most recent previous sanctionable failure is or, but for paragraph (4), would have been— |  |
 | (a) 13 weeks | 13 weeks |
 | (b) 26 weeks | 26 weeks |
-| (c) [^key-0db12e5a77fa38d0dbf3e87132e0c5fd]... | [^key-0db12e5a77fa38d0dbf3e87132e0c5fd].... |
+| (c) [^c-0db12e5a77fa38d0dbf3e87132e0c5fd]... | [^c-0db12e5a77fa38d0dbf3e87132e0c5fd].... |
 
 (2) A previous sanctionable failure referred to in paragraph (1) falls within this paragraph if—
 
-- (a) the failure resulted in a decision to reduce the claimant’s award in accordance with section 19 and[^key-8bf29072162e034c6c52ec664a33de89];
-- (b) in the case of a joint-claim couple, the failure was by the same claimant; [^key-c5ab0d07d5f00a75ebe6ba44f7d2c8c9]...
-- (c)[^key-c5ab0d07d5f00a75ebe6ba44f7d2c8c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the failure resulted in a decision to reduce the claimant’s award in accordance with section 19 and[^c-8bf29072162e034c6c52ec664a33de89];
+- (b) in the case of a joint-claim couple, the failure was by the same claimant; [^c-c5ab0d07d5f00a75ebe6ba44f7d2c8c9]...
+- (c)[^c-c5ab0d07d5f00a75ebe6ba44f7d2c8c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a claimant’s award has been reduced in relation to a sanctionable failure which is specified in section 19(2)(a), (b) or (d) and which occurred before the date of claim for a jobseeker’s allowance, any such failure must not be counted for the purpose of determining the period of a reduction for a subsequent sanctionable failure under section 19.
 
@@ -59,16 +59,16 @@ the reduction relating to that failure is to have effect for the period beginnin
 
 ## Annotations
 
-[^key-0531c15e0b897aae6d20045afed927cf]: Textual amendment: [Regs. 69-69B](https://www.legislation.gov.uk/uksi/1996/207/regulation/69) substituted for [reg. 69](https://www.legislation.gov.uk/uksi/1996/207/regulation/69) (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/2)
+[^c-0531c15e0b897aae6d20045afed927cf]: Textual amendment: [Regs. 69-69B](https://www.legislation.gov.uk/uksi/1996/207/regulation/69) substituted for [reg. 69](https://www.legislation.gov.uk/uksi/1996/207/regulation/69) (22.10.2012) by [The Jobseeker’s Allowance (Sanctions) (Amendment) Regulations 2012 (S.I. 2012/2568)](https://www.legislation.gov.uk/uksi/2012/2568), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2568/regulation/2/2)
 
-[^key-7d672e67d573a3b3a8f3633778fbb205]: Textual amendment: [Reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/678/regulation/3/2/a)
+[^c-7d672e67d573a3b3a8f3633778fbb205]: Textual amendment: [Reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2016/678/regulation/3/2/a)
 
-[^key-15f1bb0c6e08e4104c0bb1e2247a553b]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) table substituted (27.11.2019) by [The Jobseeker’s Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/2/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
+[^c-15f1bb0c6e08e4104c0bb1e2247a553b]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) table substituted (27.11.2019) by [The Jobseeker’s Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/2/a/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
 
-[^key-7d2fe0e6fd1cca03c0673d13603e2fcb]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) table omitted (27.11.2019) by virtue of [The Jobseeker’s Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/2/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
+[^c-7d2fe0e6fd1cca03c0673d13603e2fcb]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) table omitted (27.11.2019) by virtue of [The Jobseeker’s Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/2/a/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
 
-[^key-0db12e5a77fa38d0dbf3e87132e0c5fd]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) table omitted (27.11.2019) by virtue of [The Jobseeker’s Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
+[^c-0db12e5a77fa38d0dbf3e87132e0c5fd]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/1) table omitted (27.11.2019) by virtue of [The Jobseeker’s Allowance and Universal Credit (Higher-Level Sanctions) (Amendment) Regulations 2019 (S.I. 2019/1357)](https://www.legislation.gov.uk/uksi/2019/1357), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1357/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1357/regulation/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1357/regulation/5))
 
-[^key-8bf29072162e034c6c52ec664a33de89]: Textual amendment: Word in [reg. 69(2)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/2/a) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/678/regulation/3/2/b/i)
+[^c-8bf29072162e034c6c52ec664a33de89]: Textual amendment: Word in [reg. 69(2)(a)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/2/a) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2016/678/regulation/3/2/b/i)
 
-[^key-c5ab0d07d5f00a75ebe6ba44f7d2c8c9]: Textual amendment: [Reg. 69(2)(c)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/2/c) and word omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/678/regulation/3/2/b/ii)
+[^c-c5ab0d07d5f00a75ebe6ba44f7d2c8c9]: Textual amendment: [Reg. 69(2)(c)](https://www.legislation.gov.uk/uksi/1996/207/regulation/69/2/c) and word omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Social Security (Jobseeker’s Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/678/regulation/3/2/b/ii)

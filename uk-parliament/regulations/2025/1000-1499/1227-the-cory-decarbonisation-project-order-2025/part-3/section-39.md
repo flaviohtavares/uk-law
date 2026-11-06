@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Statutory undertakers[^key-43fcf6226abfdfffa8a5f7284ff7b40b]
+## 39. Statutory undertakers[^c-43fcf6226abfdfffa8a5f7284ff7b40b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Subject to the provisions of article 30(2) (compulsory acquisition of rights) an
 
 ## Annotations
 
-[^key-43fcf6226abfdfffa8a5f7284ff7b40b]: Commencement: Art. 39 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-43fcf6226abfdfffa8a5f7284ff7b40b]: Commencement: Art. 39 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

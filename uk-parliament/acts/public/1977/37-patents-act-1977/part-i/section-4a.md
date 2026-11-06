@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Methods of treatment or diagnosis[^key-afeaae0c948c400acfb65a103edaa050]
+## 4A. Methods of treatment or diagnosis[^c-afeaae0c948c400acfb65a103edaa050]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afeaae0c948c400acfb65a103edaa050]: Textual amendment: S. 4A inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 1](https://www.legislation.gov.uk/ukpga/2004/16/section/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/a)
+[^c-afeaae0c948c400acfb65a103edaa050]: Textual amendment: S. 4A inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 1](https://www.legislation.gov.uk/ukpga/2004/16/section/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/a)

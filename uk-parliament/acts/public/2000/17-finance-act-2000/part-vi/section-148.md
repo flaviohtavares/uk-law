@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Use of minimum wage information.[^key-620c64a24be3c10fbdd5f3fbcfa61018]
+## 148. Use of minimum wage information.[^c-620c64a24be3c10fbdd5f3fbcfa61018]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-620c64a24be3c10fbdd5f3fbcfa61018]: Textual amendment: S. 148 omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 71](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/71) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)
+[^c-620c64a24be3c10fbdd5f3fbcfa61018]: Textual amendment: S. 148 omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 71](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/71) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)

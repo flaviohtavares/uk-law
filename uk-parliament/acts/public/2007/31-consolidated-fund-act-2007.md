@@ -29,33 +29,33 @@ Consolidated Fund Act 2007 (repealed)
 
 2007 c. 31
 
-[^key-babb71e31794f37fa46d11989cafa6be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-babb71e31794f37fa46d11989cafa6be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Use of resources for the year ending with 31st March 2008[^key-babb71e31794f37fa46d11989cafa6be][^key-babb71e31794f37fa46d11989cafa6be]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Issue out of the Consolidated Fund for the year ending with 31st March 2008[^key-babb71e31794f37fa46d11989cafa6be][^key-babb71e31794f37fa46d11989cafa6be]
+## 1. Use of resources for the year ending with 31st March 2008[^c-babb71e31794f37fa46d11989cafa6be][^c-babb71e31794f37fa46d11989cafa6be]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources for the year ending with 31st March 2009[^key-babb71e31794f37fa46d11989cafa6be][^key-babb71e31794f37fa46d11989cafa6be]
+## 2. Issue out of the Consolidated Fund for the year ending with 31st March 2008[^c-babb71e31794f37fa46d11989cafa6be][^c-babb71e31794f37fa46d11989cafa6be]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue out of the Consolidated Fund for the year ending with 31st March 2009[^key-babb71e31794f37fa46d11989cafa6be][^key-babb71e31794f37fa46d11989cafa6be]
+## 3. Use of resources for the year ending with 31st March 2009[^c-babb71e31794f37fa46d11989cafa6be][^c-babb71e31794f37fa46d11989cafa6be]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title[^key-babb71e31794f37fa46d11989cafa6be][^key-babb71e31794f37fa46d11989cafa6be]
+## 4. Issue out of the Consolidated Fund for the year ending with 31st March 2009[^c-babb71e31794f37fa46d11989cafa6be][^c-babb71e31794f37fa46d11989cafa6be]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Short title[^c-babb71e31794f37fa46d11989cafa6be][^c-babb71e31794f37fa46d11989cafa6be]
 
 **No longer in force.**
 
@@ -63,4 +63,4 @@ Consolidated Fund Act 2007 (repealed)
 
 ## Annotations
 
-[^key-babb71e31794f37fa46d11989cafa6be]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2007/31) repealed (21.7.2009) by [Appropriation (No. 2) Act 2009 (c. 9)](https://www.legislation.gov.uk/ukpga/2009/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2009/9/schedule/3)
+[^c-babb71e31794f37fa46d11989cafa6be]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2007/31) repealed (21.7.2009) by [Appropriation (No. 2) Act 2009 (c. 9)](https://www.legislation.gov.uk/ukpga/2009/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2009/9/schedule/3)

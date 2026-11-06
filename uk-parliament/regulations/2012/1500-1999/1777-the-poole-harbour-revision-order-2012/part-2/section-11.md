@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Offences as to moorings, etc.[^key-28ad6c2453670372aca4022237891f66]
+## 11. Offences as to moorings, etc.[^c-28ad6c2453670372aca4022237891f66]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ the Commissioners may recover the amounts referred to in paragraph (3)(c) net of
 
 ## Annotations
 
-[^key-28ad6c2453670372aca4022237891f66]: Commencement: Art. 11 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-28ad6c2453670372aca4022237891f66]: Commencement: Art. 11 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

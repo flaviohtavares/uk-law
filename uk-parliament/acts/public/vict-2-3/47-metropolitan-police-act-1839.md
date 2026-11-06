@@ -107,7 +107,7 @@ If it shall appear to the commissioners of police that any fair [^c555789]... ho
 
 Provided nevertheless, that if the owner or occupier of the ground whereon any such fair has been . . . [^c555799] holden shall, when summoned before the magistrate, enter into a recognizance in the penal sum of two hundred pounds (which recognizance such magistrate is hereby authorized to take) with condition to appear in the High Court[^c555800] on the first day of the then next term and to answer to any information which her Majesty’s attorney [^c555801]. . . general may exhibit against such owner or occupier touching his right and title to such fair, and to abide the judgment of the court thereon, and to pay such costs as may be awarded by the court, which costs the said court is hereby authorized to award, then, notwithstanding the magistrate may have declared such fair to be unlawful, the commissioners of police shall forbear from giving notice of such declaration, and from taking any further measures thereon, until judgment shall be given by the said court against the right and title to such fair; and the magistrate taking such recognizance shall forthwith transmit the same to one of her Majesty’s principal secretaries of state, to the end that the same may be filed in the said court, and such further directions may be given thereon as to such secretary of state may seem fit.
 
-## 41. Freemen of vintners company subject to certain provisions.[^key-a6ec5e04c9b1d53ca645f6fe4748a0e8]
+## 41. Freemen of vintners company subject to certain provisions.[^c-a6ec5e04c9b1d53ca645f6fe4748a0e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -115,13 +115,13 @@ Provided nevertheless, that if the owner or occupier of the ground whereon any s
 
 ## 44. Regulations of 9G. 4. c. 61 respecting public houses to extend to other houses of public resort.[^c555803]
 
-[^c555805] . . . Every person who shall have or keep any house, shop, room, or place of public resort within the metropolitan police district, wherein provisions, liquors, or refreshments of any kind shall be sold or consumed, (whether the same shall be kept or retailed therein or procured elsewhere,) and who shall wilfully or knowingly permit drunkenness or other disorderly conduct in such house, shop, room, or place[^key-fcab3b1e70db32db95757d7c0531dd8f]... or knowingly permit or suffer prostitutes or persons of notoriously bad character to meet together and remain therein, shall for every such offence be liable to a penalty of not more than level 1 on the standard scale[^c555806]: . . . [^c555807]
+[^c555805] . . . Every person who shall have or keep any house, shop, room, or place of public resort within the metropolitan police district, wherein provisions, liquors, or refreshments of any kind shall be sold or consumed, (whether the same shall be kept or retailed therein or procured elsewhere,) and who shall wilfully or knowingly permit drunkenness or other disorderly conduct in such house, shop, room, or place[^c-fcab3b1e70db32db95757d7c0531dd8f]... or knowingly permit or suffer prostitutes or persons of notoriously bad character to meet together and remain therein, shall for every such offence be liable to a penalty of not more than level 1 on the standard scale[^c555806]: . . . [^c555807]
 
 ## 45. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555808]
 
 ## 46. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555809]
 
-## 47. Places used for bear-baiting, cock-fighting, &c.[^key-127198ce07ed0d3f3df7fe333ac45f7e]
+## 47. Places used for bear-baiting, cock-fighting, &c.[^c-127198ce07ed0d3f3df7fe333ac45f7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -251,7 +251,7 @@ Whenever any person having charge of any horse, cart, carriage, or boat, or any 
 
 ## 74. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c555863]
 
-## 75. Meaning of “magistrate” in this Act[^key-15fe0ffef6d6fe42a27f98efd6c794c7]
+## 75. Meaning of “magistrate” in this Act[^c-15fe0ffef6d6fe42a27f98efd6c794c7]
 
 In this Act “**magistrate**” means any two justices of the peace sitting together in public.
 
@@ -355,7 +355,7 @@ This Act shall be construed as one Act with the Metropolitan Police Act 1829; an
 
 [^c555801]: Textual amendment: Words in [s. 40](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/40) repealed (30.9.1997) by [1997 c. 60](https://www.legislation.gov.uk/ukpga/1997/60), [s. 3(2)(3)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/2/3), [Sch.](https://www.legislation.gov.uk/ukpga/1997/60/schedule)
 
-[^key-a6ec5e04c9b1d53ca645f6fe4748a0e8]: Textual amendment: S. 41 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [arts. 1(2), 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-a6ec5e04c9b1d53ca645f6fe4748a0e8]: Textual amendment: S. 41 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [arts. 1(2), 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c555802]: Textual amendment: [Ss. 42](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/42), [43](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/43) repealed by [Licensing Act 1872 (c. 94)](https://www.legislation.gov.uk/ukpga/1872/94), [Sch. 2](https://www.legislation.gov.uk/ukpga/1872/94/schedule/2)
 
@@ -363,7 +363,7 @@ This Act shall be construed as one Act with the Metropolitan Police Act 1829; an
 
 [^c555805]: Textual amendment: Recital omitted under authority of [Statute Law Revision (No. 2) Act 1890 (c. 51)](https://www.legislation.gov.uk/ukpga/1890/51)
 
-[^key-fcab3b1e70db32db95757d7c0531dd8f]: Textual amendment: Words in s. 44 repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 16 para. 1(a)](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/1/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354), [Sch. 16 paras. 21](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/21)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-fcab3b1e70db32db95757d7c0531dd8f]: Textual amendment: Words in s. 44 repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 16 para. 1(a)](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/1/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354), [Sch. 16 paras. 21](https://www.legislation.gov.uk/ukpga/2005/19/schedule/16/paragraph/21)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
 [^c555806]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
@@ -373,7 +373,7 @@ This Act shall be construed as one Act with the Metropolitan Police Act 1829; an
 
 [^c555809]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/46) repealed by [Theatres Act 1968 (c. 54)](https://www.legislation.gov.uk/ukpga/1968/54), [Sch. 3](https://www.legislation.gov.uk/ukpga/1968/54/schedule/3)
 
-[^key-127198ce07ed0d3f3df7fe333ac45f7e]: Textual amendment: S. 47 repealed (E.W.) (27.3.2007 for W. and 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m); S.I. 2007/499, art. 2(2)(m)
+[^c-127198ce07ed0d3f3df7fe333ac45f7e]: Textual amendment: S. 47 repealed (E.W.) (27.3.2007 for W. and 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m); S.I. 2007/499, art. 2(2)(m)
 
 [^c555815]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/48) repealed by [Betting and Gaming Act 1960 (c. 60)](https://www.legislation.gov.uk/ukpga/1960/60), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1960/60/schedule/6/part/I)
 
@@ -455,7 +455,7 @@ This Act shall be construed as one Act with the Metropolitan Police Act 1829; an
 
 [^c555863]: Textual amendment: [S. 74](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/74) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/I)
 
-[^key-15fe0ffef6d6fe42a27f98efd6c794c7]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/75) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-15fe0ffef6d6fe42a27f98efd6c794c7]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/Vict/2-3/47/section/75) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c555871]: Modification: Reference to a magistrate of the police courts of the metropolis to be construed as reference to a metropolitan stipendiary magistrate sitting in a magistrates' court in the same court-house as the chief metropolitan stipendiary magistrate: [Administration of Justice Act 1964 (c. 42)](https://www.legislation.gov.uk/ukpga/1964/42), [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/ukpga/1964/42/schedule/3/part/I/paragraph/3)
 

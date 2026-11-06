@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Additional requirements in respect of warrants affecting overseas operators[^key-71afee69a9e7b06b3537507935606626]
+## 139. Additional requirements in respect of warrants affecting overseas operators[^c-71afee69a9e7b06b3537507935606626]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71afee69a9e7b06b3537507935606626]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2016/25/section/139) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/d)
+[^c-71afee69a9e7b06b3537507935606626]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2016/25/section/139) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Proof altered after payment of dividend[^key-4beb685b547861fba3858e9adcbff8c1]
+## 148. Proof altered after payment of dividend[^c-4beb685b547861fba3858e9adcbff8c1]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4beb685b547861fba3858e9adcbff8c1]: Commencement: [Rule 148](https://www.legislation.gov.uk/nisr/2026/11/rule/148) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4beb685b547861fba3858e9adcbff8c1]: Commencement: [Rule 148](https://www.legislation.gov.uk/nisr/2026/11/rule/148) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

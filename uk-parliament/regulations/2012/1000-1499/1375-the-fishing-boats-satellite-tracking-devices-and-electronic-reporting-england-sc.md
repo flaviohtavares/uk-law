@@ -48,7 +48,7 @@ Coming into force
 
 28th May 2012
 
-The Secretary of State, in whom the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] are now vested[^f00002], makes this Scheme in exercise of those powers, with the approval of the Treasury.[^key-b6339aaed233713aa90bfa3132c458c3]
+The Secretary of State, in whom the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] are now vested[^f00002], makes this Scheme in exercise of those powers, with the approval of the Treasury.[^c-b6339aaed233713aa90bfa3132c458c3]
 
 ## PART 1 — INTRODUCTORY PROVISIONS
 
@@ -322,7 +322,7 @@ A full impact assessment has not been produced for this instrument.
 
 [^f00002]: Footnote: The function of the Minister of Agriculture, Fisheries and Food was transferred to the Secretary of State by article 2(2) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-b6339aaed233713aa90bfa3132c458c3]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/1/a), [(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b6339aaed233713aa90bfa3132c458c3]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/1/a), [(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00003]: Footnote: OJ No L 343, 22.12.2009, p.1.
 

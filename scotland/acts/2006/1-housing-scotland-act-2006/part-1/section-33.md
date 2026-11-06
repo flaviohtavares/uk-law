@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Demolition notices[^key-45543b01af48e3053b50c5de5659fef3]
+## 33. Demolition notices[^c-45543b01af48e3053b50c5de5659fef3]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45543b01af48e3053b50c5de5659fef3]: Commencement: S. 33 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-45543b01af48e3053b50c5de5659fef3]: Commencement: S. 33 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -184,27 +184,27 @@ The enactments and instruments mentioned in Schedule 6 to this Act (which relate
 - (b) the manner in which the members are to be appointed and the period for which, and the terms on which, they are to hold office; and
 - (c) the manner in which they may be removed.
 
-(1A)[^key-7754a82b0f92a93a1a1790f91c40e845] The regulations may give the committees functions relating to one or more of the following—
+(1A)[^c-7754a82b0f92a93a1a1790f91c40e845] The regulations may give the committees functions relating to one or more of the following—
 
 - (a) war pensions;
 - (b) war pensioners;
 - (c) AFCS benefits;
 - (d) AFCS benefit recipients.
 
-(2) [^key-c6db8b1e66230a2318aace859d76b883]... the regulations may, in particular, provide that it is a function of a committee[^key-d7ae6e5e580cbe461df23bcf12891629] —
+(2) [^c-c6db8b1e66230a2318aace859d76b883]... the regulations may, in particular, provide that it is a function of a committee[^c-d7ae6e5e580cbe461df23bcf12891629] —
 
-- (a) to consider any matter connected with war pensions or AFCS benefits or affecting people in its area who are war pensioners or AFCS benefit recipients and, where it thinks[^key-0949c54d2dd6c9aa8635d27525aadcfb] it appropriate, to make recommendations to the Secretary of State about that matter;
-- (b) to consider complaints made to it by people receiving or claiming war pensions or AFCS benefits and, if it thinks[^key-01bd6d1b63b29d2b2ccfeb88a05cdea6] fit, to make representations about those complaints to the Secretary of State;
-- (c) to consider any matters referred to it[^key-705e0c0834704a63e8d5263fad6146e8] by the Secretary of State and to report to him on those matters with such recommendations as it[^key-32760783d3cc9e73cffa90653f52c555] may think fit; and
-- (d) to assist the War Pensioners’ Welfare Service in looking after the welfare of people in its area who are war pensioners or AFCS benefit recipients[^key-547c5ad001db88e36b05fdac56c38fa2] .
+- (a) to consider any matter connected with war pensions or AFCS benefits or affecting people in its area who are war pensioners or AFCS benefit recipients and, where it thinks[^c-0949c54d2dd6c9aa8635d27525aadcfb] it appropriate, to make recommendations to the Secretary of State about that matter;
+- (b) to consider complaints made to it by people receiving or claiming war pensions or AFCS benefits and, if it thinks[^c-01bd6d1b63b29d2b2ccfeb88a05cdea6] fit, to make representations about those complaints to the Secretary of State;
+- (c) to consider any matters referred to it[^c-705e0c0834704a63e8d5263fad6146e8] by the Secretary of State and to report to him on those matters with such recommendations as it[^c-32760783d3cc9e73cffa90653f52c555] may think fit; and
+- (d) to assist the War Pensioners’ Welfare Service in looking after the welfare of people in its area who are war pensioners or AFCS benefit recipients[^c-547c5ad001db88e36b05fdac56c38fa2] .
 
 (3) The regulations may include provisions with respect to the manner in which the committees are to discharge the functions conferred on them; and they shall exercise their functions subject to, and in accordance with, any such provisions.
 
-(3A)[^key-3f6377327dd8c6e5a492d6f91fe53ab3] The regulations may provide for the committees to have names specified in the regulations (as well as being known as war pensions committees).
+(3A)[^c-3f6377327dd8c6e5a492d6f91fe53ab3] The regulations may provide for the committees to have names specified in the regulations (as well as being known as war pensions committees).
 
 (4) In this section—
 
-- “[^key-c6e6e862566b3e29024bae97b0306b30]**AFCS benefit**” means a benefit payable under an armed and reserve forces compensation scheme established by order under section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004;
+- “[^c-c6e6e862566b3e29024bae97b0306b30]**AFCS benefit**” means a benefit payable under an armed and reserve forces compensation scheme established by order under section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004;
 - “**AFCS benefit recipient**” means a person in receipt of an AFCS benefit, in the person's capacity as such;
 - “**war pension**” means—
 - (a) any pension or other benefit, payable otherwise than under an enactment, for or in respect of a person who has died or been disabled in consequence of service as a member of the armed forces of the Crown,
@@ -489,13 +489,13 @@ but persons of either sex may instead elect to receive the less favourable treat
 - (a) the more favourable treatment required by paragraph 3(1) is treatment no less favourable than would be accorded to the member in accordance with the normal employment requirement; and
 - (b) paragraph 3(2) does not authorise the making of any such election as is there mentioned;
 
-but, in respect of any period of paid paternity leave, a member shall only be required to pay contributions on the amount of contractual remuneration or statutory paternity pay[^key-1e54fd30fd9ff1b0b69600ef5155d8fa] actually paid to or for him in respect of that period.
+but, in respect of any period of paid paternity leave, a member shall only be required to pay contributions on the amount of contractual remuneration or statutory paternity pay[^c-1e54fd30fd9ff1b0b69600ef5155d8fa] actually paid to or for him in respect of that period.
 
 (4) In this paragraph—
 
 - “period of paid paternity leave”, in the case of a member, means a period—
-  - (a) [^key-66813464f1481cfa6f4379e400004e5c] throughout which the member is absent from work in circumstances where sub-paragraph (5), (6) , (7)[^c21251571], (7A) or (7B)[^key-49398e6846818420857a60679f376c8d] ... applies, and
-  - (b) for which the employer (or if he is no longer in his employment, his former employer) pays him any contractual remuneration or statutory paternity pay[^key-4a5f1d98eefe8bf7aa6dc56885cc53a0]; and
+  - (a) [^c-66813464f1481cfa6f4379e400004e5c] throughout which the member is absent from work in circumstances where sub-paragraph (5), (6) , (7)[^c21251571], (7A) or (7B)[^c-49398e6846818420857a60679f376c8d] ... applies, and
+  - (b) for which the employer (or if he is no longer in his employment, his former employer) pays him any contractual remuneration or statutory paternity pay[^c-4a5f1d98eefe8bf7aa6dc56885cc53a0]; and
 - “the normal employment requirement” is the requirement that any period of paid paternity leave shall be treated as if it were a period throughout which the member in question works normally and receives the remuneration likely to be paid for doing so.
 
 (5) This sub-paragraph applies if—
@@ -511,12 +511,12 @@ but, in respect of any period of paid paternity leave, a member shall only be re
 (7) This sub-paragraph applies if—
 
 - (a) the member’s absence from work is due to the adoption or expected adoption of a child who has entered the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and
-- (b) the member satisfies the conditions prescribed under section 171ZB(2)(a)(i) and (ii) of that Act (as applied by virtue of section 171ZK(1)[^key-ec32ecdf7ba6e083ff9d8b7ca4fa04d1] of that Act (adoption cases not involving placement under the law of the United Kingdom)) in relation to that child.
+- (b) the member satisfies the conditions prescribed under section 171ZB(2)(a)(i) and (ii) of that Act (as applied by virtue of section 171ZK(1)[^c-ec32ecdf7ba6e083ff9d8b7ca4fa04d1] of that Act (adoption cases not involving placement under the law of the United Kingdom)) in relation to that child.
 
-(7A)[^key-2cbcc7191cc3a3e673ef0faf895055a0] This sub-paragraph applies if—
+(7A)[^c-2cbcc7191cc3a3e673ef0faf895055a0] This sub-paragraph applies if—
 
-- (a) the member's absence from work is due to the placement or expected placement of a child under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014[^key-6128b841ef8565dc2ef859c0837c7355], and
-- (b)[^key-7334649077dea7c20d0fe42b27428518] in relation to that child, the member satisfies the conditions prescribed under section 171ZB(2)(a)(i) and (ii) of the Social Security Contributions and Benefits Act 1992, as modified—
+- (a) the member's absence from work is due to the placement or expected placement of a child under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014[^c-6128b841ef8565dc2ef859c0837c7355], and
+- (b)[^c-7334649077dea7c20d0fe42b27428518] in relation to that child, the member satisfies the conditions prescribed under section 171ZB(2)(a)(i) and (ii) of the Social Security Contributions and Benefits Act 1992, as modified—
   - (i) in relation to a local authority in England, by section 171ZB(8) of that Act (cases involving the placing of a child by a local authority in England with a local authority foster parent who has been approved as a prospective adopter);
   - (ii) in relation to a local authority in Wales, by section 171ZB(10) of that Act (cases involving the placing of a child by a local authority in Wales with a local authority foster parent who has been approved as a prospective adopter)
 
@@ -525,7 +525,7 @@ but, in respect of any period of paid paternity leave, a member shall only be re
 - (a) the member's absence from work is due to the birth or expected birth of a child, and
 - (b) in relation to that child, the member satisfies the conditions prescribed under section 171ZB(2)(a)(i) and (ii) of the Social Security Contributions and Benefits Act 1992, as applied by virtue of section 171ZK(2) of that Act (cases involving applicants for parental orders under section 54 of the Human Fertilisation and Embryology Act 2008).
 
-(8)[^key-a394039b6479d43998b8087d5fe9c25d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a394039b6479d43998b8087d5fe9c25d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Unfair adoption leave provisions
 
@@ -549,7 +549,7 @@ but, in respect of any period of paid adoption leave, a member shall only be req
 (4) In this paragraph—
 
 - “period of paid adoption leave”, in the case of a member, means a period—
-  - (a) throughout which the member is absent from work in circumstances where sub-paragraph (5), (6), (7) or (8)[^key-0a682f884b38fc3a2b8af84d80525a5b] applies, and
+  - (a) throughout which the member is absent from work in circumstances where sub-paragraph (5), (6), (7) or (8)[^c-0a682f884b38fc3a2b8af84d80525a5b] applies, and
   - (b) for which the employer (or, if he is no longer in his employment, his former employer) pays him any contractual remuneration or statutory adoption pay; and
 - “the normal employment requirement” is the requirement that any period of paid adoption leave shall be treated as if it were a period throughout which the member in question works normally and receives the remuneration likely to be paid for doing so.
 
@@ -563,19 +563,19 @@ but, in respect of any period of paid adoption leave, a member shall only be req
 - (a) the member’s absence from work is due to the adoption or expected adoption of a child who has entered the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of the child for adoption under the law of any part of the United Kingdom, and
 - (b) the member is a person by whom the child has been or is expected to be adopted.
 
-(7)[^key-ffed1047aae92949149f774b81afd61f] This sub-paragraph applies if—
+(7)[^c-ffed1047aae92949149f774b81afd61f] This sub-paragraph applies if—
 
-- (a) the member's absence from work is due to the placement or expected placement of a child under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014[^key-c797ad2a57146e34df17125c638926bf], and
-- (b)[^key-e63ffb9e15efc509cc03b3e8ab860945] in relation to that child, the member satisfies the condition in section 171ZL(2)(a) of the Social Security Contributions and Benefits Act 1992, as modified—
+- (a) the member's absence from work is due to the placement or expected placement of a child under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014[^c-c797ad2a57146e34df17125c638926bf], and
+- (b)[^c-e63ffb9e15efc509cc03b3e8ab860945] in relation to that child, the member satisfies the condition in section 171ZL(2)(a) of the Social Security Contributions and Benefits Act 1992, as modified—
   - (i) in relation to a local authority in England, by section 171ZL(9) of that Act (cases involving the placing of a child by a local authority in England with a local authority foster parent who has been approved as a prospective adopter);
   - (ii) in relation to a local authority in Wales, by section 171ZL(11) of that Act (cases involving the placing of a child by a local authority in Wales with a local authority foster parent who has been approved as a prospective adopter).
 
 (8) This sub-paragraph applies if—
 
 - (a) the member's absence from work is due to the birth or expected birth of a child, and
-- (b) in relation to that child, the member satisfies the condition in section 171ZL(2)(a) of the Social Security Contributions and Benefits Act 1992, as applied by virtue of section 171ZT(2) of that Act (cases involving applicants for parental orders under section 54 or 54A[^key-5ab38cb0a7209f2b67c04e90cbae845d] of the Human Fertilisation and Embryology Act 2008).
+- (b) in relation to that child, the member satisfies the condition in section 171ZL(2)(a) of the Social Security Contributions and Benefits Act 1992, as applied by virtue of section 171ZT(2) of that Act (cases involving applicants for parental orders under section 54 or 54A[^c-5ab38cb0a7209f2b67c04e90cbae845d] of the Human Fertilisation and Embryology Act 2008).
 
-#### Unfair shared parental leave provisions[^key-bf67c5421d6bd1b367d1ea7f862838e0]
+#### Unfair shared parental leave provisions[^c-bf67c5421d6bd1b367d1ea7f862838e0]
 
 **5C.** (1) Where an employment-related benefit scheme includes any unfair shared parental leave provisions (irrespective of any differences on the basis of sex in the treatment accorded to members under those provisions), then—
 
@@ -627,14 +627,14 @@ but, in respect of any period of paid shared parental leave, a member shall only
 
 (8) This sub-paragraph applies if—
 
-- (a)[^key-3971fa29525d5e7b187d6c57545fc589] the member’s absence from work is due to the placement of a child under—
+- (a)[^c-3971fa29525d5e7b187d6c57545fc589] the member’s absence from work is due to the placement of a child under—
   - (i) section 22C of the Children Act 1989 by a local authority in England, or
   - (ii) section 81 of the Social Services and Well-being (Wales) Act 2014 by a local authority in Wales,
 
   with a local authority foster parent who has been approved as a prospective adopter,
 - (b) the member is—
-  - (i) the local authority foster parent with whom the child in question is placed under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014[^key-e98c2a22a69ead75e2218c6f44f04a7e], or
-  - (ii) a person who satisfies the conditions prescribed under section 171ZV(4)(b)(i) or (ii) of the Social Security Contributions and Benefits Act 1992, as modified by section 171ZV(18) of that Act (cases involving the placing of a child by a local authority in England or Wales[^key-214e89f3188a70b01eddc8e5803a2dee] with a local authority foster parent who has been approved as a prospective adopter), in relation to the child, and
+  - (i) the local authority foster parent with whom the child in question is placed under section 22C of the Children Act 1989 or section 81 of the Social Services and Well-being (Wales) Act 2014[^c-e98c2a22a69ead75e2218c6f44f04a7e], or
+  - (ii) a person who satisfies the conditions prescribed under section 171ZV(4)(b)(i) or (ii) of the Social Security Contributions and Benefits Act 1992, as modified by section 171ZV(18) of that Act (cases involving the placing of a child by a local authority in England or Wales[^c-214e89f3188a70b01eddc8e5803a2dee] with a local authority foster parent who has been approved as a prospective adopter), in relation to the child, and
 - (c) the member's absence from work is not absence during—
   - (i) a period of paid paternity leave, or
   - (ii) a period of paid adoption leave.
@@ -657,7 +657,7 @@ but, in respect of any period of paid shared parental leave, a member shall only
   - (i) a period of paid paternity leave, or
   - (ii) a period of paid adoption leave.
 
-#### Unfair parental bereavement leave provisions[^key-39e6220ff6f69788e6e86ace2b8207f7]
+#### Unfair parental bereavement leave provisions[^c-39e6220ff6f69788e6e86ace2b8207f7]
 
 **5D.** (1) Where an employment-related benefit scheme includes any unfair parental bereavement leave provisions (irrespective of any differences on the basis of sex in the treatment accorded to members under those provisions), then—
 
@@ -690,7 +690,7 @@ but, in respect of any period of paid parental bereavement leave, a member is on
 - (c) a period of paid adoption leave (within the meaning of paragraph 5B), or
 - (d) a period of shared parental leave (within the meaning of paragraph 5C).
 
-#### Unfair neonatal care leave provisions[^key-133e5caa4b57464c5a2f15feb4acf2e4]
+#### Unfair neonatal care leave provisions[^c-133e5caa4b57464c5a2f15feb4acf2e4]
 
 **5E.** (1) Where an employment-related benefit scheme includes any unfair neonatal care leave provisions (irrespective of any differences on the basis of sex in the treatment accorded to members under those provisions), then—
 
@@ -791,12 +791,12 @@ but, in respect of a period of paid family leave, a member shall only be require
 
 (2) In sub-paragraph (1) above “**the court**” means—
 
-- (a) in England and Wales, the High Court or the county court[^key-b4684f4ca2865338cf84b6989737a68b]; and
+- (a) in England and Wales, the High Court or the county court[^c-b4684f4ca2865338cf84b6989737a68b]; and
 - (b) in Scotland, the Court of Session or the sheriff court.
 
 (3) An application under sub-paragraph (1) above may be commenced in the county court notwithstanding—
 
-- (a) any financial limit otherwise imposed on the jurisdiction of that[^key-8616ee9086afb3014f2fa23ad3aa46a3] court; or
+- (a) any financial limit otherwise imposed on the jurisdiction of that[^c-8616ee9086afb3014f2fa23ad3aa46a3] court; or
 - (b) that the only relief claimed is a declaration or an injunction.
 
 #### Interpretation
@@ -1142,25 +1142,25 @@ The repeal in section 20(1A) [^c8058741] of the principal Act does not affect th
 
 [^c8057101]: Marginal citation: 86/378/EEC.
 
-[^key-7754a82b0f92a93a1a1790f91c40e845]: Textual amendment: [S. 25(1A)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/1A) inserted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/2), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-7754a82b0f92a93a1a1790f91c40e845]: Textual amendment: [S. 25(1A)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/1A) inserted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/2), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-c6db8b1e66230a2318aace859d76b883]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2) omitted (21.11.2017) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/a), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-c6db8b1e66230a2318aace859d76b883]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2) omitted (21.11.2017) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/a), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-d7ae6e5e580cbe461df23bcf12891629]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/b), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-d7ae6e5e580cbe461df23bcf12891629]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/b), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-0949c54d2dd6c9aa8635d27525aadcfb]: Textual amendment: Words in [s. 25(2)(a)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/a) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/c), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-0949c54d2dd6c9aa8635d27525aadcfb]: Textual amendment: Words in [s. 25(2)(a)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/a) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(c)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/c), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-01bd6d1b63b29d2b2ccfeb88a05cdea6]: Textual amendment: Words in [s. 25(2)(b)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/b) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(d)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/d), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-01bd6d1b63b29d2b2ccfeb88a05cdea6]: Textual amendment: Words in [s. 25(2)(b)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/b) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(d)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/d), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-705e0c0834704a63e8d5263fad6146e8]: Textual amendment: Word in [s. 25(2)(c)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/c) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/e/i), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-705e0c0834704a63e8d5263fad6146e8]: Textual amendment: Word in [s. 25(2)(c)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/c) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/e/i), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-32760783d3cc9e73cffa90653f52c555]: Textual amendment: Word in [s. 25(2)(c)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/c) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/e/ii), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-32760783d3cc9e73cffa90653f52c555]: Textual amendment: Word in [s. 25(2)(c)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/c) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/e/ii), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-547c5ad001db88e36b05fdac56c38fa2]: Textual amendment: Words in [s. 25(2)(d)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/d) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(f)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/f), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-547c5ad001db88e36b05fdac56c38fa2]: Textual amendment: Words in [s. 25(2)(d)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/2/d) substituted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(3)(f)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/3/f), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-3f6377327dd8c6e5a492d6f91fe53ab3]: Textual amendment: [S. 25(3A)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/3A) inserted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(4)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/4), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-3f6377327dd8c6e5a492d6f91fe53ab3]: Textual amendment: [S. 25(3A)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/3A) inserted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(4)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/4), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
-[^key-c6e6e862566b3e29024bae97b0306b30]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/4) inserted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/5), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
+[^c-c6e6e862566b3e29024bae97b0306b30]: Textual amendment: Words in [s. 25(4)](https://www.legislation.gov.uk/ukpga/1989/24/section/25/4) inserted (21.11.2017) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2016/21/section/15/5), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2017/1131](https://www.legislation.gov.uk/uksi/2017/1131), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1131/regulation/2)
 
 [^c8057171]: Marginal citation: [1939 c. 82](https://www.legislation.gov.uk/ukpga/1939/82).
 
@@ -1246,49 +1246,49 @@ The repeal in section 20(1A) [^c8058741] of the principal Act does not affect th
 
 [^c21250961]: Modification: Sch. 5 para. 5A: power to apply (with modifications) conferred (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 265(2)](https://www.legislation.gov.uk/ukpga/2004/35/section/265/2), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (subject to [art. 2(12)](https://www.legislation.gov.uk/uksi/2005/275/article/2/12))
 
-[^key-1e54fd30fd9ff1b0b69600ef5155d8fa]: Textual amendment: Words in Sch. 5 para. 5A(3)(b) substituted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/2); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-1e54fd30fd9ff1b0b69600ef5155d8fa]: Textual amendment: Words in Sch. 5 para. 5A(3)(b) substituted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/2); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-66813464f1481cfa6f4379e400004e5c]: Textual amendment: Words in Sch. 5 para. 5A(4) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/3/b); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-66813464f1481cfa6f4379e400004e5c]: Textual amendment: Words in Sch. 5 para. 5A(4) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/3/b); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
 [^c21251571]: Textual amendment: Words in Sch. 5 para. 5A(4)(a) substituted (6.4.2010) by [Work and Families Act 2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2006/18/section/11/1), [19(1)](https://www.legislation.gov.uk/ukpga/2006/18/section/19/1), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2006/18/schedule/1/paragraph/1/3/a); [S.I. 2010/495](https://www.legislation.gov.uk/uksi/2010/495), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/495/article/4/d)
 
-[^key-49398e6846818420857a60679f376c8d]: Textual amendment: Words in Sch. 5 para. 5A(4) inserted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/3/a); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/a)
+[^c-49398e6846818420857a60679f376c8d]: Textual amendment: Words in Sch. 5 para. 5A(4) inserted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/3/a); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/a)
 
-[^key-4a5f1d98eefe8bf7aa6dc56885cc53a0]: Textual amendment: Words in Sch. 5 para. 5A(4) substituted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(3)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/3/c); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-4a5f1d98eefe8bf7aa6dc56885cc53a0]: Textual amendment: Words in Sch. 5 para. 5A(4) substituted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(3)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/3/c); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-ec32ecdf7ba6e083ff9d8b7ca4fa04d1]: Textual amendment: Words in Sch. 5 para. 5A(7) substituted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/4); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/2/b)
+[^c-ec32ecdf7ba6e083ff9d8b7ca4fa04d1]: Textual amendment: Words in Sch. 5 para. 5A(7) substituted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/4); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/2/b)
 
-[^key-2cbcc7191cc3a3e673ef0faf895055a0]: Textual amendment: Sch. 5 para. 5A(7A), (7B) inserted (1.12.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/5); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/a)
+[^c-2cbcc7191cc3a3e673ef0faf895055a0]: Textual amendment: Sch. 5 para. 5A(7A), (7B) inserted (1.12.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/5); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/a)
 
-[^key-6128b841ef8565dc2ef859c0837c7355]: Textual amendment: Words in Sch. 5 para. 5A(7A)(a) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/a)
+[^c-6128b841ef8565dc2ef859c0837c7355]: Textual amendment: Words in Sch. 5 para. 5A(7A)(a) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/a)
 
-[^key-7334649077dea7c20d0fe42b27428518]: Textual amendment: Sch. 5 para. 5A(7A)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/b)
+[^c-7334649077dea7c20d0fe42b27428518]: Textual amendment: Sch. 5 para. 5A(7A)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/b)
 
-[^key-a394039b6479d43998b8087d5fe9c25d]: Textual amendment: Sch. 5 para. 5A(8) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(6)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [arts. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16) [18](https://www.legislation.gov.uk/uksi/2014/1640/article/18))
+[^c-a394039b6479d43998b8087d5fe9c25d]: Textual amendment: Sch. 5 para. 5A(8) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 2(6)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/2/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/a) (with [arts. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16) [18](https://www.legislation.gov.uk/uksi/2014/1640/article/18))
 
 [^c21251011]: Modification: Sch. 5 para. 5B: power to apply (with modifications) conferred (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 265(2)](https://www.legislation.gov.uk/ukpga/2004/35/section/265/2), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (subject to [art. 2(12)](https://www.legislation.gov.uk/uksi/2005/275/article/2/12))
 
-[^key-0a682f884b38fc3a2b8af84d80525a5b]: Textual amendment: Words in Sch. 5 para. 5B(4) substituted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/3/2); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/b)
+[^c-0a682f884b38fc3a2b8af84d80525a5b]: Textual amendment: Words in Sch. 5 para. 5B(4) substituted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/3/2); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/b)
 
-[^key-ffed1047aae92949149f774b81afd61f]: Textual amendment: Sch. 5 para. 5B(7), (8) inserted (1.12.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/3/3); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/b)
+[^c-ffed1047aae92949149f774b81afd61f]: Textual amendment: Sch. 5 para. 5B(7), (8) inserted (1.12.2014 for specified purposes) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/3/3); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/b)
 
-[^key-c797ad2a57146e34df17125c638926bf]: Textual amendment: Words in Sch. 5 para. 5B(7)(a) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/c)
+[^c-c797ad2a57146e34df17125c638926bf]: Textual amendment: Words in Sch. 5 para. 5B(7)(a) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/c)
 
-[^key-e63ffb9e15efc509cc03b3e8ab860945]: Textual amendment: Sch. 5 para. 5B(7)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/d)
+[^c-e63ffb9e15efc509cc03b3e8ab860945]: Textual amendment: Sch. 5 para. 5B(7)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/d)
 
-[^key-5ab38cb0a7209f2b67c04e90cbae845d]: Textual amendment: Words in Sch. 5 para. 5B(8)(b) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/2)
+[^c-5ab38cb0a7209f2b67c04e90cbae845d]: Textual amendment: Words in Sch. 5 para. 5B(8)(b) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/2)
 
-[^key-bf67c5421d6bd1b367d1ea7f862838e0]: Textual amendment: and cross-heading inserted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/4); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/c)
+[^c-bf67c5421d6bd1b367d1ea7f862838e0]: Textual amendment: and cross-heading inserted (1.12.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/4); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 5(2)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/5/2/c)
 
-[^key-3971fa29525d5e7b187d6c57545fc589]: Textual amendment: Sch. 5 para. 5C(8)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(e)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/e)
+[^c-3971fa29525d5e7b187d6c57545fc589]: Textual amendment: Sch. 5 para. 5C(8)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(e)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/e)
 
-[^key-e98c2a22a69ead75e2218c6f44f04a7e]: Textual amendment: Words in Sch. 5 para. 5C(8)(b)(i) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(f)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/f)
+[^c-e98c2a22a69ead75e2218c6f44f04a7e]: Textual amendment: Words in Sch. 5 para. 5C(8)(b)(i) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(f)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/f)
 
-[^key-214e89f3188a70b01eddc8e5803a2dee]: Textual amendment: Words in Sch. 5 para. 5C(8)(b)(ii) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(g)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/g)
+[^c-214e89f3188a70b01eddc8e5803a2dee]: Textual amendment: Words in Sch. 5 para. 5C(8)(b)(ii) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [54(g)](https://www.legislation.gov.uk/wsi/2016/413/regulation/54/g)
 
-[^key-39e6220ff6f69788e6e86ace2b8207f7]: Textual amendment: Sch. 5 para. 5D and cross-heading inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/7); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-39e6220ff6f69788e6e86ace2b8207f7]: Textual amendment: Sch. 5 para. 5D and cross-heading inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/7); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-133e5caa4b57464c5a2f15feb4acf2e4]: Textual amendment: Sch. 5 para. 5E and cross-heading inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/7); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-133e5caa4b57464c5a2f15feb4acf2e4]: Textual amendment: Sch. 5 para. 5E and cross-heading inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/7); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
 [^c8057661]: Commencement: Sch. 5 Pt. I para. 6 partly in force; Sch. 5 Pt. I para. 6 not in force at Royal Assent see s. 33(2)(3); Sch. 5 Pt. I para. 6(1)(2)(3)(a)(4) in force at 23.6.1994 by [S.I. 1994/1661](https://www.legislation.gov.uk/uksi/1994/1661), [art. 2](https://www.legislation.gov.uk/uksi/1994/1661/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1994/1661/schedule/part/II)
 
@@ -1300,9 +1300,9 @@ The repeal in section 20(1A) [^c8058741] of the principal Act does not affect th
 
 [^c8057701]: Commencement: Sch. 5 Pt. I para. 9 partly in force; Sch. 5 Pt. I para. 9 not in force at Royal Assent see s. 33(2)(3); Sch. 5 Pt. I para. 9 in force for specified purposes at 23.6.1994 by [S.I. 1994/1661](https://www.legislation.gov.uk/uksi/1994/1661), [art. 2](https://www.legislation.gov.uk/uksi/1994/1661/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1661/schedule/part/I)
 
-[^key-b4684f4ca2865338cf84b6989737a68b]: Textual amendment: Words in Sch. 5 para. 9 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b4684f4ca2865338cf84b6989737a68b]: Textual amendment: Words in Sch. 5 para. 9 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-8616ee9086afb3014f2fa23ad3aa46a3]: Textual amendment: Word in Sch. 5 para. 9(3)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 128](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/128); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-8616ee9086afb3014f2fa23ad3aa46a3]: Textual amendment: Word in Sch. 5 para. 9(3)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 128](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/128); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c8057711]: Commencement: Sch. 5 Pt. I para. 10 partly in force; Sch. 5 Pt. I para. 10 not in force at Royal Assent see s. 33(2)(3); Sch. 5 Pt. I para. 10 in force for specified purposes at 23.6.1994 by [S.I. 1994/1661](https://www.legislation.gov.uk/uksi/1994/1661), [art. 2](https://www.legislation.gov.uk/uksi/1994/1661/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/1661/schedule/part/I)
 

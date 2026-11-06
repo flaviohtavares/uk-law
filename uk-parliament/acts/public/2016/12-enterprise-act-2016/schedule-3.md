@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Primary authority scheme: new Schedule 4A to RESA 2008[^c22568061][^key-941e891c63a471f94e1b666e44e21b1e]
+## SCHEDULE 3 — Primary authority scheme: new Schedule 4A to RESA 2008[^c22568061][^c-941e891c63a471f94e1b666e44e21b1e]
 
 *Extent: E+W+S+N.I.*
 
 Section 20
 
-[^key-941e891c63a471f94e1b666e44e21b1e]
+[^c-941e891c63a471f94e1b666e44e21b1e]
 
 This is the Schedule 4A to be substituted for Schedule 4 to the Regulatory Enforcement and Sanctions Act 2008—
 
@@ -162,4 +162,4 @@ This is the Schedule 4A to be substituted for Schedule 4 to the Regulatory Enfor
 
 [^c22568061]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/3) in force at Royal Assent for specified purposes, see [s. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/c)
 
-[^key-941e891c63a471f94e1b666e44e21b1e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/3) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)
+[^c-941e891c63a471f94e1b666e44e21b1e]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/3) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/b)

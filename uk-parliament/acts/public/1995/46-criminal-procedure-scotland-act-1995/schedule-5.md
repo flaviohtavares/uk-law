@@ -78,13 +78,13 @@ You did sell and deliver to N.C. to his prejudice an article of food namely; gal
 
 You did take part in gaming in the street contrary to sections 5 and 8 of the Gaming Act 1968.
 
-[^key-88a66b608d1e788ae699acd0ed074326]...
+[^c-88a66b608d1e788ae699acd0ed074326]...
 
-[^key-88a66b608d1e788ae699acd0ed074326]...
+[^c-88a66b608d1e788ae699acd0ed074326]...
 
-[^key-88a66b608d1e788ae699acd0ed074326]...
+[^c-88a66b608d1e788ae699acd0ed074326]...
 
-[^key-88a66b608d1e788ae699acd0ed074326]...
+[^c-88a66b608d1e788ae699acd0ed074326]...
 
 You did present or cause to be presented to W.E., Assessors for a return in which you falsely stated that the yearly rent of your House. No. Street, , was £20, instead of £30, contrary to section 7 of the Lands Valuation (Scotland) Act 1854.
 
@@ -114,7 +114,7 @@ You had in your possession for use for trade a counter balance which was false, 
 
 [^c19029781]: Textual amendment: Sch. 5: entry repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [art. 28(1)(2)(3)](https://www.legislation.gov.uk/uksi/2005/1082/article/28/1/2/3), [Sch. 5 para. 21(b)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/21/b), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6/part/1)
 
-[^key-88a66b608d1e788ae699acd0ed074326]: Textual amendment: Words in Sch. 5 repealed (2.7.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Consequential Modifications) Order 2012 (S.S.I. 2012/215)](https://www.legislation.gov.uk/ssi/2012/215), [reg. 1](https://www.legislation.gov.uk/ssi/2012/215/regulation/1), [sch. pt. 3](https://www.legislation.gov.uk/ssi/2012/215/schedule/part/3)
+[^c-88a66b608d1e788ae699acd0ed074326]: Textual amendment: Words in Sch. 5 repealed (2.7.2012) by [The Wildlife and Natural Environment (Scotland) Act 2011 (Consequential Modifications) Order 2012 (S.S.I. 2012/215)](https://www.legislation.gov.uk/ssi/2012/215), [reg. 1](https://www.legislation.gov.uk/ssi/2012/215/regulation/1), [sch. pt. 3](https://www.legislation.gov.uk/ssi/2012/215/schedule/part/3)
 
 [^c20456351]: Textual amendment: Sch. 5: entries relating to "sections 74(2) and 76 of the Licensing (Scotland) Act 1976" repealed (1.9.2009 at 5.00 a.m.) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/248/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2009/248/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2)
 

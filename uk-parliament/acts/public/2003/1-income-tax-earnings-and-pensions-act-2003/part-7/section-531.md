@@ -50,10 +50,10 @@ whichever is lower.
 
 (3A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In this section “**the section 476 gain**” means the amount under section 478 (amount of charge under section 476) is to be regarded as the taxable amount for the purposes of section 476 in respect of the acquisition of the shares pursuant to the option.[^key-32947d720d462f47f154682d8a945301]
+(4) In this section “**the section 476 gain**” means the amount under section 478 (amount of charge under section 476) is to be regarded as the taxable amount for the purposes of section 476 in respect of the acquisition of the shares pursuant to the option.[^c-32947d720d462f47f154682d8a945301]
 
 (5) This section has effect subject to section 532 (modified tax consequences following disqualifying events).
 
 ## Annotations
 
-[^key-32947d720d462f47f154682d8a945301]: Textual amendment: Words in s. 531(4) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 37(1)(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/37/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-32947d720d462f47f154682d8a945301]: Textual amendment: Words in s. 531(4) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 37(1)(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/37/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

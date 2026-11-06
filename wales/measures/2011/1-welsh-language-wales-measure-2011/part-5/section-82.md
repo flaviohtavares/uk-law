@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Requiring the failure to comply to be publicised[^key-6ea11a64a3c7d8f14e51d5d0f0f6cfc8]
+## 82. Requiring the failure to comply to be publicised[^c-6ea11a64a3c7d8f14e51d5d0f0f6cfc8]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea11a64a3c7d8f14e51d5d0f0f6cfc8]: Commencement: [S. 82](https://www.legislation.gov.uk/mwa/2011/1/section/82) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-6ea11a64a3c7d8f14e51d5d0f0f6cfc8]: Commencement: [S. 82](https://www.legislation.gov.uk/mwa/2011/1/section/82) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

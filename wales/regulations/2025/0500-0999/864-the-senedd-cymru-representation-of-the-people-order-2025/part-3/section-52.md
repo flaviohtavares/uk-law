@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Disputed claims[^key-407361158dab3769fb506302ed8d3a0f]
+## 52. Disputed claims[^c-407361158dab3769fb506302ed8d3a0f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-407361158dab3769fb506302ed8d3a0f]: Commencement: Art. 52 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-407361158dab3769fb506302ed8d3a0f]: Commencement: Art. 52 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

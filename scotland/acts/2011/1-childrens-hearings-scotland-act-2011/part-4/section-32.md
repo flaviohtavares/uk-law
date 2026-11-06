@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. The Safeguarders Panel[^key-be4d5e86ea33cb8b2e04f830fce50e04]
+## 32. The Safeguarders Panel[^c-be4d5e86ea33cb8b2e04f830fce50e04]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be4d5e86ea33cb8b2e04f830fce50e04]: Commencement: S. 32 in force at 13.2.2012 by [S.S.I. 2012/23](https://www.legislation.gov.uk/ssi/2012/23), [art. 2](https://www.legislation.gov.uk/ssi/2012/23/article/2)
+[^c-be4d5e86ea33cb8b2e04f830fce50e04]: Commencement: S. 32 in force at 13.2.2012 by [S.S.I. 2012/23](https://www.legislation.gov.uk/ssi/2012/23), [art. 2](https://www.legislation.gov.uk/ssi/2012/23/article/2)

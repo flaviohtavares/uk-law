@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.145. Liquidator deceased[^key-0ad9dd44fee693cec151622a0c541beb]
+## 4.145. Liquidator deceased[^c-0ad9dd44fee693cec151622a0c541beb]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ad9dd44fee693cec151622a0c541beb]: Commencement: [Rule 4.145](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.145) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0ad9dd44fee693cec151622a0c541beb]: Commencement: [Rule 4.145](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.145) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00091]: Marginal citation: \[FORM 4.44\]

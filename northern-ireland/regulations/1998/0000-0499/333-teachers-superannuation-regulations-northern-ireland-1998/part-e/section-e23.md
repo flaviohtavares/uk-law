@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E23. Nomination of beneficiaries[^key-4bbaa932612fb6c47973f953e7321e98]
+## E23. Nomination of beneficiaries[^c-4bbaa932612fb6c47973f953e7321e98]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bbaa932612fb6c47973f953e7321e98]: Commencement: Reg. E23 in operation at 2.11.1998, see reg. A1
+[^c-4bbaa932612fb6c47973f953e7321e98]: Commencement: Reg. E23 in operation at 2.11.1998, see reg. A1

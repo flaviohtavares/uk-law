@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Amount payable during extended payment period when an extended payment is payable pursuant to regulation 70 or 71 of the Housing Benefit Regulations[^key-1b9c7d1fa14fe26b7a11907619866040]
+## 50. Amount payable during extended payment period when an extended payment is payable pursuant to regulation 70 or 71 of the Housing Benefit Regulations[^c-1b9c7d1fa14fe26b7a11907619866040]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b9c7d1fa14fe26b7a11907619866040]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/406/regulation/50) substituted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/3)
+[^c-1b9c7d1fa14fe26b7a11907619866040]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/406/regulation/50) substituted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/3)

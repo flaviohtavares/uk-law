@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. The dispute resolution procedure[^key-1678681f49718aad2bee2942368c0137]
+## 50B. The dispute resolution procedure[^c-1678681f49718aad2bee2942368c0137]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1678681f49718aad2bee2942368c0137]: Textual amendment: [Ss. 50-50B](https://www.legislation.gov.uk/ukpga/1995/26/section/50) substituted for s. 50 (5.3.2008 for specified purposes, 6.4.2008 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 273](https://www.legislation.gov.uk/ukpga/2004/35/section/273), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)) (as amended by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 16](https://www.legislation.gov.uk/ukpga/2007/22/section/16), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)); [S.I. 2008/627](https://www.legislation.gov.uk/uksi/2008/627), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/627/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2008/627/article/2/b)
+[^c-1678681f49718aad2bee2942368c0137]: Textual amendment: [Ss. 50-50B](https://www.legislation.gov.uk/ukpga/1995/26/section/50) substituted for s. 50 (5.3.2008 for specified purposes, 6.4.2008 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 273](https://www.legislation.gov.uk/ukpga/2004/35/section/273), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)) (as amended by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 16](https://www.legislation.gov.uk/ukpga/2007/22/section/16), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)); [S.I. 2008/627](https://www.legislation.gov.uk/uksi/2008/627), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/627/article/2/a)[(b)](https://www.legislation.gov.uk/uksi/2008/627/article/2/b)

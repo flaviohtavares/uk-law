@@ -48,7 +48,7 @@ is guilty of an offence and shall be liable, on summary conviction, to imprisonm
 
 (4) In this section references to the execution by a designated person , accredited person or accredited inspector[^c20053981] of his duty are references to his exercising any power or performing any duty which is his by virtue of his designation or accreditation.
 
-(5)[^key-1fbeaed1415622dfb9ee3c5bc86d5c95] References in this section to a designated person are to—
+(5)[^c-1fbeaed1415622dfb9ee3c5bc86d5c95] References in this section to a designated person are to—
 
 - (a) a designated person within the meaning given by section 47(1), and
 - (b) a person in relation to whom a designation under section 38B is for the time being in force.
@@ -71,4 +71,4 @@ is guilty of an offence and shall be liable, on summary conviction, to imprisonm
 
 [^c20053981]: Textual amendment: Words in s. 46(4) substituted (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 14 para. 44(4)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/44/4); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(p)](https://www.legislation.gov.uk/uksi/2007/709/article/3/p) (subject to [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-1fbeaed1415622dfb9ee3c5bc86d5c95]: Textual amendment: [S. 46(5)](https://www.legislation.gov.uk/ukpga/2002/30/section/46/5) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/5); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-1fbeaed1415622dfb9ee3c5bc86d5c95]: Textual amendment: [S. 46(5)](https://www.legislation.gov.uk/ukpga/2002/30/section/46/5) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/13/paragraph/5); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

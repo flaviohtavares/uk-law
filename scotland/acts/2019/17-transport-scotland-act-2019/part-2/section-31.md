@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Action following a review[^key-8339a3ec66d8f6a35c4be14d402fa8ea]
+## 31. Action following a review[^c-8339a3ec66d8f6a35c4be14d402fa8ea]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8339a3ec66d8f6a35c4be14d402fa8ea]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2019/17/section/31) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-8339a3ec66d8f6a35c4be14d402fa8ea]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2019/17/section/31) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

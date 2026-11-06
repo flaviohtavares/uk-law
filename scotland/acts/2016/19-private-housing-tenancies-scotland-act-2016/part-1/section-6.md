@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Power to modify schedule 1[^key-25ee9b450ed12095a7f5c0e346db4be8]
+## 6. Power to modify schedule 1[^c-25ee9b450ed12095a7f5c0e346db4be8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25ee9b450ed12095a7f5c0e346db4be8]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/19/section/6) in force at 1.12.2017 in so far as not already in force by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-25ee9b450ed12095a7f5c0e346db4be8]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/19/section/6) in force at 1.12.2017 in so far as not already in force by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

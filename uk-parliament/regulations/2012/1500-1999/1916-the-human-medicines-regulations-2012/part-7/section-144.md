@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Obligation following new herbal monograph[^key-cb1d0c0cc953e9ae781cf4b4b77ed52d]
+## 144. Obligation following new herbal monograph[^c-cb1d0c0cc953e9ae781cf4b4b77ed52d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ is established.
 
 ## Annotations
 
-[^key-cb1d0c0cc953e9ae781cf4b4b77ed52d]: Textual amendment: Reg. 144 substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 127](https://www.legislation.gov.uk/uksi/2019/775/regulation/127) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/96))
+[^c-cb1d0c0cc953e9ae781cf4b4b77ed52d]: Textual amendment: Reg. 144 substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 127](https://www.legislation.gov.uk/uksi/2019/775/regulation/127) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/96))

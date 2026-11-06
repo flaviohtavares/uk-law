@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Exception for acts done for purposes of national security or prevention of serious crime[^key-c115b88950a04c68ae0a62a71d871271][^key-08763e235e4675bb9cf31a08aa6dd44f]
+## 87. Exception for acts done for purposes of national security or prevention of serious crime[^c-c115b88950a04c68ae0a62a71d871271][^c-08763e235e4675bb9cf31a08aa6dd44f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c115b88950a04c68ae0a62a71d871271]: Commencement: Reg. 87 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-c115b88950a04c68ae0a62a71d871271]: Commencement: Reg. 87 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-08763e235e4675bb9cf31a08aa6dd44f]: Commencement: Reg. 87 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08763e235e4675bb9cf31a08aa6dd44f]: Commencement: Reg. 87 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

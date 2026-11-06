@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Injuries arising before 5 July 1948[^key-e8d6c452b36f19cc0535c9176b15b369][^key-65247f91874939aad4ab06e535fad6d4]
+## 64. Injuries arising before 5 July 1948[^c-e8d6c452b36f19cc0535c9176b15b369][^c-65247f91874939aad4ab06e535fad6d4]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d6c452b36f19cc0535c9176b15b369]: Commencement: S. 64 in force at 30.10.2012 for specified purposes by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)
+[^c-e8d6c452b36f19cc0535c9176b15b369]: Commencement: S. 64 in force at 30.10.2012 for specified purposes by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)
 
-[^key-65247f91874939aad4ab06e535fad6d4]: Commencement: S. 64 in force at 5.12.2012 in so far as not already in force by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)
+[^c-65247f91874939aad4ab06e535fad6d4]: Commencement: S. 64 in force at 5.12.2012 in so far as not already in force by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)

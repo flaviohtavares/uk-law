@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Warrant to enter land[^key-98dff8c617a25eaedb6e81ee8b878875]
+## 67. Warrant to enter land[^c-98dff8c617a25eaedb6e81ee8b878875]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the warrant may also confer power on the authorised person to do those things; a
 
 ## Annotations
 
-[^key-98dff8c617a25eaedb6e81ee8b878875]: Commencement: S. 67 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-98dff8c617a25eaedb6e81ee8b878875]: Commencement: S. 67 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

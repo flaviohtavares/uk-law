@@ -24,11 +24,11 @@ Section 3
 
 ### Interpretation
 
-**1.**[^key-60be438650510d8b3100ac5376138315] In this Schedule a reference to functions includes functions conferred by any provision of law made in and for Gibraltar.
+**1.**[^c-60be438650510d8b3100ac5376138315] In this Schedule a reference to functions includes functions conferred by any provision of law made in and for Gibraltar.
 
 ### Appointment of Chief Counting Officer
 
-**2.**[^key-fe8f3a1045f7a596a8dcc6c4ce65a3f9] (1) Section 128 of the 2000 Act (Chief Counting Officers, and counting officers, for referendums) has effect for the purposes of the referendum with the following modifications.
+**2.**[^c-fe8f3a1045f7a596a8dcc6c4ce65a3f9] (1) Section 128 of the 2000 Act (Chief Counting Officers, and counting officers, for referendums) has effect for the purposes of the referendum with the following modifications.
 
 (2) Subsection (2) has effect for those purposes as if—
 
@@ -41,7 +41,7 @@ Section 3
 
 ### Counting officers
 
-**3.**[^key-6cd9068ebc674a6fa627a845338fe91a] (1) This paragraph applies to determine, for the purposes of the referendum, who is a counting officer in relation to a voting area.
+**3.**[^c-6cd9068ebc674a6fa627a845338fe91a] (1) This paragraph applies to determine, for the purposes of the referendum, who is a counting officer in relation to a voting area.
 
 (2) The counting officer for a voting area that is—
 
@@ -63,7 +63,7 @@ is the person who, by virtue of section 35 of the 1983 Act, is the returning off
 
 (8) The counting officer for the Gibraltar voting area is the Clerk to the Gibraltar Parliament.
 
-**4.**[^key-d199467b0bada735ef0cf806511a4c32] (1) Accordingly, section 128 of the 2000 Act (Chief Counting Officers, and counting officers, for referendums) has effect for the purposes of the referendum with the following modifications.
+**4.**[^c-d199467b0bada735ef0cf806511a4c32] (1) Accordingly, section 128 of the 2000 Act (Chief Counting Officers, and counting officers, for referendums) has effect for the purposes of the referendum with the following modifications.
 
 (2) For the purposes of the referendum subsection (3) is to be treated as omitted.
 
@@ -83,7 +83,7 @@ is the person who, by virtue of section 35 of the 1983 Act, is the returning off
 
 ### Regional Counting Officers
 
-**5.**[^key-0cef1212c74a1c6e7311022dffdddeba] (1) For the purposes of the referendum, the Chief Counting Officer may appoint a Regional Counting Officer for any of the following regions—
+**5.**[^c-0cef1212c74a1c6e7311022dffdddeba] (1) For the purposes of the referendum, the Chief Counting Officer may appoint a Regional Counting Officer for any of the following regions—
 
 - East Midlands;
 - Eastern;
@@ -110,7 +110,7 @@ have the same name, the listed region comprises the areas specified in relation 
 
 ### Assistance to counting officers etc
 
-**6.**[^key-2f78136ef0c74fab42bb6f2125967164] (1) A local authority whose area forms a particular voting area must place the services of their officers at the disposal of—
+**6.**[^c-2f78136ef0c74fab42bb6f2125967164] (1) A local authority whose area forms a particular voting area must place the services of their officers at the disposal of—
 
 - (a) the counting officer for the voting area, and
 - (b) the Regional Counting Officer (if any) appointed for the region that includes the voting area,
@@ -136,7 +136,7 @@ for the purpose of assisting the officer in the discharge of his or her function
 
 ### General duties of counting officers etc
 
-**7.**[^key-f7c3c61f47419a3df2605d5c4adef5b7] (1) The Chief Counting Officer, Regional Counting Officers and counting officers must do whatever things are necessary for conducting the referendum in the manner provided—
+**7.**[^c-f7c3c61f47419a3df2605d5c4adef5b7] (1) The Chief Counting Officer, Regional Counting Officers and counting officers must do whatever things are necessary for conducting the referendum in the manner provided—
 
 - (a) by and under this Act, and
 - (b) in the case of the Chief Counting Officer, the Regional Counting Officer (if any) appointed for the South West and Gibraltar region and the counting officer for the Gibraltar voting area, by Gibraltar conduct law.
@@ -185,7 +185,7 @@ Where two or more forms of ballot paper are used in the referendum, a separate n
 
 ### Appointment of deputies and clerks
 
-**8.**[^key-3328b15f814463128bd01613edb9d858] (1) The Chief Counting Officer or a Regional Counting Officer or counting officer may appoint deputies to carry out any or all of the officer's functions.
+**8.**[^c-3328b15f814463128bd01613edb9d858] (1) The Chief Counting Officer or a Regional Counting Officer or counting officer may appoint deputies to carry out any or all of the officer's functions.
 
 (2) An appointment under sub-paragraph (1) must be in writing.
 
@@ -193,7 +193,7 @@ Where two or more forms of ballot paper are used in the referendum, a separate n
 
 ### Counting officers etc: correction of procedural errors
 
-**9.**[^key-a7186abe20f807d74192929cb4867eba] (1) A Regional Counting Officer or counting officer may take whatever steps the officer thinks appropriate to remedy any act or omission on the part of the officer or a relevant person that—
+**9.**[^c-a7186abe20f807d74192929cb4867eba] (1) A Regional Counting Officer or counting officer may take whatever steps the officer thinks appropriate to remedy any act or omission on the part of the officer or a relevant person that—
 
 - (a) arises in connection with any function that the officer or relevant person has in relation to the referendum, and
 - (b) is not in accordance with any requirements applicable to the referendum imposed as described in sub-paragraph (4) or otherwise.
@@ -234,14 +234,14 @@ in connection with any function in relation to the referendum.
 
 ### Public notices
 
-**10.**[^key-276c838b6cf54b35804e36bffdfab68a] A public notice required by or under this Act or Gibraltar conduct law to be given by the Chief Counting Officer, a Regional Officer or a counting officer must be given—
+**10.**[^c-276c838b6cf54b35804e36bffdfab68a] A public notice required by or under this Act or Gibraltar conduct law to be given by the Chief Counting Officer, a Regional Officer or a counting officer must be given—
 
 - (a) by posting the notice in some conspicuous place in the area or region for which the officer acts, or
 - (b) in whatever other manner the officer thinks desirable for publicising it.
 
 ### Role of Electoral Commission
 
-**11.**[^key-4052a4cffbc82e21ce1ca4df651695de] (1) The Electoral Commission must take whatever steps they think appropriate to promote public awareness about the referendum and how to vote in it.
+**11.**[^c-4052a4cffbc82e21ce1ca4df651695de] (1) The Electoral Commission must take whatever steps they think appropriate to promote public awareness about the referendum and how to vote in it.
 
 (2) Following the referendum, the Electoral Commission must—
 
@@ -254,7 +254,7 @@ in connection with any function in relation to the referendum.
 
 ### Encouraging participation
 
-**12.**[^key-3b7d29a183f6d7e8f150f5ee59f6f27b] (1) The Chief Counting Officer must take whatever steps the officer thinks appropriate to encourage participation in the referendum.
+**12.**[^c-3b7d29a183f6d7e8f150f5ee59f6f27b] (1) The Chief Counting Officer must take whatever steps the officer thinks appropriate to encourage participation in the referendum.
 
 (2) An officer to whom sub-paragraph (3) applies must take whatever steps the officer thinks appropriate to encourage participation in the referendum in the area or region for which the officer acts.
 
@@ -274,7 +274,7 @@ in connection with any function in relation to the referendum.
 
 ### Supply and use of register of electors
 
-**13.**[^key-f9635bbcc468ef8ecf86baa77d98d872] (1) The Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) have effect for the purposes of the referendum with the following modifications.
+**13.**[^c-f9635bbcc468ef8ecf86baa77d98d872] (1) The Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341) have effect for the purposes of the referendum with the following modifications.
 
 (2) Regulation 106 (supply of full register etc to registered political parties etc and restrictions on use) has effect for those purposes as if—
 
@@ -286,7 +286,7 @@ in connection with any function in relation to the referendum.
   > - (iii) the purposes of complying with the requirements of Schedule 15A to that Act (control of loans etc to certain permitted participants), and
   > - (iv) the purposes of complying with the requirements of paragraphs 39 and 40 of Schedule 1 and paragraphs 5 and 6 of Schedule 2 to the European Union Referendum Act 2015.
 
-**14.**[^key-ffc71765d82a161f1a638a6338089d0a] (1) The Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497) have effect for the purposes of the referendum with the following modifications.
+**14.**[^c-ffc71765d82a161f1a638a6338089d0a] (1) The Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497) have effect for the purposes of the referendum with the following modifications.
 
 (2) Regulation 105 (supply of full register etc to registered political parties etc and restrictions on use) has effect for those purposes as if—
 
@@ -298,7 +298,7 @@ in connection with any function in relation to the referendum.
   > - (iii) the purposes of complying with the requirements of Schedule 15A to that Act (control of loans etc to certain permitted participants), and
   > - (iv) the purposes of complying with the requirements of paragraphs 39 and 40 of Schedule 1 and paragraphs 5 and 6 of Schedule 2 to the European Union Referendum Act 2015.
 
-**15.**[^key-7f8087695a2eafe27753c5a9b6eaa93b] (1) The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) have effect for the purposes of the referendum with the following modifications.
+**15.**[^c-7f8087695a2eafe27753c5a9b6eaa93b] (1) The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741) have effect for the purposes of the referendum with the following modifications.
 
 (2) Regulation 105 (supply of full register etc to registered political parties etc and restrictions on use) has effect for those purposes as if—
 
@@ -312,7 +312,7 @@ in connection with any function in relation to the referendum.
 
 ### Payments to counting officers and Regional Counting Officers
 
-**16.**[^key-71fa3e5196cabf9ec8bacac249b05d6e] (1) Subject to sub-paragraphs (3) and (4), a counting officer or Regional Counting Officer is entitled to recover his or her charges in respect of services rendered, or expenses incurred, for or in connection with the referendum if—
+**16.**[^c-71fa3e5196cabf9ec8bacac249b05d6e] (1) Subject to sub-paragraphs (3) and (4), a counting officer or Regional Counting Officer is entitled to recover his or her charges in respect of services rendered, or expenses incurred, for or in connection with the referendum if—
 
 - (a) the services were necessarily rendered, or the expenses were necessarily incurred, for the efficient and effective conduct of the referendum, and
 - (b) the total of the officer's charges does not exceed the amount (“the overall maximum recoverable amount”) specified in, or determined in accordance with, regulations made by the Minister, with the consent of the Treasury, for the purposes of this sub-paragraph.
@@ -366,7 +366,7 @@ if the Commission are satisfied that the conditions in sub-paragraph (6) are met
 
 ### Taxation of counting officer's or Regional Counting Officer's account
 
-**17.**[^key-3f9941cb771ec3ff428b4dcf63c738fd] (1) An application for the account of a counting officer or Regional Counting Officer to be taxed may be made—
+**17.**[^c-3f9941cb771ec3ff428b4dcf63c738fd] (1) An application for the account of a counting officer or Regional Counting Officer to be taxed may be made—
 
 - (a) except where any of paragraphs (b) to (d) applies, to the county court;
 - (b) in the case of the Chief Electoral Officer for Northern Ireland, to the county court that has jurisdiction at the place where the officer certified the number of ballot papers counted and votes cast;
@@ -385,7 +385,7 @@ if the Commission are satisfied that the conditions in sub-paragraph (6) are met
 
 ### Electoral Commission accounts
 
-**18.**[^key-75893e7539e97e81a7576862ed1f5191] (1) If directed to do so by the Treasury, the Electoral Commission must prepare accounts in respect of their expenditure in relation to the referendum.
+**18.**[^c-75893e7539e97e81a7576862ed1f5191] (1) If directed to do so by the Treasury, the Electoral Commission must prepare accounts in respect of their expenditure in relation to the referendum.
 
 (2) Accounts under this paragraph must be prepared in accordance with directions given to the Commission by the Treasury.
 
@@ -404,7 +404,7 @@ as soon may be practicable after the giving of the direction under sub-paragraph
 
 ### Restriction on challenge to referendum result
 
-**19.**[^key-bbe6eaa17101540f2454df2da2d98a22] (1) No court may entertain any proceedings for questioning the number of ballot papers counted or votes cast in the referendum as certified by the Chief Counting Officer or a Regional Counting Officer or counting officer unless—
+**19.**[^c-bbe6eaa17101540f2454df2da2d98a22] (1) No court may entertain any proceedings for questioning the number of ballot papers counted or votes cast in the referendum as certified by the Chief Counting Officer or a Regional Counting Officer or counting officer unless—
 
 - (a) the proceedings are brought by a claim for judicial review, and
 - (b) the claim form is filed before the end of the permitted period.
@@ -428,40 +428,40 @@ as soon may be practicable after the giving of the direction under sub-paragraph
 
 ## Annotations
 
-[^key-60be438650510d8b3100ac5376138315]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-60be438650510d8b3100ac5376138315]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-fe8f3a1045f7a596a8dcc6c4ce65a3f9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-fe8f3a1045f7a596a8dcc6c4ce65a3f9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-6cd9068ebc674a6fa627a845338fe91a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-6cd9068ebc674a6fa627a845338fe91a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-d199467b0bada735ef0cf806511a4c32]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-d199467b0bada735ef0cf806511a4c32]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/4) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-0cef1212c74a1c6e7311022dffdddeba]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-0cef1212c74a1c6e7311022dffdddeba]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-2f78136ef0c74fab42bb6f2125967164]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-2f78136ef0c74fab42bb6f2125967164]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-f7c3c61f47419a3df2605d5c4adef5b7]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-f7c3c61f47419a3df2605d5c4adef5b7]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-3328b15f814463128bd01613edb9d858]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-3328b15f814463128bd01613edb9d858]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/8) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-a7186abe20f807d74192929cb4867eba]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/9) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a7186abe20f807d74192929cb4867eba]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/9) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-276c838b6cf54b35804e36bffdfab68a]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/10) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-276c838b6cf54b35804e36bffdfab68a]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/10) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-4052a4cffbc82e21ce1ca4df651695de]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/11) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-4052a4cffbc82e21ce1ca4df651695de]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/11) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-3b7d29a183f6d7e8f150f5ee59f6f27b]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/12) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-3b7d29a183f6d7e8f150f5ee59f6f27b]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/12) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-f9635bbcc468ef8ecf86baa77d98d872]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/13) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-f9635bbcc468ef8ecf86baa77d98d872]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/13) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-ffc71765d82a161f1a638a6338089d0a]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/14) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ffc71765d82a161f1a638a6338089d0a]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/14) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-7f8087695a2eafe27753c5a9b6eaa93b]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/15) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-7f8087695a2eafe27753c5a9b6eaa93b]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/15) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-71fa3e5196cabf9ec8bacac249b05d6e]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/16) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-71fa3e5196cabf9ec8bacac249b05d6e]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/16) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-3f9941cb771ec3ff428b4dcf63c738fd]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/17) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-3f9941cb771ec3ff428b4dcf63c738fd]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/17) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-75893e7539e97e81a7576862ed1f5191]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/18) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-75893e7539e97e81a7576862ed1f5191]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/18) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-bbe6eaa17101540f2454df2da2d98a22]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/19) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-bbe6eaa17101540f2454df2da2d98a22]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/19) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

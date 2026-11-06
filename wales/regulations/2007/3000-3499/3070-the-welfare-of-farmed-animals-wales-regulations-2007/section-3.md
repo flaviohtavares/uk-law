@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Animals to which these Regulations apply[^key-b80c8ea97d0329aaf22b815a3a1fdc65]
+## 3. Animals to which these Regulations apply[^c-b80c8ea97d0329aaf22b815a3a1fdc65]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b80c8ea97d0329aaf22b815a3a1fdc65]: Commencement: Reg. 3 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-b80c8ea97d0329aaf22b815a3a1fdc65]: Commencement: Reg. 3 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)

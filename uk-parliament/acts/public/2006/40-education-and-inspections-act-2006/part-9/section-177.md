@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. University bodies: amendment of section 29 of Leasehold Reform Act 1967[^key-79ffb6c5a6529273082414d38f1144af]
+## 177. University bodies: amendment of section 29 of Leasehold Reform Act 1967[^c-79ffb6c5a6529273082414d38f1144af]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ consent under that subsection shall continue to be required; and for that purpos
 
 ## Annotations
 
-[^key-79ffb6c5a6529273082414d38f1144af]: Commencement: S. 177 in force at 8.1.2007, see s. 188(2)
+[^c-79ffb6c5a6529273082414d38f1144af]: Commencement: S. 177 in force at 8.1.2007, see s. 188(2)

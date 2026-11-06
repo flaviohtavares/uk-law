@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Aggregates levy: power to restore exemptions[^key-8fc170d6c824aa2626ebcdb69b235850]
+## 95. Aggregates levy: power to restore exemptions[^c-8fc170d6c824aa2626ebcdb69b235850]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fc170d6c824aa2626ebcdb69b235850]: Textual amendment: [S. 95](https://www.legislation.gov.uk/ukpga/2014/26/section/95) repealed (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/2)
+[^c-8fc170d6c824aa2626ebcdb69b235850]: Textual amendment: [S. 95](https://www.legislation.gov.uk/ukpga/2014/26/section/95) repealed (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/2)

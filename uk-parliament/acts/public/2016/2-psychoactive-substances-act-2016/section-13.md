@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Prohibition notices[^key-5f4e0814832109f08e0ddf926f3d6614]
+## 13. Prohibition notices[^c-5f4e0814832109f08e0ddf926f3d6614]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f4e0814832109f08e0ddf926f3d6614]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/2/section/13) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-5f4e0814832109f08e0ddf926f3d6614]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/2/section/13) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

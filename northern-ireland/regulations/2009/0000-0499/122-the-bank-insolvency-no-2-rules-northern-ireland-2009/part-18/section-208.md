@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 208. Inspection of records[^key-5b2613c9dbe3083c59a3a96f2862a08d]
+## 208. Inspection of records[^c-5b2613c9dbe3083c59a3a96f2862a08d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.25 of the 1991 Rules.
 
 ## Annotations
 
-[^key-5b2613c9dbe3083c59a3a96f2862a08d]: Commencement: Rule 208 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5b2613c9dbe3083c59a3a96f2862a08d]: Commencement: Rule 208 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

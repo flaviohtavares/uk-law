@@ -34,7 +34,7 @@ This Statutory Instrument has been made to amend a defect in the Smoke Control A
 
 Clean Air, England
 
-The Smoke Control Areas (Exempted Fireplaces) (England) (No. 2) (Amendment) Order 2013 (revoked)[^key-e0842a39c8989a1039ca37680b0e757d]
+The Smoke Control Areas (Exempted Fireplaces) (England) (No. 2) (Amendment) Order 2013 (revoked)[^c-e0842a39c8989a1039ca37680b0e757d]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 25th December 2013
 
-[^key-e0842a39c8989a1039ca37680b0e757d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0842a39c8989a1039ca37680b0e757d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e0842a39c8989a1039ca37680b0e757d]
+## 1. Citation and commencement[^c-e0842a39c8989a1039ca37680b0e757d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Smoke Control Areas (Exempted Fireplaces) (England) (No. 2) Order 2013[^key-e0842a39c8989a1039ca37680b0e757d]
+## 2. Amendment to the Smoke Control Areas (Exempted Fireplaces) (England) (No. 2) Order 2013[^c-e0842a39c8989a1039ca37680b0e757d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0842a39c8989a1039ca37680b0e757d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0842a39c8989a1039ca37680b0e757d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e0842a39c8989a1039ca37680b0e757d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0842a39c8989a1039ca37680b0e757d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0842a39c8989a1039ca37680b0e757d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/3026) revoked (6.4.2014) by [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2014 (S.I. 2014/504)](https://www.legislation.gov.uk/uksi/2014/504), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2014/504/article/1/c), [3](https://www.legislation.gov.uk/uksi/2014/504/article/3)
+[^c-e0842a39c8989a1039ca37680b0e757d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/3026) revoked (6.4.2014) by [The Smoke Control Areas (Exempted Fireplaces) (England) Order 2014 (S.I. 2014/504)](https://www.legislation.gov.uk/uksi/2014/504), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2014/504/article/1/c), [3](https://www.legislation.gov.uk/uksi/2014/504/article/3)

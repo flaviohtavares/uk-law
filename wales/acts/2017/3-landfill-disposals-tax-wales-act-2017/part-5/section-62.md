@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Penalty for applying water discount incorrectly[^key-d21dd7b1ff92d38620906d21a4cce3c3]
+## 62. Penalty for applying water discount incorrectly[^c-d21dd7b1ff92d38620906d21a4cce3c3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the operator is liable to a penalty not exceeding £500 in respect of each taxab
 
 ## Annotations
 
-[^key-d21dd7b1ff92d38620906d21a4cce3c3]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2017/3/section/62) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-d21dd7b1ff92d38620906d21a4cce3c3]: Commencement: [S. 62](https://www.legislation.gov.uk/anaw/2017/3/section/62) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61B. Aircraft: exceptions from prohibitions[^key-d5555e0d022706bafdc4cb8d6bc806d4]
+## 61B. Aircraft: exceptions from prohibitions[^c-d5555e0d022706bafdc4cb8d6bc806d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,9 +30,9 @@ summary: ''
 - (b) protect the safety of another aircraft, or
 - (c) protect the safety of persons on the ground.
 
-(4)[^key-263f6f5f4a7ed5a4f65f11e778656ec7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-263f6f5f4a7ed5a4f65f11e778656ec7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-58ae91996c465267f7b4798107433cff] The prohibition in regulation 57J(1) is not contravened by the movement of a Russian aircraft if—
+(4A)[^c-58ae91996c465267f7b4798107433cff] The prohibition in regulation 57J(1) is not contravened by the movement of a Russian aircraft if—
 
 - (a) a direction has been given in relation to that aircraft under regulation 57J(3)(b), (5)(b) or (6)(c), and
 - (b) the movement of the aircraft is in accordance with that direction.
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d5555e0d022706bafdc4cb8d6bc806d4]: Textual amendment: [Reg. 61B](https://www.legislation.gov.uk/uksi/2019/855/regulation/61B) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/241/regulation/12)
+[^c-d5555e0d022706bafdc4cb8d6bc806d4]: Textual amendment: [Reg. 61B](https://www.legislation.gov.uk/uksi/2019/855/regulation/61B) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/241/regulation/12)
 
-[^key-263f6f5f4a7ed5a4f65f11e778656ec7]: Textual amendment: [Reg. 61B(4)](https://www.legislation.gov.uk/uksi/2019/855/regulation/61B/4) omitted (30.3.2022 at 5.00 p.m.) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/27/a)
+[^c-263f6f5f4a7ed5a4f65f11e778656ec7]: Textual amendment: [Reg. 61B(4)](https://www.legislation.gov.uk/uksi/2019/855/regulation/61B/4) omitted (30.3.2022 at 5.00 p.m.) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [27(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/27/a)
 
-[^key-58ae91996c465267f7b4798107433cff]: Textual amendment: [Reg. 61B(4A)](https://www.legislation.gov.uk/uksi/2019/855/regulation/61B/4A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2022/395/regulation/27/b)
+[^c-58ae91996c465267f7b4798107433cff]: Textual amendment: [Reg. 61B(4A)](https://www.legislation.gov.uk/uksi/2019/855/regulation/61B/4A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [27(b)](https://www.legislation.gov.uk/uksi/2022/395/regulation/27/b)

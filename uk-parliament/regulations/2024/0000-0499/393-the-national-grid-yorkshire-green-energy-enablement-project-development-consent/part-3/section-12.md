@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Application of the 1991 Act[^key-ff8564ede28ff82778e2bbbd63fe4e41]
+## 12. Application of the 1991 Act[^c-ff8564ede28ff82778e2bbbd63fe4e41]
 
 *Extent: E+W+S*
 
@@ -61,7 +61,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-ff8564ede28ff82778e2bbbd63fe4e41]: Commencement: Art. 12 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-ff8564ede28ff82778e2bbbd63fe4e41]: Commencement: Art. 12 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00029]: Footnote: Section 53 was added by section 45 of the Traffic Management Act 2004.
 

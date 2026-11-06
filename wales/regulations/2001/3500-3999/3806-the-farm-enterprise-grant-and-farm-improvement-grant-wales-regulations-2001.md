@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by the said section 2(2), hereby makes the following Regulations:
 
-## 1. Title, commencement and application[^key-a60bcb81a984858d4ce3cea4080d5204]
+## 1. Title, commencement and application[^c-a60bcb81a984858d4ce3cea4080d5204]
 
 (1) These Regulations may be cited as the Farm Enterprise Grant and Farm Improvement Grant (Wales) Regulations 2001 and shall come into force on 30 November 2001.
 
 (2) These Regulations apply to Wales.
 
-## 2. Interpretation[^key-08d4c001f517f597ff27112a9d9feef1]
+## 2. Interpretation[^c-08d4c001f517f597ff27112a9d9feef1]
 
 (1) In these Regulations, unless the context otherwise requires —
 
@@ -85,7 +85,7 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 
 (3) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended on the date on which these Regulations are made.
 
-## 3. Farm Enterprise Grant[^key-7e7a6a00d8c7118f2c48449f4067a989]
+## 3. Farm Enterprise Grant[^c-7e7a6a00d8c7118f2c48449f4067a989]
 
 (1) The National Assembly may, where it is satisfied that an operation complies with the requirements of the Community legislation, pay to an eligible farming business, a grant, known as a Farm Enterprise Grant, towards approved expenditure incurred by that business in connection with the operation.
 
@@ -93,7 +93,7 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 
 (3) The minimum amount of grant payable under paragraph (1) in respect of any application for financial support shall be £525.
 
-## 4. Farm Improvement Grant[^key-6f7d8396222b839f3e6fce709b9b4e90]
+## 4. Farm Improvement Grant[^c-6f7d8396222b839f3e6fce709b9b4e90]
 
 (1) The National Assembly may, where it is satisfied that an operation complies with the requirements of the Community legislation, pay to an eligible farming business, a grant, known as a Farm Improvement Grant, towards approved expenditure incurred by that business in connection with the operation.
 
@@ -101,13 +101,13 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 
 (3) The minimum amount of grant payable under paragraph (1) in respect of any application for financial support shall be £450.
 
-## 5. Additional Grant[^key-b975ee846797d35a4b0431726703ab72]
+## 5. Additional Grant[^c-b975ee846797d35a4b0431726703ab72]
 
 (1) Where an eligible farming business is also a relevant business the National Assembly may increase the grant payable under regulation 3 or regulation 4 by a sum equivalent to 10 per cent of approved expenditure.
 
 (2) Where an application for financial support has been made by a group of eligible farming businesses, which includes one or more relevant businesses, an the additional grant as referred to in paragraph (1) may be awarded to that group in such sum as the National Assembly considers to be proportionate to the number of relevant businesses comprised in the group.
 
-## 6. Grant Limits[^key-f213a513850f56206faf48e522471bae]
+## 6. Grant Limits[^c-f213a513850f56206faf48e522471bae]
 
 (1) Subject to paragraphs (2) and (3), the payment of Farm Improvement Grant under regulation 4 shall be limited to an amount of £16,000 per eligible farming business per grant cycle.
 
@@ -115,14 +115,14 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 
 (3) The aggregate amount of grant payable under regulations 3 and 4 shall be limited to an amount of £75,000 per eligible farming business per grant cycle.
 
-## 7. Reductions in Grant[^key-0453251fc63154f6bf133a5339a3068f]
+## 7. Reductions in Grant[^c-0453251fc63154f6bf133a5339a3068f]
 
 If any other grant is payable from public funds in relation to the approved expenditure, the amount of grant payable shall be such amount which, when added to that other grant, would lead to a value of,
 
 - (a) in respect of sums payable under regulation 3, 35 per cent, (or in the case of relevant businesses, 45 per cent), of the approved expenditure, or
 - (b) in respect of sums payable under regulation 4, 30 per cent, (or in the case of relevant businesses, 40 per cent), of approved expenditure.
 
-## 8. Approval of expenditure[^key-52e9c5a630386adcd7305fa74c31da5b]
+## 8. Approval of expenditure[^c-52e9c5a630386adcd7305fa74c31da5b]
 
 (1) An application for the approval of expenditure in connection with an operation must be made in the form and at the time that the National Assembly requires.
 
@@ -142,11 +142,11 @@ If any other grant is payable from public funds in relation to the approved expe
 
 (7) An approval or variation under this Regulation shall be in writing.
 
-## 9. Claims[^key-45d89bed09c0b0040c7848b1d69a262b]
+## 9. Claims[^c-45d89bed09c0b0040c7848b1d69a262b]
 
 A claim for financial support must be made at the time and in the form and be accompanied by the information that the National Assembly reasonably requires.
 
-## 10. Payment[^key-670509666985771f86edb3d1ce23781b]
+## 10. Payment[^c-670509666985771f86edb3d1ce23781b]
 
 (1) The National Assembly may pay a grant in respect of approved expenditure in connection with an operation by a single lump sum or by instalments.
 
@@ -155,13 +155,13 @@ A claim for financial support must be made at the time and in the form and be ac
 - (a) at the such time or times thatas the National Assembly reasonably may determine; and
 - (b) subject to any conditions that the National Assembly may determine.
 
-## 11. Information[^key-6f6a9a7e51a10d162a98d12bbc6b00e8]
+## 11. Information[^c-6f6a9a7e51a10d162a98d12bbc6b00e8]
 
 (1) A beneficiary shall give the National Assembly any information about any approved expenditure and any operation in connection with which such expenditure is incurred that the National Assembly may reasonably require.
 
 (2) Where the National Assembly requires any information, the beneficiary shall provide it within such period as the National Assembly may reasonably determine.
 
-## 12. Record keeping[^key-f985c328555ca8728707cd0dae18b517]
+## 12. Record keeping[^c-f985c328555ca8728707cd0dae18b517]
 
 (1) A beneficiary shall keep any invoice, account or other document relating to approved expenditure or any operation in connection with which such expenditure is incurred for the period of five years beginning with the day on which the last payment of financial support under these Regulations is made to him or her in connection with that expenditure or operation, subject to paragraphs (2) and (3).
 
@@ -169,7 +169,7 @@ A claim for financial support must be made at the time and in the form and be ac
 
 (3) Paragraph (1) does not apply if the document has been removed by any person lawfully authorised to remove it.
 
-## 13. Powers of authorised persons[^key-7923b6e094d04413a7c1a9e15e00d0db]
+## 13. Powers of authorised persons[^c-7923b6e094d04413a7c1a9e15e00d0db]
 
 (1) An authorised person may at all reasonable times, on producing if so required, some duly authenticated document showing his or her authority, enter onto any land, other than land used solely for the purpose of a dwelling house :—
 
@@ -202,7 +202,7 @@ for any of the purposes mentioned in paragraph (2).
 
 and paragraphs (3) and (4) shall apply in relation to any persons referred to in sub-paragraph (b), when acting under the instructions of an authorised person, as if he or she were an authorised person.
 
-## 14. Breaches of commitments[^key-6907f1e04358b7e893d25ce48bc8eecc]
+## 14. Breaches of commitments[^c-6907f1e04358b7e893d25ce48bc8eecc]
 
 (1) Subject to paragraph (2), where
 
@@ -226,14 +226,14 @@ and paragraphs (3) and (4) shall apply in relation to any persons referred to in
 
 the beneficiary shall be released from his or her commitment, other than in respect of any breach or other matter occurring before acceptance by the National Assembly of the transferee’s undertaking.
 
-## 15. Other cases in which recovery etc. powers apply[^key-207aaf82c846b080b50287a4c2237b93]
+## 15. Other cases in which recovery etc. powers apply[^c-207aaf82c846b080b50287a4c2237b93]
 
 The National Assembly may exercise the powers specified in paragraphs (1)(a) and (b) of regulation 16 where —
 
 - (a) there has been a material change in the nature, scale, costs or timing of the operation in relation to which financial support has been given or a commitment has been made; or
 - (b) the operation in relation to which financial support has been given or a commitment has been made has been or is being delayed, or is unlikely to be completed.
 
-## 16. Assembly’s powers of recovery etc[^key-259284a1041c641a78a0fb7a04529d7a]
+## 16. Assembly’s powers of recovery etc[^c-259284a1041c641a78a0fb7a04529d7a]
 
 (1) The powers conferred by regulations 14(1) and 15 are —
 
@@ -254,7 +254,7 @@ The National Assembly may exercise the powers specified in paragraphs (1)(a) and
 - (b) afford the beneficiary the opportunity of making written representations within such time as the National Assembly considers reasonable; and
 - (c) consider any such representations.
 
-## 17. Recovery of Interest[^key-aa01f5680c2e270eaf635cc427cc30a9]
+## 17. Recovery of Interest[^c-aa01f5680c2e270eaf635cc427cc30a9]
 
 (1) Where the National Assembly exercises the power conferred by regulation 16(1)(b), it may also recover on demand interest on the sum to be recovered, and the rate of interest shall be one percentage point above LIBOR on a day to day basis.
 
@@ -262,11 +262,11 @@ The National Assembly may exercise the powers specified in paragraphs (1)(a) and
 
 (3) In any proceedings relating to this Regulation, a certificate of the National Assembly stating the LIBOR applicable during a period specified in the certificate shall be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the National Assembly of that rate.
 
-## 18. Sums payable to the National Assembly to be recoverable as a debt[^key-aeb586eb861badce49365cb5f1b77a1f]
+## 18. Sums payable to the National Assembly to be recoverable as a debt[^c-aeb586eb861badce49365cb5f1b77a1f]
 
 In any case where an amount falls to be paid to the National Assembly by virtue of (or by virtue of action taken under) these Regulations, the amount so falling to be paid shall be recoverable as a debt.
 
-## 19. Offences and penalties[^key-a8237cce0e211342cd4b7e7358f148ce]
+## 19. Offences and penalties[^c-a8237cce0e211342cd4b7e7358f148ce]
 
 (1) A person is guilty of an offence if —
 
@@ -303,13 +303,13 @@ The Deputy Presiding Officer of the National Assembly
 
 Regulation 2(1)
 
-**1.**[^key-bbe2a7aef991d8a710ca23214b6fb7f3] Council Regulation (EC) No.1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) (OJ No. L160, 26.6.99, p.80).
+**1.**[^c-bbe2a7aef991d8a710ca23214b6fb7f3] Council Regulation (EC) No.1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) (OJ No. L160, 26.6.99, p.80).
 
-**2.**[^key-24b2952ca85369d47aa13534754827d2] Commission Regulation [(EC) No. 1750/1999](https://www.legislation.gov.uk/european/regulation/1999/1750) of 23 July 1999 laying down detailed rules for the application of Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) (OJ No. L214, 13.8.99, p.31) as amended by Commission Regulation [(EC) No. 2075/2000](https://www.legislation.gov.uk/european/regulation/2000/2075) of 29 September 2000 (OJ No. L246, 30.9.2000, p.46)).
+**2.**[^c-24b2952ca85369d47aa13534754827d2] Commission Regulation [(EC) No. 1750/1999](https://www.legislation.gov.uk/european/regulation/1999/1750) of 23 July 1999 laying down detailed rules for the application of Council Regulation [(EC) No. 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) (OJ No. L214, 13.8.99, p.31) as amended by Commission Regulation [(EC) No. 2075/2000](https://www.legislation.gov.uk/european/regulation/2000/2075) of 29 September 2000 (OJ No. L246, 30.9.2000, p.46)).
 
-**3.**[^key-ab8e5b8649c420ef971fabfce7e10239] Commission Decision No. C(2000) 2932 of 11 October 2000 approving the rural development programming document for Wales (UK) for the 2000—06 programming period.
+**3.**[^c-ab8e5b8649c420ef971fabfce7e10239] Commission Decision No. C(2000) 2932 of 11 October 2000 approving the rural development programming document for Wales (UK) for the 2000—06 programming period.
 
-**4.**[^key-10f4fea717d3499af3da7d251f380384] Commission Decision No. C(2000) 2049 of 24 July 2000 approving the Single Programming Document for Community Structural Assistance under Objective 1, for West Wales and the Valleys in the United Kingdom.
+**4.**[^c-10f4fea717d3499af3da7d251f380384] Commission Decision No. C(2000) 2049 of 24 July 2000 approving the Single Programming Document for Community Structural Assistance under Objective 1, for West Wales and the Valleys in the United Kingdom.
 
 (This note is not part of the Regulations)
 
@@ -339,9 +339,9 @@ Copies of the Commission Decisions referred to in paragraphs 3 and 4 of the Sche
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-a60bcb81a984858d4ce3cea4080d5204]: Commencement: Reg. 1 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-a60bcb81a984858d4ce3cea4080d5204]: Commencement: Reg. 1 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-08d4c001f517f597ff27112a9d9feef1]: Commencement: Reg. 2 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-08d4c001f517f597ff27112a9d9feef1]: Commencement: Reg. 2 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
 [^f00003]: Footnote: OJ No.L214, 13.8.1999, p.31.
 
@@ -351,46 +351,46 @@ Copies of the Commission Decisions referred to in paragraphs 3 and 4 of the Sche
 
 [^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-7e7a6a00d8c7118f2c48449f4067a989]: Commencement: Reg. 3 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-7e7a6a00d8c7118f2c48449f4067a989]: Commencement: Reg. 3 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-6f7d8396222b839f3e6fce709b9b4e90]: Commencement: Reg. 4 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-6f7d8396222b839f3e6fce709b9b4e90]: Commencement: Reg. 4 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-b975ee846797d35a4b0431726703ab72]: Commencement: Reg. 5 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-b975ee846797d35a4b0431726703ab72]: Commencement: Reg. 5 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-f213a513850f56206faf48e522471bae]: Commencement: Reg. 6 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-f213a513850f56206faf48e522471bae]: Commencement: Reg. 6 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-0453251fc63154f6bf133a5339a3068f]: Commencement: Reg. 7 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-0453251fc63154f6bf133a5339a3068f]: Commencement: Reg. 7 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-52e9c5a630386adcd7305fa74c31da5b]: Commencement: Reg. 8 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-52e9c5a630386adcd7305fa74c31da5b]: Commencement: Reg. 8 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-45d89bed09c0b0040c7848b1d69a262b]: Commencement: Reg. 9 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-45d89bed09c0b0040c7848b1d69a262b]: Commencement: Reg. 9 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-670509666985771f86edb3d1ce23781b]: Commencement: Reg. 10 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-670509666985771f86edb3d1ce23781b]: Commencement: Reg. 10 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-6f6a9a7e51a10d162a98d12bbc6b00e8]: Commencement: Reg. 11 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-6f6a9a7e51a10d162a98d12bbc6b00e8]: Commencement: Reg. 11 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-f985c328555ca8728707cd0dae18b517]: Commencement: Reg. 12 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-f985c328555ca8728707cd0dae18b517]: Commencement: Reg. 12 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-7923b6e094d04413a7c1a9e15e00d0db]: Commencement: Reg. 13 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-7923b6e094d04413a7c1a9e15e00d0db]: Commencement: Reg. 13 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-6907f1e04358b7e893d25ce48bc8eecc]: Commencement: Reg. 14 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-6907f1e04358b7e893d25ce48bc8eecc]: Commencement: Reg. 14 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-207aaf82c846b080b50287a4c2237b93]: Commencement: Reg. 15 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-207aaf82c846b080b50287a4c2237b93]: Commencement: Reg. 15 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-259284a1041c641a78a0fb7a04529d7a]: Commencement: Reg. 16 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-259284a1041c641a78a0fb7a04529d7a]: Commencement: Reg. 16 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-aa01f5680c2e270eaf635cc427cc30a9]: Commencement: Reg. 17 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-aa01f5680c2e270eaf635cc427cc30a9]: Commencement: Reg. 17 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-aeb586eb861badce49365cb5f1b77a1f]: Commencement: Reg. 18 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-aeb586eb861badce49365cb5f1b77a1f]: Commencement: Reg. 18 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-a8237cce0e211342cd4b7e7358f148ce]: Commencement: Reg. 19 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-a8237cce0e211342cd4b7e7358f148ce]: Commencement: Reg. 19 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-bbe2a7aef991d8a710ca23214b6fb7f3]: Commencement: Sch. para. 1 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-bbe2a7aef991d8a710ca23214b6fb7f3]: Commencement: Sch. para. 1 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-24b2952ca85369d47aa13534754827d2]: Commencement: Sch. para. 2 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-24b2952ca85369d47aa13534754827d2]: Commencement: Sch. para. 2 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-ab8e5b8649c420ef971fabfce7e10239]: Commencement: Sch. para. 3 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-ab8e5b8649c420ef971fabfce7e10239]: Commencement: Sch. para. 3 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
 
-[^key-10f4fea717d3499af3da7d251f380384]: Commencement: Sch. para. 4 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)
+[^c-10f4fea717d3499af3da7d251f380384]: Commencement: Sch. para. 4 in force at 30.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/3806/regulation/1/1)

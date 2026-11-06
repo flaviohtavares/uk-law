@@ -103,12 +103,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 35 — Annual police plans](part-1/section-35.md)
 - [Section 36 — Planning functions: considerations](part-1/section-36.md)
 
-#### CHAPTER 4A — Code of ethics[^key-bdc735ca32fb67a9bec2ef58c2df8a67]
+#### CHAPTER 4A — Code of ethics[^c-bdc735ca32fb67a9bec2ef58c2df8a67]
 
 - [Section 36A — Code of ethics](part-1/section-36a.md)
 - [Section 36B — Preparation and revision of the code of ethics](part-1/section-36b.md)
 
-#### CHAPTER 4B — Vetting code of practice[^key-3d062bde67f9ae78ea882abfe177f627]
+#### CHAPTER 4B — Vetting code of practice[^c-3d062bde67f9ae78ea882abfe177f627]
 
 - [Section 36C — Vetting code of practice](part-1/section-36c.md)
 - [Section 36D — Preparation and revision of the code of vetting practice](part-1/section-36d.md)
@@ -145,7 +145,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 54 — Consultation on regulations](part-1/section-54.md)
 - [Section 55 — Regulations: supplementary](part-1/section-55.md)
 
-#### CHAPTER 8A — POLICE NEGOTIATING BOARD FOR SCOTLAND[^key-5d25d78d39c8dc71c846ecb9f2435688]
+#### CHAPTER 8A — POLICE NEGOTIATING BOARD FOR SCOTLAND[^c-5d25d78d39c8dc71c846ecb9f2435688]
 
 - [Section 55A — Establishment of the PNBS](part-1/section-55a.md)
 - [Section 55B — Representations about pay etc.](part-1/section-55b.md)
@@ -153,18 +153,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 55D — Steps following arbitration](part-1/section-55d.md)
 - [Section 55E — Reporting by the PNBS](part-1/section-55e.md)
 
-#### CHAPTER 9 — APPEALS TO THE FIRST-TIER TRIBUNAL[^key-ed9f3c1d4a54af31700ffe5c84d10c8c]
+#### CHAPTER 9 — APPEALS TO THE FIRST-TIER TRIBUNAL[^c-ed9f3c1d4a54af31700ffe5c84d10c8c]
 
 - [Section 56 — Right to appeal to the First-tier Tribunal](part-1/section-56.md)
 - [Section 57 — Representation](part-1/section-57.md)
 - [Section 58 — Determinations by tribunal](part-1/section-58.md)
 - [Section 59 — Powers to obtain information](part-1/section-59.md)
 
-#### CHAPTER 9A — Advisory list and barred list[^key-0f586e592d2a2ebb6c86ce3215ce3ee2]
+#### CHAPTER 9A — Advisory list and barred list[^c-0f586e592d2a2ebb6c86ce3215ce3ee2]
 
 - [Section 59A — Scottish police advisory list and Scottish police barred list](part-1/section-59a.md)
 
-#### CHAPTER 10 — Complaints and investigations[^key-438c7f8fb652739b80b2eb4f1d96ed34]
+#### CHAPTER 10 — Complaints and investigations[^c-438c7f8fb652739b80b2eb4f1d96ed34]
 
 - [Section 60 — Complaints handling](part-1/section-60.md)
 - [Section 61 — The Police Investigations and Review Commissioner](part-1/section-61.md)
@@ -289,14 +289,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-bdc735ca32fb67a9bec2ef58c2df8a67]: Textual amendment: [Pt. 1 Ch. 4A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4A) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/5/section/2/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)
+[^c-bdc735ca32fb67a9bec2ef58c2df8a67]: Textual amendment: [Pt. 1 Ch. 4A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4A) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 2(2)](https://www.legislation.gov.uk/asp/2025/5/section/2/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)
 
-[^key-3d062bde67f9ae78ea882abfe177f627]: Textual amendment: [Pt. 1 Ch. 4B](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4B) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/5/section/4/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/d)
+[^c-3d062bde67f9ae78ea882abfe177f627]: Textual amendment: [Pt. 1 Ch. 4B](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/4B) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/5/section/4/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/d)
 
-[^key-5d25d78d39c8dc71c846ecb9f2435688]: Textual amendment: [Pt. 1 Ch. 8A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/8A) inserted (9.3.2023 for specified purposes, 17.8.2023 in so far as not already in force) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2) (with [s. 114(2)](https://www.legislation.gov.uk/asp/2016/1/section/114/2)); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/49/article/2/a); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/139/article/2/a)
+[^c-5d25d78d39c8dc71c846ecb9f2435688]: Textual amendment: [Pt. 1 Ch. 8A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/8A) inserted (9.3.2023 for specified purposes, 17.8.2023 in so far as not already in force) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2) (with [s. 114(2)](https://www.legislation.gov.uk/asp/2016/1/section/114/2)); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/49/article/2/a); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/139/article/2/a)
 
-[^key-ed9f3c1d4a54af31700ffe5c84d10c8c]: Textual amendment: [Ch. 9](https://www.legislation.gov.uk/asp/2012/8/chapter/9) heading substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/1/2/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-ed9f3c1d4a54af31700ffe5c84d10c8c]: Textual amendment: [Ch. 9](https://www.legislation.gov.uk/asp/2012/8/chapter/9) heading substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 1(2)(c)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/1/2/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
 
-[^key-0f586e592d2a2ebb6c86ce3215ce3ee2]: Textual amendment: [Pt. 1 Ch. 9A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/9A) inserted (25.6.2025 for specified purposes) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 9(2)](https://www.legislation.gov.uk/asp/2025/5/section/9/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)
+[^c-0f586e592d2a2ebb6c86ce3215ce3ee2]: Textual amendment: [Pt. 1 Ch. 9A](https://www.legislation.gov.uk/asp/2012/8/part/1/chapter/9A) inserted (25.6.2025 for specified purposes) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 9(2)](https://www.legislation.gov.uk/asp/2025/5/section/9/2), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(i)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/i)
 
-[^key-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)
+[^c-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)

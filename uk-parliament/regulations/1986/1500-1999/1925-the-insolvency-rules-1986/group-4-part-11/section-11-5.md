@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.5. Decision to declare dividend[^key-85d08f8c8a87c78f226016242ecd7378]
+## 11.5. Decision to declare dividend[^c-85d08f8c8a87c78f226016242ecd7378]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ If the court gives leave under this paragraph, the insolvency practitioner shall
 
 ## Annotations
 
-[^key-85d08f8c8a87c78f226016242ecd7378]: Commencement: [Rule 11.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-85d08f8c8a87c78f226016242ecd7378]: Commencement: [Rule 11.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -25,7 +25,7 @@ summary: ''
 (2) A medical practitioner is a fully registered person—
 
 - (a) whose name is included in a medical performers list; and
-- (b) to whom any of paragraphs (3) to (6)[^key-ae66bfaa5b8e7c113e74149a16405002] apply.
+- (b) to whom any of paragraphs (3) to (6)[^c-ae66bfaa5b8e7c113e74149a16405002] apply.
 
 (3) This paragraph applies to—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae66bfaa5b8e7c113e74149a16405002]: Textual amendment: Word in [reg. 152(2)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/152/2/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2016/97/regulation/10)
+[^c-ae66bfaa5b8e7c113e74149a16405002]: Textual amendment: Word in [reg. 152(2)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/152/2/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2016/97/regulation/10)
 
 [^c22414891]: Marginal citation: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Liability of tenants under assured tenancies for council tax[^key-91a6890958025958c8cdce413f8e7a29][^key-e5adf987dc43331aac5e1c88f878f1af]
+## 28. Liability of tenants under assured tenancies for council tax[^c-91a6890958025958c8cdce413f8e7a29][^c-e5adf987dc43331aac5e1c88f878f1af]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In section 6(6) of the [Local Government Finance Act 1992](https://www.legislati
 
 ## Annotations
 
-[^key-91a6890958025958c8cdce413f8e7a29]: Commencement: S. 28 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-91a6890958025958c8cdce413f8e7a29]: Commencement: S. 28 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-e5adf987dc43331aac5e1c88f878f1af]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/26/section/28) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-e5adf987dc43331aac5e1c88f878f1af]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2025/26/section/28) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

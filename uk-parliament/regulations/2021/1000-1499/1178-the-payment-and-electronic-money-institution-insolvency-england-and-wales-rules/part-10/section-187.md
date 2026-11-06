@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. Principal court rules and practice to apply[^key-c007056347ff86f9b3760ab8916452fe]
+## 187. Principal court rules and practice to apply[^c-c007056347ff86f9b3760ab8916452fe]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c007056347ff86f9b3760ab8916452fe]: Commencement: Rule 187 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c007056347ff86f9b3760ab8916452fe]: Commencement: Rule 187 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00019]: Footnote: Part 37 was substituted by [S.I. 2006/3435](https://www.legislation.gov.uk/uksi/2006/3435).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Children and Family Court Advisory and Support Service[^key-51b594f7157728e66b1f408936657a23]
+## SCHEDULE 2 — Children and Family Court Advisory and Support Service[^c-51b594f7157728e66b1f408936657a23]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Section 11.
 
 *Extent: E+W*
 
-**1.** The Service is to consist of a chairman, and not less than nine[^key-3778137cc2c4b42a306349bc2348d539] other members, appointed by the Secretary of State[^key-43bd16197aa124bce3e2aad75a2df200].
+**1.** The Service is to consist of a chairman, and not less than nine[^c-3778137cc2c4b42a306349bc2348d539] other members, appointed by the Secretary of State[^c-43bd16197aa124bce3e2aad75a2df200].
 
 **2.** (1) Regulations may provide—
 
@@ -207,11 +207,11 @@ and must contain any additional information the Secretary of State may require t
 
 ## Annotations
 
-[^key-51b594f7157728e66b1f408936657a23]: Modification: Sch. 2: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
+[^c-51b594f7157728e66b1f408936657a23]: Modification: Sch. 2: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
 
-[^key-3778137cc2c4b42a306349bc2348d539]: Textual amendment: Word in Sch. 2 para. 1 substituted (1.4.2005) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [s. 67(6)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/6), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2004/31/schedule/3/paragraph/14); [S.I. 2005/700](https://www.legislation.gov.uk/uksi/2005/700), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/700/article/2/2)
+[^c-3778137cc2c4b42a306349bc2348d539]: Textual amendment: Word in Sch. 2 para. 1 substituted (1.4.2005) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [s. 67(6)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/6), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2004/31/schedule/3/paragraph/14); [S.I. 2005/700](https://www.legislation.gov.uk/uksi/2005/700), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/700/article/2/2)
 
-[^key-43bd16197aa124bce3e2aad75a2df200]: Textual amendment: Words in Sch. 2 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/4)
+[^c-43bd16197aa124bce3e2aad75a2df200]: Textual amendment: Words in Sch. 2 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/4)
 
 [^c10579651]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 

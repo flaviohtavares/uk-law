@@ -22,15 +22,15 @@ summary: ''
 
 Section 266.
 
-**1.**[^key-6ede4e95139967f27bfc819a59503e5c] The Mental Health Order is amended as follows.
+**1.**[^c-6ede4e95139967f27bfc819a59503e5c] The Mental Health Order is amended as follows.
 
-**2.**[^key-1896ca37ca53c2f745819e86e86313e8] Before Article 2 insert— “ Interpretation of Order ”.
+**2.**[^c-1896ca37ca53c2f745819e86e86313e8] Before Article 2 insert— “ Interpretation of Order ”.
 
-**3.** (1)[^key-64c6660987eeeae919fe8d5d95ffc1b2] Article 2 (interpretation) is amended as follows.
+**3.** (1)[^c-64c6660987eeeae919fe8d5d95ffc1b2] Article 2 (interpretation) is amended as follows.
 
-(2)[^key-64c6660987eeeae919fe8d5d95ffc1b2] Amend paragraph (2) of that Article in accordance with sub-paragraphs (3) to (9).
+(2)[^c-64c6660987eeeae919fe8d5d95ffc1b2] Amend paragraph (2) of that Article in accordance with sub-paragraphs (3) to (9).
 
-(3)[^key-f10701da1bb9e0c6807a60eed76f5d2a] Insert the following at the appropriate places—
+(3)[^c-f10701da1bb9e0c6807a60eed76f5d2a] Insert the following at the appropriate places—
 
 > “**the 2016 Act**” means the Mental Capacity Act (Northern Ireland) 2016;
 
@@ -58,7 +58,7 @@ Section 266.
 
 .
 
-(9)[^key-64c6660987eeeae919fe8d5d95ffc1b2] In the definition of “the Review Tribunal” for “the Mental Health Review Tribunal for Northern Ireland” substitute “ the Review Tribunal constituted under Article 70 ”.
+(9)[^c-64c6660987eeeae919fe8d5d95ffc1b2] In the definition of “the Review Tribunal” for “the Mental Health Review Tribunal for Northern Ireland” substitute “ the Review Tribunal constituted under Article 70 ”.
 
 (10) In paragraph (2A) of that Article—
 
@@ -67,7 +67,7 @@ Section 266.
 
 (11) Omit paragraph (3) of that Article.
 
-**4.**[^key-f3ee3fe8ba1d3836210db8683ebb2575] After Article 3 insert—
+**4.**[^c-f3ee3fe8ba1d3836210db8683ebb2575] After Article 3 insert—
 
 > **General provisions about patients under 16**
 >
@@ -543,9 +543,9 @@ Section 266.
 
 **37.** In Article 69 (treatment not requiring consent) after “63” insert “ , 63B ”.
 
-**38.**[^key-7c654218bc328d4ba29dea9afa19737b] For the heading of Part 5 substitute— “ THE REVIEW TRIBUNAL ”.
+**38.**[^c-7c654218bc328d4ba29dea9afa19737b] For the heading of Part 5 substitute— “ THE REVIEW TRIBUNAL ”.
 
-**39.**[^key-2e91894c769340e4aa88bcc758b76d43] In Article 70(1) (constitution of the Review Tribunal) for “Mental Health Review Tribunal for Northern Ireland” substitute “ Review Tribunal ”.
+**39.**[^c-2e91894c769340e4aa88bcc758b76d43] In Article 70(1) (constitution of the Review Tribunal) for “Mental Health Review Tribunal for Northern Ireland” substitute “ Review Tribunal ”.
 
 **Not yet in force.**
 
@@ -602,7 +602,7 @@ Section 266.
 
 **46.** In Article 81 (visiting and examination of patients) omit “or subject to guardianship”.
 
-**47.**[^key-7d27aabd952512a416a849d641f0c7d4] For Article 82 substitute—
+**47.**[^c-7d27aabd952512a416a849d641f0c7d4] For Article 82 substitute—
 
 > **82. Applications to the tribunal**
 >
@@ -618,9 +618,9 @@ Section 266.
 
 .
 
-**48.** (1)[^key-a6506daa8ba07ba4e5fe7c23fc926c5d] Article 83 (procedure of Tribunal) is amended as follows.
+**48.** (1)[^c-a6506daa8ba07ba4e5fe7c23fc926c5d] Article 83 (procedure of Tribunal) is amended as follows.
 
-(2)[^key-a6506daa8ba07ba4e5fe7c23fc926c5d] In paragraph (2)(a) and (i) omit “under this Order”.
+(2)[^c-a6506daa8ba07ba4e5fe7c23fc926c5d] In paragraph (2)(a) and (i) omit “under this Order”.
 
 (3) In paragraph (4)—
 
@@ -637,12 +637,12 @@ Section 266.
 
 .
 
-(5)[^key-a6506daa8ba07ba4e5fe7c23fc926c5d] In paragraph (5)—
+(5)[^c-a6506daa8ba07ba4e5fe7c23fc926c5d] In paragraph (5)—
 
 - (a) omit “by this Order or by rules under this Article”;
 - (b) at the end insert “ (but this is subject to any rules under this Article) ”.
 
-(6)[^key-a6506daa8ba07ba4e5fe7c23fc926c5d] After paragraph (8) insert—
+(6)[^c-a6506daa8ba07ba4e5fe7c23fc926c5d] After paragraph (8) insert—
 
 > (9) Any reference in this Article to a patient includes a person by or in respect of whom an application or reference to the Review Tribunal is made under the 2016 Act or any other statutory provision.
 
@@ -808,7 +808,7 @@ Section 266.
 
 **70.** Omit Schedule 2A (supervision and treatment orders).
 
-**71.**[^key-cab864416a108ae74a71c3cd2c4e4e26] (1) Schedule 3 (the Tribunal) is amended as follows.
+**71.**[^c-cab864416a108ae74a71c3cd2c4e4e26] (1) Schedule 3 (the Tribunal) is amended as follows.
 
 (2) For the title substitute— “ THE REVIEW TRIBUNAL ”.
 
@@ -827,22 +827,22 @@ Section 266.
 
 ## Annotations
 
-[^key-6ede4e95139967f27bfc819a59503e5c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/1) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-6ede4e95139967f27bfc819a59503e5c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/1) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-1896ca37ca53c2f745819e86e86313e8]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/2) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-1896ca37ca53c2f745819e86e86313e8]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/2) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-64c6660987eeeae919fe8d5d95ffc1b2]: Commencement: Sch. 8 para. 3(1)(2)(9) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-64c6660987eeeae919fe8d5d95ffc1b2]: Commencement: Sch. 8 para. 3(1)(2)(9) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-f10701da1bb9e0c6807a60eed76f5d2a]: Commencement: Sch. 8 para. 3(3) in operation at 2.12.2019 for specified purposes (but omit after “(Northern Ireland) 2016”) by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-f10701da1bb9e0c6807a60eed76f5d2a]: Commencement: Sch. 8 para. 3(3) in operation at 2.12.2019 for specified purposes (but omit after “(Northern Ireland) 2016”) by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-f3ee3fe8ba1d3836210db8683ebb2575]: Commencement: Sch. 8 para. 4 in operation at 2.12.2019 for specified purposes (but omit until “In-patients under 16: duties of hospital managers”) by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3), [4](https://www.legislation.gov.uk/nisr/2019/163/article/4)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-f3ee3fe8ba1d3836210db8683ebb2575]: Commencement: Sch. 8 para. 4 in operation at 2.12.2019 for specified purposes (but omit until “In-patients under 16: duties of hospital managers”) by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3), [4](https://www.legislation.gov.uk/nisr/2019/163/article/4)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-7c654218bc328d4ba29dea9afa19737b]: Commencement: [Sch. 8 para. 38](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/38) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-7c654218bc328d4ba29dea9afa19737b]: Commencement: [Sch. 8 para. 38](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/38) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-2e91894c769340e4aa88bcc758b76d43]: Commencement: [Sch. 8 para. 39](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/39) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-2e91894c769340e4aa88bcc758b76d43]: Commencement: [Sch. 8 para. 39](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/39) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-7d27aabd952512a416a849d641f0c7d4]: Commencement: [Sch. 8 para. 47](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/47) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-7d27aabd952512a416a849d641f0c7d4]: Commencement: [Sch. 8 para. 47](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/47) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-a6506daa8ba07ba4e5fe7c23fc926c5d]: Commencement: [Sch. 8 para. 48(1)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/1)[(2)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/2)[(5)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/5)[(6)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/6) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-a6506daa8ba07ba4e5fe7c23fc926c5d]: Commencement: [Sch. 8 para. 48(1)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/1)[(2)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/2)[(5)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/5)[(6)](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/48/6) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
 
-[^key-cab864416a108ae74a71c3cd2c4e4e26]: Commencement: [Sch. 8 para. 71](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/71) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-cab864416a108ae74a71c3cd2c4e4e26]: Commencement: [Sch. 8 para. 71](https://www.legislation.gov.uk/nia/2016/18/schedule/8/paragraph/71) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

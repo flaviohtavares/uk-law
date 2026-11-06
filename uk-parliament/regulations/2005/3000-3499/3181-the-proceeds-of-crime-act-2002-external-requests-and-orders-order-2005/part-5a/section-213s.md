@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213S. Victims and other owners[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213S. Victims and other owners[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) An application under paragraph (1) is to be made—
 
-- (a) in England and Wales or Northern Ireland[^key-2aaae6aaf83afa1f72572de9d52e08ca], to a magistrates’ court;
+- (a) in England and Wales or Northern Ireland[^c-2aaae6aaf83afa1f72572de9d52e08ca], to a magistrates’ court;
 - (b) in Scotland, to the sheriff.
 
 (3) The application may be made in the course of proceedings under article 213L (forfeiture) or at any other time.
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-2aaae6aaf83afa1f72572de9d52e08ca]: Textual amendment: Words in [art. 213S(2)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/213S/2/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [15](https://www.legislation.gov.uk/uksi/2021/638/article/15)
+[^c-2aaae6aaf83afa1f72572de9d52e08ca]: Textual amendment: Words in [art. 213S(2)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/213S/2/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [15](https://www.legislation.gov.uk/uksi/2021/638/article/15)

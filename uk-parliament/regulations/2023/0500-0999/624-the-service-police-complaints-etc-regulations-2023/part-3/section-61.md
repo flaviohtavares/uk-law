@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Action by the Commissioner in relation to an investigation report under regulation 60[^key-de1b5893534d3e1c25929675d360e95b]
+## 61. Action by the Commissioner in relation to an investigation report under regulation 60[^c-de1b5893534d3e1c25929675d360e95b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the Commissioner must notify the appropriate authority in relation to the person
 
 ## Annotations
 
-[^key-de1b5893534d3e1c25929675d360e95b]: Commencement: Reg. 61 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-de1b5893534d3e1c25929675d360e95b]: Commencement: Reg. 61 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

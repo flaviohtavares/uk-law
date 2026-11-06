@@ -29,7 +29,7 @@ summary: ''
 - (e) any body prescribed for the purposes of those sections and on which any such body as is mentioned in any of the foregoing paragraphs is represented; and
 - (f)[^c9670651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-e53156b67b79a8dc9e7ce789a1e2a932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-e53156b67b79a8dc9e7ce789a1e2a932] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c9670582] In sections 46 to 48 above “**approved duty**”, in relation to a member of a body, means such duties as may be specified in or determined under regulations made by the Secretary of State.
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c9670651]: Textual amendment: [S. 49(1)](https://www.legislation.gov.uk/ukpga/1973/65/section/49/1)(*f*) repealed by [Local Government (Scotland) Act 1975 (c. 30)](https://www.legislation.gov.uk/ukpga/1975/30), [Sch. 7](https://www.legislation.gov.uk/ukpga/1975/30/schedule/7)
 
-[^key-e53156b67b79a8dc9e7ce789a1e2a932]: Textual amendment: [S. 49(1A)](https://www.legislation.gov.uk/ukpga/1973/65/section/49/1A) repealed (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/5) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-e53156b67b79a8dc9e7ce789a1e2a932]: Textual amendment: [S. 49(1A)](https://www.legislation.gov.uk/ukpga/1973/65/section/49/1A) repealed (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/5) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
 [^c9670582]: Textual amendment: [S. 49(2)](https://www.legislation.gov.uk/ukpga/1973/65/section/49/2) substituted (16.1.1990 for certain purposes and otherwise prosp.) by [Local Government and Housing Act 1989 (c. 42, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1989/42), [ss. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 11 para. 35(3)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/35/3); [S.I. 1989/2445](https://www.legislation.gov.uk/uksi/1989/2445), [art. 4](https://www.legislation.gov.uk/uksi/1989/2445/article/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Sections 30 to 34: interpretation[^key-3f85dde137e24cb7c73efd06bebc77dc][^key-70c2feeb8bdfdc4db9d95ce2f0d01d23]
+## 36. Sections 30 to 34: interpretation[^c-3f85dde137e24cb7c73efd06bebc77dc][^c-70c2feeb8bdfdc4db9d95ce2f0d01d23]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f85dde137e24cb7c73efd06bebc77dc]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-3f85dde137e24cb7c73efd06bebc77dc]: Commencement: S. 36 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-70c2feeb8bdfdc4db9d95ce2f0d01d23]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/31/section/36) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)
+[^c-70c2feeb8bdfdc4db9d95ce2f0d01d23]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/31/section/36) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/c)

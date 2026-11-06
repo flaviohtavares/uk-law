@@ -28,8 +28,8 @@ summary: ''
 
 (4) If the taxpayer is entitled to a tax reduction under—
 
-- (a) sections 2 and 6 of TIOPA 2010[^key-8e119ddfe1dc2d2aa96184ec07ff34af] (double taxation arrangements: relief by agreement), or
-- (b) section 18(1)(b) and (2) of TIOPA 2010[^key-46a450187dc12282bea6bb6931c43e9e] (relief for foreign tax where no double taxation arrangements),
+- (a) sections 2 and 6 of TIOPA 2010[^c-8e119ddfe1dc2d2aa96184ec07ff34af] (double taxation arrangements: relief by agreement), or
+- (b) section 18(1)(b) and (2) of TIOPA 2010[^c-46a450187dc12282bea6bb6931c43e9e] (relief for foreign tax where no double taxation arrangements),
 
 that tax reduction must be deducted after any other tax reduction to which the taxpayer is entitled for the tax year, subject to subsection (5).
 
@@ -37,6 +37,6 @@ that tax reduction must be deducted after any other tax reduction to which the t
 
 ## Annotations
 
-[^key-8e119ddfe1dc2d2aa96184ec07ff34af]: Textual amendment: Words in s. 28(4)(a) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 75(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/75/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-8e119ddfe1dc2d2aa96184ec07ff34af]: Textual amendment: Words in s. 28(4)(a) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 75(a)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/75/a) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-46a450187dc12282bea6bb6931c43e9e]: Textual amendment: Words in s. 28(4)(b) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 75(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/75/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-46a450187dc12282bea6bb6931c43e9e]: Textual amendment: Words in s. 28(4)(b) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 75(b)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/75/b) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -33,32 +33,32 @@ Consolidated Fund Act 2004 (repealed)
 
 \[22nd March 2004\]
 
-[^key-c5b30b6a61cc1227d8602e034d51c404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5b30b6a61cc1227d8602e034d51c404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5b30b6a61cc1227d8602e034d51c404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5b30b6a61cc1227d8602e034d51c404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Use of resources for the year that ended with 31st March 2003[^key-c5b30b6a61cc1227d8602e034d51c404][^key-c5b30b6a61cc1227d8602e034d51c404]
+## 1. Use of resources for the year that ended with 31st March 2003[^c-c5b30b6a61cc1227d8602e034d51c404][^c-c5b30b6a61cc1227d8602e034d51c404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Issue out of the Consolidated Fund for the year that ended with 31st March 2003[^key-c5b30b6a61cc1227d8602e034d51c404][^key-c5b30b6a61cc1227d8602e034d51c404]
+## 2. Issue out of the Consolidated Fund for the year that ended with 31st March 2003[^c-c5b30b6a61cc1227d8602e034d51c404][^c-c5b30b6a61cc1227d8602e034d51c404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources for the year ending with 31st March 2004[^key-c5b30b6a61cc1227d8602e034d51c404][^key-c5b30b6a61cc1227d8602e034d51c404]
+## 3. Use of resources for the year ending with 31st March 2004[^c-c5b30b6a61cc1227d8602e034d51c404][^c-c5b30b6a61cc1227d8602e034d51c404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue out of the Consolidated Fund for the year ending with 31st March 2004[^key-c5b30b6a61cc1227d8602e034d51c404][^key-c5b30b6a61cc1227d8602e034d51c404]
+## 4. Issue out of the Consolidated Fund for the year ending with 31st March 2004[^c-c5b30b6a61cc1227d8602e034d51c404][^c-c5b30b6a61cc1227d8602e034d51c404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title[^key-c5b30b6a61cc1227d8602e034d51c404][^key-c5b30b6a61cc1227d8602e034d51c404]
+## 5. Short title[^c-c5b30b6a61cc1227d8602e034d51c404][^c-c5b30b6a61cc1227d8602e034d51c404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5b30b6a61cc1227d8602e034d51c404]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2004/1) repealed (19.7.2006) by [Appropriation (No 2) Act 2006 (c. 24)](https://www.legislation.gov.uk/ukpga/2006/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/24/schedule/3)
+[^c-c5b30b6a61cc1227d8602e034d51c404]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2004/1) repealed (19.7.2006) by [Appropriation (No 2) Act 2006 (c. 24)](https://www.legislation.gov.uk/ukpga/2006/24), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/24/schedule/3)

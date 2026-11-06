@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Offences: criminal liability of others[^key-973b67704f775df3d453f16b6f6970a0][^key-c851480ccd7cbcaac318c23d9f3593d4]
+## 239. Offences: criminal liability of others[^c-973b67704f775df3d453f16b6f6970a0][^c-c851480ccd7cbcaac318c23d9f3593d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-973b67704f775df3d453f16b6f6970a0]: Commencement: S. 239 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-973b67704f775df3d453f16b6f6970a0]: Commencement: S. 239 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c851480ccd7cbcaac318c23d9f3593d4]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2024/13/section/239) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-c851480ccd7cbcaac318c23d9f3593d4]: Commencement: [S. 239](https://www.legislation.gov.uk/ukpga/2024/13/section/239) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

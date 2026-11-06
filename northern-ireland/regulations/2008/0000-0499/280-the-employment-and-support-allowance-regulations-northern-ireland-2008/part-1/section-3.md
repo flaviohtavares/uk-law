@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Rounding of fractions[^key-c06cdd94cd05ebe61d3d45e5a88b2cc2]
+## 3. Rounding of fractions[^c-c06cdd94cd05ebe61d3d45e5a88b2cc2]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of these Regulations—
 
 ## Annotations
 
-[^key-c06cdd94cd05ebe61d3d45e5a88b2cc2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/280/regulation/3) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-c06cdd94cd05ebe61d3d45e5a88b2cc2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/280/regulation/3) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

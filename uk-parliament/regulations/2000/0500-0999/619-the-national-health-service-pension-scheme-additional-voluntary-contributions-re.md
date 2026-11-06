@@ -47,7 +47,7 @@ The Secretary of State for Health, in exercise of the powers conferred upon him 
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and retrospective effect[^key-eab9fb0fd5998a4798f7a60c00431df7]
+### 1. Citation, commencement and retrospective effect[^c-eab9fb0fd5998a4798f7a60c00431df7]
 
 (1) These Regulations may be cited as the National Health Service Pension Scheme (Additional Voluntary Contributions) Regulations 2000.
 
@@ -62,70 +62,70 @@ The Secretary of State for Health, in exercise of the powers conferred upon him 
 
 (4) Regulation 11(6) shall have effect from 1st December 1999.
 
-### 2. Interpretation[^key-3e64b8dcadfba91cc652f281adf48ee5]
+### 2. Interpretation[^c-3e64b8dcadfba91cc652f281adf48ee5]
 
 (1) In these Regulations—
 
-- “the[^key-8d568d0fe027ca1f7b9a9690825e6a29] 1993 Act” means the Pension Schemes Act 1993;
-- “the[^key-936d7b8fd7a53010e19630a16d85e92e] 1995 Regulations” means the National Health Service Pension Scheme Regulations 1995;
+- “the[^c-8d568d0fe027ca1f7b9a9690825e6a29] 1993 Act” means the Pension Schemes Act 1993;
+- “the[^c-936d7b8fd7a53010e19630a16d85e92e] 1995 Regulations” means the National Health Service Pension Scheme Regulations 1995;
 - “the 1999 Act” means the Welfare Reform and Pensions Act 1999;
-- “the[^key-752e57bb42324348b104dd2ca1ab503d] 2004 Act” means the Finance Act 2004;
+- “the[^c-752e57bb42324348b104dd2ca1ab503d] 2004 Act” means the Finance Act 2004;
 - “the 2008 Regulations” means the National Health Service Pension Scheme Regulations 2008;
-- “the 2009 Regulations” means the Registered Pension Schemes (Authorised Payments) Regulations 2009;[^key-7534ec3ef907e784e7b405ecf8a29d23]
+- “the 2009 Regulations” means the Registered Pension Schemes (Authorised Payments) Regulations 2009;[^c-7534ec3ef907e784e7b405ecf8a29d23]
 - “the 2014 Act” means the Taxation of Pensions Act 2014;
 - “the 2015 Regulations” means the National Health Service Pension Scheme Regulations 2015;
 - “the AVC scheme” means the scheme whose rules are set out in these Regulations;
-- [^key-a7feec07e8ae92eebe6bf8ab2b0a8bb9]...
-- [^key-7d75b008a3107f0d393aab0744c87dbe]...
-- [^key-1243193d2673861a37554a2217181f06]...
+- [^c-a7feec07e8ae92eebe6bf8ab2b0a8bb9]...
+- [^c-7d75b008a3107f0d393aab0744c87dbe]...
+- [^c-1243193d2673861a37554a2217181f06]...
 - “appropriate rights” means rights which are described in paragraph 5 of Schedule 5 to the 1999 Act (pension credits: mode of discharge—appropriate rights);
 - “approved scheme” means a retirement benefit scheme approved under Chapter I of Part XIV of the Taxes Act (retirement benefit schemes);
-- “authorised fund” means a fund managed by—[^key-ba7fdde73b6a04ba71f12d4a636db658]
+- “authorised fund” means a fund managed by—[^c-ba7fdde73b6a04ba71f12d4a636db658]
   - (a) an authorised provider selected by the Secretary of State for the purposes of these Regulations; or
   - (b) any successor, transmittee or assignee of any person in paragraph (a) who is—
     - (i) an authorised provider; and
     - (ii) approved by the Secretary of State;
-- “authorised provider” in relation to any benefit means a person listed in section 154(1)(a) to (g) of the Finance Act 2004 in relation to the provision of that benefit;[^key-7bf526544164a2e5d62897b3b1dda7ea]
+- “authorised provider” in relation to any benefit means a person listed in section 154(1)(a) to (g) of the Finance Act 2004 in relation to the provision of that benefit;[^c-7bf526544164a2e5d62897b3b1dda7ea]
 - “child” means a person who qualifies for—[^M_F_06c5aa76-f933-4977-c451-a47fdf8d293c]
-  - (a) a child’s allowance under regulation H2 of the 1995 Regulations; [^key-2f300d45dd1030c8a6ff0bdd86e060bc]...
-  - (b) a child’s pension under regulation 2.E.8 or 3.E.8 of the 2008 Regulations; or[^key-ce539050d58e1e439217fc827f6e0747]
+  - (a) a child’s allowance under regulation H2 of the 1995 Regulations; [^c-2f300d45dd1030c8a6ff0bdd86e060bc]...
+  - (b) a child’s pension under regulation 2.E.8 or 3.E.8 of the 2008 Regulations; or[^c-ce539050d58e1e439217fc827f6e0747]
   - (c) a child’s pension under regulation 121 of the 2015 Regulations;
-- “civil partner” and “civil partnership” are to be construed in accordance with regulation 2A;[^key-4f2974dbf020c59f343a6d0f450e9a98]
+- “civil partner” and “civil partnership” are to be construed in accordance with regulation 2A;[^c-4f2974dbf020c59f343a6d0f450e9a98]
 - “contributor” means a person in respect of whom an election under regulation 3(1) has effect;
 - “date of retirement” means the date on which benefits become payable to the participator under—
-  - (a) regulation E1 to E5 or L1 of the 1995 Regulations; [^key-3058a45c3c4d526c06d286c2f9b5d1c4]...
+  - (a) regulation E1 to E5 or L1 of the 1995 Regulations; [^c-3058a45c3c4d526c06d286c2f9b5d1c4]...
   - (b) regulation 2.D.1, 2.D.4, 2.D.5, 2.D.8, 2.D.10, 2.D.11, 3.D.1, 3.D.4, 3.D.5, 3.D.7 or 3.D.9 of the 2008 Regulations;
-  - (c) regulations 73, 79, 81, 82, 84, 90 and 94 of the 2015 Regulations; or[^key-3cb0014612941cd7676d81ceb85a45e2]
+  - (c) regulations 73, 79, 81, 82, 84, 90 and 94 of the 2015 Regulations; or[^c-3cb0014612941cd7676d81ceb85a45e2]
   - (d) in the case of a benefit referred to in regulation 11(1)(d), a commencement date that the participator requests and that is on, or after, the participator’s normal minimum pension age: for these purposes, normal minimum pension age has the meaning given in section 279(1) of the 2004 Act;
 - “dependant” means—
   - (a) a surviving spouse of a participator (providing the marriage was not, prior to 6th March 1995, subject to an order of judicial separation);
   - (b) any surviving child of a participator; or
   - (c) any person in whose favour a participator has made an election under—
     - (i) regulation J1 of the 1995 Regulations; or
-    - (ii) regulation 2.D.18 or 3.D.14 of the 2008 Regulations; or[^key-b950e4137622f3fe72c0e54b08ff4c9f]
+    - (ii) regulation 2.D.18 or 3.D.14 of the 2008 Regulations; or[^c-b950e4137622f3fe72c0e54b08ff4c9f]
     - (iii) regulation 51 of the 2015 Regulations;
-  - (d) a surviving civil partner or surviving scheme partner[^key-8039e7bbcfc218c542525382040dca30];
+  - (d) a surviving civil partner or surviving scheme partner[^c-8039e7bbcfc218c542525382040dca30];
 - “dependant’s pension” means a pension which becomes payable to a dependant on the death of a participator;
 - “eligible member” has the meaning given by section 101P(1) of the 1993 Act;
-- [^key-1243193d2673861a37554a2217181f06]...
+- [^c-1243193d2673861a37554a2217181f06]...
 - “the Index” at any time means the Retail Price Index, or any successor agreed as appropriate by the Board of Inland Revenue, for the calendar month three months prior to that time;
 - [^M_F_c092be24-9cfe-4013-a691-8b320202f504]...
-- “insurer” means—[^key-207594540de39b77beb0d72e19d836bd]
-  - (a) a person with permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, [^key-e5fb5b56d4e6b0f1abd019c76b3cf418]...
-  - (b) [^key-e5fb5b56d4e6b0f1abd019c76b3cf418]...;
+- “insurer” means—[^c-207594540de39b77beb0d72e19d836bd]
+  - (a) a person with permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance, [^c-e5fb5b56d4e6b0f1abd019c76b3cf418]...
+  - (b) [^c-e5fb5b56d4e6b0f1abd019c76b3cf418]...;
 - “lifetime allowance” shall be construed in accordance with Part 4 of the 2004 Act (pension schemes etc.);
 - “lump sum death benefit” means a lump sum which will become payable in the event of a person’s death while paying contributions to provide for it;
 - “marriage” does not include a reference to marriage of a same sex couple unless otherwise provided;
-- “NHS Pension Scheme” means the National Health Service Pension Scheme for England and Wales, the rules of which are set out in the 1995 Regulations, the 2008 Regulations or the 2015 Regulations[^key-a1ee76678fa1a1891a8b0aef31f5dcef], as the case may be;
-- “normal benefit age” , in relation to the AVC scheme, means—[^key-5f507bd0649e79c222652db04566a667]
+- “NHS Pension Scheme” means the National Health Service Pension Scheme for England and Wales, the rules of which are set out in the 1995 Regulations, the 2008 Regulations or the 2015 Regulations[^c-a1ee76678fa1a1891a8b0aef31f5dcef], as the case may be;
+- “normal benefit age” , in relation to the AVC scheme, means—[^c-5f507bd0649e79c222652db04566a667]
   - (a) in the case of a person who was a member of the NHS Pension Scheme governed by the 1995 Regulations at the date that person’s election under regulation 3 took effect, the age of 60;
   - (b) in the case of a person who was a member of the NHS Pension Scheme governed by the 2008 Regulations at the date that person’s election under regulation 3 took effect, the age of 65;
   - (c) in the case of a person who was a member of the NHS Pension Scheme governed by the 2015 Regulations at the date that person’s election under regulation 3 took effect—
     - (i) the person’s state pension age, or if higher,
     - (ii) the age of 65;
-- “occupational pension scheme” has the meaning given by section 1 of the Pension Schemes Act 1993[^key-cf6422b07ad2ac56c4c9cdb0540677be][^f00007];
+- “occupational pension scheme” has the meaning given by section 1 of the Pension Schemes Act 1993[^c-cf6422b07ad2ac56c4c9cdb0540677be][^f00007];
 - “participator” means—
-  - (a) a contributor who has made benefits election under regulation 11[^key-2b0b8d497a4bc36c8d49d4ea31954480];
+  - (a) a contributor who has made benefits election under regulation 11[^c-2b0b8d497a4bc36c8d49d4ea31954480];
   - (b) a contributor who has died;
   - (c) a person who has ceased to be a contributor but has not exercised any right to receive a cash equivalent within the meaning of section 94 of the Pension Schemes Act 1993[^f00014] or to be paid a lump sum under regulation 14; or
   - (d) a person in respect of whom investments have been made under regulation 7(1), 8(2) or 9(4);
@@ -134,23 +134,23 @@ The Secretary of State for Health, in exercise of the powers conferred upon him 
 - “pension credit benefit” has the meaning given by section 101B of the 1993 Act;
 - “pension credit member” has the meaning given by section 124(1) of the Pensions Act 1995;
 - “pension credit rights” has the meaning given by section 101B of the 1993 Act;
-- “pensionable employment” means NHS employment in respect of which a person contributes to the NHS Pension Scheme, or such other employment as the Secretary of State may approve for the purposes of a direction under section 7 of the Superannuation (Miscellaneous[^key-42be2ccbe4f92a6b6c926c93c22572e8] Provisions)[^key-2d899820c4b81d28aeb83885fe82b75e] Act 1967 or a determination under section 25(5) of the Public Service Pensions Act 2013;
+- “pensionable employment” means NHS employment in respect of which a person contributes to the NHS Pension Scheme, or such other employment as the Secretary of State may approve for the purposes of a direction under section 7 of the Superannuation (Miscellaneous[^c-42be2ccbe4f92a6b6c926c93c22572e8] Provisions)[^c-2d899820c4b81d28aeb83885fe82b75e] Act 1967 or a determination under section 25(5) of the Public Service Pensions Act 2013;
 - “pensionable service” is to be construed in accordance with whichever of the following is applicable—
   - (a) regulation C2 of the 1995 Regulations;
   - (b) regulation 2.A.2 or 3.A.3 of the 2008 Regulations;
-  - (c) regulation 20 of the 2015 Regulations;[^key-0419a8dd36f23a90638445a39d96a6ff]
-- [^key-1243193d2673861a37554a2217181f06]...
+  - (c) regulation 20 of the 2015 Regulations;[^c-0419a8dd36f23a90638445a39d96a6ff]
+- [^c-1243193d2673861a37554a2217181f06]...
 - “registered pension scheme” has the meaning given by section 150(2) of the 2004 Act;
 - “retirement” is to be construed in accordance with whichever of the following is applicable—
   - (a) the 1995 Regulations;
   - (b) the 2008 Regulations;
-  - (c) the 2015 Regulations;[^key-823b01de7f459f4613cc3dddd24dfe7e]
-- [^key-1243193d2673861a37554a2217181f06]...
+  - (c) the 2015 Regulations;[^c-823b01de7f459f4613cc3dddd24dfe7e]
+- [^c-1243193d2673861a37554a2217181f06]...
 - “salary” means all salary, wages, fees and other payments paid or made to a person for his own use in respect of his employment;
-- “selected authorised provider” means an authorised provider selected by the Secretary of State including an authorised provider to whom contracts of insurance are transferred as part of an insurance business transfer scheme for the purposes of Part VII of the Financial Services and Markets Act 2000[^key-6fd8d71a8a9b1c441bbd3ab0fb149f8d];
+- “selected authorised provider” means an authorised provider selected by the Secretary of State including an authorised provider to whom contracts of insurance are transferred as part of an insurance business transfer scheme for the purposes of Part VII of the Financial Services and Markets Act 2000[^c-6fd8d71a8a9b1c441bbd3ab0fb149f8d];
 - “widow” and “widower” do not include a reference to marriage of a same sex couple.
 
-(1A)[^key-a3eb2812cd78e98993accc6660541052] A person (P) is the scheme partner of a participator if —
+(1A)[^c-a3eb2812cd78e98993accc6660541052] A person (P) is the scheme partner of a participator if —
 
 - (a) the participator and P are living together as if they were husband and wife or civil partners,
 - (b) the participator and P are not prevented from marrying or entering into a civil partnership,
@@ -159,15 +159,15 @@ The Secretary of State for Health, in exercise of the powers conferred upon him 
 
 (1B) A person is a surviving scheme partner of a participator if the Secretary of State is satisfied that for a continuous period of at least two years, ending with the participator’s death, the person was the scheme partner of that participator.
 
-(2) Subject as aforesaid and except where the context otherwise requires, other expressions in these Regulations have the same meaning as in the[^key-7c65212ff4b47981207e28f2c21b85f8] 1995 Regulations, 2008 Regulations or the 2015 Regulations[^key-1970a2ff4abfe1ea6750d8b35d5e1858], as the case may be.
+(2) Subject as aforesaid and except where the context otherwise requires, other expressions in these Regulations have the same meaning as in the[^c-7c65212ff4b47981207e28f2c21b85f8] 1995 Regulations, 2008 Regulations or the 2015 Regulations[^c-1970a2ff4abfe1ea6750d8b35d5e1858], as the case may be.
 
-(3)[^key-53a890032aa41dc874d60e2260b0d03e] The definition of “insurer” in paragraph (1) above must be read with—
+(3)[^c-53a890032aa41dc874d60e2260b0d03e] The definition of “insurer” in paragraph (1) above must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-### 2A. Civil partnerships and marriage of same sex couples[^key-bce04dc7b81e4dc2bc38a5167e4e4151]
+### 2A. Civil partnerships and marriage of same sex couples[^c-bce04dc7b81e4dc2bc38a5167e4e4151]
 
 (1) In these Regulations, except as provided in paragraph (5), a reference to—
 
@@ -187,21 +187,21 @@ The Secretary of State for Health, in exercise of the powers conferred upon him 
 
 ## PART II — ADDITIONAL VOLUNTARY CONTRIBUTIONS
 
-### 3. Making and acceptance of elections[^key-fb2cbe68cb8ca2dd0c10aaa84deab83b]
+### 3. Making and acceptance of elections[^c-fb2cbe68cb8ca2dd0c10aaa84deab83b]
 
 (1) Subject to paragraph (3), a person in pensionable employment may elect to pay contributions under these Regulations for one or both of the following purposes—
 
-- (a) for investment under regulation 7(1) to provide one or more of the benefits referred to in regulation 11[^key-ff1e7780e911b696d3a61cdbe067681e]; or
+- (a) for investment under regulation 7(1) to provide one or more of the benefits referred to in regulation 11[^c-ff1e7780e911b696d3a61cdbe067681e]; or
 - (b) in accordance with regulation 7(2) to provide for a lump sum death benefit.
 
-[^key-6bf5c1c5de613318694efc3aa3ca7701]...
+[^c-6bf5c1c5de613318694efc3aa3ca7701]...
 
 (2) An election under under paragraph (1) may relate to contributions to be paid by, or on behalf of, the contributor, or contributions to be paid by the contributor’s employer, or both.
 
 (3) If the person making an election—
 
-- (a) under paragraph (1)(b) is on leave of absence from his employment due to ill health on the date on which the notice of such an election is received by the Secretary of State; [^key-7df0857def50c51ddeafc8bccd684f62]...
-- (b)[^key-22205eac40b152ff39aee7f8db4f067c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) under paragraph (1)(b) is on leave of absence from his employment due to ill health on the date on which the notice of such an election is received by the Secretary of State; [^c-7df0857def50c51ddeafc8bccd684f62]...
+- (b)[^c-22205eac40b152ff39aee7f8db4f067c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 such an election shall not have effect.
 
@@ -213,13 +213,13 @@ such an election shall not have effect.
 
 (5) The Secretary of State shall not accept an election under paragraph (1)—
 
-- (a)[^key-672b549868c11aac82d1ee09d8849c34] where any limit imposed by regulation 4(4) would be exceeded; or
+- (a)[^c-672b549868c11aac82d1ee09d8849c34] where any limit imposed by regulation 4(4) would be exceeded; or
 - (b) in the case of an election for the purposes of paragraph (1)(b), unless he is satisfied that—
   - (i) the person making the election has complied with the requirements of regulation 16(2) (provision of information); and
   - (ii) at the time of making an election the person is in good health; and
   - (iii) there is not reason why his health should prevent him from making contributions.
 
-(6) In the case of a person whose membership of the[^key-1a05c191b9158f82fee94ed30a4f595c] NHS Pension Scheme is governed by the 1995 Regulations, subject to paragraph (5)(b) above and regulation 4(4)—
+(6) In the case of a person whose membership of the[^c-1a05c191b9158f82fee94ed30a4f595c] NHS Pension Scheme is governed by the 1995 Regulations, subject to paragraph (5)(b) above and regulation 4(4)—
 
 - (a) where contributions are paid for the purposes of paragraph (1)(b)—
   - (i) until the contributor reaches his 60th birthday; and
@@ -228,7 +228,7 @@ such an election shall not have effect.
   the contributor may elect for further contributions to be paid until he reaches his 61st birthday; and
 - (b) a person to whom paragraph (a) above applies may continue to elect annually for further contributions to be paid provided he continues to be in pensionable employment.
 
-(6A)[^key-32ad8ba7ac20ca55a82d5a2990834de3] In the case of a person whose membership of the NHS Pension Scheme is governed by the 2008 Regulations, subject to paragraph (5)(b) and regulation 4(4)—
+(6A)[^c-32ad8ba7ac20ca55a82d5a2990834de3] In the case of a person whose membership of the NHS Pension Scheme is governed by the 2008 Regulations, subject to paragraph (5)(b) and regulation 4(4)—
 
 - (a) if contributions are paid for the purposes of paragraph (1)(b)—
   - (i) until the contributor reaches their 65th birthday; and
@@ -237,7 +237,7 @@ such an election shall not have effect.
   the contributor may elect for further contributions to be paid until they reach their 66th birthday; and
 - (b) a person to whom paragraph (a) applies may continue to elect annually for further contributions to be paid provided they continue to be in pensionable employment.
 
-(6B)[^key-4e0014e1fa79fa64dc3a5313f66f6436] A person whose membership of the NHS Pension Scheme is governed by the 2015 Regulations and who is in pensionable employment may, upon attaining normal benefit age—
+(6B)[^c-4e0014e1fa79fa64dc3a5313f66f6436] A person whose membership of the NHS Pension Scheme is governed by the 2015 Regulations and who is in pensionable employment may, upon attaining normal benefit age—
 
 - (a) where contributions have been paid for the purposes of paragraph (1)(b), elect for further contributions to be paid for 12 months beyond the attainment of normal benefit age birthday, and
 - (b) continue to elect annually for further contributions to be paid provided that person remains in pensionable employment.
@@ -248,11 +248,11 @@ such an election shall not have effect.
 - (b) paragraph (5)(b);
 - (c) regulation 4(4).
 
-(7) For the purposes of paragraph (1), (6), (6A) or (6B)[^key-d9ab514584bf5d8109a27ce6cb667a38] of this regulation, an election shall have effect from the date when it is accepted by the Secretary of State.
+(7) For the purposes of paragraph (1), (6), (6A) or (6B)[^c-d9ab514584bf5d8109a27ce6cb667a38] of this regulation, an election shall have effect from the date when it is accepted by the Secretary of State.
 
 (8) The Secretary of State shall notify in writing the person who has made an election under paragraph (1), of the Secretary of State’s acceptance of that election.
 
-### 4. Payment and amount of additional voluntary contributions[^key-4be55b0bce720c6abbedd73267bb2ee7]
+### 4. Payment and amount of additional voluntary contributions[^c-4be55b0bce720c6abbedd73267bb2ee7]
 
 (1) Contributions under these Regulations may be made by way of—
 
@@ -268,19 +268,19 @@ such an election shall not have effect.
   - (i) as soon as is reasonably practicable; or
   - (ii) in the case of deductions to be made on or after the date on which these Regulations come into force, no later than 7 days after their deduction.
 
-(4)[^key-49d38a7c7934b07e13ed19bf20a33f3f] In any period of 12 months beginning on 6th April in any year the total contributions payable by the contributor shall not exceed 100 per cent of the amount which represents the contributor’s salary from NHS employment less the total of any contributions paid by the contributor in respect of that year—
+(4)[^c-49d38a7c7934b07e13ed19bf20a33f3f] In any period of 12 months beginning on 6th April in any year the total contributions payable by the contributor shall not exceed 100 per cent of the amount which represents the contributor’s salary from NHS employment less the total of any contributions paid by the contributor in respect of that year—
 
-- (a)[^key-9021a14f64c2a45e24af3948849018af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) under the 1995 Regulations, 2008 Regulations or the 2015 Regulations[^key-2fc926c791731d8ebad85339aeadb114][^key-3f928881d03dd99d4eb69a8fd01e9638] (as the case may be).
+- (a)[^c-9021a14f64c2a45e24af3948849018af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) under the 1995 Regulations, 2008 Regulations or the 2015 Regulations[^c-2fc926c791731d8ebad85339aeadb114][^c-3f928881d03dd99d4eb69a8fd01e9638] (as the case may be).
 
-(4A)[^key-d1a0eb378985071f50926be6a1c7f86b] In this regulation—
+(4A)[^c-d1a0eb378985071f50926be6a1c7f86b] In this regulation—
 
-- “employer” has the same meaning as “employing authority” in the 1995 Regulations, 2008 Regulations or the 2015 Regulations[^key-fb52631f05bda505da70cd680eb022dc] (as the case may be) and, where the context requires, includes a host [^key-4e3d4d56b443366bc12b15ef0cc5a63d]... Board (as defined in the relevant Regulations); and
+- “employer” has the same meaning as “employing authority” in the 1995 Regulations, 2008 Regulations or the 2015 Regulations[^c-fb52631f05bda505da70cd680eb022dc] (as the case may be) and, where the context requires, includes a host [^c-4e3d4d56b443366bc12b15ef0cc5a63d]... Board (as defined in the relevant Regulations); and
 - “salary” includes pensionable pay and pensionable earnings (within the meaning of the 1995 Regulations, 2008 Regulations or the 2015 Regulations (as the case may be)).
 
-(5)[^key-73feacbe1ae4466c81812395a93aa37d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-73feacbe1ae4466c81812395a93aa37d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Variation and cancellation of elections[^key-5065f4848b4601e97d318fafa52fcc8a]
+### 5. Variation and cancellation of elections[^c-5065f4848b4601e97d318fafa52fcc8a]
 
 (1) A contributor who has elected under regulation 3(1)(a) to pay contributions for the purpose of investment under regulation 7(1) may at any time by giving written notice to the Secretary of State—
 
@@ -291,12 +291,12 @@ such an election shall not have effect.
 
 (2) A contributor who has elected under regulation 3(1)(b) to pay contributions to provide a lump sum death benefit under regulation 7(2) may at any time by giving written notice to the Secretary of State—
 
-- (a) subject to regulation 4(4) [^key-d2e8a173127c7a51e0b871dedb756fca]... and provided the circumstances described in regulation 3(3) do not exist such that the Secretary of State would not accept an election under regulation 3(1)(b), elect that a specified larger sum is to be secured and the contributions increased accordingly; or
+- (a) subject to regulation 4(4) [^c-d2e8a173127c7a51e0b871dedb756fca]... and provided the circumstances described in regulation 3(3) do not exist such that the Secretary of State would not accept an election under regulation 3(1)(b), elect that a specified larger sum is to be secured and the contributions increased accordingly; or
 - (b) cancel the election.
 
 (3) The Secretary of State shall give effect as soon as is reasonably practicable to the terms of any notice given under this regulation.
 
-### 6. Circumstances in which elections cease to have effect[^key-3a356889e4f4c502b77154463fa4dd46]
+### 6. Circumstances in which elections cease to have effect[^c-3a356889e4f4c502b77154463fa4dd46]
 
 (1) An election shall cease to have effect where a contributor—
 
@@ -315,15 +315,15 @@ This is subject to paragraphs (2) and (3).
 
 This does not apply where sub-paragraphs (a) or (c) of paragraph (1) apply.
 
-### 7. Investment of additional voluntary contributions[^key-b6914c9dd737a9c5652c10c061143e71]
+### 7. Investment of additional voluntary contributions[^c-b6914c9dd737a9c5652c10c061143e71]
 
 (1) Any contributions paid in respect of a contributor for investment under this paragraph shall be invested by the Secretary of State in accordance with any notice under regulation 3(4) or 5(1).
 
-(2) Any contributions paid in respect of a contributor to provide for a lump sum death benefit under this paragraph shall be paid by the Secretary of State to an insurer[^key-2fc8c5b2a50cfe230f69986e433a7c02] selected by him so as to secure the payment of a lump sum death benefit of the amount required by any notice under regulation 3(4) or 5(2).
+(2) Any contributions paid in respect of a contributor to provide for a lump sum death benefit under this paragraph shall be paid by the Secretary of State to an insurer[^c-2fc8c5b2a50cfe230f69986e433a7c02] selected by him so as to secure the payment of a lump sum death benefit of the amount required by any notice under regulation 3(4) or 5(2).
 
-### 8. Inward transfers[^key-547ce3b8ec4fbbbc3fe1b27eeb6c097e]
+### 8. Inward transfers[^c-547ce3b8ec4fbbbc3fe1b27eeb6c097e]
 
-(1)[^key-715accbe98806b01906e4ccc5c259f7e] Where a person who enters pensionable employment has paid contributions to a registered additional voluntary contribution scheme for the purposes of the 2004 Act, that person, whether or not he becomes a contributor within the meaning of these Regulations, may—
+(1)[^c-715accbe98806b01906e4ccc5c259f7e] Where a person who enters pensionable employment has paid contributions to a registered additional voluntary contribution scheme for the purposes of the 2004 Act, that person, whether or not he becomes a contributor within the meaning of these Regulations, may—
 
 - (a) within 12 months of entering pensionable employment; or
 - (b) such longer period as the Secretary of State may in any particular case allow,
@@ -334,16 +334,16 @@ give written notice to the Secretary of State that he wishes the Secretary of St
 
 (3) Where a transfer value is invested under paragraph (2) the person may at any time, by giving written notice to the Secretary of State, require the Secretary of State to realise the whole or part of the sums so invested and to reinvest the proceeds in a different way.
 
-### 9. Inward transfers: mis-sold pensions[^key-4863794b4446852e6686cae6f77ba3b7]
+### 9. Inward transfers: mis-sold pensions[^c-4863794b4446852e6686cae6f77ba3b7]
 
-(1) This regulation shall apply to a person to whom regulation B5 of the 1995 Regulations[^key-fca20be56c6a98484adad28de0a40b94] (opting into this Section of[^key-69b28d658c156a801280f72a30b6287f] the scheme: mis-sold pensions) applies and in respect of whom a transfer payment within the meaning of regulation N3A of those Regulations[^f00018] (transfers in respect of members to whom regulation B5 applies who elect to join or rejoin this Section of[^key-b6622150688510c19b40c417e57cfa11] the scheme) has been paid by a personal pension scheme to the Secretary of State.
+(1) This regulation shall apply to a person to whom regulation B5 of the 1995 Regulations[^c-fca20be56c6a98484adad28de0a40b94] (opting into this Section of[^c-69b28d658c156a801280f72a30b6287f] the scheme: mis-sold pensions) applies and in respect of whom a transfer payment within the meaning of regulation N3A of those Regulations[^f00018] (transfers in respect of members to whom regulation B5 applies who elect to join or rejoin this Section of[^c-b6622150688510c19b40c417e57cfa11] the scheme) has been paid by a personal pension scheme to the Secretary of State.
 
 (2) Subject to paragraph (3), where, at any time, a person to whom this regulation applies elects to join or rejoin the scheme under regulation B4(5) of the 1995 Regulations (joining or rejoining the scheme after opting-out), that person, whether or not he becomes a contributor within the meaning of these Regulations, may, within 12 months of joining or rejoining the scheme, or such longer period as the Secretary of State may in any particular case allow, give written notice to the Secretary of State that he wishes the Secretary of State to accept a transfer value for the purposes of these Regulations.
 
 (3) For the purposes of paragraph (2), the transfer value shall be of an amount representing the difference between—
 
 - (a) the capitalised value of the accrued rights to benefit in the personal pension scheme from which the transfer value is paid which is attributable to contributions made to that scheme by the person referred to in paragraph (1) during his opted-out service; and
-- (b) the amount referred to in regulation N3A(2)(i) of the 1995 Regulations[^key-896a2098c6c1cb714713464ce0d41cde] (transfers in respect of members to whom regulation B5 applies who elect to join or rejoin the scheme).
+- (b) the amount referred to in regulation N3A(2)(i) of the 1995 Regulations[^c-896a2098c6c1cb714713464ce0d41cde] (transfers in respect of members to whom regulation B5 applies who elect to join or rejoin the scheme).
 
 (4) Where a transfer value is accepted by the Secretary of State it shall be invested by him, in accordance with the wishes of the person referred to in paragraph (1), in one or more of the authorised funds.
 
@@ -351,23 +351,23 @@ give written notice to the Secretary of State that he wishes the Secretary of St
 
 (6) In this regulation—
 
-- “opted-out service” means the period of NHS employment in respect of which the Secretary of State has approved an additional period of pensionable service for the purposes of regulation N3A(2)(i) of the 1995 Regulations[^key-5cb9664305c3c8574aeb1e3e03af76a2]; and
+- “opted-out service” means the period of NHS employment in respect of which the Secretary of State has approved an additional period of pensionable service for the purposes of regulation N3A(2)(i) of the 1995 Regulations[^c-5cb9664305c3c8574aeb1e3e03af76a2]; and
 - “personal pension scheme” has the meaning given by regulation B5(4) of the 1995 Regulations.
 
-### 10. Outward transfers[^key-967d2bb2bbe78eed01341a6ee468bf61]
+### 10. Outward transfers[^c-967d2bb2bbe78eed01341a6ee468bf61]
 
-(1)[^key-473ab07e22de947e35e69d98cc70f311] Subject to—
+(1)[^c-473ab07e22de947e35e69d98cc70f311] Subject to—
 
 - (a) paragraphs (4) to (7); and
 - (b) the cancellation, pursuant to regulation 5(1) or (2), of any election made under regulation 3(1),
 
 the Secretary of State shall, as soon as reasonably practicable after having received a notice in writing from an eligible person requesting a transfer of the value of that person’s investments made in relation to that person under regulation 7(1), 8(2) or, as the case may be 9(4), pay a transfer value representing the value of all such investments at that person’s option to any other registered pension scheme in which the person may be participating.
 
-(2)[^key-f88bfd195b277b8b36441c04286ef2b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f88bfd195b277b8b36441c04286ef2b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6257a43197a47f09e52696e99711aeb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6257a43197a47f09e52696e99711aeb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7048a67ae3fc7e80b6b2bfd266ab5e70] If the Secretary of State is required under paragraph (1) to make a transfer payment in circumstances where such a payment in respect of an eligible person is also provided and used in accordance with regulation M1 of the 1995 Regulations (member’s right to transfer or buy-out), the Secretary of State must do so in accordance with the time limit specified in regulation M5 of those Regulations as if the reference in that regulation to an application were a reference to a notice referred to in paragraph (1).
+(4)[^c-7048a67ae3fc7e80b6b2bfd266ab5e70] If the Secretary of State is required under paragraph (1) to make a transfer payment in circumstances where such a payment in respect of an eligible person is also provided and used in accordance with regulation M1 of the 1995 Regulations (member’s right to transfer or buy-out), the Secretary of State must do so in accordance with the time limit specified in regulation M5 of those Regulations as if the reference in that regulation to an application were a reference to a notice referred to in paragraph (1).
 
 (4A) If the Secretary of State is required under paragraph (1) to make a transfer payment in circumstances where such a payment in respect of an eligible person is also provided and used in accordance with regulation 2.F.1 or 3.F.1 of the 2008 Regulations (rights to transfer value payments), the Secretary of State must do so in accordance with the time limit specified in, as the case may be, regulation 2.F.4 or 3.F.4 of those Regulations as if the reference to an application in regulation 2.F.4 (or as the case may be) 3.F.4 were a reference to a notice referred to in paragraph (1).
 
@@ -375,7 +375,7 @@ the Secretary of State shall, as soon as reasonably practicable after having rec
 
 (5) In any case where the Secretary of State has directed under regulation 20 (loss of rights to benefit) that all or part of any of an eligible person’s rights to benefit under these Regulations are to be forfeited the cash equivalent payable in respect of that person shall be reduced by the capitalised value of the rights which are to be forfeited.
 
-(6) If disciplinary or court proceedings are commenced against the eligible person within 12 months after he leaves pensionable service and it appears to the Secretary of State that the proceedings may lead to all or part of that person’s[^key-e94932da2b116ff77a6bc6b5f9e73546] rights to benefits being forfeited in accordance with regulation 20, the Secretary of State may defer doing what is needed to carry out what that person requires until the date 3 months after the conclusion of those proceedings (including any proceedings on appeal) where that date is later than the date which would otherwise apply by virtue of paragraph (4) above.
+(6) If disciplinary or court proceedings are commenced against the eligible person within 12 months after he leaves pensionable service and it appears to the Secretary of State that the proceedings may lead to all or part of that person’s[^c-e94932da2b116ff77a6bc6b5f9e73546] rights to benefits being forfeited in accordance with regulation 20, the Secretary of State may defer doing what is needed to carry out what that person requires until the date 3 months after the conclusion of those proceedings (including any proceedings on appeal) where that date is later than the date which would otherwise apply by virtue of paragraph (4) above.
 
 (7) Where the Secretary of State has done what is needed to carry out what the eligible person requires under this regulation, the Secretary of State shall be discharged from any obligation under regulation 15 (payments by the Secretary of State) to or in respect of that person.
 
@@ -383,12 +383,12 @@ the Secretary of State shall, as soon as reasonably practicable after having rec
 
 - (a) who is a contributor; and
 - (b) either—
-  - (i) who has not attained the age of 75 years[^key-22d156b2601c12ce3ed57f2cbfd26bc9] on or before the date the notice referred to in paragraph (1) above is received by the Secretary of State; or
-  - (ii)[^key-615dd745fe1552e8e7fc0fe172dc6b29] to whom regulation M6 of the 1995 Regulations , regulation 2.F.14 or 3.F.14 of the 2008 Regulations or regulation 147 of the 2015 Regulations[^key-adc26a6484f722b6153af964c9b5b09c] applies.
+  - (i) who has not attained the age of 75 years[^c-22d156b2601c12ce3ed57f2cbfd26bc9] on or before the date the notice referred to in paragraph (1) above is received by the Secretary of State; or
+  - (ii)[^c-615dd745fe1552e8e7fc0fe172dc6b29] to whom regulation M6 of the 1995 Regulations , regulation 2.F.14 or 3.F.14 of the 2008 Regulations or regulation 147 of the 2015 Regulations[^c-adc26a6484f722b6153af964c9b5b09c] applies.
 
 ## PART III — PROVISION OF BENEFITS
 
-### 11. Retirement and dependants’ benefits[^key-8f1ca29ed72b67ed5d90aef55150a69f]
+### 11. Retirement and dependants’ benefits[^c-8f1ca29ed72b67ed5d90aef55150a69f]
 
 (1) A participator may apply some or all of the proceeds of an investment made under regulation 7(1), 8(2) or 9(4) to arrange with an insurer for—
 
@@ -398,7 +398,7 @@ the Secretary of State shall, as soon as reasonably practicable after having rec
   - (i) reflects the value of the benefits referred to in paragraph (1)(a) or (b), and
   - (ii) meets the requirements of regulations 11 and 12 of the 2009 Regulations;
 - (d) as from 6th April 2015, any payment to the participator or a dependant of the participator, that complies with the requirements of the 2014 Act;
-- (e)[^key-7c1e35692870ba74abc6dc0b176af158] a lifetime allowance excess lump sum referred to in section 166(1)(g) of the 2004 Act ;[^key-47296579d5fd9ffe5cdca79d11b3c78f]
+- (e)[^c-7c1e35692870ba74abc6dc0b176af158] a lifetime allowance excess lump sum referred to in section 166(1)(g) of the 2004 Act ;[^c-47296579d5fd9ffe5cdca79d11b3c78f]
 - (f) a pension commencement excess lump sum referred to in section 166(1)(aa) of the 2004 Act.
 
 This is subject to paragraphs (10) to (13) and regulation 15(10) and (11).
@@ -449,7 +449,7 @@ a pension referred to in paragraph (4) ceases to be payable when that person cea
 
 (10) Upon receipt of a notice of election under paragraph (8), the Secretary of State must, as soon as reasonably practicable, realise the investments made under regulations 7(1), 8(2) or 9(4) and apply the proceeds in the manner specified in it.
 
-(11) Where a participator dies before retirement or after retirement but before the benefits under this regulation are paid, the investments made under regulation 7(1), 8(2) or 9(4) must be realised and are [^key-39b95ed96d687caefdf011fff4f8eb5d]... payable as a lump sum in accordance with regulation 15(3).
+(11) Where a participator dies before retirement or after retirement but before the benefits under this regulation are paid, the investments made under regulation 7(1), 8(2) or 9(4) must be realised and are [^c-39b95ed96d687caefdf011fff4f8eb5d]... payable as a lump sum in accordance with regulation 15(3).
 
 (12) The Secretary of State may realise the investments made under regulation 7(1), 8(2) or 9(4) and apply the proceeds to the purchase of benefits under these Regulations from an insurer in such form as appear to the Secretary of State to be suitable where the conditions in paragraph (13) are satisfied.
 
@@ -464,54 +464,54 @@ a pension referred to in paragraph (4) ceases to be payable when that person cea
 - (b) regulation 2.D.1, 2.D.4, 2.D.5, 2.D.8, 2.D.10, 2.D.11, 3.D.1, 3.D.4, 3.D.5, 3.D.7, or 3.D.9 of the 2008 Regulations (normal retirement pensions, actuarially reduced pensions, ill health pensions and early retirement pensions), or
 - (c) regulation 73, 79, 81, 82, 84, 90 or 94 of the 2015 Regulations (age retirement, early retirement, premature retirement, partial retirement and ill-health pensions).
 
-### 12. Lump sums on death[^key-85f88951daf5fde3a41b7870f3adaa96]
+### 12. Lump sums on death[^c-85f88951daf5fde3a41b7870f3adaa96]
 
 (1) Subject to paragraph (2), where a contributor who has elected under regulation 3(1)(b) to pay contributions to provide for a lump sum death benefit dies, the lump sum shall be payable.
 
-(2)[^key-07a2f0826489fc8e15ae09342954eb2e] Any lump sum payable under paragraph (1) shall not exceed the amount permitted in accordance with Part 2 of Schedule 29 to the 2004 Act.
+(2)[^c-07a2f0826489fc8e15ae09342954eb2e] Any lump sum payable under paragraph (1) shall not exceed the amount permitted in accordance with Part 2 of Schedule 29 to the 2004 Act.
 
-### 13. Benefit limits[^key-06e1736c6a1b47f81b9020b24ff713a4]
+### 13. Benefit limits[^c-06e1736c6a1b47f81b9020b24ff713a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — MISCELLANEOUS PROVISIONS
 
-### 14. Repayment of investments in certain cases[^key-5cc2ee44656b59ff8d4ef46716f80472]
+### 14. Repayment of investments in certain cases[^c-5cc2ee44656b59ff8d4ef46716f80472]
 
 (1) In the case of a person who—
 
 - (a) ceases to be employed in pensionable employment; and
-- (b)[^key-93f1e3184706bbdf9be369d41beafa02] has applied for a refund of contributions under—
-  - (i) regulation L2 of the 1995 Regulations (refund of contributions); [^key-3a8e982a2d34446538611744144fe7bd]...
-  - (ii) regulation 2.C.18 or 3.C.16 of the 2008 Regulations (repayment of contributions); or[^key-9a4d0f27056032158f2146951db5a25e]
+- (b)[^c-93f1e3184706bbdf9be369d41beafa02] has applied for a refund of contributions under—
+  - (i) regulation L2 of the 1995 Regulations (refund of contributions); [^c-3a8e982a2d34446538611744144fe7bd]...
+  - (ii) regulation 2.C.18 or 3.C.16 of the 2008 Regulations (repayment of contributions); or[^c-9a4d0f27056032158f2146951db5a25e]
   - (iii) regulation 40 of the 2015 Regulations (eligibility for refund),
 
-the Secretary of State shall subject to paragraph (2), make arrangements for that person to receive a lump sum equal to the total realisable value of the investments made by the Secretary of State in respect of that person under regulation 7(1), 8(2) or 9(4) less the amount of tax chargeable under the[^key-658a6a93e87cf876af941870fe5ee9b1] 2004 Act, in accordance with regulation 15(4).
+the Secretary of State shall subject to paragraph (2), make arrangements for that person to receive a lump sum equal to the total realisable value of the investments made by the Secretary of State in respect of that person under regulation 7(1), 8(2) or 9(4) less the amount of tax chargeable under the[^c-658a6a93e87cf876af941870fe5ee9b1] 2004 Act, in accordance with regulation 15(4).
 
-(2) Where, in the circumstances mentioned in paragraph (1), contributions have been made by an employer, the Secretary of State shall make arrangements for that employer to receive a lump sum equal to the total realisable value of the investments made by the Secretary of State under regulation 7(1) in respect of contributions made by that employer less the amount of tax chargeable under the[^key-2d86680fd5861b3f907a91bd469b9af7] 2004 Act.
+(2) Where, in the circumstances mentioned in paragraph (1), contributions have been made by an employer, the Secretary of State shall make arrangements for that employer to receive a lump sum equal to the total realisable value of the investments made by the Secretary of State under regulation 7(1) in respect of contributions made by that employer less the amount of tax chargeable under the[^c-2d86680fd5861b3f907a91bd469b9af7] 2004 Act.
 
-### 15. Payments by the Secretary of State[^key-ad059af76d79eb6045c2f1b8b55fb513]
+### 15. Payments by the Secretary of State[^c-ad059af76d79eb6045c2f1b8b55fb513]
 
-(1)[^key-f5350f8e6f61d2a5724e5961b472e73b] Where an authorised provider or a selected authorised provider fails to pay a benefit referred to in regulation 11(1) or a lump sum benefit referred to in regulation 12, the Secretary of State is liable to pay that amount.
+(1)[^c-f5350f8e6f61d2a5724e5961b472e73b] Where an authorised provider or a selected authorised provider fails to pay a benefit referred to in regulation 11(1) or a lump sum benefit referred to in regulation 12, the Secretary of State is liable to pay that amount.
 
-(2) Where, on or after the date on which these Regulations come into force, a participator or a person entitled to a pension credit[^key-bf60c8f7bd58189932a1f080440ade32] elects for benefits to be provided by an authorised provider other than the provider selected by the Secretary of State, the Secretary of State shall not be liable under paragraph (1).
+(2) Where, on or after the date on which these Regulations come into force, a participator or a person entitled to a pension credit[^c-bf60c8f7bd58189932a1f080440ade32] elects for benefits to be provided by an authorised provider other than the provider selected by the Secretary of State, the Secretary of State shall not be liable under paragraph (1).
 
-(3) Lump sums payable as mentioned in regulations[^key-307c40c70031316b948280f77a7a92c4] 11(8)(f) and (11)[^key-368bae78e62c43af680c87381e3386a5] and regulation 12 or paragraph 3(2), 8 or 9 of Schedule 2[^key-95b4dcbd601d557398a4bd679cc1d3f8] shall be paid—
+(3) Lump sums payable as mentioned in regulations[^c-307c40c70031316b948280f77a7a92c4] 11(8)(f) and (11)[^c-368bae78e62c43af680c87381e3386a5] and regulation 12 or paragraph 3(2), 8 or 9 of Schedule 2[^c-95b4dcbd601d557398a4bd679cc1d3f8] shall be paid—
 
-- (a) to the deceased’s spouse , surviving scheme partner[^key-9c6d5acf69ff81c2e72e7c98b2b91ef5] or civil partner[^key-55f628b6bf251cb7a1e93e4a94d19663]; or
-- (b)[^key-8cd78c96be6dfd4a4f82165b4c5003af] to the deceased’s personal representatives if—
-  - (i) there is no spouse, surviving scheme partner[^key-e604dff147be1d3adb511192471f1813] or civil partner, or
-  - (ii) a notice has been given in accordance with any of the provisions referred to in paragraph (3A) that the spouse, surviving scheme partner or civil partner is not to receive the payment ; or[^key-172040cb46c99d7c7501f3dd3e79fb08]
-- (c)[^key-7fdfd21ae514123534ee6e0a27bfd2f5] in accordance with paragraph (3B).
+- (a) to the deceased’s spouse , surviving scheme partner[^c-9c6d5acf69ff81c2e72e7c98b2b91ef5] or civil partner[^c-55f628b6bf251cb7a1e93e4a94d19663]; or
+- (b)[^c-8cd78c96be6dfd4a4f82165b4c5003af] to the deceased’s personal representatives if—
+  - (i) there is no spouse, surviving scheme partner[^c-e604dff147be1d3adb511192471f1813] or civil partner, or
+  - (ii) a notice has been given in accordance with any of the provisions referred to in paragraph (3A) that the spouse, surviving scheme partner or civil partner is not to receive the payment ; or[^c-172040cb46c99d7c7501f3dd3e79fb08]
+- (c)[^c-7fdfd21ae514123534ee6e0a27bfd2f5] in accordance with paragraph (3B).
 
-(3A)[^key-aeb0a738964db72b9e533d3d5e8f06ba] The provisions referred to in paragraph (3)(b) are—
+(3A)[^c-aeb0a738964db72b9e533d3d5e8f06ba] The provisions referred to in paragraph (3)(b) are—
 
 - (a) regulation F5 of the 1995 Regulations (payment of lump sum);
 - (b) regulation 2.E.21 or 3.E.21 of the 2008 Regulations (payment of lump sum on death);
 - (c) regulation 112 of the 2015 Regulations (lump sum on death);
 - (d) paragraph 11 of Schedule 2.
 
-(3B)[^key-9445523037d25f2f522ca6cc97cc5100] Where, prior to their death, the member has given notice to the Secretary of State in accordance with paragraph (3C) that the lump sum is to be paid to a person specified in the notice, and has not revoked that notice, the lump sum may be paid to that person unless—
+(3B)[^c-9445523037d25f2f522ca6cc97cc5100] Where, prior to their death, the member has given notice to the Secretary of State in accordance with paragraph (3C) that the lump sum is to be paid to a person specified in the notice, and has not revoked that notice, the lump sum may be paid to that person unless—
 
 - (a) that person has died before the payment can be made; or
 - (b) payment to that person is not, in the opinion of the Secretary of State, reasonably practicable.
@@ -530,35 +530,35 @@ the Secretary of State shall subject to paragraph (2), make arrangements for tha
 
   and a participator who revokes such a notice may give further notice for the purpose of that paragraph.
 
-(4)[^key-a6c69e1b0600051eab03e42148deed46] Lump sums payable under regulation 11(1)(b), (c) and (d) and regulation 14(1) must be paid to the participator.
+(4)[^c-a6c69e1b0600051eab03e42148deed46] Lump sums payable under regulation 11(1)(b), (c) and (d) and regulation 14(1) must be paid to the participator.
 
-(5)[^key-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-0e540ff8c9f20183b103a85de0599f93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10) Subject to paragraph (11) below, in the case of a participator to whom any of the provisions referred to in paragraph (10A)[^key-7b422002fc6e976d5ca78893c76bf72f][^key-0ba0782b7df2f8d77511c91e65c7da55] applies, the Secretary of State may realise such part of the investments made under these Regulations as is derived from an contributions made by the participator’s employer without purchasing an annuity and, in that event, the amount shall be payable to the participator as a lump sum.
+(10) Subject to paragraph (11) below, in the case of a participator to whom any of the provisions referred to in paragraph (10A)[^c-7b422002fc6e976d5ca78893c76bf72f][^c-0ba0782b7df2f8d77511c91e65c7da55] applies, the Secretary of State may realise such part of the investments made under these Regulations as is derived from an contributions made by the participator’s employer without purchasing an annuity and, in that event, the amount shall be payable to the participator as a lump sum.
 
-(10A)[^key-50318142a7b7779f0cf83b453456751e] Those provisions are—
+(10A)[^c-50318142a7b7779f0cf83b453456751e] Those provisions are—
 
 - (a) regulation E1 to E5 or L1 of the 1995 Regulations (which deal with benefits for members and preserved pensions);
 - (b) regulation 2.D.1, 2.D.4, 2.D.5, 2.D.8, 2.D.10, 2.D.11, 3.D.1, 3.D.4, 3.D.5, 3.D.7, or 3.D.9 of the 2008 Regulations (normal retirement pensions, actuarially reduced pensions, ill health pensions and early retirement pensions);
 - (c) regulation 73, 79, 81, 82, 84, 90 or 94 of the 2015 Regulations (age retirement, early retirement, partial retirement and ill-health pensions).
 
-(11)[^key-333d00a99c57e05bca40c056e145fb81] In the case of a participator to whom any of the following provisions apply—
+(11)[^c-333d00a99c57e05bca40c056e145fb81] In the case of a participator to whom any of the following provisions apply—
 
 - (a) regulation E2(7), E2A(7) or L1(5) of the 1995 Regulations (ill health pensions and preserved pension);
 - (b) regulation 2.D.15 or 3.D.11 of the 2008 Regulations (option for members in serious ill health to exchange whole pension for lump sum);
-- (c)[^key-39c0de3e86c8f6411dbc5f4c4af5ee93] regulation 109 of the 2015 Regulations (option for members in serious ill-health to exchange pension for lump sum),
+- (c)[^c-39c0de3e86c8f6411dbc5f4c4af5ee93] regulation 109 of the 2015 Regulations (option for members in serious ill-health to exchange pension for lump sum),
 
 the Secretary of State may realise the investments made under these Regulations without purchasing an annuity and, in that event, the proceeds shall be payable to the participator as a lump sum.
 
-### 16. Information[^key-2d30da9e9750bf58b7e9e33a9bdb3ba3]
+### 16. Information[^c-2d30da9e9750bf58b7e9e33a9bdb3ba3]
 
 (1) A person making an election under these Regulations, and his employer, shall give the Secretary of State such information as he may reasonably require for the purposes of his functions under these Regulations.
 
@@ -569,34 +569,34 @@ the Secretary of State may realise the investments made under these Regulations 
 
 shall, in particular, give the Secretary of State such information about his health as the Secretary of State may reasonably require.
 
-(3)[^key-1410010e8894417dea6def57a3f6e56c] Where a person is entitled to a benefit under these Regulations , before 6th April 2024,[^key-b4186dba20bc8a1447bf77d127e988ae] he shall (whether or not he intends to rely on entitlement to an enhanced lifetime allowance or to enhanced protection) give to the provider such information as will enable the provider to determine—
+(3)[^c-1410010e8894417dea6def57a3f6e56c] Where a person is entitled to a benefit under these Regulations , before 6th April 2024,[^c-b4186dba20bc8a1447bf77d127e988ae] he shall (whether or not he intends to rely on entitlement to an enhanced lifetime allowance or to enhanced protection) give to the provider such information as will enable the provider to determine—
 
 - (a) whether any lifetime allowance is payable in respect of the benefit and, if so,
 - (b) the amount of that charge.
 
-(3A)[^key-ea017627cc48f7884e984637855783d9] Where a person is entitled to a lump sum under these Regulations, before 6th April 2024, he shall, whether or not he intends to rely on entitlement to an enhanced allowance or to enhanced protection, give to the provider such information as will enable the provider to determine—
+(3A)[^c-ea017627cc48f7884e984637855783d9] Where a person is entitled to a lump sum under these Regulations, before 6th April 2024, he shall, whether or not he intends to rely on entitlement to an enhanced allowance or to enhanced protection, give to the provider such information as will enable the provider to determine—
 
 - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act and, if so,
 - (b) the amount of tax, and
 - (c) the person liable for that tax.
 
-(4) If a person applying for a benefit under these Regulations , before 6th April 2024,[^key-0a5640de9ed1c806cc0f3e9f24b2b095] intends to rely on entitlement to an enhanced lifetime allowance by virtue of any of the provisions listed in section 256(1) of the 2004 Act (enhanced lifetime allowance regulations), he shall give to the provider—
+(4) If a person applying for a benefit under these Regulations , before 6th April 2024,[^c-0a5640de9ed1c806cc0f3e9f24b2b095] intends to rely on entitlement to an enhanced lifetime allowance by virtue of any of the provisions listed in section 256(1) of the 2004 Act (enhanced lifetime allowance regulations), he shall give to the provider—
 
 - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006 in respect of that entitlement;
 - (b) the information referred to in paragraph (3).
 
-(4A)[^key-4574e481214cfad607d48fc1addd73be] Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), he shall give to the provider—
+(4A)[^c-4574e481214cfad607d48fc1addd73be] Where a person who is entitled to a lump sum under these Regulations, on or after 6th April 2024, intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), he shall give to the provider—
 
 - (a) the reference number issued by the Commissioners under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006 in respect of that entitlement; and
 - (b) the information referred to in paragraph (3A).
 
-(5) The information referred to in paragraph (3) or (3A)[^key-cd9d35240b9b5b6f5f508bff78a78085] or, as the case may be, paragraph (4) or (4A)[^key-cccf5fddc0efcdd36aaac9edbba602bc] shall be given to the provider—
+(5) The information referred to in paragraph (3) or (3A)[^c-cd9d35240b9b5b6f5f508bff78a78085] or, as the case may be, paragraph (4) or (4A)[^c-cccf5fddc0efcdd36aaac9edbba602bc] shall be given to the provider—
 
 - (a) at the time the person makes a claim for a benefit, or
 - (b) where that information has not been provided at the time of making the claim, within such time as the provider specifies in writing, or
-- (c) where the person fails to provide all, or part of, the information referred to in paragraph (3) or (3A)[^key-7a4837fcab6d99b22386c0d434d2d359], as the case may be, paragraph (4) or (4A) within the time limits specified by the provider (where relevant), the provider may treat the whole of the benefit as a chargeable benefit and the charge may be paid on that basis.
+- (c) where the person fails to provide all, or part of, the information referred to in paragraph (3) or (3A)[^c-7a4837fcab6d99b22386c0d434d2d359], as the case may be, paragraph (4) or (4A) within the time limits specified by the provider (where relevant), the provider may treat the whole of the benefit as a chargeable benefit and the charge may be paid on that basis.
 
-### 17. Payments in respect of deceased persons[^key-9f3941bb06babc7c6b575268a87c59f1]
+### 17. Payments in respect of deceased persons[^c-9f3941bb06babc7c6b575268a87c59f1]
 
 (1) This regulation applies where a person dies and the total of—
 
@@ -612,7 +612,7 @@ does not exceed the amount specified in any order for the time being in force fo
 
 and any person to whom such a payment is made, and not the Secretary of State, shall thereafter be liable to account for any amount so paid.
 
-### 17A. Pension sharing on divorce or nullity of marriage or, dissolution or nullity of civil partnership[^key-aa5b864bc036d50b98ca667a12e67d83][^key-5eed2a0f28bbe060b2013a380f46e96a]
+### 17A. Pension sharing on divorce or nullity of marriage or, dissolution or nullity of civil partnership[^c-aa5b864bc036d50b98ca667a12e67d83][^c-5eed2a0f28bbe060b2013a380f46e96a]
 
 —Schedule 2 shall have effect in relation to—
 
@@ -621,17 +621,17 @@ and any person to whom such a payment is made, and not the Secretary of State, s
 
 under the AVC scheme.
 
-### 18. Benefits not assignable on bankruptcy[^key-d3223178e53471127a4533ed6a59f938]
+### 18. Benefits not assignable on bankruptcy[^c-d3223178e53471127a4533ed6a59f938]
 
 (1) On the bankruptcy of a person entitled to benefit under these Regulations, no part of the benefit shall be paid to any trustee or other person acting on behalf of creditors, except as provided for in paragraph (2).
 
 (2) Where, following the bankruptcy of any person entitled to benefit under these Regulations, the court makes an order under section 310 of the Insolvency Act 1986[^f00025] that requires the Secretary of State to pay all or part of the benefit to the person’s trustee in bankruptcy the Secretary of State shall comply with that order.
 
-### 19. Offset for crime, negligence or fraud[^key-975ef36894d887defac490723b3987e7]
+### 19. Offset for crime, negligence or fraud[^c-975ef36894d887defac490723b3987e7]
 
 Where, on or after the date on which these Regulations come into force—
 
-- (a)[^key-3bdb2c90622444dd9d7f18cac399d258] the circumstances set out in any of the following provisions have occurred—
+- (a)[^c-3bdb2c90622444dd9d7f18cac399d258] the circumstances set out in any of the following provisions have occurred—
   - (i) regulation T5 of the 1995 Regulations (offset for crime, negligence or fraud);
   - (ii) regulation 2.J.6 or 3.J.6 of the 2008 Regulations (reduction in benefits in cases where loss caused by member’s crime, negligence or fraud);
   - (iii) paragraph 11 of Schedule 3 to the 2015 Regulations (offset of benefits); and
@@ -639,7 +639,7 @@ Where, on or after the date on which these Regulations come into force—
 
 the Secretary of State may, in relation to benefits which arise by virtue of any employer’s contributions paid on or after the date on which these Regulations come into force, reduce the amount of any benefit payable to or in respect of a person under these Regulations, to the extent set out, and subject to the conditions specified, in that regulation.
 
-### 20. Loss of rights to benefits[^key-abed85a02df2617ac183d45f3cd621b2]
+### 20. Loss of rights to benefits[^c-abed85a02df2617ac183d45f3cd621b2]
 
 (1) Where paragraph (2) applies, the Secretary of State may direct that all or any part of any rights to benefit a person has under these Regulations and which arise by virtue of an employer’s contributions paid on or after the date on which these Regulations come into force, are to be forfeited.
 
@@ -651,15 +651,15 @@ the Secretary of State may, in relation to benefits which arise by virtue of any
   - (iii) paragraph 12 of Schedule 3 to the 2015 Regulations (forfeiture of rights to benefits), and
 - (b) the circumstances are such that a direction may be made by the Secretary of State under whichever of those provisions applies.
 
-### 21. Determination of questions[^key-051c418534508a4cbc29ba6d3c8c8f07]
+### 21. Determination of questions[^c-051c418534508a4cbc29ba6d3c8c8f07]
 
-Any question arising under these Regulations as to the rights or liabilities of any person shall be determined by the Secretary of State and any dispute shall be resolved by the Secretary of State in accordance with the dispute resolution procedure issued from time to time by him in conformity with section 50 of the Pensions Act 1995[^key-50f56bf3945746b91a07946108e281f5].
+Any question arising under these Regulations as to the rights or liabilities of any person shall be determined by the Secretary of State and any dispute shall be resolved by the Secretary of State in accordance with the dispute resolution procedure issued from time to time by him in conformity with section 50 of the Pensions Act 1995[^c-50f56bf3945746b91a07946108e281f5].
 
-### 22. Tax[^key-d62a36618c72b7ed7318b9db35f7654f]
+### 22. Tax[^c-d62a36618c72b7ed7318b9db35f7654f]
 
-(1)[^key-3486f9b9cc74c68b036f1f4147ec40b5] Benefits payable under these Regulations shall be paid net of any tax due under the 2004 Act.
+(1)[^c-3486f9b9cc74c68b036f1f4147ec40b5] Benefits payable under these Regulations shall be paid net of any tax due under the 2004 Act.
 
-(2)[^key-32b316313e0d5fd56dc59c980be534d4] For the purposes of the 2004 Act, the administrator of the AVC scheme shall be the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG).
+(2)[^c-32b316313e0d5fd56dc59c980be534d4] For the purposes of the 2004 Act, the administrator of the AVC scheme shall be the NHS Business Services Authority (Awdurdod Gwasanaethau Busnes y GIG).
 
 John Denham
 
@@ -679,65 +679,65 @@ Lords Commissioners of Her Majesty’s Treasury
 
 16th March 2000
 
-## SCHEDULE 1 — BENEFIT LIMITS[^key-6a1983fa9faecaf385758f690cb4f5fc]
+## SCHEDULE 1 — BENEFIT LIMITS[^c-6a1983fa9faecaf385758f690cb4f5fc]
 
 **No longer in force.**
 
 Regulation 13
 
-### PART 1 — INTERPRETATION[^key-6a1983fa9faecaf385758f690cb4f5fc]
+### PART 1 — INTERPRETATION[^c-6a1983fa9faecaf385758f690cb4f5fc]
 
-**1.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — RETIREMENT PENSIONS[^key-6a1983fa9faecaf385758f690cb4f5fc]
+### PART II — RETIREMENT PENSIONS[^c-6a1983fa9faecaf385758f690cb4f5fc]
 
-**11.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — DEPENDANTS' PENSIONS[^key-6a1983fa9faecaf385758f690cb4f5fc]
+### PART III — DEPENDANTS' PENSIONS[^c-6a1983fa9faecaf385758f690cb4f5fc]
 
-**18.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — LUMP SUMS ON DEATH[^key-6a1983fa9faecaf385758f690cb4f5fc]
+### PART IV — LUMP SUMS ON DEATH[^c-6a1983fa9faecaf385758f690cb4f5fc]
 
-**19.**[^key-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-6a1983fa9faecaf385758f690cb4f5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PENSION SHARING ON DIVORCE OR NULLITY OF MARRIAGE OR, DISSOLUTION OR NULLITY OF CIVIL PARTNERSHIP[^key-ffb1c8b8d7fdead3b96b412dcb09510c][^key-8a3dc848a1cd08ab5fb39ce32ba26dd7]
+## SCHEDULE 2 — PENSION SHARING ON DIVORCE OR NULLITY OF MARRIAGE OR, DISSOLUTION OR NULLITY OF CIVIL PARTNERSHIP[^c-ffb1c8b8d7fdead3b96b412dcb09510c][^c-8a3dc848a1cd08ab5fb39ce32ba26dd7]
 
 Regulation 17A
 
 ### 1. Discharge of liability in respect of a pension credit
 
-(1) Where the Secretary of State discharges his liability in respect of a pension credit in accordance with sub-paragraph (2) of paragraph 1 of Schedule 5 to the 1999 Act (pension credits: mode of discharge: funded pension schemes—internal transfers) the appropriate rights shall be invested under paragraph 2 below to provide for the purchase from an insurer[^key-9f96abe343ca75593858e833bc45b4f6] of an annuity which complies with the requirements of sub-paragraph (5) below.
+(1) Where the Secretary of State discharges his liability in respect of a pension credit in accordance with sub-paragraph (2) of paragraph 1 of Schedule 5 to the 1999 Act (pension credits: mode of discharge: funded pension schemes—internal transfers) the appropriate rights shall be invested under paragraph 2 below to provide for the purchase from an insurer[^c-9f96abe343ca75593858e833bc45b4f6] of an annuity which complies with the requirements of sub-paragraph (5) below.
 
 (2) Where sub-paragraph (1) applies, the person entitled to the pension credit may elect, by giving written notice to the Secretary of State, the authorised fund or funds in which the appropriate rights are to be invested.
 
@@ -748,10 +748,10 @@ Regulation 17A
 (5) An annuity complies with the requirements of this sub-paragraph if—
 
 - (a) it provides a pension which commences not earlier than normal benefit age and is payable to the pension credit member for life;
-- (b)[^key-2f32290a6545cef080f29aac95633b0a] any dependant’s pension which is payable under it is payable only on the death of the pension credit member after that member has reached normal benefit age and is payable to the dependant for life: this is subject to paragraph (6);
+- (b)[^c-2f32290a6545cef080f29aac95633b0a] any dependant’s pension which is payable under it is payable only on the death of the pension credit member after that member has reached normal benefit age and is payable to the dependant for life: this is subject to paragraph (6);
 - (c) it is not capable in whole or in part of surrender, assignment or commutation.
 
-(6)[^key-2b3dbf42f6d5d9422b59dd5ac5f09747] In the case of a person who is a child to whom—
+(6)[^c-2b3dbf42f6d5d9422b59dd5ac5f09747] In the case of a person who is a child to whom—
 
 - (a) Part H of the 1995 Regulations (child allowance) applies;
 - (b) regulation 2.E.9 or 3.E.9 of the 2008 Regulations applies (meaning of dependant child); or
@@ -773,18 +773,18 @@ Any appropriate rights invested under this paragraph shall be invested by the Se
 
 ### 4. Pension credit benefit
 
-(1) The pension credit benefit to which a pension credit member shall be entitled under the AVC scheme shall consist of a pension (including, where appropriate, a pension commencement lump sum)[^key-69b07172848e315a8201c62ab35c2384].
+(1) The pension credit benefit to which a pension credit member shall be entitled under the AVC scheme shall consist of a pension (including, where appropriate, a pension commencement lump sum)[^c-69b07172848e315a8201c62ab35c2384].
 
 (2) A pension credit member shall be entitled to the payment of the pension credit benefit when he reaches normal benefit age.
 
 (3) A pension payable in accordance with this paragraph shall be payable to the pension credit member for life.
 
-(4) The value of the pension referred to in sub-paragraph (1) and any alternative benefit referred to in sub-paragraph (5A)[^key-3bbec44654a3fdbafe44b8556d81c14e] shall be equal to the value of the pension credit rights which have accrued to or in respect of the pension credit member.
+(4) The value of the pension referred to in sub-paragraph (1) and any alternative benefit referred to in sub-paragraph (5A)[^c-3bbec44654a3fdbafe44b8556d81c14e] shall be equal to the value of the pension credit rights which have accrued to or in respect of the pension credit member.
 
 (5) Not earlier than 3 months before the date he reaches normal benefit age, a pension credit member, by giving notice to the Secretary of State, shall make a benefits election which shall specify—
 
 - (a) whether only a pension payable for life is to be provided;
-- (aa)[^key-d2877209e6e7fcfcb544dbd32380cb20] whether a pension commencement lump sum and a pension payable for life is to be provided;
+- (aa)[^c-d2877209e6e7fcfcb544dbd32380cb20] whether a pension commencement lump sum and a pension payable for life is to be provided;
 - (b) for whom, if anyone, a dependant’s pension is to be provided;
 - (c) if more than one such pension is to be provided, either—
   - (i) the proportion of the amount secured by the total investments made under paragraph 2 that is to be applied to the purchase of each of them; or
@@ -795,7 +795,7 @@ Any appropriate rights invested under this paragraph shall be invested by the Se
   - (iii) is to increase yearly by a specified percentage or, if lower than that percentage, by the increase in the Index for the year in question; and
 - (e) the authorised provider who is to provide each pension.
 
-(5A)[^key-a698de78b0e0410cee584de09407f547] An authorised provider selected by the Secretary of State—
+(5A)[^c-a698de78b0e0410cee584de09407f547] An authorised provider selected by the Secretary of State—
 
 - (a) must provide a pension credit member with an option to receive the benefits referred to in sub-paragraph (5)(a), (aa) and (b); and
 - (b) may, as from 6th April 2015, provide such a member with an option to receive the alternative benefits referred to in sub-paragraph (5B).
@@ -806,17 +806,17 @@ Any appropriate rights invested under this paragraph shall be invested by the Se
 
 (6) For the purposes of this Schedule the authorised provider must meet the requirements referred to in regulations 12 to 14 of the Pension Sharing (Pension Credit Benefit) Regulations 2000.
 
-(7)[^key-09d10664ba38806552d564ac47506be3] Upon receipt of a notice of election under sub-paragraph (5) , or as the case may be, sub-paragraph (5C)[^key-60cd8bf1516a30514c5dcc49d84a8125] the Secretary of State shall, as soon as reasonably practicable, realise the investments made under paragraph 2 and—
+(7)[^c-09d10664ba38806552d564ac47506be3] Upon receipt of a notice of election under sub-paragraph (5) , or as the case may be, sub-paragraph (5C)[^c-60cd8bf1516a30514c5dcc49d84a8125] the Secretary of State shall, as soon as reasonably practicable, realise the investments made under paragraph 2 and—
 
 - (a) where sub-paragraph (5)(aa) does not apply, apply the proceeds to the purchase of an annuity from the authorised provider specified in the notice of election;
 - (b) where that sub-paragraph does apply—
   - (i) pay the percentage of the proceeds specified in the notice of election as a pension commencement lump sum, and
   - (ii) apply the balance of those proceeds to the purchase of an annuity from the authorised provider specified in that notice,
-- (c)[^key-ff0d5a00dd7835aff8e814334922b2b9] where sub-paragraph (5C) applies, pay the alternative benefits the pension credit member has elected to be provided with,
+- (c)[^c-ff0d5a00dd7835aff8e814334922b2b9] where sub-paragraph (5C) applies, pay the alternative benefits the pension credit member has elected to be provided with,
 
 and not otherwise.
 
-(8)[^key-b89a9fb8e98e653c6a70479d070868ec] Where the conditions in sub-paragraph (9) are satisfied, the Secretary of State may realise the investments made under paragraph 2 and apply the proceeds to the purchase of benefits under these Regulations from an insurer that the Secretary of State considers—
+(8)[^c-b89a9fb8e98e653c6a70479d070868ec] Where the conditions in sub-paragraph (9) are satisfied, the Secretary of State may realise the investments made under paragraph 2 and apply the proceeds to the purchase of benefits under these Regulations from an insurer that the Secretary of State considers—
 
 - (a) suitable,
 - (b) will satisfy the requirements of regulations 12 to 14 of the Pension Sharing (Pension Credit Benefit) Regulations 2000,
@@ -842,7 +842,7 @@ and not otherwise.
 
 ### 6. Commutation of the whole of pension credit benefit before normal benefit age
 
-(1) A pension credit member shall be entitled to the commutation of the whole of his pension credit benefit before having reached normal benefit age in the circumstances referred to in paragraphs (b), (e) and (f) of the lump sum rule in section 166(1) of the 2004 Act[^key-f247a77b25e10dd90339001b8f496025].
+(1) A pension credit member shall be entitled to the commutation of the whole of his pension credit benefit before having reached normal benefit age in the circumstances referred to in paragraphs (b), (e) and (f) of the lump sum rule in section 166(1) of the 2004 Act[^c-f247a77b25e10dd90339001b8f496025].
 
 (2) In the case of a pension credit member to whom this paragraph applies, the Secretary of State may realise the investments made under paragraph 2 without purchasing an annuity and the proceeds shall be payable to the pension credit member as a lump sum.
 
@@ -853,7 +853,7 @@ and not otherwise.
 (2) The circumstances described in this sub-paragraph are—
 
 - (a) the pension credit member is suffering from serious ill health at normal benefit age; or
-- (b)[^key-65d3257ed628efc597078ae369391370] the total benefits payable meet the requirements of regulation 12 of the 2009 Regulations.
+- (b)[^c-65d3257ed628efc597078ae369391370] the total benefits payable meet the requirements of regulation 12 of the 2009 Regulations.
 
 (3) In the case of a pension credit member to whom this paragraph applies, the Secretary of State may realise the investments made under paragraph 2 without purchasing an annuity and the proceeds shall be payable to the pension credit member as a lump sum.
 
@@ -875,7 +875,7 @@ Where a pension credit member is also a participator in the AVC scheme, any peri
 
 (1) Where a lump sum is payable under any of paragraphs 3, 8 or 9 of this Schedule, unless sub-paragraph (2) or (3) below applies, the lump sum shall be paid to the personal representative of the person entitled to a pension credit or, as the case may be, the pension credit member.
 
-(2) Where the person entitled to a pension credit or, as the case may be, the pension credit member dies and leaves a widow, widower,[^key-3a6205348f72e5401b6c566783fb5641] surviving scheme partner[^key-5e25fe5024a7706703a6c430b71b49b1] or surviving civil partner, the lump sum may be paid to the widow, widower, surviving scheme partner or surviving civil partner, unless—
+(2) Where the person entitled to a pension credit or, as the case may be, the pension credit member dies and leaves a widow, widower,[^c-3a6205348f72e5401b6c566783fb5641] surviving scheme partner[^c-5e25fe5024a7706703a6c430b71b49b1] or surviving civil partner, the lump sum may be paid to the widow, widower, surviving scheme partner or surviving civil partner, unless—
 
 - (a) the person entitled to a pension credit or, as the case may be, the pension credit member has given notice to the Secretary of State in accordance with sub-paragraph (4) below that the widow, widower, surviving scheme partner or surviving civil partner is not to receive the payment, and has not revoked that notice; or
 - (b) sub-paragraph (3) below applies.
@@ -890,11 +890,11 @@ Where a pension credit member is also a participator in the AVC scheme, any peri
 - (a) shall be given only by a person entitled to a pension credit or, as the case may be, a pension credit member under the AVC scheme;
 - (b) shall be given in writing; and
 - (c) may at any time be revoked in writing,
-- (d)[^key-576c91f51acd5775b8076c17d8dbf441] shall nominate the whole of the lump sum to a nominee and, in the case of a notice that specifies more than one person, shall also specify the percentage of the lump sum to be paid to each such person,
+- (d)[^c-576c91f51acd5775b8076c17d8dbf441] shall nominate the whole of the lump sum to a nominee and, in the case of a notice that specifies more than one person, shall also specify the percentage of the lump sum to be paid to each such person,
 
 and a person entitled to a pension credit or, as the case may be, a pension credit member who revokes such a notice may give further notice for the purpose of one of those sub-paragraphs.
 
-(5)[^key-df32c9166cab56c5be2f0f25dd09a2a6] A notice given under subparagraph (3) must specify one or more persons who may be—
+(5)[^c-df32c9166cab56c5be2f0f25dd09a2a6] A notice given under subparagraph (3) must specify one or more persons who may be—
 
 - (a) an individual;
 - (b) a body corporate;
@@ -907,7 +907,7 @@ but must not specify one or more persons referred to in paragraph (a) together w
 
 Regulations 17 (payments in respect of deceased persons), 18 (benefits not assignable on bankruptcy) and 21 (determination of questions) of these Regulations shall apply in respect of a person entitled to a pension credit or, as the case may be, a pension credit member.
 
-### 13. Offset for crime, negligence or fraud[^key-c76145f1d3f3d93cc4f06889e3c26e03]
+### 13. Offset for crime, negligence or fraud[^c-c76145f1d3f3d93cc4f06889e3c26e03]
 
 (1) This paragraph applies in relation to pension credit benefit which arises by virtue of pension credit rights which are derived from an employer’s contributions paid on or after the date on which the AVC Regulations came into force in respect of the relevant participator.
 
@@ -926,7 +926,7 @@ Regulations 17 (payments in respect of deceased persons), 18 (benefits not assig
 - “relevant pension credit member” means a pension credit member who is also a member of the NHS Pension Scheme;
 - “relevant participator” means the participator in relation to whose rights under the AVC scheme the pension sharing order or provision, which gave the pension credit member in question entitlement to a pension credit, was made.
 
-### 14. Loss of rights to benefits[^key-75c054c8d97c407d03336ad7de541626]
+### 14. Loss of rights to benefits[^c-75c054c8d97c407d03336ad7de541626]
 
 (1) Where paragraph (2) applies, the Secretary of State may direct that all or any part of any rights to pension credit benefit a pension credit member has under this Schedule and which arise by virtue of an employer’s contributions paid on or after the date on which the AVC Regulations come into force in respect of a relevant participator, are to be forfeited.
 
@@ -988,322 +988,322 @@ These Regulations do not impose any costs on business.
 
 [^f00003]: Footnote: *See* section 10(1) of the Superannuation Act 1972, and article 2 of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 (S.I. [1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)).
 
-[^key-eab9fb0fd5998a4798f7a60c00431df7]: Commencement: Reg. 1 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-eab9fb0fd5998a4798f7a60c00431df7]: Commencement: Reg. 1 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
 [^f00004]: Footnote: *See* section 12(1) of the Superannuation Act 1972 which provides that regulations may be framed so as to have effect from a date earlier than that of their making.
 
-[^key-3e64b8dcadfba91cc652f281adf48ee5]: Commencement: Reg. 2 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-3e64b8dcadfba91cc652f281adf48ee5]: Commencement: Reg. 2 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-8d568d0fe027ca1f7b9a9690825e6a29]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/2/a)
+[^c-8d568d0fe027ca1f7b9a9690825e6a29]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/2/a)
 
-[^key-936d7b8fd7a53010e19630a16d85e92e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2/a)
+[^c-936d7b8fd7a53010e19630a16d85e92e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2/a)
 
-[^key-752e57bb42324348b104dd2ca1ab503d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) inserted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [26(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/26/3)
+[^c-752e57bb42324348b104dd2ca1ab503d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) inserted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [26(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/26/3)
 
-[^key-7534ec3ef907e784e7b405ecf8a29d23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/a)
+[^c-7534ec3ef907e784e7b405ecf8a29d23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/a)
 
-[^key-a7feec07e8ae92eebe6bf8ab2b0a8bb9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) omitted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2)
+[^c-a7feec07e8ae92eebe6bf8ab2b0a8bb9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) omitted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2)
 
-[^key-7d75b008a3107f0d393aab0744c87dbe]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (1.5.2001) by virtue of [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/2/b)
+[^c-7d75b008a3107f0d393aab0744c87dbe]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (1.5.2001) by virtue of [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/2/b)
 
-[^key-1243193d2673861a37554a2217181f06]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [26(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/26/2)
+[^c-1243193d2673861a37554a2217181f06]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [26(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/26/2)
 
-[^key-ba7fdde73b6a04ba71f12d4a636db658]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2/b)
+[^c-ba7fdde73b6a04ba71f12d4a636db658]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2/b)
 
-[^key-7bf526544164a2e5d62897b3b1dda7ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) substituted (14.12.2007) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) Amendment Regulations 2007 (S.I. 2007/3280)](https://www.legislation.gov.uk/uksi/2007/3280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/4/2/b)
+[^c-7bf526544164a2e5d62897b3b1dda7ea]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) substituted (14.12.2007) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) Amendment Regulations 2007 (S.I. 2007/3280)](https://www.legislation.gov.uk/uksi/2007/3280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/4/2/b)
 
 [^M_F_06c5aa76-f933-4977-c451-a47fdf8d293c]: Textual amendment: Words in reg. 2(1) substituted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/2)
 
-[^key-2f300d45dd1030c8a6ff0bdd86e060bc]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/b/i)
+[^c-2f300d45dd1030c8a6ff0bdd86e060bc]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/b/i)
 
-[^key-ce539050d58e1e439217fc827f6e0747]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/b/ii)
+[^c-ce539050d58e1e439217fc827f6e0747]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/b/ii)
 
-[^key-4f2974dbf020c59f343a6d0f450e9a98]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2014/78/regulation/18)
+[^c-4f2974dbf020c59f343a6d0f450e9a98]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2014/78/regulation/18)
 
-[^key-3058a45c3c4d526c06d286c2f9b5d1c4]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/c/i)
+[^c-3058a45c3c4d526c06d286c2f9b5d1c4]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(c)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/c/i)
 
-[^key-3cb0014612941cd7676d81ceb85a45e2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/c/ii)
+[^c-3cb0014612941cd7676d81ceb85a45e2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/c/ii)
 
-[^key-b950e4137622f3fe72c0e54b08ff4c9f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(d)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/d)
+[^c-b950e4137622f3fe72c0e54b08ff4c9f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(d)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/d)
 
-[^key-8039e7bbcfc218c542525382040dca30]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1/d) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [96(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/96/2)
+[^c-8039e7bbcfc218c542525382040dca30]: Textual amendment: Words in [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1/d) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [96(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/96/2)
 
 [^M_F_c092be24-9cfe-4013-a691-8b320202f504]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/2)
 
-[^key-207594540de39b77beb0d72e19d836bd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/2)
+[^c-207594540de39b77beb0d72e19d836bd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/2)
 
-[^key-e5fb5b56d4e6b0f1abd019c76b3cf418]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/47) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5fb5b56d4e6b0f1abd019c76b3cf418]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 47](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/47) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1ee76678fa1a1891a8b0aef31f5dcef]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(e)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/e)
+[^c-a1ee76678fa1a1891a8b0aef31f5dcef]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(e)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/e)
 
-[^key-5f507bd0649e79c222652db04566a667]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(f)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/f)
+[^c-5f507bd0649e79c222652db04566a667]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(f)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/f)
 
-[^key-cf6422b07ad2ac56c4c9cdb0540677be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (12.4.2002) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) Amendment Regulations 2002 (S.I. 2002/610)](https://www.legislation.gov.uk/uksi/2002/610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/610/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/610/regulation/3/a)
+[^c-cf6422b07ad2ac56c4c9cdb0540677be]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (12.4.2002) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) Amendment Regulations 2002 (S.I. 2002/610)](https://www.legislation.gov.uk/uksi/2002/610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/610/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2002/610/regulation/3/a)
 
 [^f00007]: Footnote: Subsection (6) was added to section 10 by section 8(6) of the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) and was amended by section 190 of, and paragraph 7 of Schedule 8 to, the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-2b0b8d497a4bc36c8d49d4ea31954480]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(g)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/g)
+[^c-2b0b8d497a4bc36c8d49d4ea31954480]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(g)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/g)
 
 [^f00014]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48). Section 94 was amended by section 154 of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-42be2ccbe4f92a6b6c926c93c22572e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(h)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/h)
+[^c-42be2ccbe4f92a6b6c926c93c22572e8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(h)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/h)
 
-[^key-2d899820c4b81d28aeb83885fe82b75e]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [55](https://www.legislation.gov.uk/uksi/2017/275/regulation/55)
+[^c-2d899820c4b81d28aeb83885fe82b75e]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [55](https://www.legislation.gov.uk/uksi/2017/275/regulation/55)
 
-[^key-0419a8dd36f23a90638445a39d96a6ff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/i)
+[^c-0419a8dd36f23a90638445a39d96a6ff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/i)
 
-[^key-823b01de7f459f4613cc3dddd24dfe7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(j)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/j)
+[^c-823b01de7f459f4613cc3dddd24dfe7e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2000/619/regulation/2) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(2)(j)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/2/j)
 
-[^key-6fd8d71a8a9b1c441bbd3ab0fb149f8d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (with effect from 12.2.2007) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2013/413/regulation/78)
+[^c-6fd8d71a8a9b1c441bbd3ab0fb149f8d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/1) inserted (with effect from 12.2.2007) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2013/413/regulation/78)
 
-[^key-a3eb2812cd78e98993accc6660541052]: Textual amendment: Reg. 2(1A)(1B) substituted for reg. 2(1A)-(1C) (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [96(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/96/3)
+[^c-a3eb2812cd78e98993accc6660541052]: Textual amendment: Reg. 2(1A)(1B) substituted for reg. 2(1A)-(1C) (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [96(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/96/3)
 
-[^key-7c65212ff4b47981207e28f2c21b85f8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/2) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/3)
+[^c-7c65212ff4b47981207e28f2c21b85f8]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/2) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/3)
 
-[^key-1970a2ff4abfe1ea6750d8b35d5e1858]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/4)
+[^c-1970a2ff4abfe1ea6750d8b35d5e1858]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/2) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [54(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/54/4)
 
-[^key-53a890032aa41dc874d60e2260b0d03e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/3)
+[^c-53a890032aa41dc874d60e2260b0d03e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/2/3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/3)
 
-[^key-bce04dc7b81e4dc2bc38a5167e4e4151]: Textual amendment: Reg. 2A inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2014/78/regulation/19)
+[^c-bce04dc7b81e4dc2bc38a5167e4e4151]: Textual amendment: Reg. 2A inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2014/78/regulation/19)
 
-[^key-fb2cbe68cb8ca2dd0c10aaa84deab83b]: Commencement: Reg. 3 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-fb2cbe68cb8ca2dd0c10aaa84deab83b]: Commencement: Reg. 3 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-ff1e7780e911b696d3a61cdbe067681e]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/1/a) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/2/a)
+[^c-ff1e7780e911b696d3a61cdbe067681e]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/1/a) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/2/a)
 
-[^key-6bf5c1c5de613318694efc3aa3ca7701]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/1) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(2)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/2/b)
+[^c-6bf5c1c5de613318694efc3aa3ca7701]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/1) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(2)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/2/b)
 
-[^key-7df0857def50c51ddeafc8bccd684f62]: Textual amendment: Word in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/3/a) omitted (1.4.2017) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [56](https://www.legislation.gov.uk/uksi/2017/275/regulation/56)
+[^c-7df0857def50c51ddeafc8bccd684f62]: Textual amendment: Word in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/3/a) omitted (1.4.2017) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [56](https://www.legislation.gov.uk/uksi/2017/275/regulation/56)
 
-[^key-22205eac40b152ff39aee7f8db4f067c]: Textual amendment: Reg. 3(3)(b) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(3)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/3)
+[^c-22205eac40b152ff39aee7f8db4f067c]: Textual amendment: Reg. 3(3)(b) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(3)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/3)
 
-[^key-672b549868c11aac82d1ee09d8849c34]: Textual amendment: Reg. 3(5)(a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [101](https://www.legislation.gov.uk/uksi/2016/245/regulation/101) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-672b549868c11aac82d1ee09d8849c34]: Textual amendment: Reg. 3(5)(a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [101](https://www.legislation.gov.uk/uksi/2016/245/regulation/101) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-1a05c191b9158f82fee94ed30a4f595c]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/4/c)
+[^c-1a05c191b9158f82fee94ed30a4f595c]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/4/c)
 
-[^key-32ad8ba7ac20ca55a82d5a2990834de3]: Textual amendment: Reg. 3(6A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/4/d)
+[^c-32ad8ba7ac20ca55a82d5a2990834de3]: Textual amendment: Reg. 3(6A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/4/d)
 
-[^key-4e0014e1fa79fa64dc3a5313f66f6436]: Textual amendment: Reg. 3(6B)(6C) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/4)
+[^c-4e0014e1fa79fa64dc3a5313f66f6436]: Textual amendment: Reg. 3(6B)(6C) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/4)
 
-[^key-d9ab514584bf5d8109a27ce6cb667a38]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/7) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(5)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/5)
+[^c-d9ab514584bf5d8109a27ce6cb667a38]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2000/619/regulation/3/7) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [55(5)](https://www.legislation.gov.uk/uksi/2015/96/regulation/55/5)
 
-[^key-4be55b0bce720c6abbedd73267bb2ee7]: Commencement: Reg. 4 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-4be55b0bce720c6abbedd73267bb2ee7]: Commencement: Reg. 4 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-49d38a7c7934b07e13ed19bf20a33f3f]: Textual amendment: Reg. 4(4) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [28(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/28/2)
+[^c-49d38a7c7934b07e13ed19bf20a33f3f]: Textual amendment: Reg. 4(4) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [28(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/28/2)
 
-[^key-9021a14f64c2a45e24af3948849018af]: Textual amendment: Reg. 4(4)(a) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [56(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/56/2/a)
+[^c-9021a14f64c2a45e24af3948849018af]: Textual amendment: Reg. 4(4)(a) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [56(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/56/2/a)
 
-[^key-2fc926c791731d8ebad85339aeadb114]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4/b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [56(2)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/56/2/b)
+[^c-2fc926c791731d8ebad85339aeadb114]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4/b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [56(2)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/56/2/b)
 
-[^key-3f928881d03dd99d4eb69a8fd01e9638]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4/b) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/5/a)
+[^c-3f928881d03dd99d4eb69a8fd01e9638]: Textual amendment: Words in [reg. 4(4)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4/b) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/5/a)
 
-[^key-d1a0eb378985071f50926be6a1c7f86b]: Textual amendment: Reg. 4(4A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/5/b)
+[^c-d1a0eb378985071f50926be6a1c7f86b]: Textual amendment: Reg. 4(4A) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/5/b)
 
-[^key-fb52631f05bda505da70cd680eb022dc]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4A) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [56(3)](https://www.legislation.gov.uk/uksi/2015/96/regulation/56/3)
+[^c-fb52631f05bda505da70cd680eb022dc]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4A) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [56(3)](https://www.legislation.gov.uk/uksi/2015/96/regulation/56/3)
 
-[^key-4e3d4d56b443366bc12b15ef0cc5a63d]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4A) omitted (1.4.2013) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [79](https://www.legislation.gov.uk/uksi/2013/413/regulation/79)
+[^c-4e3d4d56b443366bc12b15ef0cc5a63d]: Textual amendment: Words in [reg. 4(4A)](https://www.legislation.gov.uk/uksi/2000/619/regulation/4/4A) omitted (1.4.2013) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [79](https://www.legislation.gov.uk/uksi/2013/413/regulation/79)
 
-[^key-73feacbe1ae4466c81812395a93aa37d]: Textual amendment: Reg. 4(5) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [28(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/28/3)
+[^c-73feacbe1ae4466c81812395a93aa37d]: Textual amendment: Reg. 4(5) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [28(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/28/3)
 
-[^key-5065f4848b4601e97d318fafa52fcc8a]: Commencement: Reg. 5 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-5065f4848b4601e97d318fafa52fcc8a]: Commencement: Reg. 5 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-d2e8a173127c7a51e0b871dedb756fca]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/5/2/a) omitted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/6)
+[^c-d2e8a173127c7a51e0b871dedb756fca]: Textual amendment: Words in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/5/2/a) omitted (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/6)
 
-[^key-3a356889e4f4c502b77154463fa4dd46]: Textual amendment: Reg. 6 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [57](https://www.legislation.gov.uk/uksi/2015/96/regulation/57)
+[^c-3a356889e4f4c502b77154463fa4dd46]: Textual amendment: Reg. 6 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [57](https://www.legislation.gov.uk/uksi/2015/96/regulation/57)
 
-[^key-b6914c9dd737a9c5652c10c061143e71]: Commencement: Reg. 7 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-b6914c9dd737a9c5652c10c061143e71]: Commencement: Reg. 7 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-2fc8c5b2a50cfe230f69986e433a7c02]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/7/2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/4)
+[^c-2fc8c5b2a50cfe230f69986e433a7c02]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/7/2) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/4)
 
-[^key-547ce3b8ec4fbbbc3fe1b27eeb6c097e]: Commencement: Reg. 8 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-547ce3b8ec4fbbbc3fe1b27eeb6c097e]: Commencement: Reg. 8 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-715accbe98806b01906e4ccc5c259f7e]: Textual amendment: Reg. 8(1) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [30](https://www.legislation.gov.uk/uksi/2006/600/regulation/30)
+[^c-715accbe98806b01906e4ccc5c259f7e]: Textual amendment: Reg. 8(1) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [30](https://www.legislation.gov.uk/uksi/2006/600/regulation/30)
 
-[^key-4863794b4446852e6686cae6f77ba3b7]: Commencement: Reg. 9 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-4863794b4446852e6686cae6f77ba3b7]: Commencement: Reg. 9 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-fca20be56c6a98484adad28de0a40b94]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/2) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/8/a)
+[^c-fca20be56c6a98484adad28de0a40b94]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/2) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/8/a)
 
-[^key-69b28d658c156a801280f72a30b6287f]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/1) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [54(4)(a)](https://www.legislation.gov.uk/uksi/2010/492/regulation/54/4/a)
+[^c-69b28d658c156a801280f72a30b6287f]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/1) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [54(4)(a)](https://www.legislation.gov.uk/uksi/2010/492/regulation/54/4/a)
 
 [^f00018]: Footnote: Regulations B5 and N3A were inserted by S.I. [1997/80](https://www.legislation.gov.uk/uksi/1997/80).
 
-[^key-b6622150688510c19b40c417e57cfa11]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/1) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [54(4)(b)](https://www.legislation.gov.uk/uksi/2010/492/regulation/54/4/b)
+[^c-b6622150688510c19b40c417e57cfa11]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/1) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [54(4)(b)](https://www.legislation.gov.uk/uksi/2010/492/regulation/54/4/b)
 
-[^key-896a2098c6c1cb714713464ce0d41cde]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/3/b) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/8/a)
+[^c-896a2098c6c1cb714713464ce0d41cde]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/3/b) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/8/a)
 
-[^key-5cb9664305c3c8574aeb1e3e03af76a2]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/8/b)
+[^c-5cb9664305c3c8574aeb1e3e03af76a2]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2000/619/regulation/9/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/8/b)
 
-[^key-967d2bb2bbe78eed01341a6ee468bf61]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/619/regulation/10) substituted (12.4.2002) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) Amendment Regulations 2002 (S.I. 2002/610)](https://www.legislation.gov.uk/uksi/2002/610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/610/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2002/610/regulation/5)
+[^c-967d2bb2bbe78eed01341a6ee468bf61]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2000/619/regulation/10) substituted (12.4.2002) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) Amendment Regulations 2002 (S.I. 2002/610)](https://www.legislation.gov.uk/uksi/2002/610), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/610/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2002/610/regulation/5)
 
-[^key-473ab07e22de947e35e69d98cc70f311]: Textual amendment: Reg. 10(1) substituted (28.11.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/37/a)
+[^c-473ab07e22de947e35e69d98cc70f311]: Textual amendment: Reg. 10(1) substituted (28.11.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/37/a)
 
-[^key-f88bfd195b277b8b36441c04286ef2b7]: Textual amendment: Reg. 10(2) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [31(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/31/3)
+[^c-f88bfd195b277b8b36441c04286ef2b7]: Textual amendment: Reg. 10(2) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [31(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/31/3)
 
-[^key-6257a43197a47f09e52696e99711aeb8]: Textual amendment: Reg. 10(3) omitted (28.11.2011) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/37/b)
+[^c-6257a43197a47f09e52696e99711aeb8]: Textual amendment: Reg. 10(3) omitted (28.11.2011) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/37/b)
 
-[^key-7048a67ae3fc7e80b6b2bfd266ab5e70]: Textual amendment: Reg. 10(4)-(4B) substituted for reg. 10(4) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [58(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/58/2)
+[^c-7048a67ae3fc7e80b6b2bfd266ab5e70]: Textual amendment: Reg. 10(4)-(4B) substituted for reg. 10(4) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [58(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/58/2)
 
-[^key-e94932da2b116ff77a6bc6b5f9e73546]: Textual amendment: Word in [reg. 10(6)](https://www.legislation.gov.uk/uksi/2000/619/regulation/10/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/9/b)
+[^c-e94932da2b116ff77a6bc6b5f9e73546]: Textual amendment: Word in [reg. 10(6)](https://www.legislation.gov.uk/uksi/2000/619/regulation/10/6) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/9/b)
 
-[^key-22d156b2601c12ce3ed57f2cbfd26bc9]: Textual amendment: Words in [reg. 10(8)(b)(i)](https://www.legislation.gov.uk/uksi/2000/619/regulation/10/8/b/i) substituted (28.11.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2), [37(c)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/37/c)
+[^c-22d156b2601c12ce3ed57f2cbfd26bc9]: Textual amendment: Words in [reg. 10(8)(b)(i)](https://www.legislation.gov.uk/uksi/2000/619/regulation/10/8/b/i) substituted (28.11.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2), [37(c)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/37/c)
 
-[^key-615dd745fe1552e8e7fc0fe172dc6b29]: Textual amendment: Reg. 10(8)(b)(ii) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/9/c)
+[^c-615dd745fe1552e8e7fc0fe172dc6b29]: Textual amendment: Reg. 10(8)(b)(ii) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/9/c)
 
-[^key-adc26a6484f722b6153af964c9b5b09c]: Textual amendment: Words in [reg. 10(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/619/regulation/10/8/b/ii) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [58(3)](https://www.legislation.gov.uk/uksi/2015/96/regulation/58/3)
+[^c-adc26a6484f722b6153af964c9b5b09c]: Textual amendment: Words in [reg. 10(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/619/regulation/10/8/b/ii) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [58(3)](https://www.legislation.gov.uk/uksi/2015/96/regulation/58/3)
 
-[^key-8f1ca29ed72b67ed5d90aef55150a69f]: Textual amendment: Reg. 11 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [59](https://www.legislation.gov.uk/uksi/2015/96/regulation/59)
+[^c-8f1ca29ed72b67ed5d90aef55150a69f]: Textual amendment: Reg. 11 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [59](https://www.legislation.gov.uk/uksi/2015/96/regulation/59)
 
-[^key-7c1e35692870ba74abc6dc0b176af158]: Textual amendment: Reg. 11(1)(e) added (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [102(a)](https://www.legislation.gov.uk/uksi/2016/245/regulation/102/a) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-7c1e35692870ba74abc6dc0b176af158]: Textual amendment: Reg. 11(1)(e) added (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [102(a)](https://www.legislation.gov.uk/uksi/2016/245/regulation/102/a) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-47296579d5fd9ffe5cdca79d11b3c78f]: Textual amendment: Reg. 11(1)(f) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/281/regulation/9)
+[^c-47296579d5fd9ffe5cdca79d11b3c78f]: Textual amendment: Reg. 11(1)(f) inserted (1.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2024 (S.I. 2024/281)](https://www.legislation.gov.uk/uksi/2024/281), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/281/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/281/regulation/9)
 
-[^key-39b95ed96d687caefdf011fff4f8eb5d]: Textual amendment: Words in [reg. 11(11)](https://www.legislation.gov.uk/uksi/2000/619/regulation/11/11) omitted (1.4.2016) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [102(b)](https://www.legislation.gov.uk/uksi/2016/245/regulation/102/b) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-39b95ed96d687caefdf011fff4f8eb5d]: Textual amendment: Words in [reg. 11(11)](https://www.legislation.gov.uk/uksi/2000/619/regulation/11/11) omitted (1.4.2016) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [102(b)](https://www.legislation.gov.uk/uksi/2016/245/regulation/102/b) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-85f88951daf5fde3a41b7870f3adaa96]: Commencement: Reg. 12 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-85f88951daf5fde3a41b7870f3adaa96]: Commencement: Reg. 12 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-07a2f0826489fc8e15ae09342954eb2e]: Textual amendment: Reg. 12(2) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [33](https://www.legislation.gov.uk/uksi/2006/600/regulation/33)
+[^c-07a2f0826489fc8e15ae09342954eb2e]: Textual amendment: Reg. 12(2) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [33](https://www.legislation.gov.uk/uksi/2006/600/regulation/33)
 
-[^key-06e1736c6a1b47f81b9020b24ff713a4]: Textual amendment: Reg. 13 omitted (1.4.2016) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [103](https://www.legislation.gov.uk/uksi/2016/245/regulation/103) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-06e1736c6a1b47f81b9020b24ff713a4]: Textual amendment: Reg. 13 omitted (1.4.2016) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [103](https://www.legislation.gov.uk/uksi/2016/245/regulation/103) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-5cc2ee44656b59ff8d4ef46716f80472]: Commencement: Reg. 14 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-5cc2ee44656b59ff8d4ef46716f80472]: Commencement: Reg. 14 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-93f1e3184706bbdf9be369d41beafa02]: Textual amendment: Reg. 14(1)(b) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/11)
+[^c-93f1e3184706bbdf9be369d41beafa02]: Textual amendment: Reg. 14(1)(b) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/11)
 
-[^key-3a8e982a2d34446538611744144fe7bd]: Textual amendment: Word in [reg. 14(1)(b)(i)](https://www.legislation.gov.uk/uksi/2000/619/regulation/14/1/b/i) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [61(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/61/a)
+[^c-3a8e982a2d34446538611744144fe7bd]: Textual amendment: Word in [reg. 14(1)(b)(i)](https://www.legislation.gov.uk/uksi/2000/619/regulation/14/1/b/i) omitted (1.4.2015) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [61(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/61/a)
 
-[^key-9a4d0f27056032158f2146951db5a25e]: Textual amendment: Reg. 14(1)(b)(iii) and word inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [61(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/61/b)
+[^c-9a4d0f27056032158f2146951db5a25e]: Textual amendment: Reg. 14(1)(b)(iii) and word inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [61(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/61/b)
 
-[^key-658a6a93e87cf876af941870fe5ee9b1]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/14/1) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [35(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/35/2)
+[^c-658a6a93e87cf876af941870fe5ee9b1]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2000/619/regulation/14/1) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [35(2)](https://www.legislation.gov.uk/uksi/2006/600/regulation/35/2)
 
-[^key-2d86680fd5861b3f907a91bd469b9af7]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/14/2) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [35(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/35/3)
+[^c-2d86680fd5861b3f907a91bd469b9af7]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/14/2) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [35(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/35/3)
 
-[^key-ad059af76d79eb6045c2f1b8b55fb513]: Commencement: Reg. 15 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-ad059af76d79eb6045c2f1b8b55fb513]: Commencement: Reg. 15 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-f5350f8e6f61d2a5724e5961b472e73b]: Textual amendment: Reg. 15(1) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/2)
+[^c-f5350f8e6f61d2a5724e5961b472e73b]: Textual amendment: Reg. 15(1) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/2)
 
-[^key-bf60c8f7bd58189932a1f080440ade32]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/2) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/4/a)
+[^c-bf60c8f7bd58189932a1f080440ade32]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/2) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/4/a)
 
-[^key-307c40c70031316b948280f77a7a92c4]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(3)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/3/a)
+[^c-307c40c70031316b948280f77a7a92c4]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(3)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/3/a)
 
-[^key-368bae78e62c43af680c87381e3386a5]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [104](https://www.legislation.gov.uk/uksi/2016/245/regulation/104) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-368bae78e62c43af680c87381e3386a5]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [104](https://www.legislation.gov.uk/uksi/2016/245/regulation/104) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-95b4dcbd601d557398a4bd679cc1d3f8]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/4/b/i)
+[^c-95b4dcbd601d557398a4bd679cc1d3f8]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/4/b/i)
 
-[^key-9c6d5acf69ff81c2e72e7c98b2b91ef5]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3/a) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [97](https://www.legislation.gov.uk/uksi/2019/418/regulation/97)
+[^c-9c6d5acf69ff81c2e72e7c98b2b91ef5]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3/a) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [97](https://www.legislation.gov.uk/uksi/2019/418/regulation/97)
 
-[^key-55f628b6bf251cb7a1e93e4a94d19663]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/3)
+[^c-55f628b6bf251cb7a1e93e4a94d19663]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3) inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/3)
 
-[^key-8cd78c96be6dfd4a4f82165b4c5003af]: Textual amendment: Reg. 15(3)(b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(3)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/3/b)
+[^c-8cd78c96be6dfd4a4f82165b4c5003af]: Textual amendment: Reg. 15(3)(b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(3)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/3/b)
 
-[^key-e604dff147be1d3adb511192471f1813]: Textual amendment: Words in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3/b) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [97](https://www.legislation.gov.uk/uksi/2019/418/regulation/97)
+[^c-e604dff147be1d3adb511192471f1813]: Textual amendment: Words in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3/b) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [97](https://www.legislation.gov.uk/uksi/2019/418/regulation/97)
 
-[^key-172040cb46c99d7c7501f3dd3e79fb08]: Textual amendment: Word in [reg. 15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3/b/ii) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [57(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/57/2/a)
+[^c-172040cb46c99d7c7501f3dd3e79fb08]: Textual amendment: Word in [reg. 15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/3/b/ii) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [57(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/57/2/a)
 
-[^key-7fdfd21ae514123534ee6e0a27bfd2f5]: Textual amendment: Reg. 15(3)(c) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [57(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/57/2/b)
+[^c-7fdfd21ae514123534ee6e0a27bfd2f5]: Textual amendment: Reg. 15(3)(c) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [57(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/57/2/b)
 
-[^key-aeb0a738964db72b9e533d3d5e8f06ba]: Textual amendment: Reg. 15(3A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/4)
+[^c-aeb0a738964db72b9e533d3d5e8f06ba]: Textual amendment: Reg. 15(3A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/4)
 
-[^key-9445523037d25f2f522ca6cc97cc5100]: Textual amendment: Reg. 15(3B)(3C) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [57(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/57/3)
+[^c-9445523037d25f2f522ca6cc97cc5100]: Textual amendment: Reg. 15(3B)(3C) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [57(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/57/3)
 
-[^key-a6c69e1b0600051eab03e42148deed46]: Textual amendment: Reg. 15(4) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(5)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/5)
+[^c-a6c69e1b0600051eab03e42148deed46]: Textual amendment: Reg. 15(4) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(5)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/5)
 
-[^key-0e540ff8c9f20183b103a85de0599f93]: Textual amendment: Reg. 15(5)-(9) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [36(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/36/3)
+[^c-0e540ff8c9f20183b103a85de0599f93]: Textual amendment: Reg. 15(5)-(9) omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [36(3)](https://www.legislation.gov.uk/uksi/2006/600/regulation/36/3)
 
-[^key-7b422002fc6e976d5ca78893c76bf72f]: Textual amendment: Words in [reg. 15(10)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/10) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(6)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/6)
+[^c-7b422002fc6e976d5ca78893c76bf72f]: Textual amendment: Words in [reg. 15(10)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/10) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(6)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/6)
 
-[^key-0ba0782b7df2f8d77511c91e65c7da55]: Textual amendment: Words in [reg. 15(10)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/10) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(12)(c)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/12/c)
+[^c-0ba0782b7df2f8d77511c91e65c7da55]: Textual amendment: Words in [reg. 15(10)](https://www.legislation.gov.uk/uksi/2000/619/regulation/15/10) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(12)(c)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/12/c)
 
-[^key-50318142a7b7779f0cf83b453456751e]: Textual amendment: Reg. 15(10A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(7)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/7)
+[^c-50318142a7b7779f0cf83b453456751e]: Textual amendment: Reg. 15(10A) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(7)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/7)
 
-[^key-333d00a99c57e05bca40c056e145fb81]: Textual amendment: Reg. 15(11) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(12)(d)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/12/d)
+[^c-333d00a99c57e05bca40c056e145fb81]: Textual amendment: Reg. 15(11) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(12)(d)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/12/d)
 
-[^key-39c0de3e86c8f6411dbc5f4c4af5ee93]: Textual amendment: Reg. 15(11)(c) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(8)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/8)
+[^c-39c0de3e86c8f6411dbc5f4c4af5ee93]: Textual amendment: Reg. 15(11)(c) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [62(8)](https://www.legislation.gov.uk/uksi/2015/96/regulation/62/8)
 
-[^key-2d30da9e9750bf58b7e9e33a9bdb3ba3]: Commencement: Reg. 16 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-2d30da9e9750bf58b7e9e33a9bdb3ba3]: Commencement: Reg. 16 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-1410010e8894417dea6def57a3f6e56c]: Textual amendment: Reg. 16(3)-(5) added (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [37](https://www.legislation.gov.uk/uksi/2006/600/regulation/37)
+[^c-1410010e8894417dea6def57a3f6e56c]: Textual amendment: Reg. 16(3)-(5) added (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [37](https://www.legislation.gov.uk/uksi/2006/600/regulation/37)
 
-[^key-b4186dba20bc8a1447bf77d127e988ae]: Textual amendment: Words in reg. 16(3) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/2)
+[^c-b4186dba20bc8a1447bf77d127e988ae]: Textual amendment: Words in reg. 16(3) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/2)
 
-[^key-ea017627cc48f7884e984637855783d9]: Textual amendment: Reg. 16(3A) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/3)
+[^c-ea017627cc48f7884e984637855783d9]: Textual amendment: Reg. 16(3A) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/3)
 
-[^key-0a5640de9ed1c806cc0f3e9f24b2b095]: Textual amendment: Words in reg. 16(4) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(4)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/4)
+[^c-0a5640de9ed1c806cc0f3e9f24b2b095]: Textual amendment: Words in reg. 16(4) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(4)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/4)
 
-[^key-4574e481214cfad607d48fc1addd73be]: Textual amendment: Reg. 16(4A) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(5)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/5)
+[^c-4574e481214cfad607d48fc1addd73be]: Textual amendment: Reg. 16(4A) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(5)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/5)
 
-[^key-cd9d35240b9b5b6f5f508bff78a78085]: Textual amendment: Words in reg. 16(5) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(6)(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/6/a)
+[^c-cd9d35240b9b5b6f5f508bff78a78085]: Textual amendment: Words in reg. 16(5) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/9), [6(6)(a)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/6/a)
 
-[^key-cccf5fddc0efcdd36aaac9edbba602bc]: Textual amendment: Words in reg. 16(5) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/9), [6(6)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/6/b)
+[^c-cccf5fddc0efcdd36aaac9edbba602bc]: Textual amendment: Words in reg. 16(5) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/9), [6(6)(b)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/6/b)
 
-[^key-7a4837fcab6d99b22386c0d434d2d359]: Textual amendment: Word in reg. 16(5) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/9), [6(6)(c)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/6/c)
+[^c-7a4837fcab6d99b22386c0d434d2d359]: Textual amendment: Word in reg. 16(5) inserted (1.4.2025 with effect from 6.4.2024) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)(9)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2/9), [6(6)(c)](https://www.legislation.gov.uk/uksi/2025/316/regulation/6/6/c)
 
-[^key-9f3941bb06babc7c6b575268a87c59f1]: Commencement: Reg. 17 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-9f3941bb06babc7c6b575268a87c59f1]: Commencement: Reg. 17 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
 [^f00024]: Footnote: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32). The amount specified in S.I. [1984/539](https://www.legislation.gov.uk/uksi/1984/539) is £5,000.
 
-[^key-aa5b864bc036d50b98ca667a12e67d83]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2000/619/regulation/17A) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/5)
+[^c-aa5b864bc036d50b98ca667a12e67d83]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2000/619/regulation/17A) inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/5)
 
-[^key-5eed2a0f28bbe060b2013a380f46e96a]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2000/619/regulation/17A) inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/4)
+[^c-5eed2a0f28bbe060b2013a380f46e96a]: Textual amendment: Words in [reg. 17A](https://www.legislation.gov.uk/uksi/2000/619/regulation/17A) inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/4)
 
-[^key-d3223178e53471127a4533ed6a59f938]: Commencement: Reg. 18 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-d3223178e53471127a4533ed6a59f938]: Commencement: Reg. 18 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
 [^f00025]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 310(7) was amended by paragraph 2 of Schedule 2 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-975ef36894d887defac490723b3987e7]: Commencement: Reg. 19 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-975ef36894d887defac490723b3987e7]: Commencement: Reg. 19 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-3bdb2c90622444dd9d7f18cac399d258]: Textual amendment: Reg. 19(a) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [63](https://www.legislation.gov.uk/uksi/2015/96/regulation/63)
+[^c-3bdb2c90622444dd9d7f18cac399d258]: Textual amendment: Reg. 19(a) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [63](https://www.legislation.gov.uk/uksi/2015/96/regulation/63)
 
-[^key-abed85a02df2617ac183d45f3cd621b2]: Textual amendment: Reg. 20 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [64](https://www.legislation.gov.uk/uksi/2015/96/regulation/64)
+[^c-abed85a02df2617ac183d45f3cd621b2]: Textual amendment: Reg. 20 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [64](https://www.legislation.gov.uk/uksi/2015/96/regulation/64)
 
-[^key-051c418534508a4cbc29ba6d3c8c8f07]: Commencement: Reg. 21 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
+[^c-051c418534508a4cbc29ba6d3c8c8f07]: Commencement: Reg. 21 in force at 10.4.2000, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/619/regulation/1/2)
 
-[^key-50f56bf3945746b91a07946108e281f5]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2000/619/regulation/21) inserted (14.12.2007) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) Amendment Regulations 2007 (S.I. 2007/3280)](https://www.legislation.gov.uk/uksi/2007/3280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/4/3)
+[^c-50f56bf3945746b91a07946108e281f5]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2000/619/regulation/21) inserted (14.12.2007) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) Amendment Regulations 2007 (S.I. 2007/3280)](https://www.legislation.gov.uk/uksi/2007/3280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2007/3280/regulation/4/3)
 
-[^key-d62a36618c72b7ed7318b9db35f7654f]: Textual amendment: Reg. 22 added (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [38](https://www.legislation.gov.uk/uksi/2006/600/regulation/38)
+[^c-d62a36618c72b7ed7318b9db35f7654f]: Textual amendment: Reg. 22 added (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [38](https://www.legislation.gov.uk/uksi/2006/600/regulation/38)
 
-[^key-3486f9b9cc74c68b036f1f4147ec40b5]: Textual amendment: Reg. 22 renumbered as reg. 22(1) (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(15)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/15/a)
+[^c-3486f9b9cc74c68b036f1f4147ec40b5]: Textual amendment: Reg. 22 renumbered as reg. 22(1) (1.4.2008) by virtue of [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(15)(a)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/15/a)
 
-[^key-32b316313e0d5fd56dc59c980be534d4]: Textual amendment: Reg. 22(2) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(15)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/15/b)
+[^c-32b316313e0d5fd56dc59c980be534d4]: Textual amendment: Reg. 22(2) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(15)(b)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/15/b)
 
-[^key-6a1983fa9faecaf385758f690cb4f5fc]: Textual amendment: Sch. 1 omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [39](https://www.legislation.gov.uk/uksi/2006/600/regulation/39)
+[^c-6a1983fa9faecaf385758f690cb4f5fc]: Textual amendment: Sch. 1 omitted (6.4.2006) by virtue of [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [39](https://www.legislation.gov.uk/uksi/2006/600/regulation/39)
 
-[^key-ffb1c8b8d7fdead3b96b412dcb09510c]: Textual amendment: Sch. 2 inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/6)
+[^c-ffb1c8b8d7fdead3b96b412dcb09510c]: Textual amendment: Sch. 2 inserted (1.5.2001) by [The National Health Service (Pension Scheme and Additional Voluntary Contributions) (Pension Sharing) Amendment Regulations 2001 (S.I. 2001/1428)](https://www.legislation.gov.uk/uksi/2001/1428), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1428/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2001/1428/schedule/2/paragraph/6)
 
-[^key-8a3dc848a1cd08ab5fb39ce32ba26dd7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2000/619/schedule/2) heading inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/5/a)
+[^c-8a3dc848a1cd08ab5fb39ce32ba26dd7]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2000/619/schedule/2) heading inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/5/a)
 
-[^key-9f96abe343ca75593858e833bc45b4f6]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/1/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/4)
+[^c-9f96abe343ca75593858e833bc45b4f6]: Textual amendment: Word in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/1/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [589(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/589/4)
 
-[^key-2f32290a6545cef080f29aac95633b0a]: Textual amendment: Sch. 2 para. 1(5)(b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/2/a)
+[^c-2f32290a6545cef080f29aac95633b0a]: Textual amendment: Sch. 2 para. 1(5)(b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(2)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/2/a)
 
-[^key-2b3dbf42f6d5d9422b59dd5ac5f09747]: Textual amendment: Sch. 2 para. 1(6)(7) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(2)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/2/b)
+[^c-2b3dbf42f6d5d9422b59dd5ac5f09747]: Textual amendment: Sch. 2 para. 1(6)(7) added (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(2)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/2/b)
 
-[^key-69b07172848e315a8201c62ab35c2384]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/4/1) added (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [40(2)(a)](https://www.legislation.gov.uk/uksi/2006/600/regulation/40/2/a)
+[^c-69b07172848e315a8201c62ab35c2384]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/4/1) added (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [40(2)(a)](https://www.legislation.gov.uk/uksi/2006/600/regulation/40/2/a)
 
-[^key-3bbec44654a3fdbafe44b8556d81c14e]: Textual amendment: Words in [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/4/4) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/a)
+[^c-3bbec44654a3fdbafe44b8556d81c14e]: Textual amendment: Words in [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/4/4) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(a)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/a)
 
-[^key-d2877209e6e7fcfcb544dbd32380cb20]: Textual amendment: Sch. 2 para. 4(5)(aa) inserted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [40(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/40/2/b)
+[^c-d2877209e6e7fcfcb544dbd32380cb20]: Textual amendment: Sch. 2 para. 4(5)(aa) inserted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [40(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/40/2/b)
 
-[^key-a698de78b0e0410cee584de09407f547]: Textual amendment: Sch. 2 para. 4(5A)-(5C) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/b)
+[^c-a698de78b0e0410cee584de09407f547]: Textual amendment: Sch. 2 para. 4(5A)-(5C) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(b)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/b)
 
-[^key-09d10664ba38806552d564ac47506be3]: Textual amendment: Sch. 2 para. 4(7) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [40(2)(c)](https://www.legislation.gov.uk/uksi/2006/600/regulation/40/2/c)
+[^c-09d10664ba38806552d564ac47506be3]: Textual amendment: Sch. 2 para. 4(7) substituted (6.4.2006) by [The National Health Service (Pension Scheme, Injury Benefits and Additional Voluntary Contributions) Amendment Regulations 2006 (S.I. 2006/600)](https://www.legislation.gov.uk/uksi/2006/600), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/600/regulation/1/2/b), [40(2)(c)](https://www.legislation.gov.uk/uksi/2006/600/regulation/40/2/c)
 
-[^key-60cd8bf1516a30514c5dcc49d84a8125]: Textual amendment: Words in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/4/7) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/c/i)
+[^c-60cd8bf1516a30514c5dcc49d84a8125]: Textual amendment: Words in [Sch. 2 para. 4(7)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/4/7) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/c/i)
 
-[^key-ff0d5a00dd7835aff8e814334922b2b9]: Textual amendment: Sch. 2 para. 4(7)(c) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/c/ii)
+[^c-ff0d5a00dd7835aff8e814334922b2b9]: Textual amendment: Sch. 2 para. 4(7)(c) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/c/ii)
 
-[^key-b89a9fb8e98e653c6a70479d070868ec]: Textual amendment: Sch. 2 para. 4(8)-(10) substituted for Sch. 2 para. 4(8)(9) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(d)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/d)
+[^c-b89a9fb8e98e653c6a70479d070868ec]: Textual amendment: Sch. 2 para. 4(8)-(10) substituted for Sch. 2 para. 4(8)(9) (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(3)(d)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/3/d)
 
-[^key-f247a77b25e10dd90339001b8f496025]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/6/1) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/3), [105(3)(a)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/105/3/a)
+[^c-f247a77b25e10dd90339001b8f496025]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/6/1) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/3), [105(3)(a)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/105/3/a)
 
-[^key-65d3257ed628efc597078ae369391370]: Textual amendment: Sch. 2 para. 7(2)(b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/4)
+[^c-65d3257ed628efc597078ae369391370]: Textual amendment: Sch. 2 para. 7(2)(b) substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(4)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/4)
 
-[^key-3a6205348f72e5401b6c566783fb5641]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/11/2) substituted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/5/b)
+[^c-3a6205348f72e5401b6c566783fb5641]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/11/2) substituted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/4/5/b)
 
-[^key-5e25fe5024a7706703a6c430b71b49b1]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/11/2) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [98](https://www.legislation.gov.uk/uksi/2019/418/regulation/98)
+[^c-5e25fe5024a7706703a6c430b71b49b1]: Textual amendment: Words in [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2000/619/schedule/2/paragraph/11/2) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [98](https://www.legislation.gov.uk/uksi/2019/418/regulation/98)
 
-[^key-576c91f51acd5775b8076c17d8dbf441]: Textual amendment: Sch. 2 para. 11(4)(d) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(16)(e)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/16/e)
+[^c-576c91f51acd5775b8076c17d8dbf441]: Textual amendment: Sch. 2 para. 11(4)(d) inserted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(16)(e)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/16/e)
 
-[^key-df32c9166cab56c5be2f0f25dd09a2a6]: Textual amendment: Sch. 2 para. 11(5) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(16)(f)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/16/f)
+[^c-df32c9166cab56c5be2f0f25dd09a2a6]: Textual amendment: Sch. 2 para. 11(5) substituted (1.4.2008) by [The National Health Service Pension Scheme (Additional Voluntary Contributions) and National Health Service (Injury Benefits and Compensation for Premature Retirement) Amendment Regulations 2008 (S.I. 2008/655)](https://www.legislation.gov.uk/uksi/2008/655), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/655/regulation/1/2), [2(16)(f)](https://www.legislation.gov.uk/uksi/2008/655/regulation/2/16/f)
 
-[^key-c76145f1d3f3d93cc4f06889e3c26e03]: Textual amendment: Sch. 2 para. 13 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(5)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/5)
+[^c-c76145f1d3f3d93cc4f06889e3c26e03]: Textual amendment: Sch. 2 para. 13 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(5)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/5)
 
-[^key-75c054c8d97c407d03336ad7de541626]: Textual amendment: Sch. 2 para. 14 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(6)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/6)
+[^c-75c054c8d97c407d03336ad7de541626]: Textual amendment: Sch. 2 para. 14 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2015 (S.I. 2015/96)](https://www.legislation.gov.uk/uksi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/96/regulation/1/2), [65(6)](https://www.legislation.gov.uk/uksi/2015/96/regulation/65/6)

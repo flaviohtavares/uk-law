@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Access control to space sites: approval of suppliers[^key-06ea9abf44c6a6e36d1c042b381cb830]
+## 179. Access control to space sites: approval of suppliers[^c-06ea9abf44c6a6e36d1c042b381cb830]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06ea9abf44c6a6e36d1c042b381cb830]: Commencement: Reg. 179 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-06ea9abf44c6a6e36d1c042b381cb830]: Commencement: Reg. 179 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

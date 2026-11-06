@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Financial services and funds relating to restricted goods and restricted technology[^key-64487f444eaabdd716dbc9ab5a73dc9f]
+## 27. Financial services and funds relating to restricted goods and restricted technology[^c-64487f444eaabdd716dbc9ab5a73dc9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64487f444eaabdd716dbc9ab5a73dc9f]: Commencement: Reg. 27 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-64487f444eaabdd716dbc9ab5a73dc9f]: Commencement: Reg. 27 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

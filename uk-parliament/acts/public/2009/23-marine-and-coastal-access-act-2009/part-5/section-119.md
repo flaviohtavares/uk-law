@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Consultation before designation[^c2007874][^key-ac65c66b9cab486ca86363a74970f900][^key-abb0f2511ea32c491cef7fe18a3d9d06][^key-abb0f2511ea32c491cef7fe18a3d9d06]
+## 119. Consultation before designation[^c2007874][^c-ac65c66b9cab486ca86363a74970f900][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ This is subject to subsection (11).
 
 (5) Where the appropriate authority is not the Secretary of State, the authority must consult the Secretary of State.
 
-(6) If the appropriate authority for an area other than Wales or the Welsh offshore region[^key-1b13a2e7ad73774f66a9a14148b6509c] considers that—
+(6) If the appropriate authority for an area other than Wales or the Welsh offshore region[^c-1b13a2e7ad73774f66a9a14148b6509c] considers that—
 
 - (a) the making of the order may affect any activity which is or may be carried on in the Welsh zone, or
 - (b) any activity which is or may be carried on in the Welsh zone may affect any part of the proposed MCZ,
@@ -58,7 +58,7 @@ the authority must consult the Department of the Environment in Northern Ireland
 
 (9) The Secretary of State must consult—
 
-- (a)[^key-98b1cf5a2b04c4479edc638cda1b97df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-98b1cf5a2b04c4479edc638cda1b97df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Department of the Environment in Northern Ireland, if any part of the proposed MCZ lies in the Northern Ireland zone.
 
 (10) If the appropriate authority fails to make the order before the end of the period of 12 months beginning with the date on which notice was published under subsection (2), then anything done by the appropriate authority for the purposes of complying with subsections (2) to (9) of this section is, for those purposes, to be treated as not having been done.
@@ -73,10 +73,10 @@ Before making such an order, the appropriate authority must comply with subsecti
 
 [^c2007874]: Commencement: S. 119 partly in force; s. 119 in force for specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-ac65c66b9cab486ca86363a74970f900]: Commencement: S. 119 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
+[^c-ac65c66b9cab486ca86363a74970f900]: Commencement: S. 119 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/a)
 
-[^key-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
+[^c-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
 
-[^key-1b13a2e7ad73774f66a9a14148b6509c]: Textual amendment: Words in s. 119(6) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/3/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-1b13a2e7ad73774f66a9a14148b6509c]: Textual amendment: Words in s. 119(6) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/3/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-98b1cf5a2b04c4479edc638cda1b97df]: Textual amendment: S. 119(9)(a) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/3/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-98b1cf5a2b04c4479edc638cda1b97df]: Textual amendment: S. 119(9)(a) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/47/3/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

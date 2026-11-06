@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Cash basis for small businesses[^key-b51a6b98ab5200859e91166c8628637a]
+## 25A. Cash basis for small businesses[^c-b51a6b98ab5200859e91166c8628637a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b51a6b98ab5200859e91166c8628637a]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2005/5/section/25A) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 4](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/4), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-b51a6b98ab5200859e91166c8628637a]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2005/5/section/25A) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 4](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/4), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

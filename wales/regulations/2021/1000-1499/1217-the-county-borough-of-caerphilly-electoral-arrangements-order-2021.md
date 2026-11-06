@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title and commencement[^key-2e0acb2935fae6f603f059f265b7faf2][^key-0eb8f7db275863cb843657f58fab8293]
+## 1. Title and commencement[^c-2e0acb2935fae6f603f059f265b7faf2][^c-0eb8f7db275863cb843657f58fab8293]
 
 (1) The title of this Order is the County Borough of Caerphilly (Electoral Arrangements) Order 2021.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 (3) For all other purposes, this Order comes into force on the ordinary day of election of councillors in 2022[^f00003].
 
-## 2. Interpretation[^key-ccd07e191fa4a2fb1961b62abc411638][^key-45cf5160f5311a8bd69630dab3299d30]
+## 2. Interpretation[^c-ccd07e191fa4a2fb1961b62abc411638][^c-45cf5160f5311a8bd69630dab3299d30]
 
 In this Order—
 
@@ -61,9 +61,9 @@ In this Order—
 - “map” (“*map*”) means the map marked “Map of the County Borough of Caerphilly (Electoral Arrangements) Order 2021” deposited in accordance with regulation 5 of the Regulations;
 - “the Regulations” (“*y Rheoliadau*”) means the Local Government Area Changes Regulations 1976[^f00004];
 - where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature;
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-ab4f86478256b9620a88044db02d045c], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-ab4f86478256b9620a88044db02d045c], except so far as a contrary intention appears.
 
-## 3. Electoral arrangements for the County Borough of Caerphilly[^key-db3d2d0312a541a528d9d24c435b2df3][^key-b7a72be4be4b93fea9e2df5dd69856cc]
+## 3. Electoral arrangements for the County Borough of Caerphilly[^c-db3d2d0312a541a528d9d24c435b2df3][^c-b7a72be4be4b93fea9e2df5dd69856cc]
 
 (1) The electoral wards of the County Borough of Caerphilly, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -75,14 +75,14 @@ In this Order—
 
 (5) The provisions in this Order take precedence over any conflicting provision in any previous statutory instrument made under section 58(2) of the Local Government Act 1972[^f00005].
 
-## 4. The community of Rhymney: changes to community wards[^key-92b0477f9802ee025345e86f92436989][^key-b698c908b3e3bcbdbcdf76b2fac3cc0e]
+## 4. The community of Rhymney: changes to community wards[^c-92b0477f9802ee025345e86f92436989][^c-b698c908b3e3bcbdbcdf76b2fac3cc0e]
 
 In the community of Rhymney—
 
 - (a) the part of the Pontlottyn ward shown hatched on the map is transferred to the Twyn Carno ward;
-- (b) the part of the Moriah *(affected by repeal, see note)*[^key-c54680355de195e2573157ae483bb865] St David’s ward shown cross-hatched on the map is transferred to the Twyn Carno ward.
+- (b) the part of the Moriah *(affected by repeal, see note)*[^c-c54680355de195e2573157ae483bb865] St David’s ward shown cross-hatched on the map is transferred to the Twyn Carno ward.
 
-## 5. The community of Rhymney: consequential changes to electoral arrangements[^key-6642417baf1187be8e04a59ed06ef940][^key-3433c69eed032d6325b12857393a577d]
+## 5. The community of Rhymney: consequential changes to electoral arrangements[^c-6642417baf1187be8e04a59ed06ef940][^c-3433c69eed032d6325b12857393a577d]
 
 In the community of Rhymney—
 
@@ -93,7 +93,7 @@ Rebecca Evans
 
 Minister for Finance and Local Government, one of the Welsh Ministers
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-d1ab1fbc77d96e156c8ee03bfabfe8a4][^key-f7d711e2dfd8f37ab997b3fad53a158e]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-d1ab1fbc77d96e156c8ee03bfabfe8a4][^c-f7d711e2dfd8f37ab997b3fad53a158e]
 
 Article 3
 
@@ -165,36 +165,36 @@ Prints of the map to which article 4 of this Order relates are deposited in the 
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-2e0acb2935fae6f603f059f265b7faf2]: Commencement: Art. 1 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
+[^c-2e0acb2935fae6f603f059f265b7faf2]: Commencement: Art. 1 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
 
-[^key-0eb8f7db275863cb843657f58fab8293]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1217/article/1) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
+[^c-0eb8f7db275863cb843657f58fab8293]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1217/article/1) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
 
 [^f00003]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-ccd07e191fa4a2fb1961b62abc411638]: Commencement: Art. 2 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
+[^c-ccd07e191fa4a2fb1961b62abc411638]: Commencement: Art. 2 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
 
-[^key-45cf5160f5311a8bd69630dab3299d30]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1217/article/2) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
+[^c-45cf5160f5311a8bd69630dab3299d30]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1217/article/2) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that the Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
-[^key-ab4f86478256b9620a88044db02d045c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1217/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 27](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/27)
+[^c-ab4f86478256b9620a88044db02d045c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1217/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 27](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/27)
 
-[^key-db3d2d0312a541a528d9d24c435b2df3]: Commencement: Art. 3 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
+[^c-db3d2d0312a541a528d9d24c435b2df3]: Commencement: Art. 3 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
 
-[^key-b7a72be4be4b93fea9e2df5dd69856cc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1217/article/3) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
+[^c-b7a72be4be4b93fea9e2df5dd69856cc]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1217/article/3) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-92b0477f9802ee025345e86f92436989]: Commencement: Art. 4 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
+[^c-92b0477f9802ee025345e86f92436989]: Commencement: Art. 4 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
 
-[^key-b698c908b3e3bcbdbcdf76b2fac3cc0e]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1217/article/4) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
+[^c-b698c908b3e3bcbdbcdf76b2fac3cc0e]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1217/article/4) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
 
-[^key-c54680355de195e2573157ae483bb865]: Textual amendment: Words in [art. 4(b)](https://www.legislation.gov.uk/wsi/2021/1217/article/4/b) substituted (18.3.2022 for specified purposes and on the ordinary day of election of councillors in 2022 in so far as not already in force) by [The County Borough of Caerphilly (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/314)](https://www.legislation.gov.uk/wsi/2022/314), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/314/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/314/article/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2022/314/article/2/2)
+[^c-c54680355de195e2573157ae483bb865]: Textual amendment: Words in [art. 4(b)](https://www.legislation.gov.uk/wsi/2021/1217/article/4/b) substituted (18.3.2022 for specified purposes and on the ordinary day of election of councillors in 2022 in so far as not already in force) by [The County Borough of Caerphilly (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/314)](https://www.legislation.gov.uk/wsi/2022/314), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/314/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/314/article/1/3), [2(2)](https://www.legislation.gov.uk/wsi/2022/314/article/2/2)
 
-[^key-6642417baf1187be8e04a59ed06ef940]: Commencement: Art. 5 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
+[^c-6642417baf1187be8e04a59ed06ef940]: Commencement: Art. 5 in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
 
-[^key-3433c69eed032d6325b12857393a577d]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1217/article/5) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
+[^c-3433c69eed032d6325b12857393a577d]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1217/article/5) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
 
-[^key-d1ab1fbc77d96e156c8ee03bfabfe8a4]: Commencement: Sch. in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
+[^c-d1ab1fbc77d96e156c8ee03bfabfe8a4]: Commencement: Sch. in force at 3.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/2)
 
-[^key-f7d711e2dfd8f37ab997b3fad53a158e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1217/schedule) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)
+[^c-f7d711e2dfd8f37ab997b3fad53a158e]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1217/schedule) in force at 4.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1217/article/1/3)

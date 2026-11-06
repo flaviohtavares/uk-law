@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Special support grant[^key-6ad839f5ae7d11b3b7a344b19c372438]
+## 42. Special support grant[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))
+[^c-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))

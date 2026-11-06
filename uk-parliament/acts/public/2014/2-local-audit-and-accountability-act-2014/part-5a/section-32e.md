@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32E. Effect of appointing a partnership[^key-0620f9600952e1127bee5ffd462e0f76]
+## 32E. Effect of appointing a partnership[^c-0620f9600952e1127bee5ffd462e0f76]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ is appointed as a local auditor under section 6G or 7.
 
 ## Annotations
 
-[^key-0620f9600952e1127bee5ffd462e0f76]: Textual amendment: Pt. 5A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/21)
+[^c-0620f9600952e1127bee5ffd462e0f76]: Textual amendment: Pt. 5A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 36 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/36/paragraph/21)

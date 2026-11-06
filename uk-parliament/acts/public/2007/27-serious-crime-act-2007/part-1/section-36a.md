@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Proceedings in the High Court of Justiciary and sheriff court[^key-a5b9c70188a963a18c03c3ede04f6402]
+## 36A. Proceedings in the High Court of Justiciary and sheriff court[^c-a5b9c70188a963a18c03c3ede04f6402]
 
 *Extent: E+W+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5b9c70188a963a18c03c3ede04f6402]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/2007/27/section/36A) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/25); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-a5b9c70188a963a18c03c3ede04f6402]: Textual amendment: [S. 36A](https://www.legislation.gov.uk/ukpga/2007/27/section/36A) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/25); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

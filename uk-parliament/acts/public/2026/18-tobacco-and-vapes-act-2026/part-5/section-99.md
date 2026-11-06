@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Registration[^key-b6ffabcf948b3fe70e278a1e5d8a278e]
+## 99. Registration[^c-b6ffabcf948b3fe70e278a1e5d8a278e]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6ffabcf948b3fe70e278a1e5d8a278e]: Commencement: S. 99 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-b6ffabcf948b3fe70e278a1e5d8a278e]: Commencement: S. 99 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

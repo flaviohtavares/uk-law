@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Review of reviewable decision[^key-1d47eca61f115162b0eae8a4658e249d]
+## 64. Review of reviewable decision[^c-1d47eca61f115162b0eae8a4658e249d]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d47eca61f115162b0eae8a4658e249d]: Commencement: S. 64 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-1d47eca61f115162b0eae8a4658e249d]: Commencement: S. 64 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

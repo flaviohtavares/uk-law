@@ -123,7 +123,7 @@ In Schedule 5 to the 1988 Act (hereditaments exempt from non-domestic rating), a
 
 #### 5. General stores etc. in rural settlements.
 
-Schedule 2 (which provides for mandatory or discretionary relief from non-domestic rates for certain lands and heritages [^key-8bbc4e50e901810f1f6228ba4cd2f509]...) is to have effect.
+Schedule 2 (which provides for mandatory or discretionary relief from non-domestic rates for certain lands and heritages [^c-8bbc4e50e901810f1f6228ba4cd2f509]...) is to have effect.
 
 #### 6. Crown property.
 
@@ -173,87 +173,87 @@ Schedule 2 (which provides for mandatory or discretionary relief from non-domest
 
 (1) Subject to subsection (2), the power to make an order under section 6 and Schedule 2 shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2) The power to make an order under paragraph 3(2)(c)(ii)and 3A(9)[^key-45a69cfe16da46cf0d7b6143fe6a517a] of Schedule 2 shall be exercisable by statutory instrument, and no such order shall be made unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
+(2) The power to make an order under paragraph 3(2)(c)(ii)and 3A(9)[^c-45a69cfe16da46cf0d7b6143fe6a517a] of Schedule 2 shall be exercisable by statutory instrument, and no such order shall be made unless a draft of the order has been laid before and approved by resolution of each House of Parliament.
 
 (3) The power to make an order as mentioned in subsection (1) may be exercised differently in relation to different areas or in relation to other different cases or descriptions of case.
 
-## Part II — Parishes and Parish Councils[^key-fa5972ed0b00191821e34e61dff6974e]
+## Part II — Parishes and Parish Councils[^c-fa5972ed0b00191821e34e61dff6974e]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-### Establishment and review[^key-fa5972ed0b00191821e34e61dff6974e]
+### Establishment and review[^c-fa5972ed0b00191821e34e61dff6974e]
 
-#### 9. Reviews of parishes by local authorities.[^key-fa5972ed0b00191821e34e61dff6974e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Procedure on a review.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 9. Reviews of parishes by local authorities.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Petitions for new parishes.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 10. Procedure on a review.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Views of local authority about the petition.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 11. Petitions for new parishes.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Consideration by Electoral Commission[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 12. Views of local authority about the petition.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Implementation by Secretary of State.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 13. Consideration by Electoral Commission[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Regulations for supplementing orders under section 14.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 14. Implementation by Secretary of State.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Establishment of new parish councils by local authorities.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 15. Regulations for supplementing orders under section 14.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Electoral arrangements.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 16. Establishment of new parish councils by local authorities.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Considerations in deciding about electoral arrangements.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 17. Electoral arrangements.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Reviews of parishes by Local Government Commission.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 18. Considerations in deciding about electoral arrangements.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Election of parish councillors.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 19. Reviews of parishes by Local Government Commission.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consultation[^key-fa5972ed0b00191821e34e61dff6974e]
-
-#### 21. Consultation with parish councils.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 20. Election of parish councillors.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplemental[^key-fa5972ed0b00191821e34e61dff6974e]
+### Consultation[^c-fa5972ed0b00191821e34e61dff6974e]
 
-#### 22. Exercise of functions.[^key-fa5972ed0b00191821e34e61dff6974e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 23. Orders and regulations under Part II.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 21. Consultation with parish councils.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Interpretation of Part II.[^key-fa5972ed0b00191821e34e61dff6974e]
+### Supplemental[^c-fa5972ed0b00191821e34e61dff6974e]
+
+#### 22. Exercise of functions.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Application of Part II to England only.[^key-fa5972ed0b00191821e34e61dff6974e]
+#### 23. Orders and regulations under Part II.[^c-fa5972ed0b00191821e34e61dff6974e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24. Interpretation of Part II.[^c-fa5972ed0b00191821e34e61dff6974e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25. Application of Part II to England only.[^c-fa5972ed0b00191821e34e61dff6974e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -443,30 +443,30 @@ Section 1.
 
 .
 
-**2.**[^key-06414309975bf965c2434c7b19064f34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-06414309975bf965c2434c7b19064f34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.** In section 47 (discretionary relief)— *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
+**3.** In section 47 (discretionary relief)— *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
 
-- (a) in subsection (1), after “(3) below” there is inserted *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6] “ or the rural settlement condition and the second condition mentioned in subsection (3) below ” *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6] and for “43(4) to (6)” there is substituted *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6] “ 43(4) to (6B) ” *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6],
-- (b) after subsection (3) there is inserted— *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
+- (a) in subsection (1), after “(3) below” there is inserted *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6] “ or the rural settlement condition and the second condition mentioned in subsection (3) below ” *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6] and for “43(4) to (6)” there is substituted *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6] “ 43(4) to (6B) ” *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6],
+- (b) after subsection (3) there is inserted— *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
 
-  > (3A) The rural settlement condition is— *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
+  > (3A) The rural settlement condition is— *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
   >
-  > - (a) that on the chargeable day the hereditament is within a settlement identified in the billing authority’s rural settlement list for the chargeable financial year in which that day falls, and *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
-  > - (b) that the rateable value of the hereditament shown in the local non-domestic rating list at the beginning of the chargeable financial year is not more than any amount prescribed by the Secretary of State by order. *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
+  > - (a) that on the chargeable day the hereditament is within a settlement identified in the billing authority’s rural settlement list for the chargeable financial year in which that day falls, and *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
+  > - (b) that the rateable value of the hereditament shown in the local non-domestic rating list at the beginning of the chargeable financial year is not more than any amount prescribed by the Secretary of State by order. *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
   >
-  > (3B) Where section 43(6B)(c) above does not apply, the billing authority shall not, by virtue of subsection (3A) above, make such a decision as is referred to in subsection (3) above unless it is satisfied that— *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
+  > (3B) Where section 43(6B)(c) above does not apply, the billing authority shall not, by virtue of subsection (3A) above, make such a decision as is referred to in subsection (3) above unless it is satisfied that— *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
   >
-  > - (a) the hereditament is used for purposes which are of benefit to the local community, and *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
-  > - (b) it would be reasonable for the billing authority to make such a decision, having regard to the interests of persons liable to pay council tax set by it *(affected by repeal, see note)*[^key-acd9fa7cd5ef0644c344b8f28795d9f6]
+  > - (a) the hereditament is used for purposes which are of benefit to the local community, and *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
+  > - (b) it would be reasonable for the billing authority to make such a decision, having regard to the interests of persons liable to pay council tax set by it *(affected by repeal, see note)*[^c-acd9fa7cd5ef0644c344b8f28795d9f6]
 
   .
 
-**4.** In section 48 (discretionary relief: supplementary), at the end of subsection (1) there is added *(affected by repeal, see note)*[^key-234a8485636c983e2d298d791a40c63a] “ (but subsection (5) below does not apply for the purposes of subsection (3B)(a) of that section) ” *(affected by repeal, see note)*[^key-234a8485636c983e2d298d791a40c63a].
+**4.** In section 48 (discretionary relief: supplementary), at the end of subsection (1) there is added *(affected by repeal, see note)*[^c-234a8485636c983e2d298d791a40c63a] “ (but subsection (5) below does not apply for the purposes of subsection (3B)(a) of that section) ” *(affected by repeal, see note)*[^c-234a8485636c983e2d298d791a40c63a].
 
-**5.**[^key-2eb6a937e1881f536baf6a88651b5633] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2eb6a937e1881f536baf6a88651b5633] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9564cf665b3e5d048349f120374ff7e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9564cf665b3e5d048349f120374ff7e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Relief from non-domestic rates for general stores etc. in rural settlements: Scotland
 
@@ -513,7 +513,7 @@ Section 5.
 - (a) the lands and heritages are within a settlement identified in the rating authority’s rural settlement list for the financial year in which the period falls,
 - (b) the rateable value of the lands and heritages shown in the valuation roll at the beginning of that financial year is not more than any amount prescribed by the Secretary of State by order, and
 - (c) during the period concerned—
-  - (i) the whole or part of the lands and heritages is used as a qualifying general store, qualifying food store[^key-a87cdf2ac628b451b4a58c16b9e7eba5] or qualifying post office, or
+  - (i) the whole or part of the lands and heritages is used as a qualifying general store, qualifying food store[^c-a87cdf2ac628b451b4a58c16b9e7eba5] or qualifying post office, or
   - (ii) any conditions prescribed by the Secretary of State by order are satisfied;
 
   and sub-paragraphs (3) to (5) apply for the purposes of this sub-paragraph.
@@ -523,9 +523,9 @@ Section 5.
 - (a) a trade or business consisting wholly or mainly of the sale by retail of both food for human consumption (excluding confectionery) and general household goods is carried on there, and
 - (b) such a trade or business is not carried on in any other lands and heritages or part of any lands and heritages, in the settlement concerned.
 
-(3A)[^key-e6df872b74b39abedb00bcf0170780dc] The whole or part of lands and heritages is used as a qualifying food store for any period in a financial year if a trade or business consisting wholly or mainly of the sale by retail of food for human consumption (excluding confectionery and excluding the supply of food in the course of catering) is carried on there.
+(3A)[^c-e6df872b74b39abedb00bcf0170780dc] The whole or part of lands and heritages is used as a qualifying food store for any period in a financial year if a trade or business consisting wholly or mainly of the sale by retail of food for human consumption (excluding confectionery and excluding the supply of food in the course of catering) is carried on there.
 
-(3B)[^key-2b2798e08fd26c47cb1e5571aa73fdf9] In subsection (3A) above, the supply of food in the course of catering includes—
+(3B)[^c-2b2798e08fd26c47cb1e5571aa73fdf9] In subsection (3A) above, the supply of food in the course of catering includes—
 
 - (a) any supply of food for consumption on the premises on which it is supplied; and
 - (b) any supply of hot food for consumption off those premises;
@@ -537,14 +537,14 @@ and for the purposes of paragraph (b) above “ **hot food** ” means food whic
 
 (4) The whole or part of lands and heritages is used as a qualifying post office for any period in a financial year if—
 
-- (a) it is used for the purposes of a universal service provider (within the meaning of[^c950025] Part 3 of the Postal Services Act 2011[^key-b4bcb63e616e64c88efa88fc702d8ea6] ) and in connection with the provision of a universal postal service (within the meaning of that Part[^key-0ceb52fffe9fe885c3e9e53106b92383] ), and
+- (a) it is used for the purposes of a universal service provider (within the meaning of[^c950025] Part 3 of the Postal Services Act 2011[^c-b4bcb63e616e64c88efa88fc702d8ea6] ) and in connection with the provision of a universal postal service (within the meaning of that Part[^c-0ceb52fffe9fe885c3e9e53106b92383] ), and
 - (b) neither the whole nor part of other lands and heritages in the settlement concerned is so used.
 
 (5) Where the whole or part of lands and heritages is used as a qualifying general store or qualifying post office for any period in a financial year, it is not to be treated as ceasing to be so used merely because the condition in sub-paragraph (3)(b) or (4)(b) ceases to be satisfied.
 
-(6)[^key-032e0b29d8ac214f4dfc675dbba1e0d6] The amendments to this paragraph made by section 29 of the Local Government in Scotland Act 2003 (asp 1) (which extend mandatory relief to certain food stores) are to have effect only as respects financial years beginning on or after 1st April 2003.
+(6)[^c-032e0b29d8ac214f4dfc675dbba1e0d6] The amendments to this paragraph made by section 29 of the Local Government in Scotland Act 2003 (asp 1) (which extend mandatory relief to certain food stores) are to have effect only as respects financial years beginning on or after 1st April 2003.
 
-**3A.**[^key-d7059ee2a5fef89ea25d5cd3dc825983][^key-69e8c4f703d886c845a07fb4dc3c3e6a] (1) For any period (“**the relevant period**”) in a financial year beginning on or after 1st April 2003 where sub-paragraph (2) applies to lands and heritages, the non-domestic rate leviable in respect of the lands and heritages is to be one half of the non-domestic rate which would have been leviable apart from this paragraph.
+**3A.**[^c-d7059ee2a5fef89ea25d5cd3dc825983][^c-69e8c4f703d886c845a07fb4dc3c3e6a] (1) For any period (“**the relevant period**”) in a financial year beginning on or after 1st April 2003 where sub-paragraph (2) applies to lands and heritages, the non-domestic rate leviable in respect of the lands and heritages is to be one half of the non-domestic rate which would have been leviable apart from this paragraph.
 
 (2) This sub-paragraph applies where—
 
@@ -594,14 +594,14 @@ and for the purposes of paragraph (b) above “ **hot food** ” means food whic
 
 ### Discretionary relief
 
-**4.**[^c950026][^key-b0c7b3066873ee2dd5c5cee6179a1909] (1) Without prejudice to section 25A of the [^c950027]Local Government (Scotland) Act 1966, a rating authority may reduce or remit any non-domestic rate leviable in respect of lands and heritages for any period in a financial year in which any of the conditions mentioned in sub-paragraphs (2) to (2B) applies[^key-99e018e906617239ffa53afa98ff4069].
+**4.**[^c950026][^c-b0c7b3066873ee2dd5c5cee6179a1909] (1) Without prejudice to section 25A of the [^c950027]Local Government (Scotland) Act 1966, a rating authority may reduce or remit any non-domestic rate leviable in respect of lands and heritages for any period in a financial year in which any of the conditions mentioned in sub-paragraphs (2) to (2B) applies[^c-99e018e906617239ffa53afa98ff4069].
 
-(2) The first of those conditions[^key-5ef8325d7f416d9c9ee6bf9006cd3d0a] is—
+(2) The first of those conditions[^c-5ef8325d7f416d9c9ee6bf9006cd3d0a] is—
 
 - (a) that the lands and heritages are within a settlement identified in the rating authority’s rural settlement list for the financial year in which the period falls, and
 - (b) that the rateable value of the lands and heritages shown in the valuation roll at the beginning of that financial year is not more than any amount prescribed by the Secretary of State by order.
 
-(2A)[^key-2ce2d2c857fa436c254e92fcab8cb810] The second of those conditions is that paragraph 3A(2) applies in relation to the lands and heritages.
+(2A)[^c-2ce2d2c857fa436c254e92fcab8cb810] The second of those conditions is that paragraph 3A(2) applies in relation to the lands and heritages.
 
 (2B) The third of those conditions is that—
 
@@ -614,7 +614,7 @@ and for the purposes of paragraph (b) above “ **hot food** ” means food whic
 - (a) the lands and heritages are used for purposes which are of benefit to the local community, and
 - (b) it would be reasonable for the rating authority to make such a reduction or remission, having regard to the interests of persons liable to pay council tax set by them.
 
-(4)[^key-4b9f20fe7adec828bc950c6ef4d4c19c] The amendments to this paragraph made by section 28 of the Local Government in Scotland Act 2003 (asp 1) (which allow discretionary relief to be given to certain former agricultural premises and certain buildings used for breeding or rearing horses) are to have effect only as respects financial years beginning on or after 1st April 2003.
+(4)[^c-4b9f20fe7adec828bc950c6ef4d4c19c] The amendments to this paragraph made by section 28 of the Local Government in Scotland Act 2003 (asp 1) (which allow discretionary relief to be given to certain former agricultural premises and certain buildings used for breeding or rearing horses) are to have effect only as respects financial years beginning on or after 1st April 2003.
 
 ### Interpretation
 
@@ -810,7 +810,7 @@ Section 33(1).
 
 **22.**[^c950031] The Local Government Finance Act 1988 is amended as follows.
 
-**23.**[^key-9ef23ec20b7d4f4d98771c0553a4c43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9ef23ec20b7d4f4d98771c0553a4c43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** In section 59 (contributions in aid), for “Crown hereditament” there is substituted “ hereditament which is exempt from local non-domestic rating by virtue of paragraph 19A of Schedule 5 below (property occupied for purposes of visiting forces etc.) ”.
 
@@ -912,7 +912,7 @@ Section 33(2).
 
 [^c949938]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-8bbc4e50e901810f1f6228ba4cd2f509]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1997/29/section/5) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(1)](https://www.legislation.gov.uk/asp/2003/1/section/28/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-8bbc4e50e901810f1f6228ba4cd2f509]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1997/29/section/5) repealed (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(1)](https://www.legislation.gov.uk/asp/2003/1/section/28/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c949939]: Marginal citation: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -928,9 +928,9 @@ Section 33(2).
 
 [^c949945]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-45a69cfe16da46cf0d7b6143fe6a517a]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/8/2) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(2)](https://www.legislation.gov.uk/asp/2003/1/section/28/2), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-45a69cfe16da46cf0d7b6143fe6a517a]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/8/2) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(2)](https://www.legislation.gov.uk/asp/2003/1/section/28/2), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-fa5972ed0b00191821e34e61dff6974e]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1997/29/part/II) repealed (13.2.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/5/paragraph/10/2), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/4); [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2008/337/article/2/c/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2008/337/schedule))
+[^c-fa5972ed0b00191821e34e61dff6974e]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1997/29/part/II) repealed (13.2.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/5/paragraph/10/2), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/4); [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2008/337/article/2/c/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2008/337/schedule))
 
 [^c950016]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
@@ -954,47 +954,47 @@ Section 33(2).
 
     [S. 31(1)(4)](https://www.legislation.gov.uk/ukpga/1997/29/section/31/1/4) power partly exercised (18.9.1998): different dates appointed for specified provisions by [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329)
 
-[^key-06414309975bf965c2434c7b19064f34]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/2) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/16)
+[^c-06414309975bf965c2434c7b19064f34]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/2) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/16)
 
-[^key-acd9fa7cd5ef0644c344b8f28795d9f6]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/3) repealed (1.4.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [240(3)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/f), [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c)
+[^c-acd9fa7cd5ef0644c344b8f28795d9f6]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/3) repealed (1.4.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [240(3)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/f), [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c)
 
-[^key-234a8485636c983e2d298d791a40c63a]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/4) repealed (1.4.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [240(3)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/f), [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c)
+[^c-234a8485636c983e2d298d791a40c63a]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/4) repealed (1.4.2012 for E.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section), [240(3)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/3/f), [Sch. 25 Pt. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/10); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 5(c)](https://www.legislation.gov.uk/uksi/2012/628/article/5/c)
 
-[^key-2eb6a937e1881f536baf6a88651b5633]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/5) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/16)
+[^c-2eb6a937e1881f536baf6a88651b5633]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/5) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/16)
 
-[^key-9564cf665b3e5d048349f120374ff7e0]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/6) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/16)
+[^c-9564cf665b3e5d048349f120374ff7e0]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1997/29/schedule/1/paragraph/6) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/16)
 
-[^key-a87cdf2ac628b451b4a58c16b9e7eba5]: Textual amendment: Words in Sch. 2 para. 3(2)(c)(i) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(a)](https://www.legislation.gov.uk/asp/2003/1/section/29/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-a87cdf2ac628b451b4a58c16b9e7eba5]: Textual amendment: Words in Sch. 2 para. 3(2)(c)(i) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(a)](https://www.legislation.gov.uk/asp/2003/1/section/29/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-e6df872b74b39abedb00bcf0170780dc]: Textual amendment: Sch. 2 para. 3(3A) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(b)](https://www.legislation.gov.uk/asp/2003/1/section/29/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-e6df872b74b39abedb00bcf0170780dc]: Textual amendment: Sch. 2 para. 3(3A) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(b)](https://www.legislation.gov.uk/asp/2003/1/section/29/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-2b2798e08fd26c47cb1e5571aa73fdf9]: Textual amendment: Sch. 2 para. 3(3B) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(b)](https://www.legislation.gov.uk/asp/2003/1/section/29/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-2b2798e08fd26c47cb1e5571aa73fdf9]: Textual amendment: Sch. 2 para. 3(3B) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(b)](https://www.legislation.gov.uk/asp/2003/1/section/29/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c950025]: Textual amendment: Words in Sch. 2 para. 3(4)(a) substituted (26.3.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(4)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/4), [Sch. 8 Pt. II para. 25](https://www.legislation.gov.uk/ukpga/2000/26/schedule/8/part/II/paragraph/25); S.I6. 2001/1148, art. 2, Sch. (with art. 34)
 
-[^key-b4bcb63e616e64c88efa88fc702d8ea6]: Textual amendment: Words in [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/2/paragraph/3/4/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 148(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/148/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-b4bcb63e616e64c88efa88fc702d8ea6]: Textual amendment: Words in [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/2/paragraph/3/4/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 148(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/148/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-0ceb52fffe9fe885c3e9e53106b92383]: Textual amendment: Words in [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/2/paragraph/3/4/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 148(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/148/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-0ceb52fffe9fe885c3e9e53106b92383]: Textual amendment: Words in [Sch. 2 para. 3(4)(a)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/2/paragraph/3/4/a) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 148(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/148/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-032e0b29d8ac214f4dfc675dbba1e0d6]: Textual amendment: Sch. 2 para. 3(6) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(c)](https://www.legislation.gov.uk/asp/2003/1/section/29/c), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-032e0b29d8ac214f4dfc675dbba1e0d6]: Textual amendment: Sch. 2 para. 3(6) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 29(c)](https://www.legislation.gov.uk/asp/2003/1/section/29/c), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-d7059ee2a5fef89ea25d5cd3dc825983]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ukpga/1997/29/schedule/2/paragraph/3A) ceases to have effect by virtue of 1997 c. 29 Sch. 2 para. 3A(8)(9) (as inserted) (1.4.2008) by virtue of [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(3)](https://www.legislation.gov.uk/asp/2003/1/section/28/3), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-d7059ee2a5fef89ea25d5cd3dc825983]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/ukpga/1997/29/schedule/2/paragraph/3A) ceases to have effect by virtue of 1997 c. 29 Sch. 2 para. 3A(8)(9) (as inserted) (1.4.2008) by virtue of [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(3)](https://www.legislation.gov.uk/asp/2003/1/section/28/3), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-69e8c4f703d886c845a07fb4dc3c3e6a]: Textual amendment: Sch. 2 para. 3A inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(3)](https://www.legislation.gov.uk/asp/2003/1/section/28/3), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-69e8c4f703d886c845a07fb4dc3c3e6a]: Textual amendment: Sch. 2 para. 3A inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(3)](https://www.legislation.gov.uk/asp/2003/1/section/28/3), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c950026]: Modification: Sch. 2 para. 4 excluded (1.4.2000) by [S.S.I. 2000/92](https://www.legislation.gov.uk/ssi/2000/92), [art. 20](https://www.legislation.gov.uk/ssi/2000/92/article/20)
 
-[^key-b0c7b3066873ee2dd5c5cee6179a1909]: Modification: Sch. 2 para. 4 excluded (1.4.2019) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/39/regulation/5/b)
+[^c-b0c7b3066873ee2dd5c5cee6179a1909]: Modification: Sch. 2 para. 4 excluded (1.4.2019) by [The Non-Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2019/39/regulation/5/b)
 
 [^c950027]: Marginal citation: [1966 c. 51](https://www.legislation.gov.uk/ukpga/1966/51).
 
-[^key-99e018e906617239ffa53afa98ff4069]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(a)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-99e018e906617239ffa53afa98ff4069]: Textual amendment: Words in Sch. 2 para. 4(1) substituted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(a)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/a), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-5ef8325d7f416d9c9ee6bf9006cd3d0a]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(b)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-5ef8325d7f416d9c9ee6bf9006cd3d0a]: Textual amendment: Words in Sch. 2 para. 4(2) substituted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(b)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/b), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-2ce2d2c857fa436c254e92fcab8cb810]: Textual amendment: Sch. 2 para. 4(2A)(2B) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(c)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/c), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-2ce2d2c857fa436c254e92fcab8cb810]: Textual amendment: Sch. 2 para. 4(2A)(2B) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(c)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/c), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-4b9f20fe7adec828bc950c6ef4d4c19c]: Textual amendment: Sch. 2 para. 4(4) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(d)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/d), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
+[^c-4b9f20fe7adec828bc950c6ef4d4c19c]: Textual amendment: Sch. 2 para. 4(4) inserted (1.4.2003) by [Local Government in Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 28(4)(d)](https://www.legislation.gov.uk/asp/2003/1/section/28/4/d), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
 [^c950028]: Marginal citation: [1975 c. 30](https://www.legislation.gov.uk/ukpga/1975/30).
 
@@ -1004,7 +1004,7 @@ Section 33(2).
 
 [^c950031]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/22) wholly in force; [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/22) not in force at Royal Assent see [s. 34](https://www.legislation.gov.uk/ukpga/1997/29/section/34); [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/22) in force for certain purposes at 1.4.1997 by [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 2](https://www.legislation.gov.uk/uksi/1997/1097/article/2); [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/22) in force at 1.4.2000 insofar as not already in force by [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329), [art. 3(1)](https://www.legislation.gov.uk/uksi/1998/2329/article/3/1)
 
-[^key-9ef23ec20b7d4f4d98771c0553a4c43c]: Textual amendment: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/23) omitted (W.) (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d), [Sch. para. 6(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/6/2)
+[^c-9ef23ec20b7d4f4d98771c0553a4c43c]: Textual amendment: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/23) omitted (W.) (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d), [Sch. para. 6(2)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/6/2)
 
 [^c950032]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/29) wholly in force; [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/29) not in force at Royal Assent see [s. 34](https://www.legislation.gov.uk/ukpga/1997/29/section/34); [Sch. 3 para. 29(b)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/29/b) in force at 1.12.1997 by [S.I. 1997/2826](https://www.legislation.gov.uk/uksi/1997/2826), [art. 2(d)](https://www.legislation.gov.uk/uksi/1997/2826/article/2/d); [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/29/a) in force at 1.4.2000 by [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329), [art. 3(1)](https://www.legislation.gov.uk/uksi/1998/2329/article/3/1)
 

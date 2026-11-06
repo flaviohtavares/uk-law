@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Members’ winding-up: concurrent petitions against all members[^key-815a4fd984b64996d20f5b03eb62ceda]
+## 113. Members’ winding-up: concurrent petitions against all members[^c-815a4fd984b64996d20f5b03eb62ceda]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-815a4fd984b64996d20f5b03eb62ceda]: Commencement: S. 113 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-815a4fd984b64996d20f5b03eb62ceda]: Commencement: S. 113 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

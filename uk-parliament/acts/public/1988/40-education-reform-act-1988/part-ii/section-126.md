@@ -28,7 +28,7 @@ summary: ''
 
 (4) The property, rights and liabilities referred to in subsection (3) above are—
 
-- (a) all land or other property which, immediately before that date, was property of any local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c] used or held for the purposes of the transferred institution; and
+- (a) all land or other property which, immediately before that date, was property of any local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c] used or held for the purposes of the transferred institution; and
 - (b) all rights and liabilities of any such authority subsisting immediately before that date which were acquired or incurred for those purposes.
 
 (5) Subsection (3) above shall not apply to—
@@ -43,4 +43,4 @@ summary: ''
 
 [^c22561971]: Textual amendment: S. 125A inserted (1.10.1998) by [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1998/30/section/41/1); [S.I. 1998/2215](https://www.legislation.gov.uk/uksi/1998/2215), [art. 2](https://www.legislation.gov.uk/uksi/1998/2215/article/2)
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)

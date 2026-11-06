@@ -395,7 +395,7 @@ Section 25
 
 **27.** In section 357QB(5)(b) of that Act (tax credit: entitlement), for “Chapter 2” substitute “ land remediation ”.
 
-**28.**[^key-d9947da81fc87a87e29ea132f9a6083c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-d9947da81fc87a87e29ea132f9a6083c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** In consequence of paragraph 28, in the Corporation Tax (Northern Ireland) Act 2015, in Schedule 1, omit paragraph 10.
 
@@ -412,4 +412,4 @@ Section 25
 
 ## Annotations
 
-[^key-d9947da81fc87a87e29ea132f9a6083c]: Textual amendment: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/28) omitted (with effect in accordance with s. 29(6) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2018/3/section/29/5)
+[^c-d9947da81fc87a87e29ea132f9a6083c]: Textual amendment: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/28) omitted (with effect in accordance with s. 29(6) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 29(5)](https://www.legislation.gov.uk/ukpga/2018/3/section/29/5)

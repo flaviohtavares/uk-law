@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Compulsory purchase and entry for exploratory purposes[^key-7ffacdd058079483357a5b2979ce26ff]
+## SCHEDULE 4 — Compulsory purchase and entry for exploratory purposes[^c-7ffacdd058079483357a5b2979ce26ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ Section 118
 
 ### Interpretation
 
-**1.**[^key-884068f7f876419641f4d702af65a2c7][^key-3bb0aedef3726363822ae6e40b4f5e18] In this Schedule—
+**1.**[^c-884068f7f876419641f4d702af65a2c7][^c-3bb0aedef3726363822ae6e40b4f5e18] In this Schedule—
 
 - “**code operator**” means a provider of an electronic communications network in whose case the electronic communications code is applied by a direction under section 106; and
 - “**the operator’s network**”, in relation to a code operator, means so much of the electronic communications network provided by the operator as is not excluded from the application of the electronic communications code under section 106(5).
 
 ### General duties with respect to powers under Schedule
 
-**2.**[^key-762cc40785c3ea66efd53e39a6a0da5c][^key-25a1e741c0029a62c353c6ee26145332] In exercising his powers under this Schedule it shall be the duty of the Secretary of State to have regard, in particular, to each of the following—
+**2.**[^c-762cc40785c3ea66efd53e39a6a0da5c][^c-25a1e741c0029a62c353c6ee26145332] In exercising his powers under this Schedule it shall be the duty of the Secretary of State to have regard, in particular, to each of the following—
 
 - (a) the duties imposed on OFCOM by sections 3 and 4;
 - (b) the need to protect the environment and, in particular, to conserve the natural beauty and amenity of the countryside;
@@ -40,30 +40,30 @@ Section 118
 
 ### Compulsory purchase of land: England and Wales
 
-**3.**[^key-6db8e35824e8cfb35d2b350876fa80fd][^key-621b8ba541efe22b5ba1382dd95796d1] (1) Subject to sub-paragraph (2), the Secretary of State may authorise a code operator to purchase compulsorily any land in England and Wales which is required by the operator—
+**3.**[^c-6db8e35824e8cfb35d2b350876fa80fd][^c-621b8ba541efe22b5ba1382dd95796d1] (1) Subject to sub-paragraph (2), the Secretary of State may authorise a code operator to purchase compulsorily any land in England and Wales which is required by the operator—
 
 - (a) for, or in connection with, the establishment or running of the operator’s network; or
 - (b) as to which it can reasonably be foreseen that it will be so required.
 
-(2)[^key-3bfc291fd4f039093475ee43edb2fe77][^key-1ec5a6b20bb7d6ced3ab10e71acd1517] No order is to be made authorising a compulsory purchase under this paragraph by a code operator except with OFCOM’s consent.
+(2)[^c-3bfc291fd4f039093475ee43edb2fe77][^c-1ec5a6b20bb7d6ced3ab10e71acd1517] No order is to be made authorising a compulsory purchase under this paragraph by a code operator except with OFCOM’s consent.
 
-(3)[^key-3bfc291fd4f039093475ee43edb2fe77][^key-1ec5a6b20bb7d6ced3ab10e71acd1517] This power to purchase land compulsorily includes power to acquire an easement or other right over land by the creation of a new right.
+(3)[^c-3bfc291fd4f039093475ee43edb2fe77][^c-1ec5a6b20bb7d6ced3ab10e71acd1517] This power to purchase land compulsorily includes power to acquire an easement or other right over land by the creation of a new right.
 
-(4)[^key-3bfc291fd4f039093475ee43edb2fe77][^key-1ec5a6b20bb7d6ced3ab10e71acd1517] The Acquisition of Land Act 1981 (c. 67) is to apply to any compulsory purchase under this paragraph as if the code operator were a local authority within the meaning of that Act.
+(4)[^c-3bfc291fd4f039093475ee43edb2fe77][^c-1ec5a6b20bb7d6ced3ab10e71acd1517] The Acquisition of Land Act 1981 (c. 67) is to apply to any compulsory purchase under this paragraph as if the code operator were a local authority within the meaning of that Act.
 
-(5)[^key-3bfc291fd4f039093475ee43edb2fe77][^key-1ec5a6b20bb7d6ced3ab10e71acd1517] The provisions of the Town and Country Planning Act 1990 (c. 8) specified in sub-paragraph (6) have effect in relation to land acquired compulsorily by a code operator under this paragraph as they have effect in relation to land acquired compulsorily by statutory undertakers.
+(5)[^c-3bfc291fd4f039093475ee43edb2fe77][^c-1ec5a6b20bb7d6ced3ab10e71acd1517] The provisions of the Town and Country Planning Act 1990 (c. 8) specified in sub-paragraph (6) have effect in relation to land acquired compulsorily by a code operator under this paragraph as they have effect in relation to land acquired compulsorily by statutory undertakers.
 
-(6)[^key-3bfc291fd4f039093475ee43edb2fe77][^key-1ec5a6b20bb7d6ced3ab10e71acd1517] Those provisions are—
+(6)[^c-3bfc291fd4f039093475ee43edb2fe77][^c-1ec5a6b20bb7d6ced3ab10e71acd1517] Those provisions are—
 
 - (a) sections 238 to 240 (use and development of consecrated land and burial ground);
 - (b) section 241 (use and development of land for open spaces); and
 - (c) sections 271 to 274(extinguishment of rights of way, and rights as to apparatus, of statutory undertakers).
 
-(7)[^key-3bfc291fd4f039093475ee43edb2fe77][^key-1ec5a6b20bb7d6ced3ab10e71acd1517] Where a code operator has acquired land under this paragraph, he must not dispose of that land, or of an interest or right in or over it, except with OFCOM’s consent.
+(7)[^c-3bfc291fd4f039093475ee43edb2fe77][^c-1ec5a6b20bb7d6ced3ab10e71acd1517] Where a code operator has acquired land under this paragraph, he must not dispose of that land, or of an interest or right in or over it, except with OFCOM’s consent.
 
 ### Compulsory purchase of land: Scotland
 
-**4.**[^key-650621f16eadf6b242cf7b750e6a8a2a][^key-bbfbc80ab41080a6e837d21c1dcf35fc] (1) Subject to sub-paragraph (2), the Secretary of State may authorise a code operator to purchase compulsorily any land in Scotland which is required by the operator—
+**4.**[^c-650621f16eadf6b242cf7b750e6a8a2a][^c-bbfbc80ab41080a6e837d21c1dcf35fc] (1) Subject to sub-paragraph (2), the Secretary of State may authorise a code operator to purchase compulsorily any land in Scotland which is required by the operator—
 
 - (a) for, or in connection with, the establishment or running of the operator’s network; or
 - (b) as to which it can reasonably be foreseen that it will be so required.
@@ -89,7 +89,7 @@ Section 118
 
 ### Compulsory purchase of land: Northern Ireland
 
-**5.**[^key-1a39c6e95e46efa6566daf66667dcc3b][^key-581efab915c5e98c54bca8c3ca426be8] (1) Where a code operator proposes to acquire, otherwise than by agreement, any land in Northern Ireland required by him—
+**5.**[^c-1a39c6e95e46efa6566daf66667dcc3b][^c-581efab915c5e98c54bca8c3ca426be8] (1) Where a code operator proposes to acquire, otherwise than by agreement, any land in Northern Ireland required by him—
 
 - (a) for, or in connection with, the establishment or running of the operator’s network, or
 - (b) as to which it can reasonably be foreseen that it will be so required,
@@ -123,7 +123,7 @@ have effect for the purposes of the acquisition of land by means of a vesting or
 
 ### Entry on land for exploratory purposes: England and Wales
 
-**6.**[^key-90b8a8f2c82d29ce7f382b6219b7559f][^key-7e0ad8cd81e443f8b4f77fe231a07ac3] (1) A person—
+**6.**[^c-90b8a8f2c82d29ce7f382b6219b7559f][^c-7e0ad8cd81e443f8b4f77fe231a07ac3] (1) A person—
 
 - (a) nominated by a code operator, and
 - (b) duly authorised in writing by the Secretary of State,
@@ -153,7 +153,7 @@ may, at any reasonable time, enter upon and survey land in England and Wales for
 
 ### Entry on land for exploratory purposes: Scotland
 
-**7.**[^key-5f093fd1649163917bc977dbc09f5f38][^key-e52cd2be72c19634a70484ca69b2fb2b] (1) A person—
+**7.**[^c-5f093fd1649163917bc977dbc09f5f38][^c-e52cd2be72c19634a70484ca69b2fb2b] (1) A person—
 
 - (a) nominated by a code operator, and
 - (b) duly authorised in writing by the Secretary of State,
@@ -188,7 +188,7 @@ must be determined by arbitration by a single arbiter appointed by agreement bet
 
 ### Entry on land for exploratory purposes: Northern Ireland
 
-**8.**[^key-3dab673c514374860b689f44c5c2db84][^key-a0b603e7efab4b3f051aaad00a1f7285] (1) A person—
+**8.**[^c-3dab673c514374860b689f44c5c2db84][^c-a0b603e7efab4b3f051aaad00a1f7285] (1) A person—
 
 - (a) nominated by a code operator, and
 - (b) duly authorised in writing by the Secretary of State,
@@ -218,7 +218,7 @@ may, at any reasonable time, enter upon and survey any land in Northern Ireland 
 
 ### Acquisition of land by agreement
 
-**9.**[^key-cac06ab38797b2e5db399aa7c60c305a][^key-d67094b5da8d0dd6fabc63d35e075cd3] (1) For the purpose of the acquisition by agreement by a code operator of land in England and Wales, the provisions of Part 1 of the Compulsory Purchase Act 1965 (c. 56) (so far as applicable), other than sections 4 to 8 (time limits, notices to treat etc.) and section 31 (ecclesiastical property), apply as they apply for the purposes of that Act.
+**9.**[^c-cac06ab38797b2e5db399aa7c60c305a][^c-d67094b5da8d0dd6fabc63d35e075cd3] (1) For the purpose of the acquisition by agreement by a code operator of land in England and Wales, the provisions of Part 1 of the Compulsory Purchase Act 1965 (c. 56) (so far as applicable), other than sections 4 to 8 (time limits, notices to treat etc.) and section 31 (ecclesiastical property), apply as they apply for the purposes of that Act.
 
 (2) For the purpose of the acquisition by agreement by a code operator of land in Scotland, section 109(2) of the Town and Country Planning (Scotland) Act 1972 (c. 52) (incorporation of Lands Clauses Acts) applies, with any necessary modifications, for the purposes of this Act as it applies for the purposes of that Act.
 
@@ -226,44 +226,44 @@ may, at any reasonable time, enter upon and survey any land in Northern Ireland 
 
 ## Annotations
 
-[^key-7ffacdd058079483357a5b2979ce26ff]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4) applied (E.W.) (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 5(4)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/5/4) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+[^c-7ffacdd058079483357a5b2979ce26ff]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4) applied (E.W.) (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 5(4)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/5/4) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
 
-[^key-884068f7f876419641f4d702af65a2c7]: Commencement: Sch. 4 para. 1 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-884068f7f876419641f4d702af65a2c7]: Commencement: Sch. 4 para. 1 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-3bb0aedef3726363822ae6e40b4f5e18]: Commencement: Sch. 4 para. 1 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3bb0aedef3726363822ae6e40b4f5e18]: Commencement: Sch. 4 para. 1 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-762cc40785c3ea66efd53e39a6a0da5c]: Commencement: Sch. 4 para. 2 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-762cc40785c3ea66efd53e39a6a0da5c]: Commencement: Sch. 4 para. 2 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-25a1e741c0029a62c353c6ee26145332]: Commencement: Sch. 4 para. 2 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-25a1e741c0029a62c353c6ee26145332]: Commencement: Sch. 4 para. 2 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6db8e35824e8cfb35d2b350876fa80fd]: Commencement: Sch. 4 para. 3 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-6db8e35824e8cfb35d2b350876fa80fd]: Commencement: Sch. 4 para. 3 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-621b8ba541efe22b5ba1382dd95796d1]: Commencement: Sch. 4 para. 3 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-621b8ba541efe22b5ba1382dd95796d1]: Commencement: Sch. 4 para. 3 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3bfc291fd4f039093475ee43edb2fe77]: Modification: [Sch. 4 para. 3(2)-(7)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/3/2) applied (E.W.) (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 5(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/5/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+[^c-3bfc291fd4f039093475ee43edb2fe77]: Modification: [Sch. 4 para. 3(2)-(7)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/3/2) applied (E.W.) (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 5(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/5/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
 
-[^key-1ec5a6b20bb7d6ced3ab10e71acd1517]: Modification: [Sch. 4 para. 3(2)-(7)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/3/2) applied (with modifications) (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/5/3)[(4)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/5/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+[^c-1ec5a6b20bb7d6ced3ab10e71acd1517]: Modification: [Sch. 4 para. 3(2)-(7)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/4/paragraph/3/2) applied (with modifications) (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/5/3)[(4)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/5/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
 
-[^key-650621f16eadf6b242cf7b750e6a8a2a]: Commencement: Sch. 4 para. 4 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-650621f16eadf6b242cf7b750e6a8a2a]: Commencement: Sch. 4 para. 4 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-bbfbc80ab41080a6e837d21c1dcf35fc]: Commencement: Sch. 4 para. 4 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bbfbc80ab41080a6e837d21c1dcf35fc]: Commencement: Sch. 4 para. 4 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1a39c6e95e46efa6566daf66667dcc3b]: Commencement: Sch. 4 para. 5 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-1a39c6e95e46efa6566daf66667dcc3b]: Commencement: Sch. 4 para. 5 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-581efab915c5e98c54bca8c3ca426be8]: Commencement: Sch. 4 para. 5 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-581efab915c5e98c54bca8c3ca426be8]: Commencement: Sch. 4 para. 5 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-90b8a8f2c82d29ce7f382b6219b7559f]: Commencement: Sch. 4 para. 6 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-90b8a8f2c82d29ce7f382b6219b7559f]: Commencement: Sch. 4 para. 6 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-7e0ad8cd81e443f8b4f77fe231a07ac3]: Commencement: Sch. 4 para. 6 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7e0ad8cd81e443f8b4f77fe231a07ac3]: Commencement: Sch. 4 para. 6 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5f093fd1649163917bc977dbc09f5f38]: Commencement: Sch. 4 para. 7 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-5f093fd1649163917bc977dbc09f5f38]: Commencement: Sch. 4 para. 7 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-e52cd2be72c19634a70484ca69b2fb2b]: Commencement: Sch. 4 para. 7 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e52cd2be72c19634a70484ca69b2fb2b]: Commencement: Sch. 4 para. 7 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3dab673c514374860b689f44c5c2db84]: Commencement: Sch. 4 para. 8 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-3dab673c514374860b689f44c5c2db84]: Commencement: Sch. 4 para. 8 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-a0b603e7efab4b3f051aaad00a1f7285]: Commencement: Sch. 4 para. 8 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a0b603e7efab4b3f051aaad00a1f7285]: Commencement: Sch. 4 para. 8 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cac06ab38797b2e5db399aa7c60c305a]: Commencement: Sch. 4 para. 9 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-cac06ab38797b2e5db399aa7c60c305a]: Commencement: Sch. 4 para. 9 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-d67094b5da8d0dd6fabc63d35e075cd3]: Commencement: Sch. 4 para. 9 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d67094b5da8d0dd6fabc63d35e075cd3]: Commencement: Sch. 4 para. 9 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7ZA. New towns[^key-c0a57c5b922a8cf92ef6d920e6dc3cba]
+## 7ZA. New towns[^c-c0a57c5b922a8cf92ef6d920e6dc3cba]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0a57c5b922a8cf92ef6d920e6dc3cba]: Textual amendment: S. 7ZA inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/2/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-c0a57c5b922a8cf92ef6d920e6dc3cba]: Textual amendment: S. 7ZA inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/2/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)

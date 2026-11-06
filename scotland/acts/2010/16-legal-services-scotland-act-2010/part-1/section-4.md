@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Ministerial oversight[^key-abc8a6c1f337c0f36020abb41ced54cd]
+## 4. Ministerial oversight[^c-abc8a6c1f337c0f36020abb41ced54cd]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abc8a6c1f337c0f36020abb41ced54cd]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/16/section/4) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-abc8a6c1f337c0f36020abb41ced54cd]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/16/section/4) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

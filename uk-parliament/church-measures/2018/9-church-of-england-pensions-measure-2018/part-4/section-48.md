@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 48. Section 47: other financial instruments[^key-0a09cb63c04c49f2a567de94e9899849]
+## 48. Section 47: other financial instruments[^c-0a09cb63c04c49f2a567de94e9899849]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a09cb63c04c49f2a567de94e9899849]: Commencement: [S. 48](https://www.legislation.gov.uk/ukcm/2018/9/section/48) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-0a09cb63c04c49f2a567de94e9899849]: Commencement: [S. 48](https://www.legislation.gov.uk/ukcm/2018/9/section/48) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

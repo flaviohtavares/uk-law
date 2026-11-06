@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 414. Application of Part III of the Insolvency (Northern Ireland) Order 1989 to former authorised institutions[^key-e803a2008da9a57c1707b27ece0e31b0]
+## 414. Application of Part III of the Insolvency (Northern Ireland) Order 1989 to former authorised institutions[^c-e803a2008da9a57c1707b27ece0e31b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e803a2008da9a57c1707b27ece0e31b0]: Commencement: Art. 414 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e803a2008da9a57c1707b27ece0e31b0]: Commencement: Art. 414 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

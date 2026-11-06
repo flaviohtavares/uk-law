@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 18. Exception for test and trial seed[^key-c50edc14b7ccb21781759ba29dc7ab94]
+## 18. Exception for test and trial seed[^c-c50edc14b7ccb21781759ba29dc7ab94]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)
+[^c-c50edc14b7ccb21781759ba29dc7ab94]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3171) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(a)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/a)

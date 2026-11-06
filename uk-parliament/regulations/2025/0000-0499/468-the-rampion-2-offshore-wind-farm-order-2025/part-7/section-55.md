@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Service of notices[^key-6ed74d3b2d012d446ec918b5aab79500]
+## 55. Service of notices[^c-6ed74d3b2d012d446ec918b5aab79500]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) by post;
 - (b) by delivering it to the person on whom it is to be served or to whom it is to be given or supplied; or
-- (c) with the consent of the recipient and subject to sub-paragraphs (5) to (8)[^key-24222bdb26b71d3b042b29986a80e2a6], by electronic transmission.
+- (c) with the consent of the recipient and subject to sub-paragraphs (5) to (8)[^c-24222bdb26b71d3b042b29986a80e2a6], by electronic transmission.
 
 (2) Where the person on whom a notice or other document to be served for the purposes of this Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
 
@@ -60,8 +60,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6ed74d3b2d012d446ec918b5aab79500]: Commencement: Art. 55 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-6ed74d3b2d012d446ec918b5aab79500]: Commencement: Art. 55 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-24222bdb26b71d3b042b29986a80e2a6]: Textual amendment: Words in [art. 55(1)(c)](https://www.legislation.gov.uk/uksi/2025/468/article/55/1/c) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
+[^c-24222bdb26b71d3b042b29986a80e2a6]: Textual amendment: Words in [art. 55(1)(c)](https://www.legislation.gov.uk/uksi/2025/468/article/55/1/c) substituted (24.4.2026) by [The Rampion 2 Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/465)](https://www.legislation.gov.uk/uksi/2026/465), [art. 1](https://www.legislation.gov.uk/uksi/2026/465/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/465/schedule)
 
 [^f00047]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

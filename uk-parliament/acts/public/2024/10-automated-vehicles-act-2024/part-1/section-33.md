@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Use of information obtained[^key-183d5b6202f5d2d16988f63db2e86b15]
+## 33. Use of information obtained[^c-183d5b6202f5d2d16988f63db2e86b15]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-183d5b6202f5d2d16988f63db2e86b15]: Commencement: S. 33 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-183d5b6202f5d2d16988f63db2e86b15]: Commencement: S. 33 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

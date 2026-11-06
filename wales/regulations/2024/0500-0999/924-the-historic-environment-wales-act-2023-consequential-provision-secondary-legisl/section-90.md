@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**90.**[^key-c6b03962c14aebc9f5d8df8c775f1804] In regulation 3(1), after “(“**the recipient**”)” insert “, but this is subject to regulation 3A”.
+**90.**[^c-c6b03962c14aebc9f5d8df8c775f1804] In regulation 3(1), after “(“**the recipient**”)” insert “, but this is subject to regulation 3A”.
 
 ## Annotations
 
-[^key-c6b03962c14aebc9f5d8df8c775f1804]: Commencement: [Reg. 90](https://www.legislation.gov.uk/wsi/2024/924/regulation/90) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-c6b03962c14aebc9f5d8df8c775f1804]: Commencement: [Reg. 90](https://www.legislation.gov.uk/wsi/2024/924/regulation/90) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

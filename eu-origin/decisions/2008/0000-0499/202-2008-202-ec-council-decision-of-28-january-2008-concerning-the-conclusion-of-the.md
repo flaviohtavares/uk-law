@@ -31,10 +31,10 @@ summary: ''
 
 of 28 January 2008 concerning the conclusion of the Agreement between the European Community and the Government of Japan on cooperation and mutual administrative assistance in customs matters (revoked)
 
-[^key-3191a6f011cec0d93030fb220f0d5d25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3191a6f011cec0d93030fb220f0d5d25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3191a6f011cec0d93030fb220f0d5d25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3191a6f011cec0d93030fb220f0d5d25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3191a6f011cec0d93030fb220f0d5d25]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3191a6f011cec0d93030fb220f0d5d25]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

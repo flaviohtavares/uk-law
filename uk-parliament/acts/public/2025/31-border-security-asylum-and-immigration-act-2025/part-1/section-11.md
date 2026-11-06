@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of Schedule 7 to the Data Protection Act 2018[^key-ef546ce03c7de146584d8e5534ef2100][^key-77a814a107ccec59a9559b28a24d74b8]
+## 11. Amendment of Schedule 7 to the Data Protection Act 2018[^c-ef546ce03c7de146584d8e5534ef2100][^c-77a814a107ccec59a9559b28a24d74b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ In Schedule 7 to the Data Protection Act 2018 (competent authorities for the pur
 
 ## Annotations
 
-[^key-ef546ce03c7de146584d8e5534ef2100]: Commencement: S. 11 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-ef546ce03c7de146584d8e5534ef2100]: Commencement: S. 11 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-77a814a107ccec59a9559b28a24d74b8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/31/section/11) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-77a814a107ccec59a9559b28a24d74b8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2025/31/section/11) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

@@ -43,13 +43,13 @@ An Act to make provision for universal credit and personal independence payment;
 
 \[8th March 2012\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-71a8d16d80571b56849abd085334d33a][^key-adc0923c68a41fee87c73888c29dcd7c][^key-f75a5b74656f55e1e78644cffad57452]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-71a8d16d80571b56849abd085334d33a][^c-adc0923c68a41fee87c73888c29dcd7c][^c-f75a5b74656f55e1e78644cffad57452]
 
 ## Contents
 
-### Part 1 — Universal credit[^key-f0c316d9d1b0dfd0e226e5ef4e030922][^key-e049cef5e4ef9ca27e91bfb7db5b5540][^key-3366accc50809ae8d0a691a037774d4a][^key-f3ee6f15399cb298f279daacefd6ef5e][^key-af7bebc7ce519b58d6c926a26166637c][^key-de6190856386add02b21e425b81f900f][^key-d5ceb10456dca471b09b9536e76437fe]
+### Part 1 — Universal credit[^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-e049cef5e4ef9ca27e91bfb7db5b5540][^c-3366accc50809ae8d0a691a037774d4a][^c-f3ee6f15399cb298f279daacefd6ef5e][^c-af7bebc7ce519b58d6c926a26166637c][^c-de6190856386add02b21e425b81f900f][^c-d5ceb10456dca471b09b9536e76437fe]
 
-#### CHAPTER 1 — Entitlement and awards[^key-f0c316d9d1b0dfd0e226e5ef4e030922]
+#### CHAPTER 1 — Entitlement and awards[^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 
 *Extent: E+W+S*
 
@@ -77,7 +77,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 11 — Housing costs](part-1/section-11.md)
 - [Section 12 — Other particular needs or circumstances](part-1/section-12.md)
 
-#### CHAPTER 2 — Claimant responsibilities[^key-f0c316d9d1b0dfd0e226e5ef4e030922]
+#### CHAPTER 2 — Claimant responsibilities[^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 
 *Extent: E+W+S*
 
@@ -116,7 +116,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 29 — Delegation and contracting out](part-1/section-29.md)
 
-#### CHAPTER 3 — Supplementary and general[^key-f0c316d9d1b0dfd0e226e5ef4e030922]
+#### CHAPTER 3 — Supplementary and general[^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 
 ##### Supplementary and consequential
 
@@ -244,7 +244,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 76 — Calculation of working tax credit](part-3/section-76.md)
 
-### Part 4 — Personal independence payment[^key-bf08879b5172ea9d4fbc61fd71652bbd][^key-7df88531c16e1d50baed71d8cf17ae89][^key-3366accc50809ae8d0a691a037774d4a][^key-f3ee6f15399cb298f279daacefd6ef5e][^key-b0082b2fd84f4488b1db6a52a98531db][^key-de6190856386add02b21e425b81f900f][^key-d5ceb10456dca471b09b9536e76437fe]
+### Part 4 — Personal independence payment[^c-bf08879b5172ea9d4fbc61fd71652bbd][^c-7df88531c16e1d50baed71d8cf17ae89][^c-3366accc50809ae8d0a691a037774d4a][^c-f3ee6f15399cb298f279daacefd6ef5e][^c-b0082b2fd84f4488b1db6a52a98531db][^c-de6190856386add02b21e425b81f900f][^c-d5ceb10456dca471b09b9536e76437fe]
 
 #### Personal independence payment
 
@@ -459,28 +459,28 @@ SCHEDULES
 
 ## Annotations
 
-[^key-71a8d16d80571b56849abd085334d33a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/5) modified (24.7.2020) by [The Universal Credit (Northern Ireland Reciprocal Arrangements) Regulations 2020 (S.I. 2020/677)](https://www.legislation.gov.uk/uksi/2020/677), [regs. 1](https://www.legislation.gov.uk/uksi/2020/677/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/677/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/677/schedule)
+[^c-71a8d16d80571b56849abd085334d33a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/5) modified (24.7.2020) by [The Universal Credit (Northern Ireland Reciprocal Arrangements) Regulations 2020 (S.I. 2020/677)](https://www.legislation.gov.uk/uksi/2020/677), [regs. 1](https://www.legislation.gov.uk/uksi/2020/677/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/677/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/677/schedule)
 
-[^key-adc0923c68a41fee87c73888c29dcd7c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/5) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2)
+[^c-adc0923c68a41fee87c73888c29dcd7c]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/5) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2)
 
-[^key-f75a5b74656f55e1e78644cffad57452]: Modification: Act modified (S.) (coming into force in accordance with art. 1(3) of the amending S.S.I.) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [art. 2](https://www.legislation.gov.uk/ssi/2024/62/article/2)
+[^c-f75a5b74656f55e1e78644cffad57452]: Modification: Act modified (S.) (coming into force in accordance with art. 1(3) of the amending S.S.I.) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [art. 2](https://www.legislation.gov.uk/ssi/2024/62/article/2)
 
-[^key-f0c316d9d1b0dfd0e226e5ef4e030922]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/part/1) modified by [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/2/3) (as inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/10/b))
+[^c-f0c316d9d1b0dfd0e226e5ef4e030922]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/part/1) modified by [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/1995/18/schedule/1/paragraph/2/3) (as inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/10/b))
 
-[^key-e049cef5e4ef9ca27e91bfb7db5b5540]: Modification: Pt. 1 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e049cef5e4ef9ca27e91bfb7db5b5540]: Modification: Pt. 1 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3366accc50809ae8d0a691a037774d4a]: Modification: Pts. 1, 4 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order 2019 (S.I. 2019/1302)](https://www.legislation.gov.uk/uksi/2019/1302), [art. 2](https://www.legislation.gov.uk/uksi/2019/1302/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3366accc50809ae8d0a691a037774d4a]: Modification: Pts. 1, 4 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) (Citizens' Rights Agreement) Order 2019 (S.I. 2019/1302)](https://www.legislation.gov.uk/uksi/2019/1302), [art. 2](https://www.legislation.gov.uk/uksi/2019/1302/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3ee6f15399cb298f279daacefd6ef5e]: Modification: Pts. 1, 4 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) (Citizens' Rights Agreement) Order 2019 (S.I. 2019/1303)](https://www.legislation.gov.uk/uksi/2019/1303), [art. 2](https://www.legislation.gov.uk/uksi/2019/1303/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3ee6f15399cb298f279daacefd6ef5e]: Modification: Pts. 1, 4 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) (Citizens' Rights Agreement) Order 2019 (S.I. 2019/1303)](https://www.legislation.gov.uk/uksi/2019/1303), [art. 2](https://www.legislation.gov.uk/uksi/2019/1303/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af7bebc7ce519b58d6c926a26166637c]: Modification: Pt. 1 modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))
+[^c-af7bebc7ce519b58d6c926a26166637c]: Modification: Pt. 1 modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))
 
-[^key-de6190856386add02b21e425b81f900f]: Modification: [Pts. 1](https://www.legislation.gov.uk/ukpga/2012/5/part/1), [4](https://www.legislation.gov.uk/ukpga/2012/5/part/4) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) Order 2021 (S.I. 2021/1088)](https://www.legislation.gov.uk/uksi/2021/1088), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/1088/schedule)
+[^c-de6190856386add02b21e425b81f900f]: Modification: [Pts. 1](https://www.legislation.gov.uk/ukpga/2012/5/part/1), [4](https://www.legislation.gov.uk/ukpga/2012/5/part/4) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) Order 2021 (S.I. 2021/1088)](https://www.legislation.gov.uk/uksi/2021/1088), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/1088/schedule)
 
-[^key-d5ceb10456dca471b09b9536e76437fe]: Modification: [Pts. 1, 4](https://www.legislation.gov.uk/ukpga/2012/5/part/1) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
+[^c-d5ceb10456dca471b09b9536e76437fe]: Modification: [Pts. 1, 4](https://www.legislation.gov.uk/ukpga/2012/5/part/1) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
 
-[^key-bf08879b5172ea9d4fbc61fd71652bbd]: Modification: Pt. 4 modified (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [regs. 1](https://www.legislation.gov.uk/uksi/2016/287/regulation/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/2/g), [Sch.](https://www.legislation.gov.uk/uksi/2016/287/schedule)
+[^c-bf08879b5172ea9d4fbc61fd71652bbd]: Modification: Pt. 4 modified (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [regs. 1](https://www.legislation.gov.uk/uksi/2016/287/regulation/1), [2(2)(g)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/2/g), [Sch.](https://www.legislation.gov.uk/uksi/2016/287/schedule)
 
-[^key-7df88531c16e1d50baed71d8cf17ae89]: Modification: Pt. 4 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7df88531c16e1d50baed71d8cf17ae89]: Modification: Pt. 4 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b0082b2fd84f4488b1db6a52a98531db]: Modification: Pt. 4 modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))
+[^c-b0082b2fd84f4488b1db6a52a98531db]: Modification: Pt. 4 modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))

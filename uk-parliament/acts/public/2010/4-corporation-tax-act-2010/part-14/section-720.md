@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 720. Section 719: supplementary[^key-5b3ae313255e5ba836c18c0642966ce8]
+## 720. Section 719: supplementary[^c-5b3ae313255e5ba836c18c0642966ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ acquisitions by, and holdings of, two or more persons who are connected persons 
 
 ## Annotations
 
-[^key-5b3ae313255e5ba836c18c0642966ce8]: Modification: [Ss. 719-724A](https://www.legislation.gov.uk/ukpga/2010/4/section/719) modified (with effect in relation to accounting periods commencing on or after 31.12.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 212(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/212/5), [264](https://www.legislation.gov.uk/ukpga/2023/30/section/264)
+[^c-5b3ae313255e5ba836c18c0642966ce8]: Modification: [Ss. 719-724A](https://www.legislation.gov.uk/ukpga/2010/4/section/719) modified (with effect in relation to accounting periods commencing on or after 31.12.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 212(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/212/5), [264](https://www.legislation.gov.uk/ukpga/2023/30/section/264)

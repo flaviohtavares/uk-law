@@ -43,11 +43,11 @@ Whereas a draft of the following Regulations has been approved by resolution of 
 
 Now, therefore, the Secretary of State, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the conferment and protection of exclusive rights in the topographies of semiconductor products, in exercise of the powers conferred on him by the said section 2(2) hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-89ac7367295e0adf91c663fd67cb02a7]
+## 1. Citation and commencement[^c-89ac7367295e0adf91c663fd67cb02a7]
 
 These Regulations may be cited as the Design Right (Semiconductor Topographies) Regulations 1989 and shall come into force on 1st August 1989.
 
-## 2. Interpretation[^key-c5ab1e5b6927b74b3dce89075a4f61dd]
+## 2. Interpretation[^c-c5ab1e5b6927b74b3dce89075a4f61dd]
 
 (1) In these Regulations—
 
@@ -61,22 +61,22 @@ These Regulations may be cited as the Design Right (Semiconductor Topographies) 
 
 (2) Except where the context otherwise requires, these Regulations shall be construed as one with Part III of the Act (design right).
 
-## 3. Application of Copyright, Designs and Patents Act 1988, Part III[^key-b4eb03a167d5ce118614793ab6c22269]
+## 3. Application of Copyright, Designs and Patents Act 1988, Part III[^c-b4eb03a167d5ce118614793ab6c22269]
 
 In its application to a design which is a semiconductor topography, Part III of the Act shall have effect subject to regulations 4 to 9 below.
 
-## 4. Qualification[^key-1c9724bb0266fde0dd012f5c08acd41f]
+## 4. Qualification[^c-1c9724bb0266fde0dd012f5c08acd41f]
 
 (1) Section 213(5) of the Act has effect subject to paragraphs (2) to (4) below.
 
-(2)[^key-eacb406222ebde018f2cb61c6cd3aab5] Part III of the Act has effect as if for section 217(3) there was substituted the following—
+(2)[^c-eacb406222ebde018f2cb61c6cd3aab5] Part III of the Act has effect as if for section 217(3) there was substituted the following—
 
 > (3) In this section “qualifying country” means—
 >
 > - (a) the United Kingdom,
-> - (b) a[^key-dfaed261abf067cacb341746d1e67a21] member State,
+> - (b) a[^c-dfaed261abf067cacb341746d1e67a21] member State,
 > - (c) the Isle of Man, Gibraltar, the Channel Islands or any colony,
-> - (d)[^key-4a4e6cc28bab243a2b485e83910b3f9e] any other country that is a member of the World Trade Organisation.
+> - (d)[^c-4a4e6cc28bab243a2b485e83910b3f9e] any other country that is a member of the World Trade Organisation.
 
 (3) Where a semiconductor topography is created in pursuance of a commission or in the course of employment and the designer of the topography is, by virtue of section 215 of the Act (as substituted by regulation 5 below), the first owner of design right in that topography, section 219 of the Act does not apply and section 218(2) to (4) of the Act shall apply to the topography as if it had not been created in pursuance of a commission or in the course of employment.
 
@@ -84,14 +84,14 @@ In its application to a design which is a semiconductor topography, Part III of 
 
 > **220.** (1) A design which does not qualify for design right protection under section 218 or 219 (as modified by regulation 4(3) of the Design Right (Semiconductor Topographies) Regulations 1989) or under the said regulation 4(3) qualifies for design right protection if the first marketing of articles made to the design—
 >
-> - (a) is by a qualifying person who is exclusively authorised to put such articles on the market in the United Kingdom[^key-e8723739a7a93c25e58adb6e74b2913e], and
-> - (b) takes place within the territory of the United Kingdom[^key-721f6043463114b1e5a9fecd20d38bbf].
+> - (a) is by a qualifying person who is exclusively authorised to put such articles on the market in the United Kingdom[^c-e8723739a7a93c25e58adb6e74b2913e], and
+> - (b) takes place within the territory of the United Kingdom[^c-721f6043463114b1e5a9fecd20d38bbf].
 
 ;
 
-[^key-d99e4dbdb08fd81d52b808fe2f37e77b]...
+[^c-d99e4dbdb08fd81d52b808fe2f37e77b]...
 
-## 5. Ownership of design right[^key-fafdc38def18c23b4383b9fe13cc5abf]
+## 5. Ownership of design right[^c-fafdc38def18c23b4383b9fe13cc5abf]
 
 Part III of the Act has effect as if for section 215 of the Act there was substituted the following:
 
@@ -105,7 +105,7 @@ Part III of the Act has effect as if for section 215 of the Act there was substi
 
 .
 
-## 6. Duration of design right[^key-4e8ad594bbf82b6ecdf0a134d65a4563]
+## 6. Duration of design right[^c-4e8ad594bbf82b6ecdf0a134d65a4563]
 
 (1) Part III of the Act has effect as if for section 216 of the Act there was substituted the following:
 
@@ -120,14 +120,14 @@ Part III of the Act has effect as if for section 215 of the Act there was substi
 
 (3) The substitute provision set out in paragraph (1) above has effect subject to regulation 7 below.
 
-## 7. Confidential information[^key-e37909f234049d4f0a027c6a36c97e2a]
+## 7. Confidential information[^c-e37909f234049d4f0a027c6a36c97e2a]
 
 In determining, for the purposes of section 215(4), 216 or 220 of the Act (as modified by these Regulations), whether there has been any marketing, or anything has been made available for sale or hire, no account shall be taken of any sale or hire, or any offer or exposure for sale or hire, which is subject to an obligation of confidence in respect of information about the semiconductor topography in question unless either—
 
 - (a) the article or semiconductor topography sold or hired or offered or exposed for sale or hire has been sold or hired on a previous occasion (whether or not subject to an obligation of confidence), or
 - (b) the obligation is imposed at the behest of the Crown, or of the government of any country outside the United Kingdom, for the protection of security in connection with the production of arms, munitions or war material.
 
-## 8. Infringement[^key-f3e5abc53ccd5e7ee811afe655c12312]
+## 8. Infringement[^c-f3e5abc53ccd5e7ee811afe655c12312]
 
 (1) Section 226 of the Act has effect as if for subsection (1) there was substituted the following:
 
@@ -146,7 +146,7 @@ In determining, for the purposes of section 215(4), 216 or 220 of the Act (as mo
 (2) Section 227 of the Act does not apply if the article in question has previously been sold or hired within—
 
 - (a) the United Kingdom by or with the licence of the owner of design right in the semiconductor topography in question, or
-- (b) the territory of any [^key-233976a4e1a196e2568103114a8de222]... member State of the European Economic Community or the territory of Gibraltar by or with the consent of the person for the time being entitled to import it into or sell or hire it within that territory.
+- (b) the territory of any [^c-233976a4e1a196e2568103114a8de222]... member State of the European Economic Community or the territory of Gibraltar by or with the consent of the person for the time being entitled to import it into or sell or hire it within that territory.
 
 (3) Section 228(6) of the Act does not apply.
 
@@ -157,11 +157,11 @@ In determining, for the purposes of section 215(4), 216 or 220 of the Act (as mo
 
 (5) Anything which would be an infringement of the design right in a semiconductor topography if done in relation to the topography as a whole is an infringement of the design right in the topography if done in relation to a substantial part of the topography.
 
-## 9. Licences of right[^key-06f6047bbc4ebde5fa62e06e22cad364]
+## 9. Licences of right[^c-06f6047bbc4ebde5fa62e06e22cad364]
 
 Section 237 of the Act does not apply.
 
-## 10. Revocation and transitional provisions[^key-f72a8df8f20092ce9501f0719b53758d]
+## 10. Revocation and transitional provisions[^c-f72a8df8f20092ce9501f0719b53758d]
 
 (1) The Semiconductor Products (Protection of Topography) Regulations 1987[^f00004] are hereby revoked.
 
@@ -177,7 +177,7 @@ Department of Trade and Industry
 
 Department of Trade and Industry
 
-## SCHEDULE — ...[^key-8a25d1a9d7986a53a155e101bc495682]
+## SCHEDULE — ...[^c-8a25d1a9d7986a53a155e101bc495682]
 
 -
 -
@@ -332,42 +332,42 @@ Regulation 10 revokes the 1987 Regulations and modifies the transitional provisi
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-89ac7367295e0adf91c663fd67cb02a7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-89ac7367295e0adf91c663fd67cb02a7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-c5ab1e5b6927b74b3dce89075a4f61dd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1100/regulation/2) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-c5ab1e5b6927b74b3dce89075a4f61dd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1100/regulation/2) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
 [^f00003]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-b4eb03a167d5ce118614793ab6c22269]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/1100/regulation/3) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-b4eb03a167d5ce118614793ab6c22269]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1989/1100/regulation/3) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-1c9724bb0266fde0dd012f5c08acd41f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-1c9724bb0266fde0dd012f5c08acd41f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-eacb406222ebde018f2cb61c6cd3aab5]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/2) substituted (1.8.2006) by [The Design Right (Semiconductor Topographies) (Amendment) Regulations 2006 (S.I. 2006/1833)](https://www.legislation.gov.uk/uksi/2006/1833), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1833/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/1833/regulation/3)
+[^c-eacb406222ebde018f2cb61c6cd3aab5]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/2) substituted (1.8.2006) by [The Design Right (Semiconductor Topographies) (Amendment) Regulations 2006 (S.I. 2006/1833)](https://www.legislation.gov.uk/uksi/2006/1833), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1833/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/1833/regulation/3)
 
-[^key-dfaed261abf067cacb341746d1e67a21]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/2) substituted (31.12.2020) by [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dfaed261abf067cacb341746d1e67a21]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/2) substituted (31.12.2020) by [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a4e6cc28bab243a2b485e83910b3f9e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/2) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/2/2)
+[^c-4a4e6cc28bab243a2b485e83910b3f9e]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/2) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/2/2)
 
-[^key-e8723739a7a93c25e58adb6e74b2913e]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/4) substituted (31.12.2020) by [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8723739a7a93c25e58adb6e74b2913e]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/4) substituted (31.12.2020) by [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-721f6043463114b1e5a9fecd20d38bbf]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/4) substituted (31.12.2020) by [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-721f6043463114b1e5a9fecd20d38bbf]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/4) substituted (31.12.2020) by [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d99e4dbdb08fd81d52b808fe2f37e77b]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/4) omitted (31.12.2020) by virtue of [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d99e4dbdb08fd81d52b808fe2f37e77b]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/4/4) omitted (31.12.2020) by virtue of [The Design Right (Semiconductor Topographies) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1052)](https://www.legislation.gov.uk/uksi/2018/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1052/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2018/1052/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fafdc38def18c23b4383b9fe13cc5abf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1100/regulation/5) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-fafdc38def18c23b4383b9fe13cc5abf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1100/regulation/5) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-4e8ad594bbf82b6ecdf0a134d65a4563]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1100/regulation/6) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-4e8ad594bbf82b6ecdf0a134d65a4563]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1989/1100/regulation/6) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-e37909f234049d4f0a027c6a36c97e2a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1100/regulation/7) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-e37909f234049d4f0a027c6a36c97e2a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1100/regulation/7) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-f3e5abc53ccd5e7ee811afe655c12312]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/1100/regulation/8) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-f3e5abc53ccd5e7ee811afe655c12312]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1989/1100/regulation/8) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-233976a4e1a196e2568103114a8de222]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Intellectual Property (Exhaustion of Rights) (EU Exit) Regulations 2019 (S.I. 2019/265)](https://www.legislation.gov.uk/uksi/2019/265), [regs. 1](https://www.legislation.gov.uk/uksi/2019/265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/265/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-233976a4e1a196e2568103114a8de222]: Textual amendment: Word in [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/1989/1100/regulation/8/2/b) omitted (31.12.2020) by virtue of [The Intellectual Property (Exhaustion of Rights) (EU Exit) Regulations 2019 (S.I. 2019/265)](https://www.legislation.gov.uk/uksi/2019/265), [regs. 1](https://www.legislation.gov.uk/uksi/2019/265/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/265/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06f6047bbc4ebde5fa62e06e22cad364]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/1100/regulation/9) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-06f6047bbc4ebde5fa62e06e22cad364]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1989/1100/regulation/9) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
-[^key-f72a8df8f20092ce9501f0719b53758d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/1100/regulation/10) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
+[^c-f72a8df8f20092ce9501f0719b53758d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1989/1100/regulation/10) in force at 1.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1100/regulation/1)
 
 [^f00004]: Footnote: S.I. [1987/1497](https://www.legislation.gov.uk/uksi/1987/1497).
 
-[^key-8a25d1a9d7986a53a155e101bc495682]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1989/1100/schedule) omitted (1.1.2024) by virtue of [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/2/3)
+[^c-8a25d1a9d7986a53a155e101bc495682]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1989/1100/schedule) omitted (1.1.2024) by virtue of [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/2/3)

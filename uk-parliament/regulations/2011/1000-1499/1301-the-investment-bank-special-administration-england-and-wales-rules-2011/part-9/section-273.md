@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 273. Warrants under section 236[^key-f605f18960668ae76d2159b19c630b4f]
+## 273. Warrants under section 236[^c-f605f18960668ae76d2159b19c630b4f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-f605f18960668ae76d2159b19c630b4f]: Commencement: [Rule 273](https://www.legislation.gov.uk/uksi/2011/1301/rule/273) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f605f18960668ae76d2159b19c630b4f]: Commencement: [Rule 273](https://www.legislation.gov.uk/uksi/2011/1301/rule/273) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

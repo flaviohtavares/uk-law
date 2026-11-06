@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Care notices[^key-4cfb163bc66ae8b8a84660df414724ff]
+## 25. Care notices[^c-4cfb163bc66ae8b8a84660df414724ff]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ may be taken in respect of the default period before the compliance period expir
 
 ## Annotations
 
-[^key-4cfb163bc66ae8b8a84660df414724ff]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/11/section/25) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-4cfb163bc66ae8b8a84660df414724ff]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/11/section/25) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

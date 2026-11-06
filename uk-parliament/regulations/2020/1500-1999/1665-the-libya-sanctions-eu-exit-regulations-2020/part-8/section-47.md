@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Exception for acts done for purposes of national security or prevention of serious crime[^key-a360d33e0fd077d6da23e18673daca7a]
+## 47. Exception for acts done for purposes of national security or prevention of serious crime[^c-a360d33e0fd077d6da23e18673daca7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a360d33e0fd077d6da23e18673daca7a]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-a360d33e0fd077d6da23e18673daca7a]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

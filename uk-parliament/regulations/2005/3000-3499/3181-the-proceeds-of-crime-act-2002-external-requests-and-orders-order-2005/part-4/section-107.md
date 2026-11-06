@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Conditions for Crown Court to give effect to external orders[^key-de3b38bcec2bda3c491c5ae8e72d3448]
+## 107. Conditions for Crown Court to give effect to external orders[^c-de3b38bcec2bda3c491c5ae8e72d3448]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-de3b38bcec2bda3c491c5ae8e72d3448]: Commencement: [Art. 107](https://www.legislation.gov.uk/uksi/2005/3181/article/107) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-de3b38bcec2bda3c491c5ae8e72d3448]: Commencement: [Art. 107](https://www.legislation.gov.uk/uksi/2005/3181/article/107) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00072]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 

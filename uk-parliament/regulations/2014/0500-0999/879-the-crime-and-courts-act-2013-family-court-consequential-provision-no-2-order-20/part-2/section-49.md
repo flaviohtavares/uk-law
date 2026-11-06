@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**49.**[^key-f5afac364121ab1c9f98ea3fa53a4ce3] In paragraph 19(2)(a), for “both places” substitute “each place”.
+**49.**[^c-f5afac364121ab1c9f98ea3fa53a4ce3] In paragraph 19(2)(a), for “both places” substitute “each place”.
 
 ## Annotations
 
-[^key-f5afac364121ab1c9f98ea3fa53a4ce3]: Commencement: Art. 49 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-f5afac364121ab1c9f98ea3fa53a4ce3]: Commencement: Art. 49 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

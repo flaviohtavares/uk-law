@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70D. Calculation of an extended payment where the benefit cap applies[^key-1f93832afea841a84cbbdc88c9dd1ba9]
+## 70D. Calculation of an extended payment where the benefit cap applies[^c-1f93832afea841a84cbbdc88c9dd1ba9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant’s housing benefit in the benefit week with respect to which t
 
 ## Annotations
 
-[^key-1f93832afea841a84cbbdc88c9dd1ba9]: Textual amendment: [Reg. 70D](https://www.legislation.gov.uk/nisr/2006/405/regulation/70D) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/3)
+[^c-1f93832afea841a84cbbdc88c9dd1ba9]: Textual amendment: [Reg. 70D](https://www.legislation.gov.uk/nisr/2006/405/regulation/70D) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/3)

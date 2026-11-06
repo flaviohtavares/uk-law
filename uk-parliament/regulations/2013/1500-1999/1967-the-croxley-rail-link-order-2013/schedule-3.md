@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREET TO BE STOPPED UP[^key-cfd0d30f689266532a0ed329637e584f]
+## SCHEDULE 3 — STREET TO BE STOPPED UP[^c-cfd0d30f689266532a0ed329637e584f]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 8
 
 ## Annotations
 
-[^key-cfd0d30f689266532a0ed329637e584f]: Commencement: Sch. 3 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-cfd0d30f689266532a0ed329637e584f]: Commencement: Sch. 3 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

@@ -965,7 +965,7 @@ Regulation 12(2)
 
 **2.** Work which puts workers at risk from chemical or biological substances constituting a particular danger to the health or safety of workers or involving a legal requirement for health monitoring.
 
-**3.** Work with ionising radiation requiring the designation of controlled or supervised areas under regulation 17 of the Ionising Radiations Regulations (Northern Ireland) 2017[^key-e2d293911e4a513617480259005cc8bf] .
+**3.** Work with ionising radiation requiring the designation of controlled or supervised areas under regulation 17 of the Ionising Radiations Regulations (Northern Ireland) 2017[^c-e2d293911e4a513617480259005cc8bf] .
 
 **4.** Work near high voltage power lines.
 
@@ -1183,7 +1183,7 @@ Regulation 38
 
 [^c22843761]: Marginal citation: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-e2d293911e4a513617480259005cc8bf]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2016/146/schedule/4/paragraph/3) substituted (1.1.2018) by [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/11) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
+[^c-e2d293911e4a513617480259005cc8bf]: Textual amendment: Words in [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2016/146/schedule/4/paragraph/3) substituted (1.1.2018) by [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/11) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
 
 [^c22843781]: Marginal citation: [1965 c. 20](https://www.legislation.gov.uk/ukpga/1965/20), as amended by S.R. [1996 No. 510](https://www.legislation.gov.uk/ukcm/1996/510) and S.R. [2007 No. 291](https://www.legislation.gov.uk/ukcm/2007/291); there are other amendments not relevant to these Regulations
 

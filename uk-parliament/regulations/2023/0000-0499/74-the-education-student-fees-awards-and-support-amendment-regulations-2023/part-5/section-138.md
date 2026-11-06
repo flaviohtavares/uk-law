@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Interpretation of Part 5[^key-9fb9e0260edde03bcb1cbe0469f827e1]
+## 138. Interpretation of Part 5[^c-9fb9e0260edde03bcb1cbe0469f827e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Part “**earlier academic year**” means an academic year beginning be
 
 ## Annotations
 
-[^key-9fb9e0260edde03bcb1cbe0469f827e1]: Commencement: Reg. 138 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-9fb9e0260edde03bcb1cbe0469f827e1]: Commencement: Reg. 138 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

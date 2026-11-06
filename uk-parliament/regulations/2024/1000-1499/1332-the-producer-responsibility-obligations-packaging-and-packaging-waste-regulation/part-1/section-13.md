@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Charges for applications etc.[^key-880f084ef8f986424a6ddb61960ef29b]
+## 13. Charges for applications etc.[^c-880f084ef8f986424a6ddb61960ef29b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-880f084ef8f986424a6ddb61960ef29b]: Commencement: Reg. 13 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-880f084ef8f986424a6ddb61960ef29b]: Commencement: Reg. 13 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

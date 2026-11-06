@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Fees in Very High Cost Cases[^key-e3d1fccdfe64c3b4ee73cadf46e122e1]
+## SCHEDULE 6 — Fees in Very High Cost Cases[^c-e3d1fccdfe64c3b4ee73cadf46e122e1]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ Regulation 12A
 
 **3.** Part 3 of this Schedule applies to work done in a case which is the subject of a Very High Cost Case contract signed by the parties on or after 2nd December 2013.
 
-**4.**[^key-3c0b089380ee881f950651db845c4407] Part 4 of this Schedule applies to work done in a case which is the subject of a Very High Cost Case Contract—
+**4.**[^c-3c0b089380ee881f950651db845c4407] Part 4 of this Schedule applies to work done in a case which is the subject of a Very High Cost Case Contract—
 
 - (a) signed by the parties on or after 30th September 2022; or
 - (b) pursuant to any Task List agreed between the parties on or after 30th September 2022.
@@ -188,7 +188,7 @@ Travelling, waiting and mileage
 | Waiting (hourly rates) | 25.00 |
 | Mileage | 00.45 per mile |
 
-### PART 4[^key-5447ecf8f6c6930e9b20714a41a46b68]
+### PART 4[^c-5447ecf8f6c6930e9b20714a41a46b68]
 
 Table 1
 
@@ -256,8 +256,8 @@ Travelling, waiting and mileage
 
 ## Annotations
 
-[^key-e3d1fccdfe64c3b4ee73cadf46e122e1]: Textual amendment: Sch. 6 inserted (2.12.2013) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2013 (S.I. 2013/2803)](https://www.legislation.gov.uk/uksi/2013/2803), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2803/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2013/2803/regulation/3/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2803/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2803/regulation/4))
+[^c-e3d1fccdfe64c3b4ee73cadf46e122e1]: Textual amendment: Sch. 6 inserted (2.12.2013) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2013 (S.I. 2013/2803)](https://www.legislation.gov.uk/uksi/2013/2803), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2803/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2013/2803/regulation/3/8), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2803/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2803/regulation/4))
 
-[^key-3c0b089380ee881f950651db845c4407]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2013/435/schedule/6/paragraph/4) inserted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
+[^c-3c0b089380ee881f950651db845c4407]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2013/435/schedule/6/paragraph/4) inserted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
 
-[^key-5447ecf8f6c6930e9b20714a41a46b68]: Textual amendment: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2013/435/schedule/6/part/4) inserted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))
+[^c-5447ecf8f6c6930e9b20714a41a46b68]: Textual amendment: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2013/435/schedule/6/part/4) inserted (30.9.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2022 (S.I. 2022/848)](https://www.legislation.gov.uk/uksi/2022/848), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/848/regulation/1/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2022/848/schedule/6/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/848/regulation/3)) (as amended (31.10.2022) by [The Criminal Legal Aid (Remuneration) (Amendment) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/1035)](https://www.legislation.gov.uk/uksi/2022/1035), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2022/1035/regulation/2/1))

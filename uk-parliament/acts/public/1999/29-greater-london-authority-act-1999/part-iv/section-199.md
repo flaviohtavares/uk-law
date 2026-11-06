@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Secretary of State may, after consultation with the Office of Rail and Road[^key-c10ae48afc87659a254234031ff9cbce] [^key-1cb66f781c3375f49f9e9245411b6fdf]..., by order grant at any time—
+(1) The Secretary of State may, after consultation with the Office of Rail and Road[^c-c10ae48afc87659a254234031ff9cbce] [^c-1cb66f781c3375f49f9e9245411b6fdf]..., by order grant at any time—
 
 - (a) a licence exemption under subsection (1) of section 7 of the [^c12803461]Railways Act 1993, [^c12803471]. . ., or
 - (b) a facility exemption under section 20 of that Act, [^c12803481]. . .,
@@ -44,9 +44,9 @@ and, subject to that, expressions used in this section and in Part I of the [^c1
 
 [^c12803441]: Commencement: S. 199 partly in force: s. 199 in force at Royal Assent (11.11.1999) for certain purposes, see [s.425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2)
 
-[^key-c10ae48afc87659a254234031ff9cbce]: Textual amendment: Words in s. 199(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/i)
+[^c-c10ae48afc87659a254234031ff9cbce]: Textual amendment: Words in s. 199(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/i)
 
-[^key-1cb66f781c3375f49f9e9245411b6fdf]: Textual amendment: Words in s. 199(1) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-1cb66f781c3375f49f9e9245411b6fdf]: Textual amendment: Words in s. 199(1) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c12803461]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 

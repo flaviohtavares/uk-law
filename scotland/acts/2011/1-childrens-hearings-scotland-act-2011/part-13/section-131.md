@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Duty of implementation authority to require review[^key-f5b5d4ba711cde493313e88925ed3457]
+## 131. Duty of implementation authority to require review[^c-f5b5d4ba711cde493313e88925ed3457]
 
 *Extent: S*
 
 (1) The implementation authority must, by notice to the Principal Reporter, require a review of a compulsory supervision order in relation to a child where the authority is satisfied that one or more of the circumstances set out in subsection (2) exist.
 
-(2)[^key-b890957991babd9b60aae2adfcd0f128] Those circumstances are—
+(2)[^c-b890957991babd9b60aae2adfcd0f128] Those circumstances are—
 
 - (a) the compulsory supervision order ought to be terminated or varied,
 - (b) the compulsory supervision order is not being complied with,
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5b5d4ba711cde493313e88925ed3457]: Commencement: S. 131 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f5b5d4ba711cde493313e88925ed3457]: Commencement: S. 131 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-b890957991babd9b60aae2adfcd0f128]: Modification: S. 131(2) applied (with modifications) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Transfer of Children to Scotland - Effect of Orders made in England and Wales or Northern Ireland) Regulations 2013 (S.S.I. 2013/99)](https://www.legislation.gov.uk/ssi/2013/99), [regs. 1](https://www.legislation.gov.uk/ssi/2013/99/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2013/99/regulation/7/3)
+[^c-b890957991babd9b60aae2adfcd0f128]: Modification: S. 131(2) applied (with modifications) (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Transfer of Children to Scotland - Effect of Orders made in England and Wales or Northern Ireland) Regulations 2013 (S.S.I. 2013/99)](https://www.legislation.gov.uk/ssi/2013/99), [regs. 1](https://www.legislation.gov.uk/ssi/2013/99/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2013/99/regulation/7/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Civil Partnership Act 2004[^key-8dd731327e3674fba8e01d82a8207d49]
+## 68. Civil Partnership Act 2004[^c-8dd731327e3674fba8e01d82a8207d49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Civil Partnership Act 2004 [^c23624521], in Part 2 of Schedule 11 (circum
 
 ## Annotations
 
-[^key-8dd731327e3674fba8e01d82a8207d49]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8dd731327e3674fba8e01d82a8207d49]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624521]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).

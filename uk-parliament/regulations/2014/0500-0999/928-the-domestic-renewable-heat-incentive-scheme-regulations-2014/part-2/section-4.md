@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Requirements for biomass plants[^key-96a26f6ccab8d97dffc49833f96817f0]
+## 4. Requirements for biomass plants[^c-96a26f6ccab8d97dffc49833f96817f0]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
   paragraph (2) is satisfied in respect of any part of the plant which uses that other source of energy (“the non-biomass part”);
 - (b) it provides heating—
-  - (i) solely to a single eligible property , or to both a single eligible property and any related property[^key-a65fb13c075e6c45ee865411e4ed5bb8];
+  - (i) solely to a single eligible property , or to both a single eligible property and any related property[^c-a65fb13c075e6c45ee865411e4ed5bb8];
   - (ii) for an eligible purpose; and
   - (iii) if the plant is a biomass stove, it provides heating for that eligible purpose using a liquid-filled heat exchanger enclosed within it;
 - (c) it is a condensing plant or meets the requirements set out in—
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96a26f6ccab8d97dffc49833f96817f0]: Commencement: Reg. 4 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-96a26f6ccab8d97dffc49833f96817f0]: Commencement: Reg. 4 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-a65fb13c075e6c45ee865411e4ed5bb8]: Textual amendment: Words in [reg. 4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2014/928/regulation/4/1/b/i) inserted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/143/regulation/5)
+[^c-a65fb13c075e6c45ee865411e4ed5bb8]: Textual amendment: Words in [reg. 4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2014/928/regulation/4/1/b/i) inserted (5.2.2015) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2015 (S.I. 2015/143)](https://www.legislation.gov.uk/uksi/2015/143), [regs. 1](https://www.legislation.gov.uk/uksi/2015/143/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/143/regulation/5)

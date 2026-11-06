@@ -32,7 +32,7 @@ summary: ''
 
 Companies
 
-The Companies (Address of Registered Office) Regulations 2016 (revoked)[^key-aca4bb1f53521bab4fd492e3c126586e]
+The Companies (Address of Registered Office) Regulations 2016 (revoked)[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 Made
 
@@ -42,92 +42,92 @@ Coming into force
 
 6th April 2016
 
-[^key-aca4bb1f53521bab4fd492e3c126586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca4bb1f53521bab4fd492e3c126586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-aca4bb1f53521bab4fd492e3c126586e]
+## 1. Citation, commencement and interpretation[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application to change a company registered office[^key-aca4bb1f53521bab4fd492e3c126586e]
+## 2. Application to change a company registered office[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Determination of an application[^key-aca4bb1f53521bab4fd492e3c126586e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Notice of the registrar’s decision[^key-aca4bb1f53521bab4fd492e3c126586e]
+## 7. Determination of an application[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Effect of change of address[^key-aca4bb1f53521bab4fd492e3c126586e]
+**8.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Notice of the registrar’s decision[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Administration of the default address[^key-aca4bb1f53521bab4fd492e3c126586e]
+## 11. Effect of change of address[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 16. Appeal to the court[^key-aca4bb1f53521bab4fd492e3c126586e]
+## 12. Administration of the default address[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Change of address of registered office under section 87 of the Act[^key-aca4bb1f53521bab4fd492e3c126586e]
+**14.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Application to Limited Liability Partnerships[^key-aca4bb1f53521bab4fd492e3c126586e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**20.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**21.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 22. Review[^key-aca4bb1f53521bab4fd492e3c126586e]
+## 16. Appeal to the court[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aca4bb1f53521bab4fd492e3c126586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 18. Change of address of registered office under section 87 of the Act[^c-aca4bb1f53521bab4fd492e3c126586e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 19. Application to Limited Liability Partnerships[^c-aca4bb1f53521bab4fd492e3c126586e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 22. Review[^c-aca4bb1f53521bab4fd492e3c126586e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-aca4bb1f53521bab4fd492e3c126586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — EVIDENCE, OR DESCRIPTIONS OF EVIDENCE, THE REGISTRAR MAY RELY ON WITHOUT FURTHER ENQUIRY[^key-aca4bb1f53521bab4fd492e3c126586e]
+## SCHEDULE — EVIDENCE, OR DESCRIPTIONS OF EVIDENCE, THE REGISTRAR MAY RELY ON WITHOUT FURTHER ENQUIRY[^c-aca4bb1f53521bab4fd492e3c126586e]
 
 Regulations 9(b) and 18(a)
 
-**1.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aca4bb1f53521bab4fd492e3c126586e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aca4bb1f53521bab4fd492e3c126586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca4bb1f53521bab4fd492e3c126586e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aca4bb1f53521bab4fd492e3c126586e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/423) revoked (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/233/regulation/24) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/233/regulation/25)); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-aca4bb1f53521bab4fd492e3c126586e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/423) revoked (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/233/regulation/24) (with [reg. 25](https://www.legislation.gov.uk/uksi/2024/233/regulation/25)); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

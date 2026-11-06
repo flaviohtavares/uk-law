@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Rent repayment orders: liability of landlords and superior landlords[^key-defd52e92e74e64d53a2f0dda84cdfbc][^key-e45a457ed32549173650915744dbd49f]
+## 103. Rent repayment orders: liability of landlords and superior landlords[^c-defd52e92e74e64d53a2f0dda84cdfbc][^c-e45a457ed32549173650915744dbd49f]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-defd52e92e74e64d53a2f0dda84cdfbc]: Commencement: S. 103 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-defd52e92e74e64d53a2f0dda84cdfbc]: Commencement: S. 103 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e45a457ed32549173650915744dbd49f]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/26/section/103) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/j) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))
+[^c-e45a457ed32549173650915744dbd49f]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/26/section/103) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/j) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))

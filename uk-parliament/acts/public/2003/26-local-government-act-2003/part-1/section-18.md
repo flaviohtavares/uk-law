@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Local authority companies etc[^key-a3945ad77b39bb0f172e34be8dad6351][^key-c697c21500feff2a5642a8f4ce484aa3]
+## 18. Local authority companies etc[^c-a3945ad77b39bb0f172e34be8dad6351][^c-c697c21500feff2a5642a8f4ce484aa3]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3945ad77b39bb0f172e34be8dad6351]: Commencement: S. 18 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-a3945ad77b39bb0f172e34be8dad6351]: Commencement: S. 18 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-c697c21500feff2a5642a8f4ce484aa3]: Commencement: S. 18 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
+[^c-c697c21500feff2a5642a8f4ce484aa3]: Commencement: S. 18 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))

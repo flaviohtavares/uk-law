@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. General restriction on referendum expenses[^key-9f49f35fb600f9c69a1d0d13eb8d8307]
+## 6. General restriction on referendum expenses[^c-9f49f35fb600f9c69a1d0d13eb8d8307]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9f49f35fb600f9c69a1d0d13eb8d8307]: Commencement: Reg. 6 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-9f49f35fb600f9c69a1d0d13eb8d8307]: Commencement: Reg. 6 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00017]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); the existing section 13 was substituted for the original section 13 by paragraph 6 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2).
 

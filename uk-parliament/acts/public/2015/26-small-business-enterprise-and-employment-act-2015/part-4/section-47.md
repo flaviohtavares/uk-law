@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Inconsistency with Pubs Code etc[^key-5fbec14d61130227bea04a885cdb1364][^key-d0ccf1c01e006c3ea1bcb8d6a2d5a812]
+## 47. Inconsistency with Pubs Code etc[^c-5fbec14d61130227bea04a885cdb1364][^c-d0ccf1c01e006c3ea1bcb8d6a2d5a812]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fbec14d61130227bea04a885cdb1364]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/26/section/47) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/b)
+[^c-5fbec14d61130227bea04a885cdb1364]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/26/section/47) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/b)
 
-[^key-d0ccf1c01e006c3ea1bcb8d6a2d5a812]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/26/section/47) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-d0ccf1c01e006c3ea1bcb8d6a2d5a812]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/26/section/47) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

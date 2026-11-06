@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Use or disclosure of PSC information by companies[^key-efd2b538b25fd2fd4e8a7f97a8f19bf5][^key-c2ea146e378f81a3419be70b5e60a189]
+## 96. Use or disclosure of PSC information by companies[^c-efd2b538b25fd2fd4e8a7f97a8f19bf5][^c-c2ea146e378f81a3419be70b5e60a189]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efd2b538b25fd2fd4e8a7f97a8f19bf5]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-efd2b538b25fd2fd4e8a7f97a8f19bf5]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c2ea146e378f81a3419be70b5e60a189]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/56/section/96) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z38)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z38)
+[^c-c2ea146e378f81a3419be70b5e60a189]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/56/section/96) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z38)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z38)

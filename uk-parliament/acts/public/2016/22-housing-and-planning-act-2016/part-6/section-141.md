@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Making neighbourhood development orders and plans: intervention powers[^key-372bed7995385b7a8168dd167f2617c4]
+## 141. Making neighbourhood development orders and plans: intervention powers[^c-372bed7995385b7a8168dd167f2617c4]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-372bed7995385b7a8168dd167f2617c4]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2016/22/section/141) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/b)
+[^c-372bed7995385b7a8168dd167f2617c4]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2016/22/section/141) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/b)

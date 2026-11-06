@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Withdrawal of local development plan in accordance with direction[^key-920287321ecdb4f0a7699ebd55b7df7f]
+## 66. Withdrawal of local development plan in accordance with direction[^c-920287321ecdb4f0a7699ebd55b7df7f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-920287321ecdb4f0a7699ebd55b7df7f]: Textual amendment: Ss. 66, 66A substituted for s. 66 (6.9.2015 for specified purposes, 4.1.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 13](https://www.legislation.gov.uk/anaw/2015/4/section/13), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/c)
+[^c-920287321ecdb4f0a7699ebd55b7df7f]: Textual amendment: Ss. 66, 66A substituted for s. 66 (6.9.2015 for specified purposes, 4.1.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 13](https://www.legislation.gov.uk/anaw/2015/4/section/13), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/c)

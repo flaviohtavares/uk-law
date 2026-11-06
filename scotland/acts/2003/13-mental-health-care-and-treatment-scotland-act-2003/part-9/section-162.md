@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Commission’s power to make reference to Tribunal[^key-94acb6cbb2818a884c9e1c2f374adc76]
+## 162. Commission’s power to make reference to Tribunal[^c-94acb6cbb2818a884c9e1c2f374adc76]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94acb6cbb2818a884c9e1c2f374adc76]: Commencement: S. 162 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-94acb6cbb2818a884c9e1c2f374adc76]: Commencement: S. 162 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 75. Power to impose and enforce covenants[^key-63a8d149aec29a9d41b99b9ea375a1a6]
+## 75. Power to impose and enforce covenants[^c-63a8d149aec29a9d41b99b9ea375a1a6]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63a8d149aec29a9d41b99b9ea375a1a6]: Commencement: S. 75 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-63a8d149aec29a9d41b99b9ea375a1a6]: Commencement: S. 75 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

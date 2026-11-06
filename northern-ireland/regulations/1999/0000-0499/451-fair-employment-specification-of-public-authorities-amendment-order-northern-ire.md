@@ -31,7 +31,7 @@ summary: ''
 
 FAIR EMPLOYMENT
 
-Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 1999 (revoked)[^key-119ee8300f954bfbcc0d598ceecd5dd6]
+Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 1999 (revoked)[^c-119ee8300f954bfbcc0d598ceecd5dd6]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 1st January 2000
 
-[^key-119ee8300f954bfbcc0d598ceecd5dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-119ee8300f954bfbcc0d598ceecd5dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-119ee8300f954bfbcc0d598ceecd5dd6]
+## 1. Citation and commencement[^c-119ee8300f954bfbcc0d598ceecd5dd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 1989[^key-119ee8300f954bfbcc0d598ceecd5dd6]
+## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 1989[^c-119ee8300f954bfbcc0d598ceecd5dd6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-119ee8300f954bfbcc0d598ceecd5dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-119ee8300f954bfbcc0d598ceecd5dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-119ee8300f954bfbcc0d598ceecd5dd6]
+## SCHEDULE[^c-119ee8300f954bfbcc0d598ceecd5dd6]
 
 Article 2
 
-> **SCHEDULE[^key-119ee8300f954bfbcc0d598ceecd5dd6]**
+> **SCHEDULE[^c-119ee8300f954bfbcc0d598ceecd5dd6]**
 >
-> **Part I — Public Authorities for the purposes of Articles 52 to 65 of the 1998 Order[^key-119ee8300f954bfbcc0d598ceecd5dd6]**
+> **Part I — Public Authorities for the purposes of Articles 52 to 65 of the 1998 Order[^c-119ee8300f954bfbcc0d598ceecd5dd6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Public Authorities for the purposes of Articles 62 to 65 of the 1998 Order[^key-119ee8300f954bfbcc0d598ceecd5dd6]**
+> **Part II — Public Authorities for the purposes of Articles 62 to 65 of the 1998 Order[^c-119ee8300f954bfbcc0d598ceecd5dd6]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-119ee8300f954bfbcc0d598ceecd5dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-119ee8300f954bfbcc0d598ceecd5dd6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-119ee8300f954bfbcc0d598ceecd5dd6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/451) revoked (1.7.2000) by [Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2000 (S.R. 2000/199)](https://www.legislation.gov.uk/nisr/2000/199), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/199/article/1/1), [5](https://www.legislation.gov.uk/nisr/2000/199/article/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2000/199/schedule/2)
+[^c-119ee8300f954bfbcc0d598ceecd5dd6]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/451) revoked (1.7.2000) by [Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2000 (S.R. 2000/199)](https://www.legislation.gov.uk/nisr/2000/199), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/199/article/1/1), [5](https://www.legislation.gov.uk/nisr/2000/199/article/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2000/199/schedule/2)

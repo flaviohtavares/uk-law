@@ -28,7 +28,7 @@ summary: ''
 (2) Any other money belonging to a prisoner which—
 
 - (a) represents earnings paid by virtue of rule 86; or
-- (b) has been received in the prison and which does not exceed any restrictions as to the amount of money which a prisoner may receive as may be prescribed in a direction made under rule 55(7)[^key-91dff86670ca40242b710862573815bd],
+- (b) has been received in the prison and which does not exceed any restrictions as to the amount of money which a prisoner may receive as may be prescribed in a direction made under rule 55(7)[^c-91dff86670ca40242b710862573815bd],
 
 must be paid into an account under the control of the Governor.
 
@@ -52,4 +52,4 @@ must be paid into an account under the control of the Governor.
 
 ## Annotations
 
-[^key-91dff86670ca40242b710862573815bd]: Textual amendment: Word in rule 51(2)(b) substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/7)
+[^c-91dff86670ca40242b710862573815bd]: Textual amendment: Word in rule 51(2)(b) substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(7)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/7)

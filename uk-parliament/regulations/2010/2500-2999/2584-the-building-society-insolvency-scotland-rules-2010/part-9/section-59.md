@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Membership of committee[^key-f3bfd05bc23825ac5b596ceff2dff7c7]
+## 59. Membership of committee[^c-f3bfd05bc23825ac5b596ceff2dff7c7]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3bfd05bc23825ac5b596ceff2dff7c7]: Commencement: Rule 59 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-f3bfd05bc23825ac5b596ceff2dff7c7]: Commencement: Rule 59 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00029]: Footnote: Rule 4.41 was amended by paragraph 23 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.6. Interpretation for a deaf juror[^key-b0473c48b2189f30d5b6d4145dea3968]
+## 26.6. Interpretation for a deaf juror[^c-b0473c48b2189f30d5b6d4145dea3968]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0473c48b2189f30d5b6d4145dea3968]: Commencement: [Rule 26.6](https://www.legislation.gov.uk/uksi/2025/909/rule/26.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b0473c48b2189f30d5b6d4145dea3968]: Commencement: [Rule 26.6](https://www.legislation.gov.uk/uksi/2025/909/rule/26.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00628]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 9C was inserted by section 196 of the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).

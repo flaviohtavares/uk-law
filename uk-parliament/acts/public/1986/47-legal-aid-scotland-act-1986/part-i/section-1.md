@@ -27,7 +27,7 @@ summary: ''
 - (a) of securing that legal aid and advice and assistance are available in accordance with this Act; and
 - (b) of administering the Fund.
 
-(2A)[^key-65d6bce02957930ce3741ef2b1d7e113] The Board also has the general function of monitoring the availability and accessibility of legal services in Scotland (including by reference to any relevant factor relating particularly to rural or urban areas).
+(2A)[^c-65d6bce02957930ce3741ef2b1d7e113] The Board also has the general function of monitoring the availability and accessibility of legal services in Scotland (including by reference to any relevant factor relating particularly to rural or urban areas).
 
 (3) The Board shall consist of not less than 11 and not more than 15 members appointed by the Secretary of State; and the Secretary of State shall appoint one of the members to be chairman.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d6bce02957930ce3741ef2b1d7e113]: Textual amendment: S. 1(2A) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 141(a)](https://www.legislation.gov.uk/asp/2010/16/section/141/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-65d6bce02957930ce3741ef2b1d7e113]: Textual amendment: S. 1(2A) inserted (1.4.2011) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 141(a)](https://www.legislation.gov.uk/asp/2010/16/section/141/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

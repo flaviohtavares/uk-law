@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Determination of applications and issue of certificates[^key-2e5ce67bce877cf4c981b05d70a97aa9]
+## 44. Determination of applications and issue of certificates[^c-2e5ce67bce877cf4c981b05d70a97aa9]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5ce67bce877cf4c981b05d70a97aa9]: Commencement: S. 44 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-2e5ce67bce877cf4c981b05d70a97aa9]: Commencement: S. 44 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

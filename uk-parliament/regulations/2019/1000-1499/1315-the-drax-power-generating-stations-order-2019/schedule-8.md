@@ -22,7 +22,7 @@ summary: ''
 
 Article 22
 
-### 1. Interpretation[^key-efc511d1a72d5095a1dafd1b76783ca3]
+### 1. Interpretation[^c-efc511d1a72d5095a1dafd1b76783ca3]
 
 In this Schedule—
 
@@ -60,4 +60,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-efc511d1a72d5095a1dafd1b76783ca3]: Commencement: Sch. 8 para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-efc511d1a72d5095a1dafd1b76783ca3]: Commencement: Sch. 8 para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

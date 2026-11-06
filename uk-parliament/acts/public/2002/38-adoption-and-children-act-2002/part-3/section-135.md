@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Adoption and fostering: criminal records[^key-8f361be81f6419c35f3bf3cb6a2ac385]
+## 135. Adoption and fostering: criminal records[^c-8f361be81f6419c35f3bf3cb6a2ac385]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ec86c33860de06061caa3d406bc493c1] Part 5 of the Police Act 1997 (c. 50) (certificates of criminal records) is amended as follows. *(affected by repeal, see note)*[^key-ec86c33860de06061caa3d406bc493c1]
+(1)[^c-ec86c33860de06061caa3d406bc493c1] Part 5 of the Police Act 1997 (c. 50) (certificates of criminal records) is amended as follows. *(affected by repeal, see note)*[^c-ec86c33860de06061caa3d406bc493c1]
 
-(2) In section 113 (criminal record certificates), in subsection (3A), for “his suitability” there is substituted *(affected by repeal, see note)*[^key-ec86c33860de06061caa3d406bc493c1] “ the suitability of the applicant, or of a person living in the same household as the applicant, to be a foster parent or ” *(affected by repeal, see note)*[^key-ec86c33860de06061caa3d406bc493c1].
+(2) In section 113 (criminal record certificates), in subsection (3A), for “his suitability” there is substituted *(affected by repeal, see note)*[^c-ec86c33860de06061caa3d406bc493c1] “ the suitability of the applicant, or of a person living in the same household as the applicant, to be a foster parent or ” *(affected by repeal, see note)*[^c-ec86c33860de06061caa3d406bc493c1].
 
-(3) In section 115 (enhanced criminal record certificates), in subsection (6A), for “his suitability” there is substituted *(affected by repeal, see note)*[^key-ec86c33860de06061caa3d406bc493c1] “ the suitability of the applicant, or of a person living in the same household as the applicant, to be a foster parent or ” *(affected by repeal, see note)*[^key-ec86c33860de06061caa3d406bc493c1].
+(3) In section 115 (enhanced criminal record certificates), in subsection (6A), for “his suitability” there is substituted *(affected by repeal, see note)*[^c-ec86c33860de06061caa3d406bc493c1] “ the suitability of the applicant, or of a person living in the same household as the applicant, to be a foster parent or ” *(affected by repeal, see note)*[^c-ec86c33860de06061caa3d406bc493c1].
 
 ## Annotations
 
-[^key-8f361be81f6419c35f3bf3cb6a2ac385]: Commencement: S. 135 in force at 1.6.2003 by [S.I. 2003/366](https://www.legislation.gov.uk/uksi/2003/366), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2003/366/article/2/5/b)
+[^c-8f361be81f6419c35f3bf3cb6a2ac385]: Commencement: S. 135 in force at 1.6.2003 by [S.I. 2003/366](https://www.legislation.gov.uk/uksi/2003/366), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2003/366/article/2/5/b)
 
-[^key-ec86c33860de06061caa3d406bc493c1]: Textual amendment: S. 135 repealed (6.4.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(f)](https://www.legislation.gov.uk/uksi/2006/378/article/7/f)
+[^c-ec86c33860de06061caa3d406bc493c1]: Textual amendment: S. 135 repealed (6.4.2006 for E.W.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 7(f)](https://www.legislation.gov.uk/uksi/2006/378/article/7/f)

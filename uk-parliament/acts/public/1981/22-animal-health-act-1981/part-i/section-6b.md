@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6B. Biosecurity compliance[^key-711dc940d9dbccdbae096e3e49fe87f9]
+## 6B. Biosecurity compliance[^c-711dc940d9dbccdbae096e3e49fe87f9]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711dc940d9dbccdbae096e3e49fe87f9]: Textual amendment: S. 6A - S. 6B inserted (E.W.) (1.7.2003) by [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [ss. 16](https://www.legislation.gov.uk/ukpga/2002/42/section/16), [19(1)](https://www.legislation.gov.uk/ukpga/2002/42/section/19/1); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/3044/article/2/b)
+[^c-711dc940d9dbccdbae096e3e49fe87f9]: Textual amendment: S. 6A - S. 6B inserted (E.W.) (1.7.2003) by [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42), [ss. 16](https://www.legislation.gov.uk/ukpga/2002/42/section/16), [19(1)](https://www.legislation.gov.uk/ukpga/2002/42/section/19/1); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/3044/article/2/b)

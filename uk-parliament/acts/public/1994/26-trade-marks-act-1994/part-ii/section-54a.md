@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Certain international trade marks protected in the European Union to be treated as registered trade marks[^key-bdb7a74ffa37d5d0eefa9dfaaf296dd9]
+## 54A. Certain international trade marks protected in the European Union to be treated as registered trade marks[^c-bdb7a74ffa37d5d0eefa9dfaaf296dd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2B makes provision for international trade marks protected in the Europ
 
 ## Annotations
 
-[^key-bdb7a74ffa37d5d0eefa9dfaaf296dd9]: Textual amendment: S. 54A inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit
+[^c-bdb7a74ffa37d5d0eefa9dfaaf296dd9]: Textual amendment: S. 54A inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/638/schedule/4/paragraph/2) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/22/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) Edit

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. General trade licences: inspection of records[^key-9832ba038210ed269ed3c128a634dd22]
+## 57. General trade licences: inspection of records[^c-9832ba038210ed269ed3c128a634dd22]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9832ba038210ed269ed3c128a634dd22]: Commencement: Reg. 57 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-9832ba038210ed269ed3c128a634dd22]: Commencement: Reg. 57 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

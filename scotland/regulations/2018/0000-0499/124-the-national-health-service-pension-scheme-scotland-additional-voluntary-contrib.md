@@ -119,7 +119,7 @@ These Regulations may be cited as the National Health Service Pension Scheme (Sc
 </tbody>
 </table>
 
-[^c22964021][^c22964031][^c22964041][^c22964051][^c22964061][^c22964071][^c22964081][^c22964091][^key-462106a61dea8b0520553b7efac69c5e][^c22964101][^key-116db1124a7ff776ff0ed23fe50c71ca][^c22964111][^c22964121][^key-d5c0124df22741f47179f30bc687f5d5][^key-728f0417cacb4f272e7fba4b60cda711]
+[^c22964021][^c22964031][^c22964041][^c22964051][^c22964061][^c22964071][^c22964081][^c22964091][^c-462106a61dea8b0520553b7efac69c5e][^c22964101][^c-116db1124a7ff776ff0ed23fe50c71ca][^c22964111][^c22964121][^c-d5c0124df22741f47179f30bc687f5d5][^c-728f0417cacb4f272e7fba4b60cda711]
 
 (2) Subject to paragraph (1) and except where the context otherwise requires, other expressions in these Regulations have the same meaning as in whichever of the 2011 Regulations, the 2013 Regulations or the 2015 Regulations as are applicable in the circumstances.
 
@@ -169,7 +169,7 @@ and, subject to paragraph (5), must be accepted by them.
   - (ii) on reaching their 65th birthday the contributor continues to be in pensionable employment; and
 - (b) a person to whom paragraph (a) applies may continue to elect annually for further contributions to be paid provided that person continues to be in pensionable employment.
 
-(8) A person whose membership of the NHS Pension Scheme [^key-1c7498efc85f78946c1fdd29e97449c7]... is governed by the 2015 Regulations and who is in pensionable employment may, upon attaining normal benefit age—
+(8) A person whose membership of the NHS Pension Scheme [^c-1c7498efc85f78946c1fdd29e97449c7]... is governed by the 2015 Regulations and who is in pensionable employment may, upon attaining normal benefit age—
 
 - (a) where contributions have been paid for the purposes of paragraph (1)(b), elect for further contributions to be paid for 12 months beyond the attainment of normal benefit age; and
 - (b) continue to elect annually for further contributions to be paid provided that person remains in pensionable employment.
@@ -237,7 +237,7 @@ and, subject to paragraph (5), must be accepted by them.
 
 ## 9. Inward Transfers
 
-(1) Where a person who enters pensionable employment has paid contributions to another additional voluntary contribution scheme[^key-64fbc395579246cb5f53a0bf7a0391cd] which is a registered pension scheme for the purposes of the 2004 Act, that person, whether or not becoming a contributor within the meaning of these Regulations, may, within—
+(1) Where a person who enters pensionable employment has paid contributions to another additional voluntary contribution scheme[^c-64fbc395579246cb5f53a0bf7a0391cd] which is a registered pension scheme for the purposes of the 2004 Act, that person, whether or not becoming a contributor within the meaning of these Regulations, may, within—
 
 - (a) 12 months of entering pensionable employment; or
 - (b) such longer period as the Scottish Ministers may in any particular case allow,
@@ -307,7 +307,7 @@ the Scottish Ministers must, as soon as reasonably practicable after having rece
   - (ii) meets the requirements of regulations 11 and 12 of the 2009 Regulations;
 - (d) as from 6th April 2015, any payment to the participator or a dependant of the participator that complies with the requirements of the 2014 Act; and
 - (e) a lifetime allowance excess lump sum referred to in section 166(g) of the 2004 Act.
-- (f)[^key-bb79d790a4bcec230c923707e919b166] a pension commencement excess lump sum referred to in section 166(1)(aa) of the 2004 Act.
+- (f)[^c-bb79d790a4bcec230c923707e919b166] a pension commencement excess lump sum referred to in section 166(1)(aa) of the 2004 Act.
 
 (2) Paragraph (1) is subject to paragraphs (11) to (14) and regulations 15(6) to (8).
 
@@ -393,7 +393,7 @@ the Scottish Ministers must make arrangements for that person, subject to paragr
 
 ## 15. Payments by the Scottish Ministers
 
-(1) Where an authorised provider or a selected authorised provider fails to pay a benefit referred to in regulation 12(1)[^key-4ea60de343e4d15b19e39e6ac67099d7] or a lump sum benefit referred to in regulation 13, the Scottish Ministers are liable to pay that amount.
+(1) Where an authorised provider or a selected authorised provider fails to pay a benefit referred to in regulation 12(1)[^c-4ea60de343e4d15b19e39e6ac67099d7] or a lump sum benefit referred to in regulation 13, the Scottish Ministers are liable to pay that amount.
 
 (2) Where, on or after 1st June 2018, a participator or a person entitled to a pension credit elects for benefits to be provided by an authorised provider other than the one selected by the Scottish Ministers, the Scottish Ministers are not be liable under paragraph (1).
 
@@ -402,7 +402,7 @@ the Scottish Ministers must make arrangements for that person, subject to paragr
 - (a) to the deceased's spouse or civil partner or surviving scheme partner; or
 - (b) to the deceased's personal executors if—
   - (i) there is no spouse, surviving scheme partner or civil partner; or
-  - (ii) a notice has been given in accordance with any of the provisions referred to in paragraph (4) that the spouse, surviving scheme partner[^key-9f49087c4c934af05fc3d4f8ab67adb2] or civil partner is not to receive the payment.
+  - (ii) a notice has been given in accordance with any of the provisions referred to in paragraph (4) that the spouse, surviving scheme partner[^c-9f49087c4c934af05fc3d4f8ab67adb2] or civil partner is not to receive the payment.
 
 (4) The provisions referred to in paragraph (3)(b) are—
 
@@ -440,33 +440,33 @@ the Scottish Ministers may realise the investments made under these Regulations 
 
 must give the Scottish Ministers such information about their health as the Scottish Ministers may reasonably require.
 
-(3) Where a person is entitled to a benefit under these Regulations before 6 April 2024,[^key-10d3c885e07b047e5aa318f13d828a8a], that person must (whether or not intending to rely on entitlement to an enhanced lifetime allowance or to enhanced protection) give to the authorised provider such information as will enable the authorised provider to determine—
+(3) Where a person is entitled to a benefit under these Regulations before 6 April 2024,[^c-10d3c885e07b047e5aa318f13d828a8a], that person must (whether or not intending to rely on entitlement to an enhanced lifetime allowance or to enhanced protection) give to the authorised provider such information as will enable the authorised provider to determine—
 
 - (a) whether any lifetime allowance is payable in respect of the benefit; and
 - (b) the amount of that charge payable.
 
-(3A)[^key-ce3fce5e245c0fd48767cd5da6caee76] Where before 6 April 2024 a person is entitled to a lump sum under these Regulations that person must, whether or not they intend to rely on entitlement to an enhanced allowance or to enhanced protection, give to the provider such information as will enable the provider to determine—
+(3A)[^c-ce3fce5e245c0fd48767cd5da6caee76] Where before 6 April 2024 a person is entitled to a lump sum under these Regulations that person must, whether or not they intend to rely on entitlement to an enhanced allowance or to enhanced protection, give to the provider such information as will enable the provider to determine—
 
 - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act and, if so,
 - (b) the amount of tax, and
 - (c) the person liable for that tax.
 
-(4) If a person applying for a benefit under these Regulations , before 6 April 2024,[^key-9079a4ac893993c3c917de253df53375] intends to rely on entitlement to an enhanced lifetime allowance by virtue of any of the provisions listed in section 256(1) of the 2004 Act (enhanced lifetime allowance regulations), that person must give to the authorised provider—
+(4) If a person applying for a benefit under these Regulations , before 6 April 2024,[^c-9079a4ac893993c3c917de253df53375] intends to rely on entitlement to an enhanced lifetime allowance by virtue of any of the provisions listed in section 256(1) of the 2004 Act (enhanced lifetime allowance regulations), that person must give to the authorised provider—
 
 - (a) the reference number issued by the Commissioners for Her Majesty's Revenue and Customs under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006 [^c22964141] in respect of that entitlement; and
 - (b) the information referred to in paragraph (3).
 
-(4A)[^key-9912683b8d6625ecd061501937bc79d7] Where on or after 6 April 2024 a person who is entitled to a lump sum under these Regulations intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), that person must give to the provider—
+(4A)[^c-9912683b8d6625ecd061501937bc79d7] Where on or after 6 April 2024 a person who is entitled to a lump sum under these Regulations intends to rely on entitlement to an enhanced allowance by virtue of the provisions listed in section 256(1) of the 2004 Act (enhanced allowance regulations), that person must give to the provider—
 
 - (a) the reference number issued by the Commissioners for His Majesty’s Revenue and Customs under the Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006 in respect of that entitlement, and
 - (b) the information referred to in paragraph (3A).
 
-(5) The information referred to in paragraph (3) or (3A)[^key-f8caad9c73ed428ebea3da383cd5e8a9] and paragraph (4) or (4A)[^key-4c5f351c329eed7fffd307a4fbb8747b] must be given to the authorised provider—
+(5) The information referred to in paragraph (3) or (3A)[^c-f8caad9c73ed428ebea3da383cd5e8a9] and paragraph (4) or (4A)[^c-4c5f351c329eed7fffd307a4fbb8747b] must be given to the authorised provider—
 
 - (a) at the time the person makes a claim for a benefit; or
 - (b) where that information has not been provided at the time of making the claim, within such time as the authorised provider specifies in writing.
 
-(6) Where the person fails to provide all, or part of, the information referred to in paragraph (3) or (3A)[^key-6f54ecdf4f447cc1b783ce06f180000a] and paragraph (4) or (4A)[^key-09c30ecfb3ea2be0514217bdbe51d8bf] within the time limits specified by the authorised provider where relevant, the authorised provider may treat the whole of the benefit as a chargeable benefit and the charge may be paid on that basis.
+(6) Where the person fails to provide all, or part of, the information referred to in paragraph (3) or (3A)[^c-6f54ecdf4f447cc1b783ce06f180000a] and paragraph (4) or (4A)[^c-09c30ecfb3ea2be0514217bdbe51d8bf] within the time limits specified by the authorised provider where relevant, the authorised provider may treat the whole of the benefit as a chargeable benefit and the charge may be paid on that basis.
 
 ## 17. Payments in respect of deceased persons
 
@@ -806,49 +806,49 @@ These Regulations re-enact the National Health Service Superannuation Scheme (Sc
 
 [^c22964091]: Marginal citation: S.S.I 2015/94.
 
-[^key-462106a61dea8b0520553b7efac69c5e]: Textual amendment: Words in reg. 2(1) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [53(2)(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/53/2/a)
+[^c-462106a61dea8b0520553b7efac69c5e]: Textual amendment: Words in reg. 2(1) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [53(2)(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/53/2/a)
 
 [^c22964101]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-116db1124a7ff776ff0ed23fe50c71ca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/124/regulation/2/1) substituted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [17](https://www.legislation.gov.uk/ssi/2019/46/regulation/17)
+[^c-116db1124a7ff776ff0ed23fe50c71ca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/124/regulation/2/1) substituted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [17](https://www.legislation.gov.uk/ssi/2019/46/regulation/17)
 
 [^c22964111]: Marginal citation: [1967 c.28](https://www.legislation.gov.uk/ukpga/1967/28).
 
 [^c22964121]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-d5c0124df22741f47179f30bc687f5d5]: Textual amendment: Words in reg. 2(1) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [53(2)(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/53/2/b)
+[^c-d5c0124df22741f47179f30bc687f5d5]: Textual amendment: Words in reg. 2(1) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [53(2)(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/53/2/b)
 
-[^key-728f0417cacb4f272e7fba4b60cda711]: Textual amendment: Words in reg. 2(1) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [53(2)(c)](https://www.legislation.gov.uk/ssi/2021/102/regulation/53/2/c)
+[^c-728f0417cacb4f272e7fba4b60cda711]: Textual amendment: Words in reg. 2(1) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [53(2)(c)](https://www.legislation.gov.uk/ssi/2021/102/regulation/53/2/c)
 
 [^c22964131]: Marginal citation: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-1c7498efc85f78946c1fdd29e97449c7]: Textual amendment: Word in [reg. 4(8)](https://www.legislation.gov.uk/ssi/2018/124/regulation/4/8) omitted (1.4.2019) by virtue of [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [18](https://www.legislation.gov.uk/ssi/2019/46/regulation/18)
+[^c-1c7498efc85f78946c1fdd29e97449c7]: Textual amendment: Word in [reg. 4(8)](https://www.legislation.gov.uk/ssi/2018/124/regulation/4/8) omitted (1.4.2019) by virtue of [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [18](https://www.legislation.gov.uk/ssi/2019/46/regulation/18)
 
-[^key-64fbc395579246cb5f53a0bf7a0391cd]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2018/124/regulation/9/1) inserted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [19](https://www.legislation.gov.uk/ssi/2019/46/regulation/19)
+[^c-64fbc395579246cb5f53a0bf7a0391cd]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2018/124/regulation/9/1) inserted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [19](https://www.legislation.gov.uk/ssi/2019/46/regulation/19)
 
-[^key-bb79d790a4bcec230c923707e919b166]: Textual amendment: [Reg. 12(1)(f)](https://www.legislation.gov.uk/ssi/2018/124/regulation/12/1/f) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [74](https://www.legislation.gov.uk/ssi/2024/272/regulation/74)
+[^c-bb79d790a4bcec230c923707e919b166]: Textual amendment: [Reg. 12(1)(f)](https://www.legislation.gov.uk/ssi/2018/124/regulation/12/1/f) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [74](https://www.legislation.gov.uk/ssi/2024/272/regulation/74)
 
-[^key-4ea60de343e4d15b19e39e6ac67099d7]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2018/124/regulation/15/1) substituted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [20](https://www.legislation.gov.uk/ssi/2019/46/regulation/20)
+[^c-4ea60de343e4d15b19e39e6ac67099d7]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/ssi/2018/124/regulation/15/1) substituted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [20](https://www.legislation.gov.uk/ssi/2019/46/regulation/20)
 
-[^key-9f49087c4c934af05fc3d4f8ab67adb2]: Textual amendment: Words in reg. 15(3)(b) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [54](https://www.legislation.gov.uk/ssi/2021/102/regulation/54)
+[^c-9f49087c4c934af05fc3d4f8ab67adb2]: Textual amendment: Words in reg. 15(3)(b) substituted (with effect from 1 June 2018) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)(5)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [54](https://www.legislation.gov.uk/ssi/2021/102/regulation/54)
 
-[^key-10d3c885e07b047e5aa318f13d828a8a]: Textual amendment: Words in reg. 16(3) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/2)
+[^c-10d3c885e07b047e5aa318f13d828a8a]: Textual amendment: Words in reg. 16(3) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/2)
 
-[^key-ce3fce5e245c0fd48767cd5da6caee76]: Textual amendment: Reg. 16(3A) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/3)
+[^c-ce3fce5e245c0fd48767cd5da6caee76]: Textual amendment: Reg. 16(3A) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/3)
 
-[^key-9079a4ac893993c3c917de253df53375]: Textual amendment: Words in reg. 16(4) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/4)
+[^c-9079a4ac893993c3c917de253df53375]: Textual amendment: Words in reg. 16(4) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/4)
 
 [^c22964141]: Marginal citation: [S.I. 2006/131](https://www.legislation.gov.uk/uksi/2006/131).
 
-[^key-9912683b8d6625ecd061501937bc79d7]: Textual amendment: Reg. 16(4A) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/5)
+[^c-9912683b8d6625ecd061501937bc79d7]: Textual amendment: Reg. 16(4A) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/5)
 
-[^key-f8caad9c73ed428ebea3da383cd5e8a9]: Textual amendment: Words in reg. 16(5) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(6)(a)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/6/a)
+[^c-f8caad9c73ed428ebea3da383cd5e8a9]: Textual amendment: Words in reg. 16(5) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(6)(a)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/6/a)
 
-[^key-4c5f351c329eed7fffd307a4fbb8747b]: Textual amendment: Words in reg. 16(5) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(6)(b)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/6/b)
+[^c-4c5f351c329eed7fffd307a4fbb8747b]: Textual amendment: Words in reg. 16(5) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(6)(b)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/6/b)
 
-[^key-6f54ecdf4f447cc1b783ce06f180000a]: Textual amendment: Words in reg. 16(6) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(7)(a)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/7/a)
+[^c-6f54ecdf4f447cc1b783ce06f180000a]: Textual amendment: Words in reg. 16(6) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(7)(a)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/7/a)
 
-[^key-09c30ecfb3ea2be0514217bdbe51d8bf]: Textual amendment: Words in reg. 16(6) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(7)(b)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/7/b)
+[^c-09c30ecfb3ea2be0514217bdbe51d8bf]: Textual amendment: Words in reg. 16(6) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [6(7)(b)](https://www.legislation.gov.uk/ssi/2025/259/regulation/6/7/b)
 
 [^c22964151]: Marginal citation: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32).
 

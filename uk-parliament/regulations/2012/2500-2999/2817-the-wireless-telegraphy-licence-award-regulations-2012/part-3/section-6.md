@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Recording of applicant group members[^key-0bb5a02e52e0fa2b157b6ac994f103b0]
+## 6. Recording of applicant group members[^c-0bb5a02e52e0fa2b157b6ac994f103b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bb5a02e52e0fa2b157b6ac994f103b0]: Commencement: Reg. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-0bb5a02e52e0fa2b157b6ac994f103b0]: Commencement: Reg. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

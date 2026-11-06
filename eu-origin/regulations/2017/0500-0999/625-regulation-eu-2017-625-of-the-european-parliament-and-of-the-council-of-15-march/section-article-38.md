@@ -22,7 +22,7 @@ summary: ''
 
 1. Where the results of an analysis, test or diagnosis carried out on samples taken during official controls or other official activities indicate a risk to human, animal or plant health, or, as regards GMOs and plant protection products, also to the environment, or point to the likelihood of non-compliance, official laboratories shall inform immediately the competent authorities which designated them for that analysis, test or diagnosis and, where relevant, delegated bodies or natural persons to which tasks have been delegated. However, specific arrangements between the competent authorities, delegated bodies or natural persons to which tasks have been delegated and the official laboratories may specify that this information is not required to be provided immediately.
 
-2. Upon request by a[^key-e8d54b2aea6606612e5b1a656b3ffef8] national reference laboratory, official laboratories shall take part in inter-laboratory comparative tests or proficiency tests that are organised for the analyses, tests or diagnoses they perform as official laboratories.
+2. Upon request by a[^c-e8d54b2aea6606612e5b1a656b3ffef8] national reference laboratory, official laboratories shall take part in inter-laboratory comparative tests or proficiency tests that are organised for the analyses, tests or diagnoses they perform as official laboratories.
 
 3. Official laboratories shall, upon request of the competent authorities, make available to the public the names of the methods used for analyses, tests or diagnoses performed in the context of official controls and other official activities.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d54b2aea6606612e5b1a656b3ffef8]: Textual amendment: Word in [Art. 38(2)](https://www.legislation.gov.uk/eur/2017/625/article/38/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-e8d54b2aea6606612e5b1a656b3ffef8]: Textual amendment: Word in [Art. 38(2)](https://www.legislation.gov.uk/eur/2017/625/article/38/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Meaning of “residential landlord”[^key-d3d7f8e0c4f9861fdd52b1310898aaaa][^key-e159b2510471f87cfa12ebd3f5364229]
+## 63. Meaning of “residential landlord”[^c-d3d7f8e0c4f9861fdd52b1310898aaaa][^c-e159b2510471f87cfa12ebd3f5364229]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3d7f8e0c4f9861fdd52b1310898aaaa]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-d3d7f8e0c4f9861fdd52b1310898aaaa]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-e159b2510471f87cfa12ebd3f5364229]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/26/section/63) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/i)
+[^c-e159b2510471f87cfa12ebd3f5364229]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/26/section/63) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/i)

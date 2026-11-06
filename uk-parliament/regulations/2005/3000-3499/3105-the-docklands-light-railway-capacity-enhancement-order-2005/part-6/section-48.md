@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Defence to proceedings in respect of statutory nuisance[^key-c2e1c99df3633b87df2aeb004bd01543]
+## 48. Defence to proceedings in respect of statutory nuisance[^c-c2e1c99df3633b87df2aeb004bd01543]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ shall not apply where the consent relates to the use of premises by DLRL for the
 
 ## Annotations
 
-[^key-c2e1c99df3633b87df2aeb004bd01543]: Commencement: Art. 48 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-c2e1c99df3633b87df2aeb004bd01543]: Commencement: Art. 48 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
 [^f00032]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Feedingstuffs[^key-0e05795f21b5706a318c2da8ee83be00]
+## 14. Feedingstuffs[^c-0e05795f21b5706a318c2da8ee83be00]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 (medicated feedingstuffs and specified feed additives) has effect.
 
 ## Annotations
 
-[^key-0e05795f21b5706a318c2da8ee83be00]: Commencement: Reg. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0e05795f21b5706a318c2da8ee83be00]: Commencement: Reg. 14 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

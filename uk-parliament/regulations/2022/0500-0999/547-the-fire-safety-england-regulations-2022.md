@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with article 24(4) of that Order the Secretary of State has consulted such persons or bodies of persons as appeared to the Secretary of State to be appropriate.
 
-## 1. Citation, commencement, extent and application[^key-9b33ea39125a53abe895c13037f6a4f9]
+## 1. Citation, commencement, extent and application[^c-9b33ea39125a53abe895c13037f6a4f9]
 
 (1) These Regulations may be cited as the Fire Safety (England) Regulations 2022.
 
@@ -58,7 +58,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 (4) These Regulations do not apply in relation to domestic premises within the House of Commons or the House of Lords or to military premises.
 
-## 2. Interpretation[^key-7ea41260ad21adfa0b16c360b676110c]
+## 2. Interpretation[^c-7ea41260ad21adfa0b16c360b676110c]
 
 (1) In these Regulations—
 
@@ -74,7 +74,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 (2) Other expressions in these Regulations which are listed in Appendix A to Approved Document B are to be interpreted in accordance with the meaning given to those expressions in that Appendix.
 
-## 3. Meaning of high-rise residential building[^key-a9da74d889312124b1752c5da938ebfe]
+## 3. Meaning of high-rise residential building[^c-a9da74d889312124b1752c5da938ebfe]
 
 (1) In these Regulations “high-rise residential building” means a building containing two or more sets of domestic premises that—
 
@@ -89,27 +89,27 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
   - (ii) any mezzanine floor is a storey if its internal floor area is at least 50% of the internal floor area of the largest storey in the building which is not below ground level, and
   - (iii) a storey is treated as below ground level if any part of the finished surface of the ceiling of the storey is below the ground level immediately adjacent to that part of the building.
 
-## 4. Secure information box[^key-96bf09d8fc5ca8fc3fecc281b398f280]
+## 4. Secure information box[^c-96bf09d8fc5ca8fc3fecc281b398f280]
 
 (1) The responsible person in relation to a high-rise residential building must install and maintain a secure information box in or on the building.
 
 (2) The secure information box must be—
 
 - (a) positioned at a location in or on the building which is readily accessible to the fire and rescue authority;
-- (b) capable of containing the documents required to be placed in it by these Regulations and the Fire Safety (Residential Evacuation Plans) (England) Regulations 2025[^key-36d2c4ead2a011377e2d31a3f12598ed];
+- (b) capable of containing the documents required to be placed in it by these Regulations and the Fire Safety (Residential Evacuation Plans) (England) Regulations 2025[^c-36d2c4ead2a011377e2d31a3f12598ed];
 - (c) reasonably secure from unauthorised access and vandalism.
 
-(3)[^key-a3077569901e467350478ebcc3fb2669] The responsible person must ensure that the following information is contained within the secure information box—
+(3)[^c-a3077569901e467350478ebcc3fb2669] The responsible person must ensure that the following information is contained within the secure information box—
 
 - (a) the name, address and telephone number within the United Kingdom of the responsible person;
 - (b) the name and contact information of such other persons within the United Kingdom who are provided with the facilities to and are permitted to access the building as the responsible person considers appropriate;
 - (c) such documents as are required to be placed in it by these Regulations.
 
-(4)[^key-a3077569901e467350478ebcc3fb2669] The responsible person must provide the local fire and rescue authority with anything required to enable it to access the secure information box and must provide anything additional required as soon as reasonably practicable if there are any changes to those requirements.
+(4)[^c-a3077569901e467350478ebcc3fb2669] The responsible person must provide the local fire and rescue authority with anything required to enable it to access the secure information box and must provide anything additional required as soon as reasonably practicable if there are any changes to those requirements.
 
-(5)[^key-a3077569901e467350478ebcc3fb2669] The responsible person must inspect the secure information box at least annually and ensure that it continues to meet the requirements in paragraph (2).
+(5)[^c-a3077569901e467350478ebcc3fb2669] The responsible person must inspect the secure information box at least annually and ensure that it continues to meet the requirements in paragraph (2).
 
-## 5. Design and materials of external walls[^key-c4b087ee65a3750dd640fca75dbf98e8]
+## 5. Design and materials of external walls[^c-c4b087ee65a3750dd640fca75dbf98e8]
 
 (1) The responsible person in relation to a high-rise residential building must prepare a record of the design of the external walls of the building, including details of the materials from which they are constructed.
 
@@ -117,7 +117,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 (3) The responsible person must prepare a revised record under paragraph (1) if there are any significant changes to the external walls of the building.
 
-## 6. Floor plans and building plan[^key-914b31c9b990f1e17c530944d39c6f58]
+## 6. Floor plans and building plan[^c-914b31c9b990f1e17c530944d39c6f58]
 
 (1) The responsible person in relation to a high-rise residential building must prepare a plan for each floor of the high-rise residential building.
 
@@ -156,7 +156,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 - (e) smoke control systems;
 - (f) suppression systems.
 
-## 7. Lifts and essential fire-fighting equipment[^key-29ab4c1dead3560f73086c9e2b48fbfc]
+## 7. Lifts and essential fire-fighting equipment[^c-29ab4c1dead3560f73086c9e2b48fbfc]
 
 (1) The responsible person in relation to a high-rise residential building must undertake monthly routine checks of lifts for use by firefighters, evacuation lifts and essential fire-fighting equipment within the building.
 
@@ -177,13 +177,13 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
   - (c) automatic door release mechanisms linked to fire alarm systems;
 - “routine check” means a check that any lift or piece of equipment is in efficient working order and in good repair, carried out in accordance with the relevant industry standard or any recommendations made by the manufacturers of equipment within an operators’ manual.
 
-## 8. Wayfinding signage[^key-16ba41c7a44db1278f1df1b30cc34d40]
+## 8. Wayfinding signage[^c-16ba41c7a44db1278f1df1b30cc34d40]
 
 (1) The responsible person in relation to a high-rise residential building must ensure that the building contains clear markings of floor identification and identification of domestic premises.
 
 (2) For the purposes of paragraph (1), the “markings” means an identification designed and located in accordance with the guidance in Volume 1 of Approved Document B[^f00004] on each landing within the stairways and in the lift lobbies of the floor level marked in such a way as to be visible both in low level lighting conditions or when illuminated with a torch.
 
-## 9. Information to residents[^key-e7ef89d97737474deef9c59608404aaf]
+## 9. Information to residents[^c-e7ef89d97737474deef9c59608404aaf]
 
 (1) The responsible person must display fire safety instructions in a conspicuous part of any building—
 
@@ -205,7 +205,7 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 (4) After any material changes to the instructions, the responsible person must display the fire safety instructions in accordance with paragraph (1) and provide a copy to residents.
 
-## 10. Fire doors[^key-cf23eb2ac2cfb742487ec4cc63e5c153]
+## 10. Fire doors[^c-cf23eb2ac2cfb742487ec4cc63e5c153]
 
 (1) The responsible person, in relation to a building which contains two or more sets of domestic premises and which contains common parts through which residents would need to evacuate in the case of an emergency, must provide the required information about fire doors to the residents of the building.
 
@@ -230,14 +230,14 @@ In accordance with article 24(4) of that Order the Secretary of State has consul
 
 (8) For the purposes of this regulation, height measurement of a building is to be calculated to the height to the top storey in accordance with regulation 3(2)(a).
 
-## 11. Provision of documents to local fire and rescue authority[^key-77e49bd6d90ffdc72c0004156ab1379d]
+## 11. Provision of documents to local fire and rescue authority[^c-77e49bd6d90ffdc72c0004156ab1379d]
 
 The responsible person in relation to a high-rise residential building must provide the local fire and rescue authority by electronic means with the documents specified in—
 
 - (a) regulation 5 (design and materials in external walls); and
 - (b) regulation 6 (floor plans and building plan).
 
-## 12. Duty to review[^key-587119ce151ba48200940cbd02b4ab8e]
+## 12. Duty to review[^c-587119ce151ba48200940cbd02b4ab8e]
 
 (1) At intervals of no more than 5 years, the Secretary of State must—
 
@@ -277,36 +277,36 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^f00001]: Footnote: [S.I. 2005/1541](https://www.legislation.gov.uk/uksi/2005/1541); see article 6 of that Order (application to premises) as amended by section 1 of the Fire Safety Act [2021 (c. 24)](https://www.legislation.gov.uk/ukpga/2021/24) for the application to buildings containing domestic premises.
 
-[^key-9b33ea39125a53abe895c13037f6a4f9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/547/regulation/1) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-9b33ea39125a53abe895c13037f6a4f9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/547/regulation/1) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-7ea41260ad21adfa0b16c360b676110c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/547/regulation/2) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-7ea41260ad21adfa0b16c360b676110c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/547/regulation/2) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214); Approved Document B can be accessed at https://www.gov.uk/government/publications/fire-safety-approved-document-b. A hard copy may be inspected free of charge by contacting DLUHC at 2 Marsham Street, London SW1P 4DF.
 
 [^f00003]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5).
 
-[^key-a9da74d889312124b1752c5da938ebfe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/547/regulation/3) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-a9da74d889312124b1752c5da938ebfe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/547/regulation/3) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-96bf09d8fc5ca8fc3fecc281b398f280]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/547/regulation/4) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-96bf09d8fc5ca8fc3fecc281b398f280]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/547/regulation/4) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-36d2c4ead2a011377e2d31a3f12598ed]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2022/547/regulation/4/2/b) inserted (6.4.2026) by [The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025 (S.I. 2025/797)](https://www.legislation.gov.uk/uksi/2025/797), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/797/regulation/14) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12))
+[^c-36d2c4ead2a011377e2d31a3f12598ed]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2022/547/regulation/4/2/b) inserted (6.4.2026) by [The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025 (S.I. 2025/797)](https://www.legislation.gov.uk/uksi/2025/797), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/797/regulation/14) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12))
 
-[^key-a3077569901e467350478ebcc3fb2669]: Modification: [Reg. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2022/547/regulation/4/3) applied (6.4.2026) by [The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025 (S.I. 2025/797)](https://www.legislation.gov.uk/uksi/2025/797), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2025/797/regulation/10/4/b) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12))
+[^c-a3077569901e467350478ebcc3fb2669]: Modification: [Reg. 4(3)-(5)](https://www.legislation.gov.uk/uksi/2022/547/regulation/4/3) applied (6.4.2026) by [The Fire Safety (Residential Evacuation Plans) (England) Regulations 2025 (S.I. 2025/797)](https://www.legislation.gov.uk/uksi/2025/797), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/uksi/2025/797/regulation/10/4/b) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/797/regulation/1/4), [12](https://www.legislation.gov.uk/uksi/2025/797/regulation/12))
 
-[^key-c4b087ee65a3750dd640fca75dbf98e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/547/regulation/5) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-c4b087ee65a3750dd640fca75dbf98e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/547/regulation/5) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-914b31c9b990f1e17c530944d39c6f58]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/547/regulation/6) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-914b31c9b990f1e17c530944d39c6f58]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/547/regulation/6) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-29ab4c1dead3560f73086c9e2b48fbfc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/547/regulation/7) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-29ab4c1dead3560f73086c9e2b48fbfc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/547/regulation/7) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-16ba41c7a44db1278f1df1b30cc34d40]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/547/regulation/8) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-16ba41c7a44db1278f1df1b30cc34d40]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/547/regulation/8) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
 [^f00004]: Footnote: See https://www.gov.uk/government/publications/fire-safety-approved-document-b; Volume 1 Page 105 – 106 paragraphs 15.13 to 15.16.
 
-[^key-e7ef89d97737474deef9c59608404aaf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/547/regulation/9) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-e7ef89d97737474deef9c59608404aaf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/547/regulation/9) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-cf23eb2ac2cfb742487ec4cc63e5c153]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/547/regulation/10) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-cf23eb2ac2cfb742487ec4cc63e5c153]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/547/regulation/10) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-77e49bd6d90ffdc72c0004156ab1379d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/547/regulation/11) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-77e49bd6d90ffdc72c0004156ab1379d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/547/regulation/11) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
 
-[^key-587119ce151ba48200940cbd02b4ab8e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/547/regulation/12) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)
+[^c-587119ce151ba48200940cbd02b4ab8e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/547/regulation/12) in force at 23.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/547/regulation/1/2)

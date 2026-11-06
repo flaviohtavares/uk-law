@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Eligibility for membership of employees of other bodies not listed in Schedule 2[^key-02d851a9ef7cba8dbd410076d88c347b]
+## 8. Eligibility for membership of employees of other bodies not listed in Schedule 2[^c-02d851a9ef7cba8dbd410076d88c347b]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ and the local education authority has, with the consent of his employer, designa
 
 ## Annotations
 
-[^key-02d851a9ef7cba8dbd410076d88c347b]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-02d851a9ef7cba8dbd410076d88c347b]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00010]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). See section 579(6).

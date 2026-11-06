@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Non-cooperation[^key-1e01bcb18437105daacbf889c58177ac]
+## 20. Non-cooperation[^c-1e01bcb18437105daacbf889c58177ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e01bcb18437105daacbf889c58177ac]: Commencement: Reg. 20 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-1e01bcb18437105daacbf889c58177ac]: Commencement: Reg. 20 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

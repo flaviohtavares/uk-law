@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Orders for securing compliance with confiscation order[^key-3bd02b41113258c267f5bd44554140f0]
+## 16. Orders for securing compliance with confiscation order[^c-3bd02b41113258c267f5bd44554140f0]
 
 *Extent: S*
 
@@ -90,4 +90,4 @@ After section 97A of the Proceeds of Crime Act 2002 (inserted by section 15(2) a
 
 ## Annotations
 
-[^key-3bd02b41113258c267f5bd44554140f0]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2015/9/section/16) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/a)
+[^c-3bd02b41113258c267f5bd44554140f0]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2015/9/section/16) in force at 1.3.2016 by [S.S.I. 2016/11](https://www.legislation.gov.uk/ssi/2016/11), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2016/11/regulation/2/a)

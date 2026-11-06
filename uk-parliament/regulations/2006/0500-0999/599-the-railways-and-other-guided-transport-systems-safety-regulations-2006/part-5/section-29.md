@@ -28,7 +28,7 @@ summary: ''
 - (b) issuing a written consent for the purposes set out in regulation 4(4)(b) of ROTS in relation to new or altered works, plant or equipment for which an application for approval has been made;
 - (c) making notices dispensing with or requiring compliance with certain provisions of ROTS under regulation 10(1)(a) or 11(1)(a) of ROTS in relation to new or altered works, plant or equipment, for which an application for approval has been made,
 
-to the Office of Rail and Road[^key-0403c7bc257fee3d8ac18417ffff4ae4] in relation to a relevant transport system before 1st October 2006.
+to the Office of Rail and Road[^c-0403c7bc257fee3d8ac18417ffff4ae4] in relation to a relevant transport system before 1st October 2006.
 
 (3) Where an approval is issued by the Office of Rail and Road in response to an application for approval made in relation to a transport system —
 
@@ -50,12 +50,12 @@ in relation to new or altered works, plant or equipment that is relevant infrast
 
 (6) For the purposes of heritage railways and tramways, all references in this regulation to 1st October 2006 shall be read as if those references were in each case to 1st October 2008, and all references to 1st October 2008 shall be read as if those references were in each case to 1st October 2010.
 
-(7)[^key-5526b0b7a95a6d1affb5e5759e6b03eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-5526b0b7a95a6d1affb5e5759e6b03eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c15436441]: Marginal citation: [S.I. 1994/299](https://www.legislation.gov.uk/uksi/1994/299) as amended by SIs 1996/1592, 1999/2024 and 2000/2688.
 
-[^key-0403c7bc257fee3d8ac18417ffff4ae4]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2006/599/regulation/29) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(t)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/t)
+[^c-0403c7bc257fee3d8ac18417ffff4ae4]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2006/599/regulation/29) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(t)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/t)
 
-[^key-5526b0b7a95a6d1affb5e5759e6b03eb]: Textual amendment: Reg. 29(7) omitted (21.5.2013) by virtue of [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/12)
+[^c-5526b0b7a95a6d1affb5e5759e6b03eb]: Textual amendment: Reg. 29(7) omitted (21.5.2013) by virtue of [The Railways and Other Guided Transport Systems (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/950)](https://www.legislation.gov.uk/uksi/2013/950), [regs. 1](https://www.legislation.gov.uk/uksi/2013/950/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2013/950/regulation/3/12)

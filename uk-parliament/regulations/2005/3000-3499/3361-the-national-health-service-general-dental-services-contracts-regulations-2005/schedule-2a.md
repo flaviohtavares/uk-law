@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2A — Provision of services: units of dental activity where a contractor has elected to enter into a prototype agreement[^key-d58e2ca20f0ece8169e694a83fabc0a0]
+## SCHEDULE 2A — Provision of services: units of dental activity where a contractor has elected to enter into a prototype agreement[^c-d58e2ca20f0ece8169e694a83fabc0a0]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ must be calculated on the basis of the components of the course of treatment whi
 
 (6) For the purposes of this paragraph, “Blend A prototype agreement” and “Blend B prototype agreement” have the same meaning as in the Prototype SFE.
 
-(7)[^key-cd3eea3abe6ed727c1d9e0e3d29441a3] This Schedule does not apply where the contractor is a CDS prototype contractor.
+(7)[^c-cd3eea3abe6ed727c1d9e0e3d29441a3] This Schedule does not apply where the contractor is a CDS prototype contractor.
 
 Table A
 
@@ -93,6 +93,6 @@ Units of dental activity provided under the prototype agreement in respect of ch
 
 ## Annotations
 
-[^key-d58e2ca20f0ece8169e694a83fabc0a0]: Textual amendment: Sch. 2A inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1728/regulation/8)
+[^c-d58e2ca20f0ece8169e694a83fabc0a0]: Textual amendment: Sch. 2A inserted (1.11.2015) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments) (No. 2) Regulations 2015 (S.I. 2015/1728)](https://www.legislation.gov.uk/uksi/2015/1728), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1728/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2015/1728/regulation/8)
 
-[^key-cd3eea3abe6ed727c1d9e0e3d29441a3]: Textual amendment: [Sch. 2A para. 1(7)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/2A/paragraph/1/7) inserted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/298/regulation/12)
+[^c-cd3eea3abe6ed727c1d9e0e3d29441a3]: Textual amendment: [Sch. 2A para. 1(7)](https://www.legislation.gov.uk/uksi/2005/3361/schedule/2A/paragraph/1/7) inserted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/298/regulation/12)

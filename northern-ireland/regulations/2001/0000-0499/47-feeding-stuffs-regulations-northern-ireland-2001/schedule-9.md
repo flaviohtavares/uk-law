@@ -78,23 +78,23 @@ Regulation 17 and Schedule 4 Part I, paragraphs 18, 19, 26 and 31
 
 ### Chapter B
 
-**1.**[^key-fb3f250af0e1b6b064093a0087f4eee5] Where there is more than one group of nutritional characteristics indicated in column 2 of Chapter A, denoted by “and/or”, for the same nutritional purpose, the feeding stuff may have either or both groups in order to fulfil the nutritional purpose specified in column 1.
+**1.**[^c-fb3f250af0e1b6b064093a0087f4eee5] Where there is more than one group of nutritional characteristics indicated in column 2 of Chapter A, denoted by “and/or”, for the same nutritional purpose, the feeding stuff may have either or both groups in order to fulfil the nutritional purpose specified in column 1.
 
-**2.**[^key-8bdd3cf694d28be562a68b3ce786c49f] Where a group of additives is mentioned in column 2 or column 4 of Chapter A, the additive(s) used must be authorised as corresponding to the specified essential characteristic.
+**2.**[^c-8bdd3cf694d28be562a68b3ce786c49f] Where a group of additives is mentioned in column 2 or column 4 of Chapter A, the additive(s) used must be authorised as corresponding to the specified essential characteristic.
 
-**3.**[^key-1b23fde1cd9d5da3b373db4ec29ed7e4] Where the source(s) of feed materials or of analytical constituents is/are required in column 4 of Chapter A the manufacturer must make a specific declaration (i.e. specific name of the feed material(s), animal species or part of the animal) allowing the evaluation of conformity of the feeding stuff with the corresponding essential nutritional characteristics.
+**3.**[^c-1b23fde1cd9d5da3b373db4ec29ed7e4] Where the source(s) of feed materials or of analytical constituents is/are required in column 4 of Chapter A the manufacturer must make a specific declaration (i.e. specific name of the feed material(s), animal species or part of the animal) allowing the evaluation of conformity of the feeding stuff with the corresponding essential nutritional characteristics.
 
-**4.**[^key-e69c777a828a66b28f6ba9e2001d4532] Where the declaration of a substance, also authorised as an additive, is required by column 4 of Chapter A and is accompanied by the expression “total”, the declared content must refer to, as appropriate, the quantity naturally present where none is added or the total quantity of the substance naturally present and the amount added as an additive.
+**4.**[^c-e69c777a828a66b28f6ba9e2001d4532] Where the declaration of a substance, also authorised as an additive, is required by column 4 of Chapter A and is accompanied by the expression “total”, the declared content must refer to, as appropriate, the quantity naturally present where none is added or the total quantity of the substance naturally present and the amount added as an additive.
 
-**5.**[^key-2adb0dc67062283c1b9fd6c4c9576a91] The declarations specified in column 4 of Chapter A which include the words “if added” are required where the feed material or the additive has been incorporated or its content increased specifically to enable the achievement of the particular nutritional purpose.
+**5.**[^c-2adb0dc67062283c1b9fd6c4c9576a91] The declarations specified in column 4 of Chapter A which include the words “if added” are required where the feed material or the additive has been incorporated or its content increased specifically to enable the achievement of the particular nutritional purpose.
 
-**6.**[^key-25105544e37b55dd783e196c299f8bc7] The declarations to be given in accordance with column 4 of Chapter A concerning analytical constituents and additives must be expressed in quantitative terms.
+**6.**[^c-25105544e37b55dd783e196c299f8bc7] The declarations to be given in accordance with column 4 of Chapter A concerning analytical constituents and additives must be expressed in quantitative terms.
 
-**7.**[^key-65d065050ce351d67ddb39ce312a9416] The recommended period of use indicated in column 5 of Chapter A indicates a range within which the nutritional purpose should normally be achieved. Manufacturers may refer to more precise periods of use, within the permitted range.
+**7.**[^c-65d065050ce351d67ddb39ce312a9416] The recommended period of use indicated in column 5 of Chapter A indicates a range within which the nutritional purpose should normally be achieved. Manufacturers may refer to more precise periods of use, within the permitted range.
 
-**8.**[^key-6e5f4bb2390d8941cabfbf467eef31ec] Where a feeding stuff is intended to meet more than one particular nutritional purpose, it must comply with the corresponding entries in Chapter A.
+**8.**[^c-6e5f4bb2390d8941cabfbf467eef31ec] Where a feeding stuff is intended to meet more than one particular nutritional purpose, it must comply with the corresponding entries in Chapter A.
 
-**9.**[^key-94562a89875ae39b7427cd45736a9775] In the case of a complementary feedingstuff intended for a particular nutritional purpose, guidance on the balance of the daily ration must be provided in the instructions for use.
+**9.**[^c-94562a89875ae39b7427cd45736a9775] In the case of a complementary feedingstuff intended for a particular nutritional purpose, guidance on the balance of the daily ration must be provided in the instructions for use.
 
 ## Annotations
 
@@ -124,20 +124,20 @@ Regulation 17 and Schedule 4 Part I, paragraphs 18, 19, 26 and 31
 
 [^f00068]: Footnote: In the case of feeding stuffs specially prepared to meet the specific conditions of very old animals (easily digestible feed materials) a reference to “old animals” shall complete the indication of the species or category of animal.
 
-[^key-fb3f250af0e1b6b064093a0087f4eee5]: Commencement: Sch. 9 para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-fb3f250af0e1b6b064093a0087f4eee5]: Commencement: Sch. 9 para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-8bdd3cf694d28be562a68b3ce786c49f]: Commencement: Sch. 9 para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-8bdd3cf694d28be562a68b3ce786c49f]: Commencement: Sch. 9 para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-1b23fde1cd9d5da3b373db4ec29ed7e4]: Commencement: Sch. 9 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-1b23fde1cd9d5da3b373db4ec29ed7e4]: Commencement: Sch. 9 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-e69c777a828a66b28f6ba9e2001d4532]: Commencement: Sch. 9 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-e69c777a828a66b28f6ba9e2001d4532]: Commencement: Sch. 9 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-2adb0dc67062283c1b9fd6c4c9576a91]: Commencement: Sch. 9 para. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-2adb0dc67062283c1b9fd6c4c9576a91]: Commencement: Sch. 9 para. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-25105544e37b55dd783e196c299f8bc7]: Commencement: Sch. 9 para. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-25105544e37b55dd783e196c299f8bc7]: Commencement: Sch. 9 para. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-65d065050ce351d67ddb39ce312a9416]: Commencement: Sch. 9 para. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-65d065050ce351d67ddb39ce312a9416]: Commencement: Sch. 9 para. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-6e5f4bb2390d8941cabfbf467eef31ec]: Commencement: Sch. 9 para. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-6e5f4bb2390d8941cabfbf467eef31ec]: Commencement: Sch. 9 para. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-94562a89875ae39b7427cd45736a9775]: Commencement: Sch. 9 para. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-94562a89875ae39b7427cd45736a9775]: Commencement: Sch. 9 para. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

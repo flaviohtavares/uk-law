@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Obstruction of officers, etc.[^key-a745bb4d6df30e1d11feae7eafe134bb]
+## 16. Obstruction of officers, etc.[^c-a745bb4d6df30e1d11feae7eafe134bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a745bb4d6df30e1d11feae7eafe134bb]: Textual amendment: S. 16 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(f)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/f), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-a745bb4d6df30e1d11feae7eafe134bb]: Textual amendment: S. 16 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(f)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/f), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

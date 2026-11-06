@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Royal prerogative of mercy[^key-64fe74f0413d60254197dace5032603a]
+## 24. Royal prerogative of mercy[^c-64fe74f0413d60254197dace5032603a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 > (2A) So far as the Royal prerogative of mercy is exercisable on Her Majesty’s behalf under subsection (2), it is exercisable only by the Minister in charge of the Department of Justice.
 
-**25.**[^key-4c9d5374c2512e77cc68ba890cf238a3] (1) This article applies if—
+**25.**[^c-4c9d5374c2512e77cc68ba890cf238a3] (1) This article applies if—
 
 - (a) before the coming into force of this Order the Secretary of State recommended, or refused to recommend, the exercise of the Royal prerogative of mercy in any case, and
 - (b) by virtue of the Northern Ireland Act 1998 (Amendment of Schedule 3) Order 2010 the Royal prerogative of mercy becomes exercisable on Her Majesty’s behalf under section 23(2) of the Northern Ireland Act 1998 in that case.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64fe74f0413d60254197dace5032603a]: Commencement: Art. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-64fe74f0413d60254197dace5032603a]: Commencement: Art. 24 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-4c9d5374c2512e77cc68ba890cf238a3]: Commencement: Art. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4c9d5374c2512e77cc68ba890cf238a3]: Commencement: Art. 25 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

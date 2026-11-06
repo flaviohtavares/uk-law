@@ -27,7 +27,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) (No. 2) Order 2001 (revoked)[^key-f367c8ad1b665adad6f642a26e99b325]
+The European Communities (Designation) (No. 2) Order 2001 (revoked)[^c-f367c8ad1b665adad6f642a26e99b325]
 
 Made
 
@@ -47,46 +47,46 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f367c8ad1b665adad6f642a26e99b325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f367c8ad1b665adad6f642a26e99b325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f367c8ad1b665adad6f642a26e99b325]
+## 1. Citation, commencement and interpretation[^c-f367c8ad1b665adad6f642a26e99b325]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers[^key-f367c8ad1b665adad6f642a26e99b325]
+## 2. Designation of Ministers[^c-f367c8ad1b665adad6f642a26e99b325]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the National Assembly for Wales[^key-f367c8ad1b665adad6f642a26e99b325]
+## 3. Designation of the National Assembly for Wales[^c-f367c8ad1b665adad6f642a26e99b325]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of earlier designation[^key-f367c8ad1b665adad6f642a26e99b325]
+## 4. Revocation of earlier designation[^c-f367c8ad1b665adad6f642a26e99b325]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f367c8ad1b665adad6f642a26e99b325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f367c8ad1b665adad6f642a26e99b325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESIGNATION OF MINISTERS[^key-f367c8ad1b665adad6f642a26e99b325]
+## SCHEDULE 1 — DESIGNATION OF MINISTERS[^c-f367c8ad1b665adad6f642a26e99b325]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — DESIGNATION OF THE NATIONAL ASSEMBLY FOR WALES[^key-f367c8ad1b665adad6f642a26e99b325]
+## SCHEDULE 2 — DESIGNATION OF THE NATIONAL ASSEMBLY FOR WALES[^c-f367c8ad1b665adad6f642a26e99b325]
 
 Article 2
 
-**1.**[^key-f367c8ad1b665adad6f642a26e99b325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f367c8ad1b665adad6f642a26e99b325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f367c8ad1b665adad6f642a26e99b325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f367c8ad1b665adad6f642a26e99b325] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f367c8ad1b665adad6f642a26e99b325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f367c8ad1b665adad6f642a26e99b325]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f367c8ad1b665adad6f642a26e99b325]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2555) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f367c8ad1b665adad6f642a26e99b325]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2555) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -44,7 +44,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with sections 92(5) and 95(4) of that Act, a draft of this Order has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-fa42fcdc157c75881a1453b6d32a4f37]
+## 1. Citation, commencement and extent[^c-fa42fcdc157c75881a1453b6d32a4f37]
 
 (1) This Order may be cited as the Insolvency (Protection of Essential Supplies) Order 2015 and comes into force on 1st October 2015.
 
@@ -58,7 +58,7 @@ In accordance with sections 92(5) and 95(4) of that Act, a draft of this Order h
 
 (4) Paragraph 3 of the Schedule extends to Scotland only.
 
-## 2. Protection of essential supplies[^key-ac8f464e14585cacfc0203e93555a9c3]
+## 2. Protection of essential supplies[^c-ac8f464e14585cacfc0203e93555a9c3]
 
 (1) Section 233 of the Insolvency Act 1986[^f00002] is amended in accordance with paragraphs (2) and (3).
 
@@ -100,9 +100,9 @@ In accordance with sections 92(5) and 95(4) of that Act, a draft of this Order h
 
 .
 
-(4)[^key-feb04296a9a6c44803995a9175c951f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-feb04296a9a6c44803995a9175c951f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2aa9e207f43f61122cb65436d2def645] (1) Section 372 of the Insolvency Act 1986[^f00008] is amended in accordance with paragraphs (2) and (3).
+**3.**[^c-2aa9e207f43f61122cb65436d2def645] (1) Section 372 of the Insolvency Act 1986[^f00008] is amended in accordance with paragraphs (2) and (3).
 
 (2) In subsection (4)—
 
@@ -143,7 +143,7 @@ In accordance with sections 92(5) and 95(4) of that Act, a draft of this Order h
 
 (4) Until the commencement of section 1 of the Water Act 2014, paragraph (ca) of section 372(4) of the Insolvency Act 1986 (as inserted by paragraph (2)(c)) is to be read as if for the words “water supply licensee” there were substituted the words “licensed water supplier”.
 
-## 4. Corporate Insolvency: Insolvency-related terms of a contract[^key-4387343e5b05aaf15477f9dddadfd7a8]
+## 4. Corporate Insolvency: Insolvency-related terms of a contract[^c-4387343e5b05aaf15477f9dddadfd7a8]
 
 After section 233 of the Insolvency Act 1986 insert—
 
@@ -200,7 +200,7 @@ After section 233 of the Insolvency Act 1986 insert—
 >
 > (10) Subsection (1) does not have effect in relation to a contract entered into before 1st October 2015.
 
-## 5. Individual Insolvency: Insolvency-related terms of a contract[^key-46c282426eb9a520512f498058dec076]
+## 5. Individual Insolvency: Insolvency-related terms of a contract[^c-46c282426eb9a520512f498058dec076]
 
 *Extent: E+W*
 
@@ -254,7 +254,7 @@ After section 372 of the Insolvency Act 1986 insert—
 >
 > (9) Subsection (1) does not have effect in relation to a contract entered into before 1st October 2015.
 
-## 6. Consequential amendments[^key-127f24f6cdea8ddf0c991466143ce86f]
+## 6. Consequential amendments[^c-127f24f6cdea8ddf0c991466143ce86f]
 
 The Schedule to this Order (which contains consequential amendments) shall have effect.
 
@@ -272,9 +272,9 @@ Article 6
 
 *Extent: E+W*
 
-**1.**[^key-fe51ae3e6b101b19793934a94cd2a0b3] In Article 4(3)(a) of the Insolvent Partnerships Order 1994[^f00009] after the words “section 233” insert “and section 233A”.
+**1.**[^c-fe51ae3e6b101b19793934a94cd2a0b3] In Article 4(3)(a) of the Insolvent Partnerships Order 1994[^f00009] after the words “section 233” insert “and section 233A”.
 
-**2.**[^key-ebb414402e59ada3755ea1c68b4d3f12] In Schedule 4 to the Limited Liability Partnerships Regulations 2001[^f00010] after the entry relating to section 233 insert—
+**2.**[^c-ebb414402e59ada3755ea1c68b4d3f12] In Schedule 4 to the Limited Liability Partnerships Regulations 2001[^f00010] after the entry relating to section 233 insert—
 
 > Section 233A to the extent that that section applies in the case of a voluntary arrangement taking effect
 
@@ -282,19 +282,19 @@ Article 6
 
 *Extent: S*
 
-**3.**[^key-e52deb347704486e3b9b524ab932d687] In Schedule 2 to the Limited Liability Partnerships (Scotland) Regulations 2001[^f00011] after the entry relating to section 233 insert—
+**3.**[^c-e52deb347704486e3b9b524ab932d687] In Schedule 2 to the Limited Liability Partnerships (Scotland) Regulations 2001[^f00011] after the entry relating to section 233 insert—
 
 > Section 233A to the extent that that section applies in the case of a voluntary arrangement taking effect
 
 .
 
-**4.**[^key-d215a831cacbe7118dff0e74457d9426] In section 145 of the Banking Act 2009[^f00012], in Table 2 after the entry for section 233 insert—
+**4.**[^c-d215a831cacbe7118dff0e74457d9426] In section 145 of the Banking Act 2009[^f00012], in Table 2 after the entry for section 233 insert—
 
 > |  |  |
 > | --- | --- |
 > | Section 233A | Further protection of utilities |
 
-**5.**[^key-dd3bb8947117ee32f662335b484441a0] In regulation 15 of the Investment Bank Special Administration Regulations 2011[^f00013], in Table 2 after the entry for section 233 insert—
+**5.**[^c-dd3bb8947117ee32f662335b484441a0] In regulation 15 of the Investment Bank Special Administration Regulations 2011[^f00013], in Table 2 after the entry for section 233 insert—
 
 > |  |  |
 > | --- | --- |
@@ -322,9 +322,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-fa42fcdc157c75881a1453b6d32a4f37]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/989/article/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-fa42fcdc157c75881a1453b6d32a4f37]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/989/article/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
-[^key-ac8f464e14585cacfc0203e93555a9c3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/989/article/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-ac8f464e14585cacfc0203e93555a9c3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/989/article/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00002]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); section 233(3) was amended by paragraph 78 of Schedule 25 to the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), paragraph 14 of Schedule 4 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), paragraph 47 of Schedule 6 to the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), paragraph 82 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), and paragraph 14 of the Schedule to [S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822).
 
@@ -336,34 +336,34 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00006]: Footnote: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3).
 
-[^key-feb04296a9a6c44803995a9175c951f0]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2015/989/article/2/4) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [31](https://www.legislation.gov.uk/uksi/2017/506/article/31)
+[^c-feb04296a9a6c44803995a9175c951f0]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/uksi/2015/989/article/2/4) omitted (31.3.2017) by virtue of [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [31](https://www.legislation.gov.uk/uksi/2017/506/article/31)
 
-[^key-2aa9e207f43f61122cb65436d2def645]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/989/article/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-2aa9e207f43f61122cb65436d2def645]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/989/article/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00008]: Footnote: Section 372(4) was amended by paragraph 78 of Schedule 25 to the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), paragraph 14 of Schedule 4 to the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), paragraph 47 of Schedule 6 to the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), paragraph 82 of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-4387343e5b05aaf15477f9dddadfd7a8]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/989/article/4) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-4387343e5b05aaf15477f9dddadfd7a8]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/989/article/4) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
-[^key-46c282426eb9a520512f498058dec076]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/989/article/5) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-46c282426eb9a520512f498058dec076]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/989/article/5) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
-[^key-127f24f6cdea8ddf0c991466143ce86f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/989/article/6) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-127f24f6cdea8ddf0c991466143ce86f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2015/989/article/6) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
-[^key-fe51ae3e6b101b19793934a94cd2a0b3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-fe51ae3e6b101b19793934a94cd2a0b3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/1) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00009]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), to which there are amendments not relevant to this Order.
 
-[^key-ebb414402e59ada3755ea1c68b4d3f12]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-ebb414402e59ada3755ea1c68b4d3f12]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/2) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00010]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), to which there are amendments not relevant to this Order.
 
-[^key-e52deb347704486e3b9b524ab932d687]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-e52deb347704486e3b9b524ab932d687]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/3) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00011]: Footnote: [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), to which there are amendments not relevant to this Order.
 
-[^key-d215a831cacbe7118dff0e74457d9426]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/4) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-d215a831cacbe7118dff0e74457d9426]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/4) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00012]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-dd3bb8947117ee32f662335b484441a0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/5) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
+[^c-dd3bb8947117ee32f662335b484441a0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/989/schedule/paragraph/5) in force at 1.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/989/article/1/1)
 
 [^f00013]: Footnote: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245), to which there are amendments not relevant to this Order.

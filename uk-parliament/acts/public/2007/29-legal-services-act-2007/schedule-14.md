@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 14 — Licensing authority's powers of intervention[^key-287fa3db90cc39ef9a2271d940d01cc2][^key-2efa5924b93f25b253621dfa92ac2a6d][^key-e86cf56d333b89820d2dab5bd4697501][^key-559070fc0379af0e8a2b07e90ec9627d]
+## SCHEDULE 14 — Licensing authority's powers of intervention[^c-287fa3db90cc39ef9a2271d940d01cc2][^c-2efa5924b93f25b253621dfa92ac2a6d][^c-e86cf56d333b89820d2dab5bd4697501][^c-559070fc0379af0e8a2b07e90ec9627d]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 102
 
 ### Introductory
 
-**1.**[^key-fc5b8354e3e727f6ad7406c4394a69a4] (1) This Schedule applies—
+**1.**[^c-fc5b8354e3e727f6ad7406c4394a69a4] (1) This Schedule applies—
 
 - (a) where, in relation to a licensed body and the relevant licensing authority, one or more of the intervention conditions is satisfied;
 - (b) where a licence granted to a body has expired (and has not been renewed or replaced by the relevant licensing authority).
@@ -54,7 +54,7 @@ Section 102
 - (a) a resolution for a voluntary winding-up of the body is passed without a declaration of solvency under section 89 of the Insolvency Act 1986 (c. 45);
 - (b) the body enters administration within the meaning of paragraph 1(2)(b) of Schedule B1 to that Act;
 - (c) an administrative receiver within the meaning of section 251 of that Act is appointed;
-- (d)[^key-3d54fa22bdfffb6c40fadc1b6ca94e35] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
+- (d)[^c-3d54fa22bdfffb6c40fadc1b6ca94e35] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
 - (e) an order for the winding up of the body is made.
 
 (4) The notice conditions referred to in sub-paragraph (2)(e) are—
@@ -73,7 +73,7 @@ Section 102
 
 ### Money: prohibition on payment
 
-**2.**[^key-672989672d4b51dd33ae1a5128b5ce59] (1) The licensing authority may apply to the High Court for an order under sub-paragraph (2), and the High Court may make the order if it thinks fit.
+**2.**[^c-672989672d4b51dd33ae1a5128b5ce59] (1) The licensing authority may apply to the High Court for an order under sub-paragraph (2), and the High Court may make the order if it thinks fit.
 
 (2) The order is that a person holding money on behalf of the licensed body may not make any payment of the money, except with the leave of the court.
 
@@ -95,7 +95,7 @@ Section 102
 
 ### Money etc: vesting in licensing authority
 
-**3.**[^key-cef400915d1c6b04340594d7d44a0767] (1) The sums of money to which this paragraph applies, and the right to recover or receive them, vest in the licensing authority if the licensing authority decides that they should do so.
+**3.**[^c-cef400915d1c6b04340594d7d44a0767] (1) The sums of money to which this paragraph applies, and the right to recover or receive them, vest in the licensing authority if the licensing authority decides that they should do so.
 
 (2) This paragraph applies to all sums of money held by or on behalf of the licensed body in connection with—
 
@@ -130,7 +130,7 @@ Section 102
 
 (11) A person who is guilty of an offence under sub-paragraph (10) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-**4.**[^key-63972154a58afa2d9bc58c3f0f779b5f] (1) Any rights to which this paragraph applies shall vest in the licensing authority if the licensing authority decides that they should do so.
+**4.**[^c-63972154a58afa2d9bc58c3f0f779b5f] (1) Any rights to which this paragraph applies shall vest in the licensing authority if the licensing authority decides that they should do so.
 
 (2) This paragraph applies to any right to recover or receive debts due to the licensed body in connection with its business.
 
@@ -141,7 +141,7 @@ Section 102
 
 (4) The licensing authority must give the licensed body, and any other person who owes a debt to which the order applies a copy of the licensing authority's decision.
 
-**5.**[^key-6c71f70dd390f4c8859ddd8c5f75e49d] (1) If the licensing authority takes possession of any sum of money to which paragraph 3 applies or by virtue of paragraph 4, it must pay it into a special account in the name of the licensing authority or a person nominated on its behalf.
+**5.**[^c-6c71f70dd390f4c8859ddd8c5f75e49d] (1) If the licensing authority takes possession of any sum of money to which paragraph 3 applies or by virtue of paragraph 4, it must pay it into a special account in the name of the licensing authority or a person nominated on its behalf.
 
 (2) A person nominated under sub-paragraph (1) holds that sum—
 
@@ -150,13 +150,13 @@ Section 102
 
 (3) A bank or other financial institution at which a special account is kept is under no obligation to ascertain whether it is being dealt with properly.
 
-**6.**[^key-10e0aa24e5099d920aa8becd9dc2c16f] (1) The licensing authority may make rules governing its treatment of sums vested in it under paragraph 3 or 4(3).
+**6.**[^c-10e0aa24e5099d920aa8becd9dc2c16f] (1) The licensing authority may make rules governing its treatment of sums vested in it under paragraph 3 or 4(3).
 
 (2) The rules may, in particular, make provision in respect of cases where the licensing authority, having taken such steps to do so as are reasonable in all the circumstances of the case, is unable to trace the person or persons beneficially entitled to any sum vested in the licensing authority under paragraph 3 or 4(3) (including provision which requires amounts to be paid into or out of any fund maintained by the licensing authority in connection with its compensation arrangements).
 
 ### Money: information
 
-**7.**[^key-f0c669a59e8fc59ebd00f4485542fa21] (1) The licensing authority may apply to the High Court for an order requiring a person to give the licensing authority—
+**7.**[^c-f0c669a59e8fc59ebd00f4485542fa21] (1) The licensing authority may apply to the High Court for an order requiring a person to give the licensing authority—
 
 - (a) information about any money held by the person on behalf of the licensed body, and the accounts in which it is held, or
 - (b) information relevant to identifying any money held by the licensed body or by another person on its behalf.
@@ -170,7 +170,7 @@ Section 102
 
 ### Notice to produce or deliver documents
 
-**8.**[^key-39190dc74c14c350f0380e66b3dcdc0e] (1) The licensing authority may give notice to the licensed body requiring it to produce or deliver all documents in its possession or under its control in connection with—
+**8.**[^c-39190dc74c14c350f0380e66b3dcdc0e] (1) The licensing authority may give notice to the licensed body requiring it to produce or deliver all documents in its possession or under its control in connection with—
 
 - (a) its activities as a licensed body,
 - (b) any trust of which it is or was a trustee, or
@@ -191,7 +191,7 @@ Section 102
 
 ### Order to produce or deliver documents
 
-**9.**[^key-f77d51a4de3b63bd0380cff85b06a47b] (1) The High Court may, on the application of the licensing authority, make an order for production or delivery—
+**9.**[^c-f77d51a4de3b63bd0380cff85b06a47b] (1) The High Court may, on the application of the licensing authority, make an order for production or delivery—
 
 - (a) in relation to a person required to produce documents under paragraph 8 and the documents the person was required to produce;
 - (b) if it is satisfied that there is reason to suspect that documents in relation to which the powers in paragraph 8 are exercisable have come into the possession or under the control of some person other than the licensed body, in relation to that person and those documents.
@@ -216,7 +216,7 @@ and to use property obtained under paragraph (b) for that purpose.
 
 ### Taking possession of documents etc under notice or order
 
-**10.**[^key-affb5485d2b81d64976da9faecdabb73][^key-2090634ecbdc8bfdb1bb3a238cf0af95][^key-81fdf5cde72bd78c77060cc76d5dec3d] (1) This paragraph applies where the licensing authority takes possession of documents or any other property under paragraph 8 or 9.
+**10.**[^c-affb5485d2b81d64976da9faecdabb73][^c-2090634ecbdc8bfdb1bb3a238cf0af95][^c-81fdf5cde72bd78c77060cc76d5dec3d] (1) This paragraph applies where the licensing authority takes possession of documents or any other property under paragraph 8 or 9.
 
 (2) On taking possession, it must give a notice to—
 
@@ -238,7 +238,7 @@ and to use property obtained under paragraph (b) for that purpose.
 
 ### Mail and other forms of communication
 
-**11.**[^key-4305c066468463a5dab359973f207ef0] (1) The High Court, on the application of the licensing authority, may from time to time make a communications redirection order.
+**11.**[^c-4305c066468463a5dab359973f207ef0] (1) The High Court, on the application of the licensing authority, may from time to time make a communications redirection order.
 
 (2) A communications redirection order is an order that specified communications to the licensed body are to be directed, in accordance with the order, to the licensing authority or any person appointed by the licensing authority.
 
@@ -266,17 +266,17 @@ and to use property obtained under paragraph (b) for that purpose.
 
 (8) The High Court may, on the application of the licensing authority, authorise the licensing authority, or a person appointed by it, to take such steps as may be specified in the order in relation to any website purporting to be or have been maintained by or on behalf of the licensed body, if the High Court is satisfied that the taking of those steps is necessary to protect the public interest or the interests of clients (or potential or former clients) of the licensed body.
 
-(9) In this paragraph “**postal operator**” and “**postal packet**” have the meaning given by section 27 of the Postal Services Act 2011[^key-4d27120e327c9e1844bd8c2f344fadae].
+(9) In this paragraph “**postal operator**” and “**postal packet**” have the meaning given by section 27 of the Postal Services Act 2011[^c-4d27120e327c9e1844bd8c2f344fadae].
 
 (10) This paragraph does not apply where the powers conferred by this Part of this Schedule are exercisable by virtue of paragraph 1(2)(e).
 
 ### Use of documents in licensing authority's possession
 
-**12.**[^key-5b5f5cb08745025ee7793be755c94ccc][^key-9fd01aad6b096db697518123c55b19c9][^key-3fb9d481dc9d1b48f21d787e47fa32a1] (1) The licensing authority may apply to the High Court for an order as to the disposal or destruction of any document or other property in its possession by virtue of paragraph 8, 9 or 11.
+**12.**[^c-5b5f5cb08745025ee7793be755c94ccc][^c-9fd01aad6b096db697518123c55b19c9][^c-3fb9d481dc9d1b48f21d787e47fa32a1] (1) The licensing authority may apply to the High Court for an order as to the disposal or destruction of any document or other property in its possession by virtue of paragraph 8, 9 or 11.
 
 (2) The court may make any order it thinks fit.
 
-**13.**[^key-5cb44fe7db642fc879ff0b1257cc4137][^key-677e4d1d6be715a9cabc4d06a262792e][^key-d06c844bd3d9cd418a8d0172e6d16a50] (1) The licensing authority may take copies of or extracts from any documents in its possession by virtue of paragraph 8, 9 or 11.
+**13.**[^c-5cb44fe7db642fc879ff0b1257cc4137][^c-677e4d1d6be715a9cabc4d06a262792e][^c-d06c844bd3d9cd418a8d0172e6d16a50] (1) The licensing authority may take copies of or extracts from any documents in its possession by virtue of paragraph 8, 9 or 11.
 
 (2) If the licensing authority proposes to deliver such documents to any person, it may make the delivery conditional on the person giving a reasonable undertaking to supply copies or extracts to the licensing authority.
 
@@ -284,7 +284,7 @@ and to use property obtained under paragraph (b) for that purpose.
 
 ### Trusts
 
-**14.**[^key-43c072c39afe4b6ba206a7cc0f4b6e73] (1) If the licensed body is a trustee of any trust, the licensing authority may apply to the High Court for an order for the appointment of a new trustee in substitution for it.
+**14.**[^c-43c072c39afe4b6ba206a7cc0f4b6e73] (1) If the licensed body is a trustee of any trust, the licensing authority may apply to the High Court for an order for the appointment of a new trustee in substitution for it.
 
 (2) If a person who is a manager or employee of the licensed body is a trustee of any trust in that person's capacity as such a manager or employee, the licensing authority may apply to the High Court for an order for the appointment of a new trustee in substitution for that person.
 
@@ -292,20 +292,20 @@ and to use property obtained under paragraph (b) for that purpose.
 
 ### General powers of licensing authority
 
-**15.**[^key-d362d6e29746e7df43cf8c115a8327cd][^key-faad114cd24a1e66901cd95dd009b081][^key-29dbd993a50afb516b54e8148dc5fe89] The powers conferred by this Schedule in relation to sums of money, documents or other property may be exercised despite any lien on them or right to their possession.
+**15.**[^c-d362d6e29746e7df43cf8c115a8327cd][^c-faad114cd24a1e66901cd95dd009b081][^c-29dbd993a50afb516b54e8148dc5fe89] The powers conferred by this Schedule in relation to sums of money, documents or other property may be exercised despite any lien on them or right to their possession.
 
-**16.**[^key-d362d6e29746e7df43cf8c115a8327cd][^key-7da5c553603fb510b7a41459b18f41d0][^key-29dbd993a50afb516b54e8148dc5fe89] The licensing authority may do all things which are reasonably necessary to facilitate the exercise of its powers under this Schedule.
+**16.**[^c-d362d6e29746e7df43cf8c115a8327cd][^c-7da5c553603fb510b7a41459b18f41d0][^c-29dbd993a50afb516b54e8148dc5fe89] The licensing authority may do all things which are reasonably necessary to facilitate the exercise of its powers under this Schedule.
 
 ### Licensing authority's costs
 
-**17.**[^key-d362d6e29746e7df43cf8c115a8327cd][^key-1926fdf373eaa88e664ae39e18956c39][^key-29dbd993a50afb516b54e8148dc5fe89] (1) Any costs incurred by the licensing authority for the purposes of this Schedule (including the costs of any person exercising powers under this Schedule on behalf of the licensing authority)—
+**17.**[^c-d362d6e29746e7df43cf8c115a8327cd][^c-1926fdf373eaa88e664ae39e18956c39][^c-29dbd993a50afb516b54e8148dc5fe89] (1) Any costs incurred by the licensing authority for the purposes of this Schedule (including the costs of any person exercising powers under this Schedule on behalf of the licensing authority)—
 
 - (a) are to be paid by the licensed body, and
 - (b) may be recovered from the licensed body as a debt owing to the licensing authority.
 
 (2) Sub-paragraph (1) is subject to any order for payment of costs that may be made on an application to the court under this Schedule.
 
-**18.**[^key-a91ee392beb7bf0e195fbe734c692af6] (1) The High Court, on the application of the licensing authority, may order a liable party to pay a specified proportion of the costs mentioned in paragraph 17.
+**18.**[^c-a91ee392beb7bf0e195fbe734c692af6] (1) The High Court, on the application of the licensing authority, may order a liable party to pay a specified proportion of the costs mentioned in paragraph 17.
 
 (2) For this purpose a “**liable party**” means—
 
@@ -318,66 +318,66 @@ and to use property obtained under paragraph (b) for that purpose.
 
 ## Annotations
 
-[^key-287fa3db90cc39ef9a2271d940d01cc2]: Modification: Sch. 14 applied (with modifications) (9.12.2014) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Modification of Functions) Order 2014 (S.I. 2014/3234)](https://www.legislation.gov.uk/uksi/2014/3234), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3234/article/1/1), [5](https://www.legislation.gov.uk/uksi/2014/3234/article/5)
+[^c-287fa3db90cc39ef9a2271d940d01cc2]: Modification: Sch. 14 applied (with modifications) (9.12.2014) by [The Legal Services Act 2007 (Chartered Institute of Legal Executives) (Modification of Functions) Order 2014 (S.I. 2014/3234)](https://www.legislation.gov.uk/uksi/2014/3234), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3234/article/1/1), [5](https://www.legislation.gov.uk/uksi/2014/3234/article/5)
 
-[^key-2efa5924b93f25b253621dfa92ac2a6d]: Modification: Sch. 14 applied (with modifications) (9.12.2014) by [The Legal Services Act 2007 (The Institute of Chartered Accountants in England and Wales) (Modification of Functions) Order 2014 (S.I. 2014/3236)](https://www.legislation.gov.uk/uksi/2014/3236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3236/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3236/article/3)
+[^c-2efa5924b93f25b253621dfa92ac2a6d]: Modification: Sch. 14 applied (with modifications) (9.12.2014) by [The Legal Services Act 2007 (The Institute of Chartered Accountants in England and Wales) (Modification of Functions) Order 2014 (S.I. 2014/3236)](https://www.legislation.gov.uk/uksi/2014/3236), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3236/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3236/article/3)
 
-[^key-e86cf56d333b89820d2dab5bd4697501]: Modification: Sch. 14 applied (with modifications) (9.12.2014) by [The Legal Services Act 2007 (the Chartered Institute of Patent Attorneys and the Institute of Trade Mark Attorneys) (Modification of Functions) Order 2014 (S.I. 2014/3238)](https://www.legislation.gov.uk/uksi/2014/3238), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2014/3238/schedule/2/paragraph/12), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2014/3238/schedule/4/paragraph/12) (as amended (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
+[^c-e86cf56d333b89820d2dab5bd4697501]: Modification: Sch. 14 applied (with modifications) (9.12.2014) by [The Legal Services Act 2007 (the Chartered Institute of Patent Attorneys and the Institute of Trade Mark Attorneys) (Modification of Functions) Order 2014 (S.I. 2014/3238)](https://www.legislation.gov.uk/uksi/2014/3238), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2014/3238/schedule/2/paragraph/12), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2014/3238/schedule/4/paragraph/12) (as amended (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
 
-[^key-559070fc0379af0e8a2b07e90ec9627d]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/14) applied (with modifications) (1.10.2018) by [The Legal Services Act 2007 (General Council of the Bar) (Modification of Functions) Order 2018 (S.I. 2018/448)](https://www.legislation.gov.uk/uksi/2018/448), [arts. 1](https://www.legislation.gov.uk/uksi/2018/448/article/1), [4](https://www.legislation.gov.uk/uksi/2018/448/article/4)
+[^c-559070fc0379af0e8a2b07e90ec9627d]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/29/schedule/14) applied (with modifications) (1.10.2018) by [The Legal Services Act 2007 (General Council of the Bar) (Modification of Functions) Order 2018 (S.I. 2018/448)](https://www.legislation.gov.uk/uksi/2018/448), [arts. 1](https://www.legislation.gov.uk/uksi/2018/448/article/1), [4](https://www.legislation.gov.uk/uksi/2018/448/article/4)
 
-[^key-fc5b8354e3e727f6ad7406c4394a69a4]: Commencement: Sch. 14 para. 1 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-fc5b8354e3e727f6ad7406c4394a69a4]: Commencement: Sch. 14 para. 1 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-3d54fa22bdfffb6c40fadc1b6ca94e35]: Textual amendment: Sch. 14 para. 1(3)(d) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/1/paragraph/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-3d54fa22bdfffb6c40fadc1b6ca94e35]: Textual amendment: Sch. 14 para. 1(3)(d) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/1/paragraph/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-672989672d4b51dd33ae1a5128b5ce59]: Commencement: Sch. 14 para. 2 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-672989672d4b51dd33ae1a5128b5ce59]: Commencement: Sch. 14 para. 2 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-cef400915d1c6b04340594d7d44a0767]: Commencement: Sch. 14 para. 3 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-cef400915d1c6b04340594d7d44a0767]: Commencement: Sch. 14 para. 3 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-63972154a58afa2d9bc58c3f0f779b5f]: Commencement: Sch. 14 para. 4 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-63972154a58afa2d9bc58c3f0f779b5f]: Commencement: Sch. 14 para. 4 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-6c71f70dd390f4c8859ddd8c5f75e49d]: Commencement: Sch. 14 para. 5 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-6c71f70dd390f4c8859ddd8c5f75e49d]: Commencement: Sch. 14 para. 5 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-10e0aa24e5099d920aa8becd9dc2c16f]: Commencement: Sch. 14 para. 6 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-10e0aa24e5099d920aa8becd9dc2c16f]: Commencement: Sch. 14 para. 6 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-f0c669a59e8fc59ebd00f4485542fa21]: Commencement: Sch. 14 para. 7 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-f0c669a59e8fc59ebd00f4485542fa21]: Commencement: Sch. 14 para. 7 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-39190dc74c14c350f0380e66b3dcdc0e]: Commencement: Sch. 14 para. 8 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-39190dc74c14c350f0380e66b3dcdc0e]: Commencement: Sch. 14 para. 8 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-f77d51a4de3b63bd0380cff85b06a47b]: Commencement: Sch. 14 para. 9 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-f77d51a4de3b63bd0380cff85b06a47b]: Commencement: Sch. 14 para. 9 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-affb5485d2b81d64976da9faecdabb73]: Modification: Sch. 14 para. 10 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
+[^c-affb5485d2b81d64976da9faecdabb73]: Modification: Sch. 14 para. 10 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
 
-[^key-2090634ecbdc8bfdb1bb3a238cf0af95]: Commencement: Sch. 14 para. 10 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-2090634ecbdc8bfdb1bb3a238cf0af95]: Commencement: Sch. 14 para. 10 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-81fdf5cde72bd78c77060cc76d5dec3d]: Modification: Sch. 14 para. 10 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
+[^c-81fdf5cde72bd78c77060cc76d5dec3d]: Modification: Sch. 14 para. 10 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
 
-[^key-4305c066468463a5dab359973f207ef0]: Commencement: Sch. 14 para. 11 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-4305c066468463a5dab359973f207ef0]: Commencement: Sch. 14 para. 11 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-4d27120e327c9e1844bd8c2f344fadae]: Textual amendment: Words in Sch. 14 para. 11(9) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 189](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/189); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-4d27120e327c9e1844bd8c2f344fadae]: Textual amendment: Words in Sch. 14 para. 11(9) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 189](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/189); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-5b5f5cb08745025ee7793be755c94ccc]: Modification: Sch. 14 para. 12 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
+[^c-5b5f5cb08745025ee7793be755c94ccc]: Modification: Sch. 14 para. 12 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
 
-[^key-9fd01aad6b096db697518123c55b19c9]: Commencement: Sch. 14 para. 12 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-9fd01aad6b096db697518123c55b19c9]: Commencement: Sch. 14 para. 12 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-3fb9d481dc9d1b48f21d787e47fa32a1]: Modification: Sch. 14 para. 12 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
+[^c-3fb9d481dc9d1b48f21d787e47fa32a1]: Modification: Sch. 14 para. 12 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
 
-[^key-5cb44fe7db642fc879ff0b1257cc4137]: Modification: Sch. 14 para. 13 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
+[^c-5cb44fe7db642fc879ff0b1257cc4137]: Modification: Sch. 14 para. 13 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
 
-[^key-677e4d1d6be715a9cabc4d06a262792e]: Commencement: Sch. 14 para. 13 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-677e4d1d6be715a9cabc4d06a262792e]: Commencement: Sch. 14 para. 13 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-d06c844bd3d9cd418a8d0172e6d16a50]: Modification: Sch. 14 para. 13 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
+[^c-d06c844bd3d9cd418a8d0172e6d16a50]: Modification: Sch. 14 para. 13 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
 
-[^key-43c072c39afe4b6ba206a7cc0f4b6e73]: Commencement: Sch. 14 para. 14 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-43c072c39afe4b6ba206a7cc0f4b6e73]: Commencement: Sch. 14 para. 14 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-d362d6e29746e7df43cf8c115a8327cd]: Modification: Sch. 14 paras. 15-17 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
+[^c-d362d6e29746e7df43cf8c115a8327cd]: Modification: Sch. 14 paras. 15-17 applied (with modifications) (12.9.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2011 (S.I. 2011/2038)](https://www.legislation.gov.uk/uksi/2011/2038), [art. 1](https://www.legislation.gov.uk/uksi/2011/2038/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/1/5)
 
-[^key-faad114cd24a1e66901cd95dd009b081]: Commencement: Sch. 14 para. 15 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-faad114cd24a1e66901cd95dd009b081]: Commencement: Sch. 14 para. 15 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-29dbd993a50afb516b54e8148dc5fe89]: Modification: Sch. 14 paras. 15-17 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
+[^c-29dbd993a50afb516b54e8148dc5fe89]: Modification: Sch. 14 paras. 15-17 applied (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2011/2866/article/5/5)
 
-[^key-7da5c553603fb510b7a41459b18f41d0]: Commencement: Sch. 14 para. 16 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-7da5c553603fb510b7a41459b18f41d0]: Commencement: Sch. 14 para. 16 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-1926fdf373eaa88e664ae39e18956c39]: Commencement: Sch. 14 para. 17 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-1926fdf373eaa88e664ae39e18956c39]: Commencement: Sch. 14 para. 17 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
 
-[^key-a91ee392beb7bf0e195fbe734c692af6]: Commencement: Sch. 14 para. 18 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)
+[^c-a91ee392beb7bf0e195fbe734c692af6]: Commencement: Sch. 14 para. 18 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/e)

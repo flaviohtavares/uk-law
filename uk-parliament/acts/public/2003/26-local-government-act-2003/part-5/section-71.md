@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Adjustments for hardship relief[^key-28b2c1cb75c17dce63878bf4180b0b9c][^key-53f0afdb199dcc90bd117281ca550b83]
+## 71. Adjustments for hardship relief[^c-28b2c1cb75c17dce63878bf4180b0b9c][^c-53f0afdb199dcc90bd117281ca550b83]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28b2c1cb75c17dce63878bf4180b0b9c]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/26/section/71) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-28b2c1cb75c17dce63878bf4180b0b9c]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/26/section/71) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-53f0afdb199dcc90bd117281ca550b83]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/26/section/71) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-53f0afdb199dcc90bd117281ca550b83]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/26/section/71) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)

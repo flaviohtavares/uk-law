@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Liability of officers for contraventions[^key-1cfd958118240f4a1e2bf91b3a53e361]
+## 47. Liability of officers for contraventions[^c-1cfd958118240f4a1e2bf91b3a53e361]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cfd958118240f4a1e2bf91b3a53e361]: Commencement: Reg. 47 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-1cfd958118240f4a1e2bf91b3a53e361]: Commencement: Reg. 47 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

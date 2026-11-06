@@ -44,18 +44,18 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the Economic Community, acting jointly, in exercise of the powers conferred on them by the said section 2(2), hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-dcc49803406dbc9ccef625e28d100b81]
+## 1. Citation and commencement[^c-dcc49803406dbc9ccef625e28d100b81]
 
 These Regulations may be cited as the Horses (Free Access to Competitions) Regulations 1992 and shall come into force on 1st January 1993.
 
-## 2. Interpretation[^key-3e91e22a93b2aae27f58afe789b2680b]
+## 2. Interpretation[^c-3e91e22a93b2aae27f58afe789b2680b]
 
 In these Regulations, unless the context otherwise requires–
 
 - “competition” means any equestrian competition, including horse racing, show-jumping, eventing, dressage, events reserved for horse-drawn vehicles and showing classes;
 - “horses” means domestic animals of the equine or asinine species or crossbreeds of those species.
 
-## 3. Application[^key-78c6d1a630d7e75d15d195f01a7f0ff2]
+## 3. Application[^c-78c6d1a630d7e75d15d195f01a7f0ff2]
 
 (1) These Regulations apply in England, Scotland and Wales to horses intended for competition and the conditions governing their participation therein.
 
@@ -65,9 +65,9 @@ In these Regulations, unless the context otherwise requires–
 - (b) regional competitions with a view to selecting horses;
 - (c) historic or traditional events.
 
-## 4. Rules governing non-discrimination[^key-8daabfad8405adbf6c58ecf8aa4cd981]
+## 4. Rules governing non-discrimination[^c-8daabfad8405adbf6c58ecf8aa4cd981]
 
-(1) The rules of any competition shall not discriminate between horses which are registered or originate in the United Kingdom and horses which are registered or originate in any[^key-ee027993e257f5a0ee344b40eeb6ecee] Member State.
+(1) The rules of any competition shall not discriminate between horses which are registered or originate in the United Kingdom and horses which are registered or originate in any[^c-ee027993e257f5a0ee344b40eeb6ecee] Member State.
 
 (2) Such rules of competition shall not discriminate in particular with regard to–
 
@@ -75,11 +75,11 @@ In these Regulations, unless the context otherwise requires–
 - (b) the judging of the competition;
 - (c) the prize money or profits which may accrue from the competition.
 
-## 5. Reasons for refusal[^key-636e160beb081798535d0718aeb3759f]
+## 5. Reasons for refusal[^c-636e160beb081798535d0718aeb3759f]
 
-The grounds on which a horse registered or originating in any[^key-3127d1960248eac32c8214c10912eee0] Member State is refused entry to a competition shall be communicated in writing by the organiser of the competition to the owner or his authorised representative.
+The grounds on which a horse registered or originating in any[^c-3127d1960248eac32c8214c10912eee0] Member State is refused entry to a competition shall be communicated in writing by the organiser of the competition to the owner or his authorised representative.
 
-## 6. Reservation of prize money or profits[^key-882694bf79ede29f9778a9914ae1ae23]
+## 6. Reservation of prize money or profits[^c-882694bf79ede29f9778a9914ae1ae23]
 
 (1) For each competition or type of competition, the competent authority may reserve, through bodies officially approved or recognised for that purpose, a certain percentage (which must not exceed 20%) of the prize money or profits for the safeguard, development and improvement of breeding.
 
@@ -116,18 +116,18 @@ These Regulations implement Council Directive [90/428/EEC](https://www.legislati
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-dcc49803406dbc9ccef625e28d100b81]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
+[^c-dcc49803406dbc9ccef625e28d100b81]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
 
-[^key-3e91e22a93b2aae27f58afe789b2680b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/3044/regulation/2) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
+[^c-3e91e22a93b2aae27f58afe789b2680b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/3044/regulation/2) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
 
-[^key-78c6d1a630d7e75d15d195f01a7f0ff2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/3044/regulation/3) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
+[^c-78c6d1a630d7e75d15d195f01a7f0ff2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/3044/regulation/3) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
 
-[^key-8daabfad8405adbf6c58ecf8aa4cd981]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/3044/regulation/4) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
+[^c-8daabfad8405adbf6c58ecf8aa4cd981]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/3044/regulation/4) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
 
-[^key-ee027993e257f5a0ee344b40eeb6ecee]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1992/3044/regulation/4/1) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [37(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/37/2)
+[^c-ee027993e257f5a0ee344b40eeb6ecee]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1992/3044/regulation/4/1) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [37(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/37/2)
 
-[^key-636e160beb081798535d0718aeb3759f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/3044/regulation/5) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
+[^c-636e160beb081798535d0718aeb3759f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/3044/regulation/5) in force at 1.1.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/3044/regulation/1)
 
-[^key-3127d1960248eac32c8214c10912eee0]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/1992/3044/regulation/5) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [37(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/37/3)
+[^c-3127d1960248eac32c8214c10912eee0]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/1992/3044/regulation/5) substituted (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [37(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/37/3)
 
-[^key-882694bf79ede29f9778a9914ae1ae23]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/3044/regulation/6) inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [39(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/39/2)
+[^c-882694bf79ede29f9778a9914ae1ae23]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/3044/regulation/6) inserted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [39(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/39/2)

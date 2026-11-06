@@ -146,7 +146,7 @@ For regulation 14 (control of feeding stuffs and feed materials containing undes
 
 .
 
-## 6.[^key-1f7e57718c24e566e8745c0f1fe53584]
+## 6.[^c-1f7e57718c24e566e8745c0f1fe53584]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -183,7 +183,7 @@ In Schedule 4 (contents of the statutory statement or other declaration (except 
     > - (d) the approval or registration number allocated in accordance with Article 5 or as the case may be 10 of the Establishments Directive to the establishment which manufactured the compound feeding stuff;
 
     ; and
-- (c)[^key-72e4f1649161a8276181afb638631f1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-72e4f1649161a8276181afb638631f1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 11.
 
@@ -391,9 +391,9 @@ Commission Regulation [(EC) No. 668/2003](https://www.legislation.gov.uk/europea
 
 [^c5048881]: Marginal citation: [S.I. 2003/1026](https://www.legislation.gov.uk/uksi/2003/1026).
 
-[^key-1f7e57718c24e566e8745c0f1fe53584]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1503/regulation/6) revoked (17.11.2006) by [The Feeding Stuffs (England) (Amendment) Regulations 2006 (S.I. 2006/2808)](https://www.legislation.gov.uk/uksi/2006/2808), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2808/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2808/regulation/3/b)
+[^c-1f7e57718c24e566e8745c0f1fe53584]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1503/regulation/6) revoked (17.11.2006) by [The Feeding Stuffs (England) (Amendment) Regulations 2006 (S.I. 2006/2808)](https://www.legislation.gov.uk/uksi/2006/2808), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2808/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2808/regulation/3/b)
 
-[^key-72e4f1649161a8276181afb638631f1a]: Textual amendment: [Reg. 10(c)](https://www.legislation.gov.uk/uksi/2003/1503/regulation/10/c) revoked (17.11.2006) by [The Feeding Stuffs (England) (Amendment) Regulations 2006 (S.I. 2006/2808)](https://www.legislation.gov.uk/uksi/2006/2808), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2808/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2808/regulation/3/b)
+[^c-72e4f1649161a8276181afb638631f1a]: Textual amendment: [Reg. 10(c)](https://www.legislation.gov.uk/uksi/2003/1503/regulation/10/c) revoked (17.11.2006) by [The Feeding Stuffs (England) (Amendment) Regulations 2006 (S.I. 2006/2808)](https://www.legislation.gov.uk/uksi/2006/2808), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2808/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/2808/regulation/3/b)
 
 [^c5048891]: Marginal citation: [S.I. 1999/1663](https://www.legislation.gov.uk/uksi/1999/1663), amended by [S.I. 1999/1871](https://www.legislation.gov.uk/uksi/1999/1871), [S.I](https://www.legislation.gov.uk/uksi/1999/1871/section/I). 2001/541, [S.I. 2002/892](https://www.legislation.gov.uk/uksi/2002/892) and [S.I. 2003/1296](https://www.legislation.gov.uk/uksi/2003/1296).
 

@@ -30,13 +30,13 @@ summary: ''
 (3) The ownership proportion is the same as the lowest of the following proportions—
 
 - (a) the proportion of the ordinary share capital of the surrendering company that is beneficially owned by the claimant company,
-- (b) the proportion of any profits available for distribution to equity holders of the surrendering company to which the claimant company is beneficially entitled (see Chapter 6), [^key-44cec4c840e87a88c9ecd5a98574d6e2]...
-- (c) the proportion of any assets of the surrendering company available for distribution to such equity holders on a winding up to which the claimant company would be beneficially entitled (see Chapter 6) , and[^key-538f19f8cd8283635dde9b4d73f5b0af]
+- (b) the proportion of any profits available for distribution to equity holders of the surrendering company to which the claimant company is beneficially entitled (see Chapter 6), [^c-44cec4c840e87a88c9ecd5a98574d6e2]...
+- (c) the proportion of any assets of the surrendering company available for distribution to such equity holders on a winding up to which the claimant company would be beneficially entitled (see Chapter 6) , and[^c-538f19f8cd8283635dde9b4d73f5b0af]
 - (d) the proportion of the voting power in the surrendering company that is directly possessed by the claimant company.
 
 (4) For the purposes of subsection (3)—
 
-- (a) the proportions mentioned in paragraphs (a) to (d)[^key-a4212d4a1001c8ed07000343d7e32bbb] of that subsection are those prevailing during the overlapping period, and
+- (a) the proportions mentioned in paragraphs (a) to (d)[^c-a4212d4a1001c8ed07000343d7e32bbb] of that subsection are those prevailing during the overlapping period, and
 - (b) if any of those proportions changes during that period, use the average of that proportion during that period.
 
 (5) If the surrendering company is owned by the consortium as a result of section 153(3) (consortiums involving holding companies), references in subsection (3) to the surrendering company are to be read as references to the holding company in question.
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-44cec4c840e87a88c9ecd5a98574d6e2]: Textual amendment: Word in s. 143(3)(b) omitted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/7/2/a)
+[^c-44cec4c840e87a88c9ecd5a98574d6e2]: Textual amendment: Word in s. 143(3)(b) omitted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/7/2/a)
 
-[^key-538f19f8cd8283635dde9b4d73f5b0af]: Textual amendment: S. 143(3)(d) and word inserted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/7/2/b)
+[^c-538f19f8cd8283635dde9b4d73f5b0af]: Textual amendment: S. 143(3)(d) and word inserted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/7/2/b)
 
-[^key-a4212d4a1001c8ed07000343d7e32bbb]: Textual amendment: Words in s. 143(4)(a) substituted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/7/3)
+[^c-a4212d4a1001c8ed07000343d7e32bbb]: Textual amendment: Words in s. 143(4)(a) substituted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 7(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/7/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95A. Use of fixed penalty receipts: higher tier authorities in England[^key-95a699d419269dbb46c352ad1a3bda39]
+## 95A. Use of fixed penalty receipts: higher tier authorities in England[^c-95a699d419269dbb46c352ad1a3bda39]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95a699d419269dbb46c352ad1a3bda39]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/2005/16/section/95A) inserted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/3/a)
+[^c-95a699d419269dbb46c352ad1a3bda39]: Textual amendment: [S. 95A](https://www.legislation.gov.uk/ukpga/2005/16/section/95A) inserted (1.4.2024) by [The Waste Enforcement (Fixed Penalty Receipts) (Amendment) (England and Wales) Regulations 2024 (S.I. 2024/365)](https://www.legislation.gov.uk/uksi/2024/365), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/365/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/365/regulation/3/a)

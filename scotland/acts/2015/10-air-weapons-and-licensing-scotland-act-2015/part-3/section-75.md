@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Restriction of exemption from requirement for public entertainment licence[^key-ad8efb8ecd0e8b8f5426af8732282be1]
+## 75. Restriction of exemption from requirement for public entertainment licence[^c-ad8efb8ecd0e8b8f5426af8732282be1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 41(2) of the 1982 Act (places not requiring public entertainment lice
 
 ## Annotations
 
-[^key-ad8efb8ecd0e8b8f5426af8732282be1]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2015/10/section/75) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/307/article/3))
+[^c-ad8efb8ecd0e8b8f5426af8732282be1]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2015/10/section/75) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/307/article/3))

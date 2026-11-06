@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Removal of human remains[^key-38228fc7c5c70080d5948507508d9c7f]
+## 18. Removal of human remains[^c-38228fc7c5c70080d5948507508d9c7f]
 
 *Extent: E+W+S*
 
@@ -66,6 +66,6 @@ subject to paragraph (9), the undertaker must remove the remains and cause them 
 
 ## Annotations
 
-[^key-38228fc7c5c70080d5948507508d9c7f]: Commencement: Art. 18 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-38228fc7c5c70080d5948507508d9c7f]: Commencement: Art. 18 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
 
 [^f00040]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 Substituted by Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1) section 2. There are other amendments to this Act which are not relevant to this Order.

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. PNA based applications for new premises offering additional or different opening hours[^key-545a6b8960cc4ec722a3ef45cdaf9423]
+## 21A. PNA based applications for new premises offering additional or different opening hours[^c-545a6b8960cc4ec722a3ef45cdaf9423]
 
 *Extent: E+W+S+N.I.*
 
-(1) Paragraph (2) applies where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] receives a routine application which is in respect of premises not already listed, where—
+(1) Paragraph (2) applies where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] receives a routine application which is in respect of premises not already listed, where—
 
 - (a) the applicant’s stated intention (in accordance with paragraph 7(1)(a) of Schedule 2) is to meet a need, or secure improvements or better access, identified in the relevant pharmaceutical needs assessment (whether current or future gaps in provision); and
 - (b) the need is, or the improvements are or the better access is, in respect of the days on which or the times at which essential services are provided in the area of the relevant HWB.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-545a6b8960cc4ec722a3ef45cdaf9423]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2013/349/regulation/21A) inserted (1.1.2022) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2021/1346/regulation/5)
+[^c-545a6b8960cc4ec722a3ef45cdaf9423]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2013/349/regulation/21A) inserted (1.1.2022) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2021/1346/regulation/5)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

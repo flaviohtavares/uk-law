@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Consequential amendments[^key-6054a0c1fd1fbb67484aaed38e592604]
+## 48. Consequential amendments[^c-6054a0c1fd1fbb67484aaed38e592604]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 contains consequential amendments relating to sections 44 to 46.
 
 ## Annotations
 
-[^key-6054a0c1fd1fbb67484aaed38e592604]: Commencement: S. 48 in force at 22.10.2012 for specified purposes by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/2/d)
+[^c-6054a0c1fd1fbb67484aaed38e592604]: Commencement: S. 48 in force at 22.10.2012 for specified purposes by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/2/d)

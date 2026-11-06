@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Regulators of legal services: objective relating to economic crime[^key-2c4785a66a2c7ee37c0c7479abe82db0][^key-d65fb6f1019ab56b3a2a45f1887aab8d]
+## 209. Regulators of legal services: objective relating to economic crime[^c-2c4785a66a2c7ee37c0c7479abe82db0][^c-d65fb6f1019ab56b3a2a45f1887aab8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4785a66a2c7ee37c0c7479abe82db0]: Commencement: S. 209 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-2c4785a66a2c7ee37c0c7479abe82db0]: Commencement: S. 209 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-d65fb6f1019ab56b3a2a45f1887aab8d]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2023/56/section/209) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z63)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z63)
+[^c-d65fb6f1019ab56b3a2a45f1887aab8d]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2023/56/section/209) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z63)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z63)

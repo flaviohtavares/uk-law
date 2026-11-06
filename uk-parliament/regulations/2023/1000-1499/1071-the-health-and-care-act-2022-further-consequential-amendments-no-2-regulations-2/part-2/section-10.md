@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of the Community Health Partnerships (Scotland) Regulations 2004[^key-a30751af0da7b498f3df7ddaaff38f28]
+## 10. Amendment of the Community Health Partnerships (Scotland) Regulations 2004[^c-a30751af0da7b498f3df7ddaaff38f28]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a30751af0da7b498f3df7ddaaff38f28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1071/regulation/10) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-a30751af0da7b498f3df7ddaaff38f28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1071/regulation/10) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00010]: Footnote: [S.S.I. 2004/386](https://www.legislation.gov.uk/ssi/2004/386), relevant amending instruments are [S.S.I. 2010/422](https://www.legislation.gov.uk/ssi/2010/422) and [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).

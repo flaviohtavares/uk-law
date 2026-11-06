@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Awards to servicemen[^key-eb5c8217c76000dfda6e5a97e407858d]
+## 83. Awards to servicemen[^c-eb5c8217c76000dfda6e5a97e407858d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb5c8217c76000dfda6e5a97e407858d]: Commencement: Reg. 83 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-eb5c8217c76000dfda6e5a97e407858d]: Commencement: Reg. 83 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

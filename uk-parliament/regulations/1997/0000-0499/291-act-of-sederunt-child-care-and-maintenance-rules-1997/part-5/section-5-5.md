@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.5. Inspection[^key-680d938ac9faf14c677a2a1337808229]
+## 5.5. Inspection[^c-680d938ac9faf14c677a2a1337808229]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ permit that person or his solicitor, as the case may be, to inspect any such ent
 
 ## Annotations
 
-[^key-680d938ac9faf14c677a2a1337808229]: Commencement: Rule 5.5 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-680d938ac9faf14c677a2a1337808229]: Commencement: Rule 5.5 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

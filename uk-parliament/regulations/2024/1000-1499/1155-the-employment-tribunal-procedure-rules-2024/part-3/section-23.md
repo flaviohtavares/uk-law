@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Notification of acceptance[^key-9f3a5f2a3be91e138213e294c4fca048]
+## 23. Notification of acceptance[^c-9f3a5f2a3be91e138213e294c4fca048]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to rule 93(6) (national security proceedings), where the Tribunal accept
 
 ## Annotations
 
-[^key-9f3a5f2a3be91e138213e294c4fca048]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2024/1155/rule/23) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-9f3a5f2a3be91e138213e294c4fca048]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2024/1155/rule/23) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

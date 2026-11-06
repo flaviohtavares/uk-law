@@ -27,7 +27,7 @@ summary: ''
 
 (2) For the purposes of that section—
 
-- (a) any question whether a person is connected with the seller shall be determined in accordance with the provisions of section 1122 of the Corporation Tax Act 2010[^key-77dc1f17dbc541b00c6b0528d57d92d7];
+- (a) any question whether a person is connected with the seller shall be determined in accordance with the provisions of section 1122 of the Corporation Tax Act 2010[^c-77dc1f17dbc541b00c6b0528d57d92d7];
 - (b) the relevant period is the period beginning with the time of the disposal of the asset or interest and ending with the time when the first claim is made for the allowance, for the lessee’s oil field, of expenditure incurred by the lessee or a successor of his under the lease in question or a lease of the relevant asset (and in this paragraph the reference to the lessee includes a reference to a person who is treated as the lessee by virtue of section 96 above);
 - (c) the applicable rate of tax is the rate at which tax is charged under section 1(2) of the principal Act at the time of the disposal of the asset or interest;
 - (d) the amount of the disposal receipts is the aggregate of the amount or value of any consideration received or receivable by the seller in respect of the disposal of the asset or interest;
@@ -49,7 +49,7 @@ shall be construed in accordance with Schedule 17 to the [^c1126310]Finance Act 
 (6) In this section and sections 95 and 96 above—
 
 - “**the chargeable field**” has the same meaning as in the Oil Taxation Act 1983;
-- “**lease**”, in relation to an asset, has the same meaning as in Chapter 3 of Part 19 of CTA 2010 (see section 868)[^key-87e11a5b4ccc63822b683f8f3807a9b4];
+- “**lease**”, in relation to an asset, has the same meaning as in Chapter 3 of Part 19 of CTA 2010 (see section 868)[^c-87e11a5b4ccc63822b683f8f3807a9b4];
 - “**the lease in question**”, “**the lessee**”, “**the lessee’s oil field**”, “**the relevant asset**”, “**the seller**” and “**the seller’s oil field**” shall be construed in accordance with section 95(1) above;
 - “**operating expenditure**” means expenditure (for example, in respect of the provision of staff or crew or the maintenance or operation of the relevant asset) of such a nature that the lessee or, as the case may be, his successor would or might have incurred it, otherwise than under any arrangements to finance his ownership, if he had been the owner of the asset;
 - “**the new participator’s lease**” shall be construed in accordance with section 96(1) above;
@@ -61,12 +61,12 @@ shall be construed in accordance with Schedule 17 to the [^c1126310]Finance Act 
 
 ## Annotations
 
-[^key-77dc1f17dbc541b00c6b0528d57d92d7]: Textual amendment: Words in s. 97(2)(a) substituted (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 301](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/301) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-77dc1f17dbc541b00c6b0528d57d92d7]: Textual amendment: Words in s. 97(2)(a) substituted (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 301](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/301) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c1126309]: Marginal citation: [1983 c.56](https://www.legislation.gov.uk/ukpga/1983/56).
 
 [^c1126310]: Marginal citation: [1980 c.48](https://www.legislation.gov.uk/ukpga/1980/48).
 
-[^key-87e11a5b4ccc63822b683f8f3807a9b4]: Textual amendment: Words in s. 97(6) substituted (1.4.2010 with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 248](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/248) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-87e11a5b4ccc63822b683f8f3807a9b4]: Textual amendment: Words in s. 97(6) substituted (1.4.2010 with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 248](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/248) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c1126311]: Marginal citation: [1975 c.22](https://www.legislation.gov.uk/ukpga/1975/22).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Minor and consequential amendments[^key-24193e125e884b091813b46a36444fee]
+## 173. Minor and consequential amendments[^c-24193e125e884b091813b46a36444fee]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 16 makes minor and consequential amendments in connection with sections
 
 ## Annotations
 
-[^key-24193e125e884b091813b46a36444fee]: Commencement: S. 173 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-24193e125e884b091813b46a36444fee]: Commencement: S. 173 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)

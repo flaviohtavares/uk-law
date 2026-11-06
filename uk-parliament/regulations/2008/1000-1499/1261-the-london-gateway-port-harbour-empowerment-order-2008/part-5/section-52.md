@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Incorporation of Police and Criminal Evidence Act 1984[^key-3322ab97ca47716162e214a5ba0bdf8f]
+## 52. Incorporation of Police and Criminal Evidence Act 1984[^c-3322ab97ca47716162e214a5ba0bdf8f]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Part 1 (powers to stop and search), Part 2 (powers of entry, search and seizure)
 
 ## Annotations
 
-[^key-3322ab97ca47716162e214a5ba0bdf8f]: Commencement: Art. 52 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-3322ab97ca47716162e214a5ba0bdf8f]: Commencement: Art. 52 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00028]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).

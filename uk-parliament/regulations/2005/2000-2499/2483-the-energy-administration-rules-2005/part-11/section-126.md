@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Services of notices following appointment[^key-bdaa0c0550b488ce74545e1640897a4a]
+## 126. Services of notices following appointment[^c-bdaa0c0550b488ce74545e1640897a4a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under Rule 124 has the same
 
 ## Annotations
 
-[^key-bdaa0c0550b488ce74545e1640897a4a]: Commencement: Rule 126 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-bdaa0c0550b488ce74545e1640897a4a]: Commencement: Rule 126 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

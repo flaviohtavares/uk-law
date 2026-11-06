@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Finding of domestic abuse[^key-dfe0528a402db7dbe65c5080cc569a3d]
+## 56A. Finding of domestic abuse[^c-dfe0528a402db7dbe65c5080cc569a3d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfe0528a402db7dbe65c5080cc569a3d]: Textual amendment: Pt. 3 Ch. 6 inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/1), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/a)
+[^c-dfe0528a402db7dbe65c5080cc569a3d]: Textual amendment: Pt. 3 Ch. 6 inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/1), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Finance: production of documents[^key-a5a99f4203dbb0bdec5070d7b8a95c0f]
+## 59. Finance: production of documents[^c-a5a99f4203dbb0bdec5070d7b8a95c0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5a99f4203dbb0bdec5070d7b8a95c0f]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-a5a99f4203dbb0bdec5070d7b8a95c0f]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

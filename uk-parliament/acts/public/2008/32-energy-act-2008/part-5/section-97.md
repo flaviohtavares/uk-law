@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Power to amend licence conditions: electricity[^key-2d92a0a38917eed1b2e46898e643097f]
+## 97. Power to amend licence conditions: electricity[^c-2d92a0a38917eed1b2e46898e643097f]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d92a0a38917eed1b2e46898e643097f]: Commencement: S. 97 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/iv)
+[^c-2d92a0a38917eed1b2e46898e643097f]: Commencement: S. 97 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/iv)

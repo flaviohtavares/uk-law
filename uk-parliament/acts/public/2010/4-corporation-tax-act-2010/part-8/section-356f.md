@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356F. Transfer of allowances between sites[^key-85a4309dc4c6cdaa460c0f2040952fa9]
+## 356F. Transfer of allowances between sites[^c-85a4309dc4c6cdaa460c0f2040952fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ T is the total amount of onshore allowance generated in that period for that sit
 
 ## Annotations
 
-[^key-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)
+[^c-85a4309dc4c6cdaa460c0f2040952fa9]: Textual amendment: Pt. 8 Ch. 8 inserted (with effect in accordance with Sch. 15 paras. 6(1), 9(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/15/paragraph/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. ONR to provide an annual report to the Secretary of State[^key-941744feb1ef97aa0b1148aa2dcb9d2c]
+## 41. ONR to provide an annual report to the Secretary of State[^c-941744feb1ef97aa0b1148aa2dcb9d2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-941744feb1ef97aa0b1148aa2dcb9d2c]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/196/regulation/41) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/835/regulation/27)
+[^c-941744feb1ef97aa0b1148aa2dcb9d2c]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/196/regulation/41) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/835/regulation/27)

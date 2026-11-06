@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Low-value shoplifting[^key-871d91f619a9194a442e8f2f26ea7b70]
+## 176. Low-value shoplifting[^c-871d91f619a9194a442e8f2f26ea7b70]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-871d91f619a9194a442e8f2f26ea7b70]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2014/12/section/176) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)
+[^c-871d91f619a9194a442e8f2f26ea7b70]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2014/12/section/176) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/17)

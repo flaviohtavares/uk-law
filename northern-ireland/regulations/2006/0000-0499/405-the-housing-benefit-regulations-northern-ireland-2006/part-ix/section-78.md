@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Calculation of weekly amounts[^key-d2ae59578e19cfcee57fbdf7801c52c1]
+## 78. Calculation of weekly amounts[^c-d2ae59578e19cfcee57fbdf7801c52c1]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 (6) Where a change in the amount of a claimant’s applicable amount, income or non-dependant deductions falls to be taken into account in the same benefit week as a change in his eligible rent or rates to which paragraph (4)(c) applies, it shall be taken into account in that week on a daily basis in the same manner and as if it had occurred on the same day as that change in his eligible rent or rates.
 
-(7)[^key-d08662304490bee2ecb7c905d1875aa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d08662304490bee2ecb7c905d1875aa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Any amount determined under these Regulations may, if it is appropriate, be rounded to the nearest whole penny by disregarding any amount less than half a penny and treating any amount of half a penny or more as a whole penny.
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ae59578e19cfcee57fbdf7801c52c1]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2006/405/regulation/78) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-d2ae59578e19cfcee57fbdf7801c52c1]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2006/405/regulation/78) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-d08662304490bee2ecb7c905d1875aa0]: Textual amendment: [Reg. 78(7)](https://www.legislation.gov.uk/nisr/2006/405/regulation/78/7) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/6/c)
+[^c-d08662304490bee2ecb7c905d1875aa0]: Textual amendment: [Reg. 78(7)](https://www.legislation.gov.uk/nisr/2006/405/regulation/78/7) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/nisr/2008/285/regulation/2/6/c)

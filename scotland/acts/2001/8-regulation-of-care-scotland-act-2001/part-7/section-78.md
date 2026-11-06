@@ -25,11 +25,11 @@ summary: ''
 (2) A statutory instrument containing—
 
 - (a) regulations under section 28(1)(a), 56(1)(a) or 73(2)(b);
-- (b) an order under section 3 or 25(5A)[^key-aa24c5b66b9adbce2b08b7bc103fdc10]; or
+- (b) an order under section 3 or 25(5A)[^c-aa24c5b66b9adbce2b08b7bc103fdc10]; or
 - (c) if it amends or repeals an enactment, an order under section 80(2),
 
 of this Act shall not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament.
 
 ## Annotations
 
-[^key-aa24c5b66b9adbce2b08b7bc103fdc10]: Textual amendment: Words in s. 78(2)(b) inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 31(3)](https://www.legislation.gov.uk/asp/2005/13/section/31/3), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-aa24c5b66b9adbce2b08b7bc103fdc10]: Textual amendment: Words in s. 78(2)(b) inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 31(3)](https://www.legislation.gov.uk/asp/2005/13/section/31/3), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)

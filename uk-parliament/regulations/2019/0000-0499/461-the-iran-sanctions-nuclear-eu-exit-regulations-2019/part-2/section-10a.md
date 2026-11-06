@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Insolvency[^key-db07abbac19bd381ce417ed2ad94641a]
+## 10A. Insolvency[^c-db07abbac19bd381ce417ed2ad94641a]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ provided that any payments made directly or indirectly to a designated person ar
 
 ## Annotations
 
-[^key-db07abbac19bd381ce417ed2ad94641a]: Textual amendment: [Sch. 2 paras. 10A](https://www.legislation.gov.uk/uksi/2019/461/schedule/2/paragraph/10A), [10B](https://www.legislation.gov.uk/uksi/2019/461/schedule/2/paragraph/10B) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [6(13)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/6/13/c)
+[^c-db07abbac19bd381ce417ed2ad94641a]: Textual amendment: [Sch. 2 paras. 10A](https://www.legislation.gov.uk/uksi/2019/461/schedule/2/paragraph/10A), [10B](https://www.legislation.gov.uk/uksi/2019/461/schedule/2/paragraph/10B) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [6(13)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/6/13/c)

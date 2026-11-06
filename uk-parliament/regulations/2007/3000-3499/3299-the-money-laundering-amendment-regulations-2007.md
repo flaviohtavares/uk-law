@@ -48,11 +48,11 @@ The Treasury are a government department designated[^f00001] for the purposes of
 
 The Treasury, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, make the following Regulations:
 
-## 1. Citation and commencement[^key-f5ae93daa02b09f2b5cb845d82063a1e]
+## 1. Citation and commencement[^c-f5ae93daa02b09f2b5cb845d82063a1e]
 
 These Regulations may be cited as the Money Laundering (Amendment) Regulations 2007 and come into force on 15th December 2007.
 
-## 2. Amendments to the Money Laundering Regulations 2007[^key-be9676888be9fb21528d4f89bc3e6f92]
+## 2. Amendments to the Money Laundering Regulations 2007[^c-be9676888be9fb21528d4f89bc3e6f92]
 
 The Money Laundering Regulations 2007[^f00003] are amended as follows—
 
@@ -105,8 +105,8 @@ Regulation 2(b) specifies that “communications” in relation to the grounds o
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51). By virtue of the amendment of section 1(2) made by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992 (Cm 2073, OJ No L 1, 3.11.1994, p. 3) and the Protocol adjusting that Agreement signed at Brussels on 17<sup>th</sup> March 1993 (Cm 2183, OJ No L 1, 3.1.1994, p.572). For the decision of the EEA Joint Committee in relation to Directive [2005/60/EC](https://www.legislation.gov.uk/european/directive/2005/0060), see Decision No 87/2006 of 7th July 2006 amending Annex IX (Financial Services) to the EEA Agreement (OJ No L 289 19.10.2006, p. 23).
 
-[^key-f5ae93daa02b09f2b5cb845d82063a1e]: Commencement: Reg. 1 in force at 15.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3299/regulation/1)
+[^c-f5ae93daa02b09f2b5cb845d82063a1e]: Commencement: Reg. 1 in force at 15.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3299/regulation/1)
 
-[^key-be9676888be9fb21528d4f89bc3e6f92]: Commencement: Reg. 2 in force at 15.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3299/regulation/1)
+[^c-be9676888be9fb21528d4f89bc3e6f92]: Commencement: Reg. 2 in force at 15.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3299/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).

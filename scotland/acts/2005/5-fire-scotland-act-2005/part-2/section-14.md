@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: S*
 
-(1) SFRS[^key-d184ca541066f994b116dceca93907f1] may provide—
+(1) SFRS[^c-d184ca541066f994b116dceca93907f1] may provide—
 
 - (a) the services of any persons employed by it; or
 - (b) any equipment maintained by it,
 
-to any person for any purpose that appears to SFRS[^key-9056b448774519e5e7f87d085870b8bb] to be appropriate.
+to any person for any purpose that appears to SFRS[^c-9056b448774519e5e7f87d085870b8bb] to be appropriate.
 
-(2) SFRS[^key-d943fa2e85bb3586b6146a6abab88701] may provide services or equipment under this section within or outwith its area.
+(2) SFRS[^c-d943fa2e85bb3586b6146a6abab88701] may provide services or equipment under this section within or outwith its area.
 
 ## Annotations
 
-[^key-d184ca541066f994b116dceca93907f1]: Textual amendment: Word in s. 14(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 108(a)(i)](https://www.legislation.gov.uk/asp/2012/8/section/108/a/i), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d184ca541066f994b116dceca93907f1]: Textual amendment: Word in s. 14(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 108(a)(i)](https://www.legislation.gov.uk/asp/2012/8/section/108/a/i), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-9056b448774519e5e7f87d085870b8bb]: Textual amendment: Word in s. 14(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 108(a)(ii)](https://www.legislation.gov.uk/asp/2012/8/section/108/a/ii), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-9056b448774519e5e7f87d085870b8bb]: Textual amendment: Word in s. 14(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 108(a)(ii)](https://www.legislation.gov.uk/asp/2012/8/section/108/a/ii), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-d943fa2e85bb3586b6146a6abab88701]: Textual amendment: Word in s. 14(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 108(b)](https://www.legislation.gov.uk/asp/2012/8/section/108/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d943fa2e85bb3586b6146a6abab88701]: Textual amendment: Word in s. 14(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 108(b)](https://www.legislation.gov.uk/asp/2012/8/section/108/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

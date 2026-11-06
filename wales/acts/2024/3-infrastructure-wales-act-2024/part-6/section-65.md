@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Land to which authorisation of compulsory acquisition can relate[^key-2d882068286b52df1a3631cafd80e877][^key-afb8bd4d6b1d3d953333c6ec017e9ed2]
+## 65. Land to which authorisation of compulsory acquisition can relate[^c-2d882068286b52df1a3631cafd80e877][^c-afb8bd4d6b1d3d953333c6ec017e9ed2]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d882068286b52df1a3631cafd80e877]: Commencement: S. 65 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-2d882068286b52df1a3631cafd80e877]: Commencement: S. 65 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-afb8bd4d6b1d3d953333c6ec017e9ed2]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2024/3/section/65) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-afb8bd4d6b1d3d953333c6ec017e9ed2]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2024/3/section/65) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

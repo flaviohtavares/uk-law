@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Safeguarding - overarching requirement[^key-85592a9b79614ae89a8eb6baeaa7aef3]
+## 19. Safeguarding - overarching requirement[^c-85592a9b79614ae89a8eb6baeaa7aef3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must provide the service in a way which ensures that indivi
 
 ## Annotations
 
-[^key-85592a9b79614ae89a8eb6baeaa7aef3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/762/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-85592a9b79614ae89a8eb6baeaa7aef3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/762/regulation/19) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

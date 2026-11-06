@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Power to enter premises in order to obtain documents, etc[^key-368b1940febd28e3e4c169cf40f18073][^key-05e8d3693ba4e959300c6d42c2f72b31]
+## 97. Power to enter premises in order to obtain documents, etc[^c-368b1940febd28e3e4c169cf40f18073][^c-05e8d3693ba4e959300c6d42c2f72b31]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ This is subject to section 98 (which provides that a warrant is necessary to ent
 
 ## Annotations
 
-[^key-368b1940febd28e3e4c169cf40f18073]: Commencement: S. 97 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-368b1940febd28e3e4c169cf40f18073]: Commencement: S. 97 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-05e8d3693ba4e959300c6d42c2f72b31]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/36/section/97) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(d)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/d)
+[^c-05e8d3693ba4e959300c6d42c2f72b31]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/36/section/97) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(d)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/d)

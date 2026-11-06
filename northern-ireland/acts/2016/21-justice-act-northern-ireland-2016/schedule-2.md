@@ -24,7 +24,7 @@ Section 28.
 
 ### Criminal Justice Act (Northern Ireland) 1945
 
-**1.**[^key-9341d0dd5d1eb79728a232c418ecb266] (1) In section 35 (powers of courts in relation to fines and forfeited recognizances), in subsection (1), in paragraph (e) at the end insert “ , unless there is a collection order in relation to the amount concerned ”.
+**1.**[^c-9341d0dd5d1eb79728a232c418ecb266] (1) In section 35 (powers of courts in relation to fines and forfeited recognizances), in subsection (1), in paragraph (e) at the end insert “ , unless there is a collection order in relation to the amount concerned ”.
 
 (2) After section 35(4A) insert—
 
@@ -42,7 +42,7 @@ Section 28.
 
 ### Mines Act (Northern Ireland) 1969
 
-**2.**[^key-369df77b4262bb2101d142a8f1c781ac] In Schedule 3 (inquiries into fitness of holders of certificates of competency), after paragraph 9 insert—
+**2.**[^c-369df77b4262bb2101d142a8f1c781ac] In Schedule 3 (inquiries into fitness of holders of certificates of competency), after paragraph 9 insert—
 
 > **9A.** The tribunal, having received an application under paragraph 9, must refer it to a district judge (magistrates' courts) for the judge to consider whether to make a collection order under section 3 of the Justice Act (Northern Ireland) 2016; and the order may be made without a court hearing.
 
@@ -50,7 +50,7 @@ Section 28.
 
 ### Magistrates' Courts (Northern Ireland) Order 1981
 
-**3.**[^key-a360e252fdb5dce4b6872970c297a950] (1) In Article 2(3) (interpretation) at the appropriate place insert—
+**3.**[^c-a360e252fdb5dce4b6872970c297a950] (1) In Article 2(3) (interpretation) at the appropriate place insert—
 
 > “**collection order**” means (except in Article 96(1B)) an order under section 3 of the Justice Act (Northern Ireland) 2016;
 
@@ -72,7 +72,7 @@ Section 28.
 
 ### Police and Criminal Evidence (Northern Ireland) Order 1989
 
-**4.**[^key-75a4973b450e10c5ed693c1bd51475a6] In Article 19(1) (power of constable to enter and search), in sub-paragraph (a), after paragraph (ii) insert
+**4.**[^c-75a4973b450e10c5ed693c1bd51475a6] In Article 19(1) (power of constable to enter and search), in sub-paragraph (a), after paragraph (ii) insert
 
 > ; or
 >
@@ -82,7 +82,7 @@ Section 28.
 
 ### Road Traffic Offenders (Northern Ireland) Order 1996
 
-**5.**[^key-b213b7610708cde0073528623a0799a0] (1) In Article 2(2) (interpretation) at the appropriate place insert—
+**5.**[^c-b213b7610708cde0073528623a0799a0] (1) In Article 2(2) (interpretation) at the appropriate place insert—
 
 > “**collection order**” means an order under section 3 of the Justice Act (Northern Ireland) 2016;
 
@@ -104,7 +104,7 @@ Section 28.
 
 ### Criminal Justice and Immigration Act 2008
 
-**6.**[^key-9e836cc918aaaa2baec6bb5ee8a01fd1] (1) In section 88 (international co-operation in relation to criminal justice matters: procedure in Northern Ireland on receipt of certificate by clerk of petty sessions), in subsection (3)—
+**6.**[^c-9e836cc918aaaa2baec6bb5ee8a01fd1] (1) In section 88 (international co-operation in relation to criminal justice matters: procedure in Northern Ireland on receipt of certificate by clerk of petty sessions), in subsection (3)—
 
 - (a) after “must decide” insert
 
@@ -130,7 +130,7 @@ Section 28.
 
 ### Justice Act (Northern Ireland) 2011
 
-**7.**[^key-298d67bccaa13a9b195209423aebbe21] (1) In section 67 (registration of fixed penalty), in subsection (2)(a), for “21 days” substitute “ 28 days ”.
+**7.**[^c-298d67bccaa13a9b195209423aebbe21] (1) In section 67 (registration of fixed penalty), in subsection (2)(a), for “21 days” substitute “ 28 days ”.
 
 (2) After section 67(3) insert—
 
@@ -150,7 +150,7 @@ Section 28.
 
 ### Justice Act (Northern Ireland) 2015
 
-**8.**[^key-a744620fcfc5e00b8e0d7ae742387de4] (1) In section 24 (prosecutorial fines: registration of sum payable in default), in subsection (2)(a), for “21 days” substitute “ 28 days ”.
+**8.**[^c-a744620fcfc5e00b8e0d7ae742387de4] (1) In section 24 (prosecutorial fines: registration of sum payable in default), in subsection (2)(a), for “21 days” substitute “ 28 days ”.
 
 (2) After section 24(3) insert—
 
@@ -170,18 +170,18 @@ Section 28.
 
 ## Annotations
 
-[^key-9341d0dd5d1eb79728a232c418ecb266]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/1) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-9341d0dd5d1eb79728a232c418ecb266]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/1) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-369df77b4262bb2101d142a8f1c781ac]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/2) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-369df77b4262bb2101d142a8f1c781ac]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/2) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-a360e252fdb5dce4b6872970c297a950]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/3) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-a360e252fdb5dce4b6872970c297a950]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/3) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-75a4973b450e10c5ed693c1bd51475a6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/4) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-75a4973b450e10c5ed693c1bd51475a6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/4) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-b213b7610708cde0073528623a0799a0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/5) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-b213b7610708cde0073528623a0799a0]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/5) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-9e836cc918aaaa2baec6bb5ee8a01fd1]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/6) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-9e836cc918aaaa2baec6bb5ee8a01fd1]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/6) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-298d67bccaa13a9b195209423aebbe21]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-298d67bccaa13a9b195209423aebbe21]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
 
-[^key-a744620fcfc5e00b8e0d7ae742387de4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/8) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-a744620fcfc5e00b8e0d7ae742387de4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/8) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)

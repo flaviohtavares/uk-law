@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Duty to report on outcome of investigation[^key-7118610defafa2d27d08939e1d872738]
+## 96. Duty to report on outcome of investigation[^c-7118610defafa2d27d08939e1d872738]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7118610defafa2d27d08939e1d872738]: Commencement: Reg. 96 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-7118610defafa2d27d08939e1d872738]: Commencement: Reg. 96 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

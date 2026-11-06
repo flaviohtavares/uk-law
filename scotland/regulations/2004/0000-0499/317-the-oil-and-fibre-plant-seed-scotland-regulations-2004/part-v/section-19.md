@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Breeder’s confirmations[^key-25437f41442068e395feb73f04387e83]
+## 19. Breeder’s confirmations[^c-25437f41442068e395feb73f04387e83]
 
 *Extent: S*
 
@@ -25,8 +25,8 @@ summary: ''
 - (a) shall be made in writing by the breeder to the Scottish Ministers in such form and manner, and shall include such information, records, illustrations, material and seed, as the Scottish Ministers may require; and
 - (b) shall be made not later than 31st December in the year following the year of harvest of the crop from which the seed lot is obtained or within such other time as the Scottish Ministers may allow; and
 - (c) shall be made only–
-  - (i) for seed of a variety for which an application has been made to have that variety accepted on to a GB Variety List or an NI Variety List[^key-5d2d81f8171f65702ae3657d1243f296]; or
-  - (ii) for seed of a component of a hybrid variety of oilseed rape for which hybrid variety an application has been made to have that hybrid variety accepted on to a GB Variety List or an NI Variety List[^key-3256af5e347af7022e5f0571363cea25].
+  - (i) for seed of a variety for which an application has been made to have that variety accepted on to a GB Variety List or an NI Variety List[^c-5d2d81f8171f65702ae3657d1243f296]; or
+  - (ii) for seed of a component of a hybrid variety of oilseed rape for which hybrid variety an application has been made to have that hybrid variety accepted on to a GB Variety List or an NI Variety List[^c-3256af5e347af7022e5f0571363cea25].
 
 (2) Where an application for the issue of a breeder’s confirmation is made to the Scottish Ministers in accordance with paragraph (1) the Scottish Ministers shall deal with the application in accordance with the provisions of Part II of Schedule 2.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-25437f41442068e395feb73f04387e83]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2004/317/regulation/19) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-25437f41442068e395feb73f04387e83]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2004/317/regulation/19) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
-[^key-5d2d81f8171f65702ae3657d1243f296]: Textual amendment: Words in [reg. 19(1)(c)(i)](https://www.legislation.gov.uk/ssi/2004/317/regulation/19/1/c/i) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(18)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/18/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(17)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/17))
+[^c-5d2d81f8171f65702ae3657d1243f296]: Textual amendment: Words in [reg. 19(1)(c)(i)](https://www.legislation.gov.uk/ssi/2004/317/regulation/19/1/c/i) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(18)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/18/a) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(17)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/17))
 
-[^key-3256af5e347af7022e5f0571363cea25]: Textual amendment: Words in [reg. 19(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2004/317/regulation/19/1/c/ii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(18)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/18/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(17)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/17))
+[^c-3256af5e347af7022e5f0571363cea25]: Textual amendment: Words in [reg. 19(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2004/317/regulation/19/1/c/ii) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 12(18)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/18/b) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(17)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/17))

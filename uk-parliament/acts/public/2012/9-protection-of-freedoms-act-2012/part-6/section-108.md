@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Removal of Secretary of State approval for staff numbers, terms etc.[^key-84cbcb87e3edbf842f60f0e958eb936b]
+## 108. Removal of Secretary of State approval for staff numbers, terms etc.[^c-84cbcb87e3edbf842f60f0e958eb936b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84cbcb87e3edbf842f60f0e958eb936b]: Commencement: S. 108 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/e)
+[^c-84cbcb87e3edbf842f60f0e958eb936b]: Commencement: S. 108 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/e)

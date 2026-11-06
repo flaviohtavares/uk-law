@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1162. The 15% holding limit: exceptions[^key-132c0d7307ccecfdf10d550efb50d3b2]
+## 1162. The 15% holding limit: exceptions[^c-132c0d7307ccecfdf10d550efb50d3b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-132c0d7307ccecfdf10d550efb50d3b2]: Textual amendment: Ss. 1160-1165 omitted (with effect in accordance with s. 49(6) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/49/4); [S.I. 2011/2977](https://www.legislation.gov.uk/uksi/2011/2977), [art. 2](https://www.legislation.gov.uk/uksi/2011/2977/article/2)
+[^c-132c0d7307ccecfdf10d550efb50d3b2]: Textual amendment: Ss. 1160-1165 omitted (with effect in accordance with s. 49(6) of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/49/4); [S.I. 2011/2977](https://www.legislation.gov.uk/uksi/2011/2977), [art. 2](https://www.legislation.gov.uk/uksi/2011/2977/article/2)

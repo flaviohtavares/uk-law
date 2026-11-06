@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Contents
 
-### PART 1 — Care and support[^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17]
+### PART 1 — Care and support[^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 
 #### General responsibilities of local authorities
 
@@ -199,7 +199,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 72 — Part 1 appeals](part-1/section-72.md)
 
-#### Default by local authority[^key-1579f6f262811e1abde47ac42ebb5aa2]
+#### Default by local authority[^c-1579f6f262811e1abde47ac42ebb5aa2]
 
 - [Section 72A — Default power of Secretary of State](part-1/section-72a.md)
 - [Section 72B — Default power of Secretary of State: supplementary](part-1/section-72b.md)
@@ -259,7 +259,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### PART 3 — Health
 
-#### CHAPTER 1 — The Education and Training Functions of NHS England[^key-6d7d6cecb696eecfe26636e564d11463]
+#### CHAPTER 1 — The Education and Training Functions of NHS England[^c-6d7d6cecb696eecfe26636e564d11463]
 
 ##### Establishment
 
@@ -276,7 +276,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 101 — Sections 98 and 100: matters to which NHS England must have regard](part-3/section-101.md)
 - [Section 102 — Advice](part-3/section-102.md)
 
-##### ...[^key-f02c0187ad6e2020921ff89b43f8e1aa]
+##### ...[^c-f02c0187ad6e2020921ff89b43f8e1aa]
 
 *Extent: E+W*
 
@@ -292,7 +292,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 108 — Tariffs](part-3/section-108.md)
 
-#### CHAPTER 2 — Health Research Authority[^key-dd9a4faae92c4b9bfe62afff9b16757e]
+#### CHAPTER 2 — Health Research Authority[^c-dd9a4faae92c4b9bfe62afff9b16757e]
 
 ##### Establishment
 
@@ -369,14 +369,14 @@ SCHEDULES
 
 ## Annotations
 
-[^key-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+[^c-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
 
-[^key-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
+[^c-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
 
-[^key-1579f6f262811e1abde47ac42ebb5aa2]: Textual amendment: [Ss. 72A](https://www.legislation.gov.uk/ukpga/2014/23/section/72A), [72B](https://www.legislation.gov.uk/ukpga/2014/23/section/72B) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/164/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)
+[^c-1579f6f262811e1abde47ac42ebb5aa2]: Textual amendment: [Ss. 72A](https://www.legislation.gov.uk/ukpga/2014/23/section/72A), [72B](https://www.legislation.gov.uk/ukpga/2014/23/section/72B) and cross-heading inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/164/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)
 
-[^key-6d7d6cecb696eecfe26636e564d11463]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2014/23/part/3/chapter/1) heading substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-6d7d6cecb696eecfe26636e564d11463]: Textual amendment: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2014/23/part/3/chapter/1) heading substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-f02c0187ad6e2020921ff89b43f8e1aa]: Textual amendment: Ss. 103-107 and cross-heading omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 90(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/90/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-f02c0187ad6e2020921ff89b43f8e1aa]: Textual amendment: Ss. 103-107 and cross-heading omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 90(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/90/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-dd9a4faae92c4b9bfe62afff9b16757e]: Modification: Pt. 3 Ch. 2 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/b); SI 2015/993 art. 2(a)
+[^c-dd9a4faae92c4b9bfe62afff9b16757e]: Modification: Pt. 3 Ch. 2 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/b); SI 2015/993 art. 2(a)

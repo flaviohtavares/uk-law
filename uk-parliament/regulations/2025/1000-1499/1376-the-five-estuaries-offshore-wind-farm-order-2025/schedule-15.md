@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Documents to be certified[^key-edaa0029b4fd8bde9148fed8ba29edea]
+## SCHEDULE 15 — Documents to be certified[^c-edaa0029b4fd8bde9148fed8ba29edea]
 
 *Extent: E+W*
 
 Article 43
 
-[^key-edaa0029b4fd8bde9148fed8ba29edea]
+[^c-edaa0029b4fd8bde9148fed8ba29edea]
 
 The following documents in Table 1 of this schedule are the list referred to in article 43
 
@@ -131,12 +131,12 @@ Table 1
 </tbody>
 </table>
 
-[^key-efcc3ed78804b26af118b2066660a49d][^key-0ad29749ef54574f3e5b4a763fe3bf8f]
+[^c-efcc3ed78804b26af118b2066660a49d][^c-0ad29749ef54574f3e5b4a763fe3bf8f]
 
 ## Annotations
 
-[^key-edaa0029b4fd8bde9148fed8ba29edea]: Commencement: Sch. 15 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-edaa0029b4fd8bde9148fed8ba29edea]: Commencement: Sch. 15 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-efcc3ed78804b26af118b2066660a49d]: Textual amendment: Words in Sch. 15 Table 1 inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-efcc3ed78804b26af118b2066660a49d]: Textual amendment: Words in Sch. 15 Table 1 inserted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
 
-[^key-0ad29749ef54574f3e5b4a763fe3bf8f]: Textual amendment: Words in Sch. 15 Table 1 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)
+[^c-0ad29749ef54574f3e5b4a763fe3bf8f]: Textual amendment: Words in Sch. 15 Table 1 substituted (6.10.2026) by [The Five Estuaries Offshore Wind Farm (Correction) Order 2026 (S.I. 2026/1070)](https://www.legislation.gov.uk/uksi/2026/1070), [art. 1](https://www.legislation.gov.uk/uksi/2026/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/1070/schedule)

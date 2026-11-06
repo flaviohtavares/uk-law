@@ -22,12 +22,12 @@ summary: ''
 
 (1) If the senior police officer present at the scene reasonably believes that two or more persons are trespassing on land and are present there with the common purpose of residing there for any period, that reasonable steps have been taken by or on behalf of the occupier to ask them to leave and—
 
-- (a) that any of those persons—[^key-acaf5376f2dc9805328094eebe6f2e03]
+- (a) that any of those persons—[^c-acaf5376f2dc9805328094eebe6f2e03]
   - (i) in the case of persons trespassing on land in England and Wales, has caused damage, disruption or distress (see subsection (10));
   - (ii) in the case of persons trespassing on land in Scotland,
 
   has caused damage to the land or to property on the land or used threatening, abusive or insulting words or behaviour towards the occupier, a member of his family or an employee or agent of his, or
-- (b) in either case,[^key-1cddc1b59c4a126ea4bdf6393089c748] that those persons have between them six or more vehicles on the land,
+- (b) in either case,[^c-1cddc1b59c4a126ea4bdf6393089c748] that those persons have between them six or more vehicles on the land,
 
 he may direct those persons, or any of them, to leave the land and to remove any vehicles or other property they have with them on the land.
 
@@ -38,11 +38,11 @@ he may direct those persons, or any of them, to leave the land and to remove any
 (4) If a person knowing that a direction under subsection (1) above has been given which applies to him—
 
 - (a) fails to leave the land as soon as reasonably practicable, or
-- (b) having left again enters the land as a trespasser within the period of three months beginning with the day on which the direction was given[^key-2b1b937d4064beb7bf9862a7efe2a1a9],
+- (b) having left again enters the land as a trespasser within the period of three months beginning with the day on which the direction was given[^c-2b1b937d4064beb7bf9862a7efe2a1a9],
 
 he commits an offence and is liable on summary conviction to imprisonment for a term not exceeding three months or a fine not exceeding level 4 on the standard scale, or both.
 
-(4ZA)[^key-33e42aa19afd9aa4a2db3fb6a453290a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4ZA)[^c-33e42aa19afd9aa4a2db3fb6a453290a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4A)[^c19808281] Where, as respects Scotland, the reason why these persons have become trespassers is that they have ceased to be entitled to exercise access rights by virtue of—
 
@@ -80,9 +80,9 @@ the circumstances constituting that reason shall be treated, for the purposes of
 - “**land**” does not include—
 - (a) buildings other than—
   - (i) agricultural buildings within the meaning of, in England and Wales, paragraphs 3 to 8 of Schedule 5 to the [^c13103081]Local Government Finance Act 1988 or, in Scotland, section 7(2) of the [^c13103091]Valuation and Rating (Scotland) Act 1956, or
-  - (ii) scheduled monuments within the meaning of the [^c13103101]Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^key-7050837f04eb8f6c65706b080a846433];
-- (b) land in Scotland[^key-83d129ae6ac99ec854f5fb7080d89495] forming part of—
-  - (i)[^key-650a9a67279b7380a8696b7a0a70c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) scheduled monuments within the meaning of the [^c13103101]Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^c-7050837f04eb8f6c65706b080a846433];
+- (b) land in Scotland[^c-83d129ae6ac99ec854f5fb7080d89495] forming part of—
+  - (i)[^c-650a9a67279b7380a8696b7a0a70c496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) a road within the meaning of the [^c13103141]Roads (Scotland) Act 1984 unless it falls within the definitions in section 151(2)(a)(ii) or (b) (footpaths and cycle tracks) of that Act or is a bridleway within the meaning of section 47 of the [^c13103151]Countryside (Scotland) Act 1967;
 
 - “**the local authority**”, in relation to common land, means any local authority which has powers in relation to the land under section 45 of the Commons Act 2006[^M_F_4164f8e3-a85b-4ce4-d1ec-141d89492497];
@@ -108,7 +108,7 @@ the circumstances constituting that reason shall be treated, for the purposes of
 
 and a person may be regarded for the purposes of this section as having a purpose of residing in a place notwithstanding that he has a home elsewhere.
 
-(10)[^key-2fb946a4052d00452789a013260b8773] For the purposes of subsection (1)(a)(i)—
+(10)[^c-2fb946a4052d00452789a013260b8773] For the purposes of subsection (1)(a)(i)—
 
 - “damage” includes—
   - (a) damage to the land;
@@ -123,13 +123,13 @@ and a person may be regarded for the purposes of this section as having a purpos
 
 ## Annotations
 
-[^key-acaf5376f2dc9805328094eebe6f2e03]: Textual amendment: S. 61(1)(a)(i)(ii) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/3/a), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-acaf5376f2dc9805328094eebe6f2e03]: Textual amendment: S. 61(1)(a)(i)(ii) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(3)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/3/a), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-1cddc1b59c4a126ea4bdf6393089c748]: Textual amendment: Words in s. 61(1)(b) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/3/b), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-1cddc1b59c4a126ea4bdf6393089c748]: Textual amendment: Words in s. 61(1)(b) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(3)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/3/b), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-2b1b937d4064beb7bf9862a7efe2a1a9]: Textual amendment: Words in s. 61(4)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/3/a), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
+[^c-2b1b937d4064beb7bf9862a7efe2a1a9]: Textual amendment: Words in s. 61(4)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/3/a), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
 
-[^key-33e42aa19afd9aa4a2db3fb6a453290a]: Textual amendment: S. 61(4ZA) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/3/b), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
+[^c-33e42aa19afd9aa4a2db3fb6a453290a]: Textual amendment: S. 61(4ZA) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/3/b), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
 
 [^c19808281]: Textual amendment: S 61(4A)(4B) inserted (S.) (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [ss. 99](https://www.legislation.gov.uk/asp/2003/2/section/99), [100(3)(4)](https://www.legislation.gov.uk/asp/2003/2/section/100/3/4), [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/11) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
 
@@ -147,11 +147,11 @@ and a person may be regarded for the purposes of this section as having a purpos
 
 [^c13103101]: Marginal citation: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-7050837f04eb8f6c65706b080a846433]: Textual amendment: Words in s. 61(9) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 173](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/173) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-7050837f04eb8f6c65706b080a846433]: Textual amendment: Words in s. 61(9) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 173](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/173) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-83d129ae6ac99ec854f5fb7080d89495]: Textual amendment: Words in s. 61(9) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(6)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/6/a), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-83d129ae6ac99ec854f5fb7080d89495]: Textual amendment: Words in s. 61(9) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(6)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/6/a), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
-[^key-650a9a67279b7380a8696b7a0a70c496]: Textual amendment: Words in s. 61(9) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(6)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/6/b), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-650a9a67279b7380a8696b7a0a70c496]: Textual amendment: Words in s. 61(9) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(6)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/6/b), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
 
 [^c13103141]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
@@ -163,4 +163,4 @@ and a person may be regarded for the purposes of this section as having a purpos
 
 [^c13103171]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
-[^key-2fb946a4052d00452789a013260b8773]: Textual amendment: S. 61(10) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/7), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-2fb946a4052d00452789a013260b8773]: Textual amendment: S. 61(10) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 84(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/84/7), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

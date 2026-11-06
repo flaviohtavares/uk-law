@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Change of doctor[^key-fc375bf2f7a7926d0206aa2acf83b622]
+## 21. Change of doctor[^c-fc375bf2f7a7926d0206aa2acf83b622]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ stating that the first doctor has resumed practice and that the person will be r
 
 ## Annotations
 
-[^key-fc375bf2f7a7926d0206aa2acf83b622]: Commencement: Reg. 21 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-fc375bf2f7a7926d0206aa2acf83b622]: Commencement: Reg. 21 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

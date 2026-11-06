@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Initial consideration[^key-d499173ca077b49dbde5573910de9b33]
+## 27. Initial consideration[^c-d499173ca077b49dbde5573910de9b33]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d499173ca077b49dbde5573910de9b33]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2024/1155/rule/27) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-d499173ca077b49dbde5573910de9b33]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2024/1155/rule/27) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

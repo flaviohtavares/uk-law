@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Reports on the implementation and operation of Parts 1 to 3[^key-69da276e167ce40cf14d1bb59ca4eddb]
+## 213. Reports on the implementation and operation of Parts 1 to 3[^c-69da276e167ce40cf14d1bb59ca4eddb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69da276e167ce40cf14d1bb59ca4eddb]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/56/section/213) in force at 26.12.2023, see [s. 219(3)(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/3/d)
+[^c-69da276e167ce40cf14d1bb59ca4eddb]: Commencement: [S. 213](https://www.legislation.gov.uk/ukpga/2023/56/section/213) in force at 26.12.2023, see [s. 219(3)(d)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/3/d)

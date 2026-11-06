@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274. Bodies no longer subject to investigation[^key-008b8c295f0091a2440b8b7cd9d1d5fa]
+## 274. Bodies no longer subject to investigation[^c-008b8c295f0091a2440b8b7cd9d1d5fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In Schedule 2[^f00194] to the Parliamentary Commissioner Act 1967, the entries i
 
 ## Annotations
 
-[^key-008b8c295f0091a2440b8b7cd9d1d5fa]: Commencement: Art. 274 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-008b8c295f0091a2440b8b7cd9d1d5fa]: Commencement: Art. 274 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00194]: Footnote: Schedule 2 was substituted by the Parliamentary and Health Service Commissioners Act [1987 (c. 39)](https://www.legislation.gov.uk/ukpga/1987/39) s. 1(2), Schedule 1 and the entry relating to the Friendly Societies Commission was inserted by the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40) Schedule 1, paragraph 12.

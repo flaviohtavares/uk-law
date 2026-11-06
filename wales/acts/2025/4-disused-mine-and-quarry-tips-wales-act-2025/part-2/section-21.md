@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Decision on registration[^key-1c852c1d0b215bb8a255d65f7ee3ee90]
+## 21. Decision on registration[^c-1c852c1d0b215bb8a255d65f7ee3ee90]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c852c1d0b215bb8a255d65f7ee3ee90]: Commencement: S. 21 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-1c852c1d0b215bb8a255d65f7ee3ee90]: Commencement: S. 21 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

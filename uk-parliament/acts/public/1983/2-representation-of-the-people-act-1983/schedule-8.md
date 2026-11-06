@@ -163,7 +163,7 @@ Order
 
 ### Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^c14512931]
 
-**28.**[^key-3026e5403b5ec410e704b38bb9f163d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-3026e5403b5ec410e704b38bb9f163d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -237,4 +237,4 @@ Order
 
 [^c14512931]: Marginal citation: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228).
 
-[^key-3026e5403b5ec410e704b38bb9f163d4]: Textual amendment: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/1983/2/schedule/8/paragraph/28) repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-3026e5403b5ec410e704b38bb9f163d4]: Textual amendment: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/1983/2/schedule/8/paragraph/28) repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Rights of creditors[^key-6a06b576dced02c43e861c71d1d930c7]
+## 78. Rights of creditors[^c-6a06b576dced02c43e861c71d1d930c7]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ do not affect the right of any creditor, who, when the contract was made or the 
 
 ## Annotations
 
-[^key-6a06b576dced02c43e861c71d1d930c7]: Commencement: Art. 78 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-6a06b576dced02c43e861c71d1d930c7]: Commencement: Art. 78 in force at 16.12.2015 in accordance with art. 1(1)

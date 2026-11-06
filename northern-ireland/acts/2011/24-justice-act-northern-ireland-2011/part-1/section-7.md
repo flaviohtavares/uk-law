@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Eligibility for special measures: age of child witnesses[^key-6a0f249eecdd0b3def0871d5761b16e8]
+## 7. Eligibility for special measures: age of child witnesses[^c-6a0f249eecdd0b3def0871d5761b16e8]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a0f249eecdd0b3def0871d5761b16e8]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/24/section/7) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
+[^c-6a0f249eecdd0b3def0871d5761b16e8]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/24/section/7) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)

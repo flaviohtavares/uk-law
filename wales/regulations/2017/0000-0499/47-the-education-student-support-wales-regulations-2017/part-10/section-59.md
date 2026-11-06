@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Provision of United Kingdom national insurance number[^key-54ffb2de8cc69fbbcc0e5f6aab4e54ff]
+## 59. Provision of United Kingdom national insurance number[^c-54ffb2de8cc69fbbcc0e5f6aab4e54ff]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54ffb2de8cc69fbbcc0e5f6aab4e54ff]: Commencement: Reg. 59 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-54ffb2de8cc69fbbcc0e5f6aab4e54ff]: Commencement: Reg. 59 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

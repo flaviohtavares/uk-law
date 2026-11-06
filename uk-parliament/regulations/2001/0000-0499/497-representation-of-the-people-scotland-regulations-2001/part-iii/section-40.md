@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Qualifying addresses which are not included in the register[^key-1c00f9613ddd2641a09178f9c34178d3]
+## 40. Qualifying addresses which are not included in the register[^c-1c00f9613ddd2641a09178f9c34178d3]
 
 *Extent: S*
 
 (1) Section 9(2)(b) of the 1983 Act[^f00027] (which requires each register of parliamentary or local government electors to contain the qualifying addresses of the persons registered in it) does not apply to an address–
 
 - (a) to which paragraph (2) or (3) below applies, or
-- (b) which is specified in an overseas elector’s declaration in accordance with section 1C(2)(a)(i), (3)(a)(i) or (4)[^key-6b19e2acc22df454d8cd7bf9ad6d933f] of the 1985 Act[^f00028].
+- (b) which is specified in an overseas elector’s declaration in accordance with section 1C(2)(a)(i), (3)(a)(i) or (4)[^c-6b19e2acc22df454d8cd7bf9ad6d933f] of the 1985 Act[^f00028].
 
 (2) This paragraph applies to an address where it appears to the registration officer that–
 
@@ -39,11 +39,11 @@ has given that address in such a declaration as an address–
 
 ## Annotations
 
-[^key-1c00f9613ddd2641a09178f9c34178d3]: Commencement: Reg. 40 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-1c00f9613ddd2641a09178f9c34178d3]: Commencement: Reg. 40 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
 [^f00027]: Footnote: Section 9 was substituted by Schedule 1 to the 2000 Act.
 
-[^key-6b19e2acc22df454d8cd7bf9ad6d933f]: Textual amendment: Words in [reg. 40(1)(b)](https://www.legislation.gov.uk/uksi/2001/497/regulation/40/1/b) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(18)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/18) (with [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/d))
+[^c-6b19e2acc22df454d8cd7bf9ad6d933f]: Textual amendment: Words in [reg. 40(1)(b)](https://www.legislation.gov.uk/uksi/2001/497/regulation/40/1/b) substituted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [10(18)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/10/18) (with [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/d))
 
 [^f00028]: Footnote: Section 2 was substituted by Schedule 2 to the 2000 Act.
 

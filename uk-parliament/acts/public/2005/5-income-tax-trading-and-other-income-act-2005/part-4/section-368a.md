@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368A. Interpretation of special rules for temporary non-residents[^key-6de093faeeebdbb3f8003a73e99565ad]
+## 368A. Interpretation of special rules for temporary non-residents[^c-6de093faeeebdbb3f8003a73e99565ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6de093faeeebdbb3f8003a73e99565ad]: Textual amendment: S. 368A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 132](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/132)
+[^c-6de093faeeebdbb3f8003a73e99565ad]: Textual amendment: S. 368A inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 132](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/132)

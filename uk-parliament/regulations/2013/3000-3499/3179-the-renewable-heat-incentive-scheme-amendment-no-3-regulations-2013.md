@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2013/1
 
 Energy
 
-The Renewable Heat Incentive Scheme (Amendment) (No. 3) Regulations 2013 (revoked)[^key-25fe3a86e19b7b16f0be782a68fafa90]
+The Renewable Heat Incentive Scheme (Amendment) (No. 3) Regulations 2013 (revoked)[^c-25fe3a86e19b7b16f0be782a68fafa90]
 
 Made
 
@@ -42,36 +42,36 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-25fe3a86e19b7b16f0be782a68fafa90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25fe3a86e19b7b16f0be782a68fafa90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-25fe3a86e19b7b16f0be782a68fafa90]
+## 1. Citation and commencement[^c-25fe3a86e19b7b16f0be782a68fafa90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^key-25fe3a86e19b7b16f0be782a68fafa90]
+## 2. Amendments to the Renewable Heat Incentive Scheme Regulations 2011[^c-25fe3a86e19b7b16f0be782a68fafa90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 37C[^key-25fe3a86e19b7b16f0be782a68fafa90]
+## 3. Amendments to regulation 37C[^c-25fe3a86e19b7b16f0be782a68fafa90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to regulation 37D[^key-25fe3a86e19b7b16f0be782a68fafa90]
+## 4. Amendments to regulation 37D[^c-25fe3a86e19b7b16f0be782a68fafa90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to Schedule A1[^key-25fe3a86e19b7b16f0be782a68fafa90]
+## 5. Amendments to Schedule A1[^c-25fe3a86e19b7b16f0be782a68fafa90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25fe3a86e19b7b16f0be782a68fafa90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25fe3a86e19b7b16f0be782a68fafa90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25fe3a86e19b7b16f0be782a68fafa90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25fe3a86e19b7b16f0be782a68fafa90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25fe3a86e19b7b16f0be782a68fafa90]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(c)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/c) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-25fe3a86e19b7b16f0be782a68fafa90]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), [regs. 1](https://www.legislation.gov.uk/uksi/2018/611/regulation/1), [92(2)(c)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/2/c) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

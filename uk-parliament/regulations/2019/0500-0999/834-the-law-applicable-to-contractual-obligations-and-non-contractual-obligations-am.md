@@ -46,13 +46,13 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act a draft of this inst
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-c29265740734fceb571c41de86ac1130]
+### 1. Citation and commencement[^c-c29265740734fceb571c41de86ac1130]
 
 These Regulations may be cited as the Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Prescription and Limitation (Scotland) Act 1973[^key-2de30f87d3b82d065a9afbf82b001ed3][^key-472284d4c7565394eb6f0a1e444cd1eb]
+### 2. Amendment of the Prescription and Limitation (Scotland) Act 1973[^c-2de30f87d3b82d065a9afbf82b001ed3][^c-472284d4c7565394eb6f0a1e444cd1eb]
 
 For section 23A(5) of the Prescription and Limitation (Scotland) Act 1973 (application of the Rome I and II Regulations) substitute—
 
@@ -63,7 +63,7 @@ For section 23A(5) of the Prescription and Limitation (Scotland) Act 1973 (appli
 
 ..
 
-### 2A. Amendment of the Foreign Limitation Periods Act 1984[^key-689e886a63f224fdc2ae58cccddf1b6d][^M_I_c735d3c4-57bc-4f43-d86e-792974628488]
+### 2A. Amendment of the Foreign Limitation Periods Act 1984[^c-689e886a63f224fdc2ae58cccddf1b6d][^M_I_c735d3c4-57bc-4f43-d86e-792974628488]
 
 (1) In section 8 of the Foreign Limitation Periods Act 1984 (disapplication of sections 1, 2 and 4 where the law applicable to limitation is determined by other instruments), for subsections (1A) and (2) substitute—
 
@@ -73,7 +73,7 @@ For section 23A(5) of the Prescription and Limitation (Scotland) Act 1973 (appli
 
 .
 
-### 3. Amendment of the Contracts (Applicable Law) Act 1990[^key-73b38dad35c75caf6a3c375142d68b14]
+### 3. Amendment of the Contracts (Applicable Law) Act 1990[^c-73b38dad35c75caf6a3c375142d68b14]
 
 (1) The Contracts (Applicable Law) Act 1990 [^c23708341] is amended as follows.
 
@@ -112,13 +112,13 @@ For section 23A(5) of the Prescription and Limitation (Scotland) Act 1973 (appli
 
 (5) Omit section 4 (revision of Conventions).
 
-(6)[^key-ae0fa9009ccfb1edbed0afe2ea6ec070] In section 4A (disapplication where the rules in the Rome I Regulation apply: England and Wales and Northern Ireland), for subsection (2) substitute—
+(6)[^c-ae0fa9009ccfb1edbed0afe2ea6ec070] In section 4A (disapplication where the rules in the Rome I Regulation apply: England and Wales and Northern Ireland), for subsection (2) substitute—
 
 > (2) In this section “the Rome I Regulation” means Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) of the European Parliament and of the Council on the law applicable to contractual obligations as that Regulation has effect as retained direct EU legislation (including that Regulation as applied by regulation 5 of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009), unless the issues are ones in respect of which Regulation [(EC) No. 593/2008](https://www.legislation.gov.uk/eur/2008/0593) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
 ;
 
-(7)[^key-cfa339e5accc407e058e2a1d60642ce3] In section 4B (disapplication where the rules in the Rome I Regulation apply: Scotland), for subsection (2) substitute—
+(7)[^c-cfa339e5accc407e058e2a1d60642ce3] In section 4B (disapplication where the rules in the Rome I Regulation apply: Scotland), for subsection (2) substitute—
 
 > (2) In this section—
 >
@@ -149,7 +149,7 @@ For section 23A(5) of the Prescription and Limitation (Scotland) Act 1973 (appli
 
 (10) Omit Schedules 2 to 3B (the Luxembourg Convention, the Brussels Protocol, the Funchal Convention and the Accession Convention).
 
-### 4. Amendment of the Private International Law (Miscellaneous Provisions) Act 1995[^key-950a60eb24849f3e4f6f31323e3592b1][^key-6ff9542b20c36d5faa21bc37d8894f7a]
+### 4. Amendment of the Private International Law (Miscellaneous Provisions) Act 1995[^c-950a60eb24849f3e4f6f31323e3592b1][^c-6ff9542b20c36d5faa21bc37d8894f7a]
 
 (1) The Private International (Miscellaneous Provisions) Act 1995 is amended as follows.
 
@@ -165,7 +165,7 @@ For section 23A(5) of the Prescription and Limitation (Scotland) Act 1973 (appli
 
 .
 
-### 4A. Amendment of the Consumer Rights Act 2015[^key-4c0fb20ac51c513fc7556b5b60972908][^M_I_33741703-8784-4325-9a3d-da6be80ad4be]
+### 4A. Amendment of the Consumer Rights Act 2015[^c-4c0fb20ac51c513fc7556b5b60972908][^M_I_33741703-8784-4325-9a3d-da6be80ad4be]
 
 (1) The Consumer Rights Act 2015 is amended as follows.
 
@@ -185,23 +185,23 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 
 ## PART 3 — Amendment of secondary legislation
 
-### 5. Amendment of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008[^key-86c665cb777aeeff655e8e2c990fc224]
+### 5. Amendment of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008[^c-86c665cb777aeeff655e8e2c990fc224]
 
 [^c23708411]In regulation 6 of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008 —
 
 - (a) in the heading omit “: conflicts falling within Article 25(2)”;
 - (b) omit “Notwithstanding Article 25(2) of”; and
-- (c)[^key-676a9bef142b07eaff8e5b4b4e0b53ea] for “, that Regulation” substitute “, as that Regulation has effect as retained direct EU legislation,”.
+- (c)[^c-676a9bef142b07eaff8e5b4b4e0b53ea] for “, that Regulation” substitute “, as that Regulation has effect as retained direct EU legislation,”.
 
-### 6. Amendment of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009[^key-b3bd61151b73d1be6924c1bc15b896b0]
+### 6. Amendment of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009[^c-b3bd61151b73d1be6924c1bc15b896b0]
 
 [^c23708421]In regulation 5(1) of the Law Applicable to Contractual Obligations (England and Wales and Northern Ireland) Regulations 2009 —
 
 - (a) in the heading omit “: conflicts falling within Article 22(2)”;
 - (b) omit “Notwithstanding Article 22(2) of”; and
-- (c)[^key-aca0b2e59646485c70ea8316aa6daa31] for “, that Regulation” substitute “, as that Regulation has effect as retained direct EU legislation,”.
+- (c)[^c-aca0b2e59646485c70ea8316aa6daa31] for “, that Regulation” substitute “, as that Regulation has effect as retained direct EU legislation,”.
 
-### 7. Amendment of the Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009[^key-41b90a35655357674dce6ef37d7e4e59][^key-27a9e896e33ec60fe979b121121a33ec]
+### 7. Amendment of the Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009[^c-41b90a35655357674dce6ef37d7e4e59][^c-27a9e896e33ec60fe979b121121a33ec]
 
 (1) The Financial Services and Markets Act 2000 (Law Applicable to Contracts of Insurance) Regulations 2009 are amended as follows.
 
@@ -212,25 +212,25 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 - (a) in the heading, for “falling within Article 22(2)” substitute “between different parts of the United Kingdom”;
 - (b) for “Notwithstanding Article 22(2) of the Rome I Regulation, Article 7 of that Regulation” substitute “Article 7 of the Rome I Regulation, as that Regulation has effect as retained direct EU legislation,”.
 
-### 8. Amendment of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008[^key-3e036c8c45c7a6873538af95aa051ae7]
+### 8. Amendment of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008[^c-3e036c8c45c7a6873538af95aa051ae7]
 
 [^c23708441]In regulation 4 of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 —
 
 - (a) for the heading substitute “ Application of Regulation [(EC) No 864/2007](https://www.legislation.gov.uk/eur/2007/864) ”;
 - (b) omit “Notwithstanding Article 25(2) of”; and
-- (c)[^key-f2ba11639d5ab6e89a6c5d7b65a7a5e5] for “, that Regulation” substitute “as that Regulation has effect as retained direct EU legislation,”.
+- (c)[^c-f2ba11639d5ab6e89a6c5d7b65a7a5e5] for “, that Regulation” substitute “as that Regulation has effect as retained direct EU legislation,”.
 
-### 9. Amendment of the Law Applicable to Contractual Obligations (Scotland) Regulations 2009[^key-0a7609a4b23dec73791d462905001536]
+### 9. Amendment of the Law Applicable to Contractual Obligations (Scotland) Regulations 2009[^c-0a7609a4b23dec73791d462905001536]
 
 [^c23708451]In regulation 4 of the Law Applicable to Contractual Obligations (Scotland) Regulations 2009 —
 
 - (a) for the heading substitute “ Application of Regulation [(EC) No 593/2008](https://www.legislation.gov.uk/eur/2008/593) ”;
 - (b) omit “Notwithstanding Article 22(2) of”; and
-- (c)[^key-295e954b59bf888710e539bf800c2c67] for “, that Regulation” substitute “as that Regulation has effect as retained direct EU legislation,”.
+- (c)[^c-295e954b59bf888710e539bf800c2c67] for “, that Regulation” substitute “as that Regulation has effect as retained direct EU legislation,”.
 
 ## PART 4 — Amendment of retained EU law
 
-### 10. Amendment of the Rome I Regulation[^key-24f548a11641b6ce67cb8a1ecf74d8c8]
+### 10. Amendment of the Rome I Regulation[^c-24f548a11641b6ce67cb8a1ecf74d8c8]
 
 (1) Regulation [(EC) No 593/2008](https://www.legislation.gov.uk/eur/2008/593) of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I) is amended as follows.
 
@@ -305,7 +305,7 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 
 (12) Omit Articles 26 and 27 (list of conventions and review clause).
 
-(12A)[^key-f40908df54f2e780c80bbfd037899871] For Article 28 (application in time) substitute—
+(12A)[^c-f40908df54f2e780c80bbfd037899871] For Article 28 (application in time) substitute—
 
 > **Article 28**
 >
@@ -324,7 +324,7 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 
 (13) Omit from Article 29 (entry into force and application) to the end.
 
-### 11. Amendment of the Rome II Regulation[^key-85e1d6fd33bd8b5cef09350f7077e9ce]
+### 11. Amendment of the Rome II Regulation[^c-85e1d6fd33bd8b5cef09350f7077e9ce]
 
 (1) Regulation [(EC) No 864/2007](https://www.legislation.gov.uk/eur/2007/864) of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II) is amended as follows.
 
@@ -338,7 +338,7 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 - (b) for “that Member State”, substitute “ the United Kingdom ”;
 - (c) for “Member State of that court”, substitute “ United Kingdom ”.
 
-(5)[^key-5724bd491890ca3e2e514b73b356d8cc] In Article 8 (infringement of intellectual property rights), omit paragraph 2.
+(5)[^c-5724bd491890ca3e2e514b73b356d8cc] In Article 8 (infringement of intellectual property rights), omit paragraph 2.
 
 (6) In Article 14(3) (parties' choice of applicable law shall not prejudice application of Community law under certain circumstances)—
 
@@ -359,7 +359,7 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 
 (10) Omit Articles 29 and 30 (list of conventions and review clause).
 
-(11)[^key-9381d1aad9e6db57befb20977b02cba7] For Article 31 (application in time) substitute—
+(11)[^c-9381d1aad9e6db57befb20977b02cba7] For Article 31 (application in time) substitute—
 
 > **Article 31**
 >
@@ -378,7 +378,7 @@ In Article 9 of the Foreign Limitation Periods (Northern Ireland) Order 1985 (di
 
 (12) Omit from Article 32 (date of application) to the end.
 
-### 12. Revocation of Regulation EC No 662/2009[^key-76a5a889b67e563dab778ee8d9f324ca]
+### 12. Revocation of Regulation EC No 662/2009[^c-76a5a889b67e563dab778ee8d9f324ca]
 
 Regulation EC No 662/2009 of the European Parliament and of the Council of 13 July 2009 establishing a procedure for the negotiation and conclusion of agreements between Member States and third countries on particular matters concerning the law applicable to contractual and non-contractual obligations is revoked.
 
@@ -408,17 +408,17 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c23708321]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-c29265740734fceb571c41de86ac1130]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c29265740734fceb571c41de86ac1130]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2de30f87d3b82d065a9afbf82b001ed3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2de30f87d3b82d065a9afbf82b001ed3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-472284d4c7565394eb6f0a1e444cd1eb]: Textual amendment: Reg. 2 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/2)
+[^c-472284d4c7565394eb6f0a1e444cd1eb]: Textual amendment: Reg. 2 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/2)
 
-[^key-689e886a63f224fdc2ae58cccddf1b6d]: Textual amendment: Reg. 2A inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/3)
+[^c-689e886a63f224fdc2ae58cccddf1b6d]: Textual amendment: Reg. 2A inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/3)
 
 [^M_I_c735d3c4-57bc-4f43-d86e-792974628488]: Commencement: Reg. 2A in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-73b38dad35c75caf6a3c375142d68b14]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-73b38dad35c75caf6a3c375142d68b14]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23708341]: Marginal citation: [1990 c. 36](https://www.legislation.gov.uk/ukpga/1990/36).
 
@@ -428,49 +428,49 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c23708371]: Marginal citation: OJ No C282, 31.10.80, p.1.
 
-[^key-ae0fa9009ccfb1edbed0afe2ea6ec070]: Textual amendment: Reg. 3(6) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/a)
+[^c-ae0fa9009ccfb1edbed0afe2ea6ec070]: Textual amendment: Reg. 3(6) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/a)
 
-[^key-cfa339e5accc407e058e2a1d60642ce3]: Textual amendment: Reg. 3(7) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/b)
+[^c-cfa339e5accc407e058e2a1d60642ce3]: Textual amendment: Reg. 3(7) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/4/b)
 
-[^key-950a60eb24849f3e4f6f31323e3592b1]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-950a60eb24849f3e4f6f31323e3592b1]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6ff9542b20c36d5faa21bc37d8894f7a]: Textual amendment: Reg. 4 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/5)
+[^c-6ff9542b20c36d5faa21bc37d8894f7a]: Textual amendment: Reg. 4 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/5)
 
-[^key-4c0fb20ac51c513fc7556b5b60972908]: Textual amendment: Regs. 4A, 4B inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/6)
+[^c-4c0fb20ac51c513fc7556b5b60972908]: Textual amendment: Regs. 4A, 4B inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/6)
 
 [^M_I_33741703-8784-4325-9a3d-da6be80ad4be]: Commencement: Reg. 4A in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^M_I_b7fda0a1-0d31-4f5d-d3cb-7144eaafb647]: Commencement: Reg. 4B in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-86c665cb777aeeff655e8e2c990fc224]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-86c665cb777aeeff655e8e2c990fc224]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23708411]: Marginal citation: [S.I. 2008/2986](https://www.legislation.gov.uk/uksi/2008/2986).
 
-[^key-676a9bef142b07eaff8e5b4b4e0b53ea]: Textual amendment: Reg. 5(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/7)
+[^c-676a9bef142b07eaff8e5b4b4e0b53ea]: Textual amendment: Reg. 5(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/7)
 
-[^key-b3bd61151b73d1be6924c1bc15b896b0]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b3bd61151b73d1be6924c1bc15b896b0]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23708421]: Marginal citation: [S.I. 2009/3064](https://www.legislation.gov.uk/uksi/2009/3064).
 
-[^key-aca0b2e59646485c70ea8316aa6daa31]: Textual amendment: Reg. 6(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/8)
+[^c-aca0b2e59646485c70ea8316aa6daa31]: Textual amendment: Reg. 6(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/8)
 
-[^key-41b90a35655357674dce6ef37d7e4e59]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-41b90a35655357674dce6ef37d7e4e59]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-27a9e896e33ec60fe979b121121a33ec]: Textual amendment: Reg. 7 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/9)
+[^c-27a9e896e33ec60fe979b121121a33ec]: Textual amendment: Reg. 7 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/9)
 
-[^key-3e036c8c45c7a6873538af95aa051ae7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e036c8c45c7a6873538af95aa051ae7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23708441]: Marginal citation: [S.S.I. 2008/404](https://www.legislation.gov.uk/ssi/2008/404).
 
-[^key-f2ba11639d5ab6e89a6c5d7b65a7a5e5]: Textual amendment: Reg. 8(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/10)
+[^c-f2ba11639d5ab6e89a6c5d7b65a7a5e5]: Textual amendment: Reg. 8(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/10)
 
-[^key-0a7609a4b23dec73791d462905001536]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0a7609a4b23dec73791d462905001536]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23708451]: Marginal citation: [S.S.I. 2009/410](https://www.legislation.gov.uk/ssi/2009/410).
 
-[^key-295e954b59bf888710e539bf800c2c67]: Textual amendment: Reg. 9(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(11)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/11)
+[^c-295e954b59bf888710e539bf800c2c67]: Textual amendment: Reg. 9(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(11)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/11)
 
-[^key-24f548a11641b6ce67cb8a1ecf74d8c8]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-24f548a11641b6ce67cb8a1ecf74d8c8]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23708461]: Marginal citation: OJ L 335, 17.12.2009, p.1.
 
@@ -482,12 +482,12 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^c23708501]: Marginal citation: OJ L 33, 3.2.2009, p.10.
 
-[^key-f40908df54f2e780c80bbfd037899871]: Textual amendment: Reg. 10(12A) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(12)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/12)
+[^c-f40908df54f2e780c80bbfd037899871]: Textual amendment: Reg. 10(12A) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(12)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/12)
 
-[^key-85e1d6fd33bd8b5cef09350f7077e9ce]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-85e1d6fd33bd8b5cef09350f7077e9ce]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5724bd491890ca3e2e514b73b356d8cc]: Textual amendment: Reg. 11(5) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(13)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/13/a)
+[^c-5724bd491890ca3e2e514b73b356d8cc]: Textual amendment: Reg. 11(5) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(13)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/13/a)
 
-[^key-9381d1aad9e6db57befb20977b02cba7]: Textual amendment: Reg. 11(11) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(13)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/13/b)
+[^c-9381d1aad9e6db57befb20977b02cba7]: Textual amendment: Reg. 11(11) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(13)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/13/b)
 
-[^key-76a5a889b67e563dab778ee8d9f324ca]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-76a5a889b67e563dab778ee8d9f324ca]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

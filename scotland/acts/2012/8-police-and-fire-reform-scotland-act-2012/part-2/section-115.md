@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Local fire and rescue plans[^key-14610d5c3403276e7d9659c3b1464e33]
+## 115. Local fire and rescue plans[^c-14610d5c3403276e7d9659c3b1464e33]
 
 *Extent: S*
 
@@ -123,4 +123,4 @@ After section 41C of the 2005 Act (inserted by section 114), insert—
 
 ## Annotations
 
-[^key-14610d5c3403276e7d9659c3b1464e33]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2012/8/section/115) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-14610d5c3403276e7d9659c3b1464e33]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2012/8/section/115) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Participation condition treated as met: transfer pricing notice[^key-41a087881352375049bf06cbcb12e1af]
+## 148A. Participation condition treated as met: transfer pricing notice[^c-41a087881352375049bf06cbcb12e1af]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a087881352375049bf06cbcb12e1af]: Textual amendment: [S. 148A](https://www.legislation.gov.uk/ukpga/2010/8/section/148A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 2(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/2/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-41a087881352375049bf06cbcb12e1af]: Textual amendment: [S. 148A](https://www.legislation.gov.uk/ukpga/2010/8/section/148A) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 2(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/2/1), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Advice from joint committee to UK conservation body[^key-29cce4961db01db5f7046a59c465df72]
+## 35. Advice from joint committee to UK conservation body[^c-29cce4961db01db5f7046a59c465df72]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29cce4961db01db5f7046a59c465df72]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/16/section/35) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-29cce4961db01db5f7046a59c465df72]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/16/section/35) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Grounds for detention[^key-0d751566862115be9659eb0a2455ff29]
+## 5. Grounds for detention[^c-0d751566862115be9659eb0a2455ff29]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d751566862115be9659eb0a2455ff29]: Commencement: S. 5 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-0d751566862115be9659eb0a2455ff29]: Commencement: S. 5 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

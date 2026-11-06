@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Code of practice[^key-8fdc34b79738e889f4898aac21952bb0]
+## 62. Code of practice[^c-8fdc34b79738e889f4898aac21952bb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ After section 47A of the Terrorism Act 2000 (for which see section 61) insert—
 
 ## Annotations
 
-[^key-8fdc34b79738e889f4898aac21952bb0]: Commencement: S. 62 in force at 9.5.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 2](https://www.legislation.gov.uk/uksi/2012/1205/article/2)
+[^c-8fdc34b79738e889f4898aac21952bb0]: Commencement: S. 62 in force at 9.5.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 2](https://www.legislation.gov.uk/uksi/2012/1205/article/2)

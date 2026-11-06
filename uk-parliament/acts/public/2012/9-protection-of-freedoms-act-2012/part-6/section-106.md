@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Alteration of role of Secretary of State in relation to guidance powers[^key-ea989535d71dba29b2706e4884eb8d29]
+## 106. Alteration of role of Secretary of State in relation to guidance powers[^c-ea989535d71dba29b2706e4884eb8d29]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea989535d71dba29b2706e4884eb8d29]: Commencement: S. 106 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/c)
+[^c-ea989535d71dba29b2706e4884eb8d29]: Commencement: S. 106 in force at 1.9.2013 by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/c)

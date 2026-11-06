@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Domestic abuse related death reviews[^key-1fc11145cc0462702fd0e956fb8a57a2][^key-b4fd9b96e8855489b109448bd59aa48e]
+## 19. Domestic abuse related death reviews[^c-1fc11145cc0462702fd0e956fb8a57a2][^c-b4fd9b96e8855489b109448bd59aa48e]
 
 *Extent: E+W+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fc11145cc0462702fd0e956fb8a57a2]: Commencement: S. 19 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-1fc11145cc0462702fd0e956fb8a57a2]: Commencement: S. 19 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-b4fd9b96e8855489b109448bd59aa48e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/21/section/19) in force at 15.9.2026 by [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)
+[^c-b4fd9b96e8855489b109448bd59aa48e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2024/21/section/19) in force at 15.9.2026 by [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Venue and conduct of company meetings[^key-c3aee1618b12043f0ad1df7e388ae0a2]
+## 50. Venue and conduct of company meetings[^c-c3aee1618b12043f0ad1df7e388ae0a2]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3aee1618b12043f0ad1df7e388ae0a2]: Commencement: [Rule 50](https://www.legislation.gov.uk/nisr/2026/11/rule/50) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c3aee1618b12043f0ad1df7e388ae0a2]: Commencement: [Rule 50](https://www.legislation.gov.uk/nisr/2026/11/rule/50) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

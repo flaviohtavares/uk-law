@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Duty to provide information to consumers[^key-4db7b003ab620b2d2f84681c32ea398a]
+## 24. Duty to provide information to consumers[^c-4db7b003ab620b2d2f84681c32ea398a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4db7b003ab620b2d2f84681c32ea398a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2017/282/regulation/24) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-4db7b003ab620b2d2f84681c32ea398a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2017/282/regulation/24) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Administration charges during a triggering event period[^key-d7897f195cbd2cf27c30699df00c191c]
+## 34. Administration charges during a triggering event period[^c-d7897f195cbd2cf27c30699df00c191c]
 
 *Extent: N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7897f195cbd2cf27c30699df00c191c]: Commencement: Reg. 34 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-d7897f195cbd2cf27c30699df00c191c]: Commencement: Reg. 34 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00024]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); the definition of “financial instrument” was inserted by Article 3(b) of [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and amended by Article 2(4) of [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488) and regulation 121(4) of [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632)

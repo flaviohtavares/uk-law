@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 283. Costs, expenses etc[^key-9c985407f157b604e34eec930b456f41]
+## 283. Costs, expenses etc[^c-9c985407f157b604e34eec930b456f41]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c985407f157b604e34eec930b456f41]: Commencement: [Rule 283](https://www.legislation.gov.uk/uksi/2011/1301/rule/283) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9c985407f157b604e34eec930b456f41]: Commencement: [Rule 283](https://www.legislation.gov.uk/uksi/2011/1301/rule/283) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

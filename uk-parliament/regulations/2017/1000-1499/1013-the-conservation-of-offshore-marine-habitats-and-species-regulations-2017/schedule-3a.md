@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Prohibited Methods of Capturing or Killing Wild Animals[^key-81e76171af72a405d5a9e42789d21ef2]
+## SCHEDULE 3A — Prohibited Methods of Capturing or Killing Wild Animals[^c-81e76171af72a405d5a9e42789d21ef2]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Regulation 47(2)
 
 ## Annotations
 
-[^key-81e76171af72a405d5a9e42789d21ef2]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2017/1013/schedule/3A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [reg. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/579/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81e76171af72a405d5a9e42789d21ef2]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2017/1013/schedule/3A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [reg. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/579/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 229. Security in court[^key-069a1c8d4a3e4772d5420a8372f206bf]
+## 229. Security in court[^c-069a1c8d4a3e4772d5420a8372f206bf]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.53 of the 1991 Rules.
 
 ## Annotations
 
-[^key-069a1c8d4a3e4772d5420a8372f206bf]: Commencement: Rule 229 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-069a1c8d4a3e4772d5420a8372f206bf]: Commencement: Rule 229 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

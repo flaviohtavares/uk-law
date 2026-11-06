@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Enforcement of disciplinary penalties: general[^key-0276c04676ca85f1e34b6ffacd39d8b2][^key-3be5b82040098f2bd1e0a9a2f9fed092]
+## 91. Enforcement of disciplinary penalties: general[^c-0276c04676ca85f1e34b6ffacd39d8b2][^c-3be5b82040098f2bd1e0a9a2f9fed092]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
   - (iii) any disability he may have, and
   - (iv) any religious requirements affecting him.
 
-(7) For the purposes of subsection (6)(b)(iii) a pupil has a disability if he has a disability for the purposes of the Equality Act 2010[^key-309faca7acf42408d55d1128bf69cf8b].
+(7) For the purposes of subsection (6)(b)(iii) a pupil has a disability if he has a disability for the purposes of the Equality Act 2010[^c-309faca7acf42408d55d1128bf69cf8b].
 
 (8) A determination or authorisation by the head teacher for the purpose of subsection (4)(a) or (b) may be made—
 
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0276c04676ca85f1e34b6ffacd39d8b2]: Commencement: S. 91 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
+[^c-0276c04676ca85f1e34b6ffacd39d8b2]: Commencement: S. 91 in force at 1.4.2007 for E. by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 4(a)](https://www.legislation.gov.uk/uksi/2007/935/article/4/a)
 
-[^key-3be5b82040098f2bd1e0a9a2f9fed092]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2006/40/section/91) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/c)
+[^c-3be5b82040098f2bd1e0a9a2f9fed092]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2006/40/section/91) in force at 31.10.2010 for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/c)
 
-[^key-309faca7acf42408d55d1128bf69cf8b]: Textual amendment: Words in s. 91(7) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 94 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2))
+[^c-309faca7acf42408d55d1128bf69cf8b]: Textual amendment: Words in s. 91(7) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 94 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2))

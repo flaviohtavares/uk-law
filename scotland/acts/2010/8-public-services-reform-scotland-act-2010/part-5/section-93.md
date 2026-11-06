@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Grants to SCSWIS[^key-7b6c960cf53f1b2b400c2c4afb60f5b4][^key-cedeb91d873800aa9a879d89b3bee5f4]
+## 93. Grants to SCSWIS[^c-7b6c960cf53f1b2b400c2c4afb60f5b4][^c-cedeb91d873800aa9a879d89b3bee5f4]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b6c960cf53f1b2b400c2c4afb60f5b4]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/8/section/93) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-7b6c960cf53f1b2b400c2c4afb60f5b4]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/8/section/93) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-cedeb91d873800aa9a879d89b3bee5f4]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/8/section/93) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-cedeb91d873800aa9a879d89b3bee5f4]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/8/section/93) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

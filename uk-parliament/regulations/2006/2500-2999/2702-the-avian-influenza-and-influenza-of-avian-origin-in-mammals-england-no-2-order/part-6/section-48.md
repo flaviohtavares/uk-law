@@ -24,10 +24,10 @@ summary: ''
 
 (2) The Secretary of State may only license the movement of such eggs—
 
-- (a) to a designated egg packing centre, in disposable packaging or packaging which has been cleansed and disinfected in accordance with the instructions of a veterinary inspector[^key-f8e3bd18082a0a80230a723546e2f8a1];
+- (a) to a designated egg packing centre, in disposable packaging or packaging which has been cleansed and disinfected in accordance with the instructions of a veterinary inspector[^c-f8e3bd18082a0a80230a723546e2f8a1];
 - (b) to an egg processing plant; or
 - (c) for disposal.
 
 ## Annotations
 
-[^key-f8e3bd18082a0a80230a723546e2f8a1]: Textual amendment: Words in [art. 48(2)(a)](https://www.legislation.gov.uk/uksi/2006/2702/article/48/2/a) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/7)
+[^c-f8e3bd18082a0a80230a723546e2f8a1]: Textual amendment: Words in [art. 48(2)(a)](https://www.legislation.gov.uk/uksi/2006/2702/article/48/2/a) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/7)

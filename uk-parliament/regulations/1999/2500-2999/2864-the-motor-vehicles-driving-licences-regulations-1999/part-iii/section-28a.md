@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28A. Applications for theory tests: motor car instructors[^key-923060fdcdc602099275da975531d5d9]
+## 28A. Applications for theory tests: motor car instructors[^c-923060fdcdc602099275da975531d5d9]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) apply for such an appointment to the appointed person, specifying the date and time of the appointment which the instructor wishes to reserve and the place where he wishes the test to be conducted,
 - (b) provide such details relating to himself, the establishment and nature of the test as the appointed person may reasonably require,
-- (c) pay the fee (recoverable from the person nominated under paragraph (4)) specified in regulation 30(3)[^key-ffb0dbb3dd9131085c68be296781e204].
+- (c) pay the fee (recoverable from the person nominated under paragraph (4)) specified in regulation 30(3)[^c-ffb0dbb3dd9131085c68be296781e204].
 
 (2) The appointed person may refuse to accept an application from a motor car instructor (or, where two or more applications have been made on the same occasion, to accept all or any of those applications) where any appointment specified in the application is unavailable, or where, in the opinion of the appointed person, it is reasonably necessary to do so in the general interests of applicants for theory tests.
 
@@ -47,6 +47,6 @@ as the appointed person may reasonably require, the appointed person shall make 
 
 ## Annotations
 
-[^key-923060fdcdc602099275da975531d5d9]: Textual amendment: Reg. 28A inserted (1.4.2006) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2006 (S.I. 2006/524)](https://www.legislation.gov.uk/uksi/2006/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/524/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2006/524/regulation/6)
+[^c-923060fdcdc602099275da975531d5d9]: Textual amendment: Reg. 28A inserted (1.4.2006) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2006 (S.I. 2006/524)](https://www.legislation.gov.uk/uksi/2006/524), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/524/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2006/524/regulation/6)
 
-[^key-ffb0dbb3dd9131085c68be296781e204]: Textual amendment: Words in [reg. 28A(1)(c)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/28A/1/c) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/2/5)
+[^c-ffb0dbb3dd9131085c68be296781e204]: Textual amendment: Words in [reg. 28A(1)(c)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/28A/1/c) substituted (20.8.2014) by [The Driving Theory Test Fees (Various Amendments) Regulations 2014 (S.I. 2014/1816)](https://www.legislation.gov.uk/uksi/2014/1816), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1816/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/1816/regulation/2/5)

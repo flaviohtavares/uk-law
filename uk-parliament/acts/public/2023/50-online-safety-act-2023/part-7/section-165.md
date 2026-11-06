@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Media literacy[^key-de57aeefcd5fa81571ab92e17e203221][^key-220031b1319043e485c4fb1356a79fa9]
+## 165. Media literacy[^c-de57aeefcd5fa81571ab92e17e203221][^c-220031b1319043e485c4fb1356a79fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de57aeefcd5fa81571ab92e17e203221]: Commencement: S. 165 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-de57aeefcd5fa81571ab92e17e203221]: Commencement: S. 165 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-220031b1319043e485c4fb1356a79fa9]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2023/50/section/165) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-220031b1319043e485c4fb1356a79fa9]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2023/50/section/165) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)

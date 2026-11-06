@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Local authorities' power to make payments[^key-1317794d28e1aead9735c51d33309dad]
+## 88. Local authorities' power to make payments[^c-1317794d28e1aead9735c51d33309dad]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1317794d28e1aead9735c51d33309dad]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2018/9/section/88) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))
+[^c-1317794d28e1aead9735c51d33309dad]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2018/9/section/88) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))

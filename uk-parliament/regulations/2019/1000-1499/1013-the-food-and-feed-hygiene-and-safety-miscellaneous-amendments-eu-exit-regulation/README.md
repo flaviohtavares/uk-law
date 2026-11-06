@@ -36,7 +36,7 @@ Agriculture
 
 Food
 
-The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (EU Exit) Regulations 2019 (revoked)[^key-8375ef99bbd3ff6842401a88d299262b]
+The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (EU Exit) Regulations 2019 (revoked)[^c-8375ef99bbd3ff6842401a88d299262b]
 
 Made
 
@@ -44,11 +44,11 @@ Made
 
 Coming into force in accordance with regulation 2
 
-[^key-8375ef99bbd3ff6842401a88d299262b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8375ef99bbd3ff6842401a88d299262b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-8375ef99bbd3ff6842401a88d299262b]
+### PART 1 — Introduction[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ Coming into force in accordance with regulation 2
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2](part-1/section-2.md)
 
-### PART 2 — Amendment of subordinate legislation[^key-8375ef99bbd3ff6842401a88d299262b]
+### PART 2 — Amendment of subordinate legislation[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Coming into force in accordance with regulation 2
 - [Section 22 — Amendment of the Food Safety and Hygiene (England) Regulations 2013](part-2/section-22.md)
 - [Section 23](part-2/section-23.md)
 
-### PART 3 — Amendment of retained direct EU legislation[^key-8375ef99bbd3ff6842401a88d299262b]
+### PART 3 — Amendment of retained direct EU legislation[^c-8375ef99bbd3ff6842401a88d299262b]
 
 *Extent: E+W+S+N.I.*
 
@@ -206,14 +206,14 @@ Coming into force in accordance with regulation 2
 
 **No longer in force.**
 
-[^key-8375ef99bbd3ff6842401a88d299262b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8375ef99bbd3ff6842401a88d299262b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-8375ef99bbd3ff6842401a88d299262b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8375ef99bbd3ff6842401a88d299262b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)
+[^c-8375ef99bbd3ff6842401a88d299262b]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [21(e)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/21/e)

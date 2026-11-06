@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Making a compensation order[^key-9b06172947955bf71c1ab22ac0b404e9]
+## 135. Making a compensation order[^c-9b06172947955bf71c1ab22ac0b404e9]
 
 *Extent: E+W*
 
@@ -45,10 +45,10 @@ the court must give preference to compensation (though it may impose a fine as w
 (6) For the effect of proceedings in relation to confiscation orders on the court's powers in relation to compensation orders, see the following provisions of the Proceeds of Crime Act 2002—
 
 - (a) section 13(4) (where confiscation order has been made);
-- (b) section 15A (where court sentences before confiscation proceedings)[^key-d8f4d05b9409f3e120c3501bc77c020c].
+- (b) section 15A (where court sentences before confiscation proceedings)[^c-d8f4d05b9409f3e120c3501bc77c020c].
 
 ## Annotations
 
-[^key-9b06172947955bf71c1ab22ac0b404e9]: Commencement: S. 135 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9b06172947955bf71c1ab22ac0b404e9]: Commencement: S. 135 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d8f4d05b9409f3e120c3501bc77c020c]: Textual amendment: Words in s. 135(6)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 50](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/50); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-d8f4d05b9409f3e120c3501bc77c020c]: Textual amendment: Words in s. 135(6)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 50](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/50); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

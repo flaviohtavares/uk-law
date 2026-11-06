@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Restrictions on dissolution of further education corporation[^key-b89a055a7b96cab03d4cf5c3cb388a54]
+## 37. Restrictions on dissolution of further education corporation[^c-b89a055a7b96cab03d4cf5c3cb388a54]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b89a055a7b96cab03d4cf5c3cb388a54]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/19/section/37) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-b89a055a7b96cab03d4cf5c3cb388a54]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/19/section/37) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

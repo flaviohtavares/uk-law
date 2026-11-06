@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Duties where occupiers are on business premises entered without warrant[^key-78b4c14d55beb7524b4f7abe7c8491ad]
+## 119. Duties where occupiers are on business premises entered without warrant[^c-78b4c14d55beb7524b4f7abe7c8491ad]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78b4c14d55beb7524b4f7abe7c8491ad]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2025/26/section/119) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-78b4c14d55beb7524b4f7abe7c8491ad]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2025/26/section/119) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

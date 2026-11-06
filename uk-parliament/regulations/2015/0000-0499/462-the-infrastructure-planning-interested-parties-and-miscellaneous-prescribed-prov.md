@@ -46,23 +46,23 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 88(3A), 102(4), 150(1), 154(1) and (3), 155(2), 170(3) and (5) and 232(3) of the Planning Act 2008[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-1cea27889c4c97f378abc16f3c7b5c53]
+## 1. Citation and commencement[^c-1cea27889c4c97f378abc16f3c7b5c53]
 
 These Regulations may be cited as the Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 and come into force on 6th April 2015.
 
-## 2. Interpretation[^key-4358fce79dd53d6140c4aa6d258922a5]
+## 2. Interpretation[^c-4358fce79dd53d6140c4aa6d258922a5]
 
 In these Regulations—
 
 - “the Act” means the Planning Act 2008;
 - “address” includes any number or address used for the purposes of electronic transmission;
 - “application” means an application for an order granting development consent under section 37 of the Act[^f00002];
-- [^key-508ee7abc04b24378da2ffa2f435d6db]...
+- [^c-508ee7abc04b24378da2ffa2f435d6db]...
 - “electronic transmission” means a communication transmitted by—
   - (a) means of an electronic communications network; or
   - (b) other means but in electronic form;
 - “fire and rescue authority” has the same meaning as in section 1 of the Fire and Rescue Services Act 2004 (fire and rescue authorities)[^f00004];
-- “[^key-666d73dc0863a8c3a33601845a9cc9ac]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
+- “[^c-666d73dc0863a8c3a33601845a9cc9ac]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006;
 - “internal drainage board” has the same meaning as in section 1 of the Land Drainage Act 1991 (internal drainage districts and boards)[^f00005];
 - “local health board” means a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006 (local health boards)[^f00006];
 - “local resilience forum” has the same meaning as in regulation 4 of the Civil Contingencies Act 2004 (Contingency Planning) Regulations 2005[^f00007];
@@ -75,7 +75,7 @@ In these Regulations—
 - “registration form” means the form supplied by and obtained from the Secretary of State for the purpose of making a relevant representation and referred to in the notices and publicity given in accordance with regulations 8 and 9 of the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00012];
 - “safeguarding map” has the meaning given in a direction made by the Secretary of State in exercise of the powers conferred by articles 16(4), 25(1), 29(6) and 39 of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00013].
 
-## 3. Statutory parties[^key-0d3e994f95442fad77d4a86abac89e56]
+## 3. Statutory parties[^c-0d3e994f95442fad77d4a86abac89e56]
 
 (1) The persons specified as statutory parties for the purposes of section 88(3A) (initial assessment of issues, and preliminary meeting) of the Act are—
 
@@ -84,32 +84,32 @@ In these Regulations—
 
 (2) The persons listed in column 1 of the table in Schedule 1 marked with an asterix (\*) are not statutory parties in respect of projects in England.
 
-## 4. Relevant representations[^key-02a485b04a5edb5d6ed3fb4c863e8d50]
+## 4. Relevant representations[^c-02a485b04a5edb5d6ed3fb4c863e8d50]
 
 (1) For the purposes of section 102(4) (b) (interpretation of Chapter 4: “interested party” and other expressions) of the Act a relevant representation must be in the form of a registration form.
 
 (2) The registration form must include—
 
 - (a) the name, address and any telephone number of the person registering; and
-- (b) [^key-d45c21e986909bc8eb8d636e694017f0]... the principal submissions , and where practicable, the full particulars of the case[^key-98e482ced0a7ac29c9dea42b63b9d72b] which the person proposes to make in respect of the application.
+- (b) [^c-d45c21e986909bc8eb8d636e694017f0]... the principal submissions , and where practicable, the full particulars of the case[^c-98e482ced0a7ac29c9dea42b63b9d72b] which the person proposes to make in respect of the application.
 
-## 5. Consent requirements which may be removed by orders[^key-fa4aca0ba88ef8ba96500f4b2e6719f8]
+## 5. Consent requirements which may be removed by orders[^c-fa4aca0ba88ef8ba96500f4b2e6719f8]
 
 (1) The consents and authorisations listed in column 2 of the table in Part 1 of Schedule 2, in relation to the enactment specified in the corresponding row of column 1 of that table, are prescribed for the purposes of section 150(1) (removal of consent requirements) of the Act in respect of England and Wales.
 
 (2) The consents and authorisations listed in column 2 of the table in Part 2 of Schedule 2, in relation to the enactment specified in the corresponding row of column 1 of that table, are prescribed for the purposes of section 150(1) (removal of consent requirements)of the Act in respect of Wales only.
 
-## 6. Duration of order granting development consent[^key-f7968bfb319b30701d2e3944e6eda501]
+## 6. Duration of order granting development consent[^c-f7968bfb319b30701d2e3944e6eda501]
 
 (1) Development for which development consent is granted must be begun before the end of a period of five years beginning on the date on which the order granting development consent is made.
 
 (2) Where an order granting development consent authorises the compulsory acquisition of land, and a notice to treat is served under section 5 of the Compulsory Purchase Act 1965[^f00015] or in Scotland under section 17 of the Lands Clauses Consolidation (Scotland) Act 1845[^f00016], that notice must be served before the end of a period of five years beginning on the date on which the order granting development consent is made.
 
-## 7. Exclusion from definition of “material operation”[^key-f0d607c6d5dce1869c3c6c0b6417fc71]
+## 7. Exclusion from definition of “material operation”[^c-f0d607c6d5dce1869c3c6c0b6417fc71]
 
 The measuring or marking out of a proposed road shall not be included within the meaning of “material operation” for the purposes of section 155 (when development begins) of the Act.
 
-## 8. Application of the Public Health Act 1936 to notices of unauthorised development, etc, England and Wales[^key-069083e50c0fa7519888e96e4026e328]
+## 8. Application of the Public Health Act 1936 to notices of unauthorised development, etc, England and Wales[^c-069083e50c0fa7519888e96e4026e328]
 
 (1) The provisions of sections 276 (power of local authority to sell certain materials), 289 (power to require occupier to permit work to be executed by owner) and 294 (limitation of liability of certain owners) of the Public Health Act 1936[^f00017], apply in England and Wales in relation to steps required to be taken by a notice of unauthorised development[^f00018], as if—
 
@@ -120,14 +120,14 @@ The measuring or marking out of a proposed road shall not be included within the
 
 (2) The expenses recoverable by a local planning authority under section 170(1) of the Act are, until recovered, a charge that is binding on successive owners of the land to which the notice of unauthorised development related and the charge shall take effect as from the date of the completion by the local planning authority of the steps required to be taken by the notice of unauthorised development.
 
-## 9. Execution and cost of certain works in Scotland[^key-b524fb3a38878b8916bd24ba7087212b]
+## 9. Execution and cost of certain works in Scotland[^c-b524fb3a38878b8916bd24ba7087212b]
 
 The provisions of section 135(5) to (9) of the Town and Country Planning (Scotland) Act 1997[^f00019] shall apply in Scotland in relation to steps required to be taken by a notice of unauthorised development, as if—
 
 - (a) references to an enforcement notice and to steps or work required by an enforcement notice were references to the notice of unauthorised development and to the taking of steps required to be taken under the notice of unauthorised development; and
 - (b) references to expenses under section 135(7) to (9) of the Town and Country Planning (Scotland) Act 1997 were references to expenses recoverable under section 170(1) of the Act.
 
-## 10. Revocations, transitional provision and consequential amendment[^key-d4ef108cf884684ae80e4be8be6ad409]
+## 10. Revocations, transitional provision and consequential amendment[^c-d4ef108cf884684ae80e4be8be6ad409]
 
 (1) Subject to paragraph (2), the statutory instruments listed in the first column of the table in Schedule 3 are revoked to the extent specified in the corresponding row of the third column of the table.
 
@@ -145,13 +145,13 @@ Department for Communities and Local Government
 
 3rd March 2015
 
-## SCHEDULE 1 — Statutory Parties[^key-e85f624d2ca4fe3792341b7fbc648303]
+## SCHEDULE 1 — Statutory Parties[^c-e85f624d2ca4fe3792341b7fbc648303]
 
 Regulation 3
 
 | Column 1: Statutory Party | Column 2: Circumstances |
 | --- | --- |
-| A person who manages any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies\*[^key-d6bd0cac09998ad6a0c30fe9f8923609] | All applications likely to impact on the property, rights and interests managed by the person to which section 90B(5) of the Scotland Act 1998 applies |
+| A person who manages any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies\*[^c-d6bd0cac09998ad6a0c30fe9f8923609] | All applications likely to impact on the property, rights and interests managed by the person to which section 90B(5) of the Scotland Act 1998 applies |
 | AONB Conservation Board; or relevant AONB Conservation Board[^f00021] | All applications likely to affect an AONB in Scotland or a relevant AONB in England that is managed by a Conservation Board |
 | British Waterways Board[^f00022] | All applications likely to have an impact on inland waterways or land adjacent to inland waterways in Scotland |
 | Canal & River Trust | All applications likely to have an impact on inland waterways or land adjacent to inland waterways in England and Wales |
@@ -161,7 +161,7 @@ Regulation 3
 | Disabled Persons Transport Advisory Committee<sup></sup>\* | Applications likely to affect access to transport for disabled people |
 | Environment Agency | All applications likely to affect land in England |
 | Equality and Human Rights Commission \*(2) | All applications likely to affect land in England and Wales |
-| Forestry Commission | All applications likely to affect the protection or expansion of forests and woodlands in England [^key-846b09d499a41446194d155681a20941]... |
+| Forestry Commission | All applications likely to affect the protection or expansion of forests and woodlands in England [^c-846b09d499a41446194d155681a20941]... |
 | Gas and Electricity Markets Authority \* | All applications likely to affect gas and electricity industry |
 | Health and Safety Executive | All cases |
 | Historic England[^f00023] | All applications likely to affect land in England |
@@ -169,14 +169,14 @@ Regulation 3
 | Joint Nature Conservation Committee | All applications likely to affect the marine<br>Environment |
 | Marine Management Organisation | All applications likely to affect the marine area in England and Wales |
 | Maritime and Coastguard Agency | All applications likely to affect the maritime or coastal environment, or the shipping industry |
-| NHS England[^key-a7b8e6422f6f85ff6ac28e3e89d74519] and the relevant integrated care board[^key-e49983ef834b5422fded838d9bc82769] | All applications likely to affect land in England and Wales |
+| NHS England[^c-a7b8e6422f6f85ff6ac28e3e89d74519] and the relevant integrated care board[^c-e49983ef834b5422fded838d9bc82769] | All applications likely to affect land in England and Wales |
 | National Health Service Trust[^f00027] | All applications likely to affect land in Wales |
 | Natural England | All applications likely to affect land in England |
 | Natural Resources Body for Wales | All applications likely to affect land in Wales and all applications likely to affect the protection or expansion of forests and woodlands in Wales |
 | Office for Nuclear Regulation (ONR)[^f00028] | All applications likely to affect matters relevant to the ONR’s purposes within the meaning of Part 3 of the Energy Act 2013[^f00029] |
-| the Office of Rail and Road[^key-d0222b1a6365a3447176f47a306dec83] and approved operators[^f00030]\* | All proposed applications likely to affect the rail transport industry |
+| the Office of Rail and Road[^c-d0222b1a6365a3447176f47a306dec83] and approved operators[^f00030]\* | All proposed applications likely to affect the rail transport industry |
 | Passengers Council<sup></sup>\* | Applications likely to affect rail passenger transport |
-| United Kingdom Health Security Agency[^key-990415b88d6bc2685dbacd437b4598f0], an executive agency of the Department of Health and Social Care[^key-d3f4c5d369f58b660f94792c628163a4] | All applications likely to involve chemicals, poisons or radiation which could potentially cause harm to people and are likely to affect significantly public health |
+| United Kingdom Health Security Agency[^c-990415b88d6bc2685dbacd437b4598f0], an executive agency of the Department of Health and Social Care[^c-d3f4c5d369f58b660f94792c628163a4] | All applications likely to involve chemicals, poisons or radiation which could potentially cause harm to people and are likely to affect significantly public health |
 | relevant fire and rescue authority\* | All cases |
 | relevant Health Board[^f00031] | All applications likely to affect land in Scotland |
 | relevant Highways Authority | All applications likely to have an impact on the road network or the volume of traffic in the vicinity of the proposal |
@@ -204,7 +204,7 @@ Regulation 3
 | Water Services Regulation Authority\* | All applications likely to affect the water industry in England and Wales |
 | Welsh Ministers | All applications likely to affect land in Wales |
 
-[^key-e85f624d2ca4fe3792341b7fbc648303]
+[^c-e85f624d2ca4fe3792341b7fbc648303]
 
 Interpretation of table
 
@@ -215,7 +215,7 @@ Interpretation of table
 
 Regulation 5
 
-### PART 1[^key-603d97cd835739b3b8070ad154b2ed93]
+### PART 1[^c-603d97cd835739b3b8070ad154b2ed93]
 
 England and Wales
 
@@ -231,13 +231,13 @@ England and Wales
 | Energy Act 2008[^f00042] | A licence under section 4 (importation and storage of combustible gas)<br>A licence under section 18 (storage of carbon dioxide)<br>An approval under section 46 (funded decommissioning programmes) |
 | Nuclear Industries Security Regulations 2003[^f00043] | An approval under regulation 5 (submission and approval of first security plans)<br>An approval under regulation 6 (replacement, amendment and revocation of approved security plans)<br>An approval under regulation 8 (temporary security plans during building works etc.) |
 | Justification of Practices Involving Ionising Radiation Regulations 2004[^f00044] | A justification under regulation 9 (consideration of new practices)<br>A review of a justification decision under regulation 10 (review of existing practices) |
-| Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-c6ff7ac03b957001ddb4562a004e8951] | A licence under regulation 55 (power to grant licences)[^key-e9ba591c50fab605a57fe3129525c70d] |
+| Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-c6ff7ac03b957001ddb4562a004e8951] | A licence under regulation 55 (power to grant licences)[^c-e9ba591c50fab605a57fe3129525c70d] |
 | Persistent Organic Pollutants Regulations 2007[^f00046] | An authorisation under regulation 8 (derogation) |
-| Conservation of Habitats and Species Regulations 2017[^key-0dad780255c652e6bbe19b27826c326a] | A licence under regulation 55 (licences for certain activities relating to animals or plants)[^key-61be0f4da97a6fd38f14da210416114b] |
-| Environmental Permitting (England and Wales) Regulations 2016[^key-845b9bdd18371081c15a118fd4bd4788] | An environmental permit or an exemption from the requirement for such a permit |
+| Conservation of Habitats and Species Regulations 2017[^c-0dad780255c652e6bbe19b27826c326a] | A licence under regulation 55 (licences for certain activities relating to animals or plants)[^c-61be0f4da97a6fd38f14da210416114b] |
+| Environmental Permitting (England and Wales) Regulations 2016[^c-845b9bdd18371081c15a118fd4bd4788] | An environmental permit or an exemption from the requirement for such a permit |
 | Greenhouse Gas Emissions Trading Scheme Regulations 2012[^f00049] | A permit under Chapter 1 of Part 2 (permits) |
 
-### PART 2[^key-266c624a0997a8ef7c2cbb8a1cdf8fa4]
+### PART 2[^c-266c624a0997a8ef7c2cbb8a1cdf8fa4]
 
 Wales
 
@@ -257,7 +257,7 @@ Wales
 | Health and Safety at Work Act 1974[^f00061] | Approval under section 16 (approval of codes of practice by the Executive) |
 | Salmon and Freshwater Fisheries Act 1975[^f00062] | A confirmation or variation of an order under section 26 (limitation of fishing licences).<br>A consent under section 30 (introduction of fish into inland waters) |
 | Coity Wallia Commons Act 1976[^f00063] | A consent or Licence under section 6 or 10 |
-| [^key-6efb2d501b8421277931a8ed23d6106a]. . . | [^key-6efb2d501b8421277931a8ed23d6106a]. . . |
+| [^c-6efb2d501b8421277931a8ed23d6106a]. . . | [^c-6efb2d501b8421277931a8ed23d6106a]. . . |
 | Import of Live Fish (England and Wales) Act 1980 [^f00065] | An order under section 1 (power to limit the import etc. of fish and fish eggs) |
 | Wildlife and Countryside Act 1981 [^f00066] | A consent under section 28E (duties in relation to sites of special scientific interest.)<br>An order under section 53 (duty to keep definitive map and statement under continuous review) |
 | Road Traffic Regulation Act 1984[^f00067] | An order for the regulation of traffic under section 1, 9, 14, 15 or 22BB (general provisions for traffic regulation: regulation in special cases) |
@@ -269,17 +269,17 @@ Wales
 | Water Resources Act 1991[^f00073] | A consent under section 164 (consents for certain discharges under section 163) |
 | Clean Air Act 1993<sup></sup>[^f00074] | Approval under section 4 (requirement that new furnaces shall be so far as practicable smokeless)<br>Approval under section 6 (arrestment plant for new non-domestic furnaces)<br>An exemption from operation of section 6 under section 7 (exemptions from section 6)<br>Approval under section 8 (requirement to fit arrestment plant for burning solid fuel in other cases)<br>Exemption under section 14 ( height of chimneys for furnaces)<br>Approval under section 15 (applications for approval of height of chimneys of furnaces)<br>Approval of plans under section 16(2) (height of other chimneys)<br>An exemption of fireplaces from the provisions of section 20 (prohibition on emission of smoke in smoke control area) |
 | Countryside and Rights of Way Act 2000[^f00075] | A consent or authorisation required under byelaws pursuant to section 17 (byelaws)<br>Directions under section 24, 25, or 26 (land management; Avoidance of risk of fire or of danger to the public; or Nature conservation and heritage preservation) |
-| Historic Environment (Wales) Act 2023[^key-0fc2db8e73a05e3a87d999ecd285122e] | A consent under section 12 and Schedule 3 (authorisation of classes of works)<br>A consent under section 13 (authorisation of works by scheduled monument consent) |
+| Historic Environment (Wales) Act 2023[^c-0fc2db8e73a05e3a87d999ecd285122e] | A consent under section 12 and Schedule 3 (authorisation of classes of works)<br>A consent under section 13 (authorisation of works by scheduled monument consent) |
 | Control of Pesticide Regulations 1986[^f00076] | A consent under regulation 6 (consents) |
 | Hedgerows Regulations 1997[^f00077] | A consent under regulation 5 (removal of hedgerows) |
-| Ionising Radiations Regulations 2017[^key-ba1515d8f457ed4719e7c342c91bff08] | Registration under regulation 6 (registration of certain practices) in relation to the use of electrical equipment intended to produce x-rays for the purpose of research or the exposure of persons for medical treatment, and consent under regulation 7 (consent to carry out specified practices) in relation to the practices specified in regulation 7(1)(d), (e) and (f)[^key-c91e8edbd691683e586fe1581d2f334b] |
+| Ionising Radiations Regulations 2017[^c-ba1515d8f457ed4719e7c342c91bff08] | Registration under regulation 6 (registration of certain practices) in relation to the use of electrical equipment intended to produce x-rays for the purpose of research or the exposure of persons for medical treatment, and consent under regulation 7 (consent to carry out specified practices) in relation to the practices specified in regulation 7(1)(d), (e) and (f)[^c-c91e8edbd691683e586fe1581d2f334b] |
 | Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) Regulations 2000[^f00079] | A registration under regulation 9 (inventories of contaminated equipment) |
-| Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-798562f5bcf7252c73ee795ea3172a4b] | Any evaluation required under regulation 4 (hazard evaluation)[^key-668af9fc7919701e3836facbb1b3d190]<br>Any assessment required under regulation 5 (consequence assessment)<br>Any assessment required under regulation 6 (review of hazard evaluation and consequence assessment) |
+| Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-798562f5bcf7252c73ee795ea3172a4b] | Any evaluation required under regulation 4 (hazard evaluation)[^c-668af9fc7919701e3836facbb1b3d190]<br>Any assessment required under regulation 5 (consequence assessment)<br>Any assessment required under regulation 6 (review of hazard evaluation and consequence assessment) |
 | Water Resources (Environmental Impact Assessment) (England and Wales) Regulations 2003[^f00081] | A consent under regulation 9 (restriction on abstracting or impounding water) |
-| [^key-ff663466a79b2a91b2c93dd06377baaa]. . . | [^key-ff663466a79b2a91b2c93dd06377baaa]. . . |
-| Environmental Permitting (England and Wales) Regulations 2016[^key-4c214ce1db407df1b5a5889f210a9385] | A permit under regulation 13, where that function is exercisable by a local authority pursuant to regulations 32 or 33 (grant of an environmental permit) |
+| [^c-ff663466a79b2a91b2c93dd06377baaa]. . . | [^c-ff663466a79b2a91b2c93dd06377baaa]. . . |
+| Environmental Permitting (England and Wales) Regulations 2016[^c-4c214ce1db407df1b5a5889f210a9385] | A permit under regulation 13, where that function is exercisable by a local authority pursuant to regulations 32 or 33 (grant of an environmental permit) |
 
-## SCHEDULE 3 — Revocations[^key-194e3f0ead609c46889142d04d068643]
+## SCHEDULE 3 — Revocations[^c-194e3f0ead609c46889142d04d068643]
 
 Regulation 10(1)
 
@@ -329,17 +329,17 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00001]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). Subsection (3A) of section 88 was inserted by section 138(1) and (5) (c) of the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 102(4) was amended by section 128(2) of, and paragraphs 1 and 47 of Schedule 13 to, the Localism Act 2011. *See* section 235(1) for the meaning of “prescribed”.
 
-[^key-1cea27889c4c97f378abc16f3c7b5c53]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-1cea27889c4c97f378abc16f3c7b5c53]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
-[^key-4358fce79dd53d6140c4aa6d258922a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/462/regulation/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-4358fce79dd53d6140c4aa6d258922a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/462/regulation/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00002]: Footnote: Section 37 was amended by sections 128(2), 137(1) and (5) of, and paragraphs 1 and 5 of Schedule 13 to, the Localism Act 2011.
 
-[^key-508ee7abc04b24378da2ffa2f435d6db]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/462/regulation/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [80(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/80/2/a)
+[^c-508ee7abc04b24378da2ffa2f435d6db]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/462/regulation/2) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [80(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/80/2/a)
 
 [^f00004]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21). Section 1 was amended by section 32(1) of and paragraphs 10(1) and (2) of Schedule 2 to, the Civil Contingencies Act 2004.
 
-[^key-666d73dc0863a8c3a33601845a9cc9ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/462/regulation/2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [80(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/80/2/b)
+[^c-666d73dc0863a8c3a33601845a9cc9ac]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/462/regulation/2) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [80(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/80/2/b)
 
 [^f00005]: Footnote: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59).
 
@@ -359,49 +359,49 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00013]: Footnote: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184); to which there are amendments which are not relevant to these Regulations.
 
-[^key-0d3e994f95442fad77d4a86abac89e56]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/462/regulation/3) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-0d3e994f95442fad77d4a86abac89e56]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/462/regulation/3) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00014]: Footnote: *See* section 59 of the Act for the definition of “affected person”. Section 59 was amended by section 128(2) of, and paragraphs 1 and 16 of Schedule 13 to, the Localism Act 2011.
 
-[^key-02a485b04a5edb5d6ed3fb4c863e8d50]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/462/regulation/4) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-02a485b04a5edb5d6ed3fb4c863e8d50]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/462/regulation/4) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
-[^key-d45c21e986909bc8eb8d636e694017f0]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/462/regulation/4/2/b) omitted (30.4.2024) by virtue of [The Infrastructure Planning (Miscellaneous Provisions) Regulations 2024 (S.I. 2024/332)](https://www.legislation.gov.uk/uksi/2024/332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/332/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/332/regulation/3/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2024/332/regulation/4/2))
+[^c-d45c21e986909bc8eb8d636e694017f0]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/462/regulation/4/2/b) omitted (30.4.2024) by virtue of [The Infrastructure Planning (Miscellaneous Provisions) Regulations 2024 (S.I. 2024/332)](https://www.legislation.gov.uk/uksi/2024/332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/332/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/332/regulation/3/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2024/332/regulation/4/2))
 
-[^key-98e482ced0a7ac29c9dea42b63b9d72b]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/462/regulation/4/2/b) inserted (30.4.2024) by [The Infrastructure Planning (Miscellaneous Provisions) Regulations 2024 (S.I. 2024/332)](https://www.legislation.gov.uk/uksi/2024/332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/332/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/332/regulation/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2024/332/regulation/4/2))
+[^c-98e482ced0a7ac29c9dea42b63b9d72b]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/462/regulation/4/2/b) inserted (30.4.2024) by [The Infrastructure Planning (Miscellaneous Provisions) Regulations 2024 (S.I. 2024/332)](https://www.legislation.gov.uk/uksi/2024/332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/332/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/332/regulation/3/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2024/332/regulation/4/2))
 
-[^key-fa4aca0ba88ef8ba96500f4b2e6719f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/462/regulation/5) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-fa4aca0ba88ef8ba96500f4b2e6719f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/462/regulation/5) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
-[^key-f7968bfb319b30701d2e3944e6eda501]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/462/regulation/6) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-f7968bfb319b30701d2e3944e6eda501]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/462/regulation/6) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00015]: Footnote: [1965 c.56](https://www.legislation.gov.uk/ukpga/1965/56). Section 5 was amended by section 67 of the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34) and by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^f00016]: Footnote: [1845 c.19](https://www.legislation.gov.uk/ukpga/1845/19).
 
-[^key-f0d607c6d5dce1869c3c6c0b6417fc71]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/462/regulation/7) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-f0d607c6d5dce1869c3c6c0b6417fc71]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/462/regulation/7) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
-[^key-069083e50c0fa7519888e96e4026e328]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/462/regulation/8) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-069083e50c0fa7519888e96e4026e328]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/462/regulation/8) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00017]: Footnote: [1936 c.49](https://www.legislation.gov.uk/ukpga/1936/49).
 
 [^f00018]: Footnote: *See* section 169 of the Act for the definition of “notice of unauthorised development”.
 
-[^key-b524fb3a38878b8916bd24ba7087212b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/462/regulation/9) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-b524fb3a38878b8916bd24ba7087212b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/462/regulation/9) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00019]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). See paragraph 23 of Schedule 12 to the Act for the application of section 170 to Scotland (Application of act to Scotland: modifications).
 
-[^key-d4ef108cf884684ae80e4be8be6ad409]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/462/regulation/10) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-d4ef108cf884684ae80e4be8be6ad409]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/462/regulation/10) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2010/104](https://www.legislation.gov.uk/uksi/2010/104).
 
-[^key-e85f624d2ca4fe3792341b7fbc648303]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-e85f624d2ca4fe3792341b7fbc648303]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
-[^key-d6bd0cac09998ad6a0c30fe9f8923609]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) table inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 135](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/135)
+[^c-d6bd0cac09998ad6a0c30fe9f8923609]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) table inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 135](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/135)
 
 [^f00021]: Footnote: “AONB Conservation Board” means a conservation board established by order under section 86 of the Countryside and Rights of Way Act 2000 (establishment of conservation boards) 2000 (c.37 ); Section 86 was amended by sections 118(2) and 120 of, and paragraph 23 of Schedule 7, and by Schedule 9 to, the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5); by section 105(1) of, and paragraph 164(c) of Schedule 11 to, the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16) and by article 4(1) of, and paragraphs 400 and 408 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
 [^f00022]: Footnote: On 2 July 2012, British Waterways Board ceased to exist in England and Wales and in its place Canal & River Trust was set up. In Scotland British Waterways Board continues to exist as a legal entity under the trading name “Scottish Canals”.
 
-[^key-846b09d499a41446194d155681a20941]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 71(2)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/71/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
+[^c-846b09d499a41446194d155681a20941]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 71(2)](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/71/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2)
 
 [^f00023]: Footnote: Historic England is the name used by the Historic Buildings and Monuments Commission for England.
 
@@ -409,9 +409,9 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00025]: Footnote: “Passenger Transport Executive” has the same meaning as in section 9 of the Transport Act 1968 (Areas, Authorities and Executives)[1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73). Section 9 was amended by the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26) section s 77(5), 98(4), section 131,Schedule 4, Part 1, paragraph 1, 2(1), 3, 4(2),5, 6,7, 8,9, 11(b), Schedule 7, Part 4 ;The Transport Act [1985 (c.67)](https://www.legislation.gov.uk/ukpga/1985/67), section 57(1)(a),(b),(d),(6),section 58(1),(2)(a)(i),(b),section 139(3), Schedule 3, Paragraph 3, Schedule 8; the Local Government etc (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180(1), Schedule 13, paragraph 80(1),(2)(a), (b), Schedule 18, paragraph 1(f); and, [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866) .
 
-[^key-a7b8e6422f6f85ff6ac28e3e89d74519]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-a7b8e6422f6f85ff6ac28e3e89d74519]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-e49983ef834b5422fded838d9bc82769]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/462) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-e49983ef834b5422fded838d9bc82769]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/462) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00027]: Footnote: “National Health Service Trust” means a National Health Service Trust established under section 18 (NHS Trusts) of the National Health Service (Wales) Act [2006 (c.42)](https://www.legislation.gov.uk/ukpga/2006/42).
 
@@ -419,13 +419,13 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00029]: Footnote: [2013. c.32](https://www.legislation.gov.uk/ukpga/2013/32). *See* section 67 of the Act.
 
-[^key-d0222b1a6365a3447176f47a306dec83]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(mm)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/mm) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+[^c-d0222b1a6365a3447176f47a306dec83]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(mm)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/mm) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
 
 [^f00030]: Footnote: *See* section 25 of the Act for the definition of “approved operators”.
 
-[^key-990415b88d6bc2685dbacd437b4598f0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) substituted (1.10.2021) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2021 (S.I. 2021/978)](https://www.legislation.gov.uk/uksi/2021/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/5/2)
+[^c-990415b88d6bc2685dbacd437b4598f0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) substituted (1.10.2021) by [The Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2021 (S.I. 2021/978)](https://www.legislation.gov.uk/uksi/2021/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/978/regulation/5/2)
 
-[^key-d3f4c5d369f58b660f94792c628163a4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(cc)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/cc) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-d3f4c5d369f58b660f94792c628163a4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(cc)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/cc) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^f00031]: Footnote: “Health Board” has the same meeting as in section 2 of the [National Health Service (Scotland) Act 1978 (c.29 )](https://www.legislation.gov.uk/ukpga/1978/29).Section 2 was amended by the National Health Service Reform (Scotland) Act [2004 asp 7](https://www.legislation.gov.uk/asp/2004/7), Schedule 1paragraph 1(2); the Smoking, Health and Social Care (Scotland) Act [2005 asp 13](https://www.legislation.gov.uk/asp/2005/13), Schedule 2 para. 2(2); the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19), Schedule 10 paragraph 1; and further amended by the Health Boards (Membership and Elections) (Scotland) Act [2009 asp 5](https://www.legislation.gov.uk/asp/2009/5), section 2(1).
 
@@ -435,7 +435,7 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00034]: Footnote: “Trinity House” means the Corporation of Trinity House of Deptford Strond.
 
-[^key-603d97cd835739b3b8070ad154b2ed93]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-603d97cd835739b3b8070ad154b2ed93]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00035]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Section 16 was amended by the Environmental Protection Act [1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43), section 132 and Schedule 9 paragraph 11(4); the Countryside and Rights of Way Act [2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37), section 81(1) and Schedule 12 paragraph 6; the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 105(1) and Schedule 11, Part 1 paragraph 72; the Marine and Costal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 10; [S.I. 1995/2825](https://www.legislation.gov.uk/uksi/1995/2825); [S.I. 2007/1843](https://www.legislation.gov.uk/uksi/2007/1843) and [SI 2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755) which repealed section 132 of, and Schedule 9 to the Countryside and Rights of Way Act 2000.
 
@@ -457,21 +457,21 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00044]: Footnote: [S.I. 2004/1769](https://www.legislation.gov.uk/uksi/2004/1769), to which there are amendments not relevant to these Regulations.
 
-[^key-c6ff7ac03b957001ddb4562a004e8951]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2) entry substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/15/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-c6ff7ac03b957001ddb4562a004e8951]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2) entry substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/15/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
-[^key-e9ba591c50fab605a57fe3129525c70d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2) entry substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/15/2/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-e9ba591c50fab605a57fe3129525c70d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2) entry substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/15/2/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
 [^f00046]: Footnote: [S.I 2007/3106](https://www.legislation.gov.uk/uksi/2007/3106), to which there are amendments not relevant to these Regulations.
 
-[^key-0dad780255c652e6bbe19b27826c326a]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) Table substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 50(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/50/a)
+[^c-0dad780255c652e6bbe19b27826c326a]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) Table substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 50(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/50/a)
 
-[^key-61be0f4da97a6fd38f14da210416114b]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) Table substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 50(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/50/b)
+[^c-61be0f4da97a6fd38f14da210416114b]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) Table substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 50(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/50/b)
 
-[^key-845b9bdd18371081c15a118fd4bd4788]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 84(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/84/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-845b9bdd18371081c15a118fd4bd4788]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 84(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/84/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00049]: Footnote: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038), to which there are amendments not relevant to these Regulations
 
-[^key-266c624a0997a8ef7c2cbb8a1cdf8fa4]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-266c624a0997a8ef7c2cbb8a1cdf8fa4]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
 
 [^f00050]: Footnote: [1852 c.79](https://www.legislation.gov.uk/ukpga/1852/79).
 
@@ -501,7 +501,7 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00063]: Footnote: [1976 c.xxix](https://www.legislation.gov.uk/ukla/1976/29).
 
-[^key-6efb2d501b8421277931a8ed23d6106a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) omitted (31.12.2024) by virtue of [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/8/a)
+[^c-6efb2d501b8421277931a8ed23d6106a]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) omitted (31.12.2024) by virtue of [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/8/a)
 
 [^f00065]: Footnote: [1980 c.27](https://www.legislation.gov.uk/ukpga/1980/27). Section 1 was amended by the Fisheries Act [1981 (c.29)](https://www.legislation.gov.uk/ukpga/1981/29) section 37(2), the Environmental Protection Act [1990 (c.43)](https://www.legislation.gov.uk/ukpga/1990/43) section 132, Schedule 9, paragraph 8, the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16) section 105(1), Schedule 11, Part 1, paragraph 62. Further amendments were made by and [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463) and [S.I. 2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755).
 
@@ -525,26 +525,26 @@ An Impact Assessment has been prepared in relation to Schedule 2 of these Regula
 
 [^f00075]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 17 was amended by section 406(1) of and paragraph 165(1) and (2) of Schedule 17 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-0fc2db8e73a05e3a87d999ecd285122e]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) inserted (31.12.2024) by [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/8/b)
+[^c-0fc2db8e73a05e3a87d999ecd285122e]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) inserted (31.12.2024) by [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/8/b)
 
 [^f00076]: Footnote: [S.I. 1986/1510](https://www.legislation.gov.uk/uksi/1986/1510), amended by [S.I. 1997/188](https://www.legislation.gov.uk/uksi/1997/188); there are other amending instruments but none are relevant.
 
 [^f00077]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160), to which there are amendments not relevant to these Regulations.
 
-[^key-ba1515d8f457ed4719e7c342c91bff08]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/15/2/a) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-ba1515d8f457ed4719e7c342c91bff08]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/15/2/a) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
-[^key-c91e8edbd691683e586fe1581d2f334b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/15/2/b) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-c91e8edbd691683e586fe1581d2f334b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/15/2/b) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^f00079]: Footnote: [S.I. 2000/1043](https://www.legislation.gov.uk/uksi/2000/1043), amended by [S.I 2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755); there are other amending instruments but none are relevant.
 
-[^key-798562f5bcf7252c73ee795ea3172a4b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 11(a)](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/11/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-798562f5bcf7252c73ee795ea3172a4b]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 11(a)](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/11/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
-[^key-668af9fc7919701e3836facbb1b3d190]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/11/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-668af9fc7919701e3836facbb1b3d190]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/11/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
 [^f00081]: Footnote: [S.I. 2003/164](https://www.legislation.gov.uk/uksi/2003/164), amended by [S.I 2013/755 (W.90)](https://www.legislation.gov.uk/wsi/2013/755); there are other amending instruments but none are relevant.
 
-[^key-ff663466a79b2a91b2c93dd06377baaa]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) Table omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/336/regulation/3)
+[^c-ff663466a79b2a91b2c93dd06377baaa]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) Table omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/336/regulation/3)
 
-[^key-4c214ce1db407df1b5a5889f210a9385]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 84(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/84/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-4c214ce1db407df1b5a5889f210a9385]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/462/schedule/2/part/2) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 84(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/84/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-194e3f0ead609c46889142d04d068643]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)
+[^c-194e3f0ead609c46889142d04d068643]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) in force at 6.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1)

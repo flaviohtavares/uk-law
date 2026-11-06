@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Dissolution of Council for National Academic Awards.[^key-7eca71f86c9709241fb0a007da5dcadd]
+## 80. Dissolution of Council for National Academic Awards.[^c-7eca71f86c9709241fb0a007da5dcadd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eca71f86c9709241fb0a007da5dcadd]: Textual amendment: S. 80 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-7eca71f86c9709241fb0a007da5dcadd]: Textual amendment: S. 80 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Overpayments of college fee loan[^key-d5b35233998c07e89895c798ff88dde0]
+## 118. Overpayments of college fee loan[^c-d5b35233998c07e89895c798ff88dde0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b35233998c07e89895c798ff88dde0]: Textual amendment: [Reg. 118](https://www.legislation.gov.uk/uksi/2011/1986/regulation/118) omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)
+[^c-d5b35233998c07e89895c798ff88dde0]: Textual amendment: [Reg. 118](https://www.legislation.gov.uk/uksi/2011/1986/regulation/118) omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)

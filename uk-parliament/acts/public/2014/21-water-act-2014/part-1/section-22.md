@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Primary duty to secure resilience[^c2218953][^key-a78950c26bc8f72a03efc4bc1e5108cc]
+## 22. Primary duty to secure resilience[^c2218953][^c-a78950c26bc8f72a03efc4bc1e5108cc]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c2218953]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/21/section/22) not in force at Royal Assent; [s. 22](https://www.legislation.gov.uk/ukpga/2014/21/section/22) in force for specified purposes at 14.7.2014, see [s. 94(2)(e)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/e)
 
-[^key-a78950c26bc8f72a03efc4bc1e5108cc]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/21/section/22) in force at 18.12.2015 in so far as not already in force by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/e)
+[^c-a78950c26bc8f72a03efc4bc1e5108cc]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/21/section/22) in force at 18.12.2015 in so far as not already in force by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/e)

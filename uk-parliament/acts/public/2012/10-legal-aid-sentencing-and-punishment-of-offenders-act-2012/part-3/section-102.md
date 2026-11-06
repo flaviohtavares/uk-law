@@ -25,22 +25,22 @@ summary: ''
 (2) Those kinds of accommodation are—
 
 - (a) a secure children's home,
-- (aa)[^key-c068a27c83a174829ef77e70a59243ca] a secure college,
+- (aa)[^c-c068a27c83a174829ef77e70a59243ca] a secure college,
 - (b) a secure training centre,
 - (c) a young offender institution, and
-- (d) accommodation, or accommodation of a description, for the time being specified by regulations under section 248(1)(f) of the Sentencing Code[^key-462cc622806e3e3160c2c68189aaa73c] (youth detention accommodation for purposes of detention and training order provisions).
+- (d) accommodation, or accommodation of a description, for the time being specified by regulations under section 248(1)(f) of the Sentencing Code[^c-462cc622806e3e3160c2c68189aaa73c] (youth detention accommodation for purposes of detention and training order provisions).
 
 (3) A child's detention in one of those kinds of accommodation pursuant to a remand to youth detention accommodation is lawful.
 
 (4) Where a court remands a child to youth detention accommodation, the court must—
 
-- (za)[^key-935aad29a46ef0dfd654dc12bf1db44a] state in open court that it has considered subsections (3) and (4A) of section 91,
+- (za)[^c-935aad29a46ef0dfd654dc12bf1db44a] state in open court that it has considered subsections (3) and (4A) of section 91,
 - (a) state in open court that it is of the opinion mentioned in section 98(4), 99(7), 100(4) or 101(7) (as the case may be), and
 - (b) explain to the child in open court and in ordinary language why it is of that opinion.
 
 (5) A magistrates' court must ensure a reason that it gives under subsection (4)(b)—
 
-- (za)[^key-9d98d943bbcf590b20852fdca4a8e188] is given in writing to—
+- (za)[^c-9d98d943bbcf590b20852fdca4a8e188] is given in writing to—
   - (i) the child,
   - (ii) any legal representative of the child, and
   - (iii) any youth offending team which appears to the court to have functions in relation to the child,
@@ -114,13 +114,13 @@ may designate a local authority (“B”) as the designated authority for the ch
 
 [^c22554351]: Commencement: S. 102 wholly in force at 3.12.2012, see s. 151(1) and [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/c) (with [art. 7(1)(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/1/3))
 
-[^key-c068a27c83a174829ef77e70a59243ca]: Textual amendment: S. 102(2)(aa) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 29](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/29); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-c068a27c83a174829ef77e70a59243ca]: Textual amendment: S. 102(2)(aa) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 29](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/29); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-462cc622806e3e3160c2c68189aaa73c]: Textual amendment: Words in [s. 102(2)(d)](https://www.legislation.gov.uk/ukpga/2012/10/section/102/2/d) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 287](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/287) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-462cc622806e3e3160c2c68189aaa73c]: Textual amendment: Words in [s. 102(2)(d)](https://www.legislation.gov.uk/ukpga/2012/10/section/102/2/d) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 287](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/287) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-935aad29a46ef0dfd654dc12bf1db44a]: Textual amendment: [S. 102(4)(za)](https://www.legislation.gov.uk/ukpga/2012/10/section/102/4/za) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 157(7)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/157/7/a), [208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-935aad29a46ef0dfd654dc12bf1db44a]: Textual amendment: [S. 102(4)(za)](https://www.legislation.gov.uk/ukpga/2012/10/section/102/4/za) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 157(7)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/157/7/a), [208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
 
-[^key-9d98d943bbcf590b20852fdca4a8e188]: Textual amendment: [S. 102(5)(za)](https://www.legislation.gov.uk/ukpga/2012/10/section/102/5/za) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 157(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/157/7/b), [208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
+[^c-9d98d943bbcf590b20852fdca4a8e188]: Textual amendment: [S. 102(5)(za)](https://www.legislation.gov.uk/ukpga/2012/10/section/102/5/za) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 157(7)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/157/7/b), [208(5)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/t)
 
 [^c22555841]: Textual amendment: Words in s. 102(7)(a) inserted (26.4.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). {ss. 19(2)}, 61(5) (with s. 19(6)(7))
 

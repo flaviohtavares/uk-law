@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Notional capital[^key-84696d130fa515e270bf218b57775ac2]
+## 39. Notional capital[^c-84696d130fa515e270bf218b57775ac2]
 
 *Extent: N.I.*
 
@@ -69,6 +69,6 @@ any capital which would have become available to the relevant person upon applic
 
 ## Annotations
 
-[^key-84696d130fa515e270bf218b57775ac2]: Commencement: Reg. 39 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-84696d130fa515e270bf218b57775ac2]: Commencement: Reg. 39 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00082]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1(1) was substituted by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and section 1(2) and (3) was substituted by Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))

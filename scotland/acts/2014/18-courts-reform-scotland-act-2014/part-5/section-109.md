@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Abolition of appeal from a sheriff to the sheriff principal[^key-150e7abf3f90197cfb4e04ced97e2f81]
+## 109. Abolition of appeal from a sheriff to the sheriff principal[^c-150e7abf3f90197cfb4e04ced97e2f81]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-150e7abf3f90197cfb4e04ced97e2f81]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2014/18/section/109) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-150e7abf3f90197cfb4e04ced97e2f81]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2014/18/section/109) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

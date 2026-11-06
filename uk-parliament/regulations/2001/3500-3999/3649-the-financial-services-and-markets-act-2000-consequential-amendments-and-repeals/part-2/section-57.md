@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Other distributions by investment companies[^key-402b238269da89a887ad687d59f4bdc7]
+## 57. Other distributions by investment companies[^c-402b238269da89a887ad687d59f4bdc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-402b238269da89a887ad687d59f4bdc7]: Commencement: Art. 57 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-402b238269da89a887ad687d59f4bdc7]: Commencement: Art. 57 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00062]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16 paragraph 34.

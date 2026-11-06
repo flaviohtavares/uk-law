@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Saving for Trinity House[^key-ba6c13423fdb5921c1715347b5bd1437]
+## 53. Saving for Trinity House[^c-ba6c13423fdb5921c1715347b5bd1437]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-ba6c13423fdb5921c1715347b5bd1437]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2014/2935/article/53) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-ba6c13423fdb5921c1715347b5bd1437]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2014/2935/article/53) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

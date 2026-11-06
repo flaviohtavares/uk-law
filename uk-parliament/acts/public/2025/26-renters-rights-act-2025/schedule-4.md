@@ -24,19 +24,19 @@ Section 100(6)
 
 ### Part 1 — Amendments of [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34)
 
-**1.**[^key-b35f74898e6ac67cb5457d918dd6df69][^key-1fc4174915b399e988562a235f795781][^key-49a067c8b4be44d5a77bfac8ea8d9d59] The [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) is amended as follows.
+**1.**[^c-b35f74898e6ac67cb5457d918dd6df69][^c-1fc4174915b399e988562a235f795781][^c-49a067c8b4be44d5a77bfac8ea8d9d59] The [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) is amended as follows.
 
-**2.**[^key-c3079f9ea5ea250be177cf61fa878959] (1)[^key-a6b63a739fea2827995e5bb1c9b1d4bf] Section 1 (new system for assessing housing conditions and enforcing housing standards) is amended as follows.
+**2.**[^c-c3079f9ea5ea250be177cf61fa878959] (1)[^c-a6b63a739fea2827995e5bb1c9b1d4bf] Section 1 (new system for assessing housing conditions and enforcing housing standards) is amended as follows.
 
 (2) In subsection (3)(a), omit “hazard”.
 
-(3)[^key-5b57c8a7a50a7c8e189ccc59ad7dc0b6] After subsection (8) insert—
+(3)[^c-5b57c8a7a50a7c8e189ccc59ad7dc0b6] After subsection (8) insert—
 
 > (9) But unoccupied HMO accommodation is “**qualifying residential premises**” for the purposes of this Part only to the extent provided for by section 2B(1)(c).
 
 **Not yet in force.**
 
-**3.**[^key-2612aa580326e7caf6e8aecb0cee94e2] (1) Section 4 (inspections by local housing authorities) is amended as follows.
+**3.**[^c-2612aa580326e7caf6e8aecb0cee94e2] (1) Section 4 (inspections by local housing authorities) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -73,7 +73,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**4.**[^key-7355abe28b7b5855609f1f6fbf872467] (1) Section 5 (general duty to take enforcement action) is amended as follows.
+**4.**[^c-7355abe28b7b5855609f1f6fbf872467] (1) Section 5 (general duty to take enforcement action) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -92,9 +92,9 @@ Section 100(6)
 
 **Not yet in force.**
 
-**5.**[^key-b689146ad515c23c369ccd3c34faa286] In the heading to section 6 (how duty under section 5 operates in certain cases), omit “Category 1 hazards”.
+**5.**[^c-b689146ad515c23c369ccd3c34faa286] In the heading to section 6 (how duty under section 5 operates in certain cases), omit “Category 1 hazards”.
 
-**6.**[^key-d16efe2f6ff79e327bd337fbf6358b9f][^key-40a1cdb8a42c0712647d5b7a31eb0d0a] After section 6 insert—
+**6.**[^c-d16efe2f6ff79e327bd337fbf6358b9f][^c-40a1cdb8a42c0712647d5b7a31eb0d0a] After section 6 insert—
 
 > **6A. Financial penalties relating to category 1 hazards or type 1 requirements**
 >
@@ -135,7 +135,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**7.**[^key-9c3b72c518e106639ae9b2bf2db507fe] (1) Section 7 (powers to take enforcement action) is amended as follows.
+**7.**[^c-9c3b72c518e106639ae9b2bf2db507fe] (1) Section 7 (powers to take enforcement action) is amended as follows.
 
 (2) In subsection (1), for “that a category 2 hazard exists on residential premises” substitute
 
@@ -157,13 +157,13 @@ Section 100(6)
 
 **Not yet in force.**
 
-**8.**[^key-a2b720c34e20b2217fc89414de707bcb] In section 8 (reasons for decision to take enforcement action), in subsection (5)(a), omit “hazard”.
+**8.**[^c-a2b720c34e20b2217fc89414de707bcb] In section 8 (reasons for decision to take enforcement action), in subsection (5)(a), omit “hazard”.
 
-**9.**[^key-e9c339911cf743113e1dfcf4b4d69b50] (1)[^key-a180765e674c50ab4ed2e5c36f123e30] Section 9 (guidance about inspections and enforcement action) is amended as follows.
+**9.**[^c-e9c339911cf743113e1dfcf4b4d69b50] (1)[^c-a180765e674c50ab4ed2e5c36f123e30] Section 9 (guidance about inspections and enforcement action) is amended as follows.
 
 (2) In subsection (1)(b), omit “hazard”.
 
-(3)[^key-b39584a17532def9ba31a74f93f6075c] After that subsection insert—
+(3)[^c-b39584a17532def9ba31a74f93f6075c] After that subsection insert—
 
 > (1A) The Secretary of State may give guidance to local housing authorities in England about exercising their functions under this Chapter in relation to—
 >
@@ -172,11 +172,11 @@ Section 100(6)
 
 **Not yet in force.**
 
-**10.**[^key-823c0b5841916adefa828abb79694909] In the heading of Chapter 2 of Part 1 (improvement notices, prohibition orders and hazard awareness notices), omit “hazard”.
+**10.**[^c-823c0b5841916adefa828abb79694909] In the heading of Chapter 2 of Part 1 (improvement notices, prohibition orders and hazard awareness notices), omit “hazard”.
 
 **Not yet in force.**
 
-**11.**[^key-124d1e2fb290faa1bd1f88ac03772b6e] (1) Section 11 (improvement notices relating to category 1 hazards: duty of authority to serve notice) is amended as follows.
+**11.**[^c-124d1e2fb290faa1bd1f88ac03772b6e] (1) Section 11 (improvement notices relating to category 1 hazards: duty of authority to serve notice) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -226,7 +226,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**12.**[^key-3264593a9298ae33604cee886b6e02dd] (1) Section 12 (improvement notices relating to category 2 hazards: power of authority to serve notice) is amended as follows.
+**12.**[^c-3264593a9298ae33604cee886b6e02dd] (1) Section 12 (improvement notices relating to category 2 hazards: power of authority to serve notice) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -255,7 +255,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**13.**[^key-6f0af0510328daabe9efabd9f9767bce] (1) Section 13 (contents of improvement notices) is amended as follows.
+**13.**[^c-6f0af0510328daabe9efabd9f9767bce] (1) Section 13 (contents of improvement notices) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -267,14 +267,14 @@ Section 100(6)
 
 **Not yet in force.**
 
-**14.**[^key-835ce170bf232d614754831fbfa72a80] In section 16(3) (revocation and variation of improvement notices)—
+**14.**[^c-835ce170bf232d614754831fbfa72a80] In section 16(3) (revocation and variation of improvement notices)—
 
 - (a) after “**hazards**” (in the first place) insert “or failures (or a combination of hazards and failures)”, and
 - (b) in paragraph (a), after “hazards” insert “or failures”.
 
 **Not yet in force.**
 
-**15.**[^key-148e0ca845ac58bbbd8bd3b868dbec3b] (1) Section 19 (change in person liable to comply with improvement notice) is amended as follows.
+**15.**[^c-148e0ca845ac58bbbd8bd3b868dbec3b] (1) Section 19 (change in person liable to comply with improvement notice) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -296,7 +296,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**16.**[^key-70449779f4edfb355196c9daf00b236d] (1) In section 20 (prohibition orders relating to category 1 hazards: duty of authority to make order) is amended as follows.
+**16.**[^c-70449779f4edfb355196c9daf00b236d] (1) In section 20 (prohibition orders relating to category 1 hazards: duty of authority to make order) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -341,7 +341,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**17.**[^key-96d878a9a2bc302bbdd4f9182567c5fa] (1) Section 21 (prohibition orders relating to category 2 hazards: power of authority to make order) is amended as follows.
+**17.**[^c-96d878a9a2bc302bbdd4f9182567c5fa] (1) Section 21 (prohibition orders relating to category 2 hazards: power of authority to make order) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -366,7 +366,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**18.**[^key-bf8e0d87fce04775731bb7ae43bd9ee4] (1) Section 22 (contents of prohibition orders) is amended as follows.
+**18.**[^c-bf8e0d87fce04775731bb7ae43bd9ee4] (1) Section 22 (contents of prohibition orders) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -378,7 +378,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**19.**[^key-e035a10ae39e18360bcff037f012a7d8] (1) Section 25 (revocation and variation of prohibition orders) is amended as follows.
+**19.**[^c-e035a10ae39e18360bcff037f012a7d8] (1) Section 25 (revocation and variation of prohibition orders) is amended as follows.
 
 (2) In subsection (1), for the words from “that” to the end substitute
 
@@ -394,11 +394,11 @@ Section 100(6)
 
 **Not yet in force.**
 
-**20.**[^key-631b721b8be6a1e31d417d12fa8e7a3a] In the italic heading before section 28, omit “Hazard”.
+**20.**[^c-631b721b8be6a1e31d417d12fa8e7a3a] In the italic heading before section 28, omit “Hazard”.
 
 **Not yet in force.**
 
-**21.**[^key-f4b370e08d21375e735ba3cbd8d1eb68] (1) Section 28 (hazard awareness notices relating to category 1 hazards: duty of authority to serve notice) is amended as follows.
+**21.**[^c-f4b370e08d21375e735ba3cbd8d1eb68] (1) Section 28 (hazard awareness notices relating to category 1 hazards: duty of authority to serve notice) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -454,7 +454,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**22.**[^key-777e8db1ebdc4cc5502f9498217e280a] (1) Section 29 (hazard awareness notices relating to category 2 hazards: power of authority to serve notice) is amended as follows.
+**22.**[^c-777e8db1ebdc4cc5502f9498217e280a] (1) Section 29 (hazard awareness notices relating to category 2 hazards: power of authority to serve notice) is amended as follows.
 
 (2) For subsections (1) and (2) substitute—
 
@@ -505,7 +505,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**23.**[^key-282d6a4a823103afa1f0393f9635a997] (1) Section 30 (offence of failing to comply with improvement notice) is amended as follows.
+**23.**[^c-282d6a4a823103afa1f0393f9635a997] (1) Section 30 (offence of failing to comply with improvement notice) is amended as follows.
 
 (2) In subsection (2), after “hazard” insert “or failure”.
 
@@ -515,11 +515,11 @@ Section 100(6)
 
 **Not yet in force.**
 
-**24.**[^key-ed758c85229df03446ae6b4f4695416e] In section 32 (offence of failing to comply with prohibition order etc), in subsection (2)(a), omit “not exceeding level 5 on the standard scale”.
+**24.**[^c-ed758c85229df03446ae6b4f4695416e] In section 32 (offence of failing to comply with prohibition order etc), in subsection (2)(a), omit “not exceeding level 5 on the standard scale”.
 
 **Not yet in force.**
 
-**25.**[^key-66717bfdf6bc83534c4cf9bf803520e3] In section 35 (power of court to order occupier or owner to allow action to be taken on premises), for the definition of “relevant person” in subsection (8) substitute—
+**25.**[^c-66717bfdf6bc83534c4cf9bf803520e3] In section 35 (power of court to order occupier or owner to allow action to be taken on premises), for the definition of “relevant person” in subsection (8) substitute—
 
 > - “**relevant person**”, in relation to any premises, means—
 >   - (a) a person who is an owner of the premises;
@@ -529,7 +529,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**26.**[^key-f3bd9d2c440a3efab3ee94d32fdb020a] (1) Section 40 (emergency remedial action) is amended as follows.
+**26.**[^c-f3bd9d2c440a3efab3ee94d32fdb020a] (1) Section 40 (emergency remedial action) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -557,7 +557,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**27.**[^key-f03726e1ddb6ffe19ba115981dc64cb8] In section 41 (notice of emergency remedial action), in subsection (2)—
+**27.**[^c-f03726e1ddb6ffe19ba115981dc64cb8] In section 41 (notice of emergency remedial action), in subsection (2)—
 
 - (a) after “**hazard**” (in each place) insert “or failure”,
 - (b) after “hazards” insert “or failures”, and
@@ -565,7 +565,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**28.**[^key-b27a2c511afaef7ab33a55011f878433] In section 43 (emergency prohibition orders), for subsection (1) substitute—
+**28.**[^c-b27a2c511afaef7ab33a55011f878433] In section 43 (emergency prohibition orders), for subsection (1) substitute—
 
 > (1) If—
 >
@@ -579,7 +579,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**29.**[^key-4bf425ff6355e8bd447926c0ca1eabd3] In section 44 (contents of emergency prohibition orders), in subsection (2)—
+**29.**[^c-4bf425ff6355e8bd447926c0ca1eabd3] In section 44 (contents of emergency prohibition orders), in subsection (2)—
 
 - (a) after “**hazard**” (in each place) insert “or failure”,
 - (b) after “hazards” insert “or failures”, and
@@ -587,16 +587,16 @@ Section 100(6)
 
 **Not yet in force.**
 
-**30.**[^key-e0e81bac9616278f0aac5574417700be] In section 49 (power to charge for certain enforcement action)—
+**30.**[^c-e0e81bac9616278f0aac5574417700be] In section 49 (power to charge for certain enforcement action)—
 
 - (a) in subsection (1)(c), for “a hazard” substitute “an”, and
 - (b) in subsection (2), for “a hazard” substitute “an”.
 
 **Not yet in force.**
 
-**31.**[^key-b55ee83b9b36a3e35a56fb973e2262b7] In section 50 (recovery of charge under section 49), in subsection (2)(b), for “a hazard” substitute “an”.
+**31.**[^c-b55ee83b9b36a3e35a56fb973e2262b7] In section 50 (recovery of charge under section 49), in subsection (2)(b), for “a hazard” substitute “an”.
 
-**32.**[^key-9de4abdc9a22a0e2952f710cd110fdc0][^key-e348e010603740f7af1d45b36cd814ce] In section 54 (index of defined expressions: Part 1)—
+**32.**[^c-9de4abdc9a22a0e2952f710cd110fdc0][^c-e348e010603740f7af1d45b36cd814ce] In section 54 (index of defined expressions: Part 1)—
 
 - (a) at the appropriate places insert—
 
@@ -639,7 +639,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**33.**[^key-e77a8868a1bf3792839c50b6feec374a] (1) Section 250 (orders and regulations) is amended as follows.
+**33.**[^c-e77a8868a1bf3792839c50b6feec374a] (1) Section 250 (orders and regulations) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -654,7 +654,7 @@ Section 100(6)
 
 .
 
-**34.**[^key-2886e9e181d5a1d60a4f1e3648ea53d3][^key-d3e04f1580d2463cdfa401968b0b0ab5] Before Schedule 1 insert—
+**34.**[^c-2886e9e181d5a1d60a4f1e3648ea53d3][^c-d3e04f1580d2463cdfa401968b0b0ab5] Before Schedule 1 insert—
 
 > **Schedule A1 — Procedure and appeals relating to financial penalties under section 6A**
 >
@@ -773,7 +773,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**35.**[^key-430d0d073a051d067c42f696e07740ac] (1) Schedule 1 (procedure and appeals relating to improvement notices) is amended as follows.
+**35.**[^c-430d0d073a051d067c42f696e07740ac] (1) Schedule 1 (procedure and appeals relating to improvement notices) is amended as follows.
 
 (2) Before paragraph 1 insert—
 
@@ -830,7 +830,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**36.**[^key-c02a424df1e98098b0e7519a646379e7] (1) Schedule 2 (procedure and appeals relating to prohibition orders) is amended as follows.
+**36.**[^c-c02a424df1e98098b0e7519a646379e7] (1) Schedule 2 (procedure and appeals relating to prohibition orders) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -928,7 +928,7 @@ Section 100(6)
 
 **Not yet in force.**
 
-**37.**[^key-d2be2ca225d2b5c3faa953cbbb95f122] (1) Schedule 3 (improvement notices: enforcement action by local housing authorities) is amended as follows.
+**37.**[^c-d2be2ca225d2b5c3faa953cbbb95f122] (1) Schedule 3 (improvement notices: enforcement action by local housing authorities) is amended as follows.
 
 (2) In paragraph 3, after “**hazard**” (in each place) insert “or failure”.
 
@@ -936,7 +936,7 @@ Section 100(6)
 
 ### Part 2 — Amendments of other Acts
 
-#### 38. Land Compensation Act 1973[^key-029ea2eb016be2a1964d68c86dca8954]
+#### 38. Land Compensation Act 1973[^c-029ea2eb016be2a1964d68c86dca8954]
 
 **Not yet in force.**
 
@@ -952,25 +952,25 @@ Section 100(6)
 - (a) in paragraph (a), after “hazard” insert “or type 1 requirement”, and
 - (b) in paragraph (b), after “hazard” insert “or type 2 requirement”.
 
-#### 39. Housing Act 1985[^key-4cee9cc17f96e5e5d4a7bed0a7fab1a9]
+#### 39. Housing Act 1985[^c-4cee9cc17f96e5e5d4a7bed0a7fab1a9]
 
 **Not yet in force.**
 
 In section 269A of the [Housing Act 1985](https://www.legislation.gov.uk/ukpga/1985/68) (appeals suggesting certain other courses of action), in subsection (2)(c), for “a hazard” substitute “an”.
 
-#### 40. Housing and Regeneration Act 2008[^key-03def7436e5fbfbcdb22abbc6960533d]
+#### 40. Housing and Regeneration Act 2008[^c-03def7436e5fbfbcdb22abbc6960533d]
 
 **Not yet in force.**
 
 In section 126B of the [Housing and Regeneration Act 2008](https://www.legislation.gov.uk/ukpga/2008/17) (functions of health and safety lead), in subsection (3)(b)(ii), after “hazards” insert “and type 1 and 2 requirements”.
 
-#### 41. Housing and Planning Act 2016[^key-f9b32c6fc890523e5e86ab33e2055ecf]
+#### 41. Housing and Planning Act 2016[^c-f9b32c6fc890523e5e86ab33e2055ecf]
 
 **Not yet in force.**
 
 In section 40(4) of the [Housing and Planning Act 2016](https://www.legislation.gov.uk/ukpga/2016/22) (offences under sections 30(1) and 32(1) of the Housing Act 2004), after “on” insert “, or a failure to meet a requirement by,”.
 
-#### 42. Tenant Fees Act 2019[^key-40ffa1f932f7e2f682a6c9ec3c4b3402][^key-68eca27fe6ea5dc498444a3054fa59b8]
+#### 42. Tenant Fees Act 2019[^c-40ffa1f932f7e2f682a6c9ec3c4b3402][^c-68eca27fe6ea5dc498444a3054fa59b8]
 
 In Schedule 3 to the [Tenant Fees Act 2019](https://www.legislation.gov.uk/ukpga/2019/4) (financial penalties), in paragraph 12(1), after paragraph (c) insert—
 
@@ -980,106 +980,106 @@ In Schedule 3 to the [Tenant Fees Act 2019](https://www.legislation.gov.uk/ukpga
 
 ## Annotations
 
-[^key-b35f74898e6ac67cb5457d918dd6df69]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b35f74898e6ac67cb5457d918dd6df69]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-1fc4174915b399e988562a235f795781]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/1) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/c/i)
+[^c-1fc4174915b399e988562a235f795781]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/1) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/c/i)
 
-[^key-49a067c8b4be44d5a77bfac8ea8d9d59]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/1) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/i)
+[^c-49a067c8b4be44d5a77bfac8ea8d9d59]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/1) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/i)
 
-[^key-c3079f9ea5ea250be177cf61fa878959]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-c3079f9ea5ea250be177cf61fa878959]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-a6b63a739fea2827995e5bb1c9b1d4bf]: Commencement: [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/2/1) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/ii)
+[^c-a6b63a739fea2827995e5bb1c9b1d4bf]: Commencement: [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/2/1) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/ii)
 
-[^key-5b57c8a7a50a7c8e189ccc59ad7dc0b6]: Commencement: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/2/3) in force at 22.6.2026 by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/iii)
+[^c-5b57c8a7a50a7c8e189ccc59ad7dc0b6]: Commencement: [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/2/3) in force at 22.6.2026 by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/iii)
 
-[^key-2612aa580326e7caf6e8aecb0cee94e2]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-2612aa580326e7caf6e8aecb0cee94e2]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-7355abe28b7b5855609f1f6fbf872467]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-7355abe28b7b5855609f1f6fbf872467]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-b689146ad515c23c369ccd3c34faa286]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b689146ad515c23c369ccd3c34faa286]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d16efe2f6ff79e327bd337fbf6358b9f]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-d16efe2f6ff79e327bd337fbf6358b9f]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-40a1cdb8a42c0712647d5b7a31eb0d0a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/6) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/iv)
+[^c-40a1cdb8a42c0712647d5b7a31eb0d0a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/6) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/iv)
 
-[^key-9c3b72c518e106639ae9b2bf2db507fe]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-9c3b72c518e106639ae9b2bf2db507fe]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-a2b720c34e20b2217fc89414de707bcb]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-a2b720c34e20b2217fc89414de707bcb]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e9c339911cf743113e1dfcf4b4d69b50]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e9c339911cf743113e1dfcf4b4d69b50]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-a180765e674c50ab4ed2e5c36f123e30]: Commencement: [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/9/1) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/c/i)
+[^c-a180765e674c50ab4ed2e5c36f123e30]: Commencement: [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/9/1) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/c/i)
 
-[^key-b39584a17532def9ba31a74f93f6075c]: Commencement: [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/9/3) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/c/ii)
+[^c-b39584a17532def9ba31a74f93f6075c]: Commencement: [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/9/3) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/c/ii)
 
-[^key-823c0b5841916adefa828abb79694909]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-823c0b5841916adefa828abb79694909]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-124d1e2fb290faa1bd1f88ac03772b6e]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-124d1e2fb290faa1bd1f88ac03772b6e]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-3264593a9298ae33604cee886b6e02dd]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-3264593a9298ae33604cee886b6e02dd]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-6f0af0510328daabe9efabd9f9767bce]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-6f0af0510328daabe9efabd9f9767bce]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-835ce170bf232d614754831fbfa72a80]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-835ce170bf232d614754831fbfa72a80]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-148e0ca845ac58bbbd8bd3b868dbec3b]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-148e0ca845ac58bbbd8bd3b868dbec3b]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-70449779f4edfb355196c9daf00b236d]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-70449779f4edfb355196c9daf00b236d]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-96d878a9a2bc302bbdd4f9182567c5fa]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-96d878a9a2bc302bbdd4f9182567c5fa]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-bf8e0d87fce04775731bb7ae43bd9ee4]: Commencement: Sch. 4 para. 18 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-bf8e0d87fce04775731bb7ae43bd9ee4]: Commencement: Sch. 4 para. 18 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e035a10ae39e18360bcff037f012a7d8]: Commencement: Sch. 4 para. 19 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e035a10ae39e18360bcff037f012a7d8]: Commencement: Sch. 4 para. 19 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-631b721b8be6a1e31d417d12fa8e7a3a]: Commencement: Sch. 4 para. 20 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-631b721b8be6a1e31d417d12fa8e7a3a]: Commencement: Sch. 4 para. 20 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-f4b370e08d21375e735ba3cbd8d1eb68]: Commencement: Sch. 4 para. 21 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f4b370e08d21375e735ba3cbd8d1eb68]: Commencement: Sch. 4 para. 21 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-777e8db1ebdc4cc5502f9498217e280a]: Commencement: Sch. 4 para. 22 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-777e8db1ebdc4cc5502f9498217e280a]: Commencement: Sch. 4 para. 22 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-282d6a4a823103afa1f0393f9635a997]: Commencement: Sch. 4 para. 23 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-282d6a4a823103afa1f0393f9635a997]: Commencement: Sch. 4 para. 23 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-ed758c85229df03446ae6b4f4695416e]: Commencement: Sch. 4 para. 24 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-ed758c85229df03446ae6b4f4695416e]: Commencement: Sch. 4 para. 24 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-66717bfdf6bc83534c4cf9bf803520e3]: Commencement: Sch. 4 para. 25 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-66717bfdf6bc83534c4cf9bf803520e3]: Commencement: Sch. 4 para. 25 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-f3bd9d2c440a3efab3ee94d32fdb020a]: Commencement: Sch. 4 para. 26 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f3bd9d2c440a3efab3ee94d32fdb020a]: Commencement: Sch. 4 para. 26 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-f03726e1ddb6ffe19ba115981dc64cb8]: Commencement: Sch. 4 para. 27 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f03726e1ddb6ffe19ba115981dc64cb8]: Commencement: Sch. 4 para. 27 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-b27a2c511afaef7ab33a55011f878433]: Commencement: Sch. 4 para. 28 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b27a2c511afaef7ab33a55011f878433]: Commencement: Sch. 4 para. 28 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4bf425ff6355e8bd447926c0ca1eabd3]: Commencement: Sch. 4 para. 29 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-4bf425ff6355e8bd447926c0ca1eabd3]: Commencement: Sch. 4 para. 29 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e0e81bac9616278f0aac5574417700be]: Commencement: Sch. 4 para. 30 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e0e81bac9616278f0aac5574417700be]: Commencement: Sch. 4 para. 30 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-b55ee83b9b36a3e35a56fb973e2262b7]: Commencement: Sch. 4 para. 31 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b55ee83b9b36a3e35a56fb973e2262b7]: Commencement: Sch. 4 para. 31 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-9de4abdc9a22a0e2952f710cd110fdc0]: Commencement: Sch. 4 para. 32 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-9de4abdc9a22a0e2952f710cd110fdc0]: Commencement: Sch. 4 para. 32 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e348e010603740f7af1d45b36cd814ce]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/32) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/v)
+[^c-e348e010603740f7af1d45b36cd814ce]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/32) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/v)
 
-[^key-e77a8868a1bf3792839c50b6feec374a]: Commencement: Sch. 4 para. 33 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e77a8868a1bf3792839c50b6feec374a]: Commencement: Sch. 4 para. 33 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-2886e9e181d5a1d60a4f1e3648ea53d3]: Commencement: Sch. 4 para. 34 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-2886e9e181d5a1d60a4f1e3648ea53d3]: Commencement: Sch. 4 para. 34 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d3e04f1580d2463cdfa401968b0b0ab5]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/34) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/vi)
+[^c-d3e04f1580d2463cdfa401968b0b0ab5]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/34) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/vi)
 
-[^key-430d0d073a051d067c42f696e07740ac]: Commencement: Sch. 4 para. 35 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-430d0d073a051d067c42f696e07740ac]: Commencement: Sch. 4 para. 35 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-c02a424df1e98098b0e7519a646379e7]: Commencement: Sch. 4 para. 36 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-c02a424df1e98098b0e7519a646379e7]: Commencement: Sch. 4 para. 36 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d2be2ca225d2b5c3faa953cbbb95f122]: Commencement: Sch. 4 para. 37 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-d2be2ca225d2b5c3faa953cbbb95f122]: Commencement: Sch. 4 para. 37 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-029ea2eb016be2a1964d68c86dca8954]: Commencement: Sch. 4 para. 38 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-029ea2eb016be2a1964d68c86dca8954]: Commencement: Sch. 4 para. 38 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4cee9cc17f96e5e5d4a7bed0a7fab1a9]: Commencement: Sch. 4 para. 39 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-4cee9cc17f96e5e5d4a7bed0a7fab1a9]: Commencement: Sch. 4 para. 39 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-03def7436e5fbfbcdb22abbc6960533d]: Commencement: Sch. 4 para. 40 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-03def7436e5fbfbcdb22abbc6960533d]: Commencement: Sch. 4 para. 40 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-f9b32c6fc890523e5e86ab33e2055ecf]: Commencement: Sch. 4 para. 41 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f9b32c6fc890523e5e86ab33e2055ecf]: Commencement: Sch. 4 para. 41 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-40ffa1f932f7e2f682a6c9ec3c4b3402]: Commencement: Sch. 4 para. 42 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-40ffa1f932f7e2f682a6c9ec3c4b3402]: Commencement: Sch. 4 para. 42 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-68eca27fe6ea5dc498444a3054fa59b8]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/42) in force at 22.6.2026 by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(vii)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/vii)
+[^c-68eca27fe6ea5dc498444a3054fa59b8]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2025/26/schedule/4/paragraph/42) in force at 22.6.2026 by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(c)(vii)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/c/vii)

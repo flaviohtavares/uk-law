@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35A. Register of metal dealers and itinerant metal dealers[^key-2874ac9b01d8bd7e2179cd836683c508]
+## 35A. Register of metal dealers and itinerant metal dealers[^c-2874ac9b01d8bd7e2179cd836683c508]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2874ac9b01d8bd7e2179cd836683c508]: Textual amendment: S. 35A inserted (1.11.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 71](https://www.legislation.gov.uk/asp/2015/10/section/71), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-2874ac9b01d8bd7e2179cd836683c508]: Textual amendment: S. 35A inserted (1.11.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 71](https://www.legislation.gov.uk/asp/2015/10/section/71), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

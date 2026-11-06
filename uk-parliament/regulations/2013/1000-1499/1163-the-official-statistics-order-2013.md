@@ -32,7 +32,7 @@ summary: ''
 
 Official Statistics
 
-The Official Statistics Order 2013 (revoked)[^key-57a3ec48016128e0340e31d56d53dd16]
+The Official Statistics Order 2013 (revoked)[^c-57a3ec48016128e0340e31d56d53dd16]
 
 Made
 
@@ -40,27 +40,27 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-57a3ec48016128e0340e31d56d53dd16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57a3ec48016128e0340e31d56d53dd16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-57a3ec48016128e0340e31d56d53dd16]
+## 1. Citation and commencement[^c-57a3ec48016128e0340e31d56d53dd16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-57a3ec48016128e0340e31d56d53dd16]
+## 2. Revocation[^c-57a3ec48016128e0340e31d56d53dd16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Official Statistics[^key-57a3ec48016128e0340e31d56d53dd16]
+## 3. Official Statistics[^c-57a3ec48016128e0340e31d56d53dd16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57a3ec48016128e0340e31d56d53dd16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57a3ec48016128e0340e31d56d53dd16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-57a3ec48016128e0340e31d56d53dd16]
+## SCHEDULE[^c-57a3ec48016128e0340e31d56d53dd16]
 
 Article 3(1)
 
@@ -68,8 +68,8 @@ Article 3(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-57a3ec48016128e0340e31d56d53dd16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57a3ec48016128e0340e31d56d53dd16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57a3ec48016128e0340e31d56d53dd16]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/1163) revoked (20.7.2018) by [The Official Statistics Order 2018 (S.I. 2018/888)](https://www.legislation.gov.uk/uksi/2018/888), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/888/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/888/article/2)
+[^c-57a3ec48016128e0340e31d56d53dd16]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/1163) revoked (20.7.2018) by [The Official Statistics Order 2018 (S.I. 2018/888)](https://www.legislation.gov.uk/uksi/2018/888), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/888/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/888/article/2)

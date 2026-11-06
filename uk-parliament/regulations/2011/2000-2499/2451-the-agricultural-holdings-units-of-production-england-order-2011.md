@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Units of Production) (England) Order 2011 (revoked)[^key-987213ce010bca8d6b3ee0197e85e414]
+The Agricultural Holdings (Units of Production) (England) Order 2011 (revoked)[^c-987213ce010bca8d6b3ee0197e85e414]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 7th November 2011
 
-[^key-987213ce010bca8d6b3ee0197e85e414]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-987213ce010bca8d6b3ee0197e85e414]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-987213ce010bca8d6b3ee0197e85e414]
+## 1. Citation, commencement, application and interpretation[^c-987213ce010bca8d6b3ee0197e85e414]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of productive capacity of land[^key-987213ce010bca8d6b3ee0197e85e414]
+## 2. Assessment of productive capacity of land[^c-987213ce010bca8d6b3ee0197e85e414]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-987213ce010bca8d6b3ee0197e85e414]
+## 3. Revocation[^c-987213ce010bca8d6b3ee0197e85e414]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-987213ce010bca8d6b3ee0197e85e414]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-987213ce010bca8d6b3ee0197e85e414]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^key-987213ce010bca8d6b3ee0197e85e414]
+## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^c-987213ce010bca8d6b3ee0197e85e414]
 
 Article 2
 
@@ -74,7 +74,7 @@ Article 2
 
 **No longer in force.**
 
-[^key-987213ce010bca8d6b3ee0197e85e414]EXPLANATORY NOTE
+[^c-987213ce010bca8d6b3ee0197e85e414]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -88,4 +88,4 @@ An impact assessment has not been produced for this instrument as no impact on b
 
 ## Annotations
 
-[^key-987213ce010bca8d6b3ee0197e85e414]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/2451) revoked (7.11.2012) by [The Agricultural Holdings (Units of Production) (England) Order 2012 (S.I. 2012/2573)](https://www.legislation.gov.uk/uksi/2012/2573), [art. 3](https://www.legislation.gov.uk/uksi/2012/2573/article/3)
+[^c-987213ce010bca8d6b3ee0197e85e414]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/2451) revoked (7.11.2012) by [The Agricultural Holdings (Units of Production) (England) Order 2012 (S.I. 2012/2573)](https://www.legislation.gov.uk/uksi/2012/2573), [art. 3](https://www.legislation.gov.uk/uksi/2012/2573/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Application[^key-59d4a0c9da95e0db558dfc806eca1a6a]
+## 25. Application[^c-59d4a0c9da95e0db558dfc806eca1a6a]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ This Part applies in relation to unconnected multiple employer schemes[^f00022].
 
 ## Annotations
 
-[^key-59d4a0c9da95e0db558dfc806eca1a6a]: Commencement: Reg. 25 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-59d4a0c9da95e0db558dfc806eca1a6a]: Commencement: Reg. 25 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00022]: Footnote: A definition of “unconnected multiple employer schemes” is inserted into the Pension Schemes Act 2021 by regulation 3 of these Regulations

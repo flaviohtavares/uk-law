@@ -42,7 +42,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (1) A person (“P”) shall not be liable to make any payment (and shall be entitled to recover any payment made) by way of charge for including or arranging for the inclusion in a directory of an entry relating to P or P's trade or business, unless the requirements of section 2, 3, 4 or 5 are met.
 
-(2) Nothing in this section affects the rights of any the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^key-ded9b311645bdf7beca7f80744f0ad71]
+(2) Nothing in this section affects the rights of any the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^c-ded9b311645bdf7beca7f80744f0ad71]
 
 ## Permitted charges
 
@@ -189,4 +189,4 @@ Sections 3, 4, 5 and 7.
 
 ## Annotations
 
-[^key-ded9b311645bdf7beca7f80744f0ad71]: Textual amendment: Words in s. 1(2) substituted (13.6.2014) (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/13) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-ded9b311645bdf7beca7f80744f0ad71]: Textual amendment: Words in s. 1(2) substituted (13.6.2014) (with application in accordance with reg. 1(2) of the commencing S.I.) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/13) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))

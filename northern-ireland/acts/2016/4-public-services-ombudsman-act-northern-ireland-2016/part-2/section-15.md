@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-603ee8b03574e21f937876375801111a] This section applies where a listed authority is a health and social care body.
+(1)[^c-603ee8b03574e21f937876375801111a] This section applies where a listed authority is a health and social care body.
 
 (2) The Ombudsman may investigate—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-603ee8b03574e21f937876375801111a]: Modification: [S. 15(1)](https://www.legislation.gov.uk/nia/2016/4/section/15/1) modified (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c), [Sch. 2 para. 9(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/2/paragraph/9/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)
+[^c-603ee8b03574e21f937876375801111a]: Modification: [S. 15(1)](https://www.legislation.gov.uk/nia/2016/4/section/15/1) modified (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c), [Sch. 2 para. 9(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/2/paragraph/9/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)

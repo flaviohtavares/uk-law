@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.48. Appeals in bankruptcy[^key-a2364bbcf81b165a26c888580b38f107]
+## 7.48. Appeals in bankruptcy[^c-a2364bbcf81b165a26c888580b38f107]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2364bbcf81b165a26c888580b38f107]: Commencement: [Rule 7.48](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.48) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a2364bbcf81b165a26c888580b38f107]: Commencement: [Rule 7.48](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.48) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

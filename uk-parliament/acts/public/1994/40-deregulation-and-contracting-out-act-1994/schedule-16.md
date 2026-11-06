@@ -26,7 +26,7 @@ Section 76.
 
 *Extent: E+W+S*
 
-**1.** (1) This paragraph applies where by virtue of an order made under section 69 of this Act a person is authorised by the the registrar[^key-6e6157b9d3accb24eac9bd479c0f34a1] to accept delivery of any class of documents which are under any provision of the Newspaper Libel and Registration Act 1881 or the Limited Partnerships Act 1907 to be delivered to the registrar.
+**1.** (1) This paragraph applies where by virtue of an order made under section 69 of this Act a person is authorised by the the registrar[^c-6e6157b9d3accb24eac9bd479c0f34a1] to accept delivery of any class of documents which are under any provision of the Newspaper Libel and Registration Act 1881 or the Limited Partnerships Act 1907 to be delivered to the registrar.
 
 (2) If—
 
@@ -35,19 +35,19 @@ Section 76.
 
   any document of that class which is delivered to an address other than the specified address shall be treated for the purposes of that Act as not having been delivered.
 
-(3)[^key-ec396430be6420674170ff291fdd0459] In this paragraph “the registrar” has the same meaning as in the Newspaper Libel and Registration Act 1881 or the Limited Partnerships Act 1907 (as the case may be).
+(3)[^c-ec396430be6420674170ff291fdd0459] In this paragraph “the registrar” has the same meaning as in the Newspaper Libel and Registration Act 1881 or the Limited Partnerships Act 1907 (as the case may be).
 
 ### Courts Act 1971 (c.23)
 
 *Extent: E+W+S*
 
-**2.**[^key-948fdb362e3e26ab9c6ddd4ff9916f2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-948fdb362e3e26ab9c6ddd4ff9916f2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government Act 1972 (c.70)
 
 *Extent: E+W+S*
 
-**3.**[^key-f329bf2efa033f19d8d3e8d4411ab4f8][^key-da9945f2e92a4e340fff21b25dadb4bd] If and to the extent that an order under section 70 of this Act so provides, section 223 of the Local Government Act 1972 (appearance of local authorities in legal proceedings) shall have effect as if—
+**3.**[^c-f329bf2efa033f19d8d3e8d4411ab4f8][^c-da9945f2e92a4e340fff21b25dadb4bd] If and to the extent that an order under section 70 of this Act so provides, section 223 of the Local Government Act 1972 (appearance of local authorities in legal proceedings) shall have effect as if—
 
 - (a) any person authorised by virtue of the order to exercise a function of a local authority, and
 - (b) any employee of a person so authorised,
@@ -134,11 +134,11 @@ Section 76.
 
 *Extent: E+W+S*
 
-**8.**[^key-9ba36d9be48e5d994969eeec027d6d2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9ba36d9be48e5d994969eeec027d6d2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-9ba36d9be48e5d994969eeec027d6d2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-9ba36d9be48e5d994969eeec027d6d2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-9ba36d9be48e5d994969eeec027d6d2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-9ba36d9be48e5d994969eeec027d6d2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Gas Act 1986 (c.44)
 
@@ -243,21 +243,21 @@ Section 76.
 
 ## Annotations
 
-[^key-6e6157b9d3accb24eac9bd479c0f34a1]: Textual amendment: Words in [Sch. 16 para. 1(1)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/1/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 148(4)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/148/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-6e6157b9d3accb24eac9bd479c0f34a1]: Textual amendment: Words in [Sch. 16 para. 1(1)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/1/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 148(4)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/148/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-ec396430be6420674170ff291fdd0459]: Textual amendment: [Sch. 16 para. 1(3)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/1/3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 148(4)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/148/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ec396430be6420674170ff291fdd0459]: Textual amendment: [Sch. 16 para. 1(3)](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/1/3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 148(4)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/148/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-948fdb362e3e26ab9c6ddd4ff9916f2f]: Textual amendment: Sch. 16 para. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-948fdb362e3e26ab9c6ddd4ff9916f2f]: Textual amendment: Sch. 16 para. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
-[^key-f329bf2efa033f19d8d3e8d4411ab4f8]: Modification: Sch. 16 para. 3 applied by 1998 c. 37, s. 1F(7)(d) (as inserted (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/142/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s))
+[^c-f329bf2efa033f19d8d3e8d4411ab4f8]: Modification: Sch. 16 para. 3 applied by 1998 c. 37, s. 1F(7)(d) (as inserted (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/142/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(s)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/s))
 
-[^key-da9945f2e92a4e340fff21b25dadb4bd]: Modification: Sch. 16 para. 3 applied by 2003 c. 38, s. 28A(7) (as inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a))
+[^c-da9945f2e92a4e340fff21b25dadb4bd]: Modification: Sch. 16 para. 3 applied by 2003 c. 38, s. 28A(7) (as inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a))
 
 [^c1365964]: Marginal citation: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43).
 
 [^c1365965]: Marginal citation: [1988 c.43](https://www.legislation.gov.uk/ukpga/1988/43).
 
-[^key-9ba36d9be48e5d994969eeec027d6d2d]: Textual amendment: [Sch. 16 paras. 8-10](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/8) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Schs. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-9ba36d9be48e5d994969eeec027d6d2d]: Textual amendment: [Sch. 16 paras. 8-10](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/8) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Schs. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c1365966]: Textual amendment: Sch. 16 paras. 11-13 repealed (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 17(5)](https://www.legislation.gov.uk/ukpga/1995/45/section/17/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/1995/45/schedule/6); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 

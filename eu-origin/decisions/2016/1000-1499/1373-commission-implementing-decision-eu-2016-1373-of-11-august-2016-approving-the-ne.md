@@ -35,14 +35,14 @@ approving the Network Performance Plan for the second reference period of the Si
 
 (Text with EEA relevance) (revoked)
 
-[^key-6b6427b519a76cd9a1182d3b4ee41274]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b6427b519a76cd9a1182d3b4ee41274]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6b6427b519a76cd9a1182d3b4ee41274] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6b6427b519a76cd9a1182d3b4ee41274] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6b6427b519a76cd9a1182d3b4ee41274] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6b6427b519a76cd9a1182d3b4ee41274] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b6427b519a76cd9a1182d3b4ee41274]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b6427b519a76cd9a1182d3b4ee41274]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b6427b519a76cd9a1182d3b4ee41274]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [385](https://www.legislation.gov.uk/uksi/2019/459/regulation/385); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b6427b519a76cd9a1182d3b4ee41274]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [385](https://www.legislation.gov.uk/uksi/2019/459/regulation/385); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -49,16 +49,16 @@ The modifications to the pre-exit 2009 Regulations are as follows—
     ;
   - (iv) for the definition of “SE” there were substituted—
 
-    > “**SE**” means a European Public Limited Liability Company (or Societas Europaea) within the meaning of the EC Regulation, as it had effect immediately before IP completion day[^key-d6e9d7694ea3495968beb8855e8a3b81] ;
+    > “**SE**” means a European Public Limited Liability Company (or Societas Europaea) within the meaning of the EC Regulation, as it had effect immediately before IP completion day[^c-d6e9d7694ea3495968beb8855e8a3b81] ;
 
     ;
-  - (v) in paragraph (2), the definition of “special negotiating body” were to a special negotiating body reconvened after IP completion day[^key-dacdf5a24c91ce1a8b96499df1d5c1be] under regulation 17 (decision not to open, or to terminate, negotiations) of these Regulations, as they have effect after IP completion day ;
+  - (v) in paragraph (2), the definition of “special negotiating body” were to a special negotiating body reconvened after IP completion day[^c-dacdf5a24c91ce1a8b96499df1d5c1be] under regulation 17 (decision not to open, or to terminate, negotiations) of these Regulations, as they have effect after IP completion day ;
 - (d) regulation 14 (negotiations to reach an employee involvement agreement) is to be read as if paragraphs (2) and (3) were omitted.
 
 ## Annotations
 
 [^c23537131]: Commencement: Reg. 149 in force on IP completion day, see reg. 1 and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d6e9d7694ea3495968beb8855e8a3b81]: Textual amendment: Words in reg. 149(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(j)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/j/i)
+[^c-d6e9d7694ea3495968beb8855e8a3b81]: Textual amendment: Words in reg. 149(c)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(j)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/j/i)
 
-[^key-dacdf5a24c91ce1a8b96499df1d5c1be]: Textual amendment: Words in reg. 149(c)(v) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(j)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/j/ii)
+[^c-dacdf5a24c91ce1a8b96499df1d5c1be]: Textual amendment: Words in reg. 149(c)(v) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(j)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/j/ii)

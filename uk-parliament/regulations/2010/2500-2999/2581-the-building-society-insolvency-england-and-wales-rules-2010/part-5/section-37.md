@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Statement of affairs dispensed with[^key-9553745679c488a82e4355a8aaf4f00e]
+## 37. Statement of affairs dispensed with[^c-9553745679c488a82e4355a8aaf4f00e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.46 of the 1986 Rules. For “official receiver”, substitute “bu
 
 ## Annotations
 
-[^key-9553745679c488a82e4355a8aaf4f00e]: Commencement: Rule 37 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9553745679c488a82e4355a8aaf4f00e]: Commencement: Rule 37 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E7. Limitation of retirement benefits where salary reduced[^key-36a1dd831ce942b7d30a4a1da514e63e]
+## E7. Limitation of retirement benefits where salary reduced[^c-36a1dd831ce942b7d30a4a1da514e63e]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ and for the purposes of paragraph (2) the relevant age is his age when he first 
 
 ## Annotations
 
-[^key-36a1dd831ce942b7d30a4a1da514e63e]: Commencement: Reg. E7 in operation at 2.11.1998, see reg. A1
+[^c-36a1dd831ce942b7d30a4a1da514e63e]: Commencement: Reg. E7 in operation at 2.11.1998, see reg. A1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. Applications to set aside decisions on registration of judgments under the 2019 Hague Convention[^key-e1f05c68dad7b5d9ec7b81ea4ff53163][^key-4a0c7531d299d77b77ae319ab681ef96]
+## 6C. Applications to set aside decisions on registration of judgments under the 2019 Hague Convention[^c-e1f05c68dad7b5d9ec7b81ea4ff53163][^c-4a0c7531d299d77b77ae319ab681ef96]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1f05c68dad7b5d9ec7b81ea4ff53163]: Modification: [S. 6C](https://www.legislation.gov.uk/ukpga/1982/27/section/6C) applied (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/2)
+[^c-e1f05c68dad7b5d9ec7b81ea4ff53163]: Modification: [S. 6C](https://www.legislation.gov.uk/ukpga/1982/27/section/6C) applied (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/1)[(2)](https://www.legislation.gov.uk/uksi/2024/713/regulation/19/2)
 
-[^key-4a0c7531d299d77b77ae319ab681ef96]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1982/27/section/6C) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 9](https://www.legislation.gov.uk/uksi/2024/713/regulation/9)
+[^c-4a0c7531d299d77b77ae319ab681ef96]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1982/27/section/6C) inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 9](https://www.legislation.gov.uk/uksi/2024/713/regulation/9)

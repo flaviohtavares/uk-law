@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Power to amend licence conditions etc: transmission systems[^key-d81ea2d30b0590f8ffe9f755512a981a]
+## 84. Power to amend licence conditions etc: transmission systems[^c-d81ea2d30b0590f8ffe9f755512a981a]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81ea2d30b0590f8ffe9f755512a981a]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2008/32/section/84) in force at 29.7.2010 by [S.I. 2010/1888](https://www.legislation.gov.uk/uksi/2010/1888), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1888/article/2/2)
+[^c-d81ea2d30b0590f8ffe9f755512a981a]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2008/32/section/84) in force at 29.7.2010 by [S.I. 2010/1888](https://www.legislation.gov.uk/uksi/2010/1888), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1888/article/2/2)

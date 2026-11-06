@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Grants for dependants — parents' learning allowance (affected by repeal, see note)[^key-1898510c42634d5daff666faf0ce7ca9][^key-640cffab865051583171c3072f59bd51][^key-640cffab865051583171c3072f59bd51]
+## 33. Grants for dependants — parents' learning allowance (affected by repeal, see note)[^c-1898510c42634d5daff666faf0ce7ca9][^c-640cffab865051583171c3072f59bd51][^c-640cffab865051583171c3072f59bd51]
 
 *Extent: E+W*
 
-(1) An eligible student qualifies in connection with the student’s attendance on a designated course for the parents' learning allowance if the student has one or more dependants who are dependent children. *(affected by repeal, see note)*[^key-640cffab865051583171c3072f59bd51]
+(1) An eligible student qualifies in connection with the student’s attendance on a designated course for the parents' learning allowance if the student has one or more dependants who are dependent children. *(affected by repeal, see note)*[^c-640cffab865051583171c3072f59bd51]
 
-(2) The amount of parents' learning allowance payable in respect of an academic year is calculated in accordance with regulation 34, the basic amount being £1,557. *(affected by repeal, see note)*[^key-640cffab865051583171c3072f59bd51]
+(2) The amount of parents' learning allowance payable in respect of an academic year is calculated in accordance with regulation 34, the basic amount being £1,557. *(affected by repeal, see note)*[^c-640cffab865051583171c3072f59bd51]
 
 ## Annotations
 
-[^key-1898510c42634d5daff666faf0ce7ca9]: Commencement: Reg. 33 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
+[^c-1898510c42634d5daff666faf0ce7ca9]: Commencement: Reg. 33 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
 
-[^key-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))
+[^c-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))

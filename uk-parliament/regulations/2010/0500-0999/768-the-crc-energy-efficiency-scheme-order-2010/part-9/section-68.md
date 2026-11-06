@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. The Registry[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+## 68. The Registry[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))

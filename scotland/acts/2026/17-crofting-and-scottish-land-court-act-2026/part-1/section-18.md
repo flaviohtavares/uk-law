@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Decrofting direction: rationalisation of routes and requirements[^key-9309be286249ba24ebe0fc6add74355e]
+## 18. Decrofting direction: rationalisation of routes and requirements[^c-9309be286249ba24ebe0fc6add74355e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9309be286249ba24ebe0fc6add74355e]: Commencement: S. 18 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-9309be286249ba24ebe0fc6add74355e]: Commencement: S. 18 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

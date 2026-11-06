@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Clearways[^key-b7d9cfac67e19f73131b2ae213ad37a9]
+## 54. Clearways[^c-b7d9cfac67e19f73131b2ae213ad37a9]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b7d9cfac67e19f73131b2ae213ad37a9]: Commencement: Art. 54 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-b7d9cfac67e19f73131b2ae213ad37a9]: Commencement: Art. 54 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091451]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by section 4 of, and Schedule 1 to, the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 

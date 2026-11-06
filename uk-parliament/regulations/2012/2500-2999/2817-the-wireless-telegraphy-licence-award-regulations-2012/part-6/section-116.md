@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Notification to OFCOM[^key-4fb0fdb88310c6e105108e35b6341a68]
+## 116. Notification to OFCOM[^c-4fb0fdb88310c6e105108e35b6341a68]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ If, in accordance with any provision of these Regulations, an applicant or bidde
 
 ## Annotations
 
-[^key-4fb0fdb88310c6e105108e35b6341a68]: Commencement: Reg. 116 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4fb0fdb88310c6e105108e35b6341a68]: Commencement: Reg. 116 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

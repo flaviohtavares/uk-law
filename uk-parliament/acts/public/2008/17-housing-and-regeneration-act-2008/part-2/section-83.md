@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Tenure[^key-8b7fcd83af698e6543bd4131b1fa1c6b]
+## 83. Tenure[^c-8b7fcd83af698e6543bd4131b1fa1c6b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b7fcd83af698e6543bd4131b1fa1c6b]: Textual amendment: S. 83 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/16), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-8b7fcd83af698e6543bd4131b1fa1c6b]: Textual amendment: S. 83 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/16), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

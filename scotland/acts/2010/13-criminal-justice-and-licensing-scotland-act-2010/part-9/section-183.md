@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 183. Premises licence applications: antisocial behaviour reports[^key-3652dad670aa42a93b2bffb3403b5935]
+## 183. Premises licence applications: antisocial behaviour reports[^c-3652dad670aa42a93b2bffb3403b5935]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3652dad670aa42a93b2bffb3403b5935]: Commencement: [S. 183](https://www.legislation.gov.uk/asp/2010/13/section/183) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-3652dad670aa42a93b2bffb3403b5935]: Commencement: [S. 183](https://www.legislation.gov.uk/asp/2010/13/section/183) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

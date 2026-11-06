@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Prohibition on use of snares and glue traps[^key-3653179c13faea2b466d9c36629d86d1]
+## 46. Prohibition on use of snares and glue traps[^c-3653179c13faea2b466d9c36629d86d1]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In section 11 of the [Wildlife and Countryside Act 1981 (c. 69)](https://www.leg
 
 ## Annotations
 
-[^key-3653179c13faea2b466d9c36629d86d1]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2023/4/section/46) in force at 17.10.2023, see [s. 56(2)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/d)
+[^c-3653179c13faea2b466d9c36629d86d1]: Commencement: [S. 46](https://www.legislation.gov.uk/asc/2023/4/section/46) in force at 17.10.2023, see [s. 56(2)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/d)

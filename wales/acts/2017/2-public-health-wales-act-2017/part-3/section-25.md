@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Retained property: appeals[^key-f9396b3871baf8016a5d90fd746c6e36]
+## 25. Retained property: appeals[^c-f9396b3871baf8016a5d90fd746c6e36]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9396b3871baf8016a5d90fd746c6e36]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2017/2/section/25) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-f9396b3871baf8016a5d90fd746c6e36]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2017/2/section/25) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

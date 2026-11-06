@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161E. Implementation trials: supplementary[^key-8a70276f4fe3dbcc17b3607f36f116b9]
+## 161E. Implementation trials: supplementary[^c-8a70276f4fe3dbcc17b3607f36f116b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a70276f4fe3dbcc17b3607f36f116b9]: Textual amendment: [Ss. 161B-161E](https://www.legislation.gov.uk/ukpga/2002/40/section/161B) and cross-heading inserted (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/9/paragraph/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(13)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/13) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-8a70276f4fe3dbcc17b3607f36f116b9]: Textual amendment: [Ss. 161B-161E](https://www.legislation.gov.uk/ukpga/2002/40/section/161B) and cross-heading inserted (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/9/paragraph/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(13)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/13) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Extension of protection against detriment for union membership etc.[^key-df3276228c47bbaa37a78c183e088a33]
+## 30. Extension of protection against detriment for union membership etc.[^c-df3276228c47bbaa37a78c183e088a33]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df3276228c47bbaa37a78c183e088a33]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/24/section/30) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))
+[^c-df3276228c47bbaa37a78c183e088a33]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/24/section/30) in force at 1.10.2004 by [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/2566/article/6))

@@ -111,34 +111,34 @@ The following offences to the extent that they are offences under the law of Eng
 
 The following offences to the extent that they are offences under the law of England and Wales—
 
-**16.**[^key-e63a4afd876787039940cef4c602b09e] Murder.
+**16.**[^c-e63a4afd876787039940cef4c602b09e] Murder.
 
-**17.**[^key-2bb3d2e2c9aca69686860760ff74893d] Any offence that—
+**17.**[^c-2bb3d2e2c9aca69686860760ff74893d] Any offence that—
 
 - (a) was abolished (with or without savings) before 3 December 2012, and
 - (b) would, if committed when the index offence was committed, have constituted an offence specified in Part 1 of this Schedule.
 
 ### PART 3 — Offences under service law
 
-**18.**[^key-4d2112e572b7bda940cb582713731a6e] An offence under section 70 of the Army Act 1955, section 70 of the Air Force Act 1955 or section 42 of the Naval Discipline Act 1957 as respects which the corresponding civil offence (within the meaning of the Act in question) is an offence specified in Part 1 or 2 of this Schedule.
+**18.**[^c-4d2112e572b7bda940cb582713731a6e] An offence under section 70 of the Army Act 1955, section 70 of the Air Force Act 1955 or section 42 of the Naval Discipline Act 1957 as respects which the corresponding civil offence (within the meaning of the Act in question) is an offence specified in Part 1 or 2 of this Schedule.
 
-**19.**[^key-1bb483c58333988c10d9d4635d9575a1] (1) An offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is an offence specified in Part 1 or 2 of this Schedule.
+**19.**[^c-1bb483c58333988c10d9d4635d9575a1] (1) An offence under section 42 of the Armed Forces Act 2006 as respects which the corresponding offence under the law of England and Wales (within the meaning given by that section) is an offence specified in Part 1 or 2 of this Schedule.
 
 (2) Section 48 of the Armed Forces Act 2006 (attempts, conspiracy etc) applies for the purposes of this paragraph as if the reference in subsection (3)(b) of that section to any of the following provisions of that Act were a reference to this paragraph.
 
-### PART 4 — Offences under the law of Scotland or Northern Ireland[^key-7d72fd8a19e1df5b3017f0439c67eb5c]
+### PART 4 — Offences under the law of Scotland or Northern Ireland[^c-7d72fd8a19e1df5b3017f0439c67eb5c]
 
-**20.**[^key-435edfe623bdd946f85faecd1b743eb5] A civilian offence for which the person was convicted in Scotland or Northern Ireland[^key-3511c6561b9918aff9dca9395ce01004] and which, if committed in England and Wales at the time of the conviction, would have constituted an offence specified in Part 1 or 2 of this Schedule.
+**20.**[^c-435edfe623bdd946f85faecd1b743eb5] A civilian offence for which the person was convicted in Scotland or Northern Ireland[^c-3511c6561b9918aff9dca9395ce01004] and which, if committed in England and Wales at the time of the conviction, would have constituted an offence specified in Part 1 or 2 of this Schedule.
 
-[^key-75333d21fb58a083d89d725dd1df6f66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75333d21fb58a083d89d725dd1df6f66]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-88b3764ad47896863f4574c65a627c91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-88b3764ad47896863f4574c65a627c91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-88b3764ad47896863f4574c65a627c91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-88b3764ad47896863f4574c65a627c91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-88b3764ad47896863f4574c65a627c91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-88b3764ad47896863f4574c65a627c91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 4A — PROCEEDINGS INSTITUTED BEFORE IP COMPLETION DAY: OFFENCES UNDER THE LAW OF A MEMBER STATE[^key-ce962eb5186bd319e1e0cb461b07c6d2]
+### Part 4A — PROCEEDINGS INSTITUTED BEFORE IP COMPLETION DAY: OFFENCES UNDER THE LAW OF A MEMBER STATE[^c-ce962eb5186bd319e1e0cb461b07c6d2]
 
 **23A.** If the proceedings for the index offence were instituted before IP completion day (see section 397(5))—
 
@@ -154,9 +154,9 @@ This is subject to paragraph 23C.
 
 ### PART 5 — Interpretation
 
-**24.**[^key-fca83b708200ddb1b6c6a7c55c65f745] (1) In this Schedule—
+**24.**[^c-fca83b708200ddb1b6c6a7c55c65f745] (1) In this Schedule—
 
-- “civilian offence” means an offence other than an offence described in Part 2 of this Schedule or a member state service offence;[^key-8a352016691bf751aad2ca7734c8699f]
+- “civilian offence” means an offence other than an offence described in Part 2 of this Schedule or a member state service offence;[^c-8a352016691bf751aad2ca7734c8699f]
 - “**imprisonment for life**” includes custody for life and detention for life;
 - “**index offence**” has the same meaning as in section 273 or 283 (as appropriate).
 - “member State service offence” means an offence which was the subject of proceedings under the law of a member State governing all or any of the naval, military or air forces of that state.
@@ -167,26 +167,26 @@ This is subject to paragraph 23C.
 
 [^M_I_6f389c49-5cc6-4489-a160-e2cc0ef50f6d]: Commencement: Sch. 15 paras. 1-15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e63a4afd876787039940cef4c602b09e]: Commencement: Sch. 15 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e63a4afd876787039940cef4c602b09e]: Commencement: Sch. 15 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-2bb3d2e2c9aca69686860760ff74893d]: Commencement: Sch. 15 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2bb3d2e2c9aca69686860760ff74893d]: Commencement: Sch. 15 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4d2112e572b7bda940cb582713731a6e]: Commencement: Sch. 15 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4d2112e572b7bda940cb582713731a6e]: Commencement: Sch. 15 para. 18 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1bb483c58333988c10d9d4635d9575a1]: Commencement: Sch. 15 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1bb483c58333988c10d9d4635d9575a1]: Commencement: Sch. 15 para. 19 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7d72fd8a19e1df5b3017f0439c67eb5c]: Textual amendment: Words in Sch. 15 Pt. 4 heading substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 96(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27))
+[^c-7d72fd8a19e1df5b3017f0439c67eb5c]: Textual amendment: Words in Sch. 15 Pt. 4 heading substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 96(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27))
 
-[^key-435edfe623bdd946f85faecd1b743eb5]: Commencement: Sch. 15 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-435edfe623bdd946f85faecd1b743eb5]: Commencement: Sch. 15 para. 20 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3511c6561b9918aff9dca9395ce01004]: Textual amendment: Words in Sch. 15 para. 20 substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 96(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/2/a) (as substituted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/b))
+[^c-3511c6561b9918aff9dca9395ce01004]: Textual amendment: Words in Sch. 15 para. 20 substituted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 96(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/2/a) (as substituted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/b))
 
-[^key-75333d21fb58a083d89d725dd1df6f66]: Textual amendment: Words in Sch. 15 para. 20 omitted (31.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 96(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/2/b) (as substituted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/b))
+[^c-75333d21fb58a083d89d725dd1df6f66]: Textual amendment: Words in Sch. 15 para. 20 omitted (31.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 96(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/2/b) (as substituted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(b)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/b))
 
-[^key-88b3764ad47896863f4574c65a627c91]: Textual amendment: Sch. 15 paras. 21-23 omitted (31.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 96(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27))
+[^c-88b3764ad47896863f4574c65a627c91]: Textual amendment: Sch. 15 paras. 21-23 omitted (31.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 417(9)](https://www.legislation.gov.uk/ukpga/2020/17/section/417/9), [Sch. 22 para. 96(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27))
 
-[^key-ce962eb5186bd319e1e0cb461b07c6d2]: Textual amendment: Sch. 15 Pt. 4A inserted (31.12.2020) by Sch. 22 para. 96(5) of this Act (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(d)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/d))
+[^c-ce962eb5186bd319e1e0cb461b07c6d2]: Textual amendment: Sch. 15 Pt. 4A inserted (31.12.2020) by Sch. 22 para. 96(5) of this Act (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(d)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/d))
 
-[^key-fca83b708200ddb1b6c6a7c55c65f745]: Commencement: Sch. 15 para. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fca83b708200ddb1b6c6a7c55c65f745]: Commencement: Sch. 15 para. 24 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8a352016691bf751aad2ca7734c8699f]: Textual amendment: Words in Sch. 15 para. 24(1) inserted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 96(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/6) (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(d)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/d))
+[^c-8a352016691bf751aad2ca7734c8699f]: Textual amendment: Words in Sch. 15 para. 24(1) inserted (31.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [Sch. 22 para. 96(6)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/22/paragraph/96/6) (as inserted by [The Taking Account of Convictions (EU Exit) (Amendment) Regulations 2020 (S.I. 2020/1520)](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [5(14)(d)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/5/14/d))

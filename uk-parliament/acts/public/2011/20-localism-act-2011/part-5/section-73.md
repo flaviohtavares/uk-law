@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. References to proper accounting practices[^key-7b413bd50fc84100402636bfd432e823]
+## 73. References to proper accounting practices[^c-7b413bd50fc84100402636bfd432e823]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In section 21(4) of the Local Government Act 2003 (enactments to which provision
 
 ## Annotations
 
-[^key-7b413bd50fc84100402636bfd432e823]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2011/20/section/73) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-7b413bd50fc84100402636bfd432e823]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2011/20/section/73) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)

@@ -29,21 +29,21 @@ Licensing (Amendment) Act 1981 (repealed)
 
 1981 c. 40
 
-[^key-6d33eeb3d830c1a5de29a9e28aad6f0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d33eeb3d830c1a5de29a9e28aad6f0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Special hours certificates: amendment of provisions as to revocation.[^key-6d33eeb3d830c1a5de29a9e28aad6f0e][^key-6d33eeb3d830c1a5de29a9e28aad6f0e]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Procedure on applications to justices under section 81A(2) of Licensing Act 1964.[^key-6d33eeb3d830c1a5de29a9e28aad6f0e][^key-6d33eeb3d830c1a5de29a9e28aad6f0e]
+## 1. Special hours certificates: amendment of provisions as to revocation.[^c-6d33eeb3d830c1a5de29a9e28aad6f0e][^c-6d33eeb3d830c1a5de29a9e28aad6f0e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, commencement and extent.[^key-6d33eeb3d830c1a5de29a9e28aad6f0e][^key-6d33eeb3d830c1a5de29a9e28aad6f0e]
+## 2. Procedure on applications to justices under section 81A(2) of Licensing Act 1964.[^c-6d33eeb3d830c1a5de29a9e28aad6f0e][^c-6d33eeb3d830c1a5de29a9e28aad6f0e]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Short title, commencement and extent.[^c-6d33eeb3d830c1a5de29a9e28aad6f0e][^c-6d33eeb3d830c1a5de29a9e28aad6f0e]
 
 **No longer in force.**
 
@@ -51,4 +51,4 @@ Licensing (Amendment) Act 1981 (repealed)
 
 ## Annotations
 
-[^key-6d33eeb3d830c1a5de29a9e28aad6f0e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1981/40) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-6d33eeb3d830c1a5de29a9e28aad6f0e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1981/40) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

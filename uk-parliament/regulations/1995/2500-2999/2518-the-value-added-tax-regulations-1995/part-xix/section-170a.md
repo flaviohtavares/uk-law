@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170A. Attribution of payments received under certain credit agreements[^key-4436a02bd20b8b25dc230773ae464ca8][^key-10211e5aa00353cd5a6c4ce30b91a9c7][^key-be57a27e8154cb1a0f84d5ddd8881765]
+## 170A. Attribution of payments received under certain credit agreements[^c-4436a02bd20b8b25dc230773ae464ca8][^c-10211e5aa00353cd5a6c4ce30b91a9c7][^c-be57a27e8154cb1a0f84d5ddd8881765]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4436a02bd20b8b25dc230773ae464ca8]: Textual amendment: [Reg. 170A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/170A) substituted (1.3.2007) by [The Value Added Tax (Amendment) Regulations 2007 (S.I. 2007/313)](https://www.legislation.gov.uk/uksi/2007/313), [regs. 1](https://www.legislation.gov.uk/uksi/2007/313/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/313/regulation/3)
+[^c-4436a02bd20b8b25dc230773ae464ca8]: Textual amendment: [Reg. 170A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/170A) substituted (1.3.2007) by [The Value Added Tax (Amendment) Regulations 2007 (S.I. 2007/313)](https://www.legislation.gov.uk/uksi/2007/313), [regs. 1](https://www.legislation.gov.uk/uksi/2007/313/regulation/1), [3](https://www.legislation.gov.uk/uksi/2007/313/regulation/3)
 
-[^key-10211e5aa00353cd5a6c4ce30b91a9c7]: Textual amendment: [Reg. 170A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/170A) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/3027/regulation/5)
+[^c-10211e5aa00353cd5a6c4ce30b91a9c7]: Textual amendment: [Reg. 170A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/170A) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/3027/regulation/5)
 
-[^key-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
+[^c-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))

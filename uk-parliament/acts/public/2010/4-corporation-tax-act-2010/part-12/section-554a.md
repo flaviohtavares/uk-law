@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554A. Meaning of “distribution”[^key-dbf0cd8651767c36f209dcaf1ccc8adf]
+## 554A. Meaning of “distribution”[^c-dbf0cd8651767c36f209dcaf1ccc8adf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbf0cd8651767c36f209dcaf1ccc8adf]: Textual amendment: S. 554A inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/8)
+[^c-dbf0cd8651767c36f209dcaf1ccc8adf]: Textual amendment: S. 554A inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/8)

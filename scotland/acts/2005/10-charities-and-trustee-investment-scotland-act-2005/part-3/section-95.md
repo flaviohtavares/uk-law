@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Amendments consequential on Part 3[^key-d6520756cccf8f19f6361f0a39fba14d]
+## 95. Amendments consequential on Part 3[^c-d6520756cccf8f19f6361f0a39fba14d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 3 makes amendments consequential on sections 93 and 94.
 
 ## Annotations
 
-[^key-d6520756cccf8f19f6361f0a39fba14d]: Commencement: S. 95 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-d6520756cccf8f19f6361f0a39fba14d]: Commencement: S. 95 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

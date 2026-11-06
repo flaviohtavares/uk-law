@@ -24,7 +24,7 @@ Section 36
 
 ### ICTA
 
-**1.**[^key-1c4fc655e23ae274fbe9a7c6ace07850][^key-878d5e5442ef739c061aeadfebe0ba94] (1) Section 826 of ICTA (interest on tax overpaid) is amended as follows.
+**1.**[^c-1c4fc655e23ae274fbe9a7c6ace07850][^c-878d5e5442ef739c061aeadfebe0ba94] (1) Section 826 of ICTA (interest on tax overpaid) is amended as follows.
 
 (2) In subsection (1), after paragraph (f) insert—
 
@@ -43,7 +43,7 @@ Section 36
 
 **2.** Schedule 18 to FA 1998 (company tax returns, assessments and related matters) is amended as follows.
 
-**3.**[^key-20dd97b135a1c5bbe62f878cc88afe81][^key-26146695d16abb749fad08b0c1e8e160] (1) Paragraph 10 (other claims and elections to be included in return) is amended as follows.
+**3.**[^c-20dd97b135a1c5bbe62f878cc88afe81][^c-26146695d16abb749fad08b0c1e8e160] (1) Paragraph 10 (other claims and elections to be included in return) is amended as follows.
 
 (2) In sub-paragraph (4), for “film tax relief” substitute “ tax relief under Part 15, 15A or 15B of the Corporation Tax Act 2009 ”.
 
@@ -53,7 +53,7 @@ Section 36
 >
 > (7) An election under section 1217AB(6) of the Corporation Tax Act 2009 (election not to be a video games development company) can only be made by being included in a company tax return (see section 1217AB(7)(a) of that Act).
 
-**4.**[^key-db2c99ed4d9f51c840e0260a54c425c4][^key-556194b5f9f71daa402d6d859e043cd2] (1) Paragraph 52 (recovery of excessive overpayments etc) is amended as follows.
+**4.**[^c-db2c99ed4d9f51c840e0260a54c425c4][^c-556194b5f9f71daa402d6d859e043cd2] (1) Paragraph 52 (recovery of excessive overpayments etc) is amended as follows.
 
 (2) In sub-paragraph (2), after paragraph (bd) insert—
 
@@ -72,7 +72,7 @@ Section 36
   ;
 - (b) after “(ae)” insert “ , (ag), (ah) ”.
 
-**5.**[^key-f10708ca51f6494f6c4988c0d9df9487][^key-21c7090babf4737b8410d105cbcd42e1] (1) Part 9D (claims for film tax relief) is amended as follows.
+**5.**[^c-f10708ca51f6494f6c4988c0d9df9487][^c-21c7090babf4737b8410d105cbcd42e1] (1) Part 9D (claims for film tax relief) is amended as follows.
 
 (2) In paragraph 83S (introduction), for “film tax relief” substitute
 
@@ -86,11 +86,11 @@ Section 36
 
 ### CAA 2001
 
-**6.**[^key-5d02cef1465eaa77a3e942811a6959f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5d02cef1465eaa77a3e942811a6959f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### FA 2007
 
-**7.**[^key-4263e7ac1f3a873b2fd29f4ad4756e55][^key-96c75840b8130d52a51b8d1c27385e85] In Schedule 24 to FA 2007 (penalties for errors), in paragraph 28(fa) (meaning of “corporation tax credit”), omit the “or” at the end of sub-paragraph (iv) and after that sub-paragraph insert—
+**7.**[^c-4263e7ac1f3a873b2fd29f4ad4756e55][^c-96c75840b8130d52a51b8d1c27385e85] In Schedule 24 to FA 2007 (penalties for errors), in paragraph 28(fa) (meaning of “corporation tax credit”), omit the “or” at the end of sub-paragraph (iv) and after that sub-paragraph insert—
 
 > - (iva) a television tax credit under Chapter 3 of Part 15A of that Act,
 > - (ivb) a video game tax credit under Chapter 3 of Part 15B of that Act, or
@@ -99,7 +99,7 @@ Section 36
 
 ### CTA 2009
 
-**8.**[^key-2565009d4263fa5660751084dc3d44fd][^key-3f2de8f9cda8f95782e962d2d4933e27] In Chapter 6A of Part 3 of CTA 2009 (trade profits: R&D expenditure credits), after section 104B insert—
+**8.**[^c-2565009d4263fa5660751084dc3d44fd][^c-3f2de8f9cda8f95782e962d2d4933e27] In Chapter 6A of Part 3 of CTA 2009 (trade profits: R&D expenditure credits), after section 104B insert—
 
 > **104BA. Restriction on claiming other tax reliefs**
 >
@@ -109,7 +109,7 @@ Section 36
 >
 > (3) For provision prohibiting an R&D expenditure credit being given under this Chapter and relief being given under Chapter 3 of Part 15B (video games tax relief), see section 1217C(4).
 
-**9.**[^key-726d750f22c331fe1e289d4a5dc1c850][^key-53955da3dc75fa9aecf4401d68108b49] In Part 8 of CTA 2009 (intangible fixed assets), in Chapter 10 (excluded assets), after section 808 insert—
+**9.**[^c-726d750f22c331fe1e289d4a5dc1c850][^c-53955da3dc75fa9aecf4401d68108b49] In Part 8 of CTA 2009 (intangible fixed assets), in Chapter 10 (excluded assets), after section 808 insert—
 
 > **808A. Assets representing production expenditure on certain TV programmes**
 >
@@ -131,7 +131,7 @@ Section 36
 > - (b) “**video games development company**” has the same meaning as in that Part (see section 1217AB), and
 > - (c) “**core expenditure**” has the same meaning as in that Part (see section 1217AD).
 
-**10.**[^key-14660595c8893116bfcc30800f76e591][^key-d80f3011393e79fd5130f960f7a68247] In Part 13 of CTA 2009 (additional relief for expenditure on research and development), after section 1040 insert—
+**10.**[^c-14660595c8893116bfcc30800f76e591][^c-d80f3011393e79fd5130f960f7a68247] In Part 13 of CTA 2009 (additional relief for expenditure on research and development), after section 1040 insert—
 
 > **1040ZA. Restriction on claiming other tax reliefs**
 >
@@ -143,14 +143,14 @@ Section 36
 
 **11.** Part 15 of CTA 2009 (film tax relief) is amended as follows.
 
-**12.**[^key-9e3ed6d3a17ce8d72abde20684ae9a79][^key-f81ed010984226f9ebcd6b8ee8a2edf3] In section 1195 (availability and overview of film tax relief), after subsection (3) insert—
+**12.**[^c-9e3ed6d3a17ce8d72abde20684ae9a79][^c-f81ed010984226f9ebcd6b8ee8a2edf3] In section 1195 (availability and overview of film tax relief), after subsection (3) insert—
 
 > (3A) But film tax relief is not available in respect of any expenditure if—
 >
 > - (a) the company is entitled to an R&D expenditure credit under Chapter 6A of Part 3 in respect of the expenditure, or
 > - (b) the company has obtained relief under Part 13 (additional relief for expenditure on research and development) in respect of the expenditure.
 
-**13.**[^key-48ef7dbf3a70fd77dcb9dfb95cef2659][^key-fe7e1f8792edbaf45eaf9a92ba71efbf] (1) Section 1206 (confidentiality of information) is amended as follows.
+**13.**[^c-48ef7dbf3a70fd77dcb9dfb95cef2659][^c-fe7e1f8792edbaf45eaf9a92ba71efbf] (1) Section 1206 (confidentiality of information) is amended as follows.
 
 (2) In subsection (1), for the words from “Schedule 1” to the end substitute “ any of the provisions listed in subsection (1A) ”.
 
@@ -176,7 +176,7 @@ Section 36
 - (a) in paragraph (a), for the words from “Schedule 1” to the end substitute “ any of the provisions listed in subsection (1A) ”;
 - (b) in paragraph (d), for “that Schedule or this Part” substitute “ any of Parts 15 to 15B of this Act or Schedule 1 to the Films Act 1985 ”.
 
-**14.**[^key-512608cbd060ae1f3084b41d5cb05bcd][^key-e81ac9c7a6f0edaf090041cff7a850a1] (1) In section 1310 of CTA 2009 (orders and regulations), subsection (4) is amended as follows.
+**14.**[^c-512608cbd060ae1f3084b41d5cb05bcd][^c-e81ac9c7a6f0edaf090041cff7a850a1] (1) In section 1310 of CTA 2009 (orders and regulations), subsection (4) is amended as follows.
 
 (2) Omit the “or” at the end of paragraph (e) and after that paragraph insert—
 
@@ -193,7 +193,7 @@ Section 36
 
 .
 
-**15.**[^key-87561dc0a8089abf6c17fc309c1abdfc][^key-ab4af4bc0244c00be811170b4e540dba] (1) Schedule 4 to CTA 2009 (index of defined expressions) is amended as follows.
+**15.**[^c-87561dc0a8089abf6c17fc309c1abdfc][^c-ab4af4bc0244c00be811170b4e540dba] (1) Schedule 4 to CTA 2009 (index of defined expressions) is amended as follows.
 
 (2) At the appropriate place insert—
 
@@ -435,7 +435,7 @@ Section 36
 
 ### FA 2009
 
-**16.**[^key-8f756830e83c9fb06566bb085d22e49e][^key-2f731b682d8dbae57dd6ff4d07c845ac] In Schedule 54A to FA 2009 (further provision as to late payment interest and repayment interest), in paragraph 2(2), omit the “or” at the end of paragraph (d) and after paragraph (e) insert—
+**16.**[^c-8f756830e83c9fb06566bb085d22e49e][^c-2f731b682d8dbae57dd6ff4d07c845ac] In Schedule 54A to FA 2009 (further provision as to late payment interest and repayment interest), in paragraph 2(2), omit the “or” at the end of paragraph (d) and after paragraph (e) insert—
 
 > - (f) a payment of television tax credit under Chapter 3 of Part 15 of CTA 2009 for an accounting period, or
 > - (g) a payment of video game tax credit under Chapter 3 of Part 15B of CTA 2009 for an accounting period.
@@ -444,7 +444,7 @@ Section 36
 
 **17.** Part 8A of CTA 2010 (profits arising from the exploitation of patents etc) is amended as follows.
 
-**18.**[^key-ef439afeedfdb1c392d4b6e730f5c192][^key-07d6a57aadd06bd3260bdf5e72bf0cc3] (1) Section 357CG (adjustments in calculating profits of trade) is amended as follows.
+**18.**[^c-ef439afeedfdb1c392d4b6e730f5c192][^c-07d6a57aadd06bd3260bdf5e72bf0cc3] (1) Section 357CG (adjustments in calculating profits of trade) is amended as follows.
 
 (2) In subsection (3), omit the “and” at the end of paragraph (a) and after paragraph (b) insert—
 
@@ -481,7 +481,7 @@ Section 36
   > - “**television production company**” has the same meaning as in Part 15A of CTA 2009 (see section 1216AE), and
   > - “**video games development company**” has the same meaning as in Part 15B of CTA 2009 (see section 1217AB).
 
-**19.**[^key-a792553b670849a1cdbe665e0e6134cf][^key-18f4df36d1e719dcd2f887062a0b844b] After section 357CH insert—
+**19.**[^c-a792553b670849a1cdbe665e0e6134cf][^c-18f4df36d1e719dcd2f887062a0b844b] After section 357CH insert—
 
 > **357CHA. Shortfall in qualifying expenditure**
 >
@@ -551,7 +551,7 @@ Section 36
 >
 > the additional amount is to be added to the actual qualifying expenditure for the next relevant accounting period (in addition to any additional amount so added by virtue of subsection (8)).
 
-**20.**[^key-749ab360b053d0efbd4f5a7fdf44cca9][^key-ae24b0ca4d52bee3663ead9cf4023713] (1) Section 357CK (deductions that are not routine deductions) is amended as follows.
+**20.**[^c-749ab360b053d0efbd4f5a7fdf44cca9][^c-ae24b0ca4d52bee3663ead9cf4023713] (1) Section 357CK (deductions that are not routine deductions) is amended as follows.
 
 (2) In subsection (1), at the end insert—
 
@@ -572,7 +572,7 @@ Section 36
 
 ### Consequential renumbering
 
-**21.**[^key-749ebfd32a89c0ee353e653d343f00ea][^key-fd52980a57489e0dea55a776536a49a1] (1) Sections 1217 and 1218 of CTA 2009 are renumbered as follows—
+**21.**[^c-749ebfd32a89c0ee353e653d343f00ea][^c-fd52980a57489e0dea55a776536a49a1] (1) Sections 1217 and 1218 of CTA 2009 are renumbered as follows—
 
 - (a) section 1217 becomes section 1218A, and
 - (b) section 1218 becomes section 1218B.
@@ -613,72 +613,72 @@ Section 36
 
 ## Annotations
 
-[^key-1c4fc655e23ae274fbe9a7c6ace07850]: Commencement: Sch. 18 para. 1 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-1c4fc655e23ae274fbe9a7c6ace07850]: Commencement: Sch. 18 para. 1 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-878d5e5442ef739c061aeadfebe0ba94]: Commencement: Sch. 18 para. 1 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-878d5e5442ef739c061aeadfebe0ba94]: Commencement: Sch. 18 para. 1 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-20dd97b135a1c5bbe62f878cc88afe81]: Commencement: Sch. 18 para. 3 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-20dd97b135a1c5bbe62f878cc88afe81]: Commencement: Sch. 18 para. 3 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-26146695d16abb749fad08b0c1e8e160]: Commencement: Sch. 18 para. 3 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-26146695d16abb749fad08b0c1e8e160]: Commencement: Sch. 18 para. 3 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-db2c99ed4d9f51c840e0260a54c425c4]: Commencement: Sch. 18 para. 4 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-db2c99ed4d9f51c840e0260a54c425c4]: Commencement: Sch. 18 para. 4 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-556194b5f9f71daa402d6d859e043cd2]: Commencement: Sch. 18 para. 4 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-556194b5f9f71daa402d6d859e043cd2]: Commencement: Sch. 18 para. 4 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-f10708ca51f6494f6c4988c0d9df9487]: Commencement: Sch. 18 para. 5 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-f10708ca51f6494f6c4988c0d9df9487]: Commencement: Sch. 18 para. 5 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-21c7090babf4737b8410d105cbcd42e1]: Commencement: Sch. 18 para. 5 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-21c7090babf4737b8410d105cbcd42e1]: Commencement: Sch. 18 para. 5 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-5d02cef1465eaa77a3e942811a6959f1]: Textual amendment: Sch. 18 para. 6 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(x)(c)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/x)
+[^c-5d02cef1465eaa77a3e942811a6959f1]: Textual amendment: Sch. 18 para. 6 repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(x)(c)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/x)
 
-[^key-4263e7ac1f3a873b2fd29f4ad4756e55]: Commencement: Sch. 18 para. 7 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-4263e7ac1f3a873b2fd29f4ad4756e55]: Commencement: Sch. 18 para. 7 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-96c75840b8130d52a51b8d1c27385e85]: Commencement: Sch. 18 para. 7 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-96c75840b8130d52a51b8d1c27385e85]: Commencement: Sch. 18 para. 7 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-2565009d4263fa5660751084dc3d44fd]: Commencement: Sch. 18 para. 8 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-2565009d4263fa5660751084dc3d44fd]: Commencement: Sch. 18 para. 8 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-3f2de8f9cda8f95782e962d2d4933e27]: Commencement: Sch. 18 para. 8 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-3f2de8f9cda8f95782e962d2d4933e27]: Commencement: Sch. 18 para. 8 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-726d750f22c331fe1e289d4a5dc1c850]: Commencement: Sch. 18 para. 9 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-726d750f22c331fe1e289d4a5dc1c850]: Commencement: Sch. 18 para. 9 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-53955da3dc75fa9aecf4401d68108b49]: Commencement: Sch. 18 para. 9 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-53955da3dc75fa9aecf4401d68108b49]: Commencement: Sch. 18 para. 9 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-14660595c8893116bfcc30800f76e591]: Commencement: Sch. 18 para. 10 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-14660595c8893116bfcc30800f76e591]: Commencement: Sch. 18 para. 10 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-d80f3011393e79fd5130f960f7a68247]: Commencement: Sch. 18 para. 10 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-d80f3011393e79fd5130f960f7a68247]: Commencement: Sch. 18 para. 10 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-9e3ed6d3a17ce8d72abde20684ae9a79]: Commencement: Sch. 18 para. 12 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-9e3ed6d3a17ce8d72abde20684ae9a79]: Commencement: Sch. 18 para. 12 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-f81ed010984226f9ebcd6b8ee8a2edf3]: Commencement: Sch. 18 para. 12 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-f81ed010984226f9ebcd6b8ee8a2edf3]: Commencement: Sch. 18 para. 12 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-48ef7dbf3a70fd77dcb9dfb95cef2659]: Commencement: Sch. 18 para. 13 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-48ef7dbf3a70fd77dcb9dfb95cef2659]: Commencement: Sch. 18 para. 13 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-fe7e1f8792edbaf45eaf9a92ba71efbf]: Commencement: Sch. 18 para. 13 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-fe7e1f8792edbaf45eaf9a92ba71efbf]: Commencement: Sch. 18 para. 13 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-512608cbd060ae1f3084b41d5cb05bcd]: Commencement: Sch. 18 para. 14 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-512608cbd060ae1f3084b41d5cb05bcd]: Commencement: Sch. 18 para. 14 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-e81ac9c7a6f0edaf090041cff7a850a1]: Commencement: Sch. 18 para. 14 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-e81ac9c7a6f0edaf090041cff7a850a1]: Commencement: Sch. 18 para. 14 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-87561dc0a8089abf6c17fc309c1abdfc]: Commencement: Sch. 18 para. 15 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-87561dc0a8089abf6c17fc309c1abdfc]: Commencement: Sch. 18 para. 15 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-ab4af4bc0244c00be811170b4e540dba]: Commencement: Sch. 18 para. 15 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-ab4af4bc0244c00be811170b4e540dba]: Commencement: Sch. 18 para. 15 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-8f756830e83c9fb06566bb085d22e49e]: Commencement: Sch. 18 para. 16 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-8f756830e83c9fb06566bb085d22e49e]: Commencement: Sch. 18 para. 16 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-2f731b682d8dbae57dd6ff4d07c845ac]: Commencement: Sch. 18 para. 16 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-2f731b682d8dbae57dd6ff4d07c845ac]: Commencement: Sch. 18 para. 16 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-ef439afeedfdb1c392d4b6e730f5c192]: Commencement: Sch. 18 para. 18 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-ef439afeedfdb1c392d4b6e730f5c192]: Commencement: Sch. 18 para. 18 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-07d6a57aadd06bd3260bdf5e72bf0cc3]: Commencement: Sch. 18 para. 18 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-07d6a57aadd06bd3260bdf5e72bf0cc3]: Commencement: Sch. 18 para. 18 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-a792553b670849a1cdbe665e0e6134cf]: Commencement: Sch. 18 para. 19 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-a792553b670849a1cdbe665e0e6134cf]: Commencement: Sch. 18 para. 19 in force at 19.7.2013 for the purposes of the amendment made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-18f4df36d1e719dcd2f887062a0b844b]: Commencement: Sch. 18 para. 19 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-18f4df36d1e719dcd2f887062a0b844b]: Commencement: Sch. 18 para. 19 in force at 1.4.2014 for the purposes of the amendment made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-749ab360b053d0efbd4f5a7fdf44cca9]: Commencement: Sch. 18 para. 20 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-749ab360b053d0efbd4f5a7fdf44cca9]: Commencement: Sch. 18 para. 20 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-ae24b0ca4d52bee3663ead9cf4023713]: Commencement: Sch. 18 para. 20 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-ae24b0ca4d52bee3663ead9cf4023713]: Commencement: Sch. 18 para. 20 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-749ebfd32a89c0ee353e653d343f00ea]: Commencement: Sch. 18 para. 21 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
+[^c-749ebfd32a89c0ee353e653d343f00ea]: Commencement: Sch. 18 para. 21 in force at 19.7.2013 for the purposes of the amendments made by that paragraph, so far as relating to television tax relief by [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2)
 
-[^key-fd52980a57489e0dea55a776536a49a1]: Commencement: Sch. 18 para. 21 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-fd52980a57489e0dea55a776536a49a1]: Commencement: Sch. 18 para. 21 in force at 1.4.2014 for the purposes of the amendments made by that paragraph, so far as relating to video games development tax relief by [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Traffic commissioners to keep records about such permits[^key-d86a1d951bba7d2b80bcf4a0a13e5a52]
+## 61. Traffic commissioners to keep records about such permits[^c-d86a1d951bba7d2b80bcf4a0a13e5a52]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d86a1d951bba7d2b80bcf4a0a13e5a52]: Commencement: S. 61 in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-d86a1d951bba7d2b80bcf4a0a13e5a52]: Commencement: S. 61 in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

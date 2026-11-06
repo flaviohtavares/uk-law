@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Application and modification of legislative provisions[^key-cc0189cf2c20280c581379db8b33b5f2]
+## 3. Application and modification of legislative provisions[^c-cc0189cf2c20280c581379db8b33b5f2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the modifications set out in Schedule 10 the enactments for the time 
 
 ## Annotations
 
-[^key-cc0189cf2c20280c581379db8b33b5f2]: Commencement: Art. 3 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-cc0189cf2c20280c581379db8b33b5f2]: Commencement: Art. 3 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

@@ -34,12 +34,12 @@ summary: ''
 
 (5) The authority may—
 
-- (a) carry out works (including works of demolition) on land owned by the authority in the area (whether or not that land was acquired under subsection(2) or subsection (4) above); [^key-175d5d89d75e681fd32af964a8701da5]...
-- (b)[^key-175d5d89d75e681fd32af964a8701da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) carry out works (including works of demolition) on land owned by the authority in the area (whether or not that land was acquired under subsection(2) or subsection (4) above); [^c-175d5d89d75e681fd32af964a8701da5]...
+- (b)[^c-175d5d89d75e681fd32af964a8701da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-175d5d89d75e681fd32af964a8701da5]....
+[^c-175d5d89d75e681fd32af964a8701da5]....
 
-(6) The authority may enter into an agreement with a housing association or other person under which, in accordance with the terms of the agreement, [^key-1d6b76f73677f273f4612de0922f85dc]... the authority’s functions under subsection (5) above are to be exercisable by that association or other person.
+(6) The authority may enter into an agreement with a housing association or other person under which, in accordance with the terms of the agreement, [^c-1d6b76f73677f273f4612de0922f85dc]... the authority’s functions under subsection (5) above are to be exercisable by that association or other person.
 
 (7) If after—
 
@@ -52,6 +52,6 @@ the renewal area concerned ceases to be such an area or the land is excluded fro
 
 ## Annotations
 
-[^key-175d5d89d75e681fd32af964a8701da5]: Textual amendment: S. 93(5)(b) and words repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 13(4)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/4))
+[^c-175d5d89d75e681fd32af964a8701da5]: Textual amendment: S. 93(5)(b) and words repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [13(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 13(4)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/4))
 
-[^key-1d6b76f73677f273f4612de0922f85dc]: Textual amendment: Words in s. 93(6) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [13(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 13(4)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/4))
+[^c-1d6b76f73677f273f4612de0922f85dc]: Textual amendment: Words in s. 93(6) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [13(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 13(4)](https://www.legislation.gov.uk/uksi/2002/1860/article/13/4))

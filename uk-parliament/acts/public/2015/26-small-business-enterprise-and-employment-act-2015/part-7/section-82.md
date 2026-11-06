@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Review of provisions about PSC registers[^key-c6ae19cc45ffe87ac47ad5652943e50d]
+## 82. Review of provisions about PSC registers[^c-c6ae19cc45ffe87ac47ad5652943e50d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6ae19cc45ffe87ac47ad5652943e50d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/26/section/82) in force at 6.4.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/b)
+[^c-c6ae19cc45ffe87ac47ad5652943e50d]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/26/section/82) in force at 6.4.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/b)

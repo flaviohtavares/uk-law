@@ -23,7 +23,7 @@ summary: ''
 (1) No proceedings for—
 
 - (a) an offence under this Act; or
-- (b) an offence under any of sections 4, 5, 6(1) and (2) and 7 to 9 of the Animal Welfare Act 2006[^key-c66b9f14402f501d095529209104b1fe] which is alleged to have been committed in respect of an animal at a place specified in a section 2C licence[^key-8970e56718ccd9f629b3b1f116b64a2d] , shall be brought in England and Wales except by or with the consent of the Director of Public Prosecutions.
+- (b) an offence under any of sections 4, 5, 6(1) and (2) and 7 to 9 of the Animal Welfare Act 2006[^c-c66b9f14402f501d095529209104b1fe] which is alleged to have been committed in respect of an animal at a place specified in a section 2C licence[^c-8970e56718ccd9f629b3b1f116b64a2d] , shall be brought in England and Wales except by or with the consent of the Director of Public Prosecutions.
 
 (2) Summary proceedings for an offence under this Act may (without prejudice to any jurisdiction exercisable apart from this subsection) be taken against any person at any place at which he is for the time being.
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c66b9f14402f501d095529209104b1fe]: Textual amendment: Words in s. 26(1)(b) substituted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45) , [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3) , [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/12/2) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2) , [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1) , [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59) , [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60) ); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499) , [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l) ; [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030) , [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l)
+[^c-c66b9f14402f501d095529209104b1fe]: Textual amendment: Words in s. 26(1)(b) substituted (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45) , [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3) , [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/ukpga/2006/45/schedule/3/paragraph/12/2) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2) , [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1) , [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59) , [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60) ); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499) , [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/l) ; [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030) , [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/l)
 
-[^key-8970e56718ccd9f629b3b1f116b64a2d]: Textual amendment: Words in s. 26(1)(b) substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(13)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/13) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-8970e56718ccd9f629b3b1f116b64a2d]: Textual amendment: Words in s. 26(1)(b) substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [26(13)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/26/13) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
 [^c1016540]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43) .
 

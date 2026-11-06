@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Duty to have regard to transport needs of disabled persons[^key-a64d33ac96c918fcb8777d5bb8605906][^key-e7aa32b6ada359c43c9c46e96ffe5e9e]
+## 11. Duty to have regard to transport needs of disabled persons[^c-a64d33ac96c918fcb8777d5bb8605906][^c-e7aa32b6ada359c43c9c46e96ffe5e9e]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a64d33ac96c918fcb8777d5bb8605906]: Commencement: S. 11 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-a64d33ac96c918fcb8777d5bb8605906]: Commencement: S. 11 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-e7aa32b6ada359c43c9c46e96ffe5e9e]: Commencement: S. 11 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)
+[^c-e7aa32b6ada359c43c9c46e96ffe5e9e]: Commencement: S. 11 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)

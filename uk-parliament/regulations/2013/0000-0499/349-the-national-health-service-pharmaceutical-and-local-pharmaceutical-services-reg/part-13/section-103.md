@@ -25,7 +25,7 @@ summary: ''
 - (a) as regards an LPS scheme established by a Primary Care Trust before the appointed day, either—
   - (i) before the LPS scheme was entered into, the proposed provider (or providers) under the scheme objected to that by a notice in writing to the Primary Care Trust, or
   - (ii) before the appointed day, the LPS scheme was varied under regulation 10(4) of the 2006 Regulations (health service body status), as a consequence of which the scheme ceased to be treated as an NHS contract; or
-- (b) before the LPS scheme is entered into, the proposed provider (or providers) under the scheme object to that by a notice in writing to NHS England[^key-fedf3951d93bcf656ad03378f887d7d5].
+- (b) before the LPS scheme is entered into, the proposed provider (or providers) under the scheme object to that by a notice in writing to NHS England[^c-fedf3951d93bcf656ad03378f887d7d5].
 
 (2) Where C is to be treated as a health service body for the purposes of section 9 of the 2006 Act, subject to paragraph (3), any variation of the LPS scheme which changes a party to the scheme does not affect the health service body status of the provider (or providers) of goods and services under the scheme.
 
@@ -50,7 +50,7 @@ for the purposes of section 9 of the 2006 Act from the date on which the variati
 
 (6) Where a person ceases to be treated as a health service body pursuant to—
 
-- (a)[^key-b680d06537169a47eef55a674369105b] paragraph (4)(b), where C or NHS England—
+- (a)[^c-b680d06537169a47eef55a674369105b] paragraph (4)(b), where C or NHS England—
   - (i) has referred any matter to the NHS dispute resolution procedure before C ceases to be a health service body, or
   - (ii) refers any matter to the NHS dispute resolution procedure, in accordance with paragraph 21(1)(a) of Schedule 7, after C ceases to be a health service body,
 
@@ -61,6 +61,6 @@ for the purposes of section 9 of the 2006 Act from the date on which the variati
 
 [^c21647181]: Marginal citation: Section 9 has been amended by the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [Schedule 5](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5), [paragraph 82](https://www.legislation.gov.uk/ukpga/2008/14/paragraph/82), and by the Health and Social Care Act 2012, Schedule 4, paragraph 6, Schedule 7, paragraph 18, Schedule 14, paragraph 4, Schedule 17, paragraph 10, Schedule 19, paragraph 9, and Schedule 21, paragraph 6.
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-b680d06537169a47eef55a674369105b]: Textual amendment: Reg. 103(6)(a) substituted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/58/regulation/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
+[^c-b680d06537169a47eef55a674369105b]: Textual amendment: Reg. 103(6)(a) substituted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/58/regulation/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))

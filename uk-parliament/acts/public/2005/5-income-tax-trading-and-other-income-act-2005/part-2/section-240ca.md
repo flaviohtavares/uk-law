@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240CA. Unrelieved qualifying expenditure: Part 5 of CAA 2001[^key-6384f313581faf645d55724a08bb0b3f][^key-0bc9184a8f38bc9b05cf24d7792ebfd4]
+## 240CA. Unrelieved qualifying expenditure: Part 5 of CAA 2001[^c-6384f313581faf645d55724a08bb0b3f][^c-0bc9184a8f38bc9b05cf24d7792ebfd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6384f313581faf645d55724a08bb0b3f]: Textual amendment: [S. 240CA](https://www.legislation.gov.uk/ukpga/2005/5/section/240CA) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/8)
+[^c-6384f313581faf645d55724a08bb0b3f]: Textual amendment: [S. 240CA](https://www.legislation.gov.uk/ukpga/2005/5/section/240CA) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/8)
 
-[^key-0bc9184a8f38bc9b05cf24d7792ebfd4]: Textual amendment: Pt. 2 Ch. 17A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/38)
+[^c-0bc9184a8f38bc9b05cf24d7792ebfd4]: Textual amendment: Pt. 2 Ch. 17A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/38)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Retail exit: non-household premises[^key-6e5ae5141e6a6394d313302e39c4353c]
+## 42. Retail exit: non-household premises[^c-6e5ae5141e6a6394d313302e39c4353c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ and a reference to the non-household retail market is to be construed accordingl
 
 ## Annotations
 
-[^key-6e5ae5141e6a6394d313302e39c4353c]: Commencement: S. 42 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/i) (with art. 5)
+[^c-6e5ae5141e6a6394d313302e39c4353c]: Commencement: S. 42 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/i) (with art. 5)

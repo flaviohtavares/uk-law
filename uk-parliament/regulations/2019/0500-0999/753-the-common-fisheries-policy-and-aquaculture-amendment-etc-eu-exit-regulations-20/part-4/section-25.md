@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Regulation (EU) 2018/973 of the European Parliament and of the Council establishing a multiannual plan for demersal stocks in the North Sea and the fisheries exploiting those stocks, specifying details of the implementation of the landing obligation in the North Sea[^key-b350d0eacf003f4a763b42aab1207b8f]
+## 25. Regulation (EU) 2018/973 of the European Parliament and of the Council establishing a multiannual plan for demersal stocks in the North Sea and the fisheries exploiting those stocks, specifying details of the implementation of the landing obligation in the North Sea[^c-b350d0eacf003f4a763b42aab1207b8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,7 +80,7 @@ summary: ''
 
   > **1.**
   >
-  > When a fisheries administration distributes[^key-c0ea86a528f56bc8c97d9407067b3dfb] fishing opportunities for use by fishing vessels[^key-a34661f8822a5b0cc4535a2d62d8a3c1] it must take account of the likely catch composition of fishing vessels participating in mixed fisheries.
+  > When a fisheries administration distributes[^c-c0ea86a528f56bc8c97d9407067b3dfb] fishing opportunities for use by fishing vessels[^c-a34661f8822a5b0cc4535a2d62d8a3c1] it must take account of the likely catch composition of fishing vessels participating in mixed fisheries.
 
   ;
 - (b) omit paragraph 2; and
@@ -113,12 +113,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b350d0eacf003f4a763b42aab1207b8f]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-b350d0eacf003f4a763b42aab1207b8f]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24328011]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
 [^c24328021]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627).
 
-[^key-c0ea86a528f56bc8c97d9407067b3dfb]: Textual amendment: Word in [reg. 25(8)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/25/8/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0ea86a528f56bc8c97d9407067b3dfb]: Textual amendment: Word in [reg. 25(8)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/25/8/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a34661f8822a5b0cc4535a2d62d8a3c1]: Textual amendment: Words in [reg. 25(8)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/25/8/a) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a34661f8822a5b0cc4535a2d62d8a3c1]: Textual amendment: Words in [reg. 25(8)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/25/8/a) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

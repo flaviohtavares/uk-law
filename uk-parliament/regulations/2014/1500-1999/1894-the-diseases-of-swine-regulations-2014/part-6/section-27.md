@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Publicity of declared zones[^key-e81ad3f8496c8a2f9f50d6ce7ec509a4]
+## 27. Publicity of declared zones[^c-e81ad3f8496c8a2f9f50d6ce7ec509a4]
 
 *Extent: E+W+S*
 
 (1) The appropriate authority must publicise—
 
-- (a) the extent of any zone declared under these Regulations (including any Restricted Zone, *(Extent: E+W)*[^key-70b432fcf8e996560f70503871813dc6] emergency vaccination zone or feral pig control zone);
+- (a) the extent of any zone declared under these Regulations (including any Restricted Zone, *(Extent: E+W)*[^c-70b432fcf8e996560f70503871813dc6] emergency vaccination zone or feral pig control zone);
 - (b) the date of the commencement of the application of the zone;
 - (c) the nature of the measures relating to that zone;
 - (d) any amendment to the extent of a zone or measures applicable in the zone; and
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e81ad3f8496c8a2f9f50d6ce7ec509a4]: Commencement: Reg. 27 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-e81ad3f8496c8a2f9f50d6ce7ec509a4]: Commencement: Reg. 27 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-70b432fcf8e996560f70503871813dc6]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/27/1/a) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(24)](https://www.legislation.gov.uk/uksi/2026/475/article/3/24)
+[^c-70b432fcf8e996560f70503871813dc6]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/27/1/a) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(24)](https://www.legislation.gov.uk/uksi/2026/475/article/3/24)

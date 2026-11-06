@@ -33,7 +33,7 @@ An Act to amend the Law with respect to Marriages between British Subjects and F
 
 \[29th November 1906\][^c578398][^c578399]
 
-## 1. Marriages of British subjects with foreigners abroad.[^key-c9b9f54a578294dc3fa5f0093cf64652]
+## 1. Marriages of British subjects with foreigners abroad.[^c-c9b9f54a578294dc3fa5f0093cf64652]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,7 +57,7 @@ His Majesty may by Order in Council make general regulations prescribing the for
 In this Act, unless the context otherwise requires,—
 
 - The expressions “**Registrar-General**” and “**registrar**” mean respectively the Registrar-General within the meaning of the Births and Deaths Registration Act, 1836, and a superintendent registrar of marriages within the meaning of the [^c578408] Marriage Act, 1836; and
-- [^key-622c656c299c1fdfa1a2a13e820618ef]...
+- [^c-622c656c299c1fdfa1a2a13e820618ef]...
 
 ## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c578410]
 
@@ -69,27 +69,27 @@ In the application of this Act to Ireland the expressions “**Registrar-General
 
 This Act may be cited as the Marriage with Foreigners Act, 1906.
 
-## SCHEDULE[^key-cf6d6796486746c63a85b89bc1422419]
+## SCHEDULE[^c-cf6d6796486746c63a85b89bc1422419]
 
 **No longer in force.**
 
-### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-cf6d6796486746c63a85b89bc1422419]
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-cf6d6796486746c63a85b89bc1422419]
 
-#### A.—Conditions[^key-cf6d6796486746c63a85b89bc1422419]
+#### A.—Conditions[^c-cf6d6796486746c63a85b89bc1422419]
 
-**1.**[^key-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B.—Provisions as to forbidding Certificate, and as to Caveats[^key-cf6d6796486746c63a85b89bc1422419]
+#### B.—Provisions as to forbidding Certificate, and as to Caveats[^c-cf6d6796486746c63a85b89bc1422419]
 
-**5.**[^key-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cf6d6796486746c63a85b89bc1422419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — . . .[^key-cf6d6796486746c63a85b89bc1422419]
+### Part II — . . .[^c-cf6d6796486746c63a85b89bc1422419]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,7 +99,7 @@ This Act may be cited as the Marriage with Foreigners Act, 1906.
 
 [^c578399]: Modification: This Act is not necessarily in the form in which it has effect in Northern Ireland
 
-[^key-c9b9f54a578294dc3fa5f0093cf64652]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Edw7/6/40/section/1) repealed (3.6.2014) by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [16](https://www.legislation.gov.uk/uksi/2014/1110/article/16)
+[^c-c9b9f54a578294dc3fa5f0093cf64652]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Edw7/6/40/section/1) repealed (3.6.2014) by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [16](https://www.legislation.gov.uk/uksi/2014/1110/article/16)
 
 [^c578403]: Textual amendment: Words substituted by [Marriage (Scotland) Act 1977 (c. 15, SIF 49:2)](https://www.legislation.gov.uk/ukpga/1977/15), [s. 28(1)](https://www.legislation.gov.uk/ukpga/1977/15/section/28/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1977/15/schedule/2/paragraph/3) (subject to a saving in s. 27(3) in relation to marriages before 1.1.1978)
 
@@ -111,10 +111,10 @@ This Act may be cited as the Marriage with Foreigners Act, 1906.
 
 [^c578408]: Marginal citation: [1836 c. 85](https://www.legislation.gov.uk/ukpga/1836/85).
 
-[^key-622c656c299c1fdfa1a2a13e820618ef]: Textual amendment: Words in s. 4 repealed (3.6.2014) by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [16](https://www.legislation.gov.uk/uksi/2014/1110/article/16)
+[^c-622c656c299c1fdfa1a2a13e820618ef]: Textual amendment: Words in s. 4 repealed (3.6.2014) by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [16](https://www.legislation.gov.uk/uksi/2014/1110/article/16)
 
 [^c578410]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Edw7/6/40/section/5) repealed by [Marriage (Scotland) Act 1977 (c. 15, SIF 49:2)](https://www.legislation.gov.uk/ukpga/1977/15), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1977/15/section/28/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1977/15/schedule/3) (subject to a saving in s. 27(3) in relation to marriages before 1.1.1978)
 
 [^c578411]: Marginal citation: [1844 c. 81](https://www.legislation.gov.uk/ukpga/1844/81).
 
-[^key-cf6d6796486746c63a85b89bc1422419]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/Edw7/6/40/schedule) repealed (3.6.2014) by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [16](https://www.legislation.gov.uk/uksi/2014/1110/article/16)
+[^c-cf6d6796486746c63a85b89bc1422419]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/Edw7/6/40/schedule) repealed (3.6.2014) by [The Consular Marriages and Marriages under Foreign Law Order 2014 (S.I. 2014/1110)](https://www.legislation.gov.uk/uksi/2014/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1110/article/1/1), [16](https://www.legislation.gov.uk/uksi/2014/1110/article/16)

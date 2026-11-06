@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Forward work programmes[^key-42b9b51473c366f76a59909fdbc2e828]
+## 39. Forward work programmes[^c-42b9b51473c366f76a59909fdbc2e828]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ and must consider any representations or objections which are duly made and not 
 
 ## Annotations
 
-[^key-42b9b51473c366f76a59909fdbc2e828]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/52/section/39) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-42b9b51473c366f76a59909fdbc2e828]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/52/section/39) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

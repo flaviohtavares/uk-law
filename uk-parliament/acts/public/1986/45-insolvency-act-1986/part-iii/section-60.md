@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Distribution of moneys.[^key-caa64bf142d310089faf550ef2f6da55]
+## 60. Distribution of moneys.[^c-caa64bf142d310089faf550ef2f6da55]
 
 *Extent: S*
 
@@ -40,7 +40,7 @@ the receiver shall pay moneys received by him to the holder of the floating char
 
 ## Annotations
 
-[^key-caa64bf142d310089faf550ef2f6da55]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1986/45/section/60) applied in part (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-caa64bf142d310089faf550ef2f6da55]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1986/45/section/60) applied in part (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^c15571201]: Modification: S. 60(1)(e) applied (11.12.1999) by [The Financial Market and Insolvency (Settlement Finality) Regulations 1999 (S.I. 1999/2979)](https://www.legislation.gov.uk/uksi/1999/2979), [reg. 14(5)(a)(iii)](https://www.legislation.gov.uk/uksi/1999/2979/regulation/14/5/a/iii) (as substituted (1.10.2009) by [The Financial Markets and Insolvency (Settlement Finality) (Amendment) Regulations 2009 (S.I. 2009/1972)](https://www.legislation.gov.uk/uksi/2009/1972), [reg. 4(d)(iii)](https://www.legislation.gov.uk/uksi/2009/1972/regulation/4/d/iii))
 

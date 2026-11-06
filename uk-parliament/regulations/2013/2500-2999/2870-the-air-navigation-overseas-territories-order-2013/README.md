@@ -321,7 +321,7 @@ Her Majesty, in exercise of the powers conferred on Her by sections 8, 41, 57, 5
 - [Section 164 — Lighting of en-route obstacles](part-19/section-164.md)
 - [Section 165 — Dangerous lights](part-19/section-165.md)
 
-### PART 19A — Aviation Security[^key-8058846c97280725c24bf366e9698165]
+### PART 19A — Aviation Security[^c-8058846c97280725c24bf366e9698165]
 
 - [Section 165A — Aviation security requirements](part-19a/section-165a.md)
 - [Section 165B — Psychoactive substances](part-19a/section-165b.md)
@@ -444,4 +444,4 @@ This Order supersedes the Air Navigation (Overseas Territories) Order 2007 ([S.I
 
 [^f00004]: Footnote: [S.I. 2001/3367](https://www.legislation.gov.uk/uksi/2001/3367) as amended by [S.I. 2011/2979](https://www.legislation.gov.uk/uksi/2011/2979). There are other amendments but none relevant to this Order.
 
-[^key-8058846c97280725c24bf366e9698165]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/2013/2870/part/19A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [18](https://www.legislation.gov.uk/uksi/2021/755/article/18)
+[^c-8058846c97280725c24bf366e9698165]: Textual amendment: [Pt. 19A](https://www.legislation.gov.uk/uksi/2013/2870/part/19A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [18](https://www.legislation.gov.uk/uksi/2021/755/article/18)

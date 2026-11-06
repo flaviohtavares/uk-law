@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Conversion of parts of business premises into flats[^key-e19adf9b77c67fbc263b1c871f124043]
+## 67. Conversion of parts of business premises into flats[^c-e19adf9b77c67fbc263b1c871f124043]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e19adf9b77c67fbc263b1c871f124043]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/2001/9/section/67) repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 39(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/39/a) (with [Sch. 39 paras. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))
+[^c-e19adf9b77c67fbc263b1c871f124043]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/2001/9/section/67) repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 39(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/39/a) (with [Sch. 39 paras. 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))

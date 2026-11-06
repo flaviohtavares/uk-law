@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Orders and regulations[^key-d2f43b03fdd5ff45cd3525a877ddb02a][^key-2c8a9537c958fec5735ddd12e4273a2d]
+## 25. Orders and regulations[^c-d2f43b03fdd5ff45cd3525a877ddb02a][^c-2c8a9537c958fec5735ddd12e4273a2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,15 +25,15 @@ summary: ''
 - (a) an order under section 17 that contains provision establishing a new public scheme or transferring qualifying accrued rights to a new public scheme, or
 - (b) any order under any other provision of this Part,
 
-the Minister for the Civil Service or the[^key-e39305f29c15ebf0e9c88cce2442cd14] Secretary of State must consult the trustee of the RMPP and a Royal Mail company (within the meaning of Part 1).
+the Minister for the Civil Service or the[^c-e39305f29c15ebf0e9c88cce2442cd14] Secretary of State must consult the trustee of the RMPP and a Royal Mail company (within the meaning of Part 1).
 
-(2) The Minister for the Civil Service or the[^key-26f267a9627137cc934b5a1fa6e04636] Secretary of State may not make an order under any provision of this Part (apart from section 24) unless the Treasury have consented to its making.
+(2) The Minister for the Civil Service or the[^c-26f267a9627137cc934b5a1fa6e04636] Secretary of State may not make an order under any provision of this Part (apart from section 24) unless the Treasury have consented to its making.
 
 (3) Any order under this Part is subject to negative resolution procedure.
 
 (4) Any order under this Part may provide for it (or any of its provisions) to come into force on a specified day.
 
-(5) A “**specified day**” means a day specified in an order made by the Minister for the Civil Service or the[^key-41bd7d8dacbfb5f85ede6a4f45e69a15] Secretary of State under this subsection (and different days may be specified for different purposes).
+(5) A “**specified day**” means a day specified in an order made by the Minister for the Civil Service or the[^c-41bd7d8dacbfb5f85ede6a4f45e69a15] Secretary of State under this subsection (and different days may be specified for different purposes).
 
 Subsections (1) to (3) do not apply to an order under this subsection.
 
@@ -43,12 +43,12 @@ Subsections (1) to (3) do not apply to an order under this subsection.
 
 ## Annotations
 
-[^key-d2f43b03fdd5ff45cd3525a877ddb02a]: Commencement: S. 25 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d2f43b03fdd5ff45cd3525a877ddb02a]: Commencement: S. 25 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-2c8a9537c958fec5735ddd12e4273a2d]: Modification: S. 25 functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/v) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-2c8a9537c958fec5735ddd12e4273a2d]: Modification: S. 25 functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/v) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-e39305f29c15ebf0e9c88cce2442cd14]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/25/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/500/article/5/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-e39305f29c15ebf0e9c88cce2442cd14]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/25/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/500/article/5/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-26f267a9627137cc934b5a1fa6e04636]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/25/2) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/500/article/5/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-26f267a9627137cc934b5a1fa6e04636]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/25/2) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/500/article/5/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-41bd7d8dacbfb5f85ede6a4f45e69a15]: Textual amendment: Words in [s. 25(5)](https://www.legislation.gov.uk/ukpga/2011/5/section/25/5) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/500/article/5/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-41bd7d8dacbfb5f85ede6a4f45e69a15]: Textual amendment: Words in [s. 25(5)](https://www.legislation.gov.uk/ukpga/2011/5/section/25/5) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2014/500/article/5/6) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

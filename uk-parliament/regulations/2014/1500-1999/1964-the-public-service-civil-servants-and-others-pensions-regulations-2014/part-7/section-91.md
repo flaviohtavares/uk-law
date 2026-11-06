@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Entitlement to pension credit member’s pension[^key-c37dc446660ee52ceb7721015a1eadab]
+## 91. Entitlement to pension credit member’s pension[^c-c37dc446660ee52ceb7721015a1eadab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A pension credit member (P) of this scheme is entitled to the immediate payment 
 
 ## Annotations
 
-[^key-c37dc446660ee52ceb7721015a1eadab]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2014/1964/regulation/91) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c37dc446660ee52ceb7721015a1eadab]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2014/1964/regulation/91) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

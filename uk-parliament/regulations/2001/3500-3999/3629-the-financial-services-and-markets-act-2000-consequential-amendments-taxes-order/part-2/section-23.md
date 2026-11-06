@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Mortgage interest relief: qualifying lenders[^key-612864be59854335230040911de53c98]
+## 23. Mortgage interest relief: qualifying lenders[^c-612864be59854335230040911de53c98]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-612864be59854335230040911de53c98]: Commencement: Art. 23 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-612864be59854335230040911de53c98]: Commencement: Art. 23 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00027]: Footnote: Section 376 was relevantly amended by paragraph 3 of Schedule 9 to the Finance (No. 2) Act 1992 and section 142 (1)(a) of the Finance Act 1994.

@@ -24,7 +24,7 @@ summary: ''
 
 Sections 53(3) and 54(4)
 
-### 1. Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52)[^key-98ed27b93b63a26119806a3942306cb1]
+### 1. Road Traffic Act [1988 (c. 52)](https://www.legislation.gov.uk/ukpga/1988/52)[^c-98ed27b93b63a26119806a3942306cb1]
 
 (1) The Road Traffic Act 1988 is amended as follows.
 
@@ -57,7 +57,7 @@ Sections 53(3) and 54(4)
 
   > (1A) A person is not guilty of an offence under section 3C or 3D by virtue of using a vehicle in a public place other than a road if the person shows that the use of the vehicle was in accordance with an authorisation for a motoring event given under regulations made by the Secretary of State.
 
-### 2. Road Traffic Offenders Act [1988 (c. 55)](https://www.legislation.gov.uk/ukpga/1988/55)[^key-b616ac38908752e8706745d3d4d4e6fb]
+### 2. Road Traffic Offenders Act [1988 (c. 55)](https://www.legislation.gov.uk/ukpga/1988/55)[^c-b616ac38908752e8706745d3d4d4e6fb]
 
 (1) The Road Traffic Offenders Act 1988 is amended as follows.
 
@@ -120,7 +120,7 @@ Sections 53(3) and 54(4)
 > | RTA section 34C(1) | Causing death by use of road vehicle without a driver or licensed oversight. | Section 11 of this Act. |
 > | RTA section 34C(2) | Causing serious injury by use of road vehicle without a driver or licensed oversight. | Sections 11 and 12(1) of this Act. |
 
-### 3. Crime (International Co-operation) Act [2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32)[^key-be0ea38c39d94c75abdd9331358b8f03]
+### 3. Crime (International Co-operation) Act [2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32)[^c-be0ea38c39d94c75abdd9331358b8f03]
 
 (1) Schedule 3 to the Crime (International Co-operation) Act 2003 (offences in respect of which notice of driving disqualification must be given to Republic of Ireland) is amended as follows.
 
@@ -135,7 +135,7 @@ Sections 53(3) and 54(4)
 
 > **4A.** An offence under section 34B or 34C of the Road Traffic Act 1988 (use of road vehicle without a driver or licensed oversight, or causing death or serious injury by such use).
 
-### 4. Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52)[^key-dd638c7ad7d8967959d375925586426d]
+### 4. Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52)[^c-dd638c7ad7d8967959d375925586426d]
 
 In paragraph 12(aj) of Schedule 2 to the Armed Forces Act 2006 (road traffic offences in respect of which service police must be notified of possible corresponding service offence)—
 
@@ -145,10 +145,10 @@ In paragraph 12(aj) of Schedule 2 to the Armed Forces Act 2006 (road traffic off
 
 ## Annotations
 
-[^key-98ed27b93b63a26119806a3942306cb1]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-98ed27b93b63a26119806a3942306cb1]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-b616ac38908752e8706745d3d4d4e6fb]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-b616ac38908752e8706745d3d4d4e6fb]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-be0ea38c39d94c75abdd9331358b8f03]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-be0ea38c39d94c75abdd9331358b8f03]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-dd638c7ad7d8967959d375925586426d]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-dd638c7ad7d8967959d375925586426d]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

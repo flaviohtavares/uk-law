@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65.38. Applications for parenting orders[^key-3ebbb4f06ea82c9e4babd4e5cae1b57a][^key-fe983083cb3d124dd305ab0b59611da3]
+## 65.38. Applications for parenting orders[^c-3ebbb4f06ea82c9e4babd4e5cae1b57a][^c-fe983083cb3d124dd305ab0b59611da3]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ebbb4f06ea82c9e4babd4e5cae1b57a]: Textual amendment: Pt. 65 Section 7 inserted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rules 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [19(g)](https://www.legislation.gov.uk/uksi/2007/2204/rule/19/g)
+[^c-3ebbb4f06ea82c9e4babd4e5cae1b57a]: Textual amendment: Pt. 65 Section 7 inserted (1.10.2007) by [The Civil Procedure (Amendment) Rules 2007 (S.I. 2007/2204)](https://www.legislation.gov.uk/uksi/2007/2204), [rules 1](https://www.legislation.gov.uk/uksi/2007/2204/rule/1), [19(g)](https://www.legislation.gov.uk/uksi/2007/2204/rule/19/g)
 
-[^key-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
+[^c-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))

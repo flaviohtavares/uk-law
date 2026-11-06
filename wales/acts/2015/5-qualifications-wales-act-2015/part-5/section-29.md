@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Designation of other qualifications[^key-ef5a1ed0d4f6bb032def9c0254d24fa3]
+## 29. Designation of other qualifications[^c-ef5a1ed0d4f6bb032def9c0254d24fa3]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ to be designated under this section.
 
 ## Annotations
 
-[^key-ef5a1ed0d4f6bb032def9c0254d24fa3]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/5/section/29) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-ef5a1ed0d4f6bb032def9c0254d24fa3]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/5/section/29) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

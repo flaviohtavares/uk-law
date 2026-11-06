@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Application of enactments[^key-7f60bd88c382d667336256dacec64e93]
+## 66. Application of enactments[^c-7f60bd88c382d667336256dacec64e93]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f60bd88c382d667336256dacec64e93]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/10/section/66) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-7f60bd88c382d667336256dacec64e93]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/10/section/66) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

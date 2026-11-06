@@ -32,7 +32,7 @@ summary: ''
 
 ANIMALS, ENGLAND
 
-The TSE (England) (Amendment) Regulations 2004 (revoked)[^key-72201cc27f990dbb674e9d9bc3ee3f4f]
+The TSE (England) (Amendment) Regulations 2004 (revoked)[^c-72201cc27f990dbb674e9d9bc3ee3f4f]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 20th July 2004
 
-[^key-72201cc27f990dbb674e9d9bc3ee3f4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72201cc27f990dbb674e9d9bc3ee3f4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-72201cc27f990dbb674e9d9bc3ee3f4f]
+## 1. Citation and commencement[^c-72201cc27f990dbb674e9d9bc3ee3f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the TSE (England) Regulations 2002[^key-72201cc27f990dbb674e9d9bc3ee3f4f]
+## 2. Amendments to the TSE (England) Regulations 2002[^c-72201cc27f990dbb674e9d9bc3ee3f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-72201cc27f990dbb674e9d9bc3ee3f4f]
+## 3.[^c-72201cc27f990dbb674e9d9bc3ee3f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-72201cc27f990dbb674e9d9bc3ee3f4f]
+## 4.[^c-72201cc27f990dbb674e9d9bc3ee3f4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72201cc27f990dbb674e9d9bc3ee3f4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72201cc27f990dbb674e9d9bc3ee3f4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72201cc27f990dbb674e9d9bc3ee3f4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72201cc27f990dbb674e9d9bc3ee3f4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72201cc27f990dbb674e9d9bc3ee3f4f]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [regs. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/68/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-72201cc27f990dbb674e9d9bc3ee3f4f]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [regs. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/68/regulation/25), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

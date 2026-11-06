@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Mayor's Office for Policing and Crime to issue police and crime plans[^key-24a1987800a8ef1483b11127d3bd9e1b]
+## 6. Mayor's Office for Policing and Crime to issue police and crime plans[^c-24a1987800a8ef1483b11127d3bd9e1b]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ and exercise the powers under subsection (3) or (4) accordingly.
 
 ## Annotations
 
-[^key-24a1987800a8ef1483b11127d3bd9e1b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/13/section/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-24a1987800a8ef1483b11127d3bd9e1b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/13/section/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

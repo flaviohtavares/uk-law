@@ -32,7 +32,7 @@ summary: ''
 
 Seeds, England
 
-The Seed Potatoes (England) (Amendment) Regulations 2009 (revoked)[^key-e06fd47947be968ade2def513407131e]
+The Seed Potatoes (England) (Amendment) Regulations 2009 (revoked)[^c-e06fd47947be968ade2def513407131e]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st October 2009
 
-[^key-e06fd47947be968ade2def513407131e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e06fd47947be968ade2def513407131e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e06fd47947be968ade2def513407131e]
+## 1. Citation and commencement[^c-e06fd47947be968ade2def513407131e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-e06fd47947be968ade2def513407131e]
+## 2. Amendment[^c-e06fd47947be968ade2def513407131e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 2 (interpretation)[^key-e06fd47947be968ade2def513407131e]
+## 3. Regulation 2 (interpretation)[^c-e06fd47947be968ade2def513407131e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of new regulation 4A[^key-e06fd47947be968ade2def513407131e]
+## 4. Insertion of new regulation 4A[^c-e06fd47947be968ade2def513407131e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Schedule 2 (official label)[^key-e06fd47947be968ade2def513407131e]
+## 5. Schedule 2 (official label)[^c-e06fd47947be968ade2def513407131e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e06fd47947be968ade2def513407131e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e06fd47947be968ade2def513407131e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-e06fd47947be968ade2def513407131e]EXPLANATORY NOTE
+[^c-e06fd47947be968ade2def513407131e]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -90,4 +90,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-e06fd47947be968ade2def513407131e]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), regs. 1(1), [25(2)(c)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/25/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3))
+[^c-e06fd47947be968ade2def513407131e]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), regs. 1(1), [25(2)(c)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/25/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3))

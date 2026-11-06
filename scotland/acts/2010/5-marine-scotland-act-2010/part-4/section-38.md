@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Appeals against licensing decisions[^key-ceaf06ce371688d3f1b21ada93b7d440]
+## 38. Appeals against licensing decisions[^c-ceaf06ce371688d3f1b21ada93b7d440]
 
 *Extent: S*
 
@@ -30,10 +30,10 @@ summary: ''
 - (b) for or in connection with suspending or varying any conditions subject to which the licence was granted, pending determination of the appeal,
 - (c) as to the powers of the sheriff to whom the appeal is made.
 
-(4)[^key-462ad2ff4a683805cdcac0945f3887af] The duty in subsection (1) does not apply in relation to a decision under section 29 to which section 63A applies.
+(4)[^c-462ad2ff4a683805cdcac0945f3887af] The duty in subsection (1) does not apply in relation to a decision under section 29 to which section 63A applies.
 
 ## Annotations
 
-[^key-ceaf06ce371688d3f1b21ada93b7d440]: Commencement: S. 38 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-ceaf06ce371688d3f1b21ada93b7d440]: Commencement: S. 38 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-462ad2ff4a683805cdcac0945f3887af]: Textual amendment: [S. 38(4)](https://www.legislation.gov.uk/asp/2010/5/section/38/4) added (26.2.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 54(2)](https://www.legislation.gov.uk/asp/2014/3/section/54/2), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1)
+[^c-462ad2ff4a683805cdcac0945f3887af]: Textual amendment: [S. 38(4)](https://www.legislation.gov.uk/asp/2010/5/section/38/4) added (26.2.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 54(2)](https://www.legislation.gov.uk/asp/2014/3/section/54/2), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1)

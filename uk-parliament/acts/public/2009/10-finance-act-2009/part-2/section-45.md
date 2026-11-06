@@ -31,7 +31,7 @@ summary: ''
 
 - (a) about the circumstances in which a dividend may, or may not, be designated,
 - (b) about limits on the amounts that may be designated or treated as a payment of yearly interest or as interest under a loan relationship,
-- (c)[^key-b4ef97dabc48e6f5eba6e128084e98aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b4ef97dabc48e6f5eba6e128084e98aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) about the preparation of accounts and the keeping of records by investment trusts and prospective investment trusts, and
 - (e) about the provision by investment trusts and prospective investment trusts of information, whether to recipients of designated dividends or to other persons, including provision imposing a penalty not exceeding £3,000.
 
@@ -47,20 +47,20 @@ summary: ''
 
 (6) In this section—
 
-- “**company**” has the same meaning as in Chapter 4 of Part 24 of CTA 2010 (see section 1165(1) of that Act)[^key-fe1b96999311f7217de1d24594043984] (investment trusts);
-- “**investment trust**” means an investment trust within the meaning of section 1158 of CTA 2010[^key-f73d716515034f256c258013df84c8b9];
+- “**company**” has the same meaning as in Chapter 4 of Part 24 of CTA 2010 (see section 1165(1) of that Act)[^c-fe1b96999311f7217de1d24594043984] (investment trusts);
+- “**investment trust**” means an investment trust within the meaning of section 1158 of CTA 2010[^c-f73d716515034f256c258013df84c8b9];
 - “**loan relationship**” has the same meaning as in the Corporation Tax Acts (see section 302(1) and (2) of CTA 2009);
 - “**prospective investment trust**” means a company that—
-  - (a) intends to seek approval under section 1158 of CTA 2010 (meaning of “investment trust”)[^key-d35a4071f0263b1df31db40562bd7e39], and
+  - (a) intends to seek approval under section 1158 of CTA 2010 (meaning of “investment trust”)[^c-d35a4071f0263b1df31db40562bd7e39], and
   - (b) has a reasonable belief that such approval will be obtained;
 - “**specified**” means specified in regulations under this section.
 
 ## Annotations
 
-[^key-b4ef97dabc48e6f5eba6e128084e98aa]: Textual amendment: S. 45(2)(c) omitted (with effect in accordance with Sch. 5 para. 5(1) to the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/10/schedule/5/paragraph/2)
+[^c-b4ef97dabc48e6f5eba6e128084e98aa]: Textual amendment: S. 45(2)(c) omitted (with effect in accordance with Sch. 5 para. 5(1) to the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2017/10/schedule/5/paragraph/2)
 
-[^key-fe1b96999311f7217de1d24594043984]: Textual amendment: Words in s. 45(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 710(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/710/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fe1b96999311f7217de1d24594043984]: Textual amendment: Words in s. 45(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 710(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/710/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f73d716515034f256c258013df84c8b9]: Textual amendment: Words in s. 45(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 710(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/710/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f73d716515034f256c258013df84c8b9]: Textual amendment: Words in s. 45(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 710(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/710/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-d35a4071f0263b1df31db40562bd7e39]: Textual amendment: Words in s. 45(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 710(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/710/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d35a4071f0263b1df31db40562bd7e39]: Textual amendment: Words in s. 45(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 710(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/710/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

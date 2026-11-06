@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Adjustment of benefits to comply with FA 2004 where members die over 75[^key-d54c37c49befe2dd37c0452a77a7a22a]
+## 104. Adjustment of benefits to comply with FA 2004 where members die over 75[^c-d54c37c49befe2dd37c0452a77a7a22a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d54c37c49befe2dd37c0452a77a7a22a]: Commencement: [Reg. 104](https://www.legislation.gov.uk/ssi/2015/19/regulation/104) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-d54c37c49befe2dd37c0452a77a7a22a]: Commencement: [Reg. 104](https://www.legislation.gov.uk/ssi/2015/19/regulation/104) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

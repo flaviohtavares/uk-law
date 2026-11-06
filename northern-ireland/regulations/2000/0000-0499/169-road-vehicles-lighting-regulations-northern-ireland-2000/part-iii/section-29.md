@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Requirements about the use of warning beacons[^key-b9c25b8b234a33e6807bb02b19482724]
+## 29. Requirements about the use of warning beacons[^c-b9c25b8b234a33e6807bb02b19482724]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person shall not use, or cause or permit to be used, on an unrestricted dual-c
 
 ## Annotations
 
-[^key-b9c25b8b234a33e6807bb02b19482724]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2000/169/regulation/29) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-b9c25b8b234a33e6807bb02b19482724]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2000/169/regulation/29) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

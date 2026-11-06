@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46A. Separation centres[^key-e616d0d18c1b8ca8ea47f04e675a9357]
+## 46A. Separation centres[^c-e616d0d18c1b8ca8ea47f04e675a9357]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e616d0d18c1b8ca8ea47f04e675a9357]: Textual amendment: [Rule 46A](https://www.legislation.gov.uk/uksi/1999/728/rule/46A) inserted (12.5.2017) by [The Prison (Amendment) Rules 2017 (S.I. 2017/576)](https://www.legislation.gov.uk/uksi/2017/576), [rules 1](https://www.legislation.gov.uk/uksi/2017/576/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/576/rule/2/2)
+[^c-e616d0d18c1b8ca8ea47f04e675a9357]: Textual amendment: [Rule 46A](https://www.legislation.gov.uk/uksi/1999/728/rule/46A) inserted (12.5.2017) by [The Prison (Amendment) Rules 2017 (S.I. 2017/576)](https://www.legislation.gov.uk/uksi/2017/576), [rules 1](https://www.legislation.gov.uk/uksi/2017/576/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/576/rule/2/2)

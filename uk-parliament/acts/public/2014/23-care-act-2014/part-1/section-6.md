@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Co-operating generally[^key-e86361d111131aa2c6b45258b8aa7ccf][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17]
+## 6. Co-operating generally[^c-e86361d111131aa2c6b45258b8aa7ccf][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) their respective functions relating to carers, and
 - (c) functions of theirs the exercise of which is relevant to functions referred to in paragraph (a) or (b).
 
-(1A)[^key-7fd5eb74bc5c37697956162e41be6085] Subsection (1) does not apply in relation to the exercise by NHS England of its functions under Chapter 1 of Part 3.
+(1A)[^c-7fd5eb74bc5c37697956162e41be6085] Subsection (1) does not apply in relation to the exercise by NHS England of its functions under Chapter 1 of Part 3.
 
 (2) A local authority must co-operate, in the exercise of its functions under this Part, with such other persons as it considers appropriate who exercise functions, or are engaged in activities, in the authority's area relating to adults with needs for care and support or relating to carers.
 
@@ -67,8 +67,8 @@ summary: ''
 
 (8) The reference to an NHS body in a local authority's area is a reference to—
 
-- (a) NHS England[^key-b8cff07d92f72d6b463686c6b628ba81], so far as its functions are exercisable in relation to the authority's area,
-- (b) an integrated care board[^key-5caeea991e7524955f5cd8b57d9aaa83] the whole or part of whose area is in the authority's area, or
+- (a) NHS England[^c-b8cff07d92f72d6b463686c6b628ba81], so far as its functions are exercisable in relation to the authority's area,
+- (b) an integrated care board[^c-5caeea991e7524955f5cd8b57d9aaa83] the whole or part of whose area is in the authority's area, or
 - (c) an NHS trust or NHS foundation trust which provides services in the authority's area.
 
 (9) “**Prison**” has the same meaning as in the Prison Act 1952 (see section 53(1) of that Act).
@@ -77,14 +77,14 @@ summary: ''
 
 ## Annotations
 
-[^key-e86361d111131aa2c6b45258b8aa7ccf]: Commencement: S. 6 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a) (with transitional provisions in S.I. 2015/995)
+[^c-e86361d111131aa2c6b45258b8aa7ccf]: Commencement: S. 6 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a) (with transitional provisions in S.I. 2015/995)
 
-[^key-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+[^c-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
 
-[^key-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
+[^c-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
 
-[^key-7fd5eb74bc5c37697956162e41be6085]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/2014/23/section/6/1A) inserted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-7fd5eb74bc5c37697956162e41be6085]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/2014/23/section/6/1A) inserted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-b8cff07d92f72d6b463686c6b628ba81]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2014/23/section/6) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b8cff07d92f72d6b463686c6b628ba81]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/2014/23/section/6) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-5caeea991e7524955f5cd8b57d9aaa83]: Textual amendment: Words in [s. 6(8)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/6/8/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 194](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/194); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-5caeea991e7524955f5cd8b57d9aaa83]: Textual amendment: Words in [s. 6(8)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/6/8/b) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 194](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/194); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

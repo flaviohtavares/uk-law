@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Advertisements to which Part IV applies.[^key-d0e55bfa803047ee40b51b89cec21416][^key-42736d938284873d82ff9ee7415df41b]
+## 43. Advertisements to which Part IV applies.[^c-d0e55bfa803047ee40b51b89cec21416][^c-42736d938284873d82ff9ee7415df41b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0e55bfa803047ee40b51b89cec21416]: Textual amendment: Cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
+[^c-d0e55bfa803047ee40b51b89cec21416]: Textual amendment: Cross-heading omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
 
-[^key-42736d938284873d82ff9ee7415df41b]: Textual amendment: S. 43 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
+[^c-42736d938284873d82ff9ee7415df41b]: Textual amendment: S. 43 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)

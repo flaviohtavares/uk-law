@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Banknote rules[^key-de9969d851d157bb8f627a4d320a0ccb]
+## 216. Banknote rules[^c-de9969d851d157bb8f627a4d320a0ccb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de9969d851d157bb8f627a4d320a0ccb]: Commencement: S. 216 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-de9969d851d157bb8f627a4d320a0ccb]: Commencement: S. 216 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

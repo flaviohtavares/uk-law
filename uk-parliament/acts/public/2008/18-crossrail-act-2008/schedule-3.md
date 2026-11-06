@@ -24,14 +24,14 @@ Section 3
 
 ### Stopping-up
 
-**1.**[^key-0a3a5e6c6a3497b1e4fed0c10fd102a0] (1) The nominated undertaker may, in connection with the construction of the works authorised by this Act, stop up each of the highways or parts of highways specified in the following table.
+**1.**[^c-0a3a5e6c6a3497b1e4fed0c10fd102a0] (1) The nominated undertaker may, in connection with the construction of the works authorised by this Act, stop up each of the highways or parts of highways specified in the following table.
 
 (2) No highway or part of a highway specified in columns (1) and (2) of Part 1 of the following table shall be stopped up under this paragraph unless all the land which abuts on it falls within one or more of the following categories, namely—
 
 - (a) land to which there is no right of access directly from the highway or part to be stopped up,
 - (b) land to which there is reasonably convenient access otherwise than directly from the highway or part to be stopped up,
 - (c) land the owners and occupiers of which have agreed to the stopping up of the highway or part, and
-- (d)[^key-3cb507c616db2d764a87b19b24777a79] land which is in the possession of the Secretary of State.
+- (d)[^c-3cb507c616db2d764a87b19b24777a79] land which is in the possession of the Secretary of State.
 
 (3) No highway or part of a highway specified in columns (1) and (2) of Part 2 of the following table shall be stopped up under this paragraph if a new highway is specified in relation to it in column (3) of that Part of the table, by reference to the letters and numbers shown on the deposited plans or by reference to scheduled works, until—
 
@@ -79,7 +79,7 @@ Part 2
 | London Borough of Hillingdon | Footpath and cycleway (Kingston Lane) between points P1 and P2 | Work No. 3/10F |
 |  | Old Stockley Road between points P1 and P2 | Footpath and cycleway between points P1 and P2 (Work No. 3/14) |
 
-**2.**[^key-66fef92e88ed1586afd46e253b49ee13] (1) The nominated undertaker may, in connection with the construction of the works authorised by this Act, stop up any bridleway or footpath, or part of a bridleway or footpath, which is—
+**2.**[^c-66fef92e88ed1586afd46e253b49ee13] (1) The nominated undertaker may, in connection with the construction of the works authorised by this Act, stop up any bridleway or footpath, or part of a bridleway or footpath, which is—
 
 - (a) within the limits of deviation for the scheduled works or within the limits of land to be acquired or used, and
 - (b) not specified in columns (1) and (2) of the table in paragraph 1.
@@ -121,25 +121,25 @@ Part 2
 
 - (a) the council of a county, district, parish or London borough,
 - (b) the Common Council of the City of London,
-- (c)[^key-f99b6a13beade1183f3ff339d4af69d6] the London Fire Commissioner,
+- (c)[^c-f99b6a13beade1183f3ff339d4af69d6] the London Fire Commissioner,
 - (d) a joint authority established by Part 4 of the Local Government Act 1985 (c. 51),
 - (e) a housing action trust established under Part 3 of the Housing Act 1988 (c. 50), and
 - (f) the parish meeting of a rural parish not having a separate parish council.
 
 (12) In this paragraph, references to the appropriate Ministers are to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport and, in relation to the carrying out of any functions, are to those Ministers acting jointly.
 
-**3.**[^key-62ee09ffaf93bd2f16028e29db7505b9] (1) On a highway or part of a highway being stopped up under paragraph 1 or 2—
+**3.**[^c-62ee09ffaf93bd2f16028e29db7505b9] (1) On a highway or part of a highway being stopped up under paragraph 1 or 2—
 
 - (a) all rights of way over or along it shall be extinguished, and
-- (b)[^key-655422e2666de7e770d1a7351b898009] the Secretary of State may appropriate and use, without making any payment, so much of the site of it as is bounded on both sides by land which he owns.
+- (b)[^c-655422e2666de7e770d1a7351b898009] the Secretary of State may appropriate and use, without making any payment, so much of the site of it as is bounded on both sides by land which he owns.
 
 (2) The nominated undertaker shall compensate any person who suffers loss by the extinguishment under this paragraph of a private right of way.
 
 (3) Any dispute as to a person's entitlement to compensation under sub-paragraph (2), or as to the amount of such compensation, shall be determined under and in accordance with Part 1 of the Land Compensation Act 1961 (c. 33).
 
-(4)[^key-9b873abf943027a5caf7a3fd025e984d] The Secretary of State shall not be entitled to any mines or minerals under land which he is entitled to appropriate and use under sub-paragraph (1)(b), with the exception of minerals necessarily extracted or used in the construction of the undertaking which the nominated undertaker is authorised to carry on by this Act.
+(4)[^c-9b873abf943027a5caf7a3fd025e984d] The Secretary of State shall not be entitled to any mines or minerals under land which he is entitled to appropriate and use under sub-paragraph (1)(b), with the exception of minerals necessarily extracted or used in the construction of the undertaking which the nominated undertaker is authorised to carry on by this Act.
 
-(5)[^key-9b873abf943027a5caf7a3fd025e984d] Part 3 of Schedule 2 to the Acquisition of Land Act 1981 (c. 67) (regulation of the working of mines or minerals underlying an authorised undertaking) shall apply in relation to the working of any mines or minerals underlying land which the Secretary of State is entitled to appropriate and use under sub-paragraph (1)(b) with the following modifications—
+(5)[^c-9b873abf943027a5caf7a3fd025e984d] Part 3 of Schedule 2 to the Acquisition of Land Act 1981 (c. 67) (regulation of the working of mines or minerals underlying an authorised undertaking) shall apply in relation to the working of any mines or minerals underlying land which the Secretary of State is entitled to appropriate and use under sub-paragraph (1)(b) with the following modifications—
 
 - (a) references to the undertaking shall be construed as references to the undertaking which the nominated undertaker is authorised to carry on by this Act,
 - (b) in paragraphs 3 to 5 and 7 to 9, references to the acquiring authority shall be construed as references to the nominated undertaker, and
@@ -155,15 +155,15 @@ Part 2
 
 ### Temporary interference
 
-**5.** (1)[^key-bb82bd988d09a2f3c3cfa620edaf473f] For the purposes of the works authorised by this Act, the nominated undertaker may—
+**5.** (1)[^c-bb82bd988d09a2f3c3cfa620edaf473f] For the purposes of the works authorised by this Act, the nominated undertaker may—
 
 - (a) temporarily stop up or alter or divert any highway or part of a highway,
 - (b) for any reasonable time divert traffic from, and prevent persons passing along, any highway or part of a highway, and
 - (c) break up or interfere with any highway or part of a highway (including any sewer, drain or tunnel in it).
 
-(2)[^key-bb82bd988d09a2f3c3cfa620edaf473f] The nominated undertaker shall provide reasonable access for pedestrians going to or from premises abutting on a highway affected by the exercise of the powers conferred by sub-paragraph (1) if there would otherwise be no such access.
+(2)[^c-bb82bd988d09a2f3c3cfa620edaf473f] The nominated undertaker shall provide reasonable access for pedestrians going to or from premises abutting on a highway affected by the exercise of the powers conferred by sub-paragraph (1) if there would otherwise be no such access.
 
-(3)[^key-bb82bd988d09a2f3c3cfa620edaf473f] Before exercising the powers conferred by sub-paragraph (1) in relation to a highway and to an extent specified in the following table, the nominated undertaker shall consult the highway authority about the exercise of the powers.
+(3)[^c-bb82bd988d09a2f3c3cfa620edaf473f] Before exercising the powers conferred by sub-paragraph (1) in relation to a highway and to an extent specified in the following table, the nominated undertaker shall consult the highway authority about the exercise of the powers.
 
 | *(1)* | *(2)* | *(3)* |
 | --- | --- | --- |
@@ -429,11 +429,11 @@ Part 2
 
 ### Working sites in highways
 
-**6.**[^key-6abed9e2812d4665c68e57760b28c798] Any highway or part of a highway which is stopped up under paragraph 5(1)(a) may be used as a working site if it is within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
+**6.**[^c-6abed9e2812d4665c68e57760b28c798] Any highway or part of a highway which is stopped up under paragraph 5(1)(a) may be used as a working site if it is within the limits of deviation for the scheduled works or within the limits of land to be acquired or used.
 
 ### Street works
 
-**7.**[^key-2eeedf2f96521815ff0b18c3467eeadc] (1) The nominated undertaker may, for the purposes of the works authorised by this Act, enter upon any highway within the limits of deviation for the scheduled works or within the limits of land to be acquired or used and—
+**7.**[^c-2eeedf2f96521815ff0b18c3467eeadc] (1) The nominated undertaker may, for the purposes of the works authorised by this Act, enter upon any highway within the limits of deviation for the scheduled works or within the limits of land to be acquired or used and—
 
 - (a) place, maintain or alter, or change the position of, apparatus in it,
 - (b) remove apparatus from it, and
@@ -441,7 +441,7 @@ Part 2
 
 (2) In this paragraph, “**apparatus**” has the same meaning as in Part 3 of the New Roads and Street Works Act 1991 (c. 22).
 
-**8.**[^key-fda17de10d8e799e3f689809047ae8d0] (1) Works to which sub-paragraph (2) below applies shall be treated for the purposes of Part 3 of the New Roads and Street Works Act 1991 (street works) as major transport works if—
+**8.**[^c-fda17de10d8e799e3f689809047ae8d0] (1) Works to which sub-paragraph (2) below applies shall be treated for the purposes of Part 3 of the New Roads and Street Works Act 1991 (street works) as major transport works if—
 
 - (a) they are of a description mentioned in any of paragraphs (a), (c) to (e), (g) and (h) of section 86(3) of that Act (which defines what highway authority works are major highway works), or
 - (b) they are works which, had they been executed under the powers of the highway authority, might have been carried out in exercise of the powers conferred by section 64 (dual carriageways and roundabouts) or 184 (vehicle crossings over footways and verges) of the Highways Act 1980 (c. 66).
@@ -450,7 +450,7 @@ Part 2
 
 ### Construction
 
-**9.**[^key-4ad6f9ad13e6e8df7fd895e004b57d6a] (1) Where under this Act the nominated undertaker—
+**9.**[^c-4ad6f9ad13e6e8df7fd895e004b57d6a] (1) Where under this Act the nominated undertaker—
 
 - (a) constructs a new highway, or
 - (b) alters a highway, otherwise than by carrying out street works within the meaning of Part 3 of the New Roads and Street Works Act 1991,
@@ -468,7 +468,7 @@ it shall be deemed to have issued such a certificate at the end of that period.
 
 (4) Any dispute with a highway authority under this paragraph shall, if the parties agree, be referred to arbitration, but shall otherwise be determined by the Secretary of State.
 
-**10.**[^key-b661c4309d28a9d660a05f6555a5ee87] (1) Sub-paragraph (2) applies where under this Act the nominated undertaker—
+**10.**[^c-b661c4309d28a9d660a05f6555a5ee87] (1) Sub-paragraph (2) applies where under this Act the nominated undertaker—
 
 - (a) realigns a highway which is constituted by or comprises a carriageway, or
 - (b) constructs a new highway which is constituted by or comprises a carriageway.
@@ -481,7 +481,7 @@ it shall be deemed to have issued such a certificate at the end of that period.
 
 ### Maintenance
 
-**11.**[^key-a853cef7c07603962c00d3ed7eee6747] (1) Sub-paragraph (2) applies where under this Act the nominated undertaker—
+**11.**[^c-a853cef7c07603962c00d3ed7eee6747] (1) Sub-paragraph (2) applies where under this Act the nominated undertaker—
 
 - (a) constructs a new highway, or
 - (b) alters a highway, otherwise than by carrying out street works within the meaning of Part 3 of the New Roads and Street Works Act 1991 (c. 22).
@@ -517,7 +517,7 @@ and after the end of that period shall be maintained by and at the expense of th
 
 ### Agreements with highway authorities etc.
 
-**14.**[^key-0796b3425dbf9fb30776375ac63f731d] (1) Where under this Schedule the nominated undertaker is authorised to stop up or interfere with an existing highway or part of an existing highway, it may enter into agreements with the persons having the charge, management or control of the highway concerning the construction (or contribution towards the expenses of construction) of—
+**14.**[^c-0796b3425dbf9fb30776375ac63f731d] (1) Where under this Schedule the nominated undertaker is authorised to stop up or interfere with an existing highway or part of an existing highway, it may enter into agreements with the persons having the charge, management or control of the highway concerning the construction (or contribution towards the expenses of construction) of—
 
 - (a) any new highway to be provided in substitution,
 - (b) any alteration of the existing highway, and
@@ -527,7 +527,7 @@ and after the end of that period shall be maintained by and at the expense of th
 
 ### Use of subsoil
 
-**15.** (1)[^key-0a7fecdac1b171530d8d49ac9f26c2f3] The nominated undertaker may enter upon, take and use for the purposes of the works authorised by this Act so much of the subsoil of any highway within the limits of deviation for the scheduled works or within the limits of land to be acquired or used as shall be required for the purpose of the construction or maintenance of those works, without being required to acquire that subsoil or any interest in it.
+**15.** (1)[^c-0a7fecdac1b171530d8d49ac9f26c2f3] The nominated undertaker may enter upon, take and use for the purposes of the works authorised by this Act so much of the subsoil of any highway within the limits of deviation for the scheduled works or within the limits of land to be acquired or used as shall be required for the purpose of the construction or maintenance of those works, without being required to acquire that subsoil or any interest in it.
 
 (2) The power conferred by sub-paragraph (1) shall not be exercisable in relation to the subsoil of a highway within the limits of land to be acquired or used, but outside the limits of deviation for the scheduled works, if the highway is comprised in land specified in the following table.
 
@@ -559,34 +559,34 @@ and after the end of that period shall be maintained by and at the expense of th
 
 ## Annotations
 
-[^key-0a3a5e6c6a3497b1e4fed0c10fd102a0]: Modification: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-0a3a5e6c6a3497b1e4fed0c10fd102a0]: Modification: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-3cb507c616db2d764a87b19b24777a79]: Modification: [Sch. 3 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/1/2/d) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/988/article/8/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-3cb507c616db2d764a87b19b24777a79]: Modification: [Sch. 3 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/1/2/d) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/988/article/8/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
 
-[^key-66fef92e88ed1586afd46e253b49ee13]: Modification: Sch. 3 para. 2 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-66fef92e88ed1586afd46e253b49ee13]: Modification: Sch. 3 para. 2 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-f99b6a13beade1183f3ff339d4af69d6]: Textual amendment: Sch. 3 para. 2(11)(c) substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 115](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/115); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-f99b6a13beade1183f3ff339d4af69d6]: Textual amendment: Sch. 3 para. 2(11)(c) substituted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 115](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/115); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-62ee09ffaf93bd2f16028e29db7505b9]: Modification: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-62ee09ffaf93bd2f16028e29db7505b9]: Modification: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-655422e2666de7e770d1a7351b898009]: Modification: [Sch. 3 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3/1/b) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2010/988/article/8/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-655422e2666de7e770d1a7351b898009]: Modification: [Sch. 3 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3/1/b) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2010/988/article/8/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
 
-[^key-9b873abf943027a5caf7a3fd025e984d]: Modification: [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3/4)[(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3/5) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2010/988/article/8/4) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-9b873abf943027a5caf7a3fd025e984d]: Modification: [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3/4)[(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/3/5) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2010/988/article/8/4) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
 
-[^key-bb82bd988d09a2f3c3cfa620edaf473f]: Modification: [Sch. 3 para. 5(1)-(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/5/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-bb82bd988d09a2f3c3cfa620edaf473f]: Modification: [Sch. 3 para. 5(1)-(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/5/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-6abed9e2812d4665c68e57760b28c798]: Modification: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/6) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-6abed9e2812d4665c68e57760b28c798]: Modification: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/6) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-2eeedf2f96521815ff0b18c3467eeadc]: Modification: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/7) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-2eeedf2f96521815ff0b18c3467eeadc]: Modification: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/7) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-fda17de10d8e799e3f689809047ae8d0]: Modification: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/8) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-fda17de10d8e799e3f689809047ae8d0]: Modification: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/8) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-4ad6f9ad13e6e8df7fd895e004b57d6a]: Modification: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/9) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-4ad6f9ad13e6e8df7fd895e004b57d6a]: Modification: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/9) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-b661c4309d28a9d660a05f6555a5ee87]: Modification: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/10) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-b661c4309d28a9d660a05f6555a5ee87]: Modification: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/10) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-a853cef7c07603962c00d3ed7eee6747]: Modification: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/11) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-a853cef7c07603962c00d3ed7eee6747]: Modification: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/11) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-0796b3425dbf9fb30776375ac63f731d]: Modification: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/14) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-0796b3425dbf9fb30776375ac63f731d]: Modification: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/14) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-0a7fecdac1b171530d8d49ac9f26c2f3]: Modification: [Sch. 3 para. 15(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/15/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-0a7fecdac1b171530d8d49ac9f26c2f3]: Modification: [Sch. 3 para. 15(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/3/paragraph/15/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)

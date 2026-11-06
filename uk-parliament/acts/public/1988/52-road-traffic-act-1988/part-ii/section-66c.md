@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66C. Stopping officers: offences[^key-b2f82883c34e2f3ce6609ef4e4af3f55]
+## 66C. Stopping officers: offences[^c-b2f82883c34e2f3ce6609ef4e4af3f55]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2f82883c34e2f3ce6609ef4e4af3f55]: Textual amendment: Ss. 66B, 66C and cross-heading inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/2/2)
+[^c-b2f82883c34e2f3ce6609ef4e4af3f55]: Textual amendment: Ss. 66B, 66C and cross-heading inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/2/2)

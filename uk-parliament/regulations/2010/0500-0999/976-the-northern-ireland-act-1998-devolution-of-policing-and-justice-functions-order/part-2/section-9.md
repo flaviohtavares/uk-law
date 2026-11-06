@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Functions relating to firearms[^key-efe86e29d8ea43c21fa70eb09063a158]
+## 9. Functions relating to firearms[^c-efe86e29d8ea43c21fa70eb09063a158]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Schedule 11 (which amends the Firearms (Northern Ireland) Order 2004[^f00008] an
 
 ## Annotations
 
-[^key-efe86e29d8ea43c21fa70eb09063a158]: Commencement: Art. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-efe86e29d8ea43c21fa70eb09063a158]: Commencement: Art. 9 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702).
 

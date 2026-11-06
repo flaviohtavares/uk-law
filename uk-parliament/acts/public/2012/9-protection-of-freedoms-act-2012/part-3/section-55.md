@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Extension of powers to remove vehicles from land[^key-ce8e32afb06a84a0c207daa40e2cbeab]
+## 55. Extension of powers to remove vehicles from land[^c-ce8e32afb06a84a0c207daa40e2cbeab]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8e32afb06a84a0c207daa40e2cbeab]: Commencement: S. 55 in force at 1.10.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/b)
+[^c-ce8e32afb06a84a0c207daa40e2cbeab]: Commencement: S. 55 in force at 1.10.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/b)

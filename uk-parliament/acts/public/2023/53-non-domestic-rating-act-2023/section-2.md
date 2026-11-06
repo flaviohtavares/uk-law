@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 2. Local rating: liability and mandatory reliefs for unoccupied hereditaments[^key-9fe099ec16de36b28cdc6a32553e0b33]
+## 2. Local rating: liability and mandatory reliefs for unoccupied hereditaments[^c-9fe099ec16de36b28cdc6a32553e0b33]
 
 *Extent: E+W*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fe099ec16de36b28cdc6a32553e0b33]: Commencement: S. 2 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-9fe099ec16de36b28cdc6a32553e0b33]: Commencement: S. 2 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

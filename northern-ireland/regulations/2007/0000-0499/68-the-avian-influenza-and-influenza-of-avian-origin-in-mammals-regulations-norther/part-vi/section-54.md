@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Restrictions at contact premises[^key-4532d452acd37b737ca5e9b12cf907c2]
+## 54. Restrictions at contact premises[^c-4532d452acd37b737ca5e9b12cf907c2]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4532d452acd37b737ca5e9b12cf907c2]: Commencement: Reg. 54 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-4532d452acd37b737ca5e9b12cf907c2]: Commencement: Reg. 54 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

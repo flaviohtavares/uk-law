@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13D. Transitional protection–reduction in LHA[^key-41fe7285d97378bdbddfc8c211a3d563]
+## 13D. Transitional protection–reduction in LHA[^c-41fe7285d97378bdbddfc8c211a3d563]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41fe7285d97378bdbddfc8c211a3d563]: Textual amendment: [Reg. 13D](https://www.legislation.gov.uk/nisr/2006/405/regulation/13D) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/211/regulation/2/3)
+[^c-41fe7285d97378bdbddfc8c211a3d563]: Textual amendment: [Reg. 13D](https://www.legislation.gov.uk/nisr/2006/405/regulation/13D) omitted (1.10.2022) by virtue of [The Housing Benefit and Universal Credit (Victims of Domestic Abuse and Victims of Modern Slavery) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/211)](https://www.legislation.gov.uk/nisr/2022/211), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/211/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2022/211/regulation/2/3)

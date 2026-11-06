@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357CB. Finance income[^key-b69887bb0b2f0e9b26391264607f4dd2]
+## 357CB. Finance income[^c-b69887bb0b2f0e9b26391264607f4dd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b69887bb0b2f0e9b26391264607f4dd2]: Textual amendment: [Ss. 357CB-357CF](https://www.legislation.gov.uk/ukpga/2010/4/section/357CB) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/6)
+[^c-b69887bb0b2f0e9b26391264607f4dd2]: Textual amendment: [Ss. 357CB-357CF](https://www.legislation.gov.uk/ukpga/2010/4/section/357CB) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/6)

@@ -48,63 +48,63 @@ Coming into force
 
 The Secretary of State for Education and Skills [^c12391911], being designated for the purposes of section 2(2) of the European Communities Act 1972 [^c12391921] in relation to information society services, in exercise of the powers conferred by that section makes the following Regulations—
 
-## 1. Citation and commencement[^key-49d614e98b17273977d6d550ac65ce22]
+## 1. Citation and commencement[^c-49d614e98b17273977d6d550ac65ce22]
 
 (1) These Regulations may be cited as the Electronic Commerce Directive (Adoption and Children Act 2002) Regulations 2005 and shall come into force on 30th December 2005.
 
-(2)[^key-0a2e8b75dae5952f8ee18b82f3a9d2bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0a2e8b75dae5952f8ee18b82f3a9d2bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Interpretation
 
 (1) In these Regulations—
 
 - “**the Act**” means the Adoption and Children Act 2002;
-- [^key-f2a4c1da93cb5b56248cb6535313eaf8]...
-- [^key-e7dd70b42f4e7ed35b11d3aa9535c860]...
-- [^key-26f513b810a3dc43d3f325a3de04395d]...
-- [^key-91bb6093c1dd8746a74bd2d5b2ed059b]...
+- [^c-f2a4c1da93cb5b56248cb6535313eaf8]...
+- [^c-e7dd70b42f4e7ed35b11d3aa9535c860]...
+- [^c-26f513b810a3dc43d3f325a3de04395d]...
+- [^c-91bb6093c1dd8746a74bd2d5b2ed059b]...
 - “**electronic commerce directive**” means Directive [2000/31/EC](https://www.legislation.gov.uk/eudr/2000/31) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular, electronic commerce, in the Internal Market (Directive on electronic commerce);
-- [^key-8d3501e91f09a1359944fe2b62073bb8]...
-- [^key-40ba9837d514498704c2f3bacc453635]...
+- [^c-8d3501e91f09a1359944fe2b62073bb8]...
+- [^c-40ba9837d514498704c2f3bacc453635]...
 - “**information society service**” means an information society service within the meaning of article 2(a) of the electronic commerce directive;
-- [^key-10374847b93fcb4bbbaeaa9731d9d4e3]...
+- [^c-10374847b93fcb4bbbaeaa9731d9d4e3]...
 - “**recipient of the service**” means any natural or legal person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible; and
-- [^key-9b9f5dd53cb869fa63df06595985b96d]...
+- [^c-9b9f5dd53cb869fa63df06595985b96d]...
 
 (2) For the purposes of these Regulations—
 
-- (a)[^key-61cdccaa567c9114335949b4bc7adcf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-0904344f37f433dafa9c3970a53b9485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5263ec4f815813e9d24e672101c4916d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-61cdccaa567c9114335949b4bc7adcf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0904344f37f433dafa9c3970a53b9485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5263ec4f815813e9d24e672101c4916d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the responsible authorities are—
   - (i) in relation to England, the Secretary of State;
   - (ii) in relation to Wales, the National Assembly for Wales;
   - (iii) in relation to Scotland, the Scottish Ministers;
   - (iv) in relation to Northern Ireland, the Department of Health, Social Services and Public Safety;
-  - (v) in relation to England, Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^key-9f9f7dff9e70f4f047e7c2dda6e24287]; and
-  - (vi) in relation to Scotland, Social Care and Social Work Improvement Scotland[^key-1c7440c1b7e37e781e1b54a9cb3a7f0f].
+  - (v) in relation to England, Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^c-9f9f7dff9e70f4f047e7c2dda6e24287]; and
+  - (vi) in relation to Scotland, Social Care and Social Work Improvement Scotland[^c-1c7440c1b7e37e781e1b54a9cb3a7f0f].
 
-## 3. Application of sections 92, 93, 123 and 124 of the Act to UK-established providers[^key-41e15fbbb107270e5e9685672fb944d3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Restrictions on arranging adoption and advertising not to apply to incoming providers[^key-41e15fbbb107270e5e9685672fb944d3]
+## 3. Application of sections 92, 93, 123 and 124 of the Act to UK-established providers[^c-41e15fbbb107270e5e9685672fb944d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 4 not to apply in certain circumstances[^key-41e15fbbb107270e5e9685672fb944d3]
+## 4. Restrictions on arranging adoption and advertising not to apply to incoming providers[^c-41e15fbbb107270e5e9685672fb944d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. The policy conditions[^key-41e15fbbb107270e5e9685672fb944d3]
+## 5. Regulation 4 not to apply in certain circumstances[^c-41e15fbbb107270e5e9685672fb944d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. The procedural conditions[^key-41e15fbbb107270e5e9685672fb944d3]
+## 6. The policy conditions[^c-41e15fbbb107270e5e9685672fb944d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Urgent cases[^key-41e15fbbb107270e5e9685672fb944d3]
+## 7. The procedural conditions[^c-41e15fbbb107270e5e9685672fb944d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Urgent cases[^c-41e15fbbb107270e5e9685672fb944d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -170,34 +170,34 @@ These Regulations were notified in draft to the Commission of the European Commu
 
 [^c12391921]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The Secretary of State is designated for these purposes by Article 2 of, and Schedule 1 to, [The European Communities (Designations) (No. 2) Order 2001 (S.I. 2001/2555)](https://www.legislation.gov.uk/uksi/2001/2555).
 
-[^key-49d614e98b17273977d6d550ac65ce22]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1) heading substituted (3.3.2021) by [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/2/a)
+[^c-49d614e98b17273977d6d550ac65ce22]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1) heading substituted (3.3.2021) by [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/2/a)
 
-[^key-0a2e8b75dae5952f8ee18b82f3a9d2bc]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1/2) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/2/b)
+[^c-0a2e8b75dae5952f8ee18b82f3a9d2bc]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1/2) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/2/b)
 
-[^key-f2a4c1da93cb5b56248cb6535313eaf8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/i)
+[^c-f2a4c1da93cb5b56248cb6535313eaf8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/i)
 
-[^key-e7dd70b42f4e7ed35b11d3aa9535c860]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/ii)
+[^c-e7dd70b42f4e7ed35b11d3aa9535c860]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/ii)
 
-[^key-26f513b810a3dc43d3f325a3de04395d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/iii)
+[^c-26f513b810a3dc43d3f325a3de04395d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/iii)
 
-[^key-91bb6093c1dd8746a74bd2d5b2ed059b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/iv)
+[^c-91bb6093c1dd8746a74bd2d5b2ed059b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/iv)
 
-[^key-8d3501e91f09a1359944fe2b62073bb8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(v)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/v)
+[^c-8d3501e91f09a1359944fe2b62073bb8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(v)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/v)
 
-[^key-40ba9837d514498704c2f3bacc453635]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/vi)
+[^c-40ba9837d514498704c2f3bacc453635]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/vi)
 
-[^key-10374847b93fcb4bbbaeaa9731d9d4e3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(vii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/vii)
+[^c-10374847b93fcb4bbbaeaa9731d9d4e3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(vii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/vii)
 
-[^key-9b9f5dd53cb869fa63df06595985b96d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(viii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/viii)
+[^c-9b9f5dd53cb869fa63df06595985b96d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/2/1) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(a)(viii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/a/viii)
 
-[^key-61cdccaa567c9114335949b4bc7adcf8]: Textual amendment: Reg. 2(2)(a) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/b)
+[^c-61cdccaa567c9114335949b4bc7adcf8]: Textual amendment: Reg. 2(2)(a) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/b)
 
-[^key-0904344f37f433dafa9c3970a53b9485]: Textual amendment: Reg. 2(2)(b) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/b)
+[^c-0904344f37f433dafa9c3970a53b9485]: Textual amendment: Reg. 2(2)(b) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/b)
 
-[^key-5263ec4f815813e9d24e672101c4916d]: Textual amendment: Reg. 2(2)(c) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/b)
+[^c-5263ec4f815813e9d24e672101c4916d]: Textual amendment: Reg. 2(2)(c) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/3/b)
 
-[^key-9f9f7dff9e70f4f047e7c2dda6e24287]: Textual amendment: Words in reg. 2(2)(d)(v) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [16](https://www.legislation.gov.uk/uksi/2007/603/regulation/16)
+[^c-9f9f7dff9e70f4f047e7c2dda6e24287]: Textual amendment: Words in reg. 2(2)(d)(v) substituted (1.4.2007) by [The Education and Inspections Act 2006 (Consequential Amendments) Regulations 2007 (S.I. 2007/603)](https://www.legislation.gov.uk/uksi/2007/603), [regs. 1](https://www.legislation.gov.uk/uksi/2007/603/regulation/1), [16](https://www.legislation.gov.uk/uksi/2007/603/regulation/16)
 
-[^key-1c7440c1b7e37e781e1b54a9cb3a7f0f]: Textual amendment: Words in reg. 2(2)(d)(vi) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/50)
+[^c-1c7440c1b7e37e781e1b54a9cb3a7f0f]: Textual amendment: Words in reg. 2(2)(d)(vi) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/50)
 
-[^key-41e15fbbb107270e5e9685672fb944d3]: Textual amendment: [Regs. 3-8](https://www.legislation.gov.uk/uksi/2005/3222/regulation/3) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/4)
+[^c-41e15fbbb107270e5e9685672fb944d3]: Textual amendment: [Regs. 3-8](https://www.legislation.gov.uk/uksi/2005/3222/regulation/3) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2021/222/regulation/3/4)

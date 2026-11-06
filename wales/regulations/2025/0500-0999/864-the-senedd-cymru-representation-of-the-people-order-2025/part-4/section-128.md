@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Prosecution of offences committed outside the United Kingdom[^key-4da5eb25938f8f13f3a800679b2e8d03]
+## 128. Prosecution of offences committed outside the United Kingdom[^c-4da5eb25938f8f13f3a800679b2e8d03]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Proceedings in respect of an offence under this Order that are alleged to have b
 
 ## Annotations
 
-[^key-4da5eb25938f8f13f3a800679b2e8d03]: Commencement: Art. 128 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4da5eb25938f8f13f3a800679b2e8d03]: Commencement: Art. 128 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

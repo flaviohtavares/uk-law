@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Financial assistance to authorised persons[^key-e3a0382013a829f45325f5b2eb204d73][^key-095ed672e784d79ff2d4a618be592ed8]
+## 14. Financial assistance to authorised persons[^c-e3a0382013a829f45325f5b2eb204d73][^c-095ed672e784d79ff2d4a618be592ed8]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The appropriate national authority may give financial assistance to an authorise
 
 ## Annotations
 
-[^key-e3a0382013a829f45325f5b2eb204d73]: Commencement: S. 14 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/c)
+[^c-e3a0382013a829f45325f5b2eb204d73]: Commencement: S. 14 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/c)
 
-[^key-095ed672e784d79ff2d4a618be592ed8]: Commencement: S. 14 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/c)
+[^c-095ed672e784d79ff2d4a618be592ed8]: Commencement: S. 14 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/c)

@@ -27,7 +27,7 @@ summary: ''
 
 shall become by virtue of this section rights and liabilities of the Treasury.
 
-(2)[^key-df6bec303b4884cc9ad9c16387c0abd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-df6bec303b4884cc9ad9c16387c0abd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Bank of England shall deal with—
 
@@ -43,7 +43,7 @@ as money entrusted to them for payment to holders of the Stock concerned and sec
 
 ## Annotations
 
-[^key-df6bec303b4884cc9ad9c16387c0abd6]: Textual amendment: [S. 91(2)](https://www.legislation.gov.uk/ukpga/1989/29/section/91/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 5
+[^c-df6bec303b4884cc9ad9c16387c0abd6]: Textual amendment: [S. 91(2)](https://www.legislation.gov.uk/ukpga/1989/29/section/91/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 5
 
 [^c4118941]: Marginal citation: [1955 c. 6](https://www.legislation.gov.uk/ukpga/1955/6).
 

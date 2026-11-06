@@ -32,7 +32,7 @@ summary: ''
 
 Census, England
 
-The Census (England) Regulations 2010 (revoked)[^key-b96b42b059dab7a711c872463f147b34]
+The Census (England) Regulations 2010 (revoked)[^c-b96b42b059dab7a711c872463f147b34]
 
 Made
 
@@ -46,109 +46,109 @@ Coming into force
 
 31st March 2010
 
-[^key-b96b42b059dab7a711c872463f147b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b96b42b059dab7a711c872463f147b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-b96b42b059dab7a711c872463f147b34]
+## 1. Title, application and commencement[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations[^key-b96b42b059dab7a711c872463f147b34]
+## 2. Revocations[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-b96b42b059dab7a711c872463f147b34]
+## 3. Interpretation[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Administrative divisions and appointments[^key-b96b42b059dab7a711c872463f147b34]
+## 4. Administrative divisions and appointments[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Questionnaires[^key-b96b42b059dab7a711c872463f147b34]
+## 5. Questionnaires[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Preparation of packs[^key-b96b42b059dab7a711c872463f147b34]
+## 6. Preparation of packs[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Sending packs to households and electors by post[^key-b96b42b059dab7a711c872463f147b34]
+## 7. Sending packs to households and electors by post[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Delivery of packs to households and electors by hand[^key-b96b42b059dab7a711c872463f147b34]
+## 8. Delivery of packs to households and electors by hand[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Delivery of packs to communal establishments by hand[^key-b96b42b059dab7a711c872463f147b34]
+## 9. Delivery of packs to communal establishments by hand[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Return of questionnaires from households and electors[^key-b96b42b059dab7a711c872463f147b34]
+## 10. Return of questionnaires from households and electors[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Return of questionnaires from communal establishments[^key-b96b42b059dab7a711c872463f147b34]
+## 11. Return of questionnaires from communal establishments[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Taking of the census for persons in Group G[^key-b96b42b059dab7a711c872463f147b34]
+## 12. Taking of the census for persons in Group G[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Procedure if no questionnaire or an incomplete questionnaire is received by the Authority[^key-b96b42b059dab7a711c872463f147b34]
+## 13. Procedure if no questionnaire or an incomplete questionnaire is received by the Authority[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Giving of information[^key-b96b42b059dab7a711c872463f147b34]
+## 14. Giving of information[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Safe custody of questionnaires and documents[^key-b96b42b059dab7a711c872463f147b34]
+## 15. Safe custody of questionnaires and documents[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Statutory declarations and undertakings[^key-b96b42b059dab7a711c872463f147b34]
+## 16. Statutory declarations and undertakings[^c-b96b42b059dab7a711c872463f147b34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b96b42b059dab7a711c872463f147b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b96b42b059dab7a711c872463f147b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-b96b42b059dab7a711c872463f147b34]
+## SCHEDULE 1[^c-b96b42b059dab7a711c872463f147b34]
 
 Regulation 5(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CE1 Communal Establishment Questionnaire England and Wales[^key-b96b42b059dab7a711c872463f147b34]
+## SCHEDULE 2 — CE1 Communal Establishment Questionnaire England and Wales[^c-b96b42b059dab7a711c872463f147b34]
 
 Regulation 5(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — H1 Household Questionnaire England[^key-b96b42b059dab7a711c872463f147b34]
+## SCHEDULE 3 — H1 Household Questionnaire England[^c-b96b42b059dab7a711c872463f147b34]
 
 Regulation 5(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — I1 Individual Questionnaire England[^key-b96b42b059dab7a711c872463f147b34]
+## SCHEDULE 4 — I1 Individual Questionnaire England[^c-b96b42b059dab7a711c872463f147b34]
 
 Regulation 5(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Form of statutory declaration[^key-b96b42b059dab7a711c872463f147b34]
+## SCHEDULE 5 — Form of statutory declaration[^c-b96b42b059dab7a711c872463f147b34]
 
 Regulation 16(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Form of undertaking[^key-b96b42b059dab7a711c872463f147b34]
+## SCHEDULE 6 — Form of undertaking[^c-b96b42b059dab7a711c872463f147b34]
 
 Regulation 16(2)
 
@@ -156,8 +156,8 @@ Regulation 16(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b96b42b059dab7a711c872463f147b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b96b42b059dab7a711c872463f147b34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b96b42b059dab7a711c872463f147b34]: Textual amendment: Regulations revoked (23.6.2020) by [The Census (England) Regulations 2020 (S.I. 2020/560)](https://www.legislation.gov.uk/uksi/2020/560), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/560/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/560/regulation/2)
+[^c-b96b42b059dab7a711c872463f147b34]: Textual amendment: Regulations revoked (23.6.2020) by [The Census (England) Regulations 2020 (S.I. 2020/560)](https://www.legislation.gov.uk/uksi/2020/560), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/560/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/560/regulation/2)

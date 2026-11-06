@@ -51,8 +51,8 @@ the settlement day is the day on which the securities are transferred.
 
 (6) If neither subsection (3) nor (4) applies, the settlement day is such day as an officer of Revenue and Customs decides.
 
-(7)[^key-18952188619acb05f0d148b65d68a8e3] On any appeal that is notified to the tribunal, the jurisdiction of the tribunal includes jurisdiction to affirm or replace such a decision.
+(7)[^c-18952188619acb05f0d148b65d68a8e3] On any appeal that is notified to the tribunal, the jurisdiction of the tribunal includes jurisdiction to affirm or replace such a decision.
 
 ## Annotations
 
-[^key-18952188619acb05f0d148b65d68a8e3]: Textual amendment: S. 674(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 454](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/454)
+[^c-18952188619acb05f0d148b65d68a8e3]: Textual amendment: S. 674(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 454](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/454)

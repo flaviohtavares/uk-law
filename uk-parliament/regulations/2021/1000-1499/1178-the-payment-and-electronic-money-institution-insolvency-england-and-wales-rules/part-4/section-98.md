@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Expenses to be paid out of the institution’s assets[^key-6119465c20a5b4828ad03901517f0918]
+## 98. Expenses to be paid out of the institution’s assets[^c-6119465c20a5b4828ad03901517f0918]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6119465c20a5b4828ad03901517f0918]: Commencement: Rule 98 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6119465c20a5b4828ad03901517f0918]: Commencement: Rule 98 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

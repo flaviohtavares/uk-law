@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Publication of enforcement action[^key-91e259cca2772993a3a23e577e5a47eb]
+## 126. Publication of enforcement action[^c-91e259cca2772993a3a23e577e5a47eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e259cca2772993a3a23e577e5a47eb]: Commencement: Reg. 126 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-91e259cca2772993a3a23e577e5a47eb]: Commencement: Reg. 126 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

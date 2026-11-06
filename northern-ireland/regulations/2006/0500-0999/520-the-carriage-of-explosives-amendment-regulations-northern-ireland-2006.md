@@ -32,7 +32,7 @@ summary: ''
 
 health and safety
 
-The Carriage of Explosives (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-253d66abf9841254c66cfc130abd38a1]
+The Carriage of Explosives (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-253d66abf9841254c66cfc130abd38a1]
 
 Made
 
@@ -44,66 +44,66 @@ Coming into operation
 
 To be laid before Parliament
 
-[^key-253d66abf9841254c66cfc130abd38a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-253d66abf9841254c66cfc130abd38a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-253d66abf9841254c66cfc130abd38a1]
+## 1. Citation and Commencement[^c-253d66abf9841254c66cfc130abd38a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Carriage of Explosives Regulations (Northern Ireland) 2006[^key-253d66abf9841254c66cfc130abd38a1]
+## 2. Amendments to the Carriage of Explosives Regulations (Northern Ireland) 2006[^c-253d66abf9841254c66cfc130abd38a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Order of Secretary of State (No. 9) Relating to Compressed Acetylene Contained in a Porous Substance 1919[^key-253d66abf9841254c66cfc130abd38a1]
+## 3. Amendments to the Order of Secretary of State (No. 9) Relating to Compressed Acetylene Contained in a Porous Substance 1919[^c-253d66abf9841254c66cfc130abd38a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-253d66abf9841254c66cfc130abd38a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-253d66abf9841254c66cfc130abd38a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENTS TO THE CARRIAGE OF EXPLOSIVES REGULATIONS (NORTHERN IRELAND) 2006[^key-253d66abf9841254c66cfc130abd38a1]
+## SCHEDULE — AMENDMENTS TO THE CARRIAGE OF EXPLOSIVES REGULATIONS (NORTHERN IRELAND) 2006[^c-253d66abf9841254c66cfc130abd38a1]
 
 Regulation 2
 
-**1.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-253d66abf9841254c66cfc130abd38a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-253d66abf9841254c66cfc130abd38a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-253d66abf9841254c66cfc130abd38a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-253d66abf9841254c66cfc130abd38a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/520) revoked (9.4.2010) by [The Carriage of Explosives Regulations (Northern Ireland) 2010 (S.R. 2010/59)](https://www.legislation.gov.uk/nisr/2010/59), [reg. 1](https://www.legislation.gov.uk/nisr/2010/59/regulation/1), [Sch. 3 reg. 25](https://www.legislation.gov.uk/nisr/2010/59/schedule/3/regulation/25)
+[^c-253d66abf9841254c66cfc130abd38a1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/520) revoked (9.4.2010) by [The Carriage of Explosives Regulations (Northern Ireland) 2010 (S.R. 2010/59)](https://www.legislation.gov.uk/nisr/2010/59), [reg. 1](https://www.legislation.gov.uk/nisr/2010/59/regulation/1), [Sch. 3 reg. 25](https://www.legislation.gov.uk/nisr/2010/59/schedule/3/regulation/25)

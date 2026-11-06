@@ -30,7 +30,7 @@ summary: ''
 
 POLICE
 
-Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment) Regulations 1997 (revoked)[^key-ad1526f24169e1f46b8047e3c47d1b7e]
+Royal Ulster Constabulary Reserve (Part-time) (Discipline and Disciplinary Appeals) (Amendment) Regulations 1997 (revoked)[^c-ad1526f24169e1f46b8047e3c47d1b7e]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 15th March 1997
 
-[^key-ad1526f24169e1f46b8047e3c47d1b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad1526f24169e1f46b8047e3c47d1b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ad1526f24169e1f46b8047e3c47d1b7e]
+## 1. Citation, commencement and interpretation[^c-ad1526f24169e1f46b8047e3c47d1b7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation of the principal regulations[^key-ad1526f24169e1f46b8047e3c47d1b7e]
+## 2. Interpretation of the principal regulations[^c-ad1526f24169e1f46b8047e3c47d1b7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Internal appeals[^key-ad1526f24169e1f46b8047e3c47d1b7e]
+## 3. Internal appeals[^c-ad1526f24169e1f46b8047e3c47d1b7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad1526f24169e1f46b8047e3c47d1b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad1526f24169e1f46b8047e3c47d1b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Provisions of the Principal Regulations in which the words “Home Police Force” occur[^key-ad1526f24169e1f46b8047e3c47d1b7e]
+## SCHEDULE — Provisions of the Principal Regulations in which the words “Home Police Force” occur[^c-ad1526f24169e1f46b8047e3c47d1b7e]
 
 Regulation 2(2)
 
@@ -70,8 +70,8 @@ Regulation 2(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad1526f24169e1f46b8047e3c47d1b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad1526f24169e1f46b8047e3c47d1b7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad1526f24169e1f46b8047e3c47d1b7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/43) revoked (6.11.2000) by [The Royal Ulster Constabulary (Conduct) Regulations 2000 (S.R. 2000/315)](https://www.legislation.gov.uk/nisr/2000/315), [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1), [Sch. 1 reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/315/schedule/1/regulation/2/1)
+[^c-ad1526f24169e1f46b8047e3c47d1b7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/43) revoked (6.11.2000) by [The Royal Ulster Constabulary (Conduct) Regulations 2000 (S.R. 2000/315)](https://www.legislation.gov.uk/nisr/2000/315), [reg. 1](https://www.legislation.gov.uk/nisr/2000/315/regulation/1), [Sch. 1 reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/315/schedule/1/regulation/2/1)

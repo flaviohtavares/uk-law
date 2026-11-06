@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Written statement[^key-6c63190b6efc3d8dca7de170acc319da]
+## 31. Written statement[^c-6c63190b6efc3d8dca7de170acc319da]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c63190b6efc3d8dca7de170acc319da]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2016/1/section/31) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6c63190b6efc3d8dca7de170acc319da]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2016/1/section/31) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

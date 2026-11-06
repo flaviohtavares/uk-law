@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Transmission of documents[^key-cdeaa39e73c69f154d02881d433b2f31]
+## 5. Transmission of documents[^c-cdeaa39e73c69f154d02881d433b2f31]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Notices or documents required to be sent or supplied under these Regulations may
 
 ## Annotations
 
-[^key-cdeaa39e73c69f154d02881d433b2f31]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/544/regulation/5) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-cdeaa39e73c69f154d02881d433b2f31]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/544/regulation/5) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

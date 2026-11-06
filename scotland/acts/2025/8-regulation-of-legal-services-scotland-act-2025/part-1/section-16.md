@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Register of regulated legal services providers[^key-8d265a5d04dad0170f40fc96445cc6d9][^key-4ae00ae749944c1335aedb112258d1c4]
+## 16. Register of regulated legal services providers[^c-8d265a5d04dad0170f40fc96445cc6d9][^c-4ae00ae749944c1335aedb112258d1c4]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d265a5d04dad0170f40fc96445cc6d9]: Commencement: S. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-8d265a5d04dad0170f40fc96445cc6d9]: Commencement: S. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-4ae00ae749944c1335aedb112258d1c4]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/8/section/16) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-4ae00ae749944c1335aedb112258d1c4]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/8/section/16) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies to the removal of any consignment following rejection by the consignee [^key-0b60541dbce83988ab83b1d80ef66a71]....
+(1) This regulation applies to the removal of any consignment following rejection by the consignee [^c-0b60541dbce83988ab83b1d80ef66a71]....
 
 (2) Before the consignment or part is moved from the original place for delivery, the hazardous waste producer or holder identified in the relevant part of the original consignment note shall ensure that a copy of a new consignment note is prepared in respect of the rejected consignment or part for each of the following—
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b60541dbce83988ab83b1d80ef66a71]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/43/1) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/15) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-0b60541dbce83988ab83b1d80ef66a71]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/43/1) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/15) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

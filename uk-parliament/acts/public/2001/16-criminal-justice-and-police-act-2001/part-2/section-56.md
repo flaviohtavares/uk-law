@@ -48,7 +48,7 @@ is authorised by this section if the property falls within subsection (2) or (3)
 (5) In subsection (1)(b) the reference to a relevant person’s being on any premises accompanied by a constable is a reference only to a person who was so on the premises under the authority of—
 
 - (a) a warrant under section 448 of the Companies Act 1985 (c. 6) authorising him to exercise together with a constable the powers conferred by subsection (3) of that section;
-- (b)[^key-d5d9c8629429a53bc7f35be1fb52acc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d5d9c8629429a53bc7f35be1fb52acc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^c8874321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c8874321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e)[^c8874321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -61,6 +61,6 @@ is authorised by this section if the property falls within subsection (2) or (3)
 
 [^c19383671]: Textual amendment: S. 56(4A) inserted (E.W.) (20.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 12](https://www.legislation.gov.uk/ukpga/2003/44/section/12), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2003/44/schedule/1/paragraph/14); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2004/81/article/2/2/a)
 
-[^key-d5d9c8629429a53bc7f35be1fb52acc4]: Textual amendment: [S. 56(5)(b)](https://www.legislation.gov.uk/ukpga/2001/16/section/56/5/b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 189(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/189/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-d5d9c8629429a53bc7f35be1fb52acc4]: Textual amendment: [S. 56(5)(b)](https://www.legislation.gov.uk/ukpga/2001/16/section/56/5/b) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 189(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/189/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c8874321]: Textual amendment: S. 56(5)(c)(d)(e) repealed (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [364(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/364/a)

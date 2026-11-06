@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Code of practice[^key-4b075f029955bc781d58cdf24301a62e]
+## 10. Code of practice[^c-4b075f029955bc781d58cdf24301a62e]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b075f029955bc781d58cdf24301a62e]: Commencement: Reg. 10 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-4b075f029955bc781d58cdf24301a62e]: Commencement: Reg. 10 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

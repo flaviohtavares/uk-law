@@ -43,7 +43,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 166(1)(3) an
 
 A draft of these Regulations was laid before the National Assembly for Wales under section 196(6) of that Act and has been approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement, application and interpretation[^key-43097d560fa71d1d9a431215a711f81d]
+## 1. Title, commencement, application and interpretation[^c-43097d560fa71d1d9a431215a711f81d]
 
 (1) The title of these Regulations is the Care and Support (Partnership Arrangements for Population Assessments) (Wales) Regulations 2015.
 
@@ -57,29 +57,29 @@ A draft of these Regulations was laid before the National Assembly for Wales und
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
 - “the partnership bodies” (“*y cyrff partneriaeth*”) are those bodies which are required by regulation 2 to enter into partnership arrangements.
 
-## 2. Partnership arrangements[^key-9bc62e30d70a5936e0a5ef914016e18a]
+## 2. Partnership arrangements[^c-9bc62e30d70a5936e0a5ef914016e18a]
 
 A partnership arrangement for carrying out the specified functions must be made by the Local Health Boards listed in the first column of the table in the Schedule and the corresponding local authority or local authorities listed in the second column of that table.
 
-## 3. Specified functions[^key-c9554064a2197e5d28f7a2f38fee72e8]
+## 3. Specified functions[^c-c9554064a2197e5d28f7a2f38fee72e8]
 
 The functions to be carried out in accordance with the partnership arrangements are the functions of the partnership bodies conferred on them by or under section 14(1) of the Act.
 
-## 4. Form of partnership arrangements[^key-a3b63f586c30532374f06609c25695d5]
+## 4. Form of partnership arrangements[^c-a3b63f586c30532374f06609c25695d5]
 
 The partnership bodies must establish a joint committee to take responsibility for the management of the partnership arrangement.
 
-## 5. Operation of partnership arrangements[^key-e42d330653b2d1e7282851e59b19627c]
+## 5. Operation of partnership arrangements[^c-e42d330653b2d1e7282851e59b19627c]
 
 (1) The partnership bodies for each partnership arrangement must appoint one of the bodies to be the lead co-ordinating body.
 
 (2) The lead co-ordinating body is to be responsible for co-ordinating the carrying out of the population assessments for the local authority areas covered by the partnership arrangement.
 
-## 6. Information sharing[^key-baf9d349984a380b15ed862314325076]
+## 6. Information sharing[^c-baf9d349984a380b15ed862314325076]
 
 The partnership bodies may share information with each other for the purposes of carrying out functions in accordance with the partnership arrangement.
 
-## 7. Delegation of functions[^key-1e0379d55f4c48f318b73e4f86a90f92]
+## 7. Delegation of functions[^c-1e0379d55f4c48f318b73e4f86a90f92]
 
 The lead co-ordinating body may carry out the functions which have been conferred on each of the local authorities in the partnership arrangement by regulation 6(4) of the Care and Support (Population Assessment) (Wales) Regulations 2015[^f00002].
 
@@ -89,7 +89,7 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 8 July 2015
 
-## SCHEDULE — Specified partnership arrangements[^key-2abed73291817be967f2d65a33684eb3]
+## SCHEDULE — Specified partnership arrangements[^c-2abed73291817be967f2d65a33684eb3]
 
 Regulation 2
 
@@ -103,8 +103,8 @@ Partnership arrangements
 | Betsi Cadwaladr University Health Board | Flintshire County Council<br>Wrexham County Borough Council<br>Isle of Anglesey County Council<br>Gwynedd County Council<br>Denbighshire County Council<br>Conwy County Borough Council |
 | Cardiff and Vale University Health Board | Cardiff City and County Council<br>Vale of Glamorgan Council |
 | Hywel Dda University Health Board | Pembrokeshire County Council<br>Carmarthenshire County Council<br>Ceredigion County Council |
-| Swansea Bay University Local Health Board[^key-51a2f16cea17e2a04f963c0013491490] | Swansea City and County Council<br>[^key-13b004ab7ca0cd3fc49098a501fe3316]...<br>Neath Port Talbot County Borough Council |
-| Cwm Taf Morgannwg University Local Health Board[^key-5653da0d49b92b402c29be9b90a423f6] | Bridgend County Borough Council[^key-d723f06799584abf1a038608a71d59af]<br>Rhondda Cynon Taf County Borough Council<br>Merthyr Tydfil County Borough Council |
+| Swansea Bay University Local Health Board[^c-51a2f16cea17e2a04f963c0013491490] | Swansea City and County Council<br>[^c-13b004ab7ca0cd3fc49098a501fe3316]...<br>Neath Port Talbot County Borough Council |
+| Cwm Taf Morgannwg University Local Health Board[^c-5653da0d49b92b402c29be9b90a423f6] | Bridgend County Borough Council[^c-d723f06799584abf1a038608a71d59af]<br>Rhondda Cynon Taf County Borough Council<br>Merthyr Tydfil County Borough Council |
 | Powys Teaching Health Board | Powys County Council |
 
 EXPLANATORY NOTE
@@ -129,28 +129,28 @@ Regulation 7 enables the lead co-ordinating body to submit to the Welsh Minister
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-43097d560fa71d1d9a431215a711f81d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-43097d560fa71d1d9a431215a711f81d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-9bc62e30d70a5936e0a5ef914016e18a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1495/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-9bc62e30d70a5936e0a5ef914016e18a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1495/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-c9554064a2197e5d28f7a2f38fee72e8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1495/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-c9554064a2197e5d28f7a2f38fee72e8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1495/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-a3b63f586c30532374f06609c25695d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1495/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-a3b63f586c30532374f06609c25695d5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1495/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-e42d330653b2d1e7282851e59b19627c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1495/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-e42d330653b2d1e7282851e59b19627c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1495/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-baf9d349984a380b15ed862314325076]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1495/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-baf9d349984a380b15ed862314325076]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1495/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-1e0379d55f4c48f318b73e4f86a90f92]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1495/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-1e0379d55f4c48f318b73e4f86a90f92]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1495/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
 [^f00002]: Footnote: [SI 2015/1367 (W. 135)](https://www.legislation.gov.uk/wsi/2015/1367). Regulation 6(4) of the Care and Support (Population Assessments) Regulations 2015 requires each local authority to submit to the Welsh Ministers a copy of the population assessment report which has been produced for its area.
 
-[^key-2abed73291817be967f2d65a33684eb3]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
+[^c-2abed73291817be967f2d65a33684eb3]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1495/regulation/1/2)
 
-[^key-51a2f16cea17e2a04f963c0013491490]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/12/a)
+[^c-51a2f16cea17e2a04f963c0013491490]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2019/760/regulation/12/a)
 
-[^key-13b004ab7ca0cd3fc49098a501fe3316]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) omitted (1.4.2019) by virtue of [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2019/760/regulation/12/b)
+[^c-13b004ab7ca0cd3fc49098a501fe3316]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) omitted (1.4.2019) by virtue of [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2019/760/regulation/12/b)
 
-[^key-5653da0d49b92b402c29be9b90a423f6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/12/c)
+[^c-5653da0d49b92b402c29be9b90a423f6]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) substituted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/wsi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/760/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2019/760/regulation/12/c)
 
-[^key-d723f06799584abf1a038608a71d59af]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/uksi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/760/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2019/760/regulation/12/d)
+[^c-d723f06799584abf1a038608a71d59af]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1495/schedule) inserted (1.4.2019) by [The Partnership Arrangements and Population Assessments (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/760)](https://www.legislation.gov.uk/uksi/2019/760), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/760/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2019/760/regulation/12/d)

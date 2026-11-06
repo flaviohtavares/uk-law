@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Appeals to Police Appeals Tribunals[^c22718641][^key-9a1b53384640d2a995cf691cf52209dd]
+## 31. Appeals to Police Appeals Tribunals[^c22718641][^c-9a1b53384640d2a995cf691cf52209dd]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 [^c22718641]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/3/section/31) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-9a1b53384640d2a995cf691cf52209dd]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/3/section/31) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/l) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2020/5/article/3/3))
+[^c-9a1b53384640d2a995cf691cf52209dd]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/3/section/31) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/l) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2020/5/article/3/3))

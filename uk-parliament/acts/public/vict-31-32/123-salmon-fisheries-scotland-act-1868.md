@@ -29,7 +29,7 @@ Salmon Fisheries (Scotland) Act 1868
 
 1868 c.123
 
-[^c5668901][^c5668911][^key-44bd5d5df902a794131411845e55c0db][^key-87fce196f8952109435ae884ff421c31]An Act to amend the Law relating to Salmon Fisheries in Scotland.
+[^c5668901][^c5668911][^c-44bd5d5df902a794131411845e55c0db][^c-87fce196f8952109435ae884ff421c31]An Act to amend the Law relating to Salmon Fisheries in Scotland.
 
 \[31st July 1868\]
 
@@ -126,7 +126,7 @@ Any water bailiff, constable, watcher, or officer of the board, or any police of
 
 ## 29. Apprehension of offenders.[^c5669491]
 
-It shall be lawful for any person, without any warrant or other authority than this Act, brevi manu to seize and detain any person who shall be found committing any offence contained in the first six sub-divisions of the fifteenth section, or in the [^c5669501]... eighteenth, nineteenth, twentieth, twenty-first, and twenty-second sections of this Act, and to carry such person before any sheriff principal[^c5669511] or justice of the peace or other magistrate [^key-33c709ef4a004d742256ba6acadcb499]..., who shall forthwith examine and discharge or commit such person until caution de judicio sisti be found, as the case may require.
+It shall be lawful for any person, without any warrant or other authority than this Act, brevi manu to seize and detain any person who shall be found committing any offence contained in the first six sub-divisions of the fifteenth section, or in the [^c5669501]... eighteenth, nineteenth, twentieth, twenty-first, and twenty-second sections of this Act, and to carry such person before any sheriff principal[^c5669511] or justice of the peace or other magistrate [^c-33c709ef4a004d742256ba6acadcb499]..., who shall forthwith examine and discharge or commit such person until caution de judicio sisti be found, as the case may require.
 
 ## 30. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5669521]
 
@@ -172,9 +172,9 @@ SCHEDULES
 
 [^c5668911]: Textual amendment: The whole Act (except ss. 1, 11, 15, 18–24, 26, 27, 29, 31–36, 41) (with saving for s. 13) repealed by [Salmon Act 1986 (c. 62, SIF 52:2)](https://www.legislation.gov.uk/ukpga/1986/62), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/1986/62/section/30/1), [41](https://www.legislation.gov.uk/ukpga/1986/62/section/41), [Sch. 5](https://www.legislation.gov.uk/ukpga/1986/62/schedule/5)
 
-[^key-44bd5d5df902a794131411845e55c0db]: Textual amendment: Act repealed (except in relation to the River Tweed and the Upper Esk) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-44bd5d5df902a794131411845e55c0db]: Textual amendment: Act repealed (except in relation to the River Tweed and the Upper Esk) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-87fce196f8952109435ae884ff421c31]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/31-32/123) repealed in relation to the Tweed District (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/3))
+[^c-87fce196f8952109435ae884ff421c31]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/31-32/123) repealed in relation to the Tweed District (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/3))
 
 [^c5668921]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/Vict/31-32/123/section/1A) inserted by [Salmon Act 1986 (c. 62, SIF 52:2)](https://www.legislation.gov.uk/ukpga/1986/62), [s. 41](https://www.legislation.gov.uk/ukpga/1986/62/section/41), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1986/62/schedule/4/paragraph/1)
 
@@ -270,7 +270,7 @@ SCHEDULES
 
 [^c5669511]: Textual amendment: Words substituted by virtue of [Sheriff Courts (Scotland) Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [s. 4](https://www.legislation.gov.uk/ukpga/1971/58/section/4)
 
-[^key-33c709ef4a004d742256ba6acadcb499]: Textual amendment: Words in s. 29 omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/1) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2))
+[^c-33c709ef4a004d742256ba6acadcb499]: Textual amendment: Words in s. 29 omitted (25.1.2018) by virtue of [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/1) (with [reg. 2(2)](https://www.legislation.gov.uk/ssi/2017/452/regulation/2/2))
 
 [^c5669521]: Textual amendment: The whole Act (except ss. 1, 11, 15, 18–24, 26, 27, 29, 31–36, 41) (with saving for s. 13) repealed by [Salmon Act 1986 (c. 62, SIF 52:2)](https://www.legislation.gov.uk/ukpga/1986/62), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/1986/62/section/30/1), [41](https://www.legislation.gov.uk/ukpga/1986/62/section/41), [Sch. 5](https://www.legislation.gov.uk/ukpga/1986/62/schedule/5)
 

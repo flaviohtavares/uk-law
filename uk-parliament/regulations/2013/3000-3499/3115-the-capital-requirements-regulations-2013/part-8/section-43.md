@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (2), the PRA[^key-67db1a602c0bffec6daddc2434692d5a] must publish a relevant notice in the way appearing to the PRA[^key-35eb81ca95a8fa5af7592c467319ebc6] to be best calculated for bringing it to the attention of—
+(1) Subject to paragraph (2), the PRA[^c-67db1a602c0bffec6daddc2434692d5a] must publish a relevant notice in the way appearing to the PRA[^c-35eb81ca95a8fa5af7592c467319ebc6] to be best calculated for bringing it to the attention of—
 
 - (a) persons likely to be affected by it; and
 - (b) persons who are, in the opinion of the PRA , likely to make an application for a similar permission.
@@ -37,7 +37,7 @@ summary: ''
 
 (4) In this regulation, “**relevant notice**” means a written notice—
 
-- (a) given under regulation 41 in relation to a decision of the PRA[^key-ff48bc1bd5fa55c41e346df2f9074d46]; or
+- (a) given under regulation 41 in relation to a decision of the PRA[^c-ff48bc1bd5fa55c41e346df2f9074d46]; or
 - (b) stating that an event referred to in paragraph (5) has occurred in relation to that decision.
 
 (5) The events mentioned in paragraph (4)(b) are—
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-67db1a602c0bffec6daddc2434692d5a]: Textual amendment: Word in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/43/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(19)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/19/a)
+[^c-67db1a602c0bffec6daddc2434692d5a]: Textual amendment: Word in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/43/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(19)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/19/a)
 
-[^key-35eb81ca95a8fa5af7592c467319ebc6]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/2013/3115/regulation/43) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(19)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/19/c)
+[^c-35eb81ca95a8fa5af7592c467319ebc6]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/2013/3115/regulation/43) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(19)(c)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/19/c)
 
-[^key-ff48bc1bd5fa55c41e346df2f9074d46]: Textual amendment: Words in [reg. 43(4)(a)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/43/4/a) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(19)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/19/b)
+[^c-ff48bc1bd5fa55c41e346df2f9074d46]: Textual amendment: Words in [reg. 43(4)(a)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/43/4/a) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [16(19)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/16/19/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Death of a dual capacity member[^key-0489d97ddfec1a893666f3de46e81452]
+## 129. Death of a dual capacity member[^c-0489d97ddfec1a893666f3de46e81452]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The annual rate of a survivor’s pension applies to the surviving adult or elig
 
 ## Annotations
 
-[^key-0489d97ddfec1a893666f3de46e81452]: Commencement: [Reg. 129](https://www.legislation.gov.uk/ssi/2014/292/regulation/129) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0489d97ddfec1a893666f3de46e81452]: Commencement: [Reg. 129](https://www.legislation.gov.uk/ssi/2014/292/regulation/129) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

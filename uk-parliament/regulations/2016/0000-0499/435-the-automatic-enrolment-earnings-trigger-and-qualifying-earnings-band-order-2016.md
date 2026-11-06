@@ -28,7 +28,7 @@ summary: ''
 
 Pensions
 
-The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2016 (revoked)[^key-0a83b3d73f00c5d4e7910acc439bad12]
+The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2016 (revoked)[^c-0a83b3d73f00c5d4e7910acc439bad12]
 
 Made
 
@@ -38,7 +38,7 @@ Coming into force
 
 6th April 2016
 
-[^key-0a83b3d73f00c5d4e7910acc439bad12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a83b3d73f00c5d4e7910acc439bad12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -78,4 +78,4 @@ An analysis of the impact of this legislation has been made. The analysis is pub
 
 ## Annotations
 
-[^key-0a83b3d73f00c5d4e7910acc439bad12]: Textual amendment: Order revoked (6.4.2017) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2017 (S.I. 2017/394)](https://www.legislation.gov.uk/uksi/2017/394), [art. 4(b)](https://www.legislation.gov.uk/uksi/2017/394/article/4/b)
+[^c-0a83b3d73f00c5d4e7910acc439bad12]: Textual amendment: Order revoked (6.4.2017) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order 2017 (S.I. 2017/394)](https://www.legislation.gov.uk/uksi/2017/394), [art. 4(b)](https://www.legislation.gov.uk/uksi/2017/394/article/4/b)

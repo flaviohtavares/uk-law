@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Reports under Part 4[^key-e7bb4e42ac42c44b32c5a7b6077e85e1]
+## 38. Reports under Part 4[^c-e7bb4e42ac42c44b32c5a7b6077e85e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Where under this Part the CMA publishes (or arranges for the publication of) a r
 
 ## Annotations
 
-[^key-e7bb4e42ac42c44b32c5a7b6077e85e1]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2020/27/section/38) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/h)
+[^c-e7bb4e42ac42c44b32c5a7b6077e85e1]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2020/27/section/38) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/h)

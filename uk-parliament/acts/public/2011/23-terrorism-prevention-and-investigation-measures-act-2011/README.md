@@ -45,7 +45,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 3 — Conditions A to E](section-3.md)
 - [Section 4 — Involvement in terrorism-related activity](section-4.md)
 
-### Duration of measures[^key-ce75fe424e4cf44338ee9964ba9ff07b]
+### Duration of measures[^c-ce75fe424e4cf44338ee9964ba9ff07b]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,4 +117,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ce75fe424e4cf44338ee9964ba9ff07b]: Textual amendment: S. 5 cross-heading substituted (29.6.2021) by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/2), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s) (with [s. 35(7)(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/7/8))
+[^c-ce75fe424e4cf44338ee9964ba9ff07b]: Textual amendment: S. 5 cross-heading substituted (29.6.2021) by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/2), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s) (with [s. 35(7)(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/35/7/8))

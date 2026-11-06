@@ -27,7 +27,7 @@ summary: ''
 
 shall not be questioned in any legal proceedings whatsoever.
 
-(2) If, in the case of any such appeal or reference, the appropriate agency[^key-111a92fa09e4e51f3ceca559c139e744] or the other party desires to question the validity of the decision of the Secretary of State on the grounds—
+(2) If, in the case of any such appeal or reference, the appropriate agency[^c-111a92fa09e4e51f3ceca559c139e744] or the other party desires to question the validity of the decision of the Secretary of State on the grounds—
 
 - (a) that the decision is not within the powers of this Act; or
 - (b) that any of the requirements of, or of any regulations made under, this Chapter which are applicable to the appeal or reference have not been complied with,
@@ -55,6 +55,6 @@ the High Court may quash the decision.
 
 ## Annotations
 
-[^key-111a92fa09e4e51f3ceca559c139e744]: Textual amendment: Words in [s. 69(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/69/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(m)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/m) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-111a92fa09e4e51f3ceca559c139e744]: Textual amendment: Words in [s. 69(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/69/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(m)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/m) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18731691]: Textual amendment: S. 69(5) repealed (21.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1/3), [Sch. 22 para. 138](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/138), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3)

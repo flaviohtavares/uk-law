@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Amendment of right to buy provisions[^key-4fd0b7d022c4cf4402a0065d063af301]
+## 2. Amendment of right to buy provisions[^c-4fd0b7d022c4cf4402a0065d063af301]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In the 1987 Act—
 
 ## Annotations
 
-[^key-4fd0b7d022c4cf4402a0065d063af301]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/14/section/2) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/264/article/5))
+[^c-4fd0b7d022c4cf4402a0065d063af301]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/14/section/2) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/264/article/5))

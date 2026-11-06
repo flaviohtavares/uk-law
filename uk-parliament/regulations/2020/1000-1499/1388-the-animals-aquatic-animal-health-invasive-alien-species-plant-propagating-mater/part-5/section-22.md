@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019[^key-360d0b511b277035cd7917453e71a6a5]
+## 22. The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019[^c-360d0b511b277035cd7917453e71a6a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-360d0b511b277035cd7917453e71a6a5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-360d0b511b277035cd7917453e71a6a5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00055]: Footnote: [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), amended by [S.I. 2019/1229](https://www.legislation.gov.uk/uksi/2019/1229).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Discharge of water[^key-74830ebfee3be1ab58758ba46f78b2f1]
+## 21. Discharge of water[^c-74830ebfee3be1ab58758ba46f78b2f1]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-74830ebfee3be1ab58758ba46f78b2f1]: Commencement: Art. 21 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-74830ebfee3be1ab58758ba46f78b2f1]: Commencement: Art. 21 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00023]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

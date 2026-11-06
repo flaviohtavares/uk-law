@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Traffic regulation measures[^key-bb40b3a215653e148ee3934ce9b22390]
+## 17. Traffic regulation measures[^c-bb40b3a215653e148ee3934ce9b22390]
 
 *Extent: E+W+S*
 
-(1) Subject to the provisions of this article, the undertaker may, in so far as may be expedient or necessary for the purposes of or in connection with, or in consequence of, the construction and operation[^key-352c0f82750f3834d5c8495722ed0e7b] of the authorised development [^key-9dbadc61b7b76e8afc6df51cc777163c]...—
+(1) Subject to the provisions of this article, the undertaker may, in so far as may be expedient or necessary for the purposes of or in connection with, or in consequence of, the construction and operation[^c-352c0f82750f3834d5c8495722ed0e7b] of the authorised development [^c-9dbadc61b7b76e8afc6df51cc777163c]...—
 
 - (a) permit, prohibit or restrict the stopping, parking, waiting, loading or unloading of vehicles on any road;
 - (b) make provision as to the direction or priority of vehicular traffic on any road;
@@ -58,11 +58,11 @@ and the instrument by which it is effected is deemed to be a traffic order for t
 
 ## Annotations
 
-[^key-bb40b3a215653e148ee3934ce9b22390]: Commencement: Art. 17 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-bb40b3a215653e148ee3934ce9b22390]: Commencement: Art. 17 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-352c0f82750f3834d5c8495722ed0e7b]: Textual amendment: Words in art. 17(1) inserted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-352c0f82750f3834d5c8495722ed0e7b]: Textual amendment: Words in art. 17(1) inserted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-9dbadc61b7b76e8afc6df51cc777163c]: Textual amendment: Word in art. 17(1) omitted (8.11.2024) by virtue of [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-9dbadc61b7b76e8afc6df51cc777163c]: Textual amendment: Word in art. 17(1) omitted (8.11.2024) by virtue of [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
 [^f00022]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 

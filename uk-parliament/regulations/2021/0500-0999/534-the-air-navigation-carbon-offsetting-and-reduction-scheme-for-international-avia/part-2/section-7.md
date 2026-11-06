@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Notification to ICAO of voluntary participation in CORSIA[^key-45c08e6128b0af065c2429c5edc59c28]
+## 7. Notification to ICAO of voluntary participation in CORSIA[^c-45c08e6128b0af065c2429c5edc59c28]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45c08e6128b0af065c2429c5edc59c28]: Commencement: Art. 7 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-45c08e6128b0af065c2429c5edc59c28]: Commencement: Art. 7 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00016]: Footnote: “CORSIA States for Chapter 3 State Pairs” is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).

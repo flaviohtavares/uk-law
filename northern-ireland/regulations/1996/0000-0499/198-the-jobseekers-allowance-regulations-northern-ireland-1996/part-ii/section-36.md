@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Jobseeker’s Agreement to remain in effect[^key-15d9e950ee63f20cf35ea801ad98c944]
+## 36. Jobseeker’s Agreement to remain in effect[^c-15d9e950ee63f20cf35ea801ad98c944]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ A jobseeker’s agreement entered into by a claimant shall not cease to have eff
 
 ## Annotations
 
-[^key-15d9e950ee63f20cf35ea801ad98c944]: Commencement: Reg. 36 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-15d9e950ee63f20cf35ea801ad98c944]: Commencement: Reg. 36 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00043]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113)

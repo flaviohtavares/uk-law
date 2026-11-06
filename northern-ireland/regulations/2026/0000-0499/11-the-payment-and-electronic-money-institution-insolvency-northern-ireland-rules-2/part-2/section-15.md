@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Notice of special administration order[^key-e0678d0a8d0e7abdcc0235f8fe024d70]
+## 15. Notice of special administration order[^c-e0678d0a8d0e7abdcc0235f8fe024d70]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0678d0a8d0e7abdcc0235f8fe024d70]: Commencement: [Rule 15](https://www.legislation.gov.uk/nisr/2026/11/rule/15) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e0678d0a8d0e7abdcc0235f8fe024d70]: Commencement: [Rule 15](https://www.legislation.gov.uk/nisr/2026/11/rule/15) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Equal opportunities[^key-49b87f317bbc64070c0650001e7e421b]
+## 21. Equal opportunities[^c-49b87f317bbc64070c0650001e7e421b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49b87f317bbc64070c0650001e7e421b]: Commencement: S. 21 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-49b87f317bbc64070c0650001e7e421b]: Commencement: S. 21 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

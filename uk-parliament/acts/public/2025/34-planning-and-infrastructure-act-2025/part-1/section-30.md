@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Wind generating stations that may affect seismic array systems[^key-c32efb0aeea75b40a9d19a8475db9098]
+## 30. Wind generating stations that may affect seismic array systems[^c-c32efb0aeea75b40a9d19a8475db9098]
 
 *Extent: E+W+S*
 
@@ -97,4 +97,4 @@ around a relevant seismic array system.
 
 ## Annotations
 
-[^key-c32efb0aeea75b40a9d19a8475db9098]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/34/section/30) in force at 18.2.2026, see [s. 118(1)(q)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/q)
+[^c-c32efb0aeea75b40a9d19a8475db9098]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/34/section/30) in force at 18.2.2026, see [s. 118(1)(q)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/q)

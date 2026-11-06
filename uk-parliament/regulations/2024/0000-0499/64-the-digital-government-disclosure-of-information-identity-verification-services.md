@@ -48,7 +48,7 @@ The Minister for the Cabinet Office has consulted the Information Commissioner, 
 
 In accordance with section 44(7) of the Act[^f00004], a draft of these Regulations was laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement, extent and interpretation[^key-ac6692e0da5bd968583612e626e69496]
+## 1. Citation, commencement, extent and interpretation[^c-ac6692e0da5bd968583612e626e69496]
 
 (1) These Regulations may be cited as the Digital Government (Disclosure of Information) (Identity Verification Services) Regulations 2024 and come into force 21 days after the day on which they are made.
 
@@ -59,7 +59,7 @@ In accordance with section 44(7) of the Act[^f00004], a draft of these Regulatio
 - (a) “**the Act**” means the Digital Economy Act 2017;
 - (b) “**digital identity verification service**” means an electronic process for confirming the identity of an individual by checking information provided by that individual against information held by another person.
 
-## 2. Amendment of Schedule 4 to the Act[^key-9be17141f81ba323408d333cd7faaf38]
+## 2. Amendment of Schedule 4 to the Act[^c-9be17141f81ba323408d333cd7faaf38]
 
 In Schedule 4 to the Act, in Part 1, after paragraph 27, insert—
 
@@ -73,7 +73,7 @@ In Schedule 4 to the Act, in Part 1, after paragraph 27, insert—
 
 .
 
-## 3. Digital identity verification services objective[^key-738d6cf53f8e0fd6b84fcccd43561639]
+## 3. Digital identity verification services objective[^c-738d6cf53f8e0fd6b84fcccd43561639]
 
 (1) Paragraph (2) specifies an objective for the purposes of section 35(7) of the Act.
 
@@ -83,7 +83,7 @@ In Schedule 4 to the Act, in Part 1, after paragraph 27, insert—
 - (b) improving their physical, mental, emotional, social or economic well-being, and
 - (c) supporting the administration or delivery of the functions of a person who is a specified person in relation to this specified objective.
 
-## 4. Specified persons in relation to the digital identity verification services objective[^key-1f824753ebae93b352bfd2729676013f]
+## 4. Specified persons in relation to the digital identity verification services objective[^c-1f824753ebae93b352bfd2729676013f]
 
 (1) Paragraph (2) sets out the specified persons from Schedule 4 to the Act who are specified persons in relation to the digital identity verification services objective (“the specified objective”).
 
@@ -116,69 +116,69 @@ Regulation 4
 
 ### PART 1 — UK and English Bodies
 
-**1.**[^key-3851da42932567f7d3bd1ca2cd9359b8] The Secretary of State for the Home Department.
+**1.**[^c-3851da42932567f7d3bd1ca2cd9359b8] The Secretary of State for the Home Department.
 
-**2.**[^key-3dac95fd195d2efeaf9cefcf6f42de90] The Secretary of State for Defence.
+**2.**[^c-3dac95fd195d2efeaf9cefcf6f42de90] The Secretary of State for Defence.
 
-**3.**[^key-9308f59c8e780588a28425d103cb1a79] The Lord Chancellor.
+**3.**[^c-9308f59c8e780588a28425d103cb1a79] The Lord Chancellor.
 
-**4.**[^key-dec014cadfa3d15996a387245fa0a1be] The Secretary of State for Justice.
+**4.**[^c-dec014cadfa3d15996a387245fa0a1be] The Secretary of State for Justice.
 
-**5.**[^key-21bee79b7bc346a986762fa6c0c7bb15] The Secretary of State for Education.
+**5.**[^c-21bee79b7bc346a986762fa6c0c7bb15] The Secretary of State for Education.
 
-**6.**[^key-6b16dcadb01dcae3ba4a698090b69231] The Secretary of State for Business and Trade, in relation to the Secretary of State’s relevant business functions.
+**6.**[^c-6b16dcadb01dcae3ba4a698090b69231] The Secretary of State for Business and Trade, in relation to the Secretary of State’s relevant business functions.
 
-**7.**[^key-0206109ce190f4610bc0481759ab95f0] The Secretary of State for Energy Security and Net Zero.
+**7.**[^c-0206109ce190f4610bc0481759ab95f0] The Secretary of State for Energy Security and Net Zero.
 
-**8.**[^key-8cff4c013f1e35e81d6ad046ac404001] The Secretary of State for Science, Innovation and Technology.
+**8.**[^c-8cff4c013f1e35e81d6ad046ac404001] The Secretary of State for Science, Innovation and Technology.
 
-**9.**[^key-12c2a9c58081a3479eaf6a9c4a7188c5] The Secretary of State for Work and Pensions.
+**9.**[^c-12c2a9c58081a3479eaf6a9c4a7188c5] The Secretary of State for Work and Pensions.
 
-**10.**[^key-2ffbc513b8469190e50591f851fdefe1] The Secretary of State for Housing, Communities and Local Government[^key-69e1282973387faea45e2306a1129567].
+**10.**[^c-2ffbc513b8469190e50591f851fdefe1] The Secretary of State for Housing, Communities and Local Government[^c-69e1282973387faea45e2306a1129567].
 
-**11.**[^key-e68f5920ab5a2360d97e2cd721787e4e] The Secretary of State for Culture, Media and Sport.
+**11.**[^c-e68f5920ab5a2360d97e2cd721787e4e] The Secretary of State for Culture, Media and Sport.
 
-**12.**[^key-d04ba0402e8409c10fc6435ce78b110f] His Majesty’s Revenue and Customs.
+**12.**[^c-d04ba0402e8409c10fc6435ce78b110f] His Majesty’s Revenue and Customs.
 
-**13.**[^key-d2f584d428fd2a8ccd300380fc7f8d2f] A county council in England.
+**13.**[^c-d2f584d428fd2a8ccd300380fc7f8d2f] A county council in England.
 
-**14.**[^key-5dd049e354fe3dce13134eb3da8e9bcd] A district council in England.
+**14.**[^c-5dd049e354fe3dce13134eb3da8e9bcd] A district council in England.
 
-**15.**[^key-16424ca2b1ee5d3e84c55382a062ceb4] A London borough council.
+**15.**[^c-16424ca2b1ee5d3e84c55382a062ceb4] A London borough council.
 
-**16.**[^key-5b13311ef94846b8f392f9c668a0c735] A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009[^f00005].
+**16.**[^c-5b13311ef94846b8f392f9c668a0c735] A combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009[^f00005].
 
-**17.**[^key-d6260688490220aebd037d20360ecfff] The Common Council of the City of London in its capacity as a local authority.
+**17.**[^c-d6260688490220aebd037d20360ecfff] The Common Council of the City of London in its capacity as a local authority.
 
-**18.**[^key-4fe9762b8562f5c6cb81d5058a509b46] The Council of the Isles of Scilly.
+**18.**[^c-4fe9762b8562f5c6cb81d5058a509b46] The Council of the Isles of Scilly.
 
-**19.**[^key-8788899989c73508982ce28c7d2bfb0a] The Greater London Authority.
+**19.**[^c-8788899989c73508982ce28c7d2bfb0a] The Greater London Authority.
 
-**20.**[^key-d0b9fcf0f05efcf56049a14783d2d190] The Chief Land Registrar.
+**20.**[^c-d0b9fcf0f05efcf56049a14783d2d190] The Chief Land Registrar.
 
-**21.**[^key-ce52810ac067ea5228af7845c3834fc6] The Minister for the Cabinet Office.
+**21.**[^c-ce52810ac067ea5228af7845c3834fc6] The Minister for the Cabinet Office.
 
-**22.**[^key-ad579050b9729abdd7826961e4a24088] The Secretary of State for Transport.
+**22.**[^c-ad579050b9729abdd7826961e4a24088] The Secretary of State for Transport.
 
-**23.**[^key-da9e0a4c464aa254f80b9b07bfe8ce4c] The Secretary of State for Environment, Food and Rural Affairs.
+**23.**[^c-da9e0a4c464aa254f80b9b07bfe8ce4c] The Secretary of State for Environment, Food and Rural Affairs.
 
-**24.**[^key-1c3523a7ceff173029fcf7b7de5c73b8] The Disclosure and Barring Service.
+**24.**[^c-1c3523a7ceff173029fcf7b7de5c73b8] The Disclosure and Barring Service.
 
 ### PART 2 — Welsh Bodies
 
-**25.**[^key-d07cc62fcf6b6b4fd292ab7d59db03c2] The Welsh Ministers.
+**25.**[^c-d07cc62fcf6b6b4fd292ab7d59db03c2] The Welsh Ministers.
 
-**26.**[^key-c4612dd6eb3d26c2214bbed2a585bb04] The Welsh Revenue Authority.
+**26.**[^c-c4612dd6eb3d26c2214bbed2a585bb04] The Welsh Revenue Authority.
 
-**27.**[^key-60615c99a2f5b2f06260aa5e0b06bcf0] A county council in Wales.
+**27.**[^c-60615c99a2f5b2f06260aa5e0b06bcf0] A county council in Wales.
 
-**28.**[^key-48da660348f6be106e6bf0301cda5037] A community council in Wales.
+**28.**[^c-48da660348f6be106e6bf0301cda5037] A community council in Wales.
 
 ### PART 3 — Scottish Bodies
 
-**29.**[^key-7ac34bd33bc48f38f716310a7d9c1af2] The Scottish Ministers.
+**29.**[^c-7ac34bd33bc48f38f716310a7d9c1af2] The Scottish Ministers.
 
-**30.**[^key-56203b2def2a58f8fb20e04d9d9d300b] A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00006].
+**30.**[^c-56203b2def2a58f8fb20e04d9d9d300b] A council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00006].
 
 EXPLANATORY NOTE
 
@@ -206,76 +206,76 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: Section 44(7) of the 2017 Act was amended by article 6(3)(c) of [S.I. 2020/940](https://www.legislation.gov.uk/uksi/2020/940).
 
-[^key-ac6692e0da5bd968583612e626e69496]: Commencement: Reg. 1 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-ac6692e0da5bd968583612e626e69496]: Commencement: Reg. 1 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-9be17141f81ba323408d333cd7faaf38]: Commencement: Reg. 2 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-9be17141f81ba323408d333cd7faaf38]: Commencement: Reg. 2 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-738d6cf53f8e0fd6b84fcccd43561639]: Commencement: Reg. 3 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-738d6cf53f8e0fd6b84fcccd43561639]: Commencement: Reg. 3 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-1f824753ebae93b352bfd2729676013f]: Commencement: Reg. 4 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-1f824753ebae93b352bfd2729676013f]: Commencement: Reg. 4 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-3851da42932567f7d3bd1ca2cd9359b8]: Commencement: Sch. para. 1 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-3851da42932567f7d3bd1ca2cd9359b8]: Commencement: Sch. para. 1 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-3dac95fd195d2efeaf9cefcf6f42de90]: Commencement: Sch. para. 2 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-3dac95fd195d2efeaf9cefcf6f42de90]: Commencement: Sch. para. 2 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-9308f59c8e780588a28425d103cb1a79]: Commencement: Sch. para. 3 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-9308f59c8e780588a28425d103cb1a79]: Commencement: Sch. para. 3 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-dec014cadfa3d15996a387245fa0a1be]: Commencement: Sch. para. 4 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-dec014cadfa3d15996a387245fa0a1be]: Commencement: Sch. para. 4 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-21bee79b7bc346a986762fa6c0c7bb15]: Commencement: Sch. para. 5 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-21bee79b7bc346a986762fa6c0c7bb15]: Commencement: Sch. para. 5 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-6b16dcadb01dcae3ba4a698090b69231]: Commencement: Sch. para. 6 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-6b16dcadb01dcae3ba4a698090b69231]: Commencement: Sch. para. 6 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-0206109ce190f4610bc0481759ab95f0]: Commencement: Sch. para. 7 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-0206109ce190f4610bc0481759ab95f0]: Commencement: Sch. para. 7 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-8cff4c013f1e35e81d6ad046ac404001]: Commencement: Sch. para. 8 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-8cff4c013f1e35e81d6ad046ac404001]: Commencement: Sch. para. 8 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-12c2a9c58081a3479eaf6a9c4a7188c5]: Commencement: Sch. para. 9 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-12c2a9c58081a3479eaf6a9c4a7188c5]: Commencement: Sch. para. 9 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-2ffbc513b8469190e50591f851fdefe1]: Commencement: Sch. para. 10 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-2ffbc513b8469190e50591f851fdefe1]: Commencement: Sch. para. 10 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-69e1282973387faea45e2306a1129567]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/64/schedule/paragraph/10) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/27) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-69e1282973387faea45e2306a1129567]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/64/schedule/paragraph/10) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/27) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-e68f5920ab5a2360d97e2cd721787e4e]: Commencement: Sch. para. 11 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-e68f5920ab5a2360d97e2cd721787e4e]: Commencement: Sch. para. 11 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-d04ba0402e8409c10fc6435ce78b110f]: Commencement: Sch. para. 12 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-d04ba0402e8409c10fc6435ce78b110f]: Commencement: Sch. para. 12 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-d2f584d428fd2a8ccd300380fc7f8d2f]: Commencement: Sch. para. 13 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-d2f584d428fd2a8ccd300380fc7f8d2f]: Commencement: Sch. para. 13 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-5dd049e354fe3dce13134eb3da8e9bcd]: Commencement: Sch. para. 14 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-5dd049e354fe3dce13134eb3da8e9bcd]: Commencement: Sch. para. 14 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-16424ca2b1ee5d3e84c55382a062ceb4]: Commencement: Sch. para. 15 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-16424ca2b1ee5d3e84c55382a062ceb4]: Commencement: Sch. para. 15 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-5b13311ef94846b8f392f9c668a0c735]: Commencement: Sch. para. 16 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-5b13311ef94846b8f392f9c668a0c735]: Commencement: Sch. para. 16 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
 [^f00005]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-d6260688490220aebd037d20360ecfff]: Commencement: Sch. para. 17 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-d6260688490220aebd037d20360ecfff]: Commencement: Sch. para. 17 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-4fe9762b8562f5c6cb81d5058a509b46]: Commencement: Sch. para. 18 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-4fe9762b8562f5c6cb81d5058a509b46]: Commencement: Sch. para. 18 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-8788899989c73508982ce28c7d2bfb0a]: Commencement: Sch. para. 19 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-8788899989c73508982ce28c7d2bfb0a]: Commencement: Sch. para. 19 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-d0b9fcf0f05efcf56049a14783d2d190]: Commencement: Sch. para. 20 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-d0b9fcf0f05efcf56049a14783d2d190]: Commencement: Sch. para. 20 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-ce52810ac067ea5228af7845c3834fc6]: Commencement: Sch. para. 21 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-ce52810ac067ea5228af7845c3834fc6]: Commencement: Sch. para. 21 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-ad579050b9729abdd7826961e4a24088]: Commencement: Sch. para. 22 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-ad579050b9729abdd7826961e4a24088]: Commencement: Sch. para. 22 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-da9e0a4c464aa254f80b9b07bfe8ce4c]: Commencement: Sch. para. 23 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-da9e0a4c464aa254f80b9b07bfe8ce4c]: Commencement: Sch. para. 23 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-1c3523a7ceff173029fcf7b7de5c73b8]: Commencement: Sch. para. 24 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-1c3523a7ceff173029fcf7b7de5c73b8]: Commencement: Sch. para. 24 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-d07cc62fcf6b6b4fd292ab7d59db03c2]: Commencement: Sch. para. 25 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-d07cc62fcf6b6b4fd292ab7d59db03c2]: Commencement: Sch. para. 25 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-c4612dd6eb3d26c2214bbed2a585bb04]: Commencement: Sch. para. 26 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-c4612dd6eb3d26c2214bbed2a585bb04]: Commencement: Sch. para. 26 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-60615c99a2f5b2f06260aa5e0b06bcf0]: Commencement: Sch. para. 27 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-60615c99a2f5b2f06260aa5e0b06bcf0]: Commencement: Sch. para. 27 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-48da660348f6be106e6bf0301cda5037]: Commencement: Sch. para. 28 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-48da660348f6be106e6bf0301cda5037]: Commencement: Sch. para. 28 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-7ac34bd33bc48f38f716310a7d9c1af2]: Commencement: Sch. para. 29 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-7ac34bd33bc48f38f716310a7d9c1af2]: Commencement: Sch. para. 29 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
-[^key-56203b2def2a58f8fb20e04d9d9d300b]: Commencement: Sch. para. 30 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
+[^c-56203b2def2a58f8fb20e04d9d9d300b]: Commencement: Sch. para. 30 in force at 8.2.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/64/regulation/1/1)
 
 [^f00006]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).

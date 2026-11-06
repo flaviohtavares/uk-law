@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Procedure for examination[^key-d611cbb447ce10b060f1b335a15dac71]
+## 92. Procedure for examination[^c-d611cbb447ce10b060f1b335a15dac71]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d611cbb447ce10b060f1b335a15dac71]: Commencement: [Rule 92](https://www.legislation.gov.uk/uksi/2007/3141/rule/92) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-d611cbb447ce10b060f1b335a15dac71]: Commencement: [Rule 92](https://www.legislation.gov.uk/uksi/2007/3141/rule/92) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

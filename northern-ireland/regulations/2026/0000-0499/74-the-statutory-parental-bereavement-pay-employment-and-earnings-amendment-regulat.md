@@ -48,7 +48,7 @@ The Department for the Economy makes the following Regulations in exercise of th
 
 ## PART 1
 
-### 1. Citation, commencement and interpretation[^key-94d8d9d41cc46e37853022ece6edf6ec]
+### 1. Citation, commencement and interpretation[^c-94d8d9d41cc46e37853022ece6edf6ec]
 
 (1) These Regulations may be cited as the Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 6th April 2026.
 
@@ -56,7 +56,7 @@ The Department for the Economy makes the following Regulations in exercise of th
 
 ## PART 2 — Amendments for continuous employment and earnings
 
-### 2. Amendments to the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^key-fbd50f42d081bbcd699ff1f9d50a40a9]
+### 2. Amendments to the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^c-fbd50f42d081bbcd699ff1f9d50a40a9]
 
 (1) The Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^f00007] are amended in accordance with paragraphs (2) to (9).
 
@@ -220,7 +220,7 @@ The Department for the Economy makes the following Regulations in exercise of th
 
 ## PART 3 — Amendments
 
-**3.**[^key-175f2a9b1cb8c40a3db7d5fb580416e8] (1) The Statutory Parental Bereavement Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2022[^f00008] are amended in accordance with paragraphs (2) to (7).
+**3.**[^c-175f2a9b1cb8c40a3db7d5fb580416e8] (1) The Statutory Parental Bereavement Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2022[^f00008] are amended in accordance with paragraphs (2) to (7).
 
 (2) In regulation 2(1) (interpretation) in the definition of “General Regulations” for “the Statutory Parental Bereavement Pay (General) Regulations (Northern Ireland) 2022”, substitute “the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023”.
 
@@ -329,15 +329,15 @@ An impact assessment has been prepared for these Regulations which was published
 
 [^f00005]: Footnote: Regulations made by the Department for the Economy pursuant to [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), section 167ZZ16, must, by virtue of that section, be made with the concurrence of the Commissioners of His Majesty’s Treasury
 
-[^key-94d8d9d41cc46e37853022ece6edf6ec]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1)
+[^c-94d8d9d41cc46e37853022ece6edf6ec]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fbd50f42d081bbcd699ff1f9d50a40a9]: Commencement: Reg. 2 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1)
+[^c-fbd50f42d081bbcd699ff1f9d50a40a9]: Commencement: Reg. 2 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2023 No. 155](https://www.legislation.gov.uk/nisr/2023/155); relevant amending rule is [S.R. 2025/64](https://www.legislation.gov.uk/nisr/2025/64), arts. 1(1)(d), 10(3)
 
-[^key-175f2a9b1cb8c40a3db7d5fb580416e8]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1)
+[^c-175f2a9b1cb8c40a3db7d5fb580416e8]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2022 No. 170](https://www.legislation.gov.uk/nisr/2022/170)
 

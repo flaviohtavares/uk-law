@@ -191,14 +191,14 @@ For the purpose of this Regulation:
 - 4.. ‘technical promotional material’ means technical manuals, brochures, leaflets and catalogues (whether these appear in printed, electronic or online form), as well as websites, the purpose of which is to market tyres to end-users or distributors and that describe the specific technical parameters of a tyre;
 - 5.. ‘technical documentation’ means information relating to tyres, including the manufacturer and brand of the tyre; description of the tyre type or the grouping of tyres determined for the declaration of the fuel efficiency class, wet grip class and external rolling noise class and measured value; test reports and testing accuracy;
 - 6.. ‘manufacturer’ means any natural or legal person who manufactures a product, or has a product designed or manufactured and markets that product under his name or trademark;
-- 7.. ‘importer’ means any natural or legal person established within Great Britain[^key-f2ee6597a6b229c6a26091b5c2bcf45b] who places a product from a third country on the Great Britain[^key-643f61a16c91381924f75c25658f7705] market;
-- 8.. ‘authorised representative’ means any natural or legal person established within Great Britain[^key-a2e3b8dfb5acbcdf69683752f23a12ee] who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks with regard to the latter's obligations under this Regulation;
-- 9.. ‘supplier’ means the manufacturer or its authorised representative in Great Britain[^key-93869407ef63d8bc512011379195e309] or the importer;
+- 7.. ‘importer’ means any natural or legal person established within Great Britain[^c-f2ee6597a6b229c6a26091b5c2bcf45b] who places a product from a third country on the Great Britain[^c-643f61a16c91381924f75c25658f7705] market;
+- 8.. ‘authorised representative’ means any natural or legal person established within Great Britain[^c-a2e3b8dfb5acbcdf69683752f23a12ee] who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks with regard to the latter's obligations under this Regulation;
+- 9.. ‘supplier’ means the manufacturer or its authorised representative in Great Britain[^c-93869407ef63d8bc512011379195e309] or the importer;
 - 10.. ‘distributor’ means any natural or legal person in the supply chain, other than the supplier or the importer, who makes a tyre available on the market;
-- 11.. ‘making available on the market’ means any supply of a product for distribution or use on the Great Britain[^key-787ee1a85156d119c257114221c145ec] market in the course of a commercial activity, whether in return for payment or free of charge;
+- 11.. ‘making available on the market’ means any supply of a product for distribution or use on the Great Britain[^c-787ee1a85156d119c257114221c145ec] market in the course of a commercial activity, whether in return for payment or free of charge;
 - 12.. ‘end-user’ means a consumer, as well as a fleet manager or road transport undertaking, that buys or is expected to buy a tyre;
 - 13.. ‘essential parameter’ means a tyre parameter such as rolling resistance, wet grip or external rolling noise that has a notable impact on the environment, road safety or health during use.
-- 14.. ‘Union flag’ means the Union flag of the United Kingdom.[^key-52bb4919b16cfcae15a29d3fce0f6730]
+- 14.. ‘Union flag’ means the Union flag of the United Kingdom.[^c-52bb4919b16cfcae15a29d3fce0f6730]
 
 ## Article 4. Responsibilities of tyre suppliers
 
@@ -209,13 +209,13 @@ For the purpose of this Regulation:
   or
 - (b) for each batch of one or more identical tyres delivered, accompanied by a label in printed format indicating the fuel efficiency class as set out in Annex I, Part A, the external rolling noise class and measured value as set out in Annex I, Part C and, where applicable, the wet grip class as set out in Annex I, Part B.
 
-2. The format of the sticker and the label referred to in paragraph 1 shall , subject to paragraph 2a,[^key-0782b0c35b5c6dd462d47c7a172c049b] be as prescribed in Annex II.
+2. The format of the sticker and the label referred to in paragraph 1 shall , subject to paragraph 2a,[^c-0782b0c35b5c6dd462d47c7a172c049b] be as prescribed in Annex II.
 
-2a.[^key-0bfbf7aaafab813bfce56bc8d884aa9b] The label referred to in paragraph 1 may incorporate the Union flag in place of the EU logo. Where a label incorporates the Union flag, the Union flag must be in the same location as that specified for the EU logo in point 1.2 of Annex II and of the same dimensions as those specified for the EU logo in point 1.4 of Annex II.
+2a.[^c-0bfbf7aaafab813bfce56bc8d884aa9b] The label referred to in paragraph 1 may incorporate the Union flag in place of the EU logo. Where a label incorporates the Union flag, the Union flag must be in the same location as that specified for the EU logo in point 1.2 of Annex II and of the same dimensions as those specified for the EU logo in point 1.4 of Annex II.
 
 3. Suppliers shall state the fuel efficiency class, the external rolling noise class and measured value and, where applicable, the wet grip class, of C1, C2 and C3 tyres in technical promotional material, including on their websites, as set out in Annex I, in the order specified in Annex III.
 
-4. Suppliers shall make technical documentation available to the Secretary of State[^key-525c6c932af3a6ed6341154c30a2158e] on request, for a period ending five years after the last tyre of a given tyre type has been made available on the market. The technical documentation shall be sufficiently detailed as to allow the Secretary of State[^key-d8912d7519c0da4719b3aa31829e3bb0] to verify the accuracy of information provided on the label with regard to fuel efficiency, wet grip and external rolling noise.
+4. Suppliers shall make technical documentation available to the Secretary of State[^c-525c6c932af3a6ed6341154c30a2158e] on request, for a period ending five years after the last tyre of a given tyre type has been made available on the market. The technical documentation shall be sufficiently detailed as to allow the Secretary of State[^c-d8912d7519c0da4719b3aa31829e3bb0] to verify the accuracy of information provided on the label with regard to fuel efficiency, wet grip and external rolling noise.
 
 ## Article 5. Responsibilities of tyre distributors
 
@@ -240,19 +240,19 @@ The information to be provided under Articles 4, 5 and 6 on the fuel efficienc
 
 ## Article 8. Verification procedure
 
-The Secretary of State[^key-197ab1859cdadb4c34ec69499f1c7ba0] shall assess the conformity of the declared fuel efficiency and wet grip classes, within the meaning of Annex I, Parts A and B, and the declared external rolling noise class and measured value within the meaning of Annex I, Part C, in accordance with the procedure set out in Annex IV.
+The Secretary of State[^c-197ab1859cdadb4c34ec69499f1c7ba0] shall assess the conformity of the declared fuel efficiency and wet grip classes, within the meaning of Annex I, Parts A and B, and the declared external rolling noise class and measured value within the meaning of Annex I, Part C, in accordance with the procedure set out in Annex IV.
 
 ## Article 9. Internal market
 
-1. Where the requirements of this Regulation are complied with, the Secretary of State[^key-c20fc462ace90789460004702d84559a] shall neither prohibit nor restrict the making available on the market of the tyres referred to in Article 2 on grounds of product information.
+1. Where the requirements of this Regulation are complied with, the Secretary of State[^c-c20fc462ace90789460004702d84559a] shall neither prohibit nor restrict the making available on the market of the tyres referred to in Article 2 on grounds of product information.
 
-2. Unless the Secretary of State has[^key-4f07d6b31450d133565c7c90f2a746d9] evidence to the contrary, the Secretary of State[^key-a558381322ee4057faf0845be4b7c988] shall consider that labels and product information comply with this Regulation. The Secretary of State[^key-74abd3410598aee26e5740fbf99d9dc1] may require suppliers to provide technical documentation, in accordance with Article 4(4), in order to assess the accuracy of the declared values and classes.
+2. Unless the Secretary of State has[^c-4f07d6b31450d133565c7c90f2a746d9] evidence to the contrary, the Secretary of State[^c-a558381322ee4057faf0845be4b7c988] shall consider that labels and product information comply with this Regulation. The Secretary of State[^c-74abd3410598aee26e5740fbf99d9dc1] may require suppliers to provide technical documentation, in accordance with Article 4(4), in order to assess the accuracy of the declared values and classes.
 
 ## Article 10. Incentives
 
-The Secretary of State[^key-d8d50cee102ca14375363c1d378a431b] shall not provide incentives with regard to tyres below class C with respect to either fuel efficiency or wet grip within the meaning of Annex I, Parts A and B respectively. Taxation and fiscal measures do not constitute incentives for the purpose of this Regulation.
+The Secretary of State[^c-d8d50cee102ca14375363c1d378a431b] shall not provide incentives with regard to tyres below class C with respect to either fuel efficiency or wet grip within the meaning of Annex I, Parts A and B respectively. Taxation and fiscal measures do not constitute incentives for the purpose of this Regulation.
 
-## Article 11. Amendments and adaptations to technical progress[^key-9bda0172999f2f010dd4612ebb2a6473]
+## Article 11. Amendments and adaptations to technical progress[^c-9bda0172999f2f010dd4612ebb2a6473]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -260,7 +260,7 @@ The Secretary of State[^key-d8d50cee102ca14375363c1d378a431b] shall not provide 
 
 In accordance with Regulation (EC) No 765/2008 Member States shall ensure that the authorities responsible for market surveillance verify compliance with Articles 4, 5 and 6 of this Regulation.
 
-## Article 12a. Exercise of the delegation[^key-23b3a483c1360b4c1f713872923fd7ab]
+## Article 12a. Exercise of the delegation[^c-23b3a483c1360b4c1f713872923fd7ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -270,7 +270,7 @@ In accordance with Regulation (EC) No 765/2008 Member States shall ensure that 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Review[^key-f2a75dc87eeb44449b8fb9355fecc52b]
+## Article 14. Review[^c-f2a75dc87eeb44449b8fb9355fecc52b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -284,7 +284,7 @@ This Regulation shall enter into force on the 20th day following its publication
 
 This Regulation shall apply from 1 November 2012.
 
-[^key-9a532f914bd509973f7c3dd1803b1cab]...
+[^c-9a532f914bd509973f7c3dd1803b1cab]...
 
 ## ANNEX I — GRADING OF TYRE PARAMETERS
 
@@ -466,7 +466,7 @@ The information provided in point 1 must meet the following requirements:
 
 Suppliers must also make the following available on their websites:
 
-- ((i)) a link to the relevant United Kingdom Government[^key-3458a5560342b539bcc86583957cc210] webpage dedicated to this Regulation;
+- ((i)) a link to the relevant United Kingdom Government[^c-3458a5560342b539bcc86583957cc210] webpage dedicated to this Regulation;
 - ((ii)) an explanation of the pictograms printed on the label;
 - ((iii)) a statement highlighting the fact that actual fuel savings and road safety depend heavily on the behaviour of drivers, and in particular the following:
   - eco-driving can significantly reduce fuel consumption,
@@ -480,7 +480,7 @@ The conformity of the declared fuel efficiency and wet grip classes, as well as 
 - ((a))
   - ((i)) a single tyre or tyre set is tested first. If the measured values meet the declared classes or external rolling noise declared value to within the tolerance defined in Table 1, the test is successfully passed; and
   - ((ii)) if the measured values do not meet the declared classes or external rolling noise declared value within the range defined in Table 1, three more tyres or tyre sets are tested. The average measurement value stemming from the three tyres or tyre sets tested is used to assess conformity with the declared information within the range defined in Table 1; or
-- ((b)) where the labelled classes or values are derived from type approval test results obtained in accordance with Directive 2001/43/EC, Regulation (EC) No 661/2009, or UNECE Regulation No 117 and its subsequent amendments, the Secretary of State[^key-9221df99b806d1ef4955dcbb75a2a1fb] may make use of measurement data obtained from conformity of production tests on tyres.
+- ((b)) where the labelled classes or values are derived from type approval test results obtained in accordance with Directive 2001/43/EC, Regulation (EC) No 661/2009, or UNECE Regulation No 117 and its subsequent amendments, the Secretary of State[^c-9221df99b806d1ef4955dcbb75a2a1fb] may make use of measurement data obtained from conformity of production tests on tyres.
 
 Assessment of the measurement data obtained from the conformity of production tests must take into account the allowances defined in Table 1.
 
@@ -1383,53 +1383,53 @@ Test report of wet grip index using passenger car method
 
 [^f00007]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-f2ee6597a6b229c6a26091b5c2bcf45b]: Textual amendment: Words in Art. 3(7) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/a/i)
+[^c-f2ee6597a6b229c6a26091b5c2bcf45b]: Textual amendment: Words in Art. 3(7) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/a/i)
 
-[^key-643f61a16c91381924f75c25658f7705]: Textual amendment: Words in Art. 3(7) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/a/ii)
+[^c-643f61a16c91381924f75c25658f7705]: Textual amendment: Words in Art. 3(7) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/a/ii)
 
-[^key-a2e3b8dfb5acbcdf69683752f23a12ee]: Textual amendment: Words in Art. 3(8) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(b)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/b)
+[^c-a2e3b8dfb5acbcdf69683752f23a12ee]: Textual amendment: Words in Art. 3(8) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(b)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/b)
 
-[^key-93869407ef63d8bc512011379195e309]: Textual amendment: Words in Art. 3(9) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(c)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/c)
+[^c-93869407ef63d8bc512011379195e309]: Textual amendment: Words in Art. 3(9) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(c)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/c)
 
-[^key-787ee1a85156d119c257114221c145ec]: Textual amendment: Words in Art. 3(11) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(d)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/d)
+[^c-787ee1a85156d119c257114221c145ec]: Textual amendment: Words in Art. 3(11) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(d)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/d)
 
-[^key-52bb4919b16cfcae15a29d3fce0f6730]: Textual amendment: Art. 3(14) inserted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(e)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/e)
+[^c-52bb4919b16cfcae15a29d3fce0f6730]: Textual amendment: Art. 3(14) inserted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(2)(e)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/2/e)
 
-[^key-0782b0c35b5c6dd462d47c7a172c049b]: Textual amendment: Words in Art. 4(2) inserted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(a)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/a)
+[^c-0782b0c35b5c6dd462d47c7a172c049b]: Textual amendment: Words in Art. 4(2) inserted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(a)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/a)
 
-[^key-0bfbf7aaafab813bfce56bc8d884aa9b]: Textual amendment: Art. 4(2a) inserted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(b)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/b)
+[^c-0bfbf7aaafab813bfce56bc8d884aa9b]: Textual amendment: Art. 4(2a) inserted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(b)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/b)
 
-[^key-525c6c932af3a6ed6341154c30a2158e]: Textual amendment: Words in Art. 4(4) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/c/i)
+[^c-525c6c932af3a6ed6341154c30a2158e]: Textual amendment: Words in Art. 4(4) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/c/i)
 
-[^key-d8912d7519c0da4719b3aa31829e3bb0]: Textual amendment: Words in Art. 4(4) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/c/ii)
+[^c-d8912d7519c0da4719b3aa31829e3bb0]: Textual amendment: Words in Art. 4(4) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/3/c/ii)
 
-[^key-197ab1859cdadb4c34ec69499f1c7ba0]: Textual amendment: Words in Art. 8 substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(4)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/4)
+[^c-197ab1859cdadb4c34ec69499f1c7ba0]: Textual amendment: Words in Art. 8 substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(4)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/4)
 
-[^key-c20fc462ace90789460004702d84559a]: Textual amendment: Words in Art. 9(1) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(a)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/a)
+[^c-c20fc462ace90789460004702d84559a]: Textual amendment: Words in Art. 9(1) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(a)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/a)
 
-[^key-4f07d6b31450d133565c7c90f2a746d9]: Textual amendment: Words in Art. 9(2) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/b/i)
+[^c-4f07d6b31450d133565c7c90f2a746d9]: Textual amendment: Words in Art. 9(2) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/b/i)
 
-[^key-a558381322ee4057faf0845be4b7c988]: Textual amendment: Words in Art. 9(2) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/b/ii)
+[^c-a558381322ee4057faf0845be4b7c988]: Textual amendment: Words in Art. 9(2) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/b/ii)
 
-[^key-74abd3410598aee26e5740fbf99d9dc1]: Textual amendment: Words in Art. 9(2) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/b/iii)
+[^c-74abd3410598aee26e5740fbf99d9dc1]: Textual amendment: Words in Art. 9(2) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(5)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/5/b/iii)
 
-[^key-d8d50cee102ca14375363c1d378a431b]: Textual amendment: Words in Art. 10 substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(6)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/6)
+[^c-d8d50cee102ca14375363c1d378a431b]: Textual amendment: Words in Art. 10 substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(6)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/6)
 
-[^key-9bda0172999f2f010dd4612ebb2a6473]: Textual amendment: Art. 11 omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(7)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/7)
+[^c-9bda0172999f2f010dd4612ebb2a6473]: Textual amendment: Art. 11 omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(7)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/7)
 
-[^key-23b3a483c1360b4c1f713872923fd7ab]: Textual amendment: Art. 12a omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(7)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/7)
+[^c-23b3a483c1360b4c1f713872923fd7ab]: Textual amendment: Art. 12a omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(7)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/7)
 
 [^c000003]: Textual amendment: Deleted by [Regulation (EU) 2019/1243 of the European Parliament and of the Council of 20 June 2019 adapting a number of legal acts providing for the use of the regulatory procedure with scrutiny to Articles 290 and 291 of the Treaty on the Functioning of the European Union (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/1243).
 
-[^key-f2a75dc87eeb44449b8fb9355fecc52b]: Textual amendment: Art. 14 omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(7)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/7)
+[^c-f2a75dc87eeb44449b8fb9355fecc52b]: Textual amendment: Art. 14 omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(7)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/7)
 
-[^key-9a532f914bd509973f7c3dd1803b1cab]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(8)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/8)
+[^c-9a532f914bd509973f7c3dd1803b1cab]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(8)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/8)
 
 [^c000004]: Textual amendment: Substituted by [Commission Regulation (EU) No 1235/2011 of 29 November 2011 amending Regulation (EC) No 1222/2009 of the European Parliament and of the Council with regard to the wet grip grading of tyres, the measurement of rolling resistance and the verification procedure (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/1235).
 
-[^key-3458a5560342b539bcc86583957cc210]: Textual amendment: Words in Annex 3 para. 3(i) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(9)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/9)
+[^c-3458a5560342b539bcc86583957cc210]: Textual amendment: Words in Annex 3 para. 3(i) substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(9)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/9)
 
-[^key-9221df99b806d1ef4955dcbb75a2a1fb]: Textual amendment: Words in Annex 4 substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(10)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/10)
+[^c-9221df99b806d1ef4955dcbb75a2a1fb]: Textual amendment: Words in Annex 4 substituted (31.12.2020) by [The Motor Vehicle Tyres (Labelling) (Enforcement) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1509)](https://www.legislation.gov.uk/uksi/2020/1509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/1/3), [18(10)](https://www.legislation.gov.uk/uksi/2020/1509/regulation/18/10)
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EU) No 1235/2011 of 29 November 2011 amending Regulation (EC) No 1222/2009 of the European Parliament and of the Council with regard to the wet grip grading of tyres, the measurement of rolling resistance and the verification procedure (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/1235).
 

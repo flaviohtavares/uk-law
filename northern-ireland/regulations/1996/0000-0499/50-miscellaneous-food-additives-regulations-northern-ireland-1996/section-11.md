@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Transitional provisions and exemptions[^key-01de9443cefde1f5bcb502a1c4d33426]
+## 11. Transitional provisions and exemptions[^c-01de9443cefde1f5bcb502a1c4d33426]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01de9443cefde1f5bcb502a1c4d33426]: Commencement: Reg. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-01de9443cefde1f5bcb502a1c4d33426]: Commencement: Reg. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

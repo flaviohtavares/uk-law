@@ -31,7 +31,7 @@ summary: ''
 
 (2) In section 25(1C) of the Betting and Gaming Duties Act 1981 (“prize machine”) for “an amusement machine is a prize machine” substitute “ a machine is a prize machine ”.
 
-(3)[^key-d4e31ea2529b7262a0df08f3d603f4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d4e31ea2529b7262a0df08f3d603f4d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subsections (1) and (2) shall have effect in relation to the provision of a machine on or after 1st August 2006.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e31ea2529b7262a0df08f3d603f4d0]: Textual amendment: S. 11(3) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/10) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-d4e31ea2529b7262a0df08f3d603f4d0]: Textual amendment: S. 11(3) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/10) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

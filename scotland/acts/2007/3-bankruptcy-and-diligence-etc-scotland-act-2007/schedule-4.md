@@ -24,7 +24,7 @@ summary: ''
 
 ### Definition of “maritime lien”
 
-**1.**[^key-df0b85f32e93ec700853db5257f0a186] In section 48 of the Administration of Justice Act 1956 (c. 46) (in this Act, the “1956 Act”)—
+**1.**[^c-df0b85f32e93ec700853db5257f0a186] In section 48 of the Administration of Justice Act 1956 (c. 46) (in this Act, the “1956 Act”)—
 
 - (a) the existing words become subsection (1);
 - (b) paragraph (d) is repealed; and
@@ -34,13 +34,13 @@ summary: ''
 
   .
 
-**2.**[^key-db859657fd98efe62137561bb7dbcc3d] In sections 45(5) and 47(3)(b), (4)(b) and (5) of the 1956 Act, before the word “lien” in each place where it occurs, insert the word “ maritime ”.
+**2.**[^c-db859657fd98efe62137561bb7dbcc3d] In sections 45(5) and 47(3)(b), (4)(b) and (5) of the 1956 Act, before the word “lien” in each place where it occurs, insert the word “ maritime ”.
 
-**3.**[^key-4c61c65b0e98a8d8510c16c7fbdf3be1] In section 47(2)(r) of the 1956 Act, for “or hypothecation of” substitute “ , hypothecation of or existence of any other charge on ”.
+**3.**[^c-4c61c65b0e98a8d8510c16c7fbdf3be1] In section 47(2)(r) of the 1956 Act, for “or hypothecation of” substitute “ , hypothecation of or existence of any other charge on ”.
 
 ### The term “admiralty action”
 
-**4.**[^key-928a805b61aa23b691688958f51b92c7] In section 47 of the 1956 Act—
+**4.**[^c-928a805b61aa23b691688958f51b92c7] In section 47 of the 1956 Act—
 
 - (a) in subsection (2)(h), after “bond” insert “ or contract of respondentia ”;
 - (b) after subsection (2), insert—
@@ -50,13 +50,13 @@ summary: ''
   ;
 - (c) in subsection (3), for “the last preceding subsection” substitute “ subsection (2) above ”.
 
-**5.**[^key-d4abbab2d975a476f05cdb1eb39a3417] (1) In paragraph 7 of schedule 5 to the Civil Jurisdiction and Judgements Act 1982 (c. 27), for “Admiralty cause” substitute “ admiralty action ”.
+**5.**[^c-d4abbab2d975a476f05cdb1eb39a3417] (1) In paragraph 7 of schedule 5 to the Civil Jurisdiction and Judgements Act 1982 (c. 27), for “Admiralty cause” substitute “ admiralty action ”.
 
 (2) In paragraph 6 of schedule 9 to that Act, for “causes” substitute “ actions ”.
 
 ### Arrestment in rem granted by the sheriff
 
-**6.**[^key-052065f10e0ac0a547cc368144318130] After section 47 of the 1956 Act, insert—
+**6.**[^c-052065f10e0ac0a547cc368144318130] After section 47 of the 1956 Act, insert—
 
 > **47A. Execution of warrant to arrest in rem and of order for sale**
 >
@@ -71,7 +71,7 @@ summary: ''
 
 ### Arrestment on the dependence
 
-**7.**[^key-e426ff8597cea60912061084358fcb28] (1) Section 47 of the 1956 Act is amended as follows.
+**7.**[^c-e426ff8597cea60912061084358fcb28] (1) Section 47 of the 1956 Act is amended as follows.
 
 (2) In subsection (1)—
 
@@ -103,7 +103,7 @@ summary: ''
 
 ### Liability for losses and expenses
 
-**8.**[^key-26dd05d5e46942d4702b1ac5f8fddee4] After section 47A of the 1956 Act (as inserted by paragraph 6 above), insert—
+**8.**[^c-26dd05d5e46942d4702b1ac5f8fddee4] After section 47A of the 1956 Act (as inserted by paragraph 6 above), insert—
 
 > **47B. Expenses**
 >
@@ -143,7 +143,7 @@ summary: ''
 
 ### Factors affecting arrestments
 
-**9.**[^key-6d4206b706be8b6e656b5c12402a7ded] After section 47B of the 1956 Act (as inserted by paragraph 8 above), insert—
+**9.**[^c-6d4206b706be8b6e656b5c12402a7ded] After section 47B of the 1956 Act (as inserted by paragraph 8 above), insert—
 
 > **47C. Competence of arresting cargo**
 >
@@ -159,7 +159,7 @@ summary: ''
 
 ### Cargo on board a ship exempt from attachment
 
-**10.**[^key-1f2342f25dcbb078603ea825052a6563] In section 11 of the 2002 Act (articles exempt from attachment), at the end insert—
+**10.**[^c-1f2342f25dcbb078603ea825052a6563] In section 11 of the 2002 Act (articles exempt from attachment), at the end insert—
 
 > (3) It is not competent to attach cargo which it is competent to arrest by virtue of section 47C of the Administration of Justice Act 1956 (c. 46) (competence of arresting cargo).
 
@@ -167,7 +167,7 @@ summary: ''
 
 ### Location of a ship when arrestment executed
 
-**11.**[^key-53bb2331b655f030f5e8f6bd6596da00] In section 47 of the 1956 Act—
+**11.**[^c-53bb2331b655f030f5e8f6bd6596da00] In section 47 of the 1956 Act—
 
 - (a) after subsection (5), insert—
 
@@ -180,7 +180,7 @@ summary: ''
 
 ### Demise charters
 
-**12.**[^key-d81f58a5b9cf8c94f752cfc3443345e2] After section 47D of the 1956 Act (as inserted by paragraph 9 above) insert—
+**12.**[^c-d81f58a5b9cf8c94f752cfc3443345e2] After section 47D of the 1956 Act (as inserted by paragraph 9 above) insert—
 
 > **Special provision in relation to charters by demise**
 >
@@ -231,32 +231,32 @@ summary: ''
 
 .
 
-**13.**[^key-833ddb654403739ad47bb44065ad6eb7] In section 6(c) of the Sheriff Courts (Scotland) Act 1907 (c. 51) (competence of arresting a ship to found jurisdiction in sheriff court), after “owner”, where it second occurs, insert “ or demise charterer ”.
+**13.**[^c-833ddb654403739ad47bb44065ad6eb7] In section 6(c) of the Sheriff Courts (Scotland) Act 1907 (c. 51) (competence of arresting a ship to found jurisdiction in sheriff court), after “owner”, where it second occurs, insert “ or demise charterer ”.
 
 ## Annotations
 
-[^key-df0b85f32e93ec700853db5257f0a186]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/1) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-df0b85f32e93ec700853db5257f0a186]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/1) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-db859657fd98efe62137561bb7dbcc3d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/2) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-db859657fd98efe62137561bb7dbcc3d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/2) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-4c61c65b0e98a8d8510c16c7fbdf3be1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/3) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-4c61c65b0e98a8d8510c16c7fbdf3be1]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/3) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-928a805b61aa23b691688958f51b92c7]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/4) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-928a805b61aa23b691688958f51b92c7]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/4) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-d4abbab2d975a476f05cdb1eb39a3417]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/5) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-d4abbab2d975a476f05cdb1eb39a3417]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/5) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-052065f10e0ac0a547cc368144318130]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/6) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-052065f10e0ac0a547cc368144318130]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/6) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-e426ff8597cea60912061084358fcb28]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/7) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-e426ff8597cea60912061084358fcb28]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/7) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-26dd05d5e46942d4702b1ac5f8fddee4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/8) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-26dd05d5e46942d4702b1ac5f8fddee4]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/8) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-6d4206b706be8b6e656b5c12402a7ded]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/9) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-6d4206b706be8b6e656b5c12402a7ded]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/9) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-1f2342f25dcbb078603ea825052a6563]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/10) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-1f2342f25dcbb078603ea825052a6563]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/10) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-53bb2331b655f030f5e8f6bd6596da00]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/11) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-53bb2331b655f030f5e8f6bd6596da00]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/11) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-d81f58a5b9cf8c94f752cfc3443345e2]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/12) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-d81f58a5b9cf8c94f752cfc3443345e2]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/12) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
 
-[^key-833ddb654403739ad47bb44065ad6eb7]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/13) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))
+[^c-833ddb654403739ad47bb44065ad6eb7]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/asp/2007/3/schedule/4/paragraph/13) in force at 1.7.2010 by [S.S.I. 2010/249](https://www.legislation.gov.uk/ssi/2010/249), [art. 2](https://www.legislation.gov.uk/ssi/2010/249/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/249/article/3))

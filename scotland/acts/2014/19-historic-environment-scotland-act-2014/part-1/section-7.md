@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Borrowing and lending of objects[^key-c664b1d19626f2b42fd26bc7ffd941a8]
+## 7. Borrowing and lending of objects[^c-c664b1d19626f2b42fd26bc7ffd941a8]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c664b1d19626f2b42fd26bc7ffd941a8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/19/section/7) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-c664b1d19626f2b42fd26bc7ffd941a8]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/19/section/7) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duty of employee to assist with completion of new employee fields[^key-a106bd9e8ddb9af934b33f9952335646]
+## 10. Duty of employee to assist with completion of new employee fields[^c-a106bd9e8ddb9af934b33f9952335646]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After regulation 40 and before the heading “Chapter 2” insert—
 
 ## Annotations
 
-[^key-a106bd9e8ddb9af934b33f9952335646]: Commencement: Reg. 10 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-a106bd9e8ddb9af934b33f9952335646]: Commencement: Reg. 10 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Power to direct vessel or marine installation to port[^key-349062c1d5c82a3e31678d7776613270]
+## 147. Power to direct vessel or marine installation to port[^c-349062c1d5c82a3e31678d7776613270]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the officer may do any of the things in subsection (2).
 
 ## Annotations
 
-[^key-349062c1d5c82a3e31678d7776613270]: Commencement: [S. 147](https://www.legislation.gov.uk/asp/2010/5/section/147) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-349062c1d5c82a3e31678d7776613270]: Commencement: [S. 147](https://www.legislation.gov.uk/asp/2010/5/section/147) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

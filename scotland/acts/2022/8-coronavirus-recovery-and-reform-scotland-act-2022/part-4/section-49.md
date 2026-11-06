@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Tenancies: transitional provision[^key-add8b66a28764f8de045d2c4374f0069]
+## 49. Tenancies: transitional provision[^c-add8b66a28764f8de045d2c4374f0069]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-add8b66a28764f8de045d2c4374f0069]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2022/8/section/49) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-add8b66a28764f8de045d2c4374f0069]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2022/8/section/49) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

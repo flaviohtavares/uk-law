@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-1b24ae8c21834f06332d4e87ed36ee44]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-1b24ae8c21834f06332d4e87ed36ee44]
 
 *Extent: E+W+S*
 
 Article 5
 
-[^key-1b24ae8c21834f06332d4e87ed36ee44]
+[^c-1b24ae8c21834f06332d4e87ed36ee44]
 
 In this Schedule—
 
@@ -30,13 +30,13 @@ In this Schedule—
 - “the Poplar to Stratford and Beckton Railway” means that part of the Docklands Light Railway that operates between Poplar Station in the London borough of Tower Hamlets and Stratford and Beckton Stations in the London borough of Newham; and
 - “the Canary Wharf to Lewisham Railway” means that part of the Docklands Light Railway that operates between Canary Wharf Station in the London borough of Tower Hamlets and Lewisham Station in the London borough of Lewisham.
 
-[^key-1b24ae8c21834f06332d4e87ed36ee44]
+[^c-1b24ae8c21834f06332d4e87ed36ee44]
 
 In the City of London and the London borough of Tower Hamlets
 
 - Work No. 1—A railway (143 metres in length), being a deviation of the Tower Gateway to Westferry Railway, commencing in the City of London at a point 60 metres north west of the junction of Mansell Street with Royal Mint Street and terminating in the London borough of Tower Hamlets at a point on that railway 150 metres north east of the junction of those streets.
 
-[^key-1b24ae8c21834f06332d4e87ed36ee44]
+[^c-1b24ae8c21834f06332d4e87ed36ee44]
 
 In the London borough of Tower Hamlets
 
@@ -48,7 +48,7 @@ In the London borough of Tower Hamlets
 - Work No. 7—A railway (112 metres in length) being a realignment of a siding of the Canary Wharf to Lewisham Railway at Mudchute Station commencing at a point 225 metres north of the junction of Thermopylae Gate with Spindrift Avenue and terminating at a point 112 metres south of its commencement.
 - Work No. 8—A railway (176 metres in length) being a deviation of the Canary Wharf to Lewisham Railway commencing at a point 308 metres north of the junction of Spindrift Avenue with Thermopylae Gate and terminating at a point on that railway 132 metres north of that junction.
 
-[^key-1b24ae8c21834f06332d4e87ed36ee44]
+[^c-1b24ae8c21834f06332d4e87ed36ee44]
 
 In the London borough of Newham
 
@@ -57,4 +57,4 @@ In the London borough of Newham
 
 ## Annotations
 
-[^key-1b24ae8c21834f06332d4e87ed36ee44]: Commencement: Sch. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-1b24ae8c21834f06332d4e87ed36ee44]: Commencement: Sch. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

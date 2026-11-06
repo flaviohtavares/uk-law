@@ -27,9 +27,9 @@ summary: ''
 - (a) publicising, and promoting awareness of, information about—
   - (i) health service providers for the purpose of enabling a person to choose a health service provider in accordance with arrangements that the relevant body has made pursuant to regulation 39(1),
   - (ii) consultant-led teams for the purpose of enabling a person to choose a clinically appropriate team in accordance with arrangements that the relevant body has made pursuant to regulation 39(1), and
-  - (iii) teams led by health care professionals providing mental health services for the purpose of enabling a person to choose a clinically appropriate team in accordance with arrangements that the relevant body has made pursuant to regulation 39(1)[^key-5dec31a4fb6261a83ef19a3ceee93de3]; and
+  - (iii) teams led by health care professionals providing mental health services for the purpose of enabling a person to choose a clinically appropriate team in accordance with arrangements that the relevant body has made pursuant to regulation 39(1)[^c-5dec31a4fb6261a83ef19a3ceee93de3]; and
 - (b) publicising details, and promoting awareness, of where that information may be found.
 
 ## Annotations
 
-[^key-5dec31a4fb6261a83ef19a3ceee93de3]: Textual amendment: Words in [reg. 42(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/42/2/a/iii) substituted (1.4.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/4/4)
+[^c-5dec31a4fb6261a83ef19a3ceee93de3]: Textual amendment: Words in [reg. 42(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2996/regulation/42/2/a/iii) substituted (1.4.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/4/4)

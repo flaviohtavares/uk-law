@@ -30,7 +30,7 @@ summary: ''
 
 STATUTORY MATERNITY PAY
 
-The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-deaca61de89838356ee1fc196a4045d7]
+The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-deaca61de89838356ee1fc196a4045d7]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 6th April 1998
 
-[^key-deaca61de89838356ee1fc196a4045d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deaca61de89838356ee1fc196a4045d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-deaca61de89838356ee1fc196a4045d7]
+## 1. Citation and commencement[^c-deaca61de89838356ee1fc196a4045d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations[^key-deaca61de89838356ee1fc196a4045d7]
+## 2. Amendment of the Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendment Regulations[^c-deaca61de89838356ee1fc196a4045d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-deaca61de89838356ee1fc196a4045d7]
+## 3. Revocation[^c-deaca61de89838356ee1fc196a4045d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-deaca61de89838356ee1fc196a4045d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deaca61de89838356ee1fc196a4045d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-deaca61de89838356ee1fc196a4045d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deaca61de89838356ee1fc196a4045d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-deaca61de89838356ee1fc196a4045d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/62) revoked (6.4.1999) by [The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/65)](https://www.legislation.gov.uk/nisr/1999/65), [regs. 1](https://www.legislation.gov.uk/nisr/1999/65/regulation/1), [3](https://www.legislation.gov.uk/nisr/1999/65/regulation/3)
+[^c-deaca61de89838356ee1fc196a4045d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/62) revoked (6.4.1999) by [The Statutory Maternity Pay (Compensation of Employers) (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/65)](https://www.legislation.gov.uk/nisr/1999/65), [regs. 1](https://www.legislation.gov.uk/nisr/1999/65/regulation/1), [3](https://www.legislation.gov.uk/nisr/1999/65/regulation/3)

@@ -18,9 +18,9 @@ summary: ''
 
 In this Part—
 
-- “**appeal**”, except in rule 44(2) (application for permission to appeal),[^key-dc77c43d82b2a9b0261140904e6ad16f] means the exercise of a right of appeal under section 13 of the 2007 Act; and
+- “**appeal**”, except in rule 44(2) (application for permission to appeal),[^c-dc77c43d82b2a9b0261140904e6ad16f] means the exercise of a right of appeal under section 13 of the 2007 Act; and
 - “**review**” means the review of a decision by the Upper Tribunal under section 10 of the 2007 Act.
 
 ## Annotations
 
-[^key-dc77c43d82b2a9b0261140904e6ad16f]: Textual amendment: Words in rule 41 inserted (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [22](https://www.legislation.gov.uk/uksi/2009/274/article/22)
+[^c-dc77c43d82b2a9b0261140904e6ad16f]: Textual amendment: Words in rule 41 inserted (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [22](https://www.legislation.gov.uk/uksi/2009/274/article/22)

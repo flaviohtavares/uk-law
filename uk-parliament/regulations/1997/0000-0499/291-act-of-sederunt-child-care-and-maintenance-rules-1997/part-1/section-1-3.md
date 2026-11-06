@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.3. Affidavits[^key-928b6ff5f6c983718e75d24b14bf38b0]
+## 1.3. Affidavits[^c-928b6ff5f6c983718e75d24b14bf38b0]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ An affidavit required in terms of any provision of this Act of Sederunt may be e
 
 ## Annotations
 
-[^key-928b6ff5f6c983718e75d24b14bf38b0]: Commencement: Rule 1.3 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-928b6ff5f6c983718e75d24b14bf38b0]: Commencement: Rule 1.3 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

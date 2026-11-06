@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Amendment of regulation S2[^key-04d953d9f3afb6cee38abffc6f1d9601]
+## 57. Amendment of regulation S2[^c-04d953d9f3afb6cee38abffc6f1d9601]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04d953d9f3afb6cee38abffc6f1d9601]: Commencement: Reg. 57 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-04d953d9f3afb6cee38abffc6f1d9601]: Commencement: Reg. 57 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

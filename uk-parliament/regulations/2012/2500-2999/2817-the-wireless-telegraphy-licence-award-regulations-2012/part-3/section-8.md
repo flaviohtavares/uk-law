@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Changes to existing spectrum holdings before recording[^key-e899531d86b08cf41520806369be01f0]
+## 8. Changes to existing spectrum holdings before recording[^c-e899531d86b08cf41520806369be01f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If an applicant or, in relation to an applicant, any person referred to in regul
 
 ## Annotations
 
-[^key-e899531d86b08cf41520806369be01f0]: Commencement: Reg. 8 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e899531d86b08cf41520806369be01f0]: Commencement: Reg. 8 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

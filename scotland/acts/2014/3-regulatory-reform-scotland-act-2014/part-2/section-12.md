@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Primary authorities: power to make further provision[^key-09b6f94997e0b7d1d06c61a423a80ac9]
+## 12. Primary authorities: power to make further provision[^c-09b6f94997e0b7d1d06c61a423a80ac9]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b6f94997e0b7d1d06c61a423a80ac9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/3/section/12) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-09b6f94997e0b7d1d06c61a423a80ac9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/3/section/12) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

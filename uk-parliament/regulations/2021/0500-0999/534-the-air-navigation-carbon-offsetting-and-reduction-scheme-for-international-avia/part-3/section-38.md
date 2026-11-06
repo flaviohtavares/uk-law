@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Error correction to Emissions Reports[^key-d055fc43db067c5a02f42e647108e518]
+## 38. Error correction to Emissions Reports[^c-d055fc43db067c5a02f42e647108e518]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d055fc43db067c5a02f42e647108e518]: Commencement: Art. 38 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-d055fc43db067c5a02f42e647108e518]: Commencement: Art. 38 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

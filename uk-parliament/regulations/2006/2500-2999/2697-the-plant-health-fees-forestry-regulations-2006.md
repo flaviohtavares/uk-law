@@ -32,7 +32,7 @@ summary: ''
 
 plant health
 
-The Plant Health (Fees) (Forestry) Regulations 2006 (revoked)[^key-090538a1afe6533f773252d624e4a517]
+The Plant Health (Fees) (Forestry) Regulations 2006 (revoked)[^c-090538a1afe6533f773252d624e4a517]
 
 Made
 
@@ -46,61 +46,61 @@ Coming into force
 
 6th November 2006
 
-[^key-090538a1afe6533f773252d624e4a517]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-090538a1afe6533f773252d624e4a517]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-090538a1afe6533f773252d624e4a517]
+## 1. Title and commencement[^c-090538a1afe6533f773252d624e4a517]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-090538a1afe6533f773252d624e4a517]
+## 2. Interpretation[^c-090538a1afe6533f773252d624e4a517]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-090538a1afe6533f773252d624e4a517]
+## 3. Fees[^c-090538a1afe6533f773252d624e4a517]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-090538a1afe6533f773252d624e4a517]
+## 4. Revocations[^c-090538a1afe6533f773252d624e4a517]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-090538a1afe6533f773252d624e4a517]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-090538a1afe6533f773252d624e4a517]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees for inspections related to an authority[^key-090538a1afe6533f773252d624e4a517]
+## SCHEDULE 1 — Fees for inspections related to an authority[^c-090538a1afe6533f773252d624e4a517]
 
 Regulation 3(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Fees in connection with applications and for inspections related to a licence[^key-090538a1afe6533f773252d624e4a517]
+## SCHEDULE 2 — Fees in connection with applications and for inspections related to a licence[^c-090538a1afe6533f773252d624e4a517]
 
 Regulation 3(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Fees for Plant Health Checks[^key-090538a1afe6533f773252d624e4a517]
+## SCHEDULE 3 — Fees for Plant Health Checks[^c-090538a1afe6533f773252d624e4a517]
 
 Regulation 3(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3A — Reduced Rate Plant Health Check Fees[^key-090538a1afe6533f773252d624e4a517]
+## SCHEDULE 3A — Reduced Rate Plant Health Check Fees[^c-090538a1afe6533f773252d624e4a517]
 
 Regulation 3(4A)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Fees for Documentary Checks and Identity Checks[^key-090538a1afe6533f773252d624e4a517]
+## SCHEDULE 4 — Fees for Documentary Checks and Identity Checks[^c-090538a1afe6533f773252d624e4a517]
 
 Regulation 3(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Fees for the carrying out or monitoring of remedial work[^key-090538a1afe6533f773252d624e4a517]
+## SCHEDULE 5 — Fees for the carrying out or monitoring of remedial work[^c-090538a1afe6533f773252d624e4a517]
 
 Regulation 3(5)
 
@@ -108,7 +108,7 @@ Regulation 3(5)
 
 **No longer in force.**
 
-[^key-090538a1afe6533f773252d624e4a517]EXPLANATORY NOTE
+[^c-090538a1afe6533f773252d624e4a517]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -128,6 +128,6 @@ A full regulatory impact assessment has been prepared and placed in the Library 
 
 ## Annotations
 
-[^key-090538a1afe6533f773252d624e4a517]: Textual amendment: Regulations revoked (E.S) (6.4.2015) by [The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 (S.I. 2015/350)](https://www.legislation.gov.uk/uksi/2015/350), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/350/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2015/350/regulation/4/a)
+[^c-090538a1afe6533f773252d624e4a517]: Textual amendment: Regulations revoked (E.S) (6.4.2015) by [The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 (S.I. 2015/350)](https://www.legislation.gov.uk/uksi/2015/350), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/350/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2015/350/regulation/4/a)
 
     Regulations revoked (W.) (28.3.2019) by [The Plant Health (Fees) (Forestry) (Wales) Regulations 2019 (S.I. 2019/497)](https://www.legislation.gov.uk/wsi/2019/497), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/497/regulation/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2019/497/regulation/4/a)

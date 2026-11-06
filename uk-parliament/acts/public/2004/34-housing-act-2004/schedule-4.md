@@ -35,7 +35,7 @@ Sections 67 and 90
 
 *Extent: E*
 
-- (c)[^key-49cef7d7169f9b1079f6bc30bdbc995b] where the house is in England, additionally—
+- (c)[^c-49cef7d7169f9b1079f6bc30bdbc995b] where the house is in England, additionally—
   - (i) to ensure that every electrical installation in the house is in proper working order and safe for continued use; and
   - (ii) to supply the authority, on demand, with a declaration by him as to the safety of such installations;
 - (d (Extent: E)) for the purposes of paragraph (c) “electrical installation” has the meaning given in regulation 2(1) of the Building Regulations 2010. *(Extent: E)*
@@ -54,7 +54,7 @@ Sections 67 and 90
 
 (4A)[^M_F_0abc3dd7-f94b-443e-ad07-69460d6c6d59] Where the house is in England, conditions requiring the licence holder—
 
-- (a) to ensure that a carbon monoxide alarm is installed in any room in the house which is used wholly or partly as living accommodation and contains a fixed combustion appliance other than a gas cooker[^key-04c24f6e3626fd1dbbc1fc84c6135c35];
+- (a) to ensure that a carbon monoxide alarm is installed in any room in the house which is used wholly or partly as living accommodation and contains a fixed combustion appliance other than a gas cooker[^c-04c24f6e3626fd1dbbc1fc84c6135c35];
 - (b) to keep any such alarm in proper working order; and
 - (c) to supply the authority, on demand, with a declaration by him as to the condition and positioning of any such alarm.
 
@@ -66,7 +66,7 @@ Sections 67 and 90
 
 (7) For the purposes of sub-paragraphs (4) and (4A), a bathroom or lavatory is to be treated as a room used as living accommodation.
 
-### Additional conditions to be included in licences under Part 2: floor area etc[^key-ef4d605eff2f340b33fe3d51582d300a]
+### Additional conditions to be included in licences under Part 2: floor area etc[^c-ef4d605eff2f340b33fe3d51582d300a]
 
 **1A.** (1) Where the HMO is in England, a licence under Part 2 must include the following conditions.
 
@@ -145,7 +145,7 @@ and which require the licence holder to rectify the breach within the specified 
 
 [^c2051762]: Commencement: Sch. 4 para. 1 wholly in force at 16.6.2006; Sch. 4 para. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 4 para. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 4 para. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-49cef7d7169f9b1079f6bc30bdbc995b]: Textual amendment: Sch. 4 para. 1(3)(c)(d) inserted (E.) (with application in accordance with reg. 1(3) of the amending S.I.) by [The Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020 (S.I. 2020/312)](https://www.legislation.gov.uk/uksi/2020/312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/312/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/312/regulation/13)
+[^c-49cef7d7169f9b1079f6bc30bdbc995b]: Textual amendment: Sch. 4 para. 1(3)(c)(d) inserted (E.) (with application in accordance with reg. 1(3) of the amending S.I.) by [The Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020 (S.I. 2020/312)](https://www.legislation.gov.uk/uksi/2020/312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/312/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2020/312/regulation/13)
 
 [^M_F_69a5c827-57f8-47e1-c2cb-098db1592527]: Textual amendment: Sch. 4 para. 1(4)(za) inserted (1.10.2015) by [The Smoke and Carbon Monoxide Alarm (England) Regulations 2015 (S.I. 2015/1693)](https://www.legislation.gov.uk/uksi/2015/1693), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1), [15(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/15/1/a/i) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/15/2)) (as amended (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/2))
 
@@ -155,11 +155,11 @@ and which require the licence holder to rectify the breach within the specified 
 
 [^M_F_0abc3dd7-f94b-443e-ad07-69460d6c6d59]: Textual amendment: Sch. 4 para. 1(4A) inserted (1.10.2015) by [The Smoke and Carbon Monoxide Alarm (England) Regulations 2015 (S.I. 2015/1693)](https://www.legislation.gov.uk/uksi/2015/1693), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1), [15(1)(b)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/15/1/b) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/15/2)) (as amended (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/2))
 
-[^key-04c24f6e3626fd1dbbc1fc84c6135c35]: Textual amendment: Words in [Sch. 4 para. 1(4A)(a)](https://www.legislation.gov.uk/ukpga/2004/34/schedule/4/paragraph/1/4A/a) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/13/2))
+[^c-04c24f6e3626fd1dbbc1fc84c6135c35]: Textual amendment: Words in [Sch. 4 para. 1(4A)(a)](https://www.legislation.gov.uk/ukpga/2004/34/schedule/4/paragraph/1/4A/a) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/13/1) (with [reg. 13(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/13/2))
 
 [^M_F_076e71c6-ee5e-4f62-887b-7aa1ab82e4d2]: Textual amendment: Sch. 4 para. 1(6)(7) inserted (1.10.2015) by [The Smoke and Carbon Monoxide Alarm (England) Regulations 2015 (S.I. 2015/1693)](https://www.legislation.gov.uk/uksi/2015/1693), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1), [15(1)(c)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/15/1/c) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/15/2)) (as amended (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/2))
 
-[^key-ef4d605eff2f340b33fe3d51582d300a]: Textual amendment: [Sch. 4 paras. 1A-1C](https://www.legislation.gov.uk/ukpga/2004/34/schedule/4/paragraph/1A) inserted (1.10.2018) by [The Licensing of Houses in Multiple Occupation (Mandatory Conditions of Licences) (England) Regulations 2018 (S.I. 2018/616)](https://www.legislation.gov.uk/uksi/2018/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/616/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/2))
+[^c-ef4d605eff2f340b33fe3d51582d300a]: Textual amendment: [Sch. 4 paras. 1A-1C](https://www.legislation.gov.uk/ukpga/2004/34/schedule/4/paragraph/1A) inserted (1.10.2018) by [The Licensing of Houses in Multiple Occupation (Mandatory Conditions of Licences) (England) Regulations 2018 (S.I. 2018/616)](https://www.legislation.gov.uk/uksi/2018/616), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/616/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/616/regulation/1/2))
 
 [^c2051763]: Commencement: Sch. 4 para. 2 wholly in force at 16.6.2006; Sch. 4 para. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 4 para. 2 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 4 para. 2 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 

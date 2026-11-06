@@ -32,7 +32,7 @@ summary: ''
 
 Registers And Records
 
-The Fees in the Registers of Scotland (Consequential Provisions) Amendment Order 2013 (revoked)[^key-2c60d98c88792e62f7698aedfe979db6]
+The Fees in the Registers of Scotland (Consequential Provisions) Amendment Order 2013 (revoked)[^c-2c60d98c88792e62f7698aedfe979db6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2013
 
-[^key-2c60d98c88792e62f7698aedfe979db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c60d98c88792e62f7698aedfe979db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2c60d98c88792e62f7698aedfe979db6]
+## 1. Citation and commencement[^c-2c60d98c88792e62f7698aedfe979db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fees in the Registers of Scotland Order 1995[^key-2c60d98c88792e62f7698aedfe979db6]
+## 2. Amendment of the Fees in the Registers of Scotland Order 1995[^c-2c60d98c88792e62f7698aedfe979db6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c60d98c88792e62f7698aedfe979db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c60d98c88792e62f7698aedfe979db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2c60d98c88792e62f7698aedfe979db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c60d98c88792e62f7698aedfe979db6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c60d98c88792e62f7698aedfe979db6]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2013/59) revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/188/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2)
+[^c-2c60d98c88792e62f7698aedfe979db6]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2013/59) revoked (8.12.2014) by [The Registers of Scotland (Fees) Order 2014 (S.S.I. 2014/188)](https://www.legislation.gov.uk/ssi/2014/188), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/188/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/188/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2014/188/schedule/2)

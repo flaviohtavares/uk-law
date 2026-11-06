@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Local authority and statutory undertakers' land: general[^key-4141caf68b87a5434f0b700013635ffc]
+## 128. Local authority and statutory undertakers' land: general[^c-4141caf68b87a5434f0b700013635ffc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4141caf68b87a5434f0b700013635ffc]: Textual amendment: S. 129 repealed (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/6)); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1124/article/7))
+[^c-4141caf68b87a5434f0b700013635ffc]: Textual amendment: S. 129 repealed (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/27/section/24/6)); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 4(c)](https://www.legislation.gov.uk/uksi/2013/1124/article/4/c) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1124/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Records relating to storage of manure during the storage period[^key-7c17c8818876bcddf52985f56a1a26d0]
+## 34. Records relating to storage of manure during the storage period[^c-7c17c8818876bcddf52985f56a1a26d0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c17c8818876bcddf52985f56a1a26d0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2021/77/regulation/34) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-7c17c8818876bcddf52985f56a1a26d0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2021/77/regulation/34) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

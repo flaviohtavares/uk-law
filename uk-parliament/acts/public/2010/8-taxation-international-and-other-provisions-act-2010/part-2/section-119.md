@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If tax would have been chargeable under the law of one or more [^key-c01143dfb2838ff3930cf696950779d4]... member States in respect of the transfer mentioned in section 118(6)(a), (b) or (c) but for the Mergers Directive, this Part applies, and any double taxation arrangements apply, as if that tax had been chargeable.
+(1) If tax would have been chargeable under the law of one or more [^c-c01143dfb2838ff3930cf696950779d4]... member States in respect of the transfer mentioned in section 118(6)(a), (b) or (c) but for the Mergers Directive, this Part applies, and any double taxation arrangements apply, as if that tax had been chargeable.
 
 (2) In calculating tax notionally chargeable under subsection (1) in respect of the transfer mentioned in section 118(6)(a) or (b), it is to be assumed—
 
-- (a) that, to the extent permitted by the law of the [^key-fd25e934346a290352b4feb99b1ab86a]... member State, losses arising on that transfer are set against gains arising on that transfer, and
+- (a) that, to the extent permitted by the law of the [^c-fd25e934346a290352b4feb99b1ab86a]... member State, losses arising on that transfer are set against gains arising on that transfer, and
 - (b) that any relief due to company A under that law is claimed.
 
 (3) Subsection (1) does not apply if—
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c01143dfb2838ff3930cf696950779d4]: Textual amendment: Word in [s. 119(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/119/1) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(5)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/5) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c01143dfb2838ff3930cf696950779d4]: Textual amendment: Word in [s. 119(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/119/1) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(5)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/5) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd25e934346a290352b4feb99b1ab86a]: Textual amendment: Word in [s. 119(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/119/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(5)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/5) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd25e934346a290352b4feb99b1ab86a]: Textual amendment: Word in [s. 119(2)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/119/2/a) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(5)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/5) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

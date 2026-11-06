@@ -102,7 +102,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-##### Sentence of detention during Her Majesty’s pleasure: review of minimum term[^key-6e92c05e1902e9a7e9c3ca7b4cd0269e]
+##### Sentence of detention during Her Majesty’s pleasure: review of minimum term[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]
 
 - [Section 27A — Sentence of detention during Her Majesty’s pleasure imposed on a person under 18: application for minimum term review](part-ii/section-27a.md)
 - [Section 27B — Power of High Court to reduce minimum term](part-ii/section-27b.md)
@@ -126,17 +126,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 32ZZA — Imprisonment or detention for public protection: powers in relation to release of recalled prisoners](part-ii/section-32zza.md)
 - [Section 32ZA — Offence of remaining unlawfully at large after recall](part-ii/section-32za.md)
 
-##### Referral of release decisions to High Court[^key-0b8bdae35707ac80e69b8d3722384d33]
+##### Referral of release decisions to High Court[^c-0b8bdae35707ac80e69b8d3722384d33]
 
 - [Section 32ZAA — Referral of release decisions to High Court](part-ii/section-32zaa.md)
 - [Section 32ZAB — Specified offences](part-ii/section-32zab.md)
 - [Section 32ZAC — Powers of the High Court](part-ii/section-32zac.md)
 
-##### Release at the direction of Parole Board[^key-9a338e622d03a8715b8a2deb7b8f1902]
+##### Release at the direction of Parole Board[^c-9a338e622d03a8715b8a2deb7b8f1902]
 
 - [Section 32ZB — Release at direction of Parole Board: timing](part-ii/section-32zb.md)
 
-##### Persons liable to removal from the United Kingdom[^key-57ec11412a6cf5de79ce1756544890c4]
+##### Persons liable to removal from the United Kingdom[^c-57ec11412a6cf5de79ce1756544890c4]
 
 *Extent: E+W*
 
@@ -224,10 +224,10 @@ SCHEDULES
 
 [^c11465381]: Modification: Pt. II Ch. II excluded (1.9.2001) by [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17), [s. 42](https://www.legislation.gov.uk/ukpga/2001/17/section/42), [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/ukpga/2001/17/schedule/7/paragraph/3/1) (with [s. 78](https://www.legislation.gov.uk/ukpga/2001/17/section/78)); [S.I. 2001/2161](https://www.legislation.gov.uk/uksi/2001/2161), [art. 2](https://www.legislation.gov.uk/uksi/2001/2161/article/2)
 
-[^key-6e92c05e1902e9a7e9c3ca7b4cd0269e]: Textual amendment: [Ss. 27A](https://www.legislation.gov.uk/ukpga/1997/43/section/27A), [27B](https://www.legislation.gov.uk/ukpga/1997/43/section/27B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/1), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]: Textual amendment: [Ss. 27A](https://www.legislation.gov.uk/ukpga/1997/43/section/27A), [27B](https://www.legislation.gov.uk/ukpga/1997/43/section/27B) and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/128/1), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
 
-[^key-0b8bdae35707ac80e69b8d3722384d33]: Textual amendment: Ss. 32ZAA-32ZAC and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/61/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)
+[^c-0b8bdae35707ac80e69b8d3722384d33]: Textual amendment: Ss. 32ZAA-32ZAC and cross-heading inserted (31.12.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/61/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)
 
-[^key-9a338e622d03a8715b8a2deb7b8f1902]: Textual amendment: S. 32ZB and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 139(1)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/139/1/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-9a338e622d03a8715b8a2deb7b8f1902]: Textual amendment: S. 32ZB and cross-heading inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 139(1)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/139/1/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
 
-[^key-57ec11412a6cf5de79ce1756544890c4]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 119](https://www.legislation.gov.uk/ukpga/2012/10/section/119), [151(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/b) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15))
+[^c-57ec11412a6cf5de79ce1756544890c4]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 119](https://www.legislation.gov.uk/ukpga/2012/10/section/119), [151(2)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/b) (with [Sch. 15](https://www.legislation.gov.uk/ukpga/2012/10/schedule/15))

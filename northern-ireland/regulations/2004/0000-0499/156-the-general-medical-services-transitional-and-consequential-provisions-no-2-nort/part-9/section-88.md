@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Meaning of suitable experience[^key-a16fddcdab872ae04f80a0630ace619e]
+## 88. Meaning of suitable experience[^c-a16fddcdab872ae04f80a0630ace619e]
 
 *Extent: N.I.*
 
-(1) Until either the establishment of the General Practitioner Register pursuant to Article 10(1) of the 2003 Order or the coming into force of paragraphs 21 and 22 of Schedule 8 to that Order, whichever occurs first,[^key-4967a68030f187b1defe189a4d007804] of the 2003 Order, where, in any statutory provision, there is a reference to a medical practitioner being “suitably experienced” within the meaning of Article 8(2) of the Health and Personal Social Services (Northern Ireland) Order 1978[^f00043], that reference shall be construed in accordance with sub-paragraph (2).
+(1) Until either the establishment of the General Practitioner Register pursuant to Article 10(1) of the 2003 Order or the coming into force of paragraphs 21 and 22 of Schedule 8 to that Order, whichever occurs first,[^c-4967a68030f187b1defe189a4d007804] of the 2003 Order, where, in any statutory provision, there is a reference to a medical practitioner being “suitably experienced” within the meaning of Article 8(2) of the Health and Personal Social Services (Northern Ireland) Order 1978[^f00043], that reference shall be construed in accordance with sub-paragraph (2).
 
 (2) A medical practitioner shall, pursuant to sub-paragraph (1), be regarded as being “suitably experienced” if he –
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-a16fddcdab872ae04f80a0630ace619e]: Commencement: Art. 88 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-a16fddcdab872ae04f80a0630ace619e]: Commencement: Art. 88 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
-[^key-4967a68030f187b1defe189a4d007804]: Textual amendment: Words in [art. 88](https://www.legislation.gov.uk/nisr/2004/156/article/88) substituted (25.8.2005) by [The General Medical Services Transitional and Consequential Provisions (No.2) (Amendment) Order (Northern Ireland) 2005 (S.R. 2005/369)](https://www.legislation.gov.uk/nisr/2005/369), [arts. 1](https://www.legislation.gov.uk/nisr/2005/369/article/1), [3](https://www.legislation.gov.uk/nisr/2005/369/article/3)
+[^c-4967a68030f187b1defe189a4d007804]: Textual amendment: Words in [art. 88](https://www.legislation.gov.uk/nisr/2004/156/article/88) substituted (25.8.2005) by [The General Medical Services Transitional and Consequential Provisions (No.2) (Amendment) Order (Northern Ireland) 2005 (S.R. 2005/369)](https://www.legislation.gov.uk/nisr/2005/369), [arts. 1](https://www.legislation.gov.uk/nisr/2005/369/article/1), [3](https://www.legislation.gov.uk/nisr/2005/369/article/3)
 
 [^f00043]: Footnote: [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)
 

@@ -36,7 +36,7 @@ An Act to make provision about meeting the needs of persons with Down syndrome; 
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Guidance on meeting the needs of persons with Down syndrome[^key-59d8a9f10f8700ce095c530252031e42][^key-c7fed5aedcda249635ee787b91f51821]
+## 1. Guidance on meeting the needs of persons with Down syndrome[^c-59d8a9f10f8700ce095c530252031e42][^c-c7fed5aedcda249635ee787b91f51821]
 
 (1) The Secretary of State must give guidance to relevant authorities on steps it would be appropriate for them to take in order to meet the needs of persons with Down syndrome in the exercise of their relevant functions.
 
@@ -52,7 +52,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) For the meaning of “relevant authorities” and “relevant functions”, see the Schedule.
 
-## 2. Extent, commencement and short title[^key-32659874a58dc8773c54465d4253528b][^key-a5920c560ea2d3c9ad3f1858acf65e33]
+## 2. Extent, commencement and short title[^c-32659874a58dc8773c54465d4253528b][^c-a5920c560ea2d3c9ad3f1858acf65e33]
 
 (1) This Act extends to England and Wales.
 
@@ -64,17 +64,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 Section 1
 
-### 1. Introductory[^key-0bed34d508a3a265e070c32941329204][^key-bd11e347ed416c891eaf1dff60b4e9ec]
+### 1. Introductory[^c-0bed34d508a3a265e070c32941329204][^c-bd11e347ed416c891eaf1dff60b4e9ec]
 
 (1) In this Act, “**relevant authority**” means a person to whom any of paragraphs 2 to 5 applies.
 
 (2) Those paragraphs also set out the functions that are the “relevant functions” of the relevant authorities for the purposes of this Act.
 
-### 2. National Health Service[^key-25b262cb0219d64d4721a6d7c6981e59][^key-5115c822881a5b9bf17c5c35d0ae90f8]
+### 2. National Health Service[^c-25b262cb0219d64d4721a6d7c6981e59][^c-5115c822881a5b9bf17c5c35d0ae90f8]
 
 (1) This paragraph applies to—
 
-- (a)[^key-ef9b1049ee7a432caff4e8d550700eb6] NHS England,
+- (a)[^c-ef9b1049ee7a432caff4e8d550700eb6] NHS England,
 - (b) an integrated care board,
 - (c) a Special Health Authority established under section 28 of the National Health Service Act 2006,
 - (d) a National Health Service trust established under section 25 of that Act, and
@@ -82,7 +82,7 @@ Section 1
 
 (2) The “relevant functions” of a person to whom this paragraph applies are all of its functions, so far as exercisable in or in relation to England.
 
-### 3. Social care[^key-7dec791a8ea4c43e2c49a431dacb8391][^key-9bd356e81c7feeabb3c32ce6d7a1a717]
+### 3. Social care[^c-7dec791a8ea4c43e2c49a431dacb8391][^c-9bd356e81c7feeabb3c32ce6d7a1a717]
 
 (1) This paragraph applies to—
 
@@ -99,7 +99,7 @@ Section 1
 - (c) its functions under Part 1 of the Care Act 2014 (care and support);
 - (d) its functions under Part 3 of the Children and Families Act 2014 (special educational needs or disabilities).
 
-### 4. Housing[^key-ef2bb1f5d65e2fea2f7afd808c5d6c93][^key-e78ca1bfd9bb300379dcd416878a9cd5]
+### 4. Housing[^c-ef2bb1f5d65e2fea2f7afd808c5d6c93][^c-e78ca1bfd9bb300379dcd416878a9cd5]
 
 (1) This paragraph applies to—
 
@@ -115,7 +115,7 @@ Section 1
 - (b) Part 6 of the Housing Act 1996 (allocation of housing);
 - (c) Part 7 of the Housing Act 1996 (homelessness assistance).
 
-### 5. Education and youth offending[^key-f91b215ad231d5069c1122b4eb135cc4][^key-4de67d4d9a45874f68d8c3bd60616c69]
+### 5. Education and youth offending[^c-f91b215ad231d5069c1122b4eb135cc4][^c-4de67d4d9a45874f68d8c3bd60616c69]
 
 (1) This paragraph applies to—
 
@@ -134,32 +134,32 @@ Section 1
 
 ## Annotations
 
-[^key-59d8a9f10f8700ce095c530252031e42]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-59d8a9f10f8700ce095c530252031e42]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-c7fed5aedcda249635ee787b91f51821]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/18/section/1) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-c7fed5aedcda249635ee787b91f51821]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/18/section/1) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
 
-[^key-32659874a58dc8773c54465d4253528b]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-32659874a58dc8773c54465d4253528b]: Commencement: S. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-a5920c560ea2d3c9ad3f1858acf65e33]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/18/section/2) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-a5920c560ea2d3c9ad3f1858acf65e33]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/18/section/2) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
 
-[^key-0bed34d508a3a265e070c32941329204]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-0bed34d508a3a265e070c32941329204]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-bd11e347ed416c891eaf1dff60b4e9ec]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/1) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-bd11e347ed416c891eaf1dff60b4e9ec]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/1) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
 
-[^key-25b262cb0219d64d4721a6d7c6981e59]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-25b262cb0219d64d4721a6d7c6981e59]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-5115c822881a5b9bf17c5c35d0ae90f8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/2) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-5115c822881a5b9bf17c5c35d0ae90f8]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/2) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
 
-[^key-ef9b1049ee7a432caff4e8d550700eb6]: Textual amendment: [Sch. paras. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/2/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/2/1/b) substituted (12.12.2025) by [The Health and Care Act 2022 (Consequential Amendments) Regulations 2025 (S.I. 2025/1312)](https://www.legislation.gov.uk/uksi/2025/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1312/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1312/regulation/2)
+[^c-ef9b1049ee7a432caff4e8d550700eb6]: Textual amendment: [Sch. paras. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/2/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/2/1/b) substituted (12.12.2025) by [The Health and Care Act 2022 (Consequential Amendments) Regulations 2025 (S.I. 2025/1312)](https://www.legislation.gov.uk/uksi/2025/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1312/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1312/regulation/2)
 
-[^key-7dec791a8ea4c43e2c49a431dacb8391]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-7dec791a8ea4c43e2c49a431dacb8391]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-9bd356e81c7feeabb3c32ce6d7a1a717]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/3) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-9bd356e81c7feeabb3c32ce6d7a1a717]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/3) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
 
-[^key-ef2bb1f5d65e2fea2f7afd808c5d6c93]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-ef2bb1f5d65e2fea2f7afd808c5d6c93]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-e78ca1bfd9bb300379dcd416878a9cd5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/4) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-e78ca1bfd9bb300379dcd416878a9cd5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/4) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
 
-[^key-f91b215ad231d5069c1122b4eb135cc4]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
+[^c-f91b215ad231d5069c1122b4eb135cc4]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/18/section/2/2)
 
-[^key-4de67d4d9a45874f68d8c3bd60616c69]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/5) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)
+[^c-4de67d4d9a45874f68d8c3bd60616c69]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2022/18/schedule/paragraph/5) in force at 18.3.2024 by [S.I. 2024/373](https://www.legislation.gov.uk/uksi/2024/373), [reg. 2](https://www.legislation.gov.uk/uksi/2024/373/regulation/2)

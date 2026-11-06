@@ -306,7 +306,7 @@ relief for any loss made (or treated as made) in an accounting period ending on 
 
 are treated as having been issued on or after 7 March 2001 in respect of any part of the relevant period which falls on or after that date.
 
-(4) In relation to shares issued before 6 April 1998, section 78 applies with the substitution for subsections (2) to (4)[^key-9047e6f8a908a402ca40bd466b4dce0d] of—
+(4) In relation to shares issued before 6 April 1998, section 78 applies with the substitution for subsections (2) to (4)[^c-9047e6f8a908a402ca40bd466b4dce0d] of—
 
 > (2) Condition A is that the company either—
 >
@@ -323,7 +323,7 @@ are treated as having been issued on or after 7 March 2001 in respect of any par
 > - (a) beginning with the incorporation of the company or, if later, 12 months before the date on which the shares in question were subscribed for, and
 > - (b) ending with the date on which the shares are disposed of.
 >
-> (5)[^key-03001b29cc9008e14c1517a7637d55ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-03001b29cc9008e14c1517a7637d55ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The trading requirement
 
@@ -893,7 +893,7 @@ as would not reasonably be regarded as reflected in the rental earnings for that
 
 the lessor is treated as receiving for that period of account income attributable to the lease of an amount equal to the relevant amount (in addition to any amount brought into account under section 360(2)).
 
-(6)[^key-2c54b9fb11d9013461ffad08b43f4396] The relevant amount is an amount equal to so much of the rentals that—
+(6)[^c-2c54b9fb11d9013461ffad08b43f4396] The relevant amount is an amount equal to so much of the rentals that—
 
 - (a) become due on or after 13 November 2008, and
 - (b) are due wholly or partly in respect of the period of account,
@@ -1042,13 +1042,13 @@ and as if subsection (3) were omitted,
 
 #### Transactions with substantial donors
 
-**73.**[^key-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.**[^c-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**74.**[^key-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**74.**[^c-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**75.**[^key-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**76.**[^key-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**76.**[^c-7df50141ef7b9649b9ade8856da54dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Non-charitable expenditure
 
@@ -1185,25 +1185,25 @@ as those provisions would have had effect in relation to the carry back accounti
 - (a) after “if it” there were inserted “ assigns, ” and
 - (b) after “forgoes it” there were inserted “ (without a sale or transfer of the property) ”.
 
-### Part 17 — Manufactured payments and repos[^key-2fc8ccae290dd18211e63b6ade03d0d5]
+### Part 17 — Manufactured payments and repos[^c-2fc8ccae290dd18211e63b6ade03d0d5]
 
 **No longer in force.**
 
-#### Manufactured dividends and manufactured overseas dividends: distributions paid before 1 July 2009[^key-2fc8ccae290dd18211e63b6ade03d0d5]
+#### Manufactured dividends and manufactured overseas dividends: distributions paid before 1 July 2009[^c-2fc8ccae290dd18211e63b6ade03d0d5]
 
-**90.**[^key-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**91.**[^key-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Manufactured overseas dividends: overseas dividends paid before 22 April 2009[^key-2fc8ccae290dd18211e63b6ade03d0d5]
+#### Manufactured overseas dividends: overseas dividends paid before 22 April 2009[^c-2fc8ccae290dd18211e63b6ade03d0d5]
 
-**92.**[^key-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Deemed manufactured payments: stock lending arrangements[^key-2fc8ccae290dd18211e63b6ade03d0d5]
+#### Deemed manufactured payments: stock lending arrangements[^c-2fc8ccae290dd18211e63b6ade03d0d5]
 
-**93.**[^key-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**94.**[^key-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**94.**[^c-2fc8ccae290dd18211e63b6ade03d0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 18 — Sale and lease-back etc
 
@@ -1303,7 +1303,7 @@ as those provisions would have had effect in relation to the carry back accounti
 
 #### Share capital issued as paid up otherwise than by receipt of new consideration
 
-**106.** (1)[^key-23fd23fc1c9b23372dcbd106ef0b3215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.** (1)[^c-23fd23fc1c9b23372dcbd106ef0b3215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 1026 does not apply if the share capital mentioned in subsection (1) of that section was issued before 7 April 1965.
 
@@ -1374,14 +1374,14 @@ as those provisions would have had effect in relation to the carry back accounti
 
 ## Annotations
 
-[^key-9047e6f8a908a402ca40bd466b4dce0d]: Textual amendment: Words in Sch. 2 para. 28(4) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/iv)
+[^c-9047e6f8a908a402ca40bd466b4dce0d]: Textual amendment: Words in Sch. 2 para. 28(4) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/iv)
 
-[^key-03001b29cc9008e14c1517a7637d55ce]: Textual amendment: Words in Sch. 2 para. 28(4) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/iv)
+[^c-03001b29cc9008e14c1517a7637d55ce]: Textual amendment: Words in Sch. 2 para. 28(4) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/iv)
 
-[^key-2c54b9fb11d9013461ffad08b43f4396]: Textual amendment: [Sch. 2 para. 64(6)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/64/6) substituted (retrospective and with effect in accordance with art. 1(2) of the amending S.I.) by [Corporation Tax Act 2010 (Amendment) Order 2010 (S.I. 2010/2902)](https://www.legislation.gov.uk/uksi/2010/2902), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2902/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/2902/article/4)
+[^c-2c54b9fb11d9013461ffad08b43f4396]: Textual amendment: [Sch. 2 para. 64(6)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/64/6) substituted (retrospective and with effect in accordance with art. 1(2) of the amending S.I.) by [Corporation Tax Act 2010 (Amendment) Order 2010 (S.I. 2010/2902)](https://www.legislation.gov.uk/uksi/2010/2902), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2902/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/2902/article/4)
 
-[^key-7df50141ef7b9649b9ade8856da54dc2]: Textual amendment: [Sch. 2 paras. 73-76](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/73) omitted (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/25)
+[^c-7df50141ef7b9649b9ade8856da54dc2]: Textual amendment: [Sch. 2 paras. 73-76](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/73) omitted (with effect in accordance with Sch. 3 para. 27 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/25)
 
-[^key-2fc8ccae290dd18211e63b6ade03d0d5]: Textual amendment: Sch. 2 Pt. 17 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 46](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/46), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
+[^c-2fc8ccae290dd18211e63b6ade03d0d5]: Textual amendment: Sch. 2 Pt. 17 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 46](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/46), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
 
-[^key-23fd23fc1c9b23372dcbd106ef0b3215]: Textual amendment: [Sch. 2 para. 106(1)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/106/1) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/49)
+[^c-23fd23fc1c9b23372dcbd106ef0b3215]: Textual amendment: [Sch. 2 para. 106(1)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/106/1) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/49)

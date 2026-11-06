@@ -45,13 +45,13 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred on them by section 37(1) of the Value Added Tax Act 1994[^f00001] and section 13(3) and (4) of the Finance Act 1999[^f00002] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-**1.**[^key-93c2f5fdc8d2755a2448ea0466e96ed5] This Order may be cited as the Value Added Tax (Importation of Investment Gold) Relief Order 1999 and shall come into force on 1st January 2000.
+**1.**[^c-93c2f5fdc8d2755a2448ea0466e96ed5] This Order may be cited as the Value Added Tax (Importation of Investment Gold) Relief Order 1999 and shall come into force on 1st January 2000.
 
-**2.**[^key-dd795f7aad390da7c4c60b42a20ff0c2] In this Order–
+**2.**[^c-dd795f7aad390da7c4c60b42a20ff0c2] In this Order–
 
 - “Investment gold” has the same meaning as in Group 15 of Schedule 9 to the Value Added Tax Act 1994.
 
-**3.**[^key-90b6a4dcedc4fb5da5b152e3c472a6f6] VAT shall not be chargeable on the importation of investment gold [^key-046854c9363b15c607d5a017e5ecb37d]....
+**3.**[^c-90b6a4dcedc4fb5da5b152e3c472a6f6] VAT shall not be chargeable on the importation of investment gold [^c-046854c9363b15c607d5a017e5ecb37d]....
 
 Bob Ainsworth
 
@@ -75,10 +75,10 @@ Article 3 relieves investment gold from VAT when it is imported into the United 
 
 [^f00002]: Footnote: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
 
-[^key-93c2f5fdc8d2755a2448ea0466e96ed5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1) in force at 1.1.2000, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1)
+[^c-93c2f5fdc8d2755a2448ea0466e96ed5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1) in force at 1.1.2000, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1)
 
-[^key-dd795f7aad390da7c4c60b42a20ff0c2]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/3115/article/2) in force at 1.1.2000, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1)
+[^c-dd795f7aad390da7c4c60b42a20ff0c2]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/3115/article/2) in force at 1.1.2000, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1)
 
-[^key-90b6a4dcedc4fb5da5b152e3c472a6f6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1999/3115/article/3) in force at 1.1.2000, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1)
+[^c-90b6a4dcedc4fb5da5b152e3c472a6f6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1999/3115/article/3) in force at 1.1.2000, see [art. 1](https://www.legislation.gov.uk/uksi/1999/3115/article/1)
 
-[^key-046854c9363b15c607d5a017e5ecb37d]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1999/3115/article/3) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [82(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/82/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-046854c9363b15c607d5a017e5ecb37d]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1999/3115/article/3) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [82(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/82/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

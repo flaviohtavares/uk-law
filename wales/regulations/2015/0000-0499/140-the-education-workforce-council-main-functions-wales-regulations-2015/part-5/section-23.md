@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Form and content of code of conduct and practice[^key-911db248b431a49e9e5aced4890682f7]
+## 23. Form and content of code of conduct and practice[^c-911db248b431a49e9e5aced4890682f7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ The code of conduct and practice must contain as a minimum provision dealing wit
 
 ## Annotations
 
-[^key-911db248b431a49e9e5aced4890682f7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/140/regulation/23) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-911db248b431a49e9e5aced4890682f7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/140/regulation/23) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

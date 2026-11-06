@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Consent to transfer the benefit of the Order[^key-56c7b10914424107b2d87fa1f6c3e56c]
+## 33. Consent to transfer the benefit of the Order[^c-56c7b10914424107b2d87fa1f6c3e56c]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The consent of the Secretary of State is required for the exercise of the powers of paragraph (1) except where—
 
-- (a) the transferee or lessee is the holder of a licence under section 6 (licences authorising supply etc.) of the 1989 Act; [^key-8014f4fdc7d675e8b2a61f0e11217772]...
+- (a) the transferee or lessee is the holder of a licence under section 6 (licences authorising supply etc.) of the 1989 Act; [^c-8014f4fdc7d675e8b2a61f0e11217772]...
 - (b) the transfer or grant relates to Work No. 4B and the transferee or lessee (as relevant) is the undertaker for the purposes of the proposed Cottam, West Burton or Tillbridge Development Consent Order; or
 - (c) the time limits for claims for compensation in respect of the acquisition of land or effects upon land under this Order have elapsed and—
   - (i) no such claims have been made;
@@ -47,7 +47,7 @@ summary: ''
 - (c) the powers to be transferred or granted;
 - (d) pursuant to paragraph ‎(8), the restrictions, liabilities and obligations that will apply to the person exercising the powers transferred or granted;
 - (e) where relevant, a plan showing the works or areas to which the transfer or grant relates; and
-- (f) a copy of the document effecting the transfer or grant .[^key-7499e23c8b0703b567df74930a94f98a]
+- (f) a copy of the document effecting the transfer or grant .[^c-7499e23c8b0703b567df74930a94f98a]
 
 (6) The date specified under paragraph ‎(5)(b) must not be earlier than the expiry of ten working days from the date of the receipt of the notification.
 
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-56c7b10914424107b2d87fa1f6c3e56c]: Commencement: Art. 33 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-56c7b10914424107b2d87fa1f6c3e56c]: Commencement: Art. 33 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-8014f4fdc7d675e8b2a61f0e11217772]: Textual amendment: Word in [art. 33(3)(a)](https://www.legislation.gov.uk/uksi/2024/807/article/33/3/a) omitted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-8014f4fdc7d675e8b2a61f0e11217772]: Textual amendment: Word in [art. 33(3)(a)](https://www.legislation.gov.uk/uksi/2024/807/article/33/3/a) omitted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
-[^key-7499e23c8b0703b567df74930a94f98a]: Textual amendment: Full stop in [art. 33(5)(f)](https://www.legislation.gov.uk/uksi/2024/807/article/33/5/f) inserted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-7499e23c8b0703b567df74930a94f98a]: Textual amendment: Full stop in [art. 33(5)(f)](https://www.legislation.gov.uk/uksi/2024/807/article/33/5/f) inserted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)

@@ -45,7 +45,7 @@ A crofter shall not be removed from the holding of which he is tenant except in 
 
 (3) The crofter shall not, to the prejudice of the interest of the landlord, persistently injure the holding by the dilapidation of buildings or, after notice has been given by the landlord to the crofter not to commit, or to desist from, the particular injury specified in such notice, by the deterioration of the soil:
 
-(4)[^c573205] The crofter shall not, without the consent to his landlord in writing, sublet his holding[^key-49f533f5b796cfa6a1f42462b9e718a1] or any part thereof, or erect or suffer to be erected thereon any dwelling-house otherwise than in substitution for those already upon the holding at the time of the passing of this Act:
+(4)[^c573205] The crofter shall not, without the consent to his landlord in writing, sublet his holding[^c-49f533f5b796cfa6a1f42462b9e718a1] or any part thereof, or erect or suffer to be erected thereon any dwelling-house otherwise than in substitution for those already upon the holding at the time of the passing of this Act:
 
 (5) The crofter shall not persistently violate any written condition signed by him for the protection of the interest of the landlord or of neighbouring crofters which is legally applicable to the holding, and which the Crofters Commission shall find to be reasonable:
 
@@ -289,7 +289,7 @@ Section 34.
 
 **1.** Dwelling-house.
 
-**1A.**[^key-d7ce2a5acef51edb08c12bbdffda773b] Work carried out in implementation of an HRA action plan included in an HRA designation order made under section 1 of the Housing (Scotland) Act 2006 (asp 1).
+**1A.**[^c-d7ce2a5acef51edb08c12bbdffda773b] Work carried out in implementation of an HRA action plan included in an HRA designation order made under section 1 of the Housing (Scotland) Act 2006 (asp 1).
 
 **2.** Farm offices.
 
@@ -337,7 +337,7 @@ Section 34.
 
 [^c573205]: Modification: S. 1(4)(7) amended by [Small Landholders (Scotland) Act 1911 (c. 49)](https://www.legislation.gov.uk/ukpga/1911/49),s. 10(2)(3)
 
-[^key-49f533f5b796cfa6a1f42462b9e718a1]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/Vict/49-50/29/section/1/4) substituted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [s. 43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/1) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-49f533f5b796cfa6a1f42462b9e718a1]: Textual amendment: Words in [s. 1(4)](https://www.legislation.gov.uk/ukpga/Vict/49-50/29/section/1/4) substituted (25.6.2007) by [Crofting Reform etc. Act 2007 (asp 7)](https://www.legislation.gov.uk/asp/2007/7), [s. 43(3)](https://www.legislation.gov.uk/asp/2007/7/section/43/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/1) (with [ss. 40](https://www.legislation.gov.uk/asp/2007/7/section/40), [43(2)](https://www.legislation.gov.uk/asp/2007/7/section/43/2)); [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
 [^c573206]: Marginal citation: [1856 c. 79](https://www.legislation.gov.uk/ukpga/1856/79).
 
@@ -469,6 +469,6 @@ Section 34.
 
 [^c573300]: Modification: [Sch.](https://www.legislation.gov.uk/ukpga/Vict/49-50/29/schedule) restricted by [Crofters (Scotland) Act 1955 (3 & 4 Eliz. 2 c. 21)](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/21), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/Eliz2/3-4/21/schedule/6/part/I)
 
-[^key-d7ce2a5acef51edb08c12bbdffda773b]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ukpga/Vict/49-50/29/schedule/paragraph/1A) substituted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/2) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
+[^c-d7ce2a5acef51edb08c12bbdffda773b]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ukpga/Vict/49-50/29/schedule/paragraph/1A) substituted (1.4.2009) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2006/1/schedule/6/paragraph/2) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 7](https://www.legislation.gov.uk/ssi/2009/122/article/7))
 
 [^c573302]: Textual amendment: Words inserted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/128/1), [156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Application of this Order[^key-0071ec3c66ae15a1b1672ad8505537d2]
+## 2. Application of this Order[^c-0071ec3c66ae15a1b1672ad8505537d2]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ this Order applies to that person as if that Council were specified in Schedule 
 
 ## Annotations
 
-[^key-0071ec3c66ae15a1b1672ad8505537d2]: Commencement: Art. 2 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)
+[^c-0071ec3c66ae15a1b1672ad8505537d2]: Commencement: Art. 2 in force at 1.9.1999, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1999/2277/article/1/1)

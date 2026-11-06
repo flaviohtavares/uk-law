@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Offences in relation to obstruction[^key-888ee45d9399085841f7f41a9ee16a79]
+## 58. Offences in relation to obstruction[^c-888ee45d9399085841f7f41a9ee16a79]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any person who refuses to allow a constable or a water bailiff to exercise any p
 
 ## Annotations
 
-[^key-888ee45d9399085841f7f41a9ee16a79]: Commencement: S. 58 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-888ee45d9399085841f7f41a9ee16a79]: Commencement: S. 58 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Interpretation of Part[^key-b3d46374ddf82df90e1febb24939077c]
+## 130. Interpretation of Part[^c-b3d46374ddf82df90e1febb24939077c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b3d46374ddf82df90e1febb24939077c]: Commencement: Reg. 130 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-b3d46374ddf82df90e1febb24939077c]: Commencement: Reg. 130 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

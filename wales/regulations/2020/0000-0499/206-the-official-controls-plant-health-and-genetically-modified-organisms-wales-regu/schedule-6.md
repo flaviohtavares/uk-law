@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Revocation of instruments[^key-302dc80665f7a878771b2cc150d03f9d]
+## SCHEDULE 6 — Revocation of instruments[^c-302dc80665f7a878771b2cc150d03f9d]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ Regulation 50
 
 ## Annotations
 
-[^key-302dc80665f7a878771b2cc150d03f9d]: Commencement: Sch. 6 in force at 27.3.2020, see reg. 1
+[^c-302dc80665f7a878771b2cc150d03f9d]: Commencement: Sch. 6 in force at 27.3.2020, see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Maximum holding of certificates issued before 10th September 1985[^key-ac7db083b43a960653ef5284f34c2627]
+## SCHEDULE 1 — Maximum holding of certificates issued before 10th September 1985[^c-ac7db083b43a960653ef5284f34c2627]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ Regulation 41
 
 ## Annotations
 
-[^key-ac7db083b43a960653ef5284f34c2627]: Commencement: Sch. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-ac7db083b43a960653ef5284f34c2627]: Commencement: Sch. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Surcharge for late payment[^key-23609b83af180bd99f004f022c971bb2]
+## 85. Surcharge for late payment[^c-23609b83af180bd99f004f022c971bb2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the collecting authority may impose a surcharge on P equal to five per cent of A
 
 ## Annotations
 
-[^key-23609b83af180bd99f004f022c971bb2]: Commencement: Reg. 85 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-23609b83af180bd99f004f022c971bb2]: Commencement: Reg. 85 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

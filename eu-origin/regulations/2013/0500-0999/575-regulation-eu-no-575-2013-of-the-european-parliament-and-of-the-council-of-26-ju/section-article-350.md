@@ -36,7 +36,7 @@ summary: ''
 4. Institutions may rely on the following third parties to calculate and report own funds requirements for position risk for positions in CIUs falling under paragraphs 1 to 4, in accordance with the methods set out in this Chapter:
 
 - (a) the depository of the CIU provided that the CIU exclusively invests in securities and deposits all securities at this depository;
-- (b) for other CIUs, the CIU management company[^key-e264ce46430399b32c7d83fdd82b0898]....
+- (b) for other CIUs, the CIU management company[^c-e264ce46430399b32c7d83fdd82b0898]....
 
 The correctness of the calculation shall be confirmed by an external auditor.
 
@@ -44,4 +44,4 @@ The correctness of the calculation shall be confirmed by an external auditor.
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-e264ce46430399b32c7d83fdd82b0898]: Textual amendment: Words in [Art. 350(4)(b)](https://www.legislation.gov.uk/eur/2013/575/article/350/4/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(39)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/39)
+[^c-e264ce46430399b32c7d83fdd82b0898]: Textual amendment: Words in [Art. 350(4)(b)](https://www.legislation.gov.uk/eur/2013/575/article/350/4/b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(39)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/39)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Appeal to Supreme Court about external orders[^key-07bab623d8480ed5f13d832fb72797c2][^key-7f0c842d08763c1cf55cb54b129c5247]
+## 110. Appeal to Supreme Court about external orders[^c-07bab623d8480ed5f13d832fb72797c2][^c-7f0c842d08763c1cf55cb54b129c5247]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07bab623d8480ed5f13d832fb72797c2]: Commencement: [Art. 110](https://www.legislation.gov.uk/uksi/2005/3181/article/110) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-07bab623d8480ed5f13d832fb72797c2]: Commencement: [Art. 110](https://www.legislation.gov.uk/uksi/2005/3181/article/110) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-7f0c842d08763c1cf55cb54b129c5247]: Textual amendment: Words in [art. 110](https://www.legislation.gov.uk/uksi/2005/3181/article/110) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/4)
+[^c-7f0c842d08763c1cf55cb54b129c5247]: Textual amendment: Words in [art. 110](https://www.legislation.gov.uk/uksi/2005/3181/article/110) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/4)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — Authorised development[^key-6dee60002cb6babb308bbc6625134b9c]
+### PART 1 — Authorised development[^c-6dee60002cb6babb308bbc6625134b9c]
 
 A nationally significant infrastructure project as defined in sections 14 (Nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act which is located in the Irish Sea approximately 11 kilometres from the coast of North Wales and, comprising—
 
@@ -496,7 +496,7 @@ and in connection with Work Nos. 4 to 41 and to the extent that they do not othe
 - (u) fencing or other means of enclosure; and
 - (v) such other works as may be necessary or expedient for the purposes of or in connection with the relevant part of the authorised development.
 
-### PART 2 — Ancillary works[^key-f6d12ea7af676fd6657daca3e6327c68]
+### PART 2 — Ancillary works[^c-f6d12ea7af676fd6657daca3e6327c68]
 
 Works within the Order limits which fall within the scope of the work assessed by the environmental statement comprising—
 
@@ -507,6 +507,6 @@ Works within the Order limits which fall within the scope of the work assessed b
 
 ## Annotations
 
-[^key-6dee60002cb6babb308bbc6625134b9c]: Commencement: Sch. 1 Pt. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-6dee60002cb6babb308bbc6625134b9c]: Commencement: Sch. 1 Pt. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-f6d12ea7af676fd6657daca3e6327c68]: Commencement: Sch. 1 Pt. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-f6d12ea7af676fd6657daca3e6327c68]: Commencement: Sch. 1 Pt. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

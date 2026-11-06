@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Right to guaranteed cash equivalent: supplementary.[^key-41168656b3f7bb670e4901e178df148e][^key-2d56850b3050e69683c44c493945a8cf]
+## 154. Right to guaranteed cash equivalent: supplementary.[^c-41168656b3f7bb670e4901e178df148e][^c-2d56850b3050e69683c44c493945a8cf]
 
 *Extent: E+W+S*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-41168656b3f7bb670e4901e178df148e]: Commencement: S. 154 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
+[^c-41168656b3f7bb670e4901e178df148e]: Commencement: S. 154 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
 
-[^key-2d56850b3050e69683c44c493945a8cf]: Commencement: S. 154 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-2d56850b3050e69683c44c493945a8cf]: Commencement: S. 154 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136359]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

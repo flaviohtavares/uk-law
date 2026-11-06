@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Condensed Milk and Dried Milk (England) Regulations 2003 (revoked)[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+The Condensed Milk and Dried Milk (England) Regulations 2003 (revoked)[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 Made
 
@@ -45,78 +45,78 @@ Coming into force
 
 17th July 2003
 
-[^key-b32a7f71a109a43d3e0dea8e5b75eeca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b32a7f71a109a43d3e0dea8e5b75eeca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 1. Title, commencement and application[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 2. Interpretation[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope of Regulations[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 3. Scope of Regulations[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reserved descriptions[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 4. Reserved descriptions[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Labelling and description of designated products[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 5. Labelling and description of designated products[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of marking or labelling[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 6. Manner of marking or labelling[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties and enforcement[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 7. Penalties and enforcement[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence in relation to exports[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 8. Defence in relation to exports[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application of various provisions of the Food Safety Act 1990[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 9. Application of various provisions of the Food Safety Act 1990[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments and revocations[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 10. Amendments and revocations[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provision[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## 11. Transitional provision[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b32a7f71a109a43d3e0dea8e5b75eeca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b32a7f71a109a43d3e0dea8e5b75eeca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PARTLY OR WHOLLY DEHYDRATED PRESERVED MILK PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## SCHEDULE 1 — PARTLY OR WHOLLY DEHYDRATED PRESERVED MILK PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ALTERNATIVES TO THE RESERVED DESCRIPTIONS SPECIFIED IN SCHEDULE 1[^key-b32a7f71a109a43d3e0dea8e5b75eeca]
+## SCHEDULE 2 — ALTERNATIVES TO THE RESERVED DESCRIPTIONS SPECIFIED IN SCHEDULE 1[^c-b32a7f71a109a43d3e0dea8e5b75eeca]
 
 Regulation 2
 
-**1.**[^key-b32a7f71a109a43d3e0dea8e5b75eeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b32a7f71a109a43d3e0dea8e5b75eeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b32a7f71a109a43d3e0dea8e5b75eeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b32a7f71a109a43d3e0dea8e5b75eeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b32a7f71a109a43d3e0dea8e5b75eeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b32a7f71a109a43d3e0dea8e5b75eeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b32a7f71a109a43d3e0dea8e5b75eeca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b32a7f71a109a43d3e0dea8e5b75eeca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b32a7f71a109a43d3e0dea8e5b75eeca]: Textual amendment: Regulations revoked (6.4.2015) by [The Condensed Milk and Dried Milk (England) Regulations 2015 (S.I. 2015/675)](https://www.legislation.gov.uk/uksi/2015/675), regs 1(1), [8(a)](https://www.legislation.gov.uk/uksi/2015/675/regulation/8/a)
+[^c-b32a7f71a109a43d3e0dea8e5b75eeca]: Textual amendment: Regulations revoked (6.4.2015) by [The Condensed Milk and Dried Milk (England) Regulations 2015 (S.I. 2015/675)](https://www.legislation.gov.uk/uksi/2015/675), regs 1(1), [8(a)](https://www.legislation.gov.uk/uksi/2015/675/regulation/8/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Agreements with a highway authority[^key-e3465a1a50ac53dd81f911c484ac4e97]
+## 11. Agreements with a highway authority[^c-e3465a1a50ac53dd81f911c484ac4e97]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3465a1a50ac53dd81f911c484ac4e97]: Commencement: Art. 11 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-e3465a1a50ac53dd81f911c484ac4e97]: Commencement: Art. 11 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

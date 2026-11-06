@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Defence statements: solemn proceedings[^key-3718c61764d27b192d147ae6c6ff0f27]
+## 124. Defence statements: solemn proceedings[^c-3718c61764d27b192d147ae6c6ff0f27]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3718c61764d27b192d147ae6c6ff0f27]: Commencement: S. 124 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-3718c61764d27b192d147ae6c6ff0f27]: Commencement: S. 124 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )

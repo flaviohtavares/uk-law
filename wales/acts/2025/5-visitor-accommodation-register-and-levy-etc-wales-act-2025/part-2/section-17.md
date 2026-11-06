@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Reasonable excuse[^key-bbf66cb53b693955a8a9e2374c27bc57]
+## 17. Reasonable excuse[^c-bbf66cb53b693955a8a9e2374c27bc57]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbf66cb53b693955a8a9e2374c27bc57]: Commencement: S. 17 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-bbf66cb53b693955a8a9e2374c27bc57]: Commencement: S. 17 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

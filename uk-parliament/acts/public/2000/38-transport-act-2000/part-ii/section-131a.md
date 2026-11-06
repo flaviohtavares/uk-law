@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131A. Continuation of schemes for further periods[^key-c05adb8597f2acc398b3fefbd54794ff][^key-00e1cdc28d3b5159a09295ef0c1ae5bf]
+## 131A. Continuation of schemes for further periods[^c-c05adb8597f2acc398b3fefbd54794ff][^c-00e1cdc28d3b5159a09295ef0c1ae5bf]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) Before making such a decision, they must, unless the proposal that the scheme should continue is an exempt continuation proposal (see section 131B), comply with the requirements of—
 
-- (a) section 124(2)(b) (approval by Welsh Ministers) [^key-3534bd9ca4cb5c7b2c93aeef95135515]...
-- (b)[^key-38ebc21a936ca8deea0711dc64021689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 124(2)(b) (approval by Welsh Ministers) [^c-3534bd9ca4cb5c7b2c93aeef95135515]...
+- (b)[^c-38ebc21a936ca8deea0711dc64021689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Section 125 applies in relation to the continuation of a scheme under this section as it applies in relation to the making of a scheme, but with the following modifications—
 
@@ -34,13 +34,13 @@ summary: ''
 
 and with the further modifications specified in subsections (4) and (5), but this is subject to such modifications or exclusions as may be prescribed by regulations under section 133.
 
-(4)[^key-14dd82a809a90aa71d23e0120e7c2992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-14dd82a809a90aa71d23e0120e7c2992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The consultation document that is to be published by virtue of section 125(1)(a), as applied by subsection (3), must (instead of complying with section 125(1A)) include—
 
 - (a) a description of the scheme, together with any proposed modifications to it;
-- (b) a statement of the opinion of the authority or authorities as to the effectiveness of the scheme in achieving the objectives set out in paragraphs (a) to (e) of section 124(1) [^key-c4823db800365c842e8f693b0805b819]... up to the date of the report;
-- (c) a statement of the reasons why they are satisfied that the scheme as proposed to be continued (with any proposed modifications) will meet the conditions in subsection (1) [^key-8709572e18bc1d41c4361ec569db0f97]... of section 124;
+- (b) a statement of the opinion of the authority or authorities as to the effectiveness of the scheme in achieving the objectives set out in paragraphs (a) to (e) of section 124(1) [^c-c4823db800365c842e8f693b0805b819]... up to the date of the report;
+- (c) a statement of the reasons why they are satisfied that the scheme as proposed to be continued (with any proposed modifications) will meet the conditions in subsection (1) [^c-8709572e18bc1d41c4361ec569db0f97]... of section 124;
 - (d) a description of any arrangements which the authority or authorities intend to make (including arrangements with other authorities or other persons) for or in connection with the continuation of the scheme;
 - (e) a statement of the period for which it is proposed that the scheme should continue in operation, which must not be more than a further 10 years;
 - (f) if the authority or authorities consider that the proposal for the scheme to continue is an exempt continuation proposal, a statement of that fact;
@@ -78,16 +78,16 @@ and with the further modifications specified in subsections (4) and (5), but thi
 
 ## Annotations
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-00e1cdc28d3b5159a09295ef0c1ae5bf]: Textual amendment: S. 131A inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 31](https://www.legislation.gov.uk/ukpga/2008/26/section/31), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-00e1cdc28d3b5159a09295ef0c1ae5bf]: Textual amendment: S. 131A inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 31](https://www.legislation.gov.uk/ukpga/2008/26/section/31), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
 
-[^key-3534bd9ca4cb5c7b2c93aeef95135515]: Textual amendment: Words in s. 131A(2)(a) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(a)(i)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/a/i)
+[^c-3534bd9ca4cb5c7b2c93aeef95135515]: Textual amendment: Words in s. 131A(2)(a) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(a)(i)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/a/i)
 
-[^key-38ebc21a936ca8deea0711dc64021689]: Textual amendment: S. 131A(2)(b) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(a)(ii)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/a/ii)
+[^c-38ebc21a936ca8deea0711dc64021689]: Textual amendment: S. 131A(2)(b) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(a)(ii)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/a/ii)
 
-[^key-14dd82a809a90aa71d23e0120e7c2992]: Textual amendment: S. 131A(4) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/b)
+[^c-14dd82a809a90aa71d23e0120e7c2992]: Textual amendment: S. 131A(4) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(b)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/b)
 
-[^key-c4823db800365c842e8f693b0805b819]: Textual amendment: Words in s. 131A(5)(b) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(c)(i)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/c/i)
+[^c-c4823db800365c842e8f693b0805b819]: Textual amendment: Words in s. 131A(5)(b) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(c)(i)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/c/i)
 
-[^key-8709572e18bc1d41c4361ec569db0f97]: Textual amendment: Words in s. 131A(5)(c) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/c/ii)
+[^c-8709572e18bc1d41c4361ec569db0f97]: Textual amendment: Words in s. 131A(5)(c) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 13(c)(ii)](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/13/c/ii)

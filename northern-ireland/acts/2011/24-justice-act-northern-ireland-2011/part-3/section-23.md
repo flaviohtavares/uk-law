@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Code of practice for PCSPs and DPCSPs[^key-32d0b3c5da443858cc97ba0d80aef29c]
+## 23. Code of practice for PCSPs and DPCSPs[^c-32d0b3c5da443858cc97ba0d80aef29c]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32d0b3c5da443858cc97ba0d80aef29c]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/24/section/23) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-32d0b3c5da443858cc97ba0d80aef29c]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/24/section/23) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

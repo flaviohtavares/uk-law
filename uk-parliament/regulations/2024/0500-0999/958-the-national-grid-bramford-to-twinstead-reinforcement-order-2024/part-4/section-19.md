@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Discharge of water[^key-10cd6d112cc6098834698c0c4bb56885]
+## 19. Discharge of water[^c-10cd6d112cc6098834698c0c4bb56885]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (10) Any application for consent under paragraph (3) or approval under sub-paragraph (4)(a) must include a statement that the provisions of paragraph (9) apply to that application.
 
-(11) If an application for consent under paragraph (3) or approval under paragraph (4)(a)[^key-22e3bdd2fde62502b3a2a71991cce392] does not include the statement required under paragraph (10), then the provisions of paragraph (9) will not apply to that application.
+(11) If an application for consent under paragraph (3) or approval under paragraph (4)(a)[^c-22e3bdd2fde62502b3a2a71991cce392] does not include the statement required under paragraph (10), then the provisions of paragraph (9) will not apply to that application.
 
 (12) In this article—
 
@@ -53,11 +53,11 @@ summary: ''
 
 ## Annotations
 
-[^key-10cd6d112cc6098834698c0c4bb56885]: Commencement: Art. 19 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-10cd6d112cc6098834698c0c4bb56885]: Commencement: Art. 19 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00023]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36 and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to section 106 which are not relevant to this Order.
 
-[^key-22e3bdd2fde62502b3a2a71991cce392]: Textual amendment: Words in [art. 19(11)](https://www.legislation.gov.uk/uksi/2024/958/article/19/11) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-22e3bdd2fde62502b3a2a71991cce392]: Textual amendment: Words in [art. 19(11)](https://www.legislation.gov.uk/uksi/2024/958/article/19/11) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
 [^f00024]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Paragraph 9B was inserted into Schedule 2 by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), section 63(1) and Schedule 3, paragraph 9(5).
 

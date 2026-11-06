@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Items subject to legal privilege[^key-d45275a3b75b3676e9c674cedb2442cd]
+## 27. Items subject to legal privilege[^c-d45275a3b75b3676e9c674cedb2442cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d45275a3b75b3676e9c674cedb2442cd]: Commencement: S. 27 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/k)
+[^c-d45275a3b75b3676e9c674cedb2442cd]: Commencement: S. 27 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/k)

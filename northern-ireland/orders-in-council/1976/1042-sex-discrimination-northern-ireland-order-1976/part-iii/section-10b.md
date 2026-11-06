@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) In relation to discrimination falling within Article 4A or 4B[^key-70171d3a4bb8132a41fc5c3e22adbc94] —
+(1) In relation to discrimination falling within Article 4A or 4B[^c-70171d3a4bb8132a41fc5c3e22adbc94] —
 
 - (a) Article 8(1)(a) or (c) does not apply to any employment where there is a supplementary genuine occupational qualification for the job;
 - (b) Article 8(2)(a) does not apply to a refusal or deliberate omission to afford access to opportunities for promotion or transfer to or training for such employment; and
@@ -54,7 +54,7 @@ summary: ''
 
 [^c17232681]: Textual amendment: SR 1999/311
 
-[^key-70171d3a4bb8132a41fc5c3e22adbc94]: Textual amendment: Words in [art. 10B(1)](https://www.legislation.gov.uk/nisi/1976/1042/article/10B/1) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2016/191/regulation/11)
+[^c-70171d3a4bb8132a41fc5c3e22adbc94]: Textual amendment: Words in [art. 10B(1)](https://www.legislation.gov.uk/nisi/1976/1042/article/10B/1) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2016/191/regulation/11)
 
 [^c17232891]: Textual amendment: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7)
 

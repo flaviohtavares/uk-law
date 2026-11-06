@@ -38,118 +38,118 @@ on Community statistics on the structure and activity of foreign affiliates
 
 (Text with EEA relevance) (repealed) (revoked)
 
-[^key-a66c2ea02248ef4454ec64698121ab2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a66c2ea02248ef4454ec64698121ab2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-a66c2ea02248ef4454ec64698121ab2b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 1. Subject matter[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Submission of data[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 2. Definitions[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data sources[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 3. Submission of data[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Pilot studies[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 4. Data sources[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Quality standards and reports[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 5. Pilot studies[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Recommendations manual[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 6. Quality standards and reports[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Timetable and derogations[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 7. Recommendations manual[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Implementing measures[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 8. Timetable and derogations[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Committee[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 9. Implementing measures[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Cooperation with the Committee on Monetary, Financial and Balance of Payments Statistics[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 10. Committee[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Report on implementation[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 11. Cooperation with the Committee on Monetary, Financial and Balance of Payments Statistics[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Entry into force[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 12. Report on implementation[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a66c2ea02248ef4454ec64698121ab2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — COMMON MODULE FOR INWARD STATISTICS ON FOREIGN AFFILIATES[^key-a66c2ea02248ef4454ec64698121ab2b]
-
-### SECTION 1 — Statistical unit[^key-a66c2ea02248ef4454ec64698121ab2b]
+## Article 13. Entry into force[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 2 — Characteristics[^key-a66c2ea02248ef4454ec64698121ab2b]
+[^c-a66c2ea02248ef4454ec64698121ab2b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — COMMON MODULE FOR INWARD STATISTICS ON FOREIGN AFFILIATES[^c-a66c2ea02248ef4454ec64698121ab2b]
+
+### SECTION 1 — Statistical unit[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 3 — Level of detail[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 2 — Characteristics[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 4 — First reference year and periodicity[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 3 — Level of detail[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 5 — Transmission of results[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 4 — First reference year and periodicity[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 6 — Reports and pilot studies[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 5 — Transmission of results[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — COMMON MODULE FOR OUTWARD STATISTICS ON FOREIGN AFFILIATES[^key-a66c2ea02248ef4454ec64698121ab2b]
-
-### SECTION 1 — Statistical unit[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 6 — Reports and pilot studies[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 2 — Characteristics[^key-a66c2ea02248ef4454ec64698121ab2b]
+## ANNEX II — COMMON MODULE FOR OUTWARD STATISTICS ON FOREIGN AFFILIATES[^c-a66c2ea02248ef4454ec64698121ab2b]
+
+### SECTION 1 — Statistical unit[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 3 — Level of detail[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 2 — Characteristics[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 4 — First reference year and periodicity[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 3 — Level of detail[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 5 — Transmission of results[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 4 — First reference year and periodicity[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 6 — Reports and pilot studies[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 5 — Transmission of results[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — LEVELS FOR DETAILED INFORMATION BY GEOGRAPHY AND BY ACTIVITY[^key-a66c2ea02248ef4454ec64698121ab2b]
+### SECTION 6 — Reports and pilot studies[^c-a66c2ea02248ef4454ec64698121ab2b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — LEVELS FOR DETAILED INFORMATION BY GEOGRAPHY AND BY ACTIVITY[^c-a66c2ea02248ef4454ec64698121ab2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a66c2ea02248ef4454ec64698121ab2b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a66c2ea02248ef4454ec64698121ab2b]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

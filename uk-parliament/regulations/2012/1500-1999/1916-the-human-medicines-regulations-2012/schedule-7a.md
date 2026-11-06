@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7A — Information to be provided for registration as an importer, manufacturer or distributor of active substances[^key-2b844ba8005d4cd806180612e07dba23]
+## SCHEDULE 7A — Information to be provided for registration as an importer, manufacturer or distributor of active substances[^c-2b844ba8005d4cd806180612e07dba23]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ Regulation 45N(5)(b)
 **13.** Details of the operations to which the registration relates, including a statement of whether they include—
 
 - (a) the manufacture of active substances;
-- (b) the importation of active substances [^key-8e04702d38f0c78b59290f918436e65f]...;
+- (b) the importation of active substances [^c-8e04702d38f0c78b59290f918436e65f]...;
 - (c) the storage of active substances; or
 - (d) the distribution of active substances.
 
@@ -67,9 +67,9 @@ Regulation 45N(5)(b)
 
 **15.** A statement as to whether the particular active substances are intended for—
 
-- (a)[^key-debfdb198a5f866f11e186dfdb5a5dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-debfdb198a5f866f11e186dfdb5a5dbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) use in a special medicinal product; or
-- (c) export [^key-38a9e68e6e9a0f25a0845ef6b675ff29]....
+- (c) export [^c-38a9e68e6e9a0f25a0845ef6b675ff29]....
 
 **16.** A separate statement in respect of each of the premises mentioned in the application of—
 
@@ -105,10 +105,10 @@ Regulation 45N(5)(b)
 
 ## Annotations
 
-[^key-2b844ba8005d4cd806180612e07dba23]: Textual amendment: Sch. 7A inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2013/1855/regulation/33)
+[^c-2b844ba8005d4cd806180612e07dba23]: Textual amendment: Sch. 7A inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2013/1855/regulation/33)
 
-[^key-8e04702d38f0c78b59290f918436e65f]: Textual amendment: Words in [Sch. 7A para. 13(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/7A/paragraph/13/b) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/43/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e04702d38f0c78b59290f918436e65f]: Textual amendment: Words in [Sch. 7A para. 13(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/7A/paragraph/13/b) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [43(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/43/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-debfdb198a5f866f11e186dfdb5a5dbb]: Textual amendment: [Sch. 7A para. 15(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/7A/paragraph/15/a) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [136](https://www.legislation.gov.uk/uksi/2024/832/regulation/136)
+[^c-debfdb198a5f866f11e186dfdb5a5dbb]: Textual amendment: [Sch. 7A para. 15(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/7A/paragraph/15/a) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [136](https://www.legislation.gov.uk/uksi/2024/832/regulation/136)
 
-[^key-38a9e68e6e9a0f25a0845ef6b675ff29]: Textual amendment: Words in [Sch. 7A para. 15(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/7A/paragraph/15/c) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [43(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/43/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38a9e68e6e9a0f25a0845ef6b675ff29]: Textual amendment: Words in [Sch. 7A para. 15(c)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/7A/paragraph/15/c) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [43(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/43/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

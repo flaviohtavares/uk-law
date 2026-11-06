@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ee3aa54b76537d8e6035ece51a5f80b0]
+## 1. Citation and commencement[^c-ee3aa54b76537d8e6035ece51a5f80b0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Thurrock Flexible Generation Plant Development Co
 
 ## Annotations
 
-[^key-ee3aa54b76537d8e6035ece51a5f80b0]: Commencement: Art. 1 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-ee3aa54b76537d8e6035ece51a5f80b0]: Commencement: Art. 1 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Keeping of documents[^key-61d917d29d217db38866dd0591e19e20]
+## 18. Keeping of documents[^c-61d917d29d217db38866dd0591e19e20]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ to the Executive, it is notified of an address in Northern Ireland for the purpo
 
 ## Annotations
 
-[^key-61d917d29d217db38866dd0591e19e20]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/247/regulation/18) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-61d917d29d217db38866dd0591e19e20]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/247/regulation/18) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

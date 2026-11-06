@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Savings and transitional provisions[^key-25352b8d58406f0ca37b2802cbd3e887]
+## 42. Savings and transitional provisions[^c-25352b8d58406f0ca37b2802cbd3e887]
 
 *Extent: E+W*
 
@@ -89,7 +89,7 @@ the Local Health Board must make payments for those services in accordance with 
 
 ## Annotations
 
-[^key-25352b8d58406f0ca37b2802cbd3e887]: Commencement: Reg. 42 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-25352b8d58406f0ca37b2802cbd3e887]: Commencement: Reg. 42 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 1986/975](https://www.legislation.gov.uk/uksi/1986/975), amended by [S.I. 1996/705](https://www.legislation.gov.uk/uksi/1996/705), [S.I. 2002/1883](https://www.legislation.gov.uk/uksi/2002/1883) and [S.I. 2006/181](https://www.legislation.gov.uk/uksi/2006/181). There are other amending instruments but none is relevant to these Regulations. These Regulations were revoked in relation to England by [S.I. 2008/1700](https://www.legislation.gov.uk/uksi/2008/1700).
 

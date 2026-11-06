@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Offences[^key-1552038b1b573ffeefe15deeefbcda67][^key-3db01c3f3f024cb3eaa633704204abca]
+## 78. Offences[^c-1552038b1b573ffeefe15deeefbcda67][^c-3db01c3f3f024cb3eaa633704204abca]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ Interaction with sanctions under section 75
 
 ## Annotations
 
-[^key-1552038b1b573ffeefe15deeefbcda67]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-1552038b1b573ffeefe15deeefbcda67]: Commencement: S. 78 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-3db01c3f3f024cb3eaa633704204abca]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2025/21/section/78) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iii)
+[^c-3db01c3f3f024cb3eaa633704204abca]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2025/21/section/78) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/iii)

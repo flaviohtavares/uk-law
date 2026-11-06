@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Orders and regulations[^key-c0e0bcb342a61bedb031a4dae118c6ef]
+## 88. Orders and regulations[^c-c0e0bcb342a61bedb031a4dae118c6ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0e0bcb342a61bedb031a4dae118c6ef]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2003/20/section/88) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(k)](https://www.legislation.gov.uk/uksi/2004/827/article/3/k)
+[^c-c0e0bcb342a61bedb031a4dae118c6ef]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2003/20/section/88) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(k)](https://www.legislation.gov.uk/uksi/2004/827/article/3/k)

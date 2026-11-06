@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Appeals against enforcement notice[^key-1d8ac3fb50752f09f9236cbaa063d8a5]
+## 41. Appeals against enforcement notice[^c-1d8ac3fb50752f09f9236cbaa063d8a5]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d8ac3fb50752f09f9236cbaa063d8a5]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2021/9/section/41) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-1d8ac3fb50752f09f9236cbaa063d8a5]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2021/9/section/41) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

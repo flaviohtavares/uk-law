@@ -30,18 +30,18 @@ summary: ''
 (3) The following are appropriate places for the purposes of paragraph (1)—
 
 - (a) the company’s head office;
-- (b)[^key-89f8e7625ba70e73ef96211f8a9a85b9] a place that is situated in the part of the United Kingdom in which the company is registered, which has been notified to the Authority as being the company’s alternative inspection location.
+- (b)[^c-89f8e7625ba70e73ef96211f8a9a85b9] a place that is situated in the part of the United Kingdom in which the company is registered, which has been notified to the Authority as being the company’s alternative inspection location.
 
 (4) Every copy and memorandum required by paragraph (1) to be kept must be open to the inspection of any shareholder of the company.
 
 (5) If such an inspection is refused, the court may by order compel an immediate inspection of the copy or memorandum concerned.
 
-(6)[^key-bef04a3460b16ef64453d7c2f9b739b6] Every copy and memorandum required to be kept by paragraph (1) must be made available, for inspection, by the company at the company’s annual general meeting or, if the company does not hold annual general meetings, sent to any shareholder at his request within ten days of the company’s receipt of such request.
+(6)[^c-bef04a3460b16ef64453d7c2f9b739b6] Every copy and memorandum required to be kept by paragraph (1) must be made available, for inspection, by the company at the company’s annual general meeting or, if the company does not hold annual general meetings, sent to any shareholder at his request within ten days of the company’s receipt of such request.
 
 (7) Paragraph (1) applies to a variation of a director’s contract of service as it applies to the contract.
 
 ## Annotations
 
-[^key-89f8e7625ba70e73ef96211f8a9a85b9]: Textual amendment: Reg. 36(3)(b) substituted for reg. 36(3)(b)(c) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-89f8e7625ba70e73ef96211f8a9a85b9]: Textual amendment: Reg. 36(3)(b) substituted for reg. 36(3)(b)(c) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/11) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-bef04a3460b16ef64453d7c2f9b739b6]: Textual amendment: Reg. 36(6) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/5)
+[^c-bef04a3460b16ef64453d7c2f9b739b6]: Textual amendment: Reg. 36(6) substituted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Attempting criminal conduct[^key-0c6eb0fadf32964ecc9ccb39f8f6e1dc][^key-63378ca325507fe92bcdd1ebc13c6c98]
+## 43. Attempting criminal conduct[^c-0c6eb0fadf32964ecc9ccb39f8f6e1dc][^c-63378ca325507fe92bcdd1ebc13c6c98]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c6eb0fadf32964ecc9ccb39f8f6e1dc]: Commencement: S. 43 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0c6eb0fadf32964ecc9ccb39f8f6e1dc]: Commencement: S. 43 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-63378ca325507fe92bcdd1ebc13c6c98]: Commencement: S. 43 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-63378ca325507fe92bcdd1ebc13c6c98]: Commencement: S. 43 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

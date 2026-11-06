@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-Article 13A(1)[^key-9ebeec239c222c7deaed00f743077e0f]
+Article 13A(1)[^c-9ebeec239c222c7deaed00f743077e0f]
 
-**1.** For the purposes of Article 13A[^key-db4cc69e02b0c577fcd58eb3799b86c0] “grant-aided land” means land—
+**1.** For the purposes of Article 13A[^c-db4cc69e02b0c577fcd58eb3799b86c0] “grant-aided land” means land—
 
 - (a) in respect of which such payment as is specified in paragraph 2 falls to be made in respect of a period ending after 10th November 1976; or
 - (b) on which is or has been secured a loan which is of a description specified in paragraph 3 and in respect of which any repayment (whether by way of principal or interest or both) falls to be made after that date.
@@ -39,9 +39,9 @@ Article 13A(1)[^key-9ebeec239c222c7deaed00f743077e0f]
 
 ## Annotations
 
-[^key-9ebeec239c222c7deaed00f743077e0f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisi/1992/1725/schedule/2) shoulder reference substituted (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2020/5/section/1/2/a), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
+[^c-9ebeec239c222c7deaed00f743077e0f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisi/1992/1725/schedule/2) shoulder reference substituted (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(2)(a)](https://www.legislation.gov.uk/nia/2020/5/section/1/2/a), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
 
-[^key-db4cc69e02b0c577fcd58eb3799b86c0]: Textual amendment: Words in Sch. 2 para. 1 substituted (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(2)(b)](https://www.legislation.gov.uk/nia/2020/5/section/1/2/b), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
+[^c-db4cc69e02b0c577fcd58eb3799b86c0]: Textual amendment: Words in Sch. 2 para. 1 substituted (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(2)(b)](https://www.legislation.gov.uk/nia/2020/5/section/1/2/b), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
 
 [^c11665881]: Textual amendment: [1945 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1945/2)
 

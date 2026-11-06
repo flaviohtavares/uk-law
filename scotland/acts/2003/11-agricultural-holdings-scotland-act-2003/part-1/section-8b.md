@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8B. Termination of modern limited duration tenancies by landlord[^key-83387e9ada759b5e20546ff8e8d7bac6]
+## 8B. Termination of modern limited duration tenancies by landlord[^c-83387e9ada759b5e20546ff8e8d7bac6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83387e9ada759b5e20546ff8e8d7bac6]: Textual amendment: Ss. 8A-8E inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 87(2)](https://www.legislation.gov.uk/asp/2016/18/section/87/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-83387e9ada759b5e20546ff8e8d7bac6]: Textual amendment: Ss. 8A-8E inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 87(2)](https://www.legislation.gov.uk/asp/2016/18/section/87/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

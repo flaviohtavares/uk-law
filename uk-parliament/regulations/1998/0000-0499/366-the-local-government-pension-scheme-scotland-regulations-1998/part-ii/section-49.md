@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Commutation: exceptional ill-health[^key-5ecd27c5df0d87c1da9ef68b25cffb9c]
+## 49. Commutation: exceptional ill-health[^c-5ecd27c5df0d87c1da9ef68b25cffb9c]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ecd27c5df0d87c1da9ef68b25cffb9c]: Commencement: Reg. 49 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-5ecd27c5df0d87c1da9ef68b25cffb9c]: Commencement: Reg. 49 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) An application must be made in writing to HMRC.
 
-(2)[^key-e5b1068976ace201dee2141282f579b0] The application must be received by HMRC before the later of—
+(2)[^c-e5b1068976ace201dee2141282f579b0] The application must be received by HMRC before the later of—
 
 - (a) the end of the first period of account for which it is proposed that this Part should apply to the fund, and
 - (b) the expiry of a period of 3 months beginning with the first day on which interests in the fund are made available to investors resident in the United Kingdom.
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b1068976ace201dee2141282f579b0]: Textual amendment: Reg. 54(2)(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2011/1211/regulation/31)
+[^c-e5b1068976ace201dee2141282f579b0]: Textual amendment: Reg. 54(2)(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2011/1211/regulation/31)

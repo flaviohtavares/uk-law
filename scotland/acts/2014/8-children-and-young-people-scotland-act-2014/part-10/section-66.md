@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Provision of aftercare to young people[^key-548435e5cebd17669de7e24c1020a321][^key-f8d38c32c7e03f4398d93c68cfa9745b]
+## 66. Provision of aftercare to young people[^c-548435e5cebd17669de7e24c1020a321][^c-f8d38c32c7e03f4398d93c68cfa9745b]
 
 *Extent: S*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-548435e5cebd17669de7e24c1020a321]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/8/section/66) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-548435e5cebd17669de7e24c1020a321]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/8/section/66) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-f8d38c32c7e03f4398d93c68cfa9745b]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/8/section/66) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-f8d38c32c7e03f4398d93c68cfa9745b]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/8/section/66) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

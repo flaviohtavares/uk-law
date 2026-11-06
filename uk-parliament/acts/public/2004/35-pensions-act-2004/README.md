@@ -43,7 +43,7 @@ An Act to make provision relating to pensions and financial planning for retirem
 
 \[18th November 2004\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-874fc4497f7ddd6f0f33197e977d68fe][^key-b99b90024eef3ac57306eea191202216][^key-b453ad46b5697a792e9f2441d6a06d2e][^key-5ab6f855fa0994d83e252c173f26fcbd][^key-a35186a0761c9d91fee79c1db1bb9b5b][^key-c93be7c1ee4a27947e85df886449e1fb][^key-4be1a78246882760495a87362b0e5224]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-874fc4497f7ddd6f0f33197e977d68fe][^c-b99b90024eef3ac57306eea191202216][^c-b453ad46b5697a792e9f2441d6a06d2e][^c-5ab6f855fa0994d83e252c173f26fcbd][^c-a35186a0761c9d91fee79c1db1bb9b5b][^c-c93be7c1ee4a27947e85df886449e1fb][^c-4be1a78246882760495a87362b0e5224]
 
 ## Contents
 
@@ -182,7 +182,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 58 — Regulator’s right to apply under section 423 of Insolvency Act 1986](part-1/section-58.md)
 
-#### Sanctions for avoidance of employer debt etc[^key-2ad9ff8140e68e19b32593871481ce82]
+#### Sanctions for avoidance of employer debt etc[^c-2ad9ff8140e68e19b32593871481ce82]
 
 - [Section 58A — Offence of avoidance of employer debt](part-1/section-58a.md)
 - [Section 58B — Offence of conduct risking accrued scheme benefits](part-1/section-58b.md)
@@ -220,7 +220,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 70 — Duty to report breaches of the law](part-1/section-70.md)
 
-#### Reporting late payment of employer contributions[^key-ff7e1f22da5dc8065e1872668914a66c]
+#### Reporting late payment of employer contributions[^c-ff7e1f22da5dc8065e1872668914a66c]
 
 - [Section 70A — Duty to report late payment of employer contributions](part-1/section-70a.md)
 
@@ -272,7 +272,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 87 — Other permitted disclosures](part-1/section-87.md)
 - [Section 88 — Tax information etc](part-1/section-88.md)
 
-#### Financial penalties[^key-3a93ee0908fe99cdaeda34b15fdc5ebe]
+#### Financial penalties[^c-3a93ee0908fe99cdaeda34b15fdc5ebe]
 
 - [Section 88A — Financial penalties](part-1/section-88a.md)
 - [Section 88B — Financial penalties: time for recovery](part-1/section-88b.md)
@@ -308,7 +308,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 100 — Duty to have regard to the interests of members etc](part-1/section-100.md)
 - [Section 101 — Powers to vary or revoke orders, notices or directions etc](part-1/section-101.md)
 
-#### References to a tribunal[^key-16c26161858e9ea27d9914c4aac5d983]
+#### References to a tribunal[^c-16c26161858e9ea27d9914c4aac5d983]
 
 *Extent: E+W+S+N.I.*
 
@@ -319,11 +319,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 105 — Redetermination etc by the Tribunal](part-1/section-105.md)
 - [Section 106 — Legal assistance scheme](part-1/section-106.md)
 
-### Part 2 — The Board of the Pension Protection Fund[^M_C_ccf587bb-6136-4e57-bc24-b44b42367394][^M_C_5055b213-8be6-481c-c832-455a7658859e][^M_C_89250d8d-2e97-42ed-8b0c-f03c2fbee42a][^key-483d3a59fcd96500e50be37af78ac6ce]
+### Part 2 — The Board of the Pension Protection Fund[^M_C_ccf587bb-6136-4e57-bc24-b44b42367394][^M_C_5055b213-8be6-481c-c832-455a7658859e][^M_C_89250d8d-2e97-42ed-8b0c-f03c2fbee42a][^c-483d3a59fcd96500e50be37af78ac6ce]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — The Board[^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82][^key-9f7630100fb0bee3a3dbda1545f54369]
+#### Chapter 1 — The Board[^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 ##### Establishment
 
@@ -354,7 +354,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 119 — Annual reports to Secretary of State](part-2/section-119.md)
 
-#### Chapter 2 — Information relating to employer’s insolvency etc[^key-8ae4f61b00045ebee33fee3b22100c82][^key-a7ed8489e179b987a8f0f27af89fb104]
+#### Chapter 2 — Information relating to employer’s insolvency etc[^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104]
 
 *Extent: E+W+S*
 
@@ -375,7 +375,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 124 — Board’s duty where there is a failure to comply with section 122](part-2/section-124.md)
 - [Section 125 — Binding notices confirming status of scheme](part-2/section-125.md)
 
-#### Chapter 3 — Pension protection[^key-8ae4f61b00045ebee33fee3b22100c82][^key-a7ed8489e179b987a8f0f27af89fb104][^key-9f7630100fb0bee3a3dbda1545f54369]
+#### Chapter 3 — Pension protection[^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S+N.I.*
 
@@ -488,7 +488,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 167 — Modification of Chapter where liabilities discharged during assessment period](part-2/section-167.md)
 - [Section 168 — Administration of compensation](part-2/section-168.md)
 
-##### Charges in respect of pension sharing etc[^key-15a71b5f20ed889d3e2e1421c925b7eb]
+##### Charges in respect of pension sharing etc[^c-15a71b5f20ed889d3e2e1421c925b7eb]
 
 - [Section 168A — Charges in respect of pension sharing etc](part-2/section-168a.md)
 
@@ -515,7 +515,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 173 — Pension Protection Fund](part-2/section-173.md)
 
-##### Pension protection levies[^key-0affdf6983a5cb2b956d25b7832837af]
+##### Pension protection levies[^c-0affdf6983a5cb2b956d25b7832837af]
 
 *Extent: E+W+S*
 
@@ -529,7 +529,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 181 — Calculation, collection and recovery of levies](part-2/section-181.md)
 - [Section 181A — Pension protection levy: interest for late payment](part-2/section-181a.md)
 
-#### Chapter 4 — Fraud compensation[^key-8ae4f61b00045ebee33fee3b22100c82][^key-9f7630100fb0bee3a3dbda1545f54369]
+#### Chapter 4 — Fraud compensation[^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S+N.I.*
 
@@ -554,7 +554,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 189 — Fraud compensation levy](part-2/section-189.md)
 
-#### Chapter 5 — Gathering information[^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82][^key-9f7630100fb0bee3a3dbda1545f54369]
+#### Chapter 5 — Gathering information[^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S*
 
@@ -593,7 +593,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 205 — Publishing reports etc](part-2/section-205.md)
 
-#### Chapter 6 — Reviews, appeals and maladministration[^key-8ae4f61b00045ebee33fee3b22100c82][^key-a7ed8489e179b987a8f0f27af89fb104][^key-9f7630100fb0bee3a3dbda1545f54369]
+#### Chapter 6 — Reviews, appeals and maladministration[^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 ##### Review etc by the Board
 
@@ -624,7 +624,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 217 — Determinations of the PPF Ombudsman](part-2/section-217.md)
 - [Section 218 — Obstruction etc of the PPF Ombudsman](part-2/section-218.md)
 
-#### Chapter 7 — Miscellaneous[^key-a7ed8489e179b987a8f0f27af89fb104][^key-8ae4f61b00045ebee33fee3b22100c82]
+#### Chapter 7 — Miscellaneous[^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82]
 
 ##### Backdating the winding up of eligible schemes
 
@@ -636,7 +636,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 220 — Pension sharing](part-2/section-220.md)
 
-### Part 3 — Scheme funding[^key-e4c6135becae08bc234e235fd2888aae][^key-cea7e7bf9e8e9a0064a2dc6ad604f567][^key-5be3670b1f7fb172ef921f5f203e670c][^key-aa656be260842006494945a32be32a37][^key-882e98ae09e7abd62c886a686ad0a66b][^key-85c25da5b73c65adc75d7f9a4b604bcb][^key-5097c61509c4c53dd585c98336388c37][^key-8471bb6d83c92becda0656de3491ba2a][^key-ddd085fd29a0b47cb38a395ecbd80b72][^key-45f7f32e51d37fb59a6792f0eca10d7f][^key-2b17fe812bd69e3cae13081c33ccf0c9]
+### Part 3 — Scheme funding[^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-85c25da5b73c65adc75d7f9a4b604bcb][^c-5097c61509c4c53dd585c98336388c37][^c-8471bb6d83c92becda0656de3491ba2a][^c-ddd085fd29a0b47cb38a395ecbd80b72][^c-45f7f32e51d37fb59a6792f0eca10d7f][^c-2b17fe812bd69e3cae13081c33ccf0c9]
 
 *Extent: E+W+S*
 
@@ -688,7 +688,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 238 — Information and advice to employees](part-4/section-238.md)
 
-#### Pensions dashboards[^key-8b3ba6d49bf228266aaa24fa0c80594c]
+#### Pensions dashboards[^c-8b3ba6d49bf228266aaa24fa0c80594c]
 
 - [Section 238A — Qualifying pensions dashboard service](part-4/section-238a.md)
 - [Section 238B — Qualifying pension dashboard service: further provision](part-4/section-238b.md)
@@ -875,13 +875,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 286 — Financial assistance scheme for members of certain pension schemes](part-6/section-286.md)
 - [Section 286A — Restriction on purchase of annuities](part-6/section-286a.md)
 
-### Part 7 — Cross-border activities within European Union[^key-b04934cd888e7276c0a6939405dcd835]
+### Part 7 — Cross-border activities within European Union[^c-b04934cd888e7276c0a6939405dcd835]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### UK occupational pension scheme receiving contributions from European employer[^key-b04934cd888e7276c0a6939405dcd835]
+#### UK occupational pension scheme receiving contributions from European employer[^c-b04934cd888e7276c0a6939405dcd835]
 
 *Extent: E+W+S*
 
@@ -895,19 +895,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 292 — Power of Regulator to require ring-fencing of assets](part-7/section-292.md)
 - [Section 292A — Exemption from enrolment duty under Part 1 of Pensions Act 2008](part-7/section-292a.md)
 
-#### European occupational pension scheme receiving contributions from UK employer[^key-b04934cd888e7276c0a6939405dcd835]
+#### European occupational pension scheme receiving contributions from UK employer[^c-b04934cd888e7276c0a6939405dcd835]
 
 **No longer in force.**
 
 - [Section 293 — Functions of Regulator in relation to institutions administered in other member States](part-7/section-293.md)
 
-#### Assistance for other European regulators[^key-b04934cd888e7276c0a6939405dcd835]
+#### Assistance for other European regulators[^c-b04934cd888e7276c0a6939405dcd835]
 
 **No longer in force.**
 
 - [Section 294 — Stopping disposal of assets of institutions administered in other member States](part-7/section-294.md)
 
-#### Interpretation[^key-b04934cd888e7276c0a6939405dcd835]
+#### Interpretation[^c-b04934cd888e7276c0a6939405dcd835]
 
 **No longer in force.**
 
@@ -998,29 +998,29 @@ SCHEDULES
 
 ## Annotations
 
-[^key-874fc4497f7ddd6f0f33197e977d68fe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) modified (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/5)
+[^c-874fc4497f7ddd6f0f33197e977d68fe]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) modified (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/5)
 
-[^key-b99b90024eef3ac57306eea191202216]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35): power to modify conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 146(2)(e)](https://www.legislation.gov.uk/ukpga/2008/30/section/146/2/e)
+[^c-b99b90024eef3ac57306eea191202216]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35): power to modify conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 146(2)(e)](https://www.legislation.gov.uk/ukpga/2008/30/section/146/2/e)
 
-[^key-b453ad46b5697a792e9f2441d6a06d2e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-b453ad46b5697a792e9f2441d6a06d2e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-5ab6f855fa0994d83e252c173f26fcbd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-5ab6f855fa0994d83e252c173f26fcbd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-a35186a0761c9d91fee79c1db1bb9b5b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35): power to modify conferred (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/45/1), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(g)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/g)
+[^c-a35186a0761c9d91fee79c1db1bb9b5b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35): power to modify conferred (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 45(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/45/1), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(g)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/g)
 
-[^key-c93be7c1ee4a27947e85df886449e1fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-c93be7c1ee4a27947e85df886449e1fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-4be1a78246882760495a87362b0e5224]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2022/337/regulation/14)
+[^c-4be1a78246882760495a87362b0e5224]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2004/35) modified (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2022/337/regulation/14)
 
 [^M_C_5239d134-378d-4945-80e9-9064beff6e0f]: Modification: Pt. 1 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1) Pt. 1 (as amended (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), regs. 1, 5(2), 13; (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), regs. 1, 5, 18; (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/1149/regulation/5), [15](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15))
 
-[^key-2ad9ff8140e68e19b32593871481ce82]: Textual amendment: [Ss. 58A](https://www.legislation.gov.uk/ukpga/2004/35/section/58A), [58B](https://www.legislation.gov.uk/ukpga/2004/35/section/58B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 107(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/107/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))
+[^c-2ad9ff8140e68e19b32593871481ce82]: Textual amendment: [Ss. 58A](https://www.legislation.gov.uk/ukpga/2004/35/section/58A), [58B](https://www.legislation.gov.uk/ukpga/2004/35/section/58B) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 107(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/107/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/d) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(4)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/4))
 
-[^key-ff7e1f22da5dc8065e1872668914a66c]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/2004/35/section/70A) and cross-heading inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-ff7e1f22da5dc8065e1872668914a66c]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/2004/35/section/70A) and cross-heading inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
 
-[^key-3a93ee0908fe99cdaeda34b15fdc5ebe]: Textual amendment: [Ss. 88A-88C](https://www.legislation.gov.uk/ukpga/2004/35/section/88A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 115](https://www.legislation.gov.uk/ukpga/2021/1/section/115), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(i)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/i) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(5)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/5))
+[^c-3a93ee0908fe99cdaeda34b15fdc5ebe]: Textual amendment: [Ss. 88A-88C](https://www.legislation.gov.uk/ukpga/2004/35/section/88A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 115](https://www.legislation.gov.uk/ukpga/2021/1/section/115), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(i)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/i) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(5)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/5))
 
-[^key-16c26161858e9ea27d9914c4aac5d983]: Textual amendment: S. 102 cross-heading substituted (6.4.2010): (E.W.S.) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/77) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5)) and (N.I.) by [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2010/4/section/5/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2010/4/schedule/1/paragraph/6) (with [Sch. 2](https://www.legislation.gov.uk/nia/2010/4/schedule/2)); [S.R. 2010/101](https://www.legislation.gov.uk/nisr/2010/101), [art. 2](https://www.legislation.gov.uk/nisr/2010/101/article/2)
+[^c-16c26161858e9ea27d9914c4aac5d983]: Textual amendment: S. 102 cross-heading substituted (6.4.2010): (E.W.S.) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/77) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5)) and (N.I.) by [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2010/4/section/5/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2010/4/schedule/1/paragraph/6) (with [Sch. 2](https://www.legislation.gov.uk/nia/2010/4/schedule/2)); [S.R. 2010/101](https://www.legislation.gov.uk/nisr/2010/101), [art. 2](https://www.legislation.gov.uk/nisr/2010/101/article/2)
 
 [^M_C_ccf587bb-6136-4e57-bc24-b44b42367394]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except Ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72) (as amended (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/1688)](https://www.legislation.gov.uk/uksi/2012/1688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/1/2), [2(1)-(19)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/2/1); (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2012/3083/regulation/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10)))
 
@@ -1028,40 +1028,40 @@ SCHEDULES
 
 [^M_C_89250d8d-2e97-42ed-8b0c-f03c2fbee42a]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2) (as amended (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), regs. 1, 2(3)-(5); (30.4.2013) by [The Pension Protection Fund, Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/627)](https://www.legislation.gov.uk/uksi/2013/627), regs. 1(1), 8(4)(5))
 
-[^key-483d3a59fcd96500e50be37af78ac6ce]: Modification: Pt. 2 applied in part (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [42(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/42/1), [53](https://www.legislation.gov.uk/uksi/2014/1711/regulation/53), [57](https://www.legislation.gov.uk/uksi/2014/1711/regulation/57) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, art. 2
+[^c-483d3a59fcd96500e50be37af78ac6ce]: Modification: Pt. 2 applied in part (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [42(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/42/1), [53](https://www.legislation.gov.uk/uksi/2014/1711/regulation/53), [57](https://www.legislation.gov.uk/uksi/2014/1711/regulation/57) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, art. 2
 
-[^key-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
+[^c-a7ed8489e179b987a8f0f27af89fb104]: Modification: Pt. 2 modified (8.3.2005 for specified purposes, 6.4.2005 in so far as not already in force) by [The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (S.I. 2005/277)](https://www.legislation.gov.uk/uksi/2005/277), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/277/regulation/1/1), [2-11](https://www.legislation.gov.uk/uksi/2005/277/regulation/2)
 
-[^key-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
+[^c-8ae4f61b00045ebee33fee3b22100c82]: Modification: Pt. 2 modified in part (9.3.2005 for specified purposes, 1.4.2005 for specified purposes, 6.4.2005 in so far as not already in force (except ch. 4)) by [The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations 2005 (S.I. 2005/441)](https://www.legislation.gov.uk/uksi/2005/441), [regs. 1](https://www.legislation.gov.uk/uksi/2005/441/regulation/1), [2-60](https://www.legislation.gov.uk/uksi/2005/441/regulation/2), [71](https://www.legislation.gov.uk/uksi/2005/441/regulation/71), [72](https://www.legislation.gov.uk/uksi/2005/441/regulation/72)
 
-[^key-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-15a71b5f20ed889d3e2e1421c925b7eb]: Textual amendment: S. 168A and cross-heading inserted (6.3.2011 for specified purposes, 6.4.2011 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 121](https://www.legislation.gov.uk/ukpga/2008/30/section/121), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/2), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/1), 2
+[^c-15a71b5f20ed889d3e2e1421c925b7eb]: Textual amendment: S. 168A and cross-heading inserted (6.3.2011 for specified purposes, 6.4.2011 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 121](https://www.legislation.gov.uk/ukpga/2008/30/section/121), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/2), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/1), 2
 
-[^key-0affdf6983a5cb2b956d25b7832837af]: Textual amendment: [S. 174 cross-heading](https://www.legislation.gov.uk/ukpga/2004/35/part/2/chapter/3/crossheading/the-levies) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 123(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/123/3), [133(11)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/b); [S.I. 2026/669](https://www.legislation.gov.uk/uksi/2026/669), [reg. 2](https://www.legislation.gov.uk/uksi/2026/669/regulation/2)
+[^c-0affdf6983a5cb2b956d25b7832837af]: Textual amendment: [S. 174 cross-heading](https://www.legislation.gov.uk/ukpga/2004/35/part/2/chapter/3/crossheading/the-levies) substituted (29.6.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 123(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/123/3), [133(11)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/b); [S.I. 2026/669](https://www.legislation.gov.uk/uksi/2026/669), [reg. 2](https://www.legislation.gov.uk/uksi/2026/669/regulation/2)
 
-[^key-e4c6135becae08bc234e235fd2888aae]: Modification: Pt. 3 excluded by S.I. 2000/3198 Sch. (as inserted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/13/4))
+[^c-e4c6135becae08bc234e235fd2888aae]: Modification: Pt. 3 excluded by S.I. 2000/3198 Sch. (as inserted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 3 para. 13(4)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/13/4))
 
-[^key-cea7e7bf9e8e9a0064a2dc6ad604f567]: Modification: Pt. 3 applied (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2005/3381/regulation/15/1)
+[^c-cea7e7bf9e8e9a0064a2dc6ad604f567]: Modification: Pt. 3 applied (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2005/3381/regulation/15/1)
 
-[^key-5be3670b1f7fb172ef921f5f203e670c]: Modification: Pt. 3 modified (30.12.2005) by [The Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/1)
+[^c-5be3670b1f7fb172ef921f5f203e670c]: Modification: Pt. 3 modified (30.12.2005) by [The Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/1)
 
-[^key-aa656be260842006494945a32be32a37]: Modification: Pt. 3 excluded (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [17](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17)
+[^c-aa656be260842006494945a32be32a37]: Modification: Pt. 3 excluded (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [17](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17)
 
-[^key-882e98ae09e7abd62c886a686ad0a66b]: Modification: Pt. 3 modified (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [19](https://www.legislation.gov.uk/uksi/2005/3377/regulation/19), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2)
+[^c-882e98ae09e7abd62c886a686ad0a66b]: Modification: Pt. 3 modified (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [19](https://www.legislation.gov.uk/uksi/2005/3377/regulation/19), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2)
 
-[^key-85c25da5b73c65adc75d7f9a4b604bcb]: Modification: Pt. 3 extended by S.I. 1996/1172 reg. 49(4)(a)(i) (as substituted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 3 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/1/5/a))
+[^c-85c25da5b73c65adc75d7f9a4b604bcb]: Modification: Pt. 3 extended by S.I. 1996/1172 reg. 49(4)(a)(i) (as substituted (30.12.2005) by [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [Sch. 3 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/1/5/a))
 
-[^key-5097c61509c4c53dd585c98336388c37]: Modification: Pt. 3 excluded (29.9.2008 at 8.00 a.m.) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [Sch. 3 para. 11(b)(iii)](https://www.legislation.gov.uk/uksi/2008/2546/schedule/3/paragraph/11/b/iii)
+[^c-5097c61509c4c53dd585c98336388c37]: Modification: Pt. 3 excluded (29.9.2008 at 8.00 a.m.) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [Sch. 3 para. 11(b)(iii)](https://www.legislation.gov.uk/uksi/2008/2546/schedule/3/paragraph/11/b/iii)
 
-[^key-8471bb6d83c92becda0656de3491ba2a]: Modification: Pt. 3 excluded (29.9.2008) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [Sch. 3 para. 11(b)(iii)](https://www.legislation.gov.uk/uksi/2008/2546/schedule/3/paragraph/11/b/iii)
+[^c-8471bb6d83c92becda0656de3491ba2a]: Modification: Pt. 3 excluded (29.9.2008) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [Sch. 3 para. 11(b)(iii)](https://www.legislation.gov.uk/uksi/2008/2546/schedule/3/paragraph/11/b/iii)
 
-[^key-ddd085fd29a0b47cb38a395ecbd80b72]: Modification: Pt. 3 applied (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2014/1711/regulation/64) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, art. 2
+[^c-ddd085fd29a0b47cb38a395ecbd80b72]: Modification: Pt. 3 applied (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2014/1711/regulation/64) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, art. 2
 
-[^key-45f7f32e51d37fb59a6792f0eca10d7f]: Modification: Pt. 3 excluded (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2014/1711/regulation/63) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, art. 2
+[^c-45f7f32e51d37fb59a6792f0eca10d7f]: Modification: Pt. 3 excluded (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2014/1711/regulation/63) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c. 19 - see S.I. 2014/1683, art. 2
 
-[^key-2b17fe812bd69e3cae13081c33ccf0c9]: Modification: Pt. 3 modified by S.I. 2005/3377, Sch. 2 paras. 3B, 3C (as inserted (6.4.2018) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/237)](https://www.legislation.gov.uk/uksi/2018/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/12/2))
+[^c-2b17fe812bd69e3cae13081c33ccf0c9]: Modification: Pt. 3 modified by S.I. 2005/3377, Sch. 2 paras. 3B, 3C (as inserted (6.4.2018) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/237)](https://www.legislation.gov.uk/uksi/2018/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/12/2))
 
-[^key-8b3ba6d49bf228266aaa24fa0c80594c]: Textual amendment: Ss. 238A-238C and cross-heading inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/118/2), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
+[^c-8b3ba6d49bf228266aaa24fa0c80594c]: Textual amendment: Ss. 238A-238C and cross-heading inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/118/2), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
 
-[^key-b04934cd888e7276c0a6939405dcd835]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2004/35/part/7) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/192/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b04934cd888e7276c0a6939405dcd835]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2004/35/part/7) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/192/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

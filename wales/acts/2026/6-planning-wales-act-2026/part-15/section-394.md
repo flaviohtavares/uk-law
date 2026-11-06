@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 394. Power to modify compensation provisions in relation to minerals[^key-ea1dd68537deaaacb114d17db29cbde6]
+## 394. Power to modify compensation provisions in relation to minerals[^c-ea1dd68537deaaacb114d17db29cbde6]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea1dd68537deaaacb114d17db29cbde6]: Commencement: S. 394 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ea1dd68537deaaacb114d17db29cbde6]: Commencement: S. 394 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

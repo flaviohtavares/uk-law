@@ -50,13 +50,13 @@ This Order makes provision for a purpose mentioned in section 2(2) of the Europe
 
 ## PART 1 — INTRODUCTORY PROVISIONS
 
-### 1. Citation[^key-27b0e8940630a6b6cd35e7065c520d43]
+### 1. Citation[^c-27b0e8940630a6b6cd35e7065c520d43]
 
 (1) This Order may be cited as the Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 and comes into operation on 1st December 2019.
 
 (2) This Order applies to Northern Ireland only in so far as it does not deal with import and export controls and trade with any place outside the United Kingdom, within the meaning of paragraph 20 of Schedule 3 to the Northern Ireland Act 1998[^f00007].
 
-### 2. Interpretation[^key-13298829c0ce62f710d6dca538c9e058]
+### 2. Interpretation[^c-13298829c0ce62f710d6dca538c9e058]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00008] applies to this Order as it applies to an Act of the Assembly.
 
@@ -90,7 +90,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the Europe
 
 ## PART 2 — OFFENCES
 
-### 3. Keeping, breeding, transporting etc. of invasive alien species[^key-0e33d82cfb34b36b481d3d3160853741]
+### 3. Keeping, breeding, transporting etc. of invasive alien species[^c-0e33d82cfb34b36b481d3d3160853741]
 
 (1) Any person who contrary to Article 7 (restrictions) of the Principal Regulation intentionally—
 
@@ -118,7 +118,7 @@ commits an offence.
 - (a) an offence under paragraph (1); and
 - (b) an offence under paragraph (2) or (3).
 
-### 4. False statements[^key-e4b9d5f281207638ad0aedecf7a6e268]
+### 4. False statements[^c-e4b9d5f281207638ad0aedecf7a6e268]
 
 (1) Any person who, for the purpose of obtaining the issue of a permit or the grant of a licence (whether for themselves or another), knowingly or recklessly—
 
@@ -129,15 +129,15 @@ commits an offence.
 
 (2) Any person who, for the purpose of the notice referred to in Article 12(2), makes a statement or representation which is false in a material particular commits an offence.
 
-### 5. Misuse of permits or licences[^key-f7f7d708c186ea916ac28a35ec7dfc06]
+### 5. Misuse of permits or licences[^c-f7f7d708c186ea916ac28a35ec7dfc06]
 
 Any person who knowingly falsifies or alters a permit or of a licence commits an offence.
 
-### 6. Compliance with permits and licences[^key-9db9d1ed714d7b35e79be61b2e6dae66]
+### 6. Compliance with permits and licences[^c-9db9d1ed714d7b35e79be61b2e6dae66]
 
 Any person who knowingly contravenes a condition or requirement of a permit or of a licence commits an offence.
 
-### 7. Obstruction and deception[^key-b4e9c1ea1e21dbea73694549fbebd415]
+### 7. Obstruction and deception[^c-b4e9c1ea1e21dbea73694549fbebd415]
 
 (1) Any person who intentionally obstructs an authorised person acting in accordance with the powers conferred in Part 5 commits an offence.
 
@@ -147,7 +147,7 @@ Any person who knowingly contravenes a condition or requirement of a permit or o
 
 (4) Any person who furnishes to an authorised person any information knowing it to be false or misleading commits an offence.
 
-### 8. Offences committed by bodies corporate, partnerships and unincorporated associations[^key-e86477091c3d3a46509f493a657e9a35]
+### 8. Offences committed by bodies corporate, partnerships and unincorporated associations[^c-e86477091c3d3a46509f493a657e9a35]
 
 (1) For the purposes of this Order—
 
@@ -178,7 +178,7 @@ the officer or member as well as the association commits the offence and is liab
 
 (6) A fine imposed on a partnership or an unincorporated association on its conviction for an offence under this Part may be made payable out of the funds of the partnership or the association.
 
-### 9. Proceedings for offences: venue and time limits[^key-f72c23ccd99db9e5ea8b20debe7449b9]
+### 9. Proceedings for offences: venue and time limits[^c-f72c23ccd99db9e5ea8b20debe7449b9]
 
 (1) For the purposes of conferring jurisdiction in any proceedings for the prosecution of an offence under this Part, any such offence is deemed to have been committed in any place where the offender is found or to which the offender is first brought after the commission of the offence.
 
@@ -193,14 +193,14 @@ the officer or member as well as the association commits the offence and is liab
 
 ## PART 3 — Defences
 
-### 10. Defences – permits and licences[^key-ce4045d1c15ad26cf4b8ab26d1af2ccd]
+### 10. Defences – permits and licences[^c-ce4045d1c15ad26cf4b8ab26d1af2ccd]
 
 Article 3 (keeping, breeding, transporting etc. of invasive alien species) does not apply to anything done under and in accordance with—
 
 - (a) a permit; or
 - (b) a licence.
 
-### 11. Defences – enforcement activity[^key-9e5ae517ee14d3034919740a45bbf32b]
+### 11. Defences – enforcement activity[^c-9e5ae517ee14d3034919740a45bbf32b]
 
 It is a defence to a charge of committing an offence under Article 3 in relation to a breach of the restrictions in Article 3(1)(a), (c) or (e) if the person accused is—
 
@@ -209,7 +209,7 @@ It is a defence to a charge of committing an offence under Article 3 in relation
 
 and is acting for a purpose connected with the enforcement of this Order.
 
-### 12. Defences: due diligence[^key-cbc958905a640b5a55964bb79d459bd3]
+### 12. Defences: due diligence[^c-cbc958905a640b5a55964bb79d459bd3]
 
 (1) It is defence to a charge of committing an offence under Article 3(2) or (3) if the person charged (“P”) shows that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -217,7 +217,7 @@ and is acting for a purpose connected with the enforcement of this Order.
 
 (3) In paragraph (2), “relevant information” means information which identifies or assists in the identification of the other person.
 
-### 13. Transitional provision for non-commercial owners: companion animals[^key-a7bd41f604a8bc7c77a1535de0e74a69]
+### 13. Transitional provision for non-commercial owners: companion animals[^c-a7bd41f604a8bc7c77a1535de0e74a69]
 
 (1) It is a defence to a charge of committing an offence under Article 3(1)(a) or (c) to show that the specimen to which the alleged offence relates—
 
@@ -248,14 +248,14 @@ and is acting for a purpose connected with the enforcement of this Order.
   - (b) article 35 of the Invasive Alien Species (Enforcement and Permitting) Order 2019; or
   - (c) any provision in legislation which applies in relation to Scotland and which enables permits to be issued in accordance with Article 8 (permits) or 9 (authorisations) of the Principal Regulation.
 
-### 14. Transitional provision for non-commercial owners: commercial stocks[^key-598f333dc1ae332692e0a1c19633309e]
+### 14. Transitional provision for non-commercial owners: commercial stocks[^c-598f333dc1ae332692e0a1c19633309e]
 
 It is a defence to a charge of committing an offence under Article 3(1)(a) or (c) to show that the specimen to which the alleged offence relates—
 
 - (a) was received from a keeper of commercial stocks in accordance with Article 15(3)(d); and
 - (b) at all material times, was kept in contained holding and appropriate measures were in place to ensure that the specimen could not reproduce or escape.
 
-### 15. Transitional provisions for commercial stocks[^key-dc7c22a71f3f6dbca398b0e399e14917]
+### 15. Transitional provisions for commercial stocks[^c-dc7c22a71f3f6dbca398b0e399e14917]
 
 (1) It is a defence to a charge of committing an offence to which this Article applies for a keeper of a commercial stock of specimens to show that—
 
@@ -296,7 +296,7 @@ It is a defence to a charge of committing an offence under Article 3(1)(a) or (c
 
 ## PART 4 — PENALTIES
 
-### 16. Penalties[^key-7f4b2c7d99c86bf04a9e0008e56def10]
+### 16. Penalties[^c-7f4b2c7d99c86bf04a9e0008e56def10]
 
 (1) A person guilty of an offence under this Order is liable—
 
@@ -315,11 +315,11 @@ It is a defence to a charge of committing an offence under Article 3(1)(a) or (c
 
 ## PART 5 — ENFORCEMENT
 
-### 17. General[^key-73e5151527ca7cbe9c93cb5c4fc96880]
+### 17. General[^c-73e5151527ca7cbe9c93cb5c4fc96880]
 
 This Order is enforced by the Department and authorised persons.
 
-### 18. Powers of entry[^key-8f3e4ca3e9e8b05e7783e3dc639c7e73]
+### 18. Powers of entry[^c-8f3e4ca3e9e8b05e7783e3dc639c7e73]
 
 (1) Where an authorised person has reasonable grounds to suspect a specimen is being kept at premises, other than premises used wholly or mainly as a private dwelling, that authorised person may, at a reasonable time and on giving reasonable notice to the owner (and, where a different person, the occupier), enter, search and inspect those premises for the purpose of—
 
@@ -390,7 +390,7 @@ as the authorised person considers necessary.
 
 (13) An authorised person must, if requested to do so, by the owner (and, where a different person, the occupier) of the premises, produce evidence of their authority before entering premises by virtue of paragraph (1) or (4).
 
-### 19. Power to enter and search vehicles[^key-c4cd121602c5057269d925f9ddbc841a]
+### 19. Power to enter and search vehicles[^c-c4cd121602c5057269d925f9ddbc841a]
 
 (1) If an authorised person has reasonable grounds to suspect that there is relevant evidence in a vehicle, other than a vehicle used wholly or mainly as a private dwelling, the authorised officer may, at any time—
 
@@ -415,7 +415,7 @@ to afford such facilities and assistance with respect to matters under that pers
 
 (5) In this Article, “relevant evidence” means evidence that an offence under this Order has been committed.
 
-### 20. Examining relevant organisms and taking samples[^key-0c05bcbf424222fdd8640812f0f86138]
+### 20. Examining relevant organisms and taking samples[^c-0c05bcbf424222fdd8640812f0f86138]
 
 (1) An authorised person may, for the purpose of ascertaining whether an offence under this Order is being or has been committed—
 
@@ -428,7 +428,7 @@ to afford such facilities and assistance with respect to matters under that pers
 
 (2) An authorised person may destroy or otherwise dispose of any sample taken under this Article where the sample is no longer required.
 
-### 21. Power of seizure[^key-c546a56b9b74b47610e15ea230362272]
+### 21. Power of seizure[^c-c546a56b9b74b47610e15ea230362272]
 
 (1) An authorised person exercising the powers conferred in this Part may seize anything where they have reasonable grounds for believing that—
 
@@ -466,7 +466,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (9) In paragraph (7), “relevant specimen” means the specimen in relation to which the offence was committed.
 
-### 22. Enforcement notices[^key-902c45a58f4e964dd18a803ba621ceb8]
+### 22. Enforcement notices[^c-902c45a58f4e964dd18a803ba621ceb8]
 
 (1) Where it appears to the Department that an invasive alien species is present on any premises contrary to Article 17 (rapid eradication at an early stage of invasion) of the Principal Regulation, the Department may serve an enforcement notice on the occupier, requiring that person to carry out such of the following works or operations as may be specified in the notice, that is to say—
 
@@ -499,7 +499,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (6) Except where Article 25(3) applies, any person served with an enforcement notice commits an offence if the enforcement notice is not complied with.
 
-### 23. Supplementary power in relation to the owner of premises[^key-b9b61cdd1e37a52b7a1cebf47ac425d1]
+### 23. Supplementary power in relation to the owner of premises[^c-b9b61cdd1e37a52b7a1cebf47ac425d1]
 
 (1) Where the Department is satisfied that the grounds in paragraphs (2), (3) or (4) are met, it may serve an enforcement notice on the owner of any premises under Article 22(1).
 
@@ -522,13 +522,13 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (5) Article 22(2) to (6) applies in relation to enforcement notices served pursuant to this Article on the owner of the premises as it applies to enforcement notices served under Article 22(1) on the occupier of the premises.
 
-### 24. Recovery of expenses of enforcement notices[^key-cac96f0134d7b8260ac3881aaf2327b5]
+### 24. Recovery of expenses of enforcement notices[^c-cac96f0134d7b8260ac3881aaf2327b5]
 
 (1) This Article applies where the occupier or, where a different person, the owner, or both commits an offence under Article 22(6).
 
 (2) The court may (in addition to any other order it may make as to costs or expenses) order the person convicted to reimburse the Department for any expenditure which the Department has incurred under Article 22 (enforcement notices).
 
-### 25. Appeals[^key-4a01959dce8e11524ed602dac0f88e01]
+### 25. Appeals[^c-4a01959dce8e11524ed602dac0f88e01]
 
 (1) Any person served with an enforcement notice under Article 22(1) may, at any time before the notice takes effect pursuant to Article 22(4), appeal against it to a magistrates’ court.
 
@@ -540,7 +540,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (5) Paragraph (3) does not apply where the notice includes a statement that, in the opinion of the Department, there is an imminent risk of adverse effects or an imminent threat to biodiversity, ecosystem services, human health and/or the economy.
 
-### 26. Information sharing[^key-1ecb4c46e19f1f46cc7000792bc650a4]
+### 26. Information sharing[^c-1ecb4c46e19f1f46cc7000792bc650a4]
 
 (1) The Department and any authorised person may exchange information for the purposes of this Order, and may divulge information to any other enforcement authority in the UK for the purposes of this Order or the equivalent legislation applicable in the UK.
 
@@ -556,7 +556,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (4) This Article does not limit the circumstances in which information may be exchanged apart from this Article.
 
-### 27. Forfeiture[^key-74147b6d23f311f31b26319dfd48b295]
+### 27. Forfeiture[^c-74147b6d23f311f31b26319dfd48b295]
 
 (1) The court by which any person is convicted of an offence under this Order—
 
@@ -570,7 +570,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 ## PART 6 — PERMITS
 
-### 28. Permits for activities relating to invasive alien species[^key-759e019f69e75a403249687438ddbe70]
+### 28. Permits for activities relating to invasive alien species[^c-759e019f69e75a403249687438ddbe70]
 
 (1) The Department may issue to an establishment a permit which authorises it to carry out any prohibited action in relation to a specimen where it is carried out in the course of one or more of the following activities—
 
@@ -625,7 +625,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 ## PART 7 — LICENCES
 
-### 29. Licences for activities relating to invasive alien species[^key-2414e78b8133478294521c8f137f6b05]
+### 29. Licences for activities relating to invasive alien species[^c-2414e78b8133478294521c8f137f6b05]
 
 (1) Subject to the provisions of this Article, the Department may grant a licence for the purposes specified in paragraph (2).
 
@@ -658,7 +658,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 ## PART 8 — MISCELLANEOUS
 
-### 30. The Destructive Imported Animals Act (Northern Ireland) 1933[^key-0f94a8e51b3cb018f6057b9fa7e49a63]
+### 30. The Destructive Imported Animals Act (Northern Ireland) 1933[^c-0f94a8e51b3cb018f6057b9fa7e49a63]
 
 (1) A person may not by reason of the same act be convicted of both—
 
@@ -673,7 +673,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (5) In this Article, “1933 Act licence” means a licence granted under section 3 (grant and revocation of licences) of the 1933 Act, or a special licence granted under section 7 (saving in respect of animals kept for exhibition, etc.) of that Act.
 
-### 31. Fisheries Act (Northern Ireland) 1966[^key-fd0aae0558bc2ebd2c27bc91f3c0bd4f]
+### 31. Fisheries Act (Northern Ireland) 1966[^c-fd0aae0558bc2ebd2c27bc91f3c0bd4f]
 
 (1) A person may not by reason of the same act or omission be convicted of both—
 
@@ -688,7 +688,7 @@ any power to seize the item conferred by this Article includes power to seize th
 
 (5) In this Article, “1966 Act licence or permit” means a licence granted under section 11(1) or a permit issued under section 13(3) or 14(1) (exemptions for artificial propagation and scientific purposes) of the 1966 Act.
 
-### 32. Amendments to the Wildlife (Northern Ireland) Order 1985[^key-38adae303258567262436fe75265cac8]
+### 32. Amendments to the Wildlife (Northern Ireland) Order 1985[^c-38adae303258567262436fe75265cac8]
 
 (1) The Wildlife (Northern Ireland) Order 1985[^f00020] is amended as follows.
 
@@ -745,7 +745,7 @@ Department of Agriculture, Environment and Rural Affairs
 
 Article 3
 
-### PART 1 — Animals to which the offence in Article 3(2) applies[^key-317bb71e84f8f6d24daf7c6c9d6233b3]
+### PART 1 — Animals to which the offence in Article 3(2) applies[^c-317bb71e84f8f6d24daf7c6c9d6233b3]
 
 <table>
 <thead>
@@ -766,7 +766,7 @@ Article 3
 
 [^f01000]
 
-### PART 2 — Plants to which the offence in Article 3(3) applies[^key-fbca61a91cea03f649fc13b57fdceb10]
+### PART 2 — Plants to which the offence in Article 3(3) applies[^c-fbca61a91cea03f649fc13b57fdceb10]
 
 <table>
 <thead>
@@ -823,77 +823,77 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00006]: Footnote: O.J. No. L317, 4.11.2014, p.35
 
-[^key-27b0e8940630a6b6cd35e7065c520d43]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2019/159/article/1) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-27b0e8940630a6b6cd35e7065c520d43]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2019/159/article/1) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00007]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47)
 
-[^key-13298829c0ce62f710d6dca538c9e058]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2019/159/article/2) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-13298829c0ce62f710d6dca538c9e058]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2019/159/article/2) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00009]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36)
 
-[^key-0e33d82cfb34b36b481d3d3160853741]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2019/159/article/3) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-0e33d82cfb34b36b481d3d3160853741]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2019/159/article/3) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-e4b9d5f281207638ad0aedecf7a6e268]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2019/159/article/4) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-e4b9d5f281207638ad0aedecf7a6e268]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2019/159/article/4) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-f7f7d708c186ea916ac28a35ec7dfc06]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2019/159/article/5) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-f7f7d708c186ea916ac28a35ec7dfc06]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2019/159/article/5) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-9db9d1ed714d7b35e79be61b2e6dae66]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2019/159/article/6) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-9db9d1ed714d7b35e79be61b2e6dae66]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2019/159/article/6) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-b4e9c1ea1e21dbea73694549fbebd415]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2019/159/article/7) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-b4e9c1ea1e21dbea73694549fbebd415]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2019/159/article/7) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-e86477091c3d3a46509f493a657e9a35]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2019/159/article/8) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-e86477091c3d3a46509f493a657e9a35]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2019/159/article/8) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00010]: Footnote: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15)
 
 [^f00011]: Footnote: [S.I. 1981/1675 (N.I.)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-f72c23ccd99db9e5ea8b20debe7449b9]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2019/159/article/9) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-f72c23ccd99db9e5ea8b20debe7449b9]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2019/159/article/9) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-ce4045d1c15ad26cf4b8ab26d1af2ccd]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2019/159/article/10) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-ce4045d1c15ad26cf4b8ab26d1af2ccd]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2019/159/article/10) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-9e5ae517ee14d3034919740a45bbf32b]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2019/159/article/11) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-9e5ae517ee14d3034919740a45bbf32b]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2019/159/article/11) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-cbc958905a640b5a55964bb79d459bd3]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2019/159/article/12) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-cbc958905a640b5a55964bb79d459bd3]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2019/159/article/12) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-a7bd41f604a8bc7c77a1535de0e74a69]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2019/159/article/13) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-a7bd41f604a8bc7c77a1535de0e74a69]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2019/159/article/13) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00012]: Footnote: [S.I. 2019/527](https://www.legislation.gov.uk/uksi/2019/527)
 
-[^key-598f333dc1ae332692e0a1c19633309e]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2019/159/article/14) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-598f333dc1ae332692e0a1c19633309e]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2019/159/article/14) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-dc7c22a71f3f6dbca398b0e399e14917]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2019/159/article/15) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-dc7c22a71f3f6dbca398b0e399e14917]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2019/159/article/15) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-7f4b2c7d99c86bf04a9e0008e56def10]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2019/159/article/16) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-7f4b2c7d99c86bf04a9e0008e56def10]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2019/159/article/16) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-73e5151527ca7cbe9c93cb5c4fc96880]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2019/159/article/17) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-73e5151527ca7cbe9c93cb5c4fc96880]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2019/159/article/17) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-8f3e4ca3e9e8b05e7783e3dc639c7e73]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2019/159/article/18) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-8f3e4ca3e9e8b05e7783e3dc639c7e73]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2019/159/article/18) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-c4cd121602c5057269d925f9ddbc841a]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2019/159/article/19) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-c4cd121602c5057269d925f9ddbc841a]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2019/159/article/19) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-0c05bcbf424222fdd8640812f0f86138]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2019/159/article/20) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-0c05bcbf424222fdd8640812f0f86138]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2019/159/article/20) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-c546a56b9b74b47610e15ea230362272]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2019/159/article/21) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-c546a56b9b74b47610e15ea230362272]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2019/159/article/21) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-902c45a58f4e964dd18a803ba621ceb8]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2019/159/article/22) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-902c45a58f4e964dd18a803ba621ceb8]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2019/159/article/22) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-b9b61cdd1e37a52b7a1cebf47ac425d1]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2019/159/article/23) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-b9b61cdd1e37a52b7a1cebf47ac425d1]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2019/159/article/23) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-cac96f0134d7b8260ac3881aaf2327b5]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2019/159/article/24) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-cac96f0134d7b8260ac3881aaf2327b5]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2019/159/article/24) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-4a01959dce8e11524ed602dac0f88e01]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2019/159/article/25) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-4a01959dce8e11524ed602dac0f88e01]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2019/159/article/25) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-1ecb4c46e19f1f46cc7000792bc650a4]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2019/159/article/26) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-1ecb4c46e19f1f46cc7000792bc650a4]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2019/159/article/26) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00013]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
 [^f00014]: Footnote: OJ No. L119, 4.5.2016, p.1.
 
-[^key-74147b6d23f311f31b26319dfd48b295]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisr/2019/159/article/27) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-74147b6d23f311f31b26319dfd48b295]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisr/2019/159/article/27) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-759e019f69e75a403249687438ddbe70]: Commencement: [Art. 28](https://www.legislation.gov.uk/nisr/2019/159/article/28) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-759e019f69e75a403249687438ddbe70]: Commencement: [Art. 28](https://www.legislation.gov.uk/nisr/2019/159/article/28) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00015]: Footnote: The precautionary principle is detailed in Article 191 of the Treaty on the Functioning of the European Union. It aims at ensuring a higher level of environmental protection through preventative decision-taking in the case of risk. See the Communication from the Commission on the precautionary principle (COM/2000/0001/Final).
 
@@ -901,27 +901,27 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00017]: Footnote: O.J. No. 1256. 7. 9. 1987. Vol.30.
 
-[^key-2414e78b8133478294521c8f137f6b05]: Commencement: [Art. 29](https://www.legislation.gov.uk/nisr/2019/159/article/29) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-2414e78b8133478294521c8f137f6b05]: Commencement: [Art. 29](https://www.legislation.gov.uk/nisr/2019/159/article/29) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
-[^key-0f94a8e51b3cb018f6057b9fa7e49a63]: Commencement: [Art. 30](https://www.legislation.gov.uk/nisr/2019/159/article/30) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-0f94a8e51b3cb018f6057b9fa7e49a63]: Commencement: [Art. 30](https://www.legislation.gov.uk/nisr/2019/159/article/30) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00018]: Footnote: [1933 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1933/5).
 
-[^key-fd0aae0558bc2ebd2c27bc91f3c0bd4f]: Commencement: [Art. 31](https://www.legislation.gov.uk/nisr/2019/159/article/31) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-fd0aae0558bc2ebd2c27bc91f3c0bd4f]: Commencement: [Art. 31](https://www.legislation.gov.uk/nisr/2019/159/article/31) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00019]: Footnote: [1966 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-38adae303258567262436fe75265cac8]: Commencement: [Art. 32](https://www.legislation.gov.uk/nisr/2019/159/article/32) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-38adae303258567262436fe75265cac8]: Commencement: [Art. 32](https://www.legislation.gov.uk/nisr/2019/159/article/32) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f00020]: Footnote: [1985 No.171 (N.I.2)](https://www.legislation.gov.uk/nisi/1985/171), as amended by the Wildlife and Natural Environment Act (N.I) [2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15)
 
-[^key-317bb71e84f8f6d24daf7c6c9d6233b3]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/159/schedule/part/1) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-317bb71e84f8f6d24daf7c6c9d6233b3]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/159/schedule/part/1) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f01000]: Footnote: (1)
 
     The common name or names given in the first column are included by way of guidance only; in the event of any dispute or proceedings, the common name or names will not be taken into account.
 
-[^key-fbca61a91cea03f649fc13b57fdceb10]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/159/schedule/part/2) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
+[^c-fbca61a91cea03f649fc13b57fdceb10]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/159/schedule/part/2) in operation at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1)
 
 [^f01001]: Footnote: (1)
 

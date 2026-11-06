@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — ADDITIONAL REQUIREMENTS FOR BIOGAS AND COMPOSTING PLANTS[^key-3a138b8af2876da48cf877e945ed76a6]
+## SCHEDULE 1 — ADDITIONAL REQUIREMENTS FOR BIOGAS AND COMPOSTING PLANTS[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Regulations 15, 19 and 36
 
-### PART I — premises[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART I — premises[^c-3a138b8af2876da48cf877e945ed76a6]
 
-**1.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — treatment systems and parameters for catering waste[^key-3a138b8af2876da48cf877e945ed76a6]
+### PART II — treatment systems and parameters for catering waste[^c-3a138b8af2876da48cf877e945ed76a6]
 
-**1.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3a138b8af2876da48cf877e945ed76a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Composting plants[^key-3a138b8af2876da48cf877e945ed76a6]
+#### 3. Composting plants[^c-3a138b8af2876da48cf877e945ed76a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Biogas plants[^key-3a138b8af2876da48cf877e945ed76a6]
+#### 4. Biogas plants[^c-3a138b8af2876da48cf877e945ed76a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)
+[^c-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)

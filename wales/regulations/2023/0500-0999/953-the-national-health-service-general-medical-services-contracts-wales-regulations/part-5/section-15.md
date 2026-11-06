@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Contracts with individuals practising in partnership[^key-1d6bf87eca957a6e7368b8e17aff9d39]
+## 15. Contracts with individuals practising in partnership[^c-1d6bf87eca957a6e7368b8e17aff9d39]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a contract is with two or more individuals practising in partnership—
 
 ## Annotations
 
-[^key-1d6bf87eca957a6e7368b8e17aff9d39]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2023/953/regulation/15) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-1d6bf87eca957a6e7368b8e17aff9d39]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2023/953/regulation/15) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

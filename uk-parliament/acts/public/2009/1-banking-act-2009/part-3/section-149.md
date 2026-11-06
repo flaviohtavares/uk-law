@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. General application of this Part[^M_I_5ec06c0f-8008-42f0-8c0b-7fb7494543e0][^key-85149bce6217ae66e599c365eb051a4b]
+## 149. General application of this Part[^M_I_5ec06c0f-8008-42f0-8c0b-7fb7494543e0][^c-85149bce6217ae66e599c365eb051a4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,8 +25,8 @@ summary: ''
 (2) For that purpose “**property transfer instrument**” includes—
 
 - (a) supplemental instruments under section 42,
-- (b) onward property transfer instruments under section 43, [^key-4be6004ef64edbc8d8bc448e8eaadb62]...
-- (ba)[^key-880a12f9a42aa0e1d933ac62318cc00a] bridge bank supplemental property transfer instruments under section 44D, and
+- (b) onward property transfer instruments under section 43, [^c-4be6004ef64edbc8d8bc448e8eaadb62]...
+- (ba)[^c-880a12f9a42aa0e1d933ac62318cc00a] bridge bank supplemental property transfer instruments under section 44D, and
 - (c) property transfer orders under section 45.
 
 (3) This Part applies to the bank with any modifications specified by the Treasury in regulations.
@@ -40,8 +40,8 @@ summary: ''
 
 [^M_I_5ec06c0f-8008-42f0-8c0b-7fb7494543e0]: Commencement: S. 149 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-85149bce6217ae66e599c365eb051a4b]: Commencement: S. 149 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-85149bce6217ae66e599c365eb051a4b]: Commencement: S. 149 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-4be6004ef64edbc8d8bc448e8eaadb62]: Textual amendment: Word in s. 149(2)(b) omitted (16.12.2016) by virtue of [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(10)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/10/a)
+[^c-4be6004ef64edbc8d8bc448e8eaadb62]: Textual amendment: Word in s. 149(2)(b) omitted (16.12.2016) by virtue of [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(10)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/10/a)
 
-[^key-880a12f9a42aa0e1d933ac62318cc00a]: Textual amendment: S. 149(2)(ba) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(10)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/10/b)
+[^c-880a12f9a42aa0e1d933ac62318cc00a]: Textual amendment: S. 149(2)(ba) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(10)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/10/b)

@@ -103,7 +103,7 @@ of the injury or disease in respect of which the assistance is to be given.
 
 **11.** The regulations may make the value of the employment-injury assistance that is to be given to an individual depend on the individual's age.
 
-##### Power to set value of assistance as nil[^key-e8c154f0b251645dcd34dca1158e2b2a]
+##### Power to set value of assistance as nil[^c-e8c154f0b251645dcd34dca1158e2b2a]
 
 **11A.** (1) Provision may be made in the regulations for the value of the employment-injury assistance that is to be given to an individual in respect of a period to be £0, but—
 
@@ -158,7 +158,7 @@ of the injury or disease in respect of which the assistance is to be given.
 
 - (a) Chapter 1 of Part 1,
 - (b) paragraph 7 in Chapter 2 of Part 1,
-- (ba)[^key-3bf4fa8fafa30db2d223597e7a72a17b] paragraph 11A in Chapter 1 of Part 2,
+- (ba)[^c-3bf4fa8fafa30db2d223597e7a72a17b] paragraph 11A in Chapter 1 of Part 2,
 - (c) paragraphs 13 and 14 in Chapter 2 of Part 2.
 
 #### Interpretation
@@ -170,6 +170,6 @@ of the injury or disease in respect of which the assistance is to be given.
 
 ## Annotations
 
-[^key-e8c154f0b251645dcd34dca1158e2b2a]: Textual amendment: Sch. 7 para. 11A inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(4)(a)](https://www.legislation.gov.uk/asp/2020/18/section/13/4/a), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
+[^c-e8c154f0b251645dcd34dca1158e2b2a]: Textual amendment: Sch. 7 para. 11A inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(4)(a)](https://www.legislation.gov.uk/asp/2020/18/section/13/4/a), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
 
-[^key-3bf4fa8fafa30db2d223597e7a72a17b]: Textual amendment: [Sch. 7 para. 15(ba)](https://www.legislation.gov.uk/asp/2018/9/schedule/7/paragraph/15/ba) inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(4)(b)](https://www.legislation.gov.uk/asp/2020/18/section/13/4/b), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
+[^c-3bf4fa8fafa30db2d223597e7a72a17b]: Textual amendment: [Sch. 7 para. 15(ba)](https://www.legislation.gov.uk/asp/2018/9/schedule/7/paragraph/15/ba) inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 13(4)(b)](https://www.legislation.gov.uk/asp/2020/18/section/13/4/b), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)

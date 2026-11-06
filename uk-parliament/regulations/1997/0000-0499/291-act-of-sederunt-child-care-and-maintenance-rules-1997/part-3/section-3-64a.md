@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.64A. Interim compulsory supervision order[^key-e0c8092fe838c3821a8b597d4479f2e3]
+## 3.64A. Interim compulsory supervision order[^c-e0c8092fe838c3821a8b597d4479f2e3]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the Principal Reporter shall intimate the order forthwith to the implementation 
 
 ## Annotations
 
-[^key-e0c8092fe838c3821a8b597d4479f2e3]: Textual amendment: Ch. 3 Pt. 10A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(57)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/57) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-e0c8092fe838c3821a8b597d4479f2e3]: Textual amendment: Ch. 3 Pt. 10A inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(57)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/57) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

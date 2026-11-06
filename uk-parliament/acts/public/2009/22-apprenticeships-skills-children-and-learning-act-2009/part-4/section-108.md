@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Assistance with respect to employment and training[^key-de42938c0536950caa24ab553e5da92b]
+## 108. Assistance with respect to employment and training[^c-de42938c0536950caa24ab553e5da92b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de42938c0536950caa24ab553e5da92b]: Textual amendment: S. 108 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/20)
+[^c-de42938c0536950caa24ab553e5da92b]: Textual amendment: S. 108 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/20)

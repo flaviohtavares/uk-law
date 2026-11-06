@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Candidate's personal expenses not to count for local election expenses limit in England and Wales[^key-f966c09541fd38e1cd2853935a6bca0f]
+## 37. Candidate's personal expenses not to count for local election expenses limit in England and Wales[^c-f966c09541fd38e1cd2853935a6bca0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f966c09541fd38e1cd2853935a6bca0f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/4/section/37) in force at 1.7.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/b)
+[^c-f966c09541fd38e1cd2853935a6bca0f]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/4/section/37) in force at 1.7.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/b)

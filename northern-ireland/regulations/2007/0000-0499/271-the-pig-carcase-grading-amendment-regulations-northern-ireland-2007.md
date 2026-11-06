@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Pig Carcase (Grading) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-50fbae40af690ee1c79f26d832b5a870]
+The Pig Carcase (Grading) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-50fbae40af690ee1c79f26d832b5a870]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 4th June 2007
 
-[^key-50fbae40af690ee1c79f26d832b5a870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50fbae40af690ee1c79f26d832b5a870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-50fbae40af690ee1c79f26d832b5a870]
+## 1. Citation, commencement and interpretation[^c-50fbae40af690ee1c79f26d832b5a870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pig Carcase (Grading) Regulations (Northern Ireland) 1994[^key-50fbae40af690ee1c79f26d832b5a870]
+## 2. Amendment of the Pig Carcase (Grading) Regulations (Northern Ireland) 1994[^c-50fbae40af690ee1c79f26d832b5a870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50fbae40af690ee1c79f26d832b5a870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50fbae40af690ee1c79f26d832b5a870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50fbae40af690ee1c79f26d832b5a870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50fbae40af690ee1c79f26d832b5a870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-50fbae40af690ee1c79f26d832b5a870]: Textual amendment: Regulations revoked (6.8.2010) by [The Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010 (S.R. 2010/231)](https://www.legislation.gov.uk/nisr/2010/231), [regs. 1](https://www.legislation.gov.uk/nisr/2010/231/regulation/1), [30(d)](https://www.legislation.gov.uk/nisr/2010/231/regulation/30)
+[^c-50fbae40af690ee1c79f26d832b5a870]: Textual amendment: Regulations revoked (6.8.2010) by [The Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010 (S.R. 2010/231)](https://www.legislation.gov.uk/nisr/2010/231), [regs. 1](https://www.legislation.gov.uk/nisr/2010/231/regulation/1), [30(d)](https://www.legislation.gov.uk/nisr/2010/231/regulation/30)

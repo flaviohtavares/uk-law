@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Public notice of early termination[^key-ac576c57671b913bc6a458f08543740f]
+## 141. Public notice of early termination[^c-ac576c57671b913bc6a458f08543740f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ and the provisions of those regulations are to apply to this regulation as they 
 
 ## Annotations
 
-[^key-ac576c57671b913bc6a458f08543740f]: Commencement: Reg. 141 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-ac576c57671b913bc6a458f08543740f]: Commencement: Reg. 141 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

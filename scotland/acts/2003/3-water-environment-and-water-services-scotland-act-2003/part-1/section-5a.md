@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Shellfish water protected areas[^key-f765c3361d69ce18504521abce9b9a8b]
+## 5A. Shellfish water protected areas[^c-f765c3361d69ce18504521abce9b9a8b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f765c3361d69ce18504521abce9b9a8b]: Textual amendment: S. 5A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(2)](https://www.legislation.gov.uk/asp/2013/7/section/54/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-f765c3361d69ce18504521abce9b9a8b]: Textual amendment: S. 5A inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(2)](https://www.legislation.gov.uk/asp/2013/7/section/54/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

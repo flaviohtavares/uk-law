@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Appeals to sheriff principal: section 166[^key-118a215db0875454ba0bbb94f6f7d3be]
+## 167. Appeals to sheriff principal: section 166[^c-118a215db0875454ba0bbb94f6f7d3be]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-118a215db0875454ba0bbb94f6f7d3be]: Commencement: S. 167 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-118a215db0875454ba0bbb94f6f7d3be]: Commencement: S. 167 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

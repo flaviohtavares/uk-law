@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Liquidation committee[^key-6d930fd4a65f6032a3ac6b43a8778184]
+## 42. Liquidation committee[^c-6d930fd4a65f6032a3ac6b43a8778184]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ In Article 120 (liquidation committee), for paragraphs (1) to (3) substitute—
 
 ## Annotations
 
-[^key-6d930fd4a65f6032a3ac6b43a8778184]: Commencement: S. 42 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6d930fd4a65f6032a3ac6b43a8778184]: Commencement: S. 42 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

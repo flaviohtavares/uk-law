@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Proposed exercise of powers in relation to legislation[^key-ee73072509c37cd21baf3405ecb08a3f]
+## 121. Proposed exercise of powers in relation to legislation[^c-ee73072509c37cd21baf3405ecb08a3f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee73072509c37cd21baf3405ecb08a3f]: Textual amendment: S. 121 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 61](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/61), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)
+[^c-ee73072509c37cd21baf3405ecb08a3f]: Textual amendment: S. 121 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 61](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/61), [Sch. 25 Pt. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/20); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7](https://www.legislation.gov.uk/uksi/2012/628/article/7)

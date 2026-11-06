@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Meaning of death grant beneficiary[^key-6b68f34b743a72249df2a4b0b4e5e54e]
+## 154. Meaning of death grant beneficiary[^c-6b68f34b743a72249df2a4b0b4e5e54e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b68f34b743a72249df2a4b0b4e5e54e]: Commencement: [Reg. 154](https://www.legislation.gov.uk/ssi/2014/292/regulation/154) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-6b68f34b743a72249df2a4b0b4e5e54e]: Commencement: [Reg. 154](https://www.legislation.gov.uk/ssi/2014/292/regulation/154) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

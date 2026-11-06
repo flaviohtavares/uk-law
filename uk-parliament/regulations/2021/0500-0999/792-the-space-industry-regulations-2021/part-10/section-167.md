@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Powers of spaceport firefighters in an emergency[^key-7cc48d59cf8ab5375eeaf139a0447992]
+## 167. Powers of spaceport firefighters in an emergency[^c-7cc48d59cf8ab5375eeaf139a0447992]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cc48d59cf8ab5375eeaf139a0447992]: Commencement: Reg. 167 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7cc48d59cf8ab5375eeaf139a0447992]: Commencement: Reg. 167 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

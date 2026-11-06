@@ -418,7 +418,7 @@ Section 3
 (3) In section 636A of ITEPA 2003 (exemption for certain lump sums under registered pension schemes)—
 
 - (a) in subsection (1) (lump sums on which there is no liability to income tax)—
-  - (i)[^key-4b79f28df2ac2ef1d2fdbba309adc961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-4b79f28df2ac2ef1d2fdbba309adc961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) omit paragraph (e) and the “or” preceding it (uncrystallised funds lump sum death benefit paid in respect of member who dies under 75), and
 - (b) in subsection (4)(aa) (on uncrystallised funds lump sum death benefit paid in respect of member who dies having reached 75 there is no liability to income tax other than liability under section 206 of FA 2004) omit “paid in respect of a member who had reached the age of 75 at the date of the member's death”.
 
@@ -613,7 +613,7 @@ Section 3
 
 ## Annotations
 
-[^key-4b79f28df2ac2ef1d2fdbba309adc961]: Textual amendment: Sch. 2 para. 19(3)(a)(i) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/b/ii)
+[^c-4b79f28df2ac2ef1d2fdbba309adc961]: Textual amendment: Sch. 2 para. 19(3)(a)(i) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/b/ii)
 
 [^c2233447]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/22) in force at Royal Assent, but see sub-para. (6)
 

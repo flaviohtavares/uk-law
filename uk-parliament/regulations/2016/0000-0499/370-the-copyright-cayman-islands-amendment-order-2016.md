@@ -45,29 +45,29 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, by and with the advice of Her Privy Council, in exercise of the powers conferred on Her by section 157(2) of the Copyright, Designs and Patents Act 1988[^f00001] makes the following Order:
 
-## 1. Citation and Commencement[^key-862f1b792c141a38603943c491db4b07]
+## 1. Citation and Commencement[^c-862f1b792c141a38603943c491db4b07]
 
 This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016 and shall come into force on such date as the Governor of the Cayman Islands may appoint by proclamation published in the Gazette of the Cayman Islands.
 
-## 2. Amendments to the Schedule to the Copyright (Cayman Islands) Order 2015[^key-256b242d16a64e9e1871146cbbfcd2fd]
+## 2. Amendments to the Schedule to the Copyright (Cayman Islands) Order 2015[^c-256b242d16a64e9e1871146cbbfcd2fd]
 
 (1) Part 1 of the Schedule to the Copyright (Cayman Islands) Order 2015[^f00002] is amended as follows.
 
 (2) In paragraph 1(a) omit “73A,”.
 
-**3.**[^key-84eb745b6171f871655621064876df47] Part 2 of the Schedule to the Copyright (Cayman Islands) Order 2015 is amended as follows.
+**3.**[^c-84eb745b6171f871655621064876df47] Part 2 of the Schedule to the Copyright (Cayman Islands) Order 2015 is amended as follows.
 
-**4.**[^key-97d17ecdf45eeb29e0eaeb4cf4907c61] In paragraph 3 insert after (b)—
+**4.**[^c-97d17ecdf45eeb29e0eaeb4cf4907c61] In paragraph 3 insert after (b)—
 
 > - (c) references to “educational establishments” are to be read as references to “educational institutions”.
 
 .
 
-**5.**[^key-932baeece4ef337c4f193df5ca5c703e] Insert after paragraph 3—
+**5.**[^c-932baeece4ef337c4f193df5ca5c703e] Insert after paragraph 3—
 
 > **3A.** Section 13A[^f00003] applies with the omission in subsection (2) of the words “and section 191(HA)(4).”.
 
-**6.**[^key-8b704c7485e6a794630fc9424e72746c] In paragraph 8 for (b) substitute—
+**6.**[^c-8b704c7485e6a794630fc9424e72746c] In paragraph 8 for (b) substitute—
 
 > - (b) with the substitution for subsection (7) of—
 >
@@ -77,7 +77,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**7.**[^key-263f1212ad7f0d87e67217d05915d159] In paragraph 13 for (b) substitute—
+**7.**[^c-263f1212ad7f0d87e67217d05915d159] In paragraph 13 for (b) substitute—
 
 > - (b) with the substitution for subsection (5) of—
 >
@@ -87,7 +87,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**8.**[^key-8c1065ff85dc9e4ff46ac43e9194d34e] For paragraph 14 substitute—
+**8.**[^c-8c1065ff85dc9e4ff46ac43e9194d34e] For paragraph 14 substitute—
 
 > **14.** Section 53[^f00004] applies—
 >
@@ -99,9 +99,9 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**9.**[^key-e9d12bd6ddd7b1f439eddb24dcc4ef30] Omit paragraph 15.
+**9.**[^c-e9d12bd6ddd7b1f439eddb24dcc4ef30] Omit paragraph 15.
 
-**10.**[^key-d4f071c741e13fbd589e99c8b90b3df4] In paragraph 16 for (b) substitute—
+**10.**[^c-d4f071c741e13fbd589e99c8b90b3df4] In paragraph 16 for (b) substitute—
 
 > - (b) with the substitution for subsection (4) of—
 >
@@ -109,13 +109,13 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 >
 >   .
 
-**11.**[^key-495f0822df2ea1b18da1aa9ceb72a82a] In paragraph 17 for subsection 69(4)[^f00006] as modified substitute—
+**11.**[^c-495f0822df2ea1b18da1aa9ceb72a82a] In paragraph 17 for subsection 69(4)[^f00006] as modified substitute—
 
 > (4) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
 .
 
-**12.**[^key-a7da0a57d72651156f828935c2a68e18] For paragraph 18 substitute—
+**12.**[^c-a7da0a57d72651156f828935c2a68e18] For paragraph 18 substitute—
 
 > **18.** Section 73[^f00007] applies—
 >
@@ -137,7 +137,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**13.**[^key-b18c46a768f8f9c7cd3a76326bd1d681] For paragraph 20 substitute—
+**13.**[^c-b18c46a768f8f9c7cd3a76326bd1d681] For paragraph 20 substitute—
 
 > **20.** Section 81(6) applies—
 >
@@ -147,9 +147,9 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**14.**[^key-0fe877604d43c52ace0252bd10b2e559] In paragraph 22 omit the words “under the Commissions of Enquiry” where they first appear.
+**14.**[^c-0fe877604d43c52ace0252bd10b2e559] In paragraph 22 omit the words “under the Commissions of Enquiry” where they first appear.
 
-**15.**[^key-45f7aecba11e379458b2a7d8091108cd] In paragraph 24 for (c) substitute—
+**15.**[^c-45f7aecba11e379458b2a7d8091108cd] In paragraph 24 for (c) substitute—
 
 > - (c) with the substitution for subsection (6) of—
 >
@@ -159,15 +159,15 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**16.**[^key-d3014f9900dd55ea06c28d63d176a33e] In paragraph 27 for sub-paragraph (d) substitute—
+**16.**[^c-d3014f9900dd55ea06c28d63d176a33e] In paragraph 27 for sub-paragraph (d) substitute—
 
 > - (d) with the omission of subsection (6)
 
 .
 
-**17.**[^key-25fae67916f852d1ee490339b4c542e8] In paragraph 29 in (b), after “(3A),” insert “(3B,)”.
+**17.**[^c-25fae67916f852d1ee490339b4c542e8] In paragraph 29 in (b), after “(3A),” insert “(3B,)”.
 
-**18.**[^key-5f62c2aaa67ef068a844b079eb370b00] In paragraph 30 for (b) substitute—
+**18.**[^c-5f62c2aaa67ef068a844b079eb370b00] In paragraph 30 for (b) substitute—
 
 > - (b) with the substitution for subsection (4) of—
 >
@@ -177,7 +177,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**19.**[^key-7a784937a63b4f4ed18f5448cae48dd4] For paragraph 35 substitute —
+**19.**[^c-7a784937a63b4f4ed18f5448cae48dd4] For paragraph 35 substitute —
 
 > **35.** Section 116[^f00008] applies—
 >
@@ -187,7 +187,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**20.**[^key-084f18597fd217192fe6e682d5a45cc8] For paragraph 37 substitute—
+**20.**[^c-084f18597fd217192fe6e682d5a45cc8] For paragraph 37 substitute—
 
 > **37.** Section 116D[^f00009] applies with the substitution for subsections (4) and (5) of—
 >
@@ -195,7 +195,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 >
 > .
 
-**21.**[^key-3bc359ecd325101bad1b5b507f650f78] In paragraph 39 for (b) substitute—
+**21.**[^c-3bc359ecd325101bad1b5b507f650f78] In paragraph 39 for (b) substitute—
 
 > - (b) with the substitution for subsection (2) of—
 >
@@ -205,7 +205,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**22.**[^key-50d721e21ab7a26c88dfdff337e91d2b] In paragraph 41 for (b) substitute—
+**22.**[^c-50d721e21ab7a26c88dfdff337e91d2b] In paragraph 41 for (b) substitute—
 
 > - (b) with the substitution for subsection (6) of—
 >
@@ -215,7 +215,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**23.**[^key-99563da9df3c60bbeba05dafa21358d0] In paragraph 42 for (b) substitute—
+**23.**[^c-99563da9df3c60bbeba05dafa21358d0] In paragraph 42 for (b) substitute—
 
 > - (b) with the substitution for subsection (8) of—
 >
@@ -225,7 +225,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**24.**[^key-6e303cf570b2efd9e00f493303a1a7d2] In paragraph 44—
+**24.**[^c-6e303cf570b2efd9e00f493303a1a7d2] In paragraph 44—
 
 - (a) for sections 145(2) and (3)[^f00010] as modified substitute—
 
@@ -239,15 +239,15 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
   ; and
 - (b) in section 148(1)(a) as modified omit the word “a” before “deputy”.
 
-**25.**[^key-a93411bab1e3c0386dc1f78b45b945ba] In paragraph 45 for “paragraph (ca)” substitute “paragraphs (ca) and (f)”.
+**25.**[^c-a93411bab1e3c0386dc1f78b45b945ba] In paragraph 45 for “paragraph (ca)” substitute “paragraphs (ca) and (f)”.
 
-**26.**[^key-086cdd06c9ea16ea7a764ea01cbe3a5c] In paragraph 46 for section 150(5) as modified substitute—
+**26.**[^c-086cdd06c9ea16ea7a764ea01cbe3a5c] In paragraph 46 for section 150(5) as modified substitute—
 
 > (5) Rules made under this section are subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
 .
 
-**27.**[^key-0de53cf1227ae6708ab07f9ba042c00d] In paragraph 51 for sub-paragraph (c) substitute—
+**27.**[^c-0de53cf1227ae6708ab07f9ba042c00d] In paragraph 51 for sub-paragraph (c) substitute—
 
 > - (c) with the substitution for subsections (4) and (5) of—
 >
@@ -259,13 +259,13 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**28.**[^key-ce3fd78b452e2aa8e154958dcac9eae0] In paragraph 52 for section 160(5) as modified substitute—
+**28.**[^c-ce3fd78b452e2aa8e154958dcac9eae0] In paragraph 52 for section 160(5) as modified substitute—
 
 > (5) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
 .
 
-**29.**[^key-5e2b86b4b44bd4e01f2a913c3fe528af] For paragraph 53 substitute—
+**29.**[^c-5e2b86b4b44bd4e01f2a913c3fe528af] For paragraph 53 substitute—
 
 > **53.** Section 163[^f00011] applies—
 >
@@ -274,7 +274,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**30.**[^key-b9120aa06974979b8ca3083858a392e7] Paragraph 54 is amended as follows—
+**30.**[^c-b9120aa06974979b8ca3083858a392e7] Paragraph 54 is amended as follows—
 
 - (a) for sub-paragraph (a) substitute—
 
@@ -288,7 +288,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
   .
 
-**31.**[^key-bd5f140aea8a52ddedc02cb96ba97468] Paragraph 55 is amended as follows—
+**31.**[^c-bd5f140aea8a52ddedc02cb96ba97468] Paragraph 55 is amended as follows—
 
 - (a) for section 168(5) as modified substitute—
 
@@ -301,7 +301,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
   .
 
-**32.**[^key-791151aaeb0201c21e6e54655ba18388] After paragraph 55 insert—
+**32.**[^c-791151aaeb0201c21e6e54655ba18388] After paragraph 55 insert—
 
 > **55A.** Section 170[^f00012] applies—
 >
@@ -316,19 +316,19 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**33.**[^key-76fb6192820bb1459bf2b03580bea237] In paragraph 56 for sub-paragraph (c) substitute—
+**33.**[^c-76fb6192820bb1459bf2b03580bea237] In paragraph 56 for sub-paragraph (c) substitute—
 
 > - (c) with the substitution in subsection (5) for the words “Acts, Measures” of the word “Laws”
 
 .
 
-**34.**[^key-cd96dfb8c203af484459eda17ea2d80f] In paragraph 57 for section 174(7) as modified substitute—
+**34.**[^c-cd96dfb8c203af484459eda17ea2d80f] In paragraph 57 for section 174(7) as modified substitute—
 
 > (7) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
 .
 
-**35.**[^key-2fc649ff2cab3e9ffc7c4da83e7d9530] In paragraph 59 insert after sub-paragraph (a)—
+**35.**[^c-2fc649ff2cab3e9ffc7c4da83e7d9530] In paragraph 59 insert after sub-paragraph (a)—
 
 > - (aa) with the omission from the index of defined expressions of the following expressions and of the provisions indicated opposite them in the index—
 >
@@ -336,7 +336,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**36.**[^key-37f7c8f4ad4431516ba1c965402c1e51] After paragraph 59 insert—
+**36.**[^c-37f7c8f4ad4431516ba1c965402c1e51] After paragraph 59 insert—
 
 > **59A.** Schedule ZA1[^f00013] applies—
 >
@@ -375,7 +375,7 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**37.**[^key-0f0b2fa87e5830e96da6b9920ee7e473] In paragraph 60 for sub-paragraph (b) substitute—
+**37.**[^c-0f0b2fa87e5830e96da6b9920ee7e473] In paragraph 60 for sub-paragraph (b) substitute—
 
 > - (b) with the substitution for the definition of “the new copyright provisions” of the following—
 >
@@ -385,19 +385,19 @@ This Order may be cited as the Copyright (Cayman Islands) (Amendment) Order 2016
 
 .
 
-**38.**[^key-5bedb8ab607993842dc5af2e7bd2c884] For paragraph 64 substitute—
+**38.**[^c-5bedb8ab607993842dc5af2e7bd2c884] For paragraph 64 substitute—
 
 > **64.** Paragraph 19 of Schedule 1 applies with the omission of sub-paragraphs (2) to (7).
 
 .
 
-**39.**[^key-a141f27eb1d905661d3bf08b6a9aea6f] For paragraph 68 substitute—
+**39.**[^c-a141f27eb1d905661d3bf08b6a9aea6f] For paragraph 68 substitute—
 
 > **68.** Paragraph 40(1)(b) applies with the substitution of the words “Laws” for the words “Acts, measures.”.
 
 .
 
-**40.**[^key-25353c8bfef35b143cdc9343f5d4d1f3] In paragraph 69 for “Acts” substitute “Laws”.
+**40.**[^c-25353c8bfef35b143cdc9343f5d4d1f3] In paragraph 69 for “Acts” substitute “Laws”.
 
 Ceri King
 
@@ -415,106 +415,106 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-862f1b792c141a38603943c491db4b07]: Commencement: Art. 1 comes into force in accordance with art. 1
+[^c-862f1b792c141a38603943c491db4b07]: Commencement: Art. 1 comes into force in accordance with art. 1
 
-[^key-256b242d16a64e9e1871146cbbfcd2fd]: Commencement: Art. 2 comes into force in accordance with art. 1
+[^c-256b242d16a64e9e1871146cbbfcd2fd]: Commencement: Art. 2 comes into force in accordance with art. 1
 
 [^f00002]: Footnote: [S.I. 2015/795](https://www.legislation.gov.uk/uksi/2015/795).
 
-[^key-84eb745b6171f871655621064876df47]: Commencement: Art. 3 comes into force in accordance with art. 1
+[^c-84eb745b6171f871655621064876df47]: Commencement: Art. 3 comes into force in accordance with art. 1
 
-[^key-97d17ecdf45eeb29e0eaeb4cf4907c61]: Commencement: Art. 4 comes into force in accordance with art. 1
+[^c-97d17ecdf45eeb29e0eaeb4cf4907c61]: Commencement: Art. 4 comes into force in accordance with art. 1
 
-[^key-932baeece4ef337c4f193df5ca5c703e]: Commencement: Art. 5 comes into force in accordance with art. 1
+[^c-932baeece4ef337c4f193df5ca5c703e]: Commencement: Art. 5 comes into force in accordance with art. 1
 
 [^f00003]: Footnote: Section 13A was amended by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297) regulation 6(1), [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498) regulations 2(2), 3, 29, Schedule 2 and [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782) regulations 3, 6.
 
-[^key-8b704c7485e6a794630fc9424e72746c]: Commencement: Art. 6 comes into force in accordance with art. 1
+[^c-8b704c7485e6a794630fc9424e72746c]: Commencement: Art. 6 comes into force in accordance with art. 1
 
-[^key-263f1212ad7f0d87e67217d05915d159]: Commencement: Art. 7 comes into force in accordance with art. 1
+[^c-263f1212ad7f0d87e67217d05915d159]: Commencement: Art. 7 comes into force in accordance with art. 1
 
-[^key-8c1065ff85dc9e4ff46ac43e9194d34e]: Commencement: Art. 8 comes into force in accordance with art. 1
+[^c-8c1065ff85dc9e4ff46ac43e9194d34e]: Commencement: Art. 8 comes into force in accordance with art. 1
 
 [^f00004]: Footnote: Section 53 was amended by the Intellectual Property Act [2015 (c.23)](https://www.legislation.gov.uk/ukpga/2015/23) section 5, [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949) regulation 9(1) Schedule 1 paragraph 16.
 
 [^f00005]: Footnote: [1949 c.88](https://www.legislation.gov.uk/ukpga/1949/88).
 
-[^key-e9d12bd6ddd7b1f439eddb24dcc4ef30]: Commencement: Art. 9 comes into force in accordance with art. 1
+[^c-e9d12bd6ddd7b1f439eddb24dcc4ef30]: Commencement: Art. 9 comes into force in accordance with art. 1
 
-[^key-d4f071c741e13fbd589e99c8b90b3df4]: Commencement: Art. 10 comes into force in accordance with art. 1
+[^c-d4f071c741e13fbd589e99c8b90b3df4]: Commencement: Art. 10 comes into force in accordance with art. 1
 
-[^key-495f0822df2ea1b18da1aa9ceb72a82a]: Commencement: Art. 11 comes into force in accordance with art. 1
+[^c-495f0822df2ea1b18da1aa9ceb72a82a]: Commencement: Art. 11 comes into force in accordance with art. 1
 
 [^f00006]: Footnote: Section 69(4) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21) section 406(1) and Schedule 17, paragraph 91.
 
-[^key-a7da0a57d72651156f828935c2a68e18]: Commencement: Art. 12 comes into force in accordance with art. 1
+[^c-a7da0a57d72651156f828935c2a68e18]: Commencement: Art. 12 comes into force in accordance with art. 1
 
 [^f00007]: Footnote: Section 73 was substituted by the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55), section 138 and Schedule 9 paragraph 1 and amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 92 and [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-b18c46a768f8f9c7cd3a76326bd1d681]: Commencement: Art. 13 comes into force in accordance with art. 1
+[^c-b18c46a768f8f9c7cd3a76326bd1d681]: Commencement: Art. 13 comes into force in accordance with art. 1
 
-[^key-0fe877604d43c52ace0252bd10b2e559]: Commencement: Art. 14 comes into force in accordance with art. 1
+[^c-0fe877604d43c52ace0252bd10b2e559]: Commencement: Art. 14 comes into force in accordance with art. 1
 
-[^key-45f7aecba11e379458b2a7d8091108cd]: Commencement: Art. 15 comes into force in accordance with art. 1
+[^c-45f7aecba11e379458b2a7d8091108cd]: Commencement: Art. 15 comes into force in accordance with art. 1
 
-[^key-d3014f9900dd55ea06c28d63d176a33e]: Commencement: Art. 16 comes into force in accordance with art. 1
+[^c-d3014f9900dd55ea06c28d63d176a33e]: Commencement: Art. 16 comes into force in accordance with art. 1
 
-[^key-25fae67916f852d1ee490339b4c542e8]: Commencement: Art. 17 comes into force in accordance with art. 1
+[^c-25fae67916f852d1ee490339b4c542e8]: Commencement: Art. 17 comes into force in accordance with art. 1
 
-[^key-5f62c2aaa67ef068a844b079eb370b00]: Commencement: Art. 18 comes into force in accordance with art. 1
+[^c-5f62c2aaa67ef068a844b079eb370b00]: Commencement: Art. 18 comes into force in accordance with art. 1
 
-[^key-7a784937a63b4f4ed18f5448cae48dd4]: Commencement: Art. 19 comes into force in accordance with art. 1
+[^c-7a784937a63b4f4ed18f5448cae48dd4]: Commencement: Art. 19 comes into force in accordance with art. 1
 
 [^f00008]: Footnote: Section 116 was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), article 2(1), Schedule 1, paragraph 98(a) and the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) section 77(1), (4).
 
-[^key-084f18597fd217192fe6e682d5a45cc8]: Commencement: Art. 20 comes into force in accordance with art. 1
+[^c-084f18597fd217192fe6e682d5a45cc8]: Commencement: Art. 20 comes into force in accordance with art. 1
 
 [^f00009]: Footnote: Section 116D was inserted by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) section 77(1) and (3).
 
-[^key-3bc359ecd325101bad1b5b507f650f78]: Commencement: Art. 21 comes into force in accordance with art. 1
+[^c-3bc359ecd325101bad1b5b507f650f78]: Commencement: Art. 21 comes into force in accordance with art. 1
 
-[^key-50d721e21ab7a26c88dfdff337e91d2b]: Commencement: Art. 22 comes into force in accordance with art. 1
+[^c-50d721e21ab7a26c88dfdff337e91d2b]: Commencement: Art. 22 comes into force in accordance with art. 1
 
-[^key-99563da9df3c60bbeba05dafa21358d0]: Commencement: Art. 23 comes into force in accordance with art. 1
+[^c-99563da9df3c60bbeba05dafa21358d0]: Commencement: Art. 23 comes into force in accordance with art. 1
 
-[^key-6e303cf570b2efd9e00f493303a1a7d2]: Commencement: Art. 24 comes into force in accordance with art. 1
+[^c-6e303cf570b2efd9e00f493303a1a7d2]: Commencement: Art. 24 comes into force in accordance with art. 1
 
 [^f00010]: Footnote: Section 145 was amended by the Courts and Legal Services Act 1990 s 71(2), Schedule 10 and paragraph 73; the Constitutional Reform Act 2005 section 59(5), Schedule 11, paragraph 5; the Tribunals, Courts and Enforcement Act 2007, section 50, Schedule 10, paragraph 20 and [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678) article 2(1), Schedule.
 
-[^key-a93411bab1e3c0386dc1f78b45b945ba]: Commencement: Art. 25 comes into force in accordance with art. 1
+[^c-a93411bab1e3c0386dc1f78b45b945ba]: Commencement: Art. 25 comes into force in accordance with art. 1
 
-[^key-086cdd06c9ea16ea7a764ea01cbe3a5c]: Commencement: Art. 26 comes into force in accordance with art. 1
+[^c-086cdd06c9ea16ea7a764ea01cbe3a5c]: Commencement: Art. 26 comes into force in accordance with art. 1
 
-[^key-0de53cf1227ae6708ab07f9ba042c00d]: Commencement: Art. 27 comes into force in accordance with art. 1
+[^c-0de53cf1227ae6708ab07f9ba042c00d]: Commencement: Art. 27 comes into force in accordance with art. 1
 
-[^key-ce3fd78b452e2aa8e154958dcac9eae0]: Commencement: Art. 28 comes into force in accordance with art. 1
+[^c-ce3fd78b452e2aa8e154958dcac9eae0]: Commencement: Art. 28 comes into force in accordance with art. 1
 
-[^key-5e2b86b4b44bd4e01f2a913c3fe528af]: Commencement: Art. 29 comes into force in accordance with art. 1
+[^c-5e2b86b4b44bd4e01f2a913c3fe528af]: Commencement: Art. 29 comes into force in accordance with art. 1
 
 [^f00011]: Footnote: Section 163 was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 125 and Schedule 8, paragraph 25(4) and by the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), section 160(1) and Schedule10, paragraphs 22 and 26.
 
-[^key-b9120aa06974979b8ca3083858a392e7]: Commencement: Art. 30 comes into force in accordance with art. 1
+[^c-b9120aa06974979b8ca3083858a392e7]: Commencement: Art. 30 comes into force in accordance with art. 1
 
-[^key-bd5f140aea8a52ddedc02cb96ba97468]: Commencement: Art. 31 comes into force in accordance with art. 1
+[^c-bd5f140aea8a52ddedc02cb96ba97468]: Commencement: Art. 31 comes into force in accordance with art. 1
 
-[^key-791151aaeb0201c21e6e54655ba18388]: Commencement: Art. 32 comes into force in accordance with art. 1
+[^c-791151aaeb0201c21e6e54655ba18388]: Commencement: Art. 32 comes into force in accordance with art. 1
 
 [^f00012]: Footnote: Section 170(2) to (7) was inserted by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 76(1) and (3).
 
-[^key-76fb6192820bb1459bf2b03580bea237]: Commencement: Art. 33 comes into force in accordance with art. 1
+[^c-76fb6192820bb1459bf2b03580bea237]: Commencement: Art. 33 comes into force in accordance with art. 1
 
-[^key-cd96dfb8c203af484459eda17ea2d80f]: Commencement: Art. 34 comes into force in accordance with art. 1
+[^c-cd96dfb8c203af484459eda17ea2d80f]: Commencement: Art. 34 comes into force in accordance with art. 1
 
-[^key-2fc649ff2cab3e9ffc7c4da83e7d9530]: Commencement: Art. 35 comes into force in accordance with art. 1
+[^c-2fc649ff2cab3e9ffc7c4da83e7d9530]: Commencement: Art. 35 comes into force in accordance with art. 1
 
-[^key-37f7c8f4ad4431516ba1c965402c1e51]: Commencement: Art. 36 comes into force in accordance with art. 1
+[^c-37f7c8f4ad4431516ba1c965402c1e51]: Commencement: Art. 36 comes into force in accordance with art. 1
 
 [^f00013]: Footnote: Schedule ZA1 was inserted by [S.I. 2014/2861](https://www.legislation.gov.uk/uksi/2014/2861) regulation 3(5), Schedule.
 
-[^key-0f0b2fa87e5830e96da6b9920ee7e473]: Commencement: Art. 37 comes into force in accordance with art. 1
+[^c-0f0b2fa87e5830e96da6b9920ee7e473]: Commencement: Art. 37 comes into force in accordance with art. 1
 
-[^key-5bedb8ab607993842dc5af2e7bd2c884]: Commencement: Art. 38 comes into force in accordance with art. 1
+[^c-5bedb8ab607993842dc5af2e7bd2c884]: Commencement: Art. 38 comes into force in accordance with art. 1
 
-[^key-a141f27eb1d905661d3bf08b6a9aea6f]: Commencement: Art. 39 comes into force in accordance with art. 1
+[^c-a141f27eb1d905661d3bf08b6a9aea6f]: Commencement: Art. 39 comes into force in accordance with art. 1
 
-[^key-25353c8bfef35b143cdc9343f5d4d1f3]: Commencement: Art. 40 comes into force in accordance with art. 1
+[^c-25353c8bfef35b143cdc9343f5d4d1f3]: Commencement: Art. 40 comes into force in accordance with art. 1

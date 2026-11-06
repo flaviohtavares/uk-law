@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22E. Extension of orders pending outcome of criminal proceedings[^key-dc283ea2e01b2881a4a04152a3aeb988]
+## 22E. Extension of orders pending outcome of criminal proceedings[^c-dc283ea2e01b2881a4a04152a3aeb988]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc283ea2e01b2881a4a04152a3aeb988]: Textual amendment: S. 22E and cross-heading inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 49](https://www.legislation.gov.uk/ukpga/2015/9/section/49), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/h)
+[^c-dc283ea2e01b2881a4a04152a3aeb988]: Textual amendment: S. 22E and cross-heading inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 49](https://www.legislation.gov.uk/ukpga/2015/9/section/49), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9 — Persons to whom information may be disclosed under section 135[^key-9542def8598382cfb779c0b859d4024e][^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
+## Schedule 9 — Persons to whom information may be disclosed under section 135[^c-9542def8598382cfb779c0b859d4024e][^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 135(5)
 
 ### Authorities with functions in connection with the labour market or the workplace etc
 
-[^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
+[^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
 
 - The Commissioners for His Majesty’s Revenue and Customs.
 - The Health and Safety Executive.
@@ -41,7 +41,7 @@ Section 135(5)
 
 ### Law enforcement and border security
 
-[^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
+[^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
 
 - A chief officer of police of a police force maintained for a police area in England and Wales.
 - A local policing body.
@@ -53,7 +53,7 @@ Section 135(5)
 
 ### Local government
 
-[^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
+[^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
 
 - A county council or district council in England.
 - A London borough council.
@@ -66,7 +66,7 @@ Section 135(5)
 
 ### Health and social care bodies
 
-[^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
+[^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
 
 - The Care Quality Commission.
 - A National Health Service trust established under section 25 of the National Health Service Act 2006 or section 18 of the National Health Service (Wales) Act 2006.
@@ -82,7 +82,7 @@ Section 135(5)
 
 ### Other persons
 
-[^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
+[^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]
 
 - The Equality and Human Rights Commission.
 - The Independent Anti-slavery Commissioner.
@@ -91,6 +91,6 @@ Section 135(5)
 
 ## Annotations
 
-[^key-9542def8598382cfb779c0b859d4024e]: Commencement: Sch. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-9542def8598382cfb779c0b859d4024e]: Commencement: Sch. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/9) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(54)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/54)
+[^c-3eb3ccc3cc0e7c74b04c8e0dbbad2e94]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2025/36/schedule/9) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(54)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/54)

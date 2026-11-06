@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53B. Additional exits from double-decked coaches[^key-05aa5bfd44799ca8e11013726aa01033]
+## 53B. Additional exits from double-decked coaches[^c-05aa5bfd44799ca8e11013726aa01033]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ the hammer or the similar device shall be located in the other half of that deck
 
 ## Annotations
 
-[^key-05aa5bfd44799ca8e11013726aa01033]: Textual amendment: [Regs. 53A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/53A), [53B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/53B) inserted (31.7.1987) by [The Road Vehicles (Construction and Use) (Amendment) (No.2) Regulations 1987 (S.I. 1987/1133)](https://www.legislation.gov.uk/uksi/1987/1133), [regs. 1](https://www.legislation.gov.uk/uksi/1987/1133/regulation/1), [4](https://www.legislation.gov.uk/uksi/1987/1133/regulation/4)
+[^c-05aa5bfd44799ca8e11013726aa01033]: Textual amendment: [Regs. 53A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/53A), [53B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/53B) inserted (31.7.1987) by [The Road Vehicles (Construction and Use) (Amendment) (No.2) Regulations 1987 (S.I. 1987/1133)](https://www.legislation.gov.uk/uksi/1987/1133), [regs. 1](https://www.legislation.gov.uk/uksi/1987/1133/regulation/1), [4](https://www.legislation.gov.uk/uksi/1987/1133/regulation/4)

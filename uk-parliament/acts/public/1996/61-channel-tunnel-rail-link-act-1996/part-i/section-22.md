@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Restriction of functions in relation to competition etc.[^key-35e8b144d4ac16b1cf6d1fcbf09c29ca][^c1251968]
+## 22. Restriction of functions in relation to competition etc.[^c-35e8b144d4ac16b1cf6d1fcbf09c29ca][^c1251968]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35e8b144d4ac16b1cf6d1fcbf09c29ca]: Textual amendment: S. 22 omitted (28.11.2005) by virtue of [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/3049/schedule/1/paragraph/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
+[^c-35e8b144d4ac16b1cf6d1fcbf09c29ca]: Textual amendment: S. 22 omitted (28.11.2005) by virtue of [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2005/3049/schedule/1/paragraph/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
 
 [^c1251968]: Modification: S. 22 extended (22.3.2001) by [S.I. 2001/1451](https://www.legislation.gov.uk/uksi/2001/1451), [art. 7(2)](https://www.legislation.gov.uk/uksi/2001/1451/article/7/2)

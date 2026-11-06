@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Assistance and support in relation to apprenticeship places[^key-c09046522aef5b8416852a3507f2feda]
+## 104. Assistance and support in relation to apprenticeship places[^c-c09046522aef5b8416852a3507f2feda]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c09046522aef5b8416852a3507f2feda]: Textual amendment: S. 104 repealed (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/18/paragraph/10); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-c09046522aef5b8416852a3507f2feda]: Textual amendment: S. 104 repealed (1.9.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/18/paragraph/10); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Removal of Commission’s accounting and auditing duties[^key-c323ddc436bea1952e661ce3cf50695b][^key-dd4c8a5cc5b91d5b8a247f9390db09d8]
+## 22. Removal of Commission’s accounting and auditing duties[^c-c323ddc436bea1952e661ce3cf50695b][^c-dd4c8a5cc5b91d5b8a247f9390db09d8]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c323ddc436bea1952e661ce3cf50695b]: Commencement: S. 22 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-c323ddc436bea1952e661ce3cf50695b]: Commencement: S. 22 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-dd4c8a5cc5b91d5b8a247f9390db09d8]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/2/section/22) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/119/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/119/regulation/5))
+[^c-dd4c8a5cc5b91d5b8a247f9390db09d8]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2025/2/section/22) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2025/119/regulation/4), [5](https://www.legislation.gov.uk/ssi/2025/119/regulation/5))

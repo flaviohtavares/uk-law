@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Nitrate Sensitive Areas (Amendment) Regulations 2002 (revoked)[^key-d68182e5b95452a6cefc27568c1fb1cb]
+The Nitrate Sensitive Areas (Amendment) Regulations 2002 (revoked)[^c-d68182e5b95452a6cefc27568c1fb1cb]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 10th April 2002
 
-[^key-d68182e5b95452a6cefc27568c1fb1cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d68182e5b95452a6cefc27568c1fb1cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d68182e5b95452a6cefc27568c1fb1cb]
+## 1. Title and commencement[^c-d68182e5b95452a6cefc27568c1fb1cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d68182e5b95452a6cefc27568c1fb1cb]
+## 2. Interpretation[^c-d68182e5b95452a6cefc27568c1fb1cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-d68182e5b95452a6cefc27568c1fb1cb]
+## 3. Amendment of the principal Regulations[^c-d68182e5b95452a6cefc27568c1fb1cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d68182e5b95452a6cefc27568c1fb1cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d68182e5b95452a6cefc27568c1fb1cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d68182e5b95452a6cefc27568c1fb1cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d68182e5b95452a6cefc27568c1fb1cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d68182e5b95452a6cefc27568c1fb1cb]: Textual amendment: Regulations revoked (1.1.2009) by [The Nitrate Pollution Prevention Regulations 2008 (S.I. 2008/2349)](https://www.legislation.gov.uk/uksi/2008/2349), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/3/1), [50(j)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/50/j)
+[^c-d68182e5b95452a6cefc27568c1fb1cb]: Textual amendment: Regulations revoked (1.1.2009) by [The Nitrate Pollution Prevention Regulations 2008 (S.I. 2008/2349)](https://www.legislation.gov.uk/uksi/2008/2349), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/3/1), [50(j)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/50/j)

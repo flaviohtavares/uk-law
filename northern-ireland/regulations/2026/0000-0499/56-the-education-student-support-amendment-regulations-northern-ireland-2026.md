@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1(2) and (3)
 
 The Department for the Economy[^f00001], in exercise of the powers conferred by Articles 3 and 8(4) of the Education (Student Support) (Northern Ireland) Order 1998[^f00002] makes the following Regulations.
 
-## 1. Citation, commencement and application[^key-8a086d1171f656663c985dada2d04b10]
+## 1. Citation, commencement and application[^c-8a086d1171f656663c985dada2d04b10]
 
 (1) These Regulations may be cited as the Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026.
 
@@ -58,11 +58,11 @@ The Department for the Economy[^f00001], in exercise of the powers conferred by 
 - “**new academic year**” means an academic year which begins on or after 1st August 2026: and
 - “**academic year**” has the meaning given by regulation 2 of the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^f00003].
 
-## 2. Amendments to the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^key-d87890507f48558ea0cd426d9ba177b8]
+## 2. Amendments to the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^c-d87890507f48558ea0cd426d9ba177b8]
 
 Regulations 3 to 7 amend the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009.
 
-## 3. Amendments to disabled students’ allowances[^key-6d1b3409310a3e9069f25507119e2f36]
+## 3. Amendments to disabled students’ allowances[^c-6d1b3409310a3e9069f25507119e2f36]
 
 (1) In regulation 41(1), after “attendance on”, insert “or undertaking of”;
 
@@ -73,7 +73,7 @@ Regulations 3 to 7 amend the Education (Student Support) (No.2) Regulations (N
 - (c) regulation 130(5)(a) (disabled part-time students’ allowance); and
 - (d) regulation 146(2)(a) (support for postgraduate students with disabilities).
 
-## 4. Amendment to omit references to Scottish healthcare allowance[^key-12bcbbafb68be8a6f8ed49cfbfab710d]
+## 4. Amendment to omit references to Scottish healthcare allowance[^c-12bcbbafb68be8a6f8ed49cfbfab710d]
 
 (1) In regulation 2(1)—
 
@@ -84,11 +84,11 @@ Regulations 3 to 7 amend the Education (Student Support) (No.2) Regulations (N
 
 (3) in regulation 63(2)(c), omit “or a Scottish healthcare allowance”.
 
-## 5. Amendment to omit Regional Health and Social Care Board[^key-3a920346efb8260b4cc248560acff847]
+## 5. Amendment to omit Regional Health and Social Care Board[^c-3a920346efb8260b4cc248560acff847]
 
 Omit regulation 39(6)(e)(i).
 
-## 6. Amendment to special support grant[^key-413354f1f8a7ab8fcc708c58f224e42c]
+## 6. Amendment to special support grant[^c-413354f1f8a7ab8fcc708c58f224e42c]
 
 In regulation 59, after the previously omitted paragraph (6), insert—
 
@@ -96,11 +96,11 @@ In regulation 59, after the previously omitted paragraph (6), insert—
 
 .
 
-## 7. Amendments to the payment rates for student support[^key-b8d3a41433877c16f77ff7410db86cba]
+## 7. Amendments to the payment rates for student support[^c-b8d3a41433877c16f77ff7410db86cba]
 
 The Schedule to these Regulations has effect to substitute the figure in the third column of the table for the figure in the second column where that figure appears in the provision of the 2009 Regulations set out in the first column.
 
-## 8. Amendment to the Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025[^key-7ef15c2d7597685be9f9f44f585d97c2]
+## 8. Amendment to the Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025[^c-7ef15c2d7597685be9f9f44f585d97c2]
 
 Regulation 22 of the Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2025 [^f00004] is revoked.
 
@@ -110,7 +110,7 @@ Graham Miller
 
 A senior officer of the Department for the Economy
 
-## SCHEDULE[^key-f9b163e252482cbb29b222e1267bbe3d]
+## SCHEDULE[^c-f9b163e252482cbb29b222e1267bbe3d]
 
 Regulation 7
 
@@ -275,24 +275,24 @@ Regulation 8 makes technical amendments to correct the 2025 Regulations.
 
 [^f00002]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760). Article 3 was amended by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), section 147(3)(a) and (b); the Student Loans (Amendment) Act (Northern Ireland) [2011, (c.2 (N.I.)](https://www.legislation.gov.uk/nia/2011/2)), s.1(1); the Income Tax (Earnings and Pensions) Act [2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), Schedule 6; the Finance Act [2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), s.147(4); the Higher Education (Northern Ireland) Order 2005 ([S.I. 2005/1116 (N.I. 5)](https://www.legislation.gov.uk/nisi/2005/1116)), Articles 11 and 12 and the Schedule; and by the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013, ([S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881)), Schedule 1.
 
-[^key-8a086d1171f656663c985dada2d04b10]: Commencement: Reg. 1 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-8a086d1171f656663c985dada2d04b10]: Commencement: Reg. 1 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373), amended by S.R.s , 2012 Nos. [62](https://www.legislation.gov.uk/nisr/2012/62) and [398](https://www.legislation.gov.uk/nisr/2012/398), 2013 Nos. [128](https://www.legislation.gov.uk/nisr/2013/128) and [223](https://www.legislation.gov.uk/nisr/2013/223), 2014 Nos. [97](https://www.legislation.gov.uk/nisr/2014/97) and [309](https://www.legislation.gov.uk/nisr/2014/309), , 2017 Nos. [7](https://www.legislation.gov.uk/nisr/2017/7) and [43](https://www.legislation.gov.uk/nisr/2017/43), , 2019 Nos.[35](https://www.legislation.gov.uk/nisr/2019/35) and [102](https://www.legislation.gov.uk/nisr/2019/102), , 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260), 2022 Nos. [75](https://www.legislation.gov.uk/nisr/2022/75), [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263), 2024 Nos. [19](https://www.legislation.gov.uk/nisr/2024/19) and [157](https://www.legislation.gov.uk/nisr/2024/157) and [S.R. 2025 No. 32](https://www.legislation.gov.uk/nisr/2025/32).
 
-[^key-d87890507f48558ea0cd426d9ba177b8]: Commencement: Reg. 2 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-d87890507f48558ea0cd426d9ba177b8]: Commencement: Reg. 2 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
-[^key-6d1b3409310a3e9069f25507119e2f36]: Commencement: Reg. 3 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-6d1b3409310a3e9069f25507119e2f36]: Commencement: Reg. 3 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
-[^key-12bcbbafb68be8a6f8ed49cfbfab710d]: Commencement: Reg. 4 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-12bcbbafb68be8a6f8ed49cfbfab710d]: Commencement: Reg. 4 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
-[^key-3a920346efb8260b4cc248560acff847]: Commencement: Reg. 5 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-3a920346efb8260b4cc248560acff847]: Commencement: Reg. 5 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
-[^key-413354f1f8a7ab8fcc708c58f224e42c]: Commencement: Reg. 6 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-413354f1f8a7ab8fcc708c58f224e42c]: Commencement: Reg. 6 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
-[^key-b8d3a41433877c16f77ff7410db86cba]: Commencement: Reg. 7 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-b8d3a41433877c16f77ff7410db86cba]: Commencement: Reg. 7 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
-[^key-7ef15c2d7597685be9f9f44f585d97c2]: Commencement: Reg. 8 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-7ef15c2d7597685be9f9f44f585d97c2]: Commencement: Reg. 8 in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2025 No. 32](https://www.legislation.gov.uk/nisr/2025/32).
 
-[^key-f9b163e252482cbb29b222e1267bbe3d]: Commencement: Sch. in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)
+[^c-f9b163e252482cbb29b222e1267bbe3d]: Commencement: Sch. in operation at 10.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2)

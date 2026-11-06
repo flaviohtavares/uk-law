@@ -24,9 +24,9 @@ summary: ''
 
 - (a) information to which this section applies is to be treated as confidential information; and
 - (b) in relation to such information, each of the following is a primary recipient—
-  - (i)[^key-8774d590aa0cc1f3c28cf50b59b2007b] the FCA;
+  - (i)[^c-8774d590aa0cc1f3c28cf50b59b2007b] the FCA;
   - (ia) the PRA;
-  - (ii) any person who is or has been employed by the FCA[^key-313c83c16cb67a79cee33235c9929e8d] or the PRA ; and
+  - (ii) any person who is or has been employed by the FCA[^c-313c83c16cb67a79cee33235c9929e8d] or the PRA ; and
   - (iii) any person appointed by the FCA or the PRA to carry out functions under this Act.
 
 (2) This section applies to information which—
@@ -34,7 +34,7 @@ summary: ''
 - (a) relates to—
   - (i) the business or other affairs of a building society or other body, or its or their plans for future development; or
   - (ii) any person who is or has been, or has been appointed (or, in the case of a director, nominated or proposed as), an officer of a building society or other body;
-- (b) was received by a primary recipient (within the meaning of subsection (1)(b)) for the purposes of, or in the discharge of, any functions of the FCA[^key-8889d56df9a6701428e7d265f8c2d055] or the PRA under any provision made by or under this Act; and
+- (b) was received by a primary recipient (within the meaning of subsection (1)(b)) for the purposes of, or in the discharge of, any functions of the FCA[^c-8889d56df9a6701428e7d265f8c2d055] or the PRA under any provision made by or under this Act; and
 - (c) is not excluded information by virtue of subsection (4).
 
 (3) It is immaterial for the purposes of subsection (2) whether or not the information was received—
@@ -53,8 +53,8 @@ summary: ''
 
 [^c15505701]: Modification: S. 53A(1) restricted (*temp.* from 3.9.2001 until 30.11.2001) by [S.I. 2001/2966](https://www.legislation.gov.uk/uksi/2001/2966), [art. 6](https://www.legislation.gov.uk/uksi/2001/2966/article/6)
 
-[^key-8774d590aa0cc1f3c28cf50b59b2007b]: Textual amendment: S. 53A(1)(b)(i)(ia) substituted for s. 53A(1)(b)(i) (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 18(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/18/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-8774d590aa0cc1f3c28cf50b59b2007b]: Textual amendment: S. 53A(1)(b)(i)(ia) substituted for s. 53A(1)(b)(i) (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 18(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/18/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-313c83c16cb67a79cee33235c9929e8d]: Textual amendment: Words in s. 53A(1)(b)(ii)(iii) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/18/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-313c83c16cb67a79cee33235c9929e8d]: Textual amendment: Words in s. 53A(1)(b)(ii)(iii) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/18/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-8889d56df9a6701428e7d265f8c2d055]: Textual amendment: Words in s. 53A(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 18(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/18/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-8889d56df9a6701428e7d265f8c2d055]: Textual amendment: Words in s. 53A(2)(b) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 18(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/18/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Directions under this Part: general[^key-c0763da57396735ba903b2cfb738ecb3]
+## 53. Directions under this Part: general[^c-c0763da57396735ba903b2cfb738ecb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0763da57396735ba903b2cfb738ecb3]: Commencement: Reg. 53 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-c0763da57396735ba903b2cfb738ecb3]: Commencement: Reg. 53 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

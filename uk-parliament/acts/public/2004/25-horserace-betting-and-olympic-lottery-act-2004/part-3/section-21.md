@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Licensing of Olympic Lotteries[^key-27fe5f40c9ec55fa7b037ed8a19c6042]
+## 21. Licensing of Olympic Lotteries[^c-27fe5f40c9ec55fa7b037ed8a19c6042]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) A licence under section 5 of that Act (licence to run the National Lottery) must include provision—
 
 - (a) for determining in respect of any period the proportion of proceeds of lotteries forming part of the National Lottery that is attributable to Olympic Lotteries, or
-- (b) enabling the Gambling[^key-bcda923e826fb23e101ac863e224f388] Commission to determine that proportion in respect of any period.
+- (b) enabling the Gambling[^c-bcda923e826fb23e101ac863e224f388] Commission to determine that proportion in respect of any period.
 
 (3) A designation under subsection (1) may be made only while provision under subsection (2) has effect.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27fe5f40c9ec55fa7b037ed8a19c6042]: Commencement: S. 21 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-27fe5f40c9ec55fa7b037ed8a19c6042]: Commencement: S. 21 in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
 
-[^key-bcda923e826fb23e101ac863e224f388]: Textual amendment: Word in s. 21(2)(b) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/27/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-bcda923e826fb23e101ac863e224f388]: Textual amendment: Word in s. 21(2)(b) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 27(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/27/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))

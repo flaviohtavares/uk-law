@@ -75,7 +75,7 @@ that employing authority must pay C3 contributions to the host Board.
   - (ii) that employing authority is liable to pay the C3 contributions that are payable in respect of those pensionable earnings; or
 - (b) is not a vocational trainee, the employing authority with which he has an arrangement from which his pensionable earnings are derived is liable to pay the C3 contributions that are payable in respect of those pensionable earnings.
 
-(12A)[^key-82253ed5f5229670ca2964e6f532b7a5] In the case of a practitioner providing piloted services, a practitioner employed as a dental pilot scheme employee or to whom regulation 155A(1)(b) applies, the practitioner shall pay C1 contributions in respect of pensionable earnings that relate to piloted services to the employing authority that is a party to those piloted services, and that employing authority is liable to pay C3 contributions that are payable in respect of those pensionable earnings, but where the provider of the piloted service is a qualifying body, the qualifying body shall be liable to pay C3 contributions.
+(12A)[^c-82253ed5f5229670ca2964e6f532b7a5] In the case of a practitioner providing piloted services, a practitioner employed as a dental pilot scheme employee or to whom regulation 155A(1)(b) applies, the practitioner shall pay C1 contributions in respect of pensionable earnings that relate to piloted services to the employing authority that is a party to those piloted services, and that employing authority is liable to pay C3 contributions that are payable in respect of those pensionable earnings, but where the provider of the piloted service is a qualifying body, the qualifying body shall be liable to pay C3 contributions.
 
 (13) If contributions are payable by a locum practitioner under paragraph (10) in respect of pensionable locum work carried out for an employing authority which is—
 
@@ -118,7 +118,7 @@ in accordance with the provisions of this regulation, to the Department not late
 (19) Without prejudice to any other method of recovery, if in respect of C1 contributions—
 
 - (a) a principal dental practitioner, a principal medical practitioner, an assistant dental practitioner, an assistant medical practitioner or locum practitioner has failed to pay contributions; or
-- (b) an employing authority or qualifying body providing piloted services[^key-c2b23b9ebdb5f8c4c9c86dbcf77f1eee] has failed to deduct such contributions,
+- (b) an employing authority or qualifying body providing piloted services[^c-c2b23b9ebdb5f8c4c9c86dbcf77f1eee] has failed to deduct such contributions,
 
 in accordance with this paragraph, the Department may recover any sum that remains due in respect of those contributions by deduction from any payment by way of benefits to, or in respect of, the member entitled to them if—
 
@@ -129,16 +129,16 @@ in accordance with this paragraph, the Department may recover any sum that remai
 
 - (a) “**C1 contributions**” means contributions payable under regulation 160 by a practitioner under this Section of[^M_F_4204149a-6550-45ee-9a3f-733068e8c94f] the Scheme;
 - (b) “**C3 contributions**” means contributions payable under regulation 162 by an employing authority in respect of a practitioner.
-- (c)[^key-33b583189025fd34684ea27a2ae8221f] “qualifying body” means—
+- (c)[^c-33b583189025fd34684ea27a2ae8221f] “qualifying body” means—
   - (i) a body corporate which, in accordance with the provisions of Part IV of the Dentists Act 1984, is entitled to carry on the business of dentistry; or
   - (ii) a company which is limited by shares, all of which are legally and beneficially owned by persons falling within sub-paragraph (a), (b), (c) or (e) of paragraph (2) of Article 5 of the 1997 Order.
 
 ## Annotations
 
-[^key-82253ed5f5229670ca2964e6f532b7a5]: Textual amendment: [Reg. 164(12A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/164/12A) inserted (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [20(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/20/2)
+[^c-82253ed5f5229670ca2964e6f532b7a5]: Textual amendment: [Reg. 164(12A)](https://www.legislation.gov.uk/nisr/2008/256/regulation/164/12A) inserted (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [20(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/20/2)
 
-[^key-c2b23b9ebdb5f8c4c9c86dbcf77f1eee]: Textual amendment: Words in [reg. 164(19)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/164/19/b) inserted (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [20(3)](https://www.legislation.gov.uk/nisr/2013/40/regulation/20/3)
+[^c-c2b23b9ebdb5f8c4c9c86dbcf77f1eee]: Textual amendment: Words in [reg. 164(19)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/164/19/b) inserted (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [20(3)](https://www.legislation.gov.uk/nisr/2013/40/regulation/20/3)
 
 [^M_F_4204149a-6550-45ee-9a3f-733068e8c94f]: Textual amendment: Words in [reg. 164(20)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/44/9) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-33b583189025fd34684ea27a2ae8221f]: Textual amendment: [Reg. 164(20)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/164/20/c) added (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [20(4)](https://www.legislation.gov.uk/nisr/2013/40/regulation/20/4)
+[^c-33b583189025fd34684ea27a2ae8221f]: Textual amendment: [Reg. 164(20)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/164/20/c) added (29.3.2013) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/40)](https://www.legislation.gov.uk/nisr/2013/40), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/40/regulation/1/2), [20(4)](https://www.legislation.gov.uk/nisr/2013/40/regulation/20/4)

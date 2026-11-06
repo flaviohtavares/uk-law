@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Recovery of child support maintenance by deduction from benefit[^key-3c2f1eac4917b6951db77818ebb274f2]
+## 139. Recovery of child support maintenance by deduction from benefit[^c-3c2f1eac4917b6951db77818ebb274f2]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ In section 43 of the Child Support Act 1991 (as substituted by the Child Support
 
 ## Annotations
 
-[^key-3c2f1eac4917b6951db77818ebb274f2]: Commencement: S. 139 in force at 4.2.2014 by [S.I. 2014/209](https://www.legislation.gov.uk/uksi/2014/209), [art. 6](https://www.legislation.gov.uk/uksi/2014/209/article/6)
+[^c-3c2f1eac4917b6951db77818ebb274f2]: Commencement: S. 139 in force at 4.2.2014 by [S.I. 2014/209](https://www.legislation.gov.uk/uksi/2014/209), [art. 6](https://www.legislation.gov.uk/uksi/2014/209/article/6)

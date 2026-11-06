@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Further provision about applications for certificates of lawfulness[^key-2573184b103972f6df026cfac64ec616]
+## 158. Further provision about applications for certificates of lawfulness[^c-2573184b103972f6df026cfac64ec616]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2573184b103972f6df026cfac64ec616]: Commencement: S. 158 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2573184b103972f6df026cfac64ec616]: Commencement: S. 158 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

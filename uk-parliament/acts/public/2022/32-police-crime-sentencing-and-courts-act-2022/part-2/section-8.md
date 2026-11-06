@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Duties to collaborate and plan to prevent and reduce serious violence[^key-75d6e273a367093d70f0567be8c266c4][^key-95ea32b06e827c49fc37ad7d418ec7a2]
+## 8. Duties to collaborate and plan to prevent and reduce serious violence[^c-75d6e273a367093d70f0567be8c266c4][^c-95ea32b06e827c49fc37ad7d418ec7a2]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ See section 15 for further provision about the duties of such authorities in rel
 
 ## Annotations
 
-[^key-75d6e273a367093d70f0567be8c266c4]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-75d6e273a367093d70f0567be8c266c4]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-95ea32b06e827c49fc37ad7d418ec7a2]: Commencement: S. 8 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/a)
+[^c-95ea32b06e827c49fc37ad7d418ec7a2]: Commencement: S. 8 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/a)

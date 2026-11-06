@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302. Duty to obtain permission before changing residence[^key-48597f60e25d23a4ff381b3ab7ef6cb1][^key-5dd51e77b151457505989ea28371add8]
+## 302. Duty to obtain permission before changing residence[^c-48597f60e25d23a4ff381b3ab7ef6cb1][^c-5dd51e77b151457505989ea28371add8]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ But it does not apply if the order includes a residence requirement (see paragra
 
 ## Annotations
 
-[^key-48597f60e25d23a4ff381b3ab7ef6cb1]: Commencement: S. 302 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-48597f60e25d23a4ff381b3ab7ef6cb1]: Commencement: S. 302 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5dd51e77b151457505989ea28371add8]: Modification: S. 302 modified by 2006 c. 52, s. 200(1)(c)(iv) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-5dd51e77b151457505989ea28371add8]: Modification: S. 302 modified by 2006 c. 52, s. 200(1)(c)(iv) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 19](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/19) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

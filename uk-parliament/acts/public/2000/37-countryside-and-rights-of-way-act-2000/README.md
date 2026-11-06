@@ -106,7 +106,7 @@ An Act to make new provision for public access to the countryside; to amend the 
 - [Section 32 — Regulations relating to exclusion or restriction of access.](part-i/section-32.md)
 - [Section 33 — Guidance by countryside bodies to National Park authorities.](part-i/section-33.md)
 
-#### Chapter III — Means of access[^key-ad52b78b7973d48fe4f9f8f60d93e93f]
+#### Chapter III — Means of access[^c-ad52b78b7973d48fe4f9f8f60d93e93f]
 
 - [Section 34 — Interpretation of Chapter III.](part-i/section-34.md)
 - [Section 35 — Agreements with respect to means of access.](part-i/section-35.md)
@@ -307,4 +307,4 @@ SCHEDULES
 
 [^c1057008]: Modification: Act modified (Coming into force in accordance with s. 1(2)-(4) of [2002 c. i](https://www.legislation.gov.uk/ukla/2002/1)) by [2002 c. i](https://www.legislation.gov.uk/ukla/2002/1), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2002/1/section/1/2), [41](https://www.legislation.gov.uk/ukla/2002/1/section/41) (with [ss. 38](https://www.legislation.gov.uk/ukla/2002/1/section/38), [39](https://www.legislation.gov.uk/ukla/2002/1/section/39))
 
-[^key-ad52b78b7973d48fe4f9f8f60d93e93f]: Modification: [Pt. I Ch. III](https://www.legislation.gov.uk/ukpga/2000/37/part/I/chapter/III) extended (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/1) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-ad52b78b7973d48fe4f9f8f60d93e93f]: Modification: [Pt. I Ch. III](https://www.legislation.gov.uk/ukpga/2000/37/part/I/chapter/III) extended (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/20/paragraph/1) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

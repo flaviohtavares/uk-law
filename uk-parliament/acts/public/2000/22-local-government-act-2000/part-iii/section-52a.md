@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A (Extent: W). County and county borough councils: duties of leaders of political groups in relation to standards of conduct (Extent: W)[^key-97dacf61e522444cdee8e88450ff3e88]
+## 52A (Extent: W). County and county borough councils: duties of leaders of political groups in relation to standards of conduct (Extent: W)[^c-97dacf61e522444cdee8e88450ff3e88]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97dacf61e522444cdee8e88450ff3e88]: Textual amendment: [S. 52A](https://www.legislation.gov.uk/ukpga/2000/22/section/52A) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 62(2)](https://www.legislation.gov.uk/asc/2021/1/section/62/2), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)
+[^c-97dacf61e522444cdee8e88450ff3e88]: Textual amendment: [S. 52A](https://www.legislation.gov.uk/ukpga/2000/22/section/52A) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 62(2)](https://www.legislation.gov.uk/asc/2021/1/section/62/2), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)

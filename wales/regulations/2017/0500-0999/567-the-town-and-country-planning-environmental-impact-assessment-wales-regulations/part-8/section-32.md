@@ -40,8 +40,8 @@ the Welsh Ministers must notify the applicant that the submission of an environm
 - (a) a notification has been given under paragraph (1); and
 - (b) the applicant does not submit an environmental statement and comply with regulation 19 (publicity where an environmental statement is submitted after the planning application),
 
-the Welsh Ministers must determine the application only by refusing planning permission or infrastructure consent[^key-cd6128a000f379816b935c252e804cdf].
+the Welsh Ministers must determine the application only by refusing planning permission or infrastructure consent[^c-cd6128a000f379816b935c252e804cdf].
 
 ## Annotations
 
-[^key-cd6128a000f379816b935c252e804cdf]: Textual amendment: Words in [reg. 32(6)](https://www.legislation.gov.uk/wsi/2017/567/regulation/32/6) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(31)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/31) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-cd6128a000f379816b935c252e804cdf]: Textual amendment: Words in [reg. 32(6)](https://www.legislation.gov.uk/wsi/2017/567/regulation/32/6) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(31)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/31) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

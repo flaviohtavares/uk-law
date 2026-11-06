@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Presumption as to liquid contents of containers[^key-8d4691f09529a90a3ae441a2343bb8c5]
+## 140. Presumption as to liquid contents of containers[^c-8d4691f09529a90a3ae441a2343bb8c5]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the container is to be presumed to have contained, at the time it was sold or su
 
 ## Annotations
 
-[^key-8d4691f09529a90a3ae441a2343bb8c5]: Commencement: S. 140 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-8d4691f09529a90a3ae441a2343bb8c5]: Commencement: S. 140 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

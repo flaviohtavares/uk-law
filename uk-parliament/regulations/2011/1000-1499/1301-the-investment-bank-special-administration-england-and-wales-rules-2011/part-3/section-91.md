@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Calculation of voting rights (clients)[^key-a983d8e2ba78a4cc97e875f892b5763a]
+## 91. Calculation of voting rights (clients)[^c-a983d8e2ba78a4cc97e875f892b5763a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ and in this paragraph—
 
 ## Annotations
 
-[^key-a983d8e2ba78a4cc97e875f892b5763a]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2011/1301/rule/91) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a983d8e2ba78a4cc97e875f892b5763a]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2011/1301/rule/91) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

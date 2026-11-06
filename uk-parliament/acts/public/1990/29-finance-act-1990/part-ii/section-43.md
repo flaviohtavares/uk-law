@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Deduction for policy holders’ tax.[^key-49680ec3810832434611e7ef2a55837e]
+## 43. Deduction for policy holders’ tax.[^c-49680ec3810832434611e7ef2a55837e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49680ec3810832434611e7ef2a55837e]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1990/29/section/43) repealed (with effect in accordance with Sch. 43 Pt. 3(12) Note 1 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)
+[^c-49680ec3810832434611e7ef2a55837e]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1990/29/section/43) repealed (with effect in accordance with Sch. 43 Pt. 3(12) Note 1 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 3(12)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/12)

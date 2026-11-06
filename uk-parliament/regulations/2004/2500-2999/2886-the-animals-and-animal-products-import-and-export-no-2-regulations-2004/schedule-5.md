@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — APPROVAL OF LABORATORIES UNDER THE POULTRY HEALTH SCHEME[^key-1b1ebc82e455454b9fe7890cf9e39e0e]
+## SCHEDULE 5 — APPROVAL OF LABORATORIES UNDER THE POULTRY HEALTH SCHEME[^c-1b1ebc82e455454b9fe7890cf9e39e0e]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulations 9(4) and 33(1)
 
-### PART I — APPROVAL[^key-1b1ebc82e455454b9fe7890cf9e39e0e]
+### PART I — APPROVAL[^c-1b1ebc82e455454b9fe7890cf9e39e0e]
 
-**1.**[^key-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — ANNUAL APPROVAL FEE[^key-1b1ebc82e455454b9fe7890cf9e39e0e]
+### PART II — ANNUAL APPROVAL FEE[^c-1b1ebc82e455454b9fe7890cf9e39e0e]
 
-**1.**[^key-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1b1ebc82e455454b9fe7890cf9e39e0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b1ebc82e455454b9fe7890cf9e39e0e]: Textual amendment: Regulations revoked (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1), [35](https://www.legislation.gov.uk/uksi/2005/2002/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))
+[^c-1b1ebc82e455454b9fe7890cf9e39e0e]: Textual amendment: Regulations revoked (15.8.2005) by [The Animals and Animal Products (Import and Export) (England) Regulations 2005 (S.I. 2005/2002)](https://www.legislation.gov.uk/uksi/2005/2002), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2002/regulation/1), [35](https://www.legislation.gov.uk/uksi/2005/2002/regulation/35) (with [reg. 2](https://www.legislation.gov.uk/uksi/2005/2002/regulation/2))

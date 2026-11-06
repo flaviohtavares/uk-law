@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Agreement to vary vesting date[^key-8e8395ceb8e8b41099a7335c5b916bb6][^key-18d476ba3ce80aa77d5d8e96047b3a74]
+## 186. Agreement to vary vesting date[^c-8e8395ceb8e8b41099a7335c5b916bb6][^c-18d476ba3ce80aa77d5d8e96047b3a74]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e8395ceb8e8b41099a7335c5b916bb6]: Commencement: S. 186 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-8e8395ceb8e8b41099a7335c5b916bb6]: Commencement: S. 186 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-18d476ba3ce80aa77d5d8e96047b3a74]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2023/55/section/186) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))
+[^c-18d476ba3ce80aa77d5d8e96047b3a74]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2023/55/section/186) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/m) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/2))

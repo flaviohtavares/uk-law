@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-d1ab1d2792ce185734c28184e0f5f194] Section 13 of the TA 1985 (provisions supplementary to sections 10 to 12) is amended as follows.
+(1)[^c-d1ab1d2792ce185734c28184e0f5f194] Section 13 of the TA 1985 (provisions supplementary to sections 10 to 12) is amended as follows.
 
-(2)[^key-d1ab1d2792ce185734c28184e0f5f194] In subsection (1) (power to modify codes for purposes of sections 10 to 12)—
+(2)[^c-d1ab1d2792ce185734c28184e0f5f194] In subsection (1) (power to modify codes for purposes of sections 10 to 12)—
 
 - (a) for “The Secretary of State” substitute “ The appropriate authority ”;
 - (b) for “he” substitute “ it ”.
 
-(3)[^key-d1ab1d2792ce185734c28184e0f5f194] Subsection (3) (interpretation of terms used in sections 10 to 12) is amended as follows.
+(3)[^c-d1ab1d2792ce185734c28184e0f5f194] Subsection (3) (interpretation of terms used in sections 10 to 12) is amended as follows.
 
-(4)[^key-d1ab1d2792ce185734c28184e0f5f194] Before the definition of “licensed taxi” insert the following definition—
+(4)[^c-d1ab1d2792ce185734c28184e0f5f194] Before the definition of “licensed taxi” insert the following definition—
 
 > “**the appropriate authority**” means—
 >
@@ -47,7 +47,7 @@ summary: ''
 
 .
 
-(5)[^key-d1ab1d2792ce185734c28184e0f5f194] For the definition of “licensed hire car” substitute—
+(5)[^c-d1ab1d2792ce185734c28184e0f5f194] For the definition of “licensed hire car” substitute—
 
 > “**licensed hire car**” means—
 >
@@ -58,7 +58,7 @@ summary: ''
 
 .
 
-(6)[^key-d1ab1d2792ce185734c28184e0f5f194] After the definition of “taxi licence” insert—
+(6)[^c-d1ab1d2792ce185734c28184e0f5f194] After the definition of “taxi licence” insert—
 
 > “**relevant licence**” means—
 >
@@ -72,9 +72,9 @@ summary: ''
 
 .
 
-(7)[^key-d1ab1d2792ce185734c28184e0f5f194] In the definition of “hire car code”, after “used as mentioned in section 11” insert “ or 12 ”.
+(7)[^c-d1ab1d2792ce185734c28184e0f5f194] In the definition of “hire car code”, after “used as mentioned in section 11” insert “ or 12 ”.
 
-(8)[^key-76aefbc60a11b62d8eb4f2c0b0fbea9f] After section 13 of the TA 1985 insert—
+(8)[^c-76aefbc60a11b62d8eb4f2c0b0fbea9f] After section 13 of the TA 1985 insert—
 
 > **13A. Application of sections 10 to 13 to London**
 >
@@ -109,6 +109,6 @@ summary: ''
 
 [^c2199633]: Commencement: S. 54 partly in force; s. 54(8) in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-d1ab1d2792ce185734c28184e0f5f194]: Commencement: S. 54(1)-(7) in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-d1ab1d2792ce185734c28184e0f5f194]: Commencement: S. 54(1)-(7) in force at 6.4.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
 
-[^key-76aefbc60a11b62d8eb4f2c0b0fbea9f]: Commencement: S. 54(8) in force at 6.4.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)
+[^c-76aefbc60a11b62d8eb4f2c0b0fbea9f]: Commencement: S. 54(8) in force at 6.4.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(1)](https://www.legislation.gov.uk/uksi/2009/107/article/4/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/4/part/1)

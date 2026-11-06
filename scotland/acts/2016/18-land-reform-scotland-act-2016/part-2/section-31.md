@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Enforcement powers[^key-461bd65ace696d41adddced28066d53a]
+## 31. Enforcement powers[^c-461bd65ace696d41adddced28066d53a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-461bd65ace696d41adddced28066d53a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/18/section/31) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-461bd65ace696d41adddced28066d53a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/18/section/31) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

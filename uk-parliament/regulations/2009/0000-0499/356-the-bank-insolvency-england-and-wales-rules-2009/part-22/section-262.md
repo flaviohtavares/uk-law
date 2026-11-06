@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 262. Provable debts[^key-4958d5933794ce56880fced2c4b161b7]
+## 262. Provable debts[^c-4958d5933794ce56880fced2c4b161b7]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4958d5933794ce56880fced2c4b161b7]: Commencement: Rule 262 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-4958d5933794ce56880fced2c4b161b7]: Commencement: Rule 262 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00088]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

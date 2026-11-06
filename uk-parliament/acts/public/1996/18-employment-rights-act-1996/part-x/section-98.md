@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c16329111][^key-c593272761843a39fee8f4ce4a7b2664] In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show—
+(1)[^c16329111][^c-c593272761843a39fee8f4ce4a7b2664] In determining for the purposes of this Part whether the dismissal of an employee is fair or unfair, it is for the employer to show—
 
 - (a) the reason (or, if more than one, the principal reason) for the dismissal, and
 - (b) that it is either a reason falling within subsection (2) or some other substantial reason of a kind such as to justify the dismissal of an employee holding the position which the employee held.
@@ -58,7 +58,7 @@ summary: ''
 
 [^c16329111]: Modification: S. 98(1) modified (1.1.1999) by [1998 Measure No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 6(1)](https://www.legislation.gov.uk/ukcm/1998/1/section/6/1), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ukcm/1998/1/schedule/3/paragraph/3/2/b); [Instrument dated 14.10.1998 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
-[^key-c593272761843a39fee8f4ce4a7b2664]: Modification: S. 98(1) modified by SI 2006/246 reg. 7(3)(b) (as substituted (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/2)))
+[^c-c593272761843a39fee8f4ce4a7b2664]: Modification: S. 98(1) modified by SI 2006/246 reg. 7(3)(b) (as substituted (31.1.2014) by [The Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations 2014 (S.I. 2014/16)](https://www.legislation.gov.uk/uksi/2014/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/1) (with [reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/16/regulation/8/2)))
 
 [^c20103801]: Textual amendment: S. 98(2)(ba) inserted (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 22(2)](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/22/2) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
 

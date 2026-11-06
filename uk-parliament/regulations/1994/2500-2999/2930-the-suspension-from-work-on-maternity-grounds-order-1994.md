@@ -44,21 +44,21 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 45(3) of the Employment Protection (Consolidation) Act 1978[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-cd8011484a653f44506a62fbf855eda9]
+## 1. Citation, commencement and interpretation[^c-cd8011484a653f44506a62fbf855eda9]
 
 (1) This Order may be cited as the Suspension from Work (on Maternity Grounds) Order 1994 and shall come into force on 1st December 1994.
 
 (2) In this Order —
 
 - (a) “the 1978 Act” means the Employment Protection (Consolidation) Act 1978; and
-- (b) “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999[^key-3303147bf1bcc4722949e0b327ce5c27].
+- (b) “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999[^c-3303147bf1bcc4722949e0b327ce5c27].
 
-## 2. Relevant provisions under section 45(1) of the 1978 Act[^key-e9739187c74d893c0e4a2db6c4a345c7]
+## 2. Relevant provisions under section 45(1) of the 1978 Act[^c-e9739187c74d893c0e4a2db6c4a345c7]
 
 The following provisions are specified as relevant provisions for the purposes of section 45(1) of the 1978 Act:
 
 - (a) regulation 13A(3) of the 1992 Regulations; and
-- (b) regulation 17 of the 1999 Regulations[^key-4688309c3843de9fcd471489c548bbb4].
+- (b) regulation 17 of the 1999 Regulations[^c-4688309c3843de9fcd471489c548bbb4].
 
 Signed by order of the Secretary of State.
 
@@ -80,10 +80,10 @@ The Order specifies the requirements imposed by the 1992 Regulations so that, by
 
 [^f00001]: Footnote: [1978 c. 44](https://www.legislation.gov.uk/ukpga/1978/44); section 45 was substituted by section 25 of, andSchedule 3 to, the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
-[^key-cd8011484a653f44506a62fbf855eda9]: Commencement: Art. 1 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/1)
+[^c-cd8011484a653f44506a62fbf855eda9]: Commencement: Art. 1 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/1)
 
-[^key-3303147bf1bcc4722949e0b327ce5c27]: Textual amendment: Words in [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/2/b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+[^c-3303147bf1bcc4722949e0b327ce5c27]: Textual amendment: Words in [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/2/b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
 
-[^key-e9739187c74d893c0e4a2db6c4a345c7]: Commencement: Art. 2 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/1)
+[^c-e9739187c74d893c0e4a2db6c4a345c7]: Commencement: Art. 2 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2930/article/1/1)
 
-[^key-4688309c3843de9fcd471489c548bbb4]: Textual amendment: Words in [art. 2(b)](https://www.legislation.gov.uk/uksi/1994/2930/article/2/b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+[^c-4688309c3843de9fcd471489c548bbb4]: Textual amendment: Words in [art. 2(b)](https://www.legislation.gov.uk/uksi/1994/2930/article/2/b) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))

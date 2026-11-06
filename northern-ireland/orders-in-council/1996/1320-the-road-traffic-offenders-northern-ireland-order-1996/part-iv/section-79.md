@@ -28,7 +28,7 @@ summary: ''
 
 (4) For the purposes of Articles 77(1) and 78(1), a statutory declaration shall be taken to be duly served on the clerk of petty sessions if it is delivered to him, left at his office, or sent in a registered letter or by the recorded delivery service addressed to him at his office.
 
-(5) In Articles 77, 78 and this Article, references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^key-d843c138fd916ffcc6b303e4abef2fd9] .
+(5) In Articles 77, 78 and this Article, references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^c-d843c138fd916ffcc6b303e4abef2fd9] .
 
 (6) For the purposes of Articles 77, 78 and this Article, a person shall be taken to receive notice of the registration of a sum under Article 76 for enforcement against him as a fine when he receives notice either of the registration as such or of any proceedings for enforcing payment of the sum registered.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^m00057]: Marginal citation: 1981 NI 26.
 
-[^key-d843c138fd916ffcc6b303e4abef2fd9]: Textual amendment: Words in [art. 79(5)](https://www.legislation.gov.uk/nisi/1996/1320/article/79/5) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/5/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-d843c138fd916ffcc6b303e4abef2fd9]: Textual amendment: Words in [art. 79(5)](https://www.legislation.gov.uk/nisi/1996/1320/article/79/5) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/5/4); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)

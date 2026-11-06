@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ac4b2a225487e5fe88d61224176fd8bf]
+## 1. Citation and commencement[^c-ac4b2a225487e5fe88d61224176fd8bf]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Income Support (General) Regulations 1987 
 
 ## Annotations
 
-[^key-ac4b2a225487e5fe88d61224176fd8bf]: Commencement: Reg. 1 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-ac4b2a225487e5fe88d61224176fd8bf]: Commencement: Reg. 1 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

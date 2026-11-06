@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Refusal of approval of premises under paragraphs 37 and 37A of Schedule 2 to the 1997 Regulations[^key-c8c5d133c3e6e6e290577dac13762ae4]
+## 20. Refusal of approval of premises under paragraphs 37 and 37A of Schedule 2 to the 1997 Regulations[^c-c8c5d133c3e6e6e290577dac13762ae4]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ that appeal shall be dealt with, or continue to be dealt with, as if paragraph 3
 
 ## Annotations
 
-[^key-c8c5d133c3e6e6e290577dac13762ae4]: Commencement: Art. 20 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c8c5d133c3e6e6e290577dac13762ae4]: Commencement: Art. 20 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

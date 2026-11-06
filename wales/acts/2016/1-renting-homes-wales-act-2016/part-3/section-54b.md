@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54B. Right to claim benefits[^key-5cbe4923c91b2263a4ca0eea725cea66]
+## 54B. Right to claim benefits[^c-5cbe4923c91b2263a4ca0eea725cea66]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbe4923c91b2263a4ca0eea725cea66]: Textual amendment: [Pt. 3 Ch. 6A](https://www.legislation.gov.uk/anaw/2016/1/part/3/chapter/6A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/46/7), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)) (with power to amend or repeal Pt. 3 Ch. 6A conferred (27.10.2025) by [ss. 47](https://www.legislation.gov.uk/ukpga/2025/26/section/47), [145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2) of the amending Act); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)
+[^c-5cbe4923c91b2263a4ca0eea725cea66]: Textual amendment: [Pt. 3 Ch. 6A](https://www.legislation.gov.uk/anaw/2016/1/part/3/chapter/6A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/46/7), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)) (with power to amend or repeal Pt. 3 Ch. 6A conferred (27.10.2025) by [ss. 47](https://www.legislation.gov.uk/ukpga/2025/26/section/47), [145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2) of the amending Act); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)

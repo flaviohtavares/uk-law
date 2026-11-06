@@ -22,8 +22,8 @@ summary: ''
 
 (1) For the financial years 2017, 2018 and 2019 the main rate of corporation tax is 19%.
 
-(2)[^key-3527e9192a6ee32f8780a210f590b2ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3527e9192a6ee32f8780a210f590b2ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3527e9192a6ee32f8780a210f590b2ed]: Textual amendment: S. 7(2) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/5/2)
+[^c-3527e9192a6ee32f8780a210f590b2ed]: Textual amendment: S. 7(2) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/5/2)

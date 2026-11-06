@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Coming into force[^key-1572a6df7324385dc6d64a70a5aaf019]
+## 19. Coming into force[^c-1572a6df7324385dc6d64a70a5aaf019]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1572a6df7324385dc6d64a70a5aaf019]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/3/section/19) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)
+[^c-1572a6df7324385dc6d64a70a5aaf019]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2021/3/section/19) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)

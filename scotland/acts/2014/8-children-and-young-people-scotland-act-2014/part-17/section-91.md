@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Appeal against detention of child in secure accommodation[^key-62d76fde1cded529719ba16068011138][^key-39b86761f003fdc983f4df2cf5629cdd]
+## 91. Appeal against detention of child in secure accommodation[^c-62d76fde1cded529719ba16068011138][^c-39b86761f003fdc983f4df2cf5629cdd]
 
 *Extent: S*
 
@@ -57,6 +57,6 @@ After section 44 of the Criminal Procedure (Scotland) Act 1995 insert—
 
 ## Annotations
 
-[^key-62d76fde1cded529719ba16068011138]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/8/section/91) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-62d76fde1cded529719ba16068011138]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/8/section/91) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-39b86761f003fdc983f4df2cf5629cdd]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/8/section/91) in force at 1.2.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/406/article/3/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/406/article/4))
+[^c-39b86761f003fdc983f4df2cf5629cdd]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/8/section/91) in force at 1.2.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/406/article/3/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/406/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Presidential Guidance[^key-c77462f6c922dc0899f06f9e03d52cfe]
+## 8. Presidential Guidance[^c-c77462f6c922dc0899f06f9e03d52cfe]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c77462f6c922dc0899f06f9e03d52cfe]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2024/1155/rule/8) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-c77462f6c922dc0899f06f9e03d52cfe]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2024/1155/rule/8) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

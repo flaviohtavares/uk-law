@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Contributions during child-related leave[^key-d5da81024d859a3b318c574459b61c3b]
+## 18. Contributions during child-related leave[^c-d5da81024d859a3b318c574459b61c3b]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ the person may make contributions at the contribution rate as respects the unpai
 
 ## Annotations
 
-[^key-d5da81024d859a3b318c574459b61c3b]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-d5da81024d859a3b318c574459b61c3b]: Commencement: Reg. 18 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312); regulation 12A was inserted by [S.I. 2006/2014](https://www.legislation.gov.uk/uksi/2006/2014), regulations 3, 9.
 

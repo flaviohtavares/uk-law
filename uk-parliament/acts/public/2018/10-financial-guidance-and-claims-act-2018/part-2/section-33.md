@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Legal services regulators' rules: charges for claims management services[^key-318de9e376b9382eb81d0ea77c3ce1d3]
+## 33. Legal services regulators' rules: charges for claims management services[^c-318de9e376b9382eb81d0ea77c3ce1d3]
 
 *Extent: E+W+S*
 
@@ -38,13 +38,13 @@ summary: ''
 
 - (a) in relation to the Law Society of England and Wales—
   - (i) persons who, or licensable bodies which, are authorised by the Law Society to carry on a reserved legal activity,
-  - (ii) European lawyers registered with the Law Society under the European Communities (Lawyer's Practice) Regulations 2000 (S.I. 2000/1119) , as they have effect by virtue of regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^key-c7dfb9db6381594a1aed65b5bdd40639], and
+  - (ii) European lawyers registered with the Law Society under the European Communities (Lawyer's Practice) Regulations 2000 (S.I. 2000/1119) , as they have effect by virtue of regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^c-c7dfb9db6381594a1aed65b5bdd40639], and
   - (iii) foreign lawyers registered with the Law Society under section 89 of the Courts and Legal Services Act 1990;
 - (b) in relation to the Law Society of Scotland, Scottish legal practitioners;
 - (c) in relation to the General Council of the Bar—
   - (i) persons who, or licensable bodies which, are authorised by the General Council to carry on a reserved legal activity, and
-  - (ii) European lawyers registered with the General Council under the European Communities (Lawyer's Practice) Regulations 2000 , as they have effect by virtue of regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^key-a93baf4d3c93c55f66a4bda3a3621b61];
-- (d)[^key-83e044904cdf48bac4132e9c870d1cb2] in relation to the Chartered Institute of Legal Executives, persons authorised by the Institute to carry on a reserved legal activity.
+  - (ii) European lawyers registered with the General Council under the European Communities (Lawyer's Practice) Regulations 2000 , as they have effect by virtue of regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^c-a93baf4d3c93c55f66a4bda3a3621b61];
+- (d)[^c-83e044904cdf48bac4132e9c870d1cb2] in relation to the Chartered Institute of Legal Executives, persons authorised by the Institute to carry on a reserved legal activity.
 
 (6) The rules must be made with a view to securing an appropriate degree of protection against excessive charges for the provision of a service which is, or which is provided in connection with, a relevant claims management activity.
 
@@ -87,10 +87,10 @@ summary: ''
 
 ## Annotations
 
-[^key-318de9e376b9382eb81d0ea77c3ce1d3]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2018/10/section/33) in force at 29.3.2019 by [S.I. 2019/743](https://www.legislation.gov.uk/uksi/2019/743), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/743/regulation/2/b)
+[^c-318de9e376b9382eb81d0ea77c3ce1d3]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2018/10/section/33) in force at 29.3.2019 by [S.I. 2019/743](https://www.legislation.gov.uk/uksi/2019/743), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/743/regulation/2/b)
 
-[^key-c7dfb9db6381594a1aed65b5bdd40639]: Textual amendment: Words in [s. 33(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2018/10/section/33/5/a/ii) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/14/3/a) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-c7dfb9db6381594a1aed65b5bdd40639]: Textual amendment: Words in [s. 33(5)(a)(ii)](https://www.legislation.gov.uk/ukpga/2018/10/section/33/5/a/ii) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 14(3)(a)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/14/3/a) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
 
-[^key-a93baf4d3c93c55f66a4bda3a3621b61]: Textual amendment: Words in [s. 33(5)(c)(ii)](https://www.legislation.gov.uk/ukpga/2018/10/section/33/5/c/ii) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 14(3)(b)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/14/3/b) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-a93baf4d3c93c55f66a4bda3a3621b61]: Textual amendment: Words in [s. 33(5)(c)(ii)](https://www.legislation.gov.uk/ukpga/2018/10/section/33/5/c/ii) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 14(3)(b)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/14/3/b) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
 
-[^key-83e044904cdf48bac4132e9c870d1cb2]: Modification: [S. 33(5)(d)](https://www.legislation.gov.uk/ukpga/2018/10/section/33/5/d) modified (E.W.) (1.4.2019) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2019 (S.I. 2019/166)](https://www.legislation.gov.uk/uksi/2019/166), [arts. 1](https://www.legislation.gov.uk/uksi/2019/166/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/166/article/3/b)
+[^c-83e044904cdf48bac4132e9c870d1cb2]: Modification: [S. 33(5)(d)](https://www.legislation.gov.uk/ukpga/2018/10/section/33/5/d) modified (E.W.) (1.4.2019) by [The Legal Services Act 2007 (Designation as a Licensing Authority) Order 2019 (S.I. 2019/166)](https://www.legislation.gov.uk/uksi/2019/166), [arts. 1](https://www.legislation.gov.uk/uksi/2019/166/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/166/article/3/b)

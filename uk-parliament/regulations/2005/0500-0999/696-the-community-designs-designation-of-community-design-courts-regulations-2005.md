@@ -32,7 +32,7 @@ summary: ''
 
 DESIGNS
 
-The Community Designs (Designation of Community Design Courts) Regulations 2005 (revoked)[^key-2e02fd8e264ba59915786d0b658a3b02]
+The Community Designs (Designation of Community Design Courts) Regulations 2005 (revoked)[^c-2e02fd8e264ba59915786d0b658a3b02]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 6th April 2005
 
-[^key-2e02fd8e264ba59915786d0b658a3b02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e02fd8e264ba59915786d0b658a3b02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-2e02fd8e264ba59915786d0b658a3b02]
+## 1.[^c-2e02fd8e264ba59915786d0b658a3b02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-2e02fd8e264ba59915786d0b658a3b02]
+## 2.[^c-2e02fd8e264ba59915786d0b658a3b02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e02fd8e264ba59915786d0b658a3b02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e02fd8e264ba59915786d0b658a3b02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e02fd8e264ba59915786d0b658a3b02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e02fd8e264ba59915786d0b658a3b02]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e02fd8e264ba59915786d0b658a3b02]: Textual amendment: Regulations revoked (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [regs. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/638/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e02fd8e264ba59915786d0b658a3b02]: Textual amendment: Regulations revoked (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [regs. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/638/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

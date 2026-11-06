@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Claims not required for entitlement to universal credit in certain cases[^key-3b69e286db56f6603dc682a0e96630b6]
+## 6. Claims not required for entitlement to universal credit in certain cases[^c-3b69e286db56f6603dc682a0e96630b6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b69e286db56f6603dc682a0e96630b6]: Textual amendment: Reg. 6 revoked (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-3b69e286db56f6603dc682a0e96630b6]: Textual amendment: Reg. 6 revoked (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))

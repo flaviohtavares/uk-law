@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Enforcement of duties of crofters and certain owner-occupiers[^key-6b8f0ce6817491d2ba3bb701f7250b31][^key-17fecca293a52ab10e4dfc9d348fff62][^key-4422b6d8af6e8f7eb5b643095e2b5667]
+## 37. Enforcement of duties of crofters and certain owner-occupiers[^c-6b8f0ce6817491d2ba3bb701f7250b31][^c-17fecca293a52ab10e4dfc9d348fff62][^c-4422b6d8af6e8f7eb5b643095e2b5667]
 
 *Extent: S*
 
@@ -267,8 +267,8 @@ After section 26 of the 1993 Act insert—
 
 ## Annotations
 
-[^key-6b8f0ce6817491d2ba3bb701f7250b31]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/14/section/37) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
+[^c-6b8f0ce6817491d2ba3bb701f7250b31]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/14/section/37) in force at 1.10.2011 for specified purposes by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [arts. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4), [5(3)](https://www.legislation.gov.uk/ssi/2011/334/article/5/3))
 
-[^key-17fecca293a52ab10e4dfc9d348fff62]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/14/section/37) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/1)[(2)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/2))
+[^c-17fecca293a52ab10e4dfc9d348fff62]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/14/section/37) in force at 30.11.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2) (with [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/1)[(2)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/2))
 
-[^key-4422b6d8af6e8f7eb5b643095e2b5667]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/14/section/37) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/3)[(4)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/4))
+[^c-4422b6d8af6e8f7eb5b643095e2b5667]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/14/section/37) in force at 30.11.2013 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/c) (with [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/3)[(4)](https://www.legislation.gov.uk/ssi/2012/288/schedule/2/paragraph/5/4))

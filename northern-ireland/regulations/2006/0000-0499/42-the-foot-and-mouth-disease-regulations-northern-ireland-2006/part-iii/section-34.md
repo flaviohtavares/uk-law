@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Amendment and revocation of declarations creating protection zones and surveillance zones[^key-54b67cbc3f8b1de6f4a1694b29265d87]
+## 34. Amendment and revocation of declarations creating protection zones and surveillance zones[^c-54b67cbc3f8b1de6f4a1694b29265d87]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54b67cbc3f8b1de6f4a1694b29265d87]: Commencement: Reg. 34 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-54b67cbc3f8b1de6f4a1694b29265d87]: Commencement: Reg. 34 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

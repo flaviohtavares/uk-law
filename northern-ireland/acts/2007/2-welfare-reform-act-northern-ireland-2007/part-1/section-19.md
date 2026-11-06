@@ -27,7 +27,7 @@ summary: ''
 - (a) regulations which are made under any provision of this Part, other than sections 3, 8 and 9;
 - (b) regulations which are made under the Administration Act, so far as they relate to an employment and support allowance.
 
-(3) Subsection (1) only applies to regulations if they are made with a view to testing the extent to which the provision made by the regulations is likely to promote—[^key-8ca6d8558e7524b99e5c2c94fe528986]
+(3) Subsection (1) only applies to regulations if they are made with a view to testing the extent to which the provision made by the regulations is likely to promote—[^c-8ca6d8558e7524b99e5c2c94fe528986]
 
 - (a) people remaining in work, or
 - (b) people obtaining or being able to obtain work (or more work or better-paid work).
@@ -50,4 +50,4 @@ summary: ''
 
 [^c22083531]: Textual amendment: Words in s. 19(1) substituted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 22(2)](https://www.legislation.gov.uk/nia/2010/13/section/22/2), [36(1)(g)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/g)
 
-[^key-8ca6d8558e7524b99e5c2c94fe528986]: Textual amendment: Words in s. 19(3) substituted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [63(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/3); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
+[^c-8ca6d8558e7524b99e5c2c94fe528986]: Textual amendment: Words in s. 19(3) substituted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [63(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/63/3); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)

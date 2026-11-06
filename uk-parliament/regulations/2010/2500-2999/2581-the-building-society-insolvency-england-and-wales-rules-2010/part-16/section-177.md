@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Saving for powers of the court[^key-f88b1a0af9547774fc8df9b8e8651863]
+## 177. Saving for powers of the court[^c-f88b1a0af9547774fc8df9b8e8651863]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.220 of the 1986 Rules.
 
 ## Annotations
 
-[^key-f88b1a0af9547774fc8df9b8e8651863]: Commencement: Rule 177 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-f88b1a0af9547774fc8df9b8e8651863]: Commencement: Rule 177 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

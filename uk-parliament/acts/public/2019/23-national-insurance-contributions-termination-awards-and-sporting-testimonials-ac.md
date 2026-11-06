@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Part 1 — Termination awards
 
-### 1. Termination awards: Great Britain[^key-ea416b006ebb0f365b4d9d71b16dfa3e]
+### 1. Termination awards: Great Britain[^c-ea416b006ebb0f365b4d9d71b16dfa3e]
 
 *Extent: E+W+S*
 
@@ -79,7 +79,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) In section 162(5) of the Social Security Administration Act 1992 (appropriate national health service allocation), in paragraph (c), after “general earnings” insert “ and the amounts chargeable to income tax under section 403 of the Income Tax (Earnings and Pensions) Act 2003 ”.
 
-### 2. Termination awards: Northern Ireland[^key-cef9c80ccc1d3753a48b35ef03355f50]
+### 2. Termination awards: Northern Ireland[^c-cef9c80ccc1d3753a48b35ef03355f50]
 
 *Extent: N.I.*
 
@@ -122,7 +122,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Part 2 — Sporting testimonials
 
-### 3. Sporting testimonials: Great Britain[^key-c29728d2f15e963ae578cbecd14cc28b]
+### 3. Sporting testimonials: Great Britain[^c-c29728d2f15e963ae578cbecd14cc28b]
 
 *Extent: E+W+S*
 
@@ -157,7 +157,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (6) Expressions used in this section and section 226E of ITEPA 2003 (sporting testimonial payments) have the same meaning as in that section.
 
-### 4. Sporting testimonials: Northern Ireland[^key-ff17c89be1d961fe6b10b8becb8d8898]
+### 4. Sporting testimonials: Northern Ireland[^c-ff17c89be1d961fe6b10b8becb8d8898]
 
 *Extent: N.I.*
 
@@ -215,10 +215,10 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-ea416b006ebb0f365b4d9d71b16dfa3e]: Commencement: S. 1 in force at 6.4.2020 except in relation to termination awards received on or after 6.4.2020 in respect of employment which was terminated before 6.4.2020, or termination awards which are received in instalments where the first instalment of the termination award was received before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 2](https://www.legislation.gov.uk/uksi/2020/285/regulation/2)
+[^c-ea416b006ebb0f365b4d9d71b16dfa3e]: Commencement: S. 1 in force at 6.4.2020 except in relation to termination awards received on or after 6.4.2020 in respect of employment which was terminated before 6.4.2020, or termination awards which are received in instalments where the first instalment of the termination award was received before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 2](https://www.legislation.gov.uk/uksi/2020/285/regulation/2)
 
-[^key-cef9c80ccc1d3753a48b35ef03355f50]: Commencement: S. 2 in force at 6.4.2020 except in relation to termination awards received on or after 6.4.2020 in respect of employment which was terminated before 6.4.2020, or termination awards which are received in instalments where the first instalment of the termination award was received before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 2](https://www.legislation.gov.uk/uksi/2020/285/regulation/2)
+[^c-cef9c80ccc1d3753a48b35ef03355f50]: Commencement: S. 2 in force at 6.4.2020 except in relation to termination awards received on or after 6.4.2020 in respect of employment which was terminated before 6.4.2020, or termination awards which are received in instalments where the first instalment of the termination award was received before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 2](https://www.legislation.gov.uk/uksi/2020/285/regulation/2)
 
-[^key-c29728d2f15e963ae578cbecd14cc28b]: Commencement: S. 3 in force at 6.4.2020 except in relation to sporting testimonials which take place on or after 6.4.2020 but which were announced before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 3](https://www.legislation.gov.uk/uksi/2020/285/regulation/3)
+[^c-c29728d2f15e963ae578cbecd14cc28b]: Commencement: S. 3 in force at 6.4.2020 except in relation to sporting testimonials which take place on or after 6.4.2020 but which were announced before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 3](https://www.legislation.gov.uk/uksi/2020/285/regulation/3)
 
-[^key-ff17c89be1d961fe6b10b8becb8d8898]: Commencement: S. 4 in force at 6.4.2020 except in relation to sporting testimonials which take place on or after 6.4.2020 but which were announced before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 3](https://www.legislation.gov.uk/uksi/2020/285/regulation/3)
+[^c-ff17c89be1d961fe6b10b8becb8d8898]: Commencement: S. 4 in force at 6.4.2020 except in relation to sporting testimonials which take place on or after 6.4.2020 but which were announced before 6.4.2020, by [S.I. 2020/285](https://www.legislation.gov.uk/uksi/2020/285), [reg. 3](https://www.legislation.gov.uk/uksi/2020/285/regulation/3)

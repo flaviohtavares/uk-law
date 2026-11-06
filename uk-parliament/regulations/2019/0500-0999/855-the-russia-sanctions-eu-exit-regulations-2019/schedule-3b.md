@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3B — Iron and steel products[^key-56a12b833748809987b7b4357a69832a]
+## SCHEDULE 3B — Iron and steel products[^c-56a12b833748809987b7b4357a69832a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,11 +26,11 @@ Regulation 46C
 
 #### 1. Interpretation
 
-Paragraph 1 of Schedule 3 applies for the purposes of interpreting Parts 2 and 3[^key-9d18acae9f68b3247b6d01e8329e272d].
+Paragraph 1 of Schedule 3 applies for the purposes of interpreting Parts 2 and 3[^c-9d18acae9f68b3247b6d01e8329e272d].
 
 ### PART 2
 
-#### 2. Specified products for the purposes of Part 2[^key-bc3d5a34547d6fd7c932ec6cba3c3a94][^key-434f4d2d9c7d28c53fcc3283d0bf94cb]
+#### 2. Specified products for the purposes of Part 2[^c-bc3d5a34547d6fd7c932ec6cba3c3a94][^c-434f4d2d9c7d28c53fcc3283d0bf94cb]
 
 Any thing falling within a commodity code mentioned in column 1 of the following table—
 
@@ -380,7 +380,7 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 
 [^f01000]
 
-### PART 3[^key-60138ffb7f7684b9f6062b961fb8b928]
+### PART 3[^c-60138ffb7f7684b9f6062b961fb8b928]
 
 #### 3. Specified products for the purposes of Part 3
 
@@ -437,7 +437,7 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 | 7325 | Articles of iron or steel, cast, n.e.s. |
 | 7326 | Articles of iron or steel, n.e.s. (excl. Cast articles) |
 
-### PART 4[^key-8e76e4afd3717009574302f2de896663]
+### PART 4[^c-8e76e4afd3717009574302f2de896663]
 
 #### 4. Specified products for the purposes of Part 4
 
@@ -453,18 +453,18 @@ Any thing falling within a commodity code mentioned in column 1 of the following
 
 ## Annotations
 
-[^key-56a12b833748809987b7b4357a69832a]: Textual amendment: Sch. 3B inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/452/schedule/part/2)
+[^c-56a12b833748809987b7b4357a69832a]: Textual amendment: Sch. 3B inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/452/schedule/part/2)
 
-[^key-9d18acae9f68b3247b6d01e8329e272d]: Textual amendment: Words in [Sch. 3B para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/3B/paragraph/1) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(4)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/4/a)
+[^c-9d18acae9f68b3247b6d01e8329e272d]: Textual amendment: Words in [Sch. 3B para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/3B/paragraph/1) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(4)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/4/a)
 
-[^key-bc3d5a34547d6fd7c932ec6cba3c3a94]: Textual amendment: Sch. 3B para. 2 heading substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(4)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/4/b)
+[^c-bc3d5a34547d6fd7c932ec6cba3c3a94]: Textual amendment: Sch. 3B para. 2 heading substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(4)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/4/b)
 
-[^key-434f4d2d9c7d28c53fcc3283d0bf94cb]: Textual amendment: Words in Sch. 3B Pt. 2 heading substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(10)(a)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/10/a)
+[^c-434f4d2d9c7d28c53fcc3283d0bf94cb]: Textual amendment: Words in Sch. 3B Pt. 2 heading substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(10)(a)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/10/a)
 
-[^f01000]: Footnote: (1)[^key-56a12b833748809987b7b4357a69832a]
+[^f01000]: Footnote: (1)[^c-56a12b833748809987b7b4357a69832a]
 
     GOES means Grain Oriented Electrical Steel.
 
-[^key-60138ffb7f7684b9f6062b961fb8b928]: Textual amendment: [Sch. 3B Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3B/part/3) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(4)(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/4/c)
+[^c-60138ffb7f7684b9f6062b961fb8b928]: Textual amendment: [Sch. 3B Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3B/part/3) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(4)(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/4/c)
 
-[^key-8e76e4afd3717009574302f2de896663]: Textual amendment: Sch. 3B Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1364/schedule/1)
+[^c-8e76e4afd3717009574302f2de896663]: Textual amendment: Sch. 3B Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1364/schedule/1)

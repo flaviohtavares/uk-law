@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**73.**[^key-5288616293441294faa4a95ef7603e2e] In regulation 82—
+**73.**[^c-5288616293441294faa4a95ef7603e2e] In regulation 82—
 
 - (a) in paragraph (1)—
   - (i) in subparagraph (a) for “the United Kingdom” substitute “Northern Ireland”;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5288616293441294faa4a95ef7603e2e]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-5288616293441294faa4a95ef7603e2e]: Commencement: Reg. 73 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

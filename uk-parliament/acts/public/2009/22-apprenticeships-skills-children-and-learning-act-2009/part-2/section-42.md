@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Encouragement of education and training for persons over compulsory school age[^key-67816f5dc9611dfe3fee77883d05fdf0]
+## 42. Encouragement of education and training for persons over compulsory school age[^c-67816f5dc9611dfe3fee77883d05fdf0]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ After section 15ZB of the Education Act 1996 (c. 56) (inserted by section 41) in
 
 > **15ZC. Encouragement of education and training for persons over compulsory school age: England**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England must—
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England must—
 >
 > - (a) encourage participation in education and training by persons in their area who are within section 15ZA(1)(a) or (b);
 > - (b) encourage employers to participate in the provision of education and training for such persons.
@@ -38,6 +38,6 @@ After section 15ZB of the Education Act 1996 (c. 56) (inserted by section 41) in
 
 ## Annotations
 
-[^key-67816f5dc9611dfe3fee77883d05fdf0]: Commencement: S. 42 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-67816f5dc9611dfe3fee77883d05fdf0]: Commencement: S. 42 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

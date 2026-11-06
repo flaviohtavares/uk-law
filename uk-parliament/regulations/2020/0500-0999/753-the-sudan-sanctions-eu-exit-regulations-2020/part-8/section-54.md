@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Time limit for proceedings for summary offences[^key-749d46e8e83b767d010e7d914ce46aa3]
+## 54. Time limit for proceedings for summary offences[^c-749d46e8e83b767d010e7d914ce46aa3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-749d46e8e83b767d010e7d914ce46aa3]: Commencement: Reg. 54 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-749d46e8e83b767d010e7d914ce46aa3]: Commencement: Reg. 54 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

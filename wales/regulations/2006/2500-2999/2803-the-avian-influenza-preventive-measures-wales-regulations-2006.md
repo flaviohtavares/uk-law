@@ -74,7 +74,7 @@ In these Regulations—
 - “**veterinary inspector**” (“***arolygydd milfeddygol***”) means a person appointed as such by the National Assembly for the purposes of these Regulations or under the Act;
 - “**zoo**” (“***sw***”) means either—
   - (i) a permanent establishment where animals of wild species are kept for exhibition to the public for seven or more days a year, with the exception of circuses and pet shops; or
-  - (ii) an approved body, institute or centre, as defined in point (c) of Article 2(1) of Council Directive 92/65 EC laying down animal health requirements governing trade in and imports into the European Union[^key-fca3ee6109ff9928b2f04eecb812aed7] of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I) to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) [^c16928941], as last amended by Council Directive [2004/68/EC](https://www.legislation.gov.uk/eudr/2004/68) [^c16928951].
+  - (ii) an approved body, institute or centre, as defined in point (c) of Article 2(1) of Council Directive 92/65 EC laying down animal health requirements governing trade in and imports into the European Union[^c-fca3ee6109ff9928b2f04eecb812aed7] of animals, semen, ova and embryos not subject to animal health requirements laid down in specific Community rules referred to in Annex A(I) to Directive [90/425/EEC](https://www.legislation.gov.uk/eudr/1990/425) [^c16928941], as last amended by Council Directive [2004/68/EC](https://www.legislation.gov.uk/eudr/2004/68) [^c16928951].
 
 ## 3. Licences and notices
 
@@ -117,7 +117,7 @@ Licences granted in England or Scotland for activities that could be licensed in
 - (a) a veterinary risk assessment has been carried out; and
 - (b) the National Assembly is satisfied that such a gathering and the transit of birds to and from such a gathering would not significantly increase the risk of the transmission of avian influenza virus.
 
-## 7. Notification of premises where poultry or other captive birds are kept[^key-a08ef98468f098b9d900b9b420fc7ca7]
+## 7. Notification of premises where poultry or other captive birds are kept[^c-a08ef98468f098b9d900b9b420fc7ca7]
 
 (1) A person who keeps poultry or other captive birds at any premises must notify the Welsh Ministers in writing of the following information in relation to the premises—
 
@@ -165,7 +165,7 @@ Licences granted in England or Scotland for activities that could be licensed in
 - (a) a permanent or temporary housing of poultry or other captive birds in a fully or partially meshed, netted or caged outdoor structure, whether fixed or mobile, which is not fully enclosed within a building; or
 - (b) temporary removal of poultry or other captive birds from their housing in order to be flown freely outdoors.
 
-## 7A. Notification of premises where poultry or other captive birds are kept: exceptions[^key-34bce185d08d1da1ac1b522616888d95]
+## 7A. Notification of premises where poultry or other captive birds are kept: exceptions[^c-34bce185d08d1da1ac1b522616888d95]
 
 The requirement to notify the Welsh Ministers under regulation 7 does not apply to keepers of other captive birds at any premises where the only other captive birds kept—
 
@@ -203,7 +203,7 @@ The requirement to notify the Welsh Ministers under regulation 7 does not apply 
 - (b) biosecurity conditions to be met at the zoo or any part of the zoo;
 - (c) conditions relating to the storage and administration of vaccine.
 
-(5) The National Assembly must ensure that vaccination is carried out in accordance with the preventive vaccination plan approved in accordance with Article 56(2) of Council[^key-bd84cf3b1e11864a6a08905c71a4f26f] [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040) as read with Article 5 of Commission Decision 2007/598 concerning measures to prevent the spread of highly pathogenic avian influenza to other captive birds kept in zoos and approved bodies, institutes or centres.
+(5) The National Assembly must ensure that vaccination is carried out in accordance with the preventive vaccination plan approved in accordance with Article 56(2) of Council[^c-bd84cf3b1e11864a6a08905c71a4f26f] [Directive 2005/94/EC](https://www.legislation.gov.uk/european/directive/2005/0094) on Community measures for the control of avian influenza and repealing [Directive 92/40/EEC](https://www.legislation.gov.uk/european/directive/1992/0040) as read with Article 5 of Commission Decision 2007/598 concerning measures to prevent the spread of highly pathogenic avian influenza to other captive birds kept in zoos and approved bodies, institutes or centres.
 
 ## 10. Extension of the power to cause vaccination
 
@@ -219,10 +219,10 @@ The following provisions of the Act apply as if vaccination under these Regulati
 
 (2) A veterinary inspector or inspector acting under his or her direction may only license the movement of vaccinated zoo birds—
 
-- (a) to a zoo in the United Kingdom or in a[^key-e99c671cdc31668971d50d67290f07cb] member State; or
+- (a) to a zoo in the United Kingdom or in a[^c-e99c671cdc31668971d50d67290f07cb] member State; or
 - (b) directly to a third country.
 
-(3) A veterinary inspector or inspector acting under his or her direction must not license a movement to a[^key-8f4d7dcd2ff116ad023b8f7e6b0b7ca9] member State or to a third country unless its competent authority has authorised the movement.
+(3) A veterinary inspector or inspector acting under his or her direction must not license a movement to a[^c-8f4d7dcd2ff116ad023b8f7e6b0b7ca9] member State or to a third country unless its competent authority has authorised the movement.
 
 (4) An inspector must supervise any movement licensed under paragraph (2) while the bird is in Wales.
 
@@ -241,7 +241,7 @@ The National Assembly must ensure that such surveillance for avian influenza as 
 
 ## 13. Failure to vaccinate birds
 
-Any person who knows or suspects that any bird has not been vaccinated as required by the National Assembly must immediately notify the Welsh Ministers[^key-ddbccc0a7c96db6f1d3371c83c397f7f].
+Any person who knows or suspects that any bird has not been vaccinated as required by the National Assembly must immediately notify the Welsh Ministers[^c-ddbccc0a7c96db6f1d3371c83c397f7f].
 
 ## 14. General duties relating to execution of these Regulations
 
@@ -303,7 +303,7 @@ Provisions in these Regulations which prohibit or restrict the movement or use o
 
 - (a) section 63 (general powers of inspectors);
 - (b) section 64 (powers of inspectors as to poultry);
-- (c) section 64A [^c16929061] (powers of inspectors relating to retained[^key-3965ba7dd1b011b44ba952d5170b0739] EU law), and
+- (c) section 64A [^c16929061] (powers of inspectors relating to retained[^c-3965ba7dd1b011b44ba952d5170b0739] EU law), and
 - (d) section 65(1) to (3) (power to detain vessels and aircraft).
 
 ## 19. Powers of inspectors in case of default
@@ -398,21 +398,21 @@ The Presiding Officer of the National Assembly
 
 [^c16928931]: Marginal citation: The Diseases of Poultry Order is defined in [S.I. 1978/32](https://www.legislation.gov.uk/uksi/1978/32) as the Diseases of Poultry (Wales) Order 2003 ([S.I. 2003/1079](https://www.legislation.gov.uk/uksi/2003/1079) (W.148)) and the Avian Influenza and Influenza of Avian Origin in Mammals (Wales) Order 2006 ([S.I. 2006/1762](https://www.legislation.gov.uk/uksi/2006/1762) (W.184)).
 
-[^key-fca3ee6109ff9928b2f04eecb812aed7]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-fca3ee6109ff9928b2f04eecb812aed7]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^c16928941]: Marginal citation: OJ No L 268, 14.9.1992, p. 54.
 
 [^c16928951]: Marginal citation: OJ No L 139, 30.4.2004, p. 321; *see* the corrected text as set out in the corrigendum to the Directive published in OJ No L 226, 25.6.2004, p.128.
 
-[^key-a08ef98468f098b9d900b9b420fc7ca7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2006/2803/regulation/7) substituted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Wales) (Amendment) Regulations 2024 (S.I. 2024/795)](https://www.legislation.gov.uk/wsi/2024/795), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/795/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2024/795/regulation/3)
+[^c-a08ef98468f098b9d900b9b420fc7ca7]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/wsi/2006/2803/regulation/7) substituted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Wales) (Amendment) Regulations 2024 (S.I. 2024/795)](https://www.legislation.gov.uk/wsi/2024/795), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/795/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2024/795/regulation/3)
 
-[^key-34bce185d08d1da1ac1b522616888d95]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2006/2803/regulation/7A) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Wales) (Amendment) Regulations 2024 (S.I. 2024/795)](https://www.legislation.gov.uk/wsi/2024/795), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/795/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2024/795/regulation/4)
+[^c-34bce185d08d1da1ac1b522616888d95]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/wsi/2006/2803/regulation/7A) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Wales) (Amendment) Regulations 2024 (S.I. 2024/795)](https://www.legislation.gov.uk/wsi/2024/795), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/795/regulation/1/3), [4](https://www.legislation.gov.uk/wsi/2024/795/regulation/4)
 
 [^c16928991]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463), to which there is an amendment not relevant to these Regulations.
 
 [^c16929001]: Marginal citation: [S.I. 2005/2745](https://www.legislation.gov.uk/uksi/2005/2745).
 
-[^key-bd84cf3b1e11864a6a08905c71a4f26f]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/9/5) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd84cf3b1e11864a6a08905c71a4f26f]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/9/5) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16929021]: Marginal citation: [Section 16](https://www.legislation.gov.uk/wsi/2006/2803/section/16) of the 1981 Act was amended by section 7 of the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42).
 
@@ -420,17 +420,17 @@ The Presiding Officer of the National Assembly
 
 [^c16929041]: Marginal citation: [Section 62A](https://www.legislation.gov.uk/wsi/2006/2803/section/62A) of the 1981 Act was inserted by section 8 of the Animal Health Act 2002.
 
-[^key-e99c671cdc31668971d50d67290f07cb]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/11/2/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e99c671cdc31668971d50d67290f07cb]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/11/2/a) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f4d7dcd2ff116ad023b8f7e6b0b7ca9]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/11/3) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f4d7dcd2ff116ad023b8f7e6b0b7ca9]: Textual amendment: Word in [reg. 11(3)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/11/3) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16929051]: Marginal citation: OJ No. L10, 14.1.2006, p. 16.
 
-[^key-ddbccc0a7c96db6f1d3371c83c397f7f]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2006/2803/regulation/13) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/wsi/2010/619), [regs. 1](https://www.legislation.gov.uk/wsi/2010/619/regulation/1), [4](https://www.legislation.gov.uk/wsi/2010/619/regulation/4)
+[^c-ddbccc0a7c96db6f1d3371c83c397f7f]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2006/2803/regulation/13) substituted (1.4.2010) by [The Animals (Divisional Veterinary Managers) (Wales) Regulations 2010 (S.I. 2010/619)](https://www.legislation.gov.uk/wsi/2010/619), [regs. 1](https://www.legislation.gov.uk/wsi/2010/619/regulation/1), [4](https://www.legislation.gov.uk/wsi/2010/619/regulation/4)
 
 [^c16929061]: Marginal citation: Section 64A of the 1981 Act was inserted by the [Animal Health Act 1981 (Amendment) Regulations 1992 (S.I. 1992/3293)](https://www.legislation.gov.uk/uksi/1992/3293), [regulation 2](https://www.legislation.gov.uk/uksi/1992/3293/regulation/2).
 
-[^key-3965ba7dd1b011b44ba952d5170b0739]: Textual amendment: Words in [reg. 18(3)(c)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/18/3/c) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3965ba7dd1b011b44ba952d5170b0739]: Textual amendment: Words in [reg. 18(3)(c)](https://www.legislation.gov.uk/wsi/2006/2803/regulation/18/3/c) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2019/371/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16929071]: Marginal citation: [Section 66A](https://www.legislation.gov.uk/wsi/2006/2803/section/66A) of the 1981 Act was inserted by section 8(2) of the [Animal Health Act 2002 (c. 42)](https://www.legislation.gov.uk/ukpga/2002/42).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Meaning of “offer of transferable securities to the public” etc.[^key-99ed0b66e9e6c0013ba64081dfa1b889]
+## 34. Meaning of “offer of transferable securities to the public” etc.[^c-99ed0b66e9e6c0013ba64081dfa1b889]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-99ed0b66e9e6c0013ba64081dfa1b889]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-99ed0b66e9e6c0013ba64081dfa1b889]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23674891]: Marginal citation: Article 2(1)(13) is substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 

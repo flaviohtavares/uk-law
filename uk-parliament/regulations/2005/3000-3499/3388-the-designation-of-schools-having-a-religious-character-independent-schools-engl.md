@@ -37,19 +37,19 @@ Made
 
 In exercise of the powers conferred on the Secretary of State by section 69(3) of the School Standards and Framework Act 1998[^f00001], as applied to independent schools by section 124B[^f00002] of that Act and having followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003], the Secretary of State for Education and Skills makes the following Order:
 
-## 1. Citation[^key-12aaf83deb7a7da5c61124cacce899b0]
+## 1. Citation[^c-12aaf83deb7a7da5c61124cacce899b0]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2005.
 
-## 2. Interpretation[^key-41c8875194a44b6dd7d967f60bdecd6e]
+## 2. Interpretation[^c-41c8875194a44b6dd7d967f60bdecd6e]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted (or, as the case may be, each such religion or religious denomination).
 
-## 3. Designation of Schools[^key-fd467fb660d125d8f833be784cd30762]
+## 3. Designation of Schools[^c-fd467fb660d125d8f833be784cd30762]
 
 The schools listed in column (1) of the Schedule are designated as schools having a religious character.
 
-**4.**[^key-6074db788492c595acca88e63fdaf2f1] The relevant religion or religious denomination in relation to a school listed in column (1) of the Schedule is stated in relation to that school in column (2).
+**4.**[^c-6074db788492c595acca88e63fdaf2f1] The relevant religion or religious denomination in relation to a school listed in column (1) of the Schedule is stated in relation to that school in column (2).
 
 P S A Jones
 
@@ -59,7 +59,7 @@ Department for Education and Skills
 
 8th December 2005
 
-## SCHEDULE[^key-354abeac81f959066554169a9f1719b5]
+## SCHEDULE[^c-354abeac81f959066554169a9f1719b5]
 
 Articles 3 and 4
 
@@ -108,12 +108,12 @@ A statement in the Order in relation to a school that the religious denomination
 
 [^f00003]: Footnote: S.I. [2003/2314](https://www.legislation.gov.uk/uksi/2003/2314).
 
-[^key-12aaf83deb7a7da5c61124cacce899b0]: Commencement: Art. 1 in force at made date
+[^c-12aaf83deb7a7da5c61124cacce899b0]: Commencement: Art. 1 in force at made date
 
-[^key-41c8875194a44b6dd7d967f60bdecd6e]: Commencement: Art. 2 in force at made date
+[^c-41c8875194a44b6dd7d967f60bdecd6e]: Commencement: Art. 2 in force at made date
 
-[^key-fd467fb660d125d8f833be784cd30762]: Commencement: Art. 3 in force at made date
+[^c-fd467fb660d125d8f833be784cd30762]: Commencement: Art. 3 in force at made date
 
-[^key-6074db788492c595acca88e63fdaf2f1]: Commencement: Art. 4 in force at made date
+[^c-6074db788492c595acca88e63fdaf2f1]: Commencement: Art. 4 in force at made date
 
-[^key-354abeac81f959066554169a9f1719b5]: Commencement: Sch. in force at made date
+[^c-354abeac81f959066554169a9f1719b5]: Commencement: Sch. in force at made date

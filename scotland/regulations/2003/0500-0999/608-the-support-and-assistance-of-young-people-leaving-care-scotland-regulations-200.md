@@ -45,19 +45,19 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 73(2)(a), (c) and (d) and (3) of the Regulation of Care (Scotland) Act 2001[^f00001] and section 17(1) of the Children (Scotland) Act 1995[^f00002] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-1217ec9692de74412800100e50bc95cd]
+## 1. Citation and commencement[^c-1217ec9692de74412800100e50bc95cd]
 
 These Regulations may be cited as the Support and Assistance of Young People Leaving Care (Scotland) Regulations 2003 and shall come into force on 1st April 2004.
 
-## 2. Interpretation[^key-3e7d7a1200bc8f47a73903979435ee22]
+## 2. Interpretation[^c-3e7d7a1200bc8f47a73903979435ee22]
 
 (1) In these Regulations, unless the context otherwise requires–
 
 - “the 1995 Act” means the Children (Scotland) Act 1995;
-- “appellant” means any person who has made representations under regulation 16 relating to the matters referred to therein concerning section 29(1) , (5A) or (5B)[^key-cafde84f4f0d9f288894624f5027bf16] of the 1995 Act;
-- “compulsorily supported person” means a young person to whom a local authority is obliged to provide advice, guidance and assistance in terms of section 29(1) of the 1995 Act or, after a pathway assessment, in terms of section 29(5A)(a) of the[^key-447cdf9adac3d1706291f784ccd912f3] 1995 Act;
+- “appellant” means any person who has made representations under regulation 16 relating to the matters referred to therein concerning section 29(1) , (5A) or (5B)[^c-cafde84f4f0d9f288894624f5027bf16] of the 1995 Act;
+- “compulsorily supported person” means a young person to whom a local authority is obliged to provide advice, guidance and assistance in terms of section 29(1) of the 1995 Act or, after a pathway assessment, in terms of section 29(5A)(a) of the[^c-447cdf9adac3d1706291f784ccd912f3] 1995 Act;
 - “currently looked after person” means a person who is over school age, but is less than eighteen years of age and who is being looked after by a local authority;
-- “discretionarily supported person” means a young person to whom , after a pathway assessment,[^key-43caa94902b81498ee807bb3482ea80c] a local authority has agreed to provide advice, guidance and assistance in terms of section 29(5A)(b)[^key-e91caa49b60b1ff118b390f8a27f61c3] of the 1995 Act or a young person to whom a local authority has agreed to continue to provide advice, guidance and assistance after the person reaches the age of twenty-six in terms of section 29(5B) of the[^key-cd644680fa3c7119eef014b5809a156c] 1995 Act;
+- “discretionarily supported person” means a young person to whom , after a pathway assessment,[^c-43caa94902b81498ee807bb3482ea80c] a local authority has agreed to provide advice, guidance and assistance in terms of section 29(5A)(b)[^c-e91caa49b60b1ff118b390f8a27f61c3] of the 1995 Act or a young person to whom a local authority has agreed to continue to provide advice, guidance and assistance after the person reaches the age of twenty-six in terms of section 29(5B) of the[^c-cd644680fa3c7119eef014b5809a156c] 1995 Act;
 - “further education” has the meaning given to it in sections 1 and 6 of the Further and Higher Education (Scotland) Act 1992[^f00003];
 - “higher education” has the meaning given to it in section 38 of the Further and Higher Education (Scotland) Act 1992;
 - “independent person” means a person appointed by the local authority under regulation 19 to assist in considering an appeal under these Regulations, which person shall not be a member of the political party forming the ruling group on the local authority or an officer of any local authority, and who has not been such a member or officer during the period of one year prior to being appointed to assist in considering an appeal under these Regulations;
@@ -67,7 +67,7 @@ These Regulations may be cited as the Support and Assistance of Young People Lea
 - “parental responsibilities” has the meaning given to it in section 1 of the 1995 Act;
 - “pathway assessment” means an assessment of need carried out under section 29(5) of the 1995 Act;
 - “pathway co ordinator” means a person appointed by the responsible authority in terms of regulations 4 or 6;
-- “pathway plan” means a written plan setting out details of the advice, guidance and assistance that a local authority intends to provide pursuant to its duties under section 29(1) , (5A) or (5B)[^key-b31ab75ab433519b3ee5568ee17b0a3a] of the 1995 Act;
+- “pathway plan” means a written plan setting out details of the advice, guidance and assistance that a local authority intends to provide pursuant to its duties under section 29(1) , (5A) or (5B)[^c-b31ab75ab433519b3ee5568ee17b0a3a] of the 1995 Act;
 - “pathway views” means the views of the young person given under regulation 3;
 - “prospective supported person” means a young person who has made an application to a local authority for assistance in terms of section 29(2) of the 1995 Act which has yet to be determined;
 - “responsible authority” means–
@@ -77,7 +77,7 @@ These Regulations may be cited as the Support and Assistance of Young People Lea
 
 (2) Any reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000[^f00004], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Involvement of the young person[^key-56f0b019873d58c0a0979988bc0ac44b]
+## 3. Involvement of the young person[^c-56f0b019873d58c0a0979988bc0ac44b]
 
 (1) When carrying out a pathway assessment, the responsible authority shall, unless it is not reasonably practicable to do so–
 
@@ -98,7 +98,7 @@ These Regulations may be cited as the Support and Assistance of Young People Lea
 
 and shall ensure that the contents of each document are explained to the young person.
 
-## 4. Pathway co-ordinator[^key-64c922e67236132c35a856d33fa176be]
+## 4. Pathway co-ordinator[^c-64c922e67236132c35a856d33fa176be]
 
 (1) A local authority shall appoint for each compulsorily supported person and each discretionarily supported person in respect of whom it is the responsible authority, a pathway co ordinator.
 
@@ -119,7 +119,7 @@ and shall ensure that the contents of each document are explained to the young p
 - (g) keep themselves informed about the progress and well being of that person; and
 - (h) maintain a written record of their discussions with that person.
 
-## 5. Young person’s supporter[^key-a89eb18c7d62ee4663ed2e0ead311831]
+## 5. Young person’s supporter[^c-a89eb18c7d62ee4663ed2e0ead311831]
 
 (1) A young person to whom these Regulations apply may ask the responsible authority to appoint a person to support them (“young person’s supporter”) in relation to some or all of the functions specified in paragraph (4).
 
@@ -136,7 +136,7 @@ and shall ensure that the contents of each document are explained to the young p
 
 (5) The young person’s supporter shall keep themselves informed about the progress and well being of the young person.
 
-## 6. Preparation for when no longer looked after by a local authority[^key-123d18f170b45af883411dbc086363b9]
+## 6. Preparation for when no longer looked after by a local authority[^c-123d18f170b45af883411dbc086363b9]
 
 In carrying out its duties under section 17(1)(a) of the 1995 Act to prepare a currently looked after person for when that person is no longer looked after, a local authority shall, in relation to each currently looked after person in respect of whom it is the responsible authority–
 
@@ -145,9 +145,9 @@ In carrying out its duties under section 17(1)(a) of the 1995 Act to prepare a c
 - (c) if the responsible authority considers it necessary or desirable to do so, prepare a pathway plan for that person; and
 - (d) if the responsible authority considers it necessary or desirable to do so, appoint a pathway co ordinator for that person.
 
-## 7. Pathway assessment – general[^key-c56e3be194f1626700ca51739374aed8]
+## 7. Pathway assessment – general[^c-c56e3be194f1626700ca51739374aed8]
 
-(1) The responsible authority shall prepare and publish a written statement detailing the manner in which the needs of currently looked after persons, compulsorily supported persons under section 29(1) of the[^key-d67b9146a2fa93897db505757e006bca] 1995 Act and prospective supported persons are to be assessed.
+(1) The responsible authority shall prepare and publish a written statement detailing the manner in which the needs of currently looked after persons, compulsorily supported persons under section 29(1) of the[^c-d67b9146a2fa93897db505757e006bca] 1995 Act and prospective supported persons are to be assessed.
 
 (2) In relation to each young person whose needs are to be assessed, the responsible authority shall conclude a written agreement with the young person (“the initial agreement”) setting out details of–
 
@@ -159,9 +159,9 @@ In carrying out its duties under section 17(1)(a) of the 1995 Act to prepare a c
 
 (4) Nothing in these Regulations shall prevent the carrying out of any assessment or review under these Regulations at the same time as there is being carried out any assessment or review or other consideration under any other enactment.
 
-## 8. Pathway assessment – individual Cases[^key-5c675e948c04f16c87c85145e013de6a]
+## 8. Pathway assessment – individual Cases[^c-5c675e948c04f16c87c85145e013de6a]
 
-(1) When carrying out its duties under section 29(5) of the 1995 Act, the responsible authority shall assess, in accordance with these Regulations, the needs of each compulsorily supported person under section 29(1) of the[^key-d0c7ad0ac66bd9e1d7dbfe547f798e6e] 1995 Act and each prospective supported person who does not already have a pathway plan.
+(1) When carrying out its duties under section 29(5) of the 1995 Act, the responsible authority shall assess, in accordance with these Regulations, the needs of each compulsorily supported person under section 29(1) of the[^c-d0c7ad0ac66bd9e1d7dbfe547f798e6e] 1995 Act and each prospective supported person who does not already have a pathway plan.
 
 (2) Unless it is not reasonably practicable to do so, the responsible authority shall not complete a pathway assessment without the pathway views of the young person having been obtained and the written record of the pathway views being available.
 
@@ -188,14 +188,14 @@ In carrying out its duties under section 17(1)(a) of the 1995 Act to prepare a c
 
 and the responsible authority shall take into account any such views that have been obtained.
 
-## 9. Pathway assessments – timescales[^key-a93fa9700eb9df48b92f32dd0b2e44e7]
+## 9. Pathway assessments – timescales[^c-a93fa9700eb9df48b92f32dd0b2e44e7]
 
 The pathway assessment shall be completed–
 
-- (a) in the case of a compulsorily supported person under section 29(1) of the[^key-39f74ace42840602df16030a028ce4f3] 1995 Act, not more than three months after the date on which that person becomes a compulsorily supported person; and
+- (a) in the case of a compulsorily supported person under section 29(1) of the[^c-39f74ace42840602df16030a028ce4f3] 1995 Act, not more than three months after the date on which that person becomes a compulsorily supported person; and
 - (b) in the case of a prospective supported person, not more than three months after the date on which that person makes an application for advice, guidance and assistance under section 29(2) of the 1995 Act.
 
-## 10. Pathway plans[^key-5d0fbd7545b8754eef673061698e7d29]
+## 10. Pathway plans[^c-5d0fbd7545b8754eef673061698e7d29]
 
 (1) In completing a pathway plan the responsible authority shall take account of the pathway assessment.
 
@@ -218,25 +218,25 @@ The pathway assessment shall be completed–
 
 (7) The responsible authority shall distribute copies of the pathway plan to any person or body which it considers may have an interest in it, subject however to the young person’s written consent to do so first having been obtained.
 
-## 11. Pathway plans – timescales[^key-b76c76cf5c8ad8de76d8c41e60bc9cc1]
+## 11. Pathway plans – timescales[^c-b76c76cf5c8ad8de76d8c41e60bc9cc1]
 
-(1) Within 21 days after completion of a pathway assessment for a compulsorily supported person under section 29(1) of the[^key-f9dac7337693e64f85a75b8f154cb5e4] 1995 Act, the responsible authority shall prepare a pathway plan for that person.
+(1) Within 21 days after completion of a pathway assessment for a compulsorily supported person under section 29(1) of the[^c-f9dac7337693e64f85a75b8f154cb5e4] 1995 Act, the responsible authority shall prepare a pathway plan for that person.
 
-(2) Within 14 days after completion of a pathway assessment for a prospective supported person, the responsible authority [^key-e246e61daccebd16dd5387d38503f170]..., after taking the pathway assessment into account—
+(2) Within 14 days after completion of a pathway assessment for a prospective supported person, the responsible authority [^c-e246e61daccebd16dd5387d38503f170]..., after taking the pathway assessment into account—
 
-- (a)[^key-aacc07e75ffbf7b2e777109f27162051] must, if satisfied that the person has any eligible needs which cannot be met other than by taking action under section 29(5A)(a) of the 1995 Act, decide that it will provide the person with such advice, guidance and assistance as it considers necessary for the purposes of meeting those needs; or
+- (a)[^c-aacc07e75ffbf7b2e777109f27162051] must, if satisfied that the person has any eligible needs which cannot be met other than by taking action under section 29(5A)(a) of the 1995 Act, decide that it will provide the person with such advice, guidance and assistance as it considers necessary for the purposes of meeting those needs; or
 - (b) may otherwise, under section 29(5A)(b) of the 1995 Act, decide to provide such advice, guidance and assistance as it considers appropriate having regard to the person’s welfare.
 
 (3) The responsible authority shall notify the decision under paragraph (2), in writing, to the prospective supported person within 7 days of the decision being reached.
 
-(4) Within 21 days after the decision under paragraph (2)[^key-64bc5aff72f8f8fb7440f172533ec475], the responsible authority shall prepare a pathway plan for—
+(4) Within 21 days after the decision under paragraph (2)[^c-64bc5aff72f8f8fb7440f172533ec475], the responsible authority shall prepare a pathway plan for—
 
-- (a)[^key-4e252076c90a1d6af3d243e58bccfcdf] the compulsorily supported person under section 29(5A)(a) of the 1995 Act; or
+- (a)[^c-4e252076c90a1d6af3d243e58bccfcdf] the compulsorily supported person under section 29(5A)(a) of the 1995 Act; or
 - (b) the discretionarily supported person under section 29(5A)(b) of the 1995 Act.
 
-(5)[^key-b124886ed2ffb8ae9879267391c534c7] If a responsible authority decides under section 29(5B) of the 1995 Act to continue to provide advice, guidance and assistance to a young person after the person reaches the age of twenty-six, the responsible authority shall, within 21 days of that decision, prepare a pathway plan for that discretionarily supported person.
+(5)[^c-b124886ed2ffb8ae9879267391c534c7] If a responsible authority decides under section 29(5B) of the 1995 Act to continue to provide advice, guidance and assistance to a young person after the person reaches the age of twenty-six, the responsible authority shall, within 21 days of that decision, prepare a pathway plan for that discretionarily supported person.
 
-## 12. Review of pathway plans[^key-94f0d7429db6468b2351557261bfbc5e]
+## 12. Review of pathway plans[^c-94f0d7429db6468b2351557261bfbc5e]
 
 (1) The responsible authority shall review the pathway plan relating to each compulsorily supported person and each discretionarily supported person, in accordance with this regulation.
 
@@ -260,7 +260,7 @@ The pathway assessment shall be completed–
 
 (7) The responsible authority shall distribute copies of the written record of the results of the review of the pathway plan to any person or body which it considers may have an interest in it, subject however to the young person’s written consent to do so first having been obtained.
 
-## 13. Manner in which financial assistance is provided[^key-003e3c810fb65c9a62ee6476ffb2d361]
+## 13. Manner in which financial assistance is provided[^c-003e3c810fb65c9a62ee6476ffb2d361]
 
 (1) Save in exceptional circumstances and subject to paragraphs (2) and (5), the responsible authority shall only provide regular financial support to a compulsorily supported person less than eighteen years of age who has been looked after and accommodated for a period of or periods totalling 13 weeks or more since the age of 14.
 
@@ -277,11 +277,11 @@ The pathway assessment shall be completed–
 
 (6) In this regulation–
 
-- (a) “social security benefits” means income support, income based job seeker’s allowance , universal credit[^key-8eb77c9e69e4ae4f2239b41b93cc2152] and housing benefit as such benefits may be varied, amended or replaced from time to time;
+- (a) “social security benefits” means income support, income based job seeker’s allowance , universal credit[^c-8eb77c9e69e4ae4f2239b41b93cc2152] and housing benefit as such benefits may be varied, amended or replaced from time to time;
 - (b) “family” includes any person who has parental responsibilities for the young person and any person with whom the young person was living prior to being looked after by a local authority, but does not include a local authority; and
-- (c) “accommodated” means provided with accommodation by a local authority pursuant to its duties under section 25 of the 1995 Act or in compliance with a direction made in a supervision requirement under section 70(3) of that Act or by giving effect to a compulsory supervision order or interim compulsory supervision order and a requirement within that order of the type mentioned in section 83(2)(a) or 86(2) of the Children’s Hearings (Scotland) Act 2011 (“residence requirement”)[^key-c287593b9e84af2b64f904789e46e769], but it does not include circumstances where the young person has been placed with that young person’s family either under arrangements made under section 26(1)(c) of the 1995 Act or in compliance with a direction made in a supervision requirement under that Act or by giving effect to a residence requirement within a compulsory supervision order or interim compulsory supervision order[^key-a46298b4f882b2b6d0cdb7750090633c].
+- (c) “accommodated” means provided with accommodation by a local authority pursuant to its duties under section 25 of the 1995 Act or in compliance with a direction made in a supervision requirement under section 70(3) of that Act or by giving effect to a compulsory supervision order or interim compulsory supervision order and a requirement within that order of the type mentioned in section 83(2)(a) or 86(2) of the Children’s Hearings (Scotland) Act 2011 (“residence requirement”)[^c-c287593b9e84af2b64f904789e46e769], but it does not include circumstances where the young person has been placed with that young person’s family either under arrangements made under section 26(1)(c) of the 1995 Act or in compliance with a direction made in a supervision requirement under that Act or by giving effect to a residence requirement within a compulsory supervision order or interim compulsory supervision order[^c-a46298b4f882b2b6d0cdb7750090633c].
 
-## 14. Assistance by way of accommodation[^key-f2047e31d012607cb25c78c6a17bbaa9]
+## 14. Assistance by way of accommodation[^c-f2047e31d012607cb25c78c6a17bbaa9]
 
 (1) The responsible authority shall, if necessary, assist a compulsorily supported person or a discretionarily supported person by providing that person with, or supporting that person in, suitable accommodation.
 
@@ -298,7 +298,7 @@ The pathway assessment shall be completed–
 - (a) providing that person with suitable accommodation during that vacation; or
 - (b) paying that person such amount as it considers sufficient to enable them to secure such accommodation themselves.
 
-## 15. Retention and confidentiality of records[^key-79af545685b3f215d8ebf798cccb1924]
+## 15. Retention and confidentiality of records[^c-79af545685b3f215d8ebf798cccb1924]
 
 (1) All records relating to pathway assessments, pathway plans and reviews of pathway plans shall be retained by the responsible authority until the 75th anniversary of the date of birth of the young person to whom it relates, or for a period of 25 years beginning with the date of death of the young person, whichever is the later.
 
@@ -310,11 +310,11 @@ The pathway assessment shall be completed–
 - (b) court order authorising access to such records; or
 - (c) other provision contained within these Regulations.
 
-## 16. Appeals – general[^key-078cdfaef657b9ac0f74ff28fc6449db]
+## 16. Appeals – general[^c-078cdfaef657b9ac0f74ff28fc6449db]
 
 (1) Any representation, the substance of which is an appeal by any person mentioned in section 29(1) or (2) of the 1995 Act against a local authority decision—
 
-- (a)[^key-5107235e0afece5a9002e3e97615f43e] not to provide advice, guidance and assistance under section 29(5A) of the 1995 Act;
+- (a)[^c-5107235e0afece5a9002e3e97615f43e] not to provide advice, guidance and assistance under section 29(5A) of the 1995 Act;
 - (b) not to continue to provide advice, guidance and assistance under section 29(5B) of the 1995 Act; or
 - (c) in relation to the level or nature of advice, guidance or assistance to be provided under section 29(1), (5A) or (5B) of the 1995 Act,
 
@@ -326,7 +326,7 @@ shall be dealt with as an appeal in accordance with paragraphs (3) and (4) of th
 
 (4) Each local authority shall send to the appellant an explanation of the procedure set out in these Regulations for appeals under paragraph (1).
 
-## 17. Appeals – procedural matters[^key-54cf99cc740a951aa11270452e15bc24]
+## 17. Appeals – procedural matters[^c-54cf99cc740a951aa11270452e15bc24]
 
 (1) An appeal under these Regulations may be made, either orally or in writing, to the responsible authority.
 
@@ -340,7 +340,7 @@ shall be dealt with as an appeal in accordance with paragraphs (3) and (4) of th
 
 (6) An appeal under these Regulations may be withdrawn by the appellant at any stage, upon giving written notice to that effect to the responsible authority.
 
-## 18. Informal resolution of appeals[^key-90841ba7306e6794e69b7c8c00687922]
+## 18. Informal resolution of appeals[^c-90841ba7306e6794e69b7c8c00687922]
 
 (1) Where a local authority receives an appeal under these Regulations, it shall–
 
@@ -350,7 +350,7 @@ shall be dealt with as an appeal in accordance with paragraphs (3) and (4) of th
 
 (2) The aforementioned 5 day period may be extended by mutual agreement between the parties to that effect.
 
-## 19. Formal resolution of appeals[^key-962259dc3e00f2903d08b22f5e9ab9f2]
+## 19. Formal resolution of appeals[^c-962259dc3e00f2903d08b22f5e9ab9f2]
 
 (1) Where an appeal under these Regulations has not been resolved in terms of the procedure set out in regulation 18, the local authority shall appoint an independent person to assist in considering the appeal.
 
@@ -371,7 +371,7 @@ shall be dealt with as an appeal in accordance with paragraphs (3) and (4) of th
 
 (8) The procedure under this regulation shall be completed within 10 working days of notification being made to the nominated officer in terms of regulation 18(c).
 
-## 20. Notification of decision and right of further appeal[^key-a62cd669ed1ab667d6476719498548c6]
+## 20. Notification of decision and right of further appeal[^c-a62cd669ed1ab667d6476719498548c6]
 
 (1) The local authority shall give written notice, within 2 working days of the procedure under regulation 19 being completed, to–
 
@@ -400,35 +400,35 @@ St Andrew’s House, Edinburgh
 
 regulation 3(2)
 
-### 1. Matters to be included in the pathway views[^key-0f11d98f31451d4ee57a3c667a105bfc]
+### 1. Matters to be included in the pathway views[^c-0f11d98f31451d4ee57a3c667a105bfc]
 
 The young person’s hopes for the future.
 
-### 2.[^key-c2957818a531ab5c38afc97e34f81f60]
+### 2.[^c-c2957818a531ab5c38afc97e34f81f60]
 
 The young person’s emotional state, day to day activities, personal safety, influences on the young person and the young person’s personal identity.
 
-### 3.[^key-f36ab3b31d3b888fac2f510821e8bed2]
+### 3.[^c-f36ab3b31d3b888fac2f510821e8bed2]
 
 The young person’s family relationships, their children, other caring responsibilities, life story, friends, and other significant people in their life.
 
-### 4.[^key-227713d6f2f70f1a6815c2530ac06525]
+### 4.[^c-227713d6f2f70f1a6815c2530ac06525]
 
 The young person’s general health (including any mental health needs), contact with health services, medical conditions and disabilities, activities that might affect the young person’s health, and emotional and mental well being.
 
-### 5.[^key-da0a6bd9b61c981db07815ea7dcaa8ce]
+### 5.[^c-da0a6bd9b61c981db07815ea7dcaa8ce]
 
 The young person’s future plans for study, training or work, schooling (including support needs), skills and experience, qualifications and certificates, and training and work.
 
-### 6.[^key-cdff50d3fc30b5ed00cd84d02b50ab06]
+### 6.[^c-cdff50d3fc30b5ed00cd84d02b50ab06]
 
 The young person’s accommodation arrangements, practical living skills, accommodation options for the future, and support required for living.
 
-### 7.[^key-67edc2e4df7d892ec2364fdef046159c]
+### 7.[^c-67edc2e4df7d892ec2364fdef046159c]
 
 The young person’s sources of income, outgoings, savings and debts, requirement for financial support, and budgeting skills.
 
-### 8.[^key-1afff1aa1700a098392a1fa99f21efcb]
+### 8.[^c-1afff1aa1700a098392a1fa99f21efcb]
 
 The young person’s knowledge of their rights and legal entitlements, involvement in legal proceedings, including criminal proceedings as a victim, witness, or alleged perpetrator.
 
@@ -436,31 +436,31 @@ The young person’s knowledge of their rights and legal entitlements, involveme
 
 regulation 8(4)
 
-### 1. Matters to be included in the pathway assessment, pathway plan and review of the pathway plan[^key-c76c7b72026467205c4f4687446cdd8b]
+### 1. Matters to be included in the pathway assessment, pathway plan and review of the pathway plan[^c-c76c7b72026467205c4f4687446cdd8b]
 
 The young person’s emotional state, day to day activities, personal safety, influences on the young person and the young person’s personal identity.
 
-### 2.[^key-32400b165e5e0502a878c07bf2eb12e4]
+### 2.[^c-32400b165e5e0502a878c07bf2eb12e4]
 
 The young person’s family relationships, their children, other caring responsibilities, life story, friends, and other significant people in their life.
 
-### 3.[^key-2027547bfa4cc115670dc55475892e81]
+### 3.[^c-2027547bfa4cc115670dc55475892e81]
 
 The young person’s general health (including any mental health needs), contact with health services, medical conditions and disabilities, activities that might affect the young person’s health, and emotional and mental well being.
 
-### 4.[^key-4413d11bffc0d481abd28760256f1eb8]
+### 4.[^c-4413d11bffc0d481abd28760256f1eb8]
 
 The young person’s future plans for study, training or work, schooling (including support needs), skills and experience, qualifications and certificates, and training and work.
 
-### 5.[^key-0596a57df0261e72657f365542550fa6]
+### 5.[^c-0596a57df0261e72657f365542550fa6]
 
 The young person’s accommodation arrangements, practical living skills, accommodation options for the future, and support required for living.
 
-### 6.[^key-b312034c91d38c07a01f8aae5b914d9c]
+### 6.[^c-b312034c91d38c07a01f8aae5b914d9c]
 
 The young person’s sources of income, outgoings, savings and debts, requirement for financial support, and budgeting skills.
 
-### 7.[^key-3329d58da59fb3c64aa1e84033f2b579]
+### 7.[^c-3329d58da59fb3c64aa1e84033f2b579]
 
 The young person’s knowledge of their rights and legal entitlements, involvements in legal proceedings, including criminal proceedings as a victim, witness, or alleged perpetrator.
 
@@ -514,118 +514,118 @@ Regulation 20 provides that written notice of the appeal decision requires to be
 
 [^f00002]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Section 103(2) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-1217ec9692de74412800100e50bc95cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-1217ec9692de74412800100e50bc95cd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-3e7d7a1200bc8f47a73903979435ee22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2003/608/regulation/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-3e7d7a1200bc8f47a73903979435ee22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2003/608/regulation/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-cafde84f4f0d9f288894624f5027bf16]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/a)
+[^c-cafde84f4f0d9f288894624f5027bf16]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/a)
 
-[^key-447cdf9adac3d1706291f784ccd912f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/b)
+[^c-447cdf9adac3d1706291f784ccd912f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/b)
 
-[^key-43caa94902b81498ee807bb3482ea80c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/i)
+[^c-43caa94902b81498ee807bb3482ea80c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/i)
 
-[^key-e91caa49b60b1ff118b390f8a27f61c3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/ii)
+[^c-e91caa49b60b1ff118b390f8a27f61c3]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/ii)
 
-[^key-cd644680fa3c7119eef014b5809a156c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/iii)
+[^c-cd644680fa3c7119eef014b5809a156c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(c)(iii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/c/iii)
 
 [^f00003]: Footnote: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
 
-[^key-b31ab75ab433519b3ee5568ee17b0a3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/d)
+[^c-b31ab75ab433519b3ee5568ee17b0a3a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/2/1) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/2/d)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 contains a definition of “electronic communications”.
 
-[^key-56f0b019873d58c0a0979988bc0ac44b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2003/608/regulation/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-56f0b019873d58c0a0979988bc0ac44b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2003/608/regulation/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-64c922e67236132c35a856d33fa176be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2003/608/regulation/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-64c922e67236132c35a856d33fa176be]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2003/608/regulation/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-a89eb18c7d62ee4663ed2e0ead311831]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2003/608/regulation/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-a89eb18c7d62ee4663ed2e0ead311831]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2003/608/regulation/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-123d18f170b45af883411dbc086363b9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2003/608/regulation/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-123d18f170b45af883411dbc086363b9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2003/608/regulation/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-c56e3be194f1626700ca51739374aed8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2003/608/regulation/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-c56e3be194f1626700ca51739374aed8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2003/608/regulation/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-d67b9146a2fa93897db505757e006bca]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/7/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/3)
+[^c-d67b9146a2fa93897db505757e006bca]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/7/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/3)
 
-[^key-5c675e948c04f16c87c85145e013de6a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2003/608/regulation/8) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-5c675e948c04f16c87c85145e013de6a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2003/608/regulation/8) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-d0c7ad0ac66bd9e1d7dbfe547f798e6e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/8/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/4)
+[^c-d0c7ad0ac66bd9e1d7dbfe547f798e6e]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2003/608/regulation/8/1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/4)
 
-[^key-a93fa9700eb9df48b92f32dd0b2e44e7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2003/608/regulation/9) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-a93fa9700eb9df48b92f32dd0b2e44e7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2003/608/regulation/9) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-39f74ace42840602df16030a028ce4f3]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/ssi/2003/608/regulation/9/a) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/5)
+[^c-39f74ace42840602df16030a028ce4f3]: Textual amendment: Words in [reg. 9(a)](https://www.legislation.gov.uk/ssi/2003/608/regulation/9/a) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/5)
 
-[^key-5d0fbd7545b8754eef673061698e7d29]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2003/608/regulation/10) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-5d0fbd7545b8754eef673061698e7d29]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2003/608/regulation/10) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-b76c76cf5c8ad8de76d8c41e60bc9cc1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2003/608/regulation/11) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-b76c76cf5c8ad8de76d8c41e60bc9cc1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2003/608/regulation/11) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-f9dac7337693e64f85a75b8f154cb5e4]: Textual amendment: Words in reg. 11(1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/a)
+[^c-f9dac7337693e64f85a75b8f154cb5e4]: Textual amendment: Words in reg. 11(1) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/a)
 
-[^key-e246e61daccebd16dd5387d38503f170]: Textual amendment: Word in reg. 11(2) omitted (1.4.2015) by virtue of [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/b/i)
+[^c-e246e61daccebd16dd5387d38503f170]: Textual amendment: Word in reg. 11(2) omitted (1.4.2015) by virtue of [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(b)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/b/i)
 
-[^key-aacc07e75ffbf7b2e777109f27162051]: Textual amendment: Reg. 11(2)(a)(b) substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/b/ii)
+[^c-aacc07e75ffbf7b2e777109f27162051]: Textual amendment: Reg. 11(2)(a)(b) substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/b/ii)
 
-[^key-64bc5aff72f8f8fb7440f172533ec475]: Textual amendment: Words in reg. 11(4) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/c/i)
+[^c-64bc5aff72f8f8fb7440f172533ec475]: Textual amendment: Words in reg. 11(4) substituted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(c)(i)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/c/i)
 
-[^key-4e252076c90a1d6af3d243e58bccfcdf]: Textual amendment: Reg. 11(4)(a)(b) substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/c/ii)
+[^c-4e252076c90a1d6af3d243e58bccfcdf]: Textual amendment: Reg. 11(4)(a)(b) substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(c)(ii)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/c/ii)
 
-[^key-b124886ed2ffb8ae9879267391c534c7]: Textual amendment: Reg. 11(5) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/d)
+[^c-b124886ed2ffb8ae9879267391c534c7]: Textual amendment: Reg. 11(5) inserted (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(6)(d)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/6/d)
 
-[^key-94f0d7429db6468b2351557261bfbc5e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2003/608/regulation/12) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-94f0d7429db6468b2351557261bfbc5e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2003/608/regulation/12) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-003e3c810fb65c9a62ee6476ffb2d361]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2003/608/regulation/13) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-003e3c810fb65c9a62ee6476ffb2d361]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2003/608/regulation/13) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
 [^f00005]: Footnote: [2000 c. 35](https://www.legislation.gov.uk/ukpga/2000/35).
 
-[^key-8eb77c9e69e4ae4f2239b41b93cc2152]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/a) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [16](https://www.legislation.gov.uk/ssi/2013/137/regulation/16)
+[^c-8eb77c9e69e4ae4f2239b41b93cc2152]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/a) inserted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [16](https://www.legislation.gov.uk/ssi/2013/137/regulation/16)
 
-[^key-c287593b9e84af2b64f904789e46e769]: Textual amendment: Words in [reg. 13(6)(c)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/c) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 6(a)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/6/a); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-c287593b9e84af2b64f904789e46e769]: Textual amendment: Words in [reg. 13(6)(c)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/c) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 6(a)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/6/a); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-a46298b4f882b2b6d0cdb7750090633c]: Textual amendment: Words in [reg. 13(6)(c)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/c) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 6(b)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/6/b); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-a46298b4f882b2b6d0cdb7750090633c]: Textual amendment: Words in [reg. 13(6)(c)](https://www.legislation.gov.uk/ssi/2003/608/regulation/13/6/c) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2013 (S.S.I. 2013/147)](https://www.legislation.gov.uk/ssi/2013/147), [art. 1](https://www.legislation.gov.uk/ssi/2013/147/article/1), [sch. para. 6(b)](https://www.legislation.gov.uk/ssi/2013/147/schedule/paragraph/6/b); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-f2047e31d012607cb25c78c6a17bbaa9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2003/608/regulation/14) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-f2047e31d012607cb25c78c6a17bbaa9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2003/608/regulation/14) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-79af545685b3f215d8ebf798cccb1924]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2003/608/regulation/15) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-79af545685b3f215d8ebf798cccb1924]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2003/608/regulation/15) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-078cdfaef657b9ac0f74ff28fc6449db]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2003/608/regulation/16) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-078cdfaef657b9ac0f74ff28fc6449db]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2003/608/regulation/16) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-5107235e0afece5a9002e3e97615f43e]: Textual amendment: Reg. 16(1)(a)-(c) and words substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/7)
+[^c-5107235e0afece5a9002e3e97615f43e]: Textual amendment: Reg. 16(1)(a)-(c) and words substituted for words (1.4.2015) by [The Support and Assistance of Young People Leaving Care (Scotland) Amendment Regulations 2015 (S.S.I. 2015/62)](https://www.legislation.gov.uk/ssi/2015/62), [regs. 1](https://www.legislation.gov.uk/ssi/2015/62/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2015/62/regulation/2/7)
 
 [^f00006]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49); section 5B of the 1968 Act was inserted after section 5 of that Act by section 52 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-54cf99cc740a951aa11270452e15bc24]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2003/608/regulation/17) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-54cf99cc740a951aa11270452e15bc24]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2003/608/regulation/17) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-90841ba7306e6794e69b7c8c00687922]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2003/608/regulation/18) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-90841ba7306e6794e69b7c8c00687922]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2003/608/regulation/18) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-962259dc3e00f2903d08b22f5e9ab9f2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2003/608/regulation/19) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-962259dc3e00f2903d08b22f5e9ab9f2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2003/608/regulation/19) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-a62cd669ed1ab667d6476719498548c6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2003/608/regulation/20) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-a62cd669ed1ab667d6476719498548c6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2003/608/regulation/20) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-0f11d98f31451d4ee57a3c667a105bfc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-0f11d98f31451d4ee57a3c667a105bfc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-c2957818a531ab5c38afc97e34f81f60]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-c2957818a531ab5c38afc97e34f81f60]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-f36ab3b31d3b888fac2f510821e8bed2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-f36ab3b31d3b888fac2f510821e8bed2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-227713d6f2f70f1a6815c2530ac06525]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-227713d6f2f70f1a6815c2530ac06525]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-da0a6bd9b61c981db07815ea7dcaa8ce]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-da0a6bd9b61c981db07815ea7dcaa8ce]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-cdff50d3fc30b5ed00cd84d02b50ab06]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-cdff50d3fc30b5ed00cd84d02b50ab06]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-67edc2e4df7d892ec2364fdef046159c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-67edc2e4df7d892ec2364fdef046159c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-1afff1aa1700a098392a1fa99f21efcb]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/8) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-1afff1aa1700a098392a1fa99f21efcb]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ssi/2003/608/schedule/1/paragraph/8) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-c76c7b72026467205c4f4687446cdd8b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-c76c7b72026467205c4f4687446cdd8b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/1) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-32400b165e5e0502a878c07bf2eb12e4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-32400b165e5e0502a878c07bf2eb12e4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/2) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-2027547bfa4cc115670dc55475892e81]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-2027547bfa4cc115670dc55475892e81]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/3) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-4413d11bffc0d481abd28760256f1eb8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-4413d11bffc0d481abd28760256f1eb8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/4) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-0596a57df0261e72657f365542550fa6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-0596a57df0261e72657f365542550fa6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/5) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-b312034c91d38c07a01f8aae5b914d9c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-b312034c91d38c07a01f8aae5b914d9c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/6) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
 
-[^key-3329d58da59fb3c64aa1e84033f2b579]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)
+[^c-3329d58da59fb3c64aa1e84033f2b579]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2003/608/schedule/2/paragraph/7) in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2003/608/regulation/1)

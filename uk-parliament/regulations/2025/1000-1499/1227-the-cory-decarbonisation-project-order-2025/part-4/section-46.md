@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Certification of plans etc.[^key-c6e2e7834a1837dedb5881b537474475]
+## 46. Certification of plans etc.[^c-c6e2e7834a1837dedb5881b537474475]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e2e7834a1837dedb5881b537474475]: Commencement: Art. 46 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-c6e2e7834a1837dedb5881b537474475]: Commencement: Art. 46 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

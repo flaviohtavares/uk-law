@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police Federation (Amendment) Regulations 2016 (revoked)[^key-667b5338195331b52f28bf9882230d47]
+The Police Federation (Amendment) Regulations 2016 (revoked)[^c-667b5338195331b52f28bf9882230d47]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 9th December 2016
 
-[^key-667b5338195331b52f28bf9882230d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-667b5338195331b52f28bf9882230d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-667b5338195331b52f28bf9882230d47]
+## 1. Citation, commencement and extent[^c-667b5338195331b52f28bf9882230d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Branch boards: elections[^key-667b5338195331b52f28bf9882230d47]
+## 2. Branch boards: elections[^c-667b5338195331b52f28bf9882230d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Annual conference and elections to the central committees[^key-667b5338195331b52f28bf9882230d47]
+## 3. Annual conference and elections to the central committees[^c-667b5338195331b52f28bf9882230d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential provisions relating to the annual conference[^key-667b5338195331b52f28bf9882230d47]
+## 4. Consequential provisions relating to the annual conference[^c-667b5338195331b52f28bf9882230d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provisions relating to the annual conference[^key-667b5338195331b52f28bf9882230d47]
+## 5. Transitional provisions relating to the annual conference[^c-667b5338195331b52f28bf9882230d47]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667b5338195331b52f28bf9882230d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-667b5338195331b52f28bf9882230d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-667b5338195331b52f28bf9882230d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-667b5338195331b52f28bf9882230d47]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-667b5338195331b52f28bf9882230d47]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1090) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-667b5338195331b52f28bf9882230d47]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1090) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

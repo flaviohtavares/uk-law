@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Rates of air passenger duty[^key-eace85524aaafb2b516c113aed37b4b5]
+## 12. Rates of air passenger duty[^c-eace85524aaafb2b516c113aed37b4b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eace85524aaafb2b516c113aed37b4b5]: Textual amendment: S. 12 omitted (with effect in accordance with Sch. 5 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 5 para. 6(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/6/d)
+[^c-eace85524aaafb2b516c113aed37b4b5]: Textual amendment: S. 12 omitted (with effect in accordance with Sch. 5 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 5 para. 6(d)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/5/paragraph/6/d)

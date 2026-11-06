@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Gazetting and advertisement of meetings[^key-412ad59a14d48e97d825a8304d08c6ef]
+## 40. Gazetting and advertisement of meetings[^c-412ad59a14d48e97d825a8304d08c6ef]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ is to take place;
 
 ## Annotations
 
-[^key-412ad59a14d48e97d825a8304d08c6ef]: Commencement: [Rule 40](https://www.legislation.gov.uk/nisr/2026/11/rule/40) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-412ad59a14d48e97d825a8304d08c6ef]: Commencement: [Rule 40](https://www.legislation.gov.uk/nisr/2026/11/rule/40) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

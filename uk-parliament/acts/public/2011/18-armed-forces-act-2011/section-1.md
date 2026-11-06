@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duration of Armed Forces Act 2006[^key-ed400d8aeee3c9ddd74a0d2f5f721cfc]
+## 1. Duration of Armed Forces Act 2006[^c-ed400d8aeee3c9ddd74a0d2f5f721cfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed400d8aeee3c9ddd74a0d2f5f721cfc]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2011/18/section/1) omitted (12.5.2016) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/1/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/a)
+[^c-ed400d8aeee3c9ddd74a0d2f5f721cfc]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2011/18/section/1) omitted (12.5.2016) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2016/21/section/1/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/a)

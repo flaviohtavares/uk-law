@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Marketing of Excepted Seed Marketed in Bulk[^key-1fe474e96049b01cb7b9c54ff7346fe8]
+## 19. Marketing of Excepted Seed Marketed in Bulk[^c-1fe474e96049b01cb7b9c54ff7346fe8]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fe474e96049b01cb7b9c54ff7346fe8]: Commencement: Reg. 19 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-1fe474e96049b01cb7b9c54ff7346fe8]: Commencement: Reg. 19 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)

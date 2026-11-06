@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Visits[^key-7ef86254de3b9315c8e435bd49aa1e89]
+## 52. Visits[^c-7ef86254de3b9315c8e435bd49aa1e89]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ef86254de3b9315c8e435bd49aa1e89]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2019/163/regulation/52) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-7ef86254de3b9315c8e435bd49aa1e89]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2019/163/regulation/52) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

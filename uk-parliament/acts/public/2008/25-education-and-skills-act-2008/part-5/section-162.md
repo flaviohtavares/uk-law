@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Functions of Welsh Ministers etc[^key-f09b179490b167df467b317a4cf57a29]
+## 162. Functions of Welsh Ministers etc[^c-f09b179490b167df467b317a4cf57a29]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f09b179490b167df467b317a4cf57a29]: Textual amendment: [S. 162](https://www.legislation.gov.uk/ukpga/2008/25/section/162) omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/8); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-f09b179490b167df467b317a4cf57a29]: Textual amendment: [S. 162](https://www.legislation.gov.uk/ukpga/2008/25/section/162) omitted (21.9.2015) by virtue of [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/8); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

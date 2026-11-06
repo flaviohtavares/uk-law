@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Regulations under Part 6[^key-cf6f7df4efdc2fb11702c159ea70b83a]
+## 120. Regulations under Part 6[^c-cf6f7df4efdc2fb11702c159ea70b83a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf6f7df4efdc2fb11702c159ea70b83a]: Commencement: S. 120 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-cf6f7df4efdc2fb11702c159ea70b83a]: Commencement: S. 120 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

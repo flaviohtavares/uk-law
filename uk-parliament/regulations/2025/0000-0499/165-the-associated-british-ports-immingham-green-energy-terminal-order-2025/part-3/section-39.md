@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. No double recovery[^key-cc09a7a8ef455e26796246b2296b6dc0]
+## 39. No double recovery[^c-cc09a7a8ef455e26796246b2296b6dc0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Compensation is not payable in respect of the same matter both under this Order 
 
 ## Annotations
 
-[^key-cc09a7a8ef455e26796246b2296b6dc0]: Commencement: Art. 39 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-cc09a7a8ef455e26796246b2296b6dc0]: Commencement: Art. 39 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

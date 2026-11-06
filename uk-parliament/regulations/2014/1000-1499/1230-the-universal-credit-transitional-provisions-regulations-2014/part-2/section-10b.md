@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10B. Arrears of maternity allowance disregarded as capital[^key-7b9b69ff06d4fb0e473e6cd6f4721be2]
+## 10B. Arrears of maternity allowance disregarded as capital[^c-7b9b69ff06d4fb0e473e6cd6f4721be2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9b69ff06d4fb0e473e6cd6f4721be2]: Textual amendment: Reg. 10B inserted (31.10.2019) by [The Social Security (Capital Disregards) (Amendment) Regulations 2019 (S.I. 2019/1314)](https://www.legislation.gov.uk/uksi/2019/1314), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1314/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1314/regulation/9/3)
+[^c-7b9b69ff06d4fb0e473e6cd6f4721be2]: Textual amendment: Reg. 10B inserted (31.10.2019) by [The Social Security (Capital Disregards) (Amendment) Regulations 2019 (S.I. 2019/1314)](https://www.legislation.gov.uk/uksi/2019/1314), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1314/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1314/regulation/9/3)

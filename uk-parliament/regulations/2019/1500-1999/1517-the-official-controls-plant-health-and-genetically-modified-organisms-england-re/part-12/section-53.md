@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Transitional provisions: notices[^key-feca0081876056cdf8c3ae2edf52f93b]
+## 53. Transitional provisions: notices[^c-feca0081876056cdf8c3ae2edf52f93b]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-feca0081876056cdf8c3ae2edf52f93b]: Commencement: Reg. 53 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-feca0081876056cdf8c3ae2edf52f93b]: Commencement: Reg. 53 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956341]: Marginal citation: [S.I. 2006/2695](https://www.legislation.gov.uk/uksi/2006/2695), amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90), 2019/734.

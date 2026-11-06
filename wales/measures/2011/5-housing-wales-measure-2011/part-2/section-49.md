@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Extraordinary audit for purposes of inquiry[^key-a982460ad04d2d1a83e3662f8a16ddfc]
+## 49. Extraordinary audit for purposes of inquiry[^c-a982460ad04d2d1a83e3662f8a16ddfc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In paragraph 22 of Schedule 1 to the Housing Act 1996 (extraordinary audit for p
 
 ## Annotations
 
-[^key-a982460ad04d2d1a83e3662f8a16ddfc]: Commencement: [S. 49](https://www.legislation.gov.uk/mwa/2011/5/section/49) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)
+[^c-a982460ad04d2d1a83e3662f8a16ddfc]: Commencement: [S. 49](https://www.legislation.gov.uk/mwa/2011/5/section/49) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(g)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Civil liability for breach of health and safety duties[^c2181336][^key-1a9769847396eb9756d2661638a31e1b]
+## 69. Civil liability for breach of health and safety duties[^c2181336][^c-1a9769847396eb9756d2661638a31e1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c2181336]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2013/24/section/69) partly in force; [s. 69](https://www.legislation.gov.uk/ukpga/2013/24/section/69) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-1a9769847396eb9756d2661638a31e1b]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2013/24/section/69) in force at 1.10.2013 in so far as not already in force by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/f)
+[^c-1a9769847396eb9756d2661638a31e1b]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2013/24/section/69) in force at 1.10.2013 in so far as not already in force by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/f)

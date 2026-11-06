@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Power to extend employment legislation to offshore employment.[^key-b37f17a73e630451eec84fb0e404507c]
+## 201. Power to extend employment legislation to offshore employment.[^c-b37f17a73e630451eec84fb0e404507c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ apply, to such extent and for such purposes as may be specified in the Order (wi
 - (f) may provide that such proceedings shall not be brought without such consent as may be required by the Order in Council,
 - (g) may (without prejudice to subsection (2)) modify or exclude the operation of any or all of sections [^c16335581]. . . 199 and 215(2) to (6) or of any corresponding Northern Ireland legislation.
 
-(3A (Extent: E+W+S))[^key-6cb304b1f42797e0f3a759e4276d5515] Where an Order in Council under this section confers jurisdiction on an employment tribunal, the jurisdiction conferred includes power to make an order under section 12A of the Employment Tribunals Act 1996 (financial penalties), and that section applies accordingly. *(Extent: E+W+S)*
+(3A (Extent: E+W+S))[^c-6cb304b1f42797e0f3a759e4276d5515] Where an Order in Council under this section confers jurisdiction on an employment tribunal, the jurisdiction conferred includes power to make an order under section 12A of the Employment Tribunals Act 1996 (financial penalties), and that section applies accordingly. *(Extent: E+W+S)*
 
 (4) Any jurisdiction conferred on a court or tribunal under this section is without prejudice to jurisdiction exercisable apart from this section by that or any other court or tribunal.
 
@@ -60,7 +60,7 @@ apply, to such extent and for such purposes as may be specified in the Order (wi
 
 ## Annotations
 
-[^key-b37f17a73e630451eec84fb0e404507c]: Modification: S. 201 applied by 1993 c. 48, s. 165(7) (as substituted (E.W.S.) (6.2.2018) by [The Seafarers (Transnational Information and Consultation, Collective Redundancies and Insolvency Miscellaneous Amendments) Regulations 2018 (S.I. 2018/26)](https://www.legislation.gov.uk/uksi/2018/26), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/26/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/26/regulation/4/2) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2018/26/regulation/4/4)))
+[^c-b37f17a73e630451eec84fb0e404507c]: Modification: S. 201 applied by 1993 c. 48, s. 165(7) (as substituted (E.W.S.) (6.2.2018) by [The Seafarers (Transnational Information and Consultation, Collective Redundancies and Insolvency Miscellaneous Amendments) Regulations 2018 (S.I. 2018/26)](https://www.legislation.gov.uk/uksi/2018/26), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/26/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/26/regulation/4/2) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2018/26/regulation/4/4)))
 
 [^c16335561]: Textual amendment: Words in s. 201(3)(c) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/b) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
@@ -68,6 +68,6 @@ apply, to such extent and for such purposes as may be specified in the Order (wi
 
 [^c16335581]: Textual amendment: Word in s. 201(3)(g) repealed (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(9)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/9); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/I) (with [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/7/2))
 
-[^key-6cb304b1f42797e0f3a759e4276d5515]: Textual amendment: S. 201(3A) inserted (E.W.S.) (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/5) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
+[^c-6cb304b1f42797e0f3a759e4276d5515]: Textual amendment: S. 201(3A) inserted (E.W.S.) (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/5) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
 
 [^c16335591]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).

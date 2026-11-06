@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-ea8bcef4dc7a5198d986fd5c52f06889]
+## 12.[^c-ea8bcef4dc7a5198d986fd5c52f06889]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ In section 1223A (notification of matters relevant to other EEA States) [^c23586
 
 ## Annotations
 
-[^key-ea8bcef4dc7a5198d986fd5c52f06889]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-ea8bcef4dc7a5198d986fd5c52f06889]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586281]: Marginal citation: Section 1223A was inserted by regulation 7(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494).

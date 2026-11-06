@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^key-f53f9c5ef6f7a030771a503117f25f0b][^M_I_0424da9a-cf9d-4fb0-a524-31dc9f350b78]
+## 76. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^c-f53f9c5ef6f7a030771a503117f25f0b][^M_I_0424da9a-cf9d-4fb0-a524-31dc9f350b78]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,7 +107,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f53f9c5ef6f7a030771a503117f25f0b]: Commencement: Reg. 76 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-f53f9c5ef6f7a030771a503117f25f0b]: Commencement: Reg. 76 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_0424da9a-cf9d-4fb0-a524-31dc9f350b78]: Commencement: Reg. 76 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

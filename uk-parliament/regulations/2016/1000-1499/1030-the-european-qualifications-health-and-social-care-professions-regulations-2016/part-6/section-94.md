@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Amendment of section 41[^key-66b75bed4091cba36a46c02f2822957e]
+## 94. Amendment of section 41[^c-66b75bed4091cba36a46c02f2822957e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66b75bed4091cba36a46c02f2822957e]: Commencement: Reg. 94 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-66b75bed4091cba36a46c02f2822957e]: Commencement: Reg. 94 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00075]: Footnote: Section 41 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

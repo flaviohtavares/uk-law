@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Representation of club, association or organisation[^key-2c3d1d4415df596c5a4ca1242ba20106]
+## 8. Representation of club, association or organisation[^c-2c3d1d4415df596c5a4ca1242ba20106]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ provided that if it is done by any official, committee member or member referred
 
 ## Annotations
 
-[^key-2c3d1d4415df596c5a4ca1242ba20106]: Commencement: Reg. 8 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-2c3d1d4415df596c5a4ca1242ba20106]: Commencement: Reg. 8 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Expenses of members, etc.[^key-318b0b522eae83a79335e42ba12c47fa]
+## 131. Expenses of members, etc.[^c-318b0b522eae83a79335e42ba12c47fa]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.169 of the 1986 Rules[^f00054].
 
 ## Annotations
 
-[^key-318b0b522eae83a79335e42ba12c47fa]: Commencement: Rule 131 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-318b0b522eae83a79335e42ba12c47fa]: Commencement: Rule 131 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00054]: Footnote: Rule 4.169 was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

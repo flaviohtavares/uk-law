@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Valuation of land: power of entry.[^key-c36bbab53fcb80efd1972a9b3e91e40e]
+## 110. Valuation of land: power of entry.[^c-c36bbab53fcb80efd1972a9b3e91e40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36bbab53fcb80efd1972a9b3e91e40e]: Textual amendment: S. 110 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/1)
+[^c-c36bbab53fcb80efd1972a9b3e91e40e]: Textual amendment: S. 110 omitted (1.4.2010) by virtue of [The Finance Act 2009, Section 96 and Schedule 48 (Appointed Day, Savings and Consequential Amendments) Order 2009 (S.I. 2009/3054)](https://www.legislation.gov.uk/uksi/2009/3054), [art. 1](https://www.legislation.gov.uk/uksi/2009/3054/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3054/schedule/paragraph/1)

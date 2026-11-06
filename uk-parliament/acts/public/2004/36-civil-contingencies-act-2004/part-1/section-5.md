@@ -32,7 +32,7 @@ summary: ''
 - (b) reducing, controlling or mitigating the effects of an emergency, or
 - (c) taking other action in connection with an emergency.
 
-(2A)[^key-8b3901381c01ed9879805c32fd93a676] The Welsh Ministers may by order require a person or body listed in Part 2A of Schedule 1 to perform a function of that person or body for the purpose of—
+(2A)[^c-8b3901381c01ed9879805c32fd93a676] The Welsh Ministers may by order require a person or body listed in Part 2A of Schedule 1 to perform a function of that person or body for the purpose of—
 
 - (a) preventing the occurrence of an emergency,
 - (b) reducing, controlling or mitigating the effects of an emergency, or
@@ -58,7 +58,7 @@ summary: ''
   - (ii) a reference to Part 1 of that Schedule were a reference to Part 2 of that Schedule, and
 - (b) in paragraph (f) the references to a Minister of the Crown, to the National Assembly for Wales and to a Northern Ireland department were omitted.
 
-(5A)[^key-0b869a6ad46ad85ea176de2ce70706a7] Subsection (4) has effect in relation to subsection (2A) as it has effect in relation to subsection (1), but as if—
+(5A)[^c-0b869a6ad46ad85ea176de2ce70706a7] Subsection (4) has effect in relation to subsection (2A) as it has effect in relation to subsection (1), but as if—
 
 - (a) in paragraphs (d) and (e)—
   - (i) a reference to Part 1 or 3 of Schedule 1 were a reference to Part 2A or 5 of that Schedule, and
@@ -78,8 +78,8 @@ summary: ''
 
 [^c2010788]: Commencement: S. 5 partly in force; s. 5 not in force at Royal Assent see s. 34; s. 5(1)(3)(4) in force for specified purposes at 14.11.2005 by [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(e)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/e); s. 5(2)(5) in force and s. 5(3)(4) in force for further specified purposes (S.) at 14.11.2005 by [S.S.I. 2005/493](https://www.legislation.gov.uk/ssi/2005/493), [art. 4](https://www.legislation.gov.uk/ssi/2005/493/article/4)
 
-[^key-8b3901381c01ed9879805c32fd93a676]: Textual amendment: [S. 5(2A)](https://www.legislation.gov.uk/ukpga/2004/36/section/5/2A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(5)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/41/5/a)
+[^c-8b3901381c01ed9879805c32fd93a676]: Textual amendment: [S. 5(2A)](https://www.legislation.gov.uk/ukpga/2004/36/section/5/2A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(5)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/41/5/a)
 
-[^key-0b869a6ad46ad85ea176de2ce70706a7]: Textual amendment: [S. 5(5A)](https://www.legislation.gov.uk/ukpga/2004/36/section/5/5A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(5)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/5/b)
+[^c-0b869a6ad46ad85ea176de2ce70706a7]: Textual amendment: [S. 5(5A)](https://www.legislation.gov.uk/ukpga/2004/36/section/5/5A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(5)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/5/b)
 
 [^c2139524]: Textual amendment: S. 5(6)-(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [5](https://www.legislation.gov.uk/uksi/2010/976/article/5), [Sch. 3 para. 98(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/98/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28), [Sch. 3 para. 110](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/110))

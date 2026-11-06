@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Control agreements[^key-58f39a7dd3e6ec6c825942a4337a4fe1]
+## 16. Control agreements[^c-58f39a7dd3e6ec6c825942a4337a4fe1]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58f39a7dd3e6ec6c825942a4337a4fe1]: Commencement: S. 16 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-58f39a7dd3e6ec6c825942a4337a4fe1]: Commencement: S. 16 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

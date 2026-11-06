@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Meaning of “accounting period”: annual returns[^key-c4777abc6af4aff6f6c50de34bb059af]
+## 38. Meaning of “accounting period”: annual returns[^c-c4777abc6af4aff6f6c50de34bb059af]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4777abc6af4aff6f6c50de34bb059af]: Commencement: S. 38 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-c4777abc6af4aff6f6c50de34bb059af]: Commencement: S. 38 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

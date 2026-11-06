@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Notification of tips[^key-a1c50af07979d9944ee42600ab261a91]
+## 65. Notification of tips[^c-a1c50af07979d9944ee42600ab261a91]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1c50af07979d9944ee42600ab261a91]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2014/3248/regulation/65) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-a1c50af07979d9944ee42600ab261a91]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2014/3248/regulation/65) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00020]: Footnote: Regulation 8(1) was amended by [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).

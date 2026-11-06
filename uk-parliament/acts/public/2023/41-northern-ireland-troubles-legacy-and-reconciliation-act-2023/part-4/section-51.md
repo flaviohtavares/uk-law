@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Response to the memorialisation strategy[^key-24ea44313778cb59fa13340efbf2827d][^key-bd6d4308021d4829f7f557b887a18320]
+## 51. Response to the memorialisation strategy[^c-24ea44313778cb59fa13340efbf2827d][^c-bd6d4308021d4829f7f557b887a18320]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24ea44313778cb59fa13340efbf2827d]: Commencement: S. 51 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-24ea44313778cb59fa13340efbf2827d]: Commencement: S. 51 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-bd6d4308021d4829f7f557b887a18320]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/41/section/51) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-bd6d4308021d4829f7f557b887a18320]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/41/section/51) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

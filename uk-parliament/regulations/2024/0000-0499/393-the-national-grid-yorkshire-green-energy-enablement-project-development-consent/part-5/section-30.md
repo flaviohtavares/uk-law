@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Set-off for enhancement in value of retained land[^key-e987915ee03fcf5445eb85739b305c29]
+## 30. Set-off for enhancement in value of retained land[^c-e987915ee03fcf5445eb85739b305c29]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-e987915ee03fcf5445eb85739b305c29]: Commencement: Art. 30 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-e987915ee03fcf5445eb85739b305c29]: Commencement: Art. 30 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

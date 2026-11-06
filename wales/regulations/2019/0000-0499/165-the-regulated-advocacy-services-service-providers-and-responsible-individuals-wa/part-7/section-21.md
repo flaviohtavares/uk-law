@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Safeguarding policies and procedures[^key-9937feff096b3f629c92ff619e29abfe]
+## 21. Safeguarding policies and procedures[^c-9937feff096b3f629c92ff619e29abfe]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9937feff096b3f629c92ff619e29abfe]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2019/165/regulation/21) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-9937feff096b3f629c92ff619e29abfe]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2019/165/regulation/21) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

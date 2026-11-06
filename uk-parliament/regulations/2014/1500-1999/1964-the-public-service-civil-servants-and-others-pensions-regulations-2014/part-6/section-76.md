@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Annual rate of ill-health pension[^key-19db712a8466f974f7c422259d579a53]
+## 76. Annual rate of ill-health pension[^c-19db712a8466f974f7c422259d579a53]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19db712a8466f974f7c422259d579a53]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2014/1964/regulation/76) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-19db712a8466f974f7c422259d579a53]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2014/1964/regulation/76) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00056]: Footnote: Regulation 35 provides for the calculation of an amount of accrued earned pension. This amount forms the basis for determining the amount of full retirement earned pension under regulation 52. The annual rate of full retirement earned pension in relation to active members is calculated under regulation 61.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Procedure at accelerated misconduct hearing[^key-93fa38da08b5f22ec513d54393a75daa]
+## 61. Procedure at accelerated misconduct hearing[^c-93fa38da08b5f22ec513d54393a75daa]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ failed to mention, any fact relied on in the officer's case at the accelerated m
 
 (14) This paragraph applies where the case was certified as one where the special conditions are satisfied following a determination made under regulation 49(3), being a case where misconduct proceedings have been delayed by virtue of regulation 10(3).
 
-(14A)[^key-5d5ef2a8e9bb1e46c9de2df97ee52605] The advice provided by the legally qualified person under regulation 55(4B) must be given to all parties to the accelerated misconduct hearing.
+(14A)[^c-5d5ef2a8e9bb1e46c9de2df97ee52605] The advice provided by the legally qualified person under regulation 55(4B) must be given to all parties to the accelerated misconduct hearing.
 
 (14B) In paragraph (14A) “**parties**” means the panel of persons appointed in accordance with regulation 55(4), the appropriate authority or, as the case may be, the originating authority, the officer concerned, the representatives of the officer and, where the Director General is presenting the case, the Director General.
 
@@ -87,6 +87,6 @@ failed to mention, any fact relied on in the officer's case at the accelerated m
 
 ## Annotations
 
-[^key-93fa38da08b5f22ec513d54393a75daa]: Commencement: Reg. 61 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-93fa38da08b5f22ec513d54393a75daa]: Commencement: Reg. 61 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-5d5ef2a8e9bb1e46c9de2df97ee52605]: Textual amendment: Reg. 61(14A)(14B) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/13) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-5d5ef2a8e9bb1e46c9de2df97ee52605]: Textual amendment: Reg. 61(14A)(14B) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(13)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/13) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

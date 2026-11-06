@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Determination of application for variation[^key-87c7a04db60966fde0df22eae0ea328a]
+## 30. Determination of application for variation[^c-87c7a04db60966fde0df22eae0ea328a]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
   - (iii) the persons likely to frequent the premises,
 
   the Board considers that the premises are unsuitable for use for the sale of alcohol in accordance with the proposed variation,
-- (d) that[^key-7e5a9d020c7615e3208fbd7331a19730] the Board considers that, if the application were to be granted, there would, as a result, be overprovision of licensed premises, or licensed premises of the same or similar description as the subject premises (taking account of the variation),[^key-ee73ae3a88bc81a46222b838b100660b] in the locality.
+- (d) that[^c-7e5a9d020c7615e3208fbd7331a19730] the Board considers that, if the application were to be granted, there would, as a result, be overprovision of licensed premises, or licensed premises of the same or similar description as the subject premises (taking account of the variation),[^c-ee73ae3a88bc81a46222b838b100660b] in the locality.
 
 (6) Where the Licensing Board grants the application, the Board may make a variation of the conditions to which the licence is subject.
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-87c7a04db60966fde0df22eae0ea328a]: Commencement: S. 30 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-87c7a04db60966fde0df22eae0ea328a]: Commencement: S. 30 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-7e5a9d020c7615e3208fbd7331a19730]: Textual amendment: Word in s. 30(5)(d) substituted (30.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 55(4)(a)](https://www.legislation.gov.uk/asp/2015/10/section/55/4/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/132](https://www.legislation.gov.uk/ssi/2016/132), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/132/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/132/article/4))
+[^c-7e5a9d020c7615e3208fbd7331a19730]: Textual amendment: Word in s. 30(5)(d) substituted (30.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 55(4)(a)](https://www.legislation.gov.uk/asp/2015/10/section/55/4/a), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/132](https://www.legislation.gov.uk/ssi/2016/132), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/132/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/132/article/4))
 
-[^key-ee73ae3a88bc81a46222b838b100660b]: Textual amendment: Words in s. 30(5)(d) substituted (30.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 55(4)(b)](https://www.legislation.gov.uk/asp/2015/10/section/55/4/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/132](https://www.legislation.gov.uk/ssi/2016/132), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/132/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/132/article/4))
+[^c-ee73ae3a88bc81a46222b838b100660b]: Textual amendment: Words in s. 30(5)(d) substituted (30.9.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 55(4)(b)](https://www.legislation.gov.uk/asp/2015/10/section/55/4/b), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/132](https://www.legislation.gov.uk/ssi/2016/132), [art. 2(b)](https://www.legislation.gov.uk/ssi/2016/132/article/2/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/132/article/4))

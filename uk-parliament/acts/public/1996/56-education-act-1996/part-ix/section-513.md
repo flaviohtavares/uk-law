@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 513. Provision of meals etc. at schools not maintained by local authorities.[^key-df82d42709314c7296748c08b3554faa]
+## 513. Provision of meals etc. at schools not maintained by local authorities.[^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
-(1) A local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] may, with the consent of the proprietor of a school in their area which is not maintained by them, make arrangements for securing the provision of milk, meals and other refreshment for pupils in attendance at the school.
+(1) A local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] may, with the consent of the proprietor of a school in their area which is not maintained by them, make arrangements for securing the provision of milk, meals and other refreshment for pupils in attendance at the school.
 
 (2) Any arrangements under this section—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

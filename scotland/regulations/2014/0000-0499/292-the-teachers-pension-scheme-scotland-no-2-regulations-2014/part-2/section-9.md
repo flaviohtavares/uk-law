@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Membership of pension board[^key-3f80d0da257d5aa2aa875807bf7ede59]
+## 9. Membership of pension board[^c-3f80d0da257d5aa2aa875807bf7ede59]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f80d0da257d5aa2aa875807bf7ede59]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/292/regulation/9) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-3f80d0da257d5aa2aa875807bf7ede59]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/292/regulation/9) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
 
 [^f00018]: Footnote: See section 37 of the Act for the meaning of “employer”.

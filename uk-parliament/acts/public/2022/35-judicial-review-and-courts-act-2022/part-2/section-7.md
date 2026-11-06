@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Initial option for adult accused to reject summary trial at hearing[^key-b29793b635b0c0d3287125af8c957077]
+## 7. Initial option for adult accused to reject summary trial at hearing[^c-b29793b635b0c0d3287125af8c957077]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In the Magistrates’ Courts Act 1980, after section 17B insert—
 
 ## Annotations
 
-[^key-b29793b635b0c0d3287125af8c957077]: Commencement: S. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b29793b635b0c0d3287125af8c957077]: Commencement: S. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

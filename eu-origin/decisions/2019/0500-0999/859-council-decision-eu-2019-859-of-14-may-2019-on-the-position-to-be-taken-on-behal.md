@@ -33,42 +33,42 @@ of 14 May 2019
 
 on the position to be taken on behalf of the European Union in the South Pacific Regional Fisheries Management Organisation (SPRFMO), and repealing the Decision of 12 June 2017 establishing the position to be adopted, on behalf of the Union, in the SPRFMO (revoked)
 
-[^key-1b302d02a656d05dce4ac2e02067f539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b302d02a656d05dce4ac2e02067f539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-1b302d02a656d05dce4ac2e02067f539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b302d02a656d05dce4ac2e02067f539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b302d02a656d05dce4ac2e02067f539]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — The position to be taken on the Union's behalf in the South Pacific Regional Fisheries Management Organisation (SPRFMO)[^key-1b302d02a656d05dce4ac2e02067f539]
+## ANNEX I — The position to be taken on the Union's behalf in the South Pacific Regional Fisheries Management Organisation (SPRFMO)[^c-1b302d02a656d05dce4ac2e02067f539]
 
-[^key-1b302d02a656d05dce4ac2e02067f539]1.
+[^c-1b302d02a656d05dce4ac2e02067f539]1.
 
 PRINCIPLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1b302d02a656d05dce4ac2e02067f539]2.
+[^c-1b302d02a656d05dce4ac2e02067f539]2.
 
 ORIENTATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Year to year specification of the Union position to be taken at meetings of the South Pacific Regional Fisheries Management Organisation[^key-1b302d02a656d05dce4ac2e02067f539]
+## ANNEX II — Year to year specification of the Union position to be taken at meetings of the South Pacific Regional Fisheries Management Organisation[^c-1b302d02a656d05dce4ac2e02067f539]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1b302d02a656d05dce4ac2e02067f539]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-1b302d02a656d05dce4ac2e02067f539]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

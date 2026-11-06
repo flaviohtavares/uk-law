@@ -31,11 +31,11 @@ Civic Government (Scotland) Act 1982
 
 An Act to make provision as regards Scotland for the licensing and regulation of certain activities; for the preservation of public order and safety and the prevention crime; for prohibiting the taking of and dealing with indecent photographs of children; as to certain powers of constables and others; as to lost and abandoned property and property in the possession of persons taken into police custody; as to the rights and duties of the owners and users of certain land, buildings and other structures; as to the making by local authorities of byelaws; and to enable them to make management rules applying to land or premises under their control; as to certain other functions of local authorities and their officers; as to the time when the Burgh Police (Scotland) Acts 1892 to 1911 and certain local statutory provisions cease to have effect; and for connected purposes.\]
 
-\[28th October 1982\][^key-cb286ec4a340d4f021e0afdc8fa6083e]
+\[28th October 1982\][^c-cb286ec4a340d4f021e0afdc8fa6083e]
 
 ## Contents
 
-### Part I — Licensing—General Provisions[^c13371741][^c16224301][^key-05214d10a038a5a601de295e96e9e4db][^key-36968d79b57640472629fce09be93e47][^key-162b92e7add1c95a3d6477acc9b6ac8a][^key-b3ab1371b1056ff5c9af9560d78d1900][^key-5cc3c97a37f12d640e5cd73518475c9a]
+### Part I — Licensing—General Provisions[^c13371741][^c16224301][^c-05214d10a038a5a601de295e96e9e4db][^c-36968d79b57640472629fce09be93e47][^c-162b92e7add1c95a3d6477acc9b6ac8a][^c-b3ab1371b1056ff5c9af9560d78d1900][^c-5cc3c97a37f12d640e5cd73518475c9a]
 
 *Extent: S*
 
@@ -86,7 +86,7 @@ An Act to make provision as regards Scotland for the licensing and regulation of
 - [Section 26 — Sellers of second-hand goods: offences etc.](part-ii/section-26.md)
 - [Section 27 — Functions of the court in relation to second-hand dealers convicted of offences.](part-ii/section-27.md)
 
-#### Licensing and regulation of knife dealers[^key-1bb1b05a0a1b9e8c99593b9be0ffdbbf]
+#### Licensing and regulation of knife dealers[^c-1bb1b05a0a1b9e8c99593b9be0ffdbbf]
 
 - [Section 27A — Knife dealers' licences](part-ii/section-27a.md)
 - [Section 27B — Applications for knife dealers' licences: notice](part-ii/section-27b.md)
@@ -141,7 +141,7 @@ An Act to make provision as regards Scotland for the licensing and regulation of
 - [Section 43 — Window cleaners’ licences.](part-ii/section-43.md)
 - [Section 44 — Additional activities.](part-ii/section-44.md)
 
-### Part III — Control of sex shops and sexual entertainment venues[^key-31636094cda834209bc4fdd1c00272c0]
+### Part III — Control of sex shops and sexual entertainment venues[^c-31636094cda834209bc4fdd1c00272c0]
 
 *Extent: S*
 
@@ -151,12 +151,12 @@ An Act to make provision as regards Scotland for the licensing and regulation of
 - [Section 45C — Statements of policy in relation to sexual entertainment venues](part-iii/section-45c.md)
 - [Section 45D — Deemed grant of applications](part-iii/section-45d.md)
 
-#### Conditions of licences granted under this Part[^key-a0ad0f41fc9b6e8b305d0ff5885b8810]
+#### Conditions of licences granted under this Part[^c-a0ad0f41fc9b6e8b305d0ff5885b8810]
 
 - [Section 45E — Mandatory licence conditions](part-iii/section-45e.md)
 - [Section 45F — Standard licence conditions](part-iii/section-45f.md)
 
-### PART 3A — CIVIC LICENSING STANDARDS OFFICERS[^key-3322b65a66e4bc2ce5dccf8a8f98a839]
+### PART 3A — CIVIC LICENSING STANDARDS OFFICERS[^c-3322b65a66e4bc2ce5dccf8a8f98a839]
 
 - [Section 45G — Civic licensing standards officers](part-3a/section-45g.md)
 - [Section 45H — General functions of a civic licensing standards officer](part-3a/section-45h.md)
@@ -209,7 +209,7 @@ An Act to make provision as regards Scotland for the licensing and regulation of
 - [Section 65A — Guidance to local authorities](part-v/section-65a.md)
 - [Section 66 — Relationship of sections 62 to 65 with Public Order Act 1986.](part-v/section-66.md)
 
-### Part VI — Lost and Abandoned Property[^c13375831][^key-a3bc3d9e80cc2dd1ecc6f206f4175a17]
+### Part VI — Lost and Abandoned Property[^c13375831][^c-a3bc3d9e80cc2dd1ecc6f206f4175a17]
 
 *Extent: S*
 
@@ -362,33 +362,33 @@ SCHEDULES
 
 ## Annotations
 
-[^key-cb286ec4a340d4f021e0afdc8fa6083e]: Modification: Act: power to modify conferred (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 15(1)(c)(ii)](https://www.legislation.gov.uk/asp/2010/18/section/15/1/c/ii), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-cb286ec4a340d4f021e0afdc8fa6083e]: Modification: Act: power to modify conferred (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 15(1)(c)(ii)](https://www.legislation.gov.uk/asp/2010/18/section/15/1/c/ii), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
 [^c13371741]: Modification: Pt. 1 modified (3.6.1991) by [S.I. 1991/1253](https://www.legislation.gov.uk/uksi/1991/1253), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/1253/article/3/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/1253/schedule) (which S.I. was revoked (7.6.2000) by [S.S.I. 2000/177](https://www.legislation.gov.uk/ssi/2000/177), [art. 9](https://www.legislation.gov.uk/ssi/2000/177/article/9))
 
 [^c16224301]: Modification: Pt. 1 applied (with modifications) (7.6.2000) by [S.S.I. 2000/177](https://www.legislation.gov.uk/ssi/2000/177), [art. 4](https://www.legislation.gov.uk/ssi/2000/177/article/4), [Sch.](https://www.legislation.gov.uk/ssi/2000/177/schedule) (as amended (1.10.2003) by [S.S.I. 2003/463](https://www.legislation.gov.uk/ssi/2003/463), [art. 6](https://www.legislation.gov.uk/ssi/2003/463/article/6))
 
-[^key-05214d10a038a5a601de295e96e9e4db]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1982/45/part/1) applied (with modifications) (2.2.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Order 2006 (S.S.I. 2006/43)](https://www.legislation.gov.uk/ssi/2006/43), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/43/article/1/1), [3](https://www.legislation.gov.uk/ssi/2006/43/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/43/schedule) (as amended (26.3.2026) by [S.S.I. 2026/162](https://www.legislation.gov.uk/ssi/2026/162), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/162/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/162/article/2/2))
+[^c-05214d10a038a5a601de295e96e9e4db]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1982/45/part/1) applied (with modifications) (2.2.2006) by [The Civic Government (Scotland) Act 1982 (Licensing of Skin Piercing and Tattooing) Order 2006 (S.S.I. 2006/43)](https://www.legislation.gov.uk/ssi/2006/43), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/43/article/1/1), [3](https://www.legislation.gov.uk/ssi/2006/43/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/43/schedule) (as amended (26.3.2026) by [S.S.I. 2026/162](https://www.legislation.gov.uk/ssi/2026/162), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2026/162/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/162/article/2/2))
 
-[^key-36968d79b57640472629fce09be93e47]: Modification: Pt. 1 applied (with modifications) (3.4.2009) by [The Civic Government (Scotland) Act 1982 (Licensing of Booking Offices) Order 2009 (S.S.I. 2009/145)](https://www.legislation.gov.uk/ssi/2009/145), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/145/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/145/article/3), [sch.](https://www.legislation.gov.uk/ssi/2009/145/schedule)
+[^c-36968d79b57640472629fce09be93e47]: Modification: Pt. 1 applied (with modifications) (3.4.2009) by [The Civic Government (Scotland) Act 1982 (Licensing of Booking Offices) Order 2009 (S.S.I. 2009/145)](https://www.legislation.gov.uk/ssi/2009/145), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2009/145/article/1/1), [3](https://www.legislation.gov.uk/ssi/2009/145/article/3), [sch.](https://www.legislation.gov.uk/ssi/2009/145/schedule)
 
-[^key-162b92e7add1c95a3d6477acc9b6ac8a]: Modification: Pt. 1 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/2863/regulation/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-162b92e7add1c95a3d6477acc9b6ac8a]: Modification: Pt. 1 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [5](https://www.legislation.gov.uk/uksi/2009/2863/regulation/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
 
-[^key-b3ab1371b1056ff5c9af9560d78d1900]: Modification: Pt. 1 applied (with modifications) (1.3.2022) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [arts. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [5(a)](https://www.legislation.gov.uk/ssi/2022/32/article/5/a), [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/part/1) (with [art. 7](https://www.legislation.gov.uk/ssi/2022/32/article/7))
+[^c-b3ab1371b1056ff5c9af9560d78d1900]: Modification: Pt. 1 applied (with modifications) (1.3.2022) by [The Civic Government (Scotland) Act 1982 (Licensing of Short-term Lets) Order 2022 (S.S.I. 2022/32)](https://www.legislation.gov.uk/ssi/2022/32), [arts. 1](https://www.legislation.gov.uk/ssi/2022/32/article/1), [5(a)](https://www.legislation.gov.uk/ssi/2022/32/article/5/a), [sch. 2 Pt. 1](https://www.legislation.gov.uk/ssi/2022/32/schedule/2/part/1) (with [art. 7](https://www.legislation.gov.uk/ssi/2022/32/article/7))
 
-[^key-5cc3c97a37f12d640e5cd73518475c9a]: Modification: Pt. 1 applied (with modifications) (13.2.2026) by [The Civic Government (Scotland) Act 1982 (Licensing of Non-surgical Procedures) Order 2026 (S.S.I. 2026/87)](https://www.legislation.gov.uk/ssi/2026/87), [arts. 1](https://www.legislation.gov.uk/ssi/2026/87/article/1), [5](https://www.legislation.gov.uk/ssi/2026/87/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2026/87/schedule/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/87/article/6))
+[^c-5cc3c97a37f12d640e5cd73518475c9a]: Modification: Pt. 1 applied (with modifications) (13.2.2026) by [The Civic Government (Scotland) Act 1982 (Licensing of Non-surgical Procedures) Order 2026 (S.S.I. 2026/87)](https://www.legislation.gov.uk/ssi/2026/87), [arts. 1](https://www.legislation.gov.uk/ssi/2026/87/article/1), [5](https://www.legislation.gov.uk/ssi/2026/87/article/5), [sch. 2](https://www.legislation.gov.uk/ssi/2026/87/schedule/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/87/article/6))
 
-[^key-1bb1b05a0a1b9e8c99593b9be0ffdbbf]: Textual amendment: Ss. 27A-27S and cross-heading inserted (1.11.2007 for specified purposes, 1.6.2009 for specified purposes, 1.9.2009 for specififed purposes, 1.6.2010 in so far as not already in force) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 58](https://www.legislation.gov.uk/asp/2007/17/section/58), [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule), S.S.I. 2009/197, art. 2, Sch.
+[^c-1bb1b05a0a1b9e8c99593b9be0ffdbbf]: Textual amendment: Ss. 27A-27S and cross-heading inserted (1.11.2007 for specified purposes, 1.6.2009 for specified purposes, 1.9.2009 for specififed purposes, 1.6.2010 in so far as not already in force) by [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17), [ss. 58](https://www.legislation.gov.uk/asp/2007/17/section/58), [67(2)](https://www.legislation.gov.uk/asp/2007/17/section/67/2); [S.S.I. 2007/431](https://www.legislation.gov.uk/ssi/2007/431), [art. 3](https://www.legislation.gov.uk/ssi/2007/431/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/431/schedule), S.S.I. 2009/197, art. 2, Sch.
 
-[^key-31636094cda834209bc4fdd1c00272c0]: Textual amendment: Pt. 3 title substituted (26.4.2019) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 76(4)](https://www.legislation.gov.uk/asp/2015/10/section/76/4), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
+[^c-31636094cda834209bc4fdd1c00272c0]: Textual amendment: Pt. 3 title substituted (26.4.2019) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 76(4)](https://www.legislation.gov.uk/asp/2015/10/section/76/4), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2019/99](https://www.legislation.gov.uk/ssi/2019/99), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2019/99/article/2/1/b) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/99/article/3))
 
-[^key-a0ad0f41fc9b6e8b305d0ff5885b8810]: Textual amendment: Ss. 45E, 45F and cross-heading inserted (1.12.2015 for the insertion of s. 45E for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 80(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-a0ad0f41fc9b6e8b305d0ff5885b8810]: Textual amendment: Ss. 45E, 45F and cross-heading inserted (1.12.2015 for the insertion of s. 45E for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 80(2)](https://www.legislation.gov.uk/asp/2015/10/section/80/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
 
-[^key-3322b65a66e4bc2ce5dccf8a8f98a839]: Textual amendment: Pt. 3A inserted (1.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 82](https://www.legislation.gov.uk/asp/2015/10/section/82), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-3322b65a66e4bc2ce5dccf8a8f98a839]: Textual amendment: Pt. 3A inserted (1.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 82](https://www.legislation.gov.uk/asp/2015/10/section/82), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
 
 [^c13375831]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/1982/45/part/6) extended (with modifications) by [Animals (Scotland) Act 1987 (c. 9, SIF 4:6)](https://www.legislation.gov.uk/ukpga/1987/9), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1987/9/section/3/2)
 
-[^key-a3bc3d9e80cc2dd1ecc6f206f4175a17]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/1982/45/part/6) modified (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 24(15)](https://www.legislation.gov.uk/ukpga/2025/31/section/24/15), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-a3bc3d9e80cc2dd1ecc6f206f4175a17]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/1982/45/part/6) modified (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 24(15)](https://www.legislation.gov.uk/ukpga/2025/31/section/24/15), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
 
 [^c13371691]: Commencement: Act partly in force at Royal Assent see s. 137(2); Act wholly in force at 1. 1. 1985 see S.I. 1983/201 as amended by [S.I. 1984/573](https://www.legislation.gov.uk/uksi/1984/573) and 744.
 

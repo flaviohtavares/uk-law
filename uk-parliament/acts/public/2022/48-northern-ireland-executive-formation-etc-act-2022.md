@@ -37,15 +37,15 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Executive formation
 
-### 1. Extension of period for making Ministerial appointments ...[^key-57eca563531dfeaae29c9fd1bf6bbe09][^key-0dec178eb3b87de840a1435c28d60d14]
+### 1. Extension of period for making Ministerial appointments ...[^c-57eca563531dfeaae29c9fd1bf6bbe09][^c-0dec178eb3b87de840a1435c28d60d14]
 
 (1) The Northern Ireland Act 1998 has effect as if, during the current post-election period, for subsections (3A) to (3C) of section 16A (appointment of Ministers following an Assembly election) there were substituted—
 
-> (3A) In this section “**the period for filling Ministerial offices**” means the period beginning with 13 May 2022 and ending with 8 February 2024[^key-e3ff920024734d7ae3fbdf9e22d058b2].
+> (3A) In this section “**the period for filling Ministerial offices**” means the period beginning with 13 May 2022 and ending with 8 February 2024[^c-e3ff920024734d7ae3fbdf9e22d058b2].
 
 (2) In this section, “**the current post-election period**” means the period beginning with 5 May 2022 and ending with the day on which a poll for the election of an Assembly is next held.
 
-### 1A. Power to propose date for a poll[^key-5d0f710790d2d5c3a3882cd16c09b271]
+### 1A. Power to propose date for a poll[^c-5d0f710790d2d5c3a3882cd16c09b271]
 
 (1) The Northern Ireland Act 1998 has effect as if, during the current post-election period, section 32 (extraordinary elections) were amended as follows—
 
@@ -69,17 +69,17 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) In this section, “**the current post-election period**” has the meaning given in section 1.
 
-### 2. Power to extend period for making Ministerial appointments by a further six weeks[^key-f01329a55df3ff55ea49eaa6ea4af2bf]
+### 2. Power to extend period for making Ministerial appointments by a further six weeks[^c-f01329a55df3ff55ea49eaa6ea4af2bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Exercise of departmental functions
 
-### 3. Exercise of departmental functions[^key-86d451a6d63d271246d97df786697e96]
+### 3. Exercise of departmental functions[^c-86d451a6d63d271246d97df786697e96]
 
-(1) The absence of Northern Ireland Ministers does not prevent a senior officer of a Northern Ireland department from exercising a function of the department during the current period in which there is no Executive[^key-a094858ea52bd9ff5f4e9033a1ca2247] if the officer is satisfied that it is in the public interest to exercise the function during that period.
+(1) The absence of Northern Ireland Ministers does not prevent a senior officer of a Northern Ireland department from exercising a function of the department during the current period in which there is no Executive[^c-a094858ea52bd9ff5f4e9033a1ca2247] if the officer is satisfied that it is in the public interest to exercise the function during that period.
 
-(2)[^key-33c8d2c278dde497aeff0b0bdc9b7577] In this section “**the current period in which there is no Executive**” means the period—
+(2)[^c-33c8d2c278dde497aeff0b0bdc9b7577] In this section “**the current period in which there is no Executive**” means the period—
 
 - (a) beginning with 6 December 2022 (the day on which this Act was passed), and
 - (b) ending when an Executive is next formed.
@@ -92,7 +92,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (6) Before publishing guidance under subsection (4) the Secretary of State must have regard to any representations made by members of the Northern Ireland Assembly.
 
-### 4. Exercise of departmental functions before this Act is passed[^key-1c0d5a80bd91589e248b41321fceb86b]
+### 4. Exercise of departmental functions before this Act is passed[^c-1c0d5a80bd91589e248b41321fceb86b]
 
 (1) The absence of Northern Ireland Ministers is not to be treated as having prevented any senior officer of a Northern Ireland department from exercising functions of the department during the period beginning with 28 October 2022 and ending when this Act is passed.
 
@@ -103,13 +103,13 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 but nothing in this subsection prevents the re-exercise of the function in the same way in reliance on section 3(1).
 
-### 5. Exercise of departmental functions: supplementary[^key-cf72c36ad72704d2a848e24935dc9264]
+### 5. Exercise of departmental functions: supplementary[^c-cf72c36ad72704d2a848e24935dc9264]
 
 (1) Sections 3 and 4 have effect despite anything in the Northern Ireland Act 1998, the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)) or any other enactment or rule of law that would prevent a senior officer of a Northern Ireland department from exercising departmental functions in the absence of Northern Ireland Ministers.
 
 (2) No inference is to be drawn from sections 3 and 4 or this section as to whether or not a senior officer of a Northern Ireland department would otherwise have been prevented from exercising departmental functions.
 
-## Advice and information[^key-ff7eb09dc86041b402965a840336eb3c]
+## Advice and information[^c-ff7eb09dc86041b402965a840336eb3c]
 
 ### 5A. Advice and information on options for raising public revenue
 
@@ -157,7 +157,7 @@ but nothing in this subsection prevents the re-exercise of the function in the s
 
 ## Exercise of appointment functions
 
-### 6. NI ministerial appointment functions[^key-15886bf90f4f6dd524578f28a29f84dc][^key-1672098044416a62ffb68c7213c7b485]
+### 6. NI ministerial appointment functions[^c-15886bf90f4f6dd524578f28a29f84dc][^c-1672098044416a62ffb68c7213c7b485]
 
 (1) During the current period in which there is no Executive, an appointment function of a Northern Ireland Minister in relation to a specified office may be exercised by the relevant Minister of the Crown.
 
@@ -165,29 +165,29 @@ but nothing in this subsection prevents the re-exercise of the function in the s
 
 | *“specified office”* | *“relevant Minister of the Crown”* |
 | --- | --- |
-| King’s Counsel[^key-78b1b6192cd4a95d3a0e43e1cb75583f] | Lord Chancellor |
+| King’s Counsel[^c-78b1b6192cd4a95d3a0e43e1cb75583f] | Lord Chancellor |
 | Member of the Northern Ireland Judicial Appointments Commission | Lord Chancellor |
 | Commissioner for Children and Young People for Northern Ireland | Secretary of State |
-| Member or chair of the Agricultural Wages Board for Northern Ireland[^key-67e1668ba38b3781c29550c918cc2094] | Secretary of State |
-| Member, chair or deputy chair of the Council for Nature Conservation and the Countryside[^key-8972258e0650785d498c30a81b3ca83f] | Secretary of State |
+| Member or chair of the Agricultural Wages Board for Northern Ireland[^c-67e1668ba38b3781c29550c918cc2094] | Secretary of State |
+| Member, chair or deputy chair of the Council for Nature Conservation and the Countryside[^c-8972258e0650785d498c30a81b3ca83f] | Secretary of State |
 | Member of the Drainage Council for Northern Ireland | Secretary of State |
 | Member, chair or deputy chair of the General Consumer Council for Northern Ireland | Secretary of State |
-| Member, chair or deputy chair of the Health and Safety Executive for Northern Ireland[^key-6918bbb028ba1e9bb7be462ee5f0d029] | Secretary of State |
+| Member, chair or deputy chair of the Health and Safety Executive for Northern Ireland[^c-6918bbb028ba1e9bb7be462ee5f0d029] | Secretary of State |
 | Member or chair of the Historic Buildings Council | Secretary of State |
 | Member or chair of the Labour Relations Agency | Secretary of State |
 | Member or chair of the Livestock and Meat Commission for Northern Ireland | Secretary of State |
 | Trustee or chair of the Board of Trustees of the National Museums and Galleries of Northern Ireland | Secretary of State |
-| Member, chair or chief executive of the Northern Ireland Council for the Curriculum, Examinations and Assessment[^key-9f755bcf6d8d05d24b9bd73dcf1592d0] | Secretary of State |
+| Member, chair or chief executive of the Northern Ireland Council for the Curriculum, Examinations and Assessment[^c-9f755bcf6d8d05d24b9bd73dcf1592d0] | Secretary of State |
 | Member or chair of the Northern Ireland Fishery Harbour Authority | Secretary of State |
-| Member, chair or vice-chair of the Northern Ireland Housing Executive[^key-385a663f167291c67db209417c8fcf6b] | Secretary of State |
+| Member, chair or vice-chair of the Northern Ireland Housing Executive[^c-385a663f167291c67db209417c8fcf6b] | Secretary of State |
 | Member or chair of the Northern Ireland Local Government Officers’ Superannuation Committee | Secretary of State |
 | Member of the Northern Ireland Policing Board | Secretary of State |
 | Member, chair or deputy chair of the Northern Ireland Tourist Board | Secretary of State |
-| Commissioner for Older People for Northern Ireland[^key-b68c2f370fb5d26340e46fc3a4248cca] | Secretary of State |
+| Commissioner for Older People for Northern Ireland[^c-b68c2f370fb5d26340e46fc3a4248cca] | Secretary of State |
 | Member of the Police Service of Northern Ireland above the rank of chief superintendent | Secretary of State |
 | Member, chair or deputy chair of the Probation Board for Northern Ireland | Secretary of State |
 | Commissioner for Public Appointments for Northern Ireland | Secretary of State |
-| Member, chair or vice-chair of the Sports Council for Northern Ireland[^key-5451147423e9086ccf941b62f3ab4649] | Secretary of State |
+| Member, chair or vice-chair of the Sports Council for Northern Ireland[^c-5451147423e9086ccf941b62f3ab4649] | Secretary of State |
 
 (3) The Secretary of State may by regulations made by statutory instrument add entries to the table.
 
@@ -215,11 +215,11 @@ but nothing in this subsection prevents the re-exercise of the function in the s
 
 (9) Any enactment or document is to have effect, so far as may be necessary for or in consequence of the exercise of any functions by the relevant Minister of the Crown in reliance on this section, as if references to a Northern Ireland Minister included, or were, references to the relevant Minister of the Crown.
 
-### 7. Minister of the Crown appointment functions[^key-b34ac024c45f3c4ab64cce029790dd5b][^key-0ef7bdb3e3d931dc373edb1e23728763]
+### 7. Minister of the Crown appointment functions[^c-b34ac024c45f3c4ab64cce029790dd5b][^c-0ef7bdb3e3d931dc373edb1e23728763]
 
 Any requirement for a Minister of the Crown to consult, or obtain the approval of, a Northern Ireland Minister or the Executive Committee of the Northern Ireland Assembly before exercising an appointment function has effect, during the current period in which there is no Executive, as a requirement to consult a Northern Ireland department.
 
-### 8. Joint UK appointment functions etc[^key-0e531c060e06912b70570f9bdd8e3a80][^key-661d994e51386cce43091f3431644f8a]
+### 8. Joint UK appointment functions etc[^c-0e531c060e06912b70570f9bdd8e3a80][^c-661d994e51386cce43091f3431644f8a]
 
 (1) During the current period in which there is no Executive, the Secretary of State may exercise any appointment function of a Northern Ireland Minister that is exercisable jointly with one or more other persons who include the Secretary of State.
 
@@ -227,7 +227,7 @@ Any requirement for a Minister of the Crown to consult, or obtain the approval o
 
 (3) Any enactment or document is to have effect, so far as may be necessary for or in consequence of the exercise of any functions by the Secretary of State in reliance on this section, as if references to a Northern Ireland Minister included, or were, references to the Secretary of State.
 
-### 9. Sections 6 to 8: core definitions[^key-7a8798b662aaad44b907b27169a8334f][^key-397d3bcd160e02d43d941bb2e4c8d13f]
+### 9. Sections 6 to 8: core definitions[^c-7a8798b662aaad44b907b27169a8334f][^c-397d3bcd160e02d43d941bb2e4c8d13f]
 
 (1) In sections 6 to 8—
 
@@ -250,7 +250,7 @@ Any requirement for a Minister of the Crown to consult, or obtain the approval o
 
 ## Northern Ireland Assembly pay
 
-### 10. Power to determine salaries and other benefits for Members of the Assembly[^key-879166bfba192626fe89f92efb3ebeb1]
+### 10. Power to determine salaries and other benefits for Members of the Assembly[^c-879166bfba192626fe89f92efb3ebeb1]
 
 (1) During a period in which the Northern Ireland Assembly is not functioning, the Secretary of State may make a determination as to—
 
@@ -292,7 +292,7 @@ Any requirement for a Minister of the Crown to consult, or obtain the approval o
 
 *Extent: N.I.*
 
-### 11. Power to set the regional rate for 2023/24[^key-d2314e3de47ed15566f97abde1c2fe45]
+### 11. Power to set the regional rate for 2023/24[^c-d2314e3de47ed15566f97abde1c2fe45]
 
 (1) The Secretary of State may by regulations made by statutory instrument set the regional rate for the year ending 31 March 2024.
 
@@ -319,7 +319,7 @@ Any requirement for a Minister of the Crown to consult, or obtain the approval o
 
 ## General
 
-### 12. Interpretation[^key-0ac8836935bc2d6240731f9d04a3510b]
+### 12. Interpretation[^c-0ac8836935bc2d6240731f9d04a3510b]
 
 (1) In this Act—
 
@@ -330,86 +330,86 @@ Any requirement for a Minister of the Crown to consult, or obtain the approval o
 
 (2) For the purposes of this Act, an Executive is formed once the offices of First Minister and deputy First Minister and those to be held by the other Northern Ireland Ministers are all filled.
 
-### 13. Extent[^key-46bac56e0b56b51f87010f9b57b99229]
+### 13. Extent[^c-46bac56e0b56b51f87010f9b57b99229]
 
 (1) Section 11 extends to Northern Ireland only.
 
 (2) The other provisions of this Act extend to England and Wales, Scotland and Northern Ireland.
 
-### 14. Commencement[^key-7b0ee04907c05f4a7cbd0271cbdafd66]
+### 14. Commencement[^c-7b0ee04907c05f4a7cbd0271cbdafd66]
 
 (1) Sections 6 to 9 come into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
 
 (2) The other provisions of this Act come into force on the day on which this Act is passed.
 
-### 15. Short title[^key-7bcdfa5e29069b4798fb195199a337de]
+### 15. Short title[^c-7bcdfa5e29069b4798fb195199a337de]
 
 This Act may be cited as the Northern Ireland (Executive Formation etc) Act 2022.
 
 ## Annotations
 
-[^key-57eca563531dfeaae29c9fd1bf6bbe09]: Commencement: S. 1 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-57eca563531dfeaae29c9fd1bf6bbe09]: Commencement: S. 1 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-0dec178eb3b87de840a1435c28d60d14]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2022/48/section/1) heading omitted (28.2.2023) by virtue of [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/2/a), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
+[^c-0dec178eb3b87de840a1435c28d60d14]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/2022/48/section/1) heading omitted (28.2.2023) by virtue of [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/2/a), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
 
-[^key-e3ff920024734d7ae3fbdf9e22d058b2]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/1/1) substituted (25.1.2024) by [Northern Ireland (Executive Formation) Act 2024 (c. 2)](https://www.legislation.gov.uk/ukpga/2024/2), [ss. 1](https://www.legislation.gov.uk/ukpga/2024/2/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2)
+[^c-e3ff920024734d7ae3fbdf9e22d058b2]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/1/1) substituted (25.1.2024) by [Northern Ireland (Executive Formation) Act 2024 (c. 2)](https://www.legislation.gov.uk/ukpga/2024/2), [ss. 1](https://www.legislation.gov.uk/ukpga/2024/2/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2)
 
-[^key-5d0f710790d2d5c3a3882cd16c09b271]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2022/48/section/1A) inserted (28.2.2023) by [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
+[^c-5d0f710790d2d5c3a3882cd16c09b271]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2022/48/section/1A) inserted (28.2.2023) by [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
 
-[^key-f01329a55df3ff55ea49eaa6ea4af2bf]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2022/48/section/2) omitted (28.2.2023) by virtue of [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
+[^c-f01329a55df3ff55ea49eaa6ea4af2bf]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2022/48/section/2) omitted (28.2.2023) by virtue of [Northern Ireland (Executive Formation and Organ and Tissue Donation) Act 2023 (c. 4)](https://www.legislation.gov.uk/ukpga/2023/4), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/4/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2023/4/section/3/3)
 
-[^key-86d451a6d63d271246d97df786697e96]: Commencement: S. 3 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-86d451a6d63d271246d97df786697e96]: Commencement: S. 3 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-a094858ea52bd9ff5f4e9033a1ca2247]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/3/1) substituted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2023/21/section/1/a), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-a094858ea52bd9ff5f4e9033a1ca2247]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/3/1) substituted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2023/21/section/1/a), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-33c8d2c278dde497aeff0b0bdc9b7577]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/3/2) substituted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 1(b)](https://www.legislation.gov.uk/ukpga/2023/21/section/1/b), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-33c8d2c278dde497aeff0b0bdc9b7577]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/3/2) substituted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 1(b)](https://www.legislation.gov.uk/ukpga/2023/21/section/1/b), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-1c0d5a80bd91589e248b41321fceb86b]: Commencement: S. 4 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-1c0d5a80bd91589e248b41321fceb86b]: Commencement: S. 4 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-cf72c36ad72704d2a848e24935dc9264]: Commencement: S. 5 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-cf72c36ad72704d2a848e24935dc9264]: Commencement: S. 5 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-ff7eb09dc86041b402965a840336eb3c]: Textual amendment: [Ss. 5A](https://www.legislation.gov.uk/ukpga/2022/48/section/5A), [5B](https://www.legislation.gov.uk/ukpga/2022/48/section/5B) and cross-heading inserted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/21/section/2), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
+[^c-ff7eb09dc86041b402965a840336eb3c]: Textual amendment: [Ss. 5A](https://www.legislation.gov.uk/ukpga/2022/48/section/5A), [5B](https://www.legislation.gov.uk/ukpga/2022/48/section/5B) and cross-heading inserted (24.5.2023) by [Northern Ireland (Interim Arrangements) Act 2023 (c. 21)](https://www.legislation.gov.uk/ukpga/2023/21), [ss. 2](https://www.legislation.gov.uk/ukpga/2023/21/section/2), [6](https://www.legislation.gov.uk/ukpga/2023/21/section/6)
 
-[^key-15886bf90f4f6dd524578f28a29f84dc]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
+[^c-15886bf90f4f6dd524578f28a29f84dc]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
 
-[^key-1672098044416a62ffb68c7213c7b485]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/48/section/6) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/a)
+[^c-1672098044416a62ffb68c7213c7b485]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/48/section/6) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/a)
 
-[^key-78b1b6192cd4a95d3a0e43e1cb75583f]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/2)
+[^c-78b1b6192cd4a95d3a0e43e1cb75583f]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/2)
 
-[^key-67e1668ba38b3781c29550c918cc2094]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (11.7.2023) by [The Northern Ireland (Ministerial Appointment Functions) Regulations 2023 (S.I. 2023/776)](https://www.legislation.gov.uk/uksi/2023/776), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/776/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/776/regulation/2/2)
+[^c-67e1668ba38b3781c29550c918cc2094]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (11.7.2023) by [The Northern Ireland (Ministerial Appointment Functions) Regulations 2023 (S.I. 2023/776)](https://www.legislation.gov.uk/uksi/2023/776), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/776/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/776/regulation/2/2)
 
-[^key-8972258e0650785d498c30a81b3ca83f]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/3)
+[^c-8972258e0650785d498c30a81b3ca83f]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/3)
 
-[^key-6918bbb028ba1e9bb7be462ee5f0d029]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/4)
+[^c-6918bbb028ba1e9bb7be462ee5f0d029]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/4)
 
-[^key-9f755bcf6d8d05d24b9bd73dcf1592d0]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/5)
+[^c-9f755bcf6d8d05d24b9bd73dcf1592d0]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/5)
 
-[^key-385a663f167291c67db209417c8fcf6b]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/6)
+[^c-385a663f167291c67db209417c8fcf6b]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/6)
 
-[^key-b68c2f370fb5d26340e46fc3a4248cca]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/7)
+[^c-b68c2f370fb5d26340e46fc3a4248cca]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/7)
 
-[^key-5451147423e9086ccf941b62f3ab4649]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/8)
+[^c-5451147423e9086ccf941b62f3ab4649]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/6/2) table inserted (3.10.2023) by [The Northern Ireland (Ministerial Appointment Functions) (No. 2) Regulations 2023 (S.I. 2023/1061)](https://www.legislation.gov.uk/uksi/2023/1061), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2023/1061/regulation/2/8)
 
-[^key-b34ac024c45f3c4ab64cce029790dd5b]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
+[^c-b34ac024c45f3c4ab64cce029790dd5b]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
 
-[^key-0ef7bdb3e3d931dc373edb1e23728763]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/48/section/7) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/b)
+[^c-0ef7bdb3e3d931dc373edb1e23728763]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/48/section/7) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/b)
 
-[^key-0e531c060e06912b70570f9bdd8e3a80]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
+[^c-0e531c060e06912b70570f9bdd8e3a80]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
 
-[^key-661d994e51386cce43091f3431644f8a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/48/section/8) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/c)
+[^c-661d994e51386cce43091f3431644f8a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/48/section/8) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/c)
 
-[^key-7a8798b662aaad44b907b27169a8334f]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
+[^c-7a8798b662aaad44b907b27169a8334f]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/1)
 
-[^key-397d3bcd160e02d43d941bb2e4c8d13f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/48/section/9) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/d)
+[^c-397d3bcd160e02d43d941bb2e4c8d13f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/48/section/9) in force at 7.2.2023 by [S.I. 2023/89](https://www.legislation.gov.uk/uksi/2023/89), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/89/regulation/2/d)
 
-[^key-879166bfba192626fe89f92efb3ebeb1]: Commencement: S. 10 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-879166bfba192626fe89f92efb3ebeb1]: Commencement: S. 10 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-d2314e3de47ed15566f97abde1c2fe45]: Commencement: S. 11 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-d2314e3de47ed15566f97abde1c2fe45]: Commencement: S. 11 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-0ac8836935bc2d6240731f9d04a3510b]: Commencement: S. 12 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-0ac8836935bc2d6240731f9d04a3510b]: Commencement: S. 12 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-46bac56e0b56b51f87010f9b57b99229]: Commencement: S. 13 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-46bac56e0b56b51f87010f9b57b99229]: Commencement: S. 13 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-7b0ee04907c05f4a7cbd0271cbdafd66]: Commencement: S. 14 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-7b0ee04907c05f4a7cbd0271cbdafd66]: Commencement: S. 14 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
-[^key-7bcdfa5e29069b4798fb195199a337de]: Commencement: S. 15 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-7bcdfa5e29069b4798fb195199a337de]: Commencement: S. 15 in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)

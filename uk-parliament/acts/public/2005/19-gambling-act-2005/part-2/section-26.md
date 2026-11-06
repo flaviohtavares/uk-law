@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Duty to advise Secretary of State[^key-b7b2e216c53af8c93a9bfda43b5b0d55]
+## 26. Duty to advise Secretary of State[^c-b7b2e216c53af8c93a9bfda43b5b0d55]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7b2e216c53af8c93a9bfda43b5b0d55]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2005/19/section/26) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-b7b2e216c53af8c93a9bfda43b5b0d55]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2005/19/section/26) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

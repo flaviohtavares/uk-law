@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Reappointment of part-time sheriffs[^key-d6126a1e31eadee5b792a26ba7cfb25d]
+## 9. Reappointment of part-time sheriffs[^c-d6126a1e31eadee5b792a26ba7cfb25d]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6126a1e31eadee5b792a26ba7cfb25d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/18/section/9) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-d6126a1e31eadee5b792a26ba7cfb25d]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/18/section/9) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Disclosure of information by and to certain health care services[^key-4e58ada30c844ee378305e6cedf1a5b4]
+## 5A. Disclosure of information by and to certain health care services[^c-4e58ada30c844ee378305e6cedf1a5b4]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ the relevant health care service may report the facts and circumstances of the c
 
 ## Annotations
 
-[^key-4e58ada30c844ee378305e6cedf1a5b4]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/asp/2007/10/section/5A) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 24(2)](https://www.legislation.gov.uk/asp/2025/9/section/24/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-4e58ada30c844ee378305e6cedf1a5b4]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/asp/2007/10/section/5A) inserted (7.1.2026) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 24(2)](https://www.legislation.gov.uk/asp/2025/9/section/24/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)

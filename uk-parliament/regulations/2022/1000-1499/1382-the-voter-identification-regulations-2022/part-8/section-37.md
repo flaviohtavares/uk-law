@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004[^key-9ede0867e3fbce0438e00d0b5bf97a73]
+## 37. Amendment of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004[^c-9ede0867e3fbce0438e00d0b5bf97a73]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In Schedule 2 to the Representation of the People (Combination of Polls) (Englan
 
 ## Annotations
 
-[^key-9ede0867e3fbce0438e00d0b5bf97a73]: Commencement: Reg. 37 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-9ede0867e3fbce0438e00d0b5bf97a73]: Commencement: Reg. 37 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00058]: Footnote: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294); relevant amending instruments are [S.I. 2006/3278](https://www.legislation.gov.uk/uksi/2006/3278), [2014/920](https://www.legislation.gov.uk/uksi/2014/920).

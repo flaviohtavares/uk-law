@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Power to replace references to EU directives[^key-2bc85076ff7d8fbeb12670c51ddb561e][^key-bef6def8c7f5fcfa184507c9282a1f2b]
+## 5. Power to replace references to EU directives[^c-2bc85076ff7d8fbeb12670c51ddb561e][^c-bef6def8c7f5fcfa184507c9282a1f2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bc85076ff7d8fbeb12670c51ddb561e]: Commencement: S. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2bc85076ff7d8fbeb12670c51ddb561e]: Commencement: S. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bef6def8c7f5fcfa184507c9282a1f2b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/29/section/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/c)
+[^c-bef6def8c7f5fcfa184507c9282a1f2b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/29/section/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/c)

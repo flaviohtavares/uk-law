@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Late payment interest start date: amendments to assessments etc.[^key-d6ddbca786acb15d1f7eb27a7d0c24cc]
+## 159. Late payment interest start date: amendments to assessments etc.[^c-d6ddbca786acb15d1f7eb27a7d0c24cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6ddbca786acb15d1f7eb27a7d0c24cc]: Textual amendment: S. 159 and cross-heading omitted (25.1.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 59](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/59); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)
+[^c-d6ddbca786acb15d1f7eb27a7d0c24cc]: Textual amendment: S. 159 and cross-heading omitted (25.1.2018) by virtue of [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 59](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/59); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/ii)

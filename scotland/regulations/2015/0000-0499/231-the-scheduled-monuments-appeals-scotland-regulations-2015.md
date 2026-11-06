@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-758393aa640444e69e26867e94ce8d45]
+### 1. Citation, commencement and application[^c-758393aa640444e69e26867e94ce8d45]
 
 (1) These Regulations may be cited as the Scheduled Monuments (Appeals) (Scotland) Regulations 2015 and come into force on 1st October 2015.
 
@@ -63,7 +63,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (5) These Regulations apply in accordance with regulation 19 to applications referred to the Scottish Ministers following a direction under section 3B(1) of the Act (referral of certain applications to the Scottish Ministers).
 
-### 2. Interpretation[^key-d849738d8726a8644fc88e5598081c1e]
+### 2. Interpretation[^c-d849738d8726a8644fc88e5598081c1e]
 
 In these Regulations—
 
@@ -93,7 +93,7 @@ In these Regulations—
 
 ## PART 2 — Appeals under section 4B of the Act
 
-### 3. Notice of appeal[^key-76c7d35f4a8d2370046685a16dc5a344]
+### 3. Notice of appeal[^c-76c7d35f4a8d2370046685a16dc5a344]
 
 (1) An appeal to the Scottish Ministers under section 4B of the Act is to be made by giving notice in writing in accordance with this regulation.
 
@@ -129,7 +129,7 @@ In these Regulations—
 - (b) in the case of an application for the variation or discharge of conditions to which a scheduled monument consent is subject, the date on which the last of the items or information required to be contained in or accompany the application in accordance with regulation 4 of those Regulations is received by Historic Environment Scotland; and
 - (c) in any other case, the date on which the application is received by Historic Environment Scotland.
 
-### 4. Notice to owners[^key-1723ddc170a96338d7cc8375124407f5]
+### 4. Notice to owners[^c-1723ddc170a96338d7cc8375124407f5]
 
 (1) The appellant is to give notice in the form set out in Part 1 of Schedule 3 to any person (other than the appellant) who at the beginning of the prescribed period is the owner of the monument to which the appeal relates.
 
@@ -155,7 +155,7 @@ In these Regulations—
 
 (6) In this regulation “prescribed period” means the period of 21 days ending with the date on which notice of appeal is given to the Scottish Ministers under section 4B of the Act.
 
-### 5. Intimation to Historic Environment Scotland[^key-36a283b5e483a3dcdb6d8c51853b12da]
+### 5. Intimation to Historic Environment Scotland[^c-36a283b5e483a3dcdb6d8c51853b12da]
 
 (1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to Historic Environment Scotland—
 
@@ -174,7 +174,7 @@ In these Regulations—
 - (a) comments on any matters raised in Historic Environment Scotland’s response which had not been raised in the decision notice; and
 - (b) any documents, materials or evidence on which the appellant intends to rely in relation to such comments.
 
-### 6. Notification to interested parties[^key-6a4ef0f297b74cf425fd15daaac32e41]
+### 6. Notification to interested parties[^c-6a4ef0f297b74cf425fd15daaac32e41]
 
 (1) Historic Environment Scotland must not later than 14 days following notification of the appeal under regulation 5(1) give notice of the appeal to each interested party.
 
@@ -191,11 +191,11 @@ In these Regulations—
 
 (3) An interested party may, within 14 days beginning with the date on which notice is given under paragraph (1), make representations in respect of the appeal to the Scottish Ministers.
 
-(4) The Scottish Ministers are to send a copy of any representations received under paragraph (3)[^key-0bd5d287b471cbc12b72385bab7197a6] to the appellant and to Historic Environment Scotland and are to inform them how and by what date (being a date not less than 14 days after the date on which such copy is sent under this paragraph) they may make comments to the Scottish Ministers on such representations.
+(4) The Scottish Ministers are to send a copy of any representations received under paragraph (3)[^c-0bd5d287b471cbc12b72385bab7197a6] to the appellant and to Historic Environment Scotland and are to inform them how and by what date (being a date not less than 14 days after the date on which such copy is sent under this paragraph) they may make comments to the Scottish Ministers on such representations.
 
 (5) The appellant and Historic Environment Scotland may, on or before that date, make comments on such representations to the Scottish Ministers.
 
-### 7. Publication of appeal documents[^key-df1ac358f031529fdb8fe27470c6d773]
+### 7. Publication of appeal documents[^c-df1ac358f031529fdb8fe27470c6d773]
 
 (1) Historic Environment Scotland must, in relation to an appeal, make copies of—
 
@@ -213,11 +213,11 @@ available for inspection at an office of Historic Environment Scotland until suc
 
 ## PART 3 — Procedure for determination
 
-### 8. Determination without further procedure[^key-a22138cc39114ddf6bf07b3fd6fd5af9]
+### 8. Determination without further procedure[^c-a22138cc39114ddf6bf07b3fd6fd5af9]
 
 Where the appointed person considers that no further representations are, or information is, required to enable the appeal to be determined, the appointed person may determine the appeal without further procedure.
 
-### 9. Opt-in notice to interested parties[^key-cf42e9e70c35b62aa00de7c8e4124b82]
+### 9. Opt-in notice to interested parties[^c-cf42e9e70c35b62aa00de7c8e4124b82]
 
 (1) Where the appointed person does not determine the appeal without further procedure, the appointed person may (but is not required to) invite, by notice given in accordance with this regulation, any or all interested parties to confirm if they wish to participate in any further procedure.
 
@@ -231,7 +231,7 @@ Where the appointed person considers that no further representations are, or inf
 
 (4) In this regulation “opt-in notice” has the meaning given in paragraph (2)(a).
 
-### 10. Decision as to further procedure[^key-10cf7c2b780cef08ace76b65e57764e0]
+### 10. Decision as to further procedure[^c-10cf7c2b780cef08ace76b65e57764e0]
 
 (1) Where the appointed person does not determine the appeal without further procedure, the appointed person may determine the manner in which the appeal is to be conducted.
 
@@ -255,7 +255,7 @@ Where the appointed person considers that no further representations are, or inf
 
 (6) Notices given under regulation 12(1), rule 1(1) of the Hearing Session Rules or rule 1(1) of the Inquiry Session Rules may be given separately or combined into a single notice.
 
-### 11. Pre-examination meetings[^key-c873bf346b38e4f30c10a790026410eb]
+### 11. Pre-examination meetings[^c-c873bf346b38e4f30c10a790026410eb]
 
 (1) The appointed person may hold a meeting (“a pre-examination meeting”) to consider the manner in which the appeal or any stage of the appeal is to be conducted with a view to securing that the appeal or any stage of the appeal is conducted efficiently and expeditiously.
 
@@ -270,7 +270,7 @@ Where the appointed person considers that no further representations are, or inf
 
 (5) In this regulation “pre examination meeting” has the meaning given in paragraph (1).
 
-### 12. Written submissions[^key-80d483b08f9abb4ca94cf515e49262f2]
+### 12. Written submissions[^c-80d483b08f9abb4ca94cf515e49262f2]
 
 (1) Where the appointed person has determined that further representations should be made or further information should be provided by means of written submissions, the appointed person may request such further representations or information and is to do so by giving written notice to that effect to—
 
@@ -294,7 +294,7 @@ Where the appointed person considers that no further representations are, or inf
 
 (6) In this regulation “procedure notice response” has the meaning given in paragraph (3).
 
-### 13. Site inspections[^key-759af945d0991faa6031253d461a7f26]
+### 13. Site inspections[^c-759af945d0991faa6031253d461a7f26]
 
 (1) The appointed person may at any time make—
 
@@ -311,7 +311,7 @@ Where the appointed person considers that no further representations are, or inf
 
 (4) The appointed person is not bound to defer an inspection if any person to whom notice was given under paragraph (3) is not present at the time appointed.
 
-### 14. New evidence[^key-a68d9e56babb5736fed641ed9ab2df10]
+### 14. New evidence[^c-a68d9e56babb5736fed641ed9ab2df10]
 
 (1) If, after the conclusion of any further procedure conducted by virtue of regulation 10, the appointed person proposes to take into consideration any new evidence which is material to the determination of the appeal, the appointed person must not reach a decision on the appeal without affording the appellant, Historic Environment Scotland and any other relevant party an opportunity of making representations on such new evidence.
 
@@ -323,7 +323,7 @@ Where the appointed person considers that no further representations are, or inf
 
 ## PART 4 — Appeals under sections 9C of the Act
 
-### 15. Statement of appeal[^key-076132b61a2a5e3c53d97d081d5be8a6]
+### 15. Statement of appeal[^c-076132b61a2a5e3c53d97d081d5be8a6]
 
 (1) The appellant must at the same time as giving notice of appeal to the Scottish Ministers under section 9C(2A) of the Act submit a statement (“statement of appeal”) on a form obtained from the Scottish Ministers.
 
@@ -346,7 +346,7 @@ Where the appointed person considers that no further representations are, or inf
 - (a) this Part and Parts 1, 3 and 7 (other than regulation 23); and
 - (b) the Hearing Session Rules and the Inquiry Session Rules.
 
-### 16. Intimation of appeal to Historic Environment Scotland[^key-de1aab5f7142781b5e5ccdc55b199319]
+### 16. Intimation of appeal to Historic Environment Scotland[^c-de1aab5f7142781b5e5ccdc55b199319]
 
 (1) The appellant must at the same time as giving the notice of appeal to the Scottish Ministers send to Historic Environment Scotland a copy of—
 
@@ -365,13 +365,13 @@ Where the appointed person considers that no further representations are, or inf
 
 - (a) the notice of appeal;
 - (b) Historic Environment Scotland’s response and any comments made under paragraph (3); and
-- (c) documents which accompanied the notice of appeal or which were sent with Historic Environment Scotland’s[^key-fa6498f7a6e4e4b6e1e4330acfecc906] response,
+- (c) documents which accompanied the notice of appeal or which were sent with Historic Environment Scotland’s[^c-fa6498f7a6e4e4b6e1e4330acfecc906] response,
 
 available for inspection at an office of Historic Environment Scotland and to afford any interested party who so requests an opportunity to inspect and, where practicable, to take copies of any such documents (or any part thereof).
 
-### 17. Notification to other parties[^key-9edddf14f3c1c22e7e6302c4d87e427a]
+### 17. Notification to other parties[^c-9edddf14f3c1c22e7e6302c4d87e427a]
 
-(1) Historic Environment Scotland must not later than 14 days following notification of the appeal under regulation 16[^key-d5a1e4ec3f374d76a9d98cb95e3d9c64] give notice of the appeal to each person (other than the appellant) on whom the scheduled monument enforcement notice was served.
+(1) Historic Environment Scotland must not later than 14 days following notification of the appeal under regulation 16[^c-d5a1e4ec3f374d76a9d98cb95e3d9c64] give notice of the appeal to each person (other than the appellant) on whom the scheduled monument enforcement notice was served.
 
 (2) Notice under paragraph (1) is to—
 
@@ -384,7 +384,7 @@ available for inspection at an office of Historic Environment Scotland and to af
 
 ## PART 5 — Appeals under section 1C of the Act
 
-### 18. Notice of appeal[^key-35ba81b2ecf4550e389babbddb4d99df]
+### 18. Notice of appeal[^c-35ba81b2ecf4550e389babbddb4d99df]
 
 (1) An appeal to the Scottish Ministers under section 1C of the Act is to be made by giving notice in writing in accordance with this regulation.
 
@@ -407,7 +407,7 @@ available for inspection at an office of Historic Environment Scotland and to af
 
 ## PART 6 — Called-in applications
 
-### 19. Called-in applications[^key-ac8bac7bfca7472812456837bce0134d]
+### 19. Called-in applications[^c-ac8bac7bfca7472812456837bce0134d]
 
 (1) This Part and Parts 1, 3 and 7, the Hearing Session Rules and the Inquiry Session Rules apply to an application referred to the Scottish Ministers following a direction under section 3B(1) of the Act (referral of certain applications to the Scottish Ministers) with the modifications specified in paragraph (2).
 
@@ -421,7 +421,7 @@ available for inspection at an office of Historic Environment Scotland and to af
 
 ## PART 7 — General
 
-### 20. Non-delegated appeals[^key-40c6c6742b8f6c8a18af8e33ee60680a]
+### 20. Non-delegated appeals[^c-40c6c6742b8f6c8a18af8e33ee60680a]
 
 (1) Parts 1, 3 and 7, the Hearing Session Rules and the Inquiry Session Rules apply to a non-delegated appeal as they apply to a delegated appeal with the modifications specified in regulation 19(2)(b) and (c).
 
@@ -437,7 +437,7 @@ available for inspection at an office of Historic Environment Scotland and to af
     under paragraph 1(2) of Schedule 1A to the Act; and
 - “recalled appeal” means an appeal which is to be determined by the Scottish Ministers in accordance with a direction under paragraph 3(1) of Schedule 1A to the Act.
 
-### 21. National security[^key-d8b0226ae790939cb6715591b8f3020d]
+### 21. National security[^c-d8b0226ae790939cb6715591b8f3020d]
 
 The validity of an appeal is not affected by failure to disclose information as to—
 
@@ -446,7 +446,7 @@ The validity of an appeal is not affected by failure to disclose information as 
 
 where the notice of appeal is accompanied by a written statement from the appellant that, in the opinion of the appellant, the information relates to the matters mentioned in paragraph (a) or (b) above, and that public disclosure of that information would be contrary to the national interest.
 
-### 22. Further copies of documents etc.[^key-6f0fd539c2fb689c0c46ee8ed818d082]
+### 22. Further copies of documents etc.[^c-6f0fd539c2fb689c0c46ee8ed818d082]
 
 (1) The appointed person may require any person who has submitted documents, materials or evidence under these Regulations in connection with the appeal to—
 
@@ -455,7 +455,7 @@ where the notice of appeal is accompanied by a written statement from the appell
 
 (2) The appointed person may require Historic Environment Scotland to make copies of such documents, materials or evidence as the appointed person may specify available for inspection at an office of Historic Environment Scotland until such time as the appeal is determined and to afford to any person who so requests a reasonable opportunity to inspect and, where practicable, take copies of any such documents, materials or evidence (or any part thereof) which, or a copy of which, has been sent to Historic Environment Scotland in accordance with this regulation.
 
-### 23. Appointment of assessor[^key-a11580ea25ce90d8b548be1eae2bbbf5]
+### 23. Appointment of assessor[^c-a11580ea25ce90d8b548be1eae2bbbf5]
 
 (1) The Scottish Ministers may appoint a person to sit with the appointed person at a hearing session or inquiry session to advise the appointed person on such matters arising as the Scottish Ministers may specify (“an assessor”) and where they do so they are to notify every person entitled to appear at the inquiry session or hearing session, as the case may be, of the name of the assessor and of the matters on which the assessor is to advise the appointed person.
 
@@ -463,14 +463,14 @@ where the notice of appeal is accompanied by a written statement from the appell
 
 (3) In this regulation “assessor” has the meaning given in paragraph (1).
 
-### 24. Notice of decision[^key-f63cdb6e22a209a3e1ebf721f6a9ea18]
+### 24. Notice of decision[^c-f63cdb6e22a209a3e1ebf721f6a9ea18]
 
 The appointed person must—
 
 - (a) give notice of the decision to the appellant and to Historic Environment Scotland; and
 - (b) notify every person who has made (and did not subsequently withdraw) representations in respect of the appeal that a decision on the appeal has been made and where a copy of the notice of the decision is available for inspection.
 
-### 25. Electronic communications[^key-fa3777bf50e1a1a5d80390afecd24d6f]
+### 25. Electronic communications[^c-fa3777bf50e1a1a5d80390afecd24d6f]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -513,7 +513,7 @@ Edinburgh
 
 Regulation 2
 
-### 1. Notice of hearing session and specified matters[^key-88b555ed2222cdd41a4396b3b6294af1]
+### 1. Notice of hearing session and specified matters[^c-88b555ed2222cdd41a4396b3b6294af1]
 
 (1) Where the appointed person has determined that a hearing session should be held the appointed person is to give written notice to that effect to—
 
@@ -528,7 +528,7 @@ Regulation 2
 
 (4) A person given notice under paragraph (1) and who intends to appear at the hearing session must within 14 days of the date of such notice inform the appointed person in writing of that intention.
 
-### 2. Appearances at hearing session[^key-bcfe1e0f74418bc59ae0ffe9cab35d32]
+### 2. Appearances at hearing session[^c-bcfe1e0f74418bc59ae0ffe9cab35d32]
 
 The persons entitled to appear at a hearing session are—
 
@@ -536,13 +536,13 @@ The persons entitled to appear at a hearing session are—
 - (b) Historic Environment Scotland; and
 - (c) any other person who, in response to a procedure notice, has informed the appointed person of their intention to appear at the hearing session in accordance with rule 1(4).
 
-### 3. Date and notification of hearing session[^key-6cf579eb7a7a36f7749eecacbb498f59]
+### 3. Date and notification of hearing session[^c-6cf579eb7a7a36f7749eecacbb498f59]
 
 (1) The date, time and place at which the hearing session is to be held is to be determined (and may subsequently be varied) by the appointed person.
 
 (2) The appointed person is to give to those persons entitled to appear at the hearing session such notice of the date, time and place fixed for the holding of a hearing session (and any subsequent variation thereof) as may appear to the appointed person to be reasonable in the circumstances.
 
-### 4. Service of hearing statements and documents[^key-550bd101846d13cd282d2d2b66d4cf00]
+### 4. Service of hearing statements and documents[^c-550bd101846d13cd282d2d2b66d4cf00]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the hearing session must, by such date as is specified in the notice, send to—
 
@@ -568,7 +568,7 @@ The persons entitled to appear at a hearing session are—
 - (b) a list of documents (if any) which the person putting forward such case intends to refer to or rely on; and
 - (c) a list of any other persons who are to speak at the hearing session in respect of such case, any matters which such persons are particularly to address and any relevant qualifications of such persons to do so.
 
-### 5. Procedure at hearing[^key-c1d6ff70025e62ae8e29df47caccfdf4]
+### 5. Procedure at hearing[^c-c1d6ff70025e62ae8e29df47caccfdf4]
 
 (1) Except as otherwise provided in these Hearing Session Rules, the procedure at a hearing session shall be as the appointed person determines.
 
@@ -588,7 +588,7 @@ The persons entitled to appear at a hearing session are—
 
 Regulation 2
 
-### 1. Notice of inquiry session and specified matters[^key-17310eeeff95372fdd1105fac1948d11]
+### 1. Notice of inquiry session and specified matters[^c-17310eeeff95372fdd1105fac1948d11]
 
 (1) Where the appointed person has determined that an inquiry session is to be held the appointed person is to give written notice to that effect to—
 
@@ -603,7 +603,7 @@ Regulation 2
 
 (4) A person given notice under paragraph (1) and who intends to appear at the inquiry session must within 14 days of date of such notice inform the appointed person in writing of that intention.
 
-### 2. Appearances at inquiry session[^key-ea5583b7b052902626bc3267dd0f276f]
+### 2. Appearances at inquiry session[^c-ea5583b7b052902626bc3267dd0f276f]
 
 The persons entitled to appear at the inquiry session are—
 
@@ -611,7 +611,7 @@ The persons entitled to appear at the inquiry session are—
 - (b) Historic Environment Scotland; and
 - (c) any other person who, in a response to a procedure notice, has informed the appointed person of their intention to appear at the inquiry session in accordance with rule 1(4).
 
-### 3. Date and notification of inquiry[^key-e0dd58af82b9077c1f274deea616265c]
+### 3. Date and notification of inquiry[^c-e0dd58af82b9077c1f274deea616265c]
 
 (1) The date, time and place for the holding of the inquiry session is to be fixed (and may subsequently be varied) by the appointed person.
 
@@ -626,7 +626,7 @@ The persons entitled to appear at the inquiry session are—
   such notices of the inquiry session as the appointed person may direct; or
 - (b) to serve notice of the inquiry session in such form and on such persons or classes of persons as the appointed person may specify.
 
-### 4. Service of inquiry statements, documents and precognitions[^key-46dacf79e2a2da488e55211775ce12e5]
+### 4. Service of inquiry statements, documents and precognitions[^c-46dacf79e2a2da488e55211775ce12e5]
 
 (1) Where required to do so by notice given by the appointed person, a person entitled to appear at the inquiry session must, by such date as is specified in the notice, send to—
 
@@ -652,7 +652,7 @@ The persons entitled to appear at the inquiry session are—
   - (c) a list of witnesses specifying the persons who are to give, or be called to give, evidence at the inquiry session, the matters in respect of which such persons are to give evidence and the relevant qualifications of such persons to do so; and
 - “precognition” means a written statement of the evidence which it is proposed that a witness will give to the inquiry session.
 
-### 5. Procedure at inquiry session[^key-7412b37d806616f00e0a8ee88638c299]
+### 5. Procedure at inquiry session[^c-7412b37d806616f00e0a8ee88638c299]
 
 (1) Except as otherwise provided in these Inquiry Session Rules, the procedure at the inquiry session shall be as the appointed person determines.
 
@@ -683,9 +683,9 @@ which the appointed person considers to be irrelevant or repetitious.
 
 Regulation 4(1) and (3)
 
-### PART 1 — Notice for service on owner of the building[^key-cc528e17e02db000920af56b83d50c39]
+### PART 1 — Notice for service on owner of the building[^c-cc528e17e02db000920af56b83d50c39]
 
-### PART 2 — Notice for publication in local newspaper[^key-b42a1fe72c530ce43d44b5a1ac31d5c6]
+### PART 2 — Notice for publication in local newspaper[^c-b42a1fe72c530ce43d44b5a1ac31d5c6]
 
 EXPLANATORY NOTE
 
@@ -713,84 +713,84 @@ Part 7 of the Regulations contains general provisions. Regulation 20 sets out ho
 
 [^f00001]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46). Sections 1E, 3C, 4B, 4D were respectively inserted by paragraphs 32, 35 and 33 of schedule 2 to the Historic Environment Scotland Act [2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19) (“the 2014 Act). Section 23B was inserted by section 21 of the 2014 Act. Section 9C was inserted by section 6 of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3) and is amended by paragraph 19 of schedule 2 to the 2014 Act. Section 9CB was inserted by paragraph 20 of schedule 2 to the 2014 Act.
 
-[^key-758393aa640444e69e26867e94ce8d45]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/231/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-758393aa640444e69e26867e94ce8d45]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/231/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-d849738d8726a8644fc88e5598081c1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/231/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-d849738d8726a8644fc88e5598081c1e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/231/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-76c7d35f4a8d2370046685a16dc5a344]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/231/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-76c7d35f4a8d2370046685a16dc5a344]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/231/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-1723ddc170a96338d7cc8375124407f5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/231/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-1723ddc170a96338d7cc8375124407f5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/231/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-36a283b5e483a3dcdb6d8c51853b12da]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/231/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-36a283b5e483a3dcdb6d8c51853b12da]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/231/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-6a4ef0f297b74cf425fd15daaac32e41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/231/regulation/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-6a4ef0f297b74cf425fd15daaac32e41]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/231/regulation/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-0bd5d287b471cbc12b72385bab7197a6]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2015/231/regulation/6/4) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/3/2)
+[^c-0bd5d287b471cbc12b72385bab7197a6]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2015/231/regulation/6/4) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2015/328/regulation/3/2)
 
-[^key-df1ac358f031529fdb8fe27470c6d773]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/231/regulation/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-df1ac358f031529fdb8fe27470c6d773]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/231/regulation/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-a22138cc39114ddf6bf07b3fd6fd5af9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/231/regulation/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-a22138cc39114ddf6bf07b3fd6fd5af9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/231/regulation/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-cf42e9e70c35b62aa00de7c8e4124b82]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/231/regulation/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-cf42e9e70c35b62aa00de7c8e4124b82]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/231/regulation/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-10cf7c2b780cef08ace76b65e57764e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/231/regulation/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-10cf7c2b780cef08ace76b65e57764e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/231/regulation/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-c873bf346b38e4f30c10a790026410eb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/231/regulation/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-c873bf346b38e4f30c10a790026410eb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/231/regulation/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-80d483b08f9abb4ca94cf515e49262f2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/231/regulation/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-80d483b08f9abb4ca94cf515e49262f2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/231/regulation/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-759af945d0991faa6031253d461a7f26]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/231/regulation/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-759af945d0991faa6031253d461a7f26]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/231/regulation/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-a68d9e56babb5736fed641ed9ab2df10]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/231/regulation/14) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-a68d9e56babb5736fed641ed9ab2df10]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/231/regulation/14) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-076132b61a2a5e3c53d97d081d5be8a6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/231/regulation/15) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-076132b61a2a5e3c53d97d081d5be8a6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/231/regulation/15) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-de1aab5f7142781b5e5ccdc55b199319]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/231/regulation/16) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-de1aab5f7142781b5e5ccdc55b199319]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/231/regulation/16) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-fa6498f7a6e4e4b6e1e4330acfecc906]: Textual amendment: Words in [reg. 16(4)(c)](https://www.legislation.gov.uk/ssi/2015/231/regulation/16/4/c) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2015/328/regulation/3/3)
+[^c-fa6498f7a6e4e4b6e1e4330acfecc906]: Textual amendment: Words in [reg. 16(4)(c)](https://www.legislation.gov.uk/ssi/2015/231/regulation/16/4/c) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2015/328/regulation/3/3)
 
-[^key-9edddf14f3c1c22e7e6302c4d87e427a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/231/regulation/17) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-9edddf14f3c1c22e7e6302c4d87e427a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/231/regulation/17) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-d5a1e4ec3f374d76a9d98cb95e3d9c64]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/17/1) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2015/328/regulation/3/4)
+[^c-d5a1e4ec3f374d76a9d98cb95e3d9c64]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/17/1) substituted (10.10.2015) by [The Scheduled Monuments and Listed Buildings (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/328)](https://www.legislation.gov.uk/ssi/2015/328), [regs. 1](https://www.legislation.gov.uk/ssi/2015/328/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2015/328/regulation/3/4)
 
-[^key-35ba81b2ecf4550e389babbddb4d99df]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/231/regulation/18) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-35ba81b2ecf4550e389babbddb4d99df]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/231/regulation/18) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-ac8bac7bfca7472812456837bce0134d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/231/regulation/19) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-ac8bac7bfca7472812456837bce0134d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/231/regulation/19) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-40c6c6742b8f6c8a18af8e33ee60680a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/231/regulation/20) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-40c6c6742b8f6c8a18af8e33ee60680a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/231/regulation/20) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-d8b0226ae790939cb6715591b8f3020d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/231/regulation/21) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-d8b0226ae790939cb6715591b8f3020d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/231/regulation/21) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-6f0fd539c2fb689c0c46ee8ed818d082]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/231/regulation/22) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-6f0fd539c2fb689c0c46ee8ed818d082]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/231/regulation/22) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-a11580ea25ce90d8b548be1eae2bbbf5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/231/regulation/23) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-a11580ea25ce90d8b548be1eae2bbbf5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/231/regulation/23) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-f63cdb6e22a209a3e1ebf721f6a9ea18]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/231/regulation/24) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-f63cdb6e22a209a3e1ebf721f6a9ea18]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/231/regulation/24) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-fa3777bf50e1a1a5d80390afecd24d6f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/231/regulation/25) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-fa3777bf50e1a1a5d80390afecd24d6f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/231/regulation/25) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-88b555ed2222cdd41a4396b3b6294af1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-88b555ed2222cdd41a4396b3b6294af1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-bcfe1e0f74418bc59ae0ffe9cab35d32]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-bcfe1e0f74418bc59ae0ffe9cab35d32]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-6cf579eb7a7a36f7749eecacbb498f59]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-6cf579eb7a7a36f7749eecacbb498f59]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-550bd101846d13cd282d2d2b66d4cf00]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-550bd101846d13cd282d2d2b66d4cf00]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-c1d6ff70025e62ae8e29df47caccfdf4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-c1d6ff70025e62ae8e29df47caccfdf4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2015/231/schedule/1/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-17310eeeff95372fdd1105fac1948d11]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-17310eeeff95372fdd1105fac1948d11]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-ea5583b7b052902626bc3267dd0f276f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-ea5583b7b052902626bc3267dd0f276f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-e0dd58af82b9077c1f274deea616265c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-e0dd58af82b9077c1f274deea616265c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-46dacf79e2a2da488e55211775ce12e5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-46dacf79e2a2da488e55211775ce12e5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-7412b37d806616f00e0a8ee88638c299]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-7412b37d806616f00e0a8ee88638c299]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2015/231/schedule/2/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-cc528e17e02db000920af56b83d50c39]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2015/231/schedule/3/part/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-cc528e17e02db000920af56b83d50c39]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2015/231/schedule/3/part/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
 
-[^key-b42a1fe72c530ce43d44b5a1ac31d5c6]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ssi/2015/231/schedule/3/part/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)
+[^c-b42a1fe72c530ce43d44b5a1ac31d5c6]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ssi/2015/231/schedule/3/part/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/231/regulation/1/1)

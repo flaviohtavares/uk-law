@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Disapplication of legislative provisions[^key-e19ea1de5862757f5546fe6f338ff3df]
+## 6. Disapplication of legislative provisions[^c-e19ea1de5862757f5546fe6f338ff3df]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ The following provisions do not apply in relation to the construction of any wor
 
 ## Annotations
 
-[^key-e19ea1de5862757f5546fe6f338ff3df]: Commencement: Art. 6 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-e19ea1de5862757f5546fe6f338ff3df]: Commencement: Art. 6 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
 [^f00019]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

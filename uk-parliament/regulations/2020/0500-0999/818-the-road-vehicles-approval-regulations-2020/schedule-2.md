@@ -24,18 +24,18 @@ Regulation 18(8)(a)
 
 ### PART 1 — General provisions
 
-#### 1. Requirements applicable[^key-6eaea33e63aa05096e2d7f9e36fc78fe]
+#### 1. Requirements applicable[^c-6eaea33e63aa05096e2d7f9e36fc78fe]
 
 The technical requirements which must be met by Part 2 vehicles are the requirements specified in Part 2 of this Schedule.
 
-**2.**[^key-b7451d584e689be26f4f9ca537a41201] The technical requirements which must be met by Part 3 vehicles are—
+**2.**[^c-b7451d584e689be26f4f9ca537a41201] The technical requirements which must be met by Part 3 vehicles are—
 
 - (a) the requirements specified in Part 3 of this Schedule, and
 - (b) the requirements specified in Part 2 of this Schedule in the subject areas which are not listed in Part 3.
 
-**3.**[^key-a071cd2302c96d0a2430379ccf772998] The technical requirements which must be met by vehicles other than Part 2 or Part 3 vehicles are the requirements specified in Part 4 of this Schedule.
+**3.**[^c-a071cd2302c96d0a2430379ccf772998] The technical requirements which must be met by vehicles other than Part 2 or Part 3 vehicles are the requirements specified in Part 4 of this Schedule.
 
-#### 4. Interpretation[^key-42996ee215684e646cdecd3f5bbe1421]
+#### 4. Interpretation[^c-42996ee215684e646cdecd3f5bbe1421]
 
 (1) In this Schedule—
 
@@ -64,11 +64,11 @@ The technical requirements which must be met by Part 2 vehicles are the requirem
 - (a) as at the date of any specified last amendment, or
 - (b) where it has been revoked and no last amendment is specified, immediately before that revocation,
 
-as that Directive, Regulation or Decision has effect in EU law[^key-b6a1a94d59bf69ee700e93cb5981cf72].
+as that Directive, Regulation or Decision has effect in EU law[^c-b6a1a94d59bf69ee700e93cb5981cf72].
 
 (4) A reference in column 2 or 3 of a table in this Schedule to any Directive, Regulation or Decision is a reference to the version of that Directive, Regulation or Decision mentioned in the corresponding entry in column 1 of the table concerned.
 
-**5.**[^key-31349573cfac222b845f26b4ce60fdb8] (1) A vehicle is a personally imported vehicle if either the conditions in sub-paragraph (2) or those in sub-paragraph (3) are satisfied (“A” being, in the following sub-paragraphs, the applicant for individual approval).
+**5.**[^c-31349573cfac222b845f26b4ce60fdb8] (1) A vehicle is a personally imported vehicle if either the conditions in sub-paragraph (2) or those in sub-paragraph (3) are satisfied (“A” being, in the following sub-paragraphs, the applicant for individual approval).
 
 (2) The conditions in this sub-paragraph are satisfied if—
 
@@ -100,7 +100,7 @@ as that Directive, Regulation or Decision has effect in EU law[^key-b6a1a94d59bf
 
 (8) In this paragraph, “**serving member of the Armed Forces**” means a person who is employed by Her Majesty's air forces, Her Majesty's military forces or Her Majesty's naval forces but who is not a serving member of any of the reserve forces.
 
-**6.**[^key-e7bd14536fdca6935d74a761040f7a15] (1) A vehicle is an amateur built vehicle if—
+**6.**[^c-e7bd14536fdca6935d74a761040f7a15] (1) A vehicle is an amateur built vehicle if—
 
 - (a) the vehicle was—
   - (i) constructed or assembled, or
@@ -114,11 +114,11 @@ as that Directive, Regulation or Decision has effect in EU law[^key-b6a1a94d59bf
 
 (2) For the purposes of this paragraph, a relevant individual in relation to a motor vehicle is an individual who does not, at any time during the period when the construction or assembly of the vehicle was being carried out, carry on a business in the course of which motor vehicles are normally constructed, assembled or modified.
 
-**7.**[^key-74631c97207072275b50ec6515f4bca9] (1) A vehicle is a vehicle manufactured in very low volume if the condition in sub-paragraph (2) is satisfied.
+**7.**[^c-74631c97207072275b50ec6515f4bca9] (1) A vehicle is a vehicle manufactured in very low volume if the condition in sub-paragraph (2) is satisfied.
 
 (2) The condition is that the total number of vehicles of the family of types to which the vehicle in question belongs which are manufactured in the world during any period of 12 months falling within the period of 36 months immediately preceding the month in which the vehicle was manufactured does not exceed 500.
 
-**8.**[^key-6724f86e4cc744128d92fa2b2eeefe75] A vehicle is a vehicle manufactured using parts of a registered vehicle if—
+**8.**[^c-6724f86e4cc744128d92fa2b2eeefe75] A vehicle is a vehicle manufactured using parts of a registered vehicle if—
 
 - (a) it is constructed or assembled by a person carrying on a business in the course of which motor vehicles are normally constructed or assembled,
 - (b) it is equipped with an engine which has previously been used as the engine of another vehicle which had been registered under the 1994 Act or any earlier Act providing for the licensing and registration of mechanically propelled vehicles, and
@@ -130,7 +130,7 @@ as that Directive, Regulation or Decision has effect in EU law[^key-b6a1a94d59bf
   - (v) transmission, or
   - (vi) steering assembly.
 
-**9.**[^key-9ac34f4623c129a65493c0ae2d20ac4f] (1) A vehicle is a rebuilt vehicle if it—
+**9.**[^c-9ac34f4623c129a65493c0ae2d20ac4f] (1) A vehicle is a rebuilt vehicle if it—
 
 - (a) is a vehicle to which the approval authority is required to assign a vehicle identification number,
 - (b) is not an amateur built vehicle or a vehicle manufactured using parts of a registered vehicle, and
@@ -144,7 +144,7 @@ as that Directive, Regulation or Decision has effect in EU law[^key-b6a1a94d59bf
 - (b) has previously been assigned under this Schedule, or
 - (c) if it does not fall within paragraph (a) or (b), is adequate for the purpose of enabling the vehicle to be identified.
 
-**10.**[^key-ad04637ac940a6f21059981b8b67cd00] For the purpose of determining whether a multi-purpose vehicle falls into category M<sub>1</sub> or N, if the manufacturer so requests a vehicle which has—
+**10.**[^c-ad04637ac940a6f21059981b8b67cd00] For the purpose of determining whether a multi-purpose vehicle falls into category M<sub>1</sub> or N, if the manufacturer so requests a vehicle which has—
 
 - (a) 4 or more seats,
 - (b) a load area not exceeding 40% of its length, and
@@ -154,7 +154,7 @@ may be categorised as M<sub>1</sub>.
 
 ### PART 2 — Requirements for Part 2 vehicles
 
-#### CHAPTER 1[^key-5d5fa82019ca562bd2115f54324fa700]
+#### CHAPTER 1[^c-5d5fa82019ca562bd2115f54324fa700]
 
 <table>
 <tbody>
@@ -355,7 +355,7 @@ may be categorised as M<sub>1</sub>.
 
 [^c24306091][^c24306101][^c24306111][^c24306121][^c24306131][^c24306141][^c24306151][^c24306161][^c24306171][^c24306181][^c24306191][^c24306201][^c24306211]
 
-#### CHAPTER 2[^key-87b33e13d56dcf4539c5112822aaa32b]
+#### CHAPTER 2[^c-87b33e13d56dcf4539c5112822aaa32b]
 
 ##### SECTION 1
 
@@ -412,7 +412,7 @@ The anchorages will meet the test performance requirements if—
 
 Instead of complying with Section 1 an alternative wheelchair tie-down system, docking system or occupant restraint system may be fitted. This may include a rearward facing wheelchair arrangement with appropriate safety features. Evidence must be provided to the approval authority that the system offers an equivalent level of occupant protection for the wheelchair user.
 
-### PART 3 — Requirements for Part 3 vehicles[^key-206c60785bd617827b694477fd586ddf]
+### PART 3 — Requirements for Part 3 vehicles[^c-206c60785bd617827b694477fd586ddf]
 
 <table>
 <tbody>
@@ -471,7 +471,7 @@ Instead of complying with Section 1 an alternative wheelchair tie-down system, d
 
 [^c24306221][^c24306231][^c24306241][^c24306251][^c24306261][^c24306271][^c24306281][^c24306291]
 
-### PART 4 — Requirements for other vehicles[^key-c178d62fb0f7ac29b5694c96c4514a8e]
+### PART 4 — Requirements for other vehicles[^c-c178d62fb0f7ac29b5694c96c4514a8e]
 
 <table>
 <tbody>
@@ -679,7 +679,7 @@ Instead of complying with Section 1 an alternative wheelchair tie-down system, d
 </tbody>
 </table>
 
-[^key-781f2af827296f376081fe5a0beff236]
+[^c-781f2af827296f376081fe5a0beff236]
 
 The following table may be used as an alternative to the Table 7.6.1.1 in Annex 3 of UNECE Regulation 107.02 (minimum number of service doors).
 
@@ -701,31 +701,31 @@ Table 2
 
 ## Annotations
 
-[^key-6eaea33e63aa05096e2d7f9e36fc78fe]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-6eaea33e63aa05096e2d7f9e36fc78fe]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-b7451d584e689be26f4f9ca537a41201]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-b7451d584e689be26f4f9ca537a41201]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-a071cd2302c96d0a2430379ccf772998]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-a071cd2302c96d0a2430379ccf772998]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-42996ee215684e646cdecd3f5bbe1421]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-42996ee215684e646cdecd3f5bbe1421]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-b6a1a94d59bf69ee700e93cb5981cf72]: Textual amendment: Words in [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/2/paragraph/4/3) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/19/a)
+[^c-b6a1a94d59bf69ee700e93cb5981cf72]: Textual amendment: Words in [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/2/paragraph/4/3) inserted (31.12.2022 at 11.00 p.m.) by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/19/a)
 
-[^key-31349573cfac222b845f26b4ce60fdb8]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-31349573cfac222b845f26b4ce60fdb8]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-e7bd14536fdca6935d74a761040f7a15]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-e7bd14536fdca6935d74a761040f7a15]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-74631c97207072275b50ec6515f4bca9]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-74631c97207072275b50ec6515f4bca9]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-6724f86e4cc744128d92fa2b2eeefe75]: Commencement: Sch. 2 para. 8 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-6724f86e4cc744128d92fa2b2eeefe75]: Commencement: Sch. 2 para. 8 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-9ac34f4623c129a65493c0ae2d20ac4f]: Commencement: Sch. 2 para. 9 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-9ac34f4623c129a65493c0ae2d20ac4f]: Commencement: Sch. 2 para. 9 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
 [^c24306081]: Marginal citation: OJ No. L 24, 30.1.1976, p. 1, as last amended by Directive 2013/15/EU (OJ No. L 158, 10.6.2013, p. 172). This Directive was revoked by Regulation (EC) No 661/2009 (OJ No. L 200, 31.7.2009, p. 1) with effect from 31st October 2010.
 
-[^key-ad04637ac940a6f21059981b8b67cd00]: Commencement: Sch. 2 para. 10 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-ad04637ac940a6f21059981b8b67cd00]: Commencement: Sch. 2 para. 10 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-5d5fa82019ca562bd2115f54324fa700]: Commencement: Sch. 2 Pt. 2 Ch. 2 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-5d5fa82019ca562bd2115f54324fa700]: Commencement: Sch. 2 Pt. 2 Ch. 2 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
 [^c24306091]: Marginal citation: [S.I. 1986/1078](https://www.legislation.gov.uk/uksi/1986/1078), as last amended by [S.I. 2019/734](https://www.legislation.gov.uk/uksi/2019/734). The definition of “emissions publication” in Schedule 7B was substituted by [S.I. 2017/1251](https://www.legislation.gov.uk/uksi/2017/1251).
 
@@ -753,9 +753,9 @@ Table 2
 
 [^c24306211]: Marginal citation: OJ No. L 44, 16.2.2000, p. 1.
 
-[^key-87b33e13d56dcf4539c5112822aaa32b]: Commencement: Sch. 2 Pt. 2 Ch. 2 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-87b33e13d56dcf4539c5112822aaa32b]: Commencement: Sch. 2 Pt. 2 Ch. 2 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-206c60785bd617827b694477fd586ddf]: Commencement: Sch. 2 Pt. 3 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-206c60785bd617827b694477fd586ddf]: Commencement: Sch. 2 Pt. 3 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
 [^c24306221]: Marginal citation: OJ No. L 371, 19.12.1992, p. 1.
 
@@ -773,6 +773,6 @@ Table 2
 
 [^c24306291]: Marginal citation: OJ No. L 169, 8.7.1996, p. 1.
 
-[^key-c178d62fb0f7ac29b5694c96c4514a8e]: Commencement: Sch. 2 Pt. 4 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-c178d62fb0f7ac29b5694c96c4514a8e]: Commencement: Sch. 2 Pt. 4 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-781f2af827296f376081fe5a0beff236]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2020/818/schedule/2/part/4) table inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/19/b)
+[^c-781f2af827296f376081fe5a0beff236]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2020/818/schedule/2/part/4) table inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [19(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/19/b)

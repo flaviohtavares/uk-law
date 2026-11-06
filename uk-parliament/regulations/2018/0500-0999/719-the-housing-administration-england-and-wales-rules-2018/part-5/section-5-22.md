@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.22. Payments of a periodical nature[^key-cde21fbc571a40d9da4c27e83c6698dd]
+## 5.22. Payments of a periodical nature[^c-cde21fbc571a40d9da4c27e83c6698dd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cde21fbc571a40d9da4c27e83c6698dd]: Commencement: Rule 5.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-cde21fbc571a40d9da4c27e83c6698dd]: Commencement: Rule 5.22 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

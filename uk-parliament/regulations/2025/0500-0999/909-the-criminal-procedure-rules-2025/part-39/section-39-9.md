@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.9. Conditions of bail pending appeal or retrial[^key-679eab4b7a44961c994164db62fa328e]
+## 39.9. Conditions of bail pending appeal or retrial[^c-679eab4b7a44961c994164db62fa328e]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-679eab4b7a44961c994164db62fa328e]: Commencement: [Rule 39.9](https://www.legislation.gov.uk/uksi/2025/909/rule/39.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-679eab4b7a44961c994164db62fa328e]: Commencement: [Rule 39.9](https://www.legislation.gov.uk/uksi/2025/909/rule/39.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00970]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 5 was amended by section 65 of, and Schedule 12 to, the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), section 60 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), paragraph 1 of Schedule 3 to the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), paragraph 53 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6), section 129(1) of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), paragraph 182 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), paragraph 48 of Schedule 3, paragraphs 1 and 2 of Schedule 36, and Parts 2, 4 and 12 of Schedule 37 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 208 of, and paragraphs 33 and 35 of Schedule 21 to, the Legal Services Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).

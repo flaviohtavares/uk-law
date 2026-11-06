@@ -44,11 +44,11 @@ To be laid before Parliament
 
 The Secretary of State makes the following Order in exercise of the powers conferred by Article 61(1) of, and paragraphs 2 and 3 of Schedule 6 to, the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00001].
 
-## 1. Citation and Commencement[^key-8ce588264fee6c27416051541dc08060]
+## 1. Citation and Commencement[^c-8ce588264fee6c27416051541dc08060]
 
 This Order may be cited as the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008 and shall come into operation on 16th June 2008.
 
-## 2. Interpretation[^key-1517d5ec11915c2a0b72ff5fc4990f97]
+## 2. Interpretation[^c-1517d5ec11915c2a0b72ff5fc4990f97]
 
 In this Order—
 
@@ -58,7 +58,7 @@ In this Order—
 - “Care Tribunal” means the Care Tribunal established under Article 44 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00004];
 - “disqualification order” means an order of the court under Article 23 or 24 of the 2003 Order[^f00005].
 
-## 3. Inclusion in the children’s barred list: persons disqualified from working with children[^key-f011281c4aee5ba98fcd5f2921a57c6b]
+## 3. Inclusion in the children’s barred list: persons disqualified from working with children[^c-f011281c4aee5ba98fcd5f2921a57c6b]
 
 (1) This Article applies to a person, other than a person to whom Article 4(1) applies, (“X”)—
 
@@ -66,20 +66,20 @@ In this Order—
   - (i) included (otherwise than provisionally) in the list kept under Article 3 of the 2003 Order (persons unsuitable to work with children);
   - (ii) subject to a disqualification order; or
   - (iii) included in the list kept for the purposes of the 2007 Regulations[^f00006] (prohibition from teaching etc);
-- (aa)[^key-c6a3942727a3c96517b791b621110c36] who does not meet any of the criteria prescribed for the purposes of paragraph 1 or 2 of Schedule 1 to the Order under the Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009;
+- (aa)[^c-c6a3942727a3c96517b791b621110c36] who does not meet any of the criteria prescribed for the purposes of paragraph 1 or 2 of Schedule 1 to the Order under the Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009;
 - (b) who has no appeal or review outstanding under the 2003 Order[^f00007] or representations, appeal or revocation outstanding under the 2007 Regulations[^f00008] or in whose case the time limit for making representations or appealing under those Orders has expired; and
-- (c) who is referred by the Department of Health, Social Services and Public Safety or the Department of Education to IBB,[^key-92324b19dbf40a94992970ad809e8a75] ISA or DBS, as the case may be .
+- (c) who is referred by the Department of Health, Social Services and Public Safety or the Department of Education to IBB,[^c-92324b19dbf40a94992970ad809e8a75] ISA or DBS, as the case may be .
 
-(2) DBS[^key-4464003e4b72ec6070194a3863200084] must—
+(2) DBS[^c-4464003e4b72ec6070194a3863200084] must—
 
 - (a) include X in the children’s barred list[^f00010], and
 - (b) subject to paragraphs (5) and (7), give X the opportunity to make representations as to why X should be removed from the children’s barred list.
 
 (3) Regulation 3 (representations) of the Safeguarding Vulnerable Groups (Barring Procedure) Regulations (Northern Ireland) 2008[^f00011] applies in relation to representations made under paragraph (2)(b) as it applies in relation to representations made under Schedule 1 to the Order.
 
-(4) DBS[^key-22bb847797a22ab3d6021ba2cde3f547] must consider any representations made by X and if it appears to DBS in light of those representations that it is not appropriate for X to be included in the children’s barred list, it must remove X from that list.
+(4) DBS[^c-22bb847797a22ab3d6021ba2cde3f547] must consider any representations made by X and if it appears to DBS in light of those representations that it is not appropriate for X to be included in the children’s barred list, it must remove X from that list.
 
-(5) Part 3 of Schedule 1 to the Order in its application to the functions of DBS[^key-d7a8821325879724fc51425a44fc7be6] under this Article has effect subject to the following modifications—
+(5) Part 3 of Schedule 1 to the Order in its application to the functions of DBS[^c-d7a8821325879724fc51425a44fc7be6] under this Article has effect subject to the following modifications—
 
 - (a) in paragraph 16(1)—
   - (i) for “any provision of this Schedule” substitute “Article 3 of the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008”; and
@@ -113,7 +113,7 @@ In this Order—
 
 (7) Paragraph (2)(b) does not apply to a person if any of the criteria prescribed for the purposes of paragraph 1 of Schedule 1 to the Order as it has effect for the purposes of this paragraph is satisfied in relation to that person.
 
-## 4. Inclusion in the children’s barred list: on transfer from the Pre-Employment Consultancy Service Register[^key-7086c4f05fb029abdf1bc133bb8d9f18]
+## 4. Inclusion in the children’s barred list: on transfer from the Pre-Employment Consultancy Service Register[^c-7086c4f05fb029abdf1bc133bb8d9f18]
 
 (1) This Article applies to a person (“Y”)—
 
@@ -122,28 +122,28 @@ In this Order—
   - (ii) is not subject to a disqualification order; and
   - (iii) does not satisfy any of the conditions C to F specified in Part 1 of the Schedule to the 2007 Regulations;
 - (b) who has no appeal or review outstanding under the 2003 Order or in whose case the time limit for appealing under that Order has expired; and
-- (c) who is referred by the Department of Health, Social Services and Public Safety or the Department of Education to IBB,[^key-02dd7c87627a4d2b8343a030a30e6428] ISA or DBS, as the case may be .
+- (c) who is referred by the Department of Health, Social Services and Public Safety or the Department of Education to IBB,[^c-02dd7c87627a4d2b8343a030a30e6428] ISA or DBS, as the case may be .
 
-(2) DBS[^key-7ba6783692bc70a2d93f48a33e67c411] must consider including Y in the children’s barred list in accordance with paragraphs 3 to 5 of Schedule 1 to the Order.
+(2) DBS[^c-7ba6783692bc70a2d93f48a33e67c411] must consider including Y in the children’s barred list in accordance with paragraphs 3 to 5 of Schedule 1 to the Order.
 
-## 5. Inclusion in the adults’ barred list: persons considered unsuitable to work with vulnerable adults[^key-3cf04715d3fef29bafae72b60b3d89fe]
+## 5. Inclusion in the adults’ barred list: persons considered unsuitable to work with vulnerable adults[^c-3cf04715d3fef29bafae72b60b3d89fe]
 
 (1) This article applies to a person (“X”)—
 
 - (a) who is included (otherwise than provisionally) in the list kept under Article 35 of the 2003 Order (individuals considered unsuitable to work with vulnerable adults);
 - (b) who has no appeal or review outstanding under the 2003 Order[^f00013] or in whose case the time limit for appealing under that Order has expired; and
-- (c) who is referred by the Department of Health, Social Services and Public Safety to IBB,[^key-c62d998360e364d75e87562f625cab63] ISA or DBS .
+- (c) who is referred by the Department of Health, Social Services and Public Safety to IBB,[^c-c62d998360e364d75e87562f625cab63] ISA or DBS .
 
-(2) DBS[^key-c0e52c74f7e5fec016e9f92930bdb992] must—
+(2) DBS[^c-c0e52c74f7e5fec016e9f92930bdb992] must—
 
 - (a) include X in the adults’ barred list[^f00014]; and
 - (b) subject to paragraphs (5) and (7), give X the opportunity to make representations as to why he should be removed from the adults’ barred list.
 
 (3) Regulation 3 (representations) of the Safeguarding Vulnerable Groups (Barring Procedure) Regulations (Northern Ireland) 2008 applies in relation to representations made under paragraph (2)(b) as it applies in relation to representations made under Schedule 1 to the Order.
 
-(4) DBS[^key-8bed3beb6e16f73847e468b6fefbc5ae] must consider any representations made by X and if it appears to DBS in light of those representations that it is not appropriate for X to be included in the adults’ barred list, it must remove X from that list.
+(4) DBS[^c-8bed3beb6e16f73847e468b6fefbc5ae] must consider any representations made by X and if it appears to DBS in light of those representations that it is not appropriate for X to be included in the adults’ barred list, it must remove X from that list.
 
-(5) Part 3 of Schedule 1 to the Order in its application to the functions of DBS[^key-3860b0a1e007b038f2fbd47679f0012d] under this Article has effect subject to the following modifications—
+(5) Part 3 of Schedule 1 to the Order in its application to the functions of DBS[^c-3860b0a1e007b038f2fbd47679f0012d] under this Article has effect subject to the following modifications—
 
 - (a) in paragraph 16(1)—
   - (i) for “any provision of this Schedule” substitute “Article 5 of the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008”; and
@@ -171,7 +171,7 @@ In this Order—
 
 (7) Paragraph (2)(b) does not apply to a person if any of the criteria prescribed for the purposes of paragraph 7 of Schedule 1 to the Order as it has effect for the purposes of this paragraph is satisfied in relation to that person.
 
-## 6. Inclusion in the adults’ barred list: on transfer from the Pre-Employment Consultancy Service Register[^key-a30b6cc1ca82b212ee2f908c393afb7d]
+## 6. Inclusion in the adults’ barred list: on transfer from the Pre-Employment Consultancy Service Register[^c-a30b6cc1ca82b212ee2f908c393afb7d]
 
 (1) This Article applies to a person (“Y”)—
 
@@ -180,9 +180,9 @@ In this Order—
   - (ii) is not subject to a disqualification order; and
   - (iii) does not satisfy any of the conditions C to F specified in Part 1 of the Schedule to the 2007 Regulations;
 - (b) who has no appeal or review outstanding under the 2003 Order or in whose case the time limit for appealing under that Act has expired; and
-- (c) who is referred by the Department of Health, Social Services and Public Safety to IBB,[^key-2c8bcb0618d6c8ff3bf07e6d8156f478] ISA or DBS, as the case may be .
+- (c) who is referred by the Department of Health, Social Services and Public Safety to IBB,[^c-2c8bcb0618d6c8ff3bf07e6d8156f478] ISA or DBS, as the case may be .
 
-(2) DBS[^key-b70f707cac5bf37d9c415984b403087d] must consider including Y in the adults’ barred list in accordance with paragraphs 9 to 11 of Schedule 1 to the Order.
+(2) DBS[^c-b70f707cac5bf37d9c415984b403087d] must consider including Y in the adults’ barred list in accordance with paragraphs 9 to 11 of Schedule 1 to the Order.
 
 Paul Goggins
 
@@ -212,9 +212,9 @@ Articles 3(3) and 5(3) provide that regulation 3 of the Safeguarding Vulnerable 
 
 [^f00001]: Footnote: [S.I. 2007 No. 1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-8ce588264fee6c27416051541dc08060]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
+[^c-8ce588264fee6c27416051541dc08060]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
 
-[^key-1517d5ec11915c2a0b72ff5fc4990f97]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2008/200/article/2) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
+[^c-1517d5ec11915c2a0b72ff5fc4990f97]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2008/200/article/2) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
 
 [^f00002]: Footnote: [S.I. 2003 No. 417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417) as amended by [S.I. 2003 No. 431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431) and which is to be repealed by Schedule 8 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (“the 2007 Order”) which was not in operation on the making of this Order.
 
@@ -224,52 +224,52 @@ Articles 3(3) and 5(3) provide that regulation 3 of the Safeguarding Vulnerable 
 
 [^f00005]: Footnote: An order of the court made under Article 23 or 24 disqualifies the person in respect of whom it is made from working with children.
 
-[^key-f011281c4aee5ba98fcd5f2921a57c6b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2008/200/article/3) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
+[^c-f011281c4aee5ba98fcd5f2921a57c6b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2008/200/article/3) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
 
 [^f00006]: Footnote: See regulation 8 of the 2007 Regulations.
 
-[^key-c6a3942727a3c96517b791b621110c36]: Textual amendment: [Art. 3(1)(aa)](https://www.legislation.gov.uk/nisr/2008/200/article/3/1/aa) inserted (13.3.2009) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/39)](https://www.legislation.gov.uk/nisr/2009/39), [regs. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1), [9(2)](https://www.legislation.gov.uk/nisr/2009/39/regulation/9/2)
+[^c-c6a3942727a3c96517b791b621110c36]: Textual amendment: [Art. 3(1)(aa)](https://www.legislation.gov.uk/nisr/2008/200/article/3/1/aa) inserted (13.3.2009) by [The Safeguarding Vulnerable Groups (Prescribed Criteria and Miscellaneous Provisions) Regulations (Northern Ireland) 2009 (S.R. 2009/39)](https://www.legislation.gov.uk/nisr/2009/39), [regs. 1](https://www.legislation.gov.uk/nisr/2009/39/regulation/1), [9(2)](https://www.legislation.gov.uk/nisr/2009/39/regulation/9/2)
 
 [^f00007]: Footnote: An individual included in the list kept under Article 3 of the 2003 Order may appeal to the Care Tribunal under Article 11(1) against inclusion in the list or apply to the Care Tribunal under Article 12(1) to be removed from the list. An individual subject to a disqualification order under the 2003 Order may appeal under Article 26 and may apply to the Care Tribunal under Article 27 for a review of that disqualification order.
 
 [^f00008]: Footnote: An individual included in the list kept for the purposes of the 2007 Regulations may in certain circumstances make representations under regulation 7, seek a revocation of the prohibition by the Department of Education under regulation 9 and may appeal to the Care Tribunal under regulation 10 of those Regulations.
 
-[^key-92324b19dbf40a94992970ad809e8a75]: Textual amendment: Words in [art. 3(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/3/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-92324b19dbf40a94992970ad809e8a75]: Textual amendment: Words in [art. 3(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/3/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-4464003e4b72ec6070194a3863200084]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/nisr/2008/200/article/3/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-4464003e4b72ec6070194a3863200084]: Textual amendment: Word in [art. 3(2)](https://www.legislation.gov.uk/nisr/2008/200/article/3/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00010]: Footnote: See Article 2(2) of the Order for the meaning of the children’s barred list. Although X is included in the children’s barred list, X will not be barred from engaging in regulated activity in relation to children until Article 7(2) of the Order comes into operation. X will remain subject to the current restrictions until the provisions repealing the restrictions are brought into operation subject to any savings.
 
 [^f00011]: Footnote: [S.R. 2008 No. 203](https://www.legislation.gov.uk/nisr/2008/203).
 
-[^key-22bb847797a22ab3d6021ba2cde3f547]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/nisr/2008/200/article/3/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-22bb847797a22ab3d6021ba2cde3f547]: Textual amendment: Word in [art. 3(4)](https://www.legislation.gov.uk/nisr/2008/200/article/3/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-d7a8821325879724fc51425a44fc7be6]: Textual amendment: Word in [art. 3(5)](https://www.legislation.gov.uk/nisr/2008/200/article/3/5) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-d7a8821325879724fc51425a44fc7be6]: Textual amendment: Word in [art. 3(5)](https://www.legislation.gov.uk/nisr/2008/200/article/3/5) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00012]: Footnote: in accordance with regulation 9 of [S.R. 2007 No. 288](https://www.legislation.gov.uk/nisr/2007/288).
 
-[^key-7086c4f05fb029abdf1bc133bb8d9f18]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2008/200/article/4) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
+[^c-7086c4f05fb029abdf1bc133bb8d9f18]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2008/200/article/4) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
 
-[^key-02dd7c87627a4d2b8343a030a30e6428]: Textual amendment: Words in [art. 4(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/4/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-02dd7c87627a4d2b8343a030a30e6428]: Textual amendment: Words in [art. 4(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/4/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-7ba6783692bc70a2d93f48a33e67c411]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/nisr/2008/200/article/4/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-7ba6783692bc70a2d93f48a33e67c411]: Textual amendment: Word in [art. 4(2)](https://www.legislation.gov.uk/nisr/2008/200/article/4/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-3cf04715d3fef29bafae72b60b3d89fe]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2008/200/article/5) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
+[^c-3cf04715d3fef29bafae72b60b3d89fe]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2008/200/article/5) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
 
 [^f00013]: Footnote: A person included in the list kept under Article 35 of the 2003 Order may appeal to the Tribunal under Article 42 against inclusion in the list or apply to the Care Tribunal under Article 43 to be removed from the list.
 
-[^key-c62d998360e364d75e87562f625cab63]: Textual amendment: Words in [art. 5(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/5/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-c62d998360e364d75e87562f625cab63]: Textual amendment: Words in [art. 5(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/5/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-c0e52c74f7e5fec016e9f92930bdb992]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/nisr/2008/200/article/5/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-c0e52c74f7e5fec016e9f92930bdb992]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/nisr/2008/200/article/5/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00014]: Footnote: See Article 2(2) of the Order for the meaning of “the adults’ barred list”. Although X is included in the adults’ barred list, he will not be barred from engaging in regulated activity relating to vulnerable adults until Article 7(3) of the Order comes into operation. X will remain included in the list kept under Article 35 of the 2003 Order until that provision is repealed subject to any savings.
 
-[^key-8bed3beb6e16f73847e468b6fefbc5ae]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/nisr/2008/200/article/5/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-8bed3beb6e16f73847e468b6fefbc5ae]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/nisr/2008/200/article/5/4) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-3860b0a1e007b038f2fbd47679f0012d]: Textual amendment: Word in [art. 5(5)](https://www.legislation.gov.uk/nisr/2008/200/article/5/5) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-3860b0a1e007b038f2fbd47679f0012d]: Textual amendment: Word in [art. 5(5)](https://www.legislation.gov.uk/nisr/2008/200/article/5/5) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/c) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-a30b6cc1ca82b212ee2f908c393afb7d]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2008/200/article/6) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
+[^c-a30b6cc1ca82b212ee2f908c393afb7d]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2008/200/article/6) in operation at 16.6.2008, see [art. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1)
 
-[^key-2c8bcb0618d6c8ff3bf07e6d8156f478]: Textual amendment: Words in [art. 6(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/6/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/d) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-2c8bcb0618d6c8ff3bf07e6d8156f478]: Textual amendment: Words in [art. 6(1)(c)](https://www.legislation.gov.uk/nisr/2008/200/article/6/1/c) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2012/3006/article/10/d) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-b70f707cac5bf37d9c415984b403087d]: Textual amendment: Word in [art. 6(2)](https://www.legislation.gov.uk/nisr/2008/200/article/6/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/d) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-b70f707cac5bf37d9c415984b403087d]: Textual amendment: Word in [art. 6(2)](https://www.legislation.gov.uk/nisr/2008/200/article/6/2) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [9(d)](https://www.legislation.gov.uk/uksi/2012/3006/article/9/d) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))

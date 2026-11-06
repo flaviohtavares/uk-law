@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Review[^key-ff7496a69ecdc183c1395b583d107dc1]
+## 9. Review[^c-ff7496a69ecdc183c1395b583d107dc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff7496a69ecdc183c1395b583d107dc1]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2824/regulation/9) inserted (12.2.2018) by [The Aerosol Dispensers (Amendment) Regulations 2018 (S.I. 2018/29)](https://www.legislation.gov.uk/uksi/2018/29), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/29/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/29/regulation/4)
+[^c-ff7496a69ecdc183c1395b583d107dc1]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2009/2824/regulation/9) inserted (12.2.2018) by [The Aerosol Dispensers (Amendment) Regulations 2018 (S.I. 2018/29)](https://www.legislation.gov.uk/uksi/2018/29), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/29/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/29/regulation/4)

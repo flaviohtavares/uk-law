@@ -32,17 +32,17 @@ summary: ''
 (4) In this section “**the appropriate authority**”—
 
 - (a) in relation to land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners;
-- (b) in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of the land or the relevant person[^key-b4fe1ee73e924f1cf8a3a8befe7695bb];
+- (b) in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of the land or the relevant person[^c-b4fe1ee73e924f1cf8a3a8befe7695bb];
 - (c) in relation to land belonging to Her Majesty in right of the Duchy of Lancaster, means the Chancellor of that Duchy;
 - (d) in relation to land belonging to the Duchy of Cornwall, means such person as the Duke of Cornwall, or the possessor for the time being of that Duchy, appoints;
 - (e) in relation to land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, means that department;
 
 and, if any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to the Treasury, whose decision shall be final.
 
-(5)[^key-c68a7dcadc2aec2aac3426be83debfb1] In subsection (4), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(5)[^c-c68a7dcadc2aec2aac3426be83debfb1] In subsection (4), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 ## Annotations
 
-[^key-b4fe1ee73e924f1cf8a3a8befe7695bb]: Textual amendment: Words in [s. 63(4)(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/63/4/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 22(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/22/a)
+[^c-b4fe1ee73e924f1cf8a3a8befe7695bb]: Textual amendment: Words in [s. 63(4)(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/63/4/b) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 22(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/22/a)
 
-[^key-c68a7dcadc2aec2aac3426be83debfb1]: Textual amendment: [S. 63(5)](https://www.legislation.gov.uk/ukpga/1989/29/section/63/5) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 22(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/22/b)
+[^c-c68a7dcadc2aec2aac3426be83debfb1]: Textual amendment: [S. 63(5)](https://www.legislation.gov.uk/ukpga/1989/29/section/63/5) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 22(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/22/b)

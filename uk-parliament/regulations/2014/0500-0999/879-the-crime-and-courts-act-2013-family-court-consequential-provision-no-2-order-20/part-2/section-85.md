@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**85.**[^key-36a10eaf3dcc99babc88228e22979d74] In paragraph 5(3)—
+**85.**[^c-36a10eaf3dcc99babc88228e22979d74] In paragraph 5(3)—
 
 - (a) omit “England and Wales or”;
 - (b) omit “section 2A of the Maintenance Orders Act 1958 or”; and
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36a10eaf3dcc99babc88228e22979d74]: Commencement: Art. 85 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-36a10eaf3dcc99babc88228e22979d74]: Commencement: Art. 85 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

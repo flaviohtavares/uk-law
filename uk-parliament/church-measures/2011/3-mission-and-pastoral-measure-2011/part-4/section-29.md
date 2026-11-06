@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 29. Withdrawal of scheme at request of bishop[^key-6203e8ddb50b056b555416864c868a96]
+## 29. Withdrawal of scheme at request of bishop[^c-6203e8ddb50b056b555416864c868a96]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ Provided that such a request shall only be made after consultation with the miss
 
 ## Annotations
 
-[^key-6203e8ddb50b056b555416864c868a96]: Commencement: S. 29 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-6203e8ddb50b056b555416864c868a96]: Commencement: S. 29 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

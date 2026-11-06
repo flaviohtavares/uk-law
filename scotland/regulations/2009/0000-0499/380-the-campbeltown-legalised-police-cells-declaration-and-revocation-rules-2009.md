@@ -32,7 +32,7 @@ summary: ''
 
 Prisons
 
-The Campbeltown Legalised Police Cells (Declaration and Revocation) Rules 2009 (revoked)[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]
+The Campbeltown Legalised Police Cells (Declaration and Revocation) Rules 2009 (revoked)[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 26th November 2009
 
-[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]
+## 1. Citation and commencement[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Declaration: Millknowe Road, Campbeltown[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]
+## 2. Declaration: Millknowe Road, Campbeltown[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation: Castlehill Street, Campbeltown[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]
+## 3. Revocation: Castlehill Street, Campbeltown[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6796ed259d4067f3ca5a51dc9d4e9ba5]: Textual amendment: Rules revoked (8.10.2015) by [The Discontinuance of Legalised Police Cells (Scotland) Rules 2015 (S.S.I. 2015/324)](https://www.legislation.gov.uk/ssi/2015/324), [rules 1](https://www.legislation.gov.uk/ssi/2015/324/rule/1), [6](https://www.legislation.gov.uk/ssi/2015/324/rule/6)
+[^c-6796ed259d4067f3ca5a51dc9d4e9ba5]: Textual amendment: Rules revoked (8.10.2015) by [The Discontinuance of Legalised Police Cells (Scotland) Rules 2015 (S.S.I. 2015/324)](https://www.legislation.gov.uk/ssi/2015/324), [rules 1](https://www.legislation.gov.uk/ssi/2015/324/rule/1), [6](https://www.legislation.gov.uk/ssi/2015/324/rule/6)

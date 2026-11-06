@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Option for pension credit member to commute part of pension[^key-d0f73808ff41f4e29f9f91e0097fa56d]
+## 121. Option for pension credit member to commute part of pension[^c-d0f73808ff41f4e29f9f91e0097fa56d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0f73808ff41f4e29f9f91e0097fa56d]: Commencement: Reg. 121 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d0f73808ff41f4e29f9f91e0097fa56d]: Commencement: Reg. 121 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

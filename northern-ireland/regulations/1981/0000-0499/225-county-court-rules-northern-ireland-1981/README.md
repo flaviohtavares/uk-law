@@ -44,7 +44,7 @@ We, the County Court Rules Committee, appointed by the Lord Chancellor under Art
 
 ## Contents
 
-### ORDER 1 — Where proceedings may be commenced[^key-a13281e2f0b23203246915d9d5a153e5]
+### ORDER 1 — Where proceedings may be commenced[^c-a13281e2f0b23203246915d9d5a153e5]
 
 *Extent: N.I.*
 
@@ -444,7 +444,7 @@ We, the County Court Rules Committee, appointed by the Lord Chancellor under Art
 
 *Extent: N.I.*
 
-#### PART I — TRANSFER OF PROCEEDINGS FROM ONE COUNTY COURT TO ANOTHER[^key-d9aaa8c397d8933f1da071a1829b16e3]
+#### PART I — TRANSFER OF PROCEEDINGS FROM ONE COUNTY COURT TO ANOTHER[^c-d9aaa8c397d8933f1da071a1829b16e3]
 
 *Extent: N.I.*
 
@@ -472,7 +472,7 @@ We, the County Court Rules Committee, appointed by the Lord Chancellor under Art
 
 - [Section 11 — Procedure on removal](part-22/section-11.md)
 
-### ORDER 23 — References to the European Court[^key-804b3cc1ff2b9681aef4c158daf359d7]
+### ORDER 23 — References to the European Court[^c-804b3cc1ff2b9681aef4c158daf359d7]
 
 *Extent: N.I.*
 
@@ -637,7 +637,7 @@ We, the County Court Rules Committee, appointed by the Lord Chancellor under Art
 - [Section 42 — Documents](part-26/section-42.md)
 - [Section 43 — Costs](part-26/section-43.md)
 
-### ORDER 27 — European Small Claims Procedure[^key-9950307e91854ea535a46507a871f3f9]
+### ORDER 27 — European Small Claims Procedure[^c-9950307e91854ea535a46507a871f3f9]
 
 *Extent: N.I.*
 
@@ -921,7 +921,7 @@ We, the County Court Rules Committee, appointed by the Lord Chancellor under Art
 - [Section 16 — Application for certified copy of decree containing non-money provision](part-40/section-16.md)
 - [Section 17 — Record and effect of issuing a copy decree or a certificate](part-40/section-17.md)
 
-#### PART VI — MEDIATION DIRECTIVE[^key-c14bd92adcdce3b95094758e5c9c7eda]
+#### PART VI — MEDIATION DIRECTIVE[^c-c14bd92adcdce3b95094758e5c9c7eda]
 
 *Extent: N.I.*
 
@@ -4059,7 +4059,7 @@ Unless otherwise indicated, a reference to an Article is to that Article as numb
 
 [^f00014]: Footnote: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
 
-[^key-a13281e2f0b23203246915d9d5a153e5]: Textual amendment: Order 1 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(1)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-a13281e2f0b23203246915d9d5a153e5]: Textual amendment: Order 1 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(1)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00074]: Footnote: Order 6A inserted by [S.R. 1983 No. 14](https://www.legislation.gov.uk/nisr/1983/14) with effect from 14.3.83
 
@@ -4075,9 +4075,9 @@ Unless otherwise indicated, a reference to an Article is to that Article as numb
 
 [^f00183]: Footnote: Words inserted by [S.R. 1992 No. 478](https://www.legislation.gov.uk/nisr/1992/478) with effect from 01.01.93
 
-[^key-d9aaa8c397d8933f1da071a1829b16e3]: Textual amendment: Order 22 Pt. 1 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/5/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-d9aaa8c397d8933f1da071a1829b16e3]: Textual amendment: Order 22 Pt. 1 omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/5/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
-[^key-804b3cc1ff2b9681aef4c158daf359d7]: Textual amendment: Order 23 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [art. 3(4)](https://www.legislation.gov.uk/nisr/2019/234/article/3/4), [rule 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-804b3cc1ff2b9681aef4c158daf359d7]: Textual amendment: Order 23 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [art. 3(4)](https://www.legislation.gov.uk/nisr/2019/234/article/3/4), [rule 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00216]: Footnote: Order 23A inserted by [S.R. 1999 No. 490](https://www.legislation.gov.uk/nisr/1999/490) with effect from 17.01.00
 
@@ -4091,7 +4091,7 @@ Unless otherwise indicated, a reference to an Article is to that Article as numb
 
 [^f00253]: Footnote: Order 26 substituted by [S.R. 2002 No. 255](https://www.legislation.gov.uk/nisr/2002/255) with effect from 04.11.02
 
-[^key-9950307e91854ea535a46507a871f3f9]: Textual amendment: Order 27 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2019/234/rule/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9950307e91854ea535a46507a871f3f9]: Textual amendment: Order 27 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(5)](https://www.legislation.gov.uk/nisr/2019/234/rule/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00262]: Footnote: Words substituted by [S.R. 1989 No. 211](https://www.legislation.gov.uk/nisr/1989/211) with effect from 01.09.89
 
@@ -4107,7 +4107,7 @@ Unless otherwise indicated, a reference to an Article is to that Article as numb
 
 [^f00356]: Footnote: Rules substituted by [S.R. 1986 No. 347](https://www.legislation.gov.uk/nisr/1986/347) with effect from 1.1.87
 
-[^key-c14bd92adcdce3b95094758e5c9c7eda]: Textual amendment: Order 40 Pt. 6 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2019/234/article/3/6) (with [rule 4](https://www.legislation.gov.uk/nisr/2019/234/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c14bd92adcdce3b95094758e5c9c7eda]: Textual amendment: Order 40 Pt. 6 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2019/234/article/3/6) (with [rule 4](https://www.legislation.gov.uk/nisr/2019/234/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00359]: Footnote: Rule 23 inserted by [S.R. 2012 No. 402](https://www.legislation.gov.uk/nisr/2012/402) with effect from 03.12.12
 

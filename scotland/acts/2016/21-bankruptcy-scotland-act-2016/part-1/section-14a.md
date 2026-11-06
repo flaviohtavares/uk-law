@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14A. Main proceedings in Scotland: undertaking by trustee in respect of assets in another EU member State[^key-62489ca05b84e82330f86bcc7ae5bbf6]
+## 14A. Main proceedings in Scotland: undertaking by trustee in respect of assets in another EU member State[^c-62489ca05b84e82330f86bcc7ae5bbf6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62489ca05b84e82330f86bcc7ae5bbf6]: Textual amendment: S. 14A omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/8) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-62489ca05b84e82330f86bcc7ae5bbf6]: Textual amendment: S. 14A omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(8)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/8) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. The National Crime Agency's functions: certain settlements[^key-09b3dfe67f8fc39c25a339bd66c56ed7][^key-af68dafcccc302cc732016404eca1cce]
+## 322. The National Crime Agency's functions: certain settlements[^c-09b3dfe67f8fc39c25a339bd66c56ed7][^c-af68dafcccc302cc732016404eca1cce]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this section the qualifying condition is that the National Crime Agency[^key-2cf2859bcdf178a79336e7fef7854b99] has reasonable grounds to suspect that—
+(1) For the purposes of this section the qualifying condition is that the National Crime Agency[^c-2cf2859bcdf178a79336e7fef7854b99] has reasonable grounds to suspect that—
 
 - (a) all or part of the property comprised in a settlement is relevant property for the purposes of Chapter 3 of Part 3 of the Inheritance Tax Act 1984 (settlements without interest in possession), and
 - (b) the relevant property is (in whole or part) criminal property.
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-09b3dfe67f8fc39c25a339bd66c56ed7]: Commencement: S. 322 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-09b3dfe67f8fc39c25a339bd66c56ed7]: Commencement: S. 322 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-af68dafcccc302cc732016404eca1cce]: Textual amendment: Words in [s. 322](https://www.legislation.gov.uk/ukpga/2002/29/section/322) title substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 126(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/126/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-af68dafcccc302cc732016404eca1cce]: Textual amendment: Words in [s. 322](https://www.legislation.gov.uk/ukpga/2002/29/section/322) title substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 126(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/126/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-2cf2859bcdf178a79336e7fef7854b99]: Textual amendment: Words in [s. 322](https://www.legislation.gov.uk/ukpga/2002/29/section/322) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 126(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/126/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-2cf2859bcdf178a79336e7fef7854b99]: Textual amendment: Words in [s. 322](https://www.legislation.gov.uk/ukpga/2002/29/section/322) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 126(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/126/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Interpretation of Part 1[^key-4d8a7f3fa1cd8eef33daf7aafb217274]
+## 53. Interpretation of Part 1[^c-4d8a7f3fa1cd8eef33daf7aafb217274]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 - “**assessment order**” has the meaning given by section 11,
 - “**attorney**” means a continuing attorney or welfare attorney (within the meaning of the Adults with Incapacity (Scotland) Act 2000 (asp 4)),
 - “**banning order**” has the meaning given by section 19,
-- [^key-31f31b716a6438dde99d407b92ac5a8e]...
+- [^c-31f31b716a6438dde99d407b92ac5a8e]...
 - “**child**” means an individual under the age of 16,
 - “**conduct**” includes neglect and other failures to act,
 - “**council**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39); and references to a council in relation to any person known or believed to be an adult at risk are references to the council for the area which the person is for the time being in,
@@ -54,7 +54,7 @@ summary: ''
 - “**primary carer**” has the same meaning as in the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13),
 - “**relevant Health Board**”, in relation to any council, means any Health Board or Special Health Board constituted by order under section 2 of the National Health Service (Scotland) Act 1978 (c. 29) which exercises functions in relation to the council's area,
 - “**removal order**” has the meaning given by section 14,
-- “[^key-7c3ea57398a124bf87225215367fc702] **SCSWIS** ” means Social Care and Social Work Improvement Scotland,
+- “[^c-7c3ea57398a124bf87225215367fc702] **SCSWIS** ” means Social Care and Social Work Improvement Scotland,
 - “**specified**”, in relation to any order or warrant, means specified in the order or warrant,
 - “**temporary banning order**” has the meaning given by section 21,
 - “**visit**” has the meaning given by subsection (2),
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4d8a7f3fa1cd8eef33daf7aafb217274]: Commencement: S. 53 in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
+[^c-4d8a7f3fa1cd8eef33daf7aafb217274]: Commencement: S. 53 in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2)
 
-[^key-31f31b716a6438dde99d407b92ac5a8e]: Textual amendment: Words in [s. 53(1)](https://www.legislation.gov.uk/asp/2007/10/section/53/1) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 26(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/26/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-31f31b716a6438dde99d407b92ac5a8e]: Textual amendment: Words in [s. 53(1)](https://www.legislation.gov.uk/asp/2007/10/section/53/1) repealed (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 26(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/26/a); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-7c3ea57398a124bf87225215367fc702]: Textual amendment: Words in [s. 53(1)](https://www.legislation.gov.uk/asp/2007/10/section/53/1) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 26(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/26/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-7c3ea57398a124bf87225215367fc702]: Textual amendment: Words in [s. 53(1)](https://www.legislation.gov.uk/asp/2007/10/section/53/1) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 14 para. 26(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/26/b); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

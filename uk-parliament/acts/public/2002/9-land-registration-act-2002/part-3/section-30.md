@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Effect of registered dispositions: charges[^key-9463c4888634b1e63e8039695ea831c1]
+## 30. Effect of registered dispositions: charges[^c-9463c4888634b1e63e8039695ea831c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9463c4888634b1e63e8039695ea831c1]: Modification: [Ss. 28-30](https://www.legislation.gov.uk/ukpga/2002/9/section/28) applied (E.W.) (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 17(2)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/17/2/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)
+[^c-9463c4888634b1e63e8039695ea831c1]: Modification: [Ss. 28-30](https://www.legislation.gov.uk/ukpga/2002/9/section/28) applied (E.W.) (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 17(2)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/17/2/b), [88(2)(a)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/a)

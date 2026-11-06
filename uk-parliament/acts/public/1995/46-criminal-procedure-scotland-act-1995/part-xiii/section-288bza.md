@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288BZA. UNCRC compatibility issue in relation to decision to prosecute child: restriction on judicial remedies[^key-ea311851c59a2f8f219fff4be4d33fc4]
+## 288BZA. UNCRC compatibility issue in relation to decision to prosecute child: restriction on judicial remedies[^c-ea311851c59a2f8f219fff4be4d33fc4]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea311851c59a2f8f219fff4be4d33fc4]: Textual amendment: S. 288BZA inserted (16.7.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 33(2)](https://www.legislation.gov.uk/asp/2024/5/section/33/2), [38(2)](https://www.legislation.gov.uk/asp/2024/5/section/38/2)
+[^c-ea311851c59a2f8f219fff4be4d33fc4]: Textual amendment: S. 288BZA inserted (16.7.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 33(2)](https://www.legislation.gov.uk/asp/2024/5/section/33/2), [38(2)](https://www.legislation.gov.uk/asp/2024/5/section/38/2)

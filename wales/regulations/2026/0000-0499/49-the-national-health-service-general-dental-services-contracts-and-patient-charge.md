@@ -45,7 +45,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 ## Part 1 — GENERAL
 
-### 1. Title, coming into force and application[^key-fa495cda3ab9c8a1b8c212ea5f84f58a]
+### 1. Title, coming into force and application[^c-fa495cda3ab9c8a1b8c212ea5f84f58a]
 
 (1) The title of these Regulations is the National Health Service (General Dental Services Contracts and Patient Charges) (Amendment) (Wales) Regulations 2026.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Amendment of the National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026[^key-d74539a7f71260731df2eb9595bc01ac]
+### 2. Amendment of the National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026[^c-d74539a7f71260731df2eb9595bc01ac]
 
 In the English language text, for Schedule 1 to the National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026[^f00002] substitute—
 
@@ -532,9 +532,9 @@ In the English language text, for Schedule 1 to the National Health Service (Gen
 > - (h) improving infection prevention and control, and
 > - (i) sustainability (greener dentistry).
 
-**3.**[^key-91e4c511b2b849eab43def665346e883] In the Welsh language text, in the table in Schedule 2, in the second column, in the entry for “Pecyn Gofal Sefydlogi”, for “bywynddrychiad” substitute “bywyndrychiad”.
+**3.**[^c-91e4c511b2b849eab43def665346e883] In the Welsh language text, in the table in Schedule 2, in the second column, in the entry for “Pecyn Gofal Sefydlogi”, for “bywynddrychiad” substitute “bywyndrychiad”.
 
-**4.**[^key-7a867ee6da4f789c1f19179f2610bb1f] For table 1 in paragraph 4 of Schedule 5 substitute—
+**4.**[^c-7a867ee6da4f789c1f19179f2610bb1f] For table 1 in paragraph 4 of Schedule 5 substitute—
 
 > Table 1
 >
@@ -577,9 +577,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-fa495cda3ab9c8a1b8c212ea5f84f58a]: Commencement: Reg. 1 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
+[^c-fa495cda3ab9c8a1b8c212ea5f84f58a]: Commencement: Reg. 1 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
 
-[^key-d74539a7f71260731df2eb9595bc01ac]: Commencement: Reg. 2 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
+[^c-d74539a7f71260731df2eb9595bc01ac]: Commencement: Reg. 2 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
 
 [^f00002]: Footnote: [W.S.I. 2026/37](https://www.legislation.gov.uk/wsi/2026/37).
 
@@ -587,6 +587,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: This guidance is available from NICE’s website, www.nice.org.uk.
 
-[^key-91e4c511b2b849eab43def665346e883]: Commencement: Reg. 3 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
+[^c-91e4c511b2b849eab43def665346e883]: Commencement: Reg. 3 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
 
-[^key-7a867ee6da4f789c1f19179f2610bb1f]: Commencement: Reg. 4 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)
+[^c-7a867ee6da4f789c1f19179f2610bb1f]: Commencement: Reg. 4 in force at 1.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2)

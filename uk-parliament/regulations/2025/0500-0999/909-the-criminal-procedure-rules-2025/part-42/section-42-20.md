@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.20. Hearing of appeals[^key-fe7aea72e91ead51a3588e16616e2be8]
+## 42.20. Hearing of appeals[^c-fe7aea72e91ead51a3588e16616e2be8]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fe7aea72e91ead51a3588e16616e2be8]: Commencement: [Rule 42.20](https://www.legislation.gov.uk/uksi/2025/909/rule/42.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fe7aea72e91ead51a3588e16616e2be8]: Commencement: [Rule 42.20](https://www.legislation.gov.uk/uksi/2025/909/rule/42.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 13B was inserted by section 7 of the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9). Section 31 was amended by section 94 of, and paragraph 16 of Schedule 8 and Schedule 14 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 3 of, and paragraph 27 of Schedule 4 to, the Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9). Section 65 was amended by section 94 of, and paragraph 32 of Schedule 8 and Schedule 14 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Record-keeping and reporting requirements[^key-41e026b85038a3e85ca4019e3eca3f79][^key-e71d73b4a0c724b283249e7e4cfa160d]
+## 201. Record-keeping and reporting requirements[^c-41e026b85038a3e85ca4019e3eca3f79][^c-e71d73b4a0c724b283249e7e4cfa160d]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41e026b85038a3e85ca4019e3eca3f79]: Commencement: S. 201 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-41e026b85038a3e85ca4019e3eca3f79]: Commencement: S. 201 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e71d73b4a0c724b283249e7e4cfa160d]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2024/13/section/201) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-e71d73b4a0c724b283249e7e4cfa160d]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2024/13/section/201) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

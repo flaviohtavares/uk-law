@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-ef6236185d4942bac943de1f4f829983]Chequers Estate Act 1917
+[^c-ef6236185d4942bac943de1f4f829983]Chequers Estate Act 1917
 
 1917 c.55
 
@@ -35,7 +35,7 @@ An Act to confirm and give effect to a deed of settlement relating to the Cheque
 
 Whereas by a deed of settlement dated the twenty-fourth day of November nineteen hundred and seventeen and made between Sir Arthur Hamilton Lee (hereinafter referred to as “Sir Arthur Lee”) of the first part, Dame Ruth Moore Lee, the wife of Sir Arthur Lee (hereinafter referred to as “Lady Lee”), of the second part, Allan Ernest Messer and Arthur Edward Nicholls of the third part, and the Public Trustee of the fourth part (which deed is set out in the Schedule to this Act), the landed property (hereinafter referred to as “the Chequers Estate”), chattels and money therein described, are settled upon the trusts and for the purposes mentioned in the said deed:
 
-And whereas the trusts created by the said deed cannot take effect without the authority of Parliament, and it is expedient that the said trusts should have full force and validity:[^key-60530d683a98136b0635996bdb069dff]
+And whereas the trusts created by the said deed cannot take effect without the authority of Parliament, and it is expedient that the said trusts should have full force and validity:[^c-60530d683a98136b0635996bdb069dff]
 
 ## 1. Confirmation of deed of settlement.
 
@@ -53,7 +53,7 @@ Provided that this exemption shall cease to apply to any part of the Chequers Es
 
 (3) No stamp duty shall be charged on the said recited deed, or on any deed made thereunder or in accordance therewith.
 
-## 3A. Stamp duty land tax[^key-60fe8ade7fedb609e1e8bc6c80783d20]
+## 3A. Stamp duty land tax[^c-60fe8ade7fedb609e1e8bc6c80783d20]
 
 (1) A land transaction effected under, or in accordance with, the said recited deed is exempt from charge for the purposes of stamp duty land tax.
 
@@ -89,7 +89,7 @@ THIS INDENTURE is accordingly made the twenty-fourth day of November One thousan
 - (c)[^c644215] “ **The custodian trustee** ” shall mean the Public Trustee.
 - (d) “**The Act**” shall mean the said intended Act of Parliament confirming these presents if and when the same shall receive the Royal assent.
 - (e)[^c644216] “ **The administrative trustees** ” shall mean a body of trustees consisting (during the lifetime of Lady Lee) of Lady Lee and the following persons and (after the death of Lady Lee) consisting of the following persons viz.:—
-  - 1. The person who is for the time being the Chancellor of the Duchy of Lancaster[^key-997b59da9cbdc227d595783dd882361f] .
+  - 1. The person who is for the time being the Chancellor of the Duchy of Lancaster[^c-997b59da9cbdc227d595783dd882361f] .
   - 2. A person appointed by the Prime Minister.
   - 3. A person appointed by the Secretary of State.[^c644217]
   - 4. The person who is for the time being chairman of the Executive Committee of the National Trust for Places of Historic Interest or Natural Beauty.
@@ -238,15 +238,15 @@ THIS INDENTURE is accordingly made the twenty-fourth day of November One thousan
 
 ## Annotations
 
-[^key-ef6236185d4942bac943de1f4f829983]: Modification: Act: transfer of functions (5.11.2014) by [The Transfer of Functions (Chequers and Dorneywood Estates) Order 2014 (S.I. 2014/2708)](https://www.legislation.gov.uk/uksi/2014/2708), [art. 2](https://www.legislation.gov.uk/uksi/2014/2708/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2014/2708/article/4), [5](https://www.legislation.gov.uk/uksi/2014/2708/article/5))
+[^c-ef6236185d4942bac943de1f4f829983]: Modification: Act: transfer of functions (5.11.2014) by [The Transfer of Functions (Chequers and Dorneywood Estates) Order 2014 (S.I. 2014/2708)](https://www.legislation.gov.uk/uksi/2014/2708), [art. 2](https://www.legislation.gov.uk/uksi/2014/2708/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2014/2708/article/4), [5](https://www.legislation.gov.uk/uksi/2014/2708/article/5))
 
-[^key-60530d683a98136b0635996bdb069dff]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/7-8/55) functions transferred (14.12.2016) by [The Transfer of Functions (Chequers and Dorneywood Estates) Order 2016 (S.I. 2016/1113)](https://www.legislation.gov.uk/uksi/2016/1113), [art. 2](https://www.legislation.gov.uk/uksi/2016/1113/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/1113/article/4), [5](https://www.legislation.gov.uk/uksi/2016/1113/article/5))
+[^c-60530d683a98136b0635996bdb069dff]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/7-8/55) functions transferred (14.12.2016) by [The Transfer of Functions (Chequers and Dorneywood Estates) Order 2016 (S.I. 2016/1113)](https://www.legislation.gov.uk/uksi/2016/1113), [art. 2](https://www.legislation.gov.uk/uksi/2016/1113/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/1113/article/4), [5](https://www.legislation.gov.uk/uksi/2016/1113/article/5))
 
 [^c644212]: Textual amendment: S. 2 repealed by [Chequers Estate Act 1958 (c. 60)](https://www.legislation.gov.uk/ukpga/1958/60), [s. 3(7)](https://www.legislation.gov.uk/ukpga/1958/60/section/3/7)
 
 [^c644213]: Textual amendment: Words substituted by virtue of [Ministry of Agriculture and Fisheries Act 1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), [s. 1](https://www.legislation.gov.uk/ukpga/1919/91/section/1) and [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554) (1955 I, p. 1200), art. 3
 
-[^key-60fe8ade7fedb609e1e8bc6c80783d20]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/Geo5/7-8/55/section/3A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/3)
+[^c-60fe8ade7fedb609e1e8bc6c80783d20]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/ukpga/Geo5/7-8/55/section/3A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/3)
 
 [^c644214]: Modification: In the deed, as amended by [Chequers Estate Act 1958 (c. 60)](https://www.legislation.gov.uk/ukpga/1958/60), [Sch. paras. 1–17](https://www.legislation.gov.uk/ukpga/1958/60/schedule/paragraph/1), any reference to the Chequers Estate shall (notwithstanding the definition of that expression in the recital in the deed) be construed as a reference to so much of the hereditaments conveyed by the indenture dated 5.4.1917 referred to in the said recitals as for the time being remains vested in the custodian trustee (as defined by the deed as so amended) in his capacity as custodian trustee thereunder: [Chequers Estate Act 1958 (c. 60)](https://www.legislation.gov.uk/ukpga/1958/60), [Sch. para 18](https://www.legislation.gov.uk/ukpga/1958/60/schedule/paragraph/18)
 
@@ -254,7 +254,7 @@ THIS INDENTURE is accordingly made the twenty-fourth day of November One thousan
 
 [^c644216]: Textual amendment: Clause 1(*e*)–(*g*) substituted for clause 1(e)(f) by [Chequers Estate Act 1958 (c. 60)](https://www.legislation.gov.uk/ukpga/1958/60), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/1958/60/schedule/paragraph/2)
 
-[^key-997b59da9cbdc227d595783dd882361f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ukpga/Geo5/7-8/55/schedule) in clauses 1(e) and 10 substituted (14.12.2016) by [The Transfer of Functions (Chequers and Dorneywood Estates) Order 2016 (S.I. 2016/1113)](https://www.legislation.gov.uk/uksi/2016/1113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1113/article/1/2), [6](https://www.legislation.gov.uk/uksi/2016/1113/article/6) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/1113/article/5))
+[^c-997b59da9cbdc227d595783dd882361f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/ukpga/Geo5/7-8/55/schedule) in clauses 1(e) and 10 substituted (14.12.2016) by [The Transfer of Functions (Chequers and Dorneywood Estates) Order 2016 (S.I. 2016/1113)](https://www.legislation.gov.uk/uksi/2016/1113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1113/article/1/2), [6](https://www.legislation.gov.uk/uksi/2016/1113/article/6) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/1113/article/5))
 
 [^c644217]: Textual amendment: Words substituted by virtue of [S.I. 1962/1549](https://www.legislation.gov.uk/uksi/1962/1549), [art. 2](https://www.legislation.gov.uk/uksi/1962/1549/article/2) and 1970/1681 arts. 2(1), 6(3)
 

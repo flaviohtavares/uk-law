@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Surrender of licences and test certificates by new drivers[^key-3afd2cf95dd08b0c71271718fd83ffae][^key-e7e81defa2cbb1090580b7e77841c83c]
+## 95. Surrender of licences and test certificates by new drivers[^c-3afd2cf95dd08b0c71271718fd83ffae][^c-e7e81defa2cbb1090580b7e77841c83c]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 9 contains amendments to the Road Traffic (New Drivers) Act 1995 which 
 
 ## Annotations
 
-[^key-3afd2cf95dd08b0c71271718fd83ffae]: Commencement: S. 95 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-3afd2cf95dd08b0c71271718fd83ffae]: Commencement: S. 95 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-e7e81defa2cbb1090580b7e77841c83c]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2022/32/section/95) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-e7e81defa2cbb1090580b7e77841c83c]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2022/32/section/95) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

@@ -42,7 +42,7 @@ summary: ''
 
 (4)[^c17072491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-731de1b768593174a88c51f1c09c01cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-731de1b768593174a88c51f1c09c01cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The date specified in the tenant’s notice in pursuance of subsection (3)(f) must be a date falling not less than two months after the date of the giving of the notice.
 
@@ -73,4 +73,4 @@ but this subsection has effect subject to section 54.
 
 [^c17072491]: Textual amendment: S. 42(4) repealed (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 180](https://www.legislation.gov.uk/ukpga/2002/15/section/180), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/ii), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/1912/schedule/1/part/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S. I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/ii), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/3012/schedule/1/part/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-731de1b768593174a88c51f1c09c01cc]: Textual amendment: S. 42(4A) omitted (31.1.2025) by virtue of [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/27/3), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/57](https://www.legislation.gov.uk/uksi/2025/57), [reg. 2](https://www.legislation.gov.uk/uksi/2025/57/regulation/2)
+[^c-731de1b768593174a88c51f1c09c01cc]: Textual amendment: S. 42(4A) omitted (31.1.2025) by virtue of [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/27/3), [124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3); [S.I. 2025/57](https://www.legislation.gov.uk/uksi/2025/57), [reg. 2](https://www.legislation.gov.uk/uksi/2025/57/regulation/2)

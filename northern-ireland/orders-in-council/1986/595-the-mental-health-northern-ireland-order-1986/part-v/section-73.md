@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Duty on responsible authorities to refer cases to the tribunal[^key-4b4a3ba28513142222233439aef197c6][^key-d79839344c3e4d6f6732de76f3af96e0][^key-88ab13b2c67f0bdec52d325626122379]
+## 73. Duty on responsible authorities to refer cases to the tribunal[^c-4b4a3ba28513142222233439aef197c6][^c-d79839344c3e4d6f6732de76f3af96e0][^c-88ab13b2c67f0bdec52d325626122379]
 
 *Extent: N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4a3ba28513142222233439aef197c6]: Modification: Art. 73 applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs.](https://www.legislation.gov.uk/nisr/2012/403/regulation), [1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1) 3(5)(c)(i)4
+[^c-4b4a3ba28513142222233439aef197c6]: Modification: Art. 73 applied (with modifications) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs.](https://www.legislation.gov.uk/nisr/2012/403/regulation), [1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1) 3(5)(c)(i)4
 
-[^key-d79839344c3e4d6f6732de76f3af96e0]: Modification: Art. 73 applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(5)(c)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/5/c), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-d79839344c3e4d6f6732de76f3af96e0]: Modification: Art. 73 applied (with modifications.) (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(5)(c)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/5/c), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-88ab13b2c67f0bdec52d325626122379]: Textual amendment: Words in [art. 73 heading](https://www.legislation.gov.uk/nisi/1986/595/part/V/crossheading/applications-and-references-concerning-part-ii-patients) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 85](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/85); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-88ab13b2c67f0bdec52d325626122379]: Textual amendment: Words in [art. 73 heading](https://www.legislation.gov.uk/nisi/1986/595/part/V/crossheading/applications-and-references-concerning-part-ii-patients) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 85](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/85); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17125241]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/nisi/1994)

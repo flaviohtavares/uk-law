@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If outline consent has been granted but has not yet taken effect, before the provisional date the person or partnership (D) to whom it was granted may apply to NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] to change the premises at or[^key-193800f82d55b91e575fcfe406981e3f] from which D wishes to dispense to other premises in the area of the relevant HWB.
+(1) If outline consent has been granted but has not yet taken effect, before the provisional date the person or partnership (D) to whom it was granted may apply to NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] to change the premises at or[^c-193800f82d55b91e575fcfe406981e3f] from which D wishes to dispense to other premises in the area of the relevant HWB.
 
 (2) NHS England may agree to the change (and so, where appropriate, grant premises approval to the new premises) if it is satisfied that the relocation is of the type provided for in regulation 55(2).
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-193800f82d55b91e575fcfe406981e3f]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/54/1) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2025/989/regulation/34)
+[^c-193800f82d55b91e575fcfe406981e3f]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/54/1) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [34](https://www.legislation.gov.uk/uksi/2025/989/regulation/34)

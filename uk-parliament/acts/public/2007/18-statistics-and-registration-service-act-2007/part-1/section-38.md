@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Use of information by the Board[^key-c252bbce7f3b4a14a9fc2f8990cbd432]
+## 38. Use of information by the Board[^c-c252bbce7f3b4a14a9fc2f8990cbd432]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c252bbce7f3b4a14a9fc2f8990cbd432]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2007/18/section/38) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-c252bbce7f3b4a14a9fc2f8990cbd432]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2007/18/section/38) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

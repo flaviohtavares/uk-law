@@ -40,7 +40,7 @@ An Act of the National Assembly for Wales to abolish the common law defence of r
 
 **Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
 
-## 1. Abolition of common law defence of reasonable punishment[^key-b49df2f28e1fc238884340c5788d0e95]
+## 1. Abolition of common law defence of reasonable punishment[^c-b49df2f28e1fc238884340c5788d0e95]
 
 (1) The common law defence of reasonable punishment is abolished in relation to corporal punishment of a child taking place in Wales.
 
@@ -56,11 +56,11 @@ An Act of the National Assembly for Wales to abolish the common law defence of r
 - (b) in subsection (3), after “Battery of a child” insert “ taking place in England ”, and
 - (c) the heading becomes “ Reasonable punishment: England ”.
 
-## 2. Promoting public awareness of the coming into force of section 1[^key-ed126cd7d346a4e7b45d0339e836140b]
+## 2. Promoting public awareness of the coming into force of section 1[^c-ed126cd7d346a4e7b45d0339e836140b]
 
 The Welsh Ministers must take steps before the coming into force of section 1 to promote public awareness of the changes to the law to be made by that section.
 
-## 3. Reporting requirements[^key-2a0760e43ed60ebe06633834b48c247c]
+## 3. Reporting requirements[^c-2a0760e43ed60ebe06633834b48c247c]
 
 (1) The Welsh Ministers must prepare two reports on the effect of the changes to the law made by section 1.
 
@@ -73,32 +73,32 @@ The Welsh Ministers must take steps before the coming into force of section 1 to
 - (a) lay the report before the National Assembly for Wales, and
 - (b) publish the report.
 
-## 4. Power to make transitional etc. provision by regulations[^key-d6e3ba5a4b73d054787be7d8ef7bc81c]
+## 4. Power to make transitional etc. provision by regulations[^c-d6e3ba5a4b73d054787be7d8ef7bc81c]
 
 (1) Regulations made by the Welsh Ministers may make transitory, transitional or saving provision in connection with the coming into force of section 1.
 
 (2) The power to make regulations under subsection (1) is exercisable by statutory instrument.
 
-## 5. Coming into force[^key-7f12713eb9429e9b2d4b0eea3720938a]
+## 5. Coming into force[^c-7f12713eb9429e9b2d4b0eea3720938a]
 
 (1) This section and section 2, section 3, section 4, and section 6 come into force on the day after the day on which this Act receives Royal Assent.
 
 (2) Section 1 comes into force at the expiry of the period of 2 years beginning with the day after the day on which this Act receives Royal Assent.
 
-## 6. Short title[^key-b54da36010c542db13cf048fac91a199]
+## 6. Short title[^c-b54da36010c542db13cf048fac91a199]
 
 The short title of this Act is the Children (Abolition of Defence of Reasonable Punishment) (Wales) Act 2020.
 
 ## Annotations
 
-[^key-b49df2f28e1fc238884340c5788d0e95]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2020/3/section/1) in force at 21.3.2022, see [s. 5(2)](https://www.legislation.gov.uk/anaw/2020/3/section/5/2)
+[^c-b49df2f28e1fc238884340c5788d0e95]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2020/3/section/1) in force at 21.3.2022, see [s. 5(2)](https://www.legislation.gov.uk/anaw/2020/3/section/5/2)
 
-[^key-ed126cd7d346a4e7b45d0339e836140b]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2020/3/section/2) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
+[^c-ed126cd7d346a4e7b45d0339e836140b]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2020/3/section/2) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
 
-[^key-2a0760e43ed60ebe06633834b48c247c]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2020/3/section/3) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
+[^c-2a0760e43ed60ebe06633834b48c247c]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2020/3/section/3) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
 
-[^key-d6e3ba5a4b73d054787be7d8ef7bc81c]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2020/3/section/4) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
+[^c-d6e3ba5a4b73d054787be7d8ef7bc81c]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2020/3/section/4) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
 
-[^key-7f12713eb9429e9b2d4b0eea3720938a]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2020/3/section/5) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
+[^c-7f12713eb9429e9b2d4b0eea3720938a]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2020/3/section/5) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
 
-[^key-b54da36010c542db13cf048fac91a199]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2020/3/section/6) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)
+[^c-b54da36010c542db13cf048fac91a199]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2020/3/section/6) in force at 21.3.2020, see [s. 5(1)](https://www.legislation.gov.uk/anaw/2020/3/section/5/1)

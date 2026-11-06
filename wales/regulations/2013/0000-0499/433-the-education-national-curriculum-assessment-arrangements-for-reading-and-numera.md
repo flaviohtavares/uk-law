@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013 (revoked)[^key-db3dbffbd5c5481cdef71e0ac843feba]
+The Education (National Curriculum) (Assessment Arrangements for Reading and Numeracy) (Wales) Order 2013 (revoked)[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 Made
 
@@ -45,50 +45,50 @@ Coming into force
 
 1 May 2013
 
-[^key-db3dbffbd5c5481cdef71e0ac843feba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db3dbffbd5c5481cdef71e0ac843feba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 1. Title, commencement and application[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 2. Interpretation[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. National Reading Test — English[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 3. National Reading Test — English[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. National Reading Test — Welsh[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 4. National Reading Test — Welsh[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. National Numeracy Test[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 5. National Numeracy Test[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Head teacher's declaration[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 6. Head teacher's declaration[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Monitoring of assessment arrangements[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 7. Monitoring of assessment arrangements[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Investigation by Welsh Ministers and correction of record of results[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 8. Investigation by Welsh Ministers and correction of record of results[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Supplementary powers of Welsh Ministers[^key-db3dbffbd5c5481cdef71e0ac843feba]
+## 9. Supplementary powers of Welsh Ministers[^c-db3dbffbd5c5481cdef71e0ac843feba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db3dbffbd5c5481cdef71e0ac843feba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db3dbffbd5c5481cdef71e0ac843feba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db3dbffbd5c5481cdef71e0ac843feba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db3dbffbd5c5481cdef71e0ac843feba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db3dbffbd5c5481cdef71e0ac843feba]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2013/433) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/wsi/2022/517/regulation/5/6/a)
+[^c-db3dbffbd5c5481cdef71e0ac843feba]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2013/433) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/wsi/2022/517/regulation/5/6/a)

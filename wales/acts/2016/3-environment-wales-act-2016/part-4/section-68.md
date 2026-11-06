@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Civil sanctions[^key-6ace220618fb6add2eea149368122f25]
+## 68. Civil sanctions[^c-6ace220618fb6add2eea149368122f25]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ace220618fb6add2eea149368122f25]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/3/section/68) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-6ace220618fb6add2eea149368122f25]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/3/section/68) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)

@@ -44,26 +44,26 @@ Coming into force
 
 1st April 2012
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^key-142d116b358aeadd0d4e18ec7a815c96]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.[^c-142d116b358aeadd0d4e18ec7a815c96]
 
-## 1. Citation and commencement[^key-1a57038d162585f078d8ab5d8ef0a012]
+## 1. Citation and commencement[^c-1a57038d162585f078d8ab5d8ef0a012]
 
 These Regulations may be cited as the Non-Domestic Rates (Enterprise Areas) (Scotland) Regulations 2012 and come into force on 1st April 2012.
 
-## 2. Interpretation[^key-b6e10ba09e7e8ef834955ffaf5d6dcb3]
+## 2. Interpretation[^c-b6e10ba09e7e8ef834955ffaf5d6dcb3]
 
 (1) In these Regulations—
 
 - “the 1975 Act” means the Local Government (Scotland) Act 1975[^f00002];
 - “the General Manufacturing and Growth Sectors Enterprise Area” means the area comprised of the following sites—
   - (a) the area delineated in red on the map entitled “General Manufacturing and Growth Sectors Enterprise Area - Creative Clyde” and dated 9th February 2012; and
-  - (b) the area delineated in red on the map entitled “General Manufacturing and Growth Sectors Enterprise Area - Prestwick International” and dated 8th February 2012; and[^key-295e0c6020d315036aa5b181fda13546]
+  - (b) the area delineated in red on the map entitled “General Manufacturing and Growth Sectors Enterprise Area - Prestwick International” and dated 8th February 2012; and[^c-295e0c6020d315036aa5b181fda13546]
   - (c) each area delineated in red on the maps entitled “General Manufacturing and Growth Sectors Enterprise Area - West Lothian - Broxburn” and “General Manufacturing and Growth Sectors Enterprise Area - West Lothian - Eliburn, Livingston”, both dated 31st January 2013;
 - “lands and heritages” has the meaning prescribed by and under section 42 of the Lands Valuation (Scotland) Act 1854[^f00003];
 - “the Life Sciences Enterprise Area” means the area comprised of the following sites—
   - (a) the area delineated in red on the map entitled “Life Sciences Enterprise Area – Irvine – BRD” and dated 13th February 2012;
   - (b) the area delineated in red on the map entitled “Life Sciences Enterprise Area – Forres” and dated 8th February 2012;
-  - (c) the area delineated in red on the map entitled “Life Sciences Enterprise Area – Inverness Campus” and dated 21st January 2013[^key-1dd78e1b79bccb54c084c65195a29646];
+  - (c) the area delineated in red on the map entitled “Life Sciences Enterprise Area – Inverness Campus” and dated 21st January 2013[^c-1dd78e1b79bccb54c084c65195a29646];
   - (d) the area delineated in red on the map entitled “Life Sciences Enterprise Area – BioQuarter” and dated 9th February 2012; and
   - (e) the area delineated in red on the map entitled “Life Sciences Enterprise Area – BioCampus” and dated 9th February 2012;
 - “the Low Carbon/Renewables East Enterprise Area” means the area delineated in red on the map entitled “Low Carbon/Renewables East Enterprise Area - Leith, Edinburgh” and dated 9th February 2012;
@@ -78,9 +78,9 @@ These Regulations may be cited as the Non-Domestic Rates (Enterprise Areas) (Sco
 
 (2) In this regulation a reference to a map is a reference to the map with that title and date deposited at the Scottish Government Business Directorate.
 
-## 3. Lands and heritages in enterprise areas[^key-617ff2119b28e0453c2ced49caf6125a]
+## 3. Lands and heritages in enterprise areas[^c-617ff2119b28e0453c2ced49caf6125a]
 
-Regulation 5(1) applies in the period beginning with 1st April 2013 and ending 31st March 2016[^key-c124f204904acc41084653f2309b96df] in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period[^key-db088a1e788babcb457a2c78193be8d8] where that person occupies lands and heritages in—
+Regulation 5(1) applies in the period beginning with 1st April 2013 and ending 31st March 2016[^c-c124f204904acc41084653f2309b96df] in the circumstances set out in regulation 4 to a person who is liable to pay rates on a day in that period[^c-db088a1e788babcb457a2c78193be8d8] where that person occupies lands and heritages in—
 
 - (a) the General Manufacturing and Growth Sectors Enterprise Area;
 - (b) the Life Sciences Enterprise Area;
@@ -89,7 +89,7 @@ Regulation 5(1) applies in the period beginning with 1st April 2013 and ending 3
 
 for the sole or main purpose of carrying on an activity listed in that part of the Schedule relating to that Enterprise Area or, in the case of the General Manufacturing and Growth Sectors Enterprise Area, to a site within that Enterprise Area.
 
-## 4. Availability of relief[^key-1c1bb14fb52ac9fb6a24bfa361af39dc]
+## 4. Availability of relief[^c-1c1bb14fb52ac9fb6a24bfa361af39dc]
 
 The circumstances referred to in regulation 3 are that—
 
@@ -98,9 +98,9 @@ The circumstances referred to in regulation 3 are that—
   - (ii) the lands and heritages have been unoccupied for a continuous period of 3 months before the person seeking relief took occupation for the purpose of carrying out the activity referred to in regulation 3; and
 - (b) an application for relief is made in accordance with regulation 6.
 
-## 5. Relief granted[^key-446fe6575409e648b2b0634009fad5e7]
+## 5. Relief granted[^c-446fe6575409e648b2b0634009fad5e7]
 
-(1) [^key-686acfe61f0f658dbf876a47ecfec62f]... Where the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief”.
+(1) [^c-686acfe61f0f658dbf876a47ecfec62f]... Where the rateable value of lands and heritages falls within one of the ranges specified in the column headed “Rateable value” in the table below, the amount of rates payable is to be reduced by the percentage specified in the corresponding entry in the column headed “Percentage of rates relief”.
 
 | **Rateable value** | **Percentage of rates relief** |
 | --- | --- |
@@ -113,9 +113,9 @@ The circumstances referred to in regulation 3 are that—
 
 (2) The amount of rate relief calculated under paragraph (1) is to be applied before the calculation of any other relief.
 
-(3)[^key-7868df2fac0cd78e3fb7323cb106bf98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7868df2fac0cd78e3fb7323cb106bf98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Applications for relief[^key-b22815249e53f5d5f0369e810ff98120]
+## 6. Applications for relief[^c-b22815249e53f5d5f0369e810ff98120]
 
 (1) An application for relief under these Regulations must be signed by the ratepayer or a person authorised to sign on behalf of the ratepayer.
 
@@ -134,7 +134,7 @@ The circumstances referred to in regulation 3 are that—
   - (iii) a body corporate, a director of that body; and
 - (d) “sign” or “signed”, in relation to an application made by electronic communication means an electronic signature, as defined in section 7(2) of the 2000 Act.
 
-## 7. Exemptions and discretionary reductions and remissions[^key-c4819476882cb570ab722d4408988741]
+## 7. Exemptions and discretionary reductions and remissions[^c-c4819476882cb570ab722d4408988741]
 
 Nothing in these Regulations is to—
 
@@ -155,7 +155,7 @@ Edinburgh
 
 Regulation 3
 
-### PART 1 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LIFE SCIENCES ENTERPRISE AREA[^key-fe6c7dc367ddaa5bbdb0c575b5559542]
+### PART 1 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LIFE SCIENCES ENTERPRISE AREA[^c-fe6c7dc367ddaa5bbdb0c575b5559542]
 
 - Bioinformatics and health informatics
 - Deployment of information and communications technology to persons engaged in hospital, medical, dental, residential care and other human health activities
@@ -172,7 +172,7 @@ Regulation 3
 - Manufacture of pharmaceutical preparations
 - Medical technologies
 - Pharmaceutical services, including contract research
-- Production of chemicals[^key-c655973379ee31f3c6009c932c4341d9]
+- Production of chemicals[^c-c655973379ee31f3c6009c932c4341d9]
 - Provision of telehealthcare
 - Research and development into, and the manufacture of, medical devices and pharmaceuticals
 - Research and experimental development on natural sciences and engineering
@@ -180,11 +180,11 @@ Regulation 3
 - Veterinary medicine
 - Wholesale of pharmaceutical goods
 
-### PART 2 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LOW CARBON/RENEWABLES EAST ENTERPRISE AREA AND THE LOW CARBON/RENEWABLES NORTH ENTERPRISE AREA[^key-5bc315b327133cd39f36baeafc0c8087]
+### PART 2 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE LOW CARBON/RENEWABLES EAST ENTERPRISE AREA AND THE LOW CARBON/RENEWABLES NORTH ENTERPRISE AREA[^c-5bc315b327133cd39f36baeafc0c8087]
 
 - The design, fabrication, manufacture and assembly of components required for the generation of renewable energy by the technologies described in Schedule 2 of the Renewables Obligation (Scotland) Order 2009[^f00011], including foundations and substructures (fixed or floating), towers, blades and nacelles, and research and development connected to those activities.
 
-### PART 3 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE GENERAL MANUFACTURING AND GROWTH SECTORS ENTERPRISE AREA[^key-40ba578c2d67cac1e21e6b3f73866917]
+### PART 3 — ACTIVITIES GIVING RISE TO ELIGIBILITY FOR BUSINESS RATES RELIEF IN THE GENERAL MANUFACTURING AND GROWTH SECTORS ENTERPRISE AREA[^c-40ba578c2d67cac1e21e6b3f73866917]
 
 **Creative Clyde**
 
@@ -265,43 +265,43 @@ Copies of the maps of the sites within the Enterprise Areas are available for in
 
 [^f00001]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-142d116b358aeadd0d4e18ec7a815c96]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2012/48) restricted (1.4.2021) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/2))
+[^c-142d116b358aeadd0d4e18ec7a815c96]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2012/48) restricted (1.4.2021) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/145/regulation/1/2))
 
-[^key-1a57038d162585f078d8ab5d8ef0a012]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-1a57038d162585f078d8ab5d8ef0a012]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
-[^key-b6e10ba09e7e8ef834955ffaf5d6dcb3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/48/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-b6e10ba09e7e8ef834955ffaf5d6dcb3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2012/48/regulation/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
 [^f00002]: Footnote: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30).
 
-[^key-295e0c6020d315036aa5b181fda13546]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/48/regulation/2/1) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/1/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
+[^c-295e0c6020d315036aa5b181fda13546]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/48/regulation/2/1) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/1/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
 
 [^f00003]: Footnote: [1854 c.91](https://www.legislation.gov.uk/ukpga/1854/91). Section 42 was amended by section 152 of the Local Government etc. (Scotland) Act 1994.
 
-[^key-1dd78e1b79bccb54c084c65195a29646]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/48/regulation/2/1) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/1/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
+[^c-1dd78e1b79bccb54c084c65195a29646]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/48/regulation/2/1) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(1)(b)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/1/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
 
 [^f00004]: Footnote: Section 7B was inserted by section 110(2) of the Local Government Finance Act [1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14) and amended by paragraph 100(4) of Schedule 13 to the Local Government etc. (Scotland) Act 1994.
 
 [^f00005]: Footnote: Section 1 was repealed in part by Schedule 14 to the Local Government etc. (Scotland) Act 1994 and Schedule 4 to the Local Government and Rating Act [1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-617ff2119b28e0453c2ced49caf6125a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/48/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-617ff2119b28e0453c2ced49caf6125a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2012/48/regulation/3) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
-[^key-c124f204904acc41084653f2309b96df]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2012/48/regulation/3) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/2/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
+[^c-c124f204904acc41084653f2309b96df]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2012/48/regulation/3) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/2/a) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
 
-[^key-db088a1e788babcb457a2c78193be8d8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2012/48/regulation/3) substituted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/2/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
+[^c-db088a1e788babcb457a2c78193be8d8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2012/48/regulation/3) substituted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2013/78/regulation/3/2/b) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
 
-[^key-1c1bb14fb52ac9fb6a24bfa361af39dc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/48/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-1c1bb14fb52ac9fb6a24bfa361af39dc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/48/regulation/4) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
-[^key-446fe6575409e648b2b0634009fad5e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/48/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-446fe6575409e648b2b0634009fad5e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/48/regulation/5) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
-[^key-686acfe61f0f658dbf876a47ecfec62f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2012/48/regulation/5/1) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2020/391/regulation/4/a)
+[^c-686acfe61f0f658dbf876a47ecfec62f]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2012/48/regulation/5/1) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2020/391/regulation/4/a)
 
-[^key-7868df2fac0cd78e3fb7323cb106bf98]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2012/48/regulation/5/3) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2020/391/regulation/4/b)
+[^c-7868df2fac0cd78e3fb7323cb106bf98]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2012/48/regulation/5/3) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2020/391/regulation/4/b)
 
-[^key-b22815249e53f5d5f0369e810ff98120]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/48/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-b22815249e53f5d5f0369e810ff98120]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2012/48/regulation/6) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
 [^f00007]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-c4819476882cb570ab722d4408988741]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/48/regulation/7) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-c4819476882cb570ab722d4408988741]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2012/48/regulation/7) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
 [^f00008]: Footnote: [1962 c.9](https://www.legislation.gov.uk/ukpga/1962/9). Section 4(5) was amended by paragraph 57 of Schedule 13 to the Local Government etc. (Scotland) Act 1994, paragraph 2(a) of Schedule 3 to the Local Government and Rating Act 1997 and section 98(3) of the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -309,12 +309,12 @@ Copies of the maps of the sites within the Enterprise Areas are available for in
 
 [^f00010]: Footnote: [1997 c.29](https://www.legislation.gov.uk/ukpga/1997/29). Paragraph 4 was amended by section 28 of the Local Government in Scotland Act [2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-fe6c7dc367ddaa5bbdb0c575b5559542]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-fe6c7dc367ddaa5bbdb0c575b5559542]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/1) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
-[^key-c655973379ee31f3c6009c932c4341d9]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/1) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [4](https://www.legislation.gov.uk/ssi/2013/78/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
+[^c-c655973379ee31f3c6009c932c4341d9]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/1) inserted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [4](https://www.legislation.gov.uk/ssi/2013/78/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
 
-[^key-5bc315b327133cd39f36baeafc0c8087]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
+[^c-5bc315b327133cd39f36baeafc0c8087]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/2) in force at 1.4.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/48/regulation/1)
 
 [^f00011]: Footnote: [S.S.I. 2009/140](https://www.legislation.gov.uk/ssi/2009/140). Schedule 2 was amended by [S.S.I. 2009/276](https://www.legislation.gov.uk/ssi/2009/276), [S.S.I. 2010/147](https://www.legislation.gov.uk/ssi/2010/147) and [S.S.I. 2011/225](https://www.legislation.gov.uk/ssi/2011/225).
 
-[^key-40ba578c2d67cac1e21e6b3f73866917]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/3) substituted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [5](https://www.legislation.gov.uk/ssi/2013/78/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))
+[^c-40ba578c2d67cac1e21e6b3f73866917]: Textual amendment: [Sch. Pt. 3](https://www.legislation.gov.uk/ssi/2012/48/schedule/part/3) substituted (1.4.2013) by [The Non-Domestic Rates (Enterprise Areas) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/78)](https://www.legislation.gov.uk/ssi/2013/78), [regs. 1](https://www.legislation.gov.uk/ssi/2013/78/regulation/1), [5](https://www.legislation.gov.uk/ssi/2013/78/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/ssi/2013/78/regulation/6))

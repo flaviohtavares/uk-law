@@ -156,18 +156,18 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (3) The Bank of England may otherwise provide information received from a designated credit reference agency pursuant to paragraph (1) only where such disclosure is—
 
-- (a)[^key-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) to any [^key-4288802c53c3e55776be4e2427398b63]... person where—
+- (a)[^c-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) to any [^c-4288802c53c3e55776be4e2427398b63]... person where—
   - (i) such information has already lawfully been made available to the public;
   - (ii) such information is in the form of a summary or collection of information so framed that it is not possible to ascertain from it information relating to a particular person;
   - (iii) the person to whom the information relates has provided consent for such disclosure;
-  - (iv) such disclosure is for the purposes of any criminal investigation or criminal proceedings whether in the United Kingdom or elsewhere; or[^key-741b3edae11d9a8412328dae97ca9e9c]
-  - (v) such disclosure is for the institution of, or otherwise for the purposes of, any proceedings arising by virtue of these Regulations or under the 2000 Act or any proceedings to which the Bank of England is, or is proposed to be, a party; [^key-112e1bfd95cb15584af6c3ccfb207e1f]...
-  - (vi)[^key-112e1bfd95cb15584af6c3ccfb207e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv) such disclosure is for the purposes of any criminal investigation or criminal proceedings whether in the United Kingdom or elsewhere; or[^c-741b3edae11d9a8412328dae97ca9e9c]
+  - (v) such disclosure is for the institution of, or otherwise for the purposes of, any proceedings arising by virtue of these Regulations or under the 2000 Act or any proceedings to which the Bank of England is, or is proposed to be, a party; [^c-112e1bfd95cb15584af6c3ccfb207e1f]...
+  - (vi)[^c-112e1bfd95cb15584af6c3ccfb207e1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0dac149d9115293b18c7e68228e4c839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Right of action for failure to provide information
 
@@ -216,7 +216,7 @@ A failure by a designated bank to comply with an obligation arising under regula
 (1) The Treasury may designate a credit reference agency only if the agency—
 
 - (a) carries on activities which consist primarily of the furnishing of persons with information relevant to the financial standing of persons or businesses and the collection of information for that purpose;
-- (b) has procedures in place designed to give effect to the requirements of the data protection legislation[^key-6a99a539164b40d051bb0d7e8f5c6fca] and sections 158 to 160 of the Consumer Credit Act 1974 [^c22695131];
+- (b) has procedures in place designed to give effect to the requirements of the data protection legislation[^c-6a99a539164b40d051bb0d7e8f5c6fca] and sections 158 to 160 of the Consumer Credit Act 1974 [^c22695131];
 - (c) permits all small and medium sized businesses about which it holds information to access that information and to challenge inaccuracies;
 - (d) has systems in place which protect information against loss, corruption, destruction, misuse and unauthorised access; and
 - (e) has systems in place which are capable of processing information in bulk.
@@ -231,7 +231,7 @@ A failure by a designated bank to comply with an obligation arising under regula
   - (iv) the agency's compliance, and likely future compliance, with the requirements referred to in paragraph (1)(b); and
 - (c) such other matters as they consider appropriate.
 
-(3)[^key-e3966892aa0a1b4a48af52b41c56b511] In this regulation, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(3)[^c-e3966892aa0a1b4a48af52b41c56b511] In this regulation, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ### 13. Consultation before designation of a credit reference agency
 
@@ -254,13 +254,13 @@ The Treasury must, in such manner as they determine,—
 
 ### 15. Access to and correction of information for individuals and small firms
 
-(1)[^key-3957b421ccf9cd0f57952ec7e5933e25] Section 13 of the Data Protection Act 2018 (rights of the data subject under the UK GDPR[^key-7ffa407b6d5e1154c21fb5cbbf529010]: obligations of credit reference agencies) applies in respect of a designated credit reference agency which is not a credit reference agency within the meaning of section 145(8) of the Consumer Credit Act 1974 as if it were such an agency.
+(1)[^c-3957b421ccf9cd0f57952ec7e5933e25] Section 13 of the Data Protection Act 2018 (rights of the data subject under the UK GDPR[^c-7ffa407b6d5e1154c21fb5cbbf529010]: obligations of credit reference agencies) applies in respect of a designated credit reference agency which is not a credit reference agency within the meaning of section 145(8) of the Consumer Credit Act 1974 as if it were such an agency.
 
 (2) Sections 157 to 160 of the Consumer Credit Act 1974 (credit reference agencies) [^c22695161], and any regulations made under those sections, apply in respect of a designated credit reference agency which does not carry on, by way of business, an activity of the kind specified by article 89B of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c22695171] (providing credit references), as if it did so carry on such an activity.
 
 (3) In the event that the Treasury revokes the designation of a designated credit reference agency, paragraphs (1) and (2) continue to apply in respect of such credit reference agency for a period two years starting on the date of such revocation but thereafter shall cease to apply.
 
-(4)[^key-2731b5610b298a5716607e24c34144d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2731b5610b298a5716607e24c34144d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Right of action in relation to inaccurate information
 
@@ -914,33 +914,33 @@ An impact assessment of the effect of the Regulations has been prepared and is a
 
 [^c22695091]: Marginal citation: 2006\. c.46.
 
-[^key-0dac149d9115293b18c7e68228e4c839]: Textual amendment: Reg. 7(3)(a)(4)(5) omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45)
+[^c-0dac149d9115293b18c7e68228e4c839]: Textual amendment: Reg. 7(3)(a)(4)(5) omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45)
 
-[^key-4288802c53c3e55776be4e2427398b63]: Textual amendment: Word in reg. 7(3)(b) omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45)
+[^c-4288802c53c3e55776be4e2427398b63]: Textual amendment: Word in reg. 7(3)(b) omitted (1.3.2017) by virtue of [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 45](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/45)
 
-[^key-741b3edae11d9a8412328dae97ca9e9c]: Textual amendment: Word in [reg. 7(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/7/3/b/iv) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-741b3edae11d9a8412328dae97ca9e9c]: Textual amendment: Word in [reg. 7(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/7/3/b/iv) inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2019/710/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-112e1bfd95cb15584af6c3ccfb207e1f]: Textual amendment: [Reg. 7(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/7/3/b/vi) and word omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [11(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-112e1bfd95cb15584af6c3ccfb207e1f]: Textual amendment: [Reg. 7(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/7/3/b/vi) and word omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [11(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22695101]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
 [^c22695111]: Marginal citation: [Section 1164](https://www.legislation.gov.uk/uksi/2015/1945/section/1164) was amended by paragraph 12 of Schedule 18 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21)
 
-[^key-6a99a539164b40d051bb0d7e8f5c6fca]: Textual amendment: Words in reg. 12(1)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 386(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/386/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-6a99a539164b40d051bb0d7e8f5c6fca]: Textual amendment: Words in reg. 12(1)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 386(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/386/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c22695131]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-e3966892aa0a1b4a48af52b41c56b511]: Textual amendment: Reg. 12(3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 386(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/386/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-e3966892aa0a1b4a48af52b41c56b511]: Textual amendment: Reg. 12(3) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 386(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/386/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-3957b421ccf9cd0f57952ec7e5933e25]: Textual amendment: Reg. 15(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 387(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/387/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-3957b421ccf9cd0f57952ec7e5933e25]: Textual amendment: Reg. 15(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 387(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/387/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-7ffa407b6d5e1154c21fb5cbbf529010]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/1) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 97(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/97/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ffa407b6d5e1154c21fb5cbbf529010]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/1) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 97(2)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/97/2) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22695161]: Marginal citation: Sections 157 to 160 were amended by sections 62(1), 62(2), (3) and (5) of the Data Protection Act 1998, paragraph 6(1) of Schedule 5 to the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 5(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/5/6) of the [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), [paragraph 7](https://www.legislation.gov.uk/ukpga/2006/14/paragraph/7) of part I of Schedule 2 to the Freedom of Information Act 2000, [S.I. 1998/997](https://www.legislation.gov.uk/uksi/1998/997), [S.I](https://www.legislation.gov.uk/uksi/1998/997/section/I). 2000/183, [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [S.I](https://www.legislation.gov.uk/uksi/2007/123/section/I). 2010/1010, [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), and [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882).
 
 [^c22695171]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-2731b5610b298a5716607e24c34144d1]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/4) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 97(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/97/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2731b5610b298a5716607e24c34144d1]: Textual amendment: [Reg. 15(4)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/4) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 97(3)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/97/3) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22695181]: Marginal citation: Section 226 was amended by paragraph 1 of Schedule 11 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209) and 2011/99.
 

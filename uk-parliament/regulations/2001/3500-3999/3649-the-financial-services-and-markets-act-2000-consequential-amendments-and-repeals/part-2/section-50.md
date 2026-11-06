@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Disclosure of interests in shares: interpretation[^key-032b67d9423b9e42b95a2584ce30e133]
+## 50. Disclosure of interests in shares: interpretation[^c-032b67d9423b9e42b95a2584ce30e133]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-032b67d9423b9e42b95a2584ce30e133]: Commencement: Art. 50 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-032b67d9423b9e42b95a2584ce30e133]: Commencement: Art. 50 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00055]: Footnote: Substituted by [SR (NI) 1994/2](https://www.legislation.gov.uk/nisr/1994/2).

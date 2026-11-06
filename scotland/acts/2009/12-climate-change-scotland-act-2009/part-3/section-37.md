@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Reports on emissions attributable to Scottish consumption of goods and services[^key-3dcace9737ded5cb416096725beea0b4]
+## 37. Reports on emissions attributable to Scottish consumption of goods and services[^c-3dcace9737ded5cb416096725beea0b4]
 
 *Extent: S*
 
@@ -24,19 +24,19 @@ summary: ''
 
 (2) The report must, in so far as reasonably practicable, set out
 
-- (a)[^key-be3541184dd9fde90422b72b8d097ec6] the emissions of greenhouse gases (whether in Scotland or elsewhere) which are produced by or otherwise associated with the consumption and use of goods and services in Scotland during that year.
-- (b)[^key-b59f610e1778212514e9a983073f8ad3] the goods and services the consumption and use of which contributed most significantly to those emissions.
+- (a)[^c-be3541184dd9fde90422b72b8d097ec6] the emissions of greenhouse gases (whether in Scotland or elsewhere) which are produced by or otherwise associated with the consumption and use of goods and services in Scotland during that year.
+- (b)[^c-b59f610e1778212514e9a983073f8ad3] the goods and services the consumption and use of which contributed most significantly to those emissions.
 
 (3) The report may also contain such other information as the Scottish Ministers consider appropriate.
 
-(4)[^key-45e591df915e95b04c374066bf2bf39f] Each report under subsection (1) must be laid before the Scottish Parliament within the period of 15 months beginning on the date on which the previous report under that subsection was so laid.
+(4)[^c-45e591df915e95b04c374066bf2bf39f] Each report under subsection (1) must be laid before the Scottish Parliament within the period of 15 months beginning on the date on which the previous report under that subsection was so laid.
 
 ## Annotations
 
-[^key-3dcace9737ded5cb416096725beea0b4]: Commencement: S. 37 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-3dcace9737ded5cb416096725beea0b4]: Commencement: S. 37 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-be3541184dd9fde90422b72b8d097ec6]: Textual amendment: Words in s. 37(2) renumbered as s. 37(2)(a) (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 21(a)(i)](https://www.legislation.gov.uk/asp/2019/15/section/21/a/i), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-be3541184dd9fde90422b72b8d097ec6]: Textual amendment: Words in s. 37(2) renumbered as s. 37(2)(a) (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 21(a)(i)](https://www.legislation.gov.uk/asp/2019/15/section/21/a/i), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-b59f610e1778212514e9a983073f8ad3]: Textual amendment: S. 37(2)(b) inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 21(a)(ii)](https://www.legislation.gov.uk/asp/2019/15/section/21/a/ii), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-b59f610e1778212514e9a983073f8ad3]: Textual amendment: S. 37(2)(b) inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 21(a)(ii)](https://www.legislation.gov.uk/asp/2019/15/section/21/a/ii), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-45e591df915e95b04c374066bf2bf39f]: Textual amendment: S. 37(4) inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 21(b)](https://www.legislation.gov.uk/asp/2019/15/section/21/b), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-45e591df915e95b04c374066bf2bf39f]: Textual amendment: S. 37(4) inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 21(b)](https://www.legislation.gov.uk/asp/2019/15/section/21/b), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 233. Orders enforcing compliance with these Rules[^key-de3bdf3ce75c42ef91efc8a5e9510e0f]
+## 233. Orders enforcing compliance with these Rules[^c-de3bdf3ce75c42ef91efc8a5e9510e0f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de3bdf3ce75c42ef91efc8a5e9510e0f]: Commencement: Rule 233 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-de3bdf3ce75c42ef91efc8a5e9510e0f]: Commencement: Rule 233 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

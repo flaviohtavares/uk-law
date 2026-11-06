@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) An application by the Secretary of State for an order of reimbursement under Article 17(4) of the 1977 Order or Article 18(4) of the 1988 Order may be made by notice in Form 340 or 371 as appropriate [^key-adc92f03920bc05b4c83f6921d8efec5]....
+(1) An application by the Secretary of State for an order of reimbursement under Article 17(4) of the 1977 Order or Article 18(4) of the 1988 Order may be made by notice in Form 340 or 371 as appropriate [^c-adc92f03920bc05b4c83f6921d8efec5]....
 
 (2) Such notice shall be served on the person to whom the compensation has been paid and a copy on the chief clerk not less than 15 days before the day appointed for the commencement of the sitting at which the application is to be heard.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adc92f03920bc05b4c83f6921d8efec5]: Textual amendment: Words in Order 54 rule 10(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(d)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-adc92f03920bc05b4c83f6921d8efec5]: Textual amendment: Words in Order 54 rule 10(1) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(22)(d)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/22/d); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)

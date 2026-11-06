@@ -40,7 +40,7 @@ An Act of the National Assembly for Wales to make provision about the use of the
 
 **Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
 
-## 1. Amendment to section 35 of the Act (Equality of treatment)[^key-37a12cf67d164f90381c6b33e9c3bc6d]
+## 1. Amendment to section 35 of the Act (Equality of treatment)[^c-37a12cf67d164f90381c6b33e9c3bc6d]
 
 (1) Section 35 of the Government of Wales Act 2006 (c.32) (“**the Act**”) is amended as follows.
 
@@ -56,7 +56,7 @@ An Act of the National Assembly for Wales to make provision about the use of the
 >
 > (1D) Paragraph 8 of Schedule 2 makes provision about how the Assembly Commission must enable effect to be given to subsections (1) to (1C).
 
-## 2. Amendment to Schedule 2 to the Act (Assembly Commission)[^key-68d463b81fc5db78f95bea7af2c53eec]
+## 2. Amendment to Schedule 2 to the Act (Assembly Commission)[^c-68d463b81fc5db78f95bea7af2c53eec]
 
 (1) Paragraph 8 of Schedule 2 to the Act (Principles in accordance with which functions are to be exercised) is amended as follows.
 
@@ -127,7 +127,7 @@ An Act of the National Assembly for Wales to make provision about the use of the
 >
 > (12) The Assembly Commission must give effect to the Scheme.
 
-## 3. Short title and commencement[^key-7fd799d65081b1dd412e7ff8c0dc589a]
+## 3. Short title and commencement[^c-7fd799d65081b1dd412e7ff8c0dc589a]
 
 This Act—
 
@@ -136,8 +136,8 @@ This Act—
 
 ## Annotations
 
-[^key-37a12cf67d164f90381c6b33e9c3bc6d]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2012/1/section/1) in force at 13.11.2012, see [s. 3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
+[^c-37a12cf67d164f90381c6b33e9c3bc6d]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2012/1/section/1) in force at 13.11.2012, see [s. 3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
 
-[^key-68d463b81fc5db78f95bea7af2c53eec]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2012/1/section/2) in force at 13.11.2012, see [s. 3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
+[^c-68d463b81fc5db78f95bea7af2c53eec]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2012/1/section/2) in force at 13.11.2012, see [s. 3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
 
-[^key-7fd799d65081b1dd412e7ff8c0dc589a]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2012/1/section/3) in force at 13.11.2012, see [s. 3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)
+[^c-7fd799d65081b1dd412e7ff8c0dc589a]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2012/1/section/3) in force at 13.11.2012, see [s. 3(b)](https://www.legislation.gov.uk/anaw/2012/1/section/3/b)

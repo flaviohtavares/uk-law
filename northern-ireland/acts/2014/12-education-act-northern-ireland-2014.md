@@ -52,13 +52,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) It is the duty of the Authority (so far as its powers extend) to encourage, facilitate and promote shared education.
 
-(3A)[^key-e5e9bf2c9b9efdda0500f346f2aaa277] It is a duty of the Authority (so far as its powers extend) to encourage, facilitate and support integrated education.
+(3A)[^c-e5e9bf2c9b9efdda0500f346f2aaa277] It is a duty of the Authority (so far as its powers extend) to encourage, facilitate and support integrated education.
 
 (4) It is the duty of the Authority (so far as its powers extend) to encourage, facilitate and promote the community use of premises of grant-aided schools.
 
 ### 3. Dissolution of education and library boards and Staff Commission[^c2231419]
 
-(1)[^key-f5e7f3816ac4a174beccb44edff57c3d] The following bodies are dissolved—
+(1)[^c-f5e7f3816ac4a174beccb44edff57c3d] The following bodies are dissolved—
 
 - (a) education and library boards;
 - (b) the Staff Commission for Education and Library Boards.
@@ -75,9 +75,9 @@ The Department may, subject to such conditions as it thinks fit, pay grants to a
 
 ### 5. Amendments, repeals and other consequential provision[^c2231420]
 
-(1)[^key-71c3b692bc029f9f1a6a8c524b0e4106] The statutory provisions set out in Schedule 3 have effect subject to the amendments specified in that Schedule.
+(1)[^c-71c3b692bc029f9f1a6a8c524b0e4106] The statutory provisions set out in Schedule 3 have effect subject to the amendments specified in that Schedule.
 
-(2)[^key-71c3b692bc029f9f1a6a8c524b0e4106] The statutory provisions set out in Schedule 4 are repealed to the extent specified in the second column of that Schedule.
+(2)[^c-71c3b692bc029f9f1a6a8c524b0e4106] The statutory provisions set out in Schedule 4 are repealed to the extent specified in the second column of that Schedule.
 
 (3) The Department may by order make such supplementary, incidental, consequential or transitional provision as it considers necessary or appropriate in consequence of, or for giving full effect to, any provision made by this Act.
 
@@ -104,12 +104,12 @@ The Department may, subject to such conditions as it thinks fit, pay grants to a
 
 (2) The following provisions of this Act come into operation on such date as the Department may by order appoint—
 
-- (a)[^key-c64238f709485693ec474ae208195902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c64238f709485693ec474ae208195902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 3(1);
 - (c) section 5(1) and (2) and Schedules 3 and 4;
-- (d)[^key-c64238f709485693ec474ae208195902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c64238f709485693ec474ae208195902] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-5111fde485d022f73eba5f47cf5d368a] The following provisions come into operation on the day after the day on which the Shared Education Act (Northern Ireland) 2016 receives Royal Assent—
+(2A)[^c-5111fde485d022f73eba5f47cf5d368a] The following provisions come into operation on the day after the day on which the Shared Education Act (Northern Ireland) 2016 receives Royal Assent—
 
 - (a) section 2(3);
 - (b) paragraph 8(2) of Schedule 1.
@@ -370,7 +370,7 @@ as the Department may, with the approval of the Department of Finance and Person
 
 ### Commissioner for Complaints
 
-**18.**[^key-f27d73f8d171f56389a8f2cad5d6e0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f27d73f8d171f56389a8f2cad5d6e0d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Freedom of information
 
@@ -488,7 +488,7 @@ Section 5.
 
 ### The Education Orders - general amendment of references to education and library boards
 
-**1.**[^key-0da59567882f10f3b780d3763e6ee0e5] (1) In the Education Orders—
+**1.**[^c-0da59567882f10f3b780d3763e6ee0e5] (1) In the Education Orders—
 
 - (a) for “a board”, “the board”, “that board”, “the boards”, “each board” and “every board” (wherever occurring) substitute “the Authority”;
 - (b) for “the board's” (wherever occurring) substitute “the Authority's”.
@@ -500,27 +500,27 @@ Section 5.
 
 ### The School Sites Act (Northern Ireland) 1928 (c. 8)
 
-**2.**[^key-e4630062a59f304f4b6c644165fbeed6] In section 1(1) and (2) for “an education authority” substitute “ the Education Authority ”.
+**2.**[^c-e4630062a59f304f4b6c644165fbeed6] In section 1(1) and (2) for “an education authority” substitute “ the Education Authority ”.
 
 ### The Exchequer and Financial Provisions Act (Northern Ireland) 1950 (c. 3)
 
-**3.**[^key-2d25d326de39ee2c7c56cc9e02c2e16c] In section 33(1) for “boards under Article 114 of the 1986 Order” substitute “ the Education Authority under paragraph 13 of Schedule 1 to the Education Act (Northern Ireland) 2014 ”.
+**3.**[^c-2d25d326de39ee2c7c56cc9e02c2e16c] In section 33(1) for “boards under Article 114 of the 1986 Order” substitute “ the Education Authority under paragraph 13 of Schedule 1 to the Education Act (Northern Ireland) 2014 ”.
 
 ### The Superannuation (Northern Ireland) Order 1972 (NI 10)
 
-**4.**[^key-6de07309922c337d83a8c03a732c21ff] In Article 11(5) for “representatives of local education authorities and” substitute “ the Education Authority and with representatives ”.
+**4.**[^c-6de07309922c337d83a8c03a732c21ff] In Article 11(5) for “representatives of local education authorities and” substitute “ the Education Authority and with representatives ”.
 
 ### The Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14)
 
-**5.**[^key-31eedaf039e70ee3fe641a789f1a66d2] In Article 67 for “Education and Library Boards” substitute “ the Education Authority ”.
+**5.**[^c-31eedaf039e70ee3fe641a789f1a66d2] In Article 67 for “Education and Library Boards” substitute “ the Education Authority ”.
 
 ### The Solicitors (Northern Ireland) Order 1976 (NI 12)
 
-**6.**[^key-dcedb8969721b9d4cc097a6ab71e2d29] In Article 3(2) in the definition of “local authority” for “an Education and Library Board established under the Education and Libraries (Northern Ireland) Order 1972” substitute “ the Education Authority ”.
+**6.**[^c-dcedb8969721b9d4cc097a6ab71e2d29] In Article 3(2) in the definition of “local authority” for “an Education and Library Board established under the Education and Libraries (Northern Ireland) Order 1972” substitute “ the Education Authority ”.
 
 ### The Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
 
-**7.**[^key-a374c5ac61e7b56f8c4c17a3ee8c9f5a] (1) In Article 24(1), in the Table, for “Education and Library Board” substitute “ Education Authority ”.
+**7.**[^c-a374c5ac61e7b56f8c4c17a3ee8c9f5a] (1) In Article 24(1), in the Table, for “Education and Library Board” substitute “ Education Authority ”.
 
 (2) In Article 25—
 
@@ -531,11 +531,11 @@ Section 5.
 
 ### The Rates (Northern Ireland) Order 1977 (NI 28)
 
-**8.**[^key-c2de77ea44e6579bf13710852ffe957e] In Schedule 13 for the entry relating to an education and library board substitute— “ The Education Authority. ”.
+**8.**[^c-c2de77ea44e6579bf13710852ffe957e] In Schedule 13 for the entry relating to an education and library board substitute— “ The Education Authority. ”.
 
 ### The Education and Libraries (Northern Ireland) Order 1986 (NI 3)
 
-**9.**[^key-66cafba8b606d070e5dc0bcf9a893f47] (1) In Article 2(2) at the appropriate places in alphabetical order insert the following definition—
+**9.**[^c-66cafba8b606d070e5dc0bcf9a893f47] (1) In Article 2(2) at the appropriate places in alphabetical order insert the following definition—
 
 > - “**the Authority**” means the Education Authority;
 
@@ -585,7 +585,7 @@ Section 5.
 
 ### The Disabled Persons (Northern Ireland) Act 1989 (c. 10)
 
-**10.**[^key-bfe37e52cbf97d1d8008aa4cb10591b3] (1) In section 2(7) for “education and library boards” substitute “ the Authority ”.
+**10.**[^c-bfe37e52cbf97d1d8008aa4cb10591b3] (1) In section 2(7) for “education and library boards” substitute “ the Authority ”.
 
 (2) In section 5(1)—
 
@@ -620,7 +620,7 @@ Section 5.
 
 ### The Education Reform (Northern Ireland) Order 1989 (NI 20)
 
-**11.**[^key-85ec3a4a8b3195b89e808cd7f391630f] (1) In Article 69(4)(b)(i) for “relevant board” substitute “ Authority ”.
+**11.**[^c-85ec3a4a8b3195b89e808cd7f391630f] (1) In Article 69(4)(b)(i) for “relevant board” substitute “ Authority ”.
 
 (2) In Article 71 for “relevant board” (wherever occurring) substitute “ Authority ”.
 
@@ -676,13 +676,13 @@ Section 5.
 
 ### The Youth Service (Northern Ireland) Order 1989 (NI 22)
 
-**12.**[^key-e2abcf7b22e19924dd546c89854af3f2] (1) In Article 4(1)(a) for “education and library boards” substitute “ the Education Authority ”.
+**12.**[^c-e2abcf7b22e19924dd546c89854af3f2] (1) In Article 4(1)(a) for “education and library boards” substitute “ the Education Authority ”.
 
 (2) In the Schedule in paragraph 2(1) for “education and library boards” substitute “ the Education Authority ”.
 
 ### The Disability Discrimination Act 1995 (c. 50)
 
-**13.**[^key-dd39b4457e72af7d8bd51492d0f0951a] In section 19(6) for paragraph (a) substitute—
+**13.**[^c-dd39b4457e72af7d8bd51492d0f0951a] In section 19(6) for paragraph (a) substitute—
 
 > - (a) the Education Authority
 
@@ -690,7 +690,7 @@ Section 5.
 
 ### The Children (Northern Ireland) Order 1995 (NI 2)
 
-**14.**[^key-6906f5cca6385012e5af13e6f90757e1] (1) In Article 19(7) for “an education and library board” substitute “ the Education Authority ”.
+**14.**[^c-6906f5cca6385012e5af13e6f90757e1] (1) In Article 19(7) for “an education and library board” substitute “ the Education Authority ”.
 
 (2) In Article 20(2)(a) for “the appropriate education and library board” substitute “ the Education Authority ”.
 
@@ -784,7 +784,7 @@ Section 5.
 
 ### The Education (Northern Ireland) Order 1996 (NI 1)
 
-**15.**[^key-faade153360071d1b300e274b7c1794e] (1) In Article 14(1)(b) for “the appropriate board” substitute “ the Authority ”.
+**15.**[^c-faade153360071d1b300e274b7c1794e] (1) In Article 14(1)(b) for “the appropriate board” substitute “ the Authority ”.
 
 (2) In Article 18A(5) for the words from the beginning to “Article 16” substitute “ Where the Authority is required by paragraph (4)(a) to make a statement under Article 16, the Authority ”.
 
@@ -792,7 +792,7 @@ Section 5.
 
 ### The Employment Rights (Northern Ireland) Order 1996 (NI 16)
 
-**16.**[^key-99ac4ca6cc50f079b28275096ab7954e] In Article 78(7) for sub-paragraph (a) substitute—
+**16.**[^c-99ac4ca6cc50f079b28275096ab7954e] In Article 78(7) for sub-paragraph (a) substitute—
 
 > - (a) the Education Authority;
 
@@ -800,7 +800,7 @@ Section 5.
 
 ### The Race Relations (Northern Ireland) Order 1997 (NI 6)
 
-**17.**[^key-d6733711daa479631c44cd416450fd4b] (1) In Article 18(1), in the Table, for “Education and library board” substitute “ Education Authority ”.
+**17.**[^c-d6733711daa479631c44cd416450fd4b] (1) In Article 18(1), in the Table, for “Education and library board” substitute “ Education Authority ”.
 
 (2) In Article 19—
 
@@ -811,7 +811,7 @@ Section 5.
 
 ### The Further Education (Northern Ireland) Order 1997 (NI 15)
 
-**18.**[^key-bc80c3d60ab8fafc321280ad83aeb8de] (1) In Article 6(2) for sub-paragraph (a) substitute—
+**18.**[^c-bc80c3d60ab8fafc321280ad83aeb8de] (1) In Article 6(2) for sub-paragraph (a) substitute—
 
 > - (a) the Authority; and
 
@@ -847,11 +847,11 @@ Section 5.
 
 ### The Museums and Galleries (Northern Ireland) Order 1998 (NI 2)
 
-**19.**[^key-3ee79645fa9eec62be1f2e8c4031750d] In Article 4(8)(b) for “education and library boards” substitute “ the Education Authority ”.
+**19.**[^c-3ee79645fa9eec62be1f2e8c4031750d] In Article 4(8)(b) for “education and library boards” substitute “ the Education Authority ”.
 
 ### The Education (Northern Ireland) Order 1998 (NI 13)
 
-**20.**[^key-401e0180bb621457702680e9c0796fa3] (1) In Article 16(7) for “boards to exercise their” substitute “ the Authority to exercise its ”.
+**20.**[^c-401e0180bb621457702680e9c0796fa3] (1) In Article 16(7) for “boards to exercise their” substitute “ the Authority to exercise its ”.
 
 (2) In Articles 56(1) and 59(1)(b) for “the board concerned” substitute “ the Authority ”.
 
@@ -867,7 +867,7 @@ Section 5.
 
 ### The Education (Student Support) (Northern Ireland) Order 1998 (NI 14)
 
-**21.**[^key-66b82a3afdb80fcaea603c27720d6137] In Article 4(1) for sub-paragraph (a) substitute—
+**21.**[^c-66b82a3afdb80fcaea603c27720d6137] In Article 4(1) for sub-paragraph (a) substitute—
 
 > - (a) the Education Authority; or
 
@@ -875,15 +875,15 @@ Section 5.
 
 ### The Education and Libraries (Northern Ireland) Order 2003 (NI 12)
 
-**22.**[^key-f1d4b57d9a0a6f5118a6dd058cd79b69] In Article 37(5) for “A body to which this paragraph applies” substitute “ The Authority ”.
+**22.**[^c-f1d4b57d9a0a6f5118a6dd058cd79b69] In Article 37(5) for “A body to which this paragraph applies” substitute “ The Authority ”.
 
 ### The Higher Education (Northern Ireland) Order 2005 (NI 5)
 
-**23.**[^key-2be978e357e7d175fb134fedf9236c4c] In Article 13(7) in the definition of “student support authority” for “any board or” substitute “ the Education Authority or any ”.
+**23.**[^c-2be978e357e7d175fb134fedf9236c4c] In Article 13(7) in the definition of “student support authority” for “any board or” substitute “ the Education Authority or any ”.
 
 ### The Special Educational Needs and Disability (Northern Ireland) 2005 (NI 6)
 
-**24.**[^key-c0ebeb8e6cb7733396b15cc75cc91593] (1) Paragraph 1 above applies in relation to the Order as it applies in relation to the Education Orders.
+**24.**[^c-c0ebeb8e6cb7733396b15cc75cc91593] (1) Paragraph 1 above applies in relation to the Order as it applies in relation to the Education Orders.
 
 (2) In Article 19 (1) at the end add—
 
@@ -893,7 +893,7 @@ Section 5.
 
 ### The Education (Northern Ireland) Order 2006 (NI 11)
 
-**25.**[^key-41d64f7647749bdf7aeeb2ee76edcbd3] (1) In Article 12(4)(a)(ii) and (8)(a) for “the relevant board” substitute “ the Authority ”.
+**25.**[^c-41d64f7647749bdf7aeeb2ee76edcbd3] (1) In Article 12(4)(a)(ii) and (8)(a) for “the relevant board” substitute “ the Authority ”.
 
 (2) In Article 14(3)(c) and (4) for “the relevant board” substitute “ the Authority ”.
 
@@ -907,7 +907,7 @@ Section 5.
 
 ### The Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (NI 11)
 
-**26.**[^key-38443d0d1d86ba9918e152a8a5246d59] (1) In Article 41—
+**26.**[^c-38443d0d1d86ba9918e152a8a5246d59] (1) In Article 41—
 
 - (a) in the title, for “Education and Library Boards” substitute “ The Education Authority ”;
 - (b) in paragraph (1) for “An Education and Library Board (“a board”)” substitute “ The Education Authority ”;
@@ -926,11 +926,11 @@ Section 5.
 
 ### The Safeguarding Board Act (Northern Ireland) 2011 (c. 7)
 
-**27.**[^key-249d9b4eff80db09be171c4020c97039] (1) In section 1(3)(g) for “education and library boards” substitute “ the Education Authority ”.
+**27.**[^c-249d9b4eff80db09be171c4020c97039] (1) In section 1(3)(g) for “education and library boards” substitute “ the Education Authority ”.
 
 (2) In section 12(1)(g) for “education and library boards” substitute “ the Education Authority ”.
 
-## SCHEDULE 4 — Repeals[^key-e425284cd7c66389a3230c57db358ef7]
+## SCHEDULE 4 — Repeals[^c-e425284cd7c66389a3230c57db358ef7]
 
 Section 5.
 
@@ -1088,76 +1088,76 @@ Section 5.
 
 [^c2231418]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2014/12/section/2) partly in operation; [s. 2(1)(2)(4)](https://www.legislation.gov.uk/nia/2014/12/section/2/1/2/4) in operation at 12.12.2014 see [s. 7(3)](https://www.legislation.gov.uk/nia/2014/12/section/7/3)
 
-[^key-e5e9bf2c9b9efdda0500f346f2aaa277]: Textual amendment: [S. 2(3A)](https://www.legislation.gov.uk/nia/2014/12/section/2/3A) inserted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/15/section/4/2), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-e5e9bf2c9b9efdda0500f346f2aaa277]: Textual amendment: [S. 2(3A)](https://www.legislation.gov.uk/nia/2014/12/section/2/3A) inserted (26.10.2022) by [Integrated Education Act (Northern Ireland) 2022 (c. 15)](https://www.legislation.gov.uk/nia/2022/15), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/15/section/4/2), [15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
 [^c2231419]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/12/section/3) partly in operation; [s. 3(2)](https://www.legislation.gov.uk/nia/2014/12/section/3/2) in operation at 12.12.2014 see [s. 7(3)](https://www.legislation.gov.uk/nia/2014/12/section/7/3)
 
-[^key-f5e7f3816ac4a174beccb44edff57c3d]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/nia/2014/12/section/3/1) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/35/article/2/a)
+[^c-f5e7f3816ac4a174beccb44edff57c3d]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/nia/2014/12/section/3/1) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/35/article/2/a)
 
 [^c2231420]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/12/section/5) partly in operation; [s. 5(3)(4)(5)](https://www.legislation.gov.uk/nia/2014/12/section/5/3/4/5) in operation at 12.12.2014 see [s. 7(3)](https://www.legislation.gov.uk/nia/2014/12/section/7/3)
 
-[^key-71c3b692bc029f9f1a6a8c524b0e4106]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/nia/2014/12/section/5/1)[(2)](https://www.legislation.gov.uk/nia/2014/12/section/5/2) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-71c3b692bc029f9f1a6a8c524b0e4106]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/nia/2014/12/section/5/1)[(2)](https://www.legislation.gov.uk/nia/2014/12/section/5/2) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-c64238f709485693ec474ae208195902]: Textual amendment: S. 7(2)(a)(d) omitted (10.5.2016) by virtue of [Shared Education Act (Northern Ireland) 2016 (c. 20)](https://www.legislation.gov.uk/nia/2016/20), [ss. 8(2)](https://www.legislation.gov.uk/nia/2016/20/section/8/2), [10(2)](https://www.legislation.gov.uk/nia/2016/20/section/10/2)
+[^c-c64238f709485693ec474ae208195902]: Textual amendment: S. 7(2)(a)(d) omitted (10.5.2016) by virtue of [Shared Education Act (Northern Ireland) 2016 (c. 20)](https://www.legislation.gov.uk/nia/2016/20), [ss. 8(2)](https://www.legislation.gov.uk/nia/2016/20/section/8/2), [10(2)](https://www.legislation.gov.uk/nia/2016/20/section/10/2)
 
-[^key-5111fde485d022f73eba5f47cf5d368a]: Textual amendment: S. 7(2A) inserted (10.5.2016) by [Shared Education Act (Northern Ireland) 2016 (c. 20)](https://www.legislation.gov.uk/nia/2016/20), [ss. 8(3)](https://www.legislation.gov.uk/nia/2016/20/section/8/3), [10(2)](https://www.legislation.gov.uk/nia/2016/20/section/10/2)
+[^c-5111fde485d022f73eba5f47cf5d368a]: Textual amendment: S. 7(2A) inserted (10.5.2016) by [Shared Education Act (Northern Ireland) 2016 (c. 20)](https://www.legislation.gov.uk/nia/2016/20), [ss. 8(3)](https://www.legislation.gov.uk/nia/2016/20/section/8/3), [10(2)](https://www.legislation.gov.uk/nia/2016/20/section/10/2)
 
 [^c2231421]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2014/12/schedule/1/paragraph/8) partly in operation; [Sch. 1 para. 8(1)(3)-(10)](https://www.legislation.gov.uk/nia/2014/12/schedule/1/paragraph/8/1/3) in operation at 12.12.2014 see [s. 7(3)](https://www.legislation.gov.uk/nia/2014/12/section/7/3)
 
-[^key-f27d73f8d171f56389a8f2cad5d6e0d4]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2014/12/schedule/1/paragraph/18) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-f27d73f8d171f56389a8f2cad5d6e0d4]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/nia/2014/12/schedule/1/paragraph/18) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-0da59567882f10f3b780d3763e6ee0e5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-0da59567882f10f3b780d3763e6ee0e5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-e4630062a59f304f4b6c644165fbeed6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/2) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-e4630062a59f304f4b6c644165fbeed6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/2) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-2d25d326de39ee2c7c56cc9e02c2e16c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/3) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2d25d326de39ee2c7c56cc9e02c2e16c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/3) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-6de07309922c337d83a8c03a732c21ff]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/4) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-6de07309922c337d83a8c03a732c21ff]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/4) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-31eedaf039e70ee3fe641a789f1a66d2]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/5) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-31eedaf039e70ee3fe641a789f1a66d2]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/5) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-dcedb8969721b9d4cc097a6ab71e2d29]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/6) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-dcedb8969721b9d4cc097a6ab71e2d29]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/6) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-a374c5ac61e7b56f8c4c17a3ee8c9f5a]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/7) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a374c5ac61e7b56f8c4c17a3ee8c9f5a]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/7) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-c2de77ea44e6579bf13710852ffe957e]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/8) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c2de77ea44e6579bf13710852ffe957e]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/8) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-66cafba8b606d070e5dc0bcf9a893f47]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-66cafba8b606d070e5dc0bcf9a893f47]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/9) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-bfe37e52cbf97d1d8008aa4cb10591b3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/10) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-bfe37e52cbf97d1d8008aa4cb10591b3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/10) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-85ec3a4a8b3195b89e808cd7f391630f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-85ec3a4a8b3195b89e808cd7f391630f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-e2abcf7b22e19924dd546c89854af3f2]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/12) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-e2abcf7b22e19924dd546c89854af3f2]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/12) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-dd39b4457e72af7d8bd51492d0f0951a]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/13) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-dd39b4457e72af7d8bd51492d0f0951a]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/13) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-6906f5cca6385012e5af13e6f90757e1]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-6906f5cca6385012e5af13e6f90757e1]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-faade153360071d1b300e274b7c1794e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-faade153360071d1b300e274b7c1794e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/15) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-99ac4ca6cc50f079b28275096ab7954e]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/16) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-99ac4ca6cc50f079b28275096ab7954e]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/16) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-d6733711daa479631c44cd416450fd4b]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d6733711daa479631c44cd416450fd4b]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/17) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-bc80c3d60ab8fafc321280ad83aeb8de]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/18) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-bc80c3d60ab8fafc321280ad83aeb8de]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/18) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-3ee79645fa9eec62be1f2e8c4031750d]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/19) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-3ee79645fa9eec62be1f2e8c4031750d]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/19) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-401e0180bb621457702680e9c0796fa3]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-401e0180bb621457702680e9c0796fa3]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-66b82a3afdb80fcaea603c27720d6137]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/21) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-66b82a3afdb80fcaea603c27720d6137]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/21) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-f1d4b57d9a0a6f5118a6dd058cd79b69]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/22) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f1d4b57d9a0a6f5118a6dd058cd79b69]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/22) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-2be978e357e7d175fb134fedf9236c4c]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/23) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2be978e357e7d175fb134fedf9236c4c]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/23) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-c0ebeb8e6cb7733396b15cc75cc91593]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/24) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c0ebeb8e6cb7733396b15cc75cc91593]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/24) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-41d64f7647749bdf7aeeb2ee76edcbd3]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-41d64f7647749bdf7aeeb2ee76edcbd3]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/25) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-38443d0d1d86ba9918e152a8a5246d59]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/26) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-38443d0d1d86ba9918e152a8a5246d59]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/26) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-249d9b4eff80db09be171c4020c97039]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/27) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-249d9b4eff80db09be171c4020c97039]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/27) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-e425284cd7c66389a3230c57db358ef7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-e425284cd7c66389a3230c57db358ef7]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) in operation at 1.4.2015 by [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Improving the natural environment: Northern Ireland[^key-62347d4741a78e38e8a93d667d5c6573][^key-9f097335ffd7c2074a81bad4ed5cf122]
+## 48. Improving the natural environment: Northern Ireland[^c-62347d4741a78e38e8a93d667d5c6573][^c-9f097335ffd7c2074a81bad4ed5cf122]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ in Northern Ireland.
 
 ## Annotations
 
-[^key-62347d4741a78e38e8a93d667d5c6573]: Commencement: S. 48 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
+[^c-62347d4741a78e38e8a93d667d5c6573]: Commencement: S. 48 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
 
-[^key-9f097335ffd7c2074a81bad4ed5cf122]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2021/30/section/48) in force at 25.7.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(2)](https://www.legislation.gov.uk/nisr/2022/54/article/2/2)
+[^c-9f097335ffd7c2074a81bad4ed5cf122]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2021/30/section/48) in force at 25.7.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(2)](https://www.legislation.gov.uk/nisr/2022/54/article/2/2)

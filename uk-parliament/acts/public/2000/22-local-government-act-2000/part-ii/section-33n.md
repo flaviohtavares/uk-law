@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33N. Variation of mayoral executive[^key-5617597354de2566dc1c93387c8b0737]
+## 33N. Variation of mayoral executive[^c-5617597354de2566dc1c93387c8b0737]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5617597354de2566dc1c93387c8b0737]: Textual amendment: S. 33N repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/49), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-5617597354de2566dc1c93387c8b0737]: Textual amendment: S. 33N repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/49), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

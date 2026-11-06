@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257LA. Condition that the amount invested must have been paid over[^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257LA. Condition that the amount invested must have been paid over[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ if there is any undertaking to pay cash to any person at a future time in respec
 
 ## Annotations
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Approval of Laboratories under the Poultry Health Scheme[^key-efec508bd317d4537b18a46347a58bfc]
+## SCHEDULE 5 — Approval of Laboratories under the Poultry Health Scheme[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S*
 
@@ -24,32 +24,32 @@ summary: ''
 
 Regulation 9(4)
 
-### PART I — APPROVAL[^key-efec508bd317d4537b18a46347a58bfc]
+### PART I — APPROVAL[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S+NI*
 
-**1.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — ANNUAL APPROVAL FEE[^key-efec508bd317d4537b18a46347a58bfc]
+### PART II — ANNUAL APPROVAL FEE[^c-efec508bd317d4537b18a46347a58bfc]
 
-**1.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-efec508bd317d4537b18a46347a58bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

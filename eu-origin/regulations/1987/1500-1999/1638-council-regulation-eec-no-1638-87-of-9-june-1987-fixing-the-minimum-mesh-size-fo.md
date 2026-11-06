@@ -49,15 +49,15 @@ Whereas the Community must now take the-necessary measures to ensure compliance 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** 1. United Kingdom fishing vessels[^key-92eb3648f2c77a6eec389f407bc9f9e3] are hereby prohibited from using pelagic trawls with a mesh size of less than 35 millimetres when fishing for blue whiting in that part of the Convention area which extends beyond the maritime waters falling within the fisheries jurisdiction of the Contracting Parties to the Convention.
+**Article 1.** 1. United Kingdom fishing vessels[^c-92eb3648f2c77a6eec389f407bc9f9e3] are hereby prohibited from using pelagic trawls with a mesh size of less than 35 millimetres when fishing for blue whiting in that part of the Convention area which extends beyond the maritime waters falling within the fisheries jurisdiction of the Contracting Parties to the Convention.
 
 The area covered by the Convention is defined in the Annex to Regulation (EEC) No 1899/85[^f00003].
 
-2. A vessel shall be deemed to be fishing for blue whiting if it has on board a quantity of blue whiting which exceeds 50 % by weight of the total quantity of blue whiting and other species on board[^key-e72370289a253e05ee1cb796301d4f64].
+2. A vessel shall be deemed to be fishing for blue whiting if it has on board a quantity of blue whiting which exceeds 50 % by weight of the total quantity of blue whiting and other species on board[^c-e72370289a253e05ee1cb796301d4f64].
 
 A pelagic trawl is hereby defined as a towed net designed to catch fish species schooling at mid-water levels, including waters close to the surface.
 
-**Article 2.**[^key-4db6568fb8eb174270f3703c3f57899a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4db6568fb8eb174270f3703c3f57899a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -75,10 +75,10 @@ H. De Croo
 
 [^f00002]: Footnote: [OJ No L 227, 12. 8. 1981, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1981.227.01.0021.01.ENG).
 
-[^key-92eb3648f2c77a6eec389f407bc9f9e3]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/1987/1638/article/1/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [22(2)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/22/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92eb3648f2c77a6eec389f407bc9f9e3]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/1987/1638/article/1/1) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [22(2)(a)](https://www.legislation.gov.uk/uksi/2019/753/regulation/22/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: [OJ No L 179, 11. 7. 1985, p. 2](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.179.01.0002.01.ENG).
 
-[^key-e72370289a253e05ee1cb796301d4f64]: Textual amendment: Word in [Art. 1(2)](https://www.legislation.gov.uk/eur/1987/1638/article/1/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/22/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e72370289a253e05ee1cb796301d4f64]: Textual amendment: Word in [Art. 1(2)](https://www.legislation.gov.uk/eur/1987/1638/article/1/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [22(2)(b)](https://www.legislation.gov.uk/uksi/2019/753/regulation/22/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4db6568fb8eb174270f3703c3f57899a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/1987/1638/article/2) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/753/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4db6568fb8eb174270f3703c3f57899a]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/1987/1638/article/2) omitted (31.12.2020) by virtue of [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [22(3)](https://www.legislation.gov.uk/uksi/2019/753/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

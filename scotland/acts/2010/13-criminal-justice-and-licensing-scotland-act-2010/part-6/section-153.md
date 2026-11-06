@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Appeals[^key-6a26816affb88c8e676f76140322cb88]
+## 153. Appeals[^c-6a26816affb88c8e676f76140322cb88]
 
 *Extent: S*
 
-(1) The prosecutor may appeal to the appropriate Appeal Court[^key-f7848843255ff75513e17d9ca2aaa748] against—
+(1) The prosecutor may appeal to the appropriate Appeal Court[^c-f7848843255ff75513e17d9ca2aaa748] against—
 
 - (a) the making of a section 145 order under section 145(7),
 - (b) the making of a section 146 order,
@@ -73,24 +73,24 @@ summary: ''
 
 (10) In this section—
 
-- “[^key-92bc1264290e8bf61a45d5f22baae795] **accused** ” includes—
+- “[^c-92bc1264290e8bf61a45d5f22baae795] **accused** ” includes—
   - ((a)) appellant or, where the order relates to section 136(2), 137(2) or 138(2), other person to whom the section concerned applies, and
   - ((b)) respondent,
 - “**appellant**” has the meaning given by section 132.
 
-- “appropriate Appeal Court” means—[^key-c37bc021e05894a9cc72cf6c1308c640]
+- “appropriate Appeal Court” means—[^c-c37bc021e05894a9cc72cf6c1308c640]
   - (a) in the case of an appeal under this section in proceedings on indictment, the High Court,
   - (b) in the case of an appeal under this section in summary proceedings, the Sheriff Appeal Court,
-- “[^key-c93b23bab028bb726fd705f63c6c282d] **respondent** ” has the meaning given by section 140A.
+- “[^c-c93b23bab028bb726fd705f63c6c282d] **respondent** ” has the meaning given by section 140A.
 
 ## Annotations
 
-[^key-6a26816affb88c8e676f76140322cb88]: Commencement: S. 153 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-6a26816affb88c8e676f76140322cb88]: Commencement: S. 153 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-f7848843255ff75513e17d9ca2aaa748]: Textual amendment: Words in s. 153(1)-(5) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/13/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-f7848843255ff75513e17d9ca2aaa748]: Textual amendment: Words in s. 153(1)-(5) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/13/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-92bc1264290e8bf61a45d5f22baae795]: Textual amendment: Words in s. 153(10) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 27(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/27/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-92bc1264290e8bf61a45d5f22baae795]: Textual amendment: Words in s. 153(10) substituted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 27(a)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/27/a); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
 
-[^key-c37bc021e05894a9cc72cf6c1308c640]: Textual amendment: Words in s. 153(10) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/13/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-c37bc021e05894a9cc72cf6c1308c640]: Textual amendment: Words in s. 153(10) inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/13/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-c93b23bab028bb726fd705f63c6c282d]: Textual amendment: Words in s. 153(10) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 27(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/27/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-c93b23bab028bb726fd705f63c6c282d]: Textual amendment: Words in s. 153(10) inserted (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [s. 17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3), [Sch. para. 27(b)](https://www.legislation.gov.uk/asp/2011/16/schedule/paragraph/27/b); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

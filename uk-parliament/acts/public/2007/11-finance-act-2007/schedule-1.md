@@ -264,7 +264,7 @@ Section 8
 
 **3.** In BGDA 1981, before section 26N (non-sterling amounts) (as renumbered by paragraph 1 above) insert the italic cross-heading “ General ”.
 
-**4.**[^key-1f6f52b8dafc62e8ff5226526975874b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1f6f52b8dafc62e8ff5226526975874b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** In section 32 of that Act (subordinate legislation), after subsection (2) insert—
 
@@ -277,4 +277,4 @@ Section 8
 
 ## Annotations
 
-[^key-1f6f52b8dafc62e8ff5226526975874b]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/1/paragraph/4) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 11(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/11/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-1f6f52b8dafc62e8ff5226526975874b]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/1/paragraph/4) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 11(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/11/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

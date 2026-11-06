@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.6. Application for summons to produce a document, etc.: court’s assessment of relevance and confidentiality[^key-e9f4eb74b74f3d7fc7dc1f28f6b7057f]
+## 17.6. Application for summons to produce a document, etc.: court’s assessment of relevance and confidentiality[^c-e9f4eb74b74f3d7fc7dc1f28f6b7057f]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ to help the court assess the objection.
 
 ## Annotations
 
-[^key-e9f4eb74b74f3d7fc7dc1f28f6b7057f]: Commencement: [Rule 17.6](https://www.legislation.gov.uk/uksi/2025/909/rule/17.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e9f4eb74b74f3d7fc7dc1f28f6b7057f]: Commencement: [Rule 17.6](https://www.legislation.gov.uk/uksi/2025/909/rule/17.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

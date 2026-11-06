@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-50915f3b5c88af232b4e85f77ca8e453][^key-8cd2e8b42c523913d5a3cf15144b4c8a] If—
+(1)[^c-50915f3b5c88af232b4e85f77ca8e453][^c-8cd2e8b42c523913d5a3cf15144b4c8a] If—
 
 - (a) after any plant or machinery has become a fixture, a person (“**the purchaser**”) acquires an interest in the relevant land,
 - (b) that interest was in existence before the purchaser’s acquisition of it, and
@@ -41,9 +41,9 @@ the purchaser is to be treated, on and after the time of the acquisition, as the
 
 ## Annotations
 
-[^key-50915f3b5c88af232b4e85f77ca8e453]: Modification: S. 181(1) modified (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 14(2)(d)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/14/2/d); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-50915f3b5c88af232b4e85f77ca8e453]: Modification: S. 181(1) modified (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 14(2)(d)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/14/2/d); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-8cd2e8b42c523913d5a3cf15144b4c8a]: Modification: [S. 181(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/181/1) modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1540/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/4/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [8(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/1)[(6)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/6))
+[^c-8cd2e8b42c523913d5a3cf15144b4c8a]: Modification: [S. 181(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/181/1) modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1540/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/4/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [8(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/1)[(6)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/6))
 
 [^c1871791]: Textual amendment: S. 181(2) substituted (with effect as mentioned in s. 69(2) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/69/1), [Sch. 21 para. 2(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/2/1)
 

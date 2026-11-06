@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Renewal of warrants[^key-195e47953e717846b20c50f4c9cff0bf]
+## 33. Renewal of warrants[^c-195e47953e717846b20c50f4c9cff0bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-195e47953e717846b20c50f4c9cff0bf]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/25/section/33) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(e)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/e)
+[^c-195e47953e717846b20c50f4c9cff0bf]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/25/section/33) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(e)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/e)

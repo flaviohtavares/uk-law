@@ -63,11 +63,11 @@ summary: ''
 | (b) A motor vehicle, other than a motor bicycle combination, first used before 1st April 1986 and any other vehicle manufactured before 1st October 1985: | Visible to the rear |
 | (c) A vehicle drawn or propelled by hand, a pedal cycle, a horse-drawn vehicle and a motor bicycle combination: | Visible to the rear |
 | *Extent: E+W+S+N.I.*<br>**4.**[^M_I_e57c78a2-5dd6-4260-d485-3a1b6eccafa2] Alignment: | To the rear |
-| *Extent: E+W+S+N.I.*<br>**5.**[^M_I_43a09626-2be4-405a-b536-f3e70922d616] Markings (see also regulation 3(6))[^key-0faf7979c67cb2a40581de4c5512d645]–<br>(a) A motor vehicle or a trailer not covered by sub-paragraph (b), (c), (d) or (e)[^key-e5785ea6866c4f3aa2ec34cc8c4a076c]: | An approval mark |
+| *Extent: E+W+S+N.I.*<br>**5.**[^M_I_43a09626-2be4-405a-b536-f3e70922d616] Markings (see also regulation 3(6))[^c-0faf7979c67cb2a40581de4c5512d645]–<br>(a) A motor vehicle or a trailer not covered by sub-paragraph (b), (c), (d) or (e)[^c-e5785ea6866c4f3aa2ec34cc8c4a076c]: | An approval mark |
 | (b) A motor vehicle first used before 1st January 1974 and a trailer, other than a trailer drawn by a pedal cycle, manufactured before that date: | No requirement |
 | (c) A solo motor bicycle and a motor bicycle combination, in each case first used before 1st April 1986, and a trailer manufactured before 1st October 1985 and drawn by a solo motor bicycle or a motor bicycle combination: | No requirement |
-| (d) A pedal cycle, a trailer drawn by a pedal cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured before 1st October 1995[^key-998df0823d53dd29e6fdd098c4babfdd]: | An approval mark or a British Standard mark |
-| (e)[^key-0de9ab64001f685c8a01e84ed73c39d9] A pedal cycle, a trailer drawn by a pedal cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured on or after 1st October 1995. | An approval mark or the British Standard mark which is specified in sub-paragraph (c), (d) or (e)[^key-2caed2668c756a1eaf6c1c95c4cc3b26] of the definition of “British Standard mark”. |
+| (d) A pedal cycle, a trailer drawn by a pedal cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured before 1st October 1995[^c-998df0823d53dd29e6fdd098c4babfdd]: | An approval mark or a British Standard mark |
+| (e)[^c-0de9ab64001f685c8a01e84ed73c39d9] A pedal cycle, a trailer drawn by a pedal cycle, an invalid carriage having a maximum speed not exceeding 4 mph, a horse-drawn vehicle and a vehicle drawn or propelled by hand in each case manufactured on or after 1st October 1995. | An approval mark or the British Standard mark which is specified in sub-paragraph (c), (d) or (e)[^c-2caed2668c756a1eaf6c1c95c4cc3b26] of the definition of “British Standard mark”. |
 | *Extent: E+W+S+N.I.*<br>**6.**[^M_I_f5dd5287-40e7-45b2-ad2f-621d42205209] Size of illuminated area: | No requirement |
 | *Extent: E+W+S+N.I.*<br>**7.**[^M_I_9a0bf343-bd20-445a-ddf4-e78a564f7627] Colour: | Red |
 | *Extent: E+W+S+N.I.*<br>**8.**[^M_I_d2f6f126-79f9-4679-88eb-cd7b6896a66c] Wattage: | No requirement |
@@ -76,18 +76,18 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**10.**[^M_I_cc391fcb-ab82-48a0-ba14-ff41146d3027] Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_65e8be0d-4b4e-4a59-b9a6-745f45ffd6ca] Tell-tale: | No requirement |
 
-**12.**[^key-55dd12998faf7c1b7d7e7f41a6d1ef36] Other requirements–
+**12.**[^c-55dd12998faf7c1b7d7e7f41a6d1ef36] Other requirements–
 
 (a) Except in the case of a motor vehicle first used before 1st April 1986, any other vehicle manufactured before 1st October 1985 and a motor bicycle combination, where two rear position lamps are required to be fitted they shall form a matched pair and where four rear position lamps are required to be fitted they shall form two matched pairs.
 
-(b)[^key-d3a3efaecf004adf3b817bb8f278f624] In the case of a rear position lamp capable of emitting a flashing light which is fitted to—
+(b)[^c-d3a3efaecf004adf3b817bb8f278f624] In the case of a rear position lamp capable of emitting a flashing light which is fitted to—
 
 - (i) a pedal cycle; or
 - (ii) a trailer drawn by, or a sidecar attached to, a pedal cycle
 
 the light shown by the lamp when flashing shall be displayed not less than 60 nor more than 240 equal times per minute and the intervals between each display of light shall be constant.
 
-**13.**[^key-d90458261666c11944a1396efe6e4d8c] Definitions–
+**13.**[^c-d90458261666c11944a1396efe6e4d8c] Definitions–
 
 - In this Schedule–
 - “approval mark” means–
@@ -97,14 +97,14 @@ the light shown by the lamp when flashing shall be displayed not less than 60 no
     - (ii) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 7A or, if combined with a stop lamp, at item 7C of Schedule 2 to those Regulations; and
 - “British Standard mark” means–
   - (a) the mark indicated in the specification for cycle rear lamps published by the British Standards Institution under the reference 3648:1963 as amended by Amendment PD 6137 published in May 1967 and by AMD 4753 published in July 1985, or
-  - (b) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986, namely “BS 6102/3”, or[^key-13e0d671aa880029934f03a8d8b2c555]
-  - (c) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986 as amended by AMD 5821 published on the 29th April 1988, namely “6102/3”,or[^key-cdcf01d92484258671a8f979b79e0400]
+  - (b) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986, namely “BS 6102/3”, or[^c-13e0d671aa880029934f03a8d8b2c555]
+  - (c) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986 as amended by AMD 5821 published on the 29th April 1988, namely “6102/3”,or[^c-cdcf01d92484258671a8f979b79e0400]
   - (d) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the reference BS 6102: Part 3: 1986 as amended by AMD 8438 published on the 15th April 1995, namely 6102/3; or
   - (e) the mark indicated in the specification for photometric and physical requirements for lighting equipment published by the British Standards Institution under the references BS 6102: part 3: 1986 as amended by AMD 14621 published on the 1st September 2003, namely 6102/3.
 
-### PART II — Requirements relating to optional rear position lamps[^key-9f4d064fd0d24ea79015a1ef491ffa5f]
+### PART II — Requirements relating to optional rear position lamps[^c-9f4d064fd0d24ea79015a1ef491ffa5f]
 
-Any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 7 and 12(b) of Part I[^key-b5e1a674ca24f8b3aae9d7dce59d4a4d].
+Any number may be fitted and the only requirements prescribed by these Regulations in respect of any which are fitted are those specified in paragraphs 7 and 12(b) of Part I[^c-b5e1a674ca24f8b3aae9d7dce59d4a4d].
 
 ## Annotations
 
@@ -118,15 +118,15 @@ Any number may be fitted and the only requirements prescribed by these Regulatio
 
 [^M_I_43a09626-2be4-405a-b536-f3e70922d616]: Commencement: [Sch. 10 Pt. I para. 5](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-0faf7979c67cb2a40581de4c5512d645]: Textual amendment: Words in [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/a)
+[^c-0faf7979c67cb2a40581de4c5512d645]: Textual amendment: Words in [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/a)
 
-[^key-e5785ea6866c4f3aa2ec34cc8c4a076c]: Textual amendment: Words in [Sch. 10 para. 5(a)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5/a) substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/b)
+[^c-e5785ea6866c4f3aa2ec34cc8c4a076c]: Textual amendment: Words in [Sch. 10 para. 5(a)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5/a) substituted (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/b)
 
-[^key-998df0823d53dd29e6fdd098c4babfdd]: Textual amendment: Words in [Sch. 10 para. 5(d)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5/d) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(c)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/c)
+[^c-998df0823d53dd29e6fdd098c4babfdd]: Textual amendment: Words in [Sch. 10 para. 5(d)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5/d) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(c)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/c)
 
-[^key-0de9ab64001f685c8a01e84ed73c39d9]: Textual amendment: [Sch. 10 para. 5(e)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5/e) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(d)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/d)
+[^c-0de9ab64001f685c8a01e84ed73c39d9]: Textual amendment: [Sch. 10 para. 5(e)](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/5/e) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(1)(d)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/1/d)
 
-[^key-2caed2668c756a1eaf6c1c95c4cc3b26]: Textual amendment: Words in Sch. 10 Pt. 1 para. 5(e) substituted (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/11/2)
+[^c-2caed2668c756a1eaf6c1c95c4cc3b26]: Textual amendment: Words in Sch. 10 Pt. 1 para. 5(e) substituted (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/11/2)
 
 [^M_I_f5dd5287-40e7-45b2-ad2f-621d42205209]: Commencement: [Sch. 10 Pt. I para. 6](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
@@ -140,16 +140,16 @@ Any number may be fitted and the only requirements prescribed by these Regulatio
 
 [^M_I_65e8be0d-4b4e-4a59-b9a6-745f45ffd6ca]: Commencement: [Sch. 10 Pt. I para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-55dd12998faf7c1b7d7e7f41a6d1ef36]: Commencement: [Sch. 10 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-55dd12998faf7c1b7d7e7f41a6d1ef36]: Commencement: [Sch. 10 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-d3a3efaecf004adf3b817bb8f278f624]: Textual amendment: Sch. 10 Pt. 1 para. 12(b) inserted (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/11/3)
+[^c-d3a3efaecf004adf3b817bb8f278f624]: Textual amendment: Sch. 10 Pt. 1 para. 12(b) inserted (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/11/3)
 
-[^key-d90458261666c11944a1396efe6e4d8c]: Commencement: [Sch. 10 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-d90458261666c11944a1396efe6e4d8c]: Commencement: [Sch. 10 Pt. I para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-13e0d671aa880029934f03a8d8b2c555]: Textual amendment: Words in [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/13) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/2)
+[^c-13e0d671aa880029934f03a8d8b2c555]: Textual amendment: Words in [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/paragraph/13) added (1.10.1994) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/14/2)
 
-[^key-cdcf01d92484258671a8f979b79e0400]: Textual amendment: Words in Sch. 10 Pt. 1 para. 13 added (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/11/4)
+[^c-cdcf01d92484258671a8f979b79e0400]: Textual amendment: Words in Sch. 10 Pt. 1 para. 13 added (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2005/2559/regulation/11/4)
 
-[^key-9f4d064fd0d24ea79015a1ef491ffa5f]: Commencement: [Sch. 10 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-9f4d064fd0d24ea79015a1ef491ffa5f]: Commencement: [Sch. 10 Pt. II](https://www.legislation.gov.uk/uksi/1989/1796/schedule/10/part/II) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-b5e1a674ca24f8b3aae9d7dce59d4a4d]: Textual amendment: Words in Sch. 10 Pt. 2 substituted (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [12](https://www.legislation.gov.uk/uksi/2005/2559/regulation/12)
+[^c-b5e1a674ca24f8b3aae9d7dce59d4a4d]: Textual amendment: Words in Sch. 10 Pt. 2 substituted (21.10.2005) by [The Road Vehicles Lighting (Amendment) Regulations 2005 (S.I. 2005/2559)](https://www.legislation.gov.uk/uksi/2005/2559), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2559/regulation/1), [12](https://www.legislation.gov.uk/uksi/2005/2559/regulation/12)

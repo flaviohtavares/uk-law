@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Treatment of students[^key-b22c5476728d0ef96743ca69e13e631a]
+## 41. Treatment of students[^c-b22c5476728d0ef96743ca69e13e631a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations shall have effect in relation to students subject to the follo
 
 ## Annotations
 
-[^key-b22c5476728d0ef96743ca69e13e631a]: Commencement: Reg. 41 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-b22c5476728d0ef96743ca69e13e631a]: Commencement: Reg. 41 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

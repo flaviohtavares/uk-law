@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Remission of fines following determination under section 126[^key-c2db96b2063bdb09eaf7423676d66174]
+## 127. Remission of fines following determination under section 126[^c-c2db96b2063bdb09eaf7423676d66174]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ it must reduce the term by the corresponding proportion.
 
 ## Annotations
 
-[^key-c2db96b2063bdb09eaf7423676d66174]: Commencement: S. 127 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c2db96b2063bdb09eaf7423676d66174]: Commencement: S. 127 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

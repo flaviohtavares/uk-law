@@ -46,7 +46,7 @@ Coming into operation
 
 In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health, Social Services and Public Safety has had regard to relevant advice given by the Food Standards Agency.
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21416881], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-e8e68ac4e0c8b5b3eac258987d2ae515]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21416881], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-e8e68ac4e0c8b5b3eac258987d2ae515]
 
 ## PART 1 — Preliminary
 
@@ -58,19 +58,19 @@ These Regulations may be cited as the Materials and Articles in Contact with Foo
 
 (1) In these Regulations —
 
-- “**Directive [84/500/EEC](https://www.legislation.gov.uk/eudr/1984/500)**” means Council Directive [84/500/EEC](https://www.legislation.gov.uk/eudr/1984/500) on the approximation of the laws of the Member States relating to ceramic articles intended to come into contact with foodstuffs [^c21416891]as last amended by Commission[^key-f418efb3d282514d358e1608da9e95da] [Directive 2005/31/EC](https://www.legislation.gov.uk/eudr/2005/0031) ;
+- “**Directive [84/500/EEC](https://www.legislation.gov.uk/eudr/1984/500)**” means Council Directive [84/500/EEC](https://www.legislation.gov.uk/eudr/1984/500) on the approximation of the laws of the Member States relating to ceramic articles intended to come into contact with foodstuffs [^c21416891]as last amended by Commission[^c-f418efb3d282514d358e1608da9e95da] [Directive 2005/31/EC](https://www.legislation.gov.uk/eudr/2005/0031) ;
 - “**Directive [2007/42/EC](https://www.legislation.gov.uk/eudr/2007/42)**” means Commission Directive [2007/42/EC](https://www.legislation.gov.uk/eudr/2007/42) relating to materials and articles made of regenerated cellulose film intended to come into contact with foodstuffs [^c21416901];
-- “**Regulation 1935/2004**” means Regulation (EC) No. 1935/2004 of the European Parliament and of the Council on materials and articles intended to come into contact with food and repealing Directives [80/590/EEC](https://www.legislation.gov.uk/eudr/1980/590) and [89/109/EEC](https://www.legislation.gov.uk/eudr/1989/109) [^c21416911] as last amended by Regulation[^key-1cacafa44d50f3a5412207d681cb8e5f] [(EC) No 596/2009](https://www.legislation.gov.uk/eur/2009/0596) of the European Parliament and of the Council ;
+- “**Regulation 1935/2004**” means Regulation (EC) No. 1935/2004 of the European Parliament and of the Council on materials and articles intended to come into contact with food and repealing Directives [80/590/EEC](https://www.legislation.gov.uk/eudr/1980/590) and [89/109/EEC](https://www.legislation.gov.uk/eudr/1989/109) [^c21416911] as last amended by Regulation[^c-1cacafa44d50f3a5412207d681cb8e5f] [(EC) No 596/2009](https://www.legislation.gov.uk/eur/2009/0596) of the European Parliament and of the Council ;
 - “**Regulation 1895/2005**” means Commission Regulation [(EC) No. 1895/2005](https://www.legislation.gov.uk/eur/2005/1895) on the restriction of use of certain epoxy derivatives in materials and articles intended to come into contact with food [^c21416921];
-- “**Regulation 2023/2006**” means Commission Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023) on good manufacturing practice for materials and articles intended to come into contact with food [^c21416931] [^key-b91b03c29697cb2b930bd06e0f188ab8]... ;
+- “**Regulation 2023/2006**” means Commission Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023) on good manufacturing practice for materials and articles intended to come into contact with food [^c21416931] [^c-b91b03c29697cb2b930bd06e0f188ab8]... ;
 - “**Regulation 450/2009**” means Commission Regulation [(EC) No. 450/2009](https://www.legislation.gov.uk/eur/2009/450) on active and intelligent materials and articles intended to come into contact with food [^c21416941];
-- “Regulation 10/2011” means[^key-1a299c8f5a77e4bbc3a97c271ce42aa4] , subject to paragraph 3,[^key-aa80cefee44c682be877748727f84222] [Commission Regulation (EC) No. 10/2011](https://www.legislation.gov.uk/eur/2011/0010) on plastic materials and articles intended to come into contact with foods as last amended by Commission Regulation ([^key-a26a46a2f787099614c3eff32ed9ad6c]EU) 2018/831 ;
-- “Regulation 2018/213” means Commission Regulation ([^key-bd41fcf3e88c18c377962fbeb7868d92]EU) 2018/213 on the use of bisphenol A in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No 10/2011 as regards the use of that substance in plastic food contact materials;
+- “Regulation 10/2011” means[^c-1a299c8f5a77e4bbc3a97c271ce42aa4] , subject to paragraph 3,[^c-aa80cefee44c682be877748727f84222] [Commission Regulation (EC) No. 10/2011](https://www.legislation.gov.uk/eur/2011/0010) on plastic materials and articles intended to come into contact with foods as last amended by Commission Regulation ([^c-a26a46a2f787099614c3eff32ed9ad6c]EU) 2018/831 ;
+- “Regulation 2018/213” means Commission Regulation ([^c-bd41fcf3e88c18c377962fbeb7868d92]EU) 2018/213 on the use of bisphenol A in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No 10/2011 as regards the use of that substance in plastic food contact materials;
 - “**authorised officer**” means any person, whether or not an officer of the district council having responsibility for execution and enforcement under regulation 20, who is authorised by that district council in writing to act in matters arising under these Regulations;
 - “**the Order**” means the Food Safety (Northern Ireland) Order 1991; and
 - “**preparation**” includes manufacture and any form of treatment or process.
 
-(2) Expressions used in these Regulations and in Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006; Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213[^key-45c2c11dce61282b379b43c1b260ca6e] bear the same meaning in these Regulations as they bear in those Regulations.
+(2) Expressions used in these Regulations and in Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006; Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213[^c-45c2c11dce61282b379b43c1b260ca6e] bear the same meaning in these Regulations as they bear in those Regulations.
 
 (3) Any reference to Regulation 2023/2006 or to any Annex to Directive [2007/42/EC](https://www.legislation.gov.uk/eudr/2007/42) or Regulation 10/2011 is a reference to that Regulation or that Annex as amended from time to time.
 
@@ -111,7 +111,7 @@ Any person who fails to comply with the requirements of Article 4 (conformity wi
 
 (1) Subject to the transitional provisions contained in Article 14 (entry into force and application) of Regulation 450/2009, any person who places on the market any active or intelligent material or article which does not comply with the requirements of Article 4 of that Regulation is guilty of an offence [^c21416971].
 
-(2)[^key-7e96aab7c7055e525601bf718d28b64f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7e96aab7c7055e525601bf718d28b64f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Competent authorities for the purposes of Regulation 450/2009
 
@@ -192,21 +192,21 @@ provided that there is no trace of migration of the substances, detectable by a 
 
 (7) Where special conditions of use are indicated, the material or article made of regenerated cellulose film must be labelled accordingly.
 
-(8) A person must not place on the market any regenerated cellulose film which has been manufactured in contravention of the requirements of paragraphs (1) to (4), or which fails to comply with paragraphs (5) or (7)[^key-1034147dbea246f2f60a9c25b79c74a3] .
+(8) A person must not place on the market any regenerated cellulose film which has been manufactured in contravention of the requirements of paragraphs (1) to (4), or which fails to comply with paragraphs (5) or (7)[^c-1034147dbea246f2f60a9c25b79c74a3] .
 
 ## PART 6 — Requirements for Plastic Materials and Articles
 
 ### 13. Interpretation of Part 6 and the Schedule
 
-Except in regulation 14(1), any reference in this Part and in Schedule 1[^key-44fa9867050c97c3059fd16f3ac50d4f] to a numbered Article or Annex is a reference to that Article of or Annex to Regulation 10/2011.
+Except in regulation 14(1), any reference in this Part and in Schedule 1[^c-44fa9867050c97c3059fd16f3ac50d4f] to a numbered Article or Annex is a reference to that Article of or Annex to Regulation 10/2011.
 
 ### 14. Offences of contravening specified provisions of Regulation 10/2011
 
-(1) Subject to the transitional arrangements set out in Article 2 of[^key-744a8dfde9c93e160efa40f903b03374] [Commission Regulation (EU) No 1282/2011](https://www.legislation.gov.uk/eur/2011/1282), Article 2 of [Commission Regulation (EU) No 1183/2012](https://www.legislation.gov.uk/eur/2012/1183), Article 2 of [Commission Regulation (EU) No 202/2014](https://www.legislation.gov.uk/eur/2014/0202), Article 2 of[Commission Regulation (EU) No 2015/174](https://www.legislation.gov.uk/eur/2015/174), Article 2 of Commission Regulation (EU) 2016/1416, Article 2 of Commission Regulation (EU) 2017/752; Article 2 of Commission Regulation (EU) 2018/79; Article 6 of Commission Regulation (EU) 2018/213 and Article 2 of Commission Regulation (EU) 2018/831, , any person who places on the market a plastic material or article that fails to comply with a requirement of Regulation 10/2011 specified in column 1 of Schedule 1[^key-741e958e96666d5639f8e29e738fd4ce] is guilty of an offence.
+(1) Subject to the transitional arrangements set out in Article 2 of[^c-744a8dfde9c93e160efa40f903b03374] [Commission Regulation (EU) No 1282/2011](https://www.legislation.gov.uk/eur/2011/1282), Article 2 of [Commission Regulation (EU) No 1183/2012](https://www.legislation.gov.uk/eur/2012/1183), Article 2 of [Commission Regulation (EU) No 202/2014](https://www.legislation.gov.uk/eur/2014/0202), Article 2 of[Commission Regulation (EU) No 2015/174](https://www.legislation.gov.uk/eur/2015/174), Article 2 of Commission Regulation (EU) 2016/1416, Article 2 of Commission Regulation (EU) 2017/752; Article 2 of Commission Regulation (EU) 2018/79; Article 6 of Commission Regulation (EU) 2018/213 and Article 2 of Commission Regulation (EU) 2018/831, , any person who places on the market a plastic material or article that fails to comply with a requirement of Regulation 10/2011 specified in column 1 of Schedule 1[^c-741e958e96666d5639f8e29e738fd4ce] is guilty of an offence.
 
-(2)[^key-0d8fc680a8a5c0c6a9de65ffde9c5b75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0d8fc680a8a5c0c6a9de65ffde9c5b75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Competent authorities for the purposes of Regulation 10/2011[^key-50b49c8b298ab5294b21cacfd943fc2d]
+### 15. Competent authorities for the purposes of Regulation 10/2011[^c-50b49c8b298ab5294b21cacfd943fc2d]
 
 (1) The competent authorities for the purposes of Articles 8 and 16(1) of Regulation 10/2011 are the Food Standards Agency and each district council in its district.
 
@@ -217,22 +217,22 @@ Except in regulation 14(1), any reference in this Part and in Schedule 1[^key-44
 (1) In this Part —
 
 - (a) any reference to a numbered Article or Annex is a reference to that Article or Annex in Regulation 1895/2005; and
-- (b) paragraph 2 is[^key-200bebc5f10f39778b2c8ac9fcee2e4e] subject to Article 1(3) (scope) [^c21417001].
+- (b) paragraph 2 is[^c-200bebc5f10f39778b2c8ac9fcee2e4e] subject to Article 1(3) (scope) [^c21417001].
 
-(2) A[^key-5376ec4b5b1e1c74a224f32a5dd995c3] person must not place on the market or use, in the course of a business in connection with the storage, preparation, packaging, sale or service of food —
+(2) A[^c-5376ec4b5b1e1c74a224f32a5dd995c3] person must not place on the market or use, in the course of a business in connection with the storage, preparation, packaging, sale or service of food —
 
 - (a) any material or article in contravention of Article 3 (prohibition on use or presence of BFDGE) or Article 4 (prohibition on use or presence of NOGE); or
 - (b) any material or article that fails to comply with the restrictions contained in Article 2 (BADGE) as read with Annex I (specific migration limit for BADGE and certain of its derivatives).
 
-(3)[^key-a7283278f26282f17b9141e5f8d83bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a7283278f26282f17b9141e5f8d83bbd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Any person who contravenes paragraph (2)[^key-f39543feafbbd1bc413bec87c84e4156] is guilty of an offence.
+(4) Any person who contravenes paragraph (2)[^c-f39543feafbbd1bc413bec87c84e4156] is guilty of an offence.
 
 ### 17. Competent authorities for the purposes of Regulation 1895/2005
 
 The competent authority for the purpose of Article 6(4) is each district council in its district.
 
-## PART 7A — Requirements for bisphenol A in varnishes and coatings intended to come into contact with food[^key-bfd78d25335db5b710e872f3ea736a05]
+## PART 7A — Requirements for bisphenol A in varnishes and coatings intended to come into contact with food[^c-bfd78d25335db5b710e872f3ea736a05]
 
 ### 17A. Interpretation of Part 7A
 
@@ -264,11 +264,11 @@ any material or article that does not comply with paragraph (1).
 
 ## PART 9 — Enforcement
 
-### 19. Offences and penalties[^key-e91cad19073f72d535766252afdedd7f]
+### 19. Offences and penalties[^c-e91cad19073f72d535766252afdedd7f]
 
 (1) Any person who contravenes regulation 10(3), 12(8) or 18(2) is guilty of an offence.
 
-(2) Any person who intentionally obstructs a person acting in the execution of Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009, Regulation 10/2011, Regulation 2018/213[^key-f91549dd72bd8d2aa23252d65489d621] or these Regulations is guilty of an offence.
+(2) Any person who intentionally obstructs a person acting in the execution of Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009, Regulation 10/2011, Regulation 2018/213[^c-f91549dd72bd8d2aa23252d65489d621] or these Regulations is guilty of an offence.
 
 (3) Any person who, without reasonable excuse, fails to provide any assistance or information a person may reasonably require for the performance of their functions under the Regulations mentioned in paragraph (2) is guilty of an offence.
 
@@ -276,14 +276,14 @@ any material or article that does not comply with paragraph (1).
 
 (5) A person guilty of an offence is liable —
 
-- (a) in the case of an offence created by paragraph (1) or (4) or by regulation 4(3), 5, 7(1), 14(1), 16(4) or 17B[^key-2fd6719942bde12e5c109f6489396b41] —
+- (a) in the case of an offence created by paragraph (1) or (4) or by regulation 4(3), 5, 7(1), 14(1), 16(4) or 17B[^c-2fd6719942bde12e5c109f6489396b41] —
   - (i) on conviction on indictment to a fine or to a term of imprisonment not exceeding two years or both, or
   - (ii) on summary conviction to a fine not exceeding level 5 on the standard scale; and
 - (b) in the case of an offence created by paragraph (2) or (3), on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (6) Nothing in paragraph (2) or (3) is to be construed as requiring a person to answer any question or give any information if to do so might incriminate that person.
 
-### 20. Enforcement[^key-de471eddfd18000c7c6bc323227ba532]
+### 20. Enforcement[^c-de471eddfd18000c7c6bc323227ba532]
 
 (1) Each district council in its district must execute and enforce Regulation 1935/2004, Regulation 1895/2005, Article 4 of Regulation 2023/2006, Regulation 450/2009, Regulation 10/2011 and these Regulations.
 
@@ -301,13 +301,13 @@ Where the commission by any person of an offence under these Regulations is due 
 
 (1) A prosecution for an offence under these Regulations shall not be commenced after the expiry of three years from the commission of the offence or, one year from its discovery by the prosecution, whichever is the earlier.
 
-(2) Paragraph (1) does not apply to an offence under regulation 19(2) or (3)[^key-df38174592f28a95fd5e9dae88f02085] .
+(2) Paragraph (1) does not apply to an offence under regulation 19(2) or (3)[^c-df38174592f28a95fd5e9dae88f02085] .
 
 ### 23. General defences
 
 (1) In any proceedings for an offence under these Regulations it is, subject to paragraph (5), a defence to prove that the person accused (“the accused”) took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under the control of the accused.
 
-(2) Without prejudice to the generality of paragraph (1), a person accused of an offence under regulation 4(3), 7(1), 14(1), 16(4) , 17B[^key-41c6ace7368c3bae868b613761ba2879] or 19(1) who did not import or prepare the material or article in respect of which the offence is alleged to have been committed shall be taken to have established the defence provided by paragraph (1) if the requirements of paragraphs (3) or (4) are satisfied.
+(2) Without prejudice to the generality of paragraph (1), a person accused of an offence under regulation 4(3), 7(1), 14(1), 16(4) , 17B[^c-41c6ace7368c3bae868b613761ba2879] or 19(1) who did not import or prepare the material or article in respect of which the offence is alleged to have been committed shall be taken to have established the defence provided by paragraph (1) if the requirements of paragraphs (3) or (4) are satisfied.
 
 (3) The requirements of this paragraph are satisfied if it is proved that —
 
@@ -373,7 +373,7 @@ send the retained part of the sample to the Government Chemist for analysis.
 
 (7) In this regulation “**the accused**” includes a person against whom an authorised officer is intending to commence proceedings.
 
-### 26. Application of various provisions of the Order[^key-4cfe24cc31ec7c05d492a6bc2ec7f1cc]
+### 26. Application of various provisions of the Order[^c-4cfe24cc31ec7c05d492a6bc2ec7f1cc]
 
 (1) Article 9(1) and (2) of the Order (improvement notices) applies for the purposes of these Regulations with the modification (in the case of Article 9(1)) set out in Schedule 2 Part 1 for the purposes of-
 
@@ -381,9 +381,9 @@ send the retained part of the sample to the Government Chemist for analysis.
   - (i) regulations 10(4), 10(6), 12(6);
   - (ii) Article 16 of Regulation 1935/2004;
   - (iii) Article 5 of Regulation 1895/2005;
-  - (iv) Articles 12 and 13 of Regulation 450/2009; [^key-ca772ed92839e47265e9a7485e85bfdb]...
+  - (iv) Articles 12 and 13 of Regulation 450/2009; [^c-ca772ed92839e47265e9a7485e85bfdb]...
   - (v) the second sentence of Article 8, Article 15 as read with Annex IV and Article 16 of Regulation 10/2011; and
-  - (vi) Article 4 of Regulation 2018/213; and[^key-01fbc57a9ac0c3a89c30d21b07447ea9]
+  - (vi) Article 4 of Regulation 2018/213; and[^c-01fbc57a9ac0c3a89c30d21b07447ea9]
 - (b) making the failure to comply with a notice referred to in sub-paragraph (a) an offence.
 
 (2) The provisions of the Order specified in column 1 of the table in Part 2 to Schedule 2 apply, with the modifications (if any) specified in column 2 of that table.
@@ -392,11 +392,11 @@ send the retained part of the sample to the Government Chemist for analysis.
 
 ## PART 10 — General and supplementary
 
-### 27. Consequential amendment to the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^key-1e51f76a4026095a1b28a20a0950a903]
+### 27. Consequential amendment to the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^c-1e51f76a4026095a1b28a20a0950a903]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Amendment to the Food Labelling Regulations (Northern Ireland) 1996[^key-1e51f76a4026095a1b28a20a0950a903]
+### 28. Amendment to the Food Labelling Regulations (Northern Ireland) 1996[^c-1e51f76a4026095a1b28a20a0950a903]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -419,7 +419,7 @@ Department of Health, Social Services and Public Safety
 
 **SCHEDULES**
 
-## SCHEDULE 1 — Specified provisions of Regulation 10/2011[^key-a536e6a63764fc4f60272fd807b27737]
+## SCHEDULE 1 — Specified provisions of Regulation 10/2011[^c-a536e6a63764fc4f60272fd807b27737]
 
 Regulation 14(1)
 
@@ -430,13 +430,13 @@ Regulation 14(1)
 | Article 8, first sentence | General quality and purity standards that must be observed for substances used in the manufacture of plastic layers in plastic materials and articles |
 | Article 9 as read with Annex I | Particular restrictions and specifications for substances used in the manufacture of plastic layers in plastic materials and articles |
 | Article 10 as read with Annex II | General restrictions on plastic materials and articles |
-| Article 11(1) and Annex I, as read with Article 11(3) and (4)[^key-0836434b934e973c92be50880dced149] | Specific limits on the degree to which constituents of plastic materials and articles are permitted to migrate into foods |
+| Article 11(1) and Annex I, as read with Article 11(3) and (4)[^c-0836434b934e973c92be50880dced149] | Specific limits on the degree to which constituents of plastic materials and articles are permitted to migrate into foods |
 | Article 12 | Overall limits on the permitted level of migration of the constituents of plastic materials and articles into food simulants |
 | Article 13(1),(3),(4) and (5) and Annex I as read with Article 13(2) | Particular restrictions and specifications for the composition of each plastic layer in plastic multi-layer materials and articles |
 | Article 14(1) and (5) and Annex 1, as read with Article 14(2),(3) and (4) | Particular restrictions and specifications for the composition of each plastic layer in multi-material multi-layer materials and articles |
-| [^key-527fcd597e92f141a70631cdcc1a83f5]. . . | [^key-527fcd597e92f141a70631cdcc1a83f5]. . . |
+| [^c-527fcd597e92f141a70631cdcc1a83f5]. . . | [^c-527fcd597e92f141a70631cdcc1a83f5]. . . |
 
-## SCHEDULE 2 — Application of provisions of the Order[^key-328f27418dbae583d713260caeab9357]
+## SCHEDULE 2 — Application of provisions of the Order[^c-328f27418dbae583d713260caeab9357]
 
 Regulation 26
 
@@ -456,9 +456,9 @@ Regulation 26
 > - (a) regulations 10(4), 10(6) or 12(6) of the Materials and Articles in Contact with Food Regulations (Northern Ireland) 2012;
 > - (b) Article 16 of Regulation 1935/2004 of the European Parliament and of the Council on materials and articles intended to come into contact with food and repealing Directives [80/590/EEC](https://www.legislation.gov.uk/eudr/1980/590) and [89/109/EEC](https://www.legislation.gov.uk/eudr/1989/109);
 > - (c) Article 5 of [Commission Regulation (EC) No. 1895/2005](https://www.legislation.gov.uk/eur/2005/1895) on the restriction of use of certain epoxy derivatives in materials and articles intended to come into contact with food;
-> - (d) Article 12 and 13 of [Commission Regulation (EC) No. 450/2009](https://www.legislation.gov.uk/eur/2009/0450) on active and intelligent materials and articles intended to come into contact with food; [^key-b425e4dbc99abaefa0eeda8d151b5674]...
-> - (e) the second sentence of Article 8, Article 15 as read with Annex IV and Article 16 of [Commission Regulation (EU) No. 10/2011](https://www.legislation.gov.uk/eur/2011/0010) on plastic materials and articles intended to come into contact with food ; and[^key-e085196a9ed808271b3acbb77421d471]
-> - (f)[^key-085c5d01db331545519637466d4b8c3b] Article 4 of Regulation 2018/213.
+> - (d) Article 12 and 13 of [Commission Regulation (EC) No. 450/2009](https://www.legislation.gov.uk/eur/2009/0450) on active and intelligent materials and articles intended to come into contact with food; [^c-b425e4dbc99abaefa0eeda8d151b5674]...
+> - (e) the second sentence of Article 8, Article 15 as read with Annex IV and Article 16 of [Commission Regulation (EU) No. 10/2011](https://www.legislation.gov.uk/eur/2011/0010) on plastic materials and articles intended to come into contact with food ; and[^c-e085196a9ed808271b3acbb77421d471]
+> - (f)[^c-085c5d01db331545519637466d4b8c3b] Article 4 of Regulation 2018/213.
 
 ### PART 2 — Application and modification of other provisions of the Order
 
@@ -539,100 +539,100 @@ Part 10 contains general and supplementary provisions which —
 
 [^c21416881]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14)
 
-[^key-e8e68ac4e0c8b5b3eac258987d2ae515]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2012/384) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-e8e68ac4e0c8b5b3eac258987d2ae515]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2012/384) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^c21416891]: Marginal citation: OJ No. L277, 20.10.1984, p.12, amended by Commission Directive 2005/31/EC (OJ No. L110, 30.4.2005, p.36)
 
-[^key-f418efb3d282514d358e1608da9e95da]: Textual amendment: Words in reg. 2 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/a)
+[^c-f418efb3d282514d358e1608da9e95da]: Textual amendment: Words in reg. 2 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/a)
 
 [^c21416901]: Marginal citation: OJ No. L172, 30.6.2007, p.71. This Directive repealed and consolidated without further amendment Commission Directive 93/10/EEC as last amended by Commission Directive 2004/14/EC
 
 [^c21416911]: Marginal citation: OJ No. L338, 13.11.2004, p.4, amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council (OJ No. L188, 18.7.2009, p.14)
 
-[^key-1cacafa44d50f3a5412207d681cb8e5f]: Textual amendment: Words in reg. 2 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/b)
+[^c-1cacafa44d50f3a5412207d681cb8e5f]: Textual amendment: Words in reg. 2 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/b)
 
 [^c21416921]: Marginal citation: OJ No. L302, 19.11.2005, p.28
 
 [^c21416931]: Marginal citation: OJ No. L384, 29.12.2006, p.75
 
-[^key-b91b03c29697cb2b930bd06e0f188ab8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/384/regulation/2/1) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [25(2)(a)(i)](https://www.legislation.gov.uk/nisr/2019/5/regulation/25/2/a/i)
+[^c-b91b03c29697cb2b930bd06e0f188ab8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/384/regulation/2/1) omitted (11.2.2019) by virtue of [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [25(2)(a)(i)](https://www.legislation.gov.uk/nisr/2019/5/regulation/25/2/a/i)
 
 [^c21416941]: Marginal citation: OJ No. L135, 30.5.2009, p.3
 
-[^key-1a299c8f5a77e4bbc3a97c271ce42aa4]: Textual amendment: Words in reg. 2 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/157/regulation/3)
+[^c-1a299c8f5a77e4bbc3a97c271ce42aa4]: Textual amendment: Words in reg. 2 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/157/regulation/3)
 
-[^key-aa80cefee44c682be877748727f84222]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/384/regulation/2/1) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [25(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/5/regulation/25/2/a/ii)
+[^c-aa80cefee44c682be877748727f84222]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2012/384/regulation/2/1) inserted (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [25(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/5/regulation/25/2/a/ii)
 
-[^key-a26a46a2f787099614c3eff32ed9ad6c]: Textual amendment: Words in reg. 2 substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/d)
+[^c-a26a46a2f787099614c3eff32ed9ad6c]: Textual amendment: Words in reg. 2 substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/d)
 
-[^key-bd41fcf3e88c18c377962fbeb7868d92]: Textual amendment: Words in reg. 2 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/e)
+[^c-bd41fcf3e88c18c377962fbeb7868d92]: Textual amendment: Words in reg. 2 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/e)
 
-[^key-45c2c11dce61282b379b43c1b260ca6e]: Textual amendment: Words in reg. 2(2) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/f)
+[^c-45c2c11dce61282b379b43c1b260ca6e]: Textual amendment: Words in reg. 2(2) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2018/186/regulation/3/f)
 
 [^c21416961]: Marginal citation: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^c21416971]: Marginal citation: Article 4(e) does not apply until the date of application of the EU list of authorised substances that may be used in active and intelligent components
 
-[^key-7e96aab7c7055e525601bf718d28b64f]: Textual amendment: Reg. 7(2) omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/157/regulation/4)
+[^c-7e96aab7c7055e525601bf718d28b64f]: Textual amendment: Reg. 7(2) omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/157/regulation/4)
 
-[^key-1034147dbea246f2f60a9c25b79c74a3]: Textual amendment: Words in reg. 12(8) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [5](https://www.legislation.gov.uk/nisr/2017/157/regulation/5)
+[^c-1034147dbea246f2f60a9c25b79c74a3]: Textual amendment: Words in reg. 12(8) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [5](https://www.legislation.gov.uk/nisr/2017/157/regulation/5)
 
-[^key-44fa9867050c97c3059fd16f3ac50d4f]: Textual amendment: Words in reg. 13 substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [4](https://www.legislation.gov.uk/nisr/2018/186/regulation/4)
+[^c-44fa9867050c97c3059fd16f3ac50d4f]: Textual amendment: Words in reg. 13 substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [4](https://www.legislation.gov.uk/nisr/2018/186/regulation/4)
 
-[^key-744a8dfde9c93e160efa40f903b03374]: Textual amendment: Words in reg. 14(1) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [5](https://www.legislation.gov.uk/nisr/2018/186/regulation/5)
+[^c-744a8dfde9c93e160efa40f903b03374]: Textual amendment: Words in reg. 14(1) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [5](https://www.legislation.gov.uk/nisr/2018/186/regulation/5)
 
-[^key-741e958e96666d5639f8e29e738fd4ce]: Textual amendment: Words in reg. 14(1) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2017/157/regulation/6/a)
+[^c-741e958e96666d5639f8e29e738fd4ce]: Textual amendment: Words in reg. 14(1) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2017/157/regulation/6/a)
 
-[^key-0d8fc680a8a5c0c6a9de65ffde9c5b75]: Textual amendment: Reg. 14(2) omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2017/157/regulation/6/b)
+[^c-0d8fc680a8a5c0c6a9de65ffde9c5b75]: Textual amendment: Reg. 14(2) omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2017/157/regulation/6/b)
 
-[^key-50b49c8b298ab5294b21cacfd943fc2d]: Textual amendment: Reg. 15 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [7](https://www.legislation.gov.uk/nisr/2017/157/regulation/7)
+[^c-50b49c8b298ab5294b21cacfd943fc2d]: Textual amendment: Reg. 15 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [7](https://www.legislation.gov.uk/nisr/2017/157/regulation/7)
 
-[^key-200bebc5f10f39778b2c8ac9fcee2e4e]: Textual amendment: Words in reg. 16(1)(b) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2017/157/regulation/8/a)
+[^c-200bebc5f10f39778b2c8ac9fcee2e4e]: Textual amendment: Words in reg. 16(1)(b) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2017/157/regulation/8/a)
 
 [^c21417001]: Marginal citation: Article 3 contains an exception relating to certain containers and storage tanks and pipelines belonging to them
 
-[^key-5376ec4b5b1e1c74a224f32a5dd995c3]: Textual amendment: Word in reg. 16(2) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [6](https://www.legislation.gov.uk/nisr/2018/186/regulation/6)
+[^c-5376ec4b5b1e1c74a224f32a5dd995c3]: Textual amendment: Word in reg. 16(2) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [6](https://www.legislation.gov.uk/nisr/2018/186/regulation/6)
 
-[^key-a7283278f26282f17b9141e5f8d83bbd]: Textual amendment: Reg. 16(3) omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2017/157/regulation/8/b)
+[^c-a7283278f26282f17b9141e5f8d83bbd]: Textual amendment: Reg. 16(3) omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2017/157/regulation/8/b)
 
-[^key-f39543feafbbd1bc413bec87c84e4156]: Textual amendment: Words in reg. 16(4) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2017/157/regulation/8/c)
+[^c-f39543feafbbd1bc413bec87c84e4156]: Textual amendment: Words in reg. 16(4) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [8(c)](https://www.legislation.gov.uk/nisr/2017/157/regulation/8/c)
 
-[^key-bfd78d25335db5b710e872f3ea736a05]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/nisr/2012/384/part/7A) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/186/regulation/7)
+[^c-bfd78d25335db5b710e872f3ea736a05]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/nisr/2012/384/part/7A) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/186/regulation/7)
 
-[^key-e91cad19073f72d535766252afdedd7f]: Textual amendment: Reg. 19 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/157/regulation/9)
+[^c-e91cad19073f72d535766252afdedd7f]: Textual amendment: Reg. 19 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/157/regulation/9)
 
-[^key-f91549dd72bd8d2aa23252d65489d621]: Textual amendment: Words in reg. 19(2) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/8/a)
+[^c-f91549dd72bd8d2aa23252d65489d621]: Textual amendment: Words in reg. 19(2) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/8/a)
 
-[^key-2fd6719942bde12e5c109f6489396b41]: Textual amendment: Words in reg. 19(5)(a) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/8/b)
+[^c-2fd6719942bde12e5c109f6489396b41]: Textual amendment: Words in reg. 19(5)(a) substituted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/8/b)
 
-[^key-de471eddfd18000c7c6bc323227ba532]: Textual amendment: Reg. 20 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [10](https://www.legislation.gov.uk/nisr/2017/157/regulation/10)
+[^c-de471eddfd18000c7c6bc323227ba532]: Textual amendment: Reg. 20 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [10](https://www.legislation.gov.uk/nisr/2017/157/regulation/10)
 
-[^key-df38174592f28a95fd5e9dae88f02085]: Textual amendment: Words in reg. 22(2) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [11](https://www.legislation.gov.uk/nisr/2017/157/regulation/11)
+[^c-df38174592f28a95fd5e9dae88f02085]: Textual amendment: Words in reg. 22(2) substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [11](https://www.legislation.gov.uk/nisr/2017/157/regulation/11)
 
-[^key-41c6ace7368c3bae868b613761ba2879]: Textual amendment: Words in reg. 23(2) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [9](https://www.legislation.gov.uk/nisr/2018/186/regulation/9)
+[^c-41c6ace7368c3bae868b613761ba2879]: Textual amendment: Words in reg. 23(2) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [9](https://www.legislation.gov.uk/nisr/2018/186/regulation/9)
 
-[^key-4cfe24cc31ec7c05d492a6bc2ec7f1cc]: Textual amendment: Reg. 26 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [12](https://www.legislation.gov.uk/nisr/2017/157/regulation/12)
+[^c-4cfe24cc31ec7c05d492a6bc2ec7f1cc]: Textual amendment: Reg. 26 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [12](https://www.legislation.gov.uk/nisr/2017/157/regulation/12)
 
-[^key-ca772ed92839e47265e9a7485e85bfdb]: Textual amendment: Word in reg. 26(1)(a)(iv) deleted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/10/a)
+[^c-ca772ed92839e47265e9a7485e85bfdb]: Textual amendment: Word in reg. 26(1)(a)(iv) deleted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [10(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/10/a)
 
-[^key-01fbc57a9ac0c3a89c30d21b07447ea9]: Textual amendment: Reg. 26(1)(a)(vi) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/10/b)
+[^c-01fbc57a9ac0c3a89c30d21b07447ea9]: Textual amendment: Reg. 26(1)(a)(vi) inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [10(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/10/b)
 
-[^key-1e51f76a4026095a1b28a20a0950a903]: Textual amendment: Reg. 28 omitted (29.11.2018) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [11](https://www.legislation.gov.uk/nisr/2018/186/regulation/11)
+[^c-1e51f76a4026095a1b28a20a0950a903]: Textual amendment: Reg. 28 omitted (29.11.2018) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [11](https://www.legislation.gov.uk/nisr/2018/186/regulation/11)
 
 [^c21417081]: Marginal citation: S.R. [2006 No. 217](https://www.legislation.gov.uk/ukcm/2006/217), amended by S.R. [2008 No. 271](https://www.legislation.gov.uk/ukcm/2008/271)
 
 [^c21417091]: Marginal citation: S.R. [2011 No. 28](https://www.legislation.gov.uk/ukcm/2011/28)
 
-[^key-a536e6a63764fc4f60272fd807b27737]: Textual amendment: Sch. renamed Sch. 1 (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2017/157/regulation/13/a)
+[^c-a536e6a63764fc4f60272fd807b27737]: Textual amendment: Sch. renamed Sch. 1 (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [13(a)](https://www.legislation.gov.uk/nisr/2017/157/regulation/13/a)
 
-[^key-0836434b934e973c92be50880dced149]: Textual amendment: Words in Sch. 1 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2017/157/regulation/13/b)
+[^c-0836434b934e973c92be50880dced149]: Textual amendment: Words in Sch. 1 substituted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [13(b)](https://www.legislation.gov.uk/nisr/2017/157/regulation/13/b)
 
-[^key-527fcd597e92f141a70631cdcc1a83f5]: Textual amendment: Words in Sch. 1 omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [13(c)](https://www.legislation.gov.uk/nisr/2017/157/regulation/13/c)
+[^c-527fcd597e92f141a70631cdcc1a83f5]: Textual amendment: Words in Sch. 1 omitted (14.9.2017) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [regs. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [13(c)](https://www.legislation.gov.uk/nisr/2017/157/regulation/13/c)
 
-[^key-328f27418dbae583d713260caeab9357]: Textual amendment: Sch. 2 inserted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [reg. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2017/157/schedule)
+[^c-328f27418dbae583d713260caeab9357]: Textual amendment: Sch. 2 inserted (14.9.2017) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/157)](https://www.legislation.gov.uk/nisr/2017/157), [reg. 1](https://www.legislation.gov.uk/nisr/2017/157/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2017/157/schedule)
 
-[^key-b425e4dbc99abaefa0eeda8d151b5674]: Textual amendment: Word in Sch. 2 para. 1 omitted (29.11.2018) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [12(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/12/a)
+[^c-b425e4dbc99abaefa0eeda8d151b5674]: Textual amendment: Word in Sch. 2 para. 1 omitted (29.11.2018) by virtue of [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [12(a)](https://www.legislation.gov.uk/nisr/2018/186/regulation/12/a)
 
-[^key-e085196a9ed808271b3acbb77421d471]: Textual amendment: Word in Sch. 2 para. 1 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/12/b)
+[^c-e085196a9ed808271b3acbb77421d471]: Textual amendment: Word in Sch. 2 para. 1 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [12(b)](https://www.legislation.gov.uk/nisr/2018/186/regulation/12/b)
 
-[^key-085c5d01db331545519637466d4b8c3b]: Textual amendment: Word in Sch. 2 para. 1 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [12(c)](https://www.legislation.gov.uk/nisr/2018/186/regulation/12/c)
+[^c-085c5d01db331545519637466d4b8c3b]: Textual amendment: Word in Sch. 2 para. 1 inserted (29.11.2018) by [The Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/186)](https://www.legislation.gov.uk/nisr/2018/186), [regs. 1](https://www.legislation.gov.uk/nisr/2018/186/regulation/1), [12(c)](https://www.legislation.gov.uk/nisr/2018/186/regulation/12/c)

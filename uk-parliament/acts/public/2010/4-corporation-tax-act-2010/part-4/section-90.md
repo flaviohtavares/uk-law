@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-38977685dc0d66bc47549d8dcbf523e5] In this Chapter (subject to subsections (2) to (7))—
+(1)[^c-38977685dc0d66bc47549d8dcbf523e5] In this Chapter (subject to subsections (2) to (7))—
 
 - “**bonus shares**” means shares which are issued otherwise than for payment (whether in cash or otherwise),
 - “**corresponding bonus shares**”, in relation to any shares, means bonus shares which—
@@ -30,7 +30,7 @@ summary: ''
   - (a) has a trade which consists wholly or mainly of dealing in land, in commodities or futures or in shares, securities or other financial instruments,
   - (b) has a trade which is not carried on on a commercial basis and in such a way that profits in the trade can reasonably be expected to be realised,
   - (c) is a holding company of a group other than a trading group, or
-  - (d) is a building society or a registered society[^key-da8ceb6a842d6aab4fedec8b3304832d] ,
+  - (d) is a building society or a registered society[^c-da8ceb6a842d6aab4fedec8b3304832d] ,
 - “group” (except in sections 79 and 84) means a company which has one or more 51% subsidiaries together with that or those subsidiaries,
 - “**holding company**” means a company whose business consists wholly or mainly in the holding of shares or securities of companies which are its 51% subsidiaries,
 - “**investment company**” means a company—
@@ -38,9 +38,9 @@ summary: ''
   - (b) which derives the principal part of its income from the making of investments,
 
   but does not include the holding company of a trading group,
-- “[^key-273192e8997dc553903f54933597219b]**registered society**” means—
+- “[^c-273192e8997dc553903f54933597219b]**registered society**” means—
   - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014,
-  - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969, or[^key-9351def3f45b2d1c4d158e09053c9a0a]
+  - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969, or[^c-9351def3f45b2d1c4d158e09053c9a0a]
   - (c) an SCE formed in accordance with Council Regulation [( EC ) No 1435/2003](https://www.legislation.gov.uk/european/regulation/2003/1435) on the Statute for a European Cooperative Society,
 - “shares”—
   - (a) includes stock, but
@@ -68,10 +68,10 @@ summary: ''
 
 ## Annotations
 
-[^key-38977685dc0d66bc47549d8dcbf523e5]: Textual amendment: [S. 90(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/90/1) amendment to earlier affecting provision 2014 c. 14 Sch. 4 para. 158(3) (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
+[^c-38977685dc0d66bc47549d8dcbf523e5]: Textual amendment: [S. 90(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/90/1) amendment to earlier affecting provision 2014 c. 14 Sch. 4 para. 158(3) (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15)
 
-[^key-da8ceb6a842d6aab4fedec8b3304832d]: Textual amendment: Words in s. 90(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 158(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/158/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-da8ceb6a842d6aab4fedec8b3304832d]: Textual amendment: Words in s. 90(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 158(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/158/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-273192e8997dc553903f54933597219b]: Textual amendment: Words in s. 90(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 158(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/158/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15))
+[^c-273192e8997dc553903f54933597219b]: Textual amendment: Words in s. 90(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 158(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/158/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 12](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/12), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15))
 
-[^key-9351def3f45b2d1c4d158e09053c9a0a]: Annotation text not found in the source document.
+[^c-9351def3f45b2d1c4d158e09053c9a0a]: Annotation text not found in the source document.

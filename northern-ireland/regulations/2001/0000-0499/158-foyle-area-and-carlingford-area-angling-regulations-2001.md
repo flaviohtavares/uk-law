@@ -43,11 +43,11 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, in exercise of its powers under section 13(1) (amended by section 34(3) of the British-Irish Agreement Act 1999[^f00001]) of the Foyle Fisheries Act 1952[^f00001] which stand transferred to it under section 34(1) of the British-Irish Agreement Act 1999, and in exercise of the powers conferred by section 13(1) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf, with the approval of the North/South Ministerial Council, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-43ea551c1803d2d27e030207dfb6e625]
+## 1. Citation and commencement[^c-43ea551c1803d2d27e030207dfb6e625]
 
 These Regulations may be cited as the Foyle Area and Carlingford Area (Angling) Regulations 2001 and shall come into operation on 14th May 2001.
 
-## 2. Interpretation[^key-21e1e774a7f99b7ca2772d1115cdb2f5]
+## 2. Interpretation[^c-21e1e774a7f99b7ca2772d1115cdb2f5]
 
 In these Regulations—
 
@@ -70,11 +70,11 @@ In these Regulations—
 - “snatch” means to foul hook any fish deliberately; and
 - “spinning” means the use of a single rod, reel (including a fixed spool reel) and line designed to cast or throw an artificial or natural bait and retrieve the bait by rewinding the line onto the drum of the reel with the bait kept in motion throughout.
 
-## 3. Methods of angling[^key-dc32680ec5c5962e4b22323ae5a85d88]
+## 3. Methods of angling[^c-dc32680ec5c5962e4b22323ae5a85d88]
 
 Subject to regulation 4(2) a person shall not in any waters specified in column (1) of Schedule 1 angle for fish except by a method specified in column (2) of that Schedule opposite the reference to those waters.
 
-## 4. Prohibitions and restrictions[^key-7c247498d958e7e65f20fc9e1bcc5b37]
+## 4. Prohibitions and restrictions[^c-7c247498d958e7e65f20fc9e1bcc5b37]
 
 (1) A person shall not angle for fish in any waters of the River Roe, the River Faughan, the River Mourne described in Schedule 2.
 
@@ -85,7 +85,7 @@ Subject to regulation 4(2) a person shall not in any waters specified in column 
 
 (3) A person shall not in any waters of the Foyle Area or the Carlingford Area snatch or attempt to snatch salmon with any kind of hook or combination of hooks whether or not covered in part or in whole with any matter or thing and whether or not used with a rod and line.
 
-## 5. Restrictions on bait[^key-a19a22b8eddd2bae02c77ba80bf6a85e]
+## 5. Restrictions on bait[^c-a19a22b8eddd2bae02c77ba80bf6a85e]
 
 (1) A person shall not use prawns or shrimps as a bait while angling in any waters in the Foyle Area or the Carlingford Area.
 
@@ -96,13 +96,13 @@ Subject to regulation 4(2) a person shall not in any waters specified in column 
 - (a) while angling for any fish in the waters described in column (1) of Schedule 1;
 - (b) while angling for fish other than coarse fish in the waters described in Schedule 3.
 
-## 6. Restrictions on use of boats[^key-9362913d693b5c40e953d6a116f75059]
+## 6. Restrictions on use of boats[^c-9362913d693b5c40e953d6a116f75059]
 
 (1) A person shall not use a boat for the purpose of angling on Lough Ash, Lough Bradan, Lough Lee in County Tyrone or on the waters of Binevenagh Dam in County Londonderry.
 
 (2) A person shall not use a mechanically propelled boat for the purpose of angling on Moorlough in County Tyrone.
 
-## 7. Restrictions on number and size[^key-bb3d87bfc26dfb7695a96082477a5840]
+## 7. Restrictions on number and size[^c-bb3d87bfc26dfb7695a96082477a5840]
 
 (1) A person shall not take by rod and line and retain—
 
@@ -111,7 +111,7 @@ Subject to regulation 4(2) a person shall not in any waters specified in column 
 
 (2) Where a person takes by rod and line any salmonid of less than the minimum length specified in paragraph (1)(*a*) or a salmonid in excess of the maximum number specified in paragraph (1)(*b*) he shall return the salmonid to the water without avoidable injury.
 
-## 8. Revocation[^key-cddcafc15b9e448158db085105ed8e69]
+## 8. Revocation[^c-cddcafc15b9e448158db085105ed8e69]
 
 The Foyle Area (Angling) Regulations 1999[^f00004] are hereby revoked.
 
@@ -133,7 +133,7 @@ Joint Secretary of the North/South Ministerial Council
 
 being persons authorised by the North/South Ministerial Council to signify approval on its behalf.
 
-## SCHEDULE 1[^key-e2c31579b15c82c45066db0a386fc82f]
+## SCHEDULE 1[^c-e2c31579b15c82c45066db0a386fc82f]
 
 Regulations 3 and 5(3)(*a*)
 
@@ -146,7 +146,7 @@ Regulations 3 and 5(3)(*a*)
 | 3\. River Roe and tributaries and River Faughan and tributaries (except those areas mentioned in Schedule 2 where angling is prohibited and the area mentioned in paragraph 4). | Fly fishing where the breaking strain of the cast shall not exceed 3·7 kg for night fishing and 6·9 kg for fishing at other times and where no more than two single dressed fly hooks of normal weight spaced at least 0·61 m apart are used for night fishing.<br>Bait fishing where the gape of the hook does not exceed 9 mm, the breaking strain of the line does not exceed 4·6 kg and the maximum length of the rod does not exceed 2·75 m, provided that this method is not used for night fishing.<br>Spinning where the gape of the hook does not exceed 7 mm, the breaking strain of the line does not exceed 4·6 kg and the maximum length of the rod does not exceed 2·75 m provided that this method is not used for night fishing. |
 | 4\. River Roe from and within 280.0 metres upstream of Largy Bridge in the townlands of Largy and Ardgarvan, County Londonderry. | Fly fishing where the breaking strain of the cast shall not exceed 3·7 kg for night fishing and 6·9 kg for fishing at other times and where no more than two single dressed fly hooks of normal weight spaced at least 0·61 m apart are used for night fishing<br>Bait fishing where the gape of the hook does not exceed 9 mm, the breaking strain of the line does not exceed 4·6 kg and the maximum length of the rod does not exceed 2·75 m, provided that this method is not used for night fishing. |
 
-## SCHEDULE 2[^key-06888cbecc1d088583f6abbcbddbed84]
+## SCHEDULE 2[^c-06888cbecc1d088583f6abbcbddbed84]
 
 Regulation 4(1)
 
@@ -156,7 +156,7 @@ Regulation 4(1)
 | River Faughan | - (1) Downstream of the weir known as Ballyarton Weir in the townland of Lettermuck. County Londonderry for 91·5 metres.<br>- (2) Downstream of the weir known as Bleachgreen Weir in the townland of Ardmore, County Londonderry for 91·5 metres, measured from an imaginary straight line drawn at right angles to the course of the river through right or eastern bank extremity of the weir.<br>- (3) Downstream of the Department for Regional Development’s barrage in the townland of Campsie, County Londonderry for 54·9 metres on the left or western side and for 123·5 metres on the right or eastern side of the river. |
 | River Mourne | Downstream of the weir at Sion Mills Weir in the townlands of Camus and Liggartown, County Tyrone to the boundary between the townlands of Camus and Bearney Glebe except that on the left or western side of the river angling may not take place from and within 64·0 metres downstream of the said weir. |
 
-## SCHEDULE 3 — Description of Waters[^key-4747c023bb244564fe674143be5ed337]
+## SCHEDULE 3 — Description of Waters[^c-4747c023bb244564fe674143be5ed337]
 
 Regulation 5(3)(b)
 
@@ -184,26 +184,26 @@ The Regulations lift the prohibition on angling on the River Foyle between Islan
 
 [^f00003]: Footnote: By S.I. [1999/859](https://www.legislation.gov.uk/uksi/1999/859) Article 21(1)
 
-[^key-43ea551c1803d2d27e030207dfb6e625]: Commencement: Reg. 1 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-43ea551c1803d2d27e030207dfb6e625]: Commencement: Reg. 1 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-21e1e774a7f99b7ca2772d1115cdb2f5]: Commencement: Reg. 2 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-21e1e774a7f99b7ca2772d1115cdb2f5]: Commencement: Reg. 2 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-dc32680ec5c5962e4b22323ae5a85d88]: Commencement: Reg. 3 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-dc32680ec5c5962e4b22323ae5a85d88]: Commencement: Reg. 3 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-7c247498d958e7e65f20fc9e1bcc5b37]: Commencement: Reg. 4 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-7c247498d958e7e65f20fc9e1bcc5b37]: Commencement: Reg. 4 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-a19a22b8eddd2bae02c77ba80bf6a85e]: Commencement: Reg. 5 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-a19a22b8eddd2bae02c77ba80bf6a85e]: Commencement: Reg. 5 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-9362913d693b5c40e953d6a116f75059]: Commencement: Reg. 6 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-9362913d693b5c40e953d6a116f75059]: Commencement: Reg. 6 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-bb3d87bfc26dfb7695a96082477a5840]: Commencement: Reg. 7 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-bb3d87bfc26dfb7695a96082477a5840]: Commencement: Reg. 7 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-cddcafc15b9e448158db085105ed8e69]: Commencement: Reg. 8 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-cddcafc15b9e448158db085105ed8e69]: Commencement: Reg. 8 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1999 No. 182](https://www.legislation.gov.uk/nisr/1999/182)
 
-[^key-e2c31579b15c82c45066db0a386fc82f]: Commencement: Sch. 1 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-e2c31579b15c82c45066db0a386fc82f]: Commencement: Sch. 1 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-06888cbecc1d088583f6abbcbddbed84]: Commencement: Sch. 2 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-06888cbecc1d088583f6abbcbddbed84]: Commencement: Sch. 2 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
 
-[^key-4747c023bb244564fe674143be5ed337]: Commencement: Sch. 3 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)
+[^c-4747c023bb244564fe674143be5ed337]: Commencement: Sch. 3 in operation at 14.5.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/158/regulation/1)

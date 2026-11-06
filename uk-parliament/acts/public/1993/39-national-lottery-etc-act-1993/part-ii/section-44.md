@@ -22,8 +22,8 @@ summary: ''
 
 (1) In this Part—
 
-- “[^key-3a0c2efe9883a2c749a019165bd08c8a]**charitable**”, in relation to expenditure, means expenditure for a charitable, benevolent or philanthropic purpose.
-- [^key-bc32eefa53dec1fe18029fb75edc9b89]...
+- “[^c-3a0c2efe9883a2c749a019165bd08c8a]**charitable**”, in relation to expenditure, means expenditure for a charitable, benevolent or philanthropic purpose.
+- [^c-bc32eefa53dec1fe18029fb75edc9b89]...
 - “**the Distribution Fund**” means the National Lottery Distribution Fund;
 - “[^c1528716]**education**” includes training and the provision of activities for children;
 - “endowment” includes permanent endowment;[^M_F_4e532a4b-70bd-4187-d1ad-5c9c7688815c]
@@ -41,13 +41,13 @@ summary: ''
 - (a) which is not concerned or connected with any of those matters; but
 - (b) which is necessary or expedient for the purposes of the project or arrangement.
 
-(4)[^c1528721] Any reference in this Part to the distribution of money shall be construed as including the making or entering into of arrangements in accordance with section 25(1A) [^key-1ce891b864b0c1683219cd61d29436ad]...; and related expressions used in this Part shall be construed accordingly.
+(4)[^c1528721] Any reference in this Part to the distribution of money shall be construed as including the making or entering into of arrangements in accordance with section 25(1A) [^c-1ce891b864b0c1683219cd61d29436ad]...; and related expressions used in this Part shall be construed accordingly.
 
 ## Annotations
 
-[^key-3a0c2efe9883a2c749a019165bd08c8a]: Textual amendment: Words in s. 44(1) substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 20](https://www.legislation.gov.uk/ukpga/2006/23/section/20), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-3a0c2efe9883a2c749a019165bd08c8a]: Textual amendment: Words in s. 44(1) substituted (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 20](https://www.legislation.gov.uk/ukpga/2006/23/section/20), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
-[^key-bc32eefa53dec1fe18029fb75edc9b89]: Textual amendment: S. 44(1) entry omitted (1.12.2006) by virtue of [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/7), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
+[^c-bc32eefa53dec1fe18029fb75edc9b89]: Textual amendment: S. 44(1) entry omitted (1.12.2006) by virtue of [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 19(7)](https://www.legislation.gov.uk/ukpga/2006/23/section/19/7), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/d)
 
 [^c1528716]: Textual amendment: Definitions in s. 44(1) inserted (2.7.1998 with application in relation to sums paid into the National Lottery Distribution Fund under s. 21(2) on or after 14.10.1997) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [s. 6(8)(9)](https://www.legislation.gov.uk/ukpga/1998/22/section/6/8/9).
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c1528721]: Textual amendment: S. 44(4) inserted (2.7.1998) by [1998 c. 22](https://www.legislation.gov.uk/ukpga/1998/22), [s. 9(2)](https://www.legislation.gov.uk/ukpga/1998/22/section/9/2).
 
-[^key-1ce891b864b0c1683219cd61d29436ad]: Textual amendment: Words in [s. 44(4)](https://www.legislation.gov.uk/ukpga/1993/39/section/44/4) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-1ce891b864b0c1683219cd61d29436ad]: Textual amendment: Words in [s. 44(4)](https://www.legislation.gov.uk/ukpga/1993/39/section/44/4) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)

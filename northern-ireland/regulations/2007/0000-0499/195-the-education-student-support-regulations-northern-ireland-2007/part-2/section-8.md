@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Transfer of status[^key-35c45e68c255342c7dfeef819a354b52]
+## 8. Transfer of status[^c-35c45e68c255342c7dfeef819a354b52]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35c45e68c255342c7dfeef819a354b52]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/195/regulation/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-35c45e68c255342c7dfeef819a354b52]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/195/regulation/8) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

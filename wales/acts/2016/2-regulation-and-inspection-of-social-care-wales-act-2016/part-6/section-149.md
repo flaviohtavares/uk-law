@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Revocation of interim orders[^key-a066e5d6d1989ea8cec7c4794d41f437]
+## 149. Revocation of interim orders[^c-a066e5d6d1989ea8cec7c4794d41f437]
 
 *Extent: E+W*
 
@@ -31,12 +31,12 @@ summary: ''
 
 (4) In this section a reference to an interim order includes a reference to the following (see sections 147 and 148)—
 
-- (a) an interim order as extended or further extended (whether by a panel or the tribunal)[^key-08616d9f0a0e3367a81835853b42ba6c];
+- (a) an interim order as extended or further extended (whether by a panel or the tribunal)[^c-08616d9f0a0e3367a81835853b42ba6c];
 - (b) an interim order as varied on a review;
 - (c) a replacement interim conditional registration order or interim suspension order made on a review.
 
 ## Annotations
 
-[^key-a066e5d6d1989ea8cec7c4794d41f437]: Commencement: [S. 149](https://www.legislation.gov.uk/anaw/2016/2/section/149) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-a066e5d6d1989ea8cec7c4794d41f437]: Commencement: [S. 149](https://www.legislation.gov.uk/anaw/2016/2/section/149) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-08616d9f0a0e3367a81835853b42ba6c]: Textual amendment: Words in s. 149(4)(a) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(11)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/11); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)
+[^c-08616d9f0a0e3367a81835853b42ba6c]: Textual amendment: Words in s. 149(4)(a) substituted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(11)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/11); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)

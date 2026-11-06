@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20A. Offences under section 20 committed outside UK[^key-6dc773b9fe181c733ad4c4bf6883ac96]
+## 20A. Offences under section 20 committed outside UK[^c-6dc773b9fe181c733ad4c4bf6883ac96]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ as if the offence had been committed in that district.
 
 ## Annotations
 
-[^key-6dc773b9fe181c733ad4c4bf6883ac96]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/asp/2006/4/section/20A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/170/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6dc773b9fe181c733ad4c4bf6883ac96]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/asp/2006/4/section/20A) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/170/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

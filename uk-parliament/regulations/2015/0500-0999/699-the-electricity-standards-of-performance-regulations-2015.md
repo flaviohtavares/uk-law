@@ -49,17 +49,17 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 ## PART 1 — General
 
-### 1. Citation, commencement and transitional provisions[^key-7431a17a0493a799dcabbe809cec8d07]
+### 1. Citation, commencement and transitional provisions[^c-7431a17a0493a799dcabbe809cec8d07]
 
 (1) These Regulations may be cited as the Electricity (Standards of Performance) Regulations 2015 and come into force on 1st April 2015.
 
 (2) Where, in relation to any occasion upon which a regulation would otherwise apply, the applicable date falls before the date on which these Regulations come into force, the Electricity (Standards of Performance) Regulations 2010[^f00004] continue to apply to the exclusion of these Regulations.
 
-### 2. Revocation[^key-a6db7392793158306eddad3cf6e8be26]
+### 2. Revocation[^c-a6db7392793158306eddad3cf6e8be26]
 
 The instruments listed in column 1 of Schedule 1 to these Regulations (which have the references in column 2) are revoked to the extent indicated in column 3 of that Schedule.
 
-### 3. General interpretation[^key-74d08ea82ddaf3e005eb87fcd50170ed]
+### 3. General interpretation[^c-74d08ea82ddaf3e005eb87fcd50170ed]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -67,7 +67,7 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
 - “applicable date” means, in relation to each occasion on which a regulation applies, the day on which that regulation first applies, or, where a prescribed period in a paragraph of a regulation is expressed in hours, the time on that day when that regulation first applies;
 - “appropriate meter” has the meaning given in paragraph 1(6) of Schedule 7 to the Act;
 - “the Authority” means the Gas and Electricity Markets Authority established under section 1 of the Utilities Act 2000[^f00005];
-- “consumer advocacy body” means the National Association of Citizens Advice Bureaux or Consumer Scotland[^key-115e5853c7bdb00ed91357b0865d94c8];
+- “consumer advocacy body” means the National Association of Citizens Advice Bureaux or Consumer Scotland[^c-115e5853c7bdb00ed91357b0865d94c8];
 - “customer” means an owner or occupier of premises in Great Britain who is supplied or requires to be supplied with electricity, and includes an electricity supplier where it is acting on behalf of such a person;
 - “designated electricity distributor” means an electricity distributor in whose licence Section B of the standard conditions of distribution licences is in effect but only to the extent that the electricity distributor is undertaking activities within its distribution services area;
 - “directly connected”, in relation to premises, means so connected to an electricity distributor’s distribution system that the final connection to the premises is from that system;
@@ -79,10 +79,10 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
 - “distributor’s fuse” means the fusible cut-out or automatic switching device of the electricity distributor for disconnecting the supply to the customer’s premises situated nearest to the appropriate meter for the customer’s premises and on the distributor’s side thereof;
 - “domestic customer” means a customer supplied or requiring to be supplied with electricity at domestic premises (but excluding such customer insofar as the customer is supplied or requires to be supplied at premises other than domestic premises);
 - “domestic premises” means premises at which a supply is taken or to be taken wholly or mainly for domestic purposes;
-- [^key-a0030b4913b02b1ecf14a9b0bc0dffee]...
+- [^c-a0030b4913b02b1ecf14a9b0bc0dffee]...
 - “non-domestic customer” means any customer other than a domestic customer;
 - “pay” includes crediting the account of the customer for charges incurred or to be incurred in respect of the supply or in respect of the provision of any electricity meter, electric line or electrical plant, and “payment” is construed accordingly;
-- “[^key-2dfadedde5b0a151fa99224d60ffddcb]**prescribed cap**” means the amount in column 4 of Part 1A of Schedule 2, opposite the reference to that paragraph of the regulation in column 1 of Part 1A of that Schedule, or such other amount as adjusted by virtue of regulation 21A;”, and
+- “[^c-2dfadedde5b0a151fa99224d60ffddcb]**prescribed cap**” means the amount in column 4 of Part 1A of Schedule 2, opposite the reference to that paragraph of the regulation in column 1 of Part 1A of that Schedule, or such other amount as adjusted by virtue of regulation 21A;”, and
 - “prescribed period” in relation to any paragraph of these Regulations means the period in column 2 of Part 1 of Schedule 2 opposite the reference to that paragraph in column 1 of that Part;
 - “prescribed sum” means, where the customer is a domestic customer the amount in column 3 of Part 1 of Schedule 2, or where the customer is a non-domestic customer the amount in column 4 of Part 1 of Schedule 2 or such other sum calculated in accordance with regulation 21A[^M_F_08b9e6e5-d81a-4940-fb0f-f8ca47129fd1], in either case opposite the reference to that paragraph of the regulation in column 1 of Part 1 of that Schedule;
 - “Priority Services Register” means a list established and maintained by an electricity distributor which contains the details of Priority Services Register Customers;
@@ -93,7 +93,7 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
     - (i) personally asked the licensee to add the customer’s name to the Priority Services Register; or
     - (ii) had a person acting on the customer’s behalf ask for the customer’s name to be added to it; or
     - (iii) had a relevant supplier ask for the customer’s name to be added to it;
-- “relevant operator” means the relevant electricity distributor or the electricity distributor[^key-136b5c8d007b34e48d6442facb69d5e7]
+- “relevant operator” means the relevant electricity distributor or the electricity distributor[^c-136b5c8d007b34e48d6442facb69d5e7]
 - “relevant supplier” means an electricity supplier in whose licence Section D of the standard conditions of electricity supply licences had effect immediately prior to 1st August 2007 but only to the extent that the supplier is undertaking activities within its supply services area;
 - “specified time” means—
   - (a) unless sub-paragraph (b) applies, a part (which has been specified by the relevant operator) of a day (which has also been so specified by the relevant operator) within the prescribed period from the applicable date, being either—
@@ -117,16 +117,16 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
 
 ## PART 2 — Supply Restoration Standards of Performance for Electricity Distributors
 
-### 4. Supply Restoration Standards of Performance for Electricity Distributors[^key-8ad55f29e927caa9a121fef7985beb6b]
+### 4. Supply Restoration Standards of Performance for Electricity Distributors[^c-8ad55f29e927caa9a121fef7985beb6b]
 
 (1) In this regulation and regulations 5, 6, 7, 8 and 9—
 
-- “[^key-d04c97158982d32b6b2b2075b46479b4]*category 1 severe weather conditions*” means—
+- “[^c-d04c97158982d32b6b2b2075b46479b4]*category 1 severe weather conditions*” means—
 - (a) conditions in which no less than eight times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather predominantly related to lightning; or
 - (b) conditions in which no less than eight times the daily mean faults at distribution higher voltage but fewer than thirteen times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather not predominantly related to lightning;
-- “[^key-bb62776c369231af2c4f208e1cebe142]*category 2 severe weather conditions*” means conditions in which no less than thirteen times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather not predominantly related to lightning;
-- [^key-65b45db9c528e4bc9eb72483198e3325]...
-- [^key-65b45db9c528e4bc9eb72483198e3325]...
+- “[^c-bb62776c369231af2c4f208e1cebe142]*category 2 severe weather conditions*” means conditions in which no less than thirteen times the daily mean faults at distribution higher voltage on the designated electricity distributor’s distribution system at distribution higher voltage in a 24-hour period are caused by weather not predominantly related to lightning;
+- [^c-65b45db9c528e4bc9eb72483198e3325]...
+- [^c-65b45db9c528e4bc9eb72483198e3325]...
 - “distribution higher voltage” means any nominal voltage of more than 1,000 volts up to and including 132 kilovolts in England and Wales and up to but excluding 132 kilovolts in Scotland;
 - “eight times the daily mean faults at distribution higher voltage” means, for each designated electricity distributor, the number in column 2 in the Table in Part 3 of Schedule 2 opposite the reference to that distributor in column 1;
 - “relevant electricity distributor”, in relation to any customer, means—
@@ -136,12 +136,12 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
   - (a) the first time at which an electricity distributor is informed by a customer that the supply to that customer’s premises has been discontinued; or
   - (b) the first time at which an electricity distributor is informed by a person other than that customer or is otherwise made aware by the operation of any automatic system operated by that distributor of circumstances in which regulation 5(1), 6(1), 7(1), 7(2) or 7(3) applies or may reasonably be expected to apply to premises including the customer’s premises;
 - “thirteen times the daily mean faults at distribution higher voltage” means, for each designated electricity distributor, the number in column 3 in the table in Part 3 of Schedule 2 opposite the reference to that distributor in column 1;
-- [^key-65b45db9c528e4bc9eb72483198e3325]...
-- [^key-65b45db9c528e4bc9eb72483198e3325]...
+- [^c-65b45db9c528e4bc9eb72483198e3325]...
+- [^c-65b45db9c528e4bc9eb72483198e3325]...
 
-(2)[^key-c5904bf37b94d583d2f4c246de08c5bb] For the purposes of calculating and making compensation payments under regulations 5, 6, 7 and 8, where supply is interrupted to a directly connected premises, and the relevant electricity distributor is not a designated electricity distributor, that interruption is deemed to have been caused by the same category of event applicable to the designated electricity distributor in whose distribution services area that relevant electricity distributor operates.
+(2)[^c-c5904bf37b94d583d2f4c246de08c5bb] For the purposes of calculating and making compensation payments under regulations 5, 6, 7 and 8, where supply is interrupted to a directly connected premises, and the relevant electricity distributor is not a designated electricity distributor, that interruption is deemed to have been caused by the same category of event applicable to the designated electricity distributor in whose distribution services area that relevant electricity distributor operates.
 
-### 5. Supply restoration: normal conditions[^key-553917a50bfaf6a21545b184c1357478]
+### 5. Supply restoration: normal conditions[^c-553917a50bfaf6a21545b184c1357478]
 
 (1) This paragraph applies to a relevant electricity distributor where the supply to a customer’s premises is interrupted as a result of a failure of, fault in or damage to that distributor’s distribution system (except where regulation 11 applies).
 
@@ -153,9 +153,9 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
 (3) The circumstances described in this paragraph are—
 
 - (a) each of the circumstances described in regulation 6 and regulation 9; and
-- (b) where the supply to the customer’s premises is interrupted as a result of a failure of, fault in or damage to the relevant electricity distributor’s distribution system resulting from category 1 or 2[^key-71f0c074db6d601426ac95c29ed235cd] severe weather conditions.
+- (b) where the supply to the customer’s premises is interrupted as a result of a failure of, fault in or damage to the relevant electricity distributor’s distribution system resulting from category 1 or 2[^c-71f0c074db6d601426ac95c29ed235cd] severe weather conditions.
 
-### 6. Supply restoration: normal conditions – 5,000 or more customers’ premises interrupted[^key-728f9ce456416be967bee537ac2bc5a3]
+### 6. Supply restoration: normal conditions – 5,000 or more customers’ premises interrupted[^c-728f9ce456416be967bee537ac2bc5a3]
 
 (1) This paragraph applies to a relevant electricity distributor where the supply to 5,000 or more customers’ premises is interrupted as a result of a single failure of, fault in or damage to that distributor’s distribution system.
 
@@ -164,40 +164,40 @@ The instruments listed in column 1 of Schedule 1 to these Regulations (which hav
 - (a) where the supply is not restored to the customer’s premises within the relevant period; and
 - (b) in respect of each succeeding period of 12 hours upon the expiry of which the supply is not restored,
 
-up to the prescribed cap[^key-924bc6ecaeaddc67c404c290b9fc95b1] per customer.
+up to the prescribed cap[^c-924bc6ecaeaddc67c404c290b9fc95b1] per customer.
 
 (3) The circumstances described in this paragraph are—
 
 - (a) each of the circumstances described in regulation 9, with the exception of regulation 9(8)(b), 9(8)(c) and 9(8)(e);
-- (b) where the supply to the customer’s premises is interrupted as a result of a failure of, fault in or damage to the relevant electricity distributor’s distribution system resulting from category 1 or 2[^key-8dd4c948b517c6f6750862018b674f5c] severe weather conditions.
+- (b) where the supply to the customer’s premises is interrupted as a result of a failure of, fault in or damage to the relevant electricity distributor’s distribution system resulting from category 1 or 2[^c-8dd4c948b517c6f6750862018b674f5c] severe weather conditions.
 
-### 7. Supply restoration: severe weather conditions[^key-46bdd7a0e535e553bc9779fe391eedc2]
+### 7. Supply restoration: severe weather conditions[^c-46bdd7a0e535e553bc9779fe391eedc2]
 
 (1) This paragraph applies to a relevant electricity distributor where the supply to a customer’s premises is interrupted as a result of a failure of, fault in or damage to that distributor’s distribution system resulting from category 1 severe weather conditions (except where regulation 11 applies).
 
 (2) This paragraph applies to a relevant electricity distributor where the supply to a customer’s premises is interrupted as a result of a failure of, fault in or damage to that distributor’s distribution system resulting from category 2 severe weather conditions (except where regulation 11 applies).
 
-(3)[^key-7cafc9ba60a882b6ba8e620691aad0e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7cafc9ba60a882b6ba8e620691aad0e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where paragraph (1) applies, that distributor must, except in each of the circumstances described in regulation 9, pay the prescribed sum to the customer—
 
 - (a) where the supply is not restored to the customer’s premises within the relevant period; and
-- (b) in respect of each succeeding period of 6[^key-779f1581b3ac5e0e753036c690720969] hours upon the expiry of which the supply is not restored,
+- (b) in respect of each succeeding period of 6[^c-779f1581b3ac5e0e753036c690720969] hours upon the expiry of which the supply is not restored,
 
-up to the prescribed cap[^key-1c6e583f8653fbbd5bef597f7c89cdc8] per customer.
+up to the prescribed cap[^c-1c6e583f8653fbbd5bef597f7c89cdc8] per customer.
 
 (5) Where paragraph (2) applies, that distributor must, except in each of the circumstances described in regulation 9, pay the prescribed sum to the customer—
 
 - (a) where the supply is not restored to the customer’s premises within the relevant period; and
-- (b) in respect of each succeeding period of 6[^key-c24120df4114b69f580e52c4c61106d6] hours upon the expiry of which the supply is not restored,
+- (b) in respect of each succeeding period of 6[^c-c24120df4114b69f580e52c4c61106d6] hours upon the expiry of which the supply is not restored,
 
-up to the prescribed cap[^key-8cef49210d4ae40cbb1a8af7b6cbdac2] per customer.
+up to the prescribed cap[^c-8cef49210d4ae40cbb1a8af7b6cbdac2] per customer.
 
-(6)[^key-d67082193750b83fe591412f1289da48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d67082193750b83fe591412f1289da48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-b714777911845b415a664f6feb1e5922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b714777911845b415a664f6feb1e5922] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Supply restoration: rota disconnection[^key-8f2b5f962c19396defc2fd9aa1059f75]
+### 8. Supply restoration: rota disconnection[^c-8f2b5f962c19396defc2fd9aa1059f75]
 
 (1) This paragraph applies to a relevant electricity distributor where supply to a customer’s premises is interrupted as a result of rota disconnection on that distributor’s distribution system resulting from a failure of, fault in or damage to that distributor’s distribution system.
 
@@ -210,7 +210,7 @@ up to the prescribed cap[^key-8cef49210d4ae40cbb1a8af7b6cbdac2] per customer.
 
 (4) Where there are one or more interruptions that relate to the same rota disconnection event and the total length of those interruptions is not greater than or equal to the prescribed period but is equal to or greater than 3 hours, then that is deemed to be one period of interruption for the purposes of regulation 10(1) subject to the other provisions of regulation 10.
 
-### 9. Exemptions from the normal and severe weather restoration standards[^key-5086565a061deea88c861b8ee68cb59c]
+### 9. Exemptions from the normal and severe weather restoration standards[^c-5086565a061deea88c861b8ee68cb59c]
 
 (1) The circumstances described in this regulation are those set out in paragraphs (2) to (11).
 
@@ -225,8 +225,8 @@ up to the prescribed cap[^key-8cef49210d4ae40cbb1a8af7b6cbdac2] per customer.
 
 (4) The customer at premises at which the supply was interrupted was not a Priority Services Register Customer and, within a period of three months from the date upon which the supply was restored to those premises, the relevant electricity distributor to whose network the customer’s premises are connected has—
 
-- (a) despite its reasonable endeavours, been unable to identify the customer to whom compensation in respect of the circumstance referred to in regulation 5(1), 6(1), 7(1), 7(2)[^key-787b94ea66414426ad395314bbe2ff4f]... or 8(1) was due; or
-- (b) not received a claim for compensation from the customer in respect of the circumstance referred to in regulation 5(1), 6(1), 7(1), 7(2)[^key-97bd3d845e5f3feb0e900af75eccaa4c]... or 8(1).
+- (a) despite its reasonable endeavours, been unable to identify the customer to whom compensation in respect of the circumstance referred to in regulation 5(1), 6(1), 7(1), 7(2)[^c-787b94ea66414426ad395314bbe2ff4f]... or 8(1) was due; or
+- (b) not received a claim for compensation from the customer in respect of the circumstance referred to in regulation 5(1), 6(1), 7(1), 7(2)[^c-97bd3d845e5f3feb0e900af75eccaa4c]... or 8(1).
 
 (5) The customer informs the relevant electricity distributor before the contravention time that the customer does not wish that distributor to take any action, or any further action in relation to the matter.
 
@@ -255,11 +255,11 @@ and the relevant electricity distributor had in each case taken all such steps a
 - “contravention time” means—
   - (a) in relation to regulation 5, the expiry of the relevant period referred to in paragraph (2)(a) and (where applicable) of each period referred to in paragraph (2)(b) of that regulation;
   - (b) in relation to regulation 6, the expiry of the relevant period referred to in paragraph (2)(a) and (where applicable) of each period referred to in paragraph (2)(b) of that regulation;
-  - (c) in relation to regulation 7, the expiry of the relevant periods referred to in paragraphs 4(a) and 5(a)[^key-aacf96a1793f855d84c74173a3d53203] and (where applicable) of each period referred to in paragraphs 4(b) and 5(b)[^key-e56c011a73ec99b39fc2e07b82b27a18] of that regulation; and
+  - (c) in relation to regulation 7, the expiry of the relevant periods referred to in paragraphs 4(a) and 5(a)[^c-aacf96a1793f855d84c74173a3d53203] and (where applicable) of each period referred to in paragraphs 4(b) and 5(b)[^c-e56c011a73ec99b39fc2e07b82b27a18] of that regulation; and
   - (d) in relation to regulation 8, the expiry of the prescribed period referred to in paragraph (2) of that regulation; and
 - “distributor” includes (where the case requires) a reference to more than one distributor.
 
-### 10. Supply restoration: multiple interruptions[^key-48f28306780aeb126183373daf400b0b]
+### 10. Supply restoration: multiple interruptions[^c-48f28306780aeb126183373daf400b0b]
 
 (1) This regulation applies to an electricity distributor where the supply to a customer’s premises that are directly connected to that electricity distributor’s distribution system is interrupted for four periods, each of not less than three hours, during a relevant year.
 
@@ -297,7 +297,7 @@ and the relevant electricity distributor had in each case taken all such steps a
 
 ## PART 3 — Other Individual Standards of Performance for Electricity Distributors
 
-### 11. Distributor’s fuse[^key-b2c53479687ac4a070f5e7fc0b4d581c]
+### 11. Distributor’s fuse[^c-b2c53479687ac4a070f5e7fc0b4d581c]
 
 (1) This regulation applies to an electricity distributor where that distributor is informed by a telephone call, text message or email made by a customer whose premises are directly connected to that distributor’s distribution system that, or of circumstances suggesting that, the distributor’s fuse has operated so as to disconnect the supply to those premises.
 
@@ -316,7 +316,7 @@ and the relevant electricity distributor had in each case taken all such steps a
 
 (5) In this regulation, “appropriate person” means a person employed or authorised by the distributor to restore the supply where the distributor’s fuse has operated.
 
-### 12. Notice of supply interruption[^key-63cf182aa8cc5e1d0d4f870ad79b0b0e]
+### 12. Notice of supply interruption[^c-63cf182aa8cc5e1d0d4f870ad79b0b0e]
 
 (1) Paragraph (4) applies to an electricity distributor where, for an authorised purpose, that distributor interrupts the supply to a customer’s premises that are directly connected to its distribution system.
 
@@ -348,7 +348,7 @@ the distributor must, except in any of the circumstances described in paragraph 
 
 (8) In this regulation, “authorised purpose”, in relation to an electricity distributor, means testing or any other planned purpose connected with the carrying on of the activities that the distributor is authorised by its licence to carry on in relation to its electric lines and electrical plant (other than the distributor’s fuse).
 
-### 13. Voltage complaint[^key-cab0fb73e8a1b7a9a92037cabb60dfef]
+### 13. Voltage complaint[^c-cab0fb73e8a1b7a9a92037cabb60dfef]
 
 (1) This regulation applies to an electricity distributor where that distributor is notified by a customer whose premises are directly connected to its distribution system that—
 
@@ -372,23 +372,23 @@ except in either case in any of the circumstances described in paragraph (5).
 
 ## PART 4 — Individual Standards of Performance for Relevant Suppliers
 
-### 14. Charges and payments[^key-181587b3a4278e80151e8c19d1b55d63]
+### 14. Charges and payments[^c-181587b3a4278e80151e8c19d1b55d63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Individual Standards of Performance for Electricity Suppliers
 
-### 15. Meter disputes[^key-c9f6c40155319b139769722a7dfd6c73]
+### 15. Meter disputes[^c-c9f6c40155319b139769722a7dfd6c73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Pre-payment meters[^key-90407df71a3fb5fd19d51408b5614c76][^key-9ccf098271e365c27d2525c3faf038d8]
+### 16. Pre-payment meters[^c-90407df71a3fb5fd19d51408b5614c76][^c-9ccf098271e365c27d2525c3faf038d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — Common Obligations
 
-### 17. Appointments[^key-922c5f5bd6f0eb9bcc3f177a0214257b]
+### 17. Appointments[^c-922c5f5bd6f0eb9bcc3f177a0214257b]
 
 (1) This regulation applies where—
 
@@ -401,12 +401,12 @@ being in either case a visit in connection with the activities that the relevant
 
 (3) Where this regulation applies and the relevant operator fails within a reasonable period from the applicable date to offer a timed appointment, the relevant operator must, except in any of the circumstances described in paragraph (6)—
 
-- (a)[^key-b68fbe8f196cdab2b3b9b2adc6da4fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b68fbe8f196cdab2b3b9b2adc6da4fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) pay to the customer the prescribed sum which applies if the relevant operator is a distributor.
 
 (4) Where this regulation applies and the relevant operator fails to keep a timed appointment, the relevant operator must, except in any of the circumstances described in paragraph (6)—
 
-- (a)[^key-7a7e0458d5f8420bc2afbae87ec8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7a7e0458d5f8420bc2afbae87ec8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) pay to the customer the prescribed sum which applies if the relevant operator is a distributor.
 
 (5) Where a timed appointment is made for more than one purpose, the relevant operator is not required to pay more than one prescribed sum under paragraph (4)(a) or (b) in respect of that timed appointment.
@@ -414,7 +414,7 @@ being in either case a visit in connection with the activities that the relevant
 (6) The circumstances described in this paragraph are—
 
 - (a) each of the circumstances described in regulation 20, provided that, in paragraph (6) of that regulation, the relevant operator gave the customer not less than one working day’s prior warning (whether or not in writing) that it would be unable to keep the timed appointment or the circumstances referred to in that paragraph occurred at a time when it was not reasonably practicable to give such a warning;
-- (b) that the visit is for the purpose of responding to information received under regulations 11 or 13[^key-4f5624347fcc92a3b7c3ca8c6ee008ac]; and
+- (b) that the visit is for the purpose of responding to information received under regulations 11 or 13[^c-4f5624347fcc92a3b7c3ca8c6ee008ac]; and
 - (c) that the visit is wholly or mainly in connection with disconnecting the premises in exercise of the power contained in paragraph 2(1) of Schedule 6 to the Act[^f00014].
 
 (7) In this regulation, “timed appointment” means an appointment to make a visit to a customer’s premises commencing—
@@ -424,11 +424,11 @@ being in either case a visit in connection with the activities that the relevant
   - (ii) wholly after noon, or a part not exceeding two hours; or
 - (b) during such part of a day as is requested by the customer and agreed with the relevant operator, such agreement not to be unreasonably withheld, provided that the relevant operator is not obliged to agree a part of a day that is less than two hours.
 
-### 18. Disputes[^key-db8a363d3419a2793404add6f2c82e60]
+### 18. Disputes[^c-db8a363d3419a2793404add6f2c82e60]
 
 Schedule 3 sets out the practice and procedure to be followed in connection with the determination of any dispute under section 39 or 39A of the Act[^f00015], or any provision of these Regulations, which is referred to the Authority under section 39B(1) of the Act[^f00016].
 
-### 19. Payments[^key-c565efb33f0e589d0a4d06ade3ca3606]
+### 19. Payments[^c-c565efb33f0e589d0a4d06ade3ca3606]
 
 (1) Paragraph (4) applies where an electricity distributor is obliged under any of regulations 5 to 8 and 12 to make a payment to a customer whose premises are directly connected to the distribution system of another electricity distributor.
 
@@ -437,13 +437,13 @@ Schedule 3 sets out the practice and procedure to be followed in connection with
 - (a) where an electricity distributor is obliged to make a payment to a customer whose premises are directly connected to its distribution system under any of regulations 5 to 8, 10, 11, 12, 13 and 17; or
 - (b) where an electricity distributor receives a payment from another electricity distributor for onward transmission to a customer whose premises are directly connected to its network.
 
-(3)[^key-c024286098bbefacdf6bdcfc85d7988e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c024286098bbefacdf6bdcfc85d7988e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where this paragraph applies and the distributor fails to make the payment to the customer or to the other distributor for onward transmission to the customer of the sum to which he is entitled, in either case as soon as is reasonably practicable in relation to regulation 7 and within the prescribed period from the applicable date in relation to any other regulations, the distributor must, except in any of the circumstances described in paragraph (7), pay the prescribed sum to the customer or that other distributor for onward transmission to the customer.
 
 (5) Where this paragraph applies and the distributor fails to make the payment to the customer or the customer’s electricity supplier for onward transmission to the customer of the sum to which the customer is entitled, in either case as soon as is reasonably practicable in relation to regulation 7 and within the prescribed period from the applicable date in relation to any other regulation, the distributor must, except in any of the circumstances described in paragraph (7), pay the prescribed sum to the customer.
 
-(6)[^key-dcc6a8bc6c862f4a515f2012c2f7b898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-dcc6a8bc6c862f4a515f2012c2f7b898] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The circumstances described in this paragraph are—
 
@@ -455,13 +455,13 @@ Schedule 3 sets out the practice and procedure to be followed in connection with
 - (a) in relation to any premises at which more than one person is a customer, a payment to any one or more of the customers in respect of those premises is a complete discharge of the obligation of the relevant operator to make the payment to all the customers of those premises;
 - (b) nothing in, or done by a relevant operator in consequence of, these Regulations determines who is beneficially entitled to any payment made in pursuance of these Regulations; and
 - (c) nothing in these Regulations permits a relevant operator to make a payment other than by means of—
-  - (i) a cheque or cash; [^key-b0d5f1e977f8b4e969ecdf86681f3491]...
-  - (ii) a credit to the account of the customer for charges incurred or to be incurred in respect of the supply or the provision of any electricity meter, electric line, or electrical plant ; or[^key-d7ef878a660a37e8a94c27e25329170b].
-  - (iii)[^key-c58cb30f641f258488869b92eaefe324] bank transfer
+  - (i) a cheque or cash; [^c-b0d5f1e977f8b4e969ecdf86681f3491]...
+  - (ii) a credit to the account of the customer for charges incurred or to be incurred in respect of the supply or the provision of any electricity meter, electric line, or electrical plant ; or[^c-d7ef878a660a37e8a94c27e25329170b].
+  - (iii)[^c-c58cb30f641f258488869b92eaefe324] bank transfer
 
 (9) Where all or part of the prescribed sum is paid by an electricity distributor to a customer under these Regulations, such a payment does not prejudice that distributor from recovering that payment (or part of that payment) from another electricity distributor where that other distributor is found to be wholly or partly responsible for the liability arising under these Regulations.
 
-### 20. Exemptions[^key-ea6d08a3de74edee7d856328dfa17c4d]
+### 20. Exemptions[^c-ea6d08a3de74edee7d856328dfa17c4d]
 
 (1) The circumstances described in this regulation are those set out in paragraphs (2) to (4) and (6) to (8).
 
@@ -469,7 +469,7 @@ Schedule 3 sets out the practice and procedure to be followed in connection with
 
 (3) The customer agrees with the relevant operator that the action taken by the relevant operator before the contravention time may be treated as the taking by the relevant operator of the action required by the regulation and, where the action taken by the relevant operator includes a promise to perform any action (whether before or after the contravention time), the relevant operator duly performs that promise.
 
-(4) Where information is or is required to be provided by the customer to the relevant operator, the information is provided to an address or by use of a telephone number other than the address or telephone number that the relevant operator has advised the customer is appropriate for receipt of information of that type or, in the case of information given by telephone for the purpose of regulation 13(1)[^key-5d69881a900571b722aad9154be3eab4], was given outside such reasonable hours as the relevant operator has advised the customer are the hours during which the telephone number will be available for the receipt of information of that type.
+(4) Where information is or is required to be provided by the customer to the relevant operator, the information is provided to an address or by use of a telephone number other than the address or telephone number that the relevant operator has advised the customer is appropriate for receipt of information of that type or, in the case of information given by telephone for the purpose of regulation 13(1)[^c-5d69881a900571b722aad9154be3eab4], was given outside such reasonable hours as the relevant operator has advised the customer are the hours during which the telephone number will be available for the receipt of information of that type.
 
 (5) For the purposes of paragraph (4), the relevant operator may advise the customer by publishing the address, the telephone number, or the hours in such a manner as may be appropriate for the purpose of bringing the advice to the attention of customers likely to be affected by it.
 
@@ -499,11 +499,11 @@ and the action taken or not taken by the relevant operator was in exercise of it
 - (a) in relation to regulation 12, the time at which the supply was interrupted; and
 - (b) in relation to any other regulation, the time at which, if this regulation did not apply, the relevant operator would become liable to pay the prescribed sum to the customer.
 
-### 21. Timing of notification[^key-40de00def0b32ae1d3f20dca606fa3d6]
+### 21. Timing of notification[^c-40de00def0b32ae1d3f20dca606fa3d6]
 
-For the purpose of regulation 13[^key-8f84a0141e4d50c0796ba06632d894cd], where the requirements of paragraph (1) of any of those regulations are satisfied after 4pm on a working day or at any time on any other day, they are deemed to have been satisfied on the next following working day.
+For the purpose of regulation 13[^c-8f84a0141e4d50c0796ba06632d894cd], where the requirements of paragraph (1) of any of those regulations are satisfied after 4pm on a working day or at any time on any other day, they are deemed to have been satisfied on the next following working day.
 
-### 21A. Indexation of prescribed caps and prescribed sums[^key-7aee6042b713f0d3e29a77267f0592b0]
+### 21A. Indexation of prescribed caps and prescribed sums[^c-7aee6042b713f0d3e29a77267f0592b0]
 
 (1) The prescribed sums for each financial year beginning with 1 April 2024 are calculated by—
 
@@ -517,7 +517,7 @@ For the purpose of regulation 13[^key-8f84a0141e4d50c0796ba06632d894cd], where t
 
 (3) In this regulation, “**CPIH index**” means the consumer prices index including owner occupiers’ housing costs (all items) published by the Office for National Statistics.
 
-### 22. Notice of rights[^key-9eeb5005d4bc617f38e8994bbdcfb6df]
+### 22. Notice of rights[^c-9eeb5005d4bc617f38e8994bbdcfb6df]
 
 (1) In respect of the rights prescribed for the benefit of customers under regulations 5, 6, 7, 8, 9, 10, 11, 12, 13 and 17 to 21, an electricity distributor must prepare and from time to time revise a statement describing those rights and the effect of section 39A(5) of the Act[^f00021] in a form that is standardised with that of other electricity distributors and has a content that the electricity distributor could reasonably expect would be within the understanding of customers to which the statement relates and must—
 
@@ -526,17 +526,17 @@ For the purpose of regulation 13[^key-8f84a0141e4d50c0796ba06632d894cd], where t
 - (c) make a copy of the statement (in its current form) available on its website and for inspection by any person at any premises of or occupied by the electricity distributor open to the public in the normal course of the electricity distributor’s business during the normal opening hours of the premises; and
 - (d) dispatch a copy of the statement (in its current form) to any person who requests it.
 
-(2)[^key-c21c19db57d160fe68bf5d1bbfd51786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c21c19db57d160fe68bf5d1bbfd51786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A relevant operator may prepare a separate statement for domestic and non-domestic customers.
 
-(4)[^key-ce8d4ac02339cc97afa2be5201b7c10e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ce8d4ac02339cc97afa2be5201b7c10e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2fc360e62ad0f3bca8e464f54a039eb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2fc360e62ad0f3bca8e464f54a039eb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 7 — Overall Standards of Performance
 
-### 23. Information to be given to customers about overall performance[^key-22e4c84408428d9b2fd3adada3c29352]
+### 23. Information to be given to customers about overall performance[^c-22e4c84408428d9b2fd3adada3c29352]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -558,7 +558,7 @@ Department of Energy and Climate Change
 
 13th March 2015
 
-## SCHEDULE 1 — REVOCATIONS[^key-9bfe5444a6e1a1ae3eee383053797bda]
+## SCHEDULE 1 — REVOCATIONS[^c-9bfe5444a6e1a1ae3eee383053797bda]
 
 Regulation 2
 
@@ -572,11 +572,11 @@ Regulation 2
 
 Regulations 3 and 4
 
-### PART 1 — Prescribed Periods and Prescribed Sums Applicable to all Relevant Operators[^key-034dc9ded4501f1bbae1abaf306ff448]
+### PART 1 — Prescribed Periods and Prescribed Sums Applicable to all Relevant Operators[^c-034dc9ded4501f1bbae1abaf306ff448]
 
 | *(1)*<br>*Regulation* | *(2)*<br>*Prescribed period* | *(3)*<br>*Prescribed sum domestic customers(£)* | *(4)*<br>*Prescribed sum*<br>*non-domestic customers(£)* |
 | --- | --- | --- | --- |
-| 5(2)(a)[^key-280227882f69ad7f0fe08290c6756599] | 12 hours | 90 | 175 |
+| 5(2)(a)[^c-280227882f69ad7f0fe08290c6756599] | 12 hours | 90 | 175 |
 | 5(2)(b) | 12 hours | 40 | 40 |
 | 6(2)(a) | 24 hours | 90 | 175 |
 | 6(2)(b) | 12 hours | 40 | 40 |
@@ -598,7 +598,7 @@ Regulations 3 and 4
 | 19(4) | 10 working days | 35 | 35 |
 | 19(5) | 10 working days | 35 | 35 |
 
-### Part 1A — Prescribed caps applicable to all electricity distributors[^key-15a71ba308066e67c9756a64b13e6ac8]
+### Part 1A — Prescribed caps applicable to all electricity distributors[^c-15a71ba308066e67c9756a64b13e6ac8]
 
 | *(1)*<br>*Regulation* | *(2)*<br>*Sum* | *(3)*<br>*Multiplier* | *(4)*<br>*Prescribed Cap* |
 | --- | --- | --- | --- |
@@ -606,17 +606,17 @@ Regulations 3 and 4
 | 7(4)(b) | 80 | 25 | £2000 |
 | 7(5)(b) | 80 | 25 | £2000 |
 
-### PART 2[^key-5f3e740db7430aaef2f27a3ba9b5fc2b]
+### PART 2[^c-5f3e740db7430aaef2f27a3ba9b5fc2b]
 
 7.00 am and 7.00 pm on each working day and 9.00 am and 5.00 pm on any other day.
 
-### PART 3[^key-317d510da12d82800e844350361228f5]
+### PART 3[^c-317d510da12d82800e844350361228f5]
 
-This table sets out, for each designated electricity distributor, eight and thirteen times the mean daily faults at distribution higher voltage[^key-450f5eb7467180a2306cfa938f5e8346]....
+This table sets out, for each designated electricity distributor, eight and thirteen times the mean daily faults at distribution higher voltage[^c-450f5eb7467180a2306cfa938f5e8346]....
 
 | *(1)*<br>*Designated electricity distributor* | *(2)*<br>*Eight times the mean daily faults at distribution higher voltage* | *(3)*<br>*Thirteen times the mean daily faults at distribution*<br>*higher voltage* |
 | --- | --- | --- |
-| ENWL[^key-cfc7d09af31c1419d416d4e8d3588979] | 55 | 89 |
+| ENWL[^c-cfc7d09af31c1419d416d4e8d3588979] | 55 | 89 |
 | NPGN | 37 | 60 |
 | NPGY | 42 | 68 |
 | WMID | 68 | 111 |
@@ -637,7 +637,7 @@ Regulation 18
 
 ### Determination of disputes
 
-**1.**[^key-e02263cd12b8ea98927b33575be84d3b] (1) This Schedule applies where a dispute to which regulation 18 applies has arisen under any provision of these Regulations between a relevant operator and a customer or between relevant operators.
+**1.**[^c-e02263cd12b8ea98927b33575be84d3b] (1) This Schedule applies where a dispute to which regulation 18 applies has arisen under any provision of these Regulations between a relevant operator and a customer or between relevant operators.
 
 (2) A dispute to which this Schedule applies—
 
@@ -648,13 +648,13 @@ Regulation 18
 
 ### Timetable for the determination of individual disputes
 
-**2.**[^key-f8fe2379dfac35ecfe07ea79209a3588] (1) The Authority must determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
+**2.**[^c-f8fe2379dfac35ecfe07ea79209a3588] (1) The Authority must determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which a dispute may be determined may be extended with the consent of the referring party or parties.
 
 ### Procedure for the determination of individual disputes
 
-**3.**[^key-6f3e76457d3f5a649f60d61fc3ef796c] (1) Where an individual dispute is referred to the Authority, the Authority must, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
+**3.**[^c-6f3e76457d3f5a649f60d61fc3ef796c] (1) Where an individual dispute is referred to the Authority, the Authority must, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
 
 (2) The notice under sub-paragraph (1) must—
 
@@ -682,19 +682,19 @@ Regulation 18
 
 ### Determination of multiple disputes
 
-**4.**[^key-5d178123c70910fb80c4b5a805259810] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a ‘consolidated group’) similar or related disputes for the purposes of determining those disputes.
+**4.**[^c-5d178123c70910fb80c4b5a805259810] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a ‘consolidated group’) similar or related disputes for the purposes of determining those disputes.
 
 (2) A determination made by the Authority for one or more consolidated groups applies, in respect of each consolidated group, to each individual dispute in that group.
 
 ### Timetable for determination of multiple disputes
 
-**5.**[^key-547c034528123506093615fd281fe33e] (1) The Authority, when determining disputes falling within a consolidated group, must determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
+**5.**[^c-547c034528123506093615fd281fe33e] (1) The Authority, when determining disputes falling within a consolidated group, must determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which disputes falling within a consolidated group may be determined may be extended by notice to the representatives of any such group nominated under paragraph 10.
 
 ### Procedure for the determination of multiple disputes
 
-**6.**[^key-8b49ce811f1693d3334011e901ab5598] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, the Authority must send to the parties a notice of procedure for the determination of those disputes.
+**6.**[^c-8b49ce811f1693d3334011e901ab5598] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, the Authority must send to the parties a notice of procedure for the determination of those disputes.
 
 (2) The notices under sub-paragraph (1) must—
 
@@ -735,7 +735,7 @@ Regulation 18
 
 ### Written statements
 
-**7.**[^key-fd58db94675efbb1a0247e918203e686] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
+**7.**[^c-fd58db94675efbb1a0247e918203e686] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
 
 (2) The power to ask for the production of a written statement includes power to specify the time and place at which it is to be produced.
 
@@ -745,7 +745,7 @@ Regulation 18
 
 ### Production of documents and other evidence
 
-**8.**[^key-323794065d5b9b187d87f2fb078a8490] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
+**8.**[^c-323794065d5b9b187d87f2fb078a8490] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
 
 (2) The power to ask for the production of a document is a power to ask for its production—
 
@@ -758,7 +758,7 @@ Regulation 18
 
 ### Oral hearings
 
-**9.**[^key-0f5ab9bebe185540651ca681a4a473fc] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
+**9.**[^c-0f5ab9bebe185540651ca681a4a473fc] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
 
 (2) The Authority may, by notice, request any party to a dispute—
 
@@ -773,13 +773,13 @@ Regulation 18
 
 ### Customer representatives for multiple disputes
 
-**10.**[^key-61dc46883db4bffb269ae85441561cfa] (1) Where disputes are consolidated into categories under paragraph 4, the Authority must nominate one or more customers to be representatives of each consolidated group.
+**10.**[^c-61dc46883db4bffb269ae85441561cfa] (1) Where disputes are consolidated into categories under paragraph 4, the Authority must nominate one or more customers to be representatives of each consolidated group.
 
 (2) A customer nominated to be a representative of a consolidated group under this paragraph may only become a representative if he consents to do so.
 
 ### Collection of information in multiple disputes
 
-**11.**[^key-efde1fe6a7ef2acfd8464509baf6fc62] (1) The Authority may by notice ask any customer who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
+**11.**[^c-efde1fe6a7ef2acfd8464509baf6fc62] (1) The Authority may by notice ask any customer who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
 
 (2) The power to require the production of information under this paragraph includes the power to specify the time and place at which it is to be produced.
 
@@ -787,15 +787,15 @@ Regulation 18
 
 ### Payment to customers
 
-**12.**[^key-e4061738d5b504f6cd419677f837a881] An order determining a dispute does not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
+**12.**[^c-e4061738d5b504f6cd419677f837a881] An order determining a dispute does not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
 
 ### Set–off
 
-**13.**[^key-9d8ee1e2bdba706028e6e27c2c6a041b] Where a dispute is determined by an order requiring a relevant operator to make a payment to the customer and the relevant operator fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the relevant operator.
+**13.**[^c-9d8ee1e2bdba706028e6e27c2c6a041b] Where a dispute is determined by an order requiring a relevant operator to make a payment to the customer and the relevant operator fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the relevant operator.
 
 ### Costs
 
-**14.**[^key-8a1f4e9b5e2bf5e621dbd22b750ed02a] (1) An order determining a dispute may include a provision requiring the relevant operator or the customer to pay a sum in respect of the costs or expenses incurred by the Authority.
+**14.**[^c-8a1f4e9b5e2bf5e621dbd22b750ed02a] (1) An order determining a dispute may include a provision requiring the relevant operator or the customer to pay a sum in respect of the costs or expenses incurred by the Authority.
 
 (2) In including in an order under sub-paragraph (1) any such provision as to costs, the Authority must have regard to the conduct and means of the parties and any other relevant circumstances.
 
@@ -831,25 +831,25 @@ The Electricity (Standards of Performance) Regulations 2010 are revoked (regulat
 
 [^f00003]: Footnote: Section 40B was inserted by section 56 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by paragraph 5 of Schedule 1 to the Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)).
 
-[^key-7431a17a0493a799dcabbe809cec8d07]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-7431a17a0493a799dcabbe809cec8d07]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2010/698](https://www.legislation.gov.uk/uksi/2010/698), amended by [S.I. 2010/2131](https://www.legislation.gov.uk/uksi/2010/2131), [2014/631](https://www.legislation.gov.uk/uksi/2014/631).
 
-[^key-a6db7392793158306eddad3cf6e8be26]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-a6db7392793158306eddad3cf6e8be26]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-74d08ea82ddaf3e005eb87fcd50170ed]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-74d08ea82ddaf3e005eb87fcd50170ed]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
 [^f00005]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-115e5853c7bdb00ed91357b0865d94c8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/a)
+[^c-115e5853c7bdb00ed91357b0865d94c8]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/a)
 
-[^key-a0030b4913b02b1ecf14a9b0bc0dffee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/a/i) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-a0030b4913b02b1ecf14a9b0bc0dffee]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/a/i) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-2dfadedde5b0a151fa99224d60ffddcb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/b)
+[^c-2dfadedde5b0a151fa99224d60ffddcb]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/b)
 
 [^M_F_08b9e6e5-d81a-4940-fb0f-f8ca47129fd1]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(1)(c)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/1/b)
 
-[^key-136b5c8d007b34e48d6442facb69d5e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/a/ii) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-136b5c8d007b34e48d6442facb69d5e7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/3/1) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/a/ii) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
 [^f00006]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27); section 33(1) was amended by paragraph 20 of Schedule 19 to, and Part 1 of Schedule 23 to the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20), section 7(7) of the Climate Change and Sustainable Energy Act [2006 (c.19)](https://www.legislation.gov.uk/ukpga/2006/19), paragraph 13 of Schedule 5 to the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32), paragraph 12 of the Schedule to the Energy Act [2010 (c.27)](https://www.legislation.gov.uk/ukpga/2010/27), sections 22(7), 77(5) and 98(9) of the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16), sections 65(2) and 142(2) of the Energy Act [2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32), [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704)
 
@@ -857,49 +857,49 @@ The Electricity (Standards of Performance) Regulations 2010 are revoked (regulat
 
 [^f00008]: Footnote: Paragraph 1(1A) was inserted by paragraph 3(2) of Schedule 5 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27)
 
-[^key-8ad55f29e927caa9a121fef7985beb6b]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-8ad55f29e927caa9a121fef7985beb6b]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-d04c97158982d32b6b2b2075b46479b4]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/1) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/2/a)
+[^c-d04c97158982d32b6b2b2075b46479b4]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/1) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/2/a)
 
-[^key-bb62776c369231af2c4f208e1cebe142]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/1) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/2/b)
+[^c-bb62776c369231af2c4f208e1cebe142]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/1) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/2/b)
 
-[^key-65b45db9c528e4bc9eb72483198e3325]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/699/regulation/4) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/2/a)
+[^c-65b45db9c528e4bc9eb72483198e3325]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2015/699/regulation/4) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/2/a)
 
-[^key-c5904bf37b94d583d2f4c246de08c5bb]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/2) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/2/b)
+[^c-c5904bf37b94d583d2f4c246de08c5bb]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/4/2) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/2/b)
 
-[^key-553917a50bfaf6a21545b184c1357478]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-553917a50bfaf6a21545b184c1357478]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-71f0c074db6d601426ac95c29ed235cd]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/5/3/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/3)
+[^c-71f0c074db6d601426ac95c29ed235cd]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/5/3/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/3)
 
-[^key-728f9ce456416be967bee537ac2bc5a3]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-728f9ce456416be967bee537ac2bc5a3]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-924bc6ecaeaddc67c404c290b9fc95b1]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/6/2) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/4)
+[^c-924bc6ecaeaddc67c404c290b9fc95b1]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/6/2) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/4)
 
-[^key-8dd4c948b517c6f6750862018b674f5c]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/6/3/b) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/3)
+[^c-8dd4c948b517c6f6750862018b674f5c]: Textual amendment: Words in [reg. 6(3)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/6/3/b) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/3)
 
-[^key-46bdd7a0e535e553bc9779fe391eedc2]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-46bdd7a0e535e553bc9779fe391eedc2]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-7cafc9ba60a882b6ba8e620691aad0e2]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/3) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
+[^c-7cafc9ba60a882b6ba8e620691aad0e2]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/3) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
 
-[^key-779f1581b3ac5e0e753036c690720969]: Textual amendment: Word in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/4/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/b/i)
+[^c-779f1581b3ac5e0e753036c690720969]: Textual amendment: Word in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/4/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/b/i)
 
-[^key-1c6e583f8653fbbd5bef597f7c89cdc8]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/4/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/b/ii)
+[^c-1c6e583f8653fbbd5bef597f7c89cdc8]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/4/b) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/b/ii)
 
-[^key-c24120df4114b69f580e52c4c61106d6]: Textual amendment: Word in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/5) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/4/a)
+[^c-c24120df4114b69f580e52c4c61106d6]: Textual amendment: Word in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/5) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/4/a)
 
-[^key-8cef49210d4ae40cbb1a8af7b6cbdac2]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/5) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/4/b)
+[^c-8cef49210d4ae40cbb1a8af7b6cbdac2]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/5) substituted (1.11.2024) by [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/4/b)
 
-[^key-d67082193750b83fe591412f1289da48]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/6) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
+[^c-d67082193750b83fe591412f1289da48]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/6) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
 
-[^key-b714777911845b415a664f6feb1e5922]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/7) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
+[^c-b714777911845b415a664f6feb1e5922]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2015/699/regulation/7/7) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/5/a)
 
-[^key-8f2b5f962c19396defc2fd9aa1059f75]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-8f2b5f962c19396defc2fd9aa1059f75]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-5086565a061deea88c861b8ee68cb59c]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-5086565a061deea88c861b8ee68cb59c]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-787b94ea66414426ad395314bbe2ff4f]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/4/a) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/a)
+[^c-787b94ea66414426ad395314bbe2ff4f]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/4/a) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/a)
 
-[^key-97bd3d845e5f3feb0e900af75eccaa4c]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/4/b) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/b)
+[^c-97bd3d845e5f3feb0e900af75eccaa4c]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/4/b) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/b)
 
 [^f00009]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
 
@@ -907,61 +907,61 @@ The Electricity (Standards of Performance) Regulations 2010 are revoked (regulat
 
 [^f00011]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-aacf96a1793f855d84c74173a3d53203]: Textual amendment: Words in [reg. 9(12)(c)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/12/c) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/c/i)
+[^c-aacf96a1793f855d84c74173a3d53203]: Textual amendment: Words in [reg. 9(12)(c)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/12/c) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/c/i)
 
-[^key-e56c011a73ec99b39fc2e07b82b27a18]: Textual amendment: Words in [reg. 9(12)(c)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/12/c) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/c/ii)
+[^c-e56c011a73ec99b39fc2e07b82b27a18]: Textual amendment: Words in [reg. 9(12)(c)](https://www.legislation.gov.uk/uksi/2015/699/regulation/9/12/c) substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/6/c/ii)
 
-[^key-48f28306780aeb126183373daf400b0b]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-48f28306780aeb126183373daf400b0b]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-b2c53479687ac4a070f5e7fc0b4d581c]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-b2c53479687ac4a070f5e7fc0b4d581c]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-63cf182aa8cc5e1d0d4f870ad79b0b0e]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-63cf182aa8cc5e1d0d4f870ad79b0b0e]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-cab0fb73e8a1b7a9a92037cabb60dfef]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-cab0fb73e8a1b7a9a92037cabb60dfef]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
 [^f00012]: Footnote: Section 29 was amended by paragraph 30 of Schedule 6 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and sections 94(1) and 147(3) of, and paragraph 10 of Schedule 19 to, the Energy Act [2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-181587b3a4278e80151e8c19d1b55d63]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/699/regulation/14) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-181587b3a4278e80151e8c19d1b55d63]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/699/regulation/14) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-c9f6c40155319b139769722a7dfd6c73]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/699/regulation/15) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-c9f6c40155319b139769722a7dfd6c73]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/699/regulation/15) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-90407df71a3fb5fd19d51408b5614c76]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/699/regulation/16) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-90407df71a3fb5fd19d51408b5614c76]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/699/regulation/16) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-9ccf098271e365c27d2525c3faf038d8]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-9ccf098271e365c27d2525c3faf038d8]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-922c5f5bd6f0eb9bcc3f177a0214257b]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-922c5f5bd6f0eb9bcc3f177a0214257b]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2015/698](https://www.legislation.gov.uk/uksi/2015/698)
 
-[^key-b68fbe8f196cdab2b3b9b2adc6da4fd4]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/3/a) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-b68fbe8f196cdab2b3b9b2adc6da4fd4]: Textual amendment: [Reg. 17(3)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/3/a) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-7a7e0458d5f8420bc2afbae87ec8a4d5]: Textual amendment: [Reg. 17(4)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/4/a) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-7a7e0458d5f8420bc2afbae87ec8a4d5]: Textual amendment: [Reg. 17(4)(a)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/4/a) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-4f5624347fcc92a3b7c3ca8c6ee008ac]: Textual amendment: Words in [reg. 17(6)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/6/b) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-4f5624347fcc92a3b7c3ca8c6ee008ac]: Textual amendment: Words in [reg. 17(6)(b)](https://www.legislation.gov.uk/uksi/2015/699/regulation/17/6/b) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/c) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
 [^f00014]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); paragraph 2 was amended by section 24 of the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-db8a363d3419a2793404add6f2c82e60]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-db8a363d3419a2793404add6f2c82e60]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
 [^f00015]: Footnote: Section 39 was amended by section 54(1) of, and paragraphs 24 and 32 of Schedule 6 to, and Schedule 8 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); section 39A was inserted by section 54(2) of the Utilities Act 2000.
 
 [^f00016]: Footnote: Section 39B was inserted by section 54(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by paragraph 52 of Schedule 9 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22) and [S.I. 2014/636](https://www.legislation.gov.uk/uksi/2014/636).
 
-[^key-c565efb33f0e589d0a4d06ade3ca3606]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-c565efb33f0e589d0a4d06ade3ca3606]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-c024286098bbefacdf6bdcfc85d7988e]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-c024286098bbefacdf6bdcfc85d7988e]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/3) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-dcc6a8bc6c862f4a515f2012c2f7b898]: Textual amendment: [Reg. 19(6)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/6) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-dcc6a8bc6c862f4a515f2012c2f7b898]: Textual amendment: [Reg. 19(6)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/6) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-b0d5f1e977f8b4e969ecdf86681f3491]: Textual amendment: Word in [reg. 19(8)(c)(i)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/i) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/a)
+[^c-b0d5f1e977f8b4e969ecdf86681f3491]: Textual amendment: Word in [reg. 19(8)(c)(i)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/i) omitted (1.9.2023) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/a)
 
-[^key-d7ef878a660a37e8a94c27e25329170b]: Textual amendment: Words in [reg. 19(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/ii) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/b)
+[^c-d7ef878a660a37e8a94c27e25329170b]: Textual amendment: Words in [reg. 19(8)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/ii) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/b)
 
-[^key-c58cb30f641f258488869b92eaefe324]: Textual amendment: [Reg. 19(8)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/iii) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(c)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/c)
+[^c-c58cb30f641f258488869b92eaefe324]: Textual amendment: [Reg. 19(8)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/699/regulation/19/8/c/iii) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(7)(c)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/7/c)
 
-[^key-ea6d08a3de74edee7d856328dfa17c4d]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-ea6d08a3de74edee7d856328dfa17c4d]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-5d69881a900571b722aad9154be3eab4]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2015/699/regulation/20/4) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/d) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-5d69881a900571b722aad9154be3eab4]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2015/699/regulation/20/4) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/d) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
 [^f00017]: Footnote: Section 96 was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
@@ -971,64 +971,64 @@ The Electricity (Standards of Performance) Regulations 2010 are revoked (regulat
 
 [^f00020]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); paragraph 2 was amended by section 24 of the Energy Act [2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-40de00def0b32ae1d3f20dca606fa3d6]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-40de00def0b32ae1d3f20dca606fa3d6]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-8f84a0141e4d50c0796ba06632d894cd]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2015/699/regulation/21) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(e)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/e) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-8f84a0141e4d50c0796ba06632d894cd]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2015/699/regulation/21) substituted (1.1.2016) by [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(e)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/e) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-7aee6042b713f0d3e29a77267f0592b0]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2015/699/regulation/21A) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/8)
+[^c-7aee6042b713f0d3e29a77267f0592b0]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2015/699/regulation/21A) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/8)
 
-[^key-9eeb5005d4bc617f38e8994bbdcfb6df]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-9eeb5005d4bc617f38e8994bbdcfb6df]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
 [^f00021]: Footnote: Section 39A was inserted by section 54(2) of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-c21c19db57d160fe68bf5d1bbfd51786]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/2) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-c21c19db57d160fe68bf5d1bbfd51786]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/2) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-ce8d4ac02339cc97afa2be5201b7c10e]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-ce8d4ac02339cc97afa2be5201b7c10e]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/4) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-2fc360e62ad0f3bca8e464f54a039eb0]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/5) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-2fc360e62ad0f3bca8e464f54a039eb0]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/uksi/2015/699/regulation/22/5) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-22e4c84408428d9b2fd3adada3c29352]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/699/regulation/23) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
+[^c-22e4c84408428d9b2fd3adada3c29352]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/699/regulation/23) omitted (1.1.2016) by virtue of [The Electricity and Gas (Standards of Performance) (Suppliers) Regulations 2015 (S.I. 2015/1544)](https://www.legislation.gov.uk/uksi/2015/1544), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/14/b) (with [reg. 1(2)-(5)](https://www.legislation.gov.uk/uksi/2015/1544/regulation/1/2))
 
-[^key-9bfe5444a6e1a1ae3eee383053797bda]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-9bfe5444a6e1a1ae3eee383053797bda]: Commencement: Sch. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-034dc9ded4501f1bbae1abaf306ff448]: Commencement: Sch. 2 Pt. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-034dc9ded4501f1bbae1abaf306ff448]: Commencement: Sch. 2 Pt. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-280227882f69ad7f0fe08290c6756599]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/1) Table substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/9)
+[^c-280227882f69ad7f0fe08290c6756599]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/1) Table substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/9)
 
-[^key-15a71ba308066e67c9756a64b13e6ac8]: Textual amendment: [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/1A) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/10)
+[^c-15a71ba308066e67c9756a64b13e6ac8]: Textual amendment: [Sch. 2 Pt. 1A](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/1A) inserted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/10)
 
-[^key-5f3e740db7430aaef2f27a3ba9b5fc2b]: Commencement: Sch. 2 Pt. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-5f3e740db7430aaef2f27a3ba9b5fc2b]: Commencement: Sch. 2 Pt. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-317d510da12d82800e844350361228f5]: Commencement: Sch. 2 Pt. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-317d510da12d82800e844350361228f5]: Commencement: Sch. 2 Pt. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-450f5eb7467180a2306cfa938f5e8346]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/3) Table omitted (1.11.2024) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/5)
+[^c-450f5eb7467180a2306cfa938f5e8346]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/3) Table omitted (1.11.2024) by virtue of [The Electricity (Standards of Performance) (Amendment) Regulations 2024 (S.I. 2024/984)](https://www.legislation.gov.uk/uksi/2024/984), [regs. 1](https://www.legislation.gov.uk/uksi/2024/984/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/984/regulation/2/5)
 
-[^key-cfc7d09af31c1419d416d4e8d3588979]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/3) Table substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(11)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/11)
+[^c-cfc7d09af31c1419d416d4e8d3588979]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/699/schedule/2/part/3) Table substituted (1.9.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/3), [2(11)](https://www.legislation.gov.uk/uksi/2023/887/regulation/2/11)
 
-[^key-e02263cd12b8ea98927b33575be84d3b]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-e02263cd12b8ea98927b33575be84d3b]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-f8fe2379dfac35ecfe07ea79209a3588]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-f8fe2379dfac35ecfe07ea79209a3588]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-6f3e76457d3f5a649f60d61fc3ef796c]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-6f3e76457d3f5a649f60d61fc3ef796c]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-5d178123c70910fb80c4b5a805259810]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-5d178123c70910fb80c4b5a805259810]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-547c034528123506093615fd281fe33e]: Commencement: Sch. 3 para. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-547c034528123506093615fd281fe33e]: Commencement: Sch. 3 para. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-8b49ce811f1693d3334011e901ab5598]: Commencement: Sch. 3 para. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-8b49ce811f1693d3334011e901ab5598]: Commencement: Sch. 3 para. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-fd58db94675efbb1a0247e918203e686]: Commencement: Sch. 3 para. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-fd58db94675efbb1a0247e918203e686]: Commencement: Sch. 3 para. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-323794065d5b9b187d87f2fb078a8490]: Commencement: Sch. 3 para. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-323794065d5b9b187d87f2fb078a8490]: Commencement: Sch. 3 para. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-0f5ab9bebe185540651ca681a4a473fc]: Commencement: Sch. 3 para. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-0f5ab9bebe185540651ca681a4a473fc]: Commencement: Sch. 3 para. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-61dc46883db4bffb269ae85441561cfa]: Commencement: Sch. 3 para. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-61dc46883db4bffb269ae85441561cfa]: Commencement: Sch. 3 para. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-efde1fe6a7ef2acfd8464509baf6fc62]: Commencement: Sch. 3 para. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-efde1fe6a7ef2acfd8464509baf6fc62]: Commencement: Sch. 3 para. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-e4061738d5b504f6cd419677f837a881]: Commencement: Sch. 3 para. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-e4061738d5b504f6cd419677f837a881]: Commencement: Sch. 3 para. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-9d8ee1e2bdba706028e6e27c2c6a041b]: Commencement: Sch. 3 para. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-9d8ee1e2bdba706028e6e27c2c6a041b]: Commencement: Sch. 3 para. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
 
-[^key-8a1f4e9b5e2bf5e621dbd22b750ed02a]: Commencement: Sch. 3 para. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)
+[^c-8a1f4e9b5e2bf5e621dbd22b750ed02a]: Commencement: Sch. 3 para. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/699/regulation/1/1)

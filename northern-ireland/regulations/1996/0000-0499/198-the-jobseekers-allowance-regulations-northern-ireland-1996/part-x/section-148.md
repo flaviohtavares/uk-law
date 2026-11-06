@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Applicable amount in urgent cases[^key-e621299a4458527f64af16de176984c1]
+## 148. Applicable amount in urgent cases[^c-e621299a4458527f64af16de176984c1]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e621299a4458527f64af16de176984c1]: Commencement: Reg. 148 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-e621299a4458527f64af16de176984c1]: Commencement: Reg. 148 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

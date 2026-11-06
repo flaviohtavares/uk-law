@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z23. Urgent enforcement direction: confirmation[^key-e109a65288c69dae7b0086e66d928b7d]
+## 105Z23. Urgent enforcement direction: confirmation[^c-e109a65288c69dae7b0086e66d928b7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e109a65288c69dae7b0086e66d928b7d]: Textual amendment: [Ss. 105Z22-105Z24](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z22) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/21/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-e109a65288c69dae7b0086e66d928b7d]: Textual amendment: [Ss. 105Z22-105Z24](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z22) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/21/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

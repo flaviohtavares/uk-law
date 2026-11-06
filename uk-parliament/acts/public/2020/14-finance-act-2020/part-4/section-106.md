@@ -31,7 +31,7 @@ summary: ''
 - (e) a coronavirus business support grant scheme;
 - (f) any scheme specified or described in regulations made under this section by the Treasury.
 
-(3) The Treasury may by regulations make provision about (including provision modifying)[^key-66f4daf13e54b3e4f553dce4f3bf93c0] the application of Schedule 16 to a scheme falling within subsection (2)(b)[^key-87a5a06297d2a3ed7369ec50ba5f6124] to (f) (including provision modifying paragraph 8 of that Schedule so that it applies to payments made under a coronavirus business support grant scheme).
+(3) The Treasury may by regulations make provision about (including provision modifying)[^c-66f4daf13e54b3e4f553dce4f3bf93c0] the application of Schedule 16 to a scheme falling within subsection (2)(b)[^c-87a5a06297d2a3ed7369ec50ba5f6124] to (f) (including provision modifying paragraph 8 of that Schedule so that it applies to payments made under a coronavirus business support grant scheme).
 
 (4) Regulations under this section may make provision about coronavirus support payments made before (as well as after) the making of the regulations.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66f4daf13e54b3e4f553dce4f3bf93c0]: Textual amendment: Words in [s. 106(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/106/3) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/1/a)
+[^c-66f4daf13e54b3e4f553dce4f3bf93c0]: Textual amendment: Words in [s. 106(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/106/3) inserted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/1/a)
 
-[^key-87a5a06297d2a3ed7369ec50ba5f6124]: Textual amendment: Word in [s. 106(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/106/3) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/1/b)
+[^c-87a5a06297d2a3ed7369ec50ba5f6124]: Textual amendment: Word in [s. 106(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/106/3) substituted (with effect in accordance with s. 32(4) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 32(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/32/1/b)

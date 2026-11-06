@@ -25,7 +25,7 @@ summary: ''
 - (a) is played in public, or
 - (b)[^c20311621] is communicated to the public otherwise than by its being made available to the public in the way mentioned in section 182CA(1),
 
-the performer is entitled to equitable remuneration from the owner of the copyright in the sound recording or, where copyright in the sound recording has expired pursuant to section 191HA(4), from a person who plays the sound recording in public or communicates the sound recording to the public[^key-14922cb26ef6f326f95d1e8b796bd092].
+the performer is entitled to equitable remuneration from the owner of the copyright in the sound recording or, where copyright in the sound recording has expired pursuant to section 191HA(4), from a person who plays the sound recording in public or communicates the sound recording to the public[^c-14922cb26ef6f326f95d1e8b796bd092].
 
 (1A)[^c20325631] In subsection (1), the reference to publication of a sound recording includes making it available to the public by electronic transmission in such a way that members of the public may access it from a place and at a time individually chosen by them.
 
@@ -67,7 +67,7 @@ An order made on an application under this subsection has effect from the date o
 
 [^c20311621]: Textual amendment: S. 182D(1)(b) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/7/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-14922cb26ef6f326f95d1e8b796bd092]: Textual amendment: Words in s. 182D(1) inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/1782/regulation/7) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
+[^c-14922cb26ef6f326f95d1e8b796bd092]: Textual amendment: Words in s. 182D(1) inserted (1.11.2013) by [The Copyright and Duration of Rights in Performances Regulations 2013 (S.I. 2013/1782)](https://www.legislation.gov.uk/uksi/2013/1782), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1782/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/1782/regulation/7) (with [regs. 11-27](https://www.legislation.gov.uk/uksi/2013/1782/regulation/11))
 
 [^c20325631]: Textual amendment: S. 182D(1A) inserted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/3/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 

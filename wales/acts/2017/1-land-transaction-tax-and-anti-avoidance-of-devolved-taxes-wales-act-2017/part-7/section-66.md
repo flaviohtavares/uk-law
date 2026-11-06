@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. General anti-avoidance rule[^key-860ca5a8be700c671ad61edcbdc3cc09]
+## 66. General anti-avoidance rule[^c-860ca5a8be700c671ad61edcbdc3cc09]
 
 *Extent: E+W*
 
@@ -157,4 +157,4 @@ After section 81 of TCMA (contract settlements), insert—
 
 ## Annotations
 
-[^key-860ca5a8be700c671ad61edcbdc3cc09]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-860ca5a8be700c671ad61edcbdc3cc09]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2017/1/section/66) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

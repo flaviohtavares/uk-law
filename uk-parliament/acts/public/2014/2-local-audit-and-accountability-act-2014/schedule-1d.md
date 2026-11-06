@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1D — Professional qualifications[^key-9dec6404c02e1fc63e906065ded50768]
+## Schedule 1D — Professional qualifications[^c-9dec6404c02e1fc63e906065ded50768]
 
 *Extent: E+W*
 
@@ -208,4 +208,4 @@ the Secretary of State may direct the body not to take or, as the case may be, t
 
 ## Annotations
 
-[^key-9dec6404c02e1fc63e906065ded50768]: Textual amendment: Schs. 1B-1D inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 35](https://www.legislation.gov.uk/ukpga/2026/23/schedule/35)
+[^c-9dec6404c02e1fc63e906065ded50768]: Textual amendment: Schs. 1B-1D inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 35](https://www.legislation.gov.uk/ukpga/2026/23/schedule/35)

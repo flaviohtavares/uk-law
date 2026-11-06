@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Service of notices following appointment[^key-bd5601cba2b281a2321bcab1ce622c26]
+## 69. Service of notices following appointment[^c-bd5601cba2b281a2321bcab1ce622c26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under rule 67 has the same 
 
 ## Annotations
 
-[^key-bd5601cba2b281a2321bcab1ce622c26]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2007/3141/rule/69) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-bd5601cba2b281a2321bcab1ce622c26]: Commencement: [Rule 69](https://www.legislation.gov.uk/uksi/2007/3141/rule/69) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

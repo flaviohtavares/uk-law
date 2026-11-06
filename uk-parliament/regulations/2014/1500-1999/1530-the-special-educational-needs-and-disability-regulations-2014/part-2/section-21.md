@@ -50,20 +50,20 @@ summary: ''
 
 and must notify the child's parent or the young person within four weeks of the review meeting.
 
-(10)[^key-f00b9bd668fd40fbfa078b32e40a8f08] If the local authority proposes to continue or to cease to maintain the child or young person's EHC plan, it must also notify the child's parent or the young person of—
+(10)[^c-f00b9bd668fd40fbfa078b32e40a8f08] If the local authority proposes to continue or to cease to maintain the child or young person's EHC plan, it must also notify the child's parent or the young person of—
 
-- (a)[^key-a51ebef60995cae964638cb336ee5471] their right to appeal in accordance with section 51(2)(e) or (f) of the Act;
+- (a)[^c-a51ebef60995cae964638cb336ee5471] their right to appeal in accordance with section 51(2)(e) or (f) of the Act;
 - (b) the time limits for doing so;
 - (c) the information concerning mediation, set out in regulation 32; and
 - (d) the availability of—
   - (i) disagreement resolution services; and
-  - (ii) advice and information about matters relating to the special educational needs of children and young people ; and[^key-3a7cc427a2d1ef541af41840d3bd58d7]
+  - (ii) advice and information about matters relating to the special educational needs of children and young people ; and[^c-3a7cc427a2d1ef541af41840d3bd58d7]
 - (e) the First-tier Tribunal's power to make recommendations under the Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017.
 
 ## Annotations
 
-[^key-f00b9bd668fd40fbfa078b32e40a8f08]: Modification: Reg. 21(10) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
+[^c-f00b9bd668fd40fbfa078b32e40a8f08]: Modification: Reg. 21(10) applied (with modifications) (1.4.2015) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015 (S.I. 2015/358)](https://www.legislation.gov.uk/uksi/2015/358), [regs. 1](https://www.legislation.gov.uk/uksi/2015/358/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/358/regulation/7)
 
-[^key-a51ebef60995cae964638cb336ee5471]: Textual amendment: Reg. 21(10)(a) substituted (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/359/regulation/5)
+[^c-a51ebef60995cae964638cb336ee5471]: Textual amendment: Reg. 21(10)(a) substituted (23.3.2015) by [The Special Educational Needs and Disability (Amendment) Regulations 2015 (S.I. 2015/359)](https://www.legislation.gov.uk/uksi/2015/359), [regs. 1](https://www.legislation.gov.uk/uksi/2015/359/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/359/regulation/5)
 
-[^key-3a7cc427a2d1ef541af41840d3bd58d7]: Textual amendment: Reg. 21(10)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)
+[^c-3a7cc427a2d1ef541af41840d3bd58d7]: Textual amendment: Reg. 21(10)(e) and word inserted (3.4.2018) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendations Power) Regulations 2017 (S.I. 2017/1306)](https://www.legislation.gov.uk/uksi/2017/1306), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1306/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1306/regulation/8/2)

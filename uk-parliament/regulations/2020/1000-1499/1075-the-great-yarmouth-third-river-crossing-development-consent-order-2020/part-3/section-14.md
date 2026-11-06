@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Permanent stopping up of streets and private means of access[^key-9bd9544cea8c44efa793875e0a44d194]
+## 14. Permanent stopping up of streets and private means of access[^c-9bd9544cea8c44efa793875e0a44d194]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd9544cea8c44efa793875e0a44d194]: Commencement: Art. 14 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-9bd9544cea8c44efa793875e0a44d194]: Commencement: Art. 14 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

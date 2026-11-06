@@ -37,40 +37,40 @@ on the harmonisation, the regular transmission of the information and the questi
 
 (2009/358/EC) (revoked)
 
-[^key-803c81b8ea9696d1e908e79177f3ca7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-803c81b8ea9696d1e908e79177f3ca7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-803c81b8ea9696d1e908e79177f3ca7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-803c81b8ea9696d1e908e79177f3ca7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-803c81b8ea9696d1e908e79177f3ca7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Information to be included in the list of permits issued under Directive 2006/21/EC[^key-803c81b8ea9696d1e908e79177f3ca7e]
+## ANNEX I — Information to be included in the list of permits issued under Directive 2006/21/EC[^c-803c81b8ea9696d1e908e79177f3ca7e]
 
-[^key-803c81b8ea9696d1e908e79177f3ca7e]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-803c81b8ea9696d1e908e79177f3ca7e]2.
+[^c-803c81b8ea9696d1e908e79177f3ca7e]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-803c81b8ea9696d1e908e79177f3ca7e]3.
+[^c-803c81b8ea9696d1e908e79177f3ca7e]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Information to be transmitted to the Commission on the events referred to in Articles 11(3) and 12(6) pursuant to 18(2) of Directive 2006/21/EC[^key-803c81b8ea9696d1e908e79177f3ca7e]
+[^c-803c81b8ea9696d1e908e79177f3ca7e]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-803c81b8ea9696d1e908e79177f3ca7e]
+## ANNEX II — Information to be transmitted to the Commission on the events referred to in Articles 11(3) and 12(6) pursuant to 18(2) of Directive 2006/21/EC[^c-803c81b8ea9696d1e908e79177f3ca7e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-803c81b8ea9696d1e908e79177f3ca7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-803c81b8ea9696d1e908e79177f3ca7e]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-803c81b8ea9696d1e908e79177f3ca7e]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 112. Control of fisheries products subject to storage mechanism[^key-d90ad21b8242124cfd4f5bb9cb6384a6]
+## Article 112. Control of fisheries products subject to storage mechanism[^c-d90ad21b8242124cfd4f5bb9cb6384a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d90ad21b8242124cfd4f5bb9cb6384a6]: Textual amendment: [Art. 112](https://www.legislation.gov.uk/eur/2011/404/article/112) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(83)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/83); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d90ad21b8242124cfd4f5bb9cb6384a6]: Textual amendment: [Art. 112](https://www.legislation.gov.uk/eur/2011/404/article/112) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(83)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/83); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Disclosure of information held by the Commissioners for Her Majesty’s Revenue and Customs[^key-7766094afbfd4c746df4a4a4a142e7f5]
+## 35. Disclosure of information held by the Commissioners for Her Majesty’s Revenue and Customs[^c-7766094afbfd4c746df4a4a4a142e7f5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7766094afbfd4c746df4a4a4a142e7f5]: Commencement: Reg. 35 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-7766094afbfd4c746df4a4a4a142e7f5]: Commencement: Reg. 35 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

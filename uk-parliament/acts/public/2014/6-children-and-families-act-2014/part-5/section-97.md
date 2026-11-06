@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Parent carers[^key-d6819a13a5b2a42d7e2e9bdcdd7dc110]
+## 97. Parent carers[^c-d6819a13a5b2a42d7e2e9bdcdd7dc110]
 
 *Extent: E+W*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6819a13a5b2a42d7e2e9bdcdd7dc110]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2014/6/section/97) in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)
+[^c-d6819a13a5b2a42d7e2e9bdcdd7dc110]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2014/6/section/97) in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)

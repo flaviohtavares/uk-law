@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Availability of fee contribution loans to old system students[^key-f0eadfcb4a76bf3dc95d48a343eecb8e]
+## 31. Availability of fee contribution loans to old system students[^c-f0eadfcb4a76bf3dc95d48a343eecb8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ An old system student qualifies for a fee contribution loan in respect of an aca
 
 ## Annotations
 
-[^key-f0eadfcb4a76bf3dc95d48a343eecb8e]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-f0eadfcb4a76bf3dc95d48a343eecb8e]: Commencement: Reg. 31 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

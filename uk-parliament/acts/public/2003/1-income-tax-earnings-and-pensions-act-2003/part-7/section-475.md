@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 475. No charge in respect of acquisition of option[^key-a071c0f56de4162a89de32d06c427457]
+## 475. No charge in respect of acquisition of option[^c-a071c0f56de4162a89de32d06c427457]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a071c0f56de4162a89de32d06c427457]: Textual amendment: Pt. 7 Ch. 5 substituted (16.4.2003 for specified purposes and otherwise 1.9.2003 with effect in accordance with Sch. 22 para. 10(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 10(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/10/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-a071c0f56de4162a89de32d06c427457]: Textual amendment: Pt. 7 Ch. 5 substituted (16.4.2003 for specified purposes and otherwise 1.9.2003 with effect in accordance with Sch. 22 para. 10(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 10(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/10/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^key-6f479dd6a1bcfcaade18947e180ef16f]
+## 88. Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996[^c-6f479dd6a1bcfcaade18947e180ef16f]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f479dd6a1bcfcaade18947e180ef16f]: Commencement: Reg. 88 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-6f479dd6a1bcfcaade18947e180ef16f]: Commencement: Reg. 88 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00149]: Footnote: [S.R. (N.I.) 1996/493](https://www.legislation.gov.uk/nisr/1996/493). Regulation 1(1A) was inserted, and regulation 26 substituted, by Schedule 2 to [S.R. (N.I.) 2005/433](https://www.legislation.gov.uk/nisr/2005/433).

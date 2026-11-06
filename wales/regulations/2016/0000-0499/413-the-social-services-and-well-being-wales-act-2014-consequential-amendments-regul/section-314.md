@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**314.**[^key-5d6352befd28c49325a7464c0d07c054] In section 190 (provider failure: exception to temporary duty), in paragraph (d) of subsection (1), omit sub-paragraph (i).
+**314.**[^c-5d6352befd28c49325a7464c0d07c054] In section 190 (provider failure: exception to temporary duty), in paragraph (d) of subsection (1), omit sub-paragraph (i).
 
 ## Annotations
 
-[^key-5d6352befd28c49325a7464c0d07c054]: Commencement: Reg. 314 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5d6352befd28c49325a7464c0d07c054]: Commencement: Reg. 314 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

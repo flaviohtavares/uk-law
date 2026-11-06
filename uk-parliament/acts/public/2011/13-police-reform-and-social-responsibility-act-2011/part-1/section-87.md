@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. HMIC and freedom of information[^key-8ae4cc5fab459459246db59f165567c9]
+## 87. HMIC and freedom of information[^c-8ae4cc5fab459459246db59f165567c9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bod
 
 ## Annotations
 
-[^key-8ae4cc5fab459459246db59f165567c9]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2011/13/section/87) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-8ae4cc5fab459459246db59f165567c9]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2011/13/section/87) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

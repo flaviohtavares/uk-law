@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Inspections: timing[^key-e9863931c4dec9cc8bfd648cd57a0ad3]
+## 46. Inspections: timing[^c-e9863931c4dec9cc8bfd648cd57a0ad3]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9863931c4dec9cc8bfd648cd57a0ad3]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2011/9/section/46) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-e9863931c4dec9cc8bfd648cd57a0ad3]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2011/9/section/46) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

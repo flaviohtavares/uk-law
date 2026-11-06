@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Determination of income on a weekly basis[^key-e05d907008f9c032e80f90ea34f68352]
+## 19. Determination of income on a weekly basis[^c-e05d907008f9c032e80f90ea34f68352]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ by then deducting the average weekly relevant child care charge, determined in a
 
 ## Annotations
 
-[^key-e05d907008f9c032e80f90ea34f68352]: Commencement: Reg. 19 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-e05d907008f9c032e80f90ea34f68352]: Commencement: Reg. 19 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

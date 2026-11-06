@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99B. Persons qualifying for compensation.[^c15061611][^key-43e85dc7bf59ac4c4c0e534e4cdeb13e]
+## 99B. Persons qualifying for compensation.[^c15061611][^c-43e85dc7bf59ac4c4c0e534e4cdeb13e]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 [^c15061611]: Textual amendment: S. 99A, 99B inserted (1.2.1994) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 122](https://www.legislation.gov.uk/ukpga/1993/28/section/122); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 4(b)](https://www.legislation.gov.uk/uksi/1993/2762/article/4/b) (with saving in [art. 5(2)](https://www.legislation.gov.uk/uksi/1993/2762/article/5/2)).
 
-[^key-43e85dc7bf59ac4c4c0e534e4cdeb13e]: Modification: [S. 99B](https://www.legislation.gov.uk/ukpga/1985/68/section/99B) continued (with modifications) for specified purposes (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2022/1172/regulation/12) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
+[^c-43e85dc7bf59ac4c4c0e534e4cdeb13e]: Modification: [S. 99B](https://www.legislation.gov.uk/ukpga/1985/68/section/99B) continued (with modifications) for specified purposes (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2022/1172/regulation/12) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
 
 [^c15061621]: Textual amendment: S. 99B(2)(e) substituted (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 222](https://www.legislation.gov.uk/ukpga/1996/52/section/222), [Sch. 18 Pt. III para. 13](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/part/III/paragraph/13); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 

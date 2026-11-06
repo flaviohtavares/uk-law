@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Refusal to be medically examined[^key-6a02db6692fb8cd64a7e2f192076ab2a]
+## 108. Refusal to be medically examined[^c-6a02db6692fb8cd64a7e2f192076ab2a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The employer may make a decision under this Chapter on such evidence and medical
 
 ## Annotations
 
-[^key-6a02db6692fb8cd64a7e2f192076ab2a]: Commencement: Reg. 108 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-6a02db6692fb8cd64a7e2f192076ab2a]: Commencement: Reg. 108 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

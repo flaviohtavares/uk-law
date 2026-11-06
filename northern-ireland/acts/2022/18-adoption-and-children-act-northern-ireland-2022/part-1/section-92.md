@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Annulment etc. of overseas or Hague Convention adoptions[^key-0d8320514ad14d010617107423c289ea]
+## 92. Annulment etc. of overseas or Hague Convention adoptions[^c-0d8320514ad14d010617107423c289ea]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d8320514ad14d010617107423c289ea]: Commencement: S. 92 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0d8320514ad14d010617107423c289ea]: Commencement: S. 92 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

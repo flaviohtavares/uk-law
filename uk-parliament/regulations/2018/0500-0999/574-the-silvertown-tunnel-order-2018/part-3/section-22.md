@@ -24,7 +24,7 @@ summary: ''
 
 (2) In the case of the Order land specified in columns (1) and (2) of Schedule 4 (land in which only new rights etc., may be acquired) TfL's powers of compulsory acquisition are limited to the acquisition of such wayleaves, easements, new rights in the land or the imposition of restrictive covenants as TfL may require for or in connection with the authorised development.
 
-(3) Subject to Schedule 2A [^c22957411] (counter-notice requiring purchase of land) to the 1965 Act (as substituted by paragraph 5(8)[^key-f5872a061f30e9c1ec2cefdfddb11d63] of Schedule 5 (modification of compensation and compulsory purchase enactments for creation of new rights), where TfL acquires a right over land or the benefit of a restrictive covenant , TfL is not required to acquire a greater interest in that land.
+(3) Subject to Schedule 2A [^c22957411] (counter-notice requiring purchase of land) to the 1965 Act (as substituted by paragraph 5(8)[^c-f5872a061f30e9c1ec2cefdfddb11d63] of Schedule 5 (modification of compensation and compulsory purchase enactments for creation of new rights), where TfL acquires a right over land or the benefit of a restrictive covenant , TfL is not required to acquire a greater interest in that land.
 
 (4) Schedule 5 has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application to the compulsory acquisition under this article of a right over land by the creation of a new right or the imposition of a restrictive covenant.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c22957411]: Marginal citation: As inserted by paragraphs 1 and 3 of Schedule 17 to the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-f5872a061f30e9c1ec2cefdfddb11d63]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/uksi/2018/574/article/22/3) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/413/article/2/4)
+[^c-f5872a061f30e9c1ec2cefdfddb11d63]: Textual amendment: Words in [art. 22(3)](https://www.legislation.gov.uk/uksi/2018/574/article/22/3) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/413/article/2/4)

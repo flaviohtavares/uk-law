@@ -73,7 +73,7 @@ In the Constitutional Reform Act 2005 [^c2016998], in Part 3 of Schedule 14 [^c2
 
 #### 6. Amendment of the 1994 Regulations
 
-[^key-75a81abc3ef37a8274da805b9b2d9444]...
+[^c-75a81abc3ef37a8274da805b9b2d9444]...
 
 .
 
@@ -146,7 +146,7 @@ In the Constitutional Reform Act 2005 [^c2016998], in Part 3 of Schedule 14 [^c2
 
 [^c2016999]: Marginal citation: There are amendments to Part 3 of Schedule 14 not relevant to these Regulations.
 
-[^key-75a81abc3ef37a8274da805b9b2d9444]: Textual amendment: Sch. 6 para. 6 omitted (16.8.2012) by virtue of [The Conservation of Habitats and Species (Amendment) Regulations 2012 (S.I. 2012/1927)](https://www.legislation.gov.uk/uksi/2012/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1927/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2012/1927/regulation/24)
+[^c-75a81abc3ef37a8274da805b9b2d9444]: Textual amendment: Sch. 6 para. 6 omitted (16.8.2012) by virtue of [The Conservation of Habitats and Species (Amendment) Regulations 2012 (S.I. 2012/1927)](https://www.legislation.gov.uk/uksi/2012/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1927/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2012/1927/regulation/24)
 
 [^c2017001]: Marginal citation: There are amendments to regulation 2 not relevant to these Regulations.
 

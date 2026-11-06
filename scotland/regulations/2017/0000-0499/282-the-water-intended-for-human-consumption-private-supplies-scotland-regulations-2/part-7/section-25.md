@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Information for certain public authorities[^key-d005a6ddebec486a4d8ceea98c0e7377]
+## 25. Information for certain public authorities[^c-d005a6ddebec486a4d8ceea98c0e7377]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ By 31st March in each year, an enforcing authority must provide to the following
 
 ## Annotations
 
-[^key-d005a6ddebec486a4d8ceea98c0e7377]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2017/282/regulation/25) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-d005a6ddebec486a4d8ceea98c0e7377]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2017/282/regulation/25) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

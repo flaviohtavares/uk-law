@@ -79,15 +79,15 @@ Sections 9, 10, 22 and 24.
 | Dormouse (in respect of section 9(4)(b) and (c) and (5) only) | Muscardinus avellanarius |
 | Dragonfly, Norfolk Aeshna | Aeshna isosceles |
 | Frog, Common (in respect of section 9(5) only) | Rana temporaria |
-| Frog, Pool (Northern Clade) (in respect of section 9(4)(b) and (c)(1) only and with respect to England only)[^key-af82e614edc12d287b5d87baa86dca79] | Pelophylax lessonae |
+| Frog, Pool (Northern Clade) (in respect of section 9(4)(b) and (c)(1) only and with respect to England only)[^c-af82e614edc12d287b5d87baa86dca79] | Pelophylax lessonae |
 | Goby, Couch’s | Gobius couchii |
 | Goby, Giant | Gobius cobitis |
 | Grasshopper, Wart-biter | Decticus verrucivorus |
 | Hatchet Shell, Northern | Thyasira gouldi |
 | Hydroid, Marine | Clavopsella navis |
-| [^key-ed176b7bb01f6b868748e3e027145c3b]. . . | [^key-ed176b7bb01f6b868748e3e027145c3b]. . . |
+| [^c-ed176b7bb01f6b868748e3e027145c3b]. . . | [^c-ed176b7bb01f6b868748e3e027145c3b]. . . |
 | Lagoon Snail, De Folin’s | Caecum armoricum |
-| Lagoon Worm, Tentacled (in respect of section 9(4)(a) only)[^key-ed0be207b2f763594911b6c8463434a3] | Alkmaria romijni |
+| Lagoon Worm, Tentacled (in respect of section 9(4)(a) only)[^c-ed0be207b2f763594911b6c8463434a3] | Alkmaria romijni |
 | Leech, Medicinal | Hirudo medicinalis |
 | Lizard, Sand (in respect of section 9(4)(b) and (c) and (5) only) | Lacerta agilis |
 | Lizard, Viviparous (in respect of section 9(5) only)[^c4954751] | Lacerta vivipara |
@@ -95,7 +95,7 @@ Sections 9, 10, 22 and 24.
 | Mat. Trembling Sea | Victorella pavida |
 | Moth, Barberry Carpet | Pareulype berberata |
 | Moth, Black-veined | Siona lineata (otherwise known as Idaea lineata) |
-| [^key-ed176b7bb01f6b868748e3e027145c3b]. . . | [^key-ed176b7bb01f6b868748e3e027145c3b]. . . |
+| [^c-ed176b7bb01f6b868748e3e027145c3b]. . . | [^c-ed176b7bb01f6b868748e3e027145c3b]. . . |
 | Moth, Fiery Clearwing | Bembecia chrysidiformis |
 | Moth, Fisher’s Estuarine(in respect of section 9(4)(b) and (c) and (5) only)[^c19892651] | Gortyna borelii |
 | Moth, New Forest Burnet | Zygaena viciae |
@@ -117,11 +117,11 @@ Sections 9, 10, 22 and 24.
 | Seahorse, Short Snouted (with respect to England[^c19892171] and Wales[^c19892471] only) | Hippocampus hippocampus |
 | Seahorse, Spiny (with respect to England and Wales[^c19892491] only) | Hippocampus guttulatus |
 | Sea Slug, Lagoon | Tenellia adspersa |
-| Shad, Twaite (in respect of section 9(1) and (4)(a)[^key-e3399d07eb718079e9631568e80a7a14]only) | Alosa fallax |
-| Shark, Angel (in respect of section 9(1), (2) and (5) only)[^key-2e7a2ee9d55074598af6e4c80e4fd95c] | Squatina squatina |
+| Shad, Twaite (in respect of section 9(1) and (4)(a)[^c-e3399d07eb718079e9631568e80a7a14]only) | Alosa fallax |
+| Shark, Angel (in respect of section 9(1), (2) and (5) only)[^c-2e7a2ee9d55074598af6e4c80e4fd95c] | Squatina squatina |
 | Shark, Basking | Cetorhinus maximus |
 | Shrimp, Fairy | Chirocephalus diaphanus |
-| Shrimp, Lagoon Sand (in respect of section 9(4)(a) only)[^key-94b3c3305b2188b973c67863d61641f9] | Gammarus insensiblis |
+| Shrimp, Lagoon Sand (in respect of section 9(4)(a) only)[^c-94b3c3305b2188b973c67863d61641f9] | Gammarus insensiblis |
 | Skate, White (in respect of section 9(1), (2) and (5) only) | Rostroraja alba |
 | Slow-worm (in respect of section 9(5) only) | Anguis fragilis |
 | [^c4954171]. . . | [^c4954171] . . . |
@@ -152,9 +152,9 @@ Sections 9, 10, 22 and 24.
 
 Note. The common name or names given in the first column of this Schedule are included by way of guidance only; in the event of any dispute or proceedings, the common name or names shall not be taken into account.
 
-NOTE 2.[^c19886701] [^key-6f73cca5ea5aa0e4491c4bc828b06e5a]...
+NOTE 2.[^c19886701] [^c-6f73cca5ea5aa0e4491c4bc828b06e5a]...
 
-## SCHEDULE 5 — Animals which are Protected under Section 9[^c19510961][^c4954061][^key-b3aa156e936d1dfa8777814efd5841bf]
+## SCHEDULE 5 — Animals which are Protected under Section 9[^c19510961][^c4954061][^c-b3aa156e936d1dfa8777814efd5841bf]
 
 *Extent: S*
 
@@ -219,7 +219,7 @@ Sections 9, 10, 22 and 24.
 | Goby, Couch’s | Gobius couchii |
 | Goby, Giant | Gobius cobitis |
 | Grasshopper, Wart-biter | Decticus verrucivorus |
-| Hare, mountain[^key-6bf522bc3660dc27e9538a642c8bc63e] | Lepus timidus[^key-47ba35966166921b0f185a14380a6220] |
+| Hare, mountain[^c-6bf522bc3660dc27e9538a642c8bc63e] | Lepus timidus[^c-47ba35966166921b0f185a14380a6220] |
 | \[[^c4955101]Hatchet Shell, Northern\] | \[[^c4955101]Thyasira gouldi\] |
 | Hydroid, Marine | Clavopsella navis |
 | \[[^c4955101]Lagoon Snail\] | \[[^c4955101]Paludinella littorina\] |
@@ -308,11 +308,11 @@ Note. The common name or names given in the first column of this Schedule are in
 
 [^c19512831]: Textual amendment: Sch. 5 : entry added (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843) , [reg. 7(7)(h)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/7/7/h)
 
-[^key-af82e614edc12d287b5d87baa86dca79]: Textual amendment: Entries in Sch. 5 inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(2)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2015/schedule/1)
+[^c-af82e614edc12d287b5d87baa86dca79]: Textual amendment: Entries in Sch. 5 inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(2)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/2) , [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2015/schedule/1)
 
-[^key-ed176b7bb01f6b868748e3e027145c3b]: Textual amendment: Entries in Sch. 5 omitted (E.W.) (1.10.2011) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(3)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/3) , [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2015/schedule/2)
+[^c-ed176b7bb01f6b868748e3e027145c3b]: Textual amendment: Entries in Sch. 5 omitted (E.W.) (1.10.2011) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(3)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/3) , [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2015/schedule/2)
 
-[^key-ed0be207b2f763594911b6c8463434a3]: Textual amendment: Words in Sch. 5 entry inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(4)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/4)
+[^c-ed0be207b2f763594911b6c8463434a3]: Textual amendment: Words in Sch. 5 entry inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(4)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/4)
 
 [^c4954751]: Textual amendment: By [S. I. 1988/288](https://www.legislation.gov.uk/uksi/1988/288) , [art. 2(4)](https://www.legislation.gov.uk/uksi/1988/288/article/2/4) entry (which is already listed in respect of section 9(5) only) is further listed in respect of s. 9(1) so far as it relates to killing and injuring
 
@@ -332,11 +332,11 @@ Note. The common name or names given in the first column of this Schedule are in
 
 [^c19892491]: Textual amendment: Sch. 5 : words in entry relating to "Seahorse, Spiny" inserted (E.W.) (12.8.2008) by [The Wildlife and Countryside Act 1981 (Variation of Schedule 5) (Wales) Order 2008 (S.I. 2008/1927)](https://www.legislation.gov.uk/uksi/2008/1927) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1927/article/2/b)
 
-[^key-e3399d07eb718079e9631568e80a7a14]: Textual amendment: Words in Sch. 5 entry substituted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(5)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/5)
+[^c-e3399d07eb718079e9631568e80a7a14]: Textual amendment: Words in Sch. 5 entry substituted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(5)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/5)
 
-[^key-2e7a2ee9d55074598af6e4c80e4fd95c]: Textual amendment: Words in Sch. 5 entry substituted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(6)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/6)
+[^c-2e7a2ee9d55074598af6e4c80e4fd95c]: Textual amendment: Words in Sch. 5 entry substituted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(6)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/6)
 
-[^key-94b3c3305b2188b973c67863d61641f9]: Textual amendment: Words in Sch. 5 entry inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(7)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/7)
+[^c-94b3c3305b2188b973c67863d61641f9]: Textual amendment: Words in Sch. 5 entry inserted (E.W.) (1.10.2011) by [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(7)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/7)
 
 [^c19892531]: Textual amendment: Sch. 5 : words in entry relating to "Snail, Roman" inserted (E.W.) (12.8.2008) by [The Wildlife and Countryside Act 1981 (Variation of Schedule 5) (Wales) Order 2008 (S.I. 2008/1927)](https://www.legislation.gov.uk/uksi/2008/1927) , [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1927/article/2/d)
 
@@ -362,16 +362,16 @@ Note. The common name or names given in the first column of this Schedule are in
 
 [^c19886701]: Textual amendment: Sch. 5 : Note 2 inserted (E.W.) (6.4.2008) by [The Wildlife and Countryside Act 1981 (Variation of Schedule 5) (England) Order 2008 (S.I. 2008/431)](https://www.legislation.gov.uk/uksi/2008/431) , [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/431/article/2/c)
 
-[^key-6f73cca5ea5aa0e4491c4bc828b06e5a]: Textual amendment: Sch. 5 Note 2 omitted (E.W.) (1.10.2011) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(8)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/8)
+[^c-6f73cca5ea5aa0e4491c4bc828b06e5a]: Textual amendment: Sch. 5 Note 2 omitted (E.W.) (1.10.2011) by virtue of [The Wildlife and Countryside Act 1981 (Variation of Schedules 5 and 8) (England and Wales) Order 2011 (S.I. 2011/2015)](https://www.legislation.gov.uk/uksi/2011/2015) , [arts. 1(b)](https://www.legislation.gov.uk/uksi/2011/2015/article/1/b) , [2(8)](https://www.legislation.gov.uk/uksi/2011/2015/article/2/8)
 
 [^c19510961]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
 [^c4954061]: Modification: By [S.I. 1988/288](https://www.legislation.gov.uk/uksi/1988/288) , [art. 2(2)](https://www.legislation.gov.uk/uksi/1988/288/article/2/2) it is provided that all Dolphins (Cetacea) and all Porpoises (Cetacea) not already listed in Schedule 5 are added to that Schedule and by [S.S.I. 2007/80](https://www.legislation.gov.uk/ssi/2007/80) , [reg. 28](https://www.legislation.gov.uk/ssi/2007/80/regulation/28) it is provided that said Dolphins (all species) and Porpoises (all species) are removed (S.) (15.2.2007)
 
-[^key-b3aa156e936d1dfa8777814efd5841bf]: Textual amendment: Words in Sch. 5 heading added (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 6(4)](https://www.legislation.gov.uk/asp/2011/6/section/6/4), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-b3aa156e936d1dfa8777814efd5841bf]: Textual amendment: Words in Sch. 5 heading added (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 6(4)](https://www.legislation.gov.uk/asp/2011/6/section/6/4), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
 [^c19499491]: Textual amendment: Sch. 5 : entries removed (S.) (15.2.2007) by [The Conservation (Natural Habitats,  & c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80) , [reg. 28](https://www.legislation.gov.uk/ssi/2007/80/regulation/28)
 
-[^key-6bf522bc3660dc27e9538a642c8bc63e]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/69/schedule/5) inserted (1.3.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 18(3)(a)](https://www.legislation.gov.uk/asp/2020/14/section/18/3/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)
+[^c-6bf522bc3660dc27e9538a642c8bc63e]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/69/schedule/5) inserted (1.3.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 18(3)(a)](https://www.legislation.gov.uk/asp/2020/14/section/18/3/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)
 
-[^key-47ba35966166921b0f185a14380a6220]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/69/schedule/5) inserted (1.3.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 18(3)(b)](https://www.legislation.gov.uk/asp/2020/14/section/18/3/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)
+[^c-47ba35966166921b0f185a14380a6220]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1981/69/schedule/5) inserted (1.3.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 18(3)(b)](https://www.legislation.gov.uk/asp/2020/14/section/18/3/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)

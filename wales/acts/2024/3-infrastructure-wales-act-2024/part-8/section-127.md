@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Infrastructure policy statements[^key-090b0eea96867e3c5c60b0a497f592f5][^key-46f9e2502cbed27803d3d0c91121c9eb]
+## 127. Infrastructure policy statements[^c-090b0eea96867e3c5c60b0a497f592f5][^c-46f9e2502cbed27803d3d0c91121c9eb]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-090b0eea96867e3c5c60b0a497f592f5]: Commencement: S. 127 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-090b0eea96867e3c5c60b0a497f592f5]: Commencement: S. 127 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-46f9e2502cbed27803d3d0c91121c9eb]: Commencement: [S. 127](https://www.legislation.gov.uk/asc/2024/3/section/127) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-46f9e2502cbed27803d3d0c91121c9eb]: Commencement: [S. 127](https://www.legislation.gov.uk/asc/2024/3/section/127) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

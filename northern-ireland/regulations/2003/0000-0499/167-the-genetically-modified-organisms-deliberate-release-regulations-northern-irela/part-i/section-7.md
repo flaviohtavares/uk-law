@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Communication with applicant for consent[^key-44e93f22353795844931fe052b05cf09]
+## 7. Communication with applicant for consent[^c-44e93f22353795844931fe052b05cf09]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e93f22353795844931fe052b05cf09]: Commencement: Reg. 7 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-44e93f22353795844931fe052b05cf09]: Commencement: Reg. 7 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

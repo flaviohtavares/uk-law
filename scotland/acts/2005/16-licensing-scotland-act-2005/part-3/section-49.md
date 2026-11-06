@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Licensing Board's duty to update premises licence[^key-3d9c4a4565dee4ba11c18bb25f646d28]
+## 49. Licensing Board's duty to update premises licence[^c-3d9c4a4565dee4ba11c18bb25f646d28]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (2) The Board must make any necessary amendments to the licence and, if necessary, issue a new summary of the licence.
 
-(2A)[^key-1567f9c96e67a12014b2c350a603f8e0] Where a Licensing Board issues a new summary of the licence under subsection (2), the Board must send a copy of the new summary of the licence to the chief constable[^key-791581753c4192ada5018aedab6cf289].
+(2A)[^c-1567f9c96e67a12014b2c350a603f8e0] Where a Licensing Board issues a new summary of the licence under subsection (2), the Board must send a copy of the new summary of the licence to the chief constable[^c-791581753c4192ada5018aedab6cf289].
 
 (3) Where a Licensing Board is not in possession of a premises licence and—
 
@@ -48,8 +48,8 @@ the Board may require the licence holder to produce the licence to the Board wit
 
 ## Annotations
 
-[^key-3d9c4a4565dee4ba11c18bb25f646d28]: Commencement: S. 49 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-3d9c4a4565dee4ba11c18bb25f646d28]: Commencement: S. 49 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-1567f9c96e67a12014b2c350a603f8e0]: Textual amendment: S. 49(2A) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 187(4)](https://www.legislation.gov.uk/asp/2010/13/section/187/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-1567f9c96e67a12014b2c350a603f8e0]: Textual amendment: S. 49(2A) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 187(4)](https://www.legislation.gov.uk/asp/2010/13/section/187/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-791581753c4192ada5018aedab6cf289]: Textual amendment: Words in s. 49(2A) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-791581753c4192ada5018aedab6cf289]: Textual amendment: Words in s. 49(2A) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

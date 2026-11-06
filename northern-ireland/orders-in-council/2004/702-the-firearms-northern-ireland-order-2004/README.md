@@ -113,20 +113,20 @@ The Firearms (Northern Ireland) Order 2004
 - [Section 47 — Possession of firearms on service premises, etc.](part-v/section-47.md)
 - [Section 48 — Power to prohibit movement of firearms and ammunition](part-v/section-48.md)
 
-### PART VI — FIREARMS CLUBS AND SHOTGUN CLUBS[^key-5a60a591e35cb2e117ddda5e1556a143]
+### PART VI — FIREARMS CLUBS AND SHOTGUN CLUBS[^c-5a60a591e35cb2e117ddda5e1556a143]
 
 *Extent: N.I.*
 
-#### Firearms clubs[^key-37d127369aec03dd6e6c2813f9d452e1]
+#### Firearms clubs[^c-37d127369aec03dd6e6c2813f9d452e1]
 
 - [Section 49 — Authorisation](part-vi/section-49.md)
 - [Section 50 — Revocation or variation of authorisation](part-vi/section-50.md)
 
-#### Shotgun clubs[^key-68f8ee6d58eb954392245f39cf550587]
+#### Shotgun clubs[^c-68f8ee6d58eb954392245f39cf550587]
 
 - [Section 50A — Authorisation of shotgun clubs to allow use of shotguns by minors for limited purposes](part-vi/section-50a.md)
 
-#### Power of entry[^key-1575c5f7fb9903a9e68b8e0e2428c4c4]
+#### Power of entry[^c-1575c5f7fb9903a9e68b8e0e2428c4c4]
 
 - [Section 51 — Power of entry](part-vi/section-51.md)
 
@@ -197,10 +197,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5a60a591e35cb2e117ddda5e1556a143]: Textual amendment: Words in Pt. VI heading added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/2)
+[^c-5a60a591e35cb2e117ddda5e1556a143]: Textual amendment: Words in Pt. VI heading added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/2)
 
-[^key-37d127369aec03dd6e6c2813f9d452e1]: Textual amendment: Art. 49 cross-heading added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/3)
+[^c-37d127369aec03dd6e6c2813f9d452e1]: Textual amendment: Art. 49 cross-heading added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/3)
 
-[^key-68f8ee6d58eb954392245f39cf550587]: Textual amendment: Art. 50A and cross-heading inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/4)
+[^c-68f8ee6d58eb954392245f39cf550587]: Textual amendment: Art. 50A and cross-heading inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/4)
 
-[^key-1575c5f7fb9903a9e68b8e0e2428c4c4]: Textual amendment: Art. 51 cross-heading inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(5)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/5)
+[^c-1575c5f7fb9903a9e68b8e0e2428c4c4]: Textual amendment: Art. 51 cross-heading inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(5)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/5)

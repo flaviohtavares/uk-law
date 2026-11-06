@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-No action to enforce a claim in respect of a liability incurred under section 153 , 153A[^key-55abf2bae3610b753ba4eb68320627b7] or 154 shall be entertained by any court in the United Kingdom unless the action is commenced not later than three years after the claim arose nor later than six years after the occurrence or first of the occurrences resulting in the discharge or escape, or (as the case may be) in the relevant threat of contamination, by reason of which the liability was incurred.
+No action to enforce a claim in respect of a liability incurred under section 153 , 153A[^c-55abf2bae3610b753ba4eb68320627b7] or 154 shall be entertained by any court in the United Kingdom unless the action is commenced not later than three years after the claim arose nor later than six years after the occurrence or first of the occurrences resulting in the discharge or escape, or (as the case may be) in the relevant threat of contamination, by reason of which the liability was incurred.
 
 ## Annotations
 
@@ -54,4 +54,4 @@ No action to enforce a claim in respect of a liability incurred under section 15
 
     S. 162 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-55abf2bae3610b753ba4eb68320627b7]: Textual amendment: Word in [s. 162](https://www.legislation.gov.uk/ukpga/1995/21/section/162) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2006/1244/regulation/15) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-55abf2bae3610b753ba4eb68320627b7]: Textual amendment: Word in [s. 162](https://www.legislation.gov.uk/ukpga/1995/21/section/162) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2006/1244/regulation/15) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

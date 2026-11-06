@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Calculation of capital in the United Kingdom[^key-0064694669f667b874af39bdb1128c9d]
+## 20. Calculation of capital in the United Kingdom[^c-0064694669f667b874af39bdb1128c9d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Capital which A possesses in the United Kingdom is to be calculated at its curre
 
 ## Annotations
 
-[^key-0064694669f667b874af39bdb1128c9d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2015/1844/regulation/20) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-0064694669f667b874af39bdb1128c9d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2015/1844/regulation/20) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

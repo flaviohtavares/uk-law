@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49.[^key-e570260c3751643253ad9933a4956324]
+## 49.[^c-e570260c3751643253ad9933a4956324]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 220 (purchase of own shares: conditions as to residence and period of
 
 ## Annotations
 
-[^key-e570260c3751643253ad9933a4956324]: Commencement: Reg. 49 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-e570260c3751643253ad9933a4956324]: Commencement: Reg. 49 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. The standard of MOD accommodation[^key-5bea231dd8c1f0273cdec92cb37bfcac]
+## 101. The standard of MOD accommodation[^c-5bea231dd8c1f0273cdec92cb37bfcac]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ in relation to any year.
 
 ## Annotations
 
-[^key-5bea231dd8c1f0273cdec92cb37bfcac]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-5bea231dd8c1f0273cdec92cb37bfcac]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

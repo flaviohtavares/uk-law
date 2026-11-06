@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. HMRC power to seize articles etc to facilitate ONR and inspectors[^key-885ea6c239d05600e40fc23ef4e8d5a3]
+## 99. HMRC power to seize articles etc to facilitate ONR and inspectors[^c-885ea6c239d05600e40fc23ef4e8d5a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-885ea6c239d05600e40fc23ef4e8d5a3]: Commencement: S. 99 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-885ea6c239d05600e40fc23ef4e8d5a3]: Commencement: S. 99 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

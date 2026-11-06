@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Fit and proper person test[^key-a9c22771a7caadd61c0f215dcb4c8b0c]
+## 131. Fit and proper person test[^c-a9c22771a7caadd61c0f215dcb4c8b0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a9c22771a7caadd61c0f215dcb4c8b0c]: Commencement: Reg. 131 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a9c22771a7caadd61c0f215dcb4c8b0c]: Commencement: Reg. 131 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00070]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 

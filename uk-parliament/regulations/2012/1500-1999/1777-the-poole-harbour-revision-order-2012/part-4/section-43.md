@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Register of charges[^key-61cb63f6cdd8d97233cb0bf013c1038b]
+## 43. Register of charges[^c-61cb63f6cdd8d97233cb0bf013c1038b]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61cb63f6cdd8d97233cb0bf013c1038b]: Commencement: Art. 43 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-61cb63f6cdd8d97233cb0bf013c1038b]: Commencement: Art. 43 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and application[^key-5f7ac04c8b83cedbf166e1e952b0ab84]
+## 1. Citation, commencement and application[^c-5f7ac04c8b83cedbf166e1e952b0ab84]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f7ac04c8b83cedbf166e1e952b0ab84]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/219/regulation/1) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-5f7ac04c8b83cedbf166e1e952b0ab84]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/219/regulation/1) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Notice of postal administration order[^key-2a99dd19328f15c6465297c3c56550fb]
+## 13. Notice of postal administration order[^c-2a99dd19328f15c6465297c3c56550fb]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a99dd19328f15c6465297c3c56550fb]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2013/3208/rule/13) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2a99dd19328f15c6465297c3c56550fb]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2013/3208/rule/13) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

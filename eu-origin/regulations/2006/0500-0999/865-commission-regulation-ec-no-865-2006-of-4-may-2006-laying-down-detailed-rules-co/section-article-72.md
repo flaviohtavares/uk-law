@@ -24,10 +24,10 @@ summary: ''
 
 2. Exemptions granted from the prohibitions laid down in Article 6(1) of Regulation (EEC) No 3626/82 shall remain valid until their last day of validity, where specified.
 
-3.[^key-1e2879e2e38bcc63b524d9828e050777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-1e2879e2e38bcc63b524d9828e050777] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^f00005]: Footnote: [OJ L 344, 7.12.1983, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1983.344.01.0001.01.ENG).
 
-[^key-1e2879e2e38bcc63b524d9828e050777]: Textual amendment: [Art. 72(3)](https://www.legislation.gov.uk/eur/2006/865/article/72/3) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(70)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/70)
+[^c-1e2879e2e38bcc63b524d9828e050777]: Textual amendment: [Art. 72(3)](https://www.legislation.gov.uk/eur/2006/865/article/72/3) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(70)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/70)

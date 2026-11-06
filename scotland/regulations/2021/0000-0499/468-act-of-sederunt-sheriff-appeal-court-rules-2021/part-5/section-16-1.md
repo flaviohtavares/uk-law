@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16.1. Application of this Chapter[^key-bd544f2472c9a5a51ee6e5acc5d198ea]
+## 16.1. Application of this Chapter[^c-bd544f2472c9a5a51ee6e5acc5d198ea]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies to any application to the Court that is made by minute, oth
 
 ## Annotations
 
-[^key-bd544f2472c9a5a51ee6e5acc5d198ea]: Commencement: Para. 16.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-bd544f2472c9a5a51ee6e5acc5d198ea]: Commencement: Para. 16.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

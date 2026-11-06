@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Code of Practice[^key-046baa6a45bc6ff428d242f8d374eddf]
+## 69. Code of Practice[^c-046baa6a45bc6ff428d242f8d374eddf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A code of practice in operation under sectionÂ 410 of the Proceeds of Crime ActÂ
 
 ## Annotations
 
-[^key-046baa6a45bc6ff428d242f8d374eddf]: Textual amendment: [Art. 69](https://www.legislation.gov.uk/uksi/2013/2605/article/69) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [26](https://www.legislation.gov.uk/uksi/2015/1751/article/26)
+[^c-046baa6a45bc6ff428d242f8d374eddf]: Textual amendment: [Art. 69](https://www.legislation.gov.uk/uksi/2013/2605/article/69) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [26](https://www.legislation.gov.uk/uksi/2015/1751/article/26)

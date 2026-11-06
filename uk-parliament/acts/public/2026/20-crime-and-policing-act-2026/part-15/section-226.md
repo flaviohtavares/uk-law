@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Appeal against youth diversion order etc[^key-20fd3bb1016a02a562067373ac2f1493]
+## 226. Appeal against youth diversion order etc[^c-20fd3bb1016a02a562067373ac2f1493]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) such orders as may be necessary to give effect to its determination of the appeal, and
 - (b) such incidental and consequential orders as appear to it to be appropriate.
 
-(4)[^key-6be5116590f5c4268bd80cfab63c4863] Rules of court may provide that an appeal from a decision—
+(4)[^c-6be5116590f5c4268bd80cfab63c4863] Rules of court may provide that an appeal from a decision—
 
 - (a) to dismiss an application for a youth diversion order made without notice being given to the respondent, or
 - (b) to refuse to make an interim youth diversion order when adjourning proceedings following such an application,
@@ -46,6 +46,6 @@ may be made without notice being given to the respondent.
 
 ## Annotations
 
-[^key-20fd3bb1016a02a562067373ac2f1493]: Commencement: S. 226 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-20fd3bb1016a02a562067373ac2f1493]: Commencement: S. 226 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6be5116590f5c4268bd80cfab63c4863]: Commencement: [S. 226(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/226/4) in force at 29.6.2026 for E.W.S. by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z3)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z3)
+[^c-6be5116590f5c4268bd80cfab63c4863]: Commencement: [S. 226(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/226/4) in force at 29.6.2026 for E.W.S. by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z3)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z3)

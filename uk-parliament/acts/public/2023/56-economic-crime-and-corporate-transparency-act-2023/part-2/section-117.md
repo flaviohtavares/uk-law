@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. A limited partnership’s registered email address: transitional provision[^key-85f5b04eee3c14a828f310f9721833ea]
+## 117. A limited partnership’s registered email address: transitional provision[^c-85f5b04eee3c14a828f310f9721833ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85f5b04eee3c14a828f310f9721833ea]: Commencement: S. 117 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-85f5b04eee3c14a828f310f9721833ea]: Commencement: S. 117 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

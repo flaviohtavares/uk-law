@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78B. Identification of Essential Care Supporter[^key-ce9d14d652081f913c20eb5547dd753f]
+## 78B. Identification of Essential Care Supporter[^c-ce9d14d652081f913c20eb5547dd753f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9d14d652081f913c20eb5547dd753f]: Textual amendment: [Ss. 78B-78G](https://www.legislation.gov.uk/asp/2010/8/section/78B) and cross-heading inserted (7.1.2026 for specified purposes, 31.3.2026 in so far as not already in force) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 14(2)](https://www.legislation.gov.uk/asp/2025/9/section/14/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)
+[^c-ce9d14d652081f913c20eb5547dd753f]: Textual amendment: [Ss. 78B-78G](https://www.legislation.gov.uk/asp/2010/8/section/78B) and cross-heading inserted (7.1.2026 for specified purposes, 31.3.2026 in so far as not already in force) by [Care Reform (Scotland) Act 2025 (asp 9)](https://www.legislation.gov.uk/asp/2025/9), [ss. 14(2)](https://www.legislation.gov.uk/asp/2025/9/section/14/2), [39(2)](https://www.legislation.gov.uk/asp/2025/9/section/39/2); [S.S.I. 2025/388](https://www.legislation.gov.uk/ssi/2025/388), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/388/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/388/schedule/part/1)

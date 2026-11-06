@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Power to construct and maintain works[^key-eec658b13d65428f10cdfa0ad66b7087]
+## 3. Power to construct and maintain works[^c-eec658b13d65428f10cdfa0ad66b7087]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eec658b13d65428f10cdfa0ad66b7087]: Commencement: Art. 3 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-eec658b13d65428f10cdfa0ad66b7087]: Commencement: Art. 3 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00012]: Footnote: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).

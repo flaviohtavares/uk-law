@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87A. Charges for supply of single-use items[^key-10aa014b5d79a051262d6459ed3e85c3]
+## 87A. Charges for supply of single-use items[^c-10aa014b5d79a051262d6459ed3e85c3]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10aa014b5d79a051262d6459ed3e85c3]: Textual amendment: S. 87A and cross-heading inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(4)](https://www.legislation.gov.uk/asp/2024/13/section/10/4), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)
+[^c-10aa014b5d79a051262d6459ed3e85c3]: Textual amendment: S. 87A and cross-heading inserted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 10(4)](https://www.legislation.gov.uk/asp/2024/13/section/10/4), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/a)

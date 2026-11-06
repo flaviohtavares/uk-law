@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Competitive tenders for licences[^key-708b787a945ff9c4759b4d579867023f]
+## 10. Competitive tenders for licences[^c-708b787a945ff9c4759b4d579867023f]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ and must consider any representations duly made and not withdrawn.
 
 ## Annotations
 
-[^key-708b787a945ff9c4759b4d579867023f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/52/section/10) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-708b787a945ff9c4759b4d579867023f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/52/section/10) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

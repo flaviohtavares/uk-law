@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. General offences in connection with administration of Act.[^key-5a988c4ca2a9354185024e11cc2a88df][^key-d66e253535507db4fe9d2195c8a81d09]
+## 26. General offences in connection with administration of Act.[^c-5a988c4ca2a9354185024e11cc2a88df][^c-d66e253535507db4fe9d2195c8a81d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (e) if, without reasonable excuse, he fails to complete and produce a landing or embarkation card in accordance with any order under Schedule 2 to this Act;
 - (f)[^c9590241] if, without reasonable excuse, he fails to comply with any requirement of regulations under section 4(3) or of an order under section 4(4) above;
 - (g) if, without reasonable excuse, he obstructs an immigration officer or other person lawfully acting in the execution of this Act.
-- (h)[^key-5d014ef3e5d6a6c67485688fbb7c7959] if, without reasonable excuse, the person fails to comply with a direction under paragraph 1(6) of Schedule 2 (direction to move a container for purposes of a search).
+- (h)[^c-5d014ef3e5d6a6c67485688fbb7c7959] if, without reasonable excuse, the person fails to comply with a direction under paragraph 1(6) of Schedule 2 (direction to move a container for purposes of a search).
 
 (2) The extended time limit for prosecutions which is provided for by section 28 below shall apply to offences under subsection (1)(c) and (d) above.
 
@@ -43,9 +43,9 @@ summary: ''
 
 ## Annotations
 
-[^key-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-5a988c4ca2a9354185024e11cc2a88df]: Modification: Ss. 24-29: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
-[^key-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))
+[^c-d66e253535507db4fe9d2195c8a81d09]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1971/77/part/3) modified by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 33C(6)](https://www.legislation.gov.uk/ukpga/2014/22/section/33C/6) (as inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c))
 
 [^c9590191]: Textual amendment: Words in s. 26(1) substituted (1.10.1996) by [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49), [s. 6](https://www.legislation.gov.uk/ukpga/1996/49/section/6); [S.I. 1996/2053](https://www.legislation.gov.uk/uksi/1996/2053), [art. 2](https://www.legislation.gov.uk/uksi/1996/2053/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/2053/schedule/part/III)
 
@@ -59,7 +59,7 @@ summary: ''
 
 [^c9590241]: Modification: S. 26(1)(f) amended (S.) by [Criminal Justice (Scotland) Act 1980 (c. 62)](https://www.legislation.gov.uk/ukpga/1980/62), [s. 26](https://www.legislation.gov.uk/ukpga/1980/62/section/26), [Sch. 1](https://www.legislation.gov.uk/ukpga/1980/62/schedule/1)
 
-[^key-5d014ef3e5d6a6c67485688fbb7c7959]: Textual amendment: [S. 26(1)(h)](https://www.legislation.gov.uk/ukpga/1971/77/section/26/1/h) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/44/4), [87(5)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/f)
+[^c-5d014ef3e5d6a6c67485688fbb7c7959]: Textual amendment: [S. 26(1)(h)](https://www.legislation.gov.uk/ukpga/1971/77/section/26/1/h) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 44(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/44/4), [87(5)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/f)
 
 [^c9590251]: Textual amendment: S. 26(3) inserted (14.2.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 30(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/30/1/3); [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (which amending provision is extended (with modifications) to Jersey (5.6.2003) by [S.I. 2003/1252](https://www.legislation.gov.uk/uksi/2003/1252), [art. 2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule))
 

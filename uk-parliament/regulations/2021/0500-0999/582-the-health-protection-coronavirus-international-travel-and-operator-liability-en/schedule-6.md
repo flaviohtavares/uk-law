@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Passenger information[^key-1727cc7e9b7deeb37438179fa5ee3643]
+## SCHEDULE 6 — Passenger information[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Regulation 3(1)
 
-### PART 1 — Information to be provided by all passengers[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 1 — Information to be provided by all passengers[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
-**1.**[^key-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Information to be provided by eligible travellers only[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 2 — Information to be provided by eligible travellers only[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
-**3A.**[^key-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3A.**[^c-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Information to be provided by passengers other than eligible travellers only[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### PART 3 — Information to be provided by passengers other than eligible travellers only[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
-**4.**[^key-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1727cc7e9b7deeb37438179fa5ee3643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)
+[^c-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)

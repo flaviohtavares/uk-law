@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Prohibition of the carriage of certain explosives[^key-18a6e3c396931f001a1dbc302daeba0b]
+## 7. Prohibition of the carriage of certain explosives[^c-18a6e3c396931f001a1dbc302daeba0b]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ in a vehicle other than in a load which is under sole use.
 
 ## Annotations
 
-[^key-18a6e3c396931f001a1dbc302daeba0b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/474/regulation/7) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-18a6e3c396931f001a1dbc302daeba0b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/474/regulation/7) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

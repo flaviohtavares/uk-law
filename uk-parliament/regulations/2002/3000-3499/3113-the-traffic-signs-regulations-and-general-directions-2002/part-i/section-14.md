@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Signs attached to vehicles (affected by repeal, see note)[^key-43ba086f5de787d5b7d46368ba599e18][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+## 14. Signs attached to vehicles (affected by repeal, see note)[^c-43ba086f5de787d5b7d46368ba599e18][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
-(1) Any sign attached to a vehicle of the description specified in column (2) of an item in the Table and in the position on that vehicle specified in column (3) of the item, when the vehicle is on a road which is subject to a maximum speed limit specified in column (4) of that item, shall be of the size, colour and type shown in a diagram specified in column (5). *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(1) Any sign attached to a vehicle of the description specified in column (2) of an item in the Table and in the position on that vehicle specified in column (3) of the item, when the vehicle is on a road which is subject to a maximum speed limit specified in column (4) of that item, shall be of the size, colour and type shown in a diagram specified in column (5). *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-**Table *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]**
+**Table *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]**
 
 <table>
 <thead>
@@ -38,17 +38,17 @@ summary: ''
 </tbody>
 </table>
 
-[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(2) The operating requirements for the lamps that form part of the signs shown in diagrams 7402 and 7403 are that— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(2) The operating requirements for the lamps that form part of the signs shown in diagrams 7402 and 7403 are that— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-- (a) the lamps shall be illuminated only when the signs are being used in accordance with the Table; and *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- (b) each lamp shall show an intermittent amber light at a rate of flashing of not less than 60 nor more than 90 flashes per minute, and in such a manner that the lights of one horizontal pair are always shown when the lights of the other horizontal pair are not shown. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+- (a) the lamps shall be illuminated only when the signs are being used in accordance with the Table; and *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- (b) each lamp shall show an intermittent amber light at a rate of flashing of not less than 60 nor more than 90 flashes per minute, and in such a manner that the lights of one horizontal pair are always shown when the lights of the other horizontal pair are not shown. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(3) A sign attached to the rear of a vehicle used to escort traffic through road works, and indicating that the vehicle should not be overtaken, shall be of the size, colour and type shown in diagram 7029. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(3) A sign attached to the rear of a vehicle used to escort traffic through road works, and indicating that the vehicle should not be overtaken, shall be of the size, colour and type shown in diagram 7029. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
 ## Annotations
 
-[^key-43ba086f5de787d5b7d46368ba599e18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2002/3113/regulation/14) in force at 31.1.2003, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/regulation/1/b)
+[^c-43ba086f5de787d5b7d46368ba599e18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2002/3113/regulation/14) in force at 31.1.2003, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/regulation/1/b)
 
-[^key-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))
+[^c-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))

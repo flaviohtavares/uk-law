@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191.[^key-a3a3701bb8a52bb7a251e08668ad8221]
+## 191.[^c-a3a3701bb8a52bb7a251e08668ad8221]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 628 (exception for gifts to charities), in subsection (3)(b), for “
 
 ## Annotations
 
-[^key-a3a3701bb8a52bb7a251e08668ad8221]: Commencement: Reg. 191 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-a3a3701bb8a52bb7a251e08668ad8221]: Commencement: Reg. 191 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Dentists Act 1984[^key-e746368f7de625189d85a34443b9e204]
+## 2. Amendment of the Dentists Act 1984[^c-e746368f7de625189d85a34443b9e204]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e746368f7de625189d85a34443b9e204]: Commencement: Art. 2 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-e746368f7de625189d85a34443b9e204]: Commencement: Art. 2 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

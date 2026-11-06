@@ -26,12 +26,12 @@ summary: ''
 
 (3) The equipment in Schedule 6 must be—
 
-- (a) of a type approved by [^key-3bc17aceec89a42ccbc0e029e20b75fb]... the CAA either generally or in relation to a class of aircraft or in relation to that aircraft, unless it is equipment listed in paragraph 3 of that Schedule; and
-- (b) installed in a manner approved by [^key-3bc17aceec89a42ccbc0e029e20b75fb]... the CAA.
+- (a) of a type approved by [^c-3bc17aceec89a42ccbc0e029e20b75fb]... the CAA either generally or in relation to a class of aircraft or in relation to that aircraft, unless it is equipment listed in paragraph 3 of that Schedule; and
+- (b) installed in a manner approved by [^c-3bc17aceec89a42ccbc0e029e20b75fb]... the CAA.
 
 (4) The equipment carried in compliance with this article must be installed or stowed and kept stowed, maintained and adjusted, so as to be readily accessible and capable of being used by the person for whose use it is intended.
 
-(4A)[^key-584b7d1e88de168dc4d00c4cfe734fcc] Any equipment installed or carried in an aircraft must be installed, carried, maintained and adjusted so that such equipment—
+(4A)[^c-584b7d1e88de168dc4d00c4cfe734fcc] Any equipment installed or carried in an aircraft must be installed, carried, maintained and adjusted so that such equipment—
 
 - (a) does not impair the airworthiness of the aircraft or the proper functioning of any other instrument or equipment necessary for the safety of the aircraft; and
 - (b) is not a source of danger to the aircraft.
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bc17aceec89a42ccbc0e029e20b75fb]: Textual amendment: Words in [art. 119(3)](https://www.legislation.gov.uk/uksi/2016/765/article/119/3) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/30) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bc17aceec89a42ccbc0e029e20b75fb]: Textual amendment: Words in [art. 119(3)](https://www.legislation.gov.uk/uksi/2016/765/article/119/3) omitted (31.12.2020) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/30) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-584b7d1e88de168dc4d00c4cfe734fcc]: Textual amendment: [Art. 119(4A)](https://www.legislation.gov.uk/uksi/2016/765/article/119/4A) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [26](https://www.legislation.gov.uk/uksi/2017/1112/article/26)
+[^c-584b7d1e88de168dc4d00c4cfe734fcc]: Textual amendment: [Art. 119(4A)](https://www.legislation.gov.uk/uksi/2016/765/article/119/4A) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [26](https://www.legislation.gov.uk/uksi/2017/1112/article/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Further information orders[^key-ededed5541b3d62bba40013c24c83069][^c22725161]
+## 12. Further information orders[^c-ededed5541b3d62bba40013c24c83069][^c22725161]
 
 *Extent: E+W+S+N.I.*
 
@@ -132,6 +132,6 @@ After section 339ZG of the Proceeds of Crime Act 2002 (inserted by section 11 ab
 
 ## Annotations
 
-[^key-ededed5541b3d62bba40013c24c83069]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/22/section/12) in force at 31.10.2017 in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/2))
+[^c-ededed5541b3d62bba40013c24c83069]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/22/section/12) in force at 31.10.2017 in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/2))
 
 [^c22725161]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/22/section/12) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

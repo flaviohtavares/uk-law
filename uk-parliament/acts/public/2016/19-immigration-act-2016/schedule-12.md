@@ -30,7 +30,7 @@ Section 68
 
 (2) In sub-paragraph (1) (excluded support or assistance) after paragraph (g) insert—
 
-> - (ga) in relation only to a person in England to whom this paragraph applies by virtue of paragraph 4[^key-845dc5e800385c04b9f76e0ec7fa6472]... or 7B—
+> - (ga) in relation only to a person in England to whom this paragraph applies by virtue of paragraph 4[^c-845dc5e800385c04b9f76e0ec7fa6472]... or 7B—
 >   - (i) section 23CZA of that Act (arrangements for certain former relevant children to continue to live with former foster parents), or
 >   - (ii) regulations under section 23D of that Act (personal advisers),
 
@@ -40,7 +40,7 @@ Section 68
 
 (4) After sub-paragraph (2) insert—
 
-> (2A) In the case of the provisions referred to in sub-paragraph (1)(ga), sub-paragraph (2) applies only in relation to a person in England to whom this paragraph applies by virtue of paragraph 4[^key-6458de77908128a212b6e5b453292be6]... or 7B.
+> (2A) In the case of the provisions referred to in sub-paragraph (1)(ga), sub-paragraph (2) applies only in relation to a person in England to whom this paragraph applies by virtue of paragraph 4[^c-6458de77908128a212b6e5b453292be6]... or 7B.
 
 **3.** After paragraph 1 insert—
 
@@ -141,15 +141,15 @@ Section 68
 >
 > (2) Paragraph 1 also applies to a dependant of a person to whom that paragraph applies by virtue of sub-paragraph (1).
 >
-> **...[^key-99de3445c77a1bec45fa007d5c81368b]**
+> **...[^c-99de3445c77a1bec45fa007d5c81368b]**
 >
-> [^key-99de3445c77a1bec45fa007d5c81368b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> [^c-99de3445c77a1bec45fa007d5c81368b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** After paragraph 10 insert—
 
 > **Accommodation and subsistence etc: England**
 >
-> **10A.** (1) The Secretary of State may make regulations providing for arrangements to be made for support to be provided to a person to whom paragraph 1 applies by virtue of paragraph 7B(1) [^key-22503b6d066502983a7d37f4f7322077]... and—
+> **10A.** (1) The Secretary of State may make regulations providing for arrangements to be made for support to be provided to a person to whom paragraph 1 applies by virtue of paragraph 7B(1) [^c-22503b6d066502983a7d37f4f7322077]... and—
 >
 > - (a) who is destitute,
 > - (b) who has with him a dependent child,
@@ -193,7 +193,7 @@ Section 68
 >
 > (9) The Secretary of State may make regulations providing for arrangements to be made for support to be provided to a person (“P”)—
 >
-> - (a) to whom paragraph 1 applies by virtue of paragraph 7B(1) [^key-22503b6d066502983a7d37f4f7322077]..., and
+> - (a) to whom paragraph 1 applies by virtue of paragraph 7B(1) [^c-22503b6d066502983a7d37f4f7322077]..., and
 > - (b) who it appears to a person specified in the regulations may be destitute,
 >
 > until a person by whom support may be provided under arrangements by virtue of sub-paragraph (1) is able to determine whether such support should be provided to P.
@@ -280,7 +280,7 @@ Section 68
 
 **12.** In paragraph 13 (offences), in sub-paragraphs (1)(b) and (2)(a), for “or 10” substitute “ , 10, 10A or 10B ”.
 
-**13.** In paragraph 14 (information), in sub-paragraphs (1) and (2), for “or 7” (as substituted by paragraph 26(8)(b) of Schedule 11) substitute “, 7 or 7B[^key-5b82c86502917c24c66bc51340f51130]”.
+**13.** In paragraph 14 (information), in sub-paragraphs (1) and (2), for “or 7” (as substituted by paragraph 26(8)(b) of Schedule 11) substitute “, 7 or 7B[^c-5b82c86502917c24c66bc51340f51130]”.
 
 **14.** (1) Paragraph 15 (power to amend Schedule 3) is amended as follows.
 
@@ -310,12 +310,12 @@ Section 68
 
 ## Annotations
 
-[^key-845dc5e800385c04b9f76e0ec7fa6472]: Textual amendment: Word in [Sch. 12 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/12/paragraph/2/2) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/a)
+[^c-845dc5e800385c04b9f76e0ec7fa6472]: Textual amendment: Word in [Sch. 12 para. 2(2)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/12/paragraph/2/2) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/a)
 
-[^key-6458de77908128a212b6e5b453292be6]: Textual amendment: Word in [Sch. 12 para. 2(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/12/paragraph/2/4) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/b)
+[^c-6458de77908128a212b6e5b453292be6]: Textual amendment: Word in [Sch. 12 para. 2(4)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/12/paragraph/2/4) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/b)
 
-[^key-99de3445c77a1bec45fa007d5c81368b]: Textual amendment: Words in [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/12/paragraph/9) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/23/2)
+[^c-99de3445c77a1bec45fa007d5c81368b]: Textual amendment: Words in [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/12/paragraph/9) omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/23/2)
 
-[^key-22503b6d066502983a7d37f4f7322077]: Textual amendment: Words in Sch. 12 para. 10 omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/c)
+[^c-22503b6d066502983a7d37f4f7322077]: Textual amendment: Words in Sch. 12 para. 10 omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/c)
 
-[^key-5b82c86502917c24c66bc51340f51130]: Textual amendment: Words in Sch. 12 para. 13 substituted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/d)
+[^c-5b82c86502917c24c66bc51340f51130]: Textual amendment: Words in Sch. 12 para. 13 substituted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [Sch. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/2020/1309/schedule/1/paragraph/3/d)

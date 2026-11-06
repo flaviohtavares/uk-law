@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Authorisation by Land Court of acquisition of croft land: breach of duty[^key-ad42e88aeb34cdbb2b47bad591f9bc13]
+## 15. Authorisation by Land Court of acquisition of croft land: breach of duty[^c-ad42e88aeb34cdbb2b47bad591f9bc13]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad42e88aeb34cdbb2b47bad591f9bc13]: Commencement: S. 15 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-ad42e88aeb34cdbb2b47bad591f9bc13]: Commencement: S. 15 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

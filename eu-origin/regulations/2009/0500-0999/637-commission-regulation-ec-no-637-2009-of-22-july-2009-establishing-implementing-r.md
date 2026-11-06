@@ -38,40 +38,40 @@ establishing implementing rules as to the suitability of the denominations of va
 
 (Text with EEA relevance) (revoked)
 
-[^key-0c0b8c0873fc99be30cd81846f64a911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c0b8c0873fc99be30cd81846f64a911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-0c0b8c0873fc99be30cd81846f64a911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c0b8c0873fc99be30cd81846f64a911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c0b8c0873fc99be30cd81846f64a911]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — CLOSELY RELATED SPECIES[^key-0c0b8c0873fc99be30cd81846f64a911]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-0c0b8c0873fc99be30cd81846f64a911]
+## ANNEX I — CLOSELY RELATED SPECIES[^c-0c0b8c0873fc99be30cd81846f64a911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-0c0b8c0873fc99be30cd81846f64a911]
+## ANNEX II[^c-0c0b8c0873fc99be30cd81846f64a911]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-0c0b8c0873fc99be30cd81846f64a911]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c0b8c0873fc99be30cd81846f64a911]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c0b8c0873fc99be30cd81846f64a911]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -29,12 +29,12 @@ summary: ''
 - (e) an industrial tractor;
 - (f) an agricultural motor vehicle which is not an agricultural or forestry tractor;
 - (g) a digging machine;
-- (h) a goods vehicle which, in so far as it is used on public roads[^key-c5da1b34417491935295d3b8bb5bde3f]—
+- (h) a goods vehicle which, in so far as it is used on public roads[^c-c5da1b34417491935295d3b8bb5bde3f]—
   - (i) is used only in passing from land in the occupation of a person keeping the vehicle to other land in the occupation of that person, and
-  - (ii) is not used on public roads[^key-517048ef8df40ef85d3820d161a08143] for distances exceeding an aggregate of 9.7 kilometres in any calendar week;
+  - (ii) is not used on public roads[^c-517048ef8df40ef85d3820d161a08143] for distances exceeding an aggregate of 9.7 kilometres in any calendar week;
 - (j) a goods vehicle, other than an agricultural motor vehicle, which—
   - (i) is used only for purposes relating to agriculture, horticulture or forestry,
-  - (ii) is used on public roads[^key-e1796639bc2a1809a0b2a0befd2871a8] only in passing between different areas of land occupied by the same person, and
+  - (ii) is used on public roads[^c-e1796639bc2a1809a0b2a0befd2871a8] only in passing between different areas of land occupied by the same person, and
   - (iii) in passing between any two such areas does not travel a distance exceeding 1.5 kilometres on public roads;
 - (k) a goods vehicle used for no other purpose than the haulage of lifeboats and the conveyance of the necessary gear of the lifeboats which are being hauled;
 - (l) a goods vehicle manufacturered before 1st January 1960, used unladen and not drawing a laden trailer;
@@ -66,11 +66,11 @@ summary: ''
 
 ## Annotations
 
-[^key-c5da1b34417491935295d3b8bb5bde3f]: Textual amendment: Words in reg. 51(1)(h) substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2003/166/regulation/4/a/i)
+[^c-c5da1b34417491935295d3b8bb5bde3f]: Textual amendment: Words in reg. 51(1)(h) substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2003/166/regulation/4/a/i)
 
-[^key-517048ef8df40ef85d3820d161a08143]: Textual amendment: Words in reg. 51(1)(h) substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2003/166/regulation/4/a/ii)
+[^c-517048ef8df40ef85d3820d161a08143]: Textual amendment: Words in reg. 51(1)(h) substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2003/166/regulation/4/a/ii)
 
-[^key-e1796639bc2a1809a0b2a0befd2871a8]: Textual amendment: Words in reg. 51(1)(j) substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2003/166/regulation/4/b)
+[^c-e1796639bc2a1809a0b2a0befd2871a8]: Textual amendment: Words in reg. 51(1)(j) substituted (21.2.2003) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2003 (S.I. 2003/166)](https://www.legislation.gov.uk/uksi/2003/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/166/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2003/166/regulation/4/b)
 
 [^c16598751]: Textual amendment: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536).
 

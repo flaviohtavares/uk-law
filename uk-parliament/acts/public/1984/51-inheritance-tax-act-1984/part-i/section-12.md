@@ -43,7 +43,7 @@ summary: ''
 
 (2G) In this section—
 
-- “**entitled**”, in relation to a pension or lump sum, shall be construed in accordance with section 165(3) or 167(1A), or section 166(2),[^key-30d508bdc37da92b209154355db6bac6] of the Finance Act 2004;
+- “**entitled**”, in relation to a pension or lump sum, shall be construed in accordance with section 165(3) or 167(1A), or section 166(2),[^c-30d508bdc37da92b209154355db6bac6] of the Finance Act 2004;
 - [^c21421101]. . .
 - “**pension**” has the same meaning as in Part 4[^c21421141] of that Act (see section 165(2) of that Act);
 - [^c21421101]. . .
@@ -71,7 +71,7 @@ summary: ''
 
 [^c21420981]: Textual amendment: S. 12(2F)(b) and preceding word omitted (with effect as mentioned in Sch. 16 paras. 85, 105 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 65](https://www.legislation.gov.uk/ukpga/2011/11/section/65), [Sch. 16 para. 50(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/50/2)
 
-[^key-30d508bdc37da92b209154355db6bac6]: Textual amendment: Words in s. 12(2G) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/94/3)
+[^c-30d508bdc37da92b209154355db6bac6]: Textual amendment: Words in s. 12(2G) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/94/3)
 
 [^c21421101]: Textual amendment: Words in s. 12(2G) omitted (with effect as mentioned in Sch. 16 paras. 85, 105 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 65](https://www.legislation.gov.uk/ukpga/2011/11/section/65), [Sch. 16 para. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/50/3/a)
 

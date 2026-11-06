@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Charges for services or facilities[^key-5e1b4a3dc7149e51fc04959e683c4ee8]
+## 40. Charges for services or facilities[^c-5e1b4a3dc7149e51fc04959e683c4ee8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In addition to article 39 (charges other than ship, passenger and goods dues) of
 
 ## Annotations
 
-[^key-5e1b4a3dc7149e51fc04959e683c4ee8]: Commencement: Art. 40 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-5e1b4a3dc7149e51fc04959e683c4ee8]: Commencement: Art. 40 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

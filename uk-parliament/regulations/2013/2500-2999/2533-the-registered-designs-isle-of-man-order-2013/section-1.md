@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-0aea78f01eef99c4259f69282ec31bce]
+## 1. Citation and commencement[^c-0aea78f01eef99c4259f69282ec31bce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Registered Designs (Isle of Man) Order 2013 and s
 
 ## Annotations
 
-[^key-0aea78f01eef99c4259f69282ec31bce]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-0aea78f01eef99c4259f69282ec31bce]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)

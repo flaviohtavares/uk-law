@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Statutory undertakers[^key-06cc7c2f3a7c5ccfb04dac707acddbfb]
+## 30. Statutory undertakers[^c-06cc7c2f3a7c5ccfb04dac707acddbfb]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The undertaker may—
 
 ## Annotations
 
-[^key-06cc7c2f3a7c5ccfb04dac707acddbfb]: Commencement: Art. 30 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-06cc7c2f3a7c5ccfb04dac707acddbfb]: Commencement: Art. 30 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

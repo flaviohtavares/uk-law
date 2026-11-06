@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Civil penalties[^key-bd0ceae6154b99e78ddc2403acc31d78]
+## 83. Civil penalties[^c-bd0ceae6154b99e78ddc2403acc31d78]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0ceae6154b99e78ddc2403acc31d78]: Commencement: [S. 83](https://www.legislation.gov.uk/mwa/2011/1/section/83) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-bd0ceae6154b99e78ddc2403acc31d78]: Commencement: [S. 83](https://www.legislation.gov.uk/mwa/2011/1/section/83) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

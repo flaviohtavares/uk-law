@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Power to amend licence conditions etc: load control[^key-c86834aecdaef1fec18cf201db7925c2][^key-630f5164da7fdd1b086886f89fb46d44]
+## 245. Power to amend licence conditions etc: load control[^c-c86834aecdaef1fec18cf201db7925c2][^c-630f5164da7fdd1b086886f89fb46d44]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c86834aecdaef1fec18cf201db7925c2]: Commencement: S. 245 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-c86834aecdaef1fec18cf201db7925c2]: Commencement: S. 245 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-630f5164da7fdd1b086886f89fb46d44]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2023/52/section/245) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-630f5164da7fdd1b086886f89fb46d44]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2023/52/section/245) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Notices and records in relation to seized items[^key-699adc6608854cd6eec60215a07c81ab]
+## 46. Notices and records in relation to seized items[^c-699adc6608854cd6eec60215a07c81ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the officer must leave a copy of the notice in a prominent place on the premises
 
 ## Annotations
 
-[^key-699adc6608854cd6eec60215a07c81ab]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/2/section/46) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-699adc6608854cd6eec60215a07c81ab]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2016/2/section/46) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

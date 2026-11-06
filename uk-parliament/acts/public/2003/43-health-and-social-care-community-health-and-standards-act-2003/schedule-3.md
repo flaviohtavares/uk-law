@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Transfer of staff[^key-7f5525a74cd056138d1a66e1133ccb21]
+## SCHEDULE 3 — Transfer of staff[^c-7f5525a74cd056138d1a66e1133ccb21]
 
 *Extent: E+W*
 
@@ -24,28 +24,28 @@ Section 25
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7f5525a74cd056138d1a66e1133ccb21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7f5525a74cd056138d1a66e1133ccb21]: Textual amendment: Sch. 3 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-7f5525a74cd056138d1a66e1133ccb21]: Textual amendment: Sch. 3 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))

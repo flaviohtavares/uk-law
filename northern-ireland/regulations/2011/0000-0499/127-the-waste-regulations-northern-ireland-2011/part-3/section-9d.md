@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9D. Modification of the Waste Framework Directive[^key-d0abcf56d4bb11c7ff3bed246d3cdaab]
+## 9D. Modification of the Waste Framework Directive[^c-d0abcf56d4bb11c7ff3bed246d3cdaab]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) In Article 2—
 
 - (a) in paragraph 2—
-  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^key-117e69e658a0c75fbd7539ec82ddd145] law ”;
+  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^c-117e69e658a0c75fbd7539ec82ddd145] law ”;
   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”; and
   - (iii) in point (d), for “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there were substituted “ the Mining Waste Directive ”;
 - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted; and
@@ -55,7 +55,7 @@ summary: ''
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-56a2b0a9c28519e8e6711cc4187f8752] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-56a2b0a9c28519e8e6711cc4187f8752] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the appropriate authority for the purposes of this Article.
 
   ;
@@ -116,8 +116,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d0abcf56d4bb11c7ff3bed246d3cdaab]: Textual amendment: [Regs. 9A-9E](https://www.legislation.gov.uk/nisr/2011/127/regulation/9A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/271)](https://www.legislation.gov.uk/uksi/2019/271), [regs. 1](https://www.legislation.gov.uk/uksi/2019/271/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/271/regulation/5/3) (as amended by [S.I. 2019/1443](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1443/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.R. 2020/284](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/5))
+[^c-d0abcf56d4bb11c7ff3bed246d3cdaab]: Textual amendment: [Regs. 9A-9E](https://www.legislation.gov.uk/nisr/2011/127/regulation/9A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/271)](https://www.legislation.gov.uk/uksi/2019/271), [regs. 1](https://www.legislation.gov.uk/uksi/2019/271/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/271/regulation/5/3) (as amended by [S.I. 2019/1443](https://www.legislation.gov.uk/uksi/2019/1443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1443/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1443/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.R. 2020/284](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/2)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/4/5))
 
-[^key-117e69e658a0c75fbd7539ec82ddd145]: Textual amendment: Word in [reg. 9D(3)(a)(i)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9D/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/b)
+[^c-117e69e658a0c75fbd7539ec82ddd145]: Textual amendment: Word in [reg. 9D(3)(a)(i)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9D/3/a/i) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/b)
 
-[^key-56a2b0a9c28519e8e6711cc4187f8752]: Textual amendment: Words in [reg. 9D(6)(b)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9D/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/c)
+[^c-56a2b0a9c28519e8e6711cc4187f8752]: Textual amendment: Words in [reg. 9D(6)(b)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9D/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 21(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/21/c)

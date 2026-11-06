@@ -67,7 +67,7 @@ These Regulations come into force—
 
 ## PART 1 — Amendment of secondary legislation
 
-### 3. Amendments which take effect before exit day[^key-794b88518670c17da40ce94921b6c976]
+### 3. Amendments which take effect before exit day[^c-794b88518670c17da40ce94921b6c976]
 
 (1) In each of the regulations specified in paragraph (2), omit the definition of “EEA Agreement” and for the definition of “EEA State” substitute—
 
@@ -79,11 +79,11 @@ These Regulations come into force—
 
 - (a) regulation 2(1) of the Merchant Shipping (Cargo Ship Construction) Regulations 1997 [^c23446361],
 - (b) regulation 1(2) of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 [^c23446371],
-- (c)[^key-04da0eebf12a1c3eeffadac81878829a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-04da0eebf12a1c3eeffadac81878829a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) regulation 2 of the Merchant Shipping (Radio Installations) Regulations 1998 [^c23446391],
 - (e) regulation 2(2) of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998 [^c23446401],
 - (f) regulation 2(2) of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 [^c23446411],
-- (g)[^key-ee496d147be09ac922d8386daebbc3cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-ee496d147be09ac922d8386daebbc3cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) regulation 2(2) of the Merchant Shipping (Life-Saving Appliances for Ships Other than Ships of Classes III to VI(A)) Regulations 1999 [^c23446431],
 - (i) regulation 2(2) of the Merchant Shipping (Life-Saving Appliances For Passenger Ships of Classes III To VI(A)) Regulations 1999 [^c23446441], and
 - (j) regulation 2(1) of the Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004 [^c23446451].
@@ -99,15 +99,15 @@ These Regulations come into force—
 - (a) regulation 1(2) of the Merchant Shipping (Registration of Ships) Regulations 1993 [^c23446461], and
 - (b) regulation 2(1) of the Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001 [^c23446471].
 
-(5)[^key-6d16f073867f68edf0c1d06e3be6c765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6d16f073867f68edf0c1d06e3be6c765] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments on exit day[^key-b8caf621f30b360f161218f434b18b89]
+### 4. Amendments on exit day[^c-b8caf621f30b360f161218f434b18b89]
 
 The Schedule (amendments of secondary legislation on exit day) has effect.
 
 ## PART 2 — Revocation of retained EU law
 
-### 5. Revocation[^key-d87f4d9cf3729bcce9d431e84d05aad2]
+### 5. Revocation[^c-d87f4d9cf3729bcce9d431e84d05aad2]
 
 The following instruments are revoked—
 
@@ -142,7 +142,7 @@ Department for Transport
 
 Regulation 4
 
-### 1. Amendment of the Merchant Shipping (Registration of Ships) Regulations 1993[^key-235bd202f0a76a146fc7fa90a4b12918]
+### 1. Amendment of the Merchant Shipping (Registration of Ships) Regulations 1993[^c-235bd202f0a76a146fc7fa90a4b12918]
 
 (1) The Merchant Shipping (Registration of Ships) Regulations 1993 are amended as follows.
 
@@ -177,7 +177,7 @@ Regulation 4
 
 (8) In Schedule 4 (details to go on the register) in paragraph 2(e), omit “other than the United Kingdom”.
 
-### 2. Amendment of the Merchant Shipping (Gas Carriers) Regulations 1994[^key-3cea98b4e48216decf41e010774e138a]
+### 2. Amendment of the Merchant Shipping (Gas Carriers) Regulations 1994[^c-3cea98b4e48216decf41e010774e138a]
 
 (1) The Merchant Shipping (Gas Carriers) Regulations 1994 [^c23446491] are amended as follows.
 
@@ -189,7 +189,7 @@ Regulation 4
 
 (3) In regulation 7 (equivalents) in paragraph (2)(a) and (b) for “a member State” substitute “ an IMO Member State ”.
 
-### 3. Amendment of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^key-2abedd05af6ce6f8565aacbbd8e32087]
+### 3. Amendment of the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^c-2abedd05af6ce6f8565aacbbd8e32087]
 
 (1) The Merchant Shipping (Cargo Ship Construction) Regulations 1997 [^c23446501] are amended as follows.
 
@@ -197,7 +197,7 @@ Regulation 4
 
 (3) In regulation 57 (alternative construction, equipment and machinery) in paragraph (b) omit “other than the United Kingdom” in both places at which those words occur.
 
-### 4. Amendment of the Race Relations (Northern Ireland) Order 1997[^key-0bfb5cd052404e5534e5a964766ed63f]
+### 4. Amendment of the Race Relations (Northern Ireland) Order 1997[^c-0bfb5cd052404e5534e5a964766ed63f]
 
 In the Race Relations (Northern Ireland) Order 1997 [^c23446511] in Article 11 (seafarers)—
 
@@ -205,7 +205,7 @@ In the Race Relations (Northern Ireland) Order 1997 [^c23446511] in Article 11 (
 - (b) in paragraph (4)(b), omit “other than the United Kingdom”; and
 - (c) in paragraph (5)(b)(ii), for “another” substitute “ an ”.
 
-### 5. Amendment of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^key-71df515d497cfbd96d3b1fe35c7b9556]
+### 5. Amendment of the Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^c-71df515d497cfbd96d3b1fe35c7b9556]
 
 (1) The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998 are amended as follows.
 
@@ -226,15 +226,15 @@ In the Race Relations (Northern Ireland) Order 1997 [^c23446511] in Article 11 (
 
 (3) In regulation 46 (alternative construction and equivalents) in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
 
-### 6. Amendment of the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^key-de0962d90fa949fe3fd553e0fae6342b][^key-d10d5e1387d35d48c0f9f454d3ebcb7b]
+### 6. Amendment of the Merchant Shipping (Fire Protection: Large Ships) Regulations 1998[^c-de0962d90fa949fe3fd553e0fae6342b][^c-d10d5e1387d35d48c0f9f454d3ebcb7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^key-7137b283c1a4d61a324994c3344df918]
+### 7. Amendment of the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998[^c-7137b283c1a4d61a324994c3344df918]
 
 In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c23446521], in regulation 8 (equivalent standards) in paragraph (2) omit “other”.
 
-### 8. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^key-a80189f2aaf679cd0518d6d541e924df]
+### 8. Amendment of the Merchant Shipping (Radio Installations) Regulations 1998[^c-a80189f2aaf679cd0518d6d541e924df]
 
 (1) The Merchant Shipping (Radio Installations) Regulations 1998 are amended as follows.
 
@@ -246,7 +246,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 .
 
-### 9. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^key-03d90ff4d8e085a4584fe50ed0743d31]
+### 9. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998[^c-03d90ff4d8e085a4584fe50ed0743d31]
 
 (1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II and II(A)) Regulations 1998 are amended as follows.
 
@@ -267,7 +267,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 (3) In regulation 90 (alternative construction, equipment and machinery) in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
 
-### 10. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^key-d143847916ca36876c26c159e9920df7]
+### 10. Amendment of the Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998[^c-d143847916ca36876c26c159e9920df7]
 
 (1) The Merchant Shipping (Passenger Ship Construction: Ships of Classes III to VI(A)) Regulations 1998 are amended as follows.
 
@@ -288,19 +288,19 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 (3) In regulation 72 (alternative construction, equipment and machinery) in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
 
-### 11. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-f207d5613e62c3815a9b75cdd502e32f]
+### 11. Amendment of the Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^c-f207d5613e62c3815a9b75cdd502e32f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of the Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 1999[^key-096c303640e95d92c7bc3fd6a9fd64d6]
+### 12. Amendment of the Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 1999[^c-096c303640e95d92c7bc3fd6a9fd64d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of the Merchant Shipping (Life-Saving Appliances for Ships Other Than Ships of Classes III to VI(A)) Regulations 1999[^key-09e0c2ee24984c5da243784aec9d01d6]
+### 13. Amendment of the Merchant Shipping (Life-Saving Appliances for Ships Other Than Ships of Classes III to VI(A)) Regulations 1999[^c-09e0c2ee24984c5da243784aec9d01d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendment of the Merchant Shipping (Life-Saving Appliances For Passenger Ships Of Classes III To VI(A)) Regulations 1999[^key-68efcf3fdb4ba463acd3aa9f83f93ea6]
+### 14. Amendment of the Merchant Shipping (Life-Saving Appliances For Passenger Ships Of Classes III To VI(A)) Regulations 1999[^c-68efcf3fdb4ba463acd3aa9f83f93ea6]
 
 (1) The Merchant Shipping (Life-Saving Appliances For Passenger Ships Of Classes III To VI(A)) Regulations 1999 are amended as follows.
 
@@ -308,7 +308,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 (3) In regulation 23 (equivalents) in paragraph (2)(a) and (b) for “a member State of the EEA, other than the United Kingdom,” substitute “ an EEA State ”.
 
-### 15. Amendment of the Tonnage Tax (Training Requirement) Regulations 2000[^key-3b9ec697c88648a5ec35fcf5e3853151]
+### 15. Amendment of the Tonnage Tax (Training Requirement) Regulations 2000[^c-3b9ec697c88648a5ec35fcf5e3853151]
 
 (1) The Tonnage Tax (Training Requirement) Regulations 2000 [^c23446541] are amended as follows.
 
@@ -320,7 +320,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 .
 
-### 16. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-a1367040d4921d13c64700d2bfc0fa28]
+### 16. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^c-a1367040d4921d13c64700d2bfc0fa28]
 
 (1) The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 [^c23446551] are amended as follows.
 
@@ -351,7 +351,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 (4) In regulation 7A (stability requirements for ro-ro passenger ships) in paragraph (1), omit “EEA State or”.
 
-### 17. Amendment of the Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^key-5ca366d4285c98ec7e57deaca27968c1]
+### 17. Amendment of the Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001[^c-5ca366d4285c98ec7e57deaca27968c1]
 
 (1) The Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001 are amended as follows.
 
@@ -379,7 +379,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 - (a) in regulation 6 (initial specific surveys) paragraphs (3) and (4); and
 - (b) in regulation 8 (regular specific surveys and additional surveys) paragraphs (3) and (5).
 
-### 18. Amendment of the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^key-6d4a1d61a9309cc7ac0d5087cfba6e71]
+### 18. Amendment of the Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003[^c-6d4a1d61a9309cc7ac0d5087cfba6e71]
 
 (1) The Merchant Shipping and Fishing Vessels (Port Waste Reception Facilities) Regulations 2003 [^c23446571] are amended as follows.
 
@@ -399,11 +399,11 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 .
 
-### 19. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^key-da95a4d15d772c4b4b9e1ecb224341be]
+### 19. Amendment of the Merchant Shipping (High Speed Craft) Regulations 2004[^c-da95a4d15d772c4b4b9e1ecb224341be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendment of the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^key-22975991f97438213a12f45ea35d1096]
+### 20. Amendment of the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004[^c-22975991f97438213a12f45ea35d1096]
 
 (1) The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004 [^c23446591] are amended as follows.
 
@@ -442,7 +442,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 (11) In regulation 15 (obligations of shipowners in relation to accidents and incidents) in paragraph (2)(b)(ii) omit “, other than the United Kingdom,”.
 
-### 21. Amendment of the Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004[^key-ea50fcbae2ae4b34d8311a17ae3b3963]
+### 21. Amendment of the Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004[^c-ea50fcbae2ae4b34d8311a17ae3b3963]
 
 (1) The Merchant Shipping (Ro-Ro Passenger Ships) (Stability) Regulations 2004 are amended as follows.
 
@@ -462,7 +462,7 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 - (a) omit “which are the requirements of Article 4 of and Annex I to the Directive” in each of the places at which those words occur; and
 - (b) in paragraph (5)(a) omit “of Article 4 of or Annex I to the Directive or”.
 
-### 22. Amendment of the Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011[^key-8905abb666e2b3102ea8490148f97258]
+### 22. Amendment of the Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011[^c-8905abb666e2b3102ea8490148f97258]
 
 (1) The Equality Act 2010 (Work on Ships and Hovercraft) Regulations 2011 [^c23446601] are amended as follows.
 
@@ -472,11 +472,11 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 (4) In regulation 5 (differentiation in relation to pay) in paragraph (b)(ii) for “another” substitute “ an ”.
 
-### 23. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^key-2d7cc4676added423c86350ac9984104]
+### 23. Amendment of the Merchant Shipping (Port State Control) Regulations 2011[^c-2d7cc4676added423c86350ac9984104]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendment of the Merchant Shipping (Flag State Directive) Regulations 2011[^key-99cba91fdf2e03bbd13d25aaf4a79f7a]
+### 24. Amendment of the Merchant Shipping (Flag State Directive) Regulations 2011[^c-99cba91fdf2e03bbd13d25aaf4a79f7a]
 
 (1) The Merchant Shipping (Flag State Directive) Regulations 2011 [^c23446621] are amended as follows.
 
@@ -512,11 +512,11 @@ In the Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 [^c2
 
 .
 
-### 25. Amendment of the Merchant Shipping (Compulsory Insurance of Shipowners for Maritime Claims) Regulations 2012[^key-39b2c938cfa96d02e11b23529161f317]
+### 25. Amendment of the Merchant Shipping (Compulsory Insurance of Shipowners for Maritime Claims) Regulations 2012[^c-39b2c938cfa96d02e11b23529161f317]
 
 In the Merchant Shipping (Compulsory Insurance of Shipowners for Maritime Claims) Regulations 2012 [^c23446641] omit regulation 8 (expulsion order).
 
-### 26. Amendment of the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014[^key-55c370e93347d5c870f203f7d352a512]
+### 26. Amendment of the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014[^c-55c370e93347d5c870f203f7d352a512]
 
 In the Merchant Shipping (International Safety Management (ISM) Code) Regulations 2014 [^c23446651] in regulation 2 (interpretation) in paragraph (1) for the definition of “Certifying Authority”, substitute—
 
@@ -524,11 +524,11 @@ In the Merchant Shipping (International Safety Management (ISM) Code) Regulation
 
 .
 
-### 27. Amendment of the Merchant Shipping (Survey and Certification) Regulations 2015[^key-0726595535e42487ccb7773f1776e279]
+### 27. Amendment of the Merchant Shipping (Survey and Certification) Regulations 2015[^c-0726595535e42487ccb7773f1776e279]
 
 In the Merchant Shipping (Survey and Certification) Regulations 2015 [^c23446661], in regulation 24 (prohibition on proceeding on a voyage or excursion without the appropriate certificate) in paragraph 1(b) for “another Member State or EEA State” substitute “ a member State or an EEA State ”.
 
-### 28. Amendment to the Fishing Vessels (Codes of Practice) Regulations 2017[^key-a1e3f7eae57bfbc312d8aa5c54160c23]
+### 28. Amendment to the Fishing Vessels (Codes of Practice) Regulations 2017[^c-a1e3f7eae57bfbc312d8aa5c54160c23]
 
 In the Fishing Vessels (Codes of Practice) Regulations 2017 [^c23446671], in regulation 17 (equivalent provisions), in paragraph (2)(a) and (b) omit “other than the United Kingdom”.
 
@@ -554,7 +554,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23446341]: Marginal citation: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-794b88518670c17da40ce94921b6c976]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-794b88518670c17da40ce94921b6c976]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446351]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30); [Schedule 1](https://www.legislation.gov.uk/uksi/2018/1221/schedule/1) was amended by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [section 23(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/23/5) and Schedule 8, paragraphs 18 and 22(b), (c) and (e).
 
@@ -562,7 +562,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23446371]: Marginal citation: [S.I. 1998/1011](https://www.legislation.gov.uk/uksi/1998/1011), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
 
-[^key-04da0eebf12a1c3eeffadac81878829a]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/c) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-04da0eebf12a1c3eeffadac81878829a]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/c) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
 [^c23446391]: Marginal citation: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), relevant amending instruments are [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), 2011/1043.
 
@@ -570,7 +570,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23446411]: Marginal citation: [S.I. 1998/2515](https://www.legislation.gov.uk/uksi/1998/2515), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
 
-[^key-ee496d147be09ac922d8386daebbc3cd]: Textual amendment: [Reg. 3(2)(g)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/g) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
+[^c-ee496d147be09ac922d8386daebbc3cd]: Textual amendment: [Reg. 3(2)(g)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/g) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
 
 [^c23446431]: Marginal citation: [S.I. 1999/2721](https://www.legislation.gov.uk/uksi/1999/2721), relevant amending instruments are [S.I. 2000/2558](https://www.legislation.gov.uk/uksi/2000/2558), 2687.
 
@@ -582,98 +582,98 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23446471]: Marginal citation: [S.I. 2001/152](https://www.legislation.gov.uk/uksi/2001/152), to which there are amendments not relevant to these Regulations.
 
-[^key-6d16f073867f68edf0c1d06e3be6c765]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/5) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-6d16f073867f68edf0c1d06e3be6c765]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/5) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-b8caf621f30b360f161218f434b18b89]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1221/regulation/4) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8caf621f30b360f161218f434b18b89]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1221/regulation/4) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d87f4d9cf3729bcce9d431e84d05aad2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d87f4d9cf3729bcce9d431e84d05aad2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-235bd202f0a76a146fc7fa90a4b12918]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/1) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-235bd202f0a76a146fc7fa90a4b12918]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/1) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3cea98b4e48216decf41e010774e138a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cea98b4e48216decf41e010774e138a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/2) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446491]: Marginal citation: [S.I. 1994/2464](https://www.legislation.gov.uk/uksi/1994/2464), to which there are amendments not relevant to these Regulations.
 
-[^key-2abedd05af6ce6f8565aacbbd8e32087]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2abedd05af6ce6f8565aacbbd8e32087]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/3) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446501]: Marginal citation: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), to which there are amendments not relevant to these Regulations.
 
-[^key-0bfb5cd052404e5534e5a964766ed63f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bfb5cd052404e5534e5a964766ed63f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/4) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446511]: Marginal citation: [S.I. 1997/869 (N.I. 6)](https://www.legislation.gov.uk/nisi/1997/869), amended by S.R. [2012 No. 263](https://www.legislation.gov.uk/ukcm/2012/263); there are other amending instruments but none is relevant. Article 11 was substituted by Article 5 of S.R. [2012 No. 263](https://www.legislation.gov.uk/ukcm/2012/263).
 
-[^key-71df515d497cfbd96d3b1fe35c7b9556]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/5) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71df515d497cfbd96d3b1fe35c7b9556]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/5) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de0962d90fa949fe3fd553e0fae6342b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/6) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-de0962d90fa949fe3fd553e0fae6342b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/6) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
-[^key-d10d5e1387d35d48c0f9f454d3ebcb7b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/6) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d10d5e1387d35d48c0f9f454d3ebcb7b]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/6) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7137b283c1a4d61a324994c3344df918]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/7) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7137b283c1a4d61a324994c3344df918]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/7) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446521]: Marginal citation: [S.I. 1998/1609](https://www.legislation.gov.uk/uksi/1998/1609), amended by [S.I. 2016/354](https://www.legislation.gov.uk/uksi/2016/354); there are other amending instruments but none is relevant.
 
-[^key-a80189f2aaf679cd0518d6d541e924df]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/8) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a80189f2aaf679cd0518d6d541e924df]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/8) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03d90ff4d8e085a4584fe50ed0743d31]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/9) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03d90ff4d8e085a4584fe50ed0743d31]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/9) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d143847916ca36876c26c159e9920df7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d143847916ca36876c26c159e9920df7]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/10) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f207d5613e62c3815a9b75cdd502e32f]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-f207d5613e62c3815a9b75cdd502e32f]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/11) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-096c303640e95d92c7bc3fd6a9fd64d6]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/12) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
+[^c-096c303640e95d92c7bc3fd6a9fd64d6]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/12) revoked (20.12.2022) by [The Merchant Shipping (Additional Safety Measures for Bulk Carriers) Regulations 2022 (S.I. 2022/1218)](https://www.legislation.gov.uk/uksi/2022/1218), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1218/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1218/schedule)
 
-[^key-09e0c2ee24984c5da243784aec9d01d6]: Textual amendment: Sch. para. 13 revoked (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
+[^c-09e0c2ee24984c5da243784aec9d01d6]: Textual amendment: Sch. para. 13 revoked (9.6.2020) by [The Merchant Shipping (Life-Saving Appliances and Arrangements) Regulations 2020 (S.I. 2020/501)](https://www.legislation.gov.uk/uksi/2020/501), [reg. 1](https://www.legislation.gov.uk/uksi/2020/501/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2020/501/schedule/1/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/501/regulation/4))
 
-[^key-68efcf3fdb4ba463acd3aa9f83f93ea6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68efcf3fdb4ba463acd3aa9f83f93ea6]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b9ec697c88648a5ec35fcf5e3853151]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/15) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b9ec697c88648a5ec35fcf5e3853151]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/15) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446541]: Marginal citation: [S.I. 2000/2129](https://www.legislation.gov.uk/uksi/2000/2129), relevant amending instruments are [S.I. 2013/2245](https://www.legislation.gov.uk/uksi/2013/2245), 2015/788.
 
-[^key-a1367040d4921d13c64700d2bfc0fa28]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1367040d4921d13c64700d2bfc0fa28]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/16) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446551]: Marginal citation: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), relevant amending instruments are [S.I. 2004/2883](https://www.legislation.gov.uk/uksi/2004/2883), 2012/2636, 2018/53.
 
-[^key-5ca366d4285c98ec7e57deaca27968c1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/17) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ca366d4285c98ec7e57deaca27968c1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/17) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446561]: Marginal citation: SOLAS can be obtained from the International Maritime Organization (“IMO”) at IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611.
 
-[^key-6d4a1d61a9309cc7ac0d5087cfba6e71]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d4a1d61a9309cc7ac0d5087cfba6e71]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/18) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446571]: Marginal citation: [S.I. 2003/1809](https://www.legislation.gov.uk/uksi/2003/1809), relevant amending instruments are [S.I. 2009/1176](https://www.legislation.gov.uk/uksi/2009/1176), 2016/1211.
 
-[^key-da95a4d15d772c4b4b9e1ecb224341be]: Textual amendment: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/19) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-da95a4d15d772c4b4b9e1ecb224341be]: Textual amendment: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/19) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-22975991f97438213a12f45ea35d1096]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22975991f97438213a12f45ea35d1096]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446591]: Marginal citation: [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110), relevant amending instruments are [S.I. 2008/3145](https://www.legislation.gov.uk/uksi/2008/3145), 2011/2616.
 
-[^key-ea50fcbae2ae4b34d8311a17ae3b3963]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/21) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea50fcbae2ae4b34d8311a17ae3b3963]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/21) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8905abb666e2b3102ea8490148f97258]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8905abb666e2b3102ea8490148f97258]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/22) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446601]: Marginal citation: [S.I. 2011/1771](https://www.legislation.gov.uk/uksi/2011/1771).
 
-[^key-2d7cc4676added423c86350ac9984104]: Textual amendment: Sch. para. 23 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-2d7cc4676added423c86350ac9984104]: Textual amendment: Sch. para. 23 revoked (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-99cba91fdf2e03bbd13d25aaf4a79f7a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/24) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99cba91fdf2e03bbd13d25aaf4a79f7a]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/24) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446621]: Marginal citation: [S.I. 2011/2667](https://www.legislation.gov.uk/uksi/2011/2667).
 
 [^c23446631]: Marginal citation: Copies of IMO Conventions can be obtained from the International Maritime Organization (“IMO”) at IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611.
 
-[^key-39b2c938cfa96d02e11b23529161f317]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/25) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39b2c938cfa96d02e11b23529161f317]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/25) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446641]: Marginal citation: [S.I. 2012/2267](https://www.legislation.gov.uk/uksi/2012/2267).
 
-[^key-55c370e93347d5c870f203f7d352a512]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/26) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55c370e93347d5c870f203f7d352a512]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/26) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446651]: Marginal citation: [S.I. 2014/1512](https://www.legislation.gov.uk/uksi/2014/1512).
 
-[^key-0726595535e42487ccb7773f1776e279]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/27) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0726595535e42487ccb7773f1776e279]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/27) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446661]: Marginal citation: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508), to which there are amendments not relevant to these Regulations.
 
-[^key-a1e3f7eae57bfbc312d8aa5c54160c23]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/28) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1e3f7eae57bfbc312d8aa5c54160c23]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/28) in force at 31.12.2020, see [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23446671]: Marginal citation: [S.I. 2017/943](https://www.legislation.gov.uk/uksi/2017/943).

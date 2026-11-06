@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 3(13) and 4(5)
 
-### PART 1 — Supply by doctors, dentists, nurses, midwives and pharmacists[^key-56d090a5c0698f0073e803cb92bbd1cc]
+### PART 1 — Supply by doctors, dentists, nurses, midwives and pharmacists[^c-56d090a5c0698f0073e803cb92bbd1cc]
 
 **1.** Where the product is to be administered to a particular individual, the name of that individual.
 
@@ -36,7 +36,7 @@ Regulations 3(13) and 4(5)
 - (b) directions for use of the product; and
 - (c) precautions relating to the use of the product.
 
-**4A.**[^key-792ea46493b047dd9ab741dbc8434980] Where a product is to be sold or supplied in accordance with an order submitted as mentioned in regulation 222A(1)(a), for the purposes of—
+**4A.**[^c-792ea46493b047dd9ab741dbc8434980] Where a product is to be sold or supplied in accordance with an order submitted as mentioned in regulation 222A(1)(a), for the purposes of—
 
 - (a) paragraph 2, B1, as defined in regulation 222A(1)(b), is the person who sells or supplies the product; and
 - (b) paragraph 3, the date is instead the date on which the product is ready for sale or supply to or for the patient for whom it is dispensed.
@@ -59,7 +59,7 @@ Regulations 3(13) and 4(5)
 
 **10.** Where paragraph 9 applies, the pharmacist may include such particulars, of the same kind as those mentioned in paragraph 8, as the pharmacist thinks appropriate.
 
-**10A.**[^key-0381ffec22e831cdbfda57ea25558287] Where a product is to be sold or supplied in accordance with an order submitted as mentioned in regulation 222A(1)(a), for the purposes of—
+**10A.**[^c-0381ffec22e831cdbfda57ea25558287] Where a product is to be sold or supplied in accordance with an order submitted as mentioned in regulation 222A(1)(a), for the purposes of—
 
 - (a) paragraph 6, B1, as defined in regulation 222A(1)(b), is the person who sells or supplies the product;
 - (b) paragraph 7, the date is instead the date on which the product is ready for sale or supply to or for the patient for whom it is dispensed; and
@@ -71,8 +71,8 @@ Regulations 3(13) and 4(5)
 
 ## Annotations
 
-[^key-56d090a5c0698f0073e803cb92bbd1cc]: Textual amendment: Words in Sch. 26 Pt. 1 heading substituted (31.3.2026) by [The Human Medicines (Amendment) Regulations 2026 (S.I. 2026/381)](https://www.legislation.gov.uk/uksi/2026/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/381/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/381/regulation/15)
+[^c-56d090a5c0698f0073e803cb92bbd1cc]: Textual amendment: Words in Sch. 26 Pt. 1 heading substituted (31.3.2026) by [The Human Medicines (Amendment) Regulations 2026 (S.I. 2026/381)](https://www.legislation.gov.uk/uksi/2026/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/381/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/381/regulation/15)
 
-[^key-792ea46493b047dd9ab741dbc8434980]: Textual amendment: Sch. 26 para. 4A inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/12/2)
+[^c-792ea46493b047dd9ab741dbc8434980]: Textual amendment: Sch. 26 para. 4A inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/12/2)
 
-[^key-0381ffec22e831cdbfda57ea25558287]: Textual amendment: Sch. 26 para. 10A inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2025/758/regulation/12/3)
+[^c-0381ffec22e831cdbfda57ea25558287]: Textual amendment: Sch. 26 para. 10A inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2025/758/regulation/12/3)

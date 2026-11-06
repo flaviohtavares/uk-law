@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Duty to co-operate and provide information in the exercise of social services functions[^key-efb40a2d11353ec93be51494bdec20f9]
+## 164. Duty to co-operate and provide information in the exercise of social services functions[^c-efb40a2d11353ec93be51494bdec20f9]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 (4) The persons are—
 
 - (a) a relevant partner of the local authority making the request;
-- (b) a local authority, a Local Health Board or an NHS[^key-ebf3fe97243447b5ec19bc4b3daba80d] Trust which is not a relevant partner of the local authority making the request;
+- (b) a local authority, a Local Health Board or an NHS[^c-ebf3fe97243447b5ec19bc4b3daba80d] Trust which is not a relevant partner of the local authority making the request;
 - (c) a youth offending team for an area any part of which falls within the area of the local authority making the request.
 
 (5) A local authority and each of those persons mentioned in subsection (4) must in exercising their functions under this section have regard to any guidance given to them for the purpose by the Welsh Ministers.
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efb40a2d11353ec93be51494bdec20f9]: Commencement: S. 164 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-efb40a2d11353ec93be51494bdec20f9]: Commencement: S. 164 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-ebf3fe97243447b5ec19bc4b3daba80d]: Textual amendment: Words in s. 164(4)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [311](https://www.legislation.gov.uk/wsi/2016/413/regulation/311)
+[^c-ebf3fe97243447b5ec19bc4b3daba80d]: Textual amendment: Words in s. 164(4)(b) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [311](https://www.legislation.gov.uk/wsi/2016/413/regulation/311)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. General powers[^key-e5523c956af1de15b7b46d8f946068a1][^key-6f19d4eb9efadbaeb3c4cf5ebe7b0073]
+## 29. General powers[^c-e5523c956af1de15b7b46d8f946068a1][^c-6f19d4eb9efadbaeb3c4cf5ebe7b0073]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ Qualifications Scotland may do anything which appears to it—
 
 ## Annotations
 
-[^key-e5523c956af1de15b7b46d8f946068a1]: Commencement: S. 29 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-e5523c956af1de15b7b46d8f946068a1]: Commencement: S. 29 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-6f19d4eb9efadbaeb3c4cf5ebe7b0073]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2025/11/section/29) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-6f19d4eb9efadbaeb3c4cf5ebe7b0073]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2025/11/section/29) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

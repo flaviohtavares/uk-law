@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Tax consequences of transfers[^c22469051][^key-fb6eb714bce3f36f025cc04adc385240]
+## 16. Tax consequences of transfers[^c22469051][^c-fb6eb714bce3f36f025cc04adc385240]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c22469051]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2015/7/section/16) partly in force; [s. 16](https://www.legislation.gov.uk/ukpga/2015/7/section/16) in force for specified purposes at Royal Assent, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1/a)
 
-[^key-fb6eb714bce3f36f025cc04adc385240]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2015/7/section/16) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-fb6eb714bce3f36f025cc04adc385240]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2015/7/section/16) in force at 5.3.2015 in so far as not already in force by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Protective work to buildings[^key-b4ba098a66d9a52a8797ae31a228eff7]
+## 16. Protective work to buildings[^c-b4ba098a66d9a52a8797ae31a228eff7]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) For the purpose of determining how the powers under this article are to be exercised, the undertaker may enter and survey any building falling within paragraph (1) and any land within its curtilage.
 
-(4) For the purpose of carrying out protective works under this article to a building, the undertaker may (subject to paragraph (5)[^key-d11825bb3e96fee43be78c09cbecc03a] and (6))—
+(4) For the purpose of carrying out protective works under this article to a building, the undertaker may (subject to paragraph (5)[^c-d11825bb3e96fee43be78c09cbecc03a] and (6))—
 
 - (a) enter the building and any land within its curtilage; and
 - (b) where the works cannot be carried out reasonably conveniently without entering land that is adjacent to the building but outside its curtilage, enter the adjacent land (but not any building erected on it).
@@ -67,6 +67,6 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-b4ba098a66d9a52a8797ae31a228eff7]: Commencement: Art. 16 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-b4ba098a66d9a52a8797ae31a228eff7]: Commencement: Art. 16 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-d11825bb3e96fee43be78c09cbecc03a]: Textual amendment: Words in art. 16(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-d11825bb3e96fee43be78c09cbecc03a]: Textual amendment: Words in art. 16(4) substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

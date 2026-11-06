@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If part of a trade is treated as a separate trade in accordance with section 951(2), (4) or (8)[^key-45999069bf84abb32671e1b9f5eaa00d], just and reasonable apportionments are to be made of receipts, expenses, assets and liabilities.
+(1) If part of a trade is treated as a separate trade in accordance with section 951(2), (4) or (8)[^c-45999069bf84abb32671e1b9f5eaa00d], just and reasonable apportionments are to be made of receipts, expenses, assets and liabilities.
 
 (2) Subsection (3) applies if—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45999069bf84abb32671e1b9f5eaa00d]: Textual amendment: Words in s. 952(1) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 68](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/68)
+[^c-45999069bf84abb32671e1b9f5eaa00d]: Textual amendment: Words in s. 952(1) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 68](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/68)

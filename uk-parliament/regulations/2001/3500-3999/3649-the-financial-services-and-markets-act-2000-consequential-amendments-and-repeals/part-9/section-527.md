@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 527. Revocation of the 1996 Regulations[^key-af1b732775d04f3c8445ee94d9c014ce]
+## 527. Revocation of the 1996 Regulations[^c-af1b732775d04f3c8445ee94d9c014ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Financial Institutions (Prudential Supervision) Regulations 1996 are revoked
 
 ## Annotations
 
-[^key-af1b732775d04f3c8445ee94d9c014ce]: Commencement: Art. 527 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-af1b732775d04f3c8445ee94d9c014ce]: Commencement: Art. 527 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

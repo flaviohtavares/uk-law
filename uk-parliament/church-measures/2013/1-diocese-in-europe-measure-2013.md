@@ -41,7 +41,7 @@ A Measure passed by the General Synod of the Church of England to make further p
 
 (2) Sections 2(3) and 8 of the National Institutions Measure 1998 (No. 1) shall have effect as if the purpose mentioned in subsection (1) of this section were a purpose for which the balance in the Commissioners' general fund was available immediately before the coming into force of those sections.
 
-## 2. Amendment of Article 8 of Constitution of the General Synod[^key-78e2dfb0414da466d6b47ce597e3beb9]
+## 2. Amendment of Article 8 of Constitution of the General Synod[^c-78e2dfb0414da466d6b47ce597e3beb9]
 
 (1) The Diocese is a diocese for the purposes of Article 8(1) of the Constitution of the General Synod set out in Schedule 2 to the Synodical Government Measure 1969 (No. 2).
 
@@ -60,4 +60,4 @@ A Measure passed by the General Synod of the Church of England to make further p
 
 ## Annotations
 
-[^key-78e2dfb0414da466d6b47ce597e3beb9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2013/1/section/2) in force at 1.7.2013 by [S.I. 2013/3](https://www.legislation.gov.uk/ukci/2013/3), [art. 2](https://www.legislation.gov.uk/ukci/2013/3/article/2)
+[^c-78e2dfb0414da466d6b47ce597e3beb9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2013/1/section/2) in force at 1.7.2013 by [S.I. 2013/3](https://www.legislation.gov.uk/ukci/2013/3), [art. 2](https://www.legislation.gov.uk/ukci/2013/3/article/2)

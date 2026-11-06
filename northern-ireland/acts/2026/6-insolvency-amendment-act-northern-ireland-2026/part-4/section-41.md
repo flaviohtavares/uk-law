@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Appointment of liquidator by High Court following administration or voluntary arrangement[^key-f8f0f919de9fb338bd97572e3ea37147]
+## 41. Appointment of liquidator by High Court following administration or voluntary arrangement[^c-f8f0f919de9fb338bd97572e3ea37147]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 119(3) (appointment of liquidator by High Court following administrat
 
 ## Annotations
 
-[^key-f8f0f919de9fb338bd97572e3ea37147]: Commencement: S. 41 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f8f0f919de9fb338bd97572e3ea37147]: Commencement: S. 41 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Duty to notify street authority of reinstatement[^key-5f3c627c521509ab25f59a00cdfcccb2][^key-5969867c75b3e6d4d1ed034b85d28b55]
+## 54. Duty to notify street authority of reinstatement[^c-5f3c627c521509ab25f59a00cdfcccb2][^c-5969867c75b3e6d4d1ed034b85d28b55]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f3c627c521509ab25f59a00cdfcccb2]: Commencement: S. 54 in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/1890/article/8))
+[^c-5f3c627c521509ab25f59a00cdfcccb2]: Commencement: S. 54 in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/1890/article/8))
 
-[^key-5969867c75b3e6d4d1ed034b85d28b55]: Commencement: S. 54 in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule) (with [art. 9](https://www.legislation.gov.uk/uksi/2007/3174/article/9))
+[^c-5969867c75b3e6d4d1ed034b85d28b55]: Commencement: S. 54 in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule) (with [art. 9](https://www.legislation.gov.uk/uksi/2007/3174/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Import of arms and related materiel and internal repression goods[^key-8f41d343d05d789787821b96436b52ee]
+## 24. Import of arms and related materiel and internal repression goods[^c-8f41d343d05d789787821b96436b52ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f41d343d05d789787821b96436b52ee]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-8f41d343d05d789787821b96436b52ee]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

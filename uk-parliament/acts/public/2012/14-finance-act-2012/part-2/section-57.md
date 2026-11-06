@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Meaning of “basic life assurance and general annuity business”[^key-30121ba345b4c857af1143e1e1fce687]
+## 57. Meaning of “basic life assurance and general annuity business”[^c-30121ba345b4c857af1143e1e1fce687]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30121ba345b4c857af1143e1e1fce687]: Modification: S. 57 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/3008/regulation/5), [6](https://www.legislation.gov.uk/uksi/2012/3008/regulation/6) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-30121ba345b4c857af1143e1e1fce687]: Modification: S. 57 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2012/3008/regulation/5), [6](https://www.legislation.gov.uk/uksi/2012/3008/regulation/6) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

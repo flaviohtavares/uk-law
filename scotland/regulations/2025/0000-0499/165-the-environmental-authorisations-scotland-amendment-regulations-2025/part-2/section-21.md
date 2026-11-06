@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Amendment of regulation 41 (application for commercial confidentiality)[^key-2c46fc5dcfa64db0b2289a773886e5be]
+## 21. Amendment of regulation 41 (application for commercial confidentiality)[^c-2c46fc5dcfa64db0b2289a773886e5be]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 41 (application for commercial confidentiality), after paragraph (
 
 ## Annotations
 
-[^key-2c46fc5dcfa64db0b2289a773886e5be]: Commencement: Reg. 21 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-2c46fc5dcfa64db0b2289a773886e5be]: Commencement: Reg. 21 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

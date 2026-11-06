@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Annual report.[^key-b4f295453d20723ccf419c28d6802a95]
+## 52. Annual report.[^c-b4f295453d20723ccf419c28d6802a95]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f295453d20723ccf419c28d6802a95]: Modification: Ss. 47-52 functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/1821/article/8) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-b4f295453d20723ccf419c28d6802a95]: Modification: Ss. 47-52 functions cease to be exercisable (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [8](https://www.legislation.gov.uk/uksi/2013/1821/article/8) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
 [^c14537741]: Modification: S. 52(1) modified (30.6.1999) by [S.I. 1999/1746](https://www.legislation.gov.uk/uksi/1999/1746), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1746/article/1/1), [10(1)](https://www.legislation.gov.uk/uksi/1999/1746/article/10/1); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 

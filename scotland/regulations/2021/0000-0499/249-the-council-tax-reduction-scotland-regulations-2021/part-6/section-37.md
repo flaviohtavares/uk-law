@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Circumstances in which income and capital of a non-dependant is to be treated as applicant’s[^key-15a91673a132583d35803057abc84332]
+## 37. Circumstances in which income and capital of a non-dependant is to be treated as applicant’s[^c-15a91673a132583d35803057abc84332]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15a91673a132583d35803057abc84332]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2021/249/regulation/37) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-15a91673a132583d35803057abc84332]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2021/249/regulation/37) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

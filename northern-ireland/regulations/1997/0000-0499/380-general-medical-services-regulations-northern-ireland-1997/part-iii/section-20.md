@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Assignment of persons to doctors[^key-7c597ad6faf980d06a142effab596daa]
+## 20. Assignment of persons to doctors[^c-7c597ad6faf980d06a142effab596daa]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ and shall notify the doctor accordingly.
 
 ## Annotations
 
-[^key-7c597ad6faf980d06a142effab596daa]: Commencement: Reg. 20 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-7c597ad6faf980d06a142effab596daa]: Commencement: Reg. 20 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Proof by formal admission.[^c7281601][^key-03ce3a254ab299fcb89c3ae0cb7b894a][^key-ea7af3dae9f73148739d01a57052f8d0][^key-522f9cb482663b6a28f6d0b868d39721][^key-62ee261875a2b5088e0cbd6cfc307165]
+## 10. Proof by formal admission.[^c7281601][^c-03ce3a254ab299fcb89c3ae0cb7b894a][^c-ea7af3dae9f73148739d01a57052f8d0][^c-522f9cb482663b6a28f6d0b868d39721][^c-62ee261875a2b5088e0cbd6cfc307165]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,10 +44,10 @@ summary: ''
 
     S. 10 modified (2.10.2000) by [S.I. 2000/2372](https://www.legislation.gov.uk/uksi/2000/2372), [rule 27(2)](https://www.legislation.gov.uk/uksi/2000/2372/rule/27/2), [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2000/2372/schedule/3/part/II)
 
-[^key-03ce3a254ab299fcb89c3ae0cb7b894a]: Modification: S. 10 applied (with modifications) (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 205(1)](https://www.legislation.gov.uk/ukpga/2003/41/section/205/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2003/41/section/205/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2003/41/section/205/3), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/3103/article/3) [4](https://www.legislation.gov.uk/uksi/2003/3103/article/4)) (as amended (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
+[^c-03ce3a254ab299fcb89c3ae0cb7b894a]: Modification: S. 10 applied (with modifications) (1.1.2004) by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [s. 205(1)](https://www.legislation.gov.uk/ukpga/2003/41/section/205/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2003/41/section/205/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2003/41/section/205/3), [221](https://www.legislation.gov.uk/ukpga/2003/41/section/221); [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/3103/article/3) [4](https://www.legislation.gov.uk/uksi/2003/3103/article/4)) (as amended (18.12.2003) by [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312), art. 2)
 
-[^key-ea7af3dae9f73148739d01a57052f8d0]: Modification: S. 10 applied (with modifications) (31.10.2009) by [The Armed Forces (Summary Appeal Court) Rules 2009 (S.I. 2009/1211)](https://www.legislation.gov.uk/uksi/2009/1211), [rules 1](https://www.legislation.gov.uk/uksi/2009/1211/article/1), [62](https://www.legislation.gov.uk/uksi/2009/1211/article/62)
+[^c-ea7af3dae9f73148739d01a57052f8d0]: Modification: S. 10 applied (with modifications) (31.10.2009) by [The Armed Forces (Summary Appeal Court) Rules 2009 (S.I. 2009/1211)](https://www.legislation.gov.uk/uksi/2009/1211), [rules 1](https://www.legislation.gov.uk/uksi/2009/1211/article/1), [62](https://www.legislation.gov.uk/uksi/2009/1211/article/62)
 
-[^key-522f9cb482663b6a28f6d0b868d39721]: Modification: S. 10 applied (with modifications) (31.10.2009) by [The Armed Forces (Service Civilian Court) Rules 2009 (S.I. 2009/1209)](https://www.legislation.gov.uk/uksi/2009/1209), [rules 1](https://www.legislation.gov.uk/uksi/2009/1209/article/1), [61](https://www.legislation.gov.uk/uksi/2009/1209/article/61)
+[^c-522f9cb482663b6a28f6d0b868d39721]: Modification: S. 10 applied (with modifications) (31.10.2009) by [The Armed Forces (Service Civilian Court) Rules 2009 (S.I. 2009/1209)](https://www.legislation.gov.uk/uksi/2009/1209), [rules 1](https://www.legislation.gov.uk/uksi/2009/1209/article/1), [61](https://www.legislation.gov.uk/uksi/2009/1209/article/61)
 
-[^key-62ee261875a2b5088e0cbd6cfc307165]: Modification: S. 10 applied (with modifications) (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [rules 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [76](https://www.legislation.gov.uk/uksi/2009/2041/article/76)
+[^c-62ee261875a2b5088e0cbd6cfc307165]: Modification: S. 10 applied (with modifications) (31.10.2009) by [The Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041)](https://www.legislation.gov.uk/uksi/2009/2041), [rules 1](https://www.legislation.gov.uk/uksi/2009/2041/article/1), [76](https://www.legislation.gov.uk/uksi/2009/2041/article/76)

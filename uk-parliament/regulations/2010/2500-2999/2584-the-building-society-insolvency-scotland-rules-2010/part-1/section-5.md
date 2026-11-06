@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Overview[^key-dad5efc4132f46d6f5469aea203d0af9]
+## 5. Overview[^c-dad5efc4132f46d6f5469aea203d0af9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The purpose of these Rules is to provide a procedure for the appointment of a bu
 
 ## Annotations
 
-[^key-dad5efc4132f46d6f5469aea203d0af9]: Commencement: Rule 5 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-dad5efc4132f46d6f5469aea203d0af9]: Commencement: Rule 5 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -24,13 +24,13 @@ Regulation 17
 
 ### PART 1 — Consequential amendments
 
-**1.**[^key-ac37997f837274c6ea8bf33e5875b07f] In the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020, in regulation 9(9), after sub-paragraph (n) insert—
+**1.**[^c-ac37997f837274c6ea8bf33e5875b07f] In the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020, in regulation 9(9), after sub-paragraph (n) insert—
 
 > - (o) the Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020, other than notices issued in respect of a business restriction offence as defined by regulation 12(7) of those Regulations or an offence of contravening a restriction or requirement imposed by paragraph 2 of Schedule 1, paragraph 3 of Schedule 2 or paragraph 3 of Schedule 3 to those Regulations.
 
 .
 
-**2.**[^key-894c2432904645fd603e0ae521c2feed] (1) Regulation 14 of the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 is amended as follows.
+**2.**[^c-894c2432904645fd603e0ae521c2feed] (1) Regulation 14 of the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 is amended as follows.
 
 (2) In paragraph (7C), after sub-paragraph (g) insert—
 
@@ -50,13 +50,13 @@ Regulation 17
 
 .
 
-**3.**[^key-32780021e460957ccb23351cdf3574ff] In the Health Protection (Coronavirus, Collection of Contact Details etc and Related Requirements) Regulations 2020, in regulation 18(7A), after sub-paragraph (g) insert—
+**3.**[^c-32780021e460957ccb23351cdf3574ff] In the Health Protection (Coronavirus, Collection of Contact Details etc and Related Requirements) Regulations 2020, in regulation 18(7A), after sub-paragraph (g) insert—
 
 > - (h) the Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020, where the fixed penalty notice relates to a business restriction offence as defined by regulation 12(7) of those Regulations.
 
 .
 
-**4.**[^key-f1d38dba629e9026bb9477e20b0d4ae9] (1) The Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020 are amended as follows.
+**4.**[^c-f1d38dba629e9026bb9477e20b0d4ae9] (1) The Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020 are amended as follows.
 
 (2) In regulation 1—
 
@@ -100,7 +100,7 @@ Regulation 17
 
 ### PART 2 — Transitional and savings provisions
 
-**5.**[^key-8fdab74deb483791883010bcb9b4b132] (1) A designation made, or treated as made, in exercise of the powers conferred by the following provisions is to be treated as if it had been made in exercise of the powers conferred by regulations 9(9)(b), 11(3)(b), 11(9)(a) or 13, as appropriate, of these Regulations—
+**5.**[^c-8fdab74deb483791883010bcb9b4b132] (1) A designation made, or treated as made, in exercise of the powers conferred by the following provisions is to be treated as if it had been made in exercise of the powers conferred by regulations 9(9)(b), 11(3)(b), 11(9)(a) or 13, as appropriate, of these Regulations—
 
 - (a) regulation 7(10)(b), 9(3)(b), 9(13) or 10 of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020;
 - (b) regulation 8(9)(b), 10(3)(b), 10(13) or 11 of the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020;
@@ -117,12 +117,12 @@ Regulation 17
 
 ## Annotations
 
-[^key-ac37997f837274c6ea8bf33e5875b07f]: Commencement: Sch. 5 para. 1 in force at 2.12.2020, see reg. 1(2)
+[^c-ac37997f837274c6ea8bf33e5875b07f]: Commencement: Sch. 5 para. 1 in force at 2.12.2020, see reg. 1(2)
 
-[^key-894c2432904645fd603e0ae521c2feed]: Commencement: Sch. 5 para. 2 in force at 2.12.2020, see reg. 1(2)
+[^c-894c2432904645fd603e0ae521c2feed]: Commencement: Sch. 5 para. 2 in force at 2.12.2020, see reg. 1(2)
 
-[^key-32780021e460957ccb23351cdf3574ff]: Commencement: Sch. 5 para. 3 in force at 2.12.2020, see reg. 1(2)
+[^c-32780021e460957ccb23351cdf3574ff]: Commencement: Sch. 5 para. 3 in force at 2.12.2020, see reg. 1(2)
 
-[^key-f1d38dba629e9026bb9477e20b0d4ae9]: Commencement: Sch. 5 para. 4 in force at 2.12.2020, see reg. 1(2)
+[^c-f1d38dba629e9026bb9477e20b0d4ae9]: Commencement: Sch. 5 para. 4 in force at 2.12.2020, see reg. 1(2)
 
-[^key-8fdab74deb483791883010bcb9b4b132]: Commencement: Sch. 5 para. 5 in force at 2.12.2020, see reg. 1(2)
+[^c-8fdab74deb483791883010bcb9b4b132]: Commencement: Sch. 5 para. 5 in force at 2.12.2020, see reg. 1(2)

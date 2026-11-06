@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Review in relation to connected proceedings[^key-88c04ce72af973eff604a4c2dd6748ac]
+## 110. Review in relation to connected proceedings[^c-88c04ce72af973eff604a4c2dd6748ac]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88c04ce72af973eff604a4c2dd6748ac]: Commencement: S. 110 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-88c04ce72af973eff604a4c2dd6748ac]: Commencement: S. 110 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

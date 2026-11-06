@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where the reference amount calculated in any of regulations 264 to 269A[^key-f46d502c9c2c389a54592d3959ed48fb] is greater than the base amount, a top-up amount is payable.
+(1) Where the reference amount calculated in any of regulations 264 to 269A[^c-f46d502c9c2c389a54592d3959ed48fb] is greater than the base amount, a top-up amount is payable.
 
 (2) The top-up amount is equal to the aggregate of the amounts by which the reference amount is greater than the base amount in each of regulations 264 to 269A (where applicable).
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f46d502c9c2c389a54592d3959ed48fb]: Textual amendment: Word in [reg. 273(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/273/1)[(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/273/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [104](https://www.legislation.gov.uk/nisr/2010/22/regulation/104)
+[^c-f46d502c9c2c389a54592d3959ed48fb]: Textual amendment: Word in [reg. 273(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/273/1)[(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/273/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [104](https://www.legislation.gov.uk/nisr/2010/22/regulation/104)

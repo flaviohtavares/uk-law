@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 470. Disqualification of a member of an insolvent partnership after investigation[^key-90070b0ec3cb8276294433549a8cb44b]
+## 470. Disqualification of a member of an insolvent partnership after investigation[^c-90070b0ec3cb8276294433549a8cb44b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In paragraph 8 of Schedule 8 to the Insolvent Partnerships Order 1994 (modified 
 
 ## Annotations
 
-[^key-90070b0ec3cb8276294433549a8cb44b]: Commencement: Art. 470 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-90070b0ec3cb8276294433549a8cb44b]: Commencement: Art. 470 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

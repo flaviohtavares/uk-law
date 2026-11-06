@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.C.13. Effect of death or early payment of pension after option exercised under regulation 3.C.6, 3.C.8 or 3.C.9[^key-578d10c2e2bae4bfcbfab4ba981b0a17][^key-90586efe8b7c4abf88b207f8706ee0d6][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.C.13. Effect of death or early payment of pension after option exercised under regulation 3.C.6, 3.C.8 or 3.C.9[^c-578d10c2e2bae4bfcbfab4ba981b0a17][^c-90586efe8b7c4abf88b207f8706ee0d6][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
   - (i) in the case of an option under regulation 3.C.6 or 3.C.8, to the member, and
   - (ii) in the case of an option under regulation 3.C.9, to the employing authority which made the contribution.
 
-(4) Subject to regulation 3.C.11(5) and (6), if a member[^key-0d5c57832c773c924c98ab76e66995ab] in respect of whom an option under regulation 3.C.6 has been exercised becomes entitled to a pension under regulation 3.D.7 before the end of the contribution option period as a result of a claim made after the end of the period of 12 months beginning with the date on which the option was exercised, regulation 3.C.12(2) and (4) applies as if all contributions under the option had been made.
+(4) Subject to regulation 3.C.11(5) and (6), if a member[^c-0d5c57832c773c924c98ab76e66995ab] in respect of whom an option under regulation 3.C.6 has been exercised becomes entitled to a pension under regulation 3.D.7 before the end of the contribution option period as a result of a claim made after the end of the period of 12 months beginning with the date on which the option was exercised, regulation 3.C.12(2) and (4) applies as if all contributions under the option had been made.
 
 (5) If a member in respect of whom an option under regulation 3.C.6, 3.C.8 or 3.C.9 has been exercised—
 
@@ -51,10 +51,10 @@ the increase in the member’s pension under Chapter 3.D which would otherwise b
 
 ## Annotations
 
-[^key-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
+[^c-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
 
-[^key-90586efe8b7c4abf88b207f8706ee0d6]: Modification: [Reg. 3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3C.13) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [24(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/24/c)
+[^c-90586efe8b7c4abf88b207f8706ee0d6]: Modification: [Reg. 3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3C.13) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [24(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/24/c)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-0d5c57832c773c924c98ab76e66995ab]: Textual amendment: Words in [reg. 3.C.13(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.13/4) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [65](https://www.legislation.gov.uk/uksi/2013/413/regulation/65)
+[^c-0d5c57832c773c924c98ab76e66995ab]: Textual amendment: Words in [reg. 3.C.13(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.13/4) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [65](https://www.legislation.gov.uk/uksi/2013/413/regulation/65)

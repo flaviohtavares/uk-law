@@ -31,10 +31,10 @@ Regulation (ECSC, EEC, Euratom) No 2163/70 of the Council
 
 of 27 October 1970 amending Regulation No 422/67/EEC, 5/67/Euratom determining the emoluments of the President and members of the Commission, and of the President, Judges, Advocates-General and Registrar of the Court of Justice (revoked)
 
-[^key-cf14ade527b40e0aa350c9cb0a680bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf14ade527b40e0aa350c9cb0a680bd8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-cf14ade527b40e0aa350c9cb0a680bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-cf14ade527b40e0aa350c9cb0a680bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf14ade527b40e0aa350c9cb0a680bd8]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf14ade527b40e0aa350c9cb0a680bd8]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

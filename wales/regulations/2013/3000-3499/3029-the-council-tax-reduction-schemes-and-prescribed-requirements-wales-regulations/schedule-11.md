@@ -24,17 +24,17 @@ Regulation 31(3)
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-d8a5880c6e6a591eff659d212d8f3cbb]
+#### 1. Interpretation[^c-d8a5880c6e6a591eff659d212d8f3cbb]
 
 (1) In this Schedule—
 
 - “academic year” (“*blwyddyn academaidd*”) means the period of twelve months beginning on 1 January, 1 April, 1 July or 1 September according to whether the course in question begins in the winter, the spring, the summer or the autumn respectively but if students are required to begin attending the course during August or September and to continue attending through the autumn, the academic year of the course is to be considered to begin in the autumn rather than the summer;
 - “access funds” (“*cronfeydd mynediad*”) means—
   - (a) grants made under section 68 of the Further and Higher Education Act 1992[^f00336] for the purpose of providing funds on a discretionary basis to be paid to students;
-  - (aa) any funding provided under section 85 of the Tertiary Education and Research (Wales) Act 2022[^key-c0b4b6a890aa87715a68c29770b7c9ff] for the purpose of providing funds on a discretionary basis to be paid to students;
+  - (aa) any funding provided under section 85 of the Tertiary Education and Research (Wales) Act 2022[^c-c0b4b6a890aa87715a68c29770b7c9ff] for the purpose of providing funds on a discretionary basis to be paid to students;
   - (c) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980[^f00337];
   - (d) grants made under article 30 of the Education and Libraries (Northern Ireland) Order 1993[^f00338] or grants, loans or other payments made under article 5 of the Further Education (Northern Ireland) Order 1997[^f00339] in each case being grants, or grants, loans or other payments as the case may be, for the purpose of assisting students in financial difficulties;
-  - (e) discretionary payments, known as “learner support funds”, which are made available to students in further education by institutions out of funds provided by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales under section 14 of the Education Act 2002[^f00340] or the Secretary of State[^key-0348d3e4ed085974325b2d7628a7107e] under sections 100 and 101 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00341]; or
+  - (e) discretionary payments, known as “learner support funds”, which are made available to students in further education by institutions out of funds provided by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales under section 14 of the Education Act 2002[^f00340] or the Secretary of State[^c-0348d3e4ed085974325b2d7628a7107e] under sections 100 and 101 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00341]; or
   - (f) Financial Contingency Funds made available by the Welsh Ministers;
 - “college of further education” (“*coleg addysg bellach*”) means a college of further education within the meaning of Part 1 of the Further and Higher Education (Scotland) Act 1992[^f00342];
 - “contribution” (“*cyfraniad*”) means—
@@ -48,9 +48,9 @@ Regulation 31(3)
 - “covenant income” (“*incwm cyfamod*”) means the gross income payable to a full-time student under a Deed of Covenant by that student’s parent;
 - “education authority” (“*awdurdod addysg*”) means a government department, a local authority as defined in section 579 of the Education Act 1996[^f00343] (interpretation), a local education authority as defined in section 123 of the Local Government (Scotland) Act 1973[^f00344], an education and library board established under article 3 of the Education and Libraries (Northern Ireland) Order 1986[^f00345], any body which is a research council for the purposes of the Science and Technology Act 1965[^f00346] or any analogous government department, authority, board or body, of the Channel Islands, Isle of Man or any other country outside Great Britain;
 - “full-time course of study” (“*cwrs astudio amser llawn*”) means a full-time course of study which—
-  - (a) is not funded in whole or in part by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales under section 14 of the Education Act 2002, or the Secretary of State under section 100 of the Apprenticeship, Skills, Children and Learning Act 2009[^key-65d9d92dd18cf29cecedc5c7ce364781], or a full-time course of study which is not funded in whole or in part by the Scottish Ministers at a college of further education or a full-time course of study which is a course of higher education and is funded in whole or in part by the Scottish Ministers;
-  - (b) is funded in whole or in part by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales under section 14 of the Education Act 2002, or the Secretary of State under section 100 of the Apprenticeship, Skills, Children and Learning Act 2009[^key-22dff4842f873cc659ecee7830342a0c] if it involves more than 16 guided learning hours per week for the student in question, according to the number of guided learning hours per week for that student set out—
-    - (i) in the case of a course funded by the Secretary of State [^key-3e006d160da3c2734f1e05cd1fd730c7]..., in the student’s learning agreement signed on behalf of the establishment which is funded by the Secretary of State[^key-0e36874502b550347d22942838920ec5] for the delivery of that course; or
+  - (a) is not funded in whole or in part by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales under section 14 of the Education Act 2002, or the Secretary of State under section 100 of the Apprenticeship, Skills, Children and Learning Act 2009[^c-65d9d92dd18cf29cecedc5c7ce364781], or a full-time course of study which is not funded in whole or in part by the Scottish Ministers at a college of further education or a full-time course of study which is a course of higher education and is funded in whole or in part by the Scottish Ministers;
+  - (b) is funded in whole or in part by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales under section 14 of the Education Act 2002, or the Secretary of State under section 100 of the Apprenticeship, Skills, Children and Learning Act 2009[^c-22dff4842f873cc659ecee7830342a0c] if it involves more than 16 guided learning hours per week for the student in question, according to the number of guided learning hours per week for that student set out—
+    - (i) in the case of a course funded by the Secretary of State [^c-3e006d160da3c2734f1e05cd1fd730c7]..., in the student’s learning agreement signed on behalf of the establishment which is funded by the Secretary of State[^c-0e36874502b550347d22942838920ec5] for the delivery of that course; or
     - (ii) in the case of a course funded by the Welsh Ministers, in a document signed on behalf of the establishment which is funded by the Welsh Ministers for the delivery of that course; or
   - (c) is not higher education and is funded in whole or in part by the Scottish Ministers at a college of further education and involves—
     - (i) more than 16 hours per week of classroom-based or workshop-based programmed learning under the direct guidance of teaching staff according to the number of hours set out in a document signed on behalf of the college; or
@@ -97,11 +97,11 @@ Regulation 31(3)
 
 (4) In sub-paragraph (2), “modular course” (“*cwrs modiwlaidd*”) means a course of study which consists of two or more modules, the successful completion of a specified number of which is required before a person is considered by the educational establishment to have completed the course.
 
-#### 2. Treatment of Students[^key-4bd289597dd38cc4d5c2eef9d9a573d3]
+#### 2. Treatment of Students[^c-4bd289597dd38cc4d5c2eef9d9a573d3]
 
 An authority’s scheme is to have effect in relation to students subject to regulation 31 (persons excluded from an authority’s scheme; students) and the following provisions of this Schedule.
 
-#### 3. Students who are excluded from entitlement to a council tax reduction under an authority’s scheme[^key-1732420d6973c5e0da938097784aa372]
+#### 3. Students who are excluded from entitlement to a council tax reduction under an authority’s scheme[^c-1732420d6973c5e0da938097784aa372]
 
 (1) The students who are excluded from entitlement to a reduction under an authority’s scheme are—
 
@@ -117,7 +117,7 @@ An authority’s scheme is to have effect in relation to students subject to reg
 - (c) whose applicable amount would, but for this paragraph, include the disability premium or severe disability premium;
 - (d) whose applicable amount would include the disability premium but for the student being treated as capable of work by virtue of a determination made in accordance with regulations made under section 171E of the SSCBA;
 - (e) who is, or is treated as, incapable of work and has been so incapable, or has been so treated as incapable, of work in accordance with the provisions of, and regulations made under Part 12A of the SSCBA (incapacity for work) for a continuous period of not less than 196 days; and for this purpose any two or more separate periods separated by a break of not more than 56 days must be treated as one continuous period;
-- (f) who has, or is treated as having, limited capability for work and has had, or been treated as having, limited capability for work in accordance with the Employment and Support Allowance Regulations 2008[^f00356] or the Employment and Support Allowance Regulations 2013[^key-c052417afc5fe4dc2cffe39c776f072c] for a continuous period of not less than 196 days and for this purpose any two or more separate periods separated by a break of not more than 84 days must be treated as one continuous period;
+- (f) who has, or is treated as having, limited capability for work and has had, or been treated as having, limited capability for work in accordance with the Employment and Support Allowance Regulations 2008[^f00356] or the Employment and Support Allowance Regulations 2013[^c-c052417afc5fe4dc2cffe39c776f072c] for a continuous period of not less than 196 days and for this purpose any two or more separate periods separated by a break of not more than 84 days must be treated as one continuous period;
 - (g) who has a partner who is also a full-time student, if the student or that partner is treated as responsible for a child or young person;
 - (h) who is a single applicant with whom a child is placed by a local authority or voluntary organisation within the meaning of the Children Act 1989[^f00357] or, in Scotland, boarded out within the meaning of the Social Work (Scotland) Act 1968[^f00358];
 - (i) who is—
@@ -158,7 +158,7 @@ whichever first occurs.
 
 ### PART 2 — Income
 
-#### 4. Calculation of grant income[^key-ae82c7df58d85e5cec58fd19f07cf404]
+#### 4. Calculation of grant income[^c-ae82c7df58d85e5cec58fd19f07cf404]
 
 (1) The amount of a student’s grant income to be taken into account in assessing the student’s income must, subject to sub-paragraphs (2) and (3), be the whole of the student’s grant income.
 
@@ -172,8 +172,8 @@ whichever first occurs.
 - (f) intended to meet the cost of books and equipment;
 - (g) intended to meet travel expenses incurred as a result of the student’s attendance on the course;
 - (h) intended for the child care costs of a child dependant;
-- (i) of higher education bursary for care leavers made under Part 3 of the Children Act 1989;[^key-241d7ec606292438e2d60911c6f056b3]
-- (j)[^key-53f008b34926138376073297c973217e] of higher education bursary for category 3 and category 4 young persons made under section 110 or 112 of the Social Services and Well-being (Wales) Act 2014, and in accordance with regulations made under section 116 of that Act.
+- (i) of higher education bursary for care leavers made under Part 3 of the Children Act 1989;[^c-241d7ec606292438e2d60911c6f056b3]
+- (j)[^c-53f008b34926138376073297c973217e] of higher education bursary for category 3 and category 4 young persons made under section 110 or 112 of the Social Services and Well-being (Wales) Act 2014, and in accordance with regulations made under section 116 of that Act.
 
 (2A)[^M_F_c2648caa-d4b0-4c6e-83f2-a45ef6e82d76] In sub-paragraph (2)(j) “category 3 young person” and “category 4 young person” have the meaning given in section 104(2) of the Social Services and Well-being (Wales) Act 2014.
 
@@ -197,7 +197,7 @@ whether or not any such costs are incurred.
 
 (8) In the case of a student on a sandwich course, any periods of experience within the period of study must be excluded and the student’s grant income must be apportioned equally between the weeks in the period beginning with the reduction week, the first day of which immediately follows the last day of the period of experience and ending with the reduction week, the last day of which coincides with, or immediately precedes, the last day of the period of study.
 
-#### 5. Calculation of covenant income where a contribution is assessed[^key-6c47f5643f59b959dcf51feb3fbc6185]
+#### 5. Calculation of covenant income where a contribution is assessed[^c-6c47f5643f59b959dcf51feb3fbc6185]
 
 (1) Where a student is in receipt of income by way of a grant during a period of study and a contribution has been assessed, the amount of the student’s covenant income to be taken into account for that period and any summer vacation immediately following must be the whole amount of the covenant income less, subject to sub-paragraph (3), the amount of the contribution.
 
@@ -208,7 +208,7 @@ whether or not any such costs are incurred.
 
 (3) For the purposes of sub-paragraph (1), the contribution must be treated as increased by the amount (if any) by which the amount excluded under paragraph 4(2)(g) (calculation of grant income) falls short of the amount specified in paragraph 7(2) of Schedule 2 to the Education (Mandatory Awards) Regulations 2003 (travel expenditure).
 
-#### 6. Covenant income where no grant income or no contribution is assessed[^key-1da81af36bfd005bc90e042f14063344]
+#### 6. Covenant income where no grant income or no contribution is assessed[^c-1da81af36bfd005bc90e042f14063344]
 
 (1) Where a student is not in receipt of income by way of a grant the amount of the student’s covenant income must be calculated as follows—
 
@@ -222,17 +222,17 @@ whether or not any such costs are incurred.
 - (a) the value of the standard maintenance grant must be abated by the amount of such grant income less an amount equal to the amount of any sums disregarded under paragraph 4(2)(a) to (e); and
 - (b) the amount to be disregarded under sub-paragraph (1)(c) must be abated by an amount equal to the amount of any sums disregarded under paragraph 4(2)(f) and (g) and (3).
 
-#### 7. Relationship with amounts to be disregarded under Schedule 9[^key-6e32cc17ad1abc20c322c5ef327fb2eb]
+#### 7. Relationship with amounts to be disregarded under Schedule 9[^c-6e32cc17ad1abc20c322c5ef327fb2eb]
 
 No part of a student’s covenant income or grant income is to be disregarded under paragraph 19 of Schedule 9 (disregard of certain charitable and voluntary, etc., payments).
 
-#### 8. Other amounts to be disregarded[^key-29f7161ea49e79a675cc545265bd5362]
+#### 8. Other amounts to be disregarded[^c-29f7161ea49e79a675cc545265bd5362]
 
 (1) For the purposes of ascertaining income other than grant income, covenant income and loans treated as income in accordance with paragraph 9 (treatment of student loans), any amounts intended for any expenditure specified in paragraph 4(2) (calculation of grant income), necessary as a result of the student’s attendance on the course are to be disregarded.
 
 (2) But sub-paragraph (1) applies only if, and to the extent that, the necessary expenditure exceeds or is likely to exceed the amount of the sums disregarded under paragraph 4(2) or (3), 5(3), 6(1)(a) or (c) or 9(5) (calculation of grant income, covenant income and treatment of student loans) on like expenditure.
 
-#### 9. Treatment of student loans[^key-f3446b9d4979ee062272976572d3a131]
+#### 9. Treatment of student loans[^c-f3446b9d4979ee062272976572d3a131]
 
 (1) A student loan is to be treated as income.
 
@@ -248,7 +248,7 @@ and ending with the reduction week, the last day of which coincides with, or imm
   - (i) beginning with the reduction week, the first day of which coincides with or immediately follows, the first day of that academic year; and
   - (ii) ending with the reduction week, the last day of which coincides with or immediately precedes, the last day of that academic year,
 
-but excluding any reduction weeks falling entirely within the quarter during which, in the opinion of the authority, the longest of any vacation is taken [^key-9709d181594a5de09ba859c131411230]...;
+but excluding any reduction weeks falling entirely within the quarter during which, in the opinion of the authority, the longest of any vacation is taken [^c-9709d181594a5de09ba859c131411230]...;
 
 - (c) in respect of the final academic year of a course (not being a course of a single year’s duration), a loan which is payable in respect of that final academic year is to be apportioned equally between the weeks in the period beginning with—
   - (i) except in a case where sub-paragraph (ii) applies, the reduction week, the first day of which coincides with, or immediately follows, the first day of that academic year;
@@ -283,18 +283,18 @@ and ending with the reduction week, the last day of which coincides with, or imm
 
 whether or not any such costs are incurred.
 
-(6)[^key-4bebf430576c84e125cc6a2b5b16148c] For the purposes of this paragraph “quarter” (“*chwarter*”) in relation to an academic year means a period in that year—
+(6)[^c-4bebf430576c84e125cc6a2b5b16148c] For the purposes of this paragraph “quarter” (“*chwarter*”) in relation to an academic year means a period in that year—
 
 - (a) beginning on 1 January and ending on 31 March;
 - (b) beginning on 1 April and ending on 30 June;
 - (c) beginning on 1 July and ending on 31 August; or
 - (d) beginning on 1 September and ending on 31 December.
 
-#### 10. Treatment of fee loans[^key-bbf297f8d23f38bc924432ae371019f8]
+#### 10. Treatment of fee loans[^c-bbf297f8d23f38bc924432ae371019f8]
 
-A loan for fees, known as a fee loan or a fee contribution loan, made pursuant to regulations made under article 3 of the Education (Student Support) (Northern Ireland) Order 1998[^key-48e75413737764b7bfada43e864762b7], section 22 of the Teaching and Higher Education Act 1998 or section 73 (f) of the Education (Scotland) Act 1980, must be disregarded as income.
+A loan for fees, known as a fee loan or a fee contribution loan, made pursuant to regulations made under article 3 of the Education (Student Support) (Northern Ireland) Order 1998[^c-48e75413737764b7bfada43e864762b7], section 22 of the Teaching and Higher Education Act 1998 or section 73 (f) of the Education (Scotland) Act 1980, must be disregarded as income.
 
-#### 11. Treatment of payments from access funds[^key-e010fa8c8b9327c4049b8f1a3bcf8daf]
+#### 11. Treatment of payments from access funds[^c-e010fa8c8b9327c4049b8f1a3bcf8daf]
 
 (1) This paragraph applies to payments from access funds that are not payments to which paragraph 14(2) or (3) (income treated as capital) applies.
 
@@ -314,15 +314,15 @@ must be disregarded as income to the extent of £20 per week.
 
 that payment must be disregarded as income.
 
-#### 12. Disregard of contribution[^key-a557fa90ededd196f81ef175664d92cf]
+#### 12. Disregard of contribution[^c-a557fa90ededd196f81ef175664d92cf]
 
 Where the applicant or the applicant’s partner is a student and, for the purposes of assessing a contribution to the student’s grant or student loan, the other partner’s income has been taken into account, an amount equal to that contribution must be disregarded for the purposes of assessing that other partner’s income.
 
-#### 13. Further disregard of student’s income[^key-b314a662996b488176c04eaf93cf4daf]
+#### 13. Further disregard of student’s income[^c-b314a662996b488176c04eaf93cf4daf]
 
 Where any part of a student’s income has already been taken into account for the purposes of assessing that student’s entitlement to a grant or student loan, the amount taken into account must be disregarded in assessing that student’s income.
 
-#### 14. Income treated as capital[^key-d22dc82a4d3d31d20299c75d79d6f336]
+#### 14. Income treated as capital[^c-d22dc82a4d3d31d20299c75d79d6f336]
 
 (1) Any amount by way of a refund of tax deducted from a student’s covenant income must be treated as capital.
 
@@ -330,17 +330,17 @@ Where any part of a student’s income has already been taken into account for t
 
 (3) An amount paid from access funds as a single lump sum which is intended and used for an item other than food, ordinary clothing or footwear, household fuel or rent, or which is used for an item other than any council tax or water charges for which that applicant or any other member of the applicant’s family is liable, must be disregarded as capital but only for a period of 52 weeks from the date of the payment.
 
-#### 15. Disregard of changes occurring during summer vacation[^key-f6b8a403fffeb90acc285735b37378f4]
+#### 15. Disregard of changes occurring during summer vacation[^c-f6b8a403fffeb90acc285735b37378f4]
 
 In calculating a student’s income an authority must disregard any change in the standard maintenance grant, occurring in the recognised summer vacation appropriate to the student’s course, if that vacation does not form part of the student’s period of study from the date on which the change occurred to the end of that vacation.
 
 ## Annotations
 
-[^key-d8a5880c6e6a591eff659d212d8f3cbb]: Commencement: Sch. 11 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-d8a5880c6e6a591eff659d212d8f3cbb]: Commencement: Sch. 11 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00336]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-c0b4b6a890aa87715a68c29770b7c9ff]: Textual amendment: Words in Sch. 11 para. 1(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Amendment) (Wales) Regulations 2024 (S.I. 2024/56)](https://www.legislation.gov.uk/wsi/2024/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/56/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2024/56/regulation/10)
+[^c-c0b4b6a890aa87715a68c29770b7c9ff]: Textual amendment: Words in Sch. 11 para. 1(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Amendment) (Wales) Regulations 2024 (S.I. 2024/56)](https://www.legislation.gov.uk/wsi/2024/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/56/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2024/56/regulation/10)
 
 [^f00337]: Footnote: [1980 c.20](https://www.legislation.gov.uk/ukpga/1980/20).
 
@@ -350,7 +350,7 @@ In calculating a student’s income an authority must disregard any change in th
 
 [^f00340]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32)
 
-[^key-0348d3e4ed085974325b2d7628a7107e]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/a)
+[^c-0348d3e4ed085974325b2d7628a7107e]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/a)
 
 [^f00341]: Footnote: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22).
 
@@ -364,13 +364,13 @@ In calculating a student’s income an authority must disregard any change in th
 
 [^f00346]: Footnote: [1965 c.4](https://www.legislation.gov.uk/ukpga/1965/4).
 
-[^key-65d9d92dd18cf29cecedc5c7ce364781]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/i)
+[^c-65d9d92dd18cf29cecedc5c7ce364781]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/i)
 
-[^key-22dff4842f873cc659ecee7830342a0c]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/ii)
+[^c-22dff4842f873cc659ecee7830342a0c]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/ii)
 
-[^key-3e006d160da3c2734f1e05cd1fd730c7]: Textual amendment: Words in Sch. 11 para. 1(1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/iii/aa)
+[^c-3e006d160da3c2734f1e05cd1fd730c7]: Textual amendment: Words in Sch. 11 para. 1(1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/iii/aa)
 
-[^key-0e36874502b550347d22942838920ec5]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/iii/bb)
+[^c-0e36874502b550347d22942838920ec5]: Textual amendment: Words in Sch. 11 para. 1(1) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/3/b/iii/bb)
 
 [^f00347]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
@@ -390,13 +390,13 @@ In calculating a student’s income an authority must disregard any change in th
 
 [^f00355]: Footnote: [S.S.I. 2007/153](https://www.legislation.gov.uk/ssi/2007/153).
 
-[^key-4bd289597dd38cc4d5c2eef9d9a573d3]: Commencement: Sch. 11 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-4bd289597dd38cc4d5c2eef9d9a573d3]: Commencement: Sch. 11 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-1732420d6973c5e0da938097784aa372]: Commencement: Sch. 11 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-1732420d6973c5e0da938097784aa372]: Commencement: Sch. 11 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00356]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-c052417afc5fe4dc2cffe39c776f072c]: Textual amendment: Words in [Sch. 11 para. 3(2)(f)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/3/2/f) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/44/regulation/13)
+[^c-c052417afc5fe4dc2cffe39c776f072c]: Textual amendment: Words in [Sch. 11 para. 3(2)(f)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/3/2/f) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2015/44/regulation/13)
 
 [^f00357]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -414,40 +414,40 @@ In calculating a student’s income an authority must disregard any change in th
 
 [^f00364]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-ae82c7df58d85e5cec58fd19f07cf404]: Commencement: Sch. 11 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-ae82c7df58d85e5cec58fd19f07cf404]: Commencement: Sch. 11 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-241d7ec606292438e2d60911c6f056b3]: Textual amendment: Sch. 11 para. 4(2)(i) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [14(a)](https://www.legislation.gov.uk/wsi/2016/50/regulation/14/a)
+[^c-241d7ec606292438e2d60911c6f056b3]: Textual amendment: Sch. 11 para. 4(2)(i) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [14(a)](https://www.legislation.gov.uk/wsi/2016/50/regulation/14/a)
 
-[^key-53f008b34926138376073297c973217e]: Textual amendment: Sch. 11 para. 4(2)(j) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/14/b)
+[^c-53f008b34926138376073297c973217e]: Textual amendment: Sch. 11 para. 4(2)(j) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/14/b)
 
 [^M_F_c2648caa-d4b0-4c6e-83f2-a45ef6e82d76]: Textual amendment: Sch. 11 para. 4(2A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [14(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/14/b)
 
 [^f00365]: Footnote: [1968 c.46](https://www.legislation.gov.uk/ukpga/1968/46).
 
-[^key-6c47f5643f59b959dcf51feb3fbc6185]: Commencement: Sch. 11 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-6c47f5643f59b959dcf51feb3fbc6185]: Commencement: Sch. 11 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-1da81af36bfd005bc90e042f14063344]: Commencement: Sch. 11 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-1da81af36bfd005bc90e042f14063344]: Commencement: Sch. 11 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-6e32cc17ad1abc20c322c5ef327fb2eb]: Commencement: Sch. 11 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-6e32cc17ad1abc20c322c5ef327fb2eb]: Commencement: Sch. 11 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-29f7161ea49e79a675cc545265bd5362]: Commencement: Sch. 11 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-29f7161ea49e79a675cc545265bd5362]: Commencement: Sch. 11 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-f3446b9d4979ee062272976572d3a131]: Commencement: Sch. 11 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-f3446b9d4979ee062272976572d3a131]: Commencement: Sch. 11 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-9709d181594a5de09ba859c131411230]: Textual amendment: Words in [Sch. 11 para. 9(2)(b)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/9/2/b) omitted (15.1.2014) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/wsi/2014/66/regulation/12/a/i)
+[^c-9709d181594a5de09ba859c131411230]: Textual amendment: Words in [Sch. 11 para. 9(2)(b)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/9/2/b) omitted (15.1.2014) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [12(a)(i)](https://www.legislation.gov.uk/wsi/2014/66/regulation/12/a/i)
 
-[^key-4bebf430576c84e125cc6a2b5b16148c]: Textual amendment: [Sch. 11 para. 9(6)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/9/6) inserted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/wsi/2014/66/regulation/12/a/ii)
+[^c-4bebf430576c84e125cc6a2b5b16148c]: Textual amendment: [Sch. 11 para. 9(6)](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/9/6) inserted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [12(a)(ii)](https://www.legislation.gov.uk/wsi/2014/66/regulation/12/a/ii)
 
-[^key-bbf297f8d23f38bc924432ae371019f8]: Commencement: Sch. 11 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-bbf297f8d23f38bc924432ae371019f8]: Commencement: Sch. 11 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-48e75413737764b7bfada43e864762b7]: Textual amendment: Words in [Sch. 11 para. 10](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/10) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/66/regulation/12/b)
+[^c-48e75413737764b7bfada43e864762b7]: Textual amendment: Words in [Sch. 11 para. 10](https://www.legislation.gov.uk/wsi/2013/3029/schedule/11/paragraph/10) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [12(b)](https://www.legislation.gov.uk/wsi/2014/66/regulation/12/b)
 
-[^key-e010fa8c8b9327c4049b8f1a3bcf8daf]: Commencement: Sch. 11 para. 11 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e010fa8c8b9327c4049b8f1a3bcf8daf]: Commencement: Sch. 11 para. 11 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-a557fa90ededd196f81ef175664d92cf]: Commencement: Sch. 11 para. 12 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a557fa90ededd196f81ef175664d92cf]: Commencement: Sch. 11 para. 12 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-b314a662996b488176c04eaf93cf4daf]: Commencement: Sch. 11 para. 13 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-b314a662996b488176c04eaf93cf4daf]: Commencement: Sch. 11 para. 13 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-d22dc82a4d3d31d20299c75d79d6f336]: Commencement: Sch. 11 para. 14 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-d22dc82a4d3d31d20299c75d79d6f336]: Commencement: Sch. 11 para. 14 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-f6b8a403fffeb90acc285735b37378f4]: Commencement: Sch. 11 para. 15 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-f6b8a403fffeb90acc285735b37378f4]: Commencement: Sch. 11 para. 15 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

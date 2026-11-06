@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357WBB. Section 357WBA: supplementary[^key-76dc0ffe31bb5ee5604e054bf2f14f24][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357WBB. Section 357WBA: supplementary[^c-76dc0ffe31bb5ee5604e054bf2f14f24][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76dc0ffe31bb5ee5604e054bf2f14f24]: Textual amendment: Ss. 357WBA-357WBC inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/15)
+[^c-76dc0ffe31bb5ee5604e054bf2f14f24]: Textual amendment: Ss. 357WBA-357WBC inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/15)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)

@@ -33,9 +33,9 @@ Regulation 18(2)
   and who, if the person were in the employment of an NHS organisation, would be eligible to join the scheme;
 - (b) who is a member of a body constituted under the 2006 Act or the 2006 (Wales) Act, other than a National Health Service trust or an NHS foundation trust;
 - (c) whose employment by an employing authority has been transferred to another body pursuant to an enactment relating (in whole or in part) to health services.
-- (d)[^key-fe10d95a68f9bb507d1b97f1f6569fc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-fe10d95a68f9bb507d1b97f1f6569fc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) A person who, while continuing in, or within twelve months after leaving, employment in which the person was entitled to participate in pension benefits provided by this scheme or a connected scheme[^key-e74ef199bc87afe57f6cdb57cc6775c6] (any period spent by that person on an approved course of study or training being left out of account), enters such other employment as may be approved by the Secretary of State for the purposes of these Regulations.
+(3) A person who, while continuing in, or within twelve months after leaving, employment in which the person was entitled to participate in pension benefits provided by this scheme or a connected scheme[^c-e74ef199bc87afe57f6cdb57cc6775c6] (any period spent by that person on an approved course of study or training being left out of account), enters such other employment as may be approved by the Secretary of State for the purposes of these Regulations.
 
 (4) An approval given for the purposes of sub-paragraph (3) may specify provisions of these regulations which—
 
@@ -44,6 +44,6 @@ Regulation 18(2)
 
 ## Annotations
 
-[^key-fe10d95a68f9bb507d1b97f1f6569fc6]: Textual amendment: [Sch. 6 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2015/94/schedule/6/paragraph/1/2/d) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [117(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/117/2)
+[^c-fe10d95a68f9bb507d1b97f1f6569fc6]: Textual amendment: [Sch. 6 para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2015/94/schedule/6/paragraph/1/2/d) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [117(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/117/2)
 
-[^key-e74ef199bc87afe57f6cdb57cc6775c6]: Textual amendment: Words in [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/6/paragraph/1/3) substituted (1.4.2015) by [The National Health Service Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/581)](https://www.legislation.gov.uk/uksi/2015/581), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/581/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/581/regulation/2/3/b)
+[^c-e74ef199bc87afe57f6cdb57cc6775c6]: Textual amendment: Words in [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/6/paragraph/1/3) substituted (1.4.2015) by [The National Health Service Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/581)](https://www.legislation.gov.uk/uksi/2015/581), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/581/regulation/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/581/regulation/2/3/b)

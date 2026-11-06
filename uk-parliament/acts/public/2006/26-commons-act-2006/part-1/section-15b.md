@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15B. Register of section 15A statements[^key-b9f4f0fe861ad1caf17433f59f587bf7]
+## 15B. Register of section 15A statements[^c-b9f4f0fe861ad1caf17433f59f587bf7]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f4f0fe861ad1caf17433f59f587bf7]: Textual amendment: Ss. 15A , 15B inserted (25.6.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/b); S.I. 2013/1766, art. 3(b)
+[^c-b9f4f0fe861ad1caf17433f59f587bf7]: Textual amendment: Ss. 15A , 15B inserted (25.6.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 15](https://www.legislation.gov.uk/ukpga/2013/27/section/15), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 4(b)](https://www.legislation.gov.uk/uksi/2013/1488/article/4/b); S.I. 2013/1766, art. 3(b)

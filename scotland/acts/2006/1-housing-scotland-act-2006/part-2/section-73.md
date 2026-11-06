@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. When assistance must be provided[^key-a7b93a3df647eadd8a2814650c61f436][^key-5b3503eb048b203e674310315080263a]
+## 73. When assistance must be provided[^c-a7b93a3df647eadd8a2814650c61f436][^c-5b3503eb048b203e674310315080263a]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b93a3df647eadd8a2814650c61f436]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2006/1/section/73) in force at 29.9.2008 for specified purposes by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3)
+[^c-a7b93a3df647eadd8a2814650c61f436]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2006/1/section/73) in force at 29.9.2008 for specified purposes by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3)
 
-[^key-5b3503eb048b203e674310315080263a]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2006/1/section/73) in force at 1.4.2009 in so far as not already in force by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-5b3503eb048b203e674310315080263a]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2006/1/section/73) in force at 1.4.2009 in so far as not already in force by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

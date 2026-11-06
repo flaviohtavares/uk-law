@@ -50,7 +50,7 @@ A draft of this Order has been laid before the House of Commons and approved by 
 
 Accordingly, the First Secretary of State makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-fd327eec6ec4602755aa8830e52322d7]
+## 1. Citation, commencement and interpretation[^c-fd327eec6ec4602755aa8830e52322d7]
 
 (1) This Order may be cited as the Asian Infrastructure Investment Bank (Initial Capital Contribution) Order 2015 and comes into force on the day after the day on which it is made.
 
@@ -59,9 +59,9 @@ Accordingly, the First Secretary of State makes the following Order:
 - “the Bank” means the Asian Infrastructure Investment Bank established by Articles of Agreement dated 29th June 2015;
 - “the Government” means the Government of the United Kingdom.
 
-## 2. Relevant payment[^key-764e3d8589d8878d64410d9c9e464041]
+## 2. Relevant payment[^c-764e3d8589d8878d64410d9c9e464041]
 
-The Secretary of State or the Treasury[^key-46e427cea7cf604cf436609059bbc435] may, on behalf of the Government, and in accordance with section 11 of the Act, make payment of an initial capital contribution not exceeding the equivalent in pounds sterling at the time of the payment of USD 3,054,700,000 as required by the Articles 5 and 58 of, and Schedule A to the Articles of Agreement of the Bank.
+The Secretary of State or the Treasury[^c-46e427cea7cf604cf436609059bbc435] may, on behalf of the Government, and in accordance with section 11 of the Act, make payment of an initial capital contribution not exceeding the equivalent in pounds sterling at the time of the payment of USD 3,054,700,000 as required by the Articles 5 and 58 of, and Schedule A to the Articles of Agreement of the Bank.
 
 George Osborne
 
@@ -91,8 +91,8 @@ An impact assessment has not been prepared in relation to this Order as it will 
 
 [^f00001]: Footnote: [2002 c.1](https://www.legislation.gov.uk/ukpga/2002/1).
 
-[^key-fd327eec6ec4602755aa8830e52322d7]: Commencement: Art. 1 in force at 28.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1835/article/1/1)
+[^c-fd327eec6ec4602755aa8830e52322d7]: Commencement: Art. 1 in force at 28.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1835/article/1/1)
 
-[^key-764e3d8589d8878d64410d9c9e464041]: Commencement: Art. 2 in force at 28.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1835/article/1/1)
+[^c-764e3d8589d8878d64410d9c9e464041]: Commencement: Art. 2 in force at 28.10.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1835/article/1/1)
 
-[^key-46e427cea7cf604cf436609059bbc435]: Textual amendment: Words in art. 2 inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))
+[^c-46e427cea7cf604cf436609059bbc435]: Textual amendment: Words in art. 2 inserted (10.1.2018) by [The Transfer of Functions (International Development) Order 2017 (S.I. 2017/1283)](https://www.legislation.gov.uk/uksi/2017/1283), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/1283/article/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/1283/schedule/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/1283/article/3))

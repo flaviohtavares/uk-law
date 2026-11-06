@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Legal Services Act 2007[^key-f2aff71e74749cee4040d836f2d7eae1][^key-d59f7d90006c80eecf139e5927917210]
+## 95. Legal Services Act 2007[^c-f2aff71e74749cee4040d836f2d7eae1][^c-d59f7d90006c80eecf139e5927917210]
 
 *Extent: E+W*
 
@@ -76,9 +76,9 @@ summary: ''
 
 ## Annotations
 
-[^key-f2aff71e74749cee4040d836f2d7eae1]: Commencement: Art. 95 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-f2aff71e74749cee4040d836f2d7eae1]: Commencement: Art. 95 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d59f7d90006c80eecf139e5927917210]: Commencement: [Art. 95](https://www.legislation.gov.uk/uksi/2018/1253/article/95) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d59f7d90006c80eecf139e5927917210]: Commencement: [Art. 95](https://www.legislation.gov.uk/uksi/2018/1253/article/95) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00132]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 

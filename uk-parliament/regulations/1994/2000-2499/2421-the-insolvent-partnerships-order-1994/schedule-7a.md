@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7A[^key-6466ec5a513310bb6eca4789a24fb29c]
+## SCHEDULE 7A[^c-6466ec5a513310bb6eca4789a24fb29c]
 
 *Extent: E+W*
 
@@ -154,4 +154,4 @@ Sections 246ZE, 246ZF, 379ZA and 379ZB of the Act are set out as modified in thi
 
 ## Annotations
 
-[^key-6466ec5a513310bb6eca4789a24fb29c]: Textual amendment: Sch. 7A inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-6466ec5a513310bb6eca4789a24fb29c]: Textual amendment: Sch. 7A inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))

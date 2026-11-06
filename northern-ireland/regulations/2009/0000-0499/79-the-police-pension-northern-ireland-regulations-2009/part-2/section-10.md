@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Previous service reckonable on payment[^key-063313087b5e5585e9b55e0f58f0ed77]
+## 10. Previous service reckonable on payment[^c-063313087b5e5585e9b55e0f58f0ed77]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ inform the Board that he wishes to make the payment referred to in paragraph (1)
 
 ## Annotations
 
-[^key-063313087b5e5585e9b55e0f58f0ed77]: Commencement: Reg. 10 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-063313087b5e5585e9b55e0f58f0ed77]: Commencement: Reg. 10 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

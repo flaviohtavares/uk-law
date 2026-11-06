@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Voluntary contributions by persons to whom Part 1 of the Act applies[^key-e18a9580baad5e8fb69585507c6078c4]
+## 112. Voluntary contributions by persons to whom Part 1 of the Act applies[^c-e18a9580baad5e8fb69585507c6078c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e18a9580baad5e8fb69585507c6078c4]: Commencement: Art. 112 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e18a9580baad5e8fb69585507c6078c4]: Commencement: Art. 112 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

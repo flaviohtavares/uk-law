@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. First post-designation instruments and articles of designated institutions...[^key-d00e4b9a74e43ae017e1079afee2fb05]
+## 29A. First post-designation instruments and articles of designated institutions...[^c-d00e4b9a74e43ae017e1079afee2fb05]
 
 *Extent: E+W*
 
-(1) The first post-designation instrument and articles of government of a designated institution to which section 29 applies must each comply with subsection (3)[^key-094e7f1e02ada96a0f498220d05301a1]....
+(1) The first post-designation instrument and articles of government of a designated institution to which section 29 applies must each comply with subsection (3)[^c-094e7f1e02ada96a0f498220d05301a1]....
 
 (2) The “first post-designation instrument and articles of government” of a designated institution are the first instrument of government and articles of government that the institution has after the designation takes effect.
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) the governing body of the institution, and
 - (b) where there is power under a regulatory instrument to make the instrument, and that power is exercisable by persons other than the governing body of the institution, the persons by whom the power is exercisable.
 
-(6)[^key-99eaa0e2766f1e7de5918c041ca7d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-99eaa0e2766f1e7de5918c041ca7d13d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this section “the appropriate authority”—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d00e4b9a74e43ae017e1079afee2fb05]: Textual amendment: Words in s. 29A heading omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(1)(c)](https://www.legislation.gov.uk/anaw/2014/1/section/4/1/c), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
+[^c-d00e4b9a74e43ae017e1079afee2fb05]: Textual amendment: Words in s. 29A heading omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(1)(c)](https://www.legislation.gov.uk/anaw/2014/1/section/4/1/c), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
 
-[^key-094e7f1e02ada96a0f498220d05301a1]: Textual amendment: Words in s. 29A(1) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(1)(a)](https://www.legislation.gov.uk/anaw/2014/1/section/4/1/a), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
+[^c-094e7f1e02ada96a0f498220d05301a1]: Textual amendment: Words in s. 29A(1) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(1)(a)](https://www.legislation.gov.uk/anaw/2014/1/section/4/1/a), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
 
-[^key-99eaa0e2766f1e7de5918c041ca7d13d]: Textual amendment: S. 29A(6) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(1)(b)](https://www.legislation.gov.uk/anaw/2014/1/section/4/1/b), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
+[^c-99eaa0e2766f1e7de5918c041ca7d13d]: Textual amendment: S. 29A(6) omitted (1.9.2014) by virtue of [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(1)(b)](https://www.legislation.gov.uk/anaw/2014/1/section/4/1/b), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Decisions on appeals under section 72[^key-4975da59ee5ad239fd012e5e7efc7978]
+## 73. Decisions on appeals under section 72[^c-4975da59ee5ad239fd012e5e7efc7978]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ On appeal under section 72, the Education Tribunal for Wales may—
 
 ## Annotations
 
-[^key-4975da59ee5ad239fd012e5e7efc7978]: Commencement: S. 73 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)
+[^c-4975da59ee5ad239fd012e5e7efc7978]: Commencement: S. 73 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)

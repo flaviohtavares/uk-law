@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 223. Requirement to tax costs[^key-6d9e6ddf953b9701b349847964769173]
+## 223. Requirement to tax costs[^c-6d9e6ddf953b9701b349847964769173]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d9e6ddf953b9701b349847964769173]: Commencement: [Rule 223](https://www.legislation.gov.uk/nisr/2026/11/rule/223) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6d9e6ddf953b9701b349847964769173]: Commencement: [Rule 223](https://www.legislation.gov.uk/nisr/2026/11/rule/223) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

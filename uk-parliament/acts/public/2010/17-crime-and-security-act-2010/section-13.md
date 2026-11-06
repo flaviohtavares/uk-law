@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. “Qualifying offence”[^key-43e837e6f64eacc52b6f83ec8e34a621][^key-00c753f8a2948508c3b24540c5579e11]
+## 13. “Qualifying offence”[^c-43e837e6f64eacc52b6f83ec8e34a621][^c-00c753f8a2948508c3b24540c5579e11]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 >
 > (3) The Secretary of State may by order amend paragraph (2) (subject to Article 89).
 >
-> (3A)[^key-e9bdad8b29ec58ded1e171a5e006e69f] The power to make an order under paragraph (3) is exercisable by the Department of Justice (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
+> (3A)[^c-e9bdad8b29ec58ded1e171a5e006e69f] The power to make an order under paragraph (3) is exercisable by the Department of Justice (and not by the Secretary of State) so far as the power may be used to make provision which could be made by an Act of the Northern Ireland Assembly without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
 >
 > (4) In paragraph (1)(b) “**ancillary offence**”, in relation to an offence, means—
 >
@@ -61,7 +61,7 @@ summary: ''
 > - (b) an offence under Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) in relation to the offence (including, in relation to times before the commencement of that Part, an offence of incitement);
 > - (c) attempting or conspiring to commit the offence.
 
-(2)[^key-30f414b4898f602da54d6df0ecf873a6] Amend Article 89 of that Order (orders and regulations) as follows—
+(2)[^c-30f414b4898f602da54d6df0ecf873a6] Amend Article 89 of that Order (orders and regulations) as follows—
 
 - (a) in paragraph (1)—
   - (i) after “made” insert “by the Secretary of State”; and
@@ -72,10 +72,10 @@ summary: ''
 
 ## Annotations
 
-[^key-43e837e6f64eacc52b6f83ec8e34a621]: Commencement: S. 13 in force at 1.6.2021 for specified purposes by [S.I. 2021/621](https://www.legislation.gov.uk/uksi/2021/621), [art. 2](https://www.legislation.gov.uk/uksi/2021/621/article/2)
+[^c-43e837e6f64eacc52b6f83ec8e34a621]: Commencement: S. 13 in force at 1.6.2021 for specified purposes by [S.I. 2021/621](https://www.legislation.gov.uk/uksi/2021/621), [art. 2](https://www.legislation.gov.uk/uksi/2021/621/article/2)
 
-[^key-00c753f8a2948508c3b24540c5579e11]: Commencement: S. 13 in force at 1.6.2021 for specified purposes by [S.R. 2021/135](https://www.legislation.gov.uk/nisr/2021/135), [art. 2](https://www.legislation.gov.uk/nisr/2021/135/article/2)
+[^c-00c753f8a2948508c3b24540c5579e11]: Commencement: S. 13 in force at 1.6.2021 for specified purposes by [S.R. 2021/135](https://www.legislation.gov.uk/nisr/2021/135), [art. 2](https://www.legislation.gov.uk/nisr/2021/135/article/2)
 
-[^key-e9bdad8b29ec58ded1e171a5e006e69f]: Textual amendment: Words in s. 13(1) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/2/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-e9bdad8b29ec58ded1e171a5e006e69f]: Textual amendment: Words in s. 13(1) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/2/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-30f414b4898f602da54d6df0ecf873a6]: Textual amendment: S. 13(2) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/2/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-30f414b4898f602da54d6df0ecf873a6]: Textual amendment: S. 13(2) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/22/2/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

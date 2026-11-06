@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.99. Claim established by affidavit[^key-a8a1441f8bc0b31e25a26496a3748fe5]
+## 6.99. Claim established by affidavit[^c-a8a1441f8bc0b31e25a26496a3748fe5]
 
 *Extent: E+W*
 
-(1) [^m00161]The trustee or the official receiver, acting as receiver and manager[^key-201f057fcfd4ceb97c45bd3486787a5d] may, if he thinks it necessary, require a claim of debt to be verified by affidavit, for which purpose there shall be used the form known as “affidavit of debt”.
+(1) [^m00161]The trustee or the official receiver, acting as receiver and manager[^c-201f057fcfd4ceb97c45bd3486787a5d] may, if he thinks it necessary, require a claim of debt to be verified by affidavit, for which purpose there shall be used the form known as “affidavit of debt”.
 
 (2) An affidavit may be required notwithstanding that a proof of debt has already been lodged.
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a8a1441f8bc0b31e25a26496a3748fe5]: Commencement: [Rule 6.99](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.99) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a8a1441f8bc0b31e25a26496a3748fe5]: Commencement: [Rule 6.99](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.99) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00161]: Marginal citation: \[FORM 6.39\]
 
-[^key-201f057fcfd4ceb97c45bd3486787a5d]: Textual amendment: Words in [rule 6.99(1)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.99/1) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [29](https://www.legislation.gov.uk/uksi/2004/584/article/29)
+[^c-201f057fcfd4ceb97c45bd3486787a5d]: Textual amendment: Words in [rule 6.99(1)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.99/1) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [29](https://www.legislation.gov.uk/uksi/2004/584/article/29)

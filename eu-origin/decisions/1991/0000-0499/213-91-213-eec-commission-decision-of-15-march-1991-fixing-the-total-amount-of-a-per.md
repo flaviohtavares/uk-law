@@ -31,10 +31,10 @@ summary: ''
 
 of 15 March 1991 fixing the total amount of a periodic penalty payment imposed on Compagnie des Cristalleries Baccarat pursuant to Article 16 of Council Regulation No 17 (Case IV/33.300 - Baccarat) (Only the French text is authentic) (revoked)
 
-[^key-ab5cc96111be03f4bdbb6d3a61986fb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab5cc96111be03f4bdbb6d3a61986fb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-ab5cc96111be03f4bdbb6d3a61986fb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-ab5cc96111be03f4bdbb6d3a61986fb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab5cc96111be03f4bdbb6d3a61986fb2]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab5cc96111be03f4bdbb6d3a61986fb2]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

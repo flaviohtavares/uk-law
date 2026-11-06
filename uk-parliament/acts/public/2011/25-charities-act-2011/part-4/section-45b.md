@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Power to delay entry of name in register following a s. 42 direction[^key-eb27395ac6bcc7c653154968df29523b]
+## 45B. Power to delay entry of name in register following a s. 42 direction[^c-eb27395ac6bcc7c653154968df29523b]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb27395ac6bcc7c653154968df29523b]: Textual amendment: [S. 45B](https://www.legislation.gov.uk/ukpga/2011/25/section/45B) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 27](https://www.legislation.gov.uk/ukpga/2022/6/section/27), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/14)
+[^c-eb27395ac6bcc7c653154968df29523b]: Textual amendment: [S. 45B](https://www.legislation.gov.uk/ukpga/2011/25/section/45B) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 27](https://www.legislation.gov.uk/ukpga/2022/6/section/27), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Application of regulation 39[^key-f0b1c9e887966ea444941e39a8697f50]
+## 40. Application of regulation 39[^c-f0b1c9e887966ea444941e39a8697f50]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 39 applies to a credit rating agency who—
 
 ## Annotations
 
-[^key-f0b1c9e887966ea444941e39a8697f50]: Commencement: Reg. 40 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-f0b1c9e887966ea444941e39a8697f50]: Commencement: Reg. 40 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E15. Retirement benefits on cessation of further employment[^key-d54a82a4cb2b60a0ea034135538fea61]
+## E15. Retirement benefits on cessation of further employment[^c-d54a82a4cb2b60a0ea034135538fea61]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ but the additional retirement lump sum is subject to reduction under paragraph (
 
 ## Annotations
 
-[^key-d54a82a4cb2b60a0ea034135538fea61]: Commencement: Reg. E15 in operation at 2.11.1998, see reg. A1
+[^c-d54a82a4cb2b60a0ea034135538fea61]: Commencement: Reg. E15 in operation at 2.11.1998, see reg. A1

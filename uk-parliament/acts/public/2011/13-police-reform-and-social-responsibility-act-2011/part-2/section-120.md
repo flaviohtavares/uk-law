@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Suspension of licence or certificate for failing to pay annual fee[^key-4e5b62c3579a4045b6a3324255c69c63]
+## 120. Suspension of licence or certificate for failing to pay annual fee[^c-4e5b62c3579a4045b6a3324255c69c63]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e5b62c3579a4045b6a3324255c69c63]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2011/13/section/120) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-4e5b62c3579a4045b6a3324255c69c63]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2011/13/section/120) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

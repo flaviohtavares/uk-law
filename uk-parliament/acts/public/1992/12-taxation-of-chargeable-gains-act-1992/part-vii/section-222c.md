@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222C. Day count test[^key-72dac0ced9cf5235a50d33f0065dd7aa]
+## 222C. Day count test[^c-72dac0ced9cf5235a50d33f0065dd7aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ where—
 
 ## Annotations
 
-[^key-72dac0ced9cf5235a50d33f0065dd7aa]: Textual amendment: Ss. 222A-222C inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/3)
+[^c-72dac0ced9cf5235a50d33f0065dd7aa]: Textual amendment: Ss. 222A-222C inserted (with effect in accordance with Sch. 9 para. 10 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2015/11/schedule/9/paragraph/3)

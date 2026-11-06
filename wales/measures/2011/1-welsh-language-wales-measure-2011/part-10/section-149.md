@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. The Welsh Language Partnership Council[^key-917fe94d3da270a6df28df7940b6d08f]
+## 149. The Welsh Language Partnership Council[^c-917fe94d3da270a6df28df7940b6d08f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-917fe94d3da270a6df28df7940b6d08f]: Commencement: [S. 149](https://www.legislation.gov.uk/mwa/2011/1/section/149) in force at 5.2.2012 by [S.I. 2012/223](https://www.legislation.gov.uk/wsi/2012/223), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/223/article/2/b)
+[^c-917fe94d3da270a6df28df7940b6d08f]: Commencement: [S. 149](https://www.legislation.gov.uk/mwa/2011/1/section/149) in force at 5.2.2012 by [S.I. 2012/223](https://www.legislation.gov.uk/wsi/2012/223), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/223/article/2/b)

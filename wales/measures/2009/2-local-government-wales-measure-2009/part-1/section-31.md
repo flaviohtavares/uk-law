@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Power of Welsh Ministers to modify enactments and confer new powers[^key-64e3a9cbff600d494a2d2b4332ae1193]
+## 31. Power of Welsh Ministers to modify enactments and confer new powers[^c-64e3a9cbff600d494a2d2b4332ae1193]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ any power which they consider necessary or expedient to permit or facilitate com
 
 ## Annotations
 
-[^key-64e3a9cbff600d494a2d2b4332ae1193]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2009/2/section/31) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/k)
+[^c-64e3a9cbff600d494a2d2b4332ae1193]: Commencement: [S. 31](https://www.legislation.gov.uk/mwa/2009/2/section/31) in force at 17.7.2009 by [S.I. 2009/1796](https://www.legislation.gov.uk/wsi/2009/1796), [art. 2(k)](https://www.legislation.gov.uk/wsi/2009/1796/article/2/k)

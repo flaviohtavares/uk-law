@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Temporary event notices: increase in maximum number of events per year[^key-e4fbf1046e0828dd5da5fb83aa159148]
+## 68. Temporary event notices: increase in maximum number of events per year[^c-e4fbf1046e0828dd5da5fb83aa159148]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4fbf1046e0828dd5da5fb83aa159148]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2015/20/section/68) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(h)](https://www.legislation.gov.uk/uksi/2015/994/article/6/h)
+[^c-e4fbf1046e0828dd5da5fb83aa159148]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2015/20/section/68) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(h)](https://www.legislation.gov.uk/uksi/2015/994/article/6/h)

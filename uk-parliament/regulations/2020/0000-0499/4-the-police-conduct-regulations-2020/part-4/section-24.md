@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Presenting of case by the Director General[^key-631a6212d2dddd9ab4aeaf1c2fbf88cb]
+## 24. Presenting of case by the Director General[^c-631a6212d2dddd9ab4aeaf1c2fbf88cb]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) This paragraph applies to a case where—
 
-- (a) it is a case in respect of which the duty referred to in regulation 23(9)(a) or (c)[^key-1de1eff05160d1cf602aa157508f1f77] arises, and
+- (a) it is a case in respect of which the duty referred to in regulation 23(9)(a) or (c)[^c-1de1eff05160d1cf602aa157508f1f77] arises, and
 - (b) one of the conditions set out in paragraph (3) is satisfied.
 
 (3) The conditions are—
@@ -45,9 +45,9 @@ summary: ''
 
 ## Annotations
 
-[^key-631a6212d2dddd9ab4aeaf1c2fbf88cb]: Commencement: Reg. 24 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-631a6212d2dddd9ab4aeaf1c2fbf88cb]: Commencement: Reg. 24 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-1de1eff05160d1cf602aa157508f1f77]: Textual amendment: Words in reg. 24(2)(a) inserted (1.2.2020 immediately after the coming into force of these Regulations) by [The Police (Conduct) (Amendment) Regulations 2020 (S.I. 2020/78)](https://www.legislation.gov.uk/uksi/2020/78), [regs. 1](https://www.legislation.gov.uk/uksi/2020/78/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/78/regulation/2/2)
+[^c-1de1eff05160d1cf602aa157508f1f77]: Textual amendment: Words in reg. 24(2)(a) inserted (1.2.2020 immediately after the coming into force of these Regulations) by [The Police (Conduct) (Amendment) Regulations 2020 (S.I. 2020/78)](https://www.legislation.gov.uk/uksi/2020/78), [regs. 1](https://www.legislation.gov.uk/uksi/2020/78/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/78/regulation/2/2)
 
 [^c23960761]: Marginal citation: [Paragraph 23(5A)](https://www.legislation.gov.uk/uksi/2020/4/paragraph/23/5A) was amended by paragraphs 15 and 56(1) to (3) and (16)(c)(ii) of Schedule 9 to the Policing and Crime Act 2017.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendments to Section D of Part 2 of Schedule 1 (fair value accounting: non-IAS individual accounts)[^key-391b3102fbc14d84a15fba90c484ffab]
+## 55. Amendments to Section D of Part 2 of Schedule 1 (fair value accounting: non-IAS individual accounts)[^c-391b3102fbc14d84a15fba90c484ffab]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ In Section D of Part 2 of Schedule 1 (fair value accounting: non-IAS individual 
 
 ## Annotations
 
-[^key-391b3102fbc14d84a15fba90c484ffab]: Commencement: Reg. 55 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-391b3102fbc14d84a15fba90c484ffab]: Commencement: Reg. 55 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

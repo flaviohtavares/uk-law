@@ -22,13 +22,13 @@ summary: ''
 
 Article 15
 
-### PART 1 — STREET TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-cb27329ae16a278814282bcbdae34a9c]
+### PART 1 — STREET TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-cb27329ae16a278814282bcbdae34a9c]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New street to be substituted* |
 | --- | --- | --- | --- |
 | London Borough of Bexley | Thames Water Access Road | The street shown by a blue and black line on the access and rights of way plan, from point H to point I. | To be substituted by a length of street to be provided to commence at point H and terminate at a junction with Norman Road at any location between points G and J on the access and rights of way plan. |
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-593bb807db7d314eccd2c892de09176b]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE PERMANENTLY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-593bb807db7d314eccd2c892de09176b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New private means of access to be substituted* |
 | --- | --- | --- | --- |
@@ -36,6 +36,6 @@ Article 15
 
 ## Annotations
 
-[^key-cb27329ae16a278814282bcbdae34a9c]: Commencement: Sch. 6 Pt. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-cb27329ae16a278814282bcbdae34a9c]: Commencement: Sch. 6 Pt. 1 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-593bb807db7d314eccd2c892de09176b]: Commencement: Sch. 6 Pt. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-593bb807db7d314eccd2c892de09176b]: Commencement: Sch. 6 Pt. 2 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 154. Powers of disclaimer[^key-b18a03a1bbc3460ac025126fceb2d8a2]
+## 154. Powers of disclaimer[^c-b18a03a1bbc3460ac025126fceb2d8a2]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b18a03a1bbc3460ac025126fceb2d8a2]: Commencement: [Rule 154](https://www.legislation.gov.uk/nisr/2026/11/rule/154) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b18a03a1bbc3460ac025126fceb2d8a2]: Commencement: [Rule 154](https://www.legislation.gov.uk/nisr/2026/11/rule/154) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00014]: Footnote: Article 152 was amended by Banking Act [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1), [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 

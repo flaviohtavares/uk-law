@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Agreements with local authorities[^key-e42a312a5f75623cc1427d52fee9018a]
+## 84. Agreements with local authorities[^c-e42a312a5f75623cc1427d52fee9018a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e42a312a5f75623cc1427d52fee9018a]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2006/16/section/84) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-e42a312a5f75623cc1427d52fee9018a]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2006/16/section/84) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

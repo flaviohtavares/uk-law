@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Use of emblems on ballot papers[^key-ee5ce5b506a0c41457ce2d6f616cde23]
+## 20. Use of emblems on ballot papers[^c-ee5ce5b506a0c41457ce2d6f616cde23]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee5ce5b506a0c41457ce2d6f616cde23]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/6/section/20) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/414/article/3/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))
+[^c-ee5ce5b506a0c41457ce2d6f616cde23]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2013/6/section/20) in force at 6.4.2014 by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/414/article/3/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/414/article/4))

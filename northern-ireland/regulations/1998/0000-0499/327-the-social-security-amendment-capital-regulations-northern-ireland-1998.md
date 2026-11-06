@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 132(3), 133(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 2(2), 14(1) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 2(1) and (2)(*b*) is concerned, and after agreement by the Social Security Advisory Committee that the proposal in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5a9da4e3a6fe48d1a922c941a4ba38ad]
+## 1. Citation, commencement and interpretation[^c-5a9da4e3a6fe48d1a922c941a4ba38ad]
 
 (1) These Regulations may be cited as the Social Security (Amendment) (Capital) Regulations (Northern Ireland) 1998 and shall come into operation on 12th October 1998.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Capital jointly held[^key-b8d49e0b827b256f7b3d5b3c38e3c3fa]
+## 2. Capital jointly held[^c-b8d49e0b827b256f7b3d5b3c38e3c3fa]
 
 (1) In paragraph (1) of each of the regulations specified in paragraph (2) for the words from “to an equal share” to the end of the paragraph there shall be substituted the following—
 
@@ -57,7 +57,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 (2) The regulations specified for the purposes of paragraph (1) (which relate to capital jointly held) are—
 
 - (a) regulation 52 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00006];
-- (b)[^key-0ea98e8247219aef2a6c0816f6d67ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0ea98e8247219aef2a6c0816f6d67ec0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 35 of the Family Credit (General) Regulations (Northern Ireland) 1987[^f00008];
 - (d) regulation 39 of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00009];
 - (e) regulation 115 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00010].
@@ -98,15 +98,15 @@ In so far as these Regulations are required, for the purpose of regulation 2(1) 
 
 [^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-5a9da4e3a6fe48d1a922c941a4ba38ad]: Commencement: Reg. 1 in operation at 12.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/327/regulation/1/1)
+[^c-5a9da4e3a6fe48d1a922c941a4ba38ad]: Commencement: Reg. 1 in operation at 12.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/327/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b8d49e0b827b256f7b3d5b3c38e3c3fa]: Commencement: Reg. 2 in operation at 12.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/327/regulation/1/1)
+[^c-b8d49e0b827b256f7b3d5b3c38e3c3fa]: Commencement: Reg. 2 in operation at 12.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/327/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
-[^key-0ea98e8247219aef2a6c0816f6d67ec0]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/1998/327/regulation/2/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-0ea98e8247219aef2a6c0816f6d67ec0]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/1998/327/regulation/2/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00008]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); relevant amending Regulations are [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 

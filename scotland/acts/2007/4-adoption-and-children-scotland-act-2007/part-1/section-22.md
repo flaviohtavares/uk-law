@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Restrictions on removal: application for adoption order pending[^key-79e6c10f6d1af5413a1e65c054d4e3f6][^key-1aa9b1ca6bb367ab31400e0712afec2e][^key-6180c22d3d4c7b26fb763c5ecd6ddd2c][^key-95240b7bee4965e5b674a0934d9d3d7c][^key-1aa9b1ca6bb367ab31400e0712afec2e]
+## 22. Restrictions on removal: application for adoption order pending[^c-79e6c10f6d1af5413a1e65c054d4e3f6][^c-1aa9b1ca6bb367ab31400e0712afec2e][^c-6180c22d3d4c7b26fb763c5ecd6ddd2c][^c-95240b7bee4965e5b674a0934d9d3d7c][^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 *Extent: S*
 
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-79e6c10f6d1af5413a1e65c054d4e3f6]: Commencement: S. 22 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-79e6c10f6d1af5413a1e65c054d4e3f6]: Commencement: S. 22 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-6180c22d3d4c7b26fb763c5ecd6ddd2c]: Modification: S. 22 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/c)
+[^c-6180c22d3d4c7b26fb763c5ecd6ddd2c]: Modification: S. 22 excluded (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/4/c)
 
-[^key-95240b7bee4965e5b674a0934d9d3d7c]: Modification: S. 22 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-95240b7bee4965e5b674a0934d9d3d7c]: Modification: S. 22 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)

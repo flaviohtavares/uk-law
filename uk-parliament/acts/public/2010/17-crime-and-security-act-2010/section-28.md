@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Conditions for and contents of a domestic violence protection order[^M_I_2369b68a-211d-4c67-e2b2-9e7bbf4c8ffe][^M_I_387b1442-031c-41dd-bbd3-a0c7580a4a83][^key-92791ba4e24b56feb00a16a6337f6ece][^key-133ab8b387f951839e904b5dcc5d64d8]
+## 28. Conditions for and contents of a domestic violence protection order[^M_I_2369b68a-211d-4c67-e2b2-9e7bbf4c8ffe][^M_I_387b1442-031c-41dd-bbd3-a0c7580a4a83][^c-92791ba4e24b56feb00a16a6337f6ece][^c-133ab8b387f951839e904b5dcc5d64d8]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 [^M_I_387b1442-031c-41dd-bbd3-a0c7580a4a83]: Commencement: S. 28 coming into force (temp.) (7.10.2011 for specified police areas and policing divisions for a period ending on 29.6.2012 so that the Secretary of State may assess the effectiveness of this provision) by [The Crime and Security Act 2010 (Domestic Violence: Pilot Schemes) Order (No. 2) 2011 (S.I. 2011/2279)](https://www.legislation.gov.uk/uksi/2011/2279), [arts. 2](https://www.legislation.gov.uk/uksi/2011/2279/article/2), [3](https://www.legislation.gov.uk/uksi/2011/2279/article/3)
 
-[^key-92791ba4e24b56feb00a16a6337f6ece]: Commencement: S. 28 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
+[^c-92791ba4e24b56feb00a16a6337f6ece]: Commencement: S. 28 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
 
-[^key-133ab8b387f951839e904b5dcc5d64d8]: Commencement: S. 28 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)
+[^c-133ab8b387f951839e904b5dcc5d64d8]: Commencement: S. 28 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)

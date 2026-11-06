@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Restructuring of society[^key-cf8369da2ff0b6cacde52220b5ea51fb]
+## 97. Restructuring of society[^c-cf8369da2ff0b6cacde52220b5ea51fb]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf8369da2ff0b6cacde52220b5ea51fb]: Textual amendment: S. 97 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(4)](https://www.legislation.gov.uk/asp/2018/13/section/6/4), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/253/regulation/8))
+[^c-cf8369da2ff0b6cacde52220b5ea51fb]: Textual amendment: S. 97 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(4)](https://www.legislation.gov.uk/asp/2018/13/section/6/4), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/253/regulation/8))

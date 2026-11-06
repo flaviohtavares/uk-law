@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Further provision as to compliance and remediation notices[^key-d158f71a1d87f854d74961611fbc9287][^M_C_9def723d-c4a7-4fc9-9a79-756c939dad0a]
+## 45. Further provision as to compliance and remediation notices[^c-d158f71a1d87f854d74961611fbc9287][^M_C_9def723d-c4a7-4fc9-9a79-756c939dad0a]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ commits an offence.
 
 ## Annotations
 
-[^key-d158f71a1d87f854d74961611fbc9287]: Commencement: S. 45 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-d158f71a1d87f854d74961611fbc9287]: Commencement: S. 45 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
 [^M_C_9def723d-c4a7-4fc9-9a79-756c939dad0a]: Modification: Ss. 43-45 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [13](https://www.legislation.gov.uk/ssi/2020/316/article/13)

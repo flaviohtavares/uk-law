@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. The implementation body for language[^key-93e4dab6cb1ffe6d28bc18f820749581]
+## 17. The implementation body for language[^c-93e4dab6cb1ffe6d28bc18f820749581]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93e4dab6cb1ffe6d28bc18f820749581]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/1999/859/article/17) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-93e4dab6cb1ffe6d28bc18f820749581]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/1999/859/article/17) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

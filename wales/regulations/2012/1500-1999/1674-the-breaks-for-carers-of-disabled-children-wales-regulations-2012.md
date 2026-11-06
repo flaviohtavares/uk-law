@@ -31,7 +31,7 @@ summary: ''
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Breaks for Carers of Disabled Children (Wales) Regulations 2012 (revoked)[^key-4f487276e36b8831666ef1d71303ff0b]
+The Breaks for Carers of Disabled Children (Wales) Regulations 2012 (revoked)[^c-4f487276e36b8831666ef1d71303ff0b]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into force
 
 28 June 2012
 
-[^key-4f487276e36b8831666ef1d71303ff0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f487276e36b8831666ef1d71303ff0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-4f487276e36b8831666ef1d71303ff0b]
+## 1. Title, commencement and application[^c-4f487276e36b8831666ef1d71303ff0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4f487276e36b8831666ef1d71303ff0b]
+## 2. Interpretation[^c-4f487276e36b8831666ef1d71303ff0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Duty to make provision[^key-4f487276e36b8831666ef1d71303ff0b]
+## 3. Duty to make provision[^c-4f487276e36b8831666ef1d71303ff0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Types of services which must be provided[^key-4f487276e36b8831666ef1d71303ff0b]
+## 4. Types of services which must be provided[^c-4f487276e36b8831666ef1d71303ff0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4f487276e36b8831666ef1d71303ff0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4f487276e36b8831666ef1d71303ff0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f487276e36b8831666ef1d71303ff0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f487276e36b8831666ef1d71303ff0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4f487276e36b8831666ef1d71303ff0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f487276e36b8831666ef1d71303ff0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f487276e36b8831666ef1d71303ff0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/1674) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-4f487276e36b8831666ef1d71303ff0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/1674) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

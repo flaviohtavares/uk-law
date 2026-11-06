@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Public notice of certain applications[^key-5a8342d86b67fd26f0df3c7008fb7e61][^key-d482857ae360a20832f0fcba2d372365]
+## 40. Public notice of certain applications[^c-5a8342d86b67fd26f0df3c7008fb7e61][^c-d482857ae360a20832f0fcba2d372365]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ In section 37 of the 2003 Act (registration of interest in land)—
 
 ## Annotations
 
-[^key-5a8342d86b67fd26f0df3c7008fb7e61]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/6/section/40) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-5a8342d86b67fd26f0df3c7008fb7e61]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/6/section/40) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-d482857ae360a20832f0fcba2d372365]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/6/section/40) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-d482857ae360a20832f0fcba2d372365]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/6/section/40) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

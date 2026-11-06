@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Transitional provision in relation to the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001[^key-deb729753668c8ecf046845ef04a8dbf]
+## 90. Transitional provision in relation to the Health and Personal Social Services (Injury Benefits) Regulations (Northern Ireland) 2001[^c-deb729753668c8ecf046845ef04a8dbf]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Notwithstanding the amendments made to the Health and Personal Social Services (
 
 ## Annotations
 
-[^key-deb729753668c8ecf046845ef04a8dbf]: Commencement: Art. 90 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-deb729753668c8ecf046845ef04a8dbf]: Commencement: Art. 90 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00047]: Footnote: [S.R. 2001 No. 357](https://www.legislation.gov.uk/nisr/2001/357)

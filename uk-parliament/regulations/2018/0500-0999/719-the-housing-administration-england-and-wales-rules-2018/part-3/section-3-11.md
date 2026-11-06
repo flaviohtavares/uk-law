@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.11. Revision of housing administrator’s proposals[^key-1b6fe63756c8b2b6776330434bfdd355]
+## 3.11. Revision of housing administrator’s proposals[^c-1b6fe63756c8b2b6776330434bfdd355]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6fe63756c8b2b6776330434bfdd355]: Commencement: Rule 3.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-1b6fe63756c8b2b6776330434bfdd355]: Commencement: Rule 3.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00016]: Footnote: Paragraph 54 is modified by paragraph 9 of Schedule 5 to the Housing and Planning Act 2016 and Schedule 1 and Schedule 2 to the Insolvency of Registered Providers of Social Housing Regulations 2017.

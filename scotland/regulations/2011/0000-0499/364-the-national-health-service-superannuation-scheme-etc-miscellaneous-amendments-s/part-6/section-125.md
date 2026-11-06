@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Amendment of regulation 5[^key-98a2d61083dbd9eec32b034c1c9d7b62]
+## 125. Amendment of regulation 5[^c-98a2d61083dbd9eec32b034c1c9d7b62]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 5 (crediting of additional period of service)—
 
 ## Annotations
 
-[^key-98a2d61083dbd9eec32b034c1c9d7b62]: Commencement: [Reg. 125](https://www.legislation.gov.uk/ssi/2011/364/regulation/125) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-98a2d61083dbd9eec32b034c1c9d7b62]: Commencement: [Reg. 125](https://www.legislation.gov.uk/ssi/2011/364/regulation/125) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

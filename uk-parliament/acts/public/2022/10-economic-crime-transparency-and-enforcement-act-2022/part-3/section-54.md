@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Imposition of monetary penalties[^key-339d05accd0c82ea27e21cbca0f0e7f1][^key-3f45a5d2e0c78fcdcd582df0616893b0]
+## 54. Imposition of monetary penalties[^c-339d05accd0c82ea27e21cbca0f0e7f1][^c-3f45a5d2e0c78fcdcd582df0616893b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-339d05accd0c82ea27e21cbca0f0e7f1]: Commencement: S. 54 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-339d05accd0c82ea27e21cbca0f0e7f1]: Commencement: S. 54 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-3f45a5d2e0c78fcdcd582df0616893b0]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/10/section/54) in force at 15.6.2022 by [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/638/regulation/3))
+[^c-3f45a5d2e0c78fcdcd582df0616893b0]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/10/section/54) in force at 15.6.2022 by [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/638/regulation/3))

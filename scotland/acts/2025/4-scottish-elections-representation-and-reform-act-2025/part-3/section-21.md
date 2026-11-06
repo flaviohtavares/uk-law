@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Notional and third party expenditure: Scottish Parliament elections[^key-2e8735a80e0944be0e0eff67dc734dfb][^key-55900defed273b30c35c1d1905df1e67]
+## 21. Notional and third party expenditure: Scottish Parliament elections[^c-2e8735a80e0944be0e0eff67dc734dfb][^c-55900defed273b30c35c1d1905df1e67]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8735a80e0944be0e0eff67dc734dfb]: Commencement: S. 21 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-2e8735a80e0944be0e0eff67dc734dfb]: Commencement: S. 21 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-55900defed273b30c35c1d1905df1e67]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/4/section/21) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-55900defed273b30c35c1d1905df1e67]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/4/section/21) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -44,11 +44,11 @@ In accordance with section 17(4) and (5)(b) and (d) of the Limited Liability Par
 
 ## Part 1 — GENERAL INTRODUCTORY PROVISIONS
 
-### 1. Citation, commencement, extent and interpretation[^key-587e2093d54de0df0709c063c078c7b7]
+### 1. Citation, commencement, extent and interpretation[^c-587e2093d54de0df0709c063c078c7b7]
 
 (1) These Regulations may be cited as the Limited Liability Partnerships (Application of Company Law) Regulations 2024.
 
-(2) These Regulations come into force on 4th March 2024[^key-58fc9f319fe00596d0a3afb97ad329db].
+(2) These Regulations come into force on 4th March 2024[^c-58fc9f319fe00596d0a3afb97ad329db].
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
@@ -56,13 +56,13 @@ In accordance with section 17(4) and (5)(b) and (d) of the Limited Liability Par
 
 ## Part 2 — AMENDMENTS TO THE LIMITED LIABILITY PARTNERSHIP ACT 2000
 
-### 2. Amendments of the 2000 Act[^key-2b334cf3f8f8624c9e281a974d69e3ee]
+### 2. Amendments of the 2000 Act[^c-2b334cf3f8f8624c9e281a974d69e3ee]
 
 (1) In this Part “**the 2000 Act**” means the Limited Liability Partnerships Act 2000.
 
 (2) The 2000 Act is amended in accordance with regulations 3 and 4.
 
-### 3. Incorporation document etc[^key-87839e97cb90e0c43fbc3d9d9bcc9de9]
+### 3. Incorporation document etc[^c-87839e97cb90e0c43fbc3d9d9bcc9de9]
 
 (1) Section 2 of the 2000 Act (incorporation document etc) is amended as follows.
 
@@ -86,7 +86,7 @@ In accordance with section 17(4) and (5)(b) and (d) of the Limited Liability Par
 
 .
 
-### 4. An LLP’s name[^key-a50346db5e09a08afeccaa84a4ac3f3b]
+### 4. An LLP’s name[^c-a50346db5e09a08afeccaa84a4ac3f3b]
 
 (1) The Schedule to the 2000 Act (names and registered offices) is amended as follows.
 
@@ -122,7 +122,7 @@ In accordance with section 17(4) and (5)(b) and (d) of the Limited Liability Par
 
 ### Chapter 1 — INTRODUCTION
 
-#### 5. Amendments to the 2009 Regulations[^key-42acdadbd8b3c52d00120d59e977cdf0]
+#### 5. Amendments to the 2009 Regulations[^c-42acdadbd8b3c52d00120d59e977cdf0]
 
 (1) The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^f00003] are amended in accordance with regulations 6 to 46.
 
@@ -130,7 +130,7 @@ In accordance with section 17(4) and (5)(b) and (d) of the Limited Liability Par
 
 ### Chapter 2 — AN LLP’S NAME
 
-#### 6. Names for criminal purposes and suggesting connection with foreign governments etc[^key-751896eb2253cfced218b33e4adfe8fd]
+#### 6. Names for criminal purposes and suggesting connection with foreign governments etc[^c-751896eb2253cfced218b33e4adfe8fd]
 
 (1) Regulation 8 (prohibited names and sensitive words and expressions) is amended as follows.
 
@@ -158,7 +158,7 @@ In accordance with section 17(4) and (5)(b) and (d) of the Limited Liability Par
 
 .
 
-#### 7. Names containing computer code[^key-ddeec866408fa3695b3350152d844385]
+#### 7. Names containing computer code[^c-ddeec866408fa3695b3350152d844385]
 
 After regulation 9 (permitted characters etc) insert—
 
@@ -172,7 +172,7 @@ After regulation 9 (permitted characters etc) insert—
 
 .
 
-#### 8. Prohibitions on registration of names following direction[^key-ccf289c64736f9aec457ce589ad34f7d]
+#### 8. Prohibitions on registration of names following direction[^c-ccf289c64736f9aec457ce589ad34f7d]
 
 After regulation 9A (names containing computer code), inserted by regulation 7 of these Regulations, insert—
 
@@ -231,7 +231,7 @@ After regulation 9A (names containing computer code), inserted by regulation 7 o
 
 .
 
-#### 9. Similarity to other name on registrar's index[^key-53dddc9e24248fbce76c769224fc2d17]
+#### 9. Similarity to other name on registrar's index[^c-53dddc9e24248fbce76c769224fc2d17]
 
 (1) Regulation 11 (similarity to other name on registrar’s index) is amended as follows.
 
@@ -250,7 +250,7 @@ After regulation 9A (names containing computer code), inserted by regulation 7 o
 
 .
 
-#### 10. Similarity to other name in which person has goodwill[^key-c9f5a512dc7c73f93f4c93cca0d71a3a]
+#### 10. Similarity to other name in which person has goodwill[^c-c9f5a512dc7c73f93f4c93cca0d71a3a]
 
 (1) Regulation 12 (similarity to other name in which person has goodwill) is amended as follows.
 
@@ -269,7 +269,7 @@ After regulation 9A (names containing computer code), inserted by regulation 7 o
 
 .
 
-#### 11. Other powers of the Secretary of State and the registrar[^key-8d6589f2ca550c20307364e08f9a2739]
+#### 11. Other powers of the Secretary of State and the registrar[^c-8d6589f2ca550c20307364e08f9a2739]
 
 (1) In the heading of Chapter 3 of Part 3 (other powers of the Secretary of State), after “Secretary of State” insert “and the registrar”.
 
@@ -319,7 +319,7 @@ After regulation 9A (names containing computer code), inserted by regulation 7 o
   ;
 - (f) in subsection (6), for “this section” substitute “subsection (1)”.
 
-#### 12. Direction to change name used for criminal purposes[^key-e865707b5c06a34172441883b06236bc]
+#### 12. Direction to change name used for criminal purposes[^c-e865707b5c06a34172441883b06236bc]
 
 After regulation 13 (provision of misleading information etc) insert—
 
@@ -359,7 +359,7 @@ After regulation 13 (provision of misleading information etc) insert—
 
 .
 
-#### 13. Direction to change name wrongly registered[^key-0c5775aa787e3d6a88fccf5f273fb52f]
+#### 13. Direction to change name wrongly registered[^c-0c5775aa787e3d6a88fccf5f273fb52f]
 
 After regulation 13A (direction to change name used for criminal purposes), inserted by regulation 12 of these Regulations, insert—
 
@@ -401,7 +401,7 @@ After regulation 13A (direction to change name used for criminal purposes), inse
 
 .
 
-#### 14. Registrar’s powers to change name[^key-9d89691047afca5e39c6e9d6620f51fc]
+#### 14. Registrar’s powers to change name[^c-9d89691047afca5e39c6e9d6620f51fc]
 
 After regulation 13B (direction to change name wrongly registered), inserted by regulation 13 of these Regulations, insert—
 
@@ -439,7 +439,7 @@ After regulation 13B (direction to change name wrongly registered), inserted by 
 
 .
 
-#### 15. Exceptions on registration of a name based on national security etc[^key-f5fc06544ce5c7d33d2d9a8e7e628039]
+#### 15. Exceptions on registration of a name based on national security etc[^c-f5fc06544ce5c7d33d2d9a8e7e628039]
 
 After regulation 13C (Registrar’s powers to change name), inserted by regulation 14 of these Regulations, insert—
 
@@ -467,7 +467,7 @@ After regulation 13C (Registrar’s powers to change name), inserted by regulati
 
 ### Chapter 3 — LLP REGISTERED OFFICE AND EMAIL ADDRESS
 
-#### 16. Registered offices[^key-f3e6a609cf94a227e08932a3749938b6]
+#### 16. Registered offices[^c-f3e6a609cf94a227e08932a3749938b6]
 
 (1) Regulation 16 (general) is amended as follows.
 
@@ -497,7 +497,7 @@ After regulation 13C (Registrar’s powers to change name), inserted by regulati
 
 .
 
-#### 17. Registered email addresses[^key-cad61a69af1631b46c71d57de6658170]
+#### 17. Registered email addresses[^c-cad61a69af1631b46c71d57de6658170]
 
 After Part 4 (an LLP’s registered office) insert—
 
@@ -553,7 +553,7 @@ After Part 4 (an LLP’s registered office) insert—
 
 ### Chapter 4 — AN LLP’S MEMBERS
 
-#### 18. Disqualified member[^key-62592ff6fa6fdde8fd2ffd4af0ddd650]
+#### 18. Disqualified member[^c-62592ff6fa6fdde8fd2ffd4af0ddd650]
 
 In Chapter 1 of Part 5 (an LLP’s members), before regulation 17A insert—
 
@@ -600,7 +600,7 @@ In Chapter 1 of Part 5 (an LLP’s members), before regulation 17A insert—
 
 .
 
-#### 19. Duty to ensure disqualified person is not a member[^key-10f2e0441f2a57b168ff5879cacb6268]
+#### 19. Duty to ensure disqualified person is not a member[^c-10f2e0441f2a57b168ff5879cacb6268]
 
 After regulation 17A insert—
 
@@ -632,7 +632,7 @@ After regulation 17A insert—
 
 .
 
-#### 20. Members’ residential addresses: protection from disclosure[^key-54693247ccedddfd48e20564a91df8c6]
+#### 20. Members’ residential addresses: protection from disclosure[^c-54693247ccedddfd48e20564a91df8c6]
 
 (1) Regulation 19 (members’ residential addresses: protection from disclosure) is amended as follows.
 
@@ -698,7 +698,7 @@ After regulation 17A insert—
 
 ### Chapter 5 — AN LLP’S ANNUAL RETURN
 
-#### 21. Confirmation statements and confirmation of lawful purposes[^key-2fa059ab38423297a18fd589fcade735]
+#### 21. Confirmation statements and confirmation of lawful purposes[^c-2fa059ab38423297a18fd589fcade735]
 
 (1) Regulation 30 (duty to deliver confirmation statements and notify relevant events) is amended as follows.
 
@@ -728,7 +728,7 @@ After regulation 17A insert—
 
 .
 
-#### 22. Duty to notify a change in registered office and email address[^key-ad908bec21ecc0ac49ea51327f0c551d]
+#### 22. Duty to notify a change in registered office and email address[^c-ad908bec21ecc0ac49ea51327f0c551d]
 
 After regulation 30 (duty to deliver confirmation statements and notify relevant events) insert—
 
@@ -758,7 +758,7 @@ After regulation 30 (duty to deliver confirmation statements and notify relevant
 
 .
 
-#### 23. Failure to deliver confirmation statement[^key-946434e5d60b5feae4284c7f1b18387c]
+#### 23. Failure to deliver confirmation statement[^c-946434e5d60b5feae4284c7f1b18387c]
 
 (1) Regulation 31ZA (failure to deliver confirmation statement) is amended as follows.
 
@@ -769,13 +769,13 @@ After regulation 30 (duty to deliver confirmation statements and notify relevant
 
 ### Chapter 6 — AN LLP's REGISTER OF PEOPLE WITH SIGNIFICANT CONTROL
 
-#### 24. Protection from disclosure[^key-fedf14589eaeb0ecf4afcaa2f350ced7]
+#### 24. Protection from disclosure[^c-fedf14589eaeb0ecf4afcaa2f350ced7]
 
 In regulation 31L (protection from disclosure), omit paragraph (2)(c).
 
 ### Chapter 7 — RESTORATION TO THE REGISTER
 
-#### 25. Requirements for administrative restoration[^key-a8377239224c0df009bb4c54eaaf6218]
+#### 25. Requirements for administrative restoration[^c-a8377239224c0df009bb4c54eaaf6218]
 
 (1) Regulation 56 (administrative restoration to the register) is amended as follows.
 
@@ -814,7 +814,7 @@ In regulation 31L (protection from disclosure), omit paragraph (2)(c).
 
 ### Chapter 8 — THE REGISTRAR
 
-#### 26. Provisions of general application[^key-10829b043f620d1c43ab08f022184a36]
+#### 26. Provisions of general application[^c-10829b043f620d1c43ab08f022184a36]
 
 In regulation 60 (provisions of general application) in paragraph (2) at the appropriate place insert—
 
@@ -836,7 +836,7 @@ In regulation 60 (provisions of general application) in paragraph (2) at the app
 
 > section 1112B (false statement offences: national security etc defence).
 
-#### 27. The register[^key-ce5083c5a5eb6d35fa275488a09029d3]
+#### 27. The register[^c-ce5083c5a5eb6d35fa275488a09029d3]
 
 After regulation 63 (public notice of receipt of certain documents) insert—
 
@@ -848,13 +848,13 @@ After regulation 63 (public notice of receipt of certain documents) insert—
 
 .
 
-#### 28. Annotation and unique identifiers[^key-34e08eabb0081846f0c8f5fd13fc9746]
+#### 28. Annotation and unique identifiers[^c-34e08eabb0081846f0c8f5fd13fc9746]
 
 (1) Regulation 64 (the register) is amended as follows.
 
 (2) Substitute “The register” in the heading of that regulation with “Annotation and unique identifiers”.
 
-#### 29. Records relating to dissolved LLPs[^key-1e93a4cf477804c2e0d9140b717755f5]
+#### 29. Records relating to dissolved LLPs[^c-1e93a4cf477804c2e0d9140b717755f5]
 
 (1) Regulation 65 (records relating to dissolved LLPs) is amended as follows.
 
@@ -877,7 +877,7 @@ After regulation 63 (public notice of receipt of certain documents) insert—
   ;
 - (d) omit subsections (3A) and (4).
 
-#### 30. Inspection of the register[^key-aa51b4fc3d320306e702ef323eb0c3f6]
+#### 30. Inspection of the register[^c-aa51b4fc3d320306e702ef323eb0c3f6]
 
 In regulation 66 (inspection etc of the register), for section 1085(3) of the 2006 Act(c), as applied to LLPs by that regulation, substitute—
 
@@ -898,7 +898,7 @@ In regulation 66 (inspection etc of the register), for section 1085(3) of the 20
 - (a) in subsection (1), at the end insert “that is available for public inspection”;
 - (b) omit subsection (3).
 
-#### 32. Material not available for public inspection[^key-82beac1a1d7331a8dc171e0cae818bf3]
+#### 32. Material not available for public inspection[^c-82beac1a1d7331a8dc171e0cae818bf3]
 
 (1) Regulation 66 (inspection etc of the register) is amended as follows.
 
@@ -929,11 +929,11 @@ In regulation 66 (inspection etc of the register), for section 1085(3) of the 20
 
   .
 
-#### 33. Required particulars available for public inspection for limited period[^key-86dba8262bf3f865d7122281d623f3dc]
+#### 33. Required particulars available for public inspection for limited period[^c-86dba8262bf3f865d7122281d623f3dc]
 
 In regulation 66 (inspection etc of the register), omit section 1087ZA of the 2006 Act[^f00026], as applied to LLPs by that regulation.
 
-#### 34. Protection of date of birth information[^key-2cadf819fef08bbc99d8a5a584281e38]
+#### 34. Protection of date of birth information[^c-2cadf819fef08bbc99d8a5a584281e38]
 
 In regulation 66 (inspection of the register), for section 1087A and 1087B of the 2006 Act[^f00027], as applied to LLPs by that regulation, substitute—
 
@@ -998,11 +998,11 @@ In regulation 66 (inspection of the register), for section 1087A and 1087B of th
 
 .
 
-#### 35. Form and manner in which copies to be provided[^key-17695deea7a2d886a9314c01e4dd9213]
+#### 35. Form and manner in which copies to be provided[^c-17695deea7a2d886a9314c01e4dd9213]
 
 In regulation 66 (inspection etc of the register), in section 1090 of the 2006 Act[^f00028], as applied to LLPs by that regulation, at the end insert “under section 1086”.
 
-#### 36. Certification of copies as accurate[^key-39f2e829ca7509f60de16ad31bb635a7]
+#### 36. Certification of copies as accurate[^c-39f2e829ca7509f60de16ad31bb635a7]
 
 In regulation 66 (inspection etc of the register), section 1091 of the 2006 Act[^f00029], as applied to LLPs by that regulation, for subsections (1) and (2) substitute—
 
@@ -1010,7 +1010,7 @@ In regulation 66 (inspection etc of the register), section 1091 of the 2006 Act[
 
 .
 
-#### 37. Registrar's notice to resolve inconsistency[^key-641a575343a27ca8aacf339a5ac37449]
+#### 37. Registrar's notice to resolve inconsistency[^c-641a575343a27ca8aacf339a5ac37449]
 
 (1) Regulation 67 (correction or removal of material on the register) is amended as follows.
 
@@ -1028,7 +1028,7 @@ In regulation 66 (inspection etc of the register), section 1091 of the 2006 Act[
   .
 - (b) In the heading, omit “on the register”.
 
-#### 38. Rectification of the register under court order[^key-b07439d17e0a5befd899393e7a101efe]
+#### 38. Rectification of the register under court order[^c-b07439d17e0a5befd899393e7a101efe]
 
 (1) Regulation 67 (correction or removal of material on the register) is amended as follows.
 
@@ -1046,7 +1046,7 @@ In regulation 66 (inspection etc of the register), section 1091 of the 2006 Act[
   ;
 - (c) in subsection (6), omit paragraph (a) and the “or” at the end of that paragraph.
 
-#### 39. Rectification of register relating to LLP registered office[^key-b469d4eca8ce695014f09d58c5aeb298]
+#### 39. Rectification of register relating to LLP registered office[^c-b469d4eca8ce695014f09d58c5aeb298]
 
 In regulation 67 (correction or removal of material on the register), for section 1097A of the 2006 Act[^f00032], as applied to LLPs by that regulation, substitute—
 
@@ -1102,7 +1102,7 @@ In regulation 67 (correction or removal of material on the register), for sectio
 
 .
 
-#### 40. Rectification of register relating to LLP relevant persons’ service addresses[^key-dad85741abca49894f2cc23ca8c4332f]
+#### 40. Rectification of register relating to LLP relevant persons’ service addresses[^c-dad85741abca49894f2cc23ca8c4332f]
 
 In regulation 67 (correction or removal of material on the register), after section 1097A of the 2006 Act, as applied to LLPs by that regulation, insert—
 
@@ -1135,7 +1135,7 @@ In regulation 67 (correction or removal of material on the register), after sect
 
 .
 
-#### 41. Rectification of register relating to LLP relevant persons’ principal office addresses[^key-920cd7318db1f49b58757543e5e9a6b5]
+#### 41. Rectification of register relating to LLP relevant persons’ principal office addresses[^c-920cd7318db1f49b58757543e5e9a6b5]
 
 In regulation 67 (correction or removal of material on the register), after section 1097B of the 2006 Act[^f00033], as applied to LLPs by that regulation, insert—
 
@@ -1169,7 +1169,7 @@ In regulation 67 (correction or removal of material on the register), after sect
 
 .
 
-#### 42. General false statement offences[^key-917173114a1408ceeafa3b67167c91ce]
+#### 42. General false statement offences[^c-917173114a1408ceeafa3b67167c91ce]
 
 (1) Regulation 69 (supplementary provisions) is amended as follows.
 
@@ -1219,11 +1219,11 @@ In regulation 67 (correction or removal of material on the register), after sect
 
 .
 
-#### 43. Consents required for certain prosecutions[^key-1abbed214891c432621596e7a6713365]
+#### 43. Consents required for certain prosecutions[^c-1abbed214891c432621596e7a6713365]
 
 In regulation 72 (consents for certain prosecutions), section 1126(1) of the 2006 Act[^f00035], as applied to LLPs by that regulation, after “section 1112” insert “or 1112A”.
 
-#### 44. Service of documents on members and others[^key-88bccc33a23d6c674a246fea7b5fcec3]
+#### 44. Service of documents on members and others[^c-88bccc33a23d6c674a246fea7b5fcec3]
 
 (1) Regulation 75 (service addresses) is amended as follows.
 
@@ -1239,7 +1239,7 @@ In regulation 72 (consents for certain prosecutions), section 1126(1) of the 200
 
 .
 
-#### 45. Communications in electronic form[^key-b6ed57dc0e735016f4b1e9f4c2106c39]
+#### 45. Communications in electronic form[^c-b6ed57dc0e735016f4b1e9f4c2106c39]
 
 After regulation 75 (service addresses), insert—
 
@@ -1251,7 +1251,7 @@ After regulation 75 (service addresses), insert—
 
 ### Chapter 9 — BUSINESS NAMES
 
-#### 46. Business names[^key-43442ccb1717ce7bf5a55eeb9170cb4f]
+#### 46. Business names[^c-43442ccb1717ce7bf5a55eeb9170cb4f]
 
 After regulation 79 (minor definitions) insert—
 
@@ -1376,55 +1376,55 @@ No impact assessment has been prepared in connection with these Regulations.
 
 [^f00001]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-587e2093d54de0df0709c063c078c7b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/234/regulation/1) in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-587e2093d54de0df0709c063c078c7b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/234/regulation/1) in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-58fc9f319fe00596d0a3afb97ad329db]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(6)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/6)
+[^c-58fc9f319fe00596d0a3afb97ad329db]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(6)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/6)
 
-[^key-2b334cf3f8f8624c9e281a974d69e3ee]: Commencement: Reg. 2 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-2b334cf3f8f8624c9e281a974d69e3ee]: Commencement: Reg. 2 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-87839e97cb90e0c43fbc3d9d9bcc9de9]: Commencement: Reg. 3 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-87839e97cb90e0c43fbc3d9d9bcc9de9]: Commencement: Reg. 3 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-a50346db5e09a08afeccaa84a4ac3f3b]: Commencement: Reg. 4 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-a50346db5e09a08afeccaa84a4ac3f3b]: Commencement: Reg. 4 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-42acdadbd8b3c52d00120d59e977cdf0]: Commencement: Reg. 5 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-42acdadbd8b3c52d00120d59e977cdf0]: Commencement: Reg. 5 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00003]: Footnote: [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), amended by [S.I. 2013/618](https://www.legislation.gov.uk/uksi/2013/618), [2015/1695](https://www.legislation.gov.uk/uksi/2015/1695), [2016/340](https://www.legislation.gov.uk/uksi/2016/340), [2016/423](https://www.legislation.gov.uk/uksi/2016/423), [2016/599](https://www.legislation.gov.uk/uksi/2016/599), [2017/693](https://www.legislation.gov.uk/uksi/2017/693), [2018/528](https://www.legislation.gov.uk/uksi/2018/528), and [2019/1511](https://www.legislation.gov.uk/uksi/2019/1511); there are other amending instruments but none are relevant.
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-751896eb2253cfced218b33e4adfe8fd]: Commencement: Reg. 6 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-751896eb2253cfced218b33e4adfe8fd]: Commencement: Reg. 6 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-ddeec866408fa3695b3350152d844385]: Commencement: Reg. 7 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-ddeec866408fa3695b3350152d844385]: Commencement: Reg. 7 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-ccf289c64736f9aec457ce589ad34f7d]: Commencement: Reg. 8 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-ccf289c64736f9aec457ce589ad34f7d]: Commencement: Reg. 8 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-53dddc9e24248fbce76c769224fc2d17]: Commencement: Reg. 9 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-53dddc9e24248fbce76c769224fc2d17]: Commencement: Reg. 9 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00005]: Footnote: Section 67 of the 2006 Act was amended by section 14 of the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”).
 
 [^f00006]: Footnote: Section 68 of the 2006 Act was amended by section 13 of the 2023 Act.
 
-[^key-c9f5a512dc7c73f93f4c93cca0d71a3a]: Commencement: Reg. 10 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-c9f5a512dc7c73f93f4c93cca0d71a3a]: Commencement: Reg. 10 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00007]: Footnote: Section 69 of the 2006 Act was amended by section 15 of the 2023 Act.
 
 [^f00008]: Footnote: Section 69 of the 2006 Act was amended by section 14 of the 2023 Act.
 
-[^key-8d6589f2ca550c20307364e08f9a2739]: Commencement: Reg. 11 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-8d6589f2ca550c20307364e08f9a2739]: Commencement: Reg. 11 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00009]: Footnote: Section 69 of the 2006 Act was amended by sections 13 and 14 of the 2023 Act.
 
 [^f00010]: Footnote: Section 67 of the 2006 Act was amended by section 13, 14 and 16 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-e865707b5c06a34172441883b06236bc]: Commencement: Reg. 12 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-e865707b5c06a34172441883b06236bc]: Commencement: Reg. 12 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-0c5775aa787e3d6a88fccf5f273fb52f]: Commencement: Reg. 13 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-0c5775aa787e3d6a88fccf5f273fb52f]: Commencement: Reg. 13 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-9d89691047afca5e39c6e9d6620f51fc]: Commencement: Reg. 14 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-9d89691047afca5e39c6e9d6620f51fc]: Commencement: Reg. 14 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-f5fc06544ce5c7d33d2d9a8e7e628039]: Commencement: Reg. 15 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-f5fc06544ce5c7d33d2d9a8e7e628039]: Commencement: Reg. 15 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-f3e6a609cf94a227e08932a3749938b6]: Commencement: Reg. 16 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-f3e6a609cf94a227e08932a3749938b6]: Commencement: Reg. 16 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00011]: Footnote: Section 86 of the 2006 Act was substituted by section 28 of the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”).
 
@@ -1432,13 +1432,13 @@ No impact assessment has been prepared in connection with these Regulations.
 
 [^f00013]: Footnote: Section 87 of the 2006 Act was amended by section 28 of the 2023 Act.
 
-[^key-cad61a69af1631b46c71d57de6658170]: Commencement: Reg. 17 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-cad61a69af1631b46c71d57de6658170]: Commencement: Reg. 17 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-62592ff6fa6fdde8fd2ffd4af0ddd650]: Commencement: Reg. 18 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-62592ff6fa6fdde8fd2ffd4af0ddd650]: Commencement: Reg. 18 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-10f2e0441f2a57b168ff5879cacb6268]: Commencement: Reg. 19 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-10f2e0441f2a57b168ff5879cacb6268]: Commencement: Reg. 19 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-54693247ccedddfd48e20564a91df8c6]: Commencement: Reg. 20 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-54693247ccedddfd48e20564a91df8c6]: Commencement: Reg. 20 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00014]: Footnote: Section 241 of the 2006 Act was amended by section 95 of the Economic Crime and Corporate Transparency Act 2023.
 
@@ -1448,39 +1448,39 @@ No impact assessment has been prepared in connection with these Regulations.
 
 [^f00017]: Footnote: Section 246 of the 2006 Act was amended by section 45 of the 2023 Act.
 
-[^key-2fa059ab38423297a18fd589fcade735]: Commencement: Reg. 21 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-2fa059ab38423297a18fd589fcade735]: Commencement: Reg. 21 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00018]: Footnote: Section 853A of the 2006 Act was amended by section 59 of the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”).
 
 [^f00019]: Footnote: Section 853B of the 2006 Act was amended by the 2023 Act. Relevant amendments were made by section 28(5).
 
-[^key-ad908bec21ecc0ac49ea51327f0c551d]: Commencement: Reg. 22 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-ad908bec21ecc0ac49ea51327f0c551d]: Commencement: Reg. 22 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-946434e5d60b5feae4284c7f1b18387c]: Commencement: Reg. 23 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-946434e5d60b5feae4284c7f1b18387c]: Commencement: Reg. 23 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-fedf14589eaeb0ecf4afcaa2f350ced7]: Commencement: Reg. 24 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-fedf14589eaeb0ecf4afcaa2f350ced7]: Commencement: Reg. 24 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-a8377239224c0df009bb4c54eaaf6218]: Commencement: Reg. 25 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-a8377239224c0df009bb4c54eaaf6218]: Commencement: Reg. 25 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00020]: Footnote: Section 1025 of the 2006 Act was amended by the Economic Crime and Corporate Transparency Act 2023. Relevant amendments were made by section 71.
 
-[^key-10829b043f620d1c43ab08f022184a36]: Commencement: Reg. 26 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-10829b043f620d1c43ab08f022184a36]: Commencement: Reg. 26 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-ce5083c5a5eb6d35fa275488a09029d3]: Commencement: Reg. 27 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-ce5083c5a5eb6d35fa275488a09029d3]: Commencement: Reg. 27 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-34e08eabb0081846f0c8f5fd13fc9746]: Commencement: Reg. 28 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-34e08eabb0081846f0c8f5fd13fc9746]: Commencement: Reg. 28 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-1e93a4cf477804c2e0d9140b717755f5]: Commencement: Reg. 29 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-1e93a4cf477804c2e0d9140b717755f5]: Commencement: Reg. 29 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00021]: Footnote: Section 1084 of the 2006 Act was amended the Economic Crime and Corporate Transparency Act 2023. Relevant amendments were made by section 82.
 
-[^key-aa51b4fc3d320306e702ef323eb0c3f6]: Commencement: Reg. 30 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-aa51b4fc3d320306e702ef323eb0c3f6]: Commencement: Reg. 30 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^M_C_561ec0d3-37e7-4e85-f1b0-2bd148d41b5f]: Commencement: Reg. 31 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00022]: Footnote: Section 1086 of the 2006 Act was amended the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”). Relevant amendments were made by section 89(2).
 
-[^key-82beac1a1d7331a8dc171e0cae818bf3]: Commencement: Reg. 32 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-82beac1a1d7331a8dc171e0cae818bf3]: Commencement: Reg. 32 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00023]: Footnote: Section 1087 of the 2006 Act was amended of the 2023 Act. Relevant amendments were made by sections 29(7), 68(3), 80(4), 83(4) and 90.
 
@@ -1488,52 +1488,52 @@ No impact assessment has been prepared in connection with these Regulations.
 
 [^f00025]: Footnote: Section 1075 of the 2006 Act referred in section 1087(1)(e) of the 2006 Act, as applied to LLPs, was repealed by section 80(2) of the 2023 Act.
 
-[^key-86dba8262bf3f865d7122281d623f3dc]: Commencement: Reg. 33 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-86dba8262bf3f865d7122281d623f3dc]: Commencement: Reg. 33 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00026]: Footnote: Section 1087ZA of the 2006 Act was omitted by section 82(3) of the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”).
 
-[^key-2cadf819fef08bbc99d8a5a584281e38]: Commencement: Reg. 34 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-2cadf819fef08bbc99d8a5a584281e38]: Commencement: Reg. 34 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00027]: Footnote: Section 1087A of the 2006 Act was amended by section 52(3) of the 2023 Act.
 
-[^key-17695deea7a2d886a9314c01e4dd9213]: Commencement: Reg. 35 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-17695deea7a2d886a9314c01e4dd9213]: Commencement: Reg. 35 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00028]: Footnote: Section 1090 of the 2006 Act was amended by section 89(4) of the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”).
 
-[^key-39f2e829ca7509f60de16ad31bb635a7]: Commencement: Reg. 36 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-39f2e829ca7509f60de16ad31bb635a7]: Commencement: Reg. 36 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00029]: Footnote: Section 1091 of the 2006 Act was amended by section 89(5) of the 2023 Act.
 
-[^key-641a575343a27ca8aacf339a5ac37449]: Commencement: Reg. 37 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-641a575343a27ca8aacf339a5ac37449]: Commencement: Reg. 37 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00030]: Footnote: Section 1093 of the 2006 Act was amended by section 84 of the 2023 Act.
 
-[^key-b07439d17e0a5befd899393e7a101efe]: Commencement: Reg. 38 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-b07439d17e0a5befd899393e7a101efe]: Commencement: Reg. 38 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00031]: Footnote: Section 1096 of the 2006 Act was amended by section 86 of the 2023 Act.
 
-[^key-b469d4eca8ce695014f09d58c5aeb298]: Commencement: Reg. 39 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-b469d4eca8ce695014f09d58c5aeb298]: Commencement: Reg. 39 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00032]: Footnote: Section 1097A of the 2006 Act was amended by section 105 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-dad85741abca49894f2cc23ca8c4332f]: Commencement: Reg. 40 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-dad85741abca49894f2cc23ca8c4332f]: Commencement: Reg. 40 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-920cd7318db1f49b58757543e5e9a6b5]: Commencement: Reg. 41 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-920cd7318db1f49b58757543e5e9a6b5]: Commencement: Reg. 41 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00033]: Footnote: Section 1097B of the 2006 Act was inserted by section 106 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-917173114a1408ceeafa3b67167c91ce]: Commencement: Reg. 42 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-917173114a1408ceeafa3b67167c91ce]: Commencement: Reg. 42 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00034]: Footnote: Section 1112 of the 2006 Act was amended by section 102(3) of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-1abbed214891c432621596e7a6713365]: Commencement: Reg. 43 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-1abbed214891c432621596e7a6713365]: Commencement: Reg. 43 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00035]: Footnote: Section 1126 of the 2006 Act was amended by section 102(4) of the Economic Crime and Corporate Transparency Act 2023 (“**the 2023 Act**”).
 
-[^key-88bccc33a23d6c674a246fea7b5fcec3]: Commencement: Reg. 44 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-88bccc33a23d6c674a246fea7b5fcec3]: Commencement: Reg. 44 in force at 4.3.2024 in accordance with reg. 1(2)
 
 [^f00036]: Footnote: Section 1140 of the 2006 Act was amended by section 108 of the 2023 Act.
 
-[^key-b6ed57dc0e735016f4b1e9f4c2106c39]: Commencement: Reg. 45 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-b6ed57dc0e735016f4b1e9f4c2106c39]: Commencement: Reg. 45 in force at 4.3.2024 in accordance with reg. 1(2)
 
-[^key-43442ccb1717ce7bf5a55eeb9170cb4f]: Commencement: Reg. 46 in force at 4.3.2024 in accordance with reg. 1(2)
+[^c-43442ccb1717ce7bf5a55eeb9170cb4f]: Commencement: Reg. 46 in force at 4.3.2024 in accordance with reg. 1(2)

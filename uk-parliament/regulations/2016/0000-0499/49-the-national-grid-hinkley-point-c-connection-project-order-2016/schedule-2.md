@@ -30,12 +30,12 @@ Article 2
 | Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section C | 13/NG/0060 – C/AR/PS/1–5 | C |
 | Key Plan for Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section D | 13/NG/0078 – D/AR/KP/1 | C |
 | Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section D | 13/NG/0079 – D/AR/PS/1–15 | D |
-| Key Plan for Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section E | 13/NG/0097 – E/AR/KP/1 | D[^key-57853f23f8b9d1a4b15d895f9713810d] |
+| Key Plan for Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section E | 13/NG/0097 – E/AR/KP/1 | D[^c-57853f23f8b9d1a4b15d895f9713810d] |
 | Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section E | 13/NG/0098 – E/AR/PS/1–4 | E |
-| Key Plan for Access and Rights of Way Plans<br>[^key-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section F | 13/NG/0400 – F/AR/KP/1 | B |
-| Access and Rights of Way Plans<br>[^key-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section F | 13/NG/0471 – F/AR/PS/1–4 | B |
-| Key Plan for Access and Rights of Way Plans<br>[^key-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section G | 13/NG/0472 – G/AR/KP/1 | B |
-| Access and Rights of Way Plans<br>[^key-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section G | 13/NG/0473 – G/AR/PS/1–7 | C |
+| Key Plan for Access and Rights of Way Plans<br>[^c-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section F | 13/NG/0400 – F/AR/KP/1 | B |
+| Access and Rights of Way Plans<br>[^c-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section F | 13/NG/0471 – F/AR/PS/1–4 | B |
+| Key Plan for Access and Rights of Way Plans<br>[^c-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section G | 13/NG/0472 – G/AR/KP/1 | B |
+| Access and Rights of Way Plans<br>[^c-00c2ec32f86218fae286235e5efcd6c0]...<br>(Regulation 5(2)(k)) – Section G | 13/NG/0473 – G/AR/PS/1–7 | C |
 | Key Plan for Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section H | 13/NG/0154 – H/AR/KP/1 | C |
 | Access and Rights of Way Plans<br>(Regulation 5(2)(k)) – Section H | 13/NG/0155 – H/AR/PS/1–2 | D |
 
@@ -45,7 +45,7 @@ Article 2
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
-| Key Plan for Detailed Design Drawings<br>Regulation 5(2)(o) | 13/NG/0200 – DKP/1 | C[^key-701249eb2ac86f1f0d16dd7f5d8acb94] |
+| Key Plan for Detailed Design Drawings<br>Regulation 5(2)(o) | 13/NG/0200 – DKP/1 | C[^c-701249eb2ac86f1f0d16dd7f5d8acb94] |
 | South Mendips 400kV Double Circuit<br>Cable Sealing End Compound (T-Pylon) General Arrangement Plan And Elevations | 13/NG/0201 – (MMD-322069-E-DR-400UG-XX-0501)<br>Pins Sheet 1 of 70 | B |
 | Bridgwater T 400kV Single Circuit<br>Cable Sealing End Compound Typical General Arrangement Plan And Elevations | 13/NG/0203 – (MMD-322069-E-DR-400UG-XX-0511)<br>Pins Sheet 2 of 70 | B |
 | 400kV Underground Cable Installation<br>Typical Direct Buried Details & Construction Swathe General Arrangement | 13/NG/0204 – (MMD-322069-E-DR-400UG-XX-0600)<br>Pins Sheet 3 of 70 | C |
@@ -88,12 +88,12 @@ Article 2
 | 400kV OHL Sections Route Reference LD Hinkley – Sandford/Seabank<br>Pylons LD70–LD79 | 13/NG/0271 – 01\_13205\_84<br>Sheet 9 Pins Sheet 49 of 70 | B |
 | 400kV OHL Sections Route Reference LD Hinkley – Sandford/Seabank<br>Pylons LD79–LD86 | 13/NG/0271 – 01\_13205\_84<br>Sheet 10 Pins Sheet 50 of 70 | B |
 | 400kV OHL Sections Route Reference LD Hinkley – Sandford/Seabank<br>Pylons LD86– LD93 | 13/NG/0271 – 01\_13205\_84<br>Sheet 11 Pins Sheet 51 of 70 | C |
-| [^key-23ad42c4f6e6b955889ca1646793481a]. . . | [^key-23ad42c4f6e6b955889ca1646793481a]. . . | [^key-23ad42c4f6e6b955889ca1646793481a]. . . |
+| [^c-23ad42c4f6e6b955889ca1646793481a]. . . | [^c-23ad42c4f6e6b955889ca1646793481a]. . . | [^c-23ad42c4f6e6b955889ca1646793481a]. . . |
 | 400kV OHL Sections Route Reference LD Hinkley – Sandford/Seabank<br>Pylons LD106–LD117 | 13/NG/0271 – 01\_13205\_84<br>Sheet 13 Pins Sheet 53 of 70 | D |
 | 400kV OHL Sections Route Reference LD Hinkley – Sandford/Seabank<br>Pylons LD117–LD125 | 13/NG/0271 – 01\_13205\_84<br>Sheet 14 Pins Sheet 54 of 70 | C |
 | 400kV OHL Sections Route Reference LD Hinkley – Sandford/Seabank<br>Pylons LD125–LD132 | 13/NG/0271 – 01\_13205\_84<br>Sheet 15 Pins Sheet 55 of 70 | C |
-| 400kV OHL Sections Route Reference P-LD<br>Hinkley – Sandford/Seabank [^key-23ad42c4f6e6b955889ca1646793481a]...<br>Pylons LD93–P-LD101 | 13/NG/0271 – 01\_13205\_85<br>Sheet 1 Pins Sheet 56 of 70 | C |
-| 400kV OHL Sections Route Reference P-LD<br>Hinkley – Sandford/Seabank [^key-23ad42c4f6e6b955889ca1646793481a]...<br>Pylons LD101–P-LD106 | 13/NG/0271 – 01\_13205\_85<br>Sheet 2 Pins Sheet 57 of 70 | C |
+| 400kV OHL Sections Route Reference P-LD<br>Hinkley – Sandford/Seabank [^c-23ad42c4f6e6b955889ca1646793481a]...<br>Pylons LD93–P-LD101 | 13/NG/0271 – 01\_13205\_85<br>Sheet 1 Pins Sheet 56 of 70 | C |
+| 400kV OHL Sections Route Reference P-LD<br>Hinkley – Sandford/Seabank [^c-23ad42c4f6e6b955889ca1646793481a]...<br>Pylons LD101–P-LD106 | 13/NG/0271 – 01\_13205\_85<br>Sheet 2 Pins Sheet 57 of 70 | C |
 | 400kV OHL Sections Route Reference ZGA<br>Bridgwater – Melksham/Shurton<br>Pylons VQ043R–ZGA7 | 13/NG/0272 – 01\_13205\_83<br>Sheet 1 Pins Sheet 58 of 70 | B |
 | 400kV OHL Sections Route Reference ZGA<br>Bridgwater – Melksham/Shurton<br>Pylons ZGA7–ZGA13 | 13/NG/0272 – 01\_13205\_83<br>Sheet 2 Pins Sheet 59 of 70 | B |
 | 400kV OHL Sections Route Reference ZZ<br>Shurton – Taunton<br>Pylons ZZ1–ZZ7 | 13/NG/0273 – 01\_13205\_82<br>Pins Sheet 60 of 70 | B |
@@ -129,17 +129,17 @@ Article 2
 | Key Plan for Land Plans<br>(Regulation 5(2)(i)(ii) & (iii) – Section A | 13/NG/0013 – A/LP/KP/1 | B |
 | Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section A | 13/NG/0014 – A/LP/PS/1–6 | C |
 | Key Plan for Land Plans<br>(Regulation 5(2)(i)(ii) & (iii)) – Section B | 13/NG/0032 – B/LP/KP/1 | B |
-| Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section B | 13/NG/0033 – B/LP/PS/1–11 | F[^key-eaf349c6643425c4277fa87e0fa647bb] |
+| Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section B | 13/NG/0033 – B/LP/PS/1–11 | F[^c-eaf349c6643425c4277fa87e0fa647bb] |
 | Key Plan for Land Plans<br>(Regulation 5(2)(i)(ii) & (iii)) – Section C | 13/NG/0051 – C/LP/KP/1 | B |
 | Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section C | 13/NG/0052 – C/LP/PS/1–4 | D |
 | Key Plan for Land Plans<br>(Regulation 5(2)(i)(ii) & (iii)) – Section D | 13/NG/0070 – D/LP/KP/1 | C |
 | Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section D | 13/NG/0071 – D/LP/PS/1–14 | F |
 | Key Plan for Land Plans<br>(Regulation 5(2)(i)(ii) & (iii)) – Section E | 13/NG/0089 – E/LP/KP/1 | C |
 | Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section E | 13/NG/0090 – E/LP/PS/1–4 | E |
-| Key Plan for Land Plans [^key-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section F | 13/NG/0370 – F/LP/KP/1[^key-4fff0b2e127b663b85879e3ad92c9dcc] | B |
-| Land Plans [^key-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section F | 13/NG/0371 – F/LP/PS/1–4 | C |
-| Key Plan for Land Plans [^key-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section G | 13/NG/0372 – G/LP/KP/1 | B |
-| Land Plans [^key-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section G | 13/NG/0373 – G/LP/PS/1–7 | C |
+| Key Plan for Land Plans [^c-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section F | 13/NG/0370 – F/LP/KP/1[^c-4fff0b2e127b663b85879e3ad92c9dcc] | B |
+| Land Plans [^c-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section F | 13/NG/0371 – F/LP/PS/1–4 | C |
+| Key Plan for Land Plans [^c-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section G | 13/NG/0372 – G/LP/KP/1 | B |
+| Land Plans [^c-8d223c6448dc7069e65ec52869b7900e]...<br>(Regulation 5(2)(i)(ii) & (iii)) – Section G | 13/NG/0373 – G/LP/PS/1–7 | C |
 | Key Plan for Land Plans<br>(Regulation 5(2)(i)(ii) & (iii)) – Section H | 13/NG/0146 – H/LP/KP/1 | B |
 | Land Plans (Regulation 5(2)(i)(ii) & (iii)) – Section H | 13/NG/0147 – H/LP/PS/1–2 | E |
 
@@ -254,19 +254,19 @@ Article 2
 
 ## Annotations
 
-[^key-57853f23f8b9d1a4b15d895f9713810d]: Textual amendment: Word in Sch. 2 Pt. 1 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-57853f23f8b9d1a4b15d895f9713810d]: Textual amendment: Word in Sch. 2 Pt. 1 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-00c2ec32f86218fae286235e5efcd6c0]: Textual amendment: Words in Sch. 2 Pt. 1 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-00c2ec32f86218fae286235e5efcd6c0]: Textual amendment: Words in Sch. 2 Pt. 1 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-701249eb2ac86f1f0d16dd7f5d8acb94]: Textual amendment: Word in Sch. 2 Pt. 2 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-701249eb2ac86f1f0d16dd7f5d8acb94]: Textual amendment: Word in Sch. 2 Pt. 2 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-23ad42c4f6e6b955889ca1646793481a]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-23ad42c4f6e6b955889ca1646793481a]: Textual amendment: Words in Sch. 2 Pt. 2 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-eaf349c6643425c4277fa87e0fa647bb]: Textual amendment: Word in Sch. 2 Pt. 3 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-eaf349c6643425c4277fa87e0fa647bb]: Textual amendment: Word in Sch. 2 Pt. 3 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-8d223c6448dc7069e65ec52869b7900e]: Textual amendment: Words in Sch. 2 Pt. 3 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-8d223c6448dc7069e65ec52869b7900e]: Textual amendment: Words in Sch. 2 Pt. 3 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-4fff0b2e127b663b85879e3ad92c9dcc]: Textual amendment: Words in Sch. 2 Pt. 3 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-4fff0b2e127b663b85879e3ad92c9dcc]: Textual amendment: Words in Sch. 2 Pt. 3 substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
 [^M_F_b5d248c1-a9d6-41c4-9d4c-31139c9d4244]: Textual amendment: Words in Sch. 2 Pt. 4 omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 

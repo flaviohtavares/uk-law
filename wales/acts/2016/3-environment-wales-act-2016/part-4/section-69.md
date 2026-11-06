@@ -32,8 +32,8 @@ summary: ''
 >
 > (2AB) Any other statutory instrument containing regulations made by the Welsh Ministers under this Act is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-(5)[^key-3edacec91cb2b30fd1eeb1dcec4fbaaf] In section 20(3) of the Waste (Wales) Measure 2010 (orders and regulations requiring approval of National Assembly for Wales), after “9,” insert “ 9A ”.
+(5)[^c-3edacec91cb2b30fd1eeb1dcec4fbaaf] In section 20(3) of the Waste (Wales) Measure 2010 (orders and regulations requiring approval of National Assembly for Wales), after “9,” insert “ 9A ”.
 
 ## Annotations
 
-[^key-3edacec91cb2b30fd1eeb1dcec4fbaaf]: Commencement: [S. 69(5)](https://www.legislation.gov.uk/anaw/2016/3/section/69/5) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/d)
+[^c-3edacec91cb2b30fd1eeb1dcec4fbaaf]: Commencement: [S. 69(5)](https://www.legislation.gov.uk/anaw/2016/3/section/69/5) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(d)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/d)

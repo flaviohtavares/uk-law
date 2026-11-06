@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155. Communication of disclaimer to persons interested[^key-349b2f553d50881f695c6fbceb9252ce]
+## 155. Communication of disclaimer to persons interested[^c-349b2f553d50881f695c6fbceb9252ce]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-349b2f553d50881f695c6fbceb9252ce]: Commencement: [Rule 155](https://www.legislation.gov.uk/nisr/2026/11/rule/155) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-349b2f553d50881f695c6fbceb9252ce]: Commencement: [Rule 155](https://www.legislation.gov.uk/nisr/2026/11/rule/155) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

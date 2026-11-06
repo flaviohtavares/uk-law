@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Paying and collecting agents etc.[^key-12c93f8e7ce0f7ab1860afef973ca92f]
+## 63. Paying and collecting agents etc.[^c-12c93f8e7ce0f7ab1860afef973ca92f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12c93f8e7ce0f7ab1860afef973ca92f]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/1992/48/section/63) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-12c93f8e7ce0f7ab1860afef973ca92f]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/1992/48/section/63) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

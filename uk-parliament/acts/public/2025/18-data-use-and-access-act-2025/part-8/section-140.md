@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Regulations[^key-5dddea88d7f859e282b859a08ea5d7c2]
+## 140. Regulations[^c-5dddea88d7f859e282b859a08ea5d7c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dddea88d7f859e282b859a08ea5d7c2]: Commencement: S. 140 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)
+[^c-5dddea88d7f859e282b859a08ea5d7c2]: Commencement: S. 140 in force at Royal Assent, see [s. 142(2)(g)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/g)

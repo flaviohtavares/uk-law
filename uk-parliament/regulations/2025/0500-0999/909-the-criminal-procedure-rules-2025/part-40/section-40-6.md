@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.6. Respondent’s notice on appeal against reporting restriction[^key-08b48edcde58ab642faeefa53abb9b9b]
+## 40.6. Respondent’s notice on appeal against reporting restriction[^c-08b48edcde58ab642faeefa53abb9b9b]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08b48edcde58ab642faeefa53abb9b9b]: Commencement: [Rule 40.6](https://www.legislation.gov.uk/uksi/2025/909/rule/40.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-08b48edcde58ab642faeefa53abb9b9b]: Commencement: [Rule 40.6](https://www.legislation.gov.uk/uksi/2025/909/rule/40.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

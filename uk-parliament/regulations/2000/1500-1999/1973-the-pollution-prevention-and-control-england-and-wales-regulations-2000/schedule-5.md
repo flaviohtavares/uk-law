@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — POLLUTANTS[^key-aa772006de0fb17109dddf7f63b9b1eb]
+## SCHEDULE 5 — POLLUTANTS[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 *Extent: E+W*
 
@@ -24,64 +24,64 @@ summary: ''
 
 Regulation 12(2)
 
-[^key-aa772006de0fb17109dddf7f63b9b1eb]Indicative list of the main polluting substances to be taken into account if they are relevant for fixing emission limit values
+[^c-aa772006de0fb17109dddf7f63b9b1eb]Indicative list of the main polluting substances to be taken into account if they are relevant for fixing emission limit values
 
-### 1. AIR[^key-aa772006de0fb17109dddf7f63b9b1eb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 1. WATER[^key-aa772006de0fb17109dddf7f63b9b1eb]
+### 1. AIR[^c-aa772006de0fb17109dddf7f63b9b1eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. WATER[^c-aa772006de0fb17109dddf7f63b9b1eb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**5.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-aa772006de0fb17109dddf7f63b9b1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa772006de0fb17109dddf7f63b9b1eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/1973) revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with transitional provisions and savings in [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)) (and, to the extent that it is saved, Sch. 10 para. 37 and reg. 39 so far as it relates to that provision are further revoked (1.4.2010) by [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1))
+[^c-aa772006de0fb17109dddf7f63b9b1eb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/1973) revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with transitional provisions and savings in [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)) (and, to the extent that it is saved, Sch. 10 para. 37 and reg. 39 so far as it relates to that provision are further revoked (1.4.2010) by [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Interpretation[^key-024a62f0a06ed86c21d377c1864d8f91]
+## 118. Interpretation[^c-024a62f0a06ed86c21d377c1864d8f91]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In regulation 2 of the Stamp Duty and Stamp Duty Reserve Tax (Definition of Unit
 
 ## Annotations
 
-[^key-024a62f0a06ed86c21d377c1864d8f91]: Commencement: Art. 118 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-024a62f0a06ed86c21d377c1864d8f91]: Commencement: Art. 118 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

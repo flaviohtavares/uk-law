@@ -65,11 +65,11 @@ In accordance with sections 1095(6), 1290 and 1292(4) of that Act, a draft of th
 
 Where it appears to the registrar that material on the register is misleading or confusing, the registrar may place a note in the register containing such information as appears to the registrar to be necessary to remedy, as far as possible, the misleading or confusing nature of the material.
 
-## 4. Rectification of the register on application[^key-71af5ec95dd65abd927c97b805b2c004]
+## 4. Rectification of the register on application[^c-71af5ec95dd65abd927c97b805b2c004]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Applications to rectify: further requirements, objections and notices to be issued by the registrar[^key-4bc2d4c03557ab03332031e9aa2d875a]
+## 5. Applications to rectify: further requirements, objections and notices to be issued by the registrar[^c-4bc2d4c03557ab03332031e9aa2d875a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,7 +87,7 @@ Where it appears to the registrar that material on the register is misleading or
 - (f) a declaration referred to in regulation 11(1)(b) or regulation 12(1)(b) or (c) of the Community Interest Company Regulations 2005 [^c19759461] which relates to a non-traded company;
 - (g) revised accounts and any revised report of a non-traded company, and any auditor's report on such revised accounts and reports, required to be delivered to the registrar by the Companies (Revision of Defective Accounts and Reports) Regulations 2008 [^c19759471];
 - (h) a document required to be appended to the group accounts of a non-traded company by paragraph 30(2) of Schedule 6 to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008 [^c19759481] (banking groups: information as to undertaking in which shares held as a result of financial assistance operation);
-- (i)[^key-6ed211def71337840483fa14cc9ff6a2] all documents to be delivered to the registrar by a non-traded company under sections 394A(2)(e), 448A(2)(e) and 479A(2)(e) of the Companies Act 2006 (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).
+- (i)[^c-6ed211def71337840483fa14cc9ff6a2] all documents to be delivered to the registrar by a non-traded company under sections 394A(2)(e), 448A(2)(e) and 479A(2)(e) of the Companies Act 2006 (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).
 
 (3) The following is the list of resolutions and agreements referred to in paragraph (2)(d)—
 
@@ -119,7 +119,7 @@ Where it appears to the registrar that material on the register is misleading or
 - (b) a company's articles;
 - (c) a valuation report required to be delivered to the registrar under section 94(2)(d) of the Companies Act 2006;
 - (d) any order made by a competent court in the United Kingdom or elsewhere;
-- (e)[^key-7328a12bcf3a4d67fa46b42304db73f5] copies of the consolidated accounts, the auditor’s report and the consolidated annual report to be delivered to the registrar under sections 394A(2)(e), 448A(2)(e) or 479A(2)(e) of the Companies Act 2006 (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).
+- (e)[^c-7328a12bcf3a4d67fa46b42304db73f5] copies of the consolidated accounts, the auditor’s report and the consolidated annual report to be delivered to the registrar under sections 394A(2)(e), 448A(2)(e) or 479A(2)(e) of the Companies Act 2006 (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).
 
 ## 8. Permitted characters and symbols for names and addresses in documents delivered to the registrar
 
@@ -133,19 +133,19 @@ Where it appears to the registrar that material on the register is misleading or
 - (d) an agreement required to be forwarded to the registrar under Chapter 3 of Part 3 of the Companies Act 2006 (agreements affecting a company's constitution);
 - (e) a valuation report required to be delivered to the registrar under section 94(2)(d) of that Act;
 - (f) a document required to be delivered to the registrar under section 400(2)(e) or section 401(2)(f) of that Act (company included in accounts of larger group: required to deliver copy of group accounts) [^c19759511];
-- (g) an instrument or copy instrument [^key-e2b248c92670ee7a1b2cecad8382d7ff]... delivered to the registrar under Part 25 of that Act (company charges) [^c19759521];
+- (g) an instrument or copy instrument [^c-e2b248c92670ee7a1b2cecad8382d7ff]... delivered to the registrar under Part 25 of that Act (company charges) [^c19759521];
 - (h) a certified copy of the constitution of an overseas company required to be delivered to the registrar under regulation 8, 14 or 15 of the Overseas Companies Regulations 2009;
 - (i) a copy of accounting documents of an overseas company required to be delivered to the registrar under regulation 9, 32, 45 or 46 of those Regulations;
 - (j) a copy of the annual accounts of an overseas company, or of a credit or financial institution to which Chapter 2 of Part 6 of the Overseas Companies Regulations 2009 applies, required to be delivered to the registrar under section 441 of the Companies Act 2006 [^c19759531];
-- (k)[^key-cc6c976ca255e0009dc8a80380dd5edf] a contract for the formation of a UK[^key-1c12c665ac6c00fc2ad4a8cea3a738cd] Economic Interest Grouping;
+- (k)[^c-cc6c976ca255e0009dc8a80380dd5edf] a contract for the formation of a UK[^c-1c12c665ac6c00fc2ad4a8cea3a738cd] Economic Interest Grouping;
 - (l) an amendment to such a contract;
-- (m)[^key-dc03ad9c18b67ef2e5587cdb1bc7b723] documents specified in respect of any of the Forms mentioned in regulations 5 to 11 of the European Public Limited-Liability Company Regulations 2004 (provisions relating to registration etc);
+- (m)[^c-dc03ad9c18b67ef2e5587cdb1bc7b723] documents specified in respect of any of the Forms mentioned in regulations 5 to 11 of the European Public Limited-Liability Company Regulations 2004 (provisions relating to registration etc);
 - (n) copies of transfer proposals required to be delivered under regulation 68(1)(a) of those Regulations (publication of terms of transfer);
 - (o) copies of draft terms required to be delivered under regulation 68(2)(a) or (3)(a) of those Regulations (publication of terms for formation of holding SE or conversion of company into SE);
 - (p) copies of amendments to statutes required to be delivered under regulation 82(1)(a) of those Regulations (notification of amendments to statutes);
-- (q) documents required to be delivered [^key-929561ca5b85e9f65e883b4b47069500]... under regulation 85 of those Regulations (registration of a public company by conversion of SE);
+- (q) documents required to be delivered [^c-929561ca5b85e9f65e883b4b47069500]... under regulation 85 of those Regulations (registration of a public company by conversion of SE);
 - (r) copies of draft terms required to be delivered under regulation 86 of those Regulations (publication of draft terms of conversion);
-- (s)[^key-1a8ebfc844cfd3ac1f7a4ee0ec8292f4] copies of the consolidated accounts, the auditor’s report and the consolidated annual report to be delivered to the registrar under sections 394A(2)(e), 448A(2)(e) or 479A(2)(e) of the Companies Act 2006 (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).
+- (s)[^c-1a8ebfc844cfd3ac1f7a4ee0ec8292f4] copies of the consolidated accounts, the auditor’s report and the consolidated annual report to be delivered to the registrar under sections 394A(2)(e), 448A(2)(e) or 479A(2)(e) of the Companies Act 2006 (qualifying subsidiaries: conditions for exemption from the audit, preparation and filing of individual accounts).
 
 (3) The characters and symbols specified in this paragraph are—
 
@@ -165,7 +165,7 @@ Department for Business, Innovation and Skills
 
 Regulation 8(3)
 
- [^key-cb3bb6259b61c96085fa58f393a96915]
+ [^c-cb3bb6259b61c96085fa58f393a96915]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2009/1803/images/uksi_20091803_en_epp_001)
 
@@ -197,9 +197,9 @@ An Impact Assessment has not been produced for these Regulations as they have on
 
 [^c19759401]: Marginal citation: [Section 1005](https://www.legislation.gov.uk/uksi/2009/1803/section/1005) was modified by article 3 of [S.I. 2009/317](https://www.legislation.gov.uk/uksi/2009/317).
 
-[^key-71af5ec95dd65abd927c97b805b2c004]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1803/regulation/4) revoked (4.3.2024) by [The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 (S.I. 2024/54)](https://www.legislation.gov.uk/uksi/2024/54), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a), [12(1)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/1) (with [reg. 12(2)-(4)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/2), [17](https://www.legislation.gov.uk/uksi/2024/54/regulation/17)); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2](https://www.legislation.gov.uk/uksi/2024/269/regulation/2)
+[^c-71af5ec95dd65abd927c97b805b2c004]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1803/regulation/4) revoked (4.3.2024) by [The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 (S.I. 2024/54)](https://www.legislation.gov.uk/uksi/2024/54), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a), [12(1)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/1) (with [reg. 12(2)-(4)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/2), [17](https://www.legislation.gov.uk/uksi/2024/54/regulation/17)); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2](https://www.legislation.gov.uk/uksi/2024/269/regulation/2)
 
-[^key-4bc2d4c03557ab03332031e9aa2d875a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1803/regulation/5) revoked (4.3.2024) by [The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 (S.I. 2024/54)](https://www.legislation.gov.uk/uksi/2024/54), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a), [12(1)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/1) (with [reg. 12(2)-(4)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/2), [17](https://www.legislation.gov.uk/uksi/2024/54/regulation/17)); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2](https://www.legislation.gov.uk/uksi/2024/269/regulation/2)
+[^c-4bc2d4c03557ab03332031e9aa2d875a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/1803/regulation/5) revoked (4.3.2024) by [The Registrar (Annotation, Removal and Disclosure Restrictions) Regulations 2024 (S.I. 2024/54)](https://www.legislation.gov.uk/uksi/2024/54), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/54/regulation/1/2/a), [12(1)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/1) (with [reg. 12(2)-(4)](https://www.legislation.gov.uk/uksi/2024/54/regulation/12/2), [17](https://www.legislation.gov.uk/uksi/2024/54/regulation/17)); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2](https://www.legislation.gov.uk/uksi/2024/269/regulation/2)
 
 [^c19759441]: Marginal citation: [2004 c.27](https://www.legislation.gov.uk/ukpga/2004/27); section 34 was amended by [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093), 2007/2194, 2008/948.
 
@@ -211,30 +211,30 @@ An Impact Assessment has not been produced for these Regulations as they have on
 
 [^c19759481]: Marginal citation: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
 
-[^key-6ed211def71337840483fa14cc9ff6a2]: Textual amendment: Reg. 6(2)(i) added (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/21/2)
+[^c-6ed211def71337840483fa14cc9ff6a2]: Textual amendment: Reg. 6(2)(i) added (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/21/2)
 
 [^c19759491]: Marginal citation: Section 37 was amended by paragraph 7 of Schedule 4 to S.I 2007/1093 and by paragraph 105 of Schedule 4 to [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194).
 
 [^c19759501]: Marginal citation: [S.I. 1994/117](https://www.legislation.gov.uk/uksi/1994/117); relevant amending instruments are [S.I. 1994/727](https://www.legislation.gov.uk/uksi/1994/727), 1994/734. By virtue of [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [regulation 4](https://www.legislation.gov.uk/uksi/2006/3428/regulation/4) has effect with adaptations as if made under section 1104(2) of the Companies Act 2006.
 
-[^key-7328a12bcf3a4d67fa46b42304db73f5]: Textual amendment: [Reg. 7(2)(e)](https://www.legislation.gov.uk/uksi/2009/1803/regulation/7/2/e) added (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/21/3)
+[^c-7328a12bcf3a4d67fa46b42304db73f5]: Textual amendment: [Reg. 7(2)(e)](https://www.legislation.gov.uk/uksi/2009/1803/regulation/7/2/e) added (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [21(3)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/21/3)
 
 [^c19759511]: Marginal citation: Sections 400 and 401 were applied to limited liability partnerships by regulation 10 of [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).
 
-[^key-e2b248c92670ee7a1b2cecad8382d7ff]: Textual amendment: Words in reg. 8(2)(g) omitted (6.4.2013) by virtue of [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/6/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
+[^c-e2b248c92670ee7a1b2cecad8382d7ff]: Textual amendment: Words in reg. 8(2)(g) omitted (6.4.2013) by virtue of [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [reg. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2013/600/schedule/2/paragraph/6/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
 [^c19759521]: Marginal citation: Sections 860 to 892 in Part 25 were applied to limited liability partnerships by regulations 32 to 44 of [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804).
 
 [^c19759531]: Marginal citation: Section 441 was applied with modifications to overseas companies and to certain credit and financial institutions by, respectively, regulation 40 and regulation 55 of [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801).
 
-[^key-cc6c976ca255e0009dc8a80380dd5edf]: Textual amendment: Reg. 8(2)(k)(l) inserted (1.10.2009) by [The European Economic Interest Grouping (Amendment) Regulations 2009 (S.I. 2009/2399)](https://www.legislation.gov.uk/uksi/2009/2399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2399/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2009/2399/regulation/24) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2399/regulation/2))
+[^c-cc6c976ca255e0009dc8a80380dd5edf]: Textual amendment: Reg. 8(2)(k)(l) inserted (1.10.2009) by [The European Economic Interest Grouping (Amendment) Regulations 2009 (S.I. 2009/2399)](https://www.legislation.gov.uk/uksi/2009/2399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2399/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2009/2399/regulation/24) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2399/regulation/2))
 
-[^key-1c12c665ac6c00fc2ad4a8cea3a738cd]: Textual amendment: Word in [reg. 8(2)(k)](https://www.legislation.gov.uk/uksi/2009/1803/regulation/8/2/k) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [65](https://www.legislation.gov.uk/uksi/2018/1299/regulation/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c12c665ac6c00fc2ad4a8cea3a738cd]: Textual amendment: Word in [reg. 8(2)(k)](https://www.legislation.gov.uk/uksi/2009/1803/regulation/8/2/k) substituted (31.12.2020) by [The European Economic Interest Grouping (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1299)](https://www.legislation.gov.uk/uksi/2018/1299), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1299/regulation/1), [65](https://www.legislation.gov.uk/uksi/2018/1299/regulation/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dc03ad9c18b67ef2e5587cdb1bc7b723]: Textual amendment: Reg. 8(2)(m)-(r) inserted (1.10.2009) by [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2009/2400/regulation/43) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))
+[^c-dc03ad9c18b67ef2e5587cdb1bc7b723]: Textual amendment: Reg. 8(2)(m)-(r) inserted (1.10.2009) by [The European Public Limited-Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2400/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2009/2400/regulation/43) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2400/regulation/2))
 
-[^key-929561ca5b85e9f65e883b4b47069500]: Textual amendment: Words in reg. 8(q) omitted (1.10.2014) by virtue of [The European Economic Interest Grouping and European Public Limited-Liability Company (Amendment) Regulations 2014 (S.I. 2014/2382)](https://www.legislation.gov.uk/uksi/2014/2382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2382/regulation/1), [36](https://www.legislation.gov.uk/uksi/2014/2382/regulation/36)
+[^c-929561ca5b85e9f65e883b4b47069500]: Textual amendment: Words in reg. 8(q) omitted (1.10.2014) by virtue of [The European Economic Interest Grouping and European Public Limited-Liability Company (Amendment) Regulations 2014 (S.I. 2014/2382)](https://www.legislation.gov.uk/uksi/2014/2382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2382/regulation/1), [36](https://www.legislation.gov.uk/uksi/2014/2382/regulation/36)
 
-[^key-1a8ebfc844cfd3ac1f7a4ee0ec8292f4]: Textual amendment: Reg. 8(2)(s) added (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/21/4)
+[^c-1a8ebfc844cfd3ac1f7a4ee0ec8292f4]: Textual amendment: Reg. 8(2)(s) added (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [21(4)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/21/4)
 
-[^key-cb3bb6259b61c96085fa58f393a96915]: Textual amendment: Sch. substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/5)
+[^c-cb3bb6259b61c96085fa58f393a96915]: Textual amendment: Sch. substituted (31.1.2015) by [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/5)

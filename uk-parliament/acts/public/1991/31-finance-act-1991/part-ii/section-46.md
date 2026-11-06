@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Workers in Kuwait or Iraq.[^key-b14df51918376bf720a43877a86baf10]
+## 46. Workers in Kuwait or Iraq.[^c-b14df51918376bf720a43877a86baf10]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14df51918376bf720a43877a86baf10]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1991/31/section/46) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-b14df51918376bf720a43877a86baf10]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1991/31/section/46) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

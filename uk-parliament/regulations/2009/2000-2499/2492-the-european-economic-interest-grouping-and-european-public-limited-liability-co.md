@@ -32,7 +32,7 @@ summary: ''
 
 Fees And Charges
 
-The European Economic Interest Grouping and European Public Limited-Liability Company (Fees) Revocation Regulations 2009 (revoked)[^key-c4def22b2bf4d566f7c56204518adb9c]
+The European Economic Interest Grouping and European Public Limited-Liability Company (Fees) Revocation Regulations 2009 (revoked)[^c-c4def22b2bf4d566f7c56204518adb9c]
 
 Made
 
@@ -46,39 +46,39 @@ Coming into force
 
 1st October 2009
 
-[^key-c4def22b2bf4d566f7c56204518adb9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4def22b2bf4d566f7c56204518adb9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c4def22b2bf4d566f7c56204518adb9c]
+## 1. Citation, commencement and interpretation[^c-c4def22b2bf4d566f7c56204518adb9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional Provisions[^key-c4def22b2bf4d566f7c56204518adb9c]
+## 2. Transitional Provisions[^c-c4def22b2bf4d566f7c56204518adb9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-c4def22b2bf4d566f7c56204518adb9c]
+## 5. Revocation[^c-c4def22b2bf4d566f7c56204518adb9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4def22b2bf4d566f7c56204518adb9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4def22b2bf4d566f7c56204518adb9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-c4def22b2bf4d566f7c56204518adb9c]
+## SCHEDULE 1[^c-c4def22b2bf4d566f7c56204518adb9c]
 
 Regulation 3
 
-**1.**[^key-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c4def22b2bf4d566f7c56204518adb9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-c4def22b2bf4d566f7c56204518adb9c]
+## SCHEDULE 2[^c-c4def22b2bf4d566f7c56204518adb9c]
 
 Regulations 2, 4 and 5
 
@@ -86,8 +86,8 @@ Regulations 2, 4 and 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-c4def22b2bf4d566f7c56204518adb9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4def22b2bf4d566f7c56204518adb9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4def22b2bf4d566f7c56204518adb9c]: Textual amendment: Regulations revoked (1.10.2012) by The European Economic Interest Grouping and European Public Limited-[Liability Company (Fees) Revocation Regulations 2012 (S.I. 2012/2300)](https://www.legislation.gov.uk/uksi/2012/2300), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2300/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/2300/regulation/2)
+[^c-c4def22b2bf4d566f7c56204518adb9c]: Textual amendment: Regulations revoked (1.10.2012) by The European Economic Interest Grouping and European Public Limited-[Liability Company (Fees) Revocation Regulations 2012 (S.I. 2012/2300)](https://www.legislation.gov.uk/uksi/2012/2300), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2300/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/2300/regulation/2)

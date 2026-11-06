@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 725A. Recovery of tax paid as a result of section 721[^key-dcdc06d406ba83b415bbdbd7198a49c6]
+## 725A. Recovery of tax paid as a result of section 721[^c-dcdc06d406ba83b415bbdbd7198a49c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ and any such certificate is conclusive evidence of the facts stated in it.
 
 ## Annotations
 
-[^key-dcdc06d406ba83b415bbdbd7198a49c6]: Textual amendment: [S. 725A](https://www.legislation.gov.uk/ukpga/2007/3/section/725A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 31](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/31), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-dcdc06d406ba83b415bbdbd7198a49c6]: Textual amendment: [S. 725A](https://www.legislation.gov.uk/ukpga/2007/3/section/725A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 31](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/31), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

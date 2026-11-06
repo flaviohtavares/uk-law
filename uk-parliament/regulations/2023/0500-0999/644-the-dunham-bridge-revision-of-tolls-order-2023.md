@@ -31,7 +31,7 @@ summary: ''
 
 Highways
 
-The Dunham Bridge (Revision of Tolls) Order 2023 (revoked)[^key-36c2639d3418824543835d75955d865b]
+The Dunham Bridge (Revision of Tolls) Order 2023 (revoked)[^c-36c2639d3418824543835d75955d865b]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into force
 
 1st July 2023
 
-[^key-36c2639d3418824543835d75955d865b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36c2639d3418824543835d75955d865b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-36c2639d3418824543835d75955d865b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36c2639d3418824543835d75955d865b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36c2639d3418824543835d75955d865b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-36c2639d3418824543835d75955d865b]
+## SCHEDULE[^c-36c2639d3418824543835d75955d865b]
 
 Article 2
 
@@ -65,8 +65,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-36c2639d3418824543835d75955d865b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36c2639d3418824543835d75955d865b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36c2639d3418824543835d75955d865b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/644) revoked (1.8.2026) by [The Dunham Bridge (Revision of Tolls) Order 2026 (S.I. 2026/806)](https://www.legislation.gov.uk/uksi/2026/806), [arts. 1](https://www.legislation.gov.uk/uksi/2026/806/article/1), [4](https://www.legislation.gov.uk/uksi/2026/806/article/4)
+[^c-36c2639d3418824543835d75955d865b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/644) revoked (1.8.2026) by [The Dunham Bridge (Revision of Tolls) Order 2026 (S.I. 2026/806)](https://www.legislation.gov.uk/uksi/2026/806), [arts. 1](https://www.legislation.gov.uk/uksi/2026/806/article/1), [4](https://www.legislation.gov.uk/uksi/2026/806/article/4)

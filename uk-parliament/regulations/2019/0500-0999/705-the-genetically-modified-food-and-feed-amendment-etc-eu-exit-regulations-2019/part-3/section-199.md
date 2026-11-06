@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199.[^key-f0297a25717c132a65fcd50c18b9a0a3]
+## 199.[^c-f0297a25717c132a65fcd50c18b9a0a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 4, omit “Community”.
 
 ## Annotations
 
-[^key-f0297a25717c132a65fcd50c18b9a0a3]: Commencement: Reg. 199 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f0297a25717c132a65fcd50c18b9a0a3]: Commencement: Reg. 199 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Charge of excise duty on manufactured or composite imported articles.[^c14779371][^key-7c2a8d9115019f00b0039420cedbe4f1]
+## 126. Charge of excise duty on manufactured or composite imported articles.[^c14779371][^c-7c2a8d9115019f00b0039420cedbe4f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c14779371]: Modification: S. 126 excluded (20.10.1995) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 118(c)(iii)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/118/c/iii)
 
-[^key-7c2a8d9115019f00b0039420cedbe4f1]: Modification: [S. 126](https://www.legislation.gov.uk/ukpga/1979/2/section/126) excluded (1.8.2021) by S.I. 1995/2518, regs. 133AB(c), 133L, 133N (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-7c2a8d9115019f00b0039420cedbe4f1]: Modification: [S. 126](https://www.legislation.gov.uk/ukpga/1979/2/section/126) excluded (1.8.2021) by S.I. 1995/2518, regs. 133AB(c), 133L, 133N (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))

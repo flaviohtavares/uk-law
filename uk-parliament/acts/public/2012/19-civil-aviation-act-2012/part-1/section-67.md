@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Airports: supplementary[^key-ef151c92d2302814bf92c994375614e9]
+## 67. Airports: supplementary[^c-ef151c92d2302814bf92c994375614e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ other than a car park, bus station, tram station or railway station.
 
 ## Annotations
 
-[^key-ef151c92d2302814bf92c994375614e9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2012/19/section/67) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-ef151c92d2302814bf92c994375614e9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2012/19/section/67) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

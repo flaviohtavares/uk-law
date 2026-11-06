@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Other charters[^key-a86f4bf7bfff89c16a4a75258d663256][^key-5b0781e14e8961735107a780c61aa13d]
+## 14. Other charters[^c-a86f4bf7bfff89c16a4a75258d663256][^c-5b0781e14e8961735107a780c61aa13d]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Qualifications Scotland must, from time to time, consider whether to prepare and
 
 ## Annotations
 
-[^key-a86f4bf7bfff89c16a4a75258d663256]: Commencement: S. 14 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-a86f4bf7bfff89c16a4a75258d663256]: Commencement: S. 14 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-5b0781e14e8961735107a780c61aa13d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2025/11/section/14) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-5b0781e14e8961735107a780c61aa13d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2025/11/section/14) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

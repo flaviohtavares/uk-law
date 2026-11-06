@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Time within which a claim must be made[^key-b18b527ae3239393ae3ed1a24cae913d]
+## 192. Time within which a claim must be made[^c-b18b527ae3239393ae3ed1a24cae913d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b18b527ae3239393ae3ed1a24cae913d]: Commencement: Reg. 192 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-b18b527ae3239393ae3ed1a24cae913d]: Commencement: Reg. 192 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

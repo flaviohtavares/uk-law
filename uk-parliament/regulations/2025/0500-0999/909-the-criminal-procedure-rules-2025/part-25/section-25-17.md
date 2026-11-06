@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.17. Provision of documents for the court[^key-a1322b567cd69c6e8c3cf33045155181]
+## 25.17. Provision of documents for the court[^c-a1322b567cd69c6e8c3cf33045155181]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1322b567cd69c6e8c3cf33045155181]: Commencement: [Rule 25.17](https://www.legislation.gov.uk/uksi/2025/909/rule/25.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a1322b567cd69c6e8c3cf33045155181]: Commencement: [Rule 25.17](https://www.legislation.gov.uk/uksi/2025/909/rule/25.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

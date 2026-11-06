@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10A. Award of Universal Credit[^key-2ac4e9fff454f9b5e38ad78382588d7d]
+## 10A. Award of Universal Credit[^c-2ac4e9fff454f9b5e38ad78382588d7d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purposes of these Regulations an award of universal credit includes—
 
 ## Annotations
 
-[^key-2ac4e9fff454f9b5e38ad78382588d7d]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2021/249/regulation/10A) inserted (1.4.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/24)](https://www.legislation.gov.uk/ssi/2025/24), [regs. 1](https://www.legislation.gov.uk/ssi/2025/24/regulation/1), [9](https://www.legislation.gov.uk/ssi/2025/24/regulation/9)
+[^c-2ac4e9fff454f9b5e38ad78382588d7d]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/ssi/2021/249/regulation/10A) inserted (1.4.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/24)](https://www.legislation.gov.uk/ssi/2025/24), [regs. 1](https://www.legislation.gov.uk/ssi/2025/24/regulation/1), [9](https://www.legislation.gov.uk/ssi/2025/24/regulation/9)

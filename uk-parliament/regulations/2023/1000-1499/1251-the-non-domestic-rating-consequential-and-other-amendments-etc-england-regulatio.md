@@ -46,39 +46,39 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 42(5), 47(8), 55(2) and (7), 64(3), 143(1) and (2), 147(1) of, and paragraph 4(1)(c) of Schedule 5A to, the Local Government Finance Act 1988[^f00001], section 236(1) of the Localism Act 2011[^f00002] and section 17(2) of the Non-Domestic Rating Act 2023[^f00003].
 
-## 1. Citation, commencement and extent[^key-d1c7cfe84e4fe551195407d680276035]
+## 1. Citation, commencement and extent[^c-d1c7cfe84e4fe551195407d680276035]
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Consequential and Other Amendments etc.) (England) Regulations 2023 and come into force on 1st April 2024.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-4b0f562bb38a005170864fe3001cf862]
+## 2. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-4b0f562bb38a005170864fe3001cf862]
 
 In regulation 3 (interpretation and application of Part 2) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^f00004]—
 
 - (a) in paragraph (1), in paragraph (a)(i) of the definition of “the amount payable”, for the words from “section 43(4)” to “the Act)” substitute “any provision of or made under Schedule 4ZA, 4ZB or 7A to the Act[^f00005]”;
 - (b) in paragraph (2), for “section 45A of” substitute “paragraph 2 of Schedule 4ZB to”.
 
-## 3. Amendment of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989[^key-86ed0eac6cb68a97232d06ee02f8f6ac]
+## 3. Amendment of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989[^c-86ed0eac6cb68a97232d06ee02f8f6ac]
 
 In regulation 3 of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989[^f00006], for “a valuation and community charge tribunal” substitute “the Valuation Tribunal for England[^f00007]”.
 
-## 4. Amendment of the Non-Domestic Rating (Miscellaneous Provisions) (No. 2) Regulations 1989[^key-5ef409ea920940a90301a3fe6664cf6b]
+## 4. Amendment of the Non-Domestic Rating (Miscellaneous Provisions) (No. 2) Regulations 1989[^c-5ef409ea920940a90301a3fe6664cf6b]
 
 In regulation 5(5) (docks and harbours undertakings) of the Non-Domestic Rating (Miscellaneous Provisions) (No. 2) Regulations 1989[^f00008], in the definition of “subsidiary”, for “section 736 of the Companies Act 1985” substitute “section 1159 of the Companies Act 2006[^f00009]”.
 
-## 5. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^key-d5ede6a52e276e7ea214ed5e10a243ad]
+## 5. Amendment of the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^c-d5ede6a52e276e7ea214ed5e10a243ad]
 
 In regulation 3(7) (joint owners and occupiers) of the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^f00010]—
 
 - (a) in sub-paragraph (a), for “section 43(6)(a), 45A(2)(a) and 47(2)(a) of” substitute “paragraph 2(2)(a) of Schedule 4ZA and paragraph 2(2)(a) of Schedule 4ZB to”;
 - (b) in sub-paragraph (b), for “section 43(6)(b), 45A(3)(a) and 47(2)(ba) of” substitute “paragraph 2(2)(b) of Schedule 4ZA and paragraph 2(2)(b) of Schedule 4ZB to”.
 
-## 6. Amendment of the Non-Domestic Rating (Payment of Interest) Regulations 1990[^key-6cb48360d5b4070c1ed8adaec2fc59d6]
+## 6. Amendment of the Non-Domestic Rating (Payment of Interest) Regulations 1990[^c-6cb48360d5b4070c1ed8adaec2fc59d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Non-Domestic Rating (Rural Settlements) (England) Order 1997[^key-b60b01dd78f934d5bb5c0efa6fcb8dd4]
+## 7. Amendment of the Non-Domestic Rating (Rural Settlements) (England) Order 1997[^c-b60b01dd78f934d5bb5c0efa6fcb8dd4]
 
 In article 3 (rateable value limits) of the Non-Domestic Rating (Rural Settlements) (England) Order 1997[^f00012]—
 
@@ -90,11 +90,11 @@ In article 3 (rateable value limits) of the Non-Domestic Rating (Rural Settlemen
 
   .
 
-## 8. Amendment of the Non-Domestic Rating (Public Houses and Petrol Filling Stations) (England) Order 2001[^key-7ec74b51216c0baf3925857e24d48d55]
+## 8. Amendment of the Non-Domestic Rating (Public Houses and Petrol Filling Stations) (England) Order 2001[^c-7ec74b51216c0baf3925857e24d48d55]
 
 In regulation 2 (condition for relief) of the Non-Domestic Rating (Public Houses and Petrol Filling Stations) (England) Order 2001[^f00013], for “section 43(6B)(c)(ii)” substitute “paragraph 8(1)(d)(ii) of Schedule 4ZA to the Local Government Finance Act 1988”.
 
-## 9. Amendment of the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^key-66c7e86f59696f9d87a1a71e6695299b]
+## 9. Amendment of the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^c-66c7e86f59696f9d87a1a71e6695299b]
 
 (1) Schedule 2 (matters to be contained in rate demand notices and publication of explanatory notes) to the Council Tax and Non-Domestic Rating (Demand Notices) (England) Regulations 2003[^f00014] is amended as follows.
 
@@ -124,7 +124,7 @@ In regulation 2 (condition for relief) of the Non-Domestic Rating (Public Houses
   - (i) for “a discount” substitute “full relief”;
   - (ii) omit the words from “An eligible” to “eligible ratepayers.”.
 
-## 10. Amendment of the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008[^key-ccd3e1e9a61b7250bf52bd2bdfc4f860]
+## 10. Amendment of the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008[^c-ccd3e1e9a61b7250bf52bd2bdfc4f860]
 
 After regulation 4 of the Non-Domestic Rating (Unoccupied Property) (England) Regulations 2008[^f00016], insert—
 
@@ -137,30 +137,30 @@ After regulation 4 of the Non-Domestic Rating (Unoccupied Property) (England) Re
 
 .
 
-## 11. Amendment of the Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2009[^key-f4d62a4e0b8f6cc4e3e598acf24a8fad]
+## 11. Amendment of the Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2009[^c-f4d62a4e0b8f6cc4e3e598acf24a8fad]
 
 In regulation 6A(1) (proposals made on ground in regulation 4(1)(b)) of the Non-Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2009[^f00017], after “paragraph 2(7)(d)” insert “, (da)”.
 
-## 12. Amendment of the Non-Domestic Rating (Transitional Protection Payments) Regulations 2013[^key-77005fea31ed66bc7c15e676cae6f842]
+## 12. Amendment of the Non-Domestic Rating (Transitional Protection Payments) Regulations 2013[^c-77005fea31ed66bc7c15e676cae6f842]
 
 In the Non-Domestic Rating (Transitional Protection Payments) Regulations 2013[^f00018], in regulations 2(2) (rules for calculation of deemed rating income) and 3(2) (rules for calculation of actual rating income)—
 
 - (a) for sub-paragraphs (b) and (c) substitute—
 
   > - (b) the conditions prescribed for the purposes of paragraph 4(2) of Schedule 4ZA to the 1988 Act (small business rate relief) are fulfilled and the value of E in paragraph 4(1) of Schedule 4ZA to that Act is 1;
-  > - (c) paragraphs 2(2) (charitable rate relief), 6 (heat networks rate relief),[^key-7a363515f873157356d2c48b65196038] 7 (public lavatories relief) and 8(1) (rural rate relief) of Schedule 4ZA to the 1988 Act do not apply;
+  > - (c) paragraphs 2(2) (charitable rate relief), 6 (heat networks rate relief),[^c-7a363515f873157356d2c48b65196038] 7 (public lavatories relief) and 8(1) (rural rate relief) of Schedule 4ZA to the 1988 Act do not apply;
 
   ;
 - (b) omit sub-paragraph (e).
 
-## 13. Amendment of the Non-Domestic Rating (Levy and Safety Net) Regulations 2013[^key-bada1953f55730c843936ff7175eba89]
+## 13. Amendment of the Non-Domestic Rating (Levy and Safety Net) Regulations 2013[^c-bada1953f55730c843936ff7175eba89]
 
 In paragraph 1 of Schedule 1 (calculation of retained rates income) to the Non-Domestic Rating (Levy and Safety Net) Regulations 2013[^f00019]—
 
 - (a) in sub-paragraph (4A)(b), for “section 43(4A) to (4D) of” substitute “paragraph 4 of Schedule 4ZA to”;
 - (b) in sub-paragraph (4D)(b), for “section 43(4I)” substitute “paragraph 7 of Schedule 4ZA to the 1988 Act”.
 
-## 14. Amendment of the Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2022[^key-1b3b20661bc86b31476b4cc94e8e8bcb]
+## 14. Amendment of the Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2022[^c-1b3b20661bc86b31476b4cc94e8e8bcb]
 
 (1) The Non-Domestic Rating (Chargeable Amounts) (England) Regulations 2022[^f00020] are amended as follows.
 
@@ -225,11 +225,11 @@ In paragraph 1 of Schedule 1 (calculation of retained rates income) to the Non-D
 
   .
 
-## 15. Savings[^key-6ef28e7fabfef61bb3de3a86b4ec56bd]
+## 15. Savings[^c-6ef28e7fabfef61bb3de3a86b4ec56bd]
 
 The amendments made by regulation 14 do not apply to the determination of the chargeable amount for a chargeable day before 1st April 2024.
 
-## 16. Revocation[^key-9b81142814829639c6c500e1fdedbdf2]
+## 16. Revocation[^c-9b81142814829639c6c500e1fdedbdf2]
 
 The Non-Domestic Rating (Discretionary Relief) Regulations 1989[^f00021] are revoked in relation to England.
 
@@ -267,70 +267,70 @@ An impact assessment has not been produced for this instrument because it amends
 
 [^f00003]: Footnote: [2023 c. 53](https://www.legislation.gov.uk/ukpga/2023/53). See section 17(3) for the definition of “the appropriate national authority”.
 
-[^key-d1c7cfe84e4fe551195407d680276035]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-d1c7cfe84e4fe551195407d680276035]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
-[^key-4b0f562bb38a005170864fe3001cf862]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1251/regulation/2) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-4b0f562bb38a005170864fe3001cf862]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1251/regulation/2) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); relevant amending instruments are [S.I. 1991/141](https://www.legislation.gov.uk/uksi/1991/141), [1993/616](https://www.legislation.gov.uk/uksi/1993/616), [1993/1493](https://www.legislation.gov.uk/uksi/1993/1493), [2008/428](https://www.legislation.gov.uk/uksi/2008/428) and [2010/187](https://www.legislation.gov.uk/uksi/2010/187).
 
 [^f00005]: Footnote: Schedules 4ZA and 4ZB were inserted into the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) by sections 1(3) and 2(4) of the Non-Domestic Rating Act 2023 respectively. Schedule 7A was inserted by paragraph 79(3) of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-86ed0eac6cb68a97232d06ee02f8f6ac]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1251/regulation/3) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-86ed0eac6cb68a97232d06ee02f8f6ac]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1251/regulation/3) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1989/1060](https://www.legislation.gov.uk/uksi/1989/1060), amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307); there are other amending instruments but none is relevant.
 
 [^f00007]: Footnote: The Valuation Tribunal for England was established by paragraph A1 of Schedule 11 to the Local Government Finance Act 1988.
 
-[^key-5ef409ea920940a90301a3fe6664cf6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1251/regulation/4) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-5ef409ea920940a90301a3fe6664cf6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1251/regulation/4) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1989/2303](https://www.legislation.gov.uk/uksi/1989/2303), to which there are amendments not relevant to these Regulations.
 
 [^f00009]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-d5ede6a52e276e7ea214ed5e10a243ad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1251/regulation/5) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-d5ede6a52e276e7ea214ed5e10a243ad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1251/regulation/5) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1990/145](https://www.legislation.gov.uk/uksi/1990/145), amended by [S.I. 2008/428](https://www.legislation.gov.uk/uksi/2008/428); there are other amending instruments but none is relevant.
 
-[^key-6cb48360d5b4070c1ed8adaec2fc59d6]: Textual amendment: Reg. 6 omitted (31.3.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/2)
+[^c-6cb48360d5b4070c1ed8adaec2fc59d6]: Textual amendment: Reg. 6 omitted (31.3.2024) by virtue of [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/2)
 
-[^key-b60b01dd78f934d5bb5c0efa6fcb8dd4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1251/regulation/7) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-b60b01dd78f934d5bb5c0efa6fcb8dd4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1251/regulation/7) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1997/2792](https://www.legislation.gov.uk/uksi/1997/2792), amended by [S.I. 2001/1346](https://www.legislation.gov.uk/uksi/2001/1346), [2009/3176](https://www.legislation.gov.uk/uksi/2009/3176).
 
-[^key-7ec74b51216c0baf3925857e24d48d55]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1251/regulation/8) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-7ec74b51216c0baf3925857e24d48d55]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1251/regulation/8) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2001/1345](https://www.legislation.gov.uk/uksi/2001/1345), to which there are amendments not relevant to these Regulations.
 
-[^key-66c7e86f59696f9d87a1a71e6695299b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-66c7e86f59696f9d87a1a71e6695299b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1251/regulation/9) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2003/2613](https://www.legislation.gov.uk/uksi/2003/2613); relevant amending instruments are [S.I. 2008/387](https://www.legislation.gov.uk/uksi/2008/387), [2010/187](https://www.legislation.gov.uk/uksi/2010/187), [2013/694](https://www.legislation.gov.uk/uksi/2013/694), [2015/427](https://www.legislation.gov.uk/uksi/2015/427), [2016/316](https://www.legislation.gov.uk/uksi/2016/316), [2017/39](https://www.legislation.gov.uk/uksi/2017/39), [2018/92](https://www.legislation.gov.uk/uksi/2018/92), [2019/101](https://www.legislation.gov.uk/uksi/2019/101), [2020/133](https://www.legislation.gov.uk/uksi/2020/133) and [2023/13](https://www.legislation.gov.uk/uksi/2023/13).
 
 [^f00015]: Footnote: Section 44A(7) and (9) of the Local Government Finance Act 1988 modifies paragraph 10(2) of Schedule 4ZA when the conditions in subsections (6) or (8) are met. Section 44A(6) to (9) was amended by paragraph 2 of the Schedule to the Non-Domestic Rating Act 2023.
 
-[^key-ccd3e1e9a61b7250bf52bd2bdfc4f860]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1251/regulation/10) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-ccd3e1e9a61b7250bf52bd2bdfc4f860]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1251/regulation/10) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2008/386](https://www.legislation.gov.uk/uksi/2008/386) amended by [S.I. 2010/408](https://www.legislation.gov.uk/uksi/2010/408), [2015/1641](https://www.legislation.gov.uk/uksi/2015/1641) and [2017/102](https://www.legislation.gov.uk/uksi/2017/102).
 
-[^key-f4d62a4e0b8f6cc4e3e598acf24a8fad]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/1251/regulation/11) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-f4d62a4e0b8f6cc4e3e598acf24a8fad]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/1251/regulation/11) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2009/2268](https://www.legislation.gov.uk/uksi/2009/2268). Regulation 6A was inserted by [S.I. 2017/155](https://www.legislation.gov.uk/uksi/2017/155).
 
-[^key-77005fea31ed66bc7c15e676cae6f842]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-77005fea31ed66bc7c15e676cae6f842]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2013/106](https://www.legislation.gov.uk/uksi/2013/106), amended by [S.I. 2023/268](https://www.legislation.gov.uk/uksi/2023/268); there are other amending instruments but none is relevant.
 
-[^key-7a363515f873157356d2c48b65196038]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/a) inserted (31.3.2024) by [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/3)
+[^c-7a363515f873157356d2c48b65196038]: Textual amendment: Words in [reg. 12(a)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/12/a) inserted (31.3.2024) by [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/246/regulation/4/3)
 
-[^key-bada1953f55730c843936ff7175eba89]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1251/regulation/13) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-bada1953f55730c843936ff7175eba89]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1251/regulation/13) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 2013/737](https://www.legislation.gov.uk/uksi/2013/737); relevant amending instruments are [S.I. 2014/822](https://www.legislation.gov.uk/uksi/2014/822), [2015/2039](https://www.legislation.gov.uk/uksi/2015/2039), [2018/463](https://www.legislation.gov.uk/uksi/2018/463), [2019/709](https://www.legislation.gov.uk/uksi/2019/709), [2020/1357](https://www.legislation.gov.uk/uksi/2020/1357), [2022/189](https://www.legislation.gov.uk/uksi/2022/189) and [2023/268](https://www.legislation.gov.uk/uksi/2023/268).
 
-[^key-1b3b20661bc86b31476b4cc94e8e8bcb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/1251/regulation/14) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-1b3b20661bc86b31476b4cc94e8e8bcb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/1251/regulation/14) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00020]: Footnote: [S.I. 2022/1403](https://www.legislation.gov.uk/uksi/2022/1403), amended by Part 2 of the Schedule to the Non-Domestic Rating Act 2023.
 
-[^key-6ef28e7fabfef61bb3de3a86b4ec56bd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/1251/regulation/15) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-6ef28e7fabfef61bb3de3a86b4ec56bd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/1251/regulation/15) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
-[^key-9b81142814829639c6c500e1fdedbdf2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1251/regulation/16) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
+[^c-9b81142814829639c6c500e1fdedbdf2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1251/regulation/16) in force at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1251/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 1989/1059](https://www.legislation.gov.uk/uksi/1989/1059).

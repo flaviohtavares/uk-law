@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. References to justices of the peace in relation to Northern Ireland[^key-0077e27b58fbc2e2f51256ab79817b67][^key-2c6ab4bb8889d895b28adddb4e5f03b6]
+## 79. References to justices of the peace in relation to Northern Ireland[^c-0077e27b58fbc2e2f51256ab79817b67][^c-2c6ab4bb8889d895b28adddb4e5f03b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0077e27b58fbc2e2f51256ab79817b67]: Commencement: S. 79 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-0077e27b58fbc2e2f51256ab79817b67]: Commencement: S. 79 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-2c6ab4bb8889d895b28adddb4e5f03b6]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/36/section/79) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/28)
+[^c-2c6ab4bb8889d895b28adddb4e5f03b6]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/36/section/79) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/28)

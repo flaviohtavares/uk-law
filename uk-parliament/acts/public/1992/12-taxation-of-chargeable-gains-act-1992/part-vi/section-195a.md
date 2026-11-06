@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195A. Oil licence swaps[^key-0d2aae42ff4cc78a885c59f888b1be86]
+## 195A. Oil licence swaps[^c-0d2aae42ff4cc78a885c59f888b1be86]
 
 *Extent: E+W+S+N.I.*
 
-(1) Sections 195B to 195F[^key-b91d2c1672ddbe6e59038eec477d47e5] apply for the purposes of corporation tax on chargeable gains.
+(1) Sections 195B to 195F[^c-b91d2c1672ddbe6e59038eec477d47e5] apply for the purposes of corporation tax on chargeable gains.
 
 (2) In those sections—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d2aae42ff4cc78a885c59f888b1be86]: Textual amendment: Ss. 195A-195E inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/5)
+[^c-0d2aae42ff4cc78a885c59f888b1be86]: Textual amendment: Ss. 195A-195E inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/5)
 
-[^key-b91d2c1672ddbe6e59038eec477d47e5]: Textual amendment: Word in s. 195A(1) substituted (with effect in accordance with Sch. 15 para. 4 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/15/paragraph/1)
+[^c-b91d2c1672ddbe6e59038eec477d47e5]: Textual amendment: Word in s. 195A(1) substituted (with effect in accordance with Sch. 15 para. 4 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/15/paragraph/1)

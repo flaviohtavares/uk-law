@@ -24,7 +24,7 @@ summary: ''
 
 Section 33
 
-**1.**[^key-04026682fbb0b030857ee74fbcd95e80] (1) The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-04026682fbb0b030857ee74fbcd95e80] (1) The Town and Country Planning Act 1990 is amended as follows.
 
 (2) In section 2A (the Mayor of London: applications of potential strategic importance)—
 
@@ -122,4 +122,4 @@ Section 33
 
 ## Annotations
 
-[^key-04026682fbb0b030857ee74fbcd95e80]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-04026682fbb0b030857ee74fbcd95e80]: Commencement: Sch. 14 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

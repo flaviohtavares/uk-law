@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Defences to offence of disclosing protected information[^key-2ae14fac7d3310797a6ecf88af94c1c3]
+## 257. Defences to offence of disclosing protected information[^c-2ae14fac7d3310797a6ecf88af94c1c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ It is a defence for a person charged with an offence under regulation 256 to pro
 
 ## Annotations
 
-[^key-2ae14fac7d3310797a6ecf88af94c1c3]: Commencement: Reg. 257 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-2ae14fac7d3310797a6ecf88af94c1c3]: Commencement: Reg. 257 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

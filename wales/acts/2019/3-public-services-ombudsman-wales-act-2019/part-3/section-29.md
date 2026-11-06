@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Special reports: supplementary[^key-828564a5766d2b7214eccb33240e1f3a]
+## 29. Special reports: supplementary[^c-828564a5766d2b7214eccb33240e1f3a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ that information must not be included in a version of the report sent to a perso
 
 ## Annotations
 
-[^key-828564a5766d2b7214eccb33240e1f3a]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2019/3/section/29) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-828564a5766d2b7214eccb33240e1f3a]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2019/3/section/29) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

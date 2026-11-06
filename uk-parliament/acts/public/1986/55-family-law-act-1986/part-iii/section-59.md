@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Provisions relating to the Attorney-General.[^c13387751][^key-bf6b67cbc053ddb67c8e582d11e37e38][^key-e474e20b5770651c1b3f9ab381ba59a5]
+## 59. Provisions relating to the Attorney-General.[^c13387751][^c-bf6b67cbc053ddb67c8e582d11e37e38][^c-e474e20b5770651c1b3f9ab381ba59a5]
 
 *Extent: E+W*
 
@@ -35,9 +35,9 @@ summary: ''
 
     S. 59 applied (prosp.) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 88(4)](https://www.legislation.gov.uk/ukpga/2002/38/section/88/4) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6))
 
-[^key-bf6b67cbc053ddb67c8e582d11e37e38]: Modification: S. 59 applied by 1976 c. 36, s. 39(3B) (as inserted (1.6.2003 for E.W.) by [Adoption (Intercountry Aspects) Act 1999 (c. 18)](https://www.legislation.gov.uk/ukpga/1999/18), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/1999/18/section/4/3), [18(3)](https://www.legislation.gov.uk/ukpga/1999/18/section/18/3) (with [s. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17)); [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/c))
+[^c-bf6b67cbc053ddb67c8e582d11e37e38]: Modification: S. 59 applied by 1976 c. 36, s. 39(3B) (as inserted (1.6.2003 for E.W.) by [Adoption (Intercountry Aspects) Act 1999 (c. 18)](https://www.legislation.gov.uk/ukpga/1999/18), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/1999/18/section/4/3), [18(3)](https://www.legislation.gov.uk/ukpga/1999/18/section/18/3) (with [s. 17](https://www.legislation.gov.uk/ukpga/1999/18/section/17)); [S.I. 2003/189](https://www.legislation.gov.uk/uksi/2003/189), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/189/article/2/2/c))
 
-[^key-e474e20b5770651c1b3f9ab381ba59a5]: Modification: S. 59 applied (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 88(4)](https://www.legislation.gov.uk/ukpga/2002/38/section/88/4), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f)
+[^c-e474e20b5770651c1b3f9ab381ba59a5]: Modification: S. 59 applied (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 88(4)](https://www.legislation.gov.uk/ukpga/2002/38/section/88/4), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f)
 
 [^c13387761]: Textual amendment: Words in s. 59(1)(2) inserted (1.4.2001) by [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19), [s. 83](https://www.legislation.gov.uk/ukpga/2000/19/section/83), [Sch. 8 para. 8(a)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/8/paragraph/8/a) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2001/774](https://www.legislation.gov.uk/uksi/2001/774), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2001/774/article/2/b/c)
 

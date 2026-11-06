@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Circumstances when the power in section 10A(5)(b) of the 1983 Act applies[^key-57164d4f9c53a4b318506007682090e4]
+## 33. Circumstances when the power in section 10A(5)(b) of the 1983 Act applies[^c-57164d4f9c53a4b318506007682090e4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57164d4f9c53a4b318506007682090e4]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2001/497/regulation/33) omitted (1.4.2007) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/14/1)
+[^c-57164d4f9c53a4b318506007682090e4]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/uksi/2001/497/regulation/33) omitted (1.4.2007) by virtue of [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/14/1)

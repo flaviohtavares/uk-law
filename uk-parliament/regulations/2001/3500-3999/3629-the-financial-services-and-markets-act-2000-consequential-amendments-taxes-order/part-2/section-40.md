@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Gifts of shares and securities to charities etc.[^key-2a98ab865293f5131b22ec86f812253c]
+## 40. Gifts of shares and securities to charities etc.[^c-2a98ab865293f5131b22ec86f812253c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 587B(9) (gifts of shares and securities to charities etc.)[^f00044] i
 
 ## Annotations
 
-[^key-2a98ab865293f5131b22ec86f812253c]: Commencement: Art. 40 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-2a98ab865293f5131b22ec86f812253c]: Commencement: Art. 40 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00044]: Footnote: Section 587B was inserted by section 43(1) of the Finance Act 2000.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Towing, picking up, raising and lowering of persons, animals and articles[^key-c1a0973958024259dbbffa638dd48c8c]
+## 129. Towing, picking up, raising and lowering of persons, animals and articles[^c-c1a0973958024259dbbffa638dd48c8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1a0973958024259dbbffa638dd48c8c]: Commencement: [Art. 129](https://www.legislation.gov.uk/uksi/2013/2870/article/129) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c1a0973958024259dbbffa638dd48c8c]: Commencement: [Art. 129](https://www.legislation.gov.uk/uksi/2013/2870/article/129) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

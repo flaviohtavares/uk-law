@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Academy orders: involvement of religious bodies etc[^key-7aa1d561d4a9136ca8b8517db3722001]
+## 55. Academy orders: involvement of religious bodies etc[^c-7aa1d561d4a9136ca8b8517db3722001]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7aa1d561d4a9136ca8b8517db3722001]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2011/21/section/55) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-7aa1d561d4a9136ca8b8517db3722001]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2011/21/section/55) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Children's services planning: default powers of Scottish Ministers[^key-5635dfcbb4bec69944d1b98c722d9247]
+## 17. Children's services planning: default powers of Scottish Ministers[^c-5635dfcbb4bec69944d1b98c722d9247]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5635dfcbb4bec69944d1b98c722d9247]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/8/section/17) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-5635dfcbb4bec69944d1b98c722d9247]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/8/section/17) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Penalty for failure as respects return of declarations[^key-855e1a03e6121af62a9d20d76592ccaf]
+## 51. Penalty for failure as respects return of declarations[^c-855e1a03e6121af62a9d20d76592ccaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Subject to the provisions of article 53, any candidate or election agent who fai
 
 ## Annotations
 
-[^key-855e1a03e6121af62a9d20d76592ccaf]: Commencement: Art. 51 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-855e1a03e6121af62a9d20d76592ccaf]: Commencement: Art. 51 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

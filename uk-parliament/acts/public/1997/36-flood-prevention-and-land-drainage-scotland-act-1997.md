@@ -31,57 +31,57 @@ Flood Prevention and Land Drainage (Scotland) Act 1997 (repealed)
 
 1997 c. 36
 
-[^key-4e4ee851cd5dd965f07c1a1ff39750d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e4ee851cd5dd965f07c1a1ff39750d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Flood prevention[^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+## Flood prevention[^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
-### 1. Duty of local authorities to assess watercourses.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Duty of local authorities to maintain watercourses.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+### 1. Duty of local authorities to assess watercourses.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Duty of local authorities to publish reports.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+### 2. Duty of local authorities to maintain watercourses.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Increase in certain fines.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+### 3. Duty of local authorities to publish reports.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Minor and consequential amendments.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+### 4. Increase in certain fines.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Land drainage[^key-4e4ee851cd5dd965f07c1a1ff39750d3]
-
-### 6. Termination of land drainage schemes.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+### 5. Minor and consequential amendments.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Miscellaneous[^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+## Land drainage[^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
-### 7. Financial provisions.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Repeals.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+### 6. Termination of land drainage schemes.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Citation, commencement and extent.[^key-4e4ee851cd5dd965f07c1a1ff39750d3][^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+## Miscellaneous[^c-4e4ee851cd5dd965f07c1a1ff39750d3]
+
+### 7. Financial provisions.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Repeals.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Citation, commencement and extent.[^c-4e4ee851cd5dd965f07c1a1ff39750d3][^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-4e4ee851cd5dd965f07c1a1ff39750d3]SCHEDULE
+[^c-4e4ee851cd5dd965f07c1a1ff39750d3]SCHEDULE
 
-## Repeals[^key-4e4ee851cd5dd965f07c1a1ff39750d3]
+## Repeals[^c-4e4ee851cd5dd965f07c1a1ff39750d3]
 
 Section 8.
 
@@ -89,4 +89,4 @@ Section 8.
 
 ## Annotations
 
-[^key-4e4ee851cd5dd965f07c1a1ff39750d3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1997/36) repealed (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/10) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-4e4ee851cd5dd965f07c1a1ff39750d3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1997/36) repealed (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/10) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)

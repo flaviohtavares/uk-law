@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45A. Safeguarding interests of clients of an authorised legal business where authorisation suspended or withdrawn[^key-3daa8087f2ed2a3b07319df2f6fb65c0]
+## 45A. Safeguarding interests of clients of an authorised legal business where authorisation suspended or withdrawn[^c-3daa8087f2ed2a3b07319df2f6fb65c0]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ vests in the Society (notwithstanding any enactment or rule of law to the contra
 
 ## Annotations
 
-[^key-3daa8087f2ed2a3b07319df2f6fb65c0]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/1980/46/section/45A) inserted (1.7.2026 for specified purposes) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3), [sch. 1 para. 26(2)](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/26/2); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-3daa8087f2ed2a3b07319df2f6fb65c0]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/1980/46/section/45A) inserted (1.7.2026 for specified purposes) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3), [sch. 1 para. 26(2)](https://www.legislation.gov.uk/asp/2025/8/schedule/1/paragraph/26/2); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

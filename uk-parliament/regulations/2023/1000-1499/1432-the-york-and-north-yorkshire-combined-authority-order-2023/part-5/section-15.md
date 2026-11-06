@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Civil enforcement of road traffic contraventions[^key-ce1ff500538303c2e2cb69e210a67a2e]
+## 15. Civil enforcement of road traffic contraventions[^c-ce1ff500538303c2e2cb69e210a67a2e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce1ff500538303c2e2cb69e210a67a2e]: Textual amendment: Art. 15 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/5/c)
+[^c-ce1ff500538303c2e2cb69e210a67a2e]: Textual amendment: Art. 15 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(5)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/5/c)

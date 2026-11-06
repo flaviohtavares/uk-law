@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Performance information[^key-70750868379bf6b00220a4eee1e9dad1]
+## 204. Performance information[^c-70750868379bf6b00220a4eee1e9dad1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70750868379bf6b00220a4eee1e9dad1]: Textual amendment: S. 204 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 17 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/17/paragraph/13), [Sch. 25 Pt. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/27); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-70750868379bf6b00220a4eee1e9dad1]: Textual amendment: S. 204 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 17 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/17/paragraph/13), [Sch. 25 Pt. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/27); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

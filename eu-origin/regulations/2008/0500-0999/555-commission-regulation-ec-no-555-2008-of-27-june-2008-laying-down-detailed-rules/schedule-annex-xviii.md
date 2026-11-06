@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XVIII — Questionnaire on the collection and vinification of samples of grapes intended for analysis by isotopic methods as referred in Article 88(5)[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+## ANNEX XVIII — Questionnaire on the collection and vinification of samples of grapes intended for analysis by isotopic methods as referred in Article 88(5)[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,191 +24,191 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] PART I
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] PART I
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.
 
 General information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.3.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.4.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.
 
 General description of the samples
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.3.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.4.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.
 
 Description of the vineyard
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.2.
 
 Location of the plot
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.3.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.4.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.5.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.6.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.7.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.8.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 3.9.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 3.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 4.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 4.
 
 Crop and must characteristics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 4.1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 4.2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 4.3.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 4.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 5.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 5.
 
 Weather conditions preceding harvest
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 5.1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 6.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 6.
 
 Irrigated vineyards:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] PART II
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] PART II
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.
 
 Microvinification
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.3.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.4.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.4.
 
 Characteristics of the must:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.5.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.6.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.7.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.8.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.9.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.10.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.11.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.11.
 
 Analysis of the wine obtained
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.
 
 Chronological table of vinification of the sample
 
@@ -216,4 +216,4 @@ Chronological table of vinification of the sample
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

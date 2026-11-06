@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Return to unauthorised encampments: prohibited period[^key-e4817ffde919704c3caf468e1d23494a]
+## 168. Return to unauthorised encampments: prohibited period[^c-e4817ffde919704c3caf468e1d23494a]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4817ffde919704c3caf468e1d23494a]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2026/20/section/168) in force at 29.6.2026, see [s. 255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
+[^c-e4817ffde919704c3caf468e1d23494a]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2026/20/section/168) in force at 29.6.2026, see [s. 255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)

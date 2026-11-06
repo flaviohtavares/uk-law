@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Application for relief[^key-30e945027ba8afa24871475e1431c2f7]
+## 120. Application for relief[^c-30e945027ba8afa24871475e1431c2f7]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e945027ba8afa24871475e1431c2f7]: Commencement: Art. 120 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-30e945027ba8afa24871475e1431c2f7]: Commencement: Art. 120 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

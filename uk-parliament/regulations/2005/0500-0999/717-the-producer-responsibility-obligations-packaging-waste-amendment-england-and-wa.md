@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND AND WALES
 
-The Producer Responsibility Obligations (Packaging Waste) (Amendment) (England and Wales) Regulations 2005 (revoked)[^key-717c35abf2fc2de93769c08939ae267d]
+The Producer Responsibility Obligations (Packaging Waste) (Amendment) (England and Wales) Regulations 2005 (revoked)[^c-717c35abf2fc2de93769c08939ae267d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 7th April 2005
 
-[^key-717c35abf2fc2de93769c08939ae267d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-717c35abf2fc2de93769c08939ae267d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-717c35abf2fc2de93769c08939ae267d]
+## 1. Citation, commencement and extent[^c-717c35abf2fc2de93769c08939ae267d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 1997[^key-717c35abf2fc2de93769c08939ae267d]
+## 2. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 1997[^c-717c35abf2fc2de93769c08939ae267d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-717c35abf2fc2de93769c08939ae267d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-717c35abf2fc2de93769c08939ae267d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-717c35abf2fc2de93769c08939ae267d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-717c35abf2fc2de93769c08939ae267d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-717c35abf2fc2de93769c08939ae267d]: Textual amendment: Regulations revoked (16.12.2005) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2005 (S.I. 2005/3468)](https://www.legislation.gov.uk/uksi/2005/3468), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3468/regulation/1/1), [Sch. 11](https://www.legislation.gov.uk/uksi/2005/3468/schedule/11)
+[^c-717c35abf2fc2de93769c08939ae267d]: Textual amendment: Regulations revoked (16.12.2005) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2005 (S.I. 2005/3468)](https://www.legislation.gov.uk/uksi/2005/3468), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3468/regulation/1/1), [Sch. 11](https://www.legislation.gov.uk/uksi/2005/3468/schedule/11)

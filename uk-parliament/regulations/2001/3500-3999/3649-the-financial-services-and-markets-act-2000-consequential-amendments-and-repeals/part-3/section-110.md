@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Voluntary contributions by members of judicial pension scheme.[^key-249cf7afa40bfd8dc20b060b3065682b]
+## 110. Voluntary contributions by members of judicial pension scheme.[^c-249cf7afa40bfd8dc20b060b3065682b]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-249cf7afa40bfd8dc20b060b3065682b]: Commencement: Art. 110 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-249cf7afa40bfd8dc20b060b3065682b]: Commencement: Art. 110 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00103]: Footnote: Section 33A was inserted by the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41) s. 82(1).
 

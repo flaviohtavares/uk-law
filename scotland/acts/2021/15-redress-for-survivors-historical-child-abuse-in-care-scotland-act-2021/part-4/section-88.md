@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Power to share information with third parties[^key-f81a95930346178c43fed8c03e3f0132]
+## 88. Power to share information with third parties[^c-f81a95930346178c43fed8c03e3f0132]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f81a95930346178c43fed8c03e3f0132]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2021/15/section/88) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-f81a95930346178c43fed8c03e3f0132]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2021/15/section/88) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

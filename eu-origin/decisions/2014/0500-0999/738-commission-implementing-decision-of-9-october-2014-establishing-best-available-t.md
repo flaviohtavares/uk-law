@@ -94,7 +94,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The BAT conclusions for the refining of mineral oil and gas, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-d7c485ebb1d27ed6bfd4e841eeabfba4]
+## Article 2. Application and Interpretation[^c-d7c485ebb1d27ed6bfd4e841eeabfba4]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -1612,7 +1612,7 @@ GLOSSARY
 
 [^f00002]: Footnote: [OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG).
 
-[^key-d7c485ebb1d27ed6bfd4e841eeabfba4]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2014/738/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7c485ebb1d27ed6bfd4e841eeabfba4]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2014/738/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: In case of applying BAT 58.
 

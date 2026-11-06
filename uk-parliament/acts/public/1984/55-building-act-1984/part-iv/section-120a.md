@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120A. Regulations[^key-5053a65cfc80e396b8610beae3df3d1c]
+## 120A. Regulations[^c-5053a65cfc80e396b8610beae3df3d1c]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ may not be made by the Secretary of State unless a draft of the instrument has b
 
 ## Annotations
 
-[^key-5053a65cfc80e396b8610beae3df3d1c]: Textual amendment: [Ss. 120A-120C](https://www.legislation.gov.uk/ukpga/1984/55/section/120A) inserted (28.6.2022 for E. for specified purposes, 9.12.2022 for W. for specified purposes, 1.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4), [Sch. 5 para. 77](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/77); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/f), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2022/561/schedule/paragraph/40), [41](https://www.legislation.gov.uk/uksi/2022/561/schedule/paragraph/41); [S.I. 2022/1287](https://www.legislation.gov.uk/wsi/2022/1287), [reg. 2(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1287/regulation/2/c/ii); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/1))
+[^c-5053a65cfc80e396b8610beae3df3d1c]: Textual amendment: [Ss. 120A-120C](https://www.legislation.gov.uk/ukpga/1984/55/section/120A) inserted (28.6.2022 for E. for specified purposes, 9.12.2022 for W. for specified purposes, 1.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4), [Sch. 5 para. 77](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/77); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/f), [Sch. para. 40](https://www.legislation.gov.uk/uksi/2022/561/schedule/paragraph/40), [41](https://www.legislation.gov.uk/uksi/2022/561/schedule/paragraph/41); [S.I. 2022/1287](https://www.legislation.gov.uk/wsi/2022/1287), [reg. 2(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1287/regulation/2/c/ii); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/2/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/1))

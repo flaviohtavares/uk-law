@@ -48,25 +48,25 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 1(1), (4) and (6), 3(1), (2) and (4), 5, 20(1), 22(2) and 22A of the Sea Fish (Conservation) Act 1967 [^c23230391] and section 5 of the Sea Fisheries Act 1968 [^c23230401] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-8cfe3a1ca3b9e8d7537bff8a00753a58]
+## 1. Citation, commencement and extent[^c-8cfe3a1ca3b9e8d7537bff8a00753a58]
 
 (1) This Order may be cited as the Regulation of Scallop Fishing (Scotland) Order 2017 and comes into force on 1st June 2017.
 
 (2) This Order extends to Scotland and the Scottish zone only.
 
-## 2. Interpretation[^key-7559546964bda84d342c998c5a383476]
+## 2. Interpretation[^c-7559546964bda84d342c998c5a383476]
 
 In this Order—
 
 - “**the Act**” means the Sea Fish (Conservation) Act 1967;
-- [^key-1c9d5bc50b7f8c4775edcc5b534dd1ae]...
+- [^c-1c9d5bc50b7f8c4775edcc5b534dd1ae]...
 - “**king scallop**” means a scallop of the species *Pecten maximus*;
 - “**scallop dredge**” means an appliance with a rigid framed mouth which is towed through the water and is manufactured, adapted, used or intended for use for the purpose of fishing for king scallops;
 - “**Scotland**” and “**the Scottish zone**” have the same meaning as in section 126(1) of the Scotland Act 1998 [^c23230421];
 - “**Scottish inshore waters**” has the same meaning as in section 9(1) of the Inshore Fishing (Scotland) Act 1984 [^c23230431]; and
 - “**the territorial sea of the United Kingdom adjacent to Scotland**” means waters which are treated as the territorial sea of the United Kingdom adjacent to Scotland, within the boundaries described in article 3 and schedule 1 of, the Scottish Adjacent Waters Boundaries Order 1999 [^c23230441].
 
-## 3. Prescribed minimum size for landing king scallops[^key-79d6c834490064c9972f26e1fcddef4e]
+## 3. Prescribed minimum size for landing king scallops[^c-79d6c834490064c9972f26e1fcddef4e]
 
 (1) For the purposes of section 1(1) of the Act (which prohibits the landing in Scotland of any sea fish of any description, which does not meet such requirements as to size as may be prescribed in relation to sea fish of that description), in relation to landing in any part of Scotland apart from the areas of coast specified in paragraph (2), there is prescribed as the minimum size in relation to sea fish of the description of king scallop a size of 105 millimetres.
 
@@ -75,16 +75,16 @@ In this Order—
 - (a) the west coast of mainland Scotland south of 55 degrees north latitude, lying adjacent to ICES Division VIIa; and
 - (b) the coast of the islands of the Shetland Islands.
 
-(3)[^key-7de97b4ca5e43830efe2cf5f84a90871] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
+(3)[^c-7de97b4ca5e43830efe2cf5f84a90871] The prohibition imposed by section 1(1) of the Act, as read with paragraph (1), does not apply in relation to sea fish caught by a foreign fishing boat in waters lying outside British fishery limits.
 
-(4) For the purposes of this article, the size of a scallop is measurable in accordance with paragraph 6 of Annex 4 of[^key-5cc95933625915f98f23708c57be2c4b] [Regulation (EU) 2019/1241](https://www.legislation.gov.uk/european/regulation/2019/1241) of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures[^M_F_b8288d02-fee8-4a52-a6da-d6b3c5e0e0c6].
+(4) For the purposes of this article, the size of a scallop is measurable in accordance with paragraph 6 of Annex 4 of[^c-5cc95933625915f98f23708c57be2c4b] [Regulation (EU) 2019/1241](https://www.legislation.gov.uk/european/regulation/2019/1241) of the European Parliament and of the Council of 20 June 2019 on the conservation of fisheries resources and the protection of marine ecosystems through technical measures[^M_F_b8288d02-fee8-4a52-a6da-d6b3c5e0e0c6].
 
 (5) In this article—
 
-- (a)[^key-f163610cdc9fa1153f8c1da165f877df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f163610cdc9fa1153f8c1da165f877df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**ICES Division**” means a statistical division of the International Council for the Exploration of the Sea [^c23230461].
 
-## 4. Restrictions on tow bars and number of scallop dredges[^key-ffb1693b835cf2769dd54c883df8a9e8]
+## 4. Restrictions on tow bars and number of scallop dredges[^c-ffb1693b835cf2769dd54c883df8a9e8]
 
 (1) Subject to paragraph (2), a fishing boat—
 
@@ -141,15 +141,15 @@ In this Order—
 
 (5) For the purposes of this article, the length of a tow bar is measured by measuring the length of the bar, including those parts of the bar which extend over the wheels, skids or any other devices at each end of the bar which are designed to facilitate its movement.
 
-## 5. Exemption from the restrictions in article 4[^key-844729b54b840ee973c5d0d0b5bfce6b]
+## 5. Exemption from the restrictions in article 4[^c-844729b54b840ee973c5d0d0b5bfce6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Requirement to install a functioning remote electronic monitoring system[^key-b5fad708fdcd20e64ef509d951d525f1]
+## 6. Requirement to install a functioning remote electronic monitoring system[^c-b5fad708fdcd20e64ef509d951d525f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-64bb23d05d81d2b4d4a81a7ec383100c]
+## 7. Revocation[^c-64bb23d05d81d2b4d4a81a7ec383100c]
 
 Article 5 of the Prohibition of Fishing for Scallops (Scotland) Order 2003 [^c23230491] is revoked.
 
@@ -191,11 +191,11 @@ A Business and Regulatory Impact Assessment has been prepared in relation to thi
 
 [^c23230401]: Marginal citation: [1968 c.77](https://www.legislation.gov.uk/ukpga/1968/77). Section 5 was amended by the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86), [sections 4,](https://www.legislation.gov.uk/ukpga/1976/86/section/4) and 24, schedule 1, paragraph 3 and schedule 2, paragraph 17; by the Fisheries Act 1981 (c. 29), section 24; and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [schedule 2](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2), [paragraph 48](https://www.legislation.gov.uk/uksi/1999/1820/paragraph/48).
 
-[^key-8cfe3a1ca3b9e8d7537bff8a00753a58]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2017/127/article/1) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
+[^c-8cfe3a1ca3b9e8d7537bff8a00753a58]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2017/127/article/1) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
 
-[^key-7559546964bda84d342c998c5a383476]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2017/127/article/2) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
+[^c-7559546964bda84d342c998c5a383476]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2017/127/article/2) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
 
-[^key-1c9d5bc50b7f8c4775edcc5b534dd1ae]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2017/127/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/27/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-1c9d5bc50b7f8c4775edcc5b534dd1ae]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2017/127/article/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 27(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/27/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c23230421]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). In relation to the definition of “the Scottish zone”, the sea within British fishery limits (that is, the limits set by or under section 1 of the [Fishery Limits Act 1976 (c.86)](https://www.legislation.gov.uk/ukpga/1976/86)) which is adjacent to Scotland is determined by the [Scottish Adjacent Waters Boundaries Order 1999 (S.I. 1999/1126)](https://www.legislation.gov.uk/uksi/1999/1126).
 
@@ -203,24 +203,24 @@ A Business and Regulatory Impact Assessment has been prepared in relation to thi
 
 [^c23230441]: Marginal citation: [S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126).
 
-[^key-79d6c834490064c9972f26e1fcddef4e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2017/127/article/3) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
+[^c-79d6c834490064c9972f26e1fcddef4e]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2017/127/article/3) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
 
-[^key-7de97b4ca5e43830efe2cf5f84a90871]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2017/127/article/3/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/27/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-7de97b4ca5e43830efe2cf5f84a90871]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2017/127/article/3/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/27/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-5cc95933625915f98f23708c57be2c4b]: Textual amendment: Words in [art. 3(4)](https://www.legislation.gov.uk/ssi/2017/127/article/3/4) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2020/367/regulation/5)
+[^c-5cc95933625915f98f23708c57be2c4b]: Textual amendment: Words in [art. 3(4)](https://www.legislation.gov.uk/ssi/2017/127/article/3/4) substituted (21.12.2020) by [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2020/367/regulation/5)
 
 [^M_F_b8288d02-fee8-4a52-a6da-d6b3c5e0e0c6]: Textual amendment: [EUR 2019/1241](https://www.legislation.gov.uk/european/regulation/2019/1241).
 
-[^key-f163610cdc9fa1153f8c1da165f877df]: Textual amendment: [Art. 3(5)(a)](https://www.legislation.gov.uk/ssi/2017/127/article/3/5/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/27/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f163610cdc9fa1153f8c1da165f877df]: Textual amendment: [Art. 3(5)(a)](https://www.legislation.gov.uk/ssi/2017/127/article/3/5/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/27/3/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c23230461]: Marginal citation: Cmnd. 2586.
 
-[^key-ffb1693b835cf2769dd54c883df8a9e8]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2017/127/article/4) substituted (17.6.2024) by [The Sea Fisheries (Remote Electronic Monitoring and Regulation of Scallop Fishing) (Scotland) Regulations 2024 (S.S.I. 2024/165)](https://www.legislation.gov.uk/ssi/2024/165), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/165/regulation/1/2/b), [23(2)](https://www.legislation.gov.uk/ssi/2024/165/regulation/23/2)
+[^c-ffb1693b835cf2769dd54c883df8a9e8]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/ssi/2017/127/article/4) substituted (17.6.2024) by [The Sea Fisheries (Remote Electronic Monitoring and Regulation of Scallop Fishing) (Scotland) Regulations 2024 (S.S.I. 2024/165)](https://www.legislation.gov.uk/ssi/2024/165), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/165/regulation/1/2/b), [23(2)](https://www.legislation.gov.uk/ssi/2024/165/regulation/23/2)
 
-[^key-844729b54b840ee973c5d0d0b5bfce6b]: Textual amendment: Art. 5 omitted (17.6.2024) by virtue of [The Sea Fisheries (Remote Electronic Monitoring and Regulation of Scallop Fishing) (Scotland) Regulations 2024 (S.S.I. 2024/165)](https://www.legislation.gov.uk/ssi/2024/165), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/165/regulation/1/2/b), [23(3)](https://www.legislation.gov.uk/ssi/2024/165/regulation/23/3)
+[^c-844729b54b840ee973c5d0d0b5bfce6b]: Textual amendment: Art. 5 omitted (17.6.2024) by virtue of [The Sea Fisheries (Remote Electronic Monitoring and Regulation of Scallop Fishing) (Scotland) Regulations 2024 (S.S.I. 2024/165)](https://www.legislation.gov.uk/ssi/2024/165), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/165/regulation/1/2/b), [23(3)](https://www.legislation.gov.uk/ssi/2024/165/regulation/23/3)
 
-[^key-b5fad708fdcd20e64ef509d951d525f1]: Textual amendment: Art. 6 omitted (17.6.2024) by virtue of [The Sea Fisheries (Remote Electronic Monitoring and Regulation of Scallop Fishing) (Scotland) Regulations 2024 (S.S.I. 2024/165)](https://www.legislation.gov.uk/ssi/2024/165), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/165/regulation/1/2/b), [23(4)](https://www.legislation.gov.uk/ssi/2024/165/regulation/23/4)
+[^c-b5fad708fdcd20e64ef509d951d525f1]: Textual amendment: Art. 6 omitted (17.6.2024) by virtue of [The Sea Fisheries (Remote Electronic Monitoring and Regulation of Scallop Fishing) (Scotland) Regulations 2024 (S.S.I. 2024/165)](https://www.legislation.gov.uk/ssi/2024/165), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/165/regulation/1/2/b), [23(4)](https://www.legislation.gov.uk/ssi/2024/165/regulation/23/4)
 
-[^key-64bb23d05d81d2b4d4a81a7ec383100c]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2017/127/article/7) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
+[^c-64bb23d05d81d2b4d4a81a7ec383100c]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2017/127/article/7) in force at 1.6.2017, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1)
 
 [^c23230491]: Marginal citation: [S.S.I. 2003/371](https://www.legislation.gov.uk/ssi/2003/371).

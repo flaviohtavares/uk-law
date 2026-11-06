@@ -30,7 +30,7 @@ summary: ''
 - (d) section 28(3D);
 - (e) section 41(3);
 - (f) paragraph 14 of Schedule 14 to the Courts and Legal Services Act 1990 (foreign lawyers: appeals against conditions or refusals);
-- (g)[^key-ab7d9ebd4beaae686590f80abccc9860] regulation 9B of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286).
+- (g)[^c-ab7d9ebd4beaae686590f80abccc9860] regulation 9B of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286).
 
 (3) Any decision of the Tribunal on an appeal by virtue of rules made under this section shall be final.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c19665591]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1974/47/section/49A) inserted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 52](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/52) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/i)
 
-[^key-ab7d9ebd4beaae686590f80abccc9860]: Textual amendment: [S. 49A(2)(g)](https://www.legislation.gov.uk/ukpga/1974/47/section/49A/2/g) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [24](https://www.legislation.gov.uk/uksi/2024/1379/regulation/24)
+[^c-ab7d9ebd4beaae686590f80abccc9860]: Textual amendment: [S. 49A(2)(g)](https://www.legislation.gov.uk/ukpga/1974/47/section/49A/2/g) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [24](https://www.legislation.gov.uk/uksi/2024/1379/regulation/24)

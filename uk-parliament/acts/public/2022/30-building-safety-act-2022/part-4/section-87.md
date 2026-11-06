@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Mandatory reporting requirements[^key-397b7f28fb439f6e8551876d1cca1d9f][^key-e9574eca206beb54bb2d8f895e6a90aa]
+## 87. Mandatory reporting requirements[^c-397b7f28fb439f6e8551876d1cca1d9f][^c-e9574eca206beb54bb2d8f895e6a90aa]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-397b7f28fb439f6e8551876d1cca1d9f]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-397b7f28fb439f6e8551876d1cca1d9f]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-e9574eca206beb54bb2d8f895e6a90aa]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2022/30/section/87) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/i)
+[^c-e9574eca206beb54bb2d8f895e6a90aa]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2022/30/section/87) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Recovery of charges[^key-0856c2c046329ded456292d23e06b8b8]
+## 48. Recovery of charges[^c-0856c2c046329ded456292d23e06b8b8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0856c2c046329ded456292d23e06b8b8]: Commencement: Art. 48 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-0856c2c046329ded456292d23e06b8b8]: Commencement: Art. 48 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

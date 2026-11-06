@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Report on the Scottish civil estate[^key-29a289b4e4f6fe38ac9978231ed75bac]
+## 76. Report on the Scottish civil estate[^c-29a289b4e4f6fe38ac9978231ed75bac]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ of buildings that are part of the civil estate in Scotland.
 
 ## Annotations
 
-[^key-29a289b4e4f6fe38ac9978231ed75bac]: Commencement: S. 76 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-29a289b4e4f6fe38ac9978231ed75bac]: Commencement: S. 76 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

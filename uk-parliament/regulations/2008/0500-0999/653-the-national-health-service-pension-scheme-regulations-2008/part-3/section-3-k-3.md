@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.K.3. Service and pensionable earnings credited from the 1995 Section[^key-ce4df8598cfe969aa510d39614f40976][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.K.3. Service and pensionable earnings credited from the 1995 Section[^c-ce4df8598cfe969aa510d39614f40976][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ This is subject to paragraphs (5), (8), (9) and (10) and regulation 3.K.11.
 
 (5) In determining the amounts of pensionable earnings up to, and including, 31st March 2008 in paragraph (3) or (4), the Secretary of State shall have regard to—
 
-- (a) the pensionable earnings for any scheme year recorded by the Optant’s host [^key-e4592bdc744d7e4d9f27526b59453ad4]... Board;
+- (a) the pensionable earnings for any scheme year recorded by the Optant’s host [^c-e4592bdc744d7e4d9f27526b59453ad4]... Board;
 - (b) the pensionable earnings for any scheme year certified by the Optant in accordance with paragraph 23 of Schedule 2 to the 1995 Regulations.
 
 This is subject to paragraph (6).
@@ -47,7 +47,7 @@ This is subject to paragraph (6).
 (6) If, in respect of any particular scheme year, the pensionable earnings referred to in paragraph (5)(a) or (b) are not available, the Secretary of State shall determine the pensionable earnings for that scheme year and in doing so shall have regard to—
 
 - (a) the contributions paid in accordance with regulation D1 of the 1995 Regulations (as modified by paragraph 10 of Schedule 2 to those Regulations) (contributions by members) or regulation 3.C.1, or
-- (b) the figure supplied by the host [^key-e4592bdc744d7e4d9f27526b59453ad4]... Board.
+- (b) the figure supplied by the host [^c-e4592bdc744d7e4d9f27526b59453ad4]... Board.
 
 This is subject to paragraph (7).
 
@@ -66,8 +66,8 @@ the Secretary of State shall revise that determination accordingly.
 
 ## Annotations
 
-[^key-ce4df8598cfe969aa510d39614f40976]: Textual amendment: [Ch. 3K](https://www.legislation.gov.uk/uksi/2008/653/chapter/3K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [94](https://www.legislation.gov.uk/uksi/2009/2446/regulation/94)
+[^c-ce4df8598cfe969aa510d39614f40976]: Textual amendment: [Ch. 3K](https://www.legislation.gov.uk/uksi/2008/653/chapter/3K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [94](https://www.legislation.gov.uk/uksi/2009/2446/regulation/94)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-e4592bdc744d7e4d9f27526b59453ad4]: Textual amendment: Words in [reg. 3.K.3](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.K.3) omitted (1.4.2013) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [76](https://www.legislation.gov.uk/uksi/2013/413/regulation/76)
+[^c-e4592bdc744d7e4d9f27526b59453ad4]: Textual amendment: Words in [reg. 3.K.3](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.K.3) omitted (1.4.2013) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [76](https://www.legislation.gov.uk/uksi/2013/413/regulation/76)

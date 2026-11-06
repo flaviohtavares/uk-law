@@ -40,22 +40,22 @@ pursuant to Directive 95/46/EC of the European Parliament and of the Council on 
 
 (2000/518/EC) (revoked)
 
-[^key-e034de6e3e50bde593059cacd00c0a17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e034de6e3e50bde593059cacd00c0a17]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3a.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3a.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-e034de6e3e50bde593059cacd00c0a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e034de6e3e50bde593059cacd00c0a17]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e034de6e3e50bde593059cacd00c0a17]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

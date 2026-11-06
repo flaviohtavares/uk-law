@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Flavourings[^M_I_62738c0c-63d9-46e9-b5f3-b9e5e704ff29][^key-9904e2d89934802f273d72b1f2cc28ba]
+## 77. Flavourings[^M_I_62738c0c-63d9-46e9-b5f3-b9e5e704ff29][^c-9904e2d89934802f273d72b1f2cc28ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_62738c0c-63d9-46e9-b5f3-b9e5e704ff29]: Commencement: S. 77 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9904e2d89934802f273d72b1f2cc28ba]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/30/section/77) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9904e2d89934802f273d72b1f2cc28ba]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2023/30/section/77) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

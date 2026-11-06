@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.5. Execution of a warrant[^key-db400f02430350e4bbed4e3c834276c2]
+## 13.5. Execution of a warrant[^c-db400f02430350e4bbed4e3c834276c2]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
 - (b) obtain a receipt from the custodian; and
 - (c) notify the court officer that the defendant has been taken to that place.
 
-(5)[^key-c2a6821c3db5bf0c85b3bd45f771b33e] Where a defendant is present for any purpose before a court—
+(5)[^c-c2a6821c3db5bf0c85b3bd45f771b33e] Where a defendant is present for any purpose before a court—
 
 - (a) the court officer must—
   - (i) find out whether a warrant of arrest issued in the same or another case remains outstanding in respect of that defendant, and
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-db400f02430350e4bbed4e3c834276c2]: Commencement: [Rule 13.5](https://www.legislation.gov.uk/uksi/2025/909/rule/13.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-db400f02430350e4bbed4e3c834276c2]: Commencement: [Rule 13.5](https://www.legislation.gov.uk/uksi/2025/909/rule/13.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00331]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 125 was amended by section 33 of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 65(1) of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), sections 95(1), 97(4) and 106 of, and Part V of Schedule 15 and Table (8) to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 109(1) of, and paragraph 238 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and sections 62(3), 86 and 146 of, and paragraphs 45 and 57 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -80,6 +80,6 @@ summary: ''
 
 [^f00333]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 125B was inserted by section 93(2) of the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and amended by paragraph 239 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 62 of, and paragraphs 45, 59 and 61 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-c2a6821c3db5bf0c85b3bd45f771b33e]: Textual amendment: [Rule 13.5(5)](https://www.legislation.gov.uk/uksi/2025/909/rule/13.5/5) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [9](https://www.legislation.gov.uk/uksi/2026/721/rule/9)
+[^c-c2a6821c3db5bf0c85b3bd45f771b33e]: Textual amendment: [Rule 13.5(5)](https://www.legislation.gov.uk/uksi/2025/909/rule/13.5/5) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [9](https://www.legislation.gov.uk/uksi/2026/721/rule/9)
 
 [^f00334]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 125D was inserted by section 96 of the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) and amended by sections 62 and 146 of, and paragraphs 45 and 61 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

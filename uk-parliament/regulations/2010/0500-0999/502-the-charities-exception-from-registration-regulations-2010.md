@@ -46,15 +46,15 @@ Coming into force
 
 The Minister for the Cabinet Office makes the following Regulations in exercise of the powers conferred by sections 3A(2)(c), 86 and 97(1)[^f00001] of the Charities Act 1993[^f00002]:
 
-## 1. Citation, commencement and interpretation[^key-c2b48086c6ab78c16c3f530481d352ea]
+## 1. Citation, commencement and interpretation[^c-c2b48086c6ab78c16c3f530481d352ea]
 
 (1) These Regulations may be cited as the Charities (Exception from Registration) Regulations 2010 and come into force on 1st June 2010.
 
 (2) In these Regulations, “the 1993 Act” means the Charities Act 1993.
 
-## 2. Exception from registration for particular institutions ceasing to be exempt charities[^key-28793f624472053ec253b0b4039c6487]
+## 2. Exception from registration for particular institutions ceasing to be exempt charities[^c-28793f624472053ec253b0b4039c6487]
 
-(1) Subject to regulation 4 and to[^key-8611f61d0b95e86df9ba7debe5b28e74] the financial limit specified in section 3A(2)(c) of the 1993 Act, the institutions specified in paragraph (2) are, in so far as they are charities, excepted from the duty to be registered under section 3A(1) of that Act.
+(1) Subject to regulation 4 and to[^c-8611f61d0b95e86df9ba7debe5b28e74] the financial limit specified in section 3A(2)(c) of the 1993 Act, the institutions specified in paragraph (2) are, in so far as they are charities, excepted from the duty to be registered under section 3A(1) of that Act.
 
 (2) The specified institutions are—
 
@@ -64,9 +64,9 @@ The Minister for the Cabinet Office makes the following Regulations in exercise 
 - (d) Winchester College; and
 - (e) the Board of Governors of the Museum of London.
 
-## 3. Exception from registration for institutions of a particular description ceasing to be exempt charities[^key-c992bc712ecd3cf2fa6b12d5836e217e]
+## 3. Exception from registration for institutions of a particular description ceasing to be exempt charities[^c-c992bc712ecd3cf2fa6b12d5836e217e]
 
-(1) Subject to regulation 4 and to[^key-55efa86577d3ffeb7e22638b503d5f89] the financial limit specified in section 3A(2)(c) of the 1993 Act, any institution to which paragraph (2) applies is, in so far as it is a charity, excepted from the duty to be registered under section 3A(1) of that Act.
+(1) Subject to regulation 4 and to[^c-55efa86577d3ffeb7e22638b503d5f89] the financial limit specified in section 3A(2)(c) of the 1993 Act, any institution to which paragraph (2) applies is, in so far as it is a charity, excepted from the duty to be registered under section 3A(1) of that Act.
 
 (2) This paragraph applies to any institution which—
 
@@ -74,7 +74,7 @@ The Minister for the Cabinet Office makes the following Regulations in exercise 
 - (b) is a college or hall in the university of Cambridge or Durham;
 - (c) was an exempt charity by virtue of an Order in Council made under paragraph (c) of Schedule 2 to the 1993 Act but ceased to be so when that Order was amended or revoked by the Charities Act 2006 (Changes in Exempt Charities) Order 2010[^f00003];
 - (d) is a Welsh higher education corporation;
-- (e) is a successor company to a higher education corporation (within the meaning of subsection (5) of section 129 of the Education Reform Act 1988[^f00004]) at a time when the institution conducted by the company is eligible, by virtue of an order made under that section, to receive support from funds administered by the Commission for Tertiary Education and Research[^key-90f26a0781b6a935f3766094a67de895];
+- (e) is a successor company to a higher education corporation (within the meaning of subsection (5) of section 129 of the Education Reform Act 1988[^f00004]) at a time when the institution conducted by the company is eligible, by virtue of an order made under that section, to receive support from funds administered by the Commission for Tertiary Education and Research[^c-90f26a0781b6a935f3766094a67de895];
 - (f) is a students’ union falling within paragraph (3);
 - (g) is administered by the Church Commissioners; or
 - (h) is an institution falling within paragraph (4).
@@ -95,7 +95,7 @@ The Minister for the Cabinet Office makes the following Regulations in exercise 
 
 (5) For the purposes of this regulation a higher education corporation is a “Welsh higher education corporation” if the activities of the institution conducted by that corporation are carried on, or principally carried on, in Wales.
 
-**4.**[^key-724bbed0a9771033a332c6e6d9a41e4b] These Regulations do not apply to a charity which is constituted as a charitable incorporated organisation.
+**4.**[^c-724bbed0a9771033a332c6e6d9a41e4b] These Regulations do not apply to a charity which is constituted as a charitable incorporated organisation.
 
 Angela E. Smith
 
@@ -128,22 +128,22 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10). Section 3A was inserted by the Charities Act [2006 (c.50)](https://www.legislation.gov.uk/ukpga/2006/50), section 9. Section 86 was amended by the Charities Act 2006, Schedule 8, paragraph 165, and [S.I. 2006/2951](https://www.legislation.gov.uk/uksi/2006/2951), Schedule, paragraph 4(y). Section 97 was amended by the Charities Act 2006, Schedule 8, paragraph 174.
 
-[^key-c2b48086c6ab78c16c3f530481d352ea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/502/regulation/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/502/regulation/1/1)
+[^c-c2b48086c6ab78c16c3f530481d352ea]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/502/regulation/1) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/502/regulation/1/1)
 
-[^key-28793f624472053ec253b0b4039c6487]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/502/regulation/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/502/regulation/1/1)
+[^c-28793f624472053ec253b0b4039c6487]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/502/regulation/2) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/502/regulation/1/1)
 
-[^key-8611f61d0b95e86df9ba7debe5b28e74]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/502/regulation/2) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/6/2)
+[^c-8611f61d0b95e86df9ba7debe5b28e74]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/502/regulation/2) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/6/2)
 
-[^key-c992bc712ecd3cf2fa6b12d5836e217e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/502/regulation/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/502/regulation/1/1)
+[^c-c992bc712ecd3cf2fa6b12d5836e217e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/502/regulation/3) in force at 1.6.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/502/regulation/1/1)
 
-[^key-55efa86577d3ffeb7e22638b503d5f89]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/502/regulation/3) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/6/3)
+[^c-55efa86577d3ffeb7e22638b503d5f89]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/502/regulation/3) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/6/3)
 
 [^f00003]: Footnote: [S.I. 2010/500](https://www.legislation.gov.uk/uksi/2010/500).
 
 [^f00004]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40). Section 129 was amended by the Further and Higher Education Act [1992 (c.13)](https://www.legislation.gov.uk/ukpga/1992/13), section 72 and Schedule 9.
 
-[^key-90f26a0781b6a935f3766094a67de895]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2010/502/regulation/3/2/e) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) (No. 2) Order 2024 (S.I. 2024/670)](https://www.legislation.gov.uk/uksi/2024/670), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/670/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/670/article/3); [S.I. 2024/806](https://www.legislation.gov.uk/uksi/2024/806), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/806/article/2/b) (with [art. 28](https://www.legislation.gov.uk/uksi/2024/806/article/28))
+[^c-90f26a0781b6a935f3766094a67de895]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2010/502/regulation/3/2/e) substituted (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) (No. 2) Order 2024 (S.I. 2024/670)](https://www.legislation.gov.uk/uksi/2024/670), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/670/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/670/article/3); [S.I. 2024/806](https://www.legislation.gov.uk/uksi/2024/806), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/806/article/2/b) (with [art. 28](https://www.legislation.gov.uk/uksi/2024/806/article/28))
 
 [^f00005]: Footnote: Schedule 2 to the Charities Act 1993 was amended by the National Lottery Act [1993 (c.39)](https://www.legislation.gov.uk/ukpga/1993/39), Schedule 5, paragraph 12, by the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), Schedule 38, by the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 7, by the School Standards and Framework Act [1998 (c.30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4, by [S.I. 2005/3239](https://www.legislation.gov.uk/uksi/2005/3239), Schedule 1, paragraph 4, by the National Lottery Act [2006 (c.23)](https://www.legislation.gov.uk/ukpga/2006/23), Schedule 3, by the Charities Act 2006, section 11 and Schedule 8, paragraph 177 (not all of the amendments made by section 11 of the 2006 Act are in force) and by [S.I. 2010/500](https://www.legislation.gov.uk/uksi/2010/500), article 2.
 
-[^key-724bbed0a9771033a332c6e6d9a41e4b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/502/regulation/4) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/6/4)
+[^c-724bbed0a9771033a332c6e6d9a41e4b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/502/regulation/4) inserted (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [Sch. 4 para. 6(4)](https://www.legislation.gov.uk/uksi/2012/3012/schedule/4/paragraph/6/4)

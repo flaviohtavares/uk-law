@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12.3. Other means of giving evidence[^key-d12f4f895d2130ca0f1634bcf4b5c892]
+## 12.3. Other means of giving evidence[^c-d12f4f895d2130ca0f1634bcf4b5c892]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d12f4f895d2130ca0f1634bcf4b5c892]: Textual amendment: Rule 12.3 omitted (1.4.2020) by virtue of [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2019/1184/rule/13) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))
+[^c-d12f4f895d2130ca0f1634bcf4b5c892]: Textual amendment: Rule 12.3 omitted (1.4.2020) by virtue of [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2019/1184/rule/13) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))

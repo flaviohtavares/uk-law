@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Appeals from the first-tier tribunal[^key-4f674813ae53ab7beaab54fd9deeb084]
+## 53. Appeals from the first-tier tribunal[^c-4f674813ae53ab7beaab54fd9deeb084]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f674813ae53ab7beaab54fd9deeb084]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/22/section/53) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/d)
+[^c-4f674813ae53ab7beaab54fd9deeb084]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/22/section/53) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/d)

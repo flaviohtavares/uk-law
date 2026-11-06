@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Changes of programme policy[^key-d759bcd265b011b6e55cd2b290d42fb5]
+## 267. Changes of programme policy[^c-d759bcd265b011b6e55cd2b290d42fb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) to revise that statement in accordance with any directions given to him by OFCOM; and
 - (b) to publish a revision of the statement in accordance with any such directions only after the revision has been approved by OFCOM.
 
-(4) A change is a significant change for the purposes of this section if it is a change as a result of which—[^key-865c6c797c63363c922ea94266d61fca]
+(4) A change is a significant change for the purposes of this section if it is a change as a result of which—[^c-865c6c797c63363c922ea94266d61fca]
 
 - (a) the channel, or
 - (b) any other relevant audiovisual service which is being used to fulfil the public service remit for the channel,
@@ -52,6 +52,6 @@ would in any year be materially different in character from in previous years.
 
 ## Annotations
 
-[^key-d759bcd265b011b6e55cd2b290d42fb5]: Commencement: S. 267 in force at 28.12.2004 by [S.I. 2004/3309](https://www.legislation.gov.uk/uksi/2004/3309), [art. 3](https://www.legislation.gov.uk/uksi/2004/3309/article/3)
+[^c-d759bcd265b011b6e55cd2b290d42fb5]: Commencement: S. 267 in force at 28.12.2004 by [S.I. 2004/3309](https://www.legislation.gov.uk/uksi/2004/3309), [art. 3](https://www.legislation.gov.uk/uksi/2004/3309/article/3)
 
-[^key-865c6c797c63363c922ea94266d61fca]: Textual amendment: Words in [s. 267(4)](https://www.legislation.gov.uk/ukpga/2003/21/section/267/4) substituted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 5](https://www.legislation.gov.uk/ukpga/2024/15/section/5), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/e)
+[^c-865c6c797c63363c922ea94266d61fca]: Textual amendment: Words in [s. 267(4)](https://www.legislation.gov.uk/ukpga/2003/21/section/267/4) substituted (23.8.2024 for specified purposes, 1.1.2026 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 5](https://www.legislation.gov.uk/ukpga/2024/15/section/5), [55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/e)

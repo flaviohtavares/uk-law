@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Grants for dependants - interpretation[^key-b5cf943fdbbf8666c72ed74878d2b6f3]
+## 30. Grants for dependants - interpretation[^c-b5cf943fdbbf8666c72ed74878d2b6f3]
 
 *Extent: E+W*
 
@@ -42,23 +42,23 @@ summary: ''
 - (n) “residual income” (“*incwm gweddilliol*”) means taxable income after the application of paragraph (10) (in the case of an eligible student’s partner) or paragraph (11) (in the case of an eligible student’s adult dependant);
 - (o) “taxable income” (“*incwm trethadwy*”) means, in respect of the prior financial year—
   - (i) the total income on which a person is charged to income tax as determined at Step 1 of the calculation in section 23 of the Income Tax Act 2007[^f00061], together with any payments and other benefits mentioned in section 401(1) of the Income Tax (Earnings and Pensions) Act 2003[^f00062] (ignoring section 401(2) of that Act), received or treated as received by a person, to the extent that they are not a component of the total income on which a person is charged to income tax;
-  - (ii) a person’s total income from all sources as determined for the purposes of the income tax legislation of a Member State[^key-72dc355b318b4109456c458c9c5e3704] which applies to the person’s income; or
-  - (iii)[^key-d58577bf0a4336ff810de96bb33ecc63] where the legislation of—
+  - (ii) a person’s total income from all sources as determined for the purposes of the income tax legislation of a Member State[^c-72dc355b318b4109456c458c9c5e3704] which applies to the person’s income; or
+  - (iii)[^c-d58577bf0a4336ff810de96bb33ecc63] where the legislation of—
     - (aa) the United Kingdom and one or more Member State; or
     - (bb) more than one Member State,
 
     applies to the period, a person’s total income from all sources as determined for the purposes of the income tax legislation under which the Welsh Ministers consider that a person’s total income in that period is greatest,
 
   except that no account is taken of the income referred to in paragraph (2) which is paid to another party[^M_F_e7a0cf9c-c2c8-4626-cb77-51a6c71f49c8];
-- (p)[^key-3545fc9592e7c7d8df64c18b80843386] unless otherwise indicated, a person who would otherwise be a partner under sub-paragraph (j) is not treated as a partner if—
+- (p)[^c-3545fc9592e7c7d8df64c18b80843386] unless otherwise indicated, a person who would otherwise be a partner under sub-paragraph (j) is not treated as a partner if—
   - (i) in the opinion of the Welsh Ministers, that person and the eligible student are separated; or
   - (ii) the person is ordinarily living outside the United Kingdom and is not maintained by the eligible student;
-- (q)[^key-6f445b7637f7a5cb4916b65287642c5f] for the purposes of the definition of “adult dependant” (“*dibynnydd mewn oed*”), a person is to be treated as a partner if the person would be a partner under sub-paragraph (j) but for the fact that the eligible student with whom the person is ordinarily living does not fall within paragraph 2(1)(a) of Schedule 5;
-- (r)[^key-49e2d5e0533e22167a2c7fc991d08487] for the purposes of the definitions of “child” (“*plentyn*”) and “lone parent” (“*rhiant unigol*”), a person is to be treated as a partner if the person would be a partner under sub-paragraph (j) but for the date on which the eligible student began the specified designated course or the fact that the eligible student with whom the person is ordinarily living does not fall within paragraph 2(1)(a) of Schedule 5.
+- (q)[^c-6f445b7637f7a5cb4916b65287642c5f] for the purposes of the definition of “adult dependant” (“*dibynnydd mewn oed*”), a person is to be treated as a partner if the person would be a partner under sub-paragraph (j) but for the fact that the eligible student with whom the person is ordinarily living does not fall within paragraph 2(1)(a) of Schedule 5;
+- (r)[^c-49e2d5e0533e22167a2c7fc991d08487] for the purposes of the definitions of “child” (“*plentyn*”) and “lone parent” (“*rhiant unigol*”), a person is to be treated as a partner if the person would be a partner under sub-paragraph (j) but for the date on which the eligible student began the specified designated course or the fact that the eligible student with whom the person is ordinarily living does not fall within paragraph 2(1)(a) of Schedule 5.
 
 (2) The income referred to in this paragraph is any benefits under a pension arrangement pursuant to an order made under section 23 of the Matrimonial Causes Act 1973[^f00063] which includes provision made by virtue of sections 25B(4) and 25E(3) of that Act or pension benefits under Part 1 of Schedule 5 to the Civil Partnership Act 2004[^f00064] which includes provision made by virtue of Parts 6 and 7 of that Schedule.
 
-(3) For the purposes of regulation 27[^key-ac127154d1f289e663e2a99ac7edc37c] —
+(3) For the purposes of regulation 27[^c-ac127154d1f289e663e2a99ac7edc37c] —
 
 - (a) paragraph (1)(p) does not apply; and
 - (b) a person is to be treated as a partner if the person would be a partner under paragraph (1)(j) but for the fact that the eligible student with whom the person is ordinarily living does not fall within paragraph 2(1)(a) of Schedule 5.
@@ -109,29 +109,29 @@ summary: ''
 
 ## Annotations
 
-[^key-b5cf943fdbbf8666c72ed74878d2b6f3]: Commencement: Reg. 30 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-b5cf943fdbbf8666c72ed74878d2b6f3]: Commencement: Reg. 30 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
 [^f00061]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); section 23 was amended by the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), Schedule 1, paragraph 6(o)(i), the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), Schedule 3, paragraph 2(2) and the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), Schedule 17, paragraph 19..
 
 [^f00062]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); section 401 was amended by [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229), [S.I. 2011/1037](https://www.legislation.gov.uk/uksi/2011/1037) and [S.I. 2014/211](https://www.legislation.gov.uk/uksi/2014/211).
 
-[^key-72dc355b318b4109456c458c9c5e3704]: Textual amendment: Words in [reg. 30(1)(o)(ii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/o/ii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [14(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/14/a)
+[^c-72dc355b318b4109456c458c9c5e3704]: Textual amendment: Words in [reg. 30(1)(o)(ii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/o/ii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [14(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/14/a)
 
-[^key-d58577bf0a4336ff810de96bb33ecc63]: Textual amendment: [Reg. 30(1)(o)(iii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/o/iii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [14(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/14/b)
+[^c-d58577bf0a4336ff810de96bb33ecc63]: Textual amendment: [Reg. 30(1)(o)(iii)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/o/iii) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [14(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/14/b)
 
 [^M_F_e7a0cf9c-c2c8-4626-cb77-51a6c71f49c8]: Textual amendment: Word in reg. 30(1)(o) substituted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(a)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/a) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
 
-[^key-3545fc9592e7c7d8df64c18b80843386]: Textual amendment: [Reg. 30(1)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/a) renumbered as reg. 30(1)(p) (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/b/i) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
+[^c-3545fc9592e7c7d8df64c18b80843386]: Textual amendment: [Reg. 30(1)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/a) renumbered as reg. 30(1)(p) (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(b)(i)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/b/i) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
 
-[^key-6f445b7637f7a5cb4916b65287642c5f]: Textual amendment: [Reg. 30(1)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/b) renumbered as reg. 30(1)(q) (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/b/ii) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
+[^c-6f445b7637f7a5cb4916b65287642c5f]: Textual amendment: [Reg. 30(1)(b)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/b) renumbered as reg. 30(1)(q) (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(b)(ii)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/b/ii) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
 
-[^key-49e2d5e0533e22167a2c7fc991d08487]: Textual amendment: [Reg. 30(1)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/c) renumbered as reg. 30(1)(r) (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(b)(iii)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/b/iii) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
+[^c-49e2d5e0533e22167a2c7fc991d08487]: Textual amendment: [Reg. 30(1)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/1/c) renumbered as reg. 30(1)(r) (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/uksi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/191/regulation/1/2), [Sch. 6 para. 8(b)(iii)](https://www.legislation.gov.uk/uksi/2018/191/schedule/6/paragraph/8/b/iii) (with [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2018/191/regulation/2/2/3))
 
 [^f00063]: Footnote: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18), section 23 was amended by the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53), section 16 and by the Matrimonial and Family Proceedings Act [1984 (c. 42)](https://www.legislation.gov.uk/ukpga/1984/42), section 21.
 
 [^f00064]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33), Schedule 5 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17 and Schedule 11.
 
-[^key-ac127154d1f289e663e2a99ac7edc37c]: Textual amendment: Word in [reg. 30(3)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/3) substituted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 8(c)](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/8/c) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
+[^c-ac127154d1f289e663e2a99ac7edc37c]: Textual amendment: Word in [reg. 30(3)](https://www.legislation.gov.uk/wsi/2017/47/regulation/30/3) substituted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 8(c)](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/8/c) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
 
 [^f00065]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4) to which there are amendments not relevant to these Regulations.
 

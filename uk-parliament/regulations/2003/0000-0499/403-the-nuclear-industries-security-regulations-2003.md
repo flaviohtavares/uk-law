@@ -49,11 +49,11 @@ Remainder
 
 22nd March 2003
 
-The Secretary of State, in exercise of the powers conferred by sections 15(1), (2), (3)(c), (4)(a), (5)(a) and (b), 50(1) and 82(3)(a) of, and paragraphs 1(1)(a) and (b) and (2), 3(1) and (2), 4(1), 15(1), 16 and 21(a) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] and sections 76(7) and 77(1) to (4) of the Anti-terrorism, Crime and Security Act 2001[^f00002], and after consulting the Health and Safety Commission, such other bodies as appear to her to be appropriate (in accordance with section 50(1) of that Act of 1974) and such other persons as she considers appropriate (in accordance with section 77(5) of that Act of 2001), hereby makes the following Regulations:—[^key-cd770a394cb69618a60a72e24852461d]
+The Secretary of State, in exercise of the powers conferred by sections 15(1), (2), (3)(c), (4)(a), (5)(a) and (b), 50(1) and 82(3)(a) of, and paragraphs 1(1)(a) and (b) and (2), 3(1) and (2), 4(1), 15(1), 16 and 21(a) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] and sections 76(7) and 77(1) to (4) of the Anti-terrorism, Crime and Security Act 2001[^f00002], and after consulting the Health and Safety Commission, such other bodies as appear to her to be appropriate (in accordance with section 50(1) of that Act of 1974) and such other persons as she considers appropriate (in accordance with section 77(5) of that Act of 2001), hereby makes the following Regulations:—[^c-cd770a394cb69618a60a72e24852461d]
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement, revocation and extent[^key-80b0d1d50843f9ae4fd271e3eed3d054]
+### 1. Citation, commencement, revocation and extent[^c-80b0d1d50843f9ae4fd271e3eed3d054]
 
 (1) These Regulations may be cited as the Nuclear Industries Security Regulations 2003.
 
@@ -69,17 +69,17 @@ The Secretary of State, in exercise of the powers conferred by sections 15(1), (
 
 (6) Regulation 24 extends only to Northern Ireland.
 
-### 2. Interpretation: general[^key-4acfa7a3777e7eb8b2975aaee9a63b9a]
+### 2. Interpretation: general[^c-4acfa7a3777e7eb8b2975aaee9a63b9a]
 
 (1) In these Regulations, unless the context otherwise requires—
 
-- [^key-647726df3b1589543d4c32e6e4e860a8]...
+- [^c-647726df3b1589543d4c32e6e4e860a8]...
 - “**the 2001 Act**” means the Anti-terrorism, Crime and Security Act 2001;
-- “[^key-02c3d206eec6d2974b2d2d6d76981ee7]**the 2013 Act**” means the Energy Act 2013;
+- “[^c-02c3d206eec6d2974b2d2d6d76981ee7]**the 2013 Act**” means the Energy Act 2013;
 - “**2001 Act direction**” means a direction given by the Secretary of State on or after 1st April 2014 under regulations made under section 77(1) of the 2001 Act;
-- [^key-08d28cbcb48dc1f4ee92ae534c8f26fa]...
+- [^c-08d28cbcb48dc1f4ee92ae534c8f26fa]...
 - “**approved carrier**” means a Class A carrier or a Class B carrier;
-- “**approved security plan**” means a security plan which has been approved by the ONR[^key-8acb910e26685f70b4c02e987587bc0e] under regulation 5 or 6, as amended by any amendments approved under regulation 6, and which has not been revoked (but see regulation 8 (temporary security plans));
+- “**approved security plan**” means a security plan which has been approved by the ONR[^c-8acb910e26685f70b4c02e987587bc0e] under regulation 5 or 6, as amended by any amendments approved under regulation 6, and which has not been revoked (but see regulation 8 (temporary security plans));
 - “**approved transport plan**” means a transport plan which has been approved by the ONR under regulation 19;
 - “**approved transport security statement**” means a transport security statement which has been approved by the ONR under regulation 16, as amended by any amendments approved under that regulation, and which has not been revoked;
 - “**carrier**” means a person undertaking the transport of Category I/II nuclear material or Category III nuclear material, and includes both a carrier for hire or reward and a carrier on his own account;
@@ -87,39 +87,39 @@ The Secretary of State, in exercise of the powers conferred by sections 15(1), (
 - “**Category III nuclear material**” has the meaning given in regulation 3(4);
 - “**Class A carrier**” means a carrier approved by the ONR under Part 3 of these Regulations to transport Category I/II nuclear material and Category III nuclear material;
 - “**Class B carrier**” means a carrier approved by the ONR under Part 3 of these Regulations to transport Category III nuclear material;
-- “[^key-e2c40bd3151e0cfa20c2f6930db1085c]**classification policy**” means the classification policy “Information concerning the Use, Storage and Transport of Nuclear and other Radioactive Material” issued by the ONR from time to time;
+- “[^c-e2c40bd3151e0cfa20c2f6930db1085c]**classification policy**” means the classification policy “Information concerning the Use, Storage and Transport of Nuclear and other Radioactive Material” issued by the ONR from time to time;
 - “**commencement date**” means 22nd March 2003;
 - “**enriched**”, in relation to uranium, means enriched so as to contain more than 0.711% of uranium-235;
-- [^key-0f5ce01ece63dd47a6ae1102c1488542]...
-- “[^key-15bb0eb21e6fe80f5e052449326e7c31]**nuclear material**” has the meaning given in section 70 of the 2013 Act (as extended under subsection (3) of that section);
+- [^c-0f5ce01ece63dd47a6ae1102c1488542]...
+- “[^c-15bb0eb21e6fe80f5e052449326e7c31]**nuclear material**” has the meaning given in section 70 of the 2013 Act (as extended under subsection (3) of that section);
 - “**nuclear premises**” means—
-  - (a) a[^key-7543d7c7eaa2a9ba3c49b4f6eacdde23] civil nuclear site[^key-b374534b67bca60e3a17025b9a29a68b], other than one in relation to which all nuclear material or other radioactive material that was used or stored has been removed as part of the decommissioning [^key-07d10de13bbe955b1ae87b950f804f62]... of that site;
-  - ((aa)) a[^key-779231ec87b64d06c0d8f37810323199] civil nuclear construction site[^key-a0e2a15331fd45c3b67a01903c9a582e] on which works are being carried out—
+  - (a) a[^c-7543d7c7eaa2a9ba3c49b4f6eacdde23] civil nuclear site[^c-b374534b67bca60e3a17025b9a29a68b], other than one in relation to which all nuclear material or other radioactive material that was used or stored has been removed as part of the decommissioning [^c-07d10de13bbe955b1ae87b950f804f62]... of that site;
+  - ((aa)) a[^c-779231ec87b64d06c0d8f37810323199] civil nuclear construction site[^c-a0e2a15331fd45c3b67a01903c9a582e] on which works are being carried out—
     - by a developer; and
     - pursuant to the grant or issue of a relevant consent, without which the carrying out of those works would be unlawful;
-  - (b) premises that form part of a civil nuclear site[^key-8d0261409fe7e8e2dc2d5fd233fe2563] and are premises on which a person, who is not the holder of the nuclear site licence and is not acting as an officer, employee or contractor of that holder, uses or stores nuclear material or other radioactive material; or
-  - (c) other civil nuclear premises[^key-1c98b6a3f04dcc6345c1e7959e35e5b2] on which Category I/II nuclear material or Category III nuclear material is used or stored, but excluding premises that are used solely for the purpose of the temporary storage of such material during the course of or incidental to its transport in any case where the standards, procedures and arrangements in respect of the security of the transport are contained in an approved transport security statement;
-- [^key-6f19dc72e2ed2107578e205c4f722819]...
+  - (b) premises that form part of a civil nuclear site[^c-8d0261409fe7e8e2dc2d5fd233fe2563] and are premises on which a person, who is not the holder of the nuclear site licence and is not acting as an officer, employee or contractor of that holder, uses or stores nuclear material or other radioactive material; or
+  - (c) other civil nuclear premises[^c-1c98b6a3f04dcc6345c1e7959e35e5b2] on which Category I/II nuclear material or Category III nuclear material is used or stored, but excluding premises that are used solely for the purpose of the temporary storage of such material during the course of or incidental to its transport in any case where the standards, procedures and arrangements in respect of the security of the transport are contained in an approved transport security statement;
+- [^c-6f19dc72e2ed2107578e205c4f722819]...
 - “**nuclear site licence**” has the same meaning as in section 1 of the Nuclear Installations Act 1965[^f00005];
-- “[^key-b60366a23fc3255453d262b3daf46804]**the ONR**” means the Office for Nuclear Regulation;
-- [^key-154aa9f35c42ae1a1e0ca21d86892db5]...
+- “[^c-b60366a23fc3255453d262b3daf46804]**the ONR**” means the Office for Nuclear Regulation;
+- [^c-154aa9f35c42ae1a1e0ca21d86892db5]...
 - “**relevant personnel**”, in relation to a person (“the principal”) who is the responsible person in relation to any nuclear premises, a carrier or a person to whom regulation 22 applies, means—
   - (a) each of the principal’s officers, employees, contractors and consultants, and
   - (b) each officer, employee, contractor or consultant of the principal’s contractors and consultants;
 - “**responsible person**” has the meaning given in paragraph (2);
 - “**security plan**” must be construed in accordance with regulation 4(2) and (3);
-- [^key-f62aff9b22683a1444db0e049f2f08f3]...
+- [^c-f62aff9b22683a1444db0e049f2f08f3]...
 - “**transport**” means transport by any means, but excluding—
-  - (i) [^key-eb56797ab91066c011fe06e17136ceb6]...
+  - (i) [^c-eb56797ab91066c011fe06e17136ceb6]...
   - (ii) transport within nuclear premises or between adjacent nuclear premises;
 - “**transport plan**” must be construed in accordance with regulation 19(3);
 - “**transport security statement**” must be construed in accordance with regulation 16(2) and (3);
-- “[^key-a12d8b770c1df805b59c795a2eaa71cf]**United Kingdom person**” has the meaning given in section 74(6) of the 2013 Act;
-- [^key-dbaf4a8ed68e819cc67aa6bf031bd18e]...
-- “[^key-b5070fcdae66af3090b4a25909be8cdf]**uranium enrichment equipment**” means equipment capable of being used in or in connection with the enrichment of uranium;
+- “[^c-a12d8b770c1df805b59c795a2eaa71cf]**United Kingdom person**” has the meaning given in section 74(6) of the 2013 Act;
+- [^c-dbaf4a8ed68e819cc67aa6bf031bd18e]...
+- “[^c-b5070fcdae66af3090b4a25909be8cdf]**uranium enrichment equipment**” means equipment capable of being used in or in connection with the enrichment of uranium;
 - “**uranium enrichment software**” means any software capable of being used in or in connection with the enrichment or uranium.
 
-(1A)[^key-49781e3079948d3c19ce0a18ae899f87] For the purposes of sub-paragraph (aa) of the definition of “nuclear premises”—
+(1A)[^c-49781e3079948d3c19ce0a18ae899f87] For the purposes of sub-paragraph (aa) of the definition of “nuclear premises”—
 
 - “developer” means a person who is lawfully entitled to carry out works on a site with a view to its becoming a nuclear site;
 - “relevant consent” means—
@@ -131,12 +131,12 @@ The Secretary of State, in exercise of the powers conferred by sections 15(1), (
   - (c) an order under section 14 or 16 of the Harbours Act 1964;
   - (d) an order under section 1 of the Harbours Act (Northern Ireland) 1970;
   - (e) an order under section 10 of the Harbours Act (Northern Ireland) 1970;
-  - (f) infrastructure consent within the meaning of section 19 of the Infrastructure (Wales) Act 2024. *(Extent: W)*[^key-57f09571ed320f6092bc166419f2aec0]
+  - (f) infrastructure consent within the meaning of section 19 of the Infrastructure (Wales) Act 2024. *(Extent: W)*[^c-57f09571ed320f6092bc166419f2aec0]
 
 (2) “**Responsible person**”, in relation to any nuclear premises, means—
 
-- (a) in the case of a civil nuclear site[^key-b45a7e6fd898193d56e6f3f9eb3580f7] falling within paragraph (a) of the definition of “nuclear premises”, the holder of the nuclear site licence;
-- (aa)[^key-345c18f1860235bda52489f88842c20d] in the case of a civil nuclear construction site[^key-0c7bb2a2650e9ffcf7fe380a80601a77] falling within sub-paragraph (aa) of the definition of “nuclear premises”, the developer;
+- (a) in the case of a civil nuclear site[^c-b45a7e6fd898193d56e6f3f9eb3580f7] falling within paragraph (a) of the definition of “nuclear premises”, the holder of the nuclear site licence;
+- (aa)[^c-345c18f1860235bda52489f88842c20d] in the case of a civil nuclear construction site[^c-0c7bb2a2650e9ffcf7fe380a80601a77] falling within sub-paragraph (aa) of the definition of “nuclear premises”, the developer;
 - (b) in the case of premises falling within paragraph (b) of that definition, the person mentioned in that paragraph; and
 - (c) in the case of premises falling within paragraph (c) of that definition, the person who uses or stores the Category I/II nuclear material or Category III nuclear material on those premises,
 
@@ -144,9 +144,9 @@ but this is subject to paragraph (3).
 
 (3) No person is the responsible person in relation to any nuclear premises falling within paragraph (b) or (c) of the definition of “nuclear premises” by virtue of using or storing nuclear material or other radioactive material on behalf of another person if he is that other person’s officer, employee or contractor.
 
-(4)[^key-579c82cf8bb266124283fa4518b774eb] [^key-f2db5b02a55b69c8c1e21a6083847b90]... For the purposes of paragraph (b) of the definition of “sensitive nuclear information” in section 77(7) of the 2001 Act, information which appears to the ONR to be information which needs protecting in the interests of national security includes information which requires a protective marking in accordance with the classification policy.
+(4)[^c-579c82cf8bb266124283fa4518b774eb] [^c-f2db5b02a55b69c8c1e21a6083847b90]... For the purposes of paragraph (b) of the definition of “sensitive nuclear information” in section 77(7) of the 2001 Act, information which appears to the ONR to be information which needs protecting in the interests of national security includes information which requires a protective marking in accordance with the classification policy.
 
-### 3. Meaning of “nuclear material”, “Category I/II nuclear material” and “Category III nuclear material”[^key-c0babd08613cda72c6824eb5d15db4c6]
+### 3. Meaning of “nuclear material”, “Category I/II nuclear material” and “Category III nuclear material”[^c-c0babd08613cda72c6824eb5d15db4c6]
 
 *Extent: E+W+S*
 
@@ -177,48 +177,48 @@ but this is subject to paragraph (3).
 (5) In determining the quantity of material of any kind for the purposes of paragraphs (3)(b) and (4)(b)—
 
 - (a) in the case of material used or stored on nuclear premises, the quantities of all material of the kind in question that is being used or stored on the nuclear premises in question are to be aggregated, and
-- (b) in the case of material being transported by road, train , ship or air[^key-96b3f8739ad93613f524d9b4c07f8d8c], the quantities of all material of the kind in question that is being transported in the road convoy, on the train , on the ship or in the aircraft[^key-746c27584a030f54aff1404529e7ab26], as the case may be, are to be aggregated.
+- (b) in the case of material being transported by road, train , ship or air[^c-96b3f8739ad93613f524d9b4c07f8d8c], the quantities of all material of the kind in question that is being transported in the road convoy, on the train , on the ship or in the aircraft[^c-746c27584a030f54aff1404529e7ab26], as the case may be, are to be aggregated.
 
 ## PART 2 — SECURITY OF NUCLEAR PREMISES
 
-### 4. Requirement for approved security plan for nuclear premises[^key-613f0c7496b142bddb4b426d111e5860]
+### 4. Requirement for approved security plan for nuclear premises[^c-613f0c7496b142bddb4b426d111e5860]
 
-(1)[^key-5498bc5167002b14f489b53e991782e0] The responsible person must ensure that there is an approved security plan in place at all times for each nuclear premises in relation to which that person is responsible (whether or not the premises form part of other premises to which this paragraph applies).
+(1)[^c-5498bc5167002b14f489b53e991782e0] The responsible person must ensure that there is an approved security plan in place at all times for each nuclear premises in relation to which that person is responsible (whether or not the premises form part of other premises to which this paragraph applies).
 
 (2) A security plan must describe in writing the standards, procedures and arrangements adopted or to be adopted by the responsible person to ensure the security of—
 
 - (a) the nuclear premises in relation to which he is the responsible person,
 - (b) any Category I/II nuclear material and Category III nuclear material used or stored on the premises,
-- (c) any equipment or software[^key-a6f566f8ad9563e9e477c3fc9ee75bea] used or stored on the premises in connection with activities involving nuclear material,
+- (c) any equipment or software[^c-a6f566f8ad9563e9e477c3fc9ee75bea] used or stored on the premises in connection with activities involving nuclear material,
 - (d) any sensitive nuclear information kept on the premises, and
 - (e) in the case of nuclear premises which are or form part of a nuclear site—
   - (i) any nuclear material (so far as not already mentioned in sub-paragraph (b)) and other radioactive material used or stored on the premises, and
-  - (ii) any equipment or software[^key-f8e29b5eb9cf0e021cf8ac7b74942166] used or stored on the premises in connection with activities involving other radioactive material,
-- (f)[^key-4836b4939564d8e93e4be2d7abcef15b] in the case of nuclear premises which are, or form part of, a civil nuclear construction site[^key-e478cde83a63bc5baae4a46ca277451f], any equipment used or stored on such a site.
+  - (ii) any equipment or software[^c-f8e29b5eb9cf0e021cf8ac7b74942166] used or stored on the premises in connection with activities involving other radioactive material,
+- (f)[^c-4836b4939564d8e93e4be2d7abcef15b] in the case of nuclear premises which are, or form part of, a civil nuclear construction site[^c-e478cde83a63bc5baae4a46ca277451f], any equipment used or stored on such a site.
 
 (3) In particular, but without prejudice to the generality of paragraph (2), the plan must describe the standards, procedures and arrangements relating to—
 
 - (a) the investigation and assessment by the ONR of the suitability of relevant personnel of the responsible person with a view to ensuring the security of the premises and the material, equipment and information mentioned in paragraph (2);
 - (b) the receipt and despatch of any Category I/II nuclear material and Category III nuclear material to be transported to or from the nuclear premises;
 - (c) the manner in which the nuclear premises are to be policed and guarded, including the identity of the person providing any constables or persons acting as guards, the total number of constables and such persons attached to the premises and the number of such constables or other persons who will normally be present there; and
-- (d) the steps to be taken by the responsible person or any person acting on his behalf if any event of a kind specified in regulation 10(5)(a), (b), (e) , (f), (g)[^key-5f27b57f481362ef86b59d4141bf46b2] or (h) that requires immediate action occurs, and the regular practice of the activities required in connection with those steps.
+- (d) the steps to be taken by the responsible person or any person acting on his behalf if any event of a kind specified in regulation 10(5)(a), (b), (e) , (f), (g)[^c-5f27b57f481362ef86b59d4141bf46b2] or (h) that requires immediate action occurs, and the regular practice of the activities required in connection with those steps.
 
-(3A)[^key-08b8f5040d817be5a66e168a031c498c] Further, and without prejudice to the generality of paragraph (2)—
+(3A)[^c-08b8f5040d817be5a66e168a031c498c] Further, and without prejudice to the generality of paragraph (2)—
 
-- (a) in the case of a civil nuclear site[^key-a4ca91f5de4ab91d2de7aee46ed3d888] (A) which is located within 5 kilometres of a civil nuclear site (B), the plan in relation to site A must also describe the standards, procedures and arrangements to ensure the security of site B in relation to any[^key-ce5f5b047494b3e7c8a1b1841daeb38a] activity which is or is to be carried out at site A that may or will affect the security of site B;
-- (b) in the case of a civil nuclear construction site[^key-d8376af40d8337f284adf656c4028be3] falling within sub-paragraph (aa) of the definition of “nuclear premises”, which is located within 5 kilometres of a nuclear site, the plan in relation to the civil nuclear construction site must also describe the standards, procedures and arrangements to ensure the security of that nuclear site, in relation to any activity which is or is to be carried out at the civil nuclear construction site that may or will affect the security of that nuclear site.
+- (a) in the case of a civil nuclear site[^c-a4ca91f5de4ab91d2de7aee46ed3d888] (A) which is located within 5 kilometres of a civil nuclear site (B), the plan in relation to site A must also describe the standards, procedures and arrangements to ensure the security of site B in relation to any[^c-ce5f5b047494b3e7c8a1b1841daeb38a] activity which is or is to be carried out at site A that may or will affect the security of site B;
+- (b) in the case of a civil nuclear construction site[^c-d8376af40d8337f284adf656c4028be3] falling within sub-paragraph (aa) of the definition of “nuclear premises”, which is located within 5 kilometres of a nuclear site, the plan in relation to the civil nuclear construction site must also describe the standards, procedures and arrangements to ensure the security of that nuclear site, in relation to any activity which is or is to be carried out at the civil nuclear construction site that may or will affect the security of that nuclear site.
 
-(4)[^key-f8bb1c691d3f15da480f069b37b9635a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f8bb1c691d3f15da480f069b37b9635a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Submission and approval of first security plans[^key-995b852bbcac316e9f22ee80fb65cef4]
+### 5. Submission and approval of first security plans[^c-995b852bbcac316e9f22ee80fb65cef4]
 
 (1) The responsible person in relation to each nuclear premises must submit a security plan for the premises to the ONR for approval.
 
-(2) The ONR may approve the plan as submitted or with such amendments as the ONR[^key-7edb1cd80617da8109569f34ead7d8ee] may require.
+(2) The ONR may approve the plan as submitted or with such amendments as the ONR[^c-7edb1cd80617da8109569f34ead7d8ee] may require.
 
 (3) In the case of premises which are nuclear premises on the commencement date, the security plan must be submitted by 22nd June 2003.
 
-### 6. Replacement, amendment and revocation of approved security plans[^key-6613a126d950c84ab6b365c3442b6062]
+### 6. Replacement, amendment and revocation of approved security plans[^c-6613a126d950c84ab6b365c3442b6062]
 
 (1) The responsible person in relation to each nuclear premises may at any time submit to the ONR for approval—
 
@@ -229,15 +229,15 @@ but this is subject to paragraph (3).
 
 (3) On approving a fresh security plan for the premises, the ONR may revoke the approval of the former plan for the premises.
 
-### 7. Maintenance of security[^key-b43528007250d2c6828dfd43a42c6ee5]
+### 7. Maintenance of security[^c-b43528007250d2c6828dfd43a42c6ee5]
 
 (1) The responsible person in relation to each nuclear premises must comply with the standards, procedures and arrangements described in the approved security plan for the premises.
 
 (2) The responsible person is not to be regarded as having failed to comply with any of those standards, procedures or arrangements by reason of any matter if the ONR has notified the responsible person in writing that that matter, or a matter of its description, is in the ONR's opinion unlikely to be prejudicial to the security of the premises and the material, equipment and information mentioned in regulation 4(2).
 
-### 8. Temporary security plans during building works etc.[^key-3e294c8503eec06b88fb34e0f43c2e08]
+### 8. Temporary security plans during building works etc.[^c-3e294c8503eec06b88fb34e0f43c2e08]
 
-(1) If it is proposed to carry out any work of alteration or extension to any building or other structure which is, or forms part of, nuclear premises (other than a[^key-ed295ae65bf752577f46f1d0b1842641] civil nuclear construction site[^key-ba72dc2997bc1f7c8b156ee6c4c8858b] falling within sub-paragraph (aa) of the definition of “nuclear premises”) and which is not provided for in an existing approved security plan with which the responsible person must comply—
+(1) If it is proposed to carry out any work of alteration or extension to any building or other structure which is, or forms part of, nuclear premises (other than a[^c-ed295ae65bf752577f46f1d0b1842641] civil nuclear construction site[^c-ba72dc2997bc1f7c8b156ee6c4c8858b] falling within sub-paragraph (aa) of the definition of “nuclear premises”) and which is not provided for in an existing approved security plan with which the responsible person must comply—
 
 - (a) the responsible person in relation to the premises must give notice in writing to the ONR—
   - (i) specifying the nature of the proposed works, and
@@ -258,22 +258,22 @@ but this is subject to paragraph (3).
 
 (8) The responsible person may at any time submit proposals for amending the approved temporary security plan to the ONR, and the ONR may approve the proposals as submitted or with such amendments as the ONR may require.
 
-(9)[^key-c2c191eea41bb514dc1bfe0e3f75b40f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c2c191eea41bb514dc1bfe0e3f75b40f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Requirement for approval of relevant personnel[^key-9ab14f2c9346e016a3b903cd6fcc565b]
+### 9. Requirement for approval of relevant personnel[^c-9ab14f2c9346e016a3b903cd6fcc565b]
 
 The responsible person in relation to each nuclear premises must ensure that each of his relevant personnel in relation to the premises who—
 
 - (a) is specified in the approved security plan for the premises as requiring investigation and assessment as mentioned in regulation 4(3)(a), or
 - (b) falls within a description of persons who are so specified,
 
-is a person who has been assessed, in accordance with a process that has been approved by the ONR, to be[^key-f466dd1c452fbcc0f32f9c584822d2ac] of suitable character and integrity, having regard to the need to ensure the security of the premises and the material, equipment and information mentioned in regulation 4(2).
+is a person who has been assessed, in accordance with a process that has been approved by the ONR, to be[^c-f466dd1c452fbcc0f32f9c584822d2ac] of suitable character and integrity, having regard to the need to ensure the security of the premises and the material, equipment and information mentioned in regulation 4(2).
 
-### 10. Reports by responsible persons[^key-9ed163e77f72e657e287c9ade7f7b4af]
+### 10. Reports by responsible persons[^c-9ed163e77f72e657e287c9ade7f7b4af]
 
 (1) The responsible person in relation to each nuclear premises must report to the ONR any event or matter of a kind specified in paragraph (5) as soon as practicable and in any event within 24 hours of its becoming known to him.
 
-(2) If it is not possible[^key-dbb66ee5847c2e688507432c08b60f4d] for him to make a written report within that period, he must make the report orally and confirm it in writing within 48 hours of the event or matter becoming known to him.
+(2) If it is not possible[^c-dbb66ee5847c2e688507432c08b60f4d] for him to make a written report within that period, he must make the report orally and confirm it in writing within 48 hours of the event or matter becoming known to him.
 
 (3) In any other case the report must be made in writing.
 
@@ -294,9 +294,9 @@ is a person who has been assessed, in accordance with a process that has been ap
 - (i) any failure to comply with any of the standards, procedures and arrangements described in the approved security plan for the premises or in any approved temporary security plan to which for the time being they are subject;
 - (j) any other event or matter which might affect the security of the premises or the material, equipment or information mentioned in regulation 4(2).
 
-### 11. Directions to responsible persons[^key-826a3678351ba0b4050122cb73c9a180]
+### 11. Directions to responsible persons[^c-826a3678351ba0b4050122cb73c9a180]
 
-(1) The responsible person in relation to each nuclear premises must comply with any direction given by the ONR for the nuclear security purposes (within the meaning of section 70 of the Energy Act 2013)[^key-05601dc7d740da39b71e1f54ca828dfe] requiring him—
+(1) The responsible person in relation to each nuclear premises must comply with any direction given by the ONR for the nuclear security purposes (within the meaning of section 70 of the Energy Act 2013)[^c-05601dc7d740da39b71e1f54ca828dfe] requiring him—
 
 - (a) to adopt or implement, in respect of the whole or any specified part of the premises, standards, procedures or arrangements specified in the direction and to secure that the responsible person’s officers, employees, contractors and consultants comply with them,
 - (b) to submit a fresh security plan or amendments of the approved security plan for the premises to the ONR for approval,
@@ -313,18 +313,18 @@ is a person who has been assessed, in accordance with a process that has been ap
 - (a) within a period specified in the direction, or
 - (b) in the case of a direction under paragraph (1)(c), periodically at such intervals as are specified in the direction.
 
-(3)[^key-7f224d55f90b550c17019f69501a2751] Any direction given by the ONR to a person on or after 1st April 2014 under paragraph (1)—
+(3)[^c-7f224d55f90b550c17019f69501a2751] Any direction given by the ONR to a person on or after 1st April 2014 under paragraph (1)—
 
 - (a) is subject to any 2001 Act direction given to the person whenever given; and
 - (b) must state that it is subject to any such 2001 Act direction.
 
-### 12. Transitional provisions: security obligations under old legislation[^key-f3d65eb39263f8278eb08136a77fb847]
+### 12. Transitional provisions: security obligations under old legislation[^c-f3d65eb39263f8278eb08136a77fb847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — SECURITY OF TRANSPORT OF NUCLEAR MATERIAL
 
-### 13. Requirement for Category I/II nuclear material and Category III nuclear material to be transported by approved carriers[^key-7a30fabcce1a1e6d4c991d96636cfe62]
+### 13. Requirement for Category I/II nuclear material and Category III nuclear material to be transported by approved carriers[^c-7a30fabcce1a1e6d4c991d96636cfe62]
 
 (1) No person shall transport any Category I/II nuclear material unless—
 
@@ -339,7 +339,7 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 (3) If the responsible person in relation to any nuclear premises arranges for the transport of any Category I/II nuclear material or Category III nuclear material to or from the premises, he must ensure that the transport is undertaken by a carrier who is not prohibited under this regulation from transporting the material in question.
 
-### 14. Approval of carriers[^key-e7c27be70580bb69d010ad8281acf262]
+### 14. Approval of carriers[^c-e7c27be70580bb69d010ad8281acf262]
 
 (1) The ONR may approve a carrier as an approved carrier only if the ONR is satisfied that—
 
@@ -362,7 +362,7 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 (7) The ONR’s approval of a carrier as an approved carrier has effect for the period of five years from the date from which he is approved, unless it is revoked earlier under regulation 15.
 
-### 15. Revocation of approval of carriers[^key-8795df1e87371ef804208734742573cb]
+### 15. Revocation of approval of carriers[^c-8795df1e87371ef804208734742573cb]
 
 (1) The ONR may revoke the approval of an approved carrier if he has requested that his approval be revoked or on any of the following grounds—
 
@@ -381,7 +381,7 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 (5) If the ONR decides to revoke the approval of an approved carrier, the ONR must give him written notice of the ONR's decision and of the reasons for it.
 
-### 16. Transport security statements[^key-df1a2582594faff5624771799a9cd9c5]
+### 16. Transport security statements[^c-df1a2582594faff5624771799a9cd9c5]
 
 (1) A carrier applying for approval as a Class A carrier or Class B carrier under regulation 14 must submit with his application a transport security statement for approval by the ONR.
 
@@ -398,7 +398,7 @@ is a person who has been assessed, in accordance with a process that has been ap
   - (ii) any information falling within paragraph (2)(c), and
   - (iii) any nuclear premises to or from which the carrier transports or is to transport any Category I/II nuclear material or Category III nuclear material, and any premises used or to be used for the purpose of the temporary storage of such material during the course of or incidental to its transport,
 - (b) the temporary storage of Category I/II nuclear material or Category III nuclear material during the course of or incidental to its transport, including the security of premises used for such storage, and
-- (c) the steps to be taken by the carrier or any person acting on his behalf if any event of a kind specified in regulation 18(5)(a), (b), (c), (f) , (g), (h)[^key-5b83bfc253fb8350b2967db22083b09b] or (i) that requires immediate action occurs, and the regular practice of the activities required in connection with those steps.
+- (c) the steps to be taken by the carrier or any person acting on his behalf if any event of a kind specified in regulation 18(5)(a), (b), (c), (f) , (g), (h)[^c-5b83bfc253fb8350b2967db22083b09b] or (i) that requires immediate action occurs, and the regular practice of the activities required in connection with those steps.
 
 (4) The ONR may approve the statement as submitted or with such amendments as the ONR may require.
 
@@ -411,7 +411,7 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 (7) On approving a fresh transport security statement for an approved carrier, the ONR may revoke the approval of the former statement for the approved carrier.
 
-### 17. Duties of approved carriers: general[^key-b3aee2cfdb731d196b3adc7d8040f9b4]
+### 17. Duties of approved carriers: general[^c-b3aee2cfdb731d196b3adc7d8040f9b4]
 
 (1) An approved carrier must comply with the standards, procedures and arrangements described in his approved transport security statement.
 
@@ -425,13 +425,13 @@ is a person who has been assessed, in accordance with a process that has been ap
 - (a) is specified in his approved transport security statement as requiring investigation and assessment as mentioned in regulation 16(3)(a), or
 - (b) falls within a description of persons who are so specified,
 
-is a person who has been assessed, in accordance with a process that has been approved by the ONR, to be[^key-fb0192ba77cfa49d7803a87c5671b72b] of suitable character and integrity, having regard to the need to ensure the security of the material, information and premises mentioned in regulation 16(3)(a).
+is a person who has been assessed, in accordance with a process that has been approved by the ONR, to be[^c-fb0192ba77cfa49d7803a87c5671b72b] of suitable character and integrity, having regard to the need to ensure the security of the material, information and premises mentioned in regulation 16(3)(a).
 
-### 18. Reports by carriers[^key-69c40eb31f1533c34ae2a49c2fc91ada]
+### 18. Reports by carriers[^c-69c40eb31f1533c34ae2a49c2fc91ada]
 
 (1) An approved carrier must report to the ONR any event or matter of a kind specified in paragraph (5) as soon as practicable and in any event within 24 hours of its becoming known to him.
 
-(2) If it is not possible[^key-2c25638e252582e0864dff3796dc50af] for him to make a written report within that period, he must make the report orally and confirm it in writing within 48 hours of the event or matter becoming known to him.
+(2) If it is not possible[^c-2c25638e252582e0864dff3796dc50af] for him to make a written report within that period, he must make the report orally and confirm it in writing within 48 hours of the event or matter becoming known to him.
 
 (3) In any other case the report must be made in writing.
 
@@ -454,7 +454,7 @@ is a person who has been assessed, in accordance with a process that has been ap
   - (ii) premises where Category I/II nuclear material or Category III nuclear material is being stored temporarily during the course of or incidental to its transport, or
   - (iii) any information falling within regulation 16(2)(c).
 
-### 19. Duties relating to particular transports of Category I/II nuclear material[^key-dd05da1a6a8213296376c2c5d503f536]
+### 19. Duties relating to particular transports of Category I/II nuclear material[^c-dd05da1a6a8213296376c2c5d503f536]
 
 (1) No Class A carrier shall transport any Category I/II nuclear material unless a transport plan relating to the particular transport by him has been approved by the ONR.
 
@@ -477,7 +477,7 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 (7) No less than 7 days before the proposed date on which any Class A carrier is to begin transporting any Category I/II nuclear material, he must give notice in writing to the ONR of the dates on which the transport by him is to begin and end.
 
-### 20. Duties relating to particular transports of Category III nuclear material[^key-a941e4e5e0b52a296eefcf13a9beaef2]
+### 20. Duties relating to particular transports of Category III nuclear material[^c-a941e4e5e0b52a296eefcf13a9beaef2]
 
 (1) Subject to paragraph (3), no less than 7 days before the proposed date on which any approved carrier is to begin transporting any Category III nuclear material, he must give notice in writing to the ONR of the matters specified in paragraph (2) in relation to the transport by him.
 
@@ -494,11 +494,11 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 (4) Where an approved carrier gives notice as mentioned in paragraph (3), he must obtain approval from the ONR for the transport of the material by him before he begins transporting it.
 
-(5) This regulation does not apply to a carrier who transports a vehicle carrying nuclear material on his ship to or from the United Kingdom[^key-4264fdd40a19aa3493192161f5ae2ff7] if the driver of the vehicle drives it on and off the ship and remains on the ship during the ship’s journey.
+(5) This regulation does not apply to a carrier who transports a vehicle carrying nuclear material on his ship to or from the United Kingdom[^c-4264fdd40a19aa3493192161f5ae2ff7] if the driver of the vehicle drives it on and off the ship and remains on the ship during the ship’s journey.
 
-### 21. Directions to carriers[^key-e63cdbb15891c33e66075b4c3d54f209]
+### 21. Directions to carriers[^c-e63cdbb15891c33e66075b4c3d54f209]
 
-(1) An approved carrier must comply with any direction given by the ONR for the nuclear security purposes (within the meaning of section 70 of the Energy Act 2013[^key-e61b8ab2c6f6ef564cb74446c33ef711] relating to his business as a carrier of Category I/II nuclear material or Category III nuclear material and requiring the approved carrier—
+(1) An approved carrier must comply with any direction given by the ONR for the nuclear security purposes (within the meaning of section 70 of the Energy Act 2013[^c-e61b8ab2c6f6ef564cb74446c33ef711] relating to his business as a carrier of Category I/II nuclear material or Category III nuclear material and requiring the approved carrier—
 
 - (a) not to begin a particular proposed transport,
 - (b) to adopt or implement standards, procedures or arrangements specified in the direction and to secure that his officers, employees, contractors and consultants comply with them,
@@ -516,12 +516,12 @@ is a person who has been assessed, in accordance with a process that has been ap
 - (a) within a period specified in the direction, or
 - (b) in the case of a direction under paragraph (1)(d), periodically at such intervals as are specified in the direction.
 
-(3)[^key-b27b1a9ee8aa39f3f15f80860012dfb5] Any direction given by the ONR to a carrier on or after 1st April 2014 under paragraph (1)—
+(3)[^c-b27b1a9ee8aa39f3f15f80860012dfb5] Any direction given by the ONR to a carrier on or after 1st April 2014 under paragraph (1)—
 
 - (a) is subject to any 2001 Act direction given to the carrier whenever given; and
 - (b) must state that it is subject to any such 2001 Act direction.
 
-## PART 4 — SECURITY OF SENSITIVE NUCLEAR INFORMATION AND URANIUM ENRICHMENT SOFTWARE AND EQUIPMENT[^key-20a3889560e0cb72f6faaddc656aebc9]
+## PART 4 — SECURITY OF SENSITIVE NUCLEAR INFORMATION AND URANIUM ENRICHMENT SOFTWARE AND EQUIPMENT[^c-20a3889560e0cb72f6faaddc656aebc9]
 
 ### 22. Regulation of sensitive nuclear information, uranium enrichment equipment and software
 
@@ -555,8 +555,8 @@ is a person who has been assessed, in accordance with a process that has been ap
 (5) For the purposes of paragraph (3)—
 
 - (a) information is protectively marked if it bears a protective marking—
-  - (i) which complies with the requirements of the classification policy; or[^key-33517051e059951242e9e498cbdfe825]
-  - (ii)[^key-b154e25eb34b6a22a873c8894dfd7bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) which complies with the requirements of the classification policy; or[^c-33517051e059951242e9e498cbdfe825]
+  - (ii)[^c-b154e25eb34b6a22a873c8894dfd7bb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) which has been applied by the Secretary of State or a statutory body in the interests of national security;
 - (b) information should have been protectively marked if such marking was required by the classification policy.
 
@@ -568,13 +568,13 @@ is a person who has been assessed, in accordance with a process that has been ap
 - (b) comply with any directions given by the ONR requiring him to take such steps as are necessary or as are specified in the direction for that purpose;
 - (c) ensure that each of his relevant personnel who is involved in any of the activities listed in any of the paragraphs to sub-paragraph (a) or (b) of paragraph (1) is familiar with the security standards, procedures and arrangements mentioned in paragraph (7)(a) or steps specified in any direction given under paragraph (7)(b) relevant to that activity;
 - (d) ensure that each of his relevant personnel who—
-  - (i) is specified in a direction given under paragraph (7)(b) as a person whose suitability requires investigation and assessment [^key-034ee14bc7c4d234d4d2dd187d7e6de1]...; or
+  - (i) is specified in a direction given under paragraph (7)(b) as a person whose suitability requires investigation and assessment [^c-034ee14bc7c4d234d4d2dd187d7e6de1]...; or
   - (ii) falls within a description of persons who are so specified,
 
-  is a person who has been assessed, in accordance with a process that has been approved by the ONR, to be[^key-28f7dd5526462960fee9ce8c20dbbd29] of suitable character and integrity, having regard to the need to ensure the security of any sensitive nuclear information, uranium enrichment equipment or software within the possession or control of the person to whom this regulation applies; and
+  is a person who has been assessed, in accordance with a process that has been approved by the ONR, to be[^c-28f7dd5526462960fee9ce8c20dbbd29] of suitable character and integrity, having regard to the need to ensure the security of any sensitive nuclear information, uranium enrichment equipment or software within the possession or control of the person to whom this regulation applies; and
 - (e) report to the ONR any event or matter of a kind specified in paragraph (10) that relates to any sensitive nuclear information, uranium enrichment equipment or uranium enrichment software within his possession or control as soon as practicable and in any event within 24 hours of its becoming known to him, specifying the nature of the event or matter and, in the case of any event, the date and time it occurred and the apparent reason for it.
 
-(7A)[^key-4214d11d47ad9fe79ecd47594518a62e] Any direction given by the ONR to a person on or after 1st April 2014 under paragraph (7)(b)—
+(7A)[^c-4214d11d47ad9fe79ecd47594518a62e] Any direction given by the ONR to a person on or after 1st April 2014 under paragraph (7)(b)—
 
 - (a) is subject to any 2001 Act direction given to the person whenever given; and
 - (b) must state that it is subject to any such 2001 Act direction.
@@ -593,34 +593,34 @@ is a person who has been assessed, in accordance with a process that has been ap
 
 ## PART 5 — GENERAL AND SUPPLEMENTARY PROVISIONS
 
-### 23. Application of provisions of the 1974 Act[^key-8eee61f1b7b7b7113a45f66b5edabcbd]
+### 23. Application of provisions of the 1974 Act[^c-8eee61f1b7b7b7113a45f66b5edabcbd]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Application of provisions of the 1978 Order[^key-bf876472bd5793d572e077d9e47897d0]
+### 24. Application of provisions of the 1978 Order[^c-bf876472bd5793d572e077d9e47897d0]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Offences[^key-a38f466c1c68cf9a53f088d3c4408bf7]
+### 25. Offences[^c-a38f466c1c68cf9a53f088d3c4408bf7]
 
-(1) If any person fails to comply with any provision of regulation 4(1),[^key-a69822950b8d0fd43824010f26535b29] 5, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, or 22, he shall be guilty of an offence.
+(1) If any person fails to comply with any provision of regulation 4(1),[^c-a69822950b8d0fd43824010f26535b29] 5, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, or 22, he shall be guilty of an offence.
 
-(1A)[^key-ff259504faaa48dbbcb9853702faecc0] For the purposes of paragraph (1), a person is not to be regarded as failing to comply with any provision mentioned in that paragraph by reason of anything done, or omitted to be done, by that person in order to comply with a 2001 Act direction.
+(1A)[^c-ff259504faaa48dbbcb9853702faecc0] For the purposes of paragraph (1), a person is not to be regarded as failing to comply with any provision mentioned in that paragraph by reason of anything done, or omitted to be done, by that person in order to comply with a 2001 Act direction.
 
-(2) A person guilty of an offence under paragraph (1) [^key-06d246a21eb5c7f053249fd215bddb36]... is liable—
+(2) A person guilty of an offence under paragraph (1) [^c-06d246a21eb5c7f053249fd215bddb36]... is liable—
 
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both), and
-- (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine [^key-922f98e6606949563081d30302f87da1]... (or both).
+- (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine [^c-922f98e6606949563081d30302f87da1]... (or both).
 
-(2A)[^key-aa2002cf2e484b600625825b61b2da95] In Scotland and Northern Ireland, a fine imposed under paragraph (2)(b) may not exceed the statutory maximum.
+(2A)[^c-aa2002cf2e484b600625825b61b2da95] In Scotland and Northern Ireland, a fine imposed under paragraph (2)(b) may not exceed the statutory maximum.
 
 (3) Proceedings for an offence to which paragraph (2) applies that is committed outside the United Kingdom may be taken, and the offence may for incidental purposes be treated as having been committed, in any place in the United Kingdom.
 
-### 25A. Notification of compliance with a 2001 Act direction[^key-494f11839b8754e3bb316b20f5a9e308]
+### 25A. Notification of compliance with a 2001 Act direction[^c-494f11839b8754e3bb316b20f5a9e308]
 
 (1) Where a person to whom these Regulations apply—
 
@@ -635,16 +635,16 @@ that person must notify the ONR.
 - (b) give details of the relevant 2001 Act direction; and
 - (c) specify the relevant provision.
 
-### 26. Exclusion of defence premises and transports[^key-6dcf3cb0268415f6fc1dd26efba3437a]
+### 26. Exclusion of defence premises and transports[^c-6dcf3cb0268415f6fc1dd26efba3437a]
 
 These Regulations do not apply—
 
 - (a) to any nuclear premises controlled or operated wholly or mainly for the purposes of the department of the Secretary of State with responsibility for defence, or
 - (b) to any transport of nuclear material for the purposes of the department of the Secretary of State with responsibility for defence.
 
-## PART 5A — Transport by ship or hovercraft[^key-8962d467db28d8163057cba48c075e07]
+## PART 5A — Transport by ship or hovercraft[^c-8962d467db28d8163057cba48c075e07]
 
-### 27. Transport by United Kingdom ship[^key-a64d9b85789faf5fd6672f331440f184]
+### 27. Transport by United Kingdom ship[^c-a64d9b85789faf5fd6672f331440f184]
 
 These Regulations apply to transport in a United Kingdom ship whether or not that ship is in the territorial sea of the United Kingdom.
 
@@ -681,7 +681,7 @@ These Regulations apply to transport in a United Kingdom ship whether or not tha
   - (i) is not a United Kingdom ship; and
   - (ii) is owned by the Government of a country outside the United Kingdom or a department or agency of such a Government.
 
-### 28. Application to hovercraft[^key-c130db2026c607c243f2663d085d960d]
+### 28. Application to hovercraft[^c-c130db2026c607c243f2663d085d960d]
 
 (1) Subject to paragraph (3), these Regulations apply as if any reference to a ship (other than in the expression “United Kingdom ship”) included a reference to a hovercraft.
 
@@ -690,16 +690,16 @@ These Regulations apply to transport in a United Kingdom ship whether or not tha
 - (a) within the United Kingdom or its territorial sea, or
 - (b) to or from any nuclear premises in the United Kingdom.
 
-(3)[^key-60fc475b7e8ed614430d77f0e9227667] Regulation 27 applies as if the reference to a United Kingdom ship included a reference to a United Kingdom hovercraft.
+(3)[^c-60fc475b7e8ed614430d77f0e9227667] Regulation 27 applies as if the reference to a United Kingdom ship included a reference to a United Kingdom hovercraft.
 
-(3A)[^key-6f51d085df0f3f71bf123270df62ecad] Paragraphs (2) to (6) of regulation 27A apply as if the references in those paragraphs to a United Kingdom ship included a reference to a United Kingdom hovercraft.
+(3A)[^c-6f51d085df0f3f71bf123270df62ecad] Paragraphs (2) to (6) of regulation 27A apply as if the references in those paragraphs to a United Kingdom ship included a reference to a United Kingdom hovercraft.
 
 (4) In this regulation—
 
 - “hovercraft” has the meaning given in section 4(1) of the Hovercraft Act 1968[^f00015], and
 - “United Kingdom hovercraft” means a hovercraft registered under the Hovercraft (General) Order 1972[^f00016].
 
-### 29. Transport in a ship other than a United Kingdom ship or a hovercraft other than a United Kingdom hovercraft: offences[^key-4de365954f5bf17725f73dfaaeab7983]
+### 29. Transport in a ship other than a United Kingdom ship or a hovercraft other than a United Kingdom hovercraft: offences[^c-4de365954f5bf17725f73dfaaeab7983]
 
 (1) If—
 
@@ -736,7 +736,7 @@ Department of Trade and Industry
 
 26th February 2003
 
-## THE SCHEDULE — CATEGORIES OF NUCLEAR MATERIAL[^key-6cd90980f30592f33acc2fc15dcad034]
+## THE SCHEDULE — CATEGORIES OF NUCLEAR MATERIAL[^c-6cd90980f30592f33acc2fc15dcad034]
 
 Regulation 3(3) and (4).
 
@@ -837,212 +837,212 @@ A regulatory impact assessment in respect of these Regulations may be obtained f
 
 [^f00002]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-cd770a394cb69618a60a72e24852461d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/403) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-cd770a394cb69618a60a72e24852461d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2003/403) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/1) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-80b0d1d50843f9ae4fd271e3eed3d054]: Commencement: Reg. 1 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-80b0d1d50843f9ae4fd271e3eed3d054]: Commencement: Reg. 1 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1996/665](https://www.legislation.gov.uk/uksi/1996/665).
 
-[^key-4acfa7a3777e7eb8b2975aaee9a63b9a]: Commencement: Reg. 2 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-4acfa7a3777e7eb8b2975aaee9a63b9a]: Commencement: Reg. 2 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-647726df3b1589543d4c32e6e4e860a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/i), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-647726df3b1589543d4c32e6e4e860a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/i), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-02c3d206eec6d2974b2d2d6d76981ee7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-02c3d206eec6d2974b2d2d6d76981ee7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-08d28cbcb48dc1f4ee92ae534c8f26fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/ii), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-08d28cbcb48dc1f4ee92ae534c8f26fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/ii), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-8acb910e26685f70b4c02e987587bc0e]: Textual amendment: Word in Regulations substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-8acb910e26685f70b4c02e987587bc0e]: Textual amendment: Word in Regulations substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-e2c40bd3151e0cfa20c2f6930db1085c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/2/1/a)
+[^c-e2c40bd3151e0cfa20c2f6930db1085c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/2/1/a)
 
-[^key-0f5ce01ece63dd47a6ae1102c1488542]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/iii), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-0f5ce01ece63dd47a6ae1102c1488542]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/iii), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-15bb0eb21e6fe80f5e052449326e7c31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-15bb0eb21e6fe80f5e052449326e7c31]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-7543d7c7eaa2a9ba3c49b4f6eacdde23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/1/b)
+[^c-7543d7c7eaa2a9ba3c49b4f6eacdde23]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/1/b)
 
-[^key-b374534b67bca60e3a17025b9a29a68b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/i/aa) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-b374534b67bca60e3a17025b9a29a68b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/i/aa) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-07d10de13bbe955b1ae87b950f804f62]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/i/bb) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-07d10de13bbe955b1ae87b950f804f62]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/i/bb) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-779231ec87b64d06c0d8f37810323199]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/1/c)
+[^c-779231ec87b64d06c0d8f37810323199]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(1)(c)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/1/c)
 
-[^key-a0e2a15331fd45c3b67a01903c9a582e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a0e2a15331fd45c3b67a01903c9a582e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-8d0261409fe7e8e2dc2d5fd233fe2563]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/iii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-8d0261409fe7e8e2dc2d5fd233fe2563]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/iii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-1c98b6a3f04dcc6345c1e7959e35e5b2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/iv) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1c98b6a3f04dcc6345c1e7959e35e5b2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/d/iv) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-6f19dc72e2ed2107578e205c4f722819]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/iv), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-6f19dc72e2ed2107578e205c4f722819]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/iv), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^f00005]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57); section 1(1) is amended by [S.I. 1974/2056](https://www.legislation.gov.uk/uksi/1974/2056), regulation 2 and Schedule 2, and by [S.I. 1990/1918](https://www.legislation.gov.uk/uksi/1990/1918), regulation 2 and the Schedule.
 
-[^key-b60366a23fc3255453d262b3daf46804]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(e)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/e) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-b60366a23fc3255453d262b3daf46804]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(e)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/e) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-154aa9f35c42ae1a1e0ca21d86892db5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/v), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-154aa9f35c42ae1a1e0ca21d86892db5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/v), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-f62aff9b22683a1444db0e049f2f08f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/vi), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f62aff9b22683a1444db0e049f2f08f3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/vi), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-eb56797ab91066c011fe06e17136ceb6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (20.8.2016) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2016 (S.I. 2016/795)](https://www.legislation.gov.uk/uksi/2016/795), [regs. 1](https://www.legislation.gov.uk/uksi/2016/795/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/795/regulation/2/2)
+[^c-eb56797ab91066c011fe06e17136ceb6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (20.8.2016) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2016 (S.I. 2016/795)](https://www.legislation.gov.uk/uksi/2016/795), [regs. 1](https://www.legislation.gov.uk/uksi/2016/795/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/795/regulation/2/2)
 
-[^key-a12d8b770c1df805b59c795a2eaa71cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(f)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/f) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a12d8b770c1df805b59c795a2eaa71cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(2)(f)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/f) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-dbaf4a8ed68e819cc67aa6bf031bd18e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/vii), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-dbaf4a8ed68e819cc67aa6bf031bd18e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 3(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/2/a/vii), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-b5070fcdae66af3090b4a25909be8cdf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/2/1/b)
+[^c-b5070fcdae66af3090b4a25909be8cdf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/2/1/b)
 
-[^key-49781e3079948d3c19ce0a18ae899f87]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1A) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/2)
+[^c-49781e3079948d3c19ce0a18ae899f87]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1A) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/2)
 
-[^key-57f09571ed320f6092bc166419f2aec0]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1A) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/3/2)
+[^c-57f09571ed320f6092bc166419f2aec0]: Textual amendment: Words in [reg. 2(1A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/1A) inserted (W.) (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [3(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/3/2)
 
-[^key-b45a7e6fd898193d56e6f3f9eb3580f7]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/2/a) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-b45a7e6fd898193d56e6f3f9eb3580f7]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/2/a) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-345c18f1860235bda52489f88842c20d]: Textual amendment: [Reg. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/2/aa) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/3)
+[^c-345c18f1860235bda52489f88842c20d]: Textual amendment: [Reg. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/2/aa) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/190/regulation/3/3)
 
-[^key-0c7bb2a2650e9ffcf7fe380a80601a77]: Textual amendment: Words in [reg. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/2/aa) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-0c7bb2a2650e9ffcf7fe380a80601a77]: Textual amendment: Words in [reg. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/2/aa) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-579c82cf8bb266124283fa4518b774eb]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/4) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/2/2)
+[^c-579c82cf8bb266124283fa4518b774eb]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/4) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/2/2)
 
-[^key-f2db5b02a55b69c8c1e21a6083847b90]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/4) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f2db5b02a55b69c8c1e21a6083847b90]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2003/403/regulation/2/4) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/3/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-c0babd08613cda72c6824eb5d15db4c6]: Commencement: Reg. 3 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-c0babd08613cda72c6824eb5d15db4c6]: Commencement: Reg. 3 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-96b3f8739ad93613f524d9b4c07f8d8c]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/3/5/b) substituted (20.8.2016) by [The Nuclear Industries Security (Amendment) Regulations 2016 (S.I. 2016/795)](https://www.legislation.gov.uk/uksi/2016/795), [regs. 1](https://www.legislation.gov.uk/uksi/2016/795/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/795/regulation/2/3/a)
+[^c-96b3f8739ad93613f524d9b4c07f8d8c]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/3/5/b) substituted (20.8.2016) by [The Nuclear Industries Security (Amendment) Regulations 2016 (S.I. 2016/795)](https://www.legislation.gov.uk/uksi/2016/795), [regs. 1](https://www.legislation.gov.uk/uksi/2016/795/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2016/795/regulation/2/3/a)
 
-[^key-746c27584a030f54aff1404529e7ab26]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/3/5/b) substituted (20.8.2016) by [The Nuclear Industries Security (Amendment) Regulations 2016 (S.I. 2016/795)](https://www.legislation.gov.uk/uksi/2016/795), [regs. 1](https://www.legislation.gov.uk/uksi/2016/795/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/795/regulation/2/3/b)
+[^c-746c27584a030f54aff1404529e7ab26]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/3/5/b) substituted (20.8.2016) by [The Nuclear Industries Security (Amendment) Regulations 2016 (S.I. 2016/795)](https://www.legislation.gov.uk/uksi/2016/795), [regs. 1](https://www.legislation.gov.uk/uksi/2016/795/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2016/795/regulation/2/3/b)
 
-[^key-613f0c7496b142bddb4b426d111e5860]: Commencement: Reg. 4 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-613f0c7496b142bddb4b426d111e5860]: Commencement: Reg. 4 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-5498bc5167002b14f489b53e991782e0]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/1) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/463/regulation/3/a)
+[^c-5498bc5167002b14f489b53e991782e0]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/1) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/463/regulation/3/a)
 
-[^key-a6f566f8ad9563e9e477c3fc9ee75bea]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/c) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/2815/regulation/3)
+[^c-a6f566f8ad9563e9e477c3fc9ee75bea]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/c) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/2815/regulation/3)
 
-[^key-f8e29b5eb9cf0e021cf8ac7b74942166]: Textual amendment: Words in [reg. 4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/e/ii) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/2815/regulation/3)
+[^c-f8e29b5eb9cf0e021cf8ac7b74942166]: Textual amendment: Words in [reg. 4(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/e/ii) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/2815/regulation/3)
 
-[^key-4836b4939564d8e93e4be2d7abcef15b]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/f) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/4/2)
+[^c-4836b4939564d8e93e4be2d7abcef15b]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/f) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/4/2)
 
-[^key-e478cde83a63bc5baae4a46ca277451f]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/f) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-e478cde83a63bc5baae4a46ca277451f]: Textual amendment: Words in [reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/2/f) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-5f27b57f481362ef86b59d4141bf46b2]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3/d) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/463/regulation/3/b)
+[^c-5f27b57f481362ef86b59d4141bf46b2]: Textual amendment: Words in [reg. 4(3)(d)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3/d) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/463/regulation/3/b)
 
-[^key-08b8f5040d817be5a66e168a031c498c]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/190/regulation/4/3)
+[^c-08b8f5040d817be5a66e168a031c498c]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2013/190/regulation/4/3)
 
-[^key-a4ca91f5de4ab91d2de7aee46ed3d888]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A/a) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a4ca91f5de4ab91d2de7aee46ed3d888]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A/a) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/b/i) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-ce5f5b047494b3e7c8a1b1841daeb38a]: Textual amendment: Words in [reg. 4(3A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A) substituted (31.3.2014) by [The Nuclear Industries Security (Amendment) and Nuclear Security (Prescribed Material) Regulations 2014 (S.I. 2014/526)](https://www.legislation.gov.uk/uksi/2014/526), [regs. 1](https://www.legislation.gov.uk/uksi/2014/526/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/526/regulation/3)
+[^c-ce5f5b047494b3e7c8a1b1841daeb38a]: Textual amendment: Words in [reg. 4(3A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A) substituted (31.3.2014) by [The Nuclear Industries Security (Amendment) and Nuclear Security (Prescribed Material) Regulations 2014 (S.I. 2014/526)](https://www.legislation.gov.uk/uksi/2014/526), [regs. 1](https://www.legislation.gov.uk/uksi/2014/526/regulation/1), [3](https://www.legislation.gov.uk/uksi/2014/526/regulation/3)
 
-[^key-d8376af40d8337f284adf656c4028be3]: Textual amendment: Words in [reg. 4(3A)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d8376af40d8337f284adf656c4028be3]: Textual amendment: Words in [reg. 4(3A)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/3A/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/b/ii) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-f8bb1c691d3f15da480f069b37b9635a]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/4) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 4(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/c), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f8bb1c691d3f15da480f069b37b9635a]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2003/403/regulation/4/4) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 4(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/4/c), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-995b852bbcac316e9f22ee80fb65cef4]: Commencement: Reg. 5 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-995b852bbcac316e9f22ee80fb65cef4]: Commencement: Reg. 5 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-7edb1cd80617da8109569f34ead7d8ee]: Textual amendment: Words in Regulations substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-7edb1cd80617da8109569f34ead7d8ee]: Textual amendment: Words in Regulations substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/2/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-6613a126d950c84ab6b365c3442b6062]: Commencement: Reg. 6 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-6613a126d950c84ab6b365c3442b6062]: Commencement: Reg. 6 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-b43528007250d2c6828dfd43a42c6ee5]: Commencement: Reg. 7 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-b43528007250d2c6828dfd43a42c6ee5]: Commencement: Reg. 7 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-3e294c8503eec06b88fb34e0f43c2e08]: Commencement: Reg. 8 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-3e294c8503eec06b88fb34e0f43c2e08]: Commencement: Reg. 8 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-ed295ae65bf752577f46f1d0b1842641]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/8/1) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/190/regulation/5)
+[^c-ed295ae65bf752577f46f1d0b1842641]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/8/1) inserted (28.2.2013) by [The Nuclear Industries Security (Amendment) Regulations 2013 (S.I. 2013/190)](https://www.legislation.gov.uk/uksi/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/190/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2013/190/regulation/5)
 
-[^key-ba72dc2997bc1f7c8b156ee6c4c8858b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/8/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-ba72dc2997bc1f7c8b156ee6c4c8858b]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/8/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 5(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-c2c191eea41bb514dc1bfe0e3f75b40f]: Textual amendment: [Reg. 8(9)](https://www.legislation.gov.uk/uksi/2003/403/regulation/8/9) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 5(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/5/b), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-c2c191eea41bb514dc1bfe0e3f75b40f]: Textual amendment: [Reg. 8(9)](https://www.legislation.gov.uk/uksi/2003/403/regulation/8/9) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 5(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/5/b), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-9ab14f2c9346e016a3b903cd6fcc565b]: Commencement: Reg. 9 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-9ab14f2c9346e016a3b903cd6fcc565b]: Commencement: Reg. 9 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-f466dd1c452fbcc0f32f9c584822d2ac]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2003/403/regulation/9) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/463/regulation/4)
+[^c-f466dd1c452fbcc0f32f9c584822d2ac]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2003/403/regulation/9) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/463/regulation/4)
 
-[^key-9ed163e77f72e657e287c9ade7f7b4af]: Commencement: Reg. 10 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-9ed163e77f72e657e287c9ade7f7b4af]: Commencement: Reg. 10 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-dbb66ee5847c2e688507432c08b60f4d]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/10/2) substituted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2815/regulation/4)
+[^c-dbb66ee5847c2e688507432c08b60f4d]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/10/2) substituted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2815/regulation/4)
 
-[^key-826a3678351ba0b4050122cb73c9a180]: Commencement: Reg. 11 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-826a3678351ba0b4050122cb73c9a180]: Commencement: Reg. 11 in force at 22.3.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-05601dc7d740da39b71e1f54ca828dfe]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/11/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/6/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-05601dc7d740da39b71e1f54ca828dfe]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/11/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/6/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-7f224d55f90b550c17019f69501a2751]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/11/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/6/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-7f224d55f90b550c17019f69501a2751]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/11/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/6/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-f3d65eb39263f8278eb08136a77fb847]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/403/regulation/12) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 7](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/7), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-f3d65eb39263f8278eb08136a77fb847]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/403/regulation/12) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 7](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/7), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-7a30fabcce1a1e6d4c991d96636cfe62]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/403/regulation/13) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-7a30fabcce1a1e6d4c991d96636cfe62]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/403/regulation/13) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-e7c27be70580bb69d010ad8281acf262]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/403/regulation/14) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-e7c27be70580bb69d010ad8281acf262]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/403/regulation/14) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-8795df1e87371ef804208734742573cb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/403/regulation/15) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-8795df1e87371ef804208734742573cb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/403/regulation/15) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-df1a2582594faff5624771799a9cd9c5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/403/regulation/16) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-df1a2582594faff5624771799a9cd9c5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/403/regulation/16) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-5b83bfc253fb8350b2967db22083b09b]: Textual amendment: Words in [reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/2003/403/regulation/16/3/c) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/463/regulation/5)
+[^c-5b83bfc253fb8350b2967db22083b09b]: Textual amendment: Words in [reg. 16(3)(c)](https://www.legislation.gov.uk/uksi/2003/403/regulation/16/3/c) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/463/regulation/5)
 
-[^key-b3aee2cfdb731d196b3adc7d8040f9b4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/403/regulation/17) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-b3aee2cfdb731d196b3adc7d8040f9b4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/403/regulation/17) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-fb0192ba77cfa49d7803a87c5671b72b]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/17/3) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/463/regulation/6)
+[^c-fb0192ba77cfa49d7803a87c5671b72b]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/17/3) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/463/regulation/6)
 
-[^key-69c40eb31f1533c34ae2a49c2fc91ada]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2003/403/regulation/18) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-69c40eb31f1533c34ae2a49c2fc91ada]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2003/403/regulation/18) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-2c25638e252582e0864dff3796dc50af]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/18/2) substituted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2006/2815/regulation/5)
+[^c-2c25638e252582e0864dff3796dc50af]: Textual amendment: Word in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/18/2) substituted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2006/2815/regulation/5)
 
-[^key-dd05da1a6a8213296376c2c5d503f536]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/403/regulation/19) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-dd05da1a6a8213296376c2c5d503f536]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/403/regulation/19) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-a941e4e5e0b52a296eefcf13a9beaef2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/403/regulation/20) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-a941e4e5e0b52a296eefcf13a9beaef2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/403/regulation/20) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-4264fdd40a19aa3493192161f5ae2ff7]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2003/403/regulation/20/5) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2006/2815/regulation/6)
+[^c-4264fdd40a19aa3493192161f5ae2ff7]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/2003/403/regulation/20/5) inserted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2006/2815/regulation/6)
 
-[^key-e63cdbb15891c33e66075b4c3d54f209]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2003/403/regulation/21) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-e63cdbb15891c33e66075b4c3d54f209]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2003/403/regulation/21) in force at 22.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-e61b8ab2c6f6ef564cb74446c33ef711]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/21/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/8/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-e61b8ab2c6f6ef564cb74446c33ef711]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/21/1) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/8/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-b27b1a9ee8aa39f3f15f80860012dfb5]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/21/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/8/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-b27b1a9ee8aa39f3f15f80860012dfb5]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/21/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/8/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-20a3889560e0cb72f6faaddc656aebc9]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2003/403/part/4) substituted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2006/2815/regulation/7)
+[^c-20a3889560e0cb72f6faaddc656aebc9]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2003/403/part/4) substituted (25.11.2006) by [The Nuclear Industries Security (Amendment) Regulations 2006 (S.I. 2006/2815)](https://www.legislation.gov.uk/uksi/2006/2815), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2815/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2006/2815/regulation/7)
 
-[^key-33517051e059951242e9e498cbdfe825]: Textual amendment: Word in [reg. 22(5)(a)(i)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/5/a/i) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/a/i)
+[^c-33517051e059951242e9e498cbdfe825]: Textual amendment: Word in [reg. 22(5)(a)(i)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/5/a/i) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/a/i)
 
-[^key-b154e25eb34b6a22a873c8894dfd7bb4]: Textual amendment: [Reg. 22(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/5/a/ii) omitted (31.3.2017) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/a/ii)
+[^c-b154e25eb34b6a22a873c8894dfd7bb4]: Textual amendment: [Reg. 22(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/5/a/ii) omitted (31.3.2017) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/a/ii)
 
-[^key-034ee14bc7c4d234d4d2dd187d7e6de1]: Textual amendment: Words in [reg. 22(7)(d)(i)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/7/d/i) omitted (31.3.2017) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/b/i)
+[^c-034ee14bc7c4d234d4d2dd187d7e6de1]: Textual amendment: Words in [reg. 22(7)(d)(i)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/7/d/i) omitted (31.3.2017) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/b/i)
 
-[^key-28f7dd5526462960fee9ce8c20dbbd29]: Textual amendment: Words in [reg. 22(7)(d)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/7/d) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/b/ii)
+[^c-28f7dd5526462960fee9ce8c20dbbd29]: Textual amendment: Words in [reg. 22(7)(d)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/7/d) substituted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2017/463/regulation/7/b/ii)
 
-[^key-4214d11d47ad9fe79ecd47594518a62e]: Textual amendment: [Reg. 22(7A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/7A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/9) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-4214d11d47ad9fe79ecd47594518a62e]: Textual amendment: [Reg. 22(7A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/22/7A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/9) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-8eee61f1b7b7b7113a45f66b5edabcbd]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/403/regulation/23) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/10), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-8eee61f1b7b7b7113a45f66b5edabcbd]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/403/regulation/23) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/10), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-bf876472bd5793d572e077d9e47897d0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/403/regulation/24) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/10), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-bf876472bd5793d572e077d9e47897d0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/403/regulation/24) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/10), [210](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/210) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-a38f466c1c68cf9a53f088d3c4408bf7]: Commencement: Reg. 25 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-a38f466c1c68cf9a53f088d3c4408bf7]: Commencement: Reg. 25 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-a69822950b8d0fd43824010f26535b29]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/1) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2017/463/regulation/8/a)
+[^c-a69822950b8d0fd43824010f26535b29]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/1) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2017/463/regulation/8/a)
 
-[^key-ff259504faaa48dbbcb9853702faecc0]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/1A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/11/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-ff259504faaa48dbbcb9853702faecc0]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/1A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/11/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-06d246a21eb5c7f053249fd215bddb36]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/2) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/11/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-06d246a21eb5c7f053249fd215bddb36]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/2) omitted (1.4.2014) by virtue of [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/11/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-922f98e6606949563081d30302f87da1]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/2/b) omitted (31.3.2017) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2017/463/regulation/8/b)
+[^c-922f98e6606949563081d30302f87da1]: Textual amendment: Words in [reg. 25(2)(b)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/2/b) omitted (31.3.2017) by virtue of [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2017/463/regulation/8/b)
 
-[^key-aa2002cf2e484b600625825b61b2da95]: Textual amendment: [Reg. 25(2A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/2A) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2017/463/regulation/8/c)
+[^c-aa2002cf2e484b600625825b61b2da95]: Textual amendment: [Reg. 25(2A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/25/2A) inserted (31.3.2017) by [The Nuclear Industries Security (Amendment) Regulations 2017 (S.I. 2017/463)](https://www.legislation.gov.uk/uksi/2017/463), [regs. 1](https://www.legislation.gov.uk/uksi/2017/463/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2017/463/regulation/8/c)
 
-[^key-494f11839b8754e3bb316b20f5a9e308]: Textual amendment: Reg. 25A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/12) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-494f11839b8754e3bb316b20f5a9e308]: Textual amendment: Reg. 25A inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/12) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-6dcf3cb0268415f6fc1dd26efba3437a]: Commencement: Reg. 26 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-6dcf3cb0268415f6fc1dd26efba3437a]: Commencement: Reg. 26 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-8962d467db28d8163057cba48c075e07]: Textual amendment: Pt. 5A heading inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/13) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-8962d467db28d8163057cba48c075e07]: Textual amendment: Pt. 5A heading inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/13) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-a64d9b85789faf5fd6672f331440f184]: Textual amendment: Regs. 27, 27A substituted for reg. 27 (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a64d9b85789faf5fd6672f331440f184]: Textual amendment: Regs. 27, 27A substituted for reg. 27 (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/14) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-c130db2026c607c243f2663d085d960d]: Commencement: Reg. 28 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-c130db2026c607c243f2663d085d960d]: Commencement: Reg. 28 in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
 
-[^key-60fc475b7e8ed614430d77f0e9227667]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/28/3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/15/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-60fc475b7e8ed614430d77f0e9227667]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2003/403/regulation/28/3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/15/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-6f51d085df0f3f71bf123270df62ecad]: Textual amendment: [Reg. 28(3A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/28/3A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/15/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-6f51d085df0f3f71bf123270df62ecad]: Textual amendment: [Reg. 28(3A)](https://www.legislation.gov.uk/uksi/2003/403/regulation/28/3A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/15/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^f00015]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
 [^f00016]: Footnote: [S.I. 1972/674](https://www.legislation.gov.uk/uksi/1972/674).
 
-[^key-4de365954f5bf17725f73dfaaeab7983]: Textual amendment: Regs. 29, 30 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/16) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-4de365954f5bf17725f73dfaaeab7983]: Textual amendment: Regs. 29, 30 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/16) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-6cd90980f30592f33acc2fc15dcad034]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2003/403/schedule) in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)
+[^c-6cd90980f30592f33acc2fc15dcad034]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2003/403/schedule) in force at 22.3.2003 for specified purposes and 22.9.2003 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/403/regulation/1/2)

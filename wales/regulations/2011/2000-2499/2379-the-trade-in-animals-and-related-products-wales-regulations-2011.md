@@ -49,7 +49,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 
 In accordance with section 56(1) of the Finance Act 1973 [^c21064441], the Treasury consent to the making of these Regulations.
 
-The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.[^key-d448afd13fb89f75706523c0ed57c942]
+The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972.[^c-d448afd13fb89f75706523c0ed57c942]
 
 ## PART 1 — Introduction
 
@@ -61,40 +61,40 @@ The title of these Regulations is the Trade in Animals and Related Products (Wal
 
 (1) In these Regulations—
 
-- “[^key-e95a9814954b0bbe98535f69cc9f70b3]**the TARP (ALF) (Wales) (EU Exit) Regulations 2022**” (“***Rheoliadau’r FAChP (DSD) (Cymru) (Ymadael â’r UE) 2022***”) means the Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022;
+- “[^c-e95a9814954b0bbe98535f69cc9f70b3]**the TARP (ALF) (Wales) (EU Exit) Regulations 2022**” (“***Rheoliadau’r FAChP (DSD) (Cymru) (Ymadael â’r UE) 2022***”) means the Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022;
 - “**animal**” (“***anifail***”) means an animal of any kind, including a bird, fish or invertebrate;
-- “appropriate computerised information management system” (“[^key-b77be787e6d847e0213b58387b7fe4eb]*system rheoli gwybodaeth gyfrifiadurol briodol*”) means the computerised information management system for official controls referred to in Article 131 of the Official Controls Regulation;
+- “appropriate computerised information management system” (“[^c-b77be787e6d847e0213b58387b7fe4eb]*system rheoli gwybodaeth gyfrifiadurol briodol*”) means the computerised information management system for official controls referred to in Article 131 of the Official Controls Regulation;
 - “border control post” (“*safle rheoli ar y ffin*”) has the meaning given in regulation 11;
 - “CHED” (“*DMIG*”) has the meaning given in regulation 10;
 - “**enforcement authority**” (“***awdurdod gorfodi***”) has the meaning given in regulation 31;
-- “[^key-10160ee370ec0efd3211b288f1bd45d2]**genetic material**” (“***deunydd genetig***”) means any germinal product that includes semen, oocytes and embryos intended for artificial reproduction and hatching eggs;
-- “[^key-5be71e640a65bd11f9cf3db5413400b7]**health certificate**” (“***tystysgrif iechyd***”) in these Regulations includes the equivalent of a health certificate in electronic or digital form[^key-6f4c454ee720254eb1dda1bc80306070];
-- “**importer**” (“***mewnforiwr***”) means the natural or legal person who presents animals or products for importation from outside the British Islands[^key-c70494d9e60afb65d7b8429f0e4a64a8];
-- “**intensified official controls**” (“***rheolaethau swyddogol dwysach***”) means those controls carried out in accordance with Article 65(4) of the Official Controls Regulation[^key-6e1ff7ea959392ad2c666f1ee8b264f9];
+- “[^c-10160ee370ec0efd3211b288f1bd45d2]**genetic material**” (“***deunydd genetig***”) means any germinal product that includes semen, oocytes and embryos intended for artificial reproduction and hatching eggs;
+- “[^c-5be71e640a65bd11f9cf3db5413400b7]**health certificate**” (“***tystysgrif iechyd***”) in these Regulations includes the equivalent of a health certificate in electronic or digital form[^c-6f4c454ee720254eb1dda1bc80306070];
+- “**importer**” (“***mewnforiwr***”) means the natural or legal person who presents animals or products for importation from outside the British Islands[^c-c70494d9e60afb65d7b8429f0e4a64a8];
+- “**intensified official controls**” (“***rheolaethau swyddogol dwysach***”) means those controls carried out in accordance with Article 65(4) of the Official Controls Regulation[^c-6e1ff7ea959392ad2c666f1ee8b264f9];
 - “**local authority**” (“***awdurdod lleol***”) means in relation to an area, the county or county borough council for that area;
-- “**official controls**” (“***rheolaethau swyddogol***”) means activities performed in accordance with Article 2(1) of the Official Controls Regulation[^key-340c335e693efa5d9b13fe9b6592bbca];
-- “[^key-23c62459e408166ce2eb519dbb69614e]**official fish inspector**” (“*arolygydd pysgod swyddogol*”) means a suitably trained person appointed in accordance with regulation 12;
+- “**official controls**” (“***rheolaethau swyddogol***”) means activities performed in accordance with Article 2(1) of the Official Controls Regulation[^c-340c335e693efa5d9b13fe9b6592bbca];
+- “[^c-23c62459e408166ce2eb519dbb69614e]**official fish inspector**” (“*arolygydd pysgod swyddogol*”) means a suitably trained person appointed in accordance with regulation 12;
 - “**official veterinary surgeon**” (“*milfeddyg swyddogol”*) means a suitably trained veterinary surgeon appointed in accordance with regulation 12;
 - “**port health authority**” (“***awdurdod iechyd porthladd***”) means in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984, a port health authority for that district constituted by order under section 2(4) of that Act;
 - “**premises**” (“***mangre***”) includes any place, vehicle, trailer, container, stall, moveable structure, ship or aircraft;
-- “[^key-add4785d31302faee59daec994dc75b6]**product**” (“***cynnyrch***”) means—
+- “[^c-add4785d31302faee59daec994dc75b6]**product**” (“***cynnyrch***”) means—
   - (a) any product of animal origin, germinal product, animal by-product, derived product or hay or straw subject to official controls at border control posts, and
-  - (b) any composite product listed in Commission Decision 2007/275 concerning lists of animals and products to be subject to official controls at border control[^key-7f4cba6b68841618c42641a03052e67f] posts;
+  - (b) any composite product listed in Commission Decision 2007/275 concerning lists of animals and products to be subject to official controls at border control[^c-7f4cba6b68841618c42641a03052e67f] posts;
 - “third country” (“*trydedd wlad*”) means any country or territory other than the British Islands
-- “the transitional staging period” (“[^key-5583655dc50780cfe020e133da21067d]*y**cyfnod graddoli trosiannol*”) has the meaning given in Annex 6 to the Official Controls Regulation.
+- “the transitional staging period” (“[^c-5583655dc50780cfe020e133da21067d]*y**cyfnod graddoli trosiannol*”) has the meaning given in Annex 6 to the Official Controls Regulation.
 
-(2)[^key-eee9baeecfc9a18546138f7bc1b0ea61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eee9baeecfc9a18546138f7bc1b0ea61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c17dc1585b2f3a119647e337068402ee] In these Regulations,—
+(3)[^c-c17dc1585b2f3a119647e337068402ee] In these Regulations,—
 
-- (a) “[^key-a58c6166a3ea3fbd4a495f2a4539a6d2] **Official Controls Regulation** ” (“***Rheoliad Rheolaethau Swyddogol***”) is a reference to Regulation [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
+- (a) “[^c-a58c6166a3ea3fbd4a495f2a4539a6d2] **Official Controls Regulation** ” (“***Rheoliad Rheolaethau Swyddogol***”) is a reference to Regulation [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
 - (b) “**Regulation (EU) No. 2016/1012**” (“***Rheoliad (EU) Rhif 2016/1012***”) is a reference to Regulation [(EU) No. 2016/1012](https://www.legislation.gov.uk/eur/2016/1012) on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof [^c21064471];
 - (c) any reference to a “**border inspection post**” (“***arolygfa ffin***”) is to be read as a reference to a “border control post” (“*safle rheoli ar y ffin*”) as defined in regulation 11; and
-- (d)[^key-ee2eaa0b5cfba9ab251300eef14a4692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ee2eaa0b5cfba9ab251300eef14a4692] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-38b4066152ab1a4874944530dcc77a5e] The terms used in Schedule 6 have the same meaning as in [Commission Regulation (EU) No 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142).
+(4)[^c-38b4066152ab1a4874944530dcc77a5e] The terms used in Schedule 6 have the same meaning as in [Commission Regulation (EU) No 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142).
 
-### 3. Pet animals[^key-9c67d00dda8b915cb29eb7676064c2fc][^key-1a1ffb9ab116ddb29f9a2b5452510577]
+### 3. Pet animals[^c-9c67d00dda8b915cb29eb7676064c2fc][^c-1a1ffb9ab116ddb29f9a2b5452510577]
 
 (1) These Regulations do not apply in relation to pet animals where—
 
@@ -103,7 +103,7 @@ The title of these Regulations is the Trade in Animals and Related Products (Wal
   - (i) the pet animal is accompanying the owner or authorised person, or
   - (ii) where more than five pet animals are accompanying the owner or authorised person, the conditions set out in Article 5(2) of the Pets Regulation are fulfilled.
 
-(1A)[^key-9e2b21317a55b3fb1b37f917ada7e4d1] In addition to the requirements of these Regulations, dogs, cats and ferrets not exempted by paragraph (1) must not be moved into Wales from a third country unless they comply with the requirements set out in—
+(1A)[^c-9e2b21317a55b3fb1b37f917ada7e4d1] In addition to the requirements of these Regulations, dogs, cats and ferrets not exempted by paragraph (1) must not be moved into Wales from a third country unless they comply with the requirements set out in—
 
 - (a) points (a) to (d) of Article 10(1), subject to paragraph (1) of Article 12, of the Pets Regulation; and
 - (b) [Commission Implementing Decision (EU) 2019/294](https://www.legislation.gov.uk/european/decision/2019/0294) laying down the list of territories and third countries authorised for imports of dogs, cats and ferrets and the model animal health certificate for such imports.
@@ -115,27 +115,27 @@ The title of these Regulations is the Trade in Animals and Related Products (Wal
 - “**pet animal**” (“***anifail anwes***”) has the same meaning as in Article 4(11) of Regulation [(EU) 2016/429](https://www.legislation.gov.uk/eur/2016/429) on transmissible animal diseases [^c21064481];
 - “**the Pets Regulation**” (“***y Rheoliad Anifeiliaid Anwes***”) means Regulation [(EU) No. 576/2013](https://www.legislation.gov.uk/eur/576/2013) [^c21064491] of the European Parliament and of the Council on the non-commercial movement of pet animals and repealing Regulation [(EC) No. 998/2003](https://www.legislation.gov.uk/eur/2003/0998).
 
-### 4. International agreements[^key-79d8dd17363207ac42d58d55a563ba3c]
+### 4. International agreements[^c-79d8dd17363207ac42d58d55a563ba3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Movement between member States[^key-ed8832bf8ed134e8f3145de086d5dc7f]
+## PART 2 — Movement between member States[^c-ed8832bf8ed134e8f3145de086d5dc7f]
 
 **No longer in force.**
 
-### 5. Movement of animals or genetic material to or from member States[^key-ed8832bf8ed134e8f3145de086d5dc7f]
+### 5. Movement of animals or genetic material to or from member States[^c-ed8832bf8ed134e8f3145de086d5dc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Preparation of a health certificate[^key-ed8832bf8ed134e8f3145de086d5dc7f]
+### 6. Preparation of a health certificate[^c-ed8832bf8ed134e8f3145de086d5dc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Notification of movement of animals and genetic material to and from member States[^key-ed8832bf8ed134e8f3145de086d5dc7f]
+### 7. Notification of movement of animals and genetic material to and from member States[^c-ed8832bf8ed134e8f3145de086d5dc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Additional requirements in specific cases[^key-ed8832bf8ed134e8f3145de086d5dc7f]
+### 8. Additional requirements in specific cases[^c-ed8832bf8ed134e8f3145de086d5dc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -143,25 +143,25 @@ The title of these Regulations is the Trade in Animals and Related Products (Wal
 
 ### 9. Scope of this Part
 
-Subject to regulation 26, this Part[^key-31ecc865447658acf17d0e0d2690e6b7] applies in relation to the importation into Wales from a third country[^key-b094d0d51c5d60c5fe84d7056231f5da] of any animal or product subject to official controls at border control posts[^key-f62fb50a2a93a315603caef1d6210a36].
+Subject to regulation 26, this Part[^c-31ecc865447658acf17d0e0d2690e6b7] applies in relation to the importation into Wales from a third country[^c-b094d0d51c5d60c5fe84d7056231f5da] of any animal or product subject to official controls at border control posts[^c-f62fb50a2a93a315603caef1d6210a36].
 
-### 10. Meaning and use of Common Health Entry Document “CHED”[^key-453bb024a270d8bf7fa79a19b98daf64]
+### 10. Meaning and use of Common Health Entry Document “CHED”[^c-453bb024a270d8bf7fa79a19b98daf64]
 
-(1) A “**Common Health Entry Document**” (“CHED”) (“***Dogfen Mynediad Iechyd Gyffredin***” (“*DMIG*”)) means a document, or an electronic or digital equivalent[^key-619a11df0b63a003bf77968ccf3f9cef], in the format specified in Commission Implementing Regulation (EU) [(EU) 2019/1715](https://www.legislation.gov.uk/eur/2019/1715) laying down rules for the functioning of the information management system for official controls and its system components [^c21064511].
+(1) A “**Common Health Entry Document**” (“CHED”) (“***Dogfen Mynediad Iechyd Gyffredin***” (“*DMIG*”)) means a document, or an electronic or digital equivalent[^c-619a11df0b63a003bf77968ccf3f9cef], in the format specified in Commission Implementing Regulation (EU) [(EU) 2019/1715](https://www.legislation.gov.uk/eur/2019/1715) laying down rules for the functioning of the information management system for official controls and its system components [^c21064511].
 
 (2) Where the imported consignment is required to be accompanied by a CHED to the premises of final destination, the operator responsible for the consignment must complete the relevant parts of the document prior to the physical arrival of the consignment.
 
 (3) The cases where and conditions under which the use of a CHED is required are specified in Commission Delegated Regulation [(EU) 2019/1602](https://www.legislation.gov.uk/eur/2019/1602) supplementing Regulation [(EU) 2017/625](https://www.legislation.gov.uk/eur/2017/625) of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination [^c21064521].
 
-(4) Where a CHED is required, the operator responsible for the consignment must comply with the provisions of Article 56 of the Official Controls Regulation[^key-5d7a5d5d39545b27399630791477b2c4].
+(4) Where a CHED is required, the operator responsible for the consignment must comply with the provisions of Article 56 of the Official Controls Regulation[^c-5d7a5d5d39545b27399630791477b2c4].
 
-(5)[^key-406aa9e5f6e2a8be6d0d86536eb9afd4] An electronic or digital equivalent refers to a CHED which is capable of being produced by the person responsible for the consignment at any time by electronic means or by use of a unique digital identifier, as defined in Article 3(27A) of the Official Controls Regulation.
+(5)[^c-406aa9e5f6e2a8be6d0d86536eb9afd4] An electronic or digital equivalent refers to a CHED which is capable of being produced by the person responsible for the consignment at any time by electronic means or by use of a unique digital identifier, as defined in Article 3(27A) of the Official Controls Regulation.
 
-### 11. Border control posts[^key-4f7e679c7634da7553db8ce922b0eef3]
+### 11. Border control posts[^c-4f7e679c7634da7553db8ce922b0eef3]
 
-(1) A border control post is a place, together with the facilities contained at that place, that has been designated by the Welsh Ministers in accordance with Article 59 of the Official Controls Regulation[^key-5236676959d25697a1c203c36dc3844e].
+(1) A border control post is a place, together with the facilities contained at that place, that has been designated by the Welsh Ministers in accordance with Article 59 of the Official Controls Regulation[^c-5236676959d25697a1c203c36dc3844e].
 
-(2) If at any time the relevant authority is of the opinion that any part of the inspection facilities at the border control post no longer complies with the requirements for approval, the relevant authority may, in accordance with Articles 61 to 63 of the Official Controls Regulation[^key-4d0aa8720166442e7a0486f2397115c9], serve a notice on the operator—
+(2) If at any time the relevant authority is of the opinion that any part of the inspection facilities at the border control post no longer complies with the requirements for approval, the relevant authority may, in accordance with Articles 61 to 63 of the Official Controls Regulation[^c-4d0aa8720166442e7a0486f2397115c9], serve a notice on the operator—
 
 - (a) specifying the breach;
 - (b) providing a time limit within which the conditions must be complied with; and
@@ -169,7 +169,7 @@ Subject to regulation 26, this Part[^key-31ecc865447658acf17d0e0d2690e6b7] appli
 
 (3) If the notice is not complied with, the Welsh Ministers may suspend the approval in relation to that part of the inspection facilities.
 
-(4) If the operator of a border control post is determined by the relevant authority to be in serious breach relating to the performance requirements of official controls for any of the categories of animal or product for which it has been designated, or the conditions of the approval, or if the operation of the border control post creates a risk to human or animal health or animal welfare, the Welsh Ministers must suspend the approval of the border control post and order its activities to cease for all, or specified, categories of animal or product[^key-076f2455ef8d22f15776f890d7680dba]....
+(4) If the operator of a border control post is determined by the relevant authority to be in serious breach relating to the performance requirements of official controls for any of the categories of animal or product for which it has been designated, or the conditions of the approval, or if the operation of the border control post creates a risk to human or animal health or animal welfare, the Welsh Ministers must suspend the approval of the border control post and order its activities to cease for all, or specified, categories of animal or product[^c-076f2455ef8d22f15776f890d7680dba]....
 
 (5) In paragraph (2), “**the relevant authority**” (“***yr awdurdod perthnasol***”) means—
 
@@ -178,45 +178,45 @@ Subject to regulation 26, this Part[^key-31ecc865447658acf17d0e0d2690e6b7] appli
 
 ### 12. Appointment of official veterinary surgeons and official fish inspectors
 
-(1) The Welsh Ministers must appoint suitably trained veterinary surgeons to be official veterinary surgeons for any border control post[^key-ebb911179a940967753d78efd7dff9ac] authorised to import animals.
+(1) The Welsh Ministers must appoint suitably trained veterinary surgeons to be official veterinary surgeons for any border control post[^c-ebb911179a940967753d78efd7dff9ac] authorised to import animals.
 
 (2) The local authority for an area with a border control post authorised to import products must appoint suitably trained veterinary surgeons to be official veterinary surgeons for that post.
 
 (3) The appointment under paragraph (2) may be made by the Welsh Ministers rather than the local authority if the approval for the border control post only permits the importation of animal by-products.
 
-(4)[^key-60800334db44918d9610ef93ffa8dbcf] If the approval for the border control post permits the importation of any fishery products, aquatic invertebrates, live bivalve molluscs, live echinoderms, live tunicates and live marine gastropods and composite products containing processed fishery products intended for human consumption, the enforcement authority[^key-26de7dbf3f186db71784e8b90b418283] may appoint suitably trained environmental health officers or other persons who are appropriately trained to perform official controls or certain tasks related to other official activities, to be official fish inspectors for that post in relation to such products, and any such official fish inspector has all the powers of an official veterinary surgeon in relation to those products.
+(4)[^c-60800334db44918d9610ef93ffa8dbcf] If the approval for the border control post permits the importation of any fishery products, aquatic invertebrates, live bivalve molluscs, live echinoderms, live tunicates and live marine gastropods and composite products containing processed fishery products intended for human consumption, the enforcement authority[^c-26de7dbf3f186db71784e8b90b418283] may appoint suitably trained environmental health officers or other persons who are appropriately trained to perform official controls or certain tasks related to other official activities, to be official fish inspectors for that post in relation to such products, and any such official fish inspector has all the powers of an official veterinary surgeon in relation to those products.
 
 ### 13. Place of importation
 
-No animal or product may be brought into Wales other than through a border control post or a point of entry for which a border control post has been[^key-1e56a0036f07dab293fdf8e4f96868e9] designated for that animal or product.
+No animal or product may be brought into Wales other than through a border control post or a point of entry for which a border control post has been[^c-1e56a0036f07dab293fdf8e4f96868e9] designated for that animal or product.
 
 ### 14. Notification of importation
 
-(1)[^key-00383cbf96f0ce49469560ade5481a33] The person responsible for a consignment of animals or products must notify , through the appropriate computerised information management system,[^key-1ae0ccf0d124984f314a3682c3a13af9] a border control post[^key-4899e3b7931822586f27b4416d09b9a0] of the expected date of its arrival at the border control post at least one working day before it is due to arrive; but where the person can provide evidence of a logistical constraint preventing such notification, that requirement may be satisfied by notification of its expected time of arrival at least four hours in advance.
+(1)[^c-00383cbf96f0ce49469560ade5481a33] The person responsible for a consignment of animals or products must notify , through the appropriate computerised information management system,[^c-1ae0ccf0d124984f314a3682c3a13af9] a border control post[^c-4899e3b7931822586f27b4416d09b9a0] of the expected date of its arrival at the border control post at least one working day before it is due to arrive; but where the person can provide evidence of a logistical constraint preventing such notification, that requirement may be satisfied by notification of its expected time of arrival at least four hours in advance.
 
-(2)[^key-2b15652bfa92e369cde35b60ef577a6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2b15652bfa92e369cde35b60ef577a6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The notification must be made by submitting the CHED[^key-4441f0d43e18a1ec61ba431040d11944] with Part I completed.
+(3) The notification must be made by submitting the CHED[^c-4441f0d43e18a1ec61ba431040d11944] with Part I completed.
 
-(4)[^key-2ede25c9befa8ea207d13dcb7fd11a15] In the case of a transhipment of products from one border control post to another, the person responsible for the consignment must notify the official veterinary surgeon at the border control post of destination of—
+(4)[^c-2ede25c9befa8ea207d13dcb7fd11a15] In the case of a transhipment of products from one border control post to another, the person responsible for the consignment must notify the official veterinary surgeon at the border control post of destination of—
 
 - (a) the estimated time of arrival;
 - (b) the border control post at which the transhipment will be checked;
 - (c) the identification and location of the consignment; and
 - (d) the estimated time of departure.
 
-### 15. Procedure on importation[^key-ca74a08a3703cb182e1e61f6c3ef8b5d]
+### 15. Procedure on importation[^c-ca74a08a3703cb182e1e61f6c3ef8b5d]
 
-(1) When the consignment has been unloaded, the person responsible for the consignment must with reasonable expedition arrange for it, together with the relevant export health certificate, in the form published by the Welsh Ministers or the Secretary of State, and other documentation specified for that consignment in[^key-2da50b500733515a04c5390340b22ad3] assimilated direct[^key-9707b41631a22c87e022ac6cb9c8f64d] legislation relating to importation, to be presented at the border control post inspection facilities to enable official controls in accordance with—
+(1) When the consignment has been unloaded, the person responsible for the consignment must with reasonable expedition arrange for it, together with the relevant export health certificate, in the form published by the Welsh Ministers or the Secretary of State, and other documentation specified for that consignment in[^c-2da50b500733515a04c5390340b22ad3] assimilated direct[^c-9707b41631a22c87e022ac6cb9c8f64d] legislation relating to importation, to be presented at the border control post inspection facilities to enable official controls in accordance with—
 
-- (a) Chapter 5 of the Official Controls Regulation[^key-156a2f30371555fc105e4e6debeacbef], together with relevant implementing and delegated acts; and
+- (a) Chapter 5 of the Official Controls Regulation[^c-156a2f30371555fc105e4e6debeacbef], together with relevant implementing and delegated acts; and
 - (b) the checks required by Article 37(1) of Regulation [(EU) 2016/1012](https://www.legislation.gov.uk/eur/2016/1012).
 
 (2) Any operator responsible for the consignment must ensure that the consignment is presented for official controls at the border control post at a reasonable time during the working day.
 
 (3) The competent authority must carry out all necessary official controls specified in paragraph (1) and may only issue a CHED permitting entry if—
 
-- (a)[^key-40e756be4115c40776a20daa81e4995d] the consignment complies with the requirements of the following, so far as relevant and when read with any other provisions of the legislation referred to below which apply in relation to such requirements—
+- (a)[^c-40e756be4115c40776a20daa81e4995d] the consignment complies with the requirements of the following, so far as relevant and when read with any other provisions of the legislation referred to below which apply in relation to such requirements—
   - (i) the legislation listed in regulation 4(2) of the TARP (ALF) (Wales) (EU Exit) Regulations 2022, as modified by Part 5 of those Regulations or by the legislation referred to in paragraphs (ii) and (iii);
   - (ii) legislation made by the Welsh Ministers, as appropriate authority, under the functions listed in the Schedule to the TARP (ALF) (Wales) (EU Exit) Regulations 2022, where applicable;
   - (iii) legislation made by the Secretary of State, as appropriate authority in relation to Wales, under the functions listed in the Schedule to the Trade in Animals and Related Products (Amendment and Legislative Functions) Regulations 2022, where applicable;
@@ -225,16 +225,16 @@ No animal or product may be brought into Wales other than through a border contr
 
 (4) In the case of live animals, the official veterinary surgeon must not issue a CHED permitting entry if—
 
-- (a) the animals are from a territory or part of a territory of a third country not included in a list drawn up in accordance with[^key-7daf488d0246c2337c7ced8089eab7e6] assimilated direct[^key-4217b20997b9c818ed452700d149b846] legislation for the species concerned or from which imports are otherwise prohibited under that legislation of approved third countries, or if imports from that country or territory are otherwise prohibited;
+- (a) the animals are from a territory or part of a territory of a third country not included in a list drawn up in accordance with[^c-7daf488d0246c2337c7ced8089eab7e6] assimilated direct[^c-4217b20997b9c818ed452700d149b846] legislation for the species concerned or from which imports are otherwise prohibited under that legislation of approved third countries, or if imports from that country or territory are otherwise prohibited;
 - (b) the animals are suffering from or are suspected to be suffering from or infected by a contagious disease or a disease presenting a risk to human or animal health;
-- (c) the exporting third country has not complied with the requirements provided for in assimilated direct[^key-e78f6538c6eb00c9f1605a8ada0b0272][^key-dc99d6be1bfb340a310e0f88811fb7e4] legislation relating to importation;
+- (c) the exporting third country has not complied with the requirements provided for in assimilated direct[^c-e78f6538c6eb00c9f1605a8ada0b0272][^c-dc99d6be1bfb340a310e0f88811fb7e4] legislation relating to importation;
 - (d) the animals are not in a fit state to continue their journey; or
-- (e) the veterinary certificate or document accompanying the animals does not meet the requirements of assimilated direct[^key-55dbf9d2a1087b982c8adfafd5d5fe23][^key-b87706cf329e27d7fd0d846f94ce3231] legislation relating to importation.
+- (e) the veterinary certificate or document accompanying the animals does not meet the requirements of assimilated direct[^c-55dbf9d2a1087b982c8adfafd5d5fe23][^c-b87706cf329e27d7fd0d846f94ce3231] legislation relating to importation.
 
 (5) If there are no legislative requirements relating to the consignment, the official veterinary surgeon must not issue a CHED unless the importation has been authorised in writing under this paragraph by—
 
 - (a) the Food Standards Agency for any product for which only public health requirements apply; or
-- (b) the Welsh Ministers for any other product or live animal[^key-716e66241beed51d621171fb5161e336].
+- (b) the Welsh Ministers for any other product or live animal[^c-716e66241beed51d621171fb5161e336].
 
 (6) An authorisation under paragraph (5)(a) may only be granted if the Agency is satisfied that the consignment does not pose a risk to human health.
 
@@ -242,7 +242,7 @@ No animal or product may be brought into Wales other than through a border contr
 
 (8) The official veterinary surgeon must retain evidence of authorisation or refusal of a consignment for a period of three years from the date of the importation.
 
-### 16. Removal from the border control post[^key-d7e8d76284a083f20180f55b771f9c5a]
+### 16. Removal from the border control post[^c-d7e8d76284a083f20180f55b771f9c5a]
 
 (1) No person may remove a consignment from the border control post unless it is accompanied by a CHED issued by the official veterinary surgeon, or the official fish inspector (as appropriate) in the case of a consignment of fish, and the movement is in accordance with that document.
 
@@ -252,45 +252,45 @@ No animal or product may be brought into Wales other than through a border contr
 
 (4) In the case of live animals, the person responsible for the transport to the final destination must be in possession of the appropriate transport authorisation in accordance with Article 4 of Council Regulation [(EC) 1/2005](https://www.legislation.gov.uk/eur/2005/1) on the protection of animals during transport and related operations [^c21064531] inside the vehicle.
 
-(5) In this regulation, requirements for a consignment to be “accompanied by a CHED”, in relation to a CHED in electronic or digital form, refer to the CHED being capable of being produced by the person responsible for the consignment at any time by electronic means or by use of a unique digital identifier, as defined in Article 3(27A) of the Official Controls Regulation[^key-0f4f797a33cdf73e60f3fa98041e3f10].
+(5) In this regulation, requirements for a consignment to be “accompanied by a CHED”, in relation to a CHED in electronic or digital form, refer to the CHED being capable of being produced by the person responsible for the consignment at any time by electronic means or by use of a unique digital identifier, as defined in Article 3(27A) of the Official Controls Regulation[^c-0f4f797a33cdf73e60f3fa98041e3f10].
 
-### 17. Supervision and monitoring consignments[^key-427512db6c9c9821605f6e4a5f1b0b8d]
+### 17. Supervision and monitoring consignments[^c-427512db6c9c9821605f6e4a5f1b0b8d]
 
-Where a consignment is required to be taken under supervision from a border control post to a specific destination in Great Britain[^key-26ad1c89a38c47b743559b081b19f767] —
+Where a consignment is required to be taken under supervision from a border control post to a specific destination in Great Britain[^c-26ad1c89a38c47b743559b081b19f767] —
 
 - (a) the movement must be under customs supervision if this is specified in the CHED; and
-- (b) on arrival, the occupier of the destination premises must immediately notify the appropriate authority of its arrival, and for this purpose “appropriate authority” (“[^key-347f7591d018d55f7f6c4b0ec4376c1d]*awdurdod priodol*”) means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland).
+- (b) on arrival, the occupier of the destination premises must immediately notify the appropriate authority of its arrival, and for this purpose “appropriate authority” (“[^c-347f7591d018d55f7f6c4b0ec4376c1d]*awdurdod priodol*”) means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland).
 
-### 18. Destination outside Great Britain[^key-04b6fff5c7558b2ae93d874e62a963cb]
+### 18. Destination outside Great Britain[^c-04b6fff5c7558b2ae93d874e62a963cb]
 
 (1) This regulation relates to a consignment brought into Wales but intended for an ultimate destination outside Great Britain.
 
-(2) In the case of an imported animal[^key-856f1f1a8b63c676df49e45eb97e5bc6], the person notifying its arrival must provide documentary evidence that the country or territory[^key-1b158c92325229ff4d4ea89787dd4455] of destination will accept the animal, and the official veterinary surgeon at the border control post[^key-0ebf41de6872287cc50be281d1aab328] may refuse to accept the animal if this is not provided.
+(2) In the case of an imported animal[^c-856f1f1a8b63c676df49e45eb97e5bc6], the person notifying its arrival must provide documentary evidence that the country or territory[^c-1b158c92325229ff4d4ea89787dd4455] of destination will accept the animal, and the official veterinary surgeon at the border control post[^c-0ebf41de6872287cc50be281d1aab328] may refuse to accept the animal if this is not provided.
 
-(3)[^key-5d34eaea253ae59ec54c5a0a063785c6] Imported products[^key-0d0c573c2d71a7d525e339d2e55f7abe] which are subject to animal health check requirements under regulation 15(3)(a)[^key-6c7211e9149eb9cebed74ccdff7fc9b7], may be taken directly from the border control post to the destination outside Great Britain without a CHED, so long as the products do not remain for more than three days at an airport border control post or 30 days at a sea port border control post.
+(3)[^c-5d34eaea253ae59ec54c5a0a063785c6] Imported products[^c-0d0c573c2d71a7d525e339d2e55f7abe] which are subject to animal health check requirements under regulation 15(3)(a)[^c-6c7211e9149eb9cebed74ccdff7fc9b7], may be taken directly from the border control post to the destination outside Great Britain without a CHED, so long as the products do not remain for more than three days at an airport border control post or 30 days at a sea port border control post.
 
-(3A)[^key-b3842e3946ea48fea0fc146ac6a9d7dd] Products that are not subject to import check requirements, and which arrive at a border control post for an ultimate destination outside Great Britain, may be taken directly from the border control post to their destination without a CHED, so long as the products do not remain at the border control post for more than 90 days.
+(3A)[^c-b3842e3946ea48fea0fc146ac6a9d7dd] Products that are not subject to import check requirements, and which arrive at a border control post for an ultimate destination outside Great Britain, may be taken directly from the border control post to their destination without a CHED, so long as the products do not remain at the border control post for more than 90 days.
 
-(4) But if the consignment is intended to be sent to a destination in the British Islands[^key-a38a30a805f27ff205269d7f9bd6efdc], and the importation of the product into any of the territories of the British Islands[^key-b2f39d67385a5ccd1d52b9d9c9ba5d44] is not permitted, the official veterinary surgeon must reject the consignment.
+(4) But if the consignment is intended to be sent to a destination in the British Islands[^c-a38a30a805f27ff205269d7f9bd6efdc], and the importation of the product into any of the territories of the British Islands[^c-b2f39d67385a5ccd1d52b9d9c9ba5d44] is not permitted, the official veterinary surgeon must reject the consignment.
 
 ### 19. Unchecked consignments
 
 The enforcement authority must seize any consignment—
 
-- (a) brought into Wales other than in accordance with regulation 13[^key-b73dbf48d651a453514e838ebc13d483];
-- (b)[^key-85ba89f19537edcbb7b2bb827f7619cf] removed from a border control post without a CHED or without[^key-71fc946466af25c96765bc11d32b9c65] the authority of the official veterinary surgeon or official fish inspector (as the case may be) at the post; or
+- (a) brought into Wales other than in accordance with regulation 13[^c-b73dbf48d651a453514e838ebc13d483];
+- (b)[^c-85ba89f19537edcbb7b2bb827f7619cf] removed from a border control post without a CHED or without[^c-71fc946466af25c96765bc11d32b9c65] the authority of the official veterinary surgeon or official fish inspector (as the case may be) at the post; or
 - (c) transported from the border control post to a destination other than that specified in the entry document.
 
-### 20. Action following failure of checks or seizure — products[^key-916c1c8bc19205ced815a4f6ed89540f]
+### 20. Action following failure of checks or seizure — products[^c-916c1c8bc19205ced815a4f6ed89540f]
 
-(1) This regulation applies in relation to any consignment of a product if the checks at a border control post show that the consignment does not comply with the rules referred to in Chapter 5 of Title 2[^key-5bf691dff90b8cc88e091ad6b5bcf23f] of the Official Controls Regulation[^key-f7acaef451d48470b1f9036b6a39a915].
+(1) This regulation applies in relation to any consignment of a product if the checks at a border control post show that the consignment does not comply with the rules referred to in Chapter 5 of Title 2[^c-5bf691dff90b8cc88e091ad6b5bcf23f] of the Official Controls Regulation[^c-f7acaef451d48470b1f9036b6a39a915].
 
-(2) The official veterinary surgeon or the official fish inspector (as appropriate) must, after consultation with the importer or the importer’s representative, and in accordance with Article 68(1)(b) of the Official Controls Regulation,[^key-b357258203b35152df1b15be97ffa2b9] place the consignment under detention and refuse its entry to Wales[^key-d15862f04fd94d7097dbe01d568b2b12].
+(2) The official veterinary surgeon or the official fish inspector (as appropriate) must, after consultation with the importer or the importer’s representative, and in accordance with Article 68(1)(b) of the Official Controls Regulation,[^c-b357258203b35152df1b15be97ffa2b9] place the consignment under detention and refuse its entry to Wales[^c-d15862f04fd94d7097dbe01d568b2b12].
 
-(3) The official veterinary surgeon or the official fish inspector (as appropriate) must[^key-060cbe2d8329747e3712f44bc9066ed8] order the person responsible for the consignment—
+(3) The official veterinary surgeon or the official fish inspector (as appropriate) must[^c-060cbe2d8329747e3712f44bc9066ed8] order the person responsible for the consignment—
 
-- (a) subject the consignment to special treatment in accordance with Article 71(1) and (2) of the Official Controls Regulation or to any other measure necessary to ensure compliance with the rules referred to in Chapter 5 of Title 2[^key-327099882eee44cb17135c20b189a48b] of the Official Controls Regulation, and, where appropriate and provided there is no risk to human or animal health, allocate the consignment for purposes other than those for which it was originally intended;
-- (b) where health conditions permit, to require the person in charge of the consignment to re-dispatch the product in accordance with Article 72 of the Official Controls Regulation from the same border control post to a destination outside Great Britain[^key-b98ce4d055fd137bc9f8c773a684c6ba] agreed with the person responsible for the consignment, using the same means of transport, within a maximum time limit of 60 days of the date of the official notification of the decision of the enforcement authority after arrival of the consignment[^key-80a3570ed0f41a6f0bca426524254a9a] at the border control post; or
+- (a) subject the consignment to special treatment in accordance with Article 71(1) and (2) of the Official Controls Regulation or to any other measure necessary to ensure compliance with the rules referred to in Chapter 5 of Title 2[^c-327099882eee44cb17135c20b189a48b] of the Official Controls Regulation, and, where appropriate and provided there is no risk to human or animal health, allocate the consignment for purposes other than those for which it was originally intended;
+- (b) where health conditions permit, to require the person in charge of the consignment to re-dispatch the product in accordance with Article 72 of the Official Controls Regulation from the same border control post to a destination outside Great Britain[^c-b98ce4d055fd137bc9f8c773a684c6ba] agreed with the person responsible for the consignment, using the same means of transport, within a maximum time limit of 60 days of the date of the official notification of the decision of the enforcement authority after arrival of the consignment[^c-80a3570ed0f41a6f0bca426524254a9a] at the border control post; or
 - (c) if the person responsible for the consignment gives immediate agreement, re-dispatch is impossible or the 60-day time limit has elapsed, to destroy the products.
 
 (4) The official veterinary surgeon or official fish inspector (as appropriate) may exceptionally authorise destruction, re-dispatch, special treatment, or any other measure that may be taken in respect of a consignment to be taken in respect of a part of the consignment only, provided that the action taken—
@@ -303,27 +303,27 @@ The enforcement authority must seize any consignment—
 
 (6) If a consignment of products is seized outside a border control post under regulation 19, the enforcement authority must order that such consignment be retained or recalled, and placed under official detention without delay, and paragraphs (2) and (3) of this regulation apply.
 
-(7) The importer or the importer’s representative is liable for the costs incurred in any measures taken under paragraphs (2) to (6) [^key-f474c2bb61d96d811a3ee88a14465f67]... .
+(7) The importer or the importer’s representative is liable for the costs incurred in any measures taken under paragraphs (2) to (6) [^c-f474c2bb61d96d811a3ee88a14465f67]... .
 
-(8)[^key-a36994cf7f62512ed1952a3565b2cd32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a36994cf7f62512ed1952a3565b2cd32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Consignments of products likely to constitute a risk to animal or human health[^key-e7e3e8ec797bfa99512312e2fd924e77]
+### 21. Consignments of products likely to constitute a risk to animal or human health[^c-e7e3e8ec797bfa99512312e2fd924e77]
 
-If the official controls at the border control post indicate that the consignment is likely to constitute a danger to animal or human health, the official veterinary surgeon or the official fish inspector (as the case may be) must immediately place the consignment under official detention and order that the person responsible for the consignment destroy it or arrange special treatment in accordance with Article 71 of the Official Controls Regulation[^key-7a121c0a358c4cbafe2aef6c5b9ebc04] at that person’s expense.
+If the official controls at the border control post indicate that the consignment is likely to constitute a danger to animal or human health, the official veterinary surgeon or the official fish inspector (as the case may be) must immediately place the consignment under official detention and order that the person responsible for the consignment destroy it or arrange special treatment in accordance with Article 71 of the Official Controls Regulation[^c-7a121c0a358c4cbafe2aef6c5b9ebc04] at that person’s expense.
 
-### 22. Serious or repeated infringements and breach of maximum residue limits[^key-fd6562059fcdb2c86d469b4d708212a2]
+### 22. Serious or repeated infringements and breach of maximum residue limits[^c-fd6562059fcdb2c86d469b4d708212a2]
 
-(1) If the official veterinary surgeon or official fish inspector (as appropriate) suspects that products entering Great Britain[^key-7a8f1ab2fd4f48b3be361adf7ba2b2a9] from a particular third country, part of a third country or establishment in a third country have been the subject of serious contraventions of any import requirement, or contraventions that form part of a series, or where those checks reveal that maximum residue levels have been exceeded, the enforcement authority may require extra physical checks and take samples for testing or analysis from subsequent consignments from the source concerned and take appropriate measures in accordance with Section 3 of Chapter 5 of Title 2 of the Official Controls Regulation[^key-36a3fc62815ec02f8cfb630d4541feb0].
+(1) If the official veterinary surgeon or official fish inspector (as appropriate) suspects that products entering Great Britain[^c-7a8f1ab2fd4f48b3be361adf7ba2b2a9] from a particular third country, part of a third country or establishment in a third country have been the subject of serious contraventions of any import requirement, or contraventions that form part of a series, or where those checks reveal that maximum residue levels have been exceeded, the enforcement authority may require extra physical checks and take samples for testing or analysis from subsequent consignments from the source concerned and take appropriate measures in accordance with Section 3 of Chapter 5 of Title 2 of the Official Controls Regulation[^c-36a3fc62815ec02f8cfb630d4541feb0].
 
 (2) If the official veterinary surgeon or official fish inspector (as appropriate) has reason to suspect fraudulent or deceptive practices by an operator responsible for a consignment, the Welsh Ministers may apply intensified official controls.
 
-(3) The official veterinary surgeon or official fish inspector (as appropriate) must carry out a physical check on the suspected non-compliant consignment and take appropriate measures in accordance with Section 3 of Chapter 5 of Title 2 of the Official Controls Regulation[^key-bd1848a742a174d65e5831b28bc622b7].
+(3) The official veterinary surgeon or official fish inspector (as appropriate) must carry out a physical check on the suspected non-compliant consignment and take appropriate measures in accordance with Section 3 of Chapter 5 of Title 2 of the Official Controls Regulation[^c-bd1848a742a174d65e5831b28bc622b7].
 
-(4) Where the person responsible for consignments is informed that extra checks will be required in accordance with paragraph (1), that person must, before the arrival of future consignments at any border control post, lodge with the relevant enforcement authority a deposit or guarantee sufficient to cover all costs incurred by that enforcement authority, including the costs of taking samples and carrying out tests or analysis.[^key-570bc2d6583e295218742ea792f147bd]
+(4) Where the person responsible for consignments is informed that extra checks will be required in accordance with paragraph (1), that person must, before the arrival of future consignments at any border control post, lodge with the relevant enforcement authority a deposit or guarantee sufficient to cover all costs incurred by that enforcement authority, including the costs of taking samples and carrying out tests or analysis.[^c-570bc2d6583e295218742ea792f147bd]
 
-### 23. Action following failure of checks or seizure — animals[^key-d0e50e4d1a4a41831f1ad6c562cd8205]
+### 23. Action following failure of checks or seizure — animals[^c-d0e50e4d1a4a41831f1ad6c562cd8205]
 
-(1) If the checks at a border control post show that an animal does not comply with the rules referred to in Chapter 5 of Title 2[^key-daa1391ea2b762fa0392c9a6a6108776] of the Official Controls Regulation[^key-508a01ea03475ac3e5965743d4649963] relating to that animal, or where such checks reveal an irregularity, the official veterinary surgeon must initially place the animal under detention, isolation or quarantine, as appropriate, where it must be kept, cared for or treated under appropriate conditions pending further official decision on the fate of the animal.
+(1) If the checks at a border control post show that an animal does not comply with the rules referred to in Chapter 5 of Title 2[^c-daa1391ea2b762fa0392c9a6a6108776] of the Official Controls Regulation[^c-508a01ea03475ac3e5965743d4649963] relating to that animal, or where such checks reveal an irregularity, the official veterinary surgeon must initially place the animal under detention, isolation or quarantine, as appropriate, where it must be kept, cared for or treated under appropriate conditions pending further official decision on the fate of the animal.
 
 (2) Unless immediate action is necessary in order to respond to a risk to human or animal health or animal welfare or to the environment, the official veterinary surgeon may, after consultation with the importer or the importer’s representative, order the person responsible for the consignment—
 
@@ -341,7 +341,7 @@ If the official controls at the border control post indicate that the consignmen
 - (b) does not pose a risk to human or animal health; and
 - (c) does not disrupt official control operations.
 
-(6) The importer or the importer’s representative is liable for the costs incurred in these measures [^key-8d62b692b725eed42757ed361caed4de]... .
+(6) The importer or the importer’s representative is liable for the costs incurred in these measures [^c-8d62b692b725eed42757ed361caed4de]... .
 
 ### 24. Appeals
 
@@ -351,52 +351,52 @@ Any person who is aggrieved by a decision referred to in regulation 20 or 23 may
 
 Part 2 of Schedule 2 makes additional requirements for specific cases.
 
-### 26. Exclusions , derogations and modifications[^key-9889ea594d0b9813716359776670a51b]
+### 26. Exclusions , derogations and modifications[^c-9889ea594d0b9813716359776670a51b]
 
-(1)[^key-2d7d7a02d5f5fe3f6b5d8a88a7c53d85] The provisions of this Part do not apply in the cases specified in Schedule 3.
+(1)[^c-2d7d7a02d5f5fe3f6b5d8a88a7c53d85] The provisions of this Part do not apply in the cases specified in Schedule 3.
 
-(2)[^key-c9102888ac93c7a127ab115f7e148a1e] The provisions of this Part apply subject to the derogations and modifications set out in Schedule 5.
+(2)[^c-c9102888ac93c7a127ab115f7e148a1e] The provisions of this Part apply subject to the derogations and modifications set out in Schedule 5.
 
-(3) Paragraph (2) (and Schedule 5) have effect and remain in force from immediately after implementation period completion day until the end of the transitional staging period[^key-41d2db02f58a5b138af4a89c69457ec0].
+(3) Paragraph (2) (and Schedule 5) have effect and remain in force from immediately after implementation period completion day until the end of the transitional staging period[^c-41d2db02f58a5b138af4a89c69457ec0].
 
-### 27. Re-importation of animals and products[^key-f517467c6740dcdc18fd3686f02b5a8e]
+### 27. Re-importation of animals and products[^c-f517467c6740dcdc18fd3686f02b5a8e]
 
-(1)[^key-f53aef1cde9405d188652b5f8f357689] An official veterinary surgeon at a border control post must authorise the re-importation of consignments of the categories of animals and products referred to in points (a) and (b) of Article 47(1) of the EU Regulation originating from, and returning to, Great Britain[^key-bf7416ecdf714b1532d4d042ecd7506c] following a refusal of entry by a third country, provided that—
+(1)[^c-f53aef1cde9405d188652b5f8f357689] An official veterinary surgeon at a border control post must authorise the re-importation of consignments of the categories of animals and products referred to in points (a) and (b) of Article 47(1) of the EU Regulation originating from, and returning to, Great Britain[^c-bf7416ecdf714b1532d4d042ecd7506c] following a refusal of entry by a third country, provided that—
 
 - (a) animals and germinal products that have been authorised in advance by the competent authority comply with the relevant animal health and animal welfare requirements;
 - (b) products of animal origin and composite products comply with animal and public health requirements relating to consignments of products for human consumption originating in and returning to Great Britain following a refusal of entry by a third country; and
 - (c) animal by-products comply with the animal health requirements laid down in Annex XIV to Commission Regulation [(EU) 142/2011](https://www.legislation.gov.uk/eur/2011/142) on the requirements for the entry of consignments of animal by-products and derived products originating from, and returning to, Great Britain following refusal of entry by a third country.
 
-(1A)[^key-84b14c57eff41cf4c1332f690a7e36ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-84b14c57eff41cf4c1332f690a7e36ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The official veterinary surgeon must carry out a documentary and identity check and if necessary a physical check.
 
 (3) The importer must either—
 
-- (a) transport the consignment directly to the establishment of origin [^key-68a58b9858c9e26e6bc7277b3fc39fcf]..., in leak-proof means of transport, identified and sealed by the official veterinary surgeon at the border control[^key-b646e0ff176b433f5793fba12622cdb2] post so that the seals will be broken whenever the container is opened, or
+- (a) transport the consignment directly to the establishment of origin [^c-68a58b9858c9e26e6bc7277b3fc39fcf]..., in leak-proof means of transport, identified and sealed by the official veterinary surgeon at the border control[^c-b646e0ff176b433f5793fba12622cdb2] post so that the seals will be broken whenever the container is opened, or
 - (b) destroy the consignment as animal by-products.
 
-### 28. Admission of products into warehouses in compliance with Customs procedures and storage procedures[^key-93592333c9ffbe710f0ef87848719299]
+### 28. Admission of products into warehouses in compliance with Customs procedures and storage procedures[^c-93592333c9ffbe710f0ef87848719299]
 
 No person may bring into Great Britain a consignment of products that does not comply with the import requirements of these Regulations and the Customs procedures and storage procedures on imports in the Taxation (Cross-border Trade) Act 2018.
 
 ## PART 4 — Safeguard measures
 
-### 29. Safeguard measures[^key-92c4240c65342f9e4fbe13aadabf971e]
+### 29. Safeguard measures[^c-92c4240c65342f9e4fbe13aadabf971e]
 
 (1) Where the Welsh Ministers or the Food Standards Agency—
 
-- (a) has reasonable grounds for suspecting the existence of a disease, zoonosis, phenomenon or circumstance in a country or territory[^key-72e2ffaa0bba67ad65088dd5e6be3d9d] outside Great Britain[^key-275b4ff29a2d7d6760fc8236b2688d50] such that animals or products originating from the whole or part of the country or territory concerned are liable to pose risk to human or animal health, or
-- (b) is of the opinion that there is serious non-compliance with official control rules under the Official Controls Regulation in relation to imports[^key-51ba29c98f732ab420f58d19265a6eee],
+- (a) has reasonable grounds for suspecting the existence of a disease, zoonosis, phenomenon or circumstance in a country or territory[^c-72e2ffaa0bba67ad65088dd5e6be3d9d] outside Great Britain[^c-275b4ff29a2d7d6760fc8236b2688d50] such that animals or products originating from the whole or part of the country or territory concerned are liable to pose risk to human or animal health, or
+- (b) is of the opinion that there is serious non-compliance with official control rules under the Official Controls Regulation in relation to imports[^c-51ba29c98f732ab420f58d19265a6eee],
 
 the Welsh Ministers or the Agency may publish a written declaration of the special measures necessary in order to contain the risk to human or animal health or the risk of non-compliant animals or products entering into Great Britain.
 
 (2) The special measures that the Welsh Ministers or the Food Standards Agency may require include—
 
-- (a) suspension of entry of any animal or product originating in or dispatched from the whole or part of the country or territory[^key-2f1eedef128a0b88c738151871928aad] concerned;
+- (a) suspension of entry of any animal or product originating in or dispatched from the whole or part of the country or territory[^c-2f1eedef128a0b88c738151871928aad] concerned;
 - (b) imposition of conditions requiring that any animals or products—
   - (i) prior to dispatch, or on arrival, are made the subject of specific treatment or controls;
-  - (ii) be accompanied by an official certificate, an official attestation, or any other evidence (in any format that may be specified) that any import [^key-d6fa89671e91ef0c7d74210b0bd08da4]... complies with established official control rules under the Official Controls Regulation[^key-eaa3b18b00cd344f561c39336862fa57] and any relevant Implementing Regulations and Delegated Regulations made under it or equivalent rules in third countries[^key-ebe859c1b32b003889627e1d0451e34f];
+  - (ii) be accompanied by an official certificate, an official attestation, or any other evidence (in any format that may be specified) that any import [^c-d6fa89671e91ef0c7d74210b0bd08da4]... complies with established official control rules under the Official Controls Regulation[^c-eaa3b18b00cd344f561c39336862fa57] and any relevant Implementing Regulations and Delegated Regulations made under it or equivalent rules in third countries[^c-ebe859c1b32b003889627e1d0451e34f];
 - (c) such other measures as the Welsh Ministers or the Agency considers necessary to contain the risk.
 
 (3) The declaration must be published in such manner as the Welsh Ministers or the Food Standards Agency (as the case may be) thinks fit and may be amended or revoked by further declaration at any time.
@@ -415,27 +415,27 @@ In these Regulations the enforcement authorities are local authorities and port 
 
 ### 32. Enforcement
 
-(1) At a border control post[^key-cfc03593767d0a258ef72ac94475657b] these Regulations are enforced—
+(1) At a border control post[^c-cfc03593767d0a258ef72ac94475657b] these Regulations are enforced—
 
 - (a) in relation to animals by the Welsh Ministers; and
 - (b) in relation to products by the local authority.
 
-(2) Outside a border control post, in relation to animals (other than in relation to aquatic animals)[^key-a0322401e7795471ab8ec52dcc162c0d] they are enforced by the local authority.
+(2) Outside a border control post, in relation to animals (other than in relation to aquatic animals)[^c-a0322401e7795471ab8ec52dcc162c0d] they are enforced by the local authority.
 
-(2A)[^key-61657b94eeef2a5f94aaaf9edf4a6896] Outside a border control post, official controls in relation to aquatic animals are enforced by the Welsh Ministers.
+(2A)[^c-61657b94eeef2a5f94aaaf9edf4a6896] Outside a border control post, official controls in relation to aquatic animals are enforced by the Welsh Ministers.
 
 (3) Outside a border control post, in relation to products they are enforced by—
 
 - (a) the local authority; or
 - (b) by the Food Standards Agency at any cutting plant, game-handling establishment or slaughterhouse, or premises at which the Agency enforces the Food Hygiene (Wales) Regulations 2006 [^c21064601].
 
-(4) In addition, in relation to products they are enforced by a general customs official in any place (other than the inspection facilities in a border control post) where goods are subject to customs supervision by that official under the Taxation (Cross-border Trade) Act 2018[^key-388f49e1704da9739dc50b93bc610cf2].
+(4) In addition, in relation to products they are enforced by a general customs official in any place (other than the inspection facilities in a border control post) where goods are subject to customs supervision by that official under the Taxation (Cross-border Trade) Act 2018[^c-388f49e1704da9739dc50b93bc610cf2].
 
 (5) The Welsh Ministers may direct, in relation to cases of a particular description or a particular case, that the Welsh Ministers may discharge any duty imposed on a local authority under this regulation.
 
-(6)[^key-435c58758115909386572ddacede0558] Where a customs officer exercising a statutory function at any place under customs supervision discovers any animal or product suspected of being non-compliant, that officer must detain it and notify such detention to an authorised officer of the relevant enforcement authority.
+(6)[^c-435c58758115909386572ddacede0558] Where a customs officer exercising a statutory function at any place under customs supervision discovers any animal or product suspected of being non-compliant, that officer must detain it and notify such detention to an authorised officer of the relevant enforcement authority.
 
-### 33. Powers of entry[^key-89001b01374e40e35f474318a190b30a]
+### 33. Powers of entry[^c-89001b01374e40e35f474318a190b30a]
 
 (1) An authorised officer of the Welsh Ministers or an enforcement agency may at any reasonable hour during normal working hours without prior notice enter any premises (except any premises used wholly or mainly as a private dwelling) if the officer believes that it is necessary to enter for the purpose of enforcing these Regulations.
 
@@ -473,12 +473,12 @@ An authorised officer of the Welsh Ministers or an enforcement authority may—
 - (e) seize and retain anything required as evidence in proceedings under these Regulations;
 - (f) open any bundle, package, packing case, or item of personal luggage, or require any person in possession of or accompanying the same to open it and inspect the contents;
 - (g) take samples of any animal or product for laboratory tests, for checking against any relevant document relating to the animal or product or otherwise for checking compliance with these Regulations or any condition of import enforced by these Regulations;
-- (h)[^key-cd697b18d3fc5eb9fe2fd0dcf99c71f7] require the slaughter of any imported animal which is non-compliant with import or animal welfare requirements in these Regulations or the Official Controls Regulation[^key-1403eb8f605bc7781f205ed1f97da792] and any Implementing Regulations and Delegated Regulations made under it, or suspected by the Welsh Ministers of posing a risk to animal or human health;
+- (h)[^c-cd697b18d3fc5eb9fe2fd0dcf99c71f7] require the slaughter of any imported animal which is non-compliant with import or animal welfare requirements in these Regulations or the Official Controls Regulation[^c-1403eb8f605bc7781f205ed1f97da792] and any Implementing Regulations and Delegated Regulations made under it, or suspected by the Welsh Ministers of posing a risk to animal or human health;
 - (i) require the quarantine of any imported animal that is suspected by the Welsh Ministers of posing a risk to animal or human health.
 
-### 35. Importation of animals or products constituting a risk to animal or public health[^key-1802fa19753430f1de06bb4c4ef69204]
+### 35. Importation of animals or products constituting a risk to animal or public health[^c-1802fa19753430f1de06bb4c4ef69204]
 
-(1) If imported animals or products are suspected by the appropriate enforcement authority[^key-1d8af948180a0b7b1294af920abcb382] or the Welsh Ministers[^key-8be0ccce369438c81b24006474631c73] of constituting a serious risk to human or animal health or animal welfare, or, in a case of suspected non-compliance, the animals or products come from a region contaminated by an epizootic disease, an authorised officer of that enforcement authority[^key-e5dfce8e346788f38e907df5e33fe70b] or the Welsh Ministers[^key-b9a2ae4e04b9c01cd247f7678f666271] may require—
+(1) If imported animals or products are suspected by the appropriate enforcement authority[^c-1d8af948180a0b7b1294af920abcb382] or the Welsh Ministers[^c-8be0ccce369438c81b24006474631c73] of constituting a serious risk to human or animal health or animal welfare, or, in a case of suspected non-compliance, the animals or products come from a region contaminated by an epizootic disease, an authorised officer of that enforcement authority[^c-e5dfce8e346788f38e907df5e33fe70b] or the Welsh Ministers[^c-b9a2ae4e04b9c01cd247f7678f666271] may require—
 
 - (a) an investigation in order to confirm or eliminate that suspicion;
 - (b) an investigation into the extent of any suspected non-compliance and to establish the import operator’s responsibilities;
@@ -488,7 +488,7 @@ An authorised officer of the Welsh Ministers or an enforcement authority may—
 
 (2) In a case within paragraph (1)(a), the importer must assist the officer with establishing the region of origin.
 
-(3) Where the appropriate enforcement authority[^key-a5f43617b393950fc79cc38cddc1f2ae] or the Welsh Ministers[^key-43a057bfac35d06020d1b1f4a3248568] are satisfied that imported animals or products constitute a risk to animal or public health, an authorised officer of that enforcement authority[^key-c58ca0cbf91806072bb9da15dcbbcd86] or the Welsh Ministers, as appropriate[^key-cf55e2dc24a9365e9b3760abf3baae97] may, following written notice, take any reasonable action to ensure compliance with any rules laid down in accordance with Chapter 5 of Title 2 of the Official Controls Regulation[^key-303c987c460d8df3a9be55b2698f2814], including—
+(3) Where the appropriate enforcement authority[^c-a5f43617b393950fc79cc38cddc1f2ae] or the Welsh Ministers[^c-43a057bfac35d06020d1b1f4a3248568] are satisfied that imported animals or products constitute a risk to animal or public health, an authorised officer of that enforcement authority[^c-c58ca0cbf91806072bb9da15dcbbcd86] or the Welsh Ministers, as appropriate[^c-cf55e2dc24a9365e9b3760abf3baae97] may, following written notice, take any reasonable action to ensure compliance with any rules laid down in accordance with Chapter 5 of Title 2 of the Official Controls Regulation[^c-303c987c460d8df3a9be55b2698f2814], including—
 
 - (a) taking samples for testing and ordering or performing veterinary treatments on animals;
 - (b) ordering the unloading of animals and their transfer via another means of transport to a specified holding for a specified quarantine period (whether or not involving the postponement of the slaughter of animals);
@@ -501,20 +501,20 @@ An authorised officer of the Welsh Ministers or an enforcement authority may—
 - (i) the temporary suspension or withdrawal of the registration or approval of an affected establishment, plant, holding or means of transport concerned, or of an authorisation of a transporter;
 - (j) the use of the products for purposes other than those for which they were originally intended.
 
-(4) An authorised officer of the enforcement authority[^key-3d0fb9863bf64734adc233ddf5956a50] or the Welsh Ministers[^key-c1d6537561f646f86ec931ac3489be44] must provide an affected business operator, or its representative, with—
+(4) An authorised officer of the enforcement authority[^c-3d0fb9863bf64734adc233ddf5956a50] or the Welsh Ministers[^c-c1d6537561f646f86ec931ac3489be44] must provide an affected business operator, or its representative, with—
 
 - (a) written notification of the decision concerning the action or measure to be taken in accordance with this regulation, together with the reasons for that decision; and
 - (b) information on any right of review against such decision in accordance with regulation 35A.
 
-(5) All expenditure incurred as a result of actions taken by or on behalf of the enforcement authority or the Welsh Ministers[^key-0128e6d9c118cb094529c179407640d0] under this regulation is to be borne by the responsible operator.
+(5) All expenditure incurred as a result of actions taken by or on behalf of the enforcement authority or the Welsh Ministers[^c-0128e6d9c118cb094529c179407640d0] under this regulation is to be borne by the responsible operator.
 
-(6) In the case of the issue of false or misleading official certificates in Wales, or where there is evidence of abuse of official certificates, an authorised officer of the enforcement authority or the Welsh Ministers[^key-2b184a044712970fa24825eda1dbd167] may take appropriate measures, including—
+(6) In the case of the issue of false or misleading official certificates in Wales, or where there is evidence of abuse of official certificates, an authorised officer of the enforcement authority or the Welsh Ministers[^c-2b184a044712970fa24825eda1dbd167] may take appropriate measures, including—
 
 - (a) the temporary suspension of the certifying officer from certifying any certificates related to any relevant trade;
 - (b) the withdrawal of the authorisation of a person to sign official certificates;
 - (c) any other measure believed by the officer to be necessary to prevent a reoccurrence of any non-compliance or abuse.
 
-### 35A. Review of decisions by an appointed person[^key-653ffe550bb368f4a340b26f209cb724]
+### 35A. Review of decisions by an appointed person[^c-653ffe550bb368f4a340b26f209cb724]
 
 (1) Any person aggrieved by a decision made under these Regulations, other than any decision referred to in regulation 20 or 23, may request a review of that decision by a person appointed by the Welsh Ministers (“the appointed person”).
 
@@ -530,13 +530,13 @@ An authorised officer of the Welsh Ministers or an enforcement authority may—
 
 No person may—
 
-- (a) intentionally obstruct any person acting in the execution of these Regulations or the[^key-f558ff32d7b7409bbe4b5b666c1d1c31] Official Controls Regulation[^key-de0ab2b79cb594ae3de3eb6fa0539710];
+- (a) intentionally obstruct any person acting in the execution of these Regulations or the[^c-f558ff32d7b7409bbe4b5b666c1d1c31] Official Controls Regulation[^c-de0ab2b79cb594ae3de3eb6fa0539710];
 - (b) without reasonable cause, fail to give any person acting in execution of these Regulations or the Official Controls Regulation any assistance or information that that person may reasonably require for the purpose of carrying out functions under these Regulations or the Official Controls Regulation; or
 - (c) furnish to any person acting in the execution of these Regulations or the Official Controls Regulation any information knowing it to be false or misleading.
 
 ### 37. Exchange of information
 
-(1) The Commissioners of Her Majesty's Revenue and Customs, a general customs official and any enforcement authority may exchange information for the purposes of these Regulations, and may divulge information to an enforcement authority in any of the territories of the British Islands[^key-84ca02577f8fcdb6c70fd32437832f9b] for the purposes of this Part or the equivalent legislation in those jurisdictions.
+(1) The Commissioners of Her Majesty's Revenue and Customs, a general customs official and any enforcement authority may exchange information for the purposes of these Regulations, and may divulge information to an enforcement authority in any of the territories of the British Islands[^c-84ca02577f8fcdb6c70fd32437832f9b] for the purposes of this Part or the equivalent legislation in those jurisdictions.
 
 (2) Paragraph (1) is without prejudice to any other power of the Commissioners, any general customs official or any enforcement authority to disclose information.
 
@@ -548,9 +548,9 @@ No person may—
 - (b) the disclosure is for a purpose other than the purposes specified in paragraph (1); and
 - (c) the Commissioners have not given their prior consent to the disclosure.
 
-### 38. Fees[^key-c38c1b2f8a58f34d85e21d3fbb1ff0f8]
+### 38. Fees[^c-c38c1b2f8a58f34d85e21d3fbb1ff0f8]
 
-The Welsh Ministers or the enforcement authority[^key-9c0109fbf07b1cd8e5f52567f913e8f2] must charge a reasonable fee in relation to any official control activity in accordance with the charging provisions contained in Chapter 6, Title 2 of the Official Controls Regulation[^key-5af6d50f09a3e69a782e8af0b1808ea1], and such fee is payable by the operator responsible for the consignment or its representative.
+The Welsh Ministers or the enforcement authority[^c-9c0109fbf07b1cd8e5f52567f913e8f2] must charge a reasonable fee in relation to any official control activity in accordance with the charging provisions contained in Chapter 6, Title 2 of the Official Controls Regulation[^c-5af6d50f09a3e69a782e8af0b1808ea1], and such fee is payable by the operator responsible for the consignment or its representative.
 
 ### 39. Offences
 
@@ -558,33 +558,33 @@ Breach of the following provisions is an offence—
 
 | *Provision* | *Description of the offence* |
 | --- | --- |
-| [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . |
-| [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . |
-| [^key-bdf4d627f17ff30425a1dbafe59e055c]... | [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . |
-| [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . |
-| [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^key-bdf4d627f17ff30425a1dbafe59e055c]. . . |
-| regulation 13 | Importation other than through a border control post or a point of entry for which a border control post has been designated[^key-d57cbf94cf929e5d3f470bf8ae1dfb60] |
+| [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . |
+| [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . |
+| [^c-bdf4d627f17ff30425a1dbafe59e055c]... | [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . |
+| [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . |
+| [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . | [^c-bdf4d627f17ff30425a1dbafe59e055c]. . . |
+| regulation 13 | Importation other than through a border control post or a point of entry for which a border control post has been designated[^c-d57cbf94cf929e5d3f470bf8ae1dfb60] |
 | regulation 14 | Notification |
 | regulation 15(1) | Failing to present a consignment for inspection |
 | regulation 15(2) | Failing to comply with a notice |
-| regulation 16(1) | Removal from a border control post[^key-0d1665d5bff9af897fb46df7636cd503] without a CHED[^key-cc10c996fc0f8fbe37dcddda075a43cf] |
+| regulation 16(1) | Removal from a border control post[^c-0d1665d5bff9af897fb46df7636cd503] without a CHED[^c-cc10c996fc0f8fbe37dcddda075a43cf] |
 | regulation 16(2) | Failing to transport a consignment to the place specified in the CHED |
 | regulation 17 | Movement other than under Customs supervision and failure to notify the Welsh Ministers |
-| regulation 28 | Importing a product that does not comply with the import requirements of these Regulations and the Customs procedures and storage procedures on imports in the Taxation (Cross-border Trade) Act 2018[^key-362b261fd683b31b7584f81149bcfeec] |
+| regulation 28 | Importing a product that does not comply with the import requirements of these Regulations and the Customs procedures and storage procedures on imports in the Taxation (Cross-border Trade) Act 2018[^c-362b261fd683b31b7584f81149bcfeec] |
 | regulation 29(2) | Bringing in an animal or product in breach of a declaration |
 | regulation 36 | Obstruction |
 | regulation 37(3) | Disclosure of information |
 | Schedule 2: |  |
-| [^key-238211b7eac3ce05f749c7d00dee345a]. . . | [^key-238211b7eac3ce05f749c7d00dee345a]. . . |
-| [^key-238211b7eac3ce05f749c7d00dee345a]. . . | [^key-238211b7eac3ce05f749c7d00dee345a]. . . |
-| [^key-238211b7eac3ce05f749c7d00dee345a]. . . | [^key-238211b7eac3ce05f749c7d00dee345a]. . . |
-| [^key-238211b7eac3ce05f749c7d00dee345a]. . . | [^key-238211b7eac3ce05f749c7d00dee345a]. . . |
+| [^c-238211b7eac3ce05f749c7d00dee345a]. . . | [^c-238211b7eac3ce05f749c7d00dee345a]. . . |
+| [^c-238211b7eac3ce05f749c7d00dee345a]. . . | [^c-238211b7eac3ce05f749c7d00dee345a]. . . |
+| [^c-238211b7eac3ce05f749c7d00dee345a]. . . | [^c-238211b7eac3ce05f749c7d00dee345a]. . . |
+| [^c-238211b7eac3ce05f749c7d00dee345a]. . . | [^c-238211b7eac3ce05f749c7d00dee345a]. . . |
 | paragraph 8(2) | Slaughter of animals |
 | paragraph 8(3) | Keeping animals at their place of destination |
 | paragraph 9(2) | Transport of birds to approved quarantine facilities or centres |
 | paragraph 9(3) | Release of birds from quarantine |
 | paragraph 11 | Use of a certificate relating to ships' stores |
-| [^key-dd84fcfca9647273526844768d0473e4]. . . | [^key-dd84fcfca9647273526844768d0473e4]. . . |
+| [^c-dd84fcfca9647273526844768d0473e4]. . . | [^c-dd84fcfca9647273526844768d0473e4]. . . |
 
 ### 40. Offences by bodies corporate
 
@@ -616,7 +616,7 @@ that person as well as the body corporate is guilty of the offence and liable to
 
 (6) For these purposes, “**officer**” (“***swyddog***”) means an officer of the association or a member of its governing body, or a person purporting to act in such capacity.
 
-### 42. Penalties[^key-5d73afdad185e4355f82e3b0aa847015]
+### 42. Penalties[^c-5d73afdad185e4355f82e3b0aa847015]
 
 A person guilty of any offence under these Regulations is liable on summary conviction to a fine.
 
@@ -640,45 +640,45 @@ Minister for Environment and Sustainable Developement, one of the Welsh Minister
 
 Regulations 5 and 15
 
- [^key-10e4360cd50fb6f90935c68442288f8f]. . .
+ [^c-10e4360cd50fb6f90935c68442288f8f]. . .
 
 ## SCHEDULE 2 — Specific requirements for individual cases
 
-Regulation 25[^key-134a009a28a05afbad7ff7c391695f73]
+Regulation 25[^c-134a009a28a05afbad7ff7c391695f73]
 
-### PART 1 — Additional requirements for trade with member States[^key-cae8be0619bb0fab7018e0ca66dc375a]
+### PART 1 — Additional requirements for trade with member States[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 **No longer in force.**
 
-#### 1. Dealers in cattle, sheep, pigs or goats[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 1. Dealers in cattle, sheep, pigs or goats[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Transport of cattle, pigs, sheep or goats[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 2. Transport of cattle, pigs, sheep or goats[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Horses[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 3. Horses[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Poultry Health Scheme[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 4. Poultry Health Scheme[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Approvals for the Balai Directive[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 5. Approvals for the Balai Directive[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Circuses[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 6. Circuses[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Animal by-products[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 7. Animal by-products[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Interpretation[^key-cae8be0619bb0fab7018e0ca66dc375a]
+#### 8. Interpretation[^c-cae8be0619bb0fab7018e0ca66dc375a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -688,31 +688,31 @@ Regulation 25[^key-134a009a28a05afbad7ff7c391695f73]
 
 (1) This paragraph applies to elephants and to cattle, pigs, sheep, goats and all other animals of the taxa Artiodactyla, and their crossbreeds.
 
-(2) Animals intended for immediate slaughter must be conveyed without delay from the border control post[^key-54d61cc4f9ce1b8f53285d591d7b8b8d] to the slaughterhouse of destination and slaughtered within five working days.
+(2) Animals intended for immediate slaughter must be conveyed without delay from the border control post[^c-54d61cc4f9ce1b8f53285d591d7b8b8d] to the slaughterhouse of destination and slaughtered within five working days.
 
 (3) In any other case the animals must be taken without delay from the border control post to the holding of destination and kept there for at least 30 days (unless consigned from the holding direct to a slaughterhouse).
 
 #### 9. Imported birds
 
-(1) The Welsh Ministers are the competent authority for the import of certain birds and quarantine conditions for the purposes[^key-193ecd100f4be8e96706d35778376dad] of[^key-f74e0b71f13a25567674578cb2dc2397] Commission Implementing Regulation ([^key-b7fb542478d22ef401aeb03a5d8511d6]EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof.
+(1) The Welsh Ministers are the competent authority for the import of certain birds and quarantine conditions for the purposes[^c-193ecd100f4be8e96706d35778376dad] of[^c-f74e0b71f13a25567674578cb2dc2397] Commission Implementing Regulation ([^c-b7fb542478d22ef401aeb03a5d8511d6]EU) No 139/2013 laying down animal health conditions for imports of certain birds into the Union and the quarantine conditions thereof.
 
 (2) An importer must comply with Article 7 (transport of birds) of that Regulation.
 
 (3) No person may release a bird from quarantine except in accordance with Article 16 (release of birds) of that Regulation.
 
-#### 10. Horses[^key-7f00e77d72a90dce72c91ff1f9c6a86b]
+#### 10. Horses[^c-7f00e77d72a90dce72c91ff1f9c6a86b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Ship supply[^key-02501efa7c4895e873a3b1ae0f7f7a65]
+#### 11. Ship supply[^c-02501efa7c4895e873a3b1ae0f7f7a65]
 
 (1) A product that does not comply with import requirements and is sent from a border control post to a ship must be accompanied by the relevant health certificate relating to that product, and the master of the vessel must confirm delivery of the product by signing a certificate which must accompany the consignment to its place of destination.
 
 (2) Within 15 days of completion of delivery of products on board the vessel, the operator responsible for the delivery, or the representative of the master of the vessel, must send the official certificate signed by the master of the vessel (or send by electronic means and systems) to the competent authorities of the border control post of entry or the approved customs warehouse.
 
-#### 11A. Special Import Conditions[^key-aee29c4842bc20ee2192df12dd23870e]
+#### 11A. Special Import Conditions[^c-aee29c4842bc20ee2192df12dd23870e]
 
-(1) The Welsh Ministers may by regulations impose special import conditions in respect of imports from third countries of products of animal origin intended for human consumption, having regard to the animal health situation of the third country or countries concerned and may for that purpose amend, modify or revoke any assimilated direct minor legislation[^key-87fdac318c00597172b81ce7ecf2f6f7] made under Article 8(4) of Council [Directive 2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099).
+(1) The Welsh Ministers may by regulations impose special import conditions in respect of imports from third countries of products of animal origin intended for human consumption, having regard to the animal health situation of the third country or countries concerned and may for that purpose amend, modify or revoke any assimilated direct minor legislation[^c-87fdac318c00597172b81ce7ecf2f6f7] made under Article 8(4) of Council [Directive 2002/99/EC](https://www.legislation.gov.uk/european/directive/2002/0099).
 
 (2) The power to make regulations under this paragraph—
 
@@ -722,21 +722,21 @@ Regulation 25[^key-134a009a28a05afbad7ff7c391695f73]
 
 (3) A statutory instrument containing regulations made under this paragraph is subject to annulment in pursuance of a resolution of Senedd Cymru.
 
-#### 12. Charges for veterinary checks from New Zealand[^key-7e3b563a7634af99224a61797811721a]
+#### 12. Charges for veterinary checks from New Zealand[^c-7e3b563a7634af99224a61797811721a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Cases to which Part 3 does not apply
 
-Regulation 26(1)[^key-1e8dcc9b360b516b3a4682ca1ced7e9f]
+Regulation 26(1)[^c-1e8dcc9b360b516b3a4682ca1ced7e9f]
 
 ### 1. Disapplication of Part 3
 
 Part 3 of these Regulations does not apply in the cases set out in this Schedule.
 
-### 2. Case 1: Personal imports and small consignments[^key-45f853e95ae6f44dbd74da695dc83e76]
+### 2. Case 1: Personal imports and small consignments[^c-45f853e95ae6f44dbd74da695dc83e76]
 
-Products referred to in Article 7 and Article 10 of [Commission Delegated Regulation (EU) 2019/2122](https://www.legislation.gov.uk/european/regulation/2019/2122)[^key-98b34d3289d778683ee1026e1567a4cb].
+Products referred to in Article 7 and Article 10 of [Commission Delegated Regulation (EU) 2019/2122](https://www.legislation.gov.uk/european/regulation/2019/2122)[^c-98b34d3289d778683ee1026e1567a4cb].
 
 ### 3. Case 2: International means of transport
 
@@ -746,13 +746,13 @@ Products on board means of transport operating internationally that are intended
 - (b) transferred directly from one means of transport operating internationally to another at the same port and under customs supervision; or
 - (c) destroyed as soon as they are unloaded.
 
-### 4. Case 3: Research and diagnostic samples[^key-15815a1e03c52b4a16496677b4109797]
+### 4. Case 3: Research and diagnostic samples[^c-15815a1e03c52b4a16496677b4109797]
 
-(1) Research and diagnostic samples as defined in point (38) of Annex 1 to Commission Regulation (EU) No 142/2011[^key-122a4d67d4a26528f7953bf6147dd651] are exempt from veterinary checks at the border control post, provided that they have been authorised in advance by the Welsh Ministers and the consignment is sent directly from the point of entry to the authorised user.
+(1) Research and diagnostic samples as defined in point (38) of Annex 1 to Commission Regulation (EU) No 142/2011[^c-122a4d67d4a26528f7953bf6147dd651] are exempt from veterinary checks at the border control post, provided that they have been authorised in advance by the Welsh Ministers and the consignment is sent directly from the point of entry to the authorised user.
 
-(2)[^key-19a179805e22861d82485d970771af44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-19a179805e22861d82485d970771af44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Case 4: Consignments cleared in Great Britain[^key-c8f8239f4fffd9c62f4b51e47aa0d5f7]
+### 5. Case 4: Consignments cleared in Great Britain[^c-c8f8239f4fffd9c62f4b51e47aa0d5f7]
 
 Consignments of animals and products from third countries that have been presented to any border control post in Great Britain and cleared for free circulation.
 
@@ -765,33 +765,33 @@ Consignments of animals and products from third countries that have been present
 - (a) shelf-stable at ambient temperature or have clearly undergone, in their manufacture, a complete cooking or heat treatment process throughout their substance, so that any raw product is denatured;
 - (b) clearly identified as intended for human consumption;
 - (c) securely packaged or sealed in clean containers; and
-- (d) accompanied by a commercial document and labelled in English (whether or not it also appears in any other language)[^key-ea2fe54bfcd37d75f6feb9e834e23684], so that that document and labelling together give information on the nature, quality and number of packages of the composite products, the country of origin, the manufacturer and the ingredient.
+- (d) accompanied by a commercial document and labelled in English (whether or not it also appears in any other language)[^c-ea2fe54bfcd37d75f6feb9e834e23684], so that that document and labelling together give information on the nature, quality and number of packages of the composite products, the country of origin, the manufacturer and the ingredient.
 
 ### 7. Case 6: Animals subject to rabies control
 
 Animals specified in Schedule 1 to the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974 [^c21064981] and imported in accordance with a licence under that Order.
 
-### 8. Case 7: Relevant animals intended for scientific purposes[^key-7cd817014a138d6b04ca78efb5c7b83d][^key-69566ae8544594c5ecade76412e5441c]
+### 8. Case 7: Relevant animals intended for scientific purposes[^c-7cd817014a138d6b04ca78efb5c7b83d][^c-69566ae8544594c5ecade76412e5441c]
 
-(1) Relevant[^key-7f17ae52016b7691ca63a7e79497a9f3] animals intended for scientific purposes such as research, educational activities or research related to product development activities are exempt from official controls at border control posts, other than controls carried out in accordance with Article 15(2) of Regulation [(EU) No 1143/2014](https://www.legislation.gov.uk/eur/2014/1143) [^c21065021], provided that—
+(1) Relevant[^c-7f17ae52016b7691ca63a7e79497a9f3] animals intended for scientific purposes such as research, educational activities or research related to product development activities are exempt from official controls at border control posts, other than controls carried out in accordance with Article 15(2) of Regulation [(EU) No 1143/2014](https://www.legislation.gov.uk/eur/2014/1143) [^c21065021], provided that—
 
 - (a) they comply with all requisite animal health requirements;
 - (b) they have been authorized by the Welsh Ministers ;
 - (c) when the activities relating to the scientific purposes have been carried out, they and any products derived from them, with the exception of any portions used for the scientific purposes, must be disposed of or re-dispatched to the third country of origin.
 
-(1A)[^key-770f29e03483a198bd50ed8d241543bc] In this paragraph, “**relevant animals**” means—
+(1A)[^c-770f29e03483a198bd50ed8d241543bc] In this paragraph, “**relevant animals**” means—
 
 - (a) animals listed in Schedule 2 to the Animals (Scientific Procedures) Act 1986; and
 - (b) invertebrate animals.
 
-(2)[^key-0ba05c6cf67780b39024e6d9a470c2cd] Sub-paragraph (1) does not apply to zebra fish, aquatic molluscs belonging to the phylum *Mollusca* or aquatic crustaceans belonging to the subphylum *Crustacea*.
+(2)[^c-0ba05c6cf67780b39024e6d9a470c2cd] Sub-paragraph (1) does not apply to zebra fish, aquatic molluscs belonging to the phylum *Mollusca* or aquatic crustaceans belonging to the subphylum *Crustacea*.
 
-(3)[^key-70231b5a69a5249c4467e45e92e57916] The reference to educational activities in sub-paragraph (1) does not apply in relation to—
+(3)[^c-70231b5a69a5249c4467e45e92e57916] The reference to educational activities in sub-paragraph (1) does not apply in relation to—
 
 - (a) vertebrate animals; or
 - (b) honey bees (*Apis mellifera*) or bumble bees (*Bombus* spp).
 
-### 9. Case 8: low risk goods exempted from routine checks under Article 48(1) and (2)(h) of the Official Controls Regulation[^key-55e27d9a36870c908ef9892c15952bbc][^key-d0459fc34942de0f084fc3eddeb44e6a]
+### 9. Case 8: low risk goods exempted from routine checks under Article 48(1) and (2)(h) of the Official Controls Regulation[^c-55e27d9a36870c908ef9892c15952bbc][^c-d0459fc34942de0f084fc3eddeb44e6a]
 
 Low risk goods exempted from routine identity and physical checks in accordance with conditions specified by regulation 10 of the Official Controls (Miscellaneous Amendments) Regulations 2024.
 
@@ -823,7 +823,7 @@ The Importation of Animal Products and Poultry Products Order 1980 [^c21065001],
 
 .
 
-## SCHEDULE 5 — Application of, derogations from, and modifications to, Part 3 in relation to territories subject to special transitional import arrangements[^key-ccdad194e5a4d7f2c81dc6ed38d68c44]
+## SCHEDULE 5 — Application of, derogations from, and modifications to, Part 3 in relation to territories subject to special transitional import arrangements[^c-ccdad194e5a4d7f2c81dc6ed38d68c44]
 
 Regulation 26(2)
 
@@ -861,12 +861,12 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
 
 ### PART 2 — Derogations from, and modifications to, Part 3 of these Regulations
 
-#### 4. Derogation from regulation 13: place of importation[^key-8d7bd8942668f96bb2fa2746261ea0d4]
+#### 4. Derogation from regulation 13: place of importation[^c-8d7bd8942668f96bb2fa2746261ea0d4]
 
 (1) From 30th April 2024, regulation 13 applies in relation to Wales as if—
 
 - (a) the existing text were renumbered as paragraph (1); and
-- (b) in paragraph (1) (as renumbered) for “other than through a border control post or a point of entry for which a border control post has been[^key-89d85660caa03936226bf0b590ff12d1] designated for that animal or product” there were substituted—
+- (b) in paragraph (1) (as renumbered) for “other than through a border control post or a point of entry for which a border control post has been[^c-89d85660caa03936226bf0b590ff12d1] designated for that animal or product” there were substituted—
 
   > other than—
   >
@@ -889,7 +889,7 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
 
 #### 5. Derogation from regulation 14: timing of notification of importation
 
-(1)[^key-cc58481b14ce26f711b24d42428c8555] From 30th April 2024, subject to the derogation specified in sub-paragraphs (3C) and (3D), regulation 14(1) to (4) applies to relevant goods, as if—
+(1)[^c-cc58481b14ce26f711b24d42428c8555] From 30th April 2024, subject to the derogation specified in sub-paragraphs (3C) and (3D), regulation 14(1) to (4) applies to relevant goods, as if—
 
 - (a) in sub-paragraph (1), for the words from “notify through” to “border control post”, in the second place where it occurs, there were substituted “notify the competent authority in relation to Wales of the expected date of arrival of the consignment in Wales”;
 - (b) in sub-paragraph (3) after “made”, there were inserted “through the appropriate computerised information management system”;
@@ -901,29 +901,29 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
     ;
   - (ii) in paragraph (b), for “border control post at which” there were substituted “place at which, if required,”;
 
-(2)[^key-18fdaa8fc6cbafd53cd661ec24f1314f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-18fdaa8fc6cbafd53cd661ec24f1314f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-18fdaa8fc6cbafd53cd661ec24f1314f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18fdaa8fc6cbafd53cd661ec24f1314f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-18fdaa8fc6cbafd53cd661ec24f1314f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-18fdaa8fc6cbafd53cd661ec24f1314f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-acb3852c284e19dc92a0d5f83ca0af53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-acb3852c284e19dc92a0d5f83ca0af53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-09a8897bd63f8ae596d0da999bd5a891] In relation to relevant goods[^key-4b966bdb051bfa87899f2f2335029549] entering Wales from the Republic of Ireland on or after 31st January 2024, the requirement that the goods be pre-notified before entry does not apply where the condition in sub-paragraph (3D) is met.
+(3C)[^c-09a8897bd63f8ae596d0da999bd5a891] In relation to relevant goods[^c-4b966bdb051bfa87899f2f2335029549] entering Wales from the Republic of Ireland on or after 31st January 2024, the requirement that the goods be pre-notified before entry does not apply where the condition in sub-paragraph (3D) is met.
 
 (3D) The condition is that the goods are qualifying Northern Ireland goods that, in the course of passing from Northern Ireland into Wales, have passed through the Republic of Ireland and have not passed through any other country or territory.
 
 (4) For the purposes of this paragraph—
 
-- (a)[^key-ebfad212e39b7c0290c1c1dd2da0536e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3db8fd4a4515a1d9615e4209c97adb29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ce0f623638bafdd0be74de5df3ed4b44][^key-faa9d84c63265072d1c281fec01389cd] “**qualifying Northern Ireland goods**” has the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018.
+- (a)[^c-ebfad212e39b7c0290c1c1dd2da0536e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3db8fd4a4515a1d9615e4209c97adb29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ce0f623638bafdd0be74de5df3ed4b44][^c-faa9d84c63265072d1c281fec01389cd] “**qualifying Northern Ireland goods**” has the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018.
 
 #### 6. Derogation from regulation 15: procedure on importation
 
 (1) Regulation 15 does not apply to relevant goods but—
 
-- (a)[^key-83849e8146f5790aae85570f6fafed15] from 30th April 2024—
+- (a)[^c-83849e8146f5790aae85570f6fafed15] from 30th April 2024—
   - (i) any identity and physical checks carried out on products may take place either at the point of entry into Wales or at the destination indicated in the importation document accompanying the consignment;
   - (ii) subject to the requirements of Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/european/directive/1964/0432) and [93/119/EC](https://www.legislation.gov.uk/european/directive/1993/0119) and Regulation [(EC) No 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255), official controls in relation to live animals may take place at the destination indicated in the importation document accompanying the animals;
 - (aa) the checks referred to in paragraph (a) must be carried out on a risk or random basis and at the appropriate frequency rate;
@@ -932,17 +932,17 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
 - (ad) where there are no legislative requirements relating to the consignment, the competent authority may issue a CHED where the importation of the consignment is authorised in accordance with the procedure specified in regulation 15(5) to (7);
 - (b) from 1 January 2021, relevant goods consisting of—
   - (i) live animals or germinal products may not be imported into Wales unless they are accompanied by the appropriate health certificate for third country imports, in the form published by the Welsh Ministers or the Secretary of State;
-  - (ii)[^key-2586e8f05c4256026cec4579738f27c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ba)[^key-f0195697e1111140e6f9d9687207fa3c] from 31st January 2024—
+  - (ii)[^c-2586e8f05c4256026cec4579738f27c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ba)[^c-f0195697e1111140e6f9d9687207fa3c] from 31st January 2024—
   - (i) relevant goods consisting of products of animal origin may not be imported into Great Britain at any place in Wales unless they are accompanied by—
     - (aa) the appropriate health certificate for third country imports in the form published by the Welsh Ministers or the Secretary of State from time to time; or
     - (bb) where they meet the conditions in sub-paragraph (1A) or are listed in sub-paragraph (1B), relevant commercial documents which at least identify the premises of origin and destination and contain a description of the product and the quantity of the product; and
   - (ii) relevant goods consisting of animal by-products or derived products may not be imported into Great Britain at any place in Wales unless they are accompanied by—
     - (aa) in the case of goods listed in column 1 of the table in Schedule 6 which are stated in the health certificate to be intended for the use (or use of a kind) mentioned in relation to those goods in column 2 of that table, the appropriate health certificate for third country imports in the form published by the Welsh Ministers or the Secretary of State from time to time; or
     - (bb) in any other case, relevant commercial documents which at least identify the premises of origin and destination and contain a description of the product and the quantity of the product.
-- (c)[^key-82a85757e87952efd06b2c2ccebb4f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-82a85757e87952efd06b2c2ccebb4f8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-b51f495cf1b46dbbf38a03c4fb2f1aac] The conditions referred to in sub-paragraph (1)(ba)(i)(bb) are that they—
+(1A)[^c-b51f495cf1b46dbbf38a03c4fb2f1aac] The conditions referred to in sub-paragraph (1)(ba)(i)(bb) are that they—
 
 - (a) are shelf-stable at ambient temperature;
 - (b) are securely packaged or sealed in clean containers; and
@@ -971,11 +971,11 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
 - (h) rendered animal fat;
 - (i) greaves.
 
-(2) The documents described in sub-paragraph (1)(b) and (ba)[^key-5a0e473149d0f442620fc5592c03e192] [^key-9a6909a090ed58e7ddf062c8edc23b8c]... must accompany the consignment of the relevant goods concerned to its place of destination.
+(2) The documents described in sub-paragraph (1)(b) and (ba)[^c-5a0e473149d0f442620fc5592c03e192] [^c-9a6909a090ed58e7ddf062c8edc23b8c]... must accompany the consignment of the relevant goods concerned to its place of destination.
 
-(3)[^key-7033ea44fccf2d7bb5e9b69e448c5a44] in this paragraph—
+(3)[^c-7033ea44fccf2d7bb5e9b69e448c5a44] in this paragraph—
 
-- (za)[^key-9e9a4a73ef1c7d6abe6ee09f38184946] “**appropriate frequency rate**” has the meaning given by paragraph 2 of Annex 6 to the Official Controls Regulation;
+- (za)[^c-9e9a4a73ef1c7d6abe6ee09f38184946] “**appropriate frequency rate**” has the meaning given by paragraph 2 of Annex 6 to the Official Controls Regulation;
 - (a) “**colostrum-based product**” has the meaning given in point 2 of Section 9 of Annex 3 to Regulation 853/2004;
 - (b) “collagen”, “dairy product”, “fishery product”, “fresh fishery products”, “gelatine” “**greaves**”, “**prepared fishery products**” and “**rendered animal fat**” have the meanings given in Annex 1 to Regulation [(EC) 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853);
 - (c) “**highly refined products of animal origin**” means the products listed in point 1 of Section 16 of Annex 3 to Regulation 853/2004;
@@ -986,13 +986,13 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
 
 #### 7. Derogation from regulation 19(a): unchecked consignments
 
-(1)[^key-df71f26fd51a0f8ca8bd6e672197055a] Regulation 19(a) does not apply to relevant goods coming from a relevant third country[^key-b19095f275682c4073fff00ab73560b7] which have entered Wales through a point of entry other than a border control post in accordance with this Schedule.
+(1)[^c-df71f26fd51a0f8ca8bd6e672197055a] Regulation 19(a) does not apply to relevant goods coming from a relevant third country[^c-b19095f275682c4073fff00ab73560b7] which have entered Wales through a point of entry other than a border control post in accordance with this Schedule.
 
-(2)[^key-9d9f3a8c8f98fb79cbd275232662670c] An enforcement authority may seize any consignment which is removed from a point of entry in Wales without a CHED or without authorisation by the competent authority.
+(2)[^c-9d9f3a8c8f98fb79cbd275232662670c] An enforcement authority may seize any consignment which is removed from a point of entry in Wales without a CHED or without authorisation by the competent authority.
 
 (3) An enforcement authority may seize any consignment which is transported from a point of entry in Wales to a destination other than that specified in the CHED.
 
-#### 8. Modification of regulation 20: action following failure of checks or seizure - products[^key-7a35333765da1b31360c194c6812f1a7]
+#### 8. Modification of regulation 20: action following failure of checks or seizure - products[^c-7a35333765da1b31360c194c6812f1a7]
 
 (1) Regulation 20 applies as if—
 
@@ -1012,7 +1012,7 @@ The provisions of Part 3 of these Regulations apply to relevant goods with the d
 
   ;
 
-#### 9. Modification of regulation 23: action following failure of checks or seizure - animals[^key-1419defd8ed7332a93eade3f4f480d50]
+#### 9. Modification of regulation 23: action following failure of checks or seizure - animals[^c-1419defd8ed7332a93eade3f4f480d50]
 
 Regulation 23 applies as if, in paragraph (1)—
 
@@ -1040,7 +1040,7 @@ Regulation 23 applies as if, in paragraph (1)—
 
 (3) The person responsible for the transportation of the live animals to the place of destination must be in possession of the appropriate authorisation in accordance with Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001).
 
-## SCHEDULE 6 — Transitional import arrangements: animal by-products and derived products requiring a health certificate on importation[^key-5ce6fc25bf5b96b4b0aaaa8eff4d86a7]
+## SCHEDULE 6 — Transitional import arrangements: animal by-products and derived products requiring a health certificate on importation[^c-5ce6fc25bf5b96b4b0aaaa8eff4d86a7]
 
 paragraph 6(1)(ba)(ii)(aa) of Schedule 5
 
@@ -1097,329 +1097,329 @@ A regulatory impact assessment has not been produced for this instrument as no n
 
 [^c21064441]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51) The Welsh Ministers may exercise this power by virtue of section 59(5) of the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-d448afd13fb89f75706523c0ed57c942]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2011/2379) applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
+[^c-d448afd13fb89f75706523c0ed57c942]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2011/2379) applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
 
-[^key-e95a9814954b0bbe98535f69cc9f70b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/2)
+[^c-e95a9814954b0bbe98535f69cc9f70b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/2)
 
-[^key-b77be787e6d847e0213b58387b7fe4eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/i)
+[^c-b77be787e6d847e0213b58387b7fe4eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/i)
 
-[^key-10160ee370ec0efd3211b288f1bd45d2]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/a/i)
+[^c-10160ee370ec0efd3211b288f1bd45d2]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/a/i)
 
-[^key-5be71e640a65bd11f9cf3db5413400b7]: Textual amendment: Words in reg. 2(1) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/a/iii)
+[^c-5be71e640a65bd11f9cf3db5413400b7]: Textual amendment: Words in reg. 2(1) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/a/iii)
 
-[^key-6f4c454ee720254eb1dda1bc80306070]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(2)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/2)
+[^c-6f4c454ee720254eb1dda1bc80306070]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(2)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/2)
 
-[^key-c70494d9e60afb65d7b8429f0e4a64a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/ii)
+[^c-c70494d9e60afb65d7b8429f0e4a64a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/ii)
 
-[^key-6e1ff7ea959392ad2c666f1ee8b264f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/iii)
+[^c-6e1ff7ea959392ad2c666f1ee8b264f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/iii)
 
-[^key-340c335e693efa5d9b13fe9b6592bbca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(iv)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/iv)
+[^c-340c335e693efa5d9b13fe9b6592bbca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(iv)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/iv)
 
-[^key-23c62459e408166ce2eb519dbb69614e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-23c62459e408166ce2eb519dbb69614e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-add4785d31302faee59daec994dc75b6]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/a/ii)
+[^c-add4785d31302faee59daec994dc75b6]: Textual amendment: Words in reg. 2(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/a/ii)
 
-[^key-7f4cba6b68841618c42641a03052e67f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(v)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/v)
+[^c-7f4cba6b68841618c42641a03052e67f]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(a)(v)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/a/v)
 
-[^key-5583655dc50780cfe020e133da21067d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (30.7.2021) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/847)](https://www.legislation.gov.uk/wsi/2021/847), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/847/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/847/regulation/2/2)
+[^c-5583655dc50780cfe020e133da21067d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/1) inserted (30.7.2021) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/847)](https://www.legislation.gov.uk/wsi/2021/847), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/847/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/847/regulation/2/2)
 
-[^key-eee9baeecfc9a18546138f7bc1b0ea61]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/b)
+[^c-eee9baeecfc9a18546138f7bc1b0ea61]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/b)
 
-[^key-c17dc1585b2f3a119647e337068402ee]: Textual amendment: Reg. 2(3) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/b)
+[^c-c17dc1585b2f3a119647e337068402ee]: Textual amendment: Reg. 2(3) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(2)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/2/b)
 
-[^key-a58c6166a3ea3fbd4a495f2a4539a6d2]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/3/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/c/i)
+[^c-a58c6166a3ea3fbd4a495f2a4539a6d2]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/3/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/c/i)
 
 [^c21064471]: Marginal citation: OJ No. L 171, 29.6.2016, p. 66.
 
-[^key-ee2eaa0b5cfba9ab251300eef14a4692]: Textual amendment: [Reg. 2(3)(d)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/3/d) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/c/ii)
+[^c-ee2eaa0b5cfba9ab251300eef14a4692]: Textual amendment: [Reg. 2(3)(d)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/3/d) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/3/c/ii)
 
-[^key-38b4066152ab1a4874944530dcc77a5e]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/4) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/2)
+[^c-38b4066152ab1a4874944530dcc77a5e]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/2/4) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/2)
 
-[^key-9c67d00dda8b915cb29eb7676064c2fc]: Textual amendment: Reg. 3 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(3)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/3)
+[^c-9c67d00dda8b915cb29eb7676064c2fc]: Textual amendment: Reg. 3 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(3)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/3)
 
-[^key-1a1ffb9ab116ddb29f9a2b5452510577]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2011/2379/regulation/3) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/4/a)
+[^c-1a1ffb9ab116ddb29f9a2b5452510577]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2011/2379/regulation/3) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/4/a)
 
-[^key-9e2b21317a55b3fb1b37f917ada7e4d1]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/3/1A) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [4(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/4/b)
+[^c-9e2b21317a55b3fb1b37f917ada7e4d1]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/3/1A) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [4(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/4/b)
 
 [^c21064481]: Marginal citation: OJ No. L 84, 31.3.2016, p. 1.
 
 [^c21064491]: Marginal citation: OJ No. L 17, 28.6.2013, p. 1.
 
-[^key-79d8dd17363207ac42d58d55a563ba3c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/2379/regulation/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2020/1612/regulation/5)
+[^c-79d8dd17363207ac42d58d55a563ba3c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/2379/regulation/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2020/1612/regulation/5)
 
-[^key-ed8832bf8ed134e8f3145de086d5dc7f]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/wsi/2011/2379/part/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2020/1612/regulation/6)
+[^c-ed8832bf8ed134e8f3145de086d5dc7f]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/wsi/2011/2379/part/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2020/1612/regulation/6)
 
-[^key-31ecc865447658acf17d0e0d2690e6b7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2011/2379/regulation/9) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [7(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/7/a)
+[^c-31ecc865447658acf17d0e0d2690e6b7]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2011/2379/regulation/9) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [7(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/7/a)
 
-[^key-b094d0d51c5d60c5fe84d7056231f5da]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2011/2379/regulation/9) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [7(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/7/b)
+[^c-b094d0d51c5d60c5fe84d7056231f5da]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2011/2379/regulation/9) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [7(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/7/b)
 
-[^key-f62fb50a2a93a315603caef1d6210a36]: Textual amendment: Words in reg. 9 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(8)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/8)
+[^c-f62fb50a2a93a315603caef1d6210a36]: Textual amendment: Words in reg. 9 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(8)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/8)
 
-[^key-453bb024a270d8bf7fa79a19b98daf64]: Textual amendment: Reg. 10 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(9)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/9)
+[^c-453bb024a270d8bf7fa79a19b98daf64]: Textual amendment: Reg. 10 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(9)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/9)
 
-[^key-619a11df0b63a003bf77968ccf3f9cef]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/10/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(3)(a)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/3/a)
+[^c-619a11df0b63a003bf77968ccf3f9cef]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/10/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(3)(a)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/3/a)
 
 [^c21064511]: Marginal citation: OJ No. L 261, 14.10.2019, p. 37.
 
 [^c21064521]: Marginal citation: OJ No. L 250, 30.7.2019, p. 6.
 
-[^key-5d7a5d5d39545b27399630791477b2c4]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/10/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/1612/regulation/8)
+[^c-5d7a5d5d39545b27399630791477b2c4]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/10/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2020/1612/regulation/8)
 
-[^key-406aa9e5f6e2a8be6d0d86536eb9afd4]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/10/5) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(3)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/3/b)
+[^c-406aa9e5f6e2a8be6d0d86536eb9afd4]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/10/5) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(3)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/3/b)
 
-[^key-4f7e679c7634da7553db8ce922b0eef3]: Textual amendment: Reg. 11 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(10)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/10)
+[^c-4f7e679c7634da7553db8ce922b0eef3]: Textual amendment: Reg. 11 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(10)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/10)
 
-[^key-5236676959d25697a1c203c36dc3844e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/11/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [9(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/9/a)
+[^c-5236676959d25697a1c203c36dc3844e]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/11/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [9(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/9/a)
 
-[^key-4d0aa8720166442e7a0486f2397115c9]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/11/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [9(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/9/b)
+[^c-4d0aa8720166442e7a0486f2397115c9]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/11/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [9(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/9/b)
 
-[^key-076f2455ef8d22f15776f890d7680dba]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/11/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [9(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/9/c)
+[^c-076f2455ef8d22f15776f890d7680dba]: Textual amendment: Words in [reg. 11(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/11/4) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [9(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/9/c)
 
-[^key-ebb911179a940967753d78efd7dff9ac]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2011/2379/regulation/12) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(4)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/4)
+[^c-ebb911179a940967753d78efd7dff9ac]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2011/2379/regulation/12) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(4)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/4)
 
-[^key-60800334db44918d9610ef93ffa8dbcf]: Textual amendment: Reg. 12(4) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(11)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/11)
+[^c-60800334db44918d9610ef93ffa8dbcf]: Textual amendment: Reg. 12(4) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(11)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/11)
 
-[^key-26de7dbf3f186db71784e8b90b418283]: Textual amendment: Words in reg. 12(4) substituted (20.3.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/2)
+[^c-26de7dbf3f186db71784e8b90b418283]: Textual amendment: Words in reg. 12(4) substituted (20.3.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/2)
 
-[^key-1e56a0036f07dab293fdf8e4f96868e9]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2011/2379/regulation/13) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(5)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/5)
+[^c-1e56a0036f07dab293fdf8e4f96868e9]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2011/2379/regulation/13) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(5)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/5)
 
-[^key-00383cbf96f0ce49469560ade5481a33]: Textual amendment: Reg. 14(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(12)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/12/a)
+[^c-00383cbf96f0ce49469560ade5481a33]: Textual amendment: Reg. 14(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(12)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/12/a)
 
-[^key-1ae0ccf0d124984f314a3682c3a13af9]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/14/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [10(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/10/a)
+[^c-1ae0ccf0d124984f314a3682c3a13af9]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/14/1) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [10(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/10/a)
 
-[^key-4899e3b7931822586f27b4416d09b9a0]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/14/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(6)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/6)
+[^c-4899e3b7931822586f27b4416d09b9a0]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/14/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(6)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/6)
 
-[^key-2b15652bfa92e369cde35b60ef577a6c]: Textual amendment: Reg. 14(2) omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(12)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/12/b)
+[^c-2b15652bfa92e369cde35b60ef577a6c]: Textual amendment: Reg. 14(2) omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(12)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/12/b)
 
-[^key-4441f0d43e18a1ec61ba431040d11944]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/14/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [10(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/10/b)
+[^c-4441f0d43e18a1ec61ba431040d11944]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/14/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [10(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/10/b)
 
-[^key-2ede25c9befa8ea207d13dcb7fd11a15]: Textual amendment: Reg. 14(4) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(12)(c)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/12/c)
+[^c-2ede25c9befa8ea207d13dcb7fd11a15]: Textual amendment: Reg. 14(4) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(12)(c)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/12/c)
 
-[^key-ca74a08a3703cb182e1e61f6c3ef8b5d]: Textual amendment: Reg. 15 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(13)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/13)
+[^c-ca74a08a3703cb182e1e61f6c3ef8b5d]: Textual amendment: Reg. 15 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(13)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/13)
 
-[^key-2da50b500733515a04c5390340b22ad3]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/a/i)
+[^c-2da50b500733515a04c5390340b22ad3]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/a/i)
 
-[^key-9707b41631a22c87e022ac6cb9c8f64d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/a)
+[^c-9707b41631a22c87e022ac6cb9c8f64d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/a)
 
-[^key-156a2f30371555fc105e4e6debeacbef]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/1/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/a/ii)
+[^c-156a2f30371555fc105e4e6debeacbef]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/1/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/a/ii)
 
-[^key-40e756be4115c40776a20daa81e4995d]: Textual amendment: [Reg. 15(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/3/a) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/3)
+[^c-40e756be4115c40776a20daa81e4995d]: Textual amendment: [Reg. 15(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/3/a) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/3)
 
-[^key-7daf488d0246c2337c7ced8089eab7e6]: Textual amendment: Words in [reg. 15(4)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/b/i)
+[^c-7daf488d0246c2337c7ced8089eab7e6]: Textual amendment: Words in [reg. 15(4)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/b/i)
 
-[^key-4217b20997b9c818ed452700d149b846]: Textual amendment: Words in [reg. 15(4)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/b/i)
+[^c-4217b20997b9c818ed452700d149b846]: Textual amendment: Words in [reg. 15(4)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/b/i)
 
-[^key-e78f6538c6eb00c9f1605a8ada0b0272]: Textual amendment: Words in [reg. 15(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/b/ii)
+[^c-e78f6538c6eb00c9f1605a8ada0b0272]: Textual amendment: Words in [reg. 15(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/b/ii)
 
-[^key-dc99d6be1bfb340a310e0f88811fb7e4]: Textual amendment: Words in [reg. 15(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/b/ii)
+[^c-dc99d6be1bfb340a310e0f88811fb7e4]: Textual amendment: Words in [reg. 15(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/c) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/b/ii)
 
-[^key-55dbf9d2a1087b982c8adfafd5d5fe23]: Textual amendment: Words in [reg. 15(4)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/e) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/b/iii)
+[^c-55dbf9d2a1087b982c8adfafd5d5fe23]: Textual amendment: Words in [reg. 15(4)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/e) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/2/b/iii)
 
-[^key-b87706cf329e27d7fd0d846f94ce3231]: Textual amendment: Words in [reg. 15(4)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/e) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/b/iii)
+[^c-b87706cf329e27d7fd0d846f94ce3231]: Textual amendment: Words in [reg. 15(4)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/4/e) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/b/iii)
 
-[^key-716e66241beed51d621171fb5161e336]: Textual amendment: Words in [reg. 15(5)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/5/b) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/c)
+[^c-716e66241beed51d621171fb5161e336]: Textual amendment: Words in [reg. 15(5)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/15/5/b) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [11(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/11/c)
 
-[^key-d7e8d76284a083f20180f55b771f9c5a]: Textual amendment: Reg. 16 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(14)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/14)
+[^c-d7e8d76284a083f20180f55b771f9c5a]: Textual amendment: Reg. 16 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(14)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/14)
 
 [^c21064531]: Marginal citation: OJ No. L 3, 5.1.2005, p.1.
 
-[^key-0f4f797a33cdf73e60f3fa98041e3f10]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/16/5) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(7)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/7)
+[^c-0f4f797a33cdf73e60f3fa98041e3f10]: Textual amendment: Words in [reg. 16(5)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/16/5) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(7)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/7)
 
-[^key-427512db6c9c9821605f6e4a5f1b0b8d]: Textual amendment: Reg. 17 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(15)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/15)
+[^c-427512db6c9c9821605f6e4a5f1b0b8d]: Textual amendment: Reg. 17 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(15)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/15)
 
-[^key-26ad1c89a38c47b743559b081b19f767]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2011/2379/regulation/17) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [12(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/12/a)
+[^c-26ad1c89a38c47b743559b081b19f767]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2011/2379/regulation/17) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [12(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/12/a)
 
-[^key-347f7591d018d55f7f6c4b0ec4376c1d]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2011/2379/regulation/17) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [12(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/12/b)
+[^c-347f7591d018d55f7f6c4b0ec4376c1d]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/wsi/2011/2379/regulation/17) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [12(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/12/b)
 
-[^key-04b6fff5c7558b2ae93d874e62a963cb]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/a)
+[^c-04b6fff5c7558b2ae93d874e62a963cb]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18) heading substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/a)
 
-[^key-856f1f1a8b63c676df49e45eb97e5bc6]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/b/i)
+[^c-856f1f1a8b63c676df49e45eb97e5bc6]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/b/i)
 
-[^key-1b158c92325229ff4d4ea89787dd4455]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/2) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/b/ii)
+[^c-1b158c92325229ff4d4ea89787dd4455]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/2) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/b/ii)
 
-[^key-0ebf41de6872287cc50be281d1aab328]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/2) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(8)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/8)
+[^c-0ebf41de6872287cc50be281d1aab328]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/2) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(8)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/8)
 
-[^key-5d34eaea253ae59ec54c5a0a063785c6]: Textual amendment: Reg. 18(3) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(16)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/16/a)
+[^c-5d34eaea253ae59ec54c5a0a063785c6]: Textual amendment: Reg. 18(3) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(16)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/16/a)
 
-[^key-0d0c573c2d71a7d525e339d2e55f7abe]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/c)
+[^c-0d0c573c2d71a7d525e339d2e55f7abe]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/c)
 
-[^key-6c7211e9149eb9cebed74ccdff7fc9b7]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/3) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/4)
+[^c-6c7211e9149eb9cebed74ccdff7fc9b7]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/3) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/4)
 
-[^key-b3842e3946ea48fea0fc146ac6a9d7dd]: Textual amendment: Reg. 18(3A) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(16)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/16/b)
+[^c-b3842e3946ea48fea0fc146ac6a9d7dd]: Textual amendment: Reg. 18(3A) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(16)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/16/b)
 
-[^key-a38a30a805f27ff205269d7f9bd6efdc]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(d)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/d/i)
+[^c-a38a30a805f27ff205269d7f9bd6efdc]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(d)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/d/i)
 
-[^key-b2f39d67385a5ccd1d52b9d9c9ba5d44]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/d/ii)
+[^c-b2f39d67385a5ccd1d52b9d9c9ba5d44]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/18/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [13(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/13/d/ii)
 
-[^key-b73dbf48d651a453514e838ebc13d483]: Textual amendment: Words in [reg. 19(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/19/a) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(9)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/9)
+[^c-b73dbf48d651a453514e838ebc13d483]: Textual amendment: Words in [reg. 19(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/19/a) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(9)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/9)
 
-[^key-85ba89f19537edcbb7b2bb827f7619cf]: Textual amendment: Reg. 19(b)(c) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(17)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/17)
+[^c-85ba89f19537edcbb7b2bb827f7619cf]: Textual amendment: Reg. 19(b)(c) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(17)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/17)
 
-[^key-71fc946466af25c96765bc11d32b9c65]: Textual amendment: Word in [reg. 19(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/19/b) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [14(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/14/b)
+[^c-71fc946466af25c96765bc11d32b9c65]: Textual amendment: Word in [reg. 19(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/19/b) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [14(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/14/b)
 
-[^key-916c1c8bc19205ced815a4f6ed89540f]: Textual amendment: Reg. 20 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(18)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/18)
+[^c-916c1c8bc19205ced815a4f6ed89540f]: Textual amendment: Reg. 20 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(18)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/18)
 
-[^key-5bf691dff90b8cc88e091ad6b5bcf23f]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/b)
+[^c-5bf691dff90b8cc88e091ad6b5bcf23f]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/b)
 
-[^key-f7acaef451d48470b1f9036b6a39a915]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/a)
+[^c-f7acaef451d48470b1f9036b6a39a915]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/a)
 
-[^key-b357258203b35152df1b15be97ffa2b9]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/2) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/c/i)
+[^c-b357258203b35152df1b15be97ffa2b9]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/2) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/c/i)
 
-[^key-d15862f04fd94d7097dbe01d568b2b12]: Textual amendment: Word in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/c/ii)
+[^c-d15862f04fd94d7097dbe01d568b2b12]: Textual amendment: Word in [reg. 20(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/c/ii)
 
-[^key-060cbe2d8329747e3712f44bc9066ed8]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/i)
+[^c-060cbe2d8329747e3712f44bc9066ed8]: Textual amendment: Word in [reg. 20(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/i)
 
-[^key-327099882eee44cb17135c20b189a48b]: Textual amendment: Words in [reg. 20(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/ii)
+[^c-327099882eee44cb17135c20b189a48b]: Textual amendment: Words in [reg. 20(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/ii)
 
-[^key-b98ce4d055fd137bc9f8c773a684c6ba]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(iii)(aa)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/iii/aa)
+[^c-b98ce4d055fd137bc9f8c773a684c6ba]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(iii)(aa)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/iii/aa)
 
-[^key-80a3570ed0f41a6f0bca426524254a9a]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(iii)(bb)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/iii/bb)
+[^c-80a3570ed0f41a6f0bca426524254a9a]: Textual amendment: Words in [reg. 20(3)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/20/3/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [15(d)(iii)(bb)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/15/d/iii/bb)
 
-[^key-f474c2bb61d96d811a3ee88a14465f67]: Textual amendment: Words in reg. 20(7) omitted (20.3.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/3/a)
+[^c-f474c2bb61d96d811a3ee88a14465f67]: Textual amendment: Words in reg. 20(7) omitted (20.3.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/3/a)
 
-[^key-a36994cf7f62512ed1952a3565b2cd32]: Textual amendment: Reg. 20(8) omitted (20.3.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/3/b)
+[^c-a36994cf7f62512ed1952a3565b2cd32]: Textual amendment: Reg. 20(8) omitted (20.3.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/3/b)
 
-[^key-e7e3e8ec797bfa99512312e2fd924e77]: Textual amendment: Reg. 21 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(19)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/19)
+[^c-e7e3e8ec797bfa99512312e2fd924e77]: Textual amendment: Reg. 21 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(19)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/19)
 
-[^key-7a121c0a358c4cbafe2aef6c5b9ebc04]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/wsi/2011/2379/regulation/21) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [16](https://www.legislation.gov.uk/wsi/2020/1612/regulation/16)
+[^c-7a121c0a358c4cbafe2aef6c5b9ebc04]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/wsi/2011/2379/regulation/21) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [16](https://www.legislation.gov.uk/wsi/2020/1612/regulation/16)
 
-[^key-fd6562059fcdb2c86d469b4d708212a2]: Textual amendment: Reg. 22 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(20)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/20)
+[^c-fd6562059fcdb2c86d469b4d708212a2]: Textual amendment: Reg. 22 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(20)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/20)
 
-[^key-7a8f1ab2fd4f48b3be361adf7ba2b2a9]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/a/i)
+[^c-7a8f1ab2fd4f48b3be361adf7ba2b2a9]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/a/i)
 
-[^key-36a3fc62815ec02f8cfb630d4541feb0]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/a/ii)
+[^c-36a3fc62815ec02f8cfb630d4541feb0]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/a/ii)
 
-[^key-bd1848a742a174d65e5831b28bc622b7]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/3) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/b)
+[^c-bd1848a742a174d65e5831b28bc622b7]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/3) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/b)
 
-[^key-570bc2d6583e295218742ea792f147bd]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/c)
+[^c-570bc2d6583e295218742ea792f147bd]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/22/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [17(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/17/c)
 
-[^key-d0e50e4d1a4a41831f1ad6c562cd8205]: Textual amendment: Reg. 23 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(21)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/21)
+[^c-d0e50e4d1a4a41831f1ad6c562cd8205]: Textual amendment: Reg. 23 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(21)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/21)
 
-[^key-daa1391ea2b762fa0392c9a6a6108776]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/23/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [18(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/18/a)
+[^c-daa1391ea2b762fa0392c9a6a6108776]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/23/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [18(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/18/a)
 
-[^key-508a01ea03475ac3e5965743d4649963]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/wsi/2011/2379/regulation/23) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [18(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/18/b)
+[^c-508a01ea03475ac3e5965743d4649963]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/wsi/2011/2379/regulation/23) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [18(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/18/b)
 
-[^key-8d62b692b725eed42757ed361caed4de]: Textual amendment: Words in reg. 23(6) omitted (20.3.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/4)
+[^c-8d62b692b725eed42757ed361caed4de]: Textual amendment: Words in reg. 23(6) omitted (20.3.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/4)
 
 [^c21064581]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-9889ea594d0b9813716359776670a51b]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26) heading inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [19(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/19/a)
+[^c-9889ea594d0b9813716359776670a51b]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26) heading inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [19(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/19/a)
 
-[^key-2d7d7a02d5f5fe3f6b5d8a88a7c53d85]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/1) renumbered as reg. 26(1) (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [19(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/19/b)
+[^c-2d7d7a02d5f5fe3f6b5d8a88a7c53d85]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/1) renumbered as reg. 26(1) (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [19(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/19/b)
 
-[^key-c9102888ac93c7a127ab115f7e148a1e]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/3) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [19(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/19/c)
+[^c-c9102888ac93c7a127ab115f7e148a1e]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/3) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [19(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/19/c)
 
-[^key-41d2db02f58a5b138af4a89c69457ec0]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/3) substituted (30.7.2021) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/847)](https://www.legislation.gov.uk/wsi/2021/847), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/847/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/847/regulation/2/3)
+[^c-41d2db02f58a5b138af4a89c69457ec0]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/26/3) substituted (30.7.2021) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/847)](https://www.legislation.gov.uk/wsi/2021/847), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/847/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/847/regulation/2/3)
 
-[^key-f517467c6740dcdc18fd3686f02b5a8e]: Textual amendment: Words in reg. 27 heading inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(22)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/22/a)
+[^c-f517467c6740dcdc18fd3686f02b5a8e]: Textual amendment: Words in reg. 27 heading inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(22)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/22/a)
 
-[^key-f53aef1cde9405d188652b5f8f357689]: Textual amendment: Reg. 27(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(22)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/22/b)
+[^c-f53aef1cde9405d188652b5f8f357689]: Textual amendment: Reg. 27(1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(22)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/22/b)
 
-[^key-bf7416ecdf714b1532d4d042ecd7506c]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/a)
+[^c-bf7416ecdf714b1532d4d042ecd7506c]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/a)
 
-[^key-84b14c57eff41cf4c1332f690a7e36ab]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27/1A) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/b)
+[^c-84b14c57eff41cf4c1332f690a7e36ab]: Textual amendment: [Reg. 27(1A)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27/1A) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/b)
 
-[^key-68a58b9858c9e26e6bc7277b3fc39fcf]: Textual amendment: Words in [reg. 27(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27/3/a) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/c/i)
+[^c-68a58b9858c9e26e6bc7277b3fc39fcf]: Textual amendment: Words in [reg. 27(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27/3/a) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/c/i)
 
-[^key-b646e0ff176b433f5793fba12622cdb2]: Textual amendment: Word in [reg. 27(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27/3/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/c/ii)
+[^c-b646e0ff176b433f5793fba12622cdb2]: Textual amendment: Word in [reg. 27(3)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/27/3/a) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [20(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/20/c/ii)
 
-[^key-93592333c9ffbe710f0ef87848719299]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/wsi/2011/2379/regulation/28) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [21](https://www.legislation.gov.uk/wsi/2020/1612/regulation/21)
+[^c-93592333c9ffbe710f0ef87848719299]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/wsi/2011/2379/regulation/28) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [21](https://www.legislation.gov.uk/wsi/2020/1612/regulation/21)
 
-[^key-92c4240c65342f9e4fbe13aadabf971e]: Textual amendment: Reg. 29 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(23)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/23)
+[^c-92c4240c65342f9e4fbe13aadabf971e]: Textual amendment: Reg. 29 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(23)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/23)
 
-[^key-72e2ffaa0bba67ad65088dd5e6be3d9d]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/1/a) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/a/ii)
+[^c-72e2ffaa0bba67ad65088dd5e6be3d9d]: Textual amendment: Words in [reg. 29(1)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/1/a) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/a/ii)
 
-[^key-275b4ff29a2d7d6760fc8236b2688d50]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/a/i)
+[^c-275b4ff29a2d7d6760fc8236b2688d50]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/a/i)
 
-[^key-51ba29c98f732ab420f58d19265a6eee]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(a)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/a/iii)
+[^c-51ba29c98f732ab420f58d19265a6eee]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/1/b) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(a)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/a/iii)
 
-[^key-2f1eedef128a0b88c738151871928aad]: Textual amendment: Words in [reg. 29(2)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/a) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/i)
+[^c-2f1eedef128a0b88c738151871928aad]: Textual amendment: Words in [reg. 29(2)(a)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/a) inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/i)
 
-[^key-d6fa89671e91ef0c7d74210b0bd08da4]: Textual amendment: Words in [reg. 29(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/b/ii) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/ii/aa)
+[^c-d6fa89671e91ef0c7d74210b0bd08da4]: Textual amendment: Words in [reg. 29(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/b/ii) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/ii/aa)
 
-[^key-eaa3b18b00cd344f561c39336862fa57]: Textual amendment: Words in [reg. 29(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/ii/bb)
+[^c-eaa3b18b00cd344f561c39336862fa57]: Textual amendment: Words in [reg. 29(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/ii/bb)
 
-[^key-ebe859c1b32b003889627e1d0451e34f]: Textual amendment: Words in [reg. 29(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/ii/cc)
+[^c-ebe859c1b32b003889627e1d0451e34f]: Textual amendment: Words in [reg. 29(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/29/2/b/ii) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [22(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/22/b/ii/cc)
 
-[^key-cfc03593767d0a258ef72ac94475657b]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/wsi/2011/2379/regulation/32) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(10)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/10)
+[^c-cfc03593767d0a258ef72ac94475657b]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/wsi/2011/2379/regulation/32) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(10)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/10)
 
-[^key-a0322401e7795471ab8ec52dcc162c0d]: Textual amendment: Words in reg. 32(2) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(24)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/24/a)
+[^c-a0322401e7795471ab8ec52dcc162c0d]: Textual amendment: Words in reg. 32(2) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(24)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/24/a)
 
-[^key-61657b94eeef2a5f94aaaf9edf4a6896]: Textual amendment: Reg. 32(2A) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(24)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/24/b)
+[^c-61657b94eeef2a5f94aaaf9edf4a6896]: Textual amendment: Reg. 32(2A) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(24)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/24/b)
 
 [^c21064601]: Marginal citation: [S.I. 2006/31](https://www.legislation.gov.uk/uksi/2006/31) (W.5).
 
-[^key-388f49e1704da9739dc50b93bc610cf2]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/32/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [23](https://www.legislation.gov.uk/wsi/2020/1612/regulation/23)
+[^c-388f49e1704da9739dc50b93bc610cf2]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/32/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [23](https://www.legislation.gov.uk/wsi/2020/1612/regulation/23)
 
-[^key-435c58758115909386572ddacede0558]: Textual amendment: Reg. 32(6) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(24)(d)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/24/d)
+[^c-435c58758115909386572ddacede0558]: Textual amendment: Reg. 32(6) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(24)(d)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/24/d)
 
-[^key-89001b01374e40e35f474318a190b30a]: Textual amendment: Reg. 33 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(25)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/25)
+[^c-89001b01374e40e35f474318a190b30a]: Textual amendment: Reg. 33 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(25)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/25)
 
-[^key-cd697b18d3fc5eb9fe2fd0dcf99c71f7]: Textual amendment: Reg. 34(h)(i) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(26)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/26)
+[^c-cd697b18d3fc5eb9fe2fd0dcf99c71f7]: Textual amendment: Reg. 34(h)(i) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(26)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/26)
 
-[^key-1403eb8f605bc7781f205ed1f97da792]: Textual amendment: Words in [reg. 34(h)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/34/h) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [24](https://www.legislation.gov.uk/wsi/2020/1612/regulation/24)
+[^c-1403eb8f605bc7781f205ed1f97da792]: Textual amendment: Words in [reg. 34(h)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/34/h) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [24](https://www.legislation.gov.uk/wsi/2020/1612/regulation/24)
 
-[^key-1802fa19753430f1de06bb4c4ef69204]: Textual amendment: Reg. 35 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(27)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/27)
+[^c-1802fa19753430f1de06bb4c4ef69204]: Textual amendment: Reg. 35 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(27)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/27)
 
-[^key-1d8af948180a0b7b1294af920abcb382]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/a/i)
+[^c-1d8af948180a0b7b1294af920abcb382]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(a)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/a/i)
 
-[^key-8be0ccce369438c81b24006474631c73]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/a/i)
+[^c-8be0ccce369438c81b24006474631c73]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/a/i)
 
-[^key-e5dfce8e346788f38e907df5e33fe70b]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/a/ii)
+[^c-e5dfce8e346788f38e907df5e33fe70b]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/a/ii)
 
-[^key-b9a2ae4e04b9c01cd247f7678f666271]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/a/ii)
+[^c-b9a2ae4e04b9c01cd247f7678f666271]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/1) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/a/ii)
 
-[^key-a5f43617b393950fc79cc38cddc1f2ae]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/b/i)
+[^c-a5f43617b393950fc79cc38cddc1f2ae]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(b)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/b/i)
 
-[^key-43a057bfac35d06020d1b1f4a3248568]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(b)(i)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/b/i)
+[^c-43a057bfac35d06020d1b1f4a3248568]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(b)(i)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/b/i)
 
-[^key-c58ca0cbf91806072bb9da15dcbbcd86]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/b/ii)
+[^c-c58ca0cbf91806072bb9da15dcbbcd86]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/b/ii)
 
-[^key-cf55e2dc24a9365e9b3760abf3baae97]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/b/ii)
+[^c-cf55e2dc24a9365e9b3760abf3baae97]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/b/ii)
 
-[^key-303c987c460d8df3a9be55b2698f2814]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/b/iii)
+[^c-303c987c460d8df3a9be55b2698f2814]: Textual amendment: Words in [reg. 35(3)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/b/iii)
 
-[^key-3d0fb9863bf64734adc233ddf5956a50]: Textual amendment: Words in [reg. 35(4)-(6)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/c)
+[^c-3d0fb9863bf64734adc233ddf5956a50]: Textual amendment: Words in [reg. 35(4)-(6)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/4) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [25(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/25/c)
 
-[^key-c1d6537561f646f86ec931ac3489be44]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/4) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/c)
+[^c-c1d6537561f646f86ec931ac3489be44]: Textual amendment: Words in [reg. 35(4)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/4) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/c)
 
-[^key-0128e6d9c118cb094529c179407640d0]: Textual amendment: Words in [reg. 35(5)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/5) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/c)
+[^c-0128e6d9c118cb094529c179407640d0]: Textual amendment: Words in [reg. 35(5)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/5) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/c)
 
-[^key-2b184a044712970fa24825eda1dbd167]: Textual amendment: Words in [reg. 35(6)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/6) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/c)
+[^c-2b184a044712970fa24825eda1dbd167]: Textual amendment: Words in [reg. 35(6)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/35/6) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(5)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/5/c)
 
-[^key-653ffe550bb368f4a340b26f209cb724]: Textual amendment: Reg. 35A inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(28)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/28)
+[^c-653ffe550bb368f4a340b26f209cb724]: Textual amendment: Reg. 35A inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(28)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/28)
 
-[^key-f558ff32d7b7409bbe4b5b666c1d1c31]: Textual amendment: Words in reg. 36 inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(29)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/29)
+[^c-f558ff32d7b7409bbe4b5b666c1d1c31]: Textual amendment: Words in reg. 36 inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(29)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/29)
 
-[^key-de0ab2b79cb594ae3de3eb6fa0539710]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/wsi/2011/2379/regulation/36) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [26](https://www.legislation.gov.uk/wsi/2020/1612/regulation/26)
+[^c-de0ab2b79cb594ae3de3eb6fa0539710]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/wsi/2011/2379/regulation/36) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [26](https://www.legislation.gov.uk/wsi/2020/1612/regulation/26)
 
-[^key-84ca02577f8fcdb6c70fd32437832f9b]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/37/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [27](https://www.legislation.gov.uk/wsi/2020/1612/regulation/27)
+[^c-84ca02577f8fcdb6c70fd32437832f9b]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/37/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [27](https://www.legislation.gov.uk/wsi/2020/1612/regulation/27)
 
-[^key-c38c1b2f8a58f34d85e21d3fbb1ff0f8]: Textual amendment: Reg. 38 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(30)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/30)
+[^c-c38c1b2f8a58f34d85e21d3fbb1ff0f8]: Textual amendment: Reg. 38 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(30)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/30)
 
-[^key-9c0109fbf07b1cd8e5f52567f913e8f2]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/wsi/2011/2379/regulation/38) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/6)
+[^c-9c0109fbf07b1cd8e5f52567f913e8f2]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/wsi/2011/2379/regulation/38) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/6)
 
-[^key-5af6d50f09a3e69a782e8af0b1808ea1]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/wsi/2011/2379/regulation/38) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [28(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/28/b)
+[^c-5af6d50f09a3e69a782e8af0b1808ea1]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/wsi/2011/2379/regulation/38) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [28(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/28/b)
 
-[^key-bdf4d627f17ff30425a1dbafe59e055c]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/a)
+[^c-bdf4d627f17ff30425a1dbafe59e055c]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/a)
 
-[^key-d57cbf94cf929e5d3f470bf8ae1dfb60]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) table substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(11)(a)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/11/a)
+[^c-d57cbf94cf929e5d3f470bf8ae1dfb60]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) table substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(11)(a)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/11/a)
 
-[^key-0d1665d5bff9af897fb46df7636cd503]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) table substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(11)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/11/b)
+[^c-0d1665d5bff9af897fb46df7636cd503]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) table substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(11)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/11/b)
 
-[^key-cc10c996fc0f8fbe37dcddda075a43cf]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/b)
+[^c-cc10c996fc0f8fbe37dcddda075a43cf]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/b)
 
-[^key-362b261fd683b31b7584f81149bcfeec]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/c)
+[^c-362b261fd683b31b7584f81149bcfeec]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/c)
 
-[^key-238211b7eac3ce05f749c7d00dee345a]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(d)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/d)
+[^c-238211b7eac3ce05f749c7d00dee345a]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(d)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/d)
 
-[^key-dd84fcfca9647273526844768d0473e4]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(e)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/e)
+[^c-dd84fcfca9647273526844768d0473e4]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/wsi/2011/2379/regulation/39) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [29(e)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/29/e)
 
 [^c21064631]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the [Magistrates' Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the [Magistrates' Courts Act 1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5; subsection (5) was repealed by the Magistrates' Court Act 1952, section 132, Schedule 6.
 
 [^c21064641]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a), and Schedule 37, part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the [Criminal Justice Act 1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
 
-[^key-5d73afdad185e4355f82e3b0aa847015]: Textual amendment: Reg. 42 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(32)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/32)
+[^c-5d73afdad185e4355f82e3b0aa847015]: Textual amendment: Reg. 42 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(32)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/32)
 
 [^c21064651]: Marginal citation: [S. I. 1996/3124](https://www.legislation.gov.uk/uksi/1996/3124).
 
@@ -1431,120 +1431,120 @@ A regulatory impact assessment has not been produced for this instrument as no n
 
 [^c21064691]: Marginal citation: [S. I. 2007/376](https://www.legislation.gov.uk/uksi/2007/376) (W. 36).
 
-[^key-10e4360cd50fb6f90935c68442288f8f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2011/2379/schedule/1) omitted (16.12.2022) by virtue of [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(7)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/7)
+[^c-10e4360cd50fb6f90935c68442288f8f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2011/2379/schedule/1) omitted (16.12.2022) by virtue of [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(7)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/7)
 
-[^key-134a009a28a05afbad7ff7c391695f73]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [30(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/30/a)
+[^c-134a009a28a05afbad7ff7c391695f73]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [30(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/30/a)
 
-[^key-cae8be0619bb0fab7018e0ca66dc375a]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/part/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [30(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/30/b)
+[^c-cae8be0619bb0fab7018e0ca66dc375a]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/part/1) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [30(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/30/b)
 
-[^key-54d61cc4f9ce1b8f53285d591d7b8b8d]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/8) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(12)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/12)
+[^c-54d61cc4f9ce1b8f53285d591d7b8b8d]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/8) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(12)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/12)
 
-[^key-193ecd100f4be8e96706d35778376dad]: Textual amendment: Words in Sch. 2 para. 9(1) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(34)(f)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/34/f)
+[^c-193ecd100f4be8e96706d35778376dad]: Textual amendment: Words in Sch. 2 para. 9(1) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(34)(f)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/34/f)
 
-[^key-f74e0b71f13a25567674578cb2dc2397]: Textual amendment: Word in Sch. 2 para. 9(1) inserted (20.3.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(5)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/5)
+[^c-f74e0b71f13a25567674578cb2dc2397]: Textual amendment: Word in Sch. 2 para. 9(1) inserted (20.3.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) Regulations 2020 (S.I. 2020/177)](https://www.legislation.gov.uk/wsi/2020/177), [regs. 1](https://www.legislation.gov.uk/wsi/2020/177/regulation/1), [2(5)](https://www.legislation.gov.uk/wsi/2020/177/regulation/2/5)
 
-[^key-b7fb542478d22ef401aeb03a5d8511d6]: Textual amendment: Words in Sch. 2 para. 9(1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [37](https://www.legislation.gov.uk/wsi/2018/1216/regulation/37)
+[^c-b7fb542478d22ef401aeb03a5d8511d6]: Textual amendment: Words in Sch. 2 para. 9(1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [37](https://www.legislation.gov.uk/wsi/2018/1216/regulation/37)
 
-[^key-7f00e77d72a90dce72c91ff1f9c6a86b]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/10) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [30(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/30/c)
+[^c-7f00e77d72a90dce72c91ff1f9c6a86b]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/10) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [30(c)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/30/c)
 
-[^key-02501efa7c4895e873a3b1ae0f7f7a65]: Textual amendment: Sch. 2 para. 11 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(34)(h)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/34/h)
+[^c-02501efa7c4895e873a3b1ae0f7f7a65]: Textual amendment: Sch. 2 para. 11 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(34)(h)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/34/h)
 
-[^key-aee29c4842bc20ee2192df12dd23870e]: Textual amendment: [Sch. 2 para. 11A](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/11A) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/2/2)
+[^c-aee29c4842bc20ee2192df12dd23870e]: Textual amendment: [Sch. 2 para. 11A](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/11A) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1639)](https://www.legislation.gov.uk/wsi/2020/1639), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/1639/regulation/2/2)
 
-[^key-87fdac318c00597172b81ce7ecf2f6f7]: Textual amendment: Words in [Sch. 2 para. 11A(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/11A/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(3)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/3)
+[^c-87fdac318c00597172b81ce7ecf2f6f7]: Textual amendment: Words in [Sch. 2 para. 11A(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/2/paragraph/11A/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [14(3)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/14/3)
 
-[^key-7e3b563a7634af99224a61797811721a]: Textual amendment: Sch. 2 para. 12 omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(34)(i)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/34/i)
+[^c-7e3b563a7634af99224a61797811721a]: Textual amendment: Sch. 2 para. 12 omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(34)(i)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/34/i)
 
-[^key-1e8dcc9b360b516b3a4682ca1ced7e9f]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/a)
+[^c-1e8dcc9b360b516b3a4682ca1ced7e9f]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(a)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/a)
 
-[^key-45f853e95ae6f44dbd74da695dc83e76]: Textual amendment: Sch. 3 para. 2 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(35)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/35/a)
+[^c-45f853e95ae6f44dbd74da695dc83e76]: Textual amendment: Sch. 3 para. 2 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(35)(a)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/35/a)
 
-[^key-98b34d3289d778683ee1026e1567a4cb]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/b)
+[^c-98b34d3289d778683ee1026e1567a4cb]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/2) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(b)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/b)
 
-[^key-15815a1e03c52b4a16496677b4109797]: Textual amendment: Sch. 3 para. 4 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(35)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/35/b)
+[^c-15815a1e03c52b4a16496677b4109797]: Textual amendment: Sch. 3 para. 4 substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(35)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/35/b)
 
-[^key-122a4d67d4a26528f7953bf6147dd651]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/4/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/c/i)
+[^c-122a4d67d4a26528f7953bf6147dd651]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/4/1) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(c)(i)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/c/i)
 
-[^key-19a179805e22861d82485d970771af44]: Textual amendment: [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/4/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/c/ii)
+[^c-19a179805e22861d82485d970771af44]: Textual amendment: [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/4/2) omitted (31.12.2020) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/c/ii)
 
-[^key-c8f8239f4fffd9c62f4b51e47aa0d5f7]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/5) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(d)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/d)
+[^c-c8f8239f4fffd9c62f4b51e47aa0d5f7]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/5) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(d)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/d)
 
-[^key-ea2fe54bfcd37d75f6feb9e834e23684]: Textual amendment: Words in [Sch. 3 para. 6(2)(d)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/6/2/d) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(e)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/e)
+[^c-ea2fe54bfcd37d75f6feb9e834e23684]: Textual amendment: Words in [Sch. 3 para. 6(2)(d)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/6/2/d) substituted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [31(e)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/31/e)
 
 [^c21064981]: Marginal citation: [S.I. 1974/2211](https://www.legislation.gov.uk/uksi/1974/2211) to which there are amendments not relevant to these Regulations.
 
-[^key-7cd817014a138d6b04ca78efb5c7b83d]: Textual amendment: Sch. 3 para. 8 inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(35)(e)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/35/e)
+[^c-7cd817014a138d6b04ca78efb5c7b83d]: Textual amendment: Sch. 3 para. 8 inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [23(35)(e)](https://www.legislation.gov.uk/wsi/2020/44/regulation/23/35/e)
 
-[^key-69566ae8544594c5ecade76412e5441c]: Textual amendment: Word in [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8) heading substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/a)
+[^c-69566ae8544594c5ecade76412e5441c]: Textual amendment: Word in [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8) heading substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/a)
 
-[^key-7f17ae52016b7691ca63a7e79497a9f3]: Textual amendment: Word in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/1) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/a)
+[^c-7f17ae52016b7691ca63a7e79497a9f3]: Textual amendment: Word in [Sch. 3 para. 8(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/1) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/a)
 
 [^c21065021]: Marginal citation: OJ No. L. 317, 4.11.2014, p. 35.
 
-[^key-770f29e03483a198bd50ed8d241543bc]: Textual amendment: [Sch. 3 para. 8(1A)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/1A) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/b)
+[^c-770f29e03483a198bd50ed8d241543bc]: Textual amendment: [Sch. 3 para. 8(1A)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/1A) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/b)
 
-[^key-0ba05c6cf67780b39024e6d9a470c2cd]: Textual amendment: [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/2) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/c)
+[^c-0ba05c6cf67780b39024e6d9a470c2cd]: Textual amendment: [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/2) substituted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(c)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/c)
 
-[^key-70231b5a69a5249c4467e45e92e57916]: Textual amendment: [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/3) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(d)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/d)
+[^c-70231b5a69a5249c4467e45e92e57916]: Textual amendment: [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/8/3) inserted (16.12.2022) by [The Trade in Animals and Related Products (Amendment and Legislative Functions) and Animal Health (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1348)](https://www.legislation.gov.uk/wsi/2022/1348), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/1/2), [3(8)(d)](https://www.legislation.gov.uk/wsi/2022/1348/regulation/3/8/d)
 
-[^key-55e27d9a36870c908ef9892c15952bbc]: Textual amendment: Sch. 3 para. 9 inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-55e27d9a36870c908ef9892c15952bbc]: Textual amendment: Sch. 3 para. 9 inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-d0459fc34942de0f084fc3eddeb44e6a]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/9) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(13)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/13)
+[^c-d0459fc34942de0f084fc3eddeb44e6a]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2011/2379/schedule/3/paragraph/9) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(13)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/13)
 
 [^c21064991]: Marginal citation: [S.I. 2008/1090](https://www.legislation.gov.uk/uksi/2008/1090) (W.116).
 
 [^c21065001]: Marginal citation: [S.I. 1980/14](https://www.legislation.gov.uk/uksi/1980/14) to which there are amendments not relevant to these Regulations.
 
-[^key-ccdad194e5a4d7f2c81dc6ed38d68c44]: Textual amendment: Sch. 5 inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [32](https://www.legislation.gov.uk/wsi/2020/1612/regulation/32)
+[^c-ccdad194e5a4d7f2c81dc6ed38d68c44]: Textual amendment: Sch. 5 inserted (31.12.2020) by [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/3), [32](https://www.legislation.gov.uk/wsi/2020/1612/regulation/32)
 
-[^key-8d7bd8942668f96bb2fa2746261ea0d4]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/4) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-8d7bd8942668f96bb2fa2746261ea0d4]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/4) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(a)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-89d85660caa03936226bf0b590ff12d1]: Textual amendment: Words in [Sch. 5 para. 4(1)(b)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/4/1/b) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(14)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/14)
+[^c-89d85660caa03936226bf0b590ff12d1]: Textual amendment: Words in [Sch. 5 para. 4(1)(b)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/4/1/b) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [39(14)](https://www.legislation.gov.uk/uksi/2025/102/regulation/39/14)
 
-[^key-cc58481b14ce26f711b24d42428c8555]: Textual amendment: [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/1) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-cc58481b14ce26f711b24d42428c8555]: Textual amendment: [Sch. 5 para. 5(1)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/1) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-18fdaa8fc6cbafd53cd661ec24f1314f]: Textual amendment: [Sch. 5 para. 5(2)-(3A)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/2) omitted (30.4.2024) by virtue of [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-18fdaa8fc6cbafd53cd661ec24f1314f]: Textual amendment: [Sch. 5 para. 5(2)-(3A)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/2) omitted (30.4.2024) by virtue of [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-acb3852c284e19dc92a0d5f83ca0af53]: Textual amendment: [Sch. 5 para. 5(3B)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3B) omitted (31.1.2024) by virtue of [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/a/ii)
+[^c-acb3852c284e19dc92a0d5f83ca0af53]: Textual amendment: [Sch. 5 para. 5(3B)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3B) omitted (31.1.2024) by virtue of [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/a/ii)
 
-[^key-09a8897bd63f8ae596d0da999bd5a891]: Textual amendment: [Sch. 5 para. 5(3C)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3C)[(3D)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3D) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/a/iii)
+[^c-09a8897bd63f8ae596d0da999bd5a891]: Textual amendment: [Sch. 5 para. 5(3C)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3C)[(3D)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3D) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/a/iii)
 
-[^key-4b966bdb051bfa87899f2f2335029549]: Textual amendment: Words in [Sch. 5 para. 5(3C)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3C) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-4b966bdb051bfa87899f2f2335029549]: Textual amendment: Words in [Sch. 5 para. 5(3C)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/3C) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-ebfad212e39b7c0290c1c1dd2da0536e]: Textual amendment: [Sch. 5 para. 5(4)(a)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/a) omitted (30.4.2024) by virtue of [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/iv) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-ebfad212e39b7c0290c1c1dd2da0536e]: Textual amendment: [Sch. 5 para. 5(4)(a)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/a) omitted (30.4.2024) by virtue of [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/iv) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-3db8fd4a4515a1d9615e4209c97adb29]: Textual amendment: [Sch. 5 para. 5(4)(b)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/b) omitted (30.4.2024) by virtue of [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/iv) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-3db8fd4a4515a1d9615e4209c97adb29]: Textual amendment: [Sch. 5 para. 5(4)(b)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/b) omitted (30.4.2024) by virtue of [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/b/iv) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-ce0f623638bafdd0be74de5df3ed4b44]: Textual amendment: [Sch. 5 para. 5(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/c) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/a/iv)
+[^c-ce0f623638bafdd0be74de5df3ed4b44]: Textual amendment: [Sch. 5 para. 5(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/c) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/a/iv)
 
-[^key-faa9d84c63265072d1c281fec01389cd]: Textual amendment: Words in [Sch. 5 para. 5(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/c) substituted (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/217/schedule/2/paragraph/3/2)
+[^c-faa9d84c63265072d1c281fec01389cd]: Textual amendment: Words in [Sch. 5 para. 5(4)(c)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/5/4/c) substituted (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2025/217/schedule/2/paragraph/3/2)
 
-[^key-83849e8146f5790aae85570f6fafed15]: Textual amendment: [Sch. 5 para. 6(1)(a)-(ad)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/a) substituted for [Sch. 5](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5) [para. 6(1)(a)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/a) (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(c)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/c/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-83849e8146f5790aae85570f6fafed15]: Textual amendment: [Sch. 5 para. 6(1)(a)-(ad)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/a) substituted for [Sch. 5](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5) [para. 6(1)(a)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/a) (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(c)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/c/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-2586e8f05c4256026cec4579738f27c9]: Textual amendment: [Sch. 5 para. 6(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/b/ii) omitted (31.1.2024) by virtue of [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/b/i)
+[^c-2586e8f05c4256026cec4579738f27c9]: Textual amendment: [Sch. 5 para. 6(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/b/ii) omitted (31.1.2024) by virtue of [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/b/i)
 
-[^key-f0195697e1111140e6f9d9687207fa3c]: Textual amendment: [Sch. 5 para. 6(1)(ba)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/ba) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/b/ii)
+[^c-f0195697e1111140e6f9d9687207fa3c]: Textual amendment: [Sch. 5 para. 6(1)(ba)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/ba) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/b/ii)
 
-[^key-82a85757e87952efd06b2c2ccebb4f8c]: Textual amendment: [Sch. 5 para. 6(1)(c)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/c) omitted (29.9.2021) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 3) Regulations 2021 (S.I. 2021/1094)](https://www.legislation.gov.uk/wsi/2021/1094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/2/2/b/i)
+[^c-82a85757e87952efd06b2c2ccebb4f8c]: Textual amendment: [Sch. 5 para. 6(1)(c)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1/c) omitted (29.9.2021) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 3) Regulations 2021 (S.I. 2021/1094)](https://www.legislation.gov.uk/wsi/2021/1094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/2/2/b/i)
 
-[^key-b51f495cf1b46dbbf38a03c4fb2f1aac]: Textual amendment: [Sch. 5 para. 6(1A)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1A)[(1B)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1B) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/c)
+[^c-b51f495cf1b46dbbf38a03c4fb2f1aac]: Textual amendment: [Sch. 5 para. 6(1A)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1A)[(1B)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/1B) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/c)
 
-[^key-5a0e473149d0f442620fc5592c03e192]: Textual amendment: Words in [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/2) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(d)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/d)
+[^c-5a0e473149d0f442620fc5592c03e192]: Textual amendment: Words in [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/2) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(d)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/d)
 
-[^key-9a6909a090ed58e7ddf062c8edc23b8c]: Textual amendment: Words in [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/2) omitted (29.9.2021) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 3) Regulations 2021 (S.I. 2021/1094)](https://www.legislation.gov.uk/wsi/2021/1094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/2/2/b/ii)
+[^c-9a6909a090ed58e7ddf062c8edc23b8c]: Textual amendment: Words in [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/2) omitted (29.9.2021) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) (No. 3) Regulations 2021 (S.I. 2021/1094)](https://www.legislation.gov.uk/wsi/2021/1094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/1094/regulation/2/2/b/ii)
 
-[^key-7033ea44fccf2d7bb5e9b69e448c5a44]: Textual amendment: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/3) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(e)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/e)
+[^c-7033ea44fccf2d7bb5e9b69e448c5a44]: Textual amendment: [Sch. 5 para. 6(3)](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/6/3) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [6(3)(e)](https://www.legislation.gov.uk/uksi/2024/20/regulation/6/3/e)
 
-[^key-9e9a4a73ef1c7d6abe6ee09f38184946]: Textual amendment: Sch. 5 para. 6(3)(za) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/c/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-9e9a4a73ef1c7d6abe6ee09f38184946]: Textual amendment: Sch. 5 para. 6(3)(za) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/c/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-df71f26fd51a0f8ca8bd6e672197055a]: Textual amendment: Sch. 5 para. 7 renumbered as Sch. 5 para. 7(1) (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(d)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/d/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-df71f26fd51a0f8ca8bd6e672197055a]: Textual amendment: Sch. 5 para. 7 renumbered as Sch. 5 para. 7(1) (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(d)(i)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/d/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-b19095f275682c4073fff00ab73560b7]: Textual amendment: Words in Sch. 5 para. 7(1) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/d/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-b19095f275682c4073fff00ab73560b7]: Textual amendment: Words in Sch. 5 para. 7(1) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/d/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-9d9f3a8c8f98fb79cbd275232662670c]: Textual amendment: Sch. 5 para. 7(2)(3) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/d/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-9d9f3a8c8f98fb79cbd275232662670c]: Textual amendment: Sch. 5 para. 7(2)(3) inserted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/d/iii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-7a35333765da1b31360c194c6812f1a7]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/8) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(e)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
+[^c-7a35333765da1b31360c194c6812f1a7]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/8) substituted (30.4.2024) by [The Official Controls (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/541)](https://www.legislation.gov.uk/uksi/2024/541), [regs. 1](https://www.legislation.gov.uk/uksi/2024/541/regulation/1), [14(4)(e)](https://www.legislation.gov.uk/uksi/2024/541/regulation/14/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/541/regulation/5))
 
-[^key-1419defd8ed7332a93eade3f4f480d50]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/9) substituted (30.12.2021) by [The Official Controls (Extension of Transitional Periods and Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/1480)](https://www.legislation.gov.uk/wsi/2021/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/2/4)
+[^c-1419defd8ed7332a93eade3f4f480d50]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/wsi/2011/2379/schedule/5/paragraph/9) substituted (30.12.2021) by [The Official Controls (Extension of Transitional Periods and Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/1480)](https://www.legislation.gov.uk/wsi/2021/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/1480/regulation/2/4)
 
-[^key-5ce6fc25bf5b96b4b0aaaa8eff4d86a7]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2011/2379/schedule/6) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/20/schedule/2)
+[^c-5ce6fc25bf5b96b4b0aaaa8eff4d86a7]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/wsi/2011/2379/schedule/6) inserted (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/20/schedule/2)

@@ -61,7 +61,7 @@ Accordingly the Department for Social Development makes the following Order:
 - (a) in paragraph (a) for “£5,668” substitute “ £5,772 ”;
 - (b) in paragraph (b) for “£41,450” substitute “ £41,865 ”.
 
-## 3. Rounding of figures[^key-b386bbfd6580147585bba84278628b48]
+## 3. Rounding of figures[^c-b386bbfd6580147585bba84278628b48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,6 +99,6 @@ Article 4 makes a revocation.
 
 [^c22059521]: Marginal citation: [Section 13(1)](https://www.legislation.gov.uk/nisr/2014/81/section/13/1) was amended by Article 2(2) of S.R. [2013 No. 79](https://www.legislation.gov.uk/ukcm/2013/79)
 
-[^key-b386bbfd6580147585bba84278628b48]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2014/81/article/3) revoked (6.4.2015) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2015 (S.R. 2015/119)](https://www.legislation.gov.uk/nisr/2015/119), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/119/article/1/1), [4](https://www.legislation.gov.uk/nisr/2015/119/article/4)
+[^c-b386bbfd6580147585bba84278628b48]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2014/81/article/3) revoked (6.4.2015) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2015 (S.R. 2015/119)](https://www.legislation.gov.uk/nisr/2015/119), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2015/119/article/1/1), [4](https://www.legislation.gov.uk/nisr/2015/119/article/4)
 
 [^c22059541]: Marginal citation: S.R. [2013 No. 79](https://www.legislation.gov.uk/ukcm/2013/79)

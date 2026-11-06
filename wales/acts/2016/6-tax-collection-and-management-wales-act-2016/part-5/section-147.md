@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Daily default penalty for failure to comply with information notice or obstruction[^key-a90a1779b6c9331a18a0bd530520a322]
+## 147. Daily default penalty for failure to comply with information notice or obstruction[^c-a90a1779b6c9331a18a0bd530520a322]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a90a1779b6c9331a18a0bd530520a322]: Commencement: S. 147 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)
+[^c-a90a1779b6c9331a18a0bd530520a322]: Commencement: S. 147 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)

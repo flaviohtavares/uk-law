@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendment to regulation 50H[^key-1212a379d0a9da6b835ccb6bcfdf81be]
+## 32. Amendment to regulation 50H[^c-1212a379d0a9da6b835ccb6bcfdf81be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 50H (applications relating to advanced therapy medicinal products)
 
 ## Annotations
 
-[^key-1212a379d0a9da6b835ccb6bcfdf81be]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2024/832/regulation/32) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-1212a379d0a9da6b835ccb6bcfdf81be]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2024/832/regulation/32) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00043]: Footnote: Regulation 50H was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -56,51 +56,51 @@ These Regulations may be cited as the Social Security, Child Support and Tax Cre
 
 (3) In regulation 25 [^c529376] (other persons with a right of appeal) for “section 12(2)(b)”[^c529377] there shall be substituted “ section 12(2) ”.
 
-(4) In regulation 36 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370] [^c529378] (composition of appeal tribunals)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+(4) In regulation 36 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370] [^c529378] (composition of appeal tribunals)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (2) for “, (8) and (9)” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370] “ and (8) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370], *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (5) for “, (3) or (9)” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370] “ or (3) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370], and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] omit paragraph (9) (misconceived appeals). *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (2) for “, (8) and (9)” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370] “ and (8) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370], *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (5) for “, (3) or (9)” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370] “ or (3) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370], and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] omit paragraph (9) (misconceived appeals). *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-(5) In regulation 39 (directions concerning oral hearings) for the heading and paragraphs (1) to (4) substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+(5) In regulation 39 (directions concerning oral hearings) for the heading and paragraphs (1) to (4) substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-> **39 (Extent: E+W) (affected by repeal, see note). Choice of hearing (Extent: E+W) (affected by repeal, see note)[^key-d50da2fed4f79a056c5a6bcd15ad3370][^key-d50da2fed4f79a056c5a6bcd15ad3370]**
+> **39 (Extent: E+W) (affected by repeal, see note). Choice of hearing (Extent: E+W) (affected by repeal, see note)[^c-d50da2fed4f79a056c5a6bcd15ad3370][^c-d50da2fed4f79a056c5a6bcd15ad3370]**
 >
-> (1 (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] Where an appeal or a referral is made to an appeal tribunal the appellant and any other party to the proceedings shall notify the clerk to the appeal tribunal, on a form approved by the Secretary of State, whether he wishes to have an oral hearing of the appeal or whether he is content for the appeal or referral to proceed without an oral hearing. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+> (1 (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] Where an appeal or a referral is made to an appeal tribunal the appellant and any other party to the proceedings shall notify the clerk to the appeal tribunal, on a form approved by the Secretary of State, whether he wishes to have an oral hearing of the appeal or whether he is content for the appeal or referral to proceed without an oral hearing. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 >
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] Except in the case of a referral, the form shall include a statement informing the appellant that, if he does not notify the clerk to the appeal tribunal as required by paragraph (1) within the period specified in paragraph (3), the appeal may be struck out in accordance with regulation 46(1). *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] Except in the case of a referral, the form shall include a statement informing the appellant that, if he does not notify the clerk to the appeal tribunal as required by paragraph (1) within the period specified in paragraph (3), the appeal may be struck out in accordance with regulation 46(1). *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 >
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] Notification in accordance with paragraph (1)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] Notification in accordance with paragraph (1)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 >
-> - (a (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] if given by the appellant or a party to the proceedings other than the Secretary of State, must be sent or given to the clerk to the appeal tribunal within 14 days of the date on which the form is issued to him; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-> - (b (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] if given by the Secretary of State, must be sent or given to the clerk— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
->   - (i (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in the case of an appeal, within 14 days of the date on which the form is issued to the appellant; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
->   - (ii (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in the case of a referral, on the date of referral, *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+> - (a (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] if given by the appellant or a party to the proceedings other than the Secretary of State, must be sent or given to the clerk to the appeal tribunal within 14 days of the date on which the form is issued to him; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+> - (b (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] if given by the Secretary of State, must be sent or given to the clerk— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+>   - (i (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in the case of an appeal, within 14 days of the date on which the form is issued to the appellant; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+>   - (ii (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in the case of a referral, on the date of referral, *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 >
->   or within such longer period as the clerk may direct. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+>   or within such longer period as the clerk may direct. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 >
-> (4 (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] Where an oral hearing is requested in accordance with paragraphs (1) and (3) the appeal tribunal shall hold an oral hearing unless the appeal is struck out under regulation 46(1). *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+> (4 (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] Where an oral hearing is requested in accordance with paragraphs (1) and (3) the appeal tribunal shall hold an oral hearing unless the appeal is struck out under regulation 46(1). *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-(6) In regulation 46 (appeals which may be struck out)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+(6) In regulation 46 (appeals which may be struck out)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (1)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-  - (i (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] at the end of sub-paragraph (b) omit “or”, *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-  - (ii (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in sub-paragraph (c) omit “subject to regulation 39(4),” and after “struck out” add *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370] “ ; or ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370], and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-  - (iii (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] after sub-paragraph (c) add— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (1)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+  - (i (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] at the end of sub-paragraph (b) omit “or”, *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in sub-paragraph (c) omit “subject to regulation 39(4),” and after “struck out” add *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370] “ ; or ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370], and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+  - (iii (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] after sub-paragraph (c) add— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-    > - (d (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] for failure of the appellant to notify the clerk to the appeal tribunal, in accordance with regulation 39, whether or not he wishes to have an oral hearing of his appeal. *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+    > - (d (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] for failure of the appellant to notify the clerk to the appeal tribunal, in accordance with regulation 39, whether or not he wishes to have an oral hearing of his appeal. *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-    , and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] omit paragraph (4) (misconceived appeals). *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+    , and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] omit paragraph (4) (misconceived appeals). *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-(7) In regulation 47 *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370] [^c529379] (reinstatement of struck out appeals)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+(7) In regulation 47 *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370] [^c529379] (reinstatement of struck out appeals)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (1) for “46(1)(c)” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370] “ 46(1)(d) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370], *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (2)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-  - (i (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] omit “or 48”, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
-  - (ii (Extent: E+W) (affected by repeal, see note))[^key-d50da2fed4f79a056c5a6bcd15ad3370] omit sub-paragraph (b). *(Extent: E+W)* *(affected by repeal, see note)*[^key-d50da2fed4f79a056c5a6bcd15ad3370]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (1) for “46(1)(c)” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370] “ 46(1)(d) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370], *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] in paragraph (2)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+  - (i (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] omit “or 48”, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^c-d50da2fed4f79a056c5a6bcd15ad3370] omit sub-paragraph (b). *(Extent: E+W)* *(affected by repeal, see note)*[^c-d50da2fed4f79a056c5a6bcd15ad3370]
 
 (8) Omit regulation 48 (misconceived appeals).
 
@@ -122,9 +122,9 @@ These Regulations may be cited as the Social Security, Child Support and Tax Cre
 
 (1) The Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c529384] shall be amended in accordance with this regulation.
 
-(2)[^key-59a3d7b83fcefa0f2ea7cc37de731579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-59a3d7b83fcefa0f2ea7cc37de731579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-59a3d7b83fcefa0f2ea7cc37de731579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-59a3d7b83fcefa0f2ea7cc37de731579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the Schedule (decisions against which no appeal lies)—
 
@@ -139,15 +139,15 @@ These Regulations may be cited as the Social Security, Child Support and Tax Cre
 
   .
 
-## 4. Amendment of the Housing Benefit (General) Regulations 1987[^key-ec8a48aac02ca0046ea0ae2c297f74a8]
+## 4. Amendment of the Housing Benefit (General) Regulations 1987[^c-ec8a48aac02ca0046ea0ae2c297f74a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-ec8a48aac02ca0046ea0ae2c297f74a8]
+## 5. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-ec8a48aac02ca0046ea0ae2c297f74a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Tax Credits (Appeals) (No.2) Regulations 2002[^key-b5683c4a0b5dd68cc48ca3d2a5df4173]
+## 6. Amendment of the Tax Credits (Appeals) (No.2) Regulations 2002[^c-b5683c4a0b5dd68cc48ca3d2a5df4173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c529377]: Marginal citation: Section 12(2) of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) was substituted by the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [Schedule 7](https://www.legislation.gov.uk/ukpga/1999/2/schedule/7), [paragraph 25](https://www.legislation.gov.uk/ukpga/1999/2/paragraph/25).
 
-[^key-d50da2fed4f79a056c5a6bcd15ad3370]: Textual amendment: [Reg. 2(4)-(7)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/2/4) revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(f)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/f), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-d50da2fed4f79a056c5a6bcd15ad3370]: Textual amendment: [Reg. 2(4)-(7)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/2/4) revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(f)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/f), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c529378]: Marginal citation: Regulation 36 was amended by [S.I. 1999/1466](https://www.legislation.gov.uk/uksi/1999/1466) and 2000/1596.
 
@@ -221,7 +221,7 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c529384]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-59a3d7b83fcefa0f2ea7cc37de731579]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/3/3) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-59a3d7b83fcefa0f2ea7cc37de731579]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/2004/3368/regulation/3/3) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c529388]: Marginal citation: Relevant amendments to regulation 72 were made by S.I 1996/2432, 2000/897, and 2001/1605.
 
@@ -235,6 +235,6 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c529393]: Marginal citation: Regulation 62B was substituted by [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897).
 
-[^key-ec8a48aac02ca0046ea0ae2c297f74a8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2004/3368/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-ec8a48aac02ca0046ea0ae2c297f74a8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2004/3368/regulation/5) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-b5683c4a0b5dd68cc48ca3d2a5df4173]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/3368/regulation/6) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-b5683c4a0b5dd68cc48ca3d2a5df4173]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/3368/regulation/6) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)

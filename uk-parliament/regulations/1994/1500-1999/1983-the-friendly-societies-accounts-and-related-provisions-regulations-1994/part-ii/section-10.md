@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Accounting principles and rules[^key-b45a3cc5735b053b02716e1d27db7536]
+## 10. Accounting principles and rules[^c-b45a3cc5735b053b02716e1d27db7536]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b45a3cc5735b053b02716e1d27db7536]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1994/1983/regulation/10) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-b45a3cc5735b053b02716e1d27db7536]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1994/1983/regulation/10) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

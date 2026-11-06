@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Residential standard securities etc.: creditor's rights on default
 
-### 1. Residential standard securities: restriction of creditor's remedies[^key-e481ca1a57acaca240724e30f33adf4d]
+### 1. Residential standard securities: restriction of creditor's remedies[^c-e481ca1a57acaca240724e30f33adf4d]
 
 (1) In section 20 (creditor's rights on default of debtor on calling-up notice) of the Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35) (“**the 1970 Act**”), after subsection (2) insert—
 
@@ -87,7 +87,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 2. Court applications by creditor for remedies on default[^key-f792360a093caf704f21b89d6c1ad305]
+### 2. Court applications by creditor for remedies on default[^c-f792360a093caf704f21b89d6c1ad305]
 
 (1) Section 24 (application by creditor to court for remedies on default) of the 1970 Act is amended as follows.
 
@@ -143,7 +143,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 3. Court powers in action for possession of residential property[^key-dbe7853f052e877803634c91524dbd71]
+### 3. Court powers in action for possession of residential property[^c-dbe7853f052e877803634c91524dbd71]
 
 (1) In section 5 (power to eject proprietor in personal occupation) of the Heritable Securities (Scotland) Act 1894 (c. 44) (“**the 1894 Act**”)—
 
@@ -199,7 +199,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 4. Pre-action requirements[^key-83b40b871ff5bbed5bf73f5f6c80cf4b]
+### 4. Pre-action requirements[^c-83b40b871ff5bbed5bf73f5f6c80cf4b]
 
 (1) After section 24 of the 1970 Act insert—
 
@@ -271,7 +271,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 5. Application to court by entitled residents[^key-601ae9fb20a99d071ec9268efd2d2d7e]
+### 5. Application to court by entitled residents[^c-601ae9fb20a99d071ec9268efd2d2d7e]
 
 (1) After section 24A of the 1970 Act (inserted by section 4 of this Act) insert—
 
@@ -351,7 +351,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 6. Recall of decree[^key-ecdac9588b111bf15c5ac1d78ac93ad2]
+### 6. Recall of decree[^c-ecdac9588b111bf15c5ac1d78ac93ad2]
 
 (1) After section 24C of the 1970 Act (inserted by section 5 of this Act) insert—
 
@@ -401,7 +401,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 7. Representation in repossession proceedings[^key-bde176db3ebd827c185e161d18996be1]
+### 7. Representation in repossession proceedings[^c-bde176db3ebd827c185e161d18996be1]
 
 (1) After section 24D of the 1970 Act (inserted by section 6 of this Act) insert—
 
@@ -472,7 +472,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 8. Minor and consequential amendments[^key-f6a85e7e9242563f8cce720622c4f824]
+### 8. Minor and consequential amendments[^c-f6a85e7e9242563f8cce720622c4f824]
 
 (1) In section 19 (calling-up of standard security) of the 1970 Act—
 
@@ -518,27 +518,27 @@ are repealed.
   - (iii) paragraph (g) of that subsection is repealed,
 - (b) in the schedule, paragraph 5 is repealed.
 
-## Part 2 — Sequestration and trust deeds[^key-f17372c19b2a08317c502e4864078b37]
+## Part 2 — Sequestration and trust deeds[^c-f17372c19b2a08317c502e4864078b37]
 
 **No longer in force.**
 
-### 9. Certificate for sequestration[^key-f17372c19b2a08317c502e4864078b37]
+### 9. Certificate for sequestration[^c-f17372c19b2a08317c502e4864078b37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Trust deeds[^key-f17372c19b2a08317c502e4864078b37]
+### 10. Trust deeds[^c-f17372c19b2a08317c502e4864078b37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Power in relation to debtor's family home[^key-f17372c19b2a08317c502e4864078b37]
+### 11. Power in relation to debtor's family home[^c-f17372c19b2a08317c502e4864078b37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Abolition of certain requirements to advertise in Edinburgh Gazette[^key-f17372c19b2a08317c502e4864078b37]
+### 12. Abolition of certain requirements to advertise in Edinburgh Gazette[^c-f17372c19b2a08317c502e4864078b37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Regulations under the 1985 Act[^key-f17372c19b2a08317c502e4864078b37]
+### 13. Regulations under the 1985 Act[^c-f17372c19b2a08317c502e4864078b37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -581,20 +581,20 @@ In this Act—
 
 ## Annotations
 
-[^key-e481ca1a57acaca240724e30f33adf4d]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2010/6/section/1) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 5)
+[^c-e481ca1a57acaca240724e30f33adf4d]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2010/6/section/1) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 5)
 
-[^key-f792360a093caf704f21b89d6c1ad305]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/6/section/2) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 6)
+[^c-f792360a093caf704f21b89d6c1ad305]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/6/section/2) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 6)
 
-[^key-dbe7853f052e877803634c91524dbd71]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/6/section/3) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 6)
+[^c-dbe7853f052e877803634c91524dbd71]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/6/section/3) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 6)
 
-[^key-83b40b871ff5bbed5bf73f5f6c80cf4b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/6/section/4) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
+[^c-83b40b871ff5bbed5bf73f5f6c80cf4b]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/6/section/4) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
 
-[^key-601ae9fb20a99d071ec9268efd2d2d7e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/6/section/5) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
+[^c-601ae9fb20a99d071ec9268efd2d2d7e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/6/section/5) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
 
-[^key-ecdac9588b111bf15c5ac1d78ac93ad2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/6/section/6) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
+[^c-ecdac9588b111bf15c5ac1d78ac93ad2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/6/section/6) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
 
-[^key-bde176db3ebd827c185e161d18996be1]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/6/section/7) in force at 3.10.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 4](https://www.legislation.gov.uk/ssi/2010/314/article/4) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
+[^c-bde176db3ebd827c185e161d18996be1]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/6/section/7) in force at 3.10.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 4](https://www.legislation.gov.uk/ssi/2010/314/article/4) (with transitional provisions and savings in S.S.I. 2010/316, art. 4)
 
-[^key-f6a85e7e9242563f8cce720622c4f824]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/6/section/8) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 5)
+[^c-f6a85e7e9242563f8cce720622c4f824]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/6/section/8) in force at 30.9.2010 by [S.S.I. 2010/314](https://www.legislation.gov.uk/ssi/2010/314), [art. 3](https://www.legislation.gov.uk/ssi/2010/314/article/3) (with transitional provisions and savings in S.S.I. 2010/316, arts. 4, 5)
 
-[^key-f17372c19b2a08317c502e4864078b37]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2010/6/part/2) repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f17372c19b2a08317c502e4864078b37]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2010/6/part/2) repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

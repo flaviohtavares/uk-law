@@ -34,7 +34,7 @@ Plant Health, England
 
 Plant Health, Scotland
 
-The Plant Health (Fees) (Forestry) (Amendment) (England and Scotland) Regulations 2014 (revoked)[^key-f00e60f77a1c7a0b006a82e59e306574]
+The Plant Health (Fees) (Forestry) (Amendment) (England and Scotland) Regulations 2014 (revoked)[^c-f00e60f77a1c7a0b006a82e59e306574]
 
 Made
 
@@ -48,35 +48,35 @@ Coming into force
 
 7th April 2014
 
-[^key-f00e60f77a1c7a0b006a82e59e306574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f00e60f77a1c7a0b006a82e59e306574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f00e60f77a1c7a0b006a82e59e306574]
+## 1. Title, commencement and application[^c-f00e60f77a1c7a0b006a82e59e306574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Fees) (Forestry) Regulations 2006[^key-f00e60f77a1c7a0b006a82e59e306574]
+## 2. Amendment of the Plant Health (Fees) (Forestry) Regulations 2006[^c-f00e60f77a1c7a0b006a82e59e306574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Schedule 3[^key-f00e60f77a1c7a0b006a82e59e306574]
+## 3. Schedule 3[^c-f00e60f77a1c7a0b006a82e59e306574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Schedule 3A[^key-f00e60f77a1c7a0b006a82e59e306574]
+## 4. Schedule 3A[^c-f00e60f77a1c7a0b006a82e59e306574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Schedule 4[^key-f00e60f77a1c7a0b006a82e59e306574]
+## 5. Schedule 4[^c-f00e60f77a1c7a0b006a82e59e306574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f00e60f77a1c7a0b006a82e59e306574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f00e60f77a1c7a0b006a82e59e306574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-f00e60f77a1c7a0b006a82e59e306574]EXPLANATORY NOTE
+[^c-f00e60f77a1c7a0b006a82e59e306574]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -96,4 +96,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-f00e60f77a1c7a0b006a82e59e306574]: Textual amendment: Regulations revoked (6.4.2015) by [The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 (S.I. 2015/350)](https://www.legislation.gov.uk/uksi/2015/350), [regs. 1(b), 4(e)](https://www.legislation.gov.uk/uksi/2015/350/regulation/4/e)
+[^c-f00e60f77a1c7a0b006a82e59e306574]: Textual amendment: Regulations revoked (6.4.2015) by [The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 (S.I. 2015/350)](https://www.legislation.gov.uk/uksi/2015/350), [regs. 1(b), 4(e)](https://www.legislation.gov.uk/uksi/2015/350/regulation/4/e)

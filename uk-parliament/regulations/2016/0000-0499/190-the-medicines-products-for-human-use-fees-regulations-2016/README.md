@@ -118,7 +118,7 @@ In accordance with section 129(6) of the Medicines Act 1968 [^c23108241], the Se
 - [Section 27A — Fee for renewals of a marketing authorisation](part-7/section-27a.md)
 - [Section 28 — Fees for renewals in terms which are not identical to the existing authorisation, licence or registration](part-7/section-28.md)
 
-### PART 8 — Capital Fees for Regulatory Assistance Given by the United Kingdom Acting as Reference Member State Relating to the Assessment of Applications for the Renewal of Specified Marketing Authorisations[^key-c556d511d15248e34b74b5c41fdbcd05]
+### PART 8 — Capital Fees for Regulatory Assistance Given by the United Kingdom Acting as Reference Member State Relating to the Assessment of Applications for the Renewal of Specified Marketing Authorisations[^c-c556d511d15248e34b74b5c41fdbcd05]
 
 **No longer in force.**
 
@@ -253,4 +253,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23108241]: Marginal citation: [Section 129(6)](https://www.legislation.gov.uk/uksi/2016/190/section/129/6) was extended by section 1(3)(b) of the Medicines Act 1971.
 
-[^key-c556d511d15248e34b74b5c41fdbcd05]: Textual amendment: Pt. 8 omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/5) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c556d511d15248e34b74b5c41fdbcd05]: Textual amendment: Pt. 8 omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/5) (with [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/775/schedule/1/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

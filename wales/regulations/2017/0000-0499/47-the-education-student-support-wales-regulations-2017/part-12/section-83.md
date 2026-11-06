@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Designated part-time courses[^key-fb24fbe822073b8a4e0507bb51dbf6c7]
+## 83. Designated part-time courses[^c-fb24fbe822073b8a4e0507bb51dbf6c7]
 
 *Extent: E+W*
 
@@ -27,11 +27,11 @@ summary: ''
 - (c) it is ordinarily possible to complete the course in not more than—
   - (i) twice the period ordinarily required to complete the full-time equivalent where the course begins before 1 September 2014; or
   - (ii) four times the period ordinarily required to complete the full-time equivalent where the course begins on or after 1 September 2014;
-- (d)[^key-a7ab86b12aedef73098f391901899163] it is wholly provided by an institution in the United Kingdom that was before 1 August 2019 a publicly funded institution or is provided by such an institution in conjunction with an institution outside the United Kingdom;
+- (d)[^c-a7ab86b12aedef73098f391901899163] it is wholly provided by an institution in the United Kingdom that was before 1 August 2019 a publicly funded institution or is provided by such an institution in conjunction with an institution outside the United Kingdom;
 - (e) for a course beginning on or after 1 September 2017 it is substantially provided in the United Kingdom;
-- (f) for a course beginning on or after 1 September 2016 which falls within paragraph 1, 2, 4, 6, 7 or 8 of Schedule 2, it is a course leading to an award granted or to be granted by a body falling within section 214(2)(a) or (b) of the Education Reform Act 1988[^f00083]; and[^key-48c1d9a735d521aa947b9c19e4cc9185]
-- (g) it is not designated by or under regulation 5 [^key-5353452b814c19ba881d4e14fd5d1e50]...
-- (h)[^key-0e14565ac1a715a3a517568ddf522575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) for a course beginning on or after 1 September 2016 which falls within paragraph 1, 2, 4, 6, 7 or 8 of Schedule 2, it is a course leading to an award granted or to be granted by a body falling within section 214(2)(a) or (b) of the Education Reform Act 1988[^f00083]; and[^c-48c1d9a735d521aa947b9c19e4cc9185]
+- (g) it is not designated by or under regulation 5 [^c-5353452b814c19ba881d4e14fd5d1e50]...
+- (h)[^c-0e14565ac1a715a3a517568ddf522575] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A course falling within paragraph 7 or 8 of Schedule 2 is not a designated part-time course where the governing body of a maintained school has arranged for the provision of such a course to a pupil of the school.
 
@@ -41,7 +41,7 @@ summary: ''
 
 - (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not the institution has entered into an agreement with the student to provide the course;
 - (b) a university and any constituent college or institution in the nature of a college of a university is regarded as publicly funded if either the university or the constituent college or institution is publicly funded;
-- (c)[^key-c682b28bba19e4d00571723761845fec] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992;
+- (c)[^c-c682b28bba19e4d00571723761845fec] an institution is not to be regarded as having been publicly funded before 1 August 2019 by reason only that it received public funds before that date from the governing body of a higher education institution in accordance with section 65(3A) of the Further and Higher Education Act 1992;
 - (d) a course is substantially provided in the United Kingdom where at least half of the teaching and supervision which comprise the course is provided in the United Kingdom.
 
 (5) For the purposes of paragraph (1)(c)—
@@ -67,16 +67,16 @@ summary: ''
 
 ## Annotations
 
-[^key-fb24fbe822073b8a4e0507bb51dbf6c7]: Commencement: Reg. 83 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-fb24fbe822073b8a4e0507bb51dbf6c7]: Commencement: Reg. 83 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-a7ab86b12aedef73098f391901899163]: Textual amendment: [Reg. 83(1)(d)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/d) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [32(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/32/a)
+[^c-a7ab86b12aedef73098f391901899163]: Textual amendment: [Reg. 83(1)(d)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/d) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [32(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/32/a)
 
 [^f00083]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); section 214(2) was amended by the Further and Higher Education Act [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), Schedule 8.
 
-[^key-48c1d9a735d521aa947b9c19e4cc9185]: Textual amendment: Word in [reg. 83(1)(f)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/f) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [63(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/63/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-48c1d9a735d521aa947b9c19e4cc9185]: Textual amendment: Word in [reg. 83(1)(f)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/f) inserted (25.4.2021) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [63(a)](https://www.legislation.gov.uk/wsi/2021/481/regulation/63/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-5353452b814c19ba881d4e14fd5d1e50]: Textual amendment: Word in [reg. 83(1)(g)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/g) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [63(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/63/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-5353452b814c19ba881d4e14fd5d1e50]: Textual amendment: Word in [reg. 83(1)(g)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/g) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [63(b)](https://www.legislation.gov.uk/wsi/2021/481/regulation/63/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-0e14565ac1a715a3a517568ddf522575]: Textual amendment: [Reg. 83(1)(h)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/h) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [63(c)](https://www.legislation.gov.uk/wsi/2021/481/regulation/63/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
+[^c-0e14565ac1a715a3a517568ddf522575]: Textual amendment: [Reg. 83(1)(h)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/1/h) omitted (25.4.2021) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/wsi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/481/regulation/1/2), [63(c)](https://www.legislation.gov.uk/wsi/2021/481/regulation/63/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2021/481/regulation/2))
 
-[^key-c682b28bba19e4d00571723761845fec]: Textual amendment: [Reg. 83(4)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/4/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [32(b)](https://www.legislation.gov.uk/wsi/2019/235/regulation/32/b)
+[^c-c682b28bba19e4d00571723761845fec]: Textual amendment: [Reg. 83(4)(c)](https://www.legislation.gov.uk/wsi/2017/47/regulation/83/4/c) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [32(b)](https://www.legislation.gov.uk/wsi/2019/235/regulation/32/b)

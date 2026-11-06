@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Right to appoint surveyor to advise on matters relating to service charges.[^key-5610635b531131b25cbf2d301878e42c][^key-4f567c5eb9798b722f29f0d361f34ae6]
+## 84. Right to appoint surveyor to advise on matters relating to service charges.[^c-5610635b531131b25cbf2d301878e42c][^c-4f567c5eb9798b722f29f0d361f34ae6]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ For this purpose “qualified surveyor” has the same meaning as in section 78(
 
 (4) An appointment shall cease to have effect for the purposes of this section if the association gives notice in writing to the landlord to that effect or if the association ceases to exist.
 
-(5)[^key-ada2e85390fd7ab7249304587d09e0d2] A notice is duly given under this section to a landlord of any tenants if it is given to a person who receives on behalf of the landlord the rent payable by those tenants; and a person to whom such a notice is so given shall forward it as soon as may be to the landlord.
+(5)[^c-ada2e85390fd7ab7249304587d09e0d2] A notice is duly given under this section to a landlord of any tenants if it is given to a person who receives on behalf of the landlord the rent payable by those tenants; and a person to whom such a notice is so given shall forward it as soon as may be to the landlord.
 
 (6) In this section—
 
@@ -41,12 +41,12 @@ For this purpose “qualified surveyor” has the same meaning as in section 78(
 
 ## Annotations
 
-[^key-5610635b531131b25cbf2d301878e42c]: Modification: S. 84 modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 15(1)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/15/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); S.I. 2004/669, art. 2(a)
+[^c-5610635b531131b25cbf2d301878e42c]: Modification: S. 84 modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 15(1)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/15/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); S.I. 2004/669, art. 2(a)
 
-[^key-4f567c5eb9798b722f29f0d361f34ae6]: Modification: S. 84 extended to Crown Land (30.9.2003 for E. for specified purposes, 30.3.2004 for W. for specified purposes) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); S.I. 2004/669, art. 2(c)(ii) (with Sch. 2)
+[^c-4f567c5eb9798b722f29f0d361f34ae6]: Modification: S. 84 extended to Crown Land (30.9.2003 for E. for specified purposes, 30.3.2004 for W. for specified purposes) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 172](https://www.legislation.gov.uk/ukpga/2002/15/section/172), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); S.I. 2004/669, art. 2(c)(ii) (with Sch. 2)
 
 [^c13151141]: Marginal citation: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-ada2e85390fd7ab7249304587d09e0d2]: Modification: S. 84(5) applied (with modifications) (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/15/2); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); S.I. 2004/669, art. 2(a)
+[^c-ada2e85390fd7ab7249304587d09e0d2]: Modification: S. 84(5) applied (with modifications) (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/15/2); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); S.I. 2004/669, art. 2(a)
 
 [^c13151161]: Marginal citation: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70).

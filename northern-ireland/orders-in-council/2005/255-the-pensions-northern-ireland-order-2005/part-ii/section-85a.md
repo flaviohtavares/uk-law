@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85A. Codes of practice: public service pension schemes[^key-d215b65e97987a3c2252c6467ef8478f]
+## 85A. Codes of practice: public service pension schemes[^c-d215b65e97987a3c2252c6467ef8478f]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d215b65e97987a3c2252c6467ef8478f]: Textual amendment: Art. 85A inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/14); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)
+[^c-d215b65e97987a3c2252c6467ef8478f]: Textual amendment: Art. 85A inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/14); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 4(e)](https://www.legislation.gov.uk/nisr/2014/123/article/4/e)

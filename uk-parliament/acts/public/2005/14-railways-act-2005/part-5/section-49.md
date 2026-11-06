@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Functions of Scottish Ministers in relation to railway administration[^key-7de8da932ee434ccb830788f0577bd6d]
+## 49. Functions of Scottish Ministers in relation to railway administration[^c-7de8da932ee434ccb830788f0577bd6d]
 
 *Extent: E+W+S*
 
@@ -85,4 +85,4 @@ are to have effect, so far as necessary for giving them continuing validity and 
 
 ## Annotations
 
-[^key-7de8da932ee434ccb830788f0577bd6d]: Commencement: S. 49 in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-7de8da932ee434ccb830788f0577bd6d]: Commencement: S. 49 in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)

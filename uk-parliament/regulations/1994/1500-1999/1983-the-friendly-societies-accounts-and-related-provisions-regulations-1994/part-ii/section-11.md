@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Annual accounts—non-directive society[^key-ecc0f2973edd84ad42542b7ddd4b3755]
+## 11. Annual accounts—non-directive society[^c-ecc0f2973edd84ad42542b7ddd4b3755]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In respect of the annual accounts of a non-directive society:
 
 ## Annotations
 
-[^key-ecc0f2973edd84ad42542b7ddd4b3755]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1994/1983/regulation/11) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-ecc0f2973edd84ad42542b7ddd4b3755]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1994/1983/regulation/11) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

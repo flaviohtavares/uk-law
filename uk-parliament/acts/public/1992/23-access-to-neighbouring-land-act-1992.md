@@ -209,9 +209,9 @@ and in this subsection “**applicant**” includes a person who proposes to mak
 
 > - (d) any access order under the Access to Neighbouring Land Act 1992.
 
-(2)[^key-fa6fdf027984ffb47c62a9b7945cc5b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fa6fdf027984ffb47c62a9b7945cc5b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fa6fdf027984ffb47c62a9b7945cc5b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fa6fdf027984ffb47c62a9b7945cc5b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In any case where—
 
@@ -238,7 +238,7 @@ and in the application of subsections (1) and (2) of section 4 above in relation
 
 ## 7. Jurisdiction over, and allocation of, proceedings.[^c859010]
 
-(1) The High Court and the county court[^key-95671af65a78fc2e1cc8cb35658a801b] shall both have jurisdiction under this Act.
+(1) The High Court and the county court[^c-95671af65a78fc2e1cc8cb35658a801b] shall both have jurisdiction under this Act.
 
 (2) In article 4 of the [^c859011]High Court and County Courts Jurisdiction Order 1991 (which provides that proceedings in which the county courts and the High Court both have jurisdiction may, subject to articles 5 and 6, be commenced either in a county court or in the High Court) for the words “and 6” there shall be substituted the words “ , 6 and 6A ”; and after article 6 of that Order there shall be inserted—
 
@@ -256,7 +256,7 @@ and in the application of subsections (1) and (2) of section 4 above in relation
 
 - “**access order**” has the meaning given by section 1(1) above;
 - “**applicant**” means a person making an application for an access order and, subject to section 4 above, “**the respondent**” means the respondent, or any of the respondents, to such an application;
-- “**the court**” means the High Court or the county court[^key-80f9e4029f8e7eb1bb7a25e38a6f5a7a];
+- “**the court**” means the High Court or the county court[^c-80f9e4029f8e7eb1bb7a25e38a6f5a7a];
 - “**the dominant land**” and “**the servient land**” respectively have the meanings given by section 1(1) above, but subject, in the case of servient land, to section 2(1) above;
 - “**land**” does not include a highway;
 - “**the specified works**” means the works specified in the access order in pursuance of section 2(1)(a) above.
@@ -289,7 +289,7 @@ and in the application of subsections (1) and (2) of section 4 above in relation
 
 [^c858992]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-fa6fdf027984ffb47c62a9b7945cc5b0]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1992/23/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/1992/23/section/5/3) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-fa6fdf027984ffb47c62a9b7945cc5b0]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1992/23/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/1992/23/section/5/3) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c858994]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
@@ -305,13 +305,13 @@ and in the application of subsections (1) and (2) of section 4 above in relation
 
 [^c859010]: Commencement: S. 7 wholly in force at 31.1.1993 by s. 9(2) and [S.I. 1992/3349](https://www.legislation.gov.uk/uksi/1992/3349), [art. 2](https://www.legislation.gov.uk/uksi/1992/3349/article/2)
 
-[^key-95671af65a78fc2e1cc8cb35658a801b]: Textual amendment: Words in s. 7(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 53](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/53); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-95671af65a78fc2e1cc8cb35658a801b]: Textual amendment: Words in s. 7(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 53](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/53); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c859011]: Marginal citation: [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724).
 
 [^c859012]: Commencement: S. 8 wholly in force at 31.1.1993 by s. 9(2) and [S.I. 1992/3349](https://www.legislation.gov.uk/uksi/1992/3349), [art. 2](https://www.legislation.gov.uk/uksi/1992/3349/article/2)
 
-[^key-80f9e4029f8e7eb1bb7a25e38a6f5a7a]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/1992/23/section/8/3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-80f9e4029f8e7eb1bb7a25e38a6f5a7a]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/1992/23/section/8/3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c859013]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/1992/23/section/9) wholly in force at 31.1.1993 by s. 9(2) and [S.I. 1992/3349](https://www.legislation.gov.uk/uksi/1992/3349), [art. 2](https://www.legislation.gov.uk/uksi/1992/3349/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35B (Extent: W). Consultation (Extent: W)[^key-ab3bc1ebdd59b56f79ee561f5da512e0]
+## 35B (Extent: W). Consultation (Extent: W)[^c-ab3bc1ebdd59b56f79ee561f5da512e0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Before publishing, revising or withdrawing guidance under section 35A the Welsh 
 
 ## Annotations
 
-[^key-ab3bc1ebdd59b56f79ee561f5da512e0]: Textual amendment: S. 35B inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 40](https://www.legislation.gov.uk/mwa/2011/5/section/40), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/e)
+[^c-ab3bc1ebdd59b56f79ee561f5da512e0]: Textual amendment: S. 35B inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 40](https://www.legislation.gov.uk/mwa/2011/5/section/40), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/e)

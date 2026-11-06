@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Ownership etc. of DPRK ships[^key-93cfcd775855678b50ec14440f92ecf2][^key-e83974f2e4825359a9d442d751135829]
+## 69. Ownership etc. of DPRK ships[^c-93cfcd775855678b50ec14440f92ecf2][^c-e83974f2e4825359a9d442d751135829]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93cfcd775855678b50ec14440f92ecf2]: Commencement: Reg. 69 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-93cfcd775855678b50ec14440f92ecf2]: Commencement: Reg. 69 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-e83974f2e4825359a9d442d751135829]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2019/411/regulation/69) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e83974f2e4825359a9d442d751135829]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2019/411/regulation/69) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

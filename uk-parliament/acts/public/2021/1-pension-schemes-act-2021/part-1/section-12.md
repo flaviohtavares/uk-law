@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Scheme design requirement[^c24458171][^key-4b2a4f2c50b1ee57f979981f07baea07]
+## 12. Scheme design requirement[^c24458171][^c-4b2a4f2c50b1ee57f979981f07baea07]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c24458171]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/1/section/12) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-4b2a4f2c50b1ee57f979981f07baea07]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/1/section/12) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-4b2a4f2c50b1ee57f979981f07baea07]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/1/section/12) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

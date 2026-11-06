@@ -22,15 +22,15 @@ summary: ''
 
 Section 1(4)
 
-### 1. Firearms Act 1968[^key-636a1c63b80156848b7ae9cd452a97f3]
+### 1. Firearms Act 1968[^c-636a1c63b80156848b7ae9cd452a97f3]
 
 In section 21(2C)(b) of the Firearms Act 1968 (ban on possession of firearm by person subject to suspended sentence), after “section 264 or 277 of the Sentencing Code” insert “(including by virtue of section 264A or 277A of that Code)”.
 
-### 2. Proceeds of Crime Act 2002[^key-c062f6242a7a91bd7b687c0426ad317d]
+### 2. Proceeds of Crime Act 2002[^c-c062f6242a7a91bd7b687c0426ad317d]
 
 In section 38(4)(a) of the Proceeds of Crime Act 2002 (provisions about imprisonment or detention: disregard of suspended sentence orders), after “section 264 or 277 of the Sentencing Code” insert “(including by virtue of section 264A or 277A of that Code)”.
 
-### 3. Armed Forces Act 2006[^key-b74d7dd6f808a997c1c3b1b95b0442a4]
+### 3. Armed Forces Act 2006[^c-b74d7dd6f808a997c1c3b1b95b0442a4]
 
 (1) The Armed Forces Act 2006 is amended as follows.
 
@@ -79,7 +79,7 @@ In section 38(4)(a) of the Proceeds of Crime Act 2002 (provisions about imprison
 >
 >   .
 
-### 4. Sentencing Act 2020[^key-1c21a0a5a2e296b248644618cf7c070b]
+### 4. Sentencing Act 2020[^c-1c21a0a5a2e296b248644618cf7c070b]
 
 In Schedule 22 to the Sentencing Act 2020 (amendments of the Sentencing Code etc), after paragraph 54 insert—
 
@@ -90,10 +90,10 @@ In Schedule 22 to the Sentencing Act 2020 (amendments of the Sentencing Code etc
 
 ## Annotations
 
-[^key-636a1c63b80156848b7ae9cd452a97f3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/1) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-636a1c63b80156848b7ae9cd452a97f3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/1) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-c062f6242a7a91bd7b687c0426ad317d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/2) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-c062f6242a7a91bd7b687c0426ad317d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/2) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-b74d7dd6f808a997c1c3b1b95b0442a4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/3) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-b74d7dd6f808a997c1c3b1b95b0442a4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/3) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-1c21a0a5a2e296b248644618cf7c070b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/4) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-1c21a0a5a2e296b248644618cf7c070b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/1/paragraph/4) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

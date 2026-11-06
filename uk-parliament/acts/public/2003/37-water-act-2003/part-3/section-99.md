@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Communication with public sewers[^key-cc35883b64ef85ef1b59b110b7036f89]
+## 99. Communication with public sewers[^c-cc35883b64ef85ef1b59b110b7036f89]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc35883b64ef85ef1b59b110b7036f89]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2003/37/section/99) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-cc35883b64ef85ef1b59b110b7036f89]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2003/37/section/99) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

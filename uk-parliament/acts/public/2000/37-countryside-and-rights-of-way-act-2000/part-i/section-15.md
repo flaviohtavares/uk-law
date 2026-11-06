@@ -25,7 +25,7 @@ summary: ''
 - (a) section 193 of the [^c1057017]Law of Property Act 1925 (rights of the public over commons and waste lands) applies to it,
 - (b) by virtue of a local or private Act or a scheme made under Part I of the [^c1057018]Commons Act 1899 (as read with subsection (2)), members of the public have a right of access to it at all times for the purposes of open-air recreation (however described),
 - (c) an access agreement or access order under Part V of the National Parks and Access to the [^c1057019]Countryside Act 1949 is in force with respect to it, or
-- (d) the public have access to it under subsection (1) of section 19 of the [^c1057020]Ancient Monuments and Archaeological Areas Act 1979 (public access to monuments under public control) or would have access to it under that subsection but for any provision of subsections (2) to (9) of that section, or[^key-5767eb71102ddacb61e617d18e20c78c]
+- (d) the public have access to it under subsection (1) of section 19 of the [^c1057020]Ancient Monuments and Archaeological Areas Act 1979 (public access to monuments under public control) or would have access to it under that subsection but for any provision of subsections (2) to (9) of that section, or[^c-5767eb71102ddacb61e617d18e20c78c]
 
 *Extent: W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c1057020]: Marginal citation: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-5767eb71102ddacb61e617d18e20c78c]: Textual amendment: [S. 15(1)(e)](https://www.legislation.gov.uk/ukpga/2000/37/section/15/1/e) and word inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 179](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/179) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-5767eb71102ddacb61e617d18e20c78c]: Textual amendment: [S. 15(1)(e)](https://www.legislation.gov.uk/ukpga/2000/37/section/15/1/e) and word inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 179](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/179) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c1057021]: Marginal citation: [1899 c. 30](https://www.legislation.gov.uk/ukpga/1899/30).

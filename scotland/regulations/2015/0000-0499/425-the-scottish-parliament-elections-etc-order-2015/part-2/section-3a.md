@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3A. Register of electors etc.[^key-27bb7c20a4b93d3b25fbbe6d4d0177c7]
+## 3A. Register of electors etc.[^c-27bb7c20a4b93d3b25fbbe6d4d0177c7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to article 4(5) and sections 13AB (alteration of registers: interim publ
 
 ## Annotations
 
-[^key-27bb7c20a4b93d3b25fbbe6d4d0177c7]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/ssi/2015/425/article/3A) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [3](https://www.legislation.gov.uk/ssi/2020/426/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-27bb7c20a4b93d3b25fbbe6d4d0177c7]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/ssi/2015/425/article/3A) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [3](https://www.legislation.gov.uk/ssi/2020/426/article/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))

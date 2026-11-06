@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**34.**[^key-0d471d67a44ddd14ff58cefda4844106] In Schedule 1 to the Senior Courts Act 1981 (distribution of business in High Court) in paragraph 3 after sub-paragraph (eb) insert—
+**34.**[^c-0d471d67a44ddd14ff58cefda4844106] In Schedule 1 to the Senior Courts Act 1981 (distribution of business in High Court) in paragraph 3 after sub-paragraph (eb) insert—
 
 > - (ec) proceedings under Part 6 of the Social Services and Well-being (Wales) Act 2014;
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d471d67a44ddd14ff58cefda4844106]: Commencement: Reg. 34 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0d471d67a44ddd14ff58cefda4844106]: Commencement: Reg. 34 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2 — Electoral change in England: considerations on review[^key-b5e9f00861a0cd3f9ff17a4ef1cd296f]
+## Schedule 2 — Electoral change in England: considerations on review[^c-b5e9f00861a0cd3f9ff17a4ef1cd296f]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 56
 
 ### County councils
 
-**1.**[^key-a1c4b115696e17645521be334d77d970][^key-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a county council.
+**1.**[^c-a1c4b115696e17645521be334d77d970][^c-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a county council.
 
 (2) The recommendations must secure the following results—
 
@@ -45,7 +45,7 @@ Section 56
 
 ### District councils
 
-**2.**[^key-05a030d079147ad4ac37e3fed5a6e9eb][^key-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a district council.
+**2.**[^c-05a030d079147ad4ac37e3fed5a6e9eb][^c-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a district council.
 
 (2) The recommendations must secure the following results—
 
@@ -73,7 +73,7 @@ Section 56
 
 ### London borough councils
 
-**3.**[^key-af22b157982a721d8ab7b691e7ea0854][^key-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a London borough council.
+**3.**[^c-af22b157982a721d8ab7b691e7ea0854][^c-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a London borough council.
 
 (2) The recommendations must secure the following results—
 
@@ -92,7 +92,7 @@ Section 56
 
 ### Parish councils
 
-**4.**[^key-33817041be8c98ab484e6c5593c2d5f1][^key-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a parish council (including a common parish council).
+**4.**[^c-33817041be8c98ab484e6c5593c2d5f1][^c-b5e9f00861a0cd3f9ff17a4ef1cd296f] (1) This paragraph applies where the Local Government Boundary Commission for England makes recommendations under section 56 in relation to the electoral arrangements for the area of a parish council (including a common parish council).
 
 (2) In making any such recommendations, the Local Government Boundary Commission for England must have regard to—
 
@@ -121,21 +121,21 @@ the Local Government Boundary Commission for England must have regard to any cha
 
 ### Interpretation
 
-**5.**[^key-094cf67b5ceebcbeae7a3b80267fee89][^key-b5e9f00861a0cd3f9ff17a4ef1cd296f] In this Schedule—
+**5.**[^c-094cf67b5ceebcbeae7a3b80267fee89][^c-b5e9f00861a0cd3f9ff17a4ef1cd296f] In this Schedule—
 
 - “**local government elector**” has the meaning given in section 270(1) of the Local Government Act 1972 (c. 70);
 - “**electoral area**”, in relation to a principal council, means an area for which one or more members of the council are elected.
 
 ## Annotations
 
-[^key-b5e9f00861a0cd3f9ff17a4ef1cd296f]: Modification: Sch. 2 applied by 2007 c. 28, s. 8(6D) (as inserted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2009/20/section/65/2), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(l)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/l))
+[^c-b5e9f00861a0cd3f9ff17a4ef1cd296f]: Modification: Sch. 2 applied by 2007 c. 28, s. 8(6D) (as inserted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2009/20/section/65/2), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(l)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/l))
 
-[^key-a1c4b115696e17645521be334d77d970]: Commencement: Sch. 2 para. 1 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
+[^c-a1c4b115696e17645521be334d77d970]: Commencement: Sch. 2 para. 1 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
 
-[^key-05a030d079147ad4ac37e3fed5a6e9eb]: Commencement: Sch. 2 para. 2 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
+[^c-05a030d079147ad4ac37e3fed5a6e9eb]: Commencement: Sch. 2 para. 2 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
 
-[^key-af22b157982a721d8ab7b691e7ea0854]: Commencement: Sch. 2 para. 3 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
+[^c-af22b157982a721d8ab7b691e7ea0854]: Commencement: Sch. 2 para. 3 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
 
-[^key-33817041be8c98ab484e6c5593c2d5f1]: Commencement: Sch. 2 para. 4 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
+[^c-33817041be8c98ab484e6c5593c2d5f1]: Commencement: Sch. 2 para. 4 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
 
-[^key-094cf67b5ceebcbeae7a3b80267fee89]: Commencement: Sch. 2 para. 5 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)
+[^c-094cf67b5ceebcbeae7a3b80267fee89]: Commencement: Sch. 2 para. 5 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ee)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ee)

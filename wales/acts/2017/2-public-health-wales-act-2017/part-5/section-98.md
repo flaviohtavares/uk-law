@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Authorised officers[^key-0f9a5cc10aaa38c4d35221e36d1ab366]
+## 98. Authorised officers[^c-0f9a5cc10aaa38c4d35221e36d1ab366]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ References in this Part to an authorised officer are to any person (whether or n
 
 ## Annotations
 
-[^key-0f9a5cc10aaa38c4d35221e36d1ab366]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2017/2/section/98) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-0f9a5cc10aaa38c4d35221e36d1ab366]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2017/2/section/98) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

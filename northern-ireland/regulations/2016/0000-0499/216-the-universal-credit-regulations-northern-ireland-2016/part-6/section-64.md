@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Start-up period[^key-a0a644e7650ae88eed2c1111d3a842b5]
+## 64. Start-up period[^c-a0a644e7650ae88eed2c1111d3a842b5]
 
 *Extent: N.I.*
 
 (1) A “start-up period” is a period of 12 months and applies from the beginning of the assessment period in which the Department determines that a claimant is in gainful self-employment where—
 
-- (a)[^key-dbb270e3470863f72cde7e1f763fbde9] regulation 63 (minimum income floor) has not previously applied to the claimant in relation to the trade, profession or vocation which is currently the claimant's main employment (whether in relation to the current award or a previous award); and
+- (a)[^c-dbb270e3470863f72cde7e1f763fbde9] regulation 63 (minimum income floor) has not previously applied to the claimant in relation to the trade, profession or vocation which is currently the claimant's main employment (whether in relation to the current award or a previous award); and
 - (b) the claimant is taking active steps to increase their earnings from that employment to the level of the claimant's individual threshold (see regulation 89).
 
 (2) No start-up period may apply in relation to a claimant where a start-up period has previously applied in relation to that claimant, whether in relation to the current award or any previous award of universal credit, unless that previous start-up period—
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+[^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
 
-[^key-dbb270e3470863f72cde7e1f763fbde9]: Textual amendment: [Reg. 64(1)(a)](https://www.legislation.gov.uk/nisr/2016/216/regulation/64/1/a) substituted (23.9.2020) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/4), [5(1)](https://www.legislation.gov.uk/nisr/2019/152/regulation/5/1)
+[^c-dbb270e3470863f72cde7e1f763fbde9]: Textual amendment: [Reg. 64(1)(a)](https://www.legislation.gov.uk/nisr/2016/216/regulation/64/1/a) substituted (23.9.2020) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/4), [5(1)](https://www.legislation.gov.uk/nisr/2019/152/regulation/5/1)

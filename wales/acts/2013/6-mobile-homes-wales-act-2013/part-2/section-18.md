@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Compliance notice: offence and multiple convictions[^key-d54cd613dbc65a6fab0acd3c3e085917]
+## 18. Compliance notice: offence and multiple convictions[^c-d54cd613dbc65a6fab0acd3c3e085917]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d54cd613dbc65a6fab0acd3c3e085917]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/6/section/18) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-d54cd613dbc65a6fab0acd3c3e085917]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/6/section/18) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

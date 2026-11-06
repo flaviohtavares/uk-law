@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Segregated liability of sub-funds[^key-db4d75bc47e2dcda7c7ebda09a25b553]
+## 11A. Segregated liability of sub-funds[^c-db4d75bc47e2dcda7c7ebda09a25b553]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ between its sub-funds in a manner which it considers is fair to shareholders.
 
 ## Annotations
 
-[^key-db4d75bc47e2dcda7c7ebda09a25b553]: Textual amendment: Ss. 11A, 11B and cross-heading inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/3) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))
+[^c-db4d75bc47e2dcda7c7ebda09a25b553]: Textual amendment: Ss. 11A, 11B and cross-heading inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/3) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))

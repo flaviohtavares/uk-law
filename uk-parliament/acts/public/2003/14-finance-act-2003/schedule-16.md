@@ -44,9 +44,9 @@ and includes a case in which a person holds property as nominee for another.
 - (a) that beneficiary shall be treated for the purposes of this Part as having such an interest notwithstanding that no such interest is recognised by the law of Scotland or, as the case may be, the country or territory outside the United Kingdom, and
 - (b) an acquisition of the interest of a beneficiary under the trust shall accordingly be treated as involving the acquisition of an interest in the trust property.
 
-### Bare trustee[^key-7243db2ae40dff97ba74331e8844d076]
+### Bare trustee[^c-7243db2ae40dff97ba74331e8844d076]
 
-**3.** (1) Subject to sub-paragraph (2), where a person acquires a chargeable interest or an interest in a partnership[^key-29e5bda804617993c70bb0c7a0dda411] as bare trustee, this Part applies as if the interest were vested in, and the acts of the trustee in relation to it were the acts of, the person or persons for whom he is trustee.
+**3.** (1) Subject to sub-paragraph (2), where a person acquires a chargeable interest or an interest in a partnership[^c-29e5bda804617993c70bb0c7a0dda411] as bare trustee, this Part applies as if the interest were vested in, and the acts of the trustee in relation to it were the acts of, the person or persons for whom he is trustee.
 
 (2) Sub-paragraph (1) does not apply in relation to the grant of a lease.
 
@@ -79,13 +79,13 @@ the payment, penalty or interest may be recovered (but only once) from any one o
 
 ### Relevant trustees for purposes of return etc
 
-**6.** (1) A return [^key-28ed2657c9e6a0b9ffa56b2930695065]... in relation to a land transaction may be made or given by any one or more of the trustees who are the responsible trustees in relation to the transaction.
+**6.** (1) A return [^c-28ed2657c9e6a0b9ffa56b2930695065]... in relation to a land transaction may be made or given by any one or more of the trustees who are the responsible trustees in relation to the transaction.
 
-The trustees by whom such a return [^key-28ed2657c9e6a0b9ffa56b2930695065]... is made are referred to below as “**the relevant trustees**”.
+The trustees by whom such a return [^c-28ed2657c9e6a0b9ffa56b2930695065]... is made are referred to below as “**the relevant trustees**”.
 
-(2) The declaration required by paragraph 1(1)(c) of Schedule 10 [^key-915672728110a2e97d84fa0ca405b989]... (declaration that return [^key-915672728110a2e97d84fa0ca405b989]... is complete and correct) must be made by all the relevant trustees.
+(2) The declaration required by paragraph 1(1)(c) of Schedule 10 [^c-915672728110a2e97d84fa0ca405b989]... (declaration that return [^c-915672728110a2e97d84fa0ca405b989]... is complete and correct) must be made by all the relevant trustees.
 
-(3) If the Inland Revenue give notice of an enquiry into the return [^key-d1954a8bb2fb6bc3c1bfa530fa16df7e]...—
+(3) If the Inland Revenue give notice of an enquiry into the return [^c-d1954a8bb2fb6bc3c1bfa530fa16df7e]...—
 
 - (a) the notice must be given to each of the relevant trustees,
 - (b) the powers of the Inland Revenue as to the production of documents and provision of information for the purposes of the enquiry are exercisable separately (and differently) in relation to each of the relevant trustees,
@@ -113,7 +113,7 @@ Provided that a notice is not invalidated by virtue of paragraph (a) or (d) if i
 
 there shall be treated as consideration for the acquisition of the interest or right by virtue of the exercise of the power or discretion any consideration given for the person in whose favour the appointment was made or the discretion was exercised becoming an object of the power or discretion.
 
-#### 8. Reallocation of trust property as between beneficiaries[^key-aa9bab263d64b363072057bd9ef46c1d]
+#### 8. Reallocation of trust property as between beneficiaries[^c-aa9bab263d64b363072057bd9ef46c1d]
 
 Where—
 
@@ -124,14 +124,14 @@ the fact that he gives consent does not mean that there is chargeable considerat
 
 ## Annotations
 
-[^key-7243db2ae40dff97ba74331e8844d076]: Textual amendment: Sch. 16 para. 3 and cross-heading substituted (with effect in accordance with Sch. 10 para. 16(4)(6)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/11)
+[^c-7243db2ae40dff97ba74331e8844d076]: Textual amendment: Sch. 16 para. 3 and cross-heading substituted (with effect in accordance with Sch. 10 para. 16(4)(6)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/11)
 
-[^key-29e5bda804617993c70bb0c7a0dda411]: Textual amendment: Words in Sch. 16 para. 3(1) inserted (with effect in accordance with s. 72(13) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 72(12)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/12/a) (with [s. 72(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/2)[(16)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/16)[(17)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/17))
+[^c-29e5bda804617993c70bb0c7a0dda411]: Textual amendment: Words in Sch. 16 para. 3(1) inserted (with effect in accordance with s. 72(13) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 72(12)(a)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/12/a) (with [s. 72(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/2)[(16)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/16)[(17)](https://www.legislation.gov.uk/ukpga/2007/11/section/72/17))
 
-[^key-28ed2657c9e6a0b9ffa56b2930695065]: Textual amendment: Words in Sch. 16 para. 6(1) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 13(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/13/2)
+[^c-28ed2657c9e6a0b9ffa56b2930695065]: Textual amendment: Words in Sch. 16 para. 6(1) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 13(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/13/2)
 
-[^key-915672728110a2e97d84fa0ca405b989]: Textual amendment: Words in Sch. 16 para. 6(2) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/13/3)
+[^c-915672728110a2e97d84fa0ca405b989]: Textual amendment: Words in Sch. 16 para. 6(2) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/13/3)
 
-[^key-d1954a8bb2fb6bc3c1bfa530fa16df7e]: Textual amendment: Words in Sch. 16 para. 6(3) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 13(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/13/2)
+[^c-d1954a8bb2fb6bc3c1bfa530fa16df7e]: Textual amendment: Words in Sch. 16 para. 6(3) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 13(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/13/2)
 
-[^key-aa9bab263d64b363072057bd9ef46c1d]: Textual amendment: Sch. 16 para. 8 and cross-heading inserted (with effect in accordance with s. 165(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 165(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/165/1)
+[^c-aa9bab263d64b363072057bd9ef46c1d]: Textual amendment: Sch. 16 para. 8 and cross-heading inserted (with effect in accordance with s. 165(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 165(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/165/1)

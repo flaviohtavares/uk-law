@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Triggering events: notification requirements[^key-89ca42feaf738be2b66c63331417517d]
+## 48. Triggering events: notification requirements[^c-89ca42feaf738be2b66c63331417517d]
 
 *Extent: N.I.*
 
@@ -50,7 +50,7 @@ beginning with the date specified in paragraph (3).
 
 ## Annotations
 
-[^key-89ca42feaf738be2b66c63331417517d]: Commencement: Reg. 48 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-89ca42feaf738be2b66c63331417517d]: Commencement: Reg. 48 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00049]: Footnote: Section 84(3A) is inserted by regulation 18(c) of these Regulations
 

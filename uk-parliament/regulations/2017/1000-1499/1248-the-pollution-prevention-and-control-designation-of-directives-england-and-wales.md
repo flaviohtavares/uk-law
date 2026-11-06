@@ -37,32 +37,32 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-The Secretary of State and the Welsh Ministers make this Order in exercise of the powers conferred by section 7(9)(a) of, and paragraph 20(2)(c) of Schedule 1 to, the Pollution Prevention and Control Act 1999 *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195] [^c23090121].
+The Secretary of State and the Welsh Ministers make this Order in exercise of the powers conferred by section 7(9)(a) of, and paragraph 20(2)(c) of Schedule 1 to, the Pollution Prevention and Control Act 1999 *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195] [^c23090121].
 
 ## 1. Citation, commencement, extent and application
 
-(1) This Order may be cited as the Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2017 and comes into force on the day after the day on which it is made. *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
+(1) This Order may be cited as the Pollution Prevention and Control (Designation of Directives) (England and Wales) Order 2017 and comes into force on the day after the day on which it is made. *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
 
-(2) This Order extends to England and Wales. *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
+(2) This Order extends to England and Wales. *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
 
-(3) This Order applies in relation to— *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
+(3) This Order applies in relation to— *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
 
-- (a) England and the sea adjacent to England out as far as the seaward boundary of the territorial sea; and *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
-- (b) Wales, within the meaning given by section 158 of the Government of Wales Act 2006 *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195] [^c23090131].
+- (a) England and the sea adjacent to England out as far as the seaward boundary of the territorial sea; and *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
+- (b) Wales, within the meaning given by section 158 of the Government of Wales Act 2006 *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195] [^c23090131].
 
-(4) For the purpose of paragraph (3)(a), the sea adjacent to England is so much of the sea adjacent to Great Britain as— *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
+(4) For the purpose of paragraph (3)(a), the sea adjacent to England is so much of the sea adjacent to Great Britain as— *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
 
-- (a) is not the sea adjacent to Scotland; and *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
-- (b) does not form part of Wales. *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
+- (a) is not the sea adjacent to Scotland; and *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
+- (b) does not form part of Wales. *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
 
-(5) In paragraph (4)(a), the sea adjacent to Scotland has the same meaning as the internal waters and territorial sea of the United Kingdom adjacent to Scotland has by virtue of section 126(2) of the Scotland Act 1998 *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195] [^c23090141].
+(5) In paragraph (4)(a), the sea adjacent to Scotland has the same meaning as the internal waters and territorial sea of the United Kingdom adjacent to Scotland has by virtue of section 126(2) of the Scotland Act 1998 *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195] [^c23090141].
 
 ## 2. Designation of Directives
 
-The following Directives are designated as relevant directives for the purposes of paragraph 20(1)(b) of Schedule 1 to the Pollution Prevention and Control Act 1999— *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195]
+The following Directives are designated as relevant directives for the purposes of paragraph 20(1)(b) of Schedule 1 to the Pollution Prevention and Control Act 1999— *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195]
 
-- (a) Council Directive 2013/59/EURATOM laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation and repealing Council Directive 89/618/EURATOM, 90/641/EURATOM, 96/29/EURATOM, 97/43/EURATOM and 2003/122/EURATOM *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195] [^c23090151];
-- (b) Directive 2015/2193/EU of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion plants *(affected by repeal, see note)*[^key-fbda08e0a88537918ab776f64a644195] [^c23090161].
+- (a) Council Directive 2013/59/EURATOM laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation and repealing Council Directive 89/618/EURATOM, 90/641/EURATOM, 96/29/EURATOM, 97/43/EURATOM and 2003/122/EURATOM *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195] [^c23090151];
+- (b) Directive 2015/2193/EU of the European Parliament and of the Council on the limitation of emissions of certain pollutants into the air from medium combustion plants *(affected by repeal, see note)*[^c-fbda08e0a88537918ab776f64a644195] [^c23090161].
 
 Thérèse Coffey
 
@@ -86,7 +86,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-fbda08e0a88537918ab776f64a644195]: Textual amendment: Order revoked (E.) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/6), [Sch. para. 64](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbda08e0a88537918ab776f64a644195]: Textual amendment: Order revoked (E.) (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1)[(6)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/6), [Sch. para. 64](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23090121]: Marginal citation: [1999 c.24](https://www.legislation.gov.uk/ukpga/1999/24); [paragraph 20(2)(c)](https://www.legislation.gov.uk/uksi/2017/1248/paragraph/20/2/c) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Functions of the Secretary of State under this paragraph, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales (except in relation to offshore oil and gas exploration and exploitation) by virtue of article 3 of the [National Assembly for Wales (Transfer of Functions) Order 2005 (S.I. 2005/1958)](https://www.legislation.gov.uk/uksi/2005/1958). Those functions were then transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 

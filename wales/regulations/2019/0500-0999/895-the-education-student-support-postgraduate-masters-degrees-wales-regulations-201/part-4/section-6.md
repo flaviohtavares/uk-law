@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Designated courses – conditions[^key-1d5fc1f6b09fd01ddf422c60e282d6fa]
+## 6. Designated courses – conditions[^c-1d5fc1f6b09fd01ddf422c60e282d6fa]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ At least half of the teaching and supervision which comprise the course is provi
 
 ## Annotations
 
-[^key-1d5fc1f6b09fd01ddf422c60e282d6fa]: Commencement: Reg. 6 in force at 27.5.2019, see reg. 1(2)
+[^c-1d5fc1f6b09fd01ddf422c60e282d6fa]: Commencement: Reg. 6 in force at 27.5.2019, see reg. 1(2)
 
 [^c23728071]: Marginal citation: [1998 c. 40](https://www.legislation.gov.uk/ukpga/1998/40); [section 214(2)](https://www.legislation.gov.uk/ukpga/1998/40/section/214/2) was amended by the [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [section 93](https://www.legislation.gov.uk/ukpga/1992/13/section/93) and [Schedule 8](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8) and by the [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [section 53](https://www.legislation.gov.uk/ukpga/2017/29/section/53).
 

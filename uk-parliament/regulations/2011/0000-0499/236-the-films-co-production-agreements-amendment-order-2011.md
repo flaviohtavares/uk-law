@@ -31,7 +31,7 @@ summary: ''
 
 Cinema And Films
 
-The Films Co-Production Agreements (Amendment) Order 2011 (revoked)[^key-11061dc6ac94c234367b9ff07e6361a4]
+The Films Co-Production Agreements (Amendment) Order 2011 (revoked)[^c-11061dc6ac94c234367b9ff07e6361a4]
 
 Made
 
@@ -47,28 +47,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-11061dc6ac94c234367b9ff07e6361a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11061dc6ac94c234367b9ff07e6361a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-11061dc6ac94c234367b9ff07e6361a4]
+## 1. Citation and commencement[^c-11061dc6ac94c234367b9ff07e6361a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Films Co-Production Agreements Order 1985[^key-11061dc6ac94c234367b9ff07e6361a4]
+## 2. Amendment to the Films Co-Production Agreements Order 1985[^c-11061dc6ac94c234367b9ff07e6361a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-11061dc6ac94c234367b9ff07e6361a4]
+## 3. Revocation[^c-11061dc6ac94c234367b9ff07e6361a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11061dc6ac94c234367b9ff07e6361a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11061dc6ac94c234367b9ff07e6361a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-11061dc6ac94c234367b9ff07e6361a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11061dc6ac94c234367b9ff07e6361a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11061dc6ac94c234367b9ff07e6361a4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/236) revoked (11.7.2014) by [The Films Co-Production Agreements (Amendment) Order 2014 (S.I. 2014/1561)](https://www.legislation.gov.uk/uksi/2014/1561), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1561/article/1), [3](https://www.legislation.gov.uk/uksi/2014/1561/article/3)
+[^c-11061dc6ac94c234367b9ff07e6361a4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/236) revoked (11.7.2014) by [The Films Co-Production Agreements (Amendment) Order 2014 (S.I. 2014/1561)](https://www.legislation.gov.uk/uksi/2014/1561), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1561/article/1), [3](https://www.legislation.gov.uk/uksi/2014/1561/article/3)

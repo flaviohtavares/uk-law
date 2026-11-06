@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 230. Further information and disclosure[^key-07f1beeca40dc09066e0481cf96c630e]
+## 230. Further information and disclosure[^c-07f1beeca40dc09066e0481cf96c630e]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07f1beeca40dc09066e0481cf96c630e]: Commencement: Rule 230 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-07f1beeca40dc09066e0481cf96c630e]: Commencement: Rule 230 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

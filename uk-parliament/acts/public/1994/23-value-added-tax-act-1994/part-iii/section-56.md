@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Fuel for private use.[^key-72437846579bf29333133970624b4575]
+## 56. Fuel for private use.[^c-72437846579bf29333133970624b4575]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72437846579bf29333133970624b4575]: Textual amendment: S. 56 omitted (with effect in accordance with Sch. 38 para. 7 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/4)
+[^c-72437846579bf29333133970624b4575]: Textual amendment: S. 56 omitted (with effect in accordance with Sch. 38 para. 7 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/4)

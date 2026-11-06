@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the reason (or, if more than one, the principal reason) for the dismissal is that the employee was redundant,
 - (b) it is shown that the circumstances constituting the redundancy applied equally to one or more other employees in the same undertaking who held positions similar to that held by the employee and who have not been dismissed by the employer, and
-- (c)[^c20564851][^c20564731] it is shown that any of paragraphs (2A) to (7M)[^key-c50873fd63e6c225d2aa2d07d6b6c391] apply.
+- (c)[^c20564851][^c20564731] it is shown that any of paragraphs (2A) to (7M)[^c-c50873fd63e6c225d2aa2d07d6b6c391] apply.
 
 *Para. (2) rep. by 1999 NI 9*
 
@@ -73,13 +73,13 @@ summary: ''
 
 (7I) [^c22541321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7J)[^key-15aa4d34af803272852368d32ff37ecc] This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in paragraph (1) of Article 135D (read with paragraph (2) of that Article).
+(7J)[^c-15aa4d34af803272852368d32ff37ecc] This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one of those specified in paragraph (1) of Article 135D (read with paragraph (2) of that Article).
 
 (7K)[^c22383641] This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one specified in paragraph (3) or (6) of regulation 29 of the European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009 (S.I.2009/2402) (read with paragraphs (4) and (7) of that regulation).
 
 (7L)[^c22542291] This paragraph applies if the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was one specified in paragraph (3) of regulation 17 of the Agency Workers Regulations (Northern Ireland) 2011 (unless the case is one to which paragraph (4) of that regulation applies).
 
-(7M)[^key-6a08c0a002f0c61c5076549231a48b99] This paragraph applies if—
+(7M)[^c-6a08c0a002f0c61c5076549231a48b99] This paragraph applies if—
 
 - (a) the reason (or, if more than one, the principal reason) for which the employee was selected for dismissal was the one specified in the opening words of Article 135F(1), and
 - (b) the condition in sub-paragraph (a) or (b) of that paragraph was met.
@@ -94,7 +94,7 @@ summary: ''
 
 [^c20564731]: Textual amendment: Art. 137(1)(c) substituted (6.4.2006) by [Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 (S.R. 2006/48)](https://www.legislation.gov.uk/nisr/2006/48), [reg. 17](https://www.legislation.gov.uk/nisr/2006/48/regulation/17), [Sch. para. 6(2)(a)](https://www.legislation.gov.uk/nisr/2006/48/schedule/paragraph/6/2/a)
 
-[^key-c50873fd63e6c225d2aa2d07d6b6c391]: Textual amendment: Word in [art. 137(1)(c)](https://www.legislation.gov.uk/nisi/1996/1919/article/137/1/c) substituted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/3/a)
+[^c-c50873fd63e6c225d2aa2d07d6b6c391]: Textual amendment: Word in [art. 137(1)(c)](https://www.legislation.gov.uk/nisi/1996/1919/article/137/1/c) substituted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/3/a)
 
 [^c17624811]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)
 
@@ -130,10 +130,10 @@ summary: ''
 
 [^c22541321]: Textual amendment: Art. 137(7I) omitted (6.4.2011) by virtue of [Employment Equality (Repeal of Retirement Age Provisions) Regulations (Northern Ireland) 2011 (S.R. 2011/168)](https://www.legislation.gov.uk/nisr/2011/168), [reg. 3(4)](https://www.legislation.gov.uk/nisr/2011/168/regulation/3/4) (with [regs. 4](https://www.legislation.gov.uk/nisr/2011/168/regulation/4), [5](https://www.legislation.gov.uk/nisr/2011/168/regulation/5), [7](https://www.legislation.gov.uk/nisr/2011/168/regulation/7))
 
-[^key-15aa4d34af803272852368d32ff37ecc]: Textual amendment: Art. 137(7J) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(4)](https://www.legislation.gov.uk/nia/2008/13/section/57/4), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-15aa4d34af803272852368d32ff37ecc]: Textual amendment: Art. 137(7J) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(4)](https://www.legislation.gov.uk/nia/2008/13/section/57/4), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
 
 [^c22383641]: Textual amendment: Art. 137(7K) inserted (1.10.2009) by European Public Limited-[Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009 (S.I. 2009/2402)](https://www.legislation.gov.uk/uksi/2009/2402), [reg. 30(2)](https://www.legislation.gov.uk/uksi/2009/2402/regulation/30/2) (with [reg. 39](https://www.legislation.gov.uk/uksi/2009/2402/regulation/39))
 
 [^c22542291]: Textual amendment: Art. 137(7L) inserted (5.12.2011) by [Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2011/350/schedule/2/paragraph/14)
 
-[^key-6a08c0a002f0c61c5076549231a48b99]: Textual amendment: [Art. 137(7M)](https://www.legislation.gov.uk/nisi/1996/1919/article/137/7M) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/3/b)
+[^c-6a08c0a002f0c61c5076549231a48b99]: Textual amendment: [Art. 137(7M)](https://www.legislation.gov.uk/nisi/1996/1919/article/137/7M) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/3/b)

@@ -49,7 +49,7 @@ In section 245 (failure to deliver accounts)—
 
 (4) In section 247 (provision of incorrect information)—
 
-- (a)[^key-e10f958586c3df53dc4a3a51bf035091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e10f958586c3df53dc4a3a51bf035091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (3), for the words from “, in the case of fraud” to the end substitute “ to a penalty not exceeding £3,000 ”.
 
 (5) Subsection (2)(a) above has effect in relation to a failure by any person to deliver an account under section 216 or 217 of the Inheritance Tax Act 1984 (c. 51) where the period under section 216(6) or (7) or 217 of that Act (whichever is applicable) within which the person is required to deliver the account expires after six months from the day on which this Act is passed.
@@ -70,4 +70,4 @@ In section 245 (failure to deliver accounts)—
 
 ## Annotations
 
-[^key-e10f958586c3df53dc4a3a51bf035091]: Textual amendment: [S. 295(4)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/295/4/a) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(l)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/l); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)
+[^c-e10f958586c3df53dc4a3a51bf035091]: Textual amendment: [S. 295(4)(a)](https://www.legislation.gov.uk/ukpga/2004/12/section/295/4/a) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(l)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/l); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)

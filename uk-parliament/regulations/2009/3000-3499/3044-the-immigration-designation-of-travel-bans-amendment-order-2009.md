@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Designation of Travel Bans) (Amendment) Order 2009 (revoked)[^key-cd243c28692873f415b0f8f807a51b7a]
+The Immigration (Designation of Travel Bans) (Amendment) Order 2009 (revoked)[^c-cd243c28692873f415b0f8f807a51b7a]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 11th December 2009
 
-[^key-cd243c28692873f415b0f8f807a51b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd243c28692873f415b0f8f807a51b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-cd243c28692873f415b0f8f807a51b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cd243c28692873f415b0f8f807a51b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cd243c28692873f415b0f8f807a51b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cd243c28692873f415b0f8f807a51b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cd243c28692873f415b0f8f807a51b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cd243c28692873f415b0f8f807a51b7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd243c28692873f415b0f8f807a51b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd243c28692873f415b0f8f807a51b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-cd243c28692873f415b0f8f807a51b7a]
+## SCHEDULE[^c-cd243c28692873f415b0f8f807a51b7a]
 
 Article 2
 
@@ -68,8 +68,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd243c28692873f415b0f8f807a51b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd243c28692873f415b0f8f807a51b7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd243c28692873f415b0f8f807a51b7a]: Textual amendment: Order revoked (20.12.2010) by [The Immigration (Designation of Travel Bans) (Amendment) Order 2010 (S.I. 2010/2813)](https://www.legislation.gov.uk/uksi/2010/2813), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2813/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2813/article/3)
+[^c-cd243c28692873f415b0f8f807a51b7a]: Textual amendment: Order revoked (20.12.2010) by [The Immigration (Designation of Travel Bans) (Amendment) Order 2010 (S.I. 2010/2813)](https://www.legislation.gov.uk/uksi/2010/2813), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2813/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2813/article/3)

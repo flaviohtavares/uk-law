@@ -139,7 +139,7 @@ Where—
 
 Where the dwelling-house was at any time occupied by a person under the terms of his employment as a person employed in agriculture and—
 
-- (a) the tenant neither is nor at any time was so employed by the landlord and is not the surviving spouse or civil partner[^key-b49d1da03794eeb552f0a2730f45bbba] of a person who was so employed, and
+- (a) the tenant neither is nor at any time was so employed by the landlord and is not the surviving spouse or civil partner[^c-b49d1da03794eeb552f0a2730f45bbba] of a person who was so employed, and
 - (b) not later than 1st April 1979 or the date of the commencement of the protected tenancy in question (whichever is the later), the tenant was given notice in writing that possession might be recovered under this Case, and
 - (c) the court is satisfied that the dwelling-house is required for occupation by a person employed or to be employed by the landlord in agriculture;
 
@@ -149,7 +149,7 @@ and for the purposes of this Case “employed”, “employment” and “agricu
 
 Where proposals for amalgamation, approved for the purposes of a scheme under section 26 of the Agriculture Act 1967 [^m00011], have been carried out and, at the time when the proposals were submitted, the dwelling-house was occupied by a person responsible (whether as owner, tenant, or servant or agent of another) for the control of the farming of any part of the land comprised in the amalgamation and—
 
-- (a) after the carrying out of the proposals, the dwelling-house was let on a protected tenancy otherwise than to, or to the surviving spouse or civil partner[^key-840ba3c780ea41490ebd161ab12d3cf7] of, either a person ceasing to be so responsible as part of the amalgamation or a person who is, or at any time was, employed by the landlord in agriculture, and
+- (a) after the carrying out of the proposals, the dwelling-house was let on a protected tenancy otherwise than to, or to the surviving spouse or civil partner[^c-840ba3c780ea41490ebd161ab12d3cf7] of, either a person ceasing to be so responsible as part of the amalgamation or a person who is, or at any time was, employed by the landlord in agriculture, and
 - (b) not later than the date of the commencement of the protected tenancy in question the tenant was given notice in writing that possession might be recovered under this Case, and
 - (c) the court is satisfied that the dwelling-house is required for occupation by a person employed, or to be employed, by the landlord in agriculture, and
 - (d) the proceedings for possession are commenced by the landlord at any time during the period of 5 years beginning with the date on which the proposals for the amalgamation were approved or, if occupation of the dwelling-house after the amalgamation continued in, or was first taken by, a person ceasing to be responsible as mentioned in paragraph ( *a*) or his surviving spouse or civil partner , during a period expiring 3 years after the date on which the dwelling-house next became unoccupied.
@@ -160,7 +160,7 @@ For the purposes of this Case “employed” and “agriculture” have the same
 
 (1) Where—
 
-- (a) the last occupier of the dwelling-house before the date of the commencement of the protected tenancy in question was a person, or the surviving spouse or civil partner[^key-fb52f6176d85c99ac0dce531cc13e5d9] of a person, who was at some time during his occupation responsible (whether as owner, tenant, or servant or agent of another) for the control of the farming of land which formed, together with the dwelling-house, an agricultural unit, and
+- (a) the last occupier of the dwelling-house before the date of the commencement of the protected tenancy in question was a person, or the surviving spouse or civil partner[^c-fb52f6176d85c99ac0dce531cc13e5d9] of a person, who was at some time during his occupation responsible (whether as owner, tenant, or servant or agent of another) for the control of the farming of land which formed, together with the dwelling-house, an agricultural unit, and
 - (b) the tenant is neither—
   - (i) a person, or the surviving spouse or civil partner of a person, who is or has at any time been responsible for the control of the farming of any part of that land, nor
   - (ii) a person, or the surviving spouse or civil partner of a person, who is or at any time was employed by the landlord in agriculture, and
@@ -275,15 +275,15 @@ shall be conclusive evidence of the facts so stated.
 
 [^c16841661]: Textual amendment: [1983 NI 15](https://www.legislation.gov.uk/1983/ni15)
 
-[^key-b49d1da03794eeb552f0a2730f45bbba]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/1978/1050/schedule/4) Case 14 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [136(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/136/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-b49d1da03794eeb552f0a2730f45bbba]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/1978/1050/schedule/4) Case 14 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [136(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/136/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^m00010]: Marginal citation: 1977 NI 22
 
 [^m00011]: Marginal citation: 1967 c.22
 
-[^key-840ba3c780ea41490ebd161ab12d3cf7]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/1978/1050/schedule/4) Case 15 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [136(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/136/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-840ba3c780ea41490ebd161ab12d3cf7]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/1978/1050/schedule/4) Case 15 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [136(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/136/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-fb52f6176d85c99ac0dce531cc13e5d9]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/1978/1050/schedule/4) Case 16 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [136(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/136/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-fb52f6176d85c99ac0dce531cc13e5d9]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/nisi/1978/1050/schedule/4) Case 16 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [136(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/136/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^m00012]: Marginal citation: 1967 c.22
 

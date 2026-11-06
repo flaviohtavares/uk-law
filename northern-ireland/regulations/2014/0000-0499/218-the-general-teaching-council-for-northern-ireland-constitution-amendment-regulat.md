@@ -52,7 +52,7 @@ These Regulations may be cited as the General Teaching Council for Northern Irel
 
 (2) In regulation 8 (term of office), in paragraph (1) at the beginning insert “ Subject to regulation 8A, ”.
 
-(3)[^key-da59f9498f0d01e0d36e5b80eb10de5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-da59f9498f0d01e0d36e5b80eb10de5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Education on 5th August 2014.
 
@@ -72,4 +72,4 @@ These Regulations amend the General Teaching Council for Northern Ireland (Const
 
 [^c22190641]: Marginal citation: S.R. [2001 No. 288](https://www.legislation.gov.uk/ukcm/2001/288) as amended by S.R. [2009 No. 370](https://www.legislation.gov.uk/ukcm/2009/370)
 
-[^key-da59f9498f0d01e0d36e5b80eb10de5a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2014/218/regulation/2/3) revoked (15.10.2015) by [The General Teaching Council for Northern Ireland (Constitution) (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/341)](https://www.legislation.gov.uk/nisr/2015/341), [regs. 1](https://www.legislation.gov.uk/nisr/2015/341/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/341/regulation/3)
+[^c-da59f9498f0d01e0d36e5b80eb10de5a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2014/218/regulation/2/3) revoked (15.10.2015) by [The General Teaching Council for Northern Ireland (Constitution) (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/341)](https://www.legislation.gov.uk/nisr/2015/341), [regs. 1](https://www.legislation.gov.uk/nisr/2015/341/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/341/regulation/3)

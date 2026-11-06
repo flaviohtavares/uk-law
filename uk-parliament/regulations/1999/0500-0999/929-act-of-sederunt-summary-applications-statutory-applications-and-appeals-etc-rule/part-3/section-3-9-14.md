@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.14. State of funds and scheme of division[^key-07c8c1d0cdefb5e08186eefa97e3e692]
+## 3.9.14. State of funds and scheme of division[^c-07c8c1d0cdefb5e08186eefa97e3e692]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07c8c1d0cdefb5e08186eefa97e3e692]: Commencement: Rule 3.9.14 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-07c8c1d0cdefb5e08186eefa97e3e692]: Commencement: Rule 3.9.14 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

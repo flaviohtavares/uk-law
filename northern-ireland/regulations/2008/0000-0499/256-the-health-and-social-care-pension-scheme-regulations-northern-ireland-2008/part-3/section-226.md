@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-If a transfer value payment is made under this Chapter in respect of a person's rights under this Section of[^key-c99713ea8f912309a096b48f48edca72] the Scheme, those rights are extinguished.
+If a transfer value payment is made under this Chapter in respect of a person's rights under this Section of[^c-c99713ea8f912309a096b48f48edca72] the Scheme, those rights are extinguished.
 
 ## Annotations
 
-[^key-c99713ea8f912309a096b48f48edca72]: Textual amendment: Words in [reg. 226](https://www.legislation.gov.uk/nisr/2008/256/regulation/226) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-c99713ea8f912309a096b48f48edca72]: Textual amendment: Words in [reg. 226](https://www.legislation.gov.uk/nisr/2008/256/regulation/226) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

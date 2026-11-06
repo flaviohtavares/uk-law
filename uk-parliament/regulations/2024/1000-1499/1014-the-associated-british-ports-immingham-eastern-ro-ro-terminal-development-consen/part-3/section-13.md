@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Power to override easements and other rights[^key-91c4058895b65eea0350b336daf038fc]
+## 13. Power to override easements and other rights[^c-91c4058895b65eea0350b336daf038fc]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ summary: ''
 
 the liability is enforceable against the undertaker.
 
-(6) Nothing in this article is to be construed as authorising any act or omission on the part of any person which is actionable at the suit of any person on any grounds other than such an interference or breach as is mentioned in paragraph (1) of this article.[^key-8acecd6c55eda1053d5bff6908f6791c]
+(6) Nothing in this article is to be construed as authorising any act or omission on the part of any person which is actionable at the suit of any person on any grounds other than such an interference or breach as is mentioned in paragraph (1) of this article.[^c-8acecd6c55eda1053d5bff6908f6791c]
 
 ## Annotations
 
-[^key-91c4058895b65eea0350b336daf038fc]: Commencement: Art. 13 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-91c4058895b65eea0350b336daf038fc]: Commencement: Art. 13 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-8acecd6c55eda1053d5bff6908f6791c]: Textual amendment: Words in [art. 13(6)](https://www.legislation.gov.uk/uksi/2024/1014/article/13/6) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-8acecd6c55eda1053d5bff6908f6791c]: Textual amendment: Words in [art. 13(6)](https://www.legislation.gov.uk/uksi/2024/1014/article/13/6) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)

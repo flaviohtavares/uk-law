@@ -37,7 +37,7 @@ summary: ''
 - (a) in the connection of premises , or a pipe-line system operated by an authorised transporter,[^c14413581] to any pipe-line system operated by him; or
 - (b) in the terms on which he undertakes the conveyance of gas by means of such a system.
 
-(2A)[^key-ade4a2b6eff46ca54456d2adf25e464b] The conditions of a licence held by a gas transporter may include a condition requiring the gas transporter, in performing a duty under subsection (1), (1A) or (2), to have regard to the interests of existing and future consumers in relation to electricity conveyed by distribution systems or transmission systems (within the meaning of the Electricity Act 1989).
+(2A)[^c-ade4a2b6eff46ca54456d2adf25e464b] The conditions of a licence held by a gas transporter may include a condition requiring the gas transporter, in performing a duty under subsection (1), (1A) or (2), to have regard to the interests of existing and future consumers in relation to electricity conveyed by distribution systems or transmission systems (within the meaning of the Electricity Act 1989).
 
 (3) The following provisions shall have effect, namely—
 
@@ -60,7 +60,7 @@ summary: ''
 
 [^c14413581]: Textual amendment: Words in s. 9(2)(a) inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 79(4)](https://www.legislation.gov.uk/ukpga/2000/27/section/79/4); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-ade4a2b6eff46ca54456d2adf25e464b]: Textual amendment: S. 9(2A) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 177(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/177/4), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vii)
+[^c-ade4a2b6eff46ca54456d2adf25e464b]: Textual amendment: S. 9(2A) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 177(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/177/4), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vii)
 
 [^c14413591]: Modification: S. 9(3)(a) functions exercisable in or as regards Scotland (14.12.2000) by [S.I. 2000/3253](https://www.legislation.gov.uk/uksi/2000/3253), [art. 2](https://www.legislation.gov.uk/uksi/2000/3253/article/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2000/3253/schedule/1/paragraph/6) (with transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 

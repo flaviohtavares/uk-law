@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9.7. Discretionary consultation with the Church Buildings Council[^key-e6993085154cd5a319bfeba57e9879fc]
+## 9.7. Discretionary consultation with the Church Buildings Council[^c-e6993085154cd5a319bfeba57e9879fc]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ In any case where rule 9.6 does not apply (or does not apply to a particular pro
 
 ## Annotations
 
-[^key-e6993085154cd5a319bfeba57e9879fc]: Commencement: [Rule 9.7](https://www.legislation.gov.uk/uksi/2015/1568/article/9.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-e6993085154cd5a319bfeba57e9879fc]: Commencement: [Rule 9.7](https://www.legislation.gov.uk/uksi/2015/1568/article/9.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

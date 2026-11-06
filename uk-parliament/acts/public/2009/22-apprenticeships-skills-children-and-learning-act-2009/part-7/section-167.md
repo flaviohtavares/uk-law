@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Provision of services[^key-0f14f0ba45faaa2804c43d4bc3c5d7fc]
+## 167. Provision of services[^c-0f14f0ba45faaa2804c43d4bc3c5d7fc]
 
 *Extent: E+W+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f14f0ba45faaa2804c43d4bc3c5d7fc]: Commencement: S. 167 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-0f14f0ba45faaa2804c43d4bc3c5d7fc]: Commencement: S. 167 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

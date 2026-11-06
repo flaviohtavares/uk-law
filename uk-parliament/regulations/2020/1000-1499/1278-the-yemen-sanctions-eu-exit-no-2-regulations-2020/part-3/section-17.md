@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Circumventing etc. prohibitions[^key-fd3036b3dcb4635b42e5a988d9c9ea41][^key-af62821128916039c7758020f9d45f25]
+## 17. Circumventing etc. prohibitions[^c-fd3036b3dcb4635b42e5a988d9c9ea41][^c-af62821128916039c7758020f9d45f25]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd3036b3dcb4635b42e5a988d9c9ea41]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-fd3036b3dcb4635b42e5a988d9c9ea41]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-af62821128916039c7758020f9d45f25]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1278/regulation/17) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-af62821128916039c7758020f9d45f25]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1278/regulation/17) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

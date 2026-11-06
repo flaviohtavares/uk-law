@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Exceptions to prohibition on disclosure[^key-b6e9cba8f62a30599777fc14edc0e19f][^key-93c5e688a8ec50cdf640402238a59fff]
+## 123. Exceptions to prohibition on disclosure[^c-b6e9cba8f62a30599777fc14edc0e19f][^c-93c5e688a8ec50cdf640402238a59fff]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6e9cba8f62a30599777fc14edc0e19f]: Commencement: S. 123 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b6e9cba8f62a30599777fc14edc0e19f]: Commencement: S. 123 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-93c5e688a8ec50cdf640402238a59fff]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2022/31/section/123) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-93c5e688a8ec50cdf640402238a59fff]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2022/31/section/123) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

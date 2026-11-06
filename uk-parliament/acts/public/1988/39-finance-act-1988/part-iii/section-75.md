@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Premiums for leases etc.[^key-fc45d17d26b96cadefa03515f2e05c9d]
+## 75. Premiums for leases etc.[^c-fc45d17d26b96cadefa03515f2e05c9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc45d17d26b96cadefa03515f2e05c9d]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/1988/39/section/75) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-fc45d17d26b96cadefa03515f2e05c9d]: Textual amendment: [S. 75](https://www.legislation.gov.uk/ukpga/1988/39/section/75) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

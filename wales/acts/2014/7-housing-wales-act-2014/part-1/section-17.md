@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Revocation of registration[^key-f3f2dbfa05d1f4b71dea69e702933cb3]
+## 17. Revocation of registration[^c-f3f2dbfa05d1f4b71dea69e702933cb3]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3f2dbfa05d1f4b71dea69e702933cb3]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2014/7/section/17) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/g)
+[^c-f3f2dbfa05d1f4b71dea69e702933cb3]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2014/7/section/17) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/g)

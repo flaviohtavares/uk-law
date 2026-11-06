@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-e4ffafce6e6749c74fa79ebf6da8fb02]
+## 2. Interpretation[^c-e4ffafce6e6749c74fa79ebf6da8fb02]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e4ffafce6e6749c74fa79ebf6da8fb02]: Commencement: Reg. 2 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-e4ffafce6e6749c74fa79ebf6da8fb02]: Commencement: Reg. 2 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 

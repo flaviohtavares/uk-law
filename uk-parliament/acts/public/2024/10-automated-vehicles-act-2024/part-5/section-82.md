@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Power to grant permits[^key-e6203dcf1c6fbdeeefe07bdb9993a741][^key-b5eddfb4a15c702a2045e4f325a151dd]
+## 82. Power to grant permits[^c-e6203dcf1c6fbdeeefe07bdb9993a741][^c-b5eddfb4a15c702a2045e4f325a151dd]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6203dcf1c6fbdeeefe07bdb9993a741]: Commencement: S. 82 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e6203dcf1c6fbdeeefe07bdb9993a741]: Commencement: S. 82 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-b5eddfb4a15c702a2045e4f325a151dd]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2024/10/section/82) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)
+[^c-b5eddfb4a15c702a2045e4f325a151dd]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2024/10/section/82) in force at 15.5.2026 by [S.I. 2026/437](https://www.legislation.gov.uk/uksi/2026/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/437/regulation/2/a)

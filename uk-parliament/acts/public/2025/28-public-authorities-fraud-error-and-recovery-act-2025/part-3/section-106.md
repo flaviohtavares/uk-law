@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106. Power to make consequential provision[^key-41a3959f8238fcd9735776a03586db00]
+## 106. Power to make consequential provision[^c-41a3959f8238fcd9735776a03586db00]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a3959f8238fcd9735776a03586db00]: Commencement: S. 106 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-41a3959f8238fcd9735776a03586db00]: Commencement: S. 106 in force at Royal Assent, see [s. 109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)

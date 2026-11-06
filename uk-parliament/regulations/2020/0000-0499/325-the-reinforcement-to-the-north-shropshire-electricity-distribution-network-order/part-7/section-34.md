@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Defence to proceedings in respect of statutory nuisance[^key-e9784f75681cd3b9f67aedbe397b969d]
+## 34. Defence to proceedings in respect of statutory nuisance[^c-e9784f75681cd3b9f67aedbe397b969d]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e9784f75681cd3b9f67aedbe397b969d]: Commencement: Art. 34 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e9784f75681cd3b9f67aedbe397b969d]: Commencement: Art. 34 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030731]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) was amended by the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) section 107, Schedule 17, paragraph 6. Section 82(2) was inserted by the [Noise and Statutory Nuisance Act 1993 (c.40)](https://www.legislation.gov.uk/ukpga/1993/40), [section 5(2)](https://www.legislation.gov.uk/ukpga/1993/40/section/5/2) and amended by the Environment Act 1995.
 

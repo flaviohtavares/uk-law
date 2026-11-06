@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Incorporation of governing bodies of federations and dissolution of former governing bodies[^key-29d2be69697405005e24518e5a36df8f]
+## 13. Incorporation of governing bodies of federations and dissolution of former governing bodies[^c-29d2be69697405005e24518e5a36df8f]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29d2be69697405005e24518e5a36df8f]: Commencement: Reg. 13 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-29d2be69697405005e24518e5a36df8f]: Commencement: Reg. 13 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00016]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).

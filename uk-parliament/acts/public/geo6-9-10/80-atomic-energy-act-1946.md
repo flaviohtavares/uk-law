@@ -51,7 +51,7 @@ It shall be the general duty of the Minister of Supply (in this Act referred to 
 
 ### 4. Power to obtain information of materials, plant and processes.
 
-(1) Subject to subsection (1A)[^key-3de10437341773aac1216341a162a663] the Minister may by notice in writing served upon any person require him to make such periodical and other returns, at such times and containing such particulars and accompanied by such plans, drawings and other documents as may be specified in the notice,—
+(1) Subject to subsection (1A)[^c-3de10437341773aac1216341a162a663] the Minister may by notice in writing served upon any person require him to make such periodical and other returns, at such times and containing such particulars and accompanied by such plans, drawings and other documents as may be specified in the notice,—
 
 - (a) of any prescribed substance, specified in the notice, in his possession or under his control;
 - (b) of any minerals so specified in his possession or under his control or present in or on land owned or occupied by him, being minerals from which, in the opinion of the Minister, any of the prescribed substances can be obtained;
@@ -59,7 +59,7 @@ It shall be the general duty of the Minister of Supply (in this Act referred to 
 - (d) of any contract entered into by him or any licence granted by or to him relating to the production or use of atomic energy or research into matters connected therewith;
 - (e) of any other information in his possession relating to any work carried out by him, or on his behalf or under his direction, in connection with the production or use of atomic energy or research into matters connected therewith.
 
-(1A)[^key-b821c14c3b2b06647582987592c73e69] No notice may be served under subsection (1) which imposes a requirement which could be imposed—
+(1A)[^c-b821c14c3b2b06647582987592c73e69] No notice may be served under subsection (1) which imposes a requirement which could be imposed—
 
 - (a) by a notice served by the Office for Nuclear Regulation under section 97 of the Energy Act 2013 (power of ONR to obtain information), or
 - (b) by an authorised inspector under paragraph 15 of Schedule 8 to that Act (power of inspectors to require information and documents).
@@ -73,17 +73,17 @@ he shall be guilty of an offence under this Act.
 
 ### 5. Power of entry and inspection.
 
-(1) Subject to subsection (1A)[^key-912770c5094c02a6daad78d8d67e0a48] any person authorised by the Minister may, on producing, if so required, some duly authenticated document showing his authority, enter any premises where he has reasonable grounds for believing that work is being carried out for the purpose of or in connection with the production or use of atomic energy or research into matters connected therewith, or that any of the prescribed substances, or any minerals from which any such substance can be obtained, or any such plant as is mentioned in paragraph (c) of subsection (1) of the last foregoing section are situated, and may inspect the premises and any articles found therein.
+(1) Subject to subsection (1A)[^c-912770c5094c02a6daad78d8d67e0a48] any person authorised by the Minister may, on producing, if so required, some duly authenticated document showing his authority, enter any premises where he has reasonable grounds for believing that work is being carried out for the purpose of or in connection with the production or use of atomic energy or research into matters connected therewith, or that any of the prescribed substances, or any minerals from which any such substance can be obtained, or any such plant as is mentioned in paragraph (c) of subsection (1) of the last foregoing section are situated, and may inspect the premises and any articles found therein.
 
 The person carrying out the inspection may make copies of, or extracts from, any drawing, plan or other document found in the premises and, for the purpose of making such copies or extracts, may remove any such drawing, plan or other document and retain possession thereof for a period not exceeding seven days.
 
-(1A)[^key-9bd5bd9e9716804e6222890376140de1] No authorisation to enter or inspect any premises may be given by the Minister to any person under subsection (1) if such authorisation could be given by the Office for Nuclear Regulation to an inspector under Part 1 of Schedule 8 to the Energy Act 2013 (appointment and powers of inspectors).
+(1A)[^c-9bd5bd9e9716804e6222890376140de1] No authorisation to enter or inspect any premises may be given by the Minister to any person under subsection (1) if such authorisation could be given by the Office for Nuclear Regulation to an inspector under Part 1 of Schedule 8 to the Energy Act 2013 (appointment and powers of inspectors).
 
 (2) If any person wilfully obstructs any person exercising powers under this section, he shall be guilty of an offence under this Act.
 
 ## Power to search for and work minerals and acquire property
 
-### 6. Power to do work for purpose of discovering minerals.[^key-4e633cbb941fc25db6d91374adcd8bf9]
+### 6. Power to do work for purpose of discovering minerals.[^c-4e633cbb941fc25db6d91374adcd8bf9]
 
 *Extent: E+W+S*
 
@@ -153,7 +153,7 @@ In this subsection “**authorised person**” means, in relation to information
 
 (2) The Minister shall not withhold consent under the last foregoing subsection, if he is satisfied that the information proposed to be communicated is not of importance for purposes of defence.
 
-(2A)[^key-82d208c017a5febe795eecb437aaeb61] The communication of information is not an offence under this section if it is—
+(2A)[^c-82d208c017a5febe795eecb437aaeb61] The communication of information is not an offence under this section if it is—
 
 - (a) communication to the Office for Nuclear Regulation of information required under section 97 of the Energy Act 2013 (power of ONR to obtain information), or any subsequent communication of that information by the Office for Nuclear Regulation, or
 - (b) communication to an authorised inspector of information required by the inspector under paragraph 15 of Schedule 8 to that Act (power of inspectors to require information and documents), or any subsequent communication of that information by an inspector.
@@ -195,7 +195,7 @@ Any person who, without the authority of the Minister or the United Kingdom Atom
 
 ### 15. Provisions as to orders.
 
-(1) Every order made by the Minister under this Act [^key-61dae6da5be2c4d50471a79fff168fac]... shall be laid before Parliament forthwith after it is made, and if either House of Parliament, within a period of forty days beginning with the day on which any such order is laid before it, resolves that the order be annulled, the order shall cease to have effect, but without prejudice to anything previously done thereunder or to the making of a new order.
+(1) Every order made by the Minister under this Act [^c-61dae6da5be2c4d50471a79fff168fac]... shall be laid before Parliament forthwith after it is made, and if either House of Parliament, within a period of forty days beginning with the day on which any such order is laid before it, resolves that the order be annulled, the order shall cease to have effect, but without prejudice to anything previously done thereunder or to the making of a new order.
 
 In reckoning any such period of forty days, no account shall be taken of any time during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
 
@@ -207,7 +207,7 @@ In reckoning any such period of forty days, no account shall be taken of any tim
 
 Any expenses incurred by the Minister in the exercise of functions under this Act and any sums required by or under any provision of this Act to be paid to any person by way of compensation or interest thereon shall be defrayed out of moneys provided by Parliament.
 
-[^key-35843885b56f97e3bda9ab5ea23276ac]...
+[^c-35843885b56f97e3bda9ab5ea23276ac]...
 
 ### 17. Service of notices.
 
@@ -223,7 +223,7 @@ Any notice required or authorised by or under this Act to be served on any perso
 (1) In this Act the following expressions have the meanings hereby respectively assigned to them, that is to say—
 
 - “**atomic energy**” means the energy released from atomic nuclei as the result of any process, including the fission process, but does not include energy released in any process of natural transmutation or radioactive decay which is not accelerated or influenced by external means;
-- “[^key-e4608e2eaed8fa5ec8b6612eae939a8a]**inspector**” means an inspector appointed under Schedule 8 to the Energy Act 2013; and “**authorised**”, in relation to such an inspector, is to be construed in accordance with paragraph 2(4) of that Schedule;
+- “[^c-e4608e2eaed8fa5ec8b6612eae939a8a]**inspector**” means an inspector appointed under Schedule 8 to the Energy Act 2013; and “**authorised**”, in relation to such an inspector, is to be construed in accordance with paragraph 2(4) of that Schedule;
 - “**minerals**” includes all substances obtained or obtainable from the soil by underground or surface working;
 - “**plant**” includes any machinery, equipment or appliance, whether affixed to land or not;
 - “**prescribed substance**” means uranium, thorium, plutonium, neptunium or any of their respective compounds or any such other substance as the Minister may by order prescribe, being a substance which in his opinion is or may be used for the production or use of atomic energy or research into matters connected therewith.
@@ -240,17 +240,17 @@ In the application of this Act to Scotland—
 
 - (a) for references to a mortgage and a mortgagee (except where those expressions occur in the Second Schedule to this Act) there shall be respectively substituted references to a heritable security, and to the creditor in such a security; the expression “**hire purchase agreement**” means a contract to which the [^c6326051]Hire Purchase and Small Debt (Scotland) Act 1932 applies or would apply if a limitation as to value contained in section one of that Act were omitted; for any reference to an arbitrator there shall be substituted a reference to an arbiter;
 - (b) any provision in this Act requiring the Minister to serve notices on the owners, lessees and occupiers of land shall be deemed to be complied with if notice is served on all the persons appearing from the valuation roll or otherwise known to the Minister to have an interest in the land. Service of a notice on any person so appearing to have an interest may be effected by sending the notice in a registered letter addressed to him at his address as entered in the valuation roll;
-- (c)[^key-db6765a59679b6ea4957591493e33338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-db6765a59679b6ea4957591493e33338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-db6765a59679b6ea4957591493e33338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-db6765a59679b6ea4957591493e33338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) section seventeen of this Act shall have effect as if paragraph (d) thereof were omitted.
 
 ### 20. Application to Northern Ireland.
 
-(1) It is hereby declared that this Act [^key-3509a0d0d82c165254683c95bab139ca]... extends to Northern Ireland, [^c6326081]. . .
+(1) It is hereby declared that this Act [^c-3509a0d0d82c165254683c95bab139ca]... extends to Northern Ireland, [^c6326081]. . .
 
 (2)[^c6326091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8d39331f4f88e1244e6d64fce0786397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8d39331f4f88e1244e6d64fce0786397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Short title.
 
@@ -258,45 +258,45 @@ This Act may be cited as the Atomic Energy Act 1946.
 
 SCHEDULES
 
-## FIRST SCHEDULE — Compensation for Work done in Searching for Minerals[^key-b184c32158c583786d6e7191b2ab86d6]
+## FIRST SCHEDULE — Compensation for Work done in Searching for Minerals[^c-b184c32158c583786d6e7191b2ab86d6]
 
 Section 6.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**9.**[^key-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b184c32158c583786d6e7191b2ab86d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SECOND SCHEDULE — Compulsory Acquisition of Certain Property
 
@@ -351,15 +351,15 @@ and shall in either case vest free of any mortgage.
 
 [^c6325901]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/3) repealed by [Atomic Energy Authority Act 1954 (c. 32)](https://www.legislation.gov.uk/ukpga/1954/32), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1954/32/section/2/3)
 
-[^key-3de10437341773aac1216341a162a663]: Textual amendment: Words in s. 4(1) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 35(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/35/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-3de10437341773aac1216341a162a663]: Textual amendment: Words in s. 4(1) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 35(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/35/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-b821c14c3b2b06647582987592c73e69]: Textual amendment: S. 4(1A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 35(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/35/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-b821c14c3b2b06647582987592c73e69]: Textual amendment: S. 4(1A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 35(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/35/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-912770c5094c02a6daad78d8d67e0a48]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/5/1) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 36(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/36/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-912770c5094c02a6daad78d8d67e0a48]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/5/1) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 36(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/36/2); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-9bd5bd9e9716804e6222890376140de1]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/5) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 36(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/36/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-9bd5bd9e9716804e6222890376140de1]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/5) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 36(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/36/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-4e633cbb941fc25db6d91374adcd8bf9]: Textual amendment: S. 6 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/14)
+[^c-4e633cbb941fc25db6d91374adcd8bf9]: Textual amendment: S. 6 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/14)
 
 [^M_F_2369ae70-0b11-45b6-e40c-1785df631baa]: Textual amendment: S. 7 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/14)
 
@@ -367,7 +367,7 @@ and shall in either case vest free of any mortgage.
 
 [^c6325951]: Modification: S. 11 excluded by [Atomic Energy Authority Act 1954 (c. 32)](https://www.legislation.gov.uk/ukpga/1954/32), [s. 6(4)](https://www.legislation.gov.uk/ukpga/1954/32/section/6/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/1954/32/schedule/3)
 
-[^key-82d208c017a5febe795eecb437aaeb61]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/11) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 37](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/37); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-82d208c017a5febe795eecb437aaeb61]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/11) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 37](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/37); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c6325961]: Textual amendment: [S. 12(1)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/12/1)—(4)(6)(7) repealed by [Patents Act 1977 (c. 37)](https://www.legislation.gov.uk/ukpga/1977/37), [s. 132(5)](https://www.legislation.gov.uk/ukpga/1977/37/section/132/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/1977/37/schedule/6)
 
@@ -381,26 +381,26 @@ and shall in either case vest free of any mortgage.
 
 [^c6326021]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1948/58/section/1/1), (S.) by [Criminal Justice (Scotland) Act 1949 (c. 94)](https://www.legislation.gov.uk/ukpga/1949/94), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1949/94/section/16/1) and (N.I.) by [Criminal Justice Act (Northern Ireland) 1953 (c. 14)](https://www.legislation.gov.uk/apni/1953/14), [s. 1(1)](https://www.legislation.gov.uk/apni/1953/14/section/1/1)
 
-[^key-61dae6da5be2c4d50471a79fff168fac]: Textual amendment: Words in s. 15(1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/a)
+[^c-61dae6da5be2c4d50471a79fff168fac]: Textual amendment: Words in s. 15(1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/a)
 
 [^c6326031]: Textual amendment: S. 15(3) repealed by [Statute Law Revision Act 1963 (c. 30)](https://www.legislation.gov.uk/ukpga/1963/30)
 
-[^key-35843885b56f97e3bda9ab5ea23276ac]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/16) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/b)
+[^c-35843885b56f97e3bda9ab5ea23276ac]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/16) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/b)
 
-[^key-e4608e2eaed8fa5ec8b6612eae939a8a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/18/1) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 38](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/38); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-e4608e2eaed8fa5ec8b6612eae939a8a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/18/1) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 38](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/38); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c6326051]: Marginal citation: [1932 c. 38](https://www.legislation.gov.uk/ukpga/1932/38).
 
-[^key-db6765a59679b6ea4957591493e33338]: Textual amendment: [S. 19(c)(d)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/19/c/d) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/c)
+[^c-db6765a59679b6ea4957591493e33338]: Textual amendment: [S. 19(c)(d)](https://www.legislation.gov.uk/ukpga/Geo6/9-10/80/section/19/c/d) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/c)
 
-[^key-3509a0d0d82c165254683c95bab139ca]: Textual amendment: Words in s. 20(1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/d)
+[^c-3509a0d0d82c165254683c95bab139ca]: Textual amendment: Words in s. 20(1) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 15(2)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/15/2/d)
 
 [^c6326081]: Textual amendment: Words repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
 [^c6326091]: Textual amendment: S. 20(2) repealed by [Northern Ireland Act 1962 (c. 30)](https://www.legislation.gov.uk/ukpga/1962/30), [Sch. 4 Pt. IV](https://www.legislation.gov.uk/ukpga/1962/30/schedule/4/part/IV)
 
-[^key-8d39331f4f88e1244e6d64fce0786397]: Textual amendment: S. 20(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-8d39331f4f88e1244e6d64fce0786397]: Textual amendment: S. 20(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-b184c32158c583786d6e7191b2ab86d6]: Textual amendment: Sch. 1 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/14)
+[^c-b184c32158c583786d6e7191b2ab86d6]: Textual amendment: Sch. 1 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/14)
 
 [^c6326131]: Marginal citation: [1938 c. 53](https://www.legislation.gov.uk/ukpga/1938/53).

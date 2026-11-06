@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Trees subject to tree preservation orders[^key-d9a20f7864bb3823702dbb9234ff8284]
+## 24. Trees subject to tree preservation orders[^c-d9a20f7864bb3823702dbb9234ff8284]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) the undertaker must do no unnecessary damage to any tree or shrub and must pay compensation to any person for any loss or damage arising from such activity;
 - (b) the duty contained in section 206(1) (replacement of trees) of the 1990 Act will not apply although where possible the undertaker must seek to replace any trees which are removed; and
-- (c) the undertaker must consult (with sufficient particulars to identify the tree) the relevant planning authority prior to that activity taking place , except where provision for relevant activity in relation to the tree has already been made in an environmental management plan approved under paragraph 4 of Schedule 2, or a landscape and ecology management plan approved under paragraph 5 of Schedule 2[^key-bb241a1f0b2fd2811c9defe57c24ec0a].
+- (c) the undertaker must consult (with sufficient particulars to identify the tree) the relevant planning authority prior to that activity taking place , except where provision for relevant activity in relation to the tree has already been made in an environmental management plan approved under paragraph 4 of Schedule 2, or a landscape and ecology management plan approved under paragraph 5 of Schedule 2[^c-bb241a1f0b2fd2811c9defe57c24ec0a].
 
 (4) The authority given by paragraph (1) constitutes a deemed consent under the relevant tree preservation order.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9a20f7864bb3823702dbb9234ff8284]: Commencement: Art. 24 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-d9a20f7864bb3823702dbb9234ff8284]: Commencement: Art. 24 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-bb241a1f0b2fd2811c9defe57c24ec0a]: Textual amendment: Words in [art. 24(3)(c)](https://www.legislation.gov.uk/uksi/2025/462/article/24/3/c) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-bb241a1f0b2fd2811c9defe57c24ec0a]: Textual amendment: Words in [art. 24(3)(c)](https://www.legislation.gov.uk/uksi/2025/462/article/24/3/c) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

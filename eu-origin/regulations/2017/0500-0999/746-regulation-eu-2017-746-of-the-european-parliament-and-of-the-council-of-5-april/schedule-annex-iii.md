@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX III — TECHNICAL DOCUMENTATION ON POST-MARKET SURVEILLANCE[^key-f0fe3e1a362a57117977e93ea17feacd]
+## ANNEX III — TECHNICAL DOCUMENTATION ON POST-MARKET SURVEILLANCE[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]The technical documentation on post-market surveillance to be drawn up by the manufacturer in accordance with Articles 78 to 81 shall be presented in a clear, organised, readily searchable and unambiguous manner and shall include in particular the elements described in this Annex.
+[^c-f0fe3e1a362a57117977e93ea17feacd]The technical documentation on post-market surveillance to be drawn up by the manufacturer in accordance with Articles 78 to 81 shall be presented in a clear, organised, readily searchable and unambiguous manner and shall include in particular the elements described in this Annex.
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.
 
 The post-market surveillance plan drawn up in accordance with Article 79.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.
 
 The PSUR referred to in Article 81 and the post-market surveillance report referred to in Article 80.
 
@@ -38,4 +38,4 @@ The PSUR referred to in Article 81 and the post-market surveillance report refer
 
 ## Annotations
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

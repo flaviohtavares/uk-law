@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Marine management schemes[^key-0b4c34e0e4f61e09f7d7767cbc2b207a]
+## 99. Marine management schemes[^c-0b4c34e0e4f61e09f7d7767cbc2b207a]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4c34e0e4f61e09f7d7767cbc2b207a]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2010/5/section/99) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-0b4c34e0e4f61e09f7d7767cbc2b207a]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2010/5/section/99) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Salt marshes and flats[^key-b5b28f642cb943cc4fc52b39aa43e465]
+## 25A. Salt marshes and flats[^c-b5b28f642cb943cc4fc52b39aa43e465]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b28f642cb943cc4fc52b39aa43e465]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2000/37/section/25A) inserted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/20)
+[^c-b5b28f642cb943cc4fc52b39aa43e465]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2000/37/section/25A) inserted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/20)

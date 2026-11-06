@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 418. Revocation of spent provision[^key-7221bb96150c5aee0f1102c0d35e2b9a]
+## 418. Revocation of spent provision[^c-7221bb96150c5aee0f1102c0d35e2b9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Article 3 of the Registered Foreign Lawyers Order 1991 (Banking Act 1987 (Exempt
 
 ## Annotations
 
-[^key-7221bb96150c5aee0f1102c0d35e2b9a]: Commencement: Art. 418 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7221bb96150c5aee0f1102c0d35e2b9a]: Commencement: Art. 418 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

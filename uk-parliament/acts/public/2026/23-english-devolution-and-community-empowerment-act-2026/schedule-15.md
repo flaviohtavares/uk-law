@@ -24,7 +24,7 @@ summary: ''
 
 Section 34
 
-**1.**[^key-45d98ccdf5e1efead29eeef7b0741b87] (1) The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-45d98ccdf5e1efead29eeef7b0741b87] (1) The Town and Country Planning Act 1990 is amended as follows.
 
 (2) In section 61DA (mayoral development orders)—
 
@@ -144,4 +144,4 @@ Section 34
 
 ## Annotations
 
-[^key-45d98ccdf5e1efead29eeef7b0741b87]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-45d98ccdf5e1efead29eeef7b0741b87]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

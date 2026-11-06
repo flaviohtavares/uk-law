@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 17
 
-### 1. Opt outs of additional services: general[^key-e7493fc45192eae609de39b5b0832147]
+### 1. Opt outs of additional services: general[^c-e7493fc45192eae609de39b5b0832147]
 
 (1) In this Schedule—
 
@@ -59,7 +59,7 @@ Regulation 17
 
 (9) No temporary opt out notice may be served by a contractor prior to 1st April 2004.
 
-### 2. Temporary opt outs and permanent opt outs following temporary opt outs[^key-c47d7ba671ea435d8d4ea53ccdd23aa6]
+### 2. Temporary opt outs and permanent opt outs following temporary opt outs[^c-c47d7ba671ea435d8d4ea53ccdd23aa6]
 
 (1) As soon as is reasonably practicable and in any event within the period of 7 days beginning with the date of receipt of a temporary opt out notice under paragraph 1(5), the Health Board shall—
 
@@ -124,7 +124,7 @@ the Health Board may notify the contractor in writing at least 28 days before th
 
 (18) Any decision or determination by the assessment panel for the purposes of this paragraph may be reached by a majority.
 
-### 3. Permanent opt outs[^key-a0b991637e56e42e0afa625b26fe1306]
+### 3. Permanent opt outs[^c-a0b991637e56e42e0afa625b26fe1306]
 
 (1) In this paragraph—
 
@@ -213,7 +213,7 @@ the Health Board shall in accordance with the decision of the assessment panel n
 
 (24) Any decision or determination by the assessment panel for the purposes of this paragraph may be reached by a majority.
 
-### 4. Out of hour opt outs where the opt out notice is served after 30th September 2004[^key-e87a024526b797ee660ebb7f8de09ce3]
+### 4. Out of hour opt outs where the opt out notice is served after 30th September 2004[^c-e87a024526b797ee660ebb7f8de09ce3]
 
 (1) This paragraph applies where a contractor wishes to serve or serves an out of hours opt out notice after 30th September 2004.
 
@@ -233,7 +233,7 @@ the Health Board shall in accordance with the decision of the assessment panel n
 
 (9) Sub-paragraphs (6) to (24) of paragraph 3 shall apply to an out of hours opt out as they apply to a permanent opt out and as if the reference to “A day” was a reference to “OOH day” and the reference in paragraph 3(18) to a “permanent opt out notice” was a reference to “an out of hours opt out notice”.
 
-### 5. Out of hours opt out where opt out notice is served before 1st October 2004[^key-1ea4ac8fd1e07eff67ae0dc8e4cf10fc]
+### 5. Out of hours opt out where opt out notice is served before 1st October 2004[^c-1ea4ac8fd1e07eff67ae0dc8e4cf10fc]
 
 (1) This paragraph shall apply where a contractor wishes to serve or serves an out of hours opt out notice before 1st October 2004.
 
@@ -287,7 +287,7 @@ the Health Board shall in accordance with the decision of the assessment panel n
 
 (17) Sub-paragraphs (12) to (24) of paragraph 3 shall apply to an out of hours opt out as they apply to a permanent opt out and as if the reference to “C day” was a reference to OOHC day or OOH day where OOH day is 1st January 2005 and 1st January 2005 is nine months or more after the date of the out of hours opt out notice.
 
-### 6. Informing patients of opt-outs[^key-61cc1976f11a2a0f57a8f3ebff0cacc6]
+### 6. Informing patients of opt-outs[^c-61cc1976f11a2a0f57a8f3ebff0cacc6]
 
 (1) Prior to any opt out taking effect, the Health Board and the contractor shall discuss how to inform patients of the proposed opt out.
 
@@ -300,14 +300,14 @@ the Health Board shall in accordance with the decision of the assessment panel n
 
 ## Annotations
 
-[^key-e7493fc45192eae609de39b5b0832147]: Commencement: Sch. 2 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e7493fc45192eae609de39b5b0832147]: Commencement: Sch. 2 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-c47d7ba671ea435d8d4ea53ccdd23aa6]: Commencement: Sch. 2 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c47d7ba671ea435d8d4ea53ccdd23aa6]: Commencement: Sch. 2 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a0b991637e56e42e0afa625b26fe1306]: Commencement: Sch. 2 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a0b991637e56e42e0afa625b26fe1306]: Commencement: Sch. 2 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-e87a024526b797ee660ebb7f8de09ce3]: Commencement: Sch. 2 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-e87a024526b797ee660ebb7f8de09ce3]: Commencement: Sch. 2 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-1ea4ac8fd1e07eff67ae0dc8e4cf10fc]: Commencement: Sch. 2 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-1ea4ac8fd1e07eff67ae0dc8e4cf10fc]: Commencement: Sch. 2 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-61cc1976f11a2a0f57a8f3ebff0cacc6]: Commencement: Sch. 2 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-61cc1976f11a2a0f57a8f3ebff0cacc6]: Commencement: Sch. 2 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

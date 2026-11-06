@@ -131,7 +131,7 @@ this Part shall have effect as respects the intestate as if the spouse or civil 
 
 (6) In this section references to the net value of the estate, or any part of the estate, of an intestate are references to the estimated market value thereof as at the date of the death of the intestate, after payment of all duties and charges thereon and of debts, funeral expenses and expenses of administration.
 
-(7) Nothing in this section shall prejudice or affect the operation of section fifteen[^c16816041] of the Matrimonial Causes Act (Northern Ireland), 1939 [^m00001][^key-d80cdc593122a51215ce674942b8eacd]... with respect to the property of a wife who has been judicially separated from her husband, or of section 180 of the Civil Partnership Act 2004 , or of Article 20(2) of the Matrimonial Causes (Northern Ireland) Order 1978[^key-6be851566e1aaa72c6c0cc1442c190fc] .
+(7) Nothing in this section shall prejudice or affect the operation of section fifteen[^c16816041] of the Matrimonial Causes Act (Northern Ireland), 1939 [^m00001][^c-d80cdc593122a51215ce674942b8eacd]... with respect to the property of a wife who has been judicially separated from her husband, or of section 180 of the Civil Partnership Act 2004 , or of Article 20(2) of the Matrimonial Causes (Northern Ireland) Order 1978[^c-6be851566e1aaa72c6c0cc1442c190fc] .
 
 ### 8. Rights of issue.
 
@@ -502,9 +502,9 @@ Section 30.
 
 [^m00001]: Marginal citation: 1939 c.13
 
-[^key-d80cdc593122a51215ce674942b8eacd]: Textual amendment: Words in [s. 7(7)](https://www.legislation.gov.uk/apni/1955/24/section/7/7) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [126(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [126(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/3))
+[^c-d80cdc593122a51215ce674942b8eacd]: Textual amendment: Words in [s. 7(7)](https://www.legislation.gov.uk/apni/1955/24/section/7/7) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [126(2)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/2/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [126(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/3))
 
-[^key-6be851566e1aaa72c6c0cc1442c190fc]: Textual amendment: Words in [s. 7(7)](https://www.legislation.gov.uk/apni/1955/24/section/7/7) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [126(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [126(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/3))
+[^c-6be851566e1aaa72c6c0cc1442c190fc]: Textual amendment: Words in [s. 7(7)](https://www.legislation.gov.uk/apni/1955/24/section/7/7) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [126(2)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/2/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [126(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/126/3))
 
 [^c16816081]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 

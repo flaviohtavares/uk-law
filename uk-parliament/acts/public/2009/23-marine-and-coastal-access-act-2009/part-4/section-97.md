@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Further provision about civil sanctions[^key-95de68d7f407cedcfe3c6b7aa52ffe68]
+## 97. Further provision about civil sanctions[^c-95de68d7f407cedcfe3c6b7aa52ffe68]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (which makes further provision about civil sanctions) has effect.
 
 ## Annotations
 
-[^key-95de68d7f407cedcfe3c6b7aa52ffe68]: Commencement: S. 97 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-95de68d7f407cedcfe3c6b7aa52ffe68]: Commencement: S. 97 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

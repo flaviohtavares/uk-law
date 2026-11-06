@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Civil Pensions Act (Northern Ireland) 1925[^key-fd9d169bc39e3f3d4dab8fbfc1647a53]
+## 53. Civil Pensions Act (Northern Ireland) 1925[^c-fd9d169bc39e3f3d4dab8fbfc1647a53]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd9d169bc39e3f3d4dab8fbfc1647a53]: Commencement: Reg. 53 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-fd9d169bc39e3f3d4dab8fbfc1647a53]: Commencement: Reg. 53 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00069]: Footnote: [1925 c.2 (N.I.)](https://www.legislation.gov.uk/apni/1925/2) (15 & 16 Geo. 5).

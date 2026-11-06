@@ -32,7 +32,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Forestry) *(Phytophthora ramorum*) (Great Britain) (Amendment) Order 2007 (revoked)[^key-d0f051d6328f7947258bf223e49a29a7]
+The Plant Health (Forestry) *(Phytophthora ramorum*) (Great Britain) (Amendment) Order 2007 (revoked)[^c-d0f051d6328f7947258bf223e49a29a7]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 31st December 2007
 
-[^key-d0f051d6328f7947258bf223e49a29a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0f051d6328f7947258bf223e49a29a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d0f051d6328f7947258bf223e49a29a7]
+## 1. Title and commencement[^c-d0f051d6328f7947258bf223e49a29a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plant Health (Forestry) (Phytophthora ramorum) (Great Britain) Order 2004[^key-d0f051d6328f7947258bf223e49a29a7]
+## 2. Amendments to the Plant Health (Forestry) (Phytophthora ramorum) (Great Britain) Order 2004[^c-d0f051d6328f7947258bf223e49a29a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0f051d6328f7947258bf223e49a29a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0f051d6328f7947258bf223e49a29a7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d0f051d6328f7947258bf223e49a29a7]EXPLANATORY NOTE
+[^c-d0f051d6328f7947258bf223e49a29a7]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -72,6 +72,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 ## Annotations
 
-[^key-d0f051d6328f7947258bf223e49a29a7]: Textual amendment: Order revoked (E.S.) (1.1.2017) by [The Plant Health (Forestry) (Amendment) (England and Scotland) Order 2016 (S.I. 2016/1167)](https://www.legislation.gov.uk/uksi/2016/1167), arts. 1, [17(1)(b)](https://www.legislation.gov.uk/uksi/2016/1167/article/17/1/b) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2016/1167/article/17/2))
+[^c-d0f051d6328f7947258bf223e49a29a7]: Textual amendment: Order revoked (E.S.) (1.1.2017) by [The Plant Health (Forestry) (Amendment) (England and Scotland) Order 2016 (S.I. 2016/1167)](https://www.legislation.gov.uk/uksi/2016/1167), arts. 1, [17(1)(b)](https://www.legislation.gov.uk/uksi/2016/1167/article/17/1/b) (with [art. 17(2)](https://www.legislation.gov.uk/uksi/2016/1167/article/17/2))
 
     Order revoked (W.) (28.3.2019) by [The Plant Health (Forestry) (Amendment) (Wales) Order 2019 (S.I. 2019/498)](https://www.legislation.gov.uk/wsi/2019/498), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/498/article/1/1), [25(1)(b)](https://www.legislation.gov.uk/wsi/2019/498/article/25/1/b)

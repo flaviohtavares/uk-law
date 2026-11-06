@@ -59,10 +59,10 @@ The competent authorities shall require an institution to adjust the stress cali
 
 9. An institution that uses collateral to mitigate its CCR shall have internal procedures to verify that, prior to recognising the effect of collateral in its calculations, the collateral meets the legal certainty standards set out in Chapter 4.
 
-10.[^key-27826ec538eee8c0f2493b62f7d102b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+10.[^c-27826ec538eee8c0f2493b62f7d102b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-27826ec538eee8c0f2493b62f7d102b3]: Textual amendment: [Art. 292(10)](https://www.legislation.gov.uk/eur/2013/575/article/292/10) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [147](https://www.legislation.gov.uk/uksi/2018/1401/regulation/147) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27826ec538eee8c0f2493b62f7d102b3]: Textual amendment: [Art. 292(10)](https://www.legislation.gov.uk/eur/2013/575/article/292/10) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [147](https://www.legislation.gov.uk/uksi/2018/1401/regulation/147) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

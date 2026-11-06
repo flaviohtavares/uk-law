@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Repayment thresholds[^key-33436a87cf4ec49d2fe124f9a49c0815]
+## SCHEDULE 1A — Repayment thresholds[^c-33436a87cf4ec49d2fe124f9a49c0815]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ The repayment threshold for a plan 3 loan is £21,000.
 
 ## Annotations
 
-[^key-33436a87cf4ec49d2fe124f9a49c0815]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2009/470/schedule/1A) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [65](https://www.legislation.gov.uk/uksi/2022/1335/regulation/65)
+[^c-33436a87cf4ec49d2fe124f9a49c0815]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2009/470/schedule/1A) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [65](https://www.legislation.gov.uk/uksi/2022/1335/regulation/65)

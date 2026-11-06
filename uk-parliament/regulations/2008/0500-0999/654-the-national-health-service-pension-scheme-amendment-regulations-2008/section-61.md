@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Insertion of new regulation S4A[^key-e1614da92762b2c8e1f394a56670294e]
+## 61. Insertion of new regulation S4A[^c-e1614da92762b2c8e1f394a56670294e]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ After regulation S4 insert—
 
 ## Annotations
 
-[^key-e1614da92762b2c8e1f394a56670294e]: Commencement: Reg. 61 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-e1614da92762b2c8e1f394a56670294e]: Commencement: Reg. 61 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

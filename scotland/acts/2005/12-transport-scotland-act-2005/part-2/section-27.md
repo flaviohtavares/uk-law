@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Duty of authorities, undertakers etc. to ensure competence of employees etc.[^key-665639620b4e53acf96b348787e80727]
+## 27. Duty of authorities, undertakers etc. to ensure competence of employees etc.[^c-665639620b4e53acf96b348787e80727]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ After section 126 of the 1991 Act there is inserted—
 
 ## Annotations
 
-[^key-665639620b4e53acf96b348787e80727]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2005/12/section/27) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-665639620b4e53acf96b348787e80727]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2005/12/section/27) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

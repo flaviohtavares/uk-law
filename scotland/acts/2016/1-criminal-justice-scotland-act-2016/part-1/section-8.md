@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Information to be given on authorisation[^key-28b10a86711dbb84f01a5f11f7dbf13a]
+## 8. Information to be given on authorisation[^c-28b10a86711dbb84f01a5f11f7dbf13a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ At the time when authorisation to keep a person in custody is given under sectio
 
 ## Annotations
 
-[^key-28b10a86711dbb84f01a5f11f7dbf13a]: Commencement: S. 8 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-28b10a86711dbb84f01a5f11f7dbf13a]: Commencement: S. 8 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

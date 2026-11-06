@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Fixed monetary penalties: procedure[^key-b75c91b0ecf22cfc43c0062b6234de97]
+## 21. Fixed monetary penalties: procedure[^c-b75c91b0ecf22cfc43c0062b6234de97]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b75c91b0ecf22cfc43c0062b6234de97]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/3/section/21) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-b75c91b0ecf22cfc43c0062b6234de97]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/3/section/21) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

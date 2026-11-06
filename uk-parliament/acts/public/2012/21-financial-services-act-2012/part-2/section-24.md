@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Rules and guidance[^key-28122b32391e44325d85abeac9c00f8c][^key-824773b002844760b5fce83126bed6f4]
+## 24. Rules and guidance[^c-28122b32391e44325d85abeac9c00f8c][^c-824773b002844760b5fce83126bed6f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1102,6 +1102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28122b32391e44325d85abeac9c00f8c]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2012/21/section/24) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-28122b32391e44325d85abeac9c00f8c]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2012/21/section/24) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-824773b002844760b5fce83126bed6f4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2012/21/section/24) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-824773b002844760b5fce83126bed6f4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2012/21/section/24) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

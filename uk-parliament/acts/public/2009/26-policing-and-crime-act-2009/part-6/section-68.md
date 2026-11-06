@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Article 95 alerts[^key-36be4e802bdc1b4c9a98c25262749fc6]
+## 68. Article 95 alerts[^c-36be4e802bdc1b4c9a98c25262749fc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36be4e802bdc1b4c9a98c25262749fc6]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2009/26/section/68) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(k)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/k) (with [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/b))
+[^c-36be4e802bdc1b4c9a98c25262749fc6]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2009/26/section/68) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(k)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/k) (with [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2009/3096/article/4/1/b))

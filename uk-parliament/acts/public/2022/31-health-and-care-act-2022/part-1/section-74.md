@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Guidance about joint appointments[^key-811437673c416911c97f79acd6f41416][^key-36c1d3292d7f57a1621f74c8e9a37a79]
+## 74. Guidance about joint appointments[^c-811437673c416911c97f79acd6f41416][^c-36c1d3292d7f57a1621f74c8e9a37a79]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ After section 13U of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-811437673c416911c97f79acd6f41416]: Commencement: S. 74 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-811437673c416911c97f79acd6f41416]: Commencement: S. 74 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-36c1d3292d7f57a1621f74c8e9a37a79]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/31/section/74) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-36c1d3292d7f57a1621f74c8e9a37a79]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2022/31/section/74) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

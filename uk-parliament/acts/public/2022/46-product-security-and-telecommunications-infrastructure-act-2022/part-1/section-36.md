@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Monetary penalties[^key-3f6f134ab45b4821cedf51280fc18919][^key-b572d0b6f38580f02e67578d75b43ce8]
+## 36. Monetary penalties[^c-3f6f134ab45b4821cedf51280fc18919][^c-b572d0b6f38580f02e67578d75b43ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ For the relevant maximum, see section 38.
 
 ## Annotations
 
-[^key-3f6f134ab45b4821cedf51280fc18919]: Commencement: S. 36 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-3f6f134ab45b4821cedf51280fc18919]: Commencement: S. 36 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-b572d0b6f38580f02e67578d75b43ce8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/46/section/36) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b572d0b6f38580f02e67578d75b43ce8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/46/section/36) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

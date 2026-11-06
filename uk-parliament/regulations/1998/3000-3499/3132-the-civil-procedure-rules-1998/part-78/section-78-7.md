@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78.7. Default judgment where an EOP application is treated as if started as a claim under Part 7[^key-266e1279802f50b8489bd66c71d31b2e]
+## 78.7. Default judgment where an EOP application is treated as if started as a claim under Part 7[^c-266e1279802f50b8489bd66c71d31b2e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-266e1279802f50b8489bd66c71d31b2e]: Textual amendment: [Pt. 78](https://www.legislation.gov.uk/uksi/1998/3132/part/78) revoked (31.12.2020) by [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/521/regulation/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2019/521/regulation/27)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(j)(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/j/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-266e1279802f50b8489bd66c71d31b2e]: Textual amendment: [Pt. 78](https://www.legislation.gov.uk/uksi/1998/3132/part/78) revoked (31.12.2020) by [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/521/regulation/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2019/521/regulation/27)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(j)(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/j/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

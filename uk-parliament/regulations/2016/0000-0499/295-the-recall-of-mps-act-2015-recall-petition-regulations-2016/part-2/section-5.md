@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Order of names[^key-09d45c9e2f5f2d422c9af257e6b69b17]
+## 5. Order of names[^c-09d45c9e2f5f2d422c9af257e6b69b17]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d45c9e2f5f2d422c9af257e6b69b17]: Commencement: Reg. 5 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-09d45c9e2f5f2d422c9af257e6b69b17]: Commencement: Reg. 5 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

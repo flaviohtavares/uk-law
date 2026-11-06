@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 409. Exception for payments and benefits in respect of certain legal expenses etc and indemnity insurance[^key-32b695c9352db0e5e30f05cb845b2954]
+## 409. Exception for payments and benefits in respect of certain legal expenses etc and indemnity insurance[^c-32b695c9352db0e5e30f05cb845b2954]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) For the purposes of this section “**deductible amount**” means an amount which meets conditions A to C.
 
-(3) Condition A is that the amount is paid by the individual or by the employer or former employer on behalf of the individual[^key-7c6a9f2c19adae9411ba8394a5aa0252].
+(3) Condition A is that the amount is paid by the individual or by the employer or former employer on behalf of the individual[^c-7c6a9f2c19adae9411ba8394a5aa0252].
 
 (4) Condition B is that a deduction for the amount would have been allowed under section 346 from earnings from the relevant employment, if the individual still held the employment when the amount was paid.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32b695c9352db0e5e30f05cb845b2954]: Textual amendment: Words in s. 409 heading substituted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/4/a)
+[^c-32b695c9352db0e5e30f05cb845b2954]: Textual amendment: Words in s. 409 heading substituted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/4/a)
 
-[^key-7c6a9f2c19adae9411ba8394a5aa0252]: Textual amendment: Words in s. 409(3) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/4/b)
+[^c-7c6a9f2c19adae9411ba8394a5aa0252]: Textual amendment: Words in s. 409(3) inserted (with effect in accordance with s. 4(8) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/4/4/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-78c8818e7edec425795eeb5ec204e058] In section 41 of the Safeguarding Vulnerable Groups Act 2006 (registers: duty to refer)—
+(1)[^c-78c8818e7edec425795eeb5ec204e058] In section 41 of the Safeguarding Vulnerable Groups Act 2006 (registers: duty to refer)—
 
 - (a) in subsection (1)—
   - (i) for “must” substitute “ may ”, and
@@ -32,9 +32,9 @@ summary: ''
 - (c) in subsection (5) omit “prescribed”, and
 - (d) in the heading for “duty” substitute “ power ”.
 
-(2)[^key-78c8818e7edec425795eeb5ec204e058] Omit paragraph 9(2)(a) of Schedule 5 to the Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182) (which, if section 44(1) of the Act of 2006 were to come into force, would insert subsections (4A) to (4C) into section 41 of the Act of 2006).
+(2)[^c-78c8818e7edec425795eeb5ec204e058] Omit paragraph 9(2)(a) of Schedule 5 to the Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182) (which, if section 44(1) of the Act of 2006 were to come into force, would insert subsections (4A) to (4C) into section 41 of the Act of 2006).
 
-(3)[^key-19cb876d53e9ac16da66fccd615d83e3] In section 43 of the Act of 2006 (registers: notice of barring etc.) for subsections (1) to (5) substitute—
+(3)[^c-19cb876d53e9ac16da66fccd615d83e3] In section 43 of the Act of 2006 (registers: notice of barring etc.) for subsections (1) to (5) substitute—
 
 > (1) Subsection (2) applies if—
 >
@@ -96,16 +96,16 @@ summary: ''
 >
 > (5H) The Secretary of State may by order amend subsection (5G).
 
-(4)[^key-c0e2415ff9580fdaac0fcc147ed8a9df] In section 43(6)(a) of the Act of 2006 (meaning of “relevant register”) omit “of entry 1 or 8”.
+(4)[^c-c0e2415ff9580fdaac0fcc147ed8a9df] In section 43(6)(a) of the Act of 2006 (meaning of “relevant register”) omit “of entry 1 or 8”.
 
-(5)[^key-c0e2415ff9580fdaac0fcc147ed8a9df] In the heading of section 43 of that Act for “notice of barring and cessation of monitoring” substitute “ provision of barring information to keepers of registers ”.
+(5)[^c-c0e2415ff9580fdaac0fcc147ed8a9df] In the heading of section 43 of that Act for “notice of barring and cessation of monitoring” substitute “ provision of barring information to keepers of registers ”.
 
-(6)[^key-c0e2415ff9580fdaac0fcc147ed8a9df] Omit section 44 of that Act (registers: power to apply for vetting information).
+(6)[^c-c0e2415ff9580fdaac0fcc147ed8a9df] Omit section 44 of that Act (registers: power to apply for vetting information).
 
 ## Annotations
 
-[^key-78c8818e7edec425795eeb5ec204e058]: Commencement: S. 75(1)(2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/j)
+[^c-78c8818e7edec425795eeb5ec204e058]: Commencement: S. 75(1)(2) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/j)
 
-[^key-19cb876d53e9ac16da66fccd615d83e3]: Commencement: S. 75(3) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(k)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/k)
+[^c-19cb876d53e9ac16da66fccd615d83e3]: Commencement: S. 75(3) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) for specified purposes by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(k)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/k)
 
-[^key-c0e2415ff9580fdaac0fcc147ed8a9df]: Commencement: S. 75(4)-(6) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(l)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/l)
+[^c-c0e2415ff9580fdaac0fcc147ed8a9df]: Commencement: S. 75(4)-(6) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(l)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/l)

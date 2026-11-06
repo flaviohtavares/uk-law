@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**106.**[^key-d998d3894be3db20d67c26b976f475f8][^M_F_b044ed09-3ab5-4526-8bff-2e84dfbb848b] (1) Where regulation 105A does not apply then, subject to regulations 106A and 106ZA(1)[^M_F_b992e532-dda0-4e3d-c21d-e969019e2ce4], where relevant input tax—
+**106.**[^c-d998d3894be3db20d67c26b976f475f8][^M_F_b044ed09-3ab5-4526-8bff-2e84dfbb848b] (1) Where regulation 105A does not apply then, subject to regulations 106A and 106ZA(1)[^M_F_b992e532-dda0-4e3d-c21d-e969019e2ce4], where relevant input tax—
 
 - (a) in any prescribed accounting period, or
 - (b) in the case of a longer period, taken together with the amount of any adjustment in respect of that period under regulation 107B—
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d998d3894be3db20d67c26b976f475f8]: Commencement: Reg. 106 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-d998d3894be3db20d67c26b976f475f8]: Commencement: Reg. 106 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
 [^M_F_b044ed09-3ab5-4526-8bff-2e84dfbb848b]: Textual amendment: Reg. 106 substituted (18.4.2002 in relation to input tax incurred by a taxable person on goods imported or acquired by, or goods or services supplied to, him on or after that date) by [The Value Added Tax (Amendment) Regulations 2002 (S.I. 2002/1074)](https://www.legislation.gov.uk/uksi/2002/1074), [regs. 1](https://www.legislation.gov.uk/uksi/1999/3114/regulation/1), [4](https://www.legislation.gov.uk/uksi/1999/3114/regulation/4)
 

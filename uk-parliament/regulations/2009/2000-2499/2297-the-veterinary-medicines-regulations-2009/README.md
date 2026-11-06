@@ -32,7 +32,7 @@ summary: ''
 
 Medicines
 
-The Veterinary Medicines Regulations 2009 (revoked)[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+The Veterinary Medicines Regulations 2009 (revoked)[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 1st October 2009
 
-[^key-9f3eb49940157ce4e55ebf70ddde0ca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f3eb49940157ce4e55ebf70ddde0ca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### PART 1 — Introduction[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -60,7 +60,7 @@ Coming into force
 - [Section 2 — Definition of “veterinary medicinal product”, interpretation and scope](part-1/section-2.md)
 - [Section 3 — Products to which these Regulations do not apply](part-1/section-3.md)
 
-### PART 2 — Authorised veterinary medicinal products[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### PART 2 — Authorised veterinary medicinal products[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -80,7 +80,7 @@ Coming into force
 - [Section 15 — Exemptions](part-2/section-15.md)
 - [Section 16 — Fees](part-2/section-16.md)
 
-### PART 3 — Records[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### PART 3 — Records[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -95,7 +95,7 @@ Coming into force
 - [Section 23 — Records of the receipt or supply of prescription products](part-3/section-23.md)
 - [Section 24 — Records of products administered to a food-producing animal under the cascade](part-3/section-24.md)
 
-### PART 4 — Unauthorised veterinary medicinal products[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### PART 4 — Unauthorised veterinary medicinal products[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -105,7 +105,7 @@ Coming into force
 - [Section 26 — Possession of an unauthorised veterinary medicinal product](part-4/section-26.md)
 - [Section 27 — Supply of an unauthorised veterinary medicinal product](part-4/section-27.md)
 
-### PART 5 — Miscellaneous provisions, enforcement and offences[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+### PART 5 — Miscellaneous provisions, enforcement and offences[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 *Extent: E+W+S+NI*
 
@@ -142,27 +142,27 @@ Coming into force
 
 **No longer in force.**
 
-[^key-9f3eb49940157ce4e55ebf70ddde0ca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f3eb49940157ce4e55ebf70ddde0ca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
 **No longer in force.**
 
-[^key-9f3eb49940157ce4e55ebf70ddde0ca8]EXPLANATORY NOTE
+[^c-9f3eb49940157ce4e55ebf70ddde0ca8]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
 These Regulations revoke and remake with amendments the Veterinary Medicines Regulations 2008.
 
-## Principal changes to the 2008 Regulations: implementation of European obligations[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+## Principal changes to the 2008 Regulations: implementation of European obligations[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Other changes[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+## Other changes[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## The Regulations[^key-9f3eb49940157ce4e55ebf70ddde0ca8]
+## The Regulations[^c-9f3eb49940157ce4e55ebf70ddde0ca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -170,4 +170,4 @@ A full impact assessment has been prepared and placed in the libraries of both H
 
 ## Annotations
 
-[^key-9f3eb49940157ce4e55ebf70ddde0ca8]: Textual amendment: Regulations revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), regs. 1, [46(1)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/1)
+[^c-9f3eb49940157ce4e55ebf70ddde0ca8]: Textual amendment: Regulations revoked (1.10.2011) by [The Veterinary Medicines Regulations 2011 (S.I. 2011/2159)](https://www.legislation.gov.uk/uksi/2011/2159), regs. 1, [46(1)](https://www.legislation.gov.uk/uksi/2011/2159/regulation/46/1)

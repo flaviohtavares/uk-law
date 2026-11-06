@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Power to override easements and other rights[^key-1c8a106bd8de669a39beb804c312a010]
+## 32. Power to override easements and other rights[^c-1c8a106bd8de669a39beb804c312a010]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 (4) Where a person deriving title under the undertaker by whom the land in question was acquired—
 
 - (a) is liable to pay compensation by virtue of paragraph (3); and
-- (b)[^key-649ede49c0a8c924c0bb46ff83f0a370] fails to discharge that liability,
+- (b)[^c-649ede49c0a8c924c0bb46ff83f0a370] fails to discharge that liability,
 
   the liability is enforceable against the undertaker.
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1c8a106bd8de669a39beb804c312a010]: Commencement: Art. 32 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-1c8a106bd8de669a39beb804c312a010]: Commencement: Art. 32 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00072]: Footnote: Section 10 was amended by section of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-649ede49c0a8c924c0bb46ff83f0a370]: Textual amendment: Art. 32(4)(b) and words substituted (25.4.2025) by The A12 Chelmsford to A120 [Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-649ede49c0a8c924c0bb46ff83f0a370]: Textual amendment: Art. 32(4)(b) and words substituted (25.4.2025) by The A12 Chelmsford to A120 [Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

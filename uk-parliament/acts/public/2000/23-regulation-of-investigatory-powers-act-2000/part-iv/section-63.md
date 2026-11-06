@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Assistant Surveillance Commissioners.[^key-95ed61ea1d668159f3ca701f28165eb2]
+## 63. Assistant Surveillance Commissioners.[^c-95ed61ea1d668159f3ca701f28165eb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95ed61ea1d668159f3ca701f28165eb2]: Textual amendment: S. 63 repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))
+[^c-95ed61ea1d668159f3ca701f28165eb2]: Textual amendment: S. 63 repealed (1.9.2017) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 240(2)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/240/2/c), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2017/859](https://www.legislation.gov.uk/uksi/2017/859), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/859/regulation/2/i) (with [regs. 6-11](https://www.legislation.gov.uk/uksi/2017/859/regulation/6))

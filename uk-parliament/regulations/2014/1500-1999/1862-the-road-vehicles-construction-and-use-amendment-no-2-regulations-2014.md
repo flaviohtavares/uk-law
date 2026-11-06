@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2014 (revoked)[^key-181ade90e8d07103b772f96779dfb31d]
+The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2014 (revoked)[^c-181ade90e8d07103b772f96779dfb31d]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 20th August 2014
 
-[^key-181ade90e8d07103b772f96779dfb31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-181ade90e8d07103b772f96779dfb31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-181ade90e8d07103b772f96779dfb31d]
+## 1. Citation and commencement[^c-181ade90e8d07103b772f96779dfb31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-181ade90e8d07103b772f96779dfb31d]
+## 2. Amendment of Regulations[^c-181ade90e8d07103b772f96779dfb31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-181ade90e8d07103b772f96779dfb31d]
+## 3. Revocation[^c-181ade90e8d07103b772f96779dfb31d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-181ade90e8d07103b772f96779dfb31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-181ade90e8d07103b772f96779dfb31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-181ade90e8d07103b772f96779dfb31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-181ade90e8d07103b772f96779dfb31d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-181ade90e8d07103b772f96779dfb31d]: Textual amendment: Regulations revoked (1.2.2018) by [The Road Vehicles (Construction and Use) (Amendment etc.) (No. 2) Regulations 2017 (S.I. 2017/1251)](https://www.legislation.gov.uk/uksi/2017/1251), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1251/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1251/regulation/3)
+[^c-181ade90e8d07103b772f96779dfb31d]: Textual amendment: Regulations revoked (1.2.2018) by [The Road Vehicles (Construction and Use) (Amendment etc.) (No. 2) Regulations 2017 (S.I. 2017/1251)](https://www.legislation.gov.uk/uksi/2017/1251), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1251/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1251/regulation/3)

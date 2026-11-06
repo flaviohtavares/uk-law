@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Medical obligations[^key-d61cb9c79dad68d217ec7cd7b83ee0ed]
+## 72. Medical obligations[^c-d61cb9c79dad68d217ec7cd7b83ee0ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d61cb9c79dad68d217ec7cd7b83ee0ed]: Commencement: Reg. 72 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d61cb9c79dad68d217ec7cd7b83ee0ed]: Commencement: Reg. 72 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

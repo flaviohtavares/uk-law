@@ -31,28 +31,28 @@ Public Works Loans Act 1887 (repealed)
 
 1887 c.37
 
-[^key-3654514d3168929bc98ac951e06c2842]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3654514d3168929bc98ac951e06c2842]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Short title.[^key-3654514d3168929bc98ac951e06c2842][^key-3654514d3168929bc98ac951e06c2842]
+## 1. Short title.[^c-3654514d3168929bc98ac951e06c2842][^c-3654514d3168929bc98ac951e06c2842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-3654514d3168929bc98ac951e06c2842][^key-3654514d3168929bc98ac951e06c2842]
+## 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-3654514d3168929bc98ac951e06c2842][^c-3654514d3168929bc98ac951e06c2842]
 
-## 4. Power for certain local authorities to guarantee harbour loans.[^key-3654514d3168929bc98ac951e06c2842][^key-3654514d3168929bc98ac951e06c2842]
+## 4. Power for certain local authorities to guarantee harbour loans.[^c-3654514d3168929bc98ac951e06c2842][^c-3654514d3168929bc98ac951e06c2842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-3654514d3168929bc98ac951e06c2842][^key-3654514d3168929bc98ac951e06c2842]
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-3654514d3168929bc98ac951e06c2842][^c-3654514d3168929bc98ac951e06c2842]
 
 **No longer in force.**
 
-## SCHEDULE[^key-3654514d3168929bc98ac951e06c2842]
+## SCHEDULE[^c-3654514d3168929bc98ac951e06c2842]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3654514d3168929bc98ac951e06c2842]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/50-51/37) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 3
+[^c-3654514d3168929bc98ac951e06c2842]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/50-51/37) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 3

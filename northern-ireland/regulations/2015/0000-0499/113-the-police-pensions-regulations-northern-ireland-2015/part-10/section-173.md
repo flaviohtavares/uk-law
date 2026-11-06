@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The employer of an active member of this scheme (“**the employer**”) must pay contributions to this scheme in respect of the member at the rate of 46.6[^key-9ee8c53c058212d771fca878c0f0c8ad][^key-eccbde5d6ff3a02e4cb3634b0c1db202] % of the member's annualised rate of pensionable earnings (“employer contributions”).
+(1) The employer of an active member of this scheme (“**the employer**”) must pay contributions to this scheme in respect of the member at the rate of 46.6[^c-9ee8c53c058212d771fca878c0f0c8ad][^c-eccbde5d6ff3a02e4cb3634b0c1db202] % of the member's annualised rate of pensionable earnings (“employer contributions”).
 
 (2) Employer contributions must be paid at the intervals the scheme manager, in accordance with actuarial guidance, may for the time being determine.
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ee8c53c058212d771fca878c0f0c8ad]: Textual amendment: Word in [reg. 173(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/173/1) substituted (1.4.2024) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [36](https://www.legislation.gov.uk/nisr/2024/38/regulation/36)
+[^c-9ee8c53c058212d771fca878c0f0c8ad]: Textual amendment: Word in [reg. 173(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/173/1) substituted (1.4.2024) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [36](https://www.legislation.gov.uk/nisr/2024/38/regulation/36)
 
-[^key-eccbde5d6ff3a02e4cb3634b0c1db202]: Textual amendment: Word in [reg. 173(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/173/1) substituted (1.4.2019) by [The Police Pension Schemes (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/54)](https://www.legislation.gov.uk/nisr/2019/54), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2019/54/regulation/9)
+[^c-eccbde5d6ff3a02e4cb3634b0c1db202]: Textual amendment: Word in [reg. 173(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/173/1) substituted (1.4.2019) by [The Police Pension Schemes (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/54)](https://www.legislation.gov.uk/nisr/2019/54), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2019/54/regulation/9)

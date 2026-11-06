@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Carry back of losses on a permanent cessation of a trade[^key-74fa2ee1448c55e4933518c93ca0759e]
+## 89. Carry back of losses on a permanent cessation of a trade[^c-74fa2ee1448c55e4933518c93ca0759e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74fa2ee1448c55e4933518c93ca0759e]: Modification: [Ss. 89-91](https://www.legislation.gov.uk/ukpga/2007/3/section/89) applied (with application in accordance with Sch. 1 para. 64 of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 para. 71(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/71/2)
+[^c-74fa2ee1448c55e4933518c93ca0759e]: Modification: [Ss. 89-91](https://www.legislation.gov.uk/ukpga/2007/3/section/89) applied (with application in accordance with Sch. 1 para. 64 of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 para. 71(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/71/2)

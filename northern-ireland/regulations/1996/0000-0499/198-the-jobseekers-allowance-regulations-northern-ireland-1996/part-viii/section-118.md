@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Treatment of liable relative payments[^key-641344b321572cd2a56bc1e147edc6ab]
+## 118. Treatment of liable relative payments[^c-641344b321572cd2a56bc1e147edc6ab]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Subject to regulation 119 (disregard of payments treated as not relevant income)
 
 ## Annotations
 
-[^key-641344b321572cd2a56bc1e147edc6ab]: Commencement: Reg. 118 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-641344b321572cd2a56bc1e147edc6ab]: Commencement: Reg. 118 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

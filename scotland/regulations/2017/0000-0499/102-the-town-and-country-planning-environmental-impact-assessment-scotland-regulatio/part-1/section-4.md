@@ -33,7 +33,7 @@ summary: ''
 (3) The factors are—
 
 - (a) population and human health;
-- (b) biodiversity, and in particular species and habitats protected under any law that implemented[^key-fb7fad911a32c910ecad87bb5614dc38] Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c23241401] and Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds [^c23241411];
+- (b) biodiversity, and in particular species and habitats protected under any law that implemented[^c-fb7fad911a32c910ecad87bb5614dc38] Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c23241401] and Directive [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds [^c23241411];
 - (c) land, soil, water, air and climate; and
 - (d) material assets, cultural heritage and the landscape.
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fb7fad911a32c910ecad87bb5614dc38]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/4/3/b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/80/regulation/5/3) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb7fad911a32c910ecad87bb5614dc38]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/4/3/b) inserted (31.12.2020) by [The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/80)](https://www.legislation.gov.uk/ssi/2019/80), [regs. 1](https://www.legislation.gov.uk/ssi/2019/80/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/80/regulation/5/3) (as amended by [S.S.I. 2019/274](https://www.legislation.gov.uk/ssi/2019/274), [regs. 1](https://www.legislation.gov.uk/ssi/2019/274/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) and [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/2/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23241401]: Marginal citation: OJ L 206, 22.7.1992, p.7.
 

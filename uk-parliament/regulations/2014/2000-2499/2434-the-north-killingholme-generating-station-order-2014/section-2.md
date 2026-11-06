@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-6dbe2847de17b9dbae7e95b5dc0a4c2a]
+## 2. Interpretation[^c-6dbe2847de17b9dbae7e95b5dc0a4c2a]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ summary: ''
 - “the tribunal” means the Lands Chamber of the Upper Tribunal;
 - “undertaker” means C.GEN Killingholme Limited, which is the named undertaker, or any other person who has the benefit of this Order in accordance with article 6;
 - “watercourse”, unless otherwise provided, includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain; and
-- “the works plans” means the plans certified as the works plans by the Secretary of State for the purposes of this Order including the works plan dated 31st July 2020 and certified by the Secretary of State in accordance with article 34(1A)[^key-d851c5daaa426a0b10df549679b1e1b2] , and as further supplemented by the works plan dated 16th July 2025 and certified by the Secretary of State in accordance with article 34(1B)[^key-becc7194f182b68ad8b9d91326bbbe44].
+- “the works plans” means the plans certified as the works plans by the Secretary of State for the purposes of this Order including the works plan dated 31st July 2020 and certified by the Secretary of State in accordance with article 34(1A)[^c-d851c5daaa426a0b10df549679b1e1b2] , and as further supplemented by the works plan dated 16th July 2025 and certified by the Secretary of State in accordance with article 34(1B)[^c-becc7194f182b68ad8b9d91326bbbe44].
 
 (2) References in this Order to rights over land include references to rights to do or to place and maintain, anything in, on or under land or in the air-space above its surface.
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6dbe2847de17b9dbae7e95b5dc0a4c2a]: Commencement: Art. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-6dbe2847de17b9dbae7e95b5dc0a4c2a]: Commencement: Art. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -76,6 +76,6 @@ summary: ''
 
 [^f00009]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-d851c5daaa426a0b10df549679b1e1b2]: Textual amendment: Words in art. 2(1) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [3](https://www.legislation.gov.uk/uksi/2021/1055/article/3)
+[^c-d851c5daaa426a0b10df549679b1e1b2]: Textual amendment: Words in art. 2(1) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [3](https://www.legislation.gov.uk/uksi/2021/1055/article/3)
 
-[^key-becc7194f182b68ad8b9d91326bbbe44]: Textual amendment: Words in art. 2(1) inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [3](https://www.legislation.gov.uk/uksi/2026/445/article/3)
+[^c-becc7194f182b68ad8b9d91326bbbe44]: Textual amendment: Words in art. 2(1) inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [3](https://www.legislation.gov.uk/uksi/2026/445/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Defence to proceedings in respect of statutory nuisance[^key-4e793236cb7a0bc293a4e97a02886d38]
+## 63. Defence to proceedings in respect of statutory nuisance[^c-4e793236cb7a0bc293a4e97a02886d38]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4e793236cb7a0bc293a4e97a02886d38]: Commencement: Art. 63 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-4e793236cb7a0bc293a4e97a02886d38]: Commencement: Art. 63 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00066]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82 was amended by section 5(2) of the Noise and Statutory Nuisance Act [1993 (c. 40)](https://www.legislation.gov.uk/ukpga/1993/40) and paragraph 6 of Schedule 17 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 

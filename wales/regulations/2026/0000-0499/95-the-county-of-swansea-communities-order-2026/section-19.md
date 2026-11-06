@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Pontlliw and Tircoed — changes to electoral arrangements[^key-32eff0d80825833b53613320df8a30c0]
+## 19. Pontlliw and Tircoed — changes to electoral arrangements[^c-32eff0d80825833b53613320df8a30c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The number of councillors to be elected for the community of Pontlliw and Tircoe
 
 ## Annotations
 
-[^key-32eff0d80825833b53613320df8a30c0]: Commencement: [Art. 19](https://www.legislation.gov.uk/wsi/2026/95/article/19) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-32eff0d80825833b53613320df8a30c0]: Commencement: [Art. 19](https://www.legislation.gov.uk/wsi/2026/95/article/19) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

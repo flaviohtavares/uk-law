@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make this Order in exercise of the powers conferred by section 28(1) and (2) of the Budget Responsibility and National Audit Act 2011[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-ab9783d7c0c2f71334e46f3de2d015ee]
+## 1. Citation, commencement and interpretation[^c-ab9783d7c0c2f71334e46f3de2d015ee]
 
 (1) This Order may be cited as the Budget Responsibility and National Audit Act 2011 (Consequential Amendments) Order 2012.
 
@@ -57,7 +57,7 @@ The Treasury make this Order in exercise of the powers conferred by section 28(1
 - “the NAO” means the National Audit Office established by section 20 of the Budget Responsibility and National Audit Act 2011; and
 - “the old NAO” means the National Audit Office established by section 3 of the National Audit Act 1983[^f00002].
 
-## 2. Consequential Amendments[^key-48d0169a5d6e0d61bddebe6abc123299]
+## 2. Consequential Amendments[^c-48d0169a5d6e0d61bddebe6abc123299]
 
 (1) In the Official Secrets Act 1989 (Prescription) Order 1990[^f00003]—
 
@@ -92,7 +92,7 @@ The Treasury make this Order in exercise of the powers conferred by section 28(1
 
 (8) In the Annex to Schedule 1 to the Employment Tribunals (Constitution and Rules of Procedure) Regulations 2004[^f00010] for “Comptroller and Auditor General of the National Audit Office” substitute “Comptroller and Auditor General”.
 
-(9)[^key-0e99834d26bb426018af1d50f297e104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-0e99834d26bb426018af1d50f297e104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In regulation 14(2) of the Child Support Information Regulations 2008[^f00012]—
 
@@ -131,11 +131,11 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00001]: Footnote: [2011 c.4](https://www.legislation.gov.uk/ukpga/2011/4).
 
-[^key-ab9783d7c0c2f71334e46f3de2d015ee]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/725/article/1/2)
+[^c-ab9783d7c0c2f71334e46f3de2d015ee]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/725/article/1/2)
 
 [^f00002]: Footnote: [1983 c.44](https://www.legislation.gov.uk/ukpga/1983/44).
 
-[^key-48d0169a5d6e0d61bddebe6abc123299]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/725/article/1/2)
+[^c-48d0169a5d6e0d61bddebe6abc123299]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/725/article/1/2)
 
 [^f00003]: Footnote: [S.I. 1990/200](https://www.legislation.gov.uk/uksi/1990/200).
 
@@ -153,7 +153,7 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00010]: Footnote: [S.I. 2004/1861](https://www.legislation.gov.uk/uksi/2004/1861).The Annex was added to Schedule 1 by [S.I. 2010/131](https://www.legislation.gov.uk/uksi/2010/131).
 
-[^key-0e99834d26bb426018af1d50f297e104]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/uksi/2012/725/article/2/9) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-0e99834d26bb426018af1d50f297e104]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/uksi/2012/725/article/2/9) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
 [^f00012]: Footnote: [S.I. 2008/2551](https://www.legislation.gov.uk/uksi/2008/2551). Regulation 14 was substituted by [S.I. 2009/396](https://www.legislation.gov.uk/uksi/2009/396).
 

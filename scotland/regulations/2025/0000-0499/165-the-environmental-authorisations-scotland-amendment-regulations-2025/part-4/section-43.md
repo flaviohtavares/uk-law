@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Consequential amendments[^key-c59baddb49c8cecbb9bac07b622803db]
+## 43. Consequential amendments[^c-c59baddb49c8cecbb9bac07b622803db]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 22 makes consequential amendments.
 
 ## Annotations
 
-[^key-c59baddb49c8cecbb9bac07b622803db]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2025/165/regulation/43) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-c59baddb49c8cecbb9bac07b622803db]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2025/165/regulation/43) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

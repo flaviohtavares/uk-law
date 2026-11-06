@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a person satisfies the conditions in subsection (2) below, he shall be entitled in accordance with the following provisions of this Part of this Act to payments to be known as “statutory paternity pay”[^key-0028382b2726e4585096266c7c5c564f].
+(1) Where a person satisfies the conditions in subsection (2) below, he shall be entitled in accordance with the following provisions of this Part of this Act to payments to be known as “statutory paternity pay”[^c-0028382b2726e4585096266c7c5c564f].
 
 (2) The conditions are—
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) The references in subsection (2) above to the relevant week are to the week immediately preceding the 14th week before the expected week of the child’s birth.
 
-(4) A person’s entitlement to statutory paternity pay[^key-c33f38982df899681764f795aa641b16] under this section shall not be affected by the birth, or expected birth, of more than one child as a result of the same pregnancy.
+(4) A person’s entitlement to statutory paternity pay[^c-c33f38982df899681764f795aa641b16] under this section shall not be affected by the birth, or expected birth, of more than one child as a result of the same pregnancy.
 
 (5) In this section, “newborn child” includes a child stillborn after twenty-four weeks of pregnancy.
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c19104331]: Textual amendment: Pt. XIIZA (ss. 167ZA-167ZK) inserted (8.12.2002) by [The Employment (Northern Ireland) Order 2002 (S.I. 2002/2836 (N.I. 2))](https://www.legislation.gov.uk/nisi/2002/2836), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2002/2836/article/1/2), [5](https://www.legislation.gov.uk/nisi/2002/2836/article/5); [S.R. 2002/356](https://www.legislation.gov.uk/nisr/2002/356), [art. 2(2)](https://www.legislation.gov.uk/nisr/2002/356/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2002/356/schedule/1/part/II)
 
-[^key-0028382b2726e4585096266c7c5c564f]: Textual amendment: Words in [s. 167ZA(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZA/1) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 2(8)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/8/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-0028382b2726e4585096266c7c5c564f]: Textual amendment: Words in [s. 167ZA(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZA/1) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 2(8)(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/8/a); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-c33f38982df899681764f795aa641b16]: Textual amendment: Words in [s. 167ZA(4)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZA/4) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 2(8)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/8/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-c33f38982df899681764f795aa641b16]: Textual amendment: Words in [s. 167ZA(4)](https://www.legislation.gov.uk/ukpga/1992/7/section/167ZA/4) substituted (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 2(8)(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/8/b); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))

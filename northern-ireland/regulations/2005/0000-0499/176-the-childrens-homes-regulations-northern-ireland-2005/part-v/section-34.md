@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Regulations and guidance[^key-bfb43644960f7830bac0a877655092b1]
+## 34. Regulations and guidance[^c-bfb43644960f7830bac0a877655092b1]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The registered person shall ensure that a copy of these Regulations (and of any 
 
 ## Annotations
 
-[^key-bfb43644960f7830bac0a877655092b1]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/176/regulation/34) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-bfb43644960f7830bac0a877655092b1]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/176/regulation/34) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Paragraph 8 (certificates as to financial resources)[^key-ba1816721cdb68a813093fa7eb7c973d]
+## 109. Paragraph 8 (certificates as to financial resources)[^c-ba1816721cdb68a813093fa7eb7c973d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In paragraph 8 (certificates as to financial resources) in sub-paragraph (2) [^c
 
 ## Annotations
 
-[^key-ba1816721cdb68a813093fa7eb7c973d]: Commencement: Reg. 109 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ba1816721cdb68a813093fa7eb7c973d]: Commencement: Reg. 109 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658831]: Marginal citation: Sub-paragraphs (a) and (aa) were substituted by paragraph 16(a) of Schedule 6 to the Financial Services Act 2012. Sub-paragraph (c) was amended by paragraph 16(b) of Schedule 6 to the Financial Services Act 2012.

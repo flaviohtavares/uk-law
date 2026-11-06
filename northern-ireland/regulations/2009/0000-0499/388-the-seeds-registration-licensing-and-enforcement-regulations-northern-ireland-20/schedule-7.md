@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — CERTIFICATES OF THE RESULTS OF TESTS OF SEEDS[^key-98e58d5639bec4850aca2676ce8faed8]
+## SCHEDULE 7 — CERTIFICATES OF THE RESULTS OF TESTS OF SEEDS[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 33
 
-### PART 1 — Cereal seeds[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 1 — Cereal seeds[^c-98e58d5639bec4850aca2676ce8faed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Fodder plant seed[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 2 — Fodder plant seed[^c-98e58d5639bec4850aca2676ce8faed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Beet seeds[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 3 — Beet seeds[^c-98e58d5639bec4850aca2676ce8faed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Vegetable seeds[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 4 — Vegetable seeds[^c-98e58d5639bec4850aca2676ce8faed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — Oil and fibre plant seeds[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 5 — Oil and fibre plant seeds[^c-98e58d5639bec4850aca2676ce8faed8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98e58d5639bec4850aca2676ce8faed8]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(f)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/f) (with [reg. 34](https://www.legislation.gov.uk/nisr/2016/244/regulation/34))
+[^c-98e58d5639bec4850aca2676ce8faed8]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(f)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/f) (with [reg. 34](https://www.legislation.gov.uk/nisr/2016/244/regulation/34))

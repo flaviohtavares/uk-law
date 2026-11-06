@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Family group decision-making: information to be provided to Principal Reporter[^key-0056a95f245d93b960510d013d1eb380]
+## 57. Family group decision-making: information to be provided to Principal Reporter[^c-0056a95f245d93b960510d013d1eb380]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0056a95f245d93b960510d013d1eb380]: Commencement: S. 57 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-0056a95f245d93b960510d013d1eb380]: Commencement: S. 57 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

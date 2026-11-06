@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Notification of contravention of SMP apparatus conditions[^key-ede51e23c5e1162f1eb9288a270a7e29][^key-fe1159f89d3dbc31e825d8fff5eaf480][^key-47e8c24bf2cab7962cc46f3318f83b12][^key-7ed0b4f6ede840c43999eba2f722ef6f]
+## 94. Notification of contravention of SMP apparatus conditions[^c-ede51e23c5e1162f1eb9288a270a7e29][^c-fe1159f89d3dbc31e825d8fff5eaf480][^c-47e8c24bf2cab7962cc46f3318f83b12][^c-7ed0b4f6ede840c43999eba2f722ef6f]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where OFCOM determine that there are reasonable grounds for believing that a person is contravening, or has contravened, an[^key-a6204ad1d2f803ca60f25c39df50203c] SMP apparatus condition 5, they may give that person a notification under this section.
+(1) Where OFCOM determine that there are reasonable grounds for believing that a person is contravening, or has contravened, an[^c-a6204ad1d2f803ca60f25c39df50203c] SMP apparatus condition 5, they may give that person a notification under this section.
 
 (2) A notification under this section is one which—
 
@@ -60,7 +60,7 @@ summary: ''
 - (b) the contravention is a continuing contravention and the subsequent notification is in respect of so much of a period as falls after a period to which the earlier notification relates; or
 - (c) the earlier notification has been withdrawn without a penalty having been imposed in respect of the notified contravention.
 
-(10)[^key-7b32ff839cc2023533d4ed40373dd9af] Before giving a notification under this section, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
+(10)[^c-7b32ff839cc2023533d4ed40373dd9af] Before giving a notification under this section, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
 
 (10A) OFCOM must not give a notification under this section if they consider that it would be more appropriate to proceed under the Competition Act 1998.
 
@@ -73,14 +73,14 @@ summary: ''
 
 ## Annotations
 
-[^key-ede51e23c5e1162f1eb9288a270a7e29]: Commencement: S. 94 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-ede51e23c5e1162f1eb9288a270a7e29]: Commencement: S. 94 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-fe1159f89d3dbc31e825d8fff5eaf480]: Modification: Ss. 94-97 applied (with modifications) by S.I. 2000/730, reg. 18(5) (as inserted (25.7.2003) by [Radio Equipment and Telecommunications Terminal Equipment (Amendment) Regulations 2003 (S.I. 2003/1903)](https://www.legislation.gov.uk/uksi/2003/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/2/12/b))
+[^c-fe1159f89d3dbc31e825d8fff5eaf480]: Modification: Ss. 94-97 applied (with modifications) by S.I. 2000/730, reg. 18(5) (as inserted (25.7.2003) by [Radio Equipment and Telecommunications Terminal Equipment (Amendment) Regulations 2003 (S.I. 2003/1903)](https://www.legislation.gov.uk/uksi/2003/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/2/12/b))
 
-[^key-47e8c24bf2cab7962cc46f3318f83b12]: Commencement: S. 94 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-47e8c24bf2cab7962cc46f3318f83b12]: Commencement: S. 94 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7ed0b4f6ede840c43999eba2f722ef6f]: Textual amendment: Words in s. 94 heading inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 54(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/54/b) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [13](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/13))
+[^c-7ed0b4f6ede840c43999eba2f722ef6f]: Textual amendment: Words in s. 94 heading inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 54(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/54/b) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [13](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/13))
 
-[^key-a6204ad1d2f803ca60f25c39df50203c]: Textual amendment: Words in s. 94(1) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 54(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/54/a) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [13](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/13))
+[^c-a6204ad1d2f803ca60f25c39df50203c]: Textual amendment: Words in s. 94(1) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 54(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/54/a) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [13](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/13))
 
-[^key-7b32ff839cc2023533d4ed40373dd9af]: Textual amendment: S. 94(10)-(10B) substituted for s. 94(10) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/17); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7b32ff839cc2023533d4ed40373dd9af]: Textual amendment: S. 94(10)-(10B) substituted for s. 94(10) (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/17); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

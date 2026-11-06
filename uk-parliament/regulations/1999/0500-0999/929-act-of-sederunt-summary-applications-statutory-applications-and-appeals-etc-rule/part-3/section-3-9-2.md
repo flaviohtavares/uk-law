@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.2. Service of restraint orders[^key-d5492cf6b6a154179ab7df22a946b96e]
+## 3.9.2. Service of restraint orders[^c-d5492cf6b6a154179ab7df22a946b96e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the sheriff pronounces an interlocutor making a restraint order under sect
 
 ## Annotations
 
-[^key-d5492cf6b6a154179ab7df22a946b96e]: Commencement: Rule 3.9.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-d5492cf6b6a154179ab7df22a946b96e]: Commencement: Rule 3.9.2 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

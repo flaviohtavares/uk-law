@@ -35,38 +35,38 @@ implementing Regulation (EC) No 1394/2007 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-0cbd6a000e0ccc990083ec151333bd2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cbd6a000e0ccc990083ec151333bd2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-0cbd6a000e0ccc990083ec151333bd2d]
+## Article 1. Scope[^c-0cbd6a000e0ccc990083ec151333bd2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Procedure for evaluation and certification[^key-0cbd6a000e0ccc990083ec151333bd2d]
+## Article 2. Procedure for evaluation and certification[^c-0cbd6a000e0ccc990083ec151333bd2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Site visits[^key-0cbd6a000e0ccc990083ec151333bd2d]
+## Article 3. Site visits[^c-0cbd6a000e0ccc990083ec151333bd2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Combined advanced therapy medicinal products[^key-0cbd6a000e0ccc990083ec151333bd2d]
+## Article 4. Combined advanced therapy medicinal products[^c-0cbd6a000e0ccc990083ec151333bd2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Scientific guidelines[^key-0cbd6a000e0ccc990083ec151333bd2d]
+## Article 5. Scientific guidelines[^c-0cbd6a000e0ccc990083ec151333bd2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Report[^key-0cbd6a000e0ccc990083ec151333bd2d]
+## Article 6. Report[^c-0cbd6a000e0ccc990083ec151333bd2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-0cbd6a000e0ccc990083ec151333bd2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-0cbd6a000e0ccc990083ec151333bd2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0cbd6a000e0ccc990083ec151333bd2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0cbd6a000e0ccc990083ec151333bd2d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0cbd6a000e0ccc990083ec151333bd2d]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(q)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/q) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cbd6a000e0ccc990083ec151333bd2d]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(q)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/q) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

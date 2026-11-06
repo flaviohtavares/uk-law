@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Access restriction orders[^key-8e353962d377ec96f7fd238740172d5f][^key-0b5a957fcf478c8e07f0a4845c81492b]
+## 146. Access restriction orders[^c-8e353962d377ec96f7fd238740172d5f][^c-0b5a957fcf478c8e07f0a4845c81492b]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e353962d377ec96f7fd238740172d5f]: Commencement: S. 146 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8e353962d377ec96f7fd238740172d5f]: Commencement: S. 146 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0b5a957fcf478c8e07f0a4845c81492b]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2023/50/section/146) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-0b5a957fcf478c8e07f0a4845c81492b]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2023/50/section/146) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

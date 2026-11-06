@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Duty to prepare a combined list[^key-41d5844bda1af3de6f61131f39293a4a]
+## 10. Duty to prepare a combined list[^c-41d5844bda1af3de6f61131f39293a4a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41d5844bda1af3de6f61131f39293a4a]: Commencement: Reg. 10 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-41d5844bda1af3de6f61131f39293a4a]: Commencement: Reg. 10 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33A. Modification of the 1995 Act and these Regulations for international operators[^key-dced4fe62f9ed5b6a81d8b848462b80d]
+## 33A. Modification of the 1995 Act and these Regulations for international operators[^c-dced4fe62f9ed5b6a81d8b848462b80d]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dced4fe62f9ed5b6a81d8b848462b80d]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/1995/2869/regulation/33A) inserted (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [6](https://www.legislation.gov.uk/uksi/2023/805/regulation/6)
+[^c-dced4fe62f9ed5b6a81d8b848462b80d]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/1995/2869/regulation/33A) inserted (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [6](https://www.legislation.gov.uk/uksi/2023/805/regulation/6)

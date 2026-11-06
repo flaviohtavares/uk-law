@@ -109,7 +109,7 @@ Section 109.
 
 ### The Aircraft and Shipbuilding Industries Act 1977[^c2548401]
 
-**18.**[^key-699b2ff9a40c7281c8dda385fcebcbec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-699b2ff9a40c7281c8dda385fcebcbec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Patents Act 1977[^c2548421]
 
@@ -200,7 +200,7 @@ Section 109.
 
 [^c2548401]: Marginal citation: [1977 c. 3](https://www.legislation.gov.uk/ukpga/1977/3).
 
-[^key-699b2ff9a40c7281c8dda385fcebcbec]: Textual amendment: Sch. 15 para. 18 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/9/2)
+[^c-699b2ff9a40c7281c8dda385fcebcbec]: Textual amendment: Sch. 15 para. 18 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 9(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/9/2)
 
 [^c2548421]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
 

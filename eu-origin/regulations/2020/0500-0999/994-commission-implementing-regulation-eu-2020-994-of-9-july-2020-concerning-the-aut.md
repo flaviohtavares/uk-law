@@ -35,18 +35,18 @@ concerning the authorisation of monensin and nicarbazin (Monimax) as a feed addi
 
 (Text with EEA relevance) (revoked)
 
-[^key-504296ca68f2240972625404f151ce15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-504296ca68f2240972625404f151ce15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-504296ca68f2240972625404f151ce15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-504296ca68f2240972625404f151ce15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-504296ca68f2240972625404f151ce15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-504296ca68f2240972625404f151ce15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-504296ca68f2240972625404f151ce15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-504296ca68f2240972625404f151ce15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-504296ca68f2240972625404f151ce15]
+## ANNEX[^c-504296ca68f2240972625404f151ce15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-504296ca68f2240972625404f151ce15]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 364](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/364) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-504296ca68f2240972625404f151ce15]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 364](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/364) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

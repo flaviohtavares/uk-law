@@ -48,7 +48,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-9f5ac3f85a4e98fce70b6da54470a2d7]
+### 1. Citation, commencement and extent[^c-9f5ac3f85a4e98fce70b6da54470a2d7]
 
 (1) This Order may be cited as the Electricity and Gas (Energy Company Obligation) Order 2023.
 
@@ -58,7 +58,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 (4) This Order extends to England and Wales and Scotland.
 
-### 2. Interpretation[^key-f97964d8c108bb4a071779a930d3c9d1]
+### 2. Interpretation[^c-f97964d8c108bb4a071779a930d3c9d1]
 
 (1) In this Order, “**2022 Order**” means the Electricity and Gas (Energy Company Obligation) Order 2022[^f00007].
 
@@ -148,13 +148,13 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 2 — Overall home-heating cost reduction target
 
-### 3. Overall home-heating cost reduction target[^key-aebe79424376e7d468a5d06e4843bc4e]
+### 3. Overall home-heating cost reduction target[^c-aebe79424376e7d468a5d06e4843bc4e]
 
 (1) For the period beginning with the commencement date and ending with 31st March 2026 the overall home-heating cost reduction target[^f00016] is £55,998,000 in annual cost savings.
 
 (2) The overall home-heating cost reduction target is to be apportioned between licence-holders who are participants in relation to an ECO4A phase in accordance with article 6.
 
-### 4. Definition of a participant[^key-48e33eeedb9c9e5bd0cd67ead918a388]
+### 4. Definition of a participant[^c-48e33eeedb9c9e5bd0cd67ead918a388]
 
 (1) A licence-holder is a participant in relation to an ECO4A phase if the licence-holder is an ECO4 participant in relation to the equivalent ECO4 phase.
 
@@ -170,13 +170,13 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 3 — Determining obligations and minimum requirements
 
-### 5. Application of this Part[^key-34a044fc17104da4cf00c9a14095b58a]
+### 5. Application of this Part[^c-34a044fc17104da4cf00c9a14095b58a]
 
 (1) This Part applies in relation to a participant in respect of the supply of electricity.
 
 (2) This Part also applies in relation to a participant in respect of the supply of gas in the same way as it applies to a participant in respect of the supply of electricity, but as if for each reference to “electricity” there were substituted “gas”.
 
-### 6. Determining a participant’s obligations and minimum requirements[^key-29e0057434a461d2f40cefc64122bfcf]
+### 6. Determining a participant’s obligations and minimum requirements[^c-29e0057434a461d2f40cefc64122bfcf]
 
 (1) The Administrator must determine for each participant in relation to an ECO4A phase the participant’s home-heating cost reduction obligation for that ECO4A phase.
 
@@ -194,7 +194,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 - (a) for phase A, within the period of 6 weeks beginning with the commencement date;
 - (b) for phases B and C, on or before the 7th March prior to the commencement of the ECO4A phase.
 
-### 7. Determining obligations and minimum requirements for participants who are not members of a group[^key-80c016482e5f846d844d59b5519ec389]
+### 7. Determining obligations and minimum requirements for participants who are not members of a group[^c-80c016482e5f846d844d59b5519ec389]
 
 (1) Where a participant is not a member of a group at the end of the qualification year for the ECO4A phase—
 
@@ -222,7 +222,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 (3) In paragraph (1)(b)(ii), “Hp” is the participant’s home-heating cost reduction obligation for the ECO4A phase.
 
-### 8. Determining obligations and minimum requirements for participants who are members of a group[^key-64d265e3c3018fbdeaca1be8540368b9]
+### 8. Determining obligations and minimum requirements for participants who are members of a group[^c-64d265e3c3018fbdeaca1be8540368b9]
 
 (1) Where a participant is a member of a group at the end of the qualification year for the ECO4A phase—
 
@@ -250,11 +250,11 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 4 — Achievement of obligations
 
-### 9. Achievement of total home-heating cost reduction obligation[^key-003ba51fdf53cb00d3ca5a77c6ae5425]
+### 9. Achievement of total home-heating cost reduction obligation[^c-003ba51fdf53cb00d3ca5a77c6ae5425]
 
 (1) A participant must achieve its total home-heating cost reduction obligation by no later than 31st March 2026.
 
-(2)[^key-3ce591bc50057c3e42e95a835ad6d19b] A participant must achieve its total home-heating cost reduction obligation by ensuring that the overall amount, as determined under article A35(2) to (5), is equal to, or exceeds, the participant's total home-heating cost reduction obligation.
+(2)[^c-3ce591bc50057c3e42e95a835ad6d19b] A participant must achieve its total home-heating cost reduction obligation by ensuring that the overall amount, as determined under article A35(2) to (5), is equal to, or exceeds, the participant's total home-heating cost reduction obligation.
 
 (3) In achieving its total home-heating cost reduction obligation, a participant must—
 
@@ -263,7 +263,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 (4) A participant may not rely on an ECO4A qualifying action for the purpose of complying with paragraph (3)(b) if the ECO4A qualifying action is relied on by the participant for the purpose of complying with paragraph (3)(a).
 
-(5)[^key-35588aea2a89fa5bbe056198830c5548] In achieving its total home-heating cost reduction obligation, a participant must also promote low-income qualifying actions that—
+(5)[^c-35588aea2a89fa5bbe056198830c5548] In achieving its total home-heating cost reduction obligation, a participant must also promote low-income qualifying actions that—
 
 - (a) are completed before the end of phase A, and have a combined score equal to, or exceeding, 90% of the participant's low-income minimum requirement for phase A;
 - (b) are completed before the end of phase B, and have a combined score equal to, or exceeding, 90% of the participant's low-income minimum requirement for phase B; and
@@ -289,7 +289,7 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ### CHAPTER 1 — General criteria for ECO4A qualifying actions
 
-#### 10. ECO4A qualifying actions: overview[^key-8e763da8799717a7707ed653d757a076]
+#### 10. ECO4A qualifying actions: overview[^c-8e763da8799717a7707ed653d757a076]
 
 An ECO4A qualifying action is a measure which the Administrator is satisfied—
 
@@ -300,7 +300,7 @@ An ECO4A qualifying action is a measure which the Administrator is satisfied—
 - (e) meets the requirements of article 24 (quality assurance and consumer protection); and
 - (f) is notified to the Administrator in accordance with article 25.
 
-#### 11. ECO4A qualifying actions: general requirements[^key-f3436b4775beb53d76ffcd50084ff5a4]
+#### 11. ECO4A qualifying actions: general requirements[^c-f3436b4775beb53d76ffcd50084ff5a4]
 
 (1) A measure meets the requirements of this article if the measure—
 
@@ -318,7 +318,7 @@ An ECO4A qualifying action is a measure which the Administrator is satisfied—
 
 ### CHAPTER 2 — Measures at eligible properties
 
-#### 12. Measures installed at private domestic premises in certain Council tax valuation bands[^key-666184a1e356f3906d104250bb823f06]
+#### 12. Measures installed at private domestic premises in certain Council tax valuation bands[^c-666184a1e356f3906d104250bb823f06]
 
 (1) A measure meets the condition in this article if—
 
@@ -343,7 +343,7 @@ An ECO4A qualifying action is a measure which the Administrator is satisfied—
 - (b) for premises in England and Wales, references to dwellings listed in a particular valuation band are to be construed in accordance with section 5(6) of the Local Government Finance Act 1992[^f00017];
 - (c) for premises in Scotland, references to dwellings listed in a particular valuation band are to be construed in accordance with section 74(5) of the Local Government Finance Act 1992.
 
-#### 13. Measures installed at private domestic premises occupied by help to heat group member[^key-f04524d810ff9beee57df8e219041604]
+#### 13. Measures installed at private domestic premises occupied by help to heat group member[^c-f04524d810ff9beee57df8e219041604]
 
 (1) A measure meets the condition in this article if—
 
@@ -357,7 +357,7 @@ An ECO4A qualifying action is a measure which the Administrator is satisfied—
 
 (2) In this article, “**help to heat group**” has the meaning given in article 2(1) of the 2022 Order.
 
-#### 14. Measures installed at band D social housing[^key-199e2fc0d6a528f2e2846bd07c5a9c53]
+#### 14. Measures installed at band D social housing[^c-199e2fc0d6a528f2e2846bd07c5a9c53]
 
 A measure meets the condition in this article if—
 
@@ -366,7 +366,7 @@ A measure meets the condition in this article if—
   - (i) is an innovation measure; and
   - (ii) is not a heating control measure.
 
-#### 15. Measures installed at band E, F or G social housing[^key-c63fdb63a1ef49900ce218fb53badca1]
+#### 15. Measures installed at band E, F or G social housing[^c-c63fdb63a1ef49900ce218fb53badca1]
 
 A measure meets the condition in this article if—
 
@@ -375,7 +375,7 @@ A measure meets the condition in this article if—
 
 ### CHAPTER 3 — Measures accompanied by declaration from a relevant authority or participant
 
-#### 16. Measures accompanied by a declaration from a relevant authority: household income below £31,000[^key-9c1808b070a8d4699227e17ab216d8e2]
+#### 16. Measures accompanied by a declaration from a relevant authority: household income below £31,000[^c-9c1808b070a8d4699227e17ab216d8e2]
 
 (1) A measure meets the condition in this article if—
 
@@ -397,7 +397,7 @@ A measure meets the condition in this article if—
 
 (4) In this article, “**gross income**” has the meaning given in article 2(1) of the 2022 Order.
 
-#### 17. Measures accompanied by a declaration from a relevant authority: premises meeting specified criteria[^key-0a55e6b5b3ab269efaa49af1da6edf93]
+#### 17. Measures accompanied by a declaration from a relevant authority: premises meeting specified criteria[^c-0a55e6b5b3ab269efaa49af1da6edf93]
 
 (1) A measure meets the condition in this article if—
 
@@ -413,7 +413,7 @@ A measure meets the condition in this article if—
 - (a) where the relevant authority is relying on only two criteria specified in article 18(2) of the 2022 Order, those two criteria must not be the criteria specified in article 18(2)(a) and (b) of that Order; and
 - (b) where the relevant authority is relying on the criterion specified in article 18(2)(e) of the 2022 Order, the statement of intent published by the Authority must describe the scheme relied on for the purpose of meeting that criterion.
 
-#### 18. Measures accompanied by a declaration from a relevant authority: referral from a relevant health provider[^key-f12700470b1e64982f2719d03c56a0a3]
+#### 18. Measures accompanied by a declaration from a relevant authority: referral from a relevant health provider[^c-f12700470b1e64982f2719d03c56a0a3]
 
 (1) A measure meets the condition in this article if—
 
@@ -431,7 +431,7 @@ A measure meets the condition in this article if—
 
 (2) In paragraph (1)(c), “**relevant health provider**” has the meaning given in article 19(2) of the 2022 Order.
 
-#### 19. Measures accompanied by a declaration from a participant: debt, discretionary credit and self-disconnection[^key-6533b27c230940a65e0ab1f57d138d25]
+#### 19. Measures accompanied by a declaration from a participant: debt, discretionary credit and self-disconnection[^c-6533b27c230940a65e0ab1f57d138d25]
 
 (1) A measure meets the condition in this article if—
 
@@ -465,7 +465,7 @@ A measure meets the condition in this article if—
 
 ### CHAPTER 4 — In-fill measures
 
-#### 20. Flat in-fill measures[^key-94db9d9d5ffa96ec74934a54b1693352]
+#### 20. Flat in-fill measures[^c-94db9d9d5ffa96ec74934a54b1693352]
 
 (1) A measure (“measure X”) is a “flat in-fill measure” and meets the condition in this article if—
 
@@ -497,7 +497,7 @@ A measure meets the condition in this article if—
   - (a) in respect of domestic premises in England and Wales, has the same meaning as in the Building Regulations 2010[^f00019];
   - (b) in respect of domestic premises in Scotland, has the same meaning as in the Building (Scotland) Regulations 2004[^f00020] and also includes a maisonette, as defined in those Regulations.
 
-#### 21. House in-fill measures[^key-2a853933fd74ee926aaefe26a57680f6]
+#### 21. House in-fill measures[^c-2a853933fd74ee926aaefe26a57680f6]
 
 (1) A measure (“measure Y”) is a “house in-fill measure” and meets the condition in this article if—
 
@@ -522,25 +522,25 @@ A measure meets the condition in this article if—
 
 ### CHAPTER 5 — Additional requirements for measures
 
-#### 22. Additional requirements to be met by insulation measures[^key-e13d05ff9db816049c253430222a6b56]
+#### 22. Additional requirements to be met by insulation measures[^c-e13d05ff9db816049c253430222a6b56]
 
 (1) An insulation measure meets the requirements of this article if—
 
 - (a) before the insulation measure is completed at the domestic premises—
   - (i) an RdSAP assessment of the domestic premises is performed; and
   - (ii) advice on the benefits of using a smart meter is provided to the household occupying the domestic premises;
-- (aa)[^key-9bad51d79acd4e0d1ad5cbf39539b13c] the advice on the benefits of using a smart meter in accordance with sub-paragraph (a) includes—
+- (aa)[^c-9bad51d79acd4e0d1ad5cbf39539b13c] the advice on the benefits of using a smart meter in accordance with sub-paragraph (a) includes—
   - (i) guidance on arranging the installation of a smart meter; and
   - (ii) an invitation to the household to make a non-binding pledge to arrange the installation of a smart meter;
 - (b) an RdSAP assessment of the domestic premises is performed after the completion of the insulation measure; and
-- (c)[^key-51e6ba1ecd8f657cd3d94361912054a5] the insulation measure is notified by the participant to the Administrator in accordance with article 25 in respect of the domestic premises and—
+- (c)[^c-51e6ba1ecd8f657cd3d94361912054a5] the insulation measure is notified by the participant to the Administrator in accordance with article 25 in respect of the domestic premises and—
   - (i) is the only or first insulation measure to have been installed at the premises; or
   - (ii) is the second insulation measure to have been installed at the premises where—
     - (aa) the first and second insulation measures are measures listed in paragraph (1A);
     - (bb) the participant who promoted the second insulation measure is the same as the participant who promoted the first one; and
     - (cc) the second insulation measure is completed on the same day as, or not more than three months after, the day on which the first one is completed.
 
-(1A)[^key-106106caaa4277270bf206c3dca381a1] The measures are—
+(1A)[^c-106106caaa4277270bf206c3dca381a1] The measures are—
 
 - (a) cavity wall insulation;
 - (b) loft insulation;
@@ -558,13 +558,13 @@ A measure meets the condition in this article if—
 
 (1C) For the purposes of paragraph (1)(c)(ii), where more than two insulation measures are completed at the domestic premises at the same time, it is the two insulation measures notified to the Administrator first which are treated as being the first and second of those insulation measures to have been completed.
 
-(2)[^key-7fea4d1b8d50b77c5509df4f02a7c54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7fea4d1b8d50b77c5509df4f02a7c54d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Additional requirements to be met by heating control measures[^key-4a44645ec50c9594c2c87a6e707c7a76]
+#### 23. Additional requirements to be met by heating control measures[^c-4a44645ec50c9594c2c87a6e707c7a76]
 
 A heating control measure meets the requirements of this article if it—
 
-- (a)[^key-b09b4ba6d4426155ff512b1dc625824c] is installed at the same domestic premises where an ECO4A qualifying action that is an only or first insulation measure within the meaning of article 22(1)(c)(i) (“the related insulation measure”);
+- (a)[^c-b09b4ba6d4426155ff512b1dc625824c] is installed at the same domestic premises where an ECO4A qualifying action that is an only or first insulation measure within the meaning of article 22(1)(c)(i) (“the related insulation measure”);
 - (b) is completed—
   - (i) on the same day as, or not more than three months after, the day on which the related insulation measure is completed; and
   - (ii) after the pre-installation energy efficiency assessment is performed; and
@@ -572,9 +572,9 @@ A heating control measure meets the requirements of this article if it—
 
 ### CHAPTER 6 — Quality assurance and consumer protection
 
-#### 24. Quality assurance and consumer protection[^key-1dffb40a102d28a20fced7a9b329cd75]
+#### 24. Quality assurance and consumer protection[^c-1dffb40a102d28a20fced7a9b329cd75]
 
-(1)[^key-82cd5cb3d1fb09c5c80770903d733798] A measure meets the requirements of this article if—
+(1)[^c-82cd5cb3d1fb09c5c80770903d733798] A measure meets the requirements of this article if—
 
 - (a) the measure is installed by, or under the responsibility of, a person who is registered with TrustMark for the purposes of that measure and—
   - (i) a certificate of lodgement is issued by the operator of TrustMark in respect of that measure; and
@@ -592,7 +592,7 @@ A heating control measure meets the requirements of this article if it—
 
 ## PART 6 — Notification of Completed Measures
 
-### 25. Notification requirements for completed measures[^key-6a2c8c76bbd29dcf7fb83511815a2070]
+### 25. Notification requirements for completed measures[^c-6a2c8c76bbd29dcf7fb83511815a2070]
 
 A measure is notified to the Administrator in accordance with this article if the notification—
 
@@ -603,7 +603,7 @@ A measure is notified to the Administrator in accordance with this article if th
 - (e) is not withdrawn by a notification made under article 28; and
 - (f) includes such other information relating to the measure as the Administrator may require.
 
-### 26. Deadline for notification of completed measures[^key-32fd661cac48a07673c986a6e52d2a09]
+### 26. Deadline for notification of completed measures[^c-32fd661cac48a07673c986a6e52d2a09]
 
 (1) For the purposes of article 25, a notification of a measure is made on time if it is made—
 
@@ -645,7 +645,7 @@ A measure is notified to the Administrator in accordance with this article if th
 
 (4) In this article, “**original deadline**” has the meaning given in paragraph (1)(a).
 
-### 27. Applications for extension of time to notify[^key-9420990faaf6717cfe7813e831f2b2b1]
+### 27. Applications for extension of time to notify[^c-9420990faaf6717cfe7813e831f2b2b1]
 
 (1) A participant may apply on or before 31st May 2026 to the Administrator in writing for a measure to be notified after the original deadline.
 
@@ -681,7 +681,7 @@ A measure is notified to the Administrator in accordance with this article if th
 
 (9) In this article, “**original deadline**” has the meaning given in article 26(1)(a).
 
-### 28. Withdrawal of notifications[^key-daf0351387a0bf3aa6500a770ec571dd]
+### 28. Withdrawal of notifications[^c-daf0351387a0bf3aa6500a770ec571dd]
 
 (1) A participant may withdraw a notification made under article 25 by notifying the Administrator in writing.
 
@@ -693,7 +693,7 @@ A measure is notified to the Administrator in accordance with this article if th
 
 ## PART 7 — Scores
 
-### 29. Giving scores to ECO4A qualifying actions[^key-c0c6250663e11cda083294e92de2c3b0]
+### 29. Giving scores to ECO4A qualifying actions[^c-c0c6250663e11cda083294e92de2c3b0]
 
 (1) To determine whether a participant has achieved its total home-heating cost reduction obligation, the Administrator must give a score, in accordance with article 30, to each ECO4A qualifying action promoted by the participant.
 
@@ -703,12 +703,12 @@ A measure is notified to the Administrator in accordance with this article if th
 
 (4) The Administrator must comply with paragraphs (1) and (3) in the period beginning with 1st July 2026 and ending with 30th November 2026.
 
-(5)[^key-5066f9b0b7aa42257fe89d87068d95c4] Article A35 sets out further provision for determining whether a participant has achieved its—
+(5)[^c-5066f9b0b7aa42257fe89d87068d95c4] Article A35 sets out further provision for determining whether a participant has achieved its—
 
 - (a) total home-heating cost reduction obligation under article 35(1)(a); and
 - (b) total low-income minimum requirement under article 35(1)(b).
 
-### 30. Calculating the score for ECO4A qualifying actions[^key-65dd3853e0f8ab5a8a214d118b2f1606]
+### 30. Calculating the score for ECO4A qualifying actions[^c-65dd3853e0f8ab5a8a214d118b2f1606]
 
 (1) The score to be given to an ECO4A qualifying action is to be calculated in accordance with the following formula—
 
@@ -726,14 +726,14 @@ A measure is notified to the Administrator in accordance with this article if th
     - (bb) installed at off-gas premises in a rural area in Scotland or Wales;
   - (ii) otherwise, 0.
 
-(3)[^key-f3052be7bfad55fa63ecdbab96e8f203] In this article—
+(3)[^c-f3052be7bfad55fa63ecdbab96e8f203] In this article—
 
 - “**off-gas premises**” has the meaning given in article 2(1) of the 2022 Order;
 - “**rural area**” means—
   - (a) in respect of an area in England and Wales, an area classified as rural in the “2021 rural-urban classification of output areas” published by the Office for National Statistics in March 2025;
   - (b) in respect of an area in Scotland, an area classified as rural in the “Scottish Government Urban Renewal Classification 2022” published by the Scottish Government in December 2024.
 
-### 31. Innovation measure uplift[^key-bd5a6e619aba383e376793f150bcdc71]
+### 31. Innovation measure uplift[^c-bd5a6e619aba383e376793f150bcdc71]
 
 (1) This article applies for the purpose of determining the value of IM in the formula in article 30(1) for calculating the score to be given to an ECO4A qualifying action (“the ECO4A qualifying action in question”).
 
@@ -776,7 +776,7 @@ A measure is notified to the Administrator in accordance with this article if th
 - (h) references to the date on which a measure is approved as a substantial innovation measure under Part 6 of the 2022 Order are to be treated as references to the date published by the Administrator under article 36(1)(c) or (2)(b) of the 2022 Order, as the case may be, in respect of the measure;
 - (i) references to the participant are to the participant that promoted the ECO4A qualifying action in question.
 
-### 32. Publication of annual cost savings methodology[^key-13238105f31681384e4835fedb2fdd71]
+### 32. Publication of annual cost savings methodology[^c-13238105f31681384e4835fedb2fdd71]
 
 (1) Before the end of the 6 week period beginning with the commencement date, the Administrator must publish, on its website, a methodology for the purpose of determining the annual cost savings of an ECO4A qualifying action.
 
@@ -805,14 +805,14 @@ A measure is notified to the Administrator in accordance with this article if th
 
 (5) On or before 30th June 2026, the Administrator may revise any methodology published under this article by publishing the revised methodology on its website.
 
-(5A)[^key-f97e3e36ffcdbc91d6a4211fe4189f9b] This article is subject to article 32A.
+(5A)[^c-f97e3e36ffcdbc91d6a4211fe4189f9b] This article is subject to article 32A.
 
 (6) In this article—
 
 - “**floor area**” has the same meaning as in the Standard Assessment Procedure;
 - “**pre-installation SAP rating**” means the SAP rating which is determined for the domestic premises pursuant to a pre-installation energy efficiency assessment.
 
-### 32A. Methodology for scoring smart thermostats[^key-7aa69a6b614312ce7718fbed0efb83a9]
+### 32A. Methodology for scoring smart thermostats[^c-7aa69a6b614312ce7718fbed0efb83a9]
 
 (1) This article applies to an ECO4A qualifying action for which—
 
@@ -829,11 +829,11 @@ A measure is notified to the Administrator in accordance with this article if th
 
 ## PART 8 — Transfers
 
-### 33. Transfer of measures[^key-d8f68504df7dc03d533c6c59cbb7b412]
+### 33. Transfer of measures[^c-d8f68504df7dc03d533c6c59cbb7b412]
 
 (1) A participant may apply to the Administrator with another participant for one or more measures which are promoted by the participant (“**A**”) to be treated as promoted by the other participant (“**B**”) (a “proposed transfer”).
 
-(1A)[^key-d67222afc6b54511075eed4fad7da172] Where a participant (“**A**”)—
+(1A)[^c-d67222afc6b54511075eed4fad7da172] Where a participant (“**A**”)—
 
 - (a) proposes to transfer an insulation measure in relation to a domestic premises; and
 - (b) A has notified the Administrator of a second insulation measure at the same premises within the meaning of article 22(1)(c)(i) under article 25,
@@ -879,7 +879,7 @@ A may only apply to transfer the insulation measure under paragraph (1) to anoth
   - (b) in relation to a house in-fill measure, has the meaning given in article 21(1);
 - “**related insulation measure**”, in relation to a heating control measure, means an insulation measure installed at the same domestic premises as the heating control measure.
 
-### 34. Transfer of obligations[^key-071e2b3026aac54fec84238be6561a1b]
+### 34. Transfer of obligations[^c-071e2b3026aac54fec84238be6561a1b]
 
 (1) A participant may apply to the Administrator with another participant for all or part of its home-heating cost reduction obligation for an ECO4A phase or low-income minimum requirement for an ECO4A phase to be transferred from the participant (“**A**”) to the other participant (“**B**”) (a “proposed transfer”).
 
@@ -926,7 +926,7 @@ A may only apply to transfer the insulation measure under paragraph (1) to anoth
   - (i) its increased relevant obligation; and
   - (ii) the date on which the application was approved.
 
-### 34A. Reassignment of ECO4 savings to the ECO4A scheme[^key-b044b8cdafea3c72436f7e0ee81facb6]
+### 34A. Reassignment of ECO4 savings to the ECO4A scheme[^c-b044b8cdafea3c72436f7e0ee81facb6]
 
 (1) This article applies to a participant who is also an ECO4 participant.
 
@@ -974,9 +974,9 @@ A may only apply to transfer the insulation measure under paragraph (1) to anoth
 - (b) the amount mentioned in paragraph (6)(c) and the consequence that this will contribute towards the achievement of the participant’s relevant ECO4A obligations; and
 - (c) the date on which the application was approved.
 
-## PART 9 — Overall amounts, final determination, information and enforcement[^key-72d5d245e37c2a02a4611b986ca66ec3]
+## PART 9 — Overall amounts, final determination, information and enforcement[^c-72d5d245e37c2a02a4611b986ca66ec3]
 
-### A35. Overall amounts for purposes of determining total obligations[^key-51d5e5107720a1ee4355f6f22b085438]
+### A35. Overall amounts for purposes of determining total obligations[^c-51d5e5107720a1ee4355f6f22b085438]
 
 (1) This article makes provision for the determination of overall amounts for the purposes of determining whether a participant has achieved its—
 
@@ -1020,7 +1020,7 @@ A may only apply to transfer the insulation measure under paragraph (1) to anoth
 
 (8) H is the overall amount used for the purposes of determining whether the participant has achieved its total low-income minimum requirement under article 35(1)(b).
 
-### 35. Final determination and reporting[^key-8212a359161cfe35b0f5300d4698babd]
+### 35. Final determination and reporting[^c-8212a359161cfe35b0f5300d4698babd]
 
 (1) The Administrator must determine whether a participant has—
 
@@ -1038,7 +1038,7 @@ A may only apply to transfer the insulation measure under paragraph (1) to anoth
 
 (5) Before 1st December 2026, the Administrator must submit to the Secretary of State a report setting out whether participants achieved the overall home-heating cost reduction target.
 
-### 36. Information from participants[^key-335fed573a27f9d648578e183a4de913]
+### 36. Information from participants[^c-335fed573a27f9d648578e183a4de913]
 
 The Administrator may require a participant—
 
@@ -1047,7 +1047,7 @@ The Administrator may require a participant—
   - (ii) relating to the cost to the participant of achieving its total home-heating cost reduction obligation; and
 - (b) to produce to it evidence, of such kind as it may specify, demonstrating that the participant is complying with, or has complied with, any requirement under this Order.
 
-### 37. Declaration verification service[^key-5b18a125c417230909a13b4dd3e91bb3]
+### 37. Declaration verification service[^c-5b18a125c417230909a13b4dd3e91bb3]
 
 (1) The Administrator must—
 
@@ -1071,17 +1071,17 @@ The Administrator may require a participant—
   - (i) reject the application; and
   - (ii) notify the participant of the reasons for the rejection.
 
-### 38. Enforcement[^key-ee0339b59eaa7d9bc9942afc257b588f]
+### 38. Enforcement[^c-ee0339b59eaa7d9bc9942afc257b588f]
 
 A requirement placed on a participant under this Order is a relevant requirement for the purpose of Part 1 of the Electricity Act 1989 and Part 1 of the Gas Act 1986[^f00024].
 
 ## PART 10 — Amendment of the 2022 Order
 
-### 39. Amendment of the 2022 Order[^key-6c800b80fb194572774c4632cf6b2d27]
+### 39. Amendment of the 2022 Order[^c-6c800b80fb194572774c4632cf6b2d27]
 
 The 2022 Order is amended in accordance with this Part.
 
-### 40. Amendment to article 2 (interpretation)[^key-76108cda640cdfe29517eca413ed9a76]
+### 40. Amendment to article 2 (interpretation)[^c-76108cda640cdfe29517eca413ed9a76]
 
 In article 2—
 
@@ -1120,11 +1120,11 @@ In article 2—
     ;
 - (b) in paragraph (3), in sub-paragraph (b) after “both” insert “generate electricity,”.
 
-### 41. Amendment to article 4 (definition of participant)[^key-65d324281471f0973b8d860e6e2d04ec]
+### 41. Amendment to article 4 (definition of participant)[^c-65d324281471f0973b8d860e6e2d04ec]
 
 In article 4, in paragraph (5), for “section 7A” substitute “section 7A(1)”.
 
-### 42. Amendment to article 12 (qualifying actions: general requirements relating to Condition A)[^key-4984d12728bcf51f6616dd6f1feca1c8]
+### 42. Amendment to article 12 (qualifying actions: general requirements relating to Condition A)[^c-4984d12728bcf51f6616dd6f1feca1c8]
 
 In article 12, in paragraph (1)—
 
@@ -1137,7 +1137,7 @@ In article 12, in paragraph (1)—
 
   .
 
-### 43. Amendment to article 27 (general requirements relating to heating measures)[^key-44718f946ebaafc409781f37d73d0fe7]
+### 43. Amendment to article 27 (general requirements relating to heating measures)[^c-44718f946ebaafc409781f37d73d0fe7]
 
 In article 27, in paragraph (1)—
 
@@ -1162,7 +1162,7 @@ In article 27, in paragraph (1)—
   ;
 - (c) in sub-paragraph (i), for “includes the installation of equipment for the direct conversion of sunlight into electricity” substitute “includes the installation of equipment for the generation of electricity by renewable means”.
 
-### 44. Amendment to article 28 (requirements specific to heating measures installed at on-gas premises)[^key-132d8572198464db32c623dded0cb371]
+### 44. Amendment to article 28 (requirements specific to heating measures installed at on-gas premises)[^c-132d8572198464db32c623dded0cb371]
 
 In article 28—
 
@@ -1187,7 +1187,7 @@ In article 28—
 
   .
 
-### 45. Amendment to article 29 (requirements specific to heating measures installed at off-gas premises)[^key-835154b1f0b4dbd4a7b78ac8b6c4844f]
+### 45. Amendment to article 29 (requirements specific to heating measures installed at off-gas premises)[^c-835154b1f0b4dbd4a7b78ac8b6c4844f]
 
 In article 29, in paragraph (2)—
 
@@ -1200,7 +1200,7 @@ In article 29, in paragraph (2)—
 
   .
 
-### 46. Amendment to article 30 (hierarchy of heating measures installed at off-gas premises)[^key-8fb3cf0aad97c25e68a9ac0d53b78c88]
+### 46. Amendment to article 30 (hierarchy of heating measures installed at off-gas premises)[^c-8fb3cf0aad97c25e68a9ac0d53b78c88]
 
 In article 30, for paragraph (2)(c)(i) substitute—
 
@@ -1211,7 +1211,7 @@ In article 30, for paragraph (2)(c)(i) substitute—
 
 .
 
-### 47. Amendment to article 43 (notification requirements for completed measures)[^key-162c3493a3d51dd160fb2e005379fbb5]
+### 47. Amendment to article 43 (notification requirements for completed measures)[^c-162c3493a3d51dd160fb2e005379fbb5]
 
 In article 43, after paragraph (c)—
 
@@ -1223,7 +1223,7 @@ In article 43, after paragraph (c)—
 
   .
 
-### 48. Insertion of article 44A (withdrawal of notification)[^key-3610a10a4738a467edb1237633cc4e31]
+### 48. Insertion of article 44A (withdrawal of notification)[^c-3610a10a4738a467edb1237633cc4e31]
 
 After article 44, insert—
 
@@ -1239,14 +1239,14 @@ After article 44, insert—
 
 .
 
-### 49. Amendment to article 80 (transfer of measures)[^key-c46689741da5d2b71170cac1c48cdf1e]
+### 49. Amendment to article 80 (transfer of measures)[^c-c46689741da5d2b71170cac1c48cdf1e]
 
 In article 80—
 
 - (a) in paragraph (2)(b)(i), for “article 43(a) to (c)” substitute “article 43(a) to (cb)”;
 - (b) in paragraph (5)(a), at the beginning insert “except for the purposes of articles 20(1)(b), 21(2)(b), 43(a) and 45(4),”.
 
-### 50. Saving provisions[^key-9c3412358b0da412f9c96b819a8e17a9]
+### 50. Saving provisions[^c-9c3412358b0da412f9c96b819a8e17a9]
 
 (1) With the exception of the amendments made by articles 40(a)(iii) and 49(b), the 2022 Order shall continue to have effect in relation to a measure completed before the day on which this Part comes into force as if the 2022 Order had not been amended by this Part.
 
@@ -1364,9 +1364,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: Section 41A was inserted by section 70 of the Utilities Act 2000 and amended by section 16 of, and the Schedule to, the Climate Change and Sustainable Energy Act 2006, Schedule 8 to the Climate Change Act 2008, section 67 of, and Schedule 1 to, the Energy Act 2011 and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631) and [2022/34](https://www.legislation.gov.uk/uksi/2022/34).
 
-[^key-9f5ac3f85a4e98fce70b6da54470a2d7]: Commencement: Art. 1 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-9f5ac3f85a4e98fce70b6da54470a2d7]: Commencement: Art. 1 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-f97964d8c108bb4a071779a930d3c9d1]: Commencement: Art. 2 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-f97964d8c108bb4a071779a930d3c9d1]: Commencement: Art. 2 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2022/875](https://www.legislation.gov.uk/uksi/2022/875).
 
@@ -1386,152 +1386,152 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00015]: Footnote: The Administrator is the Gas and Electricity Markets Authority. See sections 33BD(2)(a) and 66 of the Gas Act 1986 and sections 41B(2)(a) and 111 of the Electricity Act 1989.
 
-[^key-aebe79424376e7d468a5d06e4843bc4e]: Commencement: Art. 3 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-aebe79424376e7d468a5d06e4843bc4e]: Commencement: Art. 3 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00016]: Footnote: See section 33BD(2)(b) of the Gas Act 1986 and section 41B(2)(b) of the Electricity Act 1989 for the definition of “home-heating cost reduction target”. Section 103A(1) of the Utilities Act 2000 provides for the specification of an overall target.
 
-[^key-48e33eeedb9c9e5bd0cd67ead918a388]: Commencement: Art. 4 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-48e33eeedb9c9e5bd0cd67ead918a388]: Commencement: Art. 4 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-34a044fc17104da4cf00c9a14095b58a]: Commencement: Art. 5 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-34a044fc17104da4cf00c9a14095b58a]: Commencement: Art. 5 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-29e0057434a461d2f40cefc64122bfcf]: Commencement: Art. 6 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-29e0057434a461d2f40cefc64122bfcf]: Commencement: Art. 6 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-80c016482e5f846d844d59b5519ec389]: Commencement: Art. 7 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-80c016482e5f846d844d59b5519ec389]: Commencement: Art. 7 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-64d265e3c3018fbdeaca1be8540368b9]: Commencement: Art. 8 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-64d265e3c3018fbdeaca1be8540368b9]: Commencement: Art. 8 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-003ba51fdf53cb00d3ca5a77c6ae5425]: Commencement: Art. 9 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-003ba51fdf53cb00d3ca5a77c6ae5425]: Commencement: Art. 9 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-3ce591bc50057c3e42e95a835ad6d19b]: Textual amendment: [Art. 9(2)](https://www.legislation.gov.uk/uksi/2023/873/article/9/2) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2025/941/article/12/a/i)
+[^c-3ce591bc50057c3e42e95a835ad6d19b]: Textual amendment: [Art. 9(2)](https://www.legislation.gov.uk/uksi/2023/873/article/9/2) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2025/941/article/12/a/i)
 
-[^key-35588aea2a89fa5bbe056198830c5548]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/2023/873/article/9/5) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2025/941/article/12/a/ii)
+[^c-35588aea2a89fa5bbe056198830c5548]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/2023/873/article/9/5) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2025/941/article/12/a/ii)
 
-[^key-8e763da8799717a7707ed653d757a076]: Commencement: Art. 10 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-8e763da8799717a7707ed653d757a076]: Commencement: Art. 10 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-f3436b4775beb53d76ffcd50084ff5a4]: Commencement: Art. 11 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-f3436b4775beb53d76ffcd50084ff5a4]: Commencement: Art. 11 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-666184a1e356f3906d104250bb823f06]: Commencement: Art. 12 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-666184a1e356f3906d104250bb823f06]: Commencement: Art. 12 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00017]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-f04524d810ff9beee57df8e219041604]: Commencement: Art. 13 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-f04524d810ff9beee57df8e219041604]: Commencement: Art. 13 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-199e2fc0d6a528f2e2846bd07c5a9c53]: Commencement: Art. 14 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-199e2fc0d6a528f2e2846bd07c5a9c53]: Commencement: Art. 14 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-c63fdb63a1ef49900ce218fb53badca1]: Commencement: Art. 15 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-c63fdb63a1ef49900ce218fb53badca1]: Commencement: Art. 15 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-9c1808b070a8d4699227e17ab216d8e2]: Commencement: Art. 16 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-9c1808b070a8d4699227e17ab216d8e2]: Commencement: Art. 16 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-0a55e6b5b3ab269efaa49af1da6edf93]: Commencement: Art. 17 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-0a55e6b5b3ab269efaa49af1da6edf93]: Commencement: Art. 17 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-f12700470b1e64982f2719d03c56a0a3]: Commencement: Art. 18 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-f12700470b1e64982f2719d03c56a0a3]: Commencement: Art. 18 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-6533b27c230940a65e0ab1f57d138d25]: Commencement: Art. 19 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-6533b27c230940a65e0ab1f57d138d25]: Commencement: Art. 19 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00018]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Paragraph 6 of Schedule 9 was amended by [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284), [1992/2595](https://www.legislation.gov.uk/uksi/1992/2595), [1996/1460](https://www.legislation.gov.uk/uksi/1996/1460), [1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [2003/492](https://www.legislation.gov.uk/uksi/2003/492), [2006/2377](https://www.legislation.gov.uk/uksi/2006/2377), [2013/443](https://www.legislation.gov.uk/uksi/2013/443), [2021/456](https://www.legislation.gov.uk/uksi/2021/456) and [2023/232](https://www.legislation.gov.uk/uksi/2023/232).
 
-[^key-94db9d9d5ffa96ec74934a54b1693352]: Commencement: Art. 20 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-94db9d9d5ffa96ec74934a54b1693352]: Commencement: Art. 20 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00019]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214). See regulation 2(1). There are amending instruments but none are relevant.
 
 [^f00020]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406). See regulation 2(1). There are amending instruments but none are relevant.
 
-[^key-2a853933fd74ee926aaefe26a57680f6]: Commencement: Art. 21 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-2a853933fd74ee926aaefe26a57680f6]: Commencement: Art. 21 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-e13d05ff9db816049c253430222a6b56]: Commencement: Art. 22 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-e13d05ff9db816049c253430222a6b56]: Commencement: Art. 22 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-9bad51d79acd4e0d1ad5cbf39539b13c]: Textual amendment: [Art. 22(1)(aa)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1/aa) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/941/article/6/2) (with [art. 6(3)](https://www.legislation.gov.uk/uksi/2025/941/article/6/3))
+[^c-9bad51d79acd4e0d1ad5cbf39539b13c]: Textual amendment: [Art. 22(1)(aa)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1/aa) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/941/article/6/2) (with [art. 6(3)](https://www.legislation.gov.uk/uksi/2025/941/article/6/3))
 
-[^key-51e6ba1ecd8f657cd3d94361912054a5]: Textual amendment: [Art. 22(1)(c)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1/c) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/i) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+[^c-51e6ba1ecd8f657cd3d94361912054a5]: Textual amendment: [Art. 22(1)(c)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1/c) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(i)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/i) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
 
-[^key-106106caaa4277270bf206c3dca381a1]: Textual amendment: [Art. 22(1A)-(1C)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/ii) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+[^c-106106caaa4277270bf206c3dca381a1]: Textual amendment: [Art. 22(1A)-(1C)](https://www.legislation.gov.uk/uksi/2023/873/article/22/1A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/ii) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
 
-[^key-7fea4d1b8d50b77c5509df4f02a7c54d]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2023/873/article/22/2) omitted (1.8.2025) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/iii) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+[^c-7fea4d1b8d50b77c5509df4f02a7c54d]: Textual amendment: [Art. 22(2)](https://www.legislation.gov.uk/uksi/2023/873/article/22/2) omitted (1.8.2025) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/a/iii) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
 
-[^key-4a44645ec50c9594c2c87a6e707c7a76]: Commencement: Art. 23 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-4a44645ec50c9594c2c87a6e707c7a76]: Commencement: Art. 23 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-b09b4ba6d4426155ff512b1dc625824c]: Textual amendment: [Art. 23(a)](https://www.legislation.gov.uk/uksi/2023/873/article/23/a) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(b)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/b) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+[^c-b09b4ba6d4426155ff512b1dc625824c]: Textual amendment: [Art. 23(a)](https://www.legislation.gov.uk/uksi/2023/873/article/23/a) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(b)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/b) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
 
-[^key-1dffb40a102d28a20fced7a9b329cd75]: Commencement: Art. 24 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-1dffb40a102d28a20fced7a9b329cd75]: Commencement: Art. 24 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-82cd5cb3d1fb09c5c80770903d733798]: Textual amendment: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1)[(1A)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1A) substituted for [art. 24(1)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1) (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/941/article/5/2) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2025/941/article/5/3))
+[^c-82cd5cb3d1fb09c5c80770903d733798]: Textual amendment: [Art. 24(1)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1)[(1A)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1A) substituted for [art. 24(1)](https://www.legislation.gov.uk/uksi/2023/873/article/24/1) (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/941/article/5/2) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2025/941/article/5/3))
 
-[^key-6a2c8c76bbd29dcf7fb83511815a2070]: Commencement: Art. 25 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-6a2c8c76bbd29dcf7fb83511815a2070]: Commencement: Art. 25 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-32fd661cac48a07673c986a6e52d2a09]: Commencement: Art. 26 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-32fd661cac48a07673c986a6e52d2a09]: Commencement: Art. 26 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-9420990faaf6717cfe7813e831f2b2b1]: Commencement: Art. 27 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-9420990faaf6717cfe7813e831f2b2b1]: Commencement: Art. 27 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-daf0351387a0bf3aa6500a770ec571dd]: Commencement: Art. 28 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-daf0351387a0bf3aa6500a770ec571dd]: Commencement: Art. 28 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-c0c6250663e11cda083294e92de2c3b0]: Commencement: Art. 29 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-c0c6250663e11cda083294e92de2c3b0]: Commencement: Art. 29 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-5066f9b0b7aa42257fe89d87068d95c4]: Textual amendment: [Art. 29(5)](https://www.legislation.gov.uk/uksi/2023/873/article/29/5) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2025/941/article/12/b)
+[^c-5066f9b0b7aa42257fe89d87068d95c4]: Textual amendment: [Art. 29(5)](https://www.legislation.gov.uk/uksi/2023/873/article/29/5) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2025/941/article/12/b)
 
-[^key-65dd3853e0f8ab5a8a214d118b2f1606]: Commencement: Art. 30 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-65dd3853e0f8ab5a8a214d118b2f1606]: Commencement: Art. 30 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-f3052be7bfad55fa63ecdbab96e8f203]: Textual amendment: [Art. 30(3)](https://www.legislation.gov.uk/uksi/2023/873/article/30/3) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/941/article/4/2) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2025/941/article/4/4))
+[^c-f3052be7bfad55fa63ecdbab96e8f203]: Textual amendment: [Art. 30(3)](https://www.legislation.gov.uk/uksi/2023/873/article/30/3) substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/941/article/4/2) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2025/941/article/4/4))
 
-[^key-bd5a6e619aba383e376793f150bcdc71]: Commencement: Art. 31 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-bd5a6e619aba383e376793f150bcdc71]: Commencement: Art. 31 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00021]: Footnote: [S.I. 2018/1183](https://www.legislation.gov.uk/uksi/2018/1183), amended by [S.I. 2019/1441](https://www.legislation.gov.uk/uksi/2019/1441) and [2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 
-[^key-13238105f31681384e4835fedb2fdd71]: Commencement: Art. 32 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-13238105f31681384e4835fedb2fdd71]: Commencement: Art. 32 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-f97e3e36ffcdbc91d6a4211fe4189f9b]: Textual amendment: [Art. 32(5A)](https://www.legislation.gov.uk/uksi/2023/873/article/32/5A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2025/941/article/14/1/a) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2025/941/article/14/2))
+[^c-f97e3e36ffcdbc91d6a4211fe4189f9b]: Textual amendment: [Art. 32(5A)](https://www.legislation.gov.uk/uksi/2023/873/article/32/5A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [14(1)(a)](https://www.legislation.gov.uk/uksi/2025/941/article/14/1/a) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2025/941/article/14/2))
 
-[^key-7aa69a6b614312ce7718fbed0efb83a9]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/uksi/2023/873/article/32A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2025/941/article/14/1/b) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2025/941/article/14/2))
+[^c-7aa69a6b614312ce7718fbed0efb83a9]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/uksi/2023/873/article/32A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [14(1)(b)](https://www.legislation.gov.uk/uksi/2025/941/article/14/1/b) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2025/941/article/14/2))
 
-[^key-d8f68504df7dc03d533c6c59cbb7b412]: Commencement: Art. 33 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-d8f68504df7dc03d533c6c59cbb7b412]: Commencement: Art. 33 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-d67222afc6b54511075eed4fad7da172]: Textual amendment: [Art. 33(1A)](https://www.legislation.gov.uk/uksi/2023/873/article/33/1A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(c)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/c) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
+[^c-d67222afc6b54511075eed4fad7da172]: Textual amendment: [Art. 33(1A)](https://www.legislation.gov.uk/uksi/2023/873/article/33/1A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [13(1)(c)](https://www.legislation.gov.uk/uksi/2025/941/article/13/1/c) (with [art. 13(2)](https://www.legislation.gov.uk/uksi/2025/941/article/13/2))
 
-[^key-071e2b3026aac54fec84238be6561a1b]: Commencement: Art. 34 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-071e2b3026aac54fec84238be6561a1b]: Commencement: Art. 34 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00022]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 30O was inserted by paragraph 1 of Schedule 14 to the Energy Act [2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32).
 
 [^f00023]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 27O was inserted by paragraph 2 of Schedule 14 to the Energy Act 2013.
 
-[^key-b044b8cdafea3c72436f7e0ee81facb6]: Textual amendment: [Art. 34A](https://www.legislation.gov.uk/uksi/2023/873/article/34A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/941/article/7/2) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2025/941/article/7/3))
+[^c-b044b8cdafea3c72436f7e0ee81facb6]: Textual amendment: [Art. 34A](https://www.legislation.gov.uk/uksi/2023/873/article/34A) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2025/941/article/7/2) (with [art. 7(3)](https://www.legislation.gov.uk/uksi/2025/941/article/7/3))
 
-[^key-72d5d245e37c2a02a4611b986ca66ec3]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2023/873/part/9) heading substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2025/941/article/12/c)
+[^c-72d5d245e37c2a02a4611b986ca66ec3]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2023/873/part/9) heading substituted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2025/941/article/12/c)
 
-[^key-51d5e5107720a1ee4355f6f22b085438]: Textual amendment: [Art. A35](https://www.legislation.gov.uk/uksi/2023/873/article/A35) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2025/941/article/12/d)
+[^c-51d5e5107720a1ee4355f6f22b085438]: Textual amendment: [Art. A35](https://www.legislation.gov.uk/uksi/2023/873/article/A35) inserted (1.8.2025) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2025 (S.I. 2025/941)](https://www.legislation.gov.uk/uksi/2025/941), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/941/article/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2025/941/article/12/d)
 
-[^key-8212a359161cfe35b0f5300d4698babd]: Commencement: Art. 35 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-8212a359161cfe35b0f5300d4698babd]: Commencement: Art. 35 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-335fed573a27f9d648578e183a4de913]: Commencement: Art. 36 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-335fed573a27f9d648578e183a4de913]: Commencement: Art. 36 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-5b18a125c417230909a13b4dd3e91bb3]: Commencement: Art. 37 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-5b18a125c417230909a13b4dd3e91bb3]: Commencement: Art. 37 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
-[^key-ee0339b59eaa7d9bc9942afc257b588f]: Commencement: Art. 38 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
+[^c-ee0339b59eaa7d9bc9942afc257b588f]: Commencement: Art. 38 in force at 25.7.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/873/article/1/2)
 
 [^f00024]: Footnote: Sections 25 to 28 of the Electricity Act 1989 and sections 28 to 30O of the Gas Act 1986 provide for the enforcement of relevant requirements by the Gas and Electricity Markets Authority.
 
-[^key-6c800b80fb194572774c4632cf6b2d27]: Commencement: Art. 39 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-6c800b80fb194572774c4632cf6b2d27]: Commencement: Art. 39 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-76108cda640cdfe29517eca413ed9a76]: Commencement: Art. 40 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-76108cda640cdfe29517eca413ed9a76]: Commencement: Art. 40 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
 [^f00025]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32). Section 100(4) is amended by [S.I. 2011/2195](https://www.legislation.gov.uk/uksi/2011/2195).
 
-[^key-65d324281471f0973b8d860e6e2d04ec]: Commencement: Art. 41 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-65d324281471f0973b8d860e6e2d04ec]: Commencement: Art. 41 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-4984d12728bcf51f6616dd6f1feca1c8]: Commencement: Art. 42 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-4984d12728bcf51f6616dd6f1feca1c8]: Commencement: Art. 42 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-44718f946ebaafc409781f37d73d0fe7]: Commencement: Art. 43 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-44718f946ebaafc409781f37d73d0fe7]: Commencement: Art. 43 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-132d8572198464db32c623dded0cb371]: Commencement: Art. 44 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-132d8572198464db32c623dded0cb371]: Commencement: Art. 44 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-835154b1f0b4dbd4a7b78ac8b6c4844f]: Commencement: Art. 45 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-835154b1f0b4dbd4a7b78ac8b6c4844f]: Commencement: Art. 45 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-8fb3cf0aad97c25e68a9ac0d53b78c88]: Commencement: Art. 46 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-8fb3cf0aad97c25e68a9ac0d53b78c88]: Commencement: Art. 46 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-162c3493a3d51dd160fb2e005379fbb5]: Commencement: Art. 47 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-162c3493a3d51dd160fb2e005379fbb5]: Commencement: Art. 47 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-3610a10a4738a467edb1237633cc4e31]: Commencement: Art. 48 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-3610a10a4738a467edb1237633cc4e31]: Commencement: Art. 48 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-c46689741da5d2b71170cac1c48cdf1e]: Commencement: Art. 49 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-c46689741da5d2b71170cac1c48cdf1e]: Commencement: Art. 49 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
-[^key-9c3412358b0da412f9c96b819a8e17a9]: Commencement: Art. 50 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
+[^c-9c3412358b0da412f9c96b819a8e17a9]: Commencement: Art. 50 in force at 14.8.2023, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/873/article/1/3)
 
 [^f00026]: Footnote: Published as Appendix S of the Government’s Standard Assessment Procedure for Energy Rating of Dwellings (2012 Edition, version 9.92). Copies can be accessed at https://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012\_9-92.pdf. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 1 Victoria Street, London SW1H 0ET.

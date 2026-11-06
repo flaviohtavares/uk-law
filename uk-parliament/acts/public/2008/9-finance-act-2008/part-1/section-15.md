@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-588604154474df03c74b9577ff6065ee] HODA 1979 is amended as follows.
+(1)[^c-588604154474df03c74b9577ff6065ee] HODA 1979 is amended as follows.
 
 (2) In section 6(1A) (main rates)—
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-588604154474df03c74b9577ff6065ee]: Modification: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/15/1) modified (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 12.11.2024 for specified purposes, 28.3.2025 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 117(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/117/2), [Sch. 26 para. 15(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/26/paragraph/15/c); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/2); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/440/regulation/2/2); [S.I. 2024/1132](https://www.legislation.gov.uk/uksi/2024/1132), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1132/regulation/2); [S.I. 2025/399](https://www.legislation.gov.uk/uksi/2025/399), [reg. 2](https://www.legislation.gov.uk/uksi/2025/399/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/370/regulation/3/2)
+[^c-588604154474df03c74b9577ff6065ee]: Modification: [S. 15(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/15/1) modified (1.1.2023 for specified purposes, 6.4.2024 for specified purposes, 12.11.2024 for specified purposes, 28.3.2025 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 117(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/117/2), [Sch. 26 para. 15(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/26/paragraph/15/c); [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/2); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/440/regulation/2/2); [S.I. 2024/1132](https://www.legislation.gov.uk/uksi/2024/1132), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1132/regulation/2); [S.I. 2025/399](https://www.legislation.gov.uk/uksi/2025/399), [reg. 2](https://www.legislation.gov.uk/uksi/2025/399/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2026/370/regulation/3/2)

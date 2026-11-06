@@ -36,11 +36,11 @@ Article 287.
 
 **5.** Power, where any right, option or other power forms part of the bankrupt's estate, to make payments or incur liabilities with a view to obtaining, for the benefit of the creditors, any property which is the subject of the right, option or power.
 
-**6.**[^key-d9ebb6663489fe0f83d98d129250f2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d9ebb6663489fe0f83d98d129250f2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** Power to make such compromise or other arrangement as may be thought expedient with creditors, or persons claiming to be creditors, in respect of bankruptcy debts.
 
-**8.** Power to make such compromise or other arrangement as may be thought expedient with respect to any claim arising out of or incidental to the bankrupt's estate made or capable of being made on the trustee by any person [^key-f16b51038e38bc728c2a1a1cfba0a9ec]....
+**8.** Power to make such compromise or other arrangement as may be thought expedient with respect to any claim arising out of or incidental to the bankrupt's estate made or capable of being made on the trustee by any person [^c-f16b51038e38bc728c2a1a1cfba0a9ec]....
 
 ### PART II — POWERS EXERCISABLE WITHOUT SANCTION
 
@@ -48,7 +48,7 @@ Article 287.
 
 **10.** Without prejudice to Article 28 or 30 of the Property (Northern Ireland) Order 1997,[^c17604381] power to make, on such terms and conditions as the trustee may think proper, a sub‐fee farm grant of land or any part thereof, or a sub‐lease of land or any part thereof with a nominal reversion (and to sell the rent or reversion), where such sub‐fee farm grant or sub‐lease amounts in substance to a sale and the trustee has satisfied himself that it is the most appropriate method of disposing of the land.
 
-**10A.**[^key-62cc9b1099156bebd8386423c32035d4] Power to refer to arbitration, or compromise on such terms as may be agreed, any debts, claims or liabilities subsisting or supposed to subsist between the bankrupt and any person who may have incurred any liability to the bankrupt.
+**10A.**[^c-62cc9b1099156bebd8386423c32035d4] Power to refer to arbitration, or compromise on such terms as may be agreed, any debts, claims or liabilities subsisting or supposed to subsist between the bankrupt and any person who may have incurred any liability to the bankrupt.
 
 **10B.** Power to make such compromise or other arrangement as may be thought expedient with respect to any claim arising out of or incidental to the bankrupt's estate made or capable of being made by the trustee on any person
 
@@ -77,12 +77,12 @@ and he may do any other act which is necessary or expedient for the purposes of 
 
 [^c20172831]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/2A) inserted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [19](https://www.legislation.gov.uk/nisi/2005/1455/article/19) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2)-7)
 
-[^key-d9ebb6663489fe0f83d98d129250f2aa]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/6) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 8(2)(a)](https://www.legislation.gov.uk/nia/2016/2/section/8/2/a), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/2/schedule/2/paragraph/5)); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-d9ebb6663489fe0f83d98d129250f2aa]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/6) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 8(2)(a)](https://www.legislation.gov.uk/nia/2016/2/section/8/2/a), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/2/schedule/2/paragraph/5)); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-f16b51038e38bc728c2a1a1cfba0a9ec]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/8) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 8(2)(b)](https://www.legislation.gov.uk/nia/2016/2/section/8/2/b), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/2/schedule/2/paragraph/5)); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-f16b51038e38bc728c2a1a1cfba0a9ec]: Textual amendment: Words in [Sch. 3 para. 8](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/8) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 8(2)(b)](https://www.legislation.gov.uk/nia/2016/2/section/8/2/b), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/2/schedule/2/paragraph/5)); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c17604381]: Textual amendment: [1997 NI 8](https://www.legislation.gov.uk/1997/ni8)
 
-[^key-62cc9b1099156bebd8386423c32035d4]: Textual amendment: [Sch. 3 paras. 10A-10B](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/10A) inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 8(3)](https://www.legislation.gov.uk/nia/2016/2/section/8/3), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/2/schedule/2/paragraph/5)); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-62cc9b1099156bebd8386423c32035d4]: Textual amendment: [Sch. 3 paras. 10A-10B](https://www.legislation.gov.uk/nisi/1989/2405/schedule/3/paragraph/10A) inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 8(3)](https://www.legislation.gov.uk/nia/2016/2/section/8/3), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2016/2/schedule/2/paragraph/5)); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c17604401]: Textual amendment: [1834 c. 92](https://www.legislation.gov.uk/ukpga/1834/92)

@@ -68,18 +68,18 @@ These Regulations may be cited as the Social Security (Incapacity Benefit) Regul
 - (a) any reference to a numbered regulation is a reference to the regulation bearing that number in these Regulations; and
 - (b) any reference in a regulation to a numbered paragraph is a reference to the paragraph bearing that number in that regulation.
 
-### 2A. Disapplication of section 1(1A) of the Administration Act[^key-29f0c39d9c6c2963a5ed31c6ef99da1a]
+### 2A. Disapplication of section 1(1A) of the Administration Act[^c-29f0c39d9c6c2963a5ed31c6ef99da1a]
 
 Section 1(1A) of the Administration Act (requirement to state national insurance number) shall not apply—
 
-- (a)[^key-68dd628ff5f667abc531c99d0d18b600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-68dd628ff5f667abc531c99d0d18b600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to an adult dependant in respect of whom a claim for an increase of incapacity benefit is made or treated as made before 5th October 1998.
-- (c)[^key-929caf5f80b5581ccbe7ed7c22129674] to an adult dependant who—
+- (c)[^c-929caf5f80b5581ccbe7ed7c22129674] to an adult dependant who—
   - (i) is a person in respect of whom a claim for an increase of incapacity benefit is made;
   - (ii) is subject to immigration control within the meaning of section 115(9)(a) of the Immigration and Asylum Act 1999; and
   - (iii) has not previously been allocated a national insurance number.
 
-## PART 1A — CONTRIBUTION CONDITIONS : SUPPLEMENTARY PROVISIONS[^key-daae1eb44baa86ae3257587fcf13fef5]
+## PART 1A — CONTRIBUTION CONDITIONS : SUPPLEMENTARY PROVISIONS[^c-daae1eb44baa86ae3257587fcf13fef5]
 
 ### 2B. Relaxation of the first contribution condition in certain cases
 
@@ -92,12 +92,12 @@ Section 1(1A) of the Administration Act (requirement to state national insurance
 
 (2) The conditions referred to in paragraph (1) are that—
 
-- (a) he was a person who, in the last complete tax year[^key-cb9f9cf8473ef520c8c3a9386238b0fa] [^key-8b1844681a4dcbc7381ad30809a3758a]... immediately preceding the relevant benefit year in which[^key-8eb83c6dfb09c3c741d1a31cb3f40fe6] the first day of incapacity for work, occurred[^key-5591997c1e09c46d99be948320e8b58a] was entitled to carer’s allowance[^key-76c6030072374c91f331090c3e6f313e] under section 70 of the Contributions and Benefits Act or would have been in receipt of the carer’s allowance but for the provision of regulation 4 of the Social Security (Overlapping Benefits) Regulations 1979;
+- (a) he was a person who, in the last complete tax year[^c-cb9f9cf8473ef520c8c3a9386238b0fa] [^c-8b1844681a4dcbc7381ad30809a3758a]... immediately preceding the relevant benefit year in which[^c-8eb83c6dfb09c3c741d1a31cb3f40fe6] the first day of incapacity for work, occurred[^c-5591997c1e09c46d99be948320e8b58a] was entitled to carer’s allowance[^c-76c6030072374c91f331090c3e6f313e] under section 70 of the Contributions and Benefits Act or would have been in receipt of the carer’s allowance but for the provision of regulation 4 of the Social Security (Overlapping Benefits) Regulations 1979;
 - (b) immediately before the first day of incapacity for work, he was a person—
   - (i) who had been engaged in remunerative employment for a period of more than 2 years, and
   - (ii) who was entitled to disability working allowance or disabled person’s tax credit, as the case may be, under section 129 of the Contributions and Benefits Act throughout that period; or
-  - (iii)[^key-383f9e70a4d8676289bde13a5920d8b9] who was entitled to working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 was included in the award; or
-- (ba)[^key-aae9799a475ba236424c51c117ebfdb2] he is, in respect of any week in any tax year preceding the relevant benefit year, a person who—
+  - (iii)[^c-383f9e70a4d8676289bde13a5920d8b9] who was entitled to working tax credit where the disability element or the severe disability element of working tax credit as specified in regulation 20(1)(b) and (f) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 was included in the award; or
+- (ba)[^c-aae9799a475ba236424c51c117ebfdb2] he is, in respect of any week in any tax year preceding the relevant benefit year, a person who—
   - (i) is entitled to be credited with earnings or, as the case may be, contributions in accordance with regulation 9D of the Social Security (Credits) Regulations 1975 (credits for certain periods of imprisonment or detention in legal custody), or
   - (ii) would be so entitled had he made an application to the Secretary of State for the purpose of that regulation;
 - (c) he is, on the first day of his incapacity for work, a person who had received incapacity benefit in the last complete tax year immediately preceding the relevant benefit year he again becomes entitled to it.
@@ -116,8 +116,8 @@ For the purposes of section 30C(6) of the Contributions and Benefits Act (which 
   - (i) has made no claim for incapacity benefit;
   - (ii) has made a claim for incapacity benefit but not within the prescribed time and good cause for the delay is not shown; or
   - (iii) has made a claim for incapacity benefit but not within the prescribed time and, whether or not the person has shown good cause for the delay, he is not entitled to benefit as a result of section 1(2) of the Administration Act (which provides for a 12 month limit on claims for incapacity benefit);
-  - (iv)[^key-e6806bcdbca4e384a2154ef91ea02e22] subject to regulation 2A, is not entitled to incapacity benefit because section 1(1A) of the Administration Act (requirement to state national insurance number) applies.
-- (aa)[^key-aeed15acea9b34e5228e1256baf262cd] a day which is, for the purposes of section 30A(2A)(c) of the Contributions and Benefits Act (period of 196 consecutive days preceding the relevant day), not part of any consecutive days of incapacity;
+  - (iv)[^c-e6806bcdbca4e384a2154ef91ea02e22] subject to regulation 2A, is not entitled to incapacity benefit because section 1(1A) of the Administration Act (requirement to state national insurance number) applies.
+- (aa)[^c-aeed15acea9b34e5228e1256baf262cd] a day which is, for the purposes of section 30A(2A)(c) of the Contributions and Benefits Act (period of 196 consecutive days preceding the relevant day), not part of any consecutive days of incapacity;
 - (b) a day on which a person is disqualified for receiving incapacity benefit during a period of absence from Great Britain or imprisonment or detention in legal custody, if that disqualification is for more than 6 weeks; or
 - (c) subject to paragraph (2), a day on which a person attends a training course in respect of which he is paid a training allowance pursuant to arrangements made under section 2(1) of the Employment and Training Act 1973 [^c1801034] or section 2(3) of the Enterprise and New Towns (Scotland) Act 1990 [^c1801035].
 
@@ -125,12 +125,12 @@ For the purposes of section 30C(6) of the Contributions and Benefits Act (which 
 
 - (a) for the purposes of any claim for incapacity benefit for a period commencing after a person ceased attending such a training course; or
 - (b) in calculating a period of continuous incapacity for work for the purposes of regulation 2 of the Social Security Benefit (Persons Abroad) Regulations 1975[^c1801036].
-- (c)[^key-4921ba7ac63aaa0b0a8a5844d7b74cee] where, such payment as is made, is for the sole purpose of travelling or meal expenses incurred or to be incurred under the arrangement made under section 2(1) of the Employment and Training Act 1973 or section 2(3) of the Enterprise and New Towns (Scotland) Act 1990, or[^key-cb8f4c050b80ed3ea8bf006f23cd0c5a]
+- (c)[^c-4921ba7ac63aaa0b0a8a5844d7b74cee] where, such payment as is made, is for the sole purpose of travelling or meal expenses incurred or to be incurred under the arrangement made under section 2(1) of the Employment and Training Act 1973 or section 2(3) of the Enterprise and New Towns (Scotland) Act 1990, or[^c-cb8f4c050b80ed3ea8bf006f23cd0c5a]
 - (d) to any part of such a payment made—
   - (i) as a consequence of the person taking part in the scheme known as the Adult Learning Option (which is provided in pursuance of arrangements made by or on behalf of the Secretary of State under section 2 of the Employment and Training Act 1973), and
   - (ii) which is not intended to meet the cost of living expenses to which paragraph (3) applies.
 
-(3)[^key-34d32dd393f1e6c14227079d1a9d520b] This paragraph applies to living expenses which relate to—
+(3)[^c-34d32dd393f1e6c14227079d1a9d520b] This paragraph applies to living expenses which relate to—
 
 - (a) food,
 - (b) ordinary clothing or footwear,
@@ -139,11 +139,11 @@ For the purposes of section 30C(6) of the Contributions and Benefits Act (which 
 - (e) any housing costs (to the extent that they are met under regulation 83(f) or 84(1)(g) of the Jobseeker’s Allowance Regulations 1996 or regulation 17(1)(e) or 18(1)(f) of the Income Support (General) Regulations 1987 (housing costs)) of the claimant or, where the claimant is a member of the family, any other member of his family, or
 - (f) any council tax or water charges for which that claimant or member is liable.
 
-### 4A. Days to be treated as days of incapacity for work[^key-69a5fcacfa42e7b4f93cd9a4aa798398]
+### 4A. Days to be treated as days of incapacity for work[^c-69a5fcacfa42e7b4f93cd9a4aa798398]
 
-(1)[^key-dc80489fd04052a7621f61ebbfa2d94a] For the purposes of incapacity benefit for persons incapacitated in youth under section 30A(2A) of the Contributions and Benefits Act, any day in respect of which a person is entitled to statutory sick pay immediately before the relevant day shall be treated as a day of incapacity for work.
+(1)[^c-dc80489fd04052a7621f61ebbfa2d94a] For the purposes of incapacity benefit for persons incapacitated in youth under section 30A(2A) of the Contributions and Benefits Act, any day in respect of which a person is entitled to statutory sick pay immediately before the relevant day shall be treated as a day of incapacity for work.
 
-(2)[^key-ece9ee7ce8ba1d30269d244766e991ed] Where—
+(2)[^c-ece9ee7ce8ba1d30269d244766e991ed] Where—
 
 - (a) any day was, as a result of official error, a day of incapacity for work in a period of incapacity for work for the purposes of the previous entitlement to incapacity benefit referred to in regulation 8D(2)(a) of the Social Security (Credits) Regulations 1975 (credits for the purposes of entitlement to incapacity benefit following official error); and
 - (b) that official error derived from the failure to transpose correctly information relating to credits for incapacity for work or approved training in the tax years from 1993-94 to 2007-08 from the Department of Work and Pensions’ Pension Strategy Computer System to Her Majesty’s Revenue and Customs’ Computer System (NIRS2) or from related clerical procedures,
@@ -152,13 +152,13 @@ that day shall be treated as a day of incapacity for work for the purposes of th
 
 (3) In this regulation—
 
-- [^key-0e013e5f246ffe18e389c400311a8dfc]...
+- [^c-0e013e5f246ffe18e389c400311a8dfc]...
 - “credits for incapacity for work or approved training” means earnings credited pursuant to the Social Security (Credits) Regulations 1975 for incapacity for work or approved training;
 - “official error” means an error made by—
   - (a) an officer of the Department for Work and Pensions or an officer of Revenue and Customs acting as such which no person outside the Department or Her Majesty’s Revenue and Customs caused or to which no person outside the Department for Work and Pensions or Her Majesty’s Revenue and Customs materially contributed, or
   - (b) a person employed by a service provider and to which no person who was not so employed materially contributed,
 
-  but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of the Upper Tribunal[^key-27e1dc8371e62c3aa9116a112b04b3ed] or the court;
+  but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of the Upper Tribunal[^c-27e1dc8371e62c3aa9116a112b04b3ed] or the court;
 - “service provider” means a person providing services to the Secretary of State for Work and Pensions or to Her Majesty’s Revenue and Customs.
 
 ### 5. Night workers
@@ -170,9 +170,9 @@ that day shall be treated as a day of incapacity for work for the purposes of th
 - (a) if the days in question fall at the beginning of a period of incapacity for work, the second day shall be treated as a day of incapacity for work; and
 - (b) if the days in question fall at the end of a period of incapacity for work, the first day shall be treated as a day of incapacity for work.
 
-### 5A. Calculating periods of incapacity for work for welfare to work beneficiaries[^key-6130558d1dbd1598c67c00ee567b866f]
+### 5A. Calculating periods of incapacity for work for welfare to work beneficiaries[^c-6130558d1dbd1598c67c00ee567b866f]
 
-For the purposes of incapacity benefit, in the case of a person who has been determined in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995 as a welfare to work beneficiary, section 30C(1)(c) of the Contributions and Benefits Act (any two periods of incapacity for work not separated by a period of more than 8 weeks shall be treated as one period of incapacity for work) shall have effect as if for the reference to 8 weeks there were substituted a reference to 104 weeks[^key-86a65e92f76375402a245dcf6f5bd29d].
+For the purposes of incapacity benefit, in the case of a person who has been determined in accordance with regulation 13A of the Social Security (Incapacity for Work) (General) Regulations 1995 as a welfare to work beneficiary, section 30C(1)(c) of the Contributions and Benefits Act (any two periods of incapacity for work not separated by a period of more than 8 weeks shall be treated as one period of incapacity for work) shall have effect as if for the reference to 8 weeks there were substituted a reference to 104 weeks[^c-86a65e92f76375402a245dcf6f5bd29d].
 
 ### 6. Calculating periods of incapacity for work for persons receiving certain regular treatment
 
@@ -196,7 +196,7 @@ For the purposes of incapacity benefit, in the case of a person who has been det
 - (a) in any week in which the employer was liable to pay that person statutory sick pay at the weekly rate specified in section 157(1) of the Contributions and Benefits Act, each day of that week; and
 - (b) in any week in which the employer was liable to pay that person statutory sick pay at a fraction of that weekly rate, each of the days of that week which would comprise the same fraction of a 7 day week; and any fractions of days produced by that calculation shall be included in the calculation for the following week and for any fraction of a day not accounted for at the end of that period of entitlement one additional day shall be added.
 
-### 7A. Effect of statutory maternity pay on incapacity benefit[^key-fc67a98f1e1360668b19d1f4151904d9]
+### 7A. Effect of statutory maternity pay on incapacity benefit[^c-fc67a98f1e1360668b19d1f4151904d9]
 
 (1) For the purpose of determining a woman’s entitlement to short-term incapacity benefit at the higher rate or long-term incapacity benefit under section 30A of the Contributions and Benefits Act, a day which falls within the maternity pay period shall, notwithstanding paragraph 1 of Schedule 13 to that Act, be treated as a day of incapacity for work for the purpose of determining whether it forms part of a period of incapacity for work where—
 
@@ -226,7 +226,7 @@ For the purposes of incapacity benefit, in the case of a person who has been det
 
 (4) Where by virtue of paragraph (1) a person is entitled to short-term incapacity benefit at the higher rate or long-term incapacity benefit for any week (including part of a week) the total amount of such benefit (including any increase for a dependant) payable to him for that week shall be reduced by an amount equivalent to any statutory adoption pay to which he is entitled in accordance with Part 12ZB of the Contributions and Benefits Act for the same week and only the balance, if any, of the short-term incapacity benefit at the higher rate or long-term incapacity benefit shall be payable to him.
 
-### 7C. Inclusion of days of sickness absence from duty before discharge from Her Majesty’s forces in calculating days of entitlement to incapacity benefit[^key-fce0539a7e769b003d7e7c13ffd0b3d2]
+### 7C. Inclusion of days of sickness absence from duty before discharge from Her Majesty’s forces in calculating days of entitlement to incapacity benefit[^c-fce0539a7e769b003d7e7c13ffd0b3d2]
 
 (1) For the purpose of section 30D(3A) of the Contributions and Benefits Act (days to be included in respect of person discharged from Her Majesty’s forces after 3rd May 2003 when calculating the number of days for which the person has been entitled to short-term incapacity benefit) there is prescribed any day which falls within a period—
 
@@ -235,7 +235,7 @@ For the purposes of incapacity benefit, in the case of a person who has been det
 
 (2) For the purpose of paragraph (1)(a) any two such periods not separated by a period of more than 8 weeks shall be treated as one period.
 
-### 8. Limit of earnings from councillor’s allowance[^key-884415a2a8f9cd27e066c44f47f91ccb]
+### 8. Limit of earnings from councillor’s allowance[^c-884415a2a8f9cd27e066c44f47f91ccb]
 
 (1) For the purpose of section 30E(1) of the Contributions and Benefits Act (incapacity benefit: reduction for councillor’s allowance) the prescribed amount is 16 x National Minimum Wage, subject to paragraph (3).
 
@@ -270,8 +270,8 @@ For the purposes of incapacity benefit, in the case of a person who has been det
 
 (2) The amounts referred to in paragraph (1) are–
 
-- (a) higher amount....................£30.00[^key-c7a75f8f94d602a4b3e3615400b85248];
-- (b) lower amount....................£15.00[^key-fd67d1c789db08e44b8efe184e0c35e3].
+- (a) higher amount....................£30.00[^c-c7a75f8f94d602a4b3e3615400b85248];
+- (b) lower amount....................£15.00[^c-fd67d1c789db08e44b8efe184e0c35e3].
 
 ### 11. Qualifying date for entitlement to increased rate of incapacity benefit — previous entitlement to statutory sick pay
 
@@ -287,7 +287,7 @@ For the purposes of regulation 10 the qualifying date in relation to a person to
 
 If, for the purposes of regulation 10, the qualifying date in relation to a person who was entitled to a widow’s allowance would have been earlier than that specified in section 30B(7) of the Contributions and Benefits Act, if in respect of that earlier date she had claimed short–term incapacity benefit and had satisfied the contribution conditions for that benefit specified in paragraph 2 of Schedule 3 to the Contributions and Benefits Act [^c1801039], the qualifying date in relation to her shall nevertheless be that earlier date.
 
-## PART IV — ADDITIONAL CONDITIONS FOR PERSONS INCAPACITATED IN YOUTH[^key-c38e77064a0f92751b66f541544981b9]
+## PART IV — ADDITIONAL CONDITIONS FOR PERSONS INCAPACITATED IN YOUTH[^c-c38e77064a0f92751b66f541544981b9]
 
 ### 14. General
 
@@ -304,12 +304,12 @@ This Part of these Regulations applies to persons incapacitated in youth in acco
   - (ii) vocational or work-based training,
 
   at least 3 months before he attained the age of 20 years; and
-- (b) not more than one academic term immediately after registration under sub-paragraph (a), attended one or more such courses of education or training as are mentioned in that sub-paragraph in respect of a period[^key-bce699a6d7ba79c77ad9401b92dc7031] referred to in paragraph (3).
+- (b) not more than one academic term immediately after registration under sub-paragraph (a), attended one or more such courses of education or training as are mentioned in that sub-paragraph in respect of a period[^c-bce699a6d7ba79c77ad9401b92dc7031] referred to in paragraph (3).
 
 (3) The period mentioned in paragraph (2)(b) is a period which—
 
 - (a) began on or before a day at least 3 months before the day he attained the age of 20 years, and
-- (b)[^key-371731afb54783741cff5333d7b682a6] ended no earlier than the beginning of the last two complete tax years before the benefit year which would have governed a claim for incapacity benefit under section 30A(1)(a) of the Contributions and Benefits Act had he been eligible for it.
+- (b)[^c-371731afb54783741cff5333d7b682a6] ended no earlier than the beginning of the last two complete tax years before the benefit year which would have governed a claim for incapacity benefit under section 30A(1)(a) of the Contributions and Benefits Act had he been eligible for it.
 
 (4) For the purposes of this regulation a person is attending a course of education or training on any day on which the course or training is interrupted by an illness or domestic emergency.
 
@@ -340,13 +340,13 @@ This Part of these Regulations applies to persons incapacitated in youth in acco
 - (c) he is present in Great Britain; and
 - (d) he has been present in Great Britain for a period of, or for periods amounting in aggregate to, not less than 26 weeks in the 52 weeks immediately preceding that day.
 
-(2)[^key-6964b31c10d02f4dd6a3a98d5a2fc17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6964b31c10d02f4dd6a3a98d5a2fc17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6964b31c10d02f4dd6a3a98d5a2fc17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6964b31c10d02f4dd6a3a98d5a2fc17a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In determining whether a person satisfies paragraph (1), where a person is absent from Great Britain by reason only of the fact that—
 
-- (a) he is abroad in his capacity as a serving member of the forces, or he is the spouse, civil partner,[^key-b6914d36807a69672580e3030e927f25] son, daughter, father, father-in-law, mother or mother-in-law of, and living with, a serving member of the forces abroad;
+- (a) he is abroad in his capacity as a serving member of the forces, or he is the spouse, civil partner,[^c-b6914d36807a69672580e3030e927f25] son, daughter, father, father-in-law, mother or mother-in-law of, and living with, a serving member of the forces abroad;
 - (b) he is in employment prescribed for the purposes of section 120 of the Contributions and Benefits Act in connection with continental shelf operations; or
 - (c) he is abroad in his capacity as an airman within the meaning of regulation 81, or mariner within the meaning of regulation 86, of the Social Security (Contributions) Regulations 1979;
 
@@ -391,7 +391,7 @@ any day or period of absence shall be treated as a day on which, or period durin
 (3) This paragraph applies to a person—
 
 - (a) whose previous entitlement to incapacity benefit for a person incapacitated in youth was terminated solely with a view to him taking up an employment or training;
-- (b) whose earnings factor[^key-272183e61889c6d6785c15967c340d7f] from an employment or series of employments, which he pursued in the period from the termination of his previous entitlement to the beginning of his period of incapacity for work, was[^key-60d053cde79493c4d6b426b2c522d9da] below the lower earnings limit in accordance with section 5(1)(a) of the Contributions and Benefits Act multiplied by 25 in any of the last three complete tax years before the beginning of the relevant benefit year; and
+- (b) whose earnings factor[^c-272183e61889c6d6785c15967c340d7f] from an employment or series of employments, which he pursued in the period from the termination of his previous entitlement to the beginning of his period of incapacity for work, was[^c-60d053cde79493c4d6b426b2c522d9da] below the lower earnings limit in accordance with section 5(1)(a) of the Contributions and Benefits Act multiplied by 25 in any of the last three complete tax years before the beginning of the relevant benefit year; and
 - (c) who—
   - (i) in respect of the last two complete tax years before the beginning of the relevant benefit year has either paid or been credited with earnings equivalent in each of those years to the year’s lower earnings limit multiplied by 50, of which at least one, in the last tax year, was in respect of disabled person’s tax credit; or
   - (ii) within a period of 56 days after the day he ceased his last such employment as he pursued in accordance with sub-paragraph (b), makes a claim for incapacity benefit for persons incapacitated in youth.
@@ -400,14 +400,14 @@ any day or period of absence shall be treated as a day on which, or period durin
 
 - (a) whose previous entitlement to incapacity benefit for persons incapacitated in youth was terminated by reason solely of his absence from Great Britain by virtue of disqualification under section 113 of the Contributions and Benefits Act;
 - (b) who has been incapable of work for a period of 196 consecutive days from the day of his absence from Great Britain ceased;
-- (c)[^key-7e3f8d6d9c0ea7cecdcf9982afdca16b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-39fedb835bde86a38bb91b299c51f396] who made his claim for benefit on a day not later than 3 months from the end of the period of 196 days described in sub-paragraph (b).
+- (c)[^c-7e3f8d6d9c0ea7cecdcf9982afdca16b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-39fedb835bde86a38bb91b299c51f396] who made his claim for benefit on a day not later than 3 months from the end of the period of 196 days described in sub-paragraph (b).
 
 (5) For the purposes of this regulation, “training” has the same meaning as in regulation 15.
 
 ### 19. Persons formerly entitled to severe disablement allowance
 
-(1) Where a person was below the age of 20 years on 6th April 2001[^key-2b1c409ab0f21687f01dfebc4e4400bb] and was entitled to, or receiving, severe disablement allowance by virtue of section 68(1) of the Contributions and Benefits Act on or immediately before 5th April 2002, he shall, if he continues to be incapable of work in accordance with Part XIIA of the Contributions and Benefits Act, be—
+(1) Where a person was below the age of 20 years on 6th April 2001[^c-2b1c409ab0f21687f01dfebc4e4400bb] and was entitled to, or receiving, severe disablement allowance by virtue of section 68(1) of the Contributions and Benefits Act on or immediately before 5th April 2002, he shall, if he continues to be incapable of work in accordance with Part XIIA of the Contributions and Benefits Act, be—
 
 - (a) entitled to the long-term incapacity benefit from 6th April 2002; and
 - (b) treated as having acquired entitlement under section 30A(1)(b) and (2A) of the Contributions and Benefits Act; and
@@ -428,32 +428,32 @@ For the purposes of section 30DD of the Contributions and Benefits Act (incapaci
 - (a) pension payment shall include permanent health insurance payment; and
 - (b) “permanent health insurance payment” means any periodical payment arranged by an employer under an insurance policy providing benefits in connection with physical or mental illness, disability, infirmity or defect, in relation to a former employee on the termination of his employment.
 
-### 20A. Financial assistance scheme[^key-a9a36efed7e65b29cfcc25b35ba0814e]
+### 20A. Financial assistance scheme[^c-a9a36efed7e65b29cfcc25b35ba0814e]
 
 For the purposes of section 30DD of the Contributions and Benefits Act (incapacity benefit: reduction for pension payments and PPF periodic payments), “pension payment” includes a payment made under the Financial Assistance Scheme Regulations 2005 to a person who first became entitled to such a payment on or after the date on which the Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 came into force.
 
 ### 21. Disregard of certain pension payments
 
-For the purposes of section 30DD(1) of the Contributions and Benefits Act (reduction for pension payments and[^key-c4b0322c671267732d348fda869a814d] PPF periodic payments), there shall be disregarded—
+For the purposes of section 30DD(1) of the Contributions and Benefits Act (reduction for pension payments and[^c-c4b0322c671267732d348fda869a814d] PPF periodic payments), there shall be disregarded—
 
 - (a) any pension payment within the meaning of section 30DD(5) of the Contributions and Benefits Act made to a person as a beneficiary on the death of a member of any pension scheme;
-- (aa)[^key-90acd57fb3c053690799d0ad0e29b504] any PPF periodic payment made to a person as a beneficiary on the death of a person entitled to such a payment;
+- (aa)[^c-90acd57fb3c053690799d0ad0e29b504] any PPF periodic payment made to a person as a beneficiary on the death of a person entitled to such a payment;
 - (b) where a pension scheme is in deficit or has insufficient resources to meet the full pension payment, the extent of the shortfall;
 - (c) any permanent health insurance payment in respect of which the employee had contributed to the premium to the extent of more than 50 per cent..
-- (d)[^key-e67176c2fd3c0f163d5271dcb041ea77] any payment made under article 14(1)(b) or 21(1)(a) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2005; or
+- (d)[^c-e67176c2fd3c0f163d5271dcb041ea77] any payment made under article 14(1)(b) or 21(1)(a) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2005; or
 - (e) any pension payment made under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003.
 
 ### 22. Date from which pension payment is to be taken into account
 
-Where section 30DD(1) of the Contributions and Benefits Act (reduction for pension payments and[^key-674ef0bd6b83b4254685c331c04261b6] PPF periodic payments) applies, deductions shall have effect, calculated, where appropriate, in accordance with regulation 24 (pension payments made other than weekly), from the first day of the week, commencing on Sunday, in which the pension payment or[^key-89cd0294255304c7201638d6dc7090bd] PPF periodic payment is paid to a person who is entitled to incapacity benefit in that week.
+Where section 30DD(1) of the Contributions and Benefits Act (reduction for pension payments and[^c-674ef0bd6b83b4254685c331c04261b6] PPF periodic payments) applies, deductions shall have effect, calculated, where appropriate, in accordance with regulation 24 (pension payments made other than weekly), from the first day of the week, commencing on Sunday, in which the pension payment or[^c-89cd0294255304c7201638d6dc7090bd] PPF periodic payment is paid to a person who is entitled to incapacity benefit in that week.
 
 ### 23. Date from which the change in the rate of pension takes effect
 
-Where pension payments or[^key-266740c8ed04c6d03071982026656ab1] PPF periodic payments are already in payment to a person and the rate of payment changes, the deduction at the new rate shall take effect, calculated, where appropriate, in accordance with regulation 24 (pension payments made other than weekly), from the first day of the week, commencing on Sunday, in which the new rate of the pension payment or[^key-9b29ddaad7079c0f40b41c63b2adc85b] PPF periodic payment is paid.
+Where pension payments or[^c-266740c8ed04c6d03071982026656ab1] PPF periodic payments are already in payment to a person and the rate of payment changes, the deduction at the new rate shall take effect, calculated, where appropriate, in accordance with regulation 24 (pension payments made other than weekly), from the first day of the week, commencing on Sunday, in which the new rate of the pension payment or[^c-9b29ddaad7079c0f40b41c63b2adc85b] PPF periodic payment is paid.
 
 ### 24. Pension payment made other than weekly
 
-(1) Where a pension payment or[^key-a3d6d47385484a7f0ec4e064084fdf1a] PPF periodic payment, or an aggregate of such payments, as the case may be, is paid to a person for a period other than a week, such payments shall be treated as being made to that person by way of weekly pension payments or weekly[^key-f852da032504cd248f1c0c9edbacc144] PPF periodic payments and the weekly amount shall be determined—
+(1) Where a pension payment or[^c-a3d6d47385484a7f0ec4e064084fdf1a] PPF periodic payment, or an aggregate of such payments, as the case may be, is paid to a person for a period other than a week, such payments shall be treated as being made to that person by way of weekly pension payments or weekly[^c-f852da032504cd248f1c0c9edbacc144] PPF periodic payments and the weekly amount shall be determined—
 
 - (a) where payment is made for a year, by dividing the total by 52;
 - (b) where payment is made for 3 months, by dividing the total by 13;
@@ -466,7 +466,7 @@ Where pension payments or[^key-266740c8ed04c6d03071982026656ab1] PPF periodic pa
 - (a) there shall be disregarded the sum of less than one half of a penny; and
 - (b) the sum of one half of a penny or more but less than one penny shall be rounded up to one penny.
 
-(3) In determining the weekly pension payment or weekly[^key-88e60668829c8c316b3a1d073079657f] PPF periodic payment, where two or more pension payments or[^key-739edbc0f063dd625c0ec3590d60f96d] PPF periodic payments are payable to a person, each pension payment or[^key-0f1b003a9b3fe542c1f9ff3c5bd70b54] PPF periodic payment shall be calculated separately in accordance with paragraph (1) before aggregating the sum of those payments for the purposes of the reduction of the benefit in accordance with section 30DD(1) of the Contributions and Benefits Act.
+(3) In determining the weekly pension payment or weekly[^c-88e60668829c8c316b3a1d073079657f] PPF periodic payment, where two or more pension payments or[^c-739edbc0f063dd625c0ec3590d60f96d] PPF periodic payments are payable to a person, each pension payment or[^c-0f1b003a9b3fe542c1f9ff3c5bd70b54] PPF periodic payment shall be calculated separately in accordance with paragraph (1) before aggregating the sum of those payments for the purposes of the reduction of the benefit in accordance with section 30DD(1) of the Contributions and Benefits Act.
 
 ### 25. Priority of deductions of pension payments taken as payable for the purposes of reduction of incapacity benefit
 
@@ -478,7 +478,7 @@ Where a reduction in the rate of incapacity benefit payable to a person falls to
 
 ### 26. Person whose benefit is not to be reduced under section 30DD(1)
 
-Section 30DD(1) of the Contributions and Benefits Act (reduction of incapacity benefit for pension payments) shall not apply to a person who is entitled to the highest rate of the care component of disability living allowance under section 72 of the Contributions and Benefits Act, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^key-a4f6d7a7b9fde893bb796b31765cf912] or the enhanced rate of the daily living component of personal independence payment under section 78(2) of the Welfare Reform Act 2012[^key-b65de9c77b488720ff729c26392c5f0d].
+Section 30DD(1) of the Contributions and Benefits Act (reduction of incapacity benefit for pension payments) shall not apply to a person who is entitled to the highest rate of the care component of disability living allowance under section 72 of the Contributions and Benefits Act, armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^c-a4f6d7a7b9fde893bb796b31765cf912] or the enhanced rate of the daily living component of personal independence payment under section 78(2) of the Welfare Reform Act 2012[^c-b65de9c77b488720ff729c26392c5f0d].
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -512,31 +512,31 @@ These Regulations do not impose any costs on business.
 
 [^c1801033]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-29f0c39d9c6c2963a5ed31c6ef99da1a]: Textual amendment: Reg. 2A inserted (1.12.1997) by [The Social Security (National Insurance Number Information: Exemption) Regulations 1997 (S.I. 1997/2676)](https://www.legislation.gov.uk/uksi/1997/2676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2676/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/1997/2676/regulation/9)
+[^c-29f0c39d9c6c2963a5ed31c6ef99da1a]: Textual amendment: Reg. 2A inserted (1.12.1997) by [The Social Security (National Insurance Number Information: Exemption) Regulations 1997 (S.I. 1997/2676)](https://www.legislation.gov.uk/uksi/1997/2676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/2676/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/1997/2676/regulation/9)
 
-[^key-68dd628ff5f667abc531c99d0d18b600]: Textual amendment: Reg. 2A(a) omitted (6.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/a), [2(8)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/8)
+[^c-68dd628ff5f667abc531c99d0d18b600]: Textual amendment: Reg. 2A(a) omitted (6.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) (No. 2) Regulations 2003 (S.I. 2003/937)](https://www.legislation.gov.uk/uksi/2003/937), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/937/regulation/1/a), [2(8)](https://www.legislation.gov.uk/uksi/2003/937/regulation/2/8)
 
-[^key-929caf5f80b5581ccbe7ed7c22129674]: Textual amendment: [Reg. 2A(c)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/2A/c) added (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations 2009 (S.I. 2009/471)](https://www.legislation.gov.uk/uksi/2009/471), [regs. 1](https://www.legislation.gov.uk/uksi/2009/471/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/471/regulation/6)
+[^c-929caf5f80b5581ccbe7ed7c22129674]: Textual amendment: [Reg. 2A(c)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/2A/c) added (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations 2009 (S.I. 2009/471)](https://www.legislation.gov.uk/uksi/2009/471), [regs. 1](https://www.legislation.gov.uk/uksi/2009/471/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/471/regulation/6)
 
-[^key-daae1eb44baa86ae3257587fcf13fef5]: Textual amendment: Part. 1A inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
+[^c-daae1eb44baa86ae3257587fcf13fef5]: Textual amendment: Part. 1A inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
 
-[^key-cb9f9cf8473ef520c8c3a9386238b0fa]: Textual amendment: Words in reg. 2B(2)(a) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/2)
+[^c-cb9f9cf8473ef520c8c3a9386238b0fa]: Textual amendment: Words in reg. 2B(2)(a) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/2)
 
-[^key-8b1844681a4dcbc7381ad30809a3758a]: Textual amendment: Word in reg. 2B(2)(a) deleted (1.10.2001) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/2979)](https://www.legislation.gov.uk/uksi/2001/2979), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2979/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2001/2979/regulation/3/a/i)
+[^c-8b1844681a4dcbc7381ad30809a3758a]: Textual amendment: Word in reg. 2B(2)(a) deleted (1.10.2001) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/2979)](https://www.legislation.gov.uk/uksi/2001/2979), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2979/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2001/2979/regulation/3/a/i)
 
-[^key-8eb83c6dfb09c3c741d1a31cb3f40fe6]: Textual amendment: Words in reg. 2B(2)(a) inserted (1.10.2001) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/2979)](https://www.legislation.gov.uk/uksi/2001/2979), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2979/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2001/2979/regulation/3/a/i)
+[^c-8eb83c6dfb09c3c741d1a31cb3f40fe6]: Textual amendment: Words in reg. 2B(2)(a) inserted (1.10.2001) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/2979)](https://www.legislation.gov.uk/uksi/2001/2979), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2979/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2001/2979/regulation/3/a/i)
 
-[^key-5591997c1e09c46d99be948320e8b58a]: Textual amendment: Word in reg. 2B(2)(a) inserted (1.10.2001) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/2979)](https://www.legislation.gov.uk/uksi/2001/2979), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2979/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2979/regulation/3/a/ii)
+[^c-5591997c1e09c46d99be948320e8b58a]: Textual amendment: Word in reg. 2B(2)(a) inserted (1.10.2001) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2001 (S.I. 2001/2979)](https://www.legislation.gov.uk/uksi/2001/2979), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2979/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2979/regulation/3/a/ii)
 
-[^key-76c6030072374c91f331090c3e6f313e]: Textual amendment: Words in reg. 2B substituted (1.4.2003) by [The Social Security Amendment (Carers Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
+[^c-76c6030072374c91f331090c3e6f313e]: Textual amendment: Words in reg. 2B substituted (1.4.2003) by [The Social Security Amendment (Carers Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1)[2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
 
-[^key-383f9e70a4d8676289bde13a5920d8b9]: Textual amendment: [Reg. 2B(2)(b)(iii)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/2B/2/b/iii) inserted (7.4.2003) by [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations 2003 (S.I. 2003/455)](https://www.legislation.gov.uk/uksi/2003/455), [reg. 1(10)(c)](https://www.legislation.gov.uk/uksi/2003/455/regulation/1/10/c), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2003/455/schedule/4/paragraph/4)
+[^c-383f9e70a4d8676289bde13a5920d8b9]: Textual amendment: [Reg. 2B(2)(b)(iii)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/2B/2/b/iii) inserted (7.4.2003) by [The Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations 2003 (S.I. 2003/455)](https://www.legislation.gov.uk/uksi/2003/455), [reg. 1(10)(c)](https://www.legislation.gov.uk/uksi/2003/455/regulation/1/10/c), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2003/455/schedule/4/paragraph/4)
 
-[^key-aae9799a475ba236424c51c117ebfdb2]: Textual amendment: Reg. 2B(2)(ba) inserted (6.4.2001) by [The Social Security (Credits and Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/573)](https://www.legislation.gov.uk/uksi/2001/573), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2001/573/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2001/573/regulation/3)
+[^c-aae9799a475ba236424c51c117ebfdb2]: Textual amendment: Reg. 2B(2)(ba) inserted (6.4.2001) by [The Social Security (Credits and Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/573)](https://www.legislation.gov.uk/uksi/2001/573), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2001/573/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2001/573/regulation/3)
 
-[^key-e6806bcdbca4e384a2154ef91ea02e22]: Textual amendment: Reg. 4(1)(iv) inserted (6.9.1999) by [The Social Security (Incapacity Benefit and Jobseekers Allowance) Amendment Regulations 1999 (S.I. 1999/2226)](https://www.legislation.gov.uk/uksi/1999/2226), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2226/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2226/regulation/2)
+[^c-e6806bcdbca4e384a2154ef91ea02e22]: Textual amendment: Reg. 4(1)(iv) inserted (6.9.1999) by [The Social Security (Incapacity Benefit and Jobseekers Allowance) Amendment Regulations 1999 (S.I. 1999/2226)](https://www.legislation.gov.uk/uksi/1999/2226), [regs. 1](https://www.legislation.gov.uk/uksi/1999/2226/regulation/1), [2](https://www.legislation.gov.uk/uksi/1999/2226/regulation/2)
 
-[^key-aeed15acea9b34e5228e1256baf262cd]: Textual amendment: Reg. 4(1)(aa) inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
+[^c-aeed15acea9b34e5228e1256baf262cd]: Textual amendment: Reg. 4(1)(aa) inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
 
 [^c1801034]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50).
 
@@ -544,90 +544,90 @@ These Regulations do not impose any costs on business.
 
 [^c1801036]: Marginal citation: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563). The relevant amending instrument is [S.I. 1990/40](https://www.legislation.gov.uk/uksi/1990/40).
 
-[^key-4921ba7ac63aaa0b0a8a5844d7b74cee]: Textual amendment: Reg. 4(2)(c) inserted (3.4.2000) by [The Social Security (Approved Work) Regulations 2000 (S.I. 2000/678)](https://www.legislation.gov.uk/uksi/2000/678), [regs. 1](https://www.legislation.gov.uk/uksi/2000/678/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/678/regulation/5)
+[^c-4921ba7ac63aaa0b0a8a5844d7b74cee]: Textual amendment: Reg. 4(2)(c) inserted (3.4.2000) by [The Social Security (Approved Work) Regulations 2000 (S.I. 2000/678)](https://www.legislation.gov.uk/uksi/2000/678), [regs. 1](https://www.legislation.gov.uk/uksi/2000/678/regulation/1), [5](https://www.legislation.gov.uk/uksi/2000/678/regulation/5)
 
-[^key-cb8f4c050b80ed3ea8bf006f23cd0c5a]: Textual amendment: Reg. 4(2)(d) and word inserted (1.9.2006) by [The Social Security (Adult Learning Option) Amendment Regulations 2006 (S.I. 2006/2144)](https://www.legislation.gov.uk/uksi/2006/2144), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2144/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/2144/regulation/3/2)
+[^c-cb8f4c050b80ed3ea8bf006f23cd0c5a]: Textual amendment: Reg. 4(2)(d) and word inserted (1.9.2006) by [The Social Security (Adult Learning Option) Amendment Regulations 2006 (S.I. 2006/2144)](https://www.legislation.gov.uk/uksi/2006/2144), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2144/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/2144/regulation/3/2)
 
-[^key-34d32dd393f1e6c14227079d1a9d520b]: Textual amendment: Reg. 4(3) inserted (1.9.2006) by [The Social Security (Adult Learning Option) Amendment Regulations 2006 (S.I. 2006/2144)](https://www.legislation.gov.uk/uksi/2006/2144), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2144/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/2144/regulation/3/3)
+[^c-34d32dd393f1e6c14227079d1a9d520b]: Textual amendment: Reg. 4(3) inserted (1.9.2006) by [The Social Security (Adult Learning Option) Amendment Regulations 2006 (S.I. 2006/2144)](https://www.legislation.gov.uk/uksi/2006/2144), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2144/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/2144/regulation/3/3)
 
-[^key-69a5fcacfa42e7b4f93cd9a4aa798398]: Textual amendment: Reg. 4A inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
+[^c-69a5fcacfa42e7b4f93cd9a4aa798398]: Textual amendment: Reg. 4A inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
 
-[^key-dc80489fd04052a7621f61ebbfa2d94a]: Textual amendment: Reg. 4A(1): reg. 4A renumbered as reg. 4A(1) (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/6/2)
+[^c-dc80489fd04052a7621f61ebbfa2d94a]: Textual amendment: Reg. 4A(1): reg. 4A renumbered as reg. 4A(1) (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/6/2)
 
-[^key-ece9ee7ce8ba1d30269d244766e991ed]: Textual amendment: Reg. 4A(2)(3) inserted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/6/3)
+[^c-ece9ee7ce8ba1d30269d244766e991ed]: Textual amendment: Reg. 4A(2)(3) inserted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/6/3)
 
-[^key-0e013e5f246ffe18e389c400311a8dfc]: Textual amendment: Words in reg. 4A(3) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 65(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/65/a)
+[^c-0e013e5f246ffe18e389c400311a8dfc]: Textual amendment: Words in reg. 4A(3) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 65(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/65/a)
 
-[^key-27e1dc8371e62c3aa9116a112b04b3ed]: Textual amendment: Words in reg. 4A(3) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 65(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/65/b)
+[^c-27e1dc8371e62c3aa9116a112b04b3ed]: Textual amendment: Words in reg. 4A(3) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 65(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/65/b)
 
-[^key-6130558d1dbd1598c67c00ee567b866f]: Textual amendment: Reg. 5A inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [2](https://www.legislation.gov.uk/uksi/1998/2231/regulation/2)
+[^c-6130558d1dbd1598c67c00ee567b866f]: Textual amendment: Reg. 5A inserted (5.10.1998) by [The Social Security (Welfare to Work) Regulations 1998 (S.I. 1998/2231)](https://www.legislation.gov.uk/uksi/1998/2231), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2231/regulation/1), [2](https://www.legislation.gov.uk/uksi/1998/2231/regulation/2)
 
-[^key-86a65e92f76375402a245dcf6f5bd29d]: Textual amendment: Words in reg. 5A substituted (9.10.2006) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/7), [10(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/10/2)
+[^c-86a65e92f76375402a245dcf6f5bd29d]: Textual amendment: Words in reg. 5A substituted (9.10.2006) by [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/7), [10(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/10/2)
 
-[^key-fc67a98f1e1360668b19d1f4151904d9]: Textual amendment: Reg. 7A, 7B inserted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [10(1)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/10/1)
+[^c-fc67a98f1e1360668b19d1f4151904d9]: Textual amendment: Reg. 7A, 7B inserted (24.11.2002) by [The Social Security, Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2690)](https://www.legislation.gov.uk/uksi/2002/2690), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/1/1/a), [10(1)](https://www.legislation.gov.uk/uksi/2002/2690/regulation/10/1)
 
-[^key-fce0539a7e769b003d7e7c13ffd0b3d2]: Textual amendment: Reg. 7C inserted (5.5.2003) by [The Social Security (Incapacity Benefit) (Her Majestys Forces) (Amendment) Regulations 2003 (S.I. 2003/1068)](https://www.legislation.gov.uk/uksi/2003/1068), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1068/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/1068/regulation/2)
+[^c-fce0539a7e769b003d7e7c13ffd0b3d2]: Textual amendment: Reg. 7C inserted (5.5.2003) by [The Social Security (Incapacity Benefit) (Her Majestys Forces) (Amendment) Regulations 2003 (S.I. 2003/1068)](https://www.legislation.gov.uk/uksi/2003/1068), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1068/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/1068/regulation/2)
 
-[^key-884415a2a8f9cd27e066c44f47f91ccb]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1994/2946/regulation/8) substituted (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2011/674/regulation/1/4), [5](https://www.legislation.gov.uk/uksi/2011/674/regulation/5)
+[^c-884415a2a8f9cd27e066c44f47f91ccb]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1994/2946/regulation/8) substituted (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/674)](https://www.legislation.gov.uk/uksi/2011/674), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2011/674/regulation/1/4), [5](https://www.legislation.gov.uk/uksi/2011/674/regulation/5)
 
 [^c1801037]: Marginal citation: Section 30A was inserted by section 1(1) of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
 
-[^key-c7a75f8f94d602a4b3e3615400b85248]: Textual amendment: Sum in [Reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/10/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [16(1)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/16/1/a) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2026/148/article/16/2))
+[^c-c7a75f8f94d602a4b3e3615400b85248]: Textual amendment: Sum in [Reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/10/2/a) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [16(1)(a)](https://www.legislation.gov.uk/uksi/2026/148/article/16/1/a) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2026/148/article/16/2))
 
-[^key-fd67d1c789db08e44b8efe184e0c35e3]: Textual amendment: Sum in [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/10/2/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [16(1)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/16/1/b) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2026/148/article/16/2))
+[^c-fd67d1c789db08e44b8efe184e0c35e3]: Textual amendment: Sum in [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/10/2/b) substituted (coming into force in accordance with art. 1(4) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(f)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/f), [16(1)(b)](https://www.legislation.gov.uk/uksi/2026/148/article/16/1/b) (with [art. 16(2)](https://www.legislation.gov.uk/uksi/2026/148/article/16/2))
 
 [^c1801038]: Marginal citation: [S.I. 1979/591](https://www.legislation.gov.uk/uksi/1979/591). The relevant amending instruments are [S.I. 1980/1975](https://www.legislation.gov.uk/uksi/1980/1975) and 1994/1553.
 
 [^c1801039]: Marginal citation: Paragraph 2 of Schedule 3 was amended by sections 1(2) and 3(2) of, and paragraph 38(2) of Schedule 1 to, the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
 
-[^key-c38e77064a0f92751b66f541544981b9]: Textual amendment: Pt. 4, 5 inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
+[^c-c38e77064a0f92751b66f541544981b9]: Textual amendment: Pt. 4, 5 inserted (6.4.2001) by [The Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 (S.I. 2000/3120)](https://www.legislation.gov.uk/uksi/2000/3120), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6))
 
-[^key-bce699a6d7ba79c77ad9401b92dc7031]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/15/2/b) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/3/a)
+[^c-bce699a6d7ba79c77ad9401b92dc7031]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/15/2/b) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/3/a)
 
-[^key-371731afb54783741cff5333d7b682a6]: Textual amendment: Words in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/15/3/b) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/3/b)
+[^c-371731afb54783741cff5333d7b682a6]: Textual amendment: Words in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/15/3/b) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/3/b)
 
-[^key-6964b31c10d02f4dd6a3a98d5a2fc17a]: Textual amendment: Reg. 16(2)(3) omitted (1.10.2006) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/10/4)
+[^c-6964b31c10d02f4dd6a3a98d5a2fc17a]: Textual amendment: Reg. 16(2)(3) omitted (1.10.2006) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/10/4)
 
-[^key-b6914d36807a69672580e3030e927f25]: Textual amendment: Words in reg. 16(4)(a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-b6914d36807a69672580e3030e927f25]: Textual amendment: Words in reg. 16(4)(a) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/24) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^M_F_4c8a43d0-9d53-4f60-adf9-9636bcad5f65]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-272183e61889c6d6785c15967c340d7f]: Textual amendment: Word in reg. 18(3)(b) inserted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/4/a)
+[^c-272183e61889c6d6785c15967c340d7f]: Textual amendment: Word in reg. 18(3)(b) inserted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/4/a)
 
-[^key-60d053cde79493c4d6b426b2c522d9da]: Textual amendment: Word in reg. 18(3)(b) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/4/b)
+[^c-60d053cde79493c4d6b426b2c522d9da]: Textual amendment: Word in reg. 18(3)(b) substituted (25.4.2001) by [The Social Security (Incapacity Benefit) Amendment Regulations 2001 (S.I. 2001/1305)](https://www.legislation.gov.uk/uksi/2001/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1305/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2001/1305/regulation/2/4/b)
 
-[^key-7e3f8d6d9c0ea7cecdcf9982afdca16b]: Textual amendment: [Reg. 18(4)(c)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/18/4/c) omitted (1.1.2003) by virtue of [The Social Security (Incapacity) (Miscellaneous Amendments) (No. 2) Regulations 2002 (S.I. 2002/2311)](https://www.legislation.gov.uk/uksi/2002/2311), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/3/2/a)
+[^c-7e3f8d6d9c0ea7cecdcf9982afdca16b]: Textual amendment: [Reg. 18(4)(c)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/18/4/c) omitted (1.1.2003) by virtue of [The Social Security (Incapacity) (Miscellaneous Amendments) (No. 2) Regulations 2002 (S.I. 2002/2311)](https://www.legislation.gov.uk/uksi/2002/2311), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/1/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/3/2/a)
 
-[^key-39fedb835bde86a38bb91b299c51f396]: Textual amendment: [Reg. 18(4)(d)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/18/4/d) substituted (1.1.2003) by [The Social Security (Incapacity) (Miscellaneous Amendments) (No. 2) Regulations 2002 (S.I. 2002/2311)](https://www.legislation.gov.uk/uksi/2002/2311), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/1/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/3/2/b)
+[^c-39fedb835bde86a38bb91b299c51f396]: Textual amendment: [Reg. 18(4)(d)](https://www.legislation.gov.uk/uksi/1994/2946/regulation/18/4/d) substituted (1.1.2003) by [The Social Security (Incapacity) (Miscellaneous Amendments) (No. 2) Regulations 2002 (S.I. 2002/2311)](https://www.legislation.gov.uk/uksi/2002/2311), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/1/1/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2002/2311/regulation/3/2/b)
 
-[^key-2b1c409ab0f21687f01dfebc4e4400bb]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/1994/2946/regulation/19) substituted (5.4.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/491)](https://www.legislation.gov.uk/uksi/2002/491), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/491/regulation/1/1/a), [4](https://www.legislation.gov.uk/uksi/2002/491/regulation/4)
+[^c-2b1c409ab0f21687f01dfebc4e4400bb]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/1994/2946/regulation/19) substituted (5.4.2002) by [The Social Security (Incapacity) (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/491)](https://www.legislation.gov.uk/uksi/2002/491), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2002/491/regulation/1/1/a), [4](https://www.legislation.gov.uk/uksi/2002/491/regulation/4)
 
-[^key-a9a36efed7e65b29cfcc25b35ba0814e]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1994/2946/regulation/20A) inserted (27.3.2009) by [The Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/792)](https://www.legislation.gov.uk/uksi/2009/792), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/792/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/792/regulation/2/2)
+[^c-a9a36efed7e65b29cfcc25b35ba0814e]: Textual amendment: [Reg. 20A](https://www.legislation.gov.uk/uksi/1994/2946/regulation/20A) inserted (27.3.2009) by [The Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/792)](https://www.legislation.gov.uk/uksi/2009/792), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/792/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/792/regulation/2/2)
 
-[^key-c4b0322c671267732d348fda869a814d]: Textual amendment: Words in reg. 21 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/2/a)
+[^c-c4b0322c671267732d348fda869a814d]: Textual amendment: Words in reg. 21 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/2/a)
 
-[^key-90acd57fb3c053690799d0ad0e29b504]: Textual amendment: Reg. 21(aa) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/2/b)
+[^c-90acd57fb3c053690799d0ad0e29b504]: Textual amendment: Reg. 21(aa) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/2/b)
 
-[^key-e67176c2fd3c0f163d5271dcb041ea77]: Textual amendment: Reg. 21(d)(e) added (1.10.2008) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/3/3)
+[^c-e67176c2fd3c0f163d5271dcb041ea77]: Textual amendment: Reg. 21(d)(e) added (1.10.2008) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2008 (S.I. 2008/2365)](https://www.legislation.gov.uk/uksi/2008/2365), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2365/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2008/2365/regulation/3/3)
 
-[^key-674ef0bd6b83b4254685c331c04261b6]: Textual amendment: Words in reg. 22 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/3/a)
+[^c-674ef0bd6b83b4254685c331c04261b6]: Textual amendment: Words in reg. 22 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/3/a)
 
-[^key-89cd0294255304c7201638d6dc7090bd]: Textual amendment: Words in reg. 22 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/3/b)
+[^c-89cd0294255304c7201638d6dc7090bd]: Textual amendment: Words in reg. 22 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/3/b)
 
-[^key-266740c8ed04c6d03071982026656ab1]: Textual amendment: Words in reg. 23 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/4/a)
+[^c-266740c8ed04c6d03071982026656ab1]: Textual amendment: Words in reg. 23 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/4/a)
 
-[^key-9b29ddaad7079c0f40b41c63b2adc85b]: Textual amendment: Words in reg. 23 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/4/b)
+[^c-9b29ddaad7079c0f40b41c63b2adc85b]: Textual amendment: Words in reg. 23 inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/4/b)
 
-[^key-a3d6d47385484a7f0ec4e064084fdf1a]: Textual amendment: Words in reg. 24(1)(2) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/a)
+[^c-a3d6d47385484a7f0ec4e064084fdf1a]: Textual amendment: Words in reg. 24(1)(2) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/a)
 
-[^key-f852da032504cd248f1c0c9edbacc144]: Textual amendment: Words in reg. 24(1) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/b)
+[^c-f852da032504cd248f1c0c9edbacc144]: Textual amendment: Words in reg. 24(1) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/b)
 
-[^key-88e60668829c8c316b3a1d073079657f]: Textual amendment: Words in reg. 24(3) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(c)(i)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/c/i)
+[^c-88e60668829c8c316b3a1d073079657f]: Textual amendment: Words in reg. 24(3) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(c)(i)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/c/i)
 
-[^key-739edbc0f063dd625c0ec3590d60f96d]: Textual amendment: Words in reg. 24(3) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/c/ii)
+[^c-739edbc0f063dd625c0ec3590d60f96d]: Textual amendment: Words in reg. 24(3) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/c/ii)
 
-[^key-0f1b003a9b3fe542c1f9ff3c5bd70b54]: Textual amendment: Words in reg. 24(3) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/c/iii)
+[^c-0f1b003a9b3fe542c1f9ff3c5bd70b54]: Textual amendment: Words in reg. 24(3) inserted (5.5.2006) by [The Social Security (PPF Payments and FAS Payments) (Consequential Amendments) Regulations 2006 (S.I. 2006/1069)](https://www.legislation.gov.uk/uksi/2006/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/1/1), [4(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2006/1069/regulation/4/5/c/iii)
 
-[^key-a4f6d7a7b9fde893bb796b31765cf912]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1994/2946/regulation/26) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/9/2)
+[^c-a4f6d7a7b9fde893bb796b31765cf912]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1994/2946/regulation/26) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/9/2)
 
-[^key-b65de9c77b488720ff729c26392c5f0d]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1994/2946/regulation/26) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/15)
+[^c-b65de9c77b488720ff729c26392c5f0d]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1994/2946/regulation/26) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/15)

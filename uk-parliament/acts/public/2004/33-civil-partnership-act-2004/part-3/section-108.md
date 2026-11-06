@@ -39,7 +39,7 @@ the court may, on the application of the third party, make an order requiring th
 
 (4) For the purposes of subsections (2) and (3), the time of granting a security, in the case of a heritable security, is the date of delivery of the deed creating the security.
 
-(5)[^key-307543861f15f30d7f14f6c83d1945c5] For the purposes of subsection (3), the time of granting a security, in the case of a statutory pledge, is—
+(5)[^c-307543861f15f30d7f14f6c83d1945c5] For the purposes of subsection (3), the time of granting a security, in the case of a statutory pledge, is—
 
 - (a) the date of delivery of the constitutive document of the statutory pledge, or
 - (b) where the statutory pledge is granted in an amendment document, the date of delivery of that document.
@@ -52,4 +52,4 @@ the court may, on the application of the third party, make an order requiring th
 
 [^c20602981]: Textual amendment: Words in [s. 108(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/108/3/a) substituted (30.6.2006) by [The Family Law (Scotland) Act 2006 (Consequential Modifications) Order 2006 (S.S.I. 2006/384)](https://www.legislation.gov.uk/ssi/2006/384), [art. 9](https://www.legislation.gov.uk/ssi/2006/384/article/9)
 
-[^key-307543861f15f30d7f14f6c83d1945c5]: Textual amendment: S. 108(5) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(8)](https://www.legislation.gov.uk/asp/2023/3/section/56/8), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-307543861f15f30d7f14f6c83d1945c5]: Textual amendment: S. 108(5) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(8)](https://www.legislation.gov.uk/asp/2023/3/section/56/8), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

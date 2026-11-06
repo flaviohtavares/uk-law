@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Sections 51 and 52: additional powers of Tribunal[^key-f43d344f61ba6ea458cd823cefe038fa]
+## 53. Sections 51 and 52: additional powers of Tribunal[^c-f43d344f61ba6ea458cd823cefe038fa]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f43d344f61ba6ea458cd823cefe038fa]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2016/18/section/53) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-f43d344f61ba6ea458cd823cefe038fa]: Commencement: [S. 53](https://www.legislation.gov.uk/nia/2016/18/section/53) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

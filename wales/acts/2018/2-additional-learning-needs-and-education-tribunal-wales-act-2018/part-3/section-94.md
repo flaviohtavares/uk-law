@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Remuneration and expenses[^key-c7d07aa5b43d2d372b72320eba8525a7]
+## 94. Remuneration and expenses[^c-c7d07aa5b43d2d372b72320eba8525a7]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Welsh Ministers may—
 
 ## Annotations
 
-[^key-c7d07aa5b43d2d372b72320eba8525a7]: Commencement: S. 94 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-c7d07aa5b43d2d372b72320eba8525a7]: Commencement: S. 94 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

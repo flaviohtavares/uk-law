@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Application of the 1981 Act[^key-a1d474b72c6492b06aaf4628fd65bea9]
+## 35. Application of the 1981 Act[^c-a1d474b72c6492b06aaf4628fd65bea9]
 
 *Extent: E+W+S*
 
@@ -42,13 +42,13 @@ summary: ''
 
 (9) In Schedule A1[^f00086] (counter-notice requiring purchase of land not in general vesting declaration), for paragraph 1(2) substitute—
 
-> (2) But see article 36(3) ([^key-fb5fdbe5e76f57f56ebd12ac966d8f91]acquisition of subsoil or airspace only) of the A46 Coventry Junctions (Walsgrave) Development Consent Order 2026, which excludes the acquisition of subsoil or airspace only from this Schedule.
+> (2) But see article 36(3) ([^c-fb5fdbe5e76f57f56ebd12ac966d8f91]acquisition of subsoil or airspace only) of the A46 Coventry Junctions (Walsgrave) Development Consent Order 2026, which excludes the acquisition of subsoil or airspace only from this Schedule.
 
 (10) References to the 1965 Act in the 1981 Act are to be construed as references to the 1965 Act as applied by section 125[^f00087] (application of compulsory acquisition provisions) of the 2008 Act (and as modified by article 34 (modification of Part 1 of the 1965 Act)) to the compulsory acquisition of land under this Order.
 
 ## Annotations
 
-[^key-a1d474b72c6492b06aaf4628fd65bea9]: Commencement: Art. 35 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-a1d474b72c6492b06aaf4628fd65bea9]: Commencement: Art. 35 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00080]: Footnote: Section 5 was amended by paragraphs 4 and 6 of Schedule 15 to the Housing and Planning Act 2016.
 
@@ -64,6 +64,6 @@ summary: ''
 
 [^f00086]: Footnote: Schedule A1 was inserted by paragraph 6 of Part 1 of Schedule 18 to the Housing and Planning Act 2016.
 
-[^key-fb5fdbe5e76f57f56ebd12ac966d8f91]: Textual amendment: [Art. 35(9)](https://www.legislation.gov.uk/uksi/2026/537/article/35/9) bracket inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-fb5fdbe5e76f57f56ebd12ac966d8f91]: Textual amendment: [Art. 35(9)](https://www.legislation.gov.uk/uksi/2026/537/article/35/9) bracket inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
 [^f00087]: Footnote: Section 125 was amended by section 216(3) of, and paragraph 17 of Schedule 16 to, the Housing and Planning Act 2016.

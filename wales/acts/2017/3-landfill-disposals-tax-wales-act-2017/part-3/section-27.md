@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Material removed from bed of river, sea or other water[^key-1e3787ee8d9bec6910fa52de4514e3df]
+## 27. Material removed from bed of river, sea or other water[^c-1e3787ee8d9bec6910fa52de4514e3df]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e3787ee8d9bec6910fa52de4514e3df]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2017/3/section/27) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-1e3787ee8d9bec6910fa52de4514e3df]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2017/3/section/27) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

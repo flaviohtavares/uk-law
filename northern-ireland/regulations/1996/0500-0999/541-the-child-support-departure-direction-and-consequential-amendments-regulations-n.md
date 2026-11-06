@@ -44,7 +44,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-81c247810990c7743d3e04a1be906f3c]
+### 1. Citation, commencement and interpretation[^c-81c247810990c7743d3e04a1be906f3c]
 
 (1) These Regulations may be cited as the Child Support Departure Direction and Consequential Amendments Regulations (Northern Ireland) 1996 and shall come into operation on 2nd December 1996.
 
@@ -66,7 +66,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
   - (a) an absent parent, or a person who is treated as an absent parent under regulation 20 of the Maintenance Assessments and Special Cases Regulations (persons treated as absent parents), whose liability under a maintenance assessment may be affected by any departure direction given following an application;
   - (b) a person with care, where the amount of child support maintenance payable under a maintenance assessment relevant to that person with care may be affected by any departure direction given following an application.
 
-### 2. Documents[^key-103075f348ff21a1d66d79edba2c2cb2]
+### 2. Documents[^c-103075f348ff21a1d66d79edba2c2cb2]
 
 (1) Where, under any provision of these Regulations—
 
@@ -82,7 +82,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 all those documents shall be treated as having been posted on the later or, as the case may be, the latest day of posting.
 
-### 3. Determination of amounts[^key-d96b1066f5c163181acf369b8850c0ec]
+### 3. Determination of amounts[^c-d96b1066f5c163181acf369b8850c0ec]
 
 (1) Where any amount is required to be determined for the purposes of these Regulations, it shall be determined as a weekly amount and any reference to such an amount shall be construed accordingly.
 
@@ -90,7 +90,7 @@ all those documents shall be treated as having been posted on the later or, as t
 
 ## Part II — Procedure on an Application for a Departure Direction and Preliminary Consideration
 
-### 4. Application for a departure direction[^key-595e817e6ff46dc91dd991d9cc7708e2]
+### 4. Application for a departure direction[^c-595e817e6ff46dc91dd991d9cc7708e2]
 
 (1) Every application shall be made in writing on a form (a “departure direction application form”) provided by the Department, or in such other manner, being in writing, as the Department may accept as sufficient in the circumstances of any particular case.
 
@@ -129,11 +129,11 @@ all those documents shall be treated as having been posted on the later or, as t
 
 (14) Regulation 8(1) shall apply to cases to which paragraph (11) applies but only in relation to the additional grounds or, as the case may be, those in relation to which there has been stated to be a change of circumstances and shall not apply to cases to which paragraph (13) applies.
 
-### 5. Amendment or withdrawal of application[^key-d83e47fb5ca0efce29daaa66ec508984]
+### 5. Amendment or withdrawal of application[^c-d83e47fb5ca0efce29daaa66ec508984]
 
 A person who has made an application may amend or withdraw his application by notice in writing to the Department at any time prior to a determination being made in relation to that application.
 
-### 6. Provision of information[^key-df95bb34bd75cffea6fc8066c1302854]
+### 6. Provision of information[^c-df95bb34bd75cffea6fc8066c1302854]
 
 (1) Where an application has been made, the Department may request further information or evidence from the applicant to enable that application to be determined.
 
@@ -141,13 +141,13 @@ A person who has made an application may amend or withdraw his application by no
 
 (3) Where the time limit specified in paragraph (2) is not complied with, the Department may determine that application, in the absence of that information or evidence.
 
-### 7. Rejection of application on completion of a preliminary consideration[^key-a46755d253218db133b27952599bf847]
+### 7. Rejection of application on completion of a preliminary consideration[^c-a46755d253218db133b27952599bf847]
 
 (1) The Department may, on completing a preliminary consideration of an application, reject that application on the ground set out in Article 28B(2)(*b*) of the Order if it appears to it that the difference between the current amount and the revised amount is less than £1·00.
 
 (2) Where an application has been rejected in accordance with paragraph (1), the Department shall, as soon as reasonably practicable, give notice of that rejection to the relevant persons.
 
-### 8. Procedure in relation to the determination of an application[^key-884e692d3ebc363213ab0f7396412e4a]
+### 8. Procedure in relation to the determination of an application[^c-884e692d3ebc363213ab0f7396412e4a]
 
 (1) Subject to paragraph (4), where an application has not failed within the meaning of Article 28D of the Order, the Department shall—
 
@@ -198,7 +198,7 @@ and may in addition take into account—
 
 (11) The Department may reconsider any application which has been determined by it or by a child support appeal tribunal under Article 28D(1)(*b*) of the Order where, after the determination of that application, it receives further information or evidence which it is satisfied is relevant to that application.
 
-### 9. Departure directions and persons in receipt of income support or income-based jobseeker’s allowance[^key-6e19186807820b8c492e389f93196fd8]
+### 9. Departure directions and persons in receipt of income support or income-based jobseeker’s allowance[^c-6e19186807820b8c492e389f93196fd8]
 
 (1) The costs referred to in regulations 13 to 18 shall not constitute special expenses where they are incurred by a person to or in respect of whom income support or income-based jobseeker’s allowance is paid.
 
@@ -206,7 +206,7 @@ and may in addition take into account—
 
 (3) A case shall not constitute a case under regulations 23 to 29 where the application is made by an absent parent to or in respect of whom income support or income-based jobseeker’s allowance is paid.
 
-### 10. Departure directions and interim maintenance assessments[^key-a73eda6aed480a05016958c8ec4c58c1]
+### 10. Departure directions and interim maintenance assessments[^c-a73eda6aed480a05016958c8ec4c58c1]
 
 (1) For the purposes of Article 28A(1) of the Order, the term “maintenance assessment” does not include—
 
@@ -216,17 +216,17 @@ and may in addition take into account—
 
 (2) For the purposes of this regulation, Category A, Category B, Category C and Category D interim maintenance assessments are as defined in regulation 8(3) of the Maintenance Assessment Procedure Regulations (categories of interim maintenance assessment).
 
-### 11. Departure application and review under Article 19 of the Order[^key-d849898de789d59e30b139c8cb8efae7]
+### 11. Departure application and review under Article 19 of the Order[^c-d849898de789d59e30b139c8cb8efae7]
 
 Where the effective date of any fresh assessment made on completion of a review under Article 19 of the Order[^f00007] is later than the effective date of any departure direction given in response to an application for a direction, the provisions of regulations 19, 20 and 21 of the Maintenance Assessment Procedure Regulations shall apply to that review as if for references in those regulations to the original assessment there were substituted references to the fresh assessment made in consequence of the departure direction.
 
-### 12. Meaning of “benefit” for the purposes of Article 28E of the Order[^key-2b3306722e2b2ab8d2a7049715e67e9c]
+### 12. Meaning of “benefit” for the purposes of Article 28E of the Order[^c-2b3306722e2b2ab8d2a7049715e67e9c]
 
 For the purposes of Article 28E of the Order, “benefit” means income support, income-based jobseeker’s allowance, family credit, disability working allowance and housing benefit.
 
 ## Part III — Special Expenses
 
-### 13. Costs incurred in travelling to work[^key-5506c58cdd61319655096a968e550085]
+### 13. Costs incurred in travelling to work[^c-5506c58cdd61319655096a968e550085]
 
 (1) Subject to paragraphs (2) and (3), the following costs shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to the Order where they are incurred by the applicant for the purposes of travel between his home and his normal place of work—
 
@@ -240,7 +240,7 @@ and any minor incidental costs, such as tolls or fees for the use of a particula
 
 (3) Costs which can be set off against the income of the applicant under the Income and Corporation Taxes Act 1988[^f00008] shall not constitute expenses for the purposes of paragraph (1).
 
-### 14. Contact costs[^key-44289fbfc56293372c23ac6c33d5bb89]
+### 14. Contact costs[^c-44289fbfc56293372c23ac6c33d5bb89]
 
 (1) Where at the time a departure direction is applied for a set pattern has been established as to frequency of contact between the absent parent and a child in respect of whom the current assessment was made, the following costs, based upon that pattern and incurred by that absent parent for the purpose of maintaining contact with that child, shall, subject to paragraphs (2) to (6), constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to the Order—
 
@@ -262,7 +262,7 @@ and any minor incidental costs, such as tolls or fees for the use of a particula
 
 (7) Where, at the time a departure direction is applied for, no set pattern has been established as to frequency of contact between the absent parent and a child in respect of whom the current assessment was made, but the Department is satisfied that that absent parent and the person with care of that child have agreed upon a pattern of contact for the future, the costs mentioned in paragraph (1) and which are based upon that intended pattern of contact shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to the Order, and paragraphs (2) to (6) shall apply to that application.
 
-### 15. Illness or disability[^key-243bca6a51713d874de9a4a5ec388369]
+### 15. Illness or disability[^c-243bca6a51713d874de9a4a5ec388369]
 
 (1) Subject to paragraphs (2) to (4), the costs being met by the applicant in respect of the items listed in sub-paragraphs (*a*) to (*m*), which arise from long-term illness or disability of that applicant or a dependant of that applicant and which are in excess of the costs which would be incurred if that illness or disability did not exist, shall constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the Order—
 
@@ -309,7 +309,7 @@ only the net amount of the costs incurred in respect of the items listed in para
 - (b) “long-term illness” means an illness from which the applicant or his dependant is suffering at the date of the application and which is likely to last for at least 52 weeks from and including that date or if likely to be shorter than 52 weeks, for the rest of the life of that applicant or his dependant;
 - (c) “health services” has the same meaning as in Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00010].
 
-### 16. Debts incurred before the absent parent became an absent parent[^key-c71982d3f478520df882c3411e298878]
+### 16. Debts incurred before the absent parent became an absent parent[^c-c71982d3f478520df882c3411e298878]
 
 (1) Subject to paragraphs (2) to (4), repayment of debts incurred—
 
@@ -352,7 +352,7 @@ shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to t
 - (c) “qualifying lender” has the meaning given to it in section 376(4) of the Income and Corporation Taxes Act 1988;
 - (d) “repairs and improvements” means major repairs necessary to maintain the fabric of the home and any of the measures set out in paragraph 2(*a*) to (*j*) of Schedule 3 to the Maintenance Assessments and Special Cases Regulations (eligible housing costs) and other improvements which the Department considers reasonable in the circumstances where those measures or other improvements are undertaken with a view to improving fitness for occupation of the home.
 
-### 17. Pre-1993 financial commitments[^key-05571a0cf1e85b1dd7e40e7a3a9c7e53]
+### 17. Pre-1993 financial commitments[^c-05571a0cf1e85b1dd7e40e7a3a9c7e53]
 
 (1) A financial commitment entered into by an absent parent before 5th April 1993, except any commitment of a kind listed in regulation 16(2)(*b*) to (*g*) and (*j*) or which has been wholly or partly taken into account in the calculation of a maintenance assessment shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to the Order where—
 
@@ -364,7 +364,7 @@ shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to t
 - (a) “court order” means an order made under the statutory provisions listed in or prescribed under Article 10(11) of the Order, for the making or securing the making of financial provision for the benefit of a child in respect of whom the current assessment was made;
 - (b) “maintenance agreement” means an agreement in writing for the making or securing the making of financial provision for the benefit of a child in respect of whom the current assessment was made.
 
-### 18. Costs incurred in supporting certain children[^key-f9fdf4eecc196f371249d4a3a8af8201]
+### 18. Costs incurred in supporting certain children[^c-f9fdf4eecc196f371249d4a3a8af8201]
 
 (1) The costs incurred by a parent in supporting a child who is not his child but who is part of his family (a “relevant child”) shall constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B to the Order if the conditions set out in paragraph (2) are satisfied and shall, if those conditions are satisfied, equal the amount specified in paragraph (3).
 
@@ -403,7 +403,7 @@ shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to t
 - (a) a child who is not the child of a particular person is a part of that person’s family where that child is the child of a current or former partner of that person;
 - (b) “relevant Schedule” means Schedule 2 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00014].
 
-### 19. Special expenses for a case falling within regulation 13, 14, 16 or 17[^key-ffa93abd6d53b95593b9af0b55a16f6f]
+### 19. Special expenses for a case falling within regulation 13, 14, 16 or 17[^c-ffa93abd6d53b95593b9af0b55a16f6f]
 
 (1) This regulation applies where the expenses of an applicant fall within one or more of the descriptions of expenses falling within regulation 13 (travel to work costs), 14 (contact costs), 16 (debts incurred before the absent parent became an absent parent) or 17 (pre-1993 financial commitments).
 
@@ -412,13 +412,13 @@ shall constitute expenses for the purposes of paragraph 2(2) of Schedule 4B to t
 - (a) where the expenses fall within only one description of expenses, those expenses in excess of £15·00;
 - (b) where the expenses fall within more than one description of expenses, the aggregate of those expenses in excess of £15·00.
 
-### 20. Application for a departure direction in respect of special expenses other than those with respect to which a direction has already been given[^key-0fbd1dfe06e5e9e1644478039a9065e0]
+### 20. Application for a departure direction in respect of special expenses other than those with respect to which a direction has already been given[^c-0fbd1dfe06e5e9e1644478039a9065e0]
 
 Where a departure direction with respect to special expenses falling within one or more of the descriptions of expenses falling within regulation 13, 14, 16 or 17 has already been given and an application with respect to special expenses falling within one or more of those descriptions of expenses is made where none of those expenses are ones with respect to which the earlier direction has been given, the special expenses with respect to which any later direction is given shall be the expenses, determined in accordance with regulation 13, 14, 16 or 17, as the case may be, with respect to which the later application is made, and the provisions of regulation 19 shall not apply.
 
 ## Part IV — Property or Capital Transfers
 
-### 21. Prescription of certain terms for the purposes of paragraphs 3 and 4 of Schedule 4B to the Order[^key-17b1f0ec738df12e7e35ca36714867cb]
+### 21. Prescription of certain terms for the purposes of paragraphs 3 and 4 of Schedule 4B to the Order[^c-17b1f0ec738df12e7e35ca36714867cb]
 
 (1) For the purposes of paragraphs 3(1)(*a*) and 4(1)(*a*) of Schedule 4B to the Order—
 
@@ -438,7 +438,7 @@ Where a departure direction with respect to special expenses falling within one 
 - (a) the amount of child support maintenance payable under any fresh maintenance assessment which would be made in consequence of a departure direction differs from the amount of child support maintenance payable under that current assessment by less than £1·00; or
 - (b) the transfer referred to in paragraph (2) was for a specified period only and that period ended before the effective date of any departure direction which would otherwise have been given.
 
-### 22. Value of a transfer of property and its equivalent weekly value for a case falling within paragraph 3 of Schedule 4B to the Order[^key-cf546cc50ad4777252bd3665cb687208]
+### 22. Value of a transfer of property and its equivalent weekly value for a case falling within paragraph 3 of Schedule 4B to the Order[^c-cf546cc50ad4777252bd3665cb687208]
 
 (1) Where the conditions specified in paragraph 3(1) of Schedule 4B to the Order are satisfied, the value of a transfer of property for the purposes of that paragraph shall be that part of the transfer made by the absent parent (making allowance for any transfer by the person with care to the absent parent) which the Department is satisfied is in lieu of maintenance.
 
@@ -454,7 +454,7 @@ Where a departure direction with respect to special expenses falling within one 
 
 ## Part V — Additional Cases
 
-### 23. Assets capable of producing income or higher income[^key-b83b8cbfc7063e4eee984daf0667bd1a]
+### 23. Assets capable of producing income or higher income[^c-b83b8cbfc7063e4eee984daf0667bd1a]
 
 (1) Subject to paragraphs (2) and (3), a case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where—
 
@@ -486,14 +486,14 @@ Where a departure direction with respect to special expenses falling within one 
 - (a) “stock” includes shares, debentures and any securities of the body concerned, whether or not constituting a charge on the assets of that body;
 - (b) “unit trust” means any trust established for the purpose, or having the effect of providing, for persons having funds available for investment, facilities for the participation by them as beneficiaries under the trust, in any profits or income arising from the acquisition, holding, management or disposal of any property whatsoever.
 
-### 24. Diversion of income[^key-a343402346e1c8392eed42a9a3da7796]
+### 24. Diversion of income[^c-a343402346e1c8392eed42a9a3da7796]
 
 A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where—
 
 - (a) the non-applicant has the ability to control the amount of income he receives, including earnings from employment or self-employment and dividends from shares, whether or not the whole of that income is derived from the company or business from which his earnings are derived; and
 - (b) the Department is satisfied that the non-applicant has unreasonably reduced the amount of his income which would otherwise fall to be taken into account under regulation 7 or 8 of the Maintenance Assessments and Special Cases Regulations by diverting it to other persons or for purposes other than the provision of such income for himself.
 
-### 25. Life-style inconsistent with declared income[^key-45f8b327a6313a146c793c501d47973a]
+### 25. Life-style inconsistent with declared income[^c-45f8b327a6313a146c793c501d47973a]
 
 (1) Subject to paragraph (2), a case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where the Department is satisfied that the current maintenance assessment is based upon a level of income of the non-applicant which is substantially lower than the level of income required to support the overall life-style of that non-applicant.
 
@@ -506,7 +506,7 @@ A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B
 
 (3) Where the Department is satisfied in a particular case that the provisions of paragraph (1) would apply but for the provisions of paragraph (2)(*b*)(ii), it may, whether or not any application on that ground has been made, consider whether the case falls within regulation 27.
 
-### 26. Unreasonably high housing costs[^key-a770eca65148bc4310d95b074b9c3f16]
+### 26. Unreasonably high housing costs[^c-a770eca65148bc4310d95b074b9c3f16]
 
 A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where—
 
@@ -514,15 +514,15 @@ A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B
 - (b) the non-applicant falls within paragraph (2) of that regulation or would fall within that paragraph if it applied to parents with care; and
 - (c) the Department is satisfied that the housing costs of the non-applicant are substantially higher than is necessary taking into account any special circumstances applicable to that non-applicant.
 
-### 27. Partner’s contribution to housing costs[^key-9fc7388f85e515626d441917252633fe]
+### 27. Partner’s contribution to housing costs[^c-9fc7388f85e515626d441917252633fe]
 
 A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where a partner of the non-applicant occupies the home with him and the Department considers that it is reasonable for that partner to contribute to the payment of the housing costs of the non-applicant.
 
-### 28. Unreasonably high travel costs[^key-e7f931f367d96e9b69a452473a826806]
+### 28. Unreasonably high travel costs[^c-e7f931f367d96e9b69a452473a826806]
 
 A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where an amount in respect of travel to work costs has been included in the calculation of the exempt income of the non-applicant under regulation 9(1)(*i*) of the Maintenance Assessments and Special Cases Regulations[^f00017] (exempt income: calculation or estimation of E) or, as the case may be, under regulation 10 of those Regulations[^f00018] (exempt income: calculation or estimation of F) applying regulation 9(1)(*i*), and the Department is satisfied that, in all the circumstances of the case, that amount is unreasonably high.
 
-### 29. Travel costs to be disregarded[^key-ce7f6a68dea0e79d5c56560c5ff6faf3]
+### 29. Travel costs to be disregarded[^c-ce7f6a68dea0e79d5c56560c5ff6faf3]
 
 A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B to the Order where—
 
@@ -531,7 +531,7 @@ A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B
 
 ## Part VI — Factors to be Taken into Account for the Purposes of Article 28F of the Order
 
-### 30. Factors to be taken into account and not to be taken into account in determining whether it would be just and equitable to give a departure direction[^key-1766f16428804dc8187e72f6bf6123e6]
+### 30. Factors to be taken into account and not to be taken into account in determining whether it would be just and equitable to give a departure direction[^c-1766f16428804dc8187e72f6bf6123e6]
 
 (1) The factors to be taken into account in determining whether it would be just and equitable to give a departure direction in any case shall include—
 
@@ -553,11 +553,11 @@ A case shall constitute a case for the purposes of paragraph 5(1) of Schedule 4B
 
 ## Part VII — Effective Date and Duration of a Departure Direction
 
-### 31. Refusal to give a departure direction under Article 28F(4) of the Order[^key-1ad62efd3faff9acbf2734f6b506eed0]
+### 31. Refusal to give a departure direction under Article 28F(4) of the Order[^c-1ad62efd3faff9acbf2734f6b506eed0]
 
 The Department shall not give a departure direction in accordance with Article 28F of the Order if it is satisfied that the difference between the current amount and the revised amount is less than £1·00.
 
-### 32. Effective date of a departure direction[^key-ed00c9e1ec68717a541a1ccaa0382721]
+### 32. Effective date of a departure direction[^c-ed00c9e1ec68717a541a1ccaa0382721]
 
 (1) Where an application is made on the grounds set out in Article 28A(2)(*a*) of the Order (the effect of the current assessment) and that application is given or sent within 28 days of the date of notification of the current assessment (whether or not that assessment has been made following an interim maintenance assessment), a departure direction given in response to that application shall take effect—
 
@@ -587,7 +587,7 @@ any departure direction given in response to the later application shall take ef
 
 (8) Where a direction is given following an application that is treated as having been made by virtue of the provisions of regulation 4(13), that direction shall take effect on the first day of the maintenance period during which the Department is satisfied that a ground in respect of which the application for the earlier direction was made no longer applies, and the earlier direction shall cease to have effect immediately before the direction that is given takes effect.
 
-### 33. Cancellation of a departure direction following a review under Article 18, 19, 20 or 21 of the Order or on a change of circumstances[^key-cdfd570d6eadd638db638d5eb7e36b24]
+### 33. Cancellation of a departure direction following a review under Article 18, 19, 20 or 21 of the Order or on a change of circumstances[^c-cdfd570d6eadd638db638d5eb7e36b24]
 
 (1) Where the Department is satisfied that, following a review under Article 18, 19, 20 or 21 of the Order[^f00019] or a change in the circumstances of the case, it is no longer appropriate for a departure direction to continue to have effect, it shall cancel that direction.
 
@@ -595,13 +595,13 @@ any departure direction given in response to the later application shall take ef
 
 (3) Where a departure direction has effect and the applicant in respect of whom the direction has been given applies for a further departure direction in respect of the same grounds, any departure direction given in response to that application shall take effect in accordance with the provisions of regulation 32(1), (2) and (4), and the earlier direction shall cease to have effect immediately prior to the coming into effect of the later direction.
 
-### 34. Cancellation of a departure direction on recognition of an error[^key-8bf49e53bf8d303f86cb818ae2537e2e]
+### 34. Cancellation of a departure direction on recognition of an error[^c-8bf49e53bf8d303f86cb818ae2537e2e]
 
 (1) Where the Department is satisfied that a departure direction was given in error, it shall cancel that direction.
 
 (2) The cancellation of a departure direction under paragraph (1) shall take effect from the date on which that direction took effect.
 
-### 35. Termination and suspension of departure directions[^key-bf738aca87f249cbfc7e7fd1c1633d0d]
+### 35. Termination and suspension of departure directions[^c-bf738aca87f249cbfc7e7fd1c1633d0d]
 
 (1) Subject to paragraphs (2) to (4), where a departure direction has effect in relation to the amount of child support maintenance fixed by a maintenance assessment which is cancelled or ceases to have effect, that departure direction shall cease to have effect and shall not subsequently take effect.
 
@@ -621,13 +621,13 @@ that departure direction shall be suspended until that interim maintenance asses
 
 ## Part VIII — Maintenance Assessment Following a Departure Direction
 
-### 36. Effect of a departure direction — general[^key-3ef151f74ad518b76a896d819c34de24]
+### 36. Effect of a departure direction — general[^c-3ef151f74ad518b76a896d819c34de24]
 
 (1) Except where a case falls within regulation 22, 41, 42 or 43, a departure direction shall specify, as the basis on which the amount of child support maintenance is to be fixed by any fresh assessment made in consequence of the direction, that the amount of net income or exempt income of the parent with care or absent parent or the amount of protected income of the absent parent be increased or, as the case may be, decreased in accordance with those provisions of regulations 37, 38 and 40 which are applicable to the particular case.
 
 (2) Where the provisions of paragraph (1) apply to a departure direction, the amount of child support maintenance fixed by a fresh maintenance assessment shall be determined in accordance with the provisions of Part I of Schedule 1 to the Order, but with the substitution of the amounts changed in consequence of the direction for the amounts determined in accordance with those provisions.
 
-### 37. Effect of a departure direction in respect of special expenses — exempt income[^key-fd22b022efa05ff96d276f9bf155a955]
+### 37. Effect of a departure direction in respect of special expenses — exempt income[^c-fd22b022efa05ff96d276f9bf155a955]
 
 (1) Subject to paragraph (2), where a departure direction is given in respect of special expenses, the exempt income of the absent parent or, as the case may be, the parent with care shall be increased by the amount constituting the special expenses or the aggregate of the special expenses determined in accordance with regulations 13 to 20.
 
@@ -640,7 +640,7 @@ that departure direction shall be suspended until that interim maintenance asses
 
 (4) Where regulation 16(4) applies, a departure direction may be given in respect only of repayment of that part of the debt incurred which is referable to the debt, repayment of which would have fallen within paragraph (1) of that regulation, based upon the amount, rate of repayment and repayment period agreed in respect of that part at the time it was taken out.
 
-### 38. Effect of a departure direction in respect of special expenses — protected income[^key-318a350d8f43e517a7045ea5a6d15fa8]
+### 38. Effect of a departure direction in respect of special expenses — protected income[^c-318a350d8f43e517a7045ea5a6d15fa8]
 
 (1) Subject to paragraphs (2) and (3), where a departure direction is given with respect to special expenses in response to an absent parent’s application, his protected income shall be determined in accordance with regulation 11(1) of the Maintenance Assessments and Special Cases Regulations[^f00021] with the modification that the increase of exempt income as determined in accordance with regulation 37 shall be added to the aggregate of the amounts mentioned in regulation 11(1)(*a*) to (*kk*)[^f00022] of the Maintenance Assessments and Special Cases Regulations.
 
@@ -648,7 +648,7 @@ that departure direction shall be suspended until that interim maintenance asses
 
 (3) Where a departure direction is given with respect to costs which include costs incurred in travelling to work, the absent parent’s protected income shall be determined in accordance with paragraph (1), but without inclusion of the amount determined in accordance with regulation 11(1)(*kk*) of the Maintenance Assessments and Special Cases Regulations within the aggregate of the amounts mentioned in that regulation.
 
-### 39. Effect of a departure direction in respect of a transfer of property[^key-521154551dbe4ec628efeb08c55e0e02]
+### 39. Effect of a departure direction in respect of a transfer of property[^c-521154551dbe4ec628efeb08c55e0e02]
 
 (1) Where a departure direction is given in respect of a transfer of property for a case falling within paragraph 3 of Schedule 4B to the Order—
 
@@ -668,7 +668,7 @@ that departure direction shall be suspended until that interim maintenance asses
 
 (7) This regulation is subject to regulation 42.
 
-### 40. Effect of a departure direction in respect of additional cases[^key-4312c2a22f8b13861c4cedc42dfba33d]
+### 40. Effect of a departure direction in respect of additional cases[^c-4312c2a22f8b13861c4cedc42dfba33d]
 
 (1) This regulation applies where a departure direction is given for an additional case falling within paragraph 5 of Schedule 4B to the Order.
 
@@ -697,7 +697,7 @@ less any income received in respect of that asset which has been taken into acco
 
 ## Part IX — Maintenance Assessment Following a Departure Direction: Particular Cases
 
-### 41. Child support maintenance payable where effect of a departure direction would be to decrease an absent parent’s assessable income but case still fell within paragraph 2(3) of Schedule 1 to the Order[^key-31a76c2f8070fc4d473ca69e58388c03]
+### 41. Child support maintenance payable where effect of a departure direction would be to decrease an absent parent’s assessable income but case still fell within paragraph 2(3) of Schedule 1 to the Order[^c-31a76c2f8070fc4d473ca69e58388c03]
 
 (1) Subject to regulation 42 and paragraph (8), where the effect of a departure direction would, but for the provisions of paragraphs (2) to (9), be to reduce an absent parent’s assessable income and his assessable income following that direction would be such that the case fell within paragraph 2(3) of Schedule 1 to the Order (additional element of maintenance payable), the amount of child support maintenance payable shall be determined in accordance with paragraphs (2) to (5).
 
@@ -726,7 +726,7 @@ less any income received in respect of that asset which has been taken into acco
 - (a) in paragraph (2), A would be the absent parent’s assessable income following the later direction but for the provisions of paragraphs (3) to (5);
 - (b) the references to regulation 7 in paragraph (4) are omitted.
 
-### 42. Application of regulation 41 where there is a transfer of property falling within paragraph 3 of Schedule 4B to the Order[^key-32ffc58bd15644df376c1aac19d631bf]
+### 42. Application of regulation 41 where there is a transfer of property falling within paragraph 3 of Schedule 4B to the Order[^c-32ffc58bd15644df376c1aac19d631bf]
 
 (1) Where the application of regulation 41 to a case would result in a change in the amount of child support maintenance payable and a direction is given in respect of a transfer of property falling within paragraph 3 of Schedule 4B to the Order, regulation 41 shall be applied subject to the modifications set out in paragraphs (2) and (3).
 
@@ -739,7 +739,7 @@ less any income received in respect of that asset which has been taken into acco
 
 (4) Where the application of the provisions of paragraph (3) results in a departure direction being given, the amount of child support maintenance payable following that direction shall be the revised amount as defined in paragraph (3).
 
-### 43. Maintenance assessment following a departure direction for certain cases falling within regulation 22 of the Maintenance Assessments and Special Cases Regulations[^key-6363b953a6e6b3e385d4fa574b4d552a]
+### 43. Maintenance assessment following a departure direction for certain cases falling within regulation 22 of the Maintenance Assessments and Special Cases Regulations[^c-6363b953a6e6b3e385d4fa574b4d552a]
 
 (1) Where the provisions of regulation 41 or 42 are applicable to a case falling within regulation 22 of the Maintenance Assessments and Special Cases Regulations[^f00027] (multiple applications relating to an absent parent), those provisions shall apply for the purposes of determining the total maintenance payable in consequence of a departure direction.
 
@@ -754,7 +754,7 @@ less any income received in respect of that asset which has been taken into acco
 
 (3) Where, in a case falling within regulation 22 of the Maintenance Assessments and Special Cases Regulations, a departure direction has been given in respect of an absent parent in a case falling within paragraph 3 of Schedule 4B to the Order (property or capital transfers), the equivalent weekly value of the transfer of property as calculated in accordance with regulation 22 of these Regulations shall be deducted from the amount of the maintenance assessment in respect of the person with care or child to or in respect of whom the property transfer was made.
 
-### 44. Maintenance assessment following a departure direction where there is a phased maintenance assessment[^key-1d8684f61921bfc7dc29083740c5f968]
+### 44. Maintenance assessment following a departure direction where there is a phased maintenance assessment[^c-1d8684f61921bfc7dc29083740c5f968]
 
 (1) Where a departure direction is given in a case falling within a relevant statutory provision, the assessment made in consequence of that direction shall be the assessment that fixes the amount of child support maintenance that would be payable but for the provisions of that statutory provision (“the unadjusted departure amount”).
 
@@ -788,7 +788,7 @@ less any income received in respect of that asset which has been taken into acco
 
 ## Part X — Miscellaneous
 
-### 45. Regular payments condition[^key-f15f668e281670fe087eae025e116fc4]
+### 45. Regular payments condition[^c-f15f668e281670fe087eae025e116fc4]
 
 (1) For the purposes of Article 28C(2)(*b*) of the Order (regular payments condition — reduced payments), reduced payments shall, subject to paragraph (3), be such payments as would be equal to the payments of child support maintenance fixed by the fresh maintenance assessment that would be made if the circumstances of the case were those set out in paragraph (2).
 
@@ -802,7 +802,7 @@ less any income received in respect of that asset which has been taken into acco
 
 (4) Where the absent parent, following written notice under Article 28C(8) of the Order, fails within 28 days of that notice to comply with the regular payments condition that was imposed on him, the application shall lapse.
 
-### 46. Special case — departure direction having effect from date earlier than effective date of current assessment[^key-dde2338f7ae0fc4cd65e33bd80d05147]
+### 46. Special case — departure direction having effect from date earlier than effective date of current assessment[^c-dde2338f7ae0fc4cd65e33bd80d05147]
 
 (1) A case shall be treated as a special case for the purposes of the Order if the conditions specified in paragraph (2) are satisfied.
 
@@ -817,7 +817,7 @@ less any income received in respect of that asset which has been taken into acco
 
 ## Part XI — Transitional Provisions
 
-### 47. Transitional provisions — maintenance assessment in force prior to 2nd December 1996[^key-bb636883043d2e0f08c419caefc3c336]
+### 47. Transitional provisions — maintenance assessment in force prior to 2nd December 1996[^c-bb636883043d2e0f08c419caefc3c336]
 
 Where—
 
@@ -826,7 +826,7 @@ Where—
 
 any departure direction given in response to that application shall take effect on the first day of the first maintenance period commencing on or after 2nd December 1996.
 
-### 48. Transitional provisions — new maintenance assessment made before 2nd December whose effective date is on or after 2nd December 1996[^key-a6aea044176362fe040e0e68bc5cb99b]
+### 48. Transitional provisions — new maintenance assessment made before 2nd December whose effective date is on or after 2nd December 1996[^c-a6aea044176362fe040e0e68bc5cb99b]
 
 Where a new maintenance assessment is made before 2nd December 1996 but the effective date of that assessment is a date on or after 2nd December 1996—
 
@@ -835,7 +835,7 @@ Where a new maintenance assessment is made before 2nd December 1996 but the effe
 
 ## Part XII — Consequential Amendments
 
-### 49. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-d36f3c83d7bfbbc21f02f1bd5fa1d3fd]
+### 49. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^c-d36f3c83d7bfbbc21f02f1bd5fa1d3fd]
 
 (1) The Child Support (Information, Evidence and Disclosure) Regulations (Northern Ireland) 1992[^f00030] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -860,7 +860,7 @@ Where a new maintenance assessment is made before 2nd December 1996 but the effe
 
 (5) In regulation 10A(2)[^f00033] (disclosure of information by a child support officer) the words “or in connection with” shall be omitted and at the end there shall be added “or in connection with a departure direction”.
 
-### 50. Amendment of the Maintenance Assessment Procedure Regulations[^key-6ad5672352f79a0b1fd0c161b19dee40]
+### 50. Amendment of the Maintenance Assessment Procedure Regulations[^c-6ad5672352f79a0b1fd0c161b19dee40]
 
 In regulation 10 of the Maintenance Assessment Procedure Regulations (notification of a new or a fresh maintenance assessment)—
 
@@ -898,7 +898,7 @@ In regulation 10 of the Maintenance Assessment Procedure Regulations (notificati
 
   .
 
-### 51. Amendment of the Maintenance Assessments and Special Cases Regulations[^key-144e84047dff6b00936e90bf14c994b5]
+### 51. Amendment of the Maintenance Assessments and Special Cases Regulations[^c-144e84047dff6b00936e90bf14c994b5]
 
 (1) The Maintenance Assessments and Special Cases Regulations shall be amended in accordance with paragraphs (2) to (4).
 
@@ -930,11 +930,11 @@ In regulation 10 of the Maintenance Assessment Procedure Regulations (notificati
 
   .
 
-### 52. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations[^key-21d7cff8354764ee33d7e0326a36134a]
+### 52. Amendment of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations[^c-21d7cff8354764ee33d7e0326a36134a]
 
 In regulation 10(2) of the Child Support (Arrears, Interest and Adjustment of Maintenance Assessments) Regulations (Northern Ireland) 1992[^f00045] (adjustment of the amount payable under a maintenance assessment) after “subsequently” there shall be inserted “revised as a result of a departure direction having been given or”.
 
-### 53. Amendment of the Child Support Appeal Tribunals (Procedure) Regulations[^key-51269bcb42d2d9742852519ea60d5b90]
+### 53. Amendment of the Child Support Appeal Tribunals (Procedure) Regulations[^c-51269bcb42d2d9742852519ea60d5b90]
 
 (1) The Child Support Appeal Tribunals (Procedure) Regulations (Northern Ireland) 1993[^f00046] shall be amended in accordance with paragraphs (2) to (11).
 
@@ -1050,7 +1050,7 @@ Assistant Secretary
 
 Regulation 22
 
-**1.**[^key-2d591d7614a7cd5c2911f521314e57e1] (1) Subject to paragraphs 3 and 4, the equivalent weekly value of a transfer of property shall be calculated by multiplying the value of a transfer of property determined in accordance with regulation 22(1) and (2) by the relevant factor specified in the Table set out in paragraph 2 (“the Table”).
+**1.**[^c-2d591d7614a7cd5c2911f521314e57e1] (1) Subject to paragraphs 3 and 4, the equivalent weekly value of a transfer of property shall be calculated by multiplying the value of a transfer of property determined in accordance with regulation 22(1) and (2) by the relevant factor specified in the Table set out in paragraph 2 (“the Table”).
 
 (2) For the purposes of sub-paragraph (1), the relevant factor is the number in the Table at the intersection of the column for the statutory rate and of the row for the number of years of liability.
 
@@ -1063,7 +1063,7 @@ Regulation 22
 
   and where that period includes a fraction of a year, that fraction shall be treated as a full year if it is either one half or exceeds one half of a year, and shall otherwise be disregarded.
 
-**2.**[^key-bf4ff4268b3b46b01722f6c57063f797] The Table referred to in paragraph 1(1) is set out below—
+**2.**[^c-bf4ff4268b3b46b01722f6c57063f797] The Table referred to in paragraph 1(1) is set out below—
 
 THE TABLE
 
@@ -1094,11 +1094,11 @@ THE TABLE
 </tbody>
 </table>
 
-**3.**[^key-104b9fb09dd09ea9a2d8c4f9498d8643] The equivalent weekly value of the property transferred shall be nil if the value of the transfer of the property is less than £5,000.
+**3.**[^c-104b9fb09dd09ea9a2d8c4f9498d8643] The equivalent weekly value of the property transferred shall be nil if the value of the transfer of the property is less than £5,000.
 
-**4.**[^key-e9431ec3ea9ba3df769492b721a939a9] The Department may determine a lower equivalent weekly value than that determined in accordance with paragraphs 1 and 2 where the amount of child support maintenance that would be payable in consequence of a departure direction specifying that value is lower than the amount of maintenance that was payable under the court order or written agreement referred to in regulation 21.
+**4.**[^c-e9431ec3ea9ba3df769492b721a939a9] The Department may determine a lower equivalent weekly value than that determined in accordance with paragraphs 1 and 2 where the amount of child support maintenance that would be payable in consequence of a departure direction specifying that value is lower than the amount of maintenance that was payable under the court order or written agreement referred to in regulation 21.
 
-**5.**[^key-85e1232455ca90440b48d3225a00659a] In this Schedule, “maintenance” has the same meaning as in paragraph 3(2) of Schedule 4B to the Order.
+**5.**[^c-85e1232455ca90440b48d3225a00659a] In this Schedule, “maintenance” has the same meaning as in paragraph 3(2) of Schedule 4B to the Order.
 
 (This note is not part of the Regulations.)
 
@@ -1128,61 +1128,61 @@ Regulations 49 to 53 provide for amendments to be made to five sets of Child Sup
 
 [^f00001]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Articles 28A to 28G and Schedules 4A and 4B were inserted by Article 3 of the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
 
-[^key-81c247810990c7743d3e04a1be906f3c]: Commencement: Reg. 1 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-81c247810990c7743d3e04a1be906f3c]: Commencement: Reg. 1 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1992 No. 340](https://www.legislation.gov.uk/nisr/1992/340); relevant amending regulations are [S.R. 1994 No. 37](https://www.legislation.gov.uk/nisr/1994/37) and [S.R. 1995 Nos. 19](https://www.legislation.gov.uk/nisr/1995/19), [162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
 [^f00003]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341); the relevant amending regulations are [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65), [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475) and [S.R. 1996 Nos. 289](https://www.legislation.gov.uk/nisr/1996/289) and [317](https://www.legislation.gov.uk/nisr/1996/317)
 
-[^key-103075f348ff21a1d66d79edba2c2cb2]: Commencement: Reg. 2 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-103075f348ff21a1d66d79edba2c2cb2]: Commencement: Reg. 2 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-d96b1066f5c163181acf369b8850c0ec]: Commencement: Reg. 3 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-d96b1066f5c163181acf369b8850c0ec]: Commencement: Reg. 3 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-595e817e6ff46dc91dd991d9cc7708e2]: Commencement: Reg. 4 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-595e817e6ff46dc91dd991d9cc7708e2]: Commencement: Reg. 4 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-d83e47fb5ca0efce29daaa66ec508984]: Commencement: Reg. 5 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-d83e47fb5ca0efce29daaa66ec508984]: Commencement: Reg. 5 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-df95bb34bd75cffea6fc8066c1302854]: Commencement: Reg. 6 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-df95bb34bd75cffea6fc8066c1302854]: Commencement: Reg. 6 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-a46755d253218db133b27952599bf847]: Commencement: Reg. 7 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-a46755d253218db133b27952599bf847]: Commencement: Reg. 7 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-884e692d3ebc363213ab0f7396412e4a]: Commencement: Reg. 8 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-884e692d3ebc363213ab0f7396412e4a]: Commencement: Reg. 8 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-6e19186807820b8c492e389f93196fd8]: Commencement: Reg. 9 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-6e19186807820b8c492e389f93196fd8]: Commencement: Reg. 9 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-a73eda6aed480a05016958c8ec4c58c1]: Commencement: Reg. 10 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-a73eda6aed480a05016958c8ec4c58c1]: Commencement: Reg. 10 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00006]: Footnote: Regulation 8 was substituted by regulation 3(3) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-d849898de789d59e30b139c8cb8efae7]: Commencement: Reg. 11 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-d849898de789d59e30b139c8cb8efae7]: Commencement: Reg. 11 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00007]: Footnote: Article 19 was amended by Article 6 of the Child Support (Northern Ireland) Order 1995
 
-[^key-2b3306722e2b2ab8d2a7049715e67e9c]: Commencement: Reg. 12 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-2b3306722e2b2ab8d2a7049715e67e9c]: Commencement: Reg. 12 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-5506c58cdd61319655096a968e550085]: Commencement: Reg. 13 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-5506c58cdd61319655096a968e550085]: Commencement: Reg. 13 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-44289fbfc56293372c23ac6c33d5bb89]: Commencement: Reg. 14 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-44289fbfc56293372c23ac6c33d5bb89]: Commencement: Reg. 14 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-243bca6a51713d874de9a4a5ec388369]: Commencement: Reg. 15 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-243bca6a51713d874de9a4a5ec388369]: Commencement: Reg. 15 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00009]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00010]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-c71982d3f478520df882c3411e298878]: Commencement: Reg. 16 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-c71982d3f478520df882c3411e298878]: Commencement: Reg. 16 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00011]: Footnote: Paragraph 3(4) was amended by regulation 9(16)(*d*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and paragraph 3(5) was substituted by regulation 5(6) of [S.R. 1994 No. 37](https://www.legislation.gov.uk/nisr/1994/37)
 
-[^key-05571a0cf1e85b1dd7e40e7a3a9c7e53]: Commencement: Reg. 17 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-05571a0cf1e85b1dd7e40e7a3a9c7e53]: Commencement: Reg. 17 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-f9fdf4eecc196f371249d4a3a8af8201]: Commencement: Reg. 18 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-f9fdf4eecc196f371249d4a3a8af8201]: Commencement: Reg. 18 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00012]: Footnote: Paragraph (1) was amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475) and [S.R. 1996 No. 317](https://www.legislation.gov.uk/nisr/1996/317)
 
@@ -1190,97 +1190,97 @@ Regulations 49 to 53 provide for amendments to be made to five sets of Child Sup
 
 [^f00014]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending rules are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338), [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
 
-[^key-ffa93abd6d53b95593b9af0b55a16f6f]: Commencement: Reg. 19 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-ffa93abd6d53b95593b9af0b55a16f6f]: Commencement: Reg. 19 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-0fbd1dfe06e5e9e1644478039a9065e0]: Commencement: Reg. 20 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-0fbd1dfe06e5e9e1644478039a9065e0]: Commencement: Reg. 20 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-17b1f0ec738df12e7e35ca36714867cb]: Commencement: Reg. 21 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-17b1f0ec738df12e7e35ca36714867cb]: Commencement: Reg. 21 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-cf546cc50ad4777252bd3665cb687208]: Commencement: Reg. 22 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-cf546cc50ad4777252bd3665cb687208]: Commencement: Reg. 22 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-b83b8cbfc7063e4eee984daf0667bd1a]: Commencement: Reg. 23 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-b83b8cbfc7063e4eee984daf0667bd1a]: Commencement: Reg. 23 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00015]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
 [^f00016]: Footnote: [1979 c. 12](https://www.legislation.gov.uk/ukpga/1979/12)
 
-[^key-a343402346e1c8392eed42a9a3da7796]: Commencement: Reg. 24 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-a343402346e1c8392eed42a9a3da7796]: Commencement: Reg. 24 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-45f8b327a6313a146c793c501d47973a]: Commencement: Reg. 25 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-45f8b327a6313a146c793c501d47973a]: Commencement: Reg. 25 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-a770eca65148bc4310d95b074b9c3f16]: Commencement: Reg. 26 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-a770eca65148bc4310d95b074b9c3f16]: Commencement: Reg. 26 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-9fc7388f85e515626d441917252633fe]: Commencement: Reg. 27 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-9fc7388f85e515626d441917252633fe]: Commencement: Reg. 27 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-e7f931f367d96e9b69a452473a826806]: Commencement: Reg. 28 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-e7f931f367d96e9b69a452473a826806]: Commencement: Reg. 28 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00017]: Footnote: Sub-paragraph (i) was added by regulation 9(5)(*a*)(ii) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
 [^f00018]: Footnote: Regulation 10 was amended by regulation 5(4) of [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164) and regulation 9(6) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-ce7f6a68dea0e79d5c56560c5ff6faf3]: Commencement: Reg. 29 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-ce7f6a68dea0e79d5c56560c5ff6faf3]: Commencement: Reg. 29 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-1766f16428804dc8187e72f6bf6123e6]: Commencement: Reg. 30 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-1766f16428804dc8187e72f6bf6123e6]: Commencement: Reg. 30 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-1ad62efd3faff9acbf2734f6b506eed0]: Commencement: Reg. 31 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-1ad62efd3faff9acbf2734f6b506eed0]: Commencement: Reg. 31 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-ed00c9e1ec68717a541a1ccaa0382721]: Commencement: Reg. 32 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-ed00c9e1ec68717a541a1ccaa0382721]: Commencement: Reg. 32 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-cdfd570d6eadd638db638d5eb7e36b24]: Commencement: Reg. 33 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-cdfd570d6eadd638db638d5eb7e36b24]: Commencement: Reg. 33 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00019]: Footnote: Articles 19 to 21 were amended by Articles 6 to 9 of, and paragraph 4 of Schedule 3 to, the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
 
-[^key-8bf49e53bf8d303f86cb818ae2537e2e]: Commencement: Reg. 34 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-8bf49e53bf8d303f86cb818ae2537e2e]: Commencement: Reg. 34 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-bf738aca87f249cbfc7e7fd1c1633d0d]: Commencement: Reg. 35 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-bf738aca87f249cbfc7e7fd1c1633d0d]: Commencement: Reg. 35 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); relevant amending regulations are [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164)
 
-[^key-3ef151f74ad518b76a896d819c34de24]: Commencement: Reg. 36 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-3ef151f74ad518b76a896d819c34de24]: Commencement: Reg. 36 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-fd22b022efa05ff96d276f9bf155a955]: Commencement: Reg. 37 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-fd22b022efa05ff96d276f9bf155a955]: Commencement: Reg. 37 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-318a350d8f43e517a7045ea5a6d15fa8]: Commencement: Reg. 38 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-318a350d8f43e517a7045ea5a6d15fa8]: Commencement: Reg. 38 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00021]: Footnote: Regulation 11(1) was amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1994 No. 37](https://www.legislation.gov.uk/nisr/1994/37) and [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
 [^f00022]: Footnote: Sub-paragraph (*kk*) was added by regulation 9(7)(*a*)(iv) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-521154551dbe4ec628efeb08c55e0e02]: Commencement: Reg. 39 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-521154551dbe4ec628efeb08c55e0e02]: Commencement: Reg. 39 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00023]: Footnote: Sub-paragraph (*bb*) was inserted by regulation 9(5)(*a*)(i) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
 [^f00024]: Footnote: Regulation 13 was amended by regulation 2(2) of [S.R. 1996 No. 65](https://www.legislation.gov.uk/nisr/1996/65)
 
-[^key-4312c2a22f8b13861c4cedc42dfba33d]: Commencement: Reg. 40 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-4312c2a22f8b13861c4cedc42dfba33d]: Commencement: Reg. 40 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
 
 [^f00026]: Footnote: Paragraph (1)(*b*) was amended by regulation 9(7)(*a*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and regulation 4(5)(*a*) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-31a76c2f8070fc4d473ca69e58388c03]: Commencement: Reg. 41 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-31a76c2f8070fc4d473ca69e58388c03]: Commencement: Reg. 41 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-32ffc58bd15644df376c1aac19d631bf]: Commencement: Reg. 42 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-32ffc58bd15644df376c1aac19d631bf]: Commencement: Reg. 42 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-6363b953a6e6b3e385d4fa574b4d552a]: Commencement: Reg. 43 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-6363b953a6e6b3e385d4fa574b4d552a]: Commencement: Reg. 43 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00027]: Footnote: Regulation 22 was amended by [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164) and [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-1d8684f61921bfc7dc29083740c5f968]: Commencement: Reg. 44 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-1d8684f61921bfc7dc29083740c5f968]: Commencement: Reg. 44 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 1992 No. 467 (C. 20)](https://www.legislation.gov.uk/nisr/1992/467); the relevant amending rules are [S.R. 1993 No. 174 (C. 9)](https://www.legislation.gov.uk/nisr/1993/174)
 
 [^f00029]: Footnote: [S.R. 1994 No. 37](https://www.legislation.gov.uk/nisr/1994/37); relevant amending regulations are [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-f15f668e281670fe087eae025e116fc4]: Commencement: Reg. 45 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-f15f668e281670fe087eae025e116fc4]: Commencement: Reg. 45 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-dde2338f7ae0fc4cd65e33bd80d05147]: Commencement: Reg. 46 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-dde2338f7ae0fc4cd65e33bd80d05147]: Commencement: Reg. 46 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-bb636883043d2e0f08c419caefc3c336]: Commencement: Reg. 47 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-bb636883043d2e0f08c419caefc3c336]: Commencement: Reg. 47 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-a6aea044176362fe040e0e68bc5cb99b]: Commencement: Reg. 48 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-a6aea044176362fe040e0e68bc5cb99b]: Commencement: Reg. 48 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-d36f3c83d7bfbbc21f02f1bd5fa1d3fd]: Commencement: Reg. 49 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-d36f3c83d7bfbbc21f02f1bd5fa1d3fd]: Commencement: Reg. 49 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 1992 No. 339](https://www.legislation.gov.uk/nisr/1992/339); relevant amending regulations are [S.R. 1995 Nos. 162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
@@ -1290,7 +1290,7 @@ Regulations 49 to 53 provide for amendments to be made to five sets of Child Sup
 
 [^f00033]: Footnote: Regulation 10A was inserted by regulation 2(7) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-6ad5672352f79a0b1fd0c161b19dee40]: Commencement: Reg. 50 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-6ad5672352f79a0b1fd0c161b19dee40]: Commencement: Reg. 50 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00034]: Footnote: Paragraph (1) was substituted by regulation 8(4)(*a*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
@@ -1308,7 +1308,7 @@ Regulations 49 to 53 provide for amendments to be made to five sets of Child Sup
 
 [^f00041]: Footnote: Paragraph (5) was added by regulation 4(4)(*d*) of [S.R. 1995 No. 19](https://www.legislation.gov.uk/nisr/1995/19)
 
-[^key-144e84047dff6b00936e90bf14c994b5]: Commencement: Reg. 51 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-144e84047dff6b00936e90bf14c994b5]: Commencement: Reg. 51 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00042]: Footnote: The definition of “day to day care” was substituted by regulation 9(2)(*a*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
@@ -1316,11 +1316,11 @@ Regulations 49 to 53 provide for amendments to be made to five sets of Child Sup
 
 [^f00044]: Footnote: Paragraph (2) was substituted by regulation 9(11) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-21d7cff8354764ee33d7e0326a36134a]: Commencement: Reg. 52 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-21d7cff8354764ee33d7e0326a36134a]: Commencement: Reg. 52 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00045]: Footnote: [S.R. 1992 No. 342](https://www.legislation.gov.uk/nisr/1992/342); regulation 10 was substituted by regulation 3(3) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
-[^key-51269bcb42d2d9742852519ea60d5b90]: Commencement: Reg. 53 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-51269bcb42d2d9742852519ea60d5b90]: Commencement: Reg. 53 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00046]: Footnote: [S.R. 1993 No. 50](https://www.legislation.gov.uk/nisr/1993/50); relevant amending regulations are [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and [S.R. 1996 Nos. 24](https://www.legislation.gov.uk/nisr/1996/24) and [457](https://www.legislation.gov.uk/nisr/1996/457)
 
@@ -1338,14 +1338,14 @@ Regulations 49 to 53 provide for amendments to be made to five sets of Child Sup
 
 [^f00053]: Footnote: Regulation 13 was amended by regulation 3 of [S.R. 1996 No. 24](https://www.legislation.gov.uk/nisr/1996/24) and regulation 2(8) of [S.R. 1996 No. 457](https://www.legislation.gov.uk/nisr/1996/457)
 
-[^key-2d591d7614a7cd5c2911f521314e57e1]: Commencement: Sch. para. 1 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-2d591d7614a7cd5c2911f521314e57e1]: Commencement: Sch. para. 1 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
 [^f00054]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346)
 
-[^key-bf4ff4268b3b46b01722f6c57063f797]: Commencement: Sch. para. 2 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-bf4ff4268b3b46b01722f6c57063f797]: Commencement: Sch. para. 2 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-104b9fb09dd09ea9a2d8c4f9498d8643]: Commencement: Sch. para. 3 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-104b9fb09dd09ea9a2d8c4f9498d8643]: Commencement: Sch. para. 3 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-e9431ec3ea9ba3df769492b721a939a9]: Commencement: Sch. para. 4 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-e9431ec3ea9ba3df769492b721a939a9]: Commencement: Sch. para. 4 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
 
-[^key-85e1232455ca90440b48d3225a00659a]: Commencement: Sch. para. 5 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)
+[^c-85e1232455ca90440b48d3225a00659a]: Commencement: Sch. para. 5 in operation at 2.12.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/541/regulation/1/1)

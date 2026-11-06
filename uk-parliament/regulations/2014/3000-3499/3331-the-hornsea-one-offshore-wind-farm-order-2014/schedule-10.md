@@ -24,7 +24,7 @@ Article 35
 
 ### PART 1 — Licensed marine activities
 
-#### 1. Interpretation[^key-2318091e4f4958bd294b837dd42efd50]
+#### 1. Interpretation[^c-2318091e4f4958bd294b837dd42efd50]
 
 (1) In this licence—
 
@@ -209,7 +209,7 @@ Article 35
 
   Tel: 01483 252 057
 
-#### 2. Details of licensed activities[^key-a0bda95553edfbe5d88dbfbcf60063ca]
+#### 2. Details of licensed activities[^c-a0bda95553edfbe5d88dbfbcf60063ca]
 
 (1) This licence authorises the licence-holder (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities pursuant to section 66(1) of the 2009 Act, subject to the licence conditions—
 
@@ -300,13 +300,13 @@ Table 2: Co-ordinates for disposal site HU206
 
 (6) The provisions of section 72 of the 2009 Act shall apply to this licence, save that the provisions of section 72(7) and 72(8) relating to the transfer of the licence shall only apply to a transfer not falling within article 34 of the Order.
 
-#### 3. Duration[^key-896d12d4ddac73e0a0b9e7a3a9ae3e5b]
+#### 3. Duration[^c-896d12d4ddac73e0a0b9e7a3a9ae3e5b]
 
 This licence shall remain in force until the authorised scheme has been decommissioned in accordance with a programme approved by the Secretary of State under section 106 of the Energy Act 2004, including any modification to the programme under section 108, and the completion of such programme has been confirmed by the Secretary of State in writing.
 
 ### PART 2 — Licence conditions
 
-#### 1. Design parameters[^key-ab5fbb2ab2009f4f5c840a53788a77b9]
+#### 1. Design parameters[^c-ab5fbb2ab2009f4f5c840a53788a77b9]
 
 (1) All wind turbine generators forming part of Work No. 3 must not—
 
@@ -318,16 +318,16 @@ This licence shall remain in force until the authorised scheme has been decommis
 
 (2) References to the location of a wind turbine generator are references to the centre point of the turbine.
 
-**2.**[^key-b19db68efc11b2033dd3637603ae0488] Any offshore accommodation platform forming part of Work No. 3 must not—
+**2.**[^c-b19db68efc11b2033dd3637603ae0488] Any offshore accommodation platform forming part of Work No. 3 must not—
 
 - (a) exceed 60 metres in height above MHWS;
 - (b) have a platform which at its greatest extent exceeds, 3,600 m<sup>2</sup> or 60 metres in width.
 
-**3.**[^key-a8e70e5a933de0eebaf2fb4a9f51ba62] The diameter of the electrical circuits comprising the electrical circuits within Work No. 3 must not exceed 170 mm.
+**3.**[^c-a8e70e5a933de0eebaf2fb4a9f51ba62] The diameter of the electrical circuits comprising the electrical circuits within Work No. 3 must not exceed 170 mm.
 
-**4.**[^key-8008f4ba2a8cddbf30d22c512856b313] The electrical circuits comprised in Work No. 3 must be installed by use of, or a combination of, ploughing, trenching, jetting, rock-cutting, dredging, surface laying with post lay burial, and where ground conditions make burial impracticable, by surface laying.
+**4.**[^c-8008f4ba2a8cddbf30d22c512856b313] The electrical circuits comprised in Work No. 3 must be installed by use of, or a combination of, ploughing, trenching, jetting, rock-cutting, dredging, surface laying with post lay burial, and where ground conditions make burial impracticable, by surface laying.
 
-**5.**[^key-7c3719e02dd9c9bd537c86c331a6f22f] (1) The licence-holder must in fixing to the seabed any structures comprised in Work No. 3 use one of the following methods—
+**5.**[^c-7c3719e02dd9c9bd537c86c331a6f22f] (1) The licence-holder must in fixing to the seabed any structures comprised in Work No. 3 use one of the following methods—
 
 - (a) monopile foundations;
 - (b) jacket foundations supported by piles; or
@@ -373,7 +373,7 @@ This licence shall remain in force until the authorised scheme has been decommis
 
 (5) In the event that no offshore accommodation platform is constructed under this licence, the combined total volume of scour protection for the wind turbine generators forming part of Work No. 3 must not exceed 1,066,508 m<sup>3</sup>.
 
-#### 6. Notifications and inspections[^key-173834303c8499b54252a2f4cfbbfac9]
+#### 6. Notifications and inspections[^c-173834303c8499b54252a2f4cfbbfac9]
 
 (1) The licence-holder shall ensure that—
 
@@ -407,7 +407,7 @@ This licence shall remain in force until the authorised scheme has been decommis
 - (a) the UK Hydrographic Office of commencement (within two weeks), progress and completion (within two weeks) of the authorised scheme in order that all necessary amendments to nautical charts are made; and
 - (b) the MMO once the authorised scheme is completed and any required lighting or marking has been established.
 
-#### 7. Aids to navigation[^key-b1ba53f4e995bec4645fda8ae60bb570]
+#### 7. Aids to navigation[^c-b1ba53f4e995bec4645fda8ae60bb570]
 
 The licence-holder must during the whole period from the start of construction of the authorised scheme seaward of MHWS to the completion of decommissioning—
 
@@ -417,11 +417,11 @@ The licence-holder must during the whole period from the start of construction o
 - (d) provide reports on the working condition of aids to navigation periodically as requested by Trinity House;
 - (e) notify Trinity House and the MMO of any failure of the aids to navigation and the timescales in which such failure will be remedied, as soon as possible and no later than 24 hours following the licence-holder becoming aware of any such failure.
 
-#### 8. Provision against danger to navigation[^key-813b742382b724fd837c029b710ac362]
+#### 8. Provision against danger to navigation[^c-813b742382b724fd837c029b710ac362]
 
 In case of injury to, or destruction or decay of, the authorised scheme or any part of it seaward of MHWS the licence-holder must as soon as reasonably practicable, and no later than 24 hours following the licence-holder becoming aware of any such injury, destruction or decay, notify Trinity House and must lay down such buoys, exhibit such lights and take such other steps for the prevention of danger to navigation as Trinity House may from time to time direct.
 
-#### 9. Navigational Practice, Safety and Emergency Response[^key-583932c94e54f32a8bf37ea5a6d01e91]
+#### 9. Navigational Practice, Safety and Emergency Response[^c-583932c94e54f32a8bf37ea5a6d01e91]
 
 (1) No part of the authorised scheme seaward of MHWS is to commence until the Secretary of State, in consultation with the MCA, has given written approval for an Emergency Response and Co-operation Plan which includes full details of the emergency co-operation plans for the construction, operation and decommissioning phases of that part of the authorised scheme in accordance with the MCA recommendations contained within MGN 371 “Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues”.
 
@@ -431,11 +431,11 @@ In case of injury to, or destruction or decay of, the authorised scheme or any p
 
 (4) The licence-holder must during the whole period from the start of construction of the authorised scheme seaward of MHWS to the completion of decommissioning provide relevant information to the MCA to assist in the timely and efficient issuing of notices to mariners and other navigational warnings of the position and nature of the works, such information to be provided to mariners in the shipping and fishing industry as well as to recreational mariners.
 
-#### 10. Colour and lighting[^key-88509a9b3c9b257772975e24a0e251ef]
+#### 10. Colour and lighting[^c-88509a9b3c9b257772975e24a0e251ef]
 
 Except as otherwise required by Trinity House under condition 7, the licence-holder must colour all structures comprised in Work No. 3 submarine grey (colour code RAL 7035).
 
-#### 11. Chemicals, drilling and debris[^key-4f8433e84e967c224df3bb3d679f86cb]
+#### 11. Chemicals, drilling and debris[^c-4f8433e84e967c224df3bb3d679f86cb]
 
 (1) All chemicals used in the construction of the authorised scheme shall be selected from the List of Notified Chemicals approved for use by the offshore oil and gas industry under the Offshore Chemicals Regulations 2002 (as amended), unless otherwise agreed in writing by the MMO.
 
@@ -468,7 +468,7 @@ Except as otherwise required by Trinity House under condition 7, the licence-hol
 
 (12) The licence-holder shall ensure that any rock material used in the construction of the authorised scheme is from a recognised source, free from contaminants and containing minimal fines.
 
-#### 12. Force majeure[^key-3f47f63d2304e37c340e1c797d325f94]
+#### 12. Force majeure[^c-3f47f63d2304e37c340e1c797d325f94]
 
 If, due to stress of weather or any other cause, the master of a vessel determines that it is necessary to deposit—
 
@@ -477,7 +477,7 @@ If, due to stress of weather or any other cause, the master of a vessel determin
 
 because the safety of human life and/or of the vessel is threatened, full details of the circumstances of the deposit shall be notified to the MMO within 48 hours.
 
-#### 13. Pre-construction plans and documentation[^key-c0e3fce9aa52550410e6be171115efe4]
+#### 13. Pre-construction plans and documentation[^c-c0e3fce9aa52550410e6be171115efe4]
 
 (1) The licensed activities shall not commence until the following (insofar as relevant to that activity or phase of activity) have been submitted to and approved in writing by the MMO—
 
@@ -547,9 +547,9 @@ because the safety of human life and/or of the vessel is threatened, full detail
 - (a) in relation to any programme, statement, plan or protocol submitted under sub-paragraphs (a) to (e) or (h), consult with the relevant statutory nature conservation body;
 - (b) in relation to a scheme submitted under sub-paragraph (g), consult with English Heritage.
 
-**14.**[^key-35f94dbb235af6eeb450d4bf402ba262] The licence-holder shall ensure that a copy of any agreed archaeological report is deposited with the National Record of the Historic Environment, by submitting an English Heritage OASIS form with a digital copy of the report.
+**14.**[^c-35f94dbb235af6eeb450d4bf402ba262] The licence-holder shall ensure that a copy of any agreed archaeological report is deposited with the National Record of the Historic Environment, by submitting an English Heritage OASIS form with a digital copy of the report.
 
-**15.**[^key-0f220e0930420c2d0cbdc445bd55a65f] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 13—
+**15.**[^c-0f220e0930420c2d0cbdc445bd55a65f] (1) Each programme, statement, plan, protocol or scheme required to be approved under condition 13—
 
 - (a) shall be submitted for approval at least four months prior to the intended start of construction, except where otherwise stated or where an alternative date is agreed in writing by the MMO; and
 - (b) shall be accompanied by—
@@ -560,7 +560,7 @@ because the safety of human life and/or of the vessel is threatened, full detail
 
 (3) Prior to agreeing an alternative date under paragraph (1)(a) or a change to approved details under paragraph (2) relating to any document in respect of which consultation is required under condition 13(6), the MMO must consult with the relevant consultation body referred to in that condition.
 
-#### 16. Reporting of engaged agents, contractors and vessels[^key-dfe725cb595a3f7775ffca1a11e72888]
+#### 16. Reporting of engaged agents, contractors and vessels[^c-dfe725cb595a3f7775ffca1a11e72888]
 
 (1) The licence-holder shall provide the following information to the MMO—
 
@@ -569,7 +569,7 @@ because the safety of human life and/or of the vessel is threatened, full detail
 
 (2) Any changes to the supplied details must be notified to the MMO and MMO Coastal Office in writing prior to the agent, contractor or vessel engaging in the licensed activities. All agents, contractors and/or vessel operators will abide by the conditions set out in this licence.
 
-#### 17. Equipment and Operation of Vessels Engaged in Licensed Activities[^key-6bb6273eefcd2286f45a58af0a11c15f]
+#### 17. Equipment and Operation of Vessels Engaged in Licensed Activities[^c-6bb6273eefcd2286f45a58af0a11c15f]
 
 (1) All vessels employed to perform the licensed activities shall be constructed and equipped to be capable of the proper performance of such activities in accordance with the conditions of this licence and shall comply with paragraphs (2) to (6).
 
@@ -588,7 +588,7 @@ because the safety of human life and/or of the vessel is threatened, full detail
 
 (6) No vessel shall engage in the licensed activities until all the equipment specified in paragraph (2) is fully operational.
 
-#### 18. Pre-construction monitoring and surveys[^key-c85e8672625d9515588d3992241b7bed]
+#### 18. Pre-construction monitoring and surveys[^c-c85e8672625d9515588d3992241b7bed]
 
 (1) The licence-holder must, when submitting details under condition 13(2)(a)—
 
@@ -602,7 +602,7 @@ because the safety of human life and/or of the vessel is threatened, full detail
 - (c) a survey to determine the location, extent and composition of any benthic habitats of conservation, ecological and/or economic importance in the part(s) of Wind Farm Area 3 in which it is proposed to carry out construction works under this licence; and
 - (d) any marine mammal monitoring required by the marine mammal monitoring plan submitted in accordance with condition 13(2)(h).
 
-#### 19. Construction monitoring[^key-f2a08d1f7917842528abf71a2aa441c6]
+#### 19. Construction monitoring[^c-f2a08d1f7917842528abf71a2aa441c6]
 
 (1) The licence-holder must, when submitting details of proposed construction monitoring under condition 13(2)(a), include methodologies and timings, and a proposed format, content and timings for providing reports on the results. The survey proposals must specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the Environmental Statement.
 
@@ -615,7 +615,7 @@ because the safety of human life and/or of the vessel is threatened, full detail
 
 (4) Construction monitoring shall include vessel traffic monitoring by Automatic Identification System for the duration of the construction period. A report will be submitted to the MMO and the MCA at the end of each year of the construction period.
 
-#### 20. Post construction[^key-63fcd1eb9023aaad66454079aa3a4502]
+#### 20. Post construction[^c-63fcd1eb9023aaad66454079aa3a4502]
 
 (1) The licence-holder must, when submitting details of proposed post-construction surveys under condition 13(2)(a), include methodologies and timings, and a proposed format, content and timings for providing reports on the results. The survey proposals shall specify each survey’s objectives and explain how it will assist in either informing a useful and valid comparison with the pre-construction position and/or will enable the validation or otherwise of key predictions in the Environmental Statement.
 
@@ -631,64 +631,64 @@ because the safety of human life and/or of the vessel is threatened, full detail
 
 (3) Prior to carrying out the survey required under paragraph (2)(b), the licence-holder must submit to the MMO for written approval a desk based assessment (which takes account of all factors which influence scour) identifying the turbines with greatest potential for scour. The survey will be used to validate the desk based assessment and the significance of any differences between the predicted scour and recorded scour will be assessed in the survey report which will be submitted to the MMO. The need for further surveys will be agreed in writing with the MMO following submission of the first year of survey data.
 
-#### 21. Amendments to details[^key-bdea39e0cb8fd1204b28029f5d5b8041]
+#### 21. Amendments to details[^c-bdea39e0cb8fd1204b28029f5d5b8041]
 
 (1) With respect to any condition of this licence which requires the licensed activities to be carried out in accordance with the plans and programmes approved by the MMO, the approved plans and programmes shall be taken to include any amendments that may subsequently be approved in writing by the MMO.
 
 (2) Where the words ‘except to the extent agreed in writing by the MMO’ appear in these licence conditions, any such agreement or statement may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of MMO that the subject matter of the agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the Environmental Statement.
 
-#### 22. Offshore Decommissioning[^key-c6e345960f21f446f3965cbe078b7156]
+#### 22. Offshore Decommissioning[^c-c6e345960f21f446f3965cbe078b7156]
 
 No decommissioning activities shall commence until plans for the carrying out of such activities have been submitted to and approved in writing by the MMO.
 
 ## Annotations
 
-[^key-2318091e4f4958bd294b837dd42efd50]: Commencement: Sch. 10 Pt. 1 para. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-2318091e4f4958bd294b837dd42efd50]: Commencement: Sch. 10 Pt. 1 para. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-a0bda95553edfbe5d88dbfbcf60063ca]: Commencement: Sch. 10 Pt. 1 para. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-a0bda95553edfbe5d88dbfbcf60063ca]: Commencement: Sch. 10 Pt. 1 para. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-896d12d4ddac73e0a0b9e7a3a9ae3e5b]: Commencement: Sch. 10 Pt. 1 para. 3 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-896d12d4ddac73e0a0b9e7a3a9ae3e5b]: Commencement: Sch. 10 Pt. 1 para. 3 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-ab5fbb2ab2009f4f5c840a53788a77b9]: Commencement: Sch. 10 Pt. 2 para. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-ab5fbb2ab2009f4f5c840a53788a77b9]: Commencement: Sch. 10 Pt. 2 para. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-b19db68efc11b2033dd3637603ae0488]: Commencement: Sch. 10 Pt. 2 para. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-b19db68efc11b2033dd3637603ae0488]: Commencement: Sch. 10 Pt. 2 para. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-a8e70e5a933de0eebaf2fb4a9f51ba62]: Commencement: Sch. 10 Pt. 2 para. 3 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-a8e70e5a933de0eebaf2fb4a9f51ba62]: Commencement: Sch. 10 Pt. 2 para. 3 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-8008f4ba2a8cddbf30d22c512856b313]: Commencement: Sch. 10 para. 4 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-8008f4ba2a8cddbf30d22c512856b313]: Commencement: Sch. 10 para. 4 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-7c3719e02dd9c9bd537c86c331a6f22f]: Commencement: Sch. 10 para. 5 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-7c3719e02dd9c9bd537c86c331a6f22f]: Commencement: Sch. 10 para. 5 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-173834303c8499b54252a2f4cfbbfac9]: Commencement: Sch. 10 para. 6 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-173834303c8499b54252a2f4cfbbfac9]: Commencement: Sch. 10 para. 6 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-b1ba53f4e995bec4645fda8ae60bb570]: Commencement: Sch. 10 para. 7 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-b1ba53f4e995bec4645fda8ae60bb570]: Commencement: Sch. 10 para. 7 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-813b742382b724fd837c029b710ac362]: Commencement: Sch. 10 para. 8 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-813b742382b724fd837c029b710ac362]: Commencement: Sch. 10 para. 8 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-583932c94e54f32a8bf37ea5a6d01e91]: Commencement: Sch. 10 para. 9 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-583932c94e54f32a8bf37ea5a6d01e91]: Commencement: Sch. 10 para. 9 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-88509a9b3c9b257772975e24a0e251ef]: Commencement: Sch. 10 para. 10 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-88509a9b3c9b257772975e24a0e251ef]: Commencement: Sch. 10 para. 10 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-4f8433e84e967c224df3bb3d679f86cb]: Commencement: Sch. 10 para. 11 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-4f8433e84e967c224df3bb3d679f86cb]: Commencement: Sch. 10 para. 11 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-3f47f63d2304e37c340e1c797d325f94]: Commencement: Sch. 10 para. 12 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-3f47f63d2304e37c340e1c797d325f94]: Commencement: Sch. 10 para. 12 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-c0e3fce9aa52550410e6be171115efe4]: Commencement: Sch. 10 para. 13 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-c0e3fce9aa52550410e6be171115efe4]: Commencement: Sch. 10 para. 13 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-35f94dbb235af6eeb450d4bf402ba262]: Commencement: Sch. 10 para. 14 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-35f94dbb235af6eeb450d4bf402ba262]: Commencement: Sch. 10 para. 14 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-0f220e0930420c2d0cbdc445bd55a65f]: Commencement: Sch. 10 para. 15 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-0f220e0930420c2d0cbdc445bd55a65f]: Commencement: Sch. 10 para. 15 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-dfe725cb595a3f7775ffca1a11e72888]: Commencement: Sch. 10 para. 16 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-dfe725cb595a3f7775ffca1a11e72888]: Commencement: Sch. 10 para. 16 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-6bb6273eefcd2286f45a58af0a11c15f]: Commencement: Sch. 10 para. 17 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-6bb6273eefcd2286f45a58af0a11c15f]: Commencement: Sch. 10 para. 17 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-c85e8672625d9515588d3992241b7bed]: Commencement: Sch. 10 para. 18 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-c85e8672625d9515588d3992241b7bed]: Commencement: Sch. 10 para. 18 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-f2a08d1f7917842528abf71a2aa441c6]: Commencement: Sch. 10 para. 19 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-f2a08d1f7917842528abf71a2aa441c6]: Commencement: Sch. 10 para. 19 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-63fcd1eb9023aaad66454079aa3a4502]: Commencement: Sch. 10 para. 20 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-63fcd1eb9023aaad66454079aa3a4502]: Commencement: Sch. 10 para. 20 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-bdea39e0cb8fd1204b28029f5d5b8041]: Commencement: Sch. 10 para. 21 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-bdea39e0cb8fd1204b28029f5d5b8041]: Commencement: Sch. 10 para. 21 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-c6e345960f21f446f3965cbe078b7156]: Commencement: Sch. 10 para. 22 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-c6e345960f21f446f3965cbe078b7156]: Commencement: Sch. 10 para. 22 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

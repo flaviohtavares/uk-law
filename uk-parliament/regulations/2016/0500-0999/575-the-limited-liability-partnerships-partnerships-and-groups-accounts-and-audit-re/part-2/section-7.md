@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Annual accounts to give true and fair view[^key-0d67e4d251d9d249c525f38aadab3f46]
+## 7. Annual accounts to give true and fair view[^c-0d67e4d251d9d249c525f38aadab3f46]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d67e4d251d9d249c525f38aadab3f46]: Commencement: Reg. 7 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-0d67e4d251d9d249c525f38aadab3f46]: Commencement: Reg. 7 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

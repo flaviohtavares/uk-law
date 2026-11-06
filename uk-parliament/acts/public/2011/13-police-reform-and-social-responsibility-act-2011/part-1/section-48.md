@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Suspension and removal of Commissioner and Deputy Commissioner[^key-2895454a2a881e3143d9af6c38933a18]
+## 48. Suspension and removal of Commissioner and Deputy Commissioner[^c-2895454a2a881e3143d9af6c38933a18]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2895454a2a881e3143d9af6c38933a18]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/13/section/48) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-2895454a2a881e3143d9af6c38933a18]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2011/13/section/48) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a water undertaker is required to make a connection in pursuance of any connection notice, it shall also be the duty of the undertaker[^key-3d4f16d9948e4dbb0d692726585f6b27]... to carry out such of the works to which this section applies as need to be carried out before the connection can be made.
+(1) Where a water undertaker is required to make a connection in pursuance of any connection notice, it shall also be the duty of the undertaker[^c-3d4f16d9948e4dbb0d692726585f6b27]... to carry out such of the works to which this section applies as need to be carried out before the connection can be made.
 
 (2) This section applies to the laying of so much of the service pipe to be connected with the water main as it is necessary, for the purpose of making that connection, to lay in a street.
 
@@ -46,25 +46,25 @@ this section applies to the laying of so much of the service pipe as it is neces
 (7) Subsections (4) to (6A)[^c13218141] of section 45 above shall have effect-
 
 - (a) in relation to any duties which, by virtue of a connection notice, are imposed on a water undertaker by this section; and
-- (b) in relation to any works which, by virtue of the service of such a notice, such an undertaker carries out as its duty under this section[^key-17df4645049bdd1efa975ac43fbef6ba],
+- (b) in relation to any works which, by virtue of the service of such a notice, such an undertaker carries out as its duty under this section[^c-17df4645049bdd1efa975ac43fbef6ba],
 
-as they have effect by virtue of that notice in relation to the duty which arises under that section or, as the case may be, to works which the undertaker carries out as its duty under that section[^key-1d784cfd022860adc664a6c2929ef93c].
+as they have effect by virtue of that notice in relation to the duty which arises under that section or, as the case may be, to works which the undertaker carries out as its duty under that section[^c-1d784cfd022860adc664a6c2929ef93c].
 
 (8) Subject to subsection (9) below, a water undertaker may comply with any duty under this section to lay a service pipe by laying a water main instead; but nothing in section 45 above or this section shall impose any duty on a water undertaker to lay a water main where it has no power to lay a service pipe.
 
 (9) Where a water undertaker exercises its power under subsection (8) above to lay a water main instead of a service pipe—
 
-- (a) paragraph (a) of section 51(1) below shall have effect as if any additional time reasonably required by reason of the laying of the main instead of the service pipe were included in the time allowed by that paragraph for the laying of the service pipe; [^key-29f459b5ff9288da98dc374a5bf4e110]...
-- (b)[^key-29f459b5ff9288da98dc374a5bf4e110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) paragraph (a) of section 51(1) below shall have effect as if any additional time reasonably required by reason of the laying of the main instead of the service pipe were included in the time allowed by that paragraph for the laying of the service pipe; [^c-29f459b5ff9288da98dc374a5bf4e110]...
+- (b)[^c-29f459b5ff9288da98dc374a5bf4e110] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d4f16d9948e4dbb0d692726585f6b27]: Textual amendment: Words in s. 46(1) repealed (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/a), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-3d4f16d9948e4dbb0d692726585f6b27]: Textual amendment: Words in s. 46(1) repealed (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(a)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/a), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
 
 [^c13218141]: Textual amendment: Words in s. 46(7) substituted (1.9.1992) by [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43), [s. 35(3)](https://www.legislation.gov.uk/ukpga/1992/43/section/35/3); Competition and Service (Utilities) Act 1992 (Commencement No. 1) Order 1992, art. 4, Sch. Pt. II
 
-[^key-17df4645049bdd1efa975ac43fbef6ba]: Textual amendment: Words in s. 46(7)(b) substituted (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/b), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-17df4645049bdd1efa975ac43fbef6ba]: Textual amendment: Words in s. 46(7)(b) substituted (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/b), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
 
-[^key-1d784cfd022860adc664a6c2929ef93c]: Textual amendment: Words in s. 46(7) substituted (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(c)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/c), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-1d784cfd022860adc664a6c2929ef93c]: Textual amendment: Words in s. 46(7) substituted (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(c)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/c), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
 
-[^key-29f459b5ff9288da98dc374a5bf4e110]: Textual amendment: S. 46(9)(b) and word repealed (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/d), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))
+[^c-29f459b5ff9288da98dc374a5bf4e110]: Textual amendment: S. 46(9)(b) and word repealed (1.4.2018) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 18(4)(d)](https://www.legislation.gov.uk/ukpga/2014/21/section/18/4/d), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 5(a)](https://www.legislation.gov.uk/uksi/2017/462/article/5/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2017/462/article/14))

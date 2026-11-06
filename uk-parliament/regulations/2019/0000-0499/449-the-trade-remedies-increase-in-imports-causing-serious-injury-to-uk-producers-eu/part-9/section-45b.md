@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45B. Application before replacement day[^key-645adacd0d8c921774b88671c0081c1c]
+## 45B. Application before replacement day[^c-645adacd0d8c921774b88671c0081c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The TRA must disregard a request to initiate an investigation under paragraph 7(
 
 ## Annotations
 
-[^key-645adacd0d8c921774b88671c0081c1c]: Textual amendment: Regs. 45A, 45B inserted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/3/2)
+[^c-645adacd0d8c921774b88671c0081c1c]: Textual amendment: Regs. 45A, 45B inserted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/3/2)

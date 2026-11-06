@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-22d1611f6a7e5789ed8ee063ab57f20b] If a house is required to be licensed under this Part (see section 85(1)) but is not so licensed, an offence is committed by—
+(1)[^c-22d1611f6a7e5789ed8ee063ab57f20b] If a house is required to be licensed under this Part (see section 85(1)) but is not so licensed, an offence is committed by—
 
 - (a) any person within subsection (1A), and
 - (b) any person who as landlord under a tenancy or licensor under a licence to occupy has an estate or interest in, or a right in relation to, the house that is superior (whether directly or indirectly) to the estate, interest or right of any person within subsection (1A).
@@ -42,7 +42,7 @@ summary: ''
 
 and that notification or application was still effective (see subsection (7)).
 
-(3A)[^key-a8a7d1ea254d297a8fd7ef482ef65c78] In proceedings against a person for an offence under subsection (1)(a) it is a defence for them to prove that they had a reasonable excuse—
+(3A)[^c-a8a7d1ea254d297a8fd7ef482ef65c78] In proceedings against a person for an offence under subsection (1)(a) it is a defence for them to prove that they had a reasonable excuse—
 
 - (a) for having control of or managing the house, or
 - (b) for being the landlord or licensor in relation to a person occupying the house under a tenancy or licence,
@@ -57,13 +57,13 @@ in circumstances in which the house was required to be licensed under this Part 
 
 (3C) For the purposes of subsection (3B), a term in the tenancy agreement or licence to occupy relating to the occupation of the house does not on its own constitute a defence under any of paragraphs (a) to (c) of that subsection.
 
-(4) In proceedings against a person for an offence under subsection (2)[^key-a67dfeea1bfb214fce43ed52f524a590] it is a defence that he had a reasonable excuse for failing to comply with the condition[^key-cfb4d27e6835e74a7c880d7e0f4758e3].
+(4) In proceedings against a person for an offence under subsection (2)[^c-a67dfeea1bfb214fce43ed52f524a590] it is a defence that he had a reasonable excuse for failing to comply with the condition[^c-cfb4d27e6835e74a7c880d7e0f4758e3].
 
-(5) A person who commits an offence under subsection (1) is liable on summary conviction to a fine[^key-da293779c1c3074e6c63213befaafea6].
+(5) A person who commits an offence under subsection (1) is liable on summary conviction to a fine[^c-da293779c1c3074e6c63213befaafea6].
 
 (6) A person who commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(6A)[^key-2af43b43a25c34bb66b9fdde39be5153] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+(6A)[^c-2af43b43a25c34bb66b9fdde39be5153] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 
 (6B) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
@@ -74,7 +74,7 @@ in circumstances in which the house was required to be licensed under this Part 
 
 (8) The conditions are—
 
-- (a) that the period for appealing against the decision of the authority not to serve or grant such a notice or licence (or against any relevant decision of the appropriate tribunal[^key-8c4cd4f72f47b2f9b0782adfbb5be255]) has not expired, or
+- (a) that the period for appealing against the decision of the authority not to serve or grant such a notice or licence (or against any relevant decision of the appropriate tribunal[^c-8c4cd4f72f47b2f9b0782adfbb5be255]) has not expired, or
 - (b) that an appeal has been brought against the authority’s decision (or against any relevant decision of such a tribunal) and the appeal has not been determined or withdrawn.
 
 (9) In subsection (8) “**relevant decision**” means a decision which is given on an appeal to the tribunal and confirms the authority’s decision (with or without variation).
@@ -83,16 +83,16 @@ in circumstances in which the house was required to be licensed under this Part 
 
 [^c2051416]: Commencement: S. 95 wholly in force at 16.6.2006; s. 95 not in force at Royal Assent see s. 270(4)(5); s. 95(2)(4)(6) in force for E. at 6.4.2006 and s. 95 in force for E. in so far as not already in force at 6.7.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(c)(2)(b)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/c/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 95 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-22d1611f6a7e5789ed8ee063ab57f20b]: Textual amendment: S. 95(1)(1A) substituted for s. 95(1) (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/6), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
+[^c-22d1611f6a7e5789ed8ee063ab57f20b]: Textual amendment: S. 95(1)(1A) substituted for s. 95(1) (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/6), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
 
-[^key-a8a7d1ea254d297a8fd7ef482ef65c78]: Textual amendment: S. 95(3A)-(3C) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/7), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
+[^c-a8a7d1ea254d297a8fd7ef482ef65c78]: Textual amendment: S. 95(3A)-(3C) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/7), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
 
-[^key-a67dfeea1bfb214fce43ed52f524a590]: Textual amendment: Words in s. 95(4) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(8)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/8/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
+[^c-a67dfeea1bfb214fce43ed52f524a590]: Textual amendment: Words in s. 95(4) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(8)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/8/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
 
-[^key-cfb4d27e6835e74a7c880d7e0f4758e3]: Textual amendment: Words in s. 95(4) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(8)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/8/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
+[^c-cfb4d27e6835e74a7c880d7e0f4758e3]: Textual amendment: Words in s. 95(4) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 105(8)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/105/8/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/l)
 
-[^key-da293779c1c3074e6c63213befaafea6]: Textual amendment: Words in s. 95(5) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 37(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/37/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-da293779c1c3074e6c63213befaafea6]: Textual amendment: Words in s. 95(5) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 37(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/37/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-2af43b43a25c34bb66b9fdde39be5153]: Textual amendment: S. 95(6A)(6B) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/4); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-2af43b43a25c34bb66b9fdde39be5153]: Textual amendment: S. 95(6A)(6B) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/4); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
 
-[^key-8c4cd4f72f47b2f9b0782adfbb5be255]: Textual amendment: Words in s. 95(8)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 157](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/157) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-8c4cd4f72f47b2f9b0782adfbb5be255]: Textual amendment: Words in s. 95(8)(a) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 157](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/157) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

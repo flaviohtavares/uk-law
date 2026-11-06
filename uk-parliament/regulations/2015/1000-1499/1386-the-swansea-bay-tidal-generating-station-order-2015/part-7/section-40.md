@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Operational land for purposes of Town and Country Planning Act 1990[^key-5d02c5e65fbbd85687fc9e7104dbb9c3]
+## 40. Operational land for purposes of Town and Country Planning Act 1990[^c-5d02c5e65fbbd85687fc9e7104dbb9c3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order must be treated as specific planning p
 
 ## Annotations
 
-[^key-5d02c5e65fbbd85687fc9e7104dbb9c3]: Commencement: Art. 40 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-5d02c5e65fbbd85687fc9e7104dbb9c3]: Commencement: Art. 40 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

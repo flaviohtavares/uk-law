@@ -35,16 +35,16 @@ on the signing, on behalf of the Union, of the Agreement between the European Un
 
 (2012/643/EU) (revoked)
 
-[^key-f7191d1a04a2d0942811d85e4a6e2b39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7191d1a04a2d0942811d85e4a6e2b39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f7191d1a04a2d0942811d85e4a6e2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f7191d1a04a2d0942811d85e4a6e2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f7191d1a04a2d0942811d85e4a6e2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f7191d1a04a2d0942811d85e4a6e2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-f7191d1a04a2d0942811d85e4a6e2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f7191d1a04a2d0942811d85e4a6e2b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7191d1a04a2d0942811d85e4a6e2b39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7191d1a04a2d0942811d85e4a6e2b39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7191d1a04a2d0942811d85e4a6e2b39]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7191d1a04a2d0942811d85e4a6e2b39]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

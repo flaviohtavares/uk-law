@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Offences of providing false or misleading information[^key-b84283e5236dec488c47c0ffedf3c305]
+## 48. Offences of providing false or misleading information[^c-b84283e5236dec488c47c0ffedf3c305]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ In Article 75(1)(a) of the 2005 Order (offences of providing false or misleading
 
 ## Annotations
 
-[^key-b84283e5236dec488c47c0ffedf3c305]: Commencement: S. 48 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-b84283e5236dec488c47c0ffedf3c305]: Commencement: S. 48 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

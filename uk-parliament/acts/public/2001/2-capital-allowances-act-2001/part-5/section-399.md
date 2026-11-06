@@ -22,7 +22,7 @@ summary: ''
 
 (1) Expenditure on the provision of plant or machinery is not qualifying expenditure except as provided by section 402 (pre-trading expenditure on plant or machinery).
 
-(1A)[^key-ab2c4cc615d39755c20da4f27d6b69ca] Expenditure incurred by a person for the purposes of a mineral extraction trade is not qualifying expenditure if—
+(1A)[^c-ab2c4cc615d39755c20da4f27d6b69ca] Expenditure incurred by a person for the purposes of a mineral extraction trade is not qualifying expenditure if—
 
 - (a) when the expenditure is incurred, the person is carrying on the trade but the trade is not at that time a mineral extraction trade, or
 - (b) the person has not begun to carry on the trade when the expenditure is incurred and, when the person begins to carry on the trade, the trade is not a mineral extraction trade.
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab2c4cc615d39755c20da4f27d6b69ca]: Textual amendment: S. 399(1A)(1B) inserted (with effect in accordance with s. 67(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/3)
+[^c-ab2c4cc615d39755c20da4f27d6b69ca]: Textual amendment: S. 399(1A)(1B) inserted (with effect in accordance with s. 67(8) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/3)

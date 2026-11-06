@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40A. Landlord's objection: application to Land Court[^key-fd94a2219d194376314a13ab7e026339]
+## 40A. Landlord's objection: application to Land Court[^c-fd94a2219d194376314a13ab7e026339]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd94a2219d194376314a13ab7e026339]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/asp/2003/11/section/40A) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 121(3)](https://www.legislation.gov.uk/asp/2016/18/section/121/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2016/365/regulation/12))
+[^c-fd94a2219d194376314a13ab7e026339]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/asp/2003/11/section/40A) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 121(3)](https://www.legislation.gov.uk/asp/2016/18/section/121/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2016/365/regulation/12))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Article 1(A)(2): reasons for persecution[^key-442e7fab9642fe47008df1aefde3828d]
+## 33. Article 1(A)(2): reasons for persecution[^c-442e7fab9642fe47008df1aefde3828d]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-442e7fab9642fe47008df1aefde3828d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/36/section/33) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)
+[^c-442e7fab9642fe47008df1aefde3828d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/36/section/33) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)

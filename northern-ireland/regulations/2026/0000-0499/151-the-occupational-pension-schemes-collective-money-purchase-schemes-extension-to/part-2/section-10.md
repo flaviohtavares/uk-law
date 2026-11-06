@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Financial sustainability, scheme proprietor and promotion or marketing requirements: unconnected multiple employer schemes[^key-8f109d3c82dd391e33fa2180b9f7bfd0]
+## 10. Financial sustainability, scheme proprietor and promotion or marketing requirements: unconnected multiple employer schemes[^c-8f109d3c82dd391e33fa2180b9f7bfd0]
 
 *Extent: N.I.*
 
@@ -108,7 +108,7 @@ After section 65 insert—
 
 ## Annotations
 
-[^key-8f109d3c82dd391e33fa2180b9f7bfd0]: Commencement: Reg. 10 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-8f109d3c82dd391e33fa2180b9f7bfd0]: Commencement: Reg. 10 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 49(8A) was inserted by Article 154 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and amended by Article 4 of [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472) and regulation 3 of [S.I. 2019/193](https://www.legislation.gov.uk/uksi/2019/193)
 

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Calculation of income and capital of students[^key-c59c7c7067006ff737ea9f9f5059bb11]
+## 26. Calculation of income and capital of students[^c-c59c7c7067006ff737ea9f9f5059bb11]
 
 *Extent: E+W+S*
 
-The provisions of Chapters II to VI of this Part (income and capital) shall have effect in relation to students and their partners subject to the modifications set out in Chapter VIII thereof (students)[^key-469352061c5f8e862daae8c218e2453a].
+The provisions of Chapters II to VI of this Part (income and capital) shall have effect in relation to students and their partners subject to the modifications set out in Chapter VIII thereof (students)[^c-469352061c5f8e862daae8c218e2453a].
 
 ## Annotations
 
-[^key-c59c7c7067006ff737ea9f9f5059bb11]: Commencement: Reg. 26 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-c59c7c7067006ff737ea9f9f5059bb11]: Commencement: Reg. 26 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
 
-[^key-469352061c5f8e862daae8c218e2453a]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1987/1967/regulation/26) substituted (29.3.2001) by [The Income Support (General) Amendment Regulations 2001 (S.I. 2001/721)](https://www.legislation.gov.uk/uksi/2001/721), [regs. 1](https://www.legislation.gov.uk/uksi/2001/721/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2001/721/regulation/2/a)
+[^c-469352061c5f8e862daae8c218e2453a]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/1987/1967/regulation/26) substituted (29.3.2001) by [The Income Support (General) Amendment Regulations 2001 (S.I. 2001/721)](https://www.legislation.gov.uk/uksi/2001/721), [regs. 1](https://www.legislation.gov.uk/uksi/2001/721/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2001/721/regulation/2/a)

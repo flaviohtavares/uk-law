@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Qualifying offenders: service offences[^key-29057c67fb5d18204909f9a90e5e036f]
+## 157. Qualifying offenders: service offences[^c-29057c67fb5d18204909f9a90e5e036f]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ and a reference to the doing of an act includes a reference to a failure to act.
 
 ## Annotations
 
-[^key-29057c67fb5d18204909f9a90e5e036f]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2009/25/section/157) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-29057c67fb5d18204909f9a90e5e036f]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2009/25/section/157) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)

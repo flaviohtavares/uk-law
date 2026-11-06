@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Arbitration by Secretary of State[^key-c29654e2443b5919e9d2aeb40bc01225]
+## 35. Arbitration by Secretary of State[^c-c29654e2443b5919e9d2aeb40bc01225]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c29654e2443b5919e9d2aeb40bc01225]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2003/20/section/35) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(r)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/r)
+[^c-c29654e2443b5919e9d2aeb40bc01225]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2003/20/section/35) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(r)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/r)

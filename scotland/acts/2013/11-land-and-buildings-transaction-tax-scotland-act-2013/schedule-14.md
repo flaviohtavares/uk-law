@@ -24,20 +24,20 @@ summary: ''
 
 ### The relief
 
-**1.**[^key-e21fcd39801f3b408c6f430124b3b24d] An acquisition of a chargeable interest by a local authority is exempt from charge if the qualifying condition is met.
+**1.**[^c-e21fcd39801f3b408c6f430124b3b24d] An acquisition of a chargeable interest by a local authority is exempt from charge if the qualifying condition is met.
 
 ### Qualifying condition
 
-**2.**[^key-329f27f33c07d10325d8303e5248fe6a] The qualifying condition is that the local authority has made a compulsory purchase order in respect of the chargeable interest for the purpose of facilitating the undertaking or achievement of an activity or purpose mentioned in section 189 of the Town and Country Planning (Scotland) Act 1997 (c.8) by another person.
+**2.**[^c-329f27f33c07d10325d8303e5248fe6a] The qualifying condition is that the local authority has made a compulsory purchase order in respect of the chargeable interest for the purpose of facilitating the undertaking or achievement of an activity or purpose mentioned in section 189 of the Town and Country Planning (Scotland) Act 1997 (c.8) by another person.
 
 ### Interpretation
 
-**3.**[^key-e8e7bfa18bd0a05987a76a544993d807] For the purposes of this schedule it does not matter how the acquisition is effected (so this provision applies where the acquisition is effected by agreement).
+**3.**[^c-e8e7bfa18bd0a05987a76a544993d807] For the purposes of this schedule it does not matter how the acquisition is effected (so this provision applies where the acquisition is effected by agreement).
 
 ## Annotations
 
-[^key-e21fcd39801f3b408c6f430124b3b24d]: Commencement: Sch. 14 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-e21fcd39801f3b408c6f430124b3b24d]: Commencement: Sch. 14 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-329f27f33c07d10325d8303e5248fe6a]: Commencement: Sch. 14 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-329f27f33c07d10325d8303e5248fe6a]: Commencement: Sch. 14 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-e8e7bfa18bd0a05987a76a544993d807]: Commencement: Sch. 14 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-e8e7bfa18bd0a05987a76a544993d807]: Commencement: Sch. 14 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

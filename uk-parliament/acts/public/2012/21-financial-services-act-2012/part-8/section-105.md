@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. International obligations[^key-02f10e23f78684d850e545620f9a1fc0]
+## 105. International obligations[^c-02f10e23f78684d850e545620f9a1fc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In Part 5 of the Banking Act 2009, after section 206A insert—
 
 ## Annotations
 
-[^key-02f10e23f78684d850e545620f9a1fc0]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2012/21/section/105) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-02f10e23f78684d850e545620f9a1fc0]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2012/21/section/105) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

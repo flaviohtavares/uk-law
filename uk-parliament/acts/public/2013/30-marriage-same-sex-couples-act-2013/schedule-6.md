@@ -26,7 +26,7 @@ Section 13
 
 #### Provision for consular marriage
 
-**1.**[^key-c63c75c11227b795a0f0416c0d555493][^key-c483d3111a63e8ce45317e1b43d32d7e] (1) Her Majesty may by Order in Council make provision for two people to marry each other—
+**1.**[^c-c63c75c11227b795a0f0416c0d555493][^c-c483d3111a63e8ce45317e1b43d32d7e] (1) Her Majesty may by Order in Council make provision for two people to marry each other—
 
 - (a) in prescribed countries or territories outside the United Kingdom, and
 - (b) in the presence of a registration officer,
@@ -40,31 +40,31 @@ in cases where the officer is satisfied that the conditions in sub-paragraph (2)
 - (c) the authorities of the country or territory in which it is proposed that they marry will not object to the marriage, and
 - (d) insufficient facilities exist for them to enter into a marriage under the law of that country or territory.
 
-(3)[^key-bc8a45e8b2230eeb5040f43360264dbc] For the purposes of sub-paragraph (2)(b), two people who are in a qualifying civil partnership with each other are to be treated as not having been eligible to marry each other in Scotland.
+(3)[^c-bc8a45e8b2230eeb5040f43360264dbc] For the purposes of sub-paragraph (2)(b), two people who are in a qualifying civil partnership with each other are to be treated as not having been eligible to marry each other in Scotland.
 
 (4) In sub-paragraph (3) “**qualifying civil partnership**” has the meaning given by section 5(6) of the Marriage (Scotland) Act 1977.
 
 #### Refusal by registration officer
 
-**2.**[^key-2538a7aadbd9c2d524b0dd98f38b08b2][^key-a68f39a18d0b1869831887efc250d193] (1) A registration officer is not required to allow two people to marry each other if the registration officer's opinion is that a marriage between them would be inconsistent with international law or the comity of nations.
+**2.**[^c-2538a7aadbd9c2d524b0dd98f38b08b2][^c-a68f39a18d0b1869831887efc250d193] (1) A registration officer is not required to allow two people to marry each other if the registration officer's opinion is that a marriage between them would be inconsistent with international law or the comity of nations.
 
 (2) An Order in Council under this Part of this Schedule may make provision for appeals against a refusal, in reliance on sub-paragraph (1), to allow two people to marry each other.
 
 #### No religious service
 
-**3.**[^key-b0252ced960dcf543ba24c53bcc16b1b] No religious service is to be used at the solemnization of a consular marriage.
+**3.**[^c-b0252ced960dcf543ba24c53bcc16b1b] No religious service is to be used at the solemnization of a consular marriage.
 
 #### Treatment of marriage as taking place in part of UK for certain purposes
 
-**4.**[^key-e65a7ba338079e7e358f051327982e71][^key-c8d239580912b139b2dd0444eaeab7d6][^key-c87027530f3efbff7ad1e7d6d6a89ad8] An Order in Council under this Part of this Schedule may provide that two people who marry in a consular marriage are to be treated for prescribed purposes as if they had married in the relevant part of the United Kingdom.
+**4.**[^c-e65a7ba338079e7e358f051327982e71][^c-c8d239580912b139b2dd0444eaeab7d6][^c-c87027530f3efbff7ad1e7d6d6a89ad8] An Order in Council under this Part of this Schedule may provide that two people who marry in a consular marriage are to be treated for prescribed purposes as if they had married in the relevant part of the United Kingdom.
 
 #### Validity of consular marriage
 
-**5.**[^key-f9556fd37400c1255818a1009aee74e0][^key-bee157c89fe096838767fc4a154ec61b] A consular marriage is valid in law as if the marriage had been solemnized in the relevant part of the United Kingdom with a due observance of all forms required by the law of the relevant part of the United Kingdom.
+**5.**[^c-f9556fd37400c1255818a1009aee74e0][^c-bee157c89fe096838767fc4a154ec61b] A consular marriage is valid in law as if the marriage had been solemnized in the relevant part of the United Kingdom with a due observance of all forms required by the law of the relevant part of the United Kingdom.
 
 #### Interpretation
 
-**6.**[^key-082587b834bcb76efe50b61df185528f][^key-d579bb35d2d7ac40d7b824659bab4f0f] In this Part of this Schedule—
+**6.**[^c-082587b834bcb76efe50b61df185528f][^c-d579bb35d2d7ac40d7b824659bab4f0f] In this Part of this Schedule—
 
 - “**consular marriage**” means a marriage solemnized in accordance with the provisions of this Part of this Schedule and any Order in Council made under it;
 - “**registration officer**” means—
@@ -76,7 +76,7 @@ in cases where the officer is satisfied that the conditions in sub-paragraph (2)
 
 #### Provision for certificates of no impediment
 
-**7.**[^key-c355c3a31ac77427829500945a2c8269][^key-022749dff1c6675c5af688356ad37126] (1) Her Majesty may by Order in Council make provision for the issue of certificates of no impediment to—
+**7.**[^c-c355c3a31ac77427829500945a2c8269][^c-022749dff1c6675c5af688356ad37126] (1) Her Majesty may by Order in Council make provision for the issue of certificates of no impediment to—
 
 - (a) United Kingdom nationals, and
 - (b) such other persons as may be prescribed,
@@ -89,7 +89,7 @@ who wish to marry in prescribed countries or territories outside the United King
 
 #### Provision for marriage of armed forces personnel
 
-**8.**[^key-e7ca41dbb28ccfe363b9a970a92e8c67][^key-94baadf1b2e8b50195d0fda20d4ee9c1] (1) Her Majesty may by Order in Council make provision for—
+**8.**[^c-e7ca41dbb28ccfe363b9a970a92e8c67][^c-94baadf1b2e8b50195d0fda20d4ee9c1] (1) Her Majesty may by Order in Council make provision for—
 
 - (a) a man and a woman to marry each other in any country or territory outside the United Kingdom, and
 - (b) for a same sex couple to marry in prescribed countries or territories outside the United Kingdom,
@@ -111,13 +111,13 @@ in the presence of an authorised person, in cases where the authorised person is
 
 C is to be regarded for the purposes of sub-paragraph (2)(a)(iii) as the child of P.
 
-(4)[^key-dadd1cb2af7a11da5a17eb9ad21c49ae] For the purposes of sub-paragraph (2)(b), two people who are in a qualifying civil partnership with each other are to be treated as not having been eligible to marry each other in Scotland.
+(4)[^c-dadd1cb2af7a11da5a17eb9ad21c49ae] For the purposes of sub-paragraph (2)(b), two people who are in a qualifying civil partnership with each other are to be treated as not having been eligible to marry each other in Scotland.
 
 (5) In sub-paragraph (4) “**qualifying civil partnership**” has the meaning given by section 5(6) of the Marriage (Scotland) Act 1977.
 
 #### Religious services at forces marriages of same sex couples
 
-**9.**[^key-e89ecc7d402ae54538ef294cc9d3ef8e][^key-84430a8535626525bc28bf8d7cfe4bc2] (1) An Order in Council under this Part of this Schedule may make provision about the solemnization of forces marriages of same sex couples according to religious rites and usages.
+**9.**[^c-e89ecc7d402ae54538ef294cc9d3ef8e][^c-84430a8535626525bc28bf8d7cfe4bc2] (1) An Order in Council under this Part of this Schedule may make provision about the solemnization of forces marriages of same sex couples according to religious rites and usages.
 
 (2) An Order in Council may, in particular, make provision—
 
@@ -146,15 +146,15 @@ C is to be regarded for the purposes of sub-paragraph (2)(a)(iii) as the child o
 
 #### Treatment of marriage as taking place in part of UK for certain purposes
 
-**10.**[^key-cc5d8ae509dbe7df3b0d9280767e7bd9][^key-f11f7b326607591c6a6f9c9ffa67c8ae][^key-6c3ac36d7e2f12544349b24798b5bf2c] An Order in Council under this Part of this Schedule may provide that two people who marry in a forces marriage are to be treated for prescribed purposes as if they had married in the relevant part of the United Kingdom.
+**10.**[^c-cc5d8ae509dbe7df3b0d9280767e7bd9][^c-f11f7b326607591c6a6f9c9ffa67c8ae][^c-6c3ac36d7e2f12544349b24798b5bf2c] An Order in Council under this Part of this Schedule may provide that two people who marry in a forces marriage are to be treated for prescribed purposes as if they had married in the relevant part of the United Kingdom.
 
 #### Validity of forces marriage
 
-**11.**[^key-38986585e986890776a0a2350c4477eb][^key-7c70a3d9f63ef002298abbfb443ae4dc] A forces marriage is valid in law as if the marriage had been solemnized in the relevant part of the United Kingdom with a due observance of all forms required by the law of the relevant part of the United Kingdom.
+**11.**[^c-38986585e986890776a0a2350c4477eb][^c-7c70a3d9f63ef002298abbfb443ae4dc] A forces marriage is valid in law as if the marriage had been solemnized in the relevant part of the United Kingdom with a due observance of all forms required by the law of the relevant part of the United Kingdom.
 
 #### Interpretation
 
-**12.**[^key-2b43785d3818a0279b5ecf1fe4bd2851][^key-5e0a235b16ad4b5808ce98c98824e5da] (1) In this Part of this Schedule—
+**12.**[^c-2b43785d3818a0279b5ecf1fe4bd2851][^c-5e0a235b16ad4b5808ce98c98824e5da] (1) In this Part of this Schedule—
 
 - (a) a reference to a country or territory includes a reference to the waters of a country or territory;
 - (b) a reference to Her Majesty's forces serving in a country or territory includes a reference to such forces serving in a ship in the waters of a country or territory;
@@ -175,13 +175,13 @@ C is to be regarded for the purposes of sub-paragraph (2)(a)(iii) as the child o
 
 #### Parliamentary scrutiny
 
-**13.**[^key-aab102117d23d9ac2386a906a952e87f][^key-8b908ee67e78871fe0e9ac20dbeeadc3] (1) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this Schedule unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by resolution of, each House of Parliament.
+**13.**[^c-aab102117d23d9ac2386a906a952e87f][^c-8b908ee67e78871fe0e9ac20dbeeadc3] (1) No recommendation is to be made to Her Majesty in Council to make an Order in Council under this Schedule unless a draft of the statutory instrument containing the Order in Council has been laid before, and approved by resolution of, each House of Parliament.
 
 (2) In the case of an Order in Council containing provision which would (if contained in an Act of the Scottish Parliament) be within the legislative competence of that Parliament, no recommendation is to be made to Her Majesty under this paragraph unless the Scottish Ministers have been consulted.
 
 #### Particular kinds of provision
 
-**14.**[^key-72f2b350fda5b5d8d044464b0df71029][^key-b2834d0b57f4e818dd06b6c233c1da42] (1) An Order in Council under this Schedule may—
+**14.**[^c-72f2b350fda5b5d8d044464b0df71029][^c-b2834d0b57f4e818dd06b6c233c1da42] (1) An Order in Council under this Schedule may—
 
 - (a) make different provision for different purposes,
 - (b) make transitional, transitory or saving provision, or
@@ -193,7 +193,7 @@ C is to be regarded for the purposes of sub-paragraph (2)(a)(iii) as the child o
 
 #### Interpretation
 
-**15.**[^key-544d2a77c41705211a0b1f7a7117e387][^key-5dc12166f40e7a5a9574a59a662a9d39] In this Schedule—
+**15.**[^c-544d2a77c41705211a0b1f7a7117e387][^c-5dc12166f40e7a5a9574a59a662a9d39] In this Schedule—
 
 - “**prescribed**” means prescribed by an Order in Council made under this Schedule;
 - “**United Kingdom national**” means a person who is—
@@ -203,68 +203,68 @@ C is to be regarded for the purposes of sub-paragraph (2)(a)(iii) as the child o
 
 ## Annotations
 
-[^key-c63c75c11227b795a0f0416c0d555493]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/i)
+[^c-c63c75c11227b795a0f0416c0d555493]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/i)
 
-[^key-c483d3111a63e8ce45317e1b43d32d7e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-c483d3111a63e8ce45317e1b43d32d7e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-bc8a45e8b2230eeb5040f43360264dbc]: Textual amendment: [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1/4) inserted (27.1.2022) by [The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74)](https://www.legislation.gov.uk/uksi/2022/74), [art. 1](https://www.legislation.gov.uk/uksi/2022/74/article/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2022/74/schedule/1/paragraph/4/2)
+[^c-bc8a45e8b2230eeb5040f43360264dbc]: Textual amendment: [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/1/4) inserted (27.1.2022) by [The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74)](https://www.legislation.gov.uk/uksi/2022/74), [art. 1](https://www.legislation.gov.uk/uksi/2022/74/article/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2022/74/schedule/1/paragraph/4/2)
 
-[^key-2538a7aadbd9c2d524b0dd98f38b08b2]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/2) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/i)
+[^c-2538a7aadbd9c2d524b0dd98f38b08b2]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/2) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/i)
 
-[^key-a68f39a18d0b1869831887efc250d193]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/2) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-a68f39a18d0b1869831887efc250d193]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/2) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-b0252ced960dcf543ba24c53bcc16b1b]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/3) in force at 3.6.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-b0252ced960dcf543ba24c53bcc16b1b]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/3) in force at 3.6.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-e65a7ba338079e7e358f051327982e71]: Commencement: Sch. 6 para. 4 in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/ii)
+[^c-e65a7ba338079e7e358f051327982e71]: Commencement: Sch. 6 para. 4 in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/ii)
 
-[^key-c8d239580912b139b2dd0444eaeab7d6]: Commencement: Sch. 6 para. 4 in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-c8d239580912b139b2dd0444eaeab7d6]: Commencement: Sch. 6 para. 4 in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-c87027530f3efbff7ad1e7d6d6a89ad8]: Modification: Sch. 6 para. 4 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c87027530f3efbff7ad1e7d6d6a89ad8]: Modification: Sch. 6 para. 4 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-f9556fd37400c1255818a1009aee74e0]: Commencement: Sch. 6 para. 5 in force at 3.6.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-f9556fd37400c1255818a1009aee74e0]: Commencement: Sch. 6 para. 5 in force at 3.6.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-bee157c89fe096838767fc4a154ec61b]: Modification: Sch. 6 para. 5 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-bee157c89fe096838767fc4a154ec61b]: Modification: Sch. 6 para. 5 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-082587b834bcb76efe50b61df185528f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/6) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
+[^c-082587b834bcb76efe50b61df185528f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/6) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
 
-[^key-d579bb35d2d7ac40d7b824659bab4f0f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/6) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-d579bb35d2d7ac40d7b824659bab4f0f]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/6) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-c355c3a31ac77427829500945a2c8269]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/7) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
+[^c-c355c3a31ac77427829500945a2c8269]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/7) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
 
-[^key-022749dff1c6675c5af688356ad37126]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/7) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-022749dff1c6675c5af688356ad37126]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/7) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-e7ca41dbb28ccfe363b9a970a92e8c67]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
+[^c-e7ca41dbb28ccfe363b9a970a92e8c67]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
 
-[^key-94baadf1b2e8b50195d0fda20d4ee9c1]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-94baadf1b2e8b50195d0fda20d4ee9c1]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-dadd1cb2af7a11da5a17eb9ad21c49ae]: Textual amendment: [Sch. 6 para. 8(4)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8/4)[(5)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8/5) inserted (27.1.2022) by [The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74)](https://www.legislation.gov.uk/uksi/2022/74), [art. 1](https://www.legislation.gov.uk/uksi/2022/74/article/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/74/schedule/1/paragraph/4/3)
+[^c-dadd1cb2af7a11da5a17eb9ad21c49ae]: Textual amendment: [Sch. 6 para. 8(4)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8/4)[(5)](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/8/5) inserted (27.1.2022) by [The Civil Partnership (Scotland) Act 2020 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Modifications) Order 2022 (S.I. 2022/74)](https://www.legislation.gov.uk/uksi/2022/74), [art. 1](https://www.legislation.gov.uk/uksi/2022/74/article/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/74/schedule/1/paragraph/4/3)
 
-[^key-e89ecc7d402ae54538ef294cc9d3ef8e]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/9) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
+[^c-e89ecc7d402ae54538ef294cc9d3ef8e]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/9) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
 
-[^key-84430a8535626525bc28bf8d7cfe4bc2]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/9) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-84430a8535626525bc28bf8d7cfe4bc2]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/9) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-cc5d8ae509dbe7df3b0d9280767e7bd9]: Commencement: Sch. 6 para. 10 in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
+[^c-cc5d8ae509dbe7df3b0d9280767e7bd9]: Commencement: Sch. 6 para. 10 in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iii)
 
-[^key-f11f7b326607591c6a6f9c9ffa67c8ae]: Commencement: Sch. 6 para. 10 in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-f11f7b326607591c6a6f9c9ffa67c8ae]: Commencement: Sch. 6 para. 10 in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-6c3ac36d7e2f12544349b24798b5bf2c]: Modification: Sch. 6 para. 10 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-6c3ac36d7e2f12544349b24798b5bf2c]: Modification: Sch. 6 para. 10 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-38986585e986890776a0a2350c4477eb]: Commencement: Sch. 6 para. 11 in force at 3.6.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-38986585e986890776a0a2350c4477eb]: Commencement: Sch. 6 para. 11 in force at 3.6.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-7c70a3d9f63ef002298abbfb443ae4dc]: Modification: Sch. 6 para. 11 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-7c70a3d9f63ef002298abbfb443ae4dc]: Modification: Sch. 6 para. 11 extended (Northern Ireland) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/11/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2b43785d3818a0279b5ecf1fe4bd2851]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/12) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
+[^c-2b43785d3818a0279b5ecf1fe4bd2851]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/12) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
 
-[^key-5e0a235b16ad4b5808ce98c98824e5da]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/12) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-5e0a235b16ad4b5808ce98c98824e5da]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/12) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-aab102117d23d9ac2386a906a952e87f]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/13) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
+[^c-aab102117d23d9ac2386a906a952e87f]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/13) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
 
-[^key-8b908ee67e78871fe0e9ac20dbeeadc3]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/13) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-8b908ee67e78871fe0e9ac20dbeeadc3]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/13) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-72f2b350fda5b5d8d044464b0df71029]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/14) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
+[^c-72f2b350fda5b5d8d044464b0df71029]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/14) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
 
-[^key-b2834d0b57f4e818dd06b6c233c1da42]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/14) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-b2834d0b57f4e818dd06b6c233c1da42]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/14) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
 
-[^key-544d2a77c41705211a0b1f7a7117e387]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/15) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
+[^c-544d2a77c41705211a0b1f7a7117e387]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/15) in force at 21.1.2014 for specified purposes by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2014/93/article/2/b/iv)
 
-[^key-5dc12166f40e7a5a9574a59a662a9d39]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/15) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)
+[^c-5dc12166f40e7a5a9574a59a662a9d39]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2013/30/schedule/6/paragraph/15) in force at 3.6.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/93/article/5/c)

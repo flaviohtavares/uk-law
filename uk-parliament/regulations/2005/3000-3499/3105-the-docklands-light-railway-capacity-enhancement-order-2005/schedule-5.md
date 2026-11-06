@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS TO BE TEMPORARILY STOPPED UP[^key-8f1b4e192559c36687605820d91295a6]
+## SCHEDULE 5 — STREETS TO BE TEMPORARILY STOPPED UP[^c-8f1b4e192559c36687605820d91295a6]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 13
 
 ## Annotations
 
-[^key-8f1b4e192559c36687605820d91295a6]: Commencement: Sch. 5 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-8f1b4e192559c36687605820d91295a6]: Commencement: Sch. 5 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

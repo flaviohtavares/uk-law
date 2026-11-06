@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5ZD. Breach of tenancy deposit limit: recoverability of excess[^key-d5afebfe141dc8ae307cb9bd76d46c77]
+## 5ZD. Breach of tenancy deposit limit: recoverability of excess[^c-d5afebfe141dc8ae307cb9bd76d46c77]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ the deposit is retained in connection with the new tenancy.
 
 ## Annotations
 
-[^key-d5afebfe141dc8ae307cb9bd76d46c77]: Textual amendment: [Arts. 5ZC](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZC), [5ZD](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZD) and cross-heading inserted (1.4.2023 with effect in accordance with s. 4(5)) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/20/section/4/2), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-d5afebfe141dc8ae307cb9bd76d46c77]: Textual amendment: [Arts. 5ZC](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZC), [5ZD](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZD) and cross-heading inserted (1.4.2023 with effect in accordance with s. 4(5)) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/20/section/4/2), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)

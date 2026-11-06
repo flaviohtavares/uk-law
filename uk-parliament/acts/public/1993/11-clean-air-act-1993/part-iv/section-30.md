@@ -40,9 +40,9 @@ as he considers appropriate.
 
 (4) It shall be duty of every local weights and measures authority to enforce the provisions of regulations under this section within its area; and subsection[^c10490571] (2) [^c10490581]. . .of section 26 of the [^c10490591]Trade Descriptions Act 1968 (reports and inquiries) shall apply as respects those authorities’ functions under this subsection as it applies to their functions under that Act.
 
-(5)[^key-a7eb49b8c02c6ada254f936fa70e8671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a7eb49b8c02c6ada254f936fa70e8671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-a5486106edbb5ace1446b82743d3d092] For the investigatory powers available to a local weights and measures authority for the purposes of the duty in subsection (4), see Schedule 5 to the Consumer Rights Act 2015.
+(5A)[^c-a5486106edbb5ace1446b82743d3d092] For the investigatory powers available to a local weights and measures authority for the purposes of the duty in subsection (4), see Schedule 5 to the Consumer Rights Act 2015.
 
 (6) In relation to Scotland—
 
@@ -53,9 +53,9 @@ and such regulations may apply any of the provisions of subsections (2) to (4) o
 
 (7) In Northern Ireland it shall be the duty of the Department of Economic Development to enforce the provisions of regulations under this section; and accordingly this section shall have effect in relation to Northern Ireland with the omission of subsection (4).
 
-(8)[^key-a97ab7c82d673233bce7b6dd04015b37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a97ab7c82d673233bce7b6dd04015b37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8A)[^key-2964baeab11a78bca247f2274e7f0023] For the investigatory powers available to the Department of Enterprise, Trade and Investment in Northern Ireland for the purposes of the duty in subsection (7), see Schedule 5 to the Consumer Rights Act 2015.
+(8A)[^c-2964baeab11a78bca247f2274e7f0023] For the investigatory powers available to the Department of Enterprise, Trade and Investment in Northern Ireland for the purposes of the duty in subsection (7), see Schedule 5 to the Consumer Rights Act 2015.
 
 (9) The Secretary of State shall for each financial year pay into the Consolidated Fund of Northern Ireland such sum as the Secretary of State and the Department of Economic Development for Northern Ireland may agree to be appropriate as representing the expenses incurred by that Department in enforcing the provisions of any regulations made under this section.
 
@@ -67,12 +67,12 @@ and such regulations may apply any of the provisions of subsections (2) to (4) o
 
 [^c10490591]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
 
-[^key-a7eb49b8c02c6ada254f936fa70e8671]: Textual amendment: S. 30(5) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-a7eb49b8c02c6ada254f936fa70e8671]: Textual amendment: S. 30(5) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-a5486106edbb5ace1446b82743d3d092]: Textual amendment: S. 30(5A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-a5486106edbb5ace1446b82743d3d092]: Textual amendment: S. 30(5A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
 [^c10490621]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
 
-[^key-a97ab7c82d673233bce7b6dd04015b37]: Textual amendment: S. 30(8) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(4)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/4); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-a97ab7c82d673233bce7b6dd04015b37]: Textual amendment: S. 30(8) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(4)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/4); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-2964baeab11a78bca247f2274e7f0023]: Textual amendment: S. 30(8A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(5)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-2964baeab11a78bca247f2274e7f0023]: Textual amendment: S. 30(8A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 52(5)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/52/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)

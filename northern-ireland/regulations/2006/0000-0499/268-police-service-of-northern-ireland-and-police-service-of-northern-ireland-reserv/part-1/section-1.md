@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-43be8779ac5e2811bbee36fcd4f45c4b]
+## 1. Citation and commencement[^c-43be8779ac5e2811bbee36fcd4f45c4b]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ These Regulations may be cited as the Police Service of Northern Ireland and Pol
 
 ## Annotations
 
-[^key-43be8779ac5e2811bbee36fcd4f45c4b]: Commencement: Reg. 1 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-43be8779ac5e2811bbee36fcd4f45c4b]: Commencement: Reg. 1 in operation at 25.7.2006 with effect in accordance with reg. 1
 
 [^f00005]: Footnote: Retrospective effect is permitted by Articles 14 and 15 of the Superannuation (Northern Ireland) Order 1972

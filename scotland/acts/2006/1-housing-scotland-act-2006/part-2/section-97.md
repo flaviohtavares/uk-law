@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Interpretation of Part 2[^key-1e8b40e604ea68f733e48d6ec4aae1e9]
+## 97. Interpretation of Part 2[^c-1e8b40e604ea68f733e48d6ec4aae1e9]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8b40e604ea68f733e48d6ec4aae1e9]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2006/1/section/97) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-1e8b40e604ea68f733e48d6ec4aae1e9]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2006/1/section/97) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

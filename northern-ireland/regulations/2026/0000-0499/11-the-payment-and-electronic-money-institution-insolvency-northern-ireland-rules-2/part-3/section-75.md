@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Termination of membership[^key-20cfb27df65d88b4742903ed63706dbc]
+## 75. Termination of membership[^c-20cfb27df65d88b4742903ed63706dbc]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ but the administrator may require that person to resign if the administrator thi
 
 ## Annotations
 
-[^key-20cfb27df65d88b4742903ed63706dbc]: Commencement: [Rule 75](https://www.legislation.gov.uk/nisr/2026/11/rule/75) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-20cfb27df65d88b4742903ed63706dbc]: Commencement: [Rule 75](https://www.legislation.gov.uk/nisr/2026/11/rule/75) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

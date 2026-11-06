@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Scottish Ministers: information and research[^key-56db5de504f3e703bd41ff7c153ca191][^key-efb43e23149c042574e87b8ff85e28d3]
+## 21. Scottish Ministers: information and research[^c-56db5de504f3e703bd41ff7c153ca191][^c-efb43e23149c042574e87b8ff85e28d3]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56db5de504f3e703bd41ff7c153ca191]: Commencement: S. 21 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-56db5de504f3e703bd41ff7c153ca191]: Commencement: S. 21 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-efb43e23149c042574e87b8ff85e28d3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/13/section/21) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-efb43e23149c042574e87b8ff85e28d3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2025/13/section/21) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

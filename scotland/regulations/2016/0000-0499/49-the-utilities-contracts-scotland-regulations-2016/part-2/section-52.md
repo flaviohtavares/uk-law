@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Electronic catalogues[^key-d11ed3773f284185ebd5efccd947a192]
+## 52. Electronic catalogues[^c-d11ed3773f284185ebd5efccd947a192]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 - (a) state that to be the case in—
   - (i) the contract notice;
-  - (ii)[^key-e25ffa819b713182b8c7e9911ae4ecbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-e25ffa819b713182b8c7e9911ae4ecbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) where the means of calling for competition is a notice on the existence of a qualification system, the invitation to tender or negotiate; and
 - (b) indicate in the procurement documents all the necessary information pursuant to regulation 38(16) to (25) (rules applicable to communication) concerning the format, the electronic equipment used and the technical connection arrangements and specifications for the catalogue.
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d11ed3773f284185ebd5efccd947a192]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2016/49/regulation/52) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-d11ed3773f284185ebd5efccd947a192]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2016/49/regulation/52) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-e25ffa819b713182b8c7e9911ae4ecbc]: Textual amendment: [Reg. 52(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/49/regulation/52/5/a/ii) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(14)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/14) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-e25ffa819b713182b8c7e9911ae4ecbc]: Textual amendment: [Reg. 52(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2016/49/regulation/52/5/a/ii) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(14)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/14) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

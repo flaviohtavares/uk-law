@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Lending limit for building societies[^key-b72302e33976dc533d15451c35b05036]
+## 194. Lending limit for building societies[^c-b72302e33976dc533d15451c35b05036]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b72302e33976dc533d15451c35b05036]: Commencement: Art. 194 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b72302e33976dc533d15451c35b05036]: Commencement: Art. 194 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00136]: Footnote: Section 6 was substituted by the Building Societies Act [1997 (c. 32)](https://www.legislation.gov.uk/ukpga/1997/32), section 4 and amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) Schedule 3 paragraph 134.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11G. Energy efficiency of dwelling-houses let under a private tenancy[^key-8716191a9335cc42616d25bc64d02230]
+## 11G. Energy efficiency of dwelling-houses let under a private tenancy[^c-8716191a9335cc42616d25bc64d02230]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ works or measures specified in the exemption are to be regarded, for the purpose
 
 ## Annotations
 
-[^key-8716191a9335cc42616d25bc64d02230]: Textual amendment: [Arts. 11G](https://www.legislation.gov.uk/nisi/2006/1459/article/11G), [11H](https://www.legislation.gov.uk/nisi/2006/1459/article/11H) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/2/paragraph/2)
+[^c-8716191a9335cc42616d25bc64d02230]: Textual amendment: [Arts. 11G](https://www.legislation.gov.uk/nisi/2006/1459/article/11G), [11H](https://www.legislation.gov.uk/nisi/2006/1459/article/11H) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/2/paragraph/2)

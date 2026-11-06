@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Revocation of Commission Delegated Regulation (EU) No. 272/2012[^key-d43402082ca2064b9744ac9e9dde6e3c]
+## 101. Revocation of Commission Delegated Regulation (EU) No. 272/2012[^c-d43402082ca2064b9744ac9e9dde6e3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Delegated Regulation (EU) No 272/2012 of 7 February 2012 supplementin
 
 ## Annotations
 
-[^key-d43402082ca2064b9744ac9e9dde6e3c]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d43402082ca2064b9744ac9e9dde6e3c]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

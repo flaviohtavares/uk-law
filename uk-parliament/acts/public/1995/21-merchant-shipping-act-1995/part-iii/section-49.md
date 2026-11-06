@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Prohibition of going to sea undermanned.[^key-1d277da1ad773b461ebbc95eee9a9e4c][^key-54a64cdcbeb3d4ac3ec7f1f59cc454fb]
+## 49. Prohibition of going to sea undermanned.[^c-1d277da1ad773b461ebbc95eee9a9e4c][^c-54a64cdcbeb3d4ac3ec7f1f59cc454fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ and the ship, if in the United Kingdom, may be detained.
 
 ## Annotations
 
-[^key-1d277da1ad773b461ebbc95eee9a9e4c]: Modification: [S. 49](https://www.legislation.gov.uk/ukpga/1995/21/section/49) modified (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [24(3)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/24/3)
+[^c-1d277da1ad773b461ebbc95eee9a9e4c]: Modification: [S. 49](https://www.legislation.gov.uk/ukpga/1995/21/section/49) modified (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [24(3)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/24/3)
 
-[^key-54a64cdcbeb3d4ac3ec7f1f59cc454fb]: Modification: [Ss. 47-50](https://www.legislation.gov.uk/ukpga/1995/21/section/47) extended (in so far as not already extended) (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/4/1/a)
+[^c-54a64cdcbeb3d4ac3ec7f1f59cc454fb]: Modification: [Ss. 47-50](https://www.legislation.gov.uk/ukpga/1995/21/section/47) extended (in so far as not already extended) (1.1.2007) by [The Merchant Shipping (Inland Waterway and Limited Coastal Operations) (Boatmasters’ Qualifications and Hours of Work) Regulations 2006 (S.I. 2006/3223)](https://www.legislation.gov.uk/uksi/2006/3223), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/1/b), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/3223/regulation/4/1/a)

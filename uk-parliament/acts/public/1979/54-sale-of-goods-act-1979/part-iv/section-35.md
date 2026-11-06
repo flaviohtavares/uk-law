@@ -30,7 +30,7 @@ summary: ''
 - (a) of ascertaining whether they are in conformity with the contract, and
 - (b) in the case of a contract for sale by sample, of comparing the bulk with the sample.
 
-(3)[^key-092a45bb008c3ed601f8b178b644eca8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-092a45bb008c3ed601f8b178b644eca8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The buyer is also deemed to have accepted the goods when after the lapse of a reasonable time he retains the goods without intimating to the seller that he has rejected them.
 
@@ -45,12 +45,12 @@ summary: ''
 
 (8) Paragraph 10 of Schedule 1 below applies in relation to a contract made before 22 April 1967 or (in the application of this Act to Northern Ireland) 28 July 1967.
 
-(9)[^key-afd2653d0c5d0fceaa5c9389314cc52a] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 21 of that Act).
+(9)[^c-afd2653d0c5d0fceaa5c9389314cc52a] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 21 of that Act).
 
 ## Annotations
 
 [^c1108933]: Textual amendment: Words in s. 35 substituted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1994/35/section/2/1), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
-[^key-092a45bb008c3ed601f8b178b644eca8]: Textual amendment: [S. 35(3)](https://www.legislation.gov.uk/ukpga/1979/54/section/35/3) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/24/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-092a45bb008c3ed601f8b178b644eca8]: Textual amendment: [S. 35(3)](https://www.legislation.gov.uk/ukpga/1979/54/section/35/3) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 24(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/24/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-afd2653d0c5d0fceaa5c9389314cc52a]: Textual amendment: [S. 35(9)](https://www.legislation.gov.uk/ukpga/1979/54/section/35/9) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/24/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-afd2653d0c5d0fceaa5c9389314cc52a]: Textual amendment: [S. 35(9)](https://www.legislation.gov.uk/ukpga/1979/54/section/35/9) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/24/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

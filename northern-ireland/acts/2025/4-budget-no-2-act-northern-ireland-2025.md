@@ -102,7 +102,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (3) The authorisations in this section and in section 3 supersede those made by sections 9 and 10 of the Budget Act (Northern Ireland) 2025, which total £12,148,157,000.
 
-### 5. Power to borrow[^key-097786ec01fa35627ad2fb9a9e0adbae]
+### 5. Power to borrow[^c-097786ec01fa35627ad2fb9a9e0adbae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1030,4 +1030,4 @@ Costs awarded and court costs recovered by the NI Court and Tribunals Service on
 
 ## Annotations
 
-[^key-097786ec01fa35627ad2fb9a9e0adbae]: Textual amendment: [S. 5](https://www.legislation.gov.uk/nia/2025/4/section/5) omitted (20.3.2026) by virtue of [Budget Act (Northern Ireland) 2026 (c. 3)](https://www.legislation.gov.uk/nia/2026/3), [s. 5(3)](https://www.legislation.gov.uk/nia/2026/3/section/5/3)
+[^c-097786ec01fa35627ad2fb9a9e0adbae]: Textual amendment: [S. 5](https://www.legislation.gov.uk/nia/2025/4/section/5) omitted (20.3.2026) by virtue of [Budget Act (Northern Ireland) 2026 (c. 3)](https://www.legislation.gov.uk/nia/2026/3), [s. 5(3)](https://www.legislation.gov.uk/nia/2026/3/section/5/3)

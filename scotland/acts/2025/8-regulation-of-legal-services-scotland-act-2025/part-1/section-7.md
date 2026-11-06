@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Regulatory categories[^key-20689a18cd32b92c3adca6213e549bef][^key-7035e98acd176b125eecf42a572ed465]
+## 7. Regulatory categories[^c-20689a18cd32b92c3adca6213e549bef][^c-7035e98acd176b125eecf42a572ed465]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) a category 2 regulator, or
 - (b) in relation to licensed legal services providers, an approved regulator of such providers (for which, see Part 2 of the 2010 Act).
 
-(2)[^key-f98689f4b19673f8a859bd5150a85cdd] The Law Society of Scotland is assigned as a category 1 regulator.
+(2)[^c-f98689f4b19673f8a859bd5150a85cdd] The Law Society of Scotland is assigned as a category 1 regulator.
 
 (3) The Faculty of Advocates (acting on behalf of the Court of Session) and the Association of Construction Attorneys are assigned as category 2 regulators.
 
@@ -80,8 +80,8 @@ summary: ''
 
 ## Annotations
 
-[^key-20689a18cd32b92c3adca6213e549bef]: Commencement: S. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-20689a18cd32b92c3adca6213e549bef]: Commencement: S. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-7035e98acd176b125eecf42a572ed465]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/8/section/7) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-7035e98acd176b125eecf42a572ed465]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/8/section/7) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-f98689f4b19673f8a859bd5150a85cdd]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/asp/2025/8/section/7/2) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-f98689f4b19673f8a859bd5150a85cdd]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/asp/2025/8/section/7/2) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

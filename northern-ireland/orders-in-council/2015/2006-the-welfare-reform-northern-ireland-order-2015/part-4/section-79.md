@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Community care grants[^key-044b0f4608a44b4b315a7414952896e4]
+## 79. Community care grants[^c-044b0f4608a44b4b315a7414952896e4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Sections 15 to 17 of the Welfare Reform Act (Northern Ireland) 2010 (provisions 
 
 ## Annotations
 
-[^key-044b0f4608a44b4b315a7414952896e4]: Commencement: [Art. 79](https://www.legislation.gov.uk/nisi/2015/2006/article/79) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/46/article/3/3)
+[^c-044b0f4608a44b4b315a7414952896e4]: Commencement: [Art. 79](https://www.legislation.gov.uk/nisi/2015/2006/article/79) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/46/article/3/3)

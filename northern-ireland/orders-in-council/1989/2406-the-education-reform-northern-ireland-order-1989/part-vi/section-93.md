@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of this Article that procedure is pending in relation to a school when it has been initiated in relation to the school on any occasion and not terminated (as initiated on that occasion).
 
-(3) For those purposes that procedure is to be regarded as initiated in relation to any school on any occasion on receipt by the[^c17609991] Authority[^key-45d7b7e6b9c01bf67f776ed0481bb525] , in the case of a controlled school, or the trustees of the school, in the case of a voluntary school, of notice under Article 69(4)(b).
+(3) For those purposes that procedure is to be regarded as initiated in relation to any school on any occasion on receipt by the[^c17609991] Authority[^c-45d7b7e6b9c01bf67f776ed0481bb525] , in the case of a controlled school, or the trustees of the school, in the case of a voluntary school, of notice under Article 69(4)(b).
 
 [(4)[^c17609991] For those purposes, that procedure, as initiated on any occasion, is to be regarded as terminated if—
 
@@ -61,4 +61,4 @@ and a proposal under that Article with respect to a school shall not be treated 
 
 [^c17609991]: Textual amendment: [1996 NI 1](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-45d7b7e6b9c01bf67f776ed0481bb525]: Textual amendment: Word in art. 93(3) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(10)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/10) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-45d7b7e6b9c01bf67f776ed0481bb525]: Textual amendment: Word in art. 93(3) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(10)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/10) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

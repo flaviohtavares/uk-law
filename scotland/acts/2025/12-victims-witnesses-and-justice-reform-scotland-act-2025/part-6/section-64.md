@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Jury service: assistance for jurors with communication[^key-e0b905dcddec68175015f4aa6af75792][^key-e17f8f9ac11d4d7019c575ae3d64eeb9]
+## 64. Jury service: assistance for jurors with communication[^c-e0b905dcddec68175015f4aa6af75792][^c-e17f8f9ac11d4d7019c575ae3d64eeb9]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0b905dcddec68175015f4aa6af75792]: Commencement: S. 64 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-e0b905dcddec68175015f4aa6af75792]: Commencement: S. 64 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-e17f8f9ac11d4d7019c575ae3d64eeb9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2025/12/section/64) in force at 2.11.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-e17f8f9ac11d4d7019c575ae3d64eeb9]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2025/12/section/64) in force at 2.11.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Nothing in these Regulations[^key-cb17e9fec197bba3464dd5bdd893f443] requires or authorises the making of any payment, which, if made, would be an unauthorised payment for the purposes of Part 4 of the 2004 Act (see section 160(5) of that Act).
+Nothing in these Regulations[^c-cb17e9fec197bba3464dd5bdd893f443] requires or authorises the making of any payment, which, if made, would be an unauthorised payment for the purposes of Part 4 of the 2004 Act (see section 160(5) of that Act).
 
 ## Annotations
 
-[^key-cb17e9fec197bba3464dd5bdd893f443]: Textual amendment: Word in [reg. 2.J.12](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.12) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [49](https://www.legislation.gov.uk/uksi/2013/413/regulation/49)
+[^c-cb17e9fec197bba3464dd5bdd893f443]: Textual amendment: Word in [reg. 2.J.12](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.12) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [49](https://www.legislation.gov.uk/uksi/2013/413/regulation/49)

@@ -30,7 +30,7 @@ summary: ''
 (3) Subsection (2) above does not apply where, in consequence of the recipient or other person reaching the qualifying age, a question arises in relation to the recipient's entitlement to—
 
 - (a) a benefit under the Contributions and Benefits Act;
-- (aa)[^key-c454d7201f629c8fb7c3581f08a10f7f] personal independence payment; or
+- (aa)[^c-c454d7201f629c8fb7c3581f08a10f7f] personal independence payment; or
 - (b) a jobseeker's allowance.
 
 (4) Subsection (3)(b) above does not apply to the question—
@@ -46,4 +46,4 @@ summary: ''
 
 [^c24153651]: Textual amendment: Words in s. 160A(2) substituted (18.10.1999 for specified purposes) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 98](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/98); [S.I. 1999/2860](https://www.legislation.gov.uk/uksi/1999/2860), [art. 2(c)](https://www.legislation.gov.uk/uksi/1999/2860/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2860/schedule/1)
 
-[^key-c454d7201f629c8fb7c3581f08a10f7f]: Textual amendment: [S. 160A(3)(aa)](https://www.legislation.gov.uk/ukpga/1992/5/section/160A/3/aa) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/23); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)
+[^c-c454d7201f629c8fb7c3581f08a10f7f]: Textual amendment: [S. 160A(3)(aa)](https://www.legislation.gov.uk/ukpga/1992/5/section/160A/3/aa) inserted (8.4.2013 for specified purposes, 10.6.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 9 para. 23](https://www.legislation.gov.uk/ukpga/2012/5/schedule/9/paragraph/23); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 7(1)](https://www.legislation.gov.uk/uksi/2013/358/article/7/1)[(2)(k)](https://www.legislation.gov.uk/uksi/2013/358/article/7/2/k), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/358/schedule/3); [S.I. 2013/1250](https://www.legislation.gov.uk/uksi/2013/1250), [art. 2](https://www.legislation.gov.uk/uksi/2013/1250/article/2)

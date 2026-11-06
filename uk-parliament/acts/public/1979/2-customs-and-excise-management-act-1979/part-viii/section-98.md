@@ -34,7 +34,7 @@ summary: ''
 - (a) subsection (6) and (7) of section 99 below shall apply to them as if they were deposited in a Queen’s warehouse under the Customs and Excise Acts 1979; and
 - (b) sections 93, 94, 95 and 97 above and section 100 below shall apply and any security given by bond or otherwise and any condition imposed by or under the customs and excise Acts shall continue to have effect, as if the former warehouse were still a warehouse.
 
-(4) In this section “the prescribed period” means the period of 3 months.[^key-0037bd7f93be5a3047cb9fcffc1f2cf8]
+(4) In this section “the prescribed period” means the period of 3 months.[^c-0037bd7f93be5a3047cb9fcffc1f2cf8]
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c14776851]: Textual amendment: S. 98(3)(3A) substituted for s. 98(3) by [Finance Act 1981 (c. 35, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 11](https://www.legislation.gov.uk/ukpga/1981/35/section/11), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/1981/35/schedule/8/paragraph/4)(*b*)
 
-[^key-0037bd7f93be5a3047cb9fcffc1f2cf8]: Textual amendment: [S. 98(4)](https://www.legislation.gov.uk/ukpga/1979/2/section/98/4) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 86](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/86) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-0037bd7f93be5a3047cb9fcffc1f2cf8]: Textual amendment: [S. 98(4)](https://www.legislation.gov.uk/ukpga/1979/2/section/98/4) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 86](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/86) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

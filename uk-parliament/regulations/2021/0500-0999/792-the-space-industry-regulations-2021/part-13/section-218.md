@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Prescribed description of individuals to whom section 34(2) does not apply[^key-82bdfe904e09e95e5ae63334e6e20962]
+## 218. Prescribed description of individuals to whom section 34(2) does not apply[^c-82bdfe904e09e95e5ae63334e6e20962]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-82bdfe904e09e95e5ae63334e6e20962]: Commencement: Reg. 218 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-82bdfe904e09e95e5ae63334e6e20962]: Commencement: Reg. 218 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00062]: Footnote: [S.I. 2021/793](https://www.legislation.gov.uk/uksi/2021/793).
 

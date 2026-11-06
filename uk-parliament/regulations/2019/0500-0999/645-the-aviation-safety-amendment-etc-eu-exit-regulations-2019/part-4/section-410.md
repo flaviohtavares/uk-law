@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 410. Amendment of Article 4 of [Commission Regulation (EU) No 139/2014](https://www.legislation.gov.uk/eur/2014/0139)[^key-9d7824ea794697d06b54b610430daad5]
+## 410. Amendment of Article 4 of [Commission Regulation (EU) No 139/2014](https://www.legislation.gov.uk/eur/2014/0139)[^c-9d7824ea794697d06b54b610430daad5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 4 (information to the European Aviation Safety Agency).
 
 ## Annotations
 
-[^key-9d7824ea794697d06b54b610430daad5]: Commencement: Reg. 410 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9d7824ea794697d06b54b610430daad5]: Commencement: Reg. 410 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

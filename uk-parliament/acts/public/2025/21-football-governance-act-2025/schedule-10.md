@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 10 — Reviews[^key-361ee29295245537c25ed6c2110c69ad][^key-60c57326fd40cf112e814d2ff7d73aea]
+## Schedule 10 — Reviews[^c-361ee29295245537c25ed6c2110c69ad][^c-60c57326fd40cf112e814d2ff7d73aea]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ Section 81
 
 ## Annotations
 
-[^key-361ee29295245537c25ed6c2110c69ad]: Commencement: Sch. 10 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-361ee29295245537c25ed6c2110c69ad]: Commencement: Sch. 10 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-60c57326fd40cf112e814d2ff7d73aea]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2025/21/schedule/10) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)
+[^c-60c57326fd40cf112e814d2ff7d73aea]: Commencement: [Sch. 10](https://www.legislation.gov.uk/ukpga/2025/21/schedule/10) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/d)

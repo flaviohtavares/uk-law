@@ -23,12 +23,12 @@ summary: ''
 (1) Subsection (2) below applies where—
 
 - (a) an asset which is not a mobile asset is a qualifying asset for the purposes of the [^c1126312]Oil Taxation Act 1983 in relation to a person (“**the taxpayer**”) who is a participator in an oil field (“**the field**”);
-- (ba)[^key-bc739a9a7ed7b287b141f7a9df37d89a] Chapter 16A of Part 2 of the Income Tax (Trading and Other Income) Act 2005 (oil activities).
+- (ba)[^c-bc739a9a7ed7b287b141f7a9df37d89a] Chapter 16A of Part 2 of the Income Tax (Trading and Other Income) Act 2005 (oil activities).
 - (d) not more than two chargeable periods intervene between the earlier period and the later period.
 
 (2) The Oil Taxation Acts shall have effect, in relation to the later period and any subsequent chargeable period, as if—
 
-- (a) receipts of the taxpayer which are referable to the asset for the period concerned were tariff receipts , tax-exempt tariffing receipts[^key-3cc63c1fae293ff9cb8efad6995e200d] or disposal receipts attributable to the field for that period; and
+- (a) receipts of the taxpayer which are referable to the asset for the period concerned were tariff receipts , tax-exempt tariffing receipts[^c-3cc63c1fae293ff9cb8efad6995e200d] or disposal receipts attributable to the field for that period; and
 - (b) in a case falling within subsection (1)(c)(i) above, the taxpayer continued to be a participator in the field.
 
 (3) Subsection (4) below applies where—
@@ -57,7 +57,7 @@ summary: ''
 - (a) any sums which are received or receivable by the transferee otherwise than by virtue of his acquisition of the interest shall not be regarded for the purposes of subsection (4) above as receipts of his which are referable to the asset for any period; and
 - (b) for the purposes of paragraph (a) above, such apportionments shall be made as may be just and reasonable.
 
-(6A)[^key-70770bfc4ce0bb6552393ffa145b7c03] In relation to tax-exempt tariffing receipts, any reference in this section—
+(6A)[^c-70770bfc4ce0bb6552393ffa145b7c03] In relation to tax-exempt tariffing receipts, any reference in this section—
 
 - (a) to being attributable to a field for a period, or
 - (b) to being referable to an asset,
@@ -67,7 +67,7 @@ shall be construed as if tax-exempt tariffing receipts were tariff receipts (and
 (7) This section shall be construed as one with Part I of the [^c1126313]Oil Taxation Act 1975; and in this section “**the Oil Taxation Acts**” means—
 
 - (a) the enactments relating to petroleum revenue tax (including this section);
-- (aa)[^key-387d1635b34d81b7b04329ccf1464830] Part 8 of the Corporation Tax Act 2010 (oil activities); and
+- (aa)[^c-387d1635b34d81b7b04329ccf1464830] Part 8 of the Corporation Tax Act 2010 (oil activities); and
 - (ba) Chapter 16A of Part 2 of the Income Tax (Trading and Other Income) Act 2005 (oil activities).
 
 (8) Nothing in this section shall be taken to affect the meaning of “**participator**” in paragraph 4 of Schedule 2 to the principal Act.
@@ -90,12 +90,12 @@ was made on or after 1st July 1999.
 
 [^c1126312]: Marginal citation: [1983 c.56](https://www.legislation.gov.uk/ukpga/1983/56).
 
-[^key-bc739a9a7ed7b287b141f7a9df37d89a]: Textual amendment: S. 98(7)(ba) substituted for s. 98(7)(b)(c) (1.4.2010 with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 188](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/188) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-bc739a9a7ed7b287b141f7a9df37d89a]: Textual amendment: S. 98(7)(ba) substituted for s. 98(7)(b)(c) (1.4.2010 with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 188](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/188) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-3cc63c1fae293ff9cb8efad6995e200d]: Textual amendment: Words in s. 98 inserted (with effect in accordance with s. 285(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 12(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/12/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-3cc63c1fae293ff9cb8efad6995e200d]: Textual amendment: Words in s. 98 inserted (with effect in accordance with s. 285(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 12(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/12/2) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
-[^key-70770bfc4ce0bb6552393ffa145b7c03]: Textual amendment: S. 98(6A) inserted (with effect in accordance with s. 285(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 12(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/12/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
+[^c-70770bfc4ce0bb6552393ffa145b7c03]: Textual amendment: S. 98(6A) inserted (with effect in accordance with s. 285(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 37 para. 12(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/12/3) (with [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/part/2))
 
 [^c1126313]: Marginal citation: [1975 c.22](https://www.legislation.gov.uk/ukpga/1975/22).
 
-[^key-387d1635b34d81b7b04329ccf1464830]: Textual amendment: S. 98(7)(aa) inserted (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 302](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/302) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-387d1635b34d81b7b04329ccf1464830]: Textual amendment: S. 98(7)(aa) inserted (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 302](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/302) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

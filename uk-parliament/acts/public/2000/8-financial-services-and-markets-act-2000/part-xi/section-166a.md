@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166A. Appointment of skilled person to collect and update information[^key-8240220a91f924cf61f5ac5785cfa53c][^key-e86752e0e54ed5433d591f29ac788fe7]
+## 166A. Appointment of skilled person to collect and update information[^c-8240220a91f924cf61f5ac5785cfa53c][^c-e86752e0e54ed5433d591f29ac788fe7]
 
 *Extent: E+W+S+N.I.*
 
-[^key-653480f1705f74d1101001ad88c6fb8a]
+[^c-653480f1705f74d1101001ad88c6fb8a]
 
 (1) This section applies if either regulator considers that an authorised person has contravened a requirement in rules made by that regulator to collect, and keep up to date, information of a description specified in the rules.
 
@@ -50,20 +50,20 @@ summary: ''
 
 (9) A regulator may make rules providing for expenses incurred by it in relation to an appointment under subsection (2)(b) to be payable as a fee by the authorised person.
 
-(9A)[^key-a3b51d41511257fa9983eefcc065e766] The powers conferred by this section may also be exercised by the FCA in relation to a recognised investment exchange (and references to an authorised person are to be read accordingly).
+(9A)[^c-a3b51d41511257fa9983eefcc065e766] The powers conferred by this section may also be exercised by the FCA in relation to a recognised investment exchange (and references to an authorised person are to be read accordingly).
 
-(9B)[^key-258c4b4d6080f715ce82db700f4161d2] The powers conferred by this section may also be exercised by the FCA in relation to a person who is or has been subject to a relevant Part 5A requirement (and references to an authorised person are to be read accordingly).
+(9B)[^c-258c4b4d6080f715ce82db700f4161d2] The powers conferred by this section may also be exercised by the FCA in relation to a person who is or has been subject to a relevant Part 5A requirement (and references to an authorised person are to be read accordingly).
 
 (10) In this section “**authorised person**”, in relation to the PRA, means PRA-authorised person.
 
 ## Annotations
 
-[^key-8240220a91f924cf61f5ac5785cfa53c]: Modification: S. 166A applied (with modifications) by S.I. 2008/346, Sch. para. 4A (as inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/ii))
+[^c-8240220a91f924cf61f5ac5785cfa53c]: Modification: S. 166A applied (with modifications) by S.I. 2008/346, Sch. para. 4A (as inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/ii))
 
-[^key-e86752e0e54ed5433d591f29ac788fe7]: Textual amendment: S. 166A inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12/paragraph/6) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e86752e0e54ed5433d591f29ac788fe7]: Textual amendment: S. 166A inserted (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12/paragraph/6) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-653480f1705f74d1101001ad88c6fb8a]: Modification: Pt. 11 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
+[^c-653480f1705f74d1101001ad88c6fb8a]: Modification: Pt. 11 modified (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [82(13)](https://www.legislation.gov.uk/uksi/2018/1253/article/82/13)
 
-[^key-a3b51d41511257fa9983eefcc065e766]: Textual amendment: S. 166A(9A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/11/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/g)
+[^c-a3b51d41511257fa9983eefcc065e766]: Textual amendment: S. 166A(9A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/11/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/g)
 
-[^key-258c4b4d6080f715ce82db700f4161d2]: Textual amendment: S. 166A(9B) inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/7)
+[^c-258c4b4d6080f715ce82db700f4161d2]: Textual amendment: S. 166A(9B) inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/7)

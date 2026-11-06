@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94. Recovery and enforcement mechanisms[^key-322e463c28ead26451f6f77580a546e4][^key-7643a988017045344d9927d1da0ac86d]
+## 94. Recovery and enforcement mechanisms[^c-322e463c28ead26451f6f77580a546e4][^c-7643a988017045344d9927d1da0ac86d]
 
 *Extent: E+W+S*
 
@@ -117,6 +117,6 @@ summary: ''
 
 ## Annotations
 
-[^key-322e463c28ead26451f6f77580a546e4]: Commencement: S. 94 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-322e463c28ead26451f6f77580a546e4]: Commencement: S. 94 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-7643a988017045344d9927d1da0ac86d]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2025/28/section/94) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/a)
+[^c-7643a988017045344d9927d1da0ac86d]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2025/28/section/94) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/a)

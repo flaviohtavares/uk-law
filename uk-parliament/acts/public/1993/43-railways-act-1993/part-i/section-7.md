@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c14097671] The Secretary of State may, after consultation with the Office of Rail and Road[^key-d03f61e35d788b6a52981689820c5958] [^c18822451]... , by order grant exemption from the requirement to be authorised by licence to be the operator of such railway assets, or of railway assets of such a class or description, as may be specified in the order, but subject to compliance with such conditions (if any) as may be so specified.
+(1)[^c14097671] The Secretary of State may, after consultation with the Office of Rail and Road[^c-d03f61e35d788b6a52981689820c5958] [^c18822451]... , by order grant exemption from the requirement to be authorised by licence to be the operator of such railway assets, or of railway assets of such a class or description, as may be specified in the order, but subject to compliance with such conditions (if any) as may be so specified.
 
 (2) A licence exemption under subsection (1) above may be granted either—
 
@@ -80,7 +80,7 @@ may give to any relevant person a direction declaring that the licence exemption
 
 [^c14097671]: Modification: S. 7(1) restricted (*prosp.*) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 199(1)(a)(2)(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/199/1/a/2/3), [425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1))
 
-[^key-d03f61e35d788b6a52981689820c5958]: Textual amendment: Words in s. 7 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/c)
+[^c-d03f61e35d788b6a52981689820c5958]: Textual amendment: Words in s. 7 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/c)
 
 [^c18822451]: Textual amendment: Words in s. 7(1)(3) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/1/1/a), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/I) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 

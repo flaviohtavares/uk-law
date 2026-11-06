@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Duties of registration officer and staff in relation to the record[^key-bfd29eadc0e52aa2eabfbf9611820e4e]
+## 21. Duties of registration officer and staff in relation to the record[^c-bfd29eadc0e52aa2eabfbf9611820e4e]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ otherwise than in accordance with an enactment (including these Regulations) or 
 
 ## Annotations
 
-[^key-bfd29eadc0e52aa2eabfbf9611820e4e]: Commencement: Reg. 21 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-bfd29eadc0e52aa2eabfbf9611820e4e]: Commencement: Reg. 21 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00050]: Footnote: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371A. Power to make provision in relation to protected prisoners of war[^key-995cba82084576464638e4f41032db7f]
+## 371A. Power to make provision in relation to protected prisoners of war[^c-995cba82084576464638e4f41032db7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ subject to such modifications as may be contained in the Royal Warrant.
 
 ## Annotations
 
-[^key-995cba82084576464638e4f41032db7f]: Textual amendment: S. 371A and cross-heading inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/23/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-995cba82084576464638e4f41032db7f]: Textual amendment: S. 371A and cross-heading inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/23/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

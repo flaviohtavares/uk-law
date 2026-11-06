@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Section 135: exception for urgent treatment[^key-92fe3e79db838f5a77d4c49a784484fe]
+## 136. Section 135: exception for urgent treatment[^c-92fe3e79db838f5a77d4c49a784484fe]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92fe3e79db838f5a77d4c49a784484fe]: Commencement: [S. 136](https://www.legislation.gov.uk/nia/2016/18/section/136) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-92fe3e79db838f5a77d4c49a784484fe]: Commencement: [S. 136](https://www.legislation.gov.uk/nia/2016/18/section/136) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

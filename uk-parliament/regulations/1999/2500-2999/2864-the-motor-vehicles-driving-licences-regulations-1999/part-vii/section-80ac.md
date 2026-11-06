@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80AC. Modification of regulation 80: Ukraine Extension Scheme: first scenario[^key-2bd7d0acd78a76dc42e055a32a7541e8]
+## 80AC. Modification of regulation 80: Ukraine Extension Scheme: first scenario[^c-2bd7d0acd78a76dc42e055a32a7541e8]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bd7d0acd78a76dc42e055a32a7541e8]: Textual amendment: [Reg. 80AC](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AC) inserted (3.3.2025) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2025 (S.I. 2025/138)](https://www.legislation.gov.uk/uksi/2025/138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/138/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/138/regulation/7)
+[^c-2bd7d0acd78a76dc42e055a32a7541e8]: Textual amendment: [Reg. 80AC](https://www.legislation.gov.uk/uksi/1999/2864/regulation/80AC) inserted (3.3.2025) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2025 (S.I. 2025/138)](https://www.legislation.gov.uk/uksi/2025/138), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/138/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/138/regulation/7)

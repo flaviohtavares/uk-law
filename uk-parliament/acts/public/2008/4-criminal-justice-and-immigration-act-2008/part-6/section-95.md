@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Powers to arrest and detain persons believed to fall within section 4A(3) of Repatriation of Prisoners Act 1984[^key-52ad8f26ba1486c77ad630efccd72b25]
+## 95. Powers to arrest and detain persons believed to fall within section 4A(3) of Repatriation of Prisoners Act 1984[^c-52ad8f26ba1486c77ad630efccd72b25]
 
 *Extent: E+W*
 
@@ -115,4 +115,4 @@ After section 4C of the Repatriation of Prisoners Act 1984 (c. 47) (as inserted 
 
 ## Annotations
 
-[^key-52ad8f26ba1486c77ad630efccd72b25]: Commencement: S. 95 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/39)
+[^c-52ad8f26ba1486c77ad630efccd72b25]: Commencement: S. 95 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/39)

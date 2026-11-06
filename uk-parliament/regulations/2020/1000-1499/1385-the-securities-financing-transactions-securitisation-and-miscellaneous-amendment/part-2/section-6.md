@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Temporary deemed registration under the SFT Regulation[^key-8d57bc1c091016026bde39dfa48e977e]
+## 6. Temporary deemed registration under the SFT Regulation[^c-8d57bc1c091016026bde39dfa48e977e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d57bc1c091016026bde39dfa48e977e]: Commencement: Reg. 6 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-8d57bc1c091016026bde39dfa48e977e]: Commencement: Reg. 6 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

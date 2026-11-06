@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Detention pending deportation[^key-e5cbdc67944885d4b574e84701303958]
+## 34. Detention pending deportation[^c-e5cbdc67944885d4b574e84701303958]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5cbdc67944885d4b574e84701303958]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/19/section/34) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-e5cbdc67944885d4b574e84701303958]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/19/section/34) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

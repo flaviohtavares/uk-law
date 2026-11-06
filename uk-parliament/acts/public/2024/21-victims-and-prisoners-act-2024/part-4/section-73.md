@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Parole Board rules[^key-fdc9161940fed8d5af40dcda131b6c0b]
+## 73. Parole Board rules[^c-fdc9161940fed8d5af40dcda131b6c0b]
 
 *Extent: E+W*
 
-(1)[^key-fdc9161940fed8d5af40dcda131b6c0b] Section 239 of the Criminal Justice Act 2003 (the Parole Board) is amended as follows.
+(1)[^c-fdc9161940fed8d5af40dcda131b6c0b] Section 239 of the Criminal Justice Act 2003 (the Parole Board) is amended as follows.
 
-(2)[^key-653557633e53dcdbe91569202c1d98ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-653557633e53dcdbe91569202c1d98ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fdc9161940fed8d5af40dcda131b6c0b] After subsection (5C) insert—
+(3)[^c-fdc9161940fed8d5af40dcda131b6c0b] After subsection (5C) insert—
 
 > (5D) Rules under subsection (5) may also make provision for functions of the Board (including judicial functions) to be exercised by employees of the Board, other than any function so far as its exercise involves—
 >
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdc9161940fed8d5af40dcda131b6c0b]: Commencement: S. 73(1)(3) in force at Royal Assent, see [s. 81(1)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/b)
+[^c-fdc9161940fed8d5af40dcda131b6c0b]: Commencement: S. 73(1)(3) in force at Royal Assent, see [s. 81(1)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/b)
 
-[^key-653557633e53dcdbe91569202c1d98ac]: Textual amendment: S. 73(2) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 40](https://www.legislation.gov.uk/ukpga/2026/2/section/40), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-653557633e53dcdbe91569202c1d98ac]: Textual amendment: S. 73(2) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 40](https://www.legislation.gov.uk/ukpga/2026/2/section/40), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

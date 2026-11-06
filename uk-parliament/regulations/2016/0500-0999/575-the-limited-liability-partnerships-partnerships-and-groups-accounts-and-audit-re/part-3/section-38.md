@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendments to Section B of Part 2 of Schedule 1 (historical cost accounting rules: non-IAS individual accounts)[^key-cf2d0d9031ecb3754ee7a9069c96a8de]
+## 38. Amendments to Section B of Part 2 of Schedule 1 (historical cost accounting rules: non-IAS individual accounts)[^c-cf2d0d9031ecb3754ee7a9069c96a8de]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ In Section B of Part 2 of Schedule 1 (historical cost accounting rules: non-IAS 
 
 ## Annotations
 
-[^key-cf2d0d9031ecb3754ee7a9069c96a8de]: Commencement: Reg. 38 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-cf2d0d9031ecb3754ee7a9069c96a8de]: Commencement: Reg. 38 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to suspend or prohibit offer to the public[^key-eb9f9dad8cf2c08de0221aa2706a70a6]
+## 15. Power to suspend or prohibit offer to the public[^c-eb9f9dad8cf2c08de0221aa2706a70a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9f9dad8cf2c08de0221aa2706a70a6]: Textual amendment: Reg. 15 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [16(e)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/16/e) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))
+[^c-eb9f9dad8cf2c08de0221aa2706a70a6]: Textual amendment: Reg. 15 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [16(e)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/16/e) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))

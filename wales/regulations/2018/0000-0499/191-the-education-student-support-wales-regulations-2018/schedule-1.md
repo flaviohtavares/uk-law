@@ -42,7 +42,7 @@ Table 14
 | 1 April | On or after 1 April but before 1 July |
 | 1 July | On or after 1 July but before 1 August |
 
-### 2. Educational institutions[^key-592e75832735b76a6d2ef9256b751577]
+### 2. Educational institutions[^c-592e75832735b76a6d2ef9256b751577]
 
 In these regulations “recognised educational institution” means—
 
@@ -63,7 +63,7 @@ In these regulations “recognised educational institution” means—
   - (iii) a Scottish funded institution;
   - (iv) a Northern Irish funded institution.
 
-**2A.**[^key-48e779530fb10a31786def637e9d8b0e] (1)[^M_C_11a06b61-1d5d-4df3-d674-674a29065163] In these regulations—
+**2A.**[^c-48e779530fb10a31786def637e9d8b0e] (1)[^M_C_11a06b61-1d5d-4df3-d674-674a29065163] In these regulations—
 
 - (a) “Welsh funded institution” means an institution maintained or assisted by recurrent grants out of funds provided by the Welsh Ministers;
 - (b) “Welsh regulated institution” means an institution which has a fee and access plan approved by the Higher Education Funding Council for Wales under section 7 of the Higher Education (Wales) Act 2015 whilst that plan remains in force;
@@ -128,7 +128,7 @@ In these regulations “recognised educational institution” means—
 - (b) at least one period of study or work placement under the scheme is attended at an institution or workplace outside the United Kingdom during the academic year, and
 - (c) during that academic year and any previous academic years of the course, the aggregate of any one or more periods of attendance (which are not periods of full-time study at the institution in England, Scotland or Wales), disregarding any intervening vacations, exceeds 30 weeks.
 
-(3)[^key-1d86712e5145e975b2a5132b913ae195] In sub-paragraph (1), “ERASMUS scheme” means—
+(3)[^c-1d86712e5145e975b2a5132b913ae195] In sub-paragraph (1), “ERASMUS scheme” means—
 
 - (a) the European Union’s action scheme for the mobility of university students,
 - (b) the scheme established by the Secretary of State for Education known as the Turing Scheme, or
@@ -168,7 +168,7 @@ FT is—
 
 (1) In these Regulations—
 
-- “the 2020 Citizens’ Rights Regulations” (“[^key-c4696b9a4a62dc0ce0e92a6522c40825]*Rheoliadau Hawliau Dinasyddion 2020*”) means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;
+- “the 2020 Citizens’ Rights Regulations” (“[^c-c4696b9a4a62dc0ce0e92a6522c40825]*Rheoliadau Hawliau Dinasyddion 2020*”) means the Citizens’ Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020;
 - “**academic authority**” (“***awdurdod academiadd***”) means, in relation to an institution, the governing body or other body having the functions of a governing body and includes a person acting with the authority of that body;
 - “**accelerated graduate entry course**” (“***cwrs mynediad graddedig carlam***”) means a full-time course—
   - (a) which leads to a qualification as a medical doctor or dentist,
@@ -179,14 +179,14 @@ FT is—
   - (a) P's spouse or civil partner;
   - (b) a person ordinarily living with P as if the person were P's spouse or civil partner;
   - (c) P's parent, where P is under the age of 25;
-  - (d) P’s child, where P is dependent on that child;[^key-b6d907ff2a0b96938d1e13bf3fc95608]
+  - (d) P’s child, where P is dependent on that child;[^c-b6d907ff2a0b96938d1e13bf3fc95608]
 - “**compressed degree course**” (“***cwrs gradd cywasgedig***”) means a course determined as such by—
   - (a) the Welsh Ministers in accordance with sub-paragraph (2), or
   - (b) the Secretary of State in accordance with regulation 2(2) of the Education (Student Support) Regulations 2011 [^c23554781];
 - “**compressed first year course**” (“***cwrs blwyddyn gyntaf gywasgedig***”) means a course where—
   - (a) the first year is to be completed in a period of not more than seven months, and
   - (b) no other years of the course are undertaken on such a compressed basis;
-- [^key-a41d123749f373115b5daff63dd37375]...
+- [^c-a41d123749f373115b5daff63dd37375]...
 - “course for the initial training of teachers” (“*cwrs ar gyfer hyfforddiant cychwynnol athrawon”)* includes a teacher training course leading to a first degree but excludes an employment-based teacher training scheme (within the meaning given by regulation 7(2));
 - “**distance learning course**” (“***cwrs dysgu o bell***”) means a course in relation to which a student undertaking the course is not required to be in attendance by the institution providing the course, other than to satisfy any requirement imposed by the institution to attend any institution—
   - (a) for the purposes of registration, enrolment or examination, or
@@ -207,28 +207,28 @@ FT is—
     - “**relevant education course**” (“***cwrs addysg perthnasol***”) means—
     - (a) a course for the diploma of higher education,
     - (b) a course for the Higher National Diploma or Higher National Certificate of—
-    - (i) the Business and Technology Education Council, [^key-1040046b401dc7ac2ccab9fcc543b709]...
+    - (i) the Business and Technology Education Council, [^c-1040046b401dc7ac2ccab9fcc543b709]...
     - (ii) the Scottish Qualification Authority, or
-    - (iii) Qualifications Scotland, or[^key-36e1b392e4bbd9e37b20e9832da6f7ea]
+    - (iii) Qualifications Scotland, or[^c-36e1b392e4bbd9e37b20e9832da6f7ea]
     - (c) a course for the certificate of Higher Education,
 
     for which the student received or was entitled to receive support under these Regulations;
-- “**fees**” (“***ffioedd***”) has the meaning given in section 57(1) of the Higher Education (Wales) Act 2015 [^c23554791] [^key-25db05dce8a74283dbcdac6a679f022e]...;
-- [^key-fa18f1987e342f9e6f72c16da3c3cd5d]...
+- “**fees**” (“***ffioedd***”) has the meaning given in section 57(1) of the Higher Education (Wales) Act 2015 [^c23554791] [^c-25db05dce8a74283dbcdac6a679f022e]...;
+- [^c-fa18f1987e342f9e6f72c16da3c3cd5d]...
 - “**member of the armed forces**” (“***aelod o'r lluoedd arfog***”) means a member of the regular naval, military or air forces of the Crown;
 - “**period of work experience**” (“***cyfnod o brofiad gwaith***”) means—
   - (a) a period of industrial, professional or commercial experience associated with full-time study at an institution but at a place outside that institution;
   - (b) a period during which a student is employed and residing in a country whose language is one that the student is studying for the student's present course (provided that the period of residence in that country is a requirement of the student's course and the study of one or more modern languages accounts for not less than one half of the total time spent studying on the course);
 - “person with protected rights” (“*person sydd â hawliau gwarchodedig*”) means—
-- (1)[^key-b0bad13528d3dc8942fc0ba1d6ac701d]
+- (1)[^c-b0bad13528d3dc8942fc0ba1d6ac701d]
   - (a) a person within the personal scope of the citizens’ rights provisions who—
     - (i) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules,
     - (ii) is an Irish citizen who, pursuant to section 3ZA of the Immigration Act 1971, does not require leave to enter or remain in the United Kingdom,
-    - (iii) [^key-9592add63e0c57c6846cd6808a0ca58b]...
+    - (iii) [^c-9592add63e0c57c6846cd6808a0ca58b]...
     - (iv) is an applicant for the purposes of regulation 4 of the 2020 Citizens’ Rights Regulations where the relevant period has not expired, or
-    - (v)[^key-c709af841336c3d9e6fb4c8360989184] otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions; or
+    - (v)[^c-c709af841336c3d9e6fb4c8360989184] otherwise has rights deemed to apply by virtue of any citizens’ rights deeming provisions; or
   - (b) a family member of a relevant person of Northern Ireland for the purposes of residence scheme immigration rules, where that family member has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules;
-- (2)[^key-49dc6d934f7c7167dd02c96d1edb0b0d] In paragraph (1)(a)(v) “**citizens’ rights deeming provisions**” means—
+- (2)[^c-49dc6d934f7c7167dd02c96d1edb0b0d] In paragraph (1)(a)(v) “**citizens’ rights deeming provisions**” means—
   - (a) Article 18(2) and (3) (issuance of residence documents) of the EU withdrawal agreement;
   - (b) Article 17(2) and (3) (issuance of residence documents during the transition period) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020); or
   - (c) Article 16(2) and (3) (issuance of residence documents) of the Swiss citizens’ rights agreement.
@@ -276,7 +276,7 @@ FT is—
 - (a) is a full-time designated course for a first degree (other than a foundation degree), and
 - (b) is of two academic years' duration.
 
-(3)[^key-bf4655321ad51d87423bcc50e2e96458] For the purposes of these Regulations, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
+(3)[^c-bf4655321ad51d87423bcc50e2e96458] For the purposes of these Regulations, a person is within the personal scope of the citizens’ rights provisions if that person falls within—
 
 - (a) Article 10 (personal scope) of the EU withdrawal agreement,
 - (b) Article 9 (personal scope) of the EEA EFTA separation agreement (as defined in section 39(1) of the European Union (Withdrawal Agreement) Act 2020), or
@@ -284,40 +284,40 @@ FT is—
 
 ## Annotations
 
-[^key-592e75832735b76a6d2ef9256b751577]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/2) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/uksi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/235/regulation/1/3/a), [54](https://www.legislation.gov.uk/uksi/2019/235/regulation/54)
+[^c-592e75832735b76a6d2ef9256b751577]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/2) substituted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/uksi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/235/regulation/1/3/a), [54](https://www.legislation.gov.uk/uksi/2019/235/regulation/54)
 
-[^key-48e779530fb10a31786def637e9d8b0e]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/2A) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/uksi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/235/regulation/1/3/a), [55](https://www.legislation.gov.uk/uksi/2019/235/regulation/55)
+[^c-48e779530fb10a31786def637e9d8b0e]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/2A) inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/uksi/2019/235), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/235/regulation/1/3/a), [55](https://www.legislation.gov.uk/uksi/2019/235/regulation/55)
 
 [^M_C_11a06b61-1d5d-4df3-d674-674a29065163]: Modification: [Sch. 1 para. 2A(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/2A/1) modified (temp.) (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 4 and Transitory and Transitional Provisions) Order 2024 (S.I. 2024/806)](https://www.legislation.gov.uk/uksi/2024/806), [art. 27](https://www.legislation.gov.uk/uksi/2024/806/article/27)
 
-[^key-1d86712e5145e975b2a5132b913ae195]: Textual amendment: [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/4/3) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/79)](https://www.legislation.gov.uk/uksi/2022/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/79/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2022/79/regulation/52)
+[^c-1d86712e5145e975b2a5132b913ae195]: Textual amendment: [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/4/3) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/79)](https://www.legislation.gov.uk/uksi/2022/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/79/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2022/79/regulation/52)
 
-[^key-c4696b9a4a62dc0ce0e92a6522c40825]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [128(a)](https://www.legislation.gov.uk/uksi/2021/481/regulation/128/a)
+[^c-c4696b9a4a62dc0ce0e92a6522c40825]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [128(a)](https://www.legislation.gov.uk/uksi/2021/481/regulation/128/a)
 
-[^key-b6d907ff2a0b96938d1e13bf3fc95608]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2018/814/regulation/15)
+[^c-b6d907ff2a0b96938d1e13bf3fc95608]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (30.7.2018) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/814)](https://www.legislation.gov.uk/wsi/2018/814), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/814/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2018/814/regulation/15)
 
 [^c23554781]: Marginal citation: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), amended by [S.I. 2012/1653](https://www.legislation.gov.uk/uksi/2012/1653), [S.I](https://www.legislation.gov.uk/uksi/2012/1653/section/I). 2013/235, [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630), [S.I](https://www.legislation.gov.uk/uksi/2013/630/section/I). 2013/1728, [S.I. 2013/3106](https://www.legislation.gov.uk/uksi/2013/3106), [S.I](https://www.legislation.gov.uk/uksi/2013/3106/section/I). 2014/1766, [S.I. 2014/2103](https://www.legislation.gov.uk/uksi/2014/2103), [S.I](https://www.legislation.gov.uk/uksi/2014/2103/section/I). 2014/2765, [S.I. 2015/1951](https://www.legislation.gov.uk/uksi/2015/1951), [S.I](https://www.legislation.gov.uk/uksi/2015/1951/section/I). 2016/211, [S.I. 2016/270](https://www.legislation.gov.uk/uksi/2016/270), [S.I](https://www.legislation.gov.uk/uksi/2016/270/section/I). 2016/584, [S.I. 2017/52](https://www.legislation.gov.uk/uksi/2017/52), [S.I](https://www.legislation.gov.uk/uksi/2017/52/section/I). 2017/114 and [S.I. 2017/204](https://www.legislation.gov.uk/uksi/2017/204).
 
-[^key-a41d123749f373115b5daff63dd37375]: Textual amendment: Word in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [36](https://www.legislation.gov.uk/wsi/2026/3/regulation/36)
+[^c-a41d123749f373115b5daff63dd37375]: Textual amendment: Word in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [36](https://www.legislation.gov.uk/wsi/2026/3/regulation/36)
 
-[^key-1040046b401dc7ac2ccab9fcc543b709]: Textual amendment: Word in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) omitted (1.2.2026) by virtue of [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 19(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/19/4/a/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-1040046b401dc7ac2ccab9fcc543b709]: Textual amendment: Word in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) omitted (1.2.2026) by virtue of [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 19(4)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/19/4/a/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-36e1b392e4bbd9e37b20e9832da6f7ea]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) inserted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 19(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/19/4/a/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-36e1b392e4bbd9e37b20e9832da6f7ea]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) inserted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 19(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/19/4/a/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
 [^c23554791]: Marginal citation: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1).
 
-[^key-25db05dce8a74283dbcdac6a679f022e]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [31](https://www.legislation.gov.uk/wsi/2026/3/regulation/31)
+[^c-25db05dce8a74283dbcdac6a679f022e]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) omitted (5.2.2026 with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [31](https://www.legislation.gov.uk/wsi/2026/3/regulation/31)
 
-[^key-fa18f1987e342f9e6f72c16da3c3cd5d]: Textual amendment: Words in Sch. 1 para. 6 omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/79)](https://www.legislation.gov.uk/uksi/2022/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/79/regulation/1/2), [54(a)](https://www.legislation.gov.uk/uksi/2022/79/regulation/54/a)
+[^c-fa18f1987e342f9e6f72c16da3c3cd5d]: Textual amendment: Words in Sch. 1 para. 6 omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/79)](https://www.legislation.gov.uk/uksi/2022/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/79/regulation/1/2), [54(a)](https://www.legislation.gov.uk/uksi/2022/79/regulation/54/a)
 
-[^key-b0bad13528d3dc8942fc0ba1d6ac701d]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) renumbered (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/uksi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/1/2), [35(a)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/35/a)
+[^c-b0bad13528d3dc8942fc0ba1d6ac701d]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) renumbered (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/uksi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/1/2), [35(a)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/35/a)
 
-[^key-9592add63e0c57c6846cd6808a0ca58b]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/79)](https://www.legislation.gov.uk/uksi/2022/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/79/regulation/1/2), [54(b)](https://www.legislation.gov.uk/uksi/2022/79/regulation/54/b)
+[^c-9592add63e0c57c6846cd6808a0ca58b]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6) omitted (with application in accordance with reg. 2 of the amending S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/79)](https://www.legislation.gov.uk/uksi/2022/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/79/regulation/1/2), [54(b)](https://www.legislation.gov.uk/uksi/2022/79/regulation/54/b)
 
-[^key-c709af841336c3d9e6fb4c8360989184]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/uksi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/1/2), [35(b)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/35/b)
+[^c-c709af841336c3d9e6fb4c8360989184]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/uksi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/1/2), [35(b)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/35/b)
 
-[^key-49dc6d934f7c7167dd02c96d1edb0b0d]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/uksi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/1/2), [35(c)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/35/c)
+[^c-49dc6d934f7c7167dd02c96d1edb0b0d]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/wsi/2018/191/schedule/1/paragraph/6/1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/uksi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/1/2), [35(c)](https://www.legislation.gov.uk/uksi/2021/1365/regulation/35/c)
 
 [^c23554801]: Marginal citation: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32); the regulations are the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999, [S.I. 1999/2817](https://www.legislation.gov.uk/uksi/1999/2817), the Education (School Teachers' Qualifications) (England) Regulations 2003, [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662), the School Teachers' Qualifications (Wales) Regulations 2012, [S.I. 2012/724](https://www.legislation.gov.uk/uksi/2012/724) and the Education Workforce Council (Accreditation of Initial Teacher Training) (Wales) Regulations 2017, [S.I. 2017/165](https://www.legislation.gov.uk/uksi/2017/165).
 
-[^key-bf4655321ad51d87423bcc50e2e96458]: Textual amendment: Sch. 1 para. 6(3) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [128(b)](https://www.legislation.gov.uk/uksi/2021/481/regulation/128/b)
+[^c-bf4655321ad51d87423bcc50e2e96458]: Textual amendment: Sch. 1 para. 6(3) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [128(b)](https://www.legislation.gov.uk/uksi/2021/481/regulation/128/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Applications for CCE prevention orders[^key-32dda85f1625fbcb1184c92950089894]
+## 52. Applications for CCE prevention orders[^c-32dda85f1625fbcb1184c92950089894]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ of that application.
 
 ## Annotations
 
-[^key-32dda85f1625fbcb1184c92950089894]: Commencement: S. 52 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-32dda85f1625fbcb1184c92950089894]: Commencement: S. 52 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

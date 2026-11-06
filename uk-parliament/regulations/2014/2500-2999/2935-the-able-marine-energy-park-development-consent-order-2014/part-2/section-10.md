@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Maintenance of authorised development[^key-3fee00144e920c1195b1dbadf152b72a]
+## 10. Maintenance of authorised development[^c-3fee00144e920c1195b1dbadf152b72a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may at any time maintain the authorised development and within th
 
 ## Annotations
 
-[^key-3fee00144e920c1195b1dbadf152b72a]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/2935/article/10) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-3fee00144e920c1195b1dbadf152b72a]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/2935/article/10) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

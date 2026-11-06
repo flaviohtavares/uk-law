@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Regulations under section 1: compliance and enforcement[^key-8ba4860683bf9cdbf00d031e367991da]
+## 3. Regulations under section 1: compliance and enforcement[^c-8ba4860683bf9cdbf00d031e367991da]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ba4860683bf9cdbf00d031e367991da]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/3/section/3) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-8ba4860683bf9cdbf00d031e367991da]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/3/section/3) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

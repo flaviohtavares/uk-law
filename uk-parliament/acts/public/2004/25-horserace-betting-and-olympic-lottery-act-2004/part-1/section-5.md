@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Pre-sale issue of shares, &c. to government[^key-a89ce6f230c2d14067ccca7d2d5c6479]
+## 5. Pre-sale issue of shares, &c. to government[^c-a89ce6f230c2d14067ccca7d2d5c6479]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 (3) A request under subsection (1) requiring the issue of shares shall specify the nominal value of the shares to be issued; and the shares—
 
 - (a) shall be issued as fully paid,
-- (b) shall be treated for the purposes of the the Companies Act 2006[^key-fbe28151856dfe838e509cc3ced017e7] as having been paid up by virtue of payment of their nominal value in cash, and
+- (b) shall be treated for the purposes of the the Companies Act 2006[^c-fbe28151856dfe838e509cc3ced017e7] as having been paid up by virtue of payment of their nominal value in cash, and
 - (c) shall be treated for the purposes of the Corporation Tax Acts as if they had been issued wholly in consideration of a subscription of an amount equal to their nominal value.
 
 (4) A debenture issued in accordance with a request under subsection (1) shall be treated for the purposes of the Corporation Tax Acts as if it had been issued wholly in consideration of a loan of an amount equal to the principal sum payable under the debenture.
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a89ce6f230c2d14067ccca7d2d5c6479]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/25/section/5) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-a89ce6f230c2d14067ccca7d2d5c6479]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2004/25/section/5) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
-[^key-fbe28151856dfe838e509cc3ced017e7]: Textual amendment: Words in [s. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2004/25/section/5/3/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 221(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/221/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-fbe28151856dfe838e509cc3ced017e7]: Textual amendment: Words in [s. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2004/25/section/5/3/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 221(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/221/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

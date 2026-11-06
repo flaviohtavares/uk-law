@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Payment Services Regulations 2012 (revoked)[^key-230086fd1d1bae8e5b1a4e1886db587c]
+The Payment Services Regulations 2012 (revoked)[^c-230086fd1d1bae8e5b1a4e1886db587c]
 
 Made
 
@@ -44,32 +44,32 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-230086fd1d1bae8e5b1a4e1886db587c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-230086fd1d1bae8e5b1a4e1886db587c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-230086fd1d1bae8e5b1a4e1886db587c]
+## 1. Citation and commencement[^c-230086fd1d1bae8e5b1a4e1886db587c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Money Laundering Regulations 2007[^key-230086fd1d1bae8e5b1a4e1886db587c]
+## 2. Amendment of the Money Laundering Regulations 2007[^c-230086fd1d1bae8e5b1a4e1886db587c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Payment Services Regulations 2009[^key-230086fd1d1bae8e5b1a4e1886db587c]
+## 3. Amendment of the Payment Services Regulations 2009[^c-230086fd1d1bae8e5b1a4e1886db587c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Electronic Money Regulations 2011[^key-230086fd1d1bae8e5b1a4e1886db587c]
+## 4. Amendment of the Electronic Money Regulations 2011[^c-230086fd1d1bae8e5b1a4e1886db587c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-230086fd1d1bae8e5b1a4e1886db587c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-230086fd1d1bae8e5b1a4e1886db587c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-230086fd1d1bae8e5b1a4e1886db587c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-230086fd1d1bae8e5b1a4e1886db587c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-230086fd1d1bae8e5b1a4e1886db587c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1791) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-230086fd1d1bae8e5b1a4e1886db587c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1791) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

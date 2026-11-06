@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) section 64 applies[^key-59b6ee71a090619da74c37f3f7080f71], and
+- (a) section 64 applies[^c-59b6ee71a090619da74c37f3f7080f71], and
 - (b) the lease granted out of the taxed lease does not extend to the whole of the premises subject to the taxed lease.
 
 (2) Subsections (3) to (5) apply for a qualifying day that falls within the receipt period of the lease premium receipt.
@@ -42,4 +42,4 @@ sections 61, 63 and 64 apply separately in relation to each part of the premises
 
 ## Annotations
 
-[^key-59b6ee71a090619da74c37f3f7080f71]: Textual amendment: Words in s. 65(1)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 593](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/593) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-59b6ee71a090619da74c37f3f7080f71]: Textual amendment: Words in s. 65(1)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 593](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/593) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

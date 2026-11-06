@@ -23,7 +23,7 @@ summary: ''
 (1) This Article applies to the following forms of medical treatment for mental disorder—
 
 - (a) such forms of treatment as may be prescribed for the purposes of this Article; and
-- (b) the administration of medicine to a patient by any means (not being a form of treatment prescribed under sub-paragraph (a) or Article 63) at any time during a period for which he is liable to be detained as a patient to whom this Article applies if three months[^key-b2499ea7a709170ef547521f3ded93cd] or more have elapsed since the first occasion in that period when medicine was administered to him by any means for his mental disorder.
+- (b) the administration of medicine to a patient by any means (not being a form of treatment prescribed under sub-paragraph (a) or Article 63) at any time during a period for which he is liable to be detained as a patient to whom this Article applies if three months[^c-b2499ea7a709170ef547521f3ded93cd] or more have elapsed since the first occasion in that period when medicine was administered to him by any means for his mental disorder.
 
 (2) The Department may by order vary the length of the period mentioned in paragraph (1)(b).
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2499ea7a709170ef547521f3ded93cd]: Textual amendment: Words in art. 64(1)(b) substituted (10.5.2021) by [The Mental Health (1986 Order) (Amendment No. 2) Order (Northern Ireland) 2021 (S.R. 2021/101)](https://www.legislation.gov.uk/nisr/2021/101), [arts. 1](https://www.legislation.gov.uk/nisr/2021/101/article/1), [2](https://www.legislation.gov.uk/nisr/2021/101/article/2)
+[^c-b2499ea7a709170ef547521f3ded93cd]: Textual amendment: Words in art. 64(1)(b) substituted (10.5.2021) by [The Mental Health (1986 Order) (Amendment No. 2) Order (Northern Ireland) 2021 (S.R. 2021/101)](https://www.legislation.gov.uk/nisr/2021/101), [arts. 1](https://www.legislation.gov.uk/nisr/2021/101/article/1), [2](https://www.legislation.gov.uk/nisr/2021/101/article/2)
 
 [^c21357231]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 8(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/1) (subject to [Sch. 6 para. 8(2)-(4)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/2)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)

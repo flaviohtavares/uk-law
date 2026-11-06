@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Notification of New Substances (Amendment) Regulations 2002 (revoked)[^key-9c1e902d567a2d16d705a60ed9d28f4b]
+The Notification of New Substances (Amendment) Regulations 2002 (revoked)[^c-9c1e902d567a2d16d705a60ed9d28f4b]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 17th September 2002
 
-[^key-9c1e902d567a2d16d705a60ed9d28f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c1e902d567a2d16d705a60ed9d28f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9c1e902d567a2d16d705a60ed9d28f4b]
+## 1. Citation and commencement[^c-9c1e902d567a2d16d705a60ed9d28f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9c1e902d567a2d16d705a60ed9d28f4b]
+## 2. Interpretation[^c-9c1e902d567a2d16d705a60ed9d28f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-9c1e902d567a2d16d705a60ed9d28f4b]
+## 3. Amendment of the principal Regulations[^c-9c1e902d567a2d16d705a60ed9d28f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c1e902d567a2d16d705a60ed9d28f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c1e902d567a2d16d705a60ed9d28f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9c1e902d567a2d16d705a60ed9d28f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c1e902d567a2d16d705a60ed9d28f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c1e902d567a2d16d705a60ed9d28f4b]: Textual amendment: Regulations revoked (1.12.2008) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/2)
+[^c-9c1e902d567a2d16d705a60ed9d28f4b]: Textual amendment: Regulations revoked (1.12.2008) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/2)

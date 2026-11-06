@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Applications for housing administration orders[^key-3f7fe1c0df9c6b45123490331034fa93]
+## 99. Applications for housing administration orders[^c-3f7fe1c0df9c6b45123490331034fa93]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3f7fe1c0df9c6b45123490331034fa93]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2016/22/section/99) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-3f7fe1c0df9c6b45123490331034fa93]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2016/22/section/99) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
 
 [^M_F_79bccb61-1a07-46ea-88eb-8ae3f102f0e1]: Textual amendment: Word in s. 99(4) substituted (21.3.2024) by [The Social Housing (Regulation) Act 2023 (Consequential and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/399)](https://www.legislation.gov.uk/uksi/2024/399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/399/regulation/1/2), [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2024/399/schedule/1/paragraph/4/3/a)
 

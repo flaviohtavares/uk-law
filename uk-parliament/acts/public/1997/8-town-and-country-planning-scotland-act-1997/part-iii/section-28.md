@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to the following provisions of this section, planning permission is required for the carrying out of any development of land.
 
-(1A)[^key-63429fb78c4ef5047c450b2a0c7829dc] Subsection (1) is subject to section 33(1) of the Planning Act 2008 (exclusion of requirement for planning permission etc. for development for which development consent required).
+(1A)[^c-63429fb78c4ef5047c450b2a0c7829dc] Subsection (1) is subject to section 33(1) of the Planning Act 2008 (exclusion of requirement for planning permission etc. for development for which development consent required).
 
 (2) Where planning permission to develop land has been granted for a limited period, planning permission is not required for the resumption, at the end of that period, of its use for the purpose for which it was normally used before the permission was granted.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63429fb78c4ef5047c450b2a0c7829dc]: Textual amendment: [S. 28(1A)](https://www.legislation.gov.uk/ukpga/1997/8/section/28/1A) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/55) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-63429fb78c4ef5047c450b2a0c7829dc]: Textual amendment: [S. 28(1A)](https://www.legislation.gov.uk/ukpga/1997/8/section/28/1A) inserted (1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [s. 241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8), [Sch. 2 para. 55](https://www.legislation.gov.uk/ukpga/2008/29/schedule/2/paragraph/55) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 2](https://www.legislation.gov.uk/uksi/2010/101/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

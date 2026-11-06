@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 225. Summary warrant[^key-c2f0a6daae2661597e93a6cb4e7cd8bb]
+## 225. Summary warrant[^c-c2f0a6daae2661597e93a6cb4e7cd8bb]
 
 *Extent: S*
 
@@ -27,13 +27,13 @@ summary: ''
 (3) An application under subsection (2) must be accompanied by a certificate which—
 
 - (a) complies with subsection (4), and
-- (b) is signed by a designated[^key-93d56bed80f4279619d79802819a3e72] officer.
+- (b) is signed by a designated[^c-93d56bed80f4279619d79802819a3e72] officer.
 
 (4) A certificate complies with this subsection if—
 
 - (a) it states that—
   - (i) none of the persons specified in the application has paid the sum payable by that person,
-  - (ii) a designated[^key-f6fb63cb2a8ac935a21f5a39c34ffb7d] officer has demanded payment from each such person of the sum payable by that person, and
+  - (ii) a designated[^c-f6fb63cb2a8ac935a21f5a39c34ffb7d] officer has demanded payment from each such person of the sum payable by that person, and
   - (iii) the period of 14 days beginning with the day on which the demand is made has expired without payment being made, and
 - (b) it specifies the sum payable by each person specified in the application.
 
@@ -57,8 +57,8 @@ in connection with the execution of a summary warrant are to be chargeable again
 
 ## Annotations
 
-[^key-c2f0a6daae2661597e93a6cb4e7cd8bb]: Commencement: [S. 225](https://www.legislation.gov.uk/asp/2014/16/section/225) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-c2f0a6daae2661597e93a6cb4e7cd8bb]: Commencement: [S. 225](https://www.legislation.gov.uk/asp/2014/16/section/225) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-93d56bed80f4279619d79802819a3e72]: Textual amendment: Words in [s. 225(3)(b)](https://www.legislation.gov.uk/asp/2014/16/section/225/3/b) substituted (1.4.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 59(3)(a)](https://www.legislation.gov.uk/asp/2024/14/section/59/3/a), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/b)
+[^c-93d56bed80f4279619d79802819a3e72]: Textual amendment: Words in [s. 225(3)(b)](https://www.legislation.gov.uk/asp/2014/16/section/225/3/b) substituted (1.4.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 59(3)(a)](https://www.legislation.gov.uk/asp/2024/14/section/59/3/a), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/b)
 
-[^key-f6fb63cb2a8ac935a21f5a39c34ffb7d]: Textual amendment: Words in [s. 225(4)(a)(ii)](https://www.legislation.gov.uk/asp/2014/16/section/225/4/a/ii) substituted (1.4.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 59(3)(b)](https://www.legislation.gov.uk/asp/2024/14/section/59/3/b), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/b)
+[^c-f6fb63cb2a8ac935a21f5a39c34ffb7d]: Textual amendment: Words in [s. 225(4)(a)(ii)](https://www.legislation.gov.uk/asp/2014/16/section/225/4/a/ii) substituted (1.4.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 59(3)(b)](https://www.legislation.gov.uk/asp/2024/14/section/59/3/b), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/b)

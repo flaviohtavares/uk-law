@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Modification of conditions under section 13: supplementary[^key-e575dd3ef1616d0d1d536177546225b4]
+## 14. Modification of conditions under section 13: supplementary[^c-e575dd3ef1616d0d1d536177546225b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e575dd3ef1616d0d1d536177546225b4]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/52/section/14) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e575dd3ef1616d0d1d536177546225b4]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/52/section/14) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

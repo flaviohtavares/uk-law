@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Decisions taken by the Authority giving effect to banking appeal tribunal determination[^key-b59198454b57e744cdf20c7c3017d376]
+## 115. Decisions taken by the Authority giving effect to banking appeal tribunal determination[^c-b59198454b57e744cdf20c7c3017d376]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b59198454b57e744cdf20c7c3017d376]: Commencement: Art. 115 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-b59198454b57e744cdf20c7c3017d376]: Commencement: Art. 115 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

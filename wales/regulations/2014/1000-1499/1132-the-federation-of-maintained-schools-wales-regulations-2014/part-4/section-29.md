@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Federation comprising voluntary aided schools only[^key-d07fbe4c7d192aab656e4dbb66636717]
+## 29. Federation comprising voluntary aided schools only[^c-d07fbe4c7d192aab656e4dbb66636717]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d07fbe4c7d192aab656e4dbb66636717]: Commencement: Reg. 29 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-d07fbe4c7d192aab656e4dbb66636717]: Commencement: Reg. 29 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00021]: Footnote: Within the meaning of section 20 of , and Schedule 2 to, the 1998 Act.

@@ -52,7 +52,7 @@ In the case of an official travelling on mission in special circumstances, howev
 
 *Extent: E+W+S+N.I.*
 
-**Article 12.**[^key-a4bfba443da39a3fc64acf597005b2d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-a4bfba443da39a3fc64acf597005b2d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
@@ -134,7 +134,7 @@ In order to facilitate engagement on the broadest possible geographical basis, t
 
 [^c000008]: Textual amendment: Inserted by [Council Regulation (EC, Euratom) No 723/2004 of 22 March 2004 amending the Staff Regulations of officials of the European Communities and the Conditions of Employment of other servants of the European Communities](https://www.legislation.gov.uk/eur/2004/723).
 
-[^key-a4bfba443da39a3fc64acf597005b2d2]: Textual amendment: [Annex 8 art. 11](https://www.legislation.gov.uk/eur/1962/31/annex/8/article/11), [12](https://www.legislation.gov.uk/eur/1962/31/annex/8/article/12) omitted (31.7.2021) by virtue of [The Social Security (Reciprocal Agreements) (Miscellaneous Amendments) (EU Exit) Regulations 2021 (S.I. 2021/811)](https://www.legislation.gov.uk/uksi/2021/811), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2021/811/regulation/7)
+[^c-a4bfba443da39a3fc64acf597005b2d2]: Textual amendment: [Annex 8 art. 11](https://www.legislation.gov.uk/eur/1962/31/annex/8/article/11), [12](https://www.legislation.gov.uk/eur/1962/31/annex/8/article/12) omitted (31.7.2021) by virtue of [The Social Security (Reciprocal Agreements) (Miscellaneous Amendments) (EU Exit) Regulations 2021 (S.I. 2021/811)](https://www.legislation.gov.uk/uksi/2021/811), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/811/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2021/811/regulation/7)
 
 [^c000044]: Textual amendment: Inserted by [Council Regulation (Euratom, ECSC, EEC) No 3019/87 of 5 October 1987 laying down special and exceptional provisions applicable to officials of the European Communities serving in a third country](https://www.legislation.gov.uk/eur/1987/3019).
 

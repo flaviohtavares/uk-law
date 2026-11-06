@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 845C. Effect of claim, foreign employment election or foreign gain claim on losses[^key-fa6e1a8f7071272a8f9d117519835e5b]
+## 845C. Effect of claim, foreign employment election or foreign gain claim on losses[^c-fa6e1a8f7071272a8f9d117519835e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
+[^c-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)

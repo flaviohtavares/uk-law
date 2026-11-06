@@ -42,10 +42,10 @@ summary: ''
 
 (6) In this section—
 
-- “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^key-a3e16f4efec4f3f7287012bc44f8f9db],
+- “**control**” is to be read in accordance with sections 450 and 451 of CTA 2010[^c-a3e16f4efec4f3f7287012bc44f8f9db],
 - “**employee benefit trust**” has the meaning given by section 550 of ITEPA 2003 except that the reference in section 550(3) of that Act to 13 March 1989 is to be read as a reference to 26 July 1989, and
 - “**relative**” means spouse or civil partner, ancestor or lineal descendant or brother or sister.
 
 ## Annotations
 
-[^key-a3e16f4efec4f3f7287012bc44f8f9db]: Textual amendment: Words in s. 395(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 523](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/523) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a3e16f4efec4f3f7287012bc44f8f9db]: Textual amendment: Words in s. 395(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 523](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/523) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Omission of material information from invitation to purchase[^key-444d4f8b815bccdb9502397b1b2c7927][^key-3eee003f10add38ebbd4714bed725dac]
+## 230. Omission of material information from invitation to purchase[^c-444d4f8b815bccdb9502397b1b2c7927][^c-3eee003f10add38ebbd4714bed725dac]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-444d4f8b815bccdb9502397b1b2c7927]: Commencement: S. 230 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-444d4f8b815bccdb9502397b1b2c7927]: Commencement: S. 230 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3eee003f10add38ebbd4714bed725dac]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2024/13/section/230) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-3eee003f10add38ebbd4714bed725dac]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2024/13/section/230) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

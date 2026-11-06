@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-290141db77d78e917613a6f85f08166a]
+## 1. Citation, commencement and interpretation[^c-290141db77d78e917613a6f85f08166a]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-290141db77d78e917613a6f85f08166a]: Commencement: Art. 1 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
+[^c-290141db77d78e917613a6f85f08166a]: Commencement: Art. 1 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
 
 [^f00002]: Footnote: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
 

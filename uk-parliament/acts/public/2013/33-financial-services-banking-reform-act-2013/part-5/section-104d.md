@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104D. Requirement to review specified requirements[^key-4f6d1291d9ec5d3cfde30af3d579d268]
+## 104D. Requirement to review specified requirements[^c-4f6d1291d9ec5d3cfde30af3d579d268]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f6d1291d9ec5d3cfde30af3d579d268]: Textual amendment: [Ss. 104A-104I](https://www.legislation.gov.uk/ukpga/2013/33/section/104A) inserted (29.8.2023 for specified purposes, 1.8.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/7); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/v); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/c)
+[^c-4f6d1291d9ec5d3cfde30af3d579d268]: Textual amendment: [Ss. 104A-104I](https://www.legislation.gov.uk/ukpga/2013/33/section/104A) inserted (29.8.2023 for specified purposes, 1.8.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/7/paragraph/7); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ccc)(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ccc/v); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 11(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/11/c)

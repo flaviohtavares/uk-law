@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M3. Amount of member’s cash equivalent[^key-e340595f578b73e4dd2c3e29fb3f5cb5]
+## M3. Amount of member’s cash equivalent[^c-e340595f578b73e4dd2c3e29fb3f5cb5]
 
 *Extent: E+W+S*
 
-(1) Subject to the following provisions of this regulation, the member’s guaranteed cash equivalent will be equal to the capitalised value of all the member’s accrued rights to benefits under this Section of[^M_F_249c58ed-9f04-46f5-9754-329eb2e720ec] the scheme and any associated rights under Part I of the Pensions (Increase) Act 1971 [^key-49b125a1d6cbd099c80fd9d7df4de123]....
+(1) Subject to the following provisions of this regulation, the member’s guaranteed cash equivalent will be equal to the capitalised value of all the member’s accrued rights to benefits under this Section of[^M_F_249c58ed-9f04-46f5-9754-329eb2e720ec] the scheme and any associated rights under Part I of the Pensions (Increase) Act 1971 [^c-49b125a1d6cbd099c80fd9d7df4de123]....
 
-(1A)[^key-65fa7d195ab4da6679e091381b44ac9d] The Secretary of State shall—
+(1A)[^c-65fa7d195ab4da6679e091381b44ac9d] The Secretary of State shall—
 
 - (a) take advice from the Scheme Actuary before determining the factors to be used in the calculation of the member’s guaranteed cash equivalent, and
 - (b) calculate and verify the amount of the guaranteed cash equivalent in accordance with the Occupational Pension Schemes (Transfer Values) Regulations 1996.
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
+[^c-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
 
 [^M_F_249c58ed-9f04-46f5-9754-329eb2e720ec]: Textual amendment: Words in reg. M3(1)(2) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-49b125a1d6cbd099c80fd9d7df4de123]: Textual amendment: Words in [reg. M3(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M3/1) omitted (1.10.2008) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/12/2) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-49b125a1d6cbd099c80fd9d7df4de123]: Textual amendment: Words in [reg. M3(1)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M3/1) omitted (1.10.2008) by virtue of [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [12(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/12/2) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-65fa7d195ab4da6679e091381b44ac9d]: Textual amendment: [Reg. M3(1A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M3/1A) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/12/3) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-65fa7d195ab4da6679e091381b44ac9d]: Textual amendment: [Reg. M3(1A)](https://www.legislation.gov.uk/uksi/1995/300/regulation/M3/1A) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [12(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/12/3) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))

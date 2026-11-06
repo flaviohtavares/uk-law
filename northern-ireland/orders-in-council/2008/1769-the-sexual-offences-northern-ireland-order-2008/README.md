@@ -132,7 +132,7 @@ Whereas—
 - [Section 35 — Articles 32 and 33: exception for spouses and civil partners](part-3/section-35.md)
 - [Section 36 — Articles 32 and 33: sexual relationships which pre-date family relationships](part-3/section-36.md)
 
-#### Abuse of children under 18: payment for sexual services and involvement in indecent images[^key-c66f56e4b012fc9c4e39b57ea938c355]
+#### Abuse of children under 18: payment for sexual services and involvement in indecent images[^c-c66f56e4b012fc9c4e39b57ea938c355]
 
 - [Section 37 — Paying for sexual services of a child](part-3/section-37.md)
 - [Section 38 — Causing or inciting abuse: payment for sexual services and involvement in indecent images](part-3/section-38.md)
@@ -170,7 +170,7 @@ Whereas—
 - [Section 56 — Articles 51 to 54: exception for spouses and civil partners](part-4/section-56.md)
 - [Section 57 — Articles 51 to 54: sexual relationships which pre-date care relationships](part-4/section-57.md)
 
-### PART 5 — PROSTITUTION AND PAYING FOR SEXUAL SERVICES OF A PERSON[^key-083c8b085ae2cc5f0dca1c7541c70edb]
+### PART 5 — PROSTITUTION AND PAYING FOR SEXUAL SERVICES OF A PERSON[^c-083c8b085ae2cc5f0dca1c7541c70edb]
 
 *Extent: N.I.*
 
@@ -252,6 +252,6 @@ The Order abolishes the common law offence of rape, and repeals various provisio
 
 [^c22523811]: Modification: Order: functions of Secretary of State transferred (12.4.2010) to Department of Justice by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2010/976/article/4/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/976/schedule/1) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-c66f56e4b012fc9c4e39b57ea938c355]: Textual amendment: [Art. 37 cross-heading](https://www.legislation.gov.uk/nisi/2008/1769/part/3/crossheading/abuse-of-children-under-18-through-prostitution-and-pornography) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-c66f56e4b012fc9c4e39b57ea938c355]: Textual amendment: [Art. 37 cross-heading](https://www.legislation.gov.uk/nisi/2008/1769/part/3/crossheading/abuse-of-children-under-18-through-prostitution-and-pornography) substituted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-083c8b085ae2cc5f0dca1c7541c70edb]: Textual amendment: Words in Pt. 5 heading inserted (1.6.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/2/section/15/2), [28(5)](https://www.legislation.gov.uk/nia/2015/2/section/28/5)
+[^c-083c8b085ae2cc5f0dca1c7541c70edb]: Textual amendment: Words in Pt. 5 heading inserted (1.6.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [ss. 15(2)](https://www.legislation.gov.uk/nia/2015/2/section/15/2), [28(5)](https://www.legislation.gov.uk/nia/2015/2/section/28/5)

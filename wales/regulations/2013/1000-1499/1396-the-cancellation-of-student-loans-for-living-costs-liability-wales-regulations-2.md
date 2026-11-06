@@ -45,17 +45,17 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred upon the Secretary of State by sections 22 and 42(6) of the Teaching and Higher Education Act 1998[^f00001] and now exercisable by them[^f00002]:
 
-## 1. Title and commencement[^key-bb4321531379c45a6da242d95e1b060a]
+## 1. Title and commencement[^c-bb4321531379c45a6da242d95e1b060a]
 
 (1) The title of these Regulations is the Cancellation of Student Loans for Living Costs Liability (Wales) Regulations 2013.
 
 (2) These Regulations come into force on 1 August 2013.
 
-## 2. Application[^key-8a887adec49b06f2468cbedd3bdb8e89]
+## 2. Application[^c-8a887adec49b06f2468cbedd3bdb8e89]
 
 These Regulations apply in relation to Wales and to the provision of support to students in respect of the Academic Year 2013/ 2014.
 
-## 3. Interpretation[^key-c1de62828dc46ebfa44778cd608e6d8a]
+## 3. Interpretation[^c-c1de62828dc46ebfa44778cd608e6d8a]
 
 In these Regulations—
 
@@ -71,11 +71,11 @@ In these Regulations—
 - “the Specified Amount” (“*y Swm Penodedig*”) has the meaning given in regulation 6; and
 - “Welsh Ministers” (*“Gweinidogion Cymru”*) includes any person to whom they have transferred or delegated their functions under section 23 of the 1998 Act or to whom they have transferred their rights under section 9 of the 2008 Act.
 
-## 4. Qualification for cancellation[^key-65d2783974707f0ad7d96b2ef6f5c5fe]
+## 4. Qualification for cancellation[^c-65d2783974707f0ad7d96b2ef6f5c5fe]
 
 A borrower qualifies for cancellation of the Specified Amount of their Outstanding Liability in the circumstances set out in regulation 5 (“the Circumstances”).
 
-## 5. Circumstances[^key-88f867c71f70bbd5a85dac88e789cfc9]
+## 5. Circumstances[^c-88f867c71f70bbd5a85dac88e789cfc9]
 
 The Circumstances for the purposes of regulation 4 are that—
 
@@ -85,14 +85,14 @@ The Circumstances for the purposes of regulation 4 are that—
   - (ii) does not have outstanding penalties, costs, expenses or charges in relation to such a loan pursuant to any such agreement or regulations; and
   - (iii) has not received a cancellation under the provisions of the Cancellation of Student Loans for Living Costs Liability (Wales) Regulations 2010[^f00006], the Cancellation of Student Loans for Living Costs Liability (Wales) Regulations 2011[^f00007] or the Cancellation of Student Loans for Living Costs Liability (Wales) Regulations 2012[^f00008] of any of their liability for payment in respect of a loan received from the Welsh Ministers.
 
-## 6. Specified Amount[^key-e4f5218e7d455ab3ebdc6be9a826c4b5]
+## 6. Specified Amount[^c-e4f5218e7d455ab3ebdc6be9a826c4b5]
 
 The Specified Amount for cancellation to which regulation 4 refers is the lesser of—
 
 - (a) £1,500;
 - (b) the Outstanding Liability.
 
-## 7. Outstanding Liability[^key-5e1dd48287024ab590190e0c407216a8]
+## 7. Outstanding Liability[^c-5e1dd48287024ab590190e0c407216a8]
 
 (1) Subject to paragraph (2), the Outstanding Liability is the total amount considered to be payable by the borrower on the Repayment Date in respect of any loan for living costs, but does not include any interest accrued on that loan, or penalties, costs, expenses or charges incurred in respect of any such loan.
 
@@ -100,11 +100,11 @@ The Specified Amount for cancellation to which regulation 4 refers is the lesser
 
 (3) For the purposes of calculating the Outstanding Liability in paragraphs (1) and (2), the amount considered to be payable by the borrower is calculated in accordance with regulations made pursuant to section 22 of the 1998 Act[^f00009].
 
-## 8. Cancellation[^key-aeea87b5d7c2473c8c75d093703cb463]
+## 8. Cancellation[^c-aeea87b5d7c2473c8c75d093703cb463]
 
 In the Circumstances in regulation 5, the Welsh Ministers must cancel the Specified Amount with effect from the Repayment Date.
 
-**9.**[^key-8f5ac0cdf653e5e6cb3f065cbb6cbffe] If any of the Circumstances in regulation 5(b) are not satisfied on the Repayment Date, but they become satisfied at a later date, the Welsh Ministers may cancel the Specified Amount with effect from the date that they consider the Circumstances to have been satisfied (“the Satisfaction Date”).
+**9.**[^c-8f5ac0cdf653e5e6cb3f065cbb6cbffe] If any of the Circumstances in regulation 5(b) are not satisfied on the Repayment Date, but they become satisfied at a later date, the Welsh Ministers may cancel the Specified Amount with effect from the date that they consider the Circumstances to have been satisfied (“the Satisfaction Date”).
 
 Leighton Andrews
 
@@ -126,11 +126,11 @@ These Regulations provide for up to £1,500 of each borrower’s living costs lo
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 22 of the Teaching and Higher Education Act 1998 (except so far as they relate to the making of any provision authorised by subsection (2)(a), (c), (j) or (k), (3)(e) or (f) or (5)) were transferred to the National Assembly for Wales by section 44 of the Higher Education Act [2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8) and [S.I. 2005/1833 (W.149)](https://www.legislation.gov.uk/wsi/2005/1833) (as amended by [S.I. 2006/1660 (W.159)](https://www.legislation.gov.uk/wsi/2006/1660)). The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraphs 30(1) and 30(2)(a) of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-bb4321531379c45a6da242d95e1b060a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-bb4321531379c45a6da242d95e1b060a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
-[^key-8a887adec49b06f2468cbedd3bdb8e89]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/1396/regulation/2) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-8a887adec49b06f2468cbedd3bdb8e89]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/1396/regulation/2) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
-[^key-c1de62828dc46ebfa44778cd608e6d8a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2013/1396/regulation/3) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-c1de62828dc46ebfa44778cd608e6d8a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2013/1396/regulation/3) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
 [^f00003]: Footnote: [2008 c.10](https://www.legislation.gov.uk/ukpga/2008/10).
 
@@ -138,9 +138,9 @@ These Regulations provide for up to £1,500 of each borrower’s living costs lo
 
 [^f00005]: Footnote: At the time of making these Regulations, the date on which a borrower’s repayment is considered to have been received is determined in accordance with regulation 17 of the Education (Student Loans) (Repayment) Regulations 2009 ([S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470)) as amended by [S.I. 2010/661](https://www.legislation.gov.uk/uksi/2010/661), [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), [S.I. 2011/784](https://www.legislation.gov.uk/uksi/2011/784) , [S.I. 2012/836](https://www.legislation.gov.uk/uksi/2012/836) and [S.I. 2013/607](https://www.legislation.gov.uk/uksi/2013/607).
 
-[^key-65d2783974707f0ad7d96b2ef6f5c5fe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/1396/regulation/4) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-65d2783974707f0ad7d96b2ef6f5c5fe]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/1396/regulation/4) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
-[^key-88f867c71f70bbd5a85dac88e789cfc9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/1396/regulation/5) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-88f867c71f70bbd5a85dac88e789cfc9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/1396/regulation/5) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2010/1704 (W.164)](https://www.legislation.gov.uk/wsi/2010/1704).
 
@@ -148,12 +148,12 @@ These Regulations provide for up to £1,500 of each borrower’s living costs lo
 
 [^f00008]: Footnote: [S.I. 2012/1518 (W.201)](https://www.legislation.gov.uk/wsi/2012/1518).
 
-[^key-e4f5218e7d455ab3ebdc6be9a826c4b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2013/1396/regulation/6) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-e4f5218e7d455ab3ebdc6be9a826c4b5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2013/1396/regulation/6) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
-[^key-5e1dd48287024ab590190e0c407216a8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2013/1396/regulation/7) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-5e1dd48287024ab590190e0c407216a8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2013/1396/regulation/7) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
 [^f00009]: Footnote: At the time of making these Regulations the amount which a borrower is considered to have repaid and therefore the amount that is considered to still be payable is determined in accordance with the Education (Student Loans) (Repayment) Regulations 2009 ([S.I. 2009/470](https://www.legislation.gov.uk/uksi/2009/470)), as amended. See in particular regulations 17, 29, 44 and 76.
 
-[^key-aeea87b5d7c2473c8c75d093703cb463]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2013/1396/regulation/8) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-aeea87b5d7c2473c8c75d093703cb463]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2013/1396/regulation/8) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
 
-[^key-8f5ac0cdf653e5e6cb3f065cbb6cbffe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2013/1396/regulation/9) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)
+[^c-8f5ac0cdf653e5e6cb3f065cbb6cbffe]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2013/1396/regulation/9) in force at 1.8.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/1396/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Amount of tax chargeable: linked transactions[^key-1902bcc36ba1af37456fc57f9fd2e2ec]
+## 26. Amount of tax chargeable: linked transactions[^c-1902bcc36ba1af37456fc57f9fd2e2ec]
 
 *Extent: S*
 
@@ -33,13 +33,13 @@ summary: ''
 
 (4) This section is subject to—
 
-- (za)[^key-f4112bde82df6cb10f10e1ed9842fcc4] schedule 2A (additional amount: transactions relating to second homes etc. ),
+- (za)[^c-f4112bde82df6cb10f10e1ed9842fcc4] schedule 2A (additional amount: transactions relating to second homes etc. ),
 - (a) schedule 5 (multiple dwellings relief),
 - (b) schedule 9 (crofting community right to buy relief),
 - (c) Part 3 of schedule 11 (acquisition relief).
 
 ## Annotations
 
-[^key-1902bcc36ba1af37456fc57f9fd2e2ec]: Commencement: S. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-1902bcc36ba1af37456fc57f9fd2e2ec]: Commencement: S. 26 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-f4112bde82df6cb10f10e1ed9842fcc4]: Textual amendment: S. 26(4)(za) inserted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(b)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/b), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
+[^c-f4112bde82df6cb10f10e1ed9842fcc4]: Textual amendment: S. 26(4)(za) inserted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(b)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/b), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))

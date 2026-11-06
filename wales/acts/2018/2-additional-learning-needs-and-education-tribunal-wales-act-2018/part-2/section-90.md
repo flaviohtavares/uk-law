@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Power to amend duties to secure additional learning provision in Welsh[^key-86246f1e84769b7936c37bb881d042fa]
+## 90. Power to amend duties to secure additional learning provision in Welsh[^c-86246f1e84769b7936c37bb881d042fa]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86246f1e84769b7936c37bb881d042fa]: Commencement: S. 90 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-86246f1e84769b7936c37bb881d042fa]: Commencement: S. 90 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

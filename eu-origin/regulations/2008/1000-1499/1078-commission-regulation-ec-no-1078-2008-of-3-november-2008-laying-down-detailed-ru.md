@@ -33,102 +33,102 @@ of 3 November 2008
 
 laying down detailed rules for the implementation of Council Regulation (EC) No 861/2006 as regards the expenditure incurred by Member States for the collection and management of the basic fisheries data (revoked)
 
-[^key-751ebbb3e054af5a3e3a9e987777e5c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-751ebbb3e054af5a3e3a9e987777e5c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject-matter[^key-751ebbb3e054af5a3e3a9e987777e5c5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Submission of the annual budget forecast[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 1. Subject-matter[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Content of the annual budget forecast[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 2. Submission of the annual budget forecast[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Evaluation of the annual budget forecast[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 3. Content of the annual budget forecast[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Community financial contribution[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 4. Evaluation of the annual budget forecast[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Amendments to the approved annual budget forecast[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 5. Community financial contribution[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Eligible expenditure[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 6. Amendments to the approved annual budget forecast[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Non-eligible expenditure[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 7. Eligible expenditure[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Implementation of programmes[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 8. Non-eligible expenditure[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Submission of claims for reimbursement[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 9. Implementation of programmes[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Evaluation of the claims for reimbursement[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 10. Submission of claims for reimbursement[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Exclusion from reimbursement[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 11. Evaluation of the claims for reimbursement[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Approval of the claims for reimbursement[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 12. Exclusion from reimbursement[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Payments[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 13. Approval of the claims for reimbursement[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Currency[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 14. Payments[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Audits and financial corrections[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 15. Currency[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Entry into force[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 16. Audits and financial corrections[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-751ebbb3e054af5a3e3a9e987777e5c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Eligibility of expenditure incurred for the implementation of national programmes[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## Article 17. Entry into force[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Content of the letter stating the amount claimed for reimbursement or demanded as pre-financing payment[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+[^c-751ebbb3e054af5a3e3a9e987777e5c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Eligibility of expenditure incurred for the implementation of national programmes[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-751ebbb3e054af5a3e3a9e987777e5c5]
+## ANNEX II — Content of the letter stating the amount claimed for reimbursement or demanded as pre-financing payment[^c-751ebbb3e054af5a3e3a9e987777e5c5]
 
-[^key-751ebbb3e054af5a3e3a9e987777e5c5]STATEMENT OF EXPENDITURE
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-751ebbb3e054af5a3e3a9e987777e5c5]
+
+[^c-751ebbb3e054af5a3e3a9e987777e5c5]STATEMENT OF EXPENDITURE
 
 (to be sent to unit MARE.C4 through official channels)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-751ebbb3e054af5a3e3a9e987777e5c5]PUBLIC EXPENDITURE INCURRED IN CARRYING OUT THE NATIONAL PROGRAMME FOR DATA COLLECTION
+[^c-751ebbb3e054af5a3e3a9e987777e5c5]PUBLIC EXPENDITURE INCURRED IN CARRYING OUT THE NATIONAL PROGRAMME FOR DATA COLLECTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-751ebbb3e054af5a3e3a9e987777e5c5]CERTIFICATE
+[^c-751ebbb3e054af5a3e3a9e987777e5c5]CERTIFICATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-751ebbb3e054af5a3e3a9e987777e5c5]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-751ebbb3e054af5a3e3a9e987777e5c5]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/739/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

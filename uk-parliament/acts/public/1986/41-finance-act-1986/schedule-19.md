@@ -532,7 +532,7 @@ Section 101.
 
 **45.** In relation to a disposal of trees or underwood on or after 18th March 1986, paragraph 4 of Schedule 2 to the 1984 Act shall have effect, in a case where the death in question occurred before 18th March 1986, as mentioned in paragraphs (a) and (b) of paragraph 44 above.
 
-**46.** Notwithstanding anything in section 3A of the 1984 Act, a transfer of value which is made on or after 1st July 1986 and which, by virtue of subsection (4) of section 49 of the [^c13535051]Finance Act 1975 (transitional provision relating to estate duty deferment in respect of timber etc.), brings to an end of the period during which estate duty is payable on the net moneys received from the sale of timber etc. is not a potentially exempt transfer to the extent that the value transferred is attributable to the land concerned[^key-5e2136494e820a72cd77cfd510ca47aa].
+**46.** Notwithstanding anything in section 3A of the 1984 Act, a transfer of value which is made on or after 1st July 1986 and which, by virtue of subsection (4) of section 49 of the [^c13535051]Finance Act 1975 (transitional provision relating to estate duty deferment in respect of timber etc.), brings to an end of the period during which estate duty is payable on the net moneys received from the sale of timber etc. is not a potentially exempt transfer to the extent that the value transferred is attributable to the land concerned[^c-5e2136494e820a72cd77cfd510ca47aa].
 
 ## Annotations
 
@@ -546,4 +546,4 @@ Section 101.
 
 [^c13535051]: Marginal citation: [1975 c. 7](https://www.legislation.gov.uk/ukpga/1975/7).
 
-[^key-5e2136494e820a72cd77cfd510ca47aa]: Textual amendment: Words in [Sch. 19 para. 46](https://www.legislation.gov.uk/ukpga/1986/41/schedule/19/paragraph/46) inserted (with effect in accordance with art. 3 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [2](https://www.legislation.gov.uk/uksi/2017/495/article/2)
+[^c-5e2136494e820a72cd77cfd510ca47aa]: Textual amendment: Words in [Sch. 19 para. 46](https://www.legislation.gov.uk/ukpga/1986/41/schedule/19/paragraph/46) inserted (with effect in accordance with art. 3 of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2017 (S.I. 2017/495)](https://www.legislation.gov.uk/uksi/2017/495), [arts. 1](https://www.legislation.gov.uk/uksi/2017/495/article/1), [2](https://www.legislation.gov.uk/uksi/2017/495/article/2)

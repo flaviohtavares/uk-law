@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357YT. Amounts taxed at restitution payments rate to be outside instalment payments regime[^key-9a04ada177c581939694de8061a99242]
+## 357YT. Amounts taxed at restitution payments rate to be outside instalment payments regime[^c-9a04ada177c581939694de8061a99242]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of regulations under section 59E of TMA 1970 (further provision
 
 ## Annotations
 
-[^key-9a04ada177c581939694de8061a99242]: Textual amendment: Pt. 8C inserted (18.11.2015) (with effect in accordance with s. 38(9)-(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/38/3)
+[^c-9a04ada177c581939694de8061a99242]: Textual amendment: Pt. 8C inserted (18.11.2015) (with effect in accordance with s. 38(9)-(12) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/38/3)

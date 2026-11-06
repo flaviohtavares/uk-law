@@ -48,7 +48,7 @@ The Secretary of State is designated [^c20440061] for the purposes of section 2(
 
 These Regulations make provision for a purpose mentioned in section 2(2) of that Act, and it appears to the Secretary of State that it is necessary or expedient for certain references to EU instruments, or provisions of those instruments, in these Regulations to be construed as references to those instruments or provisions as amended from time to time.
 
-Accordingly the Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act, and by sections 19, 21, 29(1) and (7), and 104(2) of the Energy Act 2008 [^c20440081], as read with paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c20440091].[^key-7c6231c9729ef97e871bcc28aae34b0f]
+Accordingly the Secretary of State makes these Regulations in exercise of the powers conferred by section 2(2) of that Act, and by sections 19, 21, 29(1) and (7), and 104(2) of the Energy Act 2008 [^c20440081], as read with paragraph 1A of Schedule 2 to the European Communities Act 1972 [^c20440091].[^c-7c6231c9729ef97e871bcc28aae34b0f]
 
 ## General
 
@@ -65,16 +65,16 @@ Accordingly the Secretary of State makes these Regulations in exercise of the po
 (3) In these Regulations—
 
 - “**appraisal term**” has the meaning given by regulation 3(2)(a);
-- “the authority” (except in regulation 9) means the[^key-ce61acefb5fe5c4f71e2ac8a4404a4f4] Oil and Gas Authority[^key-6fdf00c4656889cdd79ec61b4bb486ab] as licensing authority under section 18(2);
-- “[^key-0c22522d97c97bebfebdd45022dc296c]**climate change legislation**” means—
-  - ((a)) the Greenhouse Gas Emissions Trading Scheme Regulations 2012;[^key-5d83e25233dcb01673b7132b13b8a783]
+- “the authority” (except in regulation 9) means the[^c-ce61acefb5fe5c4f71e2ac8a4404a4f4] Oil and Gas Authority[^c-6fdf00c4656889cdd79ec61b4bb486ab] as licensing authority under section 18(2);
+- “[^c-0c22522d97c97bebfebdd45022dc296c]**climate change legislation**” means—
+  - ((a)) the Greenhouse Gas Emissions Trading Scheme Regulations 2012;[^c-5d83e25233dcb01673b7132b13b8a783]
   - ((b)) the Greenhouse Gas Emissions Trading Scheme Order 2020; or
   - ((c)) legislation which levies a tax in relation to greenhouse gas emissions attributable to a person;
 - “**CO<sub>2</sub>**” means carbon dioxide;
 - “**corrective measures plan**” has the meaning given by regulation 7(6);
 - “**the Directive**” means Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide and amending Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337), European Parliament and Council Directives [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), [2001/80/EC](https://www.legislation.gov.uk/european/directive/2001/0080), [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035), [2006/12/EC](https://www.legislation.gov.uk/european/directive/2006/0012), [2008/1/EC](https://www.legislation.gov.uk/european/directive/2008/0001) and Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) [^c20440101];
-- “emissions” (except in the definitions of “the ETS Directive” and “Monitoring Regulation”) has the meaning given by section 97 of the Climate Change Act 2008;[^key-fa70b2a70068b0c33bd27896dda0059a]
-- “entering” in relation to premises includes, where applicable, boarding, and cognate expressions shall be construed accordingly;[^key-7714df28c9c09b91fa4d970bce3cb97f]
+- “emissions” (except in the definitions of “the ETS Directive” and “Monitoring Regulation”) has the meaning given by section 97 of the Climate Change Act 2008;[^c-fa70b2a70068b0c33bd27896dda0059a]
+- “entering” in relation to premises includes, where applicable, boarding, and cognate expressions shall be construed accordingly;[^c-7714df28c9c09b91fa4d970bce3cb97f]
 - “**the Environmental Liability Directive**” means Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage [^c20440111];
 - “**the ETS Directive**” means Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive [96/61/EC](https://www.legislation.gov.uk/european/directive/1996/0061) [^c20440121];
 - “**financial security**” includes—
@@ -88,19 +88,19 @@ Accordingly the Secretary of State makes these Regulations in exercise of the po
   - (b) is issued in combination with—
     - (i) a licence under section 4 to explore any controlled place with a view to carrying on activities within section 2(3)(a) to (d) and establish or maintain an installation in a controlled place for the purposes of such exploration, or
     - (ii) a licence under section 3 of the Petroleum Act 1998 [^c20440131] to search for petroleum in any area below the low water line or in the seaward areas as defined by regulation 3(1)(a) of the Petroleum (Production) (Seaward Areas) Regulations 1988 [^c20440141];
-- “greenhouse gas” (except in the definitions of “the ETS Directive” and “Monitoring Regulation”) has the meaning given by section 92 of the Climate Change Act 2008;[^key-29288b0ddbc415c1391f95996ec793e5]
+- “greenhouse gas” (except in the definitions of “the ETS Directive” and “Monitoring Regulation”) has the meaning given by section 92 of the Climate Change Act 2008;[^c-29288b0ddbc415c1391f95996ec793e5]
 - “**injection**” means injection of CO<sub>2</sub> into a storage site;
 - “inspection” means an inspection of a storage complex for the purpose of discharging a function described in sub-paragraph (a) or (b) of regulation 17(2);
 - “inspection report” has the meaning given to it in regulation 18(1);
 - “inspector” means a person appointed by the authority under section 27(1);
-- “**legislation**” [^key-06b068020e6cc80103ff1217aa4922c2]... means legislation in force in the United Kingdom (whether passed, or made, before or after the commencement of these Regulations);
+- “**legislation**” [^c-06b068020e6cc80103ff1217aa4922c2]... means legislation in force in the United Kingdom (whether passed, or made, before or after the commencement of these Regulations);
 - “licence” (except in regulation 9) means a licence (other than a general exploration licence) granted by the authority under section 18(1) in respect of—
   - (a) activities within section 17(2)(a) to (c) and a controlled place which is not in, under or over the territorial sea adjacent to Scotland, or
   - (b) the establishment or maintenance in a controlled place which is not in, under or over the territorial sea adjacent to Scotland of an installation for the purposes of activities within section 17(2),
 - (and “**licence holder**” is to be construed accordingly);
 - “**licensed area**” means the area within which activities are authorised under the licence;
 - “**monitoring plan**” has the meaning given by regulation 7(5);
-- “[^key-e3fe01ee09ad05d344bd26f7214103f2]**Monitoring Regulation**” means Commission Regulation (EU) No 601/2012 of 21 June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) of the European Parliament and of the Council;
+- “[^c-e3fe01ee09ad05d344bd26f7214103f2]**Monitoring Regulation**” means Commission Regulation (EU) No 601/2012 of 21 June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87) of the European Parliament and of the Council;
 - “**operator**”, in relation to a storage permit, means the person who carries on or (where different) controls activities at the storage site;
 - “**post-closure plan**” has the meaning given by regulation 13(3) or (4);
 - “premises” includes—
@@ -125,13 +125,13 @@ Accordingly the Secretary of State makes these Regulations in exercise of the po
 - “significant risk”;
 - “storage complex”;
 - “storage site”;
-- [^key-b01916e3c5c70be8d24e71e199e7e96c]...
+- [^c-b01916e3c5c70be8d24e71e199e7e96c]...
 - “waste”;
 - “water column”.
 
-(5)[^key-5b1654290ccccfddf5eab7d107608359] In these Regulations, for the purposes of any reference to Annex II to the Directive, Article 13(2) of the Directive shall be read as if for the words “guidelines established pursuant to Article 14 and Article 23(2) of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ Monitoring Regulation ”.
+(5)[^c-5b1654290ccccfddf5eab7d107608359] In these Regulations, for the purposes of any reference to Annex II to the Directive, Article 13(2) of the Directive shall be read as if for the words “guidelines established pursuant to Article 14 and Article 23(2) of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ Monitoring Regulation ”.
 
-### 1A. Review[^key-48a150d793eb71b955df738ecc68573b]
+### 1A. Review[^c-48a150d793eb71b955df738ecc68573b]
 
 (1) Before the end of each review period, the Secretary of State must—
 
@@ -164,8 +164,8 @@ A licence may not be granted for the purpose of storing CO<sub>2 </sub>in the wa
 
 (1) An application for a licence must be—
 
-- (a) made in writing and sent to the Oil and Gas Authority[^key-317f2d8773e5a4d2426d589bdb3ce06d], [^key-df7ccc149cfb1163972fadbe3ea16c57]...
-- (b)[^key-ea3f03fed6a813fda5cada9b3c495427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) made in writing and sent to the Oil and Gas Authority[^c-317f2d8773e5a4d2426d589bdb3ce06d], [^c-df7ccc149cfb1163972fadbe3ea16c57]...
+- (b)[^c-ea3f03fed6a813fda5cada9b3c495427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The application must include—
 
@@ -215,24 +215,24 @@ A licence must include the provisions contained in Schedule 1.
   - (v) the proposed injection rates and pressures;
   - (vi) the proposed location of the injection facilities;
 - (d) a description of measures to prevent any significant irregularities;
-- (e) a proposed monitoring plan drawn up in accordance with Annex II to the Directive and that takes into account the obligations imposed on the operator under the Monitoring Regulation[^key-b792e0fc323e38cf6c71d589c4a2fdb4];
+- (e) a proposed monitoring plan drawn up in accordance with Annex II to the Directive and that takes into account the obligations imposed on the operator under the Monitoring Regulation[^c-b792e0fc323e38cf6c71d589c4a2fdb4];
 - (f) a proposed corrective measures plan;
 - (g) the proposed provisional post-closure plan drawn up in accordance with regulation 13(1);
-- (h) the information required to be provided in relation to the storage site under legislation which before[^key-8e26b1a2a4a781c8b094ecdbdb9088d0] IP completion day[^key-c280438b898feafa3dbda252fe7799ac] implemented Article 5 of Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment[^key-9f1c80438b61a9c4dfdc4e97ed4d958d];
+- (h) the information required to be provided in relation to the storage site under legislation which before[^c-8e26b1a2a4a781c8b094ecdbdb9088d0] IP completion day[^c-c280438b898feafa3dbda252fe7799ac] implemented Article 5 of Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment[^c-9f1c80438b61a9c4dfdc4e97ed4d958d];
 - (i) details of financial security that will satisfy the requirements in paragraph 7(1) of Schedule 2, including proof that (if the storage permit is granted) such a security will be in force before the proposed date on which injection is to commence.
 
-(4)[^key-0fdde015c7d53e812fbb96d14147d403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0fdde015c7d53e812fbb96d14147d403] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Grant of storage permits
 
 (1) Before granting a storage permit the authority must be satisfied that—
 
 - (a) the storage complex and surrounding area have been sufficiently characterised and assessed in accordance with the criteria set out in Annex I to the Directive,
-- (b) no part of the storage complex extends beyond the territory[^key-a304cf502b8c965345de147544c9c254] of the United Kingdom or another state which is party to an agreement with the United Kingdom concerning cross-boundary cooperation in relation to the complex[^key-81ad2efc803b0867a33ac5784dbde0be],
+- (b) no part of the storage complex extends beyond the territory[^c-a304cf502b8c965345de147544c9c254] of the United Kingdom or another state which is party to an agreement with the United Kingdom concerning cross-boundary cooperation in relation to the complex[^c-81ad2efc803b0867a33ac5784dbde0be],
 - (c) under the proposed conditions of use of the storage site, there is no significant risk of leakage or of harm to the environment or human health, and
 - (d) the conditions in paragraph (3) are met.
 
-(2) For the purposes of paragraph (1)(b), the territory of a state[^key-814b2645916daea527e1724163e86c53] includes its exclusive economic zone and continental shelf within the meaning of Articles 55 and 76 of the United Nations Convention on the Law of the Sea [^c20440161].
+(2) For the purposes of paragraph (1)(b), the territory of a state[^c-814b2645916daea527e1724163e86c53] includes its exclusive economic zone and continental shelf within the meaning of Articles 55 and 76 of the United Nations Convention on the Law of the Sea [^c20440161].
 
 (3) The conditions are that the proposed operator—
 
@@ -255,7 +255,7 @@ and (if the permit is granted) the monitoring plan is the plan as so approved or
 
 and (if the permit is granted) the corrective measures plan is the plan as so approved or modified.
 
-(7)[^key-b14304e9849bcfe8908024854afc048a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b14304e9849bcfe8908024854afc048a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Content of storage permits
 
@@ -278,13 +278,13 @@ and (if the permit is granted) the corrective measures plan is the plan as so ap
 - (l) the provisional post-closure plan; and
 - (m) the provisions relating to financial security.
 
-(1A)[^key-64849dc860f42700b805777acfcacbcc] If the operator is a company, a storage permit must also include the provisions contained in paragraph 6(2) to (11) of Schedule 1, read as if—
+(1A)[^c-64849dc860f42700b805777acfcacbcc] If the operator is a company, a storage permit must also include the provisions contained in paragraph 6(2) to (11) of Schedule 1, read as if—
 
 - (a) any reference to a company were to the operator,
 - (b) the reference in paragraph 6(8)(b) to the licence were to the storage permit, and
 - (c) paragraph 6(10)(c) were omitted.
 
-(2) In paragraph (1) of this[^key-094f8be88f3ee33b852f9b3e7db23b8e] regulation, “**provisions**” means provisions contained in Schedule 2.
+(2) In paragraph (1) of this[^c-094f8be88f3ee33b852f9b3e7db23b8e] regulation, “**provisions**” means provisions contained in Schedule 2.
 
 ## Public register
 
@@ -304,7 +304,7 @@ and (if the permit is granted) the corrective measures plan is the plan as so ap
 - (c) the names and addresses of all persons (past and present) organising or supervising activities under the licence before the storage permit is granted, including the dates on which they began or ceased to do so;
 - (d) the terms and conditions of the storage permit;
 - (e) the names and addresses of all past and present operators under the storage permit, including the dates on which they began or ceased to be the operator;
-- (f)[^key-abbd9df5979913f1f3321b4281b2ca95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-abbd9df5979913f1f3321b4281b2ca95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) any modifications of the terms and conditions of the licence or the storage permit (including the date on which the modification came into effect);
 - (h) where the licence has terminated or been surrendered, the date of such termination or surrender;
 - (i) where the storage permit has been revoked, the date of and reasons for such revocation.
@@ -397,7 +397,7 @@ but does not apply where the storage permit has been revoked.
 
 (8) Before making any revocation or modification under this regulation, the authority must consult the operator and any other holder of the licence.
 
-(9)[^key-00ec2d38a5a8dc58854ecb9abcde42a6] In this regulation “**substantial change**” means any change not provided for in the storage permit which may have a significant effect on the environment or human health.
+(9)[^c-00ec2d38a5a8dc58854ecb9abcde42a6] In this regulation “**substantial change**” means any change not provided for in the storage permit which may have a significant effect on the environment or human health.
 
 ### 12. Consequences of revocation of a storage permit
 
@@ -418,8 +418,8 @@ but does not apply where the storage permit has been revoked.
 - (a) in relation to the acceptance and injection of CO<sub>2</sub>;
 - (b) in relation to monitoring;
 - (c) in relation to corrective measures;
-- (d)[^key-57a8b921c5400ba28996fa38ea374685] in relation to the offset of emissions which are leakage under climate change legislation (if any); and
-- (e) under legislation which before[^key-00e0eba6ba7dec849f602744ff997bbb] IP completion day[^key-896f2214dc444106760dfa3d57aa793a] implemented Articles 5(1) and 6(1) of the Environmental Liability Directive.
+- (d)[^c-57a8b921c5400ba28996fa38ea374685] in relation to the offset of emissions which are leakage under climate change legislation (if any); and
+- (e) under legislation which before[^c-00e0eba6ba7dec849f602744ff997bbb] IP completion day[^c-896f2214dc444106760dfa3d57aa793a] implemented Articles 5(1) and 6(1) of the Environmental Liability Directive.
 
 (5) Where the storage site is closed under paragraph (2)(a) or (3)(a), the authority—
 
@@ -459,8 +459,8 @@ and the post-closure plan is the plan as so approved or modified.
 
 The closure of the storage site is without prejudice to the obligations of the operator—
 
-- (a) under legislation which before[^key-94a1d724806a91f3f8d3f72a11518786] IP completion day[^key-3dcb457ef676ad0e011ab8d6b351db23] implemented Articles 5 to 8 of the Environmental Liability Directive, or
-- (b)[^key-8837b23f01566d2894638069e61f399d] relating to the offset of emissions which are leakage under climate change legislation (if any).
+- (a) under legislation which before[^c-94a1d724806a91f3f8d3f72a11518786] IP completion day[^c-3dcb457ef676ad0e011ab8d6b351db23] implemented Articles 5 to 8 of the Environmental Liability Directive, or
+- (b)[^c-8837b23f01566d2894638069e61f399d] relating to the offset of emissions which are leakage under climate change legislation (if any).
 
 ## Environmental Liability Directive
 
@@ -474,7 +474,7 @@ In Schedule 2 to the Environmental Damage (Prevention and Remediation) Regulatio
 
 .
 
-## Inspections and enforcement[^key-3f092f297f511f5790fe446637a27185]
+## Inspections and enforcement[^c-3f092f297f511f5790fe446637a27185]
 
 ### 16. Inspections
 
@@ -624,7 +624,7 @@ If a storage permit is granted under a licence then, subject to regulation 12, p
 
 (3) An application for the authority's consent to the closure of the storage site must—
 
-- (a) be made in writing and sent to the Oil and Gas Authority[^key-3b2f6d21a2413dab75e9677fee91bedb], and
+- (a) be made in writing and sent to the Oil and Gas Authority[^c-3b2f6d21a2413dab75e9677fee91bedb], and
 - (b) contain the reasons why the operator proposes to close the storage site.
 
 (4) However, a storage site may not be closed under sub-paragraph (1) or (2) until the terms of the post-closure plan have been determined under regulation 13(3).
@@ -657,7 +657,7 @@ If a storage permit is granted under a licence then, subject to regulation 12, p
 
 The operator must not (and must not permit any other person to) extract stored CO<sub>2 </sub>from the storage site except with the prior written consent of the authority and in accordance with any conditions subject to which any such consent is given.
 
-### 6. Change in control of licence holder[^key-a6883d3fc12efb27cb7f70a4bbbbd7fd]
+### 6. Change in control of licence holder[^c-a6883d3fc12efb27cb7f70a4bbbbd7fd]
 
 (1) This paragraph applies if—
 
@@ -811,7 +811,7 @@ and the updated monitoring plan is the plan as so approved or modified.
 
 (6) If the operator becomes aware of any leakages or significant irregularities, the operator must immediately notify the authority.
 
-(7) If the operator becomes aware of any leakages, or of any significant irregularities which imply the risk of leakage, the operator must immediately notify the person (if any)[^key-b4d26d2f01ada0909ca50bfa0aab6d59] who is the regulator in relation to emissions from[^key-e07f6ff110d73099d9e1faf069d70297] the storage site for the purposes of climate change legislation[^key-c3c0d9e690a992ddcd38f90f98a81eb7].
+(7) If the operator becomes aware of any leakages, or of any significant irregularities which imply the risk of leakage, the operator must immediately notify the person (if any)[^c-b4d26d2f01ada0909ca50bfa0aab6d59] who is the regulator in relation to emissions from[^c-e07f6ff110d73099d9e1faf069d70297] the storage site for the purposes of climate change legislation[^c-c3c0d9e690a992ddcd38f90f98a81eb7].
 
 ### 4. Notification and implementation of changes
 
@@ -868,22 +868,22 @@ The permit is to be reviewed, and where necessary modified or (as a last resort)
 (5) The obligations are—
 
 - (a) all obligations of the operator arising under the storage permit, including those arising in respect of the closure of the storage site and during the period between such closure and the termination of the licence;
-- (b) the obligation to pay the authority's costs under regulation 10(4)(b) or 12(6); [^key-e310acc5d43f37797474889fcb2f176c]...
-- (c)[^key-ceda98b00867a085ca14c0fe6a3c252d] any obligations of the operator arising in respect of the storage site under climate change legislation which relate to—
+- (b) the obligation to pay the authority's costs under regulation 10(4)(b) or 12(6); [^c-e310acc5d43f37797474889fcb2f176c]...
+- (c)[^c-ceda98b00867a085ca14c0fe6a3c252d] any obligations of the operator arising in respect of the storage site under climate change legislation which relate to—
   - (i) monitoring, reporting or verification of greenhouse gas emissions; or
   - (ii) the offset of emissions which are leakage,
 
   of which the authority has notified the operator under sub-paragraph (5A); and
-- (d) the obligation to provide the financial contribution to the authority in accordance with regulation 10(5)[^key-34c6f1bb526efdabb24e0c4bbdb6c4e0] of the Storage of Carbon Dioxide (Termination of Licences) Regulations 2011.
+- (d) the obligation to provide the financial contribution to the authority in accordance with regulation 10(5)[^c-34c6f1bb526efdabb24e0c4bbdb6c4e0] of the Storage of Carbon Dioxide (Termination of Licences) Regulations 2011.
 
-(5A)[^key-19be7a3417f5be60de855565f23265b0] The authority must notify the operator of any climate change legislation it considers gives rise to obligations which should be taken into account under sub-paragraph (5)(c).
+(5A)[^c-19be7a3417f5be60de855565f23265b0] The authority must notify the operator of any climate change legislation it considers gives rise to obligations which should be taken into account under sub-paragraph (5)(c).
 
 (6) Where the storage permit is revoked—
 
 - (a) the obligations of the operator under this paragraph continue in effect until the licence is terminated, but
 - (b) the assessment by the authority under sub-paragraph (3) is to be made at such intervals as the authority may determine.
 
-## SCHEDULE 3 — Powers of inspectors[^key-7f7100fe745352b1655bb718e9fb6acc]
+## SCHEDULE 3 — Powers of inspectors[^c-7f7100fe745352b1655bb718e9fb6acc]
 
 **1.** The powers of an inspector are—
 
@@ -978,21 +978,21 @@ Copies of the Impact Assessment and Transposition Note are also available from R
 
 [^c20440091]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/uksi/2010/2221/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006, and amended by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008.
 
-[^key-7c6231c9729ef97e871bcc28aae34b0f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2221/paragraph/1A): power to amend conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 93(10)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/93/10/a), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-7c6231c9729ef97e871bcc28aae34b0f]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2221/paragraph/1A): power to amend conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 93(10)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/93/10/a), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-ce61acefb5fe5c4f71e2ac8a4404a4f4]: Textual amendment: Words in reg. 1(3) substituted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/461/regulation/3/b)
+[^c-ce61acefb5fe5c4f71e2ac8a4404a4f4]: Textual amendment: Words in reg. 1(3) substituted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/461/regulation/3/b)
 
-[^key-6fdf00c4656889cdd79ec61b4bb486ab]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/78); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-6fdf00c4656889cdd79ec61b4bb486ab]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 78](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/78); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-0c22522d97c97bebfebdd45022dc296c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c22522d97c97bebfebdd45022dc296c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d83e25233dcb01673b7132b13b8a783]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/1190/regulation/3)
+[^c-5d83e25233dcb01673b7132b13b8a783]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/1190/regulation/3)
 
 [^c20440101]: Marginal citation: OJ No L 140, 5.6.2009, p 114.
 
-[^key-fa70b2a70068b0c33bd27896dda0059a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa70b2a70068b0c33bd27896dda0059a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7714df28c9c09b91fa4d970bce3cb97f]: Textual amendment: Words in reg. 1(3) inserted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/461/regulation/3/a)
+[^c-7714df28c9c09b91fa4d970bce3cb97f]: Textual amendment: Words in reg. 1(3) inserted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/461/regulation/3/a)
 
 [^c20440111]: Marginal citation: OJ No L 143, 30.4.2004, p 56; amended by European Parliament and Council Directives 2006/21/EC (OJ No L 102, 11.4.2006, p 15) and 2009/31/EC.
 
@@ -1002,86 +1002,86 @@ Copies of the Impact Assessment and Transposition Note are also available from R
 
 [^c20440141]: Marginal citation: [S.I. 1988/1213](https://www.legislation.gov.uk/uksi/1988/1213); regulation 3(1)(a) and Schedule 1 were amended by [S.I. 1992/2378](https://www.legislation.gov.uk/uksi/1992/2378); there are other amendments to the instrument that are not relevant to these Regulations.
 
-[^key-29288b0ddbc415c1391f95996ec793e5]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29288b0ddbc415c1391f95996ec793e5]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06b068020e6cc80103ff1217aa4922c2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) omitted (12.12.2022) by virtue of [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/1190/regulation/4)
+[^c-06b068020e6cc80103ff1217aa4922c2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) omitted (12.12.2022) by virtue of [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/1190/regulation/4)
 
-[^key-e3fe01ee09ad05d344bd26f7214103f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3fe01ee09ad05d344bd26f7214103f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/3) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(a)(v)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/a/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b01916e3c5c70be8d24e71e199e7e96c]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/4) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b01916e3c5c70be8d24e71e199e7e96c]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/4) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b1654290ccccfddf5eab7d107608359]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/5) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b1654290ccccfddf5eab7d107608359]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/1/5) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48a150d793eb71b955df738ecc68573b]: Textual amendment: Reg. 1A inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/17/2)
+[^c-48a150d793eb71b955df738ecc68573b]: Textual amendment: Reg. 1A inserted (1.10.2016) by [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2016/912/regulation/17/2)
 
-[^key-317f2d8773e5a4d2426d589bdb3ce06d]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/3/1/a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/79); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-317f2d8773e5a4d2426d589bdb3ce06d]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/3/1/a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 79](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/79); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-df7ccc149cfb1163972fadbe3ea16c57]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/3/1/a) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/17/3/a)
+[^c-df7ccc149cfb1163972fadbe3ea16c57]: Textual amendment: Word in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/3/1/a) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [17(3)(a)](https://www.legislation.gov.uk/uksi/2016/912/regulation/17/3/a)
 
-[^key-ea3f03fed6a813fda5cada9b3c495427]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/3/1/b) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/17/3/b)
+[^c-ea3f03fed6a813fda5cada9b3c495427]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/3/1/b) omitted (1.10.2016) by virtue of [The Energy (Transfer of Functions, Consequential Amendments and Revocation) Regulations 2016 (S.I. 2016/912)](https://www.legislation.gov.uk/uksi/2016/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/912/regulation/1/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2016/912/regulation/17/3/b)
 
-[^key-b792e0fc323e38cf6c71d589c4a2fdb4]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/e) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b792e0fc323e38cf6c71d589c4a2fdb4]: Textual amendment: Words in [reg. 6(3)(e)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/e) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e26b1a2a4a781c8b094ecdbdb9088d0]: Textual amendment: Words in [reg. 6(3)(h)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/h) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e26b1a2a4a781c8b094ecdbdb9088d0]: Textual amendment: Words in [reg. 6(3)(h)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/h) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c280438b898feafa3dbda252fe7799ac]: Textual amendment: Words in [reg. 6(3)(h)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/h) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/1190/regulation/5)
+[^c-c280438b898feafa3dbda252fe7799ac]: Textual amendment: Words in [reg. 6(3)(h)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/h) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/1190/regulation/5)
 
-[^key-9f1c80438b61a9c4dfdc4e97ed4d958d]: Textual amendment: Words in [reg. 6(3)(h)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/h) substituted (30.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f1c80438b61a9c4dfdc4e97ed4d958d]: Textual amendment: Words in [reg. 6(3)(h)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/3/h) substituted (30.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fdde015c7d53e812fbb96d14147d403]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/4) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fdde015c7d53e812fbb96d14147d403]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/6/4) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a304cf502b8c965345de147544c9c254]: Textual amendment: Word in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/1/b) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a304cf502b8c965345de147544c9c254]: Textual amendment: Word in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/1/b) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-81ad2efc803b0867a33ac5784dbde0be]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/1/b) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81ad2efc803b0867a33ac5784dbde0be]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/1/b) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-814b2645916daea527e1724163e86c53]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/2) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-814b2645916daea527e1724163e86c53]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/2) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20440161]: Marginal citation: Cmnd. 8941.
 
-[^key-b14304e9849bcfe8908024854afc048a]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/7) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b14304e9849bcfe8908024854afc048a]: Textual amendment: [Reg. 7(7)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/7/7) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64849dc860f42700b805777acfcacbcc]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/8/1A) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 104(1)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/1/a), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1) (with [s. 104(2)-(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/2)); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/ii)
+[^c-64849dc860f42700b805777acfcacbcc]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/8/1A) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 104(1)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/1/a), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1) (with [s. 104(2)-(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/2)); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/ii)
 
-[^key-094f8be88f3ee33b852f9b3e7db23b8e]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/8/2) substituted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 104(1)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/1/b), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1) (with [s. 104(2)-(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/2)); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/ii)
+[^c-094f8be88f3ee33b852f9b3e7db23b8e]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/8/2) substituted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 104(1)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/1/b), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1) (with [s. 104(2)-(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/104/2)); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/ii)
 
-[^key-abbd9df5979913f1f3321b4281b2ca95]: Textual amendment: [Reg. 9(3)(f)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/9/3/f) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-abbd9df5979913f1f3321b4281b2ca95]: Textual amendment: [Reg. 9(3)(f)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/9/3/f) omitted (31.12.2020) by virtue of [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(5)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-00ec2d38a5a8dc58854ecb9abcde42a6]: Textual amendment: [Reg. 11(9)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/11/9) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00ec2d38a5a8dc58854ecb9abcde42a6]: Textual amendment: [Reg. 11(9)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/11/9) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57a8b921c5400ba28996fa38ea374685]: Textual amendment: [Reg. 12(4)(d)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/12/4/d) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57a8b921c5400ba28996fa38ea374685]: Textual amendment: [Reg. 12(4)(d)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/12/4/d) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-00e0eba6ba7dec849f602744ff997bbb]: Textual amendment: Words in [reg. 12(4)(e)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/12/4/e) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00e0eba6ba7dec849f602744ff997bbb]: Textual amendment: Words in [reg. 12(4)(e)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/12/4/e) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-896f2214dc444106760dfa3d57aa793a]: Textual amendment: Words in [reg. 12(4)(e)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/12/4/e) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [6](https://www.legislation.gov.uk/uksi/2022/1190/regulation/6)
+[^c-896f2214dc444106760dfa3d57aa793a]: Textual amendment: Words in [reg. 12(4)(e)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/12/4/e) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [6](https://www.legislation.gov.uk/uksi/2022/1190/regulation/6)
 
 [^c20440171]: Marginal citation: Section 30 of the Energy Act 2008 applies Part 4 of the [Petroleum Act 1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17) to carbon storage installations (as defined by section 30(5)).
 
-[^key-94a1d724806a91f3f8d3f72a11518786]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/14/a) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94a1d724806a91f3f8d3f72a11518786]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/14/a) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3dcb457ef676ad0e011ab8d6b351db23]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/14/a) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/1190/regulation/7)
+[^c-3dcb457ef676ad0e011ab8d6b351db23]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/14/a) substituted (12.12.2022) by [The Storage of Carbon Dioxide (Amendment) (EU Exit) Regulations 2022 (S.I. 2022/1190)](https://www.legislation.gov.uk/uksi/2022/1190), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1190/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/1190/regulation/7)
 
-[^key-8837b23f01566d2894638069e61f399d]: Textual amendment: [Reg. 14(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/14/b) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(8)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8837b23f01566d2894638069e61f399d]: Textual amendment: [Reg. 14(b)](https://www.legislation.gov.uk/uksi/2010/2221/regulation/14/b) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(8)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20440181]: Marginal citation: [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153), amended by [S.I. 2009/3275](https://www.legislation.gov.uk/uksi/2009/3275) and 2010/587. The Regulations make provision for implementing the Environmental Liability Directive in England, surrounding waters and in marine areas where the United Kingdom has jurisdiction beyond the territorial sea.
 
-[^key-3f092f297f511f5790fe446637a27185]: Textual amendment: Regs. 16-20 and cross-heading inserted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/461/regulation/4)
+[^c-3f092f297f511f5790fe446637a27185]: Textual amendment: Regs. 16-20 and cross-heading inserted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/461/regulation/4)
 
-[^key-3b2f6d21a2413dab75e9677fee91bedb]: Textual amendment: Words in [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/1/paragraph/2/3/a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/80); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-3b2f6d21a2413dab75e9677fee91bedb]: Textual amendment: Words in [Sch. 1 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/1/paragraph/2/3/a) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/80); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-a6883d3fc12efb27cb7f70a4bbbbd7fd]: Textual amendment: [Sch. 1 paras. 6-8](https://www.legislation.gov.uk/uksi/2010/2221/schedule/1/paragraph/6) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/6); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/i)
+[^c-a6883d3fc12efb27cb7f70a4bbbbd7fd]: Textual amendment: [Sch. 1 paras. 6-8](https://www.legislation.gov.uk/uksi/2010/2221/schedule/1/paragraph/6) inserted (11.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/6); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/i)
 
-[^key-b4d26d2f01ada0909ca50bfa0aab6d59]: Textual amendment: Words in [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/3/7) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4d26d2f01ada0909ca50bfa0aab6d59]: Textual amendment: Words in [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/3/7) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e07f6ff110d73099d9e1faf069d70297]: Textual amendment: Words in [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/3/7) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e07f6ff110d73099d9e1faf069d70297]: Textual amendment: Words in [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/3/7) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3c0d9e690a992ddcd38f90f98a81eb7]: Textual amendment: Words in [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/3/7) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3c0d9e690a992ddcd38f90f98a81eb7]: Textual amendment: Words in [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/3/7) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e310acc5d43f37797474889fcb2f176c]: Textual amendment: Word in Sch. 2 para. 7(5)(b) omitted (23.2.2012) by virtue of [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/461/regulation/5/a)
+[^c-e310acc5d43f37797474889fcb2f176c]: Textual amendment: Word in Sch. 2 para. 7(5)(b) omitted (23.2.2012) by virtue of [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/461/regulation/5/a)
 
-[^key-ceda98b00867a085ca14c0fe6a3c252d]: Textual amendment: [Sch. 2 para. 7(5)(c)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/7/5/c) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(10)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ceda98b00867a085ca14c0fe6a3c252d]: Textual amendment: [Sch. 2 para. 7(5)(c)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/7/5/c) substituted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(10)(a)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34c6f1bb526efdabb24e0c4bbdb6c4e0]: Textual amendment: Word in [Sch. 2 para. 7(5)(d)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/7/5/d) substituted (30.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34c6f1bb526efdabb24e0c4bbdb6c4e0]: Textual amendment: Word in [Sch. 2 para. 7(5)(d)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/7/5/d) substituted (30.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19be7a3417f5be60de855565f23265b0]: Textual amendment: [Sch. 2 para. 7(5A)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/7/5A) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(10)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19be7a3417f5be60de855565f23265b0]: Textual amendment: [Sch. 2 para. 7(5A)](https://www.legislation.gov.uk/uksi/2010/2221/schedule/2/paragraph/7/5A) inserted (31.12.2020) by [The Storage of Carbon Dioxide (Amendment and Power to Modify) (EU Exit) Regulations 2019 (S.I. 2019/544)](https://www.legislation.gov.uk/uksi/2019/544), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/544/regulation/1/3), [2(10)(b)](https://www.legislation.gov.uk/uksi/2019/544/regulation/2/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f7100fe745352b1655bb718e9fb6acc]: Textual amendment: Sch. 3 inserted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/461/regulation/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/461/schedule/1)
+[^c-7f7100fe745352b1655bb718e9fb6acc]: Textual amendment: Sch. 3 inserted (23.2.2012) by [The Storage of Carbon Dioxide (Inspections etc.) Regulations 2012 (S.I. 2012/461)](https://www.legislation.gov.uk/uksi/2012/461), [regs. 1](https://www.legislation.gov.uk/uksi/2012/461/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/461/regulation/6), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/461/schedule/1)

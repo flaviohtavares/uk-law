@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The finished product[^key-1fe9b31a3f383e55078263ab341ee34b]
+## 6. The finished product[^c-1fe9b31a3f383e55078263ab341ee34b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The holder of a marketing authorisation for a veterinary medicinal product is gu
 
 ## Annotations
 
-[^key-1fe9b31a3f383e55078263ab341ee34b]: Commencement: Reg. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1fe9b31a3f383e55078263ab341ee34b]: Commencement: Reg. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

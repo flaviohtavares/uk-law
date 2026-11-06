@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Failure of parent or guardian to comply with order under section 90[^key-aa3f209c9791187e8becb110fb50a4dd]
+## 93. Failure of parent or guardian to comply with order under section 90[^c-aa3f209c9791187e8becb110fb50a4dd]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the youth offender panel may refer the parent or guardian to a youth court actin
 
 ## Annotations
 
-[^key-aa3f209c9791187e8becb110fb50a4dd]: Commencement: S. 93 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-aa3f209c9791187e8becb110fb50a4dd]: Commencement: S. 93 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

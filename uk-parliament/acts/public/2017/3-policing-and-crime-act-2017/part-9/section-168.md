@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Disregarding certain convictions etc for abolished offences: Northern Ireland[^c22720041][^key-2126e183332f7403bfea90615e2f4a9e]
+## 168. Disregarding certain convictions etc for abolished offences: Northern Ireland[^c22720041][^c-2126e183332f7403bfea90615e2f4a9e]
 
 *Extent: E+W+N.I.*
 
@@ -258,4 +258,4 @@ summary: ''
 
 [^c22720041]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2017/3/section/168) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2126e183332f7403bfea90615e2f4a9e]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2017/3/section/168) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/128/article/2/a)
+[^c-2126e183332f7403bfea90615e2f4a9e]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2017/3/section/168) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/128/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## S1. Suspension of pension on return to NHS employment[^key-60fc7c7005a22758ca13bc18883dc60f]
+## S1. Suspension of pension on return to NHS employment[^c-60fc7c7005a22758ca13bc18883dc60f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60fc7c7005a22758ca13bc18883dc60f]: Textual amendment: Reg. S1 omitted (with effect from 1.4.2023) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/4), [25](https://www.legislation.gov.uk/ssi/2024/272/regulation/25)
+[^c-60fc7c7005a22758ca13bc18883dc60f]: Textual amendment: Reg. S1 omitted (with effect from 1.4.2023) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/4), [25](https://www.legislation.gov.uk/ssi/2024/272/regulation/25)

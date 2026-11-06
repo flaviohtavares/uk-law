@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Commission rules of procedure[^key-2fd1880fc66d88a1461a34e5142e10f0]
+## 187. Commission rules of procedure[^c-2fd1880fc66d88a1461a34e5142e10f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fd1880fc66d88a1461a34e5142e10f0]: Textual amendment: Ss. 185-187 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 225](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/225) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2fd1880fc66d88a1461a34e5142e10f0]: Textual amendment: Ss. 185-187 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 225](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/225) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

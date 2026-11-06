@@ -52,27 +52,27 @@ These Regulations may be cited as The Single Common Market Organisation (Consequ
 
 ## 2. Amendments to the Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010
 
-(1)[^key-82d154f1638754fdfd3366642a73531a] The Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] [^c22063081] are amended as follows. *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+(1)[^c-82d154f1638754fdfd3366642a73531a] The Beef and Pig Carcase Classification Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] [^c22063081] are amended as follows. *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
-(2) In regulation 2(1) (interpretation) omit the definition of “Council Regulation” and after the definition of “prescribed communications” insert the following definition— *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+(2) In regulation 2(1) (interpretation) omit the definition of “Council Regulation” and after the definition of “prescribed communications” insert the following definition— *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
-> “**Regulation (EU) 2013 *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] [(EEC) No 922/72 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1972/0922)[^key-82d154f1638754fdfd3366642a73531a], [(EEC) No 234/79 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1979/0234)[^key-82d154f1638754fdfd3366642a73531a], [(EC) No 1037/2001 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2001/1037)[^key-82d154f1638754fdfd3366642a73531a] and *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] [(EC) No 1234/2007 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2007/1234)[^key-82d154f1638754fdfd3366642a73531a], as amended from time to time; *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+> “**Regulation (EU) 2013 *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]**” means Regulation (EU) No 1308/2013 of the European Parliament and of the Council adopted on the 16 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] [(EEC) No 922/72 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1972/0922)[^c-82d154f1638754fdfd3366642a73531a], [(EEC) No 234/79 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/1979/0234)[^c-82d154f1638754fdfd3366642a73531a], [(EC) No 1037/2001 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2001/1037)[^c-82d154f1638754fdfd3366642a73531a] and *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] [(EC) No 1234/2007 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2007/1234)[^c-82d154f1638754fdfd3366642a73531a], as amended from time to time; *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
 .
 
-(3) In regulation 2(3) (interpretation) substitute *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] “ Council Regulation ” *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] with “Regulation (EU) 2013”. *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+(3) In regulation 2(3) (interpretation) substitute *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] “ Council Regulation ” *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] with “Regulation (EU) 2013”. *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
-(4) In regulation 2(4)(b) substitute *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] “ Council Regulation ” *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] with “Regulation (EU) 2013”. *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+(4) In regulation 2(4)(b) substitute *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] “ Council Regulation ” *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] with “Regulation (EU) 2013”. *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
-(5) In Part 1 of Schedule 1 (European provisions: bovine carcases)— *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+(5) In Part 1 of Schedule 1 (European provisions: bovine carcases)— *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
-- (a) in column 1 of the Table for “Council Regulation” substitute “Regulation (EU) 2013; *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
-- (b) in column 2 of the Table for “Annex V”, in each place it occurs, substitute *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] “ Annex IV ” *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a].
+- (a) in column 1 of the Table for “Council Regulation” substitute “Regulation (EU) 2013; *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
+- (b) in column 2 of the Table for “Annex V”, in each place it occurs, substitute *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] “ Annex IV ” *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a].
 
-(6) In the Table in Schedule 2 (European provisions: pig carcases)— *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a]
+(6) In the Table in Schedule 2 (European provisions: pig carcases)— *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a]
 
-- (a) in column 1 for “Council Regulation” substitute *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] “ Regulation (EU) 2013 ” *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a];
-- (b) in column 2 for “Annex V”, in each place it occurs, substitute *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a] “ Annex IV ” *(affected by repeal, see note)*[^key-82d154f1638754fdfd3366642a73531a].
+- (a) in column 1 for “Council Regulation” substitute *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] “ Regulation (EU) 2013 ” *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a];
+- (b) in column 2 for “Annex V”, in each place it occurs, substitute *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a] “ Annex IV ” *(affected by repeal, see note)*[^c-82d154f1638754fdfd3366642a73531a].
 
 ## 3. Amendments to the Beef and Veal Labelling Regulations (Northern Ireland) 2010
 
@@ -188,7 +188,7 @@ These Regulations may be cited as The Single Common Market Organisation (Consequ
   - (iv) in relation to the entry for Article 30(3) in column 2 omit “point IV(3) of Part A of Annex XIV”;
 - (c) in column 2 of the table in Schedule 3 (European salmonella related controls on eggs in shell for consumption contravention of which is an offence) for “Articles 113(3) and 116 of, and Part A of Annex XIV to, the Single CMO Regulation” substitute “ Article 74 and Part VI of Annex VII to Regulation (EU) 2013 ”.
 
-## 6. Amendments to the Food Labelling Regulations (Northern Ireland) 1996[^key-2fdd2531eec198364368649124d8d85b]
+## 6. Amendments to the Food Labelling Regulations (Northern Ireland) 1996[^c-2fdd2531eec198364368649124d8d85b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -211,7 +211,7 @@ These Regulations may be cited as The Single Common Market Organisation (Consequ
     ;
 - (b) in paragraph 2 for “Council Regulation 1234/2007” substitute “ Regulation (EU) 2013 ”.
 
-## 8. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008[^key-5792053453dcf7a88259f8b00daba7b9]
+## 8. Amendments to the Milk and Milk Products (Pupils in Educational Establishments) Regulations (Northern Ireland) 2008[^c-5792053453dcf7a88259f8b00daba7b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -317,7 +317,7 @@ The following Regulations are amended—
 
 [^c22063071]: Marginal citation: [Paragraph 1A](https://www.legislation.gov.uk/nisr/2014/92/paragraph/1A) of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 (C 51).
 
-[^key-82d154f1638754fdfd3366642a73531a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/92/regulation/2) revoked with savings (10.1.2019) by [The Carcase Classification and Price Reporting Regulations (Northern Ireland) 2018 (S.R. 2018/216)](https://www.legislation.gov.uk/nisr/2018/216), [regs. 1](https://www.legislation.gov.uk/nisr/2018/216/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2018/216/regulation/4/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2018/216/regulation/3), [6](https://www.legislation.gov.uk/nisr/2018/216/regulation/6), [13](https://www.legislation.gov.uk/nisr/2018/216/regulation/13))
+[^c-82d154f1638754fdfd3366642a73531a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/92/regulation/2) revoked with savings (10.1.2019) by [The Carcase Classification and Price Reporting Regulations (Northern Ireland) 2018 (S.R. 2018/216)](https://www.legislation.gov.uk/nisr/2018/216), [regs. 1](https://www.legislation.gov.uk/nisr/2018/216/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2018/216/regulation/4/b) (with [regs. 3](https://www.legislation.gov.uk/nisr/2018/216/regulation/3), [6](https://www.legislation.gov.uk/nisr/2018/216/regulation/6), [13](https://www.legislation.gov.uk/nisr/2018/216/regulation/13))
 
 [^c22063081]: Marginal citation: S.R. [2010 No. 231](https://www.legislation.gov.uk/ukcm/2010/231).
 
@@ -327,11 +327,11 @@ The following Regulations are amended—
 
 [^c22063111]: Marginal citation: S.R. [2010 No.125](https://www.legislation.gov.uk/ukcm/2010/125); as amended by S.R. [2011 No. 248](https://www.legislation.gov.uk/ukcm/2011/248).
 
-[^key-2fdd2531eec198364368649124d8d85b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/92/regulation/6) revoked (13.12.2018) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(5)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/5), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/2)
+[^c-2fdd2531eec198364368649124d8d85b]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/92/regulation/6) revoked (13.12.2018) by [The Food Information Regulations (Northern Ireland) 2014 (S.R. 2014/223)](https://www.legislation.gov.uk/nisr/2014/223), [reg. 1(5)](https://www.legislation.gov.uk/nisr/2014/223/regulation/1/5), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nisr/2014/223/schedule/6/part/2)
 
 [^c22063131]: Marginal citation: S.R. [2010 No. 198](https://www.legislation.gov.uk/ukcm/2010/198); as amended by S.R. [2012 No. 299](https://www.legislation.gov.uk/ukcm/2012/299).
 
-[^key-5792053453dcf7a88259f8b00daba7b9]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/92/regulation/8) revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [7(1)(d)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/d) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))
+[^c-5792053453dcf7a88259f8b00daba7b9]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/92/regulation/8) revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/734/regulation/1/1), [7(1)(d)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/d) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))
 
 [^c22063151]: Marginal citation: S.R. [2011 No. 315](https://www.legislation.gov.uk/ukcm/2011/315).
 

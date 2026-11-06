@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Power to inspect business premises of involved third parties[^key-fad3c0c1ed26e4a9732d4d8011146304][^key-8a5dbbf2f6f1b47b8104c12e225ad8d6][^key-8582aee1c20bc942bc848dcc0f3ead7c][^key-8582aee1c20bc942bc848dcc0f3ead7c]
+## 142. Power to inspect business premises of involved third parties[^c-fad3c0c1ed26e4a9732d4d8011146304][^c-8a5dbbf2f6f1b47b8104c12e225ad8d6][^c-8582aee1c20bc942bc848dcc0f3ead7c][^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 *Extent: S*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fad3c0c1ed26e4a9732d4d8011146304]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2014/16/section/142) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-fad3c0c1ed26e4a9732d4d8011146304]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2014/16/section/142) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-8a5dbbf2f6f1b47b8104c12e225ad8d6]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2014/16/section/142) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-8a5dbbf2f6f1b47b8104c12e225ad8d6]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2014/16/section/142) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
+[^c-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)

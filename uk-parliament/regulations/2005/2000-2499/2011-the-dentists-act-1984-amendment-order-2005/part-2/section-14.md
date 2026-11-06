@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Insertion of section 25A[^key-340588ebe287713eee45d26bf09d6622]
+## 14. Insertion of section 25A[^c-340588ebe287713eee45d26bf09d6622]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340588ebe287713eee45d26bf09d6622]: Commencement: Art. 14 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-340588ebe287713eee45d26bf09d6622]: Commencement: Art. 14 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

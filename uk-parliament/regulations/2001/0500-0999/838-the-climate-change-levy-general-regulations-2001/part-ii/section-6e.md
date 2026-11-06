@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**6E.**[^key-a847c1b9d28d10c955d2fdace582a5df] (1) The Commissioners may terminate an authorisation in any case where—
+**6E.**[^c-a847c1b9d28d10c955d2fdace582a5df] (1) The Commissioners may terminate an authorisation in any case where—
 
 - (a) a false statement has been made by or on behalf of an authorised person in relation to his application for authorisation;
 - (b) an authorised person fails to make by the due date a return for his transitional accounting period or current accounting year;
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a847c1b9d28d10c955d2fdace582a5df]: Textual amendment: [Regs. 6A-6G](https://www.legislation.gov.uk/uksi/2001/838/regulation/6A) inserted (1.6.2002) by [The Climate Change Levy (General) (Amendment) Regulations 2002 (S.I. 2002/1152)](https://www.legislation.gov.uk/uksi/2002/1152), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1152/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/1152/regulation/2)
+[^c-a847c1b9d28d10c955d2fdace582a5df]: Textual amendment: [Regs. 6A-6G](https://www.legislation.gov.uk/uksi/2001/838/regulation/6A) inserted (1.6.2002) by [The Climate Change Levy (General) (Amendment) Regulations 2002 (S.I. 2002/1152)](https://www.legislation.gov.uk/uksi/2002/1152), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1152/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/1152/regulation/2)
 
 [^M_F_cb98efa8-49d3-45b9-e2b6-5402be92ee95]: Textual amendment: Words in reg. 6E(1)(d) inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/604/regulation/7)
 

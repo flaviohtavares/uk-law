@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60B. Requirement to provide fresh signatures following rejection of a postal voting statement[^key-00dd067720e972c6acb1627d63a2034a]
+## 60B. Requirement to provide fresh signatures following rejection of a postal voting statement[^c-00dd067720e972c6acb1627d63a2034a]
 
 *Extent: S*
 
@@ -55,10 +55,10 @@ and postage must be prepaid.
 - (a) explaining the effect of such removal; and
 - (b) reminding the absent voter that they may make a fresh application under Schedule 4 to vote by post or by proxy (as the case may be).
 
-(11) Where an absent voter has provided a registration officer with a fresh signature in response to a notice issued by the registration officer under this paragraph, or in response to a notice issued by the registration officer under any other enactment following the rejection of the absent voter’s postal voting statement at an election or referendum, the registration officer may use that signature and enter it in the records kept in accordance with regulation 61B and paragraphs 3(9)[^key-c1adaa2de8b36565355f9f6dc50b0963], 4(6) and 7(12) of Schedule 4.
+(11) Where an absent voter has provided a registration officer with a fresh signature in response to a notice issued by the registration officer under this paragraph, or in response to a notice issued by the registration officer under any other enactment following the rejection of the absent voter’s postal voting statement at an election or referendum, the registration officer may use that signature and enter it in the records kept in accordance with regulation 61B and paragraphs 3(9)[^c-c1adaa2de8b36565355f9f6dc50b0963], 4(6) and 7(12) of Schedule 4.
 
 ## Annotations
 
-[^key-00dd067720e972c6acb1627d63a2034a]: Textual amendment: [Reg. 60B](https://www.legislation.gov.uk/uksi/2001/497/regulation/60B) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [26](https://www.legislation.gov.uk/uksi/2013/3206/regulation/26)
+[^c-00dd067720e972c6acb1627d63a2034a]: Textual amendment: [Reg. 60B](https://www.legislation.gov.uk/uksi/2001/497/regulation/60B) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/b), [26](https://www.legislation.gov.uk/uksi/2013/3206/regulation/26)
 
-[^key-c1adaa2de8b36565355f9f6dc50b0963]: Textual amendment: Word in [reg. 60B(11)](https://www.legislation.gov.uk/uksi/2001/497/regulation/60B/11) substituted (27.4.2017) by [The Representation of the People (Scotland) (Amendment) Regulations 2017 (S.I. 2017/604)](https://www.legislation.gov.uk/uksi/2017/604), [regs. 1](https://www.legislation.gov.uk/uksi/2017/604/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/604/regulation/12)
+[^c-c1adaa2de8b36565355f9f6dc50b0963]: Textual amendment: Word in [reg. 60B(11)](https://www.legislation.gov.uk/uksi/2001/497/regulation/60B/11) substituted (27.4.2017) by [The Representation of the People (Scotland) (Amendment) Regulations 2017 (S.I. 2017/604)](https://www.legislation.gov.uk/uksi/2017/604), [regs. 1](https://www.legislation.gov.uk/uksi/2017/604/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/604/regulation/12)

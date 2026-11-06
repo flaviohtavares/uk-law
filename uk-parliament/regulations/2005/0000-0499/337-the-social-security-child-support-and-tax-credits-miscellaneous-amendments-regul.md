@@ -137,27 +137,27 @@ These Regulations may be cited as the Social Security, Child Support and Tax Cre
 
 .
 
-(8)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(18)[^key-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-ba990899d23ec528c4a23acec48af333] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (19) In Chapter V of Part V, after regulation 58 insert—
 
@@ -167,7 +167,7 @@ These Regulations may be cited as the Social Security, Child Support and Tax Cre
 
 .
 
-(20)[^key-04f3c227d3458c60d7a390169659a6e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(20)[^c-04f3c227d3458c60d7a390169659a6e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (21) In Schedule 3A (date on which change of circumstances takes effect in certain cases where a claimant is in receipt of income support or jobseeker's allowance)—
 
@@ -213,23 +213,23 @@ These Regulations may be cited as the Social Security, Child Support and Tax Cre
 
 (2) In regulation 3 (other persons with a right of appeal or a right to make an application for a direction), in paragraph (ii) for “tutor, curator or other guardian acting or appointed in terms of law” substitute “ judicial factor, or guardian acting or appointed under the Adults with Incapacity (Scotland) Act 2000 [^c1212640] who has power to claim, or as the case may be, receive a tax credit on his behalf ”.
 
-(3)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-c64d119cc541594b111ebf7a3c6a6810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5. Amendment of the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985
 
@@ -341,11 +341,11 @@ In the Income Support (General) Regulations 1987 [^c1212642], in Schedule 1B [^c
 
 (11) In Schedule 7 (manner and time of payment, and commencement of entitlement in income support cases), in paragraph 2(c) [^c1212657] omit “registering or required to register as available for work or”.
 
-## 8. Amendment of the Housing Benefit (General) Regulations 1987[^key-25effb340c94354b08f50a14adc64308]
+## 8. Amendment of the Housing Benefit (General) Regulations 1987[^c-25effb340c94354b08f50a14adc64308]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-25effb340c94354b08f50a14adc64308]
+## 9. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-25effb340c94354b08f50a14adc64308]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -518,13 +518,13 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c1212621]: Marginal citation: Paragraph (33) was added by [S.I. 2003/1050](https://www.legislation.gov.uk/uksi/2003/1050).
 
-[^key-ba990899d23ec528c4a23acec48af333]: Textual amendment: Reg. 2(8)-(18) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(g)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/g), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-ba990899d23ec528c4a23acec48af333]: Textual amendment: Reg. 2(8)-(18) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(g)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/g), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c1212633]: Marginal citation: Section 2AA was inserted by the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 49](https://www.legislation.gov.uk/ukpga/2002/22/section/49).
 
 [^c1212634]: Marginal citation: Section 2B was inserted by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 57](https://www.legislation.gov.uk/ukpga/1999/30/section/57); subsection (2A) was inserted by the Employment Act 2002, Schedule 7, paragraph 9(4).
 
-[^key-04f3c227d3458c60d7a390169659a6e3]: Textual amendment: [Reg. 2(20)](https://www.legislation.gov.uk/uksi/2005/337/regulation/2/20) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(g)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/g), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-04f3c227d3458c60d7a390169659a6e3]: Textual amendment: [Reg. 2(20)](https://www.legislation.gov.uk/uksi/2005/337/regulation/2/20) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(g)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/g), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c1212636]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
@@ -536,7 +536,7 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c1212640]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-c64d119cc541594b111ebf7a3c6a6810]: Textual amendment: Reg. 4(3)-(11) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-c64d119cc541594b111ebf7a3c6a6810]: Textual amendment: Reg. 4(3)-(11) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c1212641]: Marginal citation: [S.I. 1985/967](https://www.legislation.gov.uk/uksi/1985/967).
 
@@ -572,7 +572,7 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c1212657]: Marginal citation: [Paragraph 2(c)](https://www.legislation.gov.uk/uksi/2005/337/paragraph/2/c) was amended by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
 
-[^key-25effb340c94354b08f50a14adc64308]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/337/regulation/9) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-25effb340c94354b08f50a14adc64308]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/337/regulation/9) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1212664]: Marginal citation: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. Disclosure of information about transfers etc[^key-beb4e37cda8984319b279100db803b8a]
+## 113A. Disclosure of information about transfers etc[^c-beb4e37cda8984319b279100db803b8a]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ the trustees or managers of the first scheme must, in prescribed circumstances a
 
 ## Annotations
 
-[^key-beb4e37cda8984319b279100db803b8a]: Textual amendment: [S. 113A](https://www.legislation.gov.uk/ukpga/1993/48/section/113A) inserted (1.1.2006 for specified purposes, 6.4.2006 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/18); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/b), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
+[^c-beb4e37cda8984319b279100db803b8a]: Textual amendment: [S. 113A](https://www.legislation.gov.uk/ukpga/1993/48/section/113A) inserted (1.1.2006 for specified purposes, 6.4.2006 in so far as not already in force) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/18); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/a)[(b)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5/b), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)

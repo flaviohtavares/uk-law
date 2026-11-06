@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Disqualification period[^key-96f5373599ba65eb3284d4b89f45aee0]
+## 165. Disqualification period[^c-96f5373599ba65eb3284d4b89f45aee0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a court makes a driving disqualification order in respect of an offender f
 
 ## Annotations
 
-[^key-96f5373599ba65eb3284d4b89f45aee0]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2020/17/section/165) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-96f5373599ba65eb3284d4b89f45aee0]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2020/17/section/165) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

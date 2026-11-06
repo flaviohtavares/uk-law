@@ -39,7 +39,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 1 — Introductory
 
-### 1. Citation and interpretation[^key-5a2b490fbf0ae573af4060f2cc13f868]
+### 1. Citation and interpretation[^c-5a2b490fbf0ae573af4060f2cc13f868]
 
 (1) These Regulations may be cited as the Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) Regulations 2019.
 
@@ -60,7 +60,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 2 — Appointed Days
 
-### 2. Commencement of section 21 of and Schedule 4 to the Act for remaining purposes[^key-8ec23f57ceb144ed322b4e92230bed9b]
+### 2. Commencement of section 21 of and Schedule 4 to the Act for remaining purposes[^c-8ec23f57ceb144ed322b4e92230bed9b]
 
 (1) This regulation applies to appoint days for the coming into force of section 21 of and Schedule 4 to the Act (extension of relevant authorised person regime in Part 5 of FSMA to all authorised persons) so far as those provisions are not brought into force by the Bank of England and Financial Services Act 2016 (Commencement No. 5 and Transitional Provisions) Regulations 2018[^f00008].
 
@@ -72,7 +72,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (5) 7th December 2020 is the day appointed for the coming into force of section 21 of and Schedule 4 to the Act for remaining purposes in relation to benchmark firms, except as provided by paragraph (7).
 
-(6) 31st March 2021[^key-a2a08d99dae19ba60cb7419f59c8c840] is the day appointed for the coming into force of the employee certification provisions for remaining purposes in relation to solo-regulated firms other than benchmark firms.
+(6) 31st March 2021[^c-a2a08d99dae19ba60cb7419f59c8c840] is the day appointed for the coming into force of the employee certification provisions for remaining purposes in relation to solo-regulated firms other than benchmark firms.
 
 (7) 7th December 2021 is the day appointed for the coming into force of the employee certification provisions for remaining purposes in relation to benchmark firms.
 
@@ -83,7 +83,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 3 — Transitional Provisions
 
-### 3. Application of the amendments to solo-regulated firms carrying on claims management activity[^key-8968a24728dec8972dbdae260aebadf3]
+### 3. Application of the amendments to solo-regulated firms carrying on claims management activity[^c-8968a24728dec8972dbdae260aebadf3]
 
 (1) The amendments made by Schedule 4 to the Act so far as brought into force by regulation 2(4) do not apply in relation to an authorised person who, immediately before 9th December 2019—
 
@@ -95,11 +95,11 @@ until that person has full permission to carry on claims management activity or 
 (2) The amendments made by paragraphs 11, 18 and 22(5) of Schedule 4 to the Act so far as brought into force by regulation 2(6) do not apply in relation to an authorised person who—
 
 - (a) immediately before 9th December 2019 had temporary permission to carry on claims management activity, and
-- (b) did not, immediately before 31st March 2021[^key-b8bb6ae2ee320d3baeda46b5768a4e09], have permission to carry on any other regulated activity,
+- (b) did not, immediately before 31st March 2021[^c-b8bb6ae2ee320d3baeda46b5768a4e09], have permission to carry on any other regulated activity,
 
-until that person has had full permission to carry on claims management activity for 15 months and 22 days[^key-07d900be40013f8d18350625e50c0758] or has permission to carry on any other regulated activity.
+until that person has had full permission to carry on claims management activity for 15 months and 22 days[^c-07d900be40013f8d18350625e50c0758] or has permission to carry on any other regulated activity.
 
-(3) Paragraph (2) does not apply to a person who, at any time on or after 9th December 2019 and before 31st March 2021[^key-64fa7424d5a3cd8e68155c2156d74245], had permission to carry on any regulated activity other than claims management activity.
+(3) Paragraph (2) does not apply to a person who, at any time on or after 9th December 2019 and before 31st March 2021[^c-64fa7424d5a3cd8e68155c2156d74245], had permission to carry on any regulated activity other than claims management activity.
 
 (4) For the purposes of paragraphs (1) to (3), having permission to carry on a regulated activity other than claims management activity does not include having permission to carry on an activity of the kind specified by article 64 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00011] so far as relevant to claims management activity.
 
@@ -110,7 +110,7 @@ until that person has had full permission to carry on claims management activity
 - “permission” has the same meaning as in FSMA (see section 20(1) of FSMA[^f00014]);
 - “temporary permission” means permission under article 80 of the Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018[^f00015].
 
-### 4. Prohibition orders and related notices[^key-77e8bcc73127b57fe75bdb886261d206]
+### 4. Prohibition orders and related notices[^c-77e8bcc73127b57fe75bdb886261d206]
 
 (1) Paragraph (3) applies to—
 
@@ -140,7 +140,7 @@ which is given or made before the relevant date.
 
 from describing or referring to the functions to which the order relates differently from the way in which those functions were described or referred to in the notice.
 
-### 5. Deemed approval to perform designated senior management functions: requirement to provide statement of responsibilities[^key-cc484d98a98dbca9e4f515f004b029e7]
+### 5. Deemed approval to perform designated senior management functions: requirement to provide statement of responsibilities[^c-cc484d98a98dbca9e4f515f004b029e7]
 
 (1) This regulation applies to a solo-regulated firm in relation to which the conditions in paragraphs (2) and (3) are met.
 
@@ -182,7 +182,7 @@ as if it were imposed (in the circumstances in which it is imposed under this re
   - (a) in relation to a solo-regulated firm other than a benchmark firm, 9th December 2019;
   - (b) in relation to a benchmark firm, 7th December 2020.
 
-### 6. Application of section 62A of FSMA to statement of responsibilities under regulation 5[^key-1bd2e193cb401d4a845ebf50886010a9]
+### 6. Application of section 62A of FSMA to statement of responsibilities under regulation 5[^c-1bd2e193cb401d4a845ebf50886010a9]
 
 (1) Subsections (2) and (3) of section 62A of FSMA (changes in responsibilities of senior managers: requirement for revised statement) apply where a solo-regulated firm has—
 
@@ -199,7 +199,7 @@ as they apply in the circumstances in subsection (1) of that section.
 
 (3) In section 62A(3) of FSMA as it applies by virtue of paragraph (1), the references to “the appropriate regulator” are to be read as references to the FCA.
 
-### 7. Requirements to consult etc satisfied by things done before commencement[^key-08ae4315ff3ac568e5dbb1fda0a2bb27]
+### 7. Requirements to consult etc satisfied by things done before commencement[^c-08ae4315ff3ac568e5dbb1fda0a2bb27]
 
 (1) This regulation applies where any provision of Part 9A of FSMA (rules and guidance)[^f00023] imposes a procedural requirement on the FCA or the PRA in connection with the making or issuing of any rules or other instrument or document under any provision of Part 5 of FSMA (performance of regulated activities) by virtue of an amendment to that Part (“the relevant amendment”) brought into force by these Regulations.
 
@@ -278,7 +278,7 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00001]: Footnote: [2016 c. 14](https://www.legislation.gov.uk/ukpga/2016/14).
 
-[^key-5a2b490fbf0ae573af4060f2cc13f868]: Commencement: Reg. 1 in force at 17.7.2019
+[^c-5a2b490fbf0ae573af4060f2cc13f868]: Commencement: Reg. 1 in force at 17.7.2019
 
 [^f00002]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); relevant amending instruments are [S.I. 2013/655](https://www.legislation.gov.uk/uksi/2013/655), [2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), [2018/135](https://www.legislation.gov.uk/uksi/2018/135), [2018/1253](https://www.legislation.gov.uk/uksi/2018/1253).
 
@@ -292,23 +292,23 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00007]: Footnote: Section 2B was inserted by section 6(1) of the Financial Services Act 2012.
 
-[^key-8ec23f57ceb144ed322b4e92230bed9b]: Commencement: Reg. 2 in force at 17.7.2019
+[^c-8ec23f57ceb144ed322b4e92230bed9b]: Commencement: Reg. 2 in force at 17.7.2019
 
 [^f00008]: Footnote: [S.I. 2018/990 (C. 76)](https://www.legislation.gov.uk/uksi/2018/990).
 
-[^key-a2a08d99dae19ba60cb7419f59c8c840]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/6) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/2)
+[^c-a2a08d99dae19ba60cb7419f59c8c840]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/2/6) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/2)
 
 [^f00009]: Footnote: Section 71A was inserted by section 33 of the Financial Services (Banking Reform) Act 2013.
 
 [^f00010]: Footnote: Section 63E was inserted by section 29 of the Financial Services (Banking Reform) Act 2013 and amended by article 91(4) of the Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 ([S.I. 2018/1253](https://www.legislation.gov.uk/uksi/2018/1253)).
 
-[^key-8968a24728dec8972dbdae260aebadf3]: Commencement: Reg. 3 in force at 17.7.2019
+[^c-8968a24728dec8972dbdae260aebadf3]: Commencement: Reg. 3 in force at 17.7.2019
 
-[^key-b8bb6ae2ee320d3baeda46b5768a4e09]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3/2/b) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/3/a/i)
+[^c-b8bb6ae2ee320d3baeda46b5768a4e09]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3/2/b) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/3/a/i)
 
-[^key-07d900be40013f8d18350625e50c0758]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3/2) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/3/a/ii)
+[^c-07d900be40013f8d18350625e50c0758]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3/2) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/3/a/ii)
 
-[^key-64fa7424d5a3cd8e68155c2156d74245]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3/3) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/3/b)
+[^c-64fa7424d5a3cd8e68155c2156d74245]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/1136/regulation/3/3) substituted (1.9.2020) by [The Bank of England and Financial Services Act 2016 (Commencement No. 6 and Transitional Provisions) (Amendment) Regulations 2020 (S.I. 2020/929)](https://www.legislation.gov.uk/uksi/2020/929), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/929/regulation/2/3/b)
 
 [^f00011]: Footnote: Article 64 was amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), [2018/135](https://www.legislation.gov.uk/uksi/2018/135), [2018/1253](https://www.legislation.gov.uk/uksi/2018/1253).
 
@@ -320,7 +320,7 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00015]: Footnote: [S.I. 2018/1253](https://www.legislation.gov.uk/uksi/2018/1253).
 
-[^key-77e8bcc73127b57fe75bdb886261d206]: Commencement: Reg. 4 in force at 17.7.2019
+[^c-77e8bcc73127b57fe75bdb886261d206]: Commencement: Reg. 4 in force at 17.7.2019
 
 [^f00016]: Footnote: Section 57 was amended by section 13(10) to (12) of the Financial Services Act 2012.
 
@@ -330,7 +330,7 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00019]: Footnote: Section 56 was amended by section 13(1) to (9) of the Financial Services Act 2012.
 
-[^key-cc484d98a98dbca9e4f515f004b029e7]: Commencement: Reg. 5 in force at 17.7.2019
+[^c-cc484d98a98dbca9e4f515f004b029e7]: Commencement: Reg. 5 in force at 17.7.2019
 
 [^f00020]: Footnote: Section 60 was amended by paragraph 4 of Schedule 5 to the Financial Services Act 2012 and section 20 of the Financial Services (Banking Reform) Act 2013.
 
@@ -338,8 +338,8 @@ The following provisions of the Act have been brought into force by commencement
 
 [^f00022]: Footnote: Section 59ZB was inserted by paragraph 3 of Schedule 4 to the Bank of England and Financial Services Act 2016.
 
-[^key-1bd2e193cb401d4a845ebf50886010a9]: Commencement: Reg. 6 in force at 17.7.2019
+[^c-1bd2e193cb401d4a845ebf50886010a9]: Commencement: Reg. 6 in force at 17.7.2019
 
-[^key-08ae4315ff3ac568e5dbb1fda0a2bb27]: Commencement: Reg. 7 in force at 17.7.2019
+[^c-08ae4315ff3ac568e5dbb1fda0a2bb27]: Commencement: Reg. 7 in force at 17.7.2019
 
 [^f00023]: Footnote: Part 9A was inserted by section 24(1) of the Financial Services Act 2012.

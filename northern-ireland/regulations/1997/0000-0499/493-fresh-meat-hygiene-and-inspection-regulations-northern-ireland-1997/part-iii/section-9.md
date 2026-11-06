@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Powers of OVSs and veterinary officers[^key-5db88ac5220ef732b1f4afb2637301c4]
+## 9. Powers of OVSs and veterinary officers[^c-5db88ac5220ef732b1f4afb2637301c4]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ and the occupier shall comply with the notice.
 
 ## Annotations
 
-[^key-5db88ac5220ef732b1f4afb2637301c4]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-5db88ac5220ef732b1f4afb2637301c4]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

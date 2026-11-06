@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60.[^key-fb3098ad6093b72145af019a56706e50]
+## 60.[^c-fb3098ad6093b72145af019a56706e50]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 197, in point (a), for “Union” substitute “ United Kingdom ”.
 
 ## Annotations
 
-[^key-fb3098ad6093b72145af019a56706e50]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fb3098ad6093b72145af019a56706e50]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

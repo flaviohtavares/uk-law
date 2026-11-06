@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.9. “Responsible insolvency practitioner”, etc[^key-fbe83f919caccf13f2a1aaff60c18d02]
+## 13.9. “Responsible insolvency practitioner”, etc[^c-fbe83f919caccf13f2a1aaff60c18d02]
 
 *Extent: E+W*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (2) Any reference to the liquidator, provisional liquidator, trustee or interim receiver includes the official receiver when acting in the relevant capacity.
 
-(3)[^key-47c3dbf0e8f46262152c600ca627e888] A reference to an “**authorised person**” is a reference to a person who is authorised pursuant to section 389A of the Act to act as nominee or supervisor of a voluntary arrangement proposed or approved under Part I or Part VIII of the Act.
+(3)[^c-47c3dbf0e8f46262152c600ca627e888] A reference to an “**authorised person**” is a reference to a person who is authorised pursuant to section 389A of the Act to act as nominee or supervisor of a voluntary arrangement proposed or approved under Part I or Part VIII of the Act.
 
 ## Annotations
 
-[^key-fbe83f919caccf13f2a1aaff60c18d02]: Commencement: Rule 13.9 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fbe83f919caccf13f2a1aaff60c18d02]: Commencement: Rule 13.9 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-47c3dbf0e8f46262152c600ca627e888]: Textual amendment: Rule 13.9(3) inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rules 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [7](https://www.legislation.gov.uk/uksi/2002/2712/rule/7)
+[^c-47c3dbf0e8f46262152c600ca627e888]: Textual amendment: Rule 13.9(3) inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rules 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [7](https://www.legislation.gov.uk/uksi/2002/2712/rule/7)

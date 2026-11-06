@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G6. Certain former contributory employees[^key-ddb5c858030208342817270a7632aabe]
+## G6. Certain former contributory employees[^c-ddb5c858030208342817270a7632aabe]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ the amount of the death grant payable under regulation E11 is increased by A × 
 
 ## Annotations
 
-[^key-ddb5c858030208342817270a7632aabe]: Commencement: [Reg. G6](https://www.legislation.gov.uk/uksi/1986/24/regulation/G6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ddb5c858030208342817270a7632aabe]: Commencement: [Reg. G6](https://www.legislation.gov.uk/uksi/1986/24/regulation/G6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

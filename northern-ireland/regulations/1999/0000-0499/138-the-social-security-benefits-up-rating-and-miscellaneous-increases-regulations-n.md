@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security Benefits Up-rating and Miscellaneous Increases Regulations (Northern Ireland) 1999 (revoked)[^key-7b52ef515bd1acbdb76646e57983ef04]
+The Social Security Benefits Up-rating and Miscellaneous Increases Regulations (Northern Ireland) 1999 (revoked)[^c-7b52ef515bd1acbdb76646e57983ef04]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 12th April 1999
 
-[^key-7b52ef515bd1acbdb76646e57983ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b52ef515bd1acbdb76646e57983ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b52ef515bd1acbdb76646e57983ef04]
+## 1. Citation and commencement[^c-7b52ef515bd1acbdb76646e57983ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-7b52ef515bd1acbdb76646e57983ef04]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-7b52ef515bd1acbdb76646e57983ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-7b52ef515bd1acbdb76646e57983ef04]
+## 3. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-7b52ef515bd1acbdb76646e57983ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-7b52ef515bd1acbdb76646e57983ef04]
+## 4. Revocations[^c-7b52ef515bd1acbdb76646e57983ef04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b52ef515bd1acbdb76646e57983ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b52ef515bd1acbdb76646e57983ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b52ef515bd1acbdb76646e57983ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b52ef515bd1acbdb76646e57983ef04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b52ef515bd1acbdb76646e57983ef04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/138) revoked (10.4.2000) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2000 (revoked) 2000 (S.R. 2000/47)](https://www.legislation.gov.uk/nisr/2000/47), [6](https://www.legislation.gov.uk/nisr/2000/47/regulation/6)
+[^c-7b52ef515bd1acbdb76646e57983ef04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/138) revoked (10.4.2000) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2000 (revoked) 2000 (S.R. 2000/47)](https://www.legislation.gov.uk/nisr/2000/47), [6](https://www.legislation.gov.uk/nisr/2000/47/regulation/6)

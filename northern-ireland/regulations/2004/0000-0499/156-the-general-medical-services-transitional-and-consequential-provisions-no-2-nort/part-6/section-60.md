@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Terms of general medical services contracts and default contracts[^key-0415a3ab4b707a6cd4c01c66f42eaf0c]
+## 60. Terms of general medical services contracts and default contracts[^c-0415a3ab4b707a6cd4c01c66f42eaf0c]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Unless the contract or agreement is of a type or nature to which a particular Ar
 
 ## Annotations
 
-[^key-0415a3ab4b707a6cd4c01c66f42eaf0c]: Commencement: Art. 60 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-0415a3ab4b707a6cd4c01c66f42eaf0c]: Commencement: Art. 60 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

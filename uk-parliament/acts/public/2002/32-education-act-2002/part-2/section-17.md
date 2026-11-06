@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Delegation[^c382489][^key-d3bd3d97c16be7321196accb6987390f]
+## 17. Delegation[^c382489][^c-d3bd3d97c16be7321196accb6987390f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ but shall not prevent the functions concerned from being exercised by the Secret
 
 [^c382489]: Commencement: S. 17 wholly in force at 31.3.2003; s. 17 not in force at Royal Assent, see s. 216; s. 17 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule)) and in force for W. at 31.3.2003 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
 
-[^key-d3bd3d97c16be7321196accb6987390f]: Commencement: S. 17 in force at 31.3.2003 for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
+[^c-d3bd3d97c16be7321196accb6987390f]: Commencement: S. 17 in force at 31.3.2003 for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)

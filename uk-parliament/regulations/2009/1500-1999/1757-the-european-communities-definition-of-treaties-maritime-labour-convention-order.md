@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Communities (Definition of Treaties) (Maritime Labour Convention) Order 2009 (revoked)[^key-ed5c251709beac0879de1167dce9bf9a]
+The European Communities (Definition of Treaties) (Maritime Labour Convention) Order 2009 (revoked)[^c-ed5c251709beac0879de1167dce9bf9a]
 
 Made
 
@@ -48,22 +48,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-ed5c251709beac0879de1167dce9bf9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed5c251709beac0879de1167dce9bf9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-ed5c251709beac0879de1167dce9bf9a]
+## 1. Citation and Commencement[^c-ed5c251709beac0879de1167dce9bf9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification as Community Treaty[^key-ed5c251709beac0879de1167dce9bf9a]
+## 2. Specification as Community Treaty[^c-ed5c251709beac0879de1167dce9bf9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed5c251709beac0879de1167dce9bf9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed5c251709beac0879de1167dce9bf9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed5c251709beac0879de1167dce9bf9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed5c251709beac0879de1167dce9bf9a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed5c251709beac0879de1167dce9bf9a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1757) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed5c251709beac0879de1167dce9bf9a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1757) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

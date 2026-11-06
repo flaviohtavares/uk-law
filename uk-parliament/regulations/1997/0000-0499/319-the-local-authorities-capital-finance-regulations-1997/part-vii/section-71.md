@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Assets held for the administration of justice or for the purposes of the police or civil defence[^key-0e930bb4255ccca9d184bd526844e8a8]
+## 71. Assets held for the administration of justice or for the purposes of the police or civil defence[^c-0e930bb4255ccca9d184bd526844e8a8]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ The reserved part shall be 75 per cent. in the case of a capital receipt, other 
 
 ## Annotations
 
-[^key-0e930bb4255ccca9d184bd526844e8a8]: Commencement: Reg. 71 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0e930bb4255ccca9d184bd526844e8a8]: Commencement: Reg. 71 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00070]: Footnote: [1948 c. 5](https://www.legislation.gov.uk/ukpga/1948/5).

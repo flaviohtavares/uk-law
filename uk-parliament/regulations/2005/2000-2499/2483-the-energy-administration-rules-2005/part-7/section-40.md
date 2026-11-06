@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Proving a debt[^key-29efa8424bb096a38e42880478742c31]
+## 40. Proving a debt[^c-29efa8424bb096a38e42880478742c31]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29efa8424bb096a38e42880478742c31]: Commencement: Rule 40 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-29efa8424bb096a38e42880478742c31]: Commencement: Rule 40 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00014]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45), as amended by the Pension Schemes Act [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48), section 190 and Schedule 8, paragraph 18 and the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), section 251(3).

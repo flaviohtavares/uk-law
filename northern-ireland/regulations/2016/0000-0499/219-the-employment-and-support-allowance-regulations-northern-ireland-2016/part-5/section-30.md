@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Determination of limited capability for work-related activity[^key-4c4dced8f532bec76cef08e6d77ab6bb]
+## 30. Determination of limited capability for work-related activity[^c-4c4dced8f532bec76cef08e6d77ab6bb]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ the Department may, if paragraph (5) applies, determine afresh whether the claim
 
 ## Annotations
 
-[^key-4c4dced8f532bec76cef08e6d77ab6bb]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/219/regulation/30) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-4c4dced8f532bec76cef08e6d77ab6bb]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2016/219/regulation/30) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

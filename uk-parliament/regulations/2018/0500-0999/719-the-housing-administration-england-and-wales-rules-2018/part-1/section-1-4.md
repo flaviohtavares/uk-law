@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.4. Punishment of Offences[^key-76e4864905ea0264c0107e774bdc3794]
+## 1.4. Punishment of Offences[^c-76e4864905ea0264c0107e774bdc3794]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 sets out the punishments for certain contraventions of these Rules.
 
 ## Annotations
 
-[^key-76e4864905ea0264c0107e774bdc3794]: Commencement: Rule 1.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-76e4864905ea0264c0107e774bdc3794]: Commencement: Rule 1.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

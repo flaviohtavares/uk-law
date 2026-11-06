@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111B. Suspension of licences for inciting crime or disorder[^key-66a5b2aa3dd15efd348e6e8088a728b6]
+## 111B. Suspension of licences for inciting crime or disorder[^c-66a5b2aa3dd15efd348e6e8088a728b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66a5b2aa3dd15efd348e6e8088a728b6]: Textual amendment: [S. 111B](https://www.legislation.gov.uk/ukpga/1990/42/section/111B) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 91(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/91/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-66a5b2aa3dd15efd348e6e8088a728b6]: Textual amendment: [S. 111B](https://www.legislation.gov.uk/ukpga/1990/42/section/111B) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 91(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/91/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

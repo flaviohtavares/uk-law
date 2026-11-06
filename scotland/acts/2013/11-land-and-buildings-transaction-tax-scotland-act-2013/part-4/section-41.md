@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Application to defer payment in case of contingent or uncertain consideration[^key-d35639b7a28a7f7e688ff547ea0491e0]
+## 41. Application to defer payment in case of contingent or uncertain consideration[^c-d35639b7a28a7f7e688ff547ea0491e0]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the amount of tax payable depends on the amount or value of chargeable consideration that, at the effective date of the transaction, is contingent or uncertain, and
 - (b) the chargeable consideration falls to be paid or provided on one or more future dates of which at least one falls, or may fall, more than 6 months after the effective date of the transaction.
 
-(2)[^key-e6ea8e4b7a1fd684da7dc9dec9d83cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e6ea8e4b7a1fd684da7dc9dec9d83cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An application under this section does not affect the buyer's obligations as regards payment of tax in respect of chargeable consideration that—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d35639b7a28a7f7e688ff547ea0491e0]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2013/11/section/41) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d35639b7a28a7f7e688ff547ea0491e0]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2013/11/section/41) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-e6ea8e4b7a1fd684da7dc9dec9d83cb0]: Textual amendment: [S. 41(2)](https://www.legislation.gov.uk/asp/2013/11/section/41/2) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(9)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/9) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-e6ea8e4b7a1fd684da7dc9dec9d83cb0]: Textual amendment: [S. 41(2)](https://www.legislation.gov.uk/asp/2013/11/section/41/2) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(9)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/9) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)

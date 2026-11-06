@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Powers of entry: supplementary[^key-f6b7960e9d11e27cb4639ec1668a8f02]
+## 81. Powers of entry: supplementary[^c-f6b7960e9d11e27cb4639ec1668a8f02]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6b7960e9d11e27cb4639ec1668a8f02]: Commencement: S. 81 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-f6b7960e9d11e27cb4639ec1668a8f02]: Commencement: S. 81 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

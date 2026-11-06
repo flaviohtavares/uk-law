@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Periods for tribunal applications[^key-8e03ba9e6bebb1a90bad81dc56b1be22]
+## 30. Periods for tribunal applications[^c-8e03ba9e6bebb1a90bad81dc56b1be22]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) in paragraph (b), for “six months” substitute “three months”;
 - (c) in paragraph (e), for “six months” substitute “three months”.
 
-(2)[^key-8e03ba9e6bebb1a90bad81dc56b1be22] In section 75 of the Mental Health Act 1983 (applications and references concerning conditionally discharged restricted patients)—
+(2)[^c-8e03ba9e6bebb1a90bad81dc56b1be22] In section 75 of the Mental Health Act 1983 (applications and references concerning conditionally discharged restricted patients)—
 
 - (a) in subsection (1), after “above” insert “(“conditionally discharged”)”;
 - (b) in subsection (2)—
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e03ba9e6bebb1a90bad81dc56b1be22]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/30/2) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)
+[^c-8e03ba9e6bebb1a90bad81dc56b1be22]: Commencement: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/30/2) in force at 18.2.2026, see [s. 56(1)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/1)

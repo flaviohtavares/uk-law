@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Appeals: supplementary provisions.[^key-0481d14bae1c8a1056cb3179ae30282c]
+## 19. Appeals: supplementary provisions.[^c-0481d14bae1c8a1056cb3179ae30282c]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) in the case of an appeal under section 18(1), 28 days from the receipt by the applicant of notification of the decision, or
 - (b) in the case of an appeal under section 18(2), 28 days from the end of the relevant period within the meaning of that section or, as the case may be, the extended period there mentioned.
 
-(3) The notice of appeal may include as the ground or one of the grounds of the appeal a claim that the building is not of special architectural or historic interest and ought to be removed from any list compiled or approved by Historic Environment Scotland[^key-1454136c41a87910aaf172a59521ec88] under section 1.
+(3) The notice of appeal may include as the ground or one of the grounds of the appeal a claim that the building is not of special architectural or historic interest and ought to be removed from any list compiled or approved by Historic Environment Scotland[^c-1454136c41a87910aaf172a59521ec88] under section 1.
 
 (4) In the case of a building in respect of which a building preservation notice is in force, the notice may include a claim that the building should not be included in such a list.
 
@@ -44,6 +44,6 @@ he shall be guilty of an offence and liable on summary conviction to a fine not 
 
 ## Annotations
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-1454136c41a87910aaf172a59521ec88]: Textual amendment: Words in s. 19(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 19](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/19) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-1454136c41a87910aaf172a59521ec88]: Textual amendment: Words in s. 19(3) substituted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 19](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/19) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)

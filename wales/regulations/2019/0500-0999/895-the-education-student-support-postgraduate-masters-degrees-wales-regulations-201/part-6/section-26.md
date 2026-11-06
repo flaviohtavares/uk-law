@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Qualifying conditions for contribution to costs grant[^key-3297b4a7af7abb048cc423da39ef90a5]
+## 26. Qualifying conditions for contribution to costs grant[^c-3297b4a7af7abb048cc423da39ef90a5]
 
 *Extent: E+W*
 
-An eligible student qualifies for a contribution to costs grant in relation to a designated course beginning before 1 August 2024[^key-699b402693540c0b4d7961ab6c5e2fe0] unless the eligible student is an eligible prisoner [^key-1ed07c5e2af37fb542b2eabc22f7bfa8]....
+An eligible student qualifies for a contribution to costs grant in relation to a designated course beginning before 1 August 2024[^c-699b402693540c0b4d7961ab6c5e2fe0] unless the eligible student is an eligible prisoner [^c-1ed07c5e2af37fb542b2eabc22f7bfa8]....
 
 ## Annotations
 
-[^key-3297b4a7af7abb048cc423da39ef90a5]: Commencement: Reg. 26 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-3297b4a7af7abb048cc423da39ef90a5]: Commencement: Reg. 26 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-699b402693540c0b4d7961ab6c5e2fe0]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2019/895/regulation/26) inserted (8.5.2024) by [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/wsi/2024/501/regulation/7/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))
+[^c-699b402693540c0b4d7961ab6c5e2fe0]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2019/895/regulation/26) inserted (8.5.2024) by [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/wsi/2024/501/regulation/7/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))
 
-[^key-1ed07c5e2af37fb542b2eabc22f7bfa8]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2019/895/regulation/26) omitted (8.5.2024) by virtue of [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/wsi/2024/501/regulation/7/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))
+[^c-1ed07c5e2af37fb542b2eabc22f7bfa8]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/wsi/2019/895/regulation/26) omitted (8.5.2024) by virtue of [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/wsi/2024/501/regulation/7/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))

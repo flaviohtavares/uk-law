@@ -61,7 +61,7 @@ summary: ''
 (10) Representations made by the prisoner under paragraph (9) must be—
 
 - (a) made in writing by the prisoner or
-- (b) transcribed by an officer, employee or any other person who ordinarily works at the prison but is not employed by the Scottish Ministers[^key-3c67021875aad75e79bf3c8c0a4f8929] on the prisoner's behalf,
+- (b) transcribed by an officer, employee or any other person who ordinarily works at the prison but is not employed by the Scottish Ministers[^c-3c67021875aad75e79bf3c8c0a4f8929] on the prisoner's behalf,
 
 and the representations must be taken into account by the Governor.
 
@@ -101,4 +101,4 @@ grant any number of further extensions to an order made under paragraph (1), in 
 
 ## Annotations
 
-[^key-3c67021875aad75e79bf3c8c0a4f8929]: Textual amendment: Words in rule 95(10) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(10)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/10)
+[^c-3c67021875aad75e79bf3c8c0a4f8929]: Textual amendment: Words in rule 95(10) substituted (1.11.2011) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2011 (S.S.I. 2011/356)](https://www.legislation.gov.uk/ssi/2011/356), [rules 1](https://www.legislation.gov.uk/ssi/2011/356/rule/1), [2(10)](https://www.legislation.gov.uk/ssi/2011/356/rule/2/10)

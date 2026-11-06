@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64B. Maritime: failure to apply or make revised application for emissions monitoring plan[^key-49c1a68a6320c66bcef78709d5518da2]
+## 64B. Maritime: failure to apply or make revised application for emissions monitoring plan[^c-49c1a68a6320c66bcef78709d5518da2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49c1a68a6320c66bcef78709d5518da2]: Textual amendment: [Arts. 64B-64E](https://www.legislation.gov.uk/uksi/2020/1265/article/64B) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/15)
+[^c-49c1a68a6320c66bcef78709d5518da2]: Textual amendment: [Arts. 64B-64E](https://www.legislation.gov.uk/uksi/2020/1265/article/64B) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/15)

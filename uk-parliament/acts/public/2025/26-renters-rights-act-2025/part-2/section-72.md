@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Housing activities under social rented sector scheme[^key-f9f0fe05a1663a8d32aa91b6fdeabecd]
+## 72. Housing activities under social rented sector scheme[^c-f9f0fe05a1663a8d32aa91b6fdeabecd]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9f0fe05a1663a8d32aa91b6fdeabecd]: Commencement: S. 72 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-f9f0fe05a1663a8d32aa91b6fdeabecd]: Commencement: S. 72 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

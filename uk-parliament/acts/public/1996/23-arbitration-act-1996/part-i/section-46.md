@@ -23,7 +23,7 @@ summary: ''
 (1) The arbitral tribunal shall decide the dispute—
 
 - (a) in accordance with the law chosen by the parties as applicable to the substance of the dispute, or
-- (b)[^c833518][^c2085241][^c2085653][^c2085789][^c2086233][^key-982d164f95dfa27351bee8df0ef3fe8c] if the parties so agree, in accordance with such other considerations as are agreed by them or determined by the tribunal.
+- (b)[^c833518][^c2085241][^c2085653][^c2085789][^c2086233][^c-982d164f95dfa27351bee8df0ef3fe8c] if the parties so agree, in accordance with such other considerations as are agreed by them or determined by the tribunal.
 
 (2) For this purpose the choice of the laws of a country shall be understood to refer to the substantive laws of that country and not its conflict of laws rules.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c2086233]: Modification: S. 46(1)(b) applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [art. 4](https://www.legislation.gov.uk/nisr/2006/206/article/4)
 
-[^key-982d164f95dfa27351bee8df0ef3fe8c]: Modification: S. 46(1)(b) applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [arts. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [6](https://www.legislation.gov.uk/nisr/2012/301/article/6)
+[^c-982d164f95dfa27351bee8df0ef3fe8c]: Modification: S. 46(1)(b) applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [arts. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [6](https://www.legislation.gov.uk/nisr/2012/301/article/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 417A. Money sums (company moratorium).[^key-32684d29da4ad1fe93af47ca8bde96cb]
+## 417A. Money sums (company moratorium).[^c-32684d29da4ad1fe93af47ca8bde96cb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32684d29da4ad1fe93af47ca8bde96cb]: Textual amendment: S. 417A omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/25) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-32684d29da4ad1fe93af47ca8bde96cb]: Textual amendment: S. 417A omitted (26.6.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/25) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -390,7 +390,7 @@ the Board shall issue and serve on the proprietor of that establishment a notice
 
 ### 19. Appeal to county court against decision of Board
 
-(1) Where the issue of a notice under Article 15(1) or (2) , 16(2) or 17A(1)[^c22320011] in respect of any establishment is confirmed by the Board under Article 18, the proprietor of that establishment may, in accordance with county court rules, appeal against the notice to the county court[^key-fcaa773c566c06b00e38051f1d9aa184]....
+(1) Where the issue of a notice under Article 15(1) or (2) , 16(2) or 17A(1)[^c22320011] in respect of any establishment is confirmed by the Board under Article 18, the proprietor of that establishment may, in accordance with county court rules, appeal against the notice to the county court[^c-fcaa773c566c06b00e38051f1d9aa184]....
 
 (2) On an appeal under this Article against a notice under Article 15(1) or (2), the county court may either—
 
@@ -735,7 +735,7 @@ Article 33.
 
 [^c22320011]: Textual amendment: Words in art. 19(1) substituted (11.4.2011) by [Tourism (Amendment) Act (Northern Ireland) 2011 (c. 3)](https://www.legislation.gov.uk/nia/2011/3), [ss. 2(8)](https://www.legislation.gov.uk/nia/2011/3/section/2/8), [6(4)](https://www.legislation.gov.uk/nia/2011/3/section/6/4); [S.R. 2011/106](https://www.legislation.gov.uk/nisr/2011/106), [art. 2](https://www.legislation.gov.uk/nisr/2011/106/article/2)
 
-[^key-fcaa773c566c06b00e38051f1d9aa184]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1992/235/article/19/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 102](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/102), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-fcaa773c566c06b00e38051f1d9aa184]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1992/235/article/19/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 102](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/102), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c22320031]: Textual amendment: Words in art. 19(3) inserted (11.4.2011) by [Tourism (Amendment) Act (Northern Ireland) 2011 (c. 3)](https://www.legislation.gov.uk/nia/2011/3), [ss. 2(9)](https://www.legislation.gov.uk/nia/2011/3/section/2/9), [6(4)](https://www.legislation.gov.uk/nia/2011/3/section/6/4); [S.R. 2011/106](https://www.legislation.gov.uk/nisr/2011/106), [art. 2](https://www.legislation.gov.uk/nisr/2011/106/article/2)
 

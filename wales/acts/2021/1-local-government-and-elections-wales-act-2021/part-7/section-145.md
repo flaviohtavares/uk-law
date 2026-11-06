@@ -40,17 +40,17 @@ summary: ''
 
 (5) No chief officer (within the meaning of section 43(2) of the Localism Act 2011) may be appointed or designated by the shadow council until the pay policy statement under subsection (3) has been prepared and approved.
 
-(6)[^key-a7ab64028a2ecd97115a544e4b67ecfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a7ab64028a2ecd97115a544e4b67ecfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this section, “**transition committee**” means a transition committee established under Schedule 11—
 
 - (a) in relation to merger regulations, or
-- (b)[^key-21f431403230d8eb0577a3d1afbef1b9] in relation to restructuring regulations which make provision for there to be a shadow council.
+- (b)[^c-21f431403230d8eb0577a3d1afbef1b9] in relation to restructuring regulations which make provision for there to be a shadow council.
 
 ## Annotations
 
 [^c24522371]: Commencement: [S. 145(1)-(7)](https://www.legislation.gov.uk/asc/2021/1/section/145/1)(a) in force at 21.1.2021 for, see [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
-[^key-a7ab64028a2ecd97115a544e4b67ecfa]: Textual amendment: [S. 145(6)](https://www.legislation.gov.uk/asc/2021/1/section/145/6) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(8)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/8); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-a7ab64028a2ecd97115a544e4b67ecfa]: Textual amendment: [S. 145(6)](https://www.legislation.gov.uk/asc/2021/1/section/145/6) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(8)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/8); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-21f431403230d8eb0577a3d1afbef1b9]: Commencement: S. 145(7)(b) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-21f431403230d8eb0577a3d1afbef1b9]: Commencement: S. 145(7)(b) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

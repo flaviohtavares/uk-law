@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Availability, review and revision of Handbook[^key-e05f044fad937c07ec8811e1414b35cf]
+## 5. Availability, review and revision of Handbook[^c-e05f044fad937c07ec8811e1414b35cf]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e05f044fad937c07ec8811e1414b35cf]: Commencement: S. 5 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)
+[^c-e05f044fad937c07ec8811e1414b35cf]: Commencement: S. 5 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)

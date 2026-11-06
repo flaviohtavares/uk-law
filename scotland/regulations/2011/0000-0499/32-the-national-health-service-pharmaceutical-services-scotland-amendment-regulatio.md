@@ -48,20 +48,20 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 24(1) and (3) of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00002] they have consulted the Administrative Justice and Tribunals Council and it has consulted its Scottish Committee.
 
-## 1. Citation and Commencement[^key-c36a8db26a5559ed95c03c999b357932]
+## 1. Citation and Commencement[^c-c36a8db26a5559ed95c03c999b357932]
 
 These regulations may be cited as the National Health Service (Pharmaceutical Services) (Scotland) Amendment Regulations 2011 and come into force on 1st April 2011.
 
-## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-75e7974de5e7275386030d444602067c]
+## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^c-75e7974de5e7275386030d444602067c]
 
 The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00003] (the “principal regulations”) are amended as follows.
 
-## 3. Amendment to regulation 2[^key-d1f6efca0b9d40739590b23fc3da21f9]
+## 3. Amendment to regulation 2[^c-d1f6efca0b9d40739590b23fc3da21f9]
 
 In regulation 2(1) (interpretation), insert, in the appropriate places—
 
 > - “dispensing doctor” means a medical practitioner who provides services corresponding to pharmaceutical services—
->   - (a) [^key-6055c99b681bf77256f5f574eb7afc73]...; or
+>   - (a) [^c-6055c99b681bf77256f5f574eb7afc73]...; or
 >   - (b) under the terms of a section 17C agreement which gives effect to paragraph 15 of Schedule 1 to the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^f00005];
 
 ; and
@@ -70,7 +70,7 @@ In regulation 2(1) (interpretation), insert, in the appropriate places—
 
 .
 
-## 4. Amendment to regulation 5[^key-1b628ee4e63c63e49a99e864f0868b84]
+## 4. Amendment to regulation 5[^c-1b628ee4e63c63e49a99e864f0868b84]
 
 (1) Regulation 5 (pharmaceutical list) is amended as follows.
 
@@ -136,7 +136,7 @@ In regulation 2(1) (interpretation), insert, in the appropriate places—
 
 .
 
-## 5. Amendment to regulation 8[^key-32abcc87d0acf3473adf3ecc93cf53c9]
+## 5. Amendment to regulation 8[^c-32abcc87d0acf3473adf3ecc93cf53c9]
 
 In regulation 8 (provisional pharmaceutical list)—
 
@@ -150,7 +150,7 @@ In regulation 8 (provisional pharmaceutical list)—
 
   .
 
-## 6. Amendment to regulation 15[^key-f36038aff8c82fe5b84ca77b39192d17]
+## 6. Amendment to regulation 15[^c-f36038aff8c82fe5b84ca77b39192d17]
 
 In regulation 15 (publication of particulars) after paragraph (1)(b) insert—
 
@@ -158,11 +158,11 @@ In regulation 15 (publication of particulars) after paragraph (1)(b) insert—
 
 .
 
-## 7. Substitution of Schedule 2[^key-c6cb8d4155511f2670894c2d9d1aeaaa]
+## 7. Substitution of Schedule 2[^c-c6cb8d4155511f2670894c2d9d1aeaaa]
 
 For Schedule 2 (forms) substitute the Schedule 2 set out in the Schedule to these Regulations.
 
-## 8. Amendment to Schedule 3[^key-261639fd883d3d82cc7ba697136e1ed6]
+## 8. Amendment to Schedule 3[^c-261639fd883d3d82cc7ba697136e1ed6]
 
 (1) Schedule 3 (the Board) is amended as follows.
 
@@ -258,7 +258,7 @@ For Schedule 2 (forms) substitute the Schedule 2 set out in the Schedule to the
 
 .
 
-## 9. Amendment to Schedule 4[^key-786d651c324aa88966591ec0b070a753]
+## 9. Amendment to Schedule 4[^c-786d651c324aa88966591ec0b070a753]
 
 (1) Schedule 4 (pharmacy practices committee and national appeal panel) is amended as follows.
 
@@ -350,7 +350,7 @@ For Schedule 2 (forms) substitute the Schedule 2 set out in the Schedule to the
 
 .
 
-## 10. Transitional provision[^key-8565f5c7aac792faeafe439553ac05f4]
+## 10. Transitional provision[^c-8565f5c7aac792faeafe439553ac05f4]
 
 Where, before the coming into force of these Regulations, an application was made to the Board under the principal regulations, that application shall, until its final determination, be subject to the principal regulations as they were in force at the date of that application.
 
@@ -364,7 +364,7 @@ Edinburgh
 
 20th January 2011
 
-## SCHEDULE[^key-989b5bc8f0324a0b5ece55c1194d9668]
+## SCHEDULE[^c-989b5bc8f0324a0b5ece55c1194d9668]
 
 Regulation 7
 
@@ -414,30 +414,30 @@ The Schedule substitutes a new Schedule 2 to the principal regulations reducing 
 
 [^f00002]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15). The National Appeal Panel constituted under Part II of Schedule 4 to the principal regulations is a listed tribunal for the purposes of Schedule 7 to the Tribunals Courts and Enforcement Act 2007 in terms of [S.S.I. 2007/436](https://www.legislation.gov.uk/ssi/2007/436).
 
-[^key-c36a8db26a5559ed95c03c999b357932]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-c36a8db26a5559ed95c03c999b357932]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-75e7974de5e7275386030d444602067c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/32/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-75e7974de5e7275386030d444602067c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/32/regulation/2) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183), as amended by [S.S.I. 2009/209](https://www.legislation.gov.uk/ssi/2009/209), [2010/128](https://www.legislation.gov.uk/ssi/2010/128) and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-d1f6efca0b9d40739590b23fc3da21f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-d1f6efca0b9d40739590b23fc3da21f9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-6055c99b681bf77256f5f574eb7afc73]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-6055c99b681bf77256f5f574eb7afc73]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2011/32/regulation/3) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
 [^f00005]: Footnote: [S.S.I. 2004/116](https://www.legislation.gov.uk/ssi/2004/116), as amended by [S.S.I. 2007205](https://www.legislation.gov.uk/ssi/2007/205) and [502](https://www.legislation.gov.uk/ssi/2007/502) and [2008/27](https://www.legislation.gov.uk/ssi/2008/27).
 
-[^key-1b628ee4e63c63e49a99e864f0868b84]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/32/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-1b628ee4e63c63e49a99e864f0868b84]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/32/regulation/4) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-32abcc87d0acf3473adf3ecc93cf53c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/32/regulation/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-32abcc87d0acf3473adf3ecc93cf53c9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/32/regulation/5) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-f36038aff8c82fe5b84ca77b39192d17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/32/regulation/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-f36038aff8c82fe5b84ca77b39192d17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/32/regulation/6) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-c6cb8d4155511f2670894c2d9d1aeaaa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/32/regulation/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-c6cb8d4155511f2670894c2d9d1aeaaa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/32/regulation/7) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-261639fd883d3d82cc7ba697136e1ed6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/32/regulation/8) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-261639fd883d3d82cc7ba697136e1ed6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/32/regulation/8) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-786d651c324aa88966591ec0b070a753]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/32/regulation/9) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-786d651c324aa88966591ec0b070a753]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/32/regulation/9) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-8565f5c7aac792faeafe439553ac05f4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-8565f5c7aac792faeafe439553ac05f4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/32/regulation/10) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
 
-[^key-989b5bc8f0324a0b5ece55c1194d9668]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/32/schedule) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)
+[^c-989b5bc8f0324a0b5ece55c1194d9668]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/32/schedule) in force at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/32/regulation/1)

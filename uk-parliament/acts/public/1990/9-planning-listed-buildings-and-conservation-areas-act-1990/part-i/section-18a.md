@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18A. Extension of duration of certain listed building consent[^key-30483e82f212a98e1e7570406361ef4c]
+## 18A. Extension of duration of certain listed building consent[^c-30483e82f212a98e1e7570406361ef4c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30483e82f212a98e1e7570406361ef4c]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/1990/9/section/18A) inserted (temp. until 2.5.2021) (19.8.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/19/1), [25(3)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/b) (with [s. 19(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/19/2))
+[^c-30483e82f212a98e1e7570406361ef4c]: Textual amendment: [S. 18A](https://www.legislation.gov.uk/ukpga/1990/9/section/18A) inserted (temp. until 2.5.2021) (19.8.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/19/1), [25(3)(b)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/b) (with [s. 19(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/19/2))

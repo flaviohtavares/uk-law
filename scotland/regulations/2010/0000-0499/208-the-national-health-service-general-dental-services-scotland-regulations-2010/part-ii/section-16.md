@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Information about assistants[^key-0653b40d1acfe3ef1cc905307ce39e8c]
+## 16. Information about assistants[^c-0653b40d1acfe3ef1cc905307ce39e8c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A Health Board shall send to the SDPB any information it receives under paragrap
 
 ## Annotations
 
-[^key-0653b40d1acfe3ef1cc905307ce39e8c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2010/208/regulation/16) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-0653b40d1acfe3ef1cc905307ce39e8c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2010/208/regulation/16) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

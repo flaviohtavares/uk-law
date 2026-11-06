@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Private rented housing: Enhanced Enforcement Areas[^key-eec6fb07777a1600ab85af72c24318ef]
+## 28. Private rented housing: Enhanced Enforcement Areas[^c-eec6fb07777a1600ab85af72c24318ef]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eec6fb07777a1600ab85af72c24318ef]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/14/section/28) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-eec6fb07777a1600ab85af72c24318ef]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/14/section/28) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

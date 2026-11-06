@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. School teachers[^key-a91edc5cc2c0643a69935174b70d2e23]
+## 71. School teachers[^c-a91edc5cc2c0643a69935174b70d2e23]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a91edc5cc2c0643a69935174b70d2e23]: Textual amendment: [Art. 71](https://www.legislation.gov.uk/nisi/1998/3162/article/71) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [ss. 1](https://www.legislation.gov.uk/nia/2022/23/section/1), [3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2)
+[^c-a91edc5cc2c0643a69935174b70d2e23]: Textual amendment: [Art. 71](https://www.legislation.gov.uk/nisi/1998/3162/article/71) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [ss. 1](https://www.legislation.gov.uk/nia/2022/23/section/1), [3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2)

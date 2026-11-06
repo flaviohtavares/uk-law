@@ -50,11 +50,11 @@ The powers exercised by the Treasury are those conferred by sections 3(2) and 17
 
 The powers exercised by the Commissioners for Her Majesty’s Revenue and Customs[^f00002] are those conferred by section 175(3) and (4) of, and paragraph 6(1) of Schedule 1 to, the Social Security Contributions and Benefits Act 1992.
 
-## 1. Citation and commencement[^key-c670edb2eac9c237de86e0d7deb8093c]
+## 1. Citation and commencement[^c-c670edb2eac9c237de86e0d7deb8093c]
 
 These Regulations may be cited as the Social Security (Contributions) (Amendment) Regulations 2020 and come into force on 6th April 2020.
 
-## 2. Amendment of the Social Security (Contributions) Regulations 2001[^key-b22e56ebb7591028cb2075f5e5dc3a3d][^key-2b7ff44d20265cd0a2ec09b5f8c3ebc1]
+## 2. Amendment of the Social Security (Contributions) Regulations 2001[^c-b22e56ebb7591028cb2075f5e5dc3a3d][^c-2b7ff44d20265cd0a2ec09b5f8c3ebc1]
 
 (1) The Social Security (Contributions) Regulations 2001[^f00003] are amended as follows.
 
@@ -169,11 +169,11 @@ A Tax Information and Impact Note has not been prepared for these Regulations as
 
 [^f00002]: Footnote: The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11) (“the 2005 Act”)). Section 50(1) of the 2005 Act provides that a reference to the Commissioners of Inland Revenue, however expressed, shall be taken as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-c670edb2eac9c237de86e0d7deb8093c]: Commencement: Reg. 1 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/239/regulation/1)
+[^c-c670edb2eac9c237de86e0d7deb8093c]: Commencement: Reg. 1 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/239/regulation/1)
 
-[^key-b22e56ebb7591028cb2075f5e5dc3a3d]: Commencement: Reg. 2 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/239/regulation/1)
+[^c-b22e56ebb7591028cb2075f5e5dc3a3d]: Commencement: Reg. 2 in force at 6.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/239/regulation/1)
 
-[^key-2b7ff44d20265cd0a2ec09b5f8c3ebc1]: Modification: Reg. 2: amendments made by this provision to S.I. 2001/1004 extended to N.I. (6.4.2022) by The Social Security Contributions (Statutory Parental Bereavement Pay) (Amendment of Extent) (Northern Ireland) Regulations 2022 (S.I. 2022/384), [regs. 1](https://www.legislation.gov.uk/uksi/2022/384/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/384/regulation/3)
+[^c-2b7ff44d20265cd0a2ec09b5f8c3ebc1]: Modification: Reg. 2: amendments made by this provision to S.I. 2001/1004 extended to N.I. (6.4.2022) by The Social Security Contributions (Statutory Parental Bereavement Pay) (Amendment of Extent) (Northern Ireland) Regulations 2022 (S.I. 2022/384), [regs. 1](https://www.legislation.gov.uk/uksi/2022/384/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/384/regulation/3)
 
 [^f00003]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). Relevant amending instruments are [S.I. 2003/193](https://www.legislation.gov.uk/uksi/2003/193), [2004/770](https://www.legislation.gov.uk/uksi/2004/770), [2004/2246](https://www.legislation.gov.uk/uksi/2004/2246), [2006/576](https://www.legislation.gov.uk/uksi/2006/576), [2007/1056](https://www.legislation.gov.uk/uksi/2007/1056), [2009/111](https://www.legislation.gov.uk/uksi/2009/111), [2010/721](https://www.legislation.gov.uk/uksi/2010/721), [2010/2450](https://www.legislation.gov.uk/uksi/2010/2450), [2012/817](https://www.legislation.gov.uk/uksi/2012/817), [2012/821](https://www.legislation.gov.uk/uksi/2012/821), [2013/622](https://www.legislation.gov.uk/uksi/2013/622) and [2014/1016](https://www.legislation.gov.uk/uksi/2014/1016).
 

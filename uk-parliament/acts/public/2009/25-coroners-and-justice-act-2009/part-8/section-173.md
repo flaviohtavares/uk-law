@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Assessment notices[^key-ee118f91ddc54688572f843e3676dcab][^key-825ecca915a8e50df089602821e952c4]
+## 173. Assessment notices[^c-ee118f91ddc54688572f843e3676dcab][^c-825ecca915a8e50df089602821e952c4]
 
 *Extent: E+W*
 
@@ -143,6 +143,6 @@ After section 41 of the Data Protection Act 1998 (c. 29) insert—
 
 ## Annotations
 
-[^key-ee118f91ddc54688572f843e3676dcab]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2009/25/section/173) in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/15)
+[^c-ee118f91ddc54688572f843e3676dcab]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2009/25/section/173) in force at 1.2.2010 for specified purposes by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/15)
 
-[^key-825ecca915a8e50df089602821e952c4]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2009/25/section/173) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/12)
+[^c-825ecca915a8e50df089602821e952c4]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2009/25/section/173) in force at 6.4.2010 in so far as not already in force by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/12)

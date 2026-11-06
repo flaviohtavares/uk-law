@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Retirement benefits[^key-b57ee025ec258c376a6ec89f30f2cea7]
+## 63. Retirement benefits[^c-b57ee025ec258c376a6ec89f30f2cea7]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ the appropriate administering authority must use the accumulated value of the co
 
 ## Annotations
 
-[^key-b57ee025ec258c376a6ec89f30f2cea7]: Commencement: Reg. 63 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-b57ee025ec258c376a6ec89f30f2cea7]: Commencement: Reg. 63 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

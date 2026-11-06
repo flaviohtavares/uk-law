@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1C — Information to be contained in the application for a return point exemption[^key-64b11998227f7f90dfcdc56a162f08eb]
+## SCHEDULE 1C — Information to be contained in the application for a return point exemption[^c-64b11998227f7f90dfcdc56a162f08eb]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ Regulation 24(2)
 
 ## Annotations
 
-[^key-64b11998227f7f90dfcdc56a162f08eb]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/ssi/2020/154/schedule/1C) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [31](https://www.legislation.gov.uk/ssi/2025/188/regulation/31)
+[^c-64b11998227f7f90dfcdc56a162f08eb]: Textual amendment: [Sch. 1C](https://www.legislation.gov.uk/ssi/2020/154/schedule/1C) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [31](https://www.legislation.gov.uk/ssi/2025/188/regulation/31)

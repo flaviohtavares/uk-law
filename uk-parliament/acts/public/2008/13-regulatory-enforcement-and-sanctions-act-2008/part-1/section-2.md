@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Dissolution of the LBRO company[^key-5866bf7769fe2d97e58804cc211956c5]
+## 2. Dissolution of the LBRO company[^c-5866bf7769fe2d97e58804cc211956c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5866bf7769fe2d97e58804cc211956c5]: Textual amendment: S. 2 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-5866bf7769fe2d97e58804cc211956c5]: Textual amendment: S. 2 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

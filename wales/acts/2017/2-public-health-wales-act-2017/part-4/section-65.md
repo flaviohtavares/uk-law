@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Mandatory grant or refusal of application for special procedure licence[^key-c5c0b5b46fef3a15535e5ad4d52a035b]
+## 65. Mandatory grant or refusal of application for special procedure licence[^c-c5c0b5b46fef3a15535e5ad4d52a035b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5c0b5b46fef3a15535e5ad4d52a035b]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2017/2/section/65) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(h)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/h) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-c5c0b5b46fef3a15535e5ad4d52a035b]: Commencement: [S. 65](https://www.legislation.gov.uk/anaw/2017/2/section/65) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(h)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/h) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

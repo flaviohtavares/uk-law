@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Article 10 of Commission Implementing Regulation (EU) No 1079/2012[^key-2657beb04f83b8f134dd345ce0dbb2fb]
+## 317. Article 10 of Commission Implementing Regulation (EU) No 1079/2012[^c-2657beb04f83b8f134dd345ce0dbb2fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 10 (safety requirements) for “Member States” substitute “ The C
 
 ## Annotations
 
-[^key-2657beb04f83b8f134dd345ce0dbb2fb]: Commencement: Reg. 317 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2657beb04f83b8f134dd345ce0dbb2fb]: Commencement: Reg. 317 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

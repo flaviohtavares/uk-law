@@ -22,7 +22,7 @@ summary: ''
 
 Section 50
 
-### Part 1 — Protection for highways and traffic[^key-776cb91940f58b740ffe4b592b806701]
+### Part 1 — Protection for highways and traffic[^c-776cb91940f58b740ffe4b592b806701]
 
 **1.** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker and the highway authority concerned, have effect for the protection of highway authorities.
 
@@ -96,7 +96,7 @@ but shall otherwise by determined by a person appointed by the Secretary of Stat
 
 (2) Any person appointed by the Secretary of State under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the Secretary of State on making the appointment.
 
-### Part 2 — Protection for electricity, gas, water and sewerage undertakers[^key-c9dd41c5fbbb374aa35a43db042d7c78][^key-30368d7fe419cbcc9215be7e4e3e53ae]
+### Part 2 — Protection for electricity, gas, water and sewerage undertakers[^c-c9dd41c5fbbb374aa35a43db042d7c78][^c-30368d7fe419cbcc9215be7e4e3e53ae]
 
 **1.** (1) [^M_C_f79e09c0-cde1-4e97-f78f-8f7663a61f4e]The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker, or the Secretary of State as the case may be, and the undertakers concerned, have effect.
 
@@ -117,7 +117,7 @@ but shall otherwise by determined by a person appointed by the Secretary of Stat
 - “**service obligations**” means any service obligation imposed on the undertakers by or under the enactments authorising them to carry on their respective undertakings; and
 - “**undertakers**” means any of the following, namely, a licence holder within the meaning of Part 1of the Electricity Act 1989 (c. 29), a gas transporter within the meaning of Part 1 of the Gas Act 1986 (c. 44), a water undertaker within the meaning of the Water Industry Act 1991, a sewerage undertaker within Part 1 of that Act and any local authority which is a relevant authority for the purposes of section 97 of that Act; and, in relation to any apparatus, means the undertaker to whom it belongs or by whom it is maintained.
 
-**2.**[^key-058cb33575193a8de257329dfd483600] (1) [^M_C_05b83657-fc44-4478-c5d6-ab1103f2fbee]The following provisions of this paragraph have effect in any case where the Secretary of State or the nominated undertaker, in exercise of the powers of this Act, acquires any interest in or temporarily occupies any land in which apparatus is placed.
+**2.**[^c-058cb33575193a8de257329dfd483600] (1) [^M_C_05b83657-fc44-4478-c5d6-ab1103f2fbee]The following provisions of this paragraph have effect in any case where the Secretary of State or the nominated undertaker, in exercise of the powers of this Act, acquires any interest in or temporarily occupies any land in which apparatus is placed.
 
 (2) Unless a certificate is issued by the appropriate Ministers under sub-paragraph (3) the apparatus shall not be removed under this Part, and any right of the undertakers to maintain, repair, renew, adjust, alter or inspect the apparatus in that land shall not be extinguished until any necessary alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertakers.
 
@@ -128,7 +128,7 @@ but shall otherwise by determined by a person appointed by the Secretary of Stat
 
 that apparatus may be removed (or required by the nominated undertaker to be removed) under this Part before any necessary alternative apparatus has been constructed or is in operation to the reasonable satisfaction of the undertakers.
 
-(4)[^M_C_5e0fc8e1-2d8d-4154-9693-ab2906b04d40] In this paragraph “**appropriate Ministers**” means the Secretary of State for Transport acting jointly with either the Secretary of State for Environment, Food and Rural Affairs or the Secretary of State for Energy Security and Net Zero[^key-b85fca6a2a0f0ebfa15fb2ceabd4059f].
+(4)[^M_C_5e0fc8e1-2d8d-4154-9693-ab2906b04d40] In this paragraph “**appropriate Ministers**” means the Secretary of State for Transport acting jointly with either the Secretary of State for Environment, Food and Rural Affairs or the Secretary of State for Energy Security and Net Zero[^c-b85fca6a2a0f0ebfa15fb2ceabd4059f].
 
 **3.** (1) This paragraph applies where—
 
@@ -139,7 +139,7 @@ that apparatus may be removed (or required by the nominated undertaker to be rem
 
 (3) Sub-paragraph (4) applies where facilities and rights required for the construction of apparatus under sub-paragraph (2) are to be afforded elsewhere than in such other land and neither the nominated undertaker nor the Secretary of State is able to afford such facilities and rights.
 
-(4)[^key-24fbaddb18c3598ba0be31eb0daa04a5] The undertakers shall, on receipt of a written notice from the nominated undertaker that this sub-paragraph applies, forthwith use their best endeavours to obtain the necessary facilities and rights; and neither the nominated undertaker nor the Secretary of State shall be under an obligation as to the provision of such facilities and rights in the other land.
+(4)[^c-24fbaddb18c3598ba0be31eb0daa04a5] The undertakers shall, on receipt of a written notice from the nominated undertaker that this sub-paragraph applies, forthwith use their best endeavours to obtain the necessary facilities and rights; and neither the nominated undertaker nor the Secretary of State shall be under an obligation as to the provision of such facilities and rights in the other land.
 
 **4.** (1) [^M_C_fa1dc6df-c5ae-47f3-a478-19441b11971f]Any alternative apparatus to be constructed by the undertakers in pursuance of paragraph 3 in land held or used, or intended for use, by the nominated undertaker for the purposes of its undertaking under this Act or held by the Secretary of State, or in which the undertakers have obtained the necessary facilities and rights, shall be constructed in such manner, and in such line or situation and in accordance with such programme, as is—
 
@@ -223,7 +223,7 @@ by reason of any such damage or interruption.
 
 (3) The undertakers shall give the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**13.**[^key-4c33eaf34cf3478baee394e6f7a5a9b8] (1) Any dispute arising between the nominated undertaker and the undertakers under this Part shall be determined by arbitration if—
+**13.**[^c-4c33eaf34cf3478baee394e6f7a5a9b8] (1) Any dispute arising between the nominated undertaker and the undertakers under this Part shall be determined by arbitration if—
 
 - (a) the parties agree, or
 - (b) the dispute relates to the amount of any sum payable under this Part,
@@ -232,7 +232,7 @@ but shall otherwise by determined by a person appointed by the appropriate Minis
 
 (2) Any person appointed by the appropriate Ministers under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the appropriate Ministers on making the appointment.
 
-(3)[^key-54ff98084853bf6cb2b840d4c62b7c3b] In this paragraph “**the appropriate Ministers**” means the Secretary of State for Transport acting jointly with either the Secretary of State for Environment, Food and Rural Affairs or the Secretary of State for Energy Security and Net Zero[^key-45fff4554611a652633341c2be1fe575].
+(3)[^c-54ff98084853bf6cb2b840d4c62b7c3b] In this paragraph “**the appropriate Ministers**” means the Secretary of State for Transport acting jointly with either the Secretary of State for Environment, Food and Rural Affairs or the Secretary of State for Energy Security and Net Zero[^c-45fff4554611a652633341c2be1fe575].
 
 ### Part 3 — Protection of land drainage, flood defence, water resources and fisheries
 
@@ -340,7 +340,7 @@ but shall otherwise by determined by a person appointed by the appropriate Minis
 
 (3) In this paragraph the reference to the appropriate Ministers is to the Secretary of State for Transport and the Secretary of State for Environment, Food and Rural Affairs acting jointly.
 
-### Part 4 — Protection of electronic communications code networks[^key-b19ec7e8b08a9799e98be9e08606cd56][^key-dbfb4800b4dca1155ad2ba2e09471b1e]
+### Part 4 — Protection of electronic communications code networks[^c-b19ec7e8b08a9799e98be9e08606cd56][^c-dbfb4800b4dca1155ad2ba2e09471b1e]
 
 **1.** (1) The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker and an operator of an electronic communications code network, have effect.
 
@@ -405,7 +405,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (4) The operator shall give the nominated undertaker reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the nominated undertaker which, if it withholds such consent, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**6.**[^key-1377012aba3b3fd1fc872b3c929f0625] (1) Any dispute arising between the nominated undertaker and an operator under this Part shall be determined by arbitration if—
+**6.**[^c-1377012aba3b3fd1fc872b3c929f0625] (1) Any dispute arising between the nominated undertaker and an operator under this Part shall be determined by arbitration if—
 
 - (a) the parties agree, or
 - (b) the dispute relates to the amount of any sum payable under this Part,
@@ -414,11 +414,11 @@ but shall otherwise by determined by a person appointed by the appropriate Minis
 
 (2) Any person appointed by the appropriate Ministers under sub-paragraph (1) shall, in determining any dispute arising under this Part, have regard to such matters as may be specified by the appropriate Ministers on making the appointment.
 
-(3) [^M_C_bd67fb73-3925-4792-bea9-abbd99fe99a6]In this paragraph the reference to the appropriate Ministers is a reference to the Secretary of State for Transport and the Secretary of State for Science, Innovation and Technology[^key-4eee807664ccab2f6d19ca15681d81fe] acting jointly.
+(3) [^M_C_bd67fb73-3925-4792-bea9-abbd99fe99a6]In this paragraph the reference to the appropriate Ministers is a reference to the Secretary of State for Transport and the Secretary of State for Science, Innovation and Technology[^c-4eee807664ccab2f6d19ca15681d81fe] acting jointly.
 
-### Part 5 — Protection of Canal & River Trust[^key-7d7e2eb9b844bbfe474bb9bf6df30e75]
+### Part 5 — Protection of Canal & River Trust[^c-7d7e2eb9b844bbfe474bb9bf6df30e75]
 
-**1.** (1)[^M_C_69a0099f-35f9-489f-89ca-b0414d4793b8] The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker, or the Secretary of State as the case may be, and Canal & River Trust[^key-defa6f4d5d7965c6b104c6daf75bf104], have effect.
+**1.** (1)[^M_C_69a0099f-35f9-489f-89ca-b0414d4793b8] The following provisions of this Part shall, unless otherwise agreed in writing between the nominated undertaker, or the Secretary of State as the case may be, and Canal & River Trust[^c-defa6f4d5d7965c6b104c6daf75bf104], have effect.
 
 (2) In this Part—
 
@@ -594,25 +594,25 @@ but shall otherwise be determined by a person appointed by the Secretary of Stat
 
 ## Annotations
 
-[^key-776cb91940f58b740ffe4b592b806701]: Modification: [Sch. 17 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-776cb91940f58b740ffe4b592b806701]: Modification: [Sch. 17 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/1) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-c9dd41c5fbbb374aa35a43db042d7c78]: Modification: Sch. 17 Pt. 2 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-c9dd41c5fbbb374aa35a43db042d7c78]: Modification: Sch. 17 Pt. 2 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-30368d7fe419cbcc9215be7e4e3e53ae]: Modification: Sch. 17 Pt. 2 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(f)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/f), [3(5)-(7)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/5)
+[^c-30368d7fe419cbcc9215be7e4e3e53ae]: Modification: Sch. 17 Pt. 2 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(f)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/f), [3(5)-(7)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/5)
 
 [^M_C_f79e09c0-cde1-4e97-f78f-8f7663a61f4e]: Modification: Sch. 17 Pt. 2 para. 1(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), arts. 1, 10(2), 11 (with art. 13)
 
-[^key-058cb33575193a8de257329dfd483600]: Modification: [Sch. 17 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/2): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/424/article/7/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-058cb33575193a8de257329dfd483600]: Modification: [Sch. 17 Pt. 2 para. 2](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/2): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/424/article/7/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^M_C_05b83657-fc44-4478-c5d6-ab1103f2fbee]: Modification: Sch. 17 Pt. 2 para. 2(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), arts. 1, 10(2) (with art. 13)
 
 [^M_C_5e0fc8e1-2d8d-4154-9693-ab2906b04d40]: Modification: Sch. 17 Pt. 2 para. 2(4) transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), arts. 1(2), 4, Sch. 1(k)
 
-[^key-b85fca6a2a0f0ebfa15fb2ceabd4059f]: Textual amendment: Words in [Sch. 17 Pt. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/2/4) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/5/a/i) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-b85fca6a2a0f0ebfa15fb2ceabd4059f]: Textual amendment: Words in [Sch. 17 Pt. 2 para. 2(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/2/4) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/5/a/i) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^M_C_1a75a385-f9bf-45c9-8c42-b5539f143d33]: Modification: Sch. 17 Pt. 2 para. 3(2) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), arts. 1, 10(3) (with art. 13)
 
-[^key-24fbaddb18c3598ba0be31eb0daa04a5]: Modification: Sch. 17 Pt. 2 para. 3(3)(4) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [10(4)](https://www.legislation.gov.uk/uksi/2010/988/article/10/4) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-24fbaddb18c3598ba0be31eb0daa04a5]: Modification: Sch. 17 Pt. 2 para. 3(3)(4) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [10(4)](https://www.legislation.gov.uk/uksi/2010/988/article/10/4) (with [art. 13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
 
 [^M_C_fa1dc6df-c5ae-47f3-a478-19441b11971f]: Modification: Sch. 17 Pt. 2 para. 4(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), arts. 1, 10(5) (with art. 13)
 
@@ -622,15 +622,15 @@ but shall otherwise be determined by a person appointed by the Secretary of Stat
 
 [^M_C_027dc864-e5b5-41cd-c9a9-b48ccbe2823e]: Modification: Sch. 17 Pt. 2 para. 7(3) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), arts. 1, 10(6) (with art. 13)
 
-[^key-4c33eaf34cf3478baee394e6f7a5a9b8]: Modification: [Sch. 17 Pt. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/13/3): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/424/article/7/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-4c33eaf34cf3478baee394e6f7a5a9b8]: Modification: [Sch. 17 Pt. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/13/3): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/424/article/7/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-54ff98084853bf6cb2b840d4c62b7c3b]: Modification: Sch. 17 Pt. 2 para. 13(3) transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(k)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/k)
+[^c-54ff98084853bf6cb2b840d4c62b7c3b]: Modification: Sch. 17 Pt. 2 para. 13(3) transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(k)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/k)
 
-[^key-45fff4554611a652633341c2be1fe575]: Textual amendment: Words in [Sch. 17 Pt. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/13/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/5/a/ii) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-45fff4554611a652633341c2be1fe575]: Textual amendment: Words in [Sch. 17 Pt. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/2/paragraph/13/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/5/a/ii) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-b19ec7e8b08a9799e98be9e08606cd56]: Modification: Sch. 17 Pt. 4 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-b19ec7e8b08a9799e98be9e08606cd56]: Modification: Sch. 17 Pt. 4 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-dbfb4800b4dca1155ad2ba2e09471b1e]: Modification: Sch. 17 Pt. 4 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(f)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/f), [3(5)-(7)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/5)
+[^c-dbfb4800b4dca1155ad2ba2e09471b1e]: Modification: Sch. 17 Pt. 4 applied (with modifications) (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 paras. 1(f)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/f), [3(5)-(7)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/3/5)
 
 [^M_F_82d84eff-40b9-471f-d8ab-04cd011d610a]: Textual amendment: Words in Sch. 17 Pt. 4 para. 1(2) substituted (28.12.2017) by [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30), [Sch. 3 para. 54(2)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/54/2) (with [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
@@ -642,17 +642,17 @@ but shall otherwise be determined by a person appointed by the Secretary of Stat
 
 [^M_F_6b190a03-5a30-4dce-a8db-eaa9f2b35bd7]: Textual amendment: Words in Sch. 17 Pt. 4 para. 4(1) substituted (28.12.2017) by [2017 c. 30](https://www.legislation.gov.uk/ukpga/2017/30), [Sch. 3 para. 54(6)](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/54/6) (with [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6)); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
-[^key-1377012aba3b3fd1fc872b3c929f0625]: Modification: [Sch. 17 Pt. 4 para. 6](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/4/paragraph/6): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/424/article/9/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-1377012aba3b3fd1fc872b3c929f0625]: Modification: [Sch. 17 Pt. 4 para. 6](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/4/paragraph/6): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/424/article/9/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^M_C_bd67fb73-3925-4792-bea9-abbd99fe99a6]: Modification: Sch. 17 Pt. 4 para 6(3) transfer of functions (13.4.2011) by The Transfer of Functions (Media and Telecommunications etc.) Order 2011 ([S.I. 2011/741](https://www.legislation.gov.uk/uksi/2011/741), art. 3, Sch. 1(n) (with art. 5)
 
-[^key-4eee807664ccab2f6d19ca15681d81fe]: Textual amendment: Words in [Sch. 17 Pt. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/4/paragraph/6/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(5)(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/5/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-4eee807664ccab2f6d19ca15681d81fe]: Textual amendment: Words in [Sch. 17 Pt. 4 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/part/4/paragraph/6/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(5)(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/5/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-7d7e2eb9b844bbfe474bb9bf6df30e75]: Textual amendment: Words in Sch. 17 Pt. 5 heading substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/19/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-7d7e2eb9b844bbfe474bb9bf6df30e75]: Textual amendment: Words in Sch. 17 Pt. 5 heading substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/19/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^M_C_69a0099f-35f9-489f-89ca-b0414d4793b8]: Modification: Sch. 17 Pt. 5 para. 1(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), arts. 1, 11 (with art. 13)
 
-[^key-defa6f4d5d7965c6b104c6daf75bf104]: Textual amendment: Words in Sch. 17 Pt. 5 substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/19/3/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-defa6f4d5d7965c6b104c6daf75bf104]: Textual amendment: Words in Sch. 17 Pt. 5 substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 19(3)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/19/3/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^M_F_95de3349-dbb8-4ef2-f3b7-fd5ef0f375d6]: Textual amendment: Words in Sch. 17 Pt. 5 para. 1(2) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), Sch. 3 para. 19(3)(a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 

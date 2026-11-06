@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Aims of children’s services planning[^key-ef9af917740d4b699292f3af477c7dd6]
+## 61. Aims of children’s services planning[^c-ef9af917740d4b699292f3af477c7dd6]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef9af917740d4b699292f3af477c7dd6]: Commencement: S. 61 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-ef9af917740d4b699292f3af477c7dd6]: Commencement: S. 61 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

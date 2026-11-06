@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Resignation of incapable trustee[^key-a2a7a9900a5c869f4fb7c591998cfd4b]
+## 6. Resignation of incapable trustee[^c-a2a7a9900a5c869f4fb7c591998cfd4b]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a7a9900a5c869f4fb7c591998cfd4b]: Commencement: S. 6 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-a2a7a9900a5c869f4fb7c591998cfd4b]: Commencement: S. 6 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 318. False statements[^key-3bc9cabbedd9dc98f38a7e2d9300d133]
+## 318. False statements[^c-3bc9cabbedd9dc98f38a7e2d9300d133]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ shall be guilty of an offence.
   - (iii) any other document required or authorised to be granted, prepared, sent or given for any of the purposes of this Act; but
 - (b) does not include—
   - (i) a nomination of a named person in accordance with section 250(2) of this Act;
-  - (ii)[^key-fa02a236a343919f505832957585a408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-fa02a236a343919f505832957585a408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) an advance statement.
 
 (3) A person guilty of an offence under this section shall be liable—
@@ -45,6 +45,6 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-3bc9cabbedd9dc98f38a7e2d9300d133]: Commencement: S. 318 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-3bc9cabbedd9dc98f38a7e2d9300d133]: Commencement: S. 318 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-fa02a236a343919f505832957585a408]: Textual amendment: [S. 318(2)(b)(ii)](https://www.legislation.gov.uk/asp/2003/13/section/318/2/b/ii) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 22(3)](https://www.legislation.gov.uk/asp/2015/9/section/22/3), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))
+[^c-fa02a236a343919f505832957585a408]: Textual amendment: [S. 318(2)(b)(ii)](https://www.legislation.gov.uk/asp/2003/13/section/318/2/b/ii) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 22(3)](https://www.legislation.gov.uk/asp/2015/9/section/22/3), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))

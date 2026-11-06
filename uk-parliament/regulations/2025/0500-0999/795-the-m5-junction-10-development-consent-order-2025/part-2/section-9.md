@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Benefit of Order[^key-d3b1c3f6c9312224924b48f412f80c0d]
+## 9. Benefit of Order[^c-d3b1c3f6c9312224924b48f412f80c0d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b1c3f6c9312224924b48f412f80c0d]: Commencement: Art. 9 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-d3b1c3f6c9312224924b48f412f80c0d]: Commencement: Art. 9 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Appeals from the Special Immigration Appeals Commission to the Supreme Court[^key-6ffc1c6483d0809e47f9f093658b7ff2]
+## 66. Appeals from the Special Immigration Appeals Commission to the Supreme Court[^c-6ffc1c6483d0809e47f9f093658b7ff2]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ffc1c6483d0809e47f9f093658b7ff2]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2015/2/section/66) in force at 28.6.2018 by [S.I. 2018/732](https://www.legislation.gov.uk/uksi/2018/732), [art. 2](https://www.legislation.gov.uk/uksi/2018/732/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/732/article/3))
+[^c-6ffc1c6483d0809e47f9f093658b7ff2]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2015/2/section/66) in force at 28.6.2018 by [S.I. 2018/732](https://www.legislation.gov.uk/uksi/2018/732), [art. 2](https://www.legislation.gov.uk/uksi/2018/732/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/732/article/3))

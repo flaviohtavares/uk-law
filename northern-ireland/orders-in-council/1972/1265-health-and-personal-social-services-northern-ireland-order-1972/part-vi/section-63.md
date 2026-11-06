@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-\[[^c23366701] (1) The Department[^key-f37aa6191c8b1dfe2b2044286088341c] shall, in accordance with regulations, make arrangements [^key-79a69c98ed30c96bc44f2e2ac863f119]... for the provision[^c23366711] to persons [^key-79a69c98ed30c96bc44f2e2ac863f119]... of—
+\[[^c23366701] (1) The Department[^c-f37aa6191c8b1dfe2b2044286088341c] shall, in accordance with regulations, make arrangements [^c-79a69c98ed30c96bc44f2e2ac863f119]... for the provision[^c23366711] to persons [^c-79a69c98ed30c96bc44f2e2ac863f119]... of—
 
 - (a) proper and sufficient drugs and medicines and listed appliances which are ordered for those persons by a medical practitioner in pursuance of his functions—
   - (i) in providing any service in pursuance of this Order; or
@@ -30,9 +30,9 @@ summary: ''
 - (bb) listed drugs and medicines and listed appliances which are ordered for those persons by[^c23366751] a pharmacist or[^c23366761] a prescribed description of registered nurse, midwife or health visitor in pursuance of such functions; and
 - (c) such services as may be prescribed;[^c23366791]
 
-and the services provided in accordance with the arrangements are, together with additional pharmaceutical services provided in accordance with[^c23366811] arrangements[^key-b7db440a2f550a10f86b24d9307cbc26] under Article 63A, referred to in this Order as “pharmaceutical services”.
+and the services provided in accordance with the arrangements are, together with additional pharmaceutical services provided in accordance with[^c23366811] arrangements[^c-b7db440a2f550a10f86b24d9307cbc26] under Article 63A, referred to in this Order as “pharmaceutical services”.
 
-(2)[^c23366831] Regulations shall provide for securing that arrangements made by the Department[^key-5821e96b59a5e8407e720e5a8671d88b] under paragraph (1) will enable persons [^key-cf9c1513a49ab4896c82b239b4abb535]... for whom drugs, medicines or appliances mentioned in that paragraph are ordered as there mentioned, or to whom services mentioned in paragraph (1)(c) are to be provided[^c23366841] to receive them from persons with whom such arrangements have been made.
+(2)[^c23366831] Regulations shall provide for securing that arrangements made by the Department[^c-5821e96b59a5e8407e720e5a8671d88b] under paragraph (1) will enable persons [^c-cf9c1513a49ab4896c82b239b4abb535]... for whom drugs, medicines or appliances mentioned in that paragraph are ordered as there mentioned, or to whom services mentioned in paragraph (1)(c) are to be provided[^c23366841] to receive them from persons with whom such arrangements have been made.
 
 (2A) [^c23369041]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -52,9 +52,9 @@ and the services provided in accordance with the arrangements are, together with
 
 [^c23366701]: Textual amendment: [1978 NI 26](https://www.legislation.gov.uk/1978/ni26)
 
-[^key-f37aa6191c8b1dfe2b2044286088341c]: Textual amendment: Words in [art. 63(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-f37aa6191c8b1dfe2b2044286088341c]: Textual amendment: Words in [art. 63(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-79a69c98ed30c96bc44f2e2ac863f119]: Textual amendment: Words in [art. 63(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-79a69c98ed30c96bc44f2e2ac863f119]: Textual amendment: Words in [art. 63(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23366711]: Textual amendment: [1991 NI 1](https://www.legislation.gov.uk/1991/ni1)
 
@@ -76,13 +76,13 @@ and the services provided in accordance with the arrangements are, together with
 
 [^c23366811]: Textual amendment: [1997 NI 7](https://www.legislation.gov.uk/1997/ni7)
 
-[^key-b7db440a2f550a10f86b24d9307cbc26]: Textual amendment: Word in [art. 63(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(2)(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/2/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b7db440a2f550a10f86b24d9307cbc26]: Textual amendment: Word in [art. 63(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(2)(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/2/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23366831]: Textual amendment: [1986 NI 20](https://www.legislation.gov.uk/1986/ni20)
 
-[^key-5821e96b59a5e8407e720e5a8671d88b]: Textual amendment: Words in [art. 63(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-5821e96b59a5e8407e720e5a8671d88b]: Textual amendment: Words in [art. 63(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-cf9c1513a49ab4896c82b239b4abb535]: Textual amendment: Words in [art. 63(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cf9c1513a49ab4896c82b239b4abb535]: Textual amendment: Words in [art. 63(2)](https://www.legislation.gov.uk/nisi/1972/1265/article/63/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 33(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/33/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23366841]: Textual amendment: [1991 NI 1](https://www.legislation.gov.uk/1991/ni1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Proving a debt[^key-4878ad5172eae830a0bbc81dd83704c2]
+## 43. Proving a debt[^c-4878ad5172eae830a0bbc81dd83704c2]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4878ad5172eae830a0bbc81dd83704c2]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2013/3208/rule/43) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-4878ad5172eae830a0bbc81dd83704c2]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2013/3208/rule/43) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

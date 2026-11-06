@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4C. Electronic claims for benefit[^key-5129c8614d84d569286c39b98d7fa674]
+## 4C. Electronic claims for benefit[^c-5129c8614d84d569286c39b98d7fa674]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5129c8614d84d569286c39b98d7fa674]: Textual amendment: Reg. 4C inserted (28.10.2002) by [The Social Security (Electronic Communications) (Child Benefit) Order 2002 (S.I. 2002/1789)](https://www.legislation.gov.uk/uksi/2002/1789), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1789/article/1/1), [3](https://www.legislation.gov.uk/uksi/2002/1789/article/3)
+[^c-5129c8614d84d569286c39b98d7fa674]: Textual amendment: Reg. 4C inserted (28.10.2002) by [The Social Security (Electronic Communications) (Child Benefit) Order 2002 (S.I. 2002/1789)](https://www.legislation.gov.uk/uksi/2002/1789), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1789/article/1/1), [3](https://www.legislation.gov.uk/uksi/2002/1789/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Directions[^key-ac6716e88db618cbd1db3f0c60b6ad87][^key-c09693e13c981210cc522389a8c30d0d]
+## 20. Directions[^c-ac6716e88db618cbd1db3f0c60b6ad87][^c-c09693e13c981210cc522389a8c30d0d]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac6716e88db618cbd1db3f0c60b6ad87]: Commencement: S. 20 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-ac6716e88db618cbd1db3f0c60b6ad87]: Commencement: S. 20 in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-c09693e13c981210cc522389a8c30d0d]: Commencement: S. 20 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
+[^c-c09693e13c981210cc522389a8c30d0d]: Commencement: S. 20 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))

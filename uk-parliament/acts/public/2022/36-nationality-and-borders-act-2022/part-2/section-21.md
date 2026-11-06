@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Priority removal notices: supplementary[^key-b21fa99d8cc85bf980339a4bfb338cd1]
+## 21. Priority removal notices: supplementary[^c-b21fa99d8cc85bf980339a4bfb338cd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ See section 82A of the Nationality, Immigration and Asylum Act 2002 (the “**20
 
 ## Annotations
 
-[^key-b21fa99d8cc85bf980339a4bfb338cd1]: Commencement: S. 21 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-b21fa99d8cc85bf980339a4bfb338cd1]: Commencement: S. 21 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

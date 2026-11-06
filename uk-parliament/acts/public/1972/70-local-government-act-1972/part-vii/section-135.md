@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 135. Contracts of local authorities.[^c15108991][^c15109001][^c18858701][^key-e01eb9c6446b248fba92326e90df5d04][^key-5086d35d1b5998beda6e2e013d5450a0][^key-babd7747fff0a5f0d46ab55a8de2aa6a][^key-23a2be1c5329431d3192ac408edd1f45][^key-76cd7870e580872db4110d27a2137ba7]
+## 135. Contracts of local authorities.[^c15108991][^c15109001][^c18858701][^c-e01eb9c6446b248fba92326e90df5d04][^c-5086d35d1b5998beda6e2e013d5450a0][^c-babd7747fff0a5f0d46ab55a8de2aa6a][^c-23a2be1c5329431d3192ac408edd1f45][^c-76cd7870e580872db4110d27a2137ba7]
 
 *Extent: E+W*
 
@@ -50,12 +50,12 @@ summary: ''
 
     S. 135 modified (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [art. 29(1)(b)](https://www.legislation.gov.uk/uksi/2004/1778/article/29/1/b)
 
-[^key-e01eb9c6446b248fba92326e90df5d04]: Modification: S. 135 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-e01eb9c6446b248fba92326e90df5d04]: Modification: S. 135 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-5086d35d1b5998beda6e2e013d5450a0]: Modification: S. 135 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-5086d35d1b5998beda6e2e013d5450a0]: Modification: S. 135 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-babd7747fff0a5f0d46ab55a8de2aa6a]: Modification: S. 135 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-babd7747fff0a5f0d46ab55a8de2aa6a]: Modification: S. 135 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-23a2be1c5329431d3192ac408edd1f45]: Modification: S. 135 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-23a2be1c5329431d3192ac408edd1f45]: Modification: S. 135 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
-[^key-76cd7870e580872db4110d27a2137ba7]: Modification: S. 135 modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(3)(d)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/3/d)
+[^c-76cd7870e580872db4110d27a2137ba7]: Modification: S. 135 modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [19(3)(d)](https://www.legislation.gov.uk/uksi/2018/103/regulation/19/3/d)

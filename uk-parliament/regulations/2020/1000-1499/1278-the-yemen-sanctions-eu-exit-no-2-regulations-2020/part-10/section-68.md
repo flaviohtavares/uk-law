@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Transitional provision: Treasury licences[^key-dcd731c6fe4ed93d1822019511076c82][^key-7b68bfc0087c49e6e8c0c465d3cdd8b1]
+## 68. Transitional provision: Treasury licences[^c-dcd731c6fe4ed93d1822019511076c82][^c-7b68bfc0087c49e6e8c0c465d3cdd8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-dcd731c6fe4ed93d1822019511076c82]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-dcd731c6fe4ed93d1822019511076c82]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-7b68bfc0087c49e6e8c0c465d3cdd8b1]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2020/1278/regulation/68) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-7b68bfc0087c49e6e8c0c465d3cdd8b1]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2020/1278/regulation/68) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

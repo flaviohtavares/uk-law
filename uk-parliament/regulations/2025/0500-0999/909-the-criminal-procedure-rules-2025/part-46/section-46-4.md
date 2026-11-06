@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.4. Application by defendant to change legal representative (legal aid)[^key-f00b30d27a6530c02d00e6755da6fc69]
+## 46.4. Application by defendant to change legal representative (legal aid)[^c-f00b30d27a6530c02d00e6755da6fc69]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f00b30d27a6530c02d00e6755da6fc69]: Commencement: [Rule 46.4](https://www.legislation.gov.uk/uksi/2025/909/rule/46.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f00b30d27a6530c02d00e6755da6fc69]: Commencement: [Rule 46.4](https://www.legislation.gov.uk/uksi/2025/909/rule/46.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

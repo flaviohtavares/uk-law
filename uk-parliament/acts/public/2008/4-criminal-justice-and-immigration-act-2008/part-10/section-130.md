@@ -35,9 +35,9 @@ summary: ''
 
 (5) The Secretary of State may not designate a person if the Secretary of State thinks that an effect of designation would breach—
 
-- (a) the United Kingdom's obligations under the Refugee Convention, [^key-89069ad187ff3533a1fb9911714e7e70]...
-- (b)[^key-89069ad187ff3533a1fb9911714e7e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the United Kingdom's obligations under the Refugee Convention, [^c-89069ad187ff3533a1fb9911714e7e70]...
+- (b)[^c-89069ad187ff3533a1fb9911714e7e70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-89069ad187ff3533a1fb9911714e7e70]: Textual amendment: S. 130(5)(b) and word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/18/2)
+[^c-89069ad187ff3533a1fb9911714e7e70]: Textual amendment: S. 130(5)(b) and word omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/18/2)

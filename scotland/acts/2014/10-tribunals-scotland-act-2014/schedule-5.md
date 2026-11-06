@@ -26,17 +26,17 @@ summary: ''
 
 #### Appointment and eligibility
 
-**1.**[^key-cfa813489183fc360921cc716ffc92e3] (1) It is for the Scottish Ministers to appoint a person as an ordinary member of the Upper Tribunal.
+**1.**[^c-cfa813489183fc360921cc716ffc92e3] (1) It is for the Scottish Ministers to appoint a person as an ordinary member of the Upper Tribunal.
 
 (2) A person is eligible for such appointment only if the person meets such relevant criteria as are prescribed by the Scottish Ministers in regulations.
 
-**2.**[^key-09d769099c5d10e62d1a3e43ab855457] In paragraph 1(2), “**relevant criteria**” includes criteria as to qualifications, experience and training.
+**2.**[^c-09d769099c5d10e62d1a3e43ab855457] In paragraph 1(2), “**relevant criteria**” includes criteria as to qualifications, experience and training.
 
 ### PART 2 — Legal members
 
 #### Application of Part
 
-**3.**[^key-fe7890289c8109b549f3edddbf1b8d2e] (1) This schedule Part applies in relation to appointment of the legal members of the Upper Tribunal other than—
+**3.**[^c-fe7890289c8109b549f3edddbf1b8d2e] (1) This schedule Part applies in relation to appointment of the legal members of the Upper Tribunal other than—
 
 - (a) a Vice-President of the Tribunal,
 - (b) a legal member of the Tribunal by reason of being a Chamber President in the First-tier Tribunal.
@@ -45,17 +45,17 @@ summary: ''
 
 #### Appointment and eligibility
 
-**4.**[^key-4739d72bf5ea57ca1b419983eb5c99ea] (1) It is for the Scottish Ministers to appoint a person as a legal member of the Upper Tribunal.
+**4.**[^c-4739d72bf5ea57ca1b419983eb5c99ea] (1) It is for the Scottish Ministers to appoint a person as a legal member of the Upper Tribunal.
 
 (2) A person is eligible for such appointment only if qualifying under paragraph 5(1) or (2).
 
-**5.**[^key-5431320d9425d28d1df73dff5e7dd802] (1) A person qualifies under this sub-paragraph if the person is practising, and has practised for a period of not less than 7 years, as a solicitor or advocate in Scotland.
+**5.**[^c-5431320d9425d28d1df73dff5e7dd802] (1) A person qualifies under this sub-paragraph if the person is practising, and has practised for a period of not less than 7 years, as a solicitor or advocate in Scotland.
 
 (2) A person qualifies under this sub-paragraph if the person falls within a description specified by the Scottish Ministers by regulations.
 
 #### Eligibility under regulations
 
-**6.**[^key-e2e4af579f3130cc977aed96a275acf9] (1) Regulations under paragraph 5(2) may specify a description of a person by reference to the matters mentioned in sub-paragraph (2), (3) or (4).
+**6.**[^c-e2e4af579f3130cc977aed96a275acf9] (1) Regulations under paragraph 5(2) may specify a description of a person by reference to the matters mentioned in sub-paragraph (2), (3) or (4).
 
 (2) That is—
 
@@ -85,7 +85,7 @@ summary: ''
   - (iv) acting as a mediator or arbitrator for the purpose of resolving disputes that are (or could be) the matter of legal proceedings,
 - (d) teaching or researching law at or for an educational institution.
 
-**7.**[^key-6b46270f264fec27bd7636e2c26e789f] (1) The Scottish Ministers may by regulations make provision—
+**7.**[^c-6b46270f264fec27bd7636e2c26e789f] (1) The Scottish Ministers may by regulations make provision—
 
 - (a) as regards the calculation of the 7-year period mentioned in paragraph 5(1) or 6(2)(b) or (3)(a) (for example, by reference to recent or continuous time),
 - (b) to which paragraph 6(3)(a) is subject (for example, by reference to debarment from practice),
@@ -97,16 +97,16 @@ summary: ''
 
 ## Annotations
 
-[^key-cfa813489183fc360921cc716ffc92e3]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-cfa813489183fc360921cc716ffc92e3]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-09d769099c5d10e62d1a3e43ab855457]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-09d769099c5d10e62d1a3e43ab855457]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-fe7890289c8109b549f3edddbf1b8d2e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-fe7890289c8109b549f3edddbf1b8d2e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-4739d72bf5ea57ca1b419983eb5c99ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-4739d72bf5ea57ca1b419983eb5c99ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-5431320d9425d28d1df73dff5e7dd802]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-5431320d9425d28d1df73dff5e7dd802]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-e2e4af579f3130cc977aed96a275acf9]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e2e4af579f3130cc977aed96a275acf9]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-6b46270f264fec27bd7636e2c26e789f]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-6b46270f264fec27bd7636e2c26e789f]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2014/10/schedule/5/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

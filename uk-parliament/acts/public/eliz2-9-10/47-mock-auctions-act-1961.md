@@ -31,26 +31,26 @@ Mock Auctions Act 1961 (repealed)
 
 1961 c.47
 
-[^key-dbdcb3c9767ef8e987645ae3e58b2fa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbdcb3c9767ef8e987645ae3e58b2fa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Penalties for promoting or conducting mock auctions.[^key-dbdcb3c9767ef8e987645ae3e58b2fa1][^key-dbdcb3c9767ef8e987645ae3e58b2fa1]
+## 1. Penalties for promoting or conducting mock auctions.[^c-dbdcb3c9767ef8e987645ae3e58b2fa1][^c-dbdcb3c9767ef8e987645ae3e58b2fa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences by bodies corporate.[^key-dbdcb3c9767ef8e987645ae3e58b2fa1][^key-dbdcb3c9767ef8e987645ae3e58b2fa1]
+## 2. Offences by bodies corporate.[^c-dbdcb3c9767ef8e987645ae3e58b2fa1][^c-dbdcb3c9767ef8e987645ae3e58b2fa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation.[^key-dbdcb3c9767ef8e987645ae3e58b2fa1][^key-dbdcb3c9767ef8e987645ae3e58b2fa1]
+## 3. Interpretation.[^c-dbdcb3c9767ef8e987645ae3e58b2fa1][^c-dbdcb3c9767ef8e987645ae3e58b2fa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title, commencement, and extent.[^key-dbdcb3c9767ef8e987645ae3e58b2fa1][^key-dbdcb3c9767ef8e987645ae3e58b2fa1]
+## 4. Short title, commencement, and extent.[^c-dbdcb3c9767ef8e987645ae3e58b2fa1][^c-dbdcb3c9767ef8e987645ae3e58b2fa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbdcb3c9767ef8e987645ae3e58b2fa1]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/47) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/6), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-dbdcb3c9767ef8e987645ae3e58b2fa1]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/47) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/6), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))

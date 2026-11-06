@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**8.**[^key-36d20993f6a436b3a787ac3cefcf69e8] Omit rule 13(2).
+**8.**[^c-36d20993f6a436b3a787ac3cefcf69e8] Omit rule 13(2).
 
 ## Annotations
 
-[^key-36d20993f6a436b3a787ac3cefcf69e8]: Commencement: Art. 8 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-36d20993f6a436b3a787ac3cefcf69e8]: Commencement: Art. 8 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

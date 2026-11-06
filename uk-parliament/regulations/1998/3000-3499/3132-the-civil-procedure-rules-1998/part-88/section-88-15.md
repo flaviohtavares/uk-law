@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88.15. Modification of Part 52 (appeals)[^key-270bf180eeba0836ea41457ffcd264be]
+## 88.15. Modification of Part 52 (appeals)[^c-270bf180eeba0836ea41457ffcd264be]
 
 *Extent: E+W*
 
@@ -28,15 +28,15 @@ summary: ''
 
 (2) The following rules do not apply to appeals to the Court of Appeal—
 
-- (a) rule 52.12(1)[^key-a3c477edd3d1c853f3eda6879264767f] (appellant’s notice); and
-- (b) rule 52.13[^key-cd906f212ac4a3a6a9d03df0dc567b45] (respondent’s notice).
+- (a) rule 52.12(1)[^c-a3c477edd3d1c853f3eda6879264767f] (appellant’s notice); and
+- (b) rule 52.13[^c-cd906f212ac4a3a6a9d03df0dc567b45] (respondent’s notice).
 
 (3) Rule 52.2 (all parties to comply with Practice Directions 52A to 52E) applies, but the parties are not required to comply with paragraphs 3(3), 7.2 and 27 of Practice Direction 52C.
 
 ## Annotations
 
-[^key-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
+[^c-270bf180eeba0836ea41457ffcd264be]: Textual amendment: [Pt. 88](https://www.legislation.gov.uk/uksi/1998/3132/part/88) inserted (27.2.2015) by [The Civil Procedure (Amendment) Rules 2015 (S.I. 2015/406)](https://www.legislation.gov.uk/uksi/2015/406), [rule 1](https://www.legislation.gov.uk/uksi/2015/406/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/406/schedule)
 
-[^key-a3c477edd3d1c853f3eda6879264767f]: Textual amendment: Word in [rule 88.15(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.15/2/b) substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [15(a)](https://www.legislation.gov.uk/uksi/2016/788/rule/15/a)
+[^c-a3c477edd3d1c853f3eda6879264767f]: Textual amendment: Word in [rule 88.15(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.15/2/b) substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [15(a)](https://www.legislation.gov.uk/uksi/2016/788/rule/15/a)
 
-[^key-cd906f212ac4a3a6a9d03df0dc567b45]: Textual amendment: Word in [rule 88.15(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.15/2/c) substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [15(b)](https://www.legislation.gov.uk/uksi/2016/788/rule/15/b)
+[^c-cd906f212ac4a3a6a9d03df0dc567b45]: Textual amendment: Word in [rule 88.15(2)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/88.15/2/c) substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [15(b)](https://www.legislation.gov.uk/uksi/2016/788/rule/15/b)

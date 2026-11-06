@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Exemption from certain offences in respect of certain acts in relation to salmon[^key-35b0006c13cfbc84f4da9daeba4d38bf]
+## 29. Exemption from certain offences in respect of certain acts in relation to salmon[^c-35b0006c13cfbc84f4da9daeba4d38bf]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ have previously consented to it.
 
 ## Annotations
 
-[^key-35b0006c13cfbc84f4da9daeba4d38bf]: Commencement: S. 29 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-35b0006c13cfbc84f4da9daeba4d38bf]: Commencement: S. 29 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

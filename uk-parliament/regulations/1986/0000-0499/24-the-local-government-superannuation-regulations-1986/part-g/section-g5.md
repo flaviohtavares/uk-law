@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G5. Certain employees of City of London employing bodies[^key-f5f7a1f753e4b51b4859880367f40d9b]
+## G5. Certain employees of City of London employing bodies[^c-f5f7a1f753e4b51b4859880367f40d9b]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In their application to persons who were existing contributors or former contrib
 
 ## Annotations
 
-[^key-f5f7a1f753e4b51b4859880367f40d9b]: Commencement: [Reg. G5](https://www.legislation.gov.uk/uksi/1986/24/regulation/G5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f5f7a1f753e4b51b4859880367f40d9b]: Commencement: [Reg. G5](https://www.legislation.gov.uk/uksi/1986/24/regulation/G5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00054]: Footnote: [S.I. 1977/1341](https://www.legislation.gov.uk/uksi/1977/1341).

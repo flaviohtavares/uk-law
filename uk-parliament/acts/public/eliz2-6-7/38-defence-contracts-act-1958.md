@@ -126,7 +126,7 @@ There shall be defrayed out of moneys provided by Parliament any increase attrib
 
   (a) articles required for the armed forces of the Crown, or for any such supply to the governments of countries outside the United Kingdom, or to the United Nations, as is authorised by the enactments amended by section one of this Act, being articles designed or adapted for the use of armed forces or components of articles so designed or adapted;
 
-  [^key-3f22b0434fb7e20e8cf22787e642ee7d](b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  [^c-3f22b0434fb7e20e8cf22787e642ee7d](b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   (c) articles required by the Secretary of State for Defence for the production of any such articles as aforesaid[^c615959]
 - “**production**” includes repair, maintenance, testing and development.
@@ -177,7 +177,7 @@ There shall be defrayed out of moneys provided by Parliament any increase attrib
 
 [^c615957]: Textual amendment: Words repealed by [S.I. 1971/719](https://www.legislation.gov.uk/uksi/1971/719), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/1971/719/schedule/paragraph/4/2)
 
-[^key-3f22b0434fb7e20e8cf22787e642ee7d]: Textual amendment: Words in s. 6(1) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(q)(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/q/r)
+[^c-3f22b0434fb7e20e8cf22787e642ee7d]: Textual amendment: Words in s. 6(1) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/5), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(q)(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/q/r)
 
 [^c615959]: Textual amendment: S. 6(1)(c) substituted by [S.I. 1971/719](https://www.legislation.gov.uk/uksi/1971/719), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/1971/719/schedule/paragraph/4/2)
 

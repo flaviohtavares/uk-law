@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. The assessment phase – claimants appealing against a decision[^key-c26a9710529e5e29bf4f80f3c6cae6c6]
+## 6. The assessment phase – claimants appealing against a decision[^c-c26a9710529e5e29bf4f80f3c6cae6c6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c26a9710529e5e29bf4f80f3c6cae6c6]: Textual amendment: Reg. 6 omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/5)
+[^c-c26a9710529e5e29bf4f80f3c6cae6c6]: Textual amendment: Reg. 6 omitted (28.6.2010) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/840)](https://www.legislation.gov.uk/uksi/2010/840), [regs. 1](https://www.legislation.gov.uk/uksi/2010/840/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2010/840/regulation/9/5)

@@ -157,7 +157,7 @@ In the Schedule to the Marine Management Organisation (Prescription of Powers to
   - (ii) for the entry “Regulation 55(5)” substitute “Regulation 57(5)”;
 - (b) in the second column, in relation to the substituted entry “Regulation 57(5)”, for “regulation 53(1) for a purpose specified in any of sub-paragraphs (e) to (g) of paragraph (2) of that regulation, regulation 53(4) or regulation 54” substitute “regulation 55(1) for a purpose specified in any of sub-paragraphs (e) to (g) of paragraph (2) of that regulation, regulation 55(4) or regulation 56”.
 
-#### 18. Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^key-f9599a953398e464d65fb940a3956aa1]
+#### 18. Merchant Shipping (Ship-to-Ship Transfers) Regulations 2010[^c-f9599a953398e464d65fb940a3956aa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -631,7 +631,7 @@ In Schedule 2 to the Keuper Underground Gas Storage Facility Order 2017 [^c23345
 
 [^c23344971]: Marginal citation: [S.I. 2010/603](https://www.legislation.gov.uk/uksi/2010/603).
 
-[^key-f9599a953398e464d65fb940a3956aa1]: Textual amendment: [Sch. 6 para. 18](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/18) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-f9599a953398e464d65fb940a3956aa1]: Textual amendment: [Sch. 6 para. 18](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/18) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
 
 [^c23344991]: Marginal citation: [S.I. 2010/1627](https://www.legislation.gov.uk/uksi/2010/1627), to which there are amendments not relevant to these Regulations.
 

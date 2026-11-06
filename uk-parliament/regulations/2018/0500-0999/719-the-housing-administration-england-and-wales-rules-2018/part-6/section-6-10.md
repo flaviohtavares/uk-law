@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.10. Basis of remuneration[^key-07ccb38f9f4d350eb6daa4bcca0782be]
+## 6.10. Basis of remuneration[^c-07ccb38f9f4d350eb6daa4bcca0782be]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07ccb38f9f4d350eb6daa4bcca0782be]: Commencement: Rule 6.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-07ccb38f9f4d350eb6daa4bcca0782be]: Commencement: Rule 6.10 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

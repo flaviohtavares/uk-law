@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Feed (Specified Undesirable Substances) (Scotland) Regulations 2009 (revoked)[^key-4b0fb5be9eceffa8e31aa60a148685b0]
+The Feed (Specified Undesirable Substances) (Scotland) Regulations 2009 (revoked)[^c-4b0fb5be9eceffa8e31aa60a148685b0]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 23rd November 2009
 
-[^key-4b0fb5be9eceffa8e31aa60a148685b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0fb5be9eceffa8e31aa60a148685b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4b0fb5be9eceffa8e31aa60a148685b0]
+## 1. Citation and commencement[^c-4b0fb5be9eceffa8e31aa60a148685b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feeding Stuffs (Scotland) Regulations 2005[^key-4b0fb5be9eceffa8e31aa60a148685b0]
+## 2. Amendment of the Feeding Stuffs (Scotland) Regulations 2005[^c-4b0fb5be9eceffa8e31aa60a148685b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b0fb5be9eceffa8e31aa60a148685b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0fb5be9eceffa8e31aa60a148685b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Entries to comprise Chapter E of Schedule 5 to the Feeding Stuffs (Scotland) Regulations 2005[^key-4b0fb5be9eceffa8e31aa60a148685b0]
+## SCHEDULE — Entries to comprise Chapter E of Schedule 5 to the Feeding Stuffs (Scotland) Regulations 2005[^c-4b0fb5be9eceffa8e31aa60a148685b0]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b0fb5be9eceffa8e31aa60a148685b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b0fb5be9eceffa8e31aa60a148685b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b0fb5be9eceffa8e31aa60a148685b0]: Textual amendment: Regulations revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/8)
+[^c-4b0fb5be9eceffa8e31aa60a148685b0]: Textual amendment: Regulations revoked (23.11.2010) by [The Animal Feed (Scotland) Regulations 2010 (S.S.I. 2010/373)](https://www.legislation.gov.uk/ssi/2010/373), [reg. 1](https://www.legislation.gov.uk/ssi/2010/373/regulation/1), [sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2010/373/schedule/2/paragraph/8)

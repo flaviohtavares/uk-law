@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Arrangements for care outwith prison[^key-1f7a4d88b6a4b99d15fd8d534a9d8f3e]
+## 39. Arrangements for care outwith prison[^c-1f7a4d88b6a4b99d15fd8d534a9d8f3e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ the Governor must comply with paragraph (2) or paragraph (3).
 
 ## Annotations
 
-[^key-1f7a4d88b6a4b99d15fd8d534a9d8f3e]: Textual amendment: Rule 39 substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/5)
+[^c-1f7a4d88b6a4b99d15fd8d534a9d8f3e]: Textual amendment: Rule 39 substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/5)

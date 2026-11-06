@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Lead signatories and countersignatories: acceptance or refusal of nomination and removal from the register[^key-75dd4d4fc014d8d79310e5660ae0f34e]
+## 52. Lead signatories and countersignatories: acceptance or refusal of nomination and removal from the register[^c-75dd4d4fc014d8d79310e5660ae0f34e]
 
 *Extent: S*
 
-(1)[^key-7a88e80fbbf8844d050c1e108fb2f613] Subject to subsection (2), the Scottish Ministers must accept the nomination of an individual as the lead signatory or a countersignatory of an accredited body if—
+(1)[^c-7a88e80fbbf8844d050c1e108fb2f613] Subject to subsection (2), the Scottish Ministers must accept the nomination of an individual as the lead signatory or a countersignatory of an accredited body if—
 
 - (a) the individual is 18 years of age or older, and
 - (b) the individual is—
@@ -33,7 +33,7 @@ summary: ''
 (3) The Scottish Ministers may remove all of the prescribed details of a lead signatory or countersignatory of an accredited body from the entry for the accredited body in the register of accredited bodies if they consider that—
 
 - (a) the lead signatory or countersignatory is not a suitable person to have access to disclosure information, or
-- (b)[^key-7a88e80fbbf8844d050c1e108fb2f613] the lead signatory or countersignatory has failed to comply with the code of practice published under section 55.
+- (b)[^c-7a88e80fbbf8844d050c1e108fb2f613] the lead signatory or countersignatory has failed to comply with the code of practice published under section 55.
 
 (4) In determining, for the purposes of subsection (2) or (3)(a), whether an individual is a suitable person to have access to disclosure information, the Scottish Ministers may have regard in particular to—
 
@@ -47,7 +47,7 @@ summary: ''
   - (ii) of the reasons for considering that refusal, and
 - (b) give the individual an opportunity to make representations.
 
-(6)[^key-7a88e80fbbf8844d050c1e108fb2f613] Before deciding to remove all of the prescribed details of the lead signatory or a countersignatory of an accredited body from the entry for the accredited body in the register of accredited bodies under subsection (3)(a) or (b), the Scottish Ministers must—
+(6)[^c-7a88e80fbbf8844d050c1e108fb2f613] Before deciding to remove all of the prescribed details of the lead signatory or a countersignatory of an accredited body from the entry for the accredited body in the register of accredited bodies under subsection (3)(a) or (b), the Scottish Ministers must—
 
 - (a) notify the lead signatory or countersignatory—
   - (i) that they are considering whether to remove the details from the register of accredited bodies, and
@@ -68,6 +68,6 @@ relates only to the lead signatory acting in relation to Level 2 disclosures on 
 
 ## Annotations
 
-[^key-75dd4d4fc014d8d79310e5660ae0f34e]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2020/13/section/52) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-75dd4d4fc014d8d79310e5660ae0f34e]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2020/13/section/52) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-7a88e80fbbf8844d050c1e108fb2f613]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2020/13/section/52/1)[(3)(b)](https://www.legislation.gov.uk/asp/2020/13/section/52/3/b)[(6)](https://www.legislation.gov.uk/asp/2020/13/section/52/6) in force at 3.3.2025 by [S.S.I. 2025/2](https://www.legislation.gov.uk/ssi/2025/2), [reg. 2](https://www.legislation.gov.uk/ssi/2025/2/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/2/schedule)
+[^c-7a88e80fbbf8844d050c1e108fb2f613]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2020/13/section/52/1)[(3)(b)](https://www.legislation.gov.uk/asp/2020/13/section/52/3/b)[(6)](https://www.legislation.gov.uk/asp/2020/13/section/52/6) in force at 3.3.2025 by [S.S.I. 2025/2](https://www.legislation.gov.uk/ssi/2025/2), [reg. 2](https://www.legislation.gov.uk/ssi/2025/2/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/2/schedule)

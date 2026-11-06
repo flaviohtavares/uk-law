@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Application of Part where compulsory supervision order in force[^key-b7e25acd4892a1fc0d405e7532737c85]
+## 118. Application of Part where compulsory supervision order in force[^c-b7e25acd4892a1fc0d405e7532737c85]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7e25acd4892a1fc0d405e7532737c85]: Commencement: S. 118 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b7e25acd4892a1fc0d405e7532737c85]: Commencement: S. 118 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

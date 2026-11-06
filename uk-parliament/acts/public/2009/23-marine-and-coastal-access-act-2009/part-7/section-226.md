@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Byelaws: enforcement[^key-df3566168dadb2e5abbb3e1619bb5f95]
+## 226. Byelaws: enforcement[^c-df3566168dadb2e5abbb3e1619bb5f95]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 211 of the Water Resources Act 1991 (c. 57) (enforcement of byelaws),
 
 ## Annotations
 
-[^key-df3566168dadb2e5abbb3e1619bb5f95]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2009/23/section/226) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-df3566168dadb2e5abbb3e1619bb5f95]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2009/23/section/226) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)

@@ -45,15 +45,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-#### CHAPTER A1[^key-94740ad0c4ccd3877b3580ddf47ca7eb]
+#### CHAPTER A1[^c-94740ad0c4ccd3877b3580ddf47ca7eb]
 
-##### Provision of bus services etc. by local transport authorities[^key-94740ad0c4ccd3877b3580ddf47ca7eb]
+##### Provision of bus services etc. by local transport authorities[^c-94740ad0c4ccd3877b3580ddf47ca7eb]
 
 - [Section 2A — Provision of bus services etc. by local transport authorities](part-2/section-2a.md)
 
-#### CHAPTER 1 — Bus services improvement partnerships[^key-9c57e144c310e4e8000f0a0f750e3a2d]
+#### CHAPTER 1 — Bus services improvement partnerships[^c-9c57e144c310e4e8000f0a0f750e3a2d]
 
-##### Partnership plans and schemes[^key-9c57e144c310e4e8000f0a0f750e3a2d]
+##### Partnership plans and schemes[^c-9c57e144c310e4e8000f0a0f750e3a2d]
 
 *Extent: S*
 
@@ -81,9 +81,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 11 — Regulations as respects quality partnership schemes](part-2/section-11.md)
 - [Section 12 — Eligibility for service subsidies](part-2/section-12.md)
 
-#### CHAPTER 2 — Local services franchises[^key-60f1e149cda41f43d84dd525aba7a7d6]
+#### CHAPTER 2 — Local services franchises[^c-60f1e149cda41f43d84dd525aba7a7d6]
 
-##### Franchising frameworks and franchise agreements[^key-60f1e149cda41f43d84dd525aba7a7d6]
+##### Franchising frameworks and franchise agreements[^c-60f1e149cda41f43d84dd525aba7a7d6]
 
 *Extent: S*
 
@@ -91,7 +91,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 13A — Franchising frameworks and franchise agreements](part-2/section-13a.md)
 - [Section 13B — Effects of franchising framework](part-2/section-13b.md)
 
-##### Process for making franchising frameworks[^key-60f1e149cda41f43d84dd525aba7a7d6]
+##### Process for making franchising frameworks[^c-60f1e149cda41f43d84dd525aba7a7d6]
 
 - [Section 13C — Overview of process](part-2/section-13c.md)
 - [Section 13D — Proposed franchising frameworks](part-2/section-13d.md)
@@ -103,11 +103,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 13J — Approval of proposed franchising frameworks](part-2/section-13j.md)
 - [Section 13K — Making of franchising framework](part-2/section-13k.md)
 
-##### Entering into franchise agreements[^key-60f1e149cda41f43d84dd525aba7a7d6]
+##### Entering into franchise agreements[^c-60f1e149cda41f43d84dd525aba7a7d6]
 
 - [Section 13L — Entering into franchise agreements](part-2/section-13l.md)
 
-##### Postponement, variation and revocation of franchise frameworks[^key-60f1e149cda41f43d84dd525aba7a7d6]
+##### Postponement, variation and revocation of franchise frameworks[^c-60f1e149cda41f43d84dd525aba7a7d6]
 
 - [Section 13M — Postponing commencement of franchising frameworks or variations](part-2/section-13m.md)
 - [Section 13N — Applications for approval to vary or revoke franchising frameworks](part-2/section-13n.md)
@@ -147,7 +147,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 34 — Duty of authority to make information available](part-2/section-34.md)
 - [Section 35 — Bus information: supplementary](part-2/section-35.md)
 
-##### Zero-emission vehicles[^key-c6b4198171b4ca3aab21b3e5bd4e5a86]
+##### Zero-emission vehicles[^c-c6b4198171b4ca3aab21b3e5bd4e5a86]
 
 - [Section 35B — Use of zero-emission vehicles for local services](part-2/section-35b.md)
 
@@ -270,10 +270,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-94740ad0c4ccd3877b3580ddf47ca7eb]: Textual amendment: Pt. 2 Ch. A1 inserted (24.6.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 34(1)(a)](https://www.legislation.gov.uk/asp/2019/17/section/34/1/a), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/a)
+[^c-94740ad0c4ccd3877b3580ddf47ca7eb]: Textual amendment: Pt. 2 Ch. A1 inserted (24.6.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 34(1)(a)](https://www.legislation.gov.uk/asp/2019/17/section/34/1/a), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/a)
 
-[^key-9c57e144c310e4e8000f0a0f750e3a2d]: Textual amendment: Pt. 2 Ch. 1 substituted for ss. 3-12 and cross-heading (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 35(2)](https://www.legislation.gov.uk/asp/2019/17/section/35/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)) (as amended (27.11.2023) by [S.S.I. 2023/347](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/2)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-9c57e144c310e4e8000f0a0f750e3a2d]: Textual amendment: Pt. 2 Ch. 1 substituted for ss. 3-12 and cross-heading (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 35(2)](https://www.legislation.gov.uk/asp/2019/17/section/35/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)) (as amended (27.11.2023) by [S.S.I. 2023/347](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/2)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-60f1e149cda41f43d84dd525aba7a7d6]: Textual amendment: Pt. 2 Ch. 2 substituted for ss. 13-27 and cross-heading (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 38(2)](https://www.legislation.gov.uk/asp/2019/17/section/38/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-60f1e149cda41f43d84dd525aba7a7d6]: Textual amendment: Pt. 2 Ch. 2 substituted for ss. 13-27 and cross-heading (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 38(2)](https://www.legislation.gov.uk/asp/2019/17/section/38/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-c6b4198171b4ca3aab21b3e5bd4e5a86]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/asp/2001/2/section/35B) and cross-heading inserted (27.10.2025 for the purposes of making regulations) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/38/2), [41(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/4)
+[^c-c6b4198171b4ca3aab21b3e5bd4e5a86]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/asp/2001/2/section/35B) and cross-heading inserted (27.10.2025 for the purposes of making regulations) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/38/2), [41(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/4)

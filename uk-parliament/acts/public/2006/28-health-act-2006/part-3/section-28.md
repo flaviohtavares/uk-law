@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Control of pharmacy premises: bodies corporate[^key-9cb0bff0a62beaba7e3e3412194305ed]
+## 28. Control of pharmacy premises: bodies corporate[^c-9cb0bff0a62beaba7e3e3412194305ed]
 
 *Extent: E+W*
 
@@ -53,14 +53,14 @@ summary: ''
 > - (b) a statement in writing signed by him, and signed on behalf of the body corporate, specifying his name and stating whether he is a member of the board of that body or not, has been sent to the registrar, and
 > - (c) he does not act in a similar capacity for any other body corporate.
 >
-> (7)[^key-876c089f5b0239738dbfe4d75011cade] In subsection (6)(a) “pharmacist” does not include a person registered in Part 3 of the Register of Pharmacists maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007 (visiting pharmacists from relevant European States) or a person registered in the register of visiting pharmaceutical chemists from a relevant European State maintained under Article 9 of the Pharmacy (Northern Ireland) Order 1976.[^key-c1a88eb52656d42177e34f97d12d4ffc].
+> (7)[^c-876c089f5b0239738dbfe4d75011cade] In subsection (6)(a) “pharmacist” does not include a person registered in Part 3 of the Register of Pharmacists maintained under article 10(1) of the Pharmacists and Pharmacy Technicians Order 2007 (visiting pharmacists from relevant European States) or a person registered in the register of visiting pharmaceutical chemists from a relevant European State maintained under Article 9 of the Pharmacy (Northern Ireland) Order 1976.[^c-c1a88eb52656d42177e34f97d12d4ffc].
 
 (2) In section 124 of the Medicines Act 1968 (c. 67) (offences by bodies corporate), in subsection (2)(b), for “subsection (1)(a)” substitute “ subsection (4)(b) ”.
 
 ## Annotations
 
-[^key-9cb0bff0a62beaba7e3e3412194305ed]: Commencement: S. 28 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
+[^c-9cb0bff0a62beaba7e3e3412194305ed]: Commencement: S. 28 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
 
-[^key-876c089f5b0239738dbfe4d75011cade]: Textual amendment: Words in s. 28(1) added (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [103(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/103/b)
+[^c-876c089f5b0239738dbfe4d75011cade]: Textual amendment: Words in s. 28(1) added (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [103(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/103/b)
 
-[^key-c1a88eb52656d42177e34f97d12d4ffc]: Textual amendment: Words in s. 28(1) inserted (22.5.2008) by [The European Qualifications (Pharmacy) Regulations (Northern Ireland) 2008 (S.R. 2008/192)](https://www.legislation.gov.uk/nisr/2008/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/192/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2008/192/regulation/15)
+[^c-c1a88eb52656d42177e34f97d12d4ffc]: Textual amendment: Words in s. 28(1) inserted (22.5.2008) by [The European Qualifications (Pharmacy) Regulations (Northern Ireland) 2008 (S.R. 2008/192)](https://www.legislation.gov.uk/nisr/2008/192), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/192/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2008/192/regulation/15)

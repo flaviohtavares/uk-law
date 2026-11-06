@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Powers exercisable in relation to particular articles or substances[^key-4c8385e5032f5d9a7ead4b1e0ef1e31e]
+## 245. Powers exercisable in relation to particular articles or substances[^c-4c8385e5032f5d9a7ead4b1e0ef1e31e]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c8385e5032f5d9a7ead4b1e0ef1e31e]: Commencement: Reg. 245 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4c8385e5032f5d9a7ead4b1e0ef1e31e]: Commencement: Reg. 245 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

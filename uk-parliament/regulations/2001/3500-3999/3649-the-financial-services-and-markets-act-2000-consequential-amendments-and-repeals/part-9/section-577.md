@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 577. Limits on investments[^key-a867bc054f04bf38a6a3d2815c2e30ae]
+## 577. Limits on investments[^c-a867bc054f04bf38a6a3d2815c2e30ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a867bc054f04bf38a6a3d2815c2e30ae]: Textual amendment: [Regs. 574-578](https://www.legislation.gov.uk/uksi/2001/3649/regulation/574) revoked (1.1.2010) by [The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2009 (S.I. 2009/3093)](https://www.legislation.gov.uk/uksi/2009/3093), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3093/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3093/schedule/2)
+[^c-a867bc054f04bf38a6a3d2815c2e30ae]: Textual amendment: [Regs. 574-578](https://www.legislation.gov.uk/uksi/2001/3649/regulation/574) revoked (1.1.2010) by [The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2009 (S.I. 2009/3093)](https://www.legislation.gov.uk/uksi/2009/3093), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3093/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3093/schedule/2)

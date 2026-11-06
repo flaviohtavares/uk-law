@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Definitions[^key-0c80629e27aab5a2388d74980688bfb8][^key-1e82b3a768415c409ce4091fbc474b6e]
+## 89. Definitions[^c-0c80629e27aab5a2388d74980688bfb8][^c-1e82b3a768415c409ce4091fbc474b6e]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c80629e27aab5a2388d74980688bfb8]: Commencement: S. 89 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-0c80629e27aab5a2388d74980688bfb8]: Commencement: S. 89 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-1e82b3a768415c409ce4091fbc474b6e]: Commencement: [S. 89](https://www.legislation.gov.uk/asc/2024/3/section/89) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-1e82b3a768415c409ce4091fbc474b6e]: Commencement: [S. 89](https://www.legislation.gov.uk/asc/2024/3/section/89) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

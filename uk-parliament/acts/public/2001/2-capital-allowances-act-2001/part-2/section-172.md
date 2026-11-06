@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of this Part, ownership of plant or machinery that is, or becomes, a fixture is determined under this Chapter.
 
-(2A)[^key-75e57cc740c8428cb739a5bb6ebf2824] Subsections (1) and (2) are subject to section 172A.
+(2A)[^c-75e57cc740c8428cb739a5bb6ebf2824] Subsections (1) and (2) are subject to section 172A.
 
 (3) The provisions of this Chapter that treat a person as being the owner of a fixture (see sections 176 to 184 and 193 to 195B[^c1871764]) are subject to the provisions of this Chapter which treat a person as ceasing to be the owner of a fixture (see sections 188 to 192A[^c1871766]).
 
@@ -39,7 +39,7 @@ are to be read as references to the person being so treated for the purposes of 
 
 ## Annotations
 
-[^key-75e57cc740c8428cb739a5bb6ebf2824]: Textual amendment: S. 172(2A) inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/9/1)
+[^c-75e57cc740c8428cb739a5bb6ebf2824]: Textual amendment: S. 172(2A) inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/9/1)
 
 [^c1871764]: Textual amendment: Word in s. 172(3) substituted (with effect as mentioned in s. 66 of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 66](https://www.legislation.gov.uk/ukpga/2001/9/section/66), [Sch. 18 para. 1(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/18/paragraph/1/a)
 

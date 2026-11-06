@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 31A, 104(1)(a) and 105(1) of the Control of Pollution Act 1974[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement, interpretation and extent[^key-13ccfa6c06c6077f129c60a4fe5f663c]
+## 1. Citation, commencement, interpretation and extent[^c-13ccfa6c06c6077f129c60a4fe5f663c]
 
 (1) These Regulations may be cited as the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003 and shall come into force on 1st December 2003.
 
@@ -95,7 +95,7 @@ in so far as the standard, code of practice, international standard or technical
 
 (5) These Regulations shall extend to Scotland only.
 
-## 2. Making and storage of silage[^key-62b50a8a33b11daf4a03ef92a07ec0f8]
+## 2. Making and storage of silage[^c-62b50a8a33b11daf4a03ef92a07ec0f8]
 
 (1) Subject to regulation 6, no person shall have custody or control of any crop which is being made into silage or of any silage which is being stored unless–
 
@@ -104,13 +104,13 @@ in so far as the standard, code of practice, international standard or technical
 
 (2) No person having custody or control of any crop which is being or has been made into silage in the manner described in paragraph (1)(b) shall open or remove the wrapping of any bales unless that person does so at a place at least 10 metres from any inland or coastal waters.
 
-## 3. Storage of slurry[^key-db1beb197ef0404127be54ce5c1e6889]
+## 3. Storage of slurry[^c-db1beb197ef0404127be54ce5c1e6889]
 
 (1) Subject to paragraph (2), a person having custody or control of slurry shall store it in a slurry storage system in relation to which the requirements of Schedule 2 are satisfied or which is an exempt structure by virtue of regulation 5.
 
 (2) Paragraph (1) shall not apply to slurry while it is stored temporarily in a tanker with a capacity not exceeding 18,000 litres which is used for transporting slurry on roads or about a farm.
 
-## 4. Storage of fuel oil on farms[^key-7c58d2c9b72c3d715f05bd137795bfea]
+## 4. Storage of fuel oil on farms[^c-7c58d2c9b72c3d715f05bd137795bfea]
 
 (1) Subject to paragraph (2), no person shall have custody or control of fuel oil on a farm unless it is stored–
 
@@ -122,14 +122,14 @@ in so far as the standard, code of practice, international standard or technical
 
 (2) Paragraph (1) shall not apply if the total quantity of fuel oil stored on the farm does not exceed 1,250 litres.
 
-## 5. Exemptions[^key-6e0c5f1cbd73632fefb31a926aca383e]
+## 5. Exemptions[^c-6e0c5f1cbd73632fefb31a926aca383e]
 
 A silo, slurry storage system or fuel storage tank or container is for the time being an exempt structure if–
 
 - (a) it was an exempt structure under the 2001 Regulations and had not ceased to be an exempt structure on the date immediately before the coming into force of these Regulations; and
 - (b) it does not cease to be an exempt structure by virtue of regulation 7(1).
 
-## 6.[^key-6508abba7412b49ba82d89690f577d36]
+## 6.[^c-6508abba7412b49ba82d89690f577d36]
 
 (1) Subject to paragraph (2), regulation 2 shall not apply where a person makes bulk bagged silage on a farm in bags which–
 
@@ -141,7 +141,7 @@ A silo, slurry storage system or fuel storage tank or container is for the time 
 
 (3) No person having custody or control of any crop which has been made into silage in the manner described in paragraph (1) shall open or empty any bag in which silage has been made unless that person does so at a place at least 10 metres from any inland or coastal waters.
 
-## 7. Loss of exemption[^key-5b83fc02f744fcc6e86d136f519291e2]
+## 7. Loss of exemption[^c-5b83fc02f744fcc6e86d136f519291e2]
 
 (1) A structure to which the circumstances set out at regulation 5(a) apply shall cease to be an exempt structure if–
 
@@ -151,7 +151,7 @@ A silo, slurry storage system or fuel storage tank or container is for the time 
 
 (2) Any reference in paragraph (1) to the period stated in a notice is to that period as extended if it has been extended under regulation 8(5) or by virtue of regulation 9(5) or (6) and any reference in that paragraph to a requirement of a notice is to that requirement as modified if it has been modified under regulation 8(5) or by virtue of regulation 9(5).
 
-## 8. Notice requiring works etc.[^key-3a12fafd9fd449bed86868a4609491c4]
+## 8. Notice requiring works etc.[^c-3a12fafd9fd449bed86868a4609491c4]
 
 (1) SEPA may serve notice on any person, who has custody or control of any relevant substance in circumstances in which these Regulations apply, requiring that person to carry out such works, take such precautions or take such other steps as are specified in the notice and which, in the opinion of SEPA, are appropriate, having regard to any requirements of these Regulations in relation to that substance, for reducing to a minimum any significant risk of pollution of inland or coastal waters arising from the custody or control of that substance.
 
@@ -169,7 +169,7 @@ A silo, slurry storage system or fuel storage tank or container is for the time 
 
 and shall do so, if so directed by the Scottish Ministers under regulation 9(5).
 
-## 9. Appeals against notices[^key-7ccec9980e16b2725377d223beaebb1f]
+## 9. Appeals against notices[^c-7ccec9980e16b2725377d223beaebb1f]
 
 (1) A person served with a notice under regulation 8 may within the period of 28 days beginning with the day on which that notice is served (or within such longer period as the Scottish Ministers may allow) appeal to the Scottish Ministers against the notice.
 
@@ -189,18 +189,18 @@ and shall do so, if so directed by the Scottish Ministers under regulation 9(5).
 
 (6) The period for compliance with a notice under regulation 8 shall, subject to any direction under paragraph (5), be extended so that it expires on the date on which the Scottish Ministers finally determine the appeal or, if the appeal is withdrawn, the date on which it is withdrawn.
 
-## 10. Notification requirements[^key-3f75aa40ff6f91b7cf6b9ecbdfd18f7e]
+## 10. Notification requirements[^c-3f75aa40ff6f91b7cf6b9ecbdfd18f7e]
 
 A person who proposes to have custody or control of any relevant substance which is to be kept or stored on a farm in a silo, slurry storage system or, as the case may be, fuel storage area constructed, substantially enlarged or substantially reconstructed on or after 29th December 2003 shall serve notice on SEPA specifying the type of structure to be used and its location at least 28 days before it is to be used for such purpose.
 
-## 11. Offences[^key-698d796b11cb5471d0fa1d94920dfe81]
+## 11. Offences[^c-698d796b11cb5471d0fa1d94920dfe81]
 
 A person who contravenes regulation 2(1), 2(2), 3(1), 4(1), 6 or 10 shall be guilty of an offence and liable–
 
 - (a) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding £20,000 or to both; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
-## 12. Revocations[^key-6702e7b758f074f6da78ba0cb3e961fa]
+## 12. Revocations[^c-6702e7b758f074f6da78ba0cb3e961fa]
 
 The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 1999[^f00004] (insofar as they remain in force) and the 2001 Regulations are revoked.
 
@@ -216,52 +216,52 @@ St Andrew’s House, Edinburgh
 
 Regulation 2(1)(a)
 
-**1.**[^key-ab35c8688a2ab811b775124bd4a0be0c] The requirements which have to be satisfied in relation to a silo are that–
+**1.**[^c-ab35c8688a2ab811b775124bd4a0be0c] The requirements which have to be satisfied in relation to a silo are that–
 
 - (a) it complies with the following provisions of this Schedule; or
 - (b) it is designed and constructed in accordance with the standard on cylindrical forage tower silos as published by the BS 5502 (parts relating to Cylindrical Forage Towers).
 
-**2.**[^key-8a09a683ea3cd8cf5288682fa55bb2bc] The base of the silo shall, where the silo has retaining walls made other than of earth, extend beyond those walls and shall in all cases be provided with channels so constructed as to collect any silage effluent which may escape from the silo and adequate provision shall be made for the drainage of that effluent from the channels to an effluent tank through a channel or pipe.
+**2.**[^c-8a09a683ea3cd8cf5288682fa55bb2bc] The base of the silo shall, where the silo has retaining walls made other than of earth, extend beyond those walls and shall in all cases be provided with channels so constructed as to collect any silage effluent which may escape from the silo and adequate provision shall be made for the drainage of that effluent from the channels to an effluent tank through a channel or pipe.
 
-**3.**[^key-c3ea6d5756bc1de4f01a0ec762793176] (1) Subject to sub paragraph (2) below, the capacity of the effluent tank–
+**3.**[^c-c3ea6d5756bc1de4f01a0ec762793176] (1) Subject to sub paragraph (2) below, the capacity of the effluent tank–
 
 - (a) in the case of a silo with a capacity of less than 1500 cubic metres, shall be not less than 3 cubic metres for each 150 cubic metres or part thereof of silo capacity; or
 - (b) in the case of a silo with a capacity of 1500 cubic metres or more, shall be not less than 30 cubic metres plus 1 cubic metre for each 150 cubic metres or part thereof of silo capacity in excess of 1500 cubic metres.
 
 (2) The effluent collection system associated with silos may, with the agreement of SEPA, incorporate a system of pumps and sumps, together with detailed sizing, pumping and management requirements, designed to reduce the capacity of the effluent tank.
 
-**4.**[^key-8200991b973587c115dcc7c39d4b44a7] The base of the silo, the base and walls of its effluent tank and channels and the walls of any pipes shall be impermeable.
+**4.**[^c-8200991b973587c115dcc7c39d4b44a7] The base of the silo, the base and walls of its effluent tank and channels and the walls of any pipes shall be impermeable.
 
-**5.**[^key-35819807a168d28e02d5ac939406067d] The base and any walls of the silo, its effluent tank and channels and the walls of any pipes shall, so far as reasonably practicable, be resistant to attack by silage effluent and, where the walls are made of earth, they shall be lined with an impermeable membrane.
+**5.**[^c-35819807a168d28e02d5ac939406067d] The base and any walls of the silo, its effluent tank and channels and the walls of any pipes shall, so far as reasonably practicable, be resistant to attack by silage effluent and, where the walls are made of earth, they shall be lined with an impermeable membrane.
 
-**6.**[^key-948b775e122f2509d1d0235ef86ac9a8] No part of the silo, its effluent tank or channels or any associated pipes shall be situated within 10 metres of any inland or coastal waters which silage effluent could enter if it were to escape.
+**6.**[^c-948b775e122f2509d1d0235ef86ac9a8] No part of the silo, its effluent tank or channels or any associated pipes shall be situated within 10 metres of any inland or coastal waters which silage effluent could enter if it were to escape.
 
-**7.**[^key-96d8d6d64835ce0fe95cc4be7ce83a5f] If the silo has retaining walls–
+**7.**[^c-96d8d6d64835ce0fe95cc4be7ce83a5f] If the silo has retaining walls–
 
 - (a) the retaining walls shall be capable of withstanding minimum wall loadings calculated on the assumptions and in the manner indicated by paragraph 15.6.1 to 15.6.3 of BS 5502 (Part 22: 1993); and
 - (b) the silo shall at no time be loaded to a depth exceeding the maximum depth consistent with the design assumption made in respect of the loadings of the retaining walls.
 
-**8.**[^key-bde1c75ad29093dbb66a3701cd885d4f] Subject to paragraph 9, the silo, its effluent tank and channels and any pipes shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 5 and, if applicable, 7(a) for a period of at least 20 years.
+**8.**[^c-bde1c75ad29093dbb66a3701cd885d4f] Subject to paragraph 9, the silo, its effluent tank and channels and any pipes shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 5 and, if applicable, 7(a) for a period of at least 20 years.
 
-**9.**[^key-d807fa9454c86273325b3c9ab04af22d] Where any part of an effluent tank is installed below ground level, it shall be designed and constructed in accordance with BS 5502 as referred to in paragraph 7(a) so that with proper maintenance it is likely to satisfy the requirements of paragraphs 4 and 5 for a period of at least 20 years.
+**9.**[^c-d807fa9454c86273325b3c9ab04af22d] Where any part of an effluent tank is installed below ground level, it shall be designed and constructed in accordance with BS 5502 as referred to in paragraph 7(a) so that with proper maintenance it is likely to satisfy the requirements of paragraphs 4 and 5 for a period of at least 20 years.
 
 ## SCHEDULE 2 — REQUIREMENTS FOR SLURRY STORAGE SYSTEMS
 
 Regulation 3(1)
 
-**1.**[^key-269b03dc4d5bf55a0872385ad381ba5e] The requirements which have to be satisfied in relation to a slurry storage system are as follows.
+**1.**[^c-269b03dc4d5bf55a0872385ad381ba5e] The requirements which have to be satisfied in relation to a slurry storage system are as follows.
 
-**2.**[^key-b45a8f95f1fc272c015245de1828696c] The base of the slurry storage tank, the base and walls of any effluent tank, channels and reception pit and the walls of any pipes shall be impermeable.
+**2.**[^c-b45a8f95f1fc272c015245de1828696c] The base of the slurry storage tank, the base and walls of any effluent tank, channels and reception pit and the walls of any pipes shall be impermeable.
 
-**3.**[^key-a1b34a1ac5930020076c17ed03ee3de9] The base and walls of the slurry storage tank, any effluent tank, channels and reception pit and the walls of any pipes shall be protected against corrosion in accordance with paragraph 7.2 of BS 5502 (Part 50: 1993).
+**3.**[^c-a1b34a1ac5930020076c17ed03ee3de9] The base and walls of the slurry storage tank, any effluent tank, channels and reception pit and the walls of any pipes shall be protected against corrosion in accordance with paragraph 7.2 of BS 5502 (Part 50: 1993).
 
-**4.**[^key-8b74c29454d76227862d51bc5e63758d] The base and walls of the slurry storage tank and any reception pit shall be capable of withstanding characteristic loads calculated on the assumptions and in the manner indicated by paragraph 5 of that Code of Practice.
+**4.**[^c-8b74c29454d76227862d51bc5e63758d] The base and walls of the slurry storage tank and any reception pit shall be capable of withstanding characteristic loads calculated on the assumptions and in the manner indicated by paragraph 5 of that Code of Practice.
 
-**5.**[^key-1e501fcb504dab8c25c439f366a7e2bc] (1) Any facilities used for the temporary storage of slurry before it is transferred to a slurry storage tank shall have adequate capacity to store the maximum quantity of slurry which (disregarding any slurry which will be transferred directly into a slurry storage tank) is likely to be produced on a farm in any two day period, or such smaller capacity as SEPA may agree in writing is adequate to avoid any significant risk of pollution of inland or coastal waters.
+**5.**[^c-1e501fcb504dab8c25c439f366a7e2bc] (1) Any facilities used for the temporary storage of slurry before it is transferred to a slurry storage tank shall have adequate capacity to store the maximum quantity of slurry which (disregarding any slurry which will be transferred directly into a slurry storage tank) is likely to be produced on a farm in any two day period, or such smaller capacity as SEPA may agree in writing is adequate to avoid any significant risk of pollution of inland or coastal waters.
 
 (2) Where slurry flows into a channel before discharging into a reception pit and the flow of slurry out of the channel is controlled by means of a sluice, the capacity of the reception pit shall be adequate to store the maximum quantity of slurry which can be released by opening the sluice.
 
-**6.**[^key-d9bc50209c112d22d713cafe76a11553] (1) Subject to sub-paragraph (2) below, the slurry storage tank shall have adequate storage capacity for the likely quantities of slurry produced from time to time on the farm in question having regard to–
+**6.**[^c-d9bc50209c112d22d713cafe76a11553] (1) Subject to sub-paragraph (2) below, the slurry storage tank shall have adequate storage capacity for the likely quantities of slurry produced from time to time on the farm in question having regard to–
 
 - (a) the proposed method of disposal of the slurry (including the likely rates and times of disposal); and
 - (b) the matters mentioned in sub-paragraph (3) below.
@@ -274,25 +274,25 @@ Regulation 3(1)
 - (b) the likely quantities of rainfall (including any fall of snow, hail or sleet) which may fall or drain into the slurry storage tank during the likely maximum storage period; and
 - (c) the need to make provision for not less than 750 millimetres of freeboard in the case of a tank with walls made of earth and 300 millimetres of freeboard in all other cases.
 
-**7.**[^key-f6e8d314c0eea44a3522d6ebb1b694e6] No part of the slurry storage tank or any effluent tank, channels, pipes or reception pit shall be situated within 10 metres of any inland or coastal waters which slurry could enter if it were to escape.
+**7.**[^c-f6e8d314c0eea44a3522d6ebb1b694e6] No part of the slurry storage tank or any effluent tank, channels, pipes or reception pit shall be situated within 10 metres of any inland or coastal waters which slurry could enter if it were to escape.
 
-**8.**[^key-66f5ad510724547daa8827cb56ab22a2] The slurry storage tank and any effluent tank, channels, pipes and reception pit shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 4 for a period of at least 20 years.
+**8.**[^c-66f5ad510724547daa8827cb56ab22a2] The slurry storage tank and any effluent tank, channels, pipes and reception pit shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 4 for a period of at least 20 years.
 
-**9.**[^key-f5852693a39cc6a279954fa51af1b7d2] Where the walls of the slurry storage tank are not impermeable, the base of the tank shall extend beyond its walls and shall be provided with channels designed and constructed so as to collect any slurry which may escape from the tank and adequate provision shall be made for the drainage of the slurry from the channels to an effluent tank through a channel or pipe.
+**9.**[^c-f5852693a39cc6a279954fa51af1b7d2] Where the walls of the slurry storage tank are not impermeable, the base of the tank shall extend beyond its walls and shall be provided with channels designed and constructed so as to collect any slurry which may escape from the tank and adequate provision shall be made for the drainage of the slurry from the channels to an effluent tank through a channel or pipe.
 
-**10.**[^key-d6ff3c06594c65920666a54287284dfa] (1) Subject to sub-paragraph (2) below, where the slurry storage tank, any effluent tank or reception pit is fitted with a drainage pipe, there shall be two valves in series on the pipe and each valve shall be capable of stopping the flow of slurry through the pipe and shall be kept shut and locked in that position when not in use.
+**10.**[^c-d6ff3c06594c65920666a54287284dfa] (1) Subject to sub-paragraph (2) below, where the slurry storage tank, any effluent tank or reception pit is fitted with a drainage pipe, there shall be two valves in series on the pipe and each valve shall be capable of stopping the flow of slurry through the pipe and shall be kept shut and locked in that position when not in use.
 
 (2) Sub-paragraph (1) above does not apply in relation to a slurry storage tank which drains through the pipe into another slurry storage tank of equal or greater capacity or where the tops of the tanks are at the same level.
 
-**11.**[^key-93ea1b3b4e38a4493c5b707a5f3705c9] In the case of a slurry storage tank with walls which are made of earth, the tank shall not be filled to a level which allows less than 750 millimetres of freeboard, and in all other cases the tank shall not be filled to a level which allows less than 300 millimetres of freeboard.
+**11.**[^c-93ea1b3b4e38a4493c5b707a5f3705c9] In the case of a slurry storage tank with walls which are made of earth, the tank shall not be filled to a level which allows less than 750 millimetres of freeboard, and in all other cases the tank shall not be filled to a level which allows less than 300 millimetres of freeboard.
 
 ## SCHEDULE 3 — REQUIREMENTS FOR FUEL OIL STORAGE AREAS
 
 Regulation 4(1)(a)
 
-**1.**[^key-899949af333837612965577a651ac0f5] The requirements which have to be satisfied in relation to a fuel oil storage area are as follows.
+**1.**[^c-899949af333837612965577a651ac0f5] The requirements which have to be satisfied in relation to a fuel oil storage area are as follows.
 
-**2.**[^key-55385e797ccfcf8aaa1ded1b3b00b81e] The fuel oil storage area shall be surrounded by a bund capable of retaining within the area–
+**2.**[^c-55385e797ccfcf8aaa1ded1b3b00b81e] The fuel oil storage area shall be surrounded by a bund capable of retaining within the area–
 
 - (a) in a case where all the fuel oil within the storage area is contained in one fuel storage tank, a volume of fuel oil not less than 110 per cent of the capacity of the tank;
 - (b) in a case where all the fuel oil within the storage area is contained in more than one fuel storage tank, a volume of fuel oil not less than whichever is the greater of–
@@ -302,18 +302,18 @@ Regulation 4(1)(a)
   - (i) 110 per cent of the capacity of the largest container within the storage area; and
   - (ii) 25 per cent of the total volume of such oil at any time stored within the area.
 
-**3.**[^key-c7e30691184dbca210c37920c05b9a22] The bund and the base of the storage area shall be impermeable and shall be designed and constructed so that with proper maintenance they are likely to remain so for a period of at least 20 years.
+**3.**[^c-c7e30691184dbca210c37920c05b9a22] The bund and the base of the storage area shall be impermeable and shall be designed and constructed so that with proper maintenance they are likely to remain so for a period of at least 20 years.
 
-**4.**[^key-c2e56f8e2c2c2b2d8c6b8f1dd6d59007] Every part of any fuel storage tank shall be within the bund.
+**4.**[^c-c2e56f8e2c2c2b2d8c6b8f1dd6d59007] Every part of any fuel storage tank shall be within the bund.
 
-**5.**[^key-767016c23f74312e3871cea7bc79b171] Any tap or valve permanently fixed to the tank through which fuel oil can be discharged to the open shall also be within the bund, shall be so arranged as to discharge vertically downwards and shall be shut and locked in that position when not in use.
+**5.**[^c-767016c23f74312e3871cea7bc79b171] Any tap or valve permanently fixed to the tank through which fuel oil can be discharged to the open shall also be within the bund, shall be so arranged as to discharge vertically downwards and shall be shut and locked in that position when not in use.
 
-**6.**[^key-5e40a3235513f9746a5e8206a305bf28] Where fuel from the tank is discharged through a flexible pipe which is permanently attached to the tank–
+**6.**[^c-5e40a3235513f9746a5e8206a305bf28] Where fuel from the tank is discharged through a flexible pipe which is permanently attached to the tank–
 
 - (a) it shall be fitted with a tap or valve at its end which closes automatically when not in use; and
 - (b) it shall be kept locked in a way which ensures that it is kept within the bund when not in use.
 
-**7.**[^key-c80ab2192510ca11136cd6f07fb10829] No part of the fuel oil storage area or the bund enclosing it shall be situated within 10 metres of any inland or coastal waters which fuel oil could enter if it were to escape.
+**7.**[^c-c80ab2192510ca11136cd6f07fb10829] No part of the fuel oil storage area or the bund enclosing it shall be situated within 10 metres of any inland or coastal waters which fuel oil could enter if it were to escape.
 
 (This note is not part of the Regulations)
 
@@ -329,86 +329,86 @@ Copies of the documents published by the British Standards Institution referred 
 
 [^f00001]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40); section 31A was inserted by the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), Schedule 23, paragraph 4 and section 31A(2) was amended by the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), section 145(2) and by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraph 29(2); section 104 was amended by the Water Act 1989, Schedule 23, paragraph 7 and was repealed in part by the Environment Act 1995, Schedule 22, paragraph 29(34) and Schedule 24; section 105(1) contains definitions of “prescribed” and “regulations” which are relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-13ccfa6c06c6077f129c60a4fe5f663c]: Commencement: Reg. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-13ccfa6c06c6077f129c60a4fe5f663c]: Commencement: Reg. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2001/206](https://www.legislation.gov.uk/ssi/2001/206), amended by [S.S.I. 2001/248](https://www.legislation.gov.uk/ssi/2001/248).
 
-[^key-62b50a8a33b11daf4a03ef92a07ec0f8]: Commencement: Reg. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-62b50a8a33b11daf4a03ef92a07ec0f8]: Commencement: Reg. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-db1beb197ef0404127be54ce5c1e6889]: Commencement: Reg. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-db1beb197ef0404127be54ce5c1e6889]: Commencement: Reg. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-7c58d2c9b72c3d715f05bd137795bfea]: Commencement: Reg. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-7c58d2c9b72c3d715f05bd137795bfea]: Commencement: Reg. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-6e0c5f1cbd73632fefb31a926aca383e]: Commencement: Reg. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-6e0c5f1cbd73632fefb31a926aca383e]: Commencement: Reg. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-6508abba7412b49ba82d89690f577d36]: Commencement: Reg. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-6508abba7412b49ba82d89690f577d36]: Commencement: Reg. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-5b83fc02f744fcc6e86d136f519291e2]: Commencement: Reg. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-5b83fc02f744fcc6e86d136f519291e2]: Commencement: Reg. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-3a12fafd9fd449bed86868a4609491c4]: Commencement: Reg. 8 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-3a12fafd9fd449bed86868a4609491c4]: Commencement: Reg. 8 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
 [^f00003]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). The code of practice at present in force is the Code of Good Practice for the Prevention of Environmental Pollution from Agricultural Activity approved by S.I. [1997/1584](https://www.legislation.gov.uk/uksi/1997/1584) and as amended by the Nitrogen and Phosphorus Supplement to the Code of Good Practice approved by [S.S.I. 2000/175](https://www.legislation.gov.uk/ssi/2000/175).
 
-[^key-7ccec9980e16b2725377d223beaebb1f]: Commencement: Reg. 9 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-7ccec9980e16b2725377d223beaebb1f]: Commencement: Reg. 9 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-3f75aa40ff6f91b7cf6b9ecbdfd18f7e]: Commencement: Reg. 10 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-3f75aa40ff6f91b7cf6b9ecbdfd18f7e]: Commencement: Reg. 10 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-698d796b11cb5471d0fa1d94920dfe81]: Commencement: Reg. 11 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-698d796b11cb5471d0fa1d94920dfe81]: Commencement: Reg. 11 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-6702e7b758f074f6da78ba0cb3e961fa]: Commencement: Reg. 12 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-6702e7b758f074f6da78ba0cb3e961fa]: Commencement: Reg. 12 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1991/346](https://www.legislation.gov.uk/uksi/1991/346), amended by S.I. [1996/973](https://www.legislation.gov.uk/uksi/1996/973).
 
-[^key-ab35c8688a2ab811b775124bd4a0be0c]: Commencement: Sch. 1 para. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-ab35c8688a2ab811b775124bd4a0be0c]: Commencement: Sch. 1 para. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-8a09a683ea3cd8cf5288682fa55bb2bc]: Commencement: Sch. 1 para. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-8a09a683ea3cd8cf5288682fa55bb2bc]: Commencement: Sch. 1 para. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-c3ea6d5756bc1de4f01a0ec762793176]: Commencement: Sch. 1 para. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-c3ea6d5756bc1de4f01a0ec762793176]: Commencement: Sch. 1 para. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-8200991b973587c115dcc7c39d4b44a7]: Commencement: Sch. 1 para. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-8200991b973587c115dcc7c39d4b44a7]: Commencement: Sch. 1 para. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-35819807a168d28e02d5ac939406067d]: Commencement: Sch. 1 para. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-35819807a168d28e02d5ac939406067d]: Commencement: Sch. 1 para. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-948b775e122f2509d1d0235ef86ac9a8]: Commencement: Sch. 1 para. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-948b775e122f2509d1d0235ef86ac9a8]: Commencement: Sch. 1 para. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-96d8d6d64835ce0fe95cc4be7ce83a5f]: Commencement: Sch. 1 para. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-96d8d6d64835ce0fe95cc4be7ce83a5f]: Commencement: Sch. 1 para. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-bde1c75ad29093dbb66a3701cd885d4f]: Commencement: Sch. 1 para. 8 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-bde1c75ad29093dbb66a3701cd885d4f]: Commencement: Sch. 1 para. 8 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-d807fa9454c86273325b3c9ab04af22d]: Commencement: Sch. 1 para. 9 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-d807fa9454c86273325b3c9ab04af22d]: Commencement: Sch. 1 para. 9 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-269b03dc4d5bf55a0872385ad381ba5e]: Commencement: Sch. 2 para. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-269b03dc4d5bf55a0872385ad381ba5e]: Commencement: Sch. 2 para. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-b45a8f95f1fc272c015245de1828696c]: Commencement: Sch. 2 para. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-b45a8f95f1fc272c015245de1828696c]: Commencement: Sch. 2 para. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-a1b34a1ac5930020076c17ed03ee3de9]: Commencement: Sch. 2 para. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-a1b34a1ac5930020076c17ed03ee3de9]: Commencement: Sch. 2 para. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-8b74c29454d76227862d51bc5e63758d]: Commencement: Sch. 2 para. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-8b74c29454d76227862d51bc5e63758d]: Commencement: Sch. 2 para. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-1e501fcb504dab8c25c439f366a7e2bc]: Commencement: Sch. 2 para. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-1e501fcb504dab8c25c439f366a7e2bc]: Commencement: Sch. 2 para. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-d9bc50209c112d22d713cafe76a11553]: Commencement: Sch. 2 para. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-d9bc50209c112d22d713cafe76a11553]: Commencement: Sch. 2 para. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-f6e8d314c0eea44a3522d6ebb1b694e6]: Commencement: Sch. 2 para. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-f6e8d314c0eea44a3522d6ebb1b694e6]: Commencement: Sch. 2 para. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-66f5ad510724547daa8827cb56ab22a2]: Commencement: Sch. 2 para. 8 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-66f5ad510724547daa8827cb56ab22a2]: Commencement: Sch. 2 para. 8 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-f5852693a39cc6a279954fa51af1b7d2]: Commencement: Sch. 2 para. 9 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-f5852693a39cc6a279954fa51af1b7d2]: Commencement: Sch. 2 para. 9 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-d6ff3c06594c65920666a54287284dfa]: Commencement: Sch. 2 para. 10 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-d6ff3c06594c65920666a54287284dfa]: Commencement: Sch. 2 para. 10 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-93ea1b3b4e38a4493c5b707a5f3705c9]: Commencement: Sch. 2 para. 11 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-93ea1b3b4e38a4493c5b707a5f3705c9]: Commencement: Sch. 2 para. 11 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-899949af333837612965577a651ac0f5]: Commencement: Sch. 3 para. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-899949af333837612965577a651ac0f5]: Commencement: Sch. 3 para. 1 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-55385e797ccfcf8aaa1ded1b3b00b81e]: Commencement: Sch. 3 para. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-55385e797ccfcf8aaa1ded1b3b00b81e]: Commencement: Sch. 3 para. 2 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-c7e30691184dbca210c37920c05b9a22]: Commencement: Sch. 3 para. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-c7e30691184dbca210c37920c05b9a22]: Commencement: Sch. 3 para. 3 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-c2e56f8e2c2c2b2d8c6b8f1dd6d59007]: Commencement: Sch. 3 para. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-c2e56f8e2c2c2b2d8c6b8f1dd6d59007]: Commencement: Sch. 3 para. 4 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-767016c23f74312e3871cea7bc79b171]: Commencement: Sch. 3 para. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-767016c23f74312e3871cea7bc79b171]: Commencement: Sch. 3 para. 5 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-5e40a3235513f9746a5e8206a305bf28]: Commencement: Sch. 3 para. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-5e40a3235513f9746a5e8206a305bf28]: Commencement: Sch. 3 para. 6 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
 
-[^key-c80ab2192510ca11136cd6f07fb10829]: Commencement: Sch. 3 para. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)
+[^c-c80ab2192510ca11136cd6f07fb10829]: Commencement: Sch. 3 para. 7 in force at 1.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2003/531/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. First risk designation[^key-8e30d96fae4df432c94cd0e475386dea]
+## 19. First risk designation[^c-8e30d96fae4df432c94cd0e475386dea]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e30d96fae4df432c94cd0e475386dea]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/9/section/19) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/314/article/2/b)
+[^c-8e30d96fae4df432c94cd0e475386dea]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/9/section/19) in force at 1.10.2015 by [S.S.I. 2015/314](https://www.legislation.gov.uk/ssi/2015/314), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/314/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Assessment and support: local panels[^key-bc94070edb9a6f962c102e7ffb470e92]
+## 36. Assessment and support: local panels[^c-bc94070edb9a6f962c102e7ffb470e92]
 
 *Extent: E+W+S*
 
@@ -25,9 +25,9 @@ summary: ''
 - (a) with the function of assessing the extent to which identified individuals are vulnerable to being drawn into terrorism, and
 - (b) with the other functions mentioned in subsection (4).
 
-(2) “**Identified individual**”, in relation to a panel, means an individual who is referred to the panel by a chief officer of police , or by a local authority,[^key-25136f9fa048b6a63d1359f3c762f918] for an assessment of the kind mentioned in subsection (1)(a).
+(2) “**Identified individual**”, in relation to a panel, means an individual who is referred to the panel by a chief officer of police , or by a local authority,[^c-25136f9fa048b6a63d1359f3c762f918] for an assessment of the kind mentioned in subsection (1)(a).
 
-(3) A chief officer of police or a local authority[^key-f8ba9071098dbf49c5cae4e0000fc67c] may refer an individual to a panel only if there are reasonable grounds to believe that the individual is vulnerable to being drawn into terrorism.
+(3) A chief officer of police or a local authority[^c-f8ba9071098dbf49c5cae4e0000fc67c] may refer an individual to a panel only if there are reasonable grounds to believe that the individual is vulnerable to being drawn into terrorism.
 
 (4) The functions of a panel referred to in subsection (1)(b) are—
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bc94070edb9a6f962c102e7ffb470e92]: Commencement: S. 36 in force at 12.4.2015, see s. 52(2)(a)
+[^c-bc94070edb9a6f962c102e7ffb470e92]: Commencement: S. 36 in force at 12.4.2015, see s. 52(2)(a)
 
-[^key-25136f9fa048b6a63d1359f3c762f918]: Textual amendment: Words in s. 36(2) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/20/3), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-25136f9fa048b6a63d1359f3c762f918]: Textual amendment: Words in s. 36(2) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 20(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/20/3), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
 
-[^key-f8ba9071098dbf49c5cae4e0000fc67c]: Textual amendment: Words in s. 36(3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 20(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/20/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-f8ba9071098dbf49c5cae4e0000fc67c]: Textual amendment: Words in s. 36(3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 20(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/20/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)

@@ -16,27 +16,27 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendments to retained EU law[^key-cec7f937bc3e16b497ad1e45841f9c50]
+## 2. Amendments to retained EU law[^c-cec7f937bc3e16b497ad1e45841f9c50]
 
 *Extent: E+W+S+N.I.*
 
 (1) Schedule 1 contains amendments to the following subordinate legislation—
 
 - (a) the Health and Safety (Enforcing Authority) Regulations 1998 [^c23681211];
-- (b)[^key-b7d28c807cd02f4b2c53045a6830b737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b7d28c807cd02f4b2c53045a6830b737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Control of Substances Hazardous to Health Regulations 2002 [^c23681231];
 - (d) the Dangerous Substances and Explosive Atmospheres Regulations 2002 [^c23681241];
-- (e)[^key-d18c18d64c7cc2e89d0c8c9803c99343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-1dc5faf7e729c3710e900a6bfa65213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d18c18d64c7cc2e89d0c8c9803c99343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-1dc5faf7e729c3710e900a6bfa65213d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the Plant Protection Products (Fees and Charges) Regulations 2011 [^c23681271];
 - (h) the Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 [^c23681281];
-- (i)[^key-10f3faa7c71cd9d83232fc5543a7ff82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-10f3faa7c71cd9d83232fc5543a7ff82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) the Genetically Modified Organisms (Contained Use) Regulations 2014 [^c23681301];
 - (k) the Control of Major Accident Hazards Regulations 2015 [^c23681311];
-- (l)[^key-efc374ec045347bdfdf788c06cee6667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-73187d1bc8ab85fbda475ad7ded62dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-949a53f57e3c7a104ce76285570d3c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (o)[^key-8dbc15a914ed4cb92fb2a5d1c00eb4fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-efc374ec045347bdfdf788c06cee6667] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-73187d1bc8ab85fbda475ad7ded62dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-949a53f57e3c7a104ce76285570d3c57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-8dbc15a914ed4cb92fb2a5d1c00eb4fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (p) the Health and Safety and Nuclear (Fees) Regulations 2016 [^c23681361].
 
 (2) Schedule 2 contains amendments to the following retained direct EU legislation—
@@ -59,36 +59,36 @@ summary: ''
 
 ## Annotations
 
-[^key-cec7f937bc3e16b497ad1e45841f9c50]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cec7f937bc3e16b497ad1e45841f9c50]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23681211]: Marginal citation: [S.I. 1998/494](https://www.legislation.gov.uk/uksi/1998/494), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21).
 
-[^key-b7d28c807cd02f4b2c53045a6830b737]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/a)
+[^c-b7d28c807cd02f4b2c53045a6830b737]: Textual amendment: [Reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/a)
 
 [^c23681231]: Marginal citation: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21).
 
 [^c23681241]: Marginal citation: [S.I. 2002/2776](https://www.legislation.gov.uk/uksi/2002/2776), amended by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21).
 
-[^key-d18c18d64c7cc2e89d0c8c9803c99343]: Textual amendment: [Reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/b)
+[^c-d18c18d64c7cc2e89d0c8c9803c99343]: Textual amendment: [Reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/b)
 
-[^key-1dc5faf7e729c3710e900a6bfa65213d]: Textual amendment: [Reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/c)
+[^c-1dc5faf7e729c3710e900a6bfa65213d]: Textual amendment: [Reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/c)
 
 [^c23681271]: Marginal citation: [S.I. 2011/2132](https://www.legislation.gov.uk/uksi/2011/2132), amended by [S.I. 2016/254](https://www.legislation.gov.uk/uksi/2016/254).
 
 [^c23681281]: Marginal citation: [S.I. 2013/1506](https://www.legislation.gov.uk/uksi/2013/1506).
 
-[^key-10f3faa7c71cd9d83232fc5543a7ff82]: Textual amendment: [Reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/d)
+[^c-10f3faa7c71cd9d83232fc5543a7ff82]: Textual amendment: [Reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/d)
 
 [^c23681301]: Marginal citation: [S.I. 2014/1663](https://www.legislation.gov.uk/uksi/2014/1663), amended by [S.I. 2015/1637](https://www.legislation.gov.uk/uksi/2015/1637).
 
 [^c23681311]: Marginal citation: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483).
 
-[^key-efc374ec045347bdfdf788c06cee6667]: Textual amendment: [Reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/l) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/e)
+[^c-efc374ec045347bdfdf788c06cee6667]: Textual amendment: [Reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/l) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(e)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/e)
 
-[^key-73187d1bc8ab85fbda475ad7ded62dbc]: Textual amendment: [Reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/m) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(f)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/f)
+[^c-73187d1bc8ab85fbda475ad7ded62dbc]: Textual amendment: [Reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/m) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(f)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/f)
 
-[^key-949a53f57e3c7a104ce76285570d3c57]: Textual amendment: [Reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/n) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(g)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/g)
+[^c-949a53f57e3c7a104ce76285570d3c57]: Textual amendment: [Reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/n) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(g)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/g)
 
-[^key-8dbc15a914ed4cb92fb2a5d1c00eb4fc]: Textual amendment: [Reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/o) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(h)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/h)
+[^c-8dbc15a914ed4cb92fb2a5d1c00eb4fc]: Textual amendment: [Reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2019/720/regulation/2/1/o) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [4(h)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/4/h)
 
 [^c23681361]: Marginal citation: [S.I. 2016/253](https://www.legislation.gov.uk/uksi/2016/253).

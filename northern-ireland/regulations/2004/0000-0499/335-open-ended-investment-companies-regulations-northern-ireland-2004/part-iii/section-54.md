@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Name to appear in correspondence etc.[^key-a687d7fd47009bebca908090ef2f8ad6]
+## 54. Name to appear in correspondence etc.[^c-a687d7fd47009bebca908090ef2f8ad6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a687d7fd47009bebca908090ef2f8ad6]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2004/335/regulation/54) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-a687d7fd47009bebca908090ef2f8ad6]: Commencement: [Reg. 54](https://www.legislation.gov.uk/nisr/2004/335/regulation/54) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

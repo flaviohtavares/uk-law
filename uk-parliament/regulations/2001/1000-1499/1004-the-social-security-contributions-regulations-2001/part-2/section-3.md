@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0a53f6be0d17200968052aeeb4b31cc1] If any part of earnings paid to or for the benefit of an earner is normally paid, or is treated under regulation 7 as paid, at regular intervals, the earnings period in respect of those earnings shall be the period found in accordance with the following Table, subject to paragraphs (2) to (6).
+(1)[^c-0a53f6be0d17200968052aeeb4b31cc1] If any part of earnings paid to or for the benefit of an earner is normally paid, or is treated under regulation 7 as paid, at regular intervals, the earnings period in respect of those earnings shall be the period found in accordance with the following Table, subject to paragraphs (2) to (6).
 
 Earnings Periods
 
@@ -57,9 +57,9 @@ The date specified shall not be earlier than that on which the notice is given.
 
 - If an officer of the Board decides that a notice is to cease to have effect, he shall notify the earner and the secondary contributor accordingly.
 
-(3) If the length of the earnings period determined in accordance with paragraph (2B)[^key-30d18bc99cbbfb5995bdfdb7341e9401] is a year, then notwithstanding paragraph (2) , where the change in the length of the earnings period takes effect during the course of a year, the length of the earnings period in respect of any earnings in that year which are paid or treated as paid on or after the change shall be the number of weeks remaining in that year commencing with the week in which the change takes effect.
+(3) If the length of the earnings period determined in accordance with paragraph (2B)[^c-30d18bc99cbbfb5995bdfdb7341e9401] is a year, then notwithstanding paragraph (2) , where the change in the length of the earnings period takes effect during the course of a year, the length of the earnings period in respect of any earnings in that year which are paid or treated as paid on or after the change shall be the number of weeks remaining in that year commencing with the week in which the change takes effect.
 
-(4)[^key-1a8cd9df1331a3175f44aaeb2d24d38f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1a8cd9df1331a3175f44aaeb2d24d38f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where—
 
@@ -76,8 +76,8 @@ the earnings period in respect of such payment of earnings shall, notwithstandin
 
 ## Annotations
 
-[^key-0a53f6be0d17200968052aeeb4b31cc1]: Textual amendment: Reg. 3(1)-(2D) substituted for reg. 3(1) (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/4/2)
+[^c-0a53f6be0d17200968052aeeb4b31cc1]: Textual amendment: Reg. 3(1)-(2D) substituted for reg. 3(1) (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/4/2)
 
-[^key-30d18bc99cbbfb5995bdfdb7341e9401]: Textual amendment: Words in reg. 3(3) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/4/3)
+[^c-30d18bc99cbbfb5995bdfdb7341e9401]: Textual amendment: Words in reg. 3(3) substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/4/3)
 
-[^key-1a8cd9df1331a3175f44aaeb2d24d38f]: Textual amendment: Reg. 3(4) omitted (8.10.2002) by virtue of [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/4/4)
+[^c-1a8cd9df1331a3175f44aaeb2d24d38f]: Textual amendment: Reg. 3(4) omitted (8.10.2002) by virtue of [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2002/2366/regulation/4/4)

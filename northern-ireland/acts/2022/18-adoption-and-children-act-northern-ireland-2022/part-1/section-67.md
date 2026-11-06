@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Adoptive relatives[^key-64085462f000b4304e396077db1c3b67]
+## 67. Adoptive relatives[^c-64085462f000b4304e396077db1c3b67]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ is to be read as a reference to the child’s adoptive parents.
 
 ## Annotations
 
-[^key-64085462f000b4304e396077db1c3b67]: Commencement: S. 67 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-64085462f000b4304e396077db1c3b67]: Commencement: S. 67 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

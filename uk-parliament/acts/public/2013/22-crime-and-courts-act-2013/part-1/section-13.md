@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. NCA officers with operational powers: labour relations[^key-8aa1f80e7551b39a3a08fea1fd8f66c4]
+## 13. NCA officers with operational powers: labour relations[^c-8aa1f80e7551b39a3a08fea1fd8f66c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa1f80e7551b39a3a08fea1fd8f66c4]: Commencement: S. 13 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(s)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/s)
+[^c-8aa1f80e7551b39a3a08fea1fd8f66c4]: Commencement: S. 13 in force at 7.10.2013 by [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(s)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/s)

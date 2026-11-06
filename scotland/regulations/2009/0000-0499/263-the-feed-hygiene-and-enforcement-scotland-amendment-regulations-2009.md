@@ -54,7 +54,7 @@ These Regulations may be cited as the Feed (Hygiene and Enforcement) (Scotland) 
 
 (2) In regulation 2(1), in the definition of “authorised officer”, for “16(2)” substitute “ 16(3) ”.
 
-(3)[^key-ed6ed121e380c72b50a339bd5c2a181b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ed6ed121e380c72b50a339bd5c2a181b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For regulation 16 substitute—
 
@@ -114,6 +114,6 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c1974445]: Marginal citation: [S.S.I. 2005/608](https://www.legislation.gov.uk/ssi/2005/608), as amended by [S.S.I. 2006/578](https://www.legislation.gov.uk/ssi/2006/578) and [S.S.I. 2008/201](https://www.legislation.gov.uk/ssi/2008/201).
 
-[^key-ed6ed121e380c72b50a339bd5c2a181b]: Textual amendment: Reg. 2(3) omitted (12.1.2014) by virtue of [The Feed (Hygiene and Enforcement) and Animal Feed (Scotland) Amendment Regulations 2013 (S.S.I. 2013/340)](https://www.legislation.gov.uk/ssi/2013/340), [regs. 1](https://www.legislation.gov.uk/ssi/2013/340/regulation/1), [4](https://www.legislation.gov.uk/ssi/2013/340/regulation/4)
+[^c-ed6ed121e380c72b50a339bd5c2a181b]: Textual amendment: Reg. 2(3) omitted (12.1.2014) by virtue of [The Feed (Hygiene and Enforcement) and Animal Feed (Scotland) Amendment Regulations 2013 (S.S.I. 2013/340)](https://www.legislation.gov.uk/ssi/2013/340), [regs. 1](https://www.legislation.gov.uk/ssi/2013/340/regulation/1), [4](https://www.legislation.gov.uk/ssi/2013/340/regulation/4)
 
 [^c1974446]: Marginal citation: Article 2(2)(b) and (c) provide that Regulation 183/2005 does not apply to the feeding of food producing animals kept for private domestic consumption, animals kept for the activities mentioned in Article 1(2)(c) of Regulation (EC) No. 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (O.J. No. L 139, 30.4.04, p.1) (Corrigendum: O.J. No. L 226, 25.6.04, p.3) (the direct supply, by the producer, of small quantities of primary products to the final consumer or to local retail establishments directly supplying the final consumer) or to animals not kept for food production.

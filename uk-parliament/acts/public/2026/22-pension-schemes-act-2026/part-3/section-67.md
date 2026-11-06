@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Special provision for certain schemes coming out of assessment period[^key-c33f31344f44414fc73e90364d72afbd]
+## 67. Special provision for certain schemes coming out of assessment period[^c-c33f31344f44414fc73e90364d72afbd]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Where in relation to a superfund transfer the ceding scheme is required to be wo
 
 ## Annotations
 
-[^key-c33f31344f44414fc73e90364d72afbd]: Commencement: S. 67 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-c33f31344f44414fc73e90364d72afbd]: Commencement: S. 67 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

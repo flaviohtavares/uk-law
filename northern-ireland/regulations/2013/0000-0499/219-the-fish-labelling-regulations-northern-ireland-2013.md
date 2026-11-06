@@ -49,13 +49,13 @@ In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 19
 - (c)
 - (d)
 
-As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21893831], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-ab796659db49528d5683cf3fa36beb48]
+As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c21893831], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-ab796659db49528d5683cf3fa36beb48]
 
 ## 1. Citation and commencement
 
 These Regulations may be cited as the Fish Labelling Regulations (Northern Ireland) 2013 and come into operation on 7th October 2013.
 
-## 2. Interpretation[^key-c5f8013a487d981397ea26cb7a710915]
+## 2. Interpretation[^c-c5f8013a487d981397ea26cb7a710915]
 
 (1) In these Regulations—
 
@@ -75,21 +75,21 @@ These Regulations may be cited as the Fish Labelling Regulations (Northern Irela
 
 (1) In these Regulations—
 
-- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), subject to paragraph (6) and (7)[^key-996995ea13f4cd0bc36a615bfd51544a] ; and
+- (a) “**consumer information requirement**” means a requirement referred to in paragraph (2), subject to paragraph (6) and (7)[^c-996995ea13f4cd0bc36a615bfd51544a] ; and
 - (b) “**traceability requirement**” means a requirement referred to in paragraph (3), subject to paragraph (7).
 
 (2) For the purposes of paragraph (1)(a) the requirements are—
 
-- (a)[^key-bcf6cf4426a04446e465a97bf80848d2] a requirement specified in Article 35 Regulation 1379/2013 (provision of consumer information) as read with Article 38 of that Regulation, and a requirement specified in Article 39(3) or (4) of Regulation 1379/2013, as read with paragraph (1) of that Article.
+- (a)[^c-bcf6cf4426a04446e465a97bf80848d2] a requirement specified in Article 35 Regulation 1379/2013 (provision of consumer information) as read with Article 38 of that Regulation, and a requirement specified in Article 39(3) or (4) of Regulation 1379/2013, as read with paragraph (1) of that Article.
 - (b) a requirement specified in Article 58(6) of Regulation 1224/2009 as read with Articles 67(13) and 68 of Regulation 404/2011.
 
-(3) For the purposes of paragraph (1)(b), the requirements are Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation , Article 67(1) to (3) and (5) to (13) of[^key-7caeda34b2032c9c524fdcf588e7b7ec] Regulation 404/2011 and Articles 35(1)(c) and 38 of Regulation 1379/2013.
+(3) For the purposes of paragraph (1)(b), the requirements are Article 58(2), (3) and (5) of Regulation 1224/2009 as read with Article 58(7) of that Regulation , Article 67(1) to (3) and (5) to (13) of[^c-7caeda34b2032c9c524fdcf588e7b7ec] Regulation 404/2011 and Articles 35(1)(c) and 38 of Regulation 1379/2013.
 
-(4)[^key-4688633f1407385cd2e3b511decd9501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4688633f1407385cd2e3b511decd9501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4688633f1407385cd2e3b511decd9501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4688633f1407385cd2e3b511decd9501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-696d9d4eff5e4583bf2734c83e0b097a] The requirement referred to in paragraph (2)(a) does not apply in the circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) of Regulation 1224/2009.
+(6)[^c-696d9d4eff5e4583bf2734c83e0b097a] The requirement referred to in paragraph (2)(a) does not apply in the circumstances described in Article 35(4) of Regulation 1379/2013 as read with Article 58(8) of Regulation 1224/2009.
 
 (7) The requirements referred to in paragraphs (2)(b) and (3) do not apply in circumstances described in Article 58(8) of Regulation 1224/2009, as read with Article 67(14) of Regulation 404/2011, where the sale does not exceed the sterling equivalent of 50 euros per day.
 
@@ -223,20 +223,20 @@ Regulation 11 revokes the Fish Labelling Regulations (Northern Ireland) 2010 (S.
 
 [^c21893831]: Marginal citation: OJ No.L31, 1.2.2002, p.1. as last amended by OJ No. L188, 18.7.2009, p 14
 
-[^key-ab796659db49528d5683cf3fa36beb48]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2013/219) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-ab796659db49528d5683cf3fa36beb48]: Modification: [Regulations](https://www.legislation.gov.uk/nisr/2013/219) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
-[^key-c5f8013a487d981397ea26cb7a710915]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2013/219/regulation/2/1) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/2)
+[^c-c5f8013a487d981397ea26cb7a710915]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2013/219/regulation/2/1) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/2)
 
 [^c21893841]: Marginal citation: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-996995ea13f4cd0bc36a615bfd51544a]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/1/a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/a)
+[^c-996995ea13f4cd0bc36a615bfd51544a]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/1/a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/a)
 
-[^key-bcf6cf4426a04446e465a97bf80848d2]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/2/a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/b)
+[^c-bcf6cf4426a04446e465a97bf80848d2]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/2/a) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/b)
 
-[^key-7caeda34b2032c9c524fdcf588e7b7ec]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/3) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/c)
+[^c-7caeda34b2032c9c524fdcf588e7b7ec]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/3) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/c)
 
-[^key-4688633f1407385cd2e3b511decd9501]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/4)[(5)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/5) omitted (13.12.2014) by virtue of [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/d)
+[^c-4688633f1407385cd2e3b511decd9501]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/4)[(5)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/5) omitted (13.12.2014) by virtue of [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(d)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/d)
 
-[^key-696d9d4eff5e4583bf2734c83e0b097a]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/6) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/e)
+[^c-696d9d4eff5e4583bf2734c83e0b097a]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2013/219/regulation/3/6) substituted (13.12.2014) by [The Fish Labelling (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/287)](https://www.legislation.gov.uk/nisr/2014/287), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/287/regulation/1/1), [2(3)(e)](https://www.legislation.gov.uk/nisr/2014/287/regulation/2/3/e)
 
 [^c21893851]: Marginal citation: S.R. [2010 No. 54](https://www.legislation.gov.uk/ukcm/2010/54)

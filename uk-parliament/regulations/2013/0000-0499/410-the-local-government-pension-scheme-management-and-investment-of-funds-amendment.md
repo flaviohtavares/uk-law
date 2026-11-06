@@ -32,7 +32,7 @@ summary: ''
 
 Public Service Pensions, England And Wales
 
-The Local Government Pension Scheme (Management and Investment of Funds) (Amendment) Regulations 2013 (revoked)[^key-8aaac0129582649166669312ea2031db]
+The Local Government Pension Scheme (Management and Investment of Funds) (Amendment) Regulations 2013 (revoked)[^c-8aaac0129582649166669312ea2031db]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2013
 
-[^key-8aaac0129582649166669312ea2031db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aaac0129582649166669312ea2031db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-8aaac0129582649166669312ea2031db]
+## 1. Citation, extent and commencement[^c-8aaac0129582649166669312ea2031db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase of limit on investment in partnerships[^key-8aaac0129582649166669312ea2031db]
+## 2. Increase of limit on investment in partnerships[^c-8aaac0129582649166669312ea2031db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8aaac0129582649166669312ea2031db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aaac0129582649166669312ea2031db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8aaac0129582649166669312ea2031db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aaac0129582649166669312ea2031db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8aaac0129582649166669312ea2031db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/410) revoked (1.11.2016) by [The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2016 (S.I. 2016/946)](https://www.legislation.gov.uk/uksi/2016/946), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2016/946/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2016/946/regulation/12/2))
+[^c-8aaac0129582649166669312ea2031db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/410) revoked (1.11.2016) by [The Local Government Pension Scheme (Management and Investment of Funds) Regulations 2016 (S.I. 2016/946)](https://www.legislation.gov.uk/uksi/2016/946), [reg. 12(1)](https://www.legislation.gov.uk/uksi/2016/946/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2016/946/regulation/12/2))

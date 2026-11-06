@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.5. Intimation of orders[^key-df5543d611ea6c3805a6aa414f2bc413]
+## 26.5. Intimation of orders[^c-df5543d611ea6c3805a6aa414f2bc413]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ the Clerk must intimate the order in accordance with this rule.
 
 ## Annotations
 
-[^key-df5543d611ea6c3805a6aa414f2bc413]: Commencement: Para. 26.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-df5543d611ea6c3805a6aa414f2bc413]: Commencement: Para. 26.5 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

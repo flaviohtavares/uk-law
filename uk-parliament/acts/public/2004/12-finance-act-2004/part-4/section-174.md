@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Value shifting[^key-48f5ac4238512b1650a0b36e613c776d]
+## 174. Value shifting[^c-48f5ac4238512b1650a0b36e613c776d]
 
 *Extent: E+W+S+N.I.*
 
-(1) A registered pension scheme is to be treated as having made an unauthorised payment to a person who is or has been a[^key-673a4aa24b1523985efce950f2f2c7c0] member of the pension scheme if, in connection with any of the events mentioned in subsection (3) or a change in the value of a currency—
+(1) A registered pension scheme is to be treated as having made an unauthorised payment to a person who is or has been a[^c-673a4aa24b1523985efce950f2f2c7c0] member of the pension scheme if, in connection with any of the events mentioned in subsection (3) or a change in the value of a currency—
 
 - (a) the value of an asset held for the purposes of the pension scheme is reduced or a liability of the pension scheme is increased, and
-- (b) the value of an asset held by or for the benefit of the person[^key-756ecbe2c77f993d261803e39464ff0f] is increased, a liability of the person is reduced, or a liability of another person is reduced for the benefit of the person.
+- (b) the value of an asset held by or for the benefit of the person[^c-756ecbe2c77f993d261803e39464ff0f] is increased, a liability of the person is reduced, or a liability of another person is reduced for the benefit of the person.
 
-(2) But if the event or the change in the value of the currency occurs after the person's[^key-ba144f3a9cda677c8629ec651d11b92a] death—
+(2) But if the event or the change in the value of the currency occurs after the person's[^c-ba144f3a9cda677c8629ec651d11b92a] death—
 
-- (a) the pension scheme is to be treated as having made an unauthorised payment in respect of the person[^key-79b7415def452067f66c43e6fb644e5f] (rather than to the person), and
+- (a) the pension scheme is to be treated as having made an unauthorised payment in respect of the person[^c-79b7415def452067f66c43e6fb644e5f] (rather than to the person), and
 - (b) the person who holds the asset or is subject to the liability in relation to which subsection (1)(b) is satisfied is to be treated as having received the unauthorised payment.
 
 (3) The events are—
@@ -45,12 +45,12 @@ in a way which differs from that which might be expected if the parties to the t
 
 ## Annotations
 
-[^key-48f5ac4238512b1650a0b36e613c776d]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-48f5ac4238512b1650a0b36e613c776d]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-673a4aa24b1523985efce950f2f2c7c0]: Textual amendment: Words in s. 174(1) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/2/a)
+[^c-673a4aa24b1523985efce950f2f2c7c0]: Textual amendment: Words in s. 174(1) inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/2/a)
 
-[^key-756ecbe2c77f993d261803e39464ff0f]: Textual amendment: Word in s. 174(1) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/2/b)
+[^c-756ecbe2c77f993d261803e39464ff0f]: Textual amendment: Word in s. 174(1) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/2/b)
 
-[^key-ba144f3a9cda677c8629ec651d11b92a]: Textual amendment: Word in s. 174(2) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/3/a)
+[^c-ba144f3a9cda677c8629ec651d11b92a]: Textual amendment: Word in s. 174(2) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(3)(a)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/3/a)
 
-[^key-79b7415def452067f66c43e6fb644e5f]: Textual amendment: Word in s. 174(2) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/3/b)
+[^c-79b7415def452067f66c43e6fb644e5f]: Textual amendment: Word in s. 174(2) substituted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 161(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/161/2), [Sch. 23 para. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/23/paragraph/9/3/b)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 107
 
-**1.**[^key-1cbbd54db86ccf960e39063b7377663c] (1) The enactments listed in sub-paragraph (3) are amended in accordance with the table.
+**1.**[^c-1cbbd54db86ccf960e39063b7377663c] (1) The enactments listed in sub-paragraph (3) are amended in accordance with the table.
 
 | For the following expression wherever it occurs in any of those enactments | substitute |
 | --- | --- |
@@ -259,4 +259,4 @@ Regulation 107
 
 ## Annotations
 
-[^key-1cbbd54db86ccf960e39063b7377663c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-1cbbd54db86ccf960e39063b7377663c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

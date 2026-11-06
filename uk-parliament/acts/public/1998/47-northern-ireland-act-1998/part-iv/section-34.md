@@ -40,10 +40,10 @@ summary: ''
 
 (6) An order under subsection (4) may apply (with or without modifications) any provision of, or made under, any enactment.
 
-(7)[^key-87e1acd7c71fc4d76556cf88ced03931] An order under subsection (4) may make different provision for different areas about the conduct of elections, including different provision about the registration of persons entitled to vote at an election.
+(7)[^c-87e1acd7c71fc4d76556cf88ced03931] An order under subsection (4) may make different provision for different areas about the conduct of elections, including different provision about the registration of persons entitled to vote at an election.
 
 ## Annotations
 
 [^c12396661]: Modification: S. 34(4) amended (16.2.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 7(2)(h)](https://www.legislation.gov.uk/ukpga/2000/41/section/7/2/h) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I)
 
-[^key-87e1acd7c71fc4d76556cf88ced03931]: Textual amendment: S. 34(7) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/23/1), [28(1)(g)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/g)
+[^c-87e1acd7c71fc4d76556cf88ced03931]: Textual amendment: S. 34(7) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/23/1), [28(1)(g)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/g)

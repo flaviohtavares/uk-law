@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. No significant effect on procedures[^key-c0d8518f26e0d5290a9e69e6d67b1db7][^key-302606d159bff3b39c5b1dbf0584ce62][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 73. No significant effect on procedures[^c-c0d8518f26e0d5290a9e69e6d67b1db7][^c-302606d159bff3b39c5b1dbf0584ce62][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 (5) Paragraph (6) applies where—
 
 - (a) the relevant breach consists of making a Customs declaration containing an error;
-- (b) the goods have been released to a special Customs procedure [^c23522081], except a transit procedure or a free zone procedure[^key-a821c241e334305353fc94d133d4426b] [^c23522091], or are held in a temporary storage facility; and
+- (b) the goods have been released to a special Customs procedure [^c23522081], except a transit procedure or a free zone procedure[^c-a821c241e334305353fc94d133d4426b] [^c23522091], or are held in a temporary storage facility; and
 - (c) the error was unknown to HMRC when the declaration was accepted.
 
 (6) There is no significant effect on a Customs procedure if, had the error been known to HMRC before the acceptance, HMRC would have been likely not to have delayed or prevented the acceptance.
@@ -52,12 +52,12 @@ summary: ''
 
 ## Annotations
 
-[^key-c0d8518f26e0d5290a9e69e6d67b1db7]: Commencement: Reg. 73 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c0d8518f26e0d5290a9e69e6d67b1db7]: Commencement: Reg. 73 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522081]: Marginal citation: “Special Customs procedure” is defined in section 3(4) of the Act.
 
-[^key-a821c241e334305353fc94d133d4426b]: Textual amendment: Words in [reg. 73(5)(b)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/73/5/b) inserted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/10)
+[^c-a821c241e334305353fc94d133d4426b]: Textual amendment: Words in [reg. 73(5)(b)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/73/5/b) inserted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/10)
 
 [^c23522091]: Marginal citation: “A transit procedure” is defined in paragraph 5 of Schedule 2 to the Act.

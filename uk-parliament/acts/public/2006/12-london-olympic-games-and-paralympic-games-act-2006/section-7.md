@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Street lighting and cleaning[^key-bf4a2a0eb80691c2e4e36d20c92fcff3]
+## 7. Street lighting and cleaning[^c-bf4a2a0eb80691c2e4e36d20c92fcff3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4a2a0eb80691c2e4e36d20c92fcff3]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2006/12/section/7) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/e)
+[^c-bf4a2a0eb80691c2e4e36d20c92fcff3]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2006/12/section/7) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/e)

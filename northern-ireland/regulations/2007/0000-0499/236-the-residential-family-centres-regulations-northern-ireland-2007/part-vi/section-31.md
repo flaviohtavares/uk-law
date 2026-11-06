@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Notice of absence[^key-1e981c3aef05817767263705f39f6b65]
+## 31. Notice of absence[^c-1e981c3aef05817767263705f39f6b65]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the registered provider, if he is an individual who manages the residential family centre himself; or
 - (b) the registered manager,
 
-proposes to be absent from the residential family centre for a continuous period of 28 days or more, the registered provider shall give notice in writing to the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] of the proposed absence.
+proposes to be absent from the residential family centre for a continuous period of 28 days or more, the registered provider shall give notice in writing to the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] of the proposed absence.
 
 (2) Except in the case of an emergency, the notice referred to in paragraph (1) shall be given no later than 28 days before and inclusive of the date on which the proposed absence commences or within such shorter period as may be agreed with the RQIA and the notice shall specify—
 
@@ -48,6 +48,6 @@ has been absent from the residential family centre for a continuous period of 28
 
 ## Annotations
 
-[^key-1e981c3aef05817767263705f39f6b65]: Commencement: Reg. 31 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-1e981c3aef05817767263705f39f6b65]: Commencement: Reg. 31 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

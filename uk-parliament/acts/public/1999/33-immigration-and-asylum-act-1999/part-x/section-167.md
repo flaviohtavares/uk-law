@@ -30,11 +30,11 @@ summary: ''
 - “**country**” includes any territory;
 - “**EEA State**” means a State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as it has effect for the time being;
 - “**the Human Rights Convention**” means the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4th November 1950 as it has effect for the time being in relation to the United Kingdom;
-- “[^key-517b672daa5a9a8efd28b95d8bebf22f]**justice of the peace**”, in relation to Northern Ireland, means lay magistrate;
-- [^key-d3ffc15c2738d2696f3bc22a3bad2456]...
+- “[^c-517b672daa5a9a8efd28b95d8bebf22f]**justice of the peace**”, in relation to Northern Ireland, means lay magistrate;
+- [^c-d3ffc15c2738d2696f3bc22a3bad2456]...
 - “**prescribed**” means prescribed by regulations made by the Secretary of State;
 - “**the Refugee Convention**” means the Convention relating to the Status of Refugees done at Geneva on 28 July 1951 and the Protocol to the Convention;
-- residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;[^key-b4eaecfe8c99194b28e791e8cdfb4a11]
+- residence scheme immigration rules” has the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020;[^c-b4eaecfe8c99194b28e791e8cdfb4a11]
 - “**voluntary organisations**” means bodies (other than public or local authorities) whose activities are not carried on for profit.
 
 (2) The following expressions have the same meaning as in the 1971 Act—
@@ -52,8 +52,8 @@ summary: ''
 
 [^c11434981]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-517b672daa5a9a8efd28b95d8bebf22f]: Textual amendment: Words in [s. 167(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/167/1) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/79/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/28)
+[^c-517b672daa5a9a8efd28b95d8bebf22f]: Textual amendment: Words in [s. 167(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/167/1) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2022/36/section/79/2), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/28)
 
-[^key-d3ffc15c2738d2696f3bc22a3bad2456]: Textual amendment: Definition in s. 167(1) repealed (30.3.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2), [64(3)(b)](https://www.legislation.gov.uk/ukpga/2006/13/section/64/3/b), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3)
+[^c-d3ffc15c2738d2696f3bc22a3bad2456]: Textual amendment: Definition in s. 167(1) repealed (30.3.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2), [64(3)(b)](https://www.legislation.gov.uk/ukpga/2006/13/section/64/3/b), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3)
 
-[^key-b4eaecfe8c99194b28e791e8cdfb4a11]: Textual amendment: Words in s. 167(1) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/12/9)
+[^c-b4eaecfe8c99194b28e791e8cdfb4a11]: Textual amendment: Words in s. 167(1) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/12/9)

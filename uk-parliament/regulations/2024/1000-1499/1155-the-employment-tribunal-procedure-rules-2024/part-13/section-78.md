@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. When a wasted costs order may be made[^key-0e65c15476c6a4473d51c9da73b5407a]
+## 78. When a wasted costs order may be made[^c-0e65c15476c6a4473d51c9da73b5407a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e65c15476c6a4473d51c9da73b5407a]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2024/1155/rule/78) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-0e65c15476c6a4473d51c9da73b5407a]: Commencement: [Rule 78](https://www.legislation.gov.uk/uksi/2024/1155/rule/78) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

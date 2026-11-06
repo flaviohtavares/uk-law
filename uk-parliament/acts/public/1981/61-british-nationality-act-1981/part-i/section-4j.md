@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4J. Sections 4E to 4I: supplementary provision[^key-916470acf2beb9d58eb41842c93b59b8]
+## 4J. Sections 4E to 4I: supplementary provision[^c-916470acf2beb9d58eb41842c93b59b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-916470acf2beb9d58eb41842c93b59b8]: Textual amendment: Ss. 4E-4J inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)
+[^c-916470acf2beb9d58eb41842c93b59b8]: Textual amendment: Ss. 4E-4J inserted (6.4.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 65](https://www.legislation.gov.uk/ukpga/2014/22/section/65), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/371/article/4/b)

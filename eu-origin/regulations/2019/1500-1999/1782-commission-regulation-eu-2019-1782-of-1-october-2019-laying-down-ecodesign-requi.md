@@ -124,7 +124,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 2. Definitions
 
-For the purposes of this Regulation, the definitions set out in the 2010 Regulations apply. The following definitions also apply—[^key-4635796636734ffde6c0435ee249dc95]
+For the purposes of this Regulation, the definitions set out in the 2010 Regulations apply. The following definitions also apply—[^c-4635796636734ffde6c0435ee249dc95]
 
 - ((1)) ‘external power supply’ means a device which meets all of the following criteria:
   - ((a)) it is designed to convert alternating current (AC) power input from the mains power source input into one or more lower voltage direct current (DC) or AC outputs;
@@ -151,7 +151,7 @@ For the purposes of this Regulation, the definitions set out in the 2010 Regulat
 - ((17)) ‘average active efficiency’ means the average of the active mode efficiencies at 25 %, 50 %, 75 % and 100 % of the nameplate output power;
 - ((18)) ‘equivalent model’ means a model which has the same technical characteristics relevant for the technical information to be provided, but which is placed on the market or put into service by the same manufacturer, importer or authorised representative as another model with a different model identifier;
 - ((19)) ‘model identifier’ means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark or the same manufacturer’s, importer’s or authorised representative’s name.
-- (20)) ‘the 2010 Regulations’ means the Ecodesign for Energy-Related Products Regulations 2010;[^key-d919edfd3d9b3dfb37e501c719b07add]
+- (20)) ‘the 2010 Regulations’ means the Ecodesign for Energy-Related Products Regulations 2010;[^c-d919edfd3d9b3dfb37e501c719b07add]
 - (21)) ‘market surveillance’ and ‘market surveillance authority’ have the meanings set out in Article 2 of RAMS.
 
 ## Article 3. Ecodesign requirements
@@ -160,9 +160,9 @@ The ecodesign requirements set out in Annex II shall apply from the dates indica
 
 ## Article 4. Conformity assessment
 
-1.[^key-9a752ae372a0908df91bb14d7487b630] For the purposes of regulation 4(2)(a) of the 2010 Regulations, the procedure for assessing whether an energy-related product complies with this implementing measure is the internal design control procedure set out in Part 1 of Schedule 1A to those Regulations, or the management system procedure set out in Part 2 of that Schedule.
+1.[^c-9a752ae372a0908df91bb14d7487b630] For the purposes of regulation 4(2)(a) of the 2010 Regulations, the procedure for assessing whether an energy-related product complies with this implementing measure is the internal design control procedure set out in Part 1 of Schedule 1A to those Regulations, or the management system procedure set out in Part 2 of that Schedule.
 
-2. For the purposes of the conformity assessment pursuant to regulation 4(2)(a) of the 2010 Regulations[^key-efba6137983b9404fea8ce49491ea7a8], the technical documentation shall contain the declared values of parameters listed in Annex II, point 2(c).
+2. For the purposes of the conformity assessment pursuant to regulation 4(2)(a) of the 2010 Regulations[^c-efba6137983b9404fea8ce49491ea7a8], the technical documentation shall contain the declared values of parameters listed in Annex II, point 2(c).
 
 3. Where the information included in the technical documentation for a particular model has been obtained:
 
@@ -173,7 +173,7 @@ the technical documentation shall include the details and the results of such ca
 
 The technical documentation shall include a list of all equivalent models, including the model identifiers.
 
-## Article 5. Verification procedure for market surveillance purposes[^key-8086584a317b271461f6714eb26fe90c]
+## Article 5. Verification procedure for market surveillance purposes[^c-8086584a317b271461f6714eb26fe90c]
 
 When performing market surveillance checks to assess compliance with the requirements set out in this Regulation, the market surveillance authority must apply the verification procedure described in Annex 3.
 
@@ -181,7 +181,7 @@ When performing market surveillance checks to assess compliance with the require
 
 The benchmarks for the best-performing products and technologies available on the market at the time of adopting this Regulation are set out in Annex IV.
 
-## Article 7. Review[^key-2e39338bd27742ae92ab509e795158a6]
+## Article 7. Review[^c-2e39338bd27742ae92ab509e795158a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -195,7 +195,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 April 2020.
 
-[^key-eef08f1a8d0e12a2b37fe40154e4c0fb]...
+[^c-eef08f1a8d0e12a2b37fe40154e4c0fb]...
 
 Done at Brussels, 1 October 2019.
 
@@ -337,17 +337,17 @@ Information requirements:
 
 Measurements and calculations
 
-For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using designated standards[^key-648484e889cd147ef7ab6e9b40a74a73], or other reliable, accurate and reproducible methods, which take into account the generally recognised state of the art.
+For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using designated standards[^c-648484e889cd147ef7ab6e9b40a74a73], or other reliable, accurate and reproducible methods, which take into account the generally recognised state of the art.
 
 ## ANNEX III — Verification procedure for market surveillance purposes
 
-The verification tolerances defined in this Annex relate only to the verification of the measured parameters by the market surveillance authority[^key-8598c94b8e74126ddb382f7cf483f5e5] and shall not be used by the manufacturer, importer or authorised representative as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.
+The verification tolerances defined in this Annex relate only to the verification of the measured parameters by the market surveillance authority[^c-8598c94b8e74126ddb382f7cf483f5e5] and shall not be used by the manufacturer, importer or authorised representative as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.
 
-When verifying the compliance of a product model with the requirements laid down in this Regulation, the market surveillance authority must apply the following procedure—[^key-204343138bb7d31b047d3b8bba2c6e63]
+When verifying the compliance of a product model with the requirements laid down in this Regulation, the market surveillance authority must apply the following procedure—[^c-204343138bb7d31b047d3b8bba2c6e63]
 
-- 1.. The market surveillance authority[^key-2ef941a5a04719c423d3d50dc80167f6] shall verify one single unit of the model.
+- 1.. The market surveillance authority[^c-2ef941a5a04719c423d3d50dc80167f6] shall verify one single unit of the model.
 - 2.. The model shall be considered to comply with the applicable requirements if:
-  - ((a)) the values given in the technical documentation pursuant to paragraph 1(2) of Part 1 of Schedule 1A to the 2010 Regulations[^key-d6f2f54e9f978af92abdc8b62ba3ea8c], and, where applicable, the values used to calculate these values, are not more favourable for the manufacturer, importer or authorised representative than the results of the corresponding measurements carried out pursuant to paragraph 1(2)(b)(vii) of that Schedule[^key-e18cdcbbf6a768d4be3e230fa9f41b86]; and
+  - ((a)) the values given in the technical documentation pursuant to paragraph 1(2) of Part 1 of Schedule 1A to the 2010 Regulations[^c-d6f2f54e9f978af92abdc8b62ba3ea8c], and, where applicable, the values used to calculate these values, are not more favourable for the manufacturer, importer or authorised representative than the results of the corresponding measurements carried out pursuant to paragraph 1(2)(b)(vii) of that Schedule[^c-e18cdcbbf6a768d4be3e230fa9f41b86]; and
   - ((b)) the declared values meet any requirements laid down in this Regulation, and any required product information published by the manufacturer, importer or authorised representative does not contain values that are more favourable for the manufacturer, importer or authorised representative than the declared values; and
   - ((c)) when the market surveillance authority test the unit of the model, the determined values (the values of the relevant parameters as measured in testing and the values calculated from these measurements) comply with the respective verification tolerances as given in Table 1; and
   - ((d)) when the market surveillance authority check the unit of the model, it complies with the information requirements in point 2 of Annex II.
@@ -355,11 +355,11 @@ When verifying the compliance of a product model with the requirements laid down
 - 4.. If the result referred to in point 2(c) is not achieved, the market surveillance authority shall select three additional units of the same model for testing. As an alternative, the three additional units selected may be of one or more equivalent models.
 - 5.. The model shall be considered to comply with the applicable requirements if, for these three units, the arithmetical mean of the determined values complies with the respective verification tolerances given in Table 1.
 - 6.. If the result referred to in point 5 is not achieved, the model and all equivalent models shall be considered not to comply with this Regulation.
-- 7.. [^key-54a48fe854c0f6c5171c228b9e214a92]...
+- 7.. [^c-54a48fe854c0f6c5171c228b9e214a92]...
 
 The market surveillance authority shall use the measurement and calculation methods set out in Annex II.
 
-The market surveillance authority shall only apply the verification tolerances that are set out in Table 1 and shall use only the procedure described in points 1 to 6[^key-2ed19c3554fdec51a72037dea6d284f1] for the requirements referred to in this Annex. For the parameters in Table 1, no other tolerances, such as those set out in designated standards[^key-02ceee2c906bb25c5ae753c631fea858] or in any other measurement method, shall be applied.
+The market surveillance authority shall only apply the verification tolerances that are set out in Table 1 and shall use only the procedure described in points 1 to 6[^c-2ed19c3554fdec51a72037dea6d284f1] for the requirements referred to in this Annex. For the parameters in Table 1, no other tolerances, such as those set out in designated standards[^c-02ceee2c906bb25c5ae753c631fea858] or in any other measurement method, shall be applied.
 
 *Table 1*
 
@@ -407,36 +407,36 @@ At the time of entry into force of this Regulation, the best available technolog
 
 [^f00004]: Footnote: Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council ([OJ L 316, 14.11.2012, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.316.01.0012.01.ENG)).
 
-[^key-4635796636734ffde6c0435ee249dc95]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2019/1782/article/2) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/2/a)
+[^c-4635796636734ffde6c0435ee249dc95]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2019/1782/article/2) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(2)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/2/a)
 
-[^key-d919edfd3d9b3dfb37e501c719b07add]: Textual amendment: [Art. 2(20)](https://www.legislation.gov.uk/eur/2019/1782/article/2/20)[(21)](https://www.legislation.gov.uk/eur/2019/1782/article/2/21) inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/2/b)
+[^c-d919edfd3d9b3dfb37e501c719b07add]: Textual amendment: [Art. 2(20)](https://www.legislation.gov.uk/eur/2019/1782/article/2/20)[(21)](https://www.legislation.gov.uk/eur/2019/1782/article/2/21) inserted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(2)(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/2/b)
 
-[^key-9a752ae372a0908df91bb14d7487b630]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2019/1782/article/4/1) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/3/a)
+[^c-9a752ae372a0908df91bb14d7487b630]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/eur/2019/1782/article/4/1) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/3/a)
 
-[^key-efba6137983b9404fea8ce49491ea7a8]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2019/1782/article/4/2) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/3/b)
+[^c-efba6137983b9404fea8ce49491ea7a8]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2019/1782/article/4/2) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/3/b)
 
-[^key-8086584a317b271461f6714eb26fe90c]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2019/1782/article/5) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/4)
+[^c-8086584a317b271461f6714eb26fe90c]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2019/1782/article/5) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/4)
 
-[^key-2e39338bd27742ae92ab509e795158a6]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2019/1782/article/7) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(5)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/5)
+[^c-2e39338bd27742ae92ab509e795158a6]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2019/1782/article/7) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(5)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/5)
 
-[^key-eef08f1a8d0e12a2b37fe40154e4c0fb]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1782/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(6)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/6)
+[^c-eef08f1a8d0e12a2b37fe40154e4c0fb]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1782/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(6)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/6)
 
-[^key-648484e889cd147ef7ab6e9b40a74a73]: Textual amendment: Words in [Annex 2 para. 3](https://www.legislation.gov.uk/eur/2019/1782/annex/II/paragraph/3) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(7)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/7)
+[^c-648484e889cd147ef7ab6e9b40a74a73]: Textual amendment: Words in [Annex 2 para. 3](https://www.legislation.gov.uk/eur/2019/1782/annex/II/paragraph/3) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(7)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/7)
 
-[^key-8598c94b8e74126ddb382f7cf483f5e5]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/b)
+[^c-8598c94b8e74126ddb382f7cf483f5e5]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(b)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/b)
 
-[^key-204343138bb7d31b047d3b8bba2c6e63]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(c)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/c)
+[^c-204343138bb7d31b047d3b8bba2c6e63]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(c)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/c)
 
-[^key-2ef941a5a04719c423d3d50dc80167f6]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/a)
+[^c-2ef941a5a04719c423d3d50dc80167f6]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/a)
 
-[^key-d6f2f54e9f978af92abdc8b62ba3ea8c]: Textual amendment: Words in Annex 3 point 2(a) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/d/i)
+[^c-d6f2f54e9f978af92abdc8b62ba3ea8c]: Textual amendment: Words in Annex 3 point 2(a) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/d/i)
 
-[^key-e18cdcbbf6a768d4be3e230fa9f41b86]: Textual amendment: Words in Annex 3 point 2(a) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/d/ii)
+[^c-e18cdcbbf6a768d4be3e230fa9f41b86]: Textual amendment: Words in Annex 3 point 2(a) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/d/ii)
 
-[^key-54a48fe854c0f6c5171c228b9e214a92]: Textual amendment: Annex 3 point 7 omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(e)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/e)
+[^c-54a48fe854c0f6c5171c228b9e214a92]: Textual amendment: Annex 3 point 7 omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(e)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/e)
 
-[^key-2ed19c3554fdec51a72037dea6d284f1]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/f/i)
+[^c-2ed19c3554fdec51a72037dea6d284f1]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/f/i)
 
-[^key-02ceee2c906bb25c5ae753c631fea858]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/f/ii)
+[^c-02ceee2c906bb25c5ae753c631fea858]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [16(8)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/16/8/f/ii)
 
 [^f00005]: Footnote: In the case of three additional units tested as prescribed in point 4, the determined value means the arithmetical mean of the values determined for these three additional units.

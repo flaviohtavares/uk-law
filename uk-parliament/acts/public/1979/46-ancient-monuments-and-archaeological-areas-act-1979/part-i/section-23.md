@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Annual reports of Ancient Monuments Boards.[^key-a8b91a3995ca3095fbd49df10a9b0a2b]
+## 23. Annual reports of Ancient Monuments Boards.[^c-a8b91a3995ca3095fbd49df10a9b0a2b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8b91a3995ca3095fbd49df10a9b0a2b]: Textual amendment: S. 23 repealed (1.4.2006) by [Ancient Monuments Board for Wales (Abolition) Order 2006 (S.I. 2006/64)](https://www.legislation.gov.uk/uksi/2006/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/64/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2006/64/article/3/1/a)
+[^c-a8b91a3995ca3095fbd49df10a9b0a2b]: Textual amendment: S. 23 repealed (1.4.2006) by [Ancient Monuments Board for Wales (Abolition) Order 2006 (S.I. 2006/64)](https://www.legislation.gov.uk/uksi/2006/64), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/64/article/1/2), [3(1)(a)](https://www.legislation.gov.uk/uksi/2006/64/article/3/1/a)

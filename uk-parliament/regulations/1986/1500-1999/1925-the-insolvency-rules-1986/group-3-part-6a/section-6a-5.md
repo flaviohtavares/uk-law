@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6A.5. Deletion of information from the individual insolvency register—bankruptcy orders[^key-d1919e44dc131030ccb9fcb0de2ece83]
+## 6A.5. Deletion of information from the individual insolvency register—bankruptcy orders[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 *Extent: E+W*
 
-[^key-f6506dccce50f414b78121cbe791c3dd]... The Secretary of State shall delete from the individual insolvency register all information concerning a bankruptcy where—
+[^c-f6506dccce50f414b78121cbe791c3dd]... The Secretary of State shall delete from the individual insolvency register all information concerning a bankruptcy where—
 
 - (a) the bankruptcy order has been annulled pursuant to section 261(2)(a), 261(2)(b), 263D(3) or section 282(1)(b);
 - (b) the bankrupt has been discharged from the bankruptcy and a period of 3 months has elapsed from the date of discharge;
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
+[^c-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
 
-[^key-f6506dccce50f414b78121cbe791c3dd]: Textual amendment: Words in rule 6A.5 omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [44](https://www.legislation.gov.uk/uksi/2004/584/article/44)
+[^c-f6506dccce50f414b78121cbe791c3dd]: Textual amendment: Words in rule 6A.5 omitted (1.4.2004) by virtue of [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [44](https://www.legislation.gov.uk/uksi/2004/584/article/44)

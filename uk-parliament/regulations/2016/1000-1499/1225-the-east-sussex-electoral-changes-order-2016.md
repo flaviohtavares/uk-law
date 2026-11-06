@@ -44,7 +44,7 @@ A draft of the instrument has been laid before each House of Parliament, a perio
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) and (2) of the Act.
 
-## 1. Citation and commencement[^key-22b6be84c6a19b5ac750acd5167c4bf6]
+## 1. Citation and commencement[^c-22b6be84c6a19b5ac750acd5167c4bf6]
 
 (1) This Order may be cited as the East Sussex (Electoral Changes) Order 2016.
 
@@ -55,13 +55,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 - (a) for the purpose of proceedings preliminary, or relating, to the election of councillors, on the day after the day on which the Order is made;
 - (b) for all other purposes, on the ordinary day of election of councillors in England and Wales[^f00003] in 2017.
 
-## 2. Interpretation[^key-2a933207abfed0c5e32a5fd4af330257]
+## 2. Interpretation[^c-2a933207abfed0c5e32a5fd4af330257]
 
 (1) In this Order “the map” means the map marked “Map referred to in the East Sussex (Electoral Changes) Order 2016”, held by the Local Government Boundary Commission for England.
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Divisions of the county of East Sussex and number of councillors[^key-cda0aa90c571b49b3c7e7bd511ff3e3a][^key-c343a50142919edbb7c3a74a87b5204c]
+## 3. Divisions of the county of East Sussex and number of councillors[^c-cda0aa90c571b49b3c7e7bd511ff3e3a][^c-c343a50142919edbb7c3a74a87b5204c]
 
 (1) The existing divisions of the county of East Sussex are abolished.
 
@@ -81,7 +81,7 @@ Local Government Boundary Commission for England
 
 13th December 2016
 
-## SCHEDULE — Names of county electoral divisions and number of councillors[^key-30c437fd2af2816134babb493dfc78e7][^key-fefd7522b032947e32ba1c261f17a342]
+## SCHEDULE — Names of county electoral divisions and number of councillors[^c-30c437fd2af2816134babb493dfc78e7][^c-fefd7522b032947e32ba1c261f17a342]
 
 Article 3
 
@@ -156,16 +156,16 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00002]: Footnote: The Local Government Boundary Commission for England was established on 1st April 2010 by section 55(1) of the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-22b6be84c6a19b5ac750acd5167c4bf6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/1225/article/1) in force at 14.12.2016 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/2)
+[^c-22b6be84c6a19b5ac750acd5167c4bf6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/1225/article/1) in force at 14.12.2016 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/2)
 
 [^f00003]: Footnote: The ordinary day of election of councillors is prescribed by section 37(1) of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-2a933207abfed0c5e32a5fd4af330257]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/1225/article/2) in force at 14.12.2016 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/2)
+[^c-2a933207abfed0c5e32a5fd4af330257]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/1225/article/2) in force at 14.12.2016 coming into force in accordance with , see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/2)
 
-[^key-cda0aa90c571b49b3c7e7bd511ff3e3a]: Commencement: Art. 3 in force at 14.12.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/a)
+[^c-cda0aa90c571b49b3c7e7bd511ff3e3a]: Commencement: Art. 3 in force at 14.12.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/a)
 
-[^key-c343a50142919edbb7c3a74a87b5204c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/1225/article/3) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/b)
+[^c-c343a50142919edbb7c3a74a87b5204c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/1225/article/3) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/b)
 
-[^key-30c437fd2af2816134babb493dfc78e7]: Commencement: Sch. in force at 14.12.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/a)
+[^c-30c437fd2af2816134babb493dfc78e7]: Commencement: Sch. in force at 14.12.2016 for specified purposes, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/a)
 
-[^key-fefd7522b032947e32ba1c261f17a342]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2016/1225/schedule) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/b)
+[^c-fefd7522b032947e32ba1c261f17a342]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2016/1225/schedule) in force at 4.5.2017 in so far as not already in force, see [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2016/1225/article/1/3/b)

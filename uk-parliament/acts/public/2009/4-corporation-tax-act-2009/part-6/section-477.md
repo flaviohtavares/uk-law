@@ -25,13 +25,13 @@ summary: ''
 (2) See, in particular—
 
 - (a) Chapter 2 (relevant non-lending relationships),
-- (aa)[^key-0835662811f5a68fa6d571e8cc66aa95] Chapter 2A (disguised interest),
-- (ab)[^key-e548786920babed56b1424904075a51f] Chapter 2B (transferred income streams),
+- (aa)[^c-0835662811f5a68fa6d571e8cc66aa95] Chapter 2A (disguised interest),
+- (ab)[^c-e548786920babed56b1424904075a51f] Chapter 2B (transferred income streams),
 - (b) Chapter 3 (OEICs, unit trusts and offshore funds),
 - (c) Chapter 4 (building societies),
-- (d) Chapter 5 (registered societies[^key-3e0c114b9b29c844fb4efae88f59b7dd]),
+- (d) Chapter 5 (registered societies[^c-3e0c114b9b29c844fb4efae88f59b7dd]),
 - (e) Chapter 6 (alternative finance arrangements),
-- (f)[^key-922185639ff0b26a6b3fb3dd037b8fb8] Chapter 6A (shares accounted for as liabilities),
+- (f)[^c-922185639ff0b26a6b3fb3dd037b8fb8] Chapter 6A (shares accounted for as liabilities),
 - (g) Chapter 8 (returns from partnerships),
 - (h) Chapter 9 (manufactured interest etc),
 - (i) Chapter 10 (repos), and
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0835662811f5a68fa6d571e8cc66aa95]: Textual amendment: S. 477(2)(aa) inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/2/2)
+[^c-0835662811f5a68fa6d571e8cc66aa95]: Textual amendment: S. 477(2)(aa) inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/2/2)
 
-[^key-e548786920babed56b1424904075a51f]: Textual amendment: S. 477(2)(ab) inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/8/2)
+[^c-e548786920babed56b1424904075a51f]: Textual amendment: S. 477(2)(ab) inserted (with effect in accordance with Sch. 25 para. 10 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 25 para. 8(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/8/2)
 
-[^key-3e0c114b9b29c844fb4efae88f59b7dd]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 143](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/143) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-3e0c114b9b29c844fb4efae88f59b7dd]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 143](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/143) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-922185639ff0b26a6b3fb3dd037b8fb8]: Textual amendment: S. 477(2)(f) substituted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/2/3), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-922185639ff0b26a6b3fb3dd037b8fb8]: Textual amendment: S. 477(2)(f) substituted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/2/3), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

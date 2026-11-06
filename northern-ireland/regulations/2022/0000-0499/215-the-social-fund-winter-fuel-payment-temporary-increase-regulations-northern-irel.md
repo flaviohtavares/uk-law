@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2022 (revoked)[^key-a8342f13c2c810bc336c054b45aa816c]
+The Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2022 (revoked)[^c-a8342f13c2c810bc336c054b45aa816c]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 19th September 2022
 
-[^key-a8342f13c2c810bc336c054b45aa816c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8342f13c2c810bc336c054b45aa816c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a8342f13c2c810bc336c054b45aa816c]
+## 1. Citation, commencement and interpretation[^c-a8342f13c2c810bc336c054b45aa816c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Social Fund Winter Fuel Payment Regulations[^key-a8342f13c2c810bc336c054b45aa816c]
+## 2. Modification of the Social Fund Winter Fuel Payment Regulations[^c-a8342f13c2c810bc336c054b45aa816c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a8342f13c2c810bc336c054b45aa816c]
+## 3. Revocation[^c-a8342f13c2c810bc336c054b45aa816c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8342f13c2c810bc336c054b45aa816c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8342f13c2c810bc336c054b45aa816c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8342f13c2c810bc336c054b45aa816c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8342f13c2c810bc336c054b45aa816c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8342f13c2c810bc336c054b45aa816c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/215) revoked (18.9.2023) by [2023 (S.R. 2023/85)](https://www.legislation.gov.uk/nisr/2023/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/85/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/85/regulation/3)
+[^c-a8342f13c2c810bc336c054b45aa816c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/215) revoked (18.9.2023) by [2023 (S.R. 2023/85)](https://www.legislation.gov.uk/nisr/2023/85), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/85/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/85/regulation/3)

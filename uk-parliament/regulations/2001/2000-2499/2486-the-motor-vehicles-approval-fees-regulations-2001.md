@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State for Transport, Local Government and the Regions, in exercise of the powers conferred by section 61(1) and (2) of the Road Traffic Act 1988[^f00001], and of powers conferred by the Department of Transport (Fees) Order 1988[^f00002] and section 128 of the Finance Act 1990[^f00003]and of all other powers enabling him in that behalf, and in relation to the exercise of the powers conferred by section 61(1) and (2) of the Road Traffic Act 1988, after consultation with representative organisations in accordance with the provisions of section 195(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-e5ab4a06db14da4ceb81274693b276f4]
+## 1. Citation and commencement[^c-e5ab4a06db14da4ceb81274693b276f4]
 
 These Regulations may be cited as the Motor Vehicles (Approval) (Fees) Regulations 2001 and shall come into force on 1st August 2001.
 
-## 2. Interpretation[^key-ddfd1ba082c55d3c6e5fec9b36560365]
+## 2. Interpretation[^c-ddfd1ba082c55d3c6e5fec9b36560365]
 
 (1) In these Regulations—
 
@@ -70,11 +70,11 @@ These Regulations may be cited as the Motor Vehicles (Approval) (Fees) Regulatio
 - “same model” means, in relation to two or more vehicles, vehicles that are the same as each other in all the aspects of their technical specification relevant to the subject matter of Schedule 4 to the Approval Regulations; and
 - “Schedule 2 vehicle” has the same meaning as in Schedule 2 to the Approval Regulations.
 
-## 3. Application[^key-5d849e20b689bd091816eb7ce82f6ecf]
+## 3. Application[^c-5d849e20b689bd091816eb7ce82f6ecf]
 
 These Regulations apply to every motor vehicle to which Part II of the Approval Regulations applies.
 
-## 4. Fees-application for Minister’s approval certificate[^key-5b1ea2affc312867af31716787d60c75]
+## 4. Fees-application for Minister’s approval certificate[^c-5b1ea2affc312867af31716787d60c75]
 
 (1) Subject to paragraphs (2) to (4) below, the fee prescribed for the purposes of regulation 6(3)(b) of the Approval Regulations, in respect of an original application, is—
 
@@ -102,7 +102,7 @@ such additional amounts being payable before the examination is carried out.
 
 (4) Where an original application is refused by virtue of regulation 10 of the Approval Regulations, the fee prescribed for the purposes of regulation 6(3)(b) of those Regulations shall be £50 in all cases and the balance of any sum previously paid in respect of that fee shall be repaid to the applicant.
 
-**5.**[^key-5979de213c36346150bcecd5907b3320] (1) Subject to paragraph (2), the fee prescribed for the purposes of regulation 6(7)(d) of the Approval Regulations, in respect of a further application, is—
+**5.**[^c-5979de213c36346150bcecd5907b3320] (1) Subject to paragraph (2), the fee prescribed for the purposes of regulation 6(7)(d) of the Approval Regulations, in respect of a further application, is—
 
 - (a) £30 in the case of any passenger vehicle; and
 - (b) £15 in the case of any goods vehicle.
@@ -138,7 +138,7 @@ or any combination of sub-paragraphs (a), (b) or (c) above.
 - (b) one or more items of that Table in respect of which sufficient documentary evidence is produced to the Secretary of State before the examination to satisfy him as to compliance with the requirements of those items; or
 - (c) item 25 of the Table in Schedule 3 to the Approval Regulations.
 
-## 6. Fees-general provisions[^key-a32c159c5acd4d59d4c08cca5ac0cbed]
+## 6. Fees-general provisions[^c-a32c159c5acd4d59d4c08cca5ac0cbed]
 
 If the applicant—
 
@@ -147,7 +147,7 @@ If the applicant—
 
 then, unless another time is arranged for the examination, the application shall be treated as one in respect of which no fee is payable and any sum previously paid in respect of that application shall be repaid to the applicant.
 
-## 7. Fees-appeals[^key-3542abd2be9c5c39b004861e4bd65f9f]
+## 7. Fees-appeals[^c-3542abd2be9c5c39b004861e4bd65f9f]
 
 (1) Subject to paragraphs (2) and (3) below, the fee prescribed for the purposes of regulation 9(2) of the Approval Regulations in respect of an appeal is—
 
@@ -176,7 +176,7 @@ such additional amount being payable before the re-examination is carried out.
 
 and the balance, if any, of any sum previously paid in respect of that fee shall be repaid to the appellant.
 
-## 8. Provisions as to fees on appeal[^key-c4af9f61df90cadf10e7c416bf75e0a6]
+## 8. Provisions as to fees on appeal[^c-c4af9f61df90cadf10e7c416bf75e0a6]
 
 (1) After the completion of a re-examination of a vehicle for the purposes of an appeal, the Secretary of State may, as he thinks fit, repay to the appellant either the whole or part of the fee paid on the appeal, where it appears to him that there were substantial grounds for contesting the whole or part of the determination against which the appeal was made.
 
@@ -187,17 +187,17 @@ and the balance, if any, of any sum previously paid in respect of that fee shall
 
 then, unless another time is arranged for the re-examination, the appeal shall be treated as one in respect of which no fee is payable and any sum previously paid in respect of that appeal shall be repaid to the appellant.
 
-## 9. Fees-replacement certificates[^key-7bc16f261c0fcb41150a318cfb062056]
+## 9. Fees-replacement certificates[^c-7bc16f261c0fcb41150a318cfb062056]
 
 The fee prescribed for the purposes of regulation 12(2)(b) of the Approval Regulations is £10.
 
-## 10. Provisions as to notices[^key-e441252fbdade4b0c8107f9b7ab1fe2b]
+## 10. Provisions as to notices[^c-e441252fbdade4b0c8107f9b7ab1fe2b]
 
 (1) Any notice given under these Regulations may be given by post.
 
 (2) For the purposes of calculating the period of any notice given under these Regulations a Saturday, Sunday, Good Friday, Christmas Day or a bank holiday (as defined in the Banking and Financial Dealings Act 1971) shall be excluded from the period.
 
-## 11. Revocation and transitional arrangements[^key-7ebf0491fb853949be20812d1cb6f2a3]
+## 11. Revocation and transitional arrangements[^c-7ebf0491fb853949be20812d1cb6f2a3]
 
 (1) Subject to paragraph (2), the Motor Vehicles (Approval) (Fees) Regulations 1997 (“the 1997 regulations”)[^f00007] are revoked.
 
@@ -257,9 +257,9 @@ Copies of the Regulations referred to in these Regulations can be obtained from 
 
 [^f00003]: Footnote: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29).
 
-[^key-e5ab4a06db14da4ceb81274693b276f4]: Commencement: Reg. 1 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-e5ab4a06db14da4ceb81274693b276f4]: Commencement: Reg. 1 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-ddfd1ba082c55d3c6e5fec9b36560365]: Commencement: Reg. 2 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-ddfd1ba082c55d3c6e5fec9b36560365]: Commencement: Reg. 2 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2001/25](https://www.legislation.gov.uk/uksi/2001/25).
 
@@ -267,22 +267,22 @@ Copies of the Regulations referred to in these Regulations can be obtained from 
 
 [^f00006]: Footnote: [S.I. 1984/981](https://www.legislation.gov.uk/uksi/1984/981); relevant amending instruments are [S.I. 1984/1761](https://www.legislation.gov.uk/uksi/1984/1761), [1987/1509](https://www.legislation.gov.uk/uksi/1987/1509), [1988/1522](https://www.legislation.gov.uk/uksi/1988/1522), [1989/1580](https://www.legislation.gov.uk/uksi/1989/1580), [1991/1022](https://www.legislation.gov.uk/uksi/1991/1022), [1992/1341](https://www.legislation.gov.uk/uksi/1992/1341), [2161](https://www.legislation.gov.uk/uksi/1992/2161) and [2908](https://www.legislation.gov.uk/uksi/1992/2908), [1993/2201](https://www.legislation.gov.uk/uksi/1993/2201) and [1995/1322](https://www.legislation.gov.uk/uksi/1995/1322).
 
-[^key-5d849e20b689bd091816eb7ce82f6ecf]: Commencement: Reg. 3 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-5d849e20b689bd091816eb7ce82f6ecf]: Commencement: Reg. 3 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-5b1ea2affc312867af31716787d60c75]: Commencement: Reg. 4 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-5b1ea2affc312867af31716787d60c75]: Commencement: Reg. 4 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-5979de213c36346150bcecd5907b3320]: Commencement: Reg. 5 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-5979de213c36346150bcecd5907b3320]: Commencement: Reg. 5 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-a32c159c5acd4d59d4c08cca5ac0cbed]: Commencement: Reg. 6 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-a32c159c5acd4d59d4c08cca5ac0cbed]: Commencement: Reg. 6 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-3542abd2be9c5c39b004861e4bd65f9f]: Commencement: Reg. 7 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-3542abd2be9c5c39b004861e4bd65f9f]: Commencement: Reg. 7 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-c4af9f61df90cadf10e7c416bf75e0a6]: Commencement: Reg. 8 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-c4af9f61df90cadf10e7c416bf75e0a6]: Commencement: Reg. 8 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-7bc16f261c0fcb41150a318cfb062056]: Commencement: Reg. 9 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-7bc16f261c0fcb41150a318cfb062056]: Commencement: Reg. 9 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-e441252fbdade4b0c8107f9b7ab1fe2b]: Commencement: Reg. 10 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-e441252fbdade4b0c8107f9b7ab1fe2b]: Commencement: Reg. 10 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
-[^key-7ebf0491fb853949be20812d1cb6f2a3]: Commencement: Reg. 11 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
+[^c-7ebf0491fb853949be20812d1cb6f2a3]: Commencement: Reg. 11 in force at 1.8.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2486/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1997/1459](https://www.legislation.gov.uk/uksi/1997/1459).

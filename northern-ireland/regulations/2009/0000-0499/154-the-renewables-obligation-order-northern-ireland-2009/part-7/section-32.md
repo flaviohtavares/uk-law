@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Issue of NIROCs to generators and suppliers[^key-ceb1e01f03003b01b58c13ae7b87fd5f]
+## 32. Issue of NIROCs to generators and suppliers[^c-ceb1e01f03003b01b58c13ae7b87fd5f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ NIROCs are to be issued as set out in paragraph (3).
 
 ## Annotations
 
-[^key-ceb1e01f03003b01b58c13ae7b87fd5f]: Commencement: Art. 32 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-ceb1e01f03003b01b58c13ae7b87fd5f]: Commencement: Art. 32 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

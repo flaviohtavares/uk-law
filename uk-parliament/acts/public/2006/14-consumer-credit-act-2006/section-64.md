@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Determinations etc. by OFT[^key-ee1a010d669d8225d383b35a1bd0ad76]
+## 64. Determinations etc. by OFT[^c-ee1a010d669d8225d383b35a1bd0ad76]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ For section 183 of the 1974 Act (determinations etc. by OFT) substitute—
 
 ## Annotations
 
-[^key-ee1a010d669d8225d383b35a1bd0ad76]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2006/14/section/64) in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
+[^c-ee1a010d669d8225d383b35a1bd0ad76]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2006/14/section/64) in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)

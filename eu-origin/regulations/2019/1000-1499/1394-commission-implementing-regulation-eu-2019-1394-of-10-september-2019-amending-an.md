@@ -270,7 +270,7 @@ In Annex 33-07 to Implementing Regulation (EU) 2015/2447, in box 2, the words �
 
 Points 14 and 15 of Article 1 shall apply from 1 January 2020.
 
-[^key-4c905c50ccfbe376c582cf77ceb1b3d2]...
+[^c-4c905c50ccfbe376c582cf77ceb1b3d2]...
 
 Done at Brussels, 10 September 2019.
 
@@ -577,4 +577,4 @@ Annex B to Implementing Regulation (EU) 2015/2447 is amended as follows:
 
 [^f00009]: Footnote: When Union code entered for (Calculation of taxes – Tax Type) is B00.’.
 
-[^key-4c905c50ccfbe376c582cf77ceb1b3d2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1394/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(e) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))
+[^c-4c905c50ccfbe376c582cf77ceb1b3d2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1394/signature) omitted (31.12.2020) by virtue of S.I. 2019/715, reg. 7(1)(e) (as inserted by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/6/b))

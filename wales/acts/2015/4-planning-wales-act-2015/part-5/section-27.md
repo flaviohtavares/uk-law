@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Applications to Welsh Ministers: further amendments[^c22542831][^key-5caef8768b54d3400450a9ec74ef4ef5]
+## 27. Applications to Welsh Ministers: further amendments[^c22542831][^c-5caef8768b54d3400450a9ec74ef4ef5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ For further amendments relating to applications to the Welsh Ministers, see Sche
 
 [^c22542831]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2015/4/section/27) partly in force; [s. 27](https://www.legislation.gov.uk/anaw/2015/4/section/27) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-5caef8768b54d3400450a9ec74ef4ef5]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2015/4/section/27) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)
+[^c-5caef8768b54d3400450a9ec74ef4ef5]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2015/4/section/27) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/wsi/2016/52/article/3/a)

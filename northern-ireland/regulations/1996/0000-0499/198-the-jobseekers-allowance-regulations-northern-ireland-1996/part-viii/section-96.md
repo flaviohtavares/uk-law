@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Date on which income is treated as paid[^key-dbdf87a7e53e54b45732b69ed33f292e]
+## 96. Date on which income is treated as paid[^c-dbdf87a7e53e54b45732b69ed33f292e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbdf87a7e53e54b45732b69ed33f292e]: Commencement: Reg. 96 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dbdf87a7e53e54b45732b69ed33f292e]: Commencement: Reg. 96 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

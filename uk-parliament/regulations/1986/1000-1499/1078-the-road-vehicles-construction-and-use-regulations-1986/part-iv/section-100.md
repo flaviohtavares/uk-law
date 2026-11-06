@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Maintenance and use of vehicle so as not to be a danger, etc[^key-918c8cbb501b0ba1f6fe86149e79741e]
+## 100. Maintenance and use of vehicle so as not to be a danger, etc[^c-918c8cbb501b0ba1f6fe86149e79741e]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Provided that the provisions of this regulation with regard to the number of pas
 
 ## Annotations
 
-[^key-918c8cbb501b0ba1f6fe86149e79741e]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/1986/1078/regulation/100) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-918c8cbb501b0ba1f6fe86149e79741e]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/1986/1078/regulation/100) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

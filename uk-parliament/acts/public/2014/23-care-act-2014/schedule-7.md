@@ -26,7 +26,7 @@ Section 109
 
 #### Membership
 
-**1.**[^key-0c767af3ca40f7ee11eea5d994ecd2e8] (1) The HRA consists of—
+**1.**[^c-0c767af3ca40f7ee11eea5d994ecd2e8] (1) The HRA consists of—
 
 - (a) a chair appointed by the Secretary of State,
 - (b) at least three but no more than four other members appointed by the Secretary of State,
@@ -47,7 +47,7 @@ Section 109
 
 #### Non-executive members: terms of office
 
-**2.**[^key-4f7eb8ca91d5f690a9d16f0d51287775] (1) A person holds office as a non-executive member of the HRA on the terms of that person's appointment.
+**2.**[^c-4f7eb8ca91d5f690a9d16f0d51287775] (1) A person holds office as a non-executive member of the HRA on the terms of that person's appointment.
 
 (2) A person may not be appointed as a non-executive member for a period of more than four years.
 
@@ -65,7 +65,7 @@ Section 109
 
 #### Non-executive members: suspension from office
 
-**3.**[^key-5340c501017b370c419f6f06ace8edb2] (1) Having decided to suspend a person under paragraph 2(6), the Secretary of State must give notice of the decision to the person; and the suspension takes effect when the person receives the notice.
+**3.**[^c-5340c501017b370c419f6f06ace8edb2] (1) Having decided to suspend a person under paragraph 2(6), the Secretary of State must give notice of the decision to the person; and the suspension takes effect when the person receives the notice.
 
 (2) The notice may be—
 
@@ -91,7 +91,7 @@ Section 109
 - (a) decides that there are no grounds to remove the person from office under paragraph 2(5), or
 - (b) decides that there are grounds to do so but nonetheless decides not to do so.
 
-**4.**[^key-7a9b38655656116479d76ea0261725c2] (1) Where a person is suspended from office as the chair under paragraph 2(6), the Secretary of State may appoint a non-executive member as interim chair to exercise the chair's functions.
+**4.**[^c-7a9b38655656116479d76ea0261725c2] (1) Where a person is suspended from office as the chair under paragraph 2(6), the Secretary of State may appoint a non-executive member as interim chair to exercise the chair's functions.
 
 (2) Appointment as interim chair is for a term not exceeding the shorter of—
 
@@ -104,13 +104,13 @@ Section 109
 
 #### Non-executive members: pay
 
-**5.**[^key-f7797b8944cbeb49a01cabb34d639812] (1) The HRA must pay its non-executive members such remuneration as the Secretary of State may decide.
+**5.**[^c-f7797b8944cbeb49a01cabb34d639812] (1) The HRA must pay its non-executive members such remuneration as the Secretary of State may decide.
 
 (2) The HRA must pay, or provide for the payment of, such allowances or gratuities as the Secretary of State may decide to a person who is or has been a non-executive member of the HRA.
 
 #### Employees: terms of office
 
-**6.**[^key-783bdbe071f0ef9d78f94f26efd610dd] (1) Each executive member of the HRA is appointed as an employee of the HRA on such terms as it decides.
+**6.**[^c-783bdbe071f0ef9d78f94f26efd610dd] (1) Each executive member of the HRA is appointed as an employee of the HRA on such terms as it decides.
 
 (2) A person may not be appointed as chief executive without the consent of the Secretary of State.
 
@@ -118,7 +118,7 @@ Section 109
 
 #### Employees: pay
 
-**7.**[^key-b3ea0741cdce7d0a6b5f0b3f88c1fcba] (1) The HRA must pay its employees such remuneration as it decides.
+**7.**[^c-b3ea0741cdce7d0a6b5f0b3f88c1fcba] (1) The HRA must pay its employees such remuneration as it decides.
 
 (2) The HRA may pay, or provide for the payment of, such pensions, allowances or gratuities as it decides to or in respect of a person who is or has been an employee of the HRA.
 
@@ -126,13 +126,13 @@ Section 109
 
 #### Committees and sub-committees
 
-**8.**[^key-dae4b44365763f628fb7ab6561be6403] (1) The HRA must appoint a committee for the purpose of giving advice—
+**8.**[^c-dae4b44365763f628fb7ab6561be6403] (1) The HRA must appoint a committee for the purpose of giving advice—
 
 - (a) to the HRA in connection with the exercise of the HRA's function under regulation 5(1)(a) of the Health Service (Control of Patient Information) Regulations 2002 (S.I. 2002/1438) (approval for processing confidential patient information);
 - (b) to the Secretary of State in connection with the exercise of the Secretary of State's functions under regulations 2, 3(4) and 5 of those Regulations (processing of confidential patient information);
-- (c) to NHS England[^key-71a4263edab1f48b9d1efd57b6e19385] in connection with—
-  - (i) the exercise by NHS England[^key-51c29c6b25d26ab29635278ac5728cde] of functions conferred in regulations under section 251 of the National Health Service Act 2006 (processing of patient information for medical purposes) , so far as those functions relate to information obtained by NHS England in connection with the exercise of its relevant data functions (as defined by section 253(3) of the Health and Social Care Act 2012)[^key-4b75c2921f1a0ed9658ab35f8b90a07c];
-  - (ii) any publication or other dissemination by NHS England of such information[^key-95b8edd798d69dfc686183f43bf6af0f] which is in a form which identifies an individual to whom the information relates or enables the identity of such an individual to be ascertained.
+- (c) to NHS England[^c-71a4263edab1f48b9d1efd57b6e19385] in connection with—
+  - (i) the exercise by NHS England[^c-51c29c6b25d26ab29635278ac5728cde] of functions conferred in regulations under section 251 of the National Health Service Act 2006 (processing of patient information for medical purposes) , so far as those functions relate to information obtained by NHS England in connection with the exercise of its relevant data functions (as defined by section 253(3) of the Health and Social Care Act 2012)[^c-4b75c2921f1a0ed9658ab35f8b90a07c];
+  - (ii) any publication or other dissemination by NHS England of such information[^c-95b8edd798d69dfc686183f43bf6af0f] which is in a form which identifies an individual to whom the information relates or enables the identity of such an individual to be ascertained.
 
 (2) The HRA may appoint other committees and sub-committees.
 
@@ -142,17 +142,17 @@ Section 109
 
 (5) The HRA may pay such remuneration and allowances as it decides to a person who is a member of a committee or sub-committee, but is not an employee of the HRA, regardless of whether the person is a non-executive member of the HRA.
 
-**9.**[^key-0af1aa9db901cdfb048b21999a633aa4][^key-6b5f0e47b3c60d2d173f8e3b29a9bd9a] Regulations may provide for the committee appointed under paragraph 8(1) to be required, in giving advice, to have regard to specified factors or matters.
+**9.**[^c-0af1aa9db901cdfb048b21999a633aa4][^c-6b5f0e47b3c60d2d173f8e3b29a9bd9a] Regulations may provide for the committee appointed under paragraph 8(1) to be required, in giving advice, to have regard to specified factors or matters.
 
 #### Procedure
 
-**10.**[^key-e5d694ba7eefdb0a54feb274ff35d315] (1) The HRA may regulate its own procedure.
+**10.**[^c-e5d694ba7eefdb0a54feb274ff35d315] (1) The HRA may regulate its own procedure.
 
 (2) A vacancy among the members of the HRA, or a defect in the appointment of a member, does not affect the validity of any act of the HRA.
 
 #### Seal and evidence
 
-**11.**[^key-16bb6f0604ab955cf8f0b5927b0dcc22] (1) The application of the HRA's seal must be authenticated by the signature of a member of the HRA or a person who has been authorised (whether generally or specifically) for the purpose.
+**11.**[^c-16bb6f0604ab955cf8f0b5927b0dcc22] (1) The application of the HRA's seal must be authenticated by the signature of a member of the HRA or a person who has been authorised (whether generally or specifically) for the purpose.
 
 (2) A document purporting to be duly executed under the HRA's seal or to be signed on its behalf must be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
 
@@ -160,7 +160,7 @@ Section 109
 
 #### Status of the HRA
 
-**12.**[^key-f75dee74db8816dd7f5e9913b1f244ee] (1) The HRA is not to be regarded as a servant or agent of the Crown, or as enjoying any status, privilege or immunity of the Crown.
+**12.**[^c-f75dee74db8816dd7f5e9913b1f244ee] (1) The HRA is not to be regarded as a servant or agent of the Crown, or as enjoying any status, privilege or immunity of the Crown.
 
 (2) The HRA's property is not to be regarded as property of, or property held on behalf of, the Crown.
 
@@ -168,7 +168,7 @@ Section 109
 
 #### Exercise of functions
 
-**13.**[^key-65b39f71980cc5428761f999657e3e47] (1) The HRA must exercise its functions effectively, efficiently and economically.
+**13.**[^c-65b39f71980cc5428761f999657e3e47] (1) The HRA must exercise its functions effectively, efficiently and economically.
 
 (2) The HRA may arrange for any of its committees, sub-committees or members or any other person (other than a devolved authority) to exercise any of its functions on its behalf.
 
@@ -180,7 +180,7 @@ Section 109
 
 #### Help or advice for other public authorities
 
-**14.**[^key-83f9c3712b3e8bac879c82b69555aae7] (1) The HRA may provide help or advice to another public authority for the purpose of the exercise by that authority of its functions.
+**14.**[^c-83f9c3712b3e8bac879c82b69555aae7] (1) The HRA may provide help or advice to another public authority for the purpose of the exercise by that authority of its functions.
 
 (2) Help or advice under this paragraph may be provided on such terms as the HRA decides (including terms relating to payment of remuneration and allowances).
 
@@ -196,7 +196,7 @@ Section 109
 
 #### Arrangements with devolved authorities
 
-**15.**[^key-61f0d0e5b29c3fc72d42cc717d9678b2] (1) The HRA may arrange with a devolved authority for the HRA—
+**15.**[^c-61f0d0e5b29c3fc72d42cc717d9678b2] (1) The HRA may arrange with a devolved authority for the HRA—
 
 - (a) to exercise on behalf of the devolved authority any function which corresponds to a function of the HRA;
 - (b) to provide services or facilities in so far as the devolved authority requires them in connection with the exercise of such a function.
@@ -205,7 +205,7 @@ Section 109
 
 #### Failure to exercise functions
 
-**16.**[^key-d3cce30d57a535c9fc54a38765301ca0] (1) If the Secretary of State considers that the HRA is failing or has failed to exercise any of its functions, and that the failure is significant, the Secretary of State may direct the HRA to exercise such of its functions, in such manner and within such period, as the direction specifies.
+**16.**[^c-d3cce30d57a535c9fc54a38765301ca0] (1) If the Secretary of State considers that the HRA is failing or has failed to exercise any of its functions, and that the failure is significant, the Secretary of State may direct the HRA to exercise such of its functions, in such manner and within such period, as the direction specifies.
 
 (2) If the HRA fails to comply with a direction under this paragraph, the Secretary of State may—
 
@@ -220,11 +220,11 @@ Section 109
 
 #### Funding
 
-**17.**[^key-a24be19c9151e76cf4feefaad2158126] The Secretary of State may, with the consent of the Treasury, make payments to the HRA at such times and on such conditions (if any) as the Secretary of State considers appropriate.
+**17.**[^c-a24be19c9151e76cf4feefaad2158126] The Secretary of State may, with the consent of the Treasury, make payments to the HRA at such times and on such conditions (if any) as the Secretary of State considers appropriate.
 
 #### Fees and indemnities
 
-**18.**[^key-1c0d0c447577163e4925a7e395035d08] (1) Regulations may require payment of a fee in relation to the exercise of a specified function of the HRA; and the amount of the fee is to be the amount specified in, or determined in accordance with, the regulations.
+**18.**[^c-1c0d0c447577163e4925a7e395035d08] (1) Regulations may require payment of a fee in relation to the exercise of a specified function of the HRA; and the amount of the fee is to be the amount specified in, or determined in accordance with, the regulations.
 
 (2) Where the amount of a fee is to be specified in regulations under this paragraph—
 
@@ -257,7 +257,7 @@ Section 109
 
 #### Accounts
 
-**19.**[^key-a67d7a58c0438fc72a17dbca177823eb] (1) The HRA must keep accounts in such form as the Secretary of State may determine.
+**19.**[^c-a67d7a58c0438fc72a17dbca177823eb] (1) The HRA must keep accounts in such form as the Secretary of State may determine.
 
 (2) The HRA must prepare annual accounts in respect of each financial year in such form as the Secretary of State may determine.
 
@@ -280,7 +280,7 @@ within such period after the end of the financial year to which the accounts rel
 
 #### Annual report
 
-**20.**[^key-6db84025fdce646720d3ea7abf82d6e6] (1) As soon as is feasible after the end of each financial year, the HRA must prepare an annual report on—
+**20.**[^c-6db84025fdce646720d3ea7abf82d6e6] (1) As soon as is feasible after the end of each financial year, the HRA must prepare an annual report on—
 
 - (a) the activities it has undertaken during the year, and
 - (b) the activities it proposes to undertake during the current financial year.
@@ -298,11 +298,11 @@ within such period after the end of the financial year to which the accounts rel
 
 #### Public Records Act 1958
 
-**21.**[^key-17a239bea8879c1bea1c1fa9d0024044] In Part 2 of the Table in Schedule 1 to the Public Records Act 1958, at the appropriate place insert— “ Health Research Authority. ”
+**21.**[^c-17a239bea8879c1bea1c1fa9d0024044] In Part 2 of the Table in Schedule 1 to the Public Records Act 1958, at the appropriate place insert— “ Health Research Authority. ”
 
 #### Public Bodies (Admission to Meetings) Act 1960
 
-**22.**[^key-5f514c043ae64353ac957e57667bcf7d] In the Schedule to the Public Bodies (Admission to Meetings) Act 1960, after paragraph (bm) (inserted by paragraph 30 of Schedule 5 to this Act) insert—
+**22.**[^c-5f514c043ae64353ac957e57667bcf7d] In the Schedule to the Public Bodies (Admission to Meetings) Act 1960, after paragraph (bm) (inserted by paragraph 30 of Schedule 5 to this Act) insert—
 
 > - (bn) the Health Research Authority;
 
@@ -310,86 +310,86 @@ within such period after the end of the financial year to which the accounts rel
 
 #### Parliamentary Commissioner Act 1967
 
-**23.**[^key-ccf637db49874d88e9cb1368892fe2c0] In Schedule 2 to the Parliamentary Commissioner Act 1967, at the appropriate place insert— “ Health Research Authority. ”
+**23.**[^c-ccf637db49874d88e9cb1368892fe2c0] In Schedule 2 to the Parliamentary Commissioner Act 1967, at the appropriate place insert— “ Health Research Authority. ”
 
 #### House of Commons Disqualification Act 1975
 
-**24.**[^key-f9a0663689451add88eb295ac99d14e1] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975, at the appropriate place insert— “ The Health Research Authority. ”
+**24.**[^c-f9a0663689451add88eb295ac99d14e1] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975, at the appropriate place insert— “ The Health Research Authority. ”
 
 #### Copyright, Designs and Patents Act 1988
 
-**25.**[^key-b261d1a9555aa82effb65bfe0d31b17f] In section 48(6) of the Copyright, Designs and Patents Act 1988 (definition of “the Crown”), after “Health Education England” (inserted by paragraph 33 of Schedule 5 to this Act) insert “ , the Health Research Authority ”.
+**25.**[^c-b261d1a9555aa82effb65bfe0d31b17f] In section 48(6) of the Copyright, Designs and Patents Act 1988 (definition of “the Crown”), after “Health Education England” (inserted by paragraph 33 of Schedule 5 to this Act) insert “ , the Health Research Authority ”.
 
 #### Freedom of Information Act 2000
 
-**26.**[^key-ad19963d53c7585d31a48719dc2f73d4] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies), at the appropriate place insert— “ The Health Research Authority. ”
+**26.**[^c-ad19963d53c7585d31a48719dc2f73d4] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies), at the appropriate place insert— “ The Health Research Authority. ”
 
 #### Equality Act 2010
 
-**27.**[^key-9017dfb9cb567426212c0e022031da3e] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Health, social care and social security”, after the entry for Health Education England (inserted by paragraph 35 of Schedule 5 to this Act) insert— “ The Health Research Authority. ”
+**27.**[^c-9017dfb9cb567426212c0e022031da3e] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Health, social care and social security”, after the entry for Health Education England (inserted by paragraph 35 of Schedule 5 to this Act) insert— “ The Health Research Authority. ”
 
 ## Annotations
 
-[^key-0c767af3ca40f7ee11eea5d994ecd2e8]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/1) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-0c767af3ca40f7ee11eea5d994ecd2e8]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/1) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-4f7eb8ca91d5f690a9d16f0d51287775]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/2) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-4f7eb8ca91d5f690a9d16f0d51287775]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/2) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-5340c501017b370c419f6f06ace8edb2]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/3) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-5340c501017b370c419f6f06ace8edb2]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/3) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-7a9b38655656116479d76ea0261725c2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/4) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-7a9b38655656116479d76ea0261725c2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/4) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-f7797b8944cbeb49a01cabb34d639812]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/5) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-f7797b8944cbeb49a01cabb34d639812]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/5) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-783bdbe071f0ef9d78f94f26efd610dd]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/6) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-783bdbe071f0ef9d78f94f26efd610dd]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/6) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-b3ea0741cdce7d0a6b5f0b3f88c1fcba]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/7) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-b3ea0741cdce7d0a6b5f0b3f88c1fcba]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/7) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-dae4b44365763f628fb7ab6561be6403]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-dae4b44365763f628fb7ab6561be6403]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-71a4263edab1f48b9d1efd57b6e19385]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-71a4263edab1f48b9d1efd57b6e19385]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-51c29c6b25d26ab29635278ac5728cde]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c/i) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-51c29c6b25d26ab29635278ac5728cde]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c/i) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-4b75c2921f1a0ed9658ab35f8b90a07c]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c/i) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-4b75c2921f1a0ed9658ab35f8b90a07c]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c/i) inserted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-95b8edd798d69dfc686183f43bf6af0f]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c/ii) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-95b8edd798d69dfc686183f43bf6af0f]: Textual amendment: Words in [Sch. 7 para. 8(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/8/1/c/ii) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/3/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-0af1aa9db901cdfb048b21999a633aa4]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/9) in force at 15.7.2014 for specified purposes by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/3/b)
+[^c-0af1aa9db901cdfb048b21999a633aa4]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/9) in force at 15.7.2014 for specified purposes by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/3/b)
 
-[^key-6b5f0e47b3c60d2d173f8e3b29a9bd9a]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/9) in force at 1.1.2015 in so far as not already in force by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-6b5f0e47b3c60d2d173f8e3b29a9bd9a]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/9) in force at 1.1.2015 in so far as not already in force by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-e5d694ba7eefdb0a54feb274ff35d315]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/10) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-e5d694ba7eefdb0a54feb274ff35d315]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/10) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-16bb6f0604ab955cf8f0b5927b0dcc22]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/11) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-16bb6f0604ab955cf8f0b5927b0dcc22]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/11) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-f75dee74db8816dd7f5e9913b1f244ee]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/12) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-f75dee74db8816dd7f5e9913b1f244ee]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/12) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-65b39f71980cc5428761f999657e3e47]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/13) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-65b39f71980cc5428761f999657e3e47]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/13) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-83f9c3712b3e8bac879c82b69555aae7]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/14) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-83f9c3712b3e8bac879c82b69555aae7]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/14) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-61f0d0e5b29c3fc72d42cc717d9678b2]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/15) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-61f0d0e5b29c3fc72d42cc717d9678b2]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/15) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-d3cce30d57a535c9fc54a38765301ca0]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/16) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-d3cce30d57a535c9fc54a38765301ca0]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/16) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-a24be19c9151e76cf4feefaad2158126]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/17) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-a24be19c9151e76cf4feefaad2158126]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/17) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-1c0d0c447577163e4925a7e395035d08]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/18) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-1c0d0c447577163e4925a7e395035d08]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/18) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-a67d7a58c0438fc72a17dbca177823eb]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/19) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-a67d7a58c0438fc72a17dbca177823eb]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/19) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-6db84025fdce646720d3ea7abf82d6e6]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/20) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-6db84025fdce646720d3ea7abf82d6e6]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/20) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-17a239bea8879c1bea1c1fa9d0024044]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/21) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-17a239bea8879c1bea1c1fa9d0024044]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/21) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-5f514c043ae64353ac957e57667bcf7d]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/22) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-5f514c043ae64353ac957e57667bcf7d]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/22) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-ccf637db49874d88e9cb1368892fe2c0]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/23) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-ccf637db49874d88e9cb1368892fe2c0]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/23) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-f9a0663689451add88eb295ac99d14e1]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/24) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-f9a0663689451add88eb295ac99d14e1]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/24) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-b261d1a9555aa82effb65bfe0d31b17f]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/25) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-b261d1a9555aa82effb65bfe0d31b17f]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/25) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-ad19963d53c7585d31a48719dc2f73d4]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/26) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-ad19963d53c7585d31a48719dc2f73d4]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/26) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
 
-[^key-9017dfb9cb567426212c0e022031da3e]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/27) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)
+[^c-9017dfb9cb567426212c0e022031da3e]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2014/23/schedule/7/paragraph/27) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(m)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/m)

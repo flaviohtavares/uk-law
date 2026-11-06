@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Validity of Secretary of State’s acts.[^key-28bc5944108b762883855a3bd6b5024f]
+## 42. Validity of Secretary of State’s acts.[^c-28bc5944108b762883855a3bd6b5024f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) the rejection of a programme under section 32;
 - (d) a determination under section 34;
 - (e) a determination under section 35;
-- (ea)[^key-1857e4f2bd5609fbb58212a8895cf2a1] the giving of a notice under section 36A(2);
+- (ea)[^c-1857e4f2bd5609fbb58212a8895cf2a1] the giving of a notice under section 36A(2);
 - (f) the giving of a notice under section 38(4).
 
 (3) If on an application under this section the court is satisfied that the act in question was not within the powers of the Secretary of State or that the applicant has been substantially prejudiced by a failure to comply with the relevant procedural requirements, the court may quash the act.
@@ -43,7 +43,7 @@ summary: ''
 - (c) in relation to the rejection of a programme under section 32, means the requirements of section 32(4);
 - (d) in relation to a determination under section 34, means the requirements of section 34(5), (6) and (7);
 - (e) in relation to a determination under section 35, means the requirements of section 35(2);
-- (ea)[^key-0237dcf1dce3e09d229918aadc2f7144] in relation to the giving of a notice under section 36A(2), means the requirements of section 36A(6);
+- (ea)[^c-0237dcf1dce3e09d229918aadc2f7144] in relation to the giving of a notice under section 36A(2), means the requirements of section 36A(6);
 - (f) in relation to the giving of a notice under section 38(4), means the requirements of section 38(5).
 
 (6) In this section, “**the court**” means—
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
+[^c-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
 
-[^key-1857e4f2bd5609fbb58212a8895cf2a1]: Textual amendment: [S. 42(2)(ea)](https://www.legislation.gov.uk/ukpga/1998/17/section/42/2/ea) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/12/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-1857e4f2bd5609fbb58212a8895cf2a1]: Textual amendment: [S. 42(2)(ea)](https://www.legislation.gov.uk/ukpga/1998/17/section/42/2/ea) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/12/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-0237dcf1dce3e09d229918aadc2f7144]: Textual amendment: [S. 42(5)(ea)](https://www.legislation.gov.uk/ukpga/1998/17/section/42/5/ea) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/12/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-0237dcf1dce3e09d229918aadc2f7144]: Textual amendment: [S. 42(5)(ea)](https://www.legislation.gov.uk/ukpga/1998/17/section/42/5/ea) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/12/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

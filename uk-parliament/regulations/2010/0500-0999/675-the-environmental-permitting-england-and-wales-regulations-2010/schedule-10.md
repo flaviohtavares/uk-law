@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — Landfill[^key-ee162d1d2ef05d6d716d416236816f22]
+## SCHEDULE 10 — Landfill[^c-ee162d1d2ef05d6d716d416236816f22]
 
 *Extent: E+W+S*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Regulation 35(2)(d)
 
-### 1. Application[^key-ee162d1d2ef05d6d716d416236816f22]
+### 1. Application[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation: general[^key-ee162d1d2ef05d6d716d416236816f22]
+### 2. Interpretation: general[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Applications for the grant of an environmental permit[^key-ee162d1d2ef05d6d716d416236816f22]
+### 3. Applications for the grant of an environmental permit[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Inspection prior to operation[^key-ee162d1d2ef05d6d716d416236816f22]
+### 4. Inspection prior to operation[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Exercise of relevant functions[^key-ee162d1d2ef05d6d716d416236816f22]
+### 5. Exercise of relevant functions[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Interpretation of the Landfill Directive for the exercise of relevant functions[^key-ee162d1d2ef05d6d716d416236816f22]
+### 6. Interpretation of the Landfill Directive for the exercise of relevant functions[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Interpretation of the Decision Annex for the exercise of relevant functions: general[^key-ee162d1d2ef05d6d716d416236816f22]
+### 7. Interpretation of the Decision Annex for the exercise of relevant functions: general[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Interpretation of the Decision Annex for the exercise of relevant functions: additional acceptance criteria relating to physical stability and bearing capacity of granular waste[^key-ee162d1d2ef05d6d716d416236816f22]
+### 8. Interpretation of the Decision Annex for the exercise of relevant functions: additional acceptance criteria relating to physical stability and bearing capacity of granular waste[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Interpretation of the Decision Annex for the exercise of relevant functions: additional acceptance criteria in relating to monolithic waste[^key-ee162d1d2ef05d6d716d416236816f22]
+### 9. Interpretation of the Decision Annex for the exercise of relevant functions: additional acceptance criteria in relating to monolithic waste[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Closure of a landfill[^key-ee162d1d2ef05d6d716d416236816f22]
+### 10. Closure of a landfill[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Surrender applications[^key-ee162d1d2ef05d6d716d416236816f22]
+### 11. Surrender applications[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee162d1d2ef05d6d716d416236816f22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/675) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-ee162d1d2ef05d6d716d416236816f22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/675) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

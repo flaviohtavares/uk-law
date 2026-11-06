@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Power to charge[^key-e5556609105622c0238bddd1c71ebe7a]
+## 95. Power to charge[^c-e5556609105622c0238bddd1c71ebe7a]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5556609105622c0238bddd1c71ebe7a]: Commencement: S. 95 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e5556609105622c0238bddd1c71ebe7a]: Commencement: S. 95 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

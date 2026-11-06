@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Review of rules[^key-22f36313089b2b7a0fc1ea8dae50f894][^key-648902e5f6e012dd32c7273b800f52bd]
+## 29. Review of rules[^c-22f36313089b2b7a0fc1ea8dae50f894][^c-648902e5f6e012dd32c7273b800f52bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22f36313089b2b7a0fc1ea8dae50f894]: Commencement: S. 29 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-22f36313089b2b7a0fc1ea8dae50f894]: Commencement: S. 29 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-648902e5f6e012dd32c7273b800f52bd]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/29/section/29) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/t)
+[^c-648902e5f6e012dd32c7273b800f52bd]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/29/section/29) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/t)

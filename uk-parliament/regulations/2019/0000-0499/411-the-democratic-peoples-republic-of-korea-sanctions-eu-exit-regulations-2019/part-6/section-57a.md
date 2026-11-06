@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Land[^key-796edf7991f1a749d5373ff48cae09f1]
+## 57A. Land[^c-796edf7991f1a749d5373ff48cae09f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-796edf7991f1a749d5373ff48cae09f1]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/uksi/2019/411/regulation/57A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/6)
+[^c-796edf7991f1a749d5373ff48cae09f1]: Textual amendment: [Reg. 57A](https://www.legislation.gov.uk/uksi/2019/411/regulation/57A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/6)

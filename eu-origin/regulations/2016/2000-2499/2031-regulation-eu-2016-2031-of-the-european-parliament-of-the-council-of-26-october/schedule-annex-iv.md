@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX IV — ELEMENTS TO IDENTIFY PLANTS OR PLANT PRODUCTS WHICH ARE LIKELY TO POSE NEWLY IDENTIFIED PEST RISKS OR OTHER SUSPECTED PHYTOSANITARY RISKS FOR GREAT BRITAIN, AS REFERRED TO IN ARTICLE 49[^key-3f6f8dfe0e7e5b236a6c3a4329b13cfd]
+## ANNEX IV — ELEMENTS TO IDENTIFY PLANTS OR PLANT PRODUCTS WHICH ARE LIKELY TO POSE NEWLY IDENTIFIED PEST RISKS OR OTHER SUSPECTED PHYTOSANITARY RISKS FOR GREAT BRITAIN, AS REFERRED TO IN ARTICLE 49[^c-3f6f8dfe0e7e5b236a6c3a4329b13cfd]
 
 *Extent: E+W+S+N.I.*
 
-Plants or plant products from third countries shall be considered likely to pose pest risks for Great Britain[^key-79e8bfa8e06b0c9e663b6acbeaa8530e], as referred to in Article 49(1), where those plants or plant products fulfil at least three of the following conditions, including at least one of the conditions provided in point (1)(a), (b) and (c):
+Plants or plant products from third countries shall be considered likely to pose pest risks for Great Britain[^c-79e8bfa8e06b0c9e663b6acbeaa8530e], as referred to in Article 49(1), where those plants or plant products fulfil at least three of the following conditions, including at least one of the conditions provided in point (1)(a), (b) and (c):
 
 - ((1)) Characteristics of the plants or plant products:
   - ((a)) they belong to, or are produced from, a plant genus or family known to commonly host pests regulated as quarantine pests in Great Britain or in third countries;
@@ -29,13 +29,13 @@ Plants or plant products from third countries shall be considered likely to pose
   - ((d)) they are grown outdoors or grown from plants grown outdoors in the third countries of origin;
   - ((e)) they are not shipped in closed containers or packaging, or when shipped in such a way, the shipments because of their size cannot be opened in closed premises for purposes of official controls at introduction into Great Britain.
 - ((2)) Origin of the plants or plant products:
-  - ((a)) they originate from, or are moved from, a third country which is the source of repetitive notifications of interception of quarantine pests not listed in Annex 2 to the Phytosanitary Conditions Regulation[^key-024862510fd4015cfff8ef9635169318];
+  - ((a)) they originate from, or are moved from, a third country which is the source of repetitive notifications of interception of quarantine pests not listed in Annex 2 to the Phytosanitary Conditions Regulation[^c-024862510fd4015cfff8ef9635169318];
   - ((b)) they originate from, or are moved from, a third country which is not a contracting party to the IPPC.
 
 ## Annotations
 
-[^key-3f6f8dfe0e7e5b236a6c3a4329b13cfd]: Textual amendment: Words in Annex 4 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [39(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/39/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-3f6f8dfe0e7e5b236a6c3a4329b13cfd]: Textual amendment: Words in Annex 4 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [39(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/39/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-79e8bfa8e06b0c9e663b6acbeaa8530e]: Textual amendment: Words in Annex 4 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [39(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/39/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-79e8bfa8e06b0c9e663b6acbeaa8530e]: Textual amendment: Words in Annex 4 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [39(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/39/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-024862510fd4015cfff8ef9635169318]: Textual amendment: Words in Annex 4 point (2)(a) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [39(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/39/c) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-024862510fd4015cfff8ef9635169318]: Textual amendment: Words in Annex 4 point (2)(a) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [39(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/39/c) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

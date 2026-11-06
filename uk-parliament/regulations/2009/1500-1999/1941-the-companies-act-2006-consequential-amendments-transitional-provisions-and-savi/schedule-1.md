@@ -194,7 +194,7 @@ In section 92(1) of the Transport Act 1962 (interpretation), in the definition o
 
 In section 25(2) [^c19814351] of the Business Tenancies Act (Northern Ireland) 1964 (groups of companies: meaning of “subsidiary”), for “Article 4 of the Companies (Northern Ireland) Order 1986” substitute “ section 1159 of the Companies Act 2006 ”.
 
-### 14. Industrial and Provident Societies Act 1965 (c. 12)[^key-0ada9a81f4b4a2c2ffbb0e707b960416]
+### 14. Industrial and Provident Societies Act 1965 (c. 12)[^c-0ada9a81f4b4a2c2ffbb0e707b960416]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,7 +202,7 @@ In section 25(2) [^c19814351] of the Business Tenancies Act (Northern Ireland) 1
 
 In section 168(1)(c) [^c19814421] of the Factories Act (Northern Ireland) 1965 (service of documents), for “being a company to which the Companies (Northern Ireland) Order 1986 applies” substitute “ that is a company as defined in section 1(1) of the Companies Act 2006 ”.
 
-### 16. Industrial and Provident Societies Act 1967 (c. 48)[^key-b68e17a6186e661a34bfcd2beec022d8]
+### 16. Industrial and Provident Societies Act 1967 (c. 48)[^c-b68e17a6186e661a34bfcd2beec022d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -371,11 +371,11 @@ In section 2 of the Industrial Common Ownership Act 1976 (common ownership enter
 
 (1) The Aircraft and Shipbuilding Industries Act 1977 is amended as follows.
 
-(2)[^key-c221aa949ae5c2d9cb0cfd52aeeb4040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c221aa949ae5c2d9cb0cfd52aeeb4040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 56(1) (interpretation)—
 
-- (a)[^key-c221aa949ae5c2d9cb0cfd52aeeb4040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c221aa949ae5c2d9cb0cfd52aeeb4040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the definitions of “holding company” and “subsidiary”[^c19814691], for “section 736 of the Companies Act 1985” substitute “ section 1159 of the Companies Act 2006 ”;
 - (c) in the definition of “wholly-owned subsidiary”[^c19814701], for “section 736(5)(b) of the Companies Act 1985 and Article 4(5)(b) of the Companies (Northern Ireland) Order 1986” substitute “ section 1159 of the Companies Act 2006 ”.
 
@@ -2060,7 +2060,7 @@ In Article 18 of the Local Government (Miscellaneous Provisions) (Northern Irela
   ;
 - (c) in paragraph (5), for “section 64(b)” substitute “ section 64(1)(b) ”.
 
-### 139. Charities Act 1993 (c. 10)[^key-8cc5d98e1af48b3d2242cb6222246502]
+### 139. Charities Act 1993 (c. 10)[^c-8cc5d98e1af48b3d2242cb6222246502]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2378,7 +2378,7 @@ In section 12(1) of the Requirements of Writing (Scotland) Act 1995 (interpretat
 
 In section 30(5) of the Criminal Law (Consolidation) (Scotland) Act 1995 (disclosure of information), in paragraph (a) (disclosure to inspector appointed under companies legislation), omit“or Part XV of the Companies (Northern Ireland) Order 1986”.
 
-### 157. London Local Authorities Act 1995 (c. x)[^key-152d8a2e2a1e0cbf3499a1d12a1e6e60]
+### 157. London Local Authorities Act 1995 (c. x)[^c-152d8a2e2a1e0cbf3499a1d12a1e6e60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2557,7 +2557,7 @@ In section 24 of the Merchant Shipping and Maritime Security Act 1997 (implement
 
 .
 
-### 169. Police Act 1997 (c. 50)[^key-05379e4e1503055b4effc00868fd2880]
+### 169. Police Act 1997 (c. 50)[^c-05379e4e1503055b4effc00868fd2880]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2578,7 +2578,7 @@ In the table in paragraph 3(1) of Schedule 7 to the Bank of England Act 1998 (di
   - (i) in the first column, “, Article 440 of the Companies (Northern Ireland) Order 1986”, and
   - (ii) in the second column, “or Article”.
 
-### 173. Audit Commission Act 1998 (c. 18)[^key-b7091abb2eb1dc08851f1661fc1d9ccd]
+### 173. Audit Commission Act 1998 (c. 18)[^c-b7091abb2eb1dc08851f1661fc1d9ccd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2768,9 +2768,9 @@ In section 141(1) of the Learning and Skills Act 2000 (training programmes: cess
 
 (1) The Postal Services Act 2000 is amended as follows.
 
-(2)[^key-30a9014e7934ec10b9491621a40eef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-30a9014e7934ec10b9491621a40eef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-30a9014e7934ec10b9491621a40eef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-30a9014e7934ec10b9491621a40eef6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 80 (shadow directors), for subsection (2) substitute—
 
@@ -2874,18 +2874,18 @@ In Schedule 4 to the Anti-terrorism, Crime and Security Act 2001 (disclosure pro
 
 (1) The Housing (Scotland) Act 2001 is amended as follows.
 
-(2)[^key-3508c26e106c55be0108dc8c30340cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3508c26e106c55be0108dc8c30340cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3508c26e106c55be0108dc8c30340cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3508c26e106c55be0108dc8c30340cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 83(1)(b) (meaning of “officer” of company)—
 
 - (a) for “registered under the Companies Act 1985” substitute “ registered under the Companies Act 2006 ”, and
 - (b) for “within the meaning of that Act” substitute “ within the meaning of the Companies Acts (see sections 250 and 1173(1) of that Act) ”.
 
-(5)[^key-fb8db5dc978b5d9b4f3d60e137033143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fb8db5dc978b5d9b4f3d60e137033143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-fb8db5dc978b5d9b4f3d60e137033143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fb8db5dc978b5d9b4f3d60e137033143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 192. Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090)
 
@@ -4504,11 +4504,11 @@ In Article 3(10) of the Electricity (Single Wholesale Market) (Northern Ireland)
 
 [^c19814351]: Marginal citation: [Section 25(2)](https://www.legislation.gov.uk/uksi/2009/1941/section/25/2) was amended by [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504), [Schedule 3](https://www.legislation.gov.uk/nisi/1990/1504/schedule/3), [paragraph 1](https://www.legislation.gov.uk/nisi/1990/1504/paragraph/1).
 
-[^key-0ada9a81f4b4a2c2ffbb0e707b960416]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/14) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-0ada9a81f4b4a2c2ffbb0e707b960416]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/14) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c19814421]: Marginal citation: [Section 168(1)(c)](https://www.legislation.gov.uk/uksi/2009/1941/section/168/1/c) was amended by [S.I. 1986/1035 (N.I. 9)](https://www.legislation.gov.uk/nisi/1986/1035), [Schedule 1](https://www.legislation.gov.uk/nisi/1986/1035/schedule/1).
 
-[^key-b68e17a6186e661a34bfcd2beec022d8]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/16) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-b68e17a6186e661a34bfcd2beec022d8]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/16) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c19814441]: Marginal citation: [Section 81(1)](https://www.legislation.gov.uk/uksi/2009/1941/section/81/1) was amended by [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504), [Schedule 3](https://www.legislation.gov.uk/nisi/1990/1504/schedule/3), [paragraph 2](https://www.legislation.gov.uk/nisi/1990/1504/paragraph/2).
 
@@ -4558,7 +4558,7 @@ In Article 3(10) of the Electricity (Single Wholesale Market) (Northern Ireland)
 
 [^c19814671]: Marginal citation: [Section 2(5)](https://www.legislation.gov.uk/uksi/2009/1941/section/2/5) was amended by the [Companies Consolidation (Consequential Provisions) Act 1985 (c.9)](https://www.legislation.gov.uk/ukpga/1985/9), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2) and the [Companies Act 1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40), [Schedule 18](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18), [paragraph 15](https://www.legislation.gov.uk/ukpga/1989/40/paragraph/15).
 
-[^key-c221aa949ae5c2d9cb0cfd52aeeb4040]: Textual amendment: [Sch. 1 para. 36(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/36/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/36/3/a) revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
+[^c-c221aa949ae5c2d9cb0cfd52aeeb4040]: Textual amendment: [Sch. 1 para. 36(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/36/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/36/3/a) revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
 
 [^c19814691]: Marginal citation: The definitions of “holding company” and “subsidiary” in section 56(1) were amended by the [Companies Consolidation (Consequential Provisions) Act 1985 (c.9)](https://www.legislation.gov.uk/ukpga/1985/9), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2). The definition of “subsidiary” was also amended by the [Companies Act 1989 (c.9)](https://www.legislation.gov.uk/ukpga/1989/9), [Schedule 18](https://www.legislation.gov.uk/ukpga/1989/9/schedule/18), [paragraph 16](https://www.legislation.gov.uk/ukpga/1989/9/paragraph/16).
 
@@ -4782,7 +4782,7 @@ In Article 3(10) of the Electricity (Single Wholesale Market) (Northern Ireland)
 
 [^c19815791]: Marginal citation: [Article 11(9)(b)](https://www.legislation.gov.uk/uksi/2009/1941/article/11/9/b) was amended by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) (C.84), Schedule 4, paragraph 76.
 
-[^key-8cc5d98e1af48b3d2242cb6222246502]: Textual amendment: [Sch. 1 para. 139](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/139) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-8cc5d98e1af48b3d2242cb6222246502]: Textual amendment: [Sch. 1 para. 139](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/139) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c19815871]: Marginal citation: [Section 4A](https://www.legislation.gov.uk/uksi/2009/1941/section/4A) was inserted by the [Commonhold and Leasehold Reform Act 2002 (c.15)](https://www.legislation.gov.uk/ukpga/2002/15), [section 122](https://www.legislation.gov.uk/ukpga/2002/15/section/122).
 
@@ -4818,7 +4818,7 @@ In Article 3(10) of the Electricity (Single Wholesale Market) (Northern Ireland)
 
 [^c19816031]: Marginal citation: [Section 29(1)(f)](https://www.legislation.gov.uk/uksi/2009/1941/section/29/1/f) was amended by the [Insolvency Act 2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), [Schedule 4](https://www.legislation.gov.uk/ukpga/2000/39/schedule/4), [paragraph 19(1)](https://www.legislation.gov.uk/ukpga/2000/39/paragraph/19/1) and (3), [S.I. 2004/1941](https://www.legislation.gov.uk/uksi/2004/1941), the Schedule, paragraph 6 and the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), [paragraph 8](https://www.legislation.gov.uk/ukpga/2007/15/paragraph/8).
 
-[^key-152d8a2e2a1e0cbf3499a1d12a1e6e60]: Textual amendment: [Sch. 1 para. 157](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/157) revoked (6.4.2012 for E.W.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/19); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18))
+[^c-152d8a2e2a1e0cbf3499a1d12a1e6e60]: Textual amendment: [Sch. 1 para. 157](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/157) revoked (6.4.2012 for E.W.) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/19); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18))
 
 [^c19816051]: Marginal citation: [Article 22(3)](https://www.legislation.gov.uk/uksi/2009/1941/article/22/3) was amended by [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255), [Schedule 10](https://www.legislation.gov.uk/nisi/2005/255/schedule/10), [paragraph 34](https://www.legislation.gov.uk/nisi/2005/255/paragraph/34).
 
@@ -4840,9 +4840,9 @@ In Article 3(10) of the Electricity (Single Wholesale Market) (Northern Ireland)
 
 [^c19816141]: Marginal citation: [Article 12(6)](https://www.legislation.gov.uk/uksi/2009/1941/article/12/6) was amended by [S.I. 2002/3150](https://www.legislation.gov.uk/uksi/2002/3150), [Schedule 3](https://www.legislation.gov.uk/uksi/2002/3150/schedule/3), [paragraph 13](https://www.legislation.gov.uk/uksi/2002/3150/paragraph/13).
 
-[^key-05379e4e1503055b4effc00868fd2880]: Textual amendment: [Sch. 1 para. 169](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/169) revoked (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-05379e4e1503055b4effc00868fd2880]: Textual amendment: [Sch. 1 para. 169](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/169) revoked (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
 
-[^key-b7091abb2eb1dc08851f1661fc1d9ccd]: Textual amendment: [Sch. 1 para. 173](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/173) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
+[^c-b7091abb2eb1dc08851f1661fc1d9ccd]: Textual amendment: [Sch. 1 para. 173](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/173) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a)
 
 [^c19816171]: Marginal citation: [Section 26(2)](https://www.legislation.gov.uk/uksi/2009/1941/section/26/2) was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [Schedule 1](https://www.legislation.gov.uk/uksi/2008/948/schedule/1), [paragraph 208](https://www.legislation.gov.uk/uksi/2008/948/paragraph/208).
 
@@ -4854,13 +4854,13 @@ In Article 3(10) of the Electricity (Single Wholesale Market) (Northern Ireland)
 
 [^c19816211]: Marginal citation: [Section 96B](https://www.legislation.gov.uk/uksi/2009/1941/section/96B) was inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381), [Schedule 1](https://www.legislation.gov.uk/uksi/2005/381/schedule/1), [paragraph 6](https://www.legislation.gov.uk/uksi/2005/381/paragraph/6).
 
-[^key-30a9014e7934ec10b9491621a40eef6f]: Textual amendment: [Sch. 1 para. 183(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/183/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/183/3) revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/83), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
+[^c-30a9014e7934ec10b9491621a40eef6f]: Textual amendment: [Sch. 1 para. 183(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/183/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/183/3) revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/83), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
 
 [^c19816221]: Marginal citation: [Section 56(5)](https://www.legislation.gov.uk/uksi/2009/1941/section/56/5) was substituted by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) (C.84), Schedule 4, paragraph 95 and was subsequently amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [Schedule 3](https://www.legislation.gov.uk/uksi/2008/948/schedule/3), [paragraph 16(b)](https://www.legislation.gov.uk/uksi/2008/948/paragraph/16/b).
 
-[^key-3508c26e106c55be0108dc8c30340cae]: Textual amendment: [Sch. 1 para. 191(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/3) revoked (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/22)
+[^c-3508c26e106c55be0108dc8c30340cae]: Textual amendment: [Sch. 1 para. 191(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/2)[(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/3) revoked (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/22)
 
-[^key-fb8db5dc978b5d9b4f3d60e137033143]: Textual amendment: [Sch. 1 para. 191(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/5)[(6)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/6) revoked (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/22)
+[^c-fb8db5dc978b5d9b4f3d60e137033143]: Textual amendment: [Sch. 1 para. 191(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/5)[(6)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/191/6) revoked (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/22)
 
 [^c19816231]: Marginal citation: [Paragraph 3(1)](https://www.legislation.gov.uk/uksi/2009/1941/paragraph/3/1) was amended by the [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), [section 1283](https://www.legislation.gov.uk/ukpga/2006/46/section/1283).
 

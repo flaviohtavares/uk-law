@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51D. Postage stamps issued on or after 1 January 2019[^key-dd0cb79ddf35bce707e71395ef21885e]
+## 51D. Postage stamps issued on or after 1 January 2019[^c-dd0cb79ddf35bce707e71395ef21885e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0cb79ddf35bce707e71395ef21885e]: Textual amendment: Ss. 51C, 51D inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/3)
+[^c-dd0cb79ddf35bce707e71395ef21885e]: Textual amendment: Ss. 51C, 51D inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/17/paragraph/3)

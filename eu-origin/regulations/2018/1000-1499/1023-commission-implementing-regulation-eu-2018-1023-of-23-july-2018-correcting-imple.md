@@ -35,33 +35,33 @@ correcting Implementing Regulation (EU) 2017/2470 establishing the Union list of
 
 (Text with EEA relevance) (revoked)
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ba6b4249293bbbc47f3a17c0c9bb3154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ba6b4249293bbbc47f3a17c0c9bb3154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ba6b4249293bbbc47f3a17c0c9bb3154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ba6b4249293bbbc47f3a17c0c9bb3154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — UNION LIST OF NOVEL FOODS[^key-ba6b4249293bbbc47f3a17c0c9bb3154]
+## ANNEX — UNION LIST OF NOVEL FOODS[^c-ba6b4249293bbbc47f3a17c0c9bb3154]
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]**Content of the list**
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]**Content of the list**
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]1.
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]2.
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]2.
 
 Table 1 includes the authorised novel foods and contains the following information:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]3.
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]3.
 
 Table 2 includes the specifications on novel foods and contains the following information:
 
@@ -69,4 +69,4 @@ Table 2 includes the specifications on novel foods and contains the following in
 
 ## Annotations
 
-[^key-ba6b4249293bbbc47f3a17c0c9bb3154]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ba6b4249293bbbc47f3a17c0c9bb3154]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

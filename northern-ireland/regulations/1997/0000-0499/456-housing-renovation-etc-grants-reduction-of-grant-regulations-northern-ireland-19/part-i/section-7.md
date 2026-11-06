@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-5af15b92fb0961a70c7fb141bf652cd2]
+## 7. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-5af15b92fb0961a70c7fb141bf652cd2]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5af15b92fb0961a70c7fb141bf652cd2]: Commencement: Reg. 7 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-5af15b92fb0961a70c7fb141bf652cd2]: Commencement: Reg. 7 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

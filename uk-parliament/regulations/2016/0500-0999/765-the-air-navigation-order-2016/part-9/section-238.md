@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person who is required by this Order to preserve any document or record by reason of being the operator of an aircraft is in this article called “the first operator”.
 
-(2)[^key-9ffba1d3d90311c4e4de4e3ad5772257] Subject to paragraph (3), if the first operator ceases to be the operator of an aircraft, they must continue to preserve the document or record until paragraphs (4), (5) and (6) have been complied with, as appropriate.
+(2)[^c-9ffba1d3d90311c4e4de4e3ad5772257] Subject to paragraph (3), if the first operator ceases to be the operator of an aircraft, they must continue to preserve the document or record until paragraphs (4), (5) and (6) have been complied with, as appropriate.
 
 (3) In the event of the death of the first operator the duty to preserve the document or record falls on the first operator's personal representative.
 
@@ -43,4 +43,4 @@ which are in force or required to be preserved for that aircraft.
 
 ## Annotations
 
-[^key-9ffba1d3d90311c4e4de4e3ad5772257]: Textual amendment: [Art. 238(2)](https://www.legislation.gov.uk/uksi/2016/765/article/238/2) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [40](https://www.legislation.gov.uk/uksi/2017/1112/article/40)
+[^c-9ffba1d3d90311c4e4de4e3ad5772257]: Textual amendment: [Art. 238(2)](https://www.legislation.gov.uk/uksi/2016/765/article/238/2) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [40](https://www.legislation.gov.uk/uksi/2017/1112/article/40)

@@ -288,7 +288,7 @@ Section 140.
 
 #### The Consumer Credit Act 1974
 
-**20.** In section 16 of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-19ca3374ff2a3d15b5825adbc47d1ffd] [^c12877131]Consumer Credit Act 1974 (exempt agreements), in subsection (6B), in paragraph (a) after the words “England and Wales,” there shall be inserted *(Extent: E+W)* *(affected by repeal, see note)*[^key-19ca3374ff2a3d15b5825adbc47d1ffd] “ “the Housing Corporation, Housing for Wales and ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-19ca3374ff2a3d15b5825adbc47d1ffd]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-19ca3374ff2a3d15b5825adbc47d1ffd]
+**20.** In section 16 of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-19ca3374ff2a3d15b5825adbc47d1ffd] [^c12877131]Consumer Credit Act 1974 (exempt agreements), in subsection (6B), in paragraph (a) after the words “England and Wales,” there shall be inserted *(Extent: E+W)* *(affected by repeal, see note)*[^c-19ca3374ff2a3d15b5825adbc47d1ffd] “ “the Housing Corporation, Housing for Wales and ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-19ca3374ff2a3d15b5825adbc47d1ffd]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-19ca3374ff2a3d15b5825adbc47d1ffd]
 
 #### The Rent (Agriculture) Act 1976
 
@@ -835,7 +835,7 @@ Section 140.
 
 [^c12877121]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-19ca3374ff2a3d15b5825adbc47d1ffd]: Textual amendment: [Sch. 17 para. 20](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/20) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-19ca3374ff2a3d15b5825adbc47d1ffd]: Textual amendment: [Sch. 17 para. 20](https://www.legislation.gov.uk/ukpga/1988/50/schedule/17/paragraph/20) repealed (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c12877131]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 

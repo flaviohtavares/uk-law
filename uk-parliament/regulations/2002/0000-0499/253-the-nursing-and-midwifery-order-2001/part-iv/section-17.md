@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Information to be given by institutions[^key-1d7db40feae9084beb30096da5401c67]
+## 17. Information to be given by institutions[^c-1d7db40feae9084beb30096da5401c67]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d7db40feae9084beb30096da5401c67]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2002/253/article/17) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-1d7db40feae9084beb30096da5401c67]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2002/253/article/17) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

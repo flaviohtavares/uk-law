@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Diminishing notional capital rule[^key-0172f26c997c7928d131b14e7a5add60]
+## 23. Diminishing notional capital rule[^c-0172f26c997c7928d131b14e7a5add60]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0172f26c997c7928d131b14e7a5add60]: Commencement: Reg. 23 in force at 1.4.2015 in accordance with reg. 1
+[^c-0172f26c997c7928d131b14e7a5add60]: Commencement: Reg. 23 in force at 1.4.2015 in accordance with reg. 1

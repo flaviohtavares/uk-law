@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Cancellation of elections to, and transitional measures relating to, the Health Professions Council[^key-4040d072073bffcac3147088bded31ec]
+## 8. Cancellation of elections to, and transitional measures relating to, the Health Professions Council[^c-4040d072073bffcac3147088bded31ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4040d072073bffcac3147088bded31ec]: Commencement: Art. 8 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
+[^c-4040d072073bffcac3147088bded31ec]: Commencement: Art. 8 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
 
 [^f00015]: Footnote: [2006 c.28](https://www.legislation.gov.uk/ukpga/2006/28).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Restriction on exercise of assessment order[^key-04fbd6ed26ebff8a96acef1c9b64a167]
+## 13. Restriction on exercise of assessment order[^c-04fbd6ed26ebff8a96acef1c9b64a167]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ during a visit under section 7.
 
 ## Annotations
 
-[^key-04fbd6ed26ebff8a96acef1c9b64a167]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2007/10/section/13) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-04fbd6ed26ebff8a96acef1c9b64a167]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2007/10/section/13) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

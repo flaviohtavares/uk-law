@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 41 and 166(3) of the Immigration and Asylum Act 1999[^f00001].
 
-## 1. Citation and Commencement[^key-74cd15d5274b949543b547758e83f22b]
+## 1. Citation and Commencement[^c-74cd15d5274b949543b547758e83f22b]
 
 This Order may be cited as the Immigration (Passenger Transit Visa) (Amendment) Order 2009 and shall come into force on 3rd March 2009.
 
-## 2. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^key-a2b035ec668387e932b249708ab833c4]
+## 2. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^c-a2b035ec668387e932b249708ab833c4]
 
 (1) The Immigration (Passenger Transit Visa) Order 2003[^f00002] shall be amended as follows.
 
@@ -87,8 +87,8 @@ This Order provides that a person who holds a passport issued by South Africa, a
 
 [^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-74cd15d5274b949543b547758e83f22b]: Commencement: Art. 1 in force at 3.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/198/article/1)
+[^c-74cd15d5274b949543b547758e83f22b]: Commencement: Art. 1 in force at 3.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/198/article/1)
 
-[^key-a2b035ec668387e932b249708ab833c4]: Commencement: Art. 2 in force at 3.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/198/article/1)
+[^c-a2b035ec668387e932b249708ab833c4]: Commencement: Art. 2 in force at 3.3.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/198/article/1)
 
 [^f00002]: Footnote: [S.I. 2003/1185](https://www.legislation.gov.uk/uksi/2003/1185) as amended by [S.I. 2003/2628](https://www.legislation.gov.uk/uksi/2003/2628), [S.I. 2004/1304](https://www.legislation.gov.uk/uksi/2004/1304), [S.I. 2005/492](https://www.legislation.gov.uk/uksi/2005/492) and [S.I. 2006/493](https://www.legislation.gov.uk/uksi/2006/493).

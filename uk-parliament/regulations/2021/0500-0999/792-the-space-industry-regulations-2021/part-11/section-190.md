@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Renewal of security training[^key-30c7634511b5b55bfdb0c65301e550cd]
+## 190. Renewal of security training[^c-30c7634511b5b55bfdb0c65301e550cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ is renewed periodically in accordance with paragraphs (4) and (5).
 
 ## Annotations
 
-[^key-30c7634511b5b55bfdb0c65301e550cd]: Commencement: Reg. 190 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-30c7634511b5b55bfdb0c65301e550cd]: Commencement: Reg. 190 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

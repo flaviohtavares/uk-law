@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Meaning of aerodrome traffic zone[^key-13434fb7ddbba5519105722055992e49]
+## 170. Meaning of aerodrome traffic zone[^c-13434fb7ddbba5519105722055992e49]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13434fb7ddbba5519105722055992e49]: Commencement: [Art. 170](https://www.legislation.gov.uk/uksi/2015/870/article/170) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-13434fb7ddbba5519105722055992e49]: Commencement: [Art. 170](https://www.legislation.gov.uk/uksi/2015/870/article/170) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

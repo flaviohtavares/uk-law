@@ -51,7 +51,7 @@ Coming into force
 
 In exercise of the powers conferred on him by sections 118, 119 and 166(3) of the Immigration and Asylum Act 1999[^f00001], the Secretary of State hereby makes the following Order:
 
-## 1. Citation, commencement and extent[^key-22a4d685f2427fb5fd25dda7a912a032]
+## 1. Citation, commencement and extent[^c-22a4d685f2427fb5fd25dda7a912a032]
 
 (1) This Order may be cited as the Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) Order 2000 and shall come into force on 3rd April 2000.
 
@@ -65,15 +65,15 @@ In exercise of the powers conferred on him by sections 118, 119 and 166(3) of th
 
 (6) Article 7 extends to Scotland and Northern Ireland only.
 
-## 2. Interpretation[^key-4b34b08e9bb8b717f103cdc5dc733cf4]
+## 2. Interpretation[^c-4b34b08e9bb8b717f103cdc5dc733cf4]
 
 In this Order–
 
 - “the 1971 Act” means the Immigration Act 1971[^f00002];
 - “the 1985 Act” means the Housing Act 1985[^f00003];
-- [^key-8b5fffb33918d6d289269d40e19d8a93]...
+- [^c-8b5fffb33918d6d289269d40e19d8a93]...
 - “the 1999 Act” means the Immigration and Asylum Act 1999;
-- [^key-bc2bd4bc4a728be63ebbb561ec53b532]...
+- [^c-bc2bd4bc4a728be63ebbb561ec53b532]...
 - “asylum-seeker” means a person who is not under 18 and who made a claim for asylum which is recorded by the Secretary of State as having been made on or before 2nd April 2000 but which has not been determined;
 - “child in need” means a child–
   - (a) who is unlikely to achieve or maintain, or to have the opportunity of achieving or maintaining, a reasonable standard of health or development without the provision for him of services by a local authority under Part III of the Children Act 1989[^f00005] (local authority support for children and families);
@@ -84,17 +84,17 @@ In this Order–
 - “designated course” means a course of any kind designated by regulations made by the Secretary of State for the purposes of paragraph 10 of Schedule 1 to the 1985 Act[^f00007] (student lettings which are not secure tenancies);
 - “development” means physical, intellectual, emotional, social or behavioural development;
 - “educational establishment” means a university or institution which provides further education or higher education (or both); and for the purposes of this definition “further education” has the same meaning as in section 2 of the Education Act 1996[^f00008] (definition of further education) and “higher education” means education provided by means of a course of any description mentioned in Schedule 6 to the Education Reform Act 1988[^f00009] (courses of higher education);
-- “the EEA Regulations” means the Immigration (European Economic Area) Regulations 2016;[^key-25d9f574ed3c89bcc17bdda6370a3883]
+- “the EEA Regulations” means the Immigration (European Economic Area) Regulations 2016;[^c-25d9f574ed3c89bcc17bdda6370a3883]
 - “family”, in relation to a child in need, includes any person who has parental responsibility for the child and any other person with whom he has been living;
 - “full-time course” means a course normally involving not less than 15 hours attendance a week in term time for the organised day-time study of a single subject or related subjects;
 - “health” means physical or mental health;
-- “the Human Rights Convention” means the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4th November 1950 as it has effect for the time being in relation to the United Kingdom;[^key-deeb5f21ae594446e582f124b7b17217]
+- “the Human Rights Convention” means the Convention for the Protection of Human Rights and Fundamental Freedoms, agreed by the Council of Europe at Rome on 4th November 1950 as it has effect for the time being in relation to the United Kingdom;[^c-deeb5f21ae594446e582f124b7b17217]
 - “the immigration rules” means the rules laid down as mentioned in section 3(2) of the 1971 Act (general provisions for regulation and control);
-- [^key-7169f87c114553fbc841cd637a806aef]...
+- [^c-7169f87c114553fbc841cd637a806aef]...
 - “the Refugee Convention” means the Convention relating to the Status of Refugees done at Geneva on 28th July 1951[^f00010] as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967[^f00011];
 - “relevant person of Northern Ireland” has the meaning given in Appendix EU to the immigration rules;
 - “specified education institution” means–
-  - (a) a university or other institution within the wider[^key-0598b439ee33368cfcf0df42102a1765] higher education sector within the meaning of section 4(4) of the Education Act 1996 (schools: general)[^key-5be797b4e5618394238ecf64625aa61f], in respect of a university or other institution in England, or section 56(2) of the Further and Higher Education (Scotland) Act 1992[^f00013] (interpretation of Part II), in respect of a university or other institution in Scotland;
+  - (a) a university or other institution within the wider[^c-0598b439ee33368cfcf0df42102a1765] higher education sector within the meaning of section 4(4) of the Education Act 1996 (schools: general)[^c-5be797b4e5618394238ecf64625aa61f], in respect of a university or other institution in England, or section 56(2) of the Further and Higher Education (Scotland) Act 1992[^f00013] (interpretation of Part II), in respect of a university or other institution in Scotland;
   - (b) an institution in England within the further education sector within the meaning of section 91(3) of the Further and Higher Education Act 1992;
   - (c) a college of further education in Scotland which is under the management of an education authority or which is managed by a board of management in terms of Part I of the Further and Higher Education (Scotland) Act 1992 (further education in Scotland);
   - (d) a central institution in Scotland within the meaning of section 135(1) of the Education (Scotland) Act 1980[^f00014] (interpretation);
@@ -102,57 +102,57 @@ In this Order–
   - (f) a higher education institution in Northern Ireland within the meaning of Article 30(3) of the Education and Libraries (Northern Ireland) Order 1993[^f00016] (funding by Department of higher education); or
   - (g) an institution of further education in Northern Ireland within the meaning of Article 3 of the Further Education (Northern Ireland) Order 1997[^f00017] (definition of “further education”).
 
-## 3. Housing authority accommodation—England, Scotland and Northern Ireland[^key-a5d4dc06c8b740ef39864108edc6420d]
+## 3. Housing authority accommodation—England, Scotland and Northern Ireland[^c-a5d4dc06c8b740ef39864108edc6420d]
 
 The following are classes of persons specified for the purposes of section 118(1) of the 1999 Act (housing authority accommodation) in respect of England, Scotland and Northern Ireland–
 
-- (a) Class A—a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Refugee Convention and who has leave to enter or remain in the United Kingdom[^key-9023984bbca0842ff364e9dbbb9abd84];
+- (a) Class A—a person recorded by the Secretary of State as a refugee within the definition in Article 1 of the Refugee Convention and who has leave to enter or remain in the United Kingdom[^c-9023984bbca0842ff364e9dbbb9abd84];
 - (b) Class B—a person–
-  - (i)[^key-f4a14be1bf9d3890ee690ee63d237e8b] who has leave to enter or remain in the United Kingdom granted outside the provisions of the immigration rules; and
+  - (i)[^c-f4a14be1bf9d3890ee690ee63d237e8b] who has leave to enter or remain in the United Kingdom granted outside the provisions of the immigration rules; and
   - (ii) whose leave is not subject to a condition requiring him to maintain and accommodate himself, and any person who is dependent on him, without recourse to public funds;
-- (bb)[^key-1962be9613895e3f8d8b4624086fcb07] Class BA—a person who has humanitarian protection granted under the immigration rules;
-- (bc)[^key-608edb92b3fb56f129653e6560b88cd1] Class BB –– a person who has limited leave to remain granted in accordance with Appendix Temporary Permission to Stay for Victims of Human Trafficking or Slavery of the Immigration Rules;
+- (bb)[^c-1962be9613895e3f8d8b4624086fcb07] Class BA—a person who has humanitarian protection granted under the immigration rules;
+- (bc)[^c-608edb92b3fb56f129653e6560b88cd1] Class BB –– a person who has limited leave to remain granted in accordance with Appendix Temporary Permission to Stay for Victims of Human Trafficking or Slavery of the Immigration Rules;
 - (c) Class C—a person who has current leave to enter or remain in the United Kingdom which is not subject to any limitation or condition and who is habitually resident in the Common Travel Area other than a person–
   - (i) who has been given leave to enter or remain in the United Kingdom upon an undertaking given by another person (his “sponsor”) in writing in pursuance of the immigration rules to be responsible for his maintenance and accommodation;
   - (ii) who has been resident in the United Kingdom for less than five years beginning on the date of entry or the date on which the undertaking was given in respect of him, whichever date is the later; and
   - (iii) whose sponsor or, where there is more than one sponsor, at least one of whose sponsors, is still alive;
 - (d) Class D—a person who left the territory of Montserrat after 1st November 1995 because of the effect on that territory of a volcanic eruption;
-- (e)[^key-cb4a48149acf3116a4e37cdbb60b2560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-cb4a48149acf3116a4e37cdbb60b2560] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) Class F—a person who is attending a full-time course at a specified education institution in a case where the housing accommodation which is or may be provided to him–
   - (i) is let by a housing authority to that specified education institution for the purposes of enabling that institution to provide accommodation for students attending a full-time course at that institution; and
   - (ii) would otherwise be difficult for that housing authority to let on terms which, in the opinion of the housing authority, are satisfactory;
-- (g)[^key-ecbdaab57e888cd928d076d27cddd312] Class FA – a person who is habitually resident in the Common Travel Area[^key-67ab4037d7ad109f6937982d94c355af] who has been transferred to the United Kingdom under section 67 of the Immigration Act 2016 and has limited leave to remain under paragraph 352ZH of the immigration rules;
-- (ga)[^key-c165d47062d9ea71ccc316d74fbf3d94] Class FAA –– a person in the United Kingdom who—
+- (g)[^c-ecbdaab57e888cd928d076d27cddd312] Class FA – a person who is habitually resident in the Common Travel Area[^c-67ab4037d7ad109f6937982d94c355af] who has been transferred to the United Kingdom under section 67 of the Immigration Act 2016 and has limited leave to remain under paragraph 352ZH of the immigration rules;
+- (ga)[^c-c165d47062d9ea71ccc316d74fbf3d94] Class FAA –– a person in the United Kingdom who—
   - (i) was residing in Ukraine immediately before 1st January 2022;
   - (ii) left Ukraine in connection with the Russian invasion which took place on 24th February 2022; and
   - (iii) has been granted leave in accordance with immigration rules made under section 3(2) of the Immigration Act 1971,
 
   but excluding a person (P) who is subject to a condition requiring P to maintain and accommodate themselves, and any person who is dependent on P, without recourse to public funds;
-- (gb)[^key-b815a1648f5827a1e3f09c7667d803e0] Class FAB –– a person in the United Kingdom who has limited leave to remain granted in accordance with Appendix Ukraine Scheme of the Immigration Rules pursuant to an application made by that person from within the United Kingdom, but excluding a person (P) who is subject to a condition requiring P to maintain and accommodate themself, and any person who is dependent on P, without recourse to public funds;
-- (h)[^key-5f66d4fd5bdfd3d16bfa1e38c3ad71ac] Class FB—a person who—
+- (gb)[^c-b815a1648f5827a1e3f09c7667d803e0] Class FAB –– a person in the United Kingdom who has limited leave to remain granted in accordance with Appendix Ukraine Scheme of the Immigration Rules pursuant to an application made by that person from within the United Kingdom, but excluding a person (P) who is subject to a condition requiring P to maintain and accommodate themself, and any person who is dependent on P, without recourse to public funds;
+- (h)[^c-5f66d4fd5bdfd3d16bfa1e38c3ad71ac] Class FB—a person who—
   - (i) has limited leave to enter or remain in the United Kingdom by virtue of Appendix EU of the immigration rules granted on the basis of a relationship with a relevant person of Northern Ireland, and
   - (ii) would have been considered eligible as a family member, or a family member who has retained the right of residence by virtue of regulation 10 of the EEA Regulations (family member who has retained the right of residence), of a person who is—
     - (aa) a qualified person, within the meaning of regulation 6(1) of the EEA Regulations (“qualified person”), on the basis of being a worker;
-    - (bb) a qualified person, within the meaning of regulation 6(1) of the EEA Regulations, on the basis of being a self-employed person, [^key-8b6fd4dc92aa48c8653f423111505db8]...
-    - (cc)[^key-c14b87a93636eb316c764ab4f3f28ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (bb) a qualified person, within the meaning of regulation 6(1) of the EEA Regulations, on the basis of being a self-employed person, [^c-8b6fd4dc92aa48c8653f423111505db8]...
+    - (cc)[^c-c14b87a93636eb316c764ab4f3f28ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
     disregarding that the relevant person of Northern Ireland does not satisfy the definition of “EEA national” in regulation 2 of the EEA Regulations (general interpretation);
 - (i) Class FC—a person who is habitually resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland and who has limited leave to remain in the United Kingdom as a stateless person under paragraph 405 of the immigration rules;
-- (j)[^key-f21d7cc660f22b8ebc364f6f0b483d00] Class FD – a person—
+- (j)[^c-f21d7cc660f22b8ebc364f6f0b483d00] Class FD – a person—
   - (i) who is granted leave to enter or remain in the United Kingdom in accordance with the immigration rules, where such leave is granted by virtue of—
     - (aa) the Afghan Relocations and Assistance Policy; or
     - (bb) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme); or
   - (ii) with leave to enter or remain in the United Kingdom not coming within sub-paragraph (i), who left Afghanistan in connection with the collapse of the Afghan government that took place on 15th August 2021, but excluding a person (P)—
     - (aa) who is subject to a condition requiring P to maintain and accommodate themself, and any person who is dependent on P, without recourse to public funds; or
     - (bb) who has been given leave to enter or remain in the United Kingdom upon an undertaking given by P’s sponsor and has been resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland for less than five years beginning on the date of entry or the date on which P’s sponsor gave the undertaking in respect of P, whichever date is the later, and whose sponsor or, where there is more than one sponsor, at least one of whose sponsors, is still alive;
-- (k)[^key-1fa6b7f9b1c81571e426c2203f30175d] Class FE—a person (P)—
+- (k)[^c-1fa6b7f9b1c81571e426c2203f30175d] Class FE—a person (P)—
   - (i) who has limited leave to enter or remain in the United Kingdom on family or private life grounds under Article 8 of the Human Rights Convention that is granted under the immigration rules; and
   - (ii) whose leave is not subject to a condition requiring P to maintain and accommodate P, and any person who is dependent on P, without recourse to public funds;
 - (l) Class FF—a person who is habitually resident in the Common Travel Area who has limited leave to remain in the United Kingdom under paragraphs 352J or 352K of the immigration rules;
 - (m) Class FG—a person (P)—
   - (i) who is habitually resident in the Common Travel Area and has limited leave to enter or remain in the United Kingdom under Appendix Hong Kong British National (Overseas) of the immigration rules; and
   - (ii) whose leave is not subject to a condition requiring P to maintain and accommodate P, and any person who is dependent on P, without recourse to public funds;
-- (n)[^key-c4e33fbd8dd1709861089f2a0e6439e2] Class FH –– a person who—
+- (n)[^c-c4e33fbd8dd1709861089f2a0e6439e2] Class FH –– a person who—
   - (i) was residing in Sudan before 15th April 2023;
   - (ii) left Sudan in connection with the violence which rapidly escalated on 15th April 2023 in Khartoum and across Sudan;
   - (iii) has leave to enter or remain in the United Kingdom given in accordance with the immigration rules;
@@ -161,7 +161,7 @@ The following are classes of persons specified for the purposes of section 118(1
     - (aa) who has been given leave upon an undertaking given by P’s sponsor;
     - (bb) who has been resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland for less than five years beginning on the date of entry or the date on which P’s sponsor gave the undertaking in respect of P, whichever date is the later; and
     - (cc) whose sponsor or, where there is more than one sponsor, at least one of whose sponsors, is still alive.
-- (o)[^key-14c5332c4ec56ab6063ec102e22dbb83] Class FI––a person who—
+- (o)[^c-14c5332c4ec56ab6063ec102e22dbb83] Class FI––a person who—
   - (i) was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7th October 2023;
   - (ii) left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7th October 2023 or the violence which rapidly escalated in the region following the attack;
   - (iii) has leave to enter or remain in the United Kingdom given in accordance with the immigration rules;
@@ -170,9 +170,9 @@ The following are classes of persons specified for the purposes of section 118(1
     - (aa) who has been given leave upon an undertaking given by P’s sponsor;
     - (bb) who has been resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland for less than five years beginning on the date of entry or the date on which P’s sponsor gave the undertaking in respect of P, whichever date is the later; and
     - (cc) whose sponsor or, where there is more than one sponsor, at least one of whose sponsors, is still alive.
-- (p)[^key-04f11fa7cd07d655792d322216a675bb] Class FJ—a person (P) who has indefinite leave to enter the United Kingdom by virtue of Appendix Victim of Domestic Abuse of the immigration rules in circumstances where P is a victim of transnational marriage abandonment;
+- (p)[^c-04f11fa7cd07d655792d322216a675bb] Class FJ—a person (P) who has indefinite leave to enter the United Kingdom by virtue of Appendix Victim of Domestic Abuse of the immigration rules in circumstances where P is a victim of transnational marriage abandonment;
 - (q) Class FK—a person who has limited leave to enter or limited leave to remain in the United Kingdom and who, after making a change of conditions application, has had their no recourse to public funds condition lifted by the Home Office in accordance with section 3(1)(c)(ii) of the Immigration Act 1971, and who does not fall within Class FE or Class FG in this regulation.
-- (r)[^key-26ce6047337f08d4d1b8aec28b21501b] Class FL––a person who—
+- (r)[^c-26ce6047337f08d4d1b8aec28b21501b] Class FL––a person who—
   - (i) was residing in a country or territory and left that country or territory when His Majesty’s Government provided public information to advise British nationals to leave that country or territory or arranged an evacuation of British nationals from that country or territory,
   - (ii) has leave to enter or remain in the United Kingdom given in accordance with the Immigration Rules,
   - (iii) is not a person whose leave is subject to a condition requiring that person to maintain and accommodate themself, and any person who is dependent on that person, without recourse to public funds,
@@ -182,13 +182,13 @@ The following are classes of persons specified for the purposes of section 118(1
     - (cc) whose sponsor, or where there is more than one sponsor, at least one of whose sponsors, is still alive, and
   - (v) made an application for housing accommodation under the accommodation provisions within the period of 6 months beginning with the date on which His Majesty’s Government first provided public information to advise British nationals to leave that country or territory, or the first day of an evacuation operation by His Majesty’s Government of British nationals from that country or territory, whichever is later.
 
-## 4. Housing authority accommodation—England[^key-3cf776c3d8a7a69473b6d5affd5a2073]
+## 4. Housing authority accommodation—England[^c-3cf776c3d8a7a69473b6d5affd5a2073]
 
 *Extent: E+W*
 
 (1) The following are classes of persons specified for the purposes of section 118(1) of the 1999 Act in respect of England–
 
-- (a) Class G—a person whose needs for care and support a local authority considers should be met under Part 1 of the Care Act 2014 by the provision of accommodation;[^key-1c76e28a3e4cc0bd6902d6e19f92b930]
+- (a) Class G—a person whose needs for care and support a local authority considers should be met under Part 1 of the Care Act 2014 by the provision of accommodation;[^c-1c76e28a3e4cc0bd6902d6e19f92b930]
 - (b) Class H—a person who is either a child in need or a member of the family of a child in need;
 - (c) Class I—a person—
   - (i) who is owed a duty under section 63(1) (interim duty to accommodate in case of apparent priority need), 65(2) or (3) (duties to persons found to be homeless) or 68(1) or (2) (duties to persons whose applications are referred) of the 1985 Act[^f00021];
@@ -206,7 +206,7 @@ The following are classes of persons specified for the purposes of section 118(1
 - (b) is a child of his, or of his spouse, who is under 18 and dependent on him; or
 - (c) falls within such additional category as may be prescribed under section 94(1) of the 1999 Act (interpretation of Part VI—support for asylum-seekers), for the purposes of regulations made under Schedule 9 to the 1999 Act (asylum support: interim provisions), in relation to an asylum-seeker.
 
-## 5. Housing authority accommodation—Northern Ireland[^key-e610a74544bf7e4e5097f2264711e854]
+## 5. Housing authority accommodation—Northern Ireland[^c-e610a74544bf7e4e5097f2264711e854]
 
 *Extent: N.I.*
 
@@ -215,7 +215,7 @@ The following are classes of persons specified for the purposes of section 118(1
 - (a) Class M—a person who is a secure tenant of the Northern Ireland Housing Executive or a registered housing association within the meaning of Article 25 of the Housing (Northern Ireland) Order 1983[^f00024] (secure tenancies);
 - (b) Class N—a person who is owed a duty under Article 8 (interim duty to accommodate in case of apparent priority need), 10(2) or (3) (duties to persons found to be homeless) or 11(2) (duties to persons found to be threatened with homelessness) of the Housing (Northern Ireland) Order 1988[^f00025].
 
-## 6. Housing authority accommodation—Scotland[^key-950604bacf164742894f8c55a53e70bd]
+## 6. Housing authority accommodation—Scotland[^c-950604bacf164742894f8c55a53e70bd]
 
 *Extent: N.I.*
 
@@ -224,14 +224,14 @@ The following are classes of persons specified for the purposes of section 118(1
 - (a) Class O—a person who is a secure tenant within the meaning of Part III of the Housing (Scotland) Act 1987[^f00026] (rights of public sector tenants);
 - (b) Class P—a person who is owed a duty under section 29 (interim duty to accommodate in case of apparent priority need), 31 (duties to persons found to be homeless), 32 (duties to persons found to be threatened with homelessness) or 34 (duties to persons whose applications are referred to another local authority) of the Housing (Scotland) Act 1987.
 
-## 7. Homelessness—Scotland and Northern Ireland[^key-924fc96142caabb6e3795fff91d7cff0]
+## 7. Homelessness—Scotland and Northern Ireland[^c-924fc96142caabb6e3795fff91d7cff0]
 
 *Extent: S+N.I.*
 
 (1) The following are classes of persons specified for the purposes of section 119(1) of the 1999 Act (homelessness: Scotland and Northern Ireland) in respect of Scotland and Northern Ireland–
 
-- (a)[^key-bec115e612c32ac81c1978654c3b4935] the classes specified in article 3(a) to (d) and the classes specified in article[^key-7c378ac69e7ce8e8f466d08b3e7632a6] 3(g) to (q)[^key-e0e2d4e91cf49db3f1331bb18df58c22] (Class A, Class B, Class BA, Class BB,[^key-8c5445ad0c7388bf0122d98d6179f323] Class C, Class D , Class FA,[^key-16a89026146024032b936894cae646e4] Class FAA,[^key-e401d30ca47dcc8f5dfd2768b9226441] Class FAB,[^key-edca436f43e165ae214ac666517f5b2a] Class FB ,[^key-740e6c7fa1f5b5ef6965b087b87987fa] Class FC, Class FD, Class FE, Class FF[^key-1c2e2c42c97e16956fe496700d1d2af7] , Class FG[^key-07fb13d6bd68bccc4725a4cea1128544] , Class FH[^key-b34fb38c0d3d967a0ab0172627f4bd9b] , Class FI, Class FJ and Class FK[^key-d9594cc4eb173142ffc048c7ec48ea2f]);
-- (aa)[^key-e6aa078f3f286df41cdb0fd030719beb] the class specified in article 3(r) (Class FL) but as if, in sub-paragraph (v), for “housing accommodation under the accommodation provisions” there were substituted “homelessness assistance under the homelessness provisions”;
+- (a)[^c-bec115e612c32ac81c1978654c3b4935] the classes specified in article 3(a) to (d) and the classes specified in article[^c-7c378ac69e7ce8e8f466d08b3e7632a6] 3(g) to (q)[^c-e0e2d4e91cf49db3f1331bb18df58c22] (Class A, Class B, Class BA, Class BB,[^c-8c5445ad0c7388bf0122d98d6179f323] Class C, Class D , Class FA,[^c-16a89026146024032b936894cae646e4] Class FAA,[^c-e401d30ca47dcc8f5dfd2768b9226441] Class FAB,[^c-edca436f43e165ae214ac666517f5b2a] Class FB ,[^c-740e6c7fa1f5b5ef6965b087b87987fa] Class FC, Class FD, Class FE, Class FF[^c-1c2e2c42c97e16956fe496700d1d2af7] , Class FG[^c-07fb13d6bd68bccc4725a4cea1128544] , Class FH[^c-b34fb38c0d3d967a0ab0172627f4bd9b] , Class FI, Class FJ and Class FK[^c-d9594cc4eb173142ffc048c7ec48ea2f]);
+- (aa)[^c-e6aa078f3f286df41cdb0fd030719beb] the class specified in article 3(r) (Class FL) but as if, in sub-paragraph (v), for “housing accommodation under the accommodation provisions” there were substituted “homelessness assistance under the homelessness provisions”;
 - (b) Class Q—a person who is an asylum-seeker and who made a claim for asylum–
   - (i) which is recorded by the Secretary of State as having been made on his arrival (other than on re-entry) in the United Kingdom from a country outside the Common Travel Area; and
   - (ii) which has not been recorded by the Secretary of State as having been either decided (other than on appeal) or abandoned;
@@ -246,7 +246,7 @@ The following are classes of persons specified for the purposes of section 118(1
   - (i) was pending on 5th February 1996; or
   - (ii) was made within the time limits specified in the rules of procedure made under section 22 of the 1971 Act (procedure)[^f00029].
 
-## 8. Homelessness—Northern Ireland[^key-a7001e50fb525678a2df6d0e1c829d9b][^key-981d2b111c2f2b6275bd282d1a5476e8]
+## 8. Homelessness—Northern Ireland[^c-a7001e50fb525678a2df6d0e1c829d9b][^c-981d2b111c2f2b6275bd282d1a5476e8]
 
 *Extent: N.I.*
 
@@ -258,7 +258,7 @@ Class T—a person who is an asylum-seeker and—
 - (b) who made a claim for asylum which is recorded by the Secretary of State as having been made within a period of three months from the day on which that declaration was made; and
 - (c) whose claim for asylum has not been recorded by the Secretary of State as having been either decided (other than on appeal) or abandoned.
 
-## 9. Homelessness—Scotland[^key-bff02b3bb132d6241fe1053cc77b6086][^key-f961d57a4e614b477325dfb3bcacbe18]
+## 9. Homelessness—Scotland[^c-bff02b3bb132d6241fe1053cc77b6086][^c-f961d57a4e614b477325dfb3bcacbe18]
 
 *Extent: S*
 
@@ -270,7 +270,7 @@ Class V—a person who is an asylum-seeker and—
 - (b) who made a claim for asylum which is recorded by the Secretary of State as having been made within a period of three months from the day on which that declaration was made; and
 - (c) whose claim for asylum has not been recorded by the Secretary of State as having been either decided (other than on appeal) or abandoned.
 
-## 10. Revocation[^key-8ac04dbe5e957f0eed2eef53da46e420]
+## 10. Revocation[^c-8ac04dbe5e957f0eed2eef53da46e420]
 
 The following Orders are revoked–
 
@@ -317,17 +317,17 @@ Command Papers 2643, 3906, 9171 and 9512, referred to in this Order, are out of 
 
 [^f00001]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). The Secretary of State can exercise the power under section 118 in relation to England, Scotland and Northern Ireland but not Wales: *see* article 2 of and the entry for section 9 of the Asylum and Immigration Act [1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49) in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)). *See* also section 17 of the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) (sections 118 and 119 re-enact, with modifications, section 9 of the 1996 Act). Section 9 of the 1996 Act, in so far as it extended to England and Wales, was amended by paragraph 3 of Schedule 16, and Parts VII and VIII of Schedule 19, to the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52).
 
-[^key-22a4d685f2427fb5fd25dda7a912a032]: Commencement: Art. 1 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-22a4d685f2427fb5fd25dda7a912a032]: Commencement: Art. 1 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
-[^key-4b34b08e9bb8b717f103cdc5dc733cf4]: Commencement: Art. 2 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-4b34b08e9bb8b717f103cdc5dc733cf4]: Commencement: Art. 2 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
 [^f00003]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-8b5fffb33918d6d289269d40e19d8a93]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) omitted (7.8.2008) by virtue of [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/2/a)
+[^c-8b5fffb33918d6d289269d40e19d8a93]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) omitted (7.8.2008) by virtue of [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/2/a)
 
-[^key-bc2bd4bc4a728be63ebbb561ec53b532]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) omitted (7.6.2024) by virtue of [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/2)
+[^c-bc2bd4bc4a728be63ebbb561ec53b532]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) omitted (7.6.2024) by virtue of [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/2)
 
 [^f00005]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -339,19 +339,19 @@ Command Papers 2643, 3906, 9171 and 9512, referred to in this Order, are out of 
 
 [^f00009]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-25d9f574ed3c89bcc17bdda6370a3883]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) inserted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/825/article/2/2)
+[^c-25d9f574ed3c89bcc17bdda6370a3883]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) inserted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/825/article/2/2)
 
-[^key-deeb5f21ae594446e582f124b7b17217]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) inserted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/2)
+[^c-deeb5f21ae594446e582f124b7b17217]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) inserted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/2)
 
-[^key-7169f87c114553fbc841cd637a806aef]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) omitted (7.8.2008) by virtue of [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/2/b)
+[^c-7169f87c114553fbc841cd637a806aef]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) omitted (7.8.2008) by virtue of [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/2/b)
 
 [^f00010]: Footnote: Cmnd. 9171.
 
 [^f00011]: Footnote: Cmnd. 3906.
 
-[^key-0598b439ee33368cfcf0df42102a1765]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/21/a)
+[^c-0598b439ee33368cfcf0df42102a1765]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/21/a)
 
-[^key-5be797b4e5618394238ecf64625aa61f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/21/b)
+[^c-5be797b4e5618394238ecf64625aa61f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2000/706/article/2) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/21/b)
 
 [^f00013]: Footnote: [1992 c. 37](https://www.legislation.gov.uk/ukpga/1992/37).
 
@@ -363,47 +363,47 @@ Command Papers 2643, 3906, 9171 and 9512, referred to in this Order, are out of 
 
 [^f00017]: Footnote: S.I. [1997/1772 (N.I. 15)](https://www.legislation.gov.uk/nisi/1997/1772).
 
-[^key-a5d4dc06c8b740ef39864108edc6420d]: Commencement: Art. 3 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-a5d4dc06c8b740ef39864108edc6420d]: Commencement: Art. 3 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
-[^key-9023984bbca0842ff364e9dbbb9abd84]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2000/706/article/3/a) inserted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/a)
+[^c-9023984bbca0842ff364e9dbbb9abd84]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2000/706/article/3/a) inserted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/a)
 
-[^key-f4a14be1bf9d3890ee690ee63d237e8b]: Textual amendment: [Art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2000/706/article/3/b/i) substituted (9.10.2006) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2006 (S.I. 2006/2521)](https://www.legislation.gov.uk/uksi/2006/2521), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2521/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2006/2521/article/2/2/a)
+[^c-f4a14be1bf9d3890ee690ee63d237e8b]: Textual amendment: [Art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2000/706/article/3/b/i) substituted (9.10.2006) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2006 (S.I. 2006/2521)](https://www.legislation.gov.uk/uksi/2006/2521), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2521/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2006/2521/article/2/2/a)
 
-[^key-1962be9613895e3f8d8b4624086fcb07]: Textual amendment: [Art. 3(bb)](https://www.legislation.gov.uk/uksi/2000/706/article/3/bb) inserted (9.10.2006) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2006 (S.I. 2006/2521)](https://www.legislation.gov.uk/uksi/2006/2521), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2521/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/2521/article/2/2/b)
+[^c-1962be9613895e3f8d8b4624086fcb07]: Textual amendment: [Art. 3(bb)](https://www.legislation.gov.uk/uksi/2000/706/article/3/bb) inserted (9.10.2006) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2006 (S.I. 2006/2521)](https://www.legislation.gov.uk/uksi/2006/2521), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2521/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2006/2521/article/2/2/b)
 
-[^key-608edb92b3fb56f129653e6560b88cd1]: Textual amendment: [Art. 3(bc)](https://www.legislation.gov.uk/uksi/2000/706/article/3/bc) inserted (30.1.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1371)](https://www.legislation.gov.uk/uksi/2022/1371), [regs.](https://www.legislation.gov.uk/uksi/2022/1371/regulation), [3(2)](https://www.legislation.gov.uk/uksi/2022/1371/regulation/3/2)
+[^c-608edb92b3fb56f129653e6560b88cd1]: Textual amendment: [Art. 3(bc)](https://www.legislation.gov.uk/uksi/2000/706/article/3/bc) inserted (30.1.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1371)](https://www.legislation.gov.uk/uksi/2022/1371), [regs.](https://www.legislation.gov.uk/uksi/2022/1371/regulation), [3(2)](https://www.legislation.gov.uk/uksi/2022/1371/regulation/3/2)
 
-[^key-cb4a48149acf3116a4e37cdbb60b2560]: Textual amendment: [Art. 3(e)](https://www.legislation.gov.uk/uksi/2000/706/article/3/e) omitted (7.8.2008) by virtue of [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/3) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1768/article/3/1))
+[^c-cb4a48149acf3116a4e37cdbb60b2560]: Textual amendment: [Art. 3(e)](https://www.legislation.gov.uk/uksi/2000/706/article/3/e) omitted (7.8.2008) by virtue of [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/3) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1768/article/3/1))
 
-[^key-ecbdaab57e888cd928d076d27cddd312]: Textual amendment: [Art. 3(g)](https://www.legislation.gov.uk/uksi/2000/706/article/3/g) inserted (9.7.2018) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2018 (S.I. 2018/729)](https://www.legislation.gov.uk/uksi/2018/729), [arts. 1](https://www.legislation.gov.uk/uksi/2018/729/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/729/article/2/2/a)
+[^c-ecbdaab57e888cd928d076d27cddd312]: Textual amendment: [Art. 3(g)](https://www.legislation.gov.uk/uksi/2000/706/article/3/g) inserted (9.7.2018) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2018 (S.I. 2018/729)](https://www.legislation.gov.uk/uksi/2018/729), [arts. 1](https://www.legislation.gov.uk/uksi/2018/729/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/729/article/2/2/a)
 
-[^key-67ab4037d7ad109f6937982d94c355af]: Textual amendment: Words in [art. 3(g)](https://www.legislation.gov.uk/uksi/2000/706/article/3/g) inserted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/3/a)
+[^c-67ab4037d7ad109f6937982d94c355af]: Textual amendment: Words in [art. 3(g)](https://www.legislation.gov.uk/uksi/2000/706/article/3/g) inserted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/3/a)
 
-[^key-c165d47062d9ea71ccc316d74fbf3d94]: Textual amendment: [Art. 3(ga)](https://www.legislation.gov.uk/uksi/2000/706/article/3/ga) inserted (22.3.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2022 (S.I. 2022/339)](https://www.legislation.gov.uk/uksi/2022/339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/339/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/339/regulation/3/2)
+[^c-c165d47062d9ea71ccc316d74fbf3d94]: Textual amendment: [Art. 3(ga)](https://www.legislation.gov.uk/uksi/2000/706/article/3/ga) inserted (22.3.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2022 (S.I. 2022/339)](https://www.legislation.gov.uk/uksi/2022/339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/339/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/339/regulation/3/2)
 
-[^key-b815a1648f5827a1e3f09c7667d803e0]: Textual amendment: [Art. 3(gb)](https://www.legislation.gov.uk/uksi/2000/706/article/3/gb) inserted (10.6.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/601)](https://www.legislation.gov.uk/uksi/2022/601), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/601/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/601/regulation/3/2) (as amended by [S.I. 2022/626](https://www.legislation.gov.uk/uksi/2022/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/626/regulation/2))
+[^c-b815a1648f5827a1e3f09c7667d803e0]: Textual amendment: [Art. 3(gb)](https://www.legislation.gov.uk/uksi/2000/706/article/3/gb) inserted (10.6.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/601)](https://www.legislation.gov.uk/uksi/2022/601), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/601/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/601/regulation/3/2) (as amended by [S.I. 2022/626](https://www.legislation.gov.uk/uksi/2022/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/626/regulation/2))
 
-[^key-5f66d4fd5bdfd3d16bfa1e38c3ad71ac]: Textual amendment: [Art. 3(h)(i)](https://www.legislation.gov.uk/uksi/2000/706/article/3/h/i) inserted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/825/article/2/3)
+[^c-5f66d4fd5bdfd3d16bfa1e38c3ad71ac]: Textual amendment: [Art. 3(h)(i)](https://www.legislation.gov.uk/uksi/2000/706/article/3/h/i) inserted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/825/article/2/3)
 
-[^key-8b6fd4dc92aa48c8653f423111505db8]: Textual amendment: Word in [art. 3(h)(ii)(bb)](https://www.legislation.gov.uk/uksi/2000/706/article/3/h/ii/bb) omitted (7.6.2024) by virtue of [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/b/i)
+[^c-8b6fd4dc92aa48c8653f423111505db8]: Textual amendment: Word in [art. 3(h)(ii)(bb)](https://www.legislation.gov.uk/uksi/2000/706/article/3/h/ii/bb) omitted (7.6.2024) by virtue of [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/b/i)
 
-[^key-c14b87a93636eb316c764ab4f3f28ad8]: Textual amendment: [Art. 3(h)(ii)(cc)](https://www.legislation.gov.uk/uksi/2000/706/article/3/h/ii/cc) omitted (7.6.2024) by virtue of [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/b/ii)
+[^c-c14b87a93636eb316c764ab4f3f28ad8]: Textual amendment: [Art. 3(h)(ii)(cc)](https://www.legislation.gov.uk/uksi/2000/706/article/3/h/ii/cc) omitted (7.6.2024) by virtue of [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/b/ii)
 
-[^key-f21d7cc660f22b8ebc364f6f0b483d00]: Textual amendment: [Art. 3(j)](https://www.legislation.gov.uk/uksi/2000/706/article/3/j) inserted (16.9.2021) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2021 (S.I. 2021/1045)](https://www.legislation.gov.uk/uksi/2021/1045), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/3/2)
+[^c-f21d7cc660f22b8ebc364f6f0b483d00]: Textual amendment: [Art. 3(j)](https://www.legislation.gov.uk/uksi/2000/706/article/3/j) inserted (16.9.2021) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2021 (S.I. 2021/1045)](https://www.legislation.gov.uk/uksi/2021/1045), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/3/2)
 
-[^key-1fa6b7f9b1c81571e426c2203f30175d]: Textual amendment: [Arts. 3(k)-(m)](https://www.legislation.gov.uk/uksi/2000/706/article/3/k) inserted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/3/b)
+[^c-1fa6b7f9b1c81571e426c2203f30175d]: Textual amendment: [Arts. 3(k)-(m)](https://www.legislation.gov.uk/uksi/2000/706/article/3/k) inserted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/3/b)
 
-[^key-c4e33fbd8dd1709861089f2a0e6439e2]: Textual amendment: [Art. 3(n)](https://www.legislation.gov.uk/uksi/2000/706/article/3/n) inserted (15.5.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2023 (S.I. 2023/530)](https://www.legislation.gov.uk/uksi/2023/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/530/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/530/regulation/3/2)
+[^c-c4e33fbd8dd1709861089f2a0e6439e2]: Textual amendment: [Art. 3(n)](https://www.legislation.gov.uk/uksi/2000/706/article/3/n) inserted (15.5.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2023 (S.I. 2023/530)](https://www.legislation.gov.uk/uksi/2023/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/530/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/530/regulation/3/2)
 
-[^key-14c5332c4ec56ab6063ec102e22dbb83]: Textual amendment: [Art. 3(o)](https://www.legislation.gov.uk/uksi/2000/706/article/3/o) inserted (27.10.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1142)](https://www.legislation.gov.uk/uksi/2023/1142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/3/2)
+[^c-14c5332c4ec56ab6063ec102e22dbb83]: Textual amendment: [Art. 3(o)](https://www.legislation.gov.uk/uksi/2000/706/article/3/o) inserted (27.10.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1142)](https://www.legislation.gov.uk/uksi/2023/1142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/3/2)
 
-[^key-04f11fa7cd07d655792d322216a675bb]: Textual amendment: [Art. 3(p)](https://www.legislation.gov.uk/uksi/2000/706/article/3/p)[(q)](https://www.legislation.gov.uk/uksi/2000/706/article/3/q) inserted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/c)
+[^c-04f11fa7cd07d655792d322216a675bb]: Textual amendment: [Art. 3(p)](https://www.legislation.gov.uk/uksi/2000/706/article/3/p)[(q)](https://www.legislation.gov.uk/uksi/2000/706/article/3/q) inserted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/3/c)
 
-[^key-26ce6047337f08d4d1b8aec28b21501b]: Textual amendment: [Art. 3(r)](https://www.legislation.gov.uk/uksi/2000/706/article/3/r) inserted (18.7.2025) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2025 (S.I. 2025/891)](https://www.legislation.gov.uk/uksi/2025/891), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/891/regulation/3/2)
+[^c-26ce6047337f08d4d1b8aec28b21501b]: Textual amendment: [Art. 3(r)](https://www.legislation.gov.uk/uksi/2000/706/article/3/r) inserted (18.7.2025) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2025 (S.I. 2025/891)](https://www.legislation.gov.uk/uksi/2025/891), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/891/regulation/3/2)
 
-[^key-3cf776c3d8a7a69473b6d5affd5a2073]: Commencement: Art. 4 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-3cf776c3d8a7a69473b6d5affd5a2073]: Commencement: Art. 4 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
-[^key-1c76e28a3e4cc0bd6902d6e19f92b930]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/4/1/a) substituted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/15) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
+[^c-1c76e28a3e4cc0bd6902d6e19f92b930]: Textual amendment: Words in [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/4/1/a) substituted (1.4.2015) by [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/15) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4))
 
 [^f00021]: Footnote: The repeal of Part III of the Housing Act 1985, which includes sections 63, 65 and 68 and which was commenced by the Housing Act 1996 (Commencement No. 5 and Transitional Provisions) Order 1996 (S.I. [1996/2959 (C. 88)](https://www.legislation.gov.uk/uksi/1996/2959)), does not, by virtue of paragraph 1 of the Schedule to that Order, apply to applicants under Part III of that Act whose applications were made before 20th January 1997.
 
@@ -411,43 +411,43 @@ Command Papers 2643, 3906, 9171 and 9512, referred to in this Order, are out of 
 
 [^f00023]: Footnote: Paragraph 10 was amended by paragraph 2 of Schedule 16 to the Housing Act 1996.
 
-[^key-e610a74544bf7e4e5097f2264711e854]: Commencement: Art. 5 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-e610a74544bf7e4e5097f2264711e854]: Commencement: Art. 5 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
 [^f00024]: Footnote: S.I. [1983/1118 (N.I. 15)](https://www.legislation.gov.uk/nisi/1983/1118).
 
 [^f00025]: Footnote: S.I. [1988/1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990).
 
-[^key-950604bacf164742894f8c55a53e70bd]: Commencement: Art. 6 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-950604bacf164742894f8c55a53e70bd]: Commencement: Art. 6 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
 [^f00026]: Footnote: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-924fc96142caabb6e3795fff91d7cff0]: Commencement: Art. 7 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-924fc96142caabb6e3795fff91d7cff0]: Commencement: Art. 7 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
-[^key-bec115e612c32ac81c1978654c3b4935]: Textual amendment: [Art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (9.7.2018) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2018 (S.I. 2018/729)](https://www.legislation.gov.uk/uksi/2018/729), [arts. 1](https://www.legislation.gov.uk/uksi/2018/729/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/729/article/2/3)
+[^c-bec115e612c32ac81c1978654c3b4935]: Textual amendment: [Art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (9.7.2018) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2018 (S.I. 2018/729)](https://www.legislation.gov.uk/uksi/2018/729), [arts. 1](https://www.legislation.gov.uk/uksi/2018/729/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/729/article/2/3)
 
-[^key-7c378ac69e7ce8e8f466d08b3e7632a6]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/825/article/2/4/a)
+[^c-7c378ac69e7ce8e8f466d08b3e7632a6]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/825/article/2/4/a)
 
-[^key-e0e2d4e91cf49db3f1331bb18df58c22]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/4/a)
+[^c-e0e2d4e91cf49db3f1331bb18df58c22]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/4/a)
 
-[^key-8c5445ad0c7388bf0122d98d6179f323]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) inserted (30.1.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1371)](https://www.legislation.gov.uk/uksi/2022/1371), [regs.](https://www.legislation.gov.uk/uksi/2022/1371/regulation), [3(3)](https://www.legislation.gov.uk/uksi/2022/1371/regulation/3/3)
+[^c-8c5445ad0c7388bf0122d98d6179f323]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) inserted (30.1.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1371)](https://www.legislation.gov.uk/uksi/2022/1371), [regs.](https://www.legislation.gov.uk/uksi/2022/1371/regulation), [3(3)](https://www.legislation.gov.uk/uksi/2022/1371/regulation/3/3)
 
-[^key-16a89026146024032b936894cae646e4]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/825/article/2/4/b)
+[^c-16a89026146024032b936894cae646e4]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (24.8.2020) by [The Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2020 (S.I. 2020/825)](https://www.legislation.gov.uk/uksi/2020/825), [arts. 1](https://www.legislation.gov.uk/uksi/2020/825/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/825/article/2/4/b)
 
-[^key-e401d30ca47dcc8f5dfd2768b9226441]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) inserted (22.3.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2022 (S.I. 2022/339)](https://www.legislation.gov.uk/uksi/2022/339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/339/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/339/regulation/3/3)
+[^c-e401d30ca47dcc8f5dfd2768b9226441]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) inserted (22.3.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2022 (S.I. 2022/339)](https://www.legislation.gov.uk/uksi/2022/339), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/339/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/339/regulation/3/3)
 
-[^key-edca436f43e165ae214ac666517f5b2a]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) inserted (10.6.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/601)](https://www.legislation.gov.uk/uksi/2022/601), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/601/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/601/regulation/3/3) (as amended by [S.I. 2022/626](https://www.legislation.gov.uk/uksi/2022/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/626/regulation/2))
+[^c-edca436f43e165ae214ac666517f5b2a]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) inserted (10.6.2022) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/601)](https://www.legislation.gov.uk/uksi/2022/601), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/601/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/601/regulation/3/3) (as amended by [S.I. 2022/626](https://www.legislation.gov.uk/uksi/2022/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/626/regulation/2))
 
-[^key-740e6c7fa1f5b5ef6965b087b87987fa]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (16.9.2021) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2021 (S.I. 2021/1045)](https://www.legislation.gov.uk/uksi/2021/1045), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/3/3/b)
+[^c-740e6c7fa1f5b5ef6965b087b87987fa]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (16.9.2021) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2021 (S.I. 2021/1045)](https://www.legislation.gov.uk/uksi/2021/1045), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/1045/regulation/3/3/b)
 
-[^key-1c2e2c42c97e16956fe496700d1d2af7]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/4/b)
+[^c-1c2e2c42c97e16956fe496700d1d2af7]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (6.4.2022) by [The Immigration (Restrictions on Employment and Residential Accommodation) (Prescribed Requirements and Codes of Practice) and Licensing Act 2003 (Personal and Premises Licences) (Forms), etc., Regulations 2022 (S.I. 2022/242)](https://www.legislation.gov.uk/uksi/2022/242), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/1/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/242/regulation/2/4/b)
 
-[^key-07fb13d6bd68bccc4725a4cea1128544]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (15.5.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2023 (S.I. 2023/530)](https://www.legislation.gov.uk/uksi/2023/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/530/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/530/regulation/3/3/b)
+[^c-07fb13d6bd68bccc4725a4cea1128544]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (15.5.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2023 (S.I. 2023/530)](https://www.legislation.gov.uk/uksi/2023/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/530/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/530/regulation/3/3/b)
 
-[^key-b34fb38c0d3d967a0ab0172627f4bd9b]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (27.10.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1142)](https://www.legislation.gov.uk/uksi/2023/1142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/3/3/b)
+[^c-b34fb38c0d3d967a0ab0172627f4bd9b]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (27.10.2023) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/1142)](https://www.legislation.gov.uk/uksi/2023/1142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/1142/regulation/3/3/b)
 
-[^key-d9594cc4eb173142ffc048c7ec48ea2f]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/4/b)
+[^c-d9594cc4eb173142ffc048c7ec48ea2f]: Textual amendment: Words in [art. 7(1)(a)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/a) substituted (7.6.2024) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2024 (S.I. 2024/647)](https://www.legislation.gov.uk/uksi/2024/647), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/647/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/647/regulation/3/4/b)
 
-[^key-e6aa078f3f286df41cdb0fd030719beb]: Textual amendment: [Art. 7(1)(aa)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/aa) inserted (18.7.2025) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2025 (S.I. 2025/891)](https://www.legislation.gov.uk/uksi/2025/891), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/891/regulation/3/3)
+[^c-e6aa078f3f286df41cdb0fd030719beb]: Textual amendment: [Art. 7(1)(aa)](https://www.legislation.gov.uk/uksi/2000/706/article/7/1/aa) inserted (18.7.2025) by [The Allocation of Housing and Homelessness (Eligibility) (England) and Persons Subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Regulations 2025 (S.I. 2025/891)](https://www.legislation.gov.uk/uksi/2025/891), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/891/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/891/regulation/3/3)
 
 [^f00027]: Footnote: S.I. [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971); relevant amending instruments are S.I. [1994/470](https://www.legislation.gov.uk/uksi/1994/470) and [1994/1807](https://www.legislation.gov.uk/uksi/1994/1807).
 
@@ -455,15 +455,15 @@ Command Papers 2643, 3906, 9171 and 9512, referred to in this Order, are out of 
 
 [^f00029]: Footnote: Section 22 was amended by S.I. [1987/465](https://www.legislation.gov.uk/uksi/1987/465); there are other amendments not relevant to this Order.
 
-[^key-a7001e50fb525678a2df6d0e1c829d9b]: Commencement: Art. 8 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-a7001e50fb525678a2df6d0e1c829d9b]: Commencement: Art. 8 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
-[^key-981d2b111c2f2b6275bd282d1a5476e8]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2000/706/article/8) substituted (7.8.2008) by [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/5) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1768/article/3/2))
+[^c-981d2b111c2f2b6275bd282d1a5476e8]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2000/706/article/8) substituted (7.8.2008) by [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/5) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1768/article/3/2))
 
-[^key-bff02b3bb132d6241fe1053cc77b6086]: Commencement: Art. 9 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-bff02b3bb132d6241fe1053cc77b6086]: Commencement: Art. 9 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
-[^key-f961d57a4e614b477325dfb3bcacbe18]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2000/706/article/9) substituted (7.8.2008) by [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1768/article/3/2))
+[^c-f961d57a4e614b477325dfb3bcacbe18]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2000/706/article/9) substituted (7.8.2008) by [The Persons subject to Immigration Control (Housing Authority Accommodation and Homelessness) (Amendment) Order 2008 (S.I. 2008/1768)](https://www.legislation.gov.uk/uksi/2008/1768), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1768/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2008/1768/article/2/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1768/article/3/2))
 
-[^key-8ac04dbe5e957f0eed2eef53da46e420]: Commencement: Art. 10 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
+[^c-8ac04dbe5e957f0eed2eef53da46e420]: Commencement: Art. 10 in force at 3.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2000/706/article/1/1)
 
 [^f00034]: Footnote: S.I. [1996/1982](https://www.legislation.gov.uk/uksi/1996/1982); relevant amending instruments are S.I. [1997/628](https://www.legislation.gov.uk/uksi/1997/628), [1998/139](https://www.legislation.gov.uk/uksi/1998/139), [1999/723 (S. 48)](https://www.legislation.gov.uk/uksi/1999/723) and [1999/3057](https://www.legislation.gov.uk/uksi/1999/3057).
 

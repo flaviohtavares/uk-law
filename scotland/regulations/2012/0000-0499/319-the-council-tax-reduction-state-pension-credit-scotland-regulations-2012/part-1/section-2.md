@@ -28,9 +28,9 @@ summary: ''
 - “**the 2006 Order**” means the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006 [^c21457661];
 - “**Abbeyfield Home**” means an establishment run by the Abbeyfield Society including all bodies corporate or unincorporate which are affiliated to that Society;
 - “**the Act**” means the Local Government Finance Act 1992;
-- [^key-a46666c2f53080972aa11be14b23a869]...
+- [^c-a46666c2f53080972aa11be14b23a869]...
 - “**adoption leave**” means a period of absence from work on ordinary or additional adoption leave by virtue of section 75A or 75B of the Employment Rights Act 1996 [^c21457681];
-- “[^key-190b071fc8cff053b33f80cc9f1fdac6]**adult disability payment**” means—
+- “[^c-190b071fc8cff053b33f80cc9f1fdac6]**adult disability payment**” means—
   - (a) disability assistance for adults given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022 (and references to the daily living component of that payment are to be construed in accordance with regulation 2 of those Regulations), and
   - (b) where short-term assistance is being given under Part 1 of schedule 2 (short-term assistance) of those Regulations, the “earlier determination” referred to in paragraph 1(1)(a) of that schedule is to be deemed to continue in payment for the purposes of these Regulations;
 - “**alternative maximum council tax reduction**” means the amount of council tax reduction calculated in accordance with regulation 56 and Schedule 5;
@@ -38,26 +38,26 @@ summary: ''
 - “**applicant**” means a person applying for council tax reduction or, as the case may be, a person who is entitled to council tax reduction whose entitlement is or may be subject to re-assessment by the relevant authority;
 - “**application**” means an application for council tax reduction;
 - “**appropriate maximum council tax reduction**” means the maximum council tax reduction applicable to a person calculated in accordance with regulation 47;
-- “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^key-442ebd2641b88fd91abd528e707089cd]
+- “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^c-442ebd2641b88fd91abd528e707089cd]
 - “**assessment period**” means a period described in regulation 31 (calculation of weekly income) or 34 (calculation of earnings of self-employed earners) over which income falls to be calculated;
 - “**attendance allowance**” means—
   - (a) an attendance allowance under Part 3 of the 1992 Act [^c21457691];
   - (b) an increase of disablement pension under section 104 or 105 of the 1992 Act;
-  - (c) [^key-22ad14d42513f38d476ca52976a813ca]...
+  - (c) [^c-22ad14d42513f38d476ca52976a813ca]...
   - (d) a payment by virtue of article 14, 15, 16, 43 or 44 of the Personal Injuries (Civilians) Scheme 1983 [^c21457701] or any analogous payment; or
   - (e) any payment based on need for attendance which is paid as part of a war disablement pension;
 - “**basic rate**” has the same meaning as in section 989 of the Income Tax Act 2007 [^c21457711];
-- “**the benefit Acts**” means the 1992 Act, the Armed Forces (Pensions and Compensation) Act 2004 insofar as it relates to armed forces independence payment, Part 4 (personal independence payment) of the Welfare Reform Act 2012,[^key-20ae4e24644824a7437fbf83bba1afd3] the Pensions Act 2014,[^key-38877bd590ef09f2bb7c89a3ce68d575] the Jobseekers Act 1995 [^c21457721], the Welfare Reform Act 2007 [^c21457731] and the State Pension Credit Act 2002 [^c21457741];
+- “**the benefit Acts**” means the 1992 Act, the Armed Forces (Pensions and Compensation) Act 2004 insofar as it relates to armed forces independence payment, Part 4 (personal independence payment) of the Welfare Reform Act 2012,[^c-20ae4e24644824a7437fbf83bba1afd3] the Pensions Act 2014,[^c-38877bd590ef09f2bb7c89a3ce68d575] the Jobseekers Act 1995 [^c21457721], the Welfare Reform Act 2007 [^c21457731] and the State Pension Credit Act 2002 [^c21457741];
 - “**board and lodging accommodation**” means accommodation provided to a person, or if that person is a member of a family, to that person or any other member of that person's family, for a charge which is inclusive of the provision of that accommodation and at least some cooked or prepared meals which are cooked or prepared (by a person other than the person to whom the accommodation is provided or a member of that person's family) and consumed in that accommodation or associated premises;
 - “care home” in Scotland means a care home service within the meaning given by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 [^c21457751] and in England and Wales has the meaning given by section 3 of the Care Standards Act 2000 [^c21457761];
-- “[^key-a861f67bec5a3032445308fa9953593a]**carer support payment**” means the Carer Support Payment component of Carer Support[^key-64029fbcdf5aa923b032862579570b34] payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023,
+- “[^c-a861f67bec5a3032445308fa9953593a]**carer support payment**” means the Carer Support Payment component of Carer Support[^c-64029fbcdf5aa923b032862579570b34] payable under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023,
 - “**carer's allowance**” means an allowance under section 70 of the 1992 Act [^c21457771];
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
-- “**child**” means a person under the age of 16 and where section 145A of the 1992 Act (entitlement after death of a child or qualifying young person) applies, then during the period prescribed under subsection (1) of that section (and only during that period)—[^key-97366832971d237522fc35e7de90a201]
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
+- “**child**” means a person under the age of 16 and where section 145A of the 1992 Act (entitlement after death of a child or qualifying young person) applies, then during the period prescribed under subsection (1) of that section (and only during that period)—[^c-97366832971d237522fc35e7de90a201]
   - (a) references in these Regulations to a child include the child in respect of whom there is entitlement under that section; and
   - (b) for the purposes of these Regulations the circumstances pertaining to the child at the date of their death are deemed to continue throughout that period;
 - “**child benefit**” means child benefit under section 141 of the 1992 Act [^c21457781];
-- “[^key-c4ab7b8fb142515ba5bc7b83e789cdd9]**child disability payment**” means—
+- “[^c-c4ab7b8fb142515ba5bc7b83e789cdd9]**child disability payment**” means—
   - (a) disability assistance for children and young people given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021 [^M_F_42e5652b-ea20-4114-c379-2e374dd6ee2e] (and references to the care component of that payment are to be construed in accordance with regulation 2 of those Regulations), and
   - (b) where short-term assistance is being given under Part 1 of the schedule of those Regulations (short-term assistance), the “earlier determination” referred to in paragraph 1(1)(a) of that schedule is to be deemed to continue in payment for the purposes of these Regulations,
 - “**child tax credit**” means a child tax credit under section 8 of the Tax Credits Act 2002 [^c21457791];
@@ -66,8 +66,8 @@ summary: ''
 - “**contributory employment and support allowance**” means a contributory allowance under Part 1 of the Welfare Reform Act 2007 [^c21457811];
 - “**council tax benefit**” means council tax benefit under the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c21457821];
 - “**council tax reduction**” means a reduction in liability for council tax calculated in accordance with these Regulations;
-- “**the Council Tax Reduction Regulations**” means the Council Tax Reduction (Scotland) Regulations 2021[^key-597370414b008355d49335fe58e48071];
-- “couple” means—[^key-96827fcdf7c54a1b146466dd624b08ab]
+- “**the Council Tax Reduction Regulations**” means the Council Tax Reduction (Scotland) Regulations 2021[^c-597370414b008355d49335fe58e48071];
+- “couple” means—[^c-96827fcdf7c54a1b146466dd624b08ab]
   - (a) two people who are married to each other and are members of the same household, but not if the marriage is a polygamous marriage;
   - (b) two people who are civil partners of each other and are members of the same household; or
   - (c) two people who are neither married to each other nor civil partners of each other but who are living together as if they were married to each other;
@@ -78,7 +78,7 @@ summary: ''
 - “**discount**” means discount under section 79 of the Act [^c21457851] (discount of the amount of council tax payable);
 - “**earnings**” has the meaning given by regulation 32 (earnings of employed earners) or, as the case may be, regulation 35 (earnings of self-employed earners);
 - “**educational establishment**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980 [^c21457861];
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
 - “**employed earner**” is to be construed in accordance with section 2(1)(a) of the 1992 Act [^c21457871] and also includes a person who is in receipt of a payment which is payable under any enactment having effect in Northern Ireland and which corresponds to statutory sick pay or statutory maternity pay;
 - “**employment and support allowance**” means employment and support allowance under Part 1 of the Welfare Reform Act 2007 [^c21457881];
 - “**Employment and Support Allowance Regulations**” means the Employment and Support Allowance Regulations 2008 [^c21457891];
@@ -89,15 +89,15 @@ summary: ''
   - (b) a couple and a member of the same household for whom one of them is, or both are, responsible and who is a child or young person; or
   - (c) subject to regulation 22 (circumstances in which capital and income of non-dependant is to be treated as applicant's), a person who is not a member of a couple and a member of the same household for whom the person is responsible and who is a child or a young person;
 - “**first authority**” means the relevant authority to which a mover was liable to pay council tax for the dwelling that person resided in immediately before moving to the dwelling in the area of the second authority;
-- the First-tier Tribunal for Scotland” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;[^key-8e7ea3cb71f7ee1c0967b22c415e8912]
+- the First-tier Tribunal for Scotland” means the First-tier Tribunal for Scotland, established by section 1 of the Tribunals (Scotland) Act 2014;[^c-8e7ea3cb71f7ee1c0967b22c415e8912]
 - “**full-time student**” means a person attending or undertaking a full-time course of study [^c21457901];
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
-- “[^key-cae869bd6d929b2311bae78604191a64]**Grenfell Tower payment**” means a payment made for the purpose of providing compensation or support in respect of the fire on 14 June 2017 at Grenfell Tower;
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
+- “[^c-cae869bd6d929b2311bae78604191a64]**Grenfell Tower payment**” means a payment made for the purpose of providing compensation or support in respect of the fire on 14 June 2017 at Grenfell Tower;
 - “**guarantee credit**” is to be construed in accordance with sections 1 and 2 of the State Pension Credit Act 2002 [^c21457911];
 - “**guaranteed income payment**” means a payment referred to in article 15(1)(c) or 29(1)(a) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 and determined in accordance with article 24 of that Order [^c21457921];
-- “[^key-0ec2073f970fbd7b0503c8fea947e41d]**the Horizon System**” means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+- “[^c-0ec2073f970fbd7b0503c8fea947e41d]**the Horizon System**” means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
 - “**housing benefit**” means housing benefit under section 130 of the 1992 Act [^c21457931];
-- “ILF Scotland” means the company limited by guarantee under the name ILF Scotland, registered under number SC 500075;[^key-f846654f37f66d746c6bf9f2d50a8fab]
+- “ILF Scotland” means the company limited by guarantee under the name ILF Scotland, registered under number SC 500075;[^c-f846654f37f66d746c6bf9f2d50a8fab]
 - “**incapacity benefit**” means incapacity benefit under section 30A, 40 or 41 of the 1992 Act [^c21457941];
 - “**income**” has the meaning given by regulation 27 (meaning of “income”);
 - “**an income-based jobseeker's allowance**” and “**a joint-claim jobseeker's allowance**” have the same meaning as they have in the Jobseekers Act 1995 by virtue of section 1(4) of that Act [^c21457951];
@@ -108,48 +108,48 @@ summary: ''
   - (a) in Scotland, means an independent health care service as defined in section 10F(1)(a) and (b) of the National Health Service (Scotland) Act 1978 [^c21457981];
   - (b) in England, means a hospital as defined by section 275 of the National Health Service Act 2006 [^c21457991] that is not a health service hospital as defined by that section; and
   - (c) in Wales, has the meaning assigned to it by section 2 of the Care Standards Act 2000 [^c21458001];
-- [^key-9f2cc55ef6c4fff7e8995d918ebfdb17]...
-- “[^key-a504324198647b53aa2748f2accdee29]**infected blood payment scheme**” means a scheme established by, or with the approval of, the Scottish Ministers, the Secretary of State, the Minister for the Cabinet Office, the Welsh Ministers or the Department of Health in Northern Ireland, or a trust established with funds provided by the Secretary of State, for making compensation, support or *ex gratia* payments to or in respect of persons who—
+- [^c-9f2cc55ef6c4fff7e8995d918ebfdb17]...
+- “[^c-a504324198647b53aa2748f2accdee29]**infected blood payment scheme**” means a scheme established by, or with the approval of, the Scottish Ministers, the Secretary of State, the Minister for the Cabinet Office, the Welsh Ministers or the Department of Health in Northern Ireland, or a trust established with funds provided by the Secretary of State, for making compensation, support or *ex gratia* payments to or in respect of persons who—
   - (a) have been infected as a result of being treated with blood, blood products or tissue,
   - (b) have been infected as a result of another person being treated with blood, blood products or tissue, or
   - (c) have been affected by another person being infected as described in sub-paragraph (a) or (b);
 - “**invalid carriage or other vehicle**” means a vehicle propelled by a petrol engine or by electric power supplied for use on the road and to be controlled by the occupant;
-- **“LGBT Financial Recognition Scheme[^key-dc49823dfb7d438bddb13e783a38358f]**” means the scheme under which payments are made to persons who served under, and were impacted by, the ban on lesbian, gay, bisexual and transgender personnel in the armed forces of the Crown from 1967 to 2000;
+- **“LGBT Financial Recognition Scheme[^c-dc49823dfb7d438bddb13e783a38358f]**” means the scheme under which payments are made to persons who served under, and were impacted by, the ban on lesbian, gay, bisexual and transgender personnel in the armed forces of the Crown from 1967 to 2000;
 - “**limited capability for work**” has the meaning given by section 1(4) of the Welfare Reform Act 2007;
 - “local authority” in Scotland means a council constituted by section 2 of the Local Government etc. (Scotland) Act 1994 [^c21458011];
 - “**the London Bombings Relief Charitable Fund**” means the company limited by guarantee (number 5505072) and registered charity of that name established on 11th July 2005 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the terrorist attacks carried out in London on 7th July 2005;
-- “the London Emergencies Trust” means the company of that name (number 09928465) incorporated on 23rd December 2015 and registered charity of that name (number 1172307) established on 28th March 2017 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims of emergency incidents occurring in Greater London;[^key-25d5f80cf5b526311c120a8707caa840]
+- “the London Emergencies Trust” means the company of that name (number 09928465) incorporated on 23rd December 2015 and registered charity of that name (number 1172307) established on 28th March 2017 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims of emergency incidents occurring in Greater London;[^c-25d5f80cf5b526311c120a8707caa840]
 - “**lone parent**” means a person who has no partner and who is responsible for and a member of the same household as a child or young person;
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
-- “**main phase employment and support allowance**” means an employment and support allowance where the calculation of the amount payable in respect of the applicant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act 2007 or the applicant is a member of the work-related activity group[^key-1fcc06c1ed069cee25d2725903e1e79b];
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
+- “**main phase employment and support allowance**” means an employment and support allowance where the calculation of the amount payable in respect of the applicant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act 2007 or the applicant is a member of the work-related activity group[^c-1fcc06c1ed069cee25d2725903e1e79b];
 - “**maternity leave**” means a period during which a woman is absent from work because she is pregnant or has given birth to a child, and at the end of which she has a right to return to work under the terms of her contract of employment or under Part 8 of the Employment Rights Act 1996 [^c21458021];
 - “**medically approved**” means certified by a medical practitioner;
 - “**member of a couple**” means a member of a married or unmarried couple;
-- “member of the work-related activity group” means a person who has or is treated as having limited capability for work under either—[^key-f01ad828fd159e9837e6fbe48b85fcb3]
+- “member of the work-related activity group” means a person who has or is treated as having limited capability for work under either—[^c-f01ad828fd159e9837e6fbe48b85fcb3]
   - (a) Part 5 of the Employment and Support Allowance Regulations 2008 other than by virtue of regulation 30 of those Regulations; or
   - (b) Part 4 of the Employment and Support Allowance Regulations 2013 other than by virtue of regulation 26 of those Regulations;
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
 - “**mover**” means a person who moves from a dwelling in which the person is resident, and in respect of which the person is liable to pay council tax to the first authority, to reside in a dwelling in the area of the second authority and any reference to a mover is to be construed as including a reference to the mover's partner;
-- “[^key-ea40ce46a1b45fe6e0cf2b5e4e9e0f9d]**neonatal care leave**” means leave under section 80EF the Employment Rights Act 1996;
+- “[^c-ea40ce46a1b45fe6e0cf2b5e4e9e0f9d]**neonatal care leave**” means leave under section 80EF the Employment Rights Act 1996;
 - “**net earnings**” means earnings calculated in accordance with regulation 33 (calculation of net earnings of employed earners);
 - “**net profit**” means profit calculated in accordance with regulation 36 (calculation of net profit of self-employed earners);
 - “**new dwelling**” means, for the purposes of the definition of “second authority” and regulation 52 (extended council tax reduction (qualifying contributory benefits): movers), the dwelling to which an applicant has moved, or is about to move, in which the applicant is or will be resident;
 - “**non-dependant**” has the meaning given by regulation 3 (non-dependants);
 - “**non-dependant deduction**” means a deduction that is to be made under regulation 48 (non-dependant deductions);
 - “**occupational pension**” means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases;
-- “**official error**” means an error made by an officer of the Department for Work and Pensions acting as such which no person outside the Department caused or to which no person outside the Department materially contributed to but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of the Upper Tribunal or a court[^key-96cf863095f6757d18f0c6c02fd55741];
-- [^key-2de93f5ec717e8ff4c690b8a83df0971]...
-- [^key-020eaf5f329f9501399a1768d06581b8]...
-- “parental bereavement leave” means leave under section 80EA of the Employment Rights Act 1996;[^key-b6ef0321f8b4a3bd17e65a1cac732312]
+- “**official error**” means an error made by an officer of the Department for Work and Pensions acting as such which no person outside the Department caused or to which no person outside the Department materially contributed to but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of the Upper Tribunal or a court[^c-96cf863095f6757d18f0c6c02fd55741];
+- [^c-2de93f5ec717e8ff4c690b8a83df0971]...
+- [^c-020eaf5f329f9501399a1768d06581b8]...
+- “parental bereavement leave” means leave under section 80EA of the Employment Rights Act 1996;[^c-b6ef0321f8b4a3bd17e65a1cac732312]
 - “**partner**” means—
   - (a) where an applicant is a member of a couple, the other member of that couple; or
   - (b) where an applicant is polygamously married to two or more members of the applicant's household, any such member to whom the applicant is married;
-- “**paternity leave**” means a period of absence from work on [^key-2e90c72f16b12594d54c1dffc944dd57]... paternity leave by virtue of sections 80A or 80B of the Employment Rights Act 1996 [^c21458041] [^key-866c7b4f29597de1c5efdf9af1830d73]...;
+- “**paternity leave**” means a period of absence from work on [^c-2e90c72f16b12594d54c1dffc944dd57]... paternity leave by virtue of sections 80A or 80B of the Employment Rights Act 1996 [^c21458041] [^c-866c7b4f29597de1c5efdf9af1830d73]...;
 - “**patient**” means a person who is undergoing medical or other treatment as an in-patient in any hospital or similar institution;
 - “**payment**” includes part of a payment;
-- “[^key-602eb171c753c18225e243995cf73e4e]**pension age disability payment**” means—
+- “[^c-602eb171c753c18225e243995cf73e4e]**pension age disability payment**” means—
   - (a) disability assistance for older people given in accordance with the Disability Assistance for Older People (Scotland) Regulations 2024, and
   - (b) where short-term assistance is being given under Part 1 of the schedule (short-term assistance) of those Regulations, the “earlier determination” referred to in paragraph 1(1)(a) of the schedule is to be deemed to continue in payment for the purposes of these Regulations,
 - “**pension fund holder**” means with respect to a personal pension scheme or an occupational pension scheme, the trustees, managers or scheme administrators, as the case may be, of the scheme concerned;
@@ -160,12 +160,12 @@ summary: ''
   - (c) a personal pension scheme approved under Chapter 4 of Part 14 of the Income and Corporation Taxes Act 1988 [^c21458101] which is treated as having become a registered pension scheme by virtue of paragraph 1(1)(g) of Schedule 36 to the Finance Act 2004;
 - “**policy of life insurance**” means any instrument by which the payment of money is assured on death (except death by accident only) or the happening of any contingency dependent on human life, or any instrument evidencing a contract which is subject to payment of premiums for a term dependent on human life;
 - “**polygamous marriage**” means any marriage during the subsistence of which a party to it is married to more than one person and the ceremony of marriage took place under the law of a country which permits polygamy, and cognate expressions are to be construed accordingly;
-- “[^key-0175c3f21a3423ba22a099f36081be33]**the Post Office**” means Post Office Limited (registered number 02154540);
+- “[^c-0175c3f21a3423ba22a099f36081be33]**the Post Office**” means Post Office Limited (registered number 02154540);
 - “**Post Office compensation payment**” means a payment made by the Post Office or the Secretary of State for the purpose of providing compensation or support which is—
   - (a) in connection with the failings of the Horizon system; or
   - (b) otherwise payable following the judgement in *Bates and Others v Post Office Ltd* ((No. 3) “Common Issues”);
 - “**public authority**” includes any person certain of whose functions are functions of a public nature;
-- “[^key-ab381015b50aa28142135af3f8a15f65]**qualifying age for state pension credit**” means pensionable age (see section 1(2)(b) and (6) of the State Pension Credit Act 2002),
+- “[^c-ab381015b50aa28142135af3f8a15f65]**qualifying age for state pension credit**” means pensionable age (see section 1(2)(b) and (6) of the State Pension Credit Act 2002),
 - “**qualifying contributory benefit**” means—
   - (a) severe disablement allowance under section 68 of the 1992 Act [^c21458121];
   - (b) incapacity benefit; or
@@ -188,7 +188,7 @@ summary: ''
 - “**retirement pension income**” means retirement pension income within the meaning of section 16 of the State Pension Credit Act 2002 [^c21458141];
 - “**sandwich course**” has the meaning prescribed in regulation 4(2) of the Education (Student Loans) (Scotland) Regulations 2007 [^c21458151], regulation 2(10) of the Education (Student Support) Regulations 2011 [^c21458161] or regulation 2(10) of the Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 [^c21458171], as the case may be;
 - “**savings credit**” is to be construed in accordance with sections 1 and 3 of the State Pension Credit Act 2002 [^c21458181];
-- “[^key-1b50f7cb83fed8720bbd2bf528752945]**Scottish adult disability living allowance**” means—
+- “[^c-1b50f7cb83fed8720bbd2bf528752945]**Scottish adult disability living allowance**” means—
   - (a) disability assistance given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, and
   - (b) where short-term assistance is being given under Part 1 of schedule 1 (short-term assistance) of those Regulations, the “earlier determination” referred to in paragraph 1(1)(a) of the schedule is to be deemed to continue in payment for the purposes of these Regulations,
 - “**second adult**” has the meaning given to it in Schedule 5;
@@ -207,39 +207,39 @@ summary: ''
   - (j) a public or local authority in Great Britain in consequence of a function conferred under any other enactment,
 
   for the purposes of monitoring and advising on a policy of that body or authority which affects or may affect persons in the group, or of monitoring or advising on services provided by that body or authority which are used (or may potentially be used) by those persons;
-- “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996;[^key-2ee2a35b1c2bc5def12182c0570a7d8b]
+- “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996;[^c-2ee2a35b1c2bc5def12182c0570a7d8b]
 - “**single applicant**” means an applicant who does not have a partner and who is not a lone parent;
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
 - “**sports award**” means an award made by one of the Sports Councils named in section 23(2) of the National Lottery etc Act 1993 [^c21458291] out of sums allocated to it for distribution under that section;
 - “**state pension credit**” means state pension credit under the State Pension Credit Act 2002;
 - “**statutory adoption pay**” means statutory adoption pay payable under section 171ZL of the 1992 Act [^c21458301];
 - “**statutory maternity pay**” means statutory maternity pay payable under section 164 of the 1992 Act [^c21458311];
-- “[^key-3f2d474c348522b235c85f75823d6219]**statutory neonatal care pay**” means statutory neonatal care pay under section 171ZZ16 of the 1992 Act;
-- “statutory parental bereavement pay” means statutory parental bereavement pay under section 171ZZ6 of the 1992 Act;[^key-483634e23cf208078c147cd713ddcb0b]
-- “statutory paternity pay” means statutory paternity pay under section 171ZA or 171ZB of the 1992 Act;[^key-e0b1d6d5d63c3e2247931fd086039943]
-- “statutory shared parental pay” means statutory shared parental pay under section 171ZU or 171ZV of the 1992 Act;[^key-33f894c1e9b70446bc3955d397266725]
+- “[^c-3f2d474c348522b235c85f75823d6219]**statutory neonatal care pay**” means statutory neonatal care pay under section 171ZZ16 of the 1992 Act;
+- “statutory parental bereavement pay” means statutory parental bereavement pay under section 171ZZ6 of the 1992 Act;[^c-483634e23cf208078c147cd713ddcb0b]
+- “statutory paternity pay” means statutory paternity pay under section 171ZA or 171ZB of the 1992 Act;[^c-e0b1d6d5d63c3e2247931fd086039943]
+- “statutory shared parental pay” means statutory shared parental pay under section 171ZU or 171ZV of the 1992 Act;[^c-33f894c1e9b70446bc3955d397266725]
 - “**statutory sick pay**” means statutory sick pay under section 151 of the 1992 Act [^c21458321];
 - “**student**” means a person, other than a person in receipt of a training allowance, who is attending or undertaking—
   - (a) a course of study at an educational establishment; or
   - (b) a qualifying course as defined for the purposes of Parts 2 and 4 of the Jobseeker's Allowance Regulations 1996 [^c21458331];
 - “**student loan**” means a loan towards a student's maintenance pursuant to section 73 of the 1980 Act [^c21458341], any regulations made under section 22 of the Teaching and Higher Education Act 1998 [^c21458351] or article 3 of the Education (Student Support) (Northern Ireland) Order 1998 [^c21458361] and includes a young student's bursary paid under regulation 4(1)(c) of the Students' Allowances (Scotland) Regulations 2007 [^c21458371];
-- “the Thalidomide Trust” means the registered charity of that name (number 266220) established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that their mother had taken a preparation containing the drug known as Thalidomide during pregnancy;[^key-ba81bef576ff70a2071cd2373b943fcd]
+- “the Thalidomide Trust” means the registered charity of that name (number 266220) established for the purpose of giving relief and assistance to disabled persons whose disabilities were caused by the fact that their mother had taken a preparation containing the drug known as Thalidomide during pregnancy;[^c-ba81bef576ff70a2071cd2373b943fcd]
 - “**training allowance**” means an allowance (whether by way of periodical grants or otherwise) payable—
   - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise, the Young People's Learning Agency for England, the Chief Executive of Skills Funding or the Welsh Ministers;
   - (b) to a person for the person's maintenance or in respect of a member of the person's family; and
   - (c) for the period, or part of the period, during which the person is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to the person or so provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise or the Welsh Ministers,
 
   but it does not include an allowance paid by any Government department to or in respect of a person by reason of the fact that the person is following a course of full-time education, other than under arrangements made under section 2 of the 1973 Act [^c21458381], or is training as a teacher;
-- [^key-9fd6ae95dd9a13630296012706f4e54c]...
-- “universal credit” has the meaning given by section 1 of the Welfare Reform Act 2012;[^key-1cd746b74a88dfb66bc24c26cf3ecaa4]
-- “[^key-34b5cffb451ababc2c9f9b724b52fd1b]**vaccine damage payment**” means a payment made under the Vaccine Damage Payments Act 1979;
-- “[^key-c29a80d2eb9e018dfc8adc32a723c0b9]**the Victims of Overseas Terrorism Compensation Scheme**” means the scheme of that name established by the Ministry of Justice in 2012 under section 47 of the Crime and Security Act 2010;
+- [^c-9fd6ae95dd9a13630296012706f4e54c]...
+- “universal credit” has the meaning given by section 1 of the Welfare Reform Act 2012;[^c-1cd746b74a88dfb66bc24c26cf3ecaa4]
+- “[^c-34b5cffb451ababc2c9f9b724b52fd1b]**vaccine damage payment**” means a payment made under the Vaccine Damage Payments Act 1979;
+- “[^c-c29a80d2eb9e018dfc8adc32a723c0b9]**the Victims of Overseas Terrorism Compensation Scheme**” means the scheme of that name established by the Ministry of Justice in 2012 under section 47 of the Crime and Security Act 2010;
 - “**voluntary organisation**” means a body, other than a public or local authority, the activities of which are carried on otherwise than for profit;
 - “**war disablement pension**” means any retired pay or pension or allowance payable in respect of disablement under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 [^c21458391];
 - “**war widow's pension**” means any pension or allowance payable to a woman as a widow or surviving civil partner under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
 - “**war widower's pension**” means any pension or allowance payable to a man as a widower or surviving civil partner under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003 in respect of the death or disablement of any person;
-- “the We Love Manchester Emergency Fund” means the registered charity of that name (number 1173260) established on 30th May 2017 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the bombing at Manchester Arena on 22nd May 2017;[^key-4a626bf8e1205b15b61a3b02f0be268e]
-- “welfare fund” means any fund maintained by a local authority in terms of section 1 of the Welfare Funds (Scotland) Act 2015;[^key-ab6c8e97a49613863a45425c2bdd3ff9]
+- “the We Love Manchester Emergency Fund” means the registered charity of that name (number 1173260) established on 30th May 2017 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the bombing at Manchester Arena on 22nd May 2017;[^c-4a626bf8e1205b15b61a3b02f0be268e]
+- “welfare fund” means any fund maintained by a local authority in terms of section 1 of the Welfare Funds (Scotland) Act 2015;[^c-ab6c8e97a49613863a45425c2bdd3ff9]
 - “**working tax credit**” means a working tax credit under section 10 of the Tax Credits Act 2002 [^c21458401];
 - “**Working Tax Credit Regulations**” means the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 [^c21458411]; and
 - “**young person**” has the meaning given by regulation 4 (young persons).
@@ -286,25 +286,25 @@ summary: ''
 
 [^c21457661]: Marginal citation: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
 
-[^key-a46666c2f53080972aa11be14b23a869]: Textual amendment: Words in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-a46666c2f53080972aa11be14b23a869]: Textual amendment: Words in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
 [^c21457681]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 75A and 75B were inserted by section 3 of the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended by paragraphs 33 and 34, respectively, of Schedule 1 to the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
-[^key-190b071fc8cff053b33f80cc9f1fdac6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2022/31/regulation/14/2) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+[^c-190b071fc8cff053b33f80cc9f1fdac6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2022/31/regulation/14/2) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
 
-[^key-442ebd2641b88fd91abd528e707089cd]: Textual amendment: Words in reg. 2(1) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/ssi/2013/142/regulation/12/2/a)
+[^c-442ebd2641b88fd91abd528e707089cd]: Textual amendment: Words in reg. 2(1) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/ssi/2013/142/regulation/12/2/a)
 
 [^c21457691]: Marginal citation: Part 3 was relevantly amended by section 66 of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 60](https://www.legislation.gov.uk/ukpga/1999/30/section/60) of the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5) and [S.I. 2011/2426](https://www.legislation.gov.uk/uksi/2011/2426).
 
-[^key-22ad14d42513f38d476ca52976a813ca]: Textual amendment: Words in reg. 2 revoked (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2013/49/regulation/3/a)
+[^c-22ad14d42513f38d476ca52976a813ca]: Textual amendment: Words in reg. 2 revoked (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2013/49/regulation/3/a)
 
 [^c21457701]: Marginal citation: S.I. 1983/686 as relevantly amended by [S.I. 1984/1675](https://www.legislation.gov.uk/uksi/1984/1675) and 2001/420.
 
 [^c21457711]: Marginal citation: [2007 c.3](https://www.legislation.gov.uk/ukpga/2007/3). Section 989 was relevantly amended by section 26 of the [Scotland Act 2012 (c.11)](https://www.legislation.gov.uk/ukpga/2012/11).
 
-[^key-20ae4e24644824a7437fbf83bba1afd3]: Textual amendment: Words in reg. 2(1) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/ssi/2013/142/regulation/12/2/b)
+[^c-20ae4e24644824a7437fbf83bba1afd3]: Textual amendment: Words in reg. 2(1) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/ssi/2013/142/regulation/12/2/b)
 
-[^key-38877bd590ef09f2bb7c89a3ce68d575]: Textual amendment: Words in reg. 2(1) inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [21](https://www.legislation.gov.uk/ssi/2016/81/regulation/21)
+[^c-38877bd590ef09f2bb7c89a3ce68d575]: Textual amendment: Words in reg. 2(1) inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [21](https://www.legislation.gov.uk/ssi/2016/81/regulation/21)
 
 [^c21457721]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
@@ -316,19 +316,19 @@ summary: ''
 
 [^c21457761]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by paragraph 4 of Schedule 5 to the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-a861f67bec5a3032445308fa9953593a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/319/regulation/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/6/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9))
+[^c-a861f67bec5a3032445308fa9953593a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/319/regulation/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/6/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9))
 
-[^key-64029fbcdf5aa923b032862579570b34]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/8/2) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-64029fbcdf5aa923b032862579570b34]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/8/2) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
 [^c21457771]: Marginal citation: Section 70 was amended by [S.I. 1994/2556](https://www.legislation.gov.uk/uksi/1994/2556), 2002/1457 and 2011/2426.
 
-[^key-9fd6ae95dd9a13630296012706f4e54c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) omitted (1.12.2024) by virtue of [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/2/a)
+[^c-9fd6ae95dd9a13630296012706f4e54c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) omitted (1.12.2024) by virtue of [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/2/a)
 
-[^key-97366832971d237522fc35e7de90a201]: Textual amendment: Words in reg. 2(1) inserted (25.11.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2013 (S.S.I. 2013/287)](https://www.legislation.gov.uk/ssi/2013/287), [regs. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2013/287/regulation/13/a)
+[^c-97366832971d237522fc35e7de90a201]: Textual amendment: Words in reg. 2(1) inserted (25.11.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2013 (S.S.I. 2013/287)](https://www.legislation.gov.uk/ssi/2013/287), [regs. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1), [13(a)](https://www.legislation.gov.uk/ssi/2013/287/regulation/13/a)
 
 [^c21457781]: Marginal citation: Section 141 was amended by section 1 of the [Child Benefit Act 2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6).
 
-[^key-c4ab7b8fb142515ba5bc7b83e789cdd9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2021/73/regulation/14/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+[^c-c4ab7b8fb142515ba5bc7b83e789cdd9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2021/73/regulation/14/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
 
 [^M_F_42e5652b-ea20-4114-c379-2e374dd6ee2e]: Textual amendment: S.S.I. 2021/XXX.
 
@@ -340,9 +340,9 @@ summary: ''
 
 [^c21457821]: Marginal citation: S.I. 2006/216.
 
-[^key-597370414b008355d49335fe58e48071]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/319/regulation/2) substituted (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 4(2)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/4/2) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-597370414b008355d49335fe58e48071]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/319/regulation/2) substituted (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 5 para. 4(2)](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/4/2) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [3](https://www.legislation.gov.uk/ssi/2021/249/regulation/3), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-96827fcdf7c54a1b146466dd624b08ab]: Textual amendment: Words in reg. 2(1) substituted (1.4.2015) by [The Council Tax Reduction (Scotland) Amendment Regulations 2015 (S.S.I. 2015/46)](https://www.legislation.gov.uk/ssi/2015/46), [regs. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/46/regulation/15)
+[^c-96827fcdf7c54a1b146466dd624b08ab]: Textual amendment: Words in reg. 2(1) substituted (1.4.2015) by [The Council Tax Reduction (Scotland) Amendment Regulations 2015 (S.S.I. 2015/46)](https://www.legislation.gov.uk/ssi/2015/46), [regs. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/46/regulation/15)
 
 [^c21457841]: Marginal citation: Section 71 was amended by section 67 of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -356,21 +356,21 @@ summary: ''
 
 [^c21457891]: Marginal citation: S.I. 2008/794.
 
-[^key-8e7ea3cb71f7ee1c0967b22c415e8912]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/319/regulation/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/1/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
+[^c-8e7ea3cb71f7ee1c0967b22c415e8912]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2012/319/regulation/2) inserted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/1/2) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
 
 [^c21457901]: Marginal citation: Paragraphs (2) to (4) of this regulation make further provision in relation to the meaning of “full-time student”.
 
-[^key-cae869bd6d929b2311bae78604191a64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/a)
+[^c-cae869bd6d929b2311bae78604191a64]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/a)
 
 [^c21457911]: Marginal citation: Section 2 was amended by paragraphs 140 and 141 of Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
 [^c21457921]: Marginal citation: S.I. 2011/517.
 
-[^key-0ec2073f970fbd7b0503c8fea947e41d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/b)
+[^c-0ec2073f970fbd7b0503c8fea947e41d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/b)
 
 [^c21457931]: Marginal citation: Section 130 was relevantly amended by paragraph 3 of Schedule 9 to the [Local Government Finance Act 1992 (c.14)](https://www.legislation.gov.uk/ukpga/1992/14), Part 6 of Schedule 19 to the [Housing Act 1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52) and paragraph 1(3) of Schedule 5, and Schedule 8, to, the [Welfare Reform Act 2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-f846654f37f66d746c6bf9f2d50a8fab]: Textual amendment: Words in reg. 2(1) inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(1)(a)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/1/a)
+[^c-f846654f37f66d746c6bf9f2d50a8fab]: Textual amendment: Words in reg. 2(1) inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(1)(a)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/1/a)
 
 [^c21457941]: Marginal citation: Section 30A was inserted by section 1 of the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) (“**the 1994 Act**”) and amended by section 64 of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and paragraph 14 of Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33). Section 40 was substituted by paragraph 8 of Schedule 1 to the 1994 Act. Section 41 was substituted by paragraph 9 of Schedule 1 to the 1994 Act and amended by paragraph 21 of Schedule 4 to the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
@@ -386,39 +386,39 @@ summary: ''
 
 [^c21458001]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 2 was relevantly amended by section 106 of the [Health and Social Care (Community Health and Standards) Act 2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43), [paragraph 199](https://www.legislation.gov.uk/ukpga/2003/43/paragraph/199) of Schedule 1 to the [National Health Service (Consequential Provisions) Act 2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43), [paragraph 3](https://www.legislation.gov.uk/ukpga/2006/43/paragraph/3) of Schedule 5 to the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) and S.I. 2002/325.
 
-[^key-9f2cc55ef6c4fff7e8995d918ebfdb17]: Textual amendment: Words in reg. 2(1) omitted (1.4.2016) by virtue of [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(1)(b)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/1/b)
+[^c-9f2cc55ef6c4fff7e8995d918ebfdb17]: Textual amendment: Words in reg. 2(1) omitted (1.4.2016) by virtue of [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(1)(b)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/1/b)
 
-[^key-a504324198647b53aa2748f2accdee29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) substituted (1.12.2024) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/2/b)
+[^c-a504324198647b53aa2748f2accdee29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) substituted (1.12.2024) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2024 (S.S.I. 2024/310)](https://www.legislation.gov.uk/ssi/2024/310), [regs. 1](https://www.legislation.gov.uk/ssi/2024/310/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2024/310/regulation/2/2/b)
 
-[^key-dc49823dfb7d438bddb13e783a38358f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (3.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/112)](https://www.legislation.gov.uk/ssi/2025/112), [regs. 1](https://www.legislation.gov.uk/ssi/2025/112/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/112/regulation/2/2)
+[^c-dc49823dfb7d438bddb13e783a38358f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (3.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2025 (S.S.I. 2025/112)](https://www.legislation.gov.uk/ssi/2025/112), [regs. 1](https://www.legislation.gov.uk/ssi/2025/112/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/112/regulation/2/2)
 
 [^c21458011]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by paragraph 232(1) of Schedule 22 to the [Environment Act 1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-25d5f80cf5b526311c120a8707caa840]: Textual amendment: Words in reg. 2 inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2017/326/regulation/10/a)
+[^c-25d5f80cf5b526311c120a8707caa840]: Textual amendment: Words in reg. 2 inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2017/326/regulation/10/a)
 
-[^key-1fcc06c1ed069cee25d2725903e1e79b]: Textual amendment: Words in reg. 2(1) inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [15(a)](https://www.legislation.gov.uk/ssi/2017/326/regulation/15/a)
+[^c-1fcc06c1ed069cee25d2725903e1e79b]: Textual amendment: Words in reg. 2(1) inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [15(a)](https://www.legislation.gov.uk/ssi/2017/326/regulation/15/a)
 
 [^c21458021]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Part 8 was substituted by Part 1 of Schedule 4 to the [Employment Relations Act 1999 (c.26)](https://www.legislation.gov.uk/ukpga/1999/26).
 
-[^key-f01ad828fd159e9837e6fbe48b85fcb3]: Textual amendment: Words in reg. 2(1) inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [15(b)](https://www.legislation.gov.uk/ssi/2017/326/regulation/15/b)
+[^c-f01ad828fd159e9837e6fbe48b85fcb3]: Textual amendment: Words in reg. 2(1) inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [15(b)](https://www.legislation.gov.uk/ssi/2017/326/regulation/15/b)
 
-[^key-ea40ce46a1b45fe6e0cf2b5e4e9e0f9d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/150/regulation/2/2/a)
+[^c-ea40ce46a1b45fe6e0cf2b5e4e9e0f9d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/150/regulation/2/2/a)
 
-[^key-96cf863095f6757d18f0c6c02fd55741]: Textual amendment: Words in reg. 2 substituted (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2013/49/regulation/3/b)
+[^c-96cf863095f6757d18f0c6c02fd55741]: Textual amendment: Words in reg. 2 substituted (18.3.2013) by [The Council Tax Reduction (State Pension Credit) (Scotland) Amendment Regulations 2013 (S.S.I. 2013/49)](https://www.legislation.gov.uk/ssi/2013/49), [regs. 1](https://www.legislation.gov.uk/ssi/2013/49/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2013/49/regulation/3/b)
 
-[^key-2de93f5ec717e8ff4c690b8a83df0971]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) omitted (12.10.2022) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2022 (S.S.I. 2022/271)](https://www.legislation.gov.uk/ssi/2022/271), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/271/regulation/1/3), [5(1)](https://www.legislation.gov.uk/ssi/2022/271/regulation/5/1)
+[^c-2de93f5ec717e8ff4c690b8a83df0971]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) omitted (12.10.2022) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (No. 2) (Scotland) Regulations 2022 (S.S.I. 2022/271)](https://www.legislation.gov.uk/ssi/2022/271), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/271/regulation/1/3), [5(1)](https://www.legislation.gov.uk/ssi/2022/271/regulation/5/1)
 
-[^key-020eaf5f329f9501399a1768d06581b8]: Textual amendment: Words in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-020eaf5f329f9501399a1768d06581b8]: Textual amendment: Words in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-b6ef0321f8b4a3bd17e65a1cac732312]: Textual amendment: Words in reg. 2(1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/25/2/a)
+[^c-b6ef0321f8b4a3bd17e65a1cac732312]: Textual amendment: Words in reg. 2(1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [25(2)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/25/2/a)
 
-[^key-2e90c72f16b12594d54c1dffc944dd57]: Textual amendment: Word in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/c/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-2e90c72f16b12594d54c1dffc944dd57]: Textual amendment: Word in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(c)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/c/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
 [^c21458041]: Marginal citation: Sections 80A and 80B were inserted by section 1 of the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended, respectively, by paragraphs 35 and 36 of Schedule 1 to the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18). Sections 80AA and 80BB were inserted by sections 3 and 4 of the Work and Families Act 2006.
 
-[^key-866c7b4f29597de1c5efdf9af1830d73]: Textual amendment: Words in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/c/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-866c7b4f29597de1c5efdf9af1830d73]: Textual amendment: Words in reg. 2(1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/c/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-602eb171c753c18225e243995cf73e4e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2024/141/regulation/9/2) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
+[^c-602eb171c753c18225e243995cf73e4e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (21.10.2024) by [The Disability Assistance for Older People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2024 (S.S.I. 2024/141)](https://www.legislation.gov.uk/ssi/2024/141), [regs. 1](https://www.legislation.gov.uk/ssi/2024/141/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2024/141/regulation/9/2) (with [reg. 14](https://www.legislation.gov.uk/ssi/2024/141/regulation/14))
 
 [^c21458051]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -432,9 +432,9 @@ summary: ''
 
 [^c21458101]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Chapter 4 was repealed by Schedule 42 to the Finance Act 2004.
 
-[^key-0175c3f21a3423ba22a099f36081be33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/c)
+[^c-0175c3f21a3423ba22a099f36081be33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/c)
 
-[^key-ab381015b50aa28142135af3f8a15f65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [8](https://www.legislation.gov.uk/ssi/2020/413/regulation/8)
+[^c-ab381015b50aa28142135af3f8a15f65]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [8](https://www.legislation.gov.uk/ssi/2020/413/regulation/8)
 
 [^c21458121]: Marginal citation: Section 68 was repealed by Part 4 of Schedule 13 to the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) but continues to have effect by virtue of S.I. 2000/2958.
 
@@ -450,7 +450,7 @@ summary: ''
 
 [^c21458181]: Marginal citation: Section 3 was amended by paragraph 140 of Schedule 24 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
-[^key-1b50f7cb83fed8720bbd2bf528752945]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2024/311/regulation/14/2)
+[^c-1b50f7cb83fed8720bbd2bf528752945]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2024/311/regulation/14/2)
 
 [^c21458191]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Section 2B was inserted by section 7 of the [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7).
 
@@ -472,7 +472,7 @@ summary: ''
 
 [^c21458281]: Marginal citation: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17). Section 193 was amended by section 176(1) of, and paragraph 4 of Schedule 17 and Part 27 of Schedule 25 to, the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 196 was amended by section 26 of the [Local Democracy, Economic Development and Construction Act 2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20) and paragraph 55 of Schedule 19 and Part 26 of Schedule 25 to the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-2ee2a35b1c2bc5def12182c0570a7d8b]: Textual amendment: Words in reg. 2(1) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [24(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/d/i)
+[^c-2ee2a35b1c2bc5def12182c0570a7d8b]: Textual amendment: Words in reg. 2(1) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [24(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/d/i)
 
 [^c21458291]: Marginal citation: [1993 c.39](https://www.legislation.gov.uk/ukpga/1993/39). Section 23(2) was amended by S.I. 1996/3095, 1999/1563 and 2006/654.
 
@@ -480,13 +480,13 @@ summary: ''
 
 [^c21458311]: Marginal citation: Section 164 was amended by paragraph 12 of Schedule 1 to the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) and section 20 of, and paragraph 6 of Schedule 7 and Part 1 of Schedule 8 to, the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and moved under a new heading by paragraph 11 of Schedule 1 to the [Work and Families Act 2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
-[^key-3f2d474c348522b235c85f75823d6219]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/150/regulation/2/2/b)
+[^c-3f2d474c348522b235c85f75823d6219]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/150/regulation/2/2/b)
 
-[^key-483634e23cf208078c147cd713ddcb0b]: Textual amendment: Words in reg. 2(1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/25/2/b)
+[^c-483634e23cf208078c147cd713ddcb0b]: Textual amendment: Words in reg. 2(1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/25/2/b)
 
-[^key-e0b1d6d5d63c3e2247931fd086039943]: Textual amendment: Words in reg. 2(1) inserted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/d/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-e0b1d6d5d63c3e2247931fd086039943]: Textual amendment: Words in reg. 2(1) inserted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [24(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/d/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-33f894c1e9b70446bc3955d397266725]: Textual amendment: Words in reg. 2(1) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [24(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/d/iii)
+[^c-33f894c1e9b70446bc3955d397266725]: Textual amendment: Words in reg. 2(1) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [24(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/3255/article/24/2/d/iii)
 
 [^c21458321]: Marginal citation: Section 151 was amended by paragraph 34 of Schedule 1 to the [Social Security (Incapacity for Work) Act 1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18) and paragraph 9 of Schedule 1 to the [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
 
@@ -500,21 +500,21 @@ summary: ''
 
 [^c21458371]: Marginal citation: [S.S.I. 2007/153](https://www.legislation.gov.uk/ssi/2007/153).
 
-[^key-ba81bef576ff70a2071cd2373b943fcd]: Textual amendment: Words in reg. 2(1) inserted (1.4.2018) by [The Council Tax Reduction (Scotland) Amendment Regulations 2018 (S.S.I. 2018/69)](https://www.legislation.gov.uk/ssi/2018/69), [regs. 1](https://www.legislation.gov.uk/ssi/2018/69/regulation/1), [12](https://www.legislation.gov.uk/ssi/2018/69/regulation/12)
+[^c-ba81bef576ff70a2071cd2373b943fcd]: Textual amendment: Words in reg. 2(1) inserted (1.4.2018) by [The Council Tax Reduction (Scotland) Amendment Regulations 2018 (S.S.I. 2018/69)](https://www.legislation.gov.uk/ssi/2018/69), [regs. 1](https://www.legislation.gov.uk/ssi/2018/69/regulation/1), [12](https://www.legislation.gov.uk/ssi/2018/69/regulation/12)
 
 [^c21458381]: Marginal citation: Section 2 was substituted by section 25 of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19) and amended by section 29 of, and Schedule 7 to, the [Employment Act 1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38) and section 47 of the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19).
 
-[^key-1cd746b74a88dfb66bc24c26cf3ecaa4]: Textual amendment: Words in reg. 2(1) inserted (25.11.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2013 (S.S.I. 2013/287)](https://www.legislation.gov.uk/ssi/2013/287), [regs. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2013/287/regulation/13/b)
+[^c-1cd746b74a88dfb66bc24c26cf3ecaa4]: Textual amendment: Words in reg. 2(1) inserted (25.11.2013) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2013 (S.S.I. 2013/287)](https://www.legislation.gov.uk/ssi/2013/287), [regs. 1](https://www.legislation.gov.uk/ssi/2013/287/regulation/1), [13(b)](https://www.legislation.gov.uk/ssi/2013/287/regulation/13/b)
 
-[^key-34b5cffb451ababc2c9f9b724b52fd1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/d)
+[^c-34b5cffb451ababc2c9f9b724b52fd1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (5.11.2023) by [The Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2023 (S.S.I. 2023/268)](https://www.legislation.gov.uk/ssi/2023/268), [regs. 1](https://www.legislation.gov.uk/ssi/2023/268/regulation/1), [2(2)(d)](https://www.legislation.gov.uk/ssi/2023/268/regulation/2/2/d)
 
-[^key-c29a80d2eb9e018dfc8adc32a723c0b9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (1.4.2024) by [The Council Tax Reduction (Scotland) Amendment Regulations 2024 (S.S.I. 2024/35)](https://www.legislation.gov.uk/ssi/2024/35), [regs. 1](https://www.legislation.gov.uk/ssi/2024/35/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/35/regulation/3/a)
+[^c-c29a80d2eb9e018dfc8adc32a723c0b9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/319/regulation/2/1) inserted (1.4.2024) by [The Council Tax Reduction (Scotland) Amendment Regulations 2024 (S.S.I. 2024/35)](https://www.legislation.gov.uk/ssi/2024/35), [regs. 1](https://www.legislation.gov.uk/ssi/2024/35/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2024/35/regulation/3/a)
 
 [^c21458391]: Marginal citation: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Section 639(2) was inserted by section 19 of the [Finance Act 2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7).
 
-[^key-4a626bf8e1205b15b61a3b02f0be268e]: Textual amendment: Words in reg. 2 inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2017/326/regulation/10/b)
+[^c-4a626bf8e1205b15b61a3b02f0be268e]: Textual amendment: Words in reg. 2 inserted (20.11.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/326)](https://www.legislation.gov.uk/ssi/2017/326), [regs. 1](https://www.legislation.gov.uk/ssi/2017/326/regulation/1), [10(b)](https://www.legislation.gov.uk/ssi/2017/326/regulation/10/b)
 
-[^key-ab6c8e97a49613863a45425c2bdd3ff9]: Textual amendment: Words in reg. 2(1) inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(1)(c)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/1/c)
+[^c-ab6c8e97a49613863a45425c2bdd3ff9]: Textual amendment: Words in reg. 2(1) inserted (1.4.2016) by [The Council Tax Reduction (Scotland) Amendment Regulations 2016 (S.S.I. 2016/81)](https://www.legislation.gov.uk/ssi/2016/81), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/81/regulation/1/2), [17(1)(c)](https://www.legislation.gov.uk/ssi/2016/81/regulation/17/1/c)
 
 [^c21458401]: Marginal citation: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 

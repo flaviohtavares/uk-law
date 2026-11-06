@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 315. Removal notices: withdrawal or taking effect[^key-94339ee4956b7fc38136b31124fe65e3]
+## 315. Removal notices: withdrawal or taking effect[^c-94339ee4956b7fc38136b31124fe65e3]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94339ee4956b7fc38136b31124fe65e3]: Commencement: S. 315 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-94339ee4956b7fc38136b31124fe65e3]: Commencement: S. 315 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

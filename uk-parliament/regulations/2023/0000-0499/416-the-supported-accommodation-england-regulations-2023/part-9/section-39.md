@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Amendments to the Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) Regulations 2015[^key-6210452e9b4541ee33cf733060578daf]
+## 39. Amendments to the Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) Regulations 2015[^c-6210452e9b4541ee33cf733060578daf]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6210452e9b4541ee33cf733060578daf]: Commencement: Reg. 39 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-6210452e9b4541ee33cf733060578daf]: Commencement: Reg. 39 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00042]: Footnote: [S.I. 2015/551](https://www.legislation.gov.uk/uksi/2015/551); relevant amending instruments are [S.I. 2019/1094](https://www.legislation.gov.uk/uksi/2019/1094), [2022/196](https://www.legislation.gov.uk/uksi/2022/196), [2023/276](https://www.legislation.gov.uk/uksi/2023/276).

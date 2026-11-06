@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Scope of Part 7 of the Charities Act 2011[^key-ba60cc5b6c7111f1ed36084b864764c9][^key-b73958ae3f2d50ab8728d00badf0e1d4]
+## 17. Scope of Part 7 of the Charities Act 2011[^c-ba60cc5b6c7111f1ed36084b864764c9][^c-b73958ae3f2d50ab8728d00badf0e1d4]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In section 117 of the Charities Act 2011 (restrictions on dispositions of land: 
 
 ## Annotations
 
-[^key-ba60cc5b6c7111f1ed36084b864764c9]: Commencement: S. 17 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-ba60cc5b6c7111f1ed36084b864764c9]: Commencement: S. 17 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-b73958ae3f2d50ab8728d00badf0e1d4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/6/section/17) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/7)
+[^c-b73958ae3f2d50ab8728d00badf0e1d4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2022/6/section/17) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. First meeting[^key-7026a8235d5a4108455b6b1077956dc6]
+## 41. First meeting[^c-7026a8235d5a4108455b6b1077956dc6]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ and the date must be within three months of the date on which the full payment r
 
 ## Annotations
 
-[^key-7026a8235d5a4108455b6b1077956dc6]: Commencement: Rule 41 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-7026a8235d5a4108455b6b1077956dc6]: Commencement: Rule 41 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

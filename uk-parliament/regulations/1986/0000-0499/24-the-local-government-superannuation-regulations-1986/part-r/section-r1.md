@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R1. Information to be supplied by certain employees[^key-a90a948141267cfa3e2a0fd6e67843e3]
+## R1. Information to be supplied by certain employees[^c-a90a948141267cfa3e2a0fd6e67843e3]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ the body are to request the person in writing to provide them with the documents
 
 ## Annotations
 
-[^key-a90a948141267cfa3e2a0fd6e67843e3]: Commencement: [Reg. R1](https://www.legislation.gov.uk/uksi/1986/24/regulation/R1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a90a948141267cfa3e2a0fd6e67843e3]: Commencement: [Reg. R1](https://www.legislation.gov.uk/uksi/1986/24/regulation/R1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00084]: Footnote: [S.I. 1954/1192](https://www.legislation.gov.uk/uksi/1954/1192).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Statement of affairs dispensed with[^key-e02c1fe7b525ad20f676a6feddda99db]
+## 37. Statement of affairs dispensed with[^c-e02c1fe7b525ad20f676a6feddda99db]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.050 of the 1991 Rules.
 
 ## Annotations
 
-[^key-e02c1fe7b525ad20f676a6feddda99db]: Commencement: Rule 37 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-e02c1fe7b525ad20f676a6feddda99db]: Commencement: Rule 37 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

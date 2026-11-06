@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Establishment
 
-### 1. Scottish Biometrics Commissioner[^key-bd3fca2a37c39c1a55bf879a29a6915f]
+### 1. Scottish Biometrics Commissioner[^c-bd3fca2a37c39c1a55bf879a29a6915f]
 
 (1) The office of Scottish Biometrics Commissioner is established.
 
@@ -44,7 +44,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Functions
 
-### 2. Functions[^key-71a63349b0c80d88dd77b6766afdaef2]
+### 2. Functions[^c-71a63349b0c80d88dd77b6766afdaef2]
 
 (1) The Commissioner's general function is to support and promote the adoption of lawful, effective and ethical practices in relation to the acquisition, retention, use and destruction of biometric data for criminal justice and police purposes by—
 
@@ -79,7 +79,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**children and young persons**” means individuals under the age of 18 years,
 - “**vulnerable persons**” means individuals who, by reason of their personal circumstances or characteristics, may have difficulty understanding matters relating to the acquisition, retention, use and destruction of their biometric data by or on behalf of the persons referred to in subsection (1).
 
-### 3. Power to work with others[^key-01e841edbfd0c4038235838052632230]
+### 3. Power to work with others[^c-01e841edbfd0c4038235838052632230]
 
 The Commissioner may, in the exercise of the Commissioner's functions, work jointly with, assist or consult—
 
@@ -90,12 +90,12 @@ The Commissioner may, in the exercise of the Commissioner's functions, work join
 - (e) Her Majesty's Inspectors of Constabulary in Scotland,
 - (f) the Scottish Police Authority,
 - (g) the Police Investigations and Review Commissioner,
-- (h) the Information Commission[^key-a57701a56077ffeadfe1bfc24be96dc6],
+- (h) the Information Commission[^c-a57701a56077ffeadfe1bfc24be96dc6],
 - (i) the Commissioner for the Retention and Use of Biometric Material,
 - (j) the Scottish Human Rights Commission,
 - (k) such other persons as the Commissioner considers appropriate.
 
-### 4. General powers[^key-8e5c1cf8ca1060b2f6b656606ae248f9]
+### 4. General powers[^c-8e5c1cf8ca1060b2f6b656606ae248f9]
 
 (1) The Commissioner may do anything which appears to the Commissioner—
 
@@ -104,7 +104,7 @@ The Commissioner may, in the exercise of the Commissioner's functions, work join
 
 (2) Despite the generality of subsection (1), the Commissioner may pay fees and allowances to a person for advice, assistance or any other service only with the approval of the Parliamentary corporation.
 
-### 5. Duty to comply with directions[^key-3dbf34452d4f8a536580d615bbd0cba8]
+### 5. Duty to comply with directions[^c-3dbf34452d4f8a536580d615bbd0cba8]
 
 (1) The Commissioner must comply with any direction given to the Commissioner by the Parliamentary corporation in relation to—
 
@@ -117,7 +117,7 @@ The Commissioner may, in the exercise of the Commissioner's functions, work join
 
 (3) The Parliamentary corporation is to make any direction under this section publicly available.
 
-### 6. Report on the Commissioner's functions[^key-611c34b9dbc3ee3d3cee66c8b0d4ebda]
+### 6. Report on the Commissioner's functions[^c-611c34b9dbc3ee3d3cee66c8b0d4ebda]
 
 (1) The Scottish Ministers must, before the expiry of the period of 12 months beginning with the day after the last day of the period to which the Commissioner's first strategic plan relates—
 
@@ -147,7 +147,7 @@ The Commissioner may, in the exercise of the Commissioner's functions, work join
 
 ## Code of practice
 
-### 7. Code of practice[^key-a782fbc9d3ea7aa2d9706e17ca868a63]
+### 7. Code of practice[^c-a782fbc9d3ea7aa2d9706e17ca868a63]
 
 (1) In furtherance of the Commissioner's general function, the Commissioner must prepare, and may from time to time revise, a code of practice on the acquisition, retention, use and destruction of biometric data for criminal justice and police purposes.
 
@@ -165,7 +165,7 @@ The Commissioner may, in the exercise of the Commissioner's functions, work join
 - (b) section 56 of the Criminal Justice (Scotland) Act 2003,
 - (c) Chapter 4 of Part 4 of the Age of Criminal Responsibility (Scotland) Act 2019.
 
-### 8. Key considerations in preparing the code[^key-db8115974abec807608b86acae385b0f]
+### 8. Key considerations in preparing the code[^c-db8115974abec807608b86acae385b0f]
 
 In preparing a draft code of practice, the Commissioner must have regard to the importance of—
 
@@ -174,7 +174,7 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 - (c) promoting and protecting public confidence in the acquisition, retention, use and destruction of biometric data for criminal justice and police purposes, and
 - (d) ensuring the safety of individuals and communities.
 
-### 9. Effect of the code[^key-21533ecc17735abff41d9c780fbe8a36]
+### 9. Effect of the code[^c-21533ecc17735abff41d9c780fbe8a36]
 
 (1) The following persons must comply with the code of practice when exercising functions to which the code relates—
 
@@ -190,7 +190,7 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 
 (5) In this section, “**constable**” and “**police staff**” have the same meanings as in section 99(1) of the Police and Fire Reform (Scotland) Act 2012.
 
-### 10. Consultation on the code[^key-c12bb401af384fb86682b7f7d38afe4e]
+### 10. Consultation on the code[^c-c12bb401af384fb86682b7f7d38afe4e]
 
 (1) In preparing a draft code of practice, the Commissioner must consult—
 
@@ -203,14 +203,14 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 - (g) Her Majesty's Inspectors of Constabulary in Scotland,
 - (h) the Scottish Police Authority,
 - (i) the Police Investigations and Review Commissioner,
-- (j) the Information Commission[^key-ad4dd9edcb3ee99a7017e36fd57ab14a],
+- (j) the Information Commission[^c-ad4dd9edcb3ee99a7017e36fd57ab14a],
 - (k) the Scottish Human Rights Commission,
 - (l) the Commissioner for Children and Young People in Scotland, and
 - (m) such other persons as the Commissioner considers appropriate.
 
 (2) For the purpose of subsection (1), it is immaterial that anything done by way of consultation was done before this section comes into force.
 
-### 11. Further procedure in relation to the first code[^key-085d77affe6281ae5afda6b238b312d4]
+### 11. Further procedure in relation to the first code[^c-085d77affe6281ae5afda6b238b312d4]
 
 (1) Having prepared a draft of the first code of practice with which the Commissioner, with the consent of the Scottish Ministers, wishes to proceed, the Commissioner must lay a copy of it before the Scottish Parliament.
 
@@ -218,7 +218,7 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 
 (3) In calculating the period of 60 days for the purpose of subsection (2), no account is to be taken of any time during which the Parliament is dissolved or in recess for more than 4 days.
 
-### 12. Approval of the code[^key-c077fc6a04f3fc11dd13c2d537bbce53]
+### 12. Approval of the code[^c-c077fc6a04f3fc11dd13c2d537bbce53]
 
 (1) Once the Commissioner has finalised a draft code of practice, the Commissioner must submit it to the Scottish Ministers for approval.
 
@@ -229,7 +229,7 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 
 (3) If the Scottish Ministers do not approve a draft code of practice, they must give the Commissioner a statement of their reasons for not approving it.
 
-### 13. Bringing the code into effect[^key-d4034aa39bda24e0eccd1470b346214a]
+### 13. Bringing the code into effect[^c-d4034aa39bda24e0eccd1470b346214a]
 
 (1) A code of practice approved under section 12(2) has no effect until the day appointed for the code by regulations made by the Scottish Ministers.
 
@@ -237,7 +237,7 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 
 (3) The Commissioner must publish the approved code of practice as soon as reasonably practicable after the regulations are made.
 
-### 14. Report on the code[^key-12c32b1b5e954af6d37125a040839095]
+### 14. Report on the code[^c-12c32b1b5e954af6d37125a040839095]
 
 (1) The Commissioner must—
 
@@ -249,7 +249,7 @@ In preparing a draft code of practice, the Commissioner must have regard to the 
 
 (3) Subsequent reports prepared under subsection (1) must be laid before the Parliament no later than 4 years after the date on which the last such report was laid.
 
-### 15. Complaints about failures to comply with the code[^key-f46a7b2876a9305fee93f1695454f7e7]
+### 15. Complaints about failures to comply with the code[^c-f46a7b2876a9305fee93f1695454f7e7]
 
 (1) The Commissioner must provide for a procedure by which an individual, or someone acting on an individual's behalf, may make a complaint to the Commissioner that a person who is required by section 9(1) to comply with the code of practice has not done or is not doing so in relation to the individual's biometric data.
 
@@ -263,7 +263,7 @@ have been or are being pursued.
 (3) In determining the procedure, the Commissioner must consult—
 
 - (a) the Scottish Public Services Ombudsman,
-- (b) the Information Commission[^key-f40ef65ea9a937aea83ae1e51b50ae3b],
+- (b) the Information Commission[^c-f40ef65ea9a937aea83ae1e51b50ae3b],
 - (c) the persons about whom a complaint may be made, and
 - (d) such other persons as the Commissioner considers appropriate.
 
@@ -275,7 +275,7 @@ have been or are being pursued.
 
 ## Information-gathering
 
-### 16. Power to gather information[^key-1e35a460f010ec65fdd85156cc97e856]
+### 16. Power to gather information[^c-1e35a460f010ec65fdd85156cc97e856]
 
 (1) The Commissioner may require any person in relation to whom the Commissioner has functions under section 2(1) to supply information which the Commissioner reasonably requires for the purpose of—
 
@@ -296,7 +296,7 @@ have been or are being pursued.
 
 (5) In this section, “**information**” includes unrecorded information.
 
-### 17. Failure to comply with an information notice[^key-ab943f396135bcb931efd27067dbde22]
+### 17. Failure to comply with an information notice[^c-ab943f396135bcb931efd27067dbde22]
 
 (1) Where a person who is obliged to provide information in accordance with a notice issued under section 16—
 
@@ -313,11 +313,11 @@ the Commissioner may report the matter to the Court of Session.
 - (a) make such order for enforcement as it considers appropriate,
 - (b) deal with the matter as if it were a contempt of court.
 
-### 18. Admissibility of statements in criminal proceedings[^key-b475dc5e587befd418b84bfa5b040fd9]
+### 18. Admissibility of statements in criminal proceedings[^c-b475dc5e587befd418b84bfa5b040fd9]
 
 An oral or written statement made by a person which the person was required to give under section 16 is not admissible in any criminal proceedings against that person.
 
-### 19. Offence of Commissioner's office disclosing confidential information[^key-9b1dcefc720230fb6e5d5d78991a7271]
+### 19. Offence of Commissioner's office disclosing confidential information[^c-9b1dcefc720230fb6e5d5d78991a7271]
 
 (1) A person mentioned in subsection (2) commits an offence if—
 
@@ -345,7 +345,7 @@ An oral or written statement made by a person which the person was required to g
 
 ## Reporting
 
-### 20. Reports and recommendations[^key-cf4209cba0d3301f0a13e36707804320]
+### 20. Reports and recommendations[^c-cf4209cba0d3301f0a13e36707804320]
 
 (1) If the Commissioner determines that a person who is required by section 9(1) to comply with the code of practice has not done or is not doing so, the Commissioner must prepare and publish a report about that failure unless the Commissioner considers that it is sufficiently minor not to merit it.
 
@@ -367,7 +367,7 @@ An oral or written statement made by a person which the person was required to g
 - (b) would or might prejudice the administration of justice, or
 - (c) would not be in the public interest.
 
-### 21. Requirement to respond to reports[^key-9f8fe9bac00b600b8f653fcf11b1227a]
+### 21. Requirement to respond to reports[^c-9f8fe9bac00b600b8f653fcf11b1227a]
 
 (1) Where a report under section 20(1) or (2) includes a recommendation—
 
@@ -393,7 +393,7 @@ the Commissioner may, in the report, impose on the person a requirement to respo
 - (a) what the person has done or proposes to do in response to the recommendation, or
 - (b) if the person does not intend to implement the recommendation (in full or in part), the reasons for that.
 
-### 22. Publication of responses to reports[^key-4fe93f419cc1c4e52be9ec5b512d6c3d]
+### 22. Publication of responses to reports[^c-4fe93f419cc1c4e52be9ec5b512d6c3d]
 
 (1) The Commissioner must—
 
@@ -408,13 +408,13 @@ the Commissioner may, in the report, impose on the person a requirement to respo
 
 ## Compliance notices
 
-### 23. Compliance notices[^key-41275cd288ecbaee0bccb309ee87effb]
+### 23. Compliance notices[^c-41275cd288ecbaee0bccb309ee87effb]
 
 (1) Where the Commissioner considers that a person who is required by section 9(1) to comply with the code of practice has not done or is not doing so, the Commissioner may issue a compliance notice to the person.
 
 (2) A “compliance notice” is a notice requiring the person to whom it is issued to take the steps set out in the notice in order to address the person's failure to comply with the code of practice.
 
-### 24. Content of a compliance notice[^key-0cce43c98034d0362f52a2c337898083]
+### 24. Content of a compliance notice[^c-0cce43c98034d0362f52a2c337898083]
 
 A compliance notice must include—
 
@@ -429,7 +429,7 @@ A compliance notice must include—
 - (e) information about the person to whom, and as to how and by when, any representations about the notice may be made,
 - (f) an explanation of the consequences of failure to comply with the requirements of the notice.
 
-### 25. Variation of a compliance notice[^key-7fb399297a054fbf53adb2823b3ce622]
+### 25. Variation of a compliance notice[^c-7fb399297a054fbf53adb2823b3ce622]
 
 (1) The Commissioner may vary a compliance notice—
 
@@ -443,7 +443,7 @@ A compliance notice must include—
 - (a) in the case of a variation under subsection (1)(a), issuing a notice in writing to the person to whom the compliance notice was issued,
 - (b) in the case of a variation under subsection (1)(b), agreement in writing between the Commissioner and the person to whom the compliance notice was issued.
 
-### 26. Revocation of a compliance notice[^key-1653281cc79d3b97db0a0c3a008cb1f0]
+### 26. Revocation of a compliance notice[^c-1653281cc79d3b97db0a0c3a008cb1f0]
 
 (1) The Commissioner may revoke a compliance notice.
 
@@ -452,7 +452,7 @@ A compliance notice must include—
 - (a) at any time before completion of the steps that are to be taken to comply with it,
 - (b) by issuing a notice in writing to that effect to the person to whom the compliance notice was issued.
 
-### 27. Failure to comply with a compliance notice[^key-1a5e5e5b50908fbf23a0ddd19adaac7c]
+### 27. Failure to comply with a compliance notice[^c-1a5e5e5b50908fbf23a0ddd19adaac7c]
 
 (1) Where a person to whom a compliance notice has been issued refuses or fails, without reasonable excuse, to comply with the notice, the Commissioner may report the matter to the Court of Session.
 
@@ -463,7 +463,7 @@ A compliance notice must include—
 
 ## Accountability
 
-### 28. Strategic plans[^key-dcb4f12a60f3421d6dc8d95ea7a13582]
+### 28. Strategic plans[^c-dcb4f12a60f3421d6dc8d95ea7a13582]
 
 (1) The Commissioner must, in respect of each 4 year period—
 
@@ -491,10 +491,10 @@ A compliance notice must include—
 
 (6) In this section, “**4 year period**” means—
 
-- (a) the period of 4 years beginning with 1 December 2021[^key-1da6005b698593d7d1f27c779b04e0fa], and
+- (a) the period of 4 years beginning with 1 December 2021[^c-1da6005b698593d7d1f27c779b04e0fa], and
 - (b) each subsequent period of 4 years.
 
-### 29. Budgets[^key-1b35866676f7f7e636ea6f33b9f1b843]
+### 29. Budgets[^c-1b35866676f7f7e636ea6f33b9f1b843]
 
 (1) The Commissioner must, before the start of each financial year—
 
@@ -507,7 +507,7 @@ A compliance notice must include—
 
 (4) A budget or revised budget must contain a statement confirming that the Commissioner has complied with the duty under subsection (3).
 
-### 30. Accountable officer[^key-31009b8014b57ce6f79b6d388c05dc61]
+### 30. Accountable officer[^c-31009b8014b57ce6f79b6d388c05dc61]
 
 (1) The Parliamentary corporation must designate the Commissioner or a member of the Commissioner's staff as the accountable officer for the purposes of this section.
 
@@ -525,7 +525,7 @@ A compliance notice must include—
 
 (4) The accountable officer is answerable to the Scottish Parliament for the performance of the functions in subsection (2).
 
-### 31. Accounts and audit[^key-b423f8446b669a450fa87a782ad77a63]
+### 31. Accounts and audit[^c-b423f8446b669a450fa87a782ad77a63]
 
 (1) The Commissioner must—
 
@@ -537,7 +537,7 @@ A compliance notice must include—
 
 (3) The Commissioner must make the audited statement of accounts available, without charge, for inspection at all reasonable times.
 
-### 32. Annual report[^key-6ec5eb92fad592d3a5a54de08d2bade1]
+### 32. Annual report[^c-6ec5eb92fad592d3a5a54de08d2bade1]
 
 (1) The Commissioner must, in respect of each financial year—
 
@@ -552,7 +552,7 @@ A compliance notice must include—
 
 ## Advisory group
 
-### 33. Advisory group[^key-f729b9e2e53395a2d02cec9467037f5d]
+### 33. Advisory group[^c-f729b9e2e53395a2d02cec9467037f5d]
 
 (1) The Commissioner must establish and maintain an advisory group.
 
@@ -569,7 +569,7 @@ A compliance notice must include—
 
 ## Meaning of key terms
 
-### 34. Meaning of “biometric data”[^key-a87042fc492be9a6cce740724eb2427c]
+### 34. Meaning of “biometric data”[^c-a87042fc492be9a6cce740724eb2427c]
 
 (1) In this Act, “**biometric data**” means information about an individual's physical, biological, physiological or behavioural characteristics which is capable of being used, on its own or in combination with other information (whether or not biometric data), to establish the identity of an individual.
 
@@ -580,11 +580,11 @@ A compliance notice must include—
 - (c) samples of or taken from any part of an individual's body from which information can be derived, and
 - (d) information derived from such samples.
 
-### 35. Power to change meaning of “biometric data”[^key-f2483b6e04c137218edfdc70181d5588]
+### 35. Power to change meaning of “biometric data”[^c-f2483b6e04c137218edfdc70181d5588]
 
 The Scottish Ministers may by regulations modify section 34 so as to change, or clarify, the meaning of “biometric data” in this Act.
 
-### 36. Interpretation[^key-247e7d89186c3b2acbe36f040593d77f]
+### 36. Interpretation[^c-247e7d89186c3b2acbe36f040593d77f]
 
 In this Act, except where the context requires otherwise—
 
@@ -616,7 +616,7 @@ In this Act, except where the context requires otherwise—
 
 (2) Regulations under subsection (1) may modify any enactment (including this Act).
 
-### 39. Application of public authorities legislation[^key-5e534bb3ecd936f410c2893f91ae90ce]
+### 39. Application of public authorities legislation[^c-5e534bb3ecd936f410c2893f91ae90ce]
 
 Schedule 2 amends other Acts so that their provisions apply to the office of Commissioner.
 
@@ -643,7 +643,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Status
 
-**1.**[^key-236a606eace75f02cb2685fe1454fb72] (1) The Commissioner—
+**1.**[^c-236a606eace75f02cb2685fe1454fb72] (1) The Commissioner—
 
 - (a) is not a servant or agent of the Crown, and
 - (b) does not enjoy any status, immunity or privilege of the Crown.
@@ -654,7 +654,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Appointment
 
-**2.**[^key-0633a5a33e53102308a0fddeab75d0cb] (1) The office of Commissioner is to be held by an individual appointed by Her Majesty on the nomination of the Scottish Parliament.
+**2.**[^c-0633a5a33e53102308a0fddeab75d0cb] (1) The office of Commissioner is to be held by an individual appointed by Her Majesty on the nomination of the Scottish Parliament.
 
 (2) An individual may not be appointed to hold the office of Commissioner if the individual is disqualified under paragraph 3.
 
@@ -662,7 +662,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Disqualification from appointment
 
-**3.**[^key-487ec597c57da1cacdd9d472c741f835] An individual is disqualified from holding the office of Commissioner if the individual is or, within the year preceding the date on which the appointment is to take effect, has been—
+**3.**[^c-487ec597c57da1cacdd9d472c741f835] An individual is disqualified from holding the office of Commissioner if the individual is or, within the year preceding the date on which the appointment is to take effect, has been—
 
 - (a) a member of the Scottish Parliament,
 - (b) a member of the House of Commons,
@@ -672,11 +672,11 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Tenure
 
-**4.**[^key-f21e58236f5f3d904184f05fdac5358f] Subject to paragraph 5, the Commissioner holds office for such period, not exceeding 8 years, as the Parliamentary corporation determines at the time of appointment.
+**4.**[^c-f21e58236f5f3d904184f05fdac5358f] Subject to paragraph 5, the Commissioner holds office for such period, not exceeding 8 years, as the Parliamentary corporation determines at the time of appointment.
 
 ### Early termination
 
-**5.**[^key-f4d735c2b4d9266f342ccb2eda94099e] (1) The Commissioner's appointment ends if—
+**5.**[^c-f4d735c2b4d9266f342ccb2eda94099e] (1) The Commissioner's appointment ends if—
 
 - (a) the Commissioner is relieved of office by Her Majesty at the Commissioner's request,
 - (b) the Commissioner becomes disqualified from holding office (see paragraph 3), or
@@ -696,14 +696,14 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Validity of things done
 
-**6.**[^key-373e8cb7ad55429c2154b89a483b8b01] The validity of anything done by the Commissioner is not affected by—
+**6.**[^c-373e8cb7ad55429c2154b89a483b8b01] The validity of anything done by the Commissioner is not affected by—
 
 - (a) a defect in the nomination of the Commissioner,
 - (b) the disqualification of an individual as the Commissioner after appointment.
 
 ### Remuneration and pensions, etc.
 
-**7.**[^key-993f6805041233b32a94b59befeafe2a] (1) The Parliamentary corporation may pay the Commissioner such remuneration and allowances (including expenses) as the Parliamentary corporation determines.
+**7.**[^c-993f6805041233b32a94b59befeafe2a] (1) The Parliamentary corporation may pay the Commissioner such remuneration and allowances (including expenses) as the Parliamentary corporation determines.
 
 (2) The Parliamentary corporation must indemnify the Commissioner in respect of any liabilities incurred by the Commissioner in the exercise of the Commissioner's functions.
 
@@ -718,7 +718,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Subsequent appointments etc.
 
-**8.**[^key-6443fcc6228b45faf176ddd51aad4068] (1) A person who has ceased to be the Commissioner may not, without the approval of the Parliamentary corporation—
+**8.**[^c-6443fcc6228b45faf176ddd51aad4068] (1) A person who has ceased to be the Commissioner may not, without the approval of the Parliamentary corporation—
 
 - (a) be employed or appointed in any other capacity by the Commissioner,
 - (b) be a person who is, or who is a member, employee or appointee of, a person in relation to whom the Commissioner has functions under section 2(1),
@@ -731,7 +731,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Other terms and conditions
 
-**9.**[^key-ed75e0842f65f131a5a68f5cea9a3f61] (1) The Parliamentary corporation may, subject to any provision made by this Act, determine the terms and conditions on which the Commissioner is appointed.
+**9.**[^c-ed75e0842f65f131a5a68f5cea9a3f61] (1) The Parliamentary corporation may, subject to any provision made by this Act, determine the terms and conditions on which the Commissioner is appointed.
 
 (2) Those terms and conditions may—
 
@@ -742,7 +742,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Temporary appointments
 
-**10.**[^key-db7733d7c3a725a0e0aa291493084087] (1) This paragraph applies during any period when—
+**10.**[^c-db7733d7c3a725a0e0aa291493084087] (1) This paragraph applies during any period when—
 
 - (a) the office of Commissioner is vacant, or
 - (b) the individual holding the office is for any reason unable to perform the Commissioner's functions.
@@ -766,15 +766,15 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Appointment of staff
 
-**11.**[^key-79afee8db121a0f2aa3d5884685e0045] The Commissioner may, with the consent of the Parliamentary corporation as to numbers, appoint staff.
+**11.**[^c-79afee8db121a0f2aa3d5884685e0045] The Commissioner may, with the consent of the Parliamentary corporation as to numbers, appoint staff.
 
 ### Staff terms and conditions
 
-**12.**[^key-e7186d0f18515167c0527c660e6b0b0a] Staff appointed by the Commissioner are appointed on such terms and conditions as the Commissioner, with the approval of the Parliamentary corporation, determines.
+**12.**[^c-e7186d0f18515167c0527c660e6b0b0a] Staff appointed by the Commissioner are appointed on such terms and conditions as the Commissioner, with the approval of the Parliamentary corporation, determines.
 
 ### Staff pensions
 
-**13.**[^key-d95a6f65fb01791af14587b71aaaf89e] (1) The Commissioner may, with the approval of the Parliamentary corporation, pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any individual who is or has been a member of staff of the Commissioner.
+**13.**[^c-d95a6f65fb01791af14587b71aaaf89e] (1) The Commissioner may, with the approval of the Parliamentary corporation, pay or make arrangements for the payment of pensions, allowances and gratuities to, or in respect of, any individual who is or has been a member of staff of the Commissioner.
 
 (2) Those arrangements may include—
 
@@ -785,7 +785,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Authority to perform functions
 
-**14.**[^key-5bf92bad354f6afb22d77e36d1203488] (1) The Commissioner may authorise any person to perform such of the Commissioner's functions (and to such extent) as the Commissioner determines.
+**14.**[^c-5bf92bad354f6afb22d77e36d1203488] (1) The Commissioner may authorise any person to perform such of the Commissioner's functions (and to such extent) as the Commissioner determines.
 
 (2) The giving of authority under sub-paragraph (1) does not—
 
@@ -798,7 +798,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Scottish Public Services Ombudsman Act 2002
 
-**1.**[^key-e91f4bac5d31b6b30af3177d21d33547] In Part 2 of schedule 2 of the Scottish Public Services Ombudsman Act 2002 (Scottish public authorities liable to investigation), before paragraph 37 insert—
+**1.**[^c-e91f4bac5d31b6b30af3177d21d33547] In Part 2 of schedule 2 of the Scottish Public Services Ombudsman Act 2002 (Scottish public authorities liable to investigation), before paragraph 37 insert—
 
 > **36A.** The Scottish Biometrics Commissioner.
 
@@ -806,7 +806,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Freedom of Information (Scotland) Act 2002
 
-**2.**[^key-d1fe431f13c87655244bd63580207337] In Part 7 of schedule 1 of the Freedom of Information (Scotland) Act 2002 (other Scottish public authorities to which the Act applies), after paragraph 79A insert—
+**2.**[^c-d1fe431f13c87655244bd63580207337] In Part 7 of schedule 1 of the Freedom of Information (Scotland) Act 2002 (other Scottish public authorities to which the Act applies), after paragraph 79A insert—
 
 > **79B.** The Scottish Biometrics Commissioner.
 
@@ -814,7 +814,7 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Public Services Reform (Scotland) Act 2010
 
-**3.**[^key-687e66d7362741a4ba11dffeaaae89fa] In the Public Services Reform (Scotland) Act 2010—
+**3.**[^c-687e66d7362741a4ba11dffeaaae89fa] In the Public Services Reform (Scotland) Act 2010—
 
 - (a) in schedule 5 (Scottish public authorities with mixed or no reserved functions to which Part 2 order-making powers apply), after the entry relating to the Scottish Agricultural Wages Board insert— “ Scottish Biometrics Commissioner ”,
 - (b) in schedule 6 (bodies for which request and consent required for use of Part 2 order-making powers), after the entry relating to the Commissioner for Children and Young People in Scotland insert— “ Scottish Biometrics Commissioner ”,
@@ -822,11 +822,11 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ### Public Records (Scotland) Act 2011
 
-**4.**[^key-ffdd706cc0f512d7b667e80d29772395] In the schedule of the Public Records (Scotland) Act 2011 (other authorities to which Part 1 applies), after the entry relating to the Scottish Agricultural Wages Board insert— “ Scottish Biometrics Commissioner ”.
+**4.**[^c-ffdd706cc0f512d7b667e80d29772395] In the schedule of the Public Records (Scotland) Act 2011 (other authorities to which Part 1 applies), after the entry relating to the Scottish Agricultural Wages Board insert— “ Scottish Biometrics Commissioner ”.
 
 ### Procurement Reform (Scotland) Act 2014
 
-**5.**[^key-d5c96e14b38f78959d09ba16f72f8dec] In Part 3 of the schedule of the Procurement Reform (Scotland) Act 2014 (other contracting authorities to which the Act applies), before paragraph 44 insert—
+**5.**[^c-d5c96e14b38f78959d09ba16f72f8dec] In Part 3 of the schedule of the Procurement Reform (Scotland) Act 2014 (other contracting authorities to which the Act applies), before paragraph 44 insert—
 
 > **43A.** Scottish Biometrics Commissioner
 
@@ -834,122 +834,122 @@ The short title of this Act is the Scottish Biometrics Commissioner Act 2020.
 
 ## Annotations
 
-[^key-bd3fca2a37c39c1a55bf879a29a6915f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/8/section/1) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-bd3fca2a37c39c1a55bf879a29a6915f]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/8/section/1) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-71a63349b0c80d88dd77b6766afdaef2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/8/section/2) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-71a63349b0c80d88dd77b6766afdaef2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/8/section/2) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-01e841edbfd0c4038235838052632230]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/8/section/3) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-01e841edbfd0c4038235838052632230]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/8/section/3) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-a57701a56077ffeadfe1bfc24be96dc6]: Textual amendment: Words in [s. 3(h)](https://www.legislation.gov.uk/asp/2020/8/section/3/h) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/1), [(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-a57701a56077ffeadfe1bfc24be96dc6]: Textual amendment: Words in [s. 3(h)](https://www.legislation.gov.uk/asp/2020/8/section/3/h) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/1), [(2)(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/2/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-8e5c1cf8ca1060b2f6b656606ae248f9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/8/section/4) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-8e5c1cf8ca1060b2f6b656606ae248f9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/8/section/4) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-3dbf34452d4f8a536580d615bbd0cba8]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/8/section/5) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-3dbf34452d4f8a536580d615bbd0cba8]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/8/section/5) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-611c34b9dbc3ee3d3cee66c8b0d4ebda]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/8/section/6) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-611c34b9dbc3ee3d3cee66c8b0d4ebda]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/8/section/6) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-a782fbc9d3ea7aa2d9706e17ca868a63]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/8/section/7) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-a782fbc9d3ea7aa2d9706e17ca868a63]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/8/section/7) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-db8115974abec807608b86acae385b0f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/8/section/8) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-db8115974abec807608b86acae385b0f]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/8/section/8) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-21533ecc17735abff41d9c780fbe8a36]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/8/section/9) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-21533ecc17735abff41d9c780fbe8a36]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/8/section/9) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-c12bb401af384fb86682b7f7d38afe4e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/8/section/10) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-c12bb401af384fb86682b7f7d38afe4e]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/8/section/10) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-ad4dd9edcb3ee99a7017e36fd57ab14a]: Textual amendment: Words in [s. 10(1)(j)](https://www.legislation.gov.uk/asp/2020/8/section/10/1/j) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/1), [(2)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/2/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ad4dd9edcb3ee99a7017e36fd57ab14a]: Textual amendment: Words in [s. 10(1)(j)](https://www.legislation.gov.uk/asp/2020/8/section/10/1/j) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/1), [(2)(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/2/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-085d77affe6281ae5afda6b238b312d4]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/8/section/11) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-085d77affe6281ae5afda6b238b312d4]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/8/section/11) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-c077fc6a04f3fc11dd13c2d537bbce53]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/8/section/12) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-c077fc6a04f3fc11dd13c2d537bbce53]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/8/section/12) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-d4034aa39bda24e0eccd1470b346214a]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/8/section/13) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-d4034aa39bda24e0eccd1470b346214a]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/8/section/13) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-12c32b1b5e954af6d37125a040839095]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/8/section/14) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-12c32b1b5e954af6d37125a040839095]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/8/section/14) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-f46a7b2876a9305fee93f1695454f7e7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/8/section/15) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-f46a7b2876a9305fee93f1695454f7e7]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/8/section/15) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-f40ef65ea9a937aea83ae1e51b50ae3b]: Textual amendment: Words in [s. 15(3)(b)](https://www.legislation.gov.uk/asp/2020/8/section/15/3/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/1), [(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-f40ef65ea9a937aea83ae1e51b50ae3b]: Textual amendment: Words in [s. 15(3)(b)](https://www.legislation.gov.uk/asp/2020/8/section/15/3/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 32(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/1), [(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/32/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-1e35a460f010ec65fdd85156cc97e856]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/8/section/16) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-1e35a460f010ec65fdd85156cc97e856]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/8/section/16) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-ab943f396135bcb931efd27067dbde22]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/8/section/17) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-ab943f396135bcb931efd27067dbde22]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/8/section/17) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-b475dc5e587befd418b84bfa5b040fd9]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/8/section/18) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-b475dc5e587befd418b84bfa5b040fd9]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/8/section/18) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-9b1dcefc720230fb6e5d5d78991a7271]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/8/section/19) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-9b1dcefc720230fb6e5d5d78991a7271]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/8/section/19) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-cf4209cba0d3301f0a13e36707804320]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/8/section/20) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-cf4209cba0d3301f0a13e36707804320]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/8/section/20) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-9f8fe9bac00b600b8f653fcf11b1227a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/8/section/21) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-9f8fe9bac00b600b8f653fcf11b1227a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2020/8/section/21) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-4fe93f419cc1c4e52be9ec5b512d6c3d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/8/section/22) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-4fe93f419cc1c4e52be9ec5b512d6c3d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2020/8/section/22) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-41275cd288ecbaee0bccb309ee87effb]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/8/section/23) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-41275cd288ecbaee0bccb309ee87effb]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2020/8/section/23) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-0cce43c98034d0362f52a2c337898083]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/8/section/24) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-0cce43c98034d0362f52a2c337898083]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2020/8/section/24) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-7fb399297a054fbf53adb2823b3ce622]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/8/section/25) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-7fb399297a054fbf53adb2823b3ce622]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2020/8/section/25) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-1653281cc79d3b97db0a0c3a008cb1f0]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/8/section/26) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-1653281cc79d3b97db0a0c3a008cb1f0]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/8/section/26) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-1a5e5e5b50908fbf23a0ddd19adaac7c]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/8/section/27) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-1a5e5e5b50908fbf23a0ddd19adaac7c]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2020/8/section/27) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-dcb4f12a60f3421d6dc8d95ea7a13582]: Commencement: S. 28 in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-dcb4f12a60f3421d6dc8d95ea7a13582]: Commencement: S. 28 in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-1da6005b698593d7d1f27c779b04e0fa]: Textual amendment: Words in s. 28(6)(a) substituted (1.12.2020) by [The Scottish Biometrics Commissioner Act 2020 (Commencement) Regulations 2020 (S.S.I. 2020/250)](https://www.legislation.gov.uk/ssi/2020/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/250/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2020/250/regulation/3)
+[^c-1da6005b698593d7d1f27c779b04e0fa]: Textual amendment: Words in s. 28(6)(a) substituted (1.12.2020) by [The Scottish Biometrics Commissioner Act 2020 (Commencement) Regulations 2020 (S.S.I. 2020/250)](https://www.legislation.gov.uk/ssi/2020/250), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/250/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2020/250/regulation/3)
 
-[^key-1b35866676f7f7e636ea6f33b9f1b843]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/8/section/29) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-1b35866676f7f7e636ea6f33b9f1b843]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2020/8/section/29) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-31009b8014b57ce6f79b6d388c05dc61]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2020/8/section/30) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-31009b8014b57ce6f79b6d388c05dc61]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2020/8/section/30) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-b423f8446b669a450fa87a782ad77a63]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2020/8/section/31) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-b423f8446b669a450fa87a782ad77a63]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2020/8/section/31) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-6ec5eb92fad592d3a5a54de08d2bade1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/8/section/32) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-6ec5eb92fad592d3a5a54de08d2bade1]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2020/8/section/32) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-f729b9e2e53395a2d02cec9467037f5d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/8/section/33) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-f729b9e2e53395a2d02cec9467037f5d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2020/8/section/33) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-a87042fc492be9a6cce740724eb2427c]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2020/8/section/34) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-a87042fc492be9a6cce740724eb2427c]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2020/8/section/34) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-f2483b6e04c137218edfdc70181d5588]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2020/8/section/35) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-f2483b6e04c137218edfdc70181d5588]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2020/8/section/35) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-247e7d89186c3b2acbe36f040593d77f]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2020/8/section/36) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-247e7d89186c3b2acbe36f040593d77f]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2020/8/section/36) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-5e534bb3ecd936f410c2893f91ae90ce]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2020/8/section/39) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-5e534bb3ecd936f410c2893f91ae90ce]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2020/8/section/39) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-236a606eace75f02cb2685fe1454fb72]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/1) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-236a606eace75f02cb2685fe1454fb72]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/1) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-0633a5a33e53102308a0fddeab75d0cb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/2) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-0633a5a33e53102308a0fddeab75d0cb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/2) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-487ec597c57da1cacdd9d472c741f835]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/3) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-487ec597c57da1cacdd9d472c741f835]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/3) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-f21e58236f5f3d904184f05fdac5358f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/4) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-f21e58236f5f3d904184f05fdac5358f]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/4) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-f4d735c2b4d9266f342ccb2eda94099e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/5) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-f4d735c2b4d9266f342ccb2eda94099e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/5) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-373e8cb7ad55429c2154b89a483b8b01]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/6) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-373e8cb7ad55429c2154b89a483b8b01]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/6) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-993f6805041233b32a94b59befeafe2a]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/7) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-993f6805041233b32a94b59befeafe2a]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/7) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-6443fcc6228b45faf176ddd51aad4068]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/8) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-6443fcc6228b45faf176ddd51aad4068]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/8) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-ed75e0842f65f131a5a68f5cea9a3f61]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/9) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-ed75e0842f65f131a5a68f5cea9a3f61]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/9) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-db7733d7c3a725a0e0aa291493084087]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/10) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-db7733d7c3a725a0e0aa291493084087]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/10) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-79afee8db121a0f2aa3d5884685e0045]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/11) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-79afee8db121a0f2aa3d5884685e0045]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/11) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-e7186d0f18515167c0527c660e6b0b0a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/12) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-e7186d0f18515167c0527c660e6b0b0a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/12) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-d95a6f65fb01791af14587b71aaaf89e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/13) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-d95a6f65fb01791af14587b71aaaf89e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/13) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-5bf92bad354f6afb22d77e36d1203488]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/14) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-5bf92bad354f6afb22d77e36d1203488]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2020/8/schedule/1/paragraph/14) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-e91f4bac5d31b6b30af3177d21d33547]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/1) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-e91f4bac5d31b6b30af3177d21d33547]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/1) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-d1fe431f13c87655244bd63580207337]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/2) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-d1fe431f13c87655244bd63580207337]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/2) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-687e66d7362741a4ba11dffeaaae89fa]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/3) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-687e66d7362741a4ba11dffeaaae89fa]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/3) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-ffdd706cc0f512d7b667e80d29772395]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/4) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-ffdd706cc0f512d7b667e80d29772395]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/4) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
 
-[^key-d5c96e14b38f78959d09ba16f72f8dec]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/5) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)
+[^c-d5c96e14b38f78959d09ba16f72f8dec]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2020/8/schedule/2/paragraph/5) in force at 1.12.2020 by [S.S.I. 2020/250](https://www.legislation.gov.uk/ssi/2020/250), [reg. 2](https://www.legislation.gov.uk/ssi/2020/250/regulation/2)

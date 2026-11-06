@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122.[^key-5225de82dfb71824465235173a79cc39]
+## 122.[^c-5225de82dfb71824465235173a79cc39]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 288 (interpretation) —
 
 ## Annotations
 
-[^key-5225de82dfb71824465235173a79cc39]: Commencement: Reg. 122 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-5225de82dfb71824465235173a79cc39]: Commencement: Reg. 122 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

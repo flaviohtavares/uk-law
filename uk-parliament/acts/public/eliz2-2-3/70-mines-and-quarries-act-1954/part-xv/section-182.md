@@ -69,7 +69,7 @@ summary: ''
 
 (2)[^c651269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0826dcea952ed0fe2a790468294b19e4] For the purposes of this Act—
+(3)[^c-0826dcea952ed0fe2a790468294b19e4] For the purposes of this Act—
 
 - (a)[^c651270] A mine shall be treated as being worked at any time when there are persons at work below ground or plant or equipment is in operation at the mine to maintain the safety of that mine or of any other mine or the operation of driving a shaft or outlet is being undertaken at the mine.
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -107,7 +107,7 @@ summary: ''
 
 [^c651269]: Textual amendment: S. 182(2) repealed (1.10.1993) by [S.I. 1993/1897](https://www.legislation.gov.uk/uksi/1993/1897), [reg. 41(1)](https://www.legislation.gov.uk/uksi/1993/1897/regulation/41/1), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/1993/1897/schedule/3/part/I).
 
-[^key-0826dcea952ed0fe2a790468294b19e4]: Modification: S. 182(3) modified (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-0826dcea952ed0fe2a790468294b19e4]: Modification: S. 182(3) modified (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c651270]: Textual amendment: S. 182(3)(a) substituted (1.10.1993) by [S.I. 1993/1897](https://www.legislation.gov.uk/uksi/1993/1897), [reg. 41(2)](https://www.legislation.gov.uk/uksi/1993/1897/regulation/41/2), [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/1993/1897/schedule/3/part/II).
 

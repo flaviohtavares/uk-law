@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. NHS and other health appointments: suspension[^key-45023540461f493aecabbac0548c60bc][^key-29dfb203291ae524a35b243c7196d41a]
+## 19. NHS and other health appointments: suspension[^c-45023540461f493aecabbac0548c60bc][^c-29dfb203291ae524a35b243c7196d41a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 (which amends enactments to provide for powers of suspension in relat
 
 ## Annotations
 
-[^key-45023540461f493aecabbac0548c60bc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/21/section/19) in force at 19.1.2010 for specified purposes by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/30/article/2/f)
+[^c-45023540461f493aecabbac0548c60bc]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/21/section/19) in force at 19.1.2010 for specified purposes by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/30/article/2/f)
 
-[^key-29dfb203291ae524a35b243c7196d41a]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/21/section/19) in force at 1.4.2010 for specified purposes by [S.I. 2010/930](https://www.legislation.gov.uk/wsi/2010/930), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/930/article/2/c)
+[^c-29dfb203291ae524a35b243c7196d41a]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/21/section/19) in force at 1.4.2010 for specified purposes by [S.I. 2010/930](https://www.legislation.gov.uk/wsi/2010/930), [art. 2(c)](https://www.legislation.gov.uk/wsi/2010/930/article/2/c)

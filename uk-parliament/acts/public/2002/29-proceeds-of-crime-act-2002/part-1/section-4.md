@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Co-operation[^key-79a87f324c360e958561bc0ebfaab866]
+## 4. Co-operation[^c-79a87f324c360e958561bc0ebfaab866]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79a87f324c360e958561bc0ebfaab866]: Textual amendment: S. 4 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 125](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/125), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-79a87f324c360e958561bc0ebfaab866]: Textual amendment: S. 4 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 125](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/125), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))

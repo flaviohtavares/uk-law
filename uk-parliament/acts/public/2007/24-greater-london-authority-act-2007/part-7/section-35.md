@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Representation hearings[^key-6f41c092264a48ee6cd715ccd20126f9]
+## 35. Representation hearings[^c-6f41c092264a48ee6cd715ccd20126f9]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ After section 2E of TCPA 1990 (which is inserted by section 32 of this Act) inse
 
 ## Annotations
 
-[^key-6f41c092264a48ee6cd715ccd20126f9]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2007/24/section/35) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-6f41c092264a48ee6cd715ccd20126f9]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2007/24/section/35) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

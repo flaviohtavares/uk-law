@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Commencement and citation[^key-acf63e6ec4b3280a98e3999c461810a1]
+## 1. Commencement and citation[^c-acf63e6ec4b3280a98e3999c461810a1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations shall come into operation on 11th August 1986, and may be cite
 
 ## Annotations
 
-[^key-acf63e6ec4b3280a98e3999c461810a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-acf63e6ec4b3280a98e3999c461810a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

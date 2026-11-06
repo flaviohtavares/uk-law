@@ -32,7 +32,7 @@ Heat Networks (Scotland) Act 2021
 
 An Act of the Scottish Parliament to make provision for regulating the supply of thermal energy by a heat network, and for regulating the construction and operation of a heat network; to make provision about the powers of persons holding a heat networks licence; to make provision about conferring rights in heat network assets where a person ceases operating a heat network; to set targets relating to the supply of thermal energy by heat networks; to make provision about plans relating to increased use of heat networks; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 23rd February 2021 and received Royal Assent on 30th March 2021[^key-b5e18ad310c0a38b440a4d3d43a1a062][^key-665f8e96271fbf6a4e9a0617cb37d811]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 23rd February 2021 and received Royal Assent on 30th March 2021[^c-b5e18ad310c0a38b440a4d3d43a1a062][^c-665f8e96271fbf6a4e9a0617cb37d811]
 
 ## Contents
 
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 11 — Revocation of heat networks licence](part-1/section-11.md)
 - [Section 12 — Appeals against revocation of heat networks licence](part-1/section-12.md)
 
-#### Enforcement[^key-92c84a939ad1e8a269fccc770c9cd275]
+#### Enforcement[^c-92c84a939ad1e8a269fccc770c9cd275]
 
 - [Section 12A — Enforcement provisions under Part 8 of the Energy Act 2023 applied](part-1/section-12a.md)
 
@@ -290,8 +290,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-b5e18ad310c0a38b440a4d3d43a1a062]: Modification: [Act](https://www.legislation.gov.uk/asp/2021/9): power to amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 219](https://www.legislation.gov.uk/ukpga/2023/52/section/219), [334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-b5e18ad310c0a38b440a4d3d43a1a062]: Modification: [Act](https://www.legislation.gov.uk/asp/2021/9): power to amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 219](https://www.legislation.gov.uk/ukpga/2023/52/section/219), [334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-665f8e96271fbf6a4e9a0617cb37d811]: Modification: [Act](https://www.legislation.gov.uk/asp/2021/9): power to amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 224](https://www.legislation.gov.uk/ukpga/2023/52/section/224), [334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-665f8e96271fbf6a4e9a0617cb37d811]: Modification: [Act](https://www.legislation.gov.uk/asp/2021/9): power to amend conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 224](https://www.legislation.gov.uk/ukpga/2023/52/section/224), [334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-92c84a939ad1e8a269fccc770c9cd275]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/asp/2021/9/section/12A) and cross-heading inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [68(2)](https://www.legislation.gov.uk/uksi/2025/269/regulation/68/2)
+[^c-92c84a939ad1e8a269fccc770c9cd275]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/asp/2021/9/section/12A) and cross-heading inserted (27.1.2026) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4), [68(2)](https://www.legislation.gov.uk/uksi/2025/269/regulation/68/2)

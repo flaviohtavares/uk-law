@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Part 4 (EC Sales statements)[^key-e9dae1b74a5917721b5ec2714992c686]
+## 38. Part 4 (EC Sales statements)[^c-e9dae1b74a5917721b5ec2714992c686]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ In regulation 21(1) [^c24395121] (interpretation)—-
 
 ## Annotations
 
-[^key-e9dae1b74a5917721b5ec2714992c686]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e9dae1b74a5917721b5ec2714992c686]: Commencement: Reg. 38 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395121]: Marginal citation: Part 4 was relevantly amended by [S.I. 2009/3241](https://www.legislation.gov.uk/uksi/2009/3241), 2012/1899 and 2019/59. The amendment made by the last-named instrument has not been commenced and is omitted by this instrument. Part 4 was also amended by section 80(7) to (11) of the [Finance Act 2020 (c.14)](https://www.legislation.gov.uk/ukpga/2020/14), and paragraph 7 of Schedule 2 to TPTPA.
 

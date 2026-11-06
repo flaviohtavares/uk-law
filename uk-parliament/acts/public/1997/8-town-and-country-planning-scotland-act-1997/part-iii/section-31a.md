@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31A. Planning permission in respect of operation of marine fish farm[^key-9dcc3957053ce16019032608c35c1684][^key-df058b895d0ba48f4d58fed9637cea43]
+## 31A. Planning permission in respect of operation of marine fish farm[^c-9dcc3957053ce16019032608c35c1684][^c-df058b895d0ba48f4d58fed9637cea43]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any planning permission is to be granted by the Scottish Ministers.
 
-(2A)[^key-50402825638bff9060f9f9236846755b] Subject to subsection (4), any planning permission may be granted by the Scottish Ministers—
+(2A)[^c-50402825638bff9060f9f9236846755b] Subject to subsection (4), any planning permission may be granted by the Scottish Ministers—
 
 - (a) by order, or
 - (b) on application to them in accordance with regulations under subsection (8).
@@ -33,7 +33,7 @@ summary: ''
 
 (4) Any planning permission granted by virtue of subsection (3) is to be granted by order, the class of development in question being specified in the order.
 
-(4A)[^key-d9e563332d6f12d09225905c977f17be] Subsection (4B) applies where—
+(4A)[^c-d9e563332d6f12d09225905c977f17be] Subsection (4B) applies where—
 
 - (a) an order granting planning permission (whether by virtue of subsection (2A)(a) or subsection (3)) is revoked, and
 - (b) the date of the revocation is, in relation to any marine fish farm to which the order applied, earlier than the appropriate date (within the meaning of section 26AA(2)) in respect of that fish farm.
@@ -51,22 +51,22 @@ summary: ''
 
 (8) The Scottish Ministers may by regulations make provision—
 
-- (a)[^key-63d9434c30c5ff75e0818c794d7832bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) as to the form of an application for planning permission[^key-d9381fa89a77c65d6c9416dd28baeb9a],
+- (a)[^c-63d9434c30c5ff75e0818c794d7832bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) as to the form of an application for planning permission[^c-d9381fa89a77c65d6c9416dd28baeb9a],
 - (c) specifying documents and information which require to accompany such an application,
 - (d) as to consultation in connection with such an application, and
 - (e) as to any other matters concerning procedure on such an application.
 
 ## Annotations
 
-[^key-9dcc3957053ce16019032608c35c1684]: Modification: S. 31A applied (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2007/268/article/14/2) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
+[^c-9dcc3957053ce16019032608c35c1684]: Modification: S. 31A applied (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2007/268/article/14/2) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
 
-[^key-df058b895d0ba48f4d58fed9637cea43]: Textual amendment: S. 31A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 4(2)](https://www.legislation.gov.uk/asp/2006/17/section/4/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-df058b895d0ba48f4d58fed9637cea43]: Textual amendment: S. 31A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 4(2)](https://www.legislation.gov.uk/asp/2006/17/section/4/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-50402825638bff9060f9f9236846755b]: Textual amendment: [S. 31A(2A)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/2A) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(2)](https://www.legislation.gov.uk/asp/2013/7/section/23/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-50402825638bff9060f9f9236846755b]: Textual amendment: [S. 31A(2A)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/2A) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(2)](https://www.legislation.gov.uk/asp/2013/7/section/23/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-d9e563332d6f12d09225905c977f17be]: Textual amendment: [S. 31A(4A)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/4B) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(3)](https://www.legislation.gov.uk/asp/2013/7/section/23/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-d9e563332d6f12d09225905c977f17be]: Textual amendment: [S. 31A(4A)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/4B) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(3)](https://www.legislation.gov.uk/asp/2013/7/section/23/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-63d9434c30c5ff75e0818c794d7832bf]: Textual amendment: [S. 31A(8)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/8/a) repealed (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(4)(a)](https://www.legislation.gov.uk/asp/2013/7/section/23/4/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-63d9434c30c5ff75e0818c794d7832bf]: Textual amendment: [S. 31A(8)(a)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/8/a) repealed (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(4)(a)](https://www.legislation.gov.uk/asp/2013/7/section/23/4/a), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-d9381fa89a77c65d6c9416dd28baeb9a]: Textual amendment: Words in [s. 31A(8)(b)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/8/b) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(4)(b)](https://www.legislation.gov.uk/asp/2013/7/section/23/4/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-d9381fa89a77c65d6c9416dd28baeb9a]: Textual amendment: Words in [s. 31A(8)(b)](https://www.legislation.gov.uk/ukpga/1997/8/section/31A/8/b) substituted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 23(4)(b)](https://www.legislation.gov.uk/asp/2013/7/section/23/4/b), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

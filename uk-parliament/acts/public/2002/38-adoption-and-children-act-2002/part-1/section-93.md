@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Offence of breaching restrictions under section 92[^key-342c387ad4b91a04cfce49b461934961][^key-a46e5d421646211e53520041f4d51101]
+## 93. Offence of breaching restrictions under section 92[^c-342c387ad4b91a04cfce49b461934961][^c-a46e5d421646211e53520041f4d51101]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (4) But subsections (2) and (3) only apply if sufficient evidence is adduced to raise an issue as to whether the person had the knowledge or reason mentioned.
 
-(5) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months, or a fine[^key-4e63563cfba2ca9a89b2c8d2879d6aab], or both.
+(5) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months, or a fine[^c-4e63563cfba2ca9a89b2c8d2879d6aab], or both.
 
 ## Annotations
 
-[^key-342c387ad4b91a04cfce49b461934961]: Commencement: S. 93 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/g) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-342c387ad4b91a04cfce49b461934961]: Commencement: S. 93 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/g) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-a46e5d421646211e53520041f4d51101]: Modification: S. 93 modified (30.12.2005) by [The Electronic Commerce Directive (Adoption and Children Act 2002) Regulations 2005 (S.I. 2005/3222)](https://www.legislation.gov.uk/uksi/2005/3222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1/1), [3-5](https://www.legislation.gov.uk/uksi/2005/3222/regulation/3)
+[^c-a46e5d421646211e53520041f4d51101]: Modification: S. 93 modified (30.12.2005) by [The Electronic Commerce Directive (Adoption and Children Act 2002) Regulations 2005 (S.I. 2005/3222)](https://www.legislation.gov.uk/uksi/2005/3222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3222/regulation/1/1), [3-5](https://www.legislation.gov.uk/uksi/2005/3222/regulation/3)
 
-[^key-4e63563cfba2ca9a89b2c8d2879d6aab]: Textual amendment: Words in s. 93(5) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/32/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-4e63563cfba2ca9a89b2c8d2879d6aab]: Textual amendment: Words in s. 93(5) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 32(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/32/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

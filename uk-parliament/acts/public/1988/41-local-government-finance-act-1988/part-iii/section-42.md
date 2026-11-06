@@ -36,10 +36,10 @@ summary: ''
 
 (4) For each day on which a hereditament is shown in the list, it must also show the rateable value of the hereditament[^c13066801]
 
-(5) The list must also contain such information about hereditaments shown in it as may be prescribed by the appropriate national authority[^key-d3cf80617e4c711510e68547b99dcba9] by regulations; and the information so prescribed may include information about the total of the rateable values shown in the list.
+(5) The list must also contain such information about hereditaments shown in it as may be prescribed by the appropriate national authority[^c-d3cf80617e4c711510e68547b99dcba9] by regulations; and the information so prescribed may include information about the total of the rateable values shown in the list.
 
 ## Annotations
 
 [^c13066801]: Textual amendment: Words substituted for s. 42(4)(a)(b) by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/20)
 
-[^key-d3cf80617e4c711510e68547b99dcba9]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/ukpga/1988/41/section/42/5) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(3)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/3)
+[^c-d3cf80617e4c711510e68547b99dcba9]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/ukpga/1988/41/section/42/5) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(3)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/3)

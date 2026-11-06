@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 16 — AMENDMENT OF LOCAL LEGISLATION[^key-41b0ec198bb5739d1bd4fd8c3dc59b27]
+## SCHEDULE 16 — AMENDMENT OF LOCAL LEGISLATION[^c-41b0ec198bb5739d1bd4fd8c3dc59b27]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Local Enactments
 
 ## Annotations
 
-[^key-41b0ec198bb5739d1bd4fd8c3dc59b27]: Commencement: Sch. 16 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-41b0ec198bb5739d1bd4fd8c3dc59b27]: Commencement: Sch. 16 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

@@ -28,7 +28,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Claims and Payments) Amendment Regulations 2013 (revoked)[^key-fd8e1dbf6a8470a3090251a0773e64bf]
+The Social Security (Claims and Payments) Amendment Regulations 2013 (revoked)[^c-fd8e1dbf6a8470a3090251a0773e64bf]
 
 Made
 
@@ -42,23 +42,23 @@ Coming into force
 
 1st April 2013
 
-[^key-fd8e1dbf6a8470a3090251a0773e64bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd8e1dbf6a8470a3090251a0773e64bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fd8e1dbf6a8470a3090251a0773e64bf]
+## 1. Citation and commencement[^c-fd8e1dbf6a8470a3090251a0773e64bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of paragraph 7 of Schedule 9A to the Social Security (Claims and Payments) Regulations 1987[^key-fd8e1dbf6a8470a3090251a0773e64bf]
+## 2. Amendment of paragraph 7 of Schedule 9A to the Social Security (Claims and Payments) Regulations 1987[^c-fd8e1dbf6a8470a3090251a0773e64bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd8e1dbf6a8470a3090251a0773e64bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd8e1dbf6a8470a3090251a0773e64bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-fd8e1dbf6a8470a3090251a0773e64bf]EXPLANATORY NOTE
+[^c-fd8e1dbf6a8470a3090251a0773e64bf]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -68,4 +68,4 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 ## Annotations
 
-[^key-fd8e1dbf6a8470a3090251a0773e64bf]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2013/456) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
+[^c-fd8e1dbf6a8470a3090251a0773e64bf]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2013/456) revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)

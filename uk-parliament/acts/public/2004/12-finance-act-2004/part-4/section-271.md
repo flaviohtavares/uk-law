@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Liability of scheme administrator[^key-904ab27374726efb51cbc6f270f0990a][^key-e976f1b9141c3dbfe329ae0b7e34461c]
+## 271. Liability of scheme administrator[^c-904ab27374726efb51cbc6f270f0990a][^c-e976f1b9141c3dbfe329ae0b7e34461c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,34 +36,34 @@ This subsection does not apply to a liability to pay a penalty and is subject to
 
 (7) If the decision is not to release the applicant or applicants from the liability the applicant or applicants may appeal against the decision.
 
-(8)[^key-62b9c2f2763197ecc3f46ae347402b41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-62b9c2f2763197ecc3f46ae347402b41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The appeal must be brought within the period of 30 days beginning with the day on which the applicant was notified of the decision.
 
-(10)[^key-d1227378de80c51f760c00c90337f979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-d1227378de80c51f760c00c90337f979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11) On an appeal that is notified to the tribunal, the tribunal[^key-929c01f1afaf8604a3dc74942dd1e4d4] must consider whether the applicant or applicants ought to have been released from the liability.
+(11) On an appeal that is notified to the tribunal, the tribunal[^c-929c01f1afaf8604a3dc74942dd1e4d4] must consider whether the applicant or applicants ought to have been released from the liability.
 
-(12) If the tribunal decides[^key-2d79db594da210b434effc3120c8c899] that the applicant or applicants ought not to have been released from the liability, the tribunal must[^key-8310db6b8957f605ebd49c4aee8ea5b2] dismiss the appeal.
+(12) If the tribunal decides[^c-2d79db594da210b434effc3120c8c899] that the applicant or applicants ought not to have been released from the liability, the tribunal must[^c-8310db6b8957f605ebd49c4aee8ea5b2] dismiss the appeal.
 
-(13) If the tribunal decides[^key-7d97cbfb96a301f1d5c09328dc0f1eb3] that the applicant or applicants ought to have been released from the liability, the applicant is, or applicants are, to be treated as having been released from the liability (but subject to any further appeal [^key-fa99461e2d50257d05a454cdc61a1182]...).
+(13) If the tribunal decides[^c-7d97cbfb96a301f1d5c09328dc0f1eb3] that the applicant or applicants ought to have been released from the liability, the applicant is, or applicants are, to be treated as having been released from the liability (but subject to any further appeal [^c-fa99461e2d50257d05a454cdc61a1182]...).
 
 ## Annotations
 
-[^key-904ab27374726efb51cbc6f270f0990a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-904ab27374726efb51cbc6f270f0990a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-e976f1b9141c3dbfe329ae0b7e34461c]: Modification: S. 271 modified (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/569/schedule/3/part/1)
+[^c-e976f1b9141c3dbfe329ae0b7e34461c]: Modification: S. 271 modified (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/569/schedule/3/part/1)
 
-[^key-62b9c2f2763197ecc3f46ae347402b41]: Textual amendment: S. 271(8) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/2)
+[^c-62b9c2f2763197ecc3f46ae347402b41]: Textual amendment: S. 271(8) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/2)
 
-[^key-d1227378de80c51f760c00c90337f979]: Textual amendment: S. 271(10) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/2)
+[^c-d1227378de80c51f760c00c90337f979]: Textual amendment: S. 271(10) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/2)
 
-[^key-929c01f1afaf8604a3dc74942dd1e4d4]: Textual amendment: Words in s. 271(11) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/3)
+[^c-929c01f1afaf8604a3dc74942dd1e4d4]: Textual amendment: Words in s. 271(11) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/3)
 
-[^key-2d79db594da210b434effc3120c8c899]: Textual amendment: Words in s. 271(12) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/4/a)
+[^c-2d79db594da210b434effc3120c8c899]: Textual amendment: Words in s. 271(12) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/4/a)
 
-[^key-8310db6b8957f605ebd49c4aee8ea5b2]: Textual amendment: Words in s. 271(12) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/4/b)
+[^c-8310db6b8957f605ebd49c4aee8ea5b2]: Textual amendment: Words in s. 271(12) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/4/b)
 
-[^key-7d97cbfb96a301f1d5c09328dc0f1eb3]: Textual amendment: Words in s. 271(13) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(5)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/5/a)
+[^c-7d97cbfb96a301f1d5c09328dc0f1eb3]: Textual amendment: Words in s. 271(13) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(5)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/5/a)
 
-[^key-fa99461e2d50257d05a454cdc61a1182]: Textual amendment: Words in s. 271(13) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(5)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/5/b)
+[^c-fa99461e2d50257d05a454cdc61a1182]: Textual amendment: Words in s. 271(13) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 428(5)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/428/5/b)

@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Education (School Lunches) (Scotland) Amendment Regulations 2013 (revoked)[^key-53e318438b7cb7e5470f0b0192e9b0e8]
+The Education (School Lunches) (Scotland) Amendment Regulations 2013 (revoked)[^c-53e318438b7cb7e5470f0b0192e9b0e8]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 29th April 2013
 
-[^key-53e318438b7cb7e5470f0b0192e9b0e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53e318438b7cb7e5470f0b0192e9b0e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-53e318438b7cb7e5470f0b0192e9b0e8]
+## 1. Citation and commencement[^c-53e318438b7cb7e5470f0b0192e9b0e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of 2009 Regulations[^key-53e318438b7cb7e5470f0b0192e9b0e8]
+## 2. Amendment of 2009 Regulations[^c-53e318438b7cb7e5470f0b0192e9b0e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-53e318438b7cb7e5470f0b0192e9b0e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-53e318438b7cb7e5470f0b0192e9b0e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-53e318438b7cb7e5470f0b0192e9b0e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-53e318438b7cb7e5470f0b0192e9b0e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53e318438b7cb7e5470f0b0192e9b0e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53e318438b7cb7e5470f0b0192e9b0e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-53e318438b7cb7e5470f0b0192e9b0e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53e318438b7cb7e5470f0b0192e9b0e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53e318438b7cb7e5470f0b0192e9b0e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/64) revoked (6.4.2025) by [The Education (Scotland) Act 1980 (Modification) Regulations 2025 (S.S.I. 2025/44)](https://www.legislation.gov.uk/ssi/2025/44), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/44/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2025/44/regulation/3)
+[^c-53e318438b7cb7e5470f0b0192e9b0e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/64) revoked (6.4.2025) by [The Education (Scotland) Act 1980 (Modification) Regulations 2025 (S.S.I. 2025/44)](https://www.legislation.gov.uk/ssi/2025/44), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/44/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2025/44/regulation/3)

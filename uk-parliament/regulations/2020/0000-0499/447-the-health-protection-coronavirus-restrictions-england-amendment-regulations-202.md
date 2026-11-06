@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (England) (Amendment) Regulations 2020 (revoked)[^key-28496cd1ce956d99d565a801fba31623]
+The Health Protection (Coronavirus, Restrictions) (England) (Amendment) Regulations 2020 (revoked)[^c-28496cd1ce956d99d565a801fba31623]
 
 Approved by both Houses of Parliament
 
@@ -48,24 +48,24 @@ Coming into force
 
 at 11.00 a.m. on 22nd April 2020
 
-[^key-28496cd1ce956d99d565a801fba31623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28496cd1ce956d99d565a801fba31623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-28496cd1ce956d99d565a801fba31623]
+## 1. Citation and commencement[^c-28496cd1ce956d99d565a801fba31623]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (England) Regulations 2020[^key-28496cd1ce956d99d565a801fba31623]
+## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (England) Regulations 2020[^c-28496cd1ce956d99d565a801fba31623]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28496cd1ce956d99d565a801fba31623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28496cd1ce956d99d565a801fba31623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-28496cd1ce956d99d565a801fba31623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28496cd1ce956d99d565a801fba31623]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-28496cd1ce956d99d565a801fba31623]: Textual amendment: Regulations revoked (4.7.2020 at 00.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (S.I. 2020/684)](https://www.legislation.gov.uk/uksi/2020/684), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/684/regulation/1/2/b), [2(1)(b)](https://www.legislation.gov.uk/uksi/2020/684/regulation/2/1/b)
+[^c-28496cd1ce956d99d565a801fba31623]: Textual amendment: Regulations revoked (4.7.2020 at 00.01 a.m.) by [The Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 (S.I. 2020/684)](https://www.legislation.gov.uk/uksi/2020/684), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/684/regulation/1/2/b), [2(1)(b)](https://www.legislation.gov.uk/uksi/2020/684/regulation/2/1/b)

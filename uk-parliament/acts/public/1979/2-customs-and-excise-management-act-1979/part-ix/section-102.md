@@ -26,7 +26,7 @@ summary: ''
 
 (3) If a person who has been required under subsection (2) above to deliver up a licence fails to comply with the requirement within the period mentioned in that subsection he shall be liable on summary conviction to a penalty of the following amount, that is to say—
 
-- (a) where the licence is a gaming licence [^key-c50059e9c2a801c5dbfcf5457287475b]..., a penalty of level 5 on the standard scale *(affected by repeal, see note)*[^key-487f2271383ec14a2958b4981429604d][^c14777561]£20,000;
+- (a) where the licence is a gaming licence [^c-c50059e9c2a801c5dbfcf5457287475b]..., a penalty of level 5 on the standard scale *(affected by repeal, see note)*[^c-487f2271383ec14a2958b4981429604d][^c14777561]£20,000;
 - (aa)[^c14777571] where the licence is a licence under the Vehicle Excise and Registration Act 1994[^c14777581], a penalty of whichever is the greater of—
   - (i) level 3 on the standard scale, or
   - (ii) an amount equal to five times the annual rate of duty that was payable on the grant of the licence or would have been so payable if it had been taken out for a period of twelve months.
@@ -38,9 +38,9 @@ summary: ''
 
 [^c14777541]: Textual amendment: Words substituted by [Finance Act 1986 (c. 41, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1986/41), [s. 8(6)](https://www.legislation.gov.uk/ukpga/1986/41/section/8/6), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1986/41/schedule/5/paragraph/2)
 
-[^key-c50059e9c2a801c5dbfcf5457287475b]: Textual amendment: Words in s. 102(3)(a) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 55](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/55) (with [Sch. 24 para. 62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/62))
+[^c-c50059e9c2a801c5dbfcf5457287475b]: Textual amendment: Words in s. 102(3)(a) omitted (with effect in accordance with Sch. 24 para. 66(3) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 24 para. 55](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/55) (with [Sch. 24 para. 62](https://www.legislation.gov.uk/ukpga/2012/14/schedule/24/paragraph/62))
 
-[^key-487f2271383ec14a2958b4981429604d]: Textual amendment: S. 102(3)(a): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(14)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/14) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-487f2271383ec14a2958b4981429604d]: Textual amendment: S. 102(3)(a): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(14)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/14) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c14777561]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703](https://www.legislation.gov.uk/uksi/1984/703), (N.I. 3) arts. 5, 6
 

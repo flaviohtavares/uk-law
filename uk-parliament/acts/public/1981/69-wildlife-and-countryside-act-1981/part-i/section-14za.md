@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14ZA. Sale etc. of certain animals and plants included in Schedule 9[^c19473661][^key-ea9e1e96a7b3e0ae1db5b20ce7a3a59d]
+## 14ZA. Sale etc. of certain animals and plants included in Schedule 9[^c19473661][^c-ea9e1e96a7b3e0ae1db5b20ce7a3a59d]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) This section applies to an animal or plant which—
 
 - (a) is within section 14(1) or (2) (animals and plants which must not be released etc. into the wild),
-- (b)[^key-c6e13e7ba3d5da37c5ffa5763a2b32e0] is of a description prescribed for the purposes of this section by an order made by the Secretary of State, and
+- (b)[^c-c6e13e7ba3d5da37c5ffa5763a2b32e0] is of a description prescribed for the purposes of this section by an order made by the Secretary of State, and
 - (c) is a live animal or live plant.
 
 (4) An order under subsection (3) may be made in relation to a particular area or a particular time of the year.
@@ -44,6 +44,6 @@ summary: ''
 
 [^c19473661]: Textual amendment: S. 14ZA inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2006/16/section/50), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-ea9e1e96a7b3e0ae1db5b20ce7a3a59d]: Textual amendment: Words in s. 14ZA heading substituted (5.3.2015 for E.) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/25/3), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
+[^c-ea9e1e96a7b3e0ae1db5b20ce7a3a59d]: Textual amendment: Words in s. 14ZA heading substituted (5.3.2015 for E.) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/25/3), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/c)
 
-[^key-c6e13e7ba3d5da37c5ffa5763a2b32e0]: Modification: S. 14ZA(3)(b) applied (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/527/article/3/6) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))
+[^c-c6e13e7ba3d5da37c5ffa5763a2b32e0]: Modification: S. 14ZA(3)(b) applied (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order 2019 (S.I. 2019/527)](https://www.legislation.gov.uk/uksi/2019/527), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2019/527/article/3/6) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2019/527/article/1/2)[(4)](https://www.legislation.gov.uk/uksi/2019/527/article/1/4)) (as amended by [S.I. 2019/1213](https://www.legislation.gov.uk/uksi/2019/1213), regs. 1, 2(2))

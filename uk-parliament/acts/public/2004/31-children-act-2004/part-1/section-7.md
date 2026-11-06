@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Children’s Commissioner has the function of promoting and protecting the rights of children in Northern Ireland where those rights are or may be affected by excepted matters[^key-50a3d97a1e5146a3350be7ee529b3452].
+(1) The Children’s Commissioner has the function of promoting and protecting the rights of children in Northern Ireland where those rights are or may be affected by excepted matters[^c-50a3d97a1e5146a3350be7ee529b3452].
 
-(1A)[^key-f882368d9e3a60da84aa62b676d25310] The function under subsection (1) includes promoting awareness of the views and interests of children in Northern Ireland.
+(1A)[^c-f882368d9e3a60da84aa62b676d25310] The function under subsection (1) includes promoting awareness of the views and interests of children in Northern Ireland.
 
-(2)[^key-ecbc1d60a778083aa22e03036f936ce0] Subsections (3) to (5) of section 2 and sections 2A to 2C, 2E and 2F apply in relation to the Children's Commissioner's function under subsection (1) as in relation to the Commissioner's primary function.
+(2)[^c-ecbc1d60a778083aa22e03036f936ce0] Subsections (3) to (5) of section 2 and sections 2A to 2C, 2E and 2F apply in relation to the Children's Commissioner's function under subsection (1) as in relation to the Commissioner's primary function.
 
 (2A) For the purposes of subsection (2)—
 
@@ -41,20 +41,20 @@ summary: ''
 
 (6) Paragraphs 2 to 5 of Schedule 8 to the Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972/1265 (N.I.14)) apply for the purposes of an inquiry under subsection (4) above with the substitution of references to the Children’s Commissioner for references to the person appointed to hold the inquiry.
 
-(7)[^key-f206c5fbc614913ef4a34c056f4ce9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f206c5fbc614913ef4a34c056f4ce9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f206c5fbc614913ef4a34c056f4ce9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f206c5fbc614913ef4a34c056f4ce9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-f206c5fbc614913ef4a34c056f4ce9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-f206c5fbc614913ef4a34c056f4ce9c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section, “**excepted matter**” has the same meaning as in the Northern Ireland Act 1998 (c. 47).
 
 ## Annotations
 
-[^key-50a3d97a1e5146a3350be7ee529b3452]: Textual amendment: Words in s. 7(1) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/5/2)
+[^c-50a3d97a1e5146a3350be7ee529b3452]: Textual amendment: Words in s. 7(1) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/5/2)
 
-[^key-f882368d9e3a60da84aa62b676d25310]: Textual amendment: S. 7(1A) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/5/3)
+[^c-f882368d9e3a60da84aa62b676d25310]: Textual amendment: S. 7(1A) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/5/3)
 
-[^key-ecbc1d60a778083aa22e03036f936ce0]: Textual amendment: S. 7(2)(2A) substituted for s. 7(2) (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/5/4)
+[^c-ecbc1d60a778083aa22e03036f936ce0]: Textual amendment: S. 7(2)(2A) substituted for s. 7(2) (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/5/4)
 
-[^key-f206c5fbc614913ef4a34c056f4ce9c8]: Textual amendment: S. 7(7)-(9) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/c)
+[^c-f206c5fbc614913ef4a34c056f4ce9c8]: Textual amendment: S. 7(7)-(9) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/c)

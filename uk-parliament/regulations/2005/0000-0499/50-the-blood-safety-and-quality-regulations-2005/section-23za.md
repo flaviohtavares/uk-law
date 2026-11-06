@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23ZA. Specific epidemiological situations in relation to Northern Ireland[^key-c918b0c869aab3b33e25191780c2666d]
+## 23ZA. Specific epidemiological situations in relation to Northern Ireland[^c-c918b0c869aab3b33e25191780c2666d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c918b0c869aab3b33e25191780c2666d]: Textual amendment: Reg. 23ZA inserted by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [regs. 1](https://www.legislation.gov.uk/uksi/2019/4/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/4/regulation/12/2) (as substituted by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1304/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c918b0c869aab3b33e25191780c2666d]: Textual amendment: Reg. 23ZA inserted by [The Blood Safety and Quality (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/4)](https://www.legislation.gov.uk/uksi/2019/4), [regs. 1](https://www.legislation.gov.uk/uksi/2019/4/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2019/4/regulation/12/2) (as substituted by [S.I. 2020/1304](https://www.legislation.gov.uk/uksi/2020/1304), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1304/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1304/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

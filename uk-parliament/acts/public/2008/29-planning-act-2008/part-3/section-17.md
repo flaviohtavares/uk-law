@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Underground gas storage facilities[^key-16d22932813640c85c57fecf99df4375]
+## 17. Underground gas storage facilities[^c-16d22932813640c85c57fecf99df4375]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ and the condition in subsection (4) is met in relation to the facilities.
 
 ## Annotations
 
-[^key-16d22932813640c85c57fecf99df4375]: Commencement: S. 17 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-16d22932813640c85c57fecf99df4375]: Commencement: S. 17 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/101/article/4/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Street works[^key-e28999b34e79ec031650ab6ca13fafec]
+## 11. Street works[^c-e28999b34e79ec031650ab6ca13fafec]
 
 *Extent: E+W+S*
 
@@ -34,12 +34,12 @@ summary: ''
 - (j) remove and install temporary and permanent signage; and
 - (k) execute any works required for, or incidental to, any works referred to in sub-paragraphs (a) to (j).
 
-(2) The authority given by paragraph (1) is a statutory right for the purposes of [^key-6b3939427d952d42263cf850e636f82f]... sections 48(3) (streets, street works and undertakers) and 51(1) (prohibition of unauthorised street works) of the 1991 Act.
+(2) The authority given by paragraph (1) is a statutory right for the purposes of [^c-6b3939427d952d42263cf850e636f82f]... sections 48(3) (streets, street works and undertakers) and 51(1) (prohibition of unauthorised street works) of the 1991 Act.
 
 (3) Subject to article 10 (application of the 1991 Act), the provisions of sections 54 to 106 of the 1991 Act apply to any street works carried out under paragraph (1).
 
 ## Annotations
 
-[^key-e28999b34e79ec031650ab6ca13fafec]: Commencement: Art. 11 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-e28999b34e79ec031650ab6ca13fafec]: Commencement: Art. 11 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-6b3939427d952d42263cf850e636f82f]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2026/537/article/11/2) omitted (27.5.2026) by virtue of [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-6b3939427d952d42263cf850e636f82f]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2026/537/article/11/2) omitted (27.5.2026) by virtue of [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

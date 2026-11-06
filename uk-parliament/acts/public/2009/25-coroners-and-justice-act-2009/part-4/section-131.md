@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Resources: effect of factors not related to sentencing[^key-0cfae45be822a024d2a600fa9313df0b]
+## 131. Resources: effect of factors not related to sentencing[^c-0cfae45be822a024d2a600fa9313df0b]
 
 *Extent: E+W*
 
@@ -37,16 +37,16 @@ summary: ''
 
 (5) The orders within this subsection are—
 
-- (a) community orders (within the meaning given by section 200 of the Sentencing Code[^key-c81bc3118835885dd480d5be78418859]),
-- (b) suspended sentence orders (within the meaning given by section 286 of that Code[^key-ba29469980c823ff6a121f181eb51f98]), and
-- (c) youth rehabilitation orders (within the meaning given by section 173 of that Code[^key-ff7c242674765b41df3f021bb3596e48]).
+- (a) community orders (within the meaning given by section 200 of the Sentencing Code[^c-c81bc3118835885dd480d5be78418859]),
+- (b) suspended sentence orders (within the meaning given by section 286 of that Code[^c-ba29469980c823ff6a121f181eb51f98]), and
+- (c) youth rehabilitation orders (within the meaning given by section 173 of that Code[^c-ff7c242674765b41df3f021bb3596e48]).
 
 ## Annotations
 
-[^key-0cfae45be822a024d2a600fa9313df0b]: Commencement: S. 131 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-0cfae45be822a024d2a600fa9313df0b]: Commencement: S. 131 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
 
-[^key-c81bc3118835885dd480d5be78418859]: Textual amendment: Words in s. 131(5)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 279(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/279/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c81bc3118835885dd480d5be78418859]: Textual amendment: Words in s. 131(5)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 279(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/279/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ba29469980c823ff6a121f181eb51f98]: Textual amendment: Words in s. 131(5)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 279(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/279/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ba29469980c823ff6a121f181eb51f98]: Textual amendment: Words in s. 131(5)(b) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 279(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/279/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ff7c242674765b41df3f021bb3596e48]: Textual amendment: Words in s. 131(5)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 279(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/279/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ff7c242674765b41df3f021bb3596e48]: Textual amendment: Words in s. 131(5)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 279(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/279/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

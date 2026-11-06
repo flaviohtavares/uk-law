@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Equality Act 2010: third party harassment of employees[^key-4d8937e651c0eef76289a36032de967e]
+## 65. Equality Act 2010: third party harassment of employees[^c-4d8937e651c0eef76289a36032de967e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 40 of the Equality Act 2010 (employees and applicants: harassment) om
 
 ## Annotations
 
-[^key-4d8937e651c0eef76289a36032de967e]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2013/24/section/65) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/2227/article/4))
+[^c-4d8937e651c0eef76289a36032de967e]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2013/24/section/65) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/2227/article/4))

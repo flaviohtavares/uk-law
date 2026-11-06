@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Grants and loans by the Scottish Ministers[^key-e3b3095f41fbc27d1edca049a033877e]
+## 20. Grants and loans by the Scottish Ministers[^c-e3b3095f41fbc27d1edca049a033877e]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b3095f41fbc27d1edca049a033877e]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/19/section/20) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-e3b3095f41fbc27d1edca049a033877e]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/19/section/20) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

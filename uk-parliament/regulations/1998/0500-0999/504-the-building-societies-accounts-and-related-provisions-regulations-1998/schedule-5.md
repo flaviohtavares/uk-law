@@ -22,65 +22,65 @@ summary: ''
 
 Regulation 5
 
-### 1. Accounting policies[^key-0a7f7742ae1488bc794446e5bcd78d5f]
+### 1. Accounting policies[^c-0a7f7742ae1488bc794446e5bcd78d5f]
 
-(1) There shall be stated the accounting policies (including such policies with respect to the depreciation and diminution in value of the assets of the society) adopted by the society in determining the amounts to be included in respect of items shown in the income and expenditure account and the balance sheet[^key-076af2785507cdf3ff4edcf68ccd1672].
+(1) There shall be stated the accounting policies (including such policies with respect to the depreciation and diminution in value of the assets of the society) adopted by the society in determining the amounts to be included in respect of items shown in the income and expenditure account and the balance sheet[^c-076af2785507cdf3ff4edcf68ccd1672].
 
-(2) It shall be stated whether the accounts have been prepared in accordance with applicable accounting standards within the meaning of section 464(1) of the Companies Act 2006[^key-c2bc446ce405bfd57fe204f2f0f9a43e]; particulars of any material departure from these standards and the reasons for such departure shall be given.
+(2) It shall be stated whether the accounts have been prepared in accordance with applicable accounting standards within the meaning of section 464(1) of the Companies Act 2006[^c-c2bc446ce405bfd57fe204f2f0f9a43e]; particulars of any material departure from these standards and the reasons for such departure shall be given.
 
-### 2. Sums denominated in foreign currencies[^key-14a286ee95a2cc19cb67e8dddd292526]
+### 2. Sums denominated in foreign currencies[^c-14a286ee95a2cc19cb67e8dddd292526]
 
-Where any sums originally denominated in a foreign currency have been brought into account under any items shown in the balance sheet or income and expenditure account[^key-bd6e140e33d3e6685c69998ee40afcd7] formats, the basis on which those sums have been translated into sterling shall be stated.
+Where any sums originally denominated in a foreign currency have been brought into account under any items shown in the balance sheet or income and expenditure account[^c-bd6e140e33d3e6685c69998ee40afcd7] formats, the basis on which those sums have been translated into sterling shall be stated.
 
-### 3. Employees[^key-a3ffb534ae40f706a87eccbb275ffd48]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Aggregate amount of directors' remuneration etc.[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 3. Employees[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Details of individual directors' remuneration etc.[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 4. Aggregate amount of directors' remuneration etc.[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Excess retirement benefits of directors and past directors[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 5. Details of individual directors' remuneration etc.[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Compensation to directors for loss of office[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 6. Excess retirement benefits of directors and past directors[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Sums paid to third parties in respect of directors' services[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 7. Compensation to directors for loss of office[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Supplementary provisions regarding directors' remuneration[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 8. Sums paid to third parties in respect of directors' services[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a3ffb534ae40f706a87eccbb275ffd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-a3ffb534ae40f706a87eccbb275ffd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-a3ffb534ae40f706a87eccbb275ffd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Interpretation of provisions regarding directors' remuneration[^key-a3ffb534ae40f706a87eccbb275ffd48]
+### 9. Supplementary provisions regarding directors' remuneration[^c-a3ffb534ae40f706a87eccbb275ffd48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Other income and expenditure items[^key-2c5fc0a770fbe0e3fa3fe8b8eda78fea]
+**10.**[^c-a3ffb534ae40f706a87eccbb275ffd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-a3ffb534ae40f706a87eccbb275ffd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-a3ffb534ae40f706a87eccbb275ffd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Interpretation of provisions regarding directors' remuneration[^c-a3ffb534ae40f706a87eccbb275ffd48]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Other income and expenditure items[^c-2c5fc0a770fbe0e3fa3fe8b8eda78fea]
 
 (1) In respect of interest receivable, the amount of interest derived from connected undertakings shall be shown separately from interest derived from other sources.
 
 (2) In respect of interest payable, the amount payable to connected undertakings shall be shown separately.
 
-(3)[^key-3dae7e418c89cd87153edd8c9ffceb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3dae7e418c89cd87153edd8c9ffceb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3dae7e418c89cd87153edd8c9ffceb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3dae7e418c89cd87153edd8c9ffceb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3dae7e418c89cd87153edd8c9ffceb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3dae7e418c89cd87153edd8c9ffceb0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)
 
@@ -109,11 +109,11 @@ Where any sums originally denominated in a foreign currency have been brought in
 
 (13) Where management and agency services are provided by the society to third parties that fact shall be disclosed where the scale of such services is material in the context of the society’s business as a whole.
 
-### 15. Persons who are to be regarded as associates of a society’s auditors[^key-6471c564591046a61c7657b5ada2f334]
+### 15. Persons who are to be regarded as associates of a society’s auditors[^c-6471c564591046a61c7657b5ada2f334]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Taxation[^key-521205785c55e8e6a6978a67feeb3d54]
+### 16. Taxation[^c-521205785c55e8e6a6978a67feeb3d54]
 
 (1) Particulars shall be given of any special circumstances which affect liability in respect of taxation of profits, income or capital gains for the financial year or liability in respect of taxation of profits, income or capital gains for succeeding financial years.
 
@@ -125,13 +125,13 @@ Where any sums originally denominated in a foreign currency have been brought in
 
 (3) The amounts specified in sub-paragraph (2) shall be stated separately in respect of each of the amounts shown under items 17 and 22 in Part I of Schedule 1, and under items 17 and 24 in Part II of that Schedule.
 
-### 17. Miscellaneous matters[^key-acde674247b31cd048072e6d9e57fee5]
+### 17. Miscellaneous matters[^c-acde674247b31cd048072e6d9e57fee5]
 
 (1) Where any amount relating to any preceding financial years is included in any item in the income and expenditure account, the effect of that inclusion shall be stated.
 
 (2) The effect shall be stated of any transactions that are exceptional by virtue of size or incidence although they fall within the ordinary activities of the society.
 
-### 18. Maturity analysis[^key-57f50637ed2d521c8e1f10f48b43000a]
+### 18. Maturity analysis[^c-57f50637ed2d521c8e1f10f48b43000a]
 
 (1) A society shall disclose the aggregate of each of Asset items A.3(b) and B and Liability items A, B(b) and C(b) in Parts I and II of Schedule 2, broken down into amounts repayable with remaining maturity of—
 
@@ -152,7 +152,7 @@ Where any sums originally denominated in a foreign currency have been brought in
 
 (4) For the purposes of sub-paragraphs (1) and (2), where a loan or advance is repayable by instalments, each such instalment shall be treated as a separate amount.
 
-### 19. Provisions for bad and doubtful debts[^key-ae675a51a9a14bfa8997b3c5b6c9eed4]
+### 19. Provisions for bad and doubtful debts[^c-ae675a51a9a14bfa8997b3c5b6c9eed4]
 
 (1) In respect of any provisions for bad and doubtful debts deducted from Asset item B in Parts I and II of Schedule 2 there shall be shown the following information, in respect of each item—
 
@@ -164,7 +164,7 @@ Where any sums originally denominated in a foreign currency have been brought in
 
 (2) For the purposes of sub-paragraphs (1) and (2) “specific provisions” shall be any provisions determined by reference to particular loans or advances and all other provisions shall be “general provisions”.
 
-### 20. Transferable securities[^key-b62ae6034d57b82ec961271340f15eb4]
+### 20. Transferable securities[^c-b62ae6034d57b82ec961271340f15eb4]
 
 (1) In respect of each of Asset items A.4 and C in Parts I and II of Schedule 2 there shall be shown the amount of transferable securities under those items, stating the amounts of those which are listed and the amount of those which are unlisted.
 
@@ -177,7 +177,7 @@ Where any sums originally denominated in a foreign currency have been brought in
 
 together with the criteria used by the directors of the society to distinguish between those held and those not held as financial fixed assets.
 
-### 21. Fixed assets[^key-0a778729125ae7808fa08436d8c1467a]
+### 21. Fixed assets[^c-0a778729125ae7808fa08436d8c1467a]
 
 (1) In respect of any fixed assets included in any Asset item in the balance sheet the following information shall be given—
 
@@ -216,12 +216,12 @@ shall be stated.
 
 (6) In any case where any goodwill which has been acquired is shown or included as an asset in the balance sheet the period chosen for writing off the consideration for that goodwill and the reasons for choosing that period shall be disclosed.
 
-### 22. Reserves and provisions[^key-205b15944743b2d31ca0868af650c4e4]
+### 22. Reserves and provisions[^c-205b15944743b2d31ca0868af650c4e4]
 
 (1) Where any amount is transferred—
 
 - (a) to or from any reserves (including the revaluation reserve),
-- (b) to any provisions for liabilities[^key-58ad7b534620fbb172885bd901ded44c], or
+- (b) to any provisions for liabilities[^c-58ad7b534620fbb172885bd901ded44c], or
 - (c) from any provisions for liabilities otherwise than for the purpose for which the provisions were established,
 
 and the reserves or provisions are shown or would but for regulation 3(5) be shown as separate items in the society’s balance sheet, the information required by the following sub-paragraph shall be given in respect of the aggregate of reserves or provisions included in items in the balance sheet to which any such transfer relates.
@@ -236,7 +236,7 @@ and the reserves or provisions are shown or would but for regulation 3(5) be sho
 
 (4) The amount of the provision for deferred taxation shall be stated separately from the amount of any provision for other taxation.
 
-### 23. Subordinated liabilities[^key-0e949c008e6ad2f931be1eb2927fef3a]
+### 23. Subordinated liabilities[^c-0e949c008e6ad2f931be1eb2927fef3a]
 
 (1) The following information shall be disclosed in relation to any borrowing included in the balance sheet as subordinated liabilities and which exceeds 10 per cent. of the total for that item—
 
@@ -249,7 +249,7 @@ and the reserves or provisions are shown or would but for regulation 3(5) be sho
 
 (2) There shall also be stated the general terms of any other borrowings included within subordinated liabilities.
 
-### 24. Subscribed capital[^key-45ba03eb847b3dcf1c9638c796b0fadd]
+### 24. Subscribed capital[^c-45ba03eb847b3dcf1c9638c796b0fadd]
 
 (1) Where subscribed capital of more than one class has been allotted, the accounting par value of each class allotted shall be disclosed.
 
@@ -268,14 +268,14 @@ and the reserves or provisions are shown or would but for regulation 3(5) be sho
 - (a) the classes of subscribed capital allotted, and
 - (b) as respects each class of subscribed capital the consideration received by the society for the allotment.
 
-### 25. Fixed cumulative interest[^key-db3a03be3201b7832e3ad745166a7257]
+### 25. Fixed cumulative interest[^c-db3a03be3201b7832e3ad745166a7257]
 
 If any fixed cumulative interest on the society’s subscribed capital is in arrears there shall be stated—
 
 - (a) the amount of the arrears, and
 - (b) the period for which the interest or, if there is more than one class of subscribed capital, each class of interest is in arrears.
 
-### 26. Details of assets charged[^key-3e919410cf4feb98aecfbc412cee9faf]
+### 26. Details of assets charged[^c-3e919410cf4feb98aecfbc412cee9faf]
 
 In relation to each Liability item and each Memorandum item in the balance sheet formats there shall be disclosed—
 
@@ -283,9 +283,9 @@ In relation to each Liability item and each Memorandum item in the balance sheet
 - (b) the aggregate amount of the liabilities or potential liabilities so secured, and
 - (c) an indication of the nature of the security given.
 
-**27.**[^key-990af21d9d23764c25fed353a089f05c][^key-3e919410cf4feb98aecfbc412cee9faf] Particulars shall be given of any charge on the assets of the society to secure the liabilities of any other person, including, where practicable, the amount secured.
+**27.**[^c-990af21d9d23764c25fed353a089f05c][^c-3e919410cf4feb98aecfbc412cee9faf] Particulars shall be given of any charge on the assets of the society to secure the liabilities of any other person, including, where practicable, the amount secured.
 
-### 28. Guarantees and other financial commitments[^key-2c1fc947c36878f00db6a70e03dd800d]
+### 28. Guarantees and other financial commitments[^c-2c1fc947c36878f00db6a70e03dd800d]
 
 (1) There shall be stated, where practicable, the aggregate amount or estimated amount of contracts for capital expenditure, so far as not provided for in the balance sheet.
 
@@ -304,31 +304,31 @@ and, where any such commitment relates wholly or partly to pensions payable to p
 
 (6) There shall be disclosed the nature and amount of any contingent liabilities and commitments included in Memorandum items A and B in Parts I and II of Schedule 2.
 
-### 29. Memorandum items: subsidiary undertakings[^key-26ef6e3f3dd4533f97a70d2508fdc583]
+### 29. Memorandum items: subsidiary undertakings[^c-26ef6e3f3dd4533f97a70d2508fdc583]
 
 (1) With respect to contingent liabilities required to be included under Memorandum item A in Part I of Schedule 2, there shall be stated the amount of such contingent liabilities incurred on behalf of or for the benefit of any subsidiary undertakings.
 
 (2) With respect to commitments required to be included under Memorandum item B in Part I of Schedule 2, there shall be stated the amount of such commitments undertaken on behalf of or for the benefit of any subsidiary undertakings.
 
-### 30. Leasing transactions[^key-c7459b7441f1659fe44a03a34d5b2ddf]
+### 30. Leasing transactions[^c-c7459b7441f1659fe44a03a34d5b2ddf]
 
 The aggregate amount of all assets (other than land) leased to other persons shall be disclosed, broken down so as to show the aggregate amount included in each relevant balance sheet item.
 
-### 31. Assets and liabilities denominated in a currency other than sterling[^key-2d4558c055928a8b689fd995a46e4bde]
+### 31. Assets and liabilities denominated in a currency other than sterling[^c-2d4558c055928a8b689fd995a46e4bde]
 
 (1) The aggregate amount, in sterling, of all assets denominated in a currency other than sterling, together with the aggregate amount, in sterling, of all liabilities so denominated, shall be disclosed.
 
 (2) For the purposes of this paragraph, an appropriate rate of exchange prevailing at the date of the balance sheet shall be used.
 
-### 32. Sundry assets and liabilities, prepayments and accrued income and accruals and deferred income[^key-816e9c6d85f36f1250d31952e9b7d064]
+### 32. Sundry assets and liabilities, prepayments and accrued income and accruals and deferred income[^c-816e9c6d85f36f1250d31952e9b7d064]
 
 Where any amount to be included under any of Asset items F and G and Liability items E(c) and F in Parts I and II of Schedule 2 is material, particulars shall be given of each type of asset or liability included therein, including an explanation of the nature of the asset or liability and the amount included with respect to assets or liabilities of that type.
 
-### 33. Unmatured forward transactions[^key-ff49ba6be1b40a6ad8ada7a88a0dc484]
+### 33. Unmatured forward transactions[^c-ff49ba6be1b40a6ad8ada7a88a0dc484]
 
 There shall be disclosed with respect to forward transactions unmatured at the date of the balance sheet the categories of such transactions, by reference to an appropriate system of classification.
 
-### 34. Other miscellaneous matters[^key-182e7c0605d1b84f08c5909d84e0076f]
+### 34. Other miscellaneous matters[^c-182e7c0605d1b84f08c5909d84e0076f]
 
 (1) Subject to the following sub-paragraph, in respect of every item stated in a note to the annual accounts the corresponding amount for the financial year immediately preceding that to which the accounts relate shall also be stated and where it is not reasonable to compare the corresponding amount, it shall be adjusted and particulars of the adjustment and the reasons for it shall be given.
 
@@ -340,11 +340,11 @@ There shall be disclosed with respect to forward transactions unmatured at the d
 
 (3) Particulars shall be given of any case where the cost of any asset is for the first time determined under paragraph 25 of Schedule 7.
 
-### 35. Directors' loans and transactions[^key-d8e639b07481f59f988c33293d8e350f]
+### 35. Directors' loans and transactions[^c-d8e639b07481f59f988c33293d8e350f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Information about fair value of financial instruments[^key-9393f21f7416412b6b4ff06dac3fe3df]
+### 36. Information about fair value of financial instruments[^c-9393f21f7416412b6b4ff06dac3fe3df]
 
 (1) This paragraph applies where the amounts to be included in a society’s accounts in respect of financial instruments have been determined in accordance with paragraph 31A or 31C of Schedule 7.
 
@@ -398,66 +398,66 @@ There shall be disclosed with respect to forward transactions unmatured at the d
 
 ## Annotations
 
-[^key-0a7f7742ae1488bc794446e5bcd78d5f]: Commencement: Sch. 5 para. 1 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-0a7f7742ae1488bc794446e5bcd78d5f]: Commencement: Sch. 5 para. 1 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-076af2785507cdf3ff4edcf68ccd1672]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/1/1) substituted (23.3.1999) by [The Building Societies (Contents of Accounts) Regulations 1999 (S.I. 1999/248)](https://www.legislation.gov.uk/uksi/1999/248), [reg. 1](https://www.legislation.gov.uk/uksi/1999/248/regulation/1), [Sch. para. 13(1)](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/13/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/248/regulation/4))
+[^c-076af2785507cdf3ff4edcf68ccd1672]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/1/1) substituted (23.3.1999) by [The Building Societies (Contents of Accounts) Regulations 1999 (S.I. 1999/248)](https://www.legislation.gov.uk/uksi/1999/248), [reg. 1](https://www.legislation.gov.uk/uksi/1999/248/regulation/1), [Sch. para. 13(1)](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/13/1) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/248/regulation/4))
 
-[^key-c2bc446ce405bfd57fe204f2f0f9a43e]: Textual amendment: Words in [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/1/2) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/7)
+[^c-c2bc446ce405bfd57fe204f2f0f9a43e]: Textual amendment: Words in [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/1/2) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2011/1265/article/9/7)
 
-[^key-14a286ee95a2cc19cb67e8dddd292526]: Commencement: Sch. 5 para. 2 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-14a286ee95a2cc19cb67e8dddd292526]: Commencement: Sch. 5 para. 2 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-bd6e140e33d3e6685c69998ee40afcd7]: Textual amendment: Words in [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/2) substituted (23.3.1999) by [The Building Societies (Contents of Accounts) Regulations 1999 (S.I. 1999/248)](https://www.legislation.gov.uk/uksi/1999/248), [reg. 1](https://www.legislation.gov.uk/uksi/1999/248/regulation/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/13/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/248/regulation/4))
+[^c-bd6e140e33d3e6685c69998ee40afcd7]: Textual amendment: Words in [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/2) substituted (23.3.1999) by [The Building Societies (Contents of Accounts) Regulations 1999 (S.I. 1999/248)](https://www.legislation.gov.uk/uksi/1999/248), [reg. 1](https://www.legislation.gov.uk/uksi/1999/248/regulation/1), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/13/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/1999/248/regulation/4))
 
-[^key-a3ffb534ae40f706a87eccbb275ffd48]: Textual amendment: [Sch. 5 paras. 3-13](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/3) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/a)
+[^c-a3ffb534ae40f706a87eccbb275ffd48]: Textual amendment: [Sch. 5 paras. 3-13](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/3) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/a)
 
-[^key-2c5fc0a770fbe0e3fa3fe8b8eda78fea]: Commencement: Sch. 5 para. 14 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-2c5fc0a770fbe0e3fa3fe8b8eda78fea]: Commencement: Sch. 5 para. 14 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-3dae7e418c89cd87153edd8c9ffceb0d]: Textual amendment: [Sch. 5 para. 14(3)-(5)](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/14/3) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/b)
+[^c-3dae7e418c89cd87153edd8c9ffceb0d]: Textual amendment: [Sch. 5 para. 14(3)-(5)](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/14/3) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/b)
 
-[^key-6471c564591046a61c7657b5ada2f334]: Textual amendment: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/15) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/c)
+[^c-6471c564591046a61c7657b5ada2f334]: Textual amendment: [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/15) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/c)
 
-[^key-521205785c55e8e6a6978a67feeb3d54]: Commencement: Sch. 5 para. 16 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-521205785c55e8e6a6978a67feeb3d54]: Commencement: Sch. 5 para. 16 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-acde674247b31cd048072e6d9e57fee5]: Commencement: Sch. 5 para. 17 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-acde674247b31cd048072e6d9e57fee5]: Commencement: Sch. 5 para. 17 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-57f50637ed2d521c8e1f10f48b43000a]: Commencement: Sch. 5 para. 18 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-57f50637ed2d521c8e1f10f48b43000a]: Commencement: Sch. 5 para. 18 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-ae675a51a9a14bfa8997b3c5b6c9eed4]: Commencement: Sch. 5 para. 19 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-ae675a51a9a14bfa8997b3c5b6c9eed4]: Commencement: Sch. 5 para. 19 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-b62ae6034d57b82ec961271340f15eb4]: Commencement: Sch. 5 para. 20 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-b62ae6034d57b82ec961271340f15eb4]: Commencement: Sch. 5 para. 20 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-0a778729125ae7808fa08436d8c1467a]: Commencement: Sch. 5 para. 21 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-0a778729125ae7808fa08436d8c1467a]: Commencement: Sch. 5 para. 21 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-205b15944743b2d31ca0868af650c4e4]: Commencement: Sch. 5 para. 22 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-205b15944743b2d31ca0868af650c4e4]: Commencement: Sch. 5 para. 22 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-58ad7b534620fbb172885bd901ded44c]: Textual amendment: Words in [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/22) substituted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2004/3199/schedule/paragraph/6)
+[^c-58ad7b534620fbb172885bd901ded44c]: Textual amendment: Words in [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/22) substituted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2004/3199/schedule/paragraph/6)
 
-[^key-0e949c008e6ad2f931be1eb2927fef3a]: Commencement: Sch. 5 para. 23 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-0e949c008e6ad2f931be1eb2927fef3a]: Commencement: Sch. 5 para. 23 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-45ba03eb847b3dcf1c9638c796b0fadd]: Commencement: Sch. 5 para. 24 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-45ba03eb847b3dcf1c9638c796b0fadd]: Commencement: Sch. 5 para. 24 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-db3a03be3201b7832e3ad745166a7257]: Commencement: Sch. 5 para. 25 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-db3a03be3201b7832e3ad745166a7257]: Commencement: Sch. 5 para. 25 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-3e919410cf4feb98aecfbc412cee9faf]: Commencement: Sch. 5 para. 26 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-3e919410cf4feb98aecfbc412cee9faf]: Commencement: Sch. 5 para. 26 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-990af21d9d23764c25fed353a089f05c]: Commencement: Sch. 5 para. 27 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-990af21d9d23764c25fed353a089f05c]: Commencement: Sch. 5 para. 27 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-2c1fc947c36878f00db6a70e03dd800d]: Commencement: Sch. 5 para. 28 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-2c1fc947c36878f00db6a70e03dd800d]: Commencement: Sch. 5 para. 28 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-26ef6e3f3dd4533f97a70d2508fdc583]: Commencement: Sch. 5 para. 29 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-26ef6e3f3dd4533f97a70d2508fdc583]: Commencement: Sch. 5 para. 29 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-c7459b7441f1659fe44a03a34d5b2ddf]: Commencement: Sch. 5 para. 30 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-c7459b7441f1659fe44a03a34d5b2ddf]: Commencement: Sch. 5 para. 30 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-2d4558c055928a8b689fd995a46e4bde]: Commencement: Sch. 5 para. 31 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-2d4558c055928a8b689fd995a46e4bde]: Commencement: Sch. 5 para. 31 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-816e9c6d85f36f1250d31952e9b7d064]: Commencement: Sch. 5 para. 32 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-816e9c6d85f36f1250d31952e9b7d064]: Commencement: Sch. 5 para. 32 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-ff49ba6be1b40a6ad8ada7a88a0dc484]: Commencement: Sch. 5 para. 33 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-ff49ba6be1b40a6ad8ada7a88a0dc484]: Commencement: Sch. 5 para. 33 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-182e7c0605d1b84f08c5909d84e0076f]: Commencement: Sch. 5 para. 34 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-182e7c0605d1b84f08c5909d84e0076f]: Commencement: Sch. 5 para. 34 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
 
-[^key-d8e639b07481f59f988c33293d8e350f]: Textual amendment: [Sch. 5 para. 35](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/35) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/c)
+[^c-d8e639b07481f59f988c33293d8e350f]: Textual amendment: [Sch. 5 para. 35](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/35) omitted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/4/2/c)
 
-[^key-9393f21f7416412b6b4ff06dac3fe3df]: Textual amendment: [Sch. 5 paras. 36](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/36), [37](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/37) inserted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2004/3199/regulation/9)
+[^c-9393f21f7416412b6b4ff06dac3fe3df]: Textual amendment: [Sch. 5 paras. 36](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/36), [37](https://www.legislation.gov.uk/uksi/1998/504/schedule/5/paragraph/37) inserted (31.12.2004 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2004 (S.I. 2004/3199)](https://www.legislation.gov.uk/uksi/2004/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3199/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2004/3199/regulation/9)
 
 [^M_F_36e70c5e-c95d-4b33-ba5f-bf69f1cde21d]: Textual amendment: Sch. 5 para. 38 inserted (29.6.2008 with application in accordance with reg. 1(2) of the amending S.I.) by [The Building Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (S.I. 2008/1143)](https://www.legislation.gov.uk/uksi/2008/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1143/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1143/regulation/4)

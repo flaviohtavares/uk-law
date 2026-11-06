@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Additional required bids in the case of a partial adjacency agreement[^key-8ad9d1bdb7d3f80514e4804d79f8ce1e]
+## 88. Additional required bids in the case of a partial adjacency agreement[^c-8ad9d1bdb7d3f80514e4804d79f8ce1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad9d1bdb7d3f80514e4804d79f8ce1e]: Commencement: Reg. 88 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-8ad9d1bdb7d3f80514e4804d79f8ce1e]: Commencement: Reg. 88 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

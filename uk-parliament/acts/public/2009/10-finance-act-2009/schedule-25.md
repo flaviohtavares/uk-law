@@ -28,27 +28,27 @@ Section 49
 
 #### Application of Part
 
-**1.**[^key-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Value of transferred income stream treated as income
 
-**2.**[^key-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exception: amount otherwise taxed
 
-**3.**[^key-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exception: transfer by way of security
 
-**4.**[^key-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Partnership shares
 
-**5.**[^key-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interpretation
 
-**6.**[^key-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-842bb3402d360dbbbfa36a88037ed524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Non-corporate transferors
 
@@ -218,7 +218,7 @@ Section 49
   - (ii) in Schedule 1, paragraphs 183 and 545, and
 - (i) in CTA 2009, in Schedule 1, paragraphs 214 and 230.
 
-(4)[^key-4a10e8cfd8e575717be97e1245847c08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4a10e8cfd8e575717be97e1245847c08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 2(13) of ITA 2007, omit the “and” at the end of paragraph (d) and insert at the end
 
@@ -250,6 +250,6 @@ Section 49
 
 ## Annotations
 
-[^key-842bb3402d360dbbbfa36a88037ed524]: Textual amendment: [Sch. 25 paras. 1-6](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 717](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/717), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-842bb3402d360dbbbfa36a88037ed524]: Textual amendment: [Sch. 25 paras. 1-6](https://www.legislation.gov.uk/ukpga/2009/10/schedule/25/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 717](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/717), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4a10e8cfd8e575717be97e1245847c08]: Textual amendment: Sch. 25 para. 9(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4a10e8cfd8e575717be97e1245847c08]: Textual amendment: Sch. 25 para. 9(4) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

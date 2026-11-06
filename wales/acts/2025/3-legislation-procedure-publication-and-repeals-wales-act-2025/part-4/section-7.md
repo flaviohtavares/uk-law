@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Minor amendments to the Legislation (Wales) Act 2019[^key-c46a5a9055e1040e4edcc639cb4e76c0]
+## 7. Minor amendments to the Legislation (Wales) Act 2019[^c-c46a5a9055e1040e4edcc639cb4e76c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 contains minor amendments to the [Legislation (Wales) Act 2019 (anaw 
 
 ## Annotations
 
-[^key-c46a5a9055e1040e4edcc639cb4e76c0]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2025/3/section/7) in force at 10.9.2025, see [s. 9(2)(c)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/c)
+[^c-c46a5a9055e1040e4edcc639cb4e76c0]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2025/3/section/7) in force at 10.9.2025, see [s. 9(2)(c)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/c)

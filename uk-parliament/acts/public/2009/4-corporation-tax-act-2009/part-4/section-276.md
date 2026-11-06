@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Power to determine what counts as “mineral royalties”[^key-70cfce67974e7b1cca1e09074be06b44]
+## 276. Power to determine what counts as “mineral royalties”[^c-70cfce67974e7b1cca1e09074be06b44]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70cfce67974e7b1cca1e09074be06b44]: Textual amendment: Ss. 273-276 repealed (with effect in accordance with Sch. 39 para. 44(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/44/1/c)
+[^c-70cfce67974e7b1cca1e09074be06b44]: Textual amendment: Ss. 273-276 repealed (with effect in accordance with Sch. 39 para. 44(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 44(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/44/1/c)

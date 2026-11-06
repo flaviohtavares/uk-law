@@ -29,13 +29,13 @@ Professions Supplementary to Medicine Act 1960
 
 1960 c.66
 
-[^key-73a502d03989580540e5ab845f3048f1]An Act to provide for the establishment of a Council, boards and disciplinary committees for certain professions supplementary to medicine; to provide for the registration of members of those professions, for regulating their professional education and professional conduct and for cancelling registration in cases of misconduct; and for purposes connected with the matters aforesaid.
+[^c-73a502d03989580540e5ab845f3048f1]An Act to provide for the establishment of a Council, boards and disciplinary committees for certain professions supplementary to medicine; to provide for the registration of members of those professions, for regulating their professional education and professional conduct and for cancelling registration in cases of misconduct; and for purposes connected with the matters aforesaid.
 
 \[27th October 1960\]
 
 ## Establishment of a Council and boards for certain professions supplementary to medicine
 
-### 1. The Council for Professions Supplementary to Medicine, and the boards.[^key-73a502d03989580540e5ab845f3048f1]
+### 1. The Council for Professions Supplementary to Medicine, and the boards.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,43 +43,43 @@ Professions Supplementary to Medicine Act 1960
 
 ### 2. Establishment and maintenance of registers.
 
-(1)[^key-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-73a502d03989580540e5ab845f3048f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Qualifications for registration.[^key-73a502d03989580540e5ab845f3048f1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Approval of courses, qualifications and institutions.[^key-73a502d03989580540e5ab845f3048f1]
+### 3. Qualifications for registration.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Supervision of approved institutions and of examinations for approved qualifications.[^key-73a502d03989580540e5ab845f3048f1]
+### 4. Approval of courses, qualifications and institutions.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Use of titles.[^key-73a502d03989580540e5ab845f3048f1]
+### 5. Supervision of approved institutions and of examinations for approved qualifications.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Penalty for false representations, etc., to obtain registration.[^key-73a502d03989580540e5ab845f3048f1]
+### 6. Use of titles.[^c-73a502d03989580540e5ab845f3048f1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Penalty for false representations, etc., to obtain registration.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Disciplinary provisions
 
-### 8. Investigating and disciplinary committees.[^key-73a502d03989580540e5ab845f3048f1]
+### 8. Investigating and disciplinary committees.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Removal of names from register for crime, infamous conduct, etc.[^key-73a502d03989580540e5ab845f3048f1]
+### 9. Removal of names from register for crime, infamous conduct, etc.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,19 +89,19 @@ Professions Supplementary to Medicine Act 1960
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Default powers of the Privy Council.[^key-73a502d03989580540e5ab845f3048f1]
+### 11. Default powers of the Privy Council.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Exercise of powers conferred on the Privy Council.[^key-73a502d03989580540e5ab845f3048f1]
+### 12. Exercise of powers conferred on the Privy Council.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Notices, etc.[^key-73a502d03989580540e5ab845f3048f1]
+### 13. Notices, etc.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Short title, extent and commencement.[^key-73a502d03989580540e5ab845f3048f1]
+### 14. Short title, extent and commencement.[^c-73a502d03989580540e5ab845f3048f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -405,7 +405,7 @@ and may contain such incidental and supplementary provisions as the Lord Chancel
 
 ## Annotations
 
-[^key-73a502d03989580540e5ab845f3048f1]: Textual amendment: Act repealed (1.7.1999 for the repeal of s. 10, 11.5.2001 for the repeals of Sch. 1 para. 16(2) and Sch. 2 para. 1(1) (for specified purposes), 1.4.2002 for the repeals of ss. 1, 2(1)-(4), 3-5, 8, 9(1)(2)(5)(6), 11, 12, Sch. 1 and Sch. 2, 9.7.2003 for the repeals ss. 6, 7, 9(3)(4), 13 and 1.8.2004 in so far as not aready in force) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/60/3), [67(1)(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2001/1985](https://www.legislation.gov.uk/uksi/2001/1985), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1985/article/2/2/b); [S.I. 2002/1167](https://www.legislation.gov.uk/uksi/2002/1167), [arts. 2](https://www.legislation.gov.uk/uksi/2002/1167/article/2), [4](https://www.legislation.gov.uk/uksi/2002/1167/article/4), [5](https://www.legislation.gov.uk/uksi/2002/1167/article/5); [S.I. 2003/1689](https://www.legislation.gov.uk/uksi/2003/1689), [art. 2](https://www.legislation.gov.uk/uksi/2003/1689/article/2); [S.I. 2004/1859](https://www.legislation.gov.uk/uksi/2004/1859), [art. 2](https://www.legislation.gov.uk/uksi/2004/1859/article/2)
+[^c-73a502d03989580540e5ab845f3048f1]: Textual amendment: Act repealed (1.7.1999 for the repeal of s. 10, 11.5.2001 for the repeals of Sch. 1 para. 16(2) and Sch. 2 para. 1(1) (for specified purposes), 1.4.2002 for the repeals of ss. 1, 2(1)-(4), 3-5, 8, 9(1)(2)(5)(6), 11, 12, Sch. 1 and Sch. 2, 9.7.2003 for the repeals ss. 6, 7, 9(3)(4), 13 and 1.8.2004 in so far as not aready in force) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/60/3), [67(1)(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/1/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5); [S.I. 2001/1985](https://www.legislation.gov.uk/uksi/2001/1985), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/1985/article/2/2/b); [S.I. 2002/1167](https://www.legislation.gov.uk/uksi/2002/1167), [arts. 2](https://www.legislation.gov.uk/uksi/2002/1167/article/2), [4](https://www.legislation.gov.uk/uksi/2002/1167/article/4), [5](https://www.legislation.gov.uk/uksi/2002/1167/article/5); [S.I. 2003/1689](https://www.legislation.gov.uk/uksi/2003/1689), [art. 2](https://www.legislation.gov.uk/uksi/2003/1689/article/2); [S.I. 2004/1859](https://www.legislation.gov.uk/uksi/2004/1859), [art. 2](https://www.legislation.gov.uk/uksi/2004/1859/article/2)
 
 [^c625275]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/66/section/10) repealed (1.7.1999) by [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8), [s. 67(3)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/1999/8/schedule/5)
 

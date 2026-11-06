@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Fixed penalty notices and escalating penalty notices[^key-34f9b05434ab81ada886b346d9a23d2d][^key-f0603d20e97b4e2f8e1598258510cd4d]
+## 112. Fixed penalty notices and escalating penalty notices[^c-34f9b05434ab81ada886b346d9a23d2d][^c-f0603d20e97b4e2f8e1598258510cd4d]
 
 *Extent: E+W+S*
 
@@ -91,6 +91,6 @@ After section 77 of the Pensions Act 2004 (penalties relating to sections 72 to 
 
 ## Annotations
 
-[^key-34f9b05434ab81ada886b346d9a23d2d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2021/1/section/112) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/d)
+[^c-34f9b05434ab81ada886b346d9a23d2d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2021/1/section/112) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/d)
 
-[^key-f0603d20e97b4e2f8e1598258510cd4d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2021/1/section/112) in force at 1.10.2021 in so far as not already in force by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/950/regulation/5))
+[^c-f0603d20e97b4e2f8e1598258510cd4d]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2021/1/section/112) in force at 1.10.2021 in so far as not already in force by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/950/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21C. Other reports by sub-groups to Belfast district policing partnership[^key-59738e25fc09d5b5076c310d379af496]
+## 21C. Other reports by sub-groups to Belfast district policing partnership[^c-59738e25fc09d5b5076c310d379af496]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59738e25fc09d5b5076c310d379af496]: Textual amendment: [S. 21C](https://www.legislation.gov.uk/ukpga/2000/32/section/21C) inserted (4.9.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/8); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)
+[^c-59738e25fc09d5b5076c310d379af496]: Textual amendment: [S. 21C](https://www.legislation.gov.uk/ukpga/2000/32/section/21C) inserted (4.9.2007) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 19](https://www.legislation.gov.uk/ukpga/2003/6/section/19), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2003/6/schedule/1/paragraph/8); [S.R. 2007/371](https://www.legislation.gov.uk/nisr/2007/371), [art. 2(c)](https://www.legislation.gov.uk/nisr/2007/371/article/2/c)

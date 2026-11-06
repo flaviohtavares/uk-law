@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Voluntary Class 2 contributions not paid within permitted period[^key-1a49cea47c88dc9b2259c245bea5606b]
+## 61. Voluntary Class 2 contributions not paid within permitted period[^c-1a49cea47c88dc9b2259c245bea5606b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a49cea47c88dc9b2259c245bea5606b]: Textual amendment: Reg. 61 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [12](https://www.legislation.gov.uk/uksi/2002/2366/regulation/12)
+[^c-1a49cea47c88dc9b2259c245bea5606b]: Textual amendment: Reg. 61 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [12](https://www.legislation.gov.uk/uksi/2002/2366/regulation/12)

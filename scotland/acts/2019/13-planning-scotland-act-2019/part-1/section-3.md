@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Open space strategy[^key-d5b624a391f0109e949f698be3e2e0db]
+## 3. Open space strategy[^c-d5b624a391f0109e949f698be3e2e0db]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b624a391f0109e949f698be3e2e0db]: Commencement: S. 3 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-d5b624a391f0109e949f698be3e2e0db]: Commencement: S. 3 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

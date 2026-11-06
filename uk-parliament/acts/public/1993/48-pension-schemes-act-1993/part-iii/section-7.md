@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Issue of contracting-out certificates.[^key-11006a6d40ab7019f2901474f1a260eb]
+## 7. Issue of contracting-out certificates.[^c-11006a6d40ab7019f2901474f1a260eb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11006a6d40ab7019f2901474f1a260eb]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1993/48/section/7) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/5) (with a temp. saving in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(1)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2/a))
+[^c-11006a6d40ab7019f2901474f1a260eb]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1993/48/section/7) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/5) (with a temp. saving in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(1)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2/a))

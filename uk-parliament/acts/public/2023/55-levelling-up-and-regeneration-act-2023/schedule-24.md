@@ -24,7 +24,7 @@ Section 252(10)
 
 ### Part 1 — Statutory Instruments and statutory Rules
 
-**1.**[^key-0d17eb8f59b89855025f9c2da4e1eae0] (1) Any power to make regulations under Chapter 1 of Part 3 or Part 6—
+**1.**[^c-0d17eb8f59b89855025f9c2da4e1eae0] (1) Any power to make regulations under Chapter 1 of Part 3 or Part 6—
 
 - (a) so far as exercisable by the Secretary of State acting alone or by the Secretary of State acting jointly with a devolved authority, is exercisable by statutory instrument,
 - (b) so far as exercisable by the Welsh Ministers acting alone, is exercisable by statutory instrument, and
@@ -34,7 +34,7 @@ Section 252(10)
 
 ### Part 2 — Scrutiny of regulations
 
-#### 2. Scrutiny of regulations made by Secretary of State or devolved authority acting alone[^key-bf31100ecc956d24dc3cd31ab12003c1]
+#### 2. Scrutiny of regulations made by Secretary of State or devolved authority acting alone[^c-bf31100ecc956d24dc3cd31ab12003c1]
 
 (1) This paragraph applies to regulations made by the Secretary of State, or a devolved authority, acting alone which contain provision (whether alone or with other provision) under—
 
@@ -52,7 +52,7 @@ Section 252(10)
 
 (5) Regulations to which this paragraph applies of a Northern Ireland department acting alone may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-**3.**[^key-bfd13615badc5175a0d6b994c5857011] (1) This paragraph applies to regulations made by the Secretary of State, or a devolved authority, acting alone which contain provision (whether alone or with other provision) under Chapter 1 of Part 3 or Part 6 and which do not fall within paragraph 2.
+**3.**[^c-bfd13615badc5175a0d6b994c5857011] (1) This paragraph applies to regulations made by the Secretary of State, or a devolved authority, acting alone which contain provision (whether alone or with other provision) under Chapter 1 of Part 3 or Part 6 and which do not fall within paragraph 2.
 
 (2) A statutory instrument containing regulations to which this paragraph applies of the Secretary of State acting alone is subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -62,14 +62,14 @@ Section 252(10)
 
 (5) Regulations to which this paragraph applies of a Northern Ireland department acting alone are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954 as if they were a statutory instrument within the meaning of that Act.
 
-**4.**[^key-0243df944f9cadd14aa870f76f07a6d6] Paragraph 3 does not apply if—
+**4.**[^c-0243df944f9cadd14aa870f76f07a6d6] Paragraph 3 does not apply if—
 
 - (a) a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament;
 - (b) a draft of the Scottish statutory instrument has been laid before, and approved by resolution of, the Scottish Parliament;
 - (c) a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru; or
 - (d) a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-#### 5. Scrutiny of regulations made by the Secretary of State and devolved authority acting jointly[^key-793c8b6087d5b2acdbbab1eb2616b118]
+#### 5. Scrutiny of regulations made by the Secretary of State and devolved authority acting jointly[^c-793c8b6087d5b2acdbbab1eb2616b118]
 
 (1) This paragraph applies to regulations of the Secretary of State acting jointly with a devolved authority which contain provision (whether alone or with other provision) under—
 
@@ -93,7 +93,7 @@ Section 252(10)
 
 (8) Regulations to which this paragraph applies which are made jointly with a Northern Ireland department may not be made unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-**6.**[^key-db9d5f475e8bf4b4e8439bd035af3bae] (1) This paragraph applies to regulations of the Secretary of State acting jointly with a devolved authority which contain provision (whether alone or with other provision) under Chapter 1 of Part 3 or Part 6 and which do not fall within paragraph 5.
+**6.**[^c-db9d5f475e8bf4b4e8439bd035af3bae] (1) This paragraph applies to regulations of the Secretary of State acting jointly with a devolved authority which contain provision (whether alone or with other provision) under Chapter 1 of Part 3 or Part 6 and which do not fall within paragraph 5.
 
 (2) The procedure provided for by sub-paragraph (3) applies in relation to regulations to which this paragraph applies as well as any other procedure provided for by this paragraph which is applicable in relation to the regulations concerned.
 
@@ -132,9 +132,9 @@ nothing further is to be done under the instrument after the date of the resolut
 - (b) a Measure or Act of Senedd Cymru, or
 - (c) Northern Ireland legislation.
 
-**7.**[^key-90d9838e37155c03bf2f973467308467] Paragraph 6 does not apply if a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+**7.**[^c-90d9838e37155c03bf2f973467308467] Paragraph 6 does not apply if a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-#### 8. Interpretation[^key-f1f80a7641b38d680acf5437359e072a]
+#### 8. Interpretation[^c-f1f80a7641b38d680acf5437359e072a]
 
 In this Schedule “**devolved authority**” means—
 
@@ -144,18 +144,18 @@ In this Schedule “**devolved authority**” means—
 
 ## Annotations
 
-[^key-0d17eb8f59b89855025f9c2da4e1eae0]: Commencement: Sch. 24 para. 1 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-0d17eb8f59b89855025f9c2da4e1eae0]: Commencement: Sch. 24 para. 1 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-bf31100ecc956d24dc3cd31ab12003c1]: Commencement: Sch. 24 para. 2 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-bf31100ecc956d24dc3cd31ab12003c1]: Commencement: Sch. 24 para. 2 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-bfd13615badc5175a0d6b994c5857011]: Commencement: Sch. 24 para. 3 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-bfd13615badc5175a0d6b994c5857011]: Commencement: Sch. 24 para. 3 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-0243df944f9cadd14aa870f76f07a6d6]: Commencement: Sch. 24 para. 4 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-0243df944f9cadd14aa870f76f07a6d6]: Commencement: Sch. 24 para. 4 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-793c8b6087d5b2acdbbab1eb2616b118]: Commencement: Sch. 24 para. 5 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-793c8b6087d5b2acdbbab1eb2616b118]: Commencement: Sch. 24 para. 5 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-db9d5f475e8bf4b4e8439bd035af3bae]: Commencement: Sch. 24 para. 6 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-db9d5f475e8bf4b4e8439bd035af3bae]: Commencement: Sch. 24 para. 6 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-90d9838e37155c03bf2f973467308467]: Commencement: Sch. 24 para. 7 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-90d9838e37155c03bf2f973467308467]: Commencement: Sch. 24 para. 7 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
 
-[^key-f1f80a7641b38d680acf5437359e072a]: Commencement: Sch. 24 para. 8 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-f1f80a7641b38d680acf5437359e072a]: Commencement: Sch. 24 para. 8 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

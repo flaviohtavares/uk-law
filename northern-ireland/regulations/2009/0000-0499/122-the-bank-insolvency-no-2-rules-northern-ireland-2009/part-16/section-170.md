@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 170. General rule as to priority[^key-220492f8b4758b06915e52113abeff38]
+## 170. General rule as to priority[^c-220492f8b4758b06915e52113abeff38]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-220492f8b4758b06915e52113abeff38]: Commencement: Rule 170 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-220492f8b4758b06915e52113abeff38]: Commencement: Rule 170 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00019]: Footnote: Rule 4.228 was amended by the Insolvency (Amendment) Rules (Northern Ireland) 2008 ([S.R. 2008 No. 118](https://www.legislation.gov.uk/nisr/2008/118)).

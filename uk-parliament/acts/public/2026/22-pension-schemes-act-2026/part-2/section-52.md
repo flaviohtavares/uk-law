@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Provision and gathering of information[^key-b44262234a31717337c7f942fb79112a]
+## 52. Provision and gathering of information[^c-b44262234a31717337c7f942fb79112a]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ which may for example include information about the member’s financial circums
 
 ## Annotations
 
-[^key-b44262234a31717337c7f942fb79112a]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-b44262234a31717337c7f942fb79112a]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

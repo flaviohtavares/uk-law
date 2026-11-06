@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Students becoming eligible in the course of an academic year[^key-fb0e1ab872004a451b3bef7a02cf5b7f]
+## 16. Students becoming eligible in the course of an academic year[^c-fb0e1ab872004a451b3bef7a02cf5b7f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ the student may qualify for a fee loan in accordance with this Part in respect o
 
 ## Annotations
 
-[^key-fb0e1ab872004a451b3bef7a02cf5b7f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/1986/regulation/16) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2023/74/regulation/15/1)
+[^c-fb0e1ab872004a451b3bef7a02cf5b7f]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/1986/regulation/16) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2023/74/regulation/15/1)

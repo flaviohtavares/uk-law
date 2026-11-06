@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Contaminants in Food (Wales) (Amendment) Regulations 2009 (revoked)[^key-3736bda35f58dc21ad8b1ba97009978e]
+The Contaminants in Food (Wales) (Amendment) Regulations 2009 (revoked)[^c-3736bda35f58dc21ad8b1ba97009978e]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 27 November 2009
 
-[^key-3736bda35f58dc21ad8b1ba97009978e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3736bda35f58dc21ad8b1ba97009978e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-3736bda35f58dc21ad8b1ba97009978e]
+## 1. Title, commencement and application[^c-3736bda35f58dc21ad8b1ba97009978e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Contaminants in Food (Wales) Regulations 2009[^key-3736bda35f58dc21ad8b1ba97009978e]
+## 2. Amendment of the Contaminants in Food (Wales) Regulations 2009[^c-3736bda35f58dc21ad8b1ba97009978e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3736bda35f58dc21ad8b1ba97009978e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3736bda35f58dc21ad8b1ba97009978e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3736bda35f58dc21ad8b1ba97009978e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3736bda35f58dc21ad8b1ba97009978e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3736bda35f58dc21ad8b1ba97009978e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2939) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-3736bda35f58dc21ad8b1ba97009978e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2939) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

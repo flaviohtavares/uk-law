@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Regulations under section 33: appropriate period[^key-198132f1a9ecce2c839e3cba0b8e7d1d]
+## 35. Regulations under section 33: appropriate period[^c-198132f1a9ecce2c839e3cba0b8e7d1d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers may by regulations modify section 33(5)(a) by amending—
 
 ## Annotations
 
-[^key-198132f1a9ecce2c839e3cba0b8e7d1d]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2019/14/section/35) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-198132f1a9ecce2c839e3cba0b8e7d1d]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2019/14/section/35) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

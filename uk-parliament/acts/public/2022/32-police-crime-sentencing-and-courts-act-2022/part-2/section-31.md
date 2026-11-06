@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Delegating functions[^key-7e536516e11ef753decd776e318c7489]
+## 31. Delegating functions[^c-7e536516e11ef753decd776e318c7489]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ to agree that one of them carry out on behalf of the other one or more of the fu
 
 ## Annotations
 
-[^key-7e536516e11ef753decd776e318c7489]: Commencement: S. 31 in force at Royal Assent, see [s. 208(4)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/i)
+[^c-7e536516e11ef753decd776e318c7489]: Commencement: S. 31 in force at Royal Assent, see [s. 208(4)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/i)

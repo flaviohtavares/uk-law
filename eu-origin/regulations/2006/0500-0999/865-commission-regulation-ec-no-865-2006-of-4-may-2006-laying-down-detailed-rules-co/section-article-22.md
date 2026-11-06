@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Without prejudice to Article 53, the importer or his authorised representative shall surrender all the following documents to the border customs office at the point of introduction into Great Britain[^key-4f46fcec8dc8e8c9c586d863c034512b], designated in accordance with Article 12(1) of Regulation (EC) No 338/97:
+Without prejudice to Article 53, the importer or his authorised representative shall surrender all the following documents to the border customs office at the point of introduction into Great Britain[^c-4f46fcec8dc8e8c9c586d863c034512b], designated in accordance with Article 12(1) of Regulation (EC) No 338/97:
 
 - ((1)) the original import permit (form 1);
 - ((2)) the ‘copy for the holder’ (form 2);
@@ -30,4 +30,4 @@ Where appropriate, the importer or his authorised representative shall indicate 
 
 ## Annotations
 
-[^key-4f46fcec8dc8e8c9c586d863c034512b]: Textual amendment: Words in [Art. 22](https://www.legislation.gov.uk/eur/2006/865/article/22) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(17)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/17)
+[^c-4f46fcec8dc8e8c9c586d863c034512b]: Textual amendment: Words in [Art. 22](https://www.legislation.gov.uk/eur/2006/865/article/22) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(17)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/17)

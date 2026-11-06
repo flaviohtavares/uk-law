@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Decision 2013/84/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the tanning of hides and skins[^key-e17cbd36130e8f26f91bb81d900bea16]
+## 9. Decision 2013/84/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the tanning of hides and skins[^c-e17cbd36130e8f26f91bb81d900bea16]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e17cbd36130e8f26f91bb81d900bea16]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e17cbd36130e8f26f91bb81d900bea16]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

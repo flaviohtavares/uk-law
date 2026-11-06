@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Assured tenancies: duty to consider delay to eviction[^key-365eae1d308ad70c1f22dd345a8647b7]
+## 30. Assured tenancies: duty to consider delay to eviction[^c-365eae1d308ad70c1f22dd345a8647b7]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-365eae1d308ad70c1f22dd345a8647b7]: Commencement: S. 30 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-365eae1d308ad70c1f22dd345a8647b7]: Commencement: S. 30 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

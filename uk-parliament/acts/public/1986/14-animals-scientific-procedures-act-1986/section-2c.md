@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2C. Licensing of undertakings[^key-235fc56498efb44172b600a2a4c60a7d]
+## 2C. Licensing of undertakings[^c-235fc56498efb44172b600a2a4c60a7d]
 
 *Extent: E+W+S+N.I.*
 
 (1) A licence under this section is a licence granted by the Secretary of State which authorises the holder to carry on at a specified place an undertaking which involves the activities mentioned in subsection (2) of section 2B or such of those activities as are specified in the licence.
 
-(2) The Secretary of State may grant a licence under this section only if satisfied that the person who is to be the holder and the place that is to be specified are in compliance with the requirements of this Act[^key-c382a3f735ac815ef141f2bb37ddeb1e].
+(2) The Secretary of State may grant a licence under this section only if satisfied that the person who is to be the holder and the place that is to be specified are in compliance with the requirements of this Act[^c-c382a3f735ac815ef141f2bb37ddeb1e].
 
 (3) An application for a licence under this section shall be made to the Secretary of State in such form and shall be supported by such information as the Secretary of State may reasonably require.
 
@@ -56,6 +56,6 @@ the Secretary of State shall vary the licence as appropriate (or if necessary re
 
 ## Annotations
 
-[^key-235fc56498efb44172b600a2a4c60a7d]: Textual amendment: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/3039/regulation/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-235fc56498efb44172b600a2a4c60a7d]: Textual amendment: Ss. 2B, 2C and cross-heading inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2012/3039/regulation/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
 
-[^key-c382a3f735ac815ef141f2bb37ddeb1e]: Textual amendment: Words in s. 2C(2) substituted (31.12.2020) by [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c382a3f735ac815ef141f2bb37ddeb1e]: Textual amendment: Words in s. 2C(2) substituted (31.12.2020) by [The Animals (Scientific Procedures) Act 1986 (EU Exit) Regulations 2019 (S.I. 2019/72)](https://www.legislation.gov.uk/uksi/2019/72), [regs. 1](https://www.legislation.gov.uk/uksi/2019/72/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/72/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

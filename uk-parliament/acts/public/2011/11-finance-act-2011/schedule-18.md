@@ -46,7 +46,7 @@ Section 67
 
 **4.** (1) Paragraph 7 (trivial commutation lump sum) is amended as follows.
 
-(2)[^key-56d6856377d0c87ee18978c2c6b81020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-56d6856377d0c87ee18978c2c6b81020] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After that sub-paragraph insert—
 
@@ -62,13 +62,13 @@ Section 67
 
 **6.** (1) Paragraph 20 (trivial commutation lump sum death benefit) is amended as follows.
 
-(2)[^key-2b2c3ffd7f056c20fd77558e659be05e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2b2c3ffd7f056c20fd77558e659be05e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After that sub-paragraph insert—
 
 > (3) The Treasury may by order substitute for the amount for the time being specified in sub-paragraph (2) such larger amount as is specified in the order.
 
-**7.**[^key-d61ee57beea85301448fcd3ad6d6221a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d61ee57beea85301448fcd3ad6d6221a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** Schedule 36 (transitional provision) is amended as follows.
 
@@ -104,24 +104,24 @@ Section 67
 **14.** (1) This paragraph applies on and after 6 April 2012 in the case of an individual—
 
 - (a) who has one or more arrangements under a registered pension scheme on that date,
-- (b) in relation to whom paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on that date[^key-ed6c82af4c0c0ff941d4a4d90c37a766], and
+- (b) in relation to whom paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on that date[^c-ed6c82af4c0c0ff941d4a4d90c37a766], and
 - (c) in relation to whom paragraph 12 of that Schedule (enhanced protection) does not apply on that date,
 
 if notice of intention to rely on it is given to an officer of Revenue and Customs.
 
-(1A)[^key-e5dec03d13f820d4cfd9956ef76009b8] This paragraph also applies on or after 6 April 2012 in the case of an individual—
+(1A)[^c-e5dec03d13f820d4cfd9956ef76009b8] This paragraph also applies on or after 6 April 2012 in the case of an individual—
 
 - (a) who, on that date—
   - (i) has one or more arrangements under a relieved non-UK pension scheme of which the individual is a relieved member, and
   - (ii) is not a member of a registered pension scheme,
-- (b) in relation to whom paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on that date[^key-99b1d00404a7a3627306770a9a9fce61], and
+- (b) in relation to whom paragraph 7 of Schedule 36 to FA 2004 (primary protection) does not apply on that date[^c-99b1d00404a7a3627306770a9a9fce61], and
 - (c) in relation to whom paragraph 12 of that Schedule (enhanced protection) does not apply on that date,
 
 if notice of intention to rely on it is given to an officer of Revenue and Customs.
 
-(2)[^key-45a8950deb2ec902221675b6b4f07a56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-45a8950deb2ec902221675b6b4f07a56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f15d07c496df250439b04a7d6e76591e] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if—
+(3)[^c-f15d07c496df250439b04a7d6e76591e] Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) has effect in relation to the individual as if—
 
 - (a) the amount specified in section 637P of that Act (individual’s lump sum allowance) were £450,000, and
 - (b) the amount specified in section 637R of that Act (individual’s lump sum and death benefit allowance) were—
@@ -130,14 +130,14 @@ if notice of intention to rely on it is given to an officer of Revenue and Custo
 
 (3A) For the purposes of paragraph 20H of Schedule 36 to FA 2004, the individual’s “protected lump sum and death benefit allowance” is £1,800,000.
 
-(4) But this paragraph ceases to apply if the notice under sub-paragraph (1) or (as the case may be) sub-paragraph (1A) is given on or after 15 March 2023 and,[^key-99e1b04c3b4ff7f2a076d46f56a01943] on or after 6 April 2012—
+(4) But this paragraph ceases to apply if the notice under sub-paragraph (1) or (as the case may be) sub-paragraph (1A) is given on or after 15 March 2023 and,[^c-99e1b04c3b4ff7f2a076d46f56a01943] on or after 6 April 2012—
 
 - (a) there is benefit accrual in relation to the individual under an arrangement under a registered pension scheme,
 - (b) there is an impermissible transfer into any arrangement under a registered pension scheme relating to the individual,
 - (c) a transfer of sums or assets held for the purposes of, or representing accrued rights under, any such arrangement is made that is not a permitted transfer, or
 - (d) an arrangement relating to the individual is made under a registered pension scheme otherwise than in permitted circumstances.
 
-(4A)[^key-718de7f61a5c35f98443e5e35f297d64] Subject to sub-paragraphs (4B) to (4E), sub-paragraph (4) applies in relation to an individual who is a relieved member of a relieved non-UK pension scheme as if the scheme were a registered pension scheme; and the other sub-paragraphs of this paragraph apply accordingly.
+(4A)[^c-718de7f61a5c35f98443e5e35f297d64] Subject to sub-paragraphs (4B) to (4E), sub-paragraph (4) applies in relation to an individual who is a relieved member of a relieved non-UK pension scheme as if the scheme were a registered pension scheme; and the other sub-paragraphs of this paragraph apply accordingly.
 
 (4B) In relation to an arrangement under a relieved non-UK pension scheme, in sub-paragraph (4) the reference to 6 April 2012 is to be read as a reference to 6 April 2013.
 
@@ -171,7 +171,7 @@ and, in such a case, the benefit accrual is treated as occurring immediately bef
 
 where—
 
-LS is [^key-5806f0b7b8b7f97a814f6941ab0e0bbe]... the lump sum to which the individual would, on the valuation assumptions, be entitled under the arrangement (otherwise than by commutation of pension);
+LS is [^c-5806f0b7b8b7f97a814f6941ab0e0bbe]... the lump sum to which the individual would, on the valuation assumptions, be entitled under the arrangement (otherwise than by commutation of pension);
 
 P is the annual rate of the pension which would, on the valuation assumptions, be payable to the individual under the arrangement;
 
@@ -187,11 +187,11 @@ RVF is the relevant valuation factor.
 
 (10) Sub-paragraphs (2A) to (2C) of paragraph 12 of Schedule 36 to FA 2004 (“permitted circumstances”) apply for the purposes of sub-paragraph (4)(d).
 
-(11) Paragraph 14 of Schedule 36 to FA 2004 (when a relevant contribution is paid under an arrangement) applies for the purposes of sub-paragraph (5)(a)and (c)(i)[^key-ad78eeef4151d1ec215cae72fee74c69].
+(11) Paragraph 14 of Schedule 36 to FA 2004 (when a relevant contribution is paid under an arrangement) applies for the purposes of sub-paragraph (5)(a)and (c)(i)[^c-ad78eeef4151d1ec215cae72fee74c69].
 
 (12) Increases in the value of the individual's rights under an arrangement are to be ignored for the purposes of sub-paragraph (5)(b) or (c)(ii) if in no tax year do they exceed the relevant percentage.
 
-(13)[^key-90a0ada89230c9bf36156ab83377877f] The relevant percentage, in relation to a tax year, means—
+(13)[^c-90a0ada89230c9bf36156ab83377877f] The relevant percentage, in relation to a tax year, means—
 
 - (a) where the arrangement (or a predecessor arrangement) includes provision for the value of the rights of the individual to increase during the tax year at an annual rate specified in the rules of the pension scheme (or a predecessor registered pension scheme) on 9 December 2010—
   - (i) the percentage specified (or, where more than one arrangement includes such provision, the higher or highest of the percentages specified), plus
@@ -230,17 +230,17 @@ Where both paragraphs (a) and (b) would otherwise apply giving different percent
 
 (14D) For the purposes of sub-paragraph (14B)(c) the 12 month period must end during the 12 month period preceding the month in which the increase in the value of the rights occurs.
 
-(15)[^key-82c3b1ace6eb8ff900776715849469cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-82c3b1ace6eb8ff900776715849469cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16)[^key-82c3b1ace6eb8ff900776715849469cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-82c3b1ace6eb8ff900776715849469cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-82c3b1ace6eb8ff900776715849469cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-82c3b1ace6eb8ff900776715849469cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (18) Expressions used in this paragraph and Part 4 of FA 2004 have the same meaning in this paragraph as in that Part.
 
-(19)[^key-01e9c651ee9834bd1e787c3781192740] In particular, references to a relieved non-UK pension scheme or a relieved member of such a scheme are to be read in accordance with paragraphs 13(3) and (4) and 18 of Schedule 34 to FA 2004 (application of lifetime allowance charge provisions to members of overseas pension schemes).
+(19)[^c-01e9c651ee9834bd1e787c3781192740] In particular, references to a relieved non-UK pension scheme or a relieved member of such a scheme are to be read in accordance with paragraphs 13(3) and (4) and 18 of Schedule 34 to FA 2004 (application of lifetime allowance charge provisions to members of overseas pension schemes).
 
-#### 15.[^key-cd28db6a5ce9b7e39be1d0ad370bb423]
+#### 15.[^c-cd28db6a5ce9b7e39be1d0ad370bb423]
 
 (1) The Commissioners for Her Majesty's Revenue and Customs may by regulations amend paragraph 14.
 
@@ -269,34 +269,34 @@ Where both paragraphs (a) and (b) would otherwise apply giving different percent
 
 ## Annotations
 
-[^key-56d6856377d0c87ee18978c2c6b81020]: Textual amendment: [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/4/2) omitted (with effect in accordance with s. 42(8) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/3)
+[^c-56d6856377d0c87ee18978c2c6b81020]: Textual amendment: [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/4/2) omitted (with effect in accordance with s. 42(8) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 42(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/42/3)
 
-[^key-2b2c3ffd7f056c20fd77558e659be05e]: Textual amendment: [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/6/2) omitted (with effect in accordance with Sch. 1 para. 74(6) of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 74(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/74/5)
+[^c-2b2c3ffd7f056c20fd77558e659be05e]: Textual amendment: [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/6/2) omitted (with effect in accordance with Sch. 1 para. 74(6) of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 74(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/74/5)
 
-[^key-d61ee57beea85301448fcd3ad6d6221a]: Textual amendment: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/7) omitted (17.12.2014) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 75(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/75/2)
+[^c-d61ee57beea85301448fcd3ad6d6221a]: Textual amendment: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/7) omitted (17.12.2014) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 75(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/75/2)
 
-[^key-ed6c82af4c0c0ff941d4a4d90c37a766]: Textual amendment: Words in Sch. 18 para. 14(1)(b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 90(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/90/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-ed6c82af4c0c0ff941d4a4d90c37a766]: Textual amendment: Words in Sch. 18 para. 14(1)(b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 90(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/90/2), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-e5dec03d13f820d4cfd9956ef76009b8]: Textual amendment: Sch. 18 para. 14(1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/2)
+[^c-e5dec03d13f820d4cfd9956ef76009b8]: Textual amendment: Sch. 18 para. 14(1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/2)
 
-[^key-99b1d00404a7a3627306770a9a9fce61]: Textual amendment: Words in Sch. 18 para. 14(1A)(b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 90(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/90/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
+[^c-99b1d00404a7a3627306770a9a9fce61]: Textual amendment: Words in Sch. 18 para. 14(1A)(b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 90(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/90/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125))
 
-[^key-45a8950deb2ec902221675b6b4f07a56]: Textual amendment: Sch. 18 para. 14(2) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/a)
+[^c-45a8950deb2ec902221675b6b4f07a56]: Textual amendment: Sch. 18 para. 14(2) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/a)
 
-[^key-f15d07c496df250439b04a7d6e76591e]: Textual amendment: [Sch. 18 para. 14(3)(3A)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/14/3/3A) substituted for Sch. 18 para. 14(3) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [13](https://www.legislation.gov.uk/uksi/2024/1012/regulation/13)
+[^c-f15d07c496df250439b04a7d6e76591e]: Textual amendment: [Sch. 18 para. 14(3)(3A)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/14/3/3A) substituted for Sch. 18 para. 14(3) (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2/3), [13](https://www.legislation.gov.uk/uksi/2024/1012/regulation/13)
 
-[^key-99e1b04c3b4ff7f2a076d46f56a01943]: Textual amendment: Words in Sch. 18 para. 14(4) inserted (for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 23(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/5)[(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/8)
+[^c-99e1b04c3b4ff7f2a076d46f56a01943]: Textual amendment: Words in Sch. 18 para. 14(4) inserted (for the tax year 2023-24 and subsequent tax years) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 23(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/5)[(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/23/8)
 
-[^key-718de7f61a5c35f98443e5e35f297d64]: Textual amendment: Sch. 18 para. 14(4A)-(4E) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/3)
+[^c-718de7f61a5c35f98443e5e35f297d64]: Textual amendment: Sch. 18 para. 14(4A)-(4E) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/3)
 
-[^key-5806f0b7b8b7f97a814f6941ab0e0bbe]: Textual amendment: Words in Sch. 18 para. 14(7) omitted (6.4.2012 retrospective) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/b)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/4)
+[^c-5806f0b7b8b7f97a814f6941ab0e0bbe]: Textual amendment: Words in Sch. 18 para. 14(7) omitted (6.4.2012 retrospective) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/b)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/4)
 
-[^key-ad78eeef4151d1ec215cae72fee74c69]: Textual amendment: Words in Sch. 18 para. 14(11) inserted (6.4.2012 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/c)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/4)
+[^c-ad78eeef4151d1ec215cae72fee74c69]: Textual amendment: Words in Sch. 18 para. 14(11) inserted (6.4.2012 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/c)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/4)
 
-[^key-90a0ada89230c9bf36156ab83377877f]: Textual amendment: Sch. 18 para. 14(13)-(14D) substituted for [Sch. 18](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18) [para. 14(13)(14)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/14/13) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/4)
+[^c-90a0ada89230c9bf36156ab83377877f]: Textual amendment: Sch. 18 para. 14(13)-(14D) substituted for [Sch. 18](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18) [para. 14(13)(14)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/14/13) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/4)
 
-[^key-82c3b1ace6eb8ff900776715849469cd]: Textual amendment: Sch. 18 para. 14(15)-(17) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/a)
+[^c-82c3b1ace6eb8ff900776715849469cd]: Textual amendment: Sch. 18 para. 14(15)-(17) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/2/a)
 
-[^key-01e9c651ee9834bd1e787c3781192740]: Textual amendment: Sch. 18 para. 14(19) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/5)
+[^c-01e9c651ee9834bd1e787c3781192740]: Textual amendment: Sch. 18 para. 14(19) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Registered Pension Schemes and Relieved Non-UK Pension Schemes (Lifetime Allowance Transitional Protection) (Amendment) Regulations 2013 (S.I. 2013/1740)](https://www.legislation.gov.uk/uksi/2013/1740), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2013/1740/regulation/2/5)
 
-[^key-cd28db6a5ce9b7e39be1d0ad370bb423]: Textual amendment: [Sch. 18 paras. 15-17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/15) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/3)
+[^c-cd28db6a5ce9b7e39be1d0ad370bb423]: Textual amendment: [Sch. 18 paras. 15-17](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/15) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 47(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/47/3)

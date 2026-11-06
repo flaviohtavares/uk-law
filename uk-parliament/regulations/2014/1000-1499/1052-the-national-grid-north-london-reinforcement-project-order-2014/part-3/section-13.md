@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Application of the 1991 Act[^key-76e1b41154f5e8d4df136f3a66df2ebf]
+## 13. Application of the 1991 Act[^c-76e1b41154f5e8d4df136f3a66df2ebf]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e1b41154f5e8d4df136f3a66df2ebf]: Commencement: Art. 13 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-76e1b41154f5e8d4df136f3a66df2ebf]: Commencement: Art. 13 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

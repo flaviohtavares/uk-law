@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Health service functions: application of existing limitations on devolution[^key-4a962f8a76801b62b4c0d6ad699655a2]
+## 55. Health service functions: application of existing limitations on devolution[^c-4a962f8a76801b62b4c0d6ad699655a2]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a962f8a76801b62b4c0d6ad699655a2]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2026/23/section/55) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-4a962f8a76801b62b4c0d6ad699655a2]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2026/23/section/55) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**97.**[^key-b7aceb24c762d717a92ff00b52e7f4f2] Schedule 6 makes amendments to other subordinate legislation relating to judicial pensions.
+**97.**[^c-b7aceb24c762d717a92ff00b52e7f4f2] Schedule 6 makes amendments to other subordinate legislation relating to judicial pensions.
 
 ## Annotations
 
-[^key-b7aceb24c762d717a92ff00b52e7f4f2]: Commencement: Art. 97 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-b7aceb24c762d717a92ff00b52e7f4f2]: Commencement: Art. 97 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

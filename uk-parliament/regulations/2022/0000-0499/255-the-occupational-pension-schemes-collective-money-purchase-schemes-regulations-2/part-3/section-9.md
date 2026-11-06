@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Scheme design requirement[^key-83e1c242d5bb8cb17967b928c1342029]
+## 9. Scheme design requirement[^c-83e1c242d5bb8cb17967b928c1342029]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 2 sets out the matters that the Regulator must take into acco
 
 ## Annotations
 
-[^key-83e1c242d5bb8cb17967b928c1342029]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/255/regulation/9) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-83e1c242d5bb8cb17967b928c1342029]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/255/regulation/9) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

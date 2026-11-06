@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Ill-treatment or wilful neglect of children[^key-b697b1e39bd4783b3b59fdff8d8859a3]
+## 22. Ill-treatment or wilful neglect of children[^c-b697b1e39bd4783b3b59fdff8d8859a3]
 
 *Extent: E+W*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b697b1e39bd4783b3b59fdff8d8859a3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2026/21/section/22) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-b697b1e39bd4783b3b59fdff8d8859a3]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2026/21/section/22) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

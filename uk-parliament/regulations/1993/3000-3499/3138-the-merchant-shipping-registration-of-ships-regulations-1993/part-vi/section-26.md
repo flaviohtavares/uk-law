@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Form of declaration of intent[^key-684880539ce440d7a90f156a8c583bee]
+## 26. Form of declaration of intent[^c-684880539ce440d7a90f156a8c583bee]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The declaration of intent shall consist of:—
 
 ## Annotations
 
-[^key-684880539ce440d7a90f156a8c583bee]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1993/3138/regulation/26) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-684880539ce440d7a90f156a8c583bee]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1993/3138/regulation/26) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

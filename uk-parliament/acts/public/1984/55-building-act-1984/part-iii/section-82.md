@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Notices under section 81.[^c928251][^c928261][^key-8bae4aa5297c267dcb4e3783e0d78692][^key-97b9a684c65c03cfc7638ded5f877922][^M_C_f0a0c9a0-8c58-489f-8ff7-b0e60acf9d29]
+## 82. Notices under section 81.[^c928251][^c928261][^c-8bae4aa5297c267dcb4e3783e0d78692][^c-97b9a684c65c03cfc7638ded5f877922][^M_C_f0a0c9a0-8c58-489f-8ff7-b0e60acf9d29]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 - (f) to remove any such sewer or drain, and seal any sewer or drain with which the sewer or drain to be removed is connected,
 - (g) to make good to the satisfaction of the local authority the surface of the ground disturbed by anything done under paragraph (e) or (f) above,
 - (h) to make arrangements with the relevant statutory undertakers for the disconnection of the supply of gas, electricity and water to the building,
-- (i)[^key-a014eabc5e0d42d752780288284ab1c1] to make such arrangements with regard to the burning of structures or materials on the site as may be reasonably required by the fire and rescue authority;
+- (i)[^c-a014eabc5e0d42d752780288284ab1c1] to make such arrangements with regard to the burning of structures or materials on the site as may be reasonably required by the fire and rescue authority;
 - (j) to take such steps relating to the conditions subject to which, the demolition is to be undertaken, and the condition in which the site is to be left on completion of the demolition, as the local authority may consider reasonably necessary for the protection of the public and the preservation of public amenity.
 
 (2) No one shall be required under paragraph (c), (e) or (f) of subsection (1) above to carry out any work in land outside the premises on which the works of demolition are being carried out if he has no right to carry out that work, but, subject to section 101 below, the person undertaking the demolition, or the local authority acting in his default, may break open any street for the purpose of complying with any such requirement.
@@ -62,13 +62,13 @@ and a person who fails to comply with this subsection is liable on summary convi
 
     S. 82: certain functions transferred (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(1)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/1/3), [Sch.2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-8bae4aa5297c267dcb4e3783e0d78692]: Modification: S. 82 excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/6)
+[^c-8bae4aa5297c267dcb4e3783e0d78692]: Modification: S. 82 excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/6)
 
-[^key-97b9a684c65c03cfc7638ded5f877922]: Modification: Ss. 81, 82 excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/1067/article/5/3)
+[^c-97b9a684c65c03cfc7638ded5f877922]: Modification: Ss. 81, 82 excluded (3.11.2022) by [The Network Rail (Huddersfield to Westtown (Dewsbury) Improvements) Order 2022 (S.I. 2022/1067)](https://www.legislation.gov.uk/uksi/2022/1067), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1067/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2022/1067/article/5/3)
 
 [^M_C_f0a0c9a0-8c58-489f-8ff7-b0e60acf9d29]: Modification: S. 82 excluded (18.12.2024) by [The Network Rail (Leeds to Micklefield Enhancements) Order 2024 (S.I. 2024/1284)](https://www.legislation.gov.uk/uksi/2024/1284), [arts. 1](https://www.legislation.gov.uk/uksi/1991/1773/article/1), [5](https://www.legislation.gov.uk/uksi/1991/1773/article/5) (with [Sch. 15](https://www.legislation.gov.uk/uksi/1991/1773/schedule/15))
 
-[^key-a014eabc5e0d42d752780288284ab1c1]: Textual amendment: S. 82(1)(i) substituted (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 33(7)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/33/7) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-a014eabc5e0d42d752780288284ab1c1]: Textual amendment: S. 82(1)(i) substituted (1.10.2006) by [Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 33(7)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/33/7) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
 
 [^c928271]: Modification: S. 82(4) amended by [Gas Act 1986 (c. 44, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1986/44), [s. 67(1)(3)](https://www.legislation.gov.uk/ukpga/1986/44/section/67/1/3), [Sch. 7 para. 2(8)](https://www.legislation.gov.uk/ukpga/1986/44/schedule/7/paragraph/2/8), [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/1986/44/schedule/8/paragraph/33)
 

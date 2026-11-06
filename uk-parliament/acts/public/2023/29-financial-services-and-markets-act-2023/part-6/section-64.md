@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Unauthorised co-ownership AIFs[^key-63302f0a835397bfb92e54afbac30d43][^key-6d10ab4c3c20f9acd02179da5b485890]
+## 64. Unauthorised co-ownership AIFs[^c-63302f0a835397bfb92e54afbac30d43][^c-6d10ab4c3c20f9acd02179da5b485890]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63302f0a835397bfb92e54afbac30d43]: Commencement: S. 64 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-63302f0a835397bfb92e54afbac30d43]: Commencement: S. 64 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6d10ab4c3c20f9acd02179da5b485890]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/29/section/64) in force at 29.10.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/c)
+[^c-6d10ab4c3c20f9acd02179da5b485890]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/29/section/64) in force at 29.10.2024 by [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/c)

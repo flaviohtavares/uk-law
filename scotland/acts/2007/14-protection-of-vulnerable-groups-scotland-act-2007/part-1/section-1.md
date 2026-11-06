@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Duty of Scottish Ministers to keep lists[^key-64616c9b5fc8bb23b83448084a1547e7]
+## 1. Duty of Scottish Ministers to keep lists[^c-64616c9b5fc8bb23b83448084a1547e7]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ only in accordance with this Part.
 
 ## Annotations
 
-[^key-64616c9b5fc8bb23b83448084a1547e7]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/14/section/1) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-64616c9b5fc8bb23b83448084a1547e7]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/14/section/1) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Restrictions on commutation and age at which benefits may be received[^key-557783e64a902fe38b9763d013b6b64a]
+## 284. Restrictions on commutation and age at which benefits may be received[^c-557783e64a902fe38b9763d013b6b64a]
 
 *Extent: E+W+S*
 
@@ -33,18 +33,18 @@ summary: ''
 >
 > the earner shall be treated for the purposes of this section as having any guaranteed minimum under section 14 that he would have had but for that payment.
 
-(3)[^key-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-66fdcbdaf5e3482d97a5395099ea2d26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-557783e64a902fe38b9763d013b6b64a]: Commencement: S. 284 in force at 1.7.2005 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/15), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/2)
+[^c-557783e64a902fe38b9763d013b6b64a]: Commencement: S. 284 in force at 1.7.2005 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(15)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/15), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/2)
 
-[^key-66fdcbdaf5e3482d97a5395099ea2d26]: Textual amendment: [S. 284(3)-(7)](https://www.legislation.gov.uk/ukpga/2004/35/section/284/3) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
+[^c-66fdcbdaf5e3482d97a5395099ea2d26]: Textual amendment: [S. 284(3)-(7)](https://www.legislation.gov.uk/ukpga/2004/35/section/284/3) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)

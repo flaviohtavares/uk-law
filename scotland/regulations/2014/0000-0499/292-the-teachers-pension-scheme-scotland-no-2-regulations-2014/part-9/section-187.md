@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Deduction of contributions from pensionable earnings[^key-f7562198930fa858d5e3ae9805040506]
+## 187. Deduction of contributions from pensionable earnings[^c-f7562198930fa858d5e3ae9805040506]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7562198930fa858d5e3ae9805040506]: Commencement: [Reg. 187](https://www.legislation.gov.uk/ssi/2014/292/regulation/187) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-f7562198930fa858d5e3ae9805040506]: Commencement: [Reg. 187](https://www.legislation.gov.uk/ssi/2014/292/regulation/187) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

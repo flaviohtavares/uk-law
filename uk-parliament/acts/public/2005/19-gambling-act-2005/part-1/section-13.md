@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Betting intermediary[^key-f311b651656672d1f0602415e79144af]
+## 13. Betting intermediary[^c-f311b651656672d1f0602415e79144af]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f311b651656672d1f0602415e79144af]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2005/19/section/13) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-f311b651656672d1f0602415e79144af]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2005/19/section/13) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

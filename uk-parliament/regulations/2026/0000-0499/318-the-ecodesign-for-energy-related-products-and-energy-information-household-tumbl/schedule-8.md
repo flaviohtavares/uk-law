@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 11(1)
 
-**1.**[^key-b3ee8eb0029b897deb41855c38e0a1d8] The product information sheet referred to in regulation 11(1)(b), (e) and (f) is set out in Table 5.
+**1.**[^c-b3ee8eb0029b897deb41855c38e0a1d8] The product information sheet referred to in regulation 11(1)(b), (e) and (f) is set out in Table 5.
 
 Table 5: Product information sheet with repairability information [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_005) [image: see source](https://www.legislation.gov.uk/uksi/2026/318/images/uksi_20260318_en_006)
 
-**2.**[^key-5c9669b8911e1c4a9f6bbe6981d5ca6e] In Table 5 “**guarantee**” means any undertaking to the consumer to either reimburse the price paid, or replace, repair or handle the household tumble dryer in any way if it does not meet the specifications set out in the guarantee statement or in the relevant advertising.
+**2.**[^c-5c9669b8911e1c4a9f6bbe6981d5ca6e] In Table 5 “**guarantee**” means any undertaking to the consumer to either reimburse the price paid, or replace, repair or handle the household tumble dryer in any way if it does not meet the specifications set out in the guarantee statement or in the relevant advertising.
 
 ## Annotations
 
-[^key-b3ee8eb0029b897deb41855c38e0a1d8]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/8/paragraph/1) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-b3ee8eb0029b897deb41855c38e0a1d8]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2026/318/schedule/8/paragraph/1) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
 
-[^key-5c9669b8911e1c4a9f6bbe6981d5ca6e]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/8/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)
+[^c-5c9669b8911e1c4a9f6bbe6981d5ca6e]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2026/318/schedule/8/paragraph/2) in force at 19.9.2026, see [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/e)

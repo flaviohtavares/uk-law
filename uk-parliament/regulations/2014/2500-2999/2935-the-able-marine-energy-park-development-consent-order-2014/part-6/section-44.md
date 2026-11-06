@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Deemed marine licence[^key-d32d14fbd96d0840eccfe43cbe738d53]
+## 44. Deemed marine licence[^c-d32d14fbd96d0840eccfe43cbe738d53]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The undertaker is deemed to be granted a licence under Part 4 (marine licences) 
 
 ## Annotations
 
-[^key-d32d14fbd96d0840eccfe43cbe738d53]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2014/2935/article/44) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-d32d14fbd96d0840eccfe43cbe738d53]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2014/2935/article/44) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
 [^f00030]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).

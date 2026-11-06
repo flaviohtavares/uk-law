@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Amendment in relation to evidence as to age and nationality[^key-f815d91fa3232380de9d898435fc4201]
+## 4. Amendment in relation to evidence as to age and nationality[^c-f815d91fa3232380de9d898435fc4201]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After regulation 24(4) insert—
 
 ## Annotations
 
-[^key-f815d91fa3232380de9d898435fc4201]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/2910/regulation/4) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-f815d91fa3232380de9d898435fc4201]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/2910/regulation/4) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

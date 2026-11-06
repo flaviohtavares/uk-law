@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Notice to creditors and customers[^key-c48e9a5b40740ea82cd49ee458860d0c]
+## 34. Notice to creditors and customers[^c-c48e9a5b40740ea82cd49ee458860d0c]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ summary: ''
 - (a) contains the standard contents,
 - (b) identifies the proceedings,
 - (c) contains the registered office of the institution,
-- (d) is advertised in such manner[^key-9d0f0027807618dd58808adac91c3c68] as the administrator thinks fit,
+- (d) is advertised in such manner[^c-9d0f0027807618dd58808adac91c3c68] as the administrator thinks fit,
 - (e) states that the payment system operator may request in writing a copy of the notice of the result of the meeting free of charge, and states the address to which to write, and
 - (f) is published as soon as is reasonably practicable after the administrator has delivered the notice of the result of the meeting to those who received a copy of the original proposals.
 
 ## Annotations
 
-[^key-c48e9a5b40740ea82cd49ee458860d0c]: Commencement: Rule 34 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c48e9a5b40740ea82cd49ee458860d0c]: Commencement: Rule 34 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-9d0f0027807618dd58808adac91c3c68]: Textual amendment: Word in [rule 34(2)(d)](https://www.legislation.gov.uk/uksi/2021/1178/rule/34/2/d) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/6)
+[^c-9d0f0027807618dd58808adac91c3c68]: Textual amendment: Word in [rule 34(2)(d)](https://www.legislation.gov.uk/uksi/2021/1178/rule/34/2/d) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/6)

@@ -34,7 +34,7 @@ animals, england
 
 animal health
 
-The Salmonella in Turkey Flocks and Slaughter Pigs (Survey Powers) (England) Regulations 2006 (revoked)[^key-9fc764df4da223524431a8cef3239ea2]
+The Salmonella in Turkey Flocks and Slaughter Pigs (Survey Powers) (England) Regulations 2006 (revoked)[^c-9fc764df4da223524431a8cef3239ea2]
 
 Made
 
@@ -48,60 +48,60 @@ Coming into force
 
 17th November 2006
 
-[^key-9fc764df4da223524431a8cef3239ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fc764df4da223524431a8cef3239ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-9fc764df4da223524431a8cef3239ea2]
+## 1. Title, application and commencement[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9fc764df4da223524431a8cef3239ea2]
+## 2. Interpretation[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The competent authority[^key-9fc764df4da223524431a8cef3239ea2]
+## 3. The competent authority[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information in respect of turkey holdings[^key-9fc764df4da223524431a8cef3239ea2]
+## 4. Information in respect of turkey holdings[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information in respect of slaughterhouses[^key-9fc764df4da223524431a8cef3239ea2]
+## 5. Information in respect of slaughterhouses[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of inspectors[^key-9fc764df4da223524431a8cef3239ea2]
+## 6. Powers of inspectors[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-9fc764df4da223524431a8cef3239ea2]
+## 7. Offences[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Penalties[^key-9fc764df4da223524431a8cef3239ea2]
+## 8. Penalties[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Offences by bodies corporate[^key-9fc764df4da223524431a8cef3239ea2]
+## 9. Offences by bodies corporate[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Enforcement[^key-9fc764df4da223524431a8cef3239ea2]
+## 10. Enforcement[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation[^key-9fc764df4da223524431a8cef3239ea2]
+## 11. Revocation[^c-9fc764df4da223524431a8cef3239ea2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9fc764df4da223524431a8cef3239ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fc764df4da223524431a8cef3239ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9fc764df4da223524431a8cef3239ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fc764df4da223524431a8cef3239ea2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9fc764df4da223524431a8cef3239ea2]: Textual amendment: Regulations revoked (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1), [13](https://www.legislation.gov.uk/uksi/2012/2897/article/13)
+[^c-9fc764df4da223524431a8cef3239ea2]: Textual amendment: Regulations revoked (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1), [13](https://www.legislation.gov.uk/uksi/2012/2897/article/13)

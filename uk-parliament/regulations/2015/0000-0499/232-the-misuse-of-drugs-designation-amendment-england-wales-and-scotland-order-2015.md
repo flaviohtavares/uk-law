@@ -48,24 +48,24 @@ Coming into force
 
 11th March 2015
 
-[^key-2590b716140fae05ecf05616ecc29703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2590b716140fae05ecf05616ecc29703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-2590b716140fae05ecf05616ecc29703]
+## 1. Citation, commencement and extent[^c-2590b716140fae05ecf05616ecc29703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Misuse of Drugs (Designation) Order 2001[^key-2590b716140fae05ecf05616ecc29703]
+## 2. Amendment to the Misuse of Drugs (Designation) Order 2001[^c-2590b716140fae05ecf05616ecc29703]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2590b716140fae05ecf05616ecc29703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2590b716140fae05ecf05616ecc29703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2590b716140fae05ecf05616ecc29703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2590b716140fae05ecf05616ecc29703]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2590b716140fae05ecf05616ecc29703]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/232) revoked (31.5.2015) by [The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 (S.I. 2015/704)](https://www.legislation.gov.uk/uksi/2015/704), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2)
+[^c-2590b716140fae05ecf05616ecc29703]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/232) revoked (31.5.2015) by [The Misuse of Drugs (Designation) (England, Wales and Scotland) Order 2015 (S.I. 2015/704)](https://www.legislation.gov.uk/uksi/2015/704), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/704/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/704/schedule/2)

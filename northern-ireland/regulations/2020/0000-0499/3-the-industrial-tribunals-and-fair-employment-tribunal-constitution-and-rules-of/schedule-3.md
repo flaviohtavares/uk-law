@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — THE INDUSTRIAL TRIBUNALS (EQUAL VALUE) RULES OF PROCEDURE 2020[^key-7b1b7443cd9509afaa012996fb8817c8]
+## SCHEDULE 3 — THE INDUSTRIAL TRIBUNALS (EQUAL VALUE) RULES OF PROCEDURE 2020[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 *Extent: N.I.*
 
 Regulation 17(2)(b)
 
-### 1. Application of Schedule 3[^key-235a5538ac7f64d709a01a3d5f0e0275][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 1. Application of Schedule 3[^c-235a5538ac7f64d709a01a3d5f0e0275][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) This Schedule applies to proceedings involving an equal value claim and modifies the rules in Schedule 1 in relation to such proceedings.
 
@@ -47,9 +47,9 @@ Regulation 17(2)(b)
 - (a) an employment judge acting alone;
 - (b) an employment judge acting with one or two other members.
 
-### 2. General power to manage proceedings[^key-559bf787e32758a074baa44b43fd20df][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 2. General power to manage proceedings[^c-559bf787e32758a074baa44b43fd20df][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) The tribunal may, subject to rules 3(1) and 6(1), order—
 
@@ -60,9 +60,9 @@ Regulation 17(2)(b)
 
 (2) In managing the proceedings, the tribunal shall have regard to the indicative timetable in the Annex to this Schedule.
 
-### 3. Conduct of stage 1 equal value hearing[^key-d5134215176f7232060fc943fbd55c67][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 3. Conduct of stage 1 equal value hearing[^c-d5134215176f7232060fc943fbd55c67][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) Where there is a dispute as to whether any work is of equal value (as mentioned in section 1(2)(c) of the Equal Pay Act) the tribunal shall conduct a hearing, which shall be referred to as a “stage 1 equal value hearing”, and at that hearing shall—
 
@@ -77,9 +77,9 @@ Regulation 17(2)(b)
 
 (4) The parties shall be given reasonable notice of the date of the stage 1 equal value hearing. The notice shall specify the matters that are to be, or may be, considered at the hearing and refer to the standard orders in rule 4.
 
-### 4. Standard orders for stage 1 equal value hearing[^key-4ca6018439a54fb948ff3797031c635b][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 4. Standard orders for stage 1 equal value hearing[^c-4ca6018439a54fb948ff3797031c635b][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) At a stage 1 equal value hearing a tribunal shall, unless it considers it inappropriate to do so, order that—
 
@@ -100,15 +100,15 @@ Regulation 17(2)(b)
 
 (2) The tribunal may add to, vary or omit any of the standard orders in paragraph (1).
 
-### 5. Involvement of independent expert in fact finding[^key-66686bade12989411d004699d0e5e682][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 5. Involvement of independent expert in fact finding[^c-66686bade12989411d004699d0e5e682][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 Where the tribunal has decided to require an independent expert to prepare a report on the question, it may at any stage of the proceedings, on its own initiative or on the application of a party, order the independent expert to assist the tribunal in establishing the facts on which the independent expert may rely in preparing the report.
 
-### 6. Conduct of stage 2 equal value hearing[^key-c8451b5f4a358a6e1aa82bacdb7f9e34][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 6. Conduct of stage 2 equal value hearing[^c-c8451b5f4a358a6e1aa82bacdb7f9e34][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) Any stage 2 equal value hearing shall be conducted by a tribunal and at the hearing the tribunal shall—
 
@@ -121,9 +121,9 @@ Where the tribunal has decided to require an independent expert to prepare a rep
 
 (4) The parties shall be given reasonable notice of the date of the stage 2 equal value hearing. The notice shall draw the attention of the parties to this rule and refer to the standard orders in rule 7.
 
-### 7. Standard orders for stage 2 equal value hearing[^key-7e064a0f6b04fbdc8e51d8f68f322020][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 7. Standard orders for stage 2 equal value hearing[^c-7e064a0f6b04fbdc8e51d8f68f322020][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) At a stage 2 equal value hearing a tribunal shall, unless it considers it inappropriate to do so, order that—
 
@@ -132,17 +132,17 @@ Where the tribunal has decided to require an independent expert to prepare a rep
 
 (2) The tribunal may add to, vary or omit any of the standard orders in paragraph (1).
 
-### 8. Final hearing[^key-b910487846cbb052507db2292d18c069][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 8. Final hearing[^c-b910487846cbb052507db2292d18c069][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) Where an independent expert has prepared a report, the tribunal shall admit the report in evidence unless it determines that the report is not based on the facts relating to the question. If the tribunal does not admit the report, it may determine the question itself or require another independent expert to prepare a report on the question.
 
 (2) The tribunal may refuse to admit evidence of facts or hear submissions on issues which have not been disclosed to the other party as required by these rules or any order (unless it was not reasonably practicable for a party to have done so).
 
-### 9. Duties and powers of the independent expert[^key-7b021e315fff7c3c409c05b0c16c571a][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 9. Duties and powers of the independent expert[^c-7b021e315fff7c3c409c05b0c16c571a][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) When a tribunal makes an order requiring an independent expert to prepare a report under rule 3(1)(b) or to assist the tribunal in establishing the facts under rule 5, it shall inform that independent expert of the duties and powers under this rule.
 
@@ -162,9 +162,9 @@ Where the tribunal has decided to require an independent expert to prepare a rep
 
 (5) When paragraph (4) applies the independent expert who is no longer required to prepare the report shall provide the tribunal with all documentation and work in progress relating to the proceedings by a specified date. Such documentation and work in progress must be in a form which the tribunal is able to use and may be used in relation to those proceedings by the tribunal or by another independent expert.
 
-### 10. Use of expert evidence[^key-426610ce36cebc90885e38ce36999c77][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 10. Use of expert evidence[^c-426610ce36cebc90885e38ce36999c77][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) The tribunal shall restrict expert evidence to that which it considers is reasonably required to resolve the proceedings.
 
@@ -178,9 +178,9 @@ Where the tribunal has decided to require an independent expert to prepare a rep
 
 (6) Where two or more parties wish to submit expert evidence on a particular issue, the tribunal may order that the evidence on that issue is to be given by one joint expert only and if the parties wishing to instruct the joint expert cannot agree an expert, the tribunal may select an expert.
 
-### 11. Written questions to experts[^key-0de556c51bf1a8cb83f7211384c0404e][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 11. Written questions to experts[^c-0de556c51bf1a8cb83f7211384c0404e][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) When an expert (including an independent expert) has prepared a report, a party or any other expert involved in the proceedings may put written questions about the report to that expert.
 
@@ -195,9 +195,9 @@ Where the tribunal has decided to require an independent expert to prepare a rep
 
 (4) Where a party has put a written question to an expert instructed by another party and the expert does not answer that question within 28 days, the tribunal may order that the party instructing that expert may not rely on the evidence of that expert.
 
-### 12. Procedural matters[^key-f125df8dbadc0278b5fe811ed3f35b43][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 12. Procedural matters[^c-f125df8dbadc0278b5fe811ed3f35b43][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 (1) Where an independent expert has been required to prepare a report, the Secretary shall send that expert notice of any hearing, application, order or judgment in the proceedings as if the independent expert were a party to those proceedings and when these rules or an order requires a party to provide information to another party, such information shall also be provided to the independent expert.
 
@@ -205,9 +205,9 @@ Where the tribunal has decided to require an independent expert to prepare a rep
 
 (3) Subject to the provisions of this Schedule, any power conferred on an employment judge by Schedule 1 may be carried out in an equal value claim by a tribunal or an employment judge.
 
-### 13. National security proceedings[^key-0c332f899b66696548cbac287f48f9a2][^key-7b1b7443cd9509afaa012996fb8817c8]
+### 13. National security proceedings[^c-0c332f899b66696548cbac287f48f9a2][^c-7b1b7443cd9509afaa012996fb8817c8]
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]
+[^c-7b1b7443cd9509afaa012996fb8817c8]
 
 Where in an equal value claim a direction is given, or order is made, under rule 91 of Schedule 1 (national security)—
 
@@ -216,13 +216,13 @@ Where in an equal value claim a direction is given, or order is made, under rule
 
 ### ANNEX — The indicative timetable
 
-[^key-7b1b7443cd9509afaa012996fb8817c8] [image: see source](https://www.legislation.gov.uk/nisr/2020/3/images/nisr_20200003_en_002)
+[^c-7b1b7443cd9509afaa012996fb8817c8] [image: see source](https://www.legislation.gov.uk/nisr/2020/3/images/nisr_20200003_en_002)
 
 ## Annotations
 
-[^key-7b1b7443cd9509afaa012996fb8817c8]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2020/3/schedule/3) in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-7b1b7443cd9509afaa012996fb8817c8]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2020/3/schedule/3) in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-235a5538ac7f64d709a01a3d5f0e0275]: Commencement: Sch. 3 para. 1 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-235a5538ac7f64d709a01a3d5f0e0275]: Commencement: Sch. 3 para. 1 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
 [^f00053]: Footnote: [1970 c.32](https://www.legislation.gov.uk/ukpga/1970/32).
 
@@ -232,28 +232,28 @@ Where in an equal value claim a direction is given, or order is made, under rule
 
 [^f00056]: Footnote: Sub-paragraph (b) was amended by [S.R. 2005 No. 145](https://www.legislation.gov.uk/nisr/2005/145), regulation 2(2)(a).
 
-[^key-559bf787e32758a074baa44b43fd20df]: Commencement: Sch. 3 para. 2 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-559bf787e32758a074baa44b43fd20df]: Commencement: Sch. 3 para. 2 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-d5134215176f7232060fc943fbd55c67]: Commencement: Sch. 3 para. 3 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-d5134215176f7232060fc943fbd55c67]: Commencement: Sch. 3 para. 3 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
 [^f00057]: Footnote: Paragraph (2A) was inserted by [S.R. 2005 No. 145](https://www.legislation.gov.uk/nisr/2005/145), regulation 2(5).
 
-[^key-4ca6018439a54fb948ff3797031c635b]: Commencement: Sch. 3 para. 4 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-4ca6018439a54fb948ff3797031c635b]: Commencement: Sch. 3 para. 4 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-66686bade12989411d004699d0e5e682]: Commencement: Sch. 3 para. 5 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-66686bade12989411d004699d0e5e682]: Commencement: Sch. 3 para. 5 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-c8451b5f4a358a6e1aa82bacdb7f9e34]: Commencement: Sch. 3 para. 6 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-c8451b5f4a358a6e1aa82bacdb7f9e34]: Commencement: Sch. 3 para. 6 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-7e064a0f6b04fbdc8e51d8f68f322020]: Commencement: Sch. 3 para. 7 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-7e064a0f6b04fbdc8e51d8f68f322020]: Commencement: Sch. 3 para. 7 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-b910487846cbb052507db2292d18c069]: Commencement: Sch. 3 para. 8 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-b910487846cbb052507db2292d18c069]: Commencement: Sch. 3 para. 8 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-7b021e315fff7c3c409c05b0c16c571a]: Commencement: Sch. 3 para. 9 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-7b021e315fff7c3c409c05b0c16c571a]: Commencement: Sch. 3 para. 9 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-426610ce36cebc90885e38ce36999c77]: Commencement: Sch. 3 para. 10 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-426610ce36cebc90885e38ce36999c77]: Commencement: Sch. 3 para. 10 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-0de556c51bf1a8cb83f7211384c0404e]: Commencement: Sch. 3 para. 11 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-0de556c51bf1a8cb83f7211384c0404e]: Commencement: Sch. 3 para. 11 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-f125df8dbadc0278b5fe811ed3f35b43]: Commencement: Sch. 3 para. 12 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-f125df8dbadc0278b5fe811ed3f35b43]: Commencement: Sch. 3 para. 12 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
 
-[^key-0c332f899b66696548cbac287f48f9a2]: Commencement: Sch. 3 para. 13 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-0c332f899b66696548cbac287f48f9a2]: Commencement: Sch. 3 para. 13 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

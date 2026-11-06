@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Infant Formula and Follow-on Formula (Amendment) (Wales) Regulations 2004 (revoked)[^key-efafd27d0f703bd284e4df843f12f07f]
+The Infant Formula and Follow-on Formula (Amendment) (Wales) Regulations 2004 (revoked)[^c-efafd27d0f703bd284e4df843f12f07f]
 
 Made
 
@@ -41,111 +41,111 @@ Coming into force
 
 6th March 2005
 
-[^key-efafd27d0f703bd284e4df843f12f07f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efafd27d0f703bd284e4df843f12f07f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-efafd27d0f703bd284e4df843f12f07f]
+## 1. Title, application and commencement[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Infant Formula and Follow-on Formula Regulations 1995[^key-efafd27d0f703bd284e4df843f12f07f]
+## 2. Amendment of the Infant Formula and Follow-on Formula Regulations 1995[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 3.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 4.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 5.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 6.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 7.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 8.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 9.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-efafd27d0f703bd284e4df843f12f07f]
+## 10.[^c-efafd27d0f703bd284e4df843f12f07f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efafd27d0f703bd284e4df843f12f07f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efafd27d0f703bd284e4df843f12f07f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NEW SCHEDULES 7A AND 7B TO BE INSERTED IN THE INFANT FORMULA AND FOLLOW-ON FORMULA REGULATIONS 1995[^key-efafd27d0f703bd284e4df843f12f07f]
+## SCHEDULE — NEW SCHEDULES 7A AND 7B TO BE INSERTED IN THE INFANT FORMULA AND FOLLOW-ON FORMULA REGULATIONS 1995[^c-efafd27d0f703bd284e4df843f12f07f]
 
 Regulation 10
 
-> **SCHEDULE 7A — PESTICIDES WHOSE RESIDUES MUST NOT BE PRESENT IN INFANT FORMULAE OR FOLLOW-ON FORMULAE AT A LEVEL EXCEEDING 0.003 MG/KG[^key-efafd27d0f703bd284e4df843f12f07f]**
+> **SCHEDULE 7A — PESTICIDES WHOSE RESIDUES MUST NOT BE PRESENT IN INFANT FORMULAE OR FOLLOW-ON FORMULAE AT A LEVEL EXCEEDING 0.003 MG/KG[^c-efafd27d0f703bd284e4df843f12f07f]**
 >
 > Regulation 12A
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-efafd27d0f703bd284e4df843f12f07f]
+> [^c-efafd27d0f703bd284e4df843f12f07f]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 7B — SPECIFIC MAXIMUM RESIDUE LEVELS OF CERTAIN PESTICIDES IN INFANT FORMULAE OR FOLLOW-ON FORMULAE[^key-efafd27d0f703bd284e4df843f12f07f]**
+> **SCHEDULE 7B — SPECIFIC MAXIMUM RESIDUE LEVELS OF CERTAIN PESTICIDES IN INFANT FORMULAE OR FOLLOW-ON FORMULAE[^c-efafd27d0f703bd284e4df843f12f07f]**
 >
 > Regulation 12A
 >
@@ -153,8 +153,8 @@ Regulation 10
 
 **May not be in force at this date. Check the source.**
 
-[^key-efafd27d0f703bd284e4df843f12f07f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efafd27d0f703bd284e4df843f12f07f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efafd27d0f703bd284e4df843f12f07f]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-efafd27d0f703bd284e4df843f12f07f]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Duty to answer relevant questions[^key-c74b2aaa49f647aad52ae8338d32cc4f]
+## 99. Duty to answer relevant questions[^c-c74b2aaa49f647aad52ae8338d32cc4f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c74b2aaa49f647aad52ae8338d32cc4f]: Commencement: Art. 99 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c74b2aaa49f647aad52ae8338d32cc4f]: Commencement: Art. 99 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

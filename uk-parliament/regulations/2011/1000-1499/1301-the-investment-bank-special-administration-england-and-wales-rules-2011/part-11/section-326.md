@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 326. Proceedings commenced in the wrong court[^key-276ebfe528e1173148f0ce8cbf2c1100]
+## 326. Proceedings commenced in the wrong court[^c-276ebfe528e1173148f0ce8cbf2c1100]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a special administration is commenced in a court other than the High Court
 
 ## Annotations
 
-[^key-276ebfe528e1173148f0ce8cbf2c1100]: Commencement: [Rule 326](https://www.legislation.gov.uk/uksi/2011/1301/rule/326) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-276ebfe528e1173148f0ce8cbf2c1100]: Commencement: [Rule 326](https://www.legislation.gov.uk/uksi/2011/1301/rule/326) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

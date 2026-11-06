@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**3.44.2.**[^key-c77e4e6e2324ee0d25f2d1f47f8110d6] (1) This rule applies where a party to a protected Scottish marriage who has been issued with an interim gender recognition certificate makes an application to the sheriff under section 4E of the 2004 Act for the issue of a full gender recognition certificate.
+**3.44.2.**[^c-c77e4e6e2324ee0d25f2d1f47f8110d6] (1) This rule applies where a party to a protected Scottish marriage who has been issued with an interim gender recognition certificate makes an application to the sheriff under section 4E of the 2004 Act for the issue of a full gender recognition certificate.
 
 (2) The sheriff shall make an order for intimation of the application on the applicant’s spouse, but no such order may be made unless there has been produced with the initial writ—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c77e4e6e2324ee0d25f2d1f47f8110d6]: Textual amendment: Ch. 3 Pt. 44 inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302](https://www.legislation.gov.uk/ssi/2014/302)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/7/2)
+[^c-c77e4e6e2324ee0d25f2d1f47f8110d6]: Textual amendment: Ch. 3 Pt. 44 inserted (16.12.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 2) (Marriage and Civil Partnership (Scotland) Act 2014) 2014 (S.S.I. 2014/302](https://www.legislation.gov.uk/ssi/2014/302)), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2014/302/paragraph/7/2)

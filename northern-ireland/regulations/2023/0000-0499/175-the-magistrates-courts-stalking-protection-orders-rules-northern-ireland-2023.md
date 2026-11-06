@@ -44,7 +44,7 @@ Coming into operation in accordance with Rule 1
 
 The Magistrates’ Courts Rules Committee makes and the Department of Justice, after consultation with the Lady Chief Justice, allows the following Rules in exercise of the powers conferred by Article 13 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-c80c9d9ea3d510ecee430545b37b0ba5]
+## 1. Citation, commencement and interpretation[^c-c80c9d9ea3d510ecee430545b37b0ba5]
 
 (1) These Rules may be cited as the Magistrates’ Courts (Stalking Protection Orders) Rules (Northern Ireland) 2023 and shall come into operation on the same day as section 7 of the Protection from Stalking Act (Northern Ireland) 2022[^f00002].
 
@@ -53,7 +53,7 @@ The Magistrates’ Courts Rules Committee makes and the Department of Justice, a
 - (a) “**the Act**” means the Protection from Stalking Act (Northern Ireland) 2022 and expressions used have the same meaning as in the Act;
 - (b) a reference to a Form by number means the Form so numbered in the Schedule to these Rules or a form to like effect.
 
-## 2. Stalking protection order and interim stalking protection order[^key-d82bdf15587004f208252d80d1e7de7b]
+## 2. Stalking protection order and interim stalking protection order[^c-d82bdf15587004f208252d80d1e7de7b]
 
 (1) A summons issued on foot of a complaint for —
 
@@ -66,7 +66,7 @@ shall be in Form 1.
 
 (3) An interim stalking protection order shall be in Form 3.
 
-## 3. Application for variation, renewal or discharge[^key-e3e8c110ead5bab23108ffe36136e844]
+## 3. Application for variation, renewal or discharge[^c-e3e8c110ead5bab23108ffe36136e844]
 
 A summons issued on foot of a complaint for the variation, renewal or discharge of—
 
@@ -75,7 +75,7 @@ A summons issued on foot of a complaint for the variation, renewal or discharge 
 
 shall be made in Form 4.
 
-## 4. Service of Documents[^key-42e18ba8b43da328ade6c11d254db276]
+## 4. Service of Documents[^c-42e18ba8b43da328ade6c11d254db276]
 
 (1) Subject to paragraph (2), service of a summons under these Rules may be effected—
 
@@ -116,7 +116,7 @@ Richard Pengelly CB
 
 A senior officer of the Department of Justice
 
-## SCHEDULE[^key-cdba6d46961649512f09b15eb6c52349]
+## SCHEDULE[^c-cdba6d46961649512f09b15eb6c52349]
 
 EXPLANATORY NOTE
 
@@ -134,16 +134,16 @@ Rule 4 prescribes the manner in which a summons or an order required to be serve
 
 [^f00001]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); Article 13 was amended by paragraph 65 of Schedule 5 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 133 of Schedule 18 to the Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)) and paragraph 4 of the Schedule to the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13).
 
-[^key-c80c9d9ea3d510ecee430545b37b0ba5]: Commencement: Rule 1 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
+[^c-c80c9d9ea3d510ecee430545b37b0ba5]: Commencement: Rule 1 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
 
 [^f00002]: Footnote: [2022 c. 17](https://www.legislation.gov.uk/ukpga/2022/17).
 
-[^key-d82bdf15587004f208252d80d1e7de7b]: Commencement: Rule 2 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
+[^c-d82bdf15587004f208252d80d1e7de7b]: Commencement: Rule 2 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
 
-[^key-e3e8c110ead5bab23108ffe36136e844]: Commencement: Rule 3 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
+[^c-e3e8c110ead5bab23108ffe36136e844]: Commencement: Rule 3 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
 
-[^key-42e18ba8b43da328ade6c11d254db276]: Commencement: Rule 4 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
+[^c-42e18ba8b43da328ade6c11d254db276]: Commencement: Rule 4 in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
 
 [^f00003]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225); to which the most recent relevant amendment is [S.R. 2016 No. 304](https://www.legislation.gov.uk/nisr/2016/304).
 
-[^key-cdba6d46961649512f09b15eb6c52349]: Commencement: Sch. in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)
+[^c-cdba6d46961649512f09b15eb6c52349]: Commencement: Sch. in operation at 19.10.2023, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2023/175/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Calculation of time periods in Part 2 of 2003 Act[^key-f48f2c810cd3de0596d5632944637b49]
+## 60. Calculation of time periods in Part 2 of 2003 Act[^c-f48f2c810cd3de0596d5632944637b49]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ After section 67 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-f48f2c810cd3de0596d5632944637b49]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2015/6/section/60) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-f48f2c810cd3de0596d5632944637b49]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2015/6/section/60) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

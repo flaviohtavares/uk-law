@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.18. Notification of outcome of postal service by the court[^key-fe589970343ba157e4f46d596d14d251]
+## 6.18. Notification of outcome of postal service by the court[^c-fe589970343ba157e4f46d596d14d251]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the court will send notification to the claimant that the claim form has been re
 
 ## Annotations
 
-[^key-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
+[^c-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)

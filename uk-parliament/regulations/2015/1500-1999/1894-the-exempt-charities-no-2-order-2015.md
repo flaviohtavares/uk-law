@@ -31,7 +31,7 @@ summary: ''
 
 Charities
 
-The Exempt Charities (No. 2) Order 2015 (revoked)[^key-29fc10c2305a71a4387207aace8225b2]
+The Exempt Charities (No. 2) Order 2015 (revoked)[^c-29fc10c2305a71a4387207aace8225b2]
 
 Made
 
@@ -47,20 +47,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-29fc10c2305a71a4387207aace8225b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29fc10c2305a71a4387207aace8225b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-29fc10c2305a71a4387207aace8225b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-29fc10c2305a71a4387207aace8225b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-29fc10c2305a71a4387207aace8225b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-29fc10c2305a71a4387207aace8225b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-29fc10c2305a71a4387207aace8225b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29fc10c2305a71a4387207aace8225b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-29fc10c2305a71a4387207aace8225b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29fc10c2305a71a4387207aace8225b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-29fc10c2305a71a4387207aace8225b2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1894) revoked (13.4.2016) by [The Exempt Charities Order 2016 (S.I. 2016/500)](https://www.legislation.gov.uk/uksi/2016/500), [arts. 1](https://www.legislation.gov.uk/uksi/2016/500/article/1), [3](https://www.legislation.gov.uk/uksi/2016/500/article/3)
+[^c-29fc10c2305a71a4387207aace8225b2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1894) revoked (13.4.2016) by [The Exempt Charities Order 2016 (S.I. 2016/500)](https://www.legislation.gov.uk/uksi/2016/500), [arts. 1](https://www.legislation.gov.uk/uksi/2016/500/article/1), [3](https://www.legislation.gov.uk/uksi/2016/500/article/3)

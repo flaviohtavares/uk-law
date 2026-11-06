@@ -69,7 +69,7 @@ Section 10
 - (b) Article 152 of the Magistrates’ Courts (Northern Ireland) Order 1981 (S. I. 1981/1675 (N.I. 26)) (enforcement of orders after appeal),
 - (c) Articles 44 and 45 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (warrants of further detention).
 
-### 4. Amendments: general[^key-ceee00c86bdb79ca263d0dd22dead110]
+### 4. Amendments: general[^c-ceee00c86bdb79ca263d0dd22dead110]
 
 *Extent: N.I.*
 
@@ -78,7 +78,7 @@ The Lord Chancellor may , after consultation with the Lord Chief Justice,[^c2069
 - (a) by adding any provision contained in any enactment or instrument passed or made before the coming into force of this Schedule, or
 - (b) by removing any provision.
 
-**5.**[^key-ae85686560341155162cfc0965e1a72f] The Lord Chancellor may , after consultation with the Lord Chief Justice,[^c20695461] by order make provision amending any enactment or instrument in consequence of the provision made by section 10 or by or by virtue of the preceding provisions of this Schedule.
+**5.**[^c-ae85686560341155162cfc0965e1a72f] The Lord Chancellor may , after consultation with the Lord Chief Justice,[^c20695461] by order make provision amending any enactment or instrument in consequence of the provision made by section 10 or by or by virtue of the preceding provisions of this Schedule.
 
 **5A.**[^c20695501] The Lord Chief Justice may nominate any of the following to exercise his functions under paragraph 4 or 5—
 
@@ -124,7 +124,7 @@ The references to justices of the peace in sections 13, 15, 16 and 18 of the Sta
 
 **Not yet in force.**
 
-**14.**[^key-3a78f5cc319af214c6596c33e8ca121b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3a78f5cc319af214c6596c33e8ca121b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
@@ -140,7 +140,7 @@ The references to justices of the peace in sections 13, 15, 16 and 18 of the Sta
 
 *Extent: N.I.*
 
-**17.**[^key-a0a6a06f1d119ca5e9c5be1da2f4b5ea][^c20837181] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a0a6a06f1d119ca5e9c5be1da2f4b5ea][^c20837181] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
@@ -256,7 +256,7 @@ The references to justices of the peace in sections 13, 15, 16 and 18 of the Sta
 
 *Extent: N.I.*
 
-**37.**[^key-2dd9064bc74fe51b8e8fc498114db49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-2dd9064bc74fe51b8e8fc498114db49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
@@ -282,11 +282,11 @@ The references to justices of the peace in sections 13, 15, 16 and 18 of the Sta
 
 [^c20696651]: Textual amendment: Sch. 4 para. 3(2)(a) repealed (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 15 Pt. 4](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/4); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3](https://www.legislation.gov.uk/uksi/2008/790/article/3)
 
-[^key-ceee00c86bdb79ca263d0dd22dead110]: Modification: Sch. 4 para. 4: transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ceee00c86bdb79ca263d0dd22dead110]: Modification: Sch. 4 para. 4: transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20695371]: Textual amendment: Words in Sch. 4 para. 4 inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 124(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/124/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2](https://www.legislation.gov.uk/uksi/2006/1014/article/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12)
 
-[^key-ae85686560341155162cfc0965e1a72f]: Modification: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2002/26/schedule/4/paragraph/5): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-ae85686560341155162cfc0965e1a72f]: Modification: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2002/26/schedule/4/paragraph/5): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20695461]: Textual amendment: Words in Sch. 4 para. 5 inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 124(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/124/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2](https://www.legislation.gov.uk/uksi/2006/1014/article/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12)
 
@@ -298,10 +298,10 @@ The references to justices of the peace in sections 13, 15, 16 and 18 of the Sta
 
 [^c20732321]: Textual amendment: Sch. 4 para. 12 repealed (28.3.2009 for certain purposes and otherwise prosp.) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3)
 
-[^key-3a78f5cc319af214c6596c33e8ca121b]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2002/26/schedule/4/paragraph/14) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/36) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-3a78f5cc319af214c6596c33e8ca121b]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2002/26/schedule/4/paragraph/14) omitted (12.4.2010) by virtue of [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/36) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-a0a6a06f1d119ca5e9c5be1da2f4b5ea]: Textual amendment: Sch. 4 para. 17 repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 119(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/119/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a0a6a06f1d119ca5e9c5be1da2f4b5ea]: Textual amendment: Sch. 4 para. 17 repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 119(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/119/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20837181]: Commencement: Sch. 4 para. 17 partly in force; Sch. 4 para. 17 not in force at Royal Assent see s. 87; Sch. 4 para. 17(1)(3)(4) in force at 1.4.2005 by [S.R. 2005/109](https://www.legislation.gov.uk/nisr/2005/109), [art. 2](https://www.legislation.gov.uk/nisr/2005/109/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2005/109/schedule)
 
-[^key-2dd9064bc74fe51b8e8fc498114db49e]: Textual amendment: Sch. 4 para. 37 repealed (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 46](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/46); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-2dd9064bc74fe51b8e8fc498114db49e]: Textual amendment: Sch. 4 para. 37 repealed (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 46](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/46); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

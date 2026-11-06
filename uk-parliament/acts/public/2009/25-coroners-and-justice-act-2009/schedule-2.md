@@ -24,7 +24,7 @@ Section 22
 
 ### Coroner areas
 
-**1.**[^key-52fad7442e27966b9688deb1d1163e27] (1) England and Wales is to be divided into areas to be known as coroner areas.
+**1.**[^c-52fad7442e27966b9688deb1d1163e27] (1) England and Wales is to be divided into areas to be known as coroner areas.
 
 (2) Each coroner area is to consist of the area of a local authority or the combined areas of two or more local authorities.
 
@@ -41,7 +41,7 @@ Section 22
 
 ### Alteration of coroner areas
 
-**2.**[^key-b8b7d335d97cf746a080c79d4fa2919f] (1) The Lord Chancellor may make orders altering coroner areas.
+**2.**[^c-b8b7d335d97cf746a080c79d4fa2919f] (1) The Lord Chancellor may make orders altering coroner areas.
 
 (2) Before making an order under this paragraph the Lord Chancellor must consult—
 
@@ -57,7 +57,7 @@ Section 22
 
 ### Relevant authorities
 
-**3.**[^key-4610ad891c40f2ff6a92cda1d0734663] (1) This paragraph sets out for the purposes of this Part what is the “relevant authority” for a given coroner area.
+**3.**[^c-4610ad891c40f2ff6a92cda1d0734663] (1) This paragraph sets out for the purposes of this Part what is the “relevant authority” for a given coroner area.
 
 (2) In the case of a coroner area consisting of the area of a single local authority, that authority is the relevant authority for the coroner area.
 
@@ -75,7 +75,7 @@ Section 22
 
 ### Effect of body being outside coroner area etc
 
-**4.**[^key-0ce1828f84dbbc23653b85f7d0beef47] (1) This paragraph applies where—
+**4.**[^c-0ce1828f84dbbc23653b85f7d0beef47] (1) This paragraph applies where—
 
 - (a) a senior coroner is responsible for conducting an investigation under this Part into a person's death, and
 - (b) the body is outside the coroner's area (whether because of its removal or otherwise).
@@ -86,10 +86,10 @@ Section 22
 
 ## Annotations
 
-[^key-52fad7442e27966b9688deb1d1163e27]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/1) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
+[^c-52fad7442e27966b9688deb1d1163e27]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/1) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
 
-[^key-b8b7d335d97cf746a080c79d4fa2919f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/2) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
+[^c-b8b7d335d97cf746a080c79d4fa2919f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/2) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
 
-[^key-4610ad891c40f2ff6a92cda1d0734663]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/3) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
+[^c-4610ad891c40f2ff6a92cda1d0734663]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/3) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
 
-[^key-0ce1828f84dbbc23653b85f7d0beef47]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/4) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)
+[^c-0ce1828f84dbbc23653b85f7d0beef47]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/2/paragraph/4) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(i)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/i)

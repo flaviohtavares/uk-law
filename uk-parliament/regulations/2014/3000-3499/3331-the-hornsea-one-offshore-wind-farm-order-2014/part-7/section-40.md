@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Protection of Interests[^key-4196e1ee1a9a352a777f95b467f508f8]
+## 40. Protection of Interests[^c-4196e1ee1a9a352a777f95b467f508f8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 12 (Protective provisions) has effect.
 
 ## Annotations
 
-[^key-4196e1ee1a9a352a777f95b467f508f8]: Commencement: Art. 40 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-4196e1ee1a9a352a777f95b467f508f8]: Commencement: Art. 40 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

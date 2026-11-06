@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. STS securitisations[^key-ae9120ea9e70a1d01e23ed8d9f474be6]
+## 9. STS securitisations[^c-ae9120ea9e70a1d01e23ed8d9f474be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae9120ea9e70a1d01e23ed8d9f474be6]: Commencement: Reg. 9 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-ae9120ea9e70a1d01e23ed8d9f474be6]: Commencement: Reg. 9 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

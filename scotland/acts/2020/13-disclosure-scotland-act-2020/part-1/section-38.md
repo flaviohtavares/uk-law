@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Power to modify definitions of Level 1 disclosure and Level 2 disclosure[^key-e84c4598ae907124fe2dbb69b38b7305]
+## 38. Power to modify definitions of Level 1 disclosure and Level 2 disclosure[^c-e84c4598ae907124fe2dbb69b38b7305]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ including the definitions of expressions used in those sections.
 
 ## Annotations
 
-[^key-e84c4598ae907124fe2dbb69b38b7305]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2020/13/section/38) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-e84c4598ae907124fe2dbb69b38b7305]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2020/13/section/38) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

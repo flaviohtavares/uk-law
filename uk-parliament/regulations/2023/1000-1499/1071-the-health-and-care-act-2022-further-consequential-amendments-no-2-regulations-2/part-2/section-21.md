@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment of the Housing Benefit Regulations 2006[^key-607ca941fdb452ac08c0c773177e8741]
+## 21. Amendment of the Housing Benefit Regulations 2006[^c-607ca941fdb452ac08c0c773177e8741]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-607ca941fdb452ac08c0c773177e8741]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/1071/regulation/21) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-607ca941fdb452ac08c0c773177e8741]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/1071/regulation/21) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.

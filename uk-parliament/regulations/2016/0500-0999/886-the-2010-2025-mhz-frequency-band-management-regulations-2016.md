@@ -54,7 +54,7 @@ These Regulation may be cited as the 2010-2025 MHz Frequency Band (Management) R
 
 (1) OFCOM must designate and make available, on a non-exclusive basis, the band for video PMSE, in accordance with the parameters set out in the Annex to the Decision.
 
-(2)[^key-951366bd59405cea5f660c58b386cbe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-951366bd59405cea5f660c58b386cbe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Upon detection of interference to other types of spectrum users or services that are entitled to use the band on 10th September 2016, OFCOM may restrict the use of video PMSE in the relevant portion of the band in specific geographic areas in accordance with the Annex to the Decision.
 
@@ -93,7 +93,7 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^c23179501]: Marginal citation: [S.I. 2001/3495](https://www.legislation.gov.uk/uksi/2001/3495). This has been amended, but the amendments are not relevant to these Regulations.
 
-[^key-951366bd59405cea5f660c58b386cbe1]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/886/regulation/2/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-951366bd59405cea5f660c58b386cbe1]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/886/regulation/2/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23179511]: Marginal citation: OJ No L 63, 10.3.2016, p. 5.
 

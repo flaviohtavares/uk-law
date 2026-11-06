@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Welsh Ministers to specify standards[^key-6110d76209efe3e0fe0f1cdab200a84b]
+## 26. Welsh Ministers to specify standards[^c-6110d76209efe3e0fe0f1cdab200a84b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6110d76209efe3e0fe0f1cdab200a84b]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2011/1/section/26) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-6110d76209efe3e0fe0f1cdab200a84b]: Commencement: [S. 26](https://www.legislation.gov.uk/mwa/2011/1/section/26) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

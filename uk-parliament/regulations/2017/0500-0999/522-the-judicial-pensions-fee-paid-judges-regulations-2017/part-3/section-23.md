@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The ill-health certification condition is met in relation to P[^key-2551f9ee6a03eab8941abbebf2e9179a] if the appropriate Minister—
+(1) The ill-health certification condition is met in relation to P[^c-2551f9ee6a03eab8941abbebf2e9179a] if the appropriate Minister—
 
 - (a) has received a medical certificate—
   - (i) stating that P has suffered a permanent breakdown in health that makes P incapable of discharging the duties of the judicial office or offices which P held immediately before retirement; or
-  - (ii) (where P retired due to ill-health before the commencement day or, as applicable, before the amendment day[^key-1d2406bdcecfa7e6833aa9cc75247089]), stating that at the date on which P had retired, P had suffered a permanent breakdown in health that made P incapable of discharging the duties of the judicial office or offices which P held immediately before retirement;
+  - (ii) (where P retired due to ill-health before the commencement day or, as applicable, before the amendment day[^c-1d2406bdcecfa7e6833aa9cc75247089]), stating that at the date on which P had retired, P had suffered a permanent breakdown in health that made P incapable of discharging the duties of the judicial office or offices which P held immediately before retirement;
 - (b) is satisfied as to the matters contained in that certificate; and
 - (c) has, where the appropriate Minister is the Lord Chancellor, consulted—
   - (i) the Lord Chief Justice of England and Wales (if P held a judicial office in England and Wales);
@@ -46,9 +46,9 @@ to exercise any of his or her functions under this regulation.
 
 ## Annotations
 
-[^key-2551f9ee6a03eab8941abbebf2e9179a]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/23/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/24/a)
+[^c-2551f9ee6a03eab8941abbebf2e9179a]: Textual amendment: Word in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/23/1) substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2023/403/regulation/24/a)
 
-[^key-1d2406bdcecfa7e6833aa9cc75247089]: Textual amendment: Words in [reg. 23(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/23/1/a/ii) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/24/b)
+[^c-1d2406bdcecfa7e6833aa9cc75247089]: Textual amendment: Words in [reg. 23(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/522/regulation/23/1/a/ii) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2023/403/regulation/24/b)
 
 [^c23060391]: Textual amendment: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4). Section 109 was amended by paragraph 63 of Schedule 8 to the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

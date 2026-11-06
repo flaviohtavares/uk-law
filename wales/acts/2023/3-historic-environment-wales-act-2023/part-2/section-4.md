@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Notification of owner etc. where the schedule is amended[^key-64170bb70014cfbf2c5e174ac0650358][^key-fefd9d4590267582eb4cc6ab4f1b2b15]
+## 4. Notification of owner etc. where the schedule is amended[^c-64170bb70014cfbf2c5e174ac0650358][^c-fefd9d4590267582eb4cc6ab4f1b2b15]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64170bb70014cfbf2c5e174ac0650358]: Commencement: S. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-64170bb70014cfbf2c5e174ac0650358]: Commencement: S. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-fefd9d4590267582eb4cc6ab4f1b2b15]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2023/3/section/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-fefd9d4590267582eb4cc6ab4f1b2b15]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2023/3/section/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

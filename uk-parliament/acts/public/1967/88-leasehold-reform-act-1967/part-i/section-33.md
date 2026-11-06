@@ -32,7 +32,7 @@ summary: ''
 - (c) an interest belonging to the Duchy of Cornwall, and such person as the Duke of Cornwall or the possessor for the time being of the Duchy appoints;
 - (d) any other interest belonging to a government department or held on behalf of Her Majesty for the purposes of a government department, and the Minister in charge of that department.
 
-(2A)[^key-d1f4fb6fc06fedb4ebb603bb9ba2942d] For the purposes of this Part of this Act, an interest belonging to the Welsh new towns residuary body in a tenancy of land is to be treated as if it were not an interest belonging to the Crown.
+(2A)[^c-d1f4fb6fc06fedb4ebb603bb9ba2942d] For the purposes of this Part of this Act, an interest belonging to the Welsh new towns residuary body in a tenancy of land is to be treated as if it were not an interest belonging to the Crown.
 
 (3) The restriction imposed by section 3(2) of the [^c8301231]Crown Estate Act 1961 on the term for which a lease may be granted by the Crown Estate Commissioners shall not apply where the lease is granted by way of extension of a long tenancy at a low rent and it appears to the Crown Estate Commissioners that, if the tenancy were not a tenancy from the Crown, there would be a right to an extended lease under this Part of this Act.
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d1f4fb6fc06fedb4ebb603bb9ba2942d]: Textual amendment: [S. 33(2A)](https://www.legislation.gov.uk/ukpga/1967/88/section/33/2A) inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/9); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-d1f4fb6fc06fedb4ebb603bb9ba2942d]: Textual amendment: [S. 33(2A)](https://www.legislation.gov.uk/ukpga/1967/88/section/33/2A) inserted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/9); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c8301231]: Marginal citation: 1[9661 c. 55](https://www.legislation.gov.uk/ukpga/9661/55).
 

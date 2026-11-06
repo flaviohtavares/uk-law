@@ -52,7 +52,7 @@ summary: ''
 
 (1) In this Act—
 
-- [^key-6643ac21f09ab84b6bfdd2d75917e334]...
+- [^c-6643ac21f09ab84b6bfdd2d75917e334]...
 - “**county**” county borough[^c2461991] and “**district**”, except in relation to Scotland, have the same meanings as in the [^c2462001]Local Government Act 1972;
 - “**mine**” and “**quarry**” have the same meanings as in the [^c2462011]Mines and Quarries Act 1954;
 - “**modifications**” includes additions, omissions and amendments and “modify” and cognate expressions shall be construed accordingly;
@@ -63,13 +63,13 @@ summary: ''
 - “**regulations**” means regulations made by the Secretary of State;
 - “[^c2462021]**road**” (except where the context otherwise requires) has the same meaning as in the Part IV of the New Roads and Street Works Act 1991[^c2462031]:
 - “**roads authority**” has the same meaning as in the Roads (Scotland) Act 1984; “[^c2462041]**SEPA**” means the Scottish Environment Protection Agency;
-- [^key-8ee101d33f4f92f8bda432dcb2fec43f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-8ee101d33f4f92f8bda432dcb2fec43f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**vessel**” includes a hovercraft within the meaning of the [^c2462051]Hovercraft Act 1968.
 
 (2) Except so far as this Act expressly provides otherwise and subject to the provisions of section 18 of the[^c2462061] [^c2462071]Interpretation Act 1978 (which relates to offences under two or more laws), nothing in this Act—
 
 - (a) confers a right of action in any civil proceedings (other than the proceedings for the recovery of a fine) in respect of any contravention of this Act or an instrument made in pursuance of this Act;
-- (b) Affects any restriction imposed by or under any other enactment, whether public, local or private or by or under any Act of the Scottish Parliament[^key-9c594cf7c3a95bf4534e1865c71c5714]; or
+- (b) Affects any restriction imposed by or under any other enactment, whether public, local or private or by or under any Act of the Scottish Parliament[^c-9c594cf7c3a95bf4534e1865c71c5714]; or
 - (c) derogates from any right of action or other remedy (whether civil or criminal) in proceedings instituted otherwise than under this Act.
 
 (3)[^c2462081] Subject to subsections (3A) to (3D) below, this Act shall bind the Crown.
@@ -123,7 +123,7 @@ declare unlawful any act or omission of the Crown which constitutes such a contr
 
 [^c19585821]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-6643ac21f09ab84b6bfdd2d75917e334]: Textual amendment: Words in s. 105(1) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/I); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2015/72/article/2/1/b)
+[^c-6643ac21f09ab84b6bfdd2d75917e334]: Textual amendment: Words in s. 105(1) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/I); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2015/72/article/2/1/b)
 
 [^c2461991]: Textual amendment: Words in s. 105(1) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/3), [Sch. 9 para. 10(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/9/paragraph/10/5) (with [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3)
 
@@ -137,7 +137,7 @@ declare unlawful any act or omission of the Crown which constitutes such a contr
 
 [^c2462041]: Textual amendment: S. 105(1): definition of “SEPA” inserted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 29(35)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/29/35) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-8ee101d33f4f92f8bda432dcb2fec43f]: Textual amendment: Words in s. 105(1) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(10)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/10); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-8ee101d33f4f92f8bda432dcb2fec43f]: Textual amendment: Words in s. 105(1) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 16(10)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/16/10); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c2462051]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
@@ -145,7 +145,7 @@ declare unlawful any act or omission of the Crown which constitutes such a contr
 
 [^c2462071]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-9c594cf7c3a95bf4534e1865c71c5714]: Textual amendment: Words in s. 105(2)(b) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 39(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/39/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-9c594cf7c3a95bf4534e1865c71c5714]: Textual amendment: Words in s. 105(2)(b) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 39(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/39/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c2462081]: Textual amendment: S. 105(3)(3A)(3B)(3C)(3D) substituted (S.) (8.4.1998) for s. 105(3) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 116](https://www.legislation.gov.uk/ukpga/1995/25/section/116), [Sch. 21 Pt. II para. 4](https://www.legislation.gov.uk/ukpga/1995/25/schedule/21/part/II/paragraph/4) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1998/781](https://www.legislation.gov.uk/uksi/1998/781), [art. 2](https://www.legislation.gov.uk/uksi/1998/781/article/2) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/1998/781/article/3))
 

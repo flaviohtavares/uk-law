@@ -22,8 +22,8 @@ summary: ''
 
 (1) A qualifying disclosure is made in accordance with this section if—
 
-- (a)[^key-af8ac02558773aef7144018cee42ec0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the worker[^key-fed13a0a0d83258bce325cd8c98b6fae] reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
+- (a)[^c-af8ac02558773aef7144018cee42ec0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the worker[^c-fed13a0a0d83258bce325cd8c98b6fae] reasonably believes that the information disclosed, and any allegation contained in it, are substantially true,
 - (c) he does not make the disclosure for purposes of personal gain,
 - (d) any of the conditions in subsection (2) is met, and
 - (e) in all the circumstances of the case, it is reasonable for him to make the disclosure.
@@ -51,6 +51,6 @@ summary: ''
 
 [^c16325111]: Textual amendment: Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
-[^key-af8ac02558773aef7144018cee42ec0f]: Textual amendment: S. 43G(1)(a) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/2/a), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-af8ac02558773aef7144018cee42ec0f]: Textual amendment: S. 43G(1)(a) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/2/a), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
 
-[^key-fed13a0a0d83258bce325cd8c98b6fae]: Textual amendment: Words in s. 43G(1)(b) substituted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/2/b), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-fed13a0a0d83258bce325cd8c98b6fae]: Textual amendment: Words in s. 43G(1)(b) substituted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/2/b), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))

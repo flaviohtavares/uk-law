@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Expenses[^key-107e7a62399f2f81ae6944a402ec848b]
+## 64. Expenses[^c-107e7a62399f2f81ae6944a402ec848b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 ## Annotations
 
-[^key-107e7a62399f2f81ae6944a402ec848b]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2006/38/section/64) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/m)
+[^c-107e7a62399f2f81ae6944a402ec848b]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2006/38/section/64) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(m)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/m)

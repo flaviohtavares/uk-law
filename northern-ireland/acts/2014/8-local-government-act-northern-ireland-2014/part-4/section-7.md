@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Arrangements for discharge of functions of council[^key-bf2b2422c63ca6f2d74485650c850c05][^key-3fe0060e3377da82bfefd97b014af74f][^key-ef66d1f01091dc9129d869946d8aa194]
+## 7. Arrangements for discharge of functions of council[^c-bf2b2422c63ca6f2d74485650c850c05][^c-3fe0060e3377da82bfefd97b014af74f][^c-ef66d1f01091dc9129d869946d8aa194]
 
 *Extent: N.I.*
 
@@ -49,8 +49,8 @@ may only be discharged by the council itself.
 
 ## Annotations
 
-[^key-bf2b2422c63ca6f2d74485650c850c05]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/8/section/7) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-bf2b2422c63ca6f2d74485650c850c05]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/8/section/7) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-3fe0060e3377da82bfefd97b014af74f]: Modification: [S. 7](https://www.legislation.gov.uk/nia/2014/8/section/7) excluded (1.4.2015) by [The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015 (S.R. 2015/44)](https://www.legislation.gov.uk/nisr/2015/44), [regs. 1](https://www.legislation.gov.uk/nisr/2015/44/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2015/44/regulation/3/7)
+[^c-3fe0060e3377da82bfefd97b014af74f]: Modification: [S. 7](https://www.legislation.gov.uk/nia/2014/8/section/7) excluded (1.4.2015) by [The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015 (S.R. 2015/44)](https://www.legislation.gov.uk/nisr/2015/44), [regs. 1](https://www.legislation.gov.uk/nisr/2015/44/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2015/44/regulation/3/7)
 
-[^key-ef66d1f01091dc9129d869946d8aa194]: Modification: [S. 7](https://www.legislation.gov.uk/nia/2014/8/section/7) excluded (1.4.2015) by [The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015 (S.R. 2015/44)](https://www.legislation.gov.uk/nisr/2015/44), [regs. 1](https://www.legislation.gov.uk/nisr/2015/44/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2015/44/regulation/5/5)
+[^c-ef66d1f01091dc9129d869946d8aa194]: Modification: [S. 7](https://www.legislation.gov.uk/nia/2014/8/section/7) excluded (1.4.2015) by [The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015 (S.R. 2015/44)](https://www.legislation.gov.uk/nisr/2015/44), [regs. 1](https://www.legislation.gov.uk/nisr/2015/44/regulation/1), [5(5)](https://www.legislation.gov.uk/nisr/2015/44/regulation/5/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13. Judges: oaths[^key-dad795575856be3460a0014b63a55db2]
+## 13. Judges: oaths[^c-dad795575856be3460a0014b63a55db2]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dad795575856be3460a0014b63a55db2]: Commencement: S. 13 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-dad795575856be3460a0014b63a55db2]: Commencement: S. 13 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

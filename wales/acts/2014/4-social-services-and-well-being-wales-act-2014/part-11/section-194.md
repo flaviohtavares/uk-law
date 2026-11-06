@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Ordinary residence[^key-c6418fc63318ac1a2ff74f30f77d66f5]
+## 194. Ordinary residence[^c-c6418fc63318ac1a2ff74f30f77d66f5]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) in the area in which the person was ordinarily resident immediately before the accommodation was provided, or
 - (b) if the person was of no settled residence immediately before the accommodation was provided, in the area in which the person was present at that time.
 
-(4A)[^key-925b946e16bde7ed01973e75c9d626b3] A person who is being provided with accommodation under section 117 of the Mental Health Act 1983 (after-care) is to be treated for the purposes of this Act as ordinarily resident in the area of the local authority, or the local authority in England, on which the duty to provide that person with services under that section is imposed.
+(4A)[^c-925b946e16bde7ed01973e75c9d626b3] A person who is being provided with accommodation under section 117 of the Mental Health Act 1983 (after-care) is to be treated for the purposes of this Act as ordinarily resident in the area of the local authority, or the local authority in England, on which the duty to provide that person with services under that section is imposed.
 
 (5) In subsection (4) “**health enactment**” means—
 
@@ -48,20 +48,20 @@ summary: ''
 
 - (a) a school or other institution;
 - (b) a place in which the child is placed in accordance with the requirements of a supervision order under the Children Act 1989;
-- (c) a place in which the child is placed in accordance with the requirements of a youth rehabilitation order under Chapter 1 of Part 9 of the Sentencing Cod[^key-d77454d11b70136502c70d19dbd3c6a5];
+- (c) a place in which the child is placed in accordance with the requirements of a youth rehabilitation order under Chapter 1 of Part 9 of the Sentencing Cod[^c-d77454d11b70136502c70d19dbd3c6a5];
 - (d) accommodation provided by or on behalf of a local authority or a local authority in England;
 - (e) a place specified in regulations.
 
 (7) See also sections 185(1) to (3) and 186(2) for provision as to the ordinary residence of persons in prison, youth detention accommodation or bail accommodation etc.
 
-(8)[^key-d9beed3d3ec9da6b0a0b92d3c4a9f6a0] For provision about cross-border placements to and from England, Scotland or Northern Ireland, see Schedule 1 to the Care Act 2014.
+(8)[^c-d9beed3d3ec9da6b0a0b92d3c4a9f6a0] For provision about cross-border placements to and from England, Scotland or Northern Ireland, see Schedule 1 to the Care Act 2014.
 
 ## Annotations
 
-[^key-c6418fc63318ac1a2ff74f30f77d66f5]: Commencement: S. 194 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-c6418fc63318ac1a2ff74f30f77d66f5]: Commencement: S. 194 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-925b946e16bde7ed01973e75c9d626b3]: Textual amendment: S. 194(4A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [316(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/316/a)
+[^c-925b946e16bde7ed01973e75c9d626b3]: Textual amendment: S. 194(4A) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [316(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/316/a)
 
-[^key-d77454d11b70136502c70d19dbd3c6a5]: Textual amendment: Words in s. 194(6)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 305(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/305/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d77454d11b70136502c70d19dbd3c6a5]: Textual amendment: Words in s. 194(6)(c) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 305(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/305/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d9beed3d3ec9da6b0a0b92d3c4a9f6a0]: Textual amendment: S. 194(8) inserted (6.4.2016) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/13) (with [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/8), [14](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/14)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/464/article/2/c)
+[^c-d9beed3d3ec9da6b0a0b92d3c4a9f6a0]: Textual amendment: S. 194(8) inserted (6.4.2016) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/13) (with [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/8), [14](https://www.legislation.gov.uk/ukpga/2014/23/schedule/1/paragraph/14)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/464/article/2/c)

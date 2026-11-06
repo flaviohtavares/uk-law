@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Appeals to the appropriate authority[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+## SCHEDULE 6 — Appeals to the appropriate authority[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Regulations 31(5) and 62(5)
 
-### 1. Interpretation[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 1. Interpretation[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Making an appeal[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 2. Making an appeal[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Time limit for making an appeal[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 3. Time limit for making an appeal[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Notice to affected and interested persons[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 4. Notice to affected and interested persons[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Hearing before an appointed person[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 5. Hearing before an appointed person[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Notice of determination of an appeal[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 6. Notice of determination of an appeal[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Procedure following the quashing of a determination of an appropriate authority[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 7. Procedure following the quashing of a determination of an appropriate authority[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

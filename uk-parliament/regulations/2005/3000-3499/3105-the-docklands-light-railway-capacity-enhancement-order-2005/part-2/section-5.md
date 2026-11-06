@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Power to construct and maintain works[^key-1f1e3eb75b2bd8fbac789d82c660973e]
+## 5. Power to construct and maintain works[^c-1f1e3eb75b2bd8fbac789d82c660973e]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ together with all necessary works and facilities in connection therewith.
 
 ## Annotations
 
-[^key-1f1e3eb75b2bd8fbac789d82c660973e]: Commencement: Art. 5 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-1f1e3eb75b2bd8fbac789d82c660973e]: Commencement: Art. 5 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
 [^f00019]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 

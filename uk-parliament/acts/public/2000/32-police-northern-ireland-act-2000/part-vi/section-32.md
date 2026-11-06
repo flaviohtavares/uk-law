@@ -36,10 +36,10 @@ summary: ''
 
 and that subsection, so far as it relates to the powers under any statutory provision, makes them exercisable throughout the adjacent United Kingdom waters whether or not the statutory provision applies to those waters apart from that subsection.
 
-(4)[^key-bc950bb8351c9a209dbef2c2271193ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bc950bb8351c9a209dbef2c2271193ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-bc950bb8351c9a209dbef2c2271193ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bc950bb8351c9a209dbef2c2271193ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc950bb8351c9a209dbef2c2271193ac]: Textual amendment: S. 32(4)(5) repealed (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2003/6/section/20/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4)
+[^c-bc950bb8351c9a209dbef2c2271193ac]: Textual amendment: S. 32(4)(5) repealed (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2003/6/section/20/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4)

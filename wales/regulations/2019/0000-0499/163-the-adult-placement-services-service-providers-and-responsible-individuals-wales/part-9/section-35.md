@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Support and information for adult placement carers[^key-42aefd56f3de7f87225c9e7f56a412e3]
+## 35. Support and information for adult placement carers[^c-42aefd56f3de7f87225c9e7f56a412e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must put arrangements in place to ensure that an adult plac
 
 ## Annotations
 
-[^key-42aefd56f3de7f87225c9e7f56a412e3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2019/163/regulation/35) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-42aefd56f3de7f87225c9e7f56a412e3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2019/163/regulation/35) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

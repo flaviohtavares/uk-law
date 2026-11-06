@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Production of documents and records[^key-51c8fdab436ae52e0faafe052a2d32a4]
+## 88. Production of documents and records[^c-51c8fdab436ae52e0faafe052a2d32a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The documents and records are—
 
-- (a)[^key-0ef8b212a592d7b4fa5f410e1ee89b62] the documents referred to in Schedule 7 as Documents A, B, D, G and H;
+- (a)[^c-0ef8b212a592d7b4fa5f410e1ee89b62] the documents referred to in Schedule 7 as Documents A, B, D, G and H;
 - (b) the aircraft log book, engine log books and variable pitch propeller log books required under this Order to be kept;
 - (c) the mass schedule, if any, required to be preserved under article 30(4);
 - (d) the record made by a flight data recorder required to be carried by or under this Order.
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51c8fdab436ae52e0faafe052a2d32a4]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2015/870/article/88) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-51c8fdab436ae52e0faafe052a2d32a4]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2015/870/article/88) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-0ef8b212a592d7b4fa5f410e1ee89b62]: Textual amendment: [Art. 88(2)(a)](https://www.legislation.gov.uk/uksi/2015/870/article/88/2/a) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [11](https://www.legislation.gov.uk/uksi/2016/155/article/11)
+[^c-0ef8b212a592d7b4fa5f410e1ee89b62]: Textual amendment: [Art. 88(2)(a)](https://www.legislation.gov.uk/uksi/2015/870/article/88/2/a) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [11](https://www.legislation.gov.uk/uksi/2016/155/article/11)

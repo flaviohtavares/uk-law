@@ -33,7 +33,7 @@ An Act to make provision connected with Northern Ireland about the decommissioni
 
 \[27th February 1997\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ebe7a159da743d13516199fc5dcfbed1]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ebe7a159da743d13516199fc5dcfbed1]
 
 ## 1. Decommissioning scheme.
 
@@ -56,7 +56,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (3) A day appointed by an order under subsection (2)(b) must not be—
 
 - (a) more than twelve months after the day on which the order is made, or
-- (b) later than 27th February[^c863724] 2010[^key-f16568930852c30e07871bb2401b07f0].
+- (b) later than 27th February[^c863724] 2010[^c-f16568930852c30e07871bb2401b07f0].
 
 (4) An order under subsection (2)(b) shall be made by statutory instrument; and no order shall be made unless a draft has been laid before, and approved by resolution of, each House of Parliament.
 
@@ -116,32 +116,32 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) is sought for the purposes of the investigation of an offence alleged to have been committed at a time after the article became a decommissioned article, and
 - (b) does not concern the treatment of the article in accordance with a decommissioning scheme.
 
-## 7. The Commission.[^key-ab7ac100a36eb0bf37eb29bab101563a]
+## 7. The Commission.[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-(1) In this section “ *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]**the Commission *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]**” means an independent organisation established by an agreement, made in connection with the affairs of Northern Ireland between Her Majesty’s Government in the United Kingdom and the Government of the Republic of Ireland, to facilitate the decommissioning of firearms, ammunition and explosives. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+(1) In this section “ *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]**the Commission *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]**” means an independent organisation established by an agreement, made in connection with the affairs of Northern Ireland between Her Majesty’s Government in the United Kingdom and the Government of the Republic of Ireland, to facilitate the decommissioning of firearms, ammunition and explosives. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-(2) The Secretary of State may by order— *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+(2) The Secretary of State may by order— *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-- (a) confer on the Commission the legal capacities of a body corporate; *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
-- (b) confer on the Commission, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Part I of Schedule 1 to the *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a] [^c863726]International Organisations Act 1968; *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
-- (c) confer on members and servants of the Commission and members of their families who form part of their households, in such cases, to such extent and with such modifications as the order may specify any of the privileges and immunities set out in Parts II, *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a] III *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a] and V of that Schedule; *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
-- (d) make provision about the waiver of privileges and immunities. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+- (a) confer on the Commission the legal capacities of a body corporate; *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
+- (b) confer on the Commission, in such cases, to such extent and with such modifications as the order may specify, any of the privileges and immunities set out in Part I of Schedule 1 to the *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a] [^c863726]International Organisations Act 1968; *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
+- (c) confer on members and servants of the Commission and members of their families who form part of their households, in such cases, to such extent and with such modifications as the order may specify any of the privileges and immunities set out in Parts II, *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a] III *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a] and V of that Schedule; *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
+- (d) make provision about the waiver of privileges and immunities. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-- In this subsection “ *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]**servants of the Commission *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]**” includes agents of, and persons carrying out work for or giving advice to, the Commission. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+- In this subsection “ *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]**servants of the Commission *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]**” includes agents of, and persons carrying out work for or giving advice to, the Commission. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-(3) An order under subsection (2)— *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+(3) An order under subsection (2)— *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-- (a) may make different provision for different cases (including different provision for different persons); *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
-- (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+- (a) may make different provision for different cases (including different provision for different persons); *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
+- (b) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-(4) The Secretary of State may— *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+(4) The Secretary of State may— *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-- (a) make payments to the Commission or to members of the Commission; *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
-- (b) provide for the Commission such premises and facilities, and the services of such staff, as he thinks appropriate. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+- (a) make payments to the Commission or to members of the Commission; *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
+- (b) provide for the Commission such premises and facilities, and the services of such staff, as he thinks appropriate. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-(5)[^c863727] This section shall come into force on such day as the Secretary of State, after consulting the Minister for Justice of the Republic of Ireland, may by order made by statutory instrument appoint. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+(5)[^c863727] This section shall come into force on such day as the Secretary of State, after consulting the Minister for Justice of the Republic of Ireland, may by order made by statutory instrument appoint. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
-(6)[^M_I_b98d99f6-d404-49b1-8983-b5bf81698015] This section shall cease to have effect at the end of such day as the Secretary of State, after consulting the Minister for Justice of the Republic of Ireland, may by order made by statutory instrument appoint; and an order under this subsection may include such transitional provisions as appear to the Secretary of State to be expedient. *(affected by repeal, see note)*[^key-ab7ac100a36eb0bf37eb29bab101563a]
+(6)[^M_I_b98d99f6-d404-49b1-8983-b5bf81698015] This section shall cease to have effect at the end of such day as the Secretary of State, after consulting the Minister for Justice of the Republic of Ireland, may by order made by statutory instrument appoint; and an order under this subsection may include such transitional provisions as appear to the Secretary of State to be expedient. *(affected by repeal, see note)*[^c-ab7ac100a36eb0bf37eb29bab101563a]
 
 ## 8. Arms in England and Wales and Scotland.
 
@@ -265,7 +265,7 @@ Section 4(1).
 
 ## Annotations
 
-[^key-ebe7a159da743d13516199fc5dcfbed1]: Modification: Act applied (S.) (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rules 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [6.8(2)](https://www.legislation.gov.uk/uksi/2018/1082/rule/6.8/2)
+[^c-ebe7a159da743d13516199fc5dcfbed1]: Modification: Act applied (S.) (6.4.2019) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 (S.I. 2018/1082)](https://www.legislation.gov.uk/uksi/2018/1082), [rules 1](https://www.legislation.gov.uk/uksi/2018/1082/rule/1), [6.8(2)](https://www.legislation.gov.uk/uksi/2018/1082/rule/6.8/2)
 
 [^c863720]: Marginal citation: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 
@@ -297,11 +297,11 @@ Section 4(1).
 
 [^c863724]: Textual amendment: Words in s. 2(3)(b) substituted (26.2.2002) by [2002 c. 6](https://www.legislation.gov.uk/ukpga/2002/6), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/6/section/1/3)
 
-[^key-f16568930852c30e07871bb2401b07f0]: Textual amendment: Word in s. 2(3)(b) substituted (10.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 21](https://www.legislation.gov.uk/ukpga/2006/33/section/21), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/3263](https://www.legislation.gov.uk/uksi/2006/3263), [art. 2](https://www.legislation.gov.uk/uksi/2006/3263/article/2)
+[^c-f16568930852c30e07871bb2401b07f0]: Textual amendment: Word in s. 2(3)(b) substituted (10.12.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 21](https://www.legislation.gov.uk/ukpga/2006/33/section/21), [31(3)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/3); [S.I. 2006/3263](https://www.legislation.gov.uk/uksi/2006/3263), [art. 2](https://www.legislation.gov.uk/uksi/2006/3263/article/2)
 
 [^c863725]: Modification: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1997/7/section/4/1) modified (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 15 para. 15(3)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/15/3); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
-[^key-ab7ac100a36eb0bf37eb29bab101563a]: Textual amendment: S. 7 ceases to have effect (1.4.2011) by virtue of [Northern Ireland Arms Decommissioning Act 1997 (Cessation of Section 7) Order 2011 (S.I. 2011/977)](https://www.legislation.gov.uk/uksi/2011/977), [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/977/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/977/article/3))
+[^c-ab7ac100a36eb0bf37eb29bab101563a]: Textual amendment: S. 7 ceases to have effect (1.4.2011) by virtue of [Northern Ireland Arms Decommissioning Act 1997 (Cessation of Section 7) Order 2011 (S.I. 2011/977)](https://www.legislation.gov.uk/uksi/2011/977), [art. 2(2)](https://www.legislation.gov.uk/uksi/2011/977/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/977/article/3))
 
 [^c863726]: Marginal citation: [1968 c. 48](https://www.legislation.gov.uk/ukpga/1968/48).
 

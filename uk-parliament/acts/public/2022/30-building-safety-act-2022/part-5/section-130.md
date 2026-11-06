@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Building liability orders[^key-cc9e396ee815f9e6d3bae1555cea4af0][^key-a348a12b42654ce3cc2b8346d3ba515a]
+## 130. Building liability orders[^c-cc9e396ee815f9e6d3bae1555cea4af0][^c-a348a12b42654ce3cc2b8346d3ba515a]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc9e396ee815f9e6d3bae1555cea4af0]: Commencement: S. 130 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-cc9e396ee815f9e6d3bae1555cea4af0]: Commencement: S. 130 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-a348a12b42654ce3cc2b8346d3ba515a]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2022/30/section/130) in force at 28.6.2022 by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/h)
+[^c-a348a12b42654ce3cc2b8346d3ba515a]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2022/30/section/130) in force at 28.6.2022 by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(h)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/h)

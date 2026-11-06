@@ -26,9 +26,9 @@ Section 314
 
 #### Housing Act 1996 (c. 52)
 
-**1.**[^key-bc2ae9659a214043205bf0274c9aa306] The Housing Act 1996 is amended as follows.
+**1.**[^c-bc2ae9659a214043205bf0274c9aa306] The Housing Act 1996 is amended as follows.
 
-**2.**[^key-4c0f37d19d646ba4685dfc79ad1074f7] (1) Section 167 (allocation in accordance with allocation scheme) is amended as follows.
+**2.**[^c-4c0f37d19d646ba4685dfc79ad1074f7] (1) Section 167 (allocation in accordance with allocation scheme) is amended as follows.
 
 (2) In subsection (2) after “scheme shall” insert “ , subject to subsection (2ZA), ”.
 
@@ -36,7 +36,7 @@ Section 314
 
 > (2ZA) People are to be disregarded for the purposes of subsection (2) if they would not have fallen within paragraph (a) or (b) of that subsection without the local housing authority having had regard to a restricted person (within the meaning of Part 7).
 
-**3.**[^key-41231c4244e605b3147896b74e7caf80] (1) Section 184 (inquiry into cases of homelessness or threatened homelessness) is amended as follows.
+**3.**[^c-41231c4244e605b3147896b74e7caf80] (1) Section 184 (inquiry into cases of homelessness or threatened homelessness) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -57,7 +57,7 @@ Section 314
 >   - (i) who does not have leave to enter or remain in the United Kingdom, or
 >   - (ii) whose leave to enter or remain in the United Kingdom is subject to a condition to maintain and accommodate himself, and any dependants, without recourse to public funds.
 
-**4.**[^key-e9792213d2fd2bc30d47aac8d31b72f0] (1) Section 185 (persons from abroad not eligible for certain housing assistance) is amended as follows.
+**4.**[^c-e9792213d2fd2bc30d47aac8d31b72f0] (1) Section 185 (persons from abroad not eligible for certain housing assistance) is amended as follows.
 
 (2) In subsection (4) for “another person” substitute “ a person falling within subsection (5) ”.
 
@@ -68,7 +68,7 @@ Section 314
 > - (a) falls within a class prescribed by regulations made under subsection (2); but
 > - (b) is not a national of an EEA State or Switzerland.
 
-**5.**[^key-e8b47f990b8b19ccd16885a12919fa74] (1) Section 193 (duty to persons with priority need who are not homeless intentionally) is amended as follows.
+**5.**[^c-e8b47f990b8b19ccd16885a12919fa74] (1) Section 193 (duty to persons with priority need who are not homeless intentionally) is amended as follows.
 
 (2) In subsection (3A) after “this section” insert “ in a case which is not a restricted case ”.
 
@@ -104,7 +104,7 @@ Section 314
 
 .
 
-**6.**[^key-b106c34f69786a727916e12ac29b02b5] (1) Section 195 (duties in the case of threatened homelessness) is amended as follows.
+**6.**[^c-b106c34f69786a727916e12ac29b02b5] (1) Section 195 (duties in the case of threatened homelessness) is amended as follows.
 
 (2) In subsection (3A) after “this section” insert “ in a case which is not a restricted threatened homelessness case ”.
 
@@ -119,7 +119,7 @@ Section 314
 >
 > (4B) In subsections (3A) to (4A) “**a restricted threatened homelessness case**” means a case where the local housing authority would not be satisfied as mentioned in subsection (1) without having had regard to a restricted person.
 
-**7.**[^key-e388ae0245b4fd537326200d94af4a63] (1) Section 202 (right to request review of decision) is amended as follows.
+**7.**[^c-e388ae0245b4fd537326200d94af4a63] (1) Section 202 (right to request review of decision) is amended as follows.
 
 (2) In subsection (1) after paragraph (f) insert
 
@@ -132,7 +132,7 @@ Section 314
 - (a) for “or (7)” substitute “ , (7) or (7AA) ”, and
 - (b) after “(f)” insert “ or (as the case may be) (g) ”.
 
-**8.**[^key-9481481b6885d2ce5c0ddabd26d26215] In section 218 (index of defined expressions: Part 7) insert in the Table at the appropriate place—
+**8.**[^c-9481481b6885d2ce5c0ddabd26d26215] In section 218 (index of defined expressions: Part 7) insert in the Table at the appropriate place—
 
 > |  |  |
 > | --- | --- |
@@ -144,9 +144,9 @@ Section 314
 
 #### Housing (Scotland) Act 1987 (c. 26)
 
-**9.**[^key-ec8619bbf414650ffff92d412b51fc5e] The Housing (Scotland) Act 1987 is amended as follows.
+**9.**[^c-ec8619bbf414650ffff92d412b51fc5e] The Housing (Scotland) Act 1987 is amended as follows.
 
-**10.**[^key-078d7872fc7876d2233020cc09b2c3f7] (1) Section 20 (persons having priority on housing list and allocation of housing) is amended as follows.
+**10.**[^c-078d7872fc7876d2233020cc09b2c3f7] (1) Section 20 (persons having priority on housing list and allocation of housing) is amended as follows.
 
 (2) In subsection (1)(b) at the beginning insert “ subject to subsection (1A), ”.
 
@@ -156,7 +156,7 @@ Section 314
 
 (4) In subsection (2) for “such housing” substitute “ housing falling within subsection (1) ”.
 
-**11.**[^key-2eba5b6cd230487e78331695b8b2e6ef] (1) Section 30 (notification of decision and reasons) is amended as follows.
+**11.**[^c-2eba5b6cd230487e78331695b8b2e6ef] (1) Section 30 (notification of decision and reasons) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -177,7 +177,7 @@ Section 314
 >   - (i) who does not have leave to enter or remain in the United Kingdom, or
 >   - (ii) whose leave to enter or remain in the United Kingdom is subject to a condition to maintain and accommodate himself, and any dependants, without recourse to public funds.
 
-**12.**[^key-991aeb7edf2c10777b79182fbcd38440] (1) Section 31 (duties to persons found to be homeless) is amended as follows.
+**12.**[^c-991aeb7edf2c10777b79182fbcd38440] (1) Section 31 (duties to persons found to be homeless) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -212,7 +212,7 @@ Section 314
 - (a) for “In any other case, they” substitute “ In a case not falling within subsection (2), the local authority ”, and
 - (b) in paragraph (a) for “his”, in the first place where it appears, substitute “ the applicant's ”.
 
-**13.**[^key-c8c272fa38b5ddfefdbbb90be2b0fe08] (1) Section 32 (duties to persons found to be threatened with homelessness) is amended as follows.
+**13.**[^c-c8c272fa38b5ddfefdbbb90be2b0fe08] (1) Section 32 (duties to persons found to be threatened with homelessness) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -226,7 +226,7 @@ Section 314
 
 > (5A) In this section “**a restricted threatened homelessness case**” means a case falling within subsection (2) where the local authority would not be satisfied as mentioned in subsections (1) and (2) without having had regard to a restricted person.
 
-**14.**[^key-4c5fd02ba852fa358fde155987969476] (1) Section 34 (duties to persons whose applications are referred) is amended as follows.
+**14.**[^c-4c5fd02ba852fa358fde155987969476] (1) Section 34 (duties to persons whose applications are referred) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -243,13 +243,13 @@ Section 314
 
 (4) Omit subsection (6).
 
-**15.**[^key-5c84b614d15408cbc6851f534764740b] In section 35A(2) (right to request review of decision) after paragraph (d) insert—
+**15.**[^c-5c84b614d15408cbc6851f534764740b] In section 35A(2) (right to request review of decision) after paragraph (d) insert—
 
 > - (e) in a case where a private accommodation offer is made to the applicant, any decision—
 >   - (i) that the accommodation offered is not accommodation falling within section 32(5)(a) to (c), or
 >   - (ii) that the authority have discharged their duty to the applicant under section 32(8).
 
-**16.**[^key-2d085fbf3d4e5282f7e1b648e364e808] In section 43 (minor definitions) at the appropriate places insert—
+**16.**[^c-2d085fbf3d4e5282f7e1b648e364e808] In section 43 (minor definitions) at the appropriate places insert—
 
 - (a) “ “**private accommodation offer**” has the meaning assigned to it by section 31(2D);”,
 - (b) “ “**restricted person**” has the meaning assigned to it by section 30(6);”, and
@@ -257,9 +257,9 @@ Section 314
 
 #### Housing (Northern Ireland) Order 1988 (S.I. 1988/1990 (N.I. 23))
 
-**17.**[^key-4cee52708ea1e928c131cd75d657fa21] Part 2 of the Housing (Northern Ireland) Order 1988 is amended as follows.
+**17.**[^c-4cee52708ea1e928c131cd75d657fa21] Part 2 of the Housing (Northern Ireland) Order 1988 is amended as follows.
 
-**18.**[^key-0cb80178769b85a2d5ccc94e557a784e] (1) Article 7A (persons not eligible for housing assistance) is amended as follows.
+**18.**[^c-0cb80178769b85a2d5ccc94e557a784e] (1) Article 7A (persons not eligible for housing assistance) is amended as follows.
 
 (2) In paragraph (4) for “another person” substitute “ a person falling within paragraph (4A) ”.
 
@@ -270,7 +270,7 @@ Section 314
 > - (a) falls within a class specified in an order under section 119(1) of the Immigration and Asylum Act 1999; but
 > - (b) is not a national of an EEA State or Switzerland.
 
-**19.**[^key-4889034293b93f07a8083430d3682983] (1) Article 9 (notification of decision and reasons) is amended as follows.
+**19.**[^c-4889034293b93f07a8083430d3682983] (1) Article 9 (notification of decision and reasons) is amended as follows.
 
 (2) After paragraph (3) insert—
 
@@ -291,7 +291,7 @@ Section 314
 >   - (i) who does not have leave to enter or remain in the United Kingdom, or
 >   - (ii) whose leave to enter or remain in the United Kingdom is subject to a condition to maintain and accommodate himself, and any dependants, without recourse to public funds.
 
-**20.**[^key-270db8dfb0036635950469f6bfff4fad] (1) Article 10 (duties to persons found to be homeless) is amended as follows.
+**20.**[^c-270db8dfb0036635950469f6bfff4fad] (1) Article 10 (duties to persons found to be homeless) is amended as follows.
 
 (2) After paragraph (2) insert—
 
@@ -329,7 +329,7 @@ Section 314
 > - “**a restricted case**” means a case falling within paragraph (2) where the Executive would not be satisfied as mentioned in paragraphs (1) and (2) without having had regard to a restricted person,
 > - “**a restricted person**” has the same meaning as in Article 9.
 
-**21.**[^key-deb5fc6a77b33b57dfe7297ba7de17f6] (1) Article 11 (duties to persons found to be threatened with homelessness) is amended as follows.
+**21.**[^c-deb5fc6a77b33b57dfe7297ba7de17f6] (1) Article 11 (duties to persons found to be threatened with homelessness) is amended as follows.
 
 (2) After paragraph (2) insert—
 
@@ -346,7 +346,7 @@ Section 314
 
 #### Immigration and Asylum Act 1999 (c. 33)
 
-**22.**[^key-00010a4abd576c99b1d8f9d0fb71b203] (1) Section 119 of the Immigration and Asylum Act 1999 (persons subject to immigration control to be disregarded in determining another person's eligibility for accommodation or assistance) is amended as follows.
+**22.**[^c-00010a4abd576c99b1d8f9d0fb71b203] (1) Section 119 of the Immigration and Asylum Act 1999 (persons subject to immigration control to be disregarded in determining another person's eligibility for accommodation or assistance) is amended as follows.
 
 (2) In subsection (1)(b) for “another person” substitute “ a person falling within subsection (1A) ”.
 
@@ -361,60 +361,60 @@ Section 314
 
 #### Criminal Justice and Immigration Act 2008 (c. 4)
 
-**23.**[^key-9e221c21615387f900630fb43d32fc45] The Criminal Justice and Immigration Act 2008 is amended as follows.
+**23.**[^c-9e221c21615387f900630fb43d32fc45] The Criminal Justice and Immigration Act 2008 is amended as follows.
 
-**24.**[^key-af3ece9a8a75b33163af65f1f63ac3ea] Omit section 134(6) (support for designated persons: eligibility for certain housing assistance).
+**24.**[^c-af3ece9a8a75b33163af65f1f63ac3ea] Omit section 134(6) (support for designated persons: eligibility for certain housing assistance).
 
-**25.**[^key-80fcf9fce4e62a1408b7830c62543278] Omit section 135(7) (power to amend or repeal section 134(6)).
+**25.**[^c-80fcf9fce4e62a1408b7830c62543278] Omit section 135(7) (power to amend or repeal section 134(6)).
 
 ## Annotations
 
-[^key-bc2ae9659a214043205bf0274c9aa306]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/1) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-bc2ae9659a214043205bf0274c9aa306]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/1) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-4c0f37d19d646ba4685dfc79ad1074f7]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/2) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-4c0f37d19d646ba4685dfc79ad1074f7]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/2) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-41231c4244e605b3147896b74e7caf80]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/3) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-41231c4244e605b3147896b74e7caf80]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/3) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-e9792213d2fd2bc30d47aac8d31b72f0]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/4) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-e9792213d2fd2bc30d47aac8d31b72f0]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/4) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-e8b47f990b8b19ccd16885a12919fa74]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/5) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-e8b47f990b8b19ccd16885a12919fa74]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/5) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-b106c34f69786a727916e12ac29b02b5]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/6) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-b106c34f69786a727916e12ac29b02b5]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/6) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-e388ae0245b4fd537326200d94af4a63]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/7) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-e388ae0245b4fd537326200d94af4a63]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/7) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-9481481b6885d2ce5c0ddabd26d26215]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/8) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
+[^c-9481481b6885d2ce5c0ddabd26d26215]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/8) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 2](https://www.legislation.gov.uk/uksi/2009/415/article/2)
 
-[^key-ec8619bbf414650ffff92d412b51fc5e]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/9) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-ec8619bbf414650ffff92d412b51fc5e]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/9) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-078d7872fc7876d2233020cc09b2c3f7]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/10) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-078d7872fc7876d2233020cc09b2c3f7]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/10) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-2eba5b6cd230487e78331695b8b2e6ef]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/11) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-2eba5b6cd230487e78331695b8b2e6ef]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/11) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-991aeb7edf2c10777b79182fbcd38440]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/12) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-991aeb7edf2c10777b79182fbcd38440]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/12) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-c8c272fa38b5ddfefdbbb90be2b0fe08]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/13) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-c8c272fa38b5ddfefdbbb90be2b0fe08]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/13) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-4c5fd02ba852fa358fde155987969476]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/14) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-4c5fd02ba852fa358fde155987969476]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/14) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-5c84b614d15408cbc6851f534764740b]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/15) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-5c84b614d15408cbc6851f534764740b]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/15) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-2d085fbf3d4e5282f7e1b648e364e808]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/16) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-2d085fbf3d4e5282f7e1b648e364e808]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/16) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-4cee52708ea1e928c131cd75d657fa21]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/17) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-4cee52708ea1e928c131cd75d657fa21]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/17) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-0cb80178769b85a2d5ccc94e557a784e]: Commencement: [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/18) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-0cb80178769b85a2d5ccc94e557a784e]: Commencement: [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/18) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-4889034293b93f07a8083430d3682983]: Commencement: [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/19) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-4889034293b93f07a8083430d3682983]: Commencement: [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/19) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-270db8dfb0036635950469f6bfff4fad]: Commencement: [Sch. 15 para. 20](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/20) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-270db8dfb0036635950469f6bfff4fad]: Commencement: [Sch. 15 para. 20](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/20) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-deb5fc6a77b33b57dfe7297ba7de17f6]: Commencement: [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/21) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-deb5fc6a77b33b57dfe7297ba7de17f6]: Commencement: [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/21) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-00010a4abd576c99b1d8f9d0fb71b203]: Commencement: [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/22) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
+[^c-00010a4abd576c99b1d8f9d0fb71b203]: Commencement: [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/22) in force at 2.3.2009 for specified purposes by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-9e221c21615387f900630fb43d32fc45]: Commencement: [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/23) in force at 2.3.2009 by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
+[^c-9e221c21615387f900630fb43d32fc45]: Commencement: [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/23) in force at 2.3.2009 by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
 
-[^key-af3ece9a8a75b33163af65f1f63ac3ea]: Commencement: [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/24) in force at 2.3.2009 by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
+[^c-af3ece9a8a75b33163af65f1f63ac3ea]: Commencement: [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/24) in force at 2.3.2009 by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
 
-[^key-80fcf9fce4e62a1408b7830c62543278]: Commencement: [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/25) in force at 2.3.2009 by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)
+[^c-80fcf9fce4e62a1408b7830c62543278]: Commencement: [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/25) in force at 2.3.2009 by [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/415/article/4/a)

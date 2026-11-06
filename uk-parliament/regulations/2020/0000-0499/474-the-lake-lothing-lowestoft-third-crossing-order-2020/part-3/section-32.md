@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Modification of the 1965 Act[^key-da3a3f63f69f0dfcbc6e56b0b2cbe0ae]
+## 32. Modification of the 1965 Act[^c-da3a3f63f69f0dfcbc6e56b0b2cbe0ae]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-da3a3f63f69f0dfcbc6e56b0b2cbe0ae]: Commencement: Art. 32 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-da3a3f63f69f0dfcbc6e56b0b2cbe0ae]: Commencement: Art. 32 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091361]: Marginal citation: [Section 4A](https://www.legislation.gov.uk/uksi/2020/474/section/4A) was inserted by section 202(1) of the Housing and Planning Act 2016.
 

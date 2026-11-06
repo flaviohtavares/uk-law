@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Definition of certain terms in amended enactments: England[^key-9734ba3b87b019c6699e7ba9edd415a2]
+## 217. Definition of certain terms in amended enactments: England[^c-9734ba3b87b019c6699e7ba9edd415a2]
 
 *Extent: E+W*
 
 (1) The Secretary of State may by order under this section—
 
-- (a)[^key-e3b53e33cd8ead7035f60ecfd14c43aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e3b53e33cd8ead7035f60ecfd14c43aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) define for the purposes of section 80(1)(aa) of the Local Government Act 1972 (c. 70) the reference in that provision to “an entity under the control of” the authority mentioned there;
 - (c) define, for the purposes of sections 98(8)(d) and 100(1)(a) of the Local Government, Planning and Land Act 1980 (c. 65), the references in each of those provisions to—
   - (i) “an entity under the control of” the body mentioned there;
@@ -52,6 +52,6 @@ is a reference to the purposes of that provision as it applies in relation to En
 
 ## Annotations
 
-[^key-9734ba3b87b019c6699e7ba9edd415a2]: Commencement: S. 217 in force at 30.12.2007, see s. 245(2)
+[^c-9734ba3b87b019c6699e7ba9edd415a2]: Commencement: S. 217 in force at 30.12.2007, see s. 245(2)
 
-[^key-e3b53e33cd8ead7035f60ecfd14c43aa]: Textual amendment: [S. 217(1)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/217/1/a) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-e3b53e33cd8ead7035f60ecfd14c43aa]: Textual amendment: [S. 217(1)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/217/1/a) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)

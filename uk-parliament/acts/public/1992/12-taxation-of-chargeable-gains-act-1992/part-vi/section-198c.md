@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198C. Provisional application of sections 198A and 198B[^key-b5860f8d292feb332d076a83451242de]
+## 198C. Provisional application of sections 198A and 198B[^c-b5860f8d292feb332d076a83451242de]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ on P making a claim, the declaration is to have effect as also a declaration und
 
 ## Annotations
 
-[^key-b5860f8d292feb332d076a83451242de]: Textual amendment: Ss. 198A-198G inserted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/12)
+[^c-b5860f8d292feb332d076a83451242de]: Textual amendment: Ss. 198A-198G inserted (with effect in accordance with Sch. 40 para. 13 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 40 para. 12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/40/paragraph/12)

@@ -30,7 +30,7 @@ summary: ''
 
 - (a) land, or an estate or interest in land, is transferred,
 - (b) the transferor, or a company associated with the transferor, becomes liable to make a payment of rent under a lease of the land or part of it, and
-- (c)[^key-0ca86157ae391ff2d02cd88ea9a778a8] a deduction is allowed for the payment by taking it into account in the calculation at step 1 of section 76 of FA 2012 (management expenses of insurance companies carrying on basic life assurance and general annuity business).
+- (c)[^c-0ca86157ae391ff2d02cd88ea9a778a8] a deduction is allowed for the payment by taking it into account in the calculation at step 1 of section 76 of FA 2012 (management expenses of insurance companies carrying on basic life assurance and general annuity business).
 
 (3) The reference in subsection (1)(a) or (2)(a) to a transfer of an estate or interest in land includes a reference to any of the following—
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ca86157ae391ff2d02cd88ea9a778a8]: Textual amendment: [S. 835(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/835/2/c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 224](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/224)
+[^c-0ca86157ae391ff2d02cd88ea9a778a8]: Textual amendment: [S. 835(2)(c)](https://www.legislation.gov.uk/ukpga/2010/4/section/835/2/c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 224](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/224)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Special procedure: interview of the person concerned[^key-72decd09caebda04581d98a4dc2956ff]
+## 51. Special procedure: interview of the person concerned[^c-72decd09caebda04581d98a4dc2956ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the interview must be postponed to the time proposed by the person concerned.
 
 ## Annotations
 
-[^key-72decd09caebda04581d98a4dc2956ff]: Commencement: Reg. 51 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-72decd09caebda04581d98a4dc2956ff]: Commencement: Reg. 51 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

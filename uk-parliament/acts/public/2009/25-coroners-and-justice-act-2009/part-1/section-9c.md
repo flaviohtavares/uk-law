@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9C. Inquests without jury to be conducted at hearing or in writing[^key-f74448da97ee62be4ddb7544e2265c55]
+## 9C. Inquests without jury to be conducted at hearing or in writing[^c-f74448da97ee62be4ddb7544e2265c55]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f74448da97ee62be4ddb7544e2265c55]: Textual amendment: S. 9C inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/2), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-f74448da97ee62be4ddb7544e2265c55]: Textual amendment: S. 9C inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/40/2), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

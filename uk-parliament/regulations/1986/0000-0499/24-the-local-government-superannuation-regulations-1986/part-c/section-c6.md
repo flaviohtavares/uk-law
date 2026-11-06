@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C6. Periodical payments to increase reckonable service[^key-3f814d5c021c2eec59a4c585e61bc68a]
+## C6. Periodical payments to increase reckonable service[^c-3f814d5c021c2eec59a4c585e61bc68a]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f814d5c021c2eec59a4c585e61bc68a]: Commencement: [Reg. C6](https://www.legislation.gov.uk/uksi/1986/24/regulation/C6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-3f814d5c021c2eec59a4c585e61bc68a]: Commencement: [Reg. C6](https://www.legislation.gov.uk/uksi/1986/24/regulation/C6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Forfeiture[^key-6ae4ef75f21869a75dd5d4f9d6cee8af] Regulations 1999
+The Forfeiture[^c-6ae4ef75f21869a75dd5d4f9d6cee8af] Regulations 1999
 
 Made
 
@@ -50,39 +50,39 @@ The Lord Chancellor, in exercise of the powers conferred by sections 14 to 16, 2
 
 ### 1. Citation and commencement
 
-These Regulations may be cited as the Forfeiture[^key-31557d8ea33f432cc75b595423cd02c3] Regulations 1999 and shall come into force on 1st June 1999.
+These Regulations may be cited as the Forfeiture[^c-31557d8ea33f432cc75b595423cd02c3] Regulations 1999 and shall come into force on 1st June 1999.
 
-### 2. Revocation[^key-969f6c6520bba69ba2a967e96fb4d66b]
+### 2. Revocation[^c-969f6c6520bba69ba2a967e96fb4d66b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Transitional provisions[^key-da8ec24244300df3ff873cfb078f3b4e]
+### 3. Transitional provisions[^c-da8ec24244300df3ff873cfb078f3b4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. Interpretation
 
-(1)[^key-5d5cdd69aabbc6f391ae8d533610a7b9] In these Regulations, unless the context otherwise requires–
+(1)[^c-5d5cdd69aabbc6f391ae8d533610a7b9] In these Regulations, unless the context otherwise requires–
 
-- “the 1998 Act[^key-a6bbb672fdab0cb33f58998166998a4d]" means the Social Security Act 1998;
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-  - (i) [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-  - (ii) [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
-- [^key-10174a7be9d5b37eccd6f78b35e731d1]...
+- “the 1998 Act[^c-a6bbb672fdab0cb33f58998166998a4d]" means the Social Security Act 1998;
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+  - (i) [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+  - (ii) [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
+- [^c-10174a7be9d5b37eccd6f78b35e731d1]...
 
-(2)[^key-574a0d97faec4fba52dd9e80b1749ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-574a0d97faec4fba52dd9e80b1749ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-574a0d97faec4fba52dd9e80b1749ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-574a0d97faec4fba52dd9e80b1749ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. General powers of a Commissioner[^M_F_d975f6ae-74a3-4652-edff-5502cc676caf]
 
@@ -100,7 +100,7 @@ These Regulations may be cited as the Forfeiture[^key-31557d8ea33f432cc75b595423
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### .8A. Funding of legal services[^M_F_8cb50db2-53d7-4c52-849b-f0fa1016fb47][^key-e6cf82f1ffbc88d07e753899bc258e33]
+### .8A. Funding of legal services[^M_F_8cb50db2-53d7-4c52-849b-f0fa1016fb47][^c-e6cf82f1ffbc88d07e753899bc258e33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,11 +128,11 @@ These Regulations may be cited as the Forfeiture[^key-31557d8ea33f432cc75b595423
 
 ### 14. References under the Forfeiture Act 1982
 
-(1) For the purposes of section 4(5) of the Forfeiture Act 1982, the 1998 Act[^key-72d9d97aade72b03399c512b29cbdd79] shall be prescribed as a relevant enactment.
+(1) For the purposes of section 4(5) of the Forfeiture Act 1982, the 1998 Act[^c-72d9d97aade72b03399c512b29cbdd79] shall be prescribed as a relevant enactment.
 
-(2)[^key-3552389abb2d3409c2a0b318042ed8d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3552389abb2d3409c2a0b318042ed8d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3552389abb2d3409c2a0b318042ed8d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3552389abb2d3409c2a0b318042ed8d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Further provisions relating to references under the Forfeiture Act 1982[^M_F_fcefae51-aabb-45ed-84ca-ce87244170d3]
 
@@ -226,7 +226,7 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 ## Annotations
 
-[^key-6ae4ef75f21869a75dd5d4f9d6cee8af]: Textual amendment: Word in Short Title substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/131)
+[^c-6ae4ef75f21869a75dd5d4f9d6cee8af]: Textual amendment: Word in Short Title substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/131)
 
 [^c1641332]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14). Section 84 is an interpretation provision and is cited because of the meaning assigned to the word “prescribe".
 
@@ -234,19 +234,19 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^c1641334]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-31557d8ea33f432cc75b595423cd02c3]: Textual amendment: Word in reg. 1 substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/131)
+[^c-31557d8ea33f432cc75b595423cd02c3]: Textual amendment: Word in reg. 1 substituted (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/131)
 
-[^key-969f6c6520bba69ba2a967e96fb4d66b]: Textual amendment: Reg. 2 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 132](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/132)
+[^c-969f6c6520bba69ba2a967e96fb4d66b]: Textual amendment: Reg. 2 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 132](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/132)
 
-[^key-da8ec24244300df3ff873cfb078f3b4e]: Textual amendment: Reg. 3 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 132](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/132)
+[^c-da8ec24244300df3ff873cfb078f3b4e]: Textual amendment: Reg. 3 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 132](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/132)
 
-[^key-5d5cdd69aabbc6f391ae8d533610a7b9]: Textual amendment: Reg. 4(1): reg. 4 renumbered as reg. 4(1) (2.7.2001) by [The Social Security Commissioners (Procedure) (Amendment) Regulations 2001 (S.I. 2001/1095)](https://www.legislation.gov.uk/uksi/2001/1095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/3/a)
+[^c-5d5cdd69aabbc6f391ae8d533610a7b9]: Textual amendment: Reg. 4(1): reg. 4 renumbered as reg. 4(1) (2.7.2001) by [The Social Security Commissioners (Procedure) (Amendment) Regulations 2001 (S.I. 2001/1095)](https://www.legislation.gov.uk/uksi/2001/1095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/3/a)
 
-[^key-a6bbb672fdab0cb33f58998166998a4d]: Textual amendment: Words in reg. 4(1) substituted (2.7.2001) by [The Social Security Commissioners (Procedure) (Amendment) Regulations 2001 (S.I. 2001/1095)](https://www.legislation.gov.uk/uksi/2001/1095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/3/b)
+[^c-a6bbb672fdab0cb33f58998166998a4d]: Textual amendment: Words in reg. 4(1) substituted (2.7.2001) by [The Social Security Commissioners (Procedure) (Amendment) Regulations 2001 (S.I. 2001/1095)](https://www.legislation.gov.uk/uksi/2001/1095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/3/b)
 
-[^key-10174a7be9d5b37eccd6f78b35e731d1]: Textual amendment: Words in reg. 4(1) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 133(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/133/a) (with [arts. 3(2)(d)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/d), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-10174a7be9d5b37eccd6f78b35e731d1]: Textual amendment: Words in reg. 4(1) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 133(a)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/133/a) (with [arts. 3(2)(d)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/d), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
-[^key-574a0d97faec4fba52dd9e80b1749ec2]: Textual amendment: Reg. 4(2)(3) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 133(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/133/b)
+[^c-574a0d97faec4fba52dd9e80b1749ec2]: Textual amendment: Reg. 4(2)(3) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 133(b)](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/133/b)
 
 [^M_F_d975f6ae-74a3-4652-edff-5502cc676caf]: Textual amendment: Reg. 5 omitted (3.11.2008) by virtue of S.I. 2008/2683, Sch. 1, para. 134
 
@@ -258,7 +258,7 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^M_F_8cb50db2-53d7-4c52-849b-f0fa1016fb47]: Textual amendment: Reg. 8A omitted (3.11.2008) by virtue of S.I. 2008/2683, Sch. 1, para. 134
 
-[^key-e6cf82f1ffbc88d07e753899bc258e33]: Textual amendment: Reg. 8A inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/207/regulation/2/5)
+[^c-e6cf82f1ffbc88d07e753899bc258e33]: Textual amendment: Reg. 8A inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2005/207/regulation/2/5)
 
 [^M_F_38b8dbad-fe5a-41cc-80a5-fd40f86a853d]: Textual amendment: Reg. 9 omitted (3.11.2008) by virtue of S.I. 2008/2683, Sch. 1, para. 134
 
@@ -270,9 +270,9 @@ These Regulations regulate the procedure of the Social Security Commissioners in
 
 [^M_F_d6a8886f-b1f3-45c0-ea84-2043f19c4521]: Textual amendment: Reg. 13 omitted (3.11.2008) by virtue of S.I. 2008/2683, Sch. 1, para. 134
 
-[^key-72d9d97aade72b03399c512b29cbdd79]: Textual amendment: Words in reg. 14(1) substituted (2.7.2001) by [The Social Security Commissioners (Procedure) (Amendment) Regulations 2001 (S.I. 2001/1095)](https://www.legislation.gov.uk/uksi/2001/1095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/5/a)
+[^c-72d9d97aade72b03399c512b29cbdd79]: Textual amendment: Words in reg. 14(1) substituted (2.7.2001) by [The Social Security Commissioners (Procedure) (Amendment) Regulations 2001 (S.I. 2001/1095)](https://www.legislation.gov.uk/uksi/2001/1095), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2001/1095/regulation/5/a)
 
-[^key-3552389abb2d3409c2a0b318042ed8d0]: Textual amendment: Reg. 14(2)(3) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 135](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/135)
+[^c-3552389abb2d3409c2a0b318042ed8d0]: Textual amendment: Reg. 14(2)(3) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 135](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/135)
 
 [^M_F_fcefae51-aabb-45ed-84ca-ce87244170d3]: Textual amendment: Reg. 15 omitted (3.11.2008) by virtue of S.I. 2008/2683, Sch. 1, para. 136
 

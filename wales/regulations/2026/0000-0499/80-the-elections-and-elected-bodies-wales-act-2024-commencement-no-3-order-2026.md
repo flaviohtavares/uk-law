@@ -39,15 +39,15 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 72(4) and (6) of the Elections and Elected Bodies (Wales) Act 2024[^f00001], and having complied with the requirements of section 72(5), make the following Order.
 
-## 1. Title and interpretation[^key-e242f7184ffb7af9bdf781f0fc50b8e6]
+## 1. Title and interpretation[^c-e242f7184ffb7af9bdf781f0fc50b8e6]
 
 (1) The title of this Order is the Elections and Elected Bodies (Wales) Act 2024 (Commencement No. 3) Order 2026.
 
 (2) In this Order, “**the Act**” means the Elections and Elected Bodies (Wales) Act 2024.
 
-## 2. Provisions coming into force ...[^key-426b007932b0a9adba67df35aa4611af][^key-ade07552387cf2bb446c7a7099ca2495]
+## 2. Provisions coming into force ...[^c-426b007932b0a9adba67df35aa4611af][^c-ade07552387cf2bb446c7a7099ca2495]
 
-The following provisions of the Act come into force on the day on which the Representation of the People (Electoral Registration​ without Applications) (Electoral Reform) (Wales) Regulations​ 2026 come into force[^key-63c74ce20209b44d2c11d615b26d9172]—
+The following provisions of the Act come into force on the day on which the Representation of the People (Electoral Registration​ without Applications) (Electoral Reform) (Wales) Regulations​ 2026 come into force[^c-63c74ce20209b44d2c11d615b26d9172]—
 
 - (a) section 3 (duty to register local government electors);
 - (b) section 4 (provision connected to the duty to register eligible local government electors).
@@ -108,10 +108,10 @@ The following provisions of the Act have been brought into force by a commenceme
 
 [^f00001]: Footnote: [2024 asc 5](https://www.legislation.gov.uk/asc/2024/5).
 
-[^key-e242f7184ffb7af9bdf781f0fc50b8e6]: Commencement: Art. 1 in force at made date
+[^c-e242f7184ffb7af9bdf781f0fc50b8e6]: Commencement: Art. 1 in force at made date
 
-[^key-426b007932b0a9adba67df35aa4611af]: Commencement: Art. 2 in force at made date
+[^c-426b007932b0a9adba67df35aa4611af]: Commencement: Art. 2 in force at made date
 
-[^key-ade07552387cf2bb446c7a7099ca2495]: Textual amendment: Words in art. 2 heading omitted (17.9.2026) by virtue of [The Elections and Elected Bodies (Wales) Act 2024​ (Amendment to Commencement Order No. 3) Order 2026 (W.S.I. 2026/117)](https://www.legislation.gov.uk/wsi/2026/117), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/117/article/2/a)
+[^c-ade07552387cf2bb446c7a7099ca2495]: Textual amendment: Words in art. 2 heading omitted (17.9.2026) by virtue of [The Elections and Elected Bodies (Wales) Act 2024​ (Amendment to Commencement Order No. 3) Order 2026 (W.S.I. 2026/117)](https://www.legislation.gov.uk/wsi/2026/117), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/117/article/2/a)
 
-[^key-63c74ce20209b44d2c11d615b26d9172]: Textual amendment: Words in art. 2 substituted (17.9.2026) by [The Elections and Elected Bodies (Wales) Act 2024​ (Amendment to Commencement Order No. 3) Order 2026 (W.S.I. 2026/117)](https://www.legislation.gov.uk/wsi/2026/117), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/117/article/2/b)
+[^c-63c74ce20209b44d2c11d615b26d9172]: Textual amendment: Words in art. 2 substituted (17.9.2026) by [The Elections and Elected Bodies (Wales) Act 2024​ (Amendment to Commencement Order No. 3) Order 2026 (W.S.I. 2026/117)](https://www.legislation.gov.uk/wsi/2026/117), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/117/article/2/b)

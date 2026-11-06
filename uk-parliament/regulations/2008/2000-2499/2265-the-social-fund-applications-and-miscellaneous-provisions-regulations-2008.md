@@ -41,63 +41,63 @@ Coming into force
 
 1st October 2008
 
-[^key-3779aba231d3f8506c2016eefbc2e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3779aba231d3f8506c2016eefbc2e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Form and manner in which an application for a community care grant or budgeting loan is to be made[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 1. Citation, commencement and interpretation[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Form and manner in which an application for a crisis loan is to be made[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 2. Form and manner in which an application for a community care grant or budgeting loan is to be made[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Written applications[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 2A. Form and manner in which an application for a crisis loan is to be made[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Crisis loan application not made in writing[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 3. Written applications[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consent where application is made on behalf of someone else[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 4. Crisis loan application not made in writing[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Time at which an application is to be treated as made[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 5. Consent where application is made on behalf of someone else[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Conditions to be satisfied before payment of a repayable social fund award[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 6. Time at which an application is to be treated as made[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Circumstances in which an award is to be extinguished[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 7. Conditions to be satisfied before payment of a repayable social fund award[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-3779aba231d3f8506c2016eefbc2e09c][^key-3779aba231d3f8506c2016eefbc2e09c]
+## 8. Circumstances in which an award is to be extinguished[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Revocations[^c-3779aba231d3f8506c2016eefbc2e09c][^c-3779aba231d3f8506c2016eefbc2e09c]
 
 **No longer in force.**
 
@@ -105,10 +105,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-3779aba231d3f8506c2016eefbc2e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3779aba231d3f8506c2016eefbc2e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3779aba231d3f8506c2016eefbc2e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3779aba231d3f8506c2016eefbc2e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3779aba231d3f8506c2016eefbc2e09c]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2008/2265) revoked (22.7.2015) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations 2015 (S.I. 2015/1411)](https://www.legislation.gov.uk/uksi/2015/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/8/a)
+[^c-3779aba231d3f8506c2016eefbc2e09c]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2008/2265) revoked (22.7.2015) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations 2015 (S.I. 2015/1411)](https://www.legislation.gov.uk/uksi/2015/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2015/1411/regulation/8/a)

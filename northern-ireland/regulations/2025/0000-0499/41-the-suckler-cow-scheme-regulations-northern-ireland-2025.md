@@ -44,17 +44,17 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 These Regulations are made with the approval of the Department of Finance[^f00004] under section 9(1) of the Agriculture Act (Northern Ireland) 1949.
 
-## 1. Citation and commencement[^key-d2a76a574f4469628578b4c34c7748e2]
+## 1. Citation and commencement[^c-d2a76a574f4469628578b4c34c7748e2]
 
 These Regulations may be cited as the Suckler Cow Scheme Regulations (Northern Ireland) 2025 and shall come into operation on 1st April 2025.
 
-## 2. Interpretation[^key-56bdd301972af9b0b79fd5d61675efb4]
+## 2. Interpretation[^c-56bdd301972af9b0b79fd5d61675efb4]
 
 In these Regulations—
 
 - “**age at first calving**” means in relation to a heifer, its age in months when her first calf is born;
 - “**applicant**” means an eligible farm business which has applied for a payment under the scheme;
-- “[^key-16aa87f1effac77a713022d7dd31242c]**authorised person**” means any person authorised by the Department to act under section 40(1) of the Agriculture Act (Northern Ireland) 1949 in matters relating to these Regulations;
+- “[^c-16aa87f1effac77a713022d7dd31242c]**authorised person**” means any person authorised by the Department to act under section 40(1) of the Agriculture Act (Northern Ireland) 1949 in matters relating to these Regulations;
 - “**birth**” means a registered birth on NIFAIS;
 - “**calving interval**” means the number of days starting from the day after a calf is born and ending on the day a subsequent calf is born to the same eligible cow;
 - “**the Department**” means the Department of Agriculture, Environment and Rural Affairs;
@@ -86,7 +86,7 @@ In these Regulations—
 - “**Scheme Year 3**” means the year beginning on 1st April 2027 and ending on 31st March 2028;
 - “**Scheme Year 4**” means the year beginning on 1st April 2028 and ending on the 31st March 2029;
 
-## 3. Suckler Cow Scheme Payments[^key-479e45aee6b6ca0b41e77306573522fc]
+## 3. Suckler Cow Scheme Payments[^c-479e45aee6b6ca0b41e77306573522fc]
 
 (1) Subject to paragraphs (2) to (4), the Department may in Scheme Years 1 to 4, in accordance with these Regulations, make a scheme payment to an eligible farm business.
 
@@ -98,7 +98,7 @@ In these Regulations—
 
 [image: see source](https://www.legislation.gov.uk/nisr/2025/41/images/nisr_20250041_en_001)
 
-## 4. Specific requirements: animals and farm businesses[^key-a137150004fa7a21cd0fc13c9a630221]
+## 4. Specific requirements: animals and farm businesses[^c-a137150004fa7a21cd0fc13c9a630221]
 
 (1) Subject to paragraph (4), an eligible heifer must have an eligible calving event at a minimum age of 21 months and not exceeding the maximum age specified in column 2 of Table 1 in respect of the scheme year specified in column 1 of Table 1—
 
@@ -137,7 +137,7 @@ Table 3
 | Heifers and, or calves with IDU - (Identity unknown) | Cows and, or calves with IDU - (Identity unknown) |
 | Calves with BVDU - (Bovine viral diarrhoea unknown) | Calves with BVDU - (Bovine viral diarrhoea unknown) |
 
-**5.**[^key-afc47712be601db7cb447f240af1db54] An eligible farm business shall—
+**5.**[^c-afc47712be601db7cb447f240af1db54] An eligible farm business shall—
 
 - (a) have applied for a payment under the scheme on or before the last day of the relevant scheme year;
 - (b) be eligible for a payment under the Farm Sustainability Transition Payment Scheme in 2025 to receive payment for eligible calving events in Scheme Year 1;
@@ -147,13 +147,13 @@ Table 3
   - (iii) in 2028 to receive payment for eligible calving events in Scheme Year 4;
 - (d) provide such further information in relation to any animal as the Department may request.
 
-## 6. Use of NIFAIS information[^key-85fd1fbded35611402281d041e553995]
+## 6. Use of NIFAIS information[^c-85fd1fbded35611402281d041e553995]
 
 (1) The Department shall use the information recorded on NIFAIS to determine whether the requirements under regulation 4 are met.
 
 (2) The NIFAIS information shall be conclusive evidence unless otherwise rebutted or corrected to the satisfaction of the Department by an eligible farm business.
 
-## 7. Scheme Payment[^key-2b9eda9c7c97aa20754a881f0587bb6f]
+## 7. Scheme Payment[^c-2b9eda9c7c97aa20754a881f0587bb6f]
 
 The amount of the scheme payment is set out in Table 4—
 
@@ -164,7 +164,7 @@ Table 4
 | Age at first calving payment | £100 |
 | Calving interval payment | £100 |
 
-## 8. Withholding and recovery of overpayments[^key-58252c799342ba7e0bb59562d902fc78]
+## 8. Withholding and recovery of overpayments[^c-58252c799342ba7e0bb59562d902fc78]
 
 (1) This regulation applies where an application for payment has been approved by the Department and it becomes aware that the applicant—
 
@@ -186,7 +186,7 @@ Table 4
 - (b) afford the applicant the opportunity to make written representations within 14 days beginning with the date of the issue of the notice; and
 - (c) consider any representations made by or on behalf of the applicant.
 
-## 9. Powers of authorised persons[^key-48ba98a8e0a9959895b42a1ee89dac19]
+## 9. Powers of authorised persons[^c-48ba98a8e0a9959895b42a1ee89dac19]
 
 (1) An authorised person may exercise any of the powers specified in paragraphs (2) to (4) for the purposes of these Regulations.
 
@@ -208,11 +208,11 @@ Table 4
 
 (5) For the purposes of this regulation a computer includes any electronic device.
 
-## 10. Assistance to authorised persons[^key-4071c66dae156e1cbe7dc4a3b885d802]
+## 10. Assistance to authorised persons[^c-4071c66dae156e1cbe7dc4a3b885d802]
 
 An applicant or any employee, agent, contractor or tenant of an applicant shall give an authorised person such assistance as may be reasonably required to enable the authorised person to exercise the powers conferred by regulation 9.
 
-## 11. Offences and penalties[^key-78541a6a23c1f0b2b7296afa8a74e795]
+## 11. Offences and penalties[^c-78541a6a23c1f0b2b7296afa8a74e795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -230,7 +230,7 @@ Patrick Neeson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — Eligible Beef Breeds[^key-5f5603c729da3bc24546092c35e007f8]
+## SCHEDULE — Eligible Beef Breeds[^c-5f5603c729da3bc24546092c35e007f8]
 
 Regulation 2
 
@@ -295,32 +295,32 @@ specifies eligible beef breeds (Schedule).
 
 [^f00004]: Footnote: The “Ministry of Finance” is now the “Department of Finance”; see section 1(4) of the Departments Act (NI) [2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-d2a76a574f4469628578b4c34c7748e2]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-d2a76a574f4469628578b4c34c7748e2]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-56bdd301972af9b0b79fd5d61675efb4]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-56bdd301972af9b0b79fd5d61675efb4]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-16aa87f1effac77a713022d7dd31242c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2025/41/regulation/2) substituted (23.10.2025) by [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/161/regulation/3/2)
+[^c-16aa87f1effac77a713022d7dd31242c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2025/41/regulation/2) substituted (23.10.2025) by [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2025/161/regulation/3/2)
 
 [^f00005]: Footnote: [S.R. 2016 No. 22](https://www.legislation.gov.uk/nisr/2016/22) as amended by S.R, [2024 No. 225](https://www.legislation.gov.uk/nisr/2024/225)
 
 [^f00006]: Footnote: [S.R. 2025 No. 33](https://www.legislation.gov.uk/nisr/2025/33)
 
-[^key-479e45aee6b6ca0b41e77306573522fc]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-479e45aee6b6ca0b41e77306573522fc]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-a137150004fa7a21cd0fc13c9a630221]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-a137150004fa7a21cd0fc13c9a630221]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-afc47712be601db7cb447f240af1db54]: Commencement: Reg. 5 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-afc47712be601db7cb447f240af1db54]: Commencement: Reg. 5 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-85fd1fbded35611402281d041e553995]: Commencement: Reg. 6 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-85fd1fbded35611402281d041e553995]: Commencement: Reg. 6 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-2b9eda9c7c97aa20754a881f0587bb6f]: Commencement: Reg. 7 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-2b9eda9c7c97aa20754a881f0587bb6f]: Commencement: Reg. 7 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-58252c799342ba7e0bb59562d902fc78]: Commencement: Reg. 8 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-58252c799342ba7e0bb59562d902fc78]: Commencement: Reg. 8 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-48ba98a8e0a9959895b42a1ee89dac19]: Commencement: Reg. 9 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-48ba98a8e0a9959895b42a1ee89dac19]: Commencement: Reg. 9 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-4071c66dae156e1cbe7dc4a3b885d802]: Commencement: Reg. 10 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-4071c66dae156e1cbe7dc4a3b885d802]: Commencement: Reg. 10 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
 
-[^key-78541a6a23c1f0b2b7296afa8a74e795]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2025/41/regulation/11) omitted (23.10.2025) by virtue of [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/161/regulation/3/3)
+[^c-78541a6a23c1f0b2b7296afa8a74e795]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2025/41/regulation/11) omitted (23.10.2025) by virtue of [The Agricultural Schemes (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/161)](https://www.legislation.gov.uk/nisr/2025/161), [regs. 1](https://www.legislation.gov.uk/nisr/2025/161/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2025/161/regulation/3/3)
 
-[^key-5f5603c729da3bc24546092c35e007f8]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)
+[^c-5f5603c729da3bc24546092c35e007f8]: Commencement: Sch. in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/41/regulation/1)

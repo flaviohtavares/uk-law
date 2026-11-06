@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Duties of licensee[^key-c243a48d9baaefdb803ae30bc8a27a28]
+## 5. Duties of licensee[^c-c243a48d9baaefdb803ae30bc8a27a28]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c243a48d9baaefdb803ae30bc8a27a28]: Commencement: Reg. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-c243a48d9baaefdb803ae30bc8a27a28]: Commencement: Reg. 5 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

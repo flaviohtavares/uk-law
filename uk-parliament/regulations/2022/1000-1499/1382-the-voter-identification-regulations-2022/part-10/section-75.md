@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Amendment of regulation 25 (questions to be put to persons signing the petition)[^key-bc1480466c177d3932a4d71f606b7d33]
+## 75. Amendment of regulation 25 (questions to be put to persons signing the petition)[^c-bc1480466c177d3932a4d71f606b7d33]
 
 *Extent: E+W+S*
 
@@ -70,4 +70,4 @@ In regulation 25 (questions to be put to persons signing the petition)—
 
 ## Annotations
 
-[^key-bc1480466c177d3932a4d71f606b7d33]: Commencement: Reg. 75 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-bc1480466c177d3932a4d71f606b7d33]: Commencement: Reg. 75 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

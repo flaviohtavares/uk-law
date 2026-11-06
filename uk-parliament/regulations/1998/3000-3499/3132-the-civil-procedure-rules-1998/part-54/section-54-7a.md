@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54.7A. Judicial review of decisions of the Upper Tribunal[^key-c85b52aaf9f93c70358573a3f152caa2][^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
+## 54.7A. Judicial review of decisions of the Upper Tribunal[^c-c85b52aaf9f93c70358573a3f152caa2][^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c85b52aaf9f93c70358573a3f152caa2]: Textual amendment: [Rule 54.7A](https://www.legislation.gov.uk/uksi/1998/3132/rule/54.7A) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2023/105/rule/28/2)
+[^c-c85b52aaf9f93c70358573a3f152caa2]: Textual amendment: [Rule 54.7A](https://www.legislation.gov.uk/uksi/1998/3132/rule/54.7A) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [28(2)](https://www.legislation.gov.uk/uksi/2023/105/rule/28/2)
 
-[^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))
+[^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))

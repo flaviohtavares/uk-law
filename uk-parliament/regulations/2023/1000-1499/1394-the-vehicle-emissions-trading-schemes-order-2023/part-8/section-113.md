@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Partial revocation and amendment of [Regulation (EU) 1014/2010](https://www.legislation.gov.uk/european/regulation/2010/1014) and [Regulation (EU) 293/2012](https://www.legislation.gov.uk/european/regulation/2012/0293) (monitoring and reporting of data on vehicle registration)[^key-ba11c0837ed9e54220b4f3bb94c044c6]
+## 113. Partial revocation and amendment of [Regulation (EU) 1014/2010](https://www.legislation.gov.uk/european/regulation/2010/1014) and [Regulation (EU) 293/2012](https://www.legislation.gov.uk/european/regulation/2012/0293) (monitoring and reporting of data on vehicle registration)[^c-ba11c0837ed9e54220b4f3bb94c044c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba11c0837ed9e54220b4f3bb94c044c6]: Commencement: Art. 113 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-ba11c0837ed9e54220b4f3bb94c044c6]: Commencement: Art. 113 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

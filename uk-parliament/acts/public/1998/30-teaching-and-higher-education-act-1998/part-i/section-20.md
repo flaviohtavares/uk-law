@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Inspection of institutions training teachers for schools.[^key-05a35f09d81276d07a2ef0b5631fb8a4]
+## 20. Inspection of institutions training teachers for schools.[^c-05a35f09d81276d07a2ef0b5631fb8a4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05a35f09d81276d07a2ef0b5631fb8a4]: Textual amendment: S. 20 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-05a35f09d81276d07a2ef0b5631fb8a4]: Textual amendment: S. 20 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)

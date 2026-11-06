@@ -31,7 +31,7 @@ Constitutional Law
 
 Devolution, Scotland
 
-[^key-5418dedcd864a18df15566ad3ac20276]The Scotland Act 2016 (Commencement No. 5) (Amendment) Regulations 2019 (revoked)
+[^c-5418dedcd864a18df15566ad3ac20276]The Scotland Act 2016 (Commencement No. 5) (Amendment) Regulations 2019 (revoked)
 
 Made
 
@@ -88,4 +88,4 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 ## Annotations
 
-[^key-5418dedcd864a18df15566ad3ac20276]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2019/1438) revoked (28.3.2022) by [The Scotland Act 2016 (Commencement No. 5) (Revocation and Amendment) Regulations 2022 (S.I. 2022/409)](https://www.legislation.gov.uk/uksi/2022/409), [reg. 2](https://www.legislation.gov.uk/uksi/2022/409/regulation/2)
+[^c-5418dedcd864a18df15566ad3ac20276]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2019/1438) revoked (28.3.2022) by [The Scotland Act 2016 (Commencement No. 5) (Revocation and Amendment) Regulations 2022 (S.I. 2022/409)](https://www.legislation.gov.uk/uksi/2022/409), [reg. 2](https://www.legislation.gov.uk/uksi/2022/409/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Commander to ensure demonstration of lifejackets[^key-0600820ce408d4eda9c2c3a42c0ea5e9]
+## 49. Commander to ensure demonstration of lifejackets[^c-0600820ce408d4eda9c2c3a42c0ea5e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0600820ce408d4eda9c2c3a42c0ea5e9]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2015/870/article/49) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-0600820ce408d4eda9c2c3a42c0ea5e9]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2015/870/article/49) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

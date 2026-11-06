@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This regulation applies if for any period a person holds two or more employments in respect of which the person is (or apart from this regulation would be) eligible to be an active member of this Section of[^key-c2ae6a2c40fbe607298aae7ef3d1f886] the Scheme.
+(1) This regulation applies if for any period a person holds two or more employments in respect of which the person is (or apart from this regulation would be) eligible to be an active member of this Section of[^c-c2ae6a2c40fbe607298aae7ef3d1f886] the Scheme.
 
 (2) The person may only be such a member in respect of so many hours or, as the case may be, sessions in each such employment as, in the opinion of the Department, do not, taken together, exceed a comparable whole-time employment not held concurrently with any other employment.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2ae6a2c40fbe607298aae7ef3d1f886]: Textual amendment: Words in [regs. 23(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/23/1)[(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/23/6) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-c2ae6a2c40fbe607298aae7ef3d1f886]: Textual amendment: Words in [regs. 23(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/23/1)[(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/23/6) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

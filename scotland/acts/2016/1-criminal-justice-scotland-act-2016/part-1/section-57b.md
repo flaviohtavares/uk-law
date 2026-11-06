@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57B. Arrest under warrant other than an initiating warrant[^key-561f3b8f76063361d0368958ac5b3fe3][^key-ba1165ab7f8e63d39f427b4f88d418f6]
+## 57B. Arrest under warrant other than an initiating warrant[^c-561f3b8f76063361d0368958ac5b3fe3][^c-ba1165ab7f8e63d39f427b4f88d418f6]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-561f3b8f76063361d0368958ac5b3fe3]: Modification: [S. 57B](https://www.legislation.gov.uk/asp/2016/1/section/57B) applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
+[^c-561f3b8f76063361d0368958ac5b3fe3]: Modification: [S. 57B](https://www.legislation.gov.uk/asp/2016/1/section/57B) applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
 
-[^key-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)
+[^c-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)

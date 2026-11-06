@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Supervision by responsible officer[^key-eea46410bf402d81ea02baf338cacb43]
+## 149. Supervision by responsible officer[^c-eea46410bf402d81ea02baf338cacb43]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
   > (2A) The powers under subsections (1A) and (2) to give instructions apply even if all the requirements of the community order have been complied with.
 
   ;
-- (d)[^key-2adff4c89dee9fd5fec7c2abd81bea72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2adff4c89dee9fd5fec7c2abd81bea72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 301 (suspended sentence order: duty of offender to keep in touch with responsible officer)—
 
@@ -62,12 +62,12 @@ summary: ''
   > (2A) The powers under subsections (1A) and (2) to give instructions apply even if all the community requirements of the suspended sentence order have been complied with.
 
   ;
-- (d)[^key-28e6a9a6b36a791183ad7c2d5950a839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-28e6a9a6b36a791183ad7c2d5950a839] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eea46410bf402d81ea02baf338cacb43]: Commencement: S. 149 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-eea46410bf402d81ea02baf338cacb43]: Commencement: S. 149 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2adff4c89dee9fd5fec7c2abd81bea72]: Textual amendment: S. 149(2)(d) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 192(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/192/6), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-2adff4c89dee9fd5fec7c2abd81bea72]: Textual amendment: S. 149(2)(d) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 192(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/192/6), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-28e6a9a6b36a791183ad7c2d5950a839]: Textual amendment: S. 149(3)(d) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 192(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/192/6), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-28e6a9a6b36a791183ad7c2d5950a839]: Textual amendment: S. 149(3)(d) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 192(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/192/6), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Applications for support[^key-0d4bfca45ec82b91f2edb9c7d8e80577]
+## 123. Applications for support[^c-0d4bfca45ec82b91f2edb9c7d8e80577]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d4bfca45ec82b91f2edb9c7d8e80577]: Commencement: Reg. 123 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-0d4bfca45ec82b91f2edb9c7d8e80577]: Commencement: Reg. 123 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

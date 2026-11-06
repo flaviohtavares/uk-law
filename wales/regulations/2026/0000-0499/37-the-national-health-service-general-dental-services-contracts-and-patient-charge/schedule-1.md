@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 1 — MANDATORY SERVICES[^key-a77ea9c0202baeaeaec519d27e9641fb]
+## Schedule 1 — MANDATORY SERVICES[^c-a77ea9c0202baeaeaec519d27e9641fb]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ Regulation 14
 
 ### PART 1 — Urgent Access For New Patients
 
-**1.**[^key-7a1ab8c006b1a0173714b6c17ad0e0d1] Each Local Health Board is required to secure the provision of urgent access appointments within its area in accordance with this Schedule and Schedule 3.
+**1.**[^c-7a1ab8c006b1a0173714b6c17ad0e0d1] Each Local Health Board is required to secure the provision of urgent access appointments within its area in accordance with this Schedule and Schedule 3.
 
-**2.**[^key-e5217f69475ab6c8ad27f432f039aa30] The purpose of urgent access appointments is the provision to patients who require urgent care with an appointment within 72 hours of the time they first make contact with the Local Health Board.
+**2.**[^c-e5217f69475ab6c8ad27f432f039aa30] The purpose of urgent access appointments is the provision to patients who require urgent care with an appointment within 72 hours of the time they first make contact with the Local Health Board.
 
-#### 3. Urgent Access Appointments Programme[^key-4a1dab4605becb91d2daec37a9e50757]
+#### 3. Urgent Access Appointments Programme[^c-4a1dab4605becb91d2daec37a9e50757]
 
 In order to ensure that urgent access appointments are available each Local Health Board must establish an urgent access appointment programme which must—
 
@@ -38,7 +38,7 @@ In order to ensure that urgent access appointments are available each Local Heal
 - (d) make arrangements with all contractors within the Local Health Board’s area for an urgent care appointment rota to be in place which provides urgent appointments as required, and
 - (e) administer the urgent care appointment rota so as to ensure that urgent care appointments are available each working day between 9am and 5pm within a reasonable geographical distance for patients within the Local Health Board’s area.
 
-#### 4. Urgent care appointments for new patients[^key-12fb4e316af68f08c842606becaf19d8]
+#### 4. Urgent care appointments for new patients[^c-12fb4e316af68f08c842606becaf19d8]
 
 The contract must specify requirements as to the provision of urgent care including—
 
@@ -50,7 +50,7 @@ The contract must specify requirements as to the provision of urgent care includ
 - (f) that urgent care appointments should, where possible, include a global oral health assessment (including soft tissue) and onward referral to an alternative contractor, a hospital or other relevant service provider, where appropriate, or if not possible, the reason this could not be provided must be recorded in the patient’s clinical record, and
 - (g) that any patient seen at an urgent care appointment whose treatment is completed at the urgent care appointment or for whom permission sought under sub-paragraph (e) is refused, who is not already registered on the Dental Access Portal should be advised to do so and assistance in registering must be provided by the contractor or their staff if requested by the patient.
 
-#### 5. Payments[^key-6125835069e91d12b7408245f2a9d20c]
+#### 5. Payments[^c-6125835069e91d12b7408245f2a9d20c]
 
 The Local Health Board must arrange for each contractor to be remunerated for its participation in the Urgent Access Appointments Programme, established under paragraph 3, in accordance with directions issued by the Welsh Ministers under section 60 of the 2006 Act.
 
@@ -68,13 +68,13 @@ The Local Health Board must arrange for each contractor to be remunerated for it
 
 ### Part 2 — New Patient Assessments Arising From The Dental Access Portal
 
-#### 7. New patient assessments[^key-1ad8d9122568acc138f77bb464de972b]
+#### 7. New patient assessments[^c-1ad8d9122568acc138f77bb464de972b]
 
 Each Local Health Board is required to secure access to new patient assessments for patients in its area who have applied through the Dental Access Portal.
 
-**8.**[^key-6c9a1a08f766aba8f40529efead8dc29] An assessment for a new patient allows a contractor to make an assessment of the oral health needs of a patient and arrange for further treatment if necessary.
+**8.**[^c-6c9a1a08f766aba8f40529efead8dc29] An assessment for a new patient allows a contractor to make an assessment of the oral health needs of a patient and arrange for further treatment if necessary.
 
-#### 9. Provision of new patient assessments[^key-e7c67e081842be1baf156d47b72a4599]
+#### 9. Provision of new patient assessments[^c-e7c67e081842be1baf156d47b72a4599]
 
 The contract must include the following requirements as to the provision of assessments for new patients by the contractor—
 
@@ -87,7 +87,7 @@ The contract must include the following requirements as to the provision of asse
   - (iii) the contractor has sought and been given permission from the Local Health Board to accept a new patient, and
 - (e) a requirement that a contractor may acquire a new active patient if the patient is the child or grandchild of an existing active patient in which case permission does not need to be sought but the contractor must notify the Local Health Board.
 
-#### 10. Minimum requirements for new patient assessments[^key-17a67a30fbf2c361998f8de24ed9a742]
+#### 10. Minimum requirements for new patient assessments[^c-17a67a30fbf2c361998f8de24ed9a742]
 
 A new patient assessment must include—
 
@@ -105,19 +105,19 @@ A new patient assessment must include—
 - (l) formulation of a personalised care package or combination of care packages where further treatment is necessary, and
 - (m) comprehensive clinical records and outcome measures.
 
-#### 11. Payments[^key-3cf115d4da5ef785031020fefa30b3de]
+#### 11. Payments[^c-3cf115d4da5ef785031020fefa30b3de]
 
 The Local Health Board must arrange for each contractor to be remunerated for each new patient assessment appointment in accordance with directions issued by the Welsh Ministers under section 60 of the 2006 Act.
 
 ### PART 3 — Care packages
 
-**12.**[^key-2f47e7f4fb44ec6a0bae79e51182557c] The contract must include the following requirements as to the provision of care packages.
+**12.**[^c-2f47e7f4fb44ec6a0bae79e51182557c] The contract must include the following requirements as to the provision of care packages.
 
-#### 13. Care package content[^key-745c511fa1357a16dbdb3aab2c03ffd7]
+#### 13. Care package content[^c-745c511fa1357a16dbdb3aab2c03ffd7]
 
 A contractor may only provide a care package of a type listed in Schedule 2.
 
-#### 14. Content of care package[^key-fdba0173a5d2ba979c327e766f0a3d19]
+#### 14. Content of care package[^c-fdba0173a5d2ba979c327e766f0a3d19]
 
 Each care package must include—
 
@@ -128,7 +128,7 @@ Each care package must include—
 - (e) a recall interval based on clinical risk, and
 - (f) patient education and self-care support.
 
-#### 15. Treatment plans[^key-05e14cb5047bc001f8e8c16d918a422a]
+#### 15. Treatment plans[^c-05e14cb5047bc001f8e8c16d918a422a]
 
 (1) A contractor which provides a care package to be delivered over more than one appointment must, at the time of the first examination of the patient, ensure that the patient is provided with a treatment plan on a form supplied for that purpose by the Local Health Board specifying—
 
@@ -145,14 +145,14 @@ Each care package must include—
 
 (4) The contractor must, subject to the termination of the contract, or being unable to complete a course of treatment in accordance with paragraph 6(5) or (6) of Schedule 3 (course of treatment), provide the services which are detailed in the referral treatment plan, or where a revised treatment plan is provided pursuant to sub-paragraph (3), pursuant to that revised treatment plan.
 
-#### 16. Missed appointments[^key-b9e0b46029ca78328ec7554040743628]
+#### 16. Missed appointments[^c-b9e0b46029ca78328ec7554040743628]
 
 When a contractor puts a patient onto a care package they must communicate orally and in writing that the contractor must, unless it is satisfied that the missed appointments were caused because of something beyond the control of the patient, begin the de-listing process in accordance with paragraph 17, where a patient during the course of a care package—
 
 - (a) fails to attend two consecutive appointments, or
 - (b) fails to attend three appointments in total.
 
-#### 17. De-listing notification – care packages[^key-736888ff10cebd80e5f60fff048bf0b8]
+#### 17. De-listing notification – care packages[^c-736888ff10cebd80e5f60fff048bf0b8]
 
 Upon initiating de-listing, the contractor must—
 
@@ -160,14 +160,14 @@ Upon initiating de-listing, the contractor must—
 - (b) provide the patient with an opportunity to respond within 14 clear days and, if they do respond, consider whether the de-listing process should be stopped, and
 - (c) record the missed appointments and correspondence in the patient’s clinical record.
 
-#### 18. De-listing[^key-df0c2b4c28e75f53eb3e5c8f497d5bab]
+#### 18. De-listing[^c-df0c2b4c28e75f53eb3e5c8f497d5bab]
 
 If no response that allows the contractor to be satisfied in accordance with paragraph 16 is received within the period specified in paragraph 17(b), or if the patient confirms they no longer wish to continue care, the contractor must—
 
 - (a) de-list the patient from the care package, and
 - (b) advise the patient to re-apply through the Dental Access Portal for re-allocation.
 
-#### 19. Payments[^key-8f02c79aad8203524d5879fe650ec9bc]
+#### 19. Payments[^c-8f02c79aad8203524d5879fe650ec9bc]
 
 (1) Subject to sub-paragraph (2) the Local Health Board must arrange for each contractor to be remunerated for the delivery of care package in accordance with directions issued by the Welsh Ministers under section 60 of the 2006 Act.
 
@@ -176,7 +176,7 @@ If no response that allows the contractor to be satisfied in accordance with par
 - (a) periodontal care packages are limited to two a year for each patient, and
 - (b) total provision of crown, bridge, inlay, onlay and veneer care packages must not exceed 10% of annual contract value annually unless prior written approval has been obtained from the Local Health Board.
 
-#### 20. Payments after de-listing[^key-d8fd54d0ab523752e2b1ef7c65b54c8c]
+#### 20. Payments after de-listing[^c-d8fd54d0ab523752e2b1ef7c65b54c8c]
 
 (1) Subject to sub-paragraph (2), the contract must provide that—
 
@@ -196,7 +196,7 @@ If no response that allows the contractor to be satisfied in accordance with par
 
 ### PART 4 — Prevention services
 
-#### 21. Requirement to provide prevention services[^key-3dc3638f5648225d05b3d898a357d51a]
+#### 21. Requirement to provide prevention services[^c-3dc3638f5648225d05b3d898a357d51a]
 
 The contract must include a requirement that the contractor provides prevention services to new patients and active patients in accordance with this Part.
 
@@ -207,11 +207,11 @@ The contract must include a requirement that the contractor provides prevention 
 - (c) identify and address risk factors for oral disease, and
 - (d) support patients in maintaining optimal oral health.
 
-#### 23. Scope of prevention services[^key-e8fa33a0ac717787ca602177057d70a4]
+#### 23. Scope of prevention services[^c-e8fa33a0ac717787ca602177057d70a4]
 
 Prevention services must include the provision of tailored preventative advice and interventions appropriate to the patient’s age, risk profile, and clinical needs.
 
-#### 24. Timing of prevention services[^key-582be67f96d449075e7eb2b143961041]
+#### 24. Timing of prevention services[^c-582be67f96d449075e7eb2b143961041]
 
 Prevention services must be provided—
 
@@ -220,7 +220,7 @@ Prevention services must be provided—
 - (c) as an integral component of every care package, and
 - (d) as a standalone intervention where clinically indicated.
 
-#### 25. Content of prevention services[^key-e67ae66c120b2b7a78851901301516f8]
+#### 25. Content of prevention services[^c-e67ae66c120b2b7a78851901301516f8]
 
 Prevention services must include, as appropriate to the individual patient’s needs, advice and interventions relating to—
 
@@ -256,7 +256,7 @@ Prevention services must include, as appropriate to the individual patient’s n
   - (iii) for pregnant women: oral health during pregnancy and early childhood oral health;
   - (iv) for older adults: dry mouth management, denture care, medication effects on oral health.
 
-#### 26. Delivery of prevention services[^key-c696fa3e049c869103d712f278a9dd97]
+#### 26. Delivery of prevention services[^c-c696fa3e049c869103d712f278a9dd97]
 
 (1) A contractor must deliver prevention services—
 
@@ -273,7 +273,7 @@ Prevention services must include, as appropriate to the individual patient’s n
 - (c) through group education sessions where appropriate, or
 - (d) through a combination of the above methods.
 
-#### 27. Team-based delivery[^key-79a895eb27ff611500a6be81c241aa3f]
+#### 27. Team-based delivery[^c-79a895eb27ff611500a6be81c241aa3f]
 
 Prevention services may be delivered by any appropriately trained member of a contractor’s dental team, including—
 
@@ -283,11 +283,11 @@ Prevention services may be delivered by any appropriately trained member of a co
 - (d) dental nurses with extended duties in oral health education, or
 - (e) other dental care professionals as appropriate.
 
-#### 28. Other dental care professional’s supervision[^key-ec08e25a5990893ff5862a00f8400dda]
+#### 28. Other dental care professional’s supervision[^c-ec08e25a5990893ff5862a00f8400dda]
 
 Where prevention services are delivered by a dental care professional other than a dentist, the contractor must ensure appropriate supervision arrangements are in place in accordance with professional regulatory requirements.
 
-#### 29. Evidence-based practice[^key-914174ed9747286c4617f75a7362f8c5]
+#### 29. Evidence-based practice[^c-914174ed9747286c4617f75a7362f8c5]
 
 The contractor must deliver prevention services in accordance with current evidence-based guidance, including—
 
@@ -296,11 +296,11 @@ The contractor must deliver prevention services in accordance with current evide
 - (c) professional guidance issued by the General Dental Council, and
 - (d) any guidance given by the Welsh Ministers or the Local Health Board.
 
-#### 30. Risk-based prevention[^key-6cf4d6590a6d5000c864fbb1f2e3d0b9]
+#### 30. Risk-based prevention[^c-6cf4d6590a6d5000c864fbb1f2e3d0b9]
 
 The contractor must tailor the intensity and frequency of prevention services to the patient’s risk profile (high, moderate, low in accordance with paragraphs 31 to 33) as decided through clinical assessment.
 
-#### 31. High risk patients[^key-9f76a5ba9bf12d09b7da1cc3e4f3a4af]
+#### 31. High risk patients[^c-9f76a5ba9bf12d09b7da1cc3e4f3a4af]
 
 For patients assessed as high-risk, prevention services must include—
 
@@ -310,7 +310,7 @@ For patients assessed as high-risk, prevention services must include—
 - (d) consideration of additional preventative measures such as fissure sealants, and
 - (e) more frequent monitoring and review.
 
-#### 32. Moderate risk patients[^key-79793af1ff22332564345e542b52e06e]
+#### 32. Moderate risk patients[^c-79793af1ff22332564345e542b52e06e]
 
 For patients assessed as moderate-risk, prevention services must include—
 
@@ -319,7 +319,7 @@ For patients assessed as moderate-risk, prevention services must include—
 - (c) reinforcement of key preventative messages, and
 - (d) monitoring of risk factors.
 
-#### 33. Low risk patients[^key-ef3ab3875270bf2e3b0db2bc1f8bfaa2]
+#### 33. Low risk patients[^c-ef3ab3875270bf2e3b0db2bc1f8bfaa2]
 
 For patients assessed as low-risk, prevention services must include—
 
@@ -327,7 +327,7 @@ For patients assessed as low-risk, prevention services must include—
 - (b) reinforcement of good oral health behaviours, and
 - (c) periodic review of risk status.
 
-#### 34. Specific preventative interventions[^key-0bafaf5867ed892faa4c317852ec0db3]
+#### 34. Specific preventative interventions[^c-0bafaf5867ed892faa4c317852ec0db3]
 
 Where clinically indicated, prevention services may include the following interventions—
 
@@ -339,7 +339,7 @@ Where clinically indicated, prevention services may include the following interv
 - (f) smoking cessation support and referral, and
 - (g) other evidence-based preventative interventions as appropriate.
 
-#### 35. Documentation requirements[^key-b1da7ee7e139df0a26145a5e65d36c03]
+#### 35. Documentation requirements[^c-b1da7ee7e139df0a26145a5e65d36c03]
 
 The contractor must ensure that the following information is recorded in the patient’s clinical record in relation to prevention services—
 
@@ -352,7 +352,7 @@ The contractor must ensure that the following information is recorded in the pat
 - (g) the patient’s response to preventative advice where relevant, and
 - (h) the planned preventative strategy for future appointments.
 
-#### 36. Patient information materials[^key-acbcabdae88b96e64fd8be5770252d85]
+#### 36. Patient information materials[^c-acbcabdae88b96e64fd8be5770252d85]
 
 (1) The contractor must ensure that appropriate patient information materials are available to support the delivery of prevention services, including—
 
@@ -371,7 +371,7 @@ The contractor must ensure that the following information is recorded in the pat
 - (d) culturally appropriate, and
 - (e) updated regularly to reflect current evidence and guidance.
 
-#### 37. Monitoring and audit[^key-7d8dc99dcacfc1684f7ac8afcf8311a2]
+#### 37. Monitoring and audit[^c-7d8dc99dcacfc1684f7ac8afcf8311a2]
 
 (1) The Local Health Board must monitor the contractor’s delivery of prevention services by conducting a minimum of three of the following actions in each financial year—
 
@@ -389,7 +389,7 @@ The contractor must ensure that the following information is recorded in the pat
 - (d) participate in quality improvement activities relating to prevention, and
 - (e) carry out continuing professional development in preventative dentistry.
 
-#### 38. Breach of prevention requirements[^key-28598dc6a06950e760e79d9855e3e502]
+#### 38. Breach of prevention requirements[^c-28598dc6a06950e760e79d9855e3e502]
 
 Failure by a contractor to provide prevention services in accordance with this Part may constitute a breach of contract and may result in the Local Health Board—
 
@@ -399,11 +399,11 @@ Failure by a contractor to provide prevention services in accordance with this P
 - (d) issuing requirements for additional training or professional development, or
 - (e) taking other contractual consequences measures as specified in Schedule 3.
 
-#### 39. Payments[^key-c9eabbfd3e1277c82f7f5c0f9835f45c]
+#### 39. Payments[^c-c9eabbfd3e1277c82f7f5c0f9835f45c]
 
 The Local Health Board must arrange for each contractor to be remunerated for the provision of prevention services through a capitation payment in accordance with paragraph 40 and any directions issued by the Welsh Ministers under section 60 of the 2006 Act.
 
-#### 40. Capitation payment for prevention appointments that occur within 18 months of a previous appointment[^key-06ed37b190288251b5a957fab49c8735]
+#### 40. Capitation payment for prevention appointments that occur within 18 months of a previous appointment[^c-06ed37b190288251b5a957fab49c8735]
 
 (1) The contract must provide that—
 
@@ -427,7 +427,7 @@ The Local Health Board must arrange for each contractor to be remunerated for th
 - (g) time spent by all members of the dental team in delivering prevention services, and
 - (h) administrative costs associated with documenting and monitoring prevention service delivery.
 
-#### 41. Capitation payments for recalls when it is 18 months since the previous appointment[^key-242f92f89ba40b864feb05a18b5abc47]
+#### 41. Capitation payments for recalls when it is 18 months since the previous appointment[^c-242f92f89ba40b864feb05a18b5abc47]
 
 (1) The contract must provide that—
 
@@ -446,11 +446,11 @@ The Local Health Board must arrange for each contractor to be remunerated for th
 - (b) preventative advice and interventions provided as part of those low risk patient recall appointments, and
 - (c) application of fluoride varnish as part of those low risk recall appointments, where clinically indicated.
 
-#### 42. Preventative intervention during a care package[^key-9b863da3b0aaf822ac7c1765da02e589]
+#### 42. Preventative intervention during a care package[^c-9b863da3b0aaf822ac7c1765da02e589]
 
 Specific preventative interventions that form part of a care package (such as fissure sealants or extensive dietary counselling) are remunerated through the care package payment under paragraph 19 and not through the prevention capitation payments under paragraph 40 or 41 as the case may be.
 
-#### 43. Continuing professional development[^key-cd8c172916f6f6a226a3ec9451ca5bcf]
+#### 43. Continuing professional development[^c-cd8c172916f6f6a226a3ec9451ca5bcf]
 
 (1) The contractor must ensure that all members of the dental team involved in delivering prevention services carry out regular continuing professional development in preventative dentistry, including—
 
@@ -462,7 +462,7 @@ Specific preventative interventions that form part of a care package (such as fi
 
 (2) The contractor must retain evidence of continuing professional development in preventative dentistry for 24 months from the date the continuing professional development was undertaken and make this available to the Local Health Board upon request for audit purposes.
 
-#### 44. De-listing notification – prevention services[^key-e94c6b139cb9a63c91588d0aa1f792c6]
+#### 44. De-listing notification – prevention services[^c-e94c6b139cb9a63c91588d0aa1f792c6]
 
 Upon initiating de-listing, the contractor must—
 
@@ -470,7 +470,7 @@ Upon initiating de-listing, the contractor must—
 - (b) provide the patient with an opportunity to respond within 14 clear days and if they do respond consider whether the delisting process should be stopped, and
 - (c) record the missed appointments and correspondence in the patient’s clinical record.
 
-#### 45. De-listing after 36 months[^key-554d66f0480550ae46c3ca225906a0d2]
+#### 45. De-listing after 36 months[^c-554d66f0480550ae46c3ca225906a0d2]
 
 If an active patient has not attended an appointment with the contractors practice for a period of 36 months the contractor must—
 
@@ -479,9 +479,9 @@ If an active patient has not attended an appointment with the contractors practi
 
 ### PART 5 — National priorities
 
-**46.**[^key-06f345a016d6f9973d728295b6c7cec6] The contract must require that contractors make arrangements to pursue National Priorities in accordance with the National Priorities Scheme.
+**46.**[^c-06f345a016d6f9973d728295b6c7cec6] The contract must require that contractors make arrangements to pursue National Priorities in accordance with the National Priorities Scheme.
 
-**47.**[^key-8834682533fd22ab3ace2a4dfe3292ad] The National Priorities Scheme means making arrangements for the delivery of selected items from the list below in accordance with directions issued by the Welsh Ministers under section 60(3)(b)(i) of the 2006 Act—
+**47.**[^c-8834682533fd22ab3ace2a4dfe3292ad] The National Priorities Scheme means making arrangements for the delivery of selected items from the list below in accordance with directions issued by the Welsh Ministers under section 60(3)(b)(i) of the 2006 Act—
 
 - (a) quality improvement,
 - (b) quality management
@@ -495,98 +495,98 @@ If an active patient has not attended an appointment with the contractors practi
 
 ## Annotations
 
-[^key-a77ea9c0202baeaeaec519d27e9641fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/1) substituted (1.3.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/49)](https://www.legislation.gov.uk/wsi/2026/49), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/49/regulation/2)
+[^c-a77ea9c0202baeaeaec519d27e9641fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/1) substituted (1.3.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Amendment) (Wales) Regulations 2026 (W.S.I. 2026/49)](https://www.legislation.gov.uk/wsi/2026/49), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/49/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/49/regulation/2)
 
-[^key-7a1ab8c006b1a0173714b6c17ad0e0d1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/1) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-7a1ab8c006b1a0173714b6c17ad0e0d1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/1) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e5217f69475ab6c8ad27f432f039aa30]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e5217f69475ab6c8ad27f432f039aa30]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-4a1dab4605becb91d2daec37a9e50757]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-4a1dab4605becb91d2daec37a9e50757]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-12fb4e316af68f08c842606becaf19d8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-12fb4e316af68f08c842606becaf19d8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-6125835069e91d12b7408245f2a9d20c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-6125835069e91d12b7408245f2a9d20c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^M_I_28461030-89e4-4989-9fc3-37d8223e7020]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-1ad8d9122568acc138f77bb464de972b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/7) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-1ad8d9122568acc138f77bb464de972b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/7) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-6c9a1a08f766aba8f40529efead8dc29]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-6c9a1a08f766aba8f40529efead8dc29]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e7c67e081842be1baf156d47b72a4599]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e7c67e081842be1baf156d47b72a4599]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-17a67a30fbf2c361998f8de24ed9a742]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/10) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-17a67a30fbf2c361998f8de24ed9a742]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/10) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-3cf115d4da5ef785031020fefa30b3de]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/11) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-3cf115d4da5ef785031020fefa30b3de]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/11) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-2f47e7f4fb44ec6a0bae79e51182557c]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/12) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2f47e7f4fb44ec6a0bae79e51182557c]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/12) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-745c511fa1357a16dbdb3aab2c03ffd7]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/13) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-745c511fa1357a16dbdb3aab2c03ffd7]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/13) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-fdba0173a5d2ba979c327e766f0a3d19]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/14) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-fdba0173a5d2ba979c327e766f0a3d19]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/14) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-05e14cb5047bc001f8e8c16d918a422a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/15) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-05e14cb5047bc001f8e8c16d918a422a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/15) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-b9e0b46029ca78328ec7554040743628]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/16) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-b9e0b46029ca78328ec7554040743628]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/16) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-736888ff10cebd80e5f60fff048bf0b8]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/17) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-736888ff10cebd80e5f60fff048bf0b8]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/17) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-df0c2b4c28e75f53eb3e5c8f497d5bab]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/18) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-df0c2b4c28e75f53eb3e5c8f497d5bab]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/18) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-8f02c79aad8203524d5879fe650ec9bc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/19) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-8f02c79aad8203524d5879fe650ec9bc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/19) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-d8fd54d0ab523752e2b1ef7c65b54c8c]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/20) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d8fd54d0ab523752e2b1ef7c65b54c8c]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/20) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-3dc3638f5648225d05b3d898a357d51a]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/21) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-3dc3638f5648225d05b3d898a357d51a]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/21) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^M_I_39c20075-e053-4bb1-e636-cf10472607de]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/22) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e8fa33a0ac717787ca602177057d70a4]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/23) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e8fa33a0ac717787ca602177057d70a4]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/23) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-582be67f96d449075e7eb2b143961041]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/24) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-582be67f96d449075e7eb2b143961041]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/24) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e67ae66c120b2b7a78851901301516f8]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/25) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e67ae66c120b2b7a78851901301516f8]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/25) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-c696fa3e049c869103d712f278a9dd97]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/26) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c696fa3e049c869103d712f278a9dd97]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/26) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-79a895eb27ff611500a6be81c241aa3f]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/27) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-79a895eb27ff611500a6be81c241aa3f]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/27) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ec08e25a5990893ff5862a00f8400dda]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/28) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ec08e25a5990893ff5862a00f8400dda]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/28) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-914174ed9747286c4617f75a7362f8c5]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/29) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-914174ed9747286c4617f75a7362f8c5]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/29) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-6cf4d6590a6d5000c864fbb1f2e3d0b9]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/30) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-6cf4d6590a6d5000c864fbb1f2e3d0b9]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/30) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-9f76a5ba9bf12d09b7da1cc3e4f3a4af]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/31) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-9f76a5ba9bf12d09b7da1cc3e4f3a4af]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/31) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-79793af1ff22332564345e542b52e06e]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/32) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-79793af1ff22332564345e542b52e06e]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/32) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ef3ab3875270bf2e3b0db2bc1f8bfaa2]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/33) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ef3ab3875270bf2e3b0db2bc1f8bfaa2]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/33) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-0bafaf5867ed892faa4c317852ec0db3]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/34) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-0bafaf5867ed892faa4c317852ec0db3]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/34) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-b1da7ee7e139df0a26145a5e65d36c03]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/35) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-b1da7ee7e139df0a26145a5e65d36c03]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/35) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-acbcabdae88b96e64fd8be5770252d85]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/36) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-acbcabdae88b96e64fd8be5770252d85]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/36) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-7d8dc99dcacfc1684f7ac8afcf8311a2]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/37) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-7d8dc99dcacfc1684f7ac8afcf8311a2]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/37) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-28598dc6a06950e760e79d9855e3e502]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/38) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-28598dc6a06950e760e79d9855e3e502]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/38) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-c9eabbfd3e1277c82f7f5c0f9835f45c]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/39) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c9eabbfd3e1277c82f7f5c0f9835f45c]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/39) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-06ed37b190288251b5a957fab49c8735]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/40) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-06ed37b190288251b5a957fab49c8735]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/40) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-242f92f89ba40b864feb05a18b5abc47]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/41) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-242f92f89ba40b864feb05a18b5abc47]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/41) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-9b863da3b0aaf822ac7c1765da02e589]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/42) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-9b863da3b0aaf822ac7c1765da02e589]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/42) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-cd8c172916f6f6a226a3ec9451ca5bcf]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/43) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-cd8c172916f6f6a226a3ec9451ca5bcf]: Commencement: [Sch. 1 para. 43](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/43) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e94c6b139cb9a63c91588d0aa1f792c6]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/44) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e94c6b139cb9a63c91588d0aa1f792c6]: Commencement: [Sch. 1 para. 44](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/44) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-554d66f0480550ae46c3ca225906a0d2]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/45) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-554d66f0480550ae46c3ca225906a0d2]: Commencement: [Sch. 1 para. 45](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/45) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-06f345a016d6f9973d728295b6c7cec6]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/46) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-06f345a016d6f9973d728295b6c7cec6]: Commencement: [Sch. 1 para. 46](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/46) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-8834682533fd22ab3ace2a4dfe3292ad]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/47) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-8834682533fd22ab3ace2a4dfe3292ad]: Commencement: [Sch. 1 para. 47](https://www.legislation.gov.uk/wsi/2026/37/schedule/1/paragraph/47) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

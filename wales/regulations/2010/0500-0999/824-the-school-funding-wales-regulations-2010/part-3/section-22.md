@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Pupils excluded or admitted following an exclusion[^key-be5d2213a4f57fa00b7fb52dcc48285f]
+## 22. Pupils excluded or admitted following an exclusion[^c-be5d2213a4f57fa00b7fb52dcc48285f]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-be5d2213a4f57fa00b7fb52dcc48285f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2010/824/regulation/22) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-be5d2213a4f57fa00b7fb52dcc48285f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2010/824/regulation/22) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
 
 [^f00018]: Footnote: Section 494(5) of the 1996 Act, which was substituted by paragraph 128 of Schedule 30 to the 1998 Act, provides that regulations may prescribe when a permanent exclusion is to be regarded as taking effect. The Education (Amount to Follow Permanently Excluded Pupil) Regulations 1999 (S.I. [1999/495](https://www.legislation.gov.uk/uksi/1999/495)) provide that a permanent exclusion takes place on the “relevant date” as defined in those Regulations, and amendments to them in the Education (Pupil Exclusions and Appeals) (Maintained Schools) (Wales) Regulations 2003 (S.I. [2003/3227](https://www.legislation.gov.uk/uksi/2003/3227)).
 

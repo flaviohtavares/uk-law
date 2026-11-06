@@ -48,11 +48,11 @@ The Department of the Environment, in exercise of the powers conferred by sectio
 
 ## Preliminary
 
-### 1. Citation and commencement[^key-48e5c122f3225da474e8cd9ce74441df]
+### 1. Citation and commencement[^c-48e5c122f3225da474e8cd9ce74441df]
 
 These Regulations may be cited as the Registration of Deeds Regulations (Northern Ireland) 1997 and shall come into operation on 1st April 1997.
 
-### 2. Interpretation[^key-df78ae70e5862666cdb330bbc8174633]
+### 2. Interpretation[^c-df78ae70e5862666cdb330bbc8174633]
 
 (1) In these Regulations—
 
@@ -70,11 +70,11 @@ These Regulations may be cited as the Registration of Deeds Regulations (Norther
 
 ## Part I — Registers and Procedure for Registration
 
-### 3. Lodgment of deed or conveyance for registration[^key-361b647cce431f355ee923034b9654a3]
+### 3. Lodgment of deed or conveyance for registration[^c-361b647cce431f355ee923034b9654a3]
 
 The memorial of any deed or conveyance to be registered under section 1(1) of the Act shall be in Form 1.
 
-### 4. Specifications and characteristics of paper for memorial and other documents[^key-8a4818647f5c39aafb606ff7a5fdc498]
+### 4. Specifications and characteristics of paper for memorial and other documents[^c-8a4818647f5c39aafb606ff7a5fdc498]
 
 The paper to be used for—
 
@@ -106,7 +106,7 @@ Design:
 
 - (e) The paper shall be designed to enable any written matter on the obverse to be read so that the binding edge is on the left hand side and any written matter on the reverse to be read so that the binding edge is on the right hand side.
 
-### 5. Allocation of serial numbers[^key-ee999d551ed0203e617c4549772bc501]
+### 5. Allocation of serial numbers[^c-ee999d551ed0203e617c4549772bc501]
 
 (1) Subject to paragraph (4) every document lodged for registration in the registry of deeds other than by sending it by post shall be allocated a serial number according to—
 
@@ -121,7 +121,7 @@ Design:
 
 (5) In this regulation and in regulation 6 the serial numbers allocated shall be from a single series.
 
-### 6. Lodgment of documents by post and allocation of serial numbers[^key-464f8f25ce07330fd010e959b75979ca]
+### 6. Lodgment of documents by post and allocation of serial numbers[^c-464f8f25ce07330fd010e959b75979ca]
 
 (1) Subject to paragraph (7) every document lodged in the registry of deeds by sending by post shall be allocated a serial number according to—
 
@@ -144,11 +144,11 @@ Design:
 
 (7) Where a duplicate or counterpart copy of a document has been lodged in pursuance of this regulation for registration at the same time as the original document, the duplicate or counterpart copy shall be given the same serial number as the original.
 
-### 7. Filing of memorials[^key-70bdabdbc807bcaf4c1c6895d026a48a]
+### 7. Filing of memorials[^c-70bdabdbc807bcaf4c1c6895d026a48a]
 
 Memorials of documents lodged for registration in the registry of deeds shall be kept in files in sequence according to the calendar year in which such memorials are treated as lodged for registration and the serial numbers allocated to them pursuant to regulations 5 and 6.
 
-### 8. Abstract Book[^key-1712dc73b1b9f0d81e9391edae3e2bf8]
+### 8. Abstract Book[^c-1712dc73b1b9f0d81e9391edae3e2bf8]
 
 (1) As soon as convenient after the memorial of a document is filed in the registry of deeds, an abstract of that memorial shall be entered in the Abstract Book containing the following particulars—
 
@@ -162,7 +162,7 @@ Memorials of documents lodged for registration in the registry of deeds shall be
 
 (2) The abstracts shall be entered in the Abstract Book in the same sequence as the memorials to which they relate.
 
-### 9. Index of Names[^key-e853419c0d9692a1396078453fdce253]
+### 9. Index of Names[^c-e853419c0d9692a1396078453fdce253]
 
 (1) The Index of Names shall consist of a series of files or books and each series shall cover a maximum period of five years.
 
@@ -180,23 +180,23 @@ Memorials of documents lodged for registration in the registry of deeds shall be
 
 ## Part II — Pending Actions and Vacation of Court Orders
 
-### 10. Registration of pending actions[^key-9a6c0883e67ca730477a1235d687dab2]
+### 10. Registration of pending actions[^c-9a6c0883e67ca730477a1235d687dab2]
 
 The document to be lodged in the registry of deeds under section 3(2) of the Act for the purpose of registering a pending action other than a bankruptcy petition shall be in Form 3.
 
-### 11. Vacation of registration of pending actions[^key-178177d53765355da45d24bb0915f0c1]
+### 11. Vacation of registration of pending actions[^c-178177d53765355da45d24bb0915f0c1]
 
 (1) The certificate of the appropriate court to be lodged in the registry of deeds under section 3(4) of the Act for the purpose of vacating the registration of a pending action other than a bankruptcy petition shall be in Form 4.
 
 (2) The certificate to be lodged in the registry of deeds under section 3(4A) of the Act for the purpose of vacating the registration of a pending action other than a bankruptcy petition shall be in Form 5.
 
-### 12. Vacation of registration of judgments, decrees or orders[^key-2c2d0e566ed596631f722901dac44ffb]
+### 12. Vacation of registration of judgments, decrees or orders[^c-2c2d0e566ed596631f722901dac44ffb]
 
 The registration of a judgment, decree or order of a court (other than a bankruptcy order) may be vacated by the lodgment of a certificate of the appropriate court stating that the judgment, decree or order has been satisfied or has otherwise ceased to have effect.
 
 ## Part III — Matrimonial Charges
 
-### 13. Registration, etc., of matrimonial charges[^key-ddb36652ba0f53fef832bb0118ef9ef9]
+### 13. Registration, etc., of matrimonial charges[^c-ddb36652ba0f53fef832bb0118ef9ef9]
 
 (1) The documents to be lodged in the registry of deeds under Article 6(6) of the 1984 Order for or in connection with—
 
@@ -211,7 +211,7 @@ shall be in Forms 6, 7 and 8, respectively.
 - (a) by filing the copy in the registry of deeds in sequence according to the serial number allocated to the document under regulations 5 and 6; and
 - (b) by recording the document in an index kept in the registry of deeds for that purpose (“the Matrimonial Charges Index”).
 
-### 14. Cancellation and vacation of registration on foot of subsequent registration[^key-abaca5531a6b6e3bdc7801be5e8a8caf]
+### 14. Cancellation and vacation of registration on foot of subsequent registration[^c-abaca5531a6b6e3bdc7801be5e8a8caf]
 
 (1) Where the Registrar of Titles or the registrar (as the case may be) is notified by a spouse pursuant to Article 7(3) of the 1984 Order of a subsisting registration of a matrimonial charge, then, upon the subsequent registration of a matrimonial charge in favour of that spouse in respect of another dwelling house, the Registrar of Titles or the registrar shall (as the circumstances require)—
 
@@ -225,27 +225,27 @@ shall be in Forms 6, 7 and 8, respectively.
 
 ## Part IV — Insolvency
 
-### 15. Registration of bankruptcy petition[^key-ecc5715888b5183c9a173a0de50935f8]
+### 15. Registration of bankruptcy petition[^c-ecc5715888b5183c9a173a0de50935f8]
 
 The document to be lodged in the registry of deeds for registration of a bankruptcy petition pursuant to section 3A[^f00008] of the Act shall be in Form 10.
 
-### 16. Vacation of registration of bankruptcy petition[^key-a3be715aebd290e5ebd14b2731156a31]
+### 16. Vacation of registration of bankruptcy petition[^c-a3be715aebd290e5ebd14b2731156a31]
 
 The certificate of the appropriate court to be lodged in the registry of deeds for the purpose of vacating the registration of a bankruptcy petition shall be in Form 11.
 
-### 17. Registration of bankruptcy order[^key-c114b1d2d506a0cfd96170a1e137999b]
+### 17. Registration of bankruptcy order[^c-c114b1d2d506a0cfd96170a1e137999b]
 
 The document to be lodged in the registry of deeds for registration of a bankruptcy order pursuant to section 3B[^f00009] of the Act shall be in Form 12.
 
-### 18. Registration of order amending title of insolvency proceedings[^key-20c7002ef3934ab9d28699b42bebba70]
+### 18. Registration of order amending title of insolvency proceedings[^c-20c7002ef3934ab9d28699b42bebba70]
 
 Where an order has been made by the High Court amending the title of proceedings in an insolvency matter and the order has been lodged for registration in accordance with the Registration of Deeds Acts, the registrar shall on registration of such order include in the entries of the relevant bankruptcy petition and bankruptcy order (as the case may require) a reference to the amending order and the date of its registration in the registry of deeds.
 
-### 19. Vacation of registration of bankruptcy order[^key-24091dfea181d94e9f63046009a9d779]
+### 19. Vacation of registration of bankruptcy order[^c-24091dfea181d94e9f63046009a9d779]
 
 The certificate of the appropriate court to be lodged in the registry of deeds for the purpose of vacating the registration of a bankruptcy order shall be in Form 13.
 
-### 20. Registration of bankrupt’s rights of occupation and the vacation, variation, release or postponement of priority of such rights[^key-337bfc2e359a2e789171428a0783f531]
+### 20. Registration of bankrupt’s rights of occupation and the vacation, variation, release or postponement of priority of such rights[^c-337bfc2e359a2e789171428a0783f531]
 
 (1) Regulations 13 and 14 shall not apply to a bankrupt’s rights of occupation under Article 310 of the 1989 Order.
 
@@ -265,7 +265,7 @@ The certificate of the appropriate court to be lodged in the registry of deeds f
 
 (7) When lodging a document referred to in paragraphs (2) and (3), the original document shall be accompanied by a copy certified as a true copy by the person lodging the document for registration or causing it to be so lodged. The original document shall, for the purpose of the Registration of Deeds Acts, be treated as the document to be registered and the copy shall, subject to regulation 4, be treated for those purposes as the memorial of that document.
 
-### 21. Additional entries in Abstract Book and Index of Names[^key-bbec36a9013d81b4dfc3f495341e0a61]
+### 21. Additional entries in Abstract Book and Index of Names[^c-bbec36a9013d81b4dfc3f495341e0a61]
 
 (1) In the application of regulation 8 to a memorial lodged in connection with the registration of a document referred to in regulations 15, 17, 18, and 20(2) and (3) the debtor or the bankrupt (as the case may be) and, where applicable, the trustee of the bankrupt’s estate, shall be deemed to be grantors appearing in the memorial.
 
@@ -281,7 +281,7 @@ so far as the particulars are contained in the memorial.
 
 ## Part V — Searches
 
-### 22. Requisitions for searches[^key-3090867f0ade53ba3bd947ad66344bfe]
+### 22. Requisitions for searches[^c-3090867f0ade53ba3bd947ad66344bfe]
 
 (1) A requisition for a common search made under section 13(1) of the Act shall be in Form 17 and a requisition for a negative search made under that section shall be in Form 18.
 
@@ -301,7 +301,7 @@ so far as the particulars are contained in the memorial.
 
 (6) A requisition under paragraph (1) or a record thereof under paragraph (4) shall be kept in the registry of deeds for a period of not less than 20 years.
 
-### 23. Common search, negative search and public search[^key-dffc76430a98ee4037b5dbe45eba70da]
+### 23. Common search, negative search and public search[^c-dffc76430a98ee4037b5dbe45eba70da]
 
 (1) A common search shall be carried out in accordance with the requisition to which it relates by one officer of the registry of deeds.
 
@@ -314,7 +314,7 @@ so far as the particulars are contained in the memorial.
 
 search, inspect and examine, and make extracts from or short notes of, the indices, abstracts, transcript books and files and books of memorials and of other documents registered under the Registration of Deeds Acts.
 
-### 24. Statement of common search and certificate of negative search[^key-ee1826fb6e7cd85233bdfd833ad163af]
+### 24. Statement of common search and certificate of negative search[^c-ee1826fb6e7cd85233bdfd833ad163af]
 
 (1) The statement to be issued on the completion of a common search shall be in Form 19 and the certificate to be issued on the completion of a negative search shall be in Form 20.
 
@@ -334,7 +334,7 @@ any statement of the result of a common search or certificate of the result of a
 
 ## Part VI
 
-### 25. Revocations[^key-373d12f892408b1dcd06e3581d75e0c8]
+### 25. Revocations[^c-373d12f892408b1dcd06e3581d75e0c8]
 
 The following Regulations so far as they were in force immediately before the commencement of these Regulations are hereby revoked—
 
@@ -352,83 +352,83 @@ Assistant Secretary
 
 ## SCHEDULE
 
-### Form 1 — Form of memorial for registration of a deed or conveyance (regulation 3)[^key-28678f5f5968b82ce5cfdb262edd5160]
+### Form 1 — Form of memorial for registration of a deed or conveyance (regulation 3)[^c-28678f5f5968b82ce5cfdb262edd5160]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_001)
 
-### Form 2 — Application to accompany deed or conveyance lodged for registration (regulation 6(5))[^key-ddf5eaa2482dc432dca59e4b24c5771b]
+### Form 2 — Application to accompany deed or conveyance lodged for registration (regulation 6(5))[^c-ddf5eaa2482dc432dca59e4b24c5771b]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_002)
 
-### Form 3 — Document for registration of a pending action (regulation 10)[^key-17ef7e0f7cf1e23c5a4736b4a938a768]
+### Form 3 — Document for registration of a pending action (regulation 10)[^c-17ef7e0f7cf1e23c5a4736b4a938a768]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_003) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_004)
 
-### Form 4 — Court certificate to vacate the registration of a pending action (regulation 11(1))[^key-fc003b542b996167f842e79c82a2687e]
+### Form 4 — Court certificate to vacate the registration of a pending action (regulation 11(1))[^c-fc003b542b996167f842e79c82a2687e]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_005) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_006)
 
-### Form 5 — Certificate to vacate the registration of a pending action in accordance with section 3(4A) of the Act (regulation 11(2))[^key-a7c5e4aad50b3b88e738b3e3b4ee2770]
+### Form 5 — Certificate to vacate the registration of a pending action in accordance with section 3(4A) of the Act (regulation 11(2))[^c-a7c5e4aad50b3b88e738b3e3b4ee2770]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_007) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_008)
 
-### Form 6 — Notice of a matrimonial charge (regulation 13(1))[^key-b717a6dfedb04b7396d7f0e005616b03]
+### Form 6 — Notice of a matrimonial charge (regulation 13(1))[^c-b717a6dfedb04b7396d7f0e005616b03]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_009) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_010) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_011)
 
-### Form 7 — Renewal of the registration of a matrimonial charge (regulation 13(1))[^key-538abe1fd87ad2e75acc10afeab74f92]
+### Form 7 — Renewal of the registration of a matrimonial charge (regulation 13(1))[^c-538abe1fd87ad2e75acc10afeab74f92]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_012)
 
-### Form 8 — Vacation or variation of the registration of a matrimonial charge or the postponement of its priority (regulation 13(1))[^key-56e2bcfb424191df9b423380681bf1a0]
+### Form 8 — Vacation or variation of the registration of a matrimonial charge or the postponement of its priority (regulation 13(1))[^c-56e2bcfb424191df9b423380681bf1a0]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_013) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_014) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_015)
 
-### Form 9 — Certificate of Registrar (regulation 14(1))[^key-2b83a4988acfd5b8fb61ab86d1861512]
+### Form 9 — Certificate of Registrar (regulation 14(1))[^c-2b83a4988acfd5b8fb61ab86d1861512]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_016) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_017)
 
-### Form 10 — Registration of bankruptcy petition (regulation 15)[^key-8b19bc68bcfd6cefec2ac094c349f248]
+### Form 10 — Registration of bankruptcy petition (regulation 15)[^c-8b19bc68bcfd6cefec2ac094c349f248]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_018)
 
-### Form 11 — Vacation of registration of bankruptcy petition (regulation 16)[^key-94a5c7b347d70c205130298ac2afdcee]
+### Form 11 — Vacation of registration of bankruptcy petition (regulation 16)[^c-94a5c7b347d70c205130298ac2afdcee]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_019)
 
-### Form 12 — Registration of bankruptcy order (regulation 17)[^key-86644266b0b6cf6ad8cacbd34fe58ed0]
+### Form 12 — Registration of bankruptcy order (regulation 17)[^c-86644266b0b6cf6ad8cacbd34fe58ed0]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_020)
 
-### Form 13 — Vacation of registration of bankruptcy order (regulation 19)[^key-4f3da28aa15bfdfeac97010c64b39930]
+### Form 13 — Vacation of registration of bankruptcy order (regulation 19)[^c-4f3da28aa15bfdfeac97010c64b39930]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_021)
 
-### Form 14 — Registration of bankrupt’s rights of occupation (regulation 20(2))[^key-7f0c84a2d89b584b4f845e6942582750]
+### Form 14 — Registration of bankrupt’s rights of occupation (regulation 20(2))[^c-7f0c84a2d89b584b4f845e6942582750]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_022) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_023)
 
-### Form 15 — Variation, release or postponement of bankrupt’s rights of occupation (regulation 20(3))[^key-5b4f1a3ed8b794efb281589b05b8d501]
+### Form 15 — Variation, release or postponement of bankrupt’s rights of occupation (regulation 20(3))[^c-5b4f1a3ed8b794efb281589b05b8d501]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_024) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_025)
 
-### Form 16 — Vacation of registration of bankrupt’s rights of occupation (regulation 20(5))[^key-c7043b6992f96ae262e62f7afde0c1aa]
+### Form 16 — Vacation of registration of bankrupt’s rights of occupation (regulation 20(5))[^c-c7043b6992f96ae262e62f7afde0c1aa]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_026)
 
-### Form 17 — Requisition for a common search (regulation 22(1))[^key-235aacf1f6fbd081694450451c96615d]
+### Form 17 — Requisition for a common search (regulation 22(1))[^c-235aacf1f6fbd081694450451c96615d]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_027) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_028)
 
-### Form 18 — Requisition for a negative search (regulation 22(1))[^key-ff8299713e22ee1d3ff9908477471a99]
+### Form 18 — Requisition for a negative search (regulation 22(1))[^c-ff8299713e22ee1d3ff9908477471a99]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_029) [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_030)
 
-### Form 19 — Statement of result of a common search (regulation 24(1))[^key-b5a65689e7d6039c9407c3bf995f5178]
+### Form 19 — Statement of result of a common search (regulation 24(1))[^c-b5a65689e7d6039c9407c3bf995f5178]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_031)
 
-### Form 20 — Certificate of result of a negative search (regulation 24(1))[^key-22158c22ef9626883b0c3de8e3f7ab6e]
+### Form 20 — Certificate of result of a negative search (regulation 24(1))[^c-22158c22ef9626883b0c3de8e3f7ab6e]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/28/images/nisr_19970028_en_032)
 
@@ -631,69 +631,69 @@ A compliance cost assessment of the effect that these Regulations would have on 
 
 [^f00005]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-48e5c122f3225da474e8cd9ce74441df]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-48e5c122f3225da474e8cd9ce74441df]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-df78ae70e5862666cdb330bbc8174633]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-df78ae70e5862666cdb330bbc8174633]: Commencement: Reg. 2 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
 [^f00006]: Footnote: [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18) as amended by [S.I. 1992/811 (N.I. 7)](https://www.legislation.gov.uk/nisi/1992/811)
 
 [^f00007]: Footnote: [S.R. & O. (N.I.) 1958 No. 193](https://www.legislation.gov.uk/nisro/1958/193)
 
-[^key-361b647cce431f355ee923034b9654a3]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-361b647cce431f355ee923034b9654a3]: Commencement: Reg. 3 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-8a4818647f5c39aafb606ff7a5fdc498]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-8a4818647f5c39aafb606ff7a5fdc498]: Commencement: Reg. 4 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-ee999d551ed0203e617c4549772bc501]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-ee999d551ed0203e617c4549772bc501]: Commencement: Reg. 5 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-464f8f25ce07330fd010e959b75979ca]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-464f8f25ce07330fd010e959b75979ca]: Commencement: Reg. 6 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-70bdabdbc807bcaf4c1c6895d026a48a]: Commencement: Reg. 7 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-70bdabdbc807bcaf4c1c6895d026a48a]: Commencement: Reg. 7 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-1712dc73b1b9f0d81e9391edae3e2bf8]: Commencement: Reg. 8 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-1712dc73b1b9f0d81e9391edae3e2bf8]: Commencement: Reg. 8 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-e853419c0d9692a1396078453fdce253]: Commencement: Reg. 9 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-e853419c0d9692a1396078453fdce253]: Commencement: Reg. 9 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-9a6c0883e67ca730477a1235d687dab2]: Commencement: Reg. 10 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-9a6c0883e67ca730477a1235d687dab2]: Commencement: Reg. 10 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-178177d53765355da45d24bb0915f0c1]: Commencement: Reg. 11 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-178177d53765355da45d24bb0915f0c1]: Commencement: Reg. 11 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-2c2d0e566ed596631f722901dac44ffb]: Commencement: Reg. 12 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-2c2d0e566ed596631f722901dac44ffb]: Commencement: Reg. 12 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-ddb36652ba0f53fef832bb0118ef9ef9]: Commencement: Reg. 13 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-ddb36652ba0f53fef832bb0118ef9ef9]: Commencement: Reg. 13 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-abaca5531a6b6e3bdc7801be5e8a8caf]: Commencement: Reg. 14 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-abaca5531a6b6e3bdc7801be5e8a8caf]: Commencement: Reg. 14 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-ecc5715888b5183c9a173a0de50935f8]: Commencement: Reg. 15 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-ecc5715888b5183c9a173a0de50935f8]: Commencement: Reg. 15 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
 [^f00008]: Footnote: Sections 3A and 3B were inserted by [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405) Art. 381 and Sch. 9 para. 77
 
-[^key-a3be715aebd290e5ebd14b2731156a31]: Commencement: Reg. 16 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-a3be715aebd290e5ebd14b2731156a31]: Commencement: Reg. 16 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-c114b1d2d506a0cfd96170a1e137999b]: Commencement: Reg. 17 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-c114b1d2d506a0cfd96170a1e137999b]: Commencement: Reg. 17 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
 [^f00009]: Footnote: Sections 3A and 3B were inserted by [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405) Art. 381 and Sch. 9 para. 77
 
-[^key-20c7002ef3934ab9d28699b42bebba70]: Commencement: Reg. 18 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-20c7002ef3934ab9d28699b42bebba70]: Commencement: Reg. 18 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-24091dfea181d94e9f63046009a9d779]: Commencement: Reg. 19 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-24091dfea181d94e9f63046009a9d779]: Commencement: Reg. 19 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-337bfc2e359a2e789171428a0783f531]: Commencement: Reg. 20 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-337bfc2e359a2e789171428a0783f531]: Commencement: Reg. 20 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-bbec36a9013d81b4dfc3f495341e0a61]: Commencement: Reg. 21 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-bbec36a9013d81b4dfc3f495341e0a61]: Commencement: Reg. 21 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-3090867f0ade53ba3bd947ad66344bfe]: Commencement: Reg. 22 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-3090867f0ade53ba3bd947ad66344bfe]: Commencement: Reg. 22 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-dffc76430a98ee4037b5dbe45eba70da]: Commencement: Reg. 23 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-dffc76430a98ee4037b5dbe45eba70da]: Commencement: Reg. 23 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
 [^f00010]: Footnote: *See* the Registry of Deeds (Days and Hours of Business) Order 1958 ([S.R. & O. (N.I.) 1958 No. 193](https://www.legislation.gov.uk/nisro/1958/193))
 
-[^key-ee1826fb6e7cd85233bdfd833ad163af]: Commencement: Reg. 24 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-ee1826fb6e7cd85233bdfd833ad163af]: Commencement: Reg. 24 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1983/766 (N.I. 9)](https://www.legislation.gov.uk/nisi/1983/766)
 
 [^f00012]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226)
 
-[^key-373d12f892408b1dcd06e3581d75e0c8]: Commencement: Reg. 25 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-373d12f892408b1dcd06e3581d75e0c8]: Commencement: Reg. 25 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
 [^f00013]: Footnote: [S.R. & O. (N.I.) 1968 No. 92](https://www.legislation.gov.uk/nisro/1968/92)
 
@@ -705,42 +705,42 @@ A compliance cost assessment of the effect that these Regulations would have on 
 
 [^f00017]: Footnote: [S.R. 1991 No. 382](https://www.legislation.gov.uk/nisr/1991/382)
 
-[^key-28678f5f5968b82ce5cfdb262edd5160]: Commencement: Sch. Pt. 1 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-28678f5f5968b82ce5cfdb262edd5160]: Commencement: Sch. Pt. 1 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-ddf5eaa2482dc432dca59e4b24c5771b]: Commencement: Sch. Pt. 2 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-ddf5eaa2482dc432dca59e4b24c5771b]: Commencement: Sch. Pt. 2 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-17ef7e0f7cf1e23c5a4736b4a938a768]: Commencement: Sch. Pt. 3 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-17ef7e0f7cf1e23c5a4736b4a938a768]: Commencement: Sch. Pt. 3 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-fc003b542b996167f842e79c82a2687e]: Commencement: Sch. Pt. 4 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-fc003b542b996167f842e79c82a2687e]: Commencement: Sch. Pt. 4 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-a7c5e4aad50b3b88e738b3e3b4ee2770]: Commencement: Sch. Pt. 5 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-a7c5e4aad50b3b88e738b3e3b4ee2770]: Commencement: Sch. Pt. 5 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-b717a6dfedb04b7396d7f0e005616b03]: Commencement: Sch. Pt. 6 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-b717a6dfedb04b7396d7f0e005616b03]: Commencement: Sch. Pt. 6 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-538abe1fd87ad2e75acc10afeab74f92]: Commencement: Sch. Pt. 7 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-538abe1fd87ad2e75acc10afeab74f92]: Commencement: Sch. Pt. 7 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-56e2bcfb424191df9b423380681bf1a0]: Commencement: Sch. Pt. 8 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-56e2bcfb424191df9b423380681bf1a0]: Commencement: Sch. Pt. 8 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-2b83a4988acfd5b8fb61ab86d1861512]: Commencement: Sch. Pt. 9 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-2b83a4988acfd5b8fb61ab86d1861512]: Commencement: Sch. Pt. 9 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-8b19bc68bcfd6cefec2ac094c349f248]: Commencement: Sch. Pt. 10 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-8b19bc68bcfd6cefec2ac094c349f248]: Commencement: Sch. Pt. 10 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-94a5c7b347d70c205130298ac2afdcee]: Commencement: Sch. Pt. 11 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-94a5c7b347d70c205130298ac2afdcee]: Commencement: Sch. Pt. 11 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-86644266b0b6cf6ad8cacbd34fe58ed0]: Commencement: Sch. Pt. 12 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-86644266b0b6cf6ad8cacbd34fe58ed0]: Commencement: Sch. Pt. 12 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-4f3da28aa15bfdfeac97010c64b39930]: Commencement: Sch. Pt. 13 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-4f3da28aa15bfdfeac97010c64b39930]: Commencement: Sch. Pt. 13 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-7f0c84a2d89b584b4f845e6942582750]: Commencement: Sch. Pt. 14 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-7f0c84a2d89b584b4f845e6942582750]: Commencement: Sch. Pt. 14 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-5b4f1a3ed8b794efb281589b05b8d501]: Commencement: Sch. Pt. 15 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-5b4f1a3ed8b794efb281589b05b8d501]: Commencement: Sch. Pt. 15 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-c7043b6992f96ae262e62f7afde0c1aa]: Commencement: Sch. Pt. 16 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-c7043b6992f96ae262e62f7afde0c1aa]: Commencement: Sch. Pt. 16 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-235aacf1f6fbd081694450451c96615d]: Commencement: Sch. Pt. 17 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-235aacf1f6fbd081694450451c96615d]: Commencement: Sch. Pt. 17 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-ff8299713e22ee1d3ff9908477471a99]: Commencement: Sch. Pt. 18 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-ff8299713e22ee1d3ff9908477471a99]: Commencement: Sch. Pt. 18 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-b5a65689e7d6039c9407c3bf995f5178]: Commencement: Sch. Pt. 19 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-b5a65689e7d6039c9407c3bf995f5178]: Commencement: Sch. Pt. 19 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
 
-[^key-22158c22ef9626883b0c3de8e3f7ab6e]: Commencement: Sch. Pt. 20 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)
+[^c-22158c22ef9626883b0c3de8e3f7ab6e]: Commencement: Sch. Pt. 20 in operation at 1.4.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/28/regulation/1)

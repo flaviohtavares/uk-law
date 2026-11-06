@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Call-off stock arrangements[^key-fafae443a34fd30e4d9ba6aa1eaf1d6d]
+## 14A. Call-off stock arrangements[^c-fafae443a34fd30e4d9ba6aa1eaf1d6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fafae443a34fd30e4d9ba6aa1eaf1d6d]: Textual amendment: S. 14A omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/1) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-fafae443a34fd30e4d9ba6aa1eaf1d6d]: Textual amendment: S. 14A omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/1) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of Regulation 1831/2003[^key-0f86fd4b302d984217c9a2fa2333ed9b]
+## 8. Amendment of Regulation 1831/2003[^c-0f86fd4b302d984217c9a2fa2333ed9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 1831/2003 is amended as follows.
 
 ## Annotations
 
-[^key-0f86fd4b302d984217c9a2fa2333ed9b]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0f86fd4b302d984217c9a2fa2333ed9b]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

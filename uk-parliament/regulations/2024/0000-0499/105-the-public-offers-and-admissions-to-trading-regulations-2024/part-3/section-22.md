@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Responsibility for prospectus or MTF admission prospectus[^key-ae385f2dfdfc19dca6cfd1aad482545d]
+## 22. Responsibility for prospectus or MTF admission prospectus[^c-ae385f2dfdfc19dca6cfd1aad482545d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae385f2dfdfc19dca6cfd1aad482545d]: Commencement: Reg. 22 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-ae385f2dfdfc19dca6cfd1aad482545d]: Commencement: Reg. 22 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

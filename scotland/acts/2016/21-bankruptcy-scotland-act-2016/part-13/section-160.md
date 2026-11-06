@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Interim bankruptcy restrictions orders[^key-9d131010d597473731240bd4e9d37569]
+## 160. Interim bankruptcy restrictions orders[^c-9d131010d597473731240bd4e9d37569]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d131010d597473731240bd4e9d37569]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2016/21/section/160) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-9d131010d597473731240bd4e9d37569]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2016/21/section/160) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

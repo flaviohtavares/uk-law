@@ -65,7 +65,7 @@ Regulation 8
 **11.** Particulars of—
 
 - (a) the limits of the environmental conditions beyond which the installation cannot safely be stationed or operated;
-- (b) the properties of the bed of internal waters[^key-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil which are necessary for the safe stationing and operation of the installation; and
+- (b) the properties of the bed of internal waters[^c-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil which are necessary for the safe stationing and operation of the installation; and
 - (c) the locations in which the installation may be stationed and operated safely.
 
 **12.** A description of the arrangements for—
@@ -82,4 +82,4 @@ Regulation 8
 
 ## Annotations
 
-[^key-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

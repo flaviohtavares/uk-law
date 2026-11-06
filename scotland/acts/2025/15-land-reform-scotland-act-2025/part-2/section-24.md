@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Power to make provision about compensation on resumption[^key-2baf127a5a8a7f1d737356ea934dc670]
+## 24. Power to make provision about compensation on resumption[^c-2baf127a5a8a7f1d737356ea934dc670]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2baf127a5a8a7f1d737356ea934dc670]: Commencement: S. 24 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-2baf127a5a8a7f1d737356ea934dc670]: Commencement: S. 24 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

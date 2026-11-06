@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Related amendments[^key-c159cc9c4930ea91e4c5bb5d1b31ab5c]
+## 10. Related amendments[^c-c159cc9c4930ea91e4c5bb5d1b31ab5c]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ summary: ''
 - (g) in paragraph 25 of Schedule 1, in the sub-paragraph (2) inserted by the Senedd and Elections (Wales) Act 2020 (interpretation), from the definition of “devolved Welsh election” omit paragraph (b);
 - (h) in paragraph 6 of Schedule 9 (limits on campaign expenditure)—
   - (i) in sub-paragraph (1), omit “or regions”;
-  - (ii)[^key-f6430f73ab16d9987464789d48141171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-f6430f73ab16d9987464789d48141171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 44(7) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) (electoral area in relation to an election to the Senedd), for paragraph (b) substitute—
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c159cc9c4930ea91e4c5bb5d1b31ab5c]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2024/4/section/10) in force at 24.8.2024, see [s. 25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b)
+[^c-c159cc9c4930ea91e4c5bb5d1b31ab5c]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2024/4/section/10) in force at 24.8.2024, see [s. 25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b)
 
-[^key-f6430f73ab16d9987464789d48141171]: Textual amendment: [S. 10(10)(h)(ii)](https://www.legislation.gov.uk/asc/2024/4/section/10/10/h/ii) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Political Parties, Elections and Referendums Act 2000 (Exclusions and Variation of Campaign Expenditure Limits) (Wales) Regulations 2025 (S.I. 2025/801)](https://www.legislation.gov.uk/wsi/2025/801), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/801/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2025/801/regulation/4/2)
+[^c-f6430f73ab16d9987464789d48141171]: Textual amendment: [S. 10(10)(h)(ii)](https://www.legislation.gov.uk/asc/2024/4/section/10/10/h/ii) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Political Parties, Elections and Referendums Act 2000 (Exclusions and Variation of Campaign Expenditure Limits) (Wales) Regulations 2025 (S.I. 2025/801)](https://www.legislation.gov.uk/wsi/2025/801), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/801/regulation/1/2), [4(2)](https://www.legislation.gov.uk/wsi/2025/801/regulation/4/2)

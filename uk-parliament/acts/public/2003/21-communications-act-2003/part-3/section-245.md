@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Regulation of independent radio services[^key-d741578842c8569fb550b638c09fbb83]
+## 245. Regulation of independent radio services[^c-d741578842c8569fb550b638c09fbb83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) services specified in subsection (2) that are provided from places in the United Kingdom and otherwise than by the BBC;
 - (b) services so specified that do not fall within paragraph (a) but are provided by a person, other than the BBC, whose principal place of business is in the United Kingdom.
-- (c)[^key-d36cfe4600b72dcd67a5d7fcf6c7ee28] digital sound programme services that do not fall within paragraph (a) or (b) but—
+- (c)[^c-d36cfe4600b72dcd67a5d7fcf6c7ee28] digital sound programme services that do not fall within paragraph (a) or (b) but—
   - (i) are provided from a place in a qualifying country, and
   - (ii) are or are intended to be broadcast by means of a local radio multiplex service or small-scale radio multiplex service.
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) is provided with a view to its being broadcast otherwise than only from a satellite; and
 - (b) is a national service, local service or restricted service.
 
-(3A)[^key-1d3e0dec829ca082023adc4e00fb15ab] The Secretary of State may, by regulations, amend or otherwise modify Schedule 2 to the Broadcasting Act 1990 (restrictions on the holding of licences) in its application to digital sound programme services that fall within subsection (1)(c).
+(3A)[^c-1d3e0dec829ca082023adc4e00fb15ab] The Secretary of State may, by regulations, amend or otherwise modify Schedule 2 to the Broadcasting Act 1990 (restrictions on the holding of licences) in its application to digital sound programme services that fall within subsection (1)(c).
 
 (3B) The regulations may in particular—
 
@@ -66,7 +66,7 @@ summary: ''
 
 - (a) is provided with a view to its being broadcast from a satellite;
 - (b) is a service the broadcasting of which involves its transmission to the satellite by means of an electronic communications network from a place in the United Kingdom; and
-- (c) is not a service the provision of which is licensed or otherwise authorised under the laws of an EEA State[^key-ab670621428e740aa15771d56046f309].
+- (c) is not a service the provision of which is licensed or otherwise authorised under the laws of an EEA State[^c-ab670621428e740aa15771d56046f309].
 
 (6) The services that are to be treated as so provided also include every service provided by a BBC company, a C4 company or an S4C company.
 
@@ -74,10 +74,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d741578842c8569fb550b638c09fbb83]: Commencement: S. 245 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d741578842c8569fb550b638c09fbb83]: Commencement: S. 245 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d36cfe4600b72dcd67a5d7fcf6c7ee28]: Textual amendment: S. 245(1)(c) inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/46/2), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/f)
+[^c-d36cfe4600b72dcd67a5d7fcf6c7ee28]: Textual amendment: S. 245(1)(c) inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/46/2), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/f)
 
-[^key-1d3e0dec829ca082023adc4e00fb15ab]: Textual amendment: S. 245(3A)-(3C) inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/46/3), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/f)
+[^c-1d3e0dec829ca082023adc4e00fb15ab]: Textual amendment: S. 245(3A)-(3C) inserted (17.10.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2024/15/section/46/3), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/f)
 
-[^key-ab670621428e740aa15771d56046f309]: Textual amendment: Words in s. 245(5)(c) substituted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/23) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab670621428e740aa15771d56046f309]: Textual amendment: Words in s. 245(5)(c) substituted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/23) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

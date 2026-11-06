@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Information about release or transfer[^key-2cc36c5bb5ab4588d5c6793aeaeda275]
+## 74. Information about release or transfer[^c-2cc36c5bb5ab4588d5c6793aeaeda275]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cc36c5bb5ab4588d5c6793aeaeda275]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2015/9/section/74) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(s)](https://www.legislation.gov.uk/nisr/2016/417/article/2/s)
+[^c-2cc36c5bb5ab4588d5c6793aeaeda275]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2015/9/section/74) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(s)](https://www.legislation.gov.uk/nisr/2016/417/article/2/s)

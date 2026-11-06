@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. The Extractive Industries Transparency Initiative[^key-a5c8a8d24fbb924a4b9d6a4528b23a48]
+## 8A. The Extractive Industries Transparency Initiative[^c-a5c8a8d24fbb924a4b9d6a4528b23a48]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5c8a8d24fbb924a4b9d6a4528b23a48]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2005/11/section/8A) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 40](https://www.legislation.gov.uk/ukpga/2015/7/section/40), [57(7)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/b)
+[^c-a5c8a8d24fbb924a4b9d6a4528b23a48]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/2005/11/section/8A) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 40](https://www.legislation.gov.uk/ukpga/2015/7/section/40), [57(7)(b)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/b)

@@ -44,7 +44,7 @@ Coming into operation
 
 To be laid before Parliament
 
-We, the Northern Ireland Supreme Court Rules Committee, being the authority having for the time being power under section 55 of the Judicature (Northern Ireland) Act 1978[^f00001] to make, amend or revoke rules regulating the pleading, practice and procedure of the Supreme Court of Judicature of Northern Ireland, hereby, with the concurrence of the Lord Chancellor, exercise these powers and all other powers enabling us in that behalf as follows:[^key-ac2ee6864390f7e75c69d093f04c95f2]
+We, the Northern Ireland Supreme Court Rules Committee, being the authority having for the time being power under section 55 of the Judicature (Northern Ireland) Act 1978[^f00001] to make, amend or revoke rules regulating the pleading, practice and procedure of the Supreme Court of Judicature of Northern Ireland, hereby, with the concurrence of the Lord Chancellor, exercise these powers and all other powers enabling us in that behalf as follows:[^c-ac2ee6864390f7e75c69d093f04c95f2]
 
 ## Contents
 
@@ -109,4 +109,4 @@ The existing Orders of the 1936 Rules relating to Adoption (Order 73), Company W
 
 [^f00001]: Footnote: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-ac2ee6864390f7e75c69d093f04c95f2]: Modification: Rules applied (with modifications) (11.7.2025) by [The Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 (S.R. 2025/121)](https://www.legislation.gov.uk/nisr/2025/121), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1), [3](https://www.legislation.gov.uk/nisr/2025/121/article/3)
+[^c-ac2ee6864390f7e75c69d093f04c95f2]: Modification: Rules applied (with modifications) (11.7.2025) by [The Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 (S.R. 2025/121)](https://www.legislation.gov.uk/nisr/2025/121), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1), [3](https://www.legislation.gov.uk/nisr/2025/121/article/3)

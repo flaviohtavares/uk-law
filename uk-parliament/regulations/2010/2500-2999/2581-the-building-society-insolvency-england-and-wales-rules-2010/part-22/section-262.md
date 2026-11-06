@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 262. General provisions as to service[^key-179bd44966fe26a533369835e640dd86]
+## 262. General provisions as to service[^c-179bd44966fe26a533369835e640dd86]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ CPR Part 6 (service of documents) applies as regards any matter relating to the 
 
 ## Annotations
 
-[^key-179bd44966fe26a533369835e640dd86]: Commencement: Rule 262 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-179bd44966fe26a533369835e640dd86]: Commencement: Rule 262 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

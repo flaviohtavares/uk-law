@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Increase in membership of the Office of Tax Simplification[^key-28a6ac724106ee3a95dcb85b69f300ee]
+## 102. Increase in membership of the Office of Tax Simplification[^c-28a6ac724106ee3a95dcb85b69f300ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28a6ac724106ee3a95dcb85b69f300ee]: Textual amendment: S. 102 and cross-heading omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/8)
+[^c-28a6ac724106ee3a95dcb85b69f300ee]: Textual amendment: S. 102 and cross-heading omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/8)

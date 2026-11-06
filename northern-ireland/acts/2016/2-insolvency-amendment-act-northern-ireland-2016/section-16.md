@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Oversight of recognised professional bodies[^key-363adaab4a378097d33301e3c559e17d]
+## 16. Oversight of recognised professional bodies[^c-363adaab4a378097d33301e3c559e17d]
 
 *Extent: N.I.*
 
@@ -222,4 +222,4 @@ summary: ''
 
 ## Annotations
 
-[^key-363adaab4a378097d33301e3c559e17d]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/2/section/16) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-363adaab4a378097d33301e3c559e17d]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2016/2/section/16) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

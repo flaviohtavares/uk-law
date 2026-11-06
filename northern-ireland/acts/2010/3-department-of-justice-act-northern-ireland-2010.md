@@ -42,7 +42,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) The purpose of that department is to exercise functions consisting wholly or mainly of devolved policing and justice functions within the meaning of section 21A of the Northern Ireland Act 1998 (c. 47).
 
-(3)[^key-9578f8c59d7af2b351c3c784e9377974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9578f8c59d7af2b351c3c784e9377974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the Ombudsman (Northern Ireland) Order 1996 (NI 8) in Schedule 2 (which lists the bodies subject to investigation) at the appropriate place insert— “ The Department of Justice ”.
 
@@ -176,6 +176,6 @@ Section 1(5).
 
 [^c21957241]: Commencement: S. 1 wholly in operation at 12.4.2010; s. 1 not in operation at Royal Assent, see s. 3(2); s. 1(1)-(4) in operation at 10.4.2010 by [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(1)](https://www.legislation.gov.uk/nisr/2010/147/article/2/1); s. 1(5) in operation at 12.4.2010 by [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
 
-[^key-9578f8c59d7af2b351c3c784e9377974]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/nia/2010/3/section/1/3) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
+[^c-9578f8c59d7af2b351c3c784e9377974]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/nia/2010/3/section/1/3) repealed (8.5.2016) by [Departments Act (Northern Ireland) 2016 (c. 5)](https://www.legislation.gov.uk/nia/2016/5), [s. 3(2)](https://www.legislation.gov.uk/nia/2016/5/section/3/2), [Sch. 2](https://www.legislation.gov.uk/nia/2016/5/schedule/2); [S.R. 2016/89](https://www.legislation.gov.uk/nisr/2016/89), [art. 2](https://www.legislation.gov.uk/nisr/2016/89/article/2)
 
 [^c21957251]: Subordinate legislation: [S. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2) power fully exercised: various dates appointed for specified provisions by [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2](https://www.legislation.gov.uk/nisr/2010/147/article/2)

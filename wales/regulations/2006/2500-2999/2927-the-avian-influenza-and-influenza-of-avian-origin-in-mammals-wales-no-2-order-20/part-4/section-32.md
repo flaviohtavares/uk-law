@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-Unless he or she is licensed by a veterinary inspector, no person is to supply any of the following for export outside the United Kingdom[^key-7bd2d6fc445fd33719a595c1bcd3261f] if it has come from premises in respect of which any of the measures in Schedule 4 or 5 have been disapplied under articles 30 or 31—
+Unless he or she is licensed by a veterinary inspector, no person is to supply any of the following for export outside the United Kingdom[^c-7bd2d6fc445fd33719a595c1bcd3261f] if it has come from premises in respect of which any of the measures in Schedule 4 or 5 have been disapplied under articles 30 or 31—
 
 - (a) poultry;
 - (b) other captive birds;
@@ -31,4 +31,4 @@ Unless he or she is licensed by a veterinary inspector, no person is to supply a
 
 ## Annotations
 
-[^key-7bd2d6fc445fd33719a595c1bcd3261f]: Textual amendment: Words in [art. 32](https://www.legislation.gov.uk/wsi/2006/2927/article/32) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7bd2d6fc445fd33719a595c1bcd3261f]: Textual amendment: Words in [art. 32](https://www.legislation.gov.uk/wsi/2006/2927/article/32) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [5(3)](https://www.legislation.gov.uk/wsi/2019/371/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

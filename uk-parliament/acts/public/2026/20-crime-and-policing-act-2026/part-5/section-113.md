@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Exposure[^key-ae62ab431b9e8ae351cd39315a633574][^key-a27c0b89c38659a937c94d1dc4c1d8d0]
+## 113. Exposure[^c-ae62ab431b9e8ae351cd39315a633574][^c-a27c0b89c38659a937c94d1dc4c1d8d0]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In the [Sexual Offences Act 2003](https://www.legislation.gov.uk/ukpga/2003/42/c
 
 ## Annotations
 
-[^key-ae62ab431b9e8ae351cd39315a633574]: Commencement: S. 113 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ae62ab431b9e8ae351cd39315a633574]: Commencement: S. 113 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a27c0b89c38659a937c94d1dc4c1d8d0]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2026/20/section/113) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-a27c0b89c38659a937c94d1dc4c1d8d0]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2026/20/section/113) in force at 29.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)

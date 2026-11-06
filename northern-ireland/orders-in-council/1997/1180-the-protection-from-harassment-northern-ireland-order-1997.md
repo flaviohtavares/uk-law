@@ -132,7 +132,7 @@ he shall be guilty of an offence.
 
 *Para. (6) rep. by 2004 NI 15*
 
-## 6A. Offences under Article 6 committed outside the United Kingdom[^key-c88be37ead6dfb2a6537f1140bcf139b]
+## 6A. Offences under Article 6 committed outside the United Kingdom[^c-c88be37ead6dfb2a6537f1140bcf139b]
 
 (1) If—
 
@@ -150,7 +150,7 @@ the person is guilty in Northern Ireland of that offence.
   - (b) a person who under the British Nationality Act 1981 is a British subject, or
   - (c) a British protected person within the meaning of that Act.
 
-## 7. Restraining orders on conviction[^key-0c04875a16f183db4f7d7a292349ceb8][^c21951281]
+## 7. Restraining orders on conviction[^c-0c04875a16f183db4f7d7a292349ceb8][^c21951281]
 
 (1) A court sentencing or otherwise dealing with a person ( “the defendant”) convicted of an offence[^c21951301]. . . may (as well as sentencing him or dealing with him in any other way) make an order under this Article.
 
@@ -230,9 +230,9 @@ and was done on behalf of the Crown, the certificate shall be conclusive evidenc
 
 [^c11710361]: Textual amendment: [2004 NI 15](https://www.legislation.gov.uk/2004/ni15)
 
-[^key-c88be37ead6dfb2a6537f1140bcf139b]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/nisi/1997/1180/article/6A) inserted (21.2.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/7); [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/52/article/2/c)
+[^c-c88be37ead6dfb2a6537f1140bcf139b]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/nisi/1997/1180/article/6A) inserted (21.2.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/7); [S.R. 2022/52](https://www.legislation.gov.uk/nisr/2022/52), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/52/article/2/c)
 
-[^key-0c04875a16f183db4f7d7a292349ceb8]: Modification: [Art. 7](https://www.legislation.gov.uk/nisi/1997/1180/article/7) applied (with modifications) (11.1.2015) by [The Criminal Justice (European Protection Order) (Northern Ireland) Regulations 2014 (S.R. 2014/320)](https://www.legislation.gov.uk/nisr/2014/320), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/320/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2014/320/regulation/13/2)
+[^c-0c04875a16f183db4f7d7a292349ceb8]: Modification: [Art. 7](https://www.legislation.gov.uk/nisi/1997/1180/article/7) applied (with modifications) (11.1.2015) by [The Criminal Justice (European Protection Order) (Northern Ireland) Regulations 2014 (S.R. 2014/320)](https://www.legislation.gov.uk/nisr/2014/320), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/320/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2014/320/regulation/13/2)
 
 [^c21951281]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/1997/1180/article/7): words in the heading inserted (30.9.2009) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 47(2)](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/47/2); [S.I. 2009/2501](https://www.legislation.gov.uk/uksi/2009/2501), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2009/2501/article/2/c/d)
 

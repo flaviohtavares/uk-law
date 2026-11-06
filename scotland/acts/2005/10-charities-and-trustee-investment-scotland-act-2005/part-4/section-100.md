@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Notices, applications etc.[^key-6ab24faf2a4e13aafef4d3865f502ee6]
+## 100. Notices, applications etc.[^c-6ab24faf2a4e13aafef4d3865f502ee6]
 
 *Extent: S*
 
@@ -48,7 +48,7 @@ under or for the purposes of this Act.
   - (i) to the charity at its principal office, or
   - (ii) to the charity trustee whose name is, because of section 3(4), excluded from the Register at the address which is so excluded.
 
-(5A)[^key-d3ac468ec1f6855b241093b70254802d] Subsection (5B) applies where OSCR has cause to believe that giving or making a formal communication to a charity by the means specified in subsection (4)(b) or (5)(b) will not cause it to be received by the charity or, as the case may be, the charity trustee whose name is set out in the charity’s entry in the Register.
+(5A)[^c-d3ac468ec1f6855b241093b70254802d] Subsection (5B) applies where OSCR has cause to believe that giving or making a formal communication to a charity by the means specified in subsection (4)(b) or (5)(b) will not cause it to be received by the charity or, as the case may be, the charity trustee whose name is set out in the charity’s entry in the Register.
 
 (5B) The communication may also be given or made by OSCR sending it by post in a prepaid registered letter, or by the recorded delivery service, addressed to the charity at such address or addresses as OSCR considers is likely to cause it to be received by the charity or a charity trustee of the charity.
 
@@ -74,6 +74,6 @@ under or for the purposes of this Act.
 
 ## Annotations
 
-[^key-6ab24faf2a4e13aafef4d3865f502ee6]: Commencement: S. 100 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-6ab24faf2a4e13aafef4d3865f502ee6]: Commencement: S. 100 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
 
-[^key-d3ac468ec1f6855b241093b70254802d]: Textual amendment: [S. 100(5A)-(5E)](https://www.legislation.gov.uk/asp/2005/10/section/100/5A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 20(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/20/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)
+[^c-d3ac468ec1f6855b241093b70254802d]: Textual amendment: [S. 100(5A)-(5E)](https://www.legislation.gov.uk/asp/2005/10/section/100/5A) inserted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [s. 21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2), [sch. para. 20(2)](https://www.legislation.gov.uk/asp/2023/5/schedule/paragraph/20/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1)

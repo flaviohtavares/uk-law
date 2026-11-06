@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Specific performance[^key-91d76db3d714605718fc26da34f3e981]
+## 100. Specific performance[^c-91d76db3d714605718fc26da34f3e981]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ and include a landlord's obligations under sections 91 and 92.
 
 ## Annotations
 
-[^key-91d76db3d714605718fc26da34f3e981]: Commencement: [S. 100](https://www.legislation.gov.uk/anaw/2016/1/section/100) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-91d76db3d714605718fc26da34f3e981]: Commencement: [S. 100](https://www.legislation.gov.uk/anaw/2016/1/section/100) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Ancillary powers[^key-0823e46df27ad25e3039544b0c34d5d5][^key-6a150694fae53101b4c52d5d1eaf8faa][^key-aea8027dc40b73071d20bda5d0801af5]
+## 9. Ancillary powers[^c-0823e46df27ad25e3039544b0c34d5d5][^c-6a150694fae53101b4c52d5d1eaf8faa][^c-aea8027dc40b73071d20bda5d0801af5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0823e46df27ad25e3039544b0c34d5d5]: Commencement: S. 9 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-0823e46df27ad25e3039544b0c34d5d5]: Commencement: S. 9 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-6a150694fae53101b4c52d5d1eaf8faa]: Modification: S. 9 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 7(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/8/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-6a150694fae53101b4c52d5d1eaf8faa]: Modification: S. 9 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 7(8)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/7/8/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-aea8027dc40b73071d20bda5d0801af5]: Modification: S. 9 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 1(7)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/7/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-aea8027dc40b73071d20bda5d0801af5]: Modification: S. 9 modified (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 1(7)(b)](https://www.legislation.gov.uk/ukpga/2009/11/section/1/7/b), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))

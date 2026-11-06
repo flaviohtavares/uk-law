@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by sections 15(1) and 19(1) of the Fisheries Act (Northern Ireland) 1966[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-02e796e6726da0ae1e6f40fbf9ea93e0]
+## 1. Citation and commencement[^c-02e796e6726da0ae1e6f40fbf9ea93e0]
 
 These Regulations may be cited as the Eel Fishing (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 1st January 2026.
 
-## 2. Amendment of the Eel Fishing Regulations (Northern Ireland) 2010[^key-d001575447315dbccd2a9c66d8008488]
+## 2. Amendment of the Eel Fishing Regulations (Northern Ireland) 2010[^c-d001575447315dbccd2a9c66d8008488]
 
 (1) The Eel Fishing Regulations (Northern Ireland) 2010[^f00003] are amended in accordance with paragraphs (2) to (5).
 
@@ -123,9 +123,9 @@ The Regulations also insert new regulations to provide for annual catch limits a
 
 [^f00002]: Footnote: [1966 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17), as amended by [S.I. 2007/915 (N.I. 9)](https://www.legislation.gov.uk/nisi/2007/915) and [2009 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2009/2)
 
-[^key-02e796e6726da0ae1e6f40fbf9ea93e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/141/regulation/1) in operation at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/141/regulation/1)
+[^c-02e796e6726da0ae1e6f40fbf9ea93e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/141/regulation/1) in operation at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/141/regulation/1)
 
-[^key-d001575447315dbccd2a9c66d8008488]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/141/regulation/2) in operation at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/141/regulation/1)
+[^c-d001575447315dbccd2a9c66d8008488]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/141/regulation/2) in operation at 1.1.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/141/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2010 No. 166](https://www.legislation.gov.uk/nisr/2010/166), as amended by SR [2011 No.235](https://www.legislation.gov.uk/nisr/2011/235)
 

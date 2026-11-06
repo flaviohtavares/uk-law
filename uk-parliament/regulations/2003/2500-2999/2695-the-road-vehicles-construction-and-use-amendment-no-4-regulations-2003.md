@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State in exercise of the powers conferred on him by section 41(1) and (5) of the Road Traffic Act 1988[^f00001], and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b1528621afedcbc83b980b92a0d523da]
+## 1. Citation, commencement and interpretation[^c-b1528621afedcbc83b980b92a0d523da]
 
 These Regulations may be cited as the Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 2003 and shall come into force on 1st December 2003.
 
-## 2. Amendment of the Road Vehicles (Construction and Use) Regulations 1986[^key-186ba4655fc254f5da162e5af63bb7f6]
+## 2. Amendment of the Road Vehicles (Construction and Use) Regulations 1986[^c-186ba4655fc254f5da162e5af63bb7f6]
 
 The Road Vehicles (Construction and Use) Regulations 1986[^f00002] are amended by inserting after regulation 109—
 
@@ -118,9 +118,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
-[^key-b1528621afedcbc83b980b92a0d523da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/2695/regulation/1) in force at 1.12.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2695/regulation/1)
+[^c-b1528621afedcbc83b980b92a0d523da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/2695/regulation/1) in force at 1.12.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2695/regulation/1)
 
-[^key-186ba4655fc254f5da162e5af63bb7f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/2695/regulation/2) in force at 1.12.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2695/regulation/1)
+[^c-186ba4655fc254f5da162e5af63bb7f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/2695/regulation/2) in force at 1.12.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2695/regulation/1)
 
 [^f00002]: Footnote: S.I. [1986/1078](https://www.legislation.gov.uk/uksi/1986/1078), to which there are amendments not relevant to these Regulations.
 

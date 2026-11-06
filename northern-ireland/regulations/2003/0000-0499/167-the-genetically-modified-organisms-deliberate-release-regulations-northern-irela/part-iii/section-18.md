@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Applications for renewal of consent to market[^key-d9ad03a05eb77f78a71d1bb149d7b1b9]
+## 18. Applications for renewal of consent to market[^c-d9ad03a05eb77f78a71d1bb149d7b1b9]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9ad03a05eb77f78a71d1bb149d7b1b9]: Commencement: Reg. 18 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-d9ad03a05eb77f78a71d1bb149d7b1b9]: Commencement: Reg. 18 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

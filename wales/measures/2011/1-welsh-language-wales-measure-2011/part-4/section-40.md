@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Duty to make standards specifically applicable[^key-bf343fcad11e7014955ce440d7fb2ad1]
+## 40. Duty to make standards specifically applicable[^c-bf343fcad11e7014955ce440d7fb2ad1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf343fcad11e7014955ce440d7fb2ad1]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2011/1/section/40) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-bf343fcad11e7014955ce440d7fb2ad1]: Commencement: [S. 40](https://www.legislation.gov.uk/mwa/2011/1/section/40) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

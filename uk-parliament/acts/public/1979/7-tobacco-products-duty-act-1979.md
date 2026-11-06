@@ -31,7 +31,7 @@ Tobacco Products Duty Act 1979
 
 An Act to consolidate the enactments relating to the excise duty on tobacco products.
 
-\[22nd February 1979\][^c74929][^c74930][^c74931][^M_C_d48aa028-0d7c-4b77-845d-7670813bfdfe][^key-5c18a6df1f1f75c0d896017a836897bf][^key-4b9bbe8595895fcd49ff3560d31f8c3e]
+\[22nd February 1979\][^c74929][^c74930][^c74931][^M_C_d48aa028-0d7c-4b77-845d-7670813bfdfe][^c-5c18a6df1f1f75c0d896017a836897bf][^c-4b9bbe8595895fcd49ff3560d31f8c3e]
 
 ## 1. Tobacco products.
 
@@ -40,24 +40,24 @@ An Act to consolidate the enactments relating to the excise duty on tobacco prod
 - (a) cigarettes;
 - (b) cigars;
 - (c) hand-rolling tobacco;
-- (d) other smoking tobacco; [^key-b0a2c1f7c75ae086a018cf9cf93bfd83]...
-- (e) chewing tobacco, and[^key-0b34f38eb934461defc9d0d4741e6ed7]
+- (d) other smoking tobacco; [^c-b0a2c1f7c75ae086a018cf9cf93bfd83]...
+- (e) chewing tobacco, and[^c-0b34f38eb934461defc9d0d4741e6ed7]
 - (f) tobacco for heating,
 
-which are manufactured wholly or partly from tobacco or any substance used as a substitute for tobacco[^key-101ef5e9304b5669ee67dc3840e8e048]....
+which are manufactured wholly or partly from tobacco or any substance used as a substitute for tobacco[^c-101ef5e9304b5669ee67dc3840e8e048]....
 
-(1A)[^key-8fe22cd0cd8b4bb52e1edb12aeaf86db] But a product is not a tobacco product for the purposes of this Act if—
+(1A)[^c-8fe22cd0cd8b4bb52e1edb12aeaf86db] But a product is not a tobacco product for the purposes of this Act if—
 
 - (a) the product does not contain any tobacco, and
 - (b) the Commissioners are satisfied that—
   - (i) the product is of a description that is used for medical purposes, and
   - (ii) the product is intended to be used exclusively for such purposes.
 
-(2)[^key-b28c2fd954a4f380c9bf46cfbf592993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b28c2fd954a4f380c9bf46cfbf592993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-b28c2fd954a4f380c9bf46cfbf592993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-b28c2fd954a4f380c9bf46cfbf592993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The Treasury may by order made by statutory instrument provide that in this Act references to cigarettes, cigars, hand-rolling tobacco, other smoking tobacco, chewing tobacco and tobacco for heating[^key-b0557f215da94148df060ef12231fc30] shall or shall not include references to any product of a description specified in the order, being a product manufactured as mentioned in subsection (1) above [^key-6108a6a18cdcab128b25421bb2ec7052]... ; and any such order may amend or repeal subsection (2) or (2A)[^c74936] above.
+(3) The Treasury may by order made by statutory instrument provide that in this Act references to cigarettes, cigars, hand-rolling tobacco, other smoking tobacco, chewing tobacco and tobacco for heating[^c-b0557f215da94148df060ef12231fc30] shall or shall not include references to any product of a description specified in the order, being a product manufactured as mentioned in subsection (1) above [^c-6108a6a18cdcab128b25421bb2ec7052]... ; and any such order may amend or repeal subsection (2) or (2A)[^c74936] above.
 
 (4) Subject to subsection (5) below, a statutory instrument by which there is made an order under subsection (3) above shall be laid before the House of Commons after being made; and unless the order is approved by that House before the expiration of 28 days beginning with the date on which it was made, it shall cease to have effect on the expiration of that period, but without prejudice to anything previously done under it or to the making of a new order.
 
@@ -65,13 +65,13 @@ In reckoning any such period no account shall be taken of any time during which 
 
 (5) Subsection (4) above shall not apply to any order containing a statement by the Treasury that the order does not extend the incidence of the duty or involve a greater charge to duty or a reduction of any relief; and a statutory instrument by which any such order is made shall be subject to annulment in pursuance of a resolution of the House of Commons.
 
-(6)[^key-34cb6e1c8040112a3b721522d3bdba09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-34cb6e1c8040112a3b721522d3bdba09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Charge and remission or repayment of tobacco products duty.[^key-45b5d6cf22cd4fc023e6f3e4af1b7c1c]
+## 2. Charge and remission or repayment of tobacco products duty.[^c-45b5d6cf22cd4fc023e6f3e4af1b7c1c]
 
 (1) There shall be charged on tobacco products imported into or manufactured in the United Kingdom a duty of excise at the rates shown, . . . [^c74939], in the Table in Schedule 1 to this Act.
 
-(2)[^c74940][^key-8717997ba8a58aad566efa332bb2b2eb] Subject to such conditions as they see fit to impose, the Commissioners shall remit or repay the duty charged by this section where it is shown to their satisfaction that —[^c74941]
+(2)[^c74940][^c-8717997ba8a58aad566efa332bb2b2eb] Subject to such conditions as they see fit to impose, the Commissioners shall remit or repay the duty charged by this section where it is shown to their satisfaction that —[^c74941]
 
 - (a) the products in question have been—
   - (i) exported or shipped as stores, or
@@ -82,9 +82,9 @@ and the Commissioners may by regulations provide for the remission or repayment 
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c74942]
 
-## 4. Calculation of duty in case of cigarettes more than 8 cm. long.[^key-399af2a9095c9b2181026582875635b4]
+## 4. Calculation of duty in case of cigarettes more than 8 cm. long.[^c-399af2a9095c9b2181026582875635b4]
 
-For the purposes of the references to a thousand cigarettes in paragraph 1 in the Table in Schedule 1 to this Act . . . [^c74943] any cigarette more than 8 cm.[^key-4939cdbb9fa070daadbf2a5076954b93] long (excluding any filter or mouthpiece) shall be treated as if the first 8 cm. of it, each 3 cm. portion of the remainder of it (if any) and the remaining portion of it (if any)[^key-a9c5695ee61d8ffdee606ed50387348a] were a separate cigarette.
+For the purposes of the references to a thousand cigarettes in paragraph 1 in the Table in Schedule 1 to this Act . . . [^c74943] any cigarette more than 8 cm.[^c-4939cdbb9fa070daadbf2a5076954b93] long (excluding any filter or mouthpiece) shall be treated as if the first 8 cm. of it, each 3 cm. portion of the remainder of it (if any) and the remaining portion of it (if any)[^c-a9c5695ee61d8ffdee606ed50387348a] were a separate cigarette.
 
 ## 5. Retail price of cigarettes.
 
@@ -99,7 +99,7 @@ For the purposes of the references to a thousand cigarettes in paragraph 1 in th
 
 (1A)[^c74952] In subsection (1) above “ **recommended price** ”—
 
-- (a) in relation to a case in which cigarettes of the applicable description are manufactured by a manufacturer in the United Kingdom[^key-0b1e94e2028404da931a3bda47f1cea5], means any price recommended by that manufacturer; and
+- (a) in relation to a case in which cigarettes of the applicable description are manufactured by a manufacturer in the United Kingdom[^c-0b1e94e2028404da931a3bda47f1cea5], means any price recommended by that manufacturer; and
 - (b) in relation to a case which does not fall within paragraph (a) above, means any price recommended by an importer of cigarettes of the applicable description.
 
 (2) The duty in respect of any number of cigarettes shall be charged by reference to the price which, in accordance with subsection (1) above, is applicable to cigarettes sold in packets of 20 or of such other number as the Commissioners may determine in relation to cigarettes of the description in question; and the whole of the price of a packet shall be regarded as referable to the cigarettes it contains notwithstanding that it also contains a coupon, token, card or other additional item.
@@ -109,13 +109,13 @@ For the purposes of the references to a thousand cigarettes in paragraph 1 in th
 - (a) the question as to what price is applicable under that paragraph shall, subject to subsection (4) below, be determined by the Commissioners; and
 - (b) the Commissioners may require security (by deposit of money or otherwise to their satisfaction) for the payment of duty to be given pending their determination.
 
-(4) Any person who has paid duty in accordance with a determination of the Commissioners under subsection (3)(a) above and is dissatisfied with their determination may require the question of what price was applicable under subsection (1)(b)[^c74954] above to be referred to the arbitration of a referee appointed in accordance with subsections (7) to (9).[^key-9a2dd6d23fd30a1433c3fbb217a615f4]
+(4) Any person who has paid duty in accordance with a determination of the Commissioners under subsection (3)(a) above and is dissatisfied with their determination may require the question of what price was applicable under subsection (1)(b)[^c74954] above to be referred to the arbitration of a referee appointed in accordance with subsections (7) to (9).[^c-9a2dd6d23fd30a1433c3fbb217a615f4]
 
 (5) If, on a reference to him under subsection (4) above, the referee determines that the price was lower than that determined by the Commissioners, they shall repay the duty overpaid together with interest on the overpaid duty from the date of the overpayment at such rate as the referee may determine.
 
 (6) The procedure on any reference to a referee under subsection (4) above shall be such as may be determined by the referee; and the referee’s decision on any such reference shall be final and conclusive.
 
-(7)[^key-8e8740b565a06a2d25d138cc62364806] The Lord Chancellor is to appoint the referee.
+(7)[^c-8e8740b565a06a2d25d138cc62364806] The Lord Chancellor is to appoint the referee.
 
 (8) The appointment is to be made only with the concurrence of—
 
@@ -151,10 +151,10 @@ In reckoning any such period no account shall be taken of any time during which 
 
 (5) For the purposes of this section—
 
-- (a) the percentage and each amount[^key-26b2353f492672e2de2894a6f6c6bbcd] per thousand cigarettes in paragraph 1 in the Table in Schedule 1 to this Act shall be treated as separate rates of duty; [^c74956]. . .
+- (a) the percentage and each amount[^c-26b2353f492672e2de2894a6f6c6bbcd] per thousand cigarettes in paragraph 1 in the Table in Schedule 1 to this Act shall be treated as separate rates of duty; [^c74956]. . .
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c74956]
 
-## 6A. Anti-forestalling notices in connection with anticipated alteration of rate of duty[^key-514a54feaed0c4904892c6349abbe433]
+## 6A. Anti-forestalling notices in connection with anticipated alteration of rate of duty[^c-514a54feaed0c4904892c6349abbe433]
 
 (1) If the Commissioners consider that an alteration to a rate of duty charged under section 2 on tobacco products may be made (whether under section 6 or otherwise), they may publish a notice under this section (an “anti-forestalling notice”).
 
@@ -260,9 +260,9 @@ the Commissioners may publish an extension notice.
 - (a) imposing, or providing for the imposition under the regulations of, conditions and restrictions relating to any of the matters mentioned in that subsection;
 - (b) enabling the Commissioners to dispense with compliance with any provision contained in the regulations in such circumstances and subject to such conditions (if any) as they may determine.
 
-(2)[^c471921][^key-28e8c4ec9e27a0e6fd385f878fac7e40] If any person fails to comply with any regulation made under subsection (1) above his failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalities), and any article in respect of which any person fails to comply with any such regulation, or which is found on premises in respect of which any person has failed to comply with any such regulation, shall be liable to forfeiture[^c74966]
+(2)[^c471921][^c-28e8c4ec9e27a0e6fd385f878fac7e40] If any person fails to comply with any regulation made under subsection (1) above his failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalities), and any article in respect of which any person fails to comply with any such regulation, or which is found on premises in respect of which any person has failed to comply with any such regulation, shall be liable to forfeiture[^c74966]
 
-## 7A. Duty not to facilitate smuggling[^key-065ea287c0367a24ae8e9a07d30c534b]
+## 7A. Duty not to facilitate smuggling[^c-065ea287c0367a24ae8e9a07d30c534b]
 
 (1) A manufacturer of cigarettes or hand-rolling tobacco shall so far as is reasonably practicable avoid—
 
@@ -347,7 +347,7 @@ the Commissioners may publish an extension notice.
 - (h) the loss of revenue by way of duty under section 2, or VAT , in respect of the products seized, and
 - (i) any other matter that they think relevant.
 
-(3)[^key-19a363146a4ef5ff3080fcfc8c2f757b] Sections 13A to 16 of the Finance Act 1994 apply to a decision to issue a penalty notice as they apply to the decisions mentioned in section 13A(2)(a) to (h) of that Act.
+(3)[^c-19a363146a4ef5ff3080fcfc8c2f757b] Sections 13A to 16 of the Finance Act 1994 apply to a decision to issue a penalty notice as they apply to the decisions mentioned in section 13A(2)(a) to (h) of that Act.
 
 ## 7D. Sections 7A to 7C: supplemental
 
@@ -360,7 +360,7 @@ the Commissioners may publish an extension notice.
 - (a) arranges to have cigarettes or hand-rolling tobacco manufactured, and
 - (b) is wholly or partly responsible for the initial supply of the products after manufacture.
 
-(4) Where a manufacturer is a parent undertaking or a subsidiary undertaking (within the meaning of section 1162 of the Companies Act 2006[^key-dcf49f672ce8e5e88f77f3b0abcb908f]) the Commissioners may—
+(4) Where a manufacturer is a parent undertaking or a subsidiary undertaking (within the meaning of section 1162 of the Companies Act 2006[^c-dcf49f672ce8e5e88f77f3b0abcb908f]) the Commissioners may—
 
 - (a) treat the parent and its subsidiaries as a single undertaking for the purpose of sections 7A to 7C and this section, and
 - (b) in particular, enforce a penalty imposed on the single undertaking as a debt owed by—
@@ -570,7 +570,7 @@ For this purpose “ **duty-paid fiscal mark** ” has the same meaning as in se
 
 For this purpose “the duty currently charged” on the products is the amount of the duty charged under section 2 above that would be payable on the products if the requirement to pay the duty took effect at the time of the conduct attracting the penalty.
 
-## 8JA. Tracing and security: regulations[^key-0e9c947cf611a9916c0a4b6989e93769]
+## 8JA. Tracing and security: regulations[^c-0e9c947cf611a9916c0a4b6989e93769]
 
 (1) The Commissioners may by regulations—
 
@@ -688,7 +688,7 @@ In determining whether a disclosure would do either of those things, the powers 
 
 (9) References in this section to an authorised officer of any person are to any person who has been designated by the principal as a person to and by whom information may be disclosed by virtue of this section.
 
-## 8K. Raw tobacco: definitions[^key-6021d6b280a97a77509957f128f7b131]
+## 8K. Raw tobacco: definitions[^c-6021d6b280a97a77509957f128f7b131]
 
 (1) The following definitions apply for the purposes of sections 8L to 8U.
 
@@ -701,7 +701,7 @@ In determining whether a disclosure would do either of those things, the powers 
 
 ## 8L. Raw tobacco: requirement for approval
 
-(1)[^key-22896affa29288be066fe9d202a1f74d][^key-d55bf0374c6d421a414a29cc8ece4065][^key-6b3576ac5327638d79bfe33d0f752d73][^key-bedf303876bb474ac36578878373c451] A person may not carry on a controlled activity otherwise than in accordance with an approval given by the Commissioners under this section.
+(1)[^c-22896affa29288be066fe9d202a1f74d][^c-d55bf0374c6d421a414a29cc8ece4065][^c-6b3576ac5327638d79bfe33d0f752d73][^c-bedf303876bb474ac36578878373c451] A person may not carry on a controlled activity otherwise than in accordance with an approval given by the Commissioners under this section.
 
 (2) The Commissioners may approve a person to carry on a controlled activity only if satisfied that—
 
@@ -807,7 +807,7 @@ The Commissioners may by regulations provide that specified provisions of the Cu
 - (a) in relation to persons who carry on controlled activities as they apply in relation to revenue traders whose trade or business relates to tobacco products, and
 - (b) in relation to raw tobacco as they apply in relation to tobacco products.
 
-## 8V. Tobacco products manufacturing machinery: licensing scheme[^key-50033fb2da38100823108e0cebf4a682]
+## 8V. Tobacco products manufacturing machinery: licensing scheme[^c-50033fb2da38100823108e0cebf4a682]
 
 (1) In this section “tobacco products manufacturing machinery” means machinery that is designed primarily for use for the purpose of (or for purposes including) manufacturing tobacco products.
 
@@ -844,11 +844,11 @@ The Commissioners may by regulations provide that specified provisions of the Cu
 
 ## 9. Regulations.
 
-(1)[^key-2a41d1a40065cb39806ac4d2808d40bc] Any power to make regulations under this Act shall be exercisable by statutory instrument and , subject to subsection (1A),[^key-2e87ef718ce4cc6387250ec0741549e3] any statutory instrument by which the power is exercised shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(1)[^c-2a41d1a40065cb39806ac4d2808d40bc] Any power to make regulations under this Act shall be exercisable by statutory instrument and , subject to subsection (1A),[^c-2e87ef718ce4cc6387250ec0741549e3] any statutory instrument by which the power is exercised shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(1A)[^key-d4633e07869eb90c4e5b7b6c0fa14ea0] A statutory instrument containing regulations under section 8JA,[^key-526104af65006977ded29a44af4d8b64] 8M, 8N , 8U or 8V[^key-586e2e8710af36b248f1cd2a0d4b8591] is subject to annulment in pursuance of a resolution of the House of Commons.
+(1A)[^c-d4633e07869eb90c4e5b7b6c0fa14ea0] A statutory instrument containing regulations under section 8JA,[^c-526104af65006977ded29a44af4d8b64] 8M, 8N , 8U or 8V[^c-586e2e8710af36b248f1cd2a0d4b8591] is subject to annulment in pursuance of a resolution of the House of Commons.
 
-(2)[^key-2e752ac4670173740248799315a21d89] Regulations under this Act—
+(2)[^c-2e752ac4670173740248799315a21d89] Regulations under this Act—
 
 - (a) may enable the Commissioners to dispense with compliance with a provision of the regulations (whether absolutely or conditionally),
 - (b) may make provision generally or only in relation to specified cases or circumstances,
@@ -869,7 +869,7 @@ The Commissioners may by regulations provide that specified provisions of the Cu
 *Customs and Excise Management Act 1979*
 
 - “the Commissioners”
-- “the customs and excise Acts”[^key-3640ca6623a955b09c238839cb86db64]
+- “the customs and excise Acts”[^c-3640ca6623a955b09c238839cb86db64]
 - “the Customs and Excise Acts 1979”
 - “goods”
 - “importer”
@@ -894,11 +894,11 @@ The Commissioners may by regulations provide that specified provisions of the Cu
 
 SCHEDULES
 
-## SCHEDULE 1 — Table of Rates of Tobacco Products Duty[^key-1db2e0e1450d96c8ef2385b95dd81f9f]
+## SCHEDULE 1 — Table of Rates of Tobacco Products Duty[^c-1db2e0e1450d96c8ef2385b95dd81f9f]
 
 Section 2(1).
 
-TABLE[^key-23326aacefeaa41d8dec1a9a70001c18]
+TABLE[^c-23326aacefeaa41d8dec1a9a70001c18]
 
 |  |  |
 | --- | --- |
@@ -924,67 +924,67 @@ Section 11(1).
 
 [^M_C_d48aa028-0d7c-4b77-845d-7670813bfdfe]: Modification: Act modified by [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4), [Sch. 2A para. 3(5)](https://www.legislation.gov.uk/ukpga/1979/4/schedule/2A/paragraph/3/5) (as inserted (22.2.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1); [S.I. 2006/201](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2))
 
-[^key-5c18a6df1f1f75c0d896017a836897bf]: Modification: Act applied (with modifications) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-5c18a6df1f1f75c0d896017a836897bf]: Modification: Act applied (with modifications) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-4b9bbe8595895fcd49ff3560d31f8c3e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/7) applied (31.12.2020) by 1994 c. 23, s. 16(1) (as substituted by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/13) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in S.I. 2019/105 (as amended by S.I. 2020/1495, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), S.I. 2020/1545, [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and 2020 c. 26, [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7)))
+[^c-4b9bbe8595895fcd49ff3560d31f8c3e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/7) applied (31.12.2020) by 1994 c. 23, s. 16(1) (as substituted by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/13) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in S.I. 2019/105 (as amended by S.I. 2020/1495, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), S.I. 2020/1545, [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and 2020 c. 26, [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7)))
 
-[^key-b0a2c1f7c75ae086a018cf9cf93bfd83]: Textual amendment: Word in s. 1(1)(d) omitted (1.7.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 57(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/2/a)[(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/7); [S.I. 2019/981](https://www.legislation.gov.uk/uksi/2019/981), [reg. 2](https://www.legislation.gov.uk/uksi/2019/981/regulation/2)
+[^c-b0a2c1f7c75ae086a018cf9cf93bfd83]: Textual amendment: Word in s. 1(1)(d) omitted (1.7.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 57(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/2/a)[(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/7); [S.I. 2019/981](https://www.legislation.gov.uk/uksi/2019/981), [reg. 2](https://www.legislation.gov.uk/uksi/2019/981/regulation/2)
 
-[^key-0b34f38eb934461defc9d0d4741e6ed7]: Textual amendment: S. 1(1)(f) and word inserted (1.7.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 57(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/2/b)[(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/7); [S.I. 2019/981](https://www.legislation.gov.uk/uksi/2019/981), [reg. 2](https://www.legislation.gov.uk/uksi/2019/981/regulation/2)
+[^c-0b34f38eb934461defc9d0d4741e6ed7]: Textual amendment: S. 1(1)(f) and word inserted (1.7.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 57(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/2/b)[(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/7); [S.I. 2019/981](https://www.legislation.gov.uk/uksi/2019/981), [reg. 2](https://www.legislation.gov.uk/uksi/2019/981/regulation/2)
 
-[^key-101ef5e9304b5669ee67dc3840e8e048]: Textual amendment: Words in s. 1(1) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/2)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
+[^c-101ef5e9304b5669ee67dc3840e8e048]: Textual amendment: Words in s. 1(1) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/2)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
 
-[^key-8fe22cd0cd8b4bb52e1edb12aeaf86db]: Textual amendment: S. 1(1A) inserted (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/3)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
+[^c-8fe22cd0cd8b4bb52e1edb12aeaf86db]: Textual amendment: S. 1(1A) inserted (1.1.2014) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/3)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
 
-[^key-b28c2fd954a4f380c9bf46cfbf592993]: Textual amendment: S. 1(2)(2A) repealed (1.8.2003) by [Tobacco Products (Descriptions of Products) Order 2003 (S.I. 2003/1471)](https://www.legislation.gov.uk/uksi/2003/1471), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1471/article/1), [3](https://www.legislation.gov.uk/uksi/2003/1471/article/3)
+[^c-b28c2fd954a4f380c9bf46cfbf592993]: Textual amendment: S. 1(2)(2A) repealed (1.8.2003) by [Tobacco Products (Descriptions of Products) Order 2003 (S.I. 2003/1471)](https://www.legislation.gov.uk/uksi/2003/1471), [arts. 1](https://www.legislation.gov.uk/uksi/2003/1471/article/1), [3](https://www.legislation.gov.uk/uksi/2003/1471/article/3)
 
-[^key-b0557f215da94148df060ef12231fc30]: Textual amendment: Words in s. 1(3) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/3)
+[^c-b0557f215da94148df060ef12231fc30]: Textual amendment: Words in s. 1(3) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/57/3)
 
-[^key-6108a6a18cdcab128b25421bb2ec7052]: Textual amendment: Words in s. 1(3) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/4)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
+[^c-6108a6a18cdcab128b25421bb2ec7052]: Textual amendment: Words in s. 1(3) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/4)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
 
 [^c74936]: Textual amendment: Words in s. 1(3) inserted (27.7.1993) by 1993 s. 14(5)
 
-[^key-34cb6e1c8040112a3b721522d3bdba09]: Textual amendment: S. 1(6) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/5)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
+[^c-34cb6e1c8040112a3b721522d3bdba09]: Textual amendment: S. 1(6) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 182(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/5)[(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/182/6)
 
-[^key-45b5d6cf22cd4fc023e6f3e4af1b7c1c]: Modification: S. 2 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 4(1)(2)(o)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/1/2/o), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-45b5d6cf22cd4fc023e6f3e4af1b7c1c]: Modification: S. 2 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 4(1)(2)(o)](https://www.legislation.gov.uk/ukpga/2020/26/section/4/1/2/o), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c74939]: Textual amendment: Words repealed by [Finance Act 1981 (c. 35, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1981/35/section/139/6), [Sch. 19 Pt. III](https://www.legislation.gov.uk/ukpga/1981/35/schedule/19/part/III)
 
 [^c74940]: Modification: S. 2(2) excluded (20.10.1995) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 118(f)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/118/f)
 
-[^key-8717997ba8a58aad566efa332bb2b2eb]: Modification: S. 2(2) excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AB(f)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AB/f), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L), [133N](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133N) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
+[^c-8717997ba8a58aad566efa332bb2b2eb]: Modification: S. 2(2) excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [regs. 133AB(f)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AB/f), [133L](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133L), [133N](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133N) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43), [47](https://www.legislation.gov.uk/uksi/2021/715/regulation/47))
 
 [^c74941]: Textual amendment: Words and paras. (a) and (b) in s. 2(2) substituted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 15(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/15/2)
 
 [^c74942]: Textual amendment: S. 3 repealed by [Finance Act 1981 (c. 35, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1981/35/section/139/6), [Sch. 19 Pt. III](https://www.legislation.gov.uk/ukpga/1981/35/schedule/19/part/III)
 
-[^key-399af2a9095c9b2181026582875635b4]: Textual amendment: Words in s. 4 heading substituted (1.1.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 23(1)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/2)
+[^c-399af2a9095c9b2181026582875635b4]: Textual amendment: Words in s. 4 heading substituted (1.1.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 23(1)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/2)
 
 [^c74943]: Textual amendment: Words repealed by [Finance Act 1981 (c. 35, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1981/35/section/139/6), [Sch. 19 Pt. III](https://www.legislation.gov.uk/ukpga/1981/35/schedule/19/part/III)
 
-[^key-4939cdbb9fa070daadbf2a5076954b93]: Textual amendment: Words in s. 4 substituted (1.1.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 23(1)(a)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/2)
+[^c-4939cdbb9fa070daadbf2a5076954b93]: Textual amendment: Words in s. 4 substituted (1.1.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 23(1)(a)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/2)
 
-[^key-a9c5695ee61d8ffdee606ed50387348a]: Textual amendment: Words in s. 4 substituted (1.1.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 23(1)(b)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/2)
+[^c-a9c5695ee61d8ffdee606ed50387348a]: Textual amendment: Words in s. 4 substituted (1.1.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 23(1)(b)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/23/2)
 
 [^c74951]: Textual amendment: Words and paras. (a) and (b) in s. 5(1) substituted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/13/2)
 
 [^c74952]: Textual amendment: S. 5(1A) inserted (16.7.1992) by [Finance (No.2) Act 1992 (c.48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 8](https://www.legislation.gov.uk/ukpga/1992/48/section/8) (b).
 
-[^key-0b1e94e2028404da931a3bda47f1cea5]: Textual amendment: Words in s. 5(1A)(a) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/7) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
+[^c-0b1e94e2028404da931a3bda47f1cea5]: Textual amendment: Words in s. 5(1A)(a) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2018/22/schedule/9/paragraph/7) (with savings and transitional provisions in [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/c)
 
 [^c74953]: Textual amendment: Words in s. 5(3) substituted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/13/3)
 
 [^c74954]: Textual amendment: Words in s. 5(4) substituted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 13(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/13/4)
 
-[^key-9a2dd6d23fd30a1433c3fbb217a615f4]: Textual amendment: Words in s. 5(4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 98(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/98/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-9a2dd6d23fd30a1433c3fbb217a615f4]: Textual amendment: Words in s. 5(4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 98(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/98/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-8e8740b565a06a2d25d138cc62364806]: Textual amendment: S. 5(7)-(12) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 98(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/98/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-8e8740b565a06a2d25d138cc62364806]: Textual amendment: S. 5(7)-(12) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 98(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/98/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-26b2353f492672e2de2894a6f6c6bbcd]: Textual amendment: Words in s. 6(5)(a) substituted (20.5.2017) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2017/10/section/23/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/10/section/23/4)
+[^c-26b2353f492672e2de2894a6f6c6bbcd]: Textual amendment: Words in s. 6(5)(a) substituted (20.5.2017) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2017/10/section/23/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/10/section/23/4)
 
 [^c74956]: Textual amendment: S. 6(5)(*b*) together with the word “and” immediately preceding it repealed by [Finance Act 1981 (c. 35, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1981/35/section/139/6), [Sch. 19 Pt. III](https://www.legislation.gov.uk/ukpga/1981/35/schedule/19/part/III)
 
-[^key-514a54feaed0c4904892c6349abbe433]: Textual amendment: Ss. 6A, 6B inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 56](https://www.legislation.gov.uk/ukpga/2015/11/section/56)
+[^c-514a54feaed0c4904892c6349abbe433]: Textual amendment: Ss. 6A, 6B inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 56](https://www.legislation.gov.uk/ukpga/2015/11/section/56)
 
 [^c74960]: Textual amendment: S. 7(1)(aa) inserted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 15(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/15/4)
 
@@ -1000,15 +1000,15 @@ Section 11(1).
 
 [^c471921]: Modification: S. 7(2) applied (1.12.2002) by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2000 (S.I. 2000/426)](https://www.legislation.gov.uk/uksi/2000/426), [art. 5A](https://www.legislation.gov.uk/uksi/2000/426/article/5A) (as inserted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2002 (S.I. 2002/2693)](https://www.legislation.gov.uk/uksi/2002/2693), [art. 7](https://www.legislation.gov.uk/uksi/2002/2693/article/7))
 
-[^key-28e8c4ec9e27a0e6fd385f878fac7e40]: Modification: S. 7(2) applied (24.11.2003) by [Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/4/c)
+[^c-28e8c4ec9e27a0e6fd385f878fac7e40]: Modification: S. 7(2) applied (24.11.2003) by [Channel Tunnel (Alcoholic Liquor and Tobacco Products) Order 2003 (S.I. 2003/2758)](https://www.legislation.gov.uk/uksi/2003/2758), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2758/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2003/2758/article/4/c)
 
 [^c74966]: Textual amendment: Words substituted (1.1.1995) by virtue of [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 9](https://www.legislation.gov.uk/ukpga/1994/9/section/9), [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/1994/9/schedule/4/paragraph/59) (with [s. 19](https://www.legislation.gov.uk/ukpga/1994/9/section/19)); [S.I. 1994/2679](https://www.legislation.gov.uk/uksi/1994/2679), [art. 3](https://www.legislation.gov.uk/uksi/1994/2679/article/3)
 
-[^key-065ea287c0367a24ae8e9a07d30c534b]: Textual amendment: Ss. 7A-7D inserted (1.10.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/1)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/3); [S.I. 2006/2367](https://www.legislation.gov.uk/uksi/2006/2367), [art. 2](https://www.legislation.gov.uk/uksi/2006/2367/article/2)
+[^c-065ea287c0367a24ae8e9a07d30c534b]: Textual amendment: Ss. 7A-7D inserted (1.10.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/1)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/3); [S.I. 2006/2367](https://www.legislation.gov.uk/uksi/2006/2367), [art. 2](https://www.legislation.gov.uk/uksi/2006/2367/article/2)
 
-[^key-19a363146a4ef5ff3080fcfc8c2f757b]: Textual amendment: S. 7C(3) substituted for s. 7C(3)-(5) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 93(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/93/2)
+[^c-19a363146a4ef5ff3080fcfc8c2f757b]: Textual amendment: S. 7C(3) substituted for s. 7C(3)-(5) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 93(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/93/2)
 
-[^key-dcf49f672ce8e5e88f77f3b0abcb908f]: Textual amendment: Words in s. 7D(4) substituted (6.4.2008) by [Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [5](https://www.legislation.gov.uk/uksi/2008/954/article/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
+[^c-dcf49f672ce8e5e88f77f3b0abcb908f]: Textual amendment: Words in s. 7D(4) substituted (6.4.2008) by [Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2008 (S.I. 2008/954)](https://www.legislation.gov.uk/uksi/2008/954), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/954/article/1/1), [5](https://www.legislation.gov.uk/uksi/2008/954/article/5) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/954/article/4))
 
 [^c74968]: Textual amendment: Words in s. 8(2) substituted (1.10.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 20](https://www.legislation.gov.uk/ukpga/1998/36/section/20), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/2/paragraph/5/a); [S.I. 1998/2243](https://www.legislation.gov.uk/uksi/1998/2243), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2243/article/2/1)
 
@@ -1040,40 +1040,40 @@ Section 11(1).
 
 [^c74989]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-0e9c947cf611a9916c0a4b6989e93769]: Textual amendment: [Ss. 8JA-8JC](https://www.legislation.gov.uk/ukpga/1979/7/section/8JA) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/93/2)
+[^c-0e9c947cf611a9916c0a4b6989e93769]: Textual amendment: [Ss. 8JA-8JC](https://www.legislation.gov.uk/ukpga/1979/7/section/8JA) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/93/2)
 
-[^key-6021d6b280a97a77509957f128f7b131]: Textual amendment: Ss. 8K-8U inserted (6.12.2016 except for the insertion of s. 8L(1), 1.4.2017 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 179(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/1)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/5); [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/3)
+[^c-6021d6b280a97a77509957f128f7b131]: Textual amendment: Ss. 8K-8U inserted (6.12.2016 except for the insertion of s. 8L(1), 1.4.2017 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 179(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/1)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/5); [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/3)
 
-[^key-22896affa29288be066fe9d202a1f74d]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2016/1172/regulation/18)
+[^c-22896affa29288be066fe9d202a1f74d]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2016/1172/regulation/18)
 
-[^key-d55bf0374c6d421a414a29cc8ece4065]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/20/1), [(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/20/2)
+[^c-d55bf0374c6d421a414a29cc8ece4065]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/20/1), [(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/20/2)
 
-[^key-6b3576ac5327638d79bfe33d0f752d73]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2016/1172/regulation/17)
+[^c-6b3576ac5327638d79bfe33d0f752d73]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2016/1172/regulation/17)
 
-[^key-bedf303876bb474ac36578878373c451]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2016/1172/regulation/19)
+[^c-bedf303876bb474ac36578878373c451]: Modification: S. 8L(1) excluded (1.1.2017) by [The Raw Tobacco (Approval Scheme) Regulations 2016 (S.I. 2016/1172)](https://www.legislation.gov.uk/uksi/2016/1172), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1172/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2016/1172/regulation/19)
 
-[^key-50033fb2da38100823108e0cebf4a682]: Textual amendment: [S. 8V](https://www.legislation.gov.uk/ukpga/1979/7/section/8V) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 47(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/47/1)
+[^c-50033fb2da38100823108e0cebf4a682]: Textual amendment: [S. 8V](https://www.legislation.gov.uk/ukpga/1979/7/section/8V) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 47(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/47/1)
 
-[^key-2a41d1a40065cb39806ac4d2808d40bc]: Textual amendment: S. 9(1): s. 9 renumbered as s. 9(1) (1.10.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/3); [S.I. 2006/2367](https://www.legislation.gov.uk/uksi/2006/2367), [art. 2](https://www.legislation.gov.uk/uksi/2006/2367/article/2)
+[^c-2a41d1a40065cb39806ac4d2808d40bc]: Textual amendment: S. 9(1): s. 9 renumbered as s. 9(1) (1.10.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/3); [S.I. 2006/2367](https://www.legislation.gov.uk/uksi/2006/2367), [art. 2](https://www.legislation.gov.uk/uksi/2006/2367/article/2)
 
-[^key-2e87ef718ce4cc6387250ec0741549e3]: Textual amendment: Words in s. 9(1) inserted (6.12.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 179(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/2/a)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/5); [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)
+[^c-2e87ef718ce4cc6387250ec0741549e3]: Textual amendment: Words in s. 9(1) inserted (6.12.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 179(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/2/a)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/5); [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)
 
-[^key-d4633e07869eb90c4e5b7b6c0fa14ea0]: Textual amendment: S. 9(1A) inserted (6.12.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 179(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/2/b)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/5); [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)
+[^c-d4633e07869eb90c4e5b7b6c0fa14ea0]: Textual amendment: S. 9(1A) inserted (6.12.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 179(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/2/b)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/179/5); [S.I. 2016/1171](https://www.legislation.gov.uk/uksi/2016/1171), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/1171/regulation/2/2)
 
-[^key-526104af65006977ded29a44af4d8b64]: Textual amendment: Word in [s. 9(1A)](https://www.legislation.gov.uk/ukpga/1979/7/section/9/1A) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 93(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/93/3)
+[^c-526104af65006977ded29a44af4d8b64]: Textual amendment: Word in [s. 9(1A)](https://www.legislation.gov.uk/ukpga/1979/7/section/9/1A) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 93(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/93/3)
 
-[^key-586e2e8710af36b248f1cd2a0d4b8591]: Textual amendment: Words in [s. 9(1A)](https://www.legislation.gov.uk/ukpga/1979/7/section/9/1A) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/47/2)
+[^c-586e2e8710af36b248f1cd2a0d4b8591]: Textual amendment: Words in [s. 9(1A)](https://www.legislation.gov.uk/ukpga/1979/7/section/9/1A) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/47/2)
 
-[^key-2e752ac4670173740248799315a21d89]: Textual amendment: S. 9(2) added (1.10.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/3); [S.I. 2006/2367](https://www.legislation.gov.uk/uksi/2006/2367), [art. 2](https://www.legislation.gov.uk/uksi/2006/2367/article/2)
+[^c-2e752ac4670173740248799315a21d89]: Textual amendment: S. 9(2) added (1.10.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/2/3); [S.I. 2006/2367](https://www.legislation.gov.uk/uksi/2006/2367), [art. 2](https://www.legislation.gov.uk/uksi/2006/2367/article/2)
 
-[^key-3640ca6623a955b09c238839cb86db64]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/1979/7/section/10/3) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 93(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/93/4)
+[^c-3640ca6623a955b09c238839cb86db64]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/1979/7/section/10/3) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 93(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/93/4)
 
 [^c74997]: Textual amendment: S. 11(3) repealed (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/205/1), [Sch. 41 Pt. III](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/III)
 
 [^c74998]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-1db2e0e1450d96c8ef2385b95dd81f9f]: Modification: Sch. 1 amended (16.11.2020) by [The Tobacco Products Duty (Alteration of Rates) Order 2020 (S.I. 2020/1256)](https://www.legislation.gov.uk/uksi/2020/1256), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1256/article/1), [2](https://www.legislation.gov.uk/uksi/2020/1256/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1256/schedule)
+[^c-1db2e0e1450d96c8ef2385b95dd81f9f]: Modification: Sch. 1 amended (16.11.2020) by [The Tobacco Products Duty (Alteration of Rates) Order 2020 (S.I. 2020/1256)](https://www.legislation.gov.uk/uksi/2020/1256), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1256/article/1), [2](https://www.legislation.gov.uk/uksi/2020/1256/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1256/schedule)
 
-[^key-23326aacefeaa41d8dec1a9a70001c18]: Textual amendment: Sch. 1 Table substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
+[^c-23326aacefeaa41d8dec1a9a70001c18]: Textual amendment: Sch. 1 Table substituted (1.10.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 91(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/91/3)
 
 [^c75013]: Editorial: The text of Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148B. Deemed disposals at a gain under section 564(4) of ITTOIA 2005[^key-67fa9c043ae7740e5bf5c713bdfce499]
+## 148B. Deemed disposals at a gain under section 564(4) of ITTOIA 2005[^c-67fa9c043ae7740e5bf5c713bdfce499]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67fa9c043ae7740e5bf5c713bdfce499]: Textual amendment: Ss. 148A-148C omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/8)
+[^c-67fa9c043ae7740e5bf5c713bdfce499]: Textual amendment: Ss. 148A-148C omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/8)

@@ -35,14 +35,14 @@ An Act to make further provision as respects the application of certain funds un
 
 ## 1. Extension of objects of soldiers’ effects fund.
 
-(1) The objects of the fund constituted in pursuance of subsection (2) of section ten of the [^c600030]Regimental Debts Act, 1893 (which provides for the application of the undisposed residue of soldiers’ effects to the creation or maintenance of a fund for the benefit of widows, surviving civil partners or children[^key-4094e4f4b72ed10fc56acb7dfcadec16] , or other near relatives, of soldiers dying on service or within six months after discharge) shall, to such extent as may be provided by Royal Warrant under that Act and subject to the provisions of any such Warrant, include the widows, surviving civil partners,[^key-f7a46642b4f09b008cd9247a7351325e] children and other near relatives of persons dying at any time who have been soldiers.
+(1) The objects of the fund constituted in pursuance of subsection (2) of section ten of the [^c600030]Regimental Debts Act, 1893 (which provides for the application of the undisposed residue of soldiers’ effects to the creation or maintenance of a fund for the benefit of widows, surviving civil partners or children[^c-4094e4f4b72ed10fc56acb7dfcadec16] , or other near relatives, of soldiers dying on service or within six months after discharge) shall, to such extent as may be provided by Royal Warrant under that Act and subject to the provisions of any such Warrant, include the widows, surviving civil partners,[^c-f7a46642b4f09b008cd9247a7351325e] children and other near relatives of persons dying at any time who have been soldiers.
 
 (2) The foregoing subsection shall apply in relation to the air force, but with the substitution—
 
 - (a) for the reference to the said Act of 1893 of a reference to that Act as applied to the air force;
 - (b) for the references to soldiers of references to airmen.
 
-## 2. Certain funds applicable as well for air force as for naval and military dependants.[^key-6d8747783f732cf7b7e14f2d44a9fbe9]
+## 2. Certain funds applicable as well for air force as for naval and military dependants.[^c-6d8747783f732cf7b7e14f2d44a9fbe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -56,8 +56,8 @@ This Act may be cited as the Royal Patriotic Fund Corporation Act, 1950.
 
 [^c600030]: Marginal citation: [1893 c. 5](https://www.legislation.gov.uk/ukpga/1893/5).
 
-[^key-4094e4f4b72ed10fc56acb7dfcadec16]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Geo6/14/10/section/1/1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 20(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/20/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-4094e4f4b72ed10fc56acb7dfcadec16]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Geo6/14/10/section/1/1) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 20(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/20/a); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-f7a46642b4f09b008cd9247a7351325e]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Geo6/14/10/section/1/1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 20(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/20/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-f7a46642b4f09b008cd9247a7351325e]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Geo6/14/10/section/1/1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 20(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/20/b); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-6d8747783f732cf7b7e14f2d44a9fbe9]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo6/14/10/section/2) repealed (1.1.2006) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/3107](https://www.legislation.gov.uk/uksi/2005/3107), [art. 3](https://www.legislation.gov.uk/uksi/2005/3107/article/3)
+[^c-6d8747783f732cf7b7e14f2d44a9fbe9]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Geo6/14/10/section/2) repealed (1.1.2006) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/3107](https://www.legislation.gov.uk/uksi/2005/3107), [art. 3](https://www.legislation.gov.uk/uksi/2005/3107/article/3)

@@ -57,12 +57,12 @@ These Regulations may be cited as the Childcare Payments Regulations 2015 and co
 In these Regulations—
 
 - “**the Act**” means the Childcare Payments Act 2014, and a reference without more to a numbered section is a reference to the section of the Act bearing that number;
-- [^key-69e6e746a5e3b97e8cbed9e78d8979cc]...
+- [^c-69e6e746a5e3b97e8cbed9e78d8979cc]...
 - “**armed forces independence payment**” means an armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011 [^c22408201];
 - “**disability living allowance**” means disability living allowance under sections 71 to 76 of the Social Security Contributions and Benefits Act 1992 [^c22408211] or sections 71 to 76 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22408221];
 - “**disabled child**” is to be read in accordance with regulations made under section 14 (qualifying child) [^c22408231];
-- “**personal independence payment**” means a personal independence payment under Part 4 of the Welfare Reform Act 2012 [^c22408241] or Part 5 of the Welfare Reform (Northern Ireland) Order 2015[^key-1aabe2afd610d2e13d91b9bf2dd7475c];
-- “prescribed state” means any EEA state or Switzerland;[^key-9f0a8088b2109964aaa297a604cdbffd]
+- “**personal independence payment**” means a personal independence payment under Part 4 of the Welfare Reform Act 2012 [^c22408241] or Part 5 of the Welfare Reform (Northern Ireland) Order 2015[^c-1aabe2afd610d2e13d91b9bf2dd7475c];
+- “prescribed state” means any EEA state or Switzerland;[^c-9f0a8088b2109964aaa297a604cdbffd]
 - “relevant maximum” for an entitlement period is to be read in accordance with section 19 (payments into childcare accounts).
 
 ## 3. Qualifying childcare: registered or approved childcare
@@ -82,9 +82,9 @@ In these Regulations—
 - (a) by a person registered under Part 2 of the Children and Families (Wales) Measure 2010 [^c22408271];
 - (b) by a person in circumstances where, but for article 11, 12 or 14 of the Child Minding and Day Care Exceptions (Wales) Order 2010 [^c22408281], the care would be day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010;
 - (c) out of school hours, by a school as part of the school activities or by a local authority;
-- (d)[^key-d00f14d9dca29f296dc5874c223a4363] by a person who is employed or engaged under a contract for services to provide care and support by the provider of a domiciliary support service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
+- (d)[^c-d00f14d9dca29f296dc5874c223a4363] by a person who is employed or engaged under a contract for services to provide care and support by the provider of a domiciliary support service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016;
 - (e) by a foster parent in relation to a child (other than one whom the foster parent is fostering) in circumstances where the care would be child minding or day care for the purposes of Part 2 of the Children and Families (Wales) Measure 2010 but for the fact that the child is over the age of the children to whom that Measure applies; or
-- (f) by a childcare provider approved in accordance with a scheme made by the National Assembly for Wales or the Welsh Ministers [^c22408301] under either—[^key-136f4554b62c0057d9e640f330e59f9d]
+- (f) by a childcare provider approved in accordance with a scheme made by the National Assembly for Wales or the Welsh Ministers [^c22408301] under either—[^c-136f4554b62c0057d9e640f330e59f9d]
   - (i) section 12(5) of the Tax Credit Act 2002; or
   - (ii) section 60 of the Government of Wales Act 2006.
 
@@ -98,13 +98,13 @@ In these Regulations—
 
 - (a) by a person registered under Part 11 of the Children (Northern Ireland) Order 1995 [^c22408331];
 - (b) out of school hours by a school as part of the school activities; or
-- (c) by a childcare provider approved in accordance with a scheme under the Tax Credits (Approval of Home Child Care Providers) Scheme (Northern Ireland) 2006 [^c22408341] ; or[^key-945b7cb7bf8cf63f7798285545416963]
-- (d)[^key-5cc893f24c743ed611212a63c6de563b] by a childcare provider approved by a Health and Social Care Trust in Northern Ireland for the purposes of providing approved home childcare.
+- (c) by a childcare provider approved in accordance with a scheme under the Tax Credits (Approval of Home Child Care Providers) Scheme (Northern Ireland) 2006 [^c22408341] ; or[^c-945b7cb7bf8cf63f7798285545416963]
+- (d)[^c-5cc893f24c743ed611212a63c6de563b] by a childcare provider approved by a Health and Social Care Trust in Northern Ireland for the purposes of providing approved home childcare.
 
-(6)[^key-10b10fbd6617358cdbe13bd949acb74a] Care provided for a child outside the United Kingdom—
+(6)[^c-10b10fbd6617358cdbe13bd949acb74a] Care provided for a child outside the United Kingdom—
 
 - (a) where the care is provided by a Ministry of Defence approved childcare provider which is inspected by a person whose functions include regulating the provision of childcare in accordance with the statutory requirements of the Department for Education, or
-- (b) in any other case, where care is provided within a prescribed[^key-5a0793003b5809ff5a6aebde10032af3] state by a childcare provider which is approved, regulated or accredited under the legislation of the relevant state, by a person whose functions include regulating the provision of education or childcare.
+- (b) in any other case, where care is provided within a prescribed[^c-5a0793003b5809ff5a6aebde10032af3] state by a childcare provider which is approved, regulated or accredited under the legislation of the relevant state, by a person whose functions include regulating the provision of education or childcare.
 
 (7) The following are not registered or approved childcare—
 
@@ -124,7 +124,7 @@ In these Regulations—
 - “**local authority**” means—
   - (a) in relation to Wales, a county council, a county borough council or a community council;
   - (b) in relation to Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c22408391];
-- “Ministry of Defence approved childcare provider” means a childcare provider, outside the United Kingdom, approved by the Ministry of Defence for use by Her Majesty’s forces, which has the same meaning as in the Armed Forces Act 2006, and their families, and civil servants employed by the Ministry of Defence and their families;[^key-c12194f63fe7d5daf5d729cc0247137d]
+- “Ministry of Defence approved childcare provider” means a childcare provider, outside the United Kingdom, approved by the Ministry of Defence for use by Her Majesty’s forces, which has the same meaning as in the Armed Forces Act 2006, and their families, and civil servants employed by the Ministry of Defence and their families;[^c-c12194f63fe7d5daf5d729cc0247137d]
 - “**proprietor**”, in relation to a school, means—
   - (a) the governing body incorporated under section 19 of the Education Act 2002 [^c22408401]; or
   - (b) if there is no such body, the person or body of persons responsible for the management of the school;
@@ -149,11 +149,11 @@ In these Regulations—
 (1) HMRC may vary the length of an entitlement period—
 
 - (a) on the opening of a childcare account in relation to a person's first entitlement period;
-- (b) on the opening of a childcare account for a person's second or subsequent child; [^key-904a6c2fbc7462baebc54ea1608b7c6f]...
-- (c) in order to align the entitlement periods of two account-holders ; or[^key-ba2b81d4fd3f3e76ecff044340d7cd34]
-- (d) in order to align the entitlement period of an account holder (“A”) with the declaration period of A’s partner under regulation[^key-5b35a485c5df6394a3325dcb88c049d3] 25 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022.
+- (b) on the opening of a childcare account for a person's second or subsequent child; [^c-904a6c2fbc7462baebc54ea1608b7c6f]...
+- (c) in order to align the entitlement periods of two account-holders ; or[^c-ba2b81d4fd3f3e76ecff044340d7cd34]
+- (d) in order to align the entitlement period of an account holder (“A”) with the declaration period of A’s partner under regulation[^c-5b35a485c5df6394a3325dcb88c049d3] 25 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022.
 
-(1A)[^key-c98f4b253603fa8c9f2bcd031b517333] The length of the variation referred to in paragraph (1) shall not exceed two months.
+(1A)[^c-c98f4b253603fa8c9f2bcd031b517333] The length of the variation referred to in paragraph (1) shall not exceed two months.
 
 (2) The relevant maximum for the entitlement period varied under paragraph (1) is determined by the formula—
 
@@ -170,36 +170,36 @@ where—
 (1) A declaration of eligibility must—
 
 - (a) be in the form specified by HMRC;
-- (b) be made to HMRC in accordance with regulation 22; [^key-b2fbb1aae8065d47bbc57733c224897b]...
+- (b) be made to HMRC in accordance with regulation 22; [^c-b2fbb1aae8065d47bbc57733c224897b]...
 - (c) contain information specified by HMRC—
   - (i) to identify the person making the declaration, the person's partner (if any) and the child in respect of whom the childcare account is, or is to be, held; and
-  - (ii) to determine whether the person is an eligible person;[^key-16249d1baf85d9c2e9ee69e5455b0ac2]
-- (d)[^key-83d3399d88a9865f3d7d118c72de579c] be accompanied by a confirmation, if required by HMRC.
+  - (ii) to determine whether the person is an eligible person;[^c-16249d1baf85d9c2e9ee69e5455b0ac2]
+- (d)[^c-83d3399d88a9865f3d7d118c72de579c] be accompanied by a confirmation, if required by HMRC.
 
 (2) A declaration of eligibility made for the purposes of opening a childcare account must be made on the day the person applies to open the account.
 
-(3) Subject to paragraph (4) and regulation 7, any other declaration of eligibility (a “reconfirming declaration”) must be made during the period beginning 28 days before the beginning of the entitlement period for which the reconfirming declaration is made and ending when that entitlement period begins[^key-a644b5694af8750f021bb15ea4634bad].
+(3) Subject to paragraph (4) and regulation 7, any other declaration of eligibility (a “reconfirming declaration”) must be made during the period beginning 28 days before the beginning of the entitlement period for which the reconfirming declaration is made and ending when that entitlement period begins[^c-a644b5694af8750f021bb15ea4634bad].
 
 (4) If a person makes a reconfirming declaration during the period of 7 days immediately preceding the beginning of the entitlement period for which that declaration is made, HMRC may not determine whether the declaration is valid for the purposes of the Act until—
 
 - (a) 7 days after the reconfirming declaration was made; or
 - (b) such earlier time as HMRC allow.
 
-(5)[^key-9ce0ccfb4490e65db9faa00621c74e6b] Where a declarant or their partner is self-employed and they make—
+(5)[^c-9ce0ccfb4490e65db9faa00621c74e6b] Where a declarant or their partner is self-employed and they make—
 
 - (a) the first declaration of the self-employment, the declarant must—
   - (i) provide any unique taxpayer’s reference of the self-employment; or
   - (ii) confirm that the self-employed person has, for the tax year in which the reconfirmation is made, given notice to HMRC under section 7 of the Taxes Management Act 1970 in respect of the self-employment but has not yet received a unique taxpayer’s reference;
 - (b) the second declaration of the self-employment, the declarant must provide any unique taxpayer’s reference of the self-employed person.
 
-(6) Any person whose partner is self-employed in a prescribed[^key-2db5e53215c189cdfcead818dba1c6d5] state must in the course of reconfirming eligibility, provide information specified by HMRC to confirm that the partner is carrying out self-employed work in that prescribed[^key-e8b1d4886edabbaf53e4ad3a4f265669] state.
+(6) Any person whose partner is self-employed in a prescribed[^c-2db5e53215c189cdfcead818dba1c6d5] state must in the course of reconfirming eligibility, provide information specified by HMRC to confirm that the partner is carrying out self-employed work in that prescribed[^c-e8b1d4886edabbaf53e4ad3a4f265669] state.
 
-(7)[^key-1183ceffa07bc6f7f0744e4040bb5299] In this regulation—
+(7)[^c-1183ceffa07bc6f7f0744e4040bb5299] In this regulation—
 
 - “**a confirmation**” means a confirmation made to HMRC, orally or in writing, by a declarant or their partner that they have complied with the requirement in section 8(1)(a) of the Taxes Management Act 1970 within the period specified in section 8(1D), except where either section 8(1F) or 8(1G) applies where the time limit specified in that section applies;
 - “**declarant**” means a person who makes a declaration of eligibility for the purposes of either opening a childcare account or reconfirming eligibility.
 
-## 7. Late declarations of eligibility[^key-7cfd2e49b69de09c26816f6ae638db24]
+## 7. Late declarations of eligibility[^c-7cfd2e49b69de09c26816f6ae638db24]
 
 (1) If a person makes a declaration of eligibility during the entitlement period for which it is made (a “late declaration of eligibility”), HMRC may not determine whether the declaration is valid for the purposes of the Act until—
 
@@ -223,7 +223,7 @@ where—
   - A is the number of days remaining in the entitlement period after the day on which HMRC determine that the declaration is valid; and
   - B is the total number of days in the entitlement period.
 
-(4) Paragraph (3) applies with the modification in subparagraph (5) to a resident of a prescribed[^key-c7243f43d53f81c7f00be6cf13f9be71] state who is in paid work in the United Kingdom if, at the date of the declaration, that person or that person’s partner either—
+(4) Paragraph (3) applies with the modification in subparagraph (5) to a resident of a prescribed[^c-c7243f43d53f81c7f00be6cf13f9be71] state who is in paid work in the United Kingdom if, at the date of the declaration, that person or that person’s partner either—
 
 - (i) is, under the law of that state, being paid in respect of a relevant assessment period a credit (an “equivalent credit”) which is substantially similar in character to universal credit; or
 - (ii) is, under the law of that state, in receipt of a credit (“an equivalent credit”) which is substantially similar in character to an award of tax credit; or
@@ -302,11 +302,11 @@ where—
 - (a) be in the form specified by HMRC;
 - (b) be made to HMRC in accordance with regulation 22;
 - (c) contain information specified by HMRC to identify the applicant, the applicant's partner (if any) and the child in respect of whom the account is to be held; and
-- (d)[^key-572cf1697779d42dd0bffcc07ac390aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-572cf1697779d42dd0bffcc07ac390aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-b87470c6957eb084b6c5b1befc2341c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b87470c6957eb084b6c5b1befc2341c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a4bacc0ca6d60c35eba76543dbaa3a54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a4bacc0ca6d60c35eba76543dbaa3a54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 12. Variation of relevant maximum: child ceasing to be qualifying child etc.
 
@@ -346,8 +346,8 @@ where—
 (1) This regulation applies where—
 
 - (a) a person has applied to open a childcare account but HMRC are unable to confirm eligibility solely because of a delay in the payment to the person, or to the person's partner, of—
-  - (i) carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 [^c22408471] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22408481]; [^key-81d337cbb879840f250d6d14f488f0da]...
-  - (ia)[^key-53286c841e67eddd8b8d2ebf228abbc4] carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
+  - (i) carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 [^c22408471] or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c22408481]; [^c-81d337cbb879840f250d6d14f488f0da]...
+  - (ia)[^c-53286c841e67eddd8b8d2ebf228abbc4] carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
   - (ii) contributory employment and support allowance under section 1 of the Welfare Reform Act 2007 [^c22408491] or section 1 of the Welfare Reform Act (Northern Ireland) 2007 [^c22408501]; or
 - (b) in relation to a disabled child, a person has applied to open a childcare account but, solely because of a delay in the payment to the child of—
   - (i) disability living allowance;
@@ -366,7 +366,7 @@ where—
 - (a) no award of an increased relevant maximum may be made in respect of a delay in payment for which the compensation was paid; and
 - (b) any award of increased relevant maximum that has been made in respect of such a delay in payment is cancelled.
 
-(4) In this regulation references to carer's allowance, carer support payment,[^key-a60c7028abd4ba3cafc15f10bbc08f5d] contributory employment and support allowance, disability living allowance, personal independence payment and armed forces independence payment include references to allowances and payments made under the law of a prescribed[^key-de84222dd0ae63a218f9ad5be53ccc45] state which are substantially similar in character to those allowances and payments.
+(4) In this regulation references to carer's allowance, carer support payment,[^c-a60c7028abd4ba3cafc15f10bbc08f5d] contributory employment and support allowance, disability living allowance, personal independence payment and armed forces independence payment include references to allowances and payments made under the law of a prescribed[^c-de84222dd0ae63a218f9ad5be53ccc45] state which are substantially similar in character to those allowances and payments.
 
 ## 15. Variation of relevant maximum: death of account-holder
 
@@ -396,7 +396,7 @@ where—
 
 *Q* is the sum of qualifying payments made into the childcare account during the entitlement period in which the failure occurred.
 
-## 16A. Payments that may be made from childcare accounts[^key-16a628967b7b33c3410d70e23a609111]
+## 16A. Payments that may be made from childcare accounts[^c-16a628967b7b33c3410d70e23a609111]
 
 (1) A payment is treated as a permitted payment where it includes a reasonable fee payable to an intermediary.
 
@@ -406,7 +406,7 @@ where—
 
 ## 17. Compensatory payments
 
-(1) Subject to paragraphs (5) and (6), the circumstances specified in paragraphs (2), (3)[^key-d2e848e226a44e183e41539f0012a0bc] , (3A) and (3B)[^key-745093fc616a023d4bd6c53e31996681] are specified for the purposes of section 62.
+(1) Subject to paragraphs (5) and (6), the circumstances specified in paragraphs (2), (3)[^c-d2e848e226a44e183e41539f0012a0bc] , (3A) and (3B)[^c-745093fc616a023d4bd6c53e31996681] are specified for the purposes of section 62.
 
 (2) The circumstances specified in this paragraph are—
 
@@ -414,15 +414,15 @@ where—
   - (i) varied or cancelled on a review under section 57; or
   - (ii) quashed (wholly or partly) under section 60;
 - (b) a person has applied to open a childcare account but HMRC are unable to confirm eligibility solely because of a delay in the payment to the person, or to the person's partner, of—
-  - (i) carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; [^key-247c04820a47887f8822efae061a6add]...
-  - (ia)[^key-36aeb5864e3b739d1aa0fe854ca31d32] carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
-  - (ii) contributory employment and support allowance under section 1 of the Welfare Reform Act 2007 or section 1 of the Welfare Reform Act (Northern Ireland) 2007; [^key-0fd2d856656b2574936ac83064e4ed7e]...
+  - (i) carer's allowance under section 70 of the Social Security Contributions and Benefits Act 1992 or section 70 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992; [^c-247c04820a47887f8822efae061a6add]...
+  - (ia)[^c-36aeb5864e3b739d1aa0fe854ca31d32] carer support payment under the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023; or
+  - (ii) contributory employment and support allowance under section 1 of the Welfare Reform Act 2007 or section 1 of the Welfare Reform Act (Northern Ireland) 2007; [^c-0fd2d856656b2574936ac83064e4ed7e]...
 - (c) in relation to a disabled child, an application is made to open a childcare account but, solely because of a delay in the payment to the child of—
   - (i) disability living allowance;
   - (ii) personal independence payment; or
   - (iii) armed forces independence payment,
 
-  HMRC is unable to grant the application, or is able to grant it but subject to a relevant maximum less than the relevant maximum which applies in respect of a disabled child[^key-bdd6984dcd343db5a58dd54919f499ae]... ; or[^key-8b76629fa489d03854c1cae93cea3b0f]
+  HMRC is unable to grant the application, or is able to grant it but subject to a relevant maximum less than the relevant maximum which applies in respect of a disabled child[^c-bdd6984dcd343db5a58dd54919f499ae]... ; or[^c-8b76629fa489d03854c1cae93cea3b0f]
 - (d) a person has applied for leave to enter or remain under the EU Settlement Scheme, and the application has not been determined or there is an outstanding appeal.
 
 (3) The circumstances specified in this paragraph are—
@@ -431,21 +431,21 @@ where—
 - (b) the circumstances are as specified in paragraph (2)(b) but, at the time the payment is made, the child in relation to whom the application was made has died; or
 - (c) the circumstances are as specified in paragraph (2)(c) but the child dies during the period of delay in payment.
 
-(3A)[^key-40543d259ccf1da607a138142653d855] The circumstances specified in this paragraph are that—
+(3A)[^c-40543d259ccf1da607a138142653d855] The circumstances specified in this paragraph are that—
 
 - (a) a person is unable to open a childcare account, or
 - (b) a person’s childcare account fails to function effectively
 
-for a continuous period of at least 14 days, due to a serious technical failure or a design flaw[^key-16fbffa2a7e82ee327711e3b453cd1c0] affecting HMRC or the account provider.
+for a continuous period of at least 14 days, due to a serious technical failure or a design flaw[^c-16fbffa2a7e82ee327711e3b453cd1c0] affecting HMRC or the account provider.
 
-(3B)[^key-b7348699cd299710ba010c1432352d3e] The circumstances specified in this paragraph are that a person’s childcare account for a child (“C”) is made subject to an account restriction order where—
+(3B)[^c-b7348699cd299710ba010c1432352d3e] The circumstances specified in this paragraph are that a person’s childcare account for a child (“C”) is made subject to an account restriction order where—
 
 - (a) another person (B) wants to apply for, or make a declaration of eligibility for, 30 hours free childcare in respect of C under section 1 of the Childcare Act 2016; and
 - (b) B does not want to hold a childcare account for C in circumstances where holding that childcare account would prevent B from receiving tax credits in respect of C.
 
 (4) The amount paid to a person under section 62 in respect of a child for a period (the “compensation period”) may not exceed the amount of top-up payments that person could have received if—
 
-- (a) the circumstances specified in paragraphs (2), (3)[^key-6b7ff3243e986bc943d027733df911cf] , (3A) or (3B)[^key-ace65704033d59e8b915c453980e2355] had not arisen; and
+- (a) the circumstances specified in paragraphs (2), (3)[^c-6b7ff3243e986bc943d027733df911cf] , (3A) or (3B)[^c-ace65704033d59e8b915c453980e2355] had not arisen; and
 - (b) the person had held an active childcare account in respect of the child throughout the compensation period.
 
 (5) Circumstances specified in paragraph (2)(b) or (c) or (3) are not specified for the purposes of section 62 for any period of delay in payment in respect of which an award of tax credits is or has been made to the person claiming a compensatory payment.
@@ -454,9 +454,9 @@ for a continuous period of at least 14 days, due to a serious technical failure 
 
 (7) A person claiming a compensatory payment must provide to HMRC evidence of payment of the costs incurred on qualifying childcare.
 
-(8) In this regulation references to carer's allowance, carer support payment,[^key-3127af1fc8f3a95e1c050e1f1c923801] contributory employment and support allowance, disability living allowance, personal independence payment and armed forces independence payment include references to allowances and payments made under the law of a prescribed[^key-6d9c09848709c1cc36caad208ca0f585] state which are substantially similar in character to those allowances and payments.
+(8) In this regulation references to carer's allowance, carer support payment,[^c-3127af1fc8f3a95e1c050e1f1c923801] contributory employment and support allowance, disability living allowance, personal independence payment and armed forces independence payment include references to allowances and payments made under the law of a prescribed[^c-6d9c09848709c1cc36caad208ca0f585] state which are substantially similar in character to those allowances and payments.
 
-(9)[^key-91197cf8c6bbd426f7f2786466284576] In this regulation—
+(9)[^c-91197cf8c6bbd426f7f2786466284576] In this regulation—
 
 - “EU Settlement Scheme” means—
   - (i) the residence scheme immigration rules in Appendix EU to the immigration rules except those rules or changes to that appendix which are identified in the immigration rules as not having effect in the residence scheme that operates in connection with the withdrawal of the United Kingdom from the EU; and
@@ -466,10 +466,10 @@ for a continuous period of at least 14 days, due to a serious technical failure 
 
 (1) HMRC may make an account restriction order—
 
-- (a) imposing a restriction under section 24(2)(a), if the condition specified in paragraph (1A), (1B),[^key-4aa24cb11ea66b5d92134caf5f52170a] (2), (3) , (3A)[^key-a49d0462cffa3c32b359cf7302b8b815] or (4) is met; or
+- (a) imposing a restriction under section 24(2)(a), if the condition specified in paragraph (1A), (1B),[^c-4aa24cb11ea66b5d92134caf5f52170a] (2), (3) , (3A)[^c-a49d0462cffa3c32b359cf7302b8b815] or (4) is met; or
 - (b) imposing a restriction under section 24(2)(b), if the condition specified in paragraph (5) is met.
 
-(1A)[^key-13159053cb7c4be560c2f2adb8b6c002] The condition specified in this paragraph is that an amount has been assessed and notified to a person under section 41 (assessment and enforcement of recoverable amounts) in relation to any of sections 35 to 38 (recovery of top up payments).
+(1A)[^c-13159053cb7c4be560c2f2adb8b6c002] The condition specified in this paragraph is that an amount has been assessed and notified to a person under section 41 (assessment and enforcement of recoverable amounts) in relation to any of sections 35 to 38 (recovery of top up payments).
 
 (1B) The conditions specified in this paragraph are that—
 
@@ -478,8 +478,8 @@ for a continuous period of at least 14 days, due to a serious technical failure 
 
 (2) The condition specified in this paragraph is—
 
-- (a) an amount has been assessed and notified to a person under section [^key-870025da00d2811749b21cfb61c207c6]... 47 (assessment and enforcement of [^key-32109620bf9d123c900e43380982aa8e]... penalties); and
-- (b) some or all of the amount assessed has not been paid to HMRC by the time specified in section [^key-4def5e9c9e95a6017a413f9432fdd4ff]... 47(4).
+- (a) an amount has been assessed and notified to a person under section [^c-870025da00d2811749b21cfb61c207c6]... 47 (assessment and enforcement of [^c-32109620bf9d123c900e43380982aa8e]... penalties); and
+- (b) some or all of the amount assessed has not been paid to HMRC by the time specified in section [^c-4def5e9c9e95a6017a413f9432fdd4ff]... 47(4).
 
 (3) The condition specified in this paragraph is—
 
@@ -488,7 +488,7 @@ for a continuous period of at least 14 days, due to a serious technical failure 
   - (ii) to make a declaration of eligibility in relation to a childcare account held in respect of a child; and
 - (b) P is prevented from so doing because another person holds an active childcare account in respect of the child.
 
-(3A)[^key-90294242e84e317229a8282b9e57cac1] The condition specified in this paragraph is that—
+(3A)[^c-90294242e84e317229a8282b9e57cac1] The condition specified in this paragraph is that—
 
 - (a) a person (P) wants to apply for, or to make a declaration for, 30 hours free childcare in respect of a child (“C”) under section 1 of the Childcare Act 2016; and
 - (b) P is prevented from receiving 30 hours free childcare because another person holds an active childcare account in respect of C.
@@ -505,8 +505,8 @@ for a continuous period of at least 14 days, due to a serious technical failure 
 (7) An account restriction order—
 
 - (a) may impose a restriction on the account for the period specified in the order;
-- (b) may provide that the restriction does not apply in circumstances specified in the order ;[^key-8e6a4b278d09a3c0dccde6f95e6f0402]
-- (c)[^key-616bbc481fcf5d15be54a0e9593d729b] may be imposed where the account holder agrees to this action;
+- (b) may provide that the restriction does not apply in circumstances specified in the order ;[^c-8e6a4b278d09a3c0dccde6f95e6f0402]
+- (c)[^c-616bbc481fcf5d15be54a0e9593d729b] may be imposed where the account holder agrees to this action;
 - (d) must be revoked where the account holder, having previously agreed to the imposition under subparagraph (7)(c) above, requests a review of the decision to make the account restriction order.
 
 (8) HMRC may revoke an account restriction order if they consider it is no longer required, either on their own initiative or on an application by the account-holder.
@@ -555,7 +555,7 @@ for a continuous period of at least 14 days, due to a serious technical failure 
 For the purposes of section 49 (disqualification orders), a “relevant benefit” is—
 
 - (a) any “disqualifying benefit” within the meaning given in section 6A(1) of the Social Security Fraud Act 2001 [^c22408511]; or
-- (b) any benefit, payment, allowance, pension or credit made under the law of a prescribed[^key-596d3497886759379811e31a6d129759] state which is substantially similar in character to those specified in paragraph (a).
+- (b) any benefit, payment, allowance, pension or credit made under the law of a prescribed[^c-596d3497886759379811e31a6d129759] state which is substantially similar in character to those specified in paragraph (a).
 
 ## 22. Use of electronic communications
 
@@ -566,13 +566,13 @@ For the purposes of section 49 (disqualification orders), a “relevant benefit�
 (3) Paragraph (1) does not apply if HMRC are satisfied that the person making the application or declaration—
 
 - (a) is prevented, by a court order, from sending information by electronic communications;
-- (b) holds beliefs which are incompatible with the use of electronic communications; [^key-ebc8f201edba8dd22b44f6a7bd9c4f65]...
+- (b) holds beliefs which are incompatible with the use of electronic communications; [^c-ebc8f201edba8dd22b44f6a7bd9c4f65]...
 - (c) is unable to send information by electronic communications by reason of—
   - (i) age;
   - (ii) disability;
   - (iii) inability to operate a computer effectively in a manner that cannot be remedied by the use of assisted digital support; or
-  - (iv) living in a remote location so that it is not reasonably practicable to use electronic communications ; or[^key-0cb5b20e515fa563f85ed09766a974e1]
-- (d)[^key-f1f5d11f2b9d0860c04495f55c803b93] is prevented, for a continuous period of at least 7 days, by a technical failure affecting HMRC, from making a declaration or application.
+  - (iv) living in a remote location so that it is not reasonably practicable to use electronic communications ; or[^c-0cb5b20e515fa563f85ed09766a974e1]
+- (d)[^c-f1f5d11f2b9d0860c04495f55c803b93] is prevented, for a continuous period of at least 7 days, by a technical failure affecting HMRC, from making a declaration or application.
 
 (4) An application or declaration made by a person to whom paragraph (3) applies must be made to HMRC in the manner specified by HMRC.
 
@@ -629,7 +629,7 @@ A full Impact Assessment of the effect that the childcare payments scheme will h
 
 [^c22408191]: Marginal citation: [2014 c. 28](https://www.legislation.gov.uk/ukpga/2014/28).
 
-[^key-69e6e746a5e3b97e8cbed9e78d8979cc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/522/regulation/2) omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/2/a)
+[^c-69e6e746a5e3b97e8cbed9e78d8979cc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/522/regulation/2) omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/2/a)
 
 [^c22408201]: Marginal citation: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517), amended by [S.I. 2013/436](https://www.legislation.gov.uk/uksi/2013/436) and [S.I. 2014/412](https://www.legislation.gov.uk/uksi/2014/412); there are other amending instruments but none is relevant.
 
@@ -641,9 +641,9 @@ A full Impact Assessment of the effect that the childcare payments scheme will h
 
 [^c22408241]: Marginal citation: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-1aabe2afd610d2e13d91b9bf2dd7475c]: Textual amendment: Words in reg. 2 inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/796/regulation/3)
+[^c-1aabe2afd610d2e13d91b9bf2dd7475c]: Textual amendment: Words in reg. 2 inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/796/regulation/3)
 
-[^key-9f0a8088b2109964aaa297a604cdbffd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/522/regulation/2) inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/2/b)
+[^c-9f0a8088b2109964aaa297a604cdbffd]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/522/regulation/2) inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/2/b)
 
 [^c22408251]: Marginal citation: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
 
@@ -653,11 +653,11 @@ A full Impact Assessment of the effect that the childcare payments scheme will h
 
 [^c22408281]: Marginal citation: [S.I. 2010/2839](https://www.legislation.gov.uk/uksi/2010/2839) (W 233).
 
-[^key-d00f14d9dca29f296dc5874c223a4363]: Textual amendment: Reg. 3(3)(d) substituted (6.4.2018) by [The Tax Credits and Childcare (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/365)](https://www.legislation.gov.uk/uksi/2018/365), [regs. 1](https://www.legislation.gov.uk/uksi/2018/365/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/365/regulation/5/2)
+[^c-d00f14d9dca29f296dc5874c223a4363]: Textual amendment: Reg. 3(3)(d) substituted (6.4.2018) by [The Tax Credits and Childcare (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/365)](https://www.legislation.gov.uk/uksi/2018/365), [regs. 1](https://www.legislation.gov.uk/uksi/2018/365/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/365/regulation/5/2)
 
 [^c22408301]: Marginal citation: Section 45(2) of the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) defines the Welsh Ministers as the First Minister and the Welsh Ministers appointed under section 48 of that Act.
 
-[^key-136f4554b62c0057d9e640f330e59f9d]: Textual amendment: Words in reg. 3(3)(f) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/a)
+[^c-136f4554b62c0057d9e640f330e59f9d]: Textual amendment: Words in reg. 3(3)(f) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/a)
 
 [^c22408321]: Marginal citation: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -665,13 +665,13 @@ A full Impact Assessment of the effect that the childcare payments scheme will h
 
 [^c22408341]: Marginal citation: S.R. [2006 No. 64](https://www.legislation.gov.uk/ukcm/2006/64).
 
-[^key-945b7cb7bf8cf63f7798285545416963]: Textual amendment: Word in reg. 3(5)(c) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/b/i)
+[^c-945b7cb7bf8cf63f7798285545416963]: Textual amendment: Word in reg. 3(5)(c) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/b/i)
 
-[^key-5cc893f24c743ed611212a63c6de563b]: Textual amendment: Reg. 3(5)(d) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/b/ii)
+[^c-5cc893f24c743ed611212a63c6de563b]: Textual amendment: Reg. 3(5)(d) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/2/b/ii)
 
-[^key-10b10fbd6617358cdbe13bd949acb74a]: Textual amendment: Reg. 3(6) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/12/2/a)
+[^c-10b10fbd6617358cdbe13bd949acb74a]: Textual amendment: Reg. 3(6) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/12/2/a)
 
-[^key-5a0793003b5809ff5a6aebde10032af3]: Textual amendment: Words in [reg. 3(6)(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/3/6/b) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/3)
+[^c-5a0793003b5809ff5a6aebde10032af3]: Textual amendment: Words in [reg. 3(6)(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/3/6/b) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/3)
 
 [^c22408361]: Marginal citation: Section 71 of the Act provides that partner is to be read in accordance with regulations made under section 3(5). Regulation 3 of [S.I. 2015/448](https://www.legislation.gov.uk/uksi/2015/448), made under section 3(5), explains when two people are regarded as partners for the purposes of the Act.
 
@@ -681,7 +681,7 @@ A full Impact Assessment of the effect that the childcare payments scheme will h
 
 [^c22408391]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-c12194f63fe7d5daf5d729cc0247137d]: Textual amendment: Words in reg. 3(10) inserted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/12/2/b)
+[^c-c12194f63fe7d5daf5d729cc0247137d]: Textual amendment: Words in reg. 3(10) inserted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/12/2/b)
 
 [^c22408401]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 19 was amended, in relation to schools in England, by section 38 of the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
@@ -689,118 +689,118 @@ A full Impact Assessment of the effect that the childcare payments scheme will h
 
 [^c22408421]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594), to which there are amendments not relevant to this regulation.
 
-[^key-904a6c2fbc7462baebc54ea1608b7c6f]: Textual amendment: Word in reg. 5(1)(b) omitted (7.12.2017) by virtue of [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/a)
+[^c-904a6c2fbc7462baebc54ea1608b7c6f]: Textual amendment: Word in reg. 5(1)(b) omitted (7.12.2017) by virtue of [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/a)
 
-[^key-ba2b81d4fd3f3e76ecff044340d7cd34]: Textual amendment: Reg. 5(1)(d) and word inserted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/a)
+[^c-ba2b81d4fd3f3e76ecff044340d7cd34]: Textual amendment: Reg. 5(1)(d) and word inserted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/a)
 
-[^key-5b35a485c5df6394a3325dcb88c049d3]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2015/522/regulation/5/1/d) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/3/2)
+[^c-5b35a485c5df6394a3325dcb88c049d3]: Textual amendment: Words in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2015/522/regulation/5/1/d) substituted (1.12.2022) by [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/3/2)
 
-[^key-c98f4b253603fa8c9f2bcd031b517333]: Textual amendment: Reg. 5(1A) inserted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/b)
+[^c-c98f4b253603fa8c9f2bcd031b517333]: Textual amendment: Reg. 5(1A) inserted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/1096/regulation/3/b)
 
-[^key-b2fbb1aae8065d47bbc57733c224897b]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/b) omitted (1.12.2022) by virtue of [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/a)
+[^c-b2fbb1aae8065d47bbc57733c224897b]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/b) omitted (1.12.2022) by virtue of [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/a)
 
-[^key-16249d1baf85d9c2e9ee69e5455b0ac2]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/c): semicolon substituted for full stop (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/b)
+[^c-16249d1baf85d9c2e9ee69e5455b0ac2]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/c): semicolon substituted for full stop (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/b)
 
-[^key-83d3399d88a9865f3d7d118c72de579c]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/d) inserted (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/b)
+[^c-83d3399d88a9865f3d7d118c72de579c]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/1/d) inserted (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/b)
 
-[^key-a644b5694af8750f021bb15ea4634bad]: Textual amendment: Word in reg. 6(3) substituted (14.11.2016) by [The Childcare Payments (Amendment No. 2) Regulations 2016 (S.I. 2016/1017)](https://www.legislation.gov.uk/uksi/2016/1017), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1017/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/1017/regulation/2)
+[^c-a644b5694af8750f021bb15ea4634bad]: Textual amendment: Word in reg. 6(3) substituted (14.11.2016) by [The Childcare Payments (Amendment No. 2) Regulations 2016 (S.I. 2016/1017)](https://www.legislation.gov.uk/uksi/2016/1017), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1017/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/1017/regulation/2)
 
-[^key-9ce0ccfb4490e65db9faa00621c74e6b]: Textual amendment: Reg. 6(5)-(7) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [4](https://www.legislation.gov.uk/uksi/2016/796/regulation/4)
+[^c-9ce0ccfb4490e65db9faa00621c74e6b]: Textual amendment: Reg. 6(5)-(7) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [4](https://www.legislation.gov.uk/uksi/2016/796/regulation/4)
 
-[^key-2db5e53215c189cdfcead818dba1c6d5]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/6) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/4/a)
+[^c-2db5e53215c189cdfcead818dba1c6d5]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/6) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/4/a)
 
-[^key-e8b1d4886edabbaf53e4ad3a4f265669]: Textual amendment: Word in reg. 6(6) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/4/b)
+[^c-e8b1d4886edabbaf53e4ad3a4f265669]: Textual amendment: Word in reg. 6(6) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/4/b)
 
-[^key-1183ceffa07bc6f7f0744e4040bb5299]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/7) substituted (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/c)
+[^c-1183ceffa07bc6f7f0744e4040bb5299]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2015/522/regulation/6/7) substituted (1.12.2022) by [The Childcare Payments (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1148)](https://www.legislation.gov.uk/uksi/2022/1148), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1148/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/1148/regulation/3/2/c)
 
-[^key-7cfd2e49b69de09c26816f6ae638db24]: Textual amendment: Reg. 7 substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/796/regulation/5)
+[^c-7cfd2e49b69de09c26816f6ae638db24]: Textual amendment: Reg. 7 substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/796/regulation/5)
 
-[^key-c7243f43d53f81c7f00be6cf13f9be71]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/7/4) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/5)
+[^c-c7243f43d53f81c7f00be6cf13f9be71]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/7/4) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/5)
 
 [^c22408441]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 33(1) was amended by [S.I. 1999/2572](https://www.legislation.gov.uk/uksi/1999/2572).
 
 [^c22408451]: Marginal citation: S.R. (N.I.) 1987/465. Regulation 33(1) was amended by [S.I. 1999/2574](https://www.legislation.gov.uk/uksi/1999/2574).
 
-[^key-572cf1697779d42dd0bffcc07ac390aa]: Textual amendment: Reg. 11(1)(d) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
+[^c-572cf1697779d42dd0bffcc07ac390aa]: Textual amendment: Reg. 11(1)(d) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
 
-[^key-b87470c6957eb084b6c5b1befc2341c1]: Textual amendment: Reg. 11(2) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
+[^c-b87470c6957eb084b6c5b1befc2341c1]: Textual amendment: Reg. 11(2) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
 
-[^key-a4bacc0ca6d60c35eba76543dbaa3a54]: Textual amendment: Reg. 11(3) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
+[^c-a4bacc0ca6d60c35eba76543dbaa3a54]: Textual amendment: Reg. 11(3) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/796/regulation/6)
 
 [^c22408471]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 70 was amended, and the name of the allowance changed from invalid care allowance to carer's allowance, by [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457).
 
 [^c22408481]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-81d337cbb879840f250d6d14f488f0da]: Textual amendment: Word in [reg. 14(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/1/a/i) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/a)
+[^c-81d337cbb879840f250d6d14f488f0da]: Textual amendment: Word in [reg. 14(1)(a)(i)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/1/a/i) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/a)
 
-[^key-53286c841e67eddd8b8d2ebf228abbc4]: Textual amendment: [Reg. 14(1)(ia)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/1/ia) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/b)
+[^c-53286c841e67eddd8b8d2ebf228abbc4]: Textual amendment: [Reg. 14(1)(ia)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/1/ia) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/b)
 
 [^c22408491]: Marginal citation: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
 [^c22408501]: Marginal citation: [2007 c. 2](https://www.legislation.gov.uk/ukpga/2007/2).
 
-[^key-a60c7028abd4ba3cafc15f10bbc08f5d]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/4) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/c)
+[^c-a60c7028abd4ba3cafc15f10bbc08f5d]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/4) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/2/c)
 
-[^key-de84222dd0ae63a218f9ad5be53ccc45]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/4) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/6)
+[^c-de84222dd0ae63a218f9ad5be53ccc45]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2015/522/regulation/14/4) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/6)
 
-[^key-16a628967b7b33c3410d70e23a609111]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2015/522/regulation/16A) inserted (21.7.2020) by [The Childcare Payments (Coronavirus and Miscellaneous Amendments) Regulations 2020 (S.I. 2020/656)](https://www.legislation.gov.uk/uksi/2020/656), [regs. 1](https://www.legislation.gov.uk/uksi/2020/656/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/656/regulation/5)
+[^c-16a628967b7b33c3410d70e23a609111]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2015/522/regulation/16A) inserted (21.7.2020) by [The Childcare Payments (Coronavirus and Miscellaneous Amendments) Regulations 2020 (S.I. 2020/656)](https://www.legislation.gov.uk/uksi/2020/656), [regs. 1](https://www.legislation.gov.uk/uksi/2020/656/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/656/regulation/5)
 
-[^key-d2e848e226a44e183e41539f0012a0bc]: Textual amendment: Words in reg. 17(1) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/7/a)
+[^c-d2e848e226a44e183e41539f0012a0bc]: Textual amendment: Words in reg. 17(1) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/7/a)
 
-[^key-745093fc616a023d4bd6c53e31996681]: Textual amendment: Words in reg. 17(1) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/a)
+[^c-745093fc616a023d4bd6c53e31996681]: Textual amendment: Words in reg. 17(1) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/a)
 
-[^key-247c04820a47887f8822efae061a6add]: Textual amendment: Word in [reg. 17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/2/b/i) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/a)
+[^c-247c04820a47887f8822efae061a6add]: Textual amendment: Word in [reg. 17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/2/b/i) omitted (16.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(a)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/a)
 
-[^key-36aeb5864e3b739d1aa0fe854ca31d32]: Textual amendment: [Reg. 17(2)(b)(ia)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/2/ia) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/b)
+[^c-36aeb5864e3b739d1aa0fe854ca31d32]: Textual amendment: [Reg. 17(2)(b)(ia)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/2/ia) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/b)
 
-[^key-0fd2d856656b2574936ac83064e4ed7e]: Textual amendment: Word in reg. 17 omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/a)
+[^c-0fd2d856656b2574936ac83064e4ed7e]: Textual amendment: Word in reg. 17 omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/a)
 
-[^key-bdd6984dcd343db5a58dd54919f499ae]: Textual amendment: Reg. 17(2)(c) full stop omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/b)
+[^c-bdd6984dcd343db5a58dd54919f499ae]: Textual amendment: Reg. 17(2)(c) full stop omitted (22.7.2021) by virtue of [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/b)
 
-[^key-8b76629fa489d03854c1cae93cea3b0f]: Textual amendment: Reg. 17(2)(d) and word inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/b)
+[^c-8b76629fa489d03854c1cae93cea3b0f]: Textual amendment: Reg. 17(2)(d) and word inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/b)
 
-[^key-40543d259ccf1da607a138142653d855]: Textual amendment: Reg. 17(3A) substituted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1096/regulation/4)
+[^c-40543d259ccf1da607a138142653d855]: Textual amendment: Reg. 17(3A) substituted (7.12.2017) by [The Childcare Payments (Amendment) Regulations 2017 (S.I. 2017/1096)](https://www.legislation.gov.uk/uksi/2017/1096), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1096/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1096/regulation/4)
 
-[^key-16fbffa2a7e82ee327711e3b453cd1c0]: Textual amendment: Words in reg. 17(3A) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/b)
+[^c-16fbffa2a7e82ee327711e3b453cd1c0]: Textual amendment: Words in reg. 17(3A) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/b)
 
-[^key-b7348699cd299710ba010c1432352d3e]: Textual amendment: Reg. 17(3B) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/c)
+[^c-b7348699cd299710ba010c1432352d3e]: Textual amendment: Reg. 17(3B) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/c)
 
-[^key-6b7ff3243e986bc943d027733df911cf]: Textual amendment: Words in reg. 17(4)(a) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/796/regulation/7/c)
+[^c-6b7ff3243e986bc943d027733df911cf]: Textual amendment: Words in reg. 17(4)(a) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2016/796/regulation/7/c)
 
-[^key-ace65704033d59e8b915c453980e2355]: Textual amendment: Words in reg. 17(4)(a) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/d)
+[^c-ace65704033d59e8b915c453980e2355]: Textual amendment: Words in reg. 17(4)(a) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(3)(d)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/3/d)
 
-[^key-3127af1fc8f3a95e1c050e1f1c923801]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/8) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/c)
+[^c-3127af1fc8f3a95e1c050e1f1c923801]: Textual amendment: Words in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2015/522/regulation/17/8) inserted (16.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Modifications) Order 2023 (S.I. 2023/1214)](https://www.legislation.gov.uk/uksi/2023/1214), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1214/article/1/2), [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/2023/1214/regulation/12/3/c)
 
-[^key-6d9c09848709c1cc36caad208ca0f585]: Textual amendment: Words in reg. 17(8) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/c)
+[^c-6d9c09848709c1cc36caad208ca0f585]: Textual amendment: Words in reg. 17(8) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/c)
 
-[^key-91197cf8c6bbd426f7f2786466284576]: Textual amendment: Reg. 17(9) inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(d)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/d)
+[^c-91197cf8c6bbd426f7f2786466284576]: Textual amendment: Reg. 17(9) inserted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(7)(d)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/7/d)
 
-[^key-4aa24cb11ea66b5d92134caf5f52170a]: Textual amendment: Words in reg. 18(1)(a) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/a)
+[^c-4aa24cb11ea66b5d92134caf5f52170a]: Textual amendment: Words in reg. 18(1)(a) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/a)
 
-[^key-a49d0462cffa3c32b359cf7302b8b815]: Textual amendment: Words in reg. 18(1)(a) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/4/a)
+[^c-a49d0462cffa3c32b359cf7302b8b815]: Textual amendment: Words in reg. 18(1)(a) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/4/a)
 
-[^key-13159053cb7c4be560c2f2adb8b6c002]: Textual amendment: Reg. 18(1A)(1B) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/b)
+[^c-13159053cb7c4be560c2f2adb8b6c002]: Textual amendment: Reg. 18(1A)(1B) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/b)
 
-[^key-870025da00d2811749b21cfb61c207c6]: Textual amendment: Words in reg. 18(2)(a) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/c/i)
+[^c-870025da00d2811749b21cfb61c207c6]: Textual amendment: Words in reg. 18(2)(a) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(c)(i)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/c/i)
 
-[^key-32109620bf9d123c900e43380982aa8e]: Textual amendment: Words in reg. 18(2)(a) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/c/ii)
+[^c-32109620bf9d123c900e43380982aa8e]: Textual amendment: Words in reg. 18(2)(a) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/c/ii)
 
-[^key-4def5e9c9e95a6017a413f9432fdd4ff]: Textual amendment: Words in reg. 18(2)(b) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/d)
+[^c-4def5e9c9e95a6017a413f9432fdd4ff]: Textual amendment: Words in reg. 18(2)(b) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/d)
 
-[^key-90294242e84e317229a8282b9e57cac1]: Textual amendment: Reg. 18(3A) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/4/b)
+[^c-90294242e84e317229a8282b9e57cac1]: Textual amendment: Reg. 18(3A) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardians Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/8/4/b)
 
-[^key-8e6a4b278d09a3c0dccde6f95e6f0402]: Textual amendment: Semicolon in reg. 18(7)(b) substituted for full stop (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/e)
+[^c-8e6a4b278d09a3c0dccde6f95e6f0402]: Textual amendment: Semicolon in reg. 18(7)(b) substituted for full stop (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/e)
 
-[^key-616bbc481fcf5d15be54a0e9593d729b]: Textual amendment: Reg. 18(7)(c)(d) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(f)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/f)
+[^c-616bbc481fcf5d15be54a0e9593d729b]: Textual amendment: Reg. 18(7)(c)(d) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [8(f)](https://www.legislation.gov.uk/uksi/2016/796/regulation/8/f)
 
 [^c22408511]: Marginal citation: [2001 c. 11](https://www.legislation.gov.uk/ukpga/2001/11). Section 6A(1) was inserted by section 24 of the [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24) and amended by section 117(2) of, and paragraph 57 of Schedule 2 and paragraph 46 of Schedule 9 to, the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-596d3497886759379811e31a6d129759]: Textual amendment: Words in [reg. 21(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/21/b) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/8)
+[^c-596d3497886759379811e31a6d129759]: Textual amendment: Words in [reg. 21(b)](https://www.legislation.gov.uk/uksi/2015/522/regulation/21/b) substituted (22.7.2021) by [The Childcare Payments (Miscellaneous Amendment) Regulations 2021 (S.I. 2021/781)](https://www.legislation.gov.uk/uksi/2021/781), [regs. 1](https://www.legislation.gov.uk/uksi/2021/781/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2021/781/regulation/3/8)
 
-[^key-ebc8f201edba8dd22b44f6a7bd9c4f65]: Textual amendment: Word in reg. 22(3)(b) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/a)
+[^c-ebc8f201edba8dd22b44f6a7bd9c4f65]: Textual amendment: Word in reg. 22(3)(b) omitted (5.9.2016) by virtue of [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/a)
 
-[^key-0cb5b20e515fa563f85ed09766a974e1]: Textual amendment: Word in reg. 22(3)(c)(iv) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/b)
+[^c-0cb5b20e515fa563f85ed09766a974e1]: Textual amendment: Word in reg. 22(3)(c)(iv) substituted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/b)
 
-[^key-f1f5d11f2b9d0860c04495f55c803b93]: Textual amendment: Reg. 22(3)(d) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/c)
+[^c-f1f5d11f2b9d0860c04495f55c803b93]: Textual amendment: Reg. 22(3)(d) inserted (5.9.2016) by [The Childcare Payments (Amendment) Regulations 2016 (S.I. 2016/796)](https://www.legislation.gov.uk/uksi/2016/796), [regs. 1](https://www.legislation.gov.uk/uksi/2016/796/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2016/796/regulation/9/c)
 
 [^c22408521]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).

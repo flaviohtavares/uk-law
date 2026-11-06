@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. The FCA and co-ordination with other regulators[^key-bcfeadfb5407f9fd0926f754850162c0][^key-59b451ddfff7bb764175c4714f7392ab]
+## 17. The FCA and co-ordination with other regulators[^c-bcfeadfb5407f9fd0926f754850162c0][^c-59b451ddfff7bb764175c4714f7392ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The Treasury may by regulations amend section 98 of the Financial Services (Bank
 
 ## Annotations
 
-[^key-bcfeadfb5407f9fd0926f754850162c0]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-bcfeadfb5407f9fd0926f754850162c0]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-59b451ddfff7bb764175c4714f7392ab]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/18/section/17) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-59b451ddfff7bb764175c4714f7392ab]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/18/section/17) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87B. Fluoridation arrangements: determination of terms[^c19906121][^key-7be2f793cbc549f70befa3416a0f1b6f]
+## 87B. Fluoridation arrangements: determination of terms[^c19906121][^c-7be2f793cbc549f70befa3416a0f1b6f]
 
 *Extent: E+W*
 
@@ -27,13 +27,13 @@ summary: ''
 
 (2) In relation to areas in England (except where subsection (4) below applies)—
 
-- (a)[^key-33b285e419c4c193213982e5971ede9d] the relevant authority may refer the matter to the Secretary of State for determination; *(affected by repeal, see note)*[^key-33b285e419c4c193213982e5971ede9d]
+- (a)[^c-33b285e419c4c193213982e5971ede9d] the relevant authority may refer the matter to the Secretary of State for determination; *(affected by repeal, see note)*[^c-33b285e419c4c193213982e5971ede9d]
 - (a) the Secretary of State may—
   - (i) determine the terms of the arrangements as the Secretary of State sees fit; or
   - (ii) refer the matter for determination by such other person as the Secretary of State considers appropriate; and”, and
-- (b) following such a reference, the Secretary of State may— *(affected by repeal, see note)*[^key-0443add37212534c9800353e0d2aa4e1]
-  - (i) determine the terms of the arrangements as he sees fit; or *(affected by repeal, see note)*[^key-0443add37212534c9800353e0d2aa4e1]
-  - (ii (affected by repeal, see note))[^key-0443add37212534c9800353e0d2aa4e1] refer the matter for determination by such other person as he considers appropriate; and *(affected by repeal, see note)*[^key-0443add37212534c9800353e0d2aa4e1]
+- (b) following such a reference, the Secretary of State may— *(affected by repeal, see note)*[^c-0443add37212534c9800353e0d2aa4e1]
+  - (i) determine the terms of the arrangements as he sees fit; or *(affected by repeal, see note)*[^c-0443add37212534c9800353e0d2aa4e1]
+  - (ii (affected by repeal, see note))[^c-0443add37212534c9800353e0d2aa4e1] refer the matter for determination by such other person as he considers appropriate; and *(affected by repeal, see note)*[^c-0443add37212534c9800353e0d2aa4e1]
 - (c) the determination of the Secretary of State or, as the case may be, the other person shall be final.
 
 (3) In relation to areas in Wales (except where subsection (4) below applies)—
@@ -43,7 +43,7 @@ summary: ''
   - (ii) refer the matter for determination by such other person as it considers appropriate; and
 - (b) the determination of the Assembly or, as the case may be, the other person shall be final.
 
-(4) Where the Assembly is one of the relevant authorities which has made a combined reference under section 87(8)(b) or (10) *(affected by repeal, see note)*[^key-52f44707fbeba15d334931124ffa9a7f] Where a combined reference is made under section 87(7C)(b) or 87(7F) above—
+(4) Where the Assembly is one of the relevant authorities which has made a combined reference under section 87(8)(b) or (10) *(affected by repeal, see note)*[^c-52f44707fbeba15d334931124ffa9a7f] Where a combined reference is made under section 87(7C)(b) or 87(7F) above—
 
 - (a) the terms of the arrangements shall be determined by a person appointed by the Secretary of State and the Assembly acting jointly; and
 - (b) the determination of that person shall be final.
@@ -59,10 +59,10 @@ summary: ''
 
 [^c19906121]: Textual amendment: [Ss. 87-87C](https://www.legislation.gov.uk/ukpga/1991/56/section/87) substituted for s. 87 (1.8.2008 for E. for certain purposes as regards s. 87 and 25.2.2009 for E. for all other purposes) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 58(2)(11)-(14)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/2/11), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2008/1922](https://www.legislation.gov.uk/uksi/2008/1922), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1922/article/2/a); [S.I. 2009/359](https://www.legislation.gov.uk/uksi/2009/359), [art. 2](https://www.legislation.gov.uk/uksi/2009/359/article/2), (with saving in art. 3, Sch. 3)
 
-[^key-7be2f793cbc549f70befa3416a0f1b6f]: Modification: Pt. 3 Ch. 4 modified (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/37/1), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7be2f793cbc549f70befa3416a0f1b6f]: Modification: Pt. 3 Ch. 4 modified (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/37/1), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-33b285e419c4c193213982e5971ede9d]: Textual amendment: S. 87B(2)(a) substituted (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 35(10)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/35/10/a), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-33b285e419c4c193213982e5971ede9d]: Textual amendment: S. 87B(2)(a) substituted (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 35(10)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/35/10/a), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-0443add37212534c9800353e0d2aa4e1]: Textual amendment: S. 87B(2)(b) omitted (1.4.2013 for E.) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 35(10)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/35/10/b), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-0443add37212534c9800353e0d2aa4e1]: Textual amendment: S. 87B(2)(b) omitted (1.4.2013 for E.) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 35(10)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/35/10/b), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-52f44707fbeba15d334931124ffa9a7f]: Textual amendment: Words in s. 87B(4) substituted (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 35(11)](https://www.legislation.gov.uk/ukpga/2012/7/section/35/11), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-52f44707fbeba15d334931124ffa9a7f]: Textual amendment: Words in s. 87B(4) substituted (1.4.2013 for E.) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 35(11)](https://www.legislation.gov.uk/ukpga/2012/7/section/35/11), [306(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

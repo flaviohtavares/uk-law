@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Provision of information about competition in connection with motor fuel[^key-0048c0372ecbcd2b372c5a6cadf3917b][^key-669f00c5102bbeb67fb9702e7f3d1d1e]
+## 311. Provision of information about competition in connection with motor fuel[^c-0048c0372ecbcd2b372c5a6cadf3917b][^c-669f00c5102bbeb67fb9702e7f3d1d1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,6 +75,6 @@ which in proceedings in the High Court would be protected from disclosure on gro
 
 ## Annotations
 
-[^key-0048c0372ecbcd2b372c5a6cadf3917b]: Commencement: S. 311 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-0048c0372ecbcd2b372c5a6cadf3917b]: Commencement: S. 311 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-669f00c5102bbeb67fb9702e7f3d1d1e]: Commencement: [S. 311](https://www.legislation.gov.uk/ukpga/2024/13/section/311) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)
+[^c-669f00c5102bbeb67fb9702e7f3d1d1e]: Commencement: [S. 311](https://www.legislation.gov.uk/ukpga/2024/13/section/311) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)

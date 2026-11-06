@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Appointment of referee[^key-33b541c5203036c9a85f2b8772bb18c0]
+## 61. Appointment of referee[^c-33b541c5203036c9a85f2b8772bb18c0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33b541c5203036c9a85f2b8772bb18c0]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2011/9/section/61) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-33b541c5203036c9a85f2b8772bb18c0]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2011/9/section/61) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

@@ -29,7 +29,7 @@ summary: ''
 - (a) the techniques, tools and arrangements that enable it to comply with Article 45;
 - (b) the techniques, tools and arrangements that enable liquidity risk of the AIF to be assessed and monitored under normal and exceptional liquidity conditions including through the use of regularly conducted stress tests in accordance with Article 48;
 - (c) the allocation of responsibilities within the AIFM pertaining to risk management;
-- (d) the limits set in accordance with Article 44 of this Regulation and a justification of how these are aligned with the risk profile of the AIF disclosed to investors in accordance with rule 3.2.5(3) of the Investment Funds sourcebook[^key-17b794051a05e1ff86ac546071f8f7f2];
+- (d) the limits set in accordance with Article 44 of this Regulation and a justification of how these are aligned with the risk profile of the AIF disclosed to investors in accordance with rule 3.2.5(3) of the Investment Funds sourcebook[^c-17b794051a05e1ff86ac546071f8f7f2];
 - (e) the terms, contents, frequency and addressees of reporting by the permanent risk management function referred to in Article 39.
 
 4. The risk management policy shall include a description of the safeguards referred to in Article 43, in particular:
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17b794051a05e1ff86ac546071f8f7f2]: Textual amendment: Words in Art. 40(3)(d) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17b794051a05e1ff86ac546071f8f7f2]: Textual amendment: Words in Art. 40(3)(d) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

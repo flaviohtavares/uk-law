@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16B. Application to local authorities in England[^key-48f41cbde20d172b71eefe3c1204834f]
+## 16B. Application to local authorities in England[^c-48f41cbde20d172b71eefe3c1204834f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48f41cbde20d172b71eefe3c1204834f]: Textual amendment: S. 16B and cross-heading inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [57(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/57/1)
+[^c-48f41cbde20d172b71eefe3c1204834f]: Textual amendment: S. 16B and cross-heading inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [57(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/57/1)

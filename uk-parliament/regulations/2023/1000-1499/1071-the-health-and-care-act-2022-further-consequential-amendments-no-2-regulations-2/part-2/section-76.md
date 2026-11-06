@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Amendment of the Care and Support (Provision of Health Services) Regulations 2014[^key-d894bbeee13b64fcdae907e878b14d9a]
+## 76. Amendment of the Care and Support (Provision of Health Services) Regulations 2014[^c-d894bbeee13b64fcdae907e878b14d9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d894bbeee13b64fcdae907e878b14d9a]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2023/1071/regulation/76) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-d894bbeee13b64fcdae907e878b14d9a]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2023/1071/regulation/76) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00062]: Footnote: [S.I. 2014/2821](https://www.legislation.gov.uk/uksi/2014/2821), to which there are amendments not relevant to these Regulations.

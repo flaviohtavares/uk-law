@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Means-tested additional payments
 
-### 1. Means-tested additional payments: main payments[^key-a8086165e1091db410a469c8dd001853]
+### 1. Means-tested additional payments: main payments[^c-a8086165e1091db410a469c8dd001853]
 
 (1) The Secretary of State must secure that—
 
@@ -64,7 +64,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (6) In this section, and in sections 2 to 4, references to a “person” are to an individual or to a couple (but not to each member of a couple separately).
 
-### 2. Qualifying entitlements[^key-d4227d1c93671900c0a0a1127049fc8b]
+### 2. Qualifying entitlements[^c-d4227d1c93671900c0a0a1127049fc8b]
 
 (1) A person has a qualifying entitlement to a social security benefit in respect of a qualifying day if—
 
@@ -80,13 +80,13 @@ and, in either case, the payment or award of the credit in question is of at lea
 
 (3) References in this section to a person receiving a payment or having an award do not include payments received or awards made as a result of fraud.
 
-### 3. Applicable benefits or tax credits[^key-427ec8ee93cefeab1c9625a1e6540dc0]
+### 3. Applicable benefits or tax credits[^c-427ec8ee93cefeab1c9625a1e6540dc0]
 
 (1) Where a person has a qualifying entitlement to universal credit and to another social security benefit in respect of a qualifying day, the benefit by reference to which the means-tested additional payment in respect of the qualifying day is to be made is universal credit (if the payment is made under section 1(1)).
 
 (2) Where a person has a qualifying entitlement to child tax credit and to working tax credit in respect of a qualifying day, the tax credit by reference to which the means-tested additional payment in respect of the qualifying day is to be paid is child tax credit (if the payment is made under section 1(2)).
 
-### 4. Means-tested additional payments: final payments[^key-99786839307ff7da2d1e2b67fb2e245d]
+### 4. Means-tested additional payments: final payments[^c-99786839307ff7da2d1e2b67fb2e245d]
 
 (1) HMRC must secure that a single payment of £326 is made to any person who—
 
@@ -106,7 +106,7 @@ and, in either case, the payment or award of the credit in question is of at lea
 
 ## Disability additional payments
 
-### 5. Disability additional payments[^key-59fa8ebbe93969a96b1f611b06e49d59]
+### 5. Disability additional payments[^c-59fa8ebbe93969a96b1f611b06e49d59]
 
 (1) The Secretary of State must secure that a single payment of £150 (a “disability additional payment”) is made to each individual who is entitled to a payment of a disability benefit that is payable in respect of 25 May 2022.
 
@@ -130,7 +130,7 @@ and, in either case, the payment or award of the credit in question is of at lea
 
 ## Administration etc
 
-### 6. Administration of additional payments[^key-328cf2b1363a2e5e45cc7d8c1291afdf]
+### 6. Administration of additional payments[^c-328cf2b1363a2e5e45cc7d8c1291afdf]
 
 (1) For all purposes relating to the administration of an additional payment, any provision applying in relation to a social security benefit, child tax credit, working tax credit or disability benefit by reference to which that payment is made is to apply in relation to that payment as if that payment were a payment or award of the social security benefit, child tax credit, working tax credit or disability benefit in question.
 
@@ -147,7 +147,7 @@ and, in either case, the payment or award of the credit in question is of at lea
 
 (6) The regulations may make provision having effect from the day on which this Act comes into force.
 
-### 7. Cooperation etc between the Secretary of State and HMRC[^key-922c0c7c0f09bf5520160bff3b8be982]
+### 7. Cooperation etc between the Secretary of State and HMRC[^c-922c0c7c0f09bf5520160bff3b8be982]
 
 (1) The Secretary of State and HMRC must cooperate in exercising their functions in relation to additional payments.
 
@@ -171,7 +171,7 @@ and, in either case, the payment or award of the credit in question is of at lea
 
 (6) The payment made in purported compliance with a duty in section 1 or 4 is to be treated as if it had been made in accordance with the applicable duty (and, accordingly, the payment is not recoverable on the grounds that it was not made in compliance with a duty in section 1 or 4).
 
-### 8. Payments to be disregarded for the purposes of tax and social security[^key-5e490eb7bc3cb80c70f564b6e9ba2f00]
+### 8. Payments to be disregarded for the purposes of tax and social security[^c-5e490eb7bc3cb80c70f564b6e9ba2f00]
 
 No account is to be taken of an additional payment in considering a person’s—
 
@@ -181,7 +181,7 @@ No account is to be taken of an additional payment in considering a person’s�
 
 ## Final provisions
 
-### 9. Interpretation[^key-db3051e02df242f50ffba76a8677c5a8]
+### 9. Interpretation[^c-db3051e02df242f50ffba76a8677c5a8]
 
 (1) In this Act—
 
@@ -201,7 +201,7 @@ No account is to be taken of an additional payment in considering a person’s�
   - (ii) the day specified in regulations under section 1(4);
 - (b) references to child tax credit or working tax credit are to child tax credit or working tax credit under the Tax Credits Act 2002.
 
-### 10. Regulations[^key-364dc05fb4e4ebd9afae6f9af1519fff]
+### 10. Regulations[^c-364dc05fb4e4ebd9afae6f9af1519fff]
 
 (1) A power to make regulations under any provision of this Act includes power to make—
 
@@ -212,7 +212,7 @@ No account is to be taken of an additional payment in considering a person’s�
 
 (3) A statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 11. Extent, commencement and short title[^key-97f1db2f95a564418a950892ec3c5b18]
+### 11. Extent, commencement and short title[^c-97f1db2f95a564418a950892ec3c5b18]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -222,26 +222,26 @@ No account is to be taken of an additional payment in considering a person’s�
 
 ## Annotations
 
-[^key-a8086165e1091db410a469c8dd001853]: Commencement: S. 1 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-a8086165e1091db410a469c8dd001853]: Commencement: S. 1 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-d4227d1c93671900c0a0a1127049fc8b]: Commencement: S. 2 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-d4227d1c93671900c0a0a1127049fc8b]: Commencement: S. 2 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-427ec8ee93cefeab1c9625a1e6540dc0]: Commencement: S. 3 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-427ec8ee93cefeab1c9625a1e6540dc0]: Commencement: S. 3 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-99786839307ff7da2d1e2b67fb2e245d]: Commencement: S. 4 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-99786839307ff7da2d1e2b67fb2e245d]: Commencement: S. 4 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-59fa8ebbe93969a96b1f611b06e49d59]: Commencement: S. 5 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-59fa8ebbe93969a96b1f611b06e49d59]: Commencement: S. 5 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-328cf2b1363a2e5e45cc7d8c1291afdf]: Commencement: S. 6 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-328cf2b1363a2e5e45cc7d8c1291afdf]: Commencement: S. 6 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
 [^M_F_81ba4805-4206-48d9-9d9f-d445f60d1975]: Textual amendment: Words in s. 6(3) substituted (retrospective to 28.6.2022) by [Social Security (Additional Payments) Act 2023 (c. 7)](https://www.legislation.gov.uk/ukpga/2023/7), [s. 9(1)(2)](https://www.legislation.gov.uk/ukpga/2023/7/section/9/1/2)
 
-[^key-922c0c7c0f09bf5520160bff3b8be982]: Commencement: S. 7 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-922c0c7c0f09bf5520160bff3b8be982]: Commencement: S. 7 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-5e490eb7bc3cb80c70f564b6e9ba2f00]: Commencement: S. 8 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-5e490eb7bc3cb80c70f564b6e9ba2f00]: Commencement: S. 8 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-db3051e02df242f50ffba76a8677c5a8]: Commencement: S. 9 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-db3051e02df242f50ffba76a8677c5a8]: Commencement: S. 9 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-364dc05fb4e4ebd9afae6f9af1519fff]: Commencement: S. 10 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-364dc05fb4e4ebd9afae6f9af1519fff]: Commencement: S. 10 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
 
-[^key-97f1db2f95a564418a950892ec3c5b18]: Commencement: S. 11 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)
+[^c-97f1db2f95a564418a950892ec3c5b18]: Commencement: S. 11 in force at Royal Assent, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2022/38/section/11/2)

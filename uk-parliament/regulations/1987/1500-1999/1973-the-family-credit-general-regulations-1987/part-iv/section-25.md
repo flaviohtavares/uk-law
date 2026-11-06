@@ -24,10 +24,10 @@ summary: ''
 
 (2) Any payment received under an annuity shall be treated as income.
 
-(3) Any Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 shall be treated as income.[^key-0d0afd6109c9423ca6534259948fec78]
+(3) Any Career Development Loan paid pursuant to section 2 of the Employment and Training Act 1973 shall be treated as income.[^c-0d0afd6109c9423ca6534259948fec78]
 
 ## Annotations
 
 [^M_F_edcaf446-6794-4e01-fd5b-fc0a6b87cf4b]: Textual amendment: Word in reg. 25(1) substituted (9.4.1990) by Income-[Related Benefits (Miscellaneous Amendments) Regulations 1990 (S.I. 1990/671)](https://www.legislation.gov.uk/uksi/1990/671), reg. 1(1), 3(2)
 
-[^key-0d0afd6109c9423ca6534259948fec78]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/25/3) added (1.4.1997 for specified purposes and , 7.4.1997 for specified purposes and , 7.4.1997 in so far as not already in force, 8.4.1997 for specified purposes and ) by [The Income-related Benefits and Jobseeker s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [reg. 3(3)(d)](https://www.legislation.gov.uk/uksi/1997/65/regulation/3/3/d)
+[^c-0d0afd6109c9423ca6534259948fec78]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/25/3) added (1.4.1997 for specified purposes and , 7.4.1997 for specified purposes and , 7.4.1997 in so far as not already in force, 8.4.1997 for specified purposes and ) by [The Income-related Benefits and Jobseeker s Allowance (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/65)](https://www.legislation.gov.uk/uksi/1997/65), [reg. 3(3)(d)](https://www.legislation.gov.uk/uksi/1997/65/regulation/3/3/d)

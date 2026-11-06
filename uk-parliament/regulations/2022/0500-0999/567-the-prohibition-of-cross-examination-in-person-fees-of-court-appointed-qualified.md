@@ -52,7 +52,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Lord Chancellor, in exercise of the powers conferred by sections 31X of the Matrimonial and Family Proceedings Act 1984[^f00001] and section 85L of the Courts Act 2003[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement, interpretation and extent[^key-68ce66a08326f5f02d0b5a8d554bbcbc]
+## 1. Citation, commencement, interpretation and extent[^c-68ce66a08326f5f02d0b5a8d554bbcbc]
 
 (1) These Regulations may be cited as the Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) Regulations 2022.
 
@@ -64,13 +64,13 @@ The Lord Chancellor, in exercise of the powers conferred by sections 31X of the 
 - “**1989 Act**” means the Children Act 1989[^f00004];
 - “**2003 Act**” means the Courts Act 2003;
 - “**2012 Act**” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00005];
-- “**advocacy services**” means cross-examination carried out by a qualified legal representative pursuant to appointment under section 31W(6) of the 1984 Act[^f00006] or section 85K(6) of the 2003 Act[^f00007], and fees and rates for advocacy services include remuneration for preparatory work, attendances at preliminary hearings and cross-examination hearings, and time spent[^key-521b1af955b44a886928a0d3919b39d5] travelling and waiting in relation to those services;
+- “**advocacy services**” means cross-examination carried out by a qualified legal representative pursuant to appointment under section 31W(6) of the 1984 Act[^f00006] or section 85K(6) of the 2003 Act[^f00007], and fees and rates for advocacy services include remuneration for preparatory work, attendances at preliminary hearings and cross-examination hearings, and time spent[^c-521b1af955b44a886928a0d3919b39d5] travelling and waiting in relation to those services;
 - “**authorised**” means authorised by the President of the Family Division or the Lord Chief Justice to conduct particular business, under powers granted by rules made under section 31D of the 1984 Act[^f00008];
 - “**cancelled hearing**” means a preliminary hearing, or a cross-examination hearing, which was cancelled at any time prior to the scheduled time and date;
 - “**completed hearing**” means a preliminary hearing, or a cross-examination hearing, which was held and completed;
-- “[^key-f86888cd3be3c0ab425776e4bd6ae5b5]**costs**” means travelling expenses, overnight accommodation costs, overnight subsistence allowance and any other items of expenditure properly incurred by the qualified legal representative in connection with their appointment by the court under the 1984 Act or 2003 Act.
+- “[^c-f86888cd3be3c0ab425776e4bd6ae5b5]**costs**” means travelling expenses, overnight accommodation costs, overnight subsistence allowance and any other items of expenditure properly incurred by the qualified legal representative in connection with their appointment by the court under the 1984 Act or 2003 Act.
 - “**cross-examination hearing**” means a hearing involving cross-examination of a witness by the qualified legal representative;
-- “[^key-ebf281ffbeeba488f75033aafcd702a0]**fees**” means the sums payable for advocacy services, calculated in accordance with Parts 1 to 3 of the Schedule to these Regulations.
+- “[^c-ebf281ffbeeba488f75033aafcd702a0]**fees**” means the sums payable for advocacy services, calculated in accordance with Parts 1 to 3 of the Schedule to these Regulations.
 - “**judge of circuit judge level**” means—
   - (a) a judge appointed under section 16 of the Courts Act 1971[^f00009];
   - (b) a circuit judge who is authorised, where applicable;
@@ -121,13 +121,13 @@ The Lord Chancellor, in exercise of the powers conferred by sections 31X of the 
     - (i) the proceedings are being heard with those under section 31 of the 1989 Act;
     - (ii) applications under those enactments are made within proceedings under section 31 of the 1989 Act; or
     - (iii) orders under those enactments are being sought as an alternative to an order under section 31 of the 1989 Act;
-- “[^key-e9756286f1add4c53e83af1eba521d14]**terminated appointment**” means an appointment of a qualified legal representative which was terminated by the court before a hearing.
+- “[^c-e9756286f1add4c53e83af1eba521d14]**terminated appointment**” means an appointment of a qualified legal representative which was terminated by the court before a hearing.
 
-(4) These Regulations apply to the payment out of central funds of sums in respect of fees and costs payable to a qualified legal representative in connection with their appointment by the court under the 1984 Act or 2003 Act.[^key-ef692f500446d15104856f5bc3a1cfeb]
+(4) These Regulations apply to the payment out of central funds of sums in respect of fees and costs payable to a qualified legal representative in connection with their appointment by the court under the 1984 Act or 2003 Act.[^c-ef692f500446d15104856f5bc3a1cfeb]
 
 (5) These Regulations extend to England and Wales.
 
-## 2. Remuneration[^key-2962827f30e794c8136d6b87715d1d80]
+## 2. Remuneration[^c-2962827f30e794c8136d6b87715d1d80]
 
 (1) The Lord Chancellor must pay fees to a qualified legal representative in accordance with these Regulations.
 
@@ -137,7 +137,7 @@ The Lord Chancellor, in exercise of the powers conferred by sections 31X of the 
 
 (4) The Lord Chancellor may not pay costs in excess of the maximum cap amounts specified for the corresponding category of cost.
 
-## 3. Bolt-on fee[^key-6e568dedfd4eb27d5fa4b506c28d92a0]
+## 3. Bolt-on fee[^c-6e568dedfd4eb27d5fa4b506c28d92a0]
 
 (1) The Lord Chancellor must pay a bolt-on fee at the rate set out in Table 5 in the Schedule as applicable where the qualified legal representative’s bundle for a cross-examination hearing exceeds 350 pages.
 
@@ -150,11 +150,11 @@ The Lord Chancellor, in exercise of the powers conferred by sections 31X of the 
 
 (3) In this regulation “**bundle**” means the bundle of documents prepared for the hearing in accordance with the provisions of the Civil Procedure Rules 1998[^f00022] or Family Procedure Rules 2010[^f00023], as appropriate.
 
-## 4. Value Added Tax[^key-efa441f7cbdbf1ad882849319b8f2547]
+## 4. Value Added Tax[^c-efa441f7cbdbf1ad882849319b8f2547]
 
 All fees set out in the Schedule to these Regulations are exclusive of value added tax.
 
-## 5. Cancelled hearings[^key-6b2c878cae261c0484e584eee6b820c8]
+## 5. Cancelled hearings[^c-6b2c878cae261c0484e584eee6b820c8]
 
 (1) A fee in respect of a cancelled hearing may be claimed where—
 
@@ -172,7 +172,7 @@ All fees set out in the Schedule to these Regulations are exclusive of value add
 - (a) in family proceedings, half of a single day fee as described in Table 2 in the Schedule; or
 - (b) in civil proceedings, half of a single day fee as described in Table 4 in the Schedule.
 
-(4)[^key-2901449707c27c50cfddb9b570357c75] Costs in respect of a cancelled hearing may be claimed where—
+(4)[^c-2901449707c27c50cfddb9b570357c75] Costs in respect of a cancelled hearing may be claimed where—
 
 - (a) a preliminary hearing or a cross-examination hearing is listed;
 - (b) the qualified legal representative has incurred costs in anticipation of attending the hearing;
@@ -181,7 +181,7 @@ All fees set out in the Schedule to these Regulations are exclusive of value add
 
 (5) The qualified legal representative must attempt to recover the costs incurred within 24 hours of being notified of the hearing cancellation.
 
-## 5A. Terminated appointments[^key-04434249a4634cecacdea4cfb6becc5c]
+## 5A. Terminated appointments[^c-04434249a4634cecacdea4cfb6becc5c]
 
 (1) A fee in respect of a terminated appointment may be claimed where—
 
@@ -208,25 +208,25 @@ All fees set out in the Schedule to these Regulations are exclusive of value add
 
 (5) The qualified legal representative must attempt to recover the costs incurred within 24 hours of being notified of the termination of the appointment.
 
-## 6. Claim for payment of fees and costs[^key-f9471de826e7672198ccefc94255c2cd][^key-a7ee0fe79a0496cb3e320a95e59787cc]
+## 6. Claim for payment of fees and costs[^c-f9471de826e7672198ccefc94255c2cd][^c-a7ee0fe79a0496cb3e320a95e59787cc]
 
 (1) A qualified legal representative must make a claim for payment of fees in accordance with these Regulations.
 
-(2) A qualified legal representative may make a claim in respect of each completed hearing , cancelled hearing or terminated appointment[^key-674454afb177a7d608c23856c6a658d9].
+(2) A qualified legal representative may make a claim in respect of each completed hearing , cancelled hearing or terminated appointment[^c-674454afb177a7d608c23856c6a658d9].
 
-(3) A claim for payment must be submitted within 3 months of the date of the completed hearing , cancelled hearing or terminated appointment[^key-03903698fd2e704465c22ee4c4da0fd2].
+(3) A claim for payment must be submitted within 3 months of the date of the completed hearing , cancelled hearing or terminated appointment[^c-03903698fd2e704465c22ee4c4da0fd2].
 
 (4) A claim must—
 
 - (a) be submitted on a form specified by the Lord Chancellor;
 - (b) summarise the items of work done by the qualified legal representative;
-- (c) state, where appropriate, the dates on which items of work were done, the time taken and the sums claimed; [^key-293d838e87e5e0c8c0f2a56419827d1d]...
-- (ca)[^key-f8b6dfb2f914ecf3f22538d34f7b78b9] specify any costs claimed, the circumstances in which they were incurred and the amounts claimed in respect of them; and
-- (d) include all particulars, information or documents relied on as evidence of entitlement to the fees and costs[^key-88bab34a9beaf8c42c547e660f49e4f3] claimed.
+- (c) state, where appropriate, the dates on which items of work were done, the time taken and the sums claimed; [^c-293d838e87e5e0c8c0f2a56419827d1d]...
+- (ca)[^c-f8b6dfb2f914ecf3f22538d34f7b78b9] specify any costs claimed, the circumstances in which they were incurred and the amounts claimed in respect of them; and
+- (d) include all particulars, information or documents relied on as evidence of entitlement to the fees and costs[^c-88bab34a9beaf8c42c547e660f49e4f3] claimed.
 
 (5) The qualified legal representative must specify any special circumstances which they consider should be drawn to the attention of the Lord Chancellor.
 
-## 7. Payment of fees and costs[^key-bc9773c8e71d6089c9bc9a11958c7b5c][^key-c220d7b9c2c201531457ecd84768efc7]
+## 7. Payment of fees and costs[^c-bc9773c8e71d6089c9bc9a11958c7b5c][^c-c220d7b9c2c201531457ecd84768efc7]
 
 (1) Upon receipt of a claim for payment, the Lord Chancellor must—
 
@@ -258,7 +258,7 @@ Regulation 2, 3 and 5
 
 ### PART 1 — Fees payable in family proceedings
 
-#### 1. Fixed fees[^key-93557fde3f302d6dcd552f747ef75c9b]
+#### 1. Fixed fees[^c-93557fde3f302d6dcd552f747ef75c9b]
 
 Tables 1 and 2 set out the fixed fees payable in relation to the category of case specified in the first column of the table, by reference to the level of judge conducting the hearing as specified in the remaining columns of the table.
 
@@ -296,7 +296,7 @@ Paid for all preliminary hearings
 </tbody>
 </table>
 
-[^key-d182758afd993475fd49dc962b3f6a3b][^f01000][^f01001]
+[^c-d182758afd993475fd49dc962b3f6a3b][^f01000][^f01001]
 
 Table 2
 
@@ -319,11 +319,11 @@ Paid per day at the cross-examination hearing
 </tbody>
 </table>
 
-[^key-df5b91afde810b4baac1948d04e0d49d]
+[^c-df5b91afde810b4baac1948d04e0d49d]
 
 ### PART 2 — Fees payable in civil proceedings
 
-#### 2. Fixed fees[^key-6630a3c3b236a1ace1bc6037c04eaa57]
+#### 2. Fixed fees[^c-6630a3c3b236a1ace1bc6037c04eaa57]
 
 Tables 3 and 4 set out the fixed fees payable in relation to the category of case specified in the first column of the table, by reference to the level of judge conducting the hearing as specified in the remaining columns of the table.
 
@@ -345,7 +345,7 @@ Paid for all preliminary hearings
 </tbody>
 </table>
 
-[^key-514c7b5b365f2f652482a07eda802b99]
+[^c-514c7b5b365f2f652482a07eda802b99]
 
 Table 4
 
@@ -364,9 +364,9 @@ Paid per day at the cross-examination hearing
 </tbody>
 </table>
 
-[^key-b7c64e88f1f68aaaec9139009b3b3970]
+[^c-b7c64e88f1f68aaaec9139009b3b3970]
 
-### PART 3 — Bolt-on fee payable in family and civil proceedings[^key-245686abdaf3a893ce369cb0f5ecb10f]
+### PART 3 — Bolt-on fee payable in family and civil proceedings[^c-245686abdaf3a893ce369cb0f5ecb10f]
 
 Table 5
 
@@ -384,9 +384,9 @@ Additional fee to be paid once per cross-examination hearing
 </tbody>
 </table>
 
-[^key-c6b7ea8067e3ccaec48233cffbfd19d2]
+[^c-c6b7ea8067e3ccaec48233cffbfd19d2]
 
-### PART 4 — Costs payable in civil and family proceedings[^key-e8efc44b8a57cfe3cff7cad1bcde2257]
+### PART 4 — Costs payable in civil and family proceedings[^c-e8efc44b8a57cfe3cff7cad1bcde2257]
 
 #### 3. General provision and applicable maximum rates
 
@@ -460,7 +460,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 85L was inserted by section 66 of the Domestic Abuse Act 2021.
 
-[^key-68ce66a08326f5f02d0b5a8d554bbcbc]: Commencement: Reg. 1 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-68ce66a08326f5f02d0b5a8d554bbcbc]: Commencement: Reg. 1 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
 [^f00003]: Footnote: [2021 c. 17](https://www.legislation.gov.uk/ukpga/2021/17).
 
@@ -472,13 +472,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: Section 85K was inserted by section 66 of the Domestic Abuse Act 2021.
 
-[^key-521b1af955b44a886928a0d3919b39d5]: Textual amendment: Words in reg. 1(3) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/2/a)
+[^c-521b1af955b44a886928a0d3919b39d5]: Textual amendment: Words in reg. 1(3) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/2/a)
 
 [^f00008]: Footnote: Section 31D was inserted by section 17(6) of, and paragraph 1 of Schedule 10 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-f86888cd3be3c0ab425776e4bd6ae5b5]: Textual amendment: Words in reg. 1(3) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/2/b)
+[^c-f86888cd3be3c0ab425776e4bd6ae5b5]: Textual amendment: Words in reg. 1(3) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/2/b)
 
-[^key-ebf281ffbeeba488f75033aafcd702a0]: Textual amendment: Words in reg. 1(3) substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/2/c)
+[^c-ebf281ffbeeba488f75033aafcd702a0]: Textual amendment: Words in reg. 1(3) substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/2/c)
 
 [^f00009]: Footnote: [1971 c. 23](https://www.legislation.gov.uk/ukpga/1971/23)
 
@@ -506,49 +506,49 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00021]: Footnote: Paragraph 18 was amended by [S.I. 2013/748](https://www.legislation.gov.uk/uksi/2013/748).
 
-[^key-e9756286f1add4c53e83af1eba521d14]: Textual amendment: Words in reg. 1(3) inserted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-e9756286f1add4c53e83af1eba521d14]: Textual amendment: Words in reg. 1(3) inserted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-ef692f500446d15104856f5bc3a1cfeb]: Textual amendment: Words in reg. 1(4) substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/3)
+[^c-ef692f500446d15104856f5bc3a1cfeb]: Textual amendment: Words in reg. 1(4) substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/3)
 
-[^key-2962827f30e794c8136d6b87715d1d80]: Textual amendment: Reg. 2 substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/4)
+[^c-2962827f30e794c8136d6b87715d1d80]: Textual amendment: Reg. 2 substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/4)
 
-[^key-6e568dedfd4eb27d5fa4b506c28d92a0]: Commencement: Reg. 3 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-6e568dedfd4eb27d5fa4b506c28d92a0]: Commencement: Reg. 3 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 1998/3132 (L. 17)](https://www.legislation.gov.uk/uksi/1998/3132), to which there are amendments not relevant to these Regulations.
 
 [^f00023]: Footnote: [S.I. 2010/2955 (L. 17)](https://www.legislation.gov.uk/uksi/2010/2955), to which there are amendments not relevant to these Regulations.
 
-[^key-efa441f7cbdbf1ad882849319b8f2547]: Commencement: Reg. 4 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-efa441f7cbdbf1ad882849319b8f2547]: Commencement: Reg. 4 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-6b2c878cae261c0484e584eee6b820c8]: Commencement: Reg. 5 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-6b2c878cae261c0484e584eee6b820c8]: Commencement: Reg. 5 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-2901449707c27c50cfddb9b570357c75]: Textual amendment: Reg. 5(4)(5) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/5)
+[^c-2901449707c27c50cfddb9b570357c75]: Textual amendment: Reg. 5(4)(5) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/5)
 
-[^key-04434249a4634cecacdea4cfb6becc5c]: Textual amendment: Reg. 5A inserted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-04434249a4634cecacdea4cfb6becc5c]: Textual amendment: Reg. 5A inserted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-f9471de826e7672198ccefc94255c2cd]: Commencement: Reg. 6 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-f9471de826e7672198ccefc94255c2cd]: Commencement: Reg. 6 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-a7ee0fe79a0496cb3e320a95e59787cc]: Textual amendment: Words in reg. 6 heading inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/6)
+[^c-a7ee0fe79a0496cb3e320a95e59787cc]: Textual amendment: Words in reg. 6 heading inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/6)
 
-[^key-674454afb177a7d608c23856c6a658d9]: Textual amendment: Words in reg. 6(2) substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-674454afb177a7d608c23856c6a658d9]: Textual amendment: Words in reg. 6(2) substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-03903698fd2e704465c22ee4c4da0fd2]: Textual amendment: Words in reg. 6(3) substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-03903698fd2e704465c22ee4c4da0fd2]: Textual amendment: Words in reg. 6(3) substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-293d838e87e5e0c8c0f2a56419827d1d]: Textual amendment: Word in reg. 6(4)(c) omitted (2.1.2024) by virtue of [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/7)
+[^c-293d838e87e5e0c8c0f2a56419827d1d]: Textual amendment: Word in reg. 6(4)(c) omitted (2.1.2024) by virtue of [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/7)
 
-[^key-f8b6dfb2f914ecf3f22538d34f7b78b9]: Textual amendment: Reg. 6(4)(ca) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/7)
+[^c-f8b6dfb2f914ecf3f22538d34f7b78b9]: Textual amendment: Reg. 6(4)(ca) inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/7)
 
-[^key-88bab34a9beaf8c42c547e660f49e4f3]: Textual amendment: Words in reg. 6(4)(d) substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/8)
+[^c-88bab34a9beaf8c42c547e660f49e4f3]: Textual amendment: Words in reg. 6(4)(d) substituted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/8)
 
-[^key-bc9773c8e71d6089c9bc9a11958c7b5c]: Commencement: Reg. 7 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-bc9773c8e71d6089c9bc9a11958c7b5c]: Commencement: Reg. 7 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-c220d7b9c2c201531457ecd84768efc7]: Textual amendment: Words in reg. 7 heading inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/9)
+[^c-c220d7b9c2c201531457ecd84768efc7]: Textual amendment: Words in reg. 7 heading inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/9)
 
-[^key-93557fde3f302d6dcd552f747ef75c9b]: Commencement: Sch. Pt. 1 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-93557fde3f302d6dcd552f747ef75c9b]: Commencement: Sch. Pt. 1 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-d182758afd993475fd49dc962b3f6a3b]: Textual amendment: Sch. Table 1 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-d182758afd993475fd49dc962b3f6a3b]: Textual amendment: Sch. Table 1 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^f01000]: Footnote: (1)[^key-d182758afd993475fd49dc962b3f6a3b]
+[^f01000]: Footnote: (1)[^c-d182758afd993475fd49dc962b3f6a3b]
 
     Hearing Unit 1
 
@@ -556,16 +556,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
     Hearing Unit 2
 
-[^key-df5b91afde810b4baac1948d04e0d49d]: Textual amendment: Sch. Table 2 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-df5b91afde810b4baac1948d04e0d49d]: Textual amendment: Sch. Table 2 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-6630a3c3b236a1ace1bc6037c04eaa57]: Commencement: Sch. Pt. 2 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-6630a3c3b236a1ace1bc6037c04eaa57]: Commencement: Sch. Pt. 2 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-514c7b5b365f2f652482a07eda802b99]: Textual amendment: Sch. Table 3 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-514c7b5b365f2f652482a07eda802b99]: Textual amendment: Sch. Table 3 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-b7c64e88f1f68aaaec9139009b3b3970]: Textual amendment: Sch. Table 4 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-b7c64e88f1f68aaaec9139009b3b3970]: Textual amendment: Sch. Table 4 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-245686abdaf3a893ce369cb0f5ecb10f]: Commencement: Sch. Pt. 3 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
+[^c-245686abdaf3a893ce369cb0f5ecb10f]: Commencement: Sch. Pt. 3 in force at 21.7.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/567/regulation/1/2)
 
-[^key-c6b7ea8067e3ccaec48233cffbfd19d2]: Textual amendment: Sch. Table 5 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
+[^c-c6b7ea8067e3ccaec48233cffbfd19d2]: Textual amendment: Sch. Table 5 substituted (31.5.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2024 (S.I. 2024/624)](https://www.legislation.gov.uk/uksi/2024/624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/624/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/624/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/624/regulation/3))
 
-[^key-e8efc44b8a57cfe3cff7cad1bcde2257]: Textual amendment: Sch. Pt. 4 inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/10)
+[^c-e8efc44b8a57cfe3cff7cad1bcde2257]: Textual amendment: Sch. Pt. 4 inserted (2.1.2024) by [The Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2023 (S.I. 2023/1319)](https://www.legislation.gov.uk/uksi/2023/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2023/1319/regulation/2/10)

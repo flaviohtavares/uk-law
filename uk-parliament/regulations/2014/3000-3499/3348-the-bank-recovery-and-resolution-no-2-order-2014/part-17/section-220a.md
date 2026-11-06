@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220A. Modified application of the Companies Act 2006 (shareholders’ rights)[^key-946c4873d5cff7a5df88e450353de42d]
+## 220A. Modified application of the Companies Act 2006 (shareholders’ rights)[^c-946c4873d5cff7a5df88e450353de42d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,13 +43,13 @@ summary: ''
 >
 > - (a) the company has infringed, or is likely in the near future to infringe—
 >   - (i) a relevant requirement within the meaning of section 204A of the Financial Services and Markets Act 2000; or
->   - (ii) a requirement imposed by or under[^key-1f4dc6eed5b229bd5c08741eca912e83] Articles 3 to 7, 14 to 17 or 24 to 26 of Regulation (EU) No 600/2014 of 15th May 2014 of the European Parliament and of the Council on Markets in Financial Instruments; or
+>   - (ii) a requirement imposed by or under[^c-1f4dc6eed5b229bd5c08741eca912e83] Articles 3 to 7, 14 to 17 or 24 to 26 of Regulation (EU) No 600/2014 of 15th May 2014 of the European Parliament and of the Council on Markets in Financial Instruments; or
 > - (b) the conditions for appointment of a temporary manager under section 71C(1) of the Financial Services and Markets Act 2000 (temporary manager) are met in relation to the company.
 >
 > (3) The condition in this subsection is satisfied if an increase in the share capital of the company is necessary to prevent the conditions in section 7 of the Banking Act 2009 for the exercise of the stabilisation powers provided for in Part 1 of that Act being met in relation to the company.
 
 ## Annotations
 
-[^key-946c4873d5cff7a5df88e450353de42d]: Textual amendment: [Art. 220A](https://www.legislation.gov.uk/uksi/2014/3348/article/220A) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(16)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/16)
+[^c-946c4873d5cff7a5df88e450353de42d]: Textual amendment: [Art. 220A](https://www.legislation.gov.uk/uksi/2014/3348/article/220A) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(16)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/16)
 
-[^key-1f4dc6eed5b229bd5c08741eca912e83]: Textual amendment: Words in [art. 220A(5)](https://www.legislation.gov.uk/uksi/2014/3348/article/220A/5) substituted (1.12.2025) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/4/3)
+[^c-1f4dc6eed5b229bd5c08741eca912e83]: Textual amendment: Words in [art. 220A(5)](https://www.legislation.gov.uk/uksi/2014/3348/article/220A/5) substituted (1.12.2025) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/4/3)

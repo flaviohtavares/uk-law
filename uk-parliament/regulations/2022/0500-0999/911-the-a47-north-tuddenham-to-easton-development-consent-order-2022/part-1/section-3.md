@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Disapplication of legislative provisions[^key-8996c873ebc88e1de19ea87215624afa]
+## 3. Disapplication of legislative provisions[^c-8996c873ebc88e1de19ea87215624afa]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ section 161(1) of the 2008 Act shall not apply to that breach.
 
 ## Annotations
 
-[^key-8996c873ebc88e1de19ea87215624afa]: Commencement: Art. 3 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-8996c873ebc88e1de19ea87215624afa]: Commencement: Art. 3 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
 [^f00028]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).

@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2013 (revoked)[^key-260c7244f6a18a5a73c7641f59f009f1]
+The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2013 (revoked)[^c-260c7244f6a18a5a73c7641f59f009f1]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 8th April 2013
 
-[^key-260c7244f6a18a5a73c7641f59f009f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-260c7244f6a18a5a73c7641f59f009f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-260c7244f6a18a5a73c7641f59f009f1]
+## 1. Citation, commencement, interpretation and extent[^c-260c7244f6a18a5a73c7641f59f009f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 20 of the principal Regulations[^key-260c7244f6a18a5a73c7641f59f009f1]
+## 2. Amendment of regulation 20 of the principal Regulations[^c-260c7244f6a18a5a73c7641f59f009f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 28 of the principal Regulations[^key-260c7244f6a18a5a73c7641f59f009f1]
+## 3. Amendment of regulation 28 of the principal Regulations[^c-260c7244f6a18a5a73c7641f59f009f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 3 to the principal Regulations[^key-260c7244f6a18a5a73c7641f59f009f1]
+## 4. Amendment of Schedule 3 to the principal Regulations[^c-260c7244f6a18a5a73c7641f59f009f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-260c7244f6a18a5a73c7641f59f009f1]
+## 5. Revocations[^c-260c7244f6a18a5a73c7641f59f009f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-260c7244f6a18a5a73c7641f59f009f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-260c7244f6a18a5a73c7641f59f009f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-260c7244f6a18a5a73c7641f59f009f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-260c7244f6a18a5a73c7641f59f009f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-260c7244f6a18a5a73c7641f59f009f1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/41) revoked (7.4.2014) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2014 (S.S.I. 2014/38)](https://www.legislation.gov.uk/ssi/2014/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/38/regulation/1), [5](https://www.legislation.gov.uk/ssi/2014/38/regulation/5)
+[^c-260c7244f6a18a5a73c7641f59f009f1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2013/41) revoked (7.4.2014) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2014 (S.S.I. 2014/38)](https://www.legislation.gov.uk/ssi/2014/38), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/38/regulation/1), [5](https://www.legislation.gov.uk/ssi/2014/38/regulation/5)

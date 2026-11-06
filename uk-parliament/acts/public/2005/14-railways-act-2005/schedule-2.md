@@ -24,7 +24,7 @@ Sections 1 and 12
 
 ### Application and commencement of scheme
 
-**1.**[^key-3061c17f44902bf407af557ad05def1f][^key-8facdf8db54f732eb4f6215ec450eb40] (1) A scheme may set out the property, rights and liabilities to be transferred in one or more of the following ways—
+**1.**[^c-3061c17f44902bf407af557ad05def1f][^c-8facdf8db54f732eb4f6215ec450eb40] (1) A scheme may set out the property, rights and liabilities to be transferred in one or more of the following ways—
 
 - (a) by specifying or describing them in particular;
 - (b) by identifying them generally by reference to an undertaking from which they are to be transferred; or
@@ -34,12 +34,12 @@ Sections 1 and 12
 
 ### Property, rights and liabilities that may be transferred
 
-**2.**[^key-f39c5bc081cbd08b1a257ca777b219dd][^key-e373725c115c7457080e064b784dbf70] (1) The property, rights and liabilities that may be transferred by a scheme include—
+**2.**[^c-f39c5bc081cbd08b1a257ca777b219dd][^c-e373725c115c7457080e064b784dbf70] (1) The property, rights and liabilities that may be transferred by a scheme include—
 
 - (a) property, rights and liabilities that would not otherwise be capable of being transferred or assigned by the transferor;
 - (b) property acquired in the period after the making of the scheme and before it comes into force and rights and liabilities arising in that period;
 - (c) rights and liabilities arising after the scheme comes into force in respect of matters occurring before it comes into force;
-- (d) rights and liabilities under an enactment, EU[^key-75ae096ade9d2568d554b2b53edd03a1] instrument or subordinate legislation.
+- (d) rights and liabilities under an enactment, EU[^c-75ae096ade9d2568d554b2b53edd03a1] instrument or subordinate legislation.
 
 (2) The transfers to which effect may be given by a scheme include transfers that are to take effect in accordance with the scheme as if there were—
 
@@ -70,7 +70,7 @@ to the extent only that the scheme provides for it to be so enforceable.
 
 ### Dividing and modifying transferor's property, rights and liabilities
 
-**3.**[^key-085a9e51a89e2ac0510fb1ae8a10c5ad][^key-3254137edf53dd0f47d964c5480189ef] (1) A scheme may contain provision—
+**3.**[^c-085a9e51a89e2ac0510fb1ae8a10c5ad][^c-3254137edf53dd0f47d964c5480189ef] (1) A scheme may contain provision—
 
 - (a) for the creation, in favour of a transferor or transferee, of an interest or right in or in relation to property to be transferred in accordance with the scheme;
 - (b) for giving effect to a transfer to a person by the creation, in favour of that person, of an interest or right in or in relation to property to be retained by a transferor;
@@ -91,7 +91,7 @@ to the extent only that the scheme provides for it to be so enforceable.
 
 ### Obligation to effect transfers etc. under a scheme
 
-**4.**[^key-26215debe0767ebeef2e5ef936742a34][^key-d61ed0eb70cc83738f57a76a825c09c4] (1) A scheme may contain provision for imposing on a transferee or a transferor an obligation—
+**4.**[^c-26215debe0767ebeef2e5ef936742a34][^c-d61ed0eb70cc83738f57a76a825c09c4] (1) A scheme may contain provision for imposing on a transferee or a transferor an obligation—
 
 - (a) to enter into such agreements with another person on whom a corresponding obligation is, or could be or has been, imposed by virtue of this paragraph (whether in the same or a different scheme), or
 - (b) to execute such instruments in favour of any such person,
@@ -108,7 +108,7 @@ as may be specified or described in the scheme.
 
 ### Effect of scheme
 
-**5.**[^key-a70ee8060576c67d9847ef9798ca6b8e][^key-036a1af0281745996534cb72f2d50ff2] (1) Where a scheme provides for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
+**5.**[^c-a70ee8060576c67d9847ef9798ca6b8e][^c-036a1af0281745996534cb72f2d50ff2] (1) Where a scheme provides for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
 
 - (a) this Act shall have the effect that, at the time when the scheme comes into force, the property or interests, rights or liabilities shall vest, without further assurance, in the transferee; and
 - (b) the provisions of that scheme in relation to that property or those interests, rights or liabilities shall have effect from that time.
@@ -124,7 +124,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Powers and duties under statutory provisions
 
-**6.**[^key-ee8e90db94104e09546052cb6a4b3ccf][^key-5f3dd3b3c499827a22ab137a7143f837] (1) A scheme may make provision for some or all of the powers and duties to which this paragraph applies—
+**6.**[^c-ee8e90db94104e09546052cb6a4b3ccf][^c-5f3dd3b3c499827a22ab137a7143f837] (1) A scheme may make provision for some or all of the powers and duties to which this paragraph applies—
 
 - (a) to be transferred to a transferee;
 - (b) to become powers and duties that are exercisable, or must be performed, concurrently by two or more transferees; or
@@ -146,7 +146,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Supplementary provisions of schemes
 
-**7.**[^key-8dc62db47400af9f561295556829cf6f][^key-8b7ba4ac3be3e1d641d7f2e211bc805a] (1) A scheme may—
+**7.**[^c-8dc62db47400af9f561295556829cf6f][^c-8b7ba4ac3be3e1d641d7f2e211bc805a] (1) A scheme may—
 
 - (a) make such incidental, supplemental, consequential and transitional provision in connection with the transfers to be made in accordance with the scheme as the person making the scheme thinks fit;
 - (b) make different provision for different cases.
@@ -164,7 +164,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Modification of scheme by agreement
 
-**8.**[^key-97341e5f9ea8a0a94abea4d3f0edc4e7][^key-08cb6819a24b2eb56b4805de47d8a415] (1) Where the transferor and transferee under a scheme that has come into force so agree, the scheme shall be treated for all purposes as having come into force with such modifications as may be agreed.
+**8.**[^c-97341e5f9ea8a0a94abea4d3f0edc4e7][^c-08cb6819a24b2eb56b4805de47d8a415] (1) Where the transferor and transferee under a scheme that has come into force so agree, the scheme shall be treated for all purposes as having come into force with such modifications as may be agreed.
 
 (2) An agreement under this paragraph which relates to rights and liabilities under a contract of employment may be entered into only if the employee is a party to the agreement.
 
@@ -177,7 +177,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Continuity of employment etc.
 
-**9.**[^key-995a8aad76e2d5cf369179323ea84ed8][^key-87a36479b9b656e96de81710e133928c] (1) Where in accordance with a scheme a person employed by a transferor becomes an employee of a transferee—
+**9.**[^c-995a8aad76e2d5cf369179323ea84ed8][^c-87a36479b9b656e96de81710e133928c] (1) Where in accordance with a scheme a person employed by a transferor becomes an employee of a transferee—
 
 - (a) he is not to be regarded for the purposes of Part 11 of the Employment Rights Act 1996 (c. 18) as having been dismissed by virtue of the transfer;
 - (b) his period of employment with the transferor counts for the purposes of that Act as a period of employment with the transferee;
@@ -188,7 +188,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Compensation for third parties
 
-**10.**[^key-12078a21c8251f68562eede21879bcb0][^key-d76cad4e3d16e9776c176772d27f04bb] (1) Where—
+**10.**[^c-12078a21c8251f68562eede21879bcb0][^c-d76cad4e3d16e9776c176772d27f04bb] (1) Where—
 
 - (a) an entitlement of a third party to an interest or right would, apart from a provision of a scheme under section 1(2) and paragraph 2(4) and (5), become enforceable in respect of the transfer or creation in accordance with such a scheme of any property, rights or liabilities,
 - (b) the provisions of that scheme or of paragraph 2(4) and (5) have the effect of preventing the third party's entitlement to that interest or right from being enforced in respect of anything for which the scheme provides, and
@@ -211,7 +211,7 @@ as it has effect in relation to the scheme but as if, in the case of an agreemen
 
 ### Provision of information to person making scheme
 
-**11.**[^key-e5085f6f0377eac643d5500dd137a4df][^key-372a191f3b81a4e334eed7197b6d9261] (1) A person who proposes to make a scheme (“**the scheme authority**”) may direct—
+**11.**[^c-e5085f6f0377eac643d5500dd137a4df][^c-372a191f3b81a4e334eed7197b6d9261] (1) A person who proposes to make a scheme (“**the scheme authority**”) may direct—
 
 - (a) a proposed transferor, or
 - (b) a proposed transferee,
@@ -258,7 +258,7 @@ to provide him with such information as he considers necessary to enable him to 
 
 ### Interpretation
 
-**12.**[^key-f3048878193d3bbdade5feb185bcafa7][^key-44ea614f40ae2f431e4cbe3b40db43e1] (1) In this Schedule—
+**12.**[^c-f3048878193d3bbdade5feb185bcafa7][^c-44ea614f40ae2f431e4cbe3b40db43e1] (1) In this Schedule—
 
 - “**enactment**” includes an enactment comprised in an Act of the Scottish Parliament;
 - “transferee”—
@@ -268,60 +268,60 @@ to provide him with such information as he considers necessary to enable him to 
   - (a) in relation to a scheme, means the person from whom property, rights or liabilities are transferred in accordance with the scheme; and
   - (b) in relation to particular property, rights or liabilities transferred or created in accordance with a scheme, means the person from whom that property or those rights or liabilities are transferred or the person who or whose property is subject to the interest or right created by the scheme or for whose benefit the liability is created;
 - “**scheme**” means a scheme made under section 1(2) or 12; and
-- “**subsidiary**” has the meaning given to it by section 1159 of the Companies Act 2006[^key-bba1699b57d65a4683535dd8bb6c5099].
+- “**subsidiary**” has the meaning given to it by section 1159 of the Companies Act 2006[^c-bba1699b57d65a4683535dd8bb6c5099].
 
 (2) References in this Schedule to a right or to an entitlement to a right include references to an entitlement to exercise a right; and, accordingly, references to a right's arising include references to its becoming exercisable.
 
 ## Annotations
 
-[^key-3061c17f44902bf407af557ad05def1f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/1) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-3061c17f44902bf407af557ad05def1f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/1) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-8facdf8db54f732eb4f6215ec450eb40]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/1) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-8facdf8db54f732eb4f6215ec450eb40]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/1) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-f39c5bc081cbd08b1a257ca777b219dd]: Commencement: Sch. 2 para. 2 in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-f39c5bc081cbd08b1a257ca777b219dd]: Commencement: Sch. 2 para. 2 in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-e373725c115c7457080e064b784dbf70]: Commencement: Sch. 2 para. 2 in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-e373725c115c7457080e064b784dbf70]: Commencement: Sch. 2 para. 2 in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-75ae096ade9d2568d554b2b53edd03a1]: Textual amendment: Words in Sch. 2 para. 2 substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-75ae096ade9d2568d554b2b53edd03a1]: Textual amendment: Words in Sch. 2 para. 2 substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-085a9e51a89e2ac0510fb1ae8a10c5ad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/3) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-085a9e51a89e2ac0510fb1ae8a10c5ad]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/3) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-3254137edf53dd0f47d964c5480189ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/3) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-3254137edf53dd0f47d964c5480189ef]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/3) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-26215debe0767ebeef2e5ef936742a34]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/4) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-26215debe0767ebeef2e5ef936742a34]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/4) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-d61ed0eb70cc83738f57a76a825c09c4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/4) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-d61ed0eb70cc83738f57a76a825c09c4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/4) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-a70ee8060576c67d9847ef9798ca6b8e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/5) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-a70ee8060576c67d9847ef9798ca6b8e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/5) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-036a1af0281745996534cb72f2d50ff2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/5) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-036a1af0281745996534cb72f2d50ff2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/5) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-ee8e90db94104e09546052cb6a4b3ccf]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/6) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-ee8e90db94104e09546052cb6a4b3ccf]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/6) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-5f3dd3b3c499827a22ab137a7143f837]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/6) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-5f3dd3b3c499827a22ab137a7143f837]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/6) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-8dc62db47400af9f561295556829cf6f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/7) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-8dc62db47400af9f561295556829cf6f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/7) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-8b7ba4ac3be3e1d641d7f2e211bc805a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/7) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-8b7ba4ac3be3e1d641d7f2e211bc805a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/7) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-97341e5f9ea8a0a94abea4d3f0edc4e7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/8) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-97341e5f9ea8a0a94abea4d3f0edc4e7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/8) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-08cb6819a24b2eb56b4805de47d8a415]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/8) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-08cb6819a24b2eb56b4805de47d8a415]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/8) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-995a8aad76e2d5cf369179323ea84ed8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/9) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-995a8aad76e2d5cf369179323ea84ed8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/9) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-87a36479b9b656e96de81710e133928c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/9) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-87a36479b9b656e96de81710e133928c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/9) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-12078a21c8251f68562eede21879bcb0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/10) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-12078a21c8251f68562eede21879bcb0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/10) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-d76cad4e3d16e9776c176772d27f04bb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/10) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-d76cad4e3d16e9776c176772d27f04bb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/10) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-e5085f6f0377eac643d5500dd137a4df]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/11) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-e5085f6f0377eac643d5500dd137a4df]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/11) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-372a191f3b81a4e334eed7197b6d9261]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/11) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-372a191f3b81a4e334eed7197b6d9261]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/11) in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-f3048878193d3bbdade5feb185bcafa7]: Commencement: Sch. 2 para. 12 in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-f3048878193d3bbdade5feb185bcafa7]: Commencement: Sch. 2 para. 12 in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-44ea614f40ae2f431e4cbe3b40db43e1]: Commencement: Sch. 2 para. 12 in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-44ea614f40ae2f431e4cbe3b40db43e1]: Commencement: Sch. 2 para. 12 in force at 24.7.2005 in so far as not already in force by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-bba1699b57d65a4683535dd8bb6c5099]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/12/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 246(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/246/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-bba1699b57d65a4683535dd8bb6c5099]: Textual amendment: Words in [Sch. 2 para. 12(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/2/paragraph/12/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 246(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/246/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

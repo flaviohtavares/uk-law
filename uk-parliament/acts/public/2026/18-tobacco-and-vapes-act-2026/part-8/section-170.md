@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Power of Welsh Ministers to make consequential provision[^key-d46f35c5fb0b0ced969ffbb114521107]
+## 170. Power of Welsh Ministers to make consequential provision[^c-d46f35c5fb0b0ced969ffbb114521107]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d46f35c5fb0b0ced969ffbb114521107]: Commencement: S. 170 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-d46f35c5fb0b0ced969ffbb114521107]: Commencement: S. 170 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

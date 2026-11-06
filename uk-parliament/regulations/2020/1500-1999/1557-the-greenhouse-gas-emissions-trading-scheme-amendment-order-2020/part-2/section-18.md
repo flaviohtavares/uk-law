@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Part 4A inserted[^key-96d2d925621611b68d63d28d76ff22ff]
+## 18. Part 4A inserted[^c-96d2d925621611b68d63d28d76ff22ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -534,6 +534,6 @@ After Part 4 insert—
 
 ## Annotations
 
-[^key-96d2d925621611b68d63d28d76ff22ff]: Commencement: Art. 18 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-96d2d925621611b68d63d28d76ff22ff]: Commencement: Art. 18 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
 
 [^c24385211]: Marginal citation: OJ No L 229, 31.8.2007, p. 1; this act was repealed by the Monitoring and Reporting Regulation 2012 (Article 76) so has no effect in relation to monitoring and reporting for years from 2013 onwards but the version as last amended by Commission Decision 2009/339/EC was applicable in relation to the submission of tonne-kilometre data from 2010.

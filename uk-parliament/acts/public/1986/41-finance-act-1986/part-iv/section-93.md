@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Depositary receipts : 1.5% charge[^key-d9154bb62f8de6e7d51e95394ac766b9]
+## 93. Depositary receipts : 1.5% charge[^c-d9154bb62f8de6e7d51e95394ac766b9]
 
 *Extent: E+W+S+N.I.*
 
-(1) [^key-6c3cf86e7921c883720fa5b4e38b9364]... There shall be a charge to stamp duty reserve tax under this section where in pursuance of an arrangement —
+(1) [^c-6c3cf86e7921c883720fa5b4e38b9364]... There shall be a charge to stamp duty reserve tax under this section where in pursuance of an arrangement —
 
 - (a) a person falling within subsection (2) below has issued or is to issue a depositary receipt for chargeable securities, and
-- (b) chargeable securities of the same kind and amount are transferred [^key-3a5766212a4d7c544f71665fd6d79f24]... to the person mentioned in paragraph (a) above or[^c22550931] a person falling within subsection (3) below, or are appropriated by the person mentioned in paragraph (a) above or a person falling within subsection (3) below[^c22550951] towards the eventual satisfaction of the entitlement of the receipt's holder to receive chargeable securities.
+- (b) chargeable securities of the same kind and amount are transferred [^c-3a5766212a4d7c544f71665fd6d79f24]... to the person mentioned in paragraph (a) above or[^c22550931] a person falling within subsection (3) below, or are appropriated by the person mentioned in paragraph (a) above or a person falling within subsection (3) below[^c22550951] towards the eventual satisfaction of the entitlement of the receipt's holder to receive chargeable securities.
 
-(1A)[^key-3a8c49a6e9b4df10f8326c0bf1abf97f] The following provisions contain exceptions to the charge to stamp duty reserve tax under this section—
+(1A)[^c-3a8c49a6e9b4df10f8326c0bf1abf97f] The following provisions contain exceptions to the charge to stamp duty reserve tax under this section—
 
 - (a) subsection (7) of this section (exception so far as stamp duty is chargeable);
 - (b) section 95 (general exceptions);
@@ -41,13 +41,13 @@ summary: ''
 
 (4) Subject to subsections (6) and[^c22551051] (7) below, tax under this section shall be charged at the rate of 1.5 per cent.[^c22550991] of the following—
 
-- (a)[^key-202029924d2f7d495924fd958e12793f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) in a case where the securities are transferred for consideration in money or money's worth—[^key-ddc3dcf9c9abc8b0d0b8092c0f536acc]
+- (a)[^c-202029924d2f7d495924fd958e12793f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in a case where the securities are transferred for consideration in money or money's worth—[^c-ddc3dcf9c9abc8b0d0b8092c0f536acc]
   - (i) the amount or value of the consideration, or
   - (ii) where subsection (4A) applies, the amount or value of the consideration or, if higher, the value of the securities;
 - (c) in any other case, the value of the securities.
 
-(4A)[^key-8ac49f822b669d33e3436b05f62eb3f6] This subsection applies where the transfer of the securities is pursuant to—
+(4A)[^c-8ac49f822b669d33e3436b05f62eb3f6] This subsection applies where the transfer of the securities is pursuant to—
 
 - (a) the exercise of an option to buy or to sell the securities, and
 - (b) either—
@@ -76,7 +76,7 @@ subsection (4)(c) above shall have effect as if the reference to the value there
 
 (9) Where tax is charged under the preceding provisions of this section in a case where securities are transferred, and at the time of the transfer the person who has issued or is to issue the depositary receipt is not resident in the United Kingdom and has no branch or agency in the United Kingdom, the person liable for the tax shall be the person to whom the securities are transferred.
 
-(10)[^key-d97b562a277999e790d4dab1bc114436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-d97b562a277999e790d4dab1bc114436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Subject to subsection (12) below, this section applies where securities are transferred, issued or appropriated after 18th March 1986 (whenever the arrangement was made).
 
@@ -84,27 +84,27 @@ subsection (4)(c) above shall have effect as if the reference to the value there
 
 ## Annotations
 
-[^key-d9154bb62f8de6e7d51e95394ac766b9]: Textual amendment: Words in s. 93 heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/a) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-d9154bb62f8de6e7d51e95394ac766b9]: Textual amendment: Words in s. 93 heading inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/a) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
 
-[^key-6c3cf86e7921c883720fa5b4e38b9364]: Textual amendment: Words in s. 93(1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/b/i) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-6c3cf86e7921c883720fa5b4e38b9364]: Textual amendment: Words in s. 93(1) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/b/i) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
 
-[^key-3a5766212a4d7c544f71665fd6d79f24]: Textual amendment: Words in s. 93(1)(b) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/b/ii) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-3a5766212a4d7c544f71665fd6d79f24]: Textual amendment: Words in s. 93(1)(b) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/b/ii) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
 
 [^c22550931]: Textual amendment: Words in s. 93(1)(b) inserted (with effect as mentioned in [s. 193(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/193/4) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 193(2)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/193/2/a)
 
 [^c22550951]: Textual amendment: Words in s. 93(1)(b) substituted (with effect as mentioned in [s. 193(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/193/4) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 193(2)(b)](https://www.legislation.gov.uk/ukpga/1996/8/section/193/2/b)
 
-[^key-3a8c49a6e9b4df10f8326c0bf1abf97f]: Textual amendment: S. 93(1A) inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/c) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-3a8c49a6e9b4df10f8326c0bf1abf97f]: Textual amendment: S. 93(1A) inserted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/c) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
 
 [^c22551051]: Textual amendment: Words in s. 93(4) substituted (with application as mentioned in [s. 104(5)](https://www.legislation.gov.uk/ukpga/1997/16/section/104/5) of the amending Act) by [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [s. 104(2)(a)](https://www.legislation.gov.uk/ukpga/1997/16/section/104/2/a)
 
 [^c22550991]: Textual amendment: Words in s. 93(4) substituted (with effect as mentioned in [s. 194(7)](https://www.legislation.gov.uk/ukpga/1996/8/section/194/7) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 194(2)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/194/2/a)
 
-[^key-202029924d2f7d495924fd958e12793f]: Textual amendment: S. 93(4)(a) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/d) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-202029924d2f7d495924fd958e12793f]: Textual amendment: S. 93(4)(a) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/d) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
 
-[^key-ddc3dcf9c9abc8b0d0b8092c0f536acc]: Textual amendment: Words in [s. 93(4)(b)](https://www.legislation.gov.uk/ukpga/1986/41/section/93/4/b) substituted (with effect in accordance with s. 139(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 139(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/139/2/a)
+[^c-ddc3dcf9c9abc8b0d0b8092c0f536acc]: Textual amendment: Words in [s. 93(4)(b)](https://www.legislation.gov.uk/ukpga/1986/41/section/93/4/b) substituted (with effect in accordance with s. 139(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 139(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/139/2/a)
 
-[^key-8ac49f822b669d33e3436b05f62eb3f6]: Textual amendment: [S. 93(4A)](https://www.legislation.gov.uk/ukpga/1986/41/section/93/4A) inserted (with effect in accordance with s. 139(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 139(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/139/2/b)
+[^c-8ac49f822b669d33e3436b05f62eb3f6]: Textual amendment: [S. 93(4A)](https://www.legislation.gov.uk/ukpga/1986/41/section/93/4A) inserted (with effect in accordance with s. 139(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 139(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/139/2/b)
 
 [^c22551091]: Textual amendment: S. 93(5) repealed (with effect as mentioned in [s. 104(5)](https://www.legislation.gov.uk/ukpga/1997/16/section/104/5) of the amending Act) by [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/104/1), [113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. VII](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/VII)
 
@@ -112,4 +112,4 @@ subsection (4)(c) above shall have effect as if the reference to the value there
 
 [^c22551071]: Textual amendment: Words in s. 93(7)(a) substituted (with application as mentioned in [s. 104(5)](https://www.legislation.gov.uk/ukpga/1997/16/section/104/5) of the amending Act) by [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [s. 104(2)(b)](https://www.legislation.gov.uk/ukpga/1997/16/section/104/2/b)
 
-[^key-d97b562a277999e790d4dab1bc114436]: Textual amendment: S. 93(10) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(e)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/e) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))
+[^c-d97b562a277999e790d4dab1bc114436]: Textual amendment: S. 93(10) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 7(2)(e)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/7/2/e) (with [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/26))

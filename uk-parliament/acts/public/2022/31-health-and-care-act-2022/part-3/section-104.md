@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Power to provide for exercise of functions of Secretary of State[^key-d1aeab077de647a750881875e9d1826e][^key-c5bb7842b142016bdbc2c2dd5f780ddd]
+## 104. Power to provide for exercise of functions of Secretary of State[^c-d1aeab077de647a750881875e9d1826e][^c-c5bb7842b142016bdbc2c2dd5f780ddd]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ the Secretary of State must make provision by virtue of section 183(1)(a) modify
 
 ## Annotations
 
-[^key-d1aeab077de647a750881875e9d1826e]: Commencement: S. 104 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d1aeab077de647a750881875e9d1826e]: Commencement: S. 104 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-c5bb7842b142016bdbc2c2dd5f780ddd]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2022/31/section/104) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c5bb7842b142016bdbc2c2dd5f780ddd]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2022/31/section/104) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

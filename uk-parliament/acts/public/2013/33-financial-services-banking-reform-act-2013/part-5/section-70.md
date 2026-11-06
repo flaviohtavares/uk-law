@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Complaints: guidance[^key-65527a8b0695bd270e7cfa3a4e1b5e58]
+## 70. Complaints: guidance[^c-65527a8b0695bd270e7cfa3a4e1b5e58]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65527a8b0695bd270e7cfa3a4e1b5e58]: Commencement: S. 70 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-65527a8b0695bd270e7cfa3a4e1b5e58]: Commencement: S. 70 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

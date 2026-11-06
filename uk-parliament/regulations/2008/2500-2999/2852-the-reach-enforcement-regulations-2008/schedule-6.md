@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 9(1)
 
-### PART 1 — The Environment Agency, the Natural Resources Body for Wales, the Scottish Environment Protection Agency and the Department of the Environment[^key-9717a8fa57064572231e3c89ef986a10]
+### PART 1 — The Environment Agency, the Natural Resources Body for Wales, the Scottish Environment Protection Agency and the Department of the Environment[^c-9717a8fa57064572231e3c89ef986a10]
 
 #### SECTION 1 — Powers of entry and warrants
 
@@ -59,7 +59,7 @@ Regulation 9(1)
 
 any entry on to those premises by virtue of paragraph 1 must only be effected under the authority of a warrant by virtue of section 2 of Part 1 of this Schedule.
 
-**4.** In relation to any premises belonging to or used for the purposes of the United Kingdom Atomic Energy Authority, the powers under paragraph 1 have effect subject to section 6(3) of the Atomic Energy Authority Act 1954[^f00059] (which restricts entry to such premises that are prohibited places within the meaning of Part 1 of the National Security Act 2023[^key-824fbbe7d033f451f1ccad00ba706dc0]).
+**4.** In relation to any premises belonging to or used for the purposes of the United Kingdom Atomic Energy Authority, the powers under paragraph 1 have effect subject to section 6(3) of the Atomic Energy Authority Act 1954[^f00059] (which restricts entry to such premises that are prohibited places within the meaning of Part 1 of the National Security Act 2023[^c-824fbbe7d033f451f1ccad00ba706dc0]).
 
 **5.** Where an authorised person proposes to exercise the power conferred by paragraph 1(g), that person must, if so requested by a person who at the time is present on and has responsibilities in relation to those premises, cause anything which is to be done by virtue of that power to be done in the presence of that other person.
 
@@ -177,7 +177,7 @@ the justice, sheriff or lay magistrate may by warrant authorise an enforcing aut
 
 **35.** References in this Part to an “enforcement notice” or a “prohibition notice” have effect only for the purposes of this Part.
 
-### Part 2 — The Health and Safety Executive, the Health and Safety Executive for Northern Ireland , the Office of Rail Regulation (affected by repeal, see note) the Office of Rail and Road , the Office for Nuclear Regulation and local (health and safety) authorities[^key-5fd08d8497ff8e1d53b1c8153a130ccc1][^key-74d4584fd1f5eaaed2edfdd9f1958cec][^key-5fd08d8497ff8e1d53b1c8153a130ccc][^key-df255a696c3e518aaa7f82e05cb3be62]
+### Part 2 — The Health and Safety Executive, the Health and Safety Executive for Northern Ireland , the Office of Rail Regulation (affected by repeal, see note) the Office of Rail and Road , the Office for Nuclear Regulation and local (health and safety) authorities[^c-5fd08d8497ff8e1d53b1c8153a130ccc1][^c-74d4584fd1f5eaaed2edfdd9f1958cec][^c-5fd08d8497ff8e1d53b1c8153a130ccc][^c-df255a696c3e518aaa7f82e05cb3be62]
 
 #### SECTION 1 — Powers of entry
 
@@ -235,12 +235,12 @@ and if, where sub-paragraph (b) applies, the authorised person cannot after reas
 
 the appropriate authority; may indemnify the authorised person against the whole or part of any damages and costs which that person may be ordered to pay or may have incurred.
 
-**9A.**[^key-f3d3d6f45708c7a6744284b6a81a5371] The powers of an authorised person acting on behalf of the Office of Rail Regulation *(affected by repeal, see note)*[^key-68db6c629f6b17112709f79034309141] the Office of Rail and Road —
+**9A.**[^c-f3d3d6f45708c7a6744284b6a81a5371] The powers of an authorised person acting on behalf of the Office of Rail Regulation *(affected by repeal, see note)*[^c-68db6c629f6b17112709f79034309141] the Office of Rail and Road —
 
 - (a) do not include the powers in paragraph 1(m) or (n);
 - (b) only apply in relation to non-domestic premises.
 
-**9B.**[^key-39c4c84b394c94db0546b803ae9f3349] For the purposes of this section of this Schedule “the appropriate authority” means—
+**9B.**[^c-39c4c84b394c94db0546b803ae9f3349] For the purposes of this section of this Schedule “the appropriate authority” means—
 
 - (a) in Great Britain—
   - (i) in relation to a relevant nuclear site, the Office for Nuclear Regulation;
@@ -302,7 +302,7 @@ the authorised person may serve on that person an improvement notice.
 
 **19.** References in this Part to a “prohibition notice”, an “improvement notice” or an “enforcement notice” have effect only for the purposes of this Part and Part 2 of Schedule 8.
 
-**20.**[^key-e8cdc65c18e26a4d30adbc0cb667fb62] This section does not apply to an authorised person acting on behalf of the Office of Rail Regulation *(affected by repeal, see note)*[^key-68db6c629f6b17112709f79034309141] the Office of Rail and Road.
+**20.**[^c-e8cdc65c18e26a4d30adbc0cb667fb62] This section does not apply to an authorised person acting on behalf of the Office of Rail Regulation *(affected by repeal, see note)*[^c-68db6c629f6b17112709f79034309141] the Office of Rail and Road.
 
 ### PART 3 — Local (consumer safety) authorities
 
@@ -534,31 +534,31 @@ and an order so made may contain such provision as appears to the court to be ap
 
 ## Annotations
 
-[^key-9717a8fa57064572231e3c89ef986a10]: Textual amendment: Words in Sch. 6 Pt. 1 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 307](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/307) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9717a8fa57064572231e3c89ef986a10]: Textual amendment: Words in Sch. 6 Pt. 1 inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 307](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/307) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^f00059]: Footnote: [1954 c.32](https://www.legislation.gov.uk/ukpga/1954/32).
 
-[^key-824fbbe7d033f451f1ccad00ba706dc0]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/6/part/1/paragraph/4) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/57)
+[^c-824fbbe7d033f451f1ccad00ba706dc0]: Textual amendment: Words in [Sch. 6 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/2008/2852/schedule/6/part/1/paragraph/4) substituted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/57)
 
-[^key-5fd08d8497ff8e1d53b1c8153a130ccc1]: Extent: This version of this provision extends to E+W+S+NI+ only. A new version of this provision has been created for
+[^c-5fd08d8497ff8e1d53b1c8153a130ccc1]: Extent: This version of this provision extends to E+W+S+NI+ only. A new version of this provision has been created for
 
-[^key-74d4584fd1f5eaaed2edfdd9f1958cec]: Textual amendment: Words in Sch. 6 Pt. 2 heading inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(a)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/a)
+[^c-74d4584fd1f5eaaed2edfdd9f1958cec]: Textual amendment: Words in Sch. 6 Pt. 2 heading inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(a)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/a)
 
-[^key-5fd08d8497ff8e1d53b1c8153a130ccc]: Textual amendment: Words in Sch. 6 Pt. 2 heading substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8)
+[^c-5fd08d8497ff8e1d53b1c8153a130ccc]: Textual amendment: Words in Sch. 6 Pt. 2 heading substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8)
 
-[^key-df255a696c3e518aaa7f82e05cb3be62]: Textual amendment: Words in Sch. 6 Pt. 2 heading inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 140(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/140/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-df255a696c3e518aaa7f82e05cb3be62]: Textual amendment: Words in Sch. 6 Pt. 2 heading inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 140(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/140/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^M_F_7e91b704-30ad-4ae3-c975-0bfcb0366958]: Textual amendment: Words in Sch. 6 Pt. 2 para. 9 substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 140 (3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/133) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-f3d3d6f45708c7a6744284b6a81a5371]: Textual amendment: Sch. 6 Pt. 2 para. 9A inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(b)(i)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/b/i)
+[^c-f3d3d6f45708c7a6744284b6a81a5371]: Textual amendment: Sch. 6 Pt. 2 para. 9A inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(b)(i)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/b/i)
 
-[^key-68db6c629f6b17112709f79034309141]: Textual amendment: Words in Sch. 6 Pt. 2 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8/g)
+[^c-68db6c629f6b17112709f79034309141]: Textual amendment: Words in Sch. 6 Pt. 2 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8/g)
 
-[^key-39c4c84b394c94db0546b803ae9f3349]: Textual amendment: Sch. 6 Pt. 2 para. 9B inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 140(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/140/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-39c4c84b394c94db0546b803ae9f3349]: Textual amendment: Sch. 6 Pt. 2 para. 9B inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 140(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/140/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^M_F_778a4b1d-8514-48ab-dec7-f1f17b06f308]: Textual amendment: Sch. 6 Pt. 2 para. 10 omitted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/b/i)
 
-[^key-e8cdc65c18e26a4d30adbc0cb667fb62]: Textual amendment: Sch. 6 Pt. 2 para. 20 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(c)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/c)
+[^c-e8cdc65c18e26a4d30adbc0cb667fb62]: Textual amendment: Sch. 6 Pt. 2 para. 20 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [12(c)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/12/c)
 
 [^f00061]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2).
 

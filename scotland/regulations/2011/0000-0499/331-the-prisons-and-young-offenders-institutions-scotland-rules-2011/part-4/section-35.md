@@ -42,8 +42,8 @@ summary: ''
 - (a) subject to sub-paragraph (b) the Governor must seek to comply with paragraphs (1) and (3) so far as reasonably practicable; and
 - (b) where the exceptional circumstances or temporary lack of facilities persist for more than 48 hours, the Scottish Ministers may by direction provide that paragraphs (1) and (3) apply in relation to prisoners (or categories of prisoners) in that prison subject to such restrictions as the Scottish Ministers consider appropriate but only for a period not exceeding one month.
 
-(6)[^key-7390b547e76b4a9877bf8ea0f37e72c3] This rule does not apply to prisons, categories of prisons or parts of prisons specified by the Scottish Ministers in a direction under rule 35B(1) (prisoners’ food and drink: preparation of meals by prisoner for own consumption).
+(6)[^c-7390b547e76b4a9877bf8ea0f37e72c3] This rule does not apply to prisons, categories of prisons or parts of prisons specified by the Scottish Ministers in a direction under rule 35B(1) (prisoners’ food and drink: preparation of meals by prisoner for own consumption).
 
 ## Annotations
 
-[^key-7390b547e76b4a9877bf8ea0f37e72c3]: Textual amendment: [Rule 35(6)](https://www.legislation.gov.uk/ssi/2011/331/rule/35/6) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/2)
+[^c-7390b547e76b4a9877bf8ea0f37e72c3]: Textual amendment: [Rule 35(6)](https://www.legislation.gov.uk/ssi/2011/331/rule/35/6) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/2)

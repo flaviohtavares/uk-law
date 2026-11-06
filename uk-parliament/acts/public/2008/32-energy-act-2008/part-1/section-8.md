@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Offence to carry on unlicensed activities[^key-2085ec210ee01aeed4178ddffe21f7a7]
+## 8. Offence to carry on unlicensed activities[^c-2085ec210ee01aeed4178ddffe21f7a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2085ec210ee01aeed4178ddffe21f7a7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2008/32/section/8) in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/2809/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-2085ec210ee01aeed4178ddffe21f7a7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2008/32/section/8) in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2009/2809/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))

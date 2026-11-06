@@ -36,10 +36,10 @@ which can be done or exercised by two justices, apart from granting or transferr
 
 (3) Any enactment making provision ancillary to the jurisdiction exercisable by two justices of the peace also applies to the jurisdiction of a District Judge (Magistrates' Courts), unless the provision relates to granting or transferring a licence.
 
-(4)[^key-0e25485af97ba43be9d413b0b9ec9f31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0e25485af97ba43be9d413b0b9ec9f31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) “**The 1980 Act**” means the Magistrates' Courts Act 1980 (c. 43).
 
 ## Annotations
 
-[^key-0e25485af97ba43be9d413b0b9ec9f31]: Textual amendment: S. 26(4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0e25485af97ba43be9d413b0b9ec9f31]: Textual amendment: S. 26(4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

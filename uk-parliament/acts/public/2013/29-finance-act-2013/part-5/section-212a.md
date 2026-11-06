@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212A. Penalty[^key-b9f54968bb60e8d099d118e50dadf896]
+## 212A. Penalty[^c-b9f54968bb60e8d099d118e50dadf896]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - (b) a tax document has been given to HMRC on the basis that the tax advantage arises to P from those arrangements,
 - (c) that document was given to HMRC—
   - (i) by P, or
-  - (ii) by another person in circumstances where P knew, or ought to have known, that the other person gave the document on the basis mentioned in paragraph (b)[^key-06b66464d92776a40982985fb1375314], and
+  - (ii) by another person in circumstances where P knew, or ought to have known, that the other person gave the document on the basis mentioned in paragraph (b)[^c-06b66464d92776a40982985fb1375314], and
 - (d) the tax advantage has been counteracted by the making of adjustments under section 209.
 
 (2) The penalty is 60% of the value of the counteracted advantage.
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f54968bb60e8d099d118e50dadf896]: Textual amendment: S. 212A inserted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/2)
+[^c-b9f54968bb60e8d099d118e50dadf896]: Textual amendment: S. 212A inserted (15.9.2016) (with effect in accordance with s. 158(15) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/158/2)
 
-[^key-06b66464d92776a40982985fb1375314]: Textual amendment: Words in s. 212A(1)(c)(ii) substituted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/7)
+[^c-06b66464d92776a40982985fb1375314]: Textual amendment: Words in s. 212A(1)(c)(ii) substituted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/7)

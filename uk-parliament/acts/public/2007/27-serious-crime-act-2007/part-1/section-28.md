@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Powers to wind up companies etc: Northern Ireland[^key-4ea2b7308b08b30631c358185c136649]
+## 28. Powers to wind up companies etc: Northern Ireland[^c-4ea2b7308b08b30631c358185c136649]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order; and
 - (b) the Director of Public Prosecutions for Northern Ireland considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.
 
-(1A)[^key-bf68f1dc3d1977f07223781a94b51f4b] The Chief Constable of the Police Service of Northern Ireland may present a petition to the court for the winding up of a company, partnership or relevant body if—
+(1A)[^c-bf68f1dc3d1977f07223781a94b51f4b] The Chief Constable of the Police Service of Northern Ireland may present a petition to the court for the winding up of a company, partnership or relevant body if—
 
 - (a) the company, partnership or relevant body has been convicted of an offence under section 25 in relation to a serious crime prevention order that was made on the application of the Chief Constable; and
 - (b) the Chief Constable considers that it would be in the public interest for the company, partnership or (as the case may be) relevant body to be wound up.
@@ -37,7 +37,7 @@ summary: ''
 
 as it applies in relation to a petition under Article 104A of the Order of 1989 for the winding up of a company and the company's winding up (winding up on grounds of public interest) but subject to the modifications in subsections (3) and (4).
 
-(3) Article 104(5)(b) of the Order of 1989 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by the Director of Public Prosecutions for Northern Ireland or the Chief Constable of the Police Service of Northern Ireland[^key-a59f01b2db3b6257f464d66cc057443b].
+(3) Article 104(5)(b) of the Order of 1989 (application for winding up) applies in relation to a petition under this section as if it permits the petition to be presented by the Director of Public Prosecutions for Northern Ireland or the Chief Constable of the Police Service of Northern Ireland[^c-a59f01b2db3b6257f464d66cc057443b].
 
 (4) The court may make an order under Article 105 of the Order of 1989 (powers of court on hearing of petition) to wind up the company only if—
 
@@ -66,8 +66,8 @@ as it applies in relation to a petition under Article 104A of the Order of 1989 
 
 - “**appropriate Minister**” means—
   - (a) in relation to a relevant body falling within paragraph (a) or (b) of the definition of “relevant body” below, the Treasury; and
-  - (b) in relation to any other relevant body, the Department of Justice in Northern Ireland[^key-03da71cc327fab6f2eab2ac8e7420a22];
-- “company” means—[^key-f8eb4fb844a947c1b656dd72921c2929]
+  - (b) in relation to any other relevant body, the Department of Justice in Northern Ireland[^c-03da71cc327fab6f2eab2ac8e7420a22];
+- “company” means—[^c-f8eb4fb844a947c1b656dd72921c2929]
   - (a) a company registered under the Companies Act 2006 in Northern Ireland, or
   - (b) an unregistered company within the meaning of Part 6 of the Insolvency (Northern Ireland) Order 1989 (see Article 184 of that Order),
 - “ **the court** ” means the High Court in Northern Ireland;
@@ -78,20 +78,20 @@ as it applies in relation to a petition under Article 104A of the Order of 1989 
   - (b) an incorporated friendly society (within the meaning of the Friendly Societies Act 1992 (c. 40));
   - (c) an industrial and provident society;
   - (d) a limited liability partnership; or
-  - (e) such other description of person as may be specified by order made by the Department of Justice in Northern Ireland[^key-09187c719cebdf37452e663a64e8488a];
+  - (e) such other description of person as may be specified by order made by the Department of Justice in Northern Ireland[^c-09187c719cebdf37452e663a64e8488a];
 
 and the references to Articles 104 to 105 of the Insolvency (Northern Ireland) Order 1989 ( S.I. 1989/2405 (N.I.19)) include references to those Articles as applied by Article 185(1) of that Order (unregistered companies).
 
 ## Annotations
 
-[^key-4ea2b7308b08b30631c358185c136649]: Commencement: S. 28 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755) , [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-4ea2b7308b08b30631c358185c136649]: Commencement: S. 28 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755) , [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
 
-[^key-bf68f1dc3d1977f07223781a94b51f4b]: Textual amendment: S. 28(1A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 9(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/9/2)
+[^c-bf68f1dc3d1977f07223781a94b51f4b]: Textual amendment: S. 28(1A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 9(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/9/2)
 
-[^key-a59f01b2db3b6257f464d66cc057443b]: Textual amendment: Words in s. 28(3) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 9(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/9/3)
+[^c-a59f01b2db3b6257f464d66cc057443b]: Textual amendment: Words in s. 28(3) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(t)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/t), [Sch. 12 para. 9(3)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/12/paragraph/9/3)
 
-[^key-03da71cc327fab6f2eab2ac8e7420a22]: Textual amendment: Words in s. 28(11) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 10 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/10/paragraph/5/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-03da71cc327fab6f2eab2ac8e7420a22]: Textual amendment: Words in s. 28(11) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 10 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/10/paragraph/5/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-f8eb4fb844a947c1b656dd72921c2929]: Textual amendment: Words in s. 28(11) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2) , [Sch. 1 para. 265(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/265/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
+[^c-f8eb4fb844a947c1b656dd72921c2929]: Textual amendment: Words in s. 28(11) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2) , [Sch. 1 para. 265(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/265/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
 
-[^key-09187c719cebdf37452e663a64e8488a]: Textual amendment: Words in s. 28(11) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 10 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/10/paragraph/5/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-09187c719cebdf37452e663a64e8488a]: Textual amendment: Words in s. 28(11) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [Sch. 10 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/10/paragraph/5/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

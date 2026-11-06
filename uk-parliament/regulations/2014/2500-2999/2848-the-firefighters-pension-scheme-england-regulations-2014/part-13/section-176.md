@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Forfeiture and set-off: procedure[^key-fec2d70484048e105825f8f856345cf1]
+## 176. Forfeiture and set-off: procedure[^c-fec2d70484048e105825f8f856345cf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec2d70484048e105825f8f856345cf1]: Commencement: [Reg. 176](https://www.legislation.gov.uk/uksi/2014/2848/regulation/176) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-fec2d70484048e105825f8f856345cf1]: Commencement: [Reg. 176](https://www.legislation.gov.uk/uksi/2014/2848/regulation/176) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

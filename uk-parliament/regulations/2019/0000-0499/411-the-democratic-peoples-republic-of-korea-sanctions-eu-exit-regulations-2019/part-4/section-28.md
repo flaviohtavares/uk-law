@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Transfers of funds etc.[^key-b20bab7793a23a95fc6c2274640fc476][^key-ec5b2d167ce5fc9c66cfbc60b38721b3]
+## 28. Transfers of funds etc.[^c-b20bab7793a23a95fc6c2274640fc476][^c-ec5b2d167ce5fc9c66cfbc60b38721b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b20bab7793a23a95fc6c2274640fc476]: Commencement: Reg. 28 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-b20bab7793a23a95fc6c2274640fc476]: Commencement: Reg. 28 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-ec5b2d167ce5fc9c66cfbc60b38721b3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/411/regulation/28) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec5b2d167ce5fc9c66cfbc60b38721b3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2019/411/regulation/28) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

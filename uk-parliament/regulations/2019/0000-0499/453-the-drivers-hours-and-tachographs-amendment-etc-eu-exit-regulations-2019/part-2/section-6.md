@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.[^key-f65c3a4275d82afef8bbf93aaf774034]
+## 6.[^c-f65c3a4275d82afef8bbf93aaf774034]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 97AA(1) [^c23620601], after “97” insert “ or 97ZA ”.
 
 ## Annotations
 
-[^key-f65c3a4275d82afef8bbf93aaf774034]: Commencement: Reg. 6 in force at 26.3.2019, see reg. 1(2)
+[^c-f65c3a4275d82afef8bbf93aaf774034]: Commencement: Reg. 6 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620601]: Marginal citation: Section 97AA was inserted by [S.I. 1989/2121](https://www.legislation.gov.uk/uksi/1989/2121).

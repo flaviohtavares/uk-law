@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Default powers.[^c2460301][^c2460311][^key-fc0cb98d13425a603f1e606462cdeeb1][^key-09104706b3bc64aaaa1cda730071fe91][^key-bb493900ca7358800ef180f0642de4cb][^key-a3162c66cac667e5ba707de6822eed49][^key-bd1ae396643a865194d9174c1cf96232]
+## 97. Default powers.[^c2460301][^c2460311][^c-fc0cb98d13425a603f1e606462cdeeb1][^c-09104706b3bc64aaaa1cda730071fe91][^c-bb493900ca7358800ef180f0642de4cb][^c-a3162c66cac667e5ba707de6822eed49][^c-bd1ae396643a865194d9174c1cf96232]
 
 *Extent: E+W+S*
 
@@ -50,12 +50,12 @@ summary: ''
 
     S. 97 modified (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-fc0cb98d13425a603f1e606462cdeeb1]: Modification: S. 97 modified (E.) (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
+[^c-fc0cb98d13425a603f1e606462cdeeb1]: Modification: S. 97 modified (E.) (6.4.2010) by [The Southampton Port Health Authority Order 2010 (S.I. 2010/1218)](https://www.legislation.gov.uk/uksi/2010/1218), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1218/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1218/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1218/schedule)
 
-[^key-09104706b3bc64aaaa1cda730071fe91]: Modification: S. 97 modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
+[^c-09104706b3bc64aaaa1cda730071fe91]: Modification: S. 97 modified (E.) (6.4.2010) by [The Bristol Port Health Authority Order 2010 (S.I. 2010/1214)](https://www.legislation.gov.uk/uksi/2010/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1214/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1214/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1214/schedule)
 
-[^key-bb493900ca7358800ef180f0642de4cb]: Modification: S. 97 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-bb493900ca7358800ef180f0642de4cb]: Modification: S. 97 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
-[^key-a3162c66cac667e5ba707de6822eed49]: Modification: S. 97 modified (E.) (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
+[^c-a3162c66cac667e5ba707de6822eed49]: Modification: S. 97 modified (E.) (6.4.2010) by [The Cornwall Port Health Authority Order 2010 (S.I. 2010/1215)](https://www.legislation.gov.uk/uksi/2010/1215), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1215/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1215/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1215/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2010/1215/article/2))
 
-[^key-bd1ae396643a865194d9174c1cf96232]: Modification: S. 97 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-bd1ae396643a865194d9174c1cf96232]: Modification: S. 97 modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)

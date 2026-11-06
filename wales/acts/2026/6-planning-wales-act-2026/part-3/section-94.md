@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Conditions of outline planning permission[^key-0f5a4c0f97bd458fb7219f302d263925]
+## 94. Conditions of outline planning permission[^c-0f5a4c0f97bd458fb7219f302d263925]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ the outline planning permission is to be treated as having been granted subject 
 
 ## Annotations
 
-[^key-0f5a4c0f97bd458fb7219f302d263925]: Commencement: S. 94 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0f5a4c0f97bd458fb7219f302d263925]: Commencement: S. 94 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

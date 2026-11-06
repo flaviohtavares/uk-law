@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The General Teaching Council for Wales (Disciplinary Functions) (Amendment) Regulations 2012 (revoked)[^key-1479d395acc1d9bfef36e0046848e980]
+The General Teaching Council for Wales (Disciplinary Functions) (Amendment) Regulations 2012 (revoked)[^c-1479d395acc1d9bfef36e0046848e980]
 
 Made
 
@@ -43,24 +43,24 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-1479d395acc1d9bfef36e0046848e980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1479d395acc1d9bfef36e0046848e980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-1479d395acc1d9bfef36e0046848e980]
+## 1. Title and commencement[^c-1479d395acc1d9bfef36e0046848e980]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the General Teaching Council for Wales (Disciplinary Functions) Regulations 2001[^key-1479d395acc1d9bfef36e0046848e980]
+## 2. Amendment of the General Teaching Council for Wales (Disciplinary Functions) Regulations 2001[^c-1479d395acc1d9bfef36e0046848e980]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1479d395acc1d9bfef36e0046848e980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1479d395acc1d9bfef36e0046848e980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1479d395acc1d9bfef36e0046848e980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1479d395acc1d9bfef36e0046848e980]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1479d395acc1d9bfef36e0046848e980]: Textual amendment: Regulations revoked (1.4.2015) by [The Education Workforce Council (Main Functions) (Wales) Regulations 2015 (S.I. 2015/140)](https://www.legislation.gov.uk/uksi/2015/140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/140/regulation/1/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2015/140/schedule/1/part/1)
+[^c-1479d395acc1d9bfef36e0046848e980]: Textual amendment: Regulations revoked (1.4.2015) by [The Education Workforce Council (Main Functions) (Wales) Regulations 2015 (S.I. 2015/140)](https://www.legislation.gov.uk/uksi/2015/140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/140/regulation/1/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2015/140/schedule/1/part/1)

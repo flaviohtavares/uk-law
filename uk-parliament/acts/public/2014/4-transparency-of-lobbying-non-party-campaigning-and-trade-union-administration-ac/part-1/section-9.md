@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Notice to supply information[^c2201944][^key-e00dd36915886de7084b234ae4cf2472]
+## 9. Notice to supply information[^c2201944][^c-e00dd36915886de7084b234ae4cf2472]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c2201944]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/4/section/9) partly in force; [s. 9(3)](https://www.legislation.gov.uk/ukpga/2014/4/section/9/3) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-e00dd36915886de7084b234ae4cf2472]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/4/section/9) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-e00dd36915886de7084b234ae4cf2472]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/4/section/9) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

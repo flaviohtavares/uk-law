@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Consumer consultation[^key-030f81eb043485601db770b8add44cc7]
+## 16. Consumer consultation[^c-030f81eb043485601db770b8add44cc7]
 
 *Extent: E+W+S+N.I.*
 
 (1) It shall be the duty of OFCOM to establish and maintain effective arrangements for consultation about the carrying out of their functions with—
 
 - (a) consumers in the markets for the services and facilities in relation to which OFCOM have functions;
-- (b) consumers in the markets for apparatus used in connection with any such services or facilities (other than postal services)[^key-f7c078de3a8d3ceb145318fbadc048ff] ;
+- (b) consumers in the markets for apparatus used in connection with any such services or facilities (other than postal services)[^c-f7c078de3a8d3ceb145318fbadc048ff] ;
 - (c) consumers in the markets for directories capable of being used in connection with the use of an electronic communications network or electronic communications service.
 
 (2) The arrangements must include the establishment and maintenance of a panel of persons (in this Act referred to as “**the Consumer Panel**”) with the function of advising both—
@@ -35,9 +35,9 @@ summary: ''
 
 - (a) the provision of electronic communications networks;
 - (b) the provision and making available of the services and facilities mentioned in subsection (4);
-- (c) the supply of apparatus designed or adapted for use in connection with a service or facility mentioned in subsection (4)(a) to (e)[^key-9499cfa3d04858cdd77298991cf478cf] ;
+- (c) the supply of apparatus designed or adapted for use in connection with a service or facility mentioned in subsection (4)(a) to (e)[^c-9499cfa3d04858cdd77298991cf478cf] ;
 - (d) the supply of directories capable of being used in connection with the use of an electronic communications network or electronic communications service;
-- (e) the financial and other terms on which services or facilities mentioned in subsection (4)[^key-bee43c5dc4d47cec71d0542dc8982c79] are provided or made available, or on which such apparatus or such a directory is supplied;
+- (e) the financial and other terms on which services or facilities mentioned in subsection (4)[^c-bee43c5dc4d47cec71d0542dc8982c79] are provided or made available, or on which such apparatus or such a directory is supplied;
 - (f) standards of service, quality and safety for such services, facilities, apparatus and directories;
 - (g) the handling of complaints made by persons who are consumers in the markets for such services, facilities, apparatus or directories to the persons who provide the services or make the facilities available, or who are suppliers of the apparatus or directories;
 - (h) the resolution of disputes between such consumers and the persons who provide such services or make such facilities available, or who are suppliers of such apparatus or directories;
@@ -50,16 +50,16 @@ summary: ''
 - (a) electronic communications services;
 - (b) associated facilities;
 - (c) directory enquiry facilities;
-- (d) a service consisting in the supply of information for use in responding to directory enquiries or of an electronic programme guide; [^key-440a22045b2bd0f3a3b77cae8314ad48]...
-- (da)[^key-f1bc9602b3ecc070915c22ae467345c0] regulated services;
+- (d) a service consisting in the supply of information for use in responding to directory enquiries or of an electronic programme guide; [^c-440a22045b2bd0f3a3b77cae8314ad48]...
+- (da)[^c-f1bc9602b3ecc070915c22ae467345c0] regulated services;
 - (e) every service or facility not falling within any of the preceding paragraphs which is provided or made available to members of the public—
   - (i) by means of an electronic communications network; and
   - (ii) in pursuance of agreements entered into between the person by whom the service or facility is provided or made available and each of those members of the public.
-- (f)[^key-ebb01cf52faceacd75154b5b667f0733] postal services.
+- (f)[^c-ebb01cf52faceacd75154b5b667f0733] postal services.
 
 (5) The matters about which the Consumer Panel are to be able to give advice do not include any matter that concerns the contents of anything which is or may be broadcast or otherwise transmitted by means of electronic communications networks.
 
-(5A)[^key-b667b257c3b948aec252b5899dafbb96] As regards OFCOM’s functions under the Online Safety Act 2023 in relation to regulated services—
+(5A)[^c-b667b257c3b948aec252b5899dafbb96] As regards OFCOM’s functions under the Online Safety Act 2023 in relation to regulated services—
 
 - (a) the reference in subsection (5) to “the contents” of a thing includes a reference to specific pieces of online content, but
 - (b) subsection (5) is not to be read as preventing the Consumer Panel from being able to give advice about any matter that more generally concerns—
@@ -107,20 +107,20 @@ prepare a report on the carrying out of their functions in that period.
 - (a) as soon as practicable after its preparation is complete; and
 - (b) in such manner as they consider appropriate.
 
-(12A)[^key-c33cda9bc9c6d81ae5589b15314001ac] OFCOM’s report under paragraph 12 of the Schedule to the Office of Communications Act 2002 for each financial year must contain a statement by OFCOM about the arrangements for consultation that have been made in that year under this section, so far as the arrangements relate to regulated services.
+(12A)[^c-c33cda9bc9c6d81ae5589b15314001ac] OFCOM’s report under paragraph 12 of the Schedule to the Office of Communications Act 2002 for each financial year must contain a statement by OFCOM about the arrangements for consultation that have been made in that year under this section, so far as the arrangements relate to regulated services.
 
 (13) In this section—
 
 - “**domestic and small business consumer**” means a person who—
-  - (a) is a consumer in the market for services or facilities mentioned in subsection (4) or for apparatus designed or adapted for use in connection with a service or facility mentioned in subsection (4)(a) to (e)[^key-208e16e9166470d02e6535eb3a2abff2]; but
+  - (a) is a consumer in the market for services or facilities mentioned in subsection (4) or for apparatus designed or adapted for use in connection with a service or facility mentioned in subsection (4)(a) to (e)[^c-208e16e9166470d02e6535eb3a2abff2]; but
   - (b) is neither—
-    - (i) a communications provider or a person who makes associated facilities available or a provider of a regulated service[^key-c7942f2ef3cb0d9b80c5a586544411ee]; nor
+    - (i) a communications provider or a person who makes associated facilities available or a provider of a regulated service[^c-c7942f2ef3cb0d9b80c5a586544411ee]; nor
     - (ii) a person who is a consumer in the market in respect of an undertaking carried on by him for which more than ten individuals work (whether as employees or volunteers or otherwise);
 - “**electronic programme guide**” means a service which consists of—
   - (a) the listing or promotion, or both the listing and the promotion, of some or all of the programmes included in any one or more programme services the providers of which are or include persons other than the provider of the guide; and
   - (b) a facility for obtaining access, in whole or in part, to the programme service or services listed or promoted in the guide.
 
-(14)[^key-1b35830ce5becd421d1543b34b03a8c8] In this section the following terms have the same meaning as in the Online Safety Act 2023—
+(14)[^c-1b35830ce5becd421d1543b34b03a8c8] In this section the following terms have the same meaning as in the Online Safety Act 2023—
 
 - “**provider**”, in relation to a regulated service (see section 226 of that Act);
 - “**regulated service**” (see section 4 of that Act);
@@ -128,26 +128,26 @@ prepare a report on the carrying out of their functions in that period.
 
 ## Annotations
 
-[^key-030f81eb043485601db770b8add44cc7]: Commencement: S. 16 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-030f81eb043485601db770b8add44cc7]: Commencement: S. 16 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f7c078de3a8d3ceb145318fbadc048ff]: Textual amendment: Words in s. 16(1)(b) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f7c078de3a8d3ceb145318fbadc048ff]: Textual amendment: Words in s. 16(1)(b) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-9499cfa3d04858cdd77298991cf478cf]: Textual amendment: Words in s. 16(3)(c) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(3)(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/3/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9499cfa3d04858cdd77298991cf478cf]: Textual amendment: Words in s. 16(3)(c) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(3)(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/3/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-bee43c5dc4d47cec71d0542dc8982c79]: Textual amendment: Words in s. 16(3)(e) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/3/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-bee43c5dc4d47cec71d0542dc8982c79]: Textual amendment: Words in s. 16(3)(e) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/3/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-440a22045b2bd0f3a3b77cae8314ad48]: Textual amendment: Word in s. 16(4)(d) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(4)(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/4/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-440a22045b2bd0f3a3b77cae8314ad48]: Textual amendment: Word in s. 16(4)(d) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(4)(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/4/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-f1bc9602b3ecc070915c22ae467345c0]: Textual amendment: [S. 16(4)(da)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/4/da) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/2), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-f1bc9602b3ecc070915c22ae467345c0]: Textual amendment: [S. 16(4)(da)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/4/da) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/2), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
 
-[^key-ebb01cf52faceacd75154b5b667f0733]: Textual amendment: S. 16(4)(f) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/4/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-ebb01cf52faceacd75154b5b667f0733]: Textual amendment: S. 16(4)(f) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/4/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-b667b257c3b948aec252b5899dafbb96]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/5A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/3), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-b667b257c3b948aec252b5899dafbb96]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/5A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/3), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
 
-[^key-c33cda9bc9c6d81ae5589b15314001ac]: Textual amendment: [S. 16(12A)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/12A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/4), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-c33cda9bc9c6d81ae5589b15314001ac]: Textual amendment: [S. 16(12A)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/12A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/4), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
 
-[^key-208e16e9166470d02e6535eb3a2abff2]: Textual amendment: Words in s. 16(13) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(5)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/5); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-208e16e9166470d02e6535eb3a2abff2]: Textual amendment: Words in s. 16(13) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 59(5)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/59/5); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-c7942f2ef3cb0d9b80c5a586544411ee]: Textual amendment: Words in [s. 16(13)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/13) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(5)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/5), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-c7942f2ef3cb0d9b80c5a586544411ee]: Textual amendment: Words in [s. 16(13)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/13) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(5)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/5), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
 
-[^key-1b35830ce5becd421d1543b34b03a8c8]: Textual amendment: [S. 16(14)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/14) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(6)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/6), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-1b35830ce5becd421d1543b34b03a8c8]: Textual amendment: [S. 16(14)](https://www.legislation.gov.uk/ukpga/2003/21/section/16/14) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 155(6)](https://www.legislation.gov.uk/ukpga/2023/50/section/155/6), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

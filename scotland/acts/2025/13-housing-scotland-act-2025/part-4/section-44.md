@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Private residential tenancies: ending a joint tenancy[^key-abac2df4376a145e0ebab1aea26f47ea]
+## 44. Private residential tenancies: ending a joint tenancy[^c-abac2df4376a145e0ebab1aea26f47ea]
 
 *Extent: S*
 
-(1)[^key-00f9214f5284f20bad8752341bbb9894] The 2016 Act is modified as follows.
+(1)[^c-00f9214f5284f20bad8752341bbb9894] The 2016 Act is modified as follows.
 
 (2) In section 48 (tenant’s ability to bring tenancy to an end)—
 
@@ -50,7 +50,7 @@ summary: ''
   ,
 - (d) in subsection (4), for “subsections (1) and (3)” substitute “this section”.
 
-(3)[^key-00f9214f5284f20bad8752341bbb9894] After section 48 insert—
+(3)[^c-00f9214f5284f20bad8752341bbb9894] After section 48 insert—
 
 > **48A. Pre-notice to be given to other joint tenants**
 >
@@ -116,6 +116,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abac2df4376a145e0ebab1aea26f47ea]: Commencement: S. 44 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-abac2df4376a145e0ebab1aea26f47ea]: Commencement: S. 44 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-00f9214f5284f20bad8752341bbb9894]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/asp/2025/13/section/44/1)[(3)](https://www.legislation.gov.uk/asp/2025/13/section/44/3) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-00f9214f5284f20bad8752341bbb9894]: Commencement: [S. 44(1)](https://www.legislation.gov.uk/asp/2025/13/section/44/1)[(3)](https://www.legislation.gov.uk/asp/2025/13/section/44/3) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

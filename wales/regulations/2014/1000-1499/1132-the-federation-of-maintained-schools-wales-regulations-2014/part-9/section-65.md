@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Application of this Part[^key-b4dab4339d796048cf79808e35058555]
+## 65. Application of this Part[^c-b4dab4339d796048cf79808e35058555]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part does not apply in relation to head teacher and deputy head teacher sel
 
 ## Annotations
 
-[^key-b4dab4339d796048cf79808e35058555]: Commencement: Reg. 65 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-b4dab4339d796048cf79808e35058555]: Commencement: Reg. 65 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

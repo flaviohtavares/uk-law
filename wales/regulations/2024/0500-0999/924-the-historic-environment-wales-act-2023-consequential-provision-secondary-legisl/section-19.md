@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. The Noise Insulation (Railways and Other Guided Transport Systems) Regulations 1996[^key-bc8731b1efb694d19a55539b444c34a5]
+## 19. The Noise Insulation (Railways and Other Guided Transport Systems) Regulations 1996[^c-bc8731b1efb694d19a55539b444c34a5]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 12(3) of the Noise Insulation (Railways and Other Guided Transport
 
 ## Annotations
 
-[^key-bc8731b1efb694d19a55539b444c34a5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/924/regulation/19) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-bc8731b1efb694d19a55539b444c34a5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/924/regulation/19) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 1996/428](https://www.legislation.gov.uk/uksi/1996/428), to which there is an amendment not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Offences relating to independent schools[^key-9906e856a68b908d7dece44ff091c846]
+## 172. Offences relating to independent schools[^c-9906e856a68b908d7dece44ff091c846]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9906e856a68b908d7dece44ff091c846]: Commencement: S. 172 in force at 8.1.2007, see s. 188(2)
+[^c-9906e856a68b908d7dece44ff091c846]: Commencement: S. 172 in force at 8.1.2007, see s. 188(2)

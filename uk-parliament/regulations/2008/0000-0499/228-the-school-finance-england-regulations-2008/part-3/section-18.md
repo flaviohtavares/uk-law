@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Differential funding[^key-cc7887506145081015a5034239bcde77]
+## 18. Differential funding[^c-cc7887506145081015a5034239bcde77]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc7887506145081015a5034239bcde77]: Commencement: Reg. 18 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-cc7887506145081015a5034239bcde77]: Commencement: Reg. 18 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

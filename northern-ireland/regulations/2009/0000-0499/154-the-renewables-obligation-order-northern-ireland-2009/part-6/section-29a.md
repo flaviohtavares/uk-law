@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29A. Qualifying existing onshore wind stations and qualifying existing solar photovoltaic stations[^key-74a9c5cabc12b789cfdd254c6e6ecf1a]
+## 29A. Qualifying existing onshore wind stations and qualifying existing solar photovoltaic stations[^c-74a9c5cabc12b789cfdd254c6e6ecf1a]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74a9c5cabc12b789cfdd254c6e6ecf1a]: Textual amendment: [Arts. 29A](https://www.legislation.gov.uk/nisr/2009/154/article/29A), [29B](https://www.legislation.gov.uk/nisr/2009/154/article/29B) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [11](https://www.legislation.gov.uk/nisr/2011/169/article/11) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-74a9c5cabc12b789cfdd254c6e6ecf1a]: Textual amendment: [Arts. 29A](https://www.legislation.gov.uk/nisr/2009/154/article/29A), [29B](https://www.legislation.gov.uk/nisr/2009/154/article/29B) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [11](https://www.legislation.gov.uk/nisr/2011/169/article/11) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))

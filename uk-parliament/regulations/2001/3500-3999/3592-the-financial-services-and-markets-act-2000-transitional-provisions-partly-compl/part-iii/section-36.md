@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Notice of proposed directions under section 36 of the Building Societies Act[^key-0a511c5c7a5c84274f8982ff1416ba00]
+## 36. Notice of proposed directions under section 36 of the Building Societies Act[^c-0a511c5c7a5c84274f8982ff1416ba00]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ the notice has effect (subject to paragraph (3)) after commencement as if it wer
 
 ## Annotations
 
-[^key-0a511c5c7a5c84274f8982ff1416ba00]: Commencement: Art. 36 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-0a511c5c7a5c84274f8982ff1416ba00]: Commencement: Art. 36 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00018]: Footnote: Schedule 7A was inserted by the Building Societies Act 1997, Schedule 3.
 

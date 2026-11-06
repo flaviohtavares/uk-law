@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188. Other hearings without notice[^key-6f6f23dea1f9ee1f673eec9a05590d8d]
+## 188. Other hearings without notice[^c-6f6f23dea1f9ee1f673eec9a05590d8d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6f6f23dea1f9ee1f673eec9a05590d8d]: Commencement: Rule 188 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6f6f23dea1f9ee1f673eec9a05590d8d]: Commencement: Rule 188 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

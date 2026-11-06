@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20ZC. Effect of making an application for a return point exemption: person becoming a groceries retailer on or after 1st October 2027[^key-95eb930ea8cf162b2a8c623f54eff865]
+## 20ZC. Effect of making an application for a return point exemption: person becoming a groceries retailer on or after 1st October 2027[^c-95eb930ea8cf162b2a8c623f54eff865]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95eb930ea8cf162b2a8c623f54eff865]: Textual amendment: [Regs. 20ZA-20ZC](https://www.legislation.gov.uk/ssi/2020/154/regulation/20ZA) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [18](https://www.legislation.gov.uk/ssi/2025/188/regulation/18)
+[^c-95eb930ea8cf162b2a8c623f54eff865]: Textual amendment: [Regs. 20ZA-20ZC](https://www.legislation.gov.uk/ssi/2020/154/regulation/20ZA) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [18](https://www.legislation.gov.uk/ssi/2025/188/regulation/18)

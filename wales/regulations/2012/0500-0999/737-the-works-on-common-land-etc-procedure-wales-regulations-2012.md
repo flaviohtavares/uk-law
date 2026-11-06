@@ -43,11 +43,11 @@ Coming into force
 
 1 April 2012
 
-The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales as the appropriate national authority by sections 39(6), 40 and 59(1) of the Commons Act 2006[^f00001], and now exercisable by them[^f00002], make the following Regulations:[^key-e9d7880b21bba5c40bb19a7d3d57f54b]
+The Welsh Ministers, in exercise of the powers conferred on the National Assembly for Wales as the appropriate national authority by sections 39(6), 40 and 59(1) of the Commons Act 2006[^f00001], and now exercisable by them[^f00002], make the following Regulations:[^c-e9d7880b21bba5c40bb19a7d3d57f54b]
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-892d1fa376a176d567c4dde019f72be9]
+### 1. Title, commencement and application[^c-892d1fa376a176d567c4dde019f72be9]
 
 (1) The title of these Regulations is the Works on Common Land, etc. (Procedure) (Wales) Regulations 2012.
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 (3) These Regulations apply in relation to Wales.
 
-### 2. Scope and Interpretation[^key-6bc998599e89041e15c8271bab185af7]
+### 2. Scope and Interpretation[^c-6bc998599e89041e15c8271bab185af7]
 
 (1) In Part 2 of these Regulations—
 
@@ -76,7 +76,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
   - (b) where another person is the determining authority, the person who conducts a hearing, inquiry or site inspection;
 - “notice of application” (“*hysbysiad o gais*”) means a notice containing the details specified in regulation 7(2).
 
-### 3. Appointment of a person to exercise functions of the Welsh Ministers[^key-88a61646c83ee6d1bc78ba63a963be1c]
+### 3. Appointment of a person to exercise functions of the Welsh Ministers[^c-88a61646c83ee6d1bc78ba63a963be1c]
 
 (1) The Welsh Ministers may appoint a person to exercise any or all of their functions in relation to—
 
@@ -93,7 +93,7 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 (4) A notice under paragraph (3) will not affect the validity of anything done by the appointed person before the notice is given.
 
-### 4. Electronic communications[^key-94619797ff6c21d3beab7c8ff3bfaad4]
+### 4. Electronic communications[^c-94619797ff6c21d3beab7c8ff3bfaad4]
 
 Any requirement imposed by these Regulations for a person to send a notice or document to another person may be met by means of an electronic communication if—
 
@@ -102,7 +102,7 @@ Any requirement imposed by these Regulations for a person to send a notice or do
 
 ## PART 2 — Works on Common Land
 
-### 5. Application for consent to carry out restricted works[^key-f2e253d989b97d3882063d41fed6af92]
+### 5. Application for consent to carry out restricted works[^c-f2e253d989b97d3882063d41fed6af92]
 
 (1) An application to which this regulation applies must—
 
@@ -118,7 +118,7 @@ Any requirement imposed by these Regulations for a person to send a notice or do
 - (b) if appropriate, a plan or drawing of the proposed works; and
 - (c) if the land is registered common land, a copy of the relevant entry in the register of common land.
 
-### 6. Management of application[^key-ba9f3534c6703ad8ae1509712caef964]
+### 6. Management of application[^c-ba9f3534c6703ad8ae1509712caef964]
 
 (1) As soon as practicable after receiving an application, the determining authority must send an acknowledgement of receipt to the applicant, which must include—
 
@@ -143,7 +143,7 @@ and notify the applicant of that decision.
 
 (5) The determining authority may specify a time for complying with any directions given under this regulation.
 
-### 7. Publicising the application[^key-8b82753b217ff60c7e7ffd1975c20a54]
+### 7. Publicising the application[^c-8b82753b217ff60c7e7ffd1975c20a54]
 
 (1) Not later than seven days after making an application the applicant must—
 
@@ -180,7 +180,7 @@ and notify the applicant of that decision.
 
 (5) Where a notice is, without any fault or intention of the applicant, removed, obscured or defaced before the period of 28 days referred to in paragraph (1)(b) has elapsed, the applicant will be treated as having complied with the requirements of that paragraph if the applicant has taken reasonable steps to protect the notice and, if need be, replace it.
 
-### 8. Inspection and supply of copies of documents[^key-0ffee8ccf8366c8e7322c9010d8af76c]
+### 8. Inspection and supply of copies of documents[^c-0ffee8ccf8366c8e7322c9010d8af76c]
 
 (1) The applicant must ensure that copies of the application and the accompanying documents are available for inspection at the address specified in the notice of application for that purpose, at the times and dates specified in the notice of application.
 
@@ -192,7 +192,7 @@ and notify the applicant of that decision.
 
 (5) The determining authority may give a direction authorising other arrangements for the inspection or supply of copies of documents, if satisfied that the applicant cannot reasonably be expected to comply with the obligation in paragraph (2) or (4).
 
-### 9. Non-compliance[^key-6ef2161007792fc8f4ea333b67653427]
+### 9. Non-compliance[^c-6ef2161007792fc8f4ea333b67653427]
 
 If the applicant fails to comply with regulation 7 or 8, or with any directions given under regulation 6, the determining authority may—
 
@@ -200,7 +200,7 @@ If the applicant fails to comply with regulation 7 or 8, or with any directions 
 - (b) give directions to the applicant to remedy the non-compliance (and, if appropriate, extend the period allowed for making representations); or
 - (c) waive the non-compliance, if the determining authority is satisfied that it would be unreasonable to require compliance and no-one is likely to be prejudiced by the non-compliance.
 
-### 10. Representations[^key-48fd2e4449b2d8c96a407f1947452edf]
+### 10. Representations[^c-48fd2e4449b2d8c96a407f1947452edf]
 
 (1) Any person may send representations about the proposed works to the determining authority by the date specified in the notice of application.
 
@@ -221,7 +221,7 @@ If the applicant fails to comply with regulation 7 or 8, or with any directions 
 
 (6) The requirements in paragraphs (2) and (5) for a document to be signed are satisfied, in the case of a document sent by means of an electronic communication in accordance with these Regulations, by the person who is required to sign the document typing that person’s name or producing that person’s signature by computer or other mechanical means.
 
-### 11. Notice of hearing or inquiry[^key-36b7f14ceef4daa6827623bbe3bfeebd]
+### 11. Notice of hearing or inquiry[^c-36b7f14ceef4daa6827623bbe3bfeebd]
 
 (1) If the determining authority decides to hold a hearing or inquiry, it must ensure that a notice of hearing or inquiry is—
 
@@ -238,7 +238,7 @@ If the applicant fails to comply with regulation 7 or 8, or with any directions 
 
 (3) The date fixed for the start of the hearing or inquiry must not be less than six weeks after paragraph (1) has been complied with.
 
-### 12. Hearings and inquiries: general provisions[^key-319428ee7b59013ec6bfdb0cbea1ff8d]
+### 12. Hearings and inquiries: general provisions[^c-319428ee7b59013ec6bfdb0cbea1ff8d]
 
 (1) Subject to the following paragraphs of this regulation, and to regulations 13 and 15, the procedure at a hearing or inquiry is to be determined by the inspector.
 
@@ -267,7 +267,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) adjourn a hearing or inquiry to continue on another date;
 - (b) adjourn a hearing or inquiry to the site of the proposed works, and conduct part of the hearing or inquiry at that site in conjunction with a site inspection.
 
-### 13. Procedure at hearings[^key-69e4fb355c3ee4c99d1bf6a248c35dad]
+### 13. Procedure at hearings[^c-69e4fb355c3ee4c99d1bf6a248c35dad]
 
 (1) A hearing is to take the form of a discussion led by the inspector.
 
@@ -278,7 +278,7 @@ if the inspector considers it to be irrelevant or repetitious.
 
 (3) Cross-examination is not permitted unless the inspector decides that it is necessary to ensure a sufficient examination of the issues.
 
-### 14. Pre-inquiry meeting[^key-7850879208ef3a060d63db5e7296c420]
+### 14. Pre-inquiry meeting[^c-7850879208ef3a060d63db5e7296c420]
 
 (1) Where it has been decided to hold an inquiry, the inspector may, if the inspector considers it desirable, hold a pre-inquiry meeting to determine the matters to be addressed and the procedure to be followed at the inquiry.
 
@@ -300,7 +300,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) send the inspector a written statement of that evidence; and
 - (b) send a copy of that written statement to such other persons as the inspector may specify.
 
-### 15. Procedure at inquiries[^key-c802fd8b1a8c6e6acb5856c7fb2747a8]
+### 15. Procedure at inquiries[^c-c802fd8b1a8c6e6acb5856c7fb2747a8]
 
 (1) At the start of an inquiry, the inspector must—
 
@@ -315,7 +315,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) the written statement is to be treated as the person’s evidence, or as part of the person’s evidence; and
 - (b) other parties at the inquiry may cross-examine the person on the written statement.
 
-### 16. Site inspections[^key-ba323c379a1d60b01e2b68ce15b05f26]
+### 16. Site inspections[^c-ba323c379a1d60b01e2b68ce15b05f26]
 
 (1) Where an application is to be determined without a hearing or inquiry, the determining authority may at any time before determining the application appoint or assign an inspector to inspect the site of the proposed works and to provide a report.
 
@@ -327,7 +327,7 @@ if the inspector considers it to be irrelevant or repetitious.
 
 (5) The inspector is not required to postpone an inspection if the applicant or the applicant’s representative is not present at the appointed time.
 
-### 17. Changes of procedure[^key-ac0b9489cbb0086348a66795f899bb70]
+### 17. Changes of procedure[^c-ac0b9489cbb0086348a66795f899bb70]
 
 (1) Where the determining authority has notified the applicant that a hearing or inquiry is to be held in relation to an application, it may at any time before the conclusion of the hearing or inquiry decide—
 
@@ -336,7 +336,7 @@ if the inspector considers it to be irrelevant or repetitious.
 
 (2) The determining authority must consult the applicant before deciding to change the procedure for determining an application.
 
-### 18. Determination of application[^key-add1deff98d4107d05066dcc41da9677]
+### 18. Determination of application[^c-add1deff98d4107d05066dcc41da9677]
 
 (1) As soon as practicable after considering—
 
@@ -358,7 +358,7 @@ if the inspector considers it to be irrelevant or repetitious.
 
 (4) The determining authority must publish the decision, and the reasons for it, on an appropriate website.
 
-### 19. Application to vary or revoke modifications or conditions[^key-6f226a1cfc1de5909af83be1c4aab053]
+### 19. Application to vary or revoke modifications or conditions[^c-6f226a1cfc1de5909af83be1c4aab053]
 
 (1) Where a consent imposes modifications or conditions, any application under section 39(5) of the 2006 Act for those modifications or conditions to be varied or revoked must be made within 3 months of the date on which the applicant is notified of the decision to grant consent.
 
@@ -369,7 +369,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (c) describe the variation sought, and give reasons for it; and
 - (d) be signed by the applicant or the applicant’s representative.
 
-### 20. Action after receiving an application to revoke or vary modifications or conditions[^key-a46688d76aad53aa873213dfb7fbc30b]
+### 20. Action after receiving an application to revoke or vary modifications or conditions[^c-a46688d76aad53aa873213dfb7fbc30b]
 
 (1) On receiving an application referred to in regulation 19(1), the determining authority may—
 
@@ -381,7 +381,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) notify the applicant in writing of its decision and the reasons for it;
 - (b) publish the decision, and the reasons for it, on an appropriate website.
 
-### 21. Applications for consent to works on National Trust land[^key-766c651d1071ff4f34956ba36613afce]
+### 21. Applications for consent to works on National Trust land[^c-766c651d1071ff4f34956ba36613afce]
 
 (1) Regulations 5 to 18 apply in relation to an application under section 23(2) of the National Trust Act 1971[^f00005], as if it were an application under section 38(1) of the 2006 Act.
 
@@ -416,52 +416,52 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^f00002]: Footnote: The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e9d7880b21bba5c40bb19a7d3d57f54b]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2012/737) applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 10 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/10/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [50](https://www.legislation.gov.uk/wsi/2016/56/regulation/50))
+[^c-e9d7880b21bba5c40bb19a7d3d57f54b]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2012/737) applied (with modifications) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 10 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/10/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [50](https://www.legislation.gov.uk/wsi/2016/56/regulation/50))
 
-[^key-892d1fa376a176d567c4dde019f72be9]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-892d1fa376a176d567c4dde019f72be9]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-6bc998599e89041e15c8271bab185af7]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-6bc998599e89041e15c8271bab185af7]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
 [^f00003]: Footnote: [1971 c.vi](https://www.legislation.gov.uk/ukla/1971/6), as amended by paragraph 4 of Schedule 4 to the 2006 Act. Sections 39 and 40 of the 2006 Act apply in relation to an application under section 23(2) of the National Trust Act 1971 by virtue of section 23(2A) of that Act, as inserted by paragraph 4(3) of Schedule 4 to the 2006 Act.
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). The definition of “electronic communication” was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), Schedule 17, paragraph 158.
 
-[^key-88a61646c83ee6d1bc78ba63a963be1c]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-88a61646c83ee6d1bc78ba63a963be1c]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-94619797ff6c21d3beab7c8ff3bfaad4]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-94619797ff6c21d3beab7c8ff3bfaad4]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-f2e253d989b97d3882063d41fed6af92]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-f2e253d989b97d3882063d41fed6af92]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-ba9f3534c6703ad8ae1509712caef964]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-ba9f3534c6703ad8ae1509712caef964]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-8b82753b217ff60c7e7ffd1975c20a54]: Commencement: Reg. 7 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-8b82753b217ff60c7e7ffd1975c20a54]: Commencement: Reg. 7 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-0ffee8ccf8366c8e7322c9010d8af76c]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-0ffee8ccf8366c8e7322c9010d8af76c]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-6ef2161007792fc8f4ea333b67653427]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-6ef2161007792fc8f4ea333b67653427]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-48fd2e4449b2d8c96a407f1947452edf]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-48fd2e4449b2d8c96a407f1947452edf]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-36b7f14ceef4daa6827623bbe3bfeebd]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-36b7f14ceef4daa6827623bbe3bfeebd]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-319428ee7b59013ec6bfdb0cbea1ff8d]: Commencement: Reg. 12 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-319428ee7b59013ec6bfdb0cbea1ff8d]: Commencement: Reg. 12 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-69e4fb355c3ee4c99d1bf6a248c35dad]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-69e4fb355c3ee4c99d1bf6a248c35dad]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-7850879208ef3a060d63db5e7296c420]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-7850879208ef3a060d63db5e7296c420]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-c802fd8b1a8c6e6acb5856c7fb2747a8]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-c802fd8b1a8c6e6acb5856c7fb2747a8]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-ba323c379a1d60b01e2b68ce15b05f26]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-ba323c379a1d60b01e2b68ce15b05f26]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-ac0b9489cbb0086348a66795f899bb70]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-ac0b9489cbb0086348a66795f899bb70]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-add1deff98d4107d05066dcc41da9677]: Commencement: Reg. 18 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-add1deff98d4107d05066dcc41da9677]: Commencement: Reg. 18 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-6f226a1cfc1de5909af83be1c4aab053]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-6f226a1cfc1de5909af83be1c4aab053]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-a46688d76aad53aa873213dfb7fbc30b]: Commencement: Reg. 20 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-a46688d76aad53aa873213dfb7fbc30b]: Commencement: Reg. 20 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
-[^key-766c651d1071ff4f34956ba36613afce]: Commencement: Reg. 21 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
+[^c-766c651d1071ff4f34956ba36613afce]: Commencement: Reg. 21 in force at 1.4.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/737/regulation/1/2)
 
 [^f00005]: Footnote: [1971 c.vi](https://www.legislation.gov.uk/ukla/1971/6), as amended by paragraph 4 of Schedule 4 to the 2006 Act. Sections 39 and 40 of the 2006 Act apply in relation to an application under section 23(2) of the National Trust Act 1971 by virtue of section 23(2A) of that Act, as inserted by paragraph 4(3) of Schedule 4 to the 2006 Act.

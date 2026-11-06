@@ -29,8 +29,8 @@ summary: ''
 
 (3) In subsection (2)—
 
-- (a) “**company**” means a company formed and registered under the the Companies Act 2006[^key-a3a995d540d797324f3c6e9089763e6e] or a company to which any provisions of the Companies Acts (as defined in section 2(1) of that Act)[^key-484f432965ccf39b4c071b0f28ab3b90] apply as they apply to a company so formed and registered, and
-- (b) “**wholly-owned subsidiary**” has the meaning given by section 1159 of that Act[^key-6fd07b494ff3b727d0bdbcff1b6594ed] .
+- (a) “**company**” means a company formed and registered under the the Companies Act 2006[^c-a3a995d540d797324f3c6e9089763e6e] or a company to which any provisions of the Companies Acts (as defined in section 2(1) of that Act)[^c-484f432965ccf39b4c071b0f28ab3b90] apply as they apply to a company so formed and registered, and
+- (b) “**wholly-owned subsidiary**” has the meaning given by section 1159 of that Act[^c-6fd07b494ff3b727d0bdbcff1b6594ed] .
 
 (4) Where subsection (5) applies, the Secretary of State may give directions to a body—
 
@@ -68,11 +68,11 @@ be exercised separately.
 
 [^c1528656]: Modification: S. 27(1): transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-a3a995d540d797324f3c6e9089763e6e]: Textual amendment: Words in s. 27(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 142(a)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/142/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-a3a995d540d797324f3c6e9089763e6e]: Textual amendment: Words in s. 27(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 142(a)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/142/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-484f432965ccf39b4c071b0f28ab3b90]: Textual amendment: Words in s. 27(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 142(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/142/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-484f432965ccf39b4c071b0f28ab3b90]: Textual amendment: Words in s. 27(3)(a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 142(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/142/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6fd07b494ff3b727d0bdbcff1b6594ed]: Textual amendment: Words in s. 27(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 142(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/142/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-6fd07b494ff3b727d0bdbcff1b6594ed]: Textual amendment: Words in s. 27(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 142(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/142/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1528659]: Marginal citation: [1991 c. 24](https://www.legislation.gov.uk/ukpga/1991/24).
 

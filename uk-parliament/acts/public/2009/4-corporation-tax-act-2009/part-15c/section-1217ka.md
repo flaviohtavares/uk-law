@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217KA. Amount of surrenderable loss[^key-8ee7e720cfeb865939dadc9ef1b64284]
+## 1217KA. Amount of surrenderable loss[^c-8ee7e720cfeb865939dadc9ef1b64284]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ RUL is the amount of any relevant unused loss of the company (see subsection (3)
 (3) The “relevant unused loss” of a company is so much of any available loss of the company for the previous accounting period as has not been—
 
 - (a) surrendered under section 1217K, or
-- (b) carried forward under section 45 or 45B[^key-af791b2516e5295470e5540140b53e06] of CTA 2010 and set against profits of the separate theatrical trade.
+- (b) carried forward under section 45 or 45B[^c-af791b2516e5295470e5540140b53e06] of CTA 2010 and set against profits of the separate theatrical trade.
 
 (4) For the first period of account during which the separate theatrical trade is carried on, the available qualifying expenditure is the amount that is E for that period for the purposes of section 1217J(2).
 
@@ -56,6 +56,6 @@ S is the total amount previously surrendered under section 1217K.
 
 ## Annotations
 
-[^key-8ee7e720cfeb865939dadc9ef1b64284]: Textual amendment: Pt. 15C inserted (17.7.2014 for specified purposes and with effect in accordance with Sch. 4 para. 16 of the amending Act, 22.8.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16); [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-8ee7e720cfeb865939dadc9ef1b64284]: Textual amendment: Pt. 15C inserted (17.7.2014 for specified purposes and with effect in accordance with Sch. 4 para. 16 of the amending Act, 22.8.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16); [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-af791b2516e5295470e5540140b53e06]: Textual amendment: Words in s. 1217KA(3)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 142](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/142)
+[^c-af791b2516e5295470e5540140b53e06]: Textual amendment: Words in s. 1217KA(3)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 142](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/142)

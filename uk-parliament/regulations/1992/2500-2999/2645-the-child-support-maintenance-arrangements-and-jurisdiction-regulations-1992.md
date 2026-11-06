@@ -57,11 +57,11 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 “Maintenance Assessment Procedure Regulations” means the Child Support (Maintenance Assessment Procedure) Regulations 1992;[^M_F_bf80ffd2-302f-4575-f1b6-1d3f00bf6c8c] *(affected by repeal, see note)*[^M_F_a8db4b06-becd-4caf-da10-930fbc0b370e]
 
-“[^key-43f50d6c9276316236ed671fde281a70] Maintenance Calculation Procedure Regulations *(affected by repeal, see note)*[^key-43f50d6c9276316236ed671fde281a70] ” means the Child Support (Maintenance Calculation Procedure) Regulations 2000; *(affected by repeal, see note)*[^key-43f50d6c9276316236ed671fde281a70]
+“[^c-43f50d6c9276316236ed671fde281a70] Maintenance Calculation Procedure Regulations *(affected by repeal, see note)*[^c-43f50d6c9276316236ed671fde281a70] ” means the Child Support (Maintenance Calculation Procedure) Regulations 2000; *(affected by repeal, see note)*[^c-43f50d6c9276316236ed671fde281a70]
 
 “Maintenance Assessments and Special Cases Regulations” means the Child Support (Maintenance Assessments and Special Cases) Regulations 1992 *(affected by repeal, see note)*[^M_F_7a33d8f9-afb0-433b-b8de-aeed1db32229] [^c1836030];
 
-"Maintenance Calculations and Special Cases Regulations *(affected by repeal, see note)*[^key-43f50d6c9276316236ed671fde281a70] ” means the Child Support (Maintenance Calculations and Special Cases) Regulations 2000; *(affected by repeal, see note)*[^key-43f50d6c9276316236ed671fde281a70]
+"Maintenance Calculations and Special Cases Regulations *(affected by repeal, see note)*[^c-43f50d6c9276316236ed671fde281a70] ” means the Child Support (Maintenance Calculations and Special Cases) Regulations 2000; *(affected by repeal, see note)*[^c-43f50d6c9276316236ed671fde281a70]
 
 “effective date” means the date on which a maintenance calculation[^M_F_8dd6bb7a-96d2-4da7-dbb7-ad68ac22698b] takes effect for the purposes of the Act;
 
@@ -123,7 +123,7 @@ The following enactments are prescribed for the purposes of section 8(11)(f) of 
 - (u) the Social Security Act 1986;
 - (v) Schedule 1 to the Children Act 1989 [^c1836036] ;
 - (w) the Social Security Administration Act 1992.
-- (x)[^key-ff30508391a13736a0ce774d042fa631] Schedule 5, 6 or 7 to the Civil Partnership Act 2004.
+- (x)[^c-ff30508391a13736a0ce774d042fa631] Schedule 5, 6 or 7 to the Civil Partnership Act 2004.
 
 (2) Subject to paragraphs (3) and (4), where a maintenance calculation[^M_F_265c6c29-66a6-45a8-ef09-fa3a1ddf81de] is made with respect to—
 
@@ -179,14 +179,14 @@ that agreement shall, so far as it relates to the making or securing of periodic
 
 - (a) a person with care;
 - (b) an non-resident parent[^M_F_9add0e7c-a351-4ac0-b0f3-4ad6df142d5b];
-- (c) a person who is treated as an non-resident parent[^M_F_c7a3e779-b1e5-4447-b9c9-1bef5ee47493] under regulation 50 of the Child Support Maintenance Calculation Regulations 2012[^key-1c0bb1aae6da48032c28515327a50d31];
+- (c) a person who is treated as an non-resident parent[^M_F_c7a3e779-b1e5-4447-b9c9-1bef5ee47493] under regulation 50 of the Child Support Maintenance Calculation Regulations 2012[^c-1c0bb1aae6da48032c28515327a50d31];
 - (d) a child who has made an application for a maintenance calculation[^M_F_e02f901a-9f8f-4add-9fed-04879340daab] under section 7 of the Act.
 
 (4) The prescribed person holding office in the court where the order in question was made or subsequently registered is—
 
 - (a) in England and Wales—
   - (i) in relation to the High Court, the senior district judge of the principal registry of the Family Division or, where proceedings were instituted in a district registry, the district judge;
-  - (ii)[^key-b48da7ca43a7c13c62ef7cac8311e89d] in relation to the family court, a court officer;
+  - (ii)[^c-b48da7ca43a7c13c62ef7cac8311e89d] in relation to the family court, a court officer;
 - (b) in Scotland—
   - (i) in relation to the Court of Session, the Deputy Principal Clerk of Session;
   - (ii) in relation to a sheriff court, the sheriff clerk.
@@ -199,12 +199,12 @@ that agreement shall, so far as it relates to the making or securing of periodic
 
 - (a) in England and Wales—
   - (i) in relation to the High Court, the senior district judge of the principal registry of the Family Division or, where proceedings were instituted in a district registry, the district judge;
-  - (ii)[^key-e511f9690a968bb87630ee6b7a1f35b0] in relation to the family court, a court officer;
+  - (ii)[^c-e511f9690a968bb87630ee6b7a1f35b0] in relation to the family court, a court officer;
 - (b) in Scotland—
   - (i) in relation to the Court of Session, the Deputy Principal Clerk of Session;
   - (ii) in relation to a sheriff court, the sheriff clerk.
 
-## 7. Cancellation of a maintenance assessment on grounds of lack of jurisdiction[^key-9f61f9bae8d592d8e0376945c647e47e]
+## 7. Cancellation of a maintenance assessment on grounds of lack of jurisdiction[^c-9f61f9bae8d592d8e0376945c647e47e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -215,15 +215,15 @@ that agreement shall, so far as it relates to the making or securing of periodic
 (2) The following bodies are prescribed for the purposes of section 44(2A)(d) of the Act (non-resident parents not habitually resident in the United Kingdom but employed by a prescribed body)—
 
 - (a) a National Health Service Trust established by order made under section 5 of the National Health Service and Community Care Act 1990 (“the 1990 Act ”) or under section 12A of the National Health Service (Scotland) Act 1978 (“the 1978 Act ”);
-- (aa)[^key-b43a8ac8b80f974963abbd462a42102f] an NHS foundation trust within the meaning of section 1(1) of the Health and Social Care (Community Health and Standards) Act 2003;
-- (ab)[^M_F_9595d677-ac0b-4522-fe9f-a2f79805b18d] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-82edd6f7d7ad046dbd835666f98edbe8];
-- (ac) NHS England[^key-d7e6382f2b2690d81185f9340a7bc72e];
+- (aa)[^c-b43a8ac8b80f974963abbd462a42102f] an NHS foundation trust within the meaning of section 1(1) of the Health and Social Care (Community Health and Standards) Act 2003;
+- (ab)[^M_F_9595d677-ac0b-4522-fe9f-a2f79805b18d] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-82edd6f7d7ad046dbd835666f98edbe8];
+- (ac) NHS England[^c-d7e6382f2b2690d81185f9340a7bc72e];
 - (ad) the National Institute for Health and Care Excellence;
-- (ae)[^key-5b381cbd01a4679b72690ecbf3513b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9658121ec628b6a83c2224ffc689ad5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ae)[^c-5b381cbd01a4679b72690ecbf3513b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9658121ec628b6a83c2224ffc689ad5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a Health Authority established under section 8 of the National Health Service Act 1977 (“the 1977 Act ”);
 - (d) a Special Health Authority established under section 11 of the 1977 Act ;
-- (da)[^key-cbe56804dbf54b13f13336ce09cb293f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (da)[^c-cbe56804dbf54b13f13336ce09cb293f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a local authority, and for this purpose “local authority” means, in relation to England, a county council, a district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly and, in relation to Wales, a county council or a county borough council and, in relation to Scotland, a council constituted under section 2 of the Local Government etc (Scotland) Act 1994;
 - (f) a Health and Social Service Trust established by order made under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991;
 - (g) a Health and Social Services Board established by order made under Article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972 (“the 1972 Order ”);
@@ -231,7 +231,7 @@ that agreement shall, so far as it relates to the making or securing of periodic
 - (i) a Special Agency established by order made under Article 3 of the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990;
 - (j) a Health Board constituted under section 2 of the 1978 Act ; and
 - (k) a Special Health Board constituted under section 2 of the 1978 Act.
-- (l)[^key-c5a1917eac0db27c53fd66c977c45913] Healthcare Improvement Scotland constituted under section 10A of the 1978 Act.
+- (l)[^c-c5a1917eac0db27c53fd66c977c45913] Healthcare Improvement Scotland constituted under section 10A of the 1978 Act.
 
 ## 8. Maintenance calculations and maintenance orders made in error[^M_F_32f6ddd7-5c77-4ef8-84a3-3bce9fa2b67b]
 
@@ -255,14 +255,14 @@ the payments of child support maintenance shall be treated as payments under the
 
 the payments under the maintenance order shall be treated as payments of child support maintenance and the maintenance calculation[^M_F_480e4c72-caa7-493e-d74d-c4673c01e123] shall be treated as not having been cancelled *(affected by repeal, see note)*[^M_F_bb77aa6f-70f3-409b-ad30-9bd54ba696c1] or, as the case may be,[^M_F_c49b7d87-cdac-4a10-c952-711745c0121e] *(affected by repeal, see note)*[^M_F_bb77aa6f-70f3-409b-ad30-9bd54ba696c1] as not having ceased to have effect.
 
-## 8A. Maintenance calculations and maintenance orders – payments[^key-9ed5b4e888c88958ec109dfe73883739]
+## 8A. Maintenance calculations and maintenance orders – payments[^c-9ed5b4e888c88958ec109dfe73883739]
 
 Where—
 
 - (a) a maintenance calculation has been made with respect to a qualifying child in response to an application made under section 4 or 7 of the Act;
 - (b) at the time that maintenance calculation was made a maintenance order was in force with respect to that child;
 - (c) the maintenance order has ceased to have effect by virtue of the provisions of regulation 3; and
-- (d) the non-resident parent has made payments of maintenance due under that order after the date on which the maintenance calculation took effect [^key-ad7b579c633b3e12a183b8eb1498a3fe]...,
+- (d) the non-resident parent has made payments of maintenance due under that order after the date on which the maintenance calculation took effect [^c-ad7b579c633b3e12a183b8eb1498a3fe]...,
 
 the payments made under the maintenance order shall be treated as payments of child support maintenance.
 
@@ -302,7 +302,7 @@ Regulation 8 provides for treating payments of child support maintenance as paym
 
 [^M_F_a8db4b06-becd-4caf-da10-930fbc0b370e]: Textual amendment: Words in reg. 1(2) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 3(1)(b) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
 
-[^key-43f50d6c9276316236ed671fde281a70]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/1/2) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/5/2)
+[^c-43f50d6c9276316236ed671fde281a70]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/1/2) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [5(2)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/5/2)
 
 [^M_F_7a33d8f9-afb0-433b-b8de-aeed1db32229]: Textual amendment: Words in reg. 1(2) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 3(1)(a) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
 
@@ -328,7 +328,7 @@ Regulation 8 provides for treating payments of child support maintenance as paym
 
 [^c1836036]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-ff30508391a13736a0ce774d042fa631]: Textual amendment: [Reg. 3(1)(x)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/3/1/x) added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-ff30508391a13736a0ce774d042fa631]: Textual amendment: [Reg. 3(1)(x)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/3/1/x) added (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2005/2877/schedule/4/paragraph/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^M_F_265c6c29-66a6-45a8-ef09-fa3a1ddf81de]: Textual amendment: Word in reg. 3(2) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 2(2) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), art. 3, Sch.
 
@@ -392,37 +392,37 @@ Regulation 8 provides for treating payments of child support maintenance as paym
 
 [^M_F_c7a3e779-b1e5-4447-b9c9-1bef5ee47493]: Textual amendment: Words in reg. 5(3)(c) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 2(1) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), art. 3, Sch.
 
-[^key-1c0bb1aae6da48032c28515327a50d31]: Textual amendment: Words in reg. 5(3)(c) substituted (10.12.2012 coming into force in accordance with reg. 1(4)) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/5/3)
+[^c-1c0bb1aae6da48032c28515327a50d31]: Textual amendment: Words in reg. 5(3)(c) substituted (10.12.2012 coming into force in accordance with reg. 1(4)) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/5/3)
 
 [^M_F_e02f901a-9f8f-4add-9fed-04879340daab]: Textual amendment: Word in reg. 5(3)(d) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 2(2) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), art. 3, Sch.
 
-[^key-b48da7ca43a7c13c62ef7cac8311e89d]: Textual amendment: Reg. 5(4)(a)(ii) substituted for reg. 5(4)(a)(ii) (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [27](https://www.legislation.gov.uk/uksi/2014/879/article/27)
+[^c-b48da7ca43a7c13c62ef7cac8311e89d]: Textual amendment: Reg. 5(4)(a)(ii) substituted for reg. 5(4)(a)(ii) (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [27](https://www.legislation.gov.uk/uksi/2014/879/article/27)
 
 [^M_F_d35c20ea-f2dd-46bc-9333-4ba0884087cc]: Textual amendment: Word in reg. 6(1) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 2(2) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), art. 3, Sch.
 
 [^M_F_60a9c939-b636-4b21-c6e5-ff344cf87353]: Textual amendment: Word in reg. 6(1) substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 2(2) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), art. 3, Sch.
 
-[^key-e511f9690a968bb87630ee6b7a1f35b0]: Textual amendment: Reg. 6(2)(a)(ii) substituted for reg. 6(2)(a)(ii) (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [27](https://www.legislation.gov.uk/uksi/2014/879/article/27)
+[^c-e511f9690a968bb87630ee6b7a1f35b0]: Textual amendment: Reg. 6(2)(a)(ii) substituted for reg. 6(2)(a)(ii) (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [27](https://www.legislation.gov.uk/uksi/2014/879/article/27)
 
-[^key-9f61f9bae8d592d8e0376945c647e47e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2645/regulation/7) omitted (4.12.2009) by virtue of [Child Support (Miscellaneous Amendments) (No.2) Regulations 2009 (S.I. 2009/2909)](https://www.legislation.gov.uk/uksi/2009/2909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2009/2909/regulation/2)
+[^c-9f61f9bae8d592d8e0376945c647e47e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2645/regulation/7) omitted (4.12.2009) by virtue of [Child Support (Miscellaneous Amendments) (No.2) Regulations 2009 (S.I. 2009/2909)](https://www.legislation.gov.uk/uksi/2009/2909), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2909/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2009/2909/regulation/2)
 
 [^M_F_3abd2dde-4efe-44b1-b083-a7356735e7de]: Textual amendment: Reg. 7A inserted (for specified purposes and with effect in accordance with reg. 1(3)(b) of [S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)) by ([Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(b), 8(3) (with reg. 10); (s. 22(3) in force for specified purposes at 10.11.2000 by [S.I. 2000/2994](https://www.legislation.gov.uk/uksi/2000/2994), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2994/article/2/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2000/2994/schedule/part/I); s. 22(3) in force for certain purposes at 31.1.2001 by [S.I. 2000/3354](https://www.legislation.gov.uk/uksi/2000/3354), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2000/3354/article/2/1/a))
 
-[^key-b43a8ac8b80f974963abbd462a42102f]: Textual amendment: Reg. 7A(2)(aa) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2004/696/schedule/1/paragraph/13)
+[^c-b43a8ac8b80f974963abbd462a42102f]: Textual amendment: Reg. 7A(2)(aa) inserted (1.4.2004) by [The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004 (S.I. 2004/696)](https://www.legislation.gov.uk/uksi/2004/696), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2004/696/article/1/1/b), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2004/696/schedule/1/paragraph/13)
 
 [^M_F_9595d677-ac0b-4522-fe9f-a2f79805b18d]: Textual amendment: Regs. 7A(2)(ab)-(ae) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/21/a)
 
-[^key-82edd6f7d7ad046dbd835666f98edbe8]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1992/2645) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-82edd6f7d7ad046dbd835666f98edbe8]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1992/2645) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-d7e6382f2b2690d81185f9340a7bc72e]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d7e6382f2b2690d81185f9340a7bc72e]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-5b381cbd01a4679b72690ecbf3513b35]: Textual amendment: [Reg. 7A(2)(ae)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/7A/2/ae) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-5b381cbd01a4679b72690ecbf3513b35]: Textual amendment: [Reg. 7A(2)(ae)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/7A/2/ae) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-9658121ec628b6a83c2224ffc689ad5b]: Textual amendment: Reg. 7A(2)(b) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/21/b)
+[^c-9658121ec628b6a83c2224ffc689ad5b]: Textual amendment: Reg. 7A(2)(b) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/21/b)
 
-[^key-cbe56804dbf54b13f13336ce09cb293f]: Textual amendment: Reg. 7A(2)(da) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 21(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/21/c)
+[^c-cbe56804dbf54b13f13336ce09cb293f]: Textual amendment: Reg. 7A(2)(da) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 21(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/21/c)
 
-[^key-c5a1917eac0db27c53fd66c977c45913]: Textual amendment: Reg. 7A(2)(l) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/19)
+[^c-c5a1917eac0db27c53fd66c977c45913]: Textual amendment: Reg. 7A(2)(l) inserted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/19)
 
 [^M_F_32f6ddd7-5c77-4ef8-84a3-3bce9fa2b67b]: Textual amendment: Word in reg. 8 heading substituted (coming into force and with effect for specified purposes on various dates in accordance with reg. 1(3)(d) of the amending S.I. and s. 26, Sch. 3 para. 11(19)(20) of [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19)) by Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations 2000, ([S.I. 2001/161](https://www.legislation.gov.uk/uksi/2001/161)), regs. 1(3)(d), 2(2) (with reg. 10); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), art. 3, Sch.
 
@@ -454,8 +454,8 @@ Regulation 8 provides for treating payments of child support maintenance as paym
 
 [^M_F_c49b7d87-cdac-4a10-c952-711745c0121e]: Textual amendment: Words in reg. 8(2) inserted (5.4.1993) by [Child Support (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/913)](https://www.legislation.gov.uk/uksi/1993/913), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/913/regulation/1/1), [46(b)(ii)](https://www.legislation.gov.uk/uksi/1993/913/regulation/46/b/ii)
 
-[^key-9ed5b4e888c88958ec109dfe73883739]: Textual amendment: Reg. 8A inserted (16.3.2005 for specified purposes) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2005/785/regulation/2)
+[^c-9ed5b4e888c88958ec109dfe73883739]: Textual amendment: Reg. 8A inserted (16.3.2005 for specified purposes) by [Child Support (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/785)](https://www.legislation.gov.uk/uksi/2005/785), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/785/regulation/1/2/b), [2](https://www.legislation.gov.uk/uksi/2005/785/regulation/2)
 
-[^key-ad7b579c633b3e12a183b8eb1498a3fe]: Textual amendment: Words in [reg. 8A(d)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/8A/d) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [5(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/5/4)
+[^c-ad7b579c633b3e12a183b8eb1498a3fe]: Textual amendment: Words in [reg. 8A(d)](https://www.legislation.gov.uk/uksi/1992/2645/regulation/8A/d) omitted (10.12.2012 coming into force in accordance with reg. 1(4)) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012 (S.I. 2012/2785)](https://www.legislation.gov.uk/uksi/2012/2785), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/4), [5(4)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/5/4)
 
 [^M_F_42390aaa-3a07-4c54-cf94-0278a3f4e59b]: Textual amendment: Reg. 9 added (22.1.1996) by [Child Support (Miscellaneous Amendments) (No. 2) Regulations 1995 (S.I. 1995/3261)](https://www.legislation.gov.uk/uksi/1995/3261), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1995/3261/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/1995/3261/regulation/14)

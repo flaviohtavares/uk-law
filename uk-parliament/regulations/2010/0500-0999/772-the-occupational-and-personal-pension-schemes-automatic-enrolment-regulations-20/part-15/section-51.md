@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Police members appointed other than under a contract of employment[^key-713166f0782ca61781dfca641063e1e6]
+## 51. Police members appointed other than under a contract of employment[^c-713166f0782ca61781dfca641063e1e6]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-713166f0782ca61781dfca641063e1e6]: Textual amendment: Pt. 15 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [7](https://www.legislation.gov.uk/uksi/2012/1257/regulation/7)
+[^c-713166f0782ca61781dfca641063e1e6]: Textual amendment: Pt. 15 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [7](https://www.legislation.gov.uk/uksi/2012/1257/regulation/7)

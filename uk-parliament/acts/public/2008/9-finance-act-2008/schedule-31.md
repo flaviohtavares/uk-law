@@ -70,7 +70,7 @@ Section 97
 
 **3.** In paragraph 16(2) of that Schedule (application of provisions about exchanges etc), after “14(5)” insert “ or (5A) (as appropriate) ”.
 
-**4.**[^key-46d626b151db40a3fde8052660861545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-46d626b151db40a3fde8052660861545] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Elections in respect of interest transferred to partnership
 
@@ -118,7 +118,7 @@ Section 97
 
 > - (d) at the time of the qualifying event, an election has not been made in respect of the land transfer under paragraph 12A.
 
-**9.**[^key-bd852b1e5678c2d711acae4d0d881a51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bd852b1e5678c2d711acae4d0d881a51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Transitional provision
 
@@ -134,6 +134,6 @@ Section 97
 
 ## Annotations
 
-[^key-46d626b151db40a3fde8052660861545]: Textual amendment: [Sch. 31 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/31/paragraph/4) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/iii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-46d626b151db40a3fde8052660861545]: Textual amendment: [Sch. 31 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/31/paragraph/4) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/iii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
-[^key-bd852b1e5678c2d711acae4d0d881a51]: Textual amendment: [Sch. 31 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/31/paragraph/9) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/iii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-bd852b1e5678c2d711acae4d0d881a51]: Textual amendment: [Sch. 31 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/31/paragraph/9) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/iii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

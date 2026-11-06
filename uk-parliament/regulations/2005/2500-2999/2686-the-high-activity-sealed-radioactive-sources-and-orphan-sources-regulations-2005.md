@@ -40,7 +40,7 @@ Coming into force
 
 20th October 2005
 
-The Secretary of State, being a Minister designated *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^key-ec222919b202740506509e6e833460f7] [^c1230935] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^key-ec222919b202740506509e6e833460f7] [^c1230936] in relation to the making of measures relating to basic safety standards for health protection of the general public and workers against the dangers of ionising radiation, in exercise of the powers conferred upon her by that section *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^key-ec222919b202740506509e6e833460f7] [^c1230937], makes the following Regulations: *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^key-ec222919b202740506509e6e833460f7]
+The Secretary of State, being a Minister designated *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^c-ec222919b202740506509e6e833460f7] [^c1230935] for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^c-ec222919b202740506509e6e833460f7] [^c1230936] in relation to the making of measures relating to basic safety standards for health protection of the general public and workers against the dangers of ionising radiation, in exercise of the powers conferred upon her by that section *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^c-ec222919b202740506509e6e833460f7] [^c1230937], makes the following Regulations: *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc3e916872b1e1222f2881f2c8ef5500] *(Extent: S)* *(affected by repeal, see note)*[^c-ec222919b202740506509e6e833460f7]
 
 ## 1. Citation, commencement and extent
 
@@ -56,19 +56,19 @@ The Secretary of State, being a Minister designated *(Extent: E+W)* *(affected b
 
 - “**the 1993 Act**” means the Radioactive Substances Act 1993 [^c1230938];
 - “**authorisation**” means an authorisation granted under section 13 or 14 of the 1993 Act;
-- “ *(Extent: N.I.)* *(affected by repeal, see note)*[^key-dbdc5d704a2ce2720c2f51f3a1d02d45]**the Basic Safety Standards Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^key-dbdc5d704a2ce2720c2f51f3a1d02d45]**” means Council Directive 96/29/EURATOM *(Extent: N.I.)* *(affected by repeal, see note)*[^key-dbdc5d704a2ce2720c2f51f3a1d02d45] [^c1230939] laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-dbdc5d704a2ce2720c2f51f3a1d02d45]
+- “ *(Extent: N.I.)* *(affected by repeal, see note)*[^c-dbdc5d704a2ce2720c2f51f3a1d02d45]**the Basic Safety Standards Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^c-dbdc5d704a2ce2720c2f51f3a1d02d45]**” means Council Directive 96/29/EURATOM *(Extent: N.I.)* *(affected by repeal, see note)*[^c-dbdc5d704a2ce2720c2f51f3a1d02d45] [^c1230939] laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-dbdc5d704a2ce2720c2f51f3a1d02d45]
 - “the Basic Safety Standards Directive” means Council *(Extent: N.I.)* [Directive 2013/59/EU *(Extent: N.I.)*](https://www.legislation.gov.uk/european/directive/2013/0059)RATOM laying down basic safety standards for protection against the dangers arising from the exposure to ionising radiation and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom; *(Extent: N.I.)*
 - “**existing high-activity source**” means a high-activity source first placed on the market on or before 31st December 2005;
-- “ *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cf89cedbb6ad27908c458f17b7107d8d]**the HASS Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cf89cedbb6ad27908c458f17b7107d8d]**” means Council Directive 2003/122/EURATOM *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cf89cedbb6ad27908c458f17b7107d8d] [^c1230940] on the control of high-activity sealed radioactive sources and orphan sources; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-cf89cedbb6ad27908c458f17b7107d8d]
-- “ *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8476108be3bb433ba8999c445b78e590]**high-activity source *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8476108be3bb433ba8999c445b78e590]**” has the same meaning as it has in the HASS Directive but excluding any such source once its activity level has fallen below the exemption levels specified in column 2 of Table A to Annex I to the Basic Safety Standards Directive; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-8476108be3bb433ba8999c445b78e590]
+- “ *(Extent: N.I.)* *(affected by repeal, see note)*[^c-cf89cedbb6ad27908c458f17b7107d8d]**the HASS Directive *(Extent: N.I.)* *(affected by repeal, see note)*[^c-cf89cedbb6ad27908c458f17b7107d8d]**” means Council Directive 2003/122/EURATOM *(Extent: N.I.)* *(affected by repeal, see note)*[^c-cf89cedbb6ad27908c458f17b7107d8d] [^c1230940] on the control of high-activity sealed radioactive sources and orphan sources; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-cf89cedbb6ad27908c458f17b7107d8d]
+- “ *(Extent: N.I.)* *(affected by repeal, see note)*[^c-8476108be3bb433ba8999c445b78e590]**high-activity source *(Extent: N.I.)* *(affected by repeal, see note)*[^c-8476108be3bb433ba8999c445b78e590]**” has the same meaning as it has in the HASS Directive but excluding any such source once its activity level has fallen below the exemption levels specified in column 2 of Table A to Annex I to the Basic Safety Standards Directive; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-8476108be3bb433ba8999c445b78e590]
 - “high-activity source” means a sealed source for which the activity of the contained radionuclide is equal to or exceeds the relevant activity value laid down in Annex *(Extent: N.I.)* III *(Extent: N.I.)* of the Basic Safety Standards Directive; *(Extent: N.I.)*
-- “orphan source” has the same meaning as in the Basic Safety Standards Directive; *(Extent: N.I.)*[^key-75eccdec4486962772acca475b99f03a]
+- “orphan source” has the same meaning as in the Basic Safety Standards Directive; *(Extent: N.I.)*[^c-75eccdec4486962772acca475b99f03a]
 - “**registration**” means a registration made under section 7 or 10 of the 1993 Act.
 - “sealed source” has the same meaning as in the Basic Safety Standards Directive; *(Extent: N.I.)*
 
 *Extent: N.I.*
 
-(1A)[^key-15bfa5f4687652cfe5784b714b80960f] Any reference to the “HASS Directive” in these regulations shall be deemed to be a reference to the Basic Safety Standards Directive.
+(1A)[^c-15bfa5f4687652cfe5784b714b80960f] Any reference to the “HASS Directive” in these regulations shall be deemed to be a reference to the Basic Safety Standards Directive.
 
 (2) Unless otherwise stated, expressions used that appear in the 1993 Act or the HASS Directive have the same meaning in these Regulations as they do in that Act or, as the case may be, that Directive.
 
@@ -114,7 +114,7 @@ that person shall apply to the appropriate Agency or the chief inspector under s
 
 (4) If a person fails to make an application in accordance with paragraph (3), his authorisation shall be revoked by the appropriate Agency or the chief inspector, so far as it relates to the high-activity source in question.
 
-## 4A. Exercise of the powers of the chief inspector[^key-49f68af755b642ea8e30ff7ee4165a0f]
+## 4A. Exercise of the powers of the chief inspector[^c-49f68af755b642ea8e30ff7ee4165a0f]
 
 *Extent: N.I.*
 
@@ -160,14 +160,14 @@ including matters relating to the security of sites where such material is held.
 
 ## 7. Records and inspections
 
-The appropriate Agency and the chief inspector shall— *(Extent: N.I)* *(affected by repeal, see note)*[^key-4c0ec888ef7586e0b03842aa77ca7525]
+The appropriate Agency and the chief inspector shall— *(Extent: N.I)* *(affected by repeal, see note)*[^c-4c0ec888ef7586e0b03842aa77ca7525]
 
-- (a (Extent: N.I) (affected by repeal, see note))[^key-4c0ec888ef7586e0b03842aa77ca7525] keep records of those matters— *(Extent: N.I)* *(affected by repeal, see note)*[^key-4c0ec888ef7586e0b03842aa77ca7525]
-  - (i (Extent: N.I) (affected by repeal, see note))[^key-4c0ec888ef7586e0b03842aa77ca7525] required by Articles 5(3) and (4) of the HASS Directive; and *(Extent: N.I)* *(affected by repeal, see note)*[^key-4c0ec888ef7586e0b03842aa77ca7525]
-  - (ii (Extent: N.I) (affected by repeal, see note))[^key-4c0ec888ef7586e0b03842aa77ca7525] notified to it, him or them under Article 6 of that Directive; *(Extent: N.I)* *(affected by repeal, see note)*[^key-4c0ec888ef7586e0b03842aa77ca7525]
+- (a (Extent: N.I) (affected by repeal, see note))[^c-4c0ec888ef7586e0b03842aa77ca7525] keep records of those matters— *(Extent: N.I)* *(affected by repeal, see note)*[^c-4c0ec888ef7586e0b03842aa77ca7525]
+  - (i (Extent: N.I) (affected by repeal, see note))[^c-4c0ec888ef7586e0b03842aa77ca7525] required by Articles 5(3) and (4) of the HASS Directive; and *(Extent: N.I)* *(affected by repeal, see note)*[^c-4c0ec888ef7586e0b03842aa77ca7525]
+  - (ii (Extent: N.I) (affected by repeal, see note))[^c-4c0ec888ef7586e0b03842aa77ca7525] notified to it, him or them under Article 6 of that Directive; *(Extent: N.I)* *(affected by repeal, see note)*[^c-4c0ec888ef7586e0b03842aa77ca7525]
 
-  and *(Extent: N.I)* *(affected by repeal, see note)*[^key-4c0ec888ef7586e0b03842aa77ca7525]
-- (b (Extent: N.I) (affected by repeal, see note))[^key-4c0ec888ef7586e0b03842aa77ca7525] establish or maintain a system of inspections to enforce the provisions of Articles 3, 4, 5 and 6, and 7 (subject to 16(1)(b)) of the HASS Directive which must be complied with by persons holding registrations or authorisations. *(Extent: N.I)* *(affected by repeal, see note)*[^key-4c0ec888ef7586e0b03842aa77ca7525]
+  and *(Extent: N.I)* *(affected by repeal, see note)*[^c-4c0ec888ef7586e0b03842aa77ca7525]
+- (b (Extent: N.I) (affected by repeal, see note))[^c-4c0ec888ef7586e0b03842aa77ca7525] establish or maintain a system of inspections to enforce the provisions of Articles 3, 4, 5 and 6, and 7 (subject to 16(1)(b)) of the HASS Directive which must be complied with by persons holding registrations or authorisations. *(Extent: N.I)* *(affected by repeal, see note)*[^c-4c0ec888ef7586e0b03842aa77ca7525]
 
 In relation to a high-activity source, the appropriate Agency or the chief inspector shall keep records of those matters — *(Extent: N.I)*
 
@@ -337,7 +337,7 @@ In section 48 of the 1993 Act (index of defined expressions) the following shall
 
   .
 
-## 19. The Ionising Radiations Regulations 1999 and 2000[^key-abedd41127eafadf289acb55dd3bee85][^key-87e953bad498bd472e6fef41ce286aed]
+## 19. The Ionising Radiations Regulations 1999 and 2000[^c-abedd41127eafadf289acb55dd3bee85][^c-87e953bad498bd472e6fef41ce286aed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -381,9 +381,9 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 ## Annotations
 
-[^key-bc3e916872b1e1222f2881f2c8ef5500]: Textual amendment: Regulations revoked (E.W.) (6.4.2010 immediately after [S.I. 2009/3381](https://www.legislation.gov.uk/uksi/2009/3381) comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 27](https://www.legislation.gov.uk/uksi/2010/675/schedule/27) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
+[^c-bc3e916872b1e1222f2881f2c8ef5500]: Textual amendment: Regulations revoked (E.W.) (6.4.2010 immediately after [S.I. 2009/3381](https://www.legislation.gov.uk/uksi/2009/3381) comes into force) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 27](https://www.legislation.gov.uk/uksi/2010/675/schedule/27) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2))
 
-[^key-ec222919b202740506509e6e833460f7]: Textual amendment: Regulations revoked (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
+[^c-ec222919b202740506509e6e833460f7]: Textual amendment: Regulations revoked (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
 
 [^c1230935]: Marginal citation: [S.I. 1991/2289](https://www.legislation.gov.uk/uksi/1991/2289).
 
@@ -393,28 +393,28 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c1230938]: Marginal citation: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12).
 
-[^key-dbdc5d704a2ce2720c2f51f3a1d02d45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/a)
+[^c-dbdc5d704a2ce2720c2f51f3a1d02d45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/a)
 
 [^c1230939]: Marginal citation: OJ L 159, 29.6.1996, p.1.
 
-[^key-cf89cedbb6ad27908c458f17b7107d8d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) omitted (N.I.) (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/b)
+[^c-cf89cedbb6ad27908c458f17b7107d8d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) omitted (N.I.) (1.6.2018) by virtue of [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/b)
 
 [^c1230940]: Marginal citation: OJ L 346, 31.12.2003, p.57.
 
-[^key-8476108be3bb433ba8999c445b78e590]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/c)
+[^c-8476108be3bb433ba8999c445b78e590]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/c)
 
-[^key-75eccdec4486962772acca475b99f03a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/d)
+[^c-75eccdec4486962772acca475b99f03a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2) inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/d)
 
-[^key-15bfa5f4687652cfe5784b714b80960f]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2/1A) inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(e)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/e)
+[^c-15bfa5f4687652cfe5784b714b80960f]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2005/2686/regulation/2/1A) inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(2)(e)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/2/e)
 
-[^key-49f68af755b642ea8e30ff7ee4165a0f]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2005/2686/regulation/4A) inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/3)
+[^c-49f68af755b642ea8e30ff7ee4165a0f]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2005/2686/regulation/4A) inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/3)
 
-[^key-4c0ec888ef7586e0b03842aa77ca7525]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/2686/regulation/7) substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/4)
+[^c-4c0ec888ef7586e0b03842aa77ca7525]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/2686/regulation/7) substituted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2018/116/regulation/4/4)
 
 [^c1230941]: Marginal citation: OJ L 346, 31.12.2003, p.57.
 
 [^c1230942]: Marginal citation: OJ L 159, 29.6.1996, p.1.
 
-[^key-abedd41127eafadf289acb55dd3bee85]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/2686/regulation/19) omitted (N.I.) (1.1.2018) by virtue of [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/7) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
+[^c-abedd41127eafadf289acb55dd3bee85]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2005/2686/regulation/19) omitted (N.I.) (1.1.2018) by virtue of [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/7) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
 
-[^key-87e953bad498bd472e6fef41ce286aed]: Textual amendment: Reg. 19 omitted (E.W.S) (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/6) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-87e953bad498bd472e6fef41ce286aed]: Textual amendment: Reg. 19 omitted (E.W.S) (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/6) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))

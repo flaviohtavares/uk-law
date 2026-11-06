@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Duty to carry out the post construction assessment[^key-403c18dc0d79a4c025e94181607d21d2]
+## 43. Duty to carry out the post construction assessment[^c-403c18dc0d79a4c025e94181607d21d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ apply the procedure referred to in regulation 48 (requirements of the post-const
 
 ## Annotations
 
-[^key-403c18dc0d79a4c025e94181607d21d2]: Commencement: Reg. 43 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-403c18dc0d79a4c025e94181607d21d2]: Commencement: Reg. 43 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

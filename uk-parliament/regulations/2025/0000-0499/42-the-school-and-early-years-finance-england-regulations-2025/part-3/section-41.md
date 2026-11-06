@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Correction of errors and changes in non-domestic rates[^key-be88a512a58833fd8ef001108aff3789]
+## 41. Correction of errors and changes in non-domestic rates[^c-be88a512a58833fd8ef001108aff3789]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be88a512a58833fd8ef001108aff3789]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/42/regulation/41) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-be88a512a58833fd8ef001108aff3789]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2025/42/regulation/41) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

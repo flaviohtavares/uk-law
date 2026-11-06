@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of the Disease Control (England) Order 2003[^key-a4d34dee0c32332506d738d75195c858]
+## 34. Amendment of the Disease Control (England) Order 2003[^c-a4d34dee0c32332506d738d75195c858]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Disease Control (England) Order 2003 [^c24364471], in paragraph 7 of Sche
 
 ## Annotations
 
-[^key-a4d34dee0c32332506d738d75195c858]: Commencement: Reg. 34 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
+[^c-a4d34dee0c32332506d738d75195c858]: Commencement: Reg. 34 in force at 31.12.2020 before IP completion day, see reg. 1(2)(a)
 
 [^c24364471]: Marginal citation: [S.I. 2003/1729](https://www.legislation.gov.uk/uksi/2003/1729), relevant amending instrument: [S.I. 2016/280](https://www.legislation.gov.uk/uksi/2016/280).

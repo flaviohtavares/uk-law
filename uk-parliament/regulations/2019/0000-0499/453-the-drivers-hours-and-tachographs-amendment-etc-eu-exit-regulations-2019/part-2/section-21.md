@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Motor Vehicles (Designation of Approval Marks) Regulations 1979[^key-5b9cfb1c0bd51124d166ff076af311b3]
+## 21. Motor Vehicles (Designation of Approval Marks) Regulations 1979[^c-5b9cfb1c0bd51124d166ff076af311b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b9cfb1c0bd51124d166ff076af311b3]: Commencement: Reg. 21 in force at 26.3.2019, see reg. 1(2)
+[^c-5b9cfb1c0bd51124d166ff076af311b3]: Commencement: Reg. 21 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620761]: Marginal citation: [S.I. 1979/1088](https://www.legislation.gov.uk/uksi/1979/1088), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amendments which are not relevant to these Regulations.

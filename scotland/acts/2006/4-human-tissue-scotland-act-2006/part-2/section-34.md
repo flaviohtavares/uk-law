@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Nomination of person under section 30(1) or 32(1): additional provision[^key-a49cfc9d843e26c8797d3379fd30b0c0]
+## 34. Nomination of person under section 30(1) or 32(1): additional provision[^c-a49cfc9d843e26c8797d3379fd30b0c0]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a49cfc9d843e26c8797d3379fd30b0c0]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/4/section/34) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-a49cfc9d843e26c8797d3379fd30b0c0]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/4/section/34) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

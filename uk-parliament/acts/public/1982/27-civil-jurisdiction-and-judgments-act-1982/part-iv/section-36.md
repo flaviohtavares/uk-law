@@ -23,7 +23,7 @@ summary: ''
 (1) Where—
 
 - (a) a High Court order or a Court of Session order has been registered in the High Court of Justice in Northern Ireland (“the Northern Ireland High Court”) under Part II of the [^c15858281]Maintenance Orders Act 1950; or
-- (b) a family[^key-1d09578f85d15e4a7681c2eae5949899] court order or a sheriff court order has been registered in a court of summary jurisdiction in Northern Ireland under that Part,
+- (b) a family[^c-1d09578f85d15e4a7681c2eae5949899] court order or a sheriff court order has been registered in a court of summary jurisdiction in Northern Ireland under that Part,
 
 an application may be made to the original court for the registration of the order in, respectively, a court of summary jurisdiction in Northern Ireland or the Northern Ireland High Court.
 
@@ -66,7 +66,7 @@ an application may be made to the original court for the registration of the ord
   >
   >   > - (b) payments under the order are required to be made to the collecting officer, by any method of payment falling within Article 85(7) (standing order, etc.);
   >
-  > [^key-9268a61970293b3fa84a8da1568b8282]...
+  > [^c-9268a61970293b3fa84a8da1568b8282]...
   >
   > - (b) as if in paragraph (5) for the words “to the collecting officer” there were substituted “in accordance with sub-paragraph (a) of paragraph (9)”;
   > - (c) as if in paragraph (7), sub-paragraph (c) and the word “and” immediately preceding it were omitted;
@@ -97,7 +97,7 @@ an application may be made to the original court for the registration of the ord
 
 [^c15858281]: Marginal citation: [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37).
 
-[^key-1d09578f85d15e4a7681c2eae5949899]: Textual amendment: Word in s. 36(1)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 86(15)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/86/15); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-1d09578f85d15e4a7681c2eae5949899]: Textual amendment: Word in s. 36(1)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 86(15)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/86/15); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c15858291]: Marginal citation: [1958 c. 39](https://www.legislation.gov.uk/ukpga/1958/39).
 
@@ -107,7 +107,7 @@ an application may be made to the original court for the registration of the ord
 
 [^c15858321]: Textual amendment: S. 36(4)(a)-(e) and preceding words inserted (N.I.) (4.11.1996) by [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), [art. 11](https://www.legislation.gov.uk/nisi/1993/1576/article/11), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/nisi/1993/1576/schedule/1/paragraph/17/b); [S.R. 1996/454](https://www.legislation.gov.uk/nisr/1996/454), [art. 3](https://www.legislation.gov.uk/nisr/1996/454/article/3)
 
-[^key-9268a61970293b3fa84a8da1568b8282]: Textual amendment: Words in s. 36(4)(b) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 87(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/87/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-9268a61970293b3fa84a8da1568b8282]: Textual amendment: Words in s. 36(4)(b) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 87(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/87/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c15858331]: Textual amendment: Words in s. 36(5) substituted (N.I.) (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(1)](https://www.legislation.gov.uk/nisi/1995/755/article/185/1), [Sch. 9 para. 117(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/9/paragraph/117/1); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
 

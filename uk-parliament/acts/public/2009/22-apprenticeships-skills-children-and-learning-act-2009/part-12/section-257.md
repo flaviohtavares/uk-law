@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257. Student loans under the 1998 Act: IVAs[^key-cc2955a3bf7370c2a26da3a7f50cb860]
+## 257. Student loans under the 1998 Act: IVAs[^c-cc2955a3bf7370c2a26da3a7f50cb860]
 
 *Extent: E+W+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc2955a3bf7370c2a26da3a7f50cb860]: Commencement: S. 257 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-cc2955a3bf7370c2a26da3a7f50cb860]: Commencement: S. 257 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

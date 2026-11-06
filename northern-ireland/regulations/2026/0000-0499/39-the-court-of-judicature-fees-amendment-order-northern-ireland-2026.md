@@ -44,7 +44,7 @@ The Department of Justice, in exercise of the powers conferred by section 116(1)
 
 The Department has, in accordance with section 116(1) of that Act, consulted with the Lady Chief Justice.
 
-## 1. Citation, commencement and interpretation[^key-e33899696f1405ecf3ee54275c7cb0c1]
+## 1. Citation, commencement and interpretation[^c-e33899696f1405ecf3ee54275c7cb0c1]
 
 (1) This Order may be cited as the Court of Judicature Fees (Amendment) Order (Northern Ireland) 2026 and shall come into operation on 1st April 2026.
 
@@ -52,13 +52,13 @@ The Department has, in accordance with section 116(1) of that Act, consulted wit
 
 - “**the Aarhus Convention**” means the United Nations Economic Commission for Europe Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environment Matters done at Aarhus on 25th June 1998.
 
-## 2. Amendment of the Court of Judicature Fees Order (Northern Ireland) 1996[^key-e57469c0db96260853e2a306fc0fa9b3]
+## 2. Amendment of the Court of Judicature Fees Order (Northern Ireland) 1996[^c-e57469c0db96260853e2a306fc0fa9b3]
 
 The Court of Judicature Fees Order (Northern Ireland) 1996 is amended as follows.
 
-**3.**[^key-79ada1183a6e0acddcd5080785c44529] For sections 1 to 6 of the Schedule substitute the new sections set out in the Schedule to this Order.
+**3.**[^c-79ada1183a6e0acddcd5080785c44529] For sections 1 to 6 of the Schedule substitute the new sections set out in the Schedule to this Order.
 
-## 4. Saving Provision[^key-70b2666bb875d5d3f242f5a03c7d130c]
+## 4. Saving Provision[^c-70b2666bb875d5d3f242f5a03c7d130c]
 
 The 1996 Order as it applied immediately before Article 2 of this Order came into operation, continues to apply to a judicial review or review under any statutory provision of a decision, act or omission which is subject to the provisions of the Aarhus Convention.
 
@@ -76,7 +76,7 @@ John O’Dowd
 
 Minister of Finance
 
-## SCHEDULE[^key-5278cc60e79236b2703df6b6c87c9bec]
+## SCHEDULE[^c-5278cc60e79236b2703df6b6c87c9bec]
 
 Article 3
 
@@ -575,12 +575,12 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see the Departments Act (Northern Ireland) 2016 ([2016 c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5), section 1(4) and Schedule 1.
 
-[^key-e33899696f1405ecf3ee54275c7cb0c1]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
+[^c-e33899696f1405ecf3ee54275c7cb0c1]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
 
-[^key-e57469c0db96260853e2a306fc0fa9b3]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
+[^c-e57469c0db96260853e2a306fc0fa9b3]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
 
-[^key-79ada1183a6e0acddcd5080785c44529]: Commencement: Art. 3 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
+[^c-79ada1183a6e0acddcd5080785c44529]: Commencement: Art. 3 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
 
-[^key-70b2666bb875d5d3f242f5a03c7d130c]: Commencement: Art. 4 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
+[^c-70b2666bb875d5d3f242f5a03c7d130c]: Commencement: Art. 4 in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
 
-[^key-5278cc60e79236b2703df6b6c87c9bec]: Commencement: Sch. in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)
+[^c-5278cc60e79236b2703df6b6c87c9bec]: Commencement: Sch. in operation at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/39/article/1/1)

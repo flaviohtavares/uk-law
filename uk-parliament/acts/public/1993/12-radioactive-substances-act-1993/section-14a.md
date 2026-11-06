@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Radioactive waste: requirements to be imposed on persons authorised to dispose of and accumulate radioactive waste: Northern Ireland[^key-3fa2e6f15fb660ae29351931aa96884e]
+## 14A. Radioactive waste: requirements to be imposed on persons authorised to dispose of and accumulate radioactive waste: Northern Ireland[^c-3fa2e6f15fb660ae29351931aa96884e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa2e6f15fb660ae29351931aa96884e]: Textual amendment: S. 14A inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/3)
+[^c-3fa2e6f15fb660ae29351931aa96884e]: Textual amendment: S. 14A inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/3)

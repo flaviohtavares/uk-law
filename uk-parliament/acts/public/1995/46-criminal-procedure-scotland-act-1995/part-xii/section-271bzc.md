@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271BZC. Child witnesses in certain solemn cases: modifications of section 271D[^key-5bb059c9db7c3f0086ea901f6401e6d8]
+## 271BZC. Child witnesses in certain solemn cases: modifications of section 271D[^c-5bb059c9db7c3f0086ea901f6401e6d8]
 
 *Extent: S*
 
@@ -54,12 +54,12 @@ summary: ''
   >
   > (4H) This subsection applies if—
   >
-  > - (a)[^key-a46f4aa500a4149e2fee8744ef29f966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (a)[^c-a46f4aa500a4149e2fee8744ef29f966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   > - (b) the child witness expresses a wish to be present in the courtroom to give evidence, and
   > - (c) it would be in the child witness's best interests to be present in the courtroom to give evidence.
 
 ## Annotations
 
-[^key-5bb059c9db7c3f0086ea901f6401e6d8]: Textual amendment: [Ss. 271BZA-271BZC](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA) inserted (20.1.2020 for specified purposes, 30.3.2026 for specified purposes) by [Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019 (asp 8)](https://www.legislation.gov.uk/asp/2019/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/8/section/1/2), [12(2)](https://www.legislation.gov.uk/asp/2019/8/section/12/2); [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/392/regulation/3)); [S.S.I. 2026/136](https://www.legislation.gov.uk/ssi/2026/136), [reg. 2](https://www.legislation.gov.uk/ssi/2026/136/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/136/regulation/3))
+[^c-5bb059c9db7c3f0086ea901f6401e6d8]: Textual amendment: [Ss. 271BZA-271BZC](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZA) inserted (20.1.2020 for specified purposes, 30.3.2026 for specified purposes) by [Vulnerable Witnesses (Criminal Evidence) (Scotland) Act 2019 (asp 8)](https://www.legislation.gov.uk/asp/2019/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/8/section/1/2), [12(2)](https://www.legislation.gov.uk/asp/2019/8/section/12/2); [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/392/regulation/3)); [S.S.I. 2026/136](https://www.legislation.gov.uk/ssi/2026/136), [reg. 2](https://www.legislation.gov.uk/ssi/2026/136/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/136/regulation/3))
 
-[^key-a46f4aa500a4149e2fee8744ef29f966]: Textual amendment: Words in [s. 271BZC(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZC/2) repealed (30.3.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 102(4)](https://www.legislation.gov.uk/asp/2025/12/section/102/4), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-a46f4aa500a4149e2fee8744ef29f966]: Textual amendment: Words in [s. 271BZC(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/271BZC/2) repealed (30.3.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 102(4)](https://www.legislation.gov.uk/asp/2025/12/section/102/4), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

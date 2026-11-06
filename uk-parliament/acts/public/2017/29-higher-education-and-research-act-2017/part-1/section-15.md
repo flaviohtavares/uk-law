@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to impose monetary penalties[^key-cab8bd989547e0d1564c1d1915a9fe8e]
+## 15. Power to impose monetary penalties[^c-cab8bd989547e0d1564c1d1915a9fe8e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cab8bd989547e0d1564c1d1915a9fe8e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/29/section/15) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/a)
+[^c-cab8bd989547e0d1564c1d1915a9fe8e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/29/section/15) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/a)

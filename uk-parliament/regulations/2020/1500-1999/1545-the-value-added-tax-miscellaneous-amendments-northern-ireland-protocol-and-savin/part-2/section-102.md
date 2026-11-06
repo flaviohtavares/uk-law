@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amendment of the Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014[^key-fcfc498195a825b787d850bc4d32b22e]
+## 102. Amendment of the Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 2014[^c-fcfc498195a825b787d850bc4d32b22e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Value Added Tax (Section 55A) (Specified Goods and Excepted Supplies) Order 
 
 ## Annotations
 
-[^key-fcfc498195a825b787d850bc4d32b22e]: Commencement: Reg. 102 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fcfc498195a825b787d850bc4d32b22e]: Commencement: Reg. 102 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395691]: Marginal citation: [S.I. 2014/1458](https://www.legislation.gov.uk/uksi/2014/1458); amended by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). The amendments made by this instrument are not yet in force and are, in part, revoked by this instrument.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102C. Consequences of false declaration.[^key-b7714b4ca25ea9b03a9e84b66a88c63c][^key-c738a3fecdcf6b42cf328c9869a616d3][^key-ff5f0a3a178d184cdb965c63312bf916][^c15516431]
+## 102C. Consequences of false declaration.[^c-b7714b4ca25ea9b03a9e84b66a88c63c][^c-c738a3fecdcf6b42cf328c9869a616d3][^c-ff5f0a3a178d184cdb965c63312bf916][^c15516431]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,22 +39,22 @@ as from the day on which he received the funds, shares or rights until subsectio
 
 (4) Where the successor receives any payment in circumstances where subsection (1)(b) applies, the amount of the payment shall be treated as settlement of a debt due to the successor and accordingly not as an amount due to members of the society.
 
-(5)[^key-87fa7ac154295e8511c960d2dfe6387a][^key-fa2e6ec1bf53b5072376f2d154ab067d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-87fa7ac154295e8511c960d2dfe6387a][^c-fa2e6ec1bf53b5072376f2d154ab067d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-87fa7ac154295e8511c960d2dfe6387a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-87fa7ac154295e8511c960d2dfe6387a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
+[^c-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
 
-[^key-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
+[^c-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
 
 [^c15516431]: Textual amendment: Ss. 102B-102D inserted (21.3.1997 with application as mentioned in [s. 2(2)](https://www.legislation.gov.uk/ukpga/1997/41/section/2/2) of the amending Act) by [1997 c. 41](https://www.legislation.gov.uk/ukpga/1997/41), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1997/41/section/1/1)
 
 [^c15516441]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-87fa7ac154295e8511c960d2dfe6387a]: Textual amendment: S. 102C(5)(6) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-87fa7ac154295e8511c960d2dfe6387a]: Textual amendment: S. 102C(5)(6) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-fa2e6ec1bf53b5072376f2d154ab067d]: Textual amendment: S. 102C(5) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-fa2e6ec1bf53b5072376f2d154ab067d]: Textual amendment: S. 102C(5) repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)

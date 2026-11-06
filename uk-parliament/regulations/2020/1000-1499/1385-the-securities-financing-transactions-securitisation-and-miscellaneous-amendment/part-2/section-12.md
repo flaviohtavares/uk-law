@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Application of regulation 11[^key-8fc36e965db214006f107211947b616b]
+## 12. Application of regulation 11[^c-8fc36e965db214006f107211947b616b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 11 applies to a person—
 
 ## Annotations
 
-[^key-8fc36e965db214006f107211947b616b]: Commencement: Reg. 12 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-8fc36e965db214006f107211947b616b]: Commencement: Reg. 12 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

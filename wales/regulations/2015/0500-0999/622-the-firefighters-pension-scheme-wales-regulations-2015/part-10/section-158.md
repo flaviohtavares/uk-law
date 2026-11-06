@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Transfer of pension account entries[^key-0e53107e47e411993087125d9d8cb85b]
+## 158. Transfer of pension account entries[^c-0e53107e47e411993087125d9d8cb85b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e53107e47e411993087125d9d8cb85b]: Commencement: Reg. 158 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0e53107e47e411993087125d9d8cb85b]: Commencement: Reg. 158 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

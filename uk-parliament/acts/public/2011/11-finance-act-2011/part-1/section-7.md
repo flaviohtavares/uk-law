@@ -35,7 +35,7 @@ summary: ''
 
 (6) The amount of the supplementary charge on the company for the straddling period is the sum of the amounts of supplementary charge that would, in accordance with subsections (4) and (5), be chargeable on the company for those separate accounting periods.
 
-See also sections 330A and 330B of CTA 2010 (which have effect in relation to the separate accounting period consisting of so much of the straddling period as falls on or after 24 March 2011).[^key-f428b033435afa81955870af83d01bc7]
+See also sections 330A and 330B of CTA 2010 (which have effect in relation to the separate accounting period consisting of so much of the straddling period as falls on or after 24 March 2011).[^c-f428b033435afa81955870af83d01bc7]
 
 (7) In relation to the straddling period—
 
@@ -66,4 +66,4 @@ See also sections 330A and 330B of CTA 2010 (which have effect in relation to th
 
 ## Annotations
 
-[^key-f428b033435afa81955870af83d01bc7]: Textual amendment: Words in [s. 7(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/7/6) inserted (with effect in accordance with Sch. 21 para. 6 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/21/paragraph/4)
+[^c-f428b033435afa81955870af83d01bc7]: Textual amendment: Words in [s. 7(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/7/6) inserted (with effect in accordance with Sch. 21 para. 6 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/21/paragraph/4)

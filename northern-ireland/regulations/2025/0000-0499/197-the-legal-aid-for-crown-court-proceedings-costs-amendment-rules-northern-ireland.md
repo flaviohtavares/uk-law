@@ -46,30 +46,30 @@ In accordance with Article 36(3) of that Order, the Department has consulted wit
 
 In accordance with Article 37 of that Order, the Department has had regard to the matters specified in that Article.
 
-## 1. Citation and commencement[^key-6041f222d711626af987054f2d973d73]
+## 1. Citation and commencement[^c-6041f222d711626af987054f2d973d73]
 
 These Rules may be cited as the Legal Aid for Crown Court Proceedings (Costs) (Amendment) Rules (Northern Ireland) 2025 and shall come into operation on 7th January 2026.
 
-**2.**[^key-88557c0e93b9d5d6b2d87d1ac41f5373] In these Rules a reference to a rule or Schedule by number alone is a reference to the rule or Schedule so numbered in or to the Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005[^f00003]
+**2.**[^c-88557c0e93b9d5d6b2d87d1ac41f5373] In these Rules a reference to a rule or Schedule by number alone is a reference to the rule or Schedule so numbered in or to the Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005[^f00003]
 
-## 3. Application and transitional arrangements[^key-3f17731ddad0abfb17f3554708ef6981]
+## 3. Application and transitional arrangements[^c-3f17731ddad0abfb17f3554708ef6981]
 
 These Rules apply for the determination of costs which are payable—
 
 - (a) in respect of work done under a criminal aid certificate granted under Article 29, or deemed to have been granted under Article 36(2), of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 on or after 1st December 2024; and
 - (b) in respect of work done under a criminal aid certificate granted under Article 28 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 on or after 1st December 2024, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^f00004].
 
-**4.**[^key-25c637b86ca240b13efae5474f09777c] Where a certificate was granted under Article 29, or deemed to have been granted under Article 36(2), of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 on or after 1st December 2024, and a representative’s remuneration has been determined under rule 8 or 11, as applicable, for work done under that certificate, the representative may claim, and the Department shall authorise, a claim for an additional amount equal to the difference between the amount determined and the amount that would have been determined in accordance with these Rules.
+**4.**[^c-25c637b86ca240b13efae5474f09777c] Where a certificate was granted under Article 29, or deemed to have been granted under Article 36(2), of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 on or after 1st December 2024, and a representative’s remuneration has been determined under rule 8 or 11, as applicable, for work done under that certificate, the representative may claim, and the Department shall authorise, a claim for an additional amount equal to the difference between the amount determined and the amount that would have been determined in accordance with these Rules.
 
-**5.**[^key-ecf8922ba3e17f7e626b097b8d74a434] Where a certificate was granted under Article 28 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 on or after 1 December 2024, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998 and where a representative’s remuneration has been determined under rule 5 of the Magistrates’ Courts and County Court Appeals (Criminal Legal Aid) (Costs) Rules (Northern Ireland) 2009[^f00005] (“**the 2009 Rules**”) for work done under that certificate, the representative may claim, and the Department shall authorise, a claim for an additional amount equal to the difference between the amount determined under the 2009 Rules and the amount that would have been determined in accordance with these Rules.
+**5.**[^c-ecf8922ba3e17f7e626b097b8d74a434] Where a certificate was granted under Article 28 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 on or after 1 December 2024, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998 and where a representative’s remuneration has been determined under rule 5 of the Magistrates’ Courts and County Court Appeals (Criminal Legal Aid) (Costs) Rules (Northern Ireland) 2009[^f00005] (“**the 2009 Rules**”) for work done under that certificate, the representative may claim, and the Department shall authorise, a claim for an additional amount equal to the difference between the amount determined under the 2009 Rules and the amount that would have been determined in accordance with these Rules.
 
-**6.**[^key-8c2bc01c2c3bf812ae69ef0add4700db] A claim under rule 4 or 5 of these Rules shall be submitted to the Department in such form and manner as it may direct and shall be accompanied by such particulars and documents as it may specify.
+**6.**[^c-8c2bc01c2c3bf812ae69ef0add4700db] A claim under rule 4 or 5 of these Rules shall be submitted to the Department in such form and manner as it may direct and shall be accompanied by such particulars and documents as it may specify.
 
-## 7. Amendments to the Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005[^key-8d43e43c12a42564b1a992c6093bf848]
+## 7. Amendments to the Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005[^c-8d43e43c12a42564b1a992c6093bf848]
 
 The Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005 are amended as follows.
 
-**8.**[^key-77f4b7f2bb8d6b8c74ee90bf53260cc2] In rule 2—
+**8.**[^c-77f4b7f2bb8d6b8c74ee90bf53260cc2] In rule 2—
 
 (1) For the definition of “case”, substitute—
 
@@ -91,7 +91,7 @@ The Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005 
 
 > - “**trial**” includes contest proceedings where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) 1998;
 
-**9.**[^key-7f38d5fb104e5912696c418601feba5a] In rule 3—
+**9.**[^c-7f38d5fb104e5912696c418601feba5a] In rule 3—
 
 (1) In paragraph 1, for “paragraph (2)”, substitute “paragraphs (2) and (4)”.
 
@@ -99,7 +99,7 @@ The Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005 
 
 > (4) These Rules shall apply for the determination of costs which are payable in respect of work done under a criminal aid certificate granted under Article 28 of the Order on or after 1st December 2024, where the assisted person was a child charged with an indictable only offence, and whose case was dealt with in the magistrates’ court as provided for under Article 17 of the Criminal Justice (Children) (Northern Ireland) Order 1998.
 
-**10.**[^key-9673c43458863c55b4bd02f703fded23] In rule 5—
+**10.**[^c-9673c43458863c55b4bd02f703fded23] In rule 5—
 
 (1) In paragraph (1), omit “the Crown”.
 
@@ -124,7 +124,7 @@ The Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland) 2005 
 
 .
 
-**11.**[^key-f212207492d4a5a9468857388c2f27e7] In Schedule 1—
+**11.**[^c-f212207492d4a5a9468857388c2f27e7] In Schedule 1—
 
 (1) In paragraph 2—
 
@@ -601,30 +601,30 @@ The amendments made by these Rules apply for the determination of costs payable 
 
 [^f00002]: Footnote: [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159) and [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).
 
-[^key-6041f222d711626af987054f2d973d73]: Commencement: Rule 1 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-6041f222d711626af987054f2d973d73]: Commencement: Rule 1 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-88557c0e93b9d5d6b2d87d1ac41f5373]: Commencement: Rule 2 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-88557c0e93b9d5d6b2d87d1ac41f5373]: Commencement: Rule 2 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
 [^f00003]: Footnote: [S.R. 2005 No. 112](https://www.legislation.gov.uk/nisr/2005/112).
 
-[^key-3f17731ddad0abfb17f3554708ef6981]: Commencement: Rule 3 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-3f17731ddad0abfb17f3554708ef6981]: Commencement: Rule 3 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
 [^f00004]: Footnote: [S.I. 1998 No. 1504 (N.I. 9)](https://www.legislation.gov.uk/uksi/1998/1504).
 
-[^key-25c637b86ca240b13efae5474f09777c]: Commencement: Rule 4 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-25c637b86ca240b13efae5474f09777c]: Commencement: Rule 4 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-ecf8922ba3e17f7e626b097b8d74a434]: Commencement: Rule 5 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-ecf8922ba3e17f7e626b097b8d74a434]: Commencement: Rule 5 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
 [^f00005]: Footnote: [S.R. 2009 No. 313](https://www.legislation.gov.uk/nisr/2009/313).
 
-[^key-8c2bc01c2c3bf812ae69ef0add4700db]: Commencement: Rule 6 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-8c2bc01c2c3bf812ae69ef0add4700db]: Commencement: Rule 6 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-8d43e43c12a42564b1a992c6093bf848]: Commencement: Rule 7 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-8d43e43c12a42564b1a992c6093bf848]: Commencement: Rule 7 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-77f4b7f2bb8d6b8c74ee90bf53260cc2]: Commencement: Rule 8 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-77f4b7f2bb8d6b8c74ee90bf53260cc2]: Commencement: Rule 8 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-7f38d5fb104e5912696c418601feba5a]: Commencement: Rule 9 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-7f38d5fb104e5912696c418601feba5a]: Commencement: Rule 9 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-9673c43458863c55b4bd02f703fded23]: Commencement: Rule 10 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-9673c43458863c55b4bd02f703fded23]: Commencement: Rule 10 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
 
-[^key-f212207492d4a5a9468857388c2f27e7]: Commencement: Rule 11 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)
+[^c-f212207492d4a5a9468857388c2f27e7]: Commencement: Rule 11 in operation at 7.1.2026, see [rule 1](https://www.legislation.gov.uk/nisr/2025/197/rule/1)

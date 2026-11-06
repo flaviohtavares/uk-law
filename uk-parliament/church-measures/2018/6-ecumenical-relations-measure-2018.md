@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 \[20th December 2018\]
 
-## 1. Extension of power to make provision by Canon[^key-8fa69e589db612fd93f8194ac25d8ea4]
+## 1. Extension of power to make provision by Canon[^c-8fa69e589db612fd93f8194ac25d8ea4]
 
 (1) In section 1 of the Church of England (Ecumenical Relations) Measure 1988 (joint worship with other Churches), the existing text of which becomes subsection (1), at the end insert—
 
@@ -84,7 +84,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 - (a) for “a local ecumenical project” substitute “ a local ecumenical co-operative scheme ”, and
 - (b) for “the ecumenical project” substitute “ the scheme ”.
 
-## 2. Power of bishop to give temporary designation[^key-fa8ab3e80c3eb196f05b4ada4e03f85b]
+## 2. Power of bishop to give temporary designation[^c-fa8ab3e80c3eb196f05b4ada4e03f85b]
 
 (1) After section 5 of the Church of England (Ecumenical Relations) Measure 1988 (the title to which becomes “ Churches to which Measure applies: designation by Archbishops ”), insert—
 
@@ -123,7 +123,7 @@ A Measure passed by the General Synod of the Church of England to make provision
 > - (a) in relation to a Church to which this Measure applies by virtue of section 5, such authority as the Archbishops of Canterbury and York designate in relation to that Church;
 > - (b) in relation to a Church to which this Measure applies by virtue of section 5A, such authority as the bishop who designated the Church under that section designates in relation to it.
 
-## 3. Code of Practice[^key-7767ebe6e898d7374fab796ab18941f7]
+## 3. Code of Practice[^c-7767ebe6e898d7374fab796ab18941f7]
 
 After section 5A of the Church of England (Ecumenical Relations) Measure 1988 (inserted by section 2 above) insert—
 
@@ -171,8 +171,8 @@ After section 5A of the Church of England (Ecumenical Relations) Measure 1988 (i
 
 ## Annotations
 
-[^key-8fa69e589db612fd93f8194ac25d8ea4]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/6/section/1) in force at 1.2.2019 by [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-8fa69e589db612fd93f8194ac25d8ea4]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/6/section/1) in force at 1.2.2019 by [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-fa8ab3e80c3eb196f05b4ada4e03f85b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/6/section/2) in force at 1.2.2019 by [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-fa8ab3e80c3eb196f05b4ada4e03f85b]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/6/section/2) in force at 1.2.2019 by [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
 
-[^key-7767ebe6e898d7374fab796ab18941f7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/6/section/3) in force at 1.2.2019 by [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)
+[^c-7767ebe6e898d7374fab796ab18941f7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2018/6/section/3) in force at 1.2.2019 by [S.I. 2019/99](https://www.legislation.gov.uk/uksi/2019/99), [art. 2](https://www.legislation.gov.uk/uksi/2019/99/article/2)

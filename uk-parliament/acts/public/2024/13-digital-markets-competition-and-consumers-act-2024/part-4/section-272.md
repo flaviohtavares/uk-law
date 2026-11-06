@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272. Information and notices: timing and burden of proof[^key-6b67a5fcfed20f6726a2b892a549a15c]
+## 272. Information and notices: timing and burden of proof[^c-6b67a5fcfed20f6726a2b892a549a15c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b67a5fcfed20f6726a2b892a549a15c]: Commencement: S. 272 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6b67a5fcfed20f6726a2b892a549a15c]: Commencement: S. 272 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

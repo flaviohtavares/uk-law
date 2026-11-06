@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1028A. Administrative restoration of company with share warrants[^key-471fe8c6f36571dbe40876611cd5dde3]
+## 1028A. Administrative restoration of company with share warrants[^c-471fe8c6f36571dbe40876611cd5dde3]
 
 *Extent: E+W+S+N.I.*
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]
 
-(1) This section applies in relation to a company which has been struck off the register under section 1000 , 1001 or 1002A[^key-c2b22c5f79080511d7c8c48ca8a1245a] and which, at the time it was struck off, had any share warrant in issue.
+(1) This section applies in relation to a company which has been struck off the register under section 1000 , 1001 or 1002A[^c-c2b22c5f79080511d7c8c48ca8a1245a] and which, at the time it was struck off, had any share warrant in issue.
 
 (2) If the registrar restores the company to the register under section 1025, the share warrant and the shares specified in it are cancelled with effect from the date the restoration takes effect.
 
@@ -44,8 +44,8 @@ summary: ''
 
 (7) Where a share warrant is cancelled in accordance with subsection (2), the company must, as soon as reasonably practicable—
 
-- (a) enter the date the cancellation takes effect in its register of members, [^key-7a7404edd118d2e5f09c98b4f722b238]...
-- (b)[^key-7a7404edd118d2e5f09c98b4f722b238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) enter the date the cancellation takes effect in its register of members, [^c-7a7404edd118d2e5f09c98b4f722b238]...
+- (b)[^c-7a7404edd118d2e5f09c98b4f722b238] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Subsection (9) applies where—
 
@@ -73,10 +73,10 @@ For this purpose a shadow director is treated as an officer of the company.
 
 ## Annotations
 
-[^key-471fe8c6f36571dbe40876611cd5dde3]: Textual amendment: S. 1028A inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 27(1)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/27/1) (with [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/27/2), [(3)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/27/3))
+[^c-471fe8c6f36571dbe40876611cd5dde3]: Textual amendment: S. 1028A inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 27(1)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/27/1) (with [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/27/2), [(3)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/27/3))
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
-[^key-c2b22c5f79080511d7c8c48ca8a1245a]: Textual amendment: Words in s. 1028A(1) substituted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 70(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/70/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
+[^c-c2b22c5f79080511d7c8c48ca8a1245a]: Textual amendment: Words in s. 1028A(1) substituted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 70(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/70/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
 
-[^key-7a7404edd118d2e5f09c98b4f722b238]: Textual amendment: S. 1028A(7)(b) and word omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/21); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-7a7404edd118d2e5f09c98b4f722b238]: Textual amendment: S. 1028A(7)(b) and word omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/21); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

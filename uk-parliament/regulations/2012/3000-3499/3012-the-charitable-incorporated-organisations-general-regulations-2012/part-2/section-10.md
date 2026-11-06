@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Transfer of accounting records on amalgamation[^key-b46c3d577317a5964e38df2a3289ced3]
+## 10. Transfer of accounting records on amalgamation[^c-b46c3d577317a5964e38df2a3289ced3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b46c3d577317a5964e38df2a3289ced3]: Commencement: Reg. 10 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-b46c3d577317a5964e38df2a3289ced3]: Commencement: Reg. 10 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

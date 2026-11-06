@@ -22,8 +22,8 @@ summary: ''
 
 (1) A registered society may by resolution disapply section 83 (duty to appoint auditors) in respect of a year of account if—
 
-- (a) the total value of its assets at the end of the preceding year of account did not exceed £5,100,000,[^key-5179a459f43c4332f7eb717b924953b8] and
-- (b) its turnover for that preceding year did not exceed £10,200,000.[^key-c80d352195f5cdbfb0cba0246a642249]
+- (a) the total value of its assets at the end of the preceding year of account did not exceed £5,100,000,[^c-5179a459f43c4332f7eb717b924953b8] and
+- (b) its turnover for that preceding year did not exceed £10,200,000.[^c-c80d352195f5cdbfb0cba0246a642249]
 
 (2) The resolution must be passed at a general meeting at which—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5179a459f43c4332f7eb717b924953b8]: Textual amendment: [Sum in s. 84(1)(a)](https://www.legislation.gov.uk/ukpga/2014/14/section/84/1/a) substituted (6.4.2018) by [The Co-operative and Community Benefit Societies Act 2014 (Amendments to Audit Requirements) Order 2018 (S.I. 2018/322)](https://www.legislation.gov.uk/uksi/2018/322), [arts. 1](https://www.legislation.gov.uk/uksi/2018/322/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/322/article/2/a)
+[^c-5179a459f43c4332f7eb717b924953b8]: Textual amendment: [Sum in s. 84(1)(a)](https://www.legislation.gov.uk/ukpga/2014/14/section/84/1/a) substituted (6.4.2018) by [The Co-operative and Community Benefit Societies Act 2014 (Amendments to Audit Requirements) Order 2018 (S.I. 2018/322)](https://www.legislation.gov.uk/uksi/2018/322), [arts. 1](https://www.legislation.gov.uk/uksi/2018/322/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/322/article/2/a)
 
-[^key-c80d352195f5cdbfb0cba0246a642249]: Textual amendment: [Sum in s. 84(1)(b)](https://www.legislation.gov.uk/ukpga/2014/14/section/84/1/b) substituted (6.4.2018) by [The Co-operative and Community Benefit Societies Act 2014 (Amendments to Audit Requirements) Order 2018 (S.I. 2018/322)](https://www.legislation.gov.uk/uksi/2018/322), [arts. 1](https://www.legislation.gov.uk/uksi/2018/322/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/322/article/2/b)
+[^c-c80d352195f5cdbfb0cba0246a642249]: Textual amendment: [Sum in s. 84(1)(b)](https://www.legislation.gov.uk/ukpga/2014/14/section/84/1/b) substituted (6.4.2018) by [The Co-operative and Community Benefit Societies Act 2014 (Amendments to Audit Requirements) Order 2018 (S.I. 2018/322)](https://www.legislation.gov.uk/uksi/2018/322), [arts. 1](https://www.legislation.gov.uk/uksi/2018/322/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/322/article/2/b)

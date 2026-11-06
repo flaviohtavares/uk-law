@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4.[^key-cd0367fd2d750fd44f818c4b057ffeb5]
+## 4.[^c-cd0367fd2d750fd44f818c4b057ffeb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ The purposes referred to in article 3(1) are—
 
 ## Annotations
 
-[^key-cd0367fd2d750fd44f818c4b057ffeb5]: Commencement: Art. 4 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
+[^c-cd0367fd2d750fd44f818c4b057ffeb5]: Commencement: Art. 4 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
 
 [^f00011]: Footnote: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The expressions “**recognised body**” and “**relevant advance**” in section 84 (agreements to indemnify certain lenders) shall be construed in accordance with the following provisions.
 
-(2) A “**recognised body**” means a body specified, or of a class or description specified, in an order made by statutory instrument by the Welsh Ministers[^key-904325ebdf4839a21246b5c1fe2f93ef] [^c11841541]. . ..
+(2) A “**recognised body**” means a body specified, or of a class or description specified, in an order made by statutory instrument by the Welsh Ministers[^c-904325ebdf4839a21246b5c1fe2f93ef] [^c11841541]. . ..
 
 (3) Before making such an order varying or revoking an order previously made, the Welsh Ministers shall give an opportunity for representations to be made on behalf of a recognised body which, if the order were made, would cease to be such a body.
 
@@ -30,17 +30,17 @@ summary: ''
 
 - a local authority,
 - a new town corporation,
-- the Welsh Ministers so far as they are or were exercising functions in relation to property transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) to (iii) of the New Towns Act 1981,[^key-9e0749485468c0b7a1a79f4f83d04730]
+- the Welsh Ministers so far as they are or were exercising functions in relation to property transferred (or to be transferred) to them as mentioned in section 36(1)(a)(i) to (iii) of the New Towns Act 1981,[^c-9e0749485468c0b7a1a79f4f83d04730]
 - an urban development corporation,
 - [^c11841571]. . .
-- [^key-3a1b4ae901ac5c7367dac984b6d5426f]..., or
+- [^c-3a1b4ae901ac5c7367dac984b6d5426f]..., or
 - a registered social landlord[^c11841591]. or an advance made to such a person by the[^c11841601] Welsh Ministers if the conveyance, assignment or grant was made under section 90.
 
 (5) In subsection (4) “**long lease**” has the same meaning as in Part V of the [^c11841611]Housing Act 1985 (the right to buy).
 
 ## Annotations
 
-[^key-904325ebdf4839a21246b5c1fe2f93ef]: Textual amendment: Words in s. 85(2)(3)(4) substituted (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/7/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
+[^c-904325ebdf4839a21246b5c1fe2f93ef]: Textual amendment: Words in s. 85(2)(3)(4) substituted (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/7/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
 
 [^c11841541]: Textual amendment: Words in s. 85(2) repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 222](https://www.legislation.gov.uk/ukpga/1996/52/section/222), [227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 18 Pt. IV para. 22(1)(d)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/part/IV/paragraph/22/1/d), [Sch. 19 Pt. XIII](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/XIII); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 
@@ -52,11 +52,11 @@ summary: ''
 
 [^c11841561]: Modification: S. 85(4) explained by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 5(1)](https://www.legislation.gov.uk/ukpga/1985/71/section/5/1), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/1985/71/schedule/3/paragraph/5/3)
 
-[^key-9e0749485468c0b7a1a79f4f83d04730]: Textual amendment: Words in s. 85(4) inserted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
+[^c-9e0749485468c0b7a1a79f4f83d04730]: Textual amendment: Words in s. 85(4) inserted (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2008/3002/schedule/1/paragraph/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
 
 [^c11841571]: Textual amendment: Words in s. 85(4) repealed (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 
-[^key-3a1b4ae901ac5c7367dac984b6d5426f]: Textual amendment: Words in s. 85(4) omitted (1.4.2009) by virtue of [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/7/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
+[^c-3a1b4ae901ac5c7367dac984b6d5426f]: Textual amendment: Words in s. 85(4) omitted (1.4.2009) by virtue of [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/7/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
 
 [^c11841591]: Textual amendment: Words in s. 85(4) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 15(30)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/30)
 

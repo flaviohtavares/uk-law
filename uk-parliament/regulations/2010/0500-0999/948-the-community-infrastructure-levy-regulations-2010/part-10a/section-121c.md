@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121C. Annual CIL rate summary[^key-6c1c57b3df4f829d29680b2d2d50ea7b]
+## 121C. Annual CIL rate summary[^c-6c1c57b3df4f829d29680b2d2d50ea7b]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c1c57b3df4f829d29680b2d2d50ea7b]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2010/948/part/10A) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-6c1c57b3df4f829d29680b2d2d50ea7b]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2010/948/part/10A) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

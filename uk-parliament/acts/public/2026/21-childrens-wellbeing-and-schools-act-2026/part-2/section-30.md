@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Free breakfast club provision in primary schools in England[^key-13b7b460eed23f953697e8b4020c963e][^key-15db3b03a4ffab260db5ee90a4cb49a4]
+## 30. Free breakfast club provision in primary schools in England[^c-13b7b460eed23f953697e8b4020c963e][^c-15db3b03a4ffab260db5ee90a4cb49a4]
 
 *Extent: E+W*
 
@@ -117,6 +117,6 @@ After [section 551A](https://www.legislation.gov.uk/ukpga/1996/56/section/551A) 
 
 ## Annotations
 
-[^key-13b7b460eed23f953697e8b4020c963e]: Commencement: S. 30 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-13b7b460eed23f953697e8b4020c963e]: Commencement: S. 30 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-15db3b03a4ffab260db5ee90a4cb49a4]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2026/21/section/30) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/i)
+[^c-15db3b03a4ffab260db5ee90a4cb49a4]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2026/21/section/30) in force at 15.7.2026 for specified purposes by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/i)

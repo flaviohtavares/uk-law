@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. New regulation 63A (additional requirements for applications for the appointment of a proxy on grounds relating to identification: England and Wales and Scotland)[^key-cfc98eb51215857af4782286e474b14b]
+## 86. New regulation 63A (additional requirements for applications for the appointment of a proxy on grounds relating to identification: England and Wales and Scotland)[^c-cfc98eb51215857af4782286e474b14b]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ After regulation 63 (additional requirements for applications for the appointmen
 
 ## Annotations
 
-[^key-cfc98eb51215857af4782286e474b14b]: Commencement: Reg. 86 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-cfc98eb51215857af4782286e474b14b]: Commencement: Reg. 86 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

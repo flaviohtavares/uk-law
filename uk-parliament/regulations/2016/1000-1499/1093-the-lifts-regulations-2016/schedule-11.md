@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — TYPE EXAMINATION FOR LIFTS AND SAFETY COMPONENTS FOR LIFTS (Annex IV to the Directive)[^key-bab6ba6bb63318b273db6356bd96a3eb]
+## SCHEDULE 11 — TYPE EXAMINATION FOR LIFTS AND SAFETY COMPONENTS FOR LIFTS (Annex IV to the Directive)[^c-bab6ba6bb63318b273db6356bd96a3eb]
 
 *Extent: E+W+S*
 
@@ -160,4 +160,4 @@ The installer's authorised representative may lodge the application referred to 
 
 ## Annotations
 
-[^key-bab6ba6bb63318b273db6356bd96a3eb]: Textual amendment: [Schs. 11-19](https://www.legislation.gov.uk/uksi/2016/1093/schedule/11) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 22 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/44) (with [Sch. 22 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bab6ba6bb63318b273db6356bd96a3eb]: Textual amendment: [Schs. 11-19](https://www.legislation.gov.uk/uksi/2016/1093/schedule/11) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 22 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/44) (with [Sch. 22 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -48,7 +48,7 @@ summary: ''
 
 (6) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for life[^key-ade7d216316815684e2d2e4d5400cd16] , to a fine or to both, or
+- (a) on conviction on indictment, to imprisonment for life[^c-ade7d216316815684e2d2e4d5400cd16] , to a fine or to both, or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months, to a fine not exceeding the statutory maximum or to both.
 
 (7) [^c20336441]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -61,6 +61,6 @@ summary: ''
 
 [^c11205291]: Textual amendment: S. 54(1)(aa)(2)(aa) inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 120(1)](https://www.legislation.gov.uk/ukpga/2001/24/section/120/1)
 
-[^key-ade7d216316815684e2d2e4d5400cd16]: Textual amendment: Words in s. 54(6) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)
+[^c-ade7d216316815684e2d2e4d5400cd16]: Textual amendment: Words in s. 54(6) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/2), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)
 
 [^c20336441]: Textual amendment: S. 54(7)-(9) repealed (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 39](https://www.legislation.gov.uk/ukpga/2008/28/section/39), [99](https://www.legislation.gov.uk/ukpga/2008/28/section/99), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/28/schedule/3/paragraph/2), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/28/schedule/9/part/3) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)(d)(e)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c/d/e)

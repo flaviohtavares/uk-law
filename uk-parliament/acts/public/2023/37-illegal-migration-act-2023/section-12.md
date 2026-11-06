@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Period for which persons may be detained[^key-1fa14f99950a45572ae9232a2cb7bca9][^key-0841337cb15465496f2f6e7655c1a94a]
+## 12. Period for which persons may be detained[^c-1fa14f99950a45572ae9232a2cb7bca9][^c-0841337cb15465496f2f6e7655c1a94a]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,6 +126,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fa14f99950a45572ae9232a2cb7bca9]: Commencement: S. 12 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
+[^c-1fa14f99950a45572ae9232a2cb7bca9]: Commencement: S. 12 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
 
-[^key-0841337cb15465496f2f6e7655c1a94a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/37/section/12) in force at 28.9.2023 by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/a)
+[^c-0841337cb15465496f2f6e7655c1a94a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/37/section/12) in force at 28.9.2023 by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/a)

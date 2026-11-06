@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.5.3. Service of notice on interested persons[^key-4a279d08763df6298262c5ddd9ca06fc]
+## 3.5.3. Service of notice on interested persons[^c-4a279d08763df6298262c5ddd9ca06fc]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where an application has been made under section 114, 204, 231 or 298 of the 198
 
 ## Annotations
 
-[^key-4a279d08763df6298262c5ddd9ca06fc]: Commencement: Rule 3.5.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-4a279d08763df6298262c5ddd9ca06fc]: Commencement: Rule 3.5.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

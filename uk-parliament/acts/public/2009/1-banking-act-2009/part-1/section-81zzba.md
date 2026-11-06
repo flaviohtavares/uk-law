@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81ZZBA. Sale to commercial purchaser and transfer to bridge bank: supplemental powers in relation to certain holding companies[^key-57b4d30bc15b8d597f5941611075606c][^key-33299aeffe1d40c097ee52b7925ffb5f]
+## 81ZZBA. Sale to commercial purchaser and transfer to bridge bank: supplemental powers in relation to certain holding companies[^c-57b4d30bc15b8d597f5941611075606c][^c-33299aeffe1d40c097ee52b7925ffb5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Condition 1 is that the banking group company is an undertaking incorporated in, or formed under the law of any part of, the United Kingdom.
 
-(3) Condition 2 is that the banking group company is an entity within subsection (2A) of section 81AA[^key-c4bdae7053eea94fd4337460e5cdafb8].
+(3) Condition 2 is that the banking group company is an entity within subsection (2A) of section 81AA[^c-c4bdae7053eea94fd4337460e5cdafb8].
 
 (4) Condition 3 is that the PRA is satisfied that the banking group company is failing or likely to fail.
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-57b4d30bc15b8d597f5941611075606c]: Textual amendment: Ss. 81ZZBA, 81ZZBB inserted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1350/regulation/14)
+[^c-57b4d30bc15b8d597f5941611075606c]: Textual amendment: Ss. 81ZZBA, 81ZZBB inserted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1350/regulation/14)
 
-[^key-33299aeffe1d40c097ee52b7925ffb5f]: Textual amendment: Ss. 81B-81D inserted (5.6.2014 for specified purposes, 1.8.2014 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/b); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-33299aeffe1d40c097ee52b7925ffb5f]: Textual amendment: Ss. 81B-81D inserted (5.6.2014 for specified purposes, 1.8.2014 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/b); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
 
-[^key-c4bdae7053eea94fd4337460e5cdafb8]: Textual amendment: Words in [s. 81ZZBA(3)](https://www.legislation.gov.uk/ukpga/2009/1/section/81ZZBA/3) substituted (31.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/3), [65](https://www.legislation.gov.uk/uksi/2020/1350/regulation/65)
+[^c-c4bdae7053eea94fd4337460e5cdafb8]: Textual amendment: Words in [s. 81ZZBA(3)](https://www.legislation.gov.uk/ukpga/2009/1/section/81ZZBA/3) substituted (31.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/3), [65](https://www.legislation.gov.uk/uksi/2020/1350/regulation/65)

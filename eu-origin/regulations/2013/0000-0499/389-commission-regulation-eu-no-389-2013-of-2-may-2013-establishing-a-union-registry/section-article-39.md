@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 39. Execution of transfers[^key-2883918ce377f55ba55844e53ebc8eb5]
+## Article 39. Execution of transfers[^c-2883918ce377f55ba55844e53ebc8eb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2883918ce377f55ba55844e53ebc8eb5]: Textual amendment: [Arts. 39](https://www.legislation.gov.uk/eur/2013/389/article/39), [40](https://www.legislation.gov.uk/eur/2013/389/article/40) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/4)
+[^c-2883918ce377f55ba55844e53ebc8eb5]: Textual amendment: [Arts. 39](https://www.legislation.gov.uk/eur/2013/389/article/39), [40](https://www.legislation.gov.uk/eur/2013/389/article/40) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/4)

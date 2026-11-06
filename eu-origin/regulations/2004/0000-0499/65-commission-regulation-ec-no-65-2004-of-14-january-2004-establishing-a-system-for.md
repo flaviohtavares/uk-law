@@ -75,7 +75,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## CHAPTER I — SCOPE
 
-**Article 1.**[^key-808fdae6e73e86e0c046e2a445c42fdd] 1. This Regulation applies to genetically modified organisms, hereinafter ‘GMOs’, authorised for placing on the market in accordance with Regulation 1829/2003 of the European Parliament and of the Council or—
+**Article 1.**[^c-808fdae6e73e86e0c046e2a445c42fdd] 1. This Regulation applies to genetically modified organisms, hereinafter ‘GMOs’, authorised for placing on the market in accordance with Regulation 1829/2003 of the European Parliament and of the Council or—
 
 - (a) in England, the Genetically Modified Organisms (Deliberate Release) Regulations 2002,
 - (b) in Wales, the Genetically Modified Organisms (Deliberate Release) (Wales) Regulations 2002,
@@ -95,31 +95,31 @@ or applications for authorisation under such legislation.
 
 **Article 2.** 1. Applications for the placing on the market of GMOs shall include a unique identifier for each GMO concerned.
 
-2. Applicants shall, in accordance with the formats set out in the Annex, develop the unique identifier for each GMO concerned, following consultation of the OECD BioTrack product database, and the Biosafety clearing house established by the Cartagena Protocol on Biosafety to the Convention on Biological Diversity (the “Biosafety clearing house”)[^key-971a63f87a11acdd47b5f3c17c00c18f], to determine whether or not a unique identifier has already been developed for that GMO in accordance with these formats.
+2. Applicants shall, in accordance with the formats set out in the Annex, develop the unique identifier for each GMO concerned, following consultation of the OECD BioTrack product database, and the Biosafety clearing house established by the Cartagena Protocol on Biosafety to the Convention on Biological Diversity (the “Biosafety clearing house”)[^c-971a63f87a11acdd47b5f3c17c00c18f], to determine whether or not a unique identifier has already been developed for that GMO in accordance with these formats.
 
 **Article 3.** Where consent or authorisation is granted for the placing on the market of a GMO:
 
 - (a) the consent or authorisation shall specify the unique identifier for that GMO;
-- (b) the Secretary of State[^key-c20e68ff458419e63a535a0551c7fef3] shall ensure that the unique identifier for that GMO is communicated as soon as possible, in writing, to the Biosafety clearing house;
-- (c)[^key-c3984c504f5a55f72b655b4e0be7ef00] for GMOs authorised under Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), the unique identifier must be recorded in the register maintained in accordance with Article 28 of that Regulation.
+- (b) the Secretary of State[^c-c20e68ff458419e63a535a0551c7fef3] shall ensure that the unique identifier for that GMO is communicated as soon as possible, in writing, to the Biosafety clearing house;
+- (c)[^c-c3984c504f5a55f72b655b4e0be7ef00] for GMOs authorised under Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), the unique identifier must be recorded in the register maintained in accordance with Article 28 of that Regulation.
 
 ## CHAPTER III — GMOs FOR WHICH CONSENT FOR THEIR PLACING ON THE MARKET HAS BEEN GRANTED PRIOR TO THE ENTRY INTO FORCE OF THIS REGULATION
 
 **No longer in force.**
 
-**Article 4.**[^key-031d613db9c62a460ef868831b92dc88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-031d613db9c62a460ef868831b92dc88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-031d613db9c62a460ef868831b92dc88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-031d613db9c62a460ef868831b92dc88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 6.**[^key-031d613db9c62a460ef868831b92dc88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-031d613db9c62a460ef868831b92dc88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER IV — FINAL PROVISION
 
 **Article 7.** This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.
 
-[^key-60a3c359e3dd1b0c5ae6033351f7245a]...
+[^c-60a3c359e3dd1b0c5ae6033351f7245a]...
 
 Done at Brussels, 14 January 2004.
 
@@ -129,7 +129,7 @@ Margot Wallström
 
 Member of the Commission
 
-## ANNEX — FORMATS FOR UNIQUE IDENTIFIERS[^key-559cca8cd00ff50d1c57f8b680303195][^key-1b6c8f3b91638accce4d3d9d5672f381]
+## ANNEX — FORMATS FOR UNIQUE IDENTIFIERS[^c-559cca8cd00ff50d1c57f8b680303195][^c-1b6c8f3b91638accce4d3d9d5672f381]
 
 The Annex below defines the format for the unique identifier for plants in Section A and for micro-organisms and animals in Section B.
 
@@ -139,7 +139,7 @@ SECTION A
 
 Overall format
 
-This Annex provides details as to the format to be used for unique identifiers for GMOs pending or authorised for the placing on the market [^key-559cca8cd00ff50d1c57f8b680303195].... The format consists of three components comprising a number of alphanumeric digits and providing reference to the applicant/consent holder, transformation event and a means for verification.
+This Annex provides details as to the format to be used for unique identifiers for GMOs pending or authorised for the placing on the market [^c-559cca8cd00ff50d1c57f8b680303195].... The format consists of three components comprising a number of alphanumeric digits and providing reference to the applicant/consent holder, transformation event and a means for verification.
 
 The format comprises nine alphanumeric digits in total. The first component represents the applicant/consent holder and comprises two or three alphanumeric digits. The second component comprises five or six alphanumeric digits and represents the transformation event. The third component provides for verification and is represented by a final numerical digit.
 
@@ -236,18 +236,18 @@ The provisions of section A of this Annex shall apply to micro-organisms and ani
 
 [^f00003]: Footnote: OJ L 117, 8.5.1990, p. 15. Directive as last amended by Directive 2001/18/EC.
 
-[^key-808fdae6e73e86e0c046e2a445c42fdd]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2004/65/article/1) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/2) (as amended by [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [12(3)](https://www.legislation.gov.uk/uksi/2019/759/regulation/12/3) and [S.I. 2020/1421](https://www.legislation.gov.uk/uksi/2020/1421), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [Sch. paras. 4(2)](https://www.legislation.gov.uk/uksi/2020/1421/schedule/paragraph/4/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/1421/schedule/paragraph/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-808fdae6e73e86e0c046e2a445c42fdd]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2004/65/article/1) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(2)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/2) (as amended by [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2019/759/regulation/1/a), [12(3)](https://www.legislation.gov.uk/uksi/2019/759/regulation/12/3) and [S.I. 2020/1421](https://www.legislation.gov.uk/uksi/2020/1421), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [Sch. paras. 4(2)](https://www.legislation.gov.uk/uksi/2020/1421/schedule/paragraph/4/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/1421/schedule/paragraph/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-971a63f87a11acdd47b5f3c17c00c18f]: Textual amendment: Words in Art. 2(2) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-971a63f87a11acdd47b5f3c17c00c18f]: Textual amendment: Words in Art. 2(2) inserted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c20e68ff458419e63a535a0551c7fef3]: Textual amendment: Words in [Art. 3(b)](https://www.legislation.gov.uk/eur/2004/65/article/3/b) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(4)(a)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c20e68ff458419e63a535a0551c7fef3]: Textual amendment: Words in [Art. 3(b)](https://www.legislation.gov.uk/eur/2004/65/article/3/b) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(4)(a)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3984c504f5a55f72b655b4e0be7ef00]: Textual amendment: [Art. 3(c)](https://www.legislation.gov.uk/eur/2004/65/article/3/c) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3984c504f5a55f72b655b4e0be7ef00]: Textual amendment: [Art. 3(c)](https://www.legislation.gov.uk/eur/2004/65/article/3/c) substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-031d613db9c62a460ef868831b92dc88]: Textual amendment: Arts. 4-6 omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-031d613db9c62a460ef868831b92dc88]: Textual amendment: Arts. 4-6 omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(5)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-60a3c359e3dd1b0c5ae6033351f7245a]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [reg. 6(6)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60a3c359e3dd1b0c5ae6033351f7245a]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [reg. 6(6)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-559cca8cd00ff50d1c57f8b680303195]: Textual amendment: Words in Annex Section A para. 1 omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(7)(a)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-559cca8cd00ff50d1c57f8b680303195]: Textual amendment: Words in Annex Section A para. 1 omitted (31.12.2020) by virtue of [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(7)(a)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b6c8f3b91638accce4d3d9d5672f381]: Textual amendment: Words in Annex Section B substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(7)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/7/b) (as amended by [S.I. 2020/1421](https://www.legislation.gov.uk/uksi/2020/1421), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1421/schedule/paragraph/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b6c8f3b91638accce4d3d9d5672f381]: Textual amendment: Words in Annex Section B substituted (31.12.2020) by [The Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/90)](https://www.legislation.gov.uk/uksi/2019/90), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/1/2/b), [6(7)(b)](https://www.legislation.gov.uk/uksi/2019/90/regulation/6/7/b) (as amended by [S.I. 2020/1421](https://www.legislation.gov.uk/uksi/2020/1421), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1421/regulation/1/4), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1421/schedule/paragraph/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

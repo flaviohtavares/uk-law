@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Defence to proceedings in respect of statutory nuisance[^key-27e56eca2bf45815eea1869c2ce76d8a]
+## 45. Defence to proceedings in respect of statutory nuisance[^c-27e56eca2bf45815eea1869c2ce76d8a]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27e56eca2bf45815eea1869c2ce76d8a]: Commencement: Art. 45 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-27e56eca2bf45815eea1869c2ce76d8a]: Commencement: Art. 45 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
 [^f00034]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43); section 79 was amended by the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), sections 101 and 102; section 82 was amended by section 103 of the same Act. There are other amendments but none is relevant.
 

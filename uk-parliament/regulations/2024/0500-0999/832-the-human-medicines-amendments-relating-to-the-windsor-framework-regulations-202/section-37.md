@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment to regulation 52[^key-e73cee0029557a49b9915cdf1ac30f99]
+## 37. Amendment to regulation 52[^c-e73cee0029557a49b9915cdf1ac30f99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 52(3) (application for UKMA(NI) relating to certain medicinal prod
 
 ## Annotations
 
-[^key-e73cee0029557a49b9915cdf1ac30f99]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/832/regulation/37) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-e73cee0029557a49b9915cdf1ac30f99]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2024/832/regulation/37) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00048]: Footnote: Regulation 52 was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

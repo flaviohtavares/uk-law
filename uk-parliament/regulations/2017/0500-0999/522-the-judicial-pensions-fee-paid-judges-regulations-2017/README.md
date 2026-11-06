@@ -40,11 +40,11 @@ Coming into force in accordance with regulation 1
 
 [^c23060211][^c23060221]The Lord Chancellor in relation to judicial offices for which she is the appropriate Minister within the meaning of section 30 of the Judicial Pensions and Retirement Act 1993 and the Secretary of State in relation to judicial offices for which he is the appropriate Minister within the meaning of section 30 of that Act, make the following Regulations in exercise of the powers conferred by section 18A of that Act .
 
-In accordance with section 29(2A) of that Act a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^key-dec346152943da19c44a08a7aee3b7f1]
+In accordance with section 29(2A) of that Act a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.[^c-dec346152943da19c44a08a7aee3b7f1]
 
 ## Contents
 
-### PART 1 — PRELIMINARY[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 1 — PRELIMINARY[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
@@ -54,23 +54,23 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 6 — Qualifying judicial service](part-1/section-6.md)
 - [Section 7 — Appropriate annual salary](part-1/section-7.md)
 
-### PART 2 — PRINCIPAL SCHEME MEMBERSHIP[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 2 — PRINCIPAL SCHEME MEMBERSHIP[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 8 — Members](part-2/section-8.md)
 - [Section 9 — Opted-out members and active members](part-2/section-9.md)
 - [Section 10 — Opting out](part-2/section-10.md)
 - [Section 11 — Opting back in](part-2/section-11.md)
 
-### PART 2A — Requirements and elections for retirement benefits and death benefits to be calculated under pre-1995 provisions or post-1995 provisions[^key-dcd5561111f11f4a3b5252377ca63e9c]
+### PART 2A — Requirements and elections for retirement benefits and death benefits to be calculated under pre-1995 provisions or post-1995 provisions[^c-dcd5561111f11f4a3b5252377ca63e9c]
 
 - [Section 11A — Calculation of retirement benefits](part-2a/section-11a.md)
 - [Section 11B — Conditions for retirement benefits and death benefits to be calculated under Part 2B](part-2a/section-11b.md)
 - [Section 11C — Elections available to members](part-2a/section-11c.md)
 - [Section 11D — Benefits calculated under both the pre-1995 provisions and the post-1995 provisions](part-2a/section-11d.md)
 
-### PART 2B — Pre-1995 Provisions[^key-dcd5561111f11f4a3b5252377ca63e9c]
+### PART 2B — Pre-1995 Provisions[^c-dcd5561111f11f4a3b5252377ca63e9c]
 
-#### CHAPTER 1 — Retirement Benefits[^key-dcd5561111f11f4a3b5252377ca63e9c]
+#### CHAPTER 1 — Retirement Benefits[^c-dcd5561111f11f4a3b5252377ca63e9c]
 
 - [Section 11E — Retirement at or after normal pension age: entitlement to ordinary pension](part-2b/section-11e.md)
 - [Section 11F — Annual rate of ordinary pension](part-2b/section-11f.md)
@@ -84,7 +84,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 11N — Lump sum: entitlement and amount](part-2b/section-11n.md)
 - [Section 11O — Multiple retirements](part-2b/section-11o.md)
 
-#### CHAPTER 2 — Death Benefits[^key-dcd5561111f11f4a3b5252377ca63e9c]
+#### CHAPTER 2 — Death Benefits[^c-dcd5561111f11f4a3b5252377ca63e9c]
 
 - [Section 11P — Interpretation](part-2b/section-11p.md)
 - [Section 11Q — Entitlement to surviving adult’s pension](part-2b/section-11q.md)
@@ -98,7 +98,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 11Y — Lump sum on death: death after retirement of member with preserved pension](part-2b/section-11y.md)
 - [Section 11Z — Lump sum on death: death soon after retirement of member entitled to pension](part-2b/section-11z.md)
 
-### PART 3 — RETIREMENT BENEFITS: Post-1995 Provisions[^key-dfae7c7aeda379fd5cb11ce519520821][^key-eaeadf7423fa48a44dabd08102e175ee]
+### PART 3 — RETIREMENT BENEFITS: Post-1995 Provisions[^c-dfae7c7aeda379fd5cb11ce519520821][^c-eaeadf7423fa48a44dabd08102e175ee]
 
 - [Section 11Z1 — Application and interpretation of Part 3](part-3/section-11z1.md)
 - [Section 12 — Retirement aged 65 or over: entitlement to ordinary pension](part-3/section-12.md)
@@ -117,12 +117,12 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 25 — Lump sum: entitlement and amount](part-3/section-25.md)
 - [Section 26 — Multiple retirements](part-3/section-26.md)
 
-### PART 4 — PARTIAL RETIREMENT[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 4 — PARTIAL RETIREMENT[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 27 — Option to take partial retirement in relation to a fee-paid judicial office](part-4/section-27.md)
 - [Section 28 — Effect of partial retirement](part-4/section-28.md)
 
-### PART 5 — BENEFITS FOR PERSONS ENTITLED TO PENSION CREDITS[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 5 — BENEFITS FOR PERSONS ENTITLED TO PENSION CREDITS[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 29 — Application of Part and interpretation](part-5/section-29.md)
 - [Section 30 — Pension credit derived from the principal scheme: entitlement to pension](part-5/section-30.md)
@@ -131,7 +131,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 33 — Lump sum where transferee dies before age 65](part-5/section-33.md)
 - [Section 34 — Exclusions](part-5/section-34.md)
 
-### PART 6 — DEATH BENEFITS: Post-1995 Provisions[^key-dfae7c7aeda379fd5cb11ce519520821][^key-ed283b797c2874fd26a7987431659fc5]
+### PART 6 — DEATH BENEFITS: Post-1995 Provisions[^c-dfae7c7aeda379fd5cb11ce519520821][^c-ed283b797c2874fd26a7987431659fc5]
 
 - [Section 35 — Interpretation and application of Part](part-6/section-35.md)
 - [Section 36 — Entitlement to a surviving adult's pension](part-6/section-36.md)
@@ -147,21 +147,21 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 46 — Lump sum on death: death after retirement of member with preserved pension](part-6/section-46.md)
 - [Section 47 — Lump sum on death: death soon after retirement of member entitled to pension](part-6/section-47.md)
 
-### PART 7 — BENEFITS IN RESPECT OF PERIODS BEFORE COMMENCEMENT[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 7 — BENEFITS IN RESPECT OF PERIODS BEFORE COMMENCEMENT[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 48 — Application of Part](part-7/section-48.md)
 - [Section 49 — Meaning of “the interim payments amount” and “the pre-commencement benefits amount”](part-7/section-49.md)
 - [Section 50 — Additional payment where no or insufficient interim payments made](part-7/section-50.md)
 - [Section 51 — Deduction of any excess interim payments](part-7/section-51.md)
 
-### PART 7A — Refund of Excess Contributions[^key-1a570871de08c474840e7718f4583fc2]
+### PART 7A — Refund of Excess Contributions[^c-1a570871de08c474840e7718f4583fc2]
 
 - [Section 51A — Application of Part](part-7a/section-51a.md)
 - [Section 51B — Definitions](part-7a/section-51b.md)
 - [Section 51C — Additional payment of refund](part-7a/section-51c.md)
 - [Section 51D — Recovery of excess refund](part-7a/section-51d.md)
 
-### PART 8 — CONTRIBUTIONS IN RESPECT OF PRE-COMMENCEMENT SERVICE[^key-2f4abf8738bec5f6d8a0c24a15cf0cfc][^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 8 — CONTRIBUTIONS IN RESPECT OF PRE-COMMENCEMENT SERVICE[^c-2f4abf8738bec5f6d8a0c24a15cf0cfc][^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 52 — Interpretation](part-8/section-52.md)
 - [Section 53 — Liability to pay pre-commencement contributions amount](part-8/section-53.md)
@@ -175,7 +175,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 58 — Payment of pre-commencement contributions amount](part-8/section-58.md)
 - [Section 58A — Payment of initial pre-commencement contributions](part-8/section-58a.md)
 
-### PART 9 — CONTRIBUTIONS IN RESPECT OF SERVICE ON OR AFTER COMMENCEMENT DAY[^key-2f4abf8738bec5f6d8a0c24a15cf0cfc][^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 9 — CONTRIBUTIONS IN RESPECT OF SERVICE ON OR AFTER COMMENCEMENT DAY[^c-2f4abf8738bec5f6d8a0c24a15cf0cfc][^c-dfae7c7aeda379fd5cb11ce519520821]
 
 *Extent: E+W+S+N.I.*
 
@@ -186,7 +186,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 63 — Contribution rates for fee years](part-9/section-63.md)
 - [Section 64 — Payment of contribution](part-9/section-64.md)
 
-### PART 10 — REPAYMENT OF DEPENDANTS' BENEFITS CONTRIBUTIONS[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 10 — REPAYMENT OF DEPENDANTS' BENEFITS CONTRIBUTIONS[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 - [Section 65 — Full repayment of dependants' benefits contributions on retirement](part-10/section-65.md)
 - [Section 66 — Partial repayment of dependants' benefits contributions on retirement](part-10/section-66.md)
@@ -194,11 +194,11 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 68 — Partial repayment of dependants' benefits contributions on partial retirement](part-10/section-68.md)
 - [Section 69 — Repayments under this Part to be paid with compound interest](part-10/section-69.md)
 
-### PART 10A — Commutation of small pensions[^key-95bee346daba50644525b8f7e701d18e]
+### PART 10A — Commutation of small pensions[^c-95bee346daba50644525b8f7e701d18e]
 
 - [Section 69A — Commutation of small pensions](part-10a/section-69a.md)
 
-### PART 11 — TRANSFERS[^key-dfae7c7aeda379fd5cb11ce519520821]
+### PART 11 — TRANSFERS[^c-dfae7c7aeda379fd5cb11ce519520821]
 
 #### CHAPTER 1 — GENERAL
 
@@ -261,7 +261,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 108 — Retired FPJAYS members: maximum contributions](part-13/section-108.md)
 - [Section 109 — Valuation of benefits for retired FPJAYS members](part-13/section-109.md)
 
-#### CHAPTER 3 — unretired FPJAYS MEMBERS[^key-65af70abe4e852fd83f54ad5388c4d55]
+#### CHAPTER 3 — unretired FPJAYS MEMBERS[^c-65af70abe4e852fd83f54ad5388c4d55]
 
 - [Section 110 — Purchase of added years by unretired FPJAYS members](part-13/section-110.md)
 - [Section 111 — Contributions by unretired FPJAYS members](part-13/section-111.md)
@@ -289,7 +289,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 121 — Contributions by retired JASAPS members](part-14/section-121.md)
 - [Section 122 — Valuation of benefits for retired JASAPS members](part-14/section-122.md)
 
-#### CHAPTER 3 — unretired JASAPS MEMBERS[^key-9c428cf4c78368ae5771bafee4ea801d]
+#### CHAPTER 3 — unretired JASAPS MEMBERS[^c-9c428cf4c78368ae5771bafee4ea801d]
 
 - [Section 123 — Purchase of added surviving adult's pension by unretired JASAPS members](part-14/section-123.md)
 - [Section 124 — Cost of added surviving adult's pension by unretired JASAPS members](part-14/section-124.md)
@@ -301,7 +301,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 
 - [Section 128 — Reduction of benefits](part-14/section-128.md)
 
-### PART 14A — FEE-PAID JUDICIAL ADDED BENEFITS SCHEME[^key-73af1ad52439faa59a794455bec473bf]
+### PART 14A — FEE-PAID JUDICIAL ADDED BENEFITS SCHEME[^c-73af1ad52439faa59a794455bec473bf]
 
 - [Section 128A — Interpretation](part-14a/section-128a.md)
 - [Section 128B — Determination of WS and RS values for use in this Part](part-14a/section-128b.md)
@@ -320,7 +320,7 @@ In accordance with section 29(2A) of that Act a draft of this instrument has bee
 - [Section 128O — Refund of contributions: excess contributions](part-14a/section-128o.md)
 - [Section 128P — Reduction of benefits](part-14a/section-128p.md)
 
-### PART 14B — Conversions of added benefits etc.[^key-73af1ad52439faa59a794455bec473bf]
+### PART 14B — Conversions of added benefits etc.[^c-73af1ad52439faa59a794455bec473bf]
 
 - [Section 128Q — Interpretation of Part](part-14b/section-128q.md)
 - [Section 128R — Conversion of added years into added units of benefit](part-14b/section-128r.md)
@@ -395,24 +395,24 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23060221]: Marginal citation: [Section 18A](https://www.legislation.gov.uk/uksi/2017/522/section/18A) was inserted by section 78(1) of the [Pension Schemes Act 2015 (c.8)](https://www.legislation.gov.uk/ukpga/2015/8).
 
-[^key-dec346152943da19c44a08a7aee3b7f1]: Modification: Regulations applied (with modifications) (1.4.2021) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2021 (S.I. 2021/444)](https://www.legislation.gov.uk/uksi/2021/444), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/444/regulation/5)
+[^c-dec346152943da19c44a08a7aee3b7f1]: Modification: Regulations applied (with modifications) (1.4.2021) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2021 (S.I. 2021/444)](https://www.legislation.gov.uk/uksi/2021/444), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/444/regulation/5)
 
-[^key-dfae7c7aeda379fd5cb11ce519520821]: Modification: [Pts. 1-11](https://www.legislation.gov.uk/uksi/2017/522/part/1) restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-dfae7c7aeda379fd5cb11ce519520821]: Modification: [Pts. 1-11](https://www.legislation.gov.uk/uksi/2017/522/part/1) restricted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 90](https://www.legislation.gov.uk/ukpga/2022/7/section/90), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
 
-[^key-dcd5561111f11f4a3b5252377ca63e9c]: Textual amendment: [Pts. 2A](https://www.legislation.gov.uk/uksi/2017/522/part/2A), [2B](https://www.legislation.gov.uk/uksi/2017/522/part/2B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/403/regulation/12)
+[^c-dcd5561111f11f4a3b5252377ca63e9c]: Textual amendment: [Pts. 2A](https://www.legislation.gov.uk/uksi/2017/522/part/2A), [2B](https://www.legislation.gov.uk/uksi/2017/522/part/2B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/403/regulation/12)
 
-[^key-eaeadf7423fa48a44dabd08102e175ee]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2017/522/part/3) heading inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/403/regulation/13)
+[^c-eaeadf7423fa48a44dabd08102e175ee]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2017/522/part/3) heading inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2023/403/regulation/13)
 
-[^key-ed283b797c2874fd26a7987431659fc5]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2017/522/part/6) heading inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [28(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/28/1)
+[^c-ed283b797c2874fd26a7987431659fc5]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2017/522/part/6) heading inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [28(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/28/1)
 
-[^key-1a570871de08c474840e7718f4583fc2]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/522/part/7A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2023/403/regulation/31)
+[^c-1a570871de08c474840e7718f4583fc2]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/522/part/7A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2023/403/regulation/31)
 
-[^key-2f4abf8738bec5f6d8a0c24a15cf0cfc]: Modification: [Pts. 8](https://www.legislation.gov.uk/uksi/2017/522/part/8), [9](https://www.legislation.gov.uk/uksi/2017/522/part/9) excluded (1.4.2021) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2021 (S.I. 2021/444)](https://www.legislation.gov.uk/uksi/2021/444), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/6/1)
+[^c-2f4abf8738bec5f6d8a0c24a15cf0cfc]: Modification: [Pts. 8](https://www.legislation.gov.uk/uksi/2017/522/part/8), [9](https://www.legislation.gov.uk/uksi/2017/522/part/9) excluded (1.4.2021) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2021 (S.I. 2021/444)](https://www.legislation.gov.uk/uksi/2021/444), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2021/444/regulation/6/1)
 
-[^key-95bee346daba50644525b8f7e701d18e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2017/522/part/10A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2023/403/regulation/43)
+[^c-95bee346daba50644525b8f7e701d18e]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2017/522/part/10A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2023/403/regulation/43)
 
-[^key-65af70abe4e852fd83f54ad5388c4d55]: Textual amendment: Word in [Pt. 13 Ch. 3](https://www.legislation.gov.uk/uksi/2017/522/part/13/chapter/3) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [52(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/52/1)
+[^c-65af70abe4e852fd83f54ad5388c4d55]: Textual amendment: Word in [Pt. 13 Ch. 3](https://www.legislation.gov.uk/uksi/2017/522/part/13/chapter/3) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [52(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/52/1)
 
-[^key-9c428cf4c78368ae5771bafee4ea801d]: Textual amendment: Word in [Pt. 14 Ch. 3](https://www.legislation.gov.uk/uksi/2017/522/part/14/chapter/3) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [61(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/61/1)
+[^c-9c428cf4c78368ae5771bafee4ea801d]: Textual amendment: Word in [Pt. 14 Ch. 3](https://www.legislation.gov.uk/uksi/2017/522/part/14/chapter/3) heading substituted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [61(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/61/1)
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)

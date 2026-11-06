@@ -24,7 +24,7 @@ Regulation 128
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-dbabc0449a76bd35ce057f52187d857d]
+#### 1. Interpretation[^c-dbabc0449a76bd35ce057f52187d857d]
 
 In this Schedule—
 
@@ -37,7 +37,7 @@ In this Schedule—
 - “overall limit of extra pension” has the meaning given in paragraph 3;
 - “periodical payment period” means the period for which periodical payments for added pension or an effective pension age are payable;
 - “period of service”, in relation to this scheme, means a continuous period of pensionable service under this scheme;
-- “[^key-bec8b1f45af1c232ecc930787a7f28ad]**purported added pension payment**” means a payment—
+- “[^c-bec8b1f45af1c232ecc930787a7f28ad]**purported added pension payment**” means a payment—
   - (a) which was made by either—
     - (i) a person “P” who has remediable service in a judicial office; or
     - (ii) a relevant fee-paid judge who has relevant service in a judicial office;
@@ -54,14 +54,14 @@ In this Schedule—
 - “third party” means a third party approved by the scheme manager to make payments for extra pension in respect of an active member of this scheme; and
 - “value”, in relation to an effective pension age option, means a value determined by the scheme manager under paragraph 29 of this Schedule.
 
-#### 2. Meaning of “amount of extra pension”[^key-57eaeb269de9546c4582a8671e3fb55d]
+#### 2. Meaning of “amount of extra pension”[^c-57eaeb269de9546c4582a8671e3fb55d]
 
 The amount of extra pension at any given time is the total of the following—
 
 - (a) the amount of accrued added pension at that time;
 - (b) if the member has exercised one or more effective pension age options, the value of each option at that time.
 
-#### 3. Meaning of “overall limit of extra pension”[^key-02b0d465d716fafd58c658c87da4f044]
+#### 3. Meaning of “overall limit of extra pension”[^c-02b0d465d716fafd58c658c87da4f044]
 
 (1) The overall limit of extra pension is—
 
@@ -75,14 +75,14 @@ The amount of extra pension at any given time is the total of the following—
 - (a) that pension were eligible to be so increased; and
 - (b) the beginning date for that pension were the first day of the previous scheme year.
 
-#### 4. Limit on added pension options[^key-acfd35a3858661c5e80c82ca4efac5c6]
+#### 4. Limit on added pension options[^c-acfd35a3858661c5e80c82ca4efac5c6]
 
 An added pension option may not be exercised in relation to a member if the member has exercised an effective pension age option and—
 
 - (a) the value of the effective pension age option exceeds the overall limit of extra pension; or
 - (b) if the added pension option is exercised, the amount of extra pension would exceed the overall limit of extra pension.
 
-#### 5. Amount of accrued added pension may not exceed overall limit of extra pension[^key-89b2c65015b098423c1121107588ed01]
+#### 5. Amount of accrued added pension may not exceed overall limit of extra pension[^c-89b2c65015b098423c1121107588ed01]
 
 (1) At any given time, the total amount of accrued added pension in all the active member’s accounts established for a member under Part 5 may not exceed the overall limit of extra pension.
 
@@ -90,7 +90,7 @@ An added pension option may not be exercised in relation to a member if the memb
 
 (3) If the scheme manager cancels the option, the periodical payments cease to be payable from the next pay period beginning after the date specified in the notice of cancellation.
 
-#### 6. Actuarial advice[^key-54b38cab2dd33d055e1516c7c9d851d3]
+#### 6. Actuarial advice[^c-54b38cab2dd33d055e1516c7c9d851d3]
 
 The scheme manager must take advice from the scheme actuary before determining any amount under this Schedule.
 
@@ -98,7 +98,7 @@ The scheme manager must take advice from the scheme actuary before determining a
 
 #### CHAPTER 1 — Exercising the added pension option
 
-##### 7. Added pension option exercisable by member[^key-9edf68a8423d0a8f2c8298b77f7a5f7d]
+##### 7. Added pension option exercisable by member[^c-9edf68a8423d0a8f2c8298b77f7a5f7d]
 
 (1) An active member of this scheme may opt to make added pension payments to increase—
 
@@ -119,7 +119,7 @@ The scheme manager must take advice from the scheme actuary before determining a
 - (a) has been an active member of this scheme in relation to a continuous period of pensionable service for at least 12 months; and
 - (b) has been provided with a statement of the amount of added pension (if paragraph 18 applies).
 
-##### 8. Added pension option exercisable by employer or third party[^key-607e2656c3d0252e38a8143dfa39d168]
+##### 8. Added pension option exercisable by employer or third party[^c-607e2656c3d0252e38a8143dfa39d168]
 
 (1) A third party or the employer of an active member of this scheme may, if the scheme manager approves, opt to make a lump sum payment for added pension to increase—
 
@@ -132,11 +132,11 @@ The scheme manager must take advice from the scheme actuary before determining a
 
 #### CHAPTER 2 — Periodical payments for added pension
 
-##### 9. Application of Chapter[^key-b6893d1fe3ea94469f2672b6ad865904]
+##### 9. Application of Chapter[^c-b6893d1fe3ea94469f2672b6ad865904]
 
 This Chapter applies in relation to an active member of this scheme who opts to make periodical payments for added pension.
 
-##### 10. Member’s option to make periodical payments for added pension[^key-21992e74b57d2a8fe78a26a74c2b8b2c]
+##### 10. Member’s option to make periodical payments for added pension[^c-21992e74b57d2a8fe78a26a74c2b8b2c]
 
 (1) An option notice must specify—
 
@@ -150,13 +150,13 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 
 (3) The amount of the periodical payment must not be less than any minimum amount determined by the scheme manager.
 
-##### 11. Cancellation of option by member[^key-252d7bb05dbdc2a2001f547a9d692c11]
+##### 11. Cancellation of option by member[^c-252d7bb05dbdc2a2001f547a9d692c11]
 
 (1) The member may, by notice to the scheme manager, cancel the option at any time during the periodical payment period.
 
 (2) If the member cancels the option, the periodical payments cease to be payable from the beginning of the next scheme year after the scheme manager receives the notice of cancellation.
 
-##### 12. Periodical payments[^key-90c66b319f2e945df25111bae93e32fa]
+##### 12. Periodical payments[^c-90c66b319f2e945df25111bae93e32fa]
 
 (1) The periodical payments are payable by deduction by the member’s employer from the member’s pensionable earnings during the periodical payment period.
 
@@ -181,7 +181,7 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 
 (5) If a member stops the periodical payments during a period of assumed pay, the member may, by notice to the scheme manager in a form required by the scheme manager, resume the periodical payments in the next pay period after the period of assumed pay ends.
 
-##### 13. Amount of added (self only) pension for a scheme year (periodical payments)[^key-e75a2938a3b47b48bb55722418b2d2e1]
+##### 13. Amount of added (self only) pension for a scheme year (periodical payments)[^c-e75a2938a3b47b48bb55722418b2d2e1]
 
 (1) This paragraph applies in relation to each scheme year during which a member makes periodical payments to increase the member’s retirement benefits only.
 
@@ -189,7 +189,7 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 
 (3) The amount is determined by the scheme manager by reference to actuarial tables, having regard to the cost in the scheme year of providing retirement benefits to a person of the member’s age and gender.
 
-##### 14. Amount of added (all beneficiaries) pension for a scheme year (periodical payments)[^key-d159a5693c32dc3a3f6f74b6a5db2110]
+##### 14. Amount of added (all beneficiaries) pension for a scheme year (periodical payments)[^c-d159a5693c32dc3a3f6f74b6a5db2110]
 
 (1) This paragraph applies in relation to each scheme year during which a member makes periodical payments to increase—
 
@@ -205,11 +205,11 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 
 #### CHAPTER 3 — Lump sum payments for added pension made by member
 
-##### 15. Application of Chapter[^key-8b4147a274c692b2be4c47065c00d3de]
+##### 15. Application of Chapter[^c-8b4147a274c692b2be4c47065c00d3de]
 
 This Chapter applies in relation to an active member of this scheme who opts to make a lump sum payment for added pension.
 
-##### 16. Member’s option to make a lump sum payment for added pension[^key-26f82ba099cbd1235bb96ff40f943936]
+##### 16. Member’s option to make a lump sum payment for added pension[^c-26f82ba099cbd1235bb96ff40f943936]
 
 (1) A member may exercise the option to make a lump sum payment for added pension by notice to the scheme manager in a form required by the scheme manager.
 
@@ -217,7 +217,7 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 
 (3) The lump sum is payable immediately to the scheme manager by deduction by the member’s employer from the member’s pensionable earnings or otherwise.
 
-##### 17. Statement of amount of added pension[^key-d9cfe051da52c6c88d6dc9a767604c36]
+##### 17. Statement of amount of added pension[^c-d9cfe051da52c6c88d6dc9a767604c36]
 
 (1) If the scheme manager so requires, the member before exercising the option to make a lump sum payment for added pension must ask the scheme manager to provide a statement of the amount of added pension.
 
@@ -228,7 +228,7 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 - (a) specify the overall limit of extra pension; and
 - (b) inform the member if it appears to the scheme manager that the overall limit of extra pension would be exceeded if the active member’s account is credited with the amount of added pension set out in the statement.
 
-##### 18. Amount of added (self only) pension (lump sum payment)[^key-d2e8c9c94ce85e696ebab6787da1e770]
+##### 18. Amount of added (self only) pension (lump sum payment)[^c-d2e8c9c94ce85e696ebab6787da1e770]
 
 (1) This paragraph applies if a member opts to make a lump sum payment to increase the member’s retirement benefits only.
 
@@ -243,7 +243,7 @@ This Chapter applies in relation to an active member of this scheme who opts to 
   - (iii) factors relating to the member’s circumstances as at the relevant day; and
   - (iv) any other factors as at the date of the statement of the amount of added pension to which the scheme actuary considers regard should be had.
 
-##### 19. Amount of added (all beneficiaries) pension (lump sum payment)[^key-6f76dbdbb86373b913b687f254e26309]
+##### 19. Amount of added (all beneficiaries) pension (lump sum payment)[^c-6f76dbdbb86373b913b687f254e26309]
 
 (1) This paragraph applies if a member opts to pay a lump sum to increase—
 
@@ -263,11 +263,11 @@ This Chapter applies in relation to an active member of this scheme who opts to 
 
 #### CHAPTER 4 — Lump sum payments for added pension made by employer or third party
 
-##### 20. Application of Chapter[^key-04bebc1c34ec948e8ab76eac9d732b9f]
+##### 20. Application of Chapter[^c-04bebc1c34ec948e8ab76eac9d732b9f]
 
 This Chapter applies in relation to an employer or third party who opts to make a lump sum payment for added pension in relation to an active member of this scheme.
 
-##### 21. Employer or third party option to make a lump sum payment for added pension[^key-f3085bc6e76e274851c98ebe395d11b4]
+##### 21. Employer or third party option to make a lump sum payment for added pension[^c-f3085bc6e76e274851c98ebe395d11b4]
 
 (1) An employer or third party may exercise the option to make a lump sum payment for added pension by notice to the scheme manager in a form required by the scheme manager.
 
@@ -284,7 +284,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (5) The scheme manager must notify the employer or third party of the amount of the lump sum and the manner in which it is to be paid.
 
-##### 22. Amount of added (self only) pension (lump sum payment)[^key-55cc6f2b1939a92d147793b56dcb5401]
+##### 22. Amount of added (self only) pension (lump sum payment)[^c-55cc6f2b1939a92d147793b56dcb5401]
 
 (1) This paragraph applies if an employer or third party opts to make a lump sum payment to increase the member’s added (self only) pension.
 
@@ -292,7 +292,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (3) The amount credited to the account is an amount determined by the scheme manager, after consultation with the scheme actuary, having regard to the amount of the lump sum payment.
 
-##### 23. Amount of added (all beneficiaries) pension (lump sum payment)[^key-24ea01bc84b0a5e0532ba834678b87e7]
+##### 23. Amount of added (all beneficiaries) pension (lump sum payment)[^c-24ea01bc84b0a5e0532ba834678b87e7]
 
 (1) This paragraph applies if an employer or third party opts to pay a lump sum to increase the member’s added (all beneficiaries) pension.
 
@@ -300,9 +300,9 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (3) The amount credited to the account is an amount determined by the scheme manager, after consultation with the scheme actuary, having regard to the amount of the lump sum payment.
 
-#### CHAPTER 5 — Deemed membership for added pension payments[^key-bdcd5c56ee8f4a806c9077a7e8c4993e]
+#### CHAPTER 5 — Deemed membership for added pension payments[^c-bdcd5c56ee8f4a806c9077a7e8c4993e]
 
-##### 23A. Added pension payment or purported added pension payment in respect of judges with remediable service[^key-1cc42fbff4448a2d8e762aa1316ece0b]
+##### 23A. Added pension payment or purported added pension payment in respect of judges with remediable service[^c-1cc42fbff4448a2d8e762aa1316ece0b]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -325,7 +325,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (4) P is to be treated as an active member of this scheme for all purposes in connection with the added pension payments referred to in sub-paragraph (3)(b).
 
-##### 23B. Purported added pension in respect of relevant fee-paid judges[^key-3f8c73c3dcdab7f89b5a26fc99fc8ec1]
+##### 23B. Purported added pension in respect of relevant fee-paid judges[^c-3f8c73c3dcdab7f89b5a26fc99fc8ec1]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -340,7 +340,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 #### CHAPTER 1 — Exercising the effective pension age option
 
-##### 24. Effective pension age option exercisable by member[^key-eee8aa975fbf6210ab9d6072487d903d]
+##### 24. Effective pension age option exercisable by member[^c-eee8aa975fbf6210ab9d6072487d903d]
 
 (1) This paragraph applies if an active member of this scheme in relation to a continuous period of pensionable service has a normal pension age above 65 years.
 
@@ -355,7 +355,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 - (a) relative to normal pension age; and
 - (b) automatically adjusted to reflect any change in normal pension age.
 
-##### 25. Exercising the effective pension age option[^key-bcacc8d3512eb134cc939f56e677549a]
+##### 25. Exercising the effective pension age option[^c-bcacc8d3512eb134cc939f56e677549a]
 
 (1) A member may exercise an effective pension age option by notice to the scheme manager in a form required by the scheme manager.
 
@@ -368,7 +368,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 - (a) a period of assumed pay; or
 - (b) any scheme year in which the member has reached the overall limit of extra pension for that year.
 
-##### 26. Payment of pension at effective pension age[^key-aa9ca93c7f72bbcf064dbdef66d3000d]
+##### 26. Payment of pension at effective pension age[^c-aa9ca93c7f72bbcf064dbdef66d3000d]
 
 (1) For any part of a scheme year in which a member makes periodical payments for an effective pension age option, the member is entitled to payment of a full retirement earned pension or partial retirement earned pension attributable to the option at the effective pension age stated in the option without actuarial reduction.
 
@@ -376,7 +376,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (3) For any period in which the periodical payments are stopped, an amount of standard earned pension is credited to the active member’s account instead of an amount of earned pension attributable to the option.
 
-##### 27. Member ceases to be in pensionable service under this scheme[^key-17c8c1919634f93618b472ead2a222ec]
+##### 27. Member ceases to be in pensionable service under this scheme[^c-17c8c1919634f93618b472ead2a222ec]
 
 (1) An effective pension age option in relation to a continuous period of pensionable service under this scheme ceases to have effect when the member ceases to be in that pensionable service.
 
@@ -391,7 +391,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (5) The periodical payments resume under sub-paragraph (4) even if the member has reached the overall limit of extra pension for the scheme year in which the payments resume.
 
-##### 28. Cancellation of option[^key-fba9dd7eb5c7e8c7eeb7f471c5236d0c]
+##### 28. Cancellation of option[^c-fba9dd7eb5c7e8c7eeb7f471c5236d0c]
 
 (1) A member may, by notice to the scheme manager, cancel an effective pension age option at any time during the periodical payment period.
 
@@ -401,7 +401,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 (4) The periodical payments resume under sub-paragraph (3) even if the member has reached the overall limit of extra pension for the scheme year in which the payments resume.
 
-##### 29. Value of an effective pension age option[^key-56c2962240dab3029814447fd233baa3]
+##### 29. Value of an effective pension age option[^c-56c2962240dab3029814447fd233baa3]
 
 (1) The value of an effective pension age option at any time is a value determined by the scheme manager as at that time.
 
@@ -412,7 +412,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 
 #### CHAPTER 2 — Making effective pension age payments
 
-##### 30. Amount of periodical payments[^key-56c3ca03a024e924124d54cbbeafbd46]
+##### 30. Amount of periodical payments[^c-56c3ca03a024e924124d54cbbeafbd46]
 
 (1) Periodical payments for an effective pension age are payable by deduction by the member’s employer from the member’s pensionable earnings in every pay period during the periodical payment period.
 
@@ -431,7 +431,7 @@ This Chapter applies in relation to an employer or third party who opts to make 
 - (a) review the amount of the periodical payments; and
 - (b) if the scheme manager re-determines the amount, send the member notice of the amount payable from the start of the next scheme year.
 
-##### 31. Periodical payment period[^key-ce54c616f114dbe77e0e7603ed9de752]
+##### 31. Periodical payment period[^c-ce54c616f114dbe77e0e7603ed9de752]
 
 The periodical payment period—
 
@@ -442,7 +442,7 @@ The periodical payment period—
   - (i) the date on which the member ceases to be in pensionable service in the eligible employment to which the option relates; and
   - (ii) the date on which the member reaches the effective pension age.
 
-##### 32. Periodical payments during period of assumed pay[^key-1a9d0c82ab9c09f978a31fc0a6760ba5]
+##### 32. Periodical payments during period of assumed pay[^c-1a9d0c82ab9c09f978a31fc0a6760ba5]
 
 (1) Subject to sub-paragraph (2), during a period of assumed pay the member may—
 
@@ -460,76 +460,76 @@ The periodical payment period—
 
 ## Annotations
 
-[^key-dbabc0449a76bd35ce057f52187d857d]: Commencement: Sch. 1 para. 1 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-dbabc0449a76bd35ce057f52187d857d]: Commencement: Sch. 1 para. 1 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-bec8b1f45af1c232ecc930787a7f28ad]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/paragraph/1) inserted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/6/a)
+[^c-bec8b1f45af1c232ecc930787a7f28ad]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/paragraph/1) inserted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/6/a)
 
-[^key-57eaeb269de9546c4582a8671e3fb55d]: Commencement: Sch. 1 para. 2 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-57eaeb269de9546c4582a8671e3fb55d]: Commencement: Sch. 1 para. 2 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-02b0d465d716fafd58c658c87da4f044]: Commencement: Sch. 1 para. 3 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-02b0d465d716fafd58c658c87da4f044]: Commencement: Sch. 1 para. 3 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-acfd35a3858661c5e80c82ca4efac5c6]: Commencement: Sch. 1 para. 4 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-acfd35a3858661c5e80c82ca4efac5c6]: Commencement: Sch. 1 para. 4 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-89b2c65015b098423c1121107588ed01]: Commencement: Sch. 1 para. 5 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-89b2c65015b098423c1121107588ed01]: Commencement: Sch. 1 para. 5 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-54b38cab2dd33d055e1516c7c9d851d3]: Commencement: Sch. 1 para. 6 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-54b38cab2dd33d055e1516c7c9d851d3]: Commencement: Sch. 1 para. 6 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-9edf68a8423d0a8f2c8298b77f7a5f7d]: Commencement: Sch. 1 para. 7 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-9edf68a8423d0a8f2c8298b77f7a5f7d]: Commencement: Sch. 1 para. 7 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-607e2656c3d0252e38a8143dfa39d168]: Commencement: Sch. 1 para. 8 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-607e2656c3d0252e38a8143dfa39d168]: Commencement: Sch. 1 para. 8 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-b6893d1fe3ea94469f2672b6ad865904]: Commencement: Sch. 1 para. 9 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-b6893d1fe3ea94469f2672b6ad865904]: Commencement: Sch. 1 para. 9 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-21992e74b57d2a8fe78a26a74c2b8b2c]: Commencement: Sch. 1 para. 10 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-21992e74b57d2a8fe78a26a74c2b8b2c]: Commencement: Sch. 1 para. 10 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-252d7bb05dbdc2a2001f547a9d692c11]: Commencement: Sch. 1 para. 11 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-252d7bb05dbdc2a2001f547a9d692c11]: Commencement: Sch. 1 para. 11 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-90c66b319f2e945df25111bae93e32fa]: Commencement: Sch. 1 para. 12 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-90c66b319f2e945df25111bae93e32fa]: Commencement: Sch. 1 para. 12 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
 [^f00067]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-e75a2938a3b47b48bb55722418b2d2e1]: Commencement: Sch. 1 para. 13 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-e75a2938a3b47b48bb55722418b2d2e1]: Commencement: Sch. 1 para. 13 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-d159a5693c32dc3a3f6f74b6a5db2110]: Commencement: Sch. 1 para. 14 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-d159a5693c32dc3a3f6f74b6a5db2110]: Commencement: Sch. 1 para. 14 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-8b4147a274c692b2be4c47065c00d3de]: Commencement: Sch. 1 para. 15 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-8b4147a274c692b2be4c47065c00d3de]: Commencement: Sch. 1 para. 15 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-26f82ba099cbd1235bb96ff40f943936]: Commencement: Sch. 1 para. 16 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-26f82ba099cbd1235bb96ff40f943936]: Commencement: Sch. 1 para. 16 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-d9cfe051da52c6c88d6dc9a767604c36]: Commencement: Sch. 1 para. 17 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-d9cfe051da52c6c88d6dc9a767604c36]: Commencement: Sch. 1 para. 17 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-d2e8c9c94ce85e696ebab6787da1e770]: Commencement: Sch. 1 para. 18 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-d2e8c9c94ce85e696ebab6787da1e770]: Commencement: Sch. 1 para. 18 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-6f76dbdbb86373b913b687f254e26309]: Commencement: Sch. 1 para. 19 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-6f76dbdbb86373b913b687f254e26309]: Commencement: Sch. 1 para. 19 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-04bebc1c34ec948e8ab76eac9d732b9f]: Commencement: Sch. 1 para. 20 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-04bebc1c34ec948e8ab76eac9d732b9f]: Commencement: Sch. 1 para. 20 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-f3085bc6e76e274851c98ebe395d11b4]: Commencement: Sch. 1 para. 21 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-f3085bc6e76e274851c98ebe395d11b4]: Commencement: Sch. 1 para. 21 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-55cc6f2b1939a92d147793b56dcb5401]: Commencement: Sch. 1 para. 22 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-55cc6f2b1939a92d147793b56dcb5401]: Commencement: Sch. 1 para. 22 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-24ea01bc84b0a5e0532ba834678b87e7]: Commencement: Sch. 1 para. 23 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-24ea01bc84b0a5e0532ba834678b87e7]: Commencement: Sch. 1 para. 23 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-bdcd5c56ee8f4a806c9077a7e8c4993e]: Textual amendment: [Sch. 1 Pt. 2 Ch. 5](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/chapter/5) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(6)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/6)
+[^c-bdcd5c56ee8f4a806c9077a7e8c4993e]: Textual amendment: [Sch. 1 Pt. 2 Ch. 5](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/chapter/5) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 1(6)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/1/6)
 
-[^key-1cc42fbff4448a2d8e762aa1316ece0b]: Textual amendment: [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/paragraph/23A) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/6/b)
+[^c-1cc42fbff4448a2d8e762aa1316ece0b]: Textual amendment: [Sch. 1 para. 23A](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/paragraph/23A) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/6/b)
 
-[^key-3f8c73c3dcdab7f89b5a26fc99fc8ec1]: Textual amendment: [Sch. 1 para. 23B](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/paragraph/23B) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/6/c)
+[^c-3f8c73c3dcdab7f89b5a26fc99fc8ec1]: Textual amendment: [Sch. 1 para. 23B](https://www.legislation.gov.uk/uksi/2015/182/schedule/1/paragraph/23B) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/6/c)
 
-[^key-eee8aa975fbf6210ab9d6072487d903d]: Commencement: Sch. 1 para. 24 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-eee8aa975fbf6210ab9d6072487d903d]: Commencement: Sch. 1 para. 24 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-bcacc8d3512eb134cc939f56e677549a]: Commencement: Sch. 1 para. 25 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-bcacc8d3512eb134cc939f56e677549a]: Commencement: Sch. 1 para. 25 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-aa9ca93c7f72bbcf064dbdef66d3000d]: Commencement: Sch. 1 para. 26 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-aa9ca93c7f72bbcf064dbdef66d3000d]: Commencement: Sch. 1 para. 26 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-17c8c1919634f93618b472ead2a222ec]: Commencement: Sch. 1 para. 27 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-17c8c1919634f93618b472ead2a222ec]: Commencement: Sch. 1 para. 27 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-fba9dd7eb5c7e8c7eeb7f471c5236d0c]: Commencement: Sch. 1 para. 28 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-fba9dd7eb5c7e8c7eeb7f471c5236d0c]: Commencement: Sch. 1 para. 28 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-56c2962240dab3029814447fd233baa3]: Commencement: Sch. 1 para. 29 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-56c2962240dab3029814447fd233baa3]: Commencement: Sch. 1 para. 29 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-56c3ca03a024e924124d54cbbeafbd46]: Commencement: Sch. 1 para. 30 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-56c3ca03a024e924124d54cbbeafbd46]: Commencement: Sch. 1 para. 30 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-ce54c616f114dbe77e0e7603ed9de752]: Commencement: Sch. 1 para. 31 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-ce54c616f114dbe77e0e7603ed9de752]: Commencement: Sch. 1 para. 31 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
 
-[^key-1a9d0c82ab9c09f978a31fc0a6760ba5]: Commencement: Sch. 1 para. 32 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-1a9d0c82ab9c09f978a31fc0a6760ba5]: Commencement: Sch. 1 para. 32 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)

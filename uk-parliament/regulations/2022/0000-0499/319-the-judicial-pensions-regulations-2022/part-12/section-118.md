@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Meaning of “dual capacity member”[^key-e4f22dfe5d4c436b2463fd3dbbb923f9]
+## 118. Meaning of “dual capacity member”[^c-e4f22dfe5d4c436b2463fd3dbbb923f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4f22dfe5d4c436b2463fd3dbbb923f9]: Commencement: Reg. 118 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-e4f22dfe5d4c436b2463fd3dbbb923f9]: Commencement: Reg. 118 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

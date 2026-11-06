@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. The Fund[^key-f496eed2e7106fa4ce173f686a15fd98]
+## 36A. The Fund[^c-f496eed2e7106fa4ce173f686a15fd98]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f496eed2e7106fa4ce173f686a15fd98]: Textual amendment: S. 39A and cross-heading inserted (1.8.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/14/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)
+[^c-f496eed2e7106fa4ce173f686a15fd98]: Textual amendment: S. 39A and cross-heading inserted (1.8.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/14/1), [22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1); [S.I. 2006/2177](https://www.legislation.gov.uk/uksi/2006/2177), [art. 2](https://www.legislation.gov.uk/uksi/2006/2177/article/2)

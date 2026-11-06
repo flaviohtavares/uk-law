@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Amendment of section 60[^key-9c07bc17fbff2582a8fde38786bee748]
+## 105. Amendment of section 60[^c-9c07bc17fbff2582a8fde38786bee748]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c07bc17fbff2582a8fde38786bee748]: Commencement: Reg. 105 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9c07bc17fbff2582a8fde38786bee748]: Commencement: Reg. 105 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00085]: Footnote: Section 60 was amended by section 230 of, and Schedule 15 to, the Health and Social Care Act 2012, and by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

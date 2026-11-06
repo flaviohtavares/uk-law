@@ -28,7 +28,7 @@ summary: ''
 
 .
 
-(2)[^key-2722b640ea3ce603505338e49ad5189a] Section 113A of the 1997 Act is amended as follows—
+(2)[^c-2722b640ea3ce603505338e49ad5189a] Section 113A of the 1997 Act is amended as follows—
 
 - (a) in subsection (3), for the words from “or” immediately following paragraph (a) to the end of paragraph (b) substitute
 
@@ -47,13 +47,13 @@ summary: ''
 
   .
 
-(3)[^key-2722b640ea3ce603505338e49ad5189a] In section 119(1) of the 1997 Act, for “or cautions” substitute “ , cautions or other information ”.
+(3)[^c-2722b640ea3ce603505338e49ad5189a] In section 119(1) of the 1997 Act, for “or cautions” substitute “ , cautions or other information ”.
 
-(4)[^key-2722b640ea3ce603505338e49ad5189a] In section 119A of the 1997 Act—
+(4)[^c-2722b640ea3ce603505338e49ad5189a] In section 119A of the 1997 Act—
 
 - (a) in subsection (1), after “convictions” insert “ or other information ”,
 - (b) in subsection (2), for “or cautions” substitute “ , cautions or other information ”.
 
 ## Annotations
 
-[^key-2722b640ea3ce603505338e49ad5189a]: Commencement: S. 78(2)-(4) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/157/article/3))
+[^c-2722b640ea3ce603505338e49ad5189a]: Commencement: S. 78(2)-(4) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/157/article/3))

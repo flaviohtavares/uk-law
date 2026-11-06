@@ -25,8 +25,8 @@ summary: ''
 (2) In its application, a small registered UK AIFM may apply to become—
 
 - (a) a small authorised UK AIFM; or
-- (b) a full-scope UK AIFM[^key-f9418d208afd88ef6ad3b5d9c6bf3ac5]....
+- (b) a full-scope UK AIFM[^c-f9418d208afd88ef6ad3b5d9c6bf3ac5]....
 
 ## Annotations
 
-[^key-f9418d208afd88ef6ad3b5d9c6bf3ac5]: Textual amendment: Words in [reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/16/2/c) omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/4) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9418d208afd88ef6ad3b5d9c6bf3ac5]: Textual amendment: Words in [reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2013/1773/regulation/16/2/c) omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2019/328/regulation/5/4) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

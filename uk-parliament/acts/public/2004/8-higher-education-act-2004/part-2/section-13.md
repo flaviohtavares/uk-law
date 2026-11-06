@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Designation of operator of student complaints scheme[^key-a514aa67f19b1e5a444cff1adb92eafe][^key-83301a011bd907f32e7d8bf664eef189]
+## 13. Designation of operator of student complaints scheme[^c-a514aa67f19b1e5a444cff1adb92eafe][^c-83301a011bd907f32e7d8bf664eef189]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a514aa67f19b1e5a444cff1adb92eafe]: Commencement: S. 13 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-a514aa67f19b1e5a444cff1adb92eafe]: Commencement: S. 13 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-83301a011bd907f32e7d8bf664eef189]: Commencement: S. 13 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)
+[^c-83301a011bd907f32e7d8bf664eef189]: Commencement: S. 13 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)

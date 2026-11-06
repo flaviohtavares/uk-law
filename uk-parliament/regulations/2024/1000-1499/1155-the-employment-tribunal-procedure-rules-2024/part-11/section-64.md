@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Time for compliance[^key-da67db3befe634b7552b266c7f37da66]
+## 64. Time for compliance[^c-da67db3befe634b7552b266c7f37da66]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A party must comply with a judgment or order for the payment of an amount of mon
 
 ## Annotations
 
-[^key-da67db3befe634b7552b266c7f37da66]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2024/1155/rule/64) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-da67db3befe634b7552b266c7f37da66]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2024/1155/rule/64) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

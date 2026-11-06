@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Closure of existing injury and compensation schemes[^key-d1dc2ef33ef4ead5c0b745b49748bd29]
+## 19. Closure of existing injury and compensation schemes[^c-d1dc2ef33ef4ead5c0b745b49748bd29]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1dc2ef33ef4ead5c0b745b49748bd29]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/25/section/19) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/433/article/2/f)
+[^c-d1dc2ef33ef4ead5c0b745b49748bd29]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/25/section/19) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/433/article/2/f)

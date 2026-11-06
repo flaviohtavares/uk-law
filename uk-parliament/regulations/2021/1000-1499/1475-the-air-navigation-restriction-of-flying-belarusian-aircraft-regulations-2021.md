@@ -45,11 +45,11 @@ The Secretary of State has decided it is necessary in the public interest to res
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by article 239 of the Air Navigation Order 2016[^f00001].
 
-## 1. Citation and commencement[^key-4b152476bdddfcf7c766cf90c8f8a1ff]
+## 1. Citation and commencement[^c-4b152476bdddfcf7c766cf90c8f8a1ff]
 
 These Regulations may be cited as the Air Navigation (Restriction of Flying) (Belarusian Aircraft) Regulations 2021 and come into force the day after they are made.
 
-## 2. Restricted airspace[^key-5b32b130713223aa9836e87dcdee6ade]
+## 2. Restricted airspace[^c-5b32b130713223aa9836e87dcdee6ade]
 
 (1) Subject to paragraph (2), no aircraft on a scheduled service which is owned, chartered or operated by a person connected with Belarus, or which is registered in Belarus shall fly in United Kingdom airspace, including in the airspace above the United Kingdom’s territorial sea[^f00002].
 
@@ -58,7 +58,7 @@ These Regulations may be cited as the Air Navigation (Restriction of Flying) (Be
 - (a) the Secretary of State, or
 - (b) the air traffic control units at Swanwick or Prestwick.
 
-## 3. Revocation of Regulations[^key-97731679bfc451beb4caff416d545a4c]
+## 3. Revocation of Regulations[^c-97731679bfc451beb4caff416d545a4c]
 
 The Air Navigation (Restriction of Flying) (Belavia) Regulations 2021[^f00003] are revoked.
 
@@ -84,12 +84,12 @@ In relation to the permission mentioned in regulation 2(2)(a), this can be obtai
 
 [^f00001]: Footnote: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765), to which there are amendments not relevant to these Regulations.
 
-[^key-4b152476bdddfcf7c766cf90c8f8a1ff]: Commencement: Reg. 1 in force at 18.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1)
+[^c-4b152476bdddfcf7c766cf90c8f8a1ff]: Commencement: Reg. 1 in force at 18.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1)
 
-[^key-5b32b130713223aa9836e87dcdee6ade]: Commencement: Reg. 2 in force at 18.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1)
+[^c-5b32b130713223aa9836e87dcdee6ade]: Commencement: Reg. 2 in force at 18.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1)
 
 [^f00002]: Footnote: Under section 1 of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49) the territorial sea adjacent to the United Kingdom extends up to 12 nautical miles measured from the baselines established by Order in Council. Section 1 was extended by [S.I. 1989/482](https://www.legislation.gov.uk/uksi/1989/482), [1998/2564](https://www.legislation.gov.uk/uksi/1998/2564), [2013/3164](https://www.legislation.gov.uk/uksi/2013/3164), [2014/1353](https://www.legislation.gov.uk/uksi/2014/1353).
 
-[^key-97731679bfc451beb4caff416d545a4c]: Commencement: Reg. 3 in force at 18.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1)
+[^c-97731679bfc451beb4caff416d545a4c]: Commencement: Reg. 3 in force at 18.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1475/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2021/657](https://www.legislation.gov.uk/uksi/2021/657).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29B. Changes to instruments and articles[^key-6465b9a42d4b6d1a2fdb9243f8c4c2c1]
+## 29B. Changes to instruments and articles[^c-6465b9a42d4b6d1a2fdb9243f8c4c2c1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6465b9a42d4b6d1a2fdb9243f8c4c2c1]: Textual amendment: S. 29B substituted for ss. 29B, 29C (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(2)](https://www.legislation.gov.uk/anaw/2014/1/section/4/2), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
+[^c-6465b9a42d4b6d1a2fdb9243f8c4c2c1]: Textual amendment: S. 29B substituted for ss. 29B, 29C (1.9.2014) by [Further and Higher Education (Governance and Information) (Wales) Act 2014 (anaw 1)](https://www.legislation.gov.uk/anaw/2014/1), [ss. 4(2)](https://www.legislation.gov.uk/anaw/2014/1/section/4/2), [11(2)](https://www.legislation.gov.uk/anaw/2014/1/section/11/2); [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)

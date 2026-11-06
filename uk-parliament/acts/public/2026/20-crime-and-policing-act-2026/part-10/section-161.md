@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Climbing on memorials[^key-8330ba64c43a7fdf020a3b38f0275aeb][^key-0a1c200d448ad49cabe8fd43cf1e30b4]
+## 161. Climbing on memorials[^c-8330ba64c43a7fdf020a3b38f0275aeb][^c-0a1c200d448ad49cabe8fd43cf1e30b4]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8330ba64c43a7fdf020a3b38f0275aeb]: Commencement: S. 161 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8330ba64c43a7fdf020a3b38f0275aeb]: Commencement: S. 161 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0a1c200d448ad49cabe8fd43cf1e30b4]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2026/20/section/161) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/n)
+[^c-0a1c200d448ad49cabe8fd43cf1e30b4]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2026/20/section/161) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/n)

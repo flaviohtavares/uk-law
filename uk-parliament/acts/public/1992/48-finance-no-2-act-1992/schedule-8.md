@@ -50,17 +50,17 @@ Section 34.
 
 ### Building societies
 
-**2.**[^key-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Deposit-takers
 
-**4.**[^key-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Accrued income scheme
 
-**5.**[^key-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-536d7e07fa9679edf99d23d577e48fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General
 
@@ -68,4 +68,4 @@ Section 34.
 
 ## Annotations
 
-[^key-536d7e07fa9679edf99d23d577e48fa9]: Textual amendment: [Sch. 8 paras. 2-5](https://www.legislation.gov.uk/ukpga/1992/48/schedule/8/paragraph/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-536d7e07fa9679edf99d23d577e48fa9]: Textual amendment: [Sch. 8 paras. 2-5](https://www.legislation.gov.uk/ukpga/1992/48/schedule/8/paragraph/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

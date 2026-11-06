@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 439. Exemption in respect of certain pre-13 May 2016 loan relationships[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 439. Exemption in respect of certain pre-13 May 2016 loan relationships[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ but see subsection (8) for cases where a loan relationship is not a qualifying o
 (3) For the purposes of this section “**qualifying infrastructure receipts**”, in relation to a company (“C”), means—
 
 - (a) receipts arising from qualifying infrastructure activities carried on by C, and
-- (b) such proportion of the receipts arising from qualifying infrastructure activities carried on by another company as, on a just and reasonable basis, is attributable to C's interests in the other company (whether direct or indirect) arising as a result of shares or loans ,[^key-f83cccc305f49832a103c0b3d7980783]
+- (b) such proportion of the receipts arising from qualifying infrastructure activities carried on by another company as, on a just and reasonable basis, is attributable to C's interests in the other company (whether direct or indirect) arising as a result of shares or loans ,[^c-f83cccc305f49832a103c0b3d7980783]
 
 but ignoring amounts that represent the reimbursement of expenses incurred by C or the other company.
 
@@ -70,6 +70,6 @@ but ignoring amounts that represent the reimbursement of expenses incurred by C 
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-f83cccc305f49832a103c0b3d7980783]: Textual amendment: Words in s. 439(3) inserted (retrospectively) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 paras. 13](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/13), [24](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/24)
+[^c-f83cccc305f49832a103c0b3d7980783]: Textual amendment: Words in s. 439(3) inserted (retrospectively) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 paras. 13](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/13), [24](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/24)

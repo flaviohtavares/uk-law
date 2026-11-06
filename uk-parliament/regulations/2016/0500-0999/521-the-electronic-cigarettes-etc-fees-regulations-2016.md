@@ -52,11 +52,11 @@ The Secretary of State has been designated for the purpose of section 2(2) of th
 
 The Treasury has consented to the making of these Regulations as required by section 56 of the Finance Act 1973.
 
-## 1. Citation, commencement and interpretation[^key-fe4fbd0f305dc96aed7b959f90be5358]
+## 1. Citation, commencement and interpretation[^c-fe4fbd0f305dc96aed7b959f90be5358]
 
 (1) These Regulations may be cited as the Electronic Cigarettes etc. (Fees) Regulations 2016 and shall come into force on 20th May 2016.
 
-(2)[^key-402a1f2edcde76e8a72bfee6990953ad] In these Regulations—
+(2)[^c-402a1f2edcde76e8a72bfee6990953ad] In these Regulations—
 
 - “the 2016 Regulations” means the Tobacco and Related Products Regulations 2016;
 - “GB travel retail sector” and “NI travel retail sector” have the meanings given in the 2016 Regulations (see regulation 2 of those Regulations);
@@ -67,11 +67,11 @@ The Treasury has consented to the making of these Regulations as required by sec
 - (a) Great Britain (including the GB travel retail sector), and
 - (b) Northern Ireland (including the NI travel retail sector).
 
-## 2. Notification fee[^key-065312440b9ecccd25a951c6158f249e]
+## 2. Notification fee[^c-065312440b9ecccd25a951c6158f249e]
 
 (1) A fee is payable in respect of each notification submitted to the Secretary of State under regulation 31(1) of the 2016 Regulations (notification about electronic cigarettes and refill containers).
 
-(1A)[^key-8ffd892c0c548de623a0581c517b43dc] But only one fee is payable where a person—
+(1A)[^c-8ffd892c0c548de623a0581c517b43dc] But only one fee is payable where a person—
 
 - (a) submits a notification under regulation 31(1) of the 2016 Regulations of the supply, or intended supply, of a product in one of the relevant areas, and
 - (b) submits a notification under regulation 31(1) of the 2016 Regulations of the supply, or intended supply, of the same product in the other relevant area .
@@ -82,11 +82,11 @@ The Treasury has consented to the making of these Regulations as required by sec
 
 (4) The fee is payable by the person submitting the notification and is payable to the Secretary of State.
 
-## 3. Annual Fee[^key-f9e98d51662ca2aebd0147c7e56e1875]
+## 3. Annual Fee[^c-f9e98d51662ca2aebd0147c7e56e1875]
 
 (1) An annual fee is payable in respect of each product notified under regulation 31(1) of the 2016 Regulations.
 
-(1A)[^key-9e1429942e03c21482f4cc326fa63b1b] But only one annual fee is payable for a product which is notified under regulation 31(1) of the 2016 Regulations for supply, or intended supply, in both of the relevant areas.
+(1A)[^c-9e1429942e03c21482f4cc326fa63b1b] But only one annual fee is payable for a product which is notified under regulation 31(1) of the 2016 Regulations for supply, or intended supply, in both of the relevant areas.
 
 (2) The amount of the annual fee payable is £60.
 
@@ -98,16 +98,16 @@ The Treasury has consented to the making of these Regulations as required by sec
 
 (6) The annual fee ceases to be payable if the Secretary of State is notified under regulation 31(7) of the 2016 Regulations that the product has been withdrawn from the market; but any annual fee payable prior to the day the Secretary of State is notified remains payable.
 
-(7)[^key-d0a9e08781d3bd01d99154edd0f4d679] But where a product has been notified under regulation 31(1) of the 2016 Regulations for supply, or intended supply, in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified under regulation 31(8) of those Regulations that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
+(7)[^c-d0a9e08781d3bd01d99154edd0f4d679] But where a product has been notified under regulation 31(1) of the 2016 Regulations for supply, or intended supply, in both of the relevant areas, the annual fee ceases to be payable only if the Secretary of State is notified under regulation 31(8) of those Regulations that the product has been withdrawn from the market in Great Britain and from the market in Northern Ireland.
 
-## 4. Adjustment of Fee[^key-faa01a6ef3771d360c638f78e7c8d36e]
+## 4. Adjustment of Fee[^c-faa01a6ef3771d360c638f78e7c8d36e]
 
 If, after a notification fee under regulation 2 has been paid, it becomes apparent that—
 
 - (a) a lesser fee should have been paid, the excess shall be refunded to the person who paid the fee; or
 - (b) a higher fee should have been paid, the balance shall become payable by the person who paid the fee within fourteen days commencing with the day that the Secretary of State issues written notice to that person of the correct fee payable.
 
-## 5. Civil proceedings to recover unpaid fees[^key-fce853462e367fa3bc7a6e3da9cd5d36]
+## 5. Civil proceedings to recover unpaid fees[^c-fce853462e367fa3bc7a6e3da9cd5d36]
 
 All unpaid sums due by way of any fees payable under these Regulations shall be recoverable as debts due to the Crown.
 
@@ -145,22 +145,22 @@ A full impact assessment of the effects that this instrument will have on the co
 
 [^f00003]: Footnote: [S.I. 2014/2705](https://www.legislation.gov.uk/uksi/2014/2705).
 
-[^key-fe4fbd0f305dc96aed7b959f90be5358]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/521/regulation/1) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
+[^c-fe4fbd0f305dc96aed7b959f90be5358]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/521/regulation/1) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
 
-[^key-402a1f2edcde76e8a72bfee6990953ad]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/3) substituted for [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/2) (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/2)
+[^c-402a1f2edcde76e8a72bfee6990953ad]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/3) substituted for [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/2) (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/2)
 
-[^key-065312440b9ecccd25a951c6158f249e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/521/regulation/2) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
+[^c-065312440b9ecccd25a951c6158f249e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/521/regulation/2) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
 
-[^key-8ffd892c0c548de623a0581c517b43dc]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2016/521/regulation/2/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/3)
+[^c-8ffd892c0c548de623a0581c517b43dc]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/uksi/2016/521/regulation/2/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/3)
 
-[^key-f9e98d51662ca2aebd0147c7e56e1875]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/521/regulation/3) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
+[^c-f9e98d51662ca2aebd0147c7e56e1875]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/521/regulation/3) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
 
-[^key-9e1429942e03c21482f4cc326fa63b1b]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2016/521/regulation/3/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/4/a)
+[^c-9e1429942e03c21482f4cc326fa63b1b]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2016/521/regulation/3/1A) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/4/a)
 
-[^key-d0a9e08781d3bd01d99154edd0f4d679]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2016/521/regulation/3/7) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/4/b)
+[^c-d0a9e08781d3bd01d99154edd0f4d679]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2016/521/regulation/3/7) inserted (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1316)](https://www.legislation.gov.uk/uksi/2020/1316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1316/regulation/6/4/b)
 
-[^key-faa01a6ef3771d360c638f78e7c8d36e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/521/regulation/4) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
+[^c-faa01a6ef3771d360c638f78e7c8d36e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/521/regulation/4) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
 
-[^key-fce853462e367fa3bc7a6e3da9cd5d36]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/521/regulation/5) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
+[^c-fce853462e367fa3bc7a6e3da9cd5d36]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/521/regulation/5) in force at 20.5.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/521/regulation/1/1)
 
 [^f00005]: Footnote: [Directive 2014/40/EU](https://www.legislation.gov.uk/european/directive/2014/0040) of the European Parliament and the Council on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products. OJ L 127, 29.4.2014, p.1 as amended by Commission Delegated [Directive 2014/109/EU](https://www.legislation.gov.uk/european/directive/2014/0109), OJ l 360, 17.12.2014.

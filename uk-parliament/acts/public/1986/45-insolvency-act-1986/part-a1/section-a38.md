@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A38. Termination of moratorium by monitor[^key-2d593eae2f3cccb39a2961eef842bf2c]
+## A38. Termination of moratorium by monitor[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_C_92e63ea2-ec9a-442f-f90d-aa05cb141fca]: Modification: S. A38(1) modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/10) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1))

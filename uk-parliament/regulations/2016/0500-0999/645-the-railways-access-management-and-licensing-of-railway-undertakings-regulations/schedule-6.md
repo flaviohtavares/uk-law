@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Transitory modifications[^key-d2203cd9d5383a697fb59165fa6c2f5c]
+## SCHEDULE 6 — Transitory modifications[^c-d2203cd9d5383a697fb59165fa6c2f5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,7 +99,7 @@ In regulation 3 (interpretation)—
   >     - (iii) one or several railway undertakings that operate rail services on the infrastructure manager’s network are controlled by an infrastructure manager; or
   >   - (b) an undertaking consisting of distinct divisions, including an infrastructure manager and one or several divisions providing transport services that do not have a distinct legal personality,
   >
-  >   provided that where an infrastructure manager and a railway undertaking are fully independent of each other, but both are controlled directly by a national authority[^key-f485780c5c6d7f66576703aa58ee9196] without an intermediary entity, they are not considered to constitute a vertically integrated undertaking for the purposes of these Regulations;.
+  >   provided that where an infrastructure manager and a railway undertaking are fully independent of each other, but both are controlled directly by a national authority[^c-f485780c5c6d7f66576703aa58ee9196] without an intermediary entity, they are not considered to constitute a vertically integrated undertaking for the purposes of these Regulations;.
 
   .
 
@@ -328,7 +328,7 @@ After regulation 13 (network statement) insert—
 > - (a) “national authorities” means the Secretary of State, the Scottish Ministers or the Welsh Ministers;
 > - (b) “local or regional authorities” includes a combined authority established under section 103(1) of the Local Democracy, Economic Development and Construction Act 2009.
 >
-> **13B. ...[^key-8156bfe2ac384b0c455a696072350740][^key-8156bfe2ac384b0c455a696072350740]**
+> **13B. ...[^c-8156bfe2ac384b0c455a696072350740][^c-8156bfe2ac384b0c455a696072350740]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -448,7 +448,7 @@ In regulation 35 (audits)—
 
   .
 
-### 15. Cooperation between regulatory bodies[^key-eac464455f160e7869d0ec1d253e2a23]
+### 15. Cooperation between regulatory bodies[^c-eac464455f160e7869d0ec1d253e2a23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -458,10 +458,10 @@ In regulations 38 (enforcement of decisions, directions and notices), in paragra
 
 ## Annotations
 
-[^key-d2203cd9d5383a697fb59165fa6c2f5c]: Textual amendment: Sch. 6 inserted (11.2.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/82/schedule/2)
+[^c-d2203cd9d5383a697fb59165fa6c2f5c]: Textual amendment: Sch. 6 inserted (11.2.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations 2019 (S.I. 2019/82)](https://www.legislation.gov.uk/uksi/2019/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/82/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/82/schedule/2)
 
-[^key-f485780c5c6d7f66576703aa58ee9196]: Textual amendment: Words in [Sch. 6 para. 2(m)](https://www.legislation.gov.uk/uksi/2016/645/schedule/6/paragraph/2/m) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [24(a)](https://www.legislation.gov.uk/uksi/2019/518/regulation/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f485780c5c6d7f66576703aa58ee9196]: Textual amendment: Words in [Sch. 6 para. 2(m)](https://www.legislation.gov.uk/uksi/2016/645/schedule/6/paragraph/2/m) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [24(a)](https://www.legislation.gov.uk/uksi/2019/518/regulation/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8156bfe2ac384b0c455a696072350740]: Textual amendment: Words in [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2016/645/schedule/6/paragraph/7) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [24(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8156bfe2ac384b0c455a696072350740]: Textual amendment: Words in [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2016/645/schedule/6/paragraph/7) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [24(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/24/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eac464455f160e7869d0ec1d253e2a23]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2016/645/schedule/6/paragraph/15) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [24(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/24/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eac464455f160e7869d0ec1d253e2a23]: Textual amendment: [Sch. 6 para. 15](https://www.legislation.gov.uk/uksi/2016/645/schedule/6/paragraph/15) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [24(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/24/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

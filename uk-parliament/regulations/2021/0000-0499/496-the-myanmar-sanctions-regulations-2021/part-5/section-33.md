@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Transfer of dual-use technology[^key-978c3117ae496359386c4eb27f7a77b7]
+## 33. Transfer of dual-use technology[^c-978c3117ae496359386c4eb27f7a77b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-978c3117ae496359386c4eb27f7a77b7]: Commencement: Reg. 33 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-978c3117ae496359386c4eb27f7a77b7]: Commencement: Reg. 33 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

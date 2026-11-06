@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 269. Service outside the jurisdiction[^key-a5d5c97896382357af8ac905bb9c7a66]
+## 269. Service outside the jurisdiction[^c-a5d5c97896382357af8ac905bb9c7a66]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.13 of the 1991 Rules.
 
 ## Annotations
 
-[^key-a5d5c97896382357af8ac905bb9c7a66]: Commencement: Rule 269 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-a5d5c97896382357af8ac905bb9c7a66]: Commencement: Rule 269 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

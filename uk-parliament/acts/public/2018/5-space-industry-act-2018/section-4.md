@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-befc9fda6770fb35f0f58d7ebdae98d6] A person does not require an operator licence to carry out spaceflight activities in respect of which it is certified by Order in Council that arrangements have been made between the United Kingdom and another country to secure compliance with the international obligations of the United Kingdom.
+(1)[^c-befc9fda6770fb35f0f58d7ebdae98d6] A person does not require an operator licence to carry out spaceflight activities in respect of which it is certified by Order in Council that arrangements have been made between the United Kingdom and another country to secure compliance with the international obligations of the United Kingdom.
 
-(2)[^key-8a1e7b3a6332c04542b7fa04422edf29] Regulations may make provision for other activities or persons to be exempted, either by the regulations themselves or by the regulator, from the requirement to hold an operator licence, but only if the Secretary of State is satisfied that the requirement—
+(2)[^c-8a1e7b3a6332c04542b7fa04422edf29] Regulations may make provision for other activities or persons to be exempted, either by the regulations themselves or by the regulator, from the requirement to hold an operator licence, but only if the Secretary of State is satisfied that the requirement—
 
 - (a) is not necessary to secure public safety,
 - (b) is not necessary to secure the health and safety of individuals taking part in spaceflight activities in a role or capacity prescribed under section 17(1), and
 - (c) is not necessary to secure compliance with the international obligations of the United Kingdom.
 
-(3)[^key-8a1e7b3a6332c04542b7fa04422edf29] An exemption granted by or under the regulations may be for a limited period.
+(3)[^c-8a1e7b3a6332c04542b7fa04422edf29] An exemption granted by or under the regulations may be for a limited period.
 
-(4)[^key-8a1e7b3a6332c04542b7fa04422edf29] Regulations may—
+(4)[^c-8a1e7b3a6332c04542b7fa04422edf29] Regulations may—
 
 - (a) make provision about the procedure in connection with the granting of an exemption by or under the regulations (including provision for applications);
 - (b) make provision about the terms of an exemption or the conditions to which an exemption is subject;
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-befc9fda6770fb35f0f58d7ebdae98d6]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/4/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-befc9fda6770fb35f0f58d7ebdae98d6]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/4/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-8a1e7b3a6332c04542b7fa04422edf29]: Commencement: [S. 4(2)-(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/4/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/g)
+[^c-8a1e7b3a6332c04542b7fa04422edf29]: Commencement: [S. 4(2)-(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/4/2) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/g)

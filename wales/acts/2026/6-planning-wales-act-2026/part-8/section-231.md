@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 231. Power to remove or obliterate placard and poster[^key-b0fca56b2c549c6beeac68a773ad364c]
+## 231. Power to remove or obliterate placard and poster[^c-b0fca56b2c549c6beeac68a773ad364c]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0fca56b2c549c6beeac68a773ad364c]: Commencement: S. 231 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b0fca56b2c549c6beeac68a773ad364c]: Commencement: S. 231 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

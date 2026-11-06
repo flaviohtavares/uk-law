@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Identity verification of persons with significant control[^key-e5c34f3c4a66a1a8e90c1efc9bc14343][^key-b3d4f8a4ef1b63b10fee89d7125e5f2f]
+## 64. Identity verification of persons with significant control[^c-e5c34f3c4a66a1a8e90c1efc9bc14343][^c-b3d4f8a4ef1b63b10fee89d7125e5f2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -210,6 +210,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c34f3c4a66a1a8e90c1efc9bc14343]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e5c34f3c4a66a1a8e90c1efc9bc14343]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-b3d4f8a4ef1b63b10fee89d7125e5f2f]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/56/section/64) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/k)[(5)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1118/regulation/5))
+[^c-b3d4f8a4ef1b63b10fee89d7125e5f2f]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/56/section/64) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/k)[(5)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1118/regulation/5))

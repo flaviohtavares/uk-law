@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Revocations[^key-77886ffafbf69278ca85246c584ab205]
+## 97. Revocations[^c-77886ffafbf69278ca85246c584ab205]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Orders specified in Schedule 9 (revocations) are revoked.
 
 ## Annotations
 
-[^key-77886ffafbf69278ca85246c584ab205]: Commencement: Art. 97 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-77886ffafbf69278ca85246c584ab205]: Commencement: Art. 97 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

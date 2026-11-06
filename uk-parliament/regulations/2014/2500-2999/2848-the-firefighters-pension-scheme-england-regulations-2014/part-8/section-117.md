@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Employer contributions[^key-84c32e73da0c54c358586b9dd99c8731]
+## 117. Employer contributions[^c-84c32e73da0c54c358586b9dd99c8731]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84c32e73da0c54c358586b9dd99c8731]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2014/2848/regulation/117) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-84c32e73da0c54c358586b9dd99c8731]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2014/2848/regulation/117) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54B. Supplementary provisions[^key-19834b94f23b1ff0eb3f543b583f4cf9]
+## 54B. Supplementary provisions[^c-19834b94f23b1ff0eb3f543b583f4cf9]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19834b94f23b1ff0eb3f543b583f4cf9]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukcm/2011/3/part/5A) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/1), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
+[^c-19834b94f23b1ff0eb3f543b583f4cf9]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukcm/2011/3/part/5A) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/7/1), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)

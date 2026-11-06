@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 203. Forfeiture: relevant monetary obligations and relevant monetary losses[^key-f5adcf43684e5a7519b085020544fd3c]
+## 203. Forfeiture: relevant monetary obligations and relevant monetary losses[^c-f5adcf43684e5a7519b085020544fd3c]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5adcf43684e5a7519b085020544fd3c]: Commencement: Reg. 203 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f5adcf43684e5a7519b085020544fd3c]: Commencement: Reg. 203 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

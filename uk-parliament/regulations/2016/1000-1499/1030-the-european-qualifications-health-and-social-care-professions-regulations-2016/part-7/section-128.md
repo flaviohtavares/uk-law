@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Amendment of section 84 (English text)[^key-91e8fcde043cbdc92da8ddf786772b42]
+## 128. Amendment of section 84 (English text)[^c-91e8fcde043cbdc92da8ddf786772b42]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e8fcde043cbdc92da8ddf786772b42]: Commencement: Reg. 128 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-91e8fcde043cbdc92da8ddf786772b42]: Commencement: Reg. 128 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Entitlement to full retirement pension[^key-08c0bd831af45e841f32a51b5466d5ef]
+## 60. Entitlement to full retirement pension[^c-08c0bd831af45e841f32a51b5466d5ef]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08c0bd831af45e841f32a51b5466d5ef]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2014/290/regulation/60) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-08c0bd831af45e841f32a51b5466d5ef]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2014/290/regulation/60) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

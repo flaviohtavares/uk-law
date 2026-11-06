@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Remuneration of NHS chemists: instruments of appointment of NHS England[^key-fedf3951d93bcf656ad03378f887d7d5]
+## 91. Remuneration of NHS chemists: instruments of appointment of NHS England[^c-fedf3951d93bcf656ad03378f887d7d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (4) The Secretary of State must, before making a determination which could by virtue of paragraph (1) be made by NHS England, notify NHS England of the Secretary of State's intention to make the determination.
 
-(5)[^key-77373af578ef406d1d30ee9a98dcf821] Before determining any remuneration payable in respect of an enhanced service, NHS England must consult—
+(5)[^c-77373af578ef406d1d30ee9a98dcf821] Before determining any remuneration payable in respect of an enhanced service, NHS England must consult—
 
 - (a) if the service is to be provided on the basis of a service specification that sets standard conditions nationally (including with regard to remuneration), the body that is, for the time being, the body consulted under section 165(1)(a) of the 2006 Act in respect of pharmaceutical remuneration of NHS pharmacists; or
 - (b) otherwise, any Local Pharmaceutical Committee for the area in which the service is to be provided.
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-77373af578ef406d1d30ee9a98dcf821]: Textual amendment: [Reg. 91(5)](https://www.legislation.gov.uk/uksi/2013/349/regulation/91/5) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/6/2)
+[^c-77373af578ef406d1d30ee9a98dcf821]: Textual amendment: [Reg. 91(5)](https://www.legislation.gov.uk/uksi/2013/349/regulation/91/5) substituted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/6/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Support for part-time courses beginning before 1 September 2014 (fee grant and grant for books, travel and other expenditure)[^key-8460e2549ba4f4c105029f3eea84dbcc]
+## 85. Support for part-time courses beginning before 1 September 2014 (fee grant and grant for books, travel and other expenditure)[^c-8460e2549ba4f4c105029f3eea84dbcc]
 
 *Extent: E+W*
 
@@ -109,4 +109,4 @@ The intensity of study is calculated as follows and expressed as a percentage [f
 
 ## Annotations
 
-[^key-8460e2549ba4f4c105029f3eea84dbcc]: Commencement: Reg. 85 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-8460e2549ba4f4c105029f3eea84dbcc]: Commencement: Reg. 85 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

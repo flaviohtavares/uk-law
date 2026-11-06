@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.219. Winding up commencing as voluntary[^key-5f556297fac222905b795f36e33dc5e2][^key-39684849f1a0f457a2ca25d6428fe905]
+## 4.219. Winding up commencing as voluntary[^c-5f556297fac222905b795f36e33dc5e2][^c-39684849f1a0f457a2ca25d6428fe905]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In a winding up by the court which follows immediately on a voluntary winding up
 
 ## Annotations
 
-[^key-5f556297fac222905b795f36e33dc5e2]: Commencement: Rule 4.219 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5f556297fac222905b795f36e33dc5e2]: Commencement: Rule 4.219 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-39684849f1a0f457a2ca25d6428fe905]: Modification: Rule 4.219 modified (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/7/2)
+[^c-39684849f1a0f457a2ca25d6428fe905]: Modification: Rule 4.219 modified (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/7/2)

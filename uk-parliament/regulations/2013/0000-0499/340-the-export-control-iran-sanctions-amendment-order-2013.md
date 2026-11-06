@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Iran Sanctions) (Amendment) Order 2013 (revoked)[^key-16aceed1137b08812807a553f49359e5]
+The Export Control (Iran Sanctions) (Amendment) Order 2013 (revoked)[^c-16aceed1137b08812807a553f49359e5]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 12th March 2013
 
-[^key-16aceed1137b08812807a553f49359e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16aceed1137b08812807a553f49359e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-16aceed1137b08812807a553f49359e5]
+## 1. Citation and Commencement[^c-16aceed1137b08812807a553f49359e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Export Control (Iran Sanctions) Order 2012[^key-16aceed1137b08812807a553f49359e5]
+## 2. Amendment to the Export Control (Iran Sanctions) Order 2012[^c-16aceed1137b08812807a553f49359e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16aceed1137b08812807a553f49359e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16aceed1137b08812807a553f49359e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-16aceed1137b08812807a553f49359e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16aceed1137b08812807a553f49359e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16aceed1137b08812807a553f49359e5]: Textual amendment: Order revoked (6.5.2016) by [The Export Control (Iran Sanctions) Order 2016 (S.I. 2016/503)](https://www.legislation.gov.uk/uksi/2016/503), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/503/article/1/2/b)
+[^c-16aceed1137b08812807a553f49359e5]: Textual amendment: Order revoked (6.5.2016) by [The Export Control (Iran Sanctions) Order 2016 (S.I. 2016/503)](https://www.legislation.gov.uk/uksi/2016/503), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/503/article/1/2/b)

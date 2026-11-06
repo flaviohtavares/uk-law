@@ -52,7 +52,7 @@ This Order may be cited as the Banking Act 2009 (Banking Group Companies) Order 
 
 (1) In this Order—
 
-- “the bank”, in relation to any undertaking, means the bank[^key-4b7ae278ba4fa03209f99c2c62b694d0] [^key-584c025e58f019e0be4b64f3d6c52e1b]... or third country institution in the same group as the undertaking;
+- “the bank”, in relation to any undertaking, means the bank[^c-4b7ae278ba4fa03209f99c2c62b694d0] [^c-584c025e58f019e0be4b64f3d6c52e1b]... or third country institution in the same group as the undertaking;
 - “**covered bond vehicle**” means a limited liability partnership—
   - (a) which is a party to a capital market arrangement (within the meaning given in section 72B of the Insolvency Act 1986 [^c22175561]) or a transaction in pursuance of such a capital market arrangement; and
   - (b) whose trade or business (ignoring any incidental activities) consists wholly or mainly of one or both of the following—
@@ -84,7 +84,7 @@ This Order may be cited as the Banking Act 2009 (Banking Group Companies) Order 
 
 (2) In this article, for the interpretation of “financial holding company”, “financial institution” and “mixed activity holding company”—
 
-- “**the Capital Requirements Regulation**” means Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012 [^c22175601] as it[^key-66f10b060cc423238e28c1d569701280] forms part of[^key-3f5be9ed7a3e55f9bfc874d10683b901] assimilated[^key-b6a958f8d41b7e7fcca6ab26a6e23048] law;
+- “**the Capital Requirements Regulation**” means Regulation (EU) No. 575/2013 of the European Parliament and of the Council of 26th June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No. 648/2012 [^c22175601] as it[^c-66f10b060cc423238e28c1d569701280] forms part of[^c-3f5be9ed7a3e55f9bfc874d10683b901] assimilated[^c-b6a958f8d41b7e7fcca6ab26a6e23048] law;
 - “**central counterparty**” has the meaning given by section 313(1) of the Financial Services and Markets Act 2000 [^c22175611];
 - “**credit institution**” has the meaning given by point (1) of Article 4(1) of the Capital Requirements Regulation;
 - “**investment firm**” has the meaning given by point (2) of Article 4(1) of the Capital Requirements Regulation; and
@@ -184,9 +184,9 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c22175551]: Marginal citation: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 81D was inserted by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 100](https://www.legislation.gov.uk/ukpga/2012/21/section/100).
 
-[^key-4b7ae278ba4fa03209f99c2c62b694d0]: Textual amendment: Words in art. 2(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [127](https://www.legislation.gov.uk/uksi/2014/3329/article/127)
+[^c-4b7ae278ba4fa03209f99c2c62b694d0]: Textual amendment: Words in art. 2(1) substituted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [127](https://www.legislation.gov.uk/uksi/2014/3329/article/127)
 
-[^key-584c025e58f019e0be4b64f3d6c52e1b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/1) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-584c025e58f019e0be4b64f3d6c52e1b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/1) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22175561]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). See paragraph 1 of Schedule 2A to the Act. Section 72B and Schedule 2A were inserted by the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [section 250](https://www.legislation.gov.uk/ukpga/2002/40/section/250) and Schedule 18.
 
@@ -198,11 +198,11 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c22175601]: Marginal citation: OJ No. L 176, 27.6.2013, p. 1-137. For corrigenda see OJ No. L 208, 2/8/2013, p. 68 and OJ No. L 321,30/11/2013, p. 6.
 
-[^key-66f10b060cc423238e28c1d569701280]: Textual amendment: Words in art. 2(2) inserted (21.12.2018) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/3), [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/4/2/b)
+[^c-66f10b060cc423238e28c1d569701280]: Textual amendment: Words in art. 2(2) inserted (21.12.2018) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/3), [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/4/2/b)
 
-[^key-3f5be9ed7a3e55f9bfc874d10683b901]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/2) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/g)
+[^c-3f5be9ed7a3e55f9bfc874d10683b901]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/2) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(g)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/g)
 
-[^key-b6a958f8d41b7e7fcca6ab26a6e23048]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/18)
+[^c-b6a958f8d41b7e7fcca6ab26a6e23048]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/1831/article/2/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/18)
 
 [^c22175611]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). The definition of “central counterparty” was inserted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504). There are other amendments to section 313(1) not relevant to this Order.
 

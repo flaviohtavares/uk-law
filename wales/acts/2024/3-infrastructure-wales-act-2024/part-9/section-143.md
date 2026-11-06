@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 143. General interpretation[^key-9b3d57e4b6835773f38573b1163c74a9]
+## 143. General interpretation[^c-9b3d57e4b6835773f38573b1163c74a9]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b3d57e4b6835773f38573b1163c74a9]: Commencement: S. 143 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-9b3d57e4b6835773f38573b1163c74a9]: Commencement: S. 143 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

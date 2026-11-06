@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Breach of condition about period within which development must start etc.[^key-a4ccc8d15ef798128d852d2834f7f3c2]
+## 95. Breach of condition about period within which development must start etc.[^c-a4ccc8d15ef798128d852d2834f7f3c2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4ccc8d15ef798128d852d2834f7f3c2]: Commencement: S. 95 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a4ccc8d15ef798128d852d2834f7f3c2]: Commencement: S. 95 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

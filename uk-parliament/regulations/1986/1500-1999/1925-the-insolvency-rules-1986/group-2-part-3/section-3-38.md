@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.38. Preservation of certificate with company's records[^key-90ca49a26b9f035a628f91c1624751da]
+## 3.38. Preservation of certificate with company's records[^c-90ca49a26b9f035a628f91c1624751da]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90ca49a26b9f035a628f91c1624751da]: Commencement: [Rule 3.38](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.38) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-90ca49a26b9f035a628f91c1624751da]: Commencement: [Rule 3.38](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.38) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

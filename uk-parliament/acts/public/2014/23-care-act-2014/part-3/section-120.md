@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Powers of administrator etc.[^key-6b39c0db52e8b1faaa994ab1288bd6d8]
+## 120. Powers of administrator etc.[^c-6b39c0db52e8b1faaa994ab1288bd6d8]
 
 *Extent: E+W*
 
@@ -213,4 +213,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b39c0db52e8b1faaa994ab1288bd6d8]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2014/23/section/120) in force at 15.7.2014 by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/2/c)
+[^c-6b39c0db52e8b1faaa994ab1288bd6d8]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2014/23/section/120) in force at 15.7.2014 by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/2/c)

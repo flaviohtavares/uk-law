@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Assets held on 6th April 1965[^key-7054dcc326a0157665ac48b10f49fc06][^key-f62f55db6b767097785ccc08c7331e12][^key-3f5cc9c9882028d18e817dc31c07638a]
+## SCHEDULE 2 — Assets held on 6th April 1965[^c-7054dcc326a0157665ac48b10f49fc06][^c-f62f55db6b767097785ccc08c7331e12][^c-3f5cc9c9882028d18e817dc31c07638a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ Section 35.
 
 (2) For the purposes of this Act it shall be assumed, wherever relevant, that any assets to which this paragraph applies were sold by the owner, and immediately reacquired by him, at their market value on 6th April 1965.
 
-(3)[^key-2abef61e908459a30632f990b13472d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2abef61e908459a30632f990b13472d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Restriction of gain or loss by reference to actual cost
 
@@ -74,11 +74,11 @@ then in computing the gain accruing on any disposal of quoted securities the que
 
 (5) Securities shall not be treated for the purposes of this paragraph as being of the same class unless they are so treated by the practice of a recognised stock exchange or would be so treated if dealt with on such a stock exchange, but shall be treated in accordance with this paragraph notwithstanding that they are identified in some other way by the disposal or by the transfer or delivery giving effect to it.
 
-(6)[^key-05db36473fcb13e9b14c7e04ded77b69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-05db36473fcb13e9b14c7e04ded77b69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Nothing in this paragraph shall be taken as affecting the manner in which the market value of any asset is to be ascertained.
 
-(8) An election made by any person under this paragraph shall be as respects all disposals made by the person[^key-0360a89549eb7f905df4462eb91311eb] at any time, including disposals made before the election but after 19th March 1968—
+(8) An election made by any person under this paragraph shall be as respects all disposals made by the person[^c-0360a89549eb7f905df4462eb91311eb] at any time, including disposals made before the election but after 19th March 1968—
 
 - (a) of quoted securities of kinds other than fixed-interest securities and preference shares, or
 - (b) of fixed-interest securities and preference shares,
@@ -87,20 +87,20 @@ and references to the quoted securities covered by an election shall be construe
 
 Any person may make both of the elections.
 
-(9) An election under this paragraph shall not cover quoted securities which the holder acquired on a disposal after 19th March 1968 in relation to which section[^key-690bdbfd2aae37e6ee3edfdf1a721228] 171(1) applies, but this paragraph shall apply to the quoted securities so held if the person who made the original disposal (that is to say [^key-ac8b7ce6a4763a81ccc7784e27b6d564]... the other member of the group of companies) makes an election covering quoted securities of the kind in question.
+(9) An election under this paragraph shall not cover quoted securities which the holder acquired on a disposal after 19th March 1968 in relation to which section[^c-690bdbfd2aae37e6ee3edfdf1a721228] 171(1) applies, but this paragraph shall apply to the quoted securities so held if the person who made the original disposal (that is to say [^c-ac8b7ce6a4763a81ccc7784e27b6d564]... the other member of the group of companies) makes an election covering quoted securities of the kind in question.
 
-For the purpose of identifying quoted securities disposed of by the holder with quoted securities acquired by the holder[^key-8db4cf8001136c1fbed7102cfc17e613] on a disposal in relation to which section 171(1) applies, so far as they are of the same class, quoted securities acquired at an earlier time shall be deemed to be disposed of before quoted securities acquired at a later time.
+For the purpose of identifying quoted securities disposed of by the holder with quoted securities acquired by the holder[^c-8db4cf8001136c1fbed7102cfc17e613] on a disposal in relation to which section 171(1) applies, so far as they are of the same class, quoted securities acquired at an earlier time shall be deemed to be disposed of before quoted securities acquired at a later time.
 
 (10) For the avoidance of doubt it is hereby declared—
 
-- (a) that where a person makes an election under this paragraph as respects quoted securities which the person[^key-781a066d3763247d9abdebe49663c6c9] holds in one capacity, that election does not cover quoted securities which the person holds in another capacity, and
+- (a) that where a person makes an election under this paragraph as respects quoted securities which the person[^c-781a066d3763247d9abdebe49663c6c9] holds in one capacity, that election does not cover quoted securities which the person holds in another capacity, and
 - (b) that an election under this paragraph is irrevocable.
 
-(11) An election under this paragraph shall be made by notice to an officer of the Board given—[^key-2c7941abd9e7f72eba40a532b875eee6]
+(11) An election under this paragraph shall be made by notice to an officer of the Board given—[^c-2c7941abd9e7f72eba40a532b875eee6]
 
-- (a)[^key-6724ff007b03b8a9d31a3fbde640823e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-63e9ff93f078875699f4ee15961f782a]... not later than the expiration of 2 years from the end of the accounting period in which the first relevant disposal is made; or
-- (c) [^key-4560c7d99aea4a189a410e30e61afe42]... within such further time as the Board may allow.
+- (a)[^c-6724ff007b03b8a9d31a3fbde640823e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-63e9ff93f078875699f4ee15961f782a]... not later than the expiration of 2 years from the end of the accounting period in which the first relevant disposal is made; or
+- (c) [^c-4560c7d99aea4a189a410e30e61afe42]... within such further time as the Board may allow.
 
 (12) Subject to paragraph 5 below, in this paragraph the “**first relevant disposal**”, in relation to each of the elections referred to in sub-paragraph (8) of this paragraph, means the first disposal after 19th March 1968 by the person making the election of quoted securities of the kind covered by that election.
 
@@ -172,7 +172,7 @@ and accordingly the amount of the gain or loss accruing on the disposal shall be
 
 In relation to any material development which was begun before 18th December 1973 this sub-paragraph shall have effect with the omission of the words from “other than" to “before that time".
 
-(3) In this paragraph “**planning permission**” has the same meaning as in the [^c2138456]Town and Country Planning Act 1990, or, in Scotland, the [^c2138457]Town and Country Planning (Scotland) Act 1972, or, in Northern Ireland, the Planning Act (Northern Ireland) 2011[^key-f38d4c0585afa4e37c271a27fe1f17a8], and in determining for the purposes of this paragraph what material development of any land was authorised by planning permission at a time when there was in force in respect of the land planning permission granted on an outline application (that is to say, an application for planning permission subject to subsequent approval on any matters), any such development of the land which at that time—
+(3) In this paragraph “**planning permission**” has the same meaning as in the [^c2138456]Town and Country Planning Act 1990, or, in Scotland, the [^c2138457]Town and Country Planning (Scotland) Act 1972, or, in Northern Ireland, the Planning Act (Northern Ireland) 2011[^c-f38d4c0585afa4e37c271a27fe1f17a8], and in determining for the purposes of this paragraph what material development of any land was authorised by planning permission at a time when there was in force in respect of the land planning permission granted on an outline application (that is to say, an application for planning permission subject to subsequent approval on any matters), any such development of the land which at that time—
 
 - (a) was authorised by that permission without any requirement as to subsequent approval; or
 - (b) not being so authorised, had been approved in the manner applicable to that planning permission,
@@ -334,11 +334,11 @@ so that, calling the respective proportions of the gain E(0), E(1), E(2) and so 
 
 The displacement of sub-paragraph (1) above by this sub-paragraph shall not be taken as bringing paragraph 16 above into operation.
 
-(3) An election under this paragraph shall be made by notice to an officer of the Board given—[^key-7fc53d9bf5ad30dd6e8872c05bf95021]
+(3) An election under this paragraph shall be made by notice to an officer of the Board given—[^c-7fc53d9bf5ad30dd6e8872c05bf95021]
 
-- (a)[^key-28c44c3029cefcb41b086c95dc16e188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-d02fb661506d53a3b077cbc909d8fafa]... within 2 years from the end of the accounting period in which the disposal is made; or
-- (c) [^key-f736fe0bb2f5492d3b402b218df70166]... within such further time as the Board may by notice allow.
+- (a)[^c-28c44c3029cefcb41b086c95dc16e188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-d02fb661506d53a3b077cbc909d8fafa]... within 2 years from the end of the accounting period in which the disposal is made; or
+- (c) [^c-f736fe0bb2f5492d3b402b218df70166]... within such further time as the Board may by notice allow.
 
 (4) For the avoidance of doubt it is hereby declared that an election under this paragraph is irrevocable.
 
@@ -391,9 +391,9 @@ so far as the shares are of the same class, shares bought at a later time shall 
 
 (3) This paragraph shall not apply where a loss, and not a gain, accrues on the disposal.
 
-#### Spouses and civil partners[^key-2bd2b3b10626b2209a0edce51ecda0db]
+#### Spouses and civil partners[^c-2bd2b3b10626b2209a0edce51ecda0db]
 
-**22.**[^key-e24ca535edc8eb4dd0ef227a9f4c49e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e24ca535edc8eb4dd0ef227a9f4c49e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Compensation and insurance money
 
@@ -401,52 +401,52 @@ so far as the shares are of the same class, shares bought at a later time shall 
 
 ## Annotations
 
-[^key-7054dcc326a0157665ac48b10f49fc06]: Modification: Sch. 2 modified (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 10](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/10)
+[^c-7054dcc326a0157665ac48b10f49fc06]: Modification: Sch. 2 modified (retrospective to 11.1.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [s. 252(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/252/3), [Sch. 24 para. 10](https://www.legislation.gov.uk/ukpga/1994/9/schedule/24/paragraph/10)
 
-[^key-f62f55db6b767097785ccc08c7331e12]: Modification: Sch. 2 modified (19.9.1994) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/10) (with [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/14)); [S.I. 1994/2189](https://www.legislation.gov.uk/uksi/1994/2189), art. 2, Sch.
+[^c-f62f55db6b767097785ccc08c7331e12]: Modification: Sch. 2 modified (19.9.1994) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/10) (with [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1994/21/schedule/4/paragraph/14)); [S.I. 1994/2189](https://www.legislation.gov.uk/uksi/1994/2189), art. 2, Sch.
 
-[^key-3f5cc9c9882028d18e817dc31c07638a]: Modification: Sch. 2 modified (24.7.1996) by [Broadcasting Act 1996 (c. 55)](https://www.legislation.gov.uk/ukpga/1996/55), [s. 149(1)](https://www.legislation.gov.uk/ukpga/1996/55/section/149/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/5) (with [Sch. 7 para. 9(1)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/9/1))
+[^c-3f5cc9c9882028d18e817dc31c07638a]: Modification: Sch. 2 modified (24.7.1996) by [Broadcasting Act 1996 (c. 55)](https://www.legislation.gov.uk/ukpga/1996/55), [s. 149(1)](https://www.legislation.gov.uk/ukpga/1996/55/section/149/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/5) (with [Sch. 7 para. 9(1)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/9/1))
 
-[^key-2abef61e908459a30632f990b13472d7]: Textual amendment: Sch. 2 para. 1(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/2)
+[^c-2abef61e908459a30632f990b13472d7]: Textual amendment: Sch. 2 para. 1(3) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/2)
 
 [^c2138454]: Marginal citation: [1965 c. 25](https://www.legislation.gov.uk/ukpga/1965/25).
 
 [^c2138455]: Marginal citation: [1982 c. 39](https://www.legislation.gov.uk/ukpga/1982/39).
 
-[^key-05db36473fcb13e9b14c7e04ded77b69]: Textual amendment: Sch. 2 para. 4(6) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/a)
+[^c-05db36473fcb13e9b14c7e04ded77b69]: Textual amendment: Sch. 2 para. 4(6) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/a)
 
-[^key-0360a89549eb7f905df4462eb91311eb]: Textual amendment: Words in Sch. 2 para. 4(8) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/b)
+[^c-0360a89549eb7f905df4462eb91311eb]: Textual amendment: Words in Sch. 2 para. 4(8) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/b)
 
-[^key-690bdbfd2aae37e6ee3edfdf1a721228]: Textual amendment: Word in Sch. 2 para. 4(9) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/c/i)
+[^c-690bdbfd2aae37e6ee3edfdf1a721228]: Textual amendment: Word in Sch. 2 para. 4(9) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/c/i)
 
-[^key-ac8b7ce6a4763a81ccc7784e27b6d564]: Textual amendment: Words in Sch. 2 para. 4(9) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/c/ii)
+[^c-ac8b7ce6a4763a81ccc7784e27b6d564]: Textual amendment: Words in Sch. 2 para. 4(9) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/c/ii)
 
-[^key-8db4cf8001136c1fbed7102cfc17e613]: Textual amendment: Words in Sch. 2 para. 4(9) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/c/iii)
+[^c-8db4cf8001136c1fbed7102cfc17e613]: Textual amendment: Words in Sch. 2 para. 4(9) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/c/iii)
 
-[^key-781a066d3763247d9abdebe49663c6c9]: Textual amendment: Words in Sch. 2 para. 4(10)(a) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/d)
+[^c-781a066d3763247d9abdebe49663c6c9]: Textual amendment: Words in Sch. 2 para. 4(10)(a) substituted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/d)
 
-[^key-2c7941abd9e7f72eba40a532b875eee6]: Textual amendment: Words in Sch. 2 para. 4(11) substituted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 42(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/42/2)
+[^c-2c7941abd9e7f72eba40a532b875eee6]: Textual amendment: Words in Sch. 2 para. 4(11) substituted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 42(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/42/2)
 
-[^key-6724ff007b03b8a9d31a3fbde640823e]: Textual amendment: Sch. 2 para. 4(11)(a) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/e/i)
+[^c-6724ff007b03b8a9d31a3fbde640823e]: Textual amendment: Sch. 2 para. 4(11)(a) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/e/i)
 
-[^key-63e9ff93f078875699f4ee15961f782a]: Textual amendment: Words in Sch. 2 para. 4(11)(b) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/e/ii)
+[^c-63e9ff93f078875699f4ee15961f782a]: Textual amendment: Words in Sch. 2 para. 4(11)(b) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(e)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/e/ii)
 
-[^key-4560c7d99aea4a189a410e30e61afe42]: Textual amendment: Words in Sch. 2 para. 4(11)(c) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(e)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/e/iii)
+[^c-4560c7d99aea4a189a410e30e61afe42]: Textual amendment: Words in Sch. 2 para. 4(11)(c) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(3)(e)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/3/e/iii)
 
 [^c2138456]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
 [^c2138457]: Marginal citation: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52).
 
-[^key-f38d4c0585afa4e37c271a27fe1f17a8]: Textual amendment: Words in Sch. 2 para. 10(3) substituted (N.I.) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 64](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/64) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-f38d4c0585afa4e37c271a27fe1f17a8]: Textual amendment: Words in Sch. 2 para. 10(3) substituted (N.I.) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 64](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/64) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
-[^key-7fc53d9bf5ad30dd6e8872c05bf95021]: Textual amendment: Words in Sch. 2 para. 17(3) substituted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 42(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/42/3)
+[^c-7fc53d9bf5ad30dd6e8872c05bf95021]: Textual amendment: Words in Sch. 2 para. 17(3) substituted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 42(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/42/3)
 
-[^key-28c44c3029cefcb41b086c95dc16e188]: Textual amendment: Sch. 2 para. 17(3)(a) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/4/a)
+[^c-28c44c3029cefcb41b086c95dc16e188]: Textual amendment: Sch. 2 para. 17(3)(a) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(4)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/4/a)
 
-[^key-d02fb661506d53a3b077cbc909d8fafa]: Textual amendment: Words in Sch. 2 para. 17(3)(b) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(4)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/4/b)
+[^c-d02fb661506d53a3b077cbc909d8fafa]: Textual amendment: Words in Sch. 2 para. 17(3)(b) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(4)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/4/b)
 
-[^key-f736fe0bb2f5492d3b402b218df70166]: Textual amendment: Words in Sch. 2 para. 17(3)(c) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(4)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/4/c)
+[^c-f736fe0bb2f5492d3b402b218df70166]: Textual amendment: Words in Sch. 2 para. 17(3)(c) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(4)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/4/c)
 
-[^key-2bd2b3b10626b2209a0edce51ecda0db]: Textual amendment: Words in Sch. 2 para. 22 cross-heading substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [124(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/124/b/ii)
+[^c-2bd2b3b10626b2209a0edce51ecda0db]: Textual amendment: Words in Sch. 2 para. 22 cross-heading substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [124(b)(ii)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/124/b/ii)
 
-[^key-e24ca535edc8eb4dd0ef227a9f4c49e2]: Textual amendment: Sch. 2 para. 22 omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/5)
+[^c-e24ca535edc8eb4dd0ef227a9f4c49e2]: Textual amendment: Sch. 2 para. 22 omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 64(5)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/64/5)

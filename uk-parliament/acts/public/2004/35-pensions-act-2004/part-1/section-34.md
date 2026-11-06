@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Suspension orders[^key-f7a7f569781d5b0e1a9a787dc1a470e7]
+## 34. Suspension orders[^c-f7a7f569781d5b0e1a9a787dc1a470e7]
 
 *Extent: E+W+S*
 
@@ -39,10 +39,10 @@ In section 4 of the Pensions Act 1995 (c. 26) (suspension orders)—
   > - (b) if the determination is so referred, until the reference, and any appeal against the Tribunal’s determination, has been finally disposed of.
 
   , and
-- (d)[^key-3aa50f9e46d2bb613a0032993536d4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3aa50f9e46d2bb613a0032993536d4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7a7f569781d5b0e1a9a787dc1a470e7]: Commencement: S. 34 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with transitional provisions and savings in [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), arts. 5(8), 6, Schs. 2, 3 (as amended by [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), art. 3(b))
+[^c-f7a7f569781d5b0e1a9a787dc1a470e7]: Commencement: S. 34 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with transitional provisions and savings in [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), arts. 5(8), 6, Schs. 2, 3 (as amended by [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), art. 3(b))
 
-[^key-3aa50f9e46d2bb613a0032993536d4ae]: Textual amendment: S. 34(d) repealed (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/g), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/2) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-3aa50f9e46d2bb613a0032993536d4ae]: Textual amendment: S. 34(d) repealed (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(g)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/g), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/2) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

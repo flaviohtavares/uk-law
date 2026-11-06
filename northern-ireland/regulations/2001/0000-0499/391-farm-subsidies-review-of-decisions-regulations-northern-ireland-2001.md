@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community and in relation to matters relating to the promotion of rural development, in exercise of the powers conferred on it by the said section 2(2) and every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-f6af644b253ce17c6aa4ffdfe3fd76ee]
+## 1. Citation and commencement[^c-f6af644b253ce17c6aa4ffdfe3fd76ee]
 
 These Regulations may be cited as the Farm Subsidies (Review of Decisions) Regulations (Northern Ireland) 2001 and shall come into operation on 14th November 2001.
 
-## 2. Interpretation[^key-9fbc181fd5594e2411b0713f198f30e3]
+## 2. Interpretation[^c-9fbc181fd5594e2411b0713f198f30e3]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
@@ -61,18 +61,18 @@ These Regulations may be cited as the Farm Subsidies (Review of Decisions) Regul
 
 (3) Any reference in these Regulations to a person to whom a decision is directed or an applicant for review includes a reference to any successor, executor, trustee in bankruptcy, receiver or liquidator of such a person or applicant.
 
-## 3. Application[^key-6f6bf5941bf9a92ad1d1995675e0b602]
+## 3. Application[^c-6f6bf5941bf9a92ad1d1995675e0b602]
 
 These Regulations apply to decisions of the Department of the kind referred to in regulation 4 in relation to holdings which are administered by the Department in accordance with the Integrated Administration and Control System Regulations 1993[^f00024].
 
-## 4. Decisions amenable to review[^key-ead5899c17a5ad525cd1f0313444c8f6]
+## 4. Decisions amenable to review[^c-ead5899c17a5ad525cd1f0313444c8f6]
 
 The following decisions may be reviewed in accordance with the following provisions of these Regulations—
 
 - (a) a decision, under or in accordance with Commission Regulation 3887/92 (including anything done in accordance with Article 11.1 of the Regulation), by the Department to refuse, reduce or recover (in whole or in part) payment under an IACS scheme for the IACS year 2001 or any IACS year thereafter; and
 - (b) a decision by the Department to refuse, reduce or recover (in whole or in part) payment of less favoured area compensatory allowance under the Less Favoured Areas Compensatory Allowances Regulations (Northern Ireland) 2001[^f00025].
 
-## 5. First review by the Department[^key-09d8a59dc5c2fc67b7e83d39d7c28d75]
+## 5. First review by the Department[^c-09d8a59dc5c2fc67b7e83d39d7c28d75]
 
 (1) Subject to paragraph (2), a person to whom a decision referred to in regulation 4 is directed, may apply, no later than 60 days following the date of the decision to be reviewed, to the Department for a review of that decision.
 
@@ -87,11 +87,11 @@ The following decisions may be reviewed in accordance with the following provisi
 
 (4) An application under this regulation is to be treated as made if it is received by the Department at its offices at Orchard House, 40 Foyle Street, Londonderry BT48 6AT marked “for the attention of the DARD Grants and Subsidies Appeals Branch”.
 
-**6.**[^key-6d1f8812dfd35de4e48d6fa9b8e94ac6] (1) Where an application is made under regulation 5, the Department shall review the decision which is the subject of the application.
+**6.**[^c-6d1f8812dfd35de4e48d6fa9b8e94ac6] (1) Where an application is made under regulation 5, the Department shall review the decision which is the subject of the application.
 
 (2) In reviewing a decision in accordance with this regulation the Department may consider any document or other evidence produced by the applicant (whether or not that document or evidence was available at the time of the decision).
 
-## 7. Decision following first review[^key-2aa7f9c8e04c396447d323e07be5026b]
+## 7. Decision following first review[^c-2aa7f9c8e04c396447d323e07be5026b]
 
 (1) Following review of a decision in accordance with regulation 6, the Department may—
 
@@ -101,7 +101,7 @@ The following decisions may be reviewed in accordance with the following provisi
 
 (2) The Department shall give its decision under paragraph (1) as soon as practicable in writing, setting out the facts upon which its decision is based and the reasons for its decision.
 
-## 8. Further review by the Department[^key-92302a109e63b9bc107ef181f19f26e1]
+## 8. Further review by the Department[^c-92302a109e63b9bc107ef181f19f26e1]
 
 (1) An applicant who is dissatisfied with a decision under regulation 7 may, no later than 30 days following the date of that decision, apply in writing to the Department for a review of that decision.
 
@@ -115,7 +115,7 @@ The following decisions may be reviewed in accordance with the following provisi
 
 (3) An application under this regulation is to be treated as made if it is received by the Department at its offices at Orchard House, 40 Foyle Street, Londonderry BT48 6AT marked “for the attention of the DARD Grants and Subsidies Appeals Branch”.
 
-**9.**[^key-ebfc56618f328bdd367ecb407eee6b0e] (1) Where an application is made under regulation 8, the Department shall review the decision which is specified in it.
+**9.**[^c-ebfc56618f328bdd367ecb407eee6b0e] (1) Where an application is made under regulation 8, the Department shall review the decision which is specified in it.
 
 (2) In reviewing a decision in accordance with this regulation the Department may—
 
@@ -123,7 +123,7 @@ The following decisions may be reviewed in accordance with the following provisi
 - (b) invite the applicant to provide such further information relevant to the review as the Department considers appropriate; and
 - (c) give the applicant an opportunity to make representations in writing.
 
-## 10. Decision following further review[^key-c3bf218a6aa4ff99c77c99a3e60233a3]
+## 10. Decision following further review[^c-c3bf218a6aa4ff99c77c99a3e60233a3]
 
 (1) Following a review of a decision in accordance with regulation 9, the Department may—
 
@@ -133,7 +133,7 @@ The following decisions may be reviewed in accordance with the following provisi
 
 (2) The Department shall give its decision under paragraph (1) as soon as practicable in writing, setting out the facts upon which its decision is based and the reasons for its decision.
 
-## 11. Further review by persons appointed[^key-f61448db28a219428fa192183b94b646]
+## 11. Further review by persons appointed[^c-f61448db28a219428fa192183b94b646]
 
 (1) An applicant who is dissatisfied with a decision under regulation 10 may, no later than 30 days following the date of that decision, apply in writing to the Department to have that decision reviewed by persons appointed by it.
 
@@ -149,7 +149,7 @@ The following decisions may be reviewed in accordance with the following provisi
 
 (4) The fee referred to in paragraph (3) is payable to the Department and recoverable by it, in the event of default, as a debt.
 
-## 12. Powers of persons appointed[^key-567d17b699d9738b3eb127b405ddfe5b]
+## 12. Powers of persons appointed[^c-567d17b699d9738b3eb127b405ddfe5b]
 
 (1) Where an application is made under regulation 11, the Department shall appoint such persons as it considers appropriate to review the decision and provide those persons with a copy of—
 
@@ -187,13 +187,13 @@ The following decisions may be reviewed in accordance with the following provisi
 
 (8) The Department may make such payment, by way of fee or reimbursement of expenses, to any of such persons appointed under paragraph (1), as appears to it to be appropriate.
 
-## 13. Notification of decisions[^key-51ca8b79e869604d9df7b8a5889a4b32]
+## 13. Notification of decisions[^c-51ca8b79e869604d9df7b8a5889a4b32]
 
 (1) A decision under regulation 7, 10 or 12 shall be notified to the applicant as soon as practicable after it is made by recorded delivery post to the address shown on the application for review.
 
 (2) In the case of a decision under regulation 12, the findings and recommendations of the persons appointed shall be notified along with the decision.
 
-## 14. Revocations[^key-28d72ee90520248347552a042ac37278]
+## 14. Revocations[^c-28d72ee90520248347552a042ac37278]
 
 Regulation 12(4) of the Less Favoured Area Compensatory Allowances Regulations (Northern Ireland) 2001 and regulation 10(2) to (4) of the Slaughter Premium Regulations (Northern Ireland) 2001[^f00026] are hereby revoked.
 
@@ -229,9 +229,9 @@ Consequential amendments are made in the Less Favoured Area Compensatory Allowan
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-f6af644b253ce17c6aa4ffdfe3fd76ee]: Commencement: Reg. 1 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-f6af644b253ce17c6aa4ffdfe3fd76ee]: Commencement: Reg. 1 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-9fbc181fd5594e2411b0713f198f30e3]: Commencement: Reg. 2 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-9fbc181fd5594e2411b0713f198f30e3]: Commencement: Reg. 2 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -275,32 +275,32 @@ Consequential amendments are made in the Less Favoured Area Compensatory Allowan
 
 [^f00023]: Footnote: O.J. No. L72, 14.3.2001, p.6
 
-[^key-6f6bf5941bf9a92ad1d1995675e0b602]: Commencement: Reg. 3 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-6f6bf5941bf9a92ad1d1995675e0b602]: Commencement: Reg. 3 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
 [^f00024]: Footnote: S.I. [1993/1317](https://www.legislation.gov.uk/uksi/1993/1317) amended by S.I. [1994/1134](https://www.legislation.gov.uk/uksi/1994/1134), S.I. [1997/1148](https://www.legislation.gov.uk/uksi/1997/1148), S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and S.I. [2000/2573](https://www.legislation.gov.uk/uksi/2000/2573)
 
-[^key-ead5899c17a5ad525cd1f0313444c8f6]: Commencement: Reg. 4 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-ead5899c17a5ad525cd1f0313444c8f6]: Commencement: Reg. 4 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
 [^f00025]: Footnote: S.R. No. [2001 No. 71](https://www.legislation.gov.uk/nisr/2001/71)
 
-[^key-09d8a59dc5c2fc67b7e83d39d7c28d75]: Commencement: Reg. 5 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-09d8a59dc5c2fc67b7e83d39d7c28d75]: Commencement: Reg. 5 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-6d1f8812dfd35de4e48d6fa9b8e94ac6]: Commencement: Reg. 6 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-6d1f8812dfd35de4e48d6fa9b8e94ac6]: Commencement: Reg. 6 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-2aa7f9c8e04c396447d323e07be5026b]: Commencement: Reg. 7 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-2aa7f9c8e04c396447d323e07be5026b]: Commencement: Reg. 7 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-92302a109e63b9bc107ef181f19f26e1]: Commencement: Reg. 8 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-92302a109e63b9bc107ef181f19f26e1]: Commencement: Reg. 8 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-ebfc56618f328bdd367ecb407eee6b0e]: Commencement: Reg. 9 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-ebfc56618f328bdd367ecb407eee6b0e]: Commencement: Reg. 9 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-c3bf218a6aa4ff99c77c99a3e60233a3]: Commencement: Reg. 10 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-c3bf218a6aa4ff99c77c99a3e60233a3]: Commencement: Reg. 10 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-f61448db28a219428fa192183b94b646]: Commencement: Reg. 11 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-f61448db28a219428fa192183b94b646]: Commencement: Reg. 11 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-567d17b699d9738b3eb127b405ddfe5b]: Commencement: Reg. 12 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-567d17b699d9738b3eb127b405ddfe5b]: Commencement: Reg. 12 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-51ca8b79e869604d9df7b8a5889a4b32]: Commencement: Reg. 13 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-51ca8b79e869604d9df7b8a5889a4b32]: Commencement: Reg. 13 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
-[^key-28d72ee90520248347552a042ac37278]: Commencement: Reg. 14 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
+[^c-28d72ee90520248347552a042ac37278]: Commencement: Reg. 14 in operation at 14.11.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/391/regulation/1)
 
 [^f00026]: Footnote: [S.R. 2001 No. 199](https://www.legislation.gov.uk/nisr/2001/199)

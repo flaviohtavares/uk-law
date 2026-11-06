@@ -34,7 +34,7 @@ summary: ''
 - (c) the right to appeal against it under subsection (4), and
 - (d) the period within which an appeal may be made under that subsection.
 
-(4) A person who applies to a local housing authority for the revocation of an HMO declaration under subsection (1) may appeal to the appropriate tribunal[^key-f501462561c7c69d3d8b72a02a49a493] against a decision of the authority to refuse to revoke the notice.
+(4) A person who applies to a local housing authority for the revocation of an HMO declaration under subsection (1) may appeal to the appropriate tribunal[^c-f501462561c7c69d3d8b72a02a49a493] against a decision of the authority to refuse to revoke the notice.
 
 The appeal must be made within the period of 28 days beginning with the date specified under subsection (3) as the date on which the decision was made.
 
@@ -50,4 +50,4 @@ The appeal must be made within the period of 28 days beginning with the date spe
 
 ## Annotations
 
-[^key-f501462561c7c69d3d8b72a02a49a493]: Textual amendment: Words in s. 256(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 179](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/179) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f501462561c7c69d3d8b72a02a49a493]: Textual amendment: Words in s. 256(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 179](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/179) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

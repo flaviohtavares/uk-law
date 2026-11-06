@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Indemnity of the Treasury, Director of Savings and officers[^key-406de0899bc93aa01b9a4089a2314850]
+## 73. Indemnity of the Treasury, Director of Savings and officers[^c-406de0899bc93aa01b9a4089a2314850]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ if it is outside the direct control of the Director of Savings.
 
 ## Annotations
 
-[^key-406de0899bc93aa01b9a4089a2314850]: Commencement: Reg. 73 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-406de0899bc93aa01b9a4089a2314850]: Commencement: Reg. 73 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2015/623](https://www.legislation.gov.uk/uksi/2015/623).

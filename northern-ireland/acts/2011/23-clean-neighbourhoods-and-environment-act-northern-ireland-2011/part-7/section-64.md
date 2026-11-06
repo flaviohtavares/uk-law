@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Duty of district council to inspect for statutory nuisance[^key-1ff1c4ac9b5dd0ef12b8912ee2f34585]
+## 64. Duty of district council to inspect for statutory nuisance[^c-1ff1c4ac9b5dd0ef12b8912ee2f34585]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ It shall be the duty of every district council—
 
 ## Annotations
 
-[^key-1ff1c4ac9b5dd0ef12b8912ee2f34585]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2011/23/section/64) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-1ff1c4ac9b5dd0ef12b8912ee2f34585]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2011/23/section/64) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

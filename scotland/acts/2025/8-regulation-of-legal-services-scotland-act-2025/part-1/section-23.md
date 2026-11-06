@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Right to provide legal services[^key-0dde48ff457540ac12504b2398dd6e7a][^key-040201d19f8096c6164ee92efb8e902c]
+## 23. Right to provide legal services[^c-0dde48ff457540ac12504b2398dd6e7a][^c-040201d19f8096c6164ee92efb8e902c]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0dde48ff457540ac12504b2398dd6e7a]: Commencement: S. 23 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0dde48ff457540ac12504b2398dd6e7a]: Commencement: S. 23 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-040201d19f8096c6164ee92efb8e902c]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/8/section/23) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-040201d19f8096c6164ee92efb8e902c]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/8/section/23) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

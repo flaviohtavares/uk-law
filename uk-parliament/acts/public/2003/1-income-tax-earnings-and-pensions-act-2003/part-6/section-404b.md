@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 404B. Power to vary threshold[^key-f11470ac80ef70d3121d62eb17cb95bf]
+## 404B. Power to vary threshold[^c-f11470ac80ef70d3121d62eb17cb95bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f11470ac80ef70d3121d62eb17cb95bf]: Textual amendment: [S. 404B](https://www.legislation.gov.uk/ukpga/2003/1/section/404B) inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/6)
+[^c-f11470ac80ef70d3121d62eb17cb95bf]: Textual amendment: [S. 404B](https://www.legislation.gov.uk/ukpga/2003/1/section/404B) inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/6)

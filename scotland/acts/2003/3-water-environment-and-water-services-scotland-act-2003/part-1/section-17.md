@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. River Basin District Advisory Groups[^key-2530ddb3a0fede6082a3dafb316ebfa4]
+## 17. River Basin District Advisory Groups[^c-2530ddb3a0fede6082a3dafb316ebfa4]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2530ddb3a0fede6082a3dafb316ebfa4]: Commencement: S. 17 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/235/article/2/c)
+[^c-2530ddb3a0fede6082a3dafb316ebfa4]: Commencement: S. 17 in force at 1.6.2005 by [S.S.I. 2005/235](https://www.legislation.gov.uk/ssi/2005/235), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/235/article/2/c)

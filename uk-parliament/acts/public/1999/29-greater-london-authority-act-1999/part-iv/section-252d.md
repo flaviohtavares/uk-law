@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252D. Reports on investigation etc.[^key-baa93b276f8f91121d800c10020c3c31]
+## 252D. Reports on investigation etc.[^c-baa93b276f8f91121d800c10020c3c31]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ the expenditure involved represents good value for money.
 
 (3) The Committee—
 
-- (a) must send a copy of every report prepared under this section to the Passengers’ Council[^key-fedc7f93831ad7c7b9d3915c2553c06a]; and
+- (a) must send a copy of every report prepared under this section to the Passengers’ Council[^c-fedc7f93831ad7c7b9d3915c2553c06a]; and
 - (b) may publish the report;
 
 but the Committee may publish a report relating to findings on a matter referred to the Committee by the Secretary of State only if required to do so by him under this section.
@@ -54,6 +54,6 @@ the Committee must publish the report if it is required to do so by him.
 
 ## Annotations
 
-[^key-baa93b276f8f91121d800c10020c3c31]: Textual amendment: Ss. 252B-252D inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/3); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-baa93b276f8f91121d800c10020c3c31]: Textual amendment: Ss. 252B-252D inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/3); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-fedc7f93831ad7c7b9d3915c2553c06a]: Textual amendment: Words in s. 252D(3)(a) substituted (E.W.S.) (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/7/3)
+[^c-fedc7f93831ad7c7b9d3915c2553c06a]: Textual amendment: Words in s. 252D(3)(a) substituted (E.W.S.) (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/7/3)

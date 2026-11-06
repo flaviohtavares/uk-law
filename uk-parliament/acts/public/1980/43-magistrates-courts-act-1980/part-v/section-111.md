@@ -32,7 +32,7 @@ summary: ''
 
 (6) Where justices refuse to state a case, the High Court may, on the application of the person who applied for the case to be stated, make an order of mandamus requiring the justices to state a case.
 
-(7)[^key-c491851ad0307a86dc4de4b77cb1e6b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c491851ad0307a86dc4de4b77cb1e6b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c19490601]: Modification: S. 111 referred to (11.3.2005) by [Prevention of Terrorism Act 2005 (c. 2)](https://www.legislation.gov.uk/ukpga/2005/2), [s. 12(7)(b)](https://www.legislation.gov.uk/ukpga/2005/2/section/12/7/b)
 
-[^key-c491851ad0307a86dc4de4b77cb1e6b3]: Textual amendment: S. 111(7) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c491851ad0307a86dc4de4b77cb1e6b3]: Textual amendment: S. 111(7) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

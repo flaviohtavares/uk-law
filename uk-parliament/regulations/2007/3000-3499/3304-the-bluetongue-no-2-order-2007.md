@@ -34,7 +34,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Bluetongue (No. 2) Order 2007 (revoked)[^key-433611ceb423a2d4a70180544e344aa3]
+The Bluetongue (No. 2) Order 2007 (revoked)[^c-433611ceb423a2d4a70180544e344aa3]
 
 Made
 
@@ -44,136 +44,136 @@ Coming into force
 
 23rd November 2007
 
-[^key-433611ceb423a2d4a70180544e344aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-433611ceb423a2d4a70180544e344aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-433611ceb423a2d4a70180544e344aa3]
+## PART 1 — Introduction[^c-433611ceb423a2d4a70180544e344aa3]
 
-### 1. Title, application and commencement[^key-433611ceb423a2d4a70180544e344aa3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-433611ceb423a2d4a70180544e344aa3]
+### 1. Title, application and commencement[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Extension of the definition of “disease”[^key-433611ceb423a2d4a70180544e344aa3]
+### 2. Interpretation[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Exemptions[^key-433611ceb423a2d4a70180544e344aa3]
+### 3. Extension of the definition of “disease”[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Suspected and confirmed bluetongue[^key-433611ceb423a2d4a70180544e344aa3]
-
-### 5. Initial requirements where bluetongue is known or suspected[^key-433611ceb423a2d4a70180544e344aa3]
+### 4. Exemptions[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Suspected or infected premises[^key-433611ceb423a2d4a70180544e344aa3]
+## PART 2 — Suspected and confirmed bluetongue[^c-433611ceb423a2d4a70180544e344aa3]
+
+### 5. Initial requirements where bluetongue is known or suspected[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Confirmation of bluetongue on premises[^key-433611ceb423a2d4a70180544e344aa3]
+### 6. Suspected or infected premises[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Powers of veterinary inspectors and officers[^key-433611ceb423a2d4a70180544e344aa3]
+### 7. Confirmation of bluetongue on premises[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Temporary control zones[^key-433611ceb423a2d4a70180544e344aa3]
+### 8. Powers of veterinary inspectors and officers[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Measures on confirmation of the bluetongue virus[^key-433611ceb423a2d4a70180544e344aa3]
+### 9. Temporary control zones[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Restrictions in protection and surveillance zones[^key-433611ceb423a2d4a70180544e344aa3]
+### 10. Measures on confirmation of the bluetongue virus[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Premises straddling zones[^key-433611ceb423a2d4a70180544e344aa3]
+### 11. Restrictions in protection and surveillance zones[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Powers of inspectors and officers in control or restricted zones[^key-433611ceb423a2d4a70180544e344aa3]
+### 12. Premises straddling zones[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Slaughter of animals[^key-433611ceb423a2d4a70180544e344aa3]
+### 13. Powers of inspectors and officers in control or restricted zones[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Subsequent movement of animals[^key-433611ceb423a2d4a70180544e344aa3]
+### 14. Slaughter of animals[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Bluetongue outside England[^key-433611ceb423a2d4a70180544e344aa3]
+### 15. Subsequent movement of animals[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Slaughter of animals[^key-433611ceb423a2d4a70180544e344aa3]
+### 16. Bluetongue outside England[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Declarations of zones[^key-433611ceb423a2d4a70180544e344aa3]
+### 17. Slaughter of animals[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Miscellaneous[^key-433611ceb423a2d4a70180544e344aa3]
-
-### 19. Surveillance[^key-433611ceb423a2d4a70180544e344aa3]
+### 18. Declarations of zones[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Vaccination against bluetongue[^key-433611ceb423a2d4a70180544e344aa3]
+## PART 3 — Miscellaneous[^c-433611ceb423a2d4a70180544e344aa3]
+
+### 19. Surveillance[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Powers of inspectors in case of default[^key-433611ceb423a2d4a70180544e344aa3]
+### 20. Vaccination against bluetongue[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. General powers of inspectors[^key-433611ceb423a2d4a70180544e344aa3]
+### 21. Powers of inspectors in case of default[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Damage[^key-433611ceb423a2d4a70180544e344aa3]
+### 22. General powers of inspectors[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Licences[^key-433611ceb423a2d4a70180544e344aa3]
+### 23. Damage[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Licences granted outside England[^key-433611ceb423a2d4a70180544e344aa3]
+### 24. Licences[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Provision of assistance[^key-433611ceb423a2d4a70180544e344aa3]
+### 25. Licences granted outside England[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Offences by bodies corporate[^key-433611ceb423a2d4a70180544e344aa3]
+### 26. Provision of assistance[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Enforcement[^key-433611ceb423a2d4a70180544e344aa3]
+### 27. Offences by bodies corporate[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Revocation[^key-433611ceb423a2d4a70180544e344aa3]
+### 28. Enforcement[^c-433611ceb423a2d4a70180544e344aa3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-433611ceb423a2d4a70180544e344aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 29. Revocation[^c-433611ceb423a2d4a70180544e344aa3]
 
-[^key-433611ceb423a2d4a70180544e344aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-433611ceb423a2d4a70180544e344aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-433611ceb423a2d4a70180544e344aa3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-433611ceb423a2d4a70180544e344aa3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3304) revoked (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [7](https://www.legislation.gov.uk/uksi/2023/1415/article/7)
+[^c-433611ceb423a2d4a70180544e344aa3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3304) revoked (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [7](https://www.legislation.gov.uk/uksi/2023/1415/article/7)

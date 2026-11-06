@@ -33,7 +33,7 @@ An Act to make provision for persons bound by covenants of a tenancy to be relea
 
 \[19th July 1995\] [^c421492]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f23f03a6631c2e3a95a1a25c75de7898]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f23f03a6631c2e3a95a1a25c75de7898]
 
 ## Preliminary
 
@@ -56,7 +56,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) In subsection (6) “**option**” includes right of first refusal.
 
-(8)[^key-ece52f96b415212c14222d2c3b3017ef] This Act does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1).
+(8)[^c-ece52f96b415212c14222d2c3b3017ef] This Act does not apply to occupation contracts within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1).
 
 ### 2. Covenants to which the Act applies.
 
@@ -103,7 +103,7 @@ but does not apply to a covenant falling within subsection (2).
 (6) Nothing in this section shall operate—
 
 - (a) in the case of a covenant which (in whatever terms) is expressed to be personal to any person, to make the covenant enforceable by or (as the case may be) against any other person; or
-- (b) to make a covenant enforceable against any person if, apart from this section, it would not be enforceable against him by reason of its not having been registered under the Land Registration Act 2002[^key-12f337e996dc7089e8bef3b03851b49b] or the [^c421499]Land Charges Act 1972.
+- (b) to make a covenant enforceable against any person if, apart from this section, it would not be enforceable against him by reason of its not having been registered under the Land Registration Act 2002[^c-12f337e996dc7089e8bef3b03851b49b] or the [^c421499]Land Charges Act 1972.
 
 (7) To the extent that there remains in force any rule of law by virtue of which the burden of a covenant whose subject matter is not in existence at the time when it is made does not run with the land affected unless the covenantor covenants on behalf of himself and his assigns, that rule of law is hereby abolished in relation to tenancies.
 
@@ -136,7 +136,7 @@ only to the extent that those covenants fall to be complied with in relation to 
 
 (4) This section applies as mentioned in subsection (1) whether or not the tenant is tenant of the whole of the premises comprised in the tenancy.
 
-(5)[^key-8d2d8f80f864ce328c06071fd5e121bb] This section is subject to paragraph 16(4) of Schedule 3A to the Communications Act 2003 (which places conditions on the release of an operator from liability under an agreement granting code rights under the electronic communications code).
+(5)[^c-8d2d8f80f864ce328c06071fd5e121bb] This section is subject to paragraph 16(4) of Schedule 3A to the Communications Act 2003 (which places conditions on the release of an operator from liability under an agreement granting code rights under the electronic communications code).
 
 ### 6. Landlord may be released from covenants on assignment of reversion.
 
@@ -193,7 +193,7 @@ only to the extent that those covenants fall to be complied with in relation to 
 
 - (a) “**the tenant**” means the tenant of the premises comprised in the assignment in question (or, if different parts of those premises are held under the tenancy by different tenants, each of those tenants);
 - (b) any reference to the landlord or the former landlord is a reference to the landlord referred to in section 6 or the former landlord referred to in section 7, as the case may be; and
-- (c) “**the court**” means the county court[^key-d32c1b5d258882cdf80fcee6a1268b19] .
+- (c) “**the court**” means the county court[^c-d32c1b5d258882cdf80fcee6a1268b19] .
 
 ## Apportionment of liability between assignor and assignee
 
@@ -245,7 +245,7 @@ depending on whether the agreement in question falls within subsection (1) or su
 (4) In this section—
 
 - “**the appropriate person**” has the same meaning as in section 9;
-- “**the court**” means the county court[^key-0aaae74d95b0785f9b14362bb46d7783] ;
+- “**the court**” means the county court[^c-0aaae74d95b0785f9b14362bb46d7783] ;
 - “**prescribed**” means prescribed by virtue of section 27.
 
 ## Excluded assignments
@@ -354,7 +354,7 @@ The following provisions (by virtue of which indemnity covenants are implied on 
 (5) Nothing in this section shall operate—
 
 - (a) in the case of a covenant which (in whatever terms) is expressed to be personal to any person, to make the covenant enforceable by or (as the case may be) against any other person; or
-- (b) to make a covenant enforceable against any person if, apart from this section, it would not be enforceable against him by reason of its not having been registered under the Land Registration Act 2002[^key-3416b9a57507dec5f5a5fcb194983b92] or the [^c421504]Land Charges Act 1972.
+- (b) to make a covenant enforceable against any person if, apart from this section, it would not be enforceable against him by reason of its not having been registered under the Land Registration Act 2002[^c-3416b9a57507dec5f5a5fcb194983b92] or the [^c421504]Land Charges Act 1972.
 
 (6) In this section—
 
@@ -527,7 +527,7 @@ and in any such case subsections (2) to (5) shall apply accordingly.
 - (a) that it is a lease granted under section 19, and
 - (b) whether it is or is not a new tenancy for the purposes of section 1;
 
-and any such statement shall comply with such requirements as may be prescribed by land registration rules under the Land Registration Act 2002[^key-cc4df91ca6ff2cac8d56f09cba130b59] .
+and any such statement shall comply with such requirements as may be prescribed by land registration rules under the Land Registration Act 2002[^c-cc4df91ca6ff2cac8d56f09cba130b59] .
 
 (3) A claim that the landlord has failed to comply with subsection (6)(a) of section 19 may be made the subject of civil proceedings in like manner as any other claim in tort for breach of statutory duty; and if the claimant under that section fails to comply with subsection (6)(b)(i) of that section he shall not be entitled to exercise any of the rights otherwise exercisable by him under the overriding lease.
 
@@ -546,7 +546,7 @@ and if any such person is by virtue of such a mortgage entitled to possession of
 - (a) that the fact that an overriding lease takes effect subject to the relevant tenancy shall not constitute a breach of any covenant of the lease against subletting or parting with possession of the premises demised by the lease or any part of them; and
 - (b) that each of sections 16, 17 and 18 applies where the tenancy referred to in subsection (1) of that section is an overriding lease as it applies in other cases falling within that subsection.
 
-(6) No tenancy shall be registrable under the [^c421507]Land Charges Act 1972 or be taken to be an estate contract within the meaning of that Act by reason of any right or obligation that may arise under section 19, and any right arising from a request made under that section shall not be “ capable of falling within paragraph 2 of Schedule 1 or 3 to the Land Registration Act 2002[^key-199d50e1ccd96e73c35c7b2854488aa6] ; but any such request shall be registrable under the [^c421508]Land Charges Act 1972, or may be the subject of a notice under the Land Registration Act 2002[^key-9fbdefa4942806778586eedf2c9c9e17] , as if it were an estate contract.
+(6) No tenancy shall be registrable under the [^c421507]Land Charges Act 1972 or be taken to be an estate contract within the meaning of that Act by reason of any right or obligation that may arise under section 19, and any right arising from a request made under that section shall not be “ capable of falling within paragraph 2 of Schedule 1 or 3 to the Land Registration Act 2002[^c-199d50e1ccd96e73c35c7b2854488aa6] ; but any such request shall be registrable under the [^c421508]Land Charges Act 1972, or may be the subject of a notice under the Land Registration Act 2002[^c-9fbdefa4942806778586eedf2c9c9e17] , as if it were an estate contract.
 
 (7) In this section—
 
@@ -833,9 +833,9 @@ Section 30(2).
 
 [^c421492]: Commencement: Act not in force at Royal Assent see [s. 31(1)](https://www.legislation.gov.uk/ukpga/1995/30/section/31/1); Act wholly in force at 1.1.1996 by [S.I. 1995/2963](https://www.legislation.gov.uk/uksi/1995/2963)
 
-[^key-f23f03a6631c2e3a95a1a25c75de7898]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/30) excluded (1.12.2022) by [Renting Homes (Wales) Act 2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1), [ss. 72(3)](https://www.legislation.gov.uk/anaw/2016/1/section/72/3), [257(2)](https://www.legislation.gov.uk/anaw/2016/1/section/257/2) (with [ss. 18(3)](https://www.legislation.gov.uk/anaw/2016/1/section/18/3), [72(1)](https://www.legislation.gov.uk/anaw/2016/1/section/72/1), [254](https://www.legislation.gov.uk/anaw/2016/1/section/254)); [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f23f03a6631c2e3a95a1a25c75de7898]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/30) excluded (1.12.2022) by [Renting Homes (Wales) Act 2016 (anaw 1)](https://www.legislation.gov.uk/anaw/2016/1), [ss. 72(3)](https://www.legislation.gov.uk/anaw/2016/1/section/72/3), [257(2)](https://www.legislation.gov.uk/anaw/2016/1/section/257/2) (with [ss. 18(3)](https://www.legislation.gov.uk/anaw/2016/1/section/18/3), [72(1)](https://www.legislation.gov.uk/anaw/2016/1/section/72/1), [254](https://www.legislation.gov.uk/anaw/2016/1/section/254)); [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-ece52f96b415212c14222d2c3b3017ef]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/1995/30/section/1/8) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [23(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/23/2)
+[^c-ece52f96b415212c14222d2c3b3017ef]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/1995/30/section/1/8) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [23(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/23/2)
 
 [^c421495]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -843,15 +843,15 @@ Section 30(2).
 
 [^c421497]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-12f337e996dc7089e8bef3b03851b49b]: Textual amendment: Words in s. 3(6) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-12f337e996dc7089e8bef3b03851b49b]: Textual amendment: Words in s. 3(6) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c421499]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-8d2d8f80f864ce328c06071fd5e121bb]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/1995/30/section/5/5) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/36); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-8d2d8f80f864ce328c06071fd5e121bb]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/1995/30/section/5/5) inserted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 36](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/36); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
-[^key-d32c1b5d258882cdf80fcee6a1268b19]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/ukpga/1995/30/section/8/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d32c1b5d258882cdf80fcee6a1268b19]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/ukpga/1995/30/section/8/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-0aaae74d95b0785f9b14362bb46d7783]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/1995/30/section/10/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0aaae74d95b0785f9b14362bb46d7783]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/1995/30/section/10/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c421500]: Marginal citation: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47).
 
@@ -859,21 +859,21 @@ Section 30(2).
 
 [^c421502]: Marginal citation: [1925 c. 21](https://www.legislation.gov.uk/ukpga/1925/21).
 
-[^key-3416b9a57507dec5f5a5fcb194983b92]: Textual amendment: Words in [s. 15(5)(b)](https://www.legislation.gov.uk/ukpga/1995/30/section/15/5/b) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-3416b9a57507dec5f5a5fcb194983b92]: Textual amendment: Words in [s. 15(5)(b)](https://www.legislation.gov.uk/ukpga/1995/30/section/15/5/b) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c421504]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
 [^c421505]: Marginal citation: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70).
 
-[^key-cc4df91ca6ff2cac8d56f09cba130b59]: Textual amendment: Words in [s. 20(2)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/2) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(3)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/3) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-cc4df91ca6ff2cac8d56f09cba130b59]: Textual amendment: Words in [s. 20(2)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/2) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(3)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/3) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c421507]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-199d50e1ccd96e73c35c7b2854488aa6]: Textual amendment: Words in [s. 20(6)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/6) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(4)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/4/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-199d50e1ccd96e73c35c7b2854488aa6]: Textual amendment: Words in [s. 20(6)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/6) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(4)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/4/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c421508]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-9fbdefa4942806778586eedf2c9c9e17]: Textual amendment: Words in [s. 20(6)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/6) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(4)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/4/b) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-9fbdefa4942806778586eedf2c9c9e17]: Textual amendment: Words in [s. 20(6)](https://www.legislation.gov.uk/ukpga/1995/30/section/20/6) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 33(4)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/33/4/b) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c421510]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 

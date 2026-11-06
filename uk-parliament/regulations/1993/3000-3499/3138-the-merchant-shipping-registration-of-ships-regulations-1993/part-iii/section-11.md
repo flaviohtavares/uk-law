@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Fishing vessels excluded from Part I[^key-aed3fd00727f9d32f38342929f6308b0]
+## 11. Fishing vessels excluded from Part I[^c-aed3fd00727f9d32f38342929f6308b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A fishing vessel may not be registered on Part I of the Register.
 
 ## Annotations
 
-[^key-aed3fd00727f9d32f38342929f6308b0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/3138/regulation/11) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-aed3fd00727f9d32f38342929f6308b0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/3138/regulation/11) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

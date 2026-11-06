@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Payments made by employers to personal pension schemes[^key-46d6e1f9b5563e4145406033411bb2f5]
+## 268. Payments made by employers to personal pension schemes[^c-46d6e1f9b5563e4145406033411bb2f5]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46d6e1f9b5563e4145406033411bb2f5]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2004/35/section/268) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-46d6e1f9b5563e4145406033411bb2f5]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2004/35/section/268) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

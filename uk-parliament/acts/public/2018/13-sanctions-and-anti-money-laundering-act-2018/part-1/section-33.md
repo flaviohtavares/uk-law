@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Procedure for requests to ... appropriate Minister[^key-644e25acd3f1b4f2fda291f77f292dc2][^key-0369cbd6bc28732f01db7280619a3158]
+## 33. Procedure for requests to ... appropriate Minister[^c-644e25acd3f1b4f2fda291f77f292dc2][^c-0369cbd6bc28732f01db7280619a3158]
 
 *Extent: E+W+S+N.I.*
 
-(1) An appropriate Minister may by regulations make provision about the procedure to be followed in connection with a request under section 23, 25, 27 or 29 [^key-bfcc40fa134b3be349d3f55697c7c415]....
+(1) An appropriate Minister may by regulations make provision about the procedure to be followed in connection with a request under section 23, 25, 27 or 29 [^c-bfcc40fa134b3be349d3f55697c7c415]....
 
 (2) Regulations made under this section in relation to a request under section 23, 25, 27 or 29 must require—
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-644e25acd3f1b4f2fda291f77f292dc2]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2018/13/section/33) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-644e25acd3f1b4f2fda291f77f292dc2]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2018/13/section/33) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
 
-[^key-0369cbd6bc28732f01db7280619a3158]: Textual amendment: Words in s. 33 heading omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(2)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/2/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-0369cbd6bc28732f01db7280619a3158]: Textual amendment: Words in s. 33 heading omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(2)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/2/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
 
-[^key-bfcc40fa134b3be349d3f55697c7c415]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/33/1) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(2)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/2/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-bfcc40fa134b3be349d3f55697c7c415]: Textual amendment: Words in [s. 33(1)](https://www.legislation.gov.uk/ukpga/2018/13/section/33/1) omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 62(2)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/62/2/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

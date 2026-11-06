@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Financial Services and Markets Act 2000[^key-a0652128a502796ddb457a97b7f1fa41][^key-8411410fefbf854bf76b485442719a2c]
+## 91. Financial Services and Markets Act 2000[^c-a0652128a502796ddb457a97b7f1fa41][^c-8411410fefbf854bf76b485442719a2c]
 
 *Extent: E+W+S*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0652128a502796ddb457a97b7f1fa41]: Commencement: Art. 91 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-a0652128a502796ddb457a97b7f1fa41]: Commencement: Art. 91 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-8411410fefbf854bf76b485442719a2c]: Commencement: [Art. 91](https://www.legislation.gov.uk/uksi/2018/1253/article/91) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-8411410fefbf854bf76b485442719a2c]: Commencement: [Art. 91](https://www.legislation.gov.uk/uksi/2018/1253/article/91) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

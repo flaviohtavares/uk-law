@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Service not pensionable unless members’ contributions are paid[^key-875e8e206f6fa27bad1963a60e98f155]
+## 23. Service not pensionable unless members’ contributions are paid[^c-875e8e206f6fa27bad1963a60e98f155]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875e8e206f6fa27bad1963a60e98f155]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2014/292/regulation/23) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-875e8e206f6fa27bad1963a60e98f155]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2014/292/regulation/23) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

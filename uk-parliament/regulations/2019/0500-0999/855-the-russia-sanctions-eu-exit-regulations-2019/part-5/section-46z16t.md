@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z16T. Financial services and funds relating to relevant processed diamonds[^key-36eda898ad70af757672736dea95d915][^key-876278a10227d7e24a62920f4473f2c1]
+## 46Z16T. Financial services and funds relating to relevant processed diamonds[^c-36eda898ad70af757672736dea95d915][^c-876278a10227d7e24a62920f4473f2c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36eda898ad70af757672736dea95d915]: Textual amendment: Pt. 5 Ch. 4JC inserted (1.3.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/218)](https://www.legislation.gov.uk/uksi/2024/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/218/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/218/regulation/2)
+[^c-36eda898ad70af757672736dea95d915]: Textual amendment: Pt. 5 Ch. 4JC inserted (1.3.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/218)](https://www.legislation.gov.uk/uksi/2024/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/218/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/218/regulation/2)
 
-[^key-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)
+[^c-876278a10227d7e24a62920f4473f2c1]: Textual amendment: Pt. 5 Chs. 4H-4K inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/850/regulation/12)

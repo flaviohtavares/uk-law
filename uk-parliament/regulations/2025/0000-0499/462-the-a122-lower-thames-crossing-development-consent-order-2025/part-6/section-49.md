@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Removal of vehicles[^key-c0d73985f996f8807e4ed41184afe663]
+## 49. Removal of vehicles[^c-c0d73985f996f8807e4ed41184afe663]
 
 *Extent: E+W*
 
@@ -101,27 +101,27 @@ the specified sum is payable by the custodian to the owner.
   - (a) any information which is sufficient to relate the information now being given to any information previously given to the same person in respect of the removal, storage or disposal of the vehicle;
   - (b) such of the specified information as has not been previously given to the same person in respect of the removal, storage or disposal of the vehicle; and
   - (c) information as to whether the vehicle was disposed of by destruction or by sale and if by sale, the sum realised;
-- [^key-0d1c04f0fbff62b702d19b1f7b9cc1b5]...
+- [^c-0d1c04f0fbff62b702d19b1f7b9cc1b5]...
 - “**person responsible**”, in relation to a vehicle, means—
-  - (a) [^key-85067508615930b883a6aebdfd632ace]the owner of the vehicle at the time when it was put in the place from which it was removed as mentioned in paragraph (1), unless the owner demonstrates that the owner was not concerned in, and did not know of, the vehicle being put in the tunnel area;
-  - (b) [^key-85067508615930b883a6aebdfd632ace]any person by whom the vehicle was put in that place;
-  - (c) [^key-85067508615930b883a6aebdfd632ace]any person convicted of an offence under section 2(1) (penalty for unauthorised dumping)[^f00111] of the Refuse Disposal (Amenity) Act 1978 in consequence of the putting of the vehicle in that place;
+  - (a) [^c-85067508615930b883a6aebdfd632ace]the owner of the vehicle at the time when it was put in the place from which it was removed as mentioned in paragraph (1), unless the owner demonstrates that the owner was not concerned in, and did not know of, the vehicle being put in the tunnel area;
+  - (b) [^c-85067508615930b883a6aebdfd632ace]any person by whom the vehicle was put in that place;
+  - (c) [^c-85067508615930b883a6aebdfd632ace]any person convicted of an offence under section 2(1) (penalty for unauthorised dumping)[^f00111] of the Refuse Disposal (Amenity) Act 1978 in consequence of the putting of the vehicle in that place;
 - “**relevant charges**” means the sums and charges prescribed by the Removal, Storage and Disposal of Vehicles (Prescribed Sums and Charges) Regulations 2008[^f00112];
 - “**specified information**”, in relation to a vehicle, means such of the following information as can be, or could have been, ascertained from an inspection of the vehicle, or has been ascertained from any other source—
-  - (a) [^key-85067508615930b883a6aebdfd632ace]in the case of a vehicle which carries a GB registration mark, or a mark indicating registration in a country outside Great Britain, particulars of such mark; and
-  - (b) [^key-85067508615930b883a6aebdfd632ace]the make of the vehicle;
+  - (a) [^c-85067508615930b883a6aebdfd632ace]in the case of a vehicle which carries a GB registration mark, or a mark indicating registration in a country outside Great Britain, particulars of such mark; and
+  - (b) [^c-85067508615930b883a6aebdfd632ace]the make of the vehicle;
 - “**specified sum**” means a sum calculated by deducting from the proceeds of sale the relevant charges that would have been payable had the vehicle been claimed by the owner immediately before its disposal; and
 - “**vehicle**” means any vehicle, whether or not it is in a fit state for use on roads, and includes any chassis or body, with or without wheels, appearing to have formed part of such a vehicle, and any load carried by, and anything attached to, such a vehicle.
 
 ## Annotations
 
-[^key-c0d73985f996f8807e4ed41184afe663]: Commencement: Art. 49 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-c0d73985f996f8807e4ed41184afe663]: Commencement: Art. 49 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00110]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-0d1c04f0fbff62b702d19b1f7b9cc1b5]: Textual amendment: Words in [art. 49(17)](https://www.legislation.gov.uk/uksi/2025/462/article/49/17) omitted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-0d1c04f0fbff62b702d19b1f7b9cc1b5]: Textual amendment: Words in [art. 49(17)](https://www.legislation.gov.uk/uksi/2025/462/article/49/17) omitted (12.9.2025) by virtue of [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-85067508615930b883a6aebdfd632ace]: Textual amendment: Words in [art. 49(17)](https://www.legislation.gov.uk/uksi/2025/462/article/49/17) renumbered (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-85067508615930b883a6aebdfd632ace]: Textual amendment: Words in [art. 49(17)](https://www.legislation.gov.uk/uksi/2025/462/article/49/17) renumbered (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00111]: Footnote: [1978 c. 3](https://www.legislation.gov.uk/ukpga/1978/3). Section 2(1) was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
 

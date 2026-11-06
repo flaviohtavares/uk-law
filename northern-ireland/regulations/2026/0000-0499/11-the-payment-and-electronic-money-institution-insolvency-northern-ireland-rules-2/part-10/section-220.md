@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 220. Service of notices following appointment[^key-a22b4edc8cf8b66507e98204e692cc2f]
+## 220. Service of notices following appointment[^c-a22b4edc8cf8b66507e98204e692cc2f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under rule 218 of these Rul
 
 ## Annotations
 
-[^key-a22b4edc8cf8b66507e98204e692cc2f]: Commencement: [Rule 220](https://www.legislation.gov.uk/nisr/2026/11/rule/220) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a22b4edc8cf8b66507e98204e692cc2f]: Commencement: [Rule 220](https://www.legislation.gov.uk/nisr/2026/11/rule/220) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

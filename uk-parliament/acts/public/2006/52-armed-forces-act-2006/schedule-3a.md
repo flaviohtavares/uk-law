@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Court Martial sentencing powers where election for trial by that court instead of CO[^key-62bd7c1b353881c18084b13037033f29]
+## SCHEDULE 3A — Court Martial sentencing powers where election for trial by that court instead of CO[^c-62bd7c1b353881c18084b13037033f29]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,9 +172,9 @@ no account is to be taken of any of the matters mentioned in sub-paragraph (6).
 - (a) convicting a person of a relevant offence; or
 - (b) acquitting a person of an offence which would be a relevant offence if the person were convicted of it.
 
-(2)[^key-649f0cfa039ca0569e5f118358906b60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-649f0cfa039ca0569e5f118358906b60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-649f0cfa039ca0569e5f118358906b60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-649f0cfa039ca0569e5f118358906b60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 14. Review of unduly lenient sentences
 
@@ -238,6 +238,6 @@ and so on.
 
 ## Annotations
 
-[^key-62bd7c1b353881c18084b13037033f29]: Textual amendment: Sch. 3A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/14/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/1); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b) (with [arts. 6(3)](https://www.legislation.gov.uk/uksi/2012/669/article/6/3), [10-12](https://www.legislation.gov.uk/uksi/2012/669/article/10))
+[^c-62bd7c1b353881c18084b13037033f29]: Textual amendment: Sch. 3A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/14/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/1); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/669/article/4/b) (with [arts. 6(3)](https://www.legislation.gov.uk/uksi/2012/669/article/6/3), [10-12](https://www.legislation.gov.uk/uksi/2012/669/article/10))
 
-[^key-649f0cfa039ca0569e5f118358906b60]: Textual amendment: Sch. 3A para. 13(2)(3) repealed (8.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 81](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/81) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(g)(ii)](https://www.legislation.gov.uk/uksi/2015/373/article/2/g/ii)
+[^c-649f0cfa039ca0569e5f118358906b60]: Textual amendment: Sch. 3A para. 13(2)(3) repealed (8.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 81](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/81) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(g)(ii)](https://www.legislation.gov.uk/uksi/2015/373/article/2/g/ii)

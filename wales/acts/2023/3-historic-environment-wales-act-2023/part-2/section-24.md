@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Compensation where works affecting a scheduled monument cease to be authorised[^key-8818326ccf7f85cf491a3725e5ad85ca][^key-f7aa3941f06085bcbc3ce3ab8710098c]
+## 24. Compensation where works affecting a scheduled monument cease to be authorised[^c-8818326ccf7f85cf491a3725e5ad85ca][^c-f7aa3941f06085bcbc3ce3ab8710098c]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8818326ccf7f85cf491a3725e5ad85ca]: Commencement: S. 24 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-8818326ccf7f85cf491a3725e5ad85ca]: Commencement: S. 24 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f7aa3941f06085bcbc3ce3ab8710098c]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2023/3/section/24) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-f7aa3941f06085bcbc3ce3ab8710098c]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2023/3/section/24) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

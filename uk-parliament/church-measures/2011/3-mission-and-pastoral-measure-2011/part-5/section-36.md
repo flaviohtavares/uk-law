@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 36. Termination and alteration of team ministries and group ministries[^key-e7277cd1b15a14395f290083feb7decd]
+## 36. Termination and alteration of team ministries and group ministries[^c-e7277cd1b15a14395f290083feb7decd]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7277cd1b15a14395f290083feb7decd]: Commencement: S. 36 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-e7277cd1b15a14395f290083feb7decd]: Commencement: S. 36 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

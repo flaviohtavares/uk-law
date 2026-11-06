@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53A. Small accidental failures in relation to electronic voting to be disregarded[^key-84ef7ffc1cf672c3cc42da5f9b51997f]
+## 53A. Small accidental failures in relation to electronic voting to be disregarded[^c-84ef7ffc1cf672c3cc42da5f9b51997f]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ the failure (or failures), in so far as they relate to electronic voting, are to
 
 ## Annotations
 
-[^key-84ef7ffc1cf672c3cc42da5f9b51997f]: Textual amendment: S. 53A inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(11)](https://www.legislation.gov.uk/uksi/2026/881/article/3/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-84ef7ffc1cf672c3cc42da5f9b51997f]: Textual amendment: S. 53A inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(11)](https://www.legislation.gov.uk/uksi/2026/881/article/3/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Duty to initiate review: secure accommodation authorisation[^key-6cda56cb6aaee4f1e2ae5d61f2f8efa5]
+## 135. Duty to initiate review: secure accommodation authorisation[^c-6cda56cb6aaee4f1e2ae5d61f2f8efa5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cda56cb6aaee4f1e2ae5d61f2f8efa5]: Commencement: S. 135 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6cda56cb6aaee4f1e2ae5d61f2f8efa5]: Commencement: S. 135 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

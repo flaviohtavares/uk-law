@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Disgraceful conduct of a cruel or indecent kind[^key-2b6dcccee0d602a0d42d557b2ad60f6d][^key-e3498c56644f635466d1abac97ede2f2]
+## 23. Disgraceful conduct of a cruel or indecent kind[^c-2b6dcccee0d602a0d42d557b2ad60f6d][^c-e3498c56644f635466d1abac97ede2f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6dcccee0d602a0d42d557b2ad60f6d]: Commencement: S. 23 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2b6dcccee0d602a0d42d557b2ad60f6d]: Commencement: S. 23 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e3498c56644f635466d1abac97ede2f2]: Commencement: S. 23 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e3498c56644f635466d1abac97ede2f2]: Commencement: S. 23 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

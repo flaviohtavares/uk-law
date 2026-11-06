@@ -55,7 +55,7 @@ The Secretary of State and the Welsh Ministers have, in accordance with section 
 - (c) such bodies or persons appearing to them to be representative of the interests of local government, industry, agriculture and small businesses as they consider appropriate, and
 - (d) such other bodies or persons as they consider appropriate.
 
-## 1. Citation, commencement and extent[^key-642347ac9168854cf27f41656a5cdfe7][^key-a7094aa50aa16415e438daeb1a3d58fb]
+## 1. Citation, commencement and extent[^c-642347ac9168854cf27f41656a5cdfe7][^c-a7094aa50aa16415e438daeb1a3d58fb]
 
 (1) These Regulations may be cited as the Bathing Water (Amendment) (England and Wales) Regulations 2025.
 
@@ -68,20 +68,20 @@ The Secretary of State and the Welsh Ministers have, in accordance with section 
 
 (4) These Regulations extend to England and Wales.
 
-## 2. Amendments of the Bathing Water Regulations 2013[^key-96bfd5c3a17f28f332e7a7a56bfdce63][^key-4d401615ac4c8f9505364acdf018d750]
+## 2. Amendments of the Bathing Water Regulations 2013[^c-96bfd5c3a17f28f332e7a7a56bfdce63][^c-4d401615ac4c8f9505364acdf018d750]
 
 The Bathing Water Regulations 2013[^f00002] are amended in accordance with regulations 3 to 12.
 
-## 3. Amendment to regulation 2 (interpretation)[^key-0a8d92348adddef064a3ed827285b3f0][^key-81b8e703d0964410fe52cf46ac02d697][^key-2910381927ef13d91e3a99b098c192b1]
+## 3. Amendment to regulation 2 (interpretation)[^c-0a8d92348adddef064a3ed827285b3f0][^c-81b8e703d0964410fe52cf46ac02d697][^c-2910381927ef13d91e3a99b098c192b1]
 
 In regulation 2(1)—
 
-- (a)[^key-0a8d92348adddef064a3ed827285b3f0] for the definition of “bathing season”, substitute—
+- (a)[^c-0a8d92348adddef064a3ed827285b3f0] for the definition of “bathing season”, substitute—
 
   > - “**bathing season**” , in relation to a bathing water, means the bathing season specified in, or (as the case may be) determined under regulation 4(1);
 
   ;
-- (b)[^key-81b8e703d0964410fe52cf46ac02d697] after the definition of “England”, insert—
+- (b)[^c-81b8e703d0964410fe52cf46ac02d697] after the definition of “England”, insert—
 
   > - “**environmental protection measures**” means any measures to—
   >   - (a) protect the natural environment from the effects of human activity;
@@ -90,13 +90,13 @@ In regulation 2(1)—
   >   - (d) monitor, assess, consider, advise or report on any of the measures referred to in paragraphs (a) to (c);
 
   ;
-- (c)[^key-0a8d92348adddef064a3ed827285b3f0] in the definition of “permanent advice against bathing”, for “, in relation to at least one whole bathing season, under regulation 13” substitute “by the appropriate agency under regulation 13(2) in relation to at least one upcoming bathing season that would have been applicable to that former bathing water”.
+- (c)[^c-0a8d92348adddef064a3ed827285b3f0] in the definition of “permanent advice against bathing”, for “, in relation to at least one whole bathing season, under regulation 13” substitute “by the appropriate agency under regulation 13(2) in relation to at least one upcoming bathing season that would have been applicable to that former bathing water”.
 
-## 4. Amendment to regulation 3 (identification of bathing waters)[^key-6c295b1c8bcf31049925872694d766cc][^key-c197b8da1a825061710e2a664ecd13f4][^key-a78e50af98d7e821d06a1c671259fc9b]
+## 4. Amendment to regulation 3 (identification of bathing waters)[^c-6c295b1c8bcf31049925872694d766cc][^c-c197b8da1a825061710e2a664ecd13f4][^c-a78e50af98d7e821d06a1c671259fc9b]
 
 In regulation 3—
 
-- (a)[^key-6c295b1c8bcf31049925872694d766cc] after paragraph (2), insert—
+- (a)[^c-6c295b1c8bcf31049925872694d766cc] after paragraph (2), insert—
 
   > (2A) The appropriate Minister must not identify or list a surface water under paragraph (1) or (2) (as the case may be) if—
   >
@@ -108,21 +108,21 @@ In regulation 3—
   > - (b) the appropriate Minister has reasonable grounds to believe that there is likely to be a significant risk to the physical safety of bathers arising from the features of the relevant surface water.
 
   ;
-- (b)[^key-c197b8da1a825061710e2a664ecd13f4] for paragraph (4)(a), substitute—
+- (b)[^c-c197b8da1a825061710e2a664ecd13f4] for paragraph (4)(a), substitute—
 
   > - (a) details of each bathing water listed under paragraph (1), including—
   >   - (i) classification; and
   >   - (ii) the bathing season determined under regulation 4(1), if relevant.
 
   ;
-- (c)[^key-c197b8da1a825061710e2a664ecd13f4] for paragraph (5)(a), substitute—
+- (c)[^c-c197b8da1a825061710e2a664ecd13f4] for paragraph (5)(a), substitute—
 
   > - (a) details of each bathing water listed under paragraph (2), including—
   >   - (i) classification; and
   >   - (ii) the bathing season determined under regulation 4(1), if relevant.
 
   ;
-- (d)[^key-c197b8da1a825061710e2a664ecd13f4] for paragraph (6), substitute—
+- (d)[^c-c197b8da1a825061710e2a664ecd13f4] for paragraph (6), substitute—
 
   > (6) The information published under paragraphs (4) and (5) must be actively disseminated using appropriate media and technologies including the internet, and in such languages as the appropriate Minister considers appropriate, before the earlier of—
   >
@@ -131,7 +131,7 @@ In regulation 3—
 
   .
 
-## 5. Amendment to regulation 4 (length of the bathing season)[^key-f30c7fa5b9e624f262a67179a1899227][^key-1f504fbd10443106c5e8c804e8d10e93]
+## 5. Amendment to regulation 4 (length of the bathing season)[^c-f30c7fa5b9e624f262a67179a1899227][^c-1f504fbd10443106c5e8c804e8d10e93]
 
 For regulation 4[^f00003], substitute—
 
@@ -160,11 +160,11 @@ For regulation 4[^f00003], substitute—
 
 .
 
-## 6. Amendment to regulation 5 (general duties)[^key-77a55657195950d09430fd0b28685f06][^key-b1b64c012b0083d7fe75c75a1ec769eb]
+## 6. Amendment to regulation 5 (general duties)[^c-77a55657195950d09430fd0b28685f06][^c-b1b64c012b0083d7fe75c75a1ec769eb]
 
 In regulation 5(1)(c)[^f00004], at the end, insert “, except where there is alternative provision in these Regulations”.
 
-## 7. Amendment to regulation 13 (additional management measures at “poor” bathing waters)[^key-3341386c6cb149b1b0a351d3760d2127][^key-f83d32c03d4c7ad17e94fb1b4ec04bbd]
+## 7. Amendment to regulation 13 (additional management measures at “poor” bathing waters)[^c-3341386c6cb149b1b0a351d3760d2127][^c-f83d32c03d4c7ad17e94fb1b4ec04bbd]
 
 In regulation 13—
 
@@ -189,7 +189,7 @@ In regulation 13—
 - (c) in paragraph (2)(b), at the beginning, insert “the appropriate agency has not classified the bathing water as “poor” under regulation 11 for five consecutive years but,”;
 - (d) in paragraph (4), in the words before sub-paragraph (a), omit “during the bathing season”.
 
-## 8. Amendment to regulation 14 (public information and general provisions about short-term pollution)[^key-f8cc0cc02d64131033b17405459d6e7e][^key-fd66a1d557f2e9bae2bfab8fe2ab2ead]
+## 8. Amendment to regulation 14 (public information and general provisions about short-term pollution)[^c-f8cc0cc02d64131033b17405459d6e7e][^c-fd66a1d557f2e9bae2bfab8fe2ab2ead]
 
 In regulation 14—
 
@@ -210,7 +210,7 @@ In regulation 14—
 
   .
 
-## 9. Amendment to regulation 15A (annual reports)[^key-426ee1e0bc7c9590c64f17a2f01e53c1][^key-f66c919ec1a2cf68c09940fdef592fbc]
+## 9. Amendment to regulation 15A (annual reports)[^c-426ee1e0bc7c9590c64f17a2f01e53c1][^c-f66c919ec1a2cf68c09940fdef592fbc]
 
 In regulation 15A[^f00005]—
 
@@ -221,11 +221,11 @@ In regulation 15A[^f00005]—
   ;
 - (b) omit paragraph (2).
 
-## 10. Omission of regulation 20 (review)[^key-03db406813247e4c380a93fd89826ca5][^key-ecc8966e82c9476ccd99774133e93e8d]
+## 10. Omission of regulation 20 (review)[^c-03db406813247e4c380a93fd89826ca5][^c-ecc8966e82c9476ccd99774133e93e8d]
 
 Omit regulation 20.
 
-## 11. Amendment to Schedule 4 (monitoring etc)[^key-04082f9dc55d77b0218748ee657dd4a4][^key-e647f83d1d6326e17e04159c76305308]
+## 11. Amendment to Schedule 4 (monitoring etc)[^c-04082f9dc55d77b0218748ee657dd4a4][^c-e647f83d1d6326e17e04159c76305308]
 
 In Schedule 4—
 
@@ -247,7 +247,7 @@ In Schedule 4—
 
   .
 
-## 12. Amendment to Schedule 5 (classification)[^key-4c7f5237c3d9a6600f17739be645bcdf][^key-172cbcc891c794bbddda84397560be09]
+## 12. Amendment to Schedule 5 (classification)[^c-4c7f5237c3d9a6600f17739be645bcdf][^c-172cbcc891c794bbddda84397560be09]
 
 In paragraph 2(2)(e), for “(µ + 1.65 σ)” substitute “(µ + 1.645 σ)”.
 
@@ -297,62 +297,62 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24). Section 2 was amended by [S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755); there are other amending instruments but none is relevant. See paragraph 20(2) of Schedule 1 for the definition of “the relevant directives”. Functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales, except in relation to offshore oil and gas exploration and exploitation, by virtue of article 3(1) of the National Assembly for Wales (Transfer of Functions) Order 2005 ([S.I. 2005/1958](https://www.legislation.gov.uk/uksi/2005/1958)). Functions of the National Assembly for Wales were transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-642347ac9168854cf27f41656a5cdfe7]: Commencement: Reg. 1 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-642347ac9168854cf27f41656a5cdfe7]: Commencement: Reg. 1 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-a7094aa50aa16415e438daeb1a3d58fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-a7094aa50aa16415e438daeb1a3d58fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-96bfd5c3a17f28f332e7a7a56bfdce63]: Commencement: Reg. 2 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-96bfd5c3a17f28f332e7a7a56bfdce63]: Commencement: Reg. 2 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-4d401615ac4c8f9505364acdf018d750]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1129/regulation/2) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-4d401615ac4c8f9505364acdf018d750]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1129/regulation/2) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
 [^f00002]: Footnote: [S.I. 2013/1675](https://www.legislation.gov.uk/uksi/2013/1675).
 
-[^key-0a8d92348adddef064a3ed827285b3f0]: Commencement: Reg. 3(a)(c) in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-0a8d92348adddef064a3ed827285b3f0]: Commencement: Reg. 3(a)(c) in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-81b8e703d0964410fe52cf46ac02d697]: Commencement: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/b) in force at 15.5.2026 for E., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/b)
+[^c-81b8e703d0964410fe52cf46ac02d697]: Commencement: [Reg. 3(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3/b) in force at 15.5.2026 for E., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/b)
 
-[^key-2910381927ef13d91e3a99b098c192b1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-2910381927ef13d91e3a99b098c192b1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1129/regulation/3) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-6c295b1c8bcf31049925872694d766cc]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/a) in force at 15.5.2026 for E., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/b)
+[^c-6c295b1c8bcf31049925872694d766cc]: Commencement: [Reg. 4(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4/a) in force at 15.5.2026 for E., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/b)
 
-[^key-c197b8da1a825061710e2a664ecd13f4]: Commencement: Reg. 4(b)(c)(d) in force at 21.11.2025 for E., see [reg. 1](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1)
+[^c-c197b8da1a825061710e2a664ecd13f4]: Commencement: Reg. 4(b)(c)(d) in force at 21.11.2025 for E., see [reg. 1](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1)
 
-[^key-a78e50af98d7e821d06a1c671259fc9b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-a78e50af98d7e821d06a1c671259fc9b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1129/regulation/4) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-f30c7fa5b9e624f262a67179a1899227]: Commencement: Reg. 5 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-f30c7fa5b9e624f262a67179a1899227]: Commencement: Reg. 5 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-1f504fbd10443106c5e8c804e8d10e93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1129/regulation/5) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-1f504fbd10443106c5e8c804e8d10e93]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1129/regulation/5) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
 [^f00003]: Footnote: Regulation 4 was substituted by regulation 2(2) of [S.I. 2020/507 (W. 120)](https://www.legislation.gov.uk/wsi/2020/507), as it applies to Wales.
 
-[^key-77a55657195950d09430fd0b28685f06]: Commencement: Reg. 6 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-77a55657195950d09430fd0b28685f06]: Commencement: Reg. 6 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-b1b64c012b0083d7fe75c75a1ec769eb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1129/regulation/6) in force at 1.4.2026 for W., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/b)
+[^c-b1b64c012b0083d7fe75c75a1ec769eb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1129/regulation/6) in force at 1.4.2026 for W., see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/b)
 
 [^f00004]: Footnote: Paragraph (1)(c) was amended by regulation 15(4)(a) of [S.I. 2019/558](https://www.legislation.gov.uk/uksi/2019/558).
 
-[^key-3341386c6cb149b1b0a351d3760d2127]: Commencement: Reg. 7 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-3341386c6cb149b1b0a351d3760d2127]: Commencement: Reg. 7 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-f83d32c03d4c7ad17e94fb1b4ec04bbd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-f83d32c03d4c7ad17e94fb1b4ec04bbd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1129/regulation/7) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-f8cc0cc02d64131033b17405459d6e7e]: Commencement: Reg. 8 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-f8cc0cc02d64131033b17405459d6e7e]: Commencement: Reg. 8 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-fd66a1d557f2e9bae2bfab8fe2ab2ead]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-fd66a1d557f2e9bae2bfab8fe2ab2ead]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1129/regulation/8) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-426ee1e0bc7c9590c64f17a2f01e53c1]: Commencement: Reg. 9 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-426ee1e0bc7c9590c64f17a2f01e53c1]: Commencement: Reg. 9 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-f66c919ec1a2cf68c09940fdef592fbc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-f66c919ec1a2cf68c09940fdef592fbc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1129/regulation/9) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
 [^f00005]: Footnote: Regulation 15A was inserted by regulation 15(5) of [S.I. 2019/558](https://www.legislation.gov.uk/uksi/2019/558).
 
-[^key-03db406813247e4c380a93fd89826ca5]: Commencement: Reg. 10 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-03db406813247e4c380a93fd89826ca5]: Commencement: Reg. 10 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-ecc8966e82c9476ccd99774133e93e8d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1129/regulation/10) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-ecc8966e82c9476ccd99774133e93e8d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1129/regulation/10) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-04082f9dc55d77b0218748ee657dd4a4]: Commencement: Reg. 11 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-04082f9dc55d77b0218748ee657dd4a4]: Commencement: Reg. 11 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-e647f83d1d6326e17e04159c76305308]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-e647f83d1d6326e17e04159c76305308]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1129/regulation/11) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
 
-[^key-4c7f5237c3d9a6600f17739be645bcdf]: Commencement: Reg. 12 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
+[^c-4c7f5237c3d9a6600f17739be645bcdf]: Commencement: Reg. 12 in force at 21.11.2025 for E., see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/2/a)
 
-[^key-172cbcc891c794bbddda84397560be09]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1129/regulation/12) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)
+[^c-172cbcc891c794bbddda84397560be09]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1129/regulation/12) in force at 1.4.2026 for W., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1129/regulation/1/3)

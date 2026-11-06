@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Application of contribution – old system students[^key-2c1fa955cd93b157936bb5e7d4492834]
+## 89. Application of contribution – old system students[^c-2c1fa955cd93b157936bb5e7d4492834]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c1fa955cd93b157936bb5e7d4492834]: Textual amendment: [Pt. 8 reg. 89](https://www.legislation.gov.uk/nisr/2009/373/part/8/regulation/89) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [10(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/10/a)
+[^c-2c1fa955cd93b157936bb5e7d4492834]: Textual amendment: [Pt. 8 reg. 89](https://www.legislation.gov.uk/nisr/2009/373/part/8/regulation/89) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [10(a)](https://www.legislation.gov.uk/nisr/2022/75/regulation/10/a)

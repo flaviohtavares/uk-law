@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.5. Applications in relation to arrestment[^key-25adb8eafd08dbf8129d51557293566c]
+## 3.9.5. Applications in relation to arrestment[^c-25adb8eafd08dbf8129d51557293566c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25adb8eafd08dbf8129d51557293566c]: Commencement: Rule 3.9.5 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-25adb8eafd08dbf8129d51557293566c]: Commencement: Rule 3.9.5 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

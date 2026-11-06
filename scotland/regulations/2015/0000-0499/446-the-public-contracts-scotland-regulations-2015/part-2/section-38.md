@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) A contracting authority may acquire supplies, services or both from a central purchasing body offering a centralised purchasing activity[^key-77ad01085149576be526d5ee15c0eb35].
+(1) A contracting authority may acquire supplies, services or both from a central purchasing body offering a centralised purchasing activity[^c-77ad01085149576be526d5ee15c0eb35].
 
 (2) A contracting authority may acquire works, supplies or services by using—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77ad01085149576be526d5ee15c0eb35]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/446/regulation/38/1) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/6)
+[^c-77ad01085149576be526d5ee15c0eb35]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/ssi/2015/446/regulation/38/1) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/6)

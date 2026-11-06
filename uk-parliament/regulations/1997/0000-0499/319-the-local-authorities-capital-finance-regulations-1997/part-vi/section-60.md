@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Disposal of premises transferred to grant-maintained school[^key-30f700dde530527dd3f49a2ed6c42c80]
+## 60. Disposal of premises transferred to grant-maintained school[^c-30f700dde530527dd3f49a2ed6c42c80]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30f700dde530527dd3f49a2ed6c42c80]: Commencement: Reg. 60 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-30f700dde530527dd3f49a2ed6c42c80]: Commencement: Reg. 60 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00052]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).

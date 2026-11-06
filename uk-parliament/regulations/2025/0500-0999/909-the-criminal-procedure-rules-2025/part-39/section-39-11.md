@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.11. Right to attend hearing[^key-0d89619ee0466fb06d1648b68217d59f]
+## 39.11. Right to attend hearing[^c-0d89619ee0466fb06d1648b68217d59f]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ A party who is in custody has a right to attend a hearing in public unless—
 
 ## Annotations
 
-[^key-0d89619ee0466fb06d1648b68217d59f]: Commencement: [Rule 39.11](https://www.legislation.gov.uk/uksi/2025/909/rule/39.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0d89619ee0466fb06d1648b68217d59f]: Commencement: [Rule 39.11](https://www.legislation.gov.uk/uksi/2025/909/rule/39.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00971]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 22 was amended by section 48 of the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 134. Duty to initiate review if child to be taken out of Scotland[^key-819a81d38bf8821548065acc2e6d7a06]
+## 134. Duty to initiate review if child to be taken out of Scotland[^c-819a81d38bf8821548065acc2e6d7a06]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-819a81d38bf8821548065acc2e6d7a06]: Commencement: S. 134 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-819a81d38bf8821548065acc2e6d7a06]: Commencement: S. 134 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

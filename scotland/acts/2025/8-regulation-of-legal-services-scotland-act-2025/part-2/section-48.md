@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Law Society of Scotland[^key-52088524e74a7142a273a938a90c5726][^key-5fa16509ac6f558bd766aa903e9b3bed][^key-3e67380fc0d0a73cc004dd4f0c1cd48f]
+## 48. Law Society of Scotland[^c-52088524e74a7142a273a938a90c5726][^c-5fa16509ac6f558bd766aa903e9b3bed][^c-3e67380fc0d0a73cc004dd4f0c1cd48f]
 
 *Extent: S*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-52088524e74a7142a273a938a90c5726]: Commencement: S. 48 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-52088524e74a7142a273a938a90c5726]: Commencement: S. 48 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-5fa16509ac6f558bd766aa903e9b3bed]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/8/section/48) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-5fa16509ac6f558bd766aa903e9b3bed]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/8/section/48) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-3e67380fc0d0a73cc004dd4f0c1cd48f]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/8/section/48) in force at 1.7.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-3e67380fc0d0a73cc004dd4f0c1cd48f]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/8/section/48) in force at 1.7.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

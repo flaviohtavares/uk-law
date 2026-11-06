@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 52, 55(2) and (3) and 231(5) of the Housing Act 1996[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-9f14e2a27dbe897d703cccac831e65e6]
+## 1. Citation and commencement[^c-9f14e2a27dbe897d703cccac831e65e6]
 
 (1) This Order may be cited as the Housing Act 1996 (Consequential Provisions) Order 1996.
 
 (2) This Order comes into force on 1st October 1996.
 
-## 2. Interpretation[^key-171f22f870680f9bf284e0cdf4464555]
+## 2. Interpretation[^c-171f22f870680f9bf284e0cdf4464555]
 
 In this Order—
 
@@ -60,7 +60,7 @@ In this Order—
 - “the 1985 Act” means the Housing Associations Act 1985[^f00003]; and
 - “the 1996 Act” means the Housing Act 1996.
 
-## 3. Continuity of the law[^key-d011fe2c41c27e0a361c6ab72dac794a]
+## 3. Continuity of the law[^c-d011fe2c41c27e0a361c6ab72dac794a]
 
 (1) A reference (express or implied) in Part I of the 1996 Act or any other enactment, instrument or document to any provision of that Part shall, so far as the context permits, be construed as including, in relation to times, circumstances and purposes before the commencement of that provision, a reference to the corresponding provision of the 1985 Act or any corresponding earlier enactment.
 
@@ -74,7 +74,7 @@ In this Order—
 
 (6) This article is subject to any transitional provisions or savings made by or under the 1996 Act.
 
-## 4. Repeals[^key-cec2bf3174fba5a0fb71d7981c921c81]
+## 4. Repeals[^c-cec2bf3174fba5a0fb71d7981c921c81]
 
 (1) Subject to paragraphs (2) to (4), the enactments specified in Schedule 1 are repealed to the extent specified.
 
@@ -84,13 +84,13 @@ In this Order—
 
 (4) The repeal of the definition of “housing activities” in the 1985 Act does not affect its continued application in relation to sections 50 to 55 of the Housing Act 1988[^f00004].
 
-## 5. Consequential amendments[^key-13000c2e1650ae611444cd6ee2a13ff9]
+## 5. Consequential amendments[^c-13000c2e1650ae611444cd6ee2a13ff9]
 
 (1) Subject to paragraph (2), the enactments specified in Schedule 2 have effect with the amendments specified.
 
 (2) The amendment in paragraph 18(8)(b) of Schedule 2 does not apply in relation to periods ending on or before 30th September 1996.
 
-## 6. Extent[^key-fe2d8f354442a1b16c5a2f068e4c0ed0]
+## 6. Extent[^c-fe2d8f354442a1b16c5a2f068e4c0ed0]
 
 (1) The provisions of this Order, other than Parts II and III of Schedule 1 and paragraphs 15(3) to (9), (11) to (18), (24)(a) and (35) and 18(9)(a) of Schedule 2, extend to England and Wales.
 
@@ -158,7 +158,7 @@ Article 4
 </tbody>
 </table>
 
-[^f00005][^f00006][^f00007][^f00008][^f00018][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^f00019][^f00020][^f00021][^f00022][^key-0491fe1d0d8516aabedf3adfa8ede249][^key-0491fe1d0d8516aabedf3adfa8ede249][^key-0491fe1d0d8516aabedf3adfa8ede249][^f00023][^f00025]
+[^f00005][^f00006][^f00007][^f00008][^f00018][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^f00019][^f00020][^f00021][^f00022][^c-0491fe1d0d8516aabedf3adfa8ede249][^c-0491fe1d0d8516aabedf3adfa8ede249][^c-0491fe1d0d8516aabedf3adfa8ede249][^f00023][^f00025]
 
 ### PART II—SCOTLAND
 
@@ -209,15 +209,15 @@ Article 5
 
 ### Leasehold Reform Act 1967
 
-**1.**[^key-371c280f12ef3ac4042db60d01e0e0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-371c280f12ef3ac4042db60d01e0e0b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Loans Act 1968
 
-**2.**[^key-f7d2dd74875867195d23ecf2eca49d20] In Schedule 4 to the National Loans Act 1968 (local loans), in paragraph 3 after “Associations Act 1985” insert “or section 23 of the Housing Act 1996”.
+**2.**[^c-f7d2dd74875867195d23ecf2eca49d20] In Schedule 4 to the National Loans Act 1968 (local loans), in paragraph 3 after “Associations Act 1985” insert “or section 23 of the Housing Act 1996”.
 
 ### Land Compensation Act 1973
 
-**3.**[^key-20c42eeadff3d1ed3e2d2f0bf6b52ab9] (1) The Land Compensation Act 1973 is amended as follows.
+**3.**[^c-20c42eeadff3d1ed3e2d2f0bf6b52ab9] (1) The Land Compensation Act 1973 is amended as follows.
 
 (2) In section 29 (right to home loss payment where person displaced from dwelling), in subsection (1)(d)[^f00033], for “registered under the Housing Associations Act 1985” substitute “a registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”.
 
@@ -225,49 +225,49 @@ Article 5
 
 ### Development of Rural Wales Act 1976
 
-**4.**[^key-0d90358950e2f128563f01b0d850f340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0d90358950e2f128563f01b0d850f340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Rent (Agriculture) Act 1976
 
-**5.**[^key-0b33863f6b448d3418bc21884813e60f] In section 5(4) of the Rent (Agriculture) Act 1976[^f00038] (no statutory tenancy where landlord is registered housing association &c.)—
+**5.**[^c-0b33863f6b448d3418bc21884813e60f] In section 5(4) of the Rent (Agriculture) Act 1976[^f00038] (no statutory tenancy where landlord is registered housing association &c.)—
 
 - (a) in paragraph (a), for “registered under the Housing Associations Act 1985” substitute “a registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”, and
 - (b) in paragraph (b), for “that Act” substitute “the Housing Associations Act 1985”.
 
 ### Rent Act 1977
 
-**6.**[^key-18f938d1f97026da2564a7b3a687d1e3] In section 15(3) of the Rent Act 1977[^f00039] (landlord’s interest belonging to registered housing association &c.)—
+**6.**[^c-18f938d1f97026da2564a7b3a687d1e3] In section 15(3) of the Rent Act 1977[^f00039] (landlord’s interest belonging to registered housing association &c.)—
 
 - (a) in paragraph (a), for “registered under the Housing Associations Act 1985” substitute “a registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”, and
 - (b) in paragraph (b), for “that Act” substitute “the Housing Associations Act 1985”.
 
 ### Protection from Eviction Act 1977
 
-**7.**[^key-62d22c9fcc957dfdd4b156976e439eb5] In section 3A(8) of the Protection from Eviction Act 1977[^f00040] (licences to occupy hostels provided by certain housing trusts excluded from Act), for paragraph (h) and the word “or” at the end of the paragraph substitute—
+**7.**[^c-62d22c9fcc957dfdd4b156976e439eb5] In section 3A(8) of the Protection from Eviction Act 1977[^f00040] (licences to occupy hostels provided by certain housing trusts excluded from Act), for paragraph (h) and the word “or” at the end of the paragraph substitute—
 
 > - (h) a housing trust (within the meaning of the Housing Associations Act 1985) which is a charity or a registered social landlord (within the meaning of the Housing Act 1985); or.
 
 ### Criminal Law Act 1977
 
-**8.**[^key-832af34593ebb1266e22e95f2408576a] In section 12A(7) of the Criminal Law Act 1977[^f00041] (protected intending occupiers: supplementary provisions), for paragraph (d) substitute—
+**8.**[^c-832af34593ebb1266e22e95f2408576a] In section 12A(7) of the Criminal Law Act 1977[^f00041] (protected intending occupiers: supplementary provisions), for paragraph (d) substitute—
 
 > - (d) a registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act).
 
 ### National Health Service Act 1977
 
-**9.**[^key-ed7a64ec1fdf389ee971eb767f2c1a07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ed7a64ec1fdf389ee971eb767f2c1a07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government, Planning and Land Act 1980
 
-**10.**[^key-5b4532a1917973acd2c78be677f44818] In section 153(1)(a) (urban development corporations as housing authorities) of the Local Government, Planning and Land Act 1980[^f00045], before “or by” insert “or section 22 of the Housing Act 1996”.
+**10.**[^c-5b4532a1917973acd2c78be677f44818] In section 153(1)(a) (urban development corporations as housing authorities) of the Local Government, Planning and Land Act 1980[^f00045], before “or by” insert “or section 22 of the Housing Act 1996”.
 
 ### Greater London Council (General Powers) Act 1981
 
-**11.**[^key-d5e4b10752dd62ff4df96bd2909e9ebc] In section 16 of the Greater London Council (General Powers) Act 1981 (exemption from provisions relating to overcrowding), in paragraph (l)[^f00047], for “housing association registered under the Housing Associations Act 1985” substitute “registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”.
+**11.**[^c-d5e4b10752dd62ff4df96bd2909e9ebc] In section 16 of the Greater London Council (General Powers) Act 1981 (exemption from provisions relating to overcrowding), in paragraph (l)[^f00047], for “housing association registered under the Housing Associations Act 1985” substitute “registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”.
 
 ### Inheritance Tax Act 1984
 
-**12.**[^key-6b294ea96c2f0a66f1e424ee4ebef923] (1) Section 24A of the Inheritance Tax Act 1984[^f00048] (gifts to housing associations) is amended as follows.
+**12.**[^c-6b294ea96c2f0a66f1e424ee4ebef923] (1) Section 24A of the Inheritance Tax Act 1984[^f00048] (gifts to housing associations) is amended as follows.
 
 (2) In subsection (1), for “registered housing association” substitute “body falling within subsection (2) below”.
 
@@ -280,11 +280,11 @@ Article 5
 
 ### Greater London Council (General Powers) Act 1984
 
-**13.**[^key-8252498da2931a8c670b2bab7a1155a5] In section 10 of the Greater London Council (General Powers) Act 1984 (buildings provided for sleeping accommodation to be registered), in subsection (2)(h)[^f00050], for “housing association registered under the Housing Associations Act 1985” substitute “registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”.
+**13.**[^c-8252498da2931a8c670b2bab7a1155a5] In section 10 of the Greater London Council (General Powers) Act 1984 (buildings provided for sleeping accommodation to be registered), in subsection (2)(h)[^f00050], for “housing association registered under the Housing Associations Act 1985” substitute “registered social landlord within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”.
 
 ### Housing Act 1985
 
-**14.**[^key-8611012498d774cdceac89cd06ac8890] (1) The Housing Act 1985[^f00051] is amended as follows.
+**14.**[^c-8611012498d774cdceac89cd06ac8890] (1) The Housing Act 1985[^f00051] is amended as follows.
 
 (2) In section 5 (housing associations) for subsection (4) substitute—
 
@@ -332,7 +332,7 @@ Article 5
 (8) In section 80[^f00056] (the landlord condition)—
 
 - (a) in subsection (2) in so far as it continues to have effect by virtue of section 35(5) of the Housing Act 1988 or paragraph 4 of Schedule 18 to that Act—
-  - (i)[^key-638236b57f48bfa60f1bd3e6166b425d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-638236b57f48bfa60f1bd3e6166b425d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for paragraph (b), substitute—
 
     > - (b) a co-operative housing association which is not a registered social landlord,
@@ -374,7 +374,7 @@ Article 5
 
 (19) In section 429A(2A)[^f00065] (housing management: financial assistance to landlords)—
 
-- (a)[^key-df13ed560b695581b6a7ce503f1adcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-df13ed560b695581b6a7ce503f1adcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (e), substitute—
 
   > - (e) a co-operative housing association which is not a registered social landlord..
@@ -385,9 +385,9 @@ Article 5
 
 (21) In section 438(3) (local authority mortgage interest rates), for “section 58(2)” substitute “section 22 of the Housing Act 1996 or section 58”.
 
-(22)[^key-139b2eae34ca39fdd268095cfc482936] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(22)[^c-139b2eae34ca39fdd268095cfc482936] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(23)[^key-139b2eae34ca39fdd268095cfc482936] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(23)[^c-139b2eae34ca39fdd268095cfc482936] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (24) In section 451(6) (loans by Public Works Loan Commissioners), for “section 67 of the Housing Associations Act 1985” substitute “section 23 of the Housing Act 1996”.
 
@@ -431,7 +431,7 @@ Article 5
 
 ### Housing Associations Act 1985
 
-**15.**[^key-21b648f2c0b4652804761e19a07529fb] (1) The Housing Associations Act 1985[^f00076] is amended as follows.
+**15.**[^c-21b648f2c0b4652804761e19a07529fb] (1) The Housing Associations Act 1985[^f00076] is amended as follows.
 
 (2) After section 2A[^f00077] insert—
 
@@ -528,7 +528,7 @@ Article 5
 
 (18) In section 30[^f00098] (general powers exercisable as a result of inquiry or audit), in subsections (1) to (3) and (5) for the words “the Corporation” in each place where they occur substitute “Scottish Homes”.
 
-(19)[^key-55cf329c526c024e4bdcd910ad228aa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-55cf329c526c024e4bdcd910ad228aa8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20) In section 35[^f00100] (power of housing trust to transfer land to local housing authority), for subsection (2)(a) (cases to which provision does not apply) substitute—
 
@@ -561,7 +561,7 @@ Article 5
 - (b) “registered social landlord section 2B”, and
 - (c) “unregistered (in relation to a housing association) section 2B”.
 
-(25)[^key-58d7929fff4e7479301e7a71584f2769] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(25)[^c-58d7929fff4e7479301e7a71584f2769] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (26) In section 75 (general functions of the Corporation)—
 
@@ -602,7 +602,7 @@ Article 5
 
 ### Landlord and Tenant Act 1985
 
-**16.**[^key-b56e0c4b3aae64f4c4a4cf32b780b423] (1) The Landlord and Tenant Act 1985[^f00106] is amended as follows.
+**16.**[^c-b56e0c4b3aae64f4c4a4cf32b780b423] (1) The Landlord and Tenant Act 1985[^f00106] is amended as follows.
 
 (2) In section 14(4)[^f00111] (repairing obligations in leases: exceptions), for “registered housing association” substitute “registered social landlord”.
 
@@ -616,7 +616,7 @@ Article 5
 
 ### Landlord and Tenant Act 1987
 
-**17.**[^key-fc6a68a26ab0ccb2c3f2cc0dbefad849] (1) Section 58 of the Landlord and Tenant Act 1987[^f00109] (landlords exempt from certain provisions of the Act) is amended as follows.
+**17.**[^c-fc6a68a26ab0ccb2c3f2cc0dbefad849] (1) Section 58 of the Landlord and Tenant Act 1987[^f00109] (landlords exempt from certain provisions of the Act) is amended as follows.
 
 (2) In subsection (1)[^f00110], for paragraph (g) and the word “or” at the end of the paragraph substitute—
 
@@ -630,19 +630,19 @@ Article 5
 
 ### Housing Act 1988
 
-**18.**[^key-28104f3961e25c38dce668f88c45736f] (1) The Housing Act 1988[^f00112] is amended as follows.
+**18.**[^c-28104f3961e25c38dce668f88c45736f] (1) The Housing Act 1988[^f00112] is amended as follows.
 
 (2) In section 35(3)[^f00113] (whether certain secure tenancies granted to former owner-occupiers of defective dwellings are housing association tenancies), for “registered housing association, within the meaning of the Housing Associations Act 1985” substitute “registered social landlord, within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act)”.
 
 (3) In section 38(4A)[^f00114] (transfer of existing tenancies from public to private sectors), for “registered housing association” substitute “registered social landlord (within the meaning of the Housing Act 1985 (see section 5(4) and (5) of that Act))”.
 
-(4)[^key-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-e5de0b28690047e419509b8eb60ecfaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 55 (surplus rental income)—
 
@@ -662,14 +662,14 @@ Article 5
 
 (10) In section 81 (consent required for certain disposals by housing action trusts)—
 
-- (a)[^key-e7b8c3f3f65fffba98df1b1271888892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e7b8c3f3f65fffba98df1b1271888892] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (7), for “the said section 9” substitute “section 9 or 42 of the Housing Act 1996 or section 9 of the Housing Associations Act 1985”.
 
-(11)[^key-208cd1074a080b7a7ad57861890c4680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-208cd1074a080b7a7ad57861890c4680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In section 133 (consent required for certain disposals)—
 
-- (a)[^key-b9b3f5fa81d3e5bec3b931cd8349a6c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b9b3f5fa81d3e5bec3b931cd8349a6c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (7), for “the said section 9” substitute “section 9 or 42 of the Housing Act 1996 or section 9 of the Housing Associations Act 1985”.
 
 (13) In Part I of Schedule 2 (compulsory grounds for possession), in ground 6—
@@ -680,7 +680,7 @@ Article 5
 
 ### Local Government and Housing Act 1989
 
-**19.**[^key-3d822d2b0c95f62269fd6ba8e7d305f4] (1) The Local Government and Housing Act 1989[^f00115] is amended as follows.
+**19.**[^c-3d822d2b0c95f62269fd6ba8e7d305f4] (1) The Local Government and Housing Act 1989[^f00115] is amended as follows.
 
 (2) In section 119(6)(a) (conditions as to availability for letting), for “registered housing association” substitute “registered social landlord”.
 
@@ -699,12 +699,12 @@ Article 5
 
 (7) In section 173 (consent of Secretary of State required for subsequent disposals)—
 
-- (a)[^key-9d77d5e7ac5dbdc9bf3602fc94ba7904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9d77d5e7ac5dbdc9bf3602fc94ba7904] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (7), for “the said section 9” substitute “section 9 or 42 of the Housing Act 1996 or section 9 of the Housing Associations Act 1985”.
 
 ### Taxation of Chargeable Gains Act 1992
 
-**20.**[^key-d62bbcb4e965bc25d7b7ad55f13b1d94] (1) The Taxation of Chargeable Gains Act 1992[^f00117] is amended as follows.
+**20.**[^c-d62bbcb4e965bc25d7b7ad55f13b1d94] (1) The Taxation of Chargeable Gains Act 1992[^f00117] is amended as follows.
 
 (2) For section 219 (disposals by Housing Corporation, Housing for Wales, Scottish Homes and certain housing associations) substitute—
 
@@ -725,13 +725,13 @@ Article 5
 > - “relevant housing association” means a registered social landlord within the meaning of Part I of the Housing Act 1996 or a registered housing association within the meaning of the Housing Associations Act 1985;
 > - “unregistered self-build society” has the same meaning as in the Housing Associations Act 1985.
 
-(3)[^key-811fdef006857f493c45c7fb387ef876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-811fdef006857f493c45c7fb387ef876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Leasehold Reform, Housing and Urban Development Act 1993
 
-**21.**[^key-6fa1829746282a656dfc137054962c6c] (1) The Leasehold Reform, Housing and Urban Development Act 1993[^f00118] is amended as follows.
+**21.**[^c-6fa1829746282a656dfc137054962c6c] (1) The Leasehold Reform, Housing and Urban Development Act 1993[^f00118] is amended as follows.
 
-(2)[^key-50e75c644c99a3a29ff4eb17fdfdc992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-50e75c644c99a3a29ff4eb17fdfdc992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 10 (acquisition of interests from local authorities, &c.), in paragraph 1(2) (consent provisions whose effect is excluded) for paragraph (b) substitute—
 
@@ -739,7 +739,7 @@ Article 5
 
 ### Landlord and Tenant (Covenants) Act 1995
 
-**22.**[^key-97c1c854edb0d43c66abb9ca17bf36af] In section 2(2)(c) of the Landlord and Tenant (Covenants) Act 1995[^f00119] (covenants not affected by the Act), at the beginning insert “section 11 or 13 of the Housing Act 1996 or”.
+**22.**[^c-97c1c854edb0d43c66abb9ca17bf36af] In section 2(2)(c) of the Landlord and Tenant (Covenants) Act 1995[^f00119] (covenants not affected by the Act), at the beginning insert “section 11 or 13 of the Housing Act 1996 or”.
 
 (This note does not form part of the Order)
 
@@ -749,23 +749,23 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00001]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
 
-[^key-9f14e2a27dbe897d703cccac831e65e6]: Commencement: Art. 1 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-9f14e2a27dbe897d703cccac831e65e6]: Commencement: Art. 1 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
-[^key-171f22f870680f9bf284e0cdf4464555]: Commencement: Art. 2 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-171f22f870680f9bf284e0cdf4464555]: Commencement: Art. 2 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00002]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00003]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-d011fe2c41c27e0a361c6ab72dac794a]: Commencement: Art. 3 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-d011fe2c41c27e0a361c6ab72dac794a]: Commencement: Art. 3 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
-[^key-cec2bf3174fba5a0fb71d7981c921c81]: Commencement: Art. 4 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-cec2bf3174fba5a0fb71d7981c921c81]: Commencement: Art. 4 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00004]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-13000c2e1650ae611444cd6ee2a13ff9]: Commencement: Art. 5 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-13000c2e1650ae611444cd6ee2a13ff9]: Commencement: Art. 5 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
-[^key-fe2d8f354442a1b16c5a2f068e4c0ed0]: Commencement: Art. 6 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-fe2d8f354442a1b16c5a2f068e4c0ed0]: Commencement: Art. 6 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00005]: Footnote: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 
@@ -799,7 +799,7 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00022]: Footnote: [1986 c. 63](https://www.legislation.gov.uk/ukpga/1986/63).
 
-[^key-0491fe1d0d8516aabedf3adfa8ede249]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2325/schedule/1) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [537](https://www.legislation.gov.uk/uksi/2001/3649/article/537)
+[^c-0491fe1d0d8516aabedf3adfa8ede249]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/1996/2325/schedule/1) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [537](https://www.legislation.gov.uk/uksi/2001/3649/article/537)
 
 [^f00023]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -841,53 +841,53 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00130]: Footnote: Section 73 was amended by the 1988 Act, paragraph 8 of Schedule 5 and by the Building Societies Act 1986, paragraph 19 of Schedule 18.
 
-[^key-371c280f12ef3ac4042db60d01e0e0b5]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/1) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-371c280f12ef3ac4042db60d01e0e0b5]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/1) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
-[^key-f7d2dd74875867195d23ecf2eca49d20]: Commencement: Sch. 2 para. 2 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-f7d2dd74875867195d23ecf2eca49d20]: Commencement: Sch. 2 para. 2 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
-[^key-20c42eeadff3d1ed3e2d2f0bf6b52ab9]: Commencement: Sch. 2 para. 3 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-20c42eeadff3d1ed3e2d2f0bf6b52ab9]: Commencement: Sch. 2 para. 3 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00033]: Footnote: Section 29(1)(d) was substituted by the 1985 Act, paragraph 24 of Schedule 2.
 
 [^f00034]: Footnote: Section 37(1)(d) was substituted by the 1985 Act, paragraph 24 of Schedule 2.
 
-[^key-0d90358950e2f128563f01b0d850f340]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/4) revoked (1.10.1998) by [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), [s. 158(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/158/1), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
+[^c-0d90358950e2f128563f01b0d850f340]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/4) revoked (1.10.1998) by [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), [s. 158(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/158/1), [Sch. 18 Pt. 4](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-0b33863f6b448d3418bc21884813e60f]: Commencement: Sch. 2 para. 5 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-0b33863f6b448d3418bc21884813e60f]: Commencement: Sch. 2 para. 5 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00038]: Footnote: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80). Section 5(4) was amended by the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42), paragraph 73 of Schedule 23, and by the 1985 Act, paragraph 33(1) and (2) of Schedule 2.
 
-[^key-18f938d1f97026da2564a7b3a687d1e3]: Commencement: Sch. 2 para. 6 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-18f938d1f97026da2564a7b3a687d1e3]: Commencement: Sch. 2 para. 6 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00039]: Footnote: [1977 c. 42](https://www.legislation.gov.uk/ukpga/1977/42). Section 15(3) was amended by the 1985 Act, paragraph 35 of Schedule 2.
 
-[^key-62d22c9fcc957dfdd4b156976e439eb5]: Commencement: Sch. 2 para. 7 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-62d22c9fcc957dfdd4b156976e439eb5]: Commencement: Sch. 2 para. 7 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00040]: Footnote: [1977 c. 43](https://www.legislation.gov.uk/ukpga/1977/43). Section 3A was inserted by the 1988 Act, section 31, and subsection (8) was amended by the Local Government (Wales) Act 1994, paragraph 4(1) of Schedule 8.
 
-[^key-832af34593ebb1266e22e95f2408576a]: Commencement: Sch. 2 para. 8 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-832af34593ebb1266e22e95f2408576a]: Commencement: Sch. 2 para. 8 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00041]: Footnote: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45). Section 12A was inserted by the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), section 74.
 
-[^key-ed7a64ec1fdf389ee971eb767f2c1a07]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/9) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
+[^c-ed7a64ec1fdf389ee971eb767f2c1a07]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/9) revoked (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4)
 
-[^key-5b4532a1917973acd2c78be677f44818]: Commencement: Sch. 2 para. 10 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-5b4532a1917973acd2c78be677f44818]: Commencement: Sch. 2 para. 10 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00045]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65). Section 153(1)(a) was amended by the 1985 Act, paragraph 46(1) of Schedule 2, and by the Housing (Scotland) Act 1987, paragraph 25(2) of Schedule 23.
 
-[^key-d5e4b10752dd62ff4df96bd2909e9ebc]: Commencement: Sch. 2 para. 11 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-d5e4b10752dd62ff4df96bd2909e9ebc]: Commencement: Sch. 2 para. 11 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00047]: Footnote: [1981 c. xvii](https://www.legislation.gov.uk/ukla/1981/17). Section 16(l) was amended by paragraph 50(4)(b) of the 1985 Act.
 
-[^key-6b294ea96c2f0a66f1e424ee4ebef923]: Commencement: Sch. 2 para. 12 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-6b294ea96c2f0a66f1e424ee4ebef923]: Commencement: Sch. 2 para. 12 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00048]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). Section 24A was inserted by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 171(1).
 
-[^key-8252498da2931a8c670b2bab7a1155a5]: Commencement: Sch. 2 para. 13 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-8252498da2931a8c670b2bab7a1155a5]: Commencement: Sch. 2 para. 13 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00050]: Footnote: [1984 c. xxvii](https://www.legislation.gov.uk/ukla/1984/27). Section 10(2)(h) was amended by the 1985 Act, paragraph 60 of Schedule 2.
 
-[^key-8611012498d774cdceac89cd06ac8890]: Commencement: Sch. 2 para. 14 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-8611012498d774cdceac89cd06ac8890]: Commencement: Sch. 2 para. 14 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00051]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -901,7 +901,7 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00056]: Footnote: Subsection (1) (in part) and subsection (2) of section 80 were repealed, subject to savings, by the 1988 Act, Schedule 18.
 
-[^key-638236b57f48bfa60f1bd3e6166b425d]: Textual amendment: [Sch. 2 para. 14(8)(a)(i)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/8/a/i) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-638236b57f48bfa60f1bd3e6166b425d]: Textual amendment: [Sch. 2 para. 14(8)(a)(i)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/8/a/i) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
 [^f00057]: Footnote: Section 92 was amended and section 92(2A) was inserted by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) (“the 1989 Act”), section 163.
 
@@ -921,11 +921,11 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00065]: Footnote: Section 429A was inserted by the 1986 Act, section 16, and subsection (2A) was inserted by the 1988 Act, paragraph 54 of Schedule 17.
 
-[^key-df13ed560b695581b6a7ce503f1adcd6]: Textual amendment: [Sch. 2 para. 14(19)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/19/a) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-df13ed560b695581b6a7ce503f1adcd6]: Textual amendment: [Sch. 2 para. 14(19)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/19/a) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
 [^f00066]: Footnote: Section 434 was amended by the 1986 Act (paragraph 33 of Schedule 5), by the 1988 Act (paragraph 55 of Schedule 17) and by the 1989 Act (section 194(4) and Schedule 12).
 
-[^key-139b2eae34ca39fdd268095cfc482936]: Textual amendment: [Sch. 2 para. 14(22)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/22)[(23)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/23) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-139b2eae34ca39fdd268095cfc482936]: Textual amendment: [Sch. 2 para. 14(22)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/22)[(23)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/23) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
 [^f00069]: Footnote: Section 458 was amended by the Building Societies Act 1986, paragraph 18 of Schedule 18, and by the 1986 Act, paragraph 37 of Schedule 5.
 
@@ -941,7 +941,7 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00075]: Footnote: Paragraph 7(1) was amended by the 1986 Act, paragraph 40 of Schedule 5 and Schedule 12, and by the 1988 Act, section 83(7) and paragraph 106 of Schedule 17.
 
-[^key-21b648f2c0b4652804761e19a07529fb]: Commencement: Sch. 2 para. 15 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-21b648f2c0b4652804761e19a07529fb]: Commencement: Sch. 2 para. 15 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00076]: Footnote: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
@@ -989,7 +989,7 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00098]: Footnote: Section 30 was amended by the 1988 Act, paragraphs 2 and 21 of Schedule 6, and repealed in so far as it extended to England and Wales by the 1996 Act, Schedule 19.
 
-[^key-55cf329c526c024e4bdcd910ad228aa8]: Textual amendment: [Sch. 2 para. 15(19)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/19) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-55cf329c526c024e4bdcd910ad228aa8]: Textual amendment: [Sch. 2 para. 15(19)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/19) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^f00100]: Footnote: Section 35(2) was amended by the Charities Act 1993, paragraph 21(4) of Schedule 6.
 
@@ -997,13 +997,13 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00102]: Footnote: Section 73 was amended by the 1986 Act, paragraph 8 of Schedule 5, and by the Building Societies Act 1986, paragraph 19 of Schedule 18.
 
-[^key-58d7929fff4e7479301e7a71584f2769]: Textual amendment: [Sch. 2 para. 15(25)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/25) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-58d7929fff4e7479301e7a71584f2769]: Textual amendment: [Sch. 2 para. 15(25)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/15/25) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
 [^f00104]: Footnote: Section 77 was amended by the 1988 Act, paragraph 33 of Schedule 6.
 
 [^f00105]: Footnote: Section 83 was amended by the 1988 Act, paragraph 34 of Schedule 6.
 
-[^key-b56e0c4b3aae64f4c4a4cf32b780b423]: Commencement: Sch. 2 para. 16 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-b56e0c4b3aae64f4c4a4cf32b780b423]: Commencement: Sch. 2 para. 16 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00106]: Footnote: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70).
 
@@ -1013,13 +1013,13 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00108]: Footnote: Section 38 was amended by the Local Government (Wales) Act 1994 (paragraph 7 of Schedule 8), by the Norfolk and Suffolk Broads Act [1988 (c. 21)](https://www.legislation.gov.uk/ukpga/1988/21) (paragraph 26 of Schedule 6) and by the Police and Magistrates Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29) (paragraph 60 of Schedule 4).
 
-[^key-fc6a68a26ab0ccb2c3f2cc0dbefad849]: Commencement: Sch. 2 para. 17 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-fc6a68a26ab0ccb2c3f2cc0dbefad849]: Commencement: Sch. 2 para. 17 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00109]: Footnote: [1987 c. 31](https://www.legislation.gov.uk/ukpga/1987/31).
 
 [^f00110]: Footnote: Section 58(1) was amended by the 1988 Act (paragraph 7 of Schedule 13 and paragraph 114 of Schedule 17), by the Local Government (Wales) Act 1994 (paragraph 8 of Schedule 8), by the Norfolk and Suffolk Broads Act 1988 (paragraph 28 of Schedule 6), and by the Police and Magistrates' Courts Act 1994 (paragraph 61 of Schedule 4).
 
-[^key-28104f3961e25c38dce668f88c45736f]: Commencement: Sch. 2 para. 18 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-28104f3961e25c38dce668f88c45736f]: Commencement: Sch. 2 para. 18 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00112]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
@@ -1027,34 +1027,34 @@ This Order contains repeals and amendments of enactments and, in article 3, gene
 
 [^f00114]: Footnote: Subsections (3) and (4) of section 38 were amended and subsection (4A) was inserted by the 1989 Act, paragraph 106 of Schedule 11.
 
-[^key-e5de0b28690047e419509b8eb60ecfaa]: Textual amendment: [Sch. 2 para. 18(4)-(7)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/4) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-e5de0b28690047e419509b8eb60ecfaa]: Textual amendment: [Sch. 2 para. 18(4)-(7)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/4) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-e7b8c3f3f65fffba98df1b1271888892]: Textual amendment: [Sch. 2 para. 18(10)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/10/a) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-e7b8c3f3f65fffba98df1b1271888892]: Textual amendment: [Sch. 2 para. 18(10)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/10/a) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-208cd1074a080b7a7ad57861890c4680]: Textual amendment: [Sch. 2 para. 18(11)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/11) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-208cd1074a080b7a7ad57861890c4680]: Textual amendment: [Sch. 2 para. 18(11)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/11) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
-[^key-b9b3f5fa81d3e5bec3b931cd8349a6c7]: Textual amendment: [Sch. 2 para. 18(12)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/12/a) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b9b3f5fa81d3e5bec3b931cd8349a6c7]: Textual amendment: [Sch. 2 para. 18(12)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/18/12/a) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-3d822d2b0c95f62269fd6ba8e7d305f4]: Commencement: Sch. 2 para. 19 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-3d822d2b0c95f62269fd6ba8e7d305f4]: Commencement: Sch. 2 para. 19 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00115]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^f00116]: Footnote: Section 127(3) was amended by the Local Government (Wales) Act 1994, paragraph 10(2) of Schedule 8.
 
-[^key-9d77d5e7ac5dbdc9bf3602fc94ba7904]: Textual amendment: [Sch. 2 para. 19(7)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/19/7/a) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-9d77d5e7ac5dbdc9bf3602fc94ba7904]: Textual amendment: [Sch. 2 para. 19(7)(a)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/19/7/a) revoked (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-d62bbcb4e965bc25d7b7ad55f13b1d94]: Commencement: Sch. 2 para. 20 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-d62bbcb4e965bc25d7b7ad55f13b1d94]: Commencement: Sch. 2 para. 20 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00117]: Footnote: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-811fdef006857f493c45c7fb387ef876]: Textual amendment: [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/20/3) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
+[^c-811fdef006857f493c45c7fb387ef876]: Textual amendment: [Sch. 2 para. 20(3)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/20/3) revoked (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/866/schedule/3/paragraph/1))
 
-[^key-6fa1829746282a656dfc137054962c6c]: Commencement: Sch. 2 para. 21 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-6fa1829746282a656dfc137054962c6c]: Commencement: Sch. 2 para. 21 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00118]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-50e75c644c99a3a29ff4eb17fdfdc992]: Textual amendment: [Sch. 2 para. 21(2)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/21/2) revoked (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-50e75c644c99a3a29ff4eb17fdfdc992]: Textual amendment: [Sch. 2 para. 21(2)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/21/2) revoked (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-97c1c854edb0d43c66abb9ca17bf36af]: Commencement: Sch. 2 para. 22 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
+[^c-97c1c854edb0d43c66abb9ca17bf36af]: Commencement: Sch. 2 para. 22 in force at 1.10.1996, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/2325/article/1/2)
 
 [^f00119]: Footnote: [1995 c. 30](https://www.legislation.gov.uk/ukpga/1995/30).

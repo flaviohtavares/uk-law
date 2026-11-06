@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Felling or lopping of trees[^key-f64f51642fea8ad3f86ea6999548631b]
+## 43. Felling or lopping of trees[^c-f64f51642fea8ad3f86ea6999548631b]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f64f51642fea8ad3f86ea6999548631b]: Commencement: Art. 43 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-f64f51642fea8ad3f86ea6999548631b]: Commencement: Art. 43 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00057]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).

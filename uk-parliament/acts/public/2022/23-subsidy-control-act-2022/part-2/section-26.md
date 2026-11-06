@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Meaning of “insurance company”[^key-9cca5766d8fdf97875c8da20481f2a2c][^key-bb68194ee445ff78c891a89b8d4bc0b4]
+## 26. Meaning of “insurance company”[^c-9cca5766d8fdf97875c8da20481f2a2c][^c-bb68194ee445ff78c891a89b8d4bc0b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9cca5766d8fdf97875c8da20481f2a2c]: Commencement: S. 26 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-9cca5766d8fdf97875c8da20481f2a2c]: Commencement: S. 26 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-bb68194ee445ff78c891a89b8d4bc0b4]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/23/section/26) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-bb68194ee445ff78c891a89b8d4bc0b4]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2022/23/section/26) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

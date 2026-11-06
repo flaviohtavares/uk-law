@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Compulsory acquisition of land – incorporation of the mineral code[^key-10b07112e58c981788a7989a8fdececb]
+## 17. Compulsory acquisition of land – incorporation of the mineral code[^c-10b07112e58c981788a7989a8fdececb]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10b07112e58c981788a7989a8fdececb]: Commencement: Art. 17 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-10b07112e58c981788a7989a8fdececb]: Commencement: Art. 17 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

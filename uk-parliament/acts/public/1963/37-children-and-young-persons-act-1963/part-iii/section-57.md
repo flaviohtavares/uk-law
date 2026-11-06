@@ -27,7 +27,7 @@ summary: ''
 (3)[^c6540441] Sections 39 and 49 of the principal Act[^c6540451] shall extend to Scotland and the said section 46 shall extend to England and Wales, but—
 
 - (a) references to a court in the said sections 39 and 49 shall not include a court in Scotland;
-- (aa)[^key-59de21aeb62f96c054c299194f7e0302] as it extends to Scotland, the said section 39 has effect as if the references to a publication were references to a newspaper; and
+- (aa)[^c-59de21aeb62f96c054c299194f7e0302] as it extends to Scotland, the said section 39 has effect as if the references to a publication were references to a newspaper; and
 - (b) references to a court in the said section 46 shall not include a court in England or Wales.
 
 (4)[^c6540481] The said sections 39 and 49 and the said sections 46 . . . [^c6540491] shall, with the necessary modifications, apply in relation to sound and television broadcasts as they apply in relation to newspapers.
@@ -48,7 +48,7 @@ summary: ''
 
 [^c6540451]: Textual amendment: Words substituted by [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [Sch. 9 para. 45](https://www.legislation.gov.uk/ukpga/1975/21/schedule/9/paragraph/45)
 
-[^key-59de21aeb62f96c054c299194f7e0302]: Textual amendment: S. 57(3)(aa) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 79(10)](https://www.legislation.gov.uk/ukpga/2015/2/section/79/10), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/64) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/5))
+[^c-59de21aeb62f96c054c299194f7e0302]: Textual amendment: S. 57(3)(aa) inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 79(10)](https://www.legislation.gov.uk/ukpga/2015/2/section/79/10), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 64](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/64) (with [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/5))
 
 [^c6540481]: Modification: S. 57(4) amended (*prosp.*)(*retrospectively*) by [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23), [ss. 67(1)](https://www.legislation.gov.uk/ukpga/1999/23/section/67/1), [68(3)](https://www.legislation.gov.uk/ukpga/1999/23/section/68/3), [Sch. 4 paras. 21](https://www.legislation.gov.uk/ukpga/1999/23/schedule/4/paragraph/21), [24](https://www.legislation.gov.uk/ukpga/1999/23/schedule/4/paragraph/24) (with [Sch. 7 paras. 3(3)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/3/3), [5(2)](https://www.legislation.gov.uk/ukpga/1999/23/schedule/7/paragraph/5/2))
 

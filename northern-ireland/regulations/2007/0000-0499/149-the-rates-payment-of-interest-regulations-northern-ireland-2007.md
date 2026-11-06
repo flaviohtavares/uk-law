@@ -41,23 +41,23 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001] makes the following Regulations in exercise of the powers conferred by Article 15A of the Rates (Northern Ireland)Order 1977[^f00002].
 
-## 1. Citation and commencement[^key-bf98bb1e13258f056fb75a54e286cdd8]
+## 1. Citation and commencement[^c-bf98bb1e13258f056fb75a54e286cdd8]
 
 These Regulations may be cited as the Rates (Payment of Interest) Regulations (Northern Ireland) 2007 and shall come into operation on 1st April 2007.
 
-## 2. Interpretation[^key-c24f8772b2fa9bce4c0bfdd967bd9d5c]
+## 2. Interpretation[^c-c24f8772b2fa9bce4c0bfdd967bd9d5c]
 
 In these Regulations—
 
 - “the 1977 Order” means the Rates (Northern Ireland) Order 1977;
 - “business day” means any day except a Saturday, Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00003] in Northern Ireland;
 - “crediting” means crediting against subsequent liability to a rate; and
-- “repayment” means a repayment or, as the case may be, a crediting by the Department of any amount paid on account of a rate or any amount paid pursuant to an agreement under Regulations under Article 29A[^key-3f1a0734ad50272315ce672acca99a1c][^f00003] of the 1977 Order, but does not include a repayment or crediting of any amount under —
+- “repayment” means a repayment or, as the case may be, a crediting by the Department of any amount paid on account of a rate or any amount paid pursuant to an agreement under Regulations under Article 29A[^c-3f1a0734ad50272315ce672acca99a1c][^f00003] of the 1977 Order, but does not include a repayment or crediting of any amount under —
   - (a) Article 11(4)(b), 30D[^f00004] or 33B[^f00005] of the 1977 Order;
   - (b) a scheme under section 122(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006] for the provision of housing benefit; or
   - (c) a rate relief scheme under Article 30A of the 1977 Order.
 
-## 3. Payment of interest[^key-80c82250463311f028ea1ad77dd9ebef]
+## 3. Payment of interest[^c-80c82250463311f028ea1ad77dd9ebef]
 
 (1) Where the Department makes a repayment it shall pay or credit (according to whether the repayment is repaid or credited) an additional amount by way of interest on the repayment determined in accordance with paragraph (2).
 
@@ -109,13 +109,13 @@ The exceptions are repayments or credits arising out of –
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I.28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 15A was inserted by Article 34 of the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I.18)](https://www.legislation.gov.uk/nisi/2006/2954))
 
-[^key-bf98bb1e13258f056fb75a54e286cdd8]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/149/regulation/1)
+[^c-bf98bb1e13258f056fb75a54e286cdd8]: Commencement: Reg. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/149/regulation/1)
 
-[^key-c24f8772b2fa9bce4c0bfdd967bd9d5c]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/149/regulation/1)
+[^c-c24f8772b2fa9bce4c0bfdd967bd9d5c]: Commencement: Reg. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/149/regulation/1)
 
 [^f00003]: Footnote: [1971c.80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-3f1a0734ad50272315ce672acca99a1c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/149/regulation/2) substituted (1.4.2010) by [The Rates (Payment of Interest) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/38)](https://www.legislation.gov.uk/nisr/2010/38), [regs. 1](https://www.legislation.gov.uk/nisr/2010/38/regulation/1), [2](https://www.legislation.gov.uk/nisr/2010/38/regulation/2)
+[^c-3f1a0734ad50272315ce672acca99a1c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2007/149/regulation/2) substituted (1.4.2010) by [The Rates (Payment of Interest) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/38)](https://www.legislation.gov.uk/nisr/2010/38), [regs. 1](https://www.legislation.gov.uk/nisr/2010/38/regulation/1), [2](https://www.legislation.gov.uk/nisr/2010/38/regulation/2)
 
 [^f00004]: Footnote: Article 33B was inserted by Article 8 of the Rates (Amendment) (Northern Ireland) Order, [S.I. 2004/703 (N.I.4)](https://www.legislation.gov.uk/nisi/2004/703) and was amended by Article 10 of the Rates (Capital Values, etc.) (Northern Ireland) Order 2006 [S.I. 2006/611 (N.I.4)](https://www.legislation.gov.uk/nisi/2006/611) and by paragraph 17 of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006
 
@@ -123,7 +123,7 @@ The exceptions are repayments or credits arising out of –
 
 [^f00006]: Footnote: Article 30A was inserted by Article 14 of the Rates (Amendment) (Northern Ireland) Order 2006
 
-[^key-80c82250463311f028ea1ad77dd9ebef]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/149/regulation/1)
+[^c-80c82250463311f028ea1ad77dd9ebef]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/149/regulation/1)
 
 [^f00007]: Footnote: [2000c.8](https://www.legislation.gov.uk/ukpga/2000/8)
 

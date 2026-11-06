@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Notices in relation to controlled plant pests or prohibited material[^key-e54a4e21f57f2119c089cad2f2321be3]
+## 15. Notices in relation to controlled plant pests or prohibited material[^c-e54a4e21f57f2119c089cad2f2321be3]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e54a4e21f57f2119c089cad2f2321be3]: Commencement: Reg. 15 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-e54a4e21f57f2119c089cad2f2321be3]: Commencement: Reg. 15 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Consent for electricity generating stations and electric lines[^key-3d3d58872dba636812e836577b5c9329]
+## 88. Consent for electricity generating stations and electric lines[^c-3d3d58872dba636812e836577b5c9329]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d3d58872dba636812e836577b5c9329]: Commencement: S. 88 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3d3d58872dba636812e836577b5c9329]: Commencement: S. 88 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

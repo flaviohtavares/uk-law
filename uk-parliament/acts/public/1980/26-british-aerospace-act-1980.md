@@ -39,7 +39,7 @@ An Act to provide for the vesting of all the property, rights, liabilities and o
 
 (1) On the appointed day all the property, rights, liabilities and obligations to which British Aerospace was entitled or subject immediately before that day shall (subject to section 2 of this Act and to the following provisions of this section) become by virtue of this section property, rights, liabilities and obligations of a company nominated for the purposes of this section by the Secretary of State (referred to below in this Act as “**the successor company**”).
 
-(2)[^key-264b4bbf9a0f6aab6fde609f4b61304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-264b4bbf9a0f6aab6fde609f4b61304c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any agreement made, transaction effected or other thing done by, to or in relation to British Aerospace which is in force or effective immediately before the appointed day shall have effect on and after that day as if made, effected or done by, to or in relation to the successor company, in all respects as if the successor company were the same person, in law, as British Aerospace; and accordingly references to British Aerospace—
 
@@ -49,7 +49,7 @@ An Act to provide for the vesting of all the property, rights, liabilities and o
 
 shall be taken on and after the appointed day as referring to the successor company.
 
-(4)[^key-543e673e0c55738048de11aab3a868b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-543e673e0c55738048de11aab3a868b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any liability of British Aerospace under section 40(4) of the Act of 1977 shall not vest in the successor company by virtue of this section, but the Secretary of State shall be liable to indemnify the Bank of England against any loss suffered by them arising out of, or in connection with, the issue of compensation stock under Part II of that Act in respect of the vesting of any securities in British Aerospace (and any sums required by the Secretary of State for the purpose shall be paid out of moneys provided by Parliament).
 
@@ -62,11 +62,11 @@ shall be taken on and after the appointed day as referring to the successor comp
 - (a) any reference in this Act to property of British Aerospace is a reference to property of British Aerospace whether situated in the United Kingdom or elsewhere; and
 - (b) any such reference to rights, liabilities or obligations of British Aerospace is a reference to rights to which British Aerospace is entitled, or (as the case may be) liabilities or obligations to which British Aerospace is subject, whether under the law of the United Kingdom or of any part of the United Kingdom or under the law of any country or territory outside the United Kingdom.
 
-### 2. Cancellation of certain Government investment in British Aerospace.[^key-398b596aaf918a9f6029e4c11243562f]
+### 2. Cancellation of certain Government investment in British Aerospace.[^c-398b596aaf918a9f6029e4c11243562f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Initial Government shareholding in the successor company.[^key-ce6cf9f6d2e13c61089f789ad5745b46]
+### 3. Initial Government shareholding in the successor company.[^c-ce6cf9f6d2e13c61089f789ad5745b46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -76,7 +76,7 @@ shall be taken on and after the appointed day as referring to the successor comp
 
 (2) The statutory reserve may only be applied by the successor company in paying up unissued shares of the company to be allotted to members of the company as fully paid bonus shares.
 
-(3) Notwithstanding subsection (2) above, the statutory reserve shall not count as an undistributable reserve of the successor company for the purposes of section 831(4)(d) of the Companies Act 2006[^key-daba6b474dba73a758b3c3cb8d31942f]; but for the purpose of determining under that section whether the successor company may make a distribution at any time any amount for the time being standing to the credit of the statutory reserve shall be treated for the purposes of section 831(4)(c)[^key-8d9aef7122914998ef5b58c3a79d81a9] as if it were unrealised profits of the company.
+(3) Notwithstanding subsection (2) above, the statutory reserve shall not count as an undistributable reserve of the successor company for the purposes of section 831(4)(d) of the Companies Act 2006[^c-daba6b474dba73a758b3c3cb8d31942f]; but for the purpose of determining under that section whether the successor company may make a distribution at any time any amount for the time being standing to the credit of the statutory reserve shall be treated for the purposes of section 831(4)(c)[^c-8d9aef7122914998ef5b58c3a79d81a9] as if it were unrealised profits of the company.
 
 (4) For the purposes of any statutory accounts of the successor company the value of any asset and the amount of any liability of British Aerospace vesting in that company on the appointed day (as at the date of vesting) shall be taken to be the value or (as the case may be) the amount assigned to that asset or liability for the purposes of the corresponding statement of accounts prepared by British Aerospace in accordance with section 10(6) of this Act in respect of the last accounting year of British Aerospace ending before the appointed day.
 
@@ -91,21 +91,21 @@ Accordingly (but without prejudice to the generality of the preceding provision)
 
 and in this subsection “**the closing statement of the accounts of British Aerospace**” means the statement of those accounts prepared by British Aerospace as mentioned in subsection (4) above.
 
-(7) References in this section to the statutory accounts of the successor company are references to any accounts prepared by the successor company for the purposes of any provision of the the Companies Act 2006[^key-9e03752d9f1ac89c8e03a309dc9743f4] (including group accounts).
+(7) References in this section to the statutory accounts of the successor company are references to any accounts prepared by the successor company for the purposes of any provision of the the Companies Act 2006[^c-9e03752d9f1ac89c8e03a309dc9743f4] (including group accounts).
 
-### 5. Government investment in shares and securities of the successor company.[^key-6ff001576c9d445907eb26e582f7b9e6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Exercise of Secretary of State’s functions under sections 3 and 5 through nominees.[^key-6ff001576c9d445907eb26e582f7b9e6]
+### 5. Government investment in shares and securities of the successor company.[^c-6ff001576c9d445907eb26e582f7b9e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Target investment limit for Government shareholding under sections 3 and 5.[^key-6ff001576c9d445907eb26e582f7b9e6]
+### 6. Exercise of Secretary of State’s functions under sections 3 and 5 through nominees.[^c-6ff001576c9d445907eb26e582f7b9e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Liability of the successor company for defaulting subsidiary where cause of action arose before appointed day.[^key-6ff001576c9d445907eb26e582f7b9e6]
+### 7. Target investment limit for Government shareholding under sections 3 and 5.[^c-6ff001576c9d445907eb26e582f7b9e6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Liability of the successor company for defaulting subsidiary where cause of action arose before appointed day.[^c-6ff001576c9d445907eb26e582f7b9e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,8 +118,8 @@ and in this subsection “**the closing statement of the accounts of British Aer
 
 (2) The Secretary of State shall become liable on the commencement of the winding up to discharge any outstanding liability of the successor company in respect of—
 
-- (a) any obligation of the successor company which vested in that company by virtue of section 1 of this Act; [^key-2082705fe87571c418b48c6c7ff8017f]...
-- (b)[^key-2082705fe87571c418b48c6c7ff8017f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any obligation of the successor company which vested in that company by virtue of section 1 of this Act; [^c-2082705fe87571c418b48c6c7ff8017f]...
+- (b)[^c-2082705fe87571c418b48c6c7ff8017f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any sums required by the Secretary of State for discharging any liability imposed on him by this section shall be paid out of moneys provided by Parliament.
 
@@ -132,13 +132,13 @@ and in this subsection “**the closing statement of the accounts of British Aer
 - (a) in a case within subsection (1)(*a*) above, to the passing of the resolution; and
 - (b) in a case within subsection (1)(*b*) above, to the making of the order.
 
-### 10. Dissolution of British Aerospace and transitional provisions.[^key-a8572351d4851f9dcc1fb01a435e4356]
+### 10. Dissolution of British Aerospace and transitional provisions.[^c-a8572351d4851f9dcc1fb01a435e4356]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Miscellaneous and supplemental
 
-### 11. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^key-ddff5ed706b74272a4572302702f1b78]
+### 11. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^c-ddff5ed706b74272a4572302702f1b78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,19 +159,19 @@ Any administrative expenses incurred by the Secretary of State in consequence of
 - “**the Act of 1977**” means the [^c737398]Aircraft and Shipbuilding Industries Act 1977;
 - “**appointed day**” means such day as the Secretary of State may appoint by order made by statutory instrument after consulting British Aerospace and the Treasury;
 - “**share**” includes stock;
-- “subsidiary” has the meaning given by section 1159 of the Companies Act 2006;[^key-4b1b8acab8e937d5cebe136f2dc62c13]
+- “subsidiary” has the meaning given by section 1159 of the Companies Act 2006;[^c-4b1b8acab8e937d5cebe136f2dc62c13]
 - “**the successor company**” has the meaning given by section 1(1) of this Act; and
-- “**wholly owned subsidiary**” has the meaning given by[^c737400] section 1159 of the Companies Act 2006[^key-babae858ca23ba837e1ae3bfbb7823c0].
+- “**wholly owned subsidiary**” has the meaning given by[^c737400] section 1159 of the Companies Act 2006[^c-babae858ca23ba837e1ae3bfbb7823c0].
 
-(2)[^key-371c37758b2649fac93f2d4e61b4fa16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-371c37758b2649fac93f2d4e61b4fa16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6db3d62764fb36f8a04b3d5120c3a713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6db3d62764fb36f8a04b3d5120c3a713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Citation, repeals and extent.
 
 (1) This Act may be cited as the British Aerospace Act 1980.
 
-(2) [^key-6c6b9d678c00ed6cc6b6af2bafc6e2f3]... the enactments mentioned in Schedule 3 to this Act are repealed on the appointed day to the extent specified in column 3 of that Schedule.
+(2) [^c-6c6b9d678c00ed6cc6b6af2bafc6e2f3]... the enactments mentioned in Schedule 3 to this Act are repealed on the appointed day to the extent specified in column 3 of that Schedule.
 
 (3) It is hereby declared that this Act extends to Northern Ireland.
 
@@ -208,23 +208,23 @@ and accordingly for the purposes of any such agreement or arrangement (as it has
 
 (2) In this paragraph “**regional development grant**” means a grant under Part I of the [^c737404]Industry Act 1972 or Part II of the Industrial Development Act 1982 and “approved capital expenditure” has the same meaning as it has for the purposes of the provisions relating to regional development grant[^c737405].
 
-## SCHEDULE 2 — Transitional Provisions[^key-b7b318313edc61820383226f0341834d]
+## SCHEDULE 2 — Transitional Provisions[^c-b7b318313edc61820383226f0341834d]
 
 **No longer in force.**
 
 Section 10(1).
 
-**1.**[^key-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b7b318313edc61820383226f0341834d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Enactments Repealed[^c737408]
 
@@ -250,29 +250,29 @@ Section 15(2).
 
 [^c737384]: Commencement: Act in force at Royal Assent subject as mentioned in ss. 10, 14(1) and 15(2).
 
-[^key-264b4bbf9a0f6aab6fde609f4b61304c]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-264b4bbf9a0f6aab6fde609f4b61304c]: Textual amendment: S. 1(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-543e673e0c55738048de11aab3a868b1]: Textual amendment: S. 1(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-543e673e0c55738048de11aab3a868b1]: Textual amendment: S. 1(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-398b596aaf918a9f6029e4c11243562f]: Textual amendment: S. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-398b596aaf918a9f6029e4c11243562f]: Textual amendment: S. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-ce6cf9f6d2e13c61089f789ad5745b46]: Textual amendment: S. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-ce6cf9f6d2e13c61089f789ad5745b46]: Textual amendment: S. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-daba6b474dba73a758b3c3cb8d31942f]: Textual amendment: Words in s. 4(3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 48(a)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/48/a/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-daba6b474dba73a758b3c3cb8d31942f]: Textual amendment: Words in s. 4(3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 48(a)(i)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/48/a/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-8d9aef7122914998ef5b58c3a79d81a9]: Textual amendment: Words in s. 4(3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 48(a)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/48/a/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-8d9aef7122914998ef5b58c3a79d81a9]: Textual amendment: Words in s. 4(3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 48(a)(ii)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/48/a/ii) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-9e03752d9f1ac89c8e03a309dc9743f4]: Textual amendment: Words in s. 4(7) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 48(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/48/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-9e03752d9f1ac89c8e03a309dc9743f4]: Textual amendment: Words in s. 4(7) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 48(b)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/48/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-6ff001576c9d445907eb26e582f7b9e6]: Textual amendment: [Ss. 5-8](https://www.legislation.gov.uk/ukpga/1980/26/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-6ff001576c9d445907eb26e582f7b9e6]: Textual amendment: [Ss. 5-8](https://www.legislation.gov.uk/ukpga/1980/26/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c737391]: Textual amendment: Words substituted by virtue of [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 439(2)](https://www.legislation.gov.uk/ukpga/1986/45/section/439/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1986/45/schedule/14)
 
-[^key-2082705fe87571c418b48c6c7ff8017f]: Textual amendment: S. 9(2)(b) and preceding word repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-2082705fe87571c418b48c6c7ff8017f]: Textual amendment: S. 9(2)(b) and preceding word repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-a8572351d4851f9dcc1fb01a435e4356]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1980/26/section/10) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/4)
+[^c-a8572351d4851f9dcc1fb01a435e4356]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1980/26/section/10) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/4)
 
-[^key-ddff5ed706b74272a4572302702f1b78]: Textual amendment: S. 11 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-ddff5ed706b74272a4572302702f1b78]: Textual amendment: S. 11 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c737395]: Textual amendment: Words in s. 12(2) substituted (6.3.1992 with effect as mentioned in [s. 289(1)(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/289/1/2) of the amending Act) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [ss. 289](https://www.legislation.gov.uk/ukpga/1992/12/section/289), [290](https://www.legislation.gov.uk/ukpga/1992/12/section/290), [Sch. 10 para.4](https://www.legislation.gov.uk/ukpga/1992/12/schedule/10/paragraph/4)
 
@@ -282,17 +282,17 @@ Section 15(2).
 
 [^c737398]: Marginal citation: [1977 c. 3](https://www.legislation.gov.uk/ukpga/1977/3).
 
-[^key-4b1b8acab8e937d5cebe136f2dc62c13]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/26/section/14/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 43(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/43/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-4b1b8acab8e937d5cebe136f2dc62c13]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/26/section/14/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 43(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/43/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c737400]: Textual amendment: Words substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 18 para. 23](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/23) (subject to the transitional provisions referred to in [S.I. 1990/1392](https://www.legislation.gov.uk/uksi/1990/1392), [arts. 2(d)](https://www.legislation.gov.uk/uksi/1990/1392/article/2/d), [6](https://www.legislation.gov.uk/uksi/1990/1392/article/6))
 
-[^key-babae858ca23ba837e1ae3bfbb7823c0]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/26/section/14/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 43(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/43/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-babae858ca23ba837e1ae3bfbb7823c0]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/26/section/14/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 43(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/43/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-371c37758b2649fac93f2d4e61b4fa16]: Textual amendment: S. 14(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-371c37758b2649fac93f2d4e61b4fa16]: Textual amendment: S. 14(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-6db3d62764fb36f8a04b3d5120c3a713]: Textual amendment: S. 14(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-6db3d62764fb36f8a04b3d5120c3a713]: Textual amendment: S. 14(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-6c6b9d678c00ed6cc6b6af2bafc6e2f3]: Textual amendment: Words in s. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-6c6b9d678c00ed6cc6b6af2bafc6e2f3]: Textual amendment: Words in s. 15(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c737401]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
@@ -304,6 +304,6 @@ Section 15(2).
 
 [^c737405]: Textual amendment: Words substituted by [Industrial Development Act 1982 (c. 52, SIF 64)](https://www.legislation.gov.uk/ukpga/1982/52), [s. 19(1)](https://www.legislation.gov.uk/ukpga/1982/52/section/19/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/paragraph/15)(*b*)
 
-[^key-b7b318313edc61820383226f0341834d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/26/schedule/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-b7b318313edc61820383226f0341834d]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/26/schedule/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c737408]: Modification: The text of Schedule 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals made prior to 1.2.1991.

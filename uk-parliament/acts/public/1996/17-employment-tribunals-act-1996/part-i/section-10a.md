@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10A. Confidential information.[^key-fae09c5bacffc3c9e80949f1ef08d71d]
+## 10A. Confidential information.[^c-fae09c5bacffc3c9e80949f1ef08d71d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fae09c5bacffc3c9e80949f1ef08d71d]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1996/17/section/10A) omitted (25.4.2024) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/7); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)
+[^c-fae09c5bacffc3c9e80949f1ef08d71d]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/1996/17/section/10A) omitted (25.4.2024) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/7); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/ii)

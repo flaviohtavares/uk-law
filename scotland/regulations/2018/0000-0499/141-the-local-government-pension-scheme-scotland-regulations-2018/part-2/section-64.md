@@ -31,7 +31,7 @@ summary: ''
 (2) But—
 
 - (a) a Scheme employer must pay the amounts mentioned in paragraph (1)(a) within the prescribed period referred to in section 49(8) of the Pensions Act 1995 [^c22970911]; and
-- (b) paragraph (1)(c) does not apply where the cost of the administration of the fund is paid out of the fund under regulation 4(4)[^key-fc75976d94644baa0bcd18d7eec21155] of the Local Government Pensions Scheme (Management and Investment of Funds) (Scotland) Regulations 2010 (management of pension fund) [^c22970921].
+- (b) paragraph (1)(c) does not apply where the cost of the administration of the fund is paid out of the fund under regulation 4(4)[^c-fc75976d94644baa0bcd18d7eec21155] of the Local Government Pensions Scheme (Management and Investment of Funds) (Scotland) Regulations 2010 (management of pension fund) [^c22970921].
 
 (3) Every payment under paragraph (1)(a) must be accompanied by a statement showing—
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c22970911]: Marginal citation: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26). Section 49(8) was amended by the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [Part 2](https://www.legislation.gov.uk/ukpga/1999/30/part/2), [section 10(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/10/1).
 
-[^key-fc75976d94644baa0bcd18d7eec21155]: Textual amendment: Word in [reg. 64(2)(b)](https://www.legislation.gov.uk/ssi/2018/141/regulation/64/2/b) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(23)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/23)
+[^c-fc75976d94644baa0bcd18d7eec21155]: Textual amendment: Word in [reg. 64(2)(b)](https://www.legislation.gov.uk/ssi/2018/141/regulation/64/2/b) substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(23)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/23)
 
 [^c22970921]: Marginal citation: [S.S.I. 2010/233](https://www.legislation.gov.uk/ssi/2010/233).

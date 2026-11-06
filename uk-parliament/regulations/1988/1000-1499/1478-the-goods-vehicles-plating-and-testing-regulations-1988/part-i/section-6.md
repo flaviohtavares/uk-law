@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Supervision of tests[^key-1ed1bce637f0642a02d2ad78639cc7a7]
+## 6. Supervision of tests[^c-1ed1bce637f0642a02d2ad78639cc7a7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to these Regulations, every examination for plating and every goods vehi
 
 ## Annotations
 
-[^key-1ed1bce637f0642a02d2ad78639cc7a7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/1478/regulation/6) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-1ed1bce637f0642a02d2ad78639cc7a7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/1478/regulation/6) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

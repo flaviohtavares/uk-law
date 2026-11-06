@@ -33,11 +33,11 @@ An Act to provide for the capital reconstruction of the National Coal Board; to 
 
 \[22nd March 1973\]
 
-## 1. Capital reconstruction of National Coal Board.[^key-0150d8db9e0d0424c11bf76057775d34]
+## 1. Capital reconstruction of National Coal Board.[^c-0150d8db9e0d0424c11bf76057775d34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Borrowing powers of the Board and its subsidiaries and powers to guarantee loans.[^key-60d21b7e7d43721bdd333c4ab32cb340]
+## 2. Borrowing powers of the Board and its subsidiaries and powers to guarantee loans.[^c-60d21b7e7d43721bdd333c4ab32cb340]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,23 +53,23 @@ An Act to provide for the capital reconstruction of the National Coal Board; to 
 
 ## 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c703274]
 
-## 10. Increase in membership of Board.[^key-0fb1a005ffa64808c8f6209764562465]
+## 10. Increase in membership of Board.[^c-0fb1a005ffa64808c8f6209764562465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Administrative expenses.[^key-2f956be03a323676b560742cd2ded542]
+## 11. Administrative expenses.[^c-2f956be03a323676b560742cd2ded542]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Interpretation, and provisions as to orders.[^key-2f956be03a323676b560742cd2ded542]
+## 12. Interpretation, and provisions as to orders.[^c-2f956be03a323676b560742cd2ded542]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendments and repeals.[^key-2f956be03a323676b560742cd2ded542]
+## 13. Amendments and repeals.[^c-2f956be03a323676b560742cd2ded542]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Short title, citation, commencement and extent.[^key-2f956be03a323676b560742cd2ded542]
+## 14. Short title, citation, commencement and extent.[^c-2f956be03a323676b560742cd2ded542]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,17 +77,17 @@ SCHEDULES
 
 ## SCHEDULE 1 — Consequential Amendments
 
-**1.**[^key-ce2afd349b3bff71bfe67a1424613408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ce2afd349b3bff71bfe67a1424613408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d63678851b6ff6fc128069af4cc21d6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d63678851b6ff6fc128069af4cc21d6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-33b1496047043829eec25d335b2559df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-33b1496047043829eec25d335b2559df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c703309]
 
-## SCHEDULE 2 — Enactments Repealed[^key-cd229d981e1d5ce2f57a34aae2286402]
+## SCHEDULE 2 — Enactments Repealed[^c-cd229d981e1d5ce2f57a34aae2286402]
 
 **No longer in force.**
 
@@ -95,9 +95,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-0150d8db9e0d0424c11bf76057775d34]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1973/8/section/1) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-0150d8db9e0d0424c11bf76057775d34]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1973/8/section/1) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-60d21b7e7d43721bdd333c4ab32cb340]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1973/8/section/2) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-60d21b7e7d43721bdd333c4ab32cb340]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1973/8/section/2) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c703269]: Textual amendment: S. 3 repealed, with saving for grants under [Coal Industry Act 1971 (c. 16)](https://www.legislation.gov.uk/ukpga/1971/16), [s. 1](https://www.legislation.gov.uk/ukpga/1971/16/section/1) in respect of Board's financial year ending in March 1978 or in any earlier year, by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/I)
 
@@ -111,16 +111,16 @@ SCHEDULES
 
 [^c703274]: Textual amendment: S. 9 repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [s. 8(7)](https://www.legislation.gov.uk/ukpga/1977/39/section/8/7), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 
-[^key-0fb1a005ffa64808c8f6209764562465]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1973/8/section/10) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-0fb1a005ffa64808c8f6209764562465]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1973/8/section/10) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-2f956be03a323676b560742cd2ded542]: Textual amendment: [Ss. 11-14](https://www.legislation.gov.uk/ukpga/1973/8/section/11) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-2f956be03a323676b560742cd2ded542]: Textual amendment: [Ss. 11-14](https://www.legislation.gov.uk/ukpga/1973/8/section/11) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-ce2afd349b3bff71bfe67a1424613408]: Textual amendment: Sch. 1 para. 1 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-ce2afd349b3bff71bfe67a1424613408]: Textual amendment: Sch. 1 para. 1 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
-[^key-d63678851b6ff6fc128069af4cc21d6f]: Textual amendment: Sch. 1 para. 2 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-d63678851b6ff6fc128069af4cc21d6f]: Textual amendment: Sch. 1 para. 2 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-33b1496047043829eec25d335b2559df]: Textual amendment: Sch. 1 para. 3 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-33b1496047043829eec25d335b2559df]: Textual amendment: Sch. 1 para. 3 repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c703309]: Textual amendment: [Sch. 1 para 4](https://www.legislation.gov.uk/ukpga/1973/8/schedule/1/paragraph/4) repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/I)
 
-[^key-cd229d981e1d5ce2f57a34aae2286402]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1973/8/schedule/2) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-cd229d981e1d5ce2f57a34aae2286402]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1973/8/schedule/2) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)

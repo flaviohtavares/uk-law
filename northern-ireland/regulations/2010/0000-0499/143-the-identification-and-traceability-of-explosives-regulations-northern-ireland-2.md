@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Identification and Traceability of Explosives Regulations (Northern Ireland) 2010 (revoked)[^key-aceeda7d61458c279016147acb31c9b4]
+The Identification and Traceability of Explosives Regulations (Northern Ireland) 2010 (revoked)[^c-aceeda7d61458c279016147acb31c9b4]
 
 Made
 
@@ -44,86 +44,86 @@ Coming into operation
 
 To be laid before Parliament
 
-[^key-aceeda7d61458c279016147acb31c9b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aceeda7d61458c279016147acb31c9b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aceeda7d61458c279016147acb31c9b4]
+## 1. Citation and commencement[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-aceeda7d61458c279016147acb31c9b4]
+## 2. Interpretation[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-aceeda7d61458c279016147acb31c9b4]
+## 3. Application[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Unique identification[^key-aceeda7d61458c279016147acb31c9b4]
+## 4. Unique identification[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Attribution of manufacturing site codes[^key-aceeda7d61458c279016147acb31c9b4]
+## 5. Attribution of manufacturing site codes[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Records[^key-aceeda7d61458c279016147acb31c9b4]
+## 6. Records[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-aceeda7d61458c279016147acb31c9b4]
+## 7. Enforcement[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aceeda7d61458c279016147acb31c9b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aceeda7d61458c279016147acb31c9b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Unique identification for explosives[^key-aceeda7d61458c279016147acb31c9b4]
+## SCHEDULE 1 — Unique identification for explosives[^c-aceeda7d61458c279016147acb31c9b4]
 
 Regulation 4(2)(a)
 
-**1.**[^key-aceeda7d61458c279016147acb31c9b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aceeda7d61458c279016147acb31c9b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Methods of marking or affixing the unique identification to explosives[^key-aceeda7d61458c279016147acb31c9b4]
+## SCHEDULE 2 — Methods of marking or affixing the unique identification to explosives[^c-aceeda7d61458c279016147acb31c9b4]
 
 Regulation 4(1), (5) and (8)
 
-### 1. Cartridged explosives and explosives in sacks[^key-aceeda7d61458c279016147acb31c9b4]
+### 1. Cartridged explosives and explosives in sacks[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Packaged two-component explosives[^key-aceeda7d61458c279016147acb31c9b4]
+### 2. Packaged two-component explosives[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Plain detonators and fuses[^key-aceeda7d61458c279016147acb31c9b4]
+### 3. Plain detonators and fuses[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Electric, non-electric and electronic detonators[^key-aceeda7d61458c279016147acb31c9b4]
+### 4. Electric, non-electric and electronic detonators[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Primers and boosters[^key-aceeda7d61458c279016147acb31c9b4]
+### 5. Primers and boosters[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Detonating cords and safety fuses[^key-aceeda7d61458c279016147acb31c9b4]
+### 6. Detonating cords and safety fuses[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Cans, Boxes and drums containing explosives[^key-aceeda7d61458c279016147acb31c9b4]
+### 7. Cans, Boxes and drums containing explosives[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. General[^key-aceeda7d61458c279016147acb31c9b4]
+### 8. General[^c-aceeda7d61458c279016147acb31c9b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aceeda7d61458c279016147acb31c9b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aceeda7d61458c279016147acb31c9b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aceeda7d61458c279016147acb31c9b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/143) revoked (5.4.2013) by [The Identification and Traceability of Explosives Regulations (Northern Ireland) 2013 (S.R. 2013/48)](https://www.legislation.gov.uk/nisr/2013/48), [reg. 10(a)](https://www.legislation.gov.uk/nisr/2013/48/regulation/10/a) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/48/regulation/3), [9](https://www.legislation.gov.uk/nisr/2013/48/regulation/9))
+[^c-aceeda7d61458c279016147acb31c9b4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/143) revoked (5.4.2013) by [The Identification and Traceability of Explosives Regulations (Northern Ireland) 2013 (S.R. 2013/48)](https://www.legislation.gov.uk/nisr/2013/48), [reg. 10(a)](https://www.legislation.gov.uk/nisr/2013/48/regulation/10/a) (with [regs. 3](https://www.legislation.gov.uk/nisr/2013/48/regulation/3), [9](https://www.legislation.gov.uk/nisr/2013/48/regulation/9))

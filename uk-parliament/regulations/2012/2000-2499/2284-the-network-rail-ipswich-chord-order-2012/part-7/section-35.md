@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Procedure in relation to approvals etc. under requirements[^key-1a82bbda41f95236730302a2723a1ff1]
+## 35. Procedure in relation to approvals etc. under requirements[^c-1a82bbda41f95236730302a2723a1ff1]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where an application is made for any consent, agreement or approval required by 
 
 ## Annotations
 
-[^key-1a82bbda41f95236730302a2723a1ff1]: Commencement: Art. 35 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-1a82bbda41f95236730302a2723a1ff1]: Commencement: Art. 35 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

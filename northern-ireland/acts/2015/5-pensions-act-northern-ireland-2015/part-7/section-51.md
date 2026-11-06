@@ -35,8 +35,8 @@ summary: ''
 - (b) the first regulations under section 10,
 - (c) an order under section 50 that amends or repeals any relevant statutory provision,
 - (d) regulations under Schedule 17,
-- (e) regulations under paragraph 2 of Schedule 18 or regulations under paragraph 7 of that Schedule that amend any relevant statutory provision, [^key-d7f6a5d1231b34625b8b90a573e1a5bb]...
-- (f) the first regulations under paragraph 1 or 3 of that Schedule, or[^key-9b6b9309d3d32aaa8c4e329e63462bd8]
+- (e) regulations under paragraph 2 of Schedule 18 or regulations under paragraph 7 of that Schedule that amend any relevant statutory provision, [^c-d7f6a5d1231b34625b8b90a573e1a5bb]...
+- (f) the first regulations under paragraph 1 or 3 of that Schedule, or[^c-9b6b9309d3d32aaa8c4e329e63462bd8]
 - (g) the first regulations under paragraph 1 or 3 of that Schedule that make provision in relation to collective money purchase schemes within the meaning of Part 2 of the Pension Schemes Act 2021 (see section 52 of that Act).
 
 (5) In this section “**relevant statutory provision**” means a statutory provision contained in—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f6a5d1231b34625b8b90a573e1a5bb]: Textual amendment: Word in [s. 51(4)](https://www.legislation.gov.uk/nia/2015/5/section/51/4) omitted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/24); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
+[^c-d7f6a5d1231b34625b8b90a573e1a5bb]: Textual amendment: Word in [s. 51(4)](https://www.legislation.gov.uk/nia/2015/5/section/51/4) omitted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/24); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
 
-[^key-9b6b9309d3d32aaa8c4e329e63462bd8]: Textual amendment: [S. 51(4)(g)](https://www.legislation.gov.uk/nia/2015/5/section/51/4/g) and word inserted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/24); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
+[^c-9b6b9309d3d32aaa8c4e329e63462bd8]: Textual amendment: [S. 51(4)(g)](https://www.legislation.gov.uk/nia/2015/5/section/51/4/g) and word inserted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/24); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)

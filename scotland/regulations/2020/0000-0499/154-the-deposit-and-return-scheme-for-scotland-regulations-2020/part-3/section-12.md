@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Producer obligations: producers registered through a scheme administrator[^key-c4bd5077c4becc085ce42981b657c389]
+## 12. Producer obligations: producers registered through a scheme administrator[^c-c4bd5077c4becc085ce42981b657c389]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4bd5077c4becc085ce42981b657c389]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/154/regulation/12) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [13](https://www.legislation.gov.uk/ssi/2025/188/regulation/13)
+[^c-c4bd5077c4becc085ce42981b657c389]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/154/regulation/12) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [13](https://www.legislation.gov.uk/ssi/2025/188/regulation/13)

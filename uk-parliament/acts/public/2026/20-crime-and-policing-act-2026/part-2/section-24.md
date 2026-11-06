@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Failure to comply with content removal notice or decision notice: civil penalties[^key-58ccf4aa7b2dd8b1585cc02e020d75da]
+## 24. Failure to comply with content removal notice or decision notice: civil penalties[^c-58ccf4aa7b2dd8b1585cc02e020d75da]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58ccf4aa7b2dd8b1585cc02e020d75da]: Commencement: S. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-58ccf4aa7b2dd8b1585cc02e020d75da]: Commencement: S. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

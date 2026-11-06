@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.[^key-b019aacdb77cc66c597be3a40bfddb85]
+## 34.[^c-b019aacdb77cc66c597be3a40bfddb85]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 96A(1)(a) [^c23620951], for “under Article 13” substitute “ as 
 
 ## Annotations
 
-[^key-b019aacdb77cc66c597be3a40bfddb85]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b019aacdb77cc66c597be3a40bfddb85]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23620951]: Marginal citation: Section 96A was inserted by [S.I. 2016/248](https://www.legislation.gov.uk/uksi/2016/248).

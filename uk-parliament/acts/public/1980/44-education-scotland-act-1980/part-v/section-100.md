@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-9025bf38ba291dffd3f5643b32ebc76a] This section applies—
+(1)[^c-9025bf38ba291dffd3f5643b32ebc76a] This section applies—
 
 - (a) in a case where—
   - (i) a notice of complaint has been served under section 99(1) of this Act;
@@ -68,10 +68,10 @@ of the order.
 
 (3C) The proprietor of an independent school may not appeal against an order under subsection (2)(e) above disqualifying a teacher from being a teacher in any school.
 
-(4) Where by virtue of an order made under this Part of this Act[^key-5c9b7ad080f8663496ae3c287db0f070] any person is disqualified either from being the proprietor of an independent school or from being a teacher in any school, then, unless the order otherwise directs, that person shall, by virtue of the order, be disqualified both from being the proprietor of an independent school and from being a teacher in any school.
+(4) Where by virtue of an order made under this Part of this Act[^c-5c9b7ad080f8663496ae3c287db0f070] any person is disqualified either from being the proprietor of an independent school or from being a teacher in any school, then, unless the order otherwise directs, that person shall, by virtue of the order, be disqualified both from being the proprietor of an independent school and from being a teacher in any school.
 
 ## Annotations
 
-[^key-9025bf38ba291dffd3f5643b32ebc76a]: Textual amendment: S. 100(1)-(3C) substituted (31.12.2005) for s. 100(1)-(3) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 5(3)](https://www.legislation.gov.uk/asp/2004/12/section/5/3), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
+[^c-9025bf38ba291dffd3f5643b32ebc76a]: Textual amendment: S. 100(1)-(3C) substituted (31.12.2005) for s. 100(1)-(3) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 5(3)](https://www.legislation.gov.uk/asp/2004/12/section/5/3), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
 
-[^key-5c9b7ad080f8663496ae3c287db0f070]: Textual amendment: Words in s. 100(4) substituted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [s. 9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2), [sch. 1 para. 1(4)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/4); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/570/article/2/c) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
+[^c-5c9b7ad080f8663496ae3c287db0f070]: Textual amendment: Words in s. 100(4) substituted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [s. 9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2), [sch. 1 para. 1(4)](https://www.legislation.gov.uk/asp/2004/12/schedule/1/paragraph/1/4); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/570/article/2/c) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))

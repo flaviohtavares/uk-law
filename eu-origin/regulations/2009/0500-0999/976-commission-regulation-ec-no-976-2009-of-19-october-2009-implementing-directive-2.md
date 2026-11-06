@@ -59,13 +59,13 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Subject matter[^key-54216dfaca80910bb87881e814536869]
+## Article 1. Subject matter[^c-54216dfaca80910bb87881e814536869]
 
 This Regulation sets out the requirements for the establishment and maintenance of the Network Services provided for in regulation 7(2) of the INSPIRE Regulations 2009 and regulation 8(2) of the INSPIRE (Scotland) Regulations 2009 and obligations related to the availability of those Services to public authorities and third parties pursuant to regulation 8 of the INSPIRE Regulations 2009 and to Scottish public authorities and third parties pursuant to regulation 9 of the INSPIRE (Scotland) Regulations 2009.
 
 ## Article 2. Definitions
 
-For the purposes of this Regulation, the definitions set out in Part A of Annex 4[^key-429898ed30e2aae7474eab2bd3c782bf] to Commission Regulation (EC) No 1205/2008[^f00002] shall apply.
+For the purposes of this Regulation, the definitions set out in Part A of Annex 4[^c-429898ed30e2aae7474eab2bd3c782bf] to Commission Regulation (EC) No 1205/2008[^f00002] shall apply.
 
 The following definitions shall also apply:
 
@@ -73,7 +73,7 @@ The following definitions shall also apply:
 - 2.. ‘performance’ means the minimal level by which an objective is considered to be attained representing the fact how fast a request can be completed within an INSPIRE Network Service;
 - 3.. ‘capacity’ means limit of the number of simultaneous service requests provided with guaranteed performance;
 - 4.. ‘availability’ means probability that the Network Service is available;
-- 5.. ‘response time’ means the time measured at the appropriate authority's[^key-b476dc5eeea4031e3c1e753d821910c5] service location, in which the service operation returned the first byte of the result;
+- 5.. ‘response time’ means the time measured at the appropriate authority's[^c-b476dc5eeea4031e3c1e753d821910c5] service location, in which the service operation returned the first byte of the result;
 - 6.. ‘service request’ means a single request to a single operation of an INSPIRE Network Service;
 - 7.. ‘INSPIRE metadata element’ means a metadata element set out in Part B of[^c000001] Annex 4 to Regulation (EC) No 1205/2008 or in Part B of Annex V, Part B of Annex VI and Part B of Annex VII to Commission Regulation (EU) No 1089/2010[^f00003];
 - 8.. ‘publish’ means the operation to insert, delete or update INSPIRE metadata elements of resources in the Discovery Service;
@@ -81,7 +81,7 @@ The following definitions shall also apply:
 - 10.. ‘collect’ means an operation to pull INSPIRE metadata elements of resources from a source Discovery Service and to allow to create, delete or update the metadata of these resources in the target Discovery Service;
 - 11.. ‘layer’ means a basic unit of geographic information that may be requested as a map from a server in accordance with EN ISO 19128 ;[^c000002]
 - 12.. ‘Direct Access Download’ means a Download Service which provides access to the Spatial Objects in Spatial Data Sets based upon a query.[^c000003]
-- 13. “[^key-af060cf44c6ad0455479a286c9e0e6fd]**Appropriate authority**” means—
+- 13. “[^c-af060cf44c6ad0455479a286c9e0e6fd]**Appropriate authority**” means—
   - (i) in relation to England and Wales and Northern Ireland, the Secretary of State;
   - (ii) in relation to Scotland, the Scottish Ministers.
 
@@ -96,11 +96,11 @@ In addition, each type of the Network Services shall be in conformity with the f
 - ((c)) as concerns the Download Services, the applicable specific requirements and characteristics set out in Annexes I and IV;
 - ((d)) as concerns the Transformation Services, the applicable specific requirements and characteristics set out in Annexes I and V.
 
-## Article 4. Access to the Network Services[^key-f7ff53ba967abbedd82901b1c80481bd]
+## Article 4. Access to the Network Services[^c-f7ff53ba967abbedd82901b1c80481bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-d40a1f12279af9147d30a27790cf2ac7]
+## Article 5. Entry into force[^c-d40a1f12279af9147d30a27790cf2ac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -108,7 +108,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## ANNEX I — QUALITY OF SERVICE
 
-Third party network services linked pursuant to regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009[^key-bf776e35dc3b2ab85f13cffd91c21085] shall not be taken into account in the quality of service appraisal to avoid any deterioration which may result from cascading effects.
+Third party network services linked pursuant to regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009[^c-bf776e35dc3b2ab85f13cffd91c21085] shall not be taken into account in the quality of service appraisal to avoid any deterioration which may result from cascading effects.
 
 The following Quality of Service criteria relating to performance, capacity and availability shall apply.
 
@@ -152,7 +152,7 @@ PART A
 
 **Search criteria**
 
-In order to be in conformity with the minimum set of search criteria set out in regulation 7(3) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(3) of the INSPIRE (Scotland) Regulations 2009[^key-78fbc1528461f52dbab29d7758be9782], the Discovery Service shall support searching with the INSPIRE metadata elements listed in Table 1 of this Annex.
+In order to be in conformity with the minimum set of search criteria set out in regulation 7(3) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(3) of the INSPIRE (Scotland) Regulations 2009[^c-78fbc1528461f52dbab29d7758be9782], the Discovery Service shall support searching with the INSPIRE metadata elements listed in Table 1 of this Annex.
 
 *Table 1*
 
@@ -163,8 +163,8 @@ In order to be in conformity with the minimum set of search criteria set out in 
 | Classification of spatial data and services<br>(For spatial data services) | Spatial data service type |
 | The quality and validity of spatial data sets | Lineage |
 | The quality and validity of spatial data sets | Spatial resolution |
-| Degree of conformity with the implementing rules set out in Commission Regulation (EU) No. 1089/2010 (the “implementing rules”) or the INSPIRE Regulations; and for this purpose “[^key-e5b0e7a4ec308f7d0c5f579cf2c0bc9a]**INSPIRE Regulations**” means the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009 | Specification |
-| Degree of conformity with the implementing rules [^key-f0537810e05221c8d95d4d7496b74ed3]... | Degree |
+| Degree of conformity with the implementing rules set out in Commission Regulation (EU) No. 1089/2010 (the “implementing rules”) or the INSPIRE Regulations; and for this purpose “[^c-e5b0e7a4ec308f7d0c5f579cf2c0bc9a]**INSPIRE Regulations**” means the INSPIRE Regulations 2009 or, as the case may be, the INSPIRE (Scotland) Regulations 2009 | Specification |
+| Degree of conformity with the implementing rules [^c-f0537810e05221c8d95d4d7496b74ed3]... | Degree |
 | Geographical location | Geographic bounding box |
 | Conditions applying to the access to and use of spatial data sets and services | Conditions applying to access and use |
 | Conditions applying to the access to and use of spatial data sets and services | Limitations on public access |
@@ -197,7 +197,7 @@ PART B
 
 LIST OF OPERATIONS
 
-In order to be in conformity with regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009[^key-fddfc662d45156b0cec7069ae933f5f1], the Discovery Service shall provide the operations listed in Table 3 of this Annex.
+In order to be in conformity with regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009[^c-fddfc662d45156b0cec7069ae933f5f1], the Discovery Service shall provide the operations listed in Table 3 of this Annex.
 
 *Table 3*
 
@@ -206,14 +206,14 @@ In order to be in conformity with regulation 7(2) of the INSPIRE Regulations 200
 | Get Discovery Service Metadata | Provides all necessary information about the service and describes service capabilities |
 | Discover Metadata | The Discover Metadata operation allows requesting INSPIRE metadata elements of resources based on a query statement to be retrieved from the target Discovery Service |
 
-In order to be in conformity with regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009[^key-481b020ddfe8c2a684ab4c89ec2a6c2d], the Discovery Service shall support the operations listed in Table 4 of this Annex.
+In order to be in conformity with regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009[^c-481b020ddfe8c2a684ab4c89ec2a6c2d], the Discovery Service shall support the operations listed in Table 4 of this Annex.
 
 *Table 4*
 
 | Operation | Role |
 | --- | --- |
 | Publish Metadata | The Publish Metadata operation allows editing INSPIRE metadata elements of resources in the Discovery Service (push or pull metadata mechanisms). Editing meaning insert, update and delete |
-| Link Discovery Service | The Link Discovery Service function allows the declaration of the availability of a Discovery Service for the discovery of resources through the [^key-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service while maintaining the resource metadata at the owner location |
+| Link Discovery Service | The Link Discovery Service function allows the declaration of the availability of a Discovery Service for the discovery of resources through the [^c-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service while maintaining the resource metadata at the owner location |
 
 The request and response parameters of each operation complete the description of each operation and form an integral part of the Discovery Service technical specification.
 
@@ -307,7 +307,7 @@ PUBLISH METADATA OPERATION
 The Publish Metadata function enables the publication of the INSPIRE metadata elements of resources at the Discovery Service. Two alternatives are:
 
 - Push Mechanism: allowing editing of the INSPIRE metadata elements of resources accessible from the Discovery Service,
-- Pull Mechanism: allows the [^key-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service to pull INSPIRE metadata elements of resources from a remote location.
+- Pull Mechanism: allows the [^c-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service to pull INSPIRE metadata elements of resources from a remote location.
 
 At least one of the above alternatives shall be supported.
 
@@ -343,7 +343,7 @@ The Collect Metadata Request parameter provides all information about the remote
 
 LINK DISCOVERY SERVICE OPERATION
 
-The Link Discovery Service operation allows the declaration of the availability of a Discovery Service compliant with this Regulation, for the discovery of resources through the [^key-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service while maintaining the resource metadata at the owner location.
+The Link Discovery Service operation allows the declaration of the availability of a Discovery Service compliant with this Regulation, for the discovery of resources through the [^c-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service while maintaining the resource metadata at the owner location.
 
 5.1.
 
@@ -353,7 +353,7 @@ The Link Discovery Service operation allows the declaration of the availability 
 
 *Link Discovery Service Request parameter*
 
-The Link Discovery Service Request parameter shall provide all information about the Public Authority’s or Third Party’s Discovery Service compliant with this Regulation, enabling the [^key-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service to get resources metadata based on a combination of search criteria from the Public Authority’s or Third Party’s Discovery Service and to collate it with other resources metadata.
+The Link Discovery Service Request parameter shall provide all information about the Public Authority’s or Third Party’s Discovery Service compliant with this Regulation, enabling the [^c-cf7ecb3fda307ed89ff4b63a081f2988]... Discovery Service to get resources metadata based on a combination of search criteria from the Public Authority’s or Third Party’s Discovery Service and to collate it with other resources metadata.
 
 ## ANNEX III — VIEW SERVICES
 
@@ -365,7 +365,7 @@ PART A
 
 LIST OF OPERATIONS
 
-In order to be in conformity with regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009[^key-8a25aa7972cf35073561971f80c6081e], the View Service shall provide the operations listed in Table 1 of this Annex.
+In order to be in conformity with regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009[^c-8a25aa7972cf35073561971f80c6081e], the View Service shall provide the operations listed in Table 1 of this Annex.
 
 *Table 1*
 
@@ -374,13 +374,13 @@ In order to be in conformity with regulation 7(2) of the INSPIRE Regulations 200
 | Get View Service Metadata | Provides all necessary information about the service and describes service capabilities |
 | Get Map | Returns a map containing the geographic and thematic information coming from the available spatial datasets. This map is an image spatially referenced |
 
-In order to be in conformity with regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009[^key-b69d52c976a79a1c708b98f60a0e26bb], the view Service shall support the operations listed in Table 2 of this Annex.
+In order to be in conformity with regulation 8 of the INSPIRE Regulations 2009 or, as the case may be, regulation 9 of the INSPIRE (Scotland) Regulations 2009[^c-b69d52c976a79a1c708b98f60a0e26bb], the view Service shall support the operations listed in Table 2 of this Annex.
 
 *Table 2*
 
 | Operation | Role |
 | --- | --- |
-| Link View Service | Allows a Public Authority or a Third Party to declare a view Service for the viewing of its resources through the [^key-eae014ded1f45ab3078ea0eee748d266]... View Service while maintaining the viewing capability at the Public Authority or the Third party location |
+| Link View Service | Allows a Public Authority or a Third Party to declare a view Service for the viewing of its resources through the [^c-eae014ded1f45ab3078ea0eee748d266]... View Service while maintaining the viewing capability at the Public Authority or the Third party location |
 
 The request and response parameters of each operation complete the description of each operation and form an integral part of the View Service technical specification.
 
@@ -502,7 +502,7 @@ LINK VIEW SERVICE OPERATION
 
 *Link View Service Request parameter*
 
-The Link View Service parameter shall provide all information about the Public Authority’s or Third Party’s View Service compliant with this regulation, enabling the [^key-ae717062ba48226e66bf6005d09b8511]... View Service to get a map from the Public Authority’s or Third Party’s View Service and to collate it with other maps.
+The Link View Service parameter shall provide all information about the Public Authority’s or Third Party’s View Service compliant with this regulation, enabling the [^c-ae717062ba48226e66bf6005d09b8511]... View Service to get a map from the Public Authority’s or Third Party’s View Service and to collate it with other maps.
 
 PART B
 
@@ -514,7 +514,7 @@ The View Service shall have the following characteristics.
 
 Coordinate Reference Systems
 
-The layers shall be simultaneously viewed using a single coordinate reference system and the View Service shall support at least the Coordinate Reference Systems in paragraph 1 of Annex 1 to Regulation[^key-73dcada2b74584f678becbea07667aa4] [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205).
+The layers shall be simultaneously viewed using a single coordinate reference system and the View Service shall support at least the Coordinate Reference Systems in paragraph 1 of Annex 1 to Regulation[^c-73dcada2b74584f678becbea07667aa4] [(EC) No. 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205).
 
 2\.
 
@@ -535,7 +535,7 @@ PART A
 
 LIST OF OPERATIONS
 
-In order to be in conformity with regulation 7(2)(c) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(c) of the INSPIRE (Scotland) Regulations 2009[^key-c4d16c1eed213b5753258d79905bd1aa], the Download Service shall at least provide the operations listed in Table 1 of this Annex.
+In order to be in conformity with regulation 7(2)(c) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(c) of the INSPIRE (Scotland) Regulations 2009[^c-c4d16c1eed213b5753258d79905bd1aa], the Download Service shall at least provide the operations listed in Table 1 of this Annex.
 
 *Table 1*
 
@@ -544,7 +544,7 @@ In order to be in conformity with regulation 7(2)(c) of the INSPIRE Regulations 
 | Get Download Service Metadata | Provides all necessary information about the service, the available Spatial Data Sets, and describes the service capabilities. |
 | Get Spatial Data Set | The Get Spatial Data Set operation allows the retrieval of a Spatial Data Set. |
 | Describe Spatial Data Set | This operation returns the description of all the types of Spatial Objects contained in the Spatial Data Set. |
-| Link Download Service | Allows the declaration, by a Public Authority or a Third Party, of the availability of a Download Service for downloading Spatial Data Sets or, where practicable, Spatial Objects, through the [^key-58711cd63b802e0e9cda11ffece6d462]... Download Service while maintaining the downloading capability at the Public Authority or the Third Party location. |
+| Link Download Service | Allows the declaration, by a Public Authority or a Third Party, of the availability of a Download Service for downloading Spatial Data Sets or, where practicable, Spatial Objects, through the [^c-58711cd63b802e0e9cda11ffece6d462]... Download Service while maintaining the downloading capability at the Public Authority or the Third Party location. |
 
 The request and response parameters of each operation complete the description of each operation and form an integral part of the Download Service’s technical specifications.
 
@@ -681,7 +681,7 @@ The Describe Spatial Data Set response parameter shall be the description of the
 
 LINK DOWNLOAD SERVICE OPERATION
 
-The Link Download Service operation allows the declaration of the availability of a Download Service compliant with this Regulation, for the download of resources through the [^key-5e7f81bcdcefed2cde993ef3ec09f38d]... Download Service while maintaining the resources at the owner location.
+The Link Download Service operation allows the declaration of the availability of a Download Service compliant with this Regulation, for the download of resources through the [^c-5e7f81bcdcefed2cde993ef3ec09f38d]... Download Service while maintaining the resources at the owner location.
 
 5.1.
 
@@ -691,7 +691,7 @@ The Link Download Service operation allows the declaration of the availability o
 
 *Link Download Service request parameter*
 
-The Link Download Service request parameter shall provide all information about the Public Authority’s or Third Party’s Download Service compliant with this Regulation, enabling the [^key-6a1a9787897284e0d5f05797ccb9f3e2]... Download Service to provide access to Spatial Data Sets and, where practicable, to Spatial Objects from the Public Authority’s or Third Party’s Download Service.
+The Link Download Service request parameter shall provide all information about the Public Authority’s or Third Party’s Download Service compliant with this Regulation, enabling the [^c-6a1a9787897284e0d5f05797ccb9f3e2]... Download Service to provide access to Spatial Data Sets and, where practicable, to Spatial Objects from the Public Authority’s or Third Party’s Download Service.
 
 PART B
 
@@ -826,7 +826,7 @@ To allow for discovering spatial objects through a combination of search criteri
 
 LIST OF OPERATIONS
 
-In order to be in conformity with regulation 7(2)(d) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(d) of the INSPIRE (Scotland) Regulations 2009[^key-3f1c8ee8a6f309defafc5b5a6aa7533f], the Transformation Service shall provide the operations listed in Table 1 of this Annex.
+In order to be in conformity with regulation 7(2)(d) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(d) of the INSPIRE (Scotland) Regulations 2009[^c-3f1c8ee8a6f309defafc5b5a6aa7533f], the Transformation Service shall provide the operations listed in Table 1 of this Annex.
 
 *Table 1*
 
@@ -834,7 +834,7 @@ In order to be in conformity with regulation 7(2)(d) of the INSPIRE Regulations 
 | --- | --- |
 | Get Transformation Service Metadata | Provides all necessary information about the service and describes the service capabilities, including the supported transformation category, supported transformations, accepted input data types, supported model definition and mapping languages. |
 | Transform | Carries out the actual transformation process. |
-| Link Transformation Service | Allows the declaration of availability of a Transformation Service for Transforming Spatial Data Sets through the [^key-0d87d822fca8ebf082adc9fbd6fdd6b5]... Transformation Services while maintaining the Transformation capability at the Public Authority or the Third party location. |
+| Link Transformation Service | Allows the declaration of availability of a Transformation Service for Transforming Spatial Data Sets through the [^c-0d87d822fca8ebf082adc9fbd6fdd6b5]... Transformation Services while maintaining the Transformation capability at the Public Authority or the Third party location. |
 
 The request and response parameters of each operation complete the description of each operation and form an integral part of the Transformation Service’s technical specifications.
 
@@ -951,19 +951,19 @@ LINK TRANSFORMATION SERVICE OPERATION
 
 *Link Transformation Service request parameter*
 
-The Link Transformation Service request parameter shall provide all information about the Public Authority’s or Third Party’s Transformation Service in conformity with this Regulation, enabling the use of the Public Authority’s or Third Party’s Transformation Service by the [^key-48e05d1167b4f45358cb01b59e2047c2]... Transformation Service.
+The Link Transformation Service request parameter shall provide all information about the Public Authority’s or Third Party’s Transformation Service in conformity with this Regulation, enabling the use of the Public Authority’s or Third Party’s Transformation Service by the [^c-48e05d1167b4f45358cb01b59e2047c2]... Transformation Service.
 
 ## Annotations
 
 [^f00001]: Footnote: [OJ L 108, 25.4.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.108.01.0001.01.ENG).
 
-[^key-54216dfaca80910bb87881e814536869]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2009/976/article/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54216dfaca80910bb87881e814536869]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2009/976/article/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-429898ed30e2aae7474eab2bd3c782bf]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2009/976/article/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-429898ed30e2aae7474eab2bd3c782bf]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2009/976/article/2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: [OJ L 326, 4.12.2008, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.326.01.0012.01.ENG).
 
-[^key-b476dc5eeea4031e3c1e753d821910c5]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2009/976/article/2/5) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b476dc5eeea4031e3c1e753d821910c5]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2009/976/article/2/5) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(3)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 1311/2014 of 10 December 2014 amending Regulation (EC) No 976/2009 as regards the definition of an INSPIRE metadata element](https://www.legislation.gov.uk/eur/2014/1311).
 
@@ -973,46 +973,46 @@ The Link Transformation Service request parameter shall provide all information 
 
 [^c000003]: Textual amendment: Inserted by [Commission Regulation (EU) No 1088/2010 of 23 November 2010 amending Regulation (EC) No 976/2009 as regards download services and transformation services](https://www.legislation.gov.uk/eur/2010/1088).
 
-[^key-af060cf44c6ad0455479a286c9e0e6fd]: Textual amendment: [Art. 2(13)](https://www.legislation.gov.uk/eur/2009/976/article/2/13) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(3)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af060cf44c6ad0455479a286c9e0e6fd]: Textual amendment: [Art. 2(13)](https://www.legislation.gov.uk/eur/2009/976/article/2/13) inserted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(3)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7ff53ba967abbedd82901b1c80481bd]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2009/976/article/4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7ff53ba967abbedd82901b1c80481bd]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2009/976/article/4) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d40a1f12279af9147d30a27790cf2ac7]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2009/976/article/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d40a1f12279af9147d30a27790cf2ac7]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2009/976/article/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(4)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf776e35dc3b2ab85f13cffd91c21085]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2009/976/annex/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf776e35dc3b2ab85f13cffd91c21085]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2009/976/annex/1) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78fbc1528461f52dbab29d7758be9782]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78fbc1528461f52dbab29d7758be9782]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5b0e7a4ec308f7d0c5f579cf2c0bc9a]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/a/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5b0e7a4ec308f7d0c5f579cf2c0bc9a]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/a/ii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0537810e05221c8d95d4d7496b74ed3]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/A) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/a/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0537810e05221c8d95d4d7496b74ed3]: Textual amendment: Words in [Annex 2 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/A) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/a/ii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fddfc662d45156b0cec7069ae933f5f1]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/B) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fddfc662d45156b0cec7069ae933f5f1]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/B) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-481b020ddfe8c2a684ab4c89ec2a6c2d]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/B) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-481b020ddfe8c2a684ab4c89ec2a6c2d]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/B) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf7ecb3fda307ed89ff4b63a081f2988]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/B) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf7ecb3fda307ed89ff4b63a081f2988]: Textual amendment: Words in [Annex 2 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/2/part/B) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(6)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/6/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a25aa7972cf35073561971f80c6081e]: Textual amendment: Words in [Annex 3 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a25aa7972cf35073561971f80c6081e]: Textual amendment: Words in [Annex 3 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b69d52c976a79a1c708b98f60a0e26bb]: Textual amendment: Words in [Annex 3 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b69d52c976a79a1c708b98f60a0e26bb]: Textual amendment: Words in [Annex 3 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eae014ded1f45ab3078ea0eee748d266]: Textual amendment: Words in [Annex 3 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/A) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eae014ded1f45ab3078ea0eee748d266]: Textual amendment: Words in [Annex 3 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/A) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae717062ba48226e66bf6005d09b8511]: Textual amendment: Words in Annex 3 para. 4.1.1 omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae717062ba48226e66bf6005d09b8511]: Textual amendment: Words in Annex 3 para. 4.1.1 omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-73dcada2b74584f678becbea07667aa4]: Textual amendment: Words in [Annex 3 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/B) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73dcada2b74584f678becbea07667aa4]: Textual amendment: Words in [Annex 3 Pt. B](https://www.legislation.gov.uk/eur/2009/976/annex/3/part/B) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(7)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4d16c1eed213b5753258d79905bd1aa]: Textual amendment: Words in [Annex 4 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/4/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4d16c1eed213b5753258d79905bd1aa]: Textual amendment: Words in [Annex 4 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/4/part/A) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58711cd63b802e0e9cda11ffece6d462]: Textual amendment: Words in [Annex 4 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/4/part/A) omitted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58711cd63b802e0e9cda11ffece6d462]: Textual amendment: Words in [Annex 4 Pt. A](https://www.legislation.gov.uk/eur/2009/976/annex/4/part/A) omitted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e7f81bcdcefed2cde993ef3ec09f38d]: Textual amendment: Words in [Annex 4 para. 5](https://www.legislation.gov.uk/eur/2009/976/annex/4/paragraph/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e7f81bcdcefed2cde993ef3ec09f38d]: Textual amendment: Words in [Annex 4 para. 5](https://www.legislation.gov.uk/eur/2009/976/annex/4/paragraph/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a1a9787897284e0d5f05797ccb9f3e2]: Textual amendment: Words in [Annex 4 para. 5.1.1](https://www.legislation.gov.uk/eur/2009/976/annex/4/paragraph/5.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(d)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a1a9787897284e0d5f05797ccb9f3e2]: Textual amendment: Words in [Annex 4 para. 5.1.1](https://www.legislation.gov.uk/eur/2009/976/annex/4/paragraph/5.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(8)(d)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/8/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f1c8ee8a6f309defafc5b5a6aa7533f]: Textual amendment: Words in [Annex 5](https://www.legislation.gov.uk/eur/2009/976/annex/5) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(9)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f1c8ee8a6f309defafc5b5a6aa7533f]: Textual amendment: Words in [Annex 5](https://www.legislation.gov.uk/eur/2009/976/annex/5) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(9)(a)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d87d822fca8ebf082adc9fbd6fdd6b5]: Textual amendment: Words in [Annex 5](https://www.legislation.gov.uk/eur/2009/976/annex/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(9)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d87d822fca8ebf082adc9fbd6fdd6b5]: Textual amendment: Words in [Annex 5](https://www.legislation.gov.uk/eur/2009/976/annex/5) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(9)(b)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48e05d1167b4f45358cb01b59e2047c2]: Textual amendment: Words in [Annex 5 para. 4.1.1](https://www.legislation.gov.uk/eur/2009/976/annex/5/paragraph/4.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(9)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48e05d1167b4f45358cb01b59e2047c2]: Textual amendment: Words in [Annex 5 para. 4.1.1](https://www.legislation.gov.uk/eur/2009/976/annex/5/paragraph/4.1.1) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1338)](https://www.legislation.gov.uk/uksi/2018/1338), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1338/regulation/1), [12(9)(c)](https://www.legislation.gov.uk/uksi/2018/1338/regulation/12/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

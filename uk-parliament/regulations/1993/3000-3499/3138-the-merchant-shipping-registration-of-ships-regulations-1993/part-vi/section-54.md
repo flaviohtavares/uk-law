@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Re-marking of ship[^key-1bbae8eecd5021647b8044eaf7f7925d]
+## 54. Re-marking of ship[^c-1bbae8eecd5021647b8044eaf7f7925d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bbae8eecd5021647b8044eaf7f7925d]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1993/3138/regulation/54) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-1bbae8eecd5021647b8044eaf7f7925d]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1993/3138/regulation/54) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

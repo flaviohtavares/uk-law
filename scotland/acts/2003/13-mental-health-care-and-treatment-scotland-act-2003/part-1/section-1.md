@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Principles for discharging certain functions[^key-95f1bcde46bb06bf9bfcb686b35d7f52]
+## 1. Principles for discharging certain functions[^c-95f1bcde46bb06bf9bfcb686b35d7f52]
 
 *Extent: S*
 
@@ -59,7 +59,7 @@ the person shall discharge the function in the manner that appears to the person
 - (a) detention in hospital authorised by a certificate granted under section 36(1) of this Act (any such certificate being referred to in this Act as an “emergency detention certificate”);
 - (b) detention in hospital authorised by a certificate granted under section 44(1) of this Act (any such certificate being referred to in this Act as a “short-term detention certificate”);
 - (c) an order made under section 64(4)(a) of this Act (any such order being referred to in this Act as a “compulsory treatment order”); or
-- (d) an order made under section 57(2)(a) or 57A(2)[^key-1d677c969d01ce192161e91f06bda518] of the 1995 Act (any such order being referred to in this Act as a “compulsion order”),
+- (d) an order made under section 57(2)(a) or 57A(2)[^c-1d677c969d01ce192161e91f06bda518] of the 1995 Act (any such order being referred to in this Act as a “compulsion order”),
 
 the person who is discharging the function shall have regard to the importance of the provision of appropriate services to the person who is, or has been, subject to the certificate or order concerned (including, without prejudice to that generality, the provision of continuing care when the person is no longer subject to the certificate or order).
 
@@ -84,6 +84,6 @@ the person who is discharging the function shall have regard to the importance o
 
 ## Annotations
 
-[^key-95f1bcde46bb06bf9bfcb686b35d7f52]: Commencement: S. 1 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-95f1bcde46bb06bf9bfcb686b35d7f52]: Commencement: S. 1 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-1d677c969d01ce192161e91f06bda518]: Textual amendment: Words in [s. 1(6)(d)](https://www.legislation.gov.uk/asp/2003/13/section/1/6/d) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 53(4)](https://www.legislation.gov.uk/asp/2015/9/section/53/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-1d677c969d01ce192161e91f06bda518]: Textual amendment: Words in [s. 1(6)(d)](https://www.legislation.gov.uk/asp/2003/13/section/1/6/d) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 53(4)](https://www.legislation.gov.uk/asp/2015/9/section/53/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

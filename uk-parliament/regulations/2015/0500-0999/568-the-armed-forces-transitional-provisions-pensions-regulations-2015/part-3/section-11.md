@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of rule A.1 in Schedule 1 to the AFPS Order 2005[^key-f6372ad68e127191f1bac305e8e843f8]
+## 11. Amendment of rule A.1 in Schedule 1 to the AFPS Order 2005[^c-f6372ad68e127191f1bac305e8e843f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ Rule A.1(interpretation: general) in Schedule 1 to the AFPS Order 2005 is amende
 
 ## Annotations
 
-[^key-f6372ad68e127191f1bac305e8e843f8]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-f6372ad68e127191f1bac305e8e843f8]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).

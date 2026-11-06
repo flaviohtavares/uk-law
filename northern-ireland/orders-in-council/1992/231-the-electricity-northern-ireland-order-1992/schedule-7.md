@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — USE, ETC., OF ELECTRICITY METERS[^c20148551][^key-5f23059a554117c8b56adf091d616cd0]
+## SCHEDULE 7 — USE, ETC., OF ELECTRICITY METERS[^c20148551][^c-5f23059a554117c8b56adf091d616cd0]
 
 *Extent: N.I.*
 
@@ -241,7 +241,7 @@ he shall be guilty of an offence and shall be liable on summary conviction to a 
 
 [^c20148551]: Modification: [Sch. 7](https://www.legislation.gov.uk/nisi/1992/231/schedule/7) modified (30.10.2006) by [Measuring Instruments (Active Electrical Energy Meters) Regulations 2006 (S.I. 2006/1679)](https://www.legislation.gov.uk/uksi/2006/1679), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/1/3), [29(1)-(4)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/29/1) (with [reg. 27(1)(2)](https://www.legislation.gov.uk/uksi/2006/1679/regulation/27/1/2))
 
-[^key-5f23059a554117c8b56adf091d616cd0]: Modification: [Sch. 7](https://www.legislation.gov.uk/nisi/1992/231/schedule/7) modified (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 7(1)-(4)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/7/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-5f23059a554117c8b56adf091d616cd0]: Modification: [Sch. 7](https://www.legislation.gov.uk/nisi/1992/231/schedule/7) modified (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 7(1)-(4)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/7/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
 [^c17139641]: Textual amendment: [1992 NI 13](https://www.legislation.gov.uk/1992/ni13)
 

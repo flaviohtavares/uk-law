@@ -48,11 +48,11 @@ The Secretary of State, in exercise of the powers conferred by sections 88A(2), 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-9fe3623e134bd1e515a2ff92d29ee2db]
+### 1. Citation and commencement[^c-9fe3623e134bd1e515a2ff92d29ee2db]
 
 These Regulations may be cited as the Police Barred List and Police Advisory List Regulations 2017 and come into force on 15th December 2017.
 
-### 2. Interpretation[^key-b14c5347e6fad3bd10239a678f4031af]
+### 2. Interpretation[^c-b14c5347e6fad3bd10239a678f4031af]
 
 (1) In these Regulations—
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Police Barred List and Police Advisory Lis
   - (d) if paragraph (d) of section 88I(1) applies, P’s decision to stop volunteering as mentioned in that paragraph;
 - “relevant finding”, in relation to a person (“P”) whom the relevant authority is required to report to the College under section 88A(1)(b) or (d), means the finding by virtue of which that requirement applies;
 - “relevant time”, in relation to a person (“P”) whom the relevant authority is required to report to the College under section 88A(1) or 88I(1), means the time immediately before the relevant dismissal, the relevant event or the relevant finding (as the case may be);
-- “Standards of Professional Behaviour” has the same meaning as in the Police (Conduct) Regulations 2020[^key-5e59f5534e718fe3286cf495a5eed8ed];
+- “Standards of Professional Behaviour” has the same meaning as in the Police (Conduct) Regulations 2020[^c-5e59f5534e718fe3286cf495a5eed8ed];
 - “working day” means a day other than a Saturday or a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00006].
 
 (2) In these Regulations, and for the purposes of section 88A(4)(b), “disciplinary proceedings” in relation to a former civilian police employee (“P”) means any proceedings or management process during which P’s conduct while a civilian police employee is considered in order to determine whether a finding should be made that P would have been dismissed if P had still been such an employee.
@@ -90,7 +90,7 @@ These Regulations may be cited as the Police Barred List and Police Advisory Lis
 
 ## PART 2 — The Barred List
 
-### 3. Report by relevant authority to College under section 88A: timing and content[^key-97ae058c35384b1bd65455e7f7e3c48a]
+### 3. Report by relevant authority to College under section 88A: timing and content[^c-97ae058c35384b1bd65455e7f7e3c48a]
 
 (1) Where the relevant authority[^f00007] is required to report a person (“P”) to the College under section 88A(1), the authority must do so before the end of 5 working days beginning with—
 
@@ -118,11 +118,11 @@ These Regulations may be cited as the Police Barred List and Police Advisory Lis
 - (k) where the relevant authority was required to report P to the College under section 88I(1)(a) or (b), that fact, the date of the report and whether P resigned or retired;
 - (l) any information which the relevant authority considers it appropriate to include for the purpose of assisting the College in considering whether regulation 10(4) applies in relation to information contained the report.
 
-### 4. Information to be included in the police barred list[^key-c0e429fc64310dc6a94fed5a40eaeaaf]
+### 4. Information to be included in the police barred list[^c-c0e429fc64310dc6a94fed5a40eaeaaf]
 
 The information that must be included in the barred list in relation to a person reported to the College under section 88A(1) is the information contained in the report by virtue of regulation 3(2)(a) to (k).
 
-### 5. Further report by relevant authority to College under section 88F: timing and content[^key-0c51358af37465d7090019f842eca827]
+### 5. Further report by relevant authority to College under section 88F: timing and content[^c-0c51358af37465d7090019f842eca827]
 
 (1) Where the relevant authority is required to make a further report to the College under section 88F(2) in relation to a person (“P”), the relevant authority must do so before the end of 5 working days beginning with the date on which the removal condition is satisfied in relation to P.
 
@@ -142,7 +142,7 @@ The information that must be included in the barred list in relation to a person
 
 (4) For the purposes of paragraph (2)(e), “appeal proceedings” means any internal review or appeal during which a decision taken in disciplinary proceedings in relation to P is considered and may be set aside.
 
-### 6. Removal from barred list following review or appeal[^key-bdcca0c1b887ed499e9e3f88609970e1]
+### 6. Removal from barred list following review or appeal[^c-bdcca0c1b887ed499e9e3f88609970e1]
 
 (1) If regulation 5 does not apply, this regulation applies where—
 
@@ -162,7 +162,7 @@ The information that must be included in the barred list in relation to a person
 
 (4) On receipt of notice under paragraph (2) in relation to P, the College must remove P from the barred list.
 
-### 7. Removal from barred list on application of barred person[^key-a1b102ec00c6560476738899c6feee31]
+### 7. Removal from barred list on application of barred person[^c-a1b102ec00c6560476738899c6feee31]
 
 (1) Paragraph (2) applies where a person (“P”) has been included in the barred list for the relevant minimum period or longer.
 
@@ -202,10 +202,10 @@ The information that must be included in the barred list in relation to a person
 
 (11) For the purposes of paragraph (10), “gross incompetence”—
 
-- (a) where P is a police officer, has the meaning given in regulation 4 of the Police (Performance) Regulations 2020[^key-8b886ea7d64e101e3f62310f54e4bc63];
+- (a) where P is a police officer, has the meaning given in regulation 4 of the Police (Performance) Regulations 2020[^c-8b886ea7d64e101e3f62310f54e4bc63];
 - (b) where P is a civilian police employee, means a serious inability or serious failure of P to perform the duties of the role P is currently undertaking to a satisfactory standard or level (otherwise than by reason of P’s attendance), to the extent that dismissal would be justified.
 
-### 8. Automatic removal from the barred list[^key-2241298cacf901d1f92a45c29ae30dbb]
+### 8. Automatic removal from the barred list[^c-2241298cacf901d1f92a45c29ae30dbb]
 
 (1) A person (“P”) must be removed from the barred list if paragraphs (2) and (3) apply.
 
@@ -213,15 +213,15 @@ The information that must be included in the barred list in relation to a person
 
 (3) This paragraph applies if P has been included in the barred list for a period of at least twelve months.
 
-### 9. Removal from barred list on death[^key-177b766280d0f9e331ec990fd02de75e]
+### 9. Removal from barred list on death[^c-177b766280d0f9e331ec990fd02de75e]
 
 Where the College is satisfied that a person who is included in the barred list has died, the College must remove the person from the list.
 
-### 10. Publication of information in barred list[^key-73638b166680999e90b4d49a47825d83]
+### 10. Publication of information in barred list[^c-73638b166680999e90b4d49a47825d83]
 
 (1) Section 88G applies to any person who is included in the barred list by virtue of being reported under section 88A(1)(a) or (b) and—
 
-- (a) where the report was made under section 88A(1)(a), the person was dismissed at proceedings under the Police (Conduct) Regulations 2020[^key-e4b14a256e3f0e2397f1ca322c467930] (police officer dismissed on grounds of conduct); or
+- (a) where the report was made under section 88A(1)(a), the person was dismissed at proceedings under the Police (Conduct) Regulations 2020[^c-e4b14a256e3f0e2397f1ca322c467930] (police officer dismissed on grounds of conduct); or
 - (b) where the report was made under section 88A(1)(b), the relevant finding was made at proceedings under those Regulations (former police officer: finding of grounds for dismissal for conduct).
 
 (2) Subject to paragraph (4), the information included in the barred list which the College must publish in relation to a person (“P”) to whom section 88G applies is the information in relation to P mentioned in regulation 3(2)(a), (b), (d), (e)(i), (f)(i), (i) and (j) (“the specified information”).
@@ -241,11 +241,11 @@ Where the College is satisfied that a person who is included in the barred list 
 
 (6) If, after the College has decided not to publish specified information under paragraph (4), it becomes aware that the circumstances in paragraph (4) which led to that decision no longer apply, the College must publish the information in question.
 
-### 11. Review of publication[^key-4a4e123d381961188fec715a6f3c4c53]
+### 11. Review of publication[^c-4a4e123d381961188fec715a6f3c4c53]
 
 (1) This regulation applies where the specified information in relation to a person (“P”) who is included in the barred list is published by the College under section 88G.
 
-(2) The College must consider any matter which comes to its attention (including by way of representations made in a written statement under rule 26(7) of the Police Appeals Tribunals Rules 2020[^key-a040e467030e176218cb7975b5ad1b2c]) which may be relevant to the question of whether the continued publication of some or all of the specified information in relation to P—
+(2) The College must consider any matter which comes to its attention (including by way of representations made in a written statement under rule 26(7) of the Police Appeals Tribunals Rules 2020[^c-a040e467030e176218cb7975b5ad1b2c]) which may be relevant to the question of whether the continued publication of some or all of the specified information in relation to P—
 
 - (a) is against the interests of national security;
 - (b) might prejudice the investigation or prosecution of a criminal offence or any civil proceedings; or
@@ -268,7 +268,7 @@ Where the College is satisfied that a person who is included in the barred list 
 
 ## PART 3 — The Advisory List
 
-### 12. Report by relevant authority under section 88I: timing and content[^key-656c0596e69f380b8776e579ff569db4]
+### 12. Report by relevant authority under section 88I: timing and content[^c-656c0596e69f380b8776e579ff569db4]
 
 (1) Where the relevant authority[^f00013] is required to report a person (“P”) to the College under section 88I(1), the authority must do so before the end of 5 working days beginning with—
 
@@ -303,11 +303,11 @@ Where the College is satisfied that a person who is included in the barred list 
   - (iii) the date the relevant event came to the attention of the relevant authority;
   - (iv) a summary of the relevant allegation.
 
-### 13. Information to be included in the advisory list[^key-9d868b6e76dfc06f2cc820a8a8798dbb]
+### 13. Information to be included in the advisory list[^c-9d868b6e76dfc06f2cc820a8a8798dbb]
 
 The information that must be included in the advisory list in relation to a person reported to the College under section 88I is the information contained in the report by virtue of regulation 12(2).
 
-### 14. Further report by relevant authority to College under section 88L: timing and content[^key-382fece7be7ab99d75244aa8e168dca9]
+### 14. Further report by relevant authority to College under section 88L: timing and content[^c-382fece7be7ab99d75244aa8e168dca9]
 
 (1) Where the relevant authority is required to make a further report to the College under section 88L(2) in relation to a person (“P”), the relevant authority must do so before the end of 5 working days beginning with the date on which the removal condition is satisfied in relation to P.
 
@@ -323,7 +323,7 @@ The information that must be included in the advisory list in relation to a pers
 - (b) where paragraph (b) of section 88L(1) applies to P, when the proceedings mentioned in that paragraph are withdrawn;
 - (c) where paragraph (c) of section 88L(1) applies to P, when the proceedings mentioned in that paragraph are concluded as so mentioned.
 
-### 15. Removal from advisory list on application of listed person[^key-da0b938200723011fcaa22a1f74b0a48]
+### 15. Removal from advisory list on application of listed person[^c-da0b938200723011fcaa22a1f74b0a48]
 
 (1) Paragraph (2) applies where a person (“P”) has been included in the advisory list for 5 years or more.
 
@@ -350,7 +350,7 @@ The information that must be included in the advisory list in relation to a pers
 
 (8) The College must give P and the relevant authority notice of its decision on P’s application before the end of 5 working days beginning with the date of the decision.
 
-### 16. Automatic removal from the advisory list[^key-b17a88df08d10dea5d1c53e3b5e1bef5]
+### 16. Automatic removal from the advisory list[^c-b17a88df08d10dea5d1c53e3b5e1bef5]
 
 (1) A person (“P”) must be removed from the advisory list if paragraphs (2) and (3) apply.
 
@@ -358,7 +358,7 @@ The information that must be included in the advisory list in relation to a pers
 
 (3) This paragraph applies if P has been included in the advisory list for a period of at least five years.
 
-### 17. Removal from advisory list on death[^key-5a1f1e37a0e4b7d9206256c10e2f17a3]
+### 17. Removal from advisory list on death[^c-5a1f1e37a0e4b7d9206256c10e2f17a3]
 
 Where the College is satisfied that any person who is included in the advisory list has died, the College must remove the person from the list.
 
@@ -396,9 +396,9 @@ An impact assessment of the effect the Policing and Crime Act 2017, and the seco
 
 [^f00001]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Sections 88A to 88M were inserted by section 30 of, and Schedule 8 to, the Policing and Crime Act [2017 (c.3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-9fe3623e134bd1e515a2ff92d29ee2db]: Commencement: Reg. 1 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-9fe3623e134bd1e515a2ff92d29ee2db]: Commencement: Reg. 1 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-b14c5347e6fad3bd10239a678f4031af]: Commencement: Reg. 2 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-b14c5347e6fad3bd10239a678f4031af]: Commencement: Reg. 2 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
 [^f00002]: Footnote: “Police advisory list” is defined in section 88J of the Police Act 1996.
 
@@ -406,50 +406,50 @@ An impact assessment of the effect the Policing and Crime Act 2017, and the seco
 
 [^f00004]: Footnote: [2002 c.30](https://www.legislation.gov.uk/ukpga/2002/30). Section 38 was amended by section 38 of the Policing and Crime Act 2017. There are other amendments to section 38 which are not relevant for the purposes of these Regulations.
 
-[^key-5e59f5534e718fe3286cf495a5eed8ed]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/2/1) substituted (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [73(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/73/2) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-5e59f5534e718fe3286cf495a5eed8ed]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/2/1) substituted (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [73(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/73/2) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
 
 [^f00006]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). See section 1 of, and Schedule 1 to, that Act.
 
-[^key-97ae058c35384b1bd65455e7f7e3c48a]: Commencement: Reg. 3 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-97ae058c35384b1bd65455e7f7e3c48a]: Commencement: Reg. 3 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
 [^f00007]: Footnote: “Relevant authority” in relation to the police barred list, is defined in section 88A(3) of the Police Act 1996.
 
-[^key-c0e429fc64310dc6a94fed5a40eaeaaf]: Commencement: Reg. 4 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-c0e429fc64310dc6a94fed5a40eaeaaf]: Commencement: Reg. 4 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-0c51358af37465d7090019f842eca827]: Commencement: Reg. 5 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-0c51358af37465d7090019f842eca827]: Commencement: Reg. 5 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
 [^f00008]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Section 111 was amended by section 1 of the Employment Rights (Dispute Resolution) Act [1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8). There are other amendments to section 111 which are not relevant for the purposes of these Regulations.
 
-[^key-bdcca0c1b887ed499e9e3f88609970e1]: Commencement: Reg. 6 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-bdcca0c1b887ed499e9e3f88609970e1]: Commencement: Reg. 6 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-a1b102ec00c6560476738899c6feee31]: Commencement: Reg. 7 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-a1b102ec00c6560476738899c6feee31]: Commencement: Reg. 7 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
 [^f00009]: Footnote: Section 88C(5) was amended by section paragraph 65 of Schedule 9 to the Policing and Crime Act [2017 (c.3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-8b886ea7d64e101e3f62310f54e4bc63]: Textual amendment: Word in [reg. 7(11)(a)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/7/11/a) substituted (1.2.2020) by [The Police (Performance) Regulations 2020 (S.I. 2020/3)](https://www.legislation.gov.uk/uksi/2020/3), [regs. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1), [50](https://www.legislation.gov.uk/uksi/2020/3/regulation/50) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/3/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/3/2))
+[^c-8b886ea7d64e101e3f62310f54e4bc63]: Textual amendment: Word in [reg. 7(11)(a)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/7/11/a) substituted (1.2.2020) by [The Police (Performance) Regulations 2020 (S.I. 2020/3)](https://www.legislation.gov.uk/uksi/2020/3), [regs. 1](https://www.legislation.gov.uk/uksi/2020/3/regulation/1), [50](https://www.legislation.gov.uk/uksi/2020/3/regulation/50) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/3/regulation/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/3/regulation/3/2))
 
-[^key-2241298cacf901d1f92a45c29ae30dbb]: Commencement: Reg. 8 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-2241298cacf901d1f92a45c29ae30dbb]: Commencement: Reg. 8 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-177b766280d0f9e331ec990fd02de75e]: Commencement: Reg. 9 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-177b766280d0f9e331ec990fd02de75e]: Commencement: Reg. 9 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-73638b166680999e90b4d49a47825d83]: Commencement: Reg. 10 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-73638b166680999e90b4d49a47825d83]: Commencement: Reg. 10 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-e4b14a256e3f0e2397f1ca322c467930]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/10/1/a) substituted (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [73(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/73/2) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-e4b14a256e3f0e2397f1ca322c467930]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/10/1/a) substituted (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [73(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/73/2) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2), [4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
 
-[^key-4a4e123d381961188fec715a6f3c4c53]: Commencement: Reg. 11 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-4a4e123d381961188fec715a6f3c4c53]: Commencement: Reg. 11 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-a040e467030e176218cb7975b5ad1b2c]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/11/2) substituted (1.2.2020) by [The Police Appeals Tribunals Rules 2020 (S.I. 2020/1)](https://www.legislation.gov.uk/uksi/2020/1), [rules 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1), [27](https://www.legislation.gov.uk/uksi/2020/1/rule/27) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2020/1/rule/2/2))
+[^c-a040e467030e176218cb7975b5ad1b2c]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/2017/1135/regulation/11/2) substituted (1.2.2020) by [The Police Appeals Tribunals Rules 2020 (S.I. 2020/1)](https://www.legislation.gov.uk/uksi/2020/1), [rules 1](https://www.legislation.gov.uk/uksi/2020/1/rule/1), [27](https://www.legislation.gov.uk/uksi/2020/1/rule/27) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2020/1/rule/2/2))
 
-[^key-656c0596e69f380b8776e579ff569db4]: Commencement: Reg. 12 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-656c0596e69f380b8776e579ff569db4]: Commencement: Reg. 12 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
 [^f00013]: Footnote: “Relevant authority” is defined for the purposes of the police advisory list in section 88I(4) of the Police Act 1996.
 
-[^key-9d868b6e76dfc06f2cc820a8a8798dbb]: Commencement: Reg. 13 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-9d868b6e76dfc06f2cc820a8a8798dbb]: Commencement: Reg. 13 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-382fece7be7ab99d75244aa8e168dca9]: Commencement: Reg. 14 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-382fece7be7ab99d75244aa8e168dca9]: Commencement: Reg. 14 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-da0b938200723011fcaa22a1f74b0a48]: Commencement: Reg. 15 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-da0b938200723011fcaa22a1f74b0a48]: Commencement: Reg. 15 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-b17a88df08d10dea5d1c53e3b5e1bef5]: Commencement: Reg. 16 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-b17a88df08d10dea5d1c53e3b5e1bef5]: Commencement: Reg. 16 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
 
-[^key-5a1f1e37a0e4b7d9206256c10e2f17a3]: Commencement: Reg. 17 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)
+[^c-5a1f1e37a0e4b7d9206256c10e2f17a3]: Commencement: Reg. 17 in force at 15.12.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1135/regulation/1)

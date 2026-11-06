@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. How relief works[^key-db2f9051a0dc0fc5bf1107d6565c3d2e]
+## 153. How relief works[^c-db2f9051a0dc0fc5bf1107d6565c3d2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ This section explains how the deductions are to be made. The amount of the loss 
 
 *Step 1*
 
-Deduct the loss from the relevant[^key-b943d28def85b2665b6a95776a5d8152] miscellaneous income for the loss-making year.
+Deduct the loss from the relevant[^c-b943d28def85b2665b6a95776a5d8152] miscellaneous income for the loss-making year.
 
 *Step 2*
 
@@ -36,6 +36,6 @@ Continue to apply Step 2 in relation to relevant miscellaneous income for subseq
 
 ## Annotations
 
-[^key-db2f9051a0dc0fc5bf1107d6565c3d2e]: Modification: S. 153 modified (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 69(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/69/4)
+[^c-db2f9051a0dc0fc5bf1107d6565c3d2e]: Modification: S. 153 modified (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 69(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/69/4)
 
-[^key-b943d28def85b2665b6a95776a5d8152]: Textual amendment: Word in [s. 153](https://www.legislation.gov.uk/ukpga/2007/3/section/153) inserted (with effect and application in accordance with s. 22(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/22/3)
+[^c-b943d28def85b2665b6a95776a5d8152]: Textual amendment: Word in [s. 153](https://www.legislation.gov.uk/ukpga/2007/3/section/153) inserted (with effect and application in accordance with s. 22(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 22(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/22/3)

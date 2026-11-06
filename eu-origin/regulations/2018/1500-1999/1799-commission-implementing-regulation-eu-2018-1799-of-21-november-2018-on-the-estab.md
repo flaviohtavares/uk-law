@@ -35,141 +35,141 @@ on the establishment of a temporary direct statistical action for the disseminat
 
 (Text with EEA relevance) (revoked)
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 1. Subject matter[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 2. Definitions[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Technical specifications of the 1 km<sup>2</sup> reference grid[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 3. Technical specifications of the 1 km<sup>2</sup> reference grid[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Technical specifications of the 1 km<sup>2</sup> grid data topics and their breakdowns[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 4. Technical specifications of the 1 km<sup>2</sup> grid data topics and their breakdowns[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Programme of the 1 km<sup>2</sup> grid data[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 5. Programme of the 1 km<sup>2</sup> grid data[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Output harmonisation[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 6. Output harmonisation[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Metadata[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 7. Metadata[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Reference date[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 8. Reference date[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Data and metadata transmission date[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 9. Data and metadata transmission date[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Technical format for data and metadata transmission[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 10. Technical format for data and metadata transmission[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Quality requirements[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 11. Quality requirements[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Dissemination[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 12. Dissemination[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Entry into force[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## Article 13. Entry into force[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Technical specifications of the census topic breakdowns referred to in Article 4[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## ANNEX I — Technical specifications of the census topic breakdowns referred to in Article 4[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 The technical specifications of the breakdowns for the purpose of this Regulation of the census topics specified in the Annex of Regulation (EU) 2017/543 shall be presented as follows:
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 - Each topic selected for dissemination on the 1 km<sup>2</sup> reference grid is quoted with its heading from the Annex of Regulation (EU) 2017/543.
 - The technical specifications laid down in the Annex of Regulation (EU) 2017/543 referring to that topic in general shall apply.
 - Thereafter, the breakdown for that topic is specified.
 - All breakdowns are designed to break down any total or subtotal referring to persons.
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Place of usual residence**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Place of usual residence**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Sex**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Sex**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Age**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Age**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Current activity status (number of employed persons)**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Current activity status (number of employed persons)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Country/place of birth**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Country/place of birth**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Place of usual residence one year prior to the census**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Topic: Place of usual residence one year prior to the census**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Programme of the statistical census data geocoded to the 1 km<sup>2</sup> reference grid referred to in Article 5[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## ANNEX II — Programme of the statistical census data geocoded to the 1 km<sup>2</sup> reference grid referred to in Article 5[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Required metadata for the 1 km<sup>2</sup> grid data referred to in Article 7[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
+## ANNEX III — Required metadata for the 1 km<sup>2</sup> grid data referred to in Article 7[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Metadata on data items**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Metadata on data items**
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]1.
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]1.
 
 Where applicable, Member States shall add the following flags to a data item:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]2.
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]3.
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]4.
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]5.
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Metadata on the topics**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Metadata on the topics**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Reference metadata**
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]**Reference metadata**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e8d1e5cc9f577a0dbbeed0e1724f1a3b]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 98](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/98)
+[^c-e8d1e5cc9f577a0dbbeed0e1724f1a3b]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 98](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/98)

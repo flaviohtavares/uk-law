@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Areas of competence[^key-4bd5838fbc7f20d1b86db2dd1a8d5d44]
+## 2. Areas of competence[^c-4bd5838fbc7f20d1b86db2dd1a8d5d44]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ For the purposes of this Act, the subjects or subject referred to in each of the
 
 ## Annotations
 
-[^key-4bd5838fbc7f20d1b86db2dd1a8d5d44]: Commencement: S. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-4bd5838fbc7f20d1b86db2dd1a8d5d44]: Commencement: S. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

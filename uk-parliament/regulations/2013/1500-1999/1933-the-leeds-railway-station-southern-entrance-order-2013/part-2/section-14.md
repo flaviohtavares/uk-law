@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Protective works to buildings, roads and apparatus of a statutory undertaker[^key-0751484e006166c8d0487c481762ef12]
+## 14. Protective works to buildings, roads and apparatus of a statutory undertaker[^c-0751484e006166c8d0487c481762ef12]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ the promoter must compensate the owners and occupiers of the building or road or
 
 ## Annotations
 
-[^key-0751484e006166c8d0487c481762ef12]: Commencement: Art. 14 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-0751484e006166c8d0487c481762ef12]: Commencement: Art. 14 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

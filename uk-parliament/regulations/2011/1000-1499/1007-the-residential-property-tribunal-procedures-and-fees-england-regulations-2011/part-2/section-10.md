@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Urgent IMO authorisation applications[^key-3a2171332623b72aa2ab103b0e25c7d4]
+## 10. Urgent IMO authorisation applications[^c-3a2171332623b72aa2ab103b0e25c7d4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a2171332623b72aa2ab103b0e25c7d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/1007) revoked (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/49) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3a2171332623b72aa2ab103b0e25c7d4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/1007) revoked (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/49) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Arrangements where transitional conditions cease to be satisfied[^c2114369][^key-d3cf093dba253288f734be22cba5cd94]
+## 15. Arrangements where transitional conditions cease to be satisfied[^c2114369][^c-d3cf093dba253288f734be22cba5cd94]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c2114369]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-d3cf093dba253288f734be22cba5cd94]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/19/section/15) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/e)
+[^c-d3cf093dba253288f734be22cba5cd94]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/19/section/15) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/e)

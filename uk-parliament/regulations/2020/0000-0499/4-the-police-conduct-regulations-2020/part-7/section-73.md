@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Amendment of the Police Barred List and Police Advisory List Regulations 2017[^key-7a6a8ca2065e433a2608bdf3429e69e4]
+## 73. Amendment of the Police Barred List and Police Advisory List Regulations 2017[^c-7a6a8ca2065e433a2608bdf3429e69e4]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a6a8ca2065e433a2608bdf3429e69e4]: Commencement: Reg. 73 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-7a6a8ca2065e433a2608bdf3429e69e4]: Commencement: Reg. 73 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960901]: Marginal citation: [S.I. 2017/1135](https://www.legislation.gov.uk/uksi/2017/1135).

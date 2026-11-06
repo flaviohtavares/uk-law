@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Duty to consult local community[^key-3750916faf84569aee299379b38ccddb]
+## 47. Duty to consult local community[^c-3750916faf84569aee299379b38ccddb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3750916faf84569aee299379b38ccddb]: Textual amendment: S. 47 omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 5(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/5/e), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-3750916faf84569aee299379b38ccddb]: Textual amendment: S. 47 omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 5(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/5/e), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

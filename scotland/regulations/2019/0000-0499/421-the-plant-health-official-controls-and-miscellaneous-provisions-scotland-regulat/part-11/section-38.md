@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Failure to comply with requirements of notices etc.[^key-22cadcc543c5cb15180bc85196d62973]
+## 38. Failure to comply with requirements of notices etc.[^c-22cadcc543c5cb15180bc85196d62973]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ A person commits an offence if the person fails to comply with—
 
 ## Annotations
 
-[^key-22cadcc543c5cb15180bc85196d62973]: Commencement: Reg. 38 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-22cadcc543c5cb15180bc85196d62973]: Commencement: Reg. 38 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

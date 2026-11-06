@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Chapter “associate”—
 
-- (a) in relation to an individual, has the meaning given by section 448 of CTA 2010[^key-cd17d5048502a7761ee6f86f261e4a4c], subject to the following provisions of this section;
+- (a) in relation to an individual, has the meaning given by section 448 of CTA 2010[^c-cd17d5048502a7761ee6f86f261e4a4c], subject to the following provisions of this section;
 - (b) in relation to a company, means a person connected with the company; and
 - (c) in relation to a partnership, means any associate of a member of the partnership.
 
@@ -43,4 +43,4 @@ has at any time on or after 14th March 1989 been the beneficial owner of, or abl
 
 ## Annotations
 
-[^key-cd17d5048502a7761ee6f86f261e4a4c]: Textual amendment: Words in s. 60(1)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 381](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/381) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cd17d5048502a7761ee6f86f261e4a4c]: Textual amendment: Words in s. 60(1)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 381](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/381) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

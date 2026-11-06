@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Interpretation of this Part[^c2007859][^key-2f63049f306d3209fb25f32429017df2]
+## 115. Interpretation of this Part[^c2007859][^c-2f63049f306d3209fb25f32429017df2]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c2007859]: Commencement: S. 115 partly in force; s. 115 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-2f63049f306d3209fb25f32429017df2]: Commencement: S. 115 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-2f63049f306d3209fb25f32429017df2]: Commencement: S. 115 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Stopping up of public rights of way[^key-529d611c7a0006122c8daf3993ad47c4]
+## 14. Stopping up of public rights of way[^c-529d611c7a0006122c8daf3993ad47c4]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-529d611c7a0006122c8daf3993ad47c4]: Commencement: Art. 14 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-529d611c7a0006122c8daf3993ad47c4]: Commencement: Art. 14 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

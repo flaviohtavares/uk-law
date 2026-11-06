@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Qualification and entitlement for registration of a fishing vessel as a bareboat charter ship[^key-61a231a9488a1d32779fe2941031f373]
+## 74. Qualification and entitlement for registration of a fishing vessel as a bareboat charter ship[^c-61a231a9488a1d32779fe2941031f373]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61a231a9488a1d32779fe2941031f373]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1993/3138/regulation/74) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-61a231a9488a1d32779fe2941031f373]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/1993/3138/regulation/74) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

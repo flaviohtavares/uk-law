@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Method of notification and related matters[^key-17bbe4949d84fcebd417b506ed73140c]
+## 112. Method of notification and related matters[^c-17bbe4949d84fcebd417b506ed73140c]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ in order to verify the offender's identity.
 
 ## Annotations
 
-[^key-17bbe4949d84fcebd417b506ed73140c]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2008/4/section/112) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/o)
+[^c-17bbe4949d84fcebd417b506ed73140c]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2008/4/section/112) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/o)

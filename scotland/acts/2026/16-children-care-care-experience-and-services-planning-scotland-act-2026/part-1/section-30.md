@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Register of foster carers[^key-181a6ef4f289850b3d1bb862e1a7ffdc]
+## 30. Register of foster carers[^c-181a6ef4f289850b3d1bb862e1a7ffdc]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-181a6ef4f289850b3d1bb862e1a7ffdc]: Commencement: S. 30 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-181a6ef4f289850b3d1bb862e1a7ffdc]: Commencement: S. 30 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

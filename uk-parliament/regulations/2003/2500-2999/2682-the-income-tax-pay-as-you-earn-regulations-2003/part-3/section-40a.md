@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Duty of employee to assist with completion of new employee fields in returns under regulations 67B and 67D[^key-fa2cab21424204773a6914d018036e4e]
+## 40A. Duty of employee to assist with completion of new employee fields in returns under regulations 67B and 67D[^c-fa2cab21424204773a6914d018036e4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa2cab21424204773a6914d018036e4e]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/40A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2012/822/regulation/10)
+[^c-fa2cab21424204773a6914d018036e4e]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/40A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2012/822/regulation/10)

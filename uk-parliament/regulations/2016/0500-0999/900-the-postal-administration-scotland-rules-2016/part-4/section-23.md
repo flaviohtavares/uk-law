@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Suspension and adjournment[^key-56df40db3c870d717adbf19f3b5e4e78][^key-95a0bea0cc10520bfb79111de9c49c8d]
+## 23. Suspension and adjournment[^c-56df40db3c870d717adbf19f3b5e4e78][^c-95a0bea0cc10520bfb79111de9c49c8d]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56df40db3c870d717adbf19f3b5e4e78]: Commencement: Rule 23 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-56df40db3c870d717adbf19f3b5e4e78]: Commencement: Rule 23 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-95a0bea0cc10520bfb79111de9c49c8d]: Textual amendment: Word in [rule 23](https://www.legislation.gov.uk/uksi/2016/900/rule/23) heading substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(6)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/6)
+[^c-95a0bea0cc10520bfb79111de9c49c8d]: Textual amendment: Word in [rule 23](https://www.legislation.gov.uk/uksi/2016/900/rule/23) heading substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(6)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendment of regulation 29 (signing sheets endorsed by petition clerk)[^key-29e09e12aaa174d11efc9b43949a888e]
+## 77. Amendment of regulation 29 (signing sheets endorsed by petition clerk)[^c-29e09e12aaa174d11efc9b43949a888e]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ In regulation 29 (signing sheets endorsed by petition clerk), after paragraph (2
 
 ## Annotations
 
-[^key-29e09e12aaa174d11efc9b43949a888e]: Commencement: Reg. 77 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-29e09e12aaa174d11efc9b43949a888e]: Commencement: Reg. 77 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

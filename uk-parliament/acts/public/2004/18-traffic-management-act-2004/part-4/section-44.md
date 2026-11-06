@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Directions as to placing of apparatus[^key-bd5d9696490f1f2e2a6eea9f057f9734][^key-bb2b8a256cb46219adf2caa54f1347e2]
+## 44. Directions as to placing of apparatus[^c-bd5d9696490f1f2e2a6eea9f057f9734][^c-bb2b8a256cb46219adf2caa54f1347e2]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ In the 1991 Act, after section 56 there is inserted—
 
 ## Annotations
 
-[^key-bd5d9696490f1f2e2a6eea9f057f9734]: Commencement: S. 44 in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/1890/article/4))
+[^c-bd5d9696490f1f2e2a6eea9f057f9734]: Commencement: S. 44 in force at 29.6.2007 for specified purposes for E. and 1.4.2008 for E. in so far as not already in force by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/1890/article/4))
 
-[^key-bb2b8a256cb46219adf2caa54f1347e2]: Commencement: S. 44 in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-bb2b8a256cb46219adf2caa54f1347e2]: Commencement: S. 44 in force at 26.11.2007 for specified purposes for W. and 1.4.2008 for W. in so far as not already in force by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)

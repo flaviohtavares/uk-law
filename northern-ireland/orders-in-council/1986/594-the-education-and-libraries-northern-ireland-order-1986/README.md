@@ -38,7 +38,7 @@ The Education and Libraries (Northern Ireland) Order 1986 [^c17004581]
 - [Section 1 — Title and commencement](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### PART II — EDUCATION AND LIBRARY BOARDS AND COMMITTEES THEREOF[^key-cdf1cd20508970b9d3022c6d57799b5d]
+### PART II — EDUCATION AND LIBRARY BOARDS AND COMMITTEES THEREOF[^c-cdf1cd20508970b9d3022c6d57799b5d]
 
 *Extent: N.I.*
 
@@ -323,6 +323,6 @@ SCHEDULES
 
 [^c19585851]: Modification: Order ([S.I. 2006/1915 (N.I. 11)](https://www.legislation.gov.uk/nisi/2006/1915) construed as one with this Order (27.7.2006) by virtue of [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(3)(a)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/3/a), [2(3)](https://www.legislation.gov.uk/nisi/2006/1915/article/2/3)
 
-[^key-cdf1cd20508970b9d3022c6d57799b5d]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/nisi/1986/594/part/II) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-cdf1cd20508970b9d3022c6d57799b5d]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/nisi/1986/594/part/II) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c21386451]: Textual amendment: [Pt. VII](https://www.legislation.gov.uk/nisi/1986/594/part/VII) (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by [Libraries Act (Northern Ireland) 2008 (c. 8)](https://www.legislation.gov.uk/nia/2008/8), [ss. 10(2)](https://www.legislation.gov.uk/nia/2008/8/section/10/2), [12(2)](https://www.legislation.gov.uk/nia/2008/8/section/12/2), [Sch. 4](https://www.legislation.gov.uk/nia/2008/8/schedule/4); [S.R. 2009/123](https://www.legislation.gov.uk/nisr/2009/123), [art. 2(g)](https://www.legislation.gov.uk/nisr/2009/123/article/2/g)

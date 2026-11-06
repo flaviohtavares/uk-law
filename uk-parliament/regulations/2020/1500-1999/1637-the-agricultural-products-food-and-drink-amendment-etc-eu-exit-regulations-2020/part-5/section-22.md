@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Commission Delegated Regulation (EU) No 664/2014[^key-b49bbd5e5942ecc576d8039fc20eecd2]
+## 22. Commission Delegated Regulation (EU) No 664/2014[^c-b49bbd5e5942ecc576d8039fc20eecd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b49bbd5e5942ecc576d8039fc20eecd2]: Commencement: Reg. 22 in force at 31.12.2020, see reg. 1(7)
+[^c-b49bbd5e5942ecc576d8039fc20eecd2]: Commencement: Reg. 22 in force at 31.12.2020, see reg. 1(7)

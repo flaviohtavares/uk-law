@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Approval of sentencing guidelines by High Court[^key-49600a44e81748bf076b7c50a0fc52e9]
+## 5. Approval of sentencing guidelines by High Court[^c-49600a44e81748bf076b7c50a0fc52e9]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ the Court must state its reasons for doing so.
 
 ## Annotations
 
-[^key-49600a44e81748bf076b7c50a0fc52e9]: Commencement: S. 5 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-49600a44e81748bf076b7c50a0fc52e9]: Commencement: S. 5 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

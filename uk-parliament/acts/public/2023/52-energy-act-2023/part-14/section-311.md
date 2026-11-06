@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Civil nuclear industry: amendment of relevant nuclear pension schemes[^key-97b7997000919ea8baaa9dbecf3b154f]
+## 311. Civil nuclear industry: amendment of relevant nuclear pension schemes[^c-97b7997000919ea8baaa9dbecf3b154f]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ as are considered appropriate by the designated person (acting on actuarial advi
 
 ## Annotations
 
-[^key-97b7997000919ea8baaa9dbecf3b154f]: Commencement: S. 311 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-97b7997000919ea8baaa9dbecf3b154f]: Commencement: S. 311 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

@@ -49,7 +49,7 @@ Section 163(2)
 
 ### Other gains to be brought into Schedule 4C pool
 
-**3.**[^key-3e4a587e4bd9760a0ea4b99bdf9f6e54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3e4a587e4bd9760a0ea4b99bdf9f6e54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Attribution of gains to beneficiaries
 
@@ -157,15 +157,15 @@ Section 163(2)
 
 ### Gains attributed to settlor
 
-**5.**[^key-068b756d179d52e415878c4265253c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-068b756d179d52e415878c4265253c22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Minor and consequential amendments
 
 **6.** (1) In paragraph 10(1) for “of the transferor settlement, or of any transferee settlement,” substitute “ of any relevant settlement ”.
 
-(2)[^key-e840d9f6ce855254aa1ca0927de733a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e840d9f6ce855254aa1ca0927de733a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7bff804aa0a41396cc9ed8e8a45376d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7bff804aa0a41396cc9ed8e8a45376d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After paragraph 13 insert—
 
@@ -177,10 +177,10 @@ Section 163(2)
 
 ## Annotations
 
-[^key-3e4a587e4bd9760a0ea4b99bdf9f6e54]: Textual amendment: Sch. 29 para. 3 omitted (with effect in accordance with Sch. 7 para. 147 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/146) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))
+[^c-3e4a587e4bd9760a0ea4b99bdf9f6e54]: Textual amendment: Sch. 29 para. 3 omitted (with effect in accordance with Sch. 7 para. 147 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/146) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))
 
-[^key-068b756d179d52e415878c4265253c22]: Textual amendment: Sch. 29 para. 5 omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(f)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/f/ii)
+[^c-068b756d179d52e415878c4265253c22]: Textual amendment: Sch. 29 para. 5 omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(f)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/f/ii)
 
-[^key-e840d9f6ce855254aa1ca0927de733a2]: Textual amendment: Sch. 29 para. 6(2) omitted (with effect in accordance with Sch. 7 para. 147 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/146) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))
+[^c-e840d9f6ce855254aa1ca0927de733a2]: Textual amendment: Sch. 29 para. 6(2) omitted (with effect in accordance with Sch. 7 para. 147 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/146) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))
 
-[^key-7bff804aa0a41396cc9ed8e8a45376d8]: Textual amendment: Sch. 29 para. 6(3) omitted (with effect in accordance with Sch. 7 para. 147 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/146) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))
+[^c-7bff804aa0a41396cc9ed8e8a45376d8]: Textual amendment: Sch. 29 para. 6(3) omitted (with effect in accordance with Sch. 7 para. 147 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 146](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/146) (with [Sch. 7 para. 155](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/155))

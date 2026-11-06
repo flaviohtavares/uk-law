@@ -53,7 +53,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 1 — Introduction
 
-### 1. Title and coming into force[^key-75c56fff0aaa2d85ec16ca94fecfc3df]
+### 1. Title and coming into force[^c-75c56fff0aaa2d85ec16ca94fecfc3df]
 
 (1) The title of these Regulations is the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021.
 
@@ -66,7 +66,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 - (c) regulation 31 (duty to make petition schemes);
 - (d) regulation 32 (duty to encourage participation of local people).
 
-### 2. Interpretation[^key-fdfe252b88410d265af22d1c7ceeff7a]
+### 2. Interpretation[^c-fdfe252b88410d265af22d1c7ceeff7a]
 
 In these Regulations—
 
@@ -88,7 +88,7 @@ In these Regulations—
 
 ### Chief executive officer
 
-#### 3. Duty to appoint chief executive officer[^key-a0b428049810aa4756af9a528f80079a]
+#### 3. Duty to appoint chief executive officer[^c-a0b428049810aa4756af9a528f80079a]
 
 (1) A corporate joint committee must appoint a chief executive.
 
@@ -117,13 +117,13 @@ In these Regulations—
 
 (7) Regulation 13 (arrangements for the discharge of functions) does not apply to the duty imposed on a corporate joint committee by paragraph (5).
 
-#### 4. ...[^key-f89e7c2e73fe1a8a42f1eb6d48df44cb][^key-f89e7c2e73fe1a8a42f1eb6d48df44cb]
+#### 4. ...[^c-f89e7c2e73fe1a8a42f1eb6d48df44cb][^c-f89e7c2e73fe1a8a42f1eb6d48df44cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chief finance officer
 
-#### 5. Duty to appoint chief finance officer[^key-267e5c7ce32f33d44dbe756e0d35f7b0]
+#### 5. Duty to appoint chief finance officer[^c-267e5c7ce32f33d44dbe756e0d35f7b0]
 
 (1) Section 151 of the 1972 Act (local authority duty to appoint officer with responsibility for financial administration) is amended as follows.
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 > (2) This section applies to a corporate joint committee as it applies to a local authority.
 
-#### 6. Reporting functions of chief finance officer[^key-a153fdcc863c57a07e1d6f7f61d7512d]
+#### 6. Reporting functions of chief finance officer[^c-a153fdcc863c57a07e1d6f7f61d7512d]
 
 (1) The 1988 Act is amended as follows.
 
@@ -148,7 +148,7 @@ In these Regulations—
 
 ### Monitoring officer
 
-#### 7. Designation and reports of monitoring officer[^key-9c181477225752f128e81fc03f4b24bc]
+#### 7. Designation and reports of monitoring officer[^c-9c181477225752f128e81fc03f4b24bc]
 
 (1) Section 5 of the 1989 Act (designation and reports of monitoring officer) is amended as follows.
 
@@ -164,7 +164,7 @@ In these Regulations—
 
 (5) In subsection (8), in the definition of “relevant authority”, after “below” insert “, a corporate joint committee,”.
 
-#### 8. Support and advice functions of monitoring officer[^key-bf161d8c5d4e17572fbfca53d225db0d]
+#### 8. Support and advice functions of monitoring officer[^c-bf161d8c5d4e17572fbfca53d225db0d]
 
 (1) The monitoring officer designated by a corporate joint committee under section 5 of the 1989 Act must provide support and advice to—
 
@@ -181,7 +181,7 @@ In these Regulations—
 
 ## PART 3 — General provisions in relation to staff
 
-### 9. References to “proper officer” in the 1972 Act and other enactments[^key-242dcec0232edee6ecb2b3d8a44460fe]
+### 9. References to “proper officer” in the 1972 Act and other enactments[^c-242dcec0232edee6ecb2b3d8a44460fe]
 
 (1) Where an enactment relates to the administration of a corporate joint committee or the exercise of its functions, any references in that enactment to an “officer” of the corporate joint committee are to be construed as references to a member of staff of the corporate joint committee, including a person treated as a member of staff by virtue of paragraph 11(2) of the Schedule to each of the establishment Regulations.
 
@@ -189,7 +189,7 @@ In these Regulations—
 
 (3) In section 21(3) of the 1989 Act (interpretation of Part 1), in the definition of “proper officer”, in paragraph (a), after “Wales” insert “or a corporate joint committee”.
 
-### 10. Disqualification and political restriction of certain officers and staff[^key-d902c5f99a9944b3ed4afe168b2f3b28]
+### 10. Disqualification and political restriction of certain officers and staff[^c-d902c5f99a9944b3ed4afe168b2f3b28]
 
 (1) The 1989 Act is amended as follows.
 
@@ -246,7 +246,7 @@ In these Regulations—
 
   > (9) In this section a reference to a local authority includes a reference to a corporate joint committee.
 
-### 11. Duty to adopt standing orders with respect to staff.[^key-0c4b469490762bc4cb273d227a70fb16]
+### 11. Duty to adopt standing orders with respect to staff.[^c-0c4b469490762bc4cb273d227a70fb16]
 
 In section 8 of the 1989 Act (duty of relevant authorities to adopt standing orders with respect to staff), in subsection (5), after paragraph (a), insert—
 
@@ -254,7 +254,7 @@ In section 8 of the 1989 Act (duty of relevant authorities to adopt standing ord
 
 .
 
-### 12. Pay accountability[^key-10718c1e2d1e540cfd8eaafbbe4b2f96]
+### 12. Pay accountability[^c-10718c1e2d1e540cfd8eaafbbe4b2f96]
 
 (1) In the 2011 Act, in Part 1—
 
@@ -273,7 +273,7 @@ In section 8 of the 1989 Act (duty of relevant authorities to adopt standing ord
 
 ## PART 4 — Functions
 
-### 13. Discharge of functions by other persons[^key-87d75e26703c3cd715cceac395de1038][^key-976659c78a0732ce9fa01933989db1dc][^key-6b8abf270203c0b45640627640d2b931][^key-56e37d6de21bf3417a1e32956e1c95c0][^key-27205dbd53480d728d6ab28e92216845][^key-03543bf43a887f1071be2a454a64013a][^key-5342836bf89f3c3729da869217f360a9][^key-38bb76bcd6fb78eaf27c8da3c0953f99][^key-b4686444467ca44edc05819729c2d84c]
+### 13. Discharge of functions by other persons[^c-87d75e26703c3cd715cceac395de1038][^c-976659c78a0732ce9fa01933989db1dc][^c-6b8abf270203c0b45640627640d2b931][^c-56e37d6de21bf3417a1e32956e1c95c0][^c-27205dbd53480d728d6ab28e92216845][^c-03543bf43a887f1071be2a454a64013a][^c-5342836bf89f3c3729da869217f360a9][^c-38bb76bcd6fb78eaf27c8da3c0953f99][^c-b4686444467ca44edc05819729c2d84c]
 
 (1) Subject to any express provision contained in these Regulations or any other enactment, a corporate joint committee may arrange for the discharge of any of its functions by—
 
@@ -315,7 +315,7 @@ referred to in that paragraph (whether in pursuance of arrangements under paragr
 
 ### Sub-committees
 
-#### 14. Sub-committees[^key-ac1c4cca8c20a3e77d115f02a33465da]
+#### 14. Sub-committees[^c-ac1c4cca8c20a3e77d115f02a33465da]
 
 (1) A corporate joint committee may appoint one or more sub-committees—
 
@@ -330,7 +330,7 @@ referred to in that paragraph (whether in pursuance of arrangements under paragr
 
 ## PART 5 — Meetings and proceedings
 
-### 15. Validity of proceedings[^key-130bbe216992ce8e26fd5ab89c2996c2]
+### 15. Validity of proceedings[^c-130bbe216992ce8e26fd5ab89c2996c2]
 
 (1) The proceedings of a corporate joint committee or a sub-committee of a corporate joint committee are not invalidated by—
 
@@ -342,7 +342,7 @@ referred to in that paragraph (whether in pursuance of arrangements under paragr
 - (a) the composition of the corporate joint committee or the sub-committee of the corporate joint committee;
 - (b) the composition of the meeting, including requirements as to the meeting being quorate.
 
-### 16. Location of meetings and admission of public and press[^key-18567936ad4919dc8a4524917149415e]
+### 16. Location of meetings and admission of public and press[^c-18567936ad4919dc8a4524917149415e]
 
 (1) A CJC meeting may be held—
 
@@ -379,7 +379,7 @@ referred to in that paragraph (whether in pursuance of arrangements under paragr
 
 (10) This regulation is without prejudice to any power of exclusion to suppress or prevent disorderly conduct or other misbehaviour at a meeting.
 
-### 17. Notice of meetings and summons to attend[^key-533d77e75ef8c75faf77b504cd52f25f]
+### 17. Notice of meetings and summons to attend[^c-533d77e75ef8c75faf77b504cd52f25f]
 
 (1) A corporate joint committee must give public notice of a CJC meeting—
 
@@ -420,7 +420,7 @@ referred to in that paragraph (whether in pursuance of arrangements under paragr
 
 no business may be transacted at a CJC meeting other than the business specified in the summons relating to the meeting (and see also regulation 18(6)).
 
-### 18. Access to agenda and connected reports[^key-d53e87db595608415453d370a3565d86]
+### 18. Access to agenda and connected reports[^c-d53e87db595608415453d370a3565d86]
 
 (1) Copies of the agenda for a CJC meeting and copies of any report for the meeting must—
 
@@ -467,7 +467,7 @@ the corporate joint committee must make available for the use of members of the 
 
 (10) Paragraph (2) applies in relation to copies of reports provided under paragraph (8) or (9) as it applies in relation to copies of reports published under paragraph (1).
 
-### 19. Minutes[^key-80a4235a8c207d5f72173ae5a80c49a3]
+### 19. Minutes[^c-80a4235a8c207d5f72173ae5a80c49a3]
 
 (1) The names of the members of a corporate joint committee present at a CJC meeting must be recorded.
 
@@ -484,7 +484,7 @@ the corporate joint committee must make available for the use of members of the 
 
 (6) For the purposes of paragraph (3) the next suitable CJC meeting is the next following meeting or, where standing orders provide for another meeting to be regarded as suitable, either the next following meeting or that other meeting.
 
-### 20. Publication of minutes and other documents after meetings[^key-03e8f51d983676b38aaec6f6c73c6422]
+### 20. Publication of minutes and other documents after meetings[^c-03e8f51d983676b38aaec6f6c73c6422]
 
 (1) After a CJC meeting the corporate joint committee must—
 
@@ -506,7 +506,7 @@ the corporate joint committee must make available for the use of members of the 
 
 (4) Where, in consequence of the exclusion of material which discloses exempt information, the documents published under paragraph (1)(a) and (3)(c) do not provide members of the public with a reasonably fair and coherent record of the whole or part of the proceedings, a proper officer must make a written summary of the proceedings or the part, as the case may be, which provides such a record without disclosing the exempt information.
 
-### 21. Publication of background papers[^key-dfe742dc8fc783d86a336b64f9e2a48b]
+### 21. Publication of background papers[^c-dfe742dc8fc783d86a336b64f9e2a48b]
 
 (1) If and so long as copies of the whole or part of a report for a CJC meeting are required by regulation 18(1) or 20(1) to be published electronically—
 
@@ -530,7 +530,7 @@ the corporate joint committee must make available for the use of members of the 
 
 but do not include any published works.
 
-### 22. Application to meetings of sub-committees[^key-2957bdb0f80666871237e806698e04a6]
+### 22. Application to meetings of sub-committees[^c-2957bdb0f80666871237e806698e04a6]
 
 (1) Regulations 16 to 21 apply to a meeting of a sub-committee of a corporate joint committee as they apply to a meeting of a corporate joint committee.
 
@@ -542,7 +542,7 @@ but do not include any published works.
 
 (3) In the application of regulations 17 to 20 to a meeting of a sub-committee, references to a member of a corporate joint committee are to be read as references to a member of the sub-committee.
 
-### 23. Additional rights of access to documents for members of corporate joint committees and members of principal councils etc.[^key-731efd7bc04e73f941d6cd51d76ea372]
+### 23. Additional rights of access to documents for members of corporate joint committees and members of principal councils etc.[^c-731efd7bc04e73f941d6cd51d76ea372]
 
 (1) Any document which is in the possession or under the control of a corporate joint committee and contains material relating to any business to be transacted at a CJC meeting or a meeting of a sub-committee of the corporate joint committee must, subject to paragraphs (2) and (3), be open to inspection at all reasonable hours and free of charge by—
 
@@ -570,7 +570,7 @@ upon payment to the corporate joint committee of such reasonable fee as may be r
 
 (7) For the purposes of paragraph (1)(b), “senior executive member” has the meaning given by section 77(4) of the 2021 Act.
 
-### 24. Publication of additional information[^key-cadc42a2be9c005622e47dafc1054357]
+### 24. Publication of additional information[^c-cadc42a2be9c005622e47dafc1054357]
 
 (1) A corporate joint committee must maintain a register stating—
 
@@ -599,7 +599,7 @@ which are for the time being conferred by this Part and the establishment Regula
 
 (5) A corporate joint committee must make arrangements to send a copy of any information published under paragraph (4) on request to any member of the public as soon as is reasonably practicable after a copy is requested.
 
-### 25. Supplemental provisions[^key-145b6c76c12d905fcdf883bff8fc169a]
+### 25. Supplemental provisions[^c-145b6c76c12d905fcdf883bff8fc169a]
 
 (1) Provisions in this Part which require the publication of documents by a corporate joint committee do not require or authorise the doing of any act which infringes the copyright in any work except that, where the owner of the copyright is the corporate joint committee, nothing done in pursuance of those provisions constitutes an infringement of the copyright.
 
@@ -626,7 +626,7 @@ the publication thereby of any defamatory material contained in the document is 
 
 (6) The rights conferred by this Part to inspect, copy and be furnished with documents are in addition, and without prejudice, to any such rights conferred by or under any other enactment.
 
-### 26. Exempt information[^key-d40c05a0367625cdfa87b4a4d52269ac]
+### 26. Exempt information[^c-d40c05a0367625cdfa87b4a4d52269ac]
 
 (1) The descriptions of information which are, for the purposes of this Part, exempt information are those for the time being specified in Part 4 of Schedule 12A to the 1972 Act as modified in its application to this Part by paragraph (2) subject to any qualifications contained in Part 5 of that Schedule as so modified.
 
@@ -637,7 +637,7 @@ the publication thereby of any defamatory material contained in the document is 
 > - (a) in the case of a corporate joint committee, to any sub-committee of the corporate joint committee, and
 > - (b) in the case of a sub-committee, to the corporate joint committee of which it is a sub-committee.
 
-### 27. Electronic broadcasts of meetings[^key-02cfc7abe34661558fd549c25a68f8c4]
+### 27. Electronic broadcasts of meetings[^c-02cfc7abe34661558fd549c25a68f8c4]
 
 In section 46 of the 2021 Act (electronic broadcasts of meetings of certain local authorities), after subsection (7) insert—
 
@@ -648,7 +648,7 @@ In section 46 of the 2021 Act (electronic broadcasts of meetings of certain loca
 >
 >   > - (b) a sub-committee of a corporate joint committee.
 
-### 28. Remote attendance at meetings[^key-a31c2990ba8536250cc0702415ea78a0]
+### 28. Remote attendance at meetings[^c-a31c2990ba8536250cc0702415ea78a0]
 
 In section 47 of the 2021 Act (attendance at local authority meetings), in subsection (6), in the definition of “local authority”, after paragraph (a) insert—
 
@@ -656,13 +656,13 @@ In section 47 of the 2021 Act (attendance at local authority meetings), in subse
 
 .
 
-### 29. Publicity for meetings to consider reports or recommendations from the Auditor General for Wales[^key-ca3df2b9809745e4db89259424f062fb]
+### 29. Publicity for meetings to consider reports or recommendations from the Auditor General for Wales[^c-ca3df2b9809745e4db89259424f062fb]
 
 In section 26(3A) of the Public Audit (Wales) Act 2004[^f00012], after paragraph (b) insert—
 
 > - (ba) a corporate joint committee;
 
-### 30. Interpretation[^key-835634d9852d41d29d4b6ac971b2787e]
+### 30. Interpretation[^c-835634d9852d41d29d4b6ac971b2787e]
 
 (1) In this Part—
 
@@ -690,13 +690,13 @@ In section 26(3A) of the Public Audit (Wales) Act 2004[^f00012], after paragraph
 
 ### Petition schemes
 
-#### 31. Petition schemes[^key-59f3bbb5d3251e135e8a75e05c23bcc6]
+#### 31. Petition schemes[^c-59f3bbb5d3251e135e8a75e05c23bcc6]
 
 In section 42 of the 2021 Act (duty to make petition scheme), after subsection (4) insert—
 
 > (5) This section applies to a corporate joint committee as it applies to a principal council and references in subsections (1) to (4) to a principal council are to be construed accordingly.
 
-#### 32. Duty to encourage local people to participate in decision-making[^key-c329db934f970ca57839a847de05552b]
+#### 32. Duty to encourage local people to participate in decision-making[^c-c329db934f970ca57839a847de05552b]
 
 In section 39 of the 2021 Act (duty to encourage local people to participate in decision-making), after subsection (2) insert—
 
@@ -704,7 +704,7 @@ In section 39 of the 2021 Act (duty to encourage local people to participate in 
 
 ### Merger applications
 
-#### 33. Consultation before merger applications made by principal councils[^key-6472e46e0a1d2dd483870a81c705334a]
+#### 33. Consultation before merger applications made by principal councils[^c-6472e46e0a1d2dd483870a81c705334a]
 
 In section 122 of the 2021 Act (consultation before making merger application), after subsection (1)(g) insert—
 
@@ -716,7 +716,7 @@ In section 122 of the 2021 Act (consultation before making merger application), 
 
 ### Miscellaneous amendments to the establishment Regulations
 
-#### 34. The Mid Wales Corporate Joint Committee Regulations 2021[^key-78fe5bb331d8ffa3025eda6789a0b5f5]
+#### 34. The Mid Wales Corporate Joint Committee Regulations 2021[^c-78fe5bb331d8ffa3025eda6789a0b5f5]
 
 (1) The Mid Wales Corporate Joint Committee Regulations 2021[^f00013] are amended as follows.
 
@@ -866,7 +866,7 @@ In section 122 of the 2021 Act (consultation before making merger application), 
   ;
 - (d) omit sub-paragraph (3).
 
-#### 35. The North Wales Corporate Joint Committee Regulations 2021[^key-c7f7bff3df6454d1c4d519a2e800f215]
+#### 35. The North Wales Corporate Joint Committee Regulations 2021[^c-c7f7bff3df6454d1c4d519a2e800f215]
 
 (1) The North Wales Corporate Joint Committee Regulations 2021[^f00014] are amended as follows.
 
@@ -1015,7 +1015,7 @@ In section 122 of the 2021 Act (consultation before making merger application), 
   ;
 - (c) omit sub-paragraph (3).
 
-#### 36. The South East Wales Corporate Joint Committee Regulations 2021[^key-bfba4cae1b9b10bf9ef2af95425fbda2]
+#### 36. The South East Wales Corporate Joint Committee Regulations 2021[^c-bfba4cae1b9b10bf9ef2af95425fbda2]
 
 (1) The South East Wales Corporate Joint Committee Regulations 2021[^f00015] are amended as follows.
 
@@ -1164,7 +1164,7 @@ In section 122 of the 2021 Act (consultation before making merger application), 
   ;
 - (c) omit sub-paragraph (3).
 
-#### 37. The South West Wales Corporate Joint Committee Regulations 2021[^key-050d0cea21aaf02d7d42c71b0ceae035]
+#### 37. The South West Wales Corporate Joint Committee Regulations 2021[^c-050d0cea21aaf02d7d42c71b0ceae035]
 
 (1) The South West Wales Corporate Joint Committee Regulations 2021[^f00016] are amended as follows.
 
@@ -1317,13 +1317,13 @@ In section 122 of the 2021 Act (consultation before making merger application), 
   ;
 - (c) omit sub-paragraph (3).
 
-#### 38. Local Government Act 1972[^key-bbc77ac7a11488fb3b7530b5b8965136]
+#### 38. Local Government Act 1972[^c-bbc77ac7a11488fb3b7530b5b8965136]
 
 In section 270 of the 1972 Act, in subsection (1), after the definition of “Common Council” insert—
 
 > - “corporate joint committee” means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
 
-#### 39. Local Government Finance Act 1988[^key-876bb842a3d4fadfb3d57cb886ccabef]
+#### 39. Local Government Finance Act 1988[^c-876bb842a3d4fadfb3d57cb886ccabef]
 
 In section 111 of the 1988 Act (interpretation)—
 
@@ -1336,19 +1336,19 @@ In section 111 of the 1988 Act (interpretation)—
 
   > (3D) In this Part “corporate joint committee” means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.
 
-#### 40. Local Government and Housing Act 1989[^key-267f0cb1d9f22d4eb81cc803d843d6be]
+#### 40. Local Government and Housing Act 1989[^c-267f0cb1d9f22d4eb81cc803d843d6be]
 
 In section 21 of the 1989 Act (interpretation of Part 1), in subsection (3), at the appropriate place, insert—
 
 > - “corporate joint committee” means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
 
-#### 41. Local Government (Wales) Measure 2011[^key-850c7d424426ca228db85045ec3dbf68]
+#### 41. Local Government (Wales) Measure 2011[^c-850c7d424426ca228db85045ec3dbf68]
 
 In section 175 of the 2011 Measure (interpretation), before the definition of “enactment” insert—
 
 > - “corporate joint committee” (“*cyd-bwyllgor corfforedig*”) means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
 
-#### 42. The Local Government and Elections (Wales) Act 2021[^key-29862412b2b3119b4772dc2e010e5b1e]
+#### 42. The Local Government and Elections (Wales) Act 2021[^c-29862412b2b3119b4772dc2e010e5b1e]
 
 (1) The 2021 Act is amended as follows.
 
@@ -1388,7 +1388,7 @@ In section 175 of the 2011 Measure (interpretation), before the definition of �
   >   - (i) section 54 of the Local Government and Elections (Wales) Act 2021 (chief executive of council in Wales), or
   >   - (ii) regulations made under Part 5 of that Act (chief executive of a corporate joint committee).
 
-#### 43. The Corporate Joint Committees (General) (Wales) Regulations 2021[^key-4225fc2549a95cdad79efe2f0000a50f]
+#### 43. The Corporate Joint Committees (General) (Wales) Regulations 2021[^c-4225fc2549a95cdad79efe2f0000a50f]
 
 (1) The Corporate Joint Committees (General) (Wales) Regulations 2021 [^f00017] are amended as follows.
 
@@ -1431,9 +1431,9 @@ These Regulations are connected with the regulations which established certain c
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-75c56fff0aaa2d85ec16ca94fecfc3df]: Commencement: Reg. 1 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-75c56fff0aaa2d85ec16ca94fecfc3df]: Commencement: Reg. 1 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-fdfe252b88410d265af22d1c7ceeff7a]: Commencement: Reg. 2 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-fdfe252b88410d265af22d1c7ceeff7a]: Commencement: Reg. 2 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -1453,114 +1453,114 @@ These Regulations are connected with the regulations which established certain c
 
 [^f00010]: Footnote: [S.I. 2021/352 (W. 104)](https://www.legislation.gov.uk/wsi/2021/352).
 
-[^key-a0b428049810aa4756af9a528f80079a]: Commencement: Reg. 3 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-a0b428049810aa4756af9a528f80079a]: Commencement: Reg. 3 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-f89e7c2e73fe1a8a42f1eb6d48df44cb]: Textual amendment: [Reg. 4 and heading](https://www.legislation.gov.uk/wsi/2021/1349/part/2/crossheading/chief-executive-officer) omitted (1.4.2025) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/286/regulation/4)
+[^c-f89e7c2e73fe1a8a42f1eb6d48df44cb]: Textual amendment: [Reg. 4 and heading](https://www.legislation.gov.uk/wsi/2021/1349/part/2/crossheading/chief-executive-officer) omitted (1.4.2025) by virtue of [The Elections and Elected Bodies (Wales) Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/286)](https://www.legislation.gov.uk/wsi/2025/286), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/286/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2025/286/regulation/4)
 
-[^key-267e5c7ce32f33d44dbe756e0d35f7b0]: Commencement: Reg. 5 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-267e5c7ce32f33d44dbe756e0d35f7b0]: Commencement: Reg. 5 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-a153fdcc863c57a07e1d6f7f61d7512d]: Commencement: Reg. 6 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-a153fdcc863c57a07e1d6f7f61d7512d]: Commencement: Reg. 6 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-9c181477225752f128e81fc03f4b24bc]: Commencement: Reg. 7 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-9c181477225752f128e81fc03f4b24bc]: Commencement: Reg. 7 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-bf161d8c5d4e17572fbfca53d225db0d]: Commencement: Reg. 8 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-bf161d8c5d4e17572fbfca53d225db0d]: Commencement: Reg. 8 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-242dcec0232edee6ecb2b3d8a44460fe]: Commencement: Reg. 9 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-242dcec0232edee6ecb2b3d8a44460fe]: Commencement: Reg. 9 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-d902c5f99a9944b3ed4afe168b2f3b28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/1349/regulation/10) in force at 6.5.2022, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/a)
+[^c-d902c5f99a9944b3ed4afe168b2f3b28]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/1349/regulation/10) in force at 6.5.2022, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/a)
 
-[^key-0c4b469490762bc4cb273d227a70fb16]: Commencement: Reg. 11 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-0c4b469490762bc4cb273d227a70fb16]: Commencement: Reg. 11 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-10718c1e2d1e540cfd8eaafbbe4b2f96]: Commencement: Reg. 12 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-10718c1e2d1e540cfd8eaafbbe4b2f96]: Commencement: Reg. 12 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-87d75e26703c3cd715cceac395de1038]: Commencement: Reg. 13 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-87d75e26703c3cd715cceac395de1038]: Commencement: Reg. 13 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-976659c78a0732ce9fa01933989db1dc]: Modification: Reg. 13 excluded (3.12.2021) by [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42), [s. 5(5A)](https://www.legislation.gov.uk/ukpga/1989/42/section/5/5A) (as inserted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/7/4))
+[^c-976659c78a0732ce9fa01933989db1dc]: Modification: Reg. 13 excluded (3.12.2021) by [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42), [s. 5(5A)](https://www.legislation.gov.uk/ukpga/1989/42/section/5/5A) (as inserted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/7/4))
 
-[^key-6b8abf270203c0b45640627640d2b931]: Modification: Reg. 13 excluded (3.12.2021) by [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20), [s. 42(2A)](https://www.legislation.gov.uk/ukpga/2011/20/section/42/2A) (as inserted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/12/1/b))
+[^c-6b8abf270203c0b45640627640d2b931]: Modification: Reg. 13 excluded (3.12.2021) by [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20), [s. 42(2A)](https://www.legislation.gov.uk/ukpga/2011/20/section/42/2A) (as inserted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/12/1/b))
 
-[^key-56e37d6de21bf3417a1e32956e1c95c0]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/352](https://www.legislation.gov.uk/uksi/2021/352), [reg. 15](https://www.legislation.gov.uk/uksi/2021/352/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [37(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/37/7))
+[^c-56e37d6de21bf3417a1e32956e1c95c0]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/352](https://www.legislation.gov.uk/uksi/2021/352), [reg. 15](https://www.legislation.gov.uk/uksi/2021/352/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [37(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/37/7))
 
-[^key-27205dbd53480d728d6ab28e92216845]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/343](https://www.legislation.gov.uk/uksi/2021/343), [reg. 15](https://www.legislation.gov.uk/uksi/2021/343/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [36(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/36/7))
+[^c-27205dbd53480d728d6ab28e92216845]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/343](https://www.legislation.gov.uk/uksi/2021/343), [reg. 15](https://www.legislation.gov.uk/uksi/2021/343/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [36(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/36/7))
 
-[^key-03543bf43a887f1071be2a454a64013a]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/339](https://www.legislation.gov.uk/uksi/2021/339), [reg. 15](https://www.legislation.gov.uk/uksi/2021/339/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [35(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/35/7))
+[^c-03543bf43a887f1071be2a454a64013a]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/339](https://www.legislation.gov.uk/uksi/2021/339), [reg. 15](https://www.legislation.gov.uk/uksi/2021/339/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [35(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/35/7))
 
-[^key-5342836bf89f3c3729da869217f360a9]: Modification: Reg. 13 excluded (3.12.2021) by [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41), [s. 115(4B)](https://www.legislation.gov.uk/ukpga/1988/41/section/115/4B) (as inserted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/6/3))
+[^c-5342836bf89f3c3729da869217f360a9]: Modification: Reg. 13 excluded (3.12.2021) by [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41), [s. 115(4B)](https://www.legislation.gov.uk/ukpga/1988/41/section/115/4B) (as inserted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/6/3))
 
-[^key-38bb76bcd6fb78eaf27c8da3c0953f99]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/342](https://www.legislation.gov.uk/uksi/2021/342), [reg. 15](https://www.legislation.gov.uk/uksi/2021/342/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [34(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/34/7))
+[^c-38bb76bcd6fb78eaf27c8da3c0953f99]: Modification: Reg. 13 excluded (3.12.2021) by [S.I. 2021/342](https://www.legislation.gov.uk/uksi/2021/342), [reg. 15](https://www.legislation.gov.uk/uksi/2021/342/regulation/15) (as substituted by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [34(7)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/34/7))
 
-[^key-b4686444467ca44edc05819729c2d84c]: Modification: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/1349/regulation/13) excluded (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [9(4)](https://www.legislation.gov.uk/wsi/2022/797/regulation/9/4)
+[^c-b4686444467ca44edc05819729c2d84c]: Modification: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/1349/regulation/13) excluded (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [9(4)](https://www.legislation.gov.uk/wsi/2022/797/regulation/9/4)
 
 [^f00011]: Footnote: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
 
-[^key-ac1c4cca8c20a3e77d115f02a33465da]: Commencement: Reg. 14 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-ac1c4cca8c20a3e77d115f02a33465da]: Commencement: Reg. 14 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-130bbe216992ce8e26fd5ab89c2996c2]: Commencement: Reg. 15 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-130bbe216992ce8e26fd5ab89c2996c2]: Commencement: Reg. 15 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-18567936ad4919dc8a4524917149415e]: Commencement: Reg. 16 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-18567936ad4919dc8a4524917149415e]: Commencement: Reg. 16 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-533d77e75ef8c75faf77b504cd52f25f]: Commencement: Reg. 17 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-533d77e75ef8c75faf77b504cd52f25f]: Commencement: Reg. 17 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-d53e87db595608415453d370a3565d86]: Commencement: Reg. 18 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-d53e87db595608415453d370a3565d86]: Commencement: Reg. 18 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-80a4235a8c207d5f72173ae5a80c49a3]: Commencement: Reg. 19 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-80a4235a8c207d5f72173ae5a80c49a3]: Commencement: Reg. 19 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-03e8f51d983676b38aaec6f6c73c6422]: Commencement: Reg. 20 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-03e8f51d983676b38aaec6f6c73c6422]: Commencement: Reg. 20 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-dfe742dc8fc783d86a336b64f9e2a48b]: Commencement: Reg. 21 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-dfe742dc8fc783d86a336b64f9e2a48b]: Commencement: Reg. 21 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-2957bdb0f80666871237e806698e04a6]: Commencement: Reg. 22 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-2957bdb0f80666871237e806698e04a6]: Commencement: Reg. 22 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-731efd7bc04e73f941d6cd51d76ea372]: Commencement: Reg. 23 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-731efd7bc04e73f941d6cd51d76ea372]: Commencement: Reg. 23 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-cadc42a2be9c005622e47dafc1054357]: Commencement: Reg. 24 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-cadc42a2be9c005622e47dafc1054357]: Commencement: Reg. 24 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-145b6c76c12d905fcdf883bff8fc169a]: Commencement: Reg. 25 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-145b6c76c12d905fcdf883bff8fc169a]: Commencement: Reg. 25 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-d40c05a0367625cdfa87b4a4d52269ac]: Commencement: Reg. 26 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-d40c05a0367625cdfa87b4a4d52269ac]: Commencement: Reg. 26 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-02cfc7abe34661558fd549c25a68f8c4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/1349/regulation/27) in force at 6.5.2022, see [reg. 1(3)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/b)
+[^c-02cfc7abe34661558fd549c25a68f8c4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/1349/regulation/27) in force at 6.5.2022, see [reg. 1(3)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/b)
 
-[^key-a31c2990ba8536250cc0702415ea78a0]: Commencement: Reg. 28 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-a31c2990ba8536250cc0702415ea78a0]: Commencement: Reg. 28 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-ca3df2b9809745e4db89259424f062fb]: Commencement: Reg. 29 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-ca3df2b9809745e4db89259424f062fb]: Commencement: Reg. 29 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00012]: Footnote: [2004 c. 23](https://www.legislation.gov.uk/ukpga/2004/23).
 
-[^key-835634d9852d41d29d4b6ac971b2787e]: Commencement: Reg. 30 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-835634d9852d41d29d4b6ac971b2787e]: Commencement: Reg. 30 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-59f3bbb5d3251e135e8a75e05c23bcc6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/1349/regulation/31) in force at 6.5.2022, see [reg. 1(3)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/c)
+[^c-59f3bbb5d3251e135e8a75e05c23bcc6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/1349/regulation/31) in force at 6.5.2022, see [reg. 1(3)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/c)
 
-[^key-c329db934f970ca57839a847de05552b]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2021/1349/regulation/32) in force at 6.5.2022, see [reg. 1(3)(d)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/d)
+[^c-c329db934f970ca57839a847de05552b]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2021/1349/regulation/32) in force at 6.5.2022, see [reg. 1(3)(d)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/3/d)
 
-[^key-6472e46e0a1d2dd483870a81c705334a]: Commencement: Reg. 33 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-6472e46e0a1d2dd483870a81c705334a]: Commencement: Reg. 33 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-78fe5bb331d8ffa3025eda6789a0b5f5]: Commencement: Reg. 34 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-78fe5bb331d8ffa3025eda6789a0b5f5]: Commencement: Reg. 34 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2021/342 (W. 96)](https://www.legislation.gov.uk/wsi/2021/342).
 
-[^key-c7f7bff3df6454d1c4d519a2e800f215]: Commencement: Reg. 35 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-c7f7bff3df6454d1c4d519a2e800f215]: Commencement: Reg. 35 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2021/339 (W. 93)](https://www.legislation.gov.uk/wsi/2021/339).
 
-[^key-bfba4cae1b9b10bf9ef2af95425fbda2]: Commencement: Reg. 36 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-bfba4cae1b9b10bf9ef2af95425fbda2]: Commencement: Reg. 36 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2021/343 (W. 97)](https://www.legislation.gov.uk/wsi/2021/343).
 
-[^key-050d0cea21aaf02d7d42c71b0ceae035]: Commencement: Reg. 37 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-050d0cea21aaf02d7d42c71b0ceae035]: Commencement: Reg. 37 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2021/352 (W. 104)](https://www.legislation.gov.uk/wsi/2021/352).
 
-[^key-bbc77ac7a11488fb3b7530b5b8965136]: Commencement: Reg. 38 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-bbc77ac7a11488fb3b7530b5b8965136]: Commencement: Reg. 38 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-876bb842a3d4fadfb3d57cb886ccabef]: Commencement: Reg. 39 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-876bb842a3d4fadfb3d57cb886ccabef]: Commencement: Reg. 39 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-267f0cb1d9f22d4eb81cc803d843d6be]: Commencement: Reg. 40 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-267f0cb1d9f22d4eb81cc803d843d6be]: Commencement: Reg. 40 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-850c7d424426ca228db85045ec3dbf68]: Commencement: Reg. 41 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-850c7d424426ca228db85045ec3dbf68]: Commencement: Reg. 41 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-29862412b2b3119b4772dc2e010e5b1e]: Commencement: Reg. 42 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-29862412b2b3119b4772dc2e010e5b1e]: Commencement: Reg. 42 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
-[^key-4225fc2549a95cdad79efe2f0000a50f]: Commencement: Reg. 43 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
+[^c-4225fc2549a95cdad79efe2f0000a50f]: Commencement: Reg. 43 in force at 3.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2021/327 (W. 85)](https://www.legislation.gov.uk/wsi/2021/327).

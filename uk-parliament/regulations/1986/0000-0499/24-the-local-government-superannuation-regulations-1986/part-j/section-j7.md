@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J7. Compound interest on certain sums[^key-16852679158f914ad77420a2dc392567]
+## J7. Compound interest on certain sums[^c-16852679158f914ad77420a2dc392567]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Compound interest under regulations C14(3)(b), J2(3)(e)(iii) and J6(1)(d)(ii) an
 
 ## Annotations
 
-[^key-16852679158f914ad77420a2dc392567]: Commencement: [Reg. J7](https://www.legislation.gov.uk/uksi/1986/24/regulation/J7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-16852679158f914ad77420a2dc392567]: Commencement: [Reg. J7](https://www.legislation.gov.uk/uksi/1986/24/regulation/J7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

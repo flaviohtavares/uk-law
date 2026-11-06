@@ -48,18 +48,18 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation and commencement[^key-dd19f30d6d985f9012405750cdc69fae]
+## 1. Citation and commencement[^c-dd19f30d6d985f9012405750cdc69fae]
 
 These Regulations may be cited as the M1 Motorway (Junctions 25 to 28) (Variable Speed Limits) Regulations 2011 and they come into force on 18th April 2011.
 
-## 2. Interpretation[^key-79a501bf7c745dc3cc531b8edceaf004]
+## 2. Interpretation[^c-79a501bf7c745dc3cc531b8edceaf004]
 
 In these Regulations—
 
 - “the 2002 Regulations” means the Traffic Signs Regulations 2002[^f00002]; and
 - “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meanings as in the Motorways Traffic (England and Wales) Regulations 1982[^f00003].
 
-## 3. Variable Speed Limits[^key-c80322a9eeede03c5b00ad8fcfb70b05]
+## 3. Variable Speed Limits[^c-c80322a9eeede03c5b00ad8fcfb70b05]
 
 (1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
 
@@ -99,20 +99,20 @@ Department for Transport
 
 Regulation 3
 
-**1.**[^key-58a7806d9c82eed45c8bc219180c9c4b] The specified roads are—
+**1.**[^c-58a7806d9c82eed45c8bc219180c9c4b] The specified roads are—
 
 - (a) the northbound carriageway of the M1 beginning at a point which is 43 metres after marker post 193/6 and ending at a point which is 28 metres after marker post 217/5;
 - (b) the carriageways of the northbound slip roads;
 - (c) the southbound carriageway of the M1 beginning at a point which is 64 metres after marker post 217/6 and ending at a point which is 15 metres after marker post 193/8; and
 - (d) the carriageways of the southbound slip roads.
 
-**2.**[^key-5e5c153240314018ce7d8b4f0402baa8] Any reference in this Schedule to—
+**2.**[^c-5e5c153240314018ce7d8b4f0402baa8] Any reference in this Schedule to—
 
 - (a) the “M1” is a reference to the motorway known by that name;
 - (b) the letter “A” followed by a number is a reference to the road known by that name; and
 - (c) a junction followed by a number is a reference to the junction of the M1 of that number.
 
-**3.**[^key-5b26a08c3f7f99962657986e13365bfc] In this Schedule—
+**3.**[^c-5b26a08c3f7f99962657986e13365bfc] In this Schedule—
 
 - “northbound slip roads” is a reference to the lengths of road specified in paragraph 4;
 - “off-slip road” means a slip road intended for the use of traffic exiting the M1;
@@ -120,7 +120,7 @@ Regulation 3
 - “southbound slip roads” is a reference to the lengths of road specified in paragraph 5.
 - “zone sign” means a sign authorised by the Secretary of State under section 64 of the Road Traffic Regulation Act 1984[^f00004] for the purpose of indicating that vehicles are entering, have entered or are exiting a specified road.
 
-**4.**[^key-cbd2b9bd4b4e0723ff81137214624008] The northbound slip roads are as follows—
+**4.**[^c-cbd2b9bd4b4e0723ff81137214624008] The northbound slip roads are as follows—
 
 - (a) the on-slip roads which connect the northbound carriageway of the M1 with—
   - (i) the A52 at junction 25;
@@ -133,7 +133,7 @@ Regulation 3
   - (iii) the A608 at junction 27; and
   - (iv) the A38 at junction 28.
 
-**5.**[^key-967c1f97fed5a375b5d99dbab011efe9] The southbound slip roads are as follows—
+**5.**[^c-967c1f97fed5a375b5d99dbab011efe9] The southbound slip roads are as follows—
 
 - (a) the on-slip roads which connect the southbound carriageway of the M1 with—
   - (i) the A38 at junction 28;
@@ -162,24 +162,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There have been other amendments made to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-dd19f30d6d985f9012405750cdc69fae]: Commencement: Reg. 1 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-dd19f30d6d985f9012405750cdc69fae]: Commencement: Reg. 1 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
 
-[^key-79a501bf7c745dc3cc531b8edceaf004]: Commencement: Reg. 2 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-79a501bf7c745dc3cc531b8edceaf004]: Commencement: Reg. 2 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
 
 [^f00002]: Footnote: Part 1 of [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113), as amended by [S.I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670), there are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), as amended by [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [S.I. 1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [S.I. 1992/1364](https://www.legislation.gov.uk/uksi/1992/1364) and [S.I. 2004/3258](https://www.legislation.gov.uk/uksi/2004/3258).
 
-[^key-c80322a9eeede03c5b00ad8fcfb70b05]: Commencement: Reg. 3 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-c80322a9eeede03c5b00ad8fcfb70b05]: Commencement: Reg. 3 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
 
-[^key-58a7806d9c82eed45c8bc219180c9c4b]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2011/909/schedule/paragraph/1) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/482/regulation/3)
+[^c-58a7806d9c82eed45c8bc219180c9c4b]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2011/909/schedule/paragraph/1) substituted (1.4.2013) by [The Managed Motorway (Actively Managed Hard Shoulder and Variable Speed Limits) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/482)](https://www.legislation.gov.uk/uksi/2013/482), [regs. 1](https://www.legislation.gov.uk/uksi/2013/482/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/482/regulation/3)
 
-[^key-5e5c153240314018ce7d8b4f0402baa8]: Commencement: Sch. para. 2 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-5e5c153240314018ce7d8b4f0402baa8]: Commencement: Sch. para. 2 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
 
-[^key-5b26a08c3f7f99962657986e13365bfc]: Commencement: Sch. para. 3 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-5b26a08c3f7f99962657986e13365bfc]: Commencement: Sch. para. 3 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
 
 [^f00004]: Footnote: [1984. c. 27](https://www.legislation.gov.uk/ukpga/1984/27). There are amendments to section 64 but none of these is relevant.
 
-[^key-cbd2b9bd4b4e0723ff81137214624008]: Commencement: Sch. para. 4 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-cbd2b9bd4b4e0723ff81137214624008]: Commencement: Sch. para. 4 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
 
-[^key-967c1f97fed5a375b5d99dbab011efe9]: Commencement: Sch. para. 5 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)
+[^c-967c1f97fed5a375b5d99dbab011efe9]: Commencement: Sch. para. 5 in force at 18.4.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/909/regulation/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-b6b6e0d262a9219e8de7722279d9f97a]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-b6b6e0d262a9219e8de7722279d9f97a]
 
 *Extent: E+W*
 
 Article 3
 
-[^key-b6b6e0d262a9219e8de7722279d9f97a]
+[^c-b6b6e0d262a9219e8de7722279d9f97a]
 
 A nationally significant infrastructure project as defined in sections 14 and 16 of the 2008 Act and associated development within the meaning of section 115(2) of the 2008 Act comprising—
 
@@ -148,4 +148,4 @@ Such associated development within the Order limits as may be necessary or exped
 
 ## Annotations
 
-[^key-b6b6e0d262a9219e8de7722279d9f97a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/817/schedule/1) in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-b6b6e0d262a9219e8de7722279d9f97a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2017/817/schedule/1) in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Guidance on the OEP’s Northern Ireland enforcement policy and functions[^key-507f7dc338618ae6358917b35e23f893]
+## 25A. Guidance on the OEP’s Northern Ireland enforcement policy and functions[^c-507f7dc338618ae6358917b35e23f893]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-507f7dc338618ae6358917b35e23f893]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2021/30/section/25A) inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)[(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/7), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/24) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-507f7dc338618ae6358917b35e23f893]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2021/30/section/25A) inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)[(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/7), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/24) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)

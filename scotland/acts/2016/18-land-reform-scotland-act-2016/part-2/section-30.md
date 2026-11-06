@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Procedure for inquiry[^key-9ea798d7b971a79d7886900606397dfc]
+## 30. Procedure for inquiry[^c-9ea798d7b971a79d7886900606397dfc]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ea798d7b971a79d7886900606397dfc]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/18/section/30) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-9ea798d7b971a79d7886900606397dfc]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/18/section/30) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Statutory sick pay in Great Britain: removal of waiting period[^key-51ea481c530e45bc9ed2fe43b9bf7ec7][^key-c41f5ded90c90148188adea92a3dda3f]
+## 10. Statutory sick pay in Great Britain: removal of waiting period[^c-51ea481c530e45bc9ed2fe43b9bf7ec7][^c-c41f5ded90c90148188adea92a3dda3f]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51ea481c530e45bc9ed2fe43b9bf7ec7]: Commencement: S. 10 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-51ea481c530e45bc9ed2fe43b9bf7ec7]: Commencement: S. 10 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-c41f5ded90c90148188adea92a3dda3f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/36/section/10) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
+[^c-c41f5ded90c90148188adea92a3dda3f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/36/section/10) in force at 6.4.2026 by [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))

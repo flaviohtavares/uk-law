@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Statutory authority to override easements and other rights[^key-80e3e6f8f711c6aafab964c05d173c34]
+## 20. Statutory authority to override easements and other rights[^c-80e3e6f8f711c6aafab964c05d173c34]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ authorised by virtue of this Order and the operation of section 158 of the 2008 
 
 ## Annotations
 
-[^key-80e3e6f8f711c6aafab964c05d173c34]: Commencement: Art. 20 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-80e3e6f8f711c6aafab964c05d173c34]: Commencement: Art. 20 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

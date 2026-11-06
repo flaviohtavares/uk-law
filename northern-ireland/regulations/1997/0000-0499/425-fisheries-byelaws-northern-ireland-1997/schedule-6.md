@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — Commercial Fishing Licence[^key-fa721a2306cd7260217764140bcb954c]
+## SCHEDULE 6 — Commercial Fishing Licence[^c-fa721a2306cd7260217764140bcb954c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Byelaw 22
 
 ## Annotations
 
-[^key-fa721a2306cd7260217764140bcb954c]: Commencement: Sch. 6 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-fa721a2306cd7260217764140bcb954c]: Commencement: Sch. 6 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)

@@ -31,22 +31,22 @@ Community Health Councils (Access to Information) Act 1988 (repealed)
 
 1988 c. 24
 
-[^key-d1b2366c940fe3fb47841d1f24afe435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1b2366c940fe3fb47841d1f24afe435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Access to meetings and documents of Community Health Councils.[^key-d1b2366c940fe3fb47841d1f24afe435]
+## 1. Access to meetings and documents of Community Health Councils.[^c-d1b2366c940fe3fb47841d1f24afe435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Access to information relating to members of Community Health Councils etc.[^key-d1b2366c940fe3fb47841d1f24afe435]
+## 2. Access to information relating to members of Community Health Councils etc.[^c-d1b2366c940fe3fb47841d1f24afe435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, commencement and extent.[^key-d1b2366c940fe3fb47841d1f24afe435]
+## 3. Short title, commencement and extent.[^c-d1b2366c940fe3fb47841d1f24afe435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1b2366c940fe3fb47841d1f24afe435]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/24) repealed (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/7); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-d1b2366c940fe3fb47841d1f24afe435]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/24) repealed (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/7); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)

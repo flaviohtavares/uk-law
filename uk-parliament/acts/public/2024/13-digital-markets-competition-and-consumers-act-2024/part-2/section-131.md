@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Mutual agreements to extend time-limits: duty to make reference cases[^key-ea5f271004a80cd4fcae03d14a386ce0][^key-4a068a5bee7db8aa1b448a42413b4c00]
+## 131. Mutual agreements to extend time-limits: duty to make reference cases[^c-ea5f271004a80cd4fcae03d14a386ce0][^c-4a068a5bee7db8aa1b448a42413b4c00]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea5f271004a80cd4fcae03d14a386ce0]: Commencement: S. 131 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ea5f271004a80cd4fcae03d14a386ce0]: Commencement: S. 131 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4a068a5bee7db8aa1b448a42413b4c00]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2024/13/section/131) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(3)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/3), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-4a068a5bee7db8aa1b448a42413b4c00]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2024/13/section/131) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(3)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/3), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

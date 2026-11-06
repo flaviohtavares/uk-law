@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5A. Prohibition against using pike gags and certain keepnets[^key-0c9ef343fae1e0c7eb34205442410457]
+## 5A. Prohibition against using pike gags and certain keepnets[^c-0c9ef343fae1e0c7eb34205442410457]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ in relation to the fishing for or taking of fish shall be guilty of an offence, 
 
 ## Annotations
 
-[^key-0c9ef343fae1e0c7eb34205442410457]: Textual amendment: S. 5A inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 21](https://www.legislation.gov.uk/asp/2007/12/section/21), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-0c9ef343fae1e0c7eb34205442410457]: Textual amendment: S. 5A inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 21](https://www.legislation.gov.uk/asp/2007/12/section/21), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

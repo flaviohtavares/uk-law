@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Report by Chief Inspector on administrative review[^key-ea832c0a8e207317ca496bf540b3bc24]
+## 16. Report by Chief Inspector on administrative review[^c-ea832c0a8e207317ca496bf540b3bc24]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea832c0a8e207317ca496bf540b3bc24]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/22/section/16) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/a)
+[^c-ea832c0a8e207317ca496bf540b3bc24]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/22/section/16) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/4/a)

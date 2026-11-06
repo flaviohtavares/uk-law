@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Notice regarding continuation of occupation[^key-d25b87509eedb93633bece21d678881b]
+## 6. Notice regarding continuation of occupation[^c-d25b87509eedb93633bece21d678881b]
 
 *Extent: N.I.*
 
@@ -68,4 +68,4 @@ the council must serve a notice cancelling the continuation notice.
 
 ## Annotations
 
-[^key-d25b87509eedb93633bece21d678881b]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/22/section/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-d25b87509eedb93633bece21d678881b]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/22/section/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

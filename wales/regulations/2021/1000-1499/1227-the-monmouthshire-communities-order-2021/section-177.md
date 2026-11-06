@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 177. Magor with Undy — community electoral arrangements[^key-14e42a22dba4e9080c77108baafd9f63][^key-6354ed5b98ec83efdb44227939edc1d6]
+## 177. Magor with Undy — community electoral arrangements[^c-14e42a22dba4e9080c77108baafd9f63][^c-6354ed5b98ec83efdb44227939edc1d6]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ The community of Magor with Undy consists of three wards—
 - (b) Magor West;
 - (c) Undy.
 
-**178.**[^key-bd350a89048a48044a1f6b3be5e2284d][^key-29428c441a4c4ad40b435207df6b3902] In the community of Magor with Undy the number of councillors to be elected for the—
+**178.**[^c-bd350a89048a48044a1f6b3be5e2284d][^c-29428c441a4c4ad40b435207df6b3902] In the community of Magor with Undy the number of councillors to be elected for the—
 
 - (a) Magor East ward is 4;
 - (b) Magor West ward is 3;
@@ -34,10 +34,10 @@ The community of Magor with Undy consists of three wards—
 
 ## Annotations
 
-[^key-14e42a22dba4e9080c77108baafd9f63]: Commencement: Art. 177 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-14e42a22dba4e9080c77108baafd9f63]: Commencement: Art. 177 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-6354ed5b98ec83efdb44227939edc1d6]: Commencement: [Art. 177](https://www.legislation.gov.uk/wsi/2021/1227/article/177) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-6354ed5b98ec83efdb44227939edc1d6]: Commencement: [Art. 177](https://www.legislation.gov.uk/wsi/2021/1227/article/177) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
 
-[^key-bd350a89048a48044a1f6b3be5e2284d]: Commencement: Art. 178 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-bd350a89048a48044a1f6b3be5e2284d]: Commencement: Art. 178 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-29428c441a4c4ad40b435207df6b3902]: Commencement: [Art. 178](https://www.legislation.gov.uk/wsi/2021/1227/article/178) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-29428c441a4c4ad40b435207df6b3902]: Commencement: [Art. 178](https://www.legislation.gov.uk/wsi/2021/1227/article/178) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

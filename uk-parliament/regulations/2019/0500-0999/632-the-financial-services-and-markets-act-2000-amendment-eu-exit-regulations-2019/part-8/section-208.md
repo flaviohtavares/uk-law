@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Fees: Financial Conduct Authority[^key-5a678ecda52cc15f9283a4f4b0f0ab90]
+## 208. Fees: Financial Conduct Authority[^c-5a678ecda52cc15f9283a4f4b0f0ab90]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a678ecda52cc15f9283a4f4b0f0ab90]: Commencement: Reg. 208 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-5a678ecda52cc15f9283a4f4b0f0ab90]: Commencement: Reg. 208 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
 
 [^c23661201]: Marginal citation: [Sections 137SA](https://www.legislation.gov.uk/uksi/2019/632/section/137SA) and 137SB was inserted by sections 13 and 14 of the [Financial Guidance and Claims Act 2018 (c.10)](https://www.legislation.gov.uk/ukpga/2018/10). Section 333T was inserted by section 29 of the [Bank of England and Financial Services Act 2016 (c.14)](https://www.legislation.gov.uk/ukpga/2016/14).
 

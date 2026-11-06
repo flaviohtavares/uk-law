@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Time limit for commencement of proceedings[^key-f213df170c7907d4da76e9f8afea8e76]
+## 82. Time limit for commencement of proceedings[^c-f213df170c7907d4da76e9f8afea8e76]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f213df170c7907d4da76e9f8afea8e76]: Commencement: Reg. 82 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-f213df170c7907d4da76e9f8afea8e76]: Commencement: Reg. 82 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00015]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Framework for establishment of tri-service serious crime unit[^key-b6d7a926cc776e9ced0b5358b7f4a1da][^key-e81e3f70f152953c02a0cdeb4fb2ca7a][^key-69fc95313f4cadc510b3a53c933d4cd4]
+## 12. Framework for establishment of tri-service serious crime unit[^c-b6d7a926cc776e9ced0b5358b7f4a1da][^c-e81e3f70f152953c02a0cdeb4fb2ca7a][^c-69fc95313f4cadc510b3a53c933d4cd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b6d7a926cc776e9ced0b5358b7f4a1da]: Commencement: S. 12 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-b6d7a926cc776e9ced0b5358b7f4a1da]: Commencement: S. 12 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-e81e3f70f152953c02a0cdeb4fb2ca7a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/35/section/12) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e)
+[^c-e81e3f70f152953c02a0cdeb4fb2ca7a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/35/section/12) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e)
 
-[^key-69fc95313f4cadc510b3a53c933d4cd4]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/35/section/12) in force at 5.12.2022 in so far as not already in force by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-69fc95313f4cadc510b3a53c933d4cd4]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/35/section/12) in force at 5.12.2022 in so far as not already in force by [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)

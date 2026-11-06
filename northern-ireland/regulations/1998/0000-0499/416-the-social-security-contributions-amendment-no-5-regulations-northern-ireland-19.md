@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 3(2) and 171(1) to (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-761ef4b9f2946b02a131236580e10510]
+## 1. Citation and commencement[^c-761ef4b9f2946b02a131236580e10510]
 
 These Regulations may be cited as the Social Security (Contributions) (Amendment No. 5) Regulations (Northern Ireland) 1998 and shall come into operation on 25th November 1998
 
-## 2. Amendment of regulation 18 of the Social Security (Contributions) Regulations[^key-2329fb3e465d165d1628d3f92d471218]
+## 2. Amendment of regulation 18 of the Social Security (Contributions) Regulations[^c-2329fb3e465d165d1628d3f92d471218]
 
 In regulation 18 of the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00002] (calculation of earnings)—
 
@@ -92,9 +92,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-761ef4b9f2946b02a131236580e10510]: Commencement: Reg. 1 in operation at 25.11.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/416/regulation/1)
+[^c-761ef4b9f2946b02a131236580e10510]: Commencement: Reg. 1 in operation at 25.11.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/416/regulation/1)
 
-[^key-2329fb3e465d165d1628d3f92d471218]: Commencement: Reg. 2 in operation at 25.11.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/416/regulation/1)
+[^c-2329fb3e465d165d1628d3f92d471218]: Commencement: Reg. 2 in operation at 25.11.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/416/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1991 No. 490](https://www.legislation.gov.uk/nisr/1991/490), [S.R. 1996 No. 566](https://www.legislation.gov.uk/nisr/1996/566) and [S.R. 1998 No. 317](https://www.legislation.gov.uk/nisr/1998/317)
 

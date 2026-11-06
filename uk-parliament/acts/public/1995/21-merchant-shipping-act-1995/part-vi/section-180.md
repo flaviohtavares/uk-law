@@ -24,7 +24,7 @@ summary: ''
 
 (2) Evidence of any instrument issued by any organ of the Fund or of any document in the custody of the Fund, or any entry in or extract from such a document, may be given in any legal proceedings by production of a copy certified as a true copy by an official of the Fund; and any document purporting to be such a copy shall, in any such proceedings, be received in evidence without proof of the official position or handwriting of the person signing the certificate.
 
-(3)[^key-f171a5eabe9652083f112b5def670c30] Subsections (1) and (2) apply in relation to the Supplementary Fund as they apply in relation to the Fund (with the substitution for references to the Director, any organ or an official of the Fund of references to the Director, any organ or an official of the Supplementary Fund).
+(3)[^c-f171a5eabe9652083f112b5def670c30] Subsections (1) and (2) apply in relation to the Supplementary Fund as they apply in relation to the Fund (with the substitution for references to the Director, any organ or an official of the Fund of references to the Director, any organ or an official of the Supplementary Fund).
 
 ## Annotations
 
@@ -58,4 +58,4 @@ summary: ''
 
     S. 180 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-f171a5eabe9652083f112b5def670c30]: Textual amendment: [S. 180(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/180/3) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [10](https://www.legislation.gov.uk/uksi/2006/1265/article/10)
+[^c-f171a5eabe9652083f112b5def670c30]: Textual amendment: [S. 180(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/180/3) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [10](https://www.legislation.gov.uk/uksi/2006/1265/article/10)

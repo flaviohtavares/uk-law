@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Signature of documents[^key-30e1f311461af8747a56d1e8a3893478]
+## 43. Signature of documents[^c-30e1f311461af8747a56d1e8a3893478]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where these Regulations require a document to be signed, that requirement is sat
 
 ## Annotations
 
-[^key-30e1f311461af8747a56d1e8a3893478]: Commencement: Reg. 43 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-30e1f311461af8747a56d1e8a3893478]: Commencement: Reg. 43 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

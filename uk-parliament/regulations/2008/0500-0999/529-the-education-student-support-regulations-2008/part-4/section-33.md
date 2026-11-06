@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Previous course[^key-2bda7afd6341c2cea5815a8b9dafeecd]
+## 33. Previous course[^c-2bda7afd6341c2cea5815a8b9dafeecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bda7afd6341c2cea5815a8b9dafeecd]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-2bda7afd6341c2cea5815a8b9dafeecd]: Commencement: Reg. 33 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

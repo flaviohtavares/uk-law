@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-### PART 1 — SPECIAL CATEGORY LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^key-054f5afa40225bfcb52c7f8f8df58b69]
+### PART 1 — SPECIAL CATEGORY LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^c-054f5afa40225bfcb52c7f8f8df58b69]
 
 | Sheet of Special Category Land Plan | Plot reference number shown on Special Category Land Plans and in the book of reference |
 | --- | --- |
@@ -32,13 +32,13 @@ Article 45
 | 10 | 10/8d |
 | 19 | 19/2g, 19/2h, 19/4d, 19/4e, 19/7a, 19/7c<br>19/17b |
 
-### PART 2 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^key-cd463d639c43941feaf1fdfb148b126d]
+### PART 2 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS PROVIDED[^c-cd463d639c43941feaf1fdfb148b126d]
 
 | Sheet of Special Category Land Plan | Plot reference number shown on Special Category Land Plans and in the book of reference |
 | --- | --- |
 | 8 | 8/6j, 8/6m, 8/27a, 8/47c, 8/47d |
 
-### PART 3 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS NOT PROVIDED[^key-6a5d66236d691005e188c289834063aa]
+### PART 3 — SPECIAL CATEGORY (RIGHTS) LAND FOR WHICH REPLACEMENT LAND IS NOT PROVIDED[^c-6a5d66236d691005e188c289834063aa]
 
 | Sheet of Special Category Land Plan | Plot reference number shown on Special Category Land Plans and in the book of reference |
 | --- | --- |
@@ -48,7 +48,7 @@ Article 45
 | 9 | 9/10e, 9/11b |
 | 10 | 10/8a |
 
-### PART 4 — REPLACEMENT LAND[^key-cfa67f5fa252cbe048654736e7adff8c]
+### PART 4 — REPLACEMENT LAND[^c-cfa67f5fa252cbe048654736e7adff8c]
 
 | Sheet of Special Category Land Plan | Plot reference number shown on Special Category Land Plans and in the book of reference |
 | --- | --- |
@@ -60,10 +60,10 @@ Article 45
 
 ## Annotations
 
-[^key-054f5afa40225bfcb52c7f8f8df58b69]: Commencement: Sch. 8 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-054f5afa40225bfcb52c7f8f8df58b69]: Commencement: Sch. 8 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-cd463d639c43941feaf1fdfb148b126d]: Commencement: Sch. 8 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-cd463d639c43941feaf1fdfb148b126d]: Commencement: Sch. 8 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-6a5d66236d691005e188c289834063aa]: Commencement: Sch. 8 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-6a5d66236d691005e188c289834063aa]: Commencement: Sch. 8 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-cfa67f5fa252cbe048654736e7adff8c]: Commencement: Sch. 8 Pt. 4 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-cfa67f5fa252cbe048654736e7adff8c]: Commencement: Sch. 8 Pt. 4 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

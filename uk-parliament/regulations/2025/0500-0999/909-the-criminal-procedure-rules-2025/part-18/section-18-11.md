@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.11. Application to vary or discharge a special measures direction[^key-8aed7a6358036be7a18cb7bf2a45e152]
+## 18.11. Application to vary or discharge a special measures direction[^c-8aed7a6358036be7a18cb7bf2a45e152]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aed7a6358036be7a18cb7bf2a45e152]: Commencement: [Rule 18.11](https://www.legislation.gov.uk/uksi/2025/909/rule/18.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8aed7a6358036be7a18cb7bf2a45e152]: Commencement: [Rule 18.11](https://www.legislation.gov.uk/uksi/2025/909/rule/18.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

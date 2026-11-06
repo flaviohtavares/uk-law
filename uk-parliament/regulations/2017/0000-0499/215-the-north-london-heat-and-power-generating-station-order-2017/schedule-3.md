@@ -22,7 +22,7 @@ summary: ''
 
 Article 37
 
-### 1. Applications made for approvals and consents required by this Order[^key-13abbeef5f27b227ebfd66999fa923f5]
+### 1. Applications made for approvals and consents required by this Order[^c-13abbeef5f27b227ebfd66999fa923f5]
 
 (1) If an application has been made to a discharging authority for any consent, agreement, approval or notice required by a provision of this Order, the discharging authority must give notice to the undertaker of its decision on the application promptly and in any event within a period of 56 days (unless another period is provided for under this Order) beginning with the working day immediately following that on which the application is received by the discharging authority.
 
@@ -34,7 +34,7 @@ Article 37
 
 (5) Where the discharging authority intends to refuse an application, it must notify the undertaker of its intention to refuse as soon as such intention arises within the 56-day decision making period.
 
-### 2. Further information[^key-46faf6e7325b4e44338aee7b096a5269]
+### 2. Further information[^c-46faf6e7325b4e44338aee7b096a5269]
 
 (1) In relation to any application for a consent, agreement, approval or notice in respect of a provision of this Order, subject to sub-paragraph (3) the discharging authority may request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -44,7 +44,7 @@ Article 37
 
 (4) In the event that the discharging authority does not make a request for further information under this paragraph within the 24 day period referred to in sub-paragraph (3) it will be deemed to have sufficient information to consider the application and may not after that period request further information (unless agreed in writing between the undertaker and the discharging authority within that 24 day period).
 
-### 3. Fees further to Requirements[^key-7f4cc1fdaeb8179531ee0369c9be00a0]
+### 3. Fees further to Requirements[^c-7f4cc1fdaeb8179531ee0369c9be00a0]
 
 (1) Where an application is made to the discharging authority for written consent, agreement or approval in respect of a Requirement, a fee must be paid to that authority as follows—
 
@@ -62,7 +62,7 @@ Article 37
 - (c) where the application relates to development within Category 1 and the gross floor space to be created by the development exceeds 75 square metres and is not an exact multiple of 75 square metres, the area remaining after division of the total number of square metres of gross floorspace by the figure of 75 is to be treated as being 75 metres; and
 - (d) where the application relates to development within Category 2 and the site area exceeds 0.1 hectares and is not an exact multiple of 0.1 hectares, the area remaining after division of the total number of hectares by the figure of 0.1 hectares is to be treated as being 0.1 hectares.
 
-### 4. Appeals[^key-ef3221657674b8cccbb16439d668c748]
+### 4. Appeals[^c-ef3221657674b8cccbb16439d668c748]
 
 (1) Save as otherwise provided in this Order, the undertaker may appeal in the event that—
 
@@ -97,7 +97,7 @@ Article 37
 
 and may deal with the application as if it had been made to the appointed person in the first instance.
 
-(7) The appointed person may proceed to a decision on an appeal taking into account such written representations as have been sent within the relevant time limits and in the appointed person’s sole discretion such written representations as have been sent outwith the relevant time[^key-18d432c74055ad5a515c5dadd13e0d40] limits.
+(7) The appointed person may proceed to a decision on an appeal taking into account such written representations as have been sent within the relevant time limits and in the appointed person’s sole discretion such written representations as have been sent outwith the relevant time[^c-18d432c74055ad5a515c5dadd13e0d40] limits.
 
 (8) The appointed person may proceed to a decision even though no written representations have been made within the relevant time limits, if it appears to the appointed person that there is sufficient material to enable a decision to be made on the merits of the case.
 
@@ -111,14 +111,14 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-13abbeef5f27b227ebfd66999fa923f5]: Commencement: Sch. 3 para. 1 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-13abbeef5f27b227ebfd66999fa923f5]: Commencement: Sch. 3 para. 1 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-46faf6e7325b4e44338aee7b096a5269]: Commencement: Sch. 3 para. 2 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-46faf6e7325b4e44338aee7b096a5269]: Commencement: Sch. 3 para. 2 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
 [^f00022]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61 has been amended by the Building (Scotland) Act 2008; section 58 of the Building Act [1984 (c.55)](https://www.legislation.gov.uk/ukpga/1984/55); Schedule 24 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25); and section 162(1) of, and paragraph 15 of Schedule 15 to, the Environmental Protection Act [1990 (c.25)](https://www.legislation.gov.uk/ukpga/1990/25).
 
-[^key-7f4cc1fdaeb8179531ee0369c9be00a0]: Commencement: Sch. 3 para. 3 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-7f4cc1fdaeb8179531ee0369c9be00a0]: Commencement: Sch. 3 para. 3 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-ef3221657674b8cccbb16439d668c748]: Commencement: Sch. 3 para. 4 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-ef3221657674b8cccbb16439d668c748]: Commencement: Sch. 3 para. 4 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-18d432c74055ad5a515c5dadd13e0d40]: Textual amendment: Words in [Sch. 3 para. 4(7)](https://www.legislation.gov.uk/uksi/2017/215/schedule/3/paragraph/4/7) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)
+[^c-18d432c74055ad5a515c5dadd13e0d40]: Textual amendment: Words in [Sch. 3 para. 4(7)](https://www.legislation.gov.uk/uksi/2017/215/schedule/3/paragraph/4/7) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)

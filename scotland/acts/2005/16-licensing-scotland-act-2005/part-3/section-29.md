@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Application to vary premises licence[^key-067cee4c69a1b6922a5d749512f3fd06]
+## 29. Application to vary premises licence[^c-067cee4c69a1b6922a5d749512f3fd06]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) An application under subsection (1) which complies with subsection (2) is referred to in this Act as a “**premises licence variation application**”.
 
-(4) Sections 21(1) and (2) , 22 and 24A[^key-78d4683c13ff8c5f1e061768ac1b0ddb] apply in relation to a premises licence variation application (other than one in which the only variation sought is a minor variation) as they apply to a premises licence application.
+(4) Sections 21(1) and (2) , 22 and 24A[^c-78d4683c13ff8c5f1e061768ac1b0ddb] apply in relation to a premises licence variation application (other than one in which the only variation sought is a minor variation) as they apply to a premises licence application.
 
 (5) In this Act, “**variation**”, in relation to a premises licence, means any variation of—
 
@@ -49,6 +49,6 @@ and includes an addition, deletion or other modification.
 
 ## Annotations
 
-[^key-067cee4c69a1b6922a5d749512f3fd06]: Commencement: S. 29 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-067cee4c69a1b6922a5d749512f3fd06]: Commencement: S. 29 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-78d4683c13ff8c5f1e061768ac1b0ddb]: Textual amendment: Words in s. 29(4) substituted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [s. 88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/4/3); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-78d4683c13ff8c5f1e061768ac1b0ddb]: Textual amendment: Words in s. 29(4) substituted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [s. 88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2), [sch. 2 para. 4(3)](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/4/3); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

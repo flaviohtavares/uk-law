@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80M. Tax on commercial exploitation of aggregate[^key-330d0227f0b700786e4f2ac7f8fb9c16]
+## 80M. Tax on commercial exploitation of aggregate[^c-330d0227f0b700786e4f2ac7f8fb9c16]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-330d0227f0b700786e4f2ac7f8fb9c16]: Textual amendment: Pt. 4A Ch. 6 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/18/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-330d0227f0b700786e4f2ac7f8fb9c16]: Textual amendment: Pt. 4A Ch. 6 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/18/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)

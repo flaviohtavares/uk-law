@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16.7. Injunction or restoration order issued of court’s own initiative[^key-85b006fed8736e499bd11b3d7c98af9f]
+## 16.7. Injunction or restoration order issued of court’s own initiative[^c-85b006fed8736e499bd11b3d7c98af9f]
 
 *Extent: E*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) be in Form 20; and
 - (b) in the case of an interim injunction, continue in force for the period of time specified in the injunction which must not be more than 14 days from the date on which it is issued.
 
-(4) The period of time specified under paragraph (3)(b)[^key-d3916a403d942f0dea2082e06aa775ee] may be extended by subsequent order of the court (and may be extended beyond 14 days).
+(4) The period of time specified under paragraph (3)(b)[^c-d3916a403d942f0dea2082e06aa775ee] may be extended by subsequent order of the court (and may be extended beyond 14 days).
 
 (5) If the court issues an interim injunction or interim restoration order of its own initiative the chancellor must give directions—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85b006fed8736e499bd11b3d7c98af9f]: Commencement: [Rule 16.7](https://www.legislation.gov.uk/uksi/2015/1568/article/16.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-85b006fed8736e499bd11b3d7c98af9f]: Commencement: [Rule 16.7](https://www.legislation.gov.uk/uksi/2015/1568/article/16.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-d3916a403d942f0dea2082e06aa775ee]: Textual amendment: Word in [rule 16.7(4)](https://www.legislation.gov.uk/uksi/2015/1568/rule/16.7/4) substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2019/1184/rule/16)
+[^c-d3916a403d942f0dea2082e06aa775ee]: Textual amendment: Word in [rule 16.7(4)](https://www.legislation.gov.uk/uksi/2015/1568/rule/16.7/4) substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2019/1184/rule/16)

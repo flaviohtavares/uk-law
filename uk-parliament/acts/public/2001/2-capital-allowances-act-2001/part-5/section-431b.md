@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 431B. Disposal value: no allowance/no charge cases[^key-a746105a0f05ed00c3397bfbe100604d]
+## 431B. Disposal value: no allowance/no charge cases[^c-a746105a0f05ed00c3397bfbe100604d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the disposal value is such an amount as gives rise to neither a balancing allowa
 
 ## Annotations
 
-[^key-a746105a0f05ed00c3397bfbe100604d]: Textual amendment: Ss. 431A-431C inserted (with effect in accordance with s. 67(9) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/7)
+[^c-a746105a0f05ed00c3397bfbe100604d]: Textual amendment: Ss. 431A-431C inserted (with effect in accordance with s. 67(9) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 67(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/67/7)

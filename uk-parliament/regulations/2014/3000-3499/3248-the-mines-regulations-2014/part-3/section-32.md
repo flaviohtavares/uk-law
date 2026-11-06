@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Duty to take ground control measures[^key-4bd7324578e4354273ab425df9563bf4]
+## 32. Duty to take ground control measures[^c-4bd7324578e4354273ab425df9563bf4]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bd7324578e4354273ab425df9563bf4]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/3248/regulation/32) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-4bd7324578e4354273ab425df9563bf4]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/3248/regulation/32) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

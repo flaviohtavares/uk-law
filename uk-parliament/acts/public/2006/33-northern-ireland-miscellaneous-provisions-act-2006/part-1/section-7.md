@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Data collection[^key-ed161f0f2250f2690b10fc7b7867ffb4]
+## 7. Data collection[^c-ed161f0f2250f2690b10fc7b7867ffb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed161f0f2250f2690b10fc7b7867ffb4]: Textual amendment: S. 7 omitted (13.3.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(7)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/7/b), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
+[^c-ed161f0f2250f2690b10fc7b7867ffb4]: Textual amendment: S. 7 omitted (13.3.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(7)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/7/b), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)

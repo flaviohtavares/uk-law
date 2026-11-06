@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Invitations to participate: issue, response and duration of participation[^key-cae4c4e05c7b19e6628d3e1739f975ed]
+## 31. Invitations to participate: issue, response and duration of participation[^c-cae4c4e05c7b19e6628d3e1739f975ed]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cae4c4e05c7b19e6628d3e1739f975ed]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/2/section/31) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-cae4c4e05c7b19e6628d3e1739f975ed]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/2/section/31) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.29. Gazette notice of intended first dividend or distribution[^key-0bebb75c40d46c1c3ab1dc0cd8406ba4]
+## 5.29. Gazette notice of intended first dividend or distribution[^c-0bebb75c40d46c1c3ab1dc0cd8406ba4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bebb75c40d46c1c3ab1dc0cd8406ba4]: Commencement: Rule 5.29 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0bebb75c40d46c1c3ab1dc0cd8406ba4]: Commencement: Rule 5.29 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

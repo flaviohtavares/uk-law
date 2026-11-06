@@ -59,7 +59,7 @@ summary: ''
 - (a) Health and Social Services Boards;
 - (b) Special Health and Social Services Agencies;
 - (c) Health and Social Care Trusts[^c22359601].
-- (d)[^key-b072e7176bc5051a9b59be9022bb5bb0] the Regional Health and Social Care Board;
+- (d)[^c-b072e7176bc5051a9b59be9022bb5bb0] the Regional Health and Social Care Board;
 - (e) the Regional Agency for Public Health and Social Well-being;
 - (f) the Regional Business Services Organisation.
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c22359601]: Textual amendment: Words in Order substituted (1.4.2009) by virtue of [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(c)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/c) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-b072e7176bc5051a9b59be9022bb5bb0]: Textual amendment: [Art. 14(9)(d)-(f)](https://www.legislation.gov.uk/nisi/1996/1919/article/14/9/d) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 169(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/169/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b072e7176bc5051a9b59be9022bb5bb0]: Textual amendment: [Art. 14(9)(d)-(f)](https://www.legislation.gov.uk/nisi/1996/1919/article/14/9/d) inserted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 169(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/169/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Amount[^key-3e8668f4165ecfdf1cb330f3d3c317c8]
+## 59. Amount[^c-3e8668f4165ecfdf1cb330f3d3c317c8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ After section 50I of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-3e8668f4165ecfdf1cb330f3d3c317c8]: Commencement: [S. 59](https://www.legislation.gov.uk/mwa/2011/5/section/59) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)
+[^c-3e8668f4165ecfdf1cb330f3d3c317c8]: Commencement: [S. 59](https://www.legislation.gov.uk/mwa/2011/5/section/59) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(l)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/l)

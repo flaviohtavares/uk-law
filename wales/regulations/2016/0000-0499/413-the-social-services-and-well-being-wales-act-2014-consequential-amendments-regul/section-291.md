@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**291.**[^key-41da6018adb3e524db0c879239bde0cd] Omit section 16(2) of the Children and Families Act 2014 (amendment to section 104A of the Children Act 1989).
+**291.**[^c-41da6018adb3e524db0c879239bde0cd] Omit section 16(2) of the Children and Families Act 2014 (amendment to section 104A of the Children Act 1989).
 
 ## Annotations
 
-[^key-41da6018adb3e524db0c879239bde0cd]: Commencement: Reg. 291 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-41da6018adb3e524db0c879239bde0cd]: Commencement: Reg. 291 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

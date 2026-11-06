@@ -45,7 +45,7 @@ An Act to make provision with respect to Scotland for compensation and other pay
 
 (1) Subject to the provisions of this section, any compensation accruing due in respect of any land after the commencement of this Act by virtue of paragraph (b) of subsection (1) of section two of the [^c620551]Compensation (Defence) Act, 1939 (which relates to compensation payable in respect of damage occurring to requisitioned land during the period of requisition) shall not exceed the amount (if any) by which the value mentioned in paragraph (a) of the next following subsection falls short of the value[^c620552] mentioned in paragraph (b) of that subsection.
 
-(2)[^key-dbc6cb2c5238eafd7f4f9771344dd887] The said values are—
+(2)[^c-dbc6cb2c5238eafd7f4f9771344dd887] The said values are—
 
 - (a) the value, at the time when the compensation accrues due, of the land in question (it being presumed that the land is subject to any servitude or other restriction then affecting it but otherwise is free from burdens); and
 - (b) the value which such land would have at that time (on the same presumption as is mentioned in paragraph (a) above) if the land were then in the state in which it was when possession was taken in the exercise of emergency powers.
@@ -58,7 +58,7 @@ An Act to make provision with respect to Scotland for compensation and other pay
 
 ### 56—68. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c620564]
 
-### 69. Interpretation.[^key-458b351e90322a62c601b5a0dd2770ec]
+### 69. Interpretation.[^c-458b351e90322a62c601b5a0dd2770ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -90,7 +90,7 @@ An Act to make provision with respect to Scotland for compensation and other pay
 
 [^c620552]: Textual amendment: Word substituted with saving by [Town and Country Planning (Scotland) Act 1959 (c. 70)](https://www.legislation.gov.uk/ukpga/1959/70), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/1959/70/section/44/1), [55(3)](https://www.legislation.gov.uk/ukpga/1959/70/section/55/3), [Sch. 7](https://www.legislation.gov.uk/ukpga/1959/70/schedule/7)
 
-[^key-dbc6cb2c5238eafd7f4f9771344dd887]: Textual amendment: [S. 55(2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/55/2) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 20(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/20/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-dbc6cb2c5238eafd7f4f9771344dd887]: Textual amendment: [S. 55(2)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/55/2) substituted (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 20(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/20/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c620555]: Textual amendment: S. 55(3) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. IX](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/IX)
 
@@ -100,7 +100,7 @@ An Act to make provision with respect to Scotland for compensation and other pay
 
 [^c620564]: Textual amendment: [Ss. 1–54](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/1), [56–68](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/56), [70](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/70), [Schs. 1–9](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/schedule/1) repealed by [Town and Country Planning (Scotland) Act 1972 (c. 52)](https://www.legislation.gov.uk/ukpga/1972/52), [Sch. 23](https://www.legislation.gov.uk/ukpga/1972/52/schedule/23)
 
-[^key-458b351e90322a62c601b5a0dd2770ec]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/69) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 20(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/20/3), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-458b351e90322a62c601b5a0dd2770ec]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/69) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 20(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/20/3), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c620576]: Textual amendment: [Ss. 1–54](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/1), [56–68](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/56), [70](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/section/70), [Schs. 1–9](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/73/schedule/1) repealed by [Town and Country Planning (Scotland) Act 1972 (c. 52)](https://www.legislation.gov.uk/ukpga/1972/52), [Sch. 23](https://www.legislation.gov.uk/ukpga/1972/52/schedule/23)
 

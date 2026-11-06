@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Works likely to affect other apparatus in the street[^key-63b0d742e903433cdf7855f0fcc2a534]
+## 29. Works likely to affect other apparatus in the street[^c-63b0d742e903433cdf7855f0fcc2a534]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ and that his ignorance was not due to any negligence on his part or to any failu
 
 ## Annotations
 
-[^key-63b0d742e903433cdf7855f0fcc2a534]: Modification: Art. 29 modified (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 236(6)(b)](https://www.legislation.gov.uk/nia/2011/25/section/236/6/b), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [ss. 211](https://www.legislation.gov.uk/nia/2011/25/section/211), [238](https://www.legislation.gov.uk/nia/2011/25/section/238)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-63b0d742e903433cdf7855f0fcc2a534]: Modification: Art. 29 modified (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 236(6)(b)](https://www.legislation.gov.uk/nia/2011/25/section/236/6/b), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [ss. 211](https://www.legislation.gov.uk/nia/2011/25/section/211), [238](https://www.legislation.gov.uk/nia/2011/25/section/238)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c20469521]: Textual amendment: Words in art. 29(2) substituted (1.10.2007) by [Street Works (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/287 (N.I. 1))](https://www.legislation.gov.uk/nisi/2007/287), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/287/article/1/3), [25(1)(e)](https://www.legislation.gov.uk/nisi/2007/287/article/25/1/e) (with [art. 25(5)](https://www.legislation.gov.uk/nisi/2007/287/article/25/5)); [S.R. 2007/365](https://www.legislation.gov.uk/nisr/2007/365), [art. 2](https://www.legislation.gov.uk/nisr/2007/365/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/365/schedule)

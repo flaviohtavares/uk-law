@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Interpretation[^c2116565][^key-ebc72b5e7645cebfd0ae48585d48f27a]
+## 43. Interpretation[^c2116565][^c-ebc72b5e7645cebfd0ae48585d48f27a]
 
 *Extent: E+W*
 
@@ -28,11 +28,11 @@ summary: ''
 - (d) a London borough council,
 - (e) the Common Council of the City of London in its capacity as a local authority,
 - (f) the Council of the Isles of Scilly,
-- (g)[^key-f5fb86745de1aa874a30c9fa2672552d] in relation only to sections 38, 40 and 41 and this section, the London Fire Commissioner,
-- (h) a metropolitan county fire and rescue authority, [^key-8d8b80084d3d3a4bc524582a3fd44079]...
-- (i) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies , or[^key-ae4cb118b468c3060414a9a1a6992ccb]
+- (g)[^c-f5fb86745de1aa874a30c9fa2672552d] in relation only to sections 38, 40 and 41 and this section, the London Fire Commissioner,
+- (h) a metropolitan county fire and rescue authority, [^c-8d8b80084d3d3a4bc524582a3fd44079]...
+- (i) a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004 or a scheme to which section 4 of that Act applies , or[^c-ae4cb118b468c3060414a9a1a6992ccb]
 - (j) in relation only to sections 38, 40 and 41 and this section, a fire and rescue authority created by an order under section 4A of that Act.
-- (k)[^key-d114bb2ec3e3a7bbd9bca8bdba1592ef] a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021.
+- (k)[^c-d114bb2ec3e3a7bbd9bca8bdba1592ef] a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021.
 
 (2) In this Chapter “**chief officer**”, in relation to a relevant authority, means each of the following—
 
@@ -40,10 +40,10 @@ summary: ''
 - (aa)[^M_F_11353775-b45b-4529-e400-030770831137] its chief executive appointed under—
   - (i) section 54 of the Local Government and Elections (Wales) Act 2021 (chief executive of council in Wales), or
   - (ii) regulations made under Part 5 of that Act (chief executive of a corporate joint committee).
-- (b) its monitoring officer designated under section 5(1) of the Local Government and Housing Act 1989[^key-713e67614e88222ca0591a24300eda53];
+- (b) its monitoring officer designated under section 5(1) of the Local Government and Housing Act 1989[^c-713e67614e88222ca0591a24300eda53];
 - (c) a statutory chief officer mentioned in section 2(6) of that Act;
 - (d) a non-statutory chief officer mentioned in section 2(7) of that Act;
-- (e) a deputy chief officer mentioned in section 2(8) of that Act;[^key-7e78fb916bdef3770eb9b2856c8e5fb9]
+- (e) a deputy chief officer mentioned in section 2(8) of that Act;[^c-7e78fb916bdef3770eb9b2856c8e5fb9]
 - (f) its head of democratic services designated under section 8(1) of the Local Government (Wales) Measure 2011 (designation by council of a county or county borough in Wales).
 
 (3) In this Chapter “**remuneration**”, in relation to a chief officer and a relevant authority, means—
@@ -85,18 +85,18 @@ summary: ''
 
 [^c2116565]: Commencement: S. 43 in force for E. at 15.1.2012 see [s. 240(1)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/b)
 
-[^key-ebc72b5e7645cebfd0ae48585d48f27a]: Commencement: S. 43 in force at 31.1.2012 for W. by [S.I. 2012/193](https://www.legislation.gov.uk/wsi/2012/193), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/193/article/2/a)
+[^c-ebc72b5e7645cebfd0ae48585d48f27a]: Commencement: S. 43 in force at 31.1.2012 for W. by [S.I. 2012/193](https://www.legislation.gov.uk/wsi/2012/193), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/193/article/2/a)
 
-[^key-f5fb86745de1aa874a30c9fa2672552d]: Textual amendment: S. 43(1)(g) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 120](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/120); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-f5fb86745de1aa874a30c9fa2672552d]: Textual amendment: S. 43(1)(g) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 120](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/120); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-8d8b80084d3d3a4bc524582a3fd44079]: Textual amendment: Word in s. 43(1)(h) omitted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 94(3)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94/3/a); S.I. 2017/399, reg. 2, Sch. para. 38
+[^c-8d8b80084d3d3a4bc524582a3fd44079]: Textual amendment: Word in s. 43(1)(h) omitted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 94(3)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94/3/a); S.I. 2017/399, reg. 2, Sch. para. 38
 
-[^key-ae4cb118b468c3060414a9a1a6992ccb]: Textual amendment: S. 43(1)(j) and preceding word inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 94(3)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94/3/b); S.I. 2017/399, reg. 2, Sch. para. 38
+[^c-ae4cb118b468c3060414a9a1a6992ccb]: Textual amendment: S. 43(1)(j) and preceding word inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 94(3)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/94/3/b); S.I. 2017/399, reg. 2, Sch. para. 38
 
-[^key-d114bb2ec3e3a7bbd9bca8bdba1592ef]: Textual amendment: [S. 43(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/43/1/k) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [12(1)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/12/1/c)
+[^c-d114bb2ec3e3a7bbd9bca8bdba1592ef]: Textual amendment: [S. 43(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/43/1/k) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [12(1)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/12/1/c)
 
 [^M_F_11353775-b45b-4529-e400-030770831137]: Textual amendment: S. 42(3)(aa) inserted by [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/17/a) (as amended (5.5.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [42(3)(c)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/42/3/c))
 
-[^key-713e67614e88222ca0591a24300eda53]: Textual amendment: Words in [s. 43(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/43/2/b) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/17/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)
+[^c-713e67614e88222ca0591a24300eda53]: Textual amendment: Words in [s. 43(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/43/2/b) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/17/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)
 
-[^key-7e78fb916bdef3770eb9b2856c8e5fb9]: Textual amendment: [S. 43(2)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/43/2/f) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 161(3)](https://www.legislation.gov.uk/asc/2021/1/section/161/3), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(p)](https://www.legislation.gov.uk/wsi/2021/231/article/6/p)
+[^c-7e78fb916bdef3770eb9b2856c8e5fb9]: Textual amendment: [S. 43(2)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/43/2/f) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 161(3)](https://www.legislation.gov.uk/asc/2021/1/section/161/3), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(p)](https://www.legislation.gov.uk/wsi/2021/231/article/6/p)

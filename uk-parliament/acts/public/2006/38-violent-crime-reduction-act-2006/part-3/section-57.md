@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of s. 82 of the Sexual Offences Act 2003[^key-1b926db1789f7ff8b39ee2d04f9365ae]
+## 57. Amendment of s. 82 of the Sexual Offences Act 2003[^c-1b926db1789f7ff8b39ee2d04f9365ae]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b926db1789f7ff8b39ee2d04f9365ae]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/38/section/57) in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/74/article/2/d)
+[^c-1b926db1789f7ff8b39ee2d04f9365ae]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/38/section/57) in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/74/article/2/d)

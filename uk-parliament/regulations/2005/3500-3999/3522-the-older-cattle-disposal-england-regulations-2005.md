@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Older Cattle (Disposal) (England) Regulations 2005 (revoked)[^key-b8d5169907fdbab53e682852e381d7dc]
+The Older Cattle (Disposal) (England) Regulations 2005 (revoked)[^c-b8d5169907fdbab53e682852e381d7dc]
 
 Made
 
@@ -46,66 +46,66 @@ Coming into force
 
 23rd January 2006
 
-[^key-b8d5169907fdbab53e682852e381d7dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8d5169907fdbab53e682852e381d7dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-b8d5169907fdbab53e682852e381d7dc]
+## 1. Title, commencement and application[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-b8d5169907fdbab53e682852e381d7dc]
+## 2. Revocation[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences[^key-b8d5169907fdbab53e682852e381d7dc]
+## 3. Offences[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and appointment of inspectors[^key-b8d5169907fdbab53e682852e381d7dc]
+## 4. Enforcement and appointment of inspectors[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of entry and inspectors' powers[^key-b8d5169907fdbab53e682852e381d7dc]
+## 5. Powers of entry and inspectors' powers[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Obstruction[^key-b8d5169907fdbab53e682852e381d7dc]
+## 6. Obstruction[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Notice requiring the disposal of animal by-products[^key-b8d5169907fdbab53e682852e381d7dc]
+## 7. Notice requiring the disposal of animal by-products[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Compliance with notices[^key-b8d5169907fdbab53e682852e381d7dc]
+## 8. Compliance with notices[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Penalties[^key-b8d5169907fdbab53e682852e381d7dc]
+## 9. Penalties[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8d5169907fdbab53e682852e381d7dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8d5169907fdbab53e682852e381d7dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PROVISIONS OF COMMISSION REGULATION (EC) NO 716/96[^key-b8d5169907fdbab53e682852e381d7dc]
+## SCHEDULE — PROVISIONS OF COMMISSION REGULATION (EC) NO 716/96[^c-b8d5169907fdbab53e682852e381d7dc]
 
 Regulation 3
 
-### PART 1 — PROVISIONS APPLICABLE TO OPERATORS OF SLAUGHTERHOUSES[^key-b8d5169907fdbab53e682852e381d7dc]
+### PART 1 — PROVISIONS APPLICABLE TO OPERATORS OF SLAUGHTERHOUSES[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PROVISIONS APPLICABLE TO OPERATORS OF INCINERATORS OR PROCESSING PLANTS[^key-b8d5169907fdbab53e682852e381d7dc]
+### PART II — PROVISIONS APPLICABLE TO OPERATORS OF INCINERATORS OR PROCESSING PLANTS[^c-b8d5169907fdbab53e682852e381d7dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b8d5169907fdbab53e682852e381d7dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8d5169907fdbab53e682852e381d7dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b8d5169907fdbab53e682852e381d7dc]: Textual amendment: Regulations revoked (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2015/639/regulation/3/h)
+[^c-b8d5169907fdbab53e682852e381d7dc]: Textual amendment: Regulations revoked (1.4.2015) by [The Environment and Rural Affairs (Miscellaneous Revocations) Regulations 2015 (S.I. 2015/639)](https://www.legislation.gov.uk/uksi/2015/639), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2015/639/regulation/3/h)

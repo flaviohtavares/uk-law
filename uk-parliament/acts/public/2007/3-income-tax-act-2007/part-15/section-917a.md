@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 917A. Tax avoidance arrangements[^key-10a8917674ffd7c9d15abc69f43ff446]
+## 917A. Tax avoidance arrangements[^c-10a8917674ffd7c9d15abc69f43ff446]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10a8917674ffd7c9d15abc69f43ff446]: Textual amendment: S. 917A and cross-heading inserted (with effect in accordance with s. 41(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/1) (with [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/4))
+[^c-10a8917674ffd7c9d15abc69f43ff446]: Textual amendment: S. 917A and cross-heading inserted (with effect in accordance with s. 41(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/1) (with [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/3)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/4))

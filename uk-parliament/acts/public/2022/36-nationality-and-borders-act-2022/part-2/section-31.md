@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Article 1(A)(2): persecution[^key-8eb1773d25231f43f53a11e4b50a6eb9]
+## 31. Article 1(A)(2): persecution[^c-8eb1773d25231f43f53a11e4b50a6eb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb1773d25231f43f53a11e4b50a6eb9]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/36/section/31) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)
+[^c-8eb1773d25231f43f53a11e4b50a6eb9]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/36/section/31) in force at 28.6.2022, see [s. 87(5)(d)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/d)

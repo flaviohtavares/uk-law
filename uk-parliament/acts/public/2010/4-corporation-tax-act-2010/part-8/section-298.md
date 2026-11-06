@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298. Reimbursement by defaulter in respect of certain abandonment expenditure[^key-62340c51ebdd36221df2b1e6dffc3c66]
+## 298. Reimbursement by defaulter in respect of certain abandonment expenditure[^c-62340c51ebdd36221df2b1e6dffc3c66]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62340c51ebdd36221df2b1e6dffc3c66]: Textual amendment: S. 298 omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/10)
+[^c-62340c51ebdd36221df2b1e6dffc3c66]: Textual amendment: S. 298 omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/10)

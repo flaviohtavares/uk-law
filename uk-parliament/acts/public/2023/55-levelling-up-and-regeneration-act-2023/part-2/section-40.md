@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Section 34 regulations: application of local policing provisions[^key-91ea29ddd0ba2519cce551d84a8b4388]
+## 40. Section 34 regulations: application of local policing provisions[^c-91ea29ddd0ba2519cce551d84a8b4388]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91ea29ddd0ba2519cce551d84a8b4388]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/55/section/40) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-91ea29ddd0ba2519cce551d84a8b4388]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/55/section/40) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

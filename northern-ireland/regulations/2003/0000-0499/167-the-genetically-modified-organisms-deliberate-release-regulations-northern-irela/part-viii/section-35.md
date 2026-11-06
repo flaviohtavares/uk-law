@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Keeping the register[^key-fae96a5883a733ae828465609ac5dd10]
+## 35. Keeping the register[^c-fae96a5883a733ae828465609ac5dd10]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fae96a5883a733ae828465609ac5dd10]: Commencement: Reg. 35 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-fae96a5883a733ae828465609ac5dd10]: Commencement: Reg. 35 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

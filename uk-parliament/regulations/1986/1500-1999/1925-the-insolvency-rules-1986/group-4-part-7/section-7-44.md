@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.44. Appointment of another person to act[^key-1a1bef2c058ed1b3ff2b35757da7bee2]
+## 7.44. Appointment of another person to act[^c-1a1bef2c058ed1b3ff2b35757da7bee2]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a1bef2c058ed1b3ff2b35757da7bee2]: Commencement: [Rule 7.44](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.44) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1a1bef2c058ed1b3ff2b35757da7bee2]: Commencement: [Rule 7.44](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.44) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00210]: Marginal citation: \[FORM 7.19\]

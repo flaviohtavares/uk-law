@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.77. Claim established by affidavit[^key-628e46fbae5de650d38e23c391d96641]
+## 4.77. Claim established by affidavit[^c-628e46fbae5de650d38e23c391d96641]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-628e46fbae5de650d38e23c391d96641]: Commencement: [Rule 4.77](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.77) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-628e46fbae5de650d38e23c391d96641]: Commencement: [Rule 4.77](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.77) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00056]: Marginal citation: \[FORM 4.26\]

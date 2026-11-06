@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Security training for spaceflight activities involving US technology[^key-d05ae93c7a5ce9488a20f35cafd98e91]
+## 199. Security training for spaceflight activities involving US technology[^c-d05ae93c7a5ce9488a20f35cafd98e91]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A special launch operator must ensure that all staff carrying out spaceflight ac
 
 ## Annotations
 
-[^key-d05ae93c7a5ce9488a20f35cafd98e91]: Commencement: Reg. 199 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d05ae93c7a5ce9488a20f35cafd98e91]: Commencement: Reg. 199 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

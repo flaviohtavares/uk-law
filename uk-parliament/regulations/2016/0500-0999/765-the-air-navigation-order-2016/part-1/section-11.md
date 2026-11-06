@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A flight is, for the purposes of Part 4, Part 5 and Part 6[^key-c95387ea404da735255a4b5577bbfa0c], a non-commercial flight if—
+(1) A flight is, for the purposes of Part 4, Part 5 and Part 6[^c-c95387ea404da735255a4b5577bbfa0c], a non-commercial flight if—
 
 - (a) the flight is of a sort described in paragraph (2); and
-- (b) there has been no valuable consideration or[^key-5e5840fc77e732e0f3287a551c13f8fa] the only valuable consideration for the flight [^key-70eb828aa0637d208fed1dbe37d64e37]... is of a sort described in paragraph (3).
+- (b) there has been no valuable consideration or[^c-5e5840fc77e732e0f3287a551c13f8fa] the only valuable consideration for the flight [^c-70eb828aa0637d208fed1dbe37d64e37]... is of a sort described in paragraph (3).
 
 (2) A flight is of a sort described in this paragraph if it is—
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c95387ea404da735255a4b5577bbfa0c]: Textual amendment: Words in art. 11(1) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/4/a)
+[^c-c95387ea404da735255a4b5577bbfa0c]: Textual amendment: Words in art. 11(1) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/4/a)
 
-[^key-5e5840fc77e732e0f3287a551c13f8fa]: Textual amendment: Words in art. 11(1)(b) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2017/1112/article/4/b/i)
+[^c-5e5840fc77e732e0f3287a551c13f8fa]: Textual amendment: Words in art. 11(1)(b) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2017/1112/article/4/b/i)
 
-[^key-70eb828aa0637d208fed1dbe37d64e37]: Textual amendment: Words in art. 11(1)(b) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1112/article/4/b/ii)
+[^c-70eb828aa0637d208fed1dbe37d64e37]: Textual amendment: Words in art. 11(1)(b) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1112/article/4/b/ii)

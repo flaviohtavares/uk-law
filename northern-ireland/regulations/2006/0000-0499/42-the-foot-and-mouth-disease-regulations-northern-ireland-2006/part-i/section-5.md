@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Notices[^key-92e37fb9627c6dabc295e29d6c6bcc87]
+## 5. Notices[^c-92e37fb9627c6dabc295e29d6c6bcc87]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ shall contain a description of the premises sufficient to enable the extent of t
 
 ## Annotations
 
-[^key-92e37fb9627c6dabc295e29d6c6bcc87]: Commencement: Reg. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-92e37fb9627c6dabc295e29d6c6bcc87]: Commencement: Reg. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Protection from defamation claims[^key-c0a018de70722633d9803237255442b1]
+## 71. Protection from defamation claims[^c-c0a018de70722633d9803237255442b1]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
   - (i) a listed authority, a member or co-opted member of a listed authority, an officer or member of the staff of a listed authority or another person acting on behalf of a listed authority or assisting it in the discharge of any of its functions, and
   - (ii) the Ombudsman, a member of the Ombudsman's staff or another person acting on the Ombudsman's behalf or assisting the Ombudsman in the discharge of any of the Ombudsman's functions;
 - (d) the publication of a matter in connection with a complaint or an investigation, in communications between—
-  - (i) a care home provider, domiciliary care provider , independent palliative care provider or direct payment service provider[^key-ed3b2aa258ac090c592ce037e28d825c], an officer or member of staff of such a provider or another person acting on behalf of such a provider or assisting it in the discharge of any of its functions, and
+  - (i) a care home provider, domiciliary care provider , independent palliative care provider or direct payment service provider[^c-ed3b2aa258ac090c592ce037e28d825c], an officer or member of staff of such a provider or another person acting on behalf of such a provider or assisting it in the discharge of any of its functions, and
   - (ii) the Ombudsman, a member of the Ombudsman's staff or another person acting on the Ombudsman's behalf or assisting the Ombudsman in the discharge of any of the Ombudsman's functions;
 - (e) the publication of a matter in connection with a complaint or an investigation, in communications between a person and an Assembly member;
 - (f) the publication of a matter in connection with a complaint made or referred (or to be made or referred) by or on behalf of a person to the Ombudsman under this Act, in communications between—
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0a018de70722633d9803237255442b1]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2019/3/section/71) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-c0a018de70722633d9803237255442b1]: Commencement: [S. 71](https://www.legislation.gov.uk/anaw/2019/3/section/71) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-ed3b2aa258ac090c592ce037e28d825c]: Textual amendment: Words in [s. 71(1)(d)(i)](https://www.legislation.gov.uk/anaw/2019/3/section/71/1/d/i) substituted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(7)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/7); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-ed3b2aa258ac090c592ce037e28d825c]: Textual amendment: Words in [s. 71(1)(d)(i)](https://www.legislation.gov.uk/anaw/2019/3/section/71/1/d/i) substituted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 2 para. 6(7)](https://www.legislation.gov.uk/asc/2025/1/schedule/2/paragraph/6/7); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)

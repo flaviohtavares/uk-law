@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Temporary use of land for carrying out the authorised development[^key-96d9f46451bd8bf996baff54b9f86528]
+## 29. Temporary use of land for carrying out the authorised development[^c-96d9f46451bd8bf996baff54b9f86528]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-96d9f46451bd8bf996baff54b9f86528]: Commencement: Art. 29 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-96d9f46451bd8bf996baff54b9f86528]: Commencement: Art. 29 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24104361]: Marginal citation: [Section 13](https://www.legislation.gov.uk/uksi/2020/556/section/13) was amended by sections 62(3) and 139 of, and paragraphs 27 and 28 of Schedule 13, and Part 3 of Schedule 23 to, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

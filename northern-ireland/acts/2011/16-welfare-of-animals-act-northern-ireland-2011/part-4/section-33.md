@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Disqualification[^key-ee1db169210a009daf80e76648242172]
+## 33. Disqualification[^c-ee1db169210a009daf80e76648242172]
 
 *Extent: N.I.*
 
@@ -49,10 +49,10 @@ summary: ''
 
 (9) A person who breaches a disqualification imposed by an order under subsection (1) commits an offence.
 
-(10) This section applies to an offence under any of sections 4, 5, 6(1), (2), (11) and (15), 7, 8[^key-992648570eba8ff5dfe7416f5a35e950] , 9, 10(6), 12(6) and 14 and subsection (9) of this section.
+(10) This section applies to an offence under any of sections 4, 5, 6(1), (2), (11) and (15), 7, 8[^c-992648570eba8ff5dfe7416f5a35e950] , 9, 10(6), 12(6) and 14 and subsection (9) of this section.
 
 ## Annotations
 
-[^key-ee1db169210a009daf80e76648242172]: Modification: S. 33 applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)
+[^c-ee1db169210a009daf80e76648242172]: Modification: S. 33 applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)
 
-[^key-992648570eba8ff5dfe7416f5a35e950]: Textual amendment: Word in [s. 33(10)](https://www.legislation.gov.uk/nia/2011/16/section/33/10) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(5)(b)](https://www.legislation.gov.uk/nia/2016/21/section/48/5/b), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)
+[^c-992648570eba8ff5dfe7416f5a35e950]: Textual amendment: Word in [s. 33(10)](https://www.legislation.gov.uk/nia/2011/16/section/33/10) substituted (1.8.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 48(5)(b)](https://www.legislation.gov.uk/nia/2016/21/section/48/5/b), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2); [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 2](https://www.legislation.gov.uk/nisr/2016/248/article/2)

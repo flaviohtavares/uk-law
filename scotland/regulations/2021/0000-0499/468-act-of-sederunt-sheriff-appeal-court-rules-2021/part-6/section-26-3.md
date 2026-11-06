@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.3. Determination of notices and applications[^key-fad8651e714e5f34e239f7025f0556fa]
+## 26.3. Determination of notices and applications[^c-fad8651e714e5f34e239f7025f0556fa]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fad8651e714e5f34e239f7025f0556fa]: Commencement: Para. 26.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-fad8651e714e5f34e239f7025f0556fa]: Commencement: Para. 26.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

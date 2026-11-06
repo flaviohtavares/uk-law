@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Market value of eligible house[^key-464627e049eb68949bc19649b29a79ae]
+## 130. Market value of eligible house[^c-464627e049eb68949bc19649b29a79ae]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ and the house's market value may accordingly be determined to be a negative valu
 
 ## Annotations
 
-[^key-464627e049eb68949bc19649b29a79ae]: Commencement: S. 130 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-464627e049eb68949bc19649b29a79ae]: Commencement: S. 130 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

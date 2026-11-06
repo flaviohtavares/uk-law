@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 305. Accession to Convention on Supplementary Compensation for Nuclear Damage[^key-056a0f83842b5c0b1e90c133af4fbf77]
+## 305. Accession to Convention on Supplementary Compensation for Nuclear Damage[^c-056a0f83842b5c0b1e90c133af4fbf77]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 22 contains amendments to the Nuclear Installations Act 1965 to impleme
 
 ## Annotations
 
-[^key-056a0f83842b5c0b1e90c133af4fbf77]: Commencement: S. 305 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)
+[^c-056a0f83842b5c0b1e90c133af4fbf77]: Commencement: S. 305 in force at 1.1.2026 (the date on which the Convention on Supplementary Compensation for Nuclear Damage comes into force for the United Kingdom following the deposit of an instrument of accession on 3.10.2025) in accordance with s. 334(4)

@@ -56,8 +56,8 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
 
 (2) The powers to fix fees are—
 
-- (a) the powers in section 97(1)(a) [^c5098221] (power to prescribe a fee relating to a driving licence application) of the 1988 Act; [^key-2f2399fb8cd56eb7d25f7762ab9ff481]...
-- (aa)[^key-c4527a4c3a9905bccbc014f6e1193f47] the powers in section 99(7ZA) of the 1988 Act (power to prescribe a fee for the renewal of a photocard driving licence);
+- (a) the powers in section 97(1)(a) [^c5098221] (power to prescribe a fee relating to a driving licence application) of the 1988 Act; [^c-2f2399fb8cd56eb7d25f7762ab9ff481]...
+- (aa)[^c-c4527a4c3a9905bccbc014f6e1193f47] the powers in section 99(7ZA) of the 1988 Act (power to prescribe a fee for the renewal of a photocard driving licence);
 - (ab) the powers in section 105(2)(e) of the 1988 Act (power to prescribe a fee for the issue of a driving licence in the place of a lost or defaced licence); and
 - (b) the respective powers in each of section 7(6)(b) [^c5098231] (power to prescribe a fee to be paid on the issue of a new vehicle licence), section 21(3) [^c5098241] (power to prescribe a fee for registration of a vehicle), section 22(1)(c) (power to fix a fee for the making available of particulars contained in the vehicle register), section 22(1)(i) [^c5098251] (power to fix a fee for the issue of new registration documents in specified circumstances), and section 22(2A)(c) [^c5098261] (power to make provision for the payment of a fee with respect to a lost, stolen, destroyed or damaged nil licence), of the 1994 Act.
 
@@ -75,7 +75,7 @@ The Secretary of State for Transport, in exercise of the powers conferred by sec
   - (ii) activities relating to the change or assignment of a vehicle registration mark, the transfer of registration marks between vehicles, or the retention of a registration mark without allocation to a vehicle; and
   - (iii) providing information on data held to the relevant data subject or to lawfully authorised or entitled third parties;
 - (g) the functions of preventing, investigating, or prosecuting offences relating to driver licensing or vehicle registration or otherwise relating to any form of identity fraud, and taking or aiding any enforcement in relation thereto; and
-- (h) the functions of the Secretary of State in relation to anything done or proposed to be done by any[^key-05ac00fb7082b4ed37e0a38abc6a9732] international body with respect to driver licensing or vehicle registration or to any of the functions or their subject matter in sub-paragraphs (a) to (g) inclusive.
+- (h) the functions of the Secretary of State in relation to anything done or proposed to be done by any[^c-05ac00fb7082b4ed37e0a38abc6a9732] international body with respect to driver licensing or vehicle registration or to any of the functions or their subject matter in sub-paragraphs (a) to (g) inclusive.
 
 ## 3. Matters to be taken into account in determining costs
 
@@ -123,9 +123,9 @@ A full regulatory impact of the assessment of the effect that this instrument wi
 
 [^c5098221]: Marginal citation: Section 97(1)(a) was amended by the [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)](https://www.legislation.gov.uk/ukpga/1989/22), [section 7](https://www.legislation.gov.uk/ukpga/1989/22/section/7) and Schedule 3, paragraph 9(b).
 
-[^key-2f2399fb8cd56eb7d25f7762ab9ff481]: Textual amendment: Word in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/a) omitted (28.3.2008) by virtue of [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008 (S.I. 2008/908)](https://www.legislation.gov.uk/uksi/2008/908), [arts. 1](https://www.legislation.gov.uk/uksi/2008/908/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/908/article/3/a)
+[^c-2f2399fb8cd56eb7d25f7762ab9ff481]: Textual amendment: Word in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/a) omitted (28.3.2008) by virtue of [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008 (S.I. 2008/908)](https://www.legislation.gov.uk/uksi/2008/908), [arts. 1](https://www.legislation.gov.uk/uksi/2008/908/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/908/article/3/a)
 
-[^key-c4527a4c3a9905bccbc014f6e1193f47]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/ab) inserted (28.3.2008) by [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008 (S.I. 2008/908)](https://www.legislation.gov.uk/uksi/2008/908), [arts. 1](https://www.legislation.gov.uk/uksi/2008/908/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/908/article/3/b)
+[^c-c4527a4c3a9905bccbc014f6e1193f47]: Textual amendment: [Art. 2(2)(aa)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/2/ab) inserted (28.3.2008) by [The Department for Transport (Driver Licensing and Vehicle Registration Fees) (Amendment) Order 2008 (S.I. 2008/908)](https://www.legislation.gov.uk/uksi/2008/908), [arts. 1](https://www.legislation.gov.uk/uksi/2008/908/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/908/article/3/b)
 
 [^c5098231]: Marginal citation: Section 7(6)(b) was amended by the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [section 23](https://www.legislation.gov.uk/ukpga/1996/8/section/23) and Schedule 2, paragraph 2(4)(c).
 
@@ -143,7 +143,7 @@ A full regulatory impact of the assessment of the effect that this instrument wi
 
 [^c5098301]: Marginal citation: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994).
 
-[^key-05ac00fb7082b4ed37e0a38abc6a9732]: Textual amendment: Word in [art. 2(3)(h)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/3/h) substituted (31.12.2020) by [The Department for Transport (Fees) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1121)](https://www.legislation.gov.uk/uksi/2018/1121), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1121/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1121/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05ac00fb7082b4ed37e0a38abc6a9732]: Textual amendment: Word in [art. 2(3)(h)](https://www.legislation.gov.uk/uksi/2003/2994/article/2/3/h) substituted (31.12.2020) by [The Department for Transport (Fees) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1121)](https://www.legislation.gov.uk/uksi/2018/1121), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1121/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1121/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5098311]: Marginal citation: [1987 c. 51](https://www.legislation.gov.uk/ukpga/1987/51).
 

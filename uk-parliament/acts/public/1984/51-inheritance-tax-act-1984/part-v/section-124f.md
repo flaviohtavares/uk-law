@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124F. Claims under section 124E[^key-175f597edc5a844161ab2434d3b51df4]
+## 124F. Claims under section 124E[^c-175f597edc5a844161ab2434d3b51df4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-175f597edc5a844161ab2434d3b51df4]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/ukpga/1984/51/part/5/chapter/2A) inserted (with effect in accordance with [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/4), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-175f597edc5a844161ab2434d3b51df4]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/ukpga/1984/51/part/5/chapter/2A) inserted (with effect in accordance with [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/4), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)

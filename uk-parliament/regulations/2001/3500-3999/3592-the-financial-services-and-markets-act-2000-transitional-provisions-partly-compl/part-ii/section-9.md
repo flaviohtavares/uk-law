@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Procedure[^key-9effc146a638dc90e9c2a8049d354605]
+## 9. Procedure[^c-9effc146a638dc90e9c2a8049d354605]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ the application is to be treated for the purposes of section 52(1) and (2) as if
 
 ## Annotations
 
-[^key-9effc146a638dc90e9c2a8049d354605]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-9effc146a638dc90e9c2a8049d354605]: Commencement: Art. 9 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

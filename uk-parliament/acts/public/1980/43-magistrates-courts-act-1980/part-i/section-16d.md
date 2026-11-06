@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16D. Sections 16B and 16C: further provision[^key-50ad7874ac562b22c7bff3b29a35df6e]
+## 16D. Sections 16B and 16C: further provision[^c-50ad7874ac562b22c7bff3b29a35df6e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ that other magistrates' court is to be treated as if it were the court that conv
 
 ## Annotations
 
-[^key-50ad7874ac562b22c7bff3b29a35df6e]: Textual amendment: Ss. 16A-16F and cross-heading inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/48/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/39)
+[^c-50ad7874ac562b22c7bff3b29a35df6e]: Textual amendment: Ss. 16A-16F and cross-heading inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 48(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/48/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/39)

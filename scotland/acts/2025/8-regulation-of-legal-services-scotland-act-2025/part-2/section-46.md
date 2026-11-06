@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Reconciling different rules[^key-fc93396f85023833ce0af3f6bd0b57f4][^key-3407163fa11c00dbbde35de99cbb84b0][^key-b7a4b60ece7c6abccd258a1388cdf2be]
+## 46. Reconciling different rules[^c-fc93396f85023833ce0af3f6bd0b57f4][^c-3407163fa11c00dbbde35de99cbb84b0][^c-b7a4b60ece7c6abccd258a1388cdf2be]
 
 *Extent: S*
 
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fc93396f85023833ce0af3f6bd0b57f4]: Commencement: S. 46 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-fc93396f85023833ce0af3f6bd0b57f4]: Commencement: S. 46 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-3407163fa11c00dbbde35de99cbb84b0]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/8/section/46) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-3407163fa11c00dbbde35de99cbb84b0]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/8/section/46) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-b7a4b60ece7c6abccd258a1388cdf2be]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/8/section/46) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-b7a4b60ece7c6abccd258a1388cdf2be]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/8/section/46) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184B. Power to confirm trustee appointments etc[^key-33b6a61bf611ad9dedad286159c5e46d]
+## 184B. Power to confirm trustee appointments etc[^c-33b6a61bf611ad9dedad286159c5e46d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33b6a61bf611ad9dedad286159c5e46d]: Textual amendment: S. 184B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 29](https://www.legislation.gov.uk/ukpga/2022/6/section/29), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/6)
+[^c-33b6a61bf611ad9dedad286159c5e46d]: Textual amendment: S. 184B and cross-heading inserted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 29](https://www.legislation.gov.uk/ukpga/2022/6/section/29), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Disclosure of confidential information[^key-bdbcb9e1dfaa1cd274e7d5666423a5af]
+## 64. Disclosure of confidential information[^c-bdbcb9e1dfaa1cd274e7d5666423a5af]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-bdbcb9e1dfaa1cd274e7d5666423a5af]: Commencement: Art. 64 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-bdbcb9e1dfaa1cd274e7d5666423a5af]: Commencement: Art. 64 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

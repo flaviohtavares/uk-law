@@ -68,7 +68,7 @@ Article 74.
 
 ### The Ombudsman (Northern Ireland) Order 1996 (NI 8)
 
-**12.**[^key-de69d0f8f481cbd922de00086b1e124e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-de69d0f8f481cbd922de00086b1e124e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Housing (Northern Ireland) Order 2003 (NI 2)
 
@@ -78,4 +78,4 @@ Article 74.
 
 ## Annotations
 
-[^key-de69d0f8f481cbd922de00086b1e124e]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisi/2006/1459/schedule/4/paragraph/12) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with [ss. 23](https://www.legislation.gov.uk/nia/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/nia/2016/4/section/50/3))
+[^c-de69d0f8f481cbd922de00086b1e124e]: Textual amendment: [Sch. 4 para. 12](https://www.legislation.gov.uk/nisi/2006/1459/schedule/4/paragraph/12) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with [ss. 23](https://www.legislation.gov.uk/nia/2016/4/section/23), [50(3)](https://www.legislation.gov.uk/nia/2016/4/section/50/3))

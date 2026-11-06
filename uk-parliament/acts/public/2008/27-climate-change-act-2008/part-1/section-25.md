@@ -29,7 +29,7 @@ summary: ''
 | hydrofluorocarbons | 1995 |
 | perfluorocarbons | 1995 |
 | sulphur hexafluoride | 1995 |
-| nitrogen trifluoride[^key-7d091ced3fcaa4a1e36b6624b1444838] | 1995 |
+| nitrogen trifluoride[^c-7d091ced3fcaa4a1e36b6624b1444838] | 1995 |
 
 (2) The Secretary of State may make provision by order amending the table in subsection (1) so as to—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d091ced3fcaa4a1e36b6624b1444838]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/ukpga/2008/27/section/25/1) table inserted (3.2.2023) by [The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118)](https://www.legislation.gov.uk/uksi/2023/118), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/118/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2023/118/article/3/2)
+[^c-7d091ced3fcaa4a1e36b6624b1444838]: Textual amendment: Words in [s. 25(1)](https://www.legislation.gov.uk/ukpga/2008/27/section/25/1) table inserted (3.2.2023) by [The Climate Change (Targeted Greenhouse Gases) Order 2023 (S.I. 2023/118)](https://www.legislation.gov.uk/uksi/2023/118), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/118/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2023/118/article/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70B. Solemn proceedings against children[^key-12c32c731fabfbf6f6d6f9a2029059e7]
+## 70B. Solemn proceedings against children[^c-12c32c731fabfbf6f6d6f9a2029059e7]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12c32c731fabfbf6f6d6f9a2029059e7]: Textual amendment: [S. 70B](https://www.legislation.gov.uk/ukpga/1995/46/section/70B) and cross-heading inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(3)](https://www.legislation.gov.uk/asp/2024/5/section/16/3), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)
+[^c-12c32c731fabfbf6f6d6f9a2029059e7]: Textual amendment: [S. 70B](https://www.legislation.gov.uk/ukpga/1995/46/section/70B) and cross-heading inserted (30.3.2026) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 16(3)](https://www.legislation.gov.uk/asp/2024/5/section/16/3), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Structures or areas which become controlled reservoirs after the relevant date[^key-67c254429f94f63e0d8bf74170c81564][^key-55d6c99d47cd3630983ac4c920f05584]
+## 13. Structures or areas which become controlled reservoirs after the relevant date[^c-67c254429f94f63e0d8bf74170c81564][^c-55d6c99d47cd3630983ac4c920f05584]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Registration of a controlled reservoir which becomes a controlled reservoir afte
 
 ## Annotations
 
-[^key-67c254429f94f63e0d8bf74170c81564]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/9/section/13) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/63/article/7))
+[^c-67c254429f94f63e0d8bf74170c81564]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/9/section/13) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/63/article/7))
 
-[^key-55d6c99d47cd3630983ac4c920f05584]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/9/section/13) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-55d6c99d47cd3630983ac4c920f05584]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2011/9/section/13) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

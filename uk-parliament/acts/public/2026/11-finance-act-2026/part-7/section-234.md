@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Financial penalties for prohibited interaction with HMRC[^M_I_35b686e2-a0a6-43a8-e157-58b513d43edc][^key-d4cdc6d3301e2c4e5a70390d8649560b][^key-7cef2f5f531c10456c06420679aa6e55]
+## 234. Financial penalties for prohibited interaction with HMRC[^M_I_35b686e2-a0a6-43a8-e157-58b513d43edc][^c-d4cdc6d3301e2c4e5a70390d8649560b][^c-7cef2f5f531c10456c06420679aa6e55]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^M_I_35b686e2-a0a6-43a8-e157-58b513d43edc]: Commencement: S. 234 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-d4cdc6d3301e2c4e5a70390d8649560b]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2026/11/section/234) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-d4cdc6d3301e2c4e5a70390d8649560b]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2026/11/section/234) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-7cef2f5f531c10456c06420679aa6e55]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2026/11/section/234) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-7cef2f5f531c10456c06420679aa6e55]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2026/11/section/234) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Amount of transferred pension[^key-8403fc7762efc3ec2244278bb354403c]
+## 133. Amount of transferred pension[^c-8403fc7762efc3ec2244278bb354403c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8403fc7762efc3ec2244278bb354403c]: Commencement: [Reg. 133](https://www.legislation.gov.uk/ssi/2015/19/regulation/133) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-8403fc7762efc3ec2244278bb354403c]: Commencement: [Reg. 133](https://www.legislation.gov.uk/ssi/2015/19/regulation/133) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

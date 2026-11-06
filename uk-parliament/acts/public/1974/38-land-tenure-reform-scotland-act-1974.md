@@ -35,35 +35,35 @@ An Act to provide, as respects Scotland, for the prohibition of new feuduties an
 
 ## Part I — Prohibition of Future Feuduties, and Redemption of Feuduties, Etc.
 
-### 1. Prohibition of new feuduties.[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]
+### 1. Prohibition of new feuduties.[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Prohibition of new ground annuals and other periodical payments from land.
 
-(1) No deed executed after the commencement of this Act shall impose ground annual, skat or any other periodical payment [^key-355be233945daafa17a36a6d3e33bbc5]... in respect of the tenure or use of land or under a title condition[^key-4cba787f9a324a05c7e961a70039a2af], not being a payment in respect of a lease, liferent or other right of occupancy, [^key-355be233945daafa17a36a6d3e33bbc5]... a payment in defrayal of or contribution towards some continuing cost related to the land, or a payment under a heritable security.
+(1) No deed executed after the commencement of this Act shall impose ground annual, skat or any other periodical payment [^c-355be233945daafa17a36a6d3e33bbc5]... in respect of the tenure or use of land or under a title condition[^c-4cba787f9a324a05c7e961a70039a2af], not being a payment in respect of a lease, liferent or other right of occupancy, [^c-355be233945daafa17a36a6d3e33bbc5]... a payment in defrayal of or contribution towards some continuing cost related to the land, or a payment under a heritable security.
 
 (2) A provision in a deed executed after such commencement which purports to impose any payment to which subsection (1) above applies shall not render the deed void or unenforceable, but the deed shall have effect only to the extent (if any) that it would have had effect under the law in force before such commencement if it had not imposed any such payment.
 
-(3)[^key-9aae80118b5a5bad7cab922d2d606f9a] In subsection (1) above, “ **title condition** ” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9).
+(3)[^c-9aae80118b5a5bad7cab922d2d606f9a] In subsection (1) above, “ **title condition** ” has the meaning given by section 122(1) of the Title Conditions (Scotland) Act 2003 (asp 9).
 
-### 3. Charters of novodamus, etc.[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Right to redeem feuduty, ground annual, etc. on a term day.[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]
+### 3. Charters of novodamus, etc.[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Redemption by law of feuduty, ground annual, etc. on transfer of land for valuable consideration.[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]
+### 4. Right to redeem feuduty, ground annual, etc. on a term day.[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Redemption by law of feuduty, ground annual, etc. on acquisition of land by authority possessing compulsory purchase powers.[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]
+### 5. Redemption by law of feuduty, ground annual, etc. on transfer of land for valuable consideration.[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Transitional and supplementary provisions relative to Part I.[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]
+### 6. Redemption by law of feuduty, ground annual, etc. on acquisition of land by authority possessing compulsory purchase powers.[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Transitional and supplementary provisions relative to Part I.[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,16 +77,16 @@ An Act to provide, as respects Scotland, for the prohibition of new feuduties an
 
 (3) The use as or as part of a private dwelling-house of part of a property which is subject to a long lease shall not constitute a breach of the condition contained in subsection (1) above if such use is ancillary to the use of the remainder of the property otherwise than as or as part of a private dwelling-house and it would be detrimental to the efficient exercise of the use last-mentioned if the said ancillary use did not occur on that property.
 
-(3ZA)[^key-7a85d67eb59597fc16dcdb21bfac4ab6] The condition contained in subsection (1) above does not apply in relation to a private residential tenancy as defined in the Private Housing (Tenancies) (Scotland) Act 2016.
+(3ZA)[^c-7a85d67eb59597fc16dcdb21bfac4ab6] The condition contained in subsection (1) above does not apply in relation to a private residential tenancy as defined in the Private Housing (Tenancies) (Scotland) Act 2016.
 
-(3A)[^key-f18a536ad369eebf802a29466fbe9d34] The condition contained in subsection (1) above does not apply to a long lease executed after the commencement of section 138 of the Housing (Scotland) Act 2010 (asp 17) where at the time the lease is executed the lessee is—
+(3A)[^c-f18a536ad369eebf802a29466fbe9d34] The condition contained in subsection (1) above does not apply to a long lease executed after the commencement of section 138 of the Housing (Scotland) Act 2010 (asp 17) where at the time the lease is executed the lessee is—
 
 - (a) a social landlord (within the meaning of section 165 of the Housing (Scotland) Act 2010);
-- (b) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010); [^key-2f94316ba681a924514ca3fc16d0f566] ...
-- (c) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003); or[^key-fa33aa0714fc0d9c9625c1d93b7e5991]
+- (b) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010); [^c-2f94316ba681a924514ca3fc16d0f566] ...
+- (c) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003); or[^c-fa33aa0714fc0d9c9625c1d93b7e5991]
 - (d) a body prescribed, or of a type prescribed, by the Scottish Ministers by order made by statutory instrument.
 
-(3B)[^key-0fe376b577fd3318de16f18aa5e5e500] An order under subsection (3A)(d) may—
+(3B)[^c-0fe376b577fd3318de16f18aa5e5e500] An order under subsection (3A)(d) may—
 
 - (a) prescribe a body or type of body subject to conditions or restrictions,
 - (b) prescribe conditions which a body or type of body must meet for the purposes of subsection (3A),
@@ -117,8 +117,8 @@ which is either—
 
 (5) This Part of this Act shall not apply in relation to the use of property for the time being forming part or deemed to form part of—
 
-- (a)[^key-f2320736b81f3c539031f43fde97e8ad] the land comprised in a lease constituting a 1991 Act tenancy, within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11);
-- (aa) the land comprised in a lease constituting a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-92ba2cc74ac14b3169fe5467756b95ec], within the meaning of that Act;
+- (a)[^c-f2320736b81f3c539031f43fde97e8ad] the land comprised in a lease constituting a 1991 Act tenancy, within the meaning of the Agricultural Holdings (Scotland) Act 2003 (asp 11);
+- (aa) the land comprised in a lease constituting a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^c-92ba2cc74ac14b3169fe5467756b95ec], within the meaning of that Act;
 - (b) a holding, within the meaning of the Small Landholders (Scotland) Acts 1886 to 1931;
 - (c) a croft, within the meaning of the [^c7816841] Crofters (Scotland) Acts 1955 and 1961.
 
@@ -170,7 +170,7 @@ and any such creditor or lessee as aforesaid shall, subject to the provisions of
 
 ### 11. Right to redeem heritable security after 20 years where security subjects used as private dwelling-house.
 
-(1) The provisions of this section shall apply in relation to a heritable security executed after the commencement of this Act, including a heritable security in relation to a debenture described in section 739 of the Companies Act 2006 (perpetual debentures)[^key-1fe333691afc52396a411cedbbe195b9] .
+(1) The provisions of this section shall apply in relation to a heritable security executed after the commencement of this Act, including a heritable security in relation to a debenture described in section 739 of the Companies Act 2006 (perpetual debentures)[^c-1fe333691afc52396a411cedbbe195b9] .
 
 (2) The debtor in a heritable security to which this section applies, or, where the debtor is not the proprietor, the proprietor of the security subjects shall, subject to the provisions of this section, be entitled, on giving two months, notice of his intention so to do, to redeem the security at any time not less than 20 years after the execution thereof, if, at the time when he gives such notice, the security subjects or any part thereof are used as or as part of a private dwelling-house.
 
@@ -178,16 +178,16 @@ In determining for the purposes of this section whether such use has occurred, s
 
 (3) The right to redeem a heritable security conferred by this section shall not apply where the use of the security subjects which is purported to constitute the ground of the right, in terms of subsection (2) above, was, at the time of the notice aforesaid, in contravention of a conventional condition of or relating to the security, unless the person in right of the creditor at any time had approved that use expressly or by his actings, and the said use had not subsequently been discontinued.
 
-(3A)[^key-741183b58724f16e9b910ae341dd1a2b] The right to redeem a heritable security conferred by this section does not apply to a heritable security where—
+(3A)[^c-741183b58724f16e9b910ae341dd1a2b] The right to redeem a heritable security conferred by this section does not apply to a heritable security where—
 
 - (a) the debtor (or where the debtor is not the proprietor, the proprietor of the security subjects) has in writing renounced the right to redeem conferred by this section; and
 - (b) at the time of doing so that body is—
   - (i) a social landlord (within the meaning of section 165 of the Housing (Scotland) Act 2010);
-  - (ii) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010) [^key-c8e6eb53253988874fcd96a00e811173] ...
-  - (iii) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003); or[^key-373ca22eb67d9b56aaf745d7f5fdb4a3]
+  - (ii) a body connected to a social landlord (within the meaning of section 164 of the Housing (Scotland) Act 2010) [^c-c8e6eb53253988874fcd96a00e811173] ...
+  - (iii) a rural housing body (within the meaning of section 122(1) of the Title Conditions (Scotland) Act 2003); or[^c-373ca22eb67d9b56aaf745d7f5fdb4a3]
   - (iv) a body prescribed, or of a type prescribed, by the Scottish Ministers by order made by statutory instrument.
 
-(3B)[^key-bc42343c819cd897fd64d63d034b41cb] An order under subsection (3A)(b)(iv) may—
+(3B)[^c-bc42343c819cd897fd64d63d034b41cb] An order under subsection (3A)(b)(iv) may—
 
 - (a) prescribe a body or type of body subject to conditions or restrictions,
 - (b) prescribe conditions which a body or type of body must meet for the purposes of subsection (3A),
@@ -196,7 +196,7 @@ In determining for the purposes of this section whether such use has occurred, s
 
 (3C) A statutory instrument containing an order under subsection (3A)(b)(iv) is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
-(3D)[^key-c1077d0d434751b9790c768ea192dda6] The right to redeem a heritable security conferred by this section does not apply to a heritable security which is in security of a debt of a description specified in an order made by the Scottish Ministers.
+(3D)[^c-c1077d0d434751b9790c768ea192dda6] The right to redeem a heritable security conferred by this section does not apply to a heritable security which is in security of a debt of a description specified in an order made by the Scottish Ministers.
 
 (3E) An order under subsection (3D) may—
 
@@ -235,11 +235,11 @@ In section 9 of the Conveyancing Amendment (Scotland) Act 1938 [^c7816991] (limi
 > - (b) in subsection (1) of this section, for the words “person in right of the superiority (whether or not his title thereto is complete)” there shall be substituted the words “ person in whom the right is vested ” ;
 > - (c) in subsection (2) of this section, the words “in use to receive and discharge the feuduty in respect of the feu” shall not apply.
 
-### 14. Amendment of s.17 of Crofters (Scotland) Act 1955.[^key-bd480ef1bb13fba9de392f498c43994b][^c7817001]
+### 14. Amendment of s.17 of Crofters (Scotland) Act 1955.[^c-bd480ef1bb13fba9de392f498c43994b][^c7817001]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Limitation of right of irritancy for non-payment of feuduty. 1597 c. 240(S.).[^key-2c1d90a25f23e2c81035e474258c70f4]
+### 15. Limitation of right of irritancy for non-payment of feuduty. 1597 c. 240(S.).[^c-2c1d90a25f23e2c81035e474258c70f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -259,7 +259,7 @@ The Registration of Leases (Scotland) Act 1857 and the [^c7817091]Long Leases (S
 
 ### 19. Recording of extract orders of Land Tribunal.[^c7817101]
 
-Section 3(1)(*d*) of the Lands Tribunal Act 1949 [^c7817111] (as inserted by section 50(2) of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^c7817121]) [^key-9cdc6ab545244214114f4631fdc2817b]... shall have effect, and shall be deemed always to have had effect, with the substitution, [^key-9cdc6ab545244214114f4631fdc2817b]... for the word “order”, of the words “extract of an order”.
+Section 3(1)(*d*) of the Lands Tribunal Act 1949 [^c7817111] (as inserted by section 50(2) of the Conveyancing and Feudal Reform (Scotland) Act 1970 [^c7817121]) [^c-9cdc6ab545244214114f4631fdc2817b]... shall have effect, and shall be deemed always to have had effect, with the substitution, [^c-9cdc6ab545244214114f4631fdc2817b]... for the word “order”, of the words “extract of an order”.
 
 ### 20. Abolition of registration and recording, etc., of documents in Office of Chancery.
 
@@ -269,18 +269,18 @@ It shall cease to be competent to register or record in the books kept in the Of
 
 ### 21. Provisions for contracting out to be void.
 
-Subject to the provisions of sections 8(3A), 8(6), 11(3)[^key-52e17d18a7283ba44df6ac43ef53a118] , 11(3A) and 11(3D)[^key-9face99e36aa854d7e478fb58a0ec30a] of this Act, any agreement or other provision, however constituted, which is made after the commencement of this Act, shall be void in so far as it purports to exclude or limit the operation of any enactment contained in this Act.
+Subject to the provisions of sections 8(3A), 8(6), 11(3)[^c-52e17d18a7283ba44df6ac43ef53a118] , 11(3A) and 11(3D)[^c-9face99e36aa854d7e478fb58a0ec30a] of this Act, any agreement or other provision, however constituted, which is made after the commencement of this Act, shall be void in so far as it purports to exclude or limit the operation of any enactment contained in this Act.
 
 ### 22. Application to Crown.
 
-This Act shall apply to land [^key-78082535204566010740d06f8c9534cb]... belonging to Her Majesty in right of the Crown or to a Government department, or held on behalf of Her Majesty for the purposes of a Government department, in like manner as it applies to other land.
+This Act shall apply to land [^c-78082535204566010740d06f8c9534cb]... belonging to Her Majesty in right of the Crown or to a Government department, or held on behalf of Her Majesty for the purposes of a Government department, in like manner as it applies to other land.
 
 ### 23. Interpretation and repeals.
 
 (1) In this Act, unless the context otherwise requires—
 
 - “**deed**” has the meaning assigned to it in section 3 of the [^c7817171]Titles to Land Consolidation (Scotland) Act 1868, section 3 of the [^c7817181]Conveyancing (Scotland) Act 1874 and section 2 of the [^c7817191]Conveyancing (Scotland) Act 1924;
-- “**heritable security**” (except in relation to sections 4(5), 5(10) and 10(2)) does not include any security for the purpose of securing the payment of a [^key-8b38a3f92dbeab16f67acc697a94f26b]... periodical sum payable in respect of land, and “**heritable creditors**” shall be construed accordingly;
+- “**heritable security**” (except in relation to sections 4(5), 5(10) and 10(2)) does not include any security for the purpose of securing the payment of a [^c-8b38a3f92dbeab16f67acc697a94f26b]... periodical sum payable in respect of land, and “**heritable creditors**” shall be construed accordingly;
 - “**land**” has the meaning assigned to it in section 2 of the said Act of 1924.
 
 (2) Unless the context otherwise requires, any reference in this Act to any other enactment is a reference thereto as amended, and includes a reference thereto as extended or applied, by or under any other enactment, including this Act.
@@ -301,83 +301,83 @@ SCHEDULES
 
 Section 4.
 
-### ... — ...[^key-26d3fcf3b8eb55360f05e35c7ff6ad03][^key-26d3fcf3b8eb55360f05e35c7ff6ad03]
+### ... — ...[^c-26d3fcf3b8eb55360f05e35c7ff6ad03][^c-26d3fcf3b8eb55360f05e35c7ff6ad03]
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-### ... — ...[^key-26d3fcf3b8eb55360f05e35c7ff6ad03][^key-26d3fcf3b8eb55360f05e35c7ff6ad03]
+### ... — ...[^c-26d3fcf3b8eb55360f05e35c7ff6ad03][^c-26d3fcf3b8eb55360f05e35c7ff6ad03]
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
 ## SCHEDULE 2 — Form of Notice Prescribed under Section 5
 
 Section 5.
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
 ## SCHEDULE 3 — Form of Notice Prescribed under Section 6
 
 Section 6.
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
 ## SCHEDULE 4 — Statement Referred to in Section 7(1)(b)
 
 Section 7.
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]...
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]...
 
 ## SCHEDULE 5 — Form of Notice Prescribed under Section 9
 
@@ -471,29 +471,29 @@ Section 23.
 
 [^c7816431]: Commencement: Act wholly in force at 1.9.1974 see [s. 24(2)](https://www.legislation.gov.uk/ukpga/1974/38/section/24/2)
 
-[^key-1522f7b7b459244f1fb26ffdbaaf0e6d]: Textual amendment: Pt. I repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-1522f7b7b459244f1fb26ffdbaaf0e6d]: Textual amendment: Pt. I repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-355be233945daafa17a36a6d3e33bbc5]: Textual amendment: Words in s. 2 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-355be233945daafa17a36a6d3e33bbc5]: Textual amendment: Words in s. 2 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-4cba787f9a324a05c7e961a70039a2af]: Textual amendment: Words in s. 2(1) substituted (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 14 para. 6(a)](https://www.legislation.gov.uk/asp/2003/9/schedule/14/paragraph/6/a) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
+[^c-4cba787f9a324a05c7e961a70039a2af]: Textual amendment: Words in s. 2(1) substituted (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 14 para. 6(a)](https://www.legislation.gov.uk/asp/2003/9/schedule/14/paragraph/6/a) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
 
-[^key-9aae80118b5a5bad7cab922d2d606f9a]: Textual amendment: S. 2(3) added (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 14 para. 6(b)](https://www.legislation.gov.uk/asp/2003/9/schedule/14/paragraph/6/b) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
+[^c-9aae80118b5a5bad7cab922d2d606f9a]: Textual amendment: S. 2(3) added (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 14 para. 6(b)](https://www.legislation.gov.uk/asp/2003/9/schedule/14/paragraph/6/b) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
 
-[^key-7a85d67eb59597fc16dcdb21bfac4ab6]: Textual amendment: [S. 8(3ZA)](https://www.legislation.gov.uk/ukpga/1974/38/section/8/3ZA) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 1](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/1); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-7a85d67eb59597fc16dcdb21bfac4ab6]: Textual amendment: [S. 8(3ZA)](https://www.legislation.gov.uk/ukpga/1974/38/section/8/3ZA) inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 1](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/1); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-f18a536ad369eebf802a29466fbe9d34]: Textual amendment: S. 8(3A) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 138](https://www.legislation.gov.uk/asp/2010/17/section/138), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-f18a536ad369eebf802a29466fbe9d34]: Textual amendment: S. 8(3A) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 138](https://www.legislation.gov.uk/asp/2010/17/section/138), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-2f94316ba681a924514ca3fc16d0f566]: Textual amendment: Word in s. 8(3A)(b) repealed (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 36(2)(a)](https://www.legislation.gov.uk/asp/2011/14/section/36/2/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-2f94316ba681a924514ca3fc16d0f566]: Textual amendment: Word in s. 8(3A)(b) repealed (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 36(2)(a)](https://www.legislation.gov.uk/asp/2011/14/section/36/2/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-fa33aa0714fc0d9c9625c1d93b7e5991]: Textual amendment: S. 8(3A)(d) and preceding word inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 36(2)(b)](https://www.legislation.gov.uk/asp/2011/14/section/36/2/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-fa33aa0714fc0d9c9625c1d93b7e5991]: Textual amendment: S. 8(3A)(d) and preceding word inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 36(2)(b)](https://www.legislation.gov.uk/asp/2011/14/section/36/2/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-0fe376b577fd3318de16f18aa5e5e500]: Textual amendment: S. 8(3B) - (3D) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 36(3)](https://www.legislation.gov.uk/asp/2011/14/section/36/3), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-0fe376b577fd3318de16f18aa5e5e500]: Textual amendment: S. 8(3B) - (3D) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 36(3)](https://www.legislation.gov.uk/asp/2011/14/section/36/3), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
 [^c7816821]: Textual amendment: Words inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 75:2)](https://www.legislation.gov.uk/ukpga/1985/73), [s. 1](https://www.legislation.gov.uk/ukpga/1985/73/section/1)
 
-[^key-f2320736b81f3c539031f43fde97e8ad]: Textual amendment: S. 8(5)(a)(aa) substituted for s. 8(5)(a) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 4](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-f2320736b81f3c539031f43fde97e8ad]: Textual amendment: S. 8(5)(a)(aa) substituted for s. 8(5)(a) (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 4](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-92ba2cc74ac14b3169fe5467756b95ec]: Textual amendment: Words in s. 8(5)(aa) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 3(2)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/3/2) (with [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2017/416/schedule/2/paragraph/3))
+[^c-92ba2cc74ac14b3169fe5467756b95ec]: Textual amendment: Words in s. 8(5)(aa) substituted (30.11.2017) by [The Land Reform (Scotland) Act 2016 (Supplementary, Consequential, Transitory and Saving Provisions) Regulations 2017 (S.S.I. 2017/416)](https://www.legislation.gov.uk/ssi/2017/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/416/regulation/1/1), [sch. 1 para. 3(2)](https://www.legislation.gov.uk/ssi/2017/416/schedule/1/paragraph/3/2) (with [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2017/416/schedule/2/paragraph/3))
 
 [^c7816841]: Marginal citation: [1961 c. 58](https://www.legislation.gov.uk/ukpga/1961/58).
 
@@ -515,17 +515,17 @@ Section 23.
 
 [^c7816931]: Modification: [S. 9(7)](https://www.legislation.gov.uk/ukpga/1974/38/section/9/7) amended by [Land Registration (Scotland) Act 1979 (c. 33, SIF 31:3)](https://www.legislation.gov.uk/ukpga/1979/33), [s. 29(2)(3)](https://www.legislation.gov.uk/ukpga/1979/33/section/29/2/3)
 
-[^key-1fe333691afc52396a411cedbbe195b9]: Textual amendment: Words in s. 11(1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/44) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-1fe333691afc52396a411cedbbe195b9]: Textual amendment: Words in s. 11(1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/44) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-741183b58724f16e9b910ae341dd1a2b]: Textual amendment: S. 11(3A) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 139](https://www.legislation.gov.uk/asp/2010/17/section/139), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-741183b58724f16e9b910ae341dd1a2b]: Textual amendment: S. 11(3A) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 139](https://www.legislation.gov.uk/asp/2010/17/section/139), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-c8e6eb53253988874fcd96a00e811173]: Textual amendment: Word in s. 11(3A)(b)(ii) repealed (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 37(2)(a)](https://www.legislation.gov.uk/asp/2011/14/section/37/2/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-c8e6eb53253988874fcd96a00e811173]: Textual amendment: Word in s. 11(3A)(b)(ii) repealed (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 37(2)(a)](https://www.legislation.gov.uk/asp/2011/14/section/37/2/a), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-373ca22eb67d9b56aaf745d7f5fdb4a3]: Textual amendment: S. 11(3A)(iv) and preceding word inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 37(2)(b)](https://www.legislation.gov.uk/asp/2011/14/section/37/2/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-373ca22eb67d9b56aaf745d7f5fdb4a3]: Textual amendment: S. 11(3A)(iv) and preceding word inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 37(2)(b)](https://www.legislation.gov.uk/asp/2011/14/section/37/2/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-bc42343c819cd897fd64d63d034b41cb]: Textual amendment: S. 11(3B)(3C) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 37(3)](https://www.legislation.gov.uk/asp/2011/14/section/37/3), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-bc42343c819cd897fd64d63d034b41cb]: Textual amendment: S. 11(3B)(3C) inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 37(3)](https://www.legislation.gov.uk/asp/2011/14/section/37/3), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-c1077d0d434751b9790c768ea192dda6]: Textual amendment: S. 11(3D) - (3F) inserted (1.10.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 93(1)](https://www.legislation.gov.uk/asp/2014/14/section/93/1), [104(2)](https://www.legislation.gov.uk/asp/2014/14/section/104/2)
+[^c-c1077d0d434751b9790c768ea192dda6]: Textual amendment: S. 11(3D) - (3F) inserted (1.10.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 93(1)](https://www.legislation.gov.uk/asp/2014/14/section/93/1), [104(2)](https://www.legislation.gov.uk/asp/2014/14/section/104/2)
 
 [^c7816951]: Modification: The text of ss. 11(6), 13, 14, 19, 23(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -537,11 +537,11 @@ Section 23.
 
 [^c7816991]: Marginal citation: [1938 c.24](https://www.legislation.gov.uk/ukpga/1938/24)
 
-[^key-bd480ef1bb13fba9de392f498c43994b]: Textual amendment: S. 14 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-bd480ef1bb13fba9de392f498c43994b]: Textual amendment: S. 14 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c7817001]: Modification: The text of ss. 11(6), 13, 14, 19, 23(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-2c1d90a25f23e2c81035e474258c70f4]: Textual amendment: S. 15 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-2c1d90a25f23e2c81035e474258c70f4]: Textual amendment: S. 15 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c7817081]: Marginal citation: [1857 c. 26](https://www.legislation.gov.uk/ukpga/1857/26).
 
@@ -553,7 +553,7 @@ Section 23.
 
 [^c7817121]: Marginal citation: [1970 c.35](https://www.legislation.gov.uk/ukpga/1970/35)
 
-[^key-9cdc6ab545244214114f4631fdc2817b]: Textual amendment: Words in s. 19 repealed (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
+[^c-9cdc6ab545244214114f4631fdc2817b]: Textual amendment: Words in s. 19 repealed (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
 
 [^c7817131]: Marginal citation: [1833 c. 69](https://www.legislation.gov.uk/ukpga/1833/69).
 
@@ -561,11 +561,11 @@ Section 23.
 
 [^c7817151]: Marginal citation: [1961 c. 55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-52e17d18a7283ba44df6ac43ef53a118]: Textual amendment: Words in s. 21 substituted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-52e17d18a7283ba44df6ac43ef53a118]: Textual amendment: Words in s. 21 substituted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-9face99e36aa854d7e478fb58a0ec30a]: Textual amendment: Words in [s. 21](https://www.legislation.gov.uk/ukpga/1974/38/section/21) substituted (1.10.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 93(2)](https://www.legislation.gov.uk/asp/2014/14/section/93/2), [104(2)](https://www.legislation.gov.uk/asp/2014/14/section/104/2)
+[^c-9face99e36aa854d7e478fb58a0ec30a]: Textual amendment: Words in [s. 21](https://www.legislation.gov.uk/ukpga/1974/38/section/21) substituted (1.10.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 93(2)](https://www.legislation.gov.uk/asp/2014/14/section/93/2), [104(2)](https://www.legislation.gov.uk/asp/2014/14/section/104/2)
 
-[^key-78082535204566010740d06f8c9534cb]: Textual amendment: Words in s. 22 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-78082535204566010740d06f8c9534cb]: Textual amendment: Words in s. 22 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c7817171]: Marginal citation: [1868 c. 101](https://www.legislation.gov.uk/ukpga/1868/101).
 
@@ -573,11 +573,11 @@ Section 23.
 
 [^c7817191]: Marginal citation: [1924 c. 27](https://www.legislation.gov.uk/ukpga/1924/27).
 
-[^key-8b38a3f92dbeab16f67acc697a94f26b]: Textual amendment: Words in s. 23(1) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-8b38a3f92dbeab16f67acc697a94f26b]: Textual amendment: Words in s. 23(1) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c7817201]: Modification: The text of ss. 11(6), 13, 14, 19, 23(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-26d3fcf3b8eb55360f05e35c7ff6ad03]: Textual amendment: Schs. 1-4 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-26d3fcf3b8eb55360f05e35c7ff6ad03]: Textual amendment: Schs. 1-4 repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c7817321]: Modification: The text of Sch. 6 paras. 1—7, Sch. 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

@@ -83,7 +83,7 @@ These Regulations—
 - “**contrast**” means contrast in the amount of light reflected;
 - [^M_F_b8c096f9-79da-47b1-e864-bc2dcf6b9a07]...
 - “**display**” means a screen fitted to the exterior or interior of a rail vehicle which is used to indicate the destination or route number of a rail vehicle, or make other visual announcements, which forms part of a public address system for visual announcements;
-- [^key-7c47aa101dbf6c0f059d956324b9e33d]...
+- [^c-7c47aa101dbf6c0f059d956324b9e33d]...
 - “**exemption order**” means an order made under section 47 of the 1995 Act;
 - “**guided bus**” means a motor vehicle, used wholly or mainly for the carriage of passengers, which is designed or adapted to travel along roads and to carry more than eight passengers, but which is not a tramcar, and which for some or all of the time when in operation—
   - (a) travels along roads, and
@@ -111,7 +111,7 @@ These Regulations—
 - “**rail vehicle**” means a vehicle constructed or adapted to carry passengers on any railway, tramway or prescribed system other than a vehicle used in the provision of a service for the carriage of passengers on the trans-European rail system located in Great Britain[^M_F_f39676ba-cf1a-474d-fcc6-fde220bab7f6];
 - “**railway**” has the same meaning as in section 67(1) of the Transport and Works Act 1992;
 - “**reference wheelchair**” means an occupied wheelchair the dimensions of the chair and occupant being as shown in diagram A in Schedule 2;
-- “relevant specifications” means—[^key-b927c575e4bfa6b42d31dbf1d3cfa60a]
+- “relevant specifications” means—[^c-b927c575e4bfa6b42d31dbf1d3cfa60a]
   - (a) before IP completion day, section 4.2.2 of the technical specification for interoperability relating to “persons with reduced mobility” set out in the Annex to [Decision 2008/164/EC](https://www.legislation.gov.uk/eud/2008/0164) of the European Commission of 21 December 2007 (as modified in section 7.4.1.3.2 for GB rolling stock); or
   - (b) on and after IP completion day, the corresponding section of the NTSN relating to “persons with reduced mobility” published by the Secretary of State under the Railways (Interoperability) Regulations 2011 as amended from time to time;
 - “road”—
@@ -155,9 +155,9 @@ These Regulations—
 
 (3) Subject to paragraphs (7) and (11), the requirements of Part 1 of Schedule 1 apply in relation to a rail vehicle to which this regulation applies.
 
-(4) Paragraph (7) applies where the Office of Rail and Road[^key-e3ce89bf723d98f3709249b4064b7b17] receives a valid notice in writing from an operator of a rail vehicle to which this regulation applies, which has been constructed or adapted to carry passengers on a railway, opting to apply the requirements of the relevant specifications[^key-383970027e6c28827cbed25832e9da65] in relation to that vehicle instead of the requirements of Schedule 1.
+(4) Paragraph (7) applies where the Office of Rail and Road[^c-e3ce89bf723d98f3709249b4064b7b17] receives a valid notice in writing from an operator of a rail vehicle to which this regulation applies, which has been constructed or adapted to carry passengers on a railway, opting to apply the requirements of the relevant specifications[^c-383970027e6c28827cbed25832e9da65] in relation to that vehicle instead of the requirements of Schedule 1.
 
-(5) A notice referred to in paragraph (4) will be a valid notice if it is properly addressed to the Chief Executive of the Office of Rail and Road and lists which version of the relevant specifications[^key-c3b8166d57fef7f7e8d3af13d3ed782e] will be applied in relation to the rail vehicle or, where more than one version, which version will be applied in relation to which aspects of the construction or operation of the rail vehicle, instead of the requirements of Schedule 1.
+(5) A notice referred to in paragraph (4) will be a valid notice if it is properly addressed to the Chief Executive of the Office of Rail and Road and lists which version of the relevant specifications[^c-c3b8166d57fef7f7e8d3af13d3ed782e] will be applied in relation to the rail vehicle or, where more than one version, which version will be applied in relation to which aspects of the construction or operation of the rail vehicle, instead of the requirements of Schedule 1.
 
 (6) A notice referred to in paragraph (4) may be—
 
@@ -167,7 +167,7 @@ These Regulations—
 (7) Where this paragraph applies—
 
 - (a) the requirements of Part 1 and Part 2 of Schedule 1 do not apply in relation to the rail vehicle, and
-- (b) the requirements of the relevant specifications[^key-a8be52f6c4b50963e1aa1c83ad631d2b], as indicated in the notice referred to in paragraph (4), apply in relation to the rail vehicle.
+- (b) the requirements of the relevant specifications[^c-a8be52f6c4b50963e1aa1c83ad631d2b], as indicated in the notice referred to in paragraph (4), apply in relation to the rail vehicle.
 
 (8) Subject to paragraphs (7), (10) and (11), the requirements of Part 2 of Schedule 1 apply in relation to a rail vehicle to which this regulation applies—
 
@@ -219,7 +219,7 @@ An operator of a rail vehicle to which regulation 3 or 4 applies must not use it
 
 ## 6. Enforcement
 
-(1) It is the duty of the Office of Rail and Road[^key-aec026e9aaed77c15646dd54a771b0c5] to make adequate arrangements for the enforcement of these Regulations.
+(1) It is the duty of the Office of Rail and Road[^c-aec026e9aaed77c15646dd54a771b0c5] to make adequate arrangements for the enforcement of these Regulations.
 
 (2) Subject to paragraph (5), the provisions of the 1974 Act specified in paragraph (3) (the “specified provisions”) apply for the purposes of the enforcement of these Regulations as if in the specified provisions—
 
@@ -1160,27 +1160,27 @@ An impact assessment of the effect these Regulations will have on the costs of b
 
 [^M_F_b8c096f9-79da-47b1-e864-bc2dcf6b9a07]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/432/regulation/2/1) omitted (16.1.2012) by virtue of [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2011/3066/schedule/paragraph/2/a)
 
-[^key-7c47aa101dbf6c0f059d956324b9e33d]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c47aa101dbf6c0f059d956324b9e33d]: Textual amendment: Words in reg. 2 omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20159191]: Marginal citation: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42).
 
 [^M_F_f39676ba-cf1a-474d-fcc6-fde220bab7f6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/432/regulation/2/1) substituted (16.1.2012) by virtue of [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2011/3066/schedule/paragraph/2/b)
 
-[^key-b927c575e4bfa6b42d31dbf1d3cfa60a]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/1/b) (as amended by [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(12)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b927c575e4bfa6b42d31dbf1d3cfa60a]: Textual amendment: Words in reg. 2 inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/1/b) (as amended by [S.I. 2020/786](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(12)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20159201]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
 [^M_F_dc991051-b1b3-4322-d445-b5bdeb6387ff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/432/regulation/2/1) inserted (16.1.2012) by virtue of [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2011/3066/schedule/paragraph/2/c)
 
-[^key-e3ce89bf723d98f3709249b4064b7b17]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/432/regulation/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/y)
+[^c-e3ce89bf723d98f3709249b4064b7b17]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2010/432/regulation/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/y)
 
-[^key-383970027e6c28827cbed25832e9da65]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/4) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-383970027e6c28827cbed25832e9da65]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/4) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3b8166d57fef7f7e8d3af13d3ed782e]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/5) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c3b8166d57fef7f7e8d3af13d3ed782e]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/5) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8be52f6c4b50963e1aa1c83ad631d2b]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/7) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8be52f6c4b50963e1aa1c83ad631d2b]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2010/432/regulation/3/7) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2019/345/schedule/8/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aec026e9aaed77c15646dd54a771b0c5]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2010/432/regulation/6) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/y)
+[^c-aec026e9aaed77c15646dd54a771b0c5]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2010/432/regulation/6) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(y)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/y)
 
 [^c20159211]: Marginal citation: Section 20(7) was amended by the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), [Schedule 27](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27), [paragraph 49](https://www.legislation.gov.uk/ukpga/2004/33/paragraph/49).
 

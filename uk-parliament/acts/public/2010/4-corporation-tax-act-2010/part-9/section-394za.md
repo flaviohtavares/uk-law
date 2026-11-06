@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 394ZA. Company joining tonnage tax group[^key-01c0081a775c5f03f6fb2927d5212916]
+## 394ZA. Company joining tonnage tax group[^c-01c0081a775c5f03f6fb2927d5212916]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is a relevant change in the relationship between A and a principal company
 
 ## Annotations
 
-[^key-01c0081a775c5f03f6fb2927d5212916]: Textual amendment: [S. 394ZA](https://www.legislation.gov.uk/ukpga/2010/4/section/394ZA) inserted (with effect in accordance with s. 24(10) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 24(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/24/4)
+[^c-01c0081a775c5f03f6fb2927d5212916]: Textual amendment: [S. 394ZA](https://www.legislation.gov.uk/ukpga/2010/4/section/394ZA) inserted (with effect in accordance with s. 24(10) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 24(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/24/4)

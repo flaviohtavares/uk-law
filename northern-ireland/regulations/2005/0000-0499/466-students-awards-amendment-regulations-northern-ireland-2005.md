@@ -41,26 +41,26 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Articles 50(1) and (2) and 134(1)[^f00002] of the Education and Libraries (Northern Ireland) Order 1986[^f00003]and now vested in it[^f00004] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3fa72c730e084e5ba8d424bca0570878]
+## 1. Citation, commencement and interpretation[^c-3fa72c730e084e5ba8d424bca0570878]
 
 These Regulations may be cited as the Students Awards (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 20th November 2005 and shall have effect on and from 1st September 2005.
 
-## 2.[^key-1d1a358dc645be6c1e6152405d5249ed]
+## 2.[^c-1d1a358dc645be6c1e6152405d5249ed]
 
 In these Regulations, “the Principal Regulations” means the Students Awards Regulations (Northern Ireland) 2003[^f00005].
 
-## 3. Revocation[^key-8e781d29b7e09968349b2f090aa743d6]
+## 3. Revocation[^c-8e781d29b7e09968349b2f090aa743d6]
 
 The following provisions of the Students Awards (Amendment) Regulations (Northern Ireland) 2004[^f00006] are hereby revoked—
 
 - (a) regulation 7; and
 - (b) the Schedule.
 
-## 4. Amendment of the Principal Regulations[^key-45b017f51070078584658eca77fc554f]
+## 4. Amendment of the Principal Regulations[^c-45b017f51070078584658eca77fc554f]
 
 The Principal Regulations shall be amended as provided by regulations 5 to 17.
 
-## 5.[^key-3de73488d66ca677750cb7b745c1ec71]
+## 5.[^c-3de73488d66ca677750cb7b745c1ec71]
 
 (1) Regulation 2 (Interpretation) shall be amended as provided by paragraphs (2) to (9).
 
@@ -70,7 +70,7 @@ The Principal Regulations shall be amended as provided by regulations 5 to 17.
 
 .
 
-(3)[^key-50f81ce0a5b48da723c2829ae9bb0d9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-50f81ce0a5b48da723c2829ae9bb0d9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For paragraph (a) of the definition of “course of initial teacher training” there shall be substituted—
 
@@ -81,31 +81,31 @@ The Principal Regulations shall be amended as provided by regulations 5 to 17.
 
 .
 
-(5)[^key-7e91ffd56b8463b828528e04fdf4534a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7e91ffd56b8463b828528e04fdf4534a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In the definition of “institution” for “Part I of the Education Act 1994” there shall be substituted “Part 3 of the 2005 Act”.
 
-(7)[^key-71880fea7273ae4f23311223e4ea7961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-71880fea7273ae4f23311223e4ea7961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-71880fea7273ae4f23311223e4ea7961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-71880fea7273ae4f23311223e4ea7961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-71880fea7273ae4f23311223e4ea7961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-71880fea7273ae4f23311223e4ea7961] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-81f69fe9b7f8c57bd30425cb8d0f5294]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7.[^key-271d0b2543c126cb477cb312fe5b01d3]
+## 6.[^c-81f69fe9b7f8c57bd30425cb8d0f5294]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-4ffd4a4bdf6e80b6b3930eb4d6c1582d]
+## 7.[^c-271d0b2543c126cb477cb312fe5b01d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8.[^c-4ffd4a4bdf6e80b6b3930eb4d6c1582d]
 
 In Schedule 1 (Persons) at the end of paragraph 2(a) the semi-colon shall be removed and there shall be added—
 
 > or is a category 2 European student;
 
-## 9.[^key-e778c84dca8d1084c3d3702f7ce4e85a]
+## 9.[^c-e778c84dca8d1084c3d3702f7ce4e85a]
 
 In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserted the following paragraph—
 
@@ -117,11 +117,11 @@ In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserte
 
 .
 
-## 10.[^key-ff11553906bcfb8af0d408ba2988aa60]
+## 10.[^c-ff11553906bcfb8af0d408ba2988aa60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-aabe17b5222ada8aeb60546a2058929e]
+## 11.[^c-aabe17b5222ada8aeb60546a2058929e]
 
 (1) Schedule 6 (Requirements) shall be amended as provided by paragraphs (2) to (4).
 
@@ -139,7 +139,7 @@ In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserte
 
 (4) Paragraph 18 shall be renumbered as 16.
 
-## 12.[^key-0a8d625739b699b3db3ad284fbf6795e]
+## 12.[^c-0a8d625739b699b3db3ad284fbf6795e]
 
 (1) Schedule 7 (Resources) shall be amended as provided by paragraphs (2) to (4).
 
@@ -150,7 +150,7 @@ In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserte
   > - (c) any grant to facilitate teacher training paid to the student under Part 2 of the Education Act 2002 or section 78 of the 2005 Act, any payment made in respect of the student’s training as a teacher by an institution to which grants, loans or other payments for that purpose are provided under section 78 or 86 of the 2005 Act or under section 65(3) of the Further and Higher Education Act 1992;
 
   ;
-- (b)[^key-9912dc808f1f431bda14f797c91bfdcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9912dc808f1f431bda14f797c91bfdcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For paragraph 4(2), there shall be substituted—
 
@@ -178,7 +178,7 @@ In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserte
 
 .
 
-## 13.[^key-90e7778512bf2fd6d653d484d7bda097]
+## 13.[^c-90e7778512bf2fd6d653d484d7bda097]
 
 (1) Schedule 8 (Single students with dependants) shall be amended as provided by paragraphs (2) and (3).
 
@@ -190,7 +190,7 @@ In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserte
 
 (3) Paragraph 3 shall be omitted.
 
-## 14.[^key-16c70a989ed6a1b451a01d821329b8dc]
+## 14.[^c-16c70a989ed6a1b451a01d821329b8dc]
 
 (1) Schedule 9 (Sandwich courses) shall be amended as provided by paragraphs (2) and (3).
 
@@ -198,15 +198,15 @@ In Schedule 3 (Terms and conditions) after paragraph 2(d) there shall be inserte
 
 (3) In paragraph 3(c) the words “except that where such a requirement falls to be increased under paragraph 16 it shall be increased by the prescribed proportion or the sum there specified” shall be omitted.
 
-## 15.[^key-673141f26007e1e38c93a6aa232afe04]
+## 15.[^c-673141f26007e1e38c93a6aa232afe04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-54cf0f28fd490e928c6148f2b322aacd]
+## 16.[^c-54cf0f28fd490e928c6148f2b322aacd]
 
 The Principal Regulations are also amended in accordance with Schedule 2.
 
-## 17. Modifications applying while the Civil Partnership Act 2004 is not in force[^key-5dbc83968a8671030e576b2a9de21961]
+## 17. Modifications applying while the Civil Partnership Act 2004 is not in force[^c-5dbc83968a8671030e576b2a9de21961]
 
 During such time as section 1 of the Civil Partnership Act 2004[^f00009] is not in force, regulation 16 and Schedule 2 shall not have effect.
 
@@ -218,7 +218,7 @@ A senior officer of the
 
 Department for Employment and Learning
 
-## SCHEDULE 1 — NEW PAYMENT RATES[^key-cac59f330bafe036efdf6b747f3dd371]
+## SCHEDULE 1 — NEW PAYMENT RATES[^c-cac59f330bafe036efdf6b747f3dd371]
 
 **No longer in force.**
 
@@ -230,19 +230,19 @@ Regulation 15
 
 Regulation 16
 
-**1.**[^key-e3c56144c618bd5d7a508b743a23fb24] In regulation 2, after paragraph (c) of the definition of “independent student” there shall be inserted—
+**1.**[^c-e3c56144c618bd5d7a508b743a23fb24] In regulation 2, after paragraph (c) of the definition of “independent student” there shall be inserted—
 
 > - (cc) has formed a civil partnership before the beginning of the year for which payments in pursuance of his award fall to be made whether or not the civil partnership is still subsisting; or
 
 .
 
-**2.**[^key-2a0d9faeed1508a1039ba743f6ee5bf7] At the end of regulation 4, there shall be inserted—
+**2.**[^c-2a0d9faeed1508a1039ba743f6ee5bf7] At the end of regulation 4, there shall be inserted—
 
 > (2) For the purposes of these Regulations a person’s civil partnership is to be treated as having been terminated, not only by the death of the other civil partner or the annulment or dissolution of the civil partnership by an order of a court of competent jurisdiction, but also by virtue of the parties to the civil partnership ceasing ordinarily to live together, whether or not an order for their separation has been made by any court.
 
 .
 
-**3.**[^key-080cb25ca864de4a82314b1b0026d8ff] (1) Regulation 6 shall be amended as provided by paragraphs (2) to (4).
+**3.**[^c-080cb25ca864de4a82314b1b0026d8ff] (1) Regulation 6 shall be amended as provided by paragraphs (2) to (4).
 
 (2) in paragraph (1) after “spouse” there shall be inserted “or civil partner”.
 
@@ -250,13 +250,13 @@ Regulation 16
 
 (4) in paragraph (5)(c) after “spouse” in both places where it occurs, there shall be inserted “or civil partner”.
 
-**4.**[^key-57185cb6e5daf1ab096532f49b308ad6] In regulation 11(1)(b) after “or III”, there shall be inserted “or IIIA”.
+**4.**[^c-57185cb6e5daf1ab096532f49b308ad6] In regulation 11(1)(b) after “or III”, there shall be inserted “or IIIA”.
 
-**5.**[^key-f1a7fc57630b06f4d9edf0d05447135b] In regulation 16(5)(b) after “spouse” in both places where it occurs, there shall be inserted “or civil partner”.
+**5.**[^c-f1a7fc57630b06f4d9edf0d05447135b] In regulation 16(5)(b) after “spouse” in both places where it occurs, there shall be inserted “or civil partner”.
 
-**6.**[^key-17e984ebf4a83d3d182e88a6f7502ef6] In Schedule 3 (Terms and conditions) in paragraph 2(2)(d), after “spouse” there shall be inserted “or civil partner”.
+**6.**[^c-17e984ebf4a83d3d182e88a6f7502ef6] In Schedule 3 (Terms and conditions) in paragraph 2(2)(d), after “spouse” there shall be inserted “or civil partner”.
 
-**7.**[^key-8c9d1a39c2207bd11dff8ec4410913d8] (1) Schedule 6 (Requirements) shall be amended as provided by paragraphs (2) to (8).
+**7.**[^c-8c9d1a39c2207bd11dff8ec4410913d8] (1) Schedule 6 (Requirements) shall be amended as provided by paragraphs (2) to (8).
 
 (2) in paragraph 12(1)—
 
@@ -293,7 +293,7 @@ Regulation 16
 
 (8) In paragraph 16 after “spouse” in both places where it occurs, there shall be inserted “or civil partner”.
 
-**8.**[^key-1c3b17e19221988596902e22cd300aa2] (1) Schedule 7 (Resources) shall be amended as provided in paragraphs (2) to (6).
+**8.**[^c-1c3b17e19221988596902e22cd300aa2] (1) Schedule 7 (Resources) shall be amended as provided in paragraphs (2) to (6).
 
 (2) In paragraph 1(1) —
 
@@ -342,9 +342,9 @@ Regulation 16
 >
 > (4) If the student’s civil partnership terminates during any year for which the contribution falls to be ascertained the contribution for that year shall be the fraction of the sum ascertained in accordance with the provisions of sub-paragraphs (1) and (2) of which the denominator is 52 and the numerator is the number of complete weeks between the beginning of that year and the termination of the civil partnership.
 
-**9.**[^key-38c56fd4b39131913a3f03b59a609922] In Schedule 8 (Single students with dependants) in paragraph 1, at the end the full stop shall be removed and there shall be added “or with a civil partner or with another person as a civil partner”.
+**9.**[^c-38c56fd4b39131913a3f03b59a609922] In Schedule 8 (Single students with dependants) in paragraph 1, at the end the full stop shall be removed and there shall be added “or with a civil partner or with another person as a civil partner”.
 
-**10.**[^key-32d1fe1f760833bc70c1af156cc6c9b5] In Schedule 9 (Sandwich courses), in paragraph 4(d) at the end the full stop shall be removed and there shall be added—
+**10.**[^c-32d1fe1f760833bc70c1af156cc6c9b5] In Schedule 9 (Sandwich courses), in paragraph 4(d) at the end the full stop shall be removed and there shall be added—
 
 > - (e) the amount of the civil partner’s contribution applicable to his case shall be the prescribed proportion of the contribution ascertained in accordance with Part IIIA.
 
@@ -384,74 +384,74 @@ These Regulations partially revoke the Students Awards (Amendment) Regulations (
 
 [^f00004]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 5(b) and Schedule 3 Part II
 
-[^key-3fa72c730e084e5ba8d424bca0570878]: Commencement: Reg. 1 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-3fa72c730e084e5ba8d424bca0570878]: Commencement: Reg. 1 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-1d1a358dc645be6c1e6152405d5249ed]: Commencement: Reg. 2 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-1d1a358dc645be6c1e6152405d5249ed]: Commencement: Reg. 2 in operation at 20.11.2005 with effect in accordance with reg. 1
 
 [^f00005]: Footnote: [S.R. 2003 No. 459](https://www.legislation.gov.uk/nisr/2003/459) as amended by [S.R. 2004 No. 395](https://www.legislation.gov.uk/nisr/2004/395)
 
-[^key-8e781d29b7e09968349b2f090aa743d6]: Commencement: Reg. 3 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-8e781d29b7e09968349b2f090aa743d6]: Commencement: Reg. 3 in operation at 20.11.2005 with effect in accordance with reg. 1
 
 [^f00006]: Footnote: [S.R. 2004 No. 395](https://www.legislation.gov.uk/nisr/2004/395)
 
-[^key-45b017f51070078584658eca77fc554f]: Commencement: Reg. 4 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-45b017f51070078584658eca77fc554f]: Commencement: Reg. 4 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-3de73488d66ca677750cb7b745c1ec71]: Commencement: Reg. 5 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-3de73488d66ca677750cb7b745c1ec71]: Commencement: Reg. 5 in operation at 20.11.2005 with effect in accordance with reg. 1
 
 [^f00007]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18)
 
-[^key-50f81ce0a5b48da723c2829ae9bb0d9a]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2005/466/regulation/5/3) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/a)
+[^c-50f81ce0a5b48da723c2829ae9bb0d9a]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2005/466/regulation/5/3) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/a)
 
-[^key-7e91ffd56b8463b828528e04fdf4534a]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/nisr/2005/466/regulation/5/5) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/a)
+[^c-7e91ffd56b8463b828528e04fdf4534a]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/nisr/2005/466/regulation/5/5) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/a)
 
-[^key-71880fea7273ae4f23311223e4ea7961]: Textual amendment: [Reg. 5(7)-(9)](https://www.legislation.gov.uk/nisr/2005/466/regulation/5/7) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(b)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/b)
+[^c-71880fea7273ae4f23311223e4ea7961]: Textual amendment: [Reg. 5(7)-(9)](https://www.legislation.gov.uk/nisr/2005/466/regulation/5/7) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(b)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/b)
 
-[^key-81f69fe9b7f8c57bd30425cb8d0f5294]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/466/regulation/6) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(c)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/c)
+[^c-81f69fe9b7f8c57bd30425cb8d0f5294]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/466/regulation/6) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(c)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/c)
 
-[^key-271d0b2543c126cb477cb312fe5b01d3]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/466/regulation/7) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(d)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/d)
+[^c-271d0b2543c126cb477cb312fe5b01d3]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/466/regulation/7) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(d)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/d)
 
-[^key-4ffd4a4bdf6e80b6b3930eb4d6c1582d]: Commencement: Reg. 8 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-4ffd4a4bdf6e80b6b3930eb4d6c1582d]: Commencement: Reg. 8 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-e778c84dca8d1084c3d3702f7ce4e85a]: Commencement: Reg. 9 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-e778c84dca8d1084c3d3702f7ce4e85a]: Commencement: Reg. 9 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-ff11553906bcfb8af0d408ba2988aa60]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/466/regulation/10) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(e)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/e)
+[^c-ff11553906bcfb8af0d408ba2988aa60]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/466/regulation/10) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(e)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/e)
 
-[^key-aabe17b5222ada8aeb60546a2058929e]: Commencement: Reg. 11 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-aabe17b5222ada8aeb60546a2058929e]: Commencement: Reg. 11 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-0a8d625739b699b3db3ad284fbf6795e]: Commencement: Reg. 12 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-0a8d625739b699b3db3ad284fbf6795e]: Commencement: Reg. 12 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-9912dc808f1f431bda14f797c91bfdcf]: Textual amendment: [Reg. 12(2)(b)](https://www.legislation.gov.uk/nisr/2005/466/regulation/12/2/b) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(f)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/f)
+[^c-9912dc808f1f431bda14f797c91bfdcf]: Textual amendment: [Reg. 12(2)(b)](https://www.legislation.gov.uk/nisr/2005/466/regulation/12/2/b) revoked (30.4.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/1), [4(f)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/f)
 
-[^key-90e7778512bf2fd6d653d484d7bda097]: Commencement: Reg. 13 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-90e7778512bf2fd6d653d484d7bda097]: Commencement: Reg. 13 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-16c70a989ed6a1b451a01d821329b8dc]: Commencement: Reg. 14 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-16c70a989ed6a1b451a01d821329b8dc]: Commencement: Reg. 14 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-673141f26007e1e38c93a6aa232afe04]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/466/regulation/15) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(g)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/g)
+[^c-673141f26007e1e38c93a6aa232afe04]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/466/regulation/15) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(g)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/g)
 
-[^key-54cf0f28fd490e928c6148f2b322aacd]: Commencement: Reg. 16 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-54cf0f28fd490e928c6148f2b322aacd]: Commencement: Reg. 16 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-5dbc83968a8671030e576b2a9de21961]: Commencement: Reg. 17 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-5dbc83968a8671030e576b2a9de21961]: Commencement: Reg. 17 in operation at 20.11.2005 with effect in accordance with reg. 1
 
 [^f00009]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-cac59f330bafe036efdf6b747f3dd371]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/466/schedule/1) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(h)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/h)
+[^c-cac59f330bafe036efdf6b747f3dd371]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/466/schedule/1) revoked (1.9.2006) by [Students Awards (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/378)](https://www.legislation.gov.uk/nisr/2006/378), [regs. 2(2)](https://www.legislation.gov.uk/nisr/2006/378/regulation/2/2), [4(h)](https://www.legislation.gov.uk/nisr/2006/378/regulation/4/h)
 
-[^key-e3c56144c618bd5d7a508b743a23fb24]: Commencement: Sch. 2 para. 1 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-e3c56144c618bd5d7a508b743a23fb24]: Commencement: Sch. 2 para. 1 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-2a0d9faeed1508a1039ba743f6ee5bf7]: Commencement: Sch. 2 para. 2 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-2a0d9faeed1508a1039ba743f6ee5bf7]: Commencement: Sch. 2 para. 2 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-080cb25ca864de4a82314b1b0026d8ff]: Commencement: Sch. 2 para. 3 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-080cb25ca864de4a82314b1b0026d8ff]: Commencement: Sch. 2 para. 3 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-57185cb6e5daf1ab096532f49b308ad6]: Commencement: Sch. 2 para. 4 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-57185cb6e5daf1ab096532f49b308ad6]: Commencement: Sch. 2 para. 4 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-f1a7fc57630b06f4d9edf0d05447135b]: Commencement: Sch. 2 para. 5 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-f1a7fc57630b06f4d9edf0d05447135b]: Commencement: Sch. 2 para. 5 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-17e984ebf4a83d3d182e88a6f7502ef6]: Commencement: Sch. 2 para. 6 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-17e984ebf4a83d3d182e88a6f7502ef6]: Commencement: Sch. 2 para. 6 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-8c9d1a39c2207bd11dff8ec4410913d8]: Commencement: Sch. 2 para. 7 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-8c9d1a39c2207bd11dff8ec4410913d8]: Commencement: Sch. 2 para. 7 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-1c3b17e19221988596902e22cd300aa2]: Commencement: Sch. 2 para. 8 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-1c3b17e19221988596902e22cd300aa2]: Commencement: Sch. 2 para. 8 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-38c56fd4b39131913a3f03b59a609922]: Commencement: Sch. 2 para. 9 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-38c56fd4b39131913a3f03b59a609922]: Commencement: Sch. 2 para. 9 in operation at 20.11.2005 with effect in accordance with reg. 1
 
-[^key-32d1fe1f760833bc70c1af156cc6c9b5]: Commencement: Sch. 2 para. 10 in operation at 20.11.2005 with effect in accordance with reg. 1
+[^c-32d1fe1f760833bc70c1af156cc6c9b5]: Commencement: Sch. 2 para. 10 in operation at 20.11.2005 with effect in accordance with reg. 1

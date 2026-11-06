@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Amendment of regulation 5 (interpretation: authorised person)[^key-f7e1983708b383d10a2cd59c360f295a]
+## 8. Amendment of regulation 5 (interpretation: authorised person)[^c-f7e1983708b383d10a2cd59c360f295a]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In regulation 5 (interpretation: authorised person)—
 
 ## Annotations
 
-[^key-f7e1983708b383d10a2cd59c360f295a]: Commencement: Reg. 8 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-f7e1983708b383d10a2cd59c360f295a]: Commencement: Reg. 8 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

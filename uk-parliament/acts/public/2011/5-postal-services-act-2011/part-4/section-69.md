@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Objective of a postal administration[^key-36ac50c32f8abeff15a1412ac4b2221c]
+## 69. Objective of a postal administration[^c-36ac50c32f8abeff15a1412ac4b2221c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ In this subsection “**wholly-owned subsidiary**” has the meaning given by se
 
 ## Annotations
 
-[^key-36ac50c32f8abeff15a1412ac4b2221c]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/5/section/69) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-36ac50c32f8abeff15a1412ac4b2221c]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2011/5/section/69) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

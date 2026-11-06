@@ -51,11 +51,11 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-43c583a359b053d8ea6397e5f5ae9c44]
+### 1. Citation and commencement[^c-43c583a359b053d8ea6397e5f5ae9c44]
 
 This Order may be cited as the Little Crow Solar Park Order 2022 and comes into force on 27th April 2022.
 
-### 2. Interpretation[^key-5154e57699db55ecd2779cc864fe2430]
+### 2. Interpretation[^c-5154e57699db55ecd2779cc864fe2430]
 
 (1) In this Order except where provided otherwise—
 
@@ -117,7 +117,7 @@ This Order may be cited as the Little Crow Solar Park Order 2022 and comes into 
 
 ## PART 2 — PRINCIPAL POWERS
 
-### 3. Development consent etc. granted by the Order[^key-d9d2305dbecec48c8670d6951e625f11]
+### 3. Development consent etc. granted by the Order[^c-d9d2305dbecec48c8670d6951e625f11]
 
 (1) Subject to the provisions of this Order including the requirements the undertaker is granted development consent for the authorised development to be carried out within the Order limits.
 
@@ -127,13 +127,13 @@ This Order may be cited as the Little Crow Solar Park Order 2022 and comes into 
 
 (4) The undertaker must notify the local planning authority prior to the commencement of any works comprised in Work No.2A or Work No. 2B which of those works it intends to construct.
 
-### 4. Maintenance of authorised development[^key-d813921508a33aa36cd135d31d9791c2]
+### 4. Maintenance of authorised development[^c-d813921508a33aa36cd135d31d9791c2]
 
 (1) The undertaker may at any time maintain the authorised development, except to the extent that this Order, or an agreement made under this Order, provides otherwise.
 
 (2) This article only authorises the carrying out of works for maintenance purposes within the Order limits.
 
-### 5. Consent to transfer benefit of Order[^key-8544eda682d1c5827b8d7754bb3aa4b3]
+### 5. Consent to transfer benefit of Order[^c-8544eda682d1c5827b8d7754bb3aa4b3]
 
 (1) Except as otherwise provided in this Order, the provisions of this Order have effect solely for the benefit of the undertaker.
 
@@ -173,7 +173,7 @@ except where paragraph (6) applies, in which case no consent of the Secretary of
 
 (10) The notice given under paragraph (7) must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notice.
 
-### 6. Disapplication, application and modification of legislative provisions[^key-7b4c2cf39ffb8f808ea1e14d6f312952]
+### 6. Disapplication, application and modification of legislative provisions[^c-7b4c2cf39ffb8f808ea1e14d6f312952]
 
 (1) Regulation 6 of the Hedgerows Regulations 1997[^f00013] is modified so as to read for the purposes of this Order only as if there were inserted after paragraph (1)(j) the following—
 
@@ -181,7 +181,7 @@ except where paragraph (6) applies, in which case no consent of the Secretary of
 
 (2) Any development or any part of a development within the Order limits which is constructed or used under the authority of a planning permission pursuant to Part 3 of the 1990 Act (whether expressed or otherwise) following the coming into force of this Order is to be disregarded at all times for the purposes of ascertaining whether or not an offence has been committed under the provisions of Sections 160 (development without development consent) and 161 (breach of terms of order granting development consent) of the 2008 Act [^f00014].
 
-### 7. Defence to proceedings in respect of statutory nuisance[^key-448c93cf6ce63fbac6ec6d7559c08e11]
+### 7. Defence to proceedings in respect of statutory nuisance[^c-448c93cf6ce63fbac6ec6d7559c08e11]
 
 (1) Where proceedings are brought under section 82(1) (summary proceedings by person aggrieved by statutory nuisances) of the Environmental Protection Act 1990[^f00015] in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order is to be made, and no fine is to be imposed, under section 82(2) of that Act if —
 
@@ -194,13 +194,13 @@ except where paragraph (6) applies, in which case no consent of the Secretary of
 
 ## PART 3 — PUBLIC FOOTPATH
 
-### 8. Temporary closure and diversion of public footpath[^key-b39b148ae7e1a20c5b7a1b016a8edead]
+### 8. Temporary closure and diversion of public footpath[^c-b39b148ae7e1a20c5b7a1b016a8edead]
 
 The undertaker may, during the construction and decommissioning of the authorised development, temporarily close public footpath 214 as specified in column (3) of Schedule 3 (public footpath to be temporarily closed and diverted) to the extent specified in column (5) (extent of temporary closure) of Schedule 3, and must provide the temporary substitute public footpath specified in column (6) (extent of temporary diversion) of Schedule 3 for the period during which the footpath is temporarily closed.
 
 ## PART 4 — SUPPLEMENTAL POWERS
 
-### 9. Discharge of water[^key-5440807f1e6f4fd27fb3639ed5b2601a]
+### 9. Discharge of water[^c-5440807f1e6f4fd27fb3639ed5b2601a]
 
 (1) Subject to paragraphs (3) and (4) the undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out, maintenance or use of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -226,7 +226,7 @@ The undertaker may, during the construction and decommissioning of the authorise
 
 (9) If a person who receives an application for consent under paragraph (3) or approval under paragraph (4)(a) fails to notify the undertaker of a decision within 28 days of receiving an application, that person is deemed to have granted consent or given approval, as the case may be.
 
-### 10. Authority to survey and investigate the land[^key-307d42fd7249acdecb6b4a62cca7976e]
+### 10. Authority to survey and investigate the land[^c-307d42fd7249acdecb6b4a62cca7976e]
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
 
@@ -260,7 +260,7 @@ that authority is deemed to have granted consent.
 
 ## PART 5 — OPERATIONS
 
-### 11. Operation of generating station[^key-8f2cd5957b8d11557579972bb40a5e9a]
+### 11. Operation of generating station[^c-8f2cd5957b8d11557579972bb40a5e9a]
 
 (1) The undertaker is authorised to operate and use the generating station for which development consent is granted by this Order.
 
@@ -268,7 +268,7 @@ that authority is deemed to have granted consent.
 
 ## PART 6 — MISCELLANEOUS AND GENERAL
 
-### 12. Removal of human remains[^key-ec227f08f06d48d3c61f98c3d4de4627]
+### 12. Removal of human remains[^c-ec227f08f06d48d3c61f98c3d4de4627]
 
 (1) Before the undertaker carries out any development or works which will or may disturb any human remains within the Order limits it must remove those human remains from the Order limits, or cause them to be removed, in accordance with the following provisions of this article.
 
@@ -328,11 +328,11 @@ subject to paragraph (9) the undertaker must remove the remains and cause them t
 
 (16) The Town and Country Planning (Churches, Places of Religious Worship and Burial Ground) Regulations 1950[^f00020] do not apply to the authorised development.
 
-### 13. Operational land for the purposes of the 1990 Act[^key-17344e8e20de9aef1339e8c7b4aeb39d]
+### 13. Operational land for the purposes of the 1990 Act[^c-17344e8e20de9aef1339e8c7b4aeb39d]
 
 Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) (cases in which land is to be treated as not being operational land) of the 1990 Act.
 
-### 14. Certification of plans, etc.t[^key-25b6cbc37d76e8a8cedc3f726b61cab4]
+### 14. Certification of plans, etc.t[^c-25b6cbc37d76e8a8cedc3f726b61cab4]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the Secretary of State copies of the—
 
@@ -366,7 +366,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 15. Service of notices[^key-94d41d2661e663053853d9be379e063e]
+### 15. Service of notices[^c-94d41d2661e663053853d9be379e063e]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -406,7 +406,7 @@ for certification that they are true copies of the documents referred to in this
 
 (10) In this article “**legible in all material respects**” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served, given or supplied by means of a notice or document in printed form.
 
-### 16. Felling or lopping of trees or removal of hedgerows[^key-d54ac0d93b1e1c9614d839dbb9f961fb]
+### 16. Felling or lopping of trees or removal of hedgerows[^c-d54ac0d93b1e1c9614d839dbb9f961fb]
 
 (1) The undertaker may fell or lop any tree, or shrub near any part of the authorised development, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree, or shrub—
 
@@ -424,19 +424,19 @@ for certification that they are true copies of the documents referred to in this
 
 (5) In this article “**hedgerow**” and “**important hedgerow**” have the same meaning as in the Hedgerow Regulations 1997[^f00022].
 
-### 17. Arbitration[^key-e78615ef04d165fee335cfed8569924a]
+### 17. Arbitration[^c-e78615ef04d165fee335cfed8569924a]
 
 (1) Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled in arbitration in accordance with the rules at Schedule 5 (Arbitration rules) of this Order, by a single arbitrator to be agreed upon by the parties, within 14 days of receipt of the notice of arbitration, or if the parties fail to agree within the time period stipulated, to be appointed on application of either party (after giving written notice to the other) by the Secretary of State.
 
 (2) Any matter for which the consent or approval of the Secretary of State is required under any provision of this Order shall not be subject to arbitration.
 
-### 18. Requirements, appeals, etc.[^key-d39ef08ebea361faffaf0a191efb9928]
+### 18. Requirements, appeals, etc.[^c-d39ef08ebea361faffaf0a191efb9928]
 
 (1) Where an application is made to, or a request is made of, the local planning authority or any other relevant person for any agreement or approval requirement or contemplated by any of the provisions of this Order, such agreement or approval must, if given, be given in writing and must not be unreasonably withheld or delayed.
 
 (2) Part 2 (procedure for discharge or requirements) of Schedule 2 (Requirements) has effect in relation to all agreements or approvals granted, refused or withheld in relation to requirements in Part 1 of that Schedule.
 
-### 19. Application of landlord and tenant law[^key-d3550d9b1695d0840e37b8824e040b90]
+### 19. Application of landlord and tenant law[^c-d3550d9b1695d0840e37b8824e040b90]
 
 (1) This article applies to—
 
@@ -453,7 +453,7 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-### 20. Protective Provisions[^key-2b93e432c5608fb47cb64e78218f88a0]
+### 20. Protective Provisions[^c-2b93e432c5608fb47cb64e78218f88a0]
 
 Schedule 6 (protective provisions) has effect.
 
@@ -473,7 +473,7 @@ SCHEDULES
 
 Article 2
 
-### 1. In the administrative area of North Lincolnshire[^key-f9b62784cfe20c601507b673ae1a76ad]
+### 1. In the administrative area of North Lincolnshire[^c-f9b62784cfe20c601507b673ae1a76ad]
 
 The construction, operation, maintenance and decommissioning of a nationally significant infrastructure project as defined in sections l4(l) and 15 of the 2008 Act with associated development under section 115(1)(b) of the 2008 Act.
 
@@ -611,7 +611,7 @@ Article 2
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-da0cf9a47273449c63b96b3270474973]
+#### 1. Interpretation[^c-da0cf9a47273449c63b96b3270474973]
 
 In this Schedule—
 
@@ -625,19 +625,19 @@ In this Schedule—
 - “**phase**” means a defined section or part of the authorised development, the extent of which is shown in a scheme submitted to and approved by the local planning authority under requirement 5 (phases of authorised development); and
 - “**substation operator**” means the operator of the substation from time to time constructed as part of Work No. 4.”
 
-#### 2. Time limit[^key-83b3898f315f8ce35c0269c576845783]
+#### 2. Time limit[^c-83b3898f315f8ce35c0269c576845783]
 
 The authorised development must commence no later than the expiration of five years beginning with the date on which this Order comes into force.
 
-#### 3. Expiry of development consent[^key-0982a05477180f148b652e5f09b0e80f]
+#### 3. Expiry of development consent[^c-0982a05477180f148b652e5f09b0e80f]
 
-(1) The authorised development must cease generating electricity on a commercial basis no later than the 45[^key-1037f0a2582001da8c21df3ce1f0554e]<sup>th</sup> anniversary of the first export date from Work No.1.
+(1) The authorised development must cease generating electricity on a commercial basis no later than the 45[^c-1037f0a2582001da8c21df3ce1f0554e]<sup>th</sup> anniversary of the first export date from Work No.1.
 
 (2) Confirmation of the first export date for Work No.1 must be provided by the undertaker to the local planning authority within one month of its occurrence.
 
-#### 4. Decommissioning and site restoration[^key-d1d5959d1ad9be808f74b57aa985c675]
+#### 4. Decommissioning and site restoration[^c-d1d5959d1ad9be808f74b57aa985c675]
 
-(1) Not less than 6 months before the 45[^key-a97d07afb37475ca16412c3c03097411]<sup>th</sup> anniversary of the first export date, a decommissioning and site restoration scheme must be submitted to the local planning authority for its approval. The decommissioning and site restoration scheme(s) must be in accordance with the outline decommissioning strategy.
+(1) Not less than 6 months before the 45[^c-a97d07afb37475ca16412c3c03097411]<sup>th</sup> anniversary of the first export date, a decommissioning and site restoration scheme must be submitted to the local planning authority for its approval. The decommissioning and site restoration scheme(s) must be in accordance with the outline decommissioning strategy.
 
 (2) The decommissioning and site restoration scheme(s) must include provision for—
 
@@ -647,13 +647,13 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) The decommissioning of the authorised development and the restoration of the land affected by the authorised development must be undertaken within the time period set out in accordance with the approved decommissioning and site restoration scheme(s).
 
-#### 5. Phases of authorised development[^key-8f2496232a7c46973674b802271f8653]
+#### 5. Phases of authorised development[^c-8f2496232a7c46973674b802271f8653]
 
 (1) The authorised development must not be commenced until a written scheme setting out the phases of construction of the authorised development has been submitted to and approved by the local planning authority.
 
 (2) The authorised development must be implemented in accordance with the approved phasing scheme.
 
-#### 6. Detailed design approval[^key-d4d794de0b75c679f576f3292d21770c]
+#### 6. Detailed design approval[^c-d4d794de0b75c679f576f3292d21770c]
 
 (1) No phase of the authorised development is to be commenced until written details of the following for that phase have been submitted to and approved by the local planning authority—
 
@@ -676,7 +676,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) The authorised development must be carried out in accordance with the approved details.
 
-#### 7. Battery Safety Management Plan (BSMP)[^key-8329383e0ed13ce4c8bf76a2d216bb24]
+#### 7. Battery Safety Management Plan (BSMP)[^c-8329383e0ed13ce4c8bf76a2d216bb24]
 
 (1) Prior to the commencement of either Work No. 2A or Work No. 2B as notified to the local planning authority under Article 3(4) a BSMP must be submitted to and approved by the local planning authority.
 
@@ -684,7 +684,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) In the event that the submitted BSMP proposes changes to the outline BSMP the local planning authority must not approve the BSMP until it has consulted with the Health and Safety Executive and Humberside Fire and Rescue Service.
 
-#### 8. Construction Environmental Management Plans (CEMPs)[^key-c40267882c1400d077852d1f164a973e]
+#### 8. Construction Environmental Management Plans (CEMPs)[^c-c40267882c1400d077852d1f164a973e]
 
 (1) No phase of the authorised development is to be commenced until a CEMP for that phase has been submitted to and approved by the local planning authority. Any CEMP submitted for approval must be in accordance with the outline CEMP and any approved CEMP must be adhered to for the duration of the works in the phase of the authorised development to which the CEMP relates.
 
@@ -701,7 +701,7 @@ The authorised development must commence no later than the expiration of five ye
 - (i) details of out of hours working procedures; and
 - (j) a construction and environmental management plan for biodiversity that must accord with the outline construction and environmental management plan for biodiversity.
 
-#### 9. Construction Traffic Management Plan (CTMP)[^key-2eef9213a7463006adc58bd37876a754]
+#### 9. Construction Traffic Management Plan (CTMP)[^c-2eef9213a7463006adc58bd37876a754]
 
 (1) No phase of the authorised development is to be commenced until a CTMP covering th at phase and in accordance with the outline CTMP has been submitted to and approved by the local planning authority.
 
@@ -713,7 +713,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) The CTMP must be implemented as approved.
 
-#### 10. Landscape and Ecological Management Plan (LEMP)[^key-63666d973f1f7f8a59bb5d198a3332e5]
+#### 10. Landscape and Ecological Management Plan (LEMP)[^c-63666d973f1f7f8a59bb5d198a3332e5]
 
 (1) No phase of the authorised development is to be commenced until a LEMP covering that phase which accords with the outline LEMP has been submitted to and approved by the local planning authority.
 
@@ -727,7 +727,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) The LEMP must be implemented as approved.
 
-#### 11. Construction hours[^key-09ac4cb7859a3ee7ea915c79794fa53d]
+#### 11. Construction hours[^c-09ac4cb7859a3ee7ea915c79794fa53d]
 
 (1) Subject to sub-paragraph (2), no construction works are to take place except between the hours of—
 
@@ -741,7 +741,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) Any emergency works carried out under sub-paragraph (2)(a) must be notified to the local planning authority within 72 hours of their commencement.
 
-#### 12. Surface and foul water drainage[^key-584a31d13e3c56ee0461f2f506d9d7c0]
+#### 12. Surface and foul water drainage[^c-584a31d13e3c56ee0461f2f506d9d7c0]
 
 (1) No phase of the authorised development is to be commenced until written details of the surface and foul water drainage system for that phase have been submitted to and approved by the local planning authority.
 
@@ -749,7 +749,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) The surface and foul water drainage system for the relevant part of the authorised development must be constructed in accordance with the approved details.
 
-#### 13. Archaeology[^key-09fc43273a568c8b028ee948e7c44ba8]
+#### 13. Archaeology[^c-09fc43273a568c8b028ee948e7c44ba8]
 
 (1) The authorised development must be carried out in accordance with the archaeological management plan.
 
@@ -767,7 +767,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (8) Within six months of the commencement of the authorised development the undertaker must submit a scheme to the local planning authority detailing proposals for two interpretation boards explaining the significance of Gokewell Priory. The scheme shall include details of the proposed location, size, materials, content, means of fixing and maintenance of the proposed boards. The scheme shall be implemented as approved within six months following the completion of the authorised development or six months following the approval of the scheme whichever is the later.
 
-#### 14. Protected Species[^key-e9eaeb54da42de7002e09b1fff6b8176]
+#### 14. Protected Species[^c-e9eaeb54da42de7002e09b1fff6b8176]
 
 (1) No work, including site preparation works, shall be commenced in any phase of the authorised development until final pre-construction survey work has been carried out for that phase to establish whether a protected species is present on any of the land affected, or likely to be affected, by the authorised development or in any of the trees to be lopped or felled as part of that phase.
 
@@ -777,13 +777,13 @@ The authorised development must commence no later than the expiration of five ye
 
 (4) In this requirement, “**protected species**” refers to any species defined as a European Protected Species in regulations 42 (European protected species of animals) and 46 (European protected species of plants) of the Conservation of Habitats and Species Regulations 2017[^f00024] or any species to which Part I (wildlife) and Schedule 5 (animals which are protected) of the Wildlife and Countryside Act 1981[^f00025] applies.
 
-#### 15. Operational noise[^key-43d5b2e4d129c20cfa0e79d666a80ba5]
+#### 15. Operational noise[^c-43d5b2e4d129c20cfa0e79d666a80ba5]
 
 (1) No phase of the authorised development is to commence until an operational noise assessment containing details of how the design of the authorised development has incorporated mitigation to ensure the operational noise rating levels as set out in the environmental statement are to be complied with for that phase has been submitted to and approved by the local planning authority.
 
 (2) The authorised development must be implemented and operated for its duration in accordance with the approved operational noise assessment.
 
-#### 16. Temporary diversion to public footpath[^key-0401c51b3b6f9a17067f122507aed897]
+#### 16. Temporary diversion to public footpath[^c-0401c51b3b6f9a17067f122507aed897]
 
 (1) No phase of the authorised development is to be commenced and no decommissioning will be undertaken until a public rights of way management plan for the phase incorporating any part of public footpath 214 shown to be temporarily closed and diverted on the temporary diversion of public footpath plan has been submitted to and, approved by the local planning authority.
 
@@ -794,11 +794,11 @@ The authorised development must commence no later than the expiration of five ye
 
 (3) Prior to the commencement of any phase of the authorised development and of any decommissioning the public rights of way management plan must be implemented as approved.
 
-#### 17. Requirement for written approval[^key-bf13714db2274f3be3e464b85a71b01b]
+#### 17. Requirement for written approval[^c-bf13714db2274f3be3e464b85a71b01b]
 
 Where the approval, agreement or confirmation of the Secretary of State, local planning authority or another person is required under a requirement that approval or confirmation must be given in writing.
 
-#### 18. Amendments to approved details[^key-a21dc0dbef8b98253799346f3f5c471b]
+#### 18. Amendments to approved details[^c-a21dc0dbef8b98253799346f3f5c471b]
 
 (1) With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved by the local planning authority, the approved details must be carried out as approved unless an amendment or variation has previously been approved in writing by the local planning authority in accordance with sub-paragraph (2).
 
@@ -808,7 +808,7 @@ Where the approval, agreement or confirmation of the Secretary of State, local p
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 19. Applications made under requirements[^key-9c21eb488dddd446c70ca621cbc02f94]
+#### 19. Applications made under requirements[^c-9c21eb488dddd446c70ca621cbc02f94]
 
 (1) Where an application has been made to the local planning authority for any consent, agreement or approval required by a requirement contained in Part 1 of this Schedule, or for any consent, agreement or approval further to any document referred to in any such requirement, the local planning authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with—
 
@@ -822,7 +822,7 @@ Where the approval, agreement or confirmation of the Secretary of State, local p
 
 and where consent, agreement or approval is refused or granted subject to conditions the local planning authority must provide its reasons for that decision with the notice of the decision.
 
-#### 20. Further information regarding requirements[^key-b9b57be56be6601f10f7d5fd5f3bc2f6]
+#### 20. Further information regarding requirements[^c-b9b57be56be6601f10f7d5fd5f3bc2f6]
 
 (1) In relation to any application referred to in paragraph 19, the local planning authority may request such further information from the undertaker as it considers necessary to enable it to consider the application.
 
@@ -832,7 +832,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (4) If the local planning authority does not give the notification within the period specified in sub-paragraph (2) or (3) it (and the consultee, as the case may be) is deemed to have sufficient information to consider the application and is not entitled to request further information without the prior agreement of the undertaker.
 
-#### 21. Appeals[^key-3128d1f25c74e4d40dcea06fc30de15c]
+#### 21. Appeals[^c-3128d1f25c74e4d40dcea06fc30de15c]
 
 (1) Where the undertaker makes an application to a local planning authority, the undertaker may appeal to the Secretary of State in the event that—
 
@@ -875,7 +875,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (11) On application by the local planning authority or the undertaker, the appointed person may give directions as to the costs of the appeal and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the guidance on costs in the Planning Practice Guidance or any official circular or guidance which may from time to time replace it.
 
-## SCHEDULE 3 — PUBLIC FOOTPATH TO BE TEMPORARILY CLOSED AND DIVERTED[^key-01405b196c849ee9d81c838767a09138]
+## SCHEDULE 3 — PUBLIC FOOTPATH TO BE TEMPORARILY CLOSED AND DIVERTED[^c-01405b196c849ee9d81c838767a09138]
 
 Article 8
 
@@ -889,7 +889,7 @@ Table 1
 
 Article 16
 
-### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^key-ed523ddc3a7c970c688f7d30fe282141]
+### PART 1 — REMOVAL OF IMPORTANT HEDGEROWS[^c-ed523ddc3a7c970c688f7d30fe282141]
 
 Table 2
 
@@ -901,7 +901,7 @@ Table 2
 | Hedgerow Plan ref 2.40 LC DRW | H5 | Removal of section 19 as shown with a purple circle on the hedgerow plan |
 | Hedgerow Plan ref 2.40 LC DRW | H5 | Removal of section 14 as shown with a yellow circle on the hedgerow plan |
 
-### PART 2 — REMOVAL OF HEDGEROWS[^key-a8b567edcc64c581b6d21d25ecca57d2]
+### PART 2 — REMOVAL OF HEDGEROWS[^c-a8b567edcc64c581b6d21d25ecca57d2]
 
 Table 3
 
@@ -929,13 +929,13 @@ Table 3
 
 Article 17
 
-### 1. Primary objective[^key-20e967b7e902ec9292d5d5175e1120c9]
+### 1. Primary objective[^c-20e967b7e902ec9292d5d5175e1120c9]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the arbitrator is appointed pursuant to article 17 of the Order.
 
 (2) The arbitration is deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-3f915e34f3b0b7e1d8b770b8576d2179]
+### 2. Time periods[^c-3f915e34f3b0b7e1d8b770b8576d2179]
 
 (1) All time periods in these arbitration rules will be measured in days and this is to include weekends, but not bank or public holidays.
 
@@ -944,7 +944,7 @@ Article 17
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-0f2f670217df4f5cd16109bfd6ec1726]
+### 3. Timetable[^c-0f2f670217df4f5cd16109bfd6ec1726]
 
 (1) The timetable for the arbitration is to be that set out in sub-paragraphs (2) to (4) unless amended in accordance with sub-paragraph 5(3).
 
@@ -967,7 +967,7 @@ Article 17
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-99ba4397ace46efb6a31413181f8b0f4]
+### 4. Procedure[^c-99ba4397ace46efb6a31413181f8b0f4]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. No single pleading is to exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -995,7 +995,7 @@ Article 17
 
 (11) The arbitrator’s award must include reasons. The parties will accept that the extent to which reasons are given must be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-5be4e879820964d5e08aafe7518943e0]
+### 5. Arbitrator’s powers[^c-5be4e879820964d5e08aafe7518943e0]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996, including the non-mandatory sections, save where modified by these arbitration rules in this Schedule.
 
@@ -1008,7 +1008,7 @@ Article 17
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-e7ffbc9d0c62b991b24b6ecc9cf73e37]
+### 6. Costs[^c-e7ffbc9d0c62b991b24b6ecc9cf73e37]
 
 (1) The costs of the arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the arbitration.
 
@@ -1018,7 +1018,7 @@ Article 17
 
 (4) The arbitrator will award recoverable costs on the general principle that each party should bear its own costs, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-fc012af04433b1bf1c04e83e58b481a3]
+### 7. Confidentiality[^c-fc012af04433b1bf1c04e83e58b481a3]
 
 (1) The parties agree that any hearings held as part of the arbitration will take place in private.
 
@@ -1030,11 +1030,11 @@ Article 20
 
 ### PART 1 — PROTECTION FOR ELECTRICITY, GAS, WATER AND SEWERAGE UNDERTAKERS
 
-#### 1. Application[^key-0fa4224869609e0154461168130028f4]
+#### 1. Application[^c-0fa4224869609e0154461168130028f4]
 
 For the protection of the affected undertakers referred to in this Part of this Schedule (save for Anglian Water which is protected by Part 2 of this Schedule and Northern Powergrid which is protected by Part 4 of this Schedule) the following provisions have effect, unless otherwise agreed in writing between the undertaker and the affected undertaker concerned.
 
-**2.**[^key-5127d568d4fd163019102e17bc2ec308] In this Part of this Schedule—
+**2.**[^c-5127d568d4fd163019102e17bc2ec308] In this Part of this Schedule—
 
 - “**affected undertaker**” means—
   - (a) any licence holder within the meaning of Part 1 (electricity supply) of the 1989 Act;
@@ -1058,11 +1058,11 @@ For the protection of the affected undertakers referred to in this Part of this 
 - “**functions**” includes powers and duties; and
 - “in” in a context referring to apparatus or alternative apparatus in land includes a reference to apparatus or alternative apparatus under, over or upon land.
 
-#### 3. Precedence of the 1991 Act in respect of apparatus in the streets[^key-056430e63a202b0eebc795ddbed3d609]
+#### 3. Precedence of the 1991 Act in respect of apparatus in the streets[^c-056430e63a202b0eebc795ddbed3d609]
 
 This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the affected undertaker are regulated by the provisions of Part 3 (water supply) of the 1991 Act.
 
-#### 4. Removal of apparatus[^key-886403adce28f64d6aeb5900ede714c5]
+#### 4. Removal of apparatus[^c-886403adce28f64d6aeb5900ede714c5]
 
 (1) If, for the purpose of executing any works in, on or under any land purchased, held, or used under this Order, the undertaker requires the removal of any apparatus placed in that land, it must give to the affected undertaker in question written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order an affected undertaker reasonably needs to remove any of its apparatus) the undertaker must, subject to sub-paragraph (2), afford to the affected undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of the undertaker and subsequently for the maintenance of that apparatus.
 
@@ -1074,13 +1074,13 @@ This Part of this Schedule does not apply to apparatus in respect of which the r
 
 (5) Regardless of anything in sub-paragraph (4), if the undertaker gives notice in writing to the affected undertaker in question that it desires itself to execute any work, or part of any work in connection with the construction or removal of apparatus in any land controlled by the undertaker, that work, instead of being executed by the affected undertaker, must be executed by the undertaker without unnecessary delay under the superintendence, if given, and to the reasonable satisfaction of the affected undertaker.
 
-#### 5. Facilities and rights for alternative apparatus[^key-af48da6d1a50df7d795272d8cd0762b4]
+#### 5. Facilities and rights for alternative apparatus[^c-af48da6d1a50df7d795272d8cd0762b4]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to an affected undertaker facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and the affected undertaker in question or in default of agreement settled by arbitration in accordance with article 17 (arbitration).
 
 (2) If the facilities and rights to be afforded by the undertaker in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the affected undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by the undertaker to that affected undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 6. Retained apparatus[^key-dbac572e4d7d22bbc258a231c933ae0b]
+#### 6. Retained apparatus[^c-dbac572e4d7d22bbc258a231c933ae0b]
 
 (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 4(1) that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 4(1), the undertaker must submit to the affected undertaker in question a plan, section and description of the works to be executed.
 
@@ -1094,7 +1094,7 @@ This Part of this Schedule does not apply to apparatus in respect of which the r
 
 (6) The undertaker is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to the affected undertaker in question notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-#### 7. Expenses and costs[^key-c9fb31d9efd16d12ac912b964e9778b8]
+#### 7. Expenses and costs[^c-c9fb31d9efd16d12ac912b964e9778b8]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to an affected undertaker the reasonable expenses incurred by that affected undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 4(1).
 
@@ -1114,7 +1114,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to an affected undertaker in respect of works by virtue of sub-paragraph (1) must, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the affected undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-**8.**[^key-b9d366f14613bd95e586b92e584d05a2] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraph 4(1), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an affected undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any affected undertaker, the undertaker must—
+**8.**[^c-b9d366f14613bd95e586b92e584d05a2] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraph 4(1), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an affected undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any affected undertaker, the undertaker must—
 
 - (a) bear and pay the cost reasonably incurred by that affected undertaker in making good such damage or restoring the supply; and
 - (b) provide reasonable compensation to that affected undertaker for any other expenses, loss, damages, penalty or costs incurred by the affected undertaker,
@@ -1125,15 +1125,15 @@ by reason or in consequence of any such damage or interruption.
 
 (3) An affected undertaker must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise may be made without the consent of the undertaker which, if it withholds such consent, will have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-#### 9. Enactments and agreements[^key-355b7b01d65d374349cae4a7acf21d95]
+#### 9. Enactments and agreements[^c-355b7b01d65d374349cae4a7acf21d95]
 
 Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an affected undertaker in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
 ### PART 2 — FOR THE PROTECTION OF ANGLIAN WATER
 
-**10.**[^key-b06b9efe47699410cbdb49335e3cbcab] For the protection of Anglian Water, the following provisions have effect, unless otherwise agreed in writing between the undertaker and Anglian Water.
+**10.**[^c-b06b9efe47699410cbdb49335e3cbcab] For the protection of Anglian Water, the following provisions have effect, unless otherwise agreed in writing between the undertaker and Anglian Water.
 
-**11.**[^key-5d781d7231375e4daedb3b45b278a682] In this Part of this Schedule—
+**11.**[^c-5d781d7231375e4daedb3b45b278a682] In this Part of this Schedule—
 
 - “**alternative apparatus**” means alternative apparatus adequate to enable Anglian Water to fulfil its statutory functions in not less efficient a manner than previously;
 - “**apparatus**” means—
@@ -1148,18 +1148,18 @@ and includes a sludge main, disposal main or sewer outfall and any manholes, ven
 - “**plan**” includes sections, drawings, specifications and method statements; and
 - “**water main**” means the 21 inch iron water main (asset number 7293912) within the Order Limits.
 
-**12.**[^key-8a8752293b6360416b40069f9724e83f] The undertaker must not interfere with, build over or near to any apparatus within the Order limits or execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within the standard protective strip which is the strip of land falling 6 metres either side of the water main within the Order limits (including any accessories to it) or 3 metres either side of any other apparatus uncovered by the undertaker during construction or so as to require any special measures that are outside industry standard measures other than in accordance with paragraph 16 below unless otherwise agreed with Anglian Water, such agreement not to be unreasonably withheld or delayed, with such provision being brought to the attention of any agent or contractor responsible for carrying out any work on behalf of the undertaker.
+**12.**[^c-8a8752293b6360416b40069f9724e83f] The undertaker must not interfere with, build over or near to any apparatus within the Order limits or execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within the standard protective strip which is the strip of land falling 6 metres either side of the water main within the Order limits (including any accessories to it) or 3 metres either side of any other apparatus uncovered by the undertaker during construction or so as to require any special measures that are outside industry standard measures other than in accordance with paragraph 16 below unless otherwise agreed with Anglian Water, such agreement not to be unreasonably withheld or delayed, with such provision being brought to the attention of any agent or contractor responsible for carrying out any work on behalf of the undertaker.
 
-**13.**[^key-6543d3eea3a656507fb0a555a153751e] The alteration, extension, removal or re-location of any apparatus must not be implemented until—
+**13.**[^c-6543d3eea3a656507fb0a555a153751e] The alteration, extension, removal or re-location of any apparatus must not be implemented until—
 
 - (a) any requirement for a permit under the Environmental Permitting (England and Wales) Regulations 2016[^f00028] or other legislation and any other associated consents are obtained, and any approval or agreement required from Anglian Water on alternative outfall locations as a result of such re-location are approved, such approvals from Anglian Water not to be unreasonably withheld or delayed; and
 - (b) the undertaker has made the appropriate application required under the Water Industry Act 1991 together with a plan and section of the works proposed and Anglian Water has agreed all of the contractual documentation required under the Water Industry Act 1991, such agreement not to be unreasonably withheld or delayed; and such works to be executed only in accordance with the plan, section and description submitted and in accordance with such reasonable requirements as may be made by Anglian Water for the alteration or otherwise for the protection of the apparatus, or for securing access to it.
 
-**14.**[^key-dd830d35d1c149dec6c6464f47ab9098] If in consequence of the exercise of the powers conferred by the Order the access to any apparatus is materially obstructed the undertaker must provide such alternative means of access to such apparatus as will enable Anglian Water to maintain or use the apparatus no less effectively than was possible before such obstruction.
+**14.**[^c-dd830d35d1c149dec6c6464f47ab9098] If in consequence of the exercise of the powers conferred by the Order the access to any apparatus is materially obstructed the undertaker must provide such alternative means of access to such apparatus as will enable Anglian Water to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-**15.**[^key-94bc29794734d2de19b4a94a26a2a50e] If in consequence of the exercise of the powers conferred by the Order, previously unmapped sewers, lateral drains or other apparatus are identified by the undertaker, notification of the location of such assets must immediately be given to Anglian Water and afforded the same protection of other Anglian Water assets.
+**15.**[^c-94bc29794734d2de19b4a94a26a2a50e] If in consequence of the exercise of the powers conferred by the Order, previously unmapped sewers, lateral drains or other apparatus are identified by the undertaker, notification of the location of such assets must immediately be given to Anglian Water and afforded the same protection of other Anglian Water assets.
 
-**16.**[^key-31c6b928a2b98d5b0f02944df36d1fd0] (1) Not less than 28 days before starting the execution of any works that are near to, or will or may affect, any apparatus where the removal of which has not been required by the undertaker, the undertaker must submit to Anglian Water a plan, section and description of the works to be executed.
+**16.**[^c-31c6b928a2b98d5b0f02944df36d1fd0] (1) Not less than 28 days before starting the execution of any works that are near to, or will or may affect, any apparatus where the removal of which has not been required by the undertaker, the undertaker must submit to Anglian Water a plan, section and description of the works to be executed.
 
 (2) Those works must be executed only in accordance with the plan, section and description submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by Anglian Water for the alteration or otherwise for the protection of the apparatus, or for securing access to it, and Anglian Water is entitled to watch and inspect the execution of those works.
 
@@ -1169,20 +1169,20 @@ and includes a sludge main, disposal main or sewer outfall and any manholes, ven
 
 (5) The undertaker is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to Anglian Water notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-**17.**[^key-8140371582a191be939a2295fd45f727] If for any reason as a result of the construction of any of the works referred to in paragraphs 13 or 16 any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of Anglian Water, or there is any interruption in any service provided, or in the supply of any goods, by Anglian Water, the undertaker must—
+**17.**[^c-8140371582a191be939a2295fd45f727] If for any reason as a result of the construction of any of the works referred to in paragraphs 13 or 16 any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of Anglian Water, or there is any interruption in any service provided, or in the supply of any goods, by Anglian Water, the undertaker must—
 
 - (a) bear and pay the cost reasonably incurred by Anglian Water in making good any damage or restoring the supply; and
 - (b) make reasonable compensation to Anglian Water for any other direct expenses, loss, damages, penalty or costs incurred by Anglian Water.
 
-**18.**[^key-ea1bc630b22f8d886ed91fae2dd8fd42] Anglian Water must use its reasonable endeavours to mitigate in whole or in part and to minimise any costs, expenses, loss, demands, penalties and costs to which the provisions of this Part 2 apply. If requested to do so by the undertaker, Anglian Water must provide an explanation of how any claim has been minimised. The undertaker is only liable under paragraph 17 for claims reasonably incurred by Anglian Water.
+**18.**[^c-ea1bc630b22f8d886ed91fae2dd8fd42] Anglian Water must use its reasonable endeavours to mitigate in whole or in part and to minimise any costs, expenses, loss, demands, penalties and costs to which the provisions of this Part 2 apply. If requested to do so by the undertaker, Anglian Water must provide an explanation of how any claim has been minimised. The undertaker is only liable under paragraph 17 for claims reasonably incurred by Anglian Water.
 
-**19.**[^key-c35ea6fa6ebe431c413db4c7fa441da7] For the avoidance of doubt any difference under any provision of this Part 2 of Schedule 6, unless otherwise provided for, shall be referred to and settled by arbitration in accordance with the rules at Schedule 5 (Arbitration rules) of this Order, by a single arbitrator to be agreed upon by the parties, within 14 days of receipt of the notice of arbitration, or if the parties fail to agree within the time period stipulated, to be appointed on application of either party (after giving written notice to the other) by the Secretary of State.
+**19.**[^c-c35ea6fa6ebe431c413db4c7fa441da7] For the avoidance of doubt any difference under any provision of this Part 2 of Schedule 6, unless otherwise provided for, shall be referred to and settled by arbitration in accordance with the rules at Schedule 5 (Arbitration rules) of this Order, by a single arbitrator to be agreed upon by the parties, within 14 days of receipt of the notice of arbitration, or if the parties fail to agree within the time period stipulated, to be appointed on application of either party (after giving written notice to the other) by the Secretary of State.
 
 ### PART 3 — FOR PROTECTION FOR OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**20.**[^key-dd44ea06d308963400e0c224f8089fe9] For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
+**20.**[^c-dd44ea06d308963400e0c224f8089fe9] For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
 
-**21.**[^key-207ef93a6ab02ccb8980fcdecbc272c3] In this Part of this Schedule—
+**21.**[^c-207ef93a6ab02ccb8980fcdecbc272c3] In this Part of this Schedule—
 
 - “**the 2003 Act**” means the Communications Act 2003[^f00029];
 - “**the code rights**” has the same meaning as in the Paragraph 3 of the electronic communications code[^f00030];
@@ -1195,9 +1195,9 @@ and includes a sludge main, disposal main or sewer outfall and any manholes, ven
 - “**infrastructure system**” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7(2) of that code; and
 - “**operator**” means the operator of an electronic communications code network.
 
-**22.**[^key-0df7d1111acf2f4113dd8964d45a6931] The exercise of the powers conferred by this Order is subject to part 10 (undertaker’s works affecting electronic communications apparatus) of the electronic communications code.
+**22.**[^c-0df7d1111acf2f4113dd8964d45a6931] The exercise of the powers conferred by this Order is subject to part 10 (undertaker’s works affecting electronic communications apparatus) of the electronic communications code.
 
-**23.**[^key-8c4d9451a3ffc8867ecdb09fc14f2138] (1) Subject to sub-paragraphs (2) to (3), if as a result of the authorised development or its construction, or of any subsidence resulting from any of the authorised development—
+**23.**[^c-8c4d9451a3ffc8867ecdb09fc14f2138] (1) Subject to sub-paragraphs (2) to (3), if as a result of the authorised development or its construction, or of any subsidence resulting from any of the authorised development—
 
 - (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised development), or other property of an operator; or
 - (b) there is any interruption in the supply of the service provided by an operator,
@@ -1206,24 +1206,24 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 (2) Nothing in sub-paragraph (1) imposes any liability on the undertaker with respect to any damage or interruption to the extent that it is attributable to the act, neglect or default of an operator, its officers, servants, contractors or agents.
 
-**24.**[^key-1457a7045e0eb78f3393bf345239481d] The operator must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise of the claim or demand is to be made without the consent of the undertaker and if such consent, is withheld, the undertaker has the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
+**24.**[^c-1457a7045e0eb78f3393bf345239481d] The operator must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise of the claim or demand is to be made without the consent of the undertaker and if such consent, is withheld, the undertaker has the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**25.**[^key-d3ca6b820879ce7304059b9680f26027] Any difference arising between the undertaker and the operator under this Part of this Schedule must be referred to and settled by arbitration under article 17 (arbitration).
+**25.**[^c-d3ca6b820879ce7304059b9680f26027] Any difference arising between the undertaker and the operator under this Part of this Schedule must be referred to and settled by arbitration under article 17 (arbitration).
 
-**26.**[^key-45e3d74c99010015286f7f57111c33ce] This Part of this Schedule does not apply to—
+**26.**[^c-45e3d74c99010015286f7f57111c33ce] This Part of this Schedule does not apply to—
 
 - (a) any apparatus in respect of which the relations between the undertaker and an operator are regulated by the provisions of Part 3 (street works in England and Wales) of the 1991 Act; or
 - (b) any damage, or any interruption, caused by electro-magnetic interference arising from the construction or use of the authorised development.
 
-**27.**[^key-828b698e09538f9e8d340e5fd997a55c] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus in land belonging to the undertaker on the date on which this Order is made.
+**27.**[^c-828b698e09538f9e8d340e5fd997a55c] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus in land belonging to the undertaker on the date on which this Order is made.
 
 ### PART 4 — FOR THE PROTECTION OF NORTHERN POWERGRID (YORKSHIRE) PLC
 
-#### 28. Application[^key-089cb7fdc78264f50e99cf358be0f803]
+#### 28. Application[^c-089cb7fdc78264f50e99cf358be0f803]
 
 For the protection of Northern Powergrid (Yorkshire) PLC (“Northern Powergrid”), the following provisions will have effect, unless otherwise agreed in writing between the undertaker and Northern Powergrid.
 
-**29.**[^key-d15bca01fa0cd92ad826dbd551e2b854] In this Part of this Schedule—
+**29.**[^c-d15bca01fa0cd92ad826dbd551e2b854] In this Part of this Schedule—
 
 - “**acceptable credit provider**” means a bank or financial institution with a credit rating that is not lower than “A-” if the rating is assigned by Standard & Poor’s Ratings Group or “A3” if the rating is assigned by Moody’s Investors Services Inc. (or an equivalent credit rating from an equivalent organisation in the event that such organisation or ratings are no longer applicable);
 - “**acceptable insurance**” means a policy of public liability/ third party liability insurance effected and maintained by the undertaker or its contractor(s) to a level that may be approved by Northern Powergrid in writing and in any event with insurance cover of not less than £10,000,000 (ten million pounds) per event for the construction period of the onshore works pursuant to this Order with an internationally recognised insurer of repute operating in the London and worldwide insurance market, and such policy shall include (but without limitation)—
@@ -1240,11 +1240,11 @@ For the protection of Northern Powergrid (Yorkshire) PLC (“Northern Powergrid�
 - “in” in a context referring to apparatus or alternative apparatus in land includes a reference to apparatus or alternative apparatus under, over or upon land; and
 - “**Northern Powergrid**” means Northern Powergrid (Yorkshire) PLC being a licence holder within the meaning of Part 1 (electricity supply) of the 1989 Act for the area of the authorised development and in relation to any apparatus belonging to it or maintained by it.
 
-#### 30. No interference[^key-d360edfd4db96f55dfb592bf76d00864]
+#### 30. No interference[^c-d360edfd4db96f55dfb592bf76d00864]
 
 Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference, the undertaker shall not interfere with any communications cables or equipment used by Northern Powergrid in relation to its apparatus or interfere with any rights or interests supporting the use, maintenance or renewal of such equipment otherwise than by agreement of Northern Powergrid ( such agreement not to be unreasonably withheld or delayed).
 
-#### 31. Removal of apparatus[^key-8da75589918a59d123a02499352c7029]
+#### 31. Removal of apparatus[^c-8da75589918a59d123a02499352c7029]
 
 (1) If, for the purpose of executing any works in, on or under any land purchased, held, or used under this Order, the undertaker requires the removal of any apparatus placed in that land, it must give Northern Powergrid 56 days advance written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order Northern Powergrid reasonably needs to remove any of its apparatus) the undertaker must, subject to sub-paragraph (2) , afford to Northern Powergrid the necessary facilities and rights for the construction of alternative apparatus in other land of the undertaker and subsequently for the maintenance of that apparatus.
 
@@ -1276,13 +1276,13 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (8) Nothing in sub-paragraph (6) authorises the undertaker to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-#### 32. Facilities and rights for alternative apparatus[^key-eba4bb00c541beaabcfa6664620c73b0]
+#### 32. Facilities and rights for alternative apparatus[^c-eba4bb00c541beaabcfa6664620c73b0]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to Northern Powergrid facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and Northern Powergrid or in default of agreement settled by arbitration in accordance with article 17 (arbitration).
 
 (2) If the facilities and rights to be afforded by the undertaker in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to Northern Powergrid than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by the undertaker to Northern Powergrid as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 33. Retained apparatus[^key-4b439cca6fcafbcb9aa90ddc734edf04]
+#### 33. Retained apparatus[^c-4b439cca6fcafbcb9aa90ddc734edf04]
 
 (1) Not less than 56 days before starting the execution of any works of the type referred to in paragraph 31 (1) that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 31(1), the undertaker must submit to Northern Powergrid a plan, section and description of the works to be executed.
 
@@ -1296,7 +1296,7 @@ Regardless of any provision in this Order or anything shown on the land plans or
 
 (6) The undertaker is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to Northern Powergrid as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-#### 34. Expenses and costs[^key-791999f4ef3b9bb0e746c6107b7ab9e6]
+#### 34. Expenses and costs[^c-791999f4ef3b9bb0e746c6107b7ab9e6]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to Northern Powergrid within 30 days receipt of a valid invoice all charges costs and expenses reasonably incurred by Northern Powergrid in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are authorised by this Order including without limitation—
 
@@ -1321,7 +1321,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - (a) an extension of apparatus to a length greater than the length of existing apparatus is not to be treated as a placing of apparatus of greater dimensions than those of the existing apparatus; and
 - (b) where the provision of a joint in a cable is agreed, or is determined to be necessary, the consequential provision of a jointing chamber or of a manhole is to be treated as if it also had been agreed or had been so determined.
 
-**35.**[^key-f1e6f906d857c776abcf7fcefc174a2a] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in this Order, or in consequence of the construction, use, maintenance or failure of any of the authorised development by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by it) in the course of carrying out such works, including without limitation works carried out by the undertaker or Northern Powergrid under this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of Northern Powergrid, or there is any interruption in any service provided, or in the supply of any goods, by Northern Powergrid, or Northern Powergrid becomes liable to pay any amount to a third party the undertaker must—
+**35.**[^c-f1e6f906d857c776abcf7fcefc174a2a] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in this Order, or in consequence of the construction, use, maintenance or failure of any of the authorised development by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by it) in the course of carrying out such works, including without limitation works carried out by the undertaker or Northern Powergrid under this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of Northern Powergrid, or there is any interruption in any service provided, or in the supply of any goods, by Northern Powergrid, or Northern Powergrid becomes liable to pay any amount to a third party the undertaker must—
 
 - (a) bear and pay the cost reasonably incurred by Northern Powergrid in making good such damage or restoring the supply; and
 - (b) indemnify Northern Powergrid for any other expenses, loss, demands, proceedings, damages, claims, penalty or costs reasonably incurred by or recovered from Northern Powergrid, by reason or in consequence of any such damage or interruption or Northern Powergrid becoming liable to any third party.
@@ -1330,15 +1330,15 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (3) Northern Powergrid must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise may be made without the consent of the undertaker which, if it withholds such consent, will have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-#### 36. Enactments and agreements[^key-e6820993b4eec74460de986b83cfa254]
+#### 36. Enactments and agreements[^c-e6820993b4eec74460de986b83cfa254]
 
 Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and Northern Powergrid in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 37. Co-operation[^key-fb5a411bf1b15ce09415dcf31aba73be]
+#### 37. Co-operation[^c-fb5a411bf1b15ce09415dcf31aba73be]
 
 Where in consequence of the proposed construction of any of the authorised development, the undertaker or Northern Powergrid requires the removal of apparatus under paragraph 31 or otherwise or Northern Powergrid makes requirements for the protection or alteration of apparatus under paragraph 33, the undertaker shall use its best endeavours to co-ordinate the execution of the works in the interests of safety and the need to ensure the safe and efficient operation of Northern Powergrid’s undertaking taking into account the undertaker’s desire for the efficient and economic execution of the authorised development and the undertaker and Northern Powergrid shall use reasonable endeavours to co-operate with each other for those purposes.
 
-#### 38. Access[^key-f8ee12643c5e2ff826a8b0f40b54f5d7]
+#### 38. Access[^c-f8ee12643c5e2ff826a8b0f40b54f5d7]
 
 If in consequence of an agreement reached in accordance with paragraph 31 or the powers granted under this Order the access to any apparatus or alternative apparatus is materially obstructed, the undertaker shall use all reasonable endeavours to provide such alternative means of access to such apparatus or alternative apparatus as will enable Northern Powergrid to maintain or use the said apparatus no less effectively than was possible before such obstruction.
 
@@ -1362,9 +1362,9 @@ A copy of the plans, the environmental statement and other documents mentioned i
 
 [^f00004]: Footnote: [S.I. 2017/572](https://www.legislation.gov.uk/uksi/2017/572).
 
-[^key-43c583a359b053d8ea6397e5f5ae9c44]: Commencement: Art. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-43c583a359b053d8ea6397e5f5ae9c44]: Commencement: Art. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-5154e57699db55ecd2779cc864fe2430]: Commencement: Art. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-5154e57699db55ecd2779cc864fe2430]: Commencement: Art. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00005]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33)
 
@@ -1382,218 +1382,218 @@ A copy of the plans, the environmental statement and other documents mentioned i
 
 [^f00012]: Footnote: “street authority” is defined in section 49, which was amended by paragraph 117 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-d9d2305dbecec48c8670d6951e625f11]: Commencement: Art. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d9d2305dbecec48c8670d6951e625f11]: Commencement: Art. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d813921508a33aa36cd135d31d9791c2]: Commencement: Art. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d813921508a33aa36cd135d31d9791c2]: Commencement: Art. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8544eda682d1c5827b8d7754bb3aa4b3]: Commencement: Art. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8544eda682d1c5827b8d7754bb3aa4b3]: Commencement: Art. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-7b4c2cf39ffb8f808ea1e14d6f312952]: Commencement: Art. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-7b4c2cf39ffb8f808ea1e14d6f312952]: Commencement: Art. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00013]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 
 [^f00014]: Footnote: Sections 160 and 161 were amended by [S.I.2015/664](https://www.legislation.gov.uk/uksi/2015/664). Section 161 was also amended by section 112 (2) of and paragraph 4 of Part 1 of Schedule 8 to the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-448c93cf6ce63fbac6ec6d7559c08e11]: Commencement: Art. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-448c93cf6ce63fbac6ec6d7559c08e11]: Commencement: Art. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00015]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^f00016]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61(9) was amended by Section 162 and paragraph 15 of Schedule 3 to the Environment Protection Act [1990 (c. 25)](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to 1974 Act which are not relevant to this Order.
 
-[^key-b39b148ae7e1a20c5b7a1b016a8edead]: Commencement: Art. 8 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-b39b148ae7e1a20c5b7a1b016a8edead]: Commencement: Art. 8 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-5440807f1e6f4fd27fb3639ed5b2601a]: Commencement: Art. 9 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-5440807f1e6f4fd27fb3639ed5b2601a]: Commencement: Art. 9 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00017]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(8)(a) of the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to the section which are not relevant to this Order.
 
 [^f00018]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) “Groundwater activity” is defined in paragraph 3 of Schedule 22. “Water discharge activity” is defined in paragraph 3 of Schedule 21.
 
-[^key-307d42fd7249acdecb6b4a62cca7976e]: Commencement: Art. 10 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-307d42fd7249acdecb6b4a62cca7976e]: Commencement: Art. 10 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8f2cd5957b8d11557579972bb40a5e9a]: Commencement: Art. 11 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8f2cd5957b8d11557579972bb40a5e9a]: Commencement: Art. 11 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-ec227f08f06d48d3c61f98c3d4de4627]: Commencement: Art. 12 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-ec227f08f06d48d3c61f98c3d4de4627]: Commencement: Art. 12 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00019]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Substituted by Church of England (Miscellaneous Provisions) Measure 2014, section 2 (January 1, 2015: substitution has effect subject to transitional and saving provisions specified in [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077), paragraphs 1 and 2).
 
 [^f00020]: Footnote: [S.I. 1950/792](https://www.legislation.gov.uk/uksi/1950/792).
 
-[^key-17344e8e20de9aef1339e8c7b4aeb39d]: Commencement: Art. 13 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-17344e8e20de9aef1339e8c7b4aeb39d]: Commencement: Art. 13 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-25b6cbc37d76e8a8cedc3f726b61cab4]: Commencement: Art. 14 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-25b6cbc37d76e8a8cedc3f726b61cab4]: Commencement: Art. 14 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-94d41d2661e663053853d9be379e063e]: Commencement: Art. 15 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-94d41d2661e663053853d9be379e063e]: Commencement: Art. 15 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00021]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-d54ac0d93b1e1c9614d839dbb9f961fb]: Commencement: Art. 16 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d54ac0d93b1e1c9614d839dbb9f961fb]: Commencement: Art. 16 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00022]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).
 
-[^key-e78615ef04d165fee335cfed8569924a]: Commencement: Art. 17 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-e78615ef04d165fee335cfed8569924a]: Commencement: Art. 17 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d39ef08ebea361faffaf0a191efb9928]: Commencement: Art. 18 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d39ef08ebea361faffaf0a191efb9928]: Commencement: Art. 18 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d3550d9b1695d0840e37b8824e040b90]: Commencement: Art. 19 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d3550d9b1695d0840e37b8824e040b90]: Commencement: Art. 19 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-2b93e432c5608fb47cb64e78218f88a0]: Commencement: Art. 20 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-2b93e432c5608fb47cb64e78218f88a0]: Commencement: Art. 20 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-f9b62784cfe20c601507b673ae1a76ad]: Commencement: Sch. 1 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-f9b62784cfe20c601507b673ae1a76ad]: Commencement: Sch. 1 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-da0cf9a47273449c63b96b3270474973]: Commencement: Sch. 2 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-da0cf9a47273449c63b96b3270474973]: Commencement: Sch. 2 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00023]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-83b3898f315f8ce35c0269c576845783]: Commencement: Sch. 2 para. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-83b3898f315f8ce35c0269c576845783]: Commencement: Sch. 2 para. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-0982a05477180f148b652e5f09b0e80f]: Commencement: Sch. 2 para. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-0982a05477180f148b652e5f09b0e80f]: Commencement: Sch. 2 para. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-1037f0a2582001da8c21df3ce1f0554e]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2022/436/schedule/2/paragraph/3/1) substituted (15.6.2023) by [The Little Crow Solar Park (Amendment) Order 2023 (S.I. 2023/660)](https://www.legislation.gov.uk/uksi/2023/660), [arts. 1](https://www.legislation.gov.uk/uksi/2023/660/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/660/article/3/a)
+[^c-1037f0a2582001da8c21df3ce1f0554e]: Textual amendment: Words in [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/uksi/2022/436/schedule/2/paragraph/3/1) substituted (15.6.2023) by [The Little Crow Solar Park (Amendment) Order 2023 (S.I. 2023/660)](https://www.legislation.gov.uk/uksi/2023/660), [arts. 1](https://www.legislation.gov.uk/uksi/2023/660/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2023/660/article/3/a)
 
-[^key-d1d5959d1ad9be808f74b57aa985c675]: Commencement: Sch. 2 para. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d1d5959d1ad9be808f74b57aa985c675]: Commencement: Sch. 2 para. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-a97d07afb37475ca16412c3c03097411]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2022/436/schedule/2/paragraph/4/1) substituted (15.6.2023) by [The Little Crow Solar Park (Amendment) Order 2023 (S.I. 2023/660)](https://www.legislation.gov.uk/uksi/2023/660), [arts. 1](https://www.legislation.gov.uk/uksi/2023/660/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/660/article/3/b)
+[^c-a97d07afb37475ca16412c3c03097411]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2022/436/schedule/2/paragraph/4/1) substituted (15.6.2023) by [The Little Crow Solar Park (Amendment) Order 2023 (S.I. 2023/660)](https://www.legislation.gov.uk/uksi/2023/660), [arts. 1](https://www.legislation.gov.uk/uksi/2023/660/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2023/660/article/3/b)
 
-[^key-8f2496232a7c46973674b802271f8653]: Commencement: Sch. 2 para. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8f2496232a7c46973674b802271f8653]: Commencement: Sch. 2 para. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d4d794de0b75c679f576f3292d21770c]: Commencement: Sch. 2 para. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d4d794de0b75c679f576f3292d21770c]: Commencement: Sch. 2 para. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8329383e0ed13ce4c8bf76a2d216bb24]: Commencement: Sch. 2 para. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8329383e0ed13ce4c8bf76a2d216bb24]: Commencement: Sch. 2 para. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-c40267882c1400d077852d1f164a973e]: Commencement: Sch. 2 para. 8 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-c40267882c1400d077852d1f164a973e]: Commencement: Sch. 2 para. 8 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-2eef9213a7463006adc58bd37876a754]: Commencement: Sch. 2 para. 9 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-2eef9213a7463006adc58bd37876a754]: Commencement: Sch. 2 para. 9 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-63666d973f1f7f8a59bb5d198a3332e5]: Commencement: Sch. 2 para. 10 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-63666d973f1f7f8a59bb5d198a3332e5]: Commencement: Sch. 2 para. 10 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-09ac4cb7859a3ee7ea915c79794fa53d]: Commencement: Sch. 2 para. 11 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-09ac4cb7859a3ee7ea915c79794fa53d]: Commencement: Sch. 2 para. 11 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-584a31d13e3c56ee0461f2f506d9d7c0]: Commencement: Sch. 2 para. 12 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-584a31d13e3c56ee0461f2f506d9d7c0]: Commencement: Sch. 2 para. 12 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-09fc43273a568c8b028ee948e7c44ba8]: Commencement: Sch. 2 para. 13 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-09fc43273a568c8b028ee948e7c44ba8]: Commencement: Sch. 2 para. 13 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-e9eaeb54da42de7002e09b1fff6b8176]: Commencement: Sch. 2 para. 14 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-e9eaeb54da42de7002e09b1fff6b8176]: Commencement: Sch. 2 para. 14 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00024]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
 [^f00025]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-43d5b2e4d129c20cfa0e79d666a80ba5]: Commencement: Sch. 2 para. 15 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-43d5b2e4d129c20cfa0e79d666a80ba5]: Commencement: Sch. 2 para. 15 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-0401c51b3b6f9a17067f122507aed897]: Commencement: Sch. 2 para. 16 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-0401c51b3b6f9a17067f122507aed897]: Commencement: Sch. 2 para. 16 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-bf13714db2274f3be3e464b85a71b01b]: Commencement: Sch. 2 para. 17 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-bf13714db2274f3be3e464b85a71b01b]: Commencement: Sch. 2 para. 17 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-a21dc0dbef8b98253799346f3f5c471b]: Commencement: Sch. 2 para. 18 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-a21dc0dbef8b98253799346f3f5c471b]: Commencement: Sch. 2 para. 18 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-9c21eb488dddd446c70ca621cbc02f94]: Commencement: Sch. 2 para. 19 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-9c21eb488dddd446c70ca621cbc02f94]: Commencement: Sch. 2 para. 19 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-b9b57be56be6601f10f7d5fd5f3bc2f6]: Commencement: Sch. 2 para. 20 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-b9b57be56be6601f10f7d5fd5f3bc2f6]: Commencement: Sch. 2 para. 20 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-3128d1f25c74e4d40dcea06fc30de15c]: Commencement: Sch. 2 para. 21 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-3128d1f25c74e4d40dcea06fc30de15c]: Commencement: Sch. 2 para. 21 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-01405b196c849ee9d81c838767a09138]: Commencement: Sch. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-01405b196c849ee9d81c838767a09138]: Commencement: Sch. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-ed523ddc3a7c970c688f7d30fe282141]: Commencement: Sch. 4 Pt. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-ed523ddc3a7c970c688f7d30fe282141]: Commencement: Sch. 4 Pt. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-a8b567edcc64c581b6d21d25ecca57d2]: Commencement: Sch. 4 Pt. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-a8b567edcc64c581b6d21d25ecca57d2]: Commencement: Sch. 4 Pt. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-20e967b7e902ec9292d5d5175e1120c9]: Commencement: Sch. 5 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-20e967b7e902ec9292d5d5175e1120c9]: Commencement: Sch. 5 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-3f915e34f3b0b7e1d8b770b8576d2179]: Commencement: Sch. 5 para. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-3f915e34f3b0b7e1d8b770b8576d2179]: Commencement: Sch. 5 para. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-0f2f670217df4f5cd16109bfd6ec1726]: Commencement: Sch. 5 para. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-0f2f670217df4f5cd16109bfd6ec1726]: Commencement: Sch. 5 para. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-99ba4397ace46efb6a31413181f8b0f4]: Commencement: Sch. 5 para. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-99ba4397ace46efb6a31413181f8b0f4]: Commencement: Sch. 5 para. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-5be4e879820964d5e08aafe7518943e0]: Commencement: Sch. 5 para. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-5be4e879820964d5e08aafe7518943e0]: Commencement: Sch. 5 para. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-e7ffbc9d0c62b991b24b6ecc9cf73e37]: Commencement: Sch. 5 para. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-e7ffbc9d0c62b991b24b6ecc9cf73e37]: Commencement: Sch. 5 para. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-fc012af04433b1bf1c04e83e58b481a3]: Commencement: Sch. 5 para. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-fc012af04433b1bf1c04e83e58b481a3]: Commencement: Sch. 5 para. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-0fa4224869609e0154461168130028f4]: Commencement: Sch. 6 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-0fa4224869609e0154461168130028f4]: Commencement: Sch. 6 para. 1 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-5127d568d4fd163019102e17bc2ec308]: Commencement: Sch. 6 para. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-5127d568d4fd163019102e17bc2ec308]: Commencement: Sch. 6 para. 2 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00026]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and was further amended by section 76 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
 [^f00027]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-056430e63a202b0eebc795ddbed3d609]: Commencement: Sch. 6 para. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-056430e63a202b0eebc795ddbed3d609]: Commencement: Sch. 6 para. 3 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-886403adce28f64d6aeb5900ede714c5]: Commencement: Sch. 6 para. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-886403adce28f64d6aeb5900ede714c5]: Commencement: Sch. 6 para. 4 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-af48da6d1a50df7d795272d8cd0762b4]: Commencement: Sch. 6 para. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-af48da6d1a50df7d795272d8cd0762b4]: Commencement: Sch. 6 para. 5 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-dbac572e4d7d22bbc258a231c933ae0b]: Commencement: Sch. 6 para. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-dbac572e4d7d22bbc258a231c933ae0b]: Commencement: Sch. 6 para. 6 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-c9fb31d9efd16d12ac912b964e9778b8]: Commencement: Sch. 6 para. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-c9fb31d9efd16d12ac912b964e9778b8]: Commencement: Sch. 6 para. 7 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-b9d366f14613bd95e586b92e584d05a2]: Commencement: Sch. 6 para. 8 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-b9d366f14613bd95e586b92e584d05a2]: Commencement: Sch. 6 para. 8 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-355b7b01d65d374349cae4a7acf21d95]: Commencement: Sch. 6 para. 9 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-355b7b01d65d374349cae4a7acf21d95]: Commencement: Sch. 6 para. 9 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-b06b9efe47699410cbdb49335e3cbcab]: Commencement: Sch. 6 para. 10 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-b06b9efe47699410cbdb49335e3cbcab]: Commencement: Sch. 6 para. 10 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-5d781d7231375e4daedb3b45b278a682]: Commencement: Sch. 6 para. 11 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-5d781d7231375e4daedb3b45b278a682]: Commencement: Sch. 6 para. 11 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8a8752293b6360416b40069f9724e83f]: Commencement: Sch. 6 para. 12 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8a8752293b6360416b40069f9724e83f]: Commencement: Sch. 6 para. 12 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-6543d3eea3a656507fb0a555a153751e]: Commencement: Sch. 6 para. 13 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-6543d3eea3a656507fb0a555a153751e]: Commencement: Sch. 6 para. 13 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00028]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154).
 
-[^key-dd830d35d1c149dec6c6464f47ab9098]: Commencement: Sch. 6 para. 14 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-dd830d35d1c149dec6c6464f47ab9098]: Commencement: Sch. 6 para. 14 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-94bc29794734d2de19b4a94a26a2a50e]: Commencement: Sch. 6 para. 15 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-94bc29794734d2de19b4a94a26a2a50e]: Commencement: Sch. 6 para. 15 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-31c6b928a2b98d5b0f02944df36d1fd0]: Commencement: Sch. 6 para. 16 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-31c6b928a2b98d5b0f02944df36d1fd0]: Commencement: Sch. 6 para. 16 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8140371582a191be939a2295fd45f727]: Commencement: Sch. 6 para. 17 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8140371582a191be939a2295fd45f727]: Commencement: Sch. 6 para. 17 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-ea1bc630b22f8d886ed91fae2dd8fd42]: Commencement: Sch. 6 para. 18 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-ea1bc630b22f8d886ed91fae2dd8fd42]: Commencement: Sch. 6 para. 18 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-c35ea6fa6ebe431c413db4c7fa441da7]: Commencement: Sch. 6 para. 19 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-c35ea6fa6ebe431c413db4c7fa441da7]: Commencement: Sch. 6 para. 19 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-dd44ea06d308963400e0c224f8089fe9]: Commencement: Sch. 6 para. 20 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-dd44ea06d308963400e0c224f8089fe9]: Commencement: Sch. 6 para. 20 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-207ef93a6ab02ccb8980fcdecbc272c3]: Commencement: Sch. 6 para. 21 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-207ef93a6ab02ccb8980fcdecbc272c3]: Commencement: Sch. 6 para. 21 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
 [^f00029]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00030]: Footnote: See section 106 of the 2003 Act. Section 106 was amended by section 4(3) of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-0df7d1111acf2f4113dd8964d45a6931]: Commencement: Sch. 6 para. 22 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-0df7d1111acf2f4113dd8964d45a6931]: Commencement: Sch. 6 para. 22 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8c4d9451a3ffc8867ecdb09fc14f2138]: Commencement: Sch. 6 para. 23 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8c4d9451a3ffc8867ecdb09fc14f2138]: Commencement: Sch. 6 para. 23 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-1457a7045e0eb78f3393bf345239481d]: Commencement: Sch. 6 para. 24 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-1457a7045e0eb78f3393bf345239481d]: Commencement: Sch. 6 para. 24 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d3ca6b820879ce7304059b9680f26027]: Commencement: Sch. 6 para. 25 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d3ca6b820879ce7304059b9680f26027]: Commencement: Sch. 6 para. 25 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-45e3d74c99010015286f7f57111c33ce]: Commencement: Sch. 6 para. 26 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-45e3d74c99010015286f7f57111c33ce]: Commencement: Sch. 6 para. 26 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-828b698e09538f9e8d340e5fd997a55c]: Commencement: Sch. 6 para. 27 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-828b698e09538f9e8d340e5fd997a55c]: Commencement: Sch. 6 para. 27 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-089cb7fdc78264f50e99cf358be0f803]: Commencement: Sch. 6 para. 28 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-089cb7fdc78264f50e99cf358be0f803]: Commencement: Sch. 6 para. 28 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d15bca01fa0cd92ad826dbd551e2b854]: Commencement: Sch. 6 para. 29 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d15bca01fa0cd92ad826dbd551e2b854]: Commencement: Sch. 6 para. 29 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-d360edfd4db96f55dfb592bf76d00864]: Commencement: Sch. 6 para. 30 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-d360edfd4db96f55dfb592bf76d00864]: Commencement: Sch. 6 para. 30 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-8da75589918a59d123a02499352c7029]: Commencement: Sch. 6 para. 31 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-8da75589918a59d123a02499352c7029]: Commencement: Sch. 6 para. 31 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-eba4bb00c541beaabcfa6664620c73b0]: Commencement: Sch. 6 para. 32 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-eba4bb00c541beaabcfa6664620c73b0]: Commencement: Sch. 6 para. 32 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-4b439cca6fcafbcb9aa90ddc734edf04]: Commencement: Sch. 6 para. 33 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-4b439cca6fcafbcb9aa90ddc734edf04]: Commencement: Sch. 6 para. 33 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-791999f4ef3b9bb0e746c6107b7ab9e6]: Commencement: Sch. 6 para. 34 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-791999f4ef3b9bb0e746c6107b7ab9e6]: Commencement: Sch. 6 para. 34 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-f1e6f906d857c776abcf7fcefc174a2a]: Commencement: Sch. 6 para. 35 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-f1e6f906d857c776abcf7fcefc174a2a]: Commencement: Sch. 6 para. 35 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-e6820993b4eec74460de986b83cfa254]: Commencement: Sch. 6 para. 36 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-e6820993b4eec74460de986b83cfa254]: Commencement: Sch. 6 para. 36 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-fb5a411bf1b15ce09415dcf31aba73be]: Commencement: Sch. 6 para. 37 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-fb5a411bf1b15ce09415dcf31aba73be]: Commencement: Sch. 6 para. 37 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
 
-[^key-f8ee12643c5e2ff826a8b0f40b54f5d7]: Commencement: Sch. 6 para. 38 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)
+[^c-f8ee12643c5e2ff826a8b0f40b54f5d7]: Commencement: Sch. 6 para. 38 in force at 27.4.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/436/article/1)

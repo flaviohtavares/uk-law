@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Introductory[^key-742bd2eaa81ab0dcf258243e216faa42]
+## 82. Introductory[^c-742bd2eaa81ab0dcf258243e216faa42]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Nursing and Midwifery (Education, Registration and Registration Appeals) Rul
 
 ## Annotations
 
-[^key-742bd2eaa81ab0dcf258243e216faa42]: Commencement: Reg. 82 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-742bd2eaa81ab0dcf258243e216faa42]: Commencement: Reg. 82 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00063]: Footnote: [S.I. 2004/1767](https://www.legislation.gov.uk/uksi/2004/1767).

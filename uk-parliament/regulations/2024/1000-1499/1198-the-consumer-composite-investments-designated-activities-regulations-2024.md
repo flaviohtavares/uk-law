@@ -44,13 +44,13 @@ In accordance with sections 71S(2) and 429(9) of the Financial Services and Mark
 
 ## PART 1 — Introductory
 
-### 1. Citation and extent[^key-aaa87debb1dce11409086ee1e3f97990]
+### 1. Citation and extent[^c-aaa87debb1dce11409086ee1e3f97990]
 
 (1) These Regulations may be cited as the Consumer Composite Investments (Designated Activities) Regulations 2024.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Commencement[^key-c9b06671be8e466dc0aa46c92c37aed3]
+### 2. Commencement[^c-c9b06671be8e466dc0aa46c92c37aed3]
 
 (1) The following provisions come into force on the day after that on which these Regulations are made—
 
@@ -63,7 +63,7 @@ In accordance with sections 71S(2) and 429(9) of the Financial Services and Mark
 
 (2) So far as not already in force by virtue of paragraph (1), these Regulations come into force on the day on which the revocation of the PRIIPs Regulation[^f00005] by section 1(1) of, and Schedule 1 to, the Financial Services and Markets Act 2023 comes into force (“main commencement day”).
 
-### 3. Interpretation[^key-8c996363a0b408cdea8d6fc7c3b9aedb]
+### 3. Interpretation[^c-8c996363a0b408cdea8d6fc7c3b9aedb]
 
 (1) In these Regulations—
 
@@ -78,7 +78,7 @@ In accordance with sections 71S(2) and 429(9) of the Financial Services and Mark
 
 (2) In these Regulations, references to rules made by the FCA are to those rules as they have effect from time to time.
 
-### 4. “Consumer composite investment”[^key-4497d130b01bea86f0a513018f63ebcb]
+### 4. “Consumer composite investment”[^c-4497d130b01bea86f0a513018f63ebcb]
 
 (1) Subject to paragraph (2), “**consumer composite investment**” means—
 
@@ -126,7 +126,7 @@ where the value or amount payable to the investor is subject to fluctuations bec
 
 ## PART 2 — Designated Activities and FCA Powers
 
-### 5. Activities specified as designated activities for the purposes of FSMA 2000[^key-c427ef2e4b7cd69c06cb80f18bf52638]
+### 5. Activities specified as designated activities for the purposes of FSMA 2000[^c-c427ef2e4b7cd69c06cb80f18bf52638]
 
 (1) The following activities are specified under section 71K of FSMA 2000 as designated activities for the purposes of that Act—
 
@@ -159,7 +159,7 @@ where the value or amount payable to the investor is subject to fluctuations bec
   - (ii) in the case of a consumer composite investment consisting of rights under other arrangements, assuming the corresponding liabilities under the arrangements, and
   - (iii) in the case of any other consumer composite investment, granting the rights or interests of which it consists.
 
-### 6. FCA rules[^key-19629dd2e55bf1c72d90c1e8e1e21679]
+### 6. FCA rules[^c-19629dd2e55bf1c72d90c1e8e1e21679]
 
 (1) The FCA may make designated activity rules relating to the activities specified in regulation 5.
 
@@ -169,7 +169,7 @@ where the value or amount payable to the investor is subject to fluctuations bec
 
 (4) The FCA may publish any decision made by virtue of paragraph (3) in the way appearing to the FCA to be best calculated to bring it to the attention of persons likely to be affected by it.
 
-### 7. Power of the FCA to give directions[^key-9ab6cccbec6259a896443def2d9397a3]
+### 7. Power of the FCA to give directions[^c-9ab6cccbec6259a896443def2d9397a3]
 
 (1) The FCA may give a direction under section 71O of FSMA 2000[^f00017] imposing on a person or a description of persons such requirements as the FCA considers appropriate in relation to the carrying on of an activity specified in regulation 5.
 
@@ -182,7 +182,7 @@ where the value or amount payable to the investor is subject to fluctuations bec
 
 (4) Before giving, varying or revoking a direction, where the exercise of the power relates to a PRA-authorised person (as defined in section 2B(5) of FSMA 2000[^f00018]), the FCA must consult the PRA.
 
-### 8. Temporary exemptions[^key-815ef2cf9b850a8e58cfea598d0784c6]
+### 8. Temporary exemptions[^c-815ef2cf9b850a8e58cfea598d0784c6]
 
 (1) Before 1 January 2027, designated activity rules made by virtue of regulation 6 do not apply to a person listed in paragraph (2) where the conditions in paragraph (3) are met.
 
@@ -253,7 +253,7 @@ where the value or amount payable to the investor is subject to fluctuations bec
 - (k) references to an EEA UCITS include a reference to a sub-fund of an EEA UCITS;
 - (l) in paragraph (3), references to rules made by the FCA exclude designated activity rules made by virtue of regulation 6.
 
-### 8A. Temporary exemptions for promotions previously subject to the PRIIPS Regulation[^key-f0e6beb9873611f3d14f6fdca7000a7c]
+### 8A. Temporary exemptions for promotions previously subject to the PRIIPS Regulation[^c-f0e6beb9873611f3d14f6fdca7000a7c]
 
 (1) The financial promotion restriction and the scheme promotion restriction do not apply to any communication produced during the CCI transitional period where—
 
@@ -271,7 +271,7 @@ where the value or amount payable to the investor is subject to fluctuations bec
 
 ## PART 3 — Civil Liability
 
-### 9. Civil liability for breaches of designated activity rules[^key-c3a79682487c0e73bd32a79ed5842eab][^key-d61b80af6ccc3e7ddcdf4e9e0b370ebd]
+### 9. Civil liability for breaches of designated activity rules[^c-c3a79682487c0e73bd32a79ed5842eab][^c-d61b80af6ccc3e7ddcdf4e9e0b370ebd]
 
 (1) A contravention of a designated activity rule made by virtue of regulation 6 is actionable at the suit of a retail investor who suffers loss as a result of the contravention, subject to the defences and other incidents applying to actions for breach of statutory duty.
 
@@ -279,14 +279,14 @@ where the value or amount payable to the investor is subject to fluctuations bec
 
 ## PART 4 — Application with modifications of FSMA 2000 etc and consequential amendments
 
-### 10. Application with modifications of provisions of FSMA 2000 and amendments of secondary legislation[^key-409963ad2913584c1b7e38700d029415][^key-ab2c67f36849d32fa7f40609f174e69c]
+### 10. Application with modifications of provisions of FSMA 2000 and amendments of secondary legislation[^c-409963ad2913584c1b7e38700d029415][^c-ab2c67f36849d32fa7f40609f174e69c]
 
 In Schedule 1—
 
 - (a) Part 1 applies provisions of FSMA 2000 to these Regulations with modifications, and
 - (b) Part 2 contains amendments of secondary legislation.
 
-### 11. Consequential amendments[^key-48af02d0fa557c180eb267b13841846f][^key-09d1a743e7e1e212f8a09659d62b5367]
+### 11. Consequential amendments[^c-48af02d0fa557c180eb267b13841846f][^c-09d1a743e7e1e212f8a09659d62b5367]
 
 In Schedule 2—
 
@@ -308,7 +308,7 @@ Regulation 10
 
 ### PART 1 — Application with modifications of provisions of FSMA 2000
 
-#### 1. Temporary CCI intervention rules[^key-7aa6d0d432a7a150b7e09333aa9b5c0f][^key-46966daef427fb3592b891f0dacca07b]
+#### 1. Temporary CCI intervention rules[^c-7aa6d0d432a7a150b7e09333aa9b5c0f][^c-46966daef427fb3592b891f0dacca07b]
 
 Sections 138M to 138O of FSMA 2000 (temporary product intervention rules)[^f00026] apply to rules made by virtue of regulation 6 as they apply to product intervention rules made under section 137D of FSMA 2000 as if—
 
@@ -316,17 +316,17 @@ Sections 138M to 138O of FSMA 2000 (temporary product intervention rules)[^f0002
 - (b) in section 138M(1), for the words “advancing” to the end there were substituted “advancing the consumer protection objective”;
 - (c) in section 138O(1), the reference to section 138N were a reference to section 138N as applied by these Regulations.
 
-#### 2. Restitution[^key-fcdbfaeb74efa7cc363cecf0a3f62c09][^key-04a87668576f147bc66da56b07099c19]
+#### 2. Restitution[^c-fcdbfaeb74efa7cc363cecf0a3f62c09][^c-04a87668576f147bc66da56b07099c19]
 
 Section 384 of FSMA 2000 (power of FCA or PRA to require restitution)[^f00027] applies in respect of contraventions of a requirement imposed by virtue of regulation 6 of these Regulations and persons knowingly concerned in the contravention of such a requirement as if, in subsection (1), reference to an authorised person or recognised investment exchange included persons subject to designated activity rules made by virtue of regulation 6 of these Regulations.
 
 ### PART 2 — Amendments of secondary legislation
 
-#### 3. The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001[^key-b6d2240928eae04bf4a86e35b9fac6b0][^key-6e3e0aad1f2bab0f05e5dc46472bd9a3]
+#### 3. The Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001[^c-b6d2240928eae04bf4a86e35b9fac6b0][^c-6e3e0aad1f2bab0f05e5dc46472bd9a3]
 
 In the Financial Services and Markets Act 2000 (Promotion of Collective Investment Schemes) (Exemptions) Order 2001[^f00028], omit article 31 (communications required by the PRIIPs regulation: key information document).
 
-#### 4. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-2fb82eb561b7b3fb43ca855ffbadc0ff][^key-8c9c77bc78caeac925c8b7d845faffa5]
+#### 4. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-2fb82eb561b7b3fb43ca855ffbadc0ff][^c-8c9c77bc78caeac925c8b7d845faffa5]
 
 In the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00029], omit article 20C (communications required by the PRIIPs Regulation: key information document).
 
@@ -336,11 +336,11 @@ Regulation 11
 
 ### PART 1 — Amendment of FSMA 2000
 
-**1.**[^key-52f8862fdcc95079ca76aeb23c146b55][^key-b36986abcdce05c4e595b1e10d7b39d7] In section 391 (publication) of FSMA 2000 omit subsection (8D)[^f00030].
+**1.**[^c-52f8862fdcc95079ca76aeb23c146b55][^c-b36986abcdce05c4e595b1e10d7b39d7] In section 391 (publication) of FSMA 2000 omit subsection (8D)[^f00030].
 
 ### PART 2 — Amendments of secondary legislation
 
-#### 2. The Financial Services and Markets Act 2000 (Qualifying Provisions) Order 2013[^key-c1d55425f4c81a71ade09db25e33699c][^key-bae096412e672453f322042568d497ac]
+#### 2. The Financial Services and Markets Act 2000 (Qualifying Provisions) Order 2013[^c-c1d55425f4c81a71ade09db25e33699c][^c-bae096412e672453f322042568d497ac]
 
 (1) The Financial Services and Markets Act 2000 (Qualifying Provisions) Order 2013[^f00031] is amended as follows.
 
@@ -363,15 +363,15 @@ Regulation 11
 
 (6) In article 6 (qualifying provisions: fees), in paragraph (2), omit sub-paragraph (o).
 
-#### 3. The Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^key-c8699f9038d42987b9c5de0c65ec5941][^key-547f22bc89b0a418b52ea2384c52b09c]
+#### 3. The Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^c-c8699f9038d42987b9c5de0c65ec5941][^c-547f22bc89b0a418b52ea2384c52b09c]
 
 In article 2(1) of the Payment to Treasury of Penalties (Enforcement Costs) Order 2013[^f00032], omit sub-paragraph (n).
 
-#### 4. The Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) Order 2014[^key-c20261129b9df23b6878e9838db79b8b][^key-2ae28228103f4316985f865d6ff6992e]
+#### 4. The Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) Order 2014[^c-c20261129b9df23b6878e9838db79b8b][^c-2ae28228103f4316985f865d6ff6992e]
 
 In article 2 of the Financial Services Act 2012 (Relevant Functions in relation to Complaints Scheme) Order 2014 (relevant functions of the FCA)[^f00033], omit paragraph (g).
 
-#### 5. The Public Interest Disclosure (Prescribed Persons) Order 2014[^key-4ee4867b64734349a928758e4aa10de8][^key-b1edac0c53a81fe5ef17de3f782c51d4]
+#### 5. The Public Interest Disclosure (Prescribed Persons) Order 2014[^c-4ee4867b64734349a928758e4aa10de8][^c-b1edac0c53a81fe5ef17de3f782c51d4]
 
 In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 2014 (persons and descriptions of persons specified as prescribed for the purposes of section 43F of the Employment Rights Act 1996)[^f00034], in the entry relating to the Financial Conduct Authority, in the second column, for paragraph (n) substitute—
 
@@ -379,15 +379,15 @@ In the Schedule to the Public Interest Disclosure (Prescribed Persons) Order 201
 
 .
 
-#### 6. The Financial Regulators’ Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018[^key-321fee628e249d44c46670751215d6c2][^key-26ae70e82ebdbcaedee0f7d6d9f9349f]
+#### 6. The Financial Regulators’ Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018[^c-321fee628e249d44c46670751215d6c2][^c-26ae70e82ebdbcaedee0f7d6d9f9349f]
 
 In the Schedule to the Financial Regulators’ Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (EU Regulations for which the FCA is the appropriate regulator)[^f00035], omit paragraph 65, including the heading immediately before that paragraph.
 
-#### 7. The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018[^key-e44e94f69ee653ba95250b56479291cf][^key-e45aae6529e9f3c367b475bcd9c241e1]
+#### 7. The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018[^c-e44e94f69ee653ba95250b56479291cf][^c-e45aae6529e9f3c367b475bcd9c241e1]
 
 In regulation 59 of the EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (product intervention rules)[^f00036] omit paragraph (3).
 
-#### 8. The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019[^key-b01fb28f08629b5144e10cfeb3b73822][^key-f9307c1657c4cea1eab3f299204afb95]
+#### 8. The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019[^c-b01fb28f08629b5144e10cfeb3b73822][^c-f9307c1657c4cea1eab3f299204afb95]
 
 (1) Regulation 66 of the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (other duties of operator)[^f00037] is amended as follows.
 
@@ -399,17 +399,17 @@ In regulation 59 of the EEA Passport Rights (Amendment, etc., and Transitional P
 
 .
 
-#### 9. The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-d2c80087320473ab09e22453a3fd8bd6][^key-f42578c8e68ecea002891a4b0bba6c73]
+#### 9. The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-d2c80087320473ab09e22453a3fd8bd6][^c-f42578c8e68ecea002891a4b0bba6c73]
 
 In regulation 11(5) of the Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (saving for certain financial services legislation relating to Gibraltar)[^f00038], omit sub-paragraph (w).
 
-#### 10. The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019[^key-e6226760f90c4b5a062c9768c4cb21b3][^key-0f06adc4fadb8589cd7cbd04990833fe]
+#### 10. The Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019[^c-e6226760f90c4b5a062c9768c4cb21b3][^c-0f06adc4fadb8589cd7cbd04990833fe]
 
 In regulation 19 of the Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019 (product intervention rules)[^f00039] omit paragraph (3).
 
 ### PART 3 — Amendments of assimilated direct legislation
 
-#### 11. [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129)[^key-7f7e66b7517dbec250ea5a623bd702ef][^key-1aa2cf2b47e47be6e677f507e0b08756]
+#### 11. [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129)[^c-7f7e66b7517dbec250ea5a623bd702ef][^c-1aa2cf2b47e47be6e677f507e0b08756]
 
 In Article 7(5) of [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129) of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing [Directive 2003/71/EC](https://www.legislation.gov.uk/european/directive/2003/0071) (the prospectus summary: introduction)[^f00040], for point (f) substitute—
 
@@ -417,11 +417,11 @@ In Article 7(5) of [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/eu
 
 .
 
-#### 12. Commission Delegated [Regulation (EU) 2019/979](https://www.legislation.gov.uk/european/regulation/2019/0979)[^key-14d8360574501451766d1879c1054456][^key-330ea8d7f58d884242066dc05776548d]
+#### 12. Commission Delegated [Regulation (EU) 2019/979](https://www.legislation.gov.uk/european/regulation/2019/0979)[^c-14d8360574501451766d1879c1054456][^c-330ea8d7f58d884242066dc05776548d]
 
 In Article 14(1) of Commission Delegated [Regulation (EU) 2019/979](https://www.legislation.gov.uk/european/regulation/2019/0979) of 14 March 2019 supplementing [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129) of the European Parliament and of the Council with regard to regulatory technical standards on key financial information in the summary of a prospectus, the publication and classification of prospectuses, advertisements for securities, supplements to a prospectus, and the notification portal, and repealing Commission Delegated [Regulation (EU) No 382/2014](https://www.legislation.gov.uk/european/regulation/2014/0382) and Commission Delegated [Regulation (EU) 2016/301](https://www.legislation.gov.uk/european/regulation/2016/0301) (required content of advertisements to potential retail investors)[^f00041], in point (d), for the opening words substitute “a comprehension alert which must read ‘You are about to purchase a product that is not simple and may be difficult to understand.’ where:”.
 
-#### 13. Commission Delegated [Regulation (EU) 2019/980](https://www.legislation.gov.uk/european/regulation/2019/0980)[^key-bb921c7ebd611cfea53ca84fd2cea4e5][^key-fd28d4af3b8f882eed14cee8f0242b68]
+#### 13. Commission Delegated [Regulation (EU) 2019/980](https://www.legislation.gov.uk/european/regulation/2019/0980)[^c-bb921c7ebd611cfea53ca84fd2cea4e5][^c-fd28d4af3b8f882eed14cee8f0242b68]
 
 (1) Commission Delegated [Regulation (EU) 2019/980](https://www.legislation.gov.uk/european/regulation/2019/0980) of 14 March 2019 supplementing [Regulation (EU) 2017/1129](https://www.legislation.gov.uk/european/regulation/2017/1129) of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing [Commission Regulation (EC) No 809/2004](https://www.legislation.gov.uk/european/regulation/2004/0809)[^f00042] is amended as follows.
 
@@ -530,13 +530,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: For the meaning of “the affirmative procedure”, see section 84(3) of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-aaa87debb1dce11409086ee1e3f97990]: Commencement: Reg. 1 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
+[^c-aaa87debb1dce11409086ee1e3f97990]: Commencement: Reg. 1 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
 
-[^key-c9b06671be8e466dc0aa46c92c37aed3]: Commencement: Reg. 2 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
+[^c-c9b06671be8e466dc0aa46c92c37aed3]: Commencement: Reg. 2 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
 
 [^f00005]: Footnote: For the meaning of “PRIIPs Regulation” see regulation 3(1).
 
-[^key-8c996363a0b408cdea8d6fc7c3b9aedb]: Commencement: Reg. 3 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
+[^c-8c996363a0b408cdea8d6fc7c3b9aedb]: Commencement: Reg. 3 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
 
 [^f00006]: Footnote: [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
@@ -546,7 +546,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: The definition of “retail investor” was substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 
-[^key-4497d130b01bea86f0a513018f63ebcb]: Commencement: Reg. 4 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
+[^c-4497d130b01bea86f0a513018f63ebcb]: Commencement: Reg. 4 in force at 22.11.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/a)
 
 [^f00010]: Footnote: The definition of “structured deposit” was substituted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 
@@ -562,17 +562,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00016]: Footnote: The definition of “deposit” was inserted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 
-[^key-c427ef2e4b7cd69c06cb80f18bf52638]: Commencement: Reg. 5 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
+[^c-c427ef2e4b7cd69c06cb80f18bf52638]: Commencement: Reg. 5 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
 
-[^key-19629dd2e55bf1c72d90c1e8e1e21679]: Commencement: Reg. 6 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
+[^c-19629dd2e55bf1c72d90c1e8e1e21679]: Commencement: Reg. 6 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
 
-[^key-9ab6cccbec6259a896443def2d9397a3]: Commencement: Reg. 7 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
+[^c-9ab6cccbec6259a896443def2d9397a3]: Commencement: Reg. 7 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
 
 [^f00017]: Footnote: Section 71O was inserted by section 8(2) of the Financial Services and Markets Act 2023.
 
 [^f00018]: Footnote: Section 2B was substituted by section 6(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-815ef2cf9b850a8e58cfea598d0784c6]: Commencement: Reg. 8 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
+[^c-815ef2cf9b850a8e58cfea598d0784c6]: Commencement: Reg. 8 in force at 22.11.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/b)
 
 [^f00019]: Footnote: The definition of “management company” was substituted by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325).
 
@@ -588,118 +588,118 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00025]: Footnote: OJ L 302 17.11.2009, p. 32.
 
-[^key-f0e6beb9873611f3d14f6fdca7000a7c]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2024/1198/regulation/8A) inserted (6.4.2026) by [The Consumer Composite Investments (Designated Activities) (Amendment) Order 2025 (S.I. 2025/1347)](https://www.legislation.gov.uk/uksi/2025/1347), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1347/article/1/1), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/1347/regulation/2/2)
+[^c-f0e6beb9873611f3d14f6fdca7000a7c]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2024/1198/regulation/8A) inserted (6.4.2026) by [The Consumer Composite Investments (Designated Activities) (Amendment) Order 2025 (S.I. 2025/1347)](https://www.legislation.gov.uk/uksi/2025/1347), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1347/article/1/1), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2025/1347/regulation/2/2)
 
-[^key-c3a79682487c0e73bd32a79ed5842eab]: Commencement: Reg. 9 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-c3a79682487c0e73bd32a79ed5842eab]: Commencement: Reg. 9 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-d61b80af6ccc3e7ddcdf4e9e0b370ebd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1198/regulation/9) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-d61b80af6ccc3e7ddcdf4e9e0b370ebd]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/1198/regulation/9) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
-[^key-409963ad2913584c1b7e38700d029415]: Commencement: Reg. 10 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-409963ad2913584c1b7e38700d029415]: Commencement: Reg. 10 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-ab2c67f36849d32fa7f40609f174e69c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1198/regulation/10) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-ab2c67f36849d32fa7f40609f174e69c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/1198/regulation/10) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
-[^key-48af02d0fa557c180eb267b13841846f]: Commencement: Reg. 11 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-48af02d0fa557c180eb267b13841846f]: Commencement: Reg. 11 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-09d1a743e7e1e212f8a09659d62b5367]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1198/regulation/11) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-09d1a743e7e1e212f8a09659d62b5367]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/1198/regulation/11) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
-[^key-7aa6d0d432a7a150b7e09333aa9b5c0f]: Commencement: Sch. 1 para. 1 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-7aa6d0d432a7a150b7e09333aa9b5c0f]: Commencement: Sch. 1 para. 1 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-46966daef427fb3592b891f0dacca07b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/1) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-46966daef427fb3592b891f0dacca07b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/1) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00026]: Footnote: Sections 138M to 138O were substituted by section 24(1) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-fcdbfaeb74efa7cc363cecf0a3f62c09]: Commencement: Sch. 1 para. 2 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-fcdbfaeb74efa7cc363cecf0a3f62c09]: Commencement: Sch. 1 para. 2 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-04a87668576f147bc66da56b07099c19]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/2) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-04a87668576f147bc66da56b07099c19]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/2) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00027]: Footnote: Relevant amendments were made by paragraphs 23(2)(a), (b), 23(4)(a), (b) and 23(5) of Schedule 9 to the Financial Services Act 2012 and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). There are other amendments which are not relevant.
 
-[^key-b6d2240928eae04bf4a86e35b9fac6b0]: Commencement: Sch. 1 para. 3 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-b6d2240928eae04bf4a86e35b9fac6b0]: Commencement: Sch. 1 para. 3 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-6e3e0aad1f2bab0f05e5dc46472bd9a3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/3) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-6e3e0aad1f2bab0f05e5dc46472bd9a3]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/3) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00028]: Footnote: [S.I. 2001/1060](https://www.legislation.gov.uk/uksi/2001/1060). Article 31 was inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-2fb82eb561b7b3fb43ca855ffbadc0ff]: Commencement: Sch. 1 para. 4 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-2fb82eb561b7b3fb43ca855ffbadc0ff]: Commencement: Sch. 1 para. 4 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-8c9c77bc78caeac925c8b7d845faffa5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/4) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-8c9c77bc78caeac925c8b7d845faffa5]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/1198/schedule/1/paragraph/4) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00029]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529). Article 20C was inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-52f8862fdcc95079ca76aeb23c146b55]: Commencement: Sch. 2 para. 1 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-52f8862fdcc95079ca76aeb23c146b55]: Commencement: Sch. 2 para. 1 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-b36986abcdce05c4e595b1e10d7b39d7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/1) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-b36986abcdce05c4e595b1e10d7b39d7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/1) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00030]: Footnote: Subsection (8D) was inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-c1d55425f4c81a71ade09db25e33699c]: Commencement: Sch. 2 para. 2 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-c1d55425f4c81a71ade09db25e33699c]: Commencement: Sch. 2 para. 2 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-bae096412e672453f322042568d497ac]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/2) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-bae096412e672453f322042568d497ac]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/2) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00031]: Footnote: [S.I. 2013/419](https://www.legislation.gov.uk/uksi/2013/419). Relevant insertions were made by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127) and [S.I. 2022/1252](https://www.legislation.gov.uk/uksi/2022/1252).
 
-[^key-c8699f9038d42987b9c5de0c65ec5941]: Commencement: Sch. 2 para. 3 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-c8699f9038d42987b9c5de0c65ec5941]: Commencement: Sch. 2 para. 3 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-547f22bc89b0a418b52ea2384c52b09c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/3) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-547f22bc89b0a418b52ea2384c52b09c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/3) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00032]: Footnote: [S.I. 2013/418](https://www.legislation.gov.uk/uksi/2013/418). Sub-paragraph (n) was inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-c20261129b9df23b6878e9838db79b8b]: Commencement: Sch. 2 para. 4 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-c20261129b9df23b6878e9838db79b8b]: Commencement: Sch. 2 para. 4 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-2ae28228103f4316985f865d6ff6992e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/4) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-2ae28228103f4316985f865d6ff6992e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/4) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00033]: Footnote: [S.I. 2014/1195](https://www.legislation.gov.uk/uksi/2014/1195). Paragraph (g) inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-4ee4867b64734349a928758e4aa10de8]: Commencement: Sch. 2 para. 5 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-4ee4867b64734349a928758e4aa10de8]: Commencement: Sch. 2 para. 5 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-b1edac0c53a81fe5ef17de3f782c51d4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/5) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-b1edac0c53a81fe5ef17de3f782c51d4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/5) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00034]: Footnote: [S.I. 2014/2418](https://www.legislation.gov.uk/uksi/2014/2418). Paragraph (n) inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127).
 
-[^key-321fee628e249d44c46670751215d6c2]: Commencement: Sch. 2 para. 6 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-321fee628e249d44c46670751215d6c2]: Commencement: Sch. 2 para. 6 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-26ae70e82ebdbcaedee0f7d6d9f9349f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/6) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-26ae70e82ebdbcaedee0f7d6d9f9349f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/6) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00035]: Footnote: [S.I. 2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
 
-[^key-e44e94f69ee653ba95250b56479291cf]: Commencement: Sch. 2 para. 7 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-e44e94f69ee653ba95250b56479291cf]: Commencement: Sch. 2 para. 7 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-e45aae6529e9f3c367b475bcd9c241e1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/7) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-e45aae6529e9f3c367b475bcd9c241e1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/7) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00036]: Footnote: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149). Regulation 59 was inserted by [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405).
 
-[^key-b01fb28f08629b5144e10cfeb3b73822]: Commencement: Sch. 2 para. 8 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-b01fb28f08629b5144e10cfeb3b73822]: Commencement: Sch. 2 para. 8 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-f9307c1657c4cea1eab3f299204afb95]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/8) in force at 6.4.2026 in so far as not already in force, see [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/c)
+[^c-f9307c1657c4cea1eab3f299204afb95]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/8) in force at 6.4.2026 in so far as not already in force, see [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/c)
 
 [^f00037]: Footnote: [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325).
 
-[^key-d2c80087320473ab09e22453a3fd8bd6]: Commencement: Sch. 2 para. 9 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-d2c80087320473ab09e22453a3fd8bd6]: Commencement: Sch. 2 para. 9 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-f42578c8e68ecea002891a4b0bba6c73]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/9) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-f42578c8e68ecea002891a4b0bba6c73]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/9) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00038]: Footnote: [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680). Relevant amendments were made by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301) and [2022/1223](https://www.legislation.gov.uk/uksi/2022/1223).
 
-[^key-e6226760f90c4b5a062c9768c4cb21b3]: Commencement: Sch. 2 para. 10 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-e6226760f90c4b5a062c9768c4cb21b3]: Commencement: Sch. 2 para. 10 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-0f06adc4fadb8589cd7cbd04990833fe]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/10) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-0f06adc4fadb8589cd7cbd04990833fe]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/10) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00039]: Footnote: [S.I. 2019/1361](https://www.legislation.gov.uk/uksi/2019/1361).
 
-[^key-7f7e66b7517dbec250ea5a623bd702ef]: Commencement: Sch. 2 para. 11 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-7f7e66b7517dbec250ea5a623bd702ef]: Commencement: Sch. 2 para. 11 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-1aa2cf2b47e47be6e677f507e0b08756]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/11) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-1aa2cf2b47e47be6e677f507e0b08756]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/11) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00040]: Footnote: EUR 2017/1129. Article 7 was amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234).
 
-[^key-14d8360574501451766d1879c1054456]: Commencement: Sch. 2 para. 12 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-14d8360574501451766d1879c1054456]: Commencement: Sch. 2 para. 12 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-330ea8d7f58d884242066dc05776548d]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/12) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-330ea8d7f58d884242066dc05776548d]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/12) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00041]: Footnote: EUR 2019/979. Relevant amendments were made by the Technical Standards (Prospectus Regulation) (EU Exit) Instrument 2020/50 (Financial Conduct Authority). A copy of this instrument is available at https://www.handbook.fca.org.uk/instrument/2020/FCA\_2020\_50.pdf and may be obtained from the Financial Conduct Authority, 12 Endeavour Square, London E20 1JN.
 
-[^key-bb921c7ebd611cfea53ca84fd2cea4e5]: Commencement: Sch. 2 para. 13 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
+[^c-bb921c7ebd611cfea53ca84fd2cea4e5]: Commencement: Sch. 2 para. 13 in force at 22.11.2024 for specified purposes, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)
 
-[^key-fd28d4af3b8f882eed14cee8f0242b68]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/13) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
+[^c-fd28d4af3b8f882eed14cee8f0242b68]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/13) in force at 6.4.2026 in so far as not already in force, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2)
 
 [^f00042]: Footnote: EUR 2019/980. Relevant amendments were made by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234). There are other amendments which are not relevant.

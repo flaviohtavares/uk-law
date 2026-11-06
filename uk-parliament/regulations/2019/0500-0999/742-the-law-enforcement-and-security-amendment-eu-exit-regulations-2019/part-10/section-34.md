@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Revocation of Regulation (EU) 2018/1726[^key-9ab7bd4222f8d7a14ddca83a0fc0925c]
+## 34. Revocation of Regulation (EU) 2018/1726[^c-9ab7bd4222f8d7a14ddca83a0fc0925c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) 2018/1726 of the European Parliament and of the Council of 14 No
 
 ## Annotations
 
-[^key-9ab7bd4222f8d7a14ddca83a0fc0925c]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9ab7bd4222f8d7a14ddca83a0fc0925c]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

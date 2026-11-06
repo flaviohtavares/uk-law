@@ -20,21 +20,21 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where[^c19574561] paragraph (2)[^key-6d2bd2bf70047c7c7a22cafeed45e06d] applies, the Department may, by order subject to negative resolution,—
+(1) Where[^c19574561] paragraph (2)[^c-6d2bd2bf70047c7c7a22cafeed45e06d] applies, the Department may, by order subject to negative resolution,—
 
 - (a) provide for such provisions of this Order as may be specified in the order not to apply; and
 - (b) provide—
   - (i) for the amount of the sum chargeable in respect of rates due in respect of the hereditament to be such as is determined in accordance with rules specified in the order; or
   - (ii) for the new net annual value or the new capital value[^c19574581] to come into force in such proportion and over such period as may be specified in the order.
 
-(2)[^c19574601] This paragraph[^key-ca857f1673ef5b8aadf9fc8ae129f14d] applies where, on the coming into force of a new valuation list—
+(2)[^c19574601] This paragraph[^c-ca857f1673ef5b8aadf9fc8ae129f14d] applies where, on the coming into force of a new valuation list—
 
 - (a) a new net annual value; or
 - (b) a new capital value,
 
 is ascribed to a specified hereditament in that list.
 
-(2A)[^key-b512652eabd7e5fae13bd24c61e22423] Where paragraph (2B) applies, the Department may, by order subject to negative resolution,—
+(2A)[^c-b512652eabd7e5fae13bd24c61e22423] Where paragraph (2B) applies, the Department may, by order subject to negative resolution,—
 
 - (a) provide for such provisions of this Order as may be specified in the order not to apply or apply subject to modifications specified in the order; and
 - (b) provide for so much of the amount of the sum chargeable in respect of rates due in respect of any hereditament as relates to a district rate to be such as is determined in accordance with rules specified in the order.
@@ -56,12 +56,12 @@ is ascribed to a specified hereditament in that list.
 
 [^c19574561]: Textual amendment: Words in art. 33A(1) substituted (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [18(2)(a)](https://www.legislation.gov.uk/nisi/2006/2954/article/18/2/a); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2) Sch. 2
 
-[^key-6d2bd2bf70047c7c7a22cafeed45e06d]: Textual amendment: Words in art. 33A(1) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 112(2)](https://www.legislation.gov.uk/nia/2014/8/section/112/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-6d2bd2bf70047c7c7a22cafeed45e06d]: Textual amendment: Words in art. 33A(1) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 112(2)](https://www.legislation.gov.uk/nia/2014/8/section/112/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
 [^c19574581]: Textual amendment: Words in art. 33A(1)(b)(ii) substituted (1.12.2006) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [18(2)(b)](https://www.legislation.gov.uk/nisi/2006/2954/article/18/2/b); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2) Sch. 2
 
 [^c19574601]: Textual amendment: Art. 33A(2)(3) substituted (1.12.2006) for art. 33A(2) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [18(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/18/3); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2) Sch. 2
 
-[^key-ca857f1673ef5b8aadf9fc8ae129f14d]: Textual amendment: Word in art. 33A(2) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 112(3)](https://www.legislation.gov.uk/nia/2014/8/section/112/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-ca857f1673ef5b8aadf9fc8ae129f14d]: Textual amendment: Word in art. 33A(2) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 112(3)](https://www.legislation.gov.uk/nia/2014/8/section/112/3), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-b512652eabd7e5fae13bd24c61e22423]: Textual amendment: Arts. 33A(2A)-(2C) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 112(4)](https://www.legislation.gov.uk/nia/2014/8/section/112/4), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-b512652eabd7e5fae13bd24c61e22423]: Textual amendment: Arts. 33A(2A)-(2C) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 112(4)](https://www.legislation.gov.uk/nia/2014/8/section/112/4), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

@@ -35,18 +35,18 @@ imposing testing and information requirements on the importers or manufacturers 
 
 (Text with EEA relevance) (revoked)
 
-[^key-d47a8215ce9fa43004548d0281b7148a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d47a8215ce9fa43004548d0281b7148a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d47a8215ce9fa43004548d0281b7148a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d47a8215ce9fa43004548d0281b7148a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d47a8215ce9fa43004548d0281b7148a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d47a8215ce9fa43004548d0281b7148a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47a8215ce9fa43004548d0281b7148a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d47a8215ce9fa43004548d0281b7148a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-d47a8215ce9fa43004548d0281b7148a]
+## ANNEX[^c-d47a8215ce9fa43004548d0281b7148a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d47a8215ce9fa43004548d0281b7148a]: Textual amendment: Regulation revoked (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/8/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d47a8215ce9fa43004548d0281b7148a]: Textual amendment: Regulation revoked (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/8/paragraph/1/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

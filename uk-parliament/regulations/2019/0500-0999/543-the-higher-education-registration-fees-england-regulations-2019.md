@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State, with the consent of the Treasury, makes the following Regulations in exercise of the powers conferred by sections 70 and 119(5) of the Higher Education and Research Act 2017 [^c23637031]:
 
-## 1. Citation, commencement and interpretation[^key-4febdb4b862e0fdbea3e551b48f9f3ca]
+## 1. Citation, commencement and interpretation[^c-4febdb4b862e0fdbea3e551b48f9f3ca]
 
 (1) These Regulations may be cited as the Higher Education (Registration Fees) (England) Regulations 2019 and come into force on 6th April 2019.
 
@@ -61,7 +61,7 @@ The Secretary of State, with the consent of the Treasury, makes the following Re
 - “**ongoing fee**” means a fee for the ongoing registration of an institution for each ongoing registration year under section 70(1)(b) of the Act;
 - “**ongoing registration year**” means a period of 12 months beginning with 1st August and ending with 31st July, other than its initial registration year, in which an institution is a registered higher education provider [^c23637061] on 1st August.
 
-## 2. Initial fees[^key-a90452e843047c2e8c7fad101900b1b5]
+## 2. Initial fees[^c-a90452e843047c2e8c7fad101900b1b5]
 
 (1) Where an institution's date of entry in the register is before 1st August 2019, no initial fee is payable.
 
@@ -79,7 +79,7 @@ M is the number of complete months within the period beginning with the institut
 
 (4) Subject to regulation 10(2), an initial fee is to be paid by an institution within the payment period specified in accordance with regulation 9(2)(b)(i) in a notice given to it under regulation 9(1).
 
-## 3. Ongoing fees[^key-151313c67dea21292ff44f0e626e567c]
+## 3. Ongoing fees[^c-151313c67dea21292ff44f0e626e567c]
 
 (1) Subject to regulation 4, an ongoing fee is payable by an institution for each ongoing registration year.
 
@@ -99,7 +99,7 @@ M is the number of complete months within the period beginning with the institut
 - (a) 1st August in the ongoing registration year to which it relates; or
 - (b) the last day of the payment period specified in accordance with regulation 9(2)(b)(ii) in a notice given to it under regulation 9(1).
 
-## 4. Exemption for micro-entities[^key-27411bf5890e08385c8c5c813cbeeab2]
+## 4. Exemption for micro-entities[^c-27411bf5890e08385c8c5c813cbeeab2]
 
 (1) Where this regulation applies to an institution in relation to—
 
@@ -125,7 +125,7 @@ M is the number of complete months within the period beginning with the institut
   - (b) who, in relation to an institution, meets the independence requirement in section 1214 of the Companies Act 2006;
 - “**financial year**” has the meaning in section 390 of the Companies Act 2006.
 
-## 5. New providers: eligibility for reduced fees[^key-f8eabdfc59f6fc5c08940c9a0d9b33d9]
+## 5. New providers: eligibility for reduced fees[^c-f8eabdfc59f6fc5c08940c9a0d9b33d9]
 
 (1) Subject to paragraph (3), this regulation applies to an institution in relation to its initial registration or in relation to an ongoing registration year if—
 
@@ -140,7 +140,7 @@ M is the number of complete months within the period beginning with the institut
 
 (3) This regulation does not apply to an institution which is exempt from liability to pay an initial fee or ongoing fee by virtue of regulation 4.
 
-## 6. New providers: amount of reduced initial fees[^key-a35bd6477f129baf6182687f52ad7624]
+## 6. New providers: amount of reduced initial fees[^c-a35bd6477f129baf6182687f52ad7624]
 
 Where regulation 5 applies to an institution in relation to its initial registration and its date of entry in the register is on or after 1st August 2019, the initial fee payable is—
 
@@ -150,7 +150,7 @@ Where—
 
 IF is the initial fee which, but for this regulation, would be payable by the institution if calculated in accordance with regulation 2(3).
 
-## 7. New providers: amount of reduced ongoing fees[^key-8e7bf9eef60449797a502bf28c9a4fae]
+## 7. New providers: amount of reduced ongoing fees[^c-8e7bf9eef60449797a502bf28c9a4fae]
 
 (1) Where an institution's date of entry in the register is before 1st August 2019 and regulation 5 applies to that institution in relation to an ongoing registration year, the ongoing fee payable for that ongoing registration year is—
 
@@ -191,11 +191,11 @@ Where—
 - OF is the ongoing fee which, but for this regulation, would be payable by the institution if calculated in accordance with regulation 3 for the ongoing registration year in question; and
 - M is the number of complete months within the period beginning with the institution's date of entry in the register and ending with 31st July in its initial registration year.
 
-## 8. Waiver and refund[^key-f66dfabdf5fdef3beccc8f10f2eea26a]
+## 8. Waiver and refund[^c-f66dfabdf5fdef3beccc8f10f2eea26a]
 
 The OfS may waive or refund part or all of any fee payable under these Regulations if it considers it fair and reasonable to do so in an individual case.
 
-## 9. Notification of fees[^key-f002201c3d8df71e5586dc2e0bfd28c6]
+## 9. Notification of fees[^c-f002201c3d8df71e5586dc2e0bfd28c6]
 
 (1) Where a fee is payable by an institution under these Regulations, the OfS must notify the institution.
 
@@ -230,7 +230,7 @@ The OfS may waive or refund part or all of any fee payable under these Regulatio
 
 (8) Where the OfS considers that an institution is exempt from liability to pay a fee under these Regulations by virtue of regulation 4, the OfS must notify the institution to that effect within a reasonable time.
 
-## 10. Payment by instalments[^key-9f8a8743b1e39833c9043e00da1c4114]
+## 10. Payment by instalments[^c-9f8a8743b1e39833c9043e00da1c4114]
 
 (1) A fee payable under these Regulations may be paid by instalments with the approval of the OfS.
 
@@ -238,7 +238,7 @@ The OfS may waive or refund part or all of any fee payable under these Regulatio
 
 (3) Where the OfS approves the payment of a fee by instalments in a case where a notice relating to that fee has already been given to an institution under regulation 9(1), the OfS may vary that notice accordingly by notifying the institution.
 
-## 11. Interest and recovery[^key-237951c679886159bfc569be6781ce37]
+## 11. Interest and recovery[^c-237951c679886159bfc569be6781ce37]
 
 (1) This regulation applies if all or part of a fee under these Regulations is unpaid by the time when it is required to be paid*.*
 
@@ -294,7 +294,7 @@ Regulation 3
 </tbody>
 </table>
 
-[^key-e5775838491db7baad22b775cc2931a9]
+[^c-e5775838491db7baad22b775cc2931a9]
 
 *(This note is not part of the Regulations)*
 
@@ -322,7 +322,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23637031]: Marginal citation: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-4febdb4b862e0fdbea3e551b48f9f3ca]: Commencement: Reg. 1 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-4febdb4b862e0fdbea3e551b48f9f3ca]: Commencement: Reg. 1 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
 [^c23637041]: Marginal citation: For the meaning of “OfS”, see [section 1](https://www.legislation.gov.uk/uksi/2019/543/section/1) of the Act.
 
@@ -330,13 +330,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23637061]: Marginal citation: For the meaning of registered higher education provider, see [sections 3(10)(a)](https://www.legislation.gov.uk/uksi/2019/543/section/3/10/a) and 85(1) of the Act.
 
-[^key-a90452e843047c2e8c7fad101900b1b5]: Commencement: Reg. 2 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-a90452e843047c2e8c7fad101900b1b5]: Commencement: Reg. 2 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
-[^key-151313c67dea21292ff44f0e626e567c]: Commencement: Reg. 3 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-151313c67dea21292ff44f0e626e567c]: Commencement: Reg. 3 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
 [^c23637071]: Marginal citation: The OfS carried out a consultation in September 2018 on the principles which would guide how they count student numbers for regulatory purposes and published its response on 24th October 2018. The consultation paper (OfS 2018.32) is available at https://www.officeforstudents.org.uk/publications/calculating-student-numbers-consultation-on-the-principles-guiding-how-we-will-calculate-student-numbers-for-regulatory-purposes/ and the response (OfS 2018.48) is available at https://www.officeforstudents.org.uk/publications/calculating-student-numbers-consultation-response/. Hard copies are available from the Office for Students, Nicholson House, Lime Kiln Close, Stoke Gifford, Bristol, BS34 8SR.
 
-[^key-27411bf5890e08385c8c5c813cbeeab2]: Commencement: Reg. 4 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-27411bf5890e08385c8c5c813cbeeab2]: Commencement: Reg. 4 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
 [^c23637081]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Sections 384A and 384B were inserted into the Companies Act 2006 by the [Small Companies (Micro-Entities' Accounts) Regulations 2013 (S.I. 2013/3008)](https://www.legislation.gov.uk/uksi/2013/3008). Section 384A(1) relates to a company's first financial year and section 384A(2) relates to subsequent financial years. Section 384B disapplies section 384A in specified cases to exclude certain entities from being treated as a micro-entity under s384A. For the application (with modifications) of the Companies Act 2006 to (i) limited liability partnerships, see the Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008, [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911); (ii) overseas companies, see the Overseas Companies Regulations 2009, [S.I. 2009/1801](https://www.legislation.gov.uk/uksi/2009/1801); (iii) unregistered companies, see the Unregistered Companies Regulations 2009, [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436).
 
@@ -344,7 +344,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23637101]: Marginal citation: [Section 471(1)](https://www.legislation.gov.uk/uksi/2019/543/section/471/1) of the Companies Act 2006 was amended by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), 2013/3008 and 2016/1245.
 
-[^key-f8eabdfc59f6fc5c08940c9a0d9b33d9]: Commencement: Reg. 5 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-f8eabdfc59f6fc5c08940c9a0d9b33d9]: Commencement: Reg. 5 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
 [^c23637111]: Marginal citation: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
 
@@ -352,18 +352,18 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23637131]: Marginal citation: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-a35bd6477f129baf6182687f52ad7624]: Commencement: Reg. 6 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-a35bd6477f129baf6182687f52ad7624]: Commencement: Reg. 6 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
-[^key-8e7bf9eef60449797a502bf28c9a4fae]: Commencement: Reg. 7 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-8e7bf9eef60449797a502bf28c9a4fae]: Commencement: Reg. 7 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
-[^key-f66dfabdf5fdef3beccc8f10f2eea26a]: Commencement: Reg. 8 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-f66dfabdf5fdef3beccc8f10f2eea26a]: Commencement: Reg. 8 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
-[^key-f002201c3d8df71e5586dc2e0bfd28c6]: Commencement: Reg. 9 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-f002201c3d8df71e5586dc2e0bfd28c6]: Commencement: Reg. 9 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
-[^key-9f8a8743b1e39833c9043e00da1c4114]: Commencement: Reg. 10 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-9f8a8743b1e39833c9043e00da1c4114]: Commencement: Reg. 10 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
-[^key-237951c679886159bfc569be6781ce37]: Commencement: Reg. 11 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
+[^c-237951c679886159bfc569be6781ce37]: Commencement: Reg. 11 in force at 6.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/543/regulation/1/1)
 
 [^c23637141]: Marginal citation: The Monetary Policy Committee was constituted on a statutory basis by section 13 of the [Bank of England Act 1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-e5775838491db7baad22b775cc2931a9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2019/543/schedule) Table substituted (1.7.2025) by [The Higher Education (Registration Fees) (England) (Amendment) Regulations 2025 (S.I. 2025/626)](https://www.legislation.gov.uk/uksi/2025/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/626/regulation/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/626/regulation/1/3))
+[^c-e5775838491db7baad22b775cc2931a9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2019/543/schedule) Table substituted (1.7.2025) by [The Higher Education (Registration Fees) (England) (Amendment) Regulations 2025 (S.I. 2025/626)](https://www.legislation.gov.uk/uksi/2025/626), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/626/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/626/regulation/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/626/regulation/1/3))

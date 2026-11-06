@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.1. When this Part applies[^key-ba81d110cda307da914da653ea6c5063]
+## 47.1. When this Part applies[^c-ba81d110cda307da914da653ea6c5063]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part applies to the exercise of the powers listed in each of rules 47.4, 47
 
 ## Annotations
 
-[^key-ba81d110cda307da914da653ea6c5063]: Commencement: Rule 47.1 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ba81d110cda307da914da653ea6c5063]: Commencement: Rule 47.1 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

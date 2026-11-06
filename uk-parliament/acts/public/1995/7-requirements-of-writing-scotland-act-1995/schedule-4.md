@@ -24,14 +24,14 @@ Section 14(1)
 
 ### General adaptation
 
-**1.** (1) Any reference in any other enactment to a probative document shall, in relation to a document executed after the commencement of this Act, be construed as a reference to a document in relation to which section 6(2)or[^key-57e19663ef3f294bc684372763c436c2] 9G(2)[^key-a3d450a933d83f34981d1b02e18408f5] of this Act applies.
+**1.** (1) Any reference in any other enactment to a probative document shall, in relation to a document executed after the commencement of this Act, be construed as a reference to a document in relation to which section 6(2)or[^c-57e19663ef3f294bc684372763c436c2] 9G(2)[^c-a3d450a933d83f34981d1b02e18408f5] of this Act applies.
 
 (2) For the purposes of any enactment—
 
 - (a) providing for a document to be executed by a body corporate by affixing its common seal; or
 - (b) referring (in whatever terms) to a document so executed,
 
-a document signed , subscribed or authenticated[^key-bb4a15b2f7feb45b96ffd3924e8956d1] by or on behalf of the body corporate in accordance with the provisions of the Requirements of Writing (Scotland) Act 1995 shall have effect as if so executed.
+a document signed , subscribed or authenticated[^c-bb4a15b2f7feb45b96ffd3924e8956d1] by or on behalf of the body corporate in accordance with the provisions of the Requirements of Writing (Scotland) Act 1995 shall have effect as if so executed.
 
 ### Specific enactments
 
@@ -393,9 +393,9 @@ a document signed , subscribed or authenticated[^key-bb4a15b2f7feb45b96ffd3924e8
 
 ### Industrial and Provident Societies Act 1965
 
-**42.**[^key-91293792dd735f1211d8dba75747855c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-91293792dd735f1211d8dba75747855c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-fe2ebfc0bae65899c8e7f144b4be2af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-fe2ebfc0bae65899c8e7f144b4be2af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Conveyancing and Feudal Reform (Scotland) Act 1970
 
@@ -488,11 +488,11 @@ a document signed , subscribed or authenticated[^key-bb4a15b2f7feb45b96ffd3924e8
 
 ## Annotations
 
-[^key-57e19663ef3f294bc684372763c436c2]: Textual amendment: Words in Sch. 4 para. 1(1) inserted (11.5.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 3 para. 27(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/27/a) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4))
+[^c-57e19663ef3f294bc684372763c436c2]: Textual amendment: Words in Sch. 4 para. 1(1) inserted (11.5.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 3 para. 27(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/27/a) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4))
 
-[^key-a3d450a933d83f34981d1b02e18408f5]: Textual amendment: Word in Sch. 4 para. 1(1) substituted (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Amendment and Transitional) Order 2014 (S.S.I. 2014/346)](https://www.legislation.gov.uk/ssi/2014/346), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/346/article/1/2), [2(1)](https://www.legislation.gov.uk/ssi/2014/346/article/2/1)
+[^c-a3d450a933d83f34981d1b02e18408f5]: Textual amendment: Word in Sch. 4 para. 1(1) substituted (8.12.2014) by [The Land Registration etc. (Scotland) Act 2012 (Amendment and Transitional) Order 2014 (S.S.I. 2014/346)](https://www.legislation.gov.uk/ssi/2014/346), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/346/article/1/2), [2(1)](https://www.legislation.gov.uk/ssi/2014/346/article/2/1)
 
-[^key-bb4a15b2f7feb45b96ffd3924e8956d1]: Textual amendment: Words in Sch. 4 para. 1(2) substituted (11.5.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 3 para. 27(b)](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/27/b) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4))
+[^c-bb4a15b2f7feb45b96ffd3924e8956d1]: Textual amendment: Words in Sch. 4 para. 1(2) substituted (11.5.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 3 para. 27(b)](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/27/b) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3), [4](https://www.legislation.gov.uk/ssi/2014/41/article/4))
 
 [^c13141571]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).
 
@@ -526,9 +526,9 @@ a document signed , subscribed or authenticated[^key-bb4a15b2f7feb45b96ffd3924e8
 
 [^c13141721]: Marginal citation: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).
 
-[^key-91293792dd735f1211d8dba75747855c]: Textual amendment: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/42) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-91293792dd735f1211d8dba75747855c]: Textual amendment: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/42) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-fe2ebfc0bae65899c8e7f144b4be2af9]: Textual amendment: [Sch. 4 para. 43](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/43) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fe2ebfc0bae65899c8e7f144b4be2af9]: Textual amendment: [Sch. 4 para. 43](https://www.legislation.gov.uk/ukpga/1995/7/schedule/4/paragraph/43) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c13141741]: Marginal citation: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 

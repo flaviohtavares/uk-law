@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Taxation provisions relating to re-structuring[^key-5ee81f81c27777454c7eb4f232c6f59f]
+## 10. Taxation provisions relating to re-structuring[^c-5ee81f81c27777454c7eb4f232c6f59f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 contains taxation provisions.
 
 ## Annotations
 
-[^key-5ee81f81c27777454c7eb4f232c6f59f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/5/section/10) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5ee81f81c27777454c7eb4f232c6f59f]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/5/section/10) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

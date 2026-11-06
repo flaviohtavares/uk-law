@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Exception for authorised conduct in a relevant country[^key-f37490f4711ff3c44ae757f88e6aaedf]
+## 58. Exception for authorised conduct in a relevant country[^c-f37490f4711ff3c44ae757f88e6aaedf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f37490f4711ff3c44ae757f88e6aaedf]: Commencement: Reg. 58 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-f37490f4711ff3c44ae757f88e6aaedf]: Commencement: Reg. 58 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

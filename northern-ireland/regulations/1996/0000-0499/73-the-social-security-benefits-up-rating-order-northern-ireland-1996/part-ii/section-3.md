@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Increase in rates or amounts of certain benefits under the Contributions and Benefits Act[^key-cd5773197e7af0cec133b92f91c56f7a]
+## 3. Increase in rates or amounts of certain benefits under the Contributions and Benefits Act[^c-cd5773197e7af0cec133b92f91c56f7a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd5773197e7af0cec133b92f91c56f7a]: Commencement: Art. 3 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-cd5773197e7af0cec133b92f91c56f7a]: Commencement: Art. 3 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)

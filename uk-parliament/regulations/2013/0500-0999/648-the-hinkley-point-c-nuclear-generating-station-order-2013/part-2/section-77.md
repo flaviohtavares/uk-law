@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 77. Charges[^key-7a2ef9c07e81cfae5641158559705fa7]
+## 77. Charges[^c-7a2ef9c07e81cfae5641158559705fa7]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a2ef9c07e81cfae5641158559705fa7]: Commencement: Art. 77 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-7a2ef9c07e81cfae5641158559705fa7]: Commencement: Art. 77 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

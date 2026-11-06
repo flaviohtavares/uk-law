@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Northern Ireland[^key-450b1ba14b35c46c3cc3b8d94c1a31d3]
+## 43. Northern Ireland[^c-450b1ba14b35c46c3cc3b8d94c1a31d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-450b1ba14b35c46c3cc3b8d94c1a31d3]: Commencement: Reg. 43 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-450b1ba14b35c46c3cc3b8d94c1a31d3]: Commencement: Reg. 43 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
 [^f00009]: Footnote: OJ No. L 31, 1.2.2002, p. 1.
 

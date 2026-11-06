@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Housing support: persons found to be homeless or threatened with homelessness[^key-76fb394a4491a00a04140158629abca6][^key-1bafa40a6af4dd3a92b09eb8fe9e876e]
+## 158. Housing support: persons found to be homeless or threatened with homelessness[^c-76fb394a4491a00a04140158629abca6][^c-1bafa40a6af4dd3a92b09eb8fe9e876e]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ After section 32A of the Housing (Scotland) Act 1987 (c.26) insert—
 
 ## Annotations
 
-[^key-76fb394a4491a00a04140158629abca6]: Commencement: S. 158 in force at 7.10.2011 for specified purposes by [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
+[^c-76fb394a4491a00a04140158629abca6]: Commencement: S. 158 in force at 7.10.2011 for specified purposes by [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
 
-[^key-1bafa40a6af4dd3a92b09eb8fe9e876e]: Commencement: S. 158 in force at 1.6.2013 in so far as not already in force by [S.S.I. 2012/283](https://www.legislation.gov.uk/ssi/2012/283), [art. 3](https://www.legislation.gov.uk/ssi/2012/283/article/3)
+[^c-1bafa40a6af4dd3a92b09eb8fe9e876e]: Commencement: S. 158 in force at 1.6.2013 in so far as not already in force by [S.S.I. 2012/283](https://www.legislation.gov.uk/ssi/2012/283), [art. 3](https://www.legislation.gov.uk/ssi/2012/283/article/3)

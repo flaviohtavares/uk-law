@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 260. Provision of information to patient[^key-8da1961b25adbacd509e56c3c62fb4c2][^key-e1bf45d11dc91ddb7936d73b4810e4ed][^key-9cbf84a01bf0819ac81d77c24e84a5ed][^key-1e115c5cc063dbaf22751923b5e155b7]
+## 260. Provision of information to patient[^c-8da1961b25adbacd509e56c3c62fb4c2][^c-e1bf45d11dc91ddb7936d73b4810e4ed][^c-9cbf84a01bf0819ac81d77c24e84a5ed][^c-1e115c5cc063dbaf22751923b5e155b7]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ summary: ''
   - (iii) to inform the patient of the availability under section 259 of this Act of independent advocacy services at each of those times; and
 - (b) take appropriate steps to ensure that the patient has the opportunity of making use of those services.
 
-(3)[^key-6f620bda51ed30cd16adcffa8e349339] Those times are—
+(3)[^c-6f620bda51ed30cd16adcffa8e349339] Those times are—
 
 - (a) as soon as practicable after—
   - (i) where the patient is detained in hospital, the beginning of such detention; or
@@ -75,12 +75,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8da1961b25adbacd509e56c3c62fb4c2]: Commencement: S. 260 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-8da1961b25adbacd509e56c3c62fb4c2]: Commencement: S. 260 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-e1bf45d11dc91ddb7936d73b4810e4ed]: Commencement: S. 260 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-e1bf45d11dc91ddb7936d73b4810e4ed]: Commencement: S. 260 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-9cbf84a01bf0819ac81d77c24e84a5ed]: Modification: S. 260 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [43](https://www.legislation.gov.uk/ssi/2005/467/regulation/43) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-9cbf84a01bf0819ac81d77c24e84a5ed]: Modification: S. 260 modified (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [43](https://www.legislation.gov.uk/ssi/2005/467/regulation/43) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-1e115c5cc063dbaf22751923b5e155b7]: Modification: S. 260 modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2008/356/regulation/30) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-1e115c5cc063dbaf22751923b5e155b7]: Modification: S. 260 modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2008/356/regulation/30) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
 
-[^key-6f620bda51ed30cd16adcffa8e349339]: Modification: S. 260(3) applied (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [40](https://www.legislation.gov.uk/ssi/2005/452/article/40)
+[^c-6f620bda51ed30cd16adcffa8e349339]: Modification: S. 260(3) applied (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [40](https://www.legislation.gov.uk/ssi/2005/452/article/40)

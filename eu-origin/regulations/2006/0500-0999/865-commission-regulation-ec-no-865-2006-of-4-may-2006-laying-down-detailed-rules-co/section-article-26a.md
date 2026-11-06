@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The management authority[^key-001aca2621cb813697e3c1242943cce2] shall reject applications for export permits for caviar and meat of sturgeon species ( *Acipenseriformes* spp.) from shared stocks unless export quotas have been set for the species in accordance with the procedure approved by the Conference of the Parties to the Convention.
+The management authority[^c-001aca2621cb813697e3c1242943cce2] shall reject applications for export permits for caviar and meat of sturgeon species ( *Acipenseriformes* spp.) from shared stocks unless export quotas have been set for the species in accordance with the procedure approved by the Conference of the Parties to the Convention.
 
 ## Annotations
 
 [^c000005]: Textual amendment: Inserted by [Commission Regulation (EC) No 100/2008 of 4 February 2008 amending, as regards sample collections and certain formalities relating to the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules for the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2008/100).
 
-[^key-001aca2621cb813697e3c1242943cce2]: Textual amendment: Words in [Art. 26a](https://www.legislation.gov.uk/eur/2006/865/article/26a) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(22)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/22)
+[^c-001aca2621cb813697e3c1242943cce2]: Textual amendment: Words in [Art. 26a](https://www.legislation.gov.uk/eur/2006/865/article/26a) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(22)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/22)

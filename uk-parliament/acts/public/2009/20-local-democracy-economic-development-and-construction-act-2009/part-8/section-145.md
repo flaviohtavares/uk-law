@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Suspension of performance for non-payment[^key-c2548fcefdcad57ac7eb677b910fd564][^key-8efb73087a2f5801a6af0713a77244bb][^key-d25b0c417995d11d73b0eb19e6754a3a]
+## 145. Suspension of performance for non-payment[^c-c2548fcefdcad57ac7eb677b910fd564][^c-8efb73087a2f5801a6af0713a77244bb][^c-d25b0c417995d11d73b0eb19e6754a3a]
 
 *Extent: E+W+S*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c2548fcefdcad57ac7eb677b910fd564]: Commencement: S. 145 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-c2548fcefdcad57ac7eb677b910fd564]: Commencement: S. 145 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-8efb73087a2f5801a6af0713a77244bb]: Commencement: S. 145 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
+[^c-8efb73087a2f5801a6af0713a77244bb]: Commencement: S. 145 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(b)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/b)
 
-[^key-d25b0c417995d11d73b0eb19e6754a3a]: Commencement: S. 145 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)
+[^c-d25b0c417995d11d73b0eb19e6754a3a]: Commencement: S. 145 in force at 1.11.2011 for S. by [S.S.I. 2011/291](https://www.legislation.gov.uk/ssi/2011/291), [art. 2](https://www.legislation.gov.uk/ssi/2011/291/article/2)

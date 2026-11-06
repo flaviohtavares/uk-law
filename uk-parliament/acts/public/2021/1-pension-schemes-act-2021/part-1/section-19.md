@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Advice of scheme actuary[^c24458241][^key-d81c6232d4fd4a46157d05ff872ac91f]
+## 19. Advice of scheme actuary[^c24458241][^c-d81c6232d4fd4a46157d05ff872ac91f]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c24458241]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/1/section/19) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-d81c6232d4fd4a46157d05ff872ac91f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/1/section/19) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-d81c6232d4fd4a46157d05ff872ac91f]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/1/section/19) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

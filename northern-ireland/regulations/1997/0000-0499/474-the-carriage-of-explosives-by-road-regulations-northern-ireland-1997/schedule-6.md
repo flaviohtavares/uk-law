@@ -24,7 +24,7 @@ Regulations 16 and 17
 
 ### Part I
 
-**1.**[^key-c4ff42826138c6389d9ef73508a15068] The information referred to in regulation 16(1) shall comprise—
+**1.**[^c-c4ff42826138c6389d9ef73508a15068] The information referred to in regulation 16(1) shall comprise—
 
 - (a) in relation to each of the types of explosives being carried—
   - (i) the designation;
@@ -43,7 +43,7 @@ Regulations 16 and 17
 
 ### Part II
 
-**1.**[^key-f2471a40a412eb2c71fb26ee5e75e369] The “Transport Documentation” concerning the explosives being carried shall comprise the following information—
+**1.**[^c-f2471a40a412eb2c71fb26ee5e75e369] The “Transport Documentation” concerning the explosives being carried shall comprise the following information—
 
 - (a) the information specified in Part I of this Schedule;
 - (b) the total number of packages;
@@ -51,7 +51,7 @@ Regulations 16 and 17
 - (d) the emergency information specified in paragraph 2;
 - (e) the name and address of the operator of the vehicle.
 
-**2.**[^key-365a707215527a0205ca88aa4575abea] The emergency information referred to in paragraph 1(*d*) shall comprise details of the measures to be taken by the driver in the event of an accident or emergency and other safety information concerning the explosives being carried and shall include details of—
+**2.**[^c-365a707215527a0205ca88aa4575abea] The emergency information referred to in paragraph 1(*d*) shall comprise details of the measures to be taken by the driver in the event of an accident or emergency and other safety information concerning the explosives being carried and shall include details of—
 
 - (a) the nature of the danger inherent in the explosives being carried and the safety measures to be taken to avert any such danger;
 - (b) the action to be taken and treatment to be given in the event of any person coming into contact with the explosives being carried or with any substances which might be evolved;
@@ -61,8 +61,8 @@ Regulations 16 and 17
 
 ## Annotations
 
-[^key-c4ff42826138c6389d9ef73508a15068]: Commencement: [Sch. 6 Pt. I para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/6/part/I/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-c4ff42826138c6389d9ef73508a15068]: Commencement: [Sch. 6 Pt. I para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/6/part/I/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-f2471a40a412eb2c71fb26ee5e75e369]: Commencement: [Sch. 6 Pt. II para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/6/part/II/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-f2471a40a412eb2c71fb26ee5e75e369]: Commencement: [Sch. 6 Pt. II para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/6/part/II/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-365a707215527a0205ca88aa4575abea]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/1997/474/schedule/6/paragraph/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-365a707215527a0205ca88aa4575abea]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/1997/474/schedule/6/paragraph/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

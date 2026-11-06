@@ -45,7 +45,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-bcd486a532e9d60096d1d03d6a2c1a51]
+### 1. Citation, commencement and interpretation[^c-bcd486a532e9d60096d1d03d6a2c1a51]
 
 (1) These Regulations may be cited as the Social Security (Loss of Benefit) Regulations (Northern Ireland) 2002 and shall come into operation on 1st April 2002.
 
@@ -66,7 +66,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) Expressions used in these Regulations which are defined either for the purposes of the Jobseekers Order or the Jobseeker’s Allowance Regulations shall have the same meaning as for the purposes of that Order or, as the case may be, those Regulations.
 
-### 2. Disqualification period[^key-9453411b63bd1470945f927906c69842]
+### 2. Disqualification period[^c-9453411b63bd1470945f927906c69842]
 
 (1) Subject to paragraph (2), the first day of the disqualification period for the purposes of section 6(6) of the Act shall be—
 
@@ -92,7 +92,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 ## PART II — REDUCTIONS
 
-### 3. Reduction of income support[^key-0986c7e19afe6fc46814cff980e3c527]
+### 3. Reduction of income support[^c-0986c7e19afe6fc46814cff980e3c527]
 
 (1) Subject to paragraphs (2) to (4), any payment of income support which falls to be made to an offender in respect of any week in the disqualification period, or to an offender’s family member in respect of any week in the relevant period, shall be reduced—
 
@@ -112,7 +112,7 @@ of the applicable amount of the offender in respect of a single claimant for inc
 
 (6) In this regulation “benefit week” shall have the same meaning as in regulation 2(1) of the Income Support Regulations[^f00014].
 
-### 4. Reduction of joint-claim jobseeker’s allowance[^key-a7ea49c5728ee0e2c6cdf1c2e3964ddd]
+### 4. Reduction of joint-claim jobseeker’s allowance[^c-a7ea49c5728ee0e2c6cdf1c2e3964ddd]
 
 In respect of any part of the disqualification period when section 7(2) of the Act does not apply, the reduced rate of joint-claim jobseeker’s allowance payable to the member of that couple who is not the offender shall be—
 
@@ -122,7 +122,7 @@ In respect of any part of the disqualification period when section 7(2) of the A
 
 ## PART III — HARDSHIP
 
-### 5. Meaning of “person in hardship”[^key-cf6e53f45a433b939f32103cfcbb2c08]
+### 5. Meaning of “person in hardship”[^c-cf6e53f45a433b939f32103cfcbb2c08]
 
 (1) In this Part, a “person in hardship” means, for the purposes of regulation 6, a person, other than a person to whom paragraph (3) or (4) applies, where—
 
@@ -178,13 +178,13 @@ In respect of any part of the disqualification period when section 7(2) of the A
 
 (6) In determining the resources available to that person’s family under paragraph (5)(*b*), any training premium or top-up payment paid pursuant to the Employment and Training Act shall be disregarded.
 
-### 6. Circumstances in which an income-based jobseeker’s allowance is payable to a person who is a person in hardship[^key-d83b8021e3957ca47c7fe5f290718295]
+### 6. Circumstances in which an income-based jobseeker’s allowance is payable to a person who is a person in hardship[^c-d83b8021e3957ca47c7fe5f290718295]
 
 (1) This regulation applies to a person in hardship within the meaning of regulation 5(1) and is subject to the provisions of regulations 8 and 9.
 
 (2) An income-based jobseeker’s allowance shall be payable to a person in hardship even though section 6(2) of the Act prevents payment of a jobseeker’s allowance to the offender or section 8 of the Act prevents payment of a jobseeker’s allowance to an offender’s family member but the allowance shall be payable under this paragraph only if and so long as the claimant satisfies the conditions for entitlement to an income-based jobseeker’s allowance.
 
-### 7. Further circumstances in which an income-based jobseeker’s allowance is payable to a person who is a person in hardship[^key-407b2ab46d05f7b1af592aae40f84140]
+### 7. Further circumstances in which an income-based jobseeker’s allowance is payable to a person who is a person in hardship[^c-407b2ab46d05f7b1af592aae40f84140]
 
 (1) This regulation applies to a person in hardship within the meaning of regulation 5(2) and is subject to the provisions of regulations 8 and 9.
 
@@ -195,7 +195,7 @@ In respect of any part of the disqualification period when section 7(2) of the A
 
 and shall be payable thereafter only if and so long as the claimant satisfies the conditions for entitlement to an income-based jobseeker’s allowance.
 
-### 8. Conditions for payment of an income-based jobseeker’s allowance[^key-446a62795d1cb8c082d3a0afee6034e2]
+### 8. Conditions for payment of an income-based jobseeker’s allowance[^c-446a62795d1cb8c082d3a0afee6034e2]
 
 (1) An income-based jobseeker’s allowance shall not be payable in accordance with regulation 6 or 7 except where the claimant has—
 
@@ -204,11 +204,11 @@ and shall be payable thereafter only if and so long as the claimant satisfies th
 
 (2) The completed and signed form shall be delivered by the claimant to such office as the Department may specify.
 
-### 9. Provision of information[^key-d1f01fd09c53be07ecfa4de696f2563d]
+### 9. Provision of information[^c-d1f01fd09c53be07ecfa4de696f2563d]
 
 For the purpose of section 6(4)(*b*) of the Act, the offender, and for the purpose of section 8(4)(*b*) of the Act, the offender or any member of his family, shall provide to the Department information as to the circumstances of the person alleged to be in hardship.
 
-### 10. Applicable amount in hardship cases[^key-a2f9fb73abaa0a6be07e8d84d70c938c]
+### 10. Applicable amount in hardship cases[^c-a2f9fb73abaa0a6be07e8d84d70c938c]
 
 (1) The weekly applicable amount of a person to whom an income-based jobseeker’s allowance is payable in accordance with this Part shall be reduced by a sum equivalent to 40 per cent. or, in a case where the claimant or any other member of his family is either pregnant or seriously ill, 20 per cent. of the following amount—
 
@@ -219,7 +219,7 @@ For the purpose of section 6(4)(*b*) of the Act, the offender, and for the purpo
 
 ## PART IV — HARDSHIP FOR JOINT-CLAIM COUPLES
 
-### 11. Application of Part and meaning of “couple in hardship”[^key-1886a99d7d6ca71e7d1c7deb87306e09]
+### 11. Application of Part and meaning of “couple in hardship”[^c-1886a99d7d6ca71e7d1c7deb87306e09]
 
 (1) This Part applies in respect of any part of the disqualification period when section 7(2) of the Act would otherwise apply.
 
@@ -265,7 +265,7 @@ For the purpose of section 6(4)(*b*) of the Act, the offender, and for the purpo
 
 (7) In determining the resources available to the offender’s family under paragraph (6)(*b*), any training premium or top-up payment paid pursuant to the Employment and Training Act shall be disregarded.
 
-### 12. Circumstances in which a joint-claim jobseeker’s allowance is payable where a joint-claim couple is a couple in hardship[^key-52177c6a3a4cc6cd851878d97ba4aa47]
+### 12. Circumstances in which a joint-claim jobseeker’s allowance is payable where a joint-claim couple is a couple in hardship[^c-52177c6a3a4cc6cd851878d97ba4aa47]
 
 (1) This regulation applies where a joint-claim couple is a couple in hardship within the meaning of regulation 11(2) and is subject to the provisions of regulations 14 and 15.
 
@@ -274,7 +274,7 @@ For the purpose of section 6(4)(*b*) of the Act, the offender, and for the purpo
 - (a) the joint-claim couple satisfy the other conditions of entitlement to a joint-claim jobseeker’s allowance; or
 - (b) one member satisfies those conditions and the other member comes within any paragraph in Schedule A1 to the Jobseeker’s Allowance Regulations[^f00023] (categories of members not required to satisfy conditions in Article 3(2B)(*b*) of the Order).
 
-### 13. Further circumstances in which a joint-claim jobseeker’s allowance is payable to a couple in hardship[^key-c58c8c0967e9d3ce92ce214159e41df7]
+### 13. Further circumstances in which a joint-claim jobseeker’s allowance is payable to a couple in hardship[^c-c58c8c0967e9d3ce92ce214159e41df7]
 
 (1) This regulation applies to a couple in hardship falling within regulation 11(3) and is subject to the provisions of regulations 14 and 15.
 
@@ -283,7 +283,7 @@ For the purpose of section 6(4)(*b*) of the Act, the offender, and for the purpo
 - (a) shall not be payable under this paragraph in respect of the first 14 days of the prescribed period; and
 - (b) shall be payable thereafter only where the conditions of entitlement to a joint-claim jobseeker’s allowance are satisfied or where one member satisfies those conditions and the other member comes within any paragraph in Schedule A1 to the Jobseeker’s Allowance Regulations (categories of members not required to satisfy conditions in Article 3(2B)(*b*) of the Order).
 
-### 14. Conditions for payment of a joint-claim jobseeker’s allowance[^key-27acd4262267b165451cb57f7e69ef34]
+### 14. Conditions for payment of a joint-claim jobseeker’s allowance[^c-27acd4262267b165451cb57f7e69ef34]
 
 (1) A joint-claim jobseeker’s allowance shall not be payable in accordance with regulation 12 or 13 except where either member of the couple has—
 
@@ -292,11 +292,11 @@ For the purpose of section 6(4)(*b*) of the Act, the offender, and for the purpo
 
 (2) The completed and signed form shall be delivered by a member of the couple to such office as the Department may specify.
 
-### 15. Provision of information[^key-e3307a1a5e7211f7de32e6696b73d2a7]
+### 15. Provision of information[^c-e3307a1a5e7211f7de32e6696b73d2a7]
 
 For the purposes of section 7(4)(*b*) of the Act, a member of the couple shall provide to the Department information as to the circumstances of the alleged hardship of the couple.
 
-### 16. Applicable amount of joint-claim couple in hardship cases[^key-5fbcdee7bc1616a85d68304cafaa0748]
+### 16. Applicable amount of joint-claim couple in hardship cases[^c-5fbcdee7bc1616a85d68304cafaa0748]
 
 (1) The weekly applicable amount of a couple to whom a joint-claim jobseeker’s allowance is payable in accordance with this Part shall be reduced by a sum equivalent to 40 per cent. or, in a case where a member of the joint-claim couple is either pregnant of seriously ill or where a member of the joint-claim couple is a member of a polygamous marriage and one of those members is either pregnant or seriously ill, 20 per cent. of the following amount—
 
@@ -307,7 +307,7 @@ For the purposes of section 7(4)(*b*) of the Act, a member of the couple shall p
 
 ## PART V — HOUSING BENEFIT
 
-### 17. Circumstances where a reduced amount of housing benefit is payable[^key-9e74d2eee0be72ebf53c5d177cf41314]
+### 17. Circumstances where a reduced amount of housing benefit is payable[^c-9e74d2eee0be72ebf53c5d177cf41314]
 
 (1) Subject to regulation 18, any payment of housing benefit which falls to be made to an offender in respect of any week in the disqualification period or to an offender’s family member in respect of any week in the relevant period shall be reduced—
 
@@ -322,7 +322,7 @@ of the amount which is or, where he is not the claimant or is not single, would 
 
 (4) In this regulation “benefit week” shall have the same meaning as in regulation 2(1) of the Housing Benefit Regulations.
 
-### 18. Circumstances where housing benefit is payable[^key-2e74b0b3784de3d6077330bab1d834ae]
+### 18. Circumstances where housing benefit is payable[^c-2e74b0b3784de3d6077330bab1d834ae]
 
 Regulation 17 shall not apply and housing benefit shall be payable to an offender or to an offender’s family member—
 
@@ -333,20 +333,20 @@ and the claimant is, at the same time, also entitled to income support or to an 
 
 ## PART VI — DEDUCTIONS FROM BENEFITS AND DISQUALIFYING BENEFITS
 
-### 19. Social security benefits not to be sanctionable benefits[^key-b7ae4c818da6d1fa4d791faf0f690c71]
+### 19. Social security benefits not to be sanctionable benefits[^c-b7ae4c818da6d1fa4d791faf0f690c71]
 
 The following social security benefits are to be treated as a disqualifying benefit but not a sanctionable benefit—
 
 - (a) constant attendance allowance and exceptionally severe disabled allowance, payable under sections 104 and 105 respectively of the Benefits Act where a disablement pension is payable under section 103 of that Act; and
 - (b) a bereavement payment payable under section 36 of the Benefits Act[^f00025].
 
-### 20. Deductions from benefits[^key-646efdb58a250bcaa7808fe042de9e85]
+### 20. Deductions from benefits[^c-646efdb58a250bcaa7808fe042de9e85]
 
 Any restriction in section 6, 7 or 8 of the Act shall not apply in relation to payments of benefit to the extent of any deduction from the payments which fall to be made under regulations made under section 5(1)(*q*) of the Social Security Administration (Northern Ireland) Act 1992[^f00026] for, or in place of, child support maintenance and for this purpose “child support maintenance” means such maintenance which is payable under Article 40 of the Child Support (Northern Ireland) Order 1991[^f00027].
 
 ## PART VII — OTHER AMENDMENTS
 
-### 21. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-85cd912737aa003cf1c1cb39619e3dff]
+### 21. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-85cd912737aa003cf1c1cb39619e3dff]
 
 In Schedule 1 to the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00028] (decisions against which no appeal lies) after paragraph 24 there shall be added the following paragraph—
 
@@ -392,7 +392,7 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: [2001 c. 17 (N.I.)](https://www.legislation.gov.uk/nia/2001/17)
 
-[^key-bcd486a532e9d60096d1d03d6a2c1a51]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-bcd486a532e9d60096d1d03d6a2c1a51]: Commencement: Reg. 1 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00004]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29)
 
@@ -408,9 +408,9 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending rules are [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503), [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385), [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and [S.R. 2001 Nos. 41](https://www.legislation.gov.uk/nisr/2001/41) and [120](https://www.legislation.gov.uk/nisr/2001/120)
 
-[^key-9453411b63bd1470945f927906c69842]: Commencement: Reg. 2 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-9453411b63bd1470945f927906c69842]: Commencement: Reg. 2 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-0986c7e19afe6fc46814cff980e3c527]: Commencement: Reg. 3 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-0986c7e19afe6fc46814cff980e3c527]: Commencement: Reg. 3 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00011]: Footnote: Regulation 22A was inserted by regulation 13 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199) and amended by Article 9(2) of [S.R. 1999 No. 371 (C. 28)](https://www.legislation.gov.uk/nisr/1999/371), regulation 4(2)(*a*) of [S.R. 2000 No. 4](https://www.legislation.gov.uk/nisr/2000/4) and regulation 2 of [S.R. 2000 No. 105](https://www.legislation.gov.uk/nisr/2000/105)
 
@@ -420,13 +420,13 @@ These Regulations do not impose a charge on business.
 
 [^f00014]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
-[^key-a7ea49c5728ee0e2c6cdf1c2e3964ddd]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-a7ea49c5728ee0e2c6cdf1c2e3964ddd]: Commencement: Reg. 4 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00015]: Footnote: Paragraph (3A) was inserted by Article 56 of, and paragraph 6(3) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
 [^f00016]: Footnote: The amounts in paragraph 1(1) of Schedule 1 were substituted by [S.R. 2001 No. 41](https://www.legislation.gov.uk/nisr/2001/41)
 
-[^key-cf6e53f45a433b939f32103cfcbb2c08]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-cf6e53f45a433b939f32103cfcbb2c08]: Commencement: Reg. 5 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00017]: Footnote: Paragraph (*e*) was inserted by paragraph 13(5) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
 
@@ -434,17 +434,17 @@ These Regulations do not impose a charge on business.
 
 [^f00019]: Footnote: Paragraph 14 was amended by regulation 2(17)(*c*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503) and regulation 2(2) of [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385)
 
-[^key-d83b8021e3957ca47c7fe5f290718295]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-d83b8021e3957ca47c7fe5f290718295]: Commencement: Reg. 6 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-407b2ab46d05f7b1af592aae40f84140]: Commencement: Reg. 7 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-407b2ab46d05f7b1af592aae40f84140]: Commencement: Reg. 7 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-446a62795d1cb8c082d3a0afee6034e2]: Commencement: Reg. 8 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-446a62795d1cb8c082d3a0afee6034e2]: Commencement: Reg. 8 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-d1f01fd09c53be07ecfa4de696f2563d]: Commencement: Reg. 9 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-d1f01fd09c53be07ecfa4de696f2563d]: Commencement: Reg. 9 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-a2f9fb73abaa0a6be07e8d84d70c938c]: Commencement: Reg. 10 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-a2f9fb73abaa0a6be07e8d84d70c938c]: Commencement: Reg. 10 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-1886a99d7d6ca71e7d1c7deb87306e09]: Commencement: Reg. 11 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-1886a99d7d6ca71e7d1c7deb87306e09]: Commencement: Reg. 11 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00020]: Footnote: Article 5A was inserted by section 56 of, and paragraph 5(2) of Schedule 7 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
@@ -452,34 +452,34 @@ These Regulations do not impose a charge on business.
 
 [^f00022]: Footnote: Paragraphs 20H and 20I were inserted by paragraph 53(4) of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-52177c6a3a4cc6cd851878d97ba4aa47]: Commencement: Reg. 12 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-52177c6a3a4cc6cd851878d97ba4aa47]: Commencement: Reg. 12 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00023]: Footnote: Schedule A1 was inserted by Schedule 1 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and amended by regulation 2(6) of [S.R. 2001 No. 120](https://www.legislation.gov.uk/nisr/2001/120)
 
-[^key-c58c8c0967e9d3ce92ce214159e41df7]: Commencement: Reg. 13 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-c58c8c0967e9d3ce92ce214159e41df7]: Commencement: Reg. 13 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-27acd4262267b165451cb57f7e69ef34]: Commencement: Reg. 14 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-27acd4262267b165451cb57f7e69ef34]: Commencement: Reg. 14 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-e3307a1a5e7211f7de32e6696b73d2a7]: Commencement: Reg. 15 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-e3307a1a5e7211f7de32e6696b73d2a7]: Commencement: Reg. 15 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-5fbcdee7bc1616a85d68304cafaa0748]: Commencement: Reg. 16 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-5fbcdee7bc1616a85d68304cafaa0748]: Commencement: Reg. 16 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-9e74d2eee0be72ebf53c5d177cf41314]: Commencement: Reg. 17 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-9e74d2eee0be72ebf53c5d177cf41314]: Commencement: Reg. 17 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00024]: Footnote: The amounts in paragraph 1(1) of Schedule 2 were substituted by [S.R. 2001 No. 41](https://www.legislation.gov.uk/nisr/2001/41)
 
-[^key-2e74b0b3784de3d6077330bab1d834ae]: Commencement: Reg. 18 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-2e74b0b3784de3d6077330bab1d834ae]: Commencement: Reg. 18 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
-[^key-b7ae4c818da6d1fa4d791faf0f690c71]: Commencement: Reg. 19 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-b7ae4c818da6d1fa4d791faf0f690c71]: Commencement: Reg. 19 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00025]: Footnote: Section 36 was substituted by Article 51(1) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-646efdb58a250bcaa7808fe042de9e85]: Commencement: Reg. 20 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-646efdb58a250bcaa7808fe042de9e85]: Commencement: Reg. 20 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00026]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
 [^f00027]: Footnote: S.I. [1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628); Article 40 is substituted by section 20 of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4) (N.I.)](https://www.legislation.gov.uk/nia/2000/4))
 
-[^key-85cd912737aa003cf1c1cb39619e3dff]: Commencement: Reg. 21 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
+[^c-85cd912737aa003cf1c1cb39619e3dff]: Commencement: Reg. 21 in operation at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/79/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); paragraph 24 was added by paragraph 7 of Schedule 4 to [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)

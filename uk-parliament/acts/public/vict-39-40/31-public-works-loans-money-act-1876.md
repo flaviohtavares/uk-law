@@ -31,28 +31,28 @@ Public Works Loans (Money) Act 1876 (repealed)
 
 1876 c.31
 
-[^key-0c9830b46d446104ac5d8274c30d7d1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c9830b46d446104ac5d8274c30d7d1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Short title.[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 1. Short title.[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
-## 4, 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 4, 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
-## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
-## 7. Explanation of ss. 18, 50, of 38 & 39 Vict. c. 89.[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 7. Explanation of ss. 18, 50, of 38 & 39 Vict. c. 89.[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0c9830b46d446104ac5d8274c30d7d1d]
+## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0c9830b46d446104ac5d8274c30d7d1d]
 
 ## Annotations
 
-[^key-0c9830b46d446104ac5d8274c30d7d1d]: Textual amendment: Act repealed (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/47) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-0c9830b46d446104ac5d8274c30d7d1d]: Textual amendment: Act repealed (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/47) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))

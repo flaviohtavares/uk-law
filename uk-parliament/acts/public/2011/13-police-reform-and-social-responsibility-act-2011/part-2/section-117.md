@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Temporary event notice: time for objection to notice[^key-b4b0cf1b58a692d3e7f143552a8aa55a]
+## 117. Temporary event notice: time for objection to notice[^c-b4b0cf1b58a692d3e7f143552a8aa55a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b0cf1b58a692d3e7f143552a8aa55a]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2011/13/section/117) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-b4b0cf1b58a692d3e7f143552a8aa55a]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2011/13/section/117) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

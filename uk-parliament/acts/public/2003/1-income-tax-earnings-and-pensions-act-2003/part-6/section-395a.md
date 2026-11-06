@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395A. Benefits under old section 222 schemes not taxed by virtue of section 394[^key-70b48d809f1654a65b2ce43c3425e665]
+## 395A. Benefits under old section 222 schemes not taxed by virtue of section 394[^c-70b48d809f1654a65b2ce43c3425e665]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Section 394 does not apply to a benefit provided under an employer–financed re
 
 ## Annotations
 
-[^key-70b48d809f1654a65b2ce43c3425e665]: Textual amendment: S. 395A inserted (with effect in accordance with art. 2(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/730/article/2)
+[^c-70b48d809f1654a65b2ce43c3425e665]: Textual amendment: S. 395A inserted (with effect in accordance with art. 2(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/730/article/2)

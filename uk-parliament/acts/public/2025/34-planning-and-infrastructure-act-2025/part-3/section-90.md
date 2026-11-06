@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Compulsory purchase powers: Secretary of State[^key-06c5d9a67b9db8bf0524f98554782d05][^key-67d04755e8221632b8d24a2e8bb395ea]
+## 90. Compulsory purchase powers: Secretary of State[^c-06c5d9a67b9db8bf0524f98554782d05][^c-67d04755e8221632b8d24a2e8bb395ea]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06c5d9a67b9db8bf0524f98554782d05]: Commencement: S. 90 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-06c5d9a67b9db8bf0524f98554782d05]: Commencement: S. 90 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-67d04755e8221632b8d24a2e8bb395ea]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2025/34/section/90) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-67d04755e8221632b8d24a2e8bb395ea]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2025/34/section/90) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

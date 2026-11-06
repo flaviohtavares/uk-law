@@ -39,8 +39,8 @@ a deduction is allowed for the expenses in calculating the profits of the trade.
 
 (4) The same expenses may not be brought into account under this section in relation to more than one trade.
 
-(5) In this section “**research and development**” has the meaning given by section 1138 of CTA 2010[^key-538dc91efee22e6bd784e97b0de99072] and includes oil and gas exploration and appraisal.
+(5) In this section “**research and development**” has the meaning given by section 1138 of CTA 2010[^c-538dc91efee22e6bd784e97b0de99072] and includes oil and gas exploration and appraisal.
 
 ## Annotations
 
-[^key-538dc91efee22e6bd784e97b0de99072]: Textual amendment: Words in s. 87(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 594](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/594) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-538dc91efee22e6bd784e97b0de99072]: Textual amendment: Words in s. 87(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 594](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/594) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

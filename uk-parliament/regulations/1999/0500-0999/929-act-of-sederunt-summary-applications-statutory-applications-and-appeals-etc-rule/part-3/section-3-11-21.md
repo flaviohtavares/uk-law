@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.21. Expenses[^key-89db7a425a4ca87d45b44f7a278fb0dd]
+## 3.11.21. Expenses[^c-89db7a425a4ca87d45b44f7a278fb0dd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The expenses of petitions and other proceedings under the Act shall be taxed by 
 
 ## Annotations
 
-[^key-89db7a425a4ca87d45b44f7a278fb0dd]: Commencement: Rule 3.11.21 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-89db7a425a4ca87d45b44f7a278fb0dd]: Commencement: Rule 3.11.21 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

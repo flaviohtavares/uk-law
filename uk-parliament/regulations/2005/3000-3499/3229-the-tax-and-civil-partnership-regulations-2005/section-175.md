@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Finance Act 2004[^key-c7c029197455cb17341a73db7470ba89]
+## 175. Finance Act 2004[^c-c7c029197455cb17341a73db7470ba89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Finance Act 2004 is amended as follows.
 
 ## Annotations
 
-[^key-c7c029197455cb17341a73db7470ba89]: Commencement: Reg. 175 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c7c029197455cb17341a73db7470ba89]: Commencement: Reg. 175 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

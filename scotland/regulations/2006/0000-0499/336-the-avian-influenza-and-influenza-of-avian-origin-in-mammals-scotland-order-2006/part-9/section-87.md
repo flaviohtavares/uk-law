@@ -26,10 +26,10 @@ summary: ''
 
 .
 
-(2)[^key-de7ecb67ce7697ed906d6c35a1f29bc8] . . . . . . . . . . . . . . .
+(2)[^c-de7ecb67ce7697ed906d6c35a1f29bc8] . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c15868461]: Marginal citation: [S.S.I. 2003/354](https://www.legislation.gov.uk/ssi/2003/354).
 
-[^key-de7ecb67ce7697ed906d6c35a1f29bc8]: Textual amendment: Art. 87(2) revoked (23.6.2008) by [The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008 (S.S.I. 2008/219)](https://www.legislation.gov.uk/ssi/2008/219), [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2008/219/schedule)
+[^c-de7ecb67ce7697ed906d6c35a1f29bc8]: Textual amendment: Art. 87(2) revoked (23.6.2008) by [The Diseases of Animals (Approved Disinfectants) (Scotland) Order 2008 (S.S.I. 2008/219)](https://www.legislation.gov.uk/ssi/2008/219), [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/219/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2008/219/schedule)

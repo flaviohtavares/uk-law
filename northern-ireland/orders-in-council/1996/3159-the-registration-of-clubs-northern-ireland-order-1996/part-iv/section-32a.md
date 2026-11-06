@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32A. Authorisation for underage functions[^key-4d437104f23eda2a7be000a2395fc38f]
+## 32A. Authorisation for underage functions[^c-4d437104f23eda2a7be000a2395fc38f]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ are each guilty of an offence and each liable on summary conviction to a fine no
 
 ## Annotations
 
-[^key-4d437104f23eda2a7be000a2395fc38f]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/nisi/1996/3159/article/32A) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 36(1)](https://www.legislation.gov.uk/nia/2021/7/section/36/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-4d437104f23eda2a7be000a2395fc38f]: Textual amendment: [Art. 32A](https://www.legislation.gov.uk/nisi/1996/3159/article/32A) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 36(1)](https://www.legislation.gov.uk/nia/2021/7/section/36/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

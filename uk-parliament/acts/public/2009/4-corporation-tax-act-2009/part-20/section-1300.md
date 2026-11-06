@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1300. Business gifts: exceptions[^key-9b5532513456c4c663f7db23a17273a9]
+## 1300. Business gifts: exceptions[^c-9b5532513456c4c663f7db23a17273a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ The Treasury may by order amend the sum for the time being specified in paragrap
 
 ## Annotations
 
-[^key-9b5532513456c4c663f7db23a17273a9]: Modification: Pt. 20 Ch. 1 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 92(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/92/4) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-9b5532513456c4c663f7db23a17273a9]: Modification: Pt. 20 Ch. 1 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 92(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/92/4) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

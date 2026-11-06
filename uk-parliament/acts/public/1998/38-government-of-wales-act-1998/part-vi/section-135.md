@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5f4c80dda651884bc671dafb7aee0819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-5f4c80dda651884bc671dafb7aee0819] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In—
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5f4c80dda651884bc671dafb7aee0819]: Textual amendment: [S. 135(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/135/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 52(2)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/52/2/b)
+[^c-5f4c80dda651884bc671dafb7aee0819]: Textual amendment: [S. 135(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/135/1) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 52(2)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/52/2/b)
 
 [^c12403671]: Marginal citation: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15).
 

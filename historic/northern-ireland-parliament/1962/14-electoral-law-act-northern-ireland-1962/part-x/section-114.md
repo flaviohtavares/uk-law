@@ -22,7 +22,7 @@ summary: ''
 
 (1) A candidate shall not be liable nor shall his election be avoided—
 
-- (a) for any corrupt practice specified in paragraph 5ZA or[^key-677401991eb19e47349691fdb948a03e] 7 of the Ninth Schedule committed by an agent of his unless it can be shown that the candidate has authorised or consented to the committing of the corrupt practice by such agent; or
+- (a) for any corrupt practice specified in paragraph 5ZA or[^c-677401991eb19e47349691fdb948a03e] 7 of the Ninth Schedule committed by an agent of his unless it can be shown that the candidate has authorised or consented to the committing of the corrupt practice by such agent; or
 - (b) for any illegal practice specified in paragraphs 10, 11 and 12 of the Ninth Schedule committed by an agent of his; or
 - (c) for any illegal practice specified in paragraph 19 of the Ninth Schedule committed by an agent of his other than his election agent; or
 - (d) for an illegal practice specified in paragraph 20 of the Ninth Schedule committed by an agent of his other than his election agent unless—
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-677401991eb19e47349691fdb948a03e]: Textual amendment: Words in [s. 114(1)(a)](https://www.legislation.gov.uk/apni/1962/14/section/114/1/a) inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/5); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-677401991eb19e47349691fdb948a03e]: Textual amendment: Words in [s. 114(1)(a)](https://www.legislation.gov.uk/apni/1962/14/section/114/1/a) inserted (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/5); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(ii)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))

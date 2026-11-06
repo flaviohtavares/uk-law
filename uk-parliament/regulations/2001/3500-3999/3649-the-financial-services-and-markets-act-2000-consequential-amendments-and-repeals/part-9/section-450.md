@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 450. Interpretation of the 1993 Regulations: qualifying bodies[^key-d80e53334a71a5086c9717be268b372b]
+## 450. Interpretation of the 1993 Regulations: qualifying bodies[^c-d80e53334a71a5086c9717be268b372b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d80e53334a71a5086c9717be268b372b]: Textual amendment: [Art. 450](https://www.legislation.gov.uk/uksi/2001/3649/article/450) revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-d80e53334a71a5086c9717be268b372b]: Textual amendment: [Art. 450](https://www.legislation.gov.uk/uksi/2001/3649/article/450) revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

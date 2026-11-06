@@ -24,7 +24,7 @@ summary: ''
 
 (2) In section 4A(1) [^c24099091] (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to the High Court in respect of compulsory purchase order), the three year period mentioned in section 4” substitute “ section 118 (legal challenges relating to applications for orders granting development consent) of the Planning Act 2008, the five year period mentioned in article 29 (time limit for exercise of authority to acquire land and rights compulsorily) of the West Midlands Rail Freight Interchange Order 2020 [^c24099101] ”.
 
-(3) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” substitute “article 29 (time limit for exercise of authority to acquire land and rights compulsorily)[^key-8e8741ebedc973a2590e550178bd8c14] of the West Midlands Rail Freight Interchange Order 2020”.
+(3) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” substitute “article 29 (time limit for exercise of authority to acquire land and rights compulsorily)[^c-8e8741ebedc973a2590e550178bd8c14] of the West Midlands Rail Freight Interchange Order 2020”.
 
 (4) In Schedule 2A (counter-notice requiring purchase of land not in notice to treat) at the end insert—
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c24099101]: Marginal citation: [S.I. 2020/511](https://www.legislation.gov.uk/uksi/2020/511).
 
-[^key-8e8741ebedc973a2590e550178bd8c14]: Textual amendment: Words in art. 30(3) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/7)
+[^c-8e8741ebedc973a2590e550178bd8c14]: Textual amendment: Words in art. 30(3) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — List of Diseases[^key-efec508bd317d4537b18a46347a58bfc]
+## SCHEDULE 6 — List of Diseases[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S*
 
@@ -24,110 +24,110 @@ summary: ''
 
 Regulation 13(1)
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efec508bd317d4537b18a46347a58bfc]
+[^c-efec508bd317d4537b18a46347a58bfc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

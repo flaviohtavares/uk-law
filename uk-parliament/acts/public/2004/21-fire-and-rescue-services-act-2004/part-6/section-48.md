@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Notices given electronically[^key-03dc3762f3af8fc65609c1f38fc9b680][^key-b0d88f1cf0bb68e09b24690bcefc1ec8]
+## 48. Notices given electronically[^c-03dc3762f3af8fc65609c1f38fc9b680][^c-b0d88f1cf0bb68e09b24690bcefc1ec8]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03dc3762f3af8fc65609c1f38fc9b680]: Commencement: S. 48 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-03dc3762f3af8fc65609c1f38fc9b680]: Commencement: S. 48 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-b0d88f1cf0bb68e09b24690bcefc1ec8]: Commencement: S. 48 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-b0d88f1cf0bb68e09b24690bcefc1ec8]: Commencement: S. 48 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

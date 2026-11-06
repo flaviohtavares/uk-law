@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Work required by notice: right of entry[^key-245c21153c0836bbc5cf0398be92b4d8]
+## 40. Work required by notice: right of entry[^c-245c21153c0836bbc5cf0398be92b4d8]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-245c21153c0836bbc5cf0398be92b4d8]: Commencement: S. 40 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-245c21153c0836bbc5cf0398be92b4d8]: Commencement: S. 40 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

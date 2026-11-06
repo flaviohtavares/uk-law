@@ -43,13 +43,13 @@ The Office of Communications (“OFCOM”) make the following Regulations in exe
 
 Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation, commencement and extent[^key-1f90a60e83c2e577dbc99516114e57e0]
+## 1. Citation, commencement and extent[^c-1f90a60e83c2e577dbc99516114e57e0]
 
 (1) These Regulations may be cited as the Wireless Telegraphy (Mobile Communication Services on Aircraft) (Exemption) Regulations 2008 and shall come into force on 1st October 2008.
 
 (2) These Regulations shall not extend to the Channel Islands or to the Isle of Man.
 
-## 2. Interpretation[^key-cdbe551ec39a5e49b371a69a10efba47]
+## 2. Interpretation[^c-cdbe551ec39a5e49b371a69a10efba47]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
 - “network control unit” means equipment located in an aircraft that ensures that signals transmitted by ground based mobile electronic communication systems are not detectable within the cabin by raising the noise floor inside the cabin in mobile communication receive bands; and
 - “relevant network” means an electronic communications network that includes an aircraft BTS and a network control unit.
 
-## 3. Exemption[^key-a3c3f29c26f481be52660f5efec5a0e2]
+## 3. Exemption[^c-a3c3f29c26f481be52660f5efec5a0e2]
 
 The use of any apparatus on board an aircraft which is—
 
@@ -73,7 +73,7 @@ The use of any apparatus on board an aircraft which is—
 
 is hereby exempt from the provisions of section 8(1) of the Wireless Telegraphy Act 2006 where the terms, provisions and limitations in regulation 4 are met.
 
-## 4. Terms, provisions and limitations[^key-38fff8ad52ee13d46fabf8aea5540dad]
+## 4. Terms, provisions and limitations[^c-38fff8ad52ee13d46fabf8aea5540dad]
 
 (1) The apparatus must comply with the GSM standard EN 301 511 published by ETSI[^f00002] (or equivalent specification).
 
@@ -103,7 +103,7 @@ For and by authority of the Office of Communications
 
 10th September 2008
 
-## SCHEDULE[^key-bf7058f5d238a7550b529fc97f6d22f3]
+## SCHEDULE[^c-bf7058f5d238a7550b529fc97f6d22f3]
 
 Regulation 4
 
@@ -156,13 +156,13 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36)
 
-[^key-1f90a60e83c2e577dbc99516114e57e0]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
+[^c-1f90a60e83c2e577dbc99516114e57e0]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
 
-[^key-cdbe551ec39a5e49b371a69a10efba47]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
+[^c-cdbe551ec39a5e49b371a69a10efba47]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
 
-[^key-a3c3f29c26f481be52660f5efec5a0e2]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
+[^c-a3c3f29c26f481be52660f5efec5a0e2]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
 
-[^key-38fff8ad52ee13d46fabf8aea5540dad]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
+[^c-38fff8ad52ee13d46fabf8aea5540dad]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
 
 [^f00002]: Footnote: EN 301 511 (Version 9.0.2) was published on 20th March 2003
 
@@ -170,4 +170,4 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00004]: Footnote: EN 302 480 (Version 1.1.2) was published on 24th April 2008
 
-[^key-bf7058f5d238a7550b529fc97f6d22f3]: Commencement: Sch. in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)
+[^c-bf7058f5d238a7550b529fc97f6d22f3]: Commencement: Sch. in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2427/regulation/1/1)

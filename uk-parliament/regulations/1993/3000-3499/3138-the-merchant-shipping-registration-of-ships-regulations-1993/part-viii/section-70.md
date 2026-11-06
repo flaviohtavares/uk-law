@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Condition of provisional registration for fishing vessels[^key-7ec274e90450ab4e0227cdb1647b2e03]
+## 70. Condition of provisional registration for fishing vessels[^c-7ec274e90450ab4e0227cdb1647b2e03]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ It shall be a condition of provisional registration for fishing vessels that the
 
 ## Annotations
 
-[^key-7ec274e90450ab4e0227cdb1647b2e03]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1993/3138/regulation/70) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-7ec274e90450ab4e0227cdb1647b2e03]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1993/3138/regulation/70) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

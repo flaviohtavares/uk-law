@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Management of building safety risks by persons other than accountable persons[^key-a0b7e5681eac21942963973ee0e5fad6]
+## 36. Management of building safety risks by persons other than accountable persons[^c-a0b7e5681eac21942963973ee0e5fad6]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0b7e5681eac21942963973ee0e5fad6]: Commencement: S. 36 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a0b7e5681eac21942963973ee0e5fad6]: Commencement: S. 36 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

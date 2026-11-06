@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Application of Part[^key-5e90fcd9ad5751c3e266c1ee4dadb029]
+## 123. Application of Part[^c-5e90fcd9ad5751c3e266c1ee4dadb029]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e90fcd9ad5751c3e266c1ee4dadb029]: Commencement: Reg. 123 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-5e90fcd9ad5751c3e266c1ee4dadb029]: Commencement: Reg. 123 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00058]: Footnote: See Chapter 1 of Part 4 (active membership) for when a member of the police force is taken to be an active member of this scheme.

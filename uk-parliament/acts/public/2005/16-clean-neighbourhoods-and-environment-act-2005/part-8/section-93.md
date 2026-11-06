@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Tax[^key-5cbe31220f22b2b9ffc1e404e842e21c]
+## 93. Tax[^c-5cbe31220f22b2b9ffc1e404e842e21c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cbe31220f22b2b9ffc1e404e842e21c]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2005/16/section/93) in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
+[^c-5cbe31220f22b2b9ffc1e404e842e21c]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2005/16/section/93) in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)

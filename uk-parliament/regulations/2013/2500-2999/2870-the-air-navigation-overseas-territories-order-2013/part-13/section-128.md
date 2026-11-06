@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Aerial application permission for purposes of agriculture etc[^key-2bd37f9d32c62c628072babfe886d95a]
+## 128. Aerial application permission for purposes of agriculture etc[^c-2bd37f9d32c62c628072babfe886d95a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bd37f9d32c62c628072babfe886d95a]: Commencement: [Art. 128](https://www.legislation.gov.uk/uksi/2013/2870/article/128) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2bd37f9d32c62c628072babfe886d95a]: Commencement: [Art. 128](https://www.legislation.gov.uk/uksi/2013/2870/article/128) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

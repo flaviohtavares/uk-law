@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Qualifying conditions for the disabled students’ allowance[^key-6cc18f2bffe05e87e0d34ce38c230868]
+## 41. Qualifying conditions for the disabled students’ allowance[^c-6cc18f2bffe05e87e0d34ce38c230868]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An eligible student qualifies for a grant to assist with the additional expendit
 
 ## Annotations
 
-[^key-6cc18f2bffe05e87e0d34ce38c230868]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/nisr/2007/195/regulation/41) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [12](https://www.legislation.gov.uk/nisr/2007/363/regulation/12)
+[^c-6cc18f2bffe05e87e0d34ce38c230868]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/nisr/2007/195/regulation/41) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [12](https://www.legislation.gov.uk/nisr/2007/363/regulation/12)

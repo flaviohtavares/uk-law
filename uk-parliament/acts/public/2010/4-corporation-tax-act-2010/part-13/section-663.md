@@ -33,10 +33,10 @@ summary: ''
 
 (5) In this section “**the relevant threshold**” means—
 
-- (a) £30,000[^key-c7a093796e14dfe2b0bb24614417e0a0] in the case of an accounting period which is 12 months, and
+- (a) £30,000[^c-c7a093796e14dfe2b0bb24614417e0a0] in the case of an accounting period which is 12 months, and
 - (b) a proportionately reduced figure in the case of a shorter accounting period.
 
-(5A)[^key-f9ecb95dd517caad898ad93b2a9af08d] The Treasury may by order amend the figure for the time being specified as the relevant threshold in subsection (5)(a).
+(5A)[^c-f9ecb95dd517caad898ad93b2a9af08d] The Treasury may by order amend the figure for the time being specified as the relevant threshold in subsection (5)(a).
 
 (5B) A statutory instrument containing an order under subsection (5A) that amends that figure so as to substitute a lower figure may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the House of Commons.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7a093796e14dfe2b0bb24614417e0a0]: Textual amendment: Word in [s. 663(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/663/5/a) substituted (1.4.2015) (with effect in accordance with art. 1(2)(3) of the amending S.I.) by [The Community Amateur Sports Clubs (Exemptions) Order 2014 (S.I. 2014/3327)](https://www.legislation.gov.uk/uksi/2014/3327), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3327/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3327/article/3)
+[^c-c7a093796e14dfe2b0bb24614417e0a0]: Textual amendment: Word in [s. 663(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/663/5/a) substituted (1.4.2015) (with effect in accordance with art. 1(2)(3) of the amending S.I.) by [The Community Amateur Sports Clubs (Exemptions) Order 2014 (S.I. 2014/3327)](https://www.legislation.gov.uk/uksi/2014/3327), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/3327/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/3327/article/3)
 
-[^key-f9ecb95dd517caad898ad93b2a9af08d]: Textual amendment: S. 663(5A)(5B) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/7), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-f9ecb95dd517caad898ad93b2a9af08d]: Textual amendment: S. 663(5A)(5B) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/7), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)

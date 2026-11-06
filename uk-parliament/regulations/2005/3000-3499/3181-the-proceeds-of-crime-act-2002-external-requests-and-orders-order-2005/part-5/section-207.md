@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Granting interests[^key-4ec7706b6410d6c2db76bc08a4d00a70]
+## 207. Granting interests[^c-4ec7706b6410d6c2db76bc08a4d00a70]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ec7706b6410d6c2db76bc08a4d00a70]: Commencement: [Art. 207](https://www.legislation.gov.uk/uksi/2005/3181/article/207) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-4ec7706b6410d6c2db76bc08a4d00a70]: Commencement: [Art. 207](https://www.legislation.gov.uk/uksi/2005/3181/article/207) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

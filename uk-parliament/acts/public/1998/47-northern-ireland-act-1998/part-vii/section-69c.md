@@ -32,7 +32,7 @@ summary: ''
 - (d) in a building where a court sits, a place used for the purpose of detaining arrested persons,
 - (e) a juvenile justice centre provided under Article 51 of the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)),
 - (f) the secure accommodation in Bangor provided and used in accordance with Article 44 of the Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2)),
-- (g) a removal centre, a short-term holding facility or pre-departure accommodation[^key-a2d238381140653316e372b2feefe996] within the meaning of section 147 of the Immigration and Asylum Act 1999 (c. 33), and
+- (g) a removal centre, a short-term holding facility or pre-departure accommodation[^c-a2d238381140653316e372b2feefe996] within the meaning of section 147 of the Immigration and Asylum Act 1999 (c. 33), and
 - (h) any accommodation (including accommodation in a hospital) provided for the purpose of detention under the Mental Health (Northern Ireland) Order 1986 (S.I. 1986/595 (N.I. 4)).
 
 (4) The Commission may specify a place of detention in the terms of reference of an investigation only if it has—
@@ -71,4 +71,4 @@ summary: ''
 
 [^c20130921]: Textual amendment: S. 69C inserted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2007/6/section/16/1), [53](https://www.legislation.gov.uk/ukpga/2007/6/section/53) (with [s. 20](https://www.legislation.gov.uk/ukpga/2007/6/section/20)); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)(3)(j)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2/3/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2045/article/3))
 
-[^key-a2d238381140653316e372b2feefe996]: Textual amendment: Words in s. 69C(3)(g) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/11); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)
+[^c-a2d238381140653316e372b2feefe996]: Textual amendment: Words in s. 69C(3)(g) substituted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/11); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(cc)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/cc)

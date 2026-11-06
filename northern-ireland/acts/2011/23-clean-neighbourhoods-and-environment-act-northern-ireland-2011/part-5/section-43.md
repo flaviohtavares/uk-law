@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Fixed penalty notices for contravention of dog control order[^key-8533fb9f6371515163273c87e92b2864]
+## 43. Fixed penalty notices for contravention of dog control order[^c-8533fb9f6371515163273c87e92b2864]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-8533fb9f6371515163273c87e92b2864]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2011/23/section/43) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-8533fb9f6371515163273c87e92b2864]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2011/23/section/43) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

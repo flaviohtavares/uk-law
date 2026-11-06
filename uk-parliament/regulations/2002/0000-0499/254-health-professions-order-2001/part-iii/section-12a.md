@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Article 12: further provision relating to specified state professionals[^key-dcef232ba48febcc7756354528aff85f]
+## 12A. Article 12: further provision relating to specified state professionals[^c-dcef232ba48febcc7756354528aff85f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcef232ba48febcc7756354528aff85f]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/2002/254/article/12A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/73)
+[^c-dcef232ba48febcc7756354528aff85f]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/2002/254/article/12A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/73)

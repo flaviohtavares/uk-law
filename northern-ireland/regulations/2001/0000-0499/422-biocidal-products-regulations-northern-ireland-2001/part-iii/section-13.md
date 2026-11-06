@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Provisional authorisation[^key-535b962fd54cdd778eae74cc2428f8ad]
+## 13. Provisional authorisation[^c-535b962fd54cdd778eae74cc2428f8ad]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-535b962fd54cdd778eae74cc2428f8ad]: Commencement: Reg. 13 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-535b962fd54cdd778eae74cc2428f8ad]: Commencement: Reg. 13 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendments to invitation process for establishment of new schools[^key-c4d010f646a6e4575b2cba75c8941b2a][^key-df023c677196373b21fa15d0f1124dca]
+## 65. Amendments to invitation process for establishment of new schools[^c-c4d010f646a6e4575b2cba75c8941b2a][^c-df023c677196373b21fa15d0f1124dca]
 
 *Extent: E+W*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d010f646a6e4575b2cba75c8941b2a]: Commencement: S. 65 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-c4d010f646a6e4575b2cba75c8941b2a]: Commencement: S. 65 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-df023c677196373b21fa15d0f1124dca]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2026/21/section/65) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/c)
+[^c-df023c677196373b21fa15d0f1124dca]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2026/21/section/65) in force at 1.9.2026 by [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/c)

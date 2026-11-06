@@ -39,7 +39,7 @@ Coming into force in accordance with regulation 1
 
 [^c9612291] Whereas a draft of this instrument, which contains the first regulations made under section 9 of the Tax Credits Act 2002, has been laid before, and approved by resolution of, each House of Parliament:
 
-Now, therefore, the Treasury, in exercise of the powers conferred on them by sections 8, 9, 65 and 67 of the Tax Credits Act 2002[^c9612301], hereby make the following Regulations:[^key-fc9d0a35c6a17636756669ad2db1f41e]
+Now, therefore, the Treasury, in exercise of the powers conferred on them by sections 8, 9, 65 and 67 of the Tax Credits Act 2002[^c9612301], hereby make the following Regulations:[^c-fc9d0a35c6a17636756669ad2db1f41e]
 
 ## 1. Citation, commencement and effect
 
@@ -55,62 +55,62 @@ and shall have effect for the tax year beginning on 6th April 2003 and subsequen
 
 (1) In these Regulations, unless the context otherwise requires—
 
-- “A”, as a noun, has the meaning given by regulation 7(2A);[^key-891ac19fd0666c110a250240780a2396]
+- “A”, as a noun, has the meaning given by regulation 7(2A);[^c-891ac19fd0666c110a250240780a2396]
 - “the Act” means the Tax Credits Act 2002;
-- “advanced education” means [^key-1a0489299dca8c4efaddbac9734a6cfe]...—
+- “advanced education” means [^c-1a0489299dca8c4efaddbac9734a6cfe]...—
   - (a) a course in preparation for a degree, a diploma of higher education, a higher national diploma, a higher national diploma or higher national certificate of Edexcel or the Scottish Qualifications Authority, or a teaching qualification; or
-  - (b) any other course which is of a standard above ordinary national diploma, a national diploma or national certificate of Edexcel [^key-7520ddab55d3322d146255b1fd3ef032]..., a general certificate of education (advanced level), or Scottish national qualifications at higher or advanced higher level[^key-105250309d1bd4fc313312dd7a53c5e3];
-- “approved training” has the meaning given by regulation 1(3) of the Child Benefit (General) Regulations 2006;[^key-83fda538947facd857a94893f38f4416]
-- “armed forces independence payment’’ means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^key-d04dbbc77ec4fb503d646b95bb030841]
-- “the Board” means the Commissioners[^key-d9966230cb5e4333cd730179bf2715db] for Her Majesty’s Revenue and Customs[^key-fbe5fb540f633e69e07504d973243277];
+  - (b) any other course which is of a standard above ordinary national diploma, a national diploma or national certificate of Edexcel [^c-7520ddab55d3322d146255b1fd3ef032]..., a general certificate of education (advanced level), or Scottish national qualifications at higher or advanced higher level[^c-105250309d1bd4fc313312dd7a53c5e3];
+- “approved training” has the meaning given by regulation 1(3) of the Child Benefit (General) Regulations 2006;[^c-83fda538947facd857a94893f38f4416]
+- “armed forces independence payment’’ means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;[^c-d04dbbc77ec4fb503d646b95bb030841]
+- “the Board” means the Commissioners[^c-d9966230cb5e4333cd730179bf2715db] for Her Majesty’s Revenue and Customs[^c-fbe5fb540f633e69e07504d973243277];
 - “the Careers Service” means—
-  - (a) in England and Wales, a person with whom the Secretary of State or the National Assembly of Wales has made arrangements under section 10(1) of the Employment Act [^c9612311], and a local authority[^key-f7a8719a788e602297c0d9c9c44a617b] to whom the Secretary of State or the National Assembly of Wales has given a direction under section 10(2) of that Act,
+  - (a) in England and Wales, a person with whom the Secretary of State or the National Assembly of Wales has made arrangements under section 10(1) of the Employment Act [^c9612311], and a local authority[^c-f7a8719a788e602297c0d9c9c44a617b] to whom the Secretary of State or the National Assembly of Wales has given a direction under section 10(2) of that Act,
   - (b) in Scotland, a person with whom the Scottish Ministers have made arrangements under section 10(1) of the Employment Act and any education authority to which a direction has been given by the Scottish Ministers under section 10(2) of that Act, and
-  - (c) [^key-886fd16524115a45943a82f9b32cb976]...
-- “child” means a person who has not attained the age of sixteen [^key-d256bc3b6398a024c3d29072203f3208]...;
-- “claimant” has the meaning in section 9(8) of the Act, except in regulations 7 and 9 to 14 (for which see regulations 7(1) and 13(13) to (15))[^key-5a3967833d9344513146f7b2ea7c57d5];
+  - (c) [^c-886fd16524115a45943a82f9b32cb976]...
+- “child” means a person who has not attained the age of sixteen [^c-d256bc3b6398a024c3d29072203f3208]...;
+- “claimant” has the meaning in section 9(8) of the Act, except in regulations 7 and 9 to 14 (for which see regulations 7(1) and 13(13) to (15))[^c-5a3967833d9344513146f7b2ea7c57d5];
 - “the Connexions Service” means a person of any description with whom the Secretary of State has made an arrangement under section 114(2)(a) of the Learning and Skills Act 2000 [^c9612321] and section 10(1) of the Employment Act, and any person to whom he has given a direction under section 114(2)(b) of the former Act and section 10(2) of the latter Act;
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits Act 1992 [^c9612331];
-- “couple” has the meaning given by section 3(5A) of the Act;[^key-7d4269566ce65c3595a2901c29844cd2]
+- “couple” has the meaning given by section 3(5A) of the Act;[^c-7d4269566ce65c3595a2901c29844cd2]
 - “custodial sentence”—
-  - (a) in England and Wales, has the meaning in section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c9612341] or section 222 of the Sentencing Code[^key-33cd9e29e4ef6d989b1234821972c0c9],
+  - (a) in England and Wales, has the meaning in section 76 of the Powers of Criminal Courts (Sentencing) Act 2000 [^c9612341] or section 222 of the Sentencing Code[^c-33cd9e29e4ef6d989b1234821972c0c9],
   - (b) in Scotland, means detention under a sentence imposed by a court under sections 44, 205, 207 or 208 of the Criminal Procedure (Scotland) Act 1995 [^c9612351], and
   - (c) in Northern Ireland, means a custodial sentence under the Criminal Justice (Children) (Northern Ireland) Order 1998 [^c9612361];
 - “disability living allowance” means a disability living allowance under section 71 of the Contributions and Benefits Act;
 - “the Employment Act” means the Employment and Training Act 1973;
 - “the family element of child tax credit” and “the individual element of child tax credit” shall be construed in accordance with section 9(3) of the Act;
-- [^key-7a861aa36d33a4fda0deda35fd33d0e0]...
-- “income support” means income support under section 124 of the Contributions and Benefits Act;[^key-d303edb2f369d0c17758354c6198c218]
+- [^c-7a861aa36d33a4fda0deda35fd33d0e0]...
+- “income support” means income support under section 124 of the Contributions and Benefits Act;[^c-d303edb2f369d0c17758354c6198c218]
 - “joint claim” and “single claim” shall be construed in accordance with section 3(8) of the Act;
-- “looked after by a local authority” has the meaning in section 22 of the Children Act 1989 [^c9612371], section 74 of the Social Services and Well-being (Wales) Act 2014,[^key-eee52f665f3ee5c71b7d0901dc0dfeff] section 17(6) of the Children (Scotland) Act 1995 [^c9612381] or (in Northern Ireland) Article 25 of the Children (Northern Ireland) Order 1995 [^c9612391] (with the modification that for the reference to a local authority there is substituted a reference to an authority within the meaning in Article 2 of that Order) , and (in Scotland) includes a child in respect of which a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011 has been made or a child protection order within the meaning of section 37 of that Act has been made.[^key-007c6d14588e45d39abe39d083555aa7];
+- “looked after by a local authority” has the meaning in section 22 of the Children Act 1989 [^c9612371], section 74 of the Social Services and Well-being (Wales) Act 2014,[^c-eee52f665f3ee5c71b7d0901dc0dfeff] section 17(6) of the Children (Scotland) Act 1995 [^c9612381] or (in Northern Ireland) Article 25 of the Children (Northern Ireland) Order 1995 [^c9612391] (with the modification that for the reference to a local authority there is substituted a reference to an authority within the meaning in Article 2 of that Order) , and (in Scotland) includes a child in respect of which a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011 has been made or a child protection order within the meaning of section 37 of that Act has been made.[^c-007c6d14588e45d39abe39d083555aa7];
 - the “main responsibility test” has the meaning given in Rule 2.2. of regulation 3;
 - the “normally living with test” has the meaning given in Rule 1.1. of regulation 3;
-- “old style JSA” means a jobseeker’s allowance under the Jobseekers Act 1995 as that Act has effect apart from the amendments made by Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance;[^key-ba8cbae72a52daba304a77ee790eac2c]
+- “old style JSA” means a jobseeker’s allowance under the Jobseekers Act 1995 as that Act has effect apart from the amendments made by Part 1 of Schedule 14 to the Welfare Reform Act 2012 that remove references to an income-based allowance;[^c-ba8cbae72a52daba304a77ee790eac2c]
 - “Part 1” means Part 1 of the Act;
 - “patient” means a person (other than a person who is serving a custodial sentence) who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-patients) Regulations 1975 [^c9612401], or the Social Security (Hospital In-patients) Regulations (Northern Ireland) 1975 [^c9612411];
-- “personal independence payment” means personal independence payment under Part 4 of the Welfare Reform Act 2012;[^key-ad249d1dda9267ae44e93a5e8700a8cd]
-- “placing for adoption” means placing for adoption in accordance with—[^key-0580199dfdd7969a33ff158179d2392e]
+- “personal independence payment” means personal independence payment under Part 4 of the Welfare Reform Act 2012;[^c-ad249d1dda9267ae44e93a5e8700a8cd]
+- “placing for adoption” means placing for adoption in accordance with—[^c-0580199dfdd7969a33ff158179d2392e]
   - (a) the Adoption Agencies Regulations 2005,
   - (b) the Adoption Agencies (Wales) Regulations 2005,
   - (c) the Adoption Agencies (Scotland) Regulations 2009, or
   - (d) the Adoption Agencies Regulations (Northern Ireland) 1989 [^c9612441];
-- “qualifying body” means–[^key-182bbf7d667c65bd4dbf25551952eb1a]
+- “qualifying body” means–[^c-182bbf7d667c65bd4dbf25551952eb1a]
   - (a) the Careers Service or Connexions Service;
   - (b) the Ministry of Defence;
-  - (c) in Northern Ireland, the Department for Communities, the Department for the Economy or the Education Authority[^key-9bc2484907e81addf7625fbbc7b182f1]; or
-  - (d) for the purposes of applying [Council Regulation (EEC) No. 1408/71](https://www.legislation.gov.uk/eur/1971/1408) and Regulation[^key-4ae82d13f1f4f33d624a401741b13049] [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) of the European Parliament and of the Council, any corresponding body in another member state;
+  - (c) in Northern Ireland, the Department for Communities, the Department for the Economy or the Education Authority[^c-9bc2484907e81addf7625fbbc7b182f1]; or
+  - (d) for the purposes of applying [Council Regulation (EEC) No. 1408/71](https://www.legislation.gov.uk/eur/1971/1408) and Regulation[^c-4ae82d13f1f4f33d624a401741b13049] [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) of the European Parliament and of the Council, any corresponding body in another member state;
 - “qualifying young person” means a person, other than a child, who—
-  - (a) has not attained the age of twenty[^key-10674d5b06aee90d6dae8dbf5745cc16], and
+  - (a) has not attained the age of twenty[^c-10674d5b06aee90d6dae8dbf5745cc16], and
   - (b) satisfies the conditions in regulation 5(3) and (4);
-- [^key-fb9a3e5e9ddda7fd0b5b09e24f547f22]...
-- [^key-9ca99fb4f58661c8d4ea33076e05d6f7]...
+- [^c-fb9a3e5e9ddda7fd0b5b09e24f547f22]...
+- [^c-9ca99fb4f58661c8d4ea33076e05d6f7]...
 - “remunerative work” means work which is—
   - (a) done for payment or in expectation of payment,
   - (b) undertaken for not less than 24 hours a week, calculated in accordance with regulation 4(3) of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 [^c9612501], and
   - (c) not excluded from the meaning of engagement in remunerative work by regulation 4(2) of those Regulations;
 
   and other expressions have the same meanings as defined in the Act.
-- “step-parent”, in relation to A, means a person who is not A’s parent but—[^key-3a2a4168373460e52fafc857bc79998e]
+- “step-parent”, in relation to A, means a person who is not A’s parent but—[^c-3a2a4168373460e52fafc857bc79998e]
   - (a) is a member of a couple, the other member of which is a parent of A, where both are responsible for A; or
   - (b) was previously a member of—
     - (i) a couple, the other member of which was a parent of A, or
@@ -120,7 +120,7 @@ and shall have effect for the tax year beginning on 6th April 2003 and subsequen
 
 (2) In the application of these Regulations to Northern Ireland, a reference to a provision of an enactment which applies only to Great Britain or England and Wales, shall be construed, so far as necessary, as including a reference to the corresponding enactment applying to Northern Ireland.
 
-## 3. Circumstances in which a person is or is not responsible for a child or qualifying young person[^key-f7e96df2be7c9a1e05dbe2d285cbca9a][^key-107ad46cb7af75136a2d121c87363b71]
+## 3. Circumstances in which a person is or is not responsible for a child or qualifying young person[^c-f7e96df2be7c9a1e05dbe2d285cbca9a][^c-107ad46cb7af75136a2d121c87363b71]
 
 (1)[^M_C_c5cb5b88-4df8-42a5-d8b6-331ea8c27eb4] For the purposes of child tax credit the circumstances in which a person is or is not responsible for a child or qualifying young person shall be determined in accordance with the following Rules.
 
@@ -131,9 +131,9 @@ and shall have effect for the tax year beginning on 6th April 2003 and subsequen
   - This Rule applies where—
     - (a) a child or qualifying young person normally lives with two or more persons in—
       - (i) different households, or
-      - (ii) the same household, where those persons are not limited to the members of a [^key-0a3d0522b0103ae6642920f57174e7dc]... couple, or
+      - (ii) the same household, where those persons are not limited to the members of a [^c-0a3d0522b0103ae6642920f57174e7dc]... couple, or
       - (iii) a combination of (i) and (ii), and
-    - (b) two or more of those persons make separate claims (that is, not a single joint claim made by a [^key-a367cd8c6f74a7cbdc299e11ac83ba72]... couple) for child tax credit in respect of the child or qualifying young person.
+    - (b) two or more of those persons make separate claims (that is, not a single joint claim made by a [^c-a367cd8c6f74a7cbdc299e11ac83ba72]... couple) for child tax credit in respect of the child or qualifying young person.
   - The child or qualifying young person shall be treated as the responsibility of—
     - (a) only one of those persons making such claims, and
     - (b) whichever of them has (comparing between them) the main responsibility for him (the “main responsibility test”),
@@ -146,15 +146,15 @@ and shall have effect for the tax year beginning on 6th April 2003 and subsequen
 
     |  |  |
     | --- | --- |
-    | Case A | The child or qualifying young person is provided with, or placed in, accommodation under Part III of the Children Act 1989 [^c9612511], Parts 4 or 6 of the Social Services and Well-being (Wales) Act 2014,[^key-d24d579cb0c80a556138b43eff3a867c] Part II of the Children (Scotland) Act 1995 [^c9612521] by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,[^key-cae7e35e3058e4644871e5d2f78f6692] or Part IV of the Children (Northern Ireland) Order 1995 [^c9612531], and the cost of that child’s or qualifying young person’s accommodation or maintenance is borne wholly or partly—<br>- (i) out of local authority funds under section 22C(10)[^key-699cc96d98c92198d868b025bbc466fb] [^key-5e53459dc19d25b0f6aee9dd26bc0a5e]... of the Children Act 1989 or section 81(13) of the Social Services and Well-being (Wales) Act 2014[^key-f8479680bfd0f5de7ad41404bf5295c5] or regulation 33 of the Looked After Children (Scotland) Regulations 2009[^key-a5db59b095489b90d55fde8e7476757d],<br>- (ii) in Northern Ireland, by an authority, within the meaning in Article 2, and under Article 27, of that Order, or<br>- (iii) out of other public funds.<br>[^key-f80291fc39acf16d3e5ca8ad4433e387]... In the circumstances prescribed in regulation 3 of the Child Benefit (General) Regulations 1976 [^c9612541], or regulation 3 of the Child Benefit (General) Regulations (Northern Ireland) 1979 [^c9612551]. |
-    | Case B | The child or qualifying young person—<br>- (i) is being looked after by a local authority, and<br>- (ii) has been placed for adoption by that authority in the home of a person proposing to adopt him, and a local authority is making a payment in respect of the child’s or qualifying young person’s accommodation or maintenance, or both, under section 22C(10)[^key-4310ac8733165d342d67c243da672d27] [^M_F_efa100e7-d2bb-44dc-9de3-2851c7efe0ec]... of the Children Act 1989, section 81(13) of the Social Services and Well-being (Wales) Act 2014,[^M_F_6212d2f5-f83e-445a-a7f3-b0cc2691b46e] regulation 33 of the Looked After Children (Scotland) Regulations 2009[^key-215396d71bd22453691418eaffcaa8f3] or Article 27 of the Children (Northern Ireland) Order 1995.<br>This Case applies in Northern Ireland with the modification that for references to a local authority there are substituted references to an authority (within the meaning in Article 2 of that Order). |
+    | Case A | The child or qualifying young person is provided with, or placed in, accommodation under Part III of the Children Act 1989 [^c9612511], Parts 4 or 6 of the Social Services and Well-being (Wales) Act 2014,[^c-d24d579cb0c80a556138b43eff3a867c] Part II of the Children (Scotland) Act 1995 [^c9612521] by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,[^c-cae7e35e3058e4644871e5d2f78f6692] or Part IV of the Children (Northern Ireland) Order 1995 [^c9612531], and the cost of that child’s or qualifying young person’s accommodation or maintenance is borne wholly or partly—<br>- (i) out of local authority funds under section 22C(10)[^c-699cc96d98c92198d868b025bbc466fb] [^c-5e53459dc19d25b0f6aee9dd26bc0a5e]... of the Children Act 1989 or section 81(13) of the Social Services and Well-being (Wales) Act 2014[^c-f8479680bfd0f5de7ad41404bf5295c5] or regulation 33 of the Looked After Children (Scotland) Regulations 2009[^c-a5db59b095489b90d55fde8e7476757d],<br>- (ii) in Northern Ireland, by an authority, within the meaning in Article 2, and under Article 27, of that Order, or<br>- (iii) out of other public funds.<br>[^c-f80291fc39acf16d3e5ca8ad4433e387]... In the circumstances prescribed in regulation 3 of the Child Benefit (General) Regulations 1976 [^c9612541], or regulation 3 of the Child Benefit (General) Regulations (Northern Ireland) 1979 [^c9612551]. |
+    | Case B | The child or qualifying young person—<br>- (i) is being looked after by a local authority, and<br>- (ii) has been placed for adoption by that authority in the home of a person proposing to adopt him, and a local authority is making a payment in respect of the child’s or qualifying young person’s accommodation or maintenance, or both, under section 22C(10)[^c-4310ac8733165d342d67c243da672d27] [^M_F_efa100e7-d2bb-44dc-9de3-2851c7efe0ec]... of the Children Act 1989, section 81(13) of the Social Services and Well-being (Wales) Act 2014,[^M_F_6212d2f5-f83e-445a-a7f3-b0cc2691b46e] regulation 33 of the Looked After Children (Scotland) Regulations 2009[^c-215396d71bd22453691418eaffcaa8f3] or Article 27 of the Children (Northern Ireland) Order 1995.<br>This Case applies in Northern Ireland with the modification that for references to a local authority there are substituted references to an authority (within the meaning in Article 2 of that Order). |
     | Case C | A custodial sentence—<br>- (a) for life,<br>- (b) without limit of time,<br>- (c) of detention during Her Majesty’s pleasure,<br>- (d) in Northern Ireland, of detention during the pleasure of the Secretary of State, or<br>- (e) for a term or period of more than four months,has been passed on the child or qualifying young person. |
-    | Case D | The [^key-9318e4bd017fb2009a0ba48ca677cef2]... qualifying young person claims and is awarded child tax credit in his or her own right, in respect of a child for whom he or she is responsible, for that period. |
-    | Case E[^key-a2996cb7158e46727077dc8989104876] | [^key-cd0314b7a4c59a788f50019451d86cb6]... The qualifying young person, claims incapacity benefit in his or her own right and that benefit is paid to or in respect of him or her for that period.<br>This Case does not apply at any time (“the later time”) during a period of incapacity for work which began before 6th April 2004 in the case of a person in respect of whom, at a time—<br>- (a) during that period of incapacity, and<br>- (b) before that date,<br>both incapacity benefit or contributory employment and support allowance payable under Part 1 of the Welfare Reform Act 2007[^key-dc6d755ed7e96fc553ec46b38f8e98db] and child tax credit were payable, if child tax credit has been payable in respect of him or her continuously since 5th April 2004 until that later time.<br>For the purposes of this Case “period of incapacity” shall be construed in accordance with section 30C of the 1992 Act (incapacity benefit: days and periods of incapacity for work) but disregarding subsections (5) and (5A) of that section. |
-    | Case F[^key-f20cc18c468532ea9818332bfbc183c1] | [^key-f93b397522fa0e104dd7d44c0b5d6588]... The qualifying young person claims and receives working tax credit in his or her own right (whether alone or on a joint claim).<br>[^key-f93b397522fa0e104dd7d44c0b5d6588]... |
-    | Case G[^key-03a4a07abf0cc7e75289350bb79709db] | The qualifying young person has a spouse, civil partner or partner with whom they are living and the spouse, civil partner or partner is not in full-time education or approved training as provided for under regulation 5(3). |
-    | Case H | The responsible person is the spouse, civil partner or partner of a qualifying young person with whom they are living.<br>Cases G and H do[^key-1407170f43370b07d7cf8e7c828230c1] not apply to persons in receipt of child tax credit for a qualifying young person who is living with a partner on the day before 1st September 2008. |
-  - Where a child or qualifying young person is in residential accommodation referred to in regulation 9 of the Child Benefit (General) Regulations 2006 and in the circumstances prescribed in paragraphs (a) or (b) of that regulation, he shall be treated as being the responsibility of any person who was treated as being responsible for him immediately before he entered that accommodation.[^key-a77f40f53f0d4aa9f2169707675639ef]
+    | Case D | The [^c-9318e4bd017fb2009a0ba48ca677cef2]... qualifying young person claims and is awarded child tax credit in his or her own right, in respect of a child for whom he or she is responsible, for that period. |
+    | Case E[^c-a2996cb7158e46727077dc8989104876] | [^c-cd0314b7a4c59a788f50019451d86cb6]... The qualifying young person, claims incapacity benefit in his or her own right and that benefit is paid to or in respect of him or her for that period.<br>This Case does not apply at any time (“the later time”) during a period of incapacity for work which began before 6th April 2004 in the case of a person in respect of whom, at a time—<br>- (a) during that period of incapacity, and<br>- (b) before that date,<br>both incapacity benefit or contributory employment and support allowance payable under Part 1 of the Welfare Reform Act 2007[^c-dc6d755ed7e96fc553ec46b38f8e98db] and child tax credit were payable, if child tax credit has been payable in respect of him or her continuously since 5th April 2004 until that later time.<br>For the purposes of this Case “period of incapacity” shall be construed in accordance with section 30C of the 1992 Act (incapacity benefit: days and periods of incapacity for work) but disregarding subsections (5) and (5A) of that section. |
+    | Case F[^c-f20cc18c468532ea9818332bfbc183c1] | [^c-f93b397522fa0e104dd7d44c0b5d6588]... The qualifying young person claims and receives working tax credit in his or her own right (whether alone or on a joint claim).<br>[^c-f93b397522fa0e104dd7d44c0b5d6588]... |
+    | Case G[^c-03a4a07abf0cc7e75289350bb79709db] | The qualifying young person has a spouse, civil partner or partner with whom they are living and the spouse, civil partner or partner is not in full-time education or approved training as provided for under regulation 5(3). |
+    | Case H | The responsible person is the spouse, civil partner or partner of a qualifying young person with whom they are living.<br>Cases G and H do[^c-1407170f43370b07d7cf8e7c828230c1] not apply to persons in receipt of child tax credit for a qualifying young person who is living with a partner on the day before 1st September 2008. |
+  - Where a child or qualifying young person is in residential accommodation referred to in regulation 9 of the Child Benefit (General) Regulations 2006 and in the circumstances prescribed in paragraphs (a) or (b) of that regulation, he shall be treated as being the responsibility of any person who was treated as being responsible for him immediately before he entered that accommodation.[^c-a77f40f53f0d4aa9f2169707675639ef]
 
 (2) Where—
 
@@ -163,123 +163,123 @@ and shall have effect for the tax year beginning on 6th April 2003 and subsequen
 
   the claimant shall also be treated as responsible for, and as having made a claim for child tax credit in respect of, the child of the child or qualifying young person (but without prejudice to the facts as to which of them is mainly responsible for that child).
 
-## 4. Period for which a person who attains the age of sixteen is a qualifying young person[^key-b389d7673f3b12a6c4f40c4e585361a5]
+## 4. Period for which a person who attains the age of sixteen is a qualifying young person[^c-b389d7673f3b12a6c4f40c4e585361a5]
 
-(1) Subject to paragraph (1A), a[^key-59f9b7800175578e472992ee44cb0052] person who attains the age of sixteen is a qualifying young person from the date on which that person attained that age until 31st August which next follows that date.
+(1) Subject to paragraph (1A), a[^c-59f9b7800175578e472992ee44cb0052] person who attains the age of sixteen is a qualifying young person from the date on which that person attained that age until 31st August which next follows that date.
 
-(1A)[^key-4080d66eccb1e412b4f4d616c403e10b] A person who attains the age of sixteen on 31st August is a qualifying young person from the date on which that person attained that age.
+(1A)[^c-4080d66eccb1e412b4f4d616c403e10b] A person who attains the age of sixteen on 31st August is a qualifying young person from the date on which that person attained that age.
 
 (2) Paragraph (1) is subject to regulation 5 but as if there were no requirement to satisfy the first condition specified in paragraph (3) of that regulation.
 
-(2A)[^key-0c9d93be44667959da9fff2fea0d8445] Paragraph (1A) is subject to regulation 5.
+(2A)[^c-0c9d93be44667959da9fff2fea0d8445] Paragraph (1A) is subject to regulation 5.
 
 ## 5. Maximum age and prescribed conditions for a qualifying young person
 
-(1) For the purposes of Part 1 a person ceases to be a qualifying young person (unless disqualified earlier under the following paragraphs) on the date on which he attains the age of twenty[^key-92979f034b1df837b86453be0e5f5f18].
+(1) For the purposes of Part 1 a person ceases to be a qualifying young person (unless disqualified earlier under the following paragraphs) on the date on which he attains the age of twenty[^c-92979f034b1df837b86453be0e5f5f18].
 
-(2) A person who is not a child, but has not attained the age of twenty[^key-82cba866414feffe5db8d536664b6236] years, is a qualifying young person for any period during which the following conditions are satisfied with regard to him (and once a person falls within the terms of paragraph (3)(b), he shall be treated as having satisfied the first condition from the[^key-4da680f6d37f255b3f80a0b350a335d4] relevant leaving date[^key-4872589e274bd6d66007bc6944ed415e] mentioned in that paragraph).
+(2) A person who is not a child, but has not attained the age of twenty[^c-82cba866414feffe5db8d536664b6236] years, is a qualifying young person for any period during which the following conditions are satisfied with regard to him (and once a person falls within the terms of paragraph (3)(b), he shall be treated as having satisfied the first condition from the[^c-4da680f6d37f255b3f80a0b350a335d4] relevant leaving date[^c-4872589e274bd6d66007bc6944ed415e] mentioned in that paragraph).
 
-(3) The first condition is that he is [^key-02e9a07443e2c52d88ca0c3eb997d5d2]...—
+(3) The first condition is that he is [^c-02e9a07443e2c52d88ca0c3eb997d5d2]...—
 
 - (a) receiving full-time education, not being—
   - (i) advanced education, or
-  - (ii) education received by that person by virtue of his employment or of any office held by him; [^key-a3abf0e50061d75d3b060f77677fea83]...
-- (ab)[^key-89a708842f0ad0d0acfe8b98d525f99a] undertaking approved training , is enrolled or has been accepted to undertake such training,[^key-f1a3d4714374f2a4435e298a0add6c80] which is not provided by means of a contract of employment[^key-40723e8b120c45779f913e8c155712ef]; or
+  - (ii) education received by that person by virtue of his employment or of any office held by him; [^c-a3abf0e50061d75d3b060f77677fea83]...
+- (ab)[^c-89a708842f0ad0d0acfe8b98d525f99a] undertaking approved training , is enrolled or has been accepted to undertake such training,[^c-f1a3d4714374f2a4435e298a0add6c80] which is not provided by means of a contract of employment[^c-40723e8b120c45779f913e8c155712ef]; or
 - (b) under the age of eighteen years and—
-  - (i)[^key-16b3b454bd98b5f0c2b308ca21ec5dc5] he ceased to receive full-time education or to undertake approved training (the date of that event being referred to as “the relevant leaving date”);[^key-fcdd4706d4653084c96c3ee89ff9ecc7]
-  - (ii) within 3 months of the relevant leaving date[^key-2769ad800a93b9c38feff64389cd9190], he has notified the Board (in the manner prescribed by regulation 22 of the Tax Credits (Claims and Notifications) Regulations 2002) that he is registered for work or training with a qualifying body[^key-00949cb74931df623cea09461393380a] , and
-  - (iii) not more than 20 weeks has elapsed since the relevant leaving date[^key-fe3c1a5f2f0b75b7f7f7f2eaf1a3171c].
+  - (i)[^c-16b3b454bd98b5f0c2b308ca21ec5dc5] he ceased to receive full-time education or to undertake approved training (the date of that event being referred to as “the relevant leaving date”);[^c-fcdd4706d4653084c96c3ee89ff9ecc7]
+  - (ii) within 3 months of the relevant leaving date[^c-2769ad800a93b9c38feff64389cd9190], he has notified the Board (in the manner prescribed by regulation 22 of the Tax Credits (Claims and Notifications) Regulations 2002) that he is registered for work or training with a qualifying body[^c-00949cb74931df623cea09461393380a] , and
+  - (iii) not more than 20 weeks has elapsed since the relevant leaving date[^c-fe3c1a5f2f0b75b7f7f7f2eaf1a3171c].
 
-(3A)[^key-39105cce0eb183fbc5b2d45711853d07] A person who has attained the age of nineteen years satisfies paragraph (3)(a) or (ab) only where the course of education or training began before he attained that age , or he enrolled or was accepted to undertake that course before he attained that age[^key-812a3e77f460645bf7794f6192d2195b].
+(3A)[^c-39105cce0eb183fbc5b2d45711853d07] A person who has attained the age of nineteen years satisfies paragraph (3)(a) or (ab) only where the course of education or training began before he attained that age , or he enrolled or was accepted to undertake that course before he attained that age[^c-812a3e77f460645bf7794f6192d2195b].
 
 (4) The second condition is that the period in question is not (and does not include)—
 
-- (a) a week in which he (having ceased to receive full-time education or approved training[^key-0b66229e01c9a41602ec38b5254b3407]) becomes engaged in remunerative work or[^key-4a0500ecebd7ca314cf20d6878186c33];
-- (b)[^key-aaf7e1ae5bbc1a1d8fb716e95cef85d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) a period in respect of which that person receives income support , income-related employment and support allowance payable under Part 1 of the Welfare Reform Act 2007 *(Extent: E+W+S)*[^key-995087a1575f15b76371f406b9a19656] ,[^key-ec74ab800987e156047666a0295b0b21] income-based jobseeker’s allowance within the meaning of section 1(4) of the Jobseekers Act 1995 [^c9612561] or universal credit under Part 1 of the Welfare Reform Act 2012[^key-19b8e883b1eca08df41993d5263d3c43].
+- (a) a week in which he (having ceased to receive full-time education or approved training[^c-0b66229e01c9a41602ec38b5254b3407]) becomes engaged in remunerative work or[^c-4a0500ecebd7ca314cf20d6878186c33];
+- (b)[^c-aaf7e1ae5bbc1a1d8fb716e95cef85d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a period in respect of which that person receives income support , income-related employment and support allowance payable under Part 1 of the Welfare Reform Act 2007 *(Extent: E+W+S)*[^c-995087a1575f15b76371f406b9a19656] ,[^c-ec74ab800987e156047666a0295b0b21] income-based jobseeker’s allowance within the meaning of section 1(4) of the Jobseekers Act 1995 [^c9612561] or universal credit under Part 1 of the Welfare Reform Act 2012[^c-19b8e883b1eca08df41993d5263d3c43].
 
-(5) For the purposes of paragraphs (3) and (4) a person shall be treated as being in full-time education if full-time education is received by that person by undertaking a course—[^key-7e979b642bbc46e188806b4c0ccc7c01]
+(5) For the purposes of paragraphs (3) and (4) a person shall be treated as being in full-time education if full-time education is received by that person by undertaking a course—[^c-7e979b642bbc46e188806b4c0ccc7c01]
 
 - (a) at a school or college, or
-- (b) where that person has been receiving that education prior to attaining the age of sixteen, elsewhere, if approved by the Board,or,[^key-ca4d62c20ae86a064ee0ec895811bf97]
+- (b) where that person has been receiving that education prior to attaining the age of sixteen, elsewhere, if approved by the Board,or,[^c-ca4d62c20ae86a064ee0ec895811bf97]
 - (c) where that person begins to receive that education after attaining the age of 16, elsewhere, if approved by the Board, provided that—
   - (i) that person has received a statement of special educational needs, and
   - (ii) that programme of education has been assessed by a local authority as being suitable for that person’s special needs,
 
-where in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds or exceeds on average 12 hours a week in normal term-time [^key-33a57416b574b29723a4d5b3e1e06ba4]... and shall include gaps between the ending of one course and the commencement of another, where the person enrols on and commences the latter course[^key-cc5345d4db73cbadcfc3cf0089742e9e].
+where in pursuit of that course, the time spent receiving instruction or tuition, undertaking supervised study, examination or practical work or taking part in any exercise, experiment or project for which provision is made in the curriculum of the course, exceeds or exceeds on average 12 hours a week in normal term-time [^c-33a57416b574b29723a4d5b3e1e06ba4]... and shall include gaps between the ending of one course and the commencement of another, where the person enrols on and commences the latter course[^c-cc5345d4db73cbadcfc3cf0089742e9e].
 
-(5A)[^key-64be9ec8b2f544bf0bd0ce057e19e178] If paragraph (5) does not apply, then for the purposes of paragraphs (3) and (4) a person shall be treated as being in full-time education if that person is being provided with “appropriate full-time education” in England within section 4 (appropriate full-time education or training) of the Education and Skills Act 2008.
+(5A)[^c-64be9ec8b2f544bf0bd0ce057e19e178] If paragraph (5) does not apply, then for the purposes of paragraphs (3) and (4) a person shall be treated as being in full-time education if that person is being provided with “appropriate full-time education” in England within section 4 (appropriate full-time education or training) of the Education and Skills Act 2008.
 
 (6) In calculating the time spent in pursuit of the course, no account shall be taken of time occupied by meal breaks or spent on unsupervised study.
 
-(7)[^key-6562a82b07a8f7b3b2e43ec927080414] In determining whether a person is undertaking a course of full-time education or approved training, there shall be disregarded any interruption—
+(7)[^c-6562a82b07a8f7b3b2e43ec927080414] In determining whether a person is undertaking a course of full-time education or approved training, there shall be disregarded any interruption—
 
 - (a) for a period of up to 6 months, whether beginning before or after the person concerned attains age 16, to the extent that it is reasonable in the opinion of the Board to do so; and
 - (b) for any period due to illness or disability of the mind or body of the person concerned provided that it is reasonable in the opinion of the Board to do so.
 
-(8)[^key-9c32841c93dc426ae3b9f8feaea11e4b] In this regulation “a statement of special educational needs” means a statement, plan or assessment made by a local authority, which identifies and assesses the special educational needs of a person and specifies the special educational provision required by that person.
+(8)[^c-9c32841c93dc426ae3b9f8feaea11e4b] In this regulation “a statement of special educational needs” means a statement, plan or assessment made by a local authority, which identifies and assesses the special educational needs of a person and specifies the special educational provision required by that person.
 
-## 6. Entitlement to child tax credit after death of child or qualifying young person[^key-0e1cd5561588981bc4e309586dd2a2d0]
+## 6. Entitlement to child tax credit after death of child or qualifying young person[^c-0e1cd5561588981bc4e309586dd2a2d0]
 
 If—
 
 - (a) a child or qualifying young person dies, and
 - (b) a person is (or would, if a claim had been made, have been) entitled to child tax credit in respect of the child or qualifying young person immediately before the death,
 
-that person shall be entitled to child tax credit in respect of the child or qualifying young person for the period of eight weeks immediately following the death or, in the case of a qualifying young person, until the date on which he or she would have attained the age of twenty[^key-c1a1a2259e0705f561e6e0ef5f8f3f4c], if earlier.
+that person shall be entitled to child tax credit in respect of the child or qualifying young person for the period of eight weeks immediately following the death or, in the case of a qualifying young person, until the date on which he or she would have attained the age of twenty[^c-c1a1a2259e0705f561e6e0ef5f8f3f4c], if earlier.
 
 ## 7. Determination of the maximum rate at which a person or persons may be entitled to child tax credit
 
-(1) In the following paragraphs and in regulations 9 to 12 and 14[^key-54753553875cbcdb43eeeab661a8284b]—
+(1) In the following paragraphs and in regulations 9 to 12 and 14[^c-54753553875cbcdb43eeeab661a8284b]—
 
 - (a) in the case of a single claim (but not a joint claim), the person making the claim is referred to as the “claimant”; and
-- (b) in the case of a joint claim, the members of the [^key-3194cf291fb3bf49d395d4b219997c34]... couple making the claim are referred to as the “joint claimants”.
+- (b) in the case of a joint claim, the members of the [^c-3194cf291fb3bf49d395d4b219997c34]... couple making the claim are referred to as the “joint claimants”.
 
 (2) The maximum rate at which a claimant or joint claimants may be entitled to child tax credit shall be the aggregate of—
 
-- (a) the family element of child tax credit if the claimant is, or either or both the joint claimants are, responsible for a child or qualifying young person who was born before 6[^key-0e936bd8af18122825dfd5450f59ef0b]<sup>th</sup>April 2017, and
+- (a) the family element of child tax credit if the claimant is, or either or both the joint claimants are, responsible for a child or qualifying young person who was born before 6[^c-0e936bd8af18122825dfd5450f59ef0b]<sup>th</sup>April 2017, and
 - (b) an individual element of child tax credit, in respect of each child or qualifying young person for whom—
   - (i) the claimant, or
   - (ii)[^M_C_0f6538a6-aadc-446b-9581-d1625f400b0b] either or both of the joint claimants,
 
-  as the case may be, is or are responsible, but subject to paragraph (2A); and[^key-10882d455c79a440f878705f2e34d64c]
-- (c)[^key-b3a3891aa810d40ffb6940f7c8990b3a] a disability element of child tax credit in the case of each child or qualifying young person who is disabled or severely disabled.
+  as the case may be, is or are responsible, but subject to paragraph (2A); and[^c-10882d455c79a440f878705f2e34d64c]
+- (c)[^c-b3a3891aa810d40ffb6940f7c8990b3a] a disability element of child tax credit in the case of each child or qualifying young person who is disabled or severely disabled.
 
-(2A)[^key-b0d40659b0dc1703ac6b5b8b08e63ad0] Where the claimant, or either or both of the joint claimants, is or are responsible for a child or qualifying young person born on or after 6th April 2017 (“A”), the maximum rate referred to in paragraph (2) shall not include an individual element of child tax credit in respect of A unless—
+(2A)[^c-b0d40659b0dc1703ac6b5b8b08e63ad0] Where the claimant, or either or both of the joint claimants, is or are responsible for a child or qualifying young person born on or after 6th April 2017 (“A”), the maximum rate referred to in paragraph (2) shall not include an individual element of child tax credit in respect of A unless—
 
 - (a) the claimant is, or the joint claimants are, claiming the individual element of child tax credit for no more than one other child or qualifying young person; or
 - (b) an exception applies in relation to A in accordance with regulation 9.
 
-(3)[^key-11553cca647dd580d54c990ea142fc22] The family element of child tax credit is £545.
+(3)[^c-11553cca647dd580d54c990ea142fc22] The family element of child tax credit is £545.
 
 (4) The individual element of child tax credit for any child or qualifying young person referred to in paragraph (2)(b) above—
 
-- (a)[^key-d8c6189926d3d325a07252e90f6872c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-2065201fea523bf849e4ba69fe76d4b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-953f8f294e25a288090b4f423a439125] in the case of a[^key-985c4c09cbba8b9d14e8a1179a5898ce] child, is £3,455[^key-a31be069c7bf8f0950386a67e3934bd8];
-- (d)[^key-00b1ae0970c7390e2d37047281e9935d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-0885a91d4e2f5becd28587223e4ab814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-fecfb5fb80225b36c660e807b78ccf76] in the case of a[^key-05efd133d1e24f3ce0614734a56c0ee9] qualifying young person, is £3,455[^key-d9acdd8cc8d27cfecb51ebee5d8ef82f].
+- (a)[^c-d8c6189926d3d325a07252e90f6872c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2065201fea523bf849e4ba69fe76d4b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-953f8f294e25a288090b4f423a439125] in the case of a[^c-985c4c09cbba8b9d14e8a1179a5898ce] child, is £3,455[^c-a31be069c7bf8f0950386a67e3934bd8];
+- (d)[^c-00b1ae0970c7390e2d37047281e9935d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-0885a91d4e2f5becd28587223e4ab814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-fecfb5fb80225b36c660e807b78ccf76] in the case of a[^c-05efd133d1e24f3ce0614734a56c0ee9] qualifying young person, is £3,455[^c-d9acdd8cc8d27cfecb51ebee5d8ef82f].
 
-(5)[^key-e5a3f78bbc2e2e76e75d73961b53bd3a] The disability element of child tax credit—
+(5)[^c-e5a3f78bbc2e2e76e75d73961b53bd3a] The disability element of child tax credit—
 
-- (a) where the child or qualifying young person is disabled, is £4,170[^key-01f8397d46badb93f5ab58ccc23b3d86];
-- (b) where the child or qualifying young person is severely disabled, is £5,850[^key-4fef66fcc89189431b221c624ea8453f].
+- (a) where the child or qualifying young person is disabled, is £4,170[^c-01f8397d46badb93f5ab58ccc23b3d86];
+- (b) where the child or qualifying young person is severely disabled, is £5,850[^c-4fef66fcc89189431b221c624ea8453f].
 
 ## 8. Prescribed conditions for a disabled or severely disabled child or qualifying young person
 
 (1) For the purposes of section 9 of the Act a child or qualifying young person—
 
 - (a) is disabled if he satisfies the requirements of paragraph (2); and
-- (b) is severely disabled if he satisfies the requirements of paragraph (3), (4), (5) or (6)[^key-8787f2f8c67dfa255bd5e5fbcc3346e1].
+- (b) is severely disabled if he satisfies the requirements of paragraph (3), (4), (5) or (6)[^c-8787f2f8c67dfa255bd5e5fbcc3346e1].
 
 (2) A person satisfies the requirements of this paragraph if—
 
 - (a) disability living allowance is payable in respect of him, or has ceased to be so payable solely because he is a patient; or
-- (b)[^key-fad38d5c48592885ba38c7be33f17e42] he is certified as severely sight impaired or blind by a consultant ophthalmologist;
-- (c) he ceased to be so [^key-9a4bfa542b836eb91bc4303bd0de293d]... certified as severely sight impaired or[^key-2ba2e7174934e0d2a0d087962670135c] blind within the 28 weeks immediately preceding the date of claim ; or[^key-511b17cd5271b5abaf78837891b018bc]
-- (d) personal independence payment is payable in respect of that person, or would be so payable but for regulations made under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012 , or[^key-74696a643e5f0e65fd4add2d7317f981]
-- (e)[^key-ac235b9c544a43c8cf7cce1c549c9091] a payment of disability assistance is payable by the Scottish Ministers under section 31 of the Social Security (Scotland) Act 2018 , or would be so payable but for a reduction because that person is undergoing medical or other treatment as an in-patient at a hospital or similar institution[^key-af7b9482b5b11dd09b37d8c55356fcdf].
+- (b)[^c-fad38d5c48592885ba38c7be33f17e42] he is certified as severely sight impaired or blind by a consultant ophthalmologist;
+- (c) he ceased to be so [^c-9a4bfa542b836eb91bc4303bd0de293d]... certified as severely sight impaired or[^c-2ba2e7174934e0d2a0d087962670135c] blind within the 28 weeks immediately preceding the date of claim ; or[^c-511b17cd5271b5abaf78837891b018bc]
+- (d) personal independence payment is payable in respect of that person, or would be so payable but for regulations made under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012 , or[^c-74696a643e5f0e65fd4add2d7317f981]
+- (e)[^c-ac235b9c544a43c8cf7cce1c549c9091] a payment of disability assistance is payable by the Scottish Ministers under section 31 of the Social Security (Scotland) Act 2018 , or would be so payable but for a reduction because that person is undergoing medical or other treatment as an in-patient at a hospital or similar institution[^c-af7b9482b5b11dd09b37d8c55356fcdf].
 
 (3) A person satisfies the requirements of this paragraph if the care component of disability living allowance—
 
@@ -288,49 +288,49 @@ that person shall be entitled to child tax credit in respect of the child or qua
 
 at the highest rate prescribed under section 72(3) of that Act.
 
-(4)[^key-4196a31b91a771adc607bc8b67f47871] A person satisfies the requirements of this paragraph if the daily living component of personal independence payment—
+(4)[^c-4196a31b91a771adc607bc8b67f47871] A person satisfies the requirements of this paragraph if the daily living component of personal independence payment—
 
 - (a) is payable in respect of that person, or
 - (b) would be so payable but for regulations made under section 86(1) (hospital in-patients) of the Welfare Reform Act 2012,
 
 at the enhanced rate under section 78(2) of that Act.
 
-(5)[^key-ecb271f80842bc0c6e7b483adf4cf184] A person satisfies the requirements of this paragraph if an armed forces independence payment is payable in respect of him.
+(5)[^c-ecb271f80842bc0c6e7b483adf4cf184] A person satisfies the requirements of this paragraph if an armed forces independence payment is payable in respect of him.
 
-(6)[^key-9a76bec28f23dfda2e7f21bf958fecc1] A person satisfies the requirements of this paragraph if the care component of[^key-d6b53dc2c5927d69007e36063f1fc883] disability assistance under section 31 of the Social Security (Scotland) Act 2018 is payable at the higher rate in respect of that person , or would be so payable but for a reduction because that person is undergoing medical or other treatment as an in-patient at a hospital or similar institution[^key-6aada0d512e2af1c512f1eca9fd84374].
+(6)[^c-9a76bec28f23dfda2e7f21bf958fecc1] A person satisfies the requirements of this paragraph if the care component of[^c-d6b53dc2c5927d69007e36063f1fc883] disability assistance under section 31 of the Social Security (Scotland) Act 2018 is payable at the higher rate in respect of that person , or would be so payable but for a reduction because that person is undergoing medical or other treatment as an in-patient at a hospital or similar institution[^c-6aada0d512e2af1c512f1eca9fd84374].
 
 (7) In this regulation “Scottish Ministers” has the meaning given by section 44(2) of the Scotland Act 1998.
 
-## Individual element: exceptions to the restriction on numbers[^key-494786f222c060c6ff045dc894a3bedb]
+## Individual element: exceptions to the restriction on numbers[^c-494786f222c060c6ff045dc894a3bedb]
 
-### 9. Exceptions for the purposes of regulation 7(2A)(b)[^key-02db77c6e1bf25978daa48e53862b739]
+### 9. Exceptions for the purposes of regulation 7(2A)(b)[^c-02db77c6e1bf25978daa48e53862b739]
 
-(1)[^key-54640ea860a5149a32ac93c6384cb56a] For the purposes of regulation 7(2A)(b), an exception applies in relation to A if—
+(1)[^c-54640ea860a5149a32ac93c6384cb56a] For the purposes of regulation 7(2A)(b), an exception applies in relation to A if—
 
 - (a) A is (in accordance with paragraphs (5) and (6)) the third or subsequent child or qualifying young person for whom the claimant, or either or both of the joint claimants, is or are responsible and either—
   - (i) any of regulations 10 to 14 applies in relation to A; or
   - (ii) all, or all but one, of the other children or qualifying young persons (“AA”) for whom the claimant, or either or both of the joint claimants, is or are responsible are adopted within the meaning given by regulation 11 or cared for under a non-parental caring arrangement within the meaning given by regulation 12 (reading references to “A” in those regulations as if they were references to “AA”); or
 - (b) A is (in accordance with paragraphs (5) and (6)) the first or second child or qualifying young person for whom the claimant, or either or both of the joint claimants, is or are responsible.
 
-(2)[^key-40fd3afd5470450fc5a5a1296b50cd5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40fd3afd5470450fc5a5a1296b50cd5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where an exception applies in relation to A by virtue of paragraph (1), an exception applies also in relation to any other child or qualifying young person who was born on or after 6th April 2017 and for whom the claimant, or either or both of the joint claimants, is or are responsible, if—
 
 - (a) regulation 7(2A) would (apart from this paragraph) prevent the inclusion of an individual element of child tax credit in respect of that other child or qualifying young person, but would not do so if A were disregarded; and
 - (b) the claimant, or either or both of the joint claimants, was or were already responsible for that other child or qualifying young person before the date on which the claimant, or either or both of the joint claimants, became responsible for A.
 
-(4)[^key-db833e0a85d3cda6d36a02d25f6ee96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-db833e0a85d3cda6d36a02d25f6ee96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) For the purposes of this regulation[^key-445b554e307f54466f821958a8dffcb5], whether A is the first, second, third or subsequent child or qualifying young person is determined by treating children and qualifying persons as forming a single class and, subject to paragraph (6), the order of the members within that class is determined by the following date in relation to each member, taking the earliest date first:—
+(5) For the purposes of this regulation[^c-445b554e307f54466f821958a8dffcb5], whether A is the first, second, third or subsequent child or qualifying young person is determined by treating children and qualifying persons as forming a single class and, subject to paragraph (6), the order of the members within that class is determined by the following date in relation to each member, taking the earliest date first:—
 
 - (a) where the claimant, or at least one of the joint claimants, is the member’s parent or step-parent (in either case, other than by adoption), the member’s date of birth; or
 - (b) in any other case, the date on which the claimant, or either or both of the joint claimants, became responsible for the member.
 
-(6)[^key-ac515ed68156cf4cd41f49585e89ede2] In a case where the date determined under paragraph (5) is the same in respect of two or more members, their order (as between themselves only) is to be such as the Board determines to be appropriate to ensure that the individual element of child tax credit is included in respect of the greatest number of members.
+(6)[^c-ac515ed68156cf4cd41f49585e89ede2] In a case where the date determined under paragraph (5) is the same in respect of two or more members, their order (as between themselves only) is to be such as the Board determines to be appropriate to ensure that the individual element of child tax credit is included in respect of the greatest number of members.
 
 (7) Where joint claimants became responsible for a child or qualifying young person on different dates, any reference in this regulation to the date on which either or both of the joint claimants became responsible for that child or qualifying young person is a reference to the earliest of those dates.
 
-(8)[^key-8d1412af6f5ecad8f30893eee3b99b3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8d1412af6f5ecad8f30893eee3b99b3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Multiple births
 
@@ -338,10 +338,10 @@ This regulation applies in relation to A if—
 
 - (a) the claimant, or at least one of the joint claimants, is a parent (other than an adoptive parent) of A;
 - (b) A was one of two or more children born as a result of the same pregnancy;
-- (c)[^key-b1123a8696c0e15f745a8f04e371772c] the claimant, or either or both of the joint claimants, is or are responsible for at least two of the children or qualifying young persons born as a result of that pregnancy; and
+- (c)[^c-b1123a8696c0e15f745a8f04e371772c] the claimant, or either or both of the joint claimants, is or are responsible for at least two of the children or qualifying young persons born as a result of that pregnancy; and
 - (d) A is not the first in the order of those children or qualifying young persons as determined in accordance with regulation 9.
 
-### 11. Adoption[^key-074402a343e94477dffeeebd6843fe6e]
+### 11. Adoption[^c-074402a343e94477dffeeebd6843fe6e]
 
 (1) This regulation applies in relation to A if A has been—
 
@@ -388,11 +388,11 @@ This regulation applies in relation to A if—
 - (c) is a special guardian of A appointed under section 14A of the Children Act 1989;
 - (d) is entitled to a guardian’s allowance under section 77 of the Contributions and Benefits Act or section 77 of the Contributions and Benefits (Northern Ireland) Act 1992 in respect of A;
 - (e) is a person in whose favour a kinship care order, as defined in section 72(1) of the Children and Young People (Scotland) Act 2014, subsists in relation to A;
-- (f) is a person in whom one or more of the parental responsibilities or parental rights described in section 1 or 2 of the Children (Scotland) Act 1995[^key-0148e63a6aca25c27035a3b506e041f9] are vested by a permanence order made in respect of A under section 80 of the Adoption and Children (Scotland) Act 2007;
+- (f) is a person in whom one or more of the parental responsibilities or parental rights described in section 1 or 2 of the Children (Scotland) Act 1995[^c-0148e63a6aca25c27035a3b506e041f9] are vested by a permanence order made in respect of A under section 80 of the Adoption and Children (Scotland) Act 2007;
 - (g) fell within any of paragraphs (a) to (f) immediately prior to A’s 16th birthday and has since continued to be responsible for A; or
 - (h) has undertaken the care of A in circumstances in which it is likely that A would otherwise be looked after by a local authority.
 
-### 13. Non-consensual conception[^key-e2844b1421aae68a790e57dd6053ad92]
+### 13. Non-consensual conception[^c-e2844b1421aae68a790e57dd6053ad92]
 
 (1) This regulation applies in relation to A if—
 
@@ -489,13 +489,13 @@ Application to single and joint claims
 (2) This paragraph applies if—
 
 - (a) C has previously been entitled to child tax credit jointly with a parent of A;
-- (b) immediately before that joint entitlement ceased, an exception applied under regulation 9(1) [^key-07e286bc318c3e9968686f4b2d6c9320]... in relation to A;
+- (b) immediately before that joint entitlement ceased, an exception applied under regulation 9(1) [^c-07e286bc318c3e9968686f4b2d6c9320]... in relation to A;
 - (c) since that joint entitlement ceased, C has continuously been entitled to child tax credit (whether or not jointly with another person); and
-- (d) where the criterion in sub-paragraph (b) is met by virtue of [^key-0e74c1563b88e0340063d913e20cdf5f]... regulation 10, the condition in paragraph (3) is met.
+- (d) where the criterion in sub-paragraph (b) is met by virtue of [^c-0e74c1563b88e0340063d913e20cdf5f]... regulation 10, the condition in paragraph (3) is met.
 
 (3) The condition in this paragraph is that—
 
-- (a)[^key-a83281d3e78c611413dfe7f3c7f02984] the claimant, or either or both of the joint claimants, is or are responsible for one or more other children or qualifying young persons born as a result of the same pregnancy as A; and
+- (a)[^c-a83281d3e78c611413dfe7f3c7f02984] the claimant, or either or both of the joint claimants, is or are responsible for one or more other children or qualifying young persons born as a result of the same pregnancy as A; and
 - (b) A is not the first in the order of those children as determined in accordance with regulation 9.
 
 Where a corresponding exception previously applied for the purposes of another benefit
@@ -505,9 +505,9 @@ Where a corresponding exception previously applied for the purposes of another b
 - (a) within the 6 months immediately preceding the day on which a relevant CTC entitlement began—
   - (i) C was entitled to an award of universal credit as a member of a couple jointly with a parent of A; or
   - (ii) C and a parent of A were a couple and either of them was entitled to an award of income support or old style JSA;
-- (b) immediately before the entitlement mentioned in sub-paragraph (a)(i) or (ii) ceased, the amount of that entitlement included an amount in respect of A by virtue of any exception corresponding, for the purposes of that entitlement, to an exception under regulation 9(1) [^key-385bffc49ee29ba93a8e268d7d2148d3]... in relation to A;
+- (b) immediately before the entitlement mentioned in sub-paragraph (a)(i) or (ii) ceased, the amount of that entitlement included an amount in respect of A by virtue of any exception corresponding, for the purposes of that entitlement, to an exception under regulation 9(1) [^c-385bffc49ee29ba93a8e268d7d2148d3]... in relation to A;
 - (c) C has continuously been entitled to child tax credit (whether or not jointly with another person) since the relevant CTC entitlement mentioned in sub-paragraph (a); and
-- (d) where the criterion in sub-paragraph (b) is met by virtue of [^key-0a39771a8610be05d3ac43a23303815b]... regulation 10, the condition in paragraph (3) is met.
+- (d) where the criterion in sub-paragraph (b) is met by virtue of [^c-0a39771a8610be05d3ac43a23303815b]... regulation 10, the condition in paragraph (3) is met.
 
 (5) This paragraph applies if—
 
@@ -516,7 +516,7 @@ Where a corresponding exception previously applied for the purposes of another b
   - (ii) C was entitled to an award of income support or old style JSA (whether or not C was in a couple with another person);
 - (b) immediately before the entitlement mentioned in sub-paragraph (a)(i) or (ii) ceased, the amount of that entitlement included an amount in respect of A by virtue of any exception corresponding, for the purposes of that entitlement, to the exception that, under regulation 9(1), applies where this regulation applies;
 - (c) C has continuously been entitled to child tax credit (whether or not jointly with another person) since the relevant CTC entitlement mentioned in sub-paragraph (a); and
-- (d) where the criterion in sub-paragraph (b) is met by virtue of regulation 10[^key-57732542ca031a15f910f52080c4860f], the condition in paragraph (3) is met.
+- (d) where the criterion in sub-paragraph (b) is met by virtue of regulation 10[^c-57732542ca031a15f910f52080c4860f], the condition in paragraph (3) is met.
 
 Interpretation
 
@@ -565,324 +565,324 @@ A regulatory impact assessment in respect of the Act has been prepared and place
 
 [^c9612301]: Marginal citation: Section 67 is cited because of the meaning ascribed to “prescribed”.
 
-[^key-fc9d0a35c6a17636756669ad2db1f41e]: Modification: Regulations modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 22–25](https://www.legislation.gov.uk/uksi/2003/742/regulation/22) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2)); (as amended (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/387/regulation/8), [9](https://www.legislation.gov.uk/uksi/2017/387/regulation/9))
+[^c-fc9d0a35c6a17636756669ad2db1f41e]: Modification: Regulations modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 22–25](https://www.legislation.gov.uk/uksi/2003/742/regulation/22) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2)); (as amended (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/387/regulation/8), [9](https://www.legislation.gov.uk/uksi/2017/387/regulation/9))
 
-[^key-891ac19fd0666c110a250240780a2396]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/a)
+[^c-891ac19fd0666c110a250240780a2396]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/a)
 
-[^key-1a0489299dca8c4efaddbac9734a6cfe]: Textual amendment: Words in reg. 2(1) omitted (4.6.2014) by virtue of [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/3/2/a)
+[^c-1a0489299dca8c4efaddbac9734a6cfe]: Textual amendment: Words in reg. 2(1) omitted (4.6.2014) by virtue of [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/3/2/a)
 
-[^key-7520ddab55d3322d146255b1fd3ef032]: Textual amendment: Words in reg. 2(1) omitted (26.11.2003) by virtue of [The Tax Credits (Miscellaneous Amendments No.2) Regulations 2003 (S.I. 2003/2815)](https://www.legislation.gov.uk/uksi/2003/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2815/regulation/1), [17(2)(i)](https://www.legislation.gov.uk/uksi/2003/2815/regulation/17/2/i)
+[^c-7520ddab55d3322d146255b1fd3ef032]: Textual amendment: Words in reg. 2(1) omitted (26.11.2003) by virtue of [The Tax Credits (Miscellaneous Amendments No.2) Regulations 2003 (S.I. 2003/2815)](https://www.legislation.gov.uk/uksi/2003/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2815/regulation/1), [17(2)(i)](https://www.legislation.gov.uk/uksi/2003/2815/regulation/17/2/i)
 
-[^key-105250309d1bd4fc313312dd7a53c5e3]: Textual amendment: Words in reg. 2(1) substituted (26.11.2003) by [The Tax Credits (Miscellaneous Amendments No.2) Regulations 2003 (S.I. 2003/2815)](https://www.legislation.gov.uk/uksi/2003/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2815/regulation/1), [17(2)(ii)](https://www.legislation.gov.uk/uksi/2003/2815/regulation/17/2/ii)
+[^c-105250309d1bd4fc313312dd7a53c5e3]: Textual amendment: Words in reg. 2(1) substituted (26.11.2003) by [The Tax Credits (Miscellaneous Amendments No.2) Regulations 2003 (S.I. 2003/2815)](https://www.legislation.gov.uk/uksi/2003/2815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2815/regulation/1), [17(2)(ii)](https://www.legislation.gov.uk/uksi/2003/2815/regulation/17/2/ii)
 
-[^key-83fda538947facd857a94893f38f4416]: Textual amendment: Words in reg. 2 inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/2)
+[^c-83fda538947facd857a94893f38f4416]: Textual amendment: Words in reg. 2 inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/2)
 
-[^key-d04dbbc77ec4fb503d646b95bb030841]: Textual amendment: Words in reg. 2(1) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 26(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/26/2)
+[^c-d04dbbc77ec4fb503d646b95bb030841]: Textual amendment: Words in reg. 2(1) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 26(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/26/2)
 
-[^key-d9966230cb5e4333cd730179bf2715db]: Textual amendment: Words in reg. 2 added (6.4.2003) by [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2003/738/regulation/3/a)
+[^c-d9966230cb5e4333cd730179bf2715db]: Textual amendment: Words in reg. 2 added (6.4.2003) by [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2003/738/regulation/3/a)
 
-[^key-fbe5fb540f633e69e07504d973243277]: Textual amendment: Words in reg. 2 substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/3)
+[^c-fbe5fb540f633e69e07504d973243277]: Textual amendment: Words in reg. 2 substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/3)
 
 [^c9612311]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50).
 
-[^key-f7a8719a788e602297c0d9c9c44a617b]: Textual amendment: Words in reg. 2(1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/46)
+[^c-f7a8719a788e602297c0d9c9c44a617b]: Textual amendment: Words in reg. 2(1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/46)
 
-[^key-886fd16524115a45943a82f9b32cb976]: Textual amendment: Words in reg. 2 omitted (6.4.2003) by virtue of [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2003/738/regulation/3/b)
+[^c-886fd16524115a45943a82f9b32cb976]: Textual amendment: Words in reg. 2 omitted (6.4.2003) by virtue of [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2003/738/regulation/3/b)
 
-[^key-d256bc3b6398a024c3d29072203f3208]: Textual amendment: Words in reg. 2(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/7/2)
+[^c-d256bc3b6398a024c3d29072203f3208]: Textual amendment: Words in reg. 2(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/7/2)
 
-[^key-5a3967833d9344513146f7b2ea7c57d5]: Textual amendment: Words in reg. 2(1) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/b)
+[^c-5a3967833d9344513146f7b2ea7c57d5]: Textual amendment: Words in reg. 2(1) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/b)
 
 [^c9612321]: Marginal citation: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21).
 
 [^c9612331]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-7d4269566ce65c3595a2901c29844cd2]: Textual amendment: Words in reg. 2(1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/2)
+[^c-7d4269566ce65c3595a2901c29844cd2]: Textual amendment: Words in reg. 2(1) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/2)
 
 [^c9612341]: Marginal citation: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-33cd9e29e4ef6d989b1234821972c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/2/1) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 331](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/331) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-33cd9e29e4ef6d989b1234821972c0c9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/2/1) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 331](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/331) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c9612351]: Marginal citation: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
 [^c9612361]: Marginal citation: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504).
 
-[^key-7a861aa36d33a4fda0deda35fd33d0e0]: Textual amendment: Words in reg. 2(1) omitted (4.6.2014) by virtue of [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/3/2/b)
+[^c-7a861aa36d33a4fda0deda35fd33d0e0]: Textual amendment: Words in reg. 2(1) omitted (4.6.2014) by virtue of [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/3/2/b)
 
-[^key-d303edb2f369d0c17758354c6198c218]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/c)
+[^c-d303edb2f369d0c17758354c6198c218]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/c)
 
 [^c9612371]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-eee52f665f3ee5c71b7d0901dc0dfeff]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/2)
+[^c-eee52f665f3ee5c71b7d0901dc0dfeff]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/2)
 
 [^c9612381]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
 [^c9612391]: Marginal citation: [S.I. 1995/7559 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/7559).
 
-[^key-007c6d14588e45d39abe39d083555aa7]: Textual amendment: Words in reg. 2(1) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/19/2)
+[^c-007c6d14588e45d39abe39d083555aa7]: Textual amendment: Words in reg. 2(1) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/19/2)
 
-[^key-ba8cbae72a52daba304a77ee790eac2c]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/d)
+[^c-ba8cbae72a52daba304a77ee790eac2c]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/d)
 
 [^c9612401]: Marginal citation: [S.I. 1975/555](https://www.legislation.gov.uk/uksi/1975/555).
 
 [^c9612411]: Marginal citation: S.R. [1975 No. 109](https://www.legislation.gov.uk/ukcm/1975/109).
 
-[^key-ad249d1dda9267ae44e93a5e8700a8cd]: Textual amendment: Words in reg. 2(1) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/30/2)
+[^c-ad249d1dda9267ae44e93a5e8700a8cd]: Textual amendment: Words in reg. 2(1) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 30(2)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/30/2)
 
-[^key-0580199dfdd7969a33ff158179d2392e]: Textual amendment: Words in reg. 2(1) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/2)
+[^c-0580199dfdd7969a33ff158179d2392e]: Textual amendment: Words in reg. 2(1) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/2)
 
 [^c9612441]: Marginal citation: S.R. [1989 No. 253](https://www.legislation.gov.uk/ukcm/1989/253).
 
-[^key-182bbf7d667c65bd4dbf25551952eb1a]: Textual amendment: Words in reg. 2(1) inserted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/7/4)
+[^c-182bbf7d667c65bd4dbf25551952eb1a]: Textual amendment: Words in reg. 2(1) inserted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/7/4)
 
-[^key-9bc2484907e81addf7625fbbc7b182f1]: Textual amendment: Words in reg. 2(1) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/2)
+[^c-9bc2484907e81addf7625fbbc7b182f1]: Textual amendment: Words in reg. 2(1) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/2)
 
-[^key-4ae82d13f1f4f33d624a401741b13049]: Textual amendment: Words in reg. 2(1) added (31.12.2010) by [The Tax Credits (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/2914)](https://www.legislation.gov.uk/uksi/2010/2914), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2914/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2010/2914/regulation/9)
+[^c-4ae82d13f1f4f33d624a401741b13049]: Textual amendment: Words in reg. 2(1) added (31.12.2010) by [The Tax Credits (Miscellaneous Amendments) (No. 3) Regulations 2010 (S.I. 2010/2914)](https://www.legislation.gov.uk/uksi/2010/2914), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2914/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2010/2914/regulation/9)
 
-[^key-10674d5b06aee90d6dae8dbf5745cc16]: Textual amendment: Word in reg. 2 substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/4)
+[^c-10674d5b06aee90d6dae8dbf5745cc16]: Textual amendment: Word in reg. 2 substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/4)
 
-[^key-fb9a3e5e9ddda7fd0b5b09e24f547f22]: Textual amendment: Words in reg. 2(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/7/5)
+[^c-fb9a3e5e9ddda7fd0b5b09e24f547f22]: Textual amendment: Words in reg. 2(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/7/5)
 
-[^key-9ca99fb4f58661c8d4ea33076e05d6f7]: Textual amendment: Words in reg. 2 omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/5)
+[^c-9ca99fb4f58661c8d4ea33076e05d6f7]: Textual amendment: Words in reg. 2 omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2006/222/regulation/3/5)
 
 [^c9612501]: Marginal citation: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-3a2a4168373460e52fafc857bc79998e]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/e)
+[^c-3a2a4168373460e52fafc857bc79998e]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2017/387/regulation/3/e)
 
-[^key-f7e96df2be7c9a1e05dbe2d285cbca9a]: Modification: Reg. 3 applied (for specified purposes and with effect in accordance with reg. 1 of the amending S.I., in force in so far as not already in force and with effect in accordance with reg. 1 of the amending S.I.) by [The Tax Credits (Definition and Calculation of Income) Regulations 2002 (S.I. 2002/2006)](https://www.legislation.gov.uk/uksi/2002/2006), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2006/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/2006/regulation/2/3)
+[^c-f7e96df2be7c9a1e05dbe2d285cbca9a]: Modification: Reg. 3 applied (for specified purposes and with effect in accordance with reg. 1 of the amending S.I., in force in so far as not already in force and with effect in accordance with reg. 1 of the amending S.I.) by [The Tax Credits (Definition and Calculation of Income) Regulations 2002 (S.I. 2002/2006)](https://www.legislation.gov.uk/uksi/2002/2006), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2006/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/2006/regulation/2/3)
 
-[^key-107ad46cb7af75136a2d121c87363b71]: Modification: Reg. 3 definition applied (22.8.2003) by [The Tax Credits Act 2002 (Child Tax Credit) (Transitional Provisions) Order 2003 (S.I. 2003/2170)](https://www.legislation.gov.uk/uksi/2003/2170), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2170/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2003/2170/article/2/1/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2003/2170/article/2))
+[^c-107ad46cb7af75136a2d121c87363b71]: Modification: Reg. 3 definition applied (22.8.2003) by [The Tax Credits Act 2002 (Child Tax Credit) (Transitional Provisions) Order 2003 (S.I. 2003/2170)](https://www.legislation.gov.uk/uksi/2003/2170), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2170/article/1), [2(1)(c)](https://www.legislation.gov.uk/uksi/2003/2170/article/2/1/c) (with [art. 2](https://www.legislation.gov.uk/uksi/2003/2170/article/2))
 
 [^M_C_c5cb5b88-4df8-42a5-d8b6-331ea8c27eb4]: Modification: Reg. 3(1) modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2003/742/regulation/24) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2))
 
-[^key-0a3d0522b0103ae6642920f57174e7dc]: Textual amendment: Words in reg. 3(1) rule 2 para. 2.1(a)(ii) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/3)
+[^c-0a3d0522b0103ae6642920f57174e7dc]: Textual amendment: Words in reg. 3(1) rule 2 para. 2.1(a)(ii) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/3)
 
-[^key-a367cd8c6f74a7cbdc299e11ac83ba72]: Textual amendment: Words in reg. 3(1) rule 2 para. 2.1(b) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/3)
+[^c-a367cd8c6f74a7cbdc299e11ac83ba72]: Textual amendment: Words in reg. 3(1) rule 2 para. 2.1(b) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/3)
 
 [^c9612511]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-d24d579cb0c80a556138b43eff3a867c]: Textual amendment: Words in reg. 3(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/a/i)
+[^c-d24d579cb0c80a556138b43eff3a867c]: Textual amendment: Words in reg. 3(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(a)(i)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/a/i)
 
 [^c9612521]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36).
 
-[^key-cae7e35e3058e4644871e5d2f78f6692]: Textual amendment: Words in reg. 3(1) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/19/3)
+[^c-cae7e35e3058e4644871e5d2f78f6692]: Textual amendment: Words in reg. 3(1) inserted (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/uksi/2013/1465/schedule/1/paragraph/19/3)
 
 [^c9612531]: Marginal citation: [S.I. 1995/7559 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/7559).
 
-[^key-699cc96d98c92198d868b025bbc466fb]: Textual amendment: Words in reg. 3 inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/3/a)
+[^c-699cc96d98c92198d868b025bbc466fb]: Textual amendment: Words in reg. 3 inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/3/a)
 
-[^key-5e53459dc19d25b0f6aee9dd26bc0a5e]: Textual amendment: Words in reg. 3(1) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/a/ii)
+[^c-5e53459dc19d25b0f6aee9dd26bc0a5e]: Textual amendment: Words in reg. 3(1) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/a/ii)
 
-[^key-f8479680bfd0f5de7ad41404bf5295c5]: Textual amendment: Words in reg. 3(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/a/iii)
+[^c-f8479680bfd0f5de7ad41404bf5295c5]: Textual amendment: Words in reg. 3(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/a/iii)
 
-[^key-a5db59b095489b90d55fde8e7476757d]: Textual amendment: Words in reg. 3(1) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 29(3)(a)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/29/3/a)
+[^c-a5db59b095489b90d55fde8e7476757d]: Textual amendment: Words in reg. 3(1) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 29(3)(a)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/29/3/a)
 
-[^key-f80291fc39acf16d3e5ca8ad4433e387]: Textual amendment: Words in reg. 3(1) omitted (16.8.2007) by virtue of [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/3/a)
+[^c-f80291fc39acf16d3e5ca8ad4433e387]: Textual amendment: Words in reg. 3(1) omitted (16.8.2007) by virtue of [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/3/a)
 
 [^c9612541]: Marginal citation: [S.I. 1976/965](https://www.legislation.gov.uk/uksi/1976/965): regulation 3 was substituted by regulation 3 of [S.I. 2000/2891](https://www.legislation.gov.uk/uksi/2000/2891).
 
 [^c9612551]: Marginal citation: S.R. [1979 No. 5](https://www.legislation.gov.uk/ukcm/1979/5).
 
-[^key-4310ac8733165d342d67c243da672d27]: Textual amendment: Words in reg. 3 inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/3/b)
+[^c-4310ac8733165d342d67c243da672d27]: Textual amendment: Words in reg. 3 inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/3/b)
 
 [^M_F_efa100e7-d2bb-44dc-9de3-2851c7efe0ec]: Textual amendment: Words in reg. 3(1) omitted (6.4.2016) by virtue of [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/b/i)
 
 [^M_F_6212d2f5-f83e-445a-a7f3-b0cc2691b46e]: Textual amendment: Words in reg. 3(1) inserted (6.4.2016) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/360)](https://www.legislation.gov.uk/uksi/2016/360), [regs. 1](https://www.legislation.gov.uk/uksi/2016/360/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/360/regulation/4/3/b/ii)
 
-[^key-215396d71bd22453691418eaffcaa8f3]: Textual amendment: Words in reg. 3(1) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 29(3)(b)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/29/3/b)
+[^c-215396d71bd22453691418eaffcaa8f3]: Textual amendment: Words in reg. 3(1) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 29(3)(b)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/29/3/b)
 
-[^key-9318e4bd017fb2009a0ba48ca677cef2]: Textual amendment: Words in reg. 3(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(a)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/a)
+[^c-9318e4bd017fb2009a0ba48ca677cef2]: Textual amendment: Words in reg. 3(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(a)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/a)
 
-[^key-a2996cb7158e46727077dc8989104876]: Textual amendment: Words in reg. 3(1) inserted (6.4.2004) by [The Tax Credits (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/762)](https://www.legislation.gov.uk/uksi/2004/762), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/762/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/762/regulation/2/2)
+[^c-a2996cb7158e46727077dc8989104876]: Textual amendment: Words in reg. 3(1) inserted (6.4.2004) by [The Tax Credits (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/762)](https://www.legislation.gov.uk/uksi/2004/762), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/762/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/762/regulation/2/2)
 
-[^key-cd0314b7a4c59a788f50019451d86cb6]: Textual amendment: Words in reg. 3(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/b)
+[^c-cd0314b7a4c59a788f50019451d86cb6]: Textual amendment: Words in reg. 3(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/b)
 
-[^key-dc6d755ed7e96fc553ec46b38f8e98db]: Textual amendment: Words in reg. 3(1) inserted (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/22/2)
+[^c-dc6d755ed7e96fc553ec46b38f8e98db]: Textual amendment: Words in reg. 3(1) inserted (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/22/2)
 
-[^key-f20cc18c468532ea9818332bfbc183c1]: Textual amendment: Words in reg. 3(1) inserted (24.5.2006) by [The Child Tax Credit (Amendment No. 2) Regulations 2006 (S.I. 2006/1163)](https://www.legislation.gov.uk/uksi/2006/1163), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1163/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1163/regulation/2/2)
+[^c-f20cc18c468532ea9818332bfbc183c1]: Textual amendment: Words in reg. 3(1) inserted (24.5.2006) by [The Child Tax Credit (Amendment No. 2) Regulations 2006 (S.I. 2006/1163)](https://www.legislation.gov.uk/uksi/2006/1163), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1163/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/1163/regulation/2/2)
 
-[^key-f93b397522fa0e104dd7d44c0b5d6588]: Textual amendment: Words in reg. 3(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/c)
+[^c-f93b397522fa0e104dd7d44c0b5d6588]: Textual amendment: Words in reg. 3(1) omitted (1.9.2008) by virtue of [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(c)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/c)
 
-[^key-03a4a07abf0cc7e75289350bb79709db]: Textual amendment: Words in reg. 3(1) inserted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(d)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/d)
+[^c-03a4a07abf0cc7e75289350bb79709db]: Textual amendment: Words in reg. 3(1) inserted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [8(1)(d)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/8/1/d)
 
-[^key-1407170f43370b07d7cf8e7c828230c1]: Textual amendment: Words in reg. 3(1) substituted (6.4.2009) by [The Tax Credits (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/697)](https://www.legislation.gov.uk/uksi/2009/697), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/697/regulation/1/c), [10](https://www.legislation.gov.uk/uksi/2009/697/regulation/10)
+[^c-1407170f43370b07d7cf8e7c828230c1]: Textual amendment: Words in reg. 3(1) substituted (6.4.2009) by [The Tax Credits (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/697)](https://www.legislation.gov.uk/uksi/2009/697), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/697/regulation/1/c), [10](https://www.legislation.gov.uk/uksi/2009/697/regulation/10)
 
-[^key-a77f40f53f0d4aa9f2169707675639ef]: Textual amendment: Words in reg. 3(1) inserted (16.8.2007) by [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/3/b)
+[^c-a77f40f53f0d4aa9f2169707675639ef]: Textual amendment: Words in reg. 3(1) inserted (16.8.2007) by [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/3/b)
 
-[^key-b389d7673f3b12a6c4f40c4e585361a5]: Textual amendment: Reg. 4 substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/9/1)
+[^c-b389d7673f3b12a6c4f40c4e585361a5]: Textual amendment: Reg. 4 substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/9/1)
 
-[^key-59f9b7800175578e472992ee44cb0052]: Textual amendment: Words in reg. 4(1) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/4/a)
+[^c-59f9b7800175578e472992ee44cb0052]: Textual amendment: Words in reg. 4(1) substituted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/4/a)
 
-[^key-4080d66eccb1e412b4f4d616c403e10b]: Textual amendment: Reg. 4(1A) inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/4/b)
+[^c-4080d66eccb1e412b4f4d616c403e10b]: Textual amendment: Reg. 4(1A) inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/4/b)
 
-[^key-0c9d93be44667959da9fff2fea0d8445]: Textual amendment: Reg. 4(2A) inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/4/c)
+[^c-0c9d93be44667959da9fff2fea0d8445]: Textual amendment: Reg. 4(2A) inserted (6.4.2012) by [The Tax Credits (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/848)](https://www.legislation.gov.uk/uksi/2012/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/848/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2012/848/regulation/4/4/c)
 
-[^key-92979f034b1df837b86453be0e5f5f18]: Textual amendment: Word in reg. 5(1) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/2)
+[^c-92979f034b1df837b86453be0e5f5f18]: Textual amendment: Word in reg. 5(1) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/2)
 
-[^key-82cba866414feffe5db8d536664b6236]: Textual amendment: Word in reg. 5(2) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/3)
+[^c-82cba866414feffe5db8d536664b6236]: Textual amendment: Word in reg. 5(2) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/3)
 
-[^key-4da680f6d37f255b3f80a0b350a335d4]: Textual amendment: Words in reg. 5(2) added (6.4.2003) by [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/738/regulation/4)
+[^c-4da680f6d37f255b3f80a0b350a335d4]: Textual amendment: Words in reg. 5(2) added (6.4.2003) by [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/738/regulation/4)
 
-[^key-4872589e274bd6d66007bc6944ed415e]: Textual amendment: Words in reg. 5(2) substituted (6.4.2006) by [The Tax Credits (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/766)](https://www.legislation.gov.uk/uksi/2006/766), [regs. 1](https://www.legislation.gov.uk/uksi/2006/766/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/766/regulation/3)
+[^c-4872589e274bd6d66007bc6944ed415e]: Textual amendment: Words in reg. 5(2) substituted (6.4.2006) by [The Tax Credits (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/766)](https://www.legislation.gov.uk/uksi/2006/766), [regs. 1](https://www.legislation.gov.uk/uksi/2006/766/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/766/regulation/3)
 
-[^key-02e9a07443e2c52d88ca0c3eb997d5d2]: Textual amendment: Word in reg. 5(3) omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/a)
+[^c-02e9a07443e2c52d88ca0c3eb997d5d2]: Textual amendment: Word in reg. 5(3) omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/a)
 
-[^key-a3abf0e50061d75d3b060f77677fea83]: Textual amendment: Word in reg. 5(3)(a) omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/b)
+[^c-a3abf0e50061d75d3b060f77677fea83]: Textual amendment: Word in reg. 5(3)(a) omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/b)
 
-[^key-89a708842f0ad0d0acfe8b98d525f99a]: Textual amendment: Reg. 5(3)(ab) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/c)
+[^c-89a708842f0ad0d0acfe8b98d525f99a]: Textual amendment: Reg. 5(3)(ab) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/c)
 
-[^key-f1a3d4714374f2a4435e298a0add6c80]: Textual amendment: Words in reg. 5(3)(ab) inserted (16.8.2007) by [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/4/a)
+[^c-f1a3d4714374f2a4435e298a0add6c80]: Textual amendment: Words in reg. 5(3)(ab) inserted (16.8.2007) by [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/4/a)
 
-[^key-40723e8b120c45779f913e8c155712ef]: Textual amendment: Words in reg. 5(3)(ab) substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/10/2/a)
+[^c-40723e8b120c45779f913e8c155712ef]: Textual amendment: Words in reg. 5(3)(ab) substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/10/2/a)
 
-[^key-16b3b454bd98b5f0c2b308ca21ec5dc5]: Textual amendment: Reg. 5(3)(b)(i)-(iii) substituted (6.4.2003) by [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/738/regulation/5)
+[^c-16b3b454bd98b5f0c2b308ca21ec5dc5]: Textual amendment: Reg. 5(3)(b)(i)-(iii) substituted (6.4.2003) by [The Child Tax Credit (Amendment) Regulations 2003 (S.I. 2003/738)](https://www.legislation.gov.uk/uksi/2003/738), [regs. 1](https://www.legislation.gov.uk/uksi/2003/738/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/738/regulation/5)
 
-[^key-fcdd4706d4653084c96c3ee89ff9ecc7]: Textual amendment: Reg. 5(3)(b)(i) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(d)(i)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/d/i)
+[^c-fcdd4706d4653084c96c3ee89ff9ecc7]: Textual amendment: Reg. 5(3)(b)(i) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(d)(i)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/d/i)
 
-[^key-2769ad800a93b9c38feff64389cd9190]: Textual amendment: Words in reg. 5(3)(b)(ii) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/d/ii)
+[^c-2769ad800a93b9c38feff64389cd9190]: Textual amendment: Words in reg. 5(3)(b)(ii) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/d/ii)
 
-[^key-00949cb74931df623cea09461393380a]: Textual amendment: Words in reg. 5(3)(b)(ii) substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/10/2/b)
+[^c-00949cb74931df623cea09461393380a]: Textual amendment: Words in reg. 5(3)(b)(ii) substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/10/2/b)
 
-[^key-fe3c1a5f2f0b75b7f7f7f2eaf1a3171c]: Textual amendment: Words in reg. 5(3)(b)(iii) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/d/iii)
+[^c-fe3c1a5f2f0b75b7f7f7f2eaf1a3171c]: Textual amendment: Words in reg. 5(3)(b)(iii) substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/4/d/iii)
 
-[^key-39105cce0eb183fbc5b2d45711853d07]: Textual amendment: Reg. 5(3A) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/5)
+[^c-39105cce0eb183fbc5b2d45711853d07]: Textual amendment: Reg. 5(3A) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/5)
 
-[^key-812a3e77f460645bf7794f6192d2195b]: Textual amendment: Words in reg. 5(3A) inserted (16.8.2007) by [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/4/b)
+[^c-812a3e77f460645bf7794f6192d2195b]: Textual amendment: Words in reg. 5(3A) inserted (16.8.2007) by [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/4/b)
 
-[^key-0b66229e01c9a41602ec38b5254b3407]: Textual amendment: Words in reg. 5(4)(a) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/6/a/i)
+[^c-0b66229e01c9a41602ec38b5254b3407]: Textual amendment: Words in reg. 5(4)(a) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(6)(a)(i)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/6/a/i)
 
-[^key-4a0500ecebd7ca314cf20d6878186c33]: Textual amendment: Word in reg. 5(4)(a) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/6/a/ii)
+[^c-4a0500ecebd7ca314cf20d6878186c33]: Textual amendment: Word in reg. 5(4)(a) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/6/a/ii)
 
-[^key-aaf7e1ae5bbc1a1d8fb716e95cef85d3]: Textual amendment: Reg. 5(4)(b) omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/6/b)
+[^c-aaf7e1ae5bbc1a1d8fb716e95cef85d3]: Textual amendment: Reg. 5(4)(b) omitted (6.4.2006) by virtue of [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/6/b)
 
-[^key-995087a1575f15b76371f406b9a19656]: Textual amendment: Words in reg. 5(4)(c) inserted (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/22/3)
+[^c-995087a1575f15b76371f406b9a19656]: Textual amendment: Words in reg. 5(4)(c) inserted (E.W.S.) (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 3) Regulations 2008 (S.I. 2008/1879)](https://www.legislation.gov.uk/uksi/2008/1879), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2008/1879/regulation/22/3)
 
-[^key-ec74ab800987e156047666a0295b0b21]: Textual amendment: Comma in reg. 5(4)(c) substituted for word (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1/2), [79(a)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/79/a)
+[^c-ec74ab800987e156047666a0295b0b21]: Textual amendment: Comma in reg. 5(4)(c) substituted for word (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1/2), [79(a)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/79/a)
 
 [^c9612561]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-19b8e883b1eca08df41993d5263d3c43]: Textual amendment: Words in reg. 5(4)(c) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [79(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/79/b)
+[^c-19b8e883b1eca08df41993d5263d3c43]: Textual amendment: Words in reg. 5(4)(c) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [79(b)](https://www.legislation.gov.uk/uksi/2013/630/regulation/79/b)
 
-[^key-7e979b642bbc46e188806b4c0ccc7c01]: Textual amendment: Words in reg. 5(5) substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/10/3)
+[^c-7e979b642bbc46e188806b4c0ccc7c01]: Textual amendment: Words in reg. 5(5) substituted (1.9.2008) by [The Tax Credits (Miscellaneous Amendments) (No. 2) Regulations 2008 (S.I. 2008/2169)](https://www.legislation.gov.uk/uksi/2008/2169), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2169/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2008/2169/regulation/10/3)
 
-[^key-ca4d62c20ae86a064ee0ec895811bf97]: Textual amendment: [Reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/5/5/c) and word inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/2/a)
+[^c-ca4d62c20ae86a064ee0ec895811bf97]: Textual amendment: [Reg. 5(5)(c)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/5/5/c) and word inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/2/a)
 
-[^key-33a57416b574b29723a4d5b3e1e06ba4]: Textual amendment: Words in reg. 5(5) omitted (16.8.2007) by virtue of [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/4/c)
+[^c-33a57416b574b29723a4d5b3e1e06ba4]: Textual amendment: Words in reg. 5(5) omitted (16.8.2007) by virtue of [The Child Tax Credit (Amendment) Regulations 2007 (S.I. 2007/2151)](https://www.legislation.gov.uk/uksi/2007/2151), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2151/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2007/2151/regulation/4/c)
 
-[^key-cc5345d4db73cbadcfc3cf0089742e9e]: Textual amendment: Words in reg. 5(5) inserted (28.11.2014) by [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/2)
+[^c-cc5345d4db73cbadcfc3cf0089742e9e]: Textual amendment: Words in reg. 5(5) inserted (28.11.2014) by [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/2)
 
-[^key-64be9ec8b2f544bf0bd0ce057e19e178]: Textual amendment: Reg. 5(5A) inserted (4.6.2014) by [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/3/3)
+[^c-64be9ec8b2f544bf0bd0ce057e19e178]: Textual amendment: Reg. 5(5A) inserted (4.6.2014) by [The Child Benefit (General) and Child Tax Credit (Amendment) Regulations 2014 (S.I. 2014/1231)](https://www.legislation.gov.uk/uksi/2014/1231), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1231/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/1231/regulation/3/3)
 
-[^key-6562a82b07a8f7b3b2e43ec927080414]: Textual amendment: Reg. 5(7) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/7)
+[^c-6562a82b07a8f7b3b2e43ec927080414]: Textual amendment: Reg. 5(7) inserted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2006/222/regulation/4/7)
 
-[^key-9c32841c93dc426ae3b9f8feaea11e4b]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/5/8) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/2/b)
+[^c-9c32841c93dc426ae3b9f8feaea11e4b]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/5/8) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/2/b)
 
-[^key-0e1cd5561588981bc4e309586dd2a2d0]: Modification: Reg. 6 applied (for specified purposes and with effect in accordance with reg. 1 of the amending S.I., in force in so far as not already in force and with effect in accordance with reg. 1 of the amending S.I.) by [The Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (S.I. 2002/2005)](https://www.legislation.gov.uk/uksi/2002/2005), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2005/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2002/2005/regulation/19/2)
+[^c-0e1cd5561588981bc4e309586dd2a2d0]: Modification: Reg. 6 applied (for specified purposes and with effect in accordance with reg. 1 of the amending S.I., in force in so far as not already in force and with effect in accordance with reg. 1 of the amending S.I.) by [The Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (S.I. 2002/2005)](https://www.legislation.gov.uk/uksi/2002/2005), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2005/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2002/2005/regulation/19/2)
 
-[^key-c1a1a2259e0705f561e6e0ef5f8f3f4c]: Textual amendment: Word in reg. 6 substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/222/regulation/5)
+[^c-c1a1a2259e0705f561e6e0ef5f8f3f4c]: Textual amendment: Word in reg. 6 substituted (6.4.2006) by [The Child Tax Credit (Amendment) Regulations 2006 (S.I. 2006/222)](https://www.legislation.gov.uk/uksi/2006/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/222/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/222/regulation/5)
 
-[^key-54753553875cbcdb43eeeab661a8284b]: Textual amendment: Words in reg. 7(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/a)
+[^c-54753553875cbcdb43eeeab661a8284b]: Textual amendment: Words in reg. 7(1) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/a)
 
-[^key-3194cf291fb3bf49d395d4b219997c34]: Textual amendment: Words in reg. 7(1)(b) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/4)
+[^c-3194cf291fb3bf49d395d4b219997c34]: Textual amendment: Words in reg. 7(1)(b) omitted (5.12.2005) by virtue of [The Civil Partnership Act 2004 (Tax Credits, etc.) (Consequential Amendments) Order 2005 (S.I. 2005/2919)](https://www.legislation.gov.uk/uksi/2005/2919), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2919/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2005/2919/article/4/4)
 
-[^key-0e936bd8af18122825dfd5450f59ef0b]: Textual amendment: Words in reg. 7(2)(a) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/b)
+[^c-0e936bd8af18122825dfd5450f59ef0b]: Textual amendment: Words in reg. 7(2)(a) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/b)
 
 [^M_C_0f6538a6-aadc-446b-9581-d1625f400b0b]: Modification: Reg. 7(2)(b)(ii) modified (6.4.2003) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [25(b)](https://www.legislation.gov.uk/uksi/2003/742/regulation/25/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2)); (as amended (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/387/regulation/9))
 
-[^key-10882d455c79a440f878705f2e34d64c]: Textual amendment: Words in reg. 7(2)(b) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/c)
+[^c-10882d455c79a440f878705f2e34d64c]: Textual amendment: Words in reg. 7(2)(b) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/c)
 
-[^key-b3a3891aa810d40ffb6940f7c8990b3a]: Textual amendment: Reg. 7(2)(c) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/d)
+[^c-b3a3891aa810d40ffb6940f7c8990b3a]: Textual amendment: Reg. 7(2)(c) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/d)
 
-[^key-b0d40659b0dc1703ac6b5b8b08e63ad0]: Textual amendment: Reg. 7(2A) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/e)
+[^c-b0d40659b0dc1703ac6b5b8b08e63ad0]: Textual amendment: Reg. 7(2A) inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/e)
 
-[^key-11553cca647dd580d54c990ea142fc22]: Textual amendment: Reg. 7(3) substituted (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/2/2)
+[^c-11553cca647dd580d54c990ea142fc22]: Textual amendment: Reg. 7(3) substituted (6.4.2011) by [The Tax Credits Up-rating Regulations 2011 (S.I. 2011/1035)](https://www.legislation.gov.uk/uksi/2011/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/2/2)
 
-[^key-d8c6189926d3d325a07252e90f6872c4]: Textual amendment: Reg. 7(4)(a) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
+[^c-d8c6189926d3d325a07252e90f6872c4]: Textual amendment: Reg. 7(4)(a) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
 
-[^key-2065201fea523bf849e4ba69fe76d4b1]: Textual amendment: Reg. 7(4)(b) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
+[^c-2065201fea523bf849e4ba69fe76d4b1]: Textual amendment: Reg. 7(4)(b) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
 
-[^key-953f8f294e25a288090b4f423a439125]: Modification: Reg. 7(4)(c): sums maintained (6.4.2016 to 5.4.2020) (16.3.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 36(1)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/b), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2016/7/schedule/1/paragraph/2/b)
+[^c-953f8f294e25a288090b4f423a439125]: Modification: Reg. 7(4)(c): sums maintained (6.4.2016 to 5.4.2020) (16.3.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 36(1)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/b), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2016/7/schedule/1/paragraph/2/b)
 
-[^key-985c4c09cbba8b9d14e8a1179a5898ce]: Textual amendment: Word in reg. 7(4)(c) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/ii)
+[^c-985c4c09cbba8b9d14e8a1179a5898ce]: Textual amendment: Word in reg. 7(4)(c) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/ii)
 
-[^key-a31be069c7bf8f0950386a67e3934bd8]: Textual amendment: Sum in reg. 7(4)(c) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/a)
+[^c-a31be069c7bf8f0950386a67e3934bd8]: Textual amendment: Sum in reg. 7(4)(c) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/a)
 
-[^key-00b1ae0970c7390e2d37047281e9935d]: Textual amendment: Reg. 7(4)(d) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
+[^c-00b1ae0970c7390e2d37047281e9935d]: Textual amendment: Reg. 7(4)(d) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
 
-[^key-0885a91d4e2f5becd28587223e4ab814]: Textual amendment: Reg. 7(4)(e) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
+[^c-0885a91d4e2f5becd28587223e4ab814]: Textual amendment: Reg. 7(4)(e) omitted (6.4.2017) by virtue of [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/i)
 
-[^key-fecfb5fb80225b36c660e807b78ccf76]: Modification: Reg. 7(4)(f): sums maintained (6.4.2016 to 5.4.2020) (16.3.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 36(1)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/b), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2016/7/schedule/1/paragraph/2/b)
+[^c-fecfb5fb80225b36c660e807b78ccf76]: Modification: Reg. 7(4)(f): sums maintained (6.4.2016 to 5.4.2020) (16.3.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 36(1)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/b), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/ukpga/2016/7/schedule/1/paragraph/2/b)
 
-[^key-05efd133d1e24f3ce0614734a56c0ee9]: Textual amendment: Word in reg. 7(4)(f) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/ii)
+[^c-05efd133d1e24f3ce0614734a56c0ee9]: Textual amendment: Word in reg. 7(4)(f) substituted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2017/387/regulation/4/f/ii)
 
-[^key-d9acdd8cc8d27cfecb51ebee5d8ef82f]: Textual amendment: Sum in reg. 7(4)(f) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/a)
+[^c-d9acdd8cc8d27cfecb51ebee5d8ef82f]: Textual amendment: Sum in reg. 7(4)(f) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/a)
 
-[^key-e5a3f78bbc2e2e76e75d73961b53bd3a]: Textual amendment: Reg. 7(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits and Guardian’s Allowance Up-rating etc. Regulations 2017 (S.I. 2017/406)](https://www.legislation.gov.uk/uksi/2017/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/406/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/406/regulation/3)
+[^c-e5a3f78bbc2e2e76e75d73961b53bd3a]: Textual amendment: Reg. 7(5) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits and Guardian’s Allowance Up-rating etc. Regulations 2017 (S.I. 2017/406)](https://www.legislation.gov.uk/uksi/2017/406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/406/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/406/regulation/3)
 
-[^key-01f8397d46badb93f5ab58ccc23b3d86]: Textual amendment: Sum in reg. 7(5)(a) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/b/i)
+[^c-01f8397d46badb93f5ab58ccc23b3d86]: Textual amendment: Sum in reg. 7(5)(a) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/b/i)
 
-[^key-4fef66fcc89189431b221c624ea8453f]: Textual amendment: Sum in reg. 7(5)(b) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/b/ii)
+[^c-4fef66fcc89189431b221c624ea8453f]: Textual amendment: Sum in reg. 7(5)(b) substituted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Tax Credits, Child Benefit and Guardian’s Allowance Up-rating Regulations 2024 (S.I. 2024/247)](https://www.legislation.gov.uk/uksi/2024/247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/247/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/247/regulation/3/b/ii)
 
-[^key-8787f2f8c67dfa255bd5e5fbcc3346e1]: Textual amendment: Words in reg. 8(1)(b) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/a)
+[^c-8787f2f8c67dfa255bd5e5fbcc3346e1]: Textual amendment: Words in reg. 8(1)(b) substituted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/a)
 
-[^key-fad38d5c48592885ba38c7be33f17e42]: Textual amendment: Reg. 8(2)(b) substituted (28.11.2014) by [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/3/a)
+[^c-fad38d5c48592885ba38c7be33f17e42]: Textual amendment: Reg. 8(2)(b) substituted (28.11.2014) by [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/3/a)
 
-[^key-9a4bfa542b836eb91bc4303bd0de293d]: Textual amendment: Words in reg. 8(2)(c) omitted (28.11.2014) by virtue of [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/3/b)
+[^c-9a4bfa542b836eb91bc4303bd0de293d]: Textual amendment: Words in reg. 8(2)(c) omitted (28.11.2014) by virtue of [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/3/b)
 
-[^key-2ba2e7174934e0d2a0d087962670135c]: Textual amendment: Words in reg. 8(2)(c) inserted (28.11.2014) by [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/3/b)
+[^c-2ba2e7174934e0d2a0d087962670135c]: Textual amendment: Words in reg. 8(2)(c) inserted (28.11.2014) by [The Child Benefit (General) and Tax Credits (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/2924)](https://www.legislation.gov.uk/uksi/2014/2924), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2924/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2014/2924/regulation/3/3/b)
 
-[^key-511b17cd5271b5abaf78837891b018bc]: Textual amendment: Reg. 8(2)(d) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 30(3)(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/30/3/b)
+[^c-511b17cd5271b5abaf78837891b018bc]: Textual amendment: Reg. 8(2)(d) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 30(3)(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/30/3/b)
 
-[^key-74696a643e5f0e65fd4add2d7317f981]: Textual amendment: Word in reg. 8(2)(d) substituted for full stop (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/b/i)
+[^c-74696a643e5f0e65fd4add2d7317f981]: Textual amendment: Word in reg. 8(2)(d) substituted for full stop (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/b/i)
 
-[^key-ac235b9c544a43c8cf7cce1c549c9091]: Textual amendment: Reg. 8(2)(e) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/b/ii)
+[^c-ac235b9c544a43c8cf7cce1c549c9091]: Textual amendment: Reg. 8(2)(e) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/b/ii)
 
-[^key-af7b9482b5b11dd09b37d8c55356fcdf]: Textual amendment: Words in reg. 8(2)(e) inserted (13.3.2024) by [The Tax Credits (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/176)](https://www.legislation.gov.uk/uksi/2024/176), [regs. 1](https://www.legislation.gov.uk/uksi/2024/176/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/176/regulation/2/2/a)
+[^c-af7b9482b5b11dd09b37d8c55356fcdf]: Textual amendment: Words in reg. 8(2)(e) inserted (13.3.2024) by [The Tax Credits (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/176)](https://www.legislation.gov.uk/uksi/2024/176), [regs. 1](https://www.legislation.gov.uk/uksi/2024/176/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/176/regulation/2/2/a)
 
 [^c9612591]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-4196a31b91a771adc607bc8b67f47871]: Textual amendment: Reg. 8(4) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 30(3)(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/30/3/c)
+[^c-4196a31b91a771adc607bc8b67f47871]: Textual amendment: Reg. 8(4) inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 30(3)(c)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/30/3/c)
 
-[^key-ecb271f80842bc0c6e7b483adf4cf184]: Textual amendment: Reg. 8(5) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 26(3)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/26/3/b)
+[^c-ecb271f80842bc0c6e7b483adf4cf184]: Textual amendment: Reg. 8(5) inserted (8.4.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) Order 2013 (S.I. 2013/591)](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/591/article/2/2), [Sch. para. 26(3)(b)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/26/3/b)
 
-[^key-9a76bec28f23dfda2e7f21bf958fecc1]: Textual amendment: Reg. 8(6)(7) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/c)
+[^c-9a76bec28f23dfda2e7f21bf958fecc1]: Textual amendment: Reg. 8(6)(7) inserted (6.4.2020) by [The Tax Credits, Child Benefit, Guardian’s Allowance and Childcare Payments (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/297)](https://www.legislation.gov.uk/uksi/2020/297), [regs. 1](https://www.legislation.gov.uk/uksi/2020/297/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2020/297/regulation/4/3/c)
 
-[^key-d6b53dc2c5927d69007e36063f1fc883]: Textual amendment: Words in reg. 8(6) inserted (9.12.2021) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1286)](https://www.legislation.gov.uk/uksi/2021/1286), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1286/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1286/regulation/4/2)
+[^c-d6b53dc2c5927d69007e36063f1fc883]: Textual amendment: Words in reg. 8(6) inserted (9.12.2021) by [The Tax Credits and Child Benefit (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/1286)](https://www.legislation.gov.uk/uksi/2021/1286), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1286/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/1286/regulation/4/2)
 
-[^key-6aada0d512e2af1c512f1eca9fd84374]: Textual amendment: Words in reg. 8(6) inserted (13.3.2024) by [The Tax Credits (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/176)](https://www.legislation.gov.uk/uksi/2024/176), [regs. 1](https://www.legislation.gov.uk/uksi/2024/176/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/176/regulation/2/2/b)
+[^c-6aada0d512e2af1c512f1eca9fd84374]: Textual amendment: Words in reg. 8(6) inserted (13.3.2024) by [The Tax Credits (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/176)](https://www.legislation.gov.uk/uksi/2024/176), [regs. 1](https://www.legislation.gov.uk/uksi/2024/176/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/176/regulation/2/2/b)
 
-[^key-494786f222c060c6ff045dc894a3bedb]: Textual amendment: Regs. 9-14 inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/387/regulation/5)
+[^c-494786f222c060c6ff045dc894a3bedb]: Textual amendment: Regs. 9-14 inserted (6.4.2017) by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/387/regulation/5)
 
-[^key-02db77c6e1bf25978daa48e53862b739]: Modification: Reg. 9 modified (6.4.2017) by [S.I. 2003/742,](https://www.legislation.gov.uk/uksi/2003/742) [reg. 25A (as inserted by The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10)); (as amended (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/6/2) and as further amended (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/364/regulation/9/2))
+[^c-02db77c6e1bf25978daa48e53862b739]: Modification: Reg. 9 modified (6.4.2017) by [S.I. 2003/742,](https://www.legislation.gov.uk/uksi/2003/742) [reg. 25A (as inserted by The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10)); (as amended (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/6/2) and as further amended (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/364/regulation/9/2))
 
-[^key-54640ea860a5149a32ac93c6384cb56a]: Textual amendment: Reg. 9(1) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/a)
+[^c-54640ea860a5149a32ac93c6384cb56a]: Textual amendment: Reg. 9(1) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/a)
 
-[^key-40fd3afd5470450fc5a5a1296b50cd5d]: Textual amendment: Reg. 9(2) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/b)
+[^c-40fd3afd5470450fc5a5a1296b50cd5d]: Textual amendment: Reg. 9(2) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/b)
 
-[^key-db833e0a85d3cda6d36a02d25f6ee96c]: Textual amendment: Reg. 9(4) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/b)
+[^c-db833e0a85d3cda6d36a02d25f6ee96c]: Textual amendment: Reg. 9(4) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/b)
 
-[^key-445b554e307f54466f821958a8dffcb5]: Textual amendment: Words in reg. 9(5) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/c)
+[^c-445b554e307f54466f821958a8dffcb5]: Textual amendment: Words in reg. 9(5) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/c)
 
-[^key-ac515ed68156cf4cd41f49585e89ede2]: Textual amendment: Reg. 9(6) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/d)
+[^c-ac515ed68156cf4cd41f49585e89ede2]: Textual amendment: Reg. 9(6) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/d)
 
-[^key-8d1412af6f5ecad8f30893eee3b99b3e]: Textual amendment: Reg. 9(8) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/e)
+[^c-8d1412af6f5ecad8f30893eee3b99b3e]: Textual amendment: Reg. 9(8) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/3/e)
 
-[^key-b1123a8696c0e15f745a8f04e371772c]: Modification: Reg. 10(c) modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25B](https://www.legislation.gov.uk/uksi/2003/742/regulation/25B) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
+[^c-b1123a8696c0e15f745a8f04e371772c]: Modification: Reg. 10(c) modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25B](https://www.legislation.gov.uk/uksi/2003/742/regulation/25B) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
 
-[^key-074402a343e94477dffeeebd6843fe6e]: Modification: Reg. 11 modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25C](https://www.legislation.gov.uk/uksi/2003/742/regulation/25C) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
+[^c-074402a343e94477dffeeebd6843fe6e]: Modification: Reg. 11 modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25C](https://www.legislation.gov.uk/uksi/2003/742/regulation/25C) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
 
-[^key-0148e63a6aca25c27035a3b506e041f9]: Textual amendment: Words in [reg. 12(3)(f)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/12/3/f) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1130/regulation/4)
+[^c-0148e63a6aca25c27035a3b506e041f9]: Textual amendment: Words in [reg. 12(3)(f)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/12/3/f) substituted (28.11.2018) by [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/1130/regulation/4)
 
-[^key-e2844b1421aae68a790e57dd6053ad92]: Modification: Reg. 13 modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25D](https://www.legislation.gov.uk/uksi/2003/742/regulation/25D) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
+[^c-e2844b1421aae68a790e57dd6053ad92]: Modification: Reg. 13 modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25D](https://www.legislation.gov.uk/uksi/2003/742/regulation/25D) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
 
-[^key-07e286bc318c3e9968686f4b2d6c9320]: Textual amendment: Words in reg. 14(2)(b) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/5/a)
+[^c-07e286bc318c3e9968686f4b2d6c9320]: Textual amendment: Words in reg. 14(2)(b) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/5/a)
 
-[^key-0e74c1563b88e0340063d913e20cdf5f]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/14/2/d) omitted (21.3.2019) by virtue of [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/3/a)
+[^c-0e74c1563b88e0340063d913e20cdf5f]: Textual amendment: Words in [reg. 14(2)(d)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/14/2/d) omitted (21.3.2019) by virtue of [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/3/a)
 
-[^key-a83281d3e78c611413dfe7f3c7f02984]: Modification: Reg. 14(3)(a) modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25E](https://www.legislation.gov.uk/uksi/2003/742/regulation/25E) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
+[^c-a83281d3e78c611413dfe7f3c7f02984]: Modification: Reg. 14(3)(a) modified (6.4.2017) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [reg. 25E](https://www.legislation.gov.uk/uksi/2003/742/regulation/25E) (as inserted by [The Child Tax Credit (Amendment) Regulations 2017 (S.I. 2017/387)](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/387/regulation/10))
 
-[^key-385bffc49ee29ba93a8e268d7d2148d3]: Textual amendment: Words in reg. 14(4)(b) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/5/b)
+[^c-385bffc49ee29ba93a8e268d7d2148d3]: Textual amendment: Words in reg. 14(4)(b) omitted (28.11.2018) by virtue of [The Child Tax Credit (Amendment) Regulations 2018 (S.I. 2018/1130)](https://www.legislation.gov.uk/uksi/2018/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1130/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1130/regulation/5/b)
 
-[^key-0a39771a8610be05d3ac43a23303815b]: Textual amendment: Words in [reg. 14(4)(d)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/14/4/d) omitted (21.3.2019) by virtue of [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/3/b)
+[^c-0a39771a8610be05d3ac43a23303815b]: Textual amendment: Words in [reg. 14(4)(d)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/14/4/d) omitted (21.3.2019) by virtue of [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/3/b)
 
-[^key-57732542ca031a15f910f52080c4860f]: Textual amendment: Words in [reg. 14(5)(d)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/14/5/d) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/3/c)
+[^c-57732542ca031a15f910f52080c4860f]: Textual amendment: Words in [reg. 14(5)(d)](https://www.legislation.gov.uk/uksi/2002/2007/regulation/14/5/d) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2019/364/regulation/4/3/c)

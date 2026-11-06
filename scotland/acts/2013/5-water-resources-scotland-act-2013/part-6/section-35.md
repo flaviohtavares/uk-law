@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Substances generally[^key-67f57db3dfd33f6b256736cdd6c96d5e]
+## 35. Substances generally[^c-67f57db3dfd33f6b256736cdd6c96d5e]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67f57db3dfd33f6b256736cdd6c96d5e]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2013/5/section/35) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)
+[^c-67f57db3dfd33f6b256736cdd6c96d5e]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2013/5/section/35) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)

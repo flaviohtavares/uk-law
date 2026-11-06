@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Referral orders: interpretation[^key-7e3af4286016f5e78e7ef4778b1fdf3a]
+## 108. Referral orders: interpretation[^c-7e3af4286016f5e78e7ef4778b1fdf3a]
 
 *Extent: E+W*
 
@@ -39,10 +39,10 @@ summary: ''
 
 (3) Any reference in this Chapter to a youth offender contract taking effect is to it taking effect between an offender and a youth offender panel under section 96.
 
-(4) Section 404 (certain references to parent or guardian to be read as references to local authority) does not apply for the purposes of this Chapter[^key-bcf1d5c3e33d7a3746d9abb6951d2141] (except that it does apply for the purposes of paragraph 13 of Schedule 4 (further proceedings)).
+(4) Section 404 (certain references to parent or guardian to be read as references to local authority) does not apply for the purposes of this Chapter[^c-bcf1d5c3e33d7a3746d9abb6951d2141] (except that it does apply for the purposes of paragraph 13 of Schedule 4 (further proceedings)).
 
 ## Annotations
 
-[^key-7e3af4286016f5e78e7ef4778b1fdf3a]: Commencement: S. 108 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7e3af4286016f5e78e7ef4778b1fdf3a]: Commencement: S. 108 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bcf1d5c3e33d7a3746d9abb6951d2141]: Textual amendment: Word in [s. 108(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/108/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/2)
+[^c-bcf1d5c3e33d7a3746d9abb6951d2141]: Textual amendment: Word in [s. 108(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/108/4) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/aa), [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/21/paragraph/2)

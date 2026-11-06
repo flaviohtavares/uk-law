@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 373. Repeal of existing newspaper merger regime[^key-6693d0ce0bd321b93e877db77780d088]
+## 373. Repeal of existing newspaper merger regime[^c-6693d0ce0bd321b93e877db77780d088]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 57 to 62 of the Fair Trading Act 1973 (c. 41) (newspaper merger referen
 
 ## Annotations
 
-[^key-6693d0ce0bd321b93e877db77780d088]: Commencement: S. 373 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6693d0ce0bd321b93e877db77780d088]: Commencement: S. 373 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

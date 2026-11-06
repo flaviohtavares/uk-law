@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Supplementary[^key-74b2ee26218ec0449e24493c2d9ce75c]
+## 34. Supplementary[^c-74b2ee26218ec0449e24493c2d9ce75c]
 
 *Extent: E+W+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) may discharge the order,
 - (b) may vary the order.
 
-(3) If an officer of a description mentioned in paragraph (a), (b) or (c) of the meaning of appropriate officer (see article 2 (interpretation))[^key-e069ccf787f132a6463b38511a6fdf32] applies for an account monitoring order, an application to discharge or vary the order may be made by a different officer of the same description[^key-2a9423f7a45e484eece397931cbfd100].
+(3) If an officer of a description mentioned in paragraph (a), (b) or (c) of the meaning of appropriate officer (see article 2 (interpretation))[^c-e069ccf787f132a6463b38511a6fdf32] applies for an account monitoring order, an application to discharge or vary the order may be made by a different officer of the same description[^c-2a9423f7a45e484eece397931cbfd100].
 
 (4) References to a person who applied for an account monitoring order must be construed accordingly.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-74b2ee26218ec0449e24493c2d9ce75c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2013/2605/article/34) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-74b2ee26218ec0449e24493c2d9ce75c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2013/2605/article/34) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-e069ccf787f132a6463b38511a6fdf32]: Textual amendment: Words in [art. 34(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/34/3) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(6)(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/6/a)
+[^c-e069ccf787f132a6463b38511a6fdf32]: Textual amendment: Words in [art. 34(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/34/3) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(6)(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/6/a)
 
-[^key-2a9423f7a45e484eece397931cbfd100]: Textual amendment: Words in [art. 34(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/34/3) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(6)(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/6/b)
+[^c-2a9423f7a45e484eece397931cbfd100]: Textual amendment: Words in [art. 34(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/34/3) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(6)(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/6/b)

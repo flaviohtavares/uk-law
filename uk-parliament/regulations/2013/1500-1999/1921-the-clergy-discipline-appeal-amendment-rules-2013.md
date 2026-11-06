@@ -43,11 +43,11 @@ Coming into force in accordance with rule 20
 
 In pursuance of sections 26(1) and (2) of the Care of Churches and Ecclesiastical Jurisdiction Measure 1991[^f00001] as amended by sections 45(1) and (2) of the Clergy Discipline Measure 2003[^f00002], the Rule Committee constituted in accordance with section 25 of the said 1991 Measure as amended by section 45(3) of the said 2003 Measure makes the following rules to amend the Clergy Discipline Appeal Rules [S.I. 2005 No. 3201](https://www.legislation.gov.uk/uksi/2005/3201)—
 
-## 1. Amendments to the Clergy Discipline Appeal Rules[^key-4d2762dbd3d5539f808cae438efd09c1][^key-97cea40cf9482a91a3710b4156fd4273]
+## 1. Amendments to the Clergy Discipline Appeal Rules[^c-4d2762dbd3d5539f808cae438efd09c1][^c-97cea40cf9482a91a3710b4156fd4273]
 
 The Clergy Discipline Appeal Rules 2005 are amended as follows.
 
-## 2. Right of appeal under section 20 of the Measure[^key-124c86ada0b772d604e127c50ed5fbbb][^key-83c7d229e6b7b6ff24eb1913a33e7aee]
+## 2. Right of appeal under section 20 of the Measure[^c-124c86ada0b772d604e127c50ed5fbbb][^c-83c7d229e6b7b6ff24eb1913a33e7aee]
 
 (1) Rule 3 is amended as follows.
 
@@ -55,7 +55,7 @@ The Clergy Discipline Appeal Rules 2005 are amended as follows.
 
 (3) In paragraph (b) after the word “appeal” insert the words “with the leave of the tribunal or appellate court”.
 
-## 3. Application for leave to appeal[^key-32883b1eb5c972980f4da1ab43171ad5][^key-67f9235effe752abb25ecefa4c071dac]
+## 3. Application for leave to appeal[^c-32883b1eb5c972980f4da1ab43171ad5][^c-67f9235effe752abb25ecefa4c071dac]
 
 After rule 4 there are inserted the following rules—
 
@@ -111,7 +111,7 @@ After rule 4 there are inserted the following rules—
 
 .
 
-## 4. Notice of appeal from respondent[^key-51196c2606490135ccb551537d351462][^key-349042b29d0ffb1570b38f9377aebba8]
+## 4. Notice of appeal from respondent[^c-51196c2606490135ccb551537d351462][^c-349042b29d0ffb1570b38f9377aebba8]
 
 (1) Rule 5 is amended as follows.
 
@@ -127,7 +127,7 @@ After rule 4 there are inserted the following rules—
 
 .
 
-## 5. Notice of appeal from the Designated Officer[^key-a998d7d415ab133d6e9472432a187e51][^key-dc1857791632494883976d68d118a65c]
+## 5. Notice of appeal from the Designated Officer[^c-a998d7d415ab133d6e9472432a187e51][^c-dc1857791632494883976d68d118a65c]
 
 (1) Rule 6 is amended as follows.
 
@@ -143,11 +143,11 @@ After rule 4 there are inserted the following rules—
 
 .
 
-## 6. Time for appealing and for sending or delivering the notice of appeal[^key-e006dc04df45ed43041ed2c43e255f25][^key-9973dbec6e47760c18e7acdaa0fbb191]
+## 6. Time for appealing and for sending or delivering the notice of appeal[^c-e006dc04df45ed43041ed2c43e255f25][^c-9973dbec6e47760c18e7acdaa0fbb191]
 
 In rule 8(1) for all the words after “of the date” there are substituted the words “when the tribunal granted leave to appeal or within 21 days of the date when the appellate court granted leave to appeal, as the case may be”.
 
-## 7. Application for permission to appeal out of time[^key-e2cfac8c9a25572989bbcba287847e10][^key-80916cce3651e3f03ea089588e2dc373]
+## 7. Application for permission to appeal out of time[^c-e2cfac8c9a25572989bbcba287847e10][^c-80916cce3651e3f03ea089588e2dc373]
 
 (1) Rule 9 is amended as follows.
 
@@ -183,11 +183,11 @@ In rule 8(1) for all the words after “of the date” there are substituted the
 
 .
 
-## 8. Postponement of penalty[^key-477bb3f3d19d014edaec3ab85ecaabb4][^key-05c4e0cd88b3945508c18bc47220e64d]
+## 8. Postponement of penalty[^c-477bb3f3d19d014edaec3ab85ecaabb4][^c-05c4e0cd88b3945508c18bc47220e64d]
 
 In rule 10(1) after the words “pending the disposal of an” there are inserted the words “application under rule 4A above and, if applicable, an”.
 
-## 9. Interim directions[^key-5f1dd4f87fa2af04d0e86db1496c7a4f][^key-c57adfb803becd981e2b2fe819a405aa]
+## 9. Interim directions[^c-5f1dd4f87fa2af04d0e86db1496c7a4f][^c-c57adfb803becd981e2b2fe819a405aa]
 
 Rule 11 is amended by inserting after sub-rule (1) the following sub-rule—
 
@@ -195,7 +195,7 @@ Rule 11 is amended by inserting after sub-rule (1) the following sub-rule—
 
 .
 
-## 10. Appointment of members of the appellate court[^key-67410b01edaedf24106dee0615f69ed0][^key-68d8e7e2389aa2bf3dbb131aea15eb62]
+## 10. Appointment of members of the appellate court[^c-67410b01edaedf24106dee0615f69ed0][^c-68d8e7e2389aa2bf3dbb131aea15eb62]
 
 After rule 12 there is inserted the following rule—
 
@@ -207,7 +207,7 @@ After rule 12 there is inserted the following rule—
 
 .
 
-## 11. Fixing the date and place of a hearing[^key-cba79c607243caf551fe92fc8b985332][^key-cacbca842169d9b06dbf38d8527f0b98]
+## 11. Fixing the date and place of a hearing[^c-cba79c607243caf551fe92fc8b985332][^c-cacbca842169d9b06dbf38d8527f0b98]
 
 (1) Rule 15 is amended as follows.
 
@@ -219,19 +219,19 @@ After rule 12 there is inserted the following rule—
 
 (5) In sub-rule (3) the word “appeal” is omitted.
 
-## 12. Power to adjourn[^key-6a76a8e4559bbdb0d0f04fc9a9c715c7][^key-beded4fa3fe648fce5456202fa6da983]
+## 12. Power to adjourn[^c-6a76a8e4559bbdb0d0f04fc9a9c715c7][^c-beded4fa3fe648fce5456202fa6da983]
 
 In rule 21 for the word “The” there is substituted the word “A”.
 
-## 13. Appellate court may require personal attendance of a witness[^key-c7950844476988d4a992615960935896][^key-d7493b81f3661b7f9522f3b058b76cc2]
+## 13. Appellate court may require personal attendance of a witness[^c-c7950844476988d4a992615960935896][^c-d7493b81f3661b7f9522f3b058b76cc2]
 
 In rule 23 for the words “the hearing” there are substituted the words “a hearing”.
 
-## 14. Power to exclude from hearing[^key-1ebd1ed4b075b297b2891737d0b35a02][^key-33468e22cb7111343be693b9fa73889c]
+## 14. Power to exclude from hearing[^c-1ebd1ed4b075b297b2891737d0b35a02][^c-33468e22cb7111343be693b9fa73889c]
 
 In rule 24 for the words “the hearing” in the first place where they occur there are substituted the words “a hearing”.
 
-## 15. Hearing normally to be heard in public[^key-6b3d9b5bbafef5dbd0edef846a6ff679][^key-ba51c3b8811374f2df7d50167ea9998f]
+## 15. Hearing normally to be heard in public[^c-6b3d9b5bbafef5dbd0edef846a6ff679][^c-ba51c3b8811374f2df7d50167ea9998f]
 
 (1) Rule 25 is amended as follows.
 
@@ -239,11 +239,11 @@ In rule 24 for the words “the hearing” in the first place where they occur t
 
 (3) At the beginning of rule 25 for the word “The” there is substituted the word “A”.
 
-## 16. Interpretation[^key-f419157bac0143ef39d593eda65540b8][^key-2a79c494789ee03c6ad6a77c7ce2078c]
+## 16. Interpretation[^c-f419157bac0143ef39d593eda65540b8][^c-2a79c494789ee03c6ad6a77c7ce2078c]
 
 In rule 43 the definition of “appellate court” is amended by adding at the end the words “, as constituted in accordance with section 20(1B), (2) or (3) of the Measure, as the case may be”.
 
-## 17. Amendments to forms A1 and A2[^key-2e2fcd45bfa9e848de8a12eb372d3ee9][^key-ecf3c7dd8e5dfa8e652474be98b0d658]
+## 17. Amendments to forms A1 and A2[^c-2e2fcd45bfa9e848de8a12eb372d3ee9][^c-ecf3c7dd8e5dfa8e652474be98b0d658]
 
 (1) Form A1 in the Schedule to the Clergy Discipline Appeal Rules 2005 is amended as follows—
 
@@ -271,15 +271,15 @@ In rule 43 the definition of “appellate court” is amended by adding at the e
 
   .
 
-## 18. Amendment to form A3[^key-dc54365fe1e450cb9b7bc8f45881c02b][^key-b1b88cf763f9626af91d21739b69f9ce]
+## 18. Amendment to form A3[^c-dc54365fe1e450cb9b7bc8f45881c02b][^c-b1b88cf763f9626af91d21739b69f9ce]
 
 In form A3 in the Schedule to the Clergy Discipline Appeal Rules 2005 for the words “appeal within 28 days of the pronouncement in public of the decision or the imposition of the penalty” there are substituted the words “apply in time for leave to appeal”.
 
-## 19. Forms A1A and A2A[^key-326bebca4f59f2b2a01f28cd2d6a6d94][^key-82620d6e204c9262ec1b7ed920a31117]
+## 19. Forms A1A and A2A[^c-326bebca4f59f2b2a01f28cd2d6a6d94][^c-82620d6e204c9262ec1b7ed920a31117]
 
 After form A2 in the Schedule to the Clergy Discipline Appeal Rules 2005 there are inserted forms A1A and A2A set out in the Schedule to these rules.
 
-## 20. Citation and commencement[^key-9d5b363988bc0f3601bc3bface0c9f32][^key-a09612dea2c543e9eb4b823f4d585fd2]
+## 20. Citation and commencement[^c-9d5b363988bc0f3601bc3bface0c9f32][^c-a09612dea2c543e9eb4b823f4d585fd2]
 
 (1) These rules shall be known as the Clergy Discipline Appeal (Amendment) Rules 2013.
 
@@ -321,7 +321,7 @@ Clerk to the Synod
 
 5th July 2013
 
-## SCHEDULE — FORMS[^key-7c650fae699d6df8407437741f62a0b1][^key-90e96f09e5b500d639f8764f47a6bf88]
+## SCHEDULE — FORMS[^c-7c650fae699d6df8407437741f62a0b1][^c-90e96f09e5b500d639f8764f47a6bf88]
 
 Rule 19
 
@@ -339,86 +339,86 @@ These rules are made pursuant to section 26 of the Care of Churches and Ecclesia
 
 [^f00002]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
 
-[^key-4d2762dbd3d5539f808cae438efd09c1]: Commencement: Rule 1 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-4d2762dbd3d5539f808cae438efd09c1]: Commencement: Rule 1 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-97cea40cf9482a91a3710b4156fd4273]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/1921/rule/1) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-97cea40cf9482a91a3710b4156fd4273]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2013/1921/rule/1) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-124c86ada0b772d604e127c50ed5fbbb]: Commencement: Rule 2 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-124c86ada0b772d604e127c50ed5fbbb]: Commencement: Rule 2 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-83c7d229e6b7b6ff24eb1913a33e7aee]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2013/1921/rule/2) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-83c7d229e6b7b6ff24eb1913a33e7aee]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2013/1921/rule/2) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-32883b1eb5c972980f4da1ab43171ad5]: Commencement: Rule 3 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-32883b1eb5c972980f4da1ab43171ad5]: Commencement: Rule 3 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-67f9235effe752abb25ecefa4c071dac]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2013/1921/rule/3) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-67f9235effe752abb25ecefa4c071dac]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2013/1921/rule/3) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-51196c2606490135ccb551537d351462]: Commencement: Rule 4 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-51196c2606490135ccb551537d351462]: Commencement: Rule 4 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-349042b29d0ffb1570b38f9377aebba8]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2013/1921/rule/4) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-349042b29d0ffb1570b38f9377aebba8]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2013/1921/rule/4) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-a998d7d415ab133d6e9472432a187e51]: Commencement: Rule 5 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-a998d7d415ab133d6e9472432a187e51]: Commencement: Rule 5 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-dc1857791632494883976d68d118a65c]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2013/1921/rule/5) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-dc1857791632494883976d68d118a65c]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2013/1921/rule/5) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-e006dc04df45ed43041ed2c43e255f25]: Commencement: Rule 6 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-e006dc04df45ed43041ed2c43e255f25]: Commencement: Rule 6 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-9973dbec6e47760c18e7acdaa0fbb191]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2013/1921/rule/6) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-9973dbec6e47760c18e7acdaa0fbb191]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2013/1921/rule/6) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-e2cfac8c9a25572989bbcba287847e10]: Commencement: Rule 7 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-e2cfac8c9a25572989bbcba287847e10]: Commencement: Rule 7 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-80916cce3651e3f03ea089588e2dc373]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2013/1921/rule/7) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-80916cce3651e3f03ea089588e2dc373]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2013/1921/rule/7) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-477bb3f3d19d014edaec3ab85ecaabb4]: Commencement: Rule 8 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-477bb3f3d19d014edaec3ab85ecaabb4]: Commencement: Rule 8 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-05c4e0cd88b3945508c18bc47220e64d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2013/1921/rule/8) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-05c4e0cd88b3945508c18bc47220e64d]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2013/1921/rule/8) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-5f1dd4f87fa2af04d0e86db1496c7a4f]: Commencement: Rule 9 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-5f1dd4f87fa2af04d0e86db1496c7a4f]: Commencement: Rule 9 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-c57adfb803becd981e2b2fe819a405aa]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2013/1921/rule/9) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-c57adfb803becd981e2b2fe819a405aa]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2013/1921/rule/9) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-67410b01edaedf24106dee0615f69ed0]: Commencement: Rule 10 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-67410b01edaedf24106dee0615f69ed0]: Commencement: Rule 10 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-68d8e7e2389aa2bf3dbb131aea15eb62]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2013/1921/rule/10) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-68d8e7e2389aa2bf3dbb131aea15eb62]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2013/1921/rule/10) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-cba79c607243caf551fe92fc8b985332]: Commencement: Rule 11 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-cba79c607243caf551fe92fc8b985332]: Commencement: Rule 11 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-cacbca842169d9b06dbf38d8527f0b98]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2013/1921/rule/11) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-cacbca842169d9b06dbf38d8527f0b98]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2013/1921/rule/11) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-6a76a8e4559bbdb0d0f04fc9a9c715c7]: Commencement: Rule 12 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-6a76a8e4559bbdb0d0f04fc9a9c715c7]: Commencement: Rule 12 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-beded4fa3fe648fce5456202fa6da983]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2013/1921/rule/12) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-beded4fa3fe648fce5456202fa6da983]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2013/1921/rule/12) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-c7950844476988d4a992615960935896]: Commencement: Rule 13 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-c7950844476988d4a992615960935896]: Commencement: Rule 13 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-d7493b81f3661b7f9522f3b058b76cc2]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2013/1921/rule/13) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-d7493b81f3661b7f9522f3b058b76cc2]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2013/1921/rule/13) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-1ebd1ed4b075b297b2891737d0b35a02]: Commencement: Rule 14 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-1ebd1ed4b075b297b2891737d0b35a02]: Commencement: Rule 14 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-33468e22cb7111343be693b9fa73889c]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2013/1921/rule/14) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-33468e22cb7111343be693b9fa73889c]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2013/1921/rule/14) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-6b3d9b5bbafef5dbd0edef846a6ff679]: Commencement: Rule 15 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-6b3d9b5bbafef5dbd0edef846a6ff679]: Commencement: Rule 15 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-ba51c3b8811374f2df7d50167ea9998f]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2013/1921/rule/15) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-ba51c3b8811374f2df7d50167ea9998f]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2013/1921/rule/15) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-f419157bac0143ef39d593eda65540b8]: Commencement: Rule 16 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-f419157bac0143ef39d593eda65540b8]: Commencement: Rule 16 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-2a79c494789ee03c6ad6a77c7ce2078c]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2013/1921/rule/16) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-2a79c494789ee03c6ad6a77c7ce2078c]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2013/1921/rule/16) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-2e2fcd45bfa9e848de8a12eb372d3ee9]: Commencement: Rule 17 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-2e2fcd45bfa9e848de8a12eb372d3ee9]: Commencement: Rule 17 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-ecf3c7dd8e5dfa8e652474be98b0d658]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2013/1921/rule/17) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-ecf3c7dd8e5dfa8e652474be98b0d658]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2013/1921/rule/17) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-dc54365fe1e450cb9b7bc8f45881c02b]: Commencement: Rule 18 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-dc54365fe1e450cb9b7bc8f45881c02b]: Commencement: Rule 18 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-b1b88cf763f9626af91d21739b69f9ce]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2013/1921/rule/18) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-b1b88cf763f9626af91d21739b69f9ce]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2013/1921/rule/18) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-326bebca4f59f2b2a01f28cd2d6a6d94]: Commencement: Rule 19 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-326bebca4f59f2b2a01f28cd2d6a6d94]: Commencement: Rule 19 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-82620d6e204c9262ec1b7ed920a31117]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2013/1921/rule/19) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-82620d6e204c9262ec1b7ed920a31117]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2013/1921/rule/19) in force at 1.2.2014 except in relation to any complaint made before that date by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-9d5b363988bc0f3601bc3bface0c9f32]: Commencement: Rule 20 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-9d5b363988bc0f3601bc3bface0c9f32]: Commencement: Rule 20 not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-a09612dea2c543e9eb4b823f4d585fd2]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2013/1921/rule/20) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
+[^c-a09612dea2c543e9eb4b823f4d585fd2]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2013/1921/rule/20) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukci/2014/3), [art. 2](https://www.legislation.gov.uk/ukci/2014/3/article/2)
 
-[^key-7c650fae699d6df8407437741f62a0b1]: Commencement: Sch. not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
+[^c-7c650fae699d6df8407437741f62a0b1]: Commencement: Sch. not in force at made date, see [rule 20(2)](https://www.legislation.gov.uk/uksi/2013/1921/rule/20/2)
 
-[^key-90e96f09e5b500d639f8764f47a6bf88]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1921/schedule) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukcm/2014/3), [art. 2](https://www.legislation.gov.uk/ukcm/2014/3/article/2)
+[^c-90e96f09e5b500d639f8764f47a6bf88]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2013/1921/schedule) in force at 1.2.2014 by Church Instrument [2014 No. 3](https://www.legislation.gov.uk/ukcm/2014/3), [art. 2](https://www.legislation.gov.uk/ukcm/2014/3/article/2)

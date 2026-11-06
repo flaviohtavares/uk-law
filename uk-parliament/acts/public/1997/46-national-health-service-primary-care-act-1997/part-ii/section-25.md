@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fe4458a327f7594d3b7da9e41d389c08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fe4458a327f7594d3b7da9e41d389c08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the 1978 Act, after section 24, insert—
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c12086791]: Commencement: S. 25 partly in force; s. 25 not in force at Royal Assent see s. 41; s. 25(2) in force for certain puposes at 5.3.2001 (S.) by [S.S.I. 2001/58](https://www.legislation.gov.uk/ssi/2001/58), [art. 2](https://www.legislation.gov.uk/ssi/2001/58/article/2)
 
-[^key-fe4458a327f7594d3b7da9e41d389c08]: Textual amendment: S. 25(1) repealed (E.W) (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note; [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(p)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))
+[^c-fe4458a327f7594d3b7da9e41d389c08]: Textual amendment: S. 25(1) repealed (E.W) (1.4.2004) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [s. 199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note; [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [art. 6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(p)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345))
 
 [^c12086811]: Marginal citation: [1988 c. 49](https://www.legislation.gov.uk/ukpga/1988/49).

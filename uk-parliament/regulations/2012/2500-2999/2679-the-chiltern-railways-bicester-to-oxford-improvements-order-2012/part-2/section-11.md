@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Access to works[^key-7ceba761f5323e3d9ffaacbf39832dab]
+## 11. Access to works[^c-7ceba761f5323e3d9ffaacbf39832dab]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ceba761f5323e3d9ffaacbf39832dab]: Commencement: Art. 11 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-7ceba761f5323e3d9ffaacbf39832dab]: Commencement: Art. 11 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

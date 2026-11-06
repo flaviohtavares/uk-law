@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80C. Assessed amounts of overpayments etc deemed to be amounts of VAT[^key-0bfa6355a255fc6fbb9bda26ba1438cf]
+## 80C. Assessed amounts of overpayments etc deemed to be amounts of VAT[^c-0bfa6355a255fc6fbb9bda26ba1438cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bfa6355a255fc6fbb9bda26ba1438cf]: Textual amendment: [S. 80C](https://www.legislation.gov.uk/ukpga/1994/23/section/80C) inserted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [3(12)](https://www.legislation.gov.uk/uksi/2022/1298/article/3/12)
+[^c-0bfa6355a255fc6fbb9bda26ba1438cf]: Textual amendment: [S. 80C](https://www.legislation.gov.uk/ukpga/1994/23/section/80C) inserted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [3(12)](https://www.legislation.gov.uk/uksi/2022/1298/article/3/12)

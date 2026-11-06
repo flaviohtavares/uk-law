@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to fly lines from apparatus kept by another operator[^key-41a15a892ba7d2d52958bbf6712f914c][^key-9a2a15b12bea02e47be064245942c4cd]
+## 60. Power to fly lines from apparatus kept by another operator[^c-41a15a892ba7d2d52958bbf6712f914c][^c-9a2a15b12bea02e47be064245942c4cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41a15a892ba7d2d52958bbf6712f914c]: Commencement: S. 60 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-41a15a892ba7d2d52958bbf6712f914c]: Commencement: S. 60 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-9a2a15b12bea02e47be064245942c4cd]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/46/section/60) in force at 7.2.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/109/regulation/2/b)
+[^c-9a2a15b12bea02e47be064245942c4cd]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/46/section/60) in force at 7.2.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/109/regulation/2/b)

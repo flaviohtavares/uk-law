@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Advertisements[^key-5ef76a0359a0d4f56dd5da2ce5ee5b93]
+## 85. Advertisements[^c-5ef76a0359a0d4f56dd5da2ce5ee5b93]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Control of Advertisements) (Scotland) Regulations
 
 ## Annotations
 
-[^key-5ef76a0359a0d4f56dd5da2ce5ee5b93]: Commencement: Art. 85 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-5ef76a0359a0d4f56dd5da2ce5ee5b93]: Commencement: Art. 85 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00050]: Footnote: [S.I. 1984/467](https://www.legislation.gov.uk/uksi/1984/467).

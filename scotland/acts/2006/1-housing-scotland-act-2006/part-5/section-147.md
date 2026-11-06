@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. HMO amenity notices: relevant matters[^key-333bef5ddd623a5e0ec13dc39d6a60f4]
+## 147. HMO amenity notices: relevant matters[^c-333bef5ddd623a5e0ec13dc39d6a60f4]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-333bef5ddd623a5e0ec13dc39d6a60f4]: Commencement: [S. 147](https://www.legislation.gov.uk/asp/2006/1/section/147) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-333bef5ddd623a5e0ec13dc39d6a60f4]: Commencement: [S. 147](https://www.legislation.gov.uk/asp/2006/1/section/147) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

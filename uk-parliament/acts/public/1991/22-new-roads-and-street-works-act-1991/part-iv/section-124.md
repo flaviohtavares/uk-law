@@ -34,7 +34,7 @@ The power of the traffic authority to give directions under this subsection is e
 - (a) so far as an undertaker complies with such a code of practice he shall be taken to comply with that subsection; and
 - (b) a failure in any respect to comply with any such code is evidence of failure in that respect to comply with that subsection.
 
-(4) An undertaker who fails to comply with subsection (1) or (2) commits an offence and is liable on summary conviction to a fine not exceeding level 5[^key-fa894f053040b5e703765e32dd3e769c] on the standard scale.
+(4) An undertaker who fails to comply with subsection (1) or (2) commits an offence and is liable on summary conviction to a fine not exceeding level 5[^c-fa894f053040b5e703765e32dd3e769c] on the standard scale.
 
 (5) If it appears to the road works authority that an undertaker has failed to comply with subsection (1) or (2), they may take such steps as appear to them necessary and may recover from the undertaker the costs reasonably incurred by them in doing so.
 
@@ -43,7 +43,7 @@ The power of the traffic authority to give directions under this subsection is e
 - (a) takes down, alters or removes any fence, barrier, traffic sign or light erected or placed in pursuance of subsection (1) or (2) above, or
 - (b) extinguishes a light so placed,
 
-he commits an offence and is liable on summary conviction to a fine not exceeding level 5[^key-1bfa1d59fcb6a4bc6dbc8a963d9d1fc1] on the standard scale.
+he commits an offence and is liable on summary conviction to a fine not exceeding level 5[^c-1bfa1d59fcb6a4bc6dbc8a963d9d1fc1] on the standard scale.
 
 ## Annotations
 
@@ -51,6 +51,6 @@ he commits an offence and is liable on summary conviction to a fine not exceedin
 
 [^c14150481]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-fa894f053040b5e703765e32dd3e769c]: Textual amendment: Words in [s. 124(4)](https://www.legislation.gov.uk/ukpga/1991/22/section/124/4) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-fa894f053040b5e703765e32dd3e769c]: Textual amendment: Words in [s. 124(4)](https://www.legislation.gov.uk/ukpga/1991/22/section/124/4) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
 
-[^key-1bfa1d59fcb6a4bc6dbc8a963d9d1fc1]: Textual amendment: Words in [s. 124(6)](https://www.legislation.gov.uk/ukpga/1991/22/section/124/6) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-1bfa1d59fcb6a4bc6dbc8a963d9d1fc1]: Textual amendment: Words in [s. 124(6)](https://www.legislation.gov.uk/ukpga/1991/22/section/124/6) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

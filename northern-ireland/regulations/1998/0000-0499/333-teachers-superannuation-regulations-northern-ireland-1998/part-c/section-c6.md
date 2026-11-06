@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C6. Additional contributions for current period[^key-d90b5026e0715f138f4fb2d7ce0fb0d2]
+## C6. Additional contributions for current period[^c-d90b5026e0715f138f4fb2d7ce0fb0d2]
 
 *Extent: N.I.*
 
@@ -85,6 +85,6 @@ after the cessation of his pensionable employment or, if later, the end of a pre
 
 ## Annotations
 
-[^key-d90b5026e0715f138f4fb2d7ce0fb0d2]: Commencement: Reg. C6 in operation at 2.11.1998, see reg. A1
+[^c-d90b5026e0715f138f4fb2d7ce0fb0d2]: Commencement: Reg. C6 in operation at 2.11.1998, see reg. A1
 
 [^f00012]: Footnote: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980)

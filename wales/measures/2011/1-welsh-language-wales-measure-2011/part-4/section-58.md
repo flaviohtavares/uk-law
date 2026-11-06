@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Right of appeal[^key-c8f737aac747132398ea3456755ad23f]
+## 58. Right of appeal[^c-c8f737aac747132398ea3456755ad23f]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8f737aac747132398ea3456755ad23f]: Commencement: [S. 58](https://www.legislation.gov.uk/mwa/2011/1/section/58) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-c8f737aac747132398ea3456755ad23f]: Commencement: [S. 58](https://www.legislation.gov.uk/mwa/2011/1/section/58) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

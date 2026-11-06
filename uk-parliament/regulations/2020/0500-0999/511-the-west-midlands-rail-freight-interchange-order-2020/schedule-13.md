@@ -254,7 +254,7 @@ The provisions of this Part of this Schedule have effect, and apply to the trunk
 
 (4) No work must commence on any phase of the trunk road works until Highways England has agreed the bond sum for that phase and the undertaker has provided security for the carrying out of those works as provided for in paragraph 9 of this Part of this Schedule or some other form of security acceptable to Highways England.
 
-(5) No work must commence on any phase of the trunk road works until Stage 1 and Stage 2 Road Safety Audits have been carried out in respect of that phase and all recommendations raised incorporated into an amended design approved by Highways England or secured by agreement with Highways England pursuant to article 20 (agreements with highway authorities)[^key-e076d2f264ededf66ad8b0fa0cd20fe9] or any relevant exceptions approved by Highways England.
+(5) No work must commence on any phase of the trunk road works until Stage 1 and Stage 2 Road Safety Audits have been carried out in respect of that phase and all recommendations raised incorporated into an amended design approved by Highways England or secured by agreement with Highways England pursuant to article 20 (agreements with highway authorities)[^c-e076d2f264ededf66ad8b0fa0cd20fe9] or any relevant exceptions approved by Highways England.
 
 (6) No work must commence on any phase of the trunk road works until the undertaker demonstrates to the satisfaction of Highways England that the walking, cycling and horse riding assessment and review process for that phase has been adhered to in accordance with the Design Manual for Roads and Bridges Standard HD 42/17 or any successor document.
 
@@ -910,15 +910,15 @@ If any material damage to the parties' premises or any of them is caused by the 
   - (a) the agreement dated 3 August 2018 between the SI Group and Four Ashes Limited; or
   - (b) such other written agreement made between the SI Group and Four Ashes Limited from time to time.
 
-**3.** Subject to paragraph 7 [^key-afb8d426a1d1c84e916719667cf78b09]... of this Part of this Schedule the undertaker must not exercise any powers in accordance with this Order or the powers conferred by section 11(3) (powers of entry) of the 1965 Act in respect of the SI Group's interests in the SI land or SI facility, or those interests which benefit those interests, including all rights, wayleaves and easements enjoyed by the SI Group in relation to the SI land and/or SI facility pursuant to—
+**3.** Subject to paragraph 7 [^c-afb8d426a1d1c84e916719667cf78b09]... of this Part of this Schedule the undertaker must not exercise any powers in accordance with this Order or the powers conferred by section 11(3) (powers of entry) of the 1965 Act in respect of the SI Group's interests in the SI land or SI facility, or those interests which benefit those interests, including all rights, wayleaves and easements enjoyed by the SI Group in relation to the SI land and/or SI facility pursuant to—
 
 - (a) article 13 (accesses);
 - (b) article 21 (discharge of water);
 - (c) article 22 (authority to survey and investigate the land);
 - (d) article 24 (compulsory acquisition of land);
 - (e) article 25 (compulsory acquisition of rights);
-- (f) article 26[^key-d8091f331cc0ce90fd1a8c3828e709db] (private rights);
-- (g) article 27[^key-e39767fab827d3723e0939398a3d8e94] (power to override easements and other rights);
+- (f) article 26[^c-d8091f331cc0ce90fd1a8c3828e709db] (private rights);
+- (g) article 27[^c-e39767fab827d3723e0939398a3d8e94] (power to override easements and other rights);
 - (h) article 33 (rights under and over streets);
 - (i) article 34 (temporary use of land for carrying out the authorised development);
 - (j) article 35 (temporary use of land for maintaining the authorised development); and/or
@@ -1529,17 +1529,17 @@ Where in consequence of the proposed construction of any of the authorised devel
 
 [^c24099451]: Marginal citation: [Section 272](https://www.legislation.gov.uk/uksi/2020/511/section/272) was amended by paragraph 103(1) and (2) of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-e076d2f264ededf66ad8b0fa0cd20fe9]: Textual amendment: Words in [Sch. 13 Pt. 2 para. 3(5)](https://www.legislation.gov.uk/uksi/2020/511/schedule/13/part/2/paragraph/3/5) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(12)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/12)
+[^c-e076d2f264ededf66ad8b0fa0cd20fe9]: Textual amendment: Words in [Sch. 13 Pt. 2 para. 3(5)](https://www.legislation.gov.uk/uksi/2020/511/schedule/13/part/2/paragraph/3/5) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(12)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/12)
 
 [^c24099461]: Marginal citation: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 
 [^c24099471]: Marginal citation: [S.I. 2015/51](https://www.legislation.gov.uk/uksi/2015/51).
 
-[^key-afb8d426a1d1c84e916719667cf78b09]: Textual amendment: Word in Sch. 13 Pt. 6 para. 3 omitted (21.10.2020) by virtue of [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/13/a)
+[^c-afb8d426a1d1c84e916719667cf78b09]: Textual amendment: Word in Sch. 13 Pt. 6 para. 3 omitted (21.10.2020) by virtue of [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/13/a)
 
-[^key-d8091f331cc0ce90fd1a8c3828e709db]: Textual amendment: Word in Sch. 13 Pt. 6 para. 3(f) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(13)(b)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/13/b)
+[^c-d8091f331cc0ce90fd1a8c3828e709db]: Textual amendment: Word in Sch. 13 Pt. 6 para. 3(f) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(13)(b)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/13/b)
 
-[^key-e39767fab827d3723e0939398a3d8e94]: Textual amendment: Word in Sch. 13 Pt. 6 para. 3(g) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(13)(c)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/13/c)
+[^c-e39767fab827d3723e0939398a3d8e94]: Textual amendment: Word in Sch. 13 Pt. 6 para. 3(g) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(13)(c)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/13/c)
 
 [^c24099501]: Marginal citation: [Section 272](https://www.legislation.gov.uk/uksi/2020/511/section/272) was amended by paragraph 103(1) and (2) of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 

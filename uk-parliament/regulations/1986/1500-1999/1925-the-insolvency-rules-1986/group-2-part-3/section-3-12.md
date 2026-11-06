@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.12. Admission and rejection of claim[^key-24e03db485411aee5281983294cd1356]
+## 3.12. Admission and rejection of claim[^c-24e03db485411aee5281983294cd1356]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24e03db485411aee5281983294cd1356]: Commencement: [Rule 3.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-24e03db485411aee5281983294cd1356]: Commencement: [Rule 3.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

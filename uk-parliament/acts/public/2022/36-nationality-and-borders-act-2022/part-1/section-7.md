@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Citizenship where mother married to someone other than natural father[^key-07f89411b5d1003775a987e113c40a54][^key-4c8a3ab1decaa8e6dbbe99475f75f2d6]
+## 7. Citizenship where mother married to someone other than natural father[^c-07f89411b5d1003775a987e113c40a54][^c-4c8a3ab1decaa8e6dbbe99475f75f2d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07f89411b5d1003775a987e113c40a54]: Commencement: S. 7 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-07f89411b5d1003775a987e113c40a54]: Commencement: S. 7 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-4c8a3ab1decaa8e6dbbe99475f75f2d6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/36/section/7) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/6)
+[^c-4c8a3ab1decaa8e6dbbe99475f75f2d6]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/36/section/7) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/6)

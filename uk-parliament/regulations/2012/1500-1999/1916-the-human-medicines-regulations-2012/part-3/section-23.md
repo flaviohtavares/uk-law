@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to the following provisions of these Regulations, on an application to the licensing authority for a licence under this Part the licensing authority may—
 
 - (a) grant a licence containing such provisions as it considers appropriate; or
-- (b) refuse to grant a licence if having regard to the provisions of these Regulations [^key-c92c6eb37b0e8fa32615fd313b091b16]... it considers it necessary or appropriate to do so.
+- (b) refuse to grant a licence if having regard to the provisions of these Regulations [^c-c92c6eb37b0e8fa32615fd313b091b16]... it considers it necessary or appropriate to do so.
 
 (2) The licensing authority must grant or refuse an application for a licence under this Part within the period of 90 days beginning immediately after the day on which it receives the application.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c92c6eb37b0e8fa32615fd313b091b16]: Textual amendment: Words in [reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/23/1/b) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/775/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c92c6eb37b0e8fa32615fd313b091b16]: Textual amendment: Words in [reg. 23(1)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/23/1/b) omitted (31.12.2020) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/775/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

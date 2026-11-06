@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Statutory undertakers[^key-c8e1c7bd07828a575874ea531182ad4f]
+## 40. Statutory undertakers[^c-c8e1c7bd07828a575874ea531182ad4f]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8e1c7bd07828a575874ea531182ad4f]: Commencement: Art. 40 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-c8e1c7bd07828a575874ea531182ad4f]: Commencement: Art. 40 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00072]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22). Part 3 was amended by [2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18) perspective changes to Part 3 are still to come into force, [S.I. 2007/1952](https://www.legislation.gov.uk/uksi/2007/1952), [S.I. 2008/102](https://www.legislation.gov.uk/uksi/2008/102) (w. 55) and [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).

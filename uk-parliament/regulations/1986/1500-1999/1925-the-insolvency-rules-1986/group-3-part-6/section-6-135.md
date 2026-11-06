@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.135. Release of resigning or removed trustee[^key-46dd544085dabc1d02672bd95d0d92ac]
+## 6.135. Release of resigning or removed trustee[^c-46dd544085dabc1d02672bd95d0d92ac]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46dd544085dabc1d02672bd95d0d92ac]: Commencement: [Rule 6.135](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.135) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-46dd544085dabc1d02672bd95d0d92ac]: Commencement: [Rule 6.135](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.135) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00171]: Marginal citation: \[FORM 6.49\]

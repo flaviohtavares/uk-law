@@ -39,15 +39,15 @@ Parliamentary and Other Pensions Act 1972
 
 ## Part II — Prime Minister, Speaker and Lord Chancellor
 
-### 26. Pensions of Prime Minister and Speaker.[^key-ca17fb77f444136040df7c2a1486f156]
+### 26. Pensions of Prime Minister and Speaker.[^c-ca17fb77f444136040df7c2a1486f156]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Pensions for dependants of Prime Minister or Speaker.[^key-ca17fb77f444136040df7c2a1486f156]
+### 27. Pensions for dependants of Prime Minister or Speaker.[^c-ca17fb77f444136040df7c2a1486f156]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Pension of Lord Chancellor.[^key-ca17fb77f444136040df7c2a1486f156]
+### 28. Pension of Lord Chancellor.[^c-ca17fb77f444136040df7c2a1486f156]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -57,7 +57,7 @@ Parliamentary and Other Pensions Act 1972
 
 ## Part III — Miscellaneous and Supplementary
 
-### 31. Provisions as to Pensions (Increase) Act 1971.[^key-eb8e56ca9ac42ed583d4dfc90ccaa3dd]
+### 31. Provisions as to Pensions (Increase) Act 1971.[^c-eb8e56ca9ac42ed583d4dfc90ccaa3dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -81,11 +81,11 @@ Parliamentary and Other Pensions Act 1972
 
 (2) Except in so far as the context otherwise requires, any reference in this Act to an enactment shall be construed as a reference to that enactment as amended or extended by or under any other enactment.
 
-### 36. Amendments, repeals and savings.[^key-8818195c8700b71bdb9a6ff21e61b527]
+### 36. Amendments, repeals and savings.[^c-8818195c8700b71bdb9a6ff21e61b527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Short title.[^key-8818195c8700b71bdb9a6ff21e61b527]
+### 37. Short title.[^c-8818195c8700b71bdb9a6ff21e61b527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,7 +105,7 @@ SCHEDULES
 
 [^c822985]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1972/48/part/I) (ss. 1–25) repealed (with saving) by Parliamentary and other [Pensions Act 1987 (c. 45, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/45), [s. 6](https://www.legislation.gov.uk/ukpga/1987/45/section/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/45/schedule/4) (with 2, 3(6), Sch. 2, Sch. 3 para. 1(4).As saved, Pt. I has been amended or revoked by the following S.I.'s; [S.I.1991/609](https://www.legislation.gov.uk/uksi/1991/609) (2.4.1991), [S.I.1992/599](https://www.legislation.gov.uk/uksi/1992/599) (1.4.1992) and1993/3253 (21.1.1994)
 
-[^key-ca17fb77f444136040df7c2a1486f156]: Textual amendment: Ss. 26-28 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/5) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-ca17fb77f444136040df7c2a1486f156]: Textual amendment: Ss. 26-28 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/5) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c823009]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/1972/48/section/29) repealed (28.2.1991 with application as mentioned in s. 1(4) of the repealing Act) by Ministerial and other [Pensions and Salaries Act 1991 (c. 5,SIF 89)](https://www.legislation.gov.uk/ukpga/1991/5), [s. 1(3)(4)](https://www.legislation.gov.uk/ukpga/1991/5/section/1/3/4)
 
@@ -113,7 +113,7 @@ SCHEDULES
 
     [S. 30](https://www.legislation.gov.uk/ukpga/1972/48/section/30) (as saved) revoked (21.1.1994) (with reg. R5, Sch. 7 Pt. III) by [S.I. 1993/3253](https://www.legislation.gov.uk/uksi/1993/3253), [reg. R5](https://www.legislation.gov.uk/uksi/1993/3253/regulation/R5), [Sch. 7 Pt.1](https://www.legislation.gov.uk/uksi/1993/3253/schedule/7/part/1)
 
-[^key-eb8e56ca9ac42ed583d4dfc90ccaa3dd]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/1972/48/section/31) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-eb8e56ca9ac42ed583d4dfc90ccaa3dd]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/1972/48/section/31) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c2011980]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1972/48/section/32) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
@@ -125,7 +125,7 @@ SCHEDULES
 
 [^c823021]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1972/48/section/35): Definitions repealed (with saving) by Parliamentary and other [Pensions Act 1987 (c. 45, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/45), [ss. 2](https://www.legislation.gov.uk/ukpga/1987/45/section/2), [6](https://www.legislation.gov.uk/ukpga/1987/45/section/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/45/schedule/2), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/ukpga/1987/45/schedule/3/paragraph/1/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/45/schedule/4), and s. 35 as having effect as mentioned in that Sch. 2, revoked (21.1.1994)(with reg. R5, Sch. 7 Pt. III) by [S.I. 1993/3253](https://www.legislation.gov.uk/uksi/1993/3253), [reg. R5](https://www.legislation.gov.uk/uksi/1993/3253/regulation/R5), [Sch. 7 Pt.1](https://www.legislation.gov.uk/uksi/1993/3253/schedule/7/part/1)
 
-[^key-8818195c8700b71bdb9a6ff21e61b527]: Textual amendment: Ss. 36, 37 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-8818195c8700b71bdb9a6ff21e61b527]: Textual amendment: Ss. 36, 37 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c823028]: Textual amendment: [Ss. 30](https://www.legislation.gov.uk/ukpga/1972/48/section/30), [31(5)](https://www.legislation.gov.uk/ukpga/1972/48/section/31/5), [33](https://www.legislation.gov.uk/ukpga/1972/48/section/33), [34](https://www.legislation.gov.uk/ukpga/1972/48/section/34), [36(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1972/48/section/36/1/2/4), [Schs. 1–4](https://www.legislation.gov.uk/ukpga/1972/48/schedule/1) repealed (with saving) by Parliamentary and other [Pensions Act 1987 (c. 45, SIF 89)](https://www.legislation.gov.uk/ukpga/1987/45), [ss. 2](https://www.legislation.gov.uk/ukpga/1987/45/section/2), [6](https://www.legislation.gov.uk/ukpga/1987/45/section/6), [Sch. 2](https://www.legislation.gov.uk/ukpga/1987/45/schedule/2), [Sch. 3 para. 1(4)](https://www.legislation.gov.uk/ukpga/1987/45/schedule/3/paragraph/1/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/1987/45/schedule/4)
 

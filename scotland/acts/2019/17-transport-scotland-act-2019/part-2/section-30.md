@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Direction to carry out a review[^key-28f402d79b133ac3f39c792a48e1e54e]
+## 30. Direction to carry out a review[^c-28f402d79b133ac3f39c792a48e1e54e]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28f402d79b133ac3f39c792a48e1e54e]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2019/17/section/30) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-28f402d79b133ac3f39c792a48e1e54e]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2019/17/section/30) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

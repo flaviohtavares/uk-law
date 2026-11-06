@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Inspection of religious education: England[^key-b8a477cb9cc7a8ad04ff8c55681e46fa]
+## 48. Inspection of religious education: England[^c-b8a477cb9cc7a8ad04ff8c55681e46fa]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ are inspected under this section.
 - (a) in the case of a voluntary controlled school, by the foundation governors after consultation with any person prescribed for the purposes of this subsection in relation to the religion or religious denomination that is specified in relation to the school under section 69(4) of the School Standards and Framework Act 1998, and
 - (b) in any other case, by the governing body after consultation with any person so prescribed.
 
-(3)[^key-1c80e66db8452e751640951a7bc2ac39] Inspections under this section must be carried out at such intervals as may be prescribed.
+(3)[^c-1c80e66db8452e751640951a7bc2ac39] Inspections under this section must be carried out at such intervals as may be prescribed.
 
 (4) It is the general duty of a person conducting an inspection under this section—
 
@@ -50,6 +50,6 @@ and any such person may report on the spiritual, moral, social and cultural deve
 
 ## Annotations
 
-[^key-b8a477cb9cc7a8ad04ff8c55681e46fa]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/2005/18/section/48): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-b8a477cb9cc7a8ad04ff8c55681e46fa]: Modification: [S. 48](https://www.legislation.gov.uk/ukpga/2005/18/section/48): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-1c80e66db8452e751640951a7bc2ac39]: Modification: [S. 48(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/48/3): power to disapply conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-1c80e66db8452e751640951a7bc2ac39]: Modification: [S. 48(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/48/3): power to disapply conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))

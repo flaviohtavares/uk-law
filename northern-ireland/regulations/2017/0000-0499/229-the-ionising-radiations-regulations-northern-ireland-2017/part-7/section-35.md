@@ -36,16 +36,16 @@ summary: ''
 
 (6) Where an employee has reasonable cause to believe that—
 
-- (a) they or some other person has received an overexposure or[^key-cba3489651a6dc85325582f2cdc2e939] ;
-- (b) an occurrence mentioned in paragraph (1) or (3) of regulation 31 has occurred; [^key-533ae1b9316591351c14784c916cbc61]...
-- (c)[^key-addb0f0f5c514da6599a5ee5e60eded4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) they or some other person has received an overexposure or[^c-cba3489651a6dc85325582f2cdc2e939] ;
+- (b) an occurrence mentioned in paragraph (1) or (3) of regulation 31 has occurred; [^c-533ae1b9316591351c14784c916cbc61]...
+- (c)[^c-addb0f0f5c514da6599a5ee5e60eded4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 they shall immediately notify their employer of that belief.
 
 ## Annotations
 
-[^key-cba3489651a6dc85325582f2cdc2e939]: Textual amendment: Word in [reg. 35(6)(a)](https://www.legislation.gov.uk/nisr/2017/229/regulation/35/6/a) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(5)(a)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/5/a)
+[^c-cba3489651a6dc85325582f2cdc2e939]: Textual amendment: Word in [reg. 35(6)(a)](https://www.legislation.gov.uk/nisr/2017/229/regulation/35/6/a) inserted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(5)(a)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/5/a)
 
-[^key-533ae1b9316591351c14784c916cbc61]: Textual amendment: Word in [reg. 35(6)(b)](https://www.legislation.gov.uk/nisr/2017/229/regulation/35/6/b) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(5)(b)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/5/b)
+[^c-533ae1b9316591351c14784c916cbc61]: Textual amendment: Word in [reg. 35(6)(b)](https://www.legislation.gov.uk/nisr/2017/229/regulation/35/6/b) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(5)(b)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/5/b)
 
-[^key-addb0f0f5c514da6599a5ee5e60eded4]: Textual amendment: [Reg. 35(6)(c)](https://www.legislation.gov.uk/nisr/2017/229/regulation/35/6/c) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(5)(c)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/5/c)
+[^c-addb0f0f5c514da6599a5ee5e60eded4]: Textual amendment: [Reg. 35(6)(c)](https://www.legislation.gov.uk/nisr/2017/229/regulation/35/6/c) omitted (6.2.2018) by virtue of [The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 (S.R. 2018/17)](https://www.legislation.gov.uk/nisr/2018/17), [reg. 1](https://www.legislation.gov.uk/nisr/2018/17/regulation/1), [Sch. 4 para. 1(5)(c)](https://www.legislation.gov.uk/nisr/2018/17/schedule/4/paragraph/1/5/c)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32I. Contributions under alternative requirements during transitional periods[^key-021bf0aea326ae513867e96a32ed0baf]
+## 32I. Contributions under alternative requirements during transitional periods[^c-021bf0aea326ae513867e96a32ed0baf]
 
 *Extent: E+W+S*
 
-(1) During the first transitional period referred to in section 29(1) and the second transitional period referred to in section 29(3) of the Act[^key-02fc433556433c9b94b1466cdc893396]... there are substituted for the percentages referred to in the provisions in the first column of the table below the percentage shown in the corresponding entry for the transitional period in question.
+(1) During the first transitional period referred to in section 29(1) and the second transitional period referred to in section 29(3) of the Act[^c-02fc433556433c9b94b1466cdc893396]... there are substituted for the percentages referred to in the provisions in the first column of the table below the percentage shown in the corresponding entry for the transitional period in question.
 
 | Provision of Regulations | 1st Transitional Period | 2nd Transitional Period |
 | --- | --- | --- |
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
 
-[^key-02fc433556433c9b94b1466cdc893396]: Textual amendment: Words in reg. 32I(1) omitted (1.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2014 (S.I. 2014/715)](https://www.legislation.gov.uk/uksi/2014/715), [regs. 1](https://www.legislation.gov.uk/uksi/2014/715/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/715/regulation/2/2)
+[^c-02fc433556433c9b94b1466cdc893396]: Textual amendment: Words in reg. 32I(1) omitted (1.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2014 (S.I. 2014/715)](https://www.legislation.gov.uk/uksi/2014/715), [regs. 1](https://www.legislation.gov.uk/uksi/2014/715/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/715/regulation/2/2)

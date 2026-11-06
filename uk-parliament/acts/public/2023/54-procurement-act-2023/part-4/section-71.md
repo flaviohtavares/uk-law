@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Assessment of contract performance[^key-b2cfe56bb1accb87f924cb9451da1ed9][^key-a663fee9e9def14e088c2f7cbff05339]
+## 71. Assessment of contract performance[^c-b2cfe56bb1accb87f924cb9451da1ed9][^c-a663fee9e9def14e088c2f7cbff05339]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2cfe56bb1accb87f924cb9451da1ed9]: Commencement: S. 71 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-b2cfe56bb1accb87f924cb9451da1ed9]: Commencement: S. 71 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-a663fee9e9def14e088c2f7cbff05339]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/54/section/71) in force at 1.1.2026 for specified purposes by [S.I. 2025/1316](https://www.legislation.gov.uk/uksi/2025/1316), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1316/regulation/2/1/b)
+[^c-a663fee9e9def14e088c2f7cbff05339]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/54/section/71) in force at 1.1.2026 for specified purposes by [S.I. 2025/1316](https://www.legislation.gov.uk/uksi/2025/1316), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/1316/regulation/2/1/b)

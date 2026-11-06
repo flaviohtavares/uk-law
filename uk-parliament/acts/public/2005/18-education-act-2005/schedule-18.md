@@ -35,7 +35,7 @@ Section 117
 
 ### Education Act 1996 (c. 56)
 
-**2.**[^c19227471] In section 317 of the Education Act 1996 (duties of governing body or local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] in relation to pupils with special educational needs), for subsections (5) to (7A) substitute—
+**2.**[^c19227471] In section 317 of the Education Act 1996 (duties of governing body or local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] in relation to pupils with special educational needs), for subsections (5) to (7A) substitute—
 
 > (5) The governing body of a community, foundation or voluntary school, a maintained nursery school, or a community or foundation special school shall—
 >
@@ -64,7 +64,7 @@ Section 117
 
 **4.** The references in section 23(9) and (10) of the Anti-social Behaviour Act 2003 (c. 38) to section 444A of the Education Act 1996 are to be read as references to that section as amended by paragraph 3 of this Schedule.
 
-**5.**[^c19808151][^key-b2a732228cbdc14a3109cdd4f8ccc91c] (1) Section 494 of the Education Act 1996 (recoupment: excluded pupils) is amended as follows.
+**5.**[^c19808151][^c-b2a732228cbdc14a3109cdd4f8ccc91c] (1) Section 494 of the Education Act 1996 (recoupment: excluded pupils) is amended as follows.
 
 (2) In subsections (1), (2) and (3), for “financial year” substitute “ funding period ”.
 
@@ -83,15 +83,15 @@ Section 117
 
 ### School Standards and Framework Act 1998 (c. 31)
 
-**7.**[^c19631851][^key-f45b8c20e6abf5f3f44002535022c40d] In section 48 of the School Standards and Framework Act 1998 (local authorities[^key-a2173b6f678e4942b640e80d5cd628b4]' financial schemes) in subsection (2)(a) for “financial year” substitute “ funding period ”.
+**7.**[^c19631851][^c-f45b8c20e6abf5f3f44002535022c40d] In section 48 of the School Standards and Framework Act 1998 (local authorities[^c-a2173b6f678e4942b640e80d5cd628b4]' financial schemes) in subsection (2)(a) for “financial year” substitute “ funding period ”.
 
-**8.**[^c19631931][^key-a6c16ec75c2d96985f58bac4d438d173] In section 50 of the School Standards and Framework Act 1998 (effect of financial delegation) in subsection (1)—
+**8.**[^c19631931][^c-a6c16ec75c2d96985f58bac4d438d173] In section 50 of the School Standards and Framework Act 1998 (effect of financial delegation) in subsection (1)—
 
 - (a) for “financial year” substitute “ funding period ”,
 - (b) for “that year” substitute “ that period ”, and
 - (c) in paragraphs (a) and (b) for “year”, wherever occurring, substitute “ period ”.
 
-**9.**[^c19631941][^key-0ddcc820caa14028ff17aeb88a04c9f8] In section 51A of the School Standards and Framework Act 1998 (expenditure incurred for community purposes) in subsection (2) for “financial year” substitute “ funding period ”.
+**9.**[^c19631941][^c-0ddcc820caa14028ff17aeb88a04c9f8] In section 51A of the School Standards and Framework Act 1998 (expenditure incurred for community purposes) in subsection (2) for “financial year” substitute “ funding period ”.
 
 **10.**[^c19631951] (1) Section 52 of the School Standards and Framework Act 1998 (financial statements) is amended as follows.
 
@@ -116,7 +116,7 @@ Section 117
 
 > (2B) The periods prescribed for the purposes of subsection (2) must consist of one or more funding periods.
 
-**11.**[^c19631971][^key-8635e5b394551018894a87f17107872b] (1) In Schedule 15 to the School Standards and Framework Act 1998 (suspension of financial delegation), paragraph 2 is amended as follows.
+**11.**[^c19631971][^c-8635e5b394551018894a87f17107872b] (1) In Schedule 15 to the School Standards and Framework Act 1998 (suspension of financial delegation), paragraph 2 is amended as follows.
 
 (2) In sub-paragraph (1)(a)—
 
@@ -139,11 +139,11 @@ Section 117
 >
 > “**schools budget**” has the same meaning as in Part 2 of that Act (framework for maintained schools).
 
-**13.**[^key-39fd366be6a46ac9850911efc663c01e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-39fd366be6a46ac9850911efc663c01e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 2002 (c. 32)
 
-**14.**[^c19631991][^key-204e12210d18da176bb0816c4c80d6ca] (1) Section 37 of the 2002 Act (payments in respect of dismissal etc.) is amended as follows.
+**14.**[^c19631991][^c-204e12210d18da176bb0816c4c80d6ca] (1) Section 37 of the 2002 Act (payments in respect of dismissal etc.) is amended as follows.
 
 (2) In subsection (4), for “financial years” substitute “ funding periods ”.
 
@@ -171,40 +171,40 @@ Section 117
 
 [^c19227471]: Modification: Sch. 18 para. 2 restricted (E.) (1.9.2005) by [The Education Act 2005 (Commencement No.1 and Savings and Transitional Provisions) Order 2005 (S. I. 2005/2034)](https://www.legislation.gov.uk/uksi/2005/2034), [art. 10](https://www.legislation.gov.uk/uksi/2005/2034/article/10), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/2034/schedule/paragraph/2)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19808151]: Commencement: Sch. 18 para. 5 partly in force; Sch.18 para. 5 not in force at Royal Assent see s. 125; Sch. 18 para. 5 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-b2a732228cbdc14a3109cdd4f8ccc91c]: Commencement: Sch. 18 para. 5 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
+[^c-b2a732228cbdc14a3109cdd4f8ccc91c]: Commencement: Sch. 18 para. 5 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
 
 [^c19271061]: Commencement: Sch. 18 para. 6 wholly in force at 1.9.2006; Sch. 18 para. 6 not in force at Royal Assent see s. 125; Sch. 18 para. 6 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 18 para. 6 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
 [^c19631851]: Commencement: Sch. 18 para. 7 partly in force; Sch.18 para. 7 not in force at Royal Assent see s. 125; Sch. 18 para. 7 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8);
 
-[^key-f45b8c20e6abf5f3f44002535022c40d]: Commencement: Sch. 18 para. 7 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
+[^c-f45b8c20e6abf5f3f44002535022c40d]: Commencement: Sch. 18 para. 7 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
 
-[^key-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
+[^c-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
 
 [^c19631931]: Commencement: Sch. 18 para. 8 partly in force; Sch.18 para. 8 not in force at Royal Assent see s. 125; Sch. 18 para. 8 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-a6c16ec75c2d96985f58bac4d438d173]: Commencement: Sch. 18 para. 8 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
+[^c-a6c16ec75c2d96985f58bac4d438d173]: Commencement: Sch. 18 para. 8 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
 
 [^c19631941]: Commencement: Sch. 18 para. 9 partly in force; Sch.18 para. 9 not in force at Royal Assent see s. 125; Sch. 18 para. 9 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-0ddcc820caa14028ff17aeb88a04c9f8]: Commencement: Sch. 18 para. 9 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
+[^c-0ddcc820caa14028ff17aeb88a04c9f8]: Commencement: Sch. 18 para. 9 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
 
 [^c19631951]: Commencement: Sch. 18 para. 10 partly in force; Sch.18 para. 10 not in force at Royal Assent see s. 125; Sch. 18 para. 10 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
 [^c19631971]: Commencement: Sch. 18 para. 11 partly in force; Sch.18 para. 11 not in force at Royal Assent see s. 125; Sch. 18 para. 11 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8);
 
-[^key-8635e5b394551018894a87f17107872b]: Commencement: Sch. 18 para. 11 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
+[^c-8635e5b394551018894a87f17107872b]: Commencement: Sch. 18 para. 11 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
 
 [^c19631981]: Commencement: Sch.18 para. 12 not in force at Royal Assent see s. 125; Sch. 18 para. 12 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8);
 
-[^key-39fd366be6a46ac9850911efc663c01e]: Textual amendment: Sch. 18 para. 13 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(15)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/15) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxviii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxviii)
+[^c-39fd366be6a46ac9850911efc663c01e]: Textual amendment: Sch. 18 para. 13 omitted (1.4.2026) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(15)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/15) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxviii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxviii)
 
 [^c19631991]: Commencement: Sch. 18 para. 14 partly in force; Sch.18 para. 14 not in force at Royal Assent see s. 125; Sch. 14 para. 8 in force for E. at 1.11.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 8](https://www.legislation.gov.uk/uksi/2005/2034/article/8)
 
-[^key-204e12210d18da176bb0816c4c80d6ca]: Commencement: Sch. 18 para. 14 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
+[^c-204e12210d18da176bb0816c4c80d6ca]: Commencement: Sch. 18 para. 14 in force at 1.4.2010 for W. by [S.I. 2010/735](https://www.legislation.gov.uk/uksi/2010/735), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/735/article/2/e)
 
 [^c19271081]: Commencement: Sch. 18 para. 15 wholly in force at 1.9.2006; Sch. 18 para. 15 not in force at Royal Assent see s. 125; Sch. 18 para. 15 in force for E. at 1. 9. 2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); Sch. 18 para. 15 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)

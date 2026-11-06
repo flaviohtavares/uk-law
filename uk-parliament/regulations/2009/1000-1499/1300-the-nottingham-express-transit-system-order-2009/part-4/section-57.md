@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Tramcars deemed public service vehicles[^key-7945f932bdfb964765b2d7e172cbeb01]
+## 57. Tramcars deemed public service vehicles[^c-7945f932bdfb964765b2d7e172cbeb01]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ and the day so fixed shall not be earlier than the expiration of 28 days from th
 
 ## Annotations
 
-[^key-7945f932bdfb964765b2d7e172cbeb01]: Commencement: Art. 57 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-7945f932bdfb964765b2d7e172cbeb01]: Commencement: Art. 57 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00040]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 

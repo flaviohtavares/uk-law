@@ -38,7 +38,7 @@ summary: ''
 >
 > **112B. Power to make order**
 >
-> (1) The county court[^key-45764fda1613f9c9a81bb01afba64114] may make an administration order if the conditions in subsections (2) to (7) are met.
+> (1) The county court[^c-45764fda1613f9c9a81bb01afba64114] may make an administration order if the conditions in subsections (2) to (7) are met.
 >
 > (2) The order must be made in respect of an individual who is a debtor under two or more qualifying debts.
 >
@@ -70,9 +70,9 @@ summary: ''
 > - (a) an administration order is made, and
 > - (b) when the order is made, the debt is taken into account in calculating the total amount of the debtor's qualifying debts for the purposes of section 112B(6).
 >
-> (2) If the declared debt is already due at the time the administration order is made, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the debt to the order when the order is made.
+> (2) If the declared debt is already due at the time the administration order is made, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the debt to the order when the order is made.
 >
-> (3) If the declared debt becomes due after the administration order is made, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the debt to the order if the debtor, or the creditor under the debt, applies to the court for the debt to be scheduled.
+> (3) If the declared debt becomes due after the administration order is made, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the debt to the order if the debtor, or the creditor under the debt, applies to the court for the debt to be scheduled.
 >
 > (4) This section is subject to section 112AG(5).
 >
@@ -83,7 +83,7 @@ summary: ''
 > - (a) arises after an administration order is made, and
 > - (b) becomes due during the currency of the order.
 >
-> (2) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court may schedule the new debt to the administration order if these conditions are met—
+> (2) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court may schedule the new debt to the administration order if these conditions are met—
 >
 > - (a) the debtor, or the creditor under the new debt, applies to the court for the debt to be scheduled;
 > - (b) the total amount of the debtor's qualifying debts (including the new debt) is less than, or the same as, the prescribed maximum.
@@ -104,9 +104,9 @@ summary: ''
 >
 > (6) The repayment requirement must provide that the due repayments are to be made by instalments.
 >
-> (7) It is for the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court to decide when the instalments are to be made.
+> (7) It is for the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court to decide when the instalments are to be made.
 >
-> (8) But the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court is to determine the amount of the instalments in accordance with repayment regulations.
+> (8) But the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court is to determine the amount of the instalments in accordance with repayment regulations.
 >
 > (9) Repayment regulations are regulations which make provision for instalments to be determined by reference to the debtor's surplus income.
 >
@@ -124,9 +124,9 @@ summary: ''
 >
 > (1) An administration order must, during the currency of the order, impose the following requirement.
 >
-> (2) The requirement is that no qualifying creditor of the debtor is to present a bankruptcy petition against the debtor in respect of a qualifying debt, unless the creditor has the permission of the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court.
+> (2) The requirement is that no qualifying creditor of the debtor is to present a bankruptcy petition against the debtor in respect of a qualifying debt, unless the creditor has the permission of the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court.
 >
-> (3) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court may give permission for the purposes of subsection (2) subject to such conditions as it thinks fit.
+> (3) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court may give permission for the purposes of subsection (2) subject to such conditions as it thinks fit.
 >
 > **112G. Remedies other than bankruptcy**
 >
@@ -135,11 +135,11 @@ summary: ''
 > (2) The requirement is that no qualifying creditor of the debtor is to pursue any remedy for the recovery of a qualifying debt unless—
 >
 > - (a) regulations under subsection (3) provide otherwise, or
-> - (b) the creditor has the permission of the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court.
+> - (b) the creditor has the permission of the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court.
 >
 > (3) Regulations may specify classes of debt which are exempted (or exempted for specified purposes) from the restriction imposed by subsection (2).
 >
-> (4) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court may give permission for the purposes of subsection (2)(b) subject to such conditions as it thinks fit.
+> (4) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court may give permission for the purposes of subsection (2)(b) subject to such conditions as it thinks fit.
 >
 > (5) This section does not have any effect in relation to bankruptcy proceedings.
 >
@@ -167,9 +167,9 @@ summary: ''
 > - (a) that supply, or
 > - (b) any other supply of mains gas or mains electricity, or of associated services, that is provided by the domestic utility creditor.
 >
-> (6) The third case is where the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court gives permission to stop a supply.
+> (6) The third case is where the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court gives permission to stop a supply.
 >
-> (7) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court may give permission for the purposes of subsection (6) subject to such conditions as it thinks fit.
+> (7) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court may give permission for the purposes of subsection (6) subject to such conditions as it thinks fit.
 >
 > (8) A supply of mains gas is a supply of the kind mentioned in section 5(1)(b) of the Gas Act 1986.
 >
@@ -216,11 +216,11 @@ summary: ''
 >
 > (2) The other debt management arrangements cease to be in force when the administration order is made.
 >
-> (3) If the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court is aware of the other debt management arrangements, the court must give the relevant authority notice that the order has been made.
+> (3) If the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court is aware of the other debt management arrangements, the court must give the relevant authority notice that the order has been made.
 >
-> (4) In a case where the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court is aware of other debt management arrangements at the time it makes the order, it must give the notice as soon as practicable after making the order.
+> (4) In a case where the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court is aware of other debt management arrangements at the time it makes the order, it must give the notice as soon as practicable after making the order.
 >
-> (5) In a case where the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court becomes aware of those arrangements after it makes the order, it must give the notice as soon as practicable after becoming aware of them.
+> (5) In a case where the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court becomes aware of those arrangements after it makes the order, it must give the notice as soon as practicable after becoming aware of them.
 >
 > (6) “**Other debt management arrangements**” means any of the following—
 >
@@ -230,7 +230,7 @@ summary: ''
 >
 > (7) “**The relevant authority**” means—
 >
-> - (a) in relation to an enforcement restriction order: the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court [^key-52e1a4d539a91394d0ea89c7794bf0ab]...;
+> - (a) in relation to an enforcement restriction order: the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court [^c-52e1a4d539a91394d0ea89c7794bf0ab]...;
 > - (b) in relation to a debt relief order: the official receiver;
 > - (c) in relation to a debt repayment plan: the operator of the debt management scheme in accordance with which the plan is arranged.
 >
@@ -240,7 +240,7 @@ summary: ''
 >
 > (1) This section applies if, and for as long as, an administration order has effect in respect of a debtor.
 >
-> (2) The debtor must, at the prescribed times, provide the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court with particulars of his—
+> (2) The debtor must, at the prescribed times, provide the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court with particulars of his—
 >
 > - (a) earnings,
 > - (b) income,
@@ -252,7 +252,7 @@ summary: ''
 > - (a) as the matters are at the time the particulars are provided, and
 > - (b) as the debtor expects the matters to be at such times in the future as are prescribed.
 >
-> (4) If the debtor intends to dispose of any of his property he must, within the prescribed period, provide the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court with particulars of the following matters—
+> (4) If the debtor intends to dispose of any of his property he must, within the prescribed period, provide the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court with particulars of the following matters—
 >
 > - (a) the property he intends to dispose of;
 > - (b) the consideration (if any) he expects will be given for the disposal;
@@ -265,7 +265,7 @@ summary: ''
 > - (b) goods that are protected under any other enactment from being taken control of under that Schedule, or
 > - (c) prescribed property.
 >
-> (6) The duty under subsection (4) to provide the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court with particulars of a proposed disposal of property applies whether the debtor is the sole owner, or one of several owners, of the property.
+> (6) The duty under subsection (4) to provide the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court with particulars of a proposed disposal of property applies whether the debtor is the sole owner, or one of several owners, of the property.
 >
 > (7) In any provision of this section “**prescribed**” means prescribed in regulations for the purposes of that provision.
 >
@@ -276,9 +276,9 @@ summary: ''
 > - (a) section 112M(2) and (3), or
 > - (b) section 112M(4).
 >
-> (2) A person who commits an offence under subsection (1) may be ordered by a judge of the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court to pay a fine of not more than £250 or to be imprisoned for not more than 14 days.
+> (2) A person who commits an offence under subsection (1) may be ordered by a judge of the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court to pay a fine of not more than £250 or to be imprisoned for not more than 14 days.
 >
-> (3) Where under subsection (2) a person is ordered to be imprisoned by a judge of the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court, a judge of the county court[^key-220d88f079a7a8fa171be9c82287a08d] may at any time—
+> (3) Where under subsection (2) a person is ordered to be imprisoned by a judge of the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court, a judge of the county court[^c-220d88f079a7a8fa171be9c82287a08d] may at any time—
 >
 > - (a) revoke the order, and
 > - (b) if the person is already in custody, order his discharge.
@@ -287,14 +287,14 @@ summary: ''
 >
 > (5) For the purposes of section 13 of the Administration of Justice Act 1960 (appeal in cases of contempt of court), subsection (2) is to be treated as an enactment enabling a county court to deal with an offence under subsection (1) as if it were a contempt of court.
 >
-> (6)[^key-35f3daf0a1e99aeed61fef8cb50ff621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (6)[^c-35f3daf0a1e99aeed61fef8cb50ff621] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **112O. Existing county court proceedings to be stayed**
 >
 > (1) This section applies if these conditions are met—
 >
 > - (a) an administration order is made;
-> - (b) proceedings in the county court[^key-cef34df9c49af6e4f99d10a389898127] (other than bankruptcy proceedings) are pending against the debtor in respect of a qualifying debt;
+> - (b) proceedings in the county court[^c-cef34df9c49af6e4f99d10a389898127] (other than bankruptcy proceedings) are pending against the debtor in respect of a qualifying debt;
 > - (c) by virtue of a requirement included in the order by virtue of section 112G, the creditor under the qualifying debt is not entitled to continue the proceedings in respect of the debt;
 > - (d) the county court receives notice of the administration order.
 >
@@ -320,12 +320,12 @@ summary: ''
 >
 > **112Q. Discharge from debts**
 >
-> (1) If the debtor repays a scheduled debt to the extent provided for by the administration order, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must—
+> (1) If the debtor repays a scheduled debt to the extent provided for by the administration order, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must—
 >
 > - (a) order that the debtor is discharged from the debt, and
 > - (b) de-schedule the debt.
 >
-> (2) If the debtor repays all of the scheduled debts to the extent provided for by the administration order, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke the order.
+> (2) If the debtor repays all of the scheduled debts to the extent provided for by the administration order, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke the order.
 >
 > (3) Subsections (1) and (2) apply to all scheduled debts, including any which, under the administration order, are to be repaid other than to their full extent.
 >
@@ -333,7 +333,7 @@ summary: ''
 >
 > **112R. Variation**
 >
-> (1) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court may vary an administration order.
+> (1) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court may vary an administration order.
 >
 > (2) The power under this section is exercisable—
 >
@@ -347,7 +347,7 @@ summary: ''
 >
 > (2) But the new termination day must fall on or before the last day of the maximum permitted period.
 >
-> (3) If the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court varies an administration under subsection (1), the order ceases to have effect on the new termination day.
+> (3) If the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court varies an administration under subsection (1), the order ceases to have effect on the new termination day.
 >
 > (4) In this section—
 >
@@ -360,52 +360,52 @@ summary: ''
 >
 > (1) The power under section 112R includes power to vary an administration order by de-scheduling a debt.
 >
-> (2) But the debt may be de-scheduled only if it appears to the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court that it is just and equitable to do so.
+> (2) But the debt may be de-scheduled only if it appears to the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court that it is just and equitable to do so.
 >
 > **Revocation**
 >
 > **112U. Duty to revoke order**
 >
-> (1) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
+> (1) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in subsection 112B(2) was not met (debtor in fact did not have two or more qualifying debts);
 > - (b) where the debtor is no longer a debtor under any qualifying debts.
 >
-> (2) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
+> (2) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in subsection 112B(3) was not met (debtor in fact had business debt), and he is still a debtor under the business debt, or any of the business debts, in question;
 > - (b) where the debtor subsequently becomes a debtor under a business debt, and he is still a debtor under that debt.
 >
-> (3) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order where it becomes apparent that, at the time the order was made, the condition in section 112B(4) was not met (debtor in fact excluded under AO, voluntary arrangement or bankruptcy exclusion).
+> (3) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order where it becomes apparent that, at the time the order was made, the condition in section 112B(4) was not met (debtor in fact excluded under AO, voluntary arrangement or bankruptcy exclusion).
 >
-> (4) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order where, after the order is made—
+> (4) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order where, after the order is made—
 >
 > - (a) the debtor becomes excluded under the voluntary arrangement exclusion, or
 > - (b) a bankruptcy order is made against the debtor, and is still in force.
 >
-> (5) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
+> (5) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 112B(5) was not met (debtor in fact able to pay qualifying debts);
 > - (b) where the debtor is now able to pay all of his qualifying debts.
 >
-> (6) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
+> (6) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 112B(6) was not met (debtor's qualifying debts in fact more than prescribed maximum);
 > - (b) where the total amount of the debtor's qualifying debts is now more than the prescribed maximum.
 >
-> (7) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
+> (7) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke an administration order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 112B(7) was not met (debtor's surplus income in fact less than, or the same as, the prescribed minimum);
 > - (b) where the debtor's surplus income is now less than, or the same as, the prescribed minimum.
 >
 > **112V. Power to revoke order**
 >
-> (1) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court may revoke an administration order in any case where there is no duty under this Part to revoke it.
+> (1) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court may revoke an administration order in any case where there is no duty under this Part to revoke it.
 >
 > (2) The power of revocation under this section may, in particular, be exercised in any of the following cases—
 >
 > - (a) where the debtor has failed to make two payments (whether consecutive or not) required by the order;
-> - (b) where the debtor has failed to provide the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court with the particulars required by—
+> - (b) where the debtor has failed to provide the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court with the particulars required by—
 >   - (i) section 112M(2) and (3), or
 >   - (ii) section 112M(4).
 >
@@ -417,7 +417,7 @@ summary: ''
 >
 > **112W. Effect of revocation**
 >
-> (1) This section applies if, under any duty or power in this Part, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court revokes an administration order.
+> (1) This section applies if, under any duty or power in this Part, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court revokes an administration order.
 >
 > (2) The order ceases to have effect in accordance with the terms of the revocation.
 >
@@ -425,7 +425,7 @@ summary: ''
 >
 > **112X. Notice when order made, varied, revoked etc**
 >
-> (1) If a notifiable event occurs in relation to an administration order, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must send notice of the event to the creditor under every scheduled debt.
+> (1) If a notifiable event occurs in relation to an administration order, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must send notice of the event to the creditor under every scheduled debt.
 >
 > (2) There is a notifiable event in any of the following cases—
 >
@@ -433,7 +433,7 @@ summary: ''
 > - (b) when a debt is scheduled to the administration order at any time after the making of the order;
 > - (c) when the administration order is varied;
 > - (d) when the administration order is revoked;
-> - (e) when the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court is given notice under any of the provisions listed in section 112K(7) (effect of enforcement restriction order or debt relief order on administration order).
+> - (e) when the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court is given notice under any of the provisions listed in section 112K(7) (effect of enforcement restriction order or debt relief order on administration order).
 >
 > **Total amount of qualifying debts not properly calculated**
 >
@@ -451,16 +451,16 @@ summary: ''
 > - (a) the undeclared debt is due (whether it became due before or after the making of the order);
 > - (b) the total debt is less than, or the same as, the prescribed maximum;
 >
-> the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the undeclared debt to the order.
+> the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the undeclared debt to the order.
 >
 > (4) If these conditions are met—
 >
 > - (a) the undeclared debt is not due;
 > - (b) the total debt is less than, or the same as, the prescribed maximum;
 >
-> the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the undeclared debt to the order when the debt becomes due.
+> the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must schedule the undeclared debt to the order when the debt becomes due.
 >
-> (5) If the total debt is more than the prescribed maximum, the [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke the administration order (whether or not the undeclared debt is due).
+> (5) If the total debt is more than the prescribed maximum, the [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must revoke the administration order (whether or not the undeclared debt is due).
 >
 > (6) In this section “**total debt**” means the total amount of the debtor's qualifying debts (including the undeclared debt).
 >
@@ -487,9 +487,9 @@ summary: ''
 > - (a) begins when the order first has effect, and
 > - (b) ends when the order ceases to have effect.
 >
-> (3)[^key-731b4c161b6517255075829558e5230f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-731b4c161b6517255075829558e5230f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (4)[^key-731b4c161b6517255075829558e5230f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-731b4c161b6517255075829558e5230f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **112AB. Expressions relating to debts**
 >
@@ -561,11 +561,11 @@ summary: ''
 >
 > (4) A scheduled debt is a debt that is scheduled to an administration order.
 >
-> (5) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must not schedule a debt to an administration order unless the court has had regard to any representations made by any person about why the debt should not be scheduled.
+> (5) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must not schedule a debt to an administration order unless the court has had regard to any representations made by any person about why the debt should not be scheduled.
 >
 > (6) But subsection (5) does not apply to any representations which are made by the debtor in relation to the scheduling of a debt under section 112Y.
 >
-> (7) The [^key-3a52289b3ec2351998a34a5e9bc181ad]... county court must not de-schedule a debt unless the court has had regard to any representations made by any person about why the debt should not be de-scheduled.
+> (7) The [^c-3a52289b3ec2351998a34a5e9bc181ad]... county court must not de-schedule a debt unless the court has had regard to any representations made by any person about why the debt should not be de-scheduled.
 >
 > (8) But subsection (7) does not apply in relation to the de-scheduling of a debt under section 112Q.
 >
@@ -609,16 +609,16 @@ summary: ''
 
 ## Annotations
 
-[^key-45764fda1613f9c9a81bb01afba64114]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-45764fda1613f9c9a81bb01afba64114]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-3a52289b3ec2351998a34a5e9bc181ad]: Textual amendment: Words in s. 106 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3a52289b3ec2351998a34a5e9bc181ad]: Textual amendment: Words in s. 106 omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-52e1a4d539a91394d0ea89c7794bf0ab]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-52e1a4d539a91394d0ea89c7794bf0ab]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-220d88f079a7a8fa171be9c82287a08d]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-220d88f079a7a8fa171be9c82287a08d]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-35f3daf0a1e99aeed61fef8cb50ff621]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/6); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-35f3daf0a1e99aeed61fef8cb50ff621]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/6); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-cef34df9c49af6e4f99d10a389898127]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-cef34df9c49af6e4f99d10a389898127]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-731b4c161b6517255075829558e5230f]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/8); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-731b4c161b6517255075829558e5230f]: Textual amendment: Words in [s. 106](https://www.legislation.gov.uk/ukpga/2007/15/section/106) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 47(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/47/8); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3A. —Case management[^key-95e90afadfcc18b019d1fa7c6715d3e0]
+## 3A. —Case management[^c-95e90afadfcc18b019d1fa7c6715d3e0]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (e) ensuring that evidence, whether disputed or not, is presented in the shortest and clearest way;
 - (f) discouraging delay, dealing with as many aspects of the case as possible on the same occasion and avoiding unnecessary hearings;
 - (g) encouraging the participants to co-operate in the progression of the case; and
-- (h) making use of technology , including live links[^key-95ddd029ccdf3314b12c98ca14307265].
+- (h) making use of technology , including live links[^c-95ddd029ccdf3314b12c98ca14307265].
 
 (2) The court must actively manage the case by giving any direction appropriate to the needs of that case as early as possible.
 
@@ -58,7 +58,7 @@ summary: ''
 
 (7) In fulfilling its duty under paragraph (2) actively to manage the case the court may give any direction and take any step unless that direction or step would be inconsistent with legislation, including these Rules. In particular, the court may—
 
-- (a) nominate a magistrate or justices' legal adviser[^key-a95f3110e9db36e1fd4a9183e688569b] to manage the case;
+- (a) nominate a magistrate or justices' legal adviser[^c-a95f3110e9db36e1fd4a9183e688569b] to manage the case;
 - (b) give a direction on its own initiative or on application by a party;
 - (c) ask or allow a party to propose a direction;
 - (d) for the purpose of giving directions, receive applications and representations by letter, by telephone or by any other means of electronic communication, and conduct a hearing by such means;
@@ -128,8 +128,8 @@ summary: ''
 
 ## Annotations
 
-[^key-95e90afadfcc18b019d1fa7c6715d3e0]: Textual amendment: [Rule 3A](https://www.legislation.gov.uk/uksi/1981/552/rule/3A) inserted (5.4.2010) by [The Magistrates’ Courts (Amendment) Rules 2009 (S.I. 2009/3362)](https://www.legislation.gov.uk/uksi/2009/3362), [rules 1](https://www.legislation.gov.uk/uksi/2009/3362/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3362/article/3)
+[^c-95e90afadfcc18b019d1fa7c6715d3e0]: Textual amendment: [Rule 3A](https://www.legislation.gov.uk/uksi/1981/552/rule/3A) inserted (5.4.2010) by [The Magistrates’ Courts (Amendment) Rules 2009 (S.I. 2009/3362)](https://www.legislation.gov.uk/uksi/2009/3362), [rules 1](https://www.legislation.gov.uk/uksi/2009/3362/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3362/article/3)
 
-[^key-95ddd029ccdf3314b12c98ca14307265]: Textual amendment: Words in [rule 3A(1)(h)](https://www.legislation.gov.uk/uksi/1981/552/rule/3A/1/h) inserted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/626/article/2/3)
+[^c-95ddd029ccdf3314b12c98ca14307265]: Textual amendment: Words in [rule 3A(1)(h)](https://www.legislation.gov.uk/uksi/1981/552/rule/3A/1/h) inserted (28.6.2021) by [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/626/article/2/3)
 
-[^key-a95f3110e9db36e1fd4a9183e688569b]: Textual amendment: Words in [rule 3A(7)(a)](https://www.legislation.gov.uk/uksi/1981/552/rule/3A/7/a) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-a95f3110e9db36e1fd4a9183e688569b]: Textual amendment: Words in [rule 3A(7)(a)](https://www.legislation.gov.uk/uksi/1981/552/rule/3A/7/a) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))

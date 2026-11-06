@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Revoking placement orders[^key-d549a731ac53ec193391ec75d97a0532]
+## 21. Revoking placement orders[^c-d549a731ac53ec193391ec75d97a0532]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ the child may not without the court’s leave be placed for adoption under the o
 
 ## Annotations
 
-[^key-d549a731ac53ec193391ec75d97a0532]: Commencement: S. 21 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d549a731ac53ec193391ec75d97a0532]: Commencement: S. 21 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

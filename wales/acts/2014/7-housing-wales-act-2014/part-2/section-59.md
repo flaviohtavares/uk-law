@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Suitability of accommodation[^key-6d8646b968376c1dab7004ff13af2f34][^key-587bfe3a407bfd6b915c071ad62dd087]
+## 59. Suitability of accommodation[^c-6d8646b968376c1dab7004ff13af2f34][^c-587bfe3a407bfd6b915c071ad62dd087]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d8646b968376c1dab7004ff13af2f34]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2014/7/section/59) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-6d8646b968376c1dab7004ff13af2f34]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2014/7/section/59) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-587bfe3a407bfd6b915c071ad62dd087]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2014/7/section/59) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 10](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/10)
+[^c-587bfe3a407bfd6b915c071ad62dd087]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2014/7/section/59) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 10](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/10)

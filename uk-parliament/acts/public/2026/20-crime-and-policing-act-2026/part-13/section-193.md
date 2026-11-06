@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Notification requirements for child cruelty offenders[^key-81be700a4e7776a01917fdd84a99da98]
+## 193. Notification requirements for child cruelty offenders[^c-81be700a4e7776a01917fdd84a99da98]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ on or after the day on which the regulations come into force.
 
 ## Annotations
 
-[^key-81be700a4e7776a01917fdd84a99da98]: Commencement: S. 193 in force at Royal Assent, see [s. 255(2)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/g)
+[^c-81be700a4e7776a01917fdd84a99da98]: Commencement: S. 193 in force at Royal Assent, see [s. 255(2)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/g)

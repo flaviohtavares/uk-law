@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54D. Offences committed outside the United Kingdom: adult victims[^key-5e2cbea1e4c7262a33cd7f47dde531b9]
+## 54D. Offences committed outside the United Kingdom: adult victims[^c-5e2cbea1e4c7262a33cd7f47dde531b9]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ as if the offence had been committed in that district; and the offence is, for a
 
 ## Annotations
 
-[^key-5e2cbea1e4c7262a33cd7f47dde531b9]: Textual amendment: [S. 54D](https://www.legislation.gov.uk/asp/2009/9/section/54D) inserted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/5/2); [S.S.I. 2021/239](https://www.legislation.gov.uk/ssi/2021/239), [reg. 2](https://www.legislation.gov.uk/ssi/2021/239/regulation/2)
+[^c-5e2cbea1e4c7262a33cd7f47dde531b9]: Textual amendment: [S. 54D](https://www.legislation.gov.uk/asp/2009/9/section/54D) inserted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/5/2); [S.S.I. 2021/239](https://www.legislation.gov.uk/ssi/2021/239), [reg. 2](https://www.legislation.gov.uk/ssi/2021/239/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A20. Restrictions on insolvency proceedings etc[^key-2d593eae2f3cccb39a2961eef842bf2c]
+## A20. Restrictions on insolvency proceedings etc[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

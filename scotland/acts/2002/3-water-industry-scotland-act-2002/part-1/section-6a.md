@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6A. Convener of Customer Panels to investigate complaints[^key-a8767685517fda9e8fc73110d04cfc6a]
+## 6A. Convener of Customer Panels to investigate complaints[^c-a8767685517fda9e8fc73110d04cfc6a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8767685517fda9e8fc73110d04cfc6a]: Textual amendment: S. 6A repealed (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/21) (with [sch. 3 para. 8(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/3/paragraph/8/2)[(4)](https://www.legislation.gov.uk/asp/2010/8/schedule/3/paragraph/8/4)); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)
+[^c-a8767685517fda9e8fc73110d04cfc6a]: Textual amendment: S. 6A repealed (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 21](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/21) (with [sch. 3 para. 8(2)](https://www.legislation.gov.uk/asp/2010/8/schedule/3/paragraph/8/2)[(4)](https://www.legislation.gov.uk/asp/2010/8/schedule/3/paragraph/8/4)); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)

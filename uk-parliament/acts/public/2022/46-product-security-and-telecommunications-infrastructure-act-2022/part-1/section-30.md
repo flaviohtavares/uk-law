@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Recall notices[^key-951a9bbf9417fd3bd9158d12039cc83a][^key-50e1156fa73c80a9acf21c97208f7acf]
+## 30. Recall notices[^c-951a9bbf9417fd3bd9158d12039cc83a][^c-50e1156fa73c80a9acf21c97208f7acf]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-951a9bbf9417fd3bd9158d12039cc83a]: Commencement: S. 30 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-951a9bbf9417fd3bd9158d12039cc83a]: Commencement: S. 30 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-50e1156fa73c80a9acf21c97208f7acf]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/46/section/30) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-50e1156fa73c80a9acf21c97208f7acf]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2022/46/section/30) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

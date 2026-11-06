@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where—
 
-- (a) a person, without lawful excuse, obstructs the Ombudsman in the performance of the Ombudsman’s functions under sections 2 to 13[^key-57b3f59d148e3093adad7abb0f48f367], or
+- (a) a person, without lawful excuse, obstructs the Ombudsman in the performance of the Ombudsman’s functions under sections 2 to 13[^c-57b3f59d148e3093adad7abb0f48f367], or
 - (b) a person does any act or fails to take any action in relation to an investigation which, if the investigation were a proceeding in the Court of Session, would constitute contempt of court,
 
 the Ombudsman may apply by petition to the Court of Session for the person to be dealt with in accordance with subsection (2).
@@ -38,4 +38,4 @@ may deal with the person as if the person had committed a contempt of court in r
 
 ## Annotations
 
-[^key-57b3f59d148e3093adad7abb0f48f367]: Textual amendment: Words in s. 14(1)(a) inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(2)](https://www.legislation.gov.uk/asp/2015/5/section/13/2), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-57b3f59d148e3093adad7abb0f48f367]: Textual amendment: Words in s. 14(1)(a) inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(2)](https://www.legislation.gov.uk/asp/2015/5/section/13/2), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)

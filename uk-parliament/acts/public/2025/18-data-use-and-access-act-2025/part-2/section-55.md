@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Powers relating to verification of identity or status[^key-6322d04917a0051d92186526c700e0ca][^key-198519e4db8a5d5db463d5cf1016fab2]
+## 55. Powers relating to verification of identity or status[^c-6322d04917a0051d92186526c700e0ca][^c-198519e4db8a5d5db463d5cf1016fab2]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6322d04917a0051d92186526c700e0ca]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-6322d04917a0051d92186526c700e0ca]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-198519e4db8a5d5db463d5cf1016fab2]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/18/section/55) in force at 1.12.2025 in so far as not already in force by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-198519e4db8a5d5db463d5cf1016fab2]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2025/18/section/55) in force at 1.12.2025 in so far as not already in force by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

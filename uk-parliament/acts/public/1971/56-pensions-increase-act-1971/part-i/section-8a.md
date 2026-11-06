@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Section 8(2): references to “service”[^key-73de86d81408c417e19eec3b91234575]
+## 8A. Section 8(2): references to “service”[^c-73de86d81408c417e19eec3b91234575]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ references in section 8(2) above to the service in respect of which a pension is
 
 ## Annotations
 
-[^key-73de86d81408c417e19eec3b91234575]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1971/56/section/8A) inserted (28.2.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/4) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 5(b)](https://www.legislation.gov.uk/uksi/2014/433/article/5/b)
+[^c-73de86d81408c417e19eec3b91234575]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1971/56/section/8A) inserted (28.2.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/4) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 5(b)](https://www.legislation.gov.uk/uksi/2014/433/article/5/b)

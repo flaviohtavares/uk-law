@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1253. Contributions to local enterprise organisations or urban regeneration companies: disqualifying benefits[^key-91953fb04eed77fa4a14e05bf3249b5c]
+## 1253. Contributions to local enterprise organisations or urban regeneration companies: disqualifying benefits[^c-91953fb04eed77fa4a14e05bf3249b5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91953fb04eed77fa4a14e05bf3249b5c]: Modification: S. 1253 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/6) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-91953fb04eed77fa4a14e05bf3249b5c]: Modification: S. 1253 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/6) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

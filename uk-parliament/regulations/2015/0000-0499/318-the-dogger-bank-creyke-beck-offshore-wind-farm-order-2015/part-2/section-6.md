@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Requirements: appeals, etc.[^key-0c0339dbe4cbaf4a6fd9dff83f5c4e45]
+## 6. Requirements: appeals, etc.[^c-0c0339dbe4cbaf4a6fd9dff83f5c4e45]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0c0339dbe4cbaf4a6fd9dff83f5c4e45]: Commencement: Art. 6 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-0c0339dbe4cbaf4a6fd9dff83f5c4e45]: Commencement: Art. 6 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
 [^f00019]: Footnote: Section 78 was amended by section 43(2) of the Planning and Compulsory Purchase Act [2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraph 3(b) of Schedule 10 to the Planning Act 2008, section 123(3) of, and paragraph 11 of Schedule 12 to, the Localism Act 2011, paragraph 8 of Schedule 1 to the Growth and Infrastructure Act 2013 and paragraph 12 of Schedule 4 to the Infrastructure Act [2015 (c.7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 79 was amended by section 18 of, and paragraph 19 of Schedule 7 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34) and by paragraph 4 of Schedule 10 to the Planning Act 2008.
 

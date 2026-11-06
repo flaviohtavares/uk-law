@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for construction of works[^key-1f8ae1e7fffb8afa1670a686571b31c9]
+## 26. Temporary use of land for construction of works[^c-1f8ae1e7fffb8afa1670a686571b31c9]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1f8ae1e7fffb8afa1670a686571b31c9]: Commencement: Art. 26 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-1f8ae1e7fffb8afa1670a686571b31c9]: Commencement: Art. 26 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00038]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

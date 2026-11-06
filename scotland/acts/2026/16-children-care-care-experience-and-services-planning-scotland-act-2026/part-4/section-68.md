@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Regulation-making powers[^key-b8a483c54c59990e9a228e88dd5d0399]
+## 68. Regulation-making powers[^c-b8a483c54c59990e9a228e88dd5d0399]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8a483c54c59990e9a228e88dd5d0399]: Commencement: S. 68 in force at 16.5.2026, see [s. 70(1)](https://www.legislation.gov.uk/asp/2026/16/section/70/1)
+[^c-b8a483c54c59990e9a228e88dd5d0399]: Commencement: S. 68 in force at 16.5.2026, see [s. 70(1)](https://www.legislation.gov.uk/asp/2026/16/section/70/1)

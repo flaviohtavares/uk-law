@@ -33,20 +33,20 @@ of 23 October 2020
 
 on the signing, on behalf of the Union, and provisional application of the Agreement in the form of an Exchange of Letters between the European Union and the Islamic Republic of Mauritania on an extension to the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Islamic Republic of Mauritania, expiring on 15 November 2020 (revoked)
 
-[^key-cfe17ee7f647e3a557868d927d33c1a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfe17ee7f647e3a557868d927d33c1a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-cfe17ee7f647e3a557868d927d33c1a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cfe17ee7f647e3a557868d927d33c1a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cfe17ee7f647e3a557868d927d33c1a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cfe17ee7f647e3a557868d927d33c1a8]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-cfe17ee7f647e3a557868d927d33c1a8]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

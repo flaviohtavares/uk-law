@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Annual rate of full retirement pension (deferred members)[^key-ce985d1f232d554edc9c6d073015fef7]
+## 89. Annual rate of full retirement pension (deferred members)[^c-ce985d1f232d554edc9c6d073015fef7]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce985d1f232d554edc9c6d073015fef7]: Commencement: Reg. 89 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ce985d1f232d554edc9c6d073015fef7]: Commencement: Reg. 89 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00050]: Footnote: See regulation 81(3) for when a full retirement pension comes into payment early on grounds of permanent medical unfitness.

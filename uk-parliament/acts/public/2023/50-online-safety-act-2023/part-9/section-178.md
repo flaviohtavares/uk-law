@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Review[^key-de1be4b79e53ff4d5e5a9959e940c499][^key-285ca7e4f3ee3263dab1049934ff6c27]
+## 178. Review[^c-de1be4b79e53ff4d5e5a9959e940c499][^c-285ca7e4f3ee3263dab1049934ff6c27]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de1be4b79e53ff4d5e5a9959e940c499]: Commencement: S. 178 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-de1be4b79e53ff4d5e5a9959e940c499]: Commencement: S. 178 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-285ca7e4f3ee3263dab1049934ff6c27]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2023/50/section/178) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-285ca7e4f3ee3263dab1049934ff6c27]: Commencement: [S. 178](https://www.legislation.gov.uk/ukpga/2023/50/section/178) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

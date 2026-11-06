@@ -36,61 +36,61 @@ concerning the technical arrangements for data transmission for statistics on th
 
 (Text with EEA relevance) (revoked)
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd32e5be7cb77cd15d654b75342f3567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-cd32e5be7cb77cd15d654b75342f3567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-cd32e5be7cb77cd15d654b75342f3567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-cd32e5be7cb77cd15d654b75342f3567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-cd32e5be7cb77cd15d654b75342f3567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-cd32e5be7cb77cd15d654b75342f3567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-cd32e5be7cb77cd15d654b75342f3567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd32e5be7cb77cd15d654b75342f3567]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — TECHNICAL FORMAT FOR DATA TRANSMISSION[^key-cd32e5be7cb77cd15d654b75342f3567]
+## ANNEX — TECHNICAL FORMAT FOR DATA TRANSMISSION[^c-cd32e5be7cb77cd15d654b75342f3567]
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]1.
+[^c-cd32e5be7cb77cd15d654b75342f3567]1.
 
 DATA STRUCTURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]2.
+[^c-cd32e5be7cb77cd15d654b75342f3567]2.
 
 LIST OF FIELDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]3.
+[^c-cd32e5be7cb77cd15d654b75342f3567]3.
 
 MISSING VALUES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]4.
+[^c-cd32e5be7cb77cd15d654b75342f3567]4.
 
 CHANGE IN CONFIGURATION OR TYPE OF TRANSPORT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]5.
+[^c-cd32e5be7cb77cd15d654b75342f3567]5.
 
 VALIDATION OF DATA BY EUROSTAT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]6.
+[^c-cd32e5be7cb77cd15d654b75342f3567]6.
 
 NAMING OF DATA SETS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]7.
+[^c-cd32e5be7cb77cd15d654b75342f3567]7.
 
 TRANSMISSION MEDIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]8.
+[^c-cd32e5be7cb77cd15d654b75342f3567]8.
 
 TRANSITIONAL PERIOD
 
@@ -98,4 +98,4 @@ TRANSITIONAL PERIOD
 
 ## Annotations
 
-[^key-cd32e5be7cb77cd15d654b75342f3567]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd32e5be7cb77cd15d654b75342f3567]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

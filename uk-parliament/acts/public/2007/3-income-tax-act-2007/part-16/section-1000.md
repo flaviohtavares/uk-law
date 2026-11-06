@@ -26,8 +26,8 @@ summary: ''
 
 (3) Condition B is that its purpose, or primary purpose, is to protect and further the general interests of local authorities or any description of local authorities.
 
-(4)[^key-f7a1290293554d8f90bd3db9b18ec7b4] For the purposes of condition A, if a member (“M”) of a local authority association is a representative of, or is appointed by, a local authority, group of local authorities or a local authority association, the authority, group or association concerned (rather than M) is to be treated as a constituent member of the local authority association.
+(4)[^c-f7a1290293554d8f90bd3db9b18ec7b4] For the purposes of condition A, if a member (“M”) of a local authority association is a representative of, or is appointed by, a local authority, group of local authorities or a local authority association, the authority, group or association concerned (rather than M) is to be treated as a constituent member of the local authority association.
 
 ## Annotations
 
-[^key-f7a1290293554d8f90bd3db9b18ec7b4]: Textual amendment: S. 1000(4) substituted for s. 1000(4)(5) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 568](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/568) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f7a1290293554d8f90bd3db9b18ec7b4]: Textual amendment: S. 1000(4) substituted for s. 1000(4)(5) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 568](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/568) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Prohibition on professional fundraising without formal agreement[^key-bfc9fc555732941f68d805d11177585b]
+## 81. Prohibition on professional fundraising without formal agreement[^c-bfc9fc555732941f68d805d11177585b]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ for the benefit of the body.
 
 ## Annotations
 
-[^key-bfc9fc555732941f68d805d11177585b]: Commencement: S. 81 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-bfc9fc555732941f68d805d11177585b]: Commencement: S. 81 in force at 24.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)

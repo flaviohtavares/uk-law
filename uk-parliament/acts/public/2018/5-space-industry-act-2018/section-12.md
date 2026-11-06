@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Terms of licences[^key-84b764c14150d520c600da8dfd68a067]
+## 12. Terms of licences[^c-84b764c14150d520c600da8dfd68a067]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) spaceflight activities of a particular description, or
 - (c) one or more particular spaceflight activities.
 
-(2) An operator licence must[^key-81af0df66a242def609839bed768a860] specify a limit on the amount of the licensee's liability under section 36 in respect of the activities authorised by the licence.
+(2) An operator licence must[^c-81af0df66a242def609839bed768a860] specify a limit on the amount of the licensee's liability under section 36 in respect of the activities authorised by the licence.
 
 (3) A spaceport licence must identify the site in respect of which the licence is granted.
 
@@ -51,6 +51,6 @@ involving the launch of spacecraft or carrier aircraft.
 
 ## Annotations
 
-[^key-84b764c14150d520c600da8dfd68a067]: Commencement: S. 12 in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-84b764c14150d520c600da8dfd68a067]: Commencement: S. 12 in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/23) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-81af0df66a242def609839bed768a860]: Textual amendment: Word in s. 12(2) substituted (18.2.2026) by [Space Industry (Indemnities) Act 2025 (c. 35)](https://www.legislation.gov.uk/ukpga/2025/35), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2025/35/section/1/a), [2(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/3)
+[^c-81af0df66a242def609839bed768a860]: Textual amendment: Word in s. 12(2) substituted (18.2.2026) by [Space Industry (Indemnities) Act 2025 (c. 35)](https://www.legislation.gov.uk/ukpga/2025/35), [ss. 1(a)](https://www.legislation.gov.uk/ukpga/2025/35/section/1/a), [2(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/3)

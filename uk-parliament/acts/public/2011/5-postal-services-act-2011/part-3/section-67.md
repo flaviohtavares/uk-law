@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Review of Part 3[^key-f3c450893aad33a5420d082fd18c1586]
+## 67. Review of Part 3[^c-f3c450893aad33a5420d082fd18c1586]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3c450893aad33a5420d082fd18c1586]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2011/5/section/67) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f3c450893aad33a5420d082fd18c1586]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2011/5/section/67) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

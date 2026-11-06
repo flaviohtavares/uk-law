@@ -25,12 +25,12 @@ summary: ''
 - (a) a plea of special defence or, as the case may be, notice of intention to lead such evidence has been lodged and intimated in writing in accordance with subsection (3) below[^c18990651]. . .
 - (b) the court, on cause shown, otherwise directs.
 
-(1A)[^key-2a0d47eafadc031240b60581c25da898] Subsection (1) does not apply where—
+(1A)[^c-2a0d47eafadc031240b60581c25da898] Subsection (1) does not apply where—
 
 - (a) the accused lodges a defence statement under section 70A, and
 - (b) the accused's defence consists of or includes a special defence.
 
-(2) Subsection (1) above shall apply to a plea of diminished responsibility or[^key-94b824c9834c30fe1b3d134b5980ead0] to a defence of automatism , coercion or, in a prosecution for an offence to which section 288C of this Act applies, consent[^c16022611] as if it were a special defence.
+(2) Subsection (1) above shall apply to a plea of diminished responsibility or[^c-94b824c9834c30fe1b3d134b5980ead0] to a defence of automatism , coercion or, in a prosecution for an offence to which section 288C of this Act applies, consent[^c16022611] as if it were a special defence.
 
 (2A)[^c16022631] In subsection (2) above, the reference to a defence of consent is a reference to the defence which is stated by reference to the complainer’s consent to the act which is the subject matter of the charge or the accused’s belief as to that consent.
 
@@ -59,9 +59,9 @@ for the use of the court. .
 
 [^c18990651]: Textual amendment: Words in s. 78(1)(a) repealed (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 25](https://www.legislation.gov.uk/asp/2004/5/section/25), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1), [Sch. para. 25(a)](https://www.legislation.gov.uk/asp/2004/5/schedule/paragraph/25/a); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-2a0d47eafadc031240b60581c25da898]: Textual amendment: S. 78(1A) inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 124(4)](https://www.legislation.gov.uk/asp/2010/13/section/124/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) (with [s. 124(1)](https://www.legislation.gov.uk/asp/2010/13/section/124/1)); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-2a0d47eafadc031240b60581c25da898]: Textual amendment: S. 78(1A) inserted (6.6.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 124(4)](https://www.legislation.gov.uk/asp/2010/13/section/124/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) (with [s. 124(1)](https://www.legislation.gov.uk/asp/2010/13/section/124/1)); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-94b824c9834c30fe1b3d134b5980ead0]: Textual amendment: Words in [s. 78(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/78/2) inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 46](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/46); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-94b824c9834c30fe1b3d134b5980ead0]: Textual amendment: Words in [s. 78(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/78/2) inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 46](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/46); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
 [^c16022611]: Textual amendment: Words in s. 78(2) substituted (1.11.2002) by [Sexual Offences (Procedure and Evidence) (Scotland) Act 2002 (asp 9)](https://www.legislation.gov.uk/asp/2002/9), [s. 6(1)(a)](https://www.legislation.gov.uk/asp/2002/9/section/6/1/a); [S.S.I. 2002/443](https://www.legislation.gov.uk/ssi/2002/443), [art. 3](https://www.legislation.gov.uk/ssi/2002/443/article/3) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2002/443/article/4/4))
 

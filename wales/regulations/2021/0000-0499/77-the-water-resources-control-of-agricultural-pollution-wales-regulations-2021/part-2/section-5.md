@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Spreading organic manure — nitrogen limits per hectare[^key-6f15ac4742de88ea9641c001ca9609c5]
+## 5. Spreading organic manure — nitrogen limits per hectare[^c-6f15ac4742de88ea9641c001ca9609c5]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f15ac4742de88ea9641c001ca9609c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/77/regulation/5) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-6f15ac4742de88ea9641c001ca9609c5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/77/regulation/5) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Advance determinations[^key-058da1433f1314c4ebf22eaac7723819]
+## 12. Advance determinations[^c-058da1433f1314c4ebf22eaac7723819]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-058da1433f1314c4ebf22eaac7723819]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2012/19/section/12) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-058da1433f1314c4ebf22eaac7723819]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2012/19/section/12) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Register[^key-8d0b6684d68d719eb6819379f39015c4]
+## 234. Register[^c-8d0b6684d68d719eb6819379f39015c4]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d0b6684d68d719eb6819379f39015c4]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2005/19/section/234) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-8d0b6684d68d719eb6819379f39015c4]: Commencement: [S. 234](https://www.legislation.gov.uk/ukpga/2005/19/section/234) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

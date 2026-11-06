@@ -39,15 +39,15 @@ summary: ''
 
 (5) The reliefs are—
 
-- (a) an allowance under Chapter 2 of Part 3 of this Act [^key-48bec36b4dc7f67489664b3251a7286a]... (personal allowance and blind person's allowance),
-- (b) a tax reduction under Chapter 3 of Part 3 of this Act [^key-48bec36b4dc7f67489664b3251a7286a]... (tax reductions for married couples and civil partners), and[^key-712e619ac22e3958cc821fb6d0acc1b0]
-- (c) relief under section 457 or 458 of this Act [^key-48bec36b4dc7f67489664b3251a7286a]... (payments to trade unions and police organisations), [^key-6c49a88469e63088d4b4dadf94e54b23]...
-- (d)[^key-6c49a88469e63088d4b4dadf94e54b23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an allowance under Chapter 2 of Part 3 of this Act [^c-48bec36b4dc7f67489664b3251a7286a]... (personal allowance and blind person's allowance),
+- (b) a tax reduction under Chapter 3 of Part 3 of this Act [^c-48bec36b4dc7f67489664b3251a7286a]... (tax reductions for married couples and civil partners), and[^c-712e619ac22e3958cc821fb6d0acc1b0]
+- (c) relief under section 457 or 458 of this Act [^c-48bec36b4dc7f67489664b3251a7286a]... (payments to trade unions and police organisations), [^c-6c49a88469e63088d4b4dadf94e54b23]...
+- (d)[^c-6c49a88469e63088d4b4dadf94e54b23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48bec36b4dc7f67489664b3251a7286a]: Textual amendment: Words in s. 423(5) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(o)(iii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/o/iii)
+[^c-48bec36b4dc7f67489664b3251a7286a]: Textual amendment: Words in s. 423(5) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(o)(iii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/o/iii)
 
-[^key-712e619ac22e3958cc821fb6d0acc1b0]: Textual amendment: Word in s. 423(5)(b) inserted (17.7.2012) (with effect in accordance with Sch. 39 para. 32(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 32(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/32/2/b/i)
+[^c-712e619ac22e3958cc821fb6d0acc1b0]: Textual amendment: Word in s. 423(5)(b) inserted (17.7.2012) (with effect in accordance with Sch. 39 para. 32(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 32(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/32/2/b/i)
 
-[^key-6c49a88469e63088d4b4dadf94e54b23]: Textual amendment: S. 423(5)(d) and preceding word omitted (17.7.2012) (with effect in accordance with Sch. 39 para. 32(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 32(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/32/2/b/ii)
+[^c-6c49a88469e63088d4b4dadf94e54b23]: Textual amendment: S. 423(5)(d) and preceding word omitted (17.7.2012) (with effect in accordance with Sch. 39 para. 32(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 32(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/32/2/b/ii)

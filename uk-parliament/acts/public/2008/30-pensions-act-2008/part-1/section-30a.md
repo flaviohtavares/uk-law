@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Review of exercise of powers under section 28C[^key-645b27ee3ff94c1e25799e29326e4f10]
+## 30A. Review of exercise of powers under section 28C[^c-645b27ee3ff94c1e25799e29326e4f10]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-645b27ee3ff94c1e25799e29326e4f10]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2008/30/section/30A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(13)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/13), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)
+[^c-645b27ee3ff94c1e25799e29326e4f10]: Textual amendment: [S. 30A](https://www.legislation.gov.uk/ukpga/2008/30/section/30A) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 40(13)](https://www.legislation.gov.uk/ukpga/2026/22/section/40/13), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)

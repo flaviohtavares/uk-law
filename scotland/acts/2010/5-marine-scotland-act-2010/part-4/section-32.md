@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Exemptions specified by order[^key-9631195c6cb927ed81760b327004b878]
+## 32. Exemptions specified by order[^c-9631195c6cb927ed81760b327004b878]
 
 *Extent: S*
 
@@ -39,12 +39,12 @@ summary: ''
 - (c) the need to prevent interference with legitimate uses of the sea,
 - (d) such other matters as the Ministers consider relevant.
 
-(4A)[^key-335f8c82002732bdb3efe57a69c52a05] Where an order under this section applies to activity designated under section 21(3A), the related provision that may be made in the order in reliance on section 165(1)(b) (consequential etc provision) includes provision amending an enactment (whenever passed or made).
+(4A)[^c-335f8c82002732bdb3efe57a69c52a05] Where an order under this section applies to activity designated under section 21(3A), the related provision that may be made in the order in reliance on section 165(1)(b) (consequential etc provision) includes provision amending an enactment (whenever passed or made).
 
 (5) The Scottish Ministers must consult such persons as they consider appropriate as to any order the Ministers propose to make under subsection (1).
 
 ## Annotations
 
-[^key-9631195c6cb927ed81760b327004b878]: Commencement: S. 32 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-9631195c6cb927ed81760b327004b878]: Commencement: S. 32 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
-[^key-335f8c82002732bdb3efe57a69c52a05]: Textual amendment: [S. 32(4A)](https://www.legislation.gov.uk/asp/2010/5/section/32/4A) inserted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2026/6/section/23/3), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
+[^c-335f8c82002732bdb3efe57a69c52a05]: Textual amendment: [S. 32(4A)](https://www.legislation.gov.uk/asp/2010/5/section/32/4A) inserted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2026/6/section/23/3), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217CI. Surrendering of loss and amount of video game tax credit[^key-430657b7d7e90131044eca9771949694]
+## 1217CI. Surrendering of loss and amount of video game tax credit[^c-430657b7d7e90131044eca9771949694]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
+[^c-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)

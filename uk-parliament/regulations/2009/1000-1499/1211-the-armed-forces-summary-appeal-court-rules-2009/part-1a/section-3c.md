@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3C. The application by the court of the overriding objective[^key-8c5cce3a4252f0940bf39254dddb4b77]
+## 3C. The application by the court of the overriding objective[^c-8c5cce3a4252f0940bf39254dddb4b77]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The court or the judge advocate for any proceedings before the court must furthe
 
 ## Annotations
 
-[^key-8c5cce3a4252f0940bf39254dddb4b77]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1211/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/1263/rule/11)
+[^c-8c5cce3a4252f0940bf39254dddb4b77]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2009/1211/part/1A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2022/1263/rule/11)

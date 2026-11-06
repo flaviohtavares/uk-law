@@ -85,36 +85,36 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Subject matter
 
-This Decision lays down technical standards for security features applied to unit packets of tobacco products supplied in Great Britain[^key-4a749c872dab5a1bfca311f881a49d57].
+This Decision lays down technical standards for security features applied to unit packets of tobacco products supplied in Great Britain[^c-4a749c872dab5a1bfca311f881a49d57].
 
 ## Article 2. Definitions
 
-For the purposes of this Decision, in addition to the definitions laid down in regulation 2 of the Tobacco Products (Traceability and Security Features) Regulations 2019[^key-0bc128fbd015820430e430287f8cf1c8], the following definitions shall apply:
+For the purposes of this Decision, in addition to the definitions laid down in regulation 2 of the Tobacco Products (Traceability and Security Features) Regulations 2019[^c-0bc128fbd015820430e430287f8cf1c8], the following definitions shall apply:
 
 - ((a)) ‘authentication element’ means an element of a security feature;
 - ((b)) ‘overt’ means directly perceptible by one or more of the human senses without recourse to external devices. The ‘overt’ category of authentication solutions referred to in ISO 12931:2012 shall be presumed to meet this definition;
 - ((c)) ‘semi-covert’ means not directly perceptible by the human senses but detectable by those senses through the use of external devices, such as a UV torch or a special pen or marker, which do not require expert knowledge or specialist training. The ‘covert’ category of authentication solutions authenticated with off-the-shelf tools referred to in ISO 12931:2012 shall be presumed to meet this definition;
 - ((d)) ‘covert’ means not directly perceptible by the human senses and detectable only through the use of purpose built tools or professional laboratory equipment. The ‘covert’ categories of authentication solutions requiring purpose built tools and forensic analysis referred to in ISO 12931:2012 shall be presumed to meet this definition.
 
-## Article 3. Security feature[^key-20e8b620ac7239d9b52d33b18eedeae3]
+## Article 3. Security feature[^c-20e8b620ac7239d9b52d33b18eedeae3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Use of tax stamps as security feature[^key-20e8b620ac7239d9b52d33b18eedeae3]
+## Article 4. Use of tax stamps as security feature[^c-20e8b620ac7239d9b52d33b18eedeae3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Applying security features to unit packets[^key-20e8b620ac7239d9b52d33b18eedeae3]
+## Article 5. Applying security features to unit packets[^c-20e8b620ac7239d9b52d33b18eedeae3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Integrity of security features[^key-20e8b620ac7239d9b52d33b18eedeae3]
+## Article 6. Integrity of security features[^c-20e8b620ac7239d9b52d33b18eedeae3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Verification of authenticity of tobacco products[^key-20e8b620ac7239d9b52d33b18eedeae3]
+## Article 7. Verification of authenticity of tobacco products[^c-20e8b620ac7239d9b52d33b18eedeae3]
 
 **No longer in force.**
 
@@ -122,7 +122,7 @@ For the purposes of this Decision, in addition to the definitions laid down in r
 
 ## Article 8. Independence of authentication element providers
 
-1. For the purpose of regulation 15(1) and (2) of the Tobacco Products (Traceability and Security Features) Regulations 2019[^key-7c7561f5aedc36f4cdc8462217e3a5a7], a provider of authentication elements, as well as, where applicable, its subcontractors, shall be considered independent, if the following criteria are met:
+1. For the purpose of regulation 15(1) and (2) of the Tobacco Products (Traceability and Security Features) Regulations 2019[^c-7c7561f5aedc36f4cdc8462217e3a5a7], a provider of authentication elements, as well as, where applicable, its subcontractors, shall be considered independent, if the following criteria are met:
 
 - (a) independence from the tobacco industry in terms of legal form, organisation and decision making. In particular it shall be assessed whether the undertaking or the group of undertakings is not under the direct or indirect control of the tobacco industry, including a minority shareholding;
 - (b) independence from the tobacco industry in financial terms, which will be presumed if, before assuming its functions, the undertaking or the group of undertakings generates less than 10 % of its annual worldwide turnover, excluding VAT and any other indirect taxes, from goods and services supplied to the tobacco sector over the past 2 calendar years, as may be determined on the basis of the most recent approved accounts. For each subsequent calendar year, the annual worldwide turnover, excluding VAT and any other indirect taxes, from goods and services supplied to the tobacco sector shall not exceed 20 %;
@@ -130,25 +130,25 @@ For the purposes of this Decision, in addition to the definitions laid down in r
   - ((i)) shall not have participated in company structures of the tobacco industry for the last 5 years;
   - ((ii)) shall act independently from any pecuniary or non-pecuniary interest linked to the tobacco industry, including possession of stocks, participation in private pension programmes or interest held by their partners, spouses or direct relatives in the ascending or descending line.
 
-2.[^key-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-f31a6df2b87fe9ba6c34a2d6ee63366d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7. For the purpose of paragraph 1, public[^key-e02aff76af90b4f6820e514731fe54d5] authorities or undertakings governed by public law along with their subcontractors shall be presumed independent from the tobacco industry.
+7. For the purpose of paragraph 1, public[^c-e02aff76af90b4f6820e514731fe54d5] authorities or undertakings governed by public law along with their subcontractors shall be presumed independent from the tobacco industry.
 
-8.[^key-121d1b346375efdf177d9324508b47f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8.[^c-121d1b346375efdf177d9324508b47f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Transitional provision[^key-861b6c8736feee1f5a265929b1274629]
+## Article 9. Transitional provision[^c-861b6c8736feee1f5a265929b1274629]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Addressees[^key-d1e6503885b4249efd6604029806e90d]
+## Article 10. Addressees[^c-d1e6503885b4249efd6604029806e90d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -180,20 +180,20 @@ Vytenis Andriukaitis
 
 [^f00003]: Footnote: ISO 12931:2012 (Performance criteria for authentication solutions used to combat counterfeiting of material goods).
 
-[^key-4a749c872dab5a1bfca311f881a49d57]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2018/576/article/1) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/2) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-4a749c872dab5a1bfca311f881a49d57]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2018/576/article/1) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/2) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-0bc128fbd015820430e430287f8cf1c8]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2018/576/article/2) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/3) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-0bc128fbd015820430e430287f8cf1c8]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2018/576/article/2) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/3) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-20e8b620ac7239d9b52d33b18eedeae3]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/eudn/2018/576/article/3) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/4) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-20e8b620ac7239d9b52d33b18eedeae3]: Textual amendment: [Arts. 3-7](https://www.legislation.gov.uk/eudn/2018/576/article/3) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/4) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-7c7561f5aedc36f4cdc8462217e3a5a7]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eudn/2018/576/article/8/1) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-7c7561f5aedc36f4cdc8462217e3a5a7]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eudn/2018/576/article/8/1) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-f31a6df2b87fe9ba6c34a2d6ee63366d]: Textual amendment: [Art. 8(2)-(6)](https://www.legislation.gov.uk/eudn/2018/576/article/8/2) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-f31a6df2b87fe9ba6c34a2d6ee63366d]: Textual amendment: [Art. 8(2)-(6)](https://www.legislation.gov.uk/eudn/2018/576/article/8/2) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-e02aff76af90b4f6820e514731fe54d5]: Textual amendment: Words in [Art. 8(7)](https://www.legislation.gov.uk/eudn/2018/576/article/8/7) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(c)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/c) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-e02aff76af90b4f6820e514731fe54d5]: Textual amendment: Words in [Art. 8(7)](https://www.legislation.gov.uk/eudn/2018/576/article/8/7) substituted (31.12.2020) by [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(c)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/c) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-121d1b346375efdf177d9324508b47f6]: Textual amendment: [Art. 8(8)](https://www.legislation.gov.uk/eudn/2018/576/article/8/8) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-121d1b346375efdf177d9324508b47f6]: Textual amendment: [Art. 8(8)](https://www.legislation.gov.uk/eudn/2018/576/article/8/8) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/5/b) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-861b6c8736feee1f5a265929b1274629]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eudn/2018/576/article/9) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/6) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-861b6c8736feee1f5a265929b1274629]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eudn/2018/576/article/9) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/6) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
 
-[^key-d1e6503885b4249efd6604029806e90d]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2018/576/article/10) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/6) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))
+[^c-d1e6503885b4249efd6604029806e90d]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2018/576/article/10) omitted (31.12.2020) by virtue of [The Tobacco Products (Traceability System and Security Features) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1496)](https://www.legislation.gov.uk/uksi/2020/1496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1496/schedule/2/paragraph/6) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1496/regulation/7/3))

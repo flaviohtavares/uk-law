@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Obstruction[^key-c59a153a2510c10940c0459fbd9825ba]
+## 49. Obstruction[^c-c59a153a2510c10940c0459fbd9825ba]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c59a153a2510c10940c0459fbd9825ba]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2007/10/section/49) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-c59a153a2510c10940c0459fbd9825ba]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2007/10/section/49) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

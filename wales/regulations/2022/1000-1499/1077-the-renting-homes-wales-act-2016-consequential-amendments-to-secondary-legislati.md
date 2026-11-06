@@ -47,13 +47,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by section 255 of the Renting Homes (Wales) Act 2016[^f00001], make the following Regulations.
 
-## 1. Title and commencement[^key-50e727d6041494bd23b612d0bc176132]
+## 1. Title and commencement[^c-50e727d6041494bd23b612d0bc176132]
 
 (1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022.
 
 (2) These Regulations come into force on 30 November 2022.
 
-## 2. Amendment of the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022[^key-db81a8fec2776be075d896c62473fb34]
+## 2. Amendment of the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022[^c-db81a8fec2776be075d896c62473fb34]
 
 (1) The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022[^f00002] are amended as follows.
 
@@ -94,9 +94,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). Section 255(2) was amended by section 14 of and paragraphs 1 and 8 of Schedule 5 to the [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3).
 
-[^key-50e727d6041494bd23b612d0bc176132]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2)
+[^c-50e727d6041494bd23b612d0bc176132]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2)
 
-[^key-db81a8fec2776be075d896c62473fb34]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2)
+[^c-db81a8fec2776be075d896c62473fb34]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2022/907 (W. 198)](https://www.legislation.gov.uk/wsi/2022/907).
 

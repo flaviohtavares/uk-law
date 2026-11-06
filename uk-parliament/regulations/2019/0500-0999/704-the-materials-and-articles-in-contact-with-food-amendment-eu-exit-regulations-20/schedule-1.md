@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Schedule for inclusion in the 2012 Regulations[^key-3d8bc6684aeed95a47f647feeb020ed3]
+## SCHEDULE 1 — Schedule for inclusion in the 2012 Regulations[^c-3d8bc6684aeed95a47f647feeb020ed3]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ Regulation 10
 
 ## Annotations
 
-[^key-3d8bc6684aeed95a47f647feeb020ed3]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3d8bc6684aeed95a47f647feeb020ed3]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

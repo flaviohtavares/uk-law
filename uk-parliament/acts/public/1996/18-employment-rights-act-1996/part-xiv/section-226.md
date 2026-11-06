@@ -27,7 +27,7 @@ summary: ''
 - (a) if the dismissal was with notice, the date on which the employer’s notice was given, and
 - (b) otherwise, the effective date of termination.
 
-(3) Where the calculation is for the purposes of section 112, 119, 120[^c20043251] , 121 or 124[^key-86a1b8559c2a7a71b9c06604a8bb31fe] , the calculation date is—
+(3) Where the calculation is for the purposes of section 112, 119, 120[^c20043251] , 121 or 124[^c-86a1b8559c2a7a71b9c06604a8bb31fe] , the calculation date is—
 
 - (a)[^c16336981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) if by virtue of subsection (2) or (4) of section 97 a date later than the effective date of termination as defined in subsection (1) of that section is to be treated for certain purposes as the effective date of termination, the effective date of termination as so defined, and
@@ -56,6 +56,6 @@ summary: ''
 
 [^c20043251]: Textual amendment: Words in s. 226(3) substituted (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 53](https://www.legislation.gov.uk/ukpga/2002/22/section/53), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2002/22/schedule/7/paragraph/46); [S.I. 2004/2185](https://www.legislation.gov.uk/uksi/2004/2185), [art. 2](https://www.legislation.gov.uk/uksi/2004/2185/article/2)
 
-[^key-86a1b8559c2a7a71b9c06604a8bb31fe]: Textual amendment: Words in s. 226(3) substituted (29.7.2013) by [The Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013 (S.I. 2013/1949)](https://www.legislation.gov.uk/uksi/2013/1949), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1949/article/1), [3](https://www.legislation.gov.uk/uksi/2013/1949/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1949/article/4))
+[^c-86a1b8559c2a7a71b9c06604a8bb31fe]: Textual amendment: Words in s. 226(3) substituted (29.7.2013) by [The Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013 (S.I. 2013/1949)](https://www.legislation.gov.uk/uksi/2013/1949), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1949/article/1), [3](https://www.legislation.gov.uk/uksi/2013/1949/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1949/article/4))
 
 [^c16336981]: Textual amendment: S. 226(3)(a)(5)(a) repealed (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [ss. 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9), [44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 4 Pt. III para. 40](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/III/paragraph/40), [Sch. 9(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/2); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II), [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))

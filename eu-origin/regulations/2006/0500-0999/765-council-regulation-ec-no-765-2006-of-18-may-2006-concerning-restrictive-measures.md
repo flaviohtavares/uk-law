@@ -61,167 +61,167 @@ of 18 May 2006
 
 concerning restrictive measures in respect of Belarus (revoked)
 
-[^key-df54de008106ef80f7ffa0e52ab30592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df54de008106ef80f7ffa0e52ab30592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1a.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1a.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1b.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1b.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2a.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2a.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2b.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2b.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4b.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4b.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8a.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8a.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8b.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8b.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9a.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9a.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9b.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9b.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-df54de008106ef80f7ffa0e52ab30592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df54de008106ef80f7ffa0e52ab30592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Persons referred to in Article 2(1) — List of natural and legal persons, entities and bodies referred to in Article 2(1)[^key-df54de008106ef80f7ffa0e52ab30592]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II — Websites for information on the competent authorities referred to in Articles 3, 4(2), and 5, and address for notifications to the European Commission[^key-df54de008106ef80f7ffa0e52ab30592]
-
-[^key-df54de008106ef80f7ffa0e52ab30592] BELGIUM
+## ANNEX I — Persons referred to in Article 2(1) — List of natural and legal persons, entities and bodies referred to in Article 2(1)[^c-df54de008106ef80f7ffa0e52ab30592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] BULGARIA
+## ANNEX II — Websites for information on the competent authorities referred to in Articles 3, 4(2), and 5, and address for notifications to the European Commission[^c-df54de008106ef80f7ffa0e52ab30592]
+
+[^c-df54de008106ef80f7ffa0e52ab30592] BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] CZECH REPUBLIC
+[^c-df54de008106ef80f7ffa0e52ab30592] BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] DENMARK
+[^c-df54de008106ef80f7ffa0e52ab30592] CZECH REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] GERMANY
+[^c-df54de008106ef80f7ffa0e52ab30592] DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] ESTONIA
+[^c-df54de008106ef80f7ffa0e52ab30592] GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] IRELAND
+[^c-df54de008106ef80f7ffa0e52ab30592] ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] GREECE
+[^c-df54de008106ef80f7ffa0e52ab30592] IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] SPAIN
+[^c-df54de008106ef80f7ffa0e52ab30592] GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] FRANCE
+[^c-df54de008106ef80f7ffa0e52ab30592] SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] CROATIA
+[^c-df54de008106ef80f7ffa0e52ab30592] FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] ITALY
+[^c-df54de008106ef80f7ffa0e52ab30592] CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] CYPRUS
+[^c-df54de008106ef80f7ffa0e52ab30592] ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] LATVIA
+[^c-df54de008106ef80f7ffa0e52ab30592] CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] LITHUANIA
+[^c-df54de008106ef80f7ffa0e52ab30592] LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] LUXEMBOURG
+[^c-df54de008106ef80f7ffa0e52ab30592] LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] HUNGARY
+[^c-df54de008106ef80f7ffa0e52ab30592] LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] MALTA
+[^c-df54de008106ef80f7ffa0e52ab30592] HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] NETHERLANDS
+[^c-df54de008106ef80f7ffa0e52ab30592] MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] AUSTRIA
+[^c-df54de008106ef80f7ffa0e52ab30592] NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] POLAND
+[^c-df54de008106ef80f7ffa0e52ab30592] AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] PORTUGAL
+[^c-df54de008106ef80f7ffa0e52ab30592] POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] ROMANIA
+[^c-df54de008106ef80f7ffa0e52ab30592] PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] SLOVENIA
+[^c-df54de008106ef80f7ffa0e52ab30592] ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] SLOVAKIA
+[^c-df54de008106ef80f7ffa0e52ab30592] SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] FINLAND
+[^c-df54de008106ef80f7ffa0e52ab30592] SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] SWEDEN
+[^c-df54de008106ef80f7ffa0e52ab30592] FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] UNITED KINGDOM
+[^c-df54de008106ef80f7ffa0e52ab30592] SWEDEN
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-df54de008106ef80f7ffa0e52ab30592] UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -229,82 +229,82 @@ concerning restrictive measures in respect of Belarus (revoked)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — List of equipment which might be used for internal repression as referred to in Article 1a and Article 1b[^key-df54de008106ef80f7ffa0e52ab30592]
+## ANNEX III — List of equipment which might be used for internal repression as referred to in Article 1a and Article 1b[^c-df54de008106ef80f7ffa0e52ab30592]
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 1.
+[^c-df54de008106ef80f7ffa0e52ab30592] 1.
 
 Fire-arms, ammunition and related accessories therefor, as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 2.
+[^c-df54de008106ef80f7ffa0e52ab30592] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 3.
+[^c-df54de008106ef80f7ffa0e52ab30592] 3.
 
 Vehicles as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 4.
+[^c-df54de008106ef80f7ffa0e52ab30592] 4.
 
 Explosive substances and related equipment as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 5.
+[^c-df54de008106ef80f7ffa0e52ab30592] 5.
 
 Protective equipment not controlled by ML 13 of the Common Military List as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 6.
+[^c-df54de008106ef80f7ffa0e52ab30592] 6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 7.
+[^c-df54de008106ef80f7ffa0e52ab30592] 7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 8.
+[^c-df54de008106ef80f7ffa0e52ab30592] 8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 9.
+[^c-df54de008106ef80f7ffa0e52ab30592] 9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 10.
+[^c-df54de008106ef80f7ffa0e52ab30592] 10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] 11.
+[^c-df54de008106ef80f7ffa0e52ab30592] 11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Persons and entities referred to in Article 2(6)[^key-df54de008106ef80f7ffa0e52ab30592]
+## ANNEX IV — Persons and entities referred to in Article 2(6)[^c-df54de008106ef80f7ffa0e52ab30592]
 
-[^key-df54de008106ef80f7ffa0e52ab30592] A.
+[^c-df54de008106ef80f7ffa0e52ab30592] A.
 
 Persons
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df54de008106ef80f7ffa0e52ab30592] B.
+[^c-df54de008106ef80f7ffa0e52ab30592] B.
 
 Entities
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Rifles, ammunition and sights referred to in Article 1a and 1b which also comply with the specifications for biathlon equipment as defined in the event and competition rules of the International Biathlon Union[^key-df54de008106ef80f7ffa0e52ab30592]
+## ANNEX IV — Rifles, ammunition and sights referred to in Article 1a and 1b which also comply with the specifications for biathlon equipment as defined in the event and competition rules of the International Biathlon Union[^c-df54de008106ef80f7ffa0e52ab30592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-df54de008106ef80f7ffa0e52ab30592]
+## ANNEX V[^c-df54de008106ef80f7ffa0e52ab30592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df54de008106ef80f7ffa0e52ab30592]: Textual amendment: Regulation revoked (31.12.2020) by [The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/600)](https://www.legislation.gov.uk/uksi/2019/600), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2), [66](https://www.legislation.gov.uk/uksi/2019/600/regulation/66)
+[^c-df54de008106ef80f7ffa0e52ab30592]: Textual amendment: Regulation revoked (31.12.2020) by [The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/600)](https://www.legislation.gov.uk/uksi/2019/600), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2), [66](https://www.legislation.gov.uk/uksi/2019/600/regulation/66)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Special measures for child witnesses and other vulnerable witnesses[^key-0aac819770fb4f69cc5acc65764c39fb]
+## 87. Special measures for child witnesses and other vulnerable witnesses[^c-0aac819770fb4f69cc5acc65764c39fb]
 
 *Extent: S*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aac819770fb4f69cc5acc65764c39fb]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/13/section/87) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-0aac819770fb4f69cc5acc65764c39fb]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/13/section/87) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

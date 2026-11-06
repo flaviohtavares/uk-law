@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Sending documents[^key-d51bce0d334bb0b09d17d6e639993e43]
+## 75. Sending documents[^c-d51bce0d334bb0b09d17d6e639993e43]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d51bce0d334bb0b09d17d6e639993e43]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2012/19/section/75) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-d51bce0d334bb0b09d17d6e639993e43]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2012/19/section/75) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

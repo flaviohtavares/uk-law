@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Interested parties[^key-9b2328904d72dc06d527d562cd183b02]
+## 59. Interested parties[^c-9b2328904d72dc06d527d562cd183b02]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2328904d72dc06d527d562cd183b02]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/10/section/59) in force at 29.6.2018 by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 3](https://www.legislation.gov.uk/ssi/2018/102/article/3)
+[^c-9b2328904d72dc06d527d562cd183b02]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/10/section/59) in force at 29.6.2018 by [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 3](https://www.legislation.gov.uk/ssi/2018/102/article/3)

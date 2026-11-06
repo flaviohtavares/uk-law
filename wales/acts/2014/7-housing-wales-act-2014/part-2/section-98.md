@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Guidance[^key-f1920c710b1e1a4f0935d3c4c9128538][^key-20c50c7e297d3f7af04e1635ebef305f]
+## 98. Guidance[^c-f1920c710b1e1a4f0935d3c4c9128538][^c-20c50c7e297d3f7af04e1635ebef305f]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1920c710b1e1a4f0935d3c4c9128538]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2014/7/section/98) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
+[^c-f1920c710b1e1a4f0935d3c4c9128538]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2014/7/section/98) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/3)
 
-[^key-20c50c7e297d3f7af04e1635ebef305f]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2014/7/section/98) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 49](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/49)
+[^c-20c50c7e297d3f7af04e1635ebef305f]: Commencement: [S. 98](https://www.legislation.gov.uk/anaw/2014/7/section/98) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 49](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/49)

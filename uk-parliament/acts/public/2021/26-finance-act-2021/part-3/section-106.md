@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. HGV road user levy (extension of suspension)[^key-06a385af52bbc3c532ad2bb675b92185]
+## 106. HGV road user levy (extension of suspension)[^c-06a385af52bbc3c532ad2bb675b92185]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a385af52bbc3c532ad2bb675b92185]: Textual amendment: [S. 106](https://www.legislation.gov.uk/ukpga/2021/26/section/106) omitted (24.2.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 80(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/80/2)
+[^c-06a385af52bbc3c532ad2bb675b92185]: Textual amendment: [S. 106](https://www.legislation.gov.uk/ukpga/2021/26/section/106) omitted (24.2.2022) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 80(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/80/2)

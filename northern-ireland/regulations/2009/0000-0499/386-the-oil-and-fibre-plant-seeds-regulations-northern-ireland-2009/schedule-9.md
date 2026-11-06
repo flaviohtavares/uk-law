@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — LIMITS OF VARIATION[^key-45d1715a7199bf2b1aec70fef0e7802c]
+## SCHEDULE 9 — LIMITS OF VARIATION[^c-45d1715a7199bf2b1aec70fef0e7802c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulation 28(2)
 
 ## Annotations
 
-[^key-45d1715a7199bf2b1aec70fef0e7802c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/386) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(d)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/d)
+[^c-45d1715a7199bf2b1aec70fef0e7802c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/386) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(d)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/d)

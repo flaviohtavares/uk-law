@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Act may be cited as the Charities Act 1992.
 
-(2)[^c10233091] This Act shall come into force on such day as the Secretary of State[^key-d7b421f0008972ff1c6836db4425371d] may by order appoint; and different days may be so appointed for different provisions or for different purposes.
+(2)[^c10233091] This Act shall come into force on such day as the Secretary of State[^c-d7b421f0008972ff1c6836db4425371d] may by order appoint; and different days may be so appointed for different provisions or for different purposes.
 
 (3) Subject to subsections (4) to (6) below, this Act extends only to England and Wales.
 
@@ -42,7 +42,7 @@ summary: ''
 
     S. 79(2) power partly exercised (27.11.1994): different dates appointed for specified provisions see S.I. 1994/3023, art. 3
 
-[^key-d7b421f0008972ff1c6836db4425371d]: Textual amendment: Words in [s. 79(2)](https://www.legislation.gov.uk/ukpga/1992/41/section/79/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 8(3)(h)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/8/3/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-d7b421f0008972ff1c6836db4425371d]: Textual amendment: Words in [s. 79(2)](https://www.legislation.gov.uk/ukpga/1992/41/section/79/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 8(3)(h)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/8/3/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
 [^c10233101]: Textual amendment: S. 79(4)(5) repealed (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [s. 98(2)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/2), [Sch.7](https://www.legislation.gov.uk/ukpga/1993/10/schedule/7)
 

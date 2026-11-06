@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Crown rights[^key-882b6c69570329b6fb065261f5efae48]
+## 49. Crown rights[^c-882b6c69570329b6fb065261f5efae48]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-882b6c69570329b6fb065261f5efae48]: Commencement: Art. 49 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-882b6c69570329b6fb065261f5efae48]: Commencement: Art. 49 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

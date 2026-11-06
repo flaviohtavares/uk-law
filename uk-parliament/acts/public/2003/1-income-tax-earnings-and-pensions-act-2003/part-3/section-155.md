@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Cash equivalent of the benefit of a van[^key-e3ed7c7f56956e11a03127a1ded249b3]
+## 155. Cash equivalent of the benefit of a van[^c-e3ed7c7f56956e11a03127a1ded249b3]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-06a2d42c817c51cb3b63a76c51ddb2a3] The cash equivalent of the benefit of a van for a tax year is calculated as follows.
+(1)[^c-06a2d42c817c51cb3b63a76c51ddb2a3] The cash equivalent of the benefit of a van for a tax year is calculated as follows.
 
 (1A) If the restricted private use condition is met in relation to the van for the tax year, the cash equivalent is nil.
 
 (1B) If that condition is not met in relation to the van for the tax year—
 
-- (a) if the van cannot in any circumstances emit CO<sub>2</sub> by being driven and the tax year is any of the tax years 2015-16 to 2020-21[^key-c1f7bcce747f09a982822a9ce815830f], the cash equivalent is the appropriate percentage of £3,500[^key-998750e17d045e7e2701165039211934] ...
-- (aa)[^key-5a545ab9fdc22f8a7db54365e6392e24] if the van cannot in any circumstances emit CO<sub>2</sub> by being driven and the tax year is 2021-22 or a subsequent tax year, the cash equivalent is nil, and
-- (b) in any other case, the cash equivalent is £4,170[^key-9dd8751fb9245db02a2d39ec66297d92].
+- (a) if the van cannot in any circumstances emit CO<sub>2</sub> by being driven and the tax year is any of the tax years 2015-16 to 2020-21[^c-c1f7bcce747f09a982822a9ce815830f], the cash equivalent is the appropriate percentage of £3,500[^c-998750e17d045e7e2701165039211934] ...
+- (aa)[^c-5a545ab9fdc22f8a7db54365e6392e24] if the van cannot in any circumstances emit CO<sub>2</sub> by being driven and the tax year is 2021-22 or a subsequent tax year, the cash equivalent is nil, and
+- (b) in any other case, the cash equivalent is £4,170[^c-9dd8751fb9245db02a2d39ec66297d92].
 
 (1C) The appropriate percentage for the purposes of subsection (1B)(a) is—
 
 - (a) 20% for the tax year 2015-16,
-- (b)[^key-6ab3f317154e697f70b5380649993dd9] 20% for the tax year 2016-17;
+- (b)[^c-6ab3f317154e697f70b5380649993dd9] 20% for the tax year 2016-17;
 - (c) 60% for the tax year 2017-18,
 - (d) 80% for the tax year 2018-19, and
 - (e) 90% for the tax year 2019-20.
@@ -62,16 +62,16 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
+[^c-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
 
-[^key-06a2d42c817c51cb3b63a76c51ddb2a3]: Textual amendment: S. 155(1)-(1C) substituted for s. 155(1)(2) (with effect in accordance with s. 10(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/10/2)
+[^c-06a2d42c817c51cb3b63a76c51ddb2a3]: Textual amendment: S. 155(1)-(1C) substituted for s. 155(1)(2) (with effect in accordance with s. 10(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/10/2)
 
-[^key-c1f7bcce747f09a982822a9ce815830f]: Textual amendment: Word in s. 155(1B)(a) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/23/2/a)
+[^c-c1f7bcce747f09a982822a9ce815830f]: Textual amendment: Word in s. 155(1B)(a) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 23(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/23/2/a)
 
-[^key-998750e17d045e7e2701165039211934]: Textual amendment: Sum in s. 155(1B)(a) substituted (with application in accordance with art. 1(2) of the amending S.I.) by [The Van Benefit and Car and Van Fuel Benefit Order 2021 (S.I. 2021/248)](https://www.legislation.gov.uk/uksi/2021/248), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/248/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/248/article/3)
+[^c-998750e17d045e7e2701165039211934]: Textual amendment: Sum in s. 155(1B)(a) substituted (with application in accordance with art. 1(2) of the amending S.I.) by [The Van Benefit and Car and Van Fuel Benefit Order 2021 (S.I. 2021/248)](https://www.legislation.gov.uk/uksi/2021/248), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/248/article/1/2), [3](https://www.legislation.gov.uk/uksi/2021/248/article/3)
 
-[^key-5a545ab9fdc22f8a7db54365e6392e24]: Textual amendment: S. 155(1B)(aa) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 23(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/23/2/c)
+[^c-5a545ab9fdc22f8a7db54365e6392e24]: Textual amendment: S. 155(1B)(aa) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 23(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/23/2/c)
 
-[^key-9dd8751fb9245db02a2d39ec66297d92]: Textual amendment: Sum in s. 155(1B)(b) substituted (with application to the tax year 2026-27 and subsequent tax years) by [The Van Benefit and Car and Van Fuel Benefit Order 2025 (S.I. 2025/1254)](https://www.legislation.gov.uk/uksi/2025/1254), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1254/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1254/article/2/3)
+[^c-9dd8751fb9245db02a2d39ec66297d92]: Textual amendment: Sum in s. 155(1B)(b) substituted (with application to the tax year 2026-27 and subsequent tax years) by [The Van Benefit and Car and Van Fuel Benefit Order 2025 (S.I. 2025/1254)](https://www.legislation.gov.uk/uksi/2025/1254), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1254/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1254/article/2/3)
 
-[^key-6ab3f317154e697f70b5380649993dd9]: Textual amendment: S. 155(1C)(b)-(g) substituted for s. 155(1C)(b)-(e) (with effect in accordance with s. 11(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 11(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/11/3)
+[^c-6ab3f317154e697f70b5380649993dd9]: Textual amendment: S. 155(1C)(b)-(g) substituted for s. 155(1C)(b)-(e) (with effect in accordance with s. 11(4) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 11(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/11/3)

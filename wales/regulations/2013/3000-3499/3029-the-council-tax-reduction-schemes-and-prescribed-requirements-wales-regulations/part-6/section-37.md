@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Persons to be treated as having made an application for a reduction[^key-9000fdfc5c995edf8bd923cf66cd5bd6]
+## 37. Persons to be treated as having made an application for a reduction[^c-9000fdfc5c995edf8bd923cf66cd5bd6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9000fdfc5c995edf8bd923cf66cd5bd6]: Commencement: Reg. 37 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-9000fdfc5c995edf8bd923cf66cd5bd6]: Commencement: Reg. 37 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

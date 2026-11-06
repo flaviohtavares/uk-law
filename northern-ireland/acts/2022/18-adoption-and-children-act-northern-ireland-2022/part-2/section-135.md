@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Contact: children in care of authority[^key-1688e789eafd1b1fe3fe823a8c71e71d]
+## 135. Contact: children in care of authority[^c-1688e789eafd1b1fe3fe823a8c71e71d]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1688e789eafd1b1fe3fe823a8c71e71d]: Commencement: S. 135 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-1688e789eafd1b1fe3fe823a8c71e71d]: Commencement: S. 135 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

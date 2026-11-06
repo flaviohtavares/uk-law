@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Environmental Permitting (England and Wales) (Amendment) Regulations 2016 (revoked)[^key-5a02bc8c7a0f3832f607c2b60aca8a73]
+The Environmental Permitting (England and Wales) (Amendment) Regulations 2016 (revoked)[^c-5a02bc8c7a0f3832f607c2b60aca8a73]
 
 Made
 
@@ -50,31 +50,31 @@ Coming into force
 
 13th May 2016
 
-[^key-5a02bc8c7a0f3832f607c2b60aca8a73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a02bc8c7a0f3832f607c2b60aca8a73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5a02bc8c7a0f3832f607c2b60aca8a73]
+## 1. Citation and commencement[^c-5a02bc8c7a0f3832f607c2b60aca8a73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Environmental Permitting (England and Wales) Regulations 2010[^key-5a02bc8c7a0f3832f607c2b60aca8a73]
+## 2. Amendment of the Environmental Permitting (England and Wales) Regulations 2010[^c-5a02bc8c7a0f3832f607c2b60aca8a73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part 2 of Schedule 1[^key-5a02bc8c7a0f3832f607c2b60aca8a73]
+## 3. Amendment of Part 2 of Schedule 1[^c-5a02bc8c7a0f3832f607c2b60aca8a73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part 2 of Schedule 18[^key-5a02bc8c7a0f3832f607c2b60aca8a73]
+## 4. Amendment of Part 2 of Schedule 18[^c-5a02bc8c7a0f3832f607c2b60aca8a73]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a02bc8c7a0f3832f607c2b60aca8a73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a02bc8c7a0f3832f607c2b60aca8a73]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5a02bc8c7a0f3832f607c2b60aca8a73]EXPLANATORY NOTE
+[^c-5a02bc8c7a0f3832f607c2b60aca8a73]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -86,4 +86,4 @@ An Impact Assessment of the effect that this instrument will have on the costs o
 
 ## Annotations
 
-[^key-5a02bc8c7a0f3832f607c2b60aca8a73]: Textual amendment: Regulations revoked (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-5a02bc8c7a0f3832f607c2b60aca8a73]: Textual amendment: Regulations revoked (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

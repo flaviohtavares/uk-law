@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198B. Failure to meet standard under section 194[^key-514a41165f8b7047ef3b8233db1d87e4]
+## 198B. Failure to meet standard under section 194[^c-514a41165f8b7047ef3b8233db1d87e4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-514a41165f8b7047ef3b8233db1d87e4]: Textual amendment: [S. 198B](https://www.legislation.gov.uk/ukpga/2008/17/section/198B) omitted (1.4.2024) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 26](https://www.legislation.gov.uk/ukpga/2023/36/section/26), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/n)
+[^c-514a41165f8b7047ef3b8233db1d87e4]: Textual amendment: [S. 198B](https://www.legislation.gov.uk/ukpga/2008/17/section/198B) omitted (1.4.2024) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 26](https://www.legislation.gov.uk/ukpga/2023/36/section/26), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/n)

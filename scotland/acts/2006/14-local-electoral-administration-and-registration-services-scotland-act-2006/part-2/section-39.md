@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-ba104c66b672bcb958c6aed13d8e40c1] The 1965 Act is amended in accordance with subsections (2) to (8).
+(1)[^c-ba104c66b672bcb958c6aed13d8e40c1] The 1965 Act is amended in accordance with subsections (2) to (8).
 
 (2) In section 13 (particulars of births to be registered), for subsections (1) to (3) there is substituted—
 
@@ -33,10 +33,10 @@ summary: ''
 
 (3) In section 14 (duty to give information of particulars of birth)—
 
-- (a)[^key-cf9e057b2255d23da1a100a90966abb8] in subsection (1)—
+- (a)[^c-cf9e057b2255d23da1a100a90966abb8] in subsection (1)—
   - (i) for the words from “attend” to “registrar”, where secondly occurring, there is substituted “ give to the district registrar for a registration district information of the prescribed particulars concerning the birth ”; and
   - (ii) in the proviso, the words “and the signing of the register” are repealed;
-- (b)[^key-cf9e057b2255d23da1a100a90966abb8] after subsection (1) there is inserted—
+- (b)[^c-cf9e057b2255d23da1a100a90966abb8] after subsection (1) there is inserted—
 
   > (1A) For the purposes of subsection (1) above, a person shall give information of the prescribed particulars concerning a birth to the district registrar for a registration district by—
   >
@@ -68,7 +68,7 @@ summary: ''
 - (b) in subsection (2), after “the”, where fourthly occurring, there is inserted “ said ”; and
 - (c) in subsection (3), after “the”, where first occurring, there is inserted “ said ”.
 
-(6)[^key-b47f078c3459f0ec3eb230d84d01ff87] After section 16 there is inserted—
+(6)[^c-b47f078c3459f0ec3eb230d84d01ff87] After section 16 there is inserted—
 
 > **16A. Provision of birth particulars to Registrar General**
 >
@@ -115,8 +115,8 @@ summary: ''
 
 [^c20075821]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/14/section/39) partly in force; [s. 39](https://www.legislation.gov.uk/asp/2006/14/section/39) not in force at Royal Assent see [s. 63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [s. 39](https://www.legislation.gov.uk/asp/2006/14/section/39) in force for specified purposes at 1.10.2006 and s. 39(1) in force for further specified purposes and s. 39(2)(3)(c)(4)(5)(7)(8) in force at 1.1.2007 by [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [arts. 2](https://www.legislation.gov.uk/ssi/2006/469/article/2), [3](https://www.legislation.gov.uk/ssi/2006/469/article/3) Schs. 1, 2 (with art. 4)
 
-[^key-ba104c66b672bcb958c6aed13d8e40c1]: Commencement: [S. 39(1)](https://www.legislation.gov.uk/asp/2006/14/section/39/1) in force at 24.9.2022 for specified purposes by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(c)](https://www.legislation.gov.uk/ssi/2022/266/article/2/c)
+[^c-ba104c66b672bcb958c6aed13d8e40c1]: Commencement: [S. 39(1)](https://www.legislation.gov.uk/asp/2006/14/section/39/1) in force at 24.9.2022 for specified purposes by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(c)](https://www.legislation.gov.uk/ssi/2022/266/article/2/c)
 
-[^key-cf9e057b2255d23da1a100a90966abb8]: Commencement: [S. 39(3)(a)](https://www.legislation.gov.uk/asp/2006/14/section/39/3/a)[(b)](https://www.legislation.gov.uk/asp/2006/14/section/39/3/b) in force at 24.9.2022 in so far as not already in force by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(a)](https://www.legislation.gov.uk/ssi/2022/266/article/2/a)
+[^c-cf9e057b2255d23da1a100a90966abb8]: Commencement: [S. 39(3)(a)](https://www.legislation.gov.uk/asp/2006/14/section/39/3/a)[(b)](https://www.legislation.gov.uk/asp/2006/14/section/39/3/b) in force at 24.9.2022 in so far as not already in force by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(a)](https://www.legislation.gov.uk/ssi/2022/266/article/2/a)
 
-[^key-b47f078c3459f0ec3eb230d84d01ff87]: Commencement: [S. 39(6)](https://www.legislation.gov.uk/asp/2006/14/section/39/6) in force at 24.9.2022 for specified purposes by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(b)](https://www.legislation.gov.uk/ssi/2022/266/article/2/b)
+[^c-b47f078c3459f0ec3eb230d84d01ff87]: Commencement: [S. 39(6)](https://www.legislation.gov.uk/asp/2006/14/section/39/6) in force at 24.9.2022 for specified purposes by [S.S.I. 2022/266](https://www.legislation.gov.uk/ssi/2022/266), [art. 2(b)](https://www.legislation.gov.uk/ssi/2022/266/article/2/b)

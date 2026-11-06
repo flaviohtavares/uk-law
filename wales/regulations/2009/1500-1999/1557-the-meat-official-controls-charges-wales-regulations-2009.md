@@ -61,10 +61,10 @@ The title of these Regulations is the Meat (Official Controls Charges) (Wales) R
 
 - “**accounting period**” (“***cyfnod cyfrifyddu***”) means a period of less than a year determined by the Agency;
 - “**the Agency**” (“***yr Asiantaeth***”) means the Food Standards Agency;
-- “**audit**” (“***archwilio***”) has the meaning given to it in Article 3(30) of Regulation 2017/625[^key-88973e6462d0b7cf29e74a40cda04319];
+- “**audit**” (“***archwilio***”) has the meaning given to it in Article 3(30) of Regulation 2017/625[^c-88973e6462d0b7cf29e74a40cda04319];
 - “**controls**” (“***rheolaethau***”) means those official controls performed by the Agency—
-  - (a) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627,[^key-824be1f677103eca3c1c14a874c8c6b0] at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
-  - (b) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627, at slaughterhouses, for the verification of compliance with the provisions of Council Regulation[^key-68ec285714d9b877e21817ddf83597e9] [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and the Welfare of Animals at the Time of Killing (Wales) Regulations 2014 insofar as they apply in relation to animals slaughtered there for human consumption;
+  - (a) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627,[^c-824be1f677103eca3c1c14a874c8c6b0] at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
+  - (b) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627, at slaughterhouses, for the verification of compliance with the provisions of Council Regulation[^c-68ec285714d9b877e21817ddf83597e9] [(EC) No 1099/2009](https://www.legislation.gov.uk/eur/2009/1099) and the Welfare of Animals at the Time of Killing (Wales) Regulations 2014 insofar as they apply in relation to animals slaughtered there for human consumption;
   - (c) in relation to domestic ungulates slaughtered outside the slaughterhouse, pursuant to Chapter VI of Section I of Annex III to Regulation 853/2004;
   - (d) in relation to poultry slaughtered on farm, pursuant to Chapter VI of Section II of Annex III to Regulation 853/2004; and
   - (e) in relation to—
@@ -74,10 +74,10 @@ The title of these Regulations is the Meat (Official Controls Charges) (Wales) R
 
     slaughtered at the place of origin, pursuant to Section III of Annex III to Regulation 853/2004;
 - “**cutting plant**” (“***safle torri***”) means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-7f03875676b64c051e5b64af0f31c053];
-  - (b) [^key-76c45499cfa5cbd3bd817f72162397b2]...
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-7f03875676b64c051e5b64af0f31c053];
+  - (b) [^c-76c45499cfa5cbd3bd817f72162397b2]...
 - “**cutting up**” (“***torri***”) has the meaning that it bears in Regulation 853/2004;
-- “Directive 2004/41” (“[^key-02a2aa790fd98d19817537ea2f34e1d2]*Cyfarwyddeb 2004/41*”), “Regulation 178/2002” (“*Rheoliad 178/2002*”), “Regulation 852/2004” (“*Rheoliad 852/2004*”), “Regulation 853/2004” (“*Rheoliad 853/2004*”), “Regulation 1688/2005” (“*Rheoliad 1688/2005*”), “Regulation 2073/2005” (“*Rheoliad 2073/2005*”), “Regulation 2074/2005” (“*Rheoliad 2074/2005*”), “Regulation 2015/1375” (“*Rheoliad 2015/1375*”), “Regulation 2017/185” (“*Rheoliad 2017/185*”)*,* “Regulation 2017/625” (“*Rheoliad 2017/625*”), “Regulation 2019/624” (“*Rheoliad 2019/624*”) and “Regulation 2019/627” (“*Rheoliad 2019/627*”) have the meanings respectively given to them in Schedule 1;
+- “Directive 2004/41” (“[^c-02a2aa790fd98d19817537ea2f34e1d2]*Cyfarwyddeb 2004/41*”), “Regulation 178/2002” (“*Rheoliad 178/2002*”), “Regulation 852/2004” (“*Rheoliad 852/2004*”), “Regulation 853/2004” (“*Rheoliad 853/2004*”), “Regulation 1688/2005” (“*Rheoliad 1688/2005*”), “Regulation 2073/2005” (“*Rheoliad 2073/2005*”), “Regulation 2074/2005” (“*Rheoliad 2074/2005*”), “Regulation 2015/1375” (“*Rheoliad 2015/1375*”), “Regulation 2017/185” (“*Rheoliad 2017/185*”)*,* “Regulation 2017/625” (“*Rheoliad 2017/625*”), “Regulation 2019/624” (“*Rheoliad 2019/624*”) and “Regulation 2019/627” (“*Rheoliad 2019/627*”) have the meanings respectively given to them in Schedule 1;
 - “**domestic ungulates**” (“***carnolion domestig***”) has the meaning given to it in point 1.2 of Annex I to Regulation 853/2004;
 - “**establishment**” (“***sefydliad***”) has the meaning given to it in Article 2.1(c) of Regulation 852/2004;
 - “**farmed game**” (“***anifeiliaid hela a ffermir***”) has the meaning given to it in point 1.6 of Annex I to Regulation 853/2004;
@@ -85,24 +85,24 @@ The title of these Regulations is the Meat (Official Controls Charges) (Wales) R
 - “**fresh meat**” (“***cig ffres***”) has the meaning given to it in point 1.10 of Annex I to Regulation 853/2004;
 - “**game**” (“***anifeiliaid hela***”) has the meaning that it bears in Regulation 853/2004;
 - “**game-handling establishment**” (“***sefydliad trin anifeiliaid hela***”) means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which—
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-bae1af580e6974aa0f97b1b2d8d2a4ba];
-  - (b) [^key-5bbe68d49b5604a0f36f59f427a79521]...
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-bae1af580e6974aa0f97b1b2d8d2a4ba];
+  - (b) [^c-5bbe68d49b5604a0f36f59f427a79521]...
 - “**game meat**” (“***cig anifeiliaid hela***”) has the meaning that it bears in Regulation 853/2004;
 - “**inspector**” (“***arolygydd***”) means an official veterinarian, an official auxiliary or any other person appointed by the Agency for the purpose of performing controls;
 - “**lagomorphs**” (“***lagomorffiaid***”) has the meaning given to it in point 1.4 of Annex I to Regulation 853/2004;
 - “**meat**” (“***cig***”) has the meaning given to it in point 1.1 of Annex I to Regulation 853/2004;
-- “official auxiliary” (“[^key-782505420c1c47e10a5c3be8361b806d]*cynorthwydd swyddogol*”) has the meaning given to it in Article 3(49) of Regulation 2017/625;
-- “**official controls**” (“***rheolaethau swyddogol***”) is construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^key-253efbca17812be581fb0d758d27d32f];
+- “official auxiliary” (“[^c-782505420c1c47e10a5c3be8361b806d]*cynorthwydd swyddogol*”) has the meaning given to it in Article 3(49) of Regulation 2017/625;
+- “**official controls**” (“***rheolaethau swyddogol***”) is construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^c-253efbca17812be581fb0d758d27d32f];
 - “**official controls charge**” (“***ffi rheolaethau swyddogol***”) means the charge calculated in accordance with Schedule 2 and notified in accordance with regulation 3(1), (2) or (3);
-- “**official veterinarian**” (“***milfeddyg swyddogol***”) has the meaning given to it in Article 3(32) of Regulation 2017/625[^key-7c294408ad2b1c53c6ac689832065eeb];
+- “**official veterinarian**” (“***milfeddyg swyddogol***”) has the meaning given to it in Article 3(32) of Regulation 2017/625[^c-7c294408ad2b1c53c6ac689832065eeb];
 - “**operator**” (“***gweithredydd***”) means a food business operator who is carrying on a food business at any premises or his or her duly authorised representative;
 - “**place of origin**” (“***tarddle***”) has the meaning that it bears in point 3 of Section III of Annex III to Regulation 853/2004;
 - “**placing on the market**” (“***rhoi ar y farchnad***”) has the meaning given to it in Article 3.8 of Regulation 178/2002;
 - “**poultry**” (“***dofednod***”) has the meaning given to it in point 1.3 of Annex I to Regulation 853/2004;
 - “**premises**” (“***mangre***”) means any slaughterhouse, game-handling establishment, cutting plant, place that is outside the slaughterhouse for the purposes of chapter VI of Section I of Annex III to Regulation 853/2004, farm or place of origin;
 - “**slaughterhouse**” (“***lladd-dy***”) means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which —
-  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^key-9dc1582a722c1336039251e3aef11124];
-  - (b) [^key-dbfc3d7e95b5149a452ce2890f6c42d5]...
+  - (a) is approved or conditionally approved under Article 148 of Regulation 2017/625[^c-9dc1582a722c1336039251e3aef11124];
+  - (b) [^c-dbfc3d7e95b5149a452ce2890f6c42d5]...
 - “**time costs**” (“***costau mewn amser***”) means, in relation to any establishment for any accounting period, the costs calculated in accordance with paragraphs 7 to 9 of Schedule 2;
 - “**verification**” (“***gwirhau***”) means checking, by examination and provision of objective evidence; and
 - “**wild game**” (“***anifeiliaid hela gwyllt***”) has the meaning given to it in point 1.5 of Annex I to Regulation 853/2004.
@@ -167,7 +167,7 @@ Gwenda Thomas
 
 The Deputy Minister for Social Services under authority of the Minister for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^key-081979ddb4b95e01a2f34686436122a4][^key-b2e321341edf80c0c73c788d3d87c066]
+## SCHEDULE 1 — DEFINITIONS OF LEGISLATION[^c-081979ddb4b95e01a2f34686436122a4][^c-b2e321341edf80c0c73c788d3d87c066]
 
 Regulation 2(1)
 
@@ -250,7 +250,7 @@ the operator may request that the matter that is the subject of that decision be
 
 (9) Where, pursuant to sub-paragraph (7)(b)(ii), a person nominated pursuant to sub-paragraph (7)(a) determines that a decision made by the Agency pursuant to sub-paragraph (3) was incorrect, the Agency must refund to the operator the payment made by the operator in accordance with sub-paragraph (3).
 
-**6.** Nothing in paragraph 4 or 5 restricts the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^key-bcdaaeae09cb73b12bc782aa69b82cb9] are achieved and that the obligation specified in Article 9(1)[^key-fe878497d41253792a31ec7657995575] of that Regulation is fulfilled.
+**6.** Nothing in paragraph 4 or 5 restricts the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^c-bcdaaeae09cb73b12bc782aa69b82cb9] are achieved and that the obligation specified in Article 9(1)[^c-fe878497d41253792a31ec7657995575] of that Regulation is fulfilled.
 
 ### 7. Time costs
 
@@ -274,7 +274,7 @@ The time costs generated by any premises in any accounting period is (subject to
 
 **10.** The Agency must determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising controls by different inspectors or classes of inspector.
 
-**11.** The hourly rate for any inspector or class of inspector is to be calculated so as to reflect such proportion of the costs of the items listed in Articles 81 and 82 of Regulation 2017/625[^key-956725ae262f8596bf1fd6f124048536] incurred by that inspector or class of inspector in exercising controls (excluding any additional costs taken into account pursuant to paragraph 8) as the Agency considers it proper to apportion to that hourly rate.
+**11.** The hourly rate for any inspector or class of inspector is to be calculated so as to reflect such proportion of the costs of the items listed in Articles 81 and 82 of Regulation 2017/625[^c-956725ae262f8596bf1fd6f124048536] incurred by that inspector or class of inspector in exercising controls (excluding any additional costs taken into account pursuant to paragraph 8) as the Agency considers it proper to apportion to that hourly rate.
 
 **12.** The Agency may vary any rate determined pursuant to paragraph 10 where, having regard to variations in the costs referred to in paragraph 11, it appears to it to be necessary to do so.
 
@@ -319,31 +319,31 @@ The time costs generated by any premises in any accounting period is (subject to
 
 [^c19782301]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No. 575/2006 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-88973e6462d0b7cf29e74a40cda04319]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/a)
+[^c-88973e6462d0b7cf29e74a40cda04319]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/a)
 
-[^key-824be1f677103eca3c1c14a874c8c6b0]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/b)
+[^c-824be1f677103eca3c1c14a874c8c6b0]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/b)
 
-[^key-68ec285714d9b877e21817ddf83597e9]: Textual amendment: Words in reg. 2(1) substituted (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/wsi/2014/951), [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c), [Sch. 6 para. 1(2)(b)](https://www.legislation.gov.uk/wsi/2014/951/schedule/6/paragraph/1/2/b)
+[^c-68ec285714d9b877e21817ddf83597e9]: Textual amendment: Words in reg. 2(1) substituted (20.5.2014) by [The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 (S.I. 2014/951)](https://www.legislation.gov.uk/wsi/2014/951), [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c), [Sch. 6 para. 1(2)(b)](https://www.legislation.gov.uk/wsi/2014/951/schedule/6/paragraph/1/2/b)
 
-[^key-7f03875676b64c051e5b64af0f31c053]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/c/i)
+[^c-7f03875676b64c051e5b64af0f31c053]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/c/i)
 
-[^key-76c45499cfa5cbd3bd817f72162397b2]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/c/ii)
+[^c-76c45499cfa5cbd3bd817f72162397b2]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/c/ii)
 
-[^key-02a2aa790fd98d19817537ea2f34e1d2]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/d)
+[^c-02a2aa790fd98d19817537ea2f34e1d2]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/d)
 
-[^key-bae1af580e6974aa0f97b1b2d8d2a4ba]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(e)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/e/i)
+[^c-bae1af580e6974aa0f97b1b2d8d2a4ba]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(e)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/e/i)
 
-[^key-5bbe68d49b5604a0f36f59f427a79521]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(e)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/e/ii)
+[^c-5bbe68d49b5604a0f36f59f427a79521]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(e)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/e/ii)
 
-[^key-782505420c1c47e10a5c3be8361b806d]: Textual amendment: Words in reg. 2(1) inserted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/f)
+[^c-782505420c1c47e10a5c3be8361b806d]: Textual amendment: Words in reg. 2(1) inserted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/f)
 
-[^key-253efbca17812be581fb0d758d27d32f]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(g)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/g)
+[^c-253efbca17812be581fb0d758d27d32f]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(g)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/g)
 
-[^key-7c294408ad2b1c53c6ac689832065eeb]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(h)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/h)
+[^c-7c294408ad2b1c53c6ac689832065eeb]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(h)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/h)
 
-[^key-9dc1582a722c1336039251e3aef11124]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(i)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/i)
+[^c-9dc1582a722c1336039251e3aef11124]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(i)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/i)
 
-[^key-dbfc3d7e95b5149a452ce2890f6c42d5]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(i)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/i)
+[^c-dbfc3d7e95b5149a452ce2890f6c42d5]: Textual amendment: Words in reg. 2(1) omitted (14.12.2019) by virtue of [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [3(i)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/3/i)
 
 [^M_F_24bdda67-a303-4f66-905c-4705f3355f76]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
@@ -351,12 +351,12 @@ The time costs generated by any premises in any accounting period is (subject to
 
 [^c19782351]: Marginal citation: [S.I. 2008/601](https://www.legislation.gov.uk/uksi/2008/601) (W.63).
 
-[^key-081979ddb4b95e01a2f34686436122a4]: Textual amendment: Sch. 1 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2019/1480/schedule/1)
+[^c-081979ddb4b95e01a2f34686436122a4]: Textual amendment: Sch. 1 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2019/1480/schedule/1)
 
-[^key-b2e321341edf80c0c73c788d3d87c066]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2009/1557/schedule/1) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [9](https://www.legislation.gov.uk/wsi/2020/1581/regulation/9)
+[^c-b2e321341edf80c0c73c788d3d87c066]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2009/1557/schedule/1) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [9](https://www.legislation.gov.uk/wsi/2020/1581/regulation/9)
 
-[^key-bcdaaeae09cb73b12bc782aa69b82cb9]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/5/a/i)
+[^c-bcdaaeae09cb73b12bc782aa69b82cb9]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/5/a/i)
 
-[^key-fe878497d41253792a31ec7657995575]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/5/a/ii)
+[^c-fe878497d41253792a31ec7657995575]: Textual amendment: Words in Sch. 2 para. 6 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/5/a/ii)
 
-[^key-956725ae262f8596bf1fd6f124048536]: Textual amendment: Words in Sch. 2 para. 11 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/5/b)
+[^c-956725ae262f8596bf1fd6f124048536]: Textual amendment: Words in Sch. 2 para. 11 substituted (14.12.2019) by [The Meat (Official Controls Charges) (Wales) (Amendment) Regulations 2019 (S.I. 2019/1480)](https://www.legislation.gov.uk/wsi/2019/1480), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2019/1480/regulation/5/b)

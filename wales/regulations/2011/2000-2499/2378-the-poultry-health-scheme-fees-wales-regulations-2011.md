@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS, WALES
 
-The Poultry Health Scheme (Fees) (Wales) Regulations 2011 (revoked)[^key-a1103c91195b98ebb5e26d401097d386]
+The Poultry Health Scheme (Fees) (Wales) Regulations 2011 (revoked)[^c-a1103c91195b98ebb5e26d401097d386]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 19 October 2011
 
-[^key-a1103c91195b98ebb5e26d401097d386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1103c91195b98ebb5e26d401097d386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-a1103c91195b98ebb5e26d401097d386]
+## 1. Title, application and commencement[^c-a1103c91195b98ebb5e26d401097d386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees relating to the poultry health scheme[^key-a1103c91195b98ebb5e26d401097d386]
+## 2. Fees relating to the poultry health scheme[^c-a1103c91195b98ebb5e26d401097d386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fee for proficiency testing a laboratory[^key-a1103c91195b98ebb5e26d401097d386]
+## 3. Fee for proficiency testing a laboratory[^c-a1103c91195b98ebb5e26d401097d386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time of payment[^key-a1103c91195b98ebb5e26d401097d386]
+## 4. Time of payment[^c-a1103c91195b98ebb5e26d401097d386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1103c91195b98ebb5e26d401097d386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1103c91195b98ebb5e26d401097d386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1103c91195b98ebb5e26d401097d386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1103c91195b98ebb5e26d401097d386]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1103c91195b98ebb5e26d401097d386]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/uksi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/1/3), [11(e)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/11/e)
+[^c-a1103c91195b98ebb5e26d401097d386]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2013 (S.I. 2013/1241)](https://www.legislation.gov.uk/uksi/2013/1241), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/1/3), [11(e)](https://www.legislation.gov.uk/uksi/2013/1241/regulation/11/e)

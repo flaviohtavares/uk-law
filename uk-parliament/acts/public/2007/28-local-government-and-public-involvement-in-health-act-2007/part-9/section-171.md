@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Power to investigate[^key-a7e77dffcd2af953b60577143ed546e4]
+## 171. Power to investigate[^c-a7e77dffcd2af953b60577143ed546e4]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ Before section 25 of the Local Government Act 1974 insert—
 
 ## Annotations
 
-[^key-a7e77dffcd2af953b60577143ed546e4]: Commencement: S. 171 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-a7e77dffcd2af953b60577143ed546e4]: Commencement: S. 171 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

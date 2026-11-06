@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Nominations for lump sum death benefits[^key-ee02a296913f69032e275419c66afcaa]
+## 122. Nominations for lump sum death benefits[^c-ee02a296913f69032e275419c66afcaa]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee02a296913f69032e275419c66afcaa]: Commencement: [Reg. 122](https://www.legislation.gov.uk/nisr/2014/290/regulation/122) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ee02a296913f69032e275419c66afcaa]: Commencement: [Reg. 122](https://www.legislation.gov.uk/nisr/2014/290/regulation/122) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

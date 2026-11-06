@@ -35,38 +35,38 @@ laying down the detailed arrangements under Council Directive 91/477/EEC for the
 
 (Text with EEA relevance) (revoked)
 
-[^key-852158f36e2cbb598bc0cb2e17948655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-852158f36e2cbb598bc0cb2e17948655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-852158f36e2cbb598bc0cb2e17948655]
+## Article 1. Scope[^c-852158f36e2cbb598bc0cb2e17948655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. The electronic exchange system[^key-852158f36e2cbb598bc0cb2e17948655]
+## Article 2. The electronic exchange system[^c-852158f36e2cbb598bc0cb2e17948655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Designation by Member States of a central authority[^key-852158f36e2cbb598bc0cb2e17948655]
+## Article 3. Designation by Member States of a central authority[^c-852158f36e2cbb598bc0cb2e17948655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Prior consent[^key-852158f36e2cbb598bc0cb2e17948655]
+## Article 4. Prior consent[^c-852158f36e2cbb598bc0cb2e17948655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. List of firearms the transfer of which does not need prior consent[^key-852158f36e2cbb598bc0cb2e17948655]
+## Article 5. List of firearms the transfer of which does not need prior consent[^c-852158f36e2cbb598bc0cb2e17948655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Notification of transfer authorisations or accompanying document[^key-852158f36e2cbb598bc0cb2e17948655]
+## Article 6. Notification of transfer authorisations or accompanying document[^c-852158f36e2cbb598bc0cb2e17948655]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-852158f36e2cbb598bc0cb2e17948655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-852158f36e2cbb598bc0cb2e17948655] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-852158f36e2cbb598bc0cb2e17948655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-852158f36e2cbb598bc0cb2e17948655]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-852158f36e2cbb598bc0cb2e17948655]: Textual amendment: Regulation revoked (E.W.S.) (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/1306/regulation/6)
+[^c-852158f36e2cbb598bc0cb2e17948655]: Textual amendment: Regulation revoked (E.W.S.) (9.12.2022) by [The Internal Market Information System Regulation (Amendment etc.) Regulations 2022 (S.I. 2022/1306)](https://www.legislation.gov.uk/uksi/2022/1306), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1306/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/1306/regulation/6)

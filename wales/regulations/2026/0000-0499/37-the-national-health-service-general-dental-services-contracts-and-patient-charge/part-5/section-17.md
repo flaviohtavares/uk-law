@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Proportion of mandatory services[^key-8381f56c136a81f4042281bfd2b50008]
+## 17. Proportion of mandatory services[^c-8381f56c136a81f4042281bfd2b50008]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8381f56c136a81f4042281bfd2b50008]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2026/37/regulation/17) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-8381f56c136a81f4042281bfd2b50008]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2026/37/regulation/17) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

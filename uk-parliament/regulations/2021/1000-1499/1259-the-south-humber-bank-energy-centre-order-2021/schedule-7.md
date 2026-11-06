@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — STREETS TO BE TEMPORARILY STOPPED UP[^key-81d5ef834031905546db4a0226c284ab]
+## SCHEDULE 7 — STREETS TO BE TEMPORARILY STOPPED UP[^c-81d5ef834031905546db4a0226c284ab]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 13
 
 ## Annotations
 
-[^key-81d5ef834031905546db4a0226c284ab]: Commencement: Sch. 7 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-81d5ef834031905546db4a0226c284ab]: Commencement: Sch. 7 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

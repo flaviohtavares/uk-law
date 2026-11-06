@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Electronic signatures and related certificates[^key-f6a5274673af2e1f54c119905e39a3d3]
+## 143. Electronic signatures and related certificates[^c-f6a5274673af2e1f54c119905e39a3d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,13 +38,13 @@ summary: ''
 
 is (either alone or in combination with other factors) a valid means of establishing the authenticity of the communication, the integrity of the communication or both.
 
-(4)[^key-b46225b955683491e1433d88f4322a98] This regulation does not apply—
+(4)[^c-b46225b955683491e1433d88f4322a98] This regulation does not apply—
 
 - (a) in relation to an application made under Part 4 for absent signing at a particular petition in England, Wales or Scotland, for which the general requirements are set out in regulation 60, or
 - (b) to the provision of signatures under regulation 27 (signing procedure: England and Wales and Scotland) or regulation 28 (signing procedure: Northern Ireland) which must be given by hand.
 
 ## Annotations
 
-[^key-f6a5274673af2e1f54c119905e39a3d3]: Commencement: Reg. 143 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-f6a5274673af2e1f54c119905e39a3d3]: Commencement: Reg. 143 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-b46225b955683491e1433d88f4322a98]: Textual amendment: [Reg. 143(4)](https://www.legislation.gov.uk/uksi/2016/295/regulation/143/4) substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(17)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/17) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-b46225b955683491e1433d88f4322a98]: Textual amendment: [Reg. 143(4)](https://www.legislation.gov.uk/uksi/2016/295/regulation/143/4) substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(17)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/17) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

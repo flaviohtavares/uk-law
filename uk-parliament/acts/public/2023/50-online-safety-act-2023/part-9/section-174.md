@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Directions about advisory committees[^key-0d72b8f35da6812349a70a94b17ca104][^key-cfa7f294c05e0497db5f9bcd498a9939]
+## 174. Directions about advisory committees[^c-0d72b8f35da6812349a70a94b17ca104][^c-cfa7f294c05e0497db5f9bcd498a9939]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d72b8f35da6812349a70a94b17ca104]: Commencement: S. 174 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0d72b8f35da6812349a70a94b17ca104]: Commencement: S. 174 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-cfa7f294c05e0497db5f9bcd498a9939]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2023/50/section/174) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)
+[^c-cfa7f294c05e0497db5f9bcd498a9939]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2023/50/section/174) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z22)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z22)

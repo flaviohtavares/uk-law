@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Discretionary hardship payments[^key-a52d344d17336a702bb11a08f9163cef]
+## 64. Discretionary hardship payments[^c-a52d344d17336a702bb11a08f9163cef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52d344d17336a702bb11a08f9163cef]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/1230/regulation/64) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2022/752/regulation/9)
+[^c-a52d344d17336a702bb11a08f9163cef]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/1230/regulation/64) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2022/752/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Powers to require information relating to claims and awards[^key-fd025f59dae6ff2280520e49ddc173dd]
+## 104. Powers to require information relating to claims and awards[^c-fd025f59dae6ff2280520e49ddc173dd]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd025f59dae6ff2280520e49ddc173dd]: Commencement: [Art. 104](https://www.legislation.gov.uk/nisi/2015/2006/article/104) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
+[^c-fd025f59dae6ff2280520e49ddc173dd]: Commencement: [Art. 104](https://www.legislation.gov.uk/nisi/2015/2006/article/104) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)

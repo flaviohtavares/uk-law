@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Amendment of regulation 33 (daily verification and storage)[^key-0c4875662898961469154cc338b36c8e]
+## 80. Amendment of regulation 33 (daily verification and storage)[^c-0c4875662898961469154cc338b36c8e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In regulation 33 (daily verification and storage), in paragraph (5) after sub-pa
 
 ## Annotations
 
-[^key-0c4875662898961469154cc338b36c8e]: Commencement: Reg. 80 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-0c4875662898961469154cc338b36c8e]: Commencement: Reg. 80 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Authorised use for certain purposes[^M_I_2a99e1a0-b14e-417d-981f-6122e18740dd][^key-9e983452a3911e6da34c639e3cdbef82]
+## 78. Authorised use for certain purposes[^M_I_2a99e1a0-b14e-417d-981f-6122e18740dd][^c-9e983452a3911e6da34c639e3cdbef82]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 (4) In subsection (3), “**relevant premises**” means—
 
 - (a) an excise warehouse, or
-- (b)[^key-60a33964a8dea57c229725e22f79dbbd] premises in respect of which a person is approved (including premises on which a person is authorised to hold alcoholic products without payment of duty) under section 82.
+- (b)[^c-60a33964a8dea57c229725e22f79dbbd] premises in respect of which a person is approved (including premises on which a person is authorised to hold alcoholic products without payment of duty) under section 82.
 
 (5) An authorisation under this section may be given subject to the conditions (if any)—
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^M_I_2a99e1a0-b14e-417d-981f-6122e18740dd]: Commencement: S. 78 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9e983452a3911e6da34c639e3cdbef82]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/30/section/78) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9e983452a3911e6da34c639e3cdbef82]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/30/section/78) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-60a33964a8dea57c229725e22f79dbbd]: Modification: [S. 78(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/78/4/b) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)
+[^c-60a33964a8dea57c229725e22f79dbbd]: Modification: [S. 78(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/78/4/b) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)

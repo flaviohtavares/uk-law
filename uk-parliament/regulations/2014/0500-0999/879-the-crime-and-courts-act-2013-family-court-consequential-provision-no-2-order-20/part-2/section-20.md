@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**20.**[^key-c1b768fd4d93b962c25f2ec7e011558b] After rule 101A insert—
+**20.**[^c-c1b768fd4d93b962c25f2ec7e011558b] After rule 101A insert—
 
 > **101B. Direction to a local authority under section 447(2) and (3) of the Education Act 1996**
 >
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b768fd4d93b962c25f2ec7e011558b]: Commencement: Art. 20 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-c1b768fd4d93b962c25f2ec7e011558b]: Commencement: Art. 20 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

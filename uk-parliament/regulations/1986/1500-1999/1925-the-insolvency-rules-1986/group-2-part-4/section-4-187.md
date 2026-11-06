@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.187. Liquidator's notice of disclaimer[^key-54411ac4ce5fad66504a971b17018d57]
+## 4.187. Liquidator's notice of disclaimer[^c-54411ac4ce5fad66504a971b17018d57]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ The court shall cause to be endorsed on the original notice, or otherwise record
 
 ## Annotations
 
-[^key-54411ac4ce5fad66504a971b17018d57]: Commencement: [Rule 4.187](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.187) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-54411ac4ce5fad66504a971b17018d57]: Commencement: [Rule 4.187](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.187) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00102]: Marginal citation: \[FORM 4.53\]

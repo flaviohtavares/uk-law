@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59.[^key-80170e63a5306c6f51ef48bfca050855]
+## 59.[^c-80170e63a5306c6f51ef48bfca050855]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ In regulation 6 (register of third country auditors)—
 
 ## Annotations
 
-[^key-80170e63a5306c6f51ef48bfca050855]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-80170e63a5306c6f51ef48bfca050855]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

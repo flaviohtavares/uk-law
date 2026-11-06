@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. General provisions with respect to the exercise of service subsidy functions.[^c10881001][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-921c179b3e022dc12590e5aadfd15866][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 92. General provisions with respect to the exercise of service subsidy functions.[^c10881001][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-921c179b3e022dc12590e5aadfd15866][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) The provisions of sections 89 to 91 of this Act shall be subject to this section and any provision made by regulations under this section.
 
-## 92. General provisions with respect to the exercise of service subsidy functions.[^c10881031][^key-921c179b3e022dc12590e5aadfd15866]
+## 92. General provisions with respect to the exercise of service subsidy functions.[^c10881031][^c-921c179b3e022dc12590e5aadfd15866]
 
 *Extent: S*
 
@@ -48,9 +48,9 @@ summary: ''
 
 [^c10881001]: Extent: This version of this provision extends to England and Wales; a separate version has been created for Scotland only
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-921c179b3e022dc12590e5aadfd15866]: Modification: [Ss. 88-92](https://www.legislation.gov.uk/ukpga/1985/67/section/88): functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
+[^c-921c179b3e022dc12590e5aadfd15866]: Modification: [Ss. 88-92](https://www.legislation.gov.uk/ukpga/1985/67/section/88): functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
 
 [^c10881011]: Modification: S. 92(1) excluded by [1998 c. iii](https://www.legislation.gov.uk/ukla/1998/3), [s. 1](https://www.legislation.gov.uk/ukla/1998/3/section/1), [Sch. Part VI](https://www.legislation.gov.uk/ukla/1998/3/schedule), [s. 51(2)](https://www.legislation.gov.uk/ukla/1998/3/section/51/2)
 

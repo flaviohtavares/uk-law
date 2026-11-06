@@ -55,7 +55,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (1) The Meat Products (Hygiene) Regulations 1994 [^c15924681] are amended in accordance with this regulation.
 
-(2)[^key-c1c7d6d6e488dddabd43833bf825f7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c1c7d6d6e488dddabd43833bf825f7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following paragraph is inserted after paragraph 3 of Part VI of Schedule 2–
 
@@ -75,7 +75,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 .
 
-(4)[^key-b8805bdae0a17cf74209f9937d63af12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b8805bdae0a17cf74209f9937d63af12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995
 
@@ -125,8 +125,8 @@ A regulatory impact assessment has not been prepared for these Regulations.
 
 [^c15924681]: Marginal citation: [S.I. 1994/3082](https://www.legislation.gov.uk/uksi/1994/3082), amended by [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), 1763, 2200 and 3205, [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499), [S.I](https://www.legislation.gov.uk/uksi/1996/1499/section/I). 1999/683, [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), 171 and 288.
 
-[^key-c1c7d6d6e488dddabd43833bf825f7dd]: Textual amendment: Reg. 2(2) omitted (1.2.2002 at 12 p.m.) by virtue of [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2002 (S.S.I. 2002/35)](https://www.legislation.gov.uk/ssi/2002/35), [regs. 1](https://www.legislation.gov.uk/ssi/2002/35/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/1)
+[^c-c1c7d6d6e488dddabd43833bf825f7dd]: Textual amendment: Reg. 2(2) omitted (1.2.2002 at 12 p.m.) by virtue of [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2002 (S.S.I. 2002/35)](https://www.legislation.gov.uk/ssi/2002/35), [regs. 1](https://www.legislation.gov.uk/ssi/2002/35/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/1)
 
 [^c15924691]: Marginal citation: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539) amended by [S.I. 1995/731](https://www.legislation.gov.uk/uksi/1995/731), 1763, 2148, 2200, 3124 and 3189, [S.I. 1996/1148](https://www.legislation.gov.uk/uksi/1996/1148) and 2235, [S.I. 1997/1729](https://www.legislation.gov.uk/uksi/1997/1729) and 2074, [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), 171 and 288
 
-[^key-b8805bdae0a17cf74209f9937d63af12]: Textual amendment: Reg. 2(4) revoked (12.11.2001) by [The Foot-and-Mouth Disease (Marking of Meat, Meat Products, Minced Meat and Meat Preparations) (Scotland) Regulations 2001 (S.S.I. 2001/358)](https://www.legislation.gov.uk/ssi/2001/358), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/358/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2001/358/regulation/5)
+[^c-b8805bdae0a17cf74209f9937d63af12]: Textual amendment: Reg. 2(4) revoked (12.11.2001) by [The Foot-and-Mouth Disease (Marking of Meat, Meat Products, Minced Meat and Meat Preparations) (Scotland) Regulations 2001 (S.S.I. 2001/358)](https://www.legislation.gov.uk/ssi/2001/358), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2001/358/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2001/358/regulation/5)

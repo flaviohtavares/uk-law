@@ -20,20 +20,20 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Welsh Ministers[^key-4586c33df403a402e6104bfb08fe7393] may by regulations make provision for or in connection with enabling an executive of a local authority, or a committee or specified member of such an executive, to arrange for the discharge of any functions which, under executive arrangements, are the responsibility of the executive by an area committee of that authority.
+(1) The Welsh Ministers[^c-4586c33df403a402e6104bfb08fe7393] may by regulations make provision for or in connection with enabling an executive of a local authority, or a committee or specified member of such an executive, to arrange for the discharge of any functions which, under executive arrangements, are the responsibility of the executive by an area committee of that authority.
 
 (2) Regulations under this section may impose limitations or restrictions on the arrangements which may be made by virtue of the regulations (including limitations or restrictions on the functions which may be the subject of such arrangements).
 
 (3) In this section—
 
-- “[^key-677067cc2acd385367bbf94f9179fcee]**area committee**” means[^key-f868619c6b2be8df1f3569d93541f81f] a committee or sub-committee of the authority which satisfies the conditions in subsection (6);
+- “[^c-677067cc2acd385367bbf94f9179fcee]**area committee**” means[^c-f868619c6b2be8df1f3569d93541f81f] a committee or sub-committee of the authority which satisfies the conditions in subsection (6);
 - “**specified**” means specified in regulations under this section.
 
-(4)[^key-58af724e898787741f45e9a5ea981d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-58af724e898787741f45e9a5ea981d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-58af724e898787741f45e9a5ea981d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-58af724e898787741f45e9a5ea981d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-90d80429f2a3752dceb4130803b17b88] A committee or sub-committee of a local authority [^key-86e2431c5195bb0ae644e5b4c6a92086]... satisfies the conditions in this subsection if—
+(6)[^c-90d80429f2a3752dceb4130803b17b88] A committee or sub-committee of a local authority [^c-86e2431c5195bb0ae644e5b4c6a92086]... satisfies the conditions in this subsection if—
 
 - (a) the committee or sub-committee is established to discharge functions in respect of part of the area of the authority,
 - (b) that part consists of the whole of one or more electoral divisions of the authority,
@@ -52,14 +52,14 @@ summary: ''
 
 [^c1427824]: Commencement: S. 18 wholly in force at 1.11.2000; s. 18 not in force at Royal Assent see s. 108; s. 18 in force at 7.8.2000 in relation to England only by [S.I. 2000/2187](https://www.legislation.gov.uk/uksi/2000/2187), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2000/2187/article/1/3), [2(a)](https://www.legislation.gov.uk/uksi/2000/2187/article/2/a); s. 18 in force at 1.11.2000 in relation to Wales by [S.I. 2000/2948](https://www.legislation.gov.uk/uksi/2000/2948), [art. 2](https://www.legislation.gov.uk/uksi/2000/2948/article/2)
 
-[^key-4586c33df403a402e6104bfb08fe7393]: Textual amendment: Words in s. 18(1) substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-4586c33df403a402e6104bfb08fe7393]: Textual amendment: Words in s. 18(1) substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
 
-[^key-677067cc2acd385367bbf94f9179fcee]: Textual amendment: Words in s. 18(3) substituted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 55(2)](https://www.legislation.gov.uk/mwa/2011/4/section/55/2), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2)
+[^c-677067cc2acd385367bbf94f9179fcee]: Textual amendment: Words in s. 18(3) substituted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 55(2)](https://www.legislation.gov.uk/mwa/2011/4/section/55/2), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2)
 
-[^key-f868619c6b2be8df1f3569d93541f81f]: Textual amendment: Word in s. 18(3) substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(3)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/3); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-f868619c6b2be8df1f3569d93541f81f]: Textual amendment: Word in s. 18(3) substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(3)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/3); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
 
-[^key-58af724e898787741f45e9a5ea981d3b]: Textual amendment: S. 18(4)(5) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(4)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/4), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-58af724e898787741f45e9a5ea981d3b]: Textual amendment: S. 18(4)(5) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(4)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/4), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
 
-[^key-90d80429f2a3752dceb4130803b17b88]: Textual amendment: S. 18(6)(7) inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 55(4)](https://www.legislation.gov.uk/mwa/2011/4/section/55/4), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2)
+[^c-90d80429f2a3752dceb4130803b17b88]: Textual amendment: S. 18(6)(7) inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 55(4)](https://www.legislation.gov.uk/mwa/2011/4/section/55/4), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2)
 
-[^key-86e2431c5195bb0ae644e5b4c6a92086]: Textual amendment: Words in s. 18(6) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/5), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-86e2431c5195bb0ae644e5b4c6a92086]: Textual amendment: Words in s. 18(6) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 16(5)](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/16/5), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)

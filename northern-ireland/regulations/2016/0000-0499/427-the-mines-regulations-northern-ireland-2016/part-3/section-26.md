@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Risks of explosion in coal mines[^key-afcebcbf34e02ed4c7022c6b5e9cbfd3]
+## 26. Risks of explosion in coal mines[^c-afcebcbf34e02ed4c7022c6b5e9cbfd3]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The mine operator shall ensure that (where necessary) there are in place—
 
 ## Annotations
 
-[^key-afcebcbf34e02ed4c7022c6b5e9cbfd3]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/427/regulation/26) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-afcebcbf34e02ed4c7022c6b5e9cbfd3]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2016/427/regulation/26) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

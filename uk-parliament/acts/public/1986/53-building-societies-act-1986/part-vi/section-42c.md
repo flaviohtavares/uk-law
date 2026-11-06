@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A direction under section 42B(1) [^c15500731]. . . may be varied by a further direction; and a direction may be revoked by the appropriate authority[^key-db4968cc4a4f3257aed39ff8273b673d] by a notice in writing to the building society concerned.
+(1) A direction under section 42B(1) [^c15500731]. . . may be varied by a further direction; and a direction may be revoked by the appropriate authority[^c-db4968cc4a4f3257aed39ff8273b673d] by a notice in writing to the building society concerned.
 
-(1A)[^key-75387cf376ed89ab902b74cb319b66f3] If the appropriate authority is the PRA, it must consult the FCA before varying or revoking a direction.
+(1A)[^c-75387cf376ed89ab902b74cb319b66f3] If the appropriate authority is the PRA, it must consult the FCA before varying or revoking a direction.
 
 (2)[^c15500751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -36,8 +36,8 @@ summary: ''
 
 [^c15500731]: Textual amendment: Words in s. 42C(1) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-db4968cc4a4f3257aed39ff8273b673d]: Textual amendment: Word in s. 42C(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/14/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-db4968cc4a4f3257aed39ff8273b673d]: Textual amendment: Word in s. 42C(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/14/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-75387cf376ed89ab902b74cb319b66f3]: Textual amendment: S. 42C(1A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 14(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/14/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-75387cf376ed89ab902b74cb319b66f3]: Textual amendment: S. 42C(1A) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 14(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/14/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15500751]: Textual amendment: S. 42C(2)(3) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)

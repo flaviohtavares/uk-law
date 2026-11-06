@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33.[^key-40abee795c360d2b95c1c445a4f2a70d]
+## 33.[^c-40abee795c360d2b95c1c445a4f2a70d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 152 (cash options), in the words following paragraph (b), after “wi
 
 ## Annotations
 
-[^key-40abee795c360d2b95c1c445a4f2a70d]: Commencement: Reg. 33 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-40abee795c360d2b95c1c445a4f2a70d]: Commencement: Reg. 33 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Assignment of numbered 2.6 GHz paired frequency lots in the case where 2.6 GHz paired frequency lots were included in only one winning principal stage bid[^key-98dbf9768f80cc8680ea2f2aa03a3040]
+## 77. Assignment of numbered 2.6 GHz paired frequency lots in the case where 2.6 GHz paired frequency lots were included in only one winning principal stage bid[^c-98dbf9768f80cc8680ea2f2aa03a3040]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98dbf9768f80cc8680ea2f2aa03a3040]: Commencement: Reg. 77 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-98dbf9768f80cc8680ea2f2aa03a3040]: Commencement: Reg. 77 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department may conduct or promote or assist (by grants or otherwise) any person in conducting research or investigations into any matter connected with the functions under this Order of the Department, authorities or, with the consent of the Department of Education, the Education Authority[^key-2113219af7ad6165b065587746d8628a] .
+(1) The Department may conduct or promote or assist (by grants or otherwise) any person in conducting research or investigations into any matter connected with the functions under this Order of the Department, authorities or, with the consent of the Department of Education, the Education Authority[^c-2113219af7ad6165b065587746d8628a] .
 
-(2) The Department of Education may conduct or promote or assist (by grants or otherwise) any person in conducting research or investigations into any matter connected with the functions under this Order of the Education Authority[^key-9e34f050af4385bae8a26ddefdb98386] .
+(2) The Department of Education may conduct or promote or assist (by grants or otherwise) any person in conducting research or investigations into any matter connected with the functions under this Order of the Education Authority[^c-9e34f050af4385bae8a26ddefdb98386] .
 
 (3) Every authority shall, at such times and in such form as the Department may direct, transmit to the Department such particulars as the Department may require with respect to—
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2113219af7ad6165b065587746d8628a]: Textual amendment: Words in [art. 154(1)](https://www.legislation.gov.uk/nisi/1995/755/article/154/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(25)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/25) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-2113219af7ad6165b065587746d8628a]: Textual amendment: Words in [art. 154(1)](https://www.legislation.gov.uk/nisi/1995/755/article/154/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(25)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/25) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-9e34f050af4385bae8a26ddefdb98386]: Textual amendment: Words in [art. 154(2)](https://www.legislation.gov.uk/nisi/1995/755/article/154/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(25)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/25) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-9e34f050af4385bae8a26ddefdb98386]: Textual amendment: Words in [art. 154(2)](https://www.legislation.gov.uk/nisi/1995/755/article/154/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(25)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/25) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

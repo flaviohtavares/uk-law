@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Electronic communications under the 1982 Act[^key-2f9737f49064d7ec80962c960e9bd46e]
+## 83. Electronic communications under the 1982 Act[^c-2f9737f49064d7ec80962c960e9bd46e]
 
 *Extent: S*
 
@@ -168,4 +168,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f9737f49064d7ec80962c960e9bd46e]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2015/10/section/83) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)
+[^c-2f9737f49064d7ec80962c960e9bd46e]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2015/10/section/83) in force at 1.11.2016 by [S.S.I. 2016/307](https://www.legislation.gov.uk/ssi/2016/307), [art. 2](https://www.legislation.gov.uk/ssi/2016/307/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/307/schedule)

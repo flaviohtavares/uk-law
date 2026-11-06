@@ -50,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-ea29b14ef93eff0860fbfc72373541d4]
+### 1. Citation and commencement[^c-ea29b14ef93eff0860fbfc72373541d4]
 
 (1) These Regulations may be cited as the Merchant Shipping (Prevention of Pollution by Sewage and Garbage from Ships) Regulations 2008.
 
 (2) These Regulations come into force on 1st February 2009.
 
-### 2. Interpretation[^key-7a6769a6d9879161beda364b878a9565]
+### 2. Interpretation[^c-7a6769a6d9879161beda364b878a9565]
 
 (1) In these Regulations—
 
@@ -147,7 +147,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) an air-cushion vehicle, a reference to the master of a ship includes a reference to the captain of that air-cushion vehicle, and
 - (b) a platform, a reference to the master of a ship includes a reference to the manager of that platform.
 
-### 3. Meaning of “Special Area” in Part 5[^key-9da6174b2b857b4d8bd5e41d946c7893]
+### 3. Meaning of “Special Area” in Part 5[^c-9da6174b2b857b4d8bd5e41d946c7893]
 
 (1) Subject to paragraph (2), for the purposes of Part 5, a “Special Area” is any of the following areas, that is to say—
 
@@ -168,7 +168,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) establishes, pursuant to paragraph (4)(b) of Regulation 5 of Annex V, as the date from which the requirements of that Regulation take effect in respect of the area in question, and
 - (b) publishes on the website of the IMO.
 
-### 4. Meaning of “from the nearest land”[^key-9b0509f022e8c85a60feb59124b0fdf7]
+### 4. Meaning of “from the nearest land”[^c-9b0509f022e8c85a60feb59124b0fdf7]
 
 In these Regulations, “from the nearest land”, means—
 
@@ -197,11 +197,11 @@ In these Regulations, “from the nearest land”, means—
 
 and “nearest land” is to be construed accordingly.
 
-### 5. Revocations[^key-be7e2df8721a003147349bbd063553ad]
+### 5. Revocations[^c-be7e2df8721a003147349bbd063553ad]
 
 The Merchant Shipping (Prevention of Pollution by Garbage) Regulations 1998[^f00015] are revoked.
 
-### 6. Application[^key-70f8840bcfbb3ea332e9d7b08039650a]
+### 6. Application[^c-70f8840bcfbb3ea332e9d7b08039650a]
 
 (1) Subject to paragraphs (16) to (20), the provisions of these Regulations apply as follows.
 
@@ -307,7 +307,7 @@ The Merchant Shipping (Prevention of Pollution by Garbage) Regulations 1998[^f00
 
 ## PART 2 — Sewage: Survey and Certification of Ships
 
-### 7. Requirement for Sewage Certificate: initial survey[^key-88c1bbd12505ed0dbdf43363b71591f4]
+### 7. Requirement for Sewage Certificate: initial survey[^c-88c1bbd12505ed0dbdf43363b71591f4]
 
 (1) A ship to which this regulation applies must not—
 
@@ -324,7 +324,7 @@ unless the requirements set out in paragraph (2) are met.
 
 (3) A survey carried out under paragraph (2) is referred to in these Regulations as an “initial survey”.
 
-### 8. Renewal of Sewage Certificate: renewal survey[^key-d99148e43ed4f4c1ab6c0cd475428d9d]
+### 8. Renewal of Sewage Certificate: renewal survey[^c-d99148e43ed4f4c1ab6c0cd475428d9d]
 
 (1) A ship to which this regulation applies must not—
 
@@ -341,7 +341,7 @@ after the date of expiry of a Sewage Certificate issued in respect of that ship 
 
 (3) A survey carried out under paragraph (2) is referred to in these Regulations as a “renewal survey”.
 
-### 9. Responsibilities of the owner and master of a ship[^key-03e84801222d3269da7de59e5af77341]
+### 9. Responsibilities of the owner and master of a ship[^c-03e84801222d3269da7de59e5af77341]
 
 (1) The owner and the master of a ship to which this regulation applies must ensure that the condition of the ship and its equipment are maintained to conform with the provisions of Parts 3 and 4 so as to ensure that the ship in all respects remains fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment.
 
@@ -371,7 +371,7 @@ which substantially affects the integrity of the ship or the efficiency or compl
 
 (6) Whenever an accident or defect is reported to a Certifying Authority in accordance with paragraph (4)(a) and the ship in question is in a port outside the United Kingdom, the Certifying Authority must take all appropriate steps to ascertain that the requirement in paragraph (4)(b) has been complied with.
 
-### 10. Additional surveys[^key-f1370364d0105ce6ed173096093469e4]
+### 10. Additional surveys[^c-f1370364d0105ce6ed173096093469e4]
 
 (1) This regulation applies to a ship where—
 
@@ -396,7 +396,7 @@ unless the requirements set out in paragraph (3) are met.
 
 (4) A survey carried out under paragraph (3) is referred to in these Regulations as an “additional survey”.
 
-### 11. Issue of Sewage Certificates by a Certifying Authority[^key-28e15be87e93087efe825ce737086926]
+### 11. Issue of Sewage Certificates by a Certifying Authority[^c-28e15be87e93087efe825ce737086926]
 
 (1) Subject to the payment of any fee due under the Merchant Shipping (Fees) Regulations 2006[^f00016], on being notified by a surveyor that the surveyor—
 
@@ -417,7 +417,7 @@ a Certifying Authority must issue a Sewage Certificate in respect of that ship.
 
 (4) A Sewage Certificate issued under this regulation must be in English and in the form set out in the Appendix to Annex IV.
 
-### 12. Issue of Sewage Certificates by another Government in respect of United Kingdom ships[^key-29abe59a9b77e97b5f4e8656b2ca378d]
+### 12. Issue of Sewage Certificates by another Government in respect of United Kingdom ships[^c-29abe59a9b77e97b5f4e8656b2ca378d]
 
 (1) The Secretary of State may request a Contracting Government”—
 
@@ -429,7 +429,7 @@ a Certifying Authority must issue a Sewage Certificate in respect of that ship.
 - (a) the Secretary of State is to be treated as the Certifying Authority in relation to it, and
 - (b) any reference in these Regulations to the Certifying Authority who issued the Certificate is to be treated as a reference to the Secretary of State.
 
-### 13. Issue of Sewage Certificates in respect of ships which are not United Kingdom ships[^key-d02f02dd4133dca6eaa430e3e1cedc11]
+### 13. Issue of Sewage Certificates in respect of ships which are not United Kingdom ships[^c-d02f02dd4133dca6eaa430e3e1cedc11]
 
 (1) When requested to do so by a Contracting Government”, the Secretary of State—
 
@@ -452,7 +452,7 @@ a Certifying Authority must issue a Sewage Certificate in respect of that ship.
 - (a) registered in a State whose Government is not a Contracting Government”, or
 - (b) is not registered, but is entitled to fly the flag of a State whose Government is not a Contracting Government”.
 
-### 14. Duration and validity of Sewage Certificates[^key-8c2c1c1bbdee03bf40d4fb191df474c9]
+### 14. Duration and validity of Sewage Certificates[^c-8c2c1c1bbdee03bf40d4fb191df474c9]
 
 (1) Subject to the following paragraphs and to regulations 16(3) and 18(1), a Sewage Certificate which is issued in respect of a ship to which this regulation applies is valid for such period as is specified in the certificate, not exceeding five years, beginning with the date of the completion of the relevant initial or renewal survey.
 
@@ -479,7 +479,7 @@ the new Sewage Certificate is valid for such period as is specified in the Certi
 
 (5) In this regulation, the “final three month period” means the period of three months ending on the date of expiry of the Sewage Certificate in question.
 
-### 15. Extension of periods of validity of Sewage Certificates[^key-64767df08d5cbb7507d40e43144db617]
+### 15. Extension of periods of validity of Sewage Certificates[^c-64767df08d5cbb7507d40e43144db617]
 
 (1) Where the period of the validity of a Sewage Certificate in respect of a ship to which this regulation applies is less than five years, the Certifying Authority who issued the Sewage Certificate may extend its period of validity to a maximum period of five years.
 
@@ -520,7 +520,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 
 (12) In this regulation, “the original date of expiry” means the date on which a Sewage Certificate would have expired but for any extension of its period of validity.
 
-### 16. Procedure to be adopted when a ship is deficient[^key-e5ee0272640785fb913cbee3d4baa2cb]
+### 16. Procedure to be adopted when a ship is deficient[^c-e5ee0272640785fb913cbee3d4baa2cb]
 
 (1) This regulation applies where a surveyor determines that—
 
@@ -548,7 +548,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 - (a) the reference to “the Certifying Authority” were to the Government of the State where the ship is registered (or if the ship is not registered, the Government of the flag State), and
 - (b) the reference to a “surveyor” included a reference to a person authorised by that Government to survey the ship.
 
-### 17. Arbitration[^key-f87c4457dbe7d988a554293cc21ff01c]
+### 17. Arbitration[^c-f87c4457dbe7d988a554293cc21ff01c]
 
 (1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a ship to which this regulation applies, the applicant may serve a written notice on the responsible person within 21 days of receiving notification of that outcome—
 
@@ -588,7 +588,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
   - (i) the Certifying Authority responsible under regulation 11 or 12 for the issue of the Sewage Certificate in connection with which a survey required by these Regulations is carried out, or
   - (ii) in the case of a dispute relating to an additional survey, the Certifying Authority which issued the Sewage Certificate in respect of the ship.
 
-### 18. Miscellaneous provisions relating to Sewage Certificates[^key-c16ed8a9b6bc393be6d39d11073be155]
+### 18. Miscellaneous provisions relating to Sewage Certificates[^c-c16ed8a9b6bc393be6d39d11073be155]
 
 (1) The Secretary of State may cancel a Sewage Certificate issued in respect of a ship to which this paragraph applies, where the Secretary of State has reason to believe that—
 
@@ -608,7 +608,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 
 (4) The owner and master of a ship, in respect of which a Sewage Certificate has been issued and in relation to which this paragraph applies, must ensure that the Certificate is readily available on board the ship for examination at all times.
 
-### 19. Prohibition on non United Kingdom ships proceeding to sea without a Sewage Certificate[^key-4e7deb6b2c9d8c3300f7f278855d9a47]
+### 19. Prohibition on non United Kingdom ships proceeding to sea without a Sewage Certificate[^c-4e7deb6b2c9d8c3300f7f278855d9a47]
 
 (1) A ship to which this paragraph applies must not proceed to sea from a port in the United Kingdom unless—
 
@@ -621,7 +621,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 - (a) a survey has been carried out in respect of the ship as if regulation 7 applied to the ship, and
 - (b) a surveyor of ships is satisfied that the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment, or a person having powers to detain the ship has permitted the ship to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard available.
 
-### 20. Survey and certification of ships to which regulations 7, 8 and 10 do not apply[^key-f5bdfeafe2065bcdab08c3dc03c8c209]
+### 20. Survey and certification of ships to which regulations 7, 8 and 10 do not apply[^c-f5bdfeafe2065bcdab08c3dc03c8c209]
 
 (1) When requested by the owner of a ship to which this regulation applies, a surveyor may carry out a survey equivalent to one carried out under regulation 7, 8 or 10 in respect of that ship.
 
@@ -645,7 +645,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 
 ## PART 3 — Sewage: Equipment of Ships
 
-### 21. Sewage systems[^key-4b597dd89b4142adc5017b4b445f6e12]
+### 21. Sewage systems[^c-4b597dd89b4142adc5017b4b445f6e12]
 
 (1) A ship to which this paragraph applies, other than an old ship, must be equipped with at least one of the following—
 
@@ -671,7 +671,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 - (b) the capacity of the holding tank is sufficient, having regard to the operation of the ship, the number of persons the ship is certified to carry and any other relevant factors, and
 - (c) the holding tank is capable of indicating visually the amount of its contents.
 
-### 22. Discharge connections[^key-a6af06561c39d7468836f2c0c7ebc696]
+### 22. Discharge connections[^c-a6af06561c39d7468836f2c0c7ebc696]
 
 (1) Subject to paragraph (2), the sewage discharge pipeline of a ship to which this regulation applies must be fitted with a standard discharge connection in accordance with Schedule 1 to Merchant Shipping Notice MSN No. 1807 to enable that pipeline to be connected to a pipe of a facility for the reception of sewage.
 
@@ -679,7 +679,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 
 ## PART 4 — Discharge of Sewage
 
-### 23. Prohibition against discharging sewage from a ship into the sea[^key-ad735a9498976b49ce8b68384cb25022]
+### 23. Prohibition against discharging sewage from a ship into the sea[^c-ad735a9498976b49ce8b68384cb25022]
 
 (1) Subject to paragraph (3) and regulations 24 and 25, the discharge of sewage from a ship to which this regulation applies into the sea is prohibited.
 
@@ -687,7 +687,7 @@ is such period as is specified in the new Certificate, not exceeding five years 
 
 (3) This regulation does not apply to an old ship if it complies with regulation 21(2).
 
-### 24. Exception for a ship equipped with a sewage treatment plant[^key-02f857347034c7d21e72b2c47d83804b]
+### 24. Exception for a ship equipped with a sewage treatment plant[^c-02f857347034c7d21e72b2c47d83804b]
 
 Sewage may be discharged from a ship into the sea if—
 
@@ -697,7 +697,7 @@ Sewage may be discharged from a ship into the sea if—
   - (i) there are no visible floating solids, and
   - (ii) there is no discoloration of the water into which the sewage is discharged.
 
-### 25. Exception for other ships[^key-a8ffd197f2c1da005fdbe1f054305a4f]
+### 25. Exception for other ships[^c-a8ffd197f2c1da005fdbe1f054305a4f]
 
 (1) Subject to paragraph (3), treated sewage may be discharged from a ship into the sea if—
 
@@ -720,7 +720,7 @@ has been stored in a holding tank, or originates from spaces containing living a
 
 ## PART 5 — Disposal of Garbage
 
-### 26. Prohibition on disposal of plastics or mixtures of garbage from a ship[^key-e004ba9776c54a3f6b3dcafaf077859e]
+### 26. Prohibition on disposal of plastics or mixtures of garbage from a ship[^c-e004ba9776c54a3f6b3dcafaf077859e]
 
 (1) The disposal into the sea of any plastics from a ship to which this regulation applies is prohibited.
 
@@ -741,7 +741,7 @@ the disposal into the sea of that mixed garbage is prohibited.
 
 the disposal into the sea of that mixed garbage is prohibited unless the more stringent requirements are complied with.
 
-### 27. Prohibition on disposal of garbage other than plastics from a ship outside a Special Area[^key-69d68d1ebdc2f8069913a43978dc8cd5]
+### 27. Prohibition on disposal of garbage other than plastics from a ship outside a Special Area[^c-69d68d1ebdc2f8069913a43978dc8cd5]
 
 (1) This regulation is subject to regulation 29.
 
@@ -765,7 +765,7 @@ the disposal into the sea of that mixed garbage is prohibited unless the more st
 - (a) plastics, and
 - (b) dunnage, lining and packing materials which will float.
 
-### 28. Prohibition on disposal of garbage from a ship within a Special Area[^key-ed00670069a7865d70d894c2f15e59d3]
+### 28. Prohibition on disposal of garbage from a ship within a Special Area[^c-ed00670069a7865d70d894c2f15e59d3]
 
 (1) The disposal of garbage, other than food wastes, from a ship to which this regulation applies into the sea within a Special Area is prohibited.
 
@@ -779,20 +779,20 @@ the disposal into the sea of that mixed garbage is prohibited unless the more st
 - (a) the distance from the ship to the nearest land is three nautical miles or more, and
 - (b) the disposal is made as far from the nearest land as is practicable.
 
-### 29. Prohibition on disposal of garbage from a relevant platform or from a ship alongside a relevant platform[^key-28016eccb37c7342ae14c34e88ab83ea]
+### 29. Prohibition on disposal of garbage from a relevant platform or from a ship alongside a relevant platform[^c-28016eccb37c7342ae14c34e88ab83ea]
 
 (1) The disposal of garbage, other than the food wastes referred to in paragraph (2), into the sea from a ship to which this regulation applies is prohibited.
 
 (2) The disposal of food wastes, which have been ground or comminuted to the required standard, into the sea from a ship to which this regulation applies is prohibited, if the distance from the relevant platform in question to the nearest land is 12 nautical miles or less.
 
-### 30. Restriction on United Kingdom ships entering the Antarctic area[^key-e4b0952952e8f37032ba4871c98b3587]
+### 30. Restriction on United Kingdom ships entering the Antarctic area[^c-e4b0952952e8f37032ba4871c98b3587]
 
 A ship to which this regulation applies must not enter the Antarctic area unless—
 
 - (a) it has sufficient capacity for the retention on board of all garbage while operating in that area, and
 - (b) it has concluded arrangements for the discharge of retained garbage at a reception facility after it has left that area.
 
-### 31. Placards on ships[^key-51df489f74736e30f1aad7e22383eb3f]
+### 31. Placards on ships[^c-51df489f74736e30f1aad7e22383eb3f]
 
 (1) A ship to which the regulation applies must display placards which notify the crew and any passengers of the requirements for the disposal of garbage contained in regulations 26 to 28 and 30.
 
@@ -803,7 +803,7 @@ A ship to which this regulation applies must not enter the Antarctic area unless
 
 ## PART 6 — Garbage Management Plans and Record books
 
-### 32. Garbage management plan[^key-04587f042d788e657fa30c188ae19d5d]
+### 32. Garbage management plan[^c-04587f042d788e657fa30c188ae19d5d]
 
 (1) Every ship to which this regulation applies must carry a garbage management plan which complies with paragraph (2).
 
@@ -816,7 +816,7 @@ A ship to which this regulation applies must not enter the Antarctic area unless
 
 (3) The master of a ship must ensure that the crew of the ship follow the garbage management plan relating to the ship.
 
-### 33. Garbage record books[^key-781552738c30d439e11468277efa8cc9]
+### 33. Garbage record books[^c-781552738c30d439e11468277efa8cc9]
 
 (1) Every ship to which this regulation applies must keep on board a garbage record book which complies with paragraph (2).
 
@@ -826,7 +826,7 @@ A ship to which this regulation applies must not enter the Antarctic area unless
 
 (4) The owner of a ship must preserve the garbage record book for that ship for a period of two years from the date of the final entry made in it.
 
-### 34. Entries in garbage record books[^key-b0d294bb097ccaf10be8ccf517729ee7]
+### 34. Entries in garbage record books[^c-b0d294bb097ccaf10be8ccf517729ee7]
 
 (1) In relation to a ship to which this regulation applies, the officer in charge of a discharge operation or an incineration must make and sign an entry in the garbage record book in respect of that discharge or incineration, as the case may be, on the date of the discharge or on the date on which the incineration is completed.
 
@@ -847,13 +847,13 @@ A ship to which this regulation applies must not enter the Antarctic area unless
 
 (7) The master of a ship must sign each completed page of the garbage record book relating to the ship.
 
-### 35. Exemptions from regulations 33 and 34[^key-69baaa9495cb8c31d7dd01a20789d419]
+### 35. Exemptions from regulations 33 and 34[^c-69baaa9495cb8c31d7dd01a20789d419]
 
 The Secretary of State may grant an exemption in writing from one or more of the requirements of regulations 33 and 34 in respect of a ship to which this regulation applies.
 
 ## PART 7 — Inspections, Detentions and Offences
 
-### 36. Inspection of ships[^key-cb2810efa607f26514377dc2901cfde8]
+### 36. Inspection of ships[^c-cb2810efa607f26514377dc2901cfde8]
 
 (1) In so far as sections 258 and 259 of the 1995 Act[^f00019] (powers to inspect ships and their equipment, and powers of inspectors in relation to premises and ships) apply in relation to a ship to which any of these Regulations apply, for the purposes of checking compliance with these Regulations those sections have effect subject to the following modifications.
 
@@ -884,7 +884,7 @@ except where there are clear grounds for believing that the condition of the shi
 
 (6) That certified copy is to be admissible in any judicial proceedings as evidence of the facts stated in it.
 
-### 37. Investigation of alleged violations by United Kingdom ships[^key-cebc30d1b4e414b8e13aad0d5f147030]
+### 37. Investigation of alleged violations by United Kingdom ships[^c-cebc30d1b4e414b8e13aad0d5f147030]
 
 Upon receiving evidence that a United Kingdom ship has discharged any sewage or disposed of any garbage in violation of these Regulations the Secretary of State must—
 
@@ -892,7 +892,7 @@ Upon receiving evidence that a United Kingdom ship has discharged any sewage or 
 - (b) inform the IMO of the action taken, and
 - (c) where another State has reported the violation, inform that State of the action taken.
 
-### 38. General provisions on detention[^key-729a3f4513e379491c48e900c438c22b]
+### 38. General provisions on detention[^c-729a3f4513e379491c48e900c438c22b]
 
 (1) Subject to paragraph (2), where regulation 16(1) has effect in relation to a ship, or a surveyor of ships has clear grounds for believing that—
 
@@ -955,7 +955,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
 - (b) references to an offence under section 131 were references to an offence under regulation 42(1)(e) or (f).
 
-### 39. Power for harbour master to detain[^key-ab629e81e41490ad192b3d425bb1f39a]
+### 39. Power for harbour master to detain[^c-ab629e81e41490ad192b3d425bb1f39a]
 
 (1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that an offence has been committed—
 
@@ -1000,11 +1000,11 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner or the ship were references to the owner, manager, demise charterer or master; and
 - (b) references to an offence under section 131 were references to an offence under regulation 42(1)(e) or (f).
 
-### 40. Duty of harbour master to report deficient ships[^key-c2401eb79ecfce593d8cab37f62d83f7]
+### 40. Duty of harbour master to report deficient ships[^c-c2401eb79ecfce593d8cab37f62d83f7]
 
 If the harbour master of a harbour in the United Kingdom has reason to believe that a ship is about to enter or leave the harbour and does not comply with the requirements of these Regulations, the harbour master must immediately report the matter to the Secretary of State.
 
-### 41. Right of appeal and compensation[^key-99287276f02715c08473565f9cdbed04]
+### 41. Right of appeal and compensation[^c-99287276f02715c08473565f9cdbed04]
 
 (1) Regulations 11 and 12 of the 1995 Regulations (right of appeal and compensation) apply in relation to the exercise of the power of detention under these Regulations as they apply in relation to the exercise of those powers under Part 1 of those Regulations, subject to the modifications referred to in paragraph (2).
 
@@ -1014,7 +1014,7 @@ If the harbour master of a harbour in the United Kingdom has reason to believe t
 - (b) references to “access refusal notice”, “service of an access refusal notice” and “refusal of access” are omitted, and
 - (c) in regulation 12(2) after “State” there is added “, except where the ship is detained by a harbour master, in which case any compensation awarded under this section shall be payable by the harbour authority.”.
 
-### 42. Offences[^key-da48e68f5f99b16bcd3e8e8963f85977]
+### 42. Offences[^c-da48e68f5f99b16bcd3e8e8963f85977]
 
 (1) Any contravention of*—*
 
@@ -1041,7 +1041,7 @@ If the harbour master of a harbour in the United Kingdom has reason to believe t
 
 (4) Where an offence under this regulation is committed, or would be committed save for the operation of regulation 47(1), by any person due to the act or default of some other person, that other person is also guilty of the offence, and a person may be charged with and convicted of an offence by virtue of this paragraph whether or not proceedings are taken against the first mentioned person.
 
-### 43. Service of documents on foreign companies[^key-ad1c0c6d742eb153678bfa0b2525aa78]
+### 43. Service of documents on foreign companies[^c-ad1c0c6d742eb153678bfa0b2525aa78]
 
 Section 143(6) of the 1995 Act (service of documents on foreign companies required or authorised by any statutory provision in connection with proceedings for an offence under section 131 of the 1995 Act) applies to proceedings for an offence under these Regulations as it applies to proceedings for an offence under section 131, as if—
 
@@ -1051,14 +1051,14 @@ Section 143(6) of the 1995 Act (service of documents on foreign companies requir
   - (i) the owner of the ship were to the owner of the platform,
   - (ii) the master of the ship were to the manager of the platform.
 
-### 44. Enforcement and application of fines[^key-bcd9406d10674d05c43ce1b68dc1579e]
+### 44. Enforcement and application of fines[^c-bcd9406d10674d05c43ce1b68dc1579e]
 
 Section 146 of the 1995 Act (enforcement and application of fines) applies to any fine for an offence under regulation 42(1)(e) to (m), as if—
 
 - (a) in subsection (1) of that section the reference to proceedings against the owner or master of a ship for an offence under Chapter 2 were a reference to proceedings against the owner, master, demise charterer or manager for an offence under regulation 42(1)(e) to (m); and
 - (b) in subsection (2) of that section, the reference to an offence under section 131 were a reference to an offence under regulation 42(1)(e) or (f).
 
-### 45. Restriction on jurisdiction over offences outside United Kingdom limits[^key-47907bf2e4059ad7da2635f00f9a6500]
+### 45. Restriction on jurisdiction over offences outside United Kingdom limits[^c-47907bf2e4059ad7da2635f00f9a6500]
 
 (1) Where there has been an offence under regulation 42(1)(e) or (f) in respect of a ship which is not a United Kingdom ship in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of that offence must not be instituted in the United Kingdom unless—
 
@@ -1069,7 +1069,7 @@ Section 146 of the 1995 Act (enforcement and application of fines) applies to an
 
 (3) In this regulation, “foreign State” means a State other than the United Kingdom.
 
-### 46. Suspension of proceedings at flag state request[^key-c9e253760560a0745b1a313af481d011]
+### 46. Suspension of proceedings at flag state request[^c-c9e253760560a0745b1a313af481d011]
 
 (1) This regulation applies to proceedings instituted but not concluded in the United Kingdom in respect of a contravention of a provision in Part 4, 5 or 6 committed outside United Kingdom waters by a ship other than a United Kingdom ship.
 
@@ -1082,7 +1082,7 @@ Section 146 of the 1995 Act (enforcement and application of fines) applies to an
 
 (4) Where proceedings instituted by the flag State have been brought to a conclusion, the suspended proceedings must be terminated.
 
-### 47. Defences[^key-446d5c8e9ea32f1a6e43e370087384a4]
+### 47. Defences[^c-446d5c8e9ea32f1a6e43e370087384a4]
 
 (1) In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove that that person took all reasonable steps and exercised all due diligence to ensure that the regulation in question was complied with.
 
@@ -1111,39 +1111,39 @@ Department for Transport
 
 Regulation 2(1)
 
-**1.**[^key-8d6c6e8db25a290cb73a4b0279c3ab94] The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 to 7, and the “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 8 to 10.
+**1.**[^c-8d6c6e8db25a290cb73a4b0279c3ab94] The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 to 7, and the “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 8 to 10.
 
-**2.**[^key-2011ffdd6450661a03a209ac01e28269] In this Schedule—
+**2.**[^c-2011ffdd6450661a03a209ac01e28269] In this Schedule—
 
 - “the 1997 Regulations” means the Merchant Shipping (Tonnage) Regulations 1997[^f00026];
 - “length overall” and “length” (except in the expression “length overall”) have the same meaning as in the 1997 Regulations; and
 - “the Tonnage Convention” means the International Convention on Tonnage Measurement of Ships, 1969[^f00027].
 
-### 3. United Kingdom ships[^key-9b8bd434906930473a0b3c727b3dee11]
+### 3. United Kingdom ships[^c-9b8bd434906930473a0b3c727b3dee11]
 
 In the case of a ship of 24 metres in length or over for which the Secretary of State permits the continuing use of a gross tonnage pursuant to regulation 12(1) of the 1997 Regulations, the “gross tonnage” is the smaller of—
 
 - (a) the largest gross tonnage permitted for that ship pursuant to regulation 12(1) of the 1997 Regulations; and
 - (b) the gross tonnage of the ship determined in accordance with regulation 6 of the 1997 Regulations.
 
-**4.**[^key-47050b2798a8b2150ba3002fad526108] In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 of the 1997 Regulations.
+**4.**[^c-47050b2798a8b2150ba3002fad526108] In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 of the 1997 Regulations.
 
-**5.**[^key-73b8ef7caf3454d05cebad960b359702] In the case of a fishing vessel of 15 metres or more in length overall but less than 24 metres in length, the “gross tonnage” is the tonnage of the vessel determined in accordance with regulations 6 and 12C[^f00028] of the 1997 Regulations.
+**5.**[^c-73b8ef7caf3454d05cebad960b359702] In the case of a fishing vessel of 15 metres or more in length overall but less than 24 metres in length, the “gross tonnage” is the tonnage of the vessel determined in accordance with regulations 6 and 12C[^f00028] of the 1997 Regulations.
 
-**6.**[^key-94379c528b9c95493ef13b6970be49e7] In the case of a fishing vessel of less than 15 metres in length overall and less than 24 metres in length, the “gross tonnage” is the Registered Tonnage of the vessel determined in accordance with regulation 7 of the Merchant Shipping (Fishing Vessels – Tonnage) Regulations 1988[^f00029].
+**6.**[^c-94379c528b9c95493ef13b6970be49e7] In the case of a fishing vessel of less than 15 metres in length overall and less than 24 metres in length, the “gross tonnage” is the Registered Tonnage of the vessel determined in accordance with regulation 7 of the Merchant Shipping (Fishing Vessels – Tonnage) Regulations 1988[^f00029].
 
-**7.**[^key-8264962ef5d5b7b72df384b34cc29b6e] In the case of any other ship of less than 24 metres in length, the “gross tonnage” is the tonnage of the ship determined in accordance with regulation 14(2) of the 1997 Regulations.
+**7.**[^c-8264962ef5d5b7b72df384b34cc29b6e] In the case of any other ship of less than 24 metres in length, the “gross tonnage” is the tonnage of the ship determined in accordance with regulation 14(2) of the 1997 Regulations.
 
-### 8. Ships other than United Kingdom ships[^key-3eee2aba82d7a6547026f76d4de980af]
+### 8. Ships other than United Kingdom ships[^c-3eee2aba82d7a6547026f76d4de980af]
 
 Subject to paragraph 9, in the case of a ship which has a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is that gross tonnage.
 
-**9.**[^key-b2585c6fbdf23c77d2aacbd509628624] Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the State whose flag the ship flies or is entitled to fly permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
+**9.**[^c-b2585c6fbdf23c77d2aacbd509628624] Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the State whose flag the ship flies or is entitled to fly permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
 
 - (a) the largest gross tonnage permitted by the flag State to be used for that ship; and
 - (b) the gross tonnage determined in accordance with the Tonnage Convention.
 
-**10.**[^key-d0ff7b3288c8a3c83a5a81635e24b00f] In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the State whose flag the ship flies or is entitled to fly (and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them).
+**10.**[^c-d0ff7b3288c8a3c83a5a81635e24b00f] In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the State whose flag the ship flies or is entitled to fly (and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them).
 
 EXPLANATORY NOTE
 
@@ -1171,9 +1171,9 @@ Copies of the Convention and its Protocols and amendments, and of the Convention
 
 [^f00003]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); there are amendments to section 128 which are not relevant to these Regulations. In relation to section 128(6), these Regulations are “Regulations made by virtue of paragraph (f) of subsection (4)” of section 128, since they are made under [S.I. 2006/2950](https://www.legislation.gov.uk/uksi/2006/2950) which, pursuant to section 128(4)(f), authorises the making of regulations.
 
-[^key-ea29b14ef93eff0860fbfc72373541d4]: Commencement: Reg. 1 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-ea29b14ef93eff0860fbfc72373541d4]: Commencement: Reg. 1 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-7a6769a6d9879161beda364b878a9565]: Commencement: Reg. 2 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-7a6769a6d9879161beda364b878a9565]: Commencement: Reg. 2 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 1995/3128](https://www.legislation.gov.uk/uksi/1995/3128), amended by [S.I. 1998/1433](https://www.legislation.gov.uk/uksi/1998/1433), [1998/2198](https://www.legislation.gov.uk/uksi/1998/2198), [2001/2349](https://www.legislation.gov.uk/uksi/2001/2349) and [2003/1636](https://www.legislation.gov.uk/uksi/2003/1636).
 
@@ -1197,87 +1197,87 @@ Copies of the Convention and its Protocols and amendments, and of the Convention
 
 [^f00014]: Footnote: Cmnd. 4078.
 
-[^key-9da6174b2b857b4d8bd5e41d946c7893]: Commencement: Reg. 3 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-9da6174b2b857b4d8bd5e41d946c7893]: Commencement: Reg. 3 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-9b0509f022e8c85a60feb59124b0fdf7]: Commencement: Reg. 4 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-9b0509f022e8c85a60feb59124b0fdf7]: Commencement: Reg. 4 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-be7e2df8721a003147349bbd063553ad]: Commencement: Reg. 5 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-be7e2df8721a003147349bbd063553ad]: Commencement: Reg. 5 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 1998/1377](https://www.legislation.gov.uk/uksi/1998/1377).
 
-[^key-70f8840bcfbb3ea332e9d7b08039650a]: Commencement: Reg. 6 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-70f8840bcfbb3ea332e9d7b08039650a]: Commencement: Reg. 6 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-88c1bbd12505ed0dbdf43363b71591f4]: Commencement: Reg. 7 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-88c1bbd12505ed0dbdf43363b71591f4]: Commencement: Reg. 7 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-d99148e43ed4f4c1ab6c0cd475428d9d]: Commencement: Reg. 8 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-d99148e43ed4f4c1ab6c0cd475428d9d]: Commencement: Reg. 8 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-03e84801222d3269da7de59e5af77341]: Commencement: Reg. 9 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-03e84801222d3269da7de59e5af77341]: Commencement: Reg. 9 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-f1370364d0105ce6ed173096093469e4]: Commencement: Reg. 10 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-f1370364d0105ce6ed173096093469e4]: Commencement: Reg. 10 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-28e15be87e93087efe825ce737086926]: Commencement: Reg. 11 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-28e15be87e93087efe825ce737086926]: Commencement: Reg. 11 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2006/2055](https://www.legislation.gov.uk/uksi/2006/2055), to which there are amendments not relevant to these Regulations.
 
-[^key-29abe59a9b77e97b5f4e8656b2ca378d]: Commencement: Reg. 12 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-29abe59a9b77e97b5f4e8656b2ca378d]: Commencement: Reg. 12 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-d02f02dd4133dca6eaa430e3e1cedc11]: Commencement: Reg. 13 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-d02f02dd4133dca6eaa430e3e1cedc11]: Commencement: Reg. 13 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-8c2c1c1bbdee03bf40d4fb191df474c9]: Commencement: Reg. 14 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-8c2c1c1bbdee03bf40d4fb191df474c9]: Commencement: Reg. 14 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-64767df08d5cbb7507d40e43144db617]: Commencement: Reg. 15 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-64767df08d5cbb7507d40e43144db617]: Commencement: Reg. 15 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-e5ee0272640785fb913cbee3d4baa2cb]: Commencement: Reg. 16 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-e5ee0272640785fb913cbee3d4baa2cb]: Commencement: Reg. 16 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-f87c4457dbe7d988a554293cc21ff01c]: Commencement: Reg. 17 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-f87c4457dbe7d988a554293cc21ff01c]: Commencement: Reg. 17 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00017]: Footnote: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41), to which there are amendments not relevant to these Regulations.
 
-[^key-c16ed8a9b6bc393be6d39d11073be155]: Commencement: Reg. 18 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-c16ed8a9b6bc393be6d39d11073be155]: Commencement: Reg. 18 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-4e7deb6b2c9d8c3300f7f278855d9a47]: Commencement: Reg. 19 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-4e7deb6b2c9d8c3300f7f278855d9a47]: Commencement: Reg. 19 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-f5bdfeafe2065bcdab08c3dc03c8c209]: Commencement: Reg. 20 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-f5bdfeafe2065bcdab08c3dc03c8c209]: Commencement: Reg. 20 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-4b597dd89b4142adc5017b4b445f6e12]: Commencement: Reg. 21 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-4b597dd89b4142adc5017b4b445f6e12]: Commencement: Reg. 21 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 1999/1957](https://www.legislation.gov.uk/uksi/1999/1957), amended by [S.I. 2001/1638](https://www.legislation.gov.uk/uksi/2001/1638), [2004/302](https://www.legislation.gov.uk/uksi/2004/302) and [2004/1266](https://www.legislation.gov.uk/uksi/2004/1266).
 
-[^key-a6af06561c39d7468836f2c0c7ebc696]: Commencement: Reg. 22 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-a6af06561c39d7468836f2c0c7ebc696]: Commencement: Reg. 22 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-ad735a9498976b49ce8b68384cb25022]: Commencement: Reg. 23 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-ad735a9498976b49ce8b68384cb25022]: Commencement: Reg. 23 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-02f857347034c7d21e72b2c47d83804b]: Commencement: Reg. 24 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-02f857347034c7d21e72b2c47d83804b]: Commencement: Reg. 24 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-a8ffd197f2c1da005fdbe1f054305a4f]: Commencement: Reg. 25 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-a8ffd197f2c1da005fdbe1f054305a4f]: Commencement: Reg. 25 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-e004ba9776c54a3f6b3dcafaf077859e]: Commencement: Reg. 26 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-e004ba9776c54a3f6b3dcafaf077859e]: Commencement: Reg. 26 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-69d68d1ebdc2f8069913a43978dc8cd5]: Commencement: Reg. 27 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-69d68d1ebdc2f8069913a43978dc8cd5]: Commencement: Reg. 27 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-ed00670069a7865d70d894c2f15e59d3]: Commencement: Reg. 28 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-ed00670069a7865d70d894c2f15e59d3]: Commencement: Reg. 28 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-28016eccb37c7342ae14c34e88ab83ea]: Commencement: Reg. 29 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-28016eccb37c7342ae14c34e88ab83ea]: Commencement: Reg. 29 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-e4b0952952e8f37032ba4871c98b3587]: Commencement: Reg. 30 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-e4b0952952e8f37032ba4871c98b3587]: Commencement: Reg. 30 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-51df489f74736e30f1aad7e22383eb3f]: Commencement: Reg. 31 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-51df489f74736e30f1aad7e22383eb3f]: Commencement: Reg. 31 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-04587f042d788e657fa30c188ae19d5d]: Commencement: Reg. 32 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-04587f042d788e657fa30c188ae19d5d]: Commencement: Reg. 32 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-781552738c30d439e11468277efa8cc9]: Commencement: Reg. 33 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-781552738c30d439e11468277efa8cc9]: Commencement: Reg. 33 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-b0d294bb097ccaf10be8ccf517729ee7]: Commencement: Reg. 34 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-b0d294bb097ccaf10be8ccf517729ee7]: Commencement: Reg. 34 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-69baaa9495cb8c31d7dd01a20789d419]: Commencement: Reg. 35 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-69baaa9495cb8c31d7dd01a20789d419]: Commencement: Reg. 35 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-cb2810efa607f26514377dc2901cfde8]: Commencement: Reg. 36 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-cb2810efa607f26514377dc2901cfde8]: Commencement: Reg. 36 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00019]: Footnote: Section 258 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 4.
 
-[^key-cebc30d1b4e414b8e13aad0d5f147030]: Commencement: Reg. 37 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-cebc30d1b4e414b8e13aad0d5f147030]: Commencement: Reg. 37 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-729a3f4513e379491c48e900c438c22b]: Commencement: Reg. 38 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-729a3f4513e379491c48e900c438c22b]: Commencement: Reg. 38 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00020]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1.
 
@@ -1285,54 +1285,54 @@ Copies of the Convention and its Protocols and amendments, and of the Convention
 
 [^f00022]: Footnote: Section 145 was amended by the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 36.
 
-[^key-ab629e81e41490ad192b3d425bb1f39a]: Commencement: Reg. 39 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-ab629e81e41490ad192b3d425bb1f39a]: Commencement: Reg. 39 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00023]: Footnote: Cmnd. 8941.
 
-[^key-c2401eb79ecfce593d8cab37f62d83f7]: Commencement: Reg. 40 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-c2401eb79ecfce593d8cab37f62d83f7]: Commencement: Reg. 40 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-99287276f02715c08473565f9cdbed04]: Commencement: Reg. 41 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-99287276f02715c08473565f9cdbed04]: Commencement: Reg. 41 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-da48e68f5f99b16bcd3e8e8963f85977]: Commencement: Reg. 42 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-da48e68f5f99b16bcd3e8e8963f85977]: Commencement: Reg. 42 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2006/2950](https://www.legislation.gov.uk/uksi/2006/2950).
 
 [^f00025]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); section 131 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), section 7(1).
 
-[^key-ad1c0c6d742eb153678bfa0b2525aa78]: Commencement: Reg. 43 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-ad1c0c6d742eb153678bfa0b2525aa78]: Commencement: Reg. 43 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-bcd9406d10674d05c43ce1b68dc1579e]: Commencement: Reg. 44 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-bcd9406d10674d05c43ce1b68dc1579e]: Commencement: Reg. 44 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-47907bf2e4059ad7da2635f00f9a6500]: Commencement: Reg. 45 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-47907bf2e4059ad7da2635f00f9a6500]: Commencement: Reg. 45 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-c9e253760560a0745b1a313af481d011]: Commencement: Reg. 46 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-c9e253760560a0745b1a313af481d011]: Commencement: Reg. 46 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-446d5c8e9ea32f1a6e43e370087384a4]: Commencement: Reg. 47 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-446d5c8e9ea32f1a6e43e370087384a4]: Commencement: Reg. 47 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-8d6c6e8db25a290cb73a4b0279c3ab94]: Commencement: Sch. para. 1 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-8d6c6e8db25a290cb73a4b0279c3ab94]: Commencement: Sch. para. 1 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-2011ffdd6450661a03a209ac01e28269]: Commencement: Sch. para. 2 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-2011ffdd6450661a03a209ac01e28269]: Commencement: Sch. para. 2 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I.1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).
 
 [^f00027]: Footnote: Cmnd. 4332.
 
-[^key-9b8bd434906930473a0b3c727b3dee11]: Commencement: Sch. para. 3 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-9b8bd434906930473a0b3c727b3dee11]: Commencement: Sch. para. 3 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-47050b2798a8b2150ba3002fad526108]: Commencement: Sch. para. 4 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-47050b2798a8b2150ba3002fad526108]: Commencement: Sch. para. 4 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-73b8ef7caf3454d05cebad960b359702]: Commencement: Sch. para. 5 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-73b8ef7caf3454d05cebad960b359702]: Commencement: Sch. para. 5 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00028]: Footnote: Regulation 12C was inserted by regulation 2(2) of [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916).
 
-[^key-94379c528b9c95493ef13b6970be49e7]: Commencement: Sch. para. 6 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-94379c528b9c95493ef13b6970be49e7]: Commencement: Sch. para. 6 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 1988/1909](https://www.legislation.gov.uk/uksi/1988/1909), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).
 
-[^key-8264962ef5d5b7b72df384b34cc29b6e]: Commencement: Sch. para. 7 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-8264962ef5d5b7b72df384b34cc29b6e]: Commencement: Sch. para. 7 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-3eee2aba82d7a6547026f76d4de980af]: Commencement: Sch. para. 8 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-3eee2aba82d7a6547026f76d4de980af]: Commencement: Sch. para. 8 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-b2585c6fbdf23c77d2aacbd509628624]: Commencement: Sch. para. 9 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-b2585c6fbdf23c77d2aacbd509628624]: Commencement: Sch. para. 9 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
 
-[^key-d0ff7b3288c8a3c83a5a81635e24b00f]: Commencement: Sch. para. 10 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)
+[^c-d0ff7b3288c8a3c83a5a81635e24b00f]: Commencement: Sch. para. 10 in force at 1.2.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3257/regulation/1/2)

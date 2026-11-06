@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Smoke-free premises: exemptions[^key-eb1ed3ce2edd1b8efe91dda5de9eb224]
+## 16. Smoke-free premises: exemptions[^c-eb1ed3ce2edd1b8efe91dda5de9eb224]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ or any combination of these.
 
 ## Annotations
 
-[^key-eb1ed3ce2edd1b8efe91dda5de9eb224]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2017/2/section/16) in force at 29.9.2020 by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/2/b)
+[^c-eb1ed3ce2edd1b8efe91dda5de9eb224]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2017/2/section/16) in force at 29.9.2020 by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/2/b)

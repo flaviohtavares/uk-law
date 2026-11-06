@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 8(1) and 15(1) of the Management of Offenders (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-6fa77a550fdf969303e9b7608933aa49]
+## 1. Citation, commencement and interpretation[^c-6fa77a550fdf969303e9b7608933aa49]
 
 (1) These Regulations may be cited as the Electronic Monitoring (Approved Devices) (Scotland) Regulations 2020.
 
@@ -57,38 +57,38 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “the 2019 Act” means the Management of Offenders (Scotland) Act 2019,
 - “fitting and installation tool” means an electronic device which is intended to be used in order to—
   - (a) install a home monitoring unit at a specific location,
-  - (b) securely fit a GPS personal identification device or an RF[^key-4a7801018c4f12898b0d5fd0ed91eb53] personal identification device to a monitored person, or
-  - (c) undertake diagnostic testing of a home monitoring unit , a GPS personal identification device or an RF personal identification device[^key-7efa546ae4d268a796bf68e3e86578eb].
+  - (b) securely fit a GPS personal identification device or an RF[^c-4a7801018c4f12898b0d5fd0ed91eb53] personal identification device to a monitored person, or
+  - (c) undertake diagnostic testing of a home monitoring unit , a GPS personal identification device or an RF personal identification device[^c-7efa546ae4d268a796bf68e3e86578eb].
 - “GPS” means the Global Positioning System,
-- “[^key-db961b611afc571f6b5f89652ddcbeca]**GPS personal identification device**” means an electronic device which—
+- “[^c-db961b611afc571f6b5f89652ddcbeca]**GPS personal identification device**” means an electronic device which—
   - (a) uses GPS or a secondary location tracking medium to track a monitored person’s location,
   - (b) transmits information to a home monitoring unit via a short-range radio signal,
   - (c) transmits information to a remote server via a mobile phone network, and
   - (d) is intended to be securely fitted to a monitored person,
 - “home monitoring unit” means an electronic device which—
-  - (a) receives information from a GPS personal identification device or an RF[^key-7dc74c5587d509d5d32c54235321325c] personal identification device via a regular short range radio[^key-c80385a34981692dfd9662cbc473e356] signal (and does not use GPS location information to track a monitored person),
+  - (a) receives information from a GPS personal identification device or an RF[^c-7dc74c5587d509d5d32c54235321325c] personal identification device via a regular short range radio[^c-c80385a34981692dfd9662cbc473e356] signal (and does not use GPS location information to track a monitored person),
   - (b) transmits information to a remote server via a mobile phone network or a telephone line, and
   - (c) is intended to be installed in a specific location to monitor a monitored person’s presence at, or absence from, that location,
-- “[^key-5d50595916983563c6bf6891c147475f]**mains charger**” means a device used to charge a GPS personal identification device by mains electricity,
+- “[^c-5d50595916983563c6bf6891c147475f]**mains charger**” means a device used to charge a GPS personal identification device by mains electricity,
 - “monitored person” means a person who is subject to a requirement imposed under section 1(1) or 5(1) of the 2019 Act,
-- “[^key-95d3f34523be44d140c8a4494bdec238]**portable charger**” means a battery pack used to charge a GPS personal identification device without mains electricity,
+- “[^c-95d3f34523be44d140c8a4494bdec238]**portable charger**” means a battery pack used to charge a GPS personal identification device without mains electricity,
 - “**RF**” means radio frequency,
-- “RF[^key-b949af7dbbfdbc63999fcb0d5e7c96ed] personal identification device” means an electronic device which—
+- “RF[^c-b949af7dbbfdbc63999fcb0d5e7c96ed] personal identification device” means an electronic device which—
   - (a) transmits information to a home monitoring unit via a regular short-range radio signal (and does not use GPS location information to track a monitored person), and
   - (b) is intended to be securely fitted to a monitored person,
-- "secondary location tracking medium” means a location tracking medium which uses a mobile phone network or a connection to a wireless fidelity (Wi-Fi) network.[^key-d51679488fa004098b69ea41a2f4453a]
+- "secondary location tracking medium” means a location tracking medium which uses a mobile phone network or a connection to a wireless fidelity (Wi-Fi) network.[^c-d51679488fa004098b69ea41a2f4453a]
 
-## 2. Approved Devices[^key-1e3f62ad4d8405bd9a69346794a07baf]
+## 2. Approved Devices[^c-1e3f62ad4d8405bd9a69346794a07baf]
 
-(1) The types of electronic devices listed in paragraph (2) are prescribed by the Scottish Ministers as approved devices in relation to a requirement imposed under section 1(1) [^key-df4310559f3cd8bf5784fdfd65b2565e]... of the 2019 Act.
+(1) The types of electronic devices listed in paragraph (2) are prescribed by the Scottish Ministers as approved devices in relation to a requirement imposed under section 1(1) [^c-df4310559f3cd8bf5784fdfd65b2565e]... of the 2019 Act.
 
 (2) The types of electronic devices are as follows—
 
 - (a) a home monitoring unit,
-- (b) a RF[^key-420fe4bf37074485ec61a2641294ea55] personal identification device, and
+- (b) a RF[^c-420fe4bf37074485ec61a2641294ea55] personal identification device, and
 - (c) a fitting and installation tool.
 
-(3)[^key-75fb82bcbb68bcd55cafcecd154415bb] The types of electronic devices listed in paragraph (4) are prescribed by the Scottish Ministers as approved devices in relation to a requirement imposed under section 5(1) of the 2019 Act.
+(3)[^c-75fb82bcbb68bcd55cafcecd154415bb] The types of electronic devices listed in paragraph (4) are prescribed by the Scottish Ministers as approved devices in relation to a requirement imposed under section 5(1) of the 2019 Act.
 
 (4) The types of electronic device are—
 
@@ -121,30 +121,30 @@ A requirement imposed by a court under section 1(1) of the 2019 Act, or by the S
 
 [^f00001]: Footnote: [2019 asp 14](https://www.legislation.gov.uk/asp/2019/14).
 
-[^key-6fa77a550fdf969303e9b7608933aa49]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/308/regulation/1) in force at 19.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/2)
+[^c-6fa77a550fdf969303e9b7608933aa49]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/308/regulation/1) in force at 19.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/2)
 
-[^key-4a7801018c4f12898b0d5fd0ed91eb53]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/a/i)
+[^c-4a7801018c4f12898b0d5fd0ed91eb53]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/a/i)
 
-[^key-7efa546ae4d268a796bf68e3e86578eb]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) substituted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/a/ii)
+[^c-7efa546ae4d268a796bf68e3e86578eb]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) substituted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/a/ii)
 
-[^key-db961b611afc571f6b5f89652ddcbeca]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/b)
+[^c-db961b611afc571f6b5f89652ddcbeca]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/b)
 
-[^key-7dc74c5587d509d5d32c54235321325c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/c/i)
+[^c-7dc74c5587d509d5d32c54235321325c]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/c/i)
 
-[^key-c80385a34981692dfd9662cbc473e356]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/c/ii)
+[^c-c80385a34981692dfd9662cbc473e356]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/c/ii)
 
-[^key-5d50595916983563c6bf6891c147475f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/d)
+[^c-5d50595916983563c6bf6891c147475f]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(d)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/d)
 
-[^key-95d3f34523be44d140c8a4494bdec238]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(e)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/e)
+[^c-95d3f34523be44d140c8a4494bdec238]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(e)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/e)
 
-[^key-b949af7dbbfdbc63999fcb0d5e7c96ed]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(f)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/f)
+[^c-b949af7dbbfdbc63999fcb0d5e7c96ed]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(f)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/f)
 
-[^key-d51679488fa004098b69ea41a2f4453a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(g)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/g)
+[^c-d51679488fa004098b69ea41a2f4453a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/3) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [3(g)](https://www.legislation.gov.uk/ssi/2024/354/regulation/3/g)
 
-[^key-1e3f62ad4d8405bd9a69346794a07baf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/308/regulation/2) in force at 19.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/2)
+[^c-1e3f62ad4d8405bd9a69346794a07baf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/308/regulation/2) in force at 19.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2020/308/regulation/1/2)
 
-[^key-df4310559f3cd8bf5784fdfd65b2565e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/1) omitted (31.1.2025) by virtue of [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [4(1)](https://www.legislation.gov.uk/ssi/2024/354/regulation/4/1)
+[^c-df4310559f3cd8bf5784fdfd65b2565e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/1) omitted (31.1.2025) by virtue of [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [4(1)](https://www.legislation.gov.uk/ssi/2024/354/regulation/4/1)
 
-[^key-420fe4bf37074485ec61a2641294ea55]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/2/b) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/354/regulation/4/2)
+[^c-420fe4bf37074485ec61a2641294ea55]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/2/b) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/354/regulation/4/2)
 
-[^key-75fb82bcbb68bcd55cafcecd154415bb]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/4) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2024/354/regulation/4/3)
+[^c-75fb82bcbb68bcd55cafcecd154415bb]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2020/308/regulation/2/4) inserted (31.1.2025) by [The Electronic Monitoring (Approved Devices) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/354)](https://www.legislation.gov.uk/ssi/2024/354), [regs. 1](https://www.legislation.gov.uk/ssi/2024/354/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2024/354/regulation/4/3)

@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health Order (Northern Ireland) 2006 (revoked)[^key-d1582697420cbc312935f90ee9f87c1d]
+The Plant Health Order (Northern Ireland) 2006 (revoked)[^c-d1582697420cbc312935f90ee9f87c1d]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 31st March 2006
 
-[^key-d1582697420cbc312935f90ee9f87c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1582697420cbc312935f90ee9f87c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 1 — GENERAL[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ Coming into operation
 - [Section 1 — Citation and Commencement](part-1/section-1.md)
 - [Section 2 — General interpretation](part-1/section-2.md)
 
-### PART 2 — IMPORTS FROM THIRD COUNTRIES[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 2 — IMPORTS FROM THIRD COUNTRIES[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -77,7 +77,7 @@ Coming into operation
 - [Section 17 — Approved places of inspection](part-2/section-17.md)
 - [Section 18 — Requirement for plant health movement document](part-2/section-18.md)
 
-### PART 3 — INTERNAL COMMUNITY CONTROLS ON MOVEMENT[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 3 — INTERNAL COMMUNITY CONTROLS ON MOVEMENT[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -90,7 +90,7 @@ Coming into operation
 - [Section 23 — Validity of plant passports for Northern Ireland](part-3/section-23.md)
 - [Section 24 — General provisions relating to plant passports](part-3/section-24.md)
 
-### PART 4 — REGISTRATION OF PLANT TRADERS AND AUTHORITY TO ISSUE PLANT PASSPORTS[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 4 — REGISTRATION OF PLANT TRADERS AND AUTHORITY TO ISSUE PLANT PASSPORTS[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -102,7 +102,7 @@ Coming into operation
 - [Section 28 — Conditions for maintaining registration as a plant trader and other trade-related conditions](part-4/section-28.md)
 - [Section 29 — Authority to issue plant passports](part-4/section-29.md)
 
-### PART 5 — SWISS TRADE AND SWISS PLANT PASSPORTS[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 5 — SWISS TRADE AND SWISS PLANT PASSPORTS[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -110,7 +110,7 @@ Coming into operation
 
 - [Section 30 — Swiss trade and Swiss plant passports](part-5/section-30.md)
 
-### PART 6 — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF PLANT PESTS[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 6 — MEASURES TO CONTROL THE LANDING OF RELEVANT MATERIAL AND PREVENT THE SPREAD OF PLANT PESTS[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -124,7 +124,7 @@ Coming into operation
 - [Section 36 — Information as to compliance with notices](part-6/section-36.md)
 - [Section 37 — Failure to comply with a notice](part-6/section-37.md)
 
-### PART 7 — PLANTING OF, AND CONTROL OF PLANT PESTS ON, CERTAIN SOLANACEOUS SPECIES[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 7 — PLANTING OF, AND CONTROL OF PLANT PESTS ON, CERTAIN SOLANACEOUS SPECIES[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -132,14 +132,14 @@ Coming into operation
 
 - [Section 38 — Miscellaneous provisions for certain solanaceous species](part-7/section-38.md)
 
-### PART 7A — MANAGEMENT ZONES FOR PLANT HEALTH PURPOSES[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 7A — MANAGEMENT ZONES FOR PLANT HEALTH PURPOSES[^c-d1582697420cbc312935f90ee9f87c1d]
 
 **No longer in force.**
 
 - [Section 38A — Inspection and control of potato crop health Dickeya spp.](part-7a/section-38a.md)
 - [Section 38B — Measures for preventing the introduction of Diabrotica virgifera Le Conte](part-7a/section-38b.md)
 
-### PART 8 — LICENCES[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 8 — LICENCES[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ Coming into operation
 - [Section 39 — Licences to carry out activities prohibited by this Order](part-8/section-39.md)
 - [Section 40 — Licences for trial or scientific purposes and for work on varietal selections permitted by Directive 2008/61/EC](part-8/section-40.md)
 
-### PART 9 — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 9 — NOTIFICATIONS, PROVISION AND EXCHANGE OF INFORMATION[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -158,7 +158,7 @@ Coming into operation
 - [Section 42 — Notification of the likely entry into, or presence in, a free zone of plant pests or relevant material](part-9/section-42.md)
 - [Section 43 — Information to be given](part-9/section-43.md)
 
-### PART 10 — OFFENCES[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 10 — OFFENCES[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -167,7 +167,7 @@ Coming into operation
 - [Section 44 — Offences](part-10/section-44.md)
 - [Section 45 — Penalties](part-10/section-45.md)
 
-### PART 11 — THE CUSTOMS ACT AND REVOCATION[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART 11 — THE CUSTOMS ACT AND REVOCATION[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -200,14 +200,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-d1582697420cbc312935f90ee9f87c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1582697420cbc312935f90ee9f87c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1582697420cbc312935f90ee9f87c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1582697420cbc312935f90ee9f87c1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

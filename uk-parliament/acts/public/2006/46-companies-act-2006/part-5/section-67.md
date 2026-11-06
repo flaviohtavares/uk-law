@@ -25,7 +25,7 @@ summary: ''
 - (a) a name appearing at the time of the registration in the registrar's index of company names, or
 - (b) a name that should have appeared in that index at that time.
 
-(1A)[^key-eecfdaf5f819568b644af11ab577b56c] Where a direction is given under subsection (1), the registrar may omit from the material on the register that is available for public inspection any mention of the name to which the direction relates (so far as it relates to the company to which the direction is given).
+(1A)[^c-eecfdaf5f819568b644af11ab577b56c] Where a direction is given under subsection (1), the registrar may omit from the material on the register that is available for public inspection any mention of the name to which the direction relates (so far as it relates to the company to which the direction is given).
 
 (2) The Secretary of State may make provision by regulations supplementing this section.
 
@@ -55,4 +55,4 @@ for the purposes of this section.
 
 [^c20585041]: Modification: S. 67(1) applied (with modifications) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [reg. 11(1A)(1B)](https://www.legislation.gov.uk/uksi/1989/638/regulation/11/1A/1B) (as inserted (1.10.2009) by [The European Economic Interest Grouping (Amendment) Regulations 2009 (S.I. 2009/2399)](https://www.legislation.gov.uk/uksi/2009/2399), [reg. 14(3)](https://www.legislation.gov.uk/uksi/2009/2399/regulation/14/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2399/regulation/2)))
 
-[^key-eecfdaf5f819568b644af11ab577b56c]: Textual amendment: [S. 67(1A)](https://www.legislation.gov.uk/ukpga/2006/46/section/67/1A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/14/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/j)
+[^c-eecfdaf5f819568b644af11ab577b56c]: Textual amendment: [S. 67(1A)](https://www.legislation.gov.uk/ukpga/2006/46/section/67/1A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/14/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/j)

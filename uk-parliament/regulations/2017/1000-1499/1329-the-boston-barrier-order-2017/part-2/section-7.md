@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Works and dredging etc. in the river[^key-d3fb1b77419c268a568a15979a4baa12]
+## 7. Works and dredging etc. in the river[^c-d3fb1b77419c268a568a15979a4baa12]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ in such manner and to such extent as may appear to it to be necessary or conveni
 
 ## Annotations
 
-[^key-d3fb1b77419c268a568a15979a4baa12]: Commencement: Art. 7 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-d3fb1b77419c268a568a15979a4baa12]: Commencement: Art. 7 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

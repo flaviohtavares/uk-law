@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Notifying community councils of applications[^key-fc0923484e33617ccb8ae81b6cff2237]
+## 65. Notifying community councils of applications[^c-fc0923484e33617ccb8ae81b6cff2237]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0923484e33617ccb8ae81b6cff2237]: Commencement: S. 65 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fc0923484e33617ccb8ae81b6cff2237]: Commencement: S. 65 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

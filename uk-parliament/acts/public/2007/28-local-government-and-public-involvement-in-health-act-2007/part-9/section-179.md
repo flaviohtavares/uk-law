@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Disqualifications[^key-0ead0abc157c38c6b7bfe5f709cff2e7]
+## 179. Disqualifications[^c-0ead0abc157c38c6b7bfe5f709cff2e7]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ead0abc157c38c6b7bfe5f709cff2e7]: Commencement: S. 179 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/l)
+[^c-0ead0abc157c38c6b7bfe5f709cff2e7]: Commencement: S. 179 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/l)

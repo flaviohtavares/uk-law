@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.22. Applications under section 10(2) of 1973 Act or section 48(2) of 2004 Act[^key-ded58967ac7753f9db74f558aedf6c5f]
+## 7.22. Applications under section 10(2) of 1973 Act or section 48(2) of 2004 Act[^c-ded58967ac7753f9db74f558aedf6c5f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ it must make a written record of the reasons for deciding to make that final ord
 
 ## Annotations
 
-[^key-ded58967ac7753f9db74f558aedf6c5f]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2010/2955/part/7) substituted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/44/schedule) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-ded58967ac7753f9db74f558aedf6c5f]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2010/2955/part/7) substituted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rule 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/44/schedule) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

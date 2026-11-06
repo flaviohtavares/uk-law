@@ -24,7 +24,7 @@ summary: ''
 
 Article 12(3)
 
-### 1. Specific and general licences[^key-1d981b7fe4dac6c2c9dbcee28e7ab2df]
+### 1. Specific and general licences[^c-1d981b7fe4dac6c2c9dbcee28e7ab2df]
 
 (1) A licence may be—
 
@@ -57,7 +57,7 @@ Article 12(3)
 
 (9) Notice shall be given of the issue of any general licence in such form as the Department shall see fit.
 
-### 2. Licence holder to be a fit person[^key-ed164afbf8e8dd651090b4bec4021386]
+### 2. Licence holder to be a fit person[^c-ed164afbf8e8dd651090b4bec4021386]
 
 (1) A specific licence shall be granted on the application of any person if he satisfies the Department that he is a fit person to transport animals.
 
@@ -73,7 +73,7 @@ Article 12(3)
 
 (5) A specific licensee transporting vertebrate animals under a trading name different from that specified in the licence shall notify the Department of the trading name before he transports any animals under that name.
 
-### 3. Suspension and revocation[^key-a4e64c248cbe6bcd2f3359960348f6a8]
+### 3. Suspension and revocation[^c-a4e64c248cbe6bcd2f3359960348f6a8]
 
 (1) The Department may revoke or suspend a specific licence, or exclude a transporter from the operation of a general licence, either temporarily or permanently, in the event of any of the following situations, involving either the transporter or, if it appears to the Department to be relevant, any associate, employee or agent of the transporter—
 
@@ -86,7 +86,7 @@ Article 12(3)
 
 (2) The Department shall by notice, inform the transporter that it is minded to revoke the licence, or suspend it until a specified date or indefinitely.
 
-### 4. Written representations to the Department[^key-892428b0f2649ca80f1378084ae223cf]
+### 4. Written representations to the Department[^c-892428b0f2649ca80f1378084ae223cf]
 
 (1) If, within 28 days of the issue of a specific licence, the person to whom it is issued requests the Department to give him notice of the reasons for the inclusion of any provision in it, the Department shall comply with his request within 28 days of receiving it.
 
@@ -102,7 +102,7 @@ Article 12(3)
 
 (7) A notice under this paragraph giving the Department’s reasons shall notify the transporter of the effect of sub-paragraph (6).
 
-### 5. Appointed persons[^key-94203d4c78a36270906713baa9e8fd57]
+### 5. Appointed persons[^c-94203d4c78a36270906713baa9e8fd57]
 
 (1) The Department shall nominate an appointed person who in the opinion of the Department is specially qualified to consider representations under this Schedule.
 
@@ -123,7 +123,7 @@ and shall make a report to the Department after the close of his consideration, 
 
 (7) The Department shall notify the transporter of the result of its reconsideration and the reasons for it and shall send him a copy of the appointed person’s report.
 
-### 6. Duty to notify changes[^key-e5375f8b16adbb0a7b2570769e7d2409]
+### 6. Duty to notify changes[^c-e5375f8b16adbb0a7b2570769e7d2409]
 
 (1) Within 21 working days after—
 
@@ -138,7 +138,7 @@ the holder of the licence shall give the Department notice of that fact.
 
 (3) The holder of a specific licence shall notify the Department within 21 days of any change of address of the transporter.
 
-### 7. Interpretation[^key-a32f39e53b62fa60462b6c99bda5e697]
+### 7. Interpretation[^c-a32f39e53b62fa60462b6c99bda5e697]
 
 In this Schedule—
 
@@ -148,19 +148,19 @@ In this Schedule—
 
 ## Annotations
 
-[^key-1d981b7fe4dac6c2c9dbcee28e7ab2df]: Commencement: Sch. 9 para. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-1d981b7fe4dac6c2c9dbcee28e7ab2df]: Commencement: Sch. 9 para. 1 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-ed164afbf8e8dd651090b4bec4021386]: Commencement: Sch. 9 para. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-ed164afbf8e8dd651090b4bec4021386]: Commencement: Sch. 9 para. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-a4e64c248cbe6bcd2f3359960348f6a8]: Commencement: Sch. 9 para. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-a4e64c248cbe6bcd2f3359960348f6a8]: Commencement: Sch. 9 para. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-892428b0f2649ca80f1378084ae223cf]: Commencement: Sch. 9 para. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-892428b0f2649ca80f1378084ae223cf]: Commencement: Sch. 9 para. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-94203d4c78a36270906713baa9e8fd57]: Commencement: Sch. 9 para. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-94203d4c78a36270906713baa9e8fd57]: Commencement: Sch. 9 para. 5 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-e5375f8b16adbb0a7b2570769e7d2409]: Commencement: Sch. 9 para. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-e5375f8b16adbb0a7b2570769e7d2409]: Commencement: Sch. 9 para. 6 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
-[^key-a32f39e53b62fa60462b6c99bda5e697]: Commencement: Sch. 9 para. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-a32f39e53b62fa60462b6c99bda5e697]: Commencement: Sch. 9 para. 7 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00012]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39)
 

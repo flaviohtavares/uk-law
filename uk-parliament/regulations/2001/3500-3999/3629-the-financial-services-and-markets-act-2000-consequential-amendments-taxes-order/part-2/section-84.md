@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Interest rate and currency contracts[^key-52eaf4cdcec29e03e48cea6f2959dfea]
+## 84. Interest rate and currency contracts[^c-52eaf4cdcec29e03e48cea6f2959dfea]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52eaf4cdcec29e03e48cea6f2959dfea]: Commencement: Art. 84 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-52eaf4cdcec29e03e48cea6f2959dfea]: Commencement: Art. 84 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00098]: Footnote: Section 177(1) was relevantly amended by section 52(3) of the Finance Act 1995.

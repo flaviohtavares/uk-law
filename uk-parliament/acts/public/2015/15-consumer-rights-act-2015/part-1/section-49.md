@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Service to be performed with reasonable care and skill[^key-7c619e2e70b486592d735892ffb3c5bd][^key-64246ed5056fa4c4d13df2d4eb70a295]
+## 49. Service to be performed with reasonable care and skill[^c-7c619e2e70b486592d735892ffb3c5bd][^c-64246ed5056fa4c4d13df2d4eb70a295]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c619e2e70b486592d735892ffb3c5bd]: Commencement: S. 49 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-7c619e2e70b486592d735892ffb3c5bd]: Commencement: S. 49 in force at 1.10.2015 for specified purposes by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/c) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-64246ed5056fa4c4d13df2d4eb70a295]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/15/section/49) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))
+[^c-64246ed5056fa4c4d13df2d4eb70a295]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2015/15/section/49) in force at 1.10.2016 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1630/article/4/b) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/2)) (as amended by [S.I. 2016/484](https://www.legislation.gov.uk/uksi/2016/484), [art. 2](https://www.legislation.gov.uk/uksi/2016/484/article/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46AA. Provision of services relating to specified ships[^key-28a09ef8e8b72d227df83e7838f988f3][^key-7d97cbf1bc80e065564734802daf45c9]
+## 46AA. Provision of services relating to specified ships[^c-28a09ef8e8b72d227df83e7838f988f3][^c-7d97cbf1bc80e065564734802daf45c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28a09ef8e8b72d227df83e7838f988f3]: Textual amendment: [Regs. 46AA](https://www.legislation.gov.uk/uksi/2019/855/regulation/46AA), [46AB](https://www.legislation.gov.uk/uksi/2019/855/regulation/46AB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/543/regulation/7/4)
+[^c-28a09ef8e8b72d227df83e7838f988f3]: Textual amendment: [Regs. 46AA](https://www.legislation.gov.uk/uksi/2019/855/regulation/46AA), [46AB](https://www.legislation.gov.uk/uksi/2019/855/regulation/46AB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/543/regulation/7/4)
 
-[^key-7d97cbf1bc80e065564734802daf45c9]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/395/regulation/14)
+[^c-7d97cbf1bc80e065564734802daf45c9]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4A) inserted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2022/395/regulation/14)

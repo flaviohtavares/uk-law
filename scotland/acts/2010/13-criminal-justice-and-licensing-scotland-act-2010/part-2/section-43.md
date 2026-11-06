@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Voyeurism: additional forms of conduct[^key-9f34581a3c7a8d65cbf73855cdc88c76]
+## 43. Voyeurism: additional forms of conduct[^c-9f34581a3c7a8d65cbf73855cdc88c76]
 
 *Extent: S*
 
@@ -116,4 +116,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f34581a3c7a8d65cbf73855cdc88c76]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/13/section/43) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)
+[^c-9f34581a3c7a8d65cbf73855cdc88c76]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/13/section/43) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)

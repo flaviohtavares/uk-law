@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Power to make bye-laws.[^key-a984a65ac1c1745e47d5df8157489734]
+## 219. Power to make bye-laws.[^c-a984a65ac1c1745e47d5df8157489734]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a984a65ac1c1745e47d5df8157489734]: Textual amendment: S. 219 repealed (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 1 para. 36(c)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/36/c), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [46(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/46/4), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/2)); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-a984a65ac1c1745e47d5df8157489734]: Textual amendment: S. 219 repealed (16.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 1 para. 36(c)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/36/c), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [46(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/46/4), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2), [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/2)); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)

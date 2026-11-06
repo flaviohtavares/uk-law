@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Capital jointly held[^key-a6568b0178fa2e9f2fa9edb840af2ecc]
+## 23. Capital jointly held[^c-a6568b0178fa2e9f2fa9edb840af2ecc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a claimant and one or more persons are beneficially entitled in possession
 
 ## Annotations
 
-[^key-a6568b0178fa2e9f2fa9edb840af2ecc]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/28/regulation/23) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-a6568b0178fa2e9f2fa9edb840af2ecc]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2003/28/regulation/23) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)

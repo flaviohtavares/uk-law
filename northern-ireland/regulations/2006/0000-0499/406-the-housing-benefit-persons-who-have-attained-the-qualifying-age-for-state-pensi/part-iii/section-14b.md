@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14B. Change in reckonable rent[^key-55eaaf55899cb562b68a056497bddf5e]
+## 14B. Change in reckonable rent[^c-55eaaf55899cb562b68a056497bddf5e]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ the maximum rent shall be reduced to an amount equal to the reduced reckonable r
 
 ## Annotations
 
-[^key-55eaaf55899cb562b68a056497bddf5e]: Textual amendment: [Regs. 14-14F](https://www.legislation.gov.uk/nisr/2006/406/regulation/14) substituted for [reg. 14](https://www.legislation.gov.uk/nisr/2006/406/regulation/14) (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/7)
+[^c-55eaaf55899cb562b68a056497bddf5e]: Textual amendment: [Regs. 14-14F](https://www.legislation.gov.uk/nisr/2006/406/regulation/14) substituted for [reg. 14](https://www.legislation.gov.uk/nisr/2006/406/regulation/14) (with application in accordance with reg. 1(3) (4) of the amending Rule) by [The Housing Benefit (State Pension Credit) (Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/102)](https://www.legislation.gov.uk/nisr/2008/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/102/regulation/1/1), [2(7)](https://www.legislation.gov.uk/nisr/2008/102/regulation/2/7)

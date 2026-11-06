@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Spoilt alcoholic products[^M_I_e66f3178-e5b3-4525-f3f9-e1677a00856c][^key-e412378a7b4d1d529b79d4bae031ed67]
+## 74. Spoilt alcoholic products[^M_I_e66f3178-e5b3-4525-f3f9-e1677a00856c][^c-e412378a7b4d1d529b79d4bae031ed67]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_e66f3178-e5b3-4525-f3f9-e1677a00856c]: Commencement: S. 74 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-e412378a7b4d1d529b79d4bae031ed67]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/30/section/74) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-e412378a7b4d1d529b79d4bae031ed67]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2023/30/section/74) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

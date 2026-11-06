@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Guarantees in respect of payment of compensation[^key-f9d395b9350f957505cbcb0b580d9086]
+## 43. Guarantees in respect of payment of compensation[^c-f9d395b9350f957505cbcb0b580d9086]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9d395b9350f957505cbcb0b580d9086]: Commencement: Art. 43 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-f9d395b9350f957505cbcb0b580d9086]: Commencement: Art. 43 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

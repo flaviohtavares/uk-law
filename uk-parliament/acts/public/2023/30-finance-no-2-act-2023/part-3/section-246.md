@@ -28,7 +28,7 @@ summary: ''
   - (iii) an interest that gives rise to a share of the reserves of F, and
 - (b) if—
   - (i) F issues all of those types of interest and all of those types are relevant, divide the result of paragraph (a) by 3, or
-  - (ii) F only issues 2 of the relevant types of interest or there are only 2 types of interest that are relevant and F[^key-e1fa4ce9d68576e49f86d91e4eea4193] issues both of them, divide the result of paragraph (a) by 2.
+  - (ii) F only issues 2 of the relevant types of interest or there are only 2 types of interest that are relevant and F[^c-e1fa4ce9d68576e49f86d91e4eea4193] issues both of them, divide the result of paragraph (a) by 2.
 
 (2) For the purposes of subsection (1)—
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1fa4ce9d68576e49f86d91e4eea4193]: Textual amendment: Word in [s. 246(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/section/246/1/b/ii) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/6)
+[^c-e1fa4ce9d68576e49f86d91e4eea4193]: Textual amendment: Word in [s. 246(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/section/246/1/b/ii) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/6)

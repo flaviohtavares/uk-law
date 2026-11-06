@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Commencement and transitional provision[^key-021b906578630d11bdac5c7f02181de0]
+## 255. Commencement and transitional provision[^c-021b906578630d11bdac5c7f02181de0]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-021b906578630d11bdac5c7f02181de0]: Commencement: S. 255 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-021b906578630d11bdac5c7f02181de0]: Commencement: S. 255 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

@@ -30,21 +30,21 @@ WILDLIFE
 
 COUNTRYSIDE
 
-The Conservation (Natural Habitats, &c.) Regulations 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f]
+The Conservation (Natural Habitats, &c.) Regulations 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f]
 
-Made *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f]
+Made *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f]
 
-20th October 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f]
+20th October 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f]
 
-Coming into force *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f]
+Coming into force *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f]
 
-30th October 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f]
+30th October 1994 *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f]
 
-The Secretary of State for the Environment, as respects England, the Secretary of State for Wales, as respects Wales, and the Secretary of State for Scotland, as respects Scotland, being designated *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f][^f00001] Ministers for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f][^f00002] in relation to measures relating to the conservation of natural habitats and of wild fauna and flora, in exercise of the powers conferred upon them by the said section 2 and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has been laid before and approved by a resolution of each House of Parliament:– *(Extent: E+W)* *(affected by repeal, see note)*[^key-2dd38f22e3f0e7272da0337fa848725f][^key-0e8dac5b477601457d7da29de4f07edc][^key-26488dc43c48445ce3dabc91641800ba][^key-f7e647088f028e021ad3a3c9eadfe250][^key-4fb7d8740d1e934b9f1d7f14b30dc1c9]
+The Secretary of State for the Environment, as respects England, the Secretary of State for Wales, as respects Wales, and the Secretary of State for Scotland, as respects Scotland, being designated *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f][^f00001] Ministers for the purposes of section 2(2) of the European Communities Act 1972 *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f][^f00002] in relation to measures relating to the conservation of natural habitats and of wild fauna and flora, in exercise of the powers conferred upon them by the said section 2 and of all other powers enabling them in that behalf, hereby make the following Regulations, a draft of which has been laid before and approved by a resolution of each House of Parliament:– *(Extent: E+W)* *(affected by repeal, see note)*[^c-2dd38f22e3f0e7272da0337fa848725f][^c-0e8dac5b477601457d7da29de4f07edc][^c-26488dc43c48445ce3dabc91641800ba][^c-f7e647088f028e021ad3a3c9eadfe250][^c-4fb7d8740d1e934b9f1d7f14b30dc1c9]
 
 ## Contents
 
-### PART I (Extent: E+W) (affected by repeal, see note) — INTRODUCTORY PROVISIONS (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+### PART I (Extent: E+W) (affected by repeal, see note) — INTRODUCTORY PROVISIONS (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -59,11 +59,11 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 5 — Relevant authorities in relation to marine areas and European marine sites](part-i/section-5.md)
 - [Section 6 — Competent authorities generally](part-i/section-6.md)
 
-### PART II (Extent: E+W) (affected by repeal, see note) — CONSERVATION OF NATURAL HABITATS AND HABITATS OF SPECIES (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+### PART II (Extent: E+W) (affected by repeal, see note) — CONSERVATION OF NATURAL HABITATS AND HABITATS OF SPECIES (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
-#### European sites (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### European sites (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -76,7 +76,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 9D — Management objectives of the UK site network](part-ii/section-9d.md)
 - [Section 10 — Meaning of “European site” in these Regulations](part-ii/section-10.md)
 
-#### Register of European sites (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Register of European sites (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -86,14 +86,14 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 14 — Local registration: England and Wales](part-ii/section-14.md)
 - [Section 15 — Local registers: Scotland](part-ii/section-15.md)
 
-#### Management agreements (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Management agreements (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
 - [Section 16 — Management agreements](part-ii/section-16.md)
 - [Section 17 — Continuation in force of existing agreement, &c.](part-ii/section-17.md)
 
-#### Control of potentially damaging operations (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note)[^M_F_fa545474-dc10-4e63-8bbd-8b431ac59846][^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Control of potentially damaging operations (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note)[^M_F_fa545474-dc10-4e63-8bbd-8b431ac59846][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -102,7 +102,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 20 — Chapter 2 of Part 2 of the 2004 Act](part-ii/section-20.md)
 - [Section 21 — Chapter 3 of Part 2 of the 2004 Act](part-ii/section-21.md)
 
-#### Special nature conservation orders (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note)[^M_F_7ee8a9d0-2490-47a4-9b7d-3a77c6fc3b12][^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Special nature conservation orders (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note)[^M_F_7ee8a9d0-2490-47a4-9b7d-3a77c6fc3b12][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -114,7 +114,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 27 — Continuation in force of existing orders, &c.](part-ii/section-27.md)
 - [Section 27A — Interpretation](part-ii/section-27a.md)
 
-#### Byelaws (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Byelaws (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -123,13 +123,13 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 30 — Compensation for effect of byelaws](part-ii/section-30.md)
 - [Section 31 — Continuation in force of existing byelaws](part-ii/section-31.md)
 
-#### Powers of compulsory acquisition (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Powers of compulsory acquisition (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
 - [Section 32 — Powers of compulsory acquisition](part-ii/section-32.md)
 
-#### Special provisions as to European marine sites (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Special provisions as to European marine sites (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -138,7 +138,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 35 — Direction to establish or amend management scheme](part-ii/section-35.md)
 - [Section 36 — Byelaws for protection of European marine site](part-ii/section-36.md)
 
-#### Miscellaneous (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Miscellaneous (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -149,11 +149,11 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 37D — Licensing the introduction of new species](part-ii/section-37d.md)
 - [Section 37E — False statements made for obtaining a licence under regulation 37D](part-ii/section-37e.md)
 
-### PART III (Extent: E+W) (affected by repeal, see note) — PROTECTION OF SPECIES (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+### PART III (Extent: E+W) (affected by repeal, see note) — PROTECTION OF SPECIES (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
-#### Protection of animals (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Protection of animals (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -164,14 +164,14 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 41A — Monitoring incidental capture and killing](part-iii/section-41a.md)
 - [Section 41B — Protection from incidental capture and killing](part-iii/section-41b.md)
 
-#### Protection of plants (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Protection of plants (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
 - [Section 42 — European protected species of plants](part-iii/section-42.md)
 - [Section 43 — Protection of certain wild plants](part-iii/section-43.md)
 
-#### Power to grant licences (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Power to grant licences (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -181,17 +181,17 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 46 — False statements made for obtaining licence](part-iii/section-46.md)
 - [Section 46A — Offence of breaching licence condition](part-iii/section-46a.md)
 
-### PART IV (Extent: E+W) (affected by repeal, see note) — ADAPTATION OF PLANNING AND OTHER CONTROLS (Extent: E+W) (affected by repeal, see note)[^key-a6f4097666b0f943450f8abe1966fb80][^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+### PART IV (Extent: E+W) (affected by repeal, see note) — ADAPTATION OF PLANNING AND OTHER CONTROLS (Extent: E+W) (affected by repeal, see note)[^c-a6f4097666b0f943450f8abe1966fb80][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
-#### Introductory (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Introductory (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
 - [Section 47 — Application of provisions of this Part](part-iv/section-47.md)
 
-#### General provisions for protection of European sites (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### General provisions for protection of European sites (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -205,13 +205,13 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 53ZA — Compensatory measures for relevant offshore wind activity](part-iv/section-53za.md)
 - [Section 53A — Control of operations requiring consent](part-iv/section-53a.md)
 
-#### Marine licences (Extent: E+W) (affected by repeal, see note)[^key-7ef3f88a380eda843864a2b6670de90d][^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Marine licences (Extent: E+W) (affected by repeal, see note)[^c-7ef3f88a380eda843864a2b6670de90d][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: S*
 
 - [Section 53B — Marine licences: duty to review](part-iv/section-53b.md)
 
-#### Planning (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Planning (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -236,7 +236,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 67B — Development consent: review](part-iv/section-67b.md)
 - [Section 68 — Interpretation](part-iv/section-68.md)
 
-#### Highways and roads (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Highways and roads (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -244,7 +244,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 69A — Core and other paths](part-iv/section-69a.md)
 - [Section 70 — Cycle tracks and other ancillary works](part-iv/section-70.md)
 
-#### Electricity (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Electricity (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -253,7 +253,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 73 — Consents under Electricity Act 1989: effect of review](part-iv/section-73.md)
 - [Section 74 — Consents under Electricity Act 1989: compensation for revocation or variation](part-iv/section-74.md)
 
-#### Pipe–lines (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Pipe–lines (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -262,7 +262,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 77 — Authorisations under the Pipe–lines Act 1962: effect of review](part-iv/section-77.md)
 - [Section 78 — Authorisations under the Pipe–lines Act 1962: compensation for revocation or variation](part-iv/section-78.md)
 
-#### Transport and works (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Transport and works (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -271,7 +271,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 81 — Order under the Transport and Works Act 1992: effect of review](part-iv/section-81.md)
 - [Section 82 — Orders under the Transport and Works Act 1992: compensation for revocation or variation](part-iv/section-82.md)
 
-#### Environmental controls (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Environmental controls (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -284,7 +284,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 84E — Derogations under the Nitrate Pollution Prevention (Wales) Regulations 2008](part-iv/section-84e.md)
 - [Section 85 — Discharge consents under water pollution legislation](part-iv/section-85.md)
 
-### PART IVA (Extent: S) (Extent: E+W) (affected by repeal, see note) — APPROPRIATE ASSESSMENTS FOR LAND USE PLANS (Extent: S) (Extent: E+W) (affected by repeal, see note)[^key-02ae2bdfeee6815b42e84e701be55a15][^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+### PART IVA (Extent: S) (Extent: E+W) (affected by repeal, see note) — APPROPRIATE ASSESSMENTS FOR LAND USE PLANS (Extent: S) (Extent: E+W) (affected by repeal, see note)[^c-02ae2bdfeee6815b42e84e701be55a15][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -295,17 +295,17 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 85E — Compensatory measures](part-iva/section-85e.md)
 - [Section 85F — National Policy Statements](part-iva/section-85f.md)
 
-### PART V (Extent: E+W) (affected by repeal, see note) — SUPPLEMENTARY PROVISIONS (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+### PART V (Extent: E+W) (affected by repeal, see note) — SUPPLEMENTARY PROVISIONS (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
-#### Supplementary provisions as to management agreements (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Supplementary provisions as to management agreements (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
 - [Section 86 — Powers of limited owners, &c. to enter into management agreements](part-v/section-86.md)
 
-#### Supplementary provisions as to potentially damaging operations (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Supplementary provisions as to potentially damaging operations (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -317,7 +317,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 92 — Compensation: other supplementary provisions](part-v/section-92.md)
 - [Section 93 — Compensation: procedural provisions](part-v/section-93.md)
 
-#### Supplementary provisions as to byelaws (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Supplementary provisions as to byelaws (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -326,14 +326,14 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 96 — Compensation: England and Wales](part-v/section-96.md)
 - [Section 97 — Compensation: Scotland](part-v/section-97.md)
 
-#### Supplementary provisions as to compulsory acquisition (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Supplementary provisions as to compulsory acquisition (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
 - [Section 98 — Supplementary provisions as to acquisition of land](part-v/section-98.md)
 - [Section 99 — Powers of entry](part-v/section-99.md)
 
-#### Supplementary provisions as to protection of species (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### Supplementary provisions as to protection of species (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -353,7 +353,7 @@ The Secretary of State for the Environment, as respects England, the Secretary o
 - [Section 104 — Saving for other protective provisions](part-v/section-104.md)
 - [Section 104A — Application of criminal offences to the Crown](part-v/section-104a.md)
 
-#### General supplementary provisions (Extent: E+W) (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f]
+#### General supplementary provisions (Extent: E+W) (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W+S*
 
@@ -421,26 +421,26 @@ Equivalent provision for the requirement to consider the effect on a European si
 
 ## Annotations
 
-[^key-2dd38f22e3f0e7272da0337fa848725f]: Textual amendment: Regulations revoked (E.W.) (1.4.2010 except so far as relating to the revocation in relation to W. of reg. 36 and specified words in reg. 3(3), 12.12.2014 in so far as not already in force) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)(4)(b)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2/4/b), [133(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/133/3) (with [regs. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125), [134](https://www.legislation.gov.uk/uksi/2010/490/regulation/134))
+[^c-2dd38f22e3f0e7272da0337fa848725f]: Textual amendment: Regulations revoked (E.W.) (1.4.2010 except so far as relating to the revocation in relation to W. of reg. 36 and specified words in reg. 3(3), 12.12.2014 in so far as not already in force) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)(4)(b)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2/4/b), [133(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/133/3) (with [regs. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125), [134](https://www.legislation.gov.uk/uksi/2010/490/regulation/134))
 
 [^f00001]: Footnote: S.I. [1992/2870](https://www.legislation.gov.uk/uksi/1992/2870).
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-0e8dac5b477601457d7da29de4f07edc]: Modification: Regulations applied (with modifications) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/20) (as inserted (E.W.) (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/2))
+[^c-0e8dac5b477601457d7da29de4f07edc]: Modification: Regulations applied (with modifications) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/20) (as inserted (E.W.) (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/2))
 
-[^key-26488dc43c48445ce3dabc91641800ba]: Modification: Regulations: certain functions transferred (1.7.1999 immediately after the coming into force of [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [s. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53)) by [The National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
+[^c-26488dc43c48445ce3dabc91641800ba]: Modification: Regulations: certain functions transferred (1.7.1999 immediately after the coming into force of [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [s. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53)) by [The National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/672/article/1/2), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-f7e647088f028e021ad3a3c9eadfe250]: Modification: Regulations applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/11)
+[^c-f7e647088f028e021ad3a3c9eadfe250]: Modification: Regulations applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/11)
 
-[^key-4fb7d8740d1e934b9f1d7f14b30dc1c9]: Modification: Regulations applied (with modifications) (12.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) (Scotland) Order 2006 (S.S.I. 2006/270)](https://www.legislation.gov.uk/ssi/2006/270), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/270/article/1/1), [15](https://www.legislation.gov.uk/ssi/2006/270/article/15)
+[^c-4fb7d8740d1e934b9f1d7f14b30dc1c9]: Modification: Regulations applied (with modifications) (12.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) (Scotland) Order 2006 (S.S.I. 2006/270)](https://www.legislation.gov.uk/ssi/2006/270), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/270/article/1/1), [15](https://www.legislation.gov.uk/ssi/2006/270/article/15)
 
 [^M_F_fa545474-dc10-4e63-8bbd-8b431ac59846]: Textual amendment: Regs. 18-22 substituted (S.) for regs. 18-22 and cross-headings (29.11.2004) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20](https://www.legislation.gov.uk/ssi/2004/475/regulation/20), [21](https://www.legislation.gov.uk/ssi/2004/475/regulation/21))
 
 [^M_F_7ee8a9d0-2490-47a4-9b7d-3a77c6fc3b12]: Textual amendment: Regs. 18-22 substituted (S.) for regs. 18-22 and cross-headings (29.11.2004) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20](https://www.legislation.gov.uk/ssi/2004/475/regulation/20), [21](https://www.legislation.gov.uk/ssi/2004/475/regulation/21))
 
-[^key-a6f4097666b0f943450f8abe1966fb80]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/1994/2716/part/4) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-a6f4097666b0f943450f8abe1966fb80]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/1994/2716/part/4) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
-[^key-7ef3f88a380eda843864a2b6670de90d]: Textual amendment: [Reg. 53B](https://www.legislation.gov.uk/uksi/1994/2716/regulation/53B) and cross-heading inserted (6.12.2019) by [The Conservation (Natural Habitats, &c.) Amendment (No. 2) (Scotland) Regulations 2019 (S.S.I. 2019/320)](https://www.legislation.gov.uk/ssi/2019/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/320/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2019/320/regulation/4)
+[^c-7ef3f88a380eda843864a2b6670de90d]: Textual amendment: [Reg. 53B](https://www.legislation.gov.uk/uksi/1994/2716/regulation/53B) and cross-heading inserted (6.12.2019) by [The Conservation (Natural Habitats, &c.) Amendment (No. 2) (Scotland) Regulations 2019 (S.S.I. 2019/320)](https://www.legislation.gov.uk/ssi/2019/320), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/320/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2019/320/regulation/4)
 
-[^key-02ae2bdfeee6815b42e84e701be55a15]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/1994/2716/part/4A) inserted (S.) (15.2.2007) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80), [reg. 2](https://www.legislation.gov.uk/ssi/2007/80/regulation/2), [sch. 1](https://www.legislation.gov.uk/ssi/2007/80/schedule/1)
+[^c-02ae2bdfeee6815b42e84e701be55a15]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/1994/2716/part/4A) inserted (S.) (15.2.2007) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2007 (S.S.I. 2007/80)](https://www.legislation.gov.uk/ssi/2007/80), [reg. 2](https://www.legislation.gov.uk/ssi/2007/80/regulation/2), [sch. 1](https://www.legislation.gov.uk/ssi/2007/80/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79A. Restriction on set-off of trust losses.[^key-746cdc6181e6bc0e6918a24255fe5311]
+## 79A. Restriction on set-off of trust losses.[^c-746cdc6181e6bc0e6918a24255fe5311]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ This applies to the whole of the chargeable gain (and not just the element defer
 
 ## Annotations
 
-[^key-746cdc6181e6bc0e6918a24255fe5311]: Textual amendment: S. 79A inserted (with application in accordance with s. 93(2) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2000/17/section/93/1)
+[^c-746cdc6181e6bc0e6918a24255fe5311]: Textual amendment: S. 79A inserted (with application in accordance with s. 93(2) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 93(1)](https://www.legislation.gov.uk/ukpga/2000/17/section/93/1)

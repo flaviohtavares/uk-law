@@ -67,7 +67,7 @@ Provided also, that the time during which any person otherwise capable of resist
 
 Provided always, that when any land or water upon, over, or from which any such way or other convenient watercourse or use of water shall have been or shall be enjoyed or derived hath been or shall be held under or by virtue of any term of life, or any term of years exceeding three years from the granting thereof, the time of the enjoyment of any such way or other matter as herein last before mentioned, during the continuance of such term, shall be excluded in the computation of the said period of forty years, in case the claim shall within three years next after the end or sooner determination of such term be resisted by any person entitled to any reversion expectant on the determination thereof.
 
-## 8A. Exclusion of time because of mediation in certain cross-border disputes[^key-e126fc6b089d02c9a4f9c0d28bdfd9e0]
+## 8A. Exclusion of time because of mediation in certain cross-border disputes[^c-e126fc6b089d02c9a4f9c0d28bdfd9e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,7 +91,7 @@ This Act shall not extend to Scotland . . . [^c555502]
 
 [^c555501]: Modification: S. 4 amended by [Rights of Light Act 1959 (c. 56)](https://www.legislation.gov.uk/ukpga/1959/56), [s. 3(6)](https://www.legislation.gov.uk/ukpga/1959/56/section/3/6) and [Commons Registration Act 1965 (c. 64)](https://www.legislation.gov.uk/ukpga/1965/64), [s. 16(2)](https://www.legislation.gov.uk/ukpga/1965/64/section/16/2)
 
-[^key-e126fc6b089d02c9a4f9c0d28bdfd9e0]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/Will4/2-3/71/section/8A) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e126fc6b089d02c9a4f9c0d28bdfd9e0]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/Will4/2-3/71/section/8A) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/1) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c555502]: Textual amendment: Words repealed by [Statute Law Revision Act 1874 (c. 35)](https://www.legislation.gov.uk/ukpga/1874/35)
 

@@ -57,8 +57,8 @@ These Regulations may be cited as the Social Security Amendment (Students and In
 
 (3) The provisions specified for the purposes of paragraphs (1) and (2) above (which relate to the calculation of grant income) are—
 
-- (a)[^key-7229a3bc5f0f23142a36ffdda902d3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7229a3bc5f0f23142a36ffdda902d3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7229a3bc5f0f23142a36ffdda902d3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7229a3bc5f0f23142a36ffdda902d3c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 62(2B) of the Income Support (General) Regulations 1987 [^c961726];
 - (d) regulation 131(3A) of the Jobseeker’s Allowance Regulations 1996 [^c961727].
 
@@ -92,7 +92,7 @@ These Regulations do not impose any charge on business.
 
 [^c961723]: Marginal citation: [S.I. 2002/195](https://www.legislation.gov.uk/uksi/2002/195) as amended by [S.I. 2002/1318](https://www.legislation.gov.uk/uksi/2002/1318).
 
-[^key-7229a3bc5f0f23142a36ffdda902d3c7]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2002/2207/regulation/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2002/2207/regulation/2/3/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-7229a3bc5f0f23142a36ffdda902d3c7]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2002/2207/regulation/2/3/a)[(b)](https://www.legislation.gov.uk/uksi/2002/2207/regulation/2/3/b) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c961726]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the relevant paragraph was inserted by [S.I. 2001/2319](https://www.legislation.gov.uk/uksi/2001/2319) and amended by [S.I. 2002/1589](https://www.legislation.gov.uk/uksi/2002/1589).
 

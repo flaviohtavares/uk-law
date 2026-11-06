@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Consultation on regulations[^key-0dad660c80de9797f266b5d3503999e6]
+## 54. Consultation on regulations[^c-0dad660c80de9797f266b5d3503999e6]
 
 *Extent: S*
 
-(1) Before making regulations under section 48 about any matter mentioned in section 55B(4)[^key-db5d2389b948a7427ba243992c351153], the Scottish Ministers must—
+(1) Before making regulations under section 48 about any matter mentioned in section 55B(4)[^c-db5d2389b948a7427ba243992c351153], the Scottish Ministers must—
 
-- (a) share a draft of the regulations with the Police Negotiating Board for Scotland[^key-31ddcdbf6e57f23bf959484367548725], and
+- (a) share a draft of the regulations with the Police Negotiating Board for Scotland[^c-31ddcdbf6e57f23bf959484367548725], and
 - (b) consider any representations made.
 
 (2) Before making any other regulations under section 48, the Scottish Ministers must—
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0dad660c80de9797f266b5d3503999e6]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2012/8/section/54) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-0dad660c80de9797f266b5d3503999e6]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2012/8/section/54) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-db5d2389b948a7427ba243992c351153]: Textual amendment: Word in [s. 54(1)](https://www.legislation.gov.uk/asp/2012/8/section/54/1) substituted (17.8.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(2)(a)](https://www.legislation.gov.uk/asp/2016/1/section/113/2/a), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/139/article/2/b)
+[^c-db5d2389b948a7427ba243992c351153]: Textual amendment: Word in [s. 54(1)](https://www.legislation.gov.uk/asp/2012/8/section/54/1) substituted (17.8.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(2)(a)](https://www.legislation.gov.uk/asp/2016/1/section/113/2/a), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/139/article/2/b)
 
-[^key-31ddcdbf6e57f23bf959484367548725]: Textual amendment: Word in [s. 54(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/54/1/a) substituted (17.8.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(2)(b)](https://www.legislation.gov.uk/asp/2016/1/section/113/2/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/139/article/2/b)
+[^c-31ddcdbf6e57f23bf959484367548725]: Textual amendment: Word in [s. 54(1)(a)](https://www.legislation.gov.uk/asp/2012/8/section/54/1/a) substituted (17.8.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 113(2)(b)](https://www.legislation.gov.uk/asp/2016/1/section/113/2/b), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/139/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Inspectors[^key-c599987b7563c2f60bce139f224d30ab][^key-770925a78e85e47e25efd0e7aaaf165e]
+## 51. Inspectors[^c-c599987b7563c2f60bce139f224d30ab][^c-770925a78e85e47e25efd0e7aaaf165e]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c599987b7563c2f60bce139f224d30ab]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2006/45/section/51) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/f)
+[^c-c599987b7563c2f60bce139f224d30ab]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2006/45/section/51) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/f)
 
-[^key-770925a78e85e47e25efd0e7aaaf165e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2006/45/section/51) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/h)
+[^c-770925a78e85e47e25efd0e7aaaf165e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2006/45/section/51) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/h)

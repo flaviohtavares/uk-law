@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Declaration of dividend[^key-875af6ba4f42bace518ad46b0765cf84]
+## 68. Declaration of dividend[^c-875af6ba4f42bace518ad46b0765cf84]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875af6ba4f42bace518ad46b0765cf84]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2013/3208/rule/68) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-875af6ba4f42bace518ad46b0765cf84]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2013/3208/rule/68) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

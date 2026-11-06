@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Further requirements as to health and welfare[^key-f7c72196409eefcf528b0fb324caf22b]
+## 13. Further requirements as to health and welfare[^c-f7c72196409eefcf528b0fb324caf22b]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 (4) In this regulation, “prescribed” means—
 
 - (a) ordered for a resident for provision to him under Part VI of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00004]; or
-- (b) prescribed for a resident under regulations 214 or 215 of the Human Medicines Regulations 2012[^key-2b8ab823d3e4dd2f51e12e1c4a5e03c4].
+- (b) prescribed for a resident under regulations 214 or 215 of the Human Medicines Regulations 2012[^c-2b8ab823d3e4dd2f51e12e1c4a5e03c4].
 
 (5) The registered person shall make suitable arrangements to minimise the risk of infection and toxic conditions and the spread of infection between residents and staff.
 
@@ -54,14 +54,14 @@ summary: ''
 
 (8) The registered person shall ensure that no resident is subject to restraint unless restraint of the kind employed is the only practicable means of securing the welfare of that or any other resident and there are exceptional circumstances.
 
-(9) On any occasion on which a resident is subject to restraint, the registered person shall record the circumstances, including the nature of the restraint. These details should also be reported to the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] as soon as is practicable.
+(9) On any occasion on which a resident is subject to restraint, the registered person shall record the circumstances, including the nature of the restraint. These details should also be reported to the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] as soon as is practicable.
 
 ## Annotations
 
-[^key-f7c72196409eefcf528b0fb324caf22b]: Commencement: Reg. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-f7c72196409eefcf528b0fb324caf22b]: Commencement: Reg. 13 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
 [^f00004]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-2b8ab823d3e4dd2f51e12e1c4a5e03c4]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/nisr/2007/236/regulation/13/4/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 120](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/120) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-2b8ab823d3e4dd2f51e12e1c4a5e03c4]: Textual amendment: Words in [reg. 13(4)(b)](https://www.legislation.gov.uk/nisr/2007/236/regulation/13/4/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 120](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/120) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

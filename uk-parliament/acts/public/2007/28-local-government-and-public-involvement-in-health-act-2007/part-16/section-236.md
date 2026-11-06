@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Exercise of functions by local councillors in England[^key-b6dbd652d019b08e7633081485736d0d][^key-4d84a9c220f411e14c8ffc225597d87c]
+## 236. Exercise of functions by local councillors in England[^c-b6dbd652d019b08e7633081485736d0d][^c-4d84a9c220f411e14c8ffc225597d87c]
 
 *Extent: E+W*
 
@@ -54,12 +54,12 @@ and any reference to a function which is the responsibility of the executive of 
 
 (8) Any reference in this section to the discharge of any function includes a reference to the doing of anything which is calculated to facilitate, or is conducive or incidental to, the discharge of that function.
 
-(9)[^key-0e4b28e14d4fe15d98a7fb81d871839e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-0e4b28e14d4fe15d98a7fb81d871839e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6dbd652d019b08e7633081485736d0d]: Commencement: S. 236 in force at 12.12.2008 for specified purposes by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/h)
+[^c-b6dbd652d019b08e7633081485736d0d]: Commencement: S. 236 in force at 12.12.2008 for specified purposes by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/h)
 
-[^key-4d84a9c220f411e14c8ffc225597d87c]: Commencement: S. 236 in force at 1.4.2009 in so far as not already in force by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(i)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/i)
+[^c-4d84a9c220f411e14c8ffc225597d87c]: Commencement: S. 236 in force at 1.4.2009 in so far as not already in force by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(i)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/i)
 
-[^key-0e4b28e14d4fe15d98a7fb81d871839e]: Textual amendment: [S. 236(9)](https://www.legislation.gov.uk/ukpga/2007/28/section/236/9) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-0e4b28e14d4fe15d98a7fb81d871839e]: Textual amendment: [S. 236(9)](https://www.legislation.gov.uk/ukpga/2007/28/section/236/9) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

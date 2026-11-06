@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Premises[^key-f9ec200ce59ae5b7cd0d023d51c73d12]
+## 13. Premises[^c-f9ec200ce59ae5b7cd0d023d51c73d12]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9ec200ce59ae5b7cd0d023d51c73d12]: Commencement: Reg. 13 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-f9ec200ce59ae5b7cd0d023d51c73d12]: Commencement: Reg. 13 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

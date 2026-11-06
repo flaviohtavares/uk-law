@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons
 
-The Continuing Care (Scotland) Amendment Order 2016 (revoked)[^key-70e377135f4f0f03954a135bc54bf9a9]
+The Continuing Care (Scotland) Amendment Order 2016 (revoked)[^c-70e377135f4f0f03954a135bc54bf9a9]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 1st April 2016
 
-[^key-70e377135f4f0f03954a135bc54bf9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70e377135f4f0f03954a135bc54bf9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-70e377135f4f0f03954a135bc54bf9a9]
+## 1. Citation and commencement[^c-70e377135f4f0f03954a135bc54bf9a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Continuing Care (Scotland) Order 2015[^key-70e377135f4f0f03954a135bc54bf9a9]
+## 2. Amendment of the Continuing Care (Scotland) Order 2015[^c-70e377135f4f0f03954a135bc54bf9a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-70e377135f4f0f03954a135bc54bf9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70e377135f4f0f03954a135bc54bf9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-70e377135f4f0f03954a135bc54bf9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70e377135f4f0f03954a135bc54bf9a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70e377135f4f0f03954a135bc54bf9a9]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/92) revoked (1.4.2017) by [The Continuing Care (Scotland) Amendment Order 2017 (S.S.I. 2017/62)](https://www.legislation.gov.uk/ssi/2017/62), [arts. 1](https://www.legislation.gov.uk/ssi/2017/62/article/1), [3](https://www.legislation.gov.uk/ssi/2017/62/article/3)
+[^c-70e377135f4f0f03954a135bc54bf9a9]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/92) revoked (1.4.2017) by [The Continuing Care (Scotland) Amendment Order 2017 (S.S.I. 2017/62)](https://www.legislation.gov.uk/ssi/2017/62), [arts. 1](https://www.legislation.gov.uk/ssi/2017/62/article/1), [3](https://www.legislation.gov.uk/ssi/2017/62/article/3)

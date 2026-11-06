@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P9. Employer's further payments[^key-1b2cf511da2598af6b2c47e9606eeba7]
+## P9. Employer's further payments[^c-1b2cf511da2598af6b2c47e9606eeba7]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ shall be repaid to the fund by the scheduled body concerned.
 
 ## Annotations
 
-[^key-1b2cf511da2598af6b2c47e9606eeba7]: Commencement: [Reg. P9](https://www.legislation.gov.uk/uksi/1986/24/regulation/P9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1b2cf511da2598af6b2c47e9606eeba7]: Commencement: [Reg. P9](https://www.legislation.gov.uk/uksi/1986/24/regulation/P9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

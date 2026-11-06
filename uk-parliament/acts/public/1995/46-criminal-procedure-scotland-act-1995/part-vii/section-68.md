@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-7907dfacc45b19ef2c730dac21ee0250] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7907dfacc45b19ef2c730dac21ee0250] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The accused shall be entitled to see the productions according to the existing law and practice in the office of the sheriff clerk of the district in which the court of the trial diet is situated or, where the trial diet is to be in the High Court in Edinburgh, in the Justiciary Office.
 
@@ -38,7 +38,7 @@ unless the accused, where the case is to be tried in the sheriff court,[^c189584
 
 ## Annotations
 
-[^key-7907dfacc45b19ef2c730dac21ee0250]: Textual amendment: [S. 68(1)](https://www.legislation.gov.uk/ukpga/1995/46/section/68/1) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 78(2)(c)](https://www.legislation.gov.uk/asp/2016/1/section/78/2/c), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))
+[^c-7907dfacc45b19ef2c730dac21ee0250]: Textual amendment: [S. 68(1)](https://www.legislation.gov.uk/ukpga/1995/46/section/68/1) repealed (17.1.2017) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 78(2)(c)](https://www.legislation.gov.uk/asp/2016/1/section/78/2/c), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/426/article/3))
 
 [^c18958431]: Textual amendment: Words in s. 68(3) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 25](https://www.legislation.gov.uk/asp/2004/5/section/25), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1), [Sch. para. 18(a)(i)](https://www.legislation.gov.uk/asp/2004/5/schedule/paragraph/18/a/i); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 

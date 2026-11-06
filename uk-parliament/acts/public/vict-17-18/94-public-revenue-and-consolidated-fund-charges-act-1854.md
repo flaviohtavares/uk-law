@@ -35,7 +35,7 @@ An Act to alter the Mode of providing for certain Expenses now charged upon cert
 
 ## 1. †Charges in schedule (A.) to be payable out of the Consolidated Fund; and charges in schedule (B.) to be paid out of aids, &c. voted by Parliament, except in certain cases. Charges to be defrayed as heretofore up to the passing of the Act.[^c5652581]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5652591] [^key-ac956025813b1401eee7c71ed01de8cb]... Such of the charges and payments as are described in the said schedule (B.) shall be paid out of such aids and supplies as may be from time to time provided and appropriated by Parliament for the purpose. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5652591]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5652591] [^c-ac956025813b1401eee7c71ed01de8cb]... Such of the charges and payments as are described in the said schedule (B.) shall be paid out of such aids and supplies as may be from time to time provided and appropriated by Parliament for the purpose. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c5652591]
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5652611]
 
@@ -51,7 +51,7 @@ Where any of the charges and payments described in the said schedule (B.) are by
 
 ## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5652631]
 
-## Schedule (A)[^key-10df7df40fbafad1f6070ec846270f17]
+## Schedule (A)[^c-10df7df40fbafad1f6070ec846270f17]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -66,7 +66,7 @@ Schedule of Salaries and Payments charged under various Acts of Parliament upon 
 | ’’ | Her Majesty’s allowance for the Register House, Edinburgh. | 7 Anne, c. 11. 10 Anne, c. 26 and subsequent Acts. |
 | ’’ | Expenses of judges and officers of the circuits of the justiciary and jury courts. | 7 Anne, c. 11. 10 Anne, c. 26 and subsequent Acts. |
 | ’’ | Expenses of extra advocates, depute clerks, and macers on circuit. | 7 Anne, c. 11. 10 Anne, c. 26 and subsequent Acts. |
-| [^key-a8e19d7282f1ee37600b4289cde2b12f]. . . | . . . | . . . |
+| [^c-a8e19d7282f1ee37600b4289cde2b12f]. . . | . . . | . . . |
 
 ## Annotations
 
@@ -78,7 +78,7 @@ Schedule of Salaries and Payments charged under various Acts of Parliament upon 
 
 [^c5652591]: Textual amendment: Words repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19)
 
-[^key-ac956025813b1401eee7c71ed01de8cb]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/Vict/17-18/94/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
+[^c-ac956025813b1401eee7c71ed01de8cb]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/Vict/17-18/94/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
 
 [^c5652611]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/17-18/94/section/2) repealed by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/1)
 
@@ -86,8 +86,8 @@ Schedule of Salaries and Payments charged under various Acts of Parliament upon 
 
 [^c5652631]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/17-18/94/section/8) repealed by [Statute Law Revision Act 1964 (c. 79)](https://www.legislation.gov.uk/ukpga/1964/79)
 
-[^key-10df7df40fbafad1f6070ec846270f17]: Textual amendment: [Sch. A](https://www.legislation.gov.uk/ukpga/Vict/17-18/94/schedule/A) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
+[^c-10df7df40fbafad1f6070ec846270f17]: Textual amendment: [Sch. A](https://www.legislation.gov.uk/ukpga/Vict/17-18/94/schedule/A) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
 
 [^M_C_4828ec9b-de8d-4933-90ee-49785907a7ae]: Modification: Sch. B is printed with the omission of entries repealed by [Statute Law Revision Act 1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19), [Statute Law Revision (No. 2) Act 1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54), [Public Health Act 1896 (c. 19)](https://www.legislation.gov.uk/ukpga/1896/19), [Sch.](https://www.legislation.gov.uk/ukpga/1896/19/schedule), [Metropolitan Police Courts Act 1897 (c. 26)](https://www.legislation.gov.uk/ukpga/1897/26), [Sch.](https://www.legislation.gov.uk/ukpga/1897/26/schedule), [National Galleries of Scotland Act 1906 (c. 50)](https://www.legislation.gov.uk/ukpga/1906/50), [Sch.](https://www.legislation.gov.uk/ukpga/1906/50/schedule), [Post Office Act 1908 (c. 48)](https://www.legislation.gov.uk/ukpga/1908/48), [Sch. 2](https://www.legislation.gov.uk/ukpga/1908/48/schedule/2), [Health Services Act (Northern Ireland) 1948 (c. 3)](https://www.legislation.gov.uk/apni/1948/3), [Sch. 10 Pt. I](https://www.legislation.gov.uk/apni/1948/3/schedule/10/part/I), [Miscellaneous Financial Provisions Act 1950 (c. 21)](https://www.legislation.gov.uk/ukpga/1950/21), [Sch.](https://www.legislation.gov.uk/ukpga/1950/21/schedule), [Customs and Excise Act 1952 (c. 44)](https://www.legislation.gov.uk/ukpga/1952/44), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/1952/44/schedule/12/part/I), [Statute Law Revision Act (Northern Ireland) 1954 (c. 35)](https://www.legislation.gov.uk/apni/1954/35), [Registration Service Act 1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37), [Sch. 2](https://www.legislation.gov.uk/ukpga/1953/37/schedule/2), [Statute Law Revision Act 1953 (c. 5)](https://www.legislation.gov.uk/ukpga/1953/5), [Fisheries Act 1955 (c. 7)](https://www.legislation.gov.uk/ukpga/1955/7), [Sch.](https://www.legislation.gov.uk/ukpga/1955/7/schedule), [County Courts Act (Northern Ireland) 1959 (c. 25)](https://www.legislation.gov.uk/apni/1959/25), [Sch. 5](https://www.legislation.gov.uk/apni/1959/25/schedule/5), [Statute Law Revision Act 1964 (c. 79)](https://www.legislation.gov.uk/ukpga/1964/79), [Judgments (Enforcement) Act (Northern Ireland) 1969 (c. 30)](https://www.legislation.gov.uk/apni/1969/30), [Sch. 6](https://www.legislation.gov.uk/apni/1969/30/schedule/6), [Statute Law (Repeals) Act 1971 (c. 52)](https://www.legislation.gov.uk/ukpga/1971/52), [Sch. Pt. IX](https://www.legislation.gov.uk/ukpga/1971/52/schedule/part/IX) and [Judicature (Northern Ireland) Act 1978 (c. 23)](https://www.legislation.gov.uk/ukpga/1978/23), [Sch. 7](https://www.legislation.gov.uk/ukpga/1978/23/schedule/7)
 
-[^key-a8e19d7282f1ee37600b4289cde2b12f]: Textual amendment: Sch. entry repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-a8e19d7282f1ee37600b4289cde2b12f]: Textual amendment: Sch. entry repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

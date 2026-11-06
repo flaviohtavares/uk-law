@@ -24,8 +24,8 @@ summary: ''
 
 (2) Subject to subsection (3) below, any amount which a tenant is entitled to recover under subsection (1) above may, without prejudice to any other method of recovery, be deducted by the tenant from any rent payable by him to the landlord.
 
-(3) [^key-d72c66d596d013365da8c9ebfb4e27df]... No amount which a tenant is entitled to recover under subsection (1) above shall be recoverable at any time after the expiry of two years from the date of payment.
+(3) [^c-d72c66d596d013365da8c9ebfb4e27df]... No amount which a tenant is entitled to recover under subsection (1) above shall be recoverable at any time after the expiry of two years from the date of payment.
 
 ## Annotations
 
-[^key-d72c66d596d013365da8c9ebfb4e27df]: Textual amendment: Words in [s. 37(3)](https://www.legislation.gov.uk/ukpga/1984/58/section/37/3) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/4/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
+[^c-d72c66d596d013365da8c9ebfb4e27df]: Textual amendment: Words in [s. 37(3)](https://www.legislation.gov.uk/ukpga/1984/58/section/37/3) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [4(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/4/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))

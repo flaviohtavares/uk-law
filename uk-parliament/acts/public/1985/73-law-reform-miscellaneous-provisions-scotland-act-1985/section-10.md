@@ -24,10 +24,10 @@ summary: ''
 
 (2) Subsection (1) applies to any proceedings commenced on or after the date on which it comes into force, whether or not the negligent misrepresentation was made before or after that date, but does not apply to any proceedings commenced before that date.
 
-(3)[^key-d2ccf562624326d4907622a77ced9644] This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ( [SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277) ) in respect of the conduct constituting the misrepresentation.
+(3)[^c-d2ccf562624326d4907622a77ced9644] This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ( [SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277) ) in respect of the conduct constituting the misrepresentation.
 
 (4) Subsection (3) does not prevent a debtor from bringing a claim under section 75(1) of the Consumer Credit Act 1974 against a creditor under a debtor-creditor-supplier agreement in a case where, but for subsection (4), the debtor would have a claim against the supplier in respect of a misrepresentation (and, where section 75 of that Act would otherwise apply, it accordingly applies as if the debtor had a claim against the supplier).
 
 ## Annotations
 
-[^key-d2ccf562624326d4907622a77ced9644]: Textual amendment: S. 10(3)(4) inserted (1.10.2014 with application in accordance with reg. 1(3)) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2014/870/regulation/8)
+[^c-d2ccf562624326d4907622a77ced9644]: Textual amendment: S. 10(3)(4) inserted (1.10.2014 with application in accordance with reg. 1(3)) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2014/870/regulation/8)

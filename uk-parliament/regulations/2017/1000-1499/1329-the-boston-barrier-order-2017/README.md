@@ -49,7 +49,7 @@ The Secretary of State is of the opinion that the primary object of this Order c
 
 Notice of the Secretary of State’s determination was published in the London Gazette on 4th December 2017.
 
-The Secretary of State makes the following Order in exercise of the powers conferred by sections 3(1)(b) and 5 of, and paragraphs 1 to 5, 7, 8, 10, 11, 13 and 15 to 17 of Schedule 1 to, the 1992 Act and by article 2 of the Transport and Works (Descriptions of Works Interfering with Navigation) Order 1992[^f00004].[^key-f083542e1de3aa1fa95936fd34d418f8]
+The Secretary of State makes the following Order in exercise of the powers conferred by sections 3(1)(b) and 5 of, and paragraphs 1 to 5, 7, 8, 10, 11, 13 and 15 to 17 of Schedule 1 to, the 1992 Act and by article 2 of the Transport and Works (Descriptions of Works Interfering with Navigation) Order 1992[^f00004].[^c-f083542e1de3aa1fa95936fd34d418f8]
 
 ## Contents
 
@@ -256,4 +256,4 @@ A copy of the Order plans and the book of reference referred to in this Order an
 
 [^f00004]: Footnote: [S.I. 1992/3230](https://www.legislation.gov.uk/uksi/1992/3230) as amended by [S.I. 1997/2906](https://www.legislation.gov.uk/uksi/1997/2906).
 
-[^key-f083542e1de3aa1fa95936fd34d418f8]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/1329) excluded in part (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [41](https://www.legislation.gov.uk/uksi/2023/778/article/41) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
+[^c-f083542e1de3aa1fa95936fd34d418f8]: Modification: [Order](https://www.legislation.gov.uk/uksi/2017/1329) excluded in part (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [41](https://www.legislation.gov.uk/uksi/2023/778/article/41) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2[^key-65e6d1250259d10dab8489ad9c186911]
+## SCHEDULE 2[^c-65e6d1250259d10dab8489ad9c186911]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Article 9
 
-### PART 1 — Modification of the application of Part 1 of the 2008 Act[^key-65e6d1250259d10dab8489ad9c186911]
+### PART 1 — Modification of the application of Part 1 of the 2008 Act[^c-65e6d1250259d10dab8489ad9c186911]
 
-**1.**[^key-65e6d1250259d10dab8489ad9c186911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-65e6d1250259d10dab8489ad9c186911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Modification of the application of Schedules 2 to 4 to the 2008 Act[^key-65e6d1250259d10dab8489ad9c186911]
+### PART 2 — Modification of the application of Schedules 2 to 4 to the 2008 Act[^c-65e6d1250259d10dab8489ad9c186911]
 
-**2.**[^key-65e6d1250259d10dab8489ad9c186911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-65e6d1250259d10dab8489ad9c186911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65e6d1250259d10dab8489ad9c186911]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1432/schedule/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(10)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/10)
+[^c-65e6d1250259d10dab8489ad9c186911]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1432/schedule/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(10)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/10)

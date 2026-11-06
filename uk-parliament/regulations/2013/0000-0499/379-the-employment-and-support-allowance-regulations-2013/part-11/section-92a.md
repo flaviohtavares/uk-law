@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges the evacuation of British nationals from a country or territory[^key-6d695616259e68ca1631abd3f801450f]
+## 92A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges the evacuation of British nationals from a country or territory[^c-6d695616259e68ca1631abd3f801450f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ A claimant is to continue to be entitled to an employment and support allowance 
 
 ## Annotations
 
-[^key-6d695616259e68ca1631abd3f801450f]: Textual amendment: [Reg. 92A](https://www.legislation.gov.uk/uksi/2013/379/regulation/92A) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2025/884/regulation/12/3)
+[^c-6d695616259e68ca1631abd3f801450f]: Textual amendment: [Reg. 92A](https://www.legislation.gov.uk/uksi/2013/379/regulation/92A) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2025/884/regulation/12/3)

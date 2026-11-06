@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. First-tier members[^key-c2ee97960787dfc2302e082cc86799b3]
+## 15. First-tier members[^c-c2ee97960787dfc2302e082cc86799b3]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2ee97960787dfc2302e082cc86799b3]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/10/section/15) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-c2ee97960787dfc2302e082cc86799b3]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/10/section/15) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

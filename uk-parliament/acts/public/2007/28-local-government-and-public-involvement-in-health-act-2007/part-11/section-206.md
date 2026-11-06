@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Consultation[^key-55680b2a35c098fc5d91f92be37e1bec]
+## 206. Consultation[^c-55680b2a35c098fc5d91f92be37e1bec]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55680b2a35c098fc5d91f92be37e1bec]: Textual amendment: Ss. 205-208 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/4) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/5)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-55680b2a35c098fc5d91f92be37e1bec]: Textual amendment: Ss. 205-208 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/4) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/5)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)

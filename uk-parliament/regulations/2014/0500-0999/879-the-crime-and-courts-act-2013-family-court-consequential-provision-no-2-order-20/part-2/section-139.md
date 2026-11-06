@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**139.**[^key-27e69bb43941513f47887e1fcca187ed] In paragraph 3—
+**139.**[^c-27e69bb43941513f47887e1fcca187ed] In paragraph 3—
 
 - (a) in sub-paragraph (1), for “sub-paragraphs (2) and (3)” substitute “sub-paragraph (2)”; and
 - (b) omit sub-paragraphs (3) and (4).
 
 ## Annotations
 
-[^key-27e69bb43941513f47887e1fcca187ed]: Commencement: Art. 139 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-27e69bb43941513f47887e1fcca187ed]: Commencement: Art. 139 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

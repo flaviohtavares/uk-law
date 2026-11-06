@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.11. Overseas forfeiture orders[^key-7de2a754e1c804a1a7c79499db4d77d6]
+## 49.11. Overseas forfeiture orders[^c-7de2a754e1c804a1a7c79499db4d77d6]
 
 *Extent: E+W*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7de2a754e1c804a1a7c79499db4d77d6]: Commencement: [Rule 49.11](https://www.legislation.gov.uk/uksi/2025/909/rule/49.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7de2a754e1c804a1a7c79499db4d77d6]: Commencement: [Rule 49.11](https://www.legislation.gov.uk/uksi/2025/909/rule/49.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01327]: Footnote: [S.I. 2005/3180](https://www.legislation.gov.uk/uksi/2005/3180).

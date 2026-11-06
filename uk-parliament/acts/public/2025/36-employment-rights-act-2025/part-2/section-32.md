@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Public sector outsourcing: protection of workers[^key-f2bf7836c37b30e4ec8f5973ad76d1ef]
+## 32. Public sector outsourcing: protection of workers[^c-f2bf7836c37b30e4ec8f5973ad76d1ef]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f37097186956afeec599874d5debaf10] The Procurement Act 2023 is amended as follows.
+(1)[^c-f37097186956afeec599874d5debaf10] The Procurement Act 2023 is amended as follows.
 
-(2)[^key-bf06f8d79e728e6629df308625a89611] After Part 5 insert—
+(2)[^c-bf06f8d79e728e6629df308625a89611] After Part 5 insert—
 
 > **Part 5A — Outsourcing: protection of workers**
 >
@@ -162,11 +162,11 @@ summary: ''
 >
 > The Scottish Ministers may by regulations modify section 83A, 83B or 83E in consequence of a modification of Scottish procurement legislation.
 
-(3)[^key-bf06f8d79e728e6629df308625a89611] In section 2 (contracting authorities), after subsection (1) insert—
+(3)[^c-bf06f8d79e728e6629df308625a89611] In section 2 (contracting authorities), after subsection (1) insert—
 
 > (1A) But see also section 83B(5)(b)(i) (which provides for “contracting authority” to have an extended meaning in relation to certain contracts regulated under Part 5A (outsourcing: protection of workers)).
 
-(4)[^key-3911bcb42cd2b70a124e28ba72910c89] In section 122 (regulations)—
+(4)[^c-3911bcb42cd2b70a124e28ba72910c89] In section 122 (regulations)—
 
 - (a) in subsection (4) (regulations of Ministers of the Crown subject to affirmative procedure), after paragraph (i) insert—
 
@@ -185,13 +185,13 @@ summary: ''
 
   .
 
-(5)[^key-bf06f8d79e728e6629df308625a89611] In section 123 (interpretation), in subsection (1), in the definition of “appropriate authority”, at the end insert—
+(5)[^c-bf06f8d79e728e6629df308625a89611] In section 123 (interpretation), in subsection (1), in the definition of “appropriate authority”, at the end insert—
 
 > (but see section 83A(2) for a different meaning of “appropriate authority” in Part 5A (outsourcing: protection of workers));
 
 .
 
-(6)[^key-bf06f8d79e728e6629df308625a89611] In section 124 (index of defined expressions), for the entry for “appropriate authority” substitute—
+(6)[^c-bf06f8d79e728e6629df308625a89611] In section 124 (index of defined expressions), for the entry for “appropriate authority” substitute—
 
 > |  |  |
 > | --- | --- |
@@ -200,7 +200,7 @@ summary: ''
 
 .
 
-(7)[^key-bf06f8d79e728e6629df308625a89611] In Schedule 9A (procurement by devolved Scottish authorities), at the appropriate place insert—
+(7)[^c-bf06f8d79e728e6629df308625a89611] In Schedule 9A (procurement by devolved Scottish authorities), at the appropriate place insert—
 
 > |  |  |
 > | --- | --- |
@@ -210,10 +210,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f2bf7836c37b30e4ec8f5973ad76d1ef]: Commencement: S. 32 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f2bf7836c37b30e4ec8f5973ad76d1ef]: Commencement: S. 32 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f37097186956afeec599874d5debaf10]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/a)
+[^c-f37097186956afeec599874d5debaf10]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/a)
 
-[^key-bf06f8d79e728e6629df308625a89611]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/2)[(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/3), [(5)-(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/5) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-bf06f8d79e728e6629df308625a89611]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/2)[(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/3), [(5)-(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/5) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
 
-[^key-3911bcb42cd2b70a124e28ba72910c89]: Commencement: [S. 32(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)
+[^c-3911bcb42cd2b70a124e28ba72910c89]: Commencement: [S. 32(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/4) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/c)

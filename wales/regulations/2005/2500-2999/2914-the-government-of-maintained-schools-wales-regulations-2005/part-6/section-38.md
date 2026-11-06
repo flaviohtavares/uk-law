@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Transitional provision[^key-94cbd0bb61c67e746e8604b66591a6eb]
+## 38. Transitional provision[^c-94cbd0bb61c67e746e8604b66591a6eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 has effect for the purpose of continuing the term of office of govern
 
 ## Annotations
 
-[^key-94cbd0bb61c67e746e8604b66591a6eb]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/2914/regulation/38) in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-94cbd0bb61c67e746e8604b66591a6eb]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2005/2914/regulation/38) in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

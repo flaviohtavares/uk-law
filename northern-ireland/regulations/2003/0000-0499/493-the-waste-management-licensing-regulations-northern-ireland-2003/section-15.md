@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Amendments to the Groundwater Regulations (Northern Ireland) 1998[^key-e36fbbfd5037e64736294ca665c3b77e]
+## 15. Amendments to the Groundwater Regulations (Northern Ireland) 1998[^c-e36fbbfd5037e64736294ca665c3b77e]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e36fbbfd5037e64736294ca665c3b77e]: Commencement: Reg. 15 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-e36fbbfd5037e64736294ca665c3b77e]: Commencement: Reg. 15 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00055]: Footnote: [S.R. 1998 No.401](https://www.legislation.gov.uk/nisr/1998/401)

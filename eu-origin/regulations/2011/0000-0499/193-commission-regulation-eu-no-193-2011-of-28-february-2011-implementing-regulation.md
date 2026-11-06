@@ -35,83 +35,83 @@ implementing Regulation (EC) No 1445/2007 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-d51db60458e1f1d816b284457e1242ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d51db60458e1f1d816b284457e1242ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d51db60458e1f1d816b284457e1242ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d51db60458e1f1d816b284457e1242ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d51db60458e1f1d816b284457e1242ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d51db60458e1f1d816b284457e1242ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d51db60458e1f1d816b284457e1242ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Common quality criteria and structure of quality reports[^key-d51db60458e1f1d816b284457e1242ed]
+## ANNEX — Common quality criteria and structure of quality reports[^c-d51db60458e1f1d816b284457e1242ed]
 
-[^key-d51db60458e1f1d816b284457e1242ed]1.
+[^c-d51db60458e1f1d816b284457e1242ed]1.
 
 **Inventory of sources and methods used in the Eurostat PPP exercise (‘PPP inventory’)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]1.
+[^c-d51db60458e1f1d816b284457e1242ed]1.
 
 Organisation of the national PPP exercise and background information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]2.
+[^c-d51db60458e1f1d816b284457e1242ed]2.
 
 Consumer goods and services
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]2.1.
+[^c-d51db60458e1f1d816b284457e1242ed]2.1.
 
 Consumer goods price surveys
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]2.2.
+[^c-d51db60458e1f1d816b284457e1242ed]2.2.
 
 Housing services
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]3.
+[^c-d51db60458e1f1d816b284457e1242ed]3.
 
 Government services (salary survey only)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]4.
+[^c-d51db60458e1f1d816b284457e1242ed]4.
 
 Capital goods and services
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]4.1.
+[^c-d51db60458e1f1d816b284457e1242ed]4.1.
 
 Equipment goods
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]4.2.
+[^c-d51db60458e1f1d816b284457e1242ed]4.2.
 
 Construction
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]5.
+[^c-d51db60458e1f1d816b284457e1242ed]5.
 
 Final expenditure on GDP
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]2.
+[^c-d51db60458e1f1d816b284457e1242ed]2.
 
 **Consumer goods price survey reports**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d51db60458e1f1d816b284457e1242ed]3.
+[^c-d51db60458e1f1d816b284457e1242ed]3.
 
 **Quality criteria**
 
@@ -119,4 +119,4 @@ Final expenditure on GDP
 
 ## Annotations
 
-[^key-d51db60458e1f1d816b284457e1242ed]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 184](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/184); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d51db60458e1f1d816b284457e1242ed]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 184](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/184); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

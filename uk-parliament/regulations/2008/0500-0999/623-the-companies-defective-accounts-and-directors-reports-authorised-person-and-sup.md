@@ -32,7 +32,7 @@ summary: ''
 
 Companies
 
-The Companies (Defective Accounts and Directors’ Reports) (Authorised Person) and Supervision of Accounts and Reports (Prescribed Body) Order 2008 (revoked)[^key-43d471b1c780e8ea0809da2bd67752d8]
+The Companies (Defective Accounts and Directors’ Reports) (Authorised Person) and Supervision of Accounts and Reports (Prescribed Body) Order 2008 (revoked)[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 6th April 2008
 
-[^key-43d471b1c780e8ea0809da2bd67752d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43d471b1c780e8ea0809da2bd67752d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-43d471b1c780e8ea0809da2bd67752d8]
+## 1. Citation, commencement and interpretation[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Authorisation[^key-43d471b1c780e8ea0809da2bd67752d8]
+## 2. Authorisation[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment in relation to issuers[^key-43d471b1c780e8ea0809da2bd67752d8]
+## 3. Appointment in relation to issuers[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Appointment in relation to accounts[^key-43d471b1c780e8ea0809da2bd67752d8]
+## 4. Appointment in relation to accounts[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Decision recording requirements[^key-43d471b1c780e8ea0809da2bd67752d8]
+## 5. Decision recording requirements[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations and transitional provisions[^key-43d471b1c780e8ea0809da2bd67752d8]
+## 6. Revocations and transitional provisions[^c-43d471b1c780e8ea0809da2bd67752d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-43d471b1c780e8ea0809da2bd67752d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-43d471b1c780e8ea0809da2bd67752d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43d471b1c780e8ea0809da2bd67752d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43d471b1c780e8ea0809da2bd67752d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-43d471b1c780e8ea0809da2bd67752d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43d471b1c780e8ea0809da2bd67752d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43d471b1c780e8ea0809da2bd67752d8]: Textual amendment: Order revoked (2.7.2012) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors' Reports) (Authorised Person) Order 2012 (S.I. 2012/1439)](https://www.legislation.gov.uk/uksi/2012/1439), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2012/1439/article/7/2)
+[^c-43d471b1c780e8ea0809da2bd67752d8]: Textual amendment: Order revoked (2.7.2012) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Directors' Reports) (Authorised Person) Order 2012 (S.I. 2012/1439)](https://www.legislation.gov.uk/uksi/2012/1439), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1439/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2012/1439/article/7/2)

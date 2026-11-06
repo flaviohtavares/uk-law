@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Meaning of “dependant’s added pension”[^key-5c0117f029f9ca0f5c4911860a7ef2bf]
+## 96. Meaning of “dependant’s added pension”[^c-5c0117f029f9ca0f5c4911860a7ef2bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A dependant’s added pension is a pension payable on the death of a member of t
 
 ## Annotations
 
-[^key-5c0117f029f9ca0f5c4911860a7ef2bf]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/2015/182/regulation/96) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-5c0117f029f9ca0f5c4911860a7ef2bf]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/2015/182/regulation/96) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

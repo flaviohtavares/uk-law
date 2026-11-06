@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 7) Regulations (Northern Ireland) 2021 (revoked)[^key-598ca06bf0899309b93c67828de61206]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 7) Regulations (Northern Ireland) 2021 (revoked)[^c-598ca06bf0899309b93c67828de61206]
 
 Made
 
@@ -42,85 +42,85 @@ Coming into operation
 
 at 4.00 a.m. on 4th October 2021
 
-[^key-598ca06bf0899309b93c67828de61206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-598ca06bf0899309b93c67828de61206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-598ca06bf0899309b93c67828de61206]
+## PART 1 — General[^c-598ca06bf0899309b93c67828de61206]
 
-### 1. Citation, commencement and interpretation[^key-598ca06bf0899309b93c67828de61206]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendment of the principal Regulations[^key-598ca06bf0899309b93c67828de61206]
-
-### 2. Introductory[^key-598ca06bf0899309b93c67828de61206]
+### 1. Citation, commencement and interpretation[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-598ca06bf0899309b93c67828de61206]
+## PART 2 — Amendment of the principal Regulations[^c-598ca06bf0899309b93c67828de61206]
+
+### 2. Introductory[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Non-red list countries and non-red list arrivals[^key-598ca06bf0899309b93c67828de61206]
+### 3. Interpretation[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. “Eligible” and “non-eligible” non-red list arrivals[^key-598ca06bf0899309b93c67828de61206]
+### 4. Non-red list countries and non-red list arrivals[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Requirement to provide information[^key-598ca06bf0899309b93c67828de61206]
+### 5. “Eligible” and “non-eligible” non-red list arrivals[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Requirement to possess notification of negative test result[^key-598ca06bf0899309b93c67828de61206]
+### 6. Requirement to provide information[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Requirement to book and undertake tests[^key-598ca06bf0899309b93c67828de61206]
+### 7. Requirement to possess notification of negative test result[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Requirement to undertake workforce tests[^key-598ca06bf0899309b93c67828de61206]
+### 8. Requirement to book and undertake tests[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Requirement to self-isolate[^key-598ca06bf0899309b93c67828de61206]
+### 9. Requirement to undertake workforce tests[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amount of fixed penalty[^key-598ca06bf0899309b93c67828de61206]
+### 10. Requirement to self-isolate[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Exemptions[^key-598ca06bf0899309b93c67828de61206]
+### 11. Amount of fixed penalty[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Managed isolation: persons with severe conditions[^key-598ca06bf0899309b93c67828de61206]
+### 12. Exemptions[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendment of the Operator Liability Regulations[^key-598ca06bf0899309b93c67828de61206]
-
-### 14. Introductory[^key-598ca06bf0899309b93c67828de61206]
+### 13. Managed isolation: persons with severe conditions[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Requirement to check vaccination status[^key-598ca06bf0899309b93c67828de61206]
+## PART 3 — Amendment of the Operator Liability Regulations[^c-598ca06bf0899309b93c67828de61206]
+
+### 14. Introductory[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Essential information to be given to passengers[^key-598ca06bf0899309b93c67828de61206]
+### 15. Requirement to check vaccination status[^c-598ca06bf0899309b93c67828de61206]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-598ca06bf0899309b93c67828de61206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 16. Essential information to be given to passengers[^c-598ca06bf0899309b93c67828de61206]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-598ca06bf0899309b93c67828de61206]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-598ca06bf0899309b93c67828de61206]EXPLANATORY NOTE
+[^c-598ca06bf0899309b93c67828de61206]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -144,4 +144,4 @@ An impact assessment has not been produced for this instrument.
 
 ## Annotations
 
-[^key-598ca06bf0899309b93c67828de61206]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/278) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-598ca06bf0899309b93c67828de61206]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2021/278) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

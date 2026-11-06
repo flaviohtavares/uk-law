@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies to any land in a National Park or in the countryside if—
 
 - (a) the public are allowed access to the land; and
-- (b) there is no power under any of the provisions of the 1949 Act and the 1968 Act for a local authority, a local planning authority, the Natural Resources Body for Wales[^key-553adc9ae0d4cc5549b9ebde68583431] or Natural England[^c19469901] to appoint wardens as respects that land.
+- (b) there is no power under any of the provisions of the 1949 Act and the 1968 Act for a local authority, a local planning authority, the Natural Resources Body for Wales[^c-553adc9ae0d4cc5549b9ebde68583431] or Natural England[^c19469901] to appoint wardens as respects that land.
 
 (2) Subject to subsections (3) and (4) the power conferred on a local authority by section 92(1) of the 1949 Act (appointment of wardens) shall include a power, exercisable only with the agreement of the owner and of the occupier of any land to which this section applies, to appoint persons to act as wardens as respects that land.
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-553adc9ae0d4cc5549b9ebde68583431]: Textual amendment: Words in s. 49 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 178](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/178) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-553adc9ae0d4cc5549b9ebde68583431]: Textual amendment: Words in s. 49 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 178](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/178) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19469901]: Textual amendment: Words in s. 49(1)(4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 93](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/93); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34B. Power to search and seize vehicles etc[^key-acda3f4fc433ac5a3fefab0e1571306e][^c18960341]
+## 34B. Power to search and seize vehicles etc[^c-acda3f4fc433ac5a3fefab0e1571306e][^c18960341]
 
 *Extent: E+W*
 
@@ -46,8 +46,8 @@ summary: ''
 (6) A vehicle or its contents seized under subsection (4) above—
 
 - (a) by an authorised officer of an enforcement authority, are seized on behalf of that authority;
-- (b) by a constable in the presence of or at the request of[^key-aedf49456896d259947eab04c494c382] an authorised officer of an enforcement authority, are seized on behalf of that authority;
-- (c) by a constable in any other case[^key-b3a68ec853c09c1fbe5b6987f4ec8234], are seized on behalf of the waste collection authority in whose area the seizure takes place.
+- (b) by a constable in the presence of or at the request of[^c-aedf49456896d259947eab04c494c382] an authorised officer of an enforcement authority, are seized on behalf of that authority;
+- (c) by a constable in any other case[^c-b3a68ec853c09c1fbe5b6987f4ec8234], are seized on behalf of the waste collection authority in whose area the seizure takes place.
 
 (7) A person commits an offence if—
 
@@ -73,8 +73,8 @@ summary: ''
 
 - “**authorised officer**” means an officer of an enforcement authority who is authorised in writing by the authority for the purposes of this section;
 - “**enforcement authority**” means—
-  - (a) the Environment Agency, [^key-12948e0a15fba88fe4534bad98f129d3]...
-  - (aa) the Natural Resources Body for Wales, or[^key-ee0b8233a36f9f366182c2b2ed8ad3c1]
+  - (a) the Environment Agency, [^c-12948e0a15fba88fe4534bad98f129d3]...
+  - (aa) the Natural Resources Body for Wales, or[^c-ee0b8233a36f9f366182c2b2ed8ad3c1]
   - (b) a waste collection authority;
 - “**relevant offence**” means—
   - (a) an offence under section 33 above, or
@@ -84,7 +84,7 @@ summary: ''
 
 ## Annotations
 
-[^key-acda3f4fc433ac5a3fefab0e1571306e]: Modification: Ss. 33-34C applied (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-acda3f4fc433ac5a3fefab0e1571306e]: Modification: Ss. 33-34C applied (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c18960341]: Textual amendment: Ss. 34B, 34C and preceding cross-heading inserted (E.W.) (16.3.2006 for W. for specified purposes, 3.3.2015 for E. for specified purposes, 6.4.2015 in so far as not already in force) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/46/1), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108) (as amended (21.11.2005) by [The Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005 (S.I. 2005/2900)](https://www.legislation.gov.uk/uksi/2005/2900), [reg. 3](https://www.legislation.gov.uk/uksi/2005/2900/regulation/3)); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2015/425/article/2/b), [4(1)(b)](https://www.legislation.gov.uk/uksi/2015/425/article/4/1/b)
 
@@ -94,10 +94,10 @@ summary: ''
 
 [^c19492691]: Textual amendment: Words in s. 34B(3)(a) inserted (6.4.2008) by[The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 73](https://www.legislation.gov.uk/uksi/2007/3538/regulation/73), [Sch. 21 para. 9(b)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/9/b) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
 
-[^key-aedf49456896d259947eab04c494c382]: Textual amendment: Words in [s. 34B(6)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/34B/6/b) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/2/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-aedf49456896d259947eab04c494c382]: Textual amendment: Words in [s. 34B(6)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/34B/6/b) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/2/a) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-b3a68ec853c09c1fbe5b6987f4ec8234]: Textual amendment: Words in [s. 34B(6)(c)](https://www.legislation.gov.uk/ukpga/1990/43/section/34B/6/c) substituted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/2/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-b3a68ec853c09c1fbe5b6987f4ec8234]: Textual amendment: Words in [s. 34B(6)(c)](https://www.legislation.gov.uk/ukpga/1990/43/section/34B/6/c) substituted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/2/b) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-12948e0a15fba88fe4534bad98f129d3]: Textual amendment: Word in s. 34B(11) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 213](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/213) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-12948e0a15fba88fe4534bad98f129d3]: Textual amendment: Word in s. 34B(11) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 213](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/213) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ee0b8233a36f9f366182c2b2ed8ad3c1]: Textual amendment: Words in s. 34B(11) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 213](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/213) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ee0b8233a36f9f366182c2b2ed8ad3c1]: Textual amendment: Words in s. 34B(11) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 213](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/213) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

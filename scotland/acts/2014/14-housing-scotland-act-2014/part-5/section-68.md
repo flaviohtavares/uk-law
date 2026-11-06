@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Revocation of a Part 1A site licence: fit and proper person[^key-7bceb52202d854dab4b762430c9363ce]
+## 68. Revocation of a Part 1A site licence: fit and proper person[^c-7bceb52202d854dab4b762430c9363ce]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ After section 32K of the 1960 Act (inserted by section 67), insert—
 
 ## Annotations
 
-[^key-7bceb52202d854dab4b762430c9363ce]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/14/section/68) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-7bceb52202d854dab4b762430c9363ce]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/14/section/68) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

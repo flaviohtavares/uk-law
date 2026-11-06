@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation criteria: meaning of “involved person”[^key-e9968f326744dc186a9ac654543fd330][^key-0cd2e17e7b81d465614bdfecf1ead2ee][^key-17ee2ad28eeadefa4669769a7f5816ad]
+## 6. Designation criteria: meaning of “involved person”[^c-e9968f326744dc186a9ac654543fd330][^c-0cd2e17e7b81d465614bdfecf1ead2ee][^c-17ee2ad28eeadefa4669769a7f5816ad]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3e46d3d64d512b5304a7596fcedcccc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3e46d3d64d512b5304a7596fcedcccc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^key-f4771f494a98cd5e192638eb4b6af368] an “**involved person**” means a person who—
+(2) For the purposes of regulation 5A (conditions for the designation of persons by name)[^c-f4771f494a98cd5e192638eb4b6af368] an “**involved person**” means a person who—
 
 - (a) is or has been involved in the facilitation of any of the DPRK's military programmes,
 - (b) is owned or controlled directly or indirectly (within the meaning of regulation 7) by a person who is or has been so involved,
@@ -49,15 +49,15 @@ summary: ''
 
 ## Annotations
 
-[^key-e9968f326744dc186a9ac654543fd330]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-e9968f326744dc186a9ac654543fd330]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-0cd2e17e7b81d465614bdfecf1ead2ee]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/411/regulation/6) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(e)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/e)
+[^c-0cd2e17e7b81d465614bdfecf1ead2ee]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/411/regulation/6) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(e)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/e)
 
-[^key-17ee2ad28eeadefa4669769a7f5816ad]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/411/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/3/4/a)
+[^c-17ee2ad28eeadefa4669769a7f5816ad]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/411/regulation/6) heading substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/3/4/a)
 
-[^key-3e46d3d64d512b5304a7596fcedcccc9]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/3/4/b)
+[^c-3e46d3d64d512b5304a7596fcedcccc9]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/6/1) omitted (18.4.2025) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/3/4/b)
 
-[^key-f4771f494a98cd5e192638eb4b6af368]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/3/4/c)
+[^c-f4771f494a98cd5e192638eb4b6af368]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/6/2) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2025/394/regulation/3/4/c)
 
 [^c23636411]: Marginal citation: “Financial services” is defined in section 61 of the Act.
 

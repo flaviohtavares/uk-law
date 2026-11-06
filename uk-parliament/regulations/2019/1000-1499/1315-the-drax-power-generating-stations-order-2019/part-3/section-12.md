@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Temporary stopping up of streets and public rights of way[^key-d586cd852d1accf99709f157770f450e]
+## 12. Temporary stopping up of streets and public rights of way[^c-d586cd852d1accf99709f157770f450e]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d586cd852d1accf99709f157770f450e]: Commencement: Art. 12 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-d586cd852d1accf99709f157770f450e]: Commencement: Art. 12 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
 [^c23895871]: Marginal citation: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).

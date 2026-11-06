@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendments consequential on provisions of the 2018 Act[^key-2f643e2e15f27c5208ec3122ff865e25]
+## 7. Amendments consequential on provisions of the 2018 Act[^c-2f643e2e15f27c5208ec3122ff865e25]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 contains amendments consequential on provisions of the 2018 Act.
 
 ## Annotations
 
-[^key-2f643e2e15f27c5208ec3122ff865e25]: Commencement: Reg. 7 in force at 29.3.2019, see reg. 1(3)
+[^c-2f643e2e15f27c5208ec3122ff865e25]: Commencement: Reg. 7 in force at 29.3.2019, see reg. 1(3)

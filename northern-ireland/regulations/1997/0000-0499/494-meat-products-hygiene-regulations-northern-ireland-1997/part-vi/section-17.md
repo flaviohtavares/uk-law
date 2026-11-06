@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Transportation condition for other products of animal origin[^key-965ba45a19422cce28f9660c907e531a]
+## 17. Transportation condition for other products of animal origin[^c-965ba45a19422cce28f9660c907e531a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-965ba45a19422cce28f9660c907e531a]: Commencement: Reg. 17 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-965ba45a19422cce28f9660c907e531a]: Commencement: Reg. 17 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

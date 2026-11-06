@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Offences: extra-territorial application and jurisdiction[^key-966b45ef943e81e7599772a986280b2a][^key-6d741d0f9d55565ae1ef881a6b02b0fb][^key-c374fb8919a1075c77d74d2501b3cd8f]
+## 205. Offences: extra-territorial application and jurisdiction[^c-966b45ef943e81e7599772a986280b2a][^c-6d741d0f9d55565ae1ef881a6b02b0fb][^c-c374fb8919a1075c77d74d2501b3cd8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-966b45ef943e81e7599772a986280b2a]: Commencement: S. 205 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-966b45ef943e81e7599772a986280b2a]: Commencement: S. 205 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-6d741d0f9d55565ae1ef881a6b02b0fb]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/50/section/205) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
+[^c-6d741d0f9d55565ae1ef881a6b02b0fb]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/50/section/205) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
 
-[^key-c374fb8919a1075c77d74d2501b3cd8f]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/50/section/205) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/i)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
+[^c-c374fb8919a1075c77d74d2501b3cd8f]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/50/section/205) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/i)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)

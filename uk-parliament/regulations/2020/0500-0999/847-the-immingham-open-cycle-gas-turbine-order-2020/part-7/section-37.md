@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Protective provisions[^key-52cd132c87ef3bdae0dcff49935a26d2]
+## 37. Protective provisions[^c-52cd132c87ef3bdae0dcff49935a26d2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-52cd132c87ef3bdae0dcff49935a26d2]: Commencement: Art. 37 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-52cd132c87ef3bdae0dcff49935a26d2]: Commencement: Art. 37 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

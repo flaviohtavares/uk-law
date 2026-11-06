@@ -62,7 +62,7 @@ The Upper Tribunal for Scotland Rules of Procedure 2016 [^c23386631] do not appl
 
 ## 3. Application of Rules in schedule
 
-The Rules in the schedule of these Regulations apply to all proceedings before the Upper Tribunal relating to the exercise by the Scottish Ministers of functions conferred on them by —[^key-ab50e1a84235fbadab249cb399d4969e]
+The Rules in the schedule of these Regulations apply to all proceedings before the Upper Tribunal relating to the exercise by the Scottish Ministers of functions conferred on them by —[^c-ab50e1a84235fbadab249cb399d4969e]
 
 - (a) the 2018 Act;
 - (b) regulations made under the 2018 Act; or
@@ -88,13 +88,13 @@ Regulation 3
 
 - “**the 2014 Act**” means the Tribunals (Scotland) Act 2014 [^c23386641];
 - “**the 2018 Act**” means the Social Security (Scotland) Act 2018 [^c23386651];
-- “[^key-877546bcddd49001d97fb4e0ebd97582]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “[^c-877546bcddd49001d97fb4e0ebd97582]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
 - “**the 2016 Regulations**” means the Scottish Tribunals (Time Limits) Regulations 2016 [^c23386661];
 - “**Appeal Appendix**” means all the documents and authorities to be relied on for the purpose of the appeal along with an inventory of those documents and authorities;
 - “**appellant**” means—
   - (a) a person who makes an appeal to the Upper Tribunal; or
   - (b) a person substituted as an appellant under rule 12 (addition, substitution and removal of parties);
-- “[^key-6dc6341f8088999db177c29a909fe312]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “[^c-6dc6341f8088999db177c29a909fe312]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
 - “ **the Convention rights**” has the meaning given to it in section 1 of the Human Rights Act 1998 [^c23386671];
 - “**document**” means anything in which information is recorded in any form;
 - “**electronic communication**” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000 [^c23386681];
@@ -105,7 +105,7 @@ Regulation 3
 - “**practice direction**” means a practice direction issued in terms of section 74 of the 2014 Act;
 - “**President**” means the President of the Scottish Tribunals;
 - “**proceedings**” includes a part of the proceedings;
-- “[^key-23b31ecb16ec81759da33d828d270547]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “[^c-23b31ecb16ec81759da33d828d270547]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
 - “**representative**” means a lay representative or a legal representative;
 - “**respondent**” means—
   - (a) in an appeal against a decision of the First-tier Tribunal, that Tribunal and any person other than the appellant who was a party before the First-tier Tribunal; or
@@ -288,7 +288,7 @@ the appellant may make a written application (within the period of 14 days begin
 - (n) in an appeal against the decision of the First-tier Tribunal, suspend the effect of that decision pending the determination of any permission to appeal or any appeal;
 - (o) require the First-tier Tribunal to provide reasons for the decision, or other information or documents in relation to the decision or any proceedings before the First-tier Tribunal.
 
-#### 8A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-09401cf22fddae8fed6e29c5880a324b]
+#### 8A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-09401cf22fddae8fed6e29c5880a324b]
 
 (1) This rule applies to—
 
@@ -436,9 +436,9 @@ A party who is an individual may be accompanied by another person, who is not a 
 
 #### 17. Disclosure of documents and information
 
-(1)[^key-9146e707e689fda56fd3c1680a4c37c4] The Upper Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties, make an order with a view to preventing or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention rights of any person.
+(1)[^c-9146e707e689fda56fd3c1680a4c37c4] The Upper Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties, make an order with a view to preventing or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention rights of any person.
 
-(2)[^key-6a0f2b6e471ee5fd044b3714bad12c6a] The Upper Tribunal may at any stage of proceedings, on its own initiative or on the request of one or more of the parties, give a direction prohibiting disclosure of a document or information to a person (“**the recipient**”) if—
+(2)[^c-6a0f2b6e471ee5fd044b3714bad12c6a] The Upper Tribunal may at any stage of proceedings, on its own initiative or on the request of one or more of the parties, give a direction prohibiting disclosure of a document or information to a person (“**the recipient**”) if—
 
 - (a) the document or information relates to the physical or mental health of a person,
 - (b) a registered medical practitioner or registered nurse has informed either the Upper Tribunal, or one or more of the parties, that disclosure of the information would be likely to cause serious harm to the physical or mental health of the recipient or some other person,
@@ -629,7 +629,7 @@ In this Part, “**appeal**” means the exercise of a right of appeal under sec
 
 (4) The Upper Tribunal may give permission to appeal on limited grounds, but must comply with paragraph (3) in relation to any grounds on which it has refused permission.
 
-#### 31A. Reference of compatibility question to the Court of Session[^key-ea1a5b97fa956005b7fc659ee8c30c2b]
+#### 31A. Reference of compatibility question to the Court of Session[^c-ea1a5b97fa956005b7fc659ee8c30c2b]
 
 (1) When the Upper Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -667,30 +667,30 @@ A Partial Business and Regulatory Impact Assessment has been prepared and placed
 
 [^c23386631]: Marginal citation: The Rules are contained in schedule 1 of [S.S.I. 2016/232](https://www.legislation.gov.uk/ssi/2016/232). The Rules were amended by [S.S.I. 2016/333](https://www.legislation.gov.uk/ssi/2016/333).
 
-[^key-ab50e1a84235fbadab249cb399d4969e]: Textual amendment: Reg. 3(a)-(c) substituted for words in reg. 3 (24.12.2020) by The First-tier [Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/3/2)
+[^c-ab50e1a84235fbadab249cb399d4969e]: Textual amendment: Reg. 3(a)-(c) substituted for words in reg. 3 (24.12.2020) by The First-tier [Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/3/2)
 
 [^c23386641]: Marginal citation: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
 [^c23386651]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-877546bcddd49001d97fb4e0ebd97582]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/i)
+[^c-877546bcddd49001d97fb4e0ebd97582]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/i)
 
 [^c23386661]: Marginal citation: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
 
-[^key-6dc6341f8088999db177c29a909fe312]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/ii)
+[^c-6dc6341f8088999db177c29a909fe312]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/ii)
 
 [^c23386671]: Marginal citation: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^c23386681]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); [section 15(1)](https://www.legislation.gov.uk/ssi/2018/274/section/15/1) was amended by the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), [schedule 17](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17), [paragraph 158](https://www.legislation.gov.uk/ukpga/2003/21/paragraph/158).
 
-[^key-23b31ecb16ec81759da33d828d270547]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/iii)
+[^c-23b31ecb16ec81759da33d828d270547]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/a/iii)
 
-[^key-09401cf22fddae8fed6e29c5880a324b]: Textual amendment: [Sch. rule 8A](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/8A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/b)
+[^c-09401cf22fddae8fed6e29c5880a324b]: Textual amendment: [Sch. rule 8A](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/8A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/b)
 
 [^c23386691]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-9146e707e689fda56fd3c1680a4c37c4]: Textual amendment: [Sch. rule 17](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/17) renumbered as sch. rule 17(1) (21.6.2022) by The First-tier [Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/162/regulation/3/2/a)
+[^c-9146e707e689fda56fd3c1680a4c37c4]: Textual amendment: [Sch. rule 17](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/17) renumbered as sch. rule 17(1) (21.6.2022) by The First-tier [Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2022/162/regulation/3/2/a)
 
-[^key-6a0f2b6e471ee5fd044b3714bad12c6a]: Textual amendment: [Sch. rule 17(2)-(6)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/17/2) inserted (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/162/regulation/3/2/b)
+[^c-6a0f2b6e471ee5fd044b3714bad12c6a]: Textual amendment: [Sch. rule 17(2)-(6)](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/17/2) inserted (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2022/162/regulation/3/2/b)
 
-[^key-ea1a5b97fa956005b7fc659ee8c30c2b]: Textual amendment: [Sch. rule 31A](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/31A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/c)
+[^c-ea1a5b97fa956005b7fc659ee8c30c2b]: Textual amendment: [Sch. rule 31A](https://www.legislation.gov.uk/ssi/2018/274/schedule/rule/31A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2026/33/regulation/3/2/c)

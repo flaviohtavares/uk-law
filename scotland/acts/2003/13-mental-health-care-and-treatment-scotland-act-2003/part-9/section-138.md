@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Mental health officer’s duty to identify named person[^key-d8ae32eb41232185dbb45864fcf6b4da]
+## 138. Mental health officer’s duty to identify named person[^c-d8ae32eb41232185dbb45864fcf6b4da]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The mental health officer shall, as soon as practicable after a relevant compuls
 
 ## Annotations
 
-[^key-d8ae32eb41232185dbb45864fcf6b4da]: Commencement: S. 138 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-d8ae32eb41232185dbb45864fcf6b4da]: Commencement: S. 138 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

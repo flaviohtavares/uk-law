@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Continuation of services under section 17 of the Children Act 1989[^key-8df009ae378adf922cb967be63ea7bd1]
+## 50. Continuation of services under section 17 of the Children Act 1989[^c-8df009ae378adf922cb967be63ea7bd1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 17 of the Children Act 1989 (provision of services for children et
 
 ## Annotations
 
-[^key-8df009ae378adf922cb967be63ea7bd1]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/6/section/50) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-8df009ae378adf922cb967be63ea7bd1]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2014/6/section/50) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

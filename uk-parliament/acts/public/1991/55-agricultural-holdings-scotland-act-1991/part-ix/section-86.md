@@ -26,10 +26,10 @@ References, in whatever terms, in any enactment, other than an enactment contain
 - the Agricultural Holdings (Scotland) Acts 1923 and 1931, or,
 - Part I of the [^c1033740]Agriculture (Scotland) Act 1948
 
-to a holding within the meaning of the Agricultural Holdings (Scotland) Act 1923 or of the Agricultural Holdings (Scotland) Acts 1923 to 1948 shall be construed as references to an agricultural holding to which this Act applies[^key-d70e926ecd5492e68cd348b8ffa63f67].
+to a holding within the meaning of the Agricultural Holdings (Scotland) Act 1923 or of the Agricultural Holdings (Scotland) Acts 1923 to 1948 shall be construed as references to an agricultural holding to which this Act applies[^c-d70e926ecd5492e68cd348b8ffa63f67].
 
 ## Annotations
 
 [^c1033740]: Marginal citation: [1948 c. 45](https://www.legislation.gov.uk/ukpga/1948/45).
 
-[^key-d70e926ecd5492e68cd348b8ffa63f67]: Textual amendment: Words in s. 86 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 43](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/43) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-d70e926ecd5492e68cd348b8ffa63f67]: Textual amendment: Words in s. 86 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 43](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/43) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

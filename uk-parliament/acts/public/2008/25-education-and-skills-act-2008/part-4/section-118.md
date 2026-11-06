@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Relevant restriction imposed by Secretary of State: supplementary[^key-036de9db4b7385328a9ad8edb6ff392c]
+## 118. Relevant restriction imposed by Secretary of State: supplementary[^c-036de9db4b7385328a9ad8edb6ff392c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-036de9db4b7385328a9ad8edb6ff392c]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2008/25/section/118) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(n)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/n)
+[^c-036de9db4b7385328a9ad8edb6ff392c]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2008/25/section/118) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(n)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/n)

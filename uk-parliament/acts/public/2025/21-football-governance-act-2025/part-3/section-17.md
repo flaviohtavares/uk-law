@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Grant of provisional operating licence[^key-cbd1b1e89e8c0183b0c01bf6b538830a][^key-5008f14c0223d41eac3dfa1f63ce52a5]
+## 17. Grant of provisional operating licence[^c-cbd1b1e89e8c0183b0c01bf6b538830a][^c-5008f14c0223d41eac3dfa1f63ce52a5]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ and must have regard to any representations which are duly made.
 
 ## Annotations
 
-[^key-cbd1b1e89e8c0183b0c01bf6b538830a]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-cbd1b1e89e8c0183b0c01bf6b538830a]: Commencement: S. 17 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-5008f14c0223d41eac3dfa1f63ce52a5]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/21/section/17) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/iii)
+[^c-5008f14c0223d41eac3dfa1f63ce52a5]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/21/section/17) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/iii)

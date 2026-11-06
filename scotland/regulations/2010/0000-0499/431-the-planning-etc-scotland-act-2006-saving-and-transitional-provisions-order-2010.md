@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 58(1) of the Planning etc. (Scotland) Act 2006[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-e229d6717a4a8f63801cd5b102a04c91]
+## 1. Citation, commencement and interpretation[^c-e229d6717a4a8f63801cd5b102a04c91]
 
 (1) This Order may be cited as the Planning etc. (Scotland) Act 2006 (Saving and Transitional Provisions) Order 2010 and comes into force on 1st February 2011.
 
@@ -55,11 +55,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the Act” means the Town and Country Planning (Scotland) Act 1997[^f00002];
 - “the 2006 Act” means the Planning etc. (Scotland) Act 2006.
 
-## 2. Tree preservation orders[^key-2c6b36b3b5242f7bdd3546ded36306b5]
+## 2. Tree preservation orders[^c-2c6b36b3b5242f7bdd3546ded36306b5]
 
 Notwithstanding the commencement of sections 28(3) (tree preservation orders) and 56 (repeals) of and the schedule (repeals) to the 2006 Act on 1st February 2011, sections 161 (form and procedure applicable to orders) and 163 (provisional tree preservation orders) of the Act shall continue to apply as they did immediately before that date in relation to an order made under section 160(1) of the Act before that date.
 
-## 3. Planning obligations[^key-15a9e3946ca111af62ccae2b8c71e016]
+## 3. Planning obligations[^c-15a9e3946ca111af62ccae2b8c71e016]
 
 (1) Subject to paragraph (2)—
 
@@ -99,10 +99,10 @@ Article 3 provides that sections 75(5) and (6) and 75C of the Act inserted by 
 
 [^f00001]: Footnote: [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17). Sections 23(1), 28(3) and 56 and the relevant provisions of the schedule are commenced by [S.S.I. 2010/400 (C. 26)](https://www.legislation.gov.uk/ssi/2010/400).
 
-[^key-e229d6717a4a8f63801cd5b102a04c91]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/431/article/1) in force at 1.2.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/431/article/1/1)
+[^c-e229d6717a4a8f63801cd5b102a04c91]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2010/431/article/1) in force at 1.2.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/431/article/1/1)
 
 [^f00002]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-2c6b36b3b5242f7bdd3546ded36306b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/431/article/2) in force at 1.2.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/431/article/1/1)
+[^c-2c6b36b3b5242f7bdd3546ded36306b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2010/431/article/2) in force at 1.2.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2010/431/article/1/1)
 
-[^key-15a9e3946ca111af62ccae2b8c71e016]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2010/431/article/3) substituted (14.11.2011) by [The Planning etc. (Scotland) Act 2006 (Saving and Transitional Provisions) Amendment Order 2011 (S.S.I. 2011/348)](https://www.legislation.gov.uk/ssi/2011/348), [arts. 1](https://www.legislation.gov.uk/ssi/2011/348/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/348/article/2/2)
+[^c-15a9e3946ca111af62ccae2b8c71e016]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2010/431/article/3) substituted (14.11.2011) by [The Planning etc. (Scotland) Act 2006 (Saving and Transitional Provisions) Amendment Order 2011 (S.S.I. 2011/348)](https://www.legislation.gov.uk/ssi/2011/348), [arts. 1](https://www.legislation.gov.uk/ssi/2011/348/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/348/article/2/2)

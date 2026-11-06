@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Meetings of the committee[^key-c5bd3740db2e3406b31999ec5ccbdd63]
+## 120. Meetings of the committee[^c-c5bd3740db2e3406b31999ec5ccbdd63]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5bd3740db2e3406b31999ec5ccbdd63]: Commencement: Rule 120 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-c5bd3740db2e3406b31999ec5ccbdd63]: Commencement: Rule 120 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

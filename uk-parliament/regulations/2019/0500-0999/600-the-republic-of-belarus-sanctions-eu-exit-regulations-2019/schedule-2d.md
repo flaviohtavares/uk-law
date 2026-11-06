@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2D — Consumer communication devices[^key-8ffe5740cd800b11269dce6cf4c53f55]
+## SCHEDULE 2D — Consumer communication devices[^c-8ffe5740cd800b11269dce6cf4c53f55]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ Regulation 31E
 
 ## Annotations
 
-[^key-8ffe5740cd800b11269dce6cf4c53f55]: Textual amendment: [Sch. 2D](https://www.legislation.gov.uk/uksi/2019/600/schedule/2D) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)
+[^c-8ffe5740cd800b11269dce6cf4c53f55]: Textual amendment: [Sch. 2D](https://www.legislation.gov.uk/uksi/2019/600/schedule/2D) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)

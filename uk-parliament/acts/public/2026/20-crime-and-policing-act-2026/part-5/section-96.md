@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Removal of limitation period in child sexual abuse cases[^key-df676b68825d653120b98b662c48d281]
+## 96. Removal of limitation period in child sexual abuse cases[^c-df676b68825d653120b98b662c48d281]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df676b68825d653120b98b662c48d281]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2026/20/section/96) in force at 29.6.2026, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+[^c-df676b68825d653120b98b662c48d281]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2026/20/section/96) in force at 29.6.2026, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)

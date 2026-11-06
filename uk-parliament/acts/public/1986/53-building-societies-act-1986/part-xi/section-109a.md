@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109A. Exemptions from stamp duty land tax[^key-1951603b1e61bc910a148d665e05dfc0]
+## 109A. Exemptions from stamp duty land tax[^c-1951603b1e61bc910a148d665e05dfc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ is exempt from charge for the purposes of stamp duty land tax.
 
 ## Annotations
 
-[^key-1951603b1e61bc910a148d665e05dfc0]: Textual amendment: S. 109A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/14)
+[^c-1951603b1e61bc910a148d665e05dfc0]: Textual amendment: S. 109A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/14)

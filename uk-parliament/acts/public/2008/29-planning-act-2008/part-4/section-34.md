@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Welsh offshore generating stations[^key-5418e2a0054f57bbfd4f90b26d838dfe]
+## 34. Welsh offshore generating stations[^c-5418e2a0054f57bbfd4f90b26d838dfe]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5418e2a0054f57bbfd4f90b26d838dfe]: Commencement: S. 34 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-5418e2a0054f57bbfd4f90b26d838dfe]: Commencement: S. 34 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

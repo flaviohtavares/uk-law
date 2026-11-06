@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56B. Exercise of functions in relation to children under the Scottish age of criminal responsibility[^key-551e1ef9d7cdf896d15db479c1ebc375]
+## 56B. Exercise of functions in relation to children under the Scottish age of criminal responsibility[^c-551e1ef9d7cdf896d15db479c1ebc375]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-551e1ef9d7cdf896d15db479c1ebc375]: Textual amendment: [S. 56B](https://www.legislation.gov.uk/ukpga/2004/20/section/56B) inserted (17.12.2021) by [The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/1458)](https://www.legislation.gov.uk/uksi/2021/1458), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1), [19](https://www.legislation.gov.uk/uksi/2021/1458/article/19)
+[^c-551e1ef9d7cdf896d15db479c1ebc375]: Textual amendment: [S. 56B](https://www.legislation.gov.uk/ukpga/2004/20/section/56B) inserted (17.12.2021) by [The Age of Criminal Responsibility (Scotland) Act 2019 (Consequential Provisions and Modifications) Order 2021 (S.I. 2021/1458)](https://www.legislation.gov.uk/uksi/2021/1458), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1458/article/1/1), [19](https://www.legislation.gov.uk/uksi/2021/1458/article/19)

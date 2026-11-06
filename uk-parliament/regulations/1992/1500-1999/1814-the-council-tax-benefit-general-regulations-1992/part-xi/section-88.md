@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Further provision as to recovery of excess benefit[^key-83d4f4483d22dd92b73a5b71cc575123]
+## 88. Further provision as to recovery of excess benefit[^c-83d4f4483d22dd92b73a5b71cc575123]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In addition to the methods for recovery of excess benefit which are specified in
 
 ## Annotations
 
-[^key-83d4f4483d22dd92b73a5b71cc575123]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/1992/1814/regulation/88) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-83d4f4483d22dd92b73a5b71cc575123]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/1992/1814/regulation/88) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Meaning of “eligible child”[^key-d1df87604bd006486ab1bd73c1652615]
+## 113. Meaning of “eligible child”[^c-d1df87604bd006486ab1bd73c1652615]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1df87604bd006486ab1bd73c1652615]: Commencement: [Reg. 113](https://www.legislation.gov.uk/nisr/2014/290/regulation/113) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-d1df87604bd006486ab1bd73c1652615]: Commencement: [Reg. 113](https://www.legislation.gov.uk/nisr/2014/290/regulation/113) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

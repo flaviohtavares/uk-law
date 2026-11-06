@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.26. Form of application[^key-5b0576ac8100e8192048c5761733a3d5]
+## 3.26. Form of application[^c-5b0576ac8100e8192048c5761733a3d5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An application shall be made in Form 45.
 
 ## Annotations
 
-[^key-5b0576ac8100e8192048c5761733a3d5]: Commencement: Rule 3.26 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-5b0576ac8100e8192048c5761733a3d5]: Commencement: Rule 3.26 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

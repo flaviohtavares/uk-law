@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Public interest disclosure[^key-0b4c62866a00a9e01698c2749417fcbc]
+## 20. Public interest disclosure[^c-0b4c62866a00a9e01698c2749417fcbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 
 (7) This subsection applies to a disclosure if it—
 
-- (a) is made to the Secretary of State[^key-a1a2cb03237b10138ca0e262271f0057] for the purpose of enabling information to be entered in a computerised database, and
+- (a) is made to the Secretary of State[^c-a1a2cb03237b10138ca0e262271f0057] for the purpose of enabling information to be entered in a computerised database, and
 - (b) relates to—
   - (i) a person suspected of an offence,
   - (ii) a person arrested for an offence,
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b4c62866a00a9e01698c2749417fcbc]: Commencement: S. 20 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-0b4c62866a00a9e01698c2749417fcbc]: Commencement: S. 20 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-a1a2cb03237b10138ca0e262271f0057]: Textual amendment: Words in s. 20(7)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 156](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/156); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-a1a2cb03237b10138ca0e262271f0057]: Textual amendment: Words in s. 20(7)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 156](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/156); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

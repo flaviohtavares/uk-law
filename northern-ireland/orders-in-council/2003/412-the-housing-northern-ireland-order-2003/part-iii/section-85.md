@@ -38,7 +38,7 @@ summary: ''
 
 - (a) in the case of an individual, he is—
   - (i) the person, or one of the persons, by whom the disposal is made;
-  - (ii) the spouse or civil partner[^key-e42f5dd347c4822238794f9491004b6b] , or former spouse or civil partner , of that person or one of those persons; or
+  - (ii) the spouse or civil partner[^c-e42f5dd347c4822238794f9491004b6b] , or former spouse or civil partner , of that person or one of those persons; or
   - (iii) a member of the family of that person or one of those persons; or
 - (b) in the case of a company, it is an associated company of the company by whom the disposal is made.
 
@@ -58,7 +58,7 @@ Section 449 of the Corporation Tax Act 2010[^c22062681] (meaning of associated c
 
 ## Annotations
 
-[^key-e42f5dd347c4822238794f9491004b6b]: Textual amendment: Words in [art. 85(2)(a)(ii)](https://www.legislation.gov.uk/nisi/2003/412/article/85/2/a/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [145(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/145/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-e42f5dd347c4822238794f9491004b6b]: Textual amendment: Words in [art. 85(2)(a)(ii)](https://www.legislation.gov.uk/nisi/2003/412/article/85/2/a/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [145(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/145/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c22062681]: Textual amendment: Words in art. 85(2) substituted (1.4.2010 with effect as mentioned in [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1177](https://www.legislation.gov.uk/ukpga/2010/4/section/1177), [1184](https://www.legislation.gov.uk/ukpga/2010/4/section/1184), [Sch. 1 para. 422](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/422) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 

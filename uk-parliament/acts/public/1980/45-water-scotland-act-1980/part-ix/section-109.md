@@ -42,7 +42,7 @@ summary: ''
 - [^c13466981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c13466841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**enactment**” means any Act of Parliament, whether public general, local or private, any statutory order or any provision in an Act of Parliament or statutory order;
-- [^key-6b1bc0febafeb4f441f0f6deda2a1f24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-6b1bc0febafeb4f441f0f6deda2a1f24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**fishery district**” means a district for the purposes of the [^c13467021]Salmon Fisheries (Scotland) Act 1862; and
 - “**fishery district board**” means the district board for a fishery district and for the purposes of this Act the Commissioners appointed under the [^c13467031]Tweed Fisheries Act 1969 shall be deemed to be a fishery district board, and the river, as defined by the said Act of 1969, shall be deemed to be their fishery district;
 - “**functions**” includes powers and duties;
@@ -94,7 +94,7 @@ summary: ''
 - (b) a reference in a section to a numbered subsection is a reference to the subsection of that section so numbered, and
 - (c) a reference in a section, subsection or Schedule to a numbered paragraph is a reference to the paragraph of that section, subsection or Schedule so numbered.
 
-(5)[^key-c23e53b714159a3c94d0cf6cda586b6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c23e53b714159a3c94d0cf6cda586b6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -114,7 +114,7 @@ summary: ''
 
 [^c13466981]: Textual amendment: Definitions repealed by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 81:2, 103:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
-[^key-6b1bc0febafeb4f441f0f6deda2a1f24]: Textual amendment: Words in s. 109(1) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-6b1bc0febafeb4f441f0f6deda2a1f24]: Textual amendment: Words in s. 109(1) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
 [^c13467021]: Marginal citation: [1862 c. 97](https://www.legislation.gov.uk/ukpga/1862/97).
 
@@ -154,4 +154,4 @@ summary: ''
 
 [^c13467201]: Textual amendment: Words in s. 109(3) repealed (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1/2), [Sch. 13 para. 119(53)(b)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/119/53/b), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 
-[^key-c23e53b714159a3c94d0cf6cda586b6a]: Textual amendment: S. 109(5) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 21(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/21/4) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-c23e53b714159a3c94d0cf6cda586b6a]: Textual amendment: S. 109(5) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 21(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/21/4) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

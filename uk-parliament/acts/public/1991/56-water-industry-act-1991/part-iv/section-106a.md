@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106A. Sustainable drainage[^key-1c3f1f85411de5be21e10d8cabee7db1]
+## 106A. Sustainable drainage[^c-1c3f1f85411de5be21e10d8cabee7db1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c3f1f85411de5be21e10d8cabee7db1]: Textual amendment: [S. 106A](https://www.legislation.gov.uk/ukpga/1991/56/section/106A) inserted (2.5.2018 for W. for specified purposes, 7.1.2019 for W. in so far as not already in force) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/3/paragraph/16/2) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2018/557](https://www.legislation.gov.uk/wsi/2018/557), [arts. 2(b)](https://www.legislation.gov.uk/wsi/2018/557/article/2/b), [3(b)](https://www.legislation.gov.uk/wsi/2018/557/article/3/b)
+[^c-1c3f1f85411de5be21e10d8cabee7db1]: Textual amendment: [S. 106A](https://www.legislation.gov.uk/ukpga/1991/56/section/106A) inserted (2.5.2018 for W. for specified purposes, 7.1.2019 for W. in so far as not already in force) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/3/paragraph/16/2) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2018/557](https://www.legislation.gov.uk/wsi/2018/557), [arts. 2(b)](https://www.legislation.gov.uk/wsi/2018/557/article/2/b), [3(b)](https://www.legislation.gov.uk/wsi/2018/557/article/3/b)

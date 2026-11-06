@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.2. Application[^key-6e312c474f09b05aa98f6d5d27fbe763]
+## 1.2. Application[^c-6e312c474f09b05aa98f6d5d27fbe763]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules apply in relation to registered providers in respect of which the co
 
 ## Annotations
 
-[^key-6e312c474f09b05aa98f6d5d27fbe763]: Commencement: Rule 1.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6e312c474f09b05aa98f6d5d27fbe763]: Commencement: Rule 1.2 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

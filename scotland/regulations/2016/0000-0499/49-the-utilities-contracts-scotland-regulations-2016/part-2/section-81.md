@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Life-cycle costing[^key-5dda551e7c95fc1329b6fe00e269712f]
+## 81. Life-cycle costing[^c-5dda551e7c95fc1329b6fe00e269712f]
 
 *Extent: S*
 
@@ -35,21 +35,21 @@ summary: ''
 
 - (a) it is based on objectively verifiable and non-discriminatory criteria and, in particular, where it has not been established for repeated or continuous application, it must not unduly favour or disadvantage certain economic operators;
 - (b) it is accessible to all interested parties;
-- (c) the data required can be provided with reasonable effort by normally diligent economic operators [^key-81e4fe5131c841c48552deea8958ed43]... .
+- (c) the data required can be provided with reasonable effort by normally diligent economic operators [^c-81e4fe5131c841c48552deea8958ed43]... .
 
 (4) Where a utility assesses costs using a life-cycle costing approach, the utility must indicate in the procurement documents—
 
 - (a) the data to be provided by the tenderers; and
 - (b) the method which the utility will use to determine the life-cycle costs on the basis of those data.
 
-(5)[^key-9a2dde4f960963abc354656a994573fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9a2dde4f960963abc354656a994573fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-9a2dde4f960963abc354656a994573fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9a2dde4f960963abc354656a994573fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5dda551e7c95fc1329b6fe00e269712f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/ssi/2016/49/regulation/81) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-5dda551e7c95fc1329b6fe00e269712f]: Commencement: [Reg. 81](https://www.legislation.gov.uk/ssi/2016/49/regulation/81) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-81e4fe5131c841c48552deea8958ed43]: Textual amendment: Words in [reg. 81(3)(c)](https://www.legislation.gov.uk/ssi/2016/49/regulation/81/3/c) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [7(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/7/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))
+[^c-81e4fe5131c841c48552deea8958ed43]: Textual amendment: Words in [reg. 81(3)(c)](https://www.legislation.gov.uk/ssi/2016/49/regulation/81/3/c) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [7(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/7/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))
 
-[^key-9a2dde4f960963abc354656a994573fd]: Textual amendment: [Reg. 81(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/81/5)[(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/81/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(45)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/45/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-9a2dde4f960963abc354656a994573fd]: Textual amendment: [Reg. 81(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/81/5)[(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/81/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [6(45)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/6/45/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

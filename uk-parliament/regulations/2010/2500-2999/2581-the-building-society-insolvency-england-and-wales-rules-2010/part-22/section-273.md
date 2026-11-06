@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 273. Punishment of offences[^key-1a4a63871876d4010c74052c589fdf60]
+## 273. Punishment of offences[^c-1a4a63871876d4010c74052c589fdf60]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.21 of the 1986 Rules.
 
 ## Annotations
 
-[^key-1a4a63871876d4010c74052c589fdf60]: Commencement: Rule 273 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-1a4a63871876d4010c74052c589fdf60]: Commencement: Rule 273 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

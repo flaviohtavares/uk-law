@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Right of owner and interested parties to appeal against notice[^key-3fff0e9442625b715da468edf47c9194]
+## 38. Right of owner and interested parties to appeal against notice[^c-3fff0e9442625b715da468edf47c9194]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fff0e9442625b715da468edf47c9194]: Commencement: S. 38 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-3fff0e9442625b715da468edf47c9194]: Commencement: S. 38 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Repairing obligations in leases of seven years or more[^key-a23efcc77a0c1786f06e5e00c5caf10a]
+## 166. Repairing obligations in leases of seven years or more[^c-a23efcc77a0c1786f06e5e00c5caf10a]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ In section 13 of the Landlord and Tenant Act 1985 (leases to which the provision
 
 ## Annotations
 
-[^key-a23efcc77a0c1786f06e5e00c5caf10a]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2011/20/section/166) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(c)](https://www.legislation.gov.uk/uksi/2012/628/article/6/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-a23efcc77a0c1786f06e5e00c5caf10a]: Commencement: [S. 166](https://www.legislation.gov.uk/ukpga/2011/20/section/166) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(c)](https://www.legislation.gov.uk/uksi/2012/628/article/6/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

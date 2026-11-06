@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288AC. Appeals to the Supreme Court: UNCRC compatibility issues[^key-aba0c6ea6a0567f2610e0e3d2803c273]
+## 288AC. Appeals to the Supreme Court: UNCRC compatibility issues[^c-aba0c6ea6a0567f2610e0e3d2803c273]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aba0c6ea6a0567f2610e0e3d2803c273]: Textual amendment: Ss. 288AB, 288AC inserted (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 32(3)](https://www.legislation.gov.uk/asp/2024/1/section/32/3), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a) (with [s. 43](https://www.legislation.gov.uk/asp/2024/1/section/43))
+[^c-aba0c6ea6a0567f2610e0e3d2803c273]: Textual amendment: Ss. 288AB, 288AC inserted (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 32(3)](https://www.legislation.gov.uk/asp/2024/1/section/32/3), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a) (with [s. 43](https://www.legislation.gov.uk/asp/2024/1/section/43))

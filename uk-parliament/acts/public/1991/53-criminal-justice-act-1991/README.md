@@ -116,7 +116,7 @@ An Act to make further provision with respect to the treatment of offenders and 
 - [Section 30 — Rules, regulations and orders.](part-i/section-30.md)
 - [Section 31 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-31.md)
 
-### Part II — Early Release of Prisoners[^c18871511][^key-aea09eb6f6a24dbc31a4930dd1f7057b]
+### Part II — Early Release of Prisoners[^c18871511][^c-aea09eb6f6a24dbc31a4930dd1f7057b]
 
 *Extent: E+W*
 
@@ -389,7 +389,7 @@ SCHEDULES
 
     (2.8.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 145(2)(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/145/2/3), [178](https://www.legislation.gov.uk/ukpga/2009/25/section/178), [182](https://www.legislation.gov.uk/ukpga/2009/25/section/182), [Sch. 23 Pt. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 43](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/43)); [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2010/1858/article/2/e/i);
 
-[^key-aea09eb6f6a24dbc31a4930dd1f7057b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1991/53/part/II): transitional provisions for the repeal by 2003 c. 44, s. 303(a) and specified transitional and savings provisions in S.I. 2005/950, Sch. 2 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/17); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)(l)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d/l)
+[^c-aea09eb6f6a24dbc31a4930dd1f7057b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1991/53/part/II): transitional provisions for the repeal by 2003 c. 44, s. 303(a) and specified transitional and savings provisions in S.I. 2005/950, Sch. 2 revoked (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/121/3), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/14/paragraph/17); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(d)(l)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/d/l)
 
 [^c13774411]: Modification: [Pt. IV](https://www.legislation.gov.uk/ukpga/1991/53/part/IV) (ss. 73-92) applied (30.6.1999) by [1999 c. 9](https://www.legislation.gov.uk/ukpga/1999/9), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1999/9/section/1/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/9/schedule/1) as added by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [Sch. 4A para. 13(2)(a)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/4A/paragraph/13/2/a)
 

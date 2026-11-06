@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Seizure of item used in commission of offence[^key-eb4884c402c9b7b137ce3c8e740148d4]
+## 51. Seizure of item used in commission of offence[^c-eb4884c402c9b7b137ce3c8e740148d4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ the justice may issue a warrant authorising any constable or designated person t
 
 ## Annotations
 
-[^key-eb4884c402c9b7b137ce3c8e740148d4]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/12/section/51) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-eb4884c402c9b7b137ce3c8e740148d4]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/12/section/51) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

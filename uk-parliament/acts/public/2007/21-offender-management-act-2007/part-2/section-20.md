@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Amendment of section 87 of the Criminal Justice Act 1991[^key-5d5543cda62e19ffd7c9285897c57d7e]
+## 20. Amendment of section 87 of the Criminal Justice Act 1991[^c-5d5543cda62e19ffd7c9285897c57d7e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d5543cda62e19ffd7c9285897c57d7e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2007/21/section/20) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/e)
+[^c-5d5543cda62e19ffd7c9285897c57d7e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2007/21/section/20) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/e)

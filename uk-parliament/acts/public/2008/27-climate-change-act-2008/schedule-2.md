@@ -464,7 +464,7 @@ must provide that, where the offence is committed before that date, it is punish
 
 (6) Regulations that—
 
-- (a) are made before 2 May 2022[^key-e141a7835132bdacac3d4e712499bbfc], and
+- (a) are made before 2 May 2022[^c-e141a7835132bdacac3d4e712499bbfc], and
 - (b) in relation to England and Wales, make provision for an offence triable either summarily or on indictment to be punishable on summary conviction with a term of imprisonment exceeding six months,
 
 must provide that, where the offence is committed before that date, it is punishable on summary conviction with imprisonment for a term not exceeding six months.
@@ -498,4 +498,4 @@ must provide that, where the offence is committed before that date, it is punish
 
 ## Annotations
 
-[^key-e141a7835132bdacac3d4e712499bbfc]: Textual amendment: Words in [Sch. 2 para. 30(6)(a)](https://www.legislation.gov.uk/ukpga/2008/27/schedule/2/paragraph/30/6/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-e141a7835132bdacac3d4e712499bbfc]: Textual amendment: Words in [Sch. 2 para. 30(6)(a)](https://www.legislation.gov.uk/ukpga/2008/27/schedule/2/paragraph/30/6/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

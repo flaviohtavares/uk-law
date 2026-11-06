@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and transitional provisions[^key-99dba8f2377b89cd77a5af09296d51dd]
+## 1. Citation, commencement and transitional provisions[^c-99dba8f2377b89cd77a5af09296d51dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Conseque
 
 ## Annotations
 
-[^key-99dba8f2377b89cd77a5af09296d51dd]: Commencement: Art. 1 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-99dba8f2377b89cd77a5af09296d51dd]: Commencement: Art. 1 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

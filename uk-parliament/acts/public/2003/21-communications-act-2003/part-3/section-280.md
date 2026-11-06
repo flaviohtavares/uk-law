@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280. Appointed news providers for Channel 3[^key-7d34c4ecce5ed0bb2052821874f0f4f5]
+## 280. Appointed news providers for Channel 3[^c-7d34c4ecce5ed0bb2052821874f0f4f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ ensure that that body is subject to an obligation, enforceable by OFCOM, to prov
 
 ## Annotations
 
-[^key-7d34c4ecce5ed0bb2052821874f0f4f5]: Commencement: S. 280 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7d34c4ecce5ed0bb2052821874f0f4f5]: Commencement: S. 280 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

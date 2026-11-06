@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Proceedings with four lay members[^key-e844739df70a7c712667624561851ce6]
+## 30. Proceedings with four lay members[^c-e844739df70a7c712667624561851ce6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e844739df70a7c712667624561851ce6]: Textual amendment: Rules 30, 30A substituted for rule 30 (1.1.2023) by [The Armed Forces (Court Martial) (Amendment) Rules 2022 (S.I. 2022/1264)](https://www.legislation.gov.uk/uksi/2022/1264), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1264/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2022/1264/rule/7)
+[^c-e844739df70a7c712667624561851ce6]: Textual amendment: Rules 30, 30A substituted for rule 30 (1.1.2023) by [The Armed Forces (Court Martial) (Amendment) Rules 2022 (S.I. 2022/1264)](https://www.legislation.gov.uk/uksi/2022/1264), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1264/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2022/1264/rule/7)

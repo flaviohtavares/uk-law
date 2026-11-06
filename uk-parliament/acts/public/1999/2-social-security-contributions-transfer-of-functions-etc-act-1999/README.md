@@ -36,7 +36,7 @@ An Act to transfer from the Secretary of State to the Commissioners of Inland Re
 
 \[25th February 1999\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-7a58428972b498e6eb2954cdd9895406][^key-3490b5e4623dc920dbbb15c9f8430384]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-7a58428972b498e6eb2954cdd9895406][^c-3490b5e4623dc920dbbb15c9f8430384]
 
 ## Contents
 
@@ -59,7 +59,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 6 — Disclosure of information.](part-i/section-6.md)
 - [Section 7 — Use of information by Board.](part-i/section-7.md)
 
-### Part II — Decisions and appeals[^c11210131][^key-a540b6bdd85a8780f22aac5e0d31624a][^key-b3c9b82acf02982b62cadda28c615514][^key-42de505c45717103050a834dd300aa36][^key-7e633fdaf19da0a6c6ebce3a204c6b49][^key-fb80f937e41fc22802ff84fa6957300b][^key-d7b0ca68739d7a54da9f51c39768e284][^key-5398269e5f18964cc72dd57e3d071401]
+### Part II — Decisions and appeals[^c11210131][^c-a540b6bdd85a8780f22aac5e0d31624a][^c-b3c9b82acf02982b62cadda28c615514][^c-42de505c45717103050a834dd300aa36][^c-7e633fdaf19da0a6c6ebce3a204c6b49][^c-fb80f937e41fc22802ff84fa6957300b][^c-d7b0ca68739d7a54da9f51c39768e284][^c-5398269e5f18964cc72dd57e3d071401]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,9 +107,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-7a58428972b498e6eb2954cdd9895406]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/2) modified (E.W.S.) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2)
+[^c-7a58428972b498e6eb2954cdd9895406]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/2) modified (E.W.S.) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Gibraltar) Order 2024 (S.I. 2024/149)](https://www.legislation.gov.uk/uksi/2024/149), [art. 2](https://www.legislation.gov.uk/uksi/2024/149/article/2)
 
-[^key-3490b5e4623dc920dbbb15c9f8430384]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/2) modified (S.) (coming into force in accordance with art. 1(3) of the amending S.S.I.) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [art. 2](https://www.legislation.gov.uk/ssi/2024/62/article/2)
+[^c-3490b5e4623dc920dbbb15c9f8430384]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/2) modified (S.) (coming into force in accordance with art. 1(3) of the amending S.S.I.) by [The Social Security (Gibraltar) (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2024 (S.S.I. 2024/62)](https://www.legislation.gov.uk/ssi/2024/62), [art. 2](https://www.legislation.gov.uk/ssi/2024/62/article/2)
 
 [^c11210131]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1999/2/part/II) (ss. 8-19) applied (1.4.1999) by [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5), [s. 117A(3)](https://www.legislation.gov.uk/ukpga/1992/5/section/117A/3) (as added (1.4.1999) by [1999 c. 2](https://www.legislation.gov.uk/ukpga/1999/2), [s. 18](https://www.legislation.gov.uk/ukpga/1999/2/section/18), [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/1999/2/schedule/7/paragraph/13); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2))
 
@@ -121,16 +121,16 @@ SCHEDULES
 
     [Pt 2](https://www.legislation.gov.uk/ukpga/1999/2/part/2) modified (22.3.2011) by [National Insurance Contributions Act 2011 (c. 3)](https://www.legislation.gov.uk/ukpga/2011/3), [ss. 8(6)(a)](https://www.legislation.gov.uk/ukpga/2011/3/section/8/6/a), [13(2)](https://www.legislation.gov.uk/ukpga/2011/3/section/13/2)
 
-[^key-a540b6bdd85a8780f22aac5e0d31624a]: Modification: Pt. 2 modified (1.6.2015) by [The Social Security (Contributions) (Republic of Chile) Order 2015 (S.I. 2015/828)](https://www.legislation.gov.uk/uksi/2015/828), [arts. 1](https://www.legislation.gov.uk/uksi/2015/828/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/828/article/2/a)
+[^c-a540b6bdd85a8780f22aac5e0d31624a]: Modification: Pt. 2 modified (1.6.2015) by [The Social Security (Contributions) (Republic of Chile) Order 2015 (S.I. 2015/828)](https://www.legislation.gov.uk/uksi/2015/828), [arts. 1](https://www.legislation.gov.uk/uksi/2015/828/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/828/article/2/a)
 
-[^key-b3c9b82acf02982b62cadda28c615514]: Modification: Pt. 2 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3c9b82acf02982b62cadda28c615514]: Modification: Pt. 2 modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Ireland) Order 2019 (S.I. 2019/622)](https://www.legislation.gov.uk/uksi/2019/622), [art. 2](https://www.legislation.gov.uk/uksi/2019/622/article/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42de505c45717103050a834dd300aa36]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))
+[^c-42de505c45717103050a834dd300aa36]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (1.1.2021) by [The Social Security (Norway) Order 2020 (S.I. 2020/1597)](https://www.legislation.gov.uk/uksi/2020/1597), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1597/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1597/schedule) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2020/1597/article/2/3))
 
-[^key-7e633fdaf19da0a6c6ebce3a204c6b49]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) Order 2021 (S.I. 2021/1088)](https://www.legislation.gov.uk/uksi/2021/1088), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/1088/schedule)
+[^c-7e633fdaf19da0a6c6ebce3a204c6b49]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Switzerland) Order 2021 (S.I. 2021/1088)](https://www.legislation.gov.uk/uksi/2021/1088), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/1088/schedule)
 
-[^key-fb80f937e41fc22802ff84fa6957300b]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
+[^c-fb80f937e41fc22802ff84fa6957300b]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [art. 2](https://www.legislation.gov.uk/uksi/2023/1060/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1060/schedule)
 
-[^key-d7b0ca68739d7a54da9f51c39768e284]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (E.W.S.) (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Republic of India) Order 2026 (S.I. 2026/274)](https://www.legislation.gov.uk/uksi/2026/274), [art. 2(a)](https://www.legislation.gov.uk/uksi/2026/274/article/2/a)
+[^c-d7b0ca68739d7a54da9f51c39768e284]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (E.W.S.) (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Republic of India) Order 2026 (S.I. 2026/274)](https://www.legislation.gov.uk/uksi/2026/274), [art. 2(a)](https://www.legislation.gov.uk/uksi/2026/274/article/2/a)
 
-[^key-5398269e5f18964cc72dd57e3d071401]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (E.W.S.) (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Isle of Man) Order 2026 (S.I. 2026/795)](https://www.legislation.gov.uk/uksi/2026/795), [art. 2](https://www.legislation.gov.uk/uksi/2026/795/article/2)
+[^c-5398269e5f18964cc72dd57e3d071401]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1999/2/part/II) modified (E.W.S.) (coming into force in accordance with art. 1 of the amending S.I.) by [The Social Security (Contributions) (Isle of Man) Order 2026 (S.I. 2026/795)](https://www.legislation.gov.uk/uksi/2026/795), [art. 2](https://www.legislation.gov.uk/uksi/2026/795/article/2)

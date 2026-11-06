@@ -32,7 +32,7 @@ summary: ''
 - (a) with such number of additional operators’ discs as will bring the total number of operators’ discs held by him in respect of the licence to that maximum number, or
 - (b) with such lesser number of additional operators’ discs as he may request.
 
-(2B) Where the number of operators’ discs currently held in respect of a PSV operator’s licence is less than the maximum number referred to in subsection (2)(a) above, a traffic commissioner[^key-2c8dfe5483eaca7d6b7e5eca67425307] shall on the application of the holder of the licence supply him with such number of additional operators’ discs as is mentioned in subsection (2A)(a) or (b) above.
+(2B) Where the number of operators’ discs currently held in respect of a PSV operator’s licence is less than the maximum number referred to in subsection (2)(a) above, a traffic commissioner[^c-2c8dfe5483eaca7d6b7e5eca67425307] shall on the application of the holder of the licence supply him with such number of additional operators’ discs as is mentioned in subsection (2A)(a) or (b) above.
 
 (2C) Where, in accordance with regulations under subsection (3)(aa) below, all the operators’ discs held in respect of a PSV operator’s licence expire at the same time, a traffic commissioner shall supply the holder of the licence with a number of new operators’ discs equal to the number of discs that have expired.
 
@@ -55,7 +55,7 @@ summary: ''
 
 [^c2517791]: Textual amendment: S. 18(2)(2A)(2B)(2C) substituted for s. 18(2) (1.1.1996) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 63(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/63/2); [S.I. 1995/2835](https://www.legislation.gov.uk/uksi/1995/2835), [art. 2](https://www.legislation.gov.uk/uksi/1995/2835/article/2)
 
-[^key-2c8dfe5483eaca7d6b7e5eca67425307]: Textual amendment: Words in s. 18(2B)(2C) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-2c8dfe5483eaca7d6b7e5eca67425307]: Textual amendment: Words in s. 18(2B)(2C) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2517801]: Textual amendment: S. 18(3)(aa) inserted (1.1.1996) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 63(3)(a)](https://www.legislation.gov.uk/ukpga/1994/40/section/63/3/a); [S.I. 1995/2835](https://www.legislation.gov.uk/uksi/1995/2835), [art. 2](https://www.legislation.gov.uk/uksi/1995/2835/article/2)
 

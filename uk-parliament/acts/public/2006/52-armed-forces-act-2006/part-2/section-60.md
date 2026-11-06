@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Time limit for charging offence under section 266[^key-56abf0664573a04e59763a07d544e9cb][^key-64b425cf85866b647b0c2acc4765762c]
+## 60. Time limit for charging offence under section 266[^c-56abf0664573a04e59763a07d544e9cb][^c-64b425cf85866b647b0c2acc4765762c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A person may not be charged with an offence under section 266 (failure to comply
 
 ## Annotations
 
-[^key-56abf0664573a04e59763a07d544e9cb]: Commencement: S. 60 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-56abf0664573a04e59763a07d544e9cb]: Commencement: S. 60 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-64b425cf85866b647b0c2acc4765762c]: Commencement: S. 60 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-64b425cf85866b647b0c2acc4765762c]: Commencement: S. 60 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

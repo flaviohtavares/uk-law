@@ -22,7 +22,7 @@ summary: ''
 
 Section 158
 
-### Part 1 — Administration charges[^key-168494fa7b8cc804ff7811417962f351]
+### Part 1 — Administration charges[^c-168494fa7b8cc804ff7811417962f351]
 
 #### 1. Meaning of “administration charge”[^c21533551]
 
@@ -46,7 +46,7 @@ Section 158
 
 A variable administration charge is payable only to the extent that the amount of the charge is reasonable.
 
-#### 2A. No administration charge payable for certain rents[^key-200ce89e698cfdb5300b941839b737be]
+#### 2A. No administration charge payable for certain rents[^c-200ce89e698cfdb5300b941839b737be]
 
 (1) No administration charge is payable for, in connection with or in respect of, the payment of a relevant rent.
 
@@ -54,12 +54,12 @@ A variable administration charge is payable only to the extent that the amount o
 
 (3) “**Peppercorn rent**” has the same meaning as in that Act (see section 4(3) of that Act).
 
-#### 3. Application for order varying lease[^c21533571][^key-658c658225dc86430c6f4b90c85b49f9]
+#### 3. Application for order varying lease[^c21533571][^c-658c658225dc86430c6f4b90c85b49f9]
 
-(1) Any party to a lease of a dwelling may apply to the appropriate tribunal[^key-e9ac30c850a939e159f20d89c5587539] for an order varying the lease in such manner as is specified in the application on the grounds that—
+(1) Any party to a lease of a dwelling may apply to the appropriate tribunal[^c-e9ac30c850a939e159f20d89c5587539] for an order varying the lease in such manner as is specified in the application on the grounds that—
 
-- (a) any administration charge specified in the lease is unreasonable, [^key-dd340a1e03c7b8262aeead6c01a13f39]...
-- (b) any formula specified in the lease in accordance with which any administration charge is calculated is unreasonable., or[^key-30f53157d3fc26a066073a59aa4f14ea]
+- (a) any administration charge specified in the lease is unreasonable, [^c-dd340a1e03c7b8262aeead6c01a13f39]...
+- (b) any formula specified in the lease in accordance with which any administration charge is calculated is unreasonable., or[^c-30f53157d3fc26a066073a59aa4f14ea]
 - (c) an administration charge specified in the lease is not payable because of paragraph 2A.
 
 (2) If the grounds on which the application was made are established to the satisfaction of the tribunal, it may make an order varying the lease in such manner as is specified in the order.
@@ -87,7 +87,7 @@ A variable administration charge is payable only to the extent that the amount o
 
 #### 5. Liability to pay administration charges[^c21533591]
 
-(1) An application may be made to the appropriate tribunal[^key-73f23274e6ac6f6cf4024f590144c34b] for a determination whether an administration charge is payable and, if it is, as to—
+(1) An application may be made to the appropriate tribunal[^c-73f23274e6ac6f6cf4024f590144c34b] for a determination whether an administration charge is payable and, if it is, as to—
 
 - (a) the person by whom it is payable,
 - (b) the person to whom it is payable,
@@ -97,7 +97,7 @@ A variable administration charge is payable only to the extent that the amount o
 
 (2) Sub-paragraph (1) applies whether or not any payment has been made.
 
-(3) The jurisdiction conferred on the appropriate tribunal[^key-947d03a10e0209a5bc7e92b28fd02f41] in respect of any matter by virtue of sub-paragraph (1) is in addition to any jurisdiction of a court in respect of the matter.
+(3) The jurisdiction conferred on the appropriate tribunal[^c-947d03a10e0209a5bc7e92b28fd02f41] in respect of any matter by virtue of sub-paragraph (1) is in addition to any jurisdiction of a court in respect of the matter.
 
 (4) No application under sub-paragraph (1) may be made in respect of a matter which—
 
@@ -115,7 +115,7 @@ A variable administration charge is payable only to the extent that the amount o
 
 of any question which may be the subject matter of an application under sub-paragraph (1).
 
-#### 5A. Limitation of administration charges: costs of proceedings[^key-1f1c1f43957cbd67edc7fdb2208b385c]
+#### 5A. Limitation of administration charges: costs of proceedings[^c-1f1c1f43957cbd67edc7fdb2208b385c]
 
 (1) A tenant of a dwelling in England may apply to the relevant court or tribunal for an order reducing or extinguishing the tenant's liability to pay a particular administration charge in respect of litigation costs.
 
@@ -145,7 +145,7 @@ of any question which may be the subject matter of an application under sub-para
 
 (5) “**Arbitration agreement**” and “**arbitral tribunal**” have the same meanings as in Part 1 of the Arbitration Act 1996 (c. 23).
 
-(6)[^key-d00f7a108ff5a7448dd08692d59202ad] “Appropriate tribunal” means—
+(6)[^c-d00f7a108ff5a7448dd08692d59202ad] “Appropriate tribunal” means—
 
 - (a) in relation to premises in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
 - (b) in relation to premises in Wales, a leasehold valuation tribunal.
@@ -189,37 +189,37 @@ of any question which may be the subject matter of an application under sub-para
 
 ## Annotations
 
-[^key-168494fa7b8cc804ff7811417962f351]: Textual amendment: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/part/1) heading substituted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/2), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
+[^c-168494fa7b8cc804ff7811417962f351]: Textual amendment: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/part/1) heading substituted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/2), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
 
 [^c21533551]: Commencement: Sch. 11 wholly in force at 30.3.2004; Sch. 11 not in force at Royal Assent see s. 181(1); Sch. 11 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); Sch. 11 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
 [^c21533561]: Commencement: Sch. 11 wholly in force at 30.3.2004; Sch. 11 not in force at Royal Assent see s. 181(1); Sch. 11 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); Sch. 11 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-200ce89e698cfdb5300b941839b737be]: Textual amendment: [Sch. 11 para. 2A](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/2A) and cross-heading inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/3), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
+[^c-200ce89e698cfdb5300b941839b737be]: Textual amendment: [Sch. 11 para. 2A](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/2A) and cross-heading inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/3), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
 
 [^c21533571]: Commencement: Sch. 11 wholly in force at 30.3.2004; Sch. 11 not in force at Royal Assent see s. 181(1); Sch. 11 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); Sch. 11 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-658c658225dc86430c6f4b90c85b49f9]: Textual amendment: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/3) cross-heading inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/4), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
+[^c-658c658225dc86430c6f4b90c85b49f9]: Textual amendment: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/3) cross-heading inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/4), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
 
-[^key-e9ac30c850a939e159f20d89c5587539]: Textual amendment: Words in Sch. 11 para. 3(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-e9ac30c850a939e159f20d89c5587539]: Textual amendment: Words in Sch. 11 para. 3(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-dd340a1e03c7b8262aeead6c01a13f39]: Textual amendment: Word in [Sch. 11 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/3/1/a) omitted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by virtue of [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(5)(a)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/5/a), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
+[^c-dd340a1e03c7b8262aeead6c01a13f39]: Textual amendment: Word in [Sch. 11 para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/3/1/a) omitted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by virtue of [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(5)(a)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/5/a), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
 
-[^key-30f53157d3fc26a066073a59aa4f14ea]: Textual amendment: [Sch. 11 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/3/1/c) and word inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(5)(b)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/5/b), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
+[^c-30f53157d3fc26a066073a59aa4f14ea]: Textual amendment: [Sch. 11 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11/paragraph/3/1/c) and word inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 18(5)(b)](https://www.legislation.gov.uk/ukpga/2022/1/section/18/5/b), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
 
 [^c21533581]: Commencement: Sch. 11 wholly in force at 30.3.2004; Sch. 11 not in force at Royal Assent see s. 181(1); Sch. 11 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); Sch. 11 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
 [^c21533591]: Commencement: Sch. 11 wholly in force at 30.3.2004; Sch. 11 not in force at Royal Assent see s. 181(1); Sch. 11 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); Sch. 11 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-73f23274e6ac6f6cf4024f590144c34b]: Textual amendment: Words in Sch. 11 para. 5(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-73f23274e6ac6f6cf4024f590144c34b]: Textual amendment: Words in Sch. 11 para. 5(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-947d03a10e0209a5bc7e92b28fd02f41]: Textual amendment: Words in Sch. 11 para. 5(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-947d03a10e0209a5bc7e92b28fd02f41]: Textual amendment: Words in Sch. 11 para. 5(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-1f1c1f43957cbd67edc7fdb2208b385c]: Textual amendment: Sch. 11 para. 5A and heading inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 131](https://www.legislation.gov.uk/ukpga/2016/22/section/131), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/281/regulation/6))
+[^c-1f1c1f43957cbd67edc7fdb2208b385c]: Textual amendment: Sch. 11 para. 5A and heading inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 131](https://www.legislation.gov.uk/ukpga/2016/22/section/131), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/281/regulation/6))
 
 [^c21533601]: Commencement: Sch. 11 wholly in force at 30.3.2004; Sch. 11 not in force at Royal Assent see s. 181(1); Sch. 11 in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); Sch. 11 in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-d00f7a108ff5a7448dd08692d59202ad]: Textual amendment: Sch. 11 para. 6(6) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-d00f7a108ff5a7448dd08692d59202ad]: Textual amendment: Sch. 11 para. 6(6) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 147(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/147/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c21533611]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11) wholly in force at 30.3.2004; [Sch. 11](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11) not in force at Royal Assent see [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [Sch. 11](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11) in force at 30.9.2003 for E. by [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [Sch. 11](https://www.legislation.gov.uk/ukpga/2002/15/schedule/11) in force at 30.3.2004 for W. by [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 

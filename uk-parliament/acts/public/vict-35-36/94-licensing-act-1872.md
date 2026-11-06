@@ -51,7 +51,7 @@ This Act shall not extend to Scotland.
 
 Every person found drunk in any highway or other public place, whether a building or not, or on any licensed premises, shall be liable to a penalty not exceeding level 1 on the standard scale[^c568201].
 
-Every person [^c568204]... who is drunk while in charge on any highway or other public place of any carriage, horse, cattle, or steam engine, or who is drunk when in possession of any loaded firearms, [^key-e471f4a56337c1a70856f90473442a92]... shall be liable to a penalty not exceeding level 1 on the standard scale, or in the discretion of the court to imprisonment [^c568205]... for any term not exceeding one month.
+Every person [^c568204]... who is drunk while in charge on any highway or other public place of any carriage, horse, cattle, or steam engine, or who is drunk when in possession of any loaded firearms, [^c-e471f4a56337c1a70856f90473442a92]... shall be liable to a penalty not exceeding level 1 on the standard scale, or in the discretion of the court to imprisonment [^c568205]... for any term not exceeding one month.
 
 [^c568205]...
 
@@ -119,7 +119,7 @@ The preceding provisions of this Act with respect to offences against public ord
 
 [^c568204]: Textual amendment: Words repealed by [Criminal Justice Act 1967 (c. 80)](https://www.legislation.gov.uk/ukpga/1967/80), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1967/80/schedule/7/part/I)
 
-[^key-e471f4a56337c1a70856f90473442a92]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/Vict/35-36/94/section/12) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/6), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-e471f4a56337c1a70856f90473442a92]: Textual amendment: Words in [s. 12](https://www.legislation.gov.uk/ukpga/Vict/35-36/94/section/12) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/6), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c568205]: Textual amendment: Words repealed by [Statute Law Revision Act 1953 (2 & 3 Eliz. 2 c. 5)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/5)
 

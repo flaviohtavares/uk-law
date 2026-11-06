@@ -34,7 +34,7 @@ This Statutory Instrument has been printed to correct a defect in [S.I. 2014/110
 
 Territorial Sea
 
-The Territorial Sea Act 1987 (Guernsey) (Amendment) Order 2015 (revoked)[^key-69f283e507852781e9a46aec016e63e5]
+The Territorial Sea Act 1987 (Guernsey) (Amendment) Order 2015 (revoked)[^c-69f283e507852781e9a46aec016e63e5]
 
 Made
 
@@ -50,20 +50,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-69f283e507852781e9a46aec016e63e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69f283e507852781e9a46aec016e63e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-69f283e507852781e9a46aec016e63e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-69f283e507852781e9a46aec016e63e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-69f283e507852781e9a46aec016e63e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-69f283e507852781e9a46aec016e63e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69f283e507852781e9a46aec016e63e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69f283e507852781e9a46aec016e63e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-69f283e507852781e9a46aec016e63e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69f283e507852781e9a46aec016e63e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69f283e507852781e9a46aec016e63e5]: Textual amendment: Order revoked (23.7.2019) by [The Territorial Sea Act 1987 (Guernsey) Order 2019 (S.I. 2019/1108)](https://www.legislation.gov.uk/uksi/2019/1108), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1108/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1108/article/3/b)
+[^c-69f283e507852781e9a46aec016e63e5]: Textual amendment: Order revoked (23.7.2019) by [The Territorial Sea Act 1987 (Guernsey) Order 2019 (S.I. 2019/1108)](https://www.legislation.gov.uk/uksi/2019/1108), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1108/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/1108/article/3/b)

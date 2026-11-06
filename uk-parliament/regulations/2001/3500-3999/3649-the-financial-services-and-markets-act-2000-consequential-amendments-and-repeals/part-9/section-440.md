@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 440. Accounts with deposit takers which constitute evidence of identity[^key-5464d945786020f430ff4a9d3cb6c4dc]
+## 440. Accounts with deposit takers which constitute evidence of identity[^c-5464d945786020f430ff4a9d3cb6c4dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In paragraph (4) of regulation 8 of the Money Laundering Regulations 1993 (payme
 
 ## Annotations
 
-[^key-5464d945786020f430ff4a9d3cb6c4dc]: Commencement: Art. 440 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5464d945786020f430ff4a9d3cb6c4dc]: Commencement: Art. 440 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00301]: Footnote: Sub-paragraph (4)(a) of regulation 8 was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 2, Schedule 1, paragraph 13(c).

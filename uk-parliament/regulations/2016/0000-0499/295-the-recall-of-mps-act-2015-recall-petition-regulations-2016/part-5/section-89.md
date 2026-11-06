@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Persons entitled to be present at proceedings on issue of postal petition signing sheets[^key-ca9251b61aa3fee970b6ff953c0fed1f]
+## 89. Persons entitled to be present at proceedings on issue of postal petition signing sheets[^c-ca9251b61aa3fee970b6ff953c0fed1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ No person may be present at the proceedings on the issue of postal signing sheet
 
 ## Annotations
 
-[^key-ca9251b61aa3fee970b6ff953c0fed1f]: Commencement: Reg. 89 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-ca9251b61aa3fee970b6ff953c0fed1f]: Commencement: Reg. 89 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

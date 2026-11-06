@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Methods of analysis[^key-3fef7620e2df98420d926ee70dd3ecfe]
+## 19. Methods of analysis[^c-3fef7620e2df98420d926ee70dd3ecfe]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fef7620e2df98420d926ee70dd3ecfe]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/2785/regulation/19) omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/352/regulation/8/a)
+[^c-3fef7620e2df98420d926ee70dd3ecfe]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/2785/regulation/19) omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/352/regulation/8/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Application of the 2000 Act to persons with a temporary permission[^key-4c3d12b1837b5c70fb071950e278852c][^key-afca5e4eb85d68590efaa917a2ae0a48]
+## 83. Application of the 2000 Act to persons with a temporary permission[^c-4c3d12b1837b5c70fb071950e278852c][^c-afca5e4eb85d68590efaa917a2ae0a48]
 
 *Extent: E+W+S*
 
@@ -62,9 +62,9 @@ the application may be treated by the FCA as relating also to some or all of the
 
 ## Annotations
 
-[^key-4c3d12b1837b5c70fb071950e278852c]: Commencement: Art. 83 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-4c3d12b1837b5c70fb071950e278852c]: Commencement: Art. 83 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-afca5e4eb85d68590efaa917a2ae0a48]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2018/1253/article/83) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-afca5e4eb85d68590efaa917a2ae0a48]: Commencement: [Art. 83](https://www.legislation.gov.uk/uksi/2018/1253/article/83) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00116]: Footnote: Section 327(9) of the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) is inserted by article 91(5) of this Order.
 

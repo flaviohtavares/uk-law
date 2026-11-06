@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Trailers used for cutting grass or trimming hedges[^key-284792dd1bc631492bbd1b8ca21bca75]
+## 52. Trailers used for cutting grass or trimming hedges[^c-284792dd1bc631492bbd1b8ca21bca75]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ do not apply at any time when the cutter trailer is cutting grass or trimming he
 
 ## Annotations
 
-[^key-284792dd1bc631492bbd1b8ca21bca75]: Commencement: Art. 52 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-284792dd1bc631492bbd1b8ca21bca75]: Commencement: Art. 52 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

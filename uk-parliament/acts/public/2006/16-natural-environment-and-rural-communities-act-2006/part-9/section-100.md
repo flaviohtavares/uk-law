@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Byelaws relating to land drainage[^key-b3b5ef832e7f62f95f577bc005a61ed0]
+## 100. Byelaws relating to land drainage[^c-b3b5ef832e7f62f95f577bc005a61ed0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b5ef832e7f62f95f577bc005a61ed0]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2006/16/section/100) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-b3b5ef832e7f62f95f577bc005a61ed0]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2006/16/section/100) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

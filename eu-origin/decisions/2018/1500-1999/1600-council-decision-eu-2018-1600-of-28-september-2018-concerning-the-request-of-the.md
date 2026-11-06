@@ -33,14 +33,14 @@ of 28 September 2018
 
 concerning the request of the United Kingdom of Great Britain and Northern Ireland to take part in some of the provisions of the Schengen *acquis* relating to the European Union Agency for the operational management of large-scale IT systems in the area of freedom, security and justice (eu-LISA) (revoked)
 
-[^key-e8451b7923b848f2cdd44a15231c86a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8451b7923b848f2cdd44a15231c86a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e8451b7923b848f2cdd44a15231c86a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e8451b7923b848f2cdd44a15231c86a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e8451b7923b848f2cdd44a15231c86a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e8451b7923b848f2cdd44a15231c86a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8451b7923b848f2cdd44a15231c86a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8451b7923b848f2cdd44a15231c86a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e8451b7923b848f2cdd44a15231c86a6]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8451b7923b848f2cdd44a15231c86a6]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

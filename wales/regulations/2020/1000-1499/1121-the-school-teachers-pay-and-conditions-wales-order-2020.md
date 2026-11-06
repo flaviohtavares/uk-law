@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The School Teachers’ Pay and Conditions (Wales) Order 2020 (revoked)[^key-c9d7581b414dfd494dfdffdb24db4e9f]
+The School Teachers’ Pay and Conditions (Wales) Order 2020 (revoked)[^c-c9d7581b414dfd494dfdffdb24db4e9f]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 6 November 2020
 
-[^key-c9d7581b414dfd494dfdffdb24db4e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9d7581b414dfd494dfdffdb24db4e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-c9d7581b414dfd494dfdffdb24db4e9f]
+## 1. Title, commencement, application and interpretation[^c-c9d7581b414dfd494dfdffdb24db4e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-c9d7581b414dfd494dfdffdb24db4e9f]
+## 2. The Document[^c-c9d7581b414dfd494dfdffdb24db4e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-c9d7581b414dfd494dfdffdb24db4e9f]
+## 3. Revocations[^c-c9d7581b414dfd494dfdffdb24db4e9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9d7581b414dfd494dfdffdb24db4e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9d7581b414dfd494dfdffdb24db4e9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -69,4 +69,4 @@ Coming into force
 
 ## Annotations
 
-[^key-c9d7581b414dfd494dfdffdb24db4e9f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2020/1121) revoked (30.9.2021) by [The School Teachers’ Pay and Conditions (Wales) Order 2021 (S.I. 2021/1012)](https://www.legislation.gov.uk/wsi/2021/1012), [art. 3](https://www.legislation.gov.uk/wsi/2021/1012/article/3)
+[^c-c9d7581b414dfd494dfdffdb24db4e9f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2020/1121) revoked (30.9.2021) by [The School Teachers’ Pay and Conditions (Wales) Order 2021 (S.I. 2021/1012)](https://www.legislation.gov.uk/wsi/2021/1012), [art. 3](https://www.legislation.gov.uk/wsi/2021/1012/article/3)

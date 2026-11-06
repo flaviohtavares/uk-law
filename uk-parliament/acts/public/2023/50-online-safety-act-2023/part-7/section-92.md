@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Duties in relation to strategic priorities[^key-d91863d431f0979b8747fcc938ebab6e][^key-bf72992d606845b6835e630ed61b885e]
+## 92. Duties in relation to strategic priorities[^c-d91863d431f0979b8747fcc938ebab6e][^c-bf72992d606845b6835e630ed61b885e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ publish a review of what they have done during the period in question in consequ
 
 ## Annotations
 
-[^key-d91863d431f0979b8747fcc938ebab6e]: Commencement: S. 92 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d91863d431f0979b8747fcc938ebab6e]: Commencement: S. 92 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-bf72992d606845b6835e630ed61b885e]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/50/section/92) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z1)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z1)
+[^c-bf72992d606845b6835e630ed61b885e]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/50/section/92) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z1)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z1)

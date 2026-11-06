@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Asylum Support (Amendment) Regulations 2011 (revoked)[^key-8c590f4fc593cd5cf206b5e26cad8791]
+The Asylum Support (Amendment) Regulations 2011 (revoked)[^c-8c590f4fc593cd5cf206b5e26cad8791]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 18th April 2011
 
-[^key-8c590f4fc593cd5cf206b5e26cad8791]...
+[^c-8c590f4fc593cd5cf206b5e26cad8791]...
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8c590f4fc593cd5cf206b5e26cad8791]
+## 1. Citation and commencement[^c-8c590f4fc593cd5cf206b5e26cad8791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c590f4fc593cd5cf206b5e26cad8791]
+[^c-8c590f4fc593cd5cf206b5e26cad8791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c590f4fc593cd5cf206b5e26cad8791]
+[^c-8c590f4fc593cd5cf206b5e26cad8791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -66,4 +66,4 @@ Coming into force
 
 ## Annotations
 
-[^key-8c590f4fc593cd5cf206b5e26cad8791]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/907) revoked (6.4.2015) by [The Asylum Support (Amendment No.2) Regulations 2015 (S.I. 2015/944)](https://www.legislation.gov.uk/uksi/2015/944), [regs. 1](https://www.legislation.gov.uk/uksi/2015/944/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/944/regulation/4)
+[^c-8c590f4fc593cd5cf206b5e26cad8791]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/907) revoked (6.4.2015) by [The Asylum Support (Amendment No.2) Regulations 2015 (S.I. 2015/944)](https://www.legislation.gov.uk/uksi/2015/944), [regs. 1](https://www.legislation.gov.uk/uksi/2015/944/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/944/regulation/4)

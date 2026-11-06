@@ -36,127 +36,127 @@ laying down detailed rules for the application of Regulation (EC) No 1073/2009 a
 
 (Text with EEA relevance) (revoked)
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SECTION I — CONTROL DOCUMENT[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## SECTION I — CONTROL DOCUMENT[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
-**Article 1.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION II — AUTHORISATIONS[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## SECTION II — AUTHORISATIONS[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
-**Article 7.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION III — EEA AGREEMENT[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## SECTION III — EEA AGREEMENT[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
-**Article 9.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION IV — COMMUNICATION OF STATISTICAL DATA[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## SECTION IV — COMMUNICATION OF STATISTICAL DATA[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
-**Article 10.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION V — TRANSITIONAL AND FINAL PROVISIONS[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## SECTION V — TRANSITIONAL AND FINAL PROVISIONS[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
-**Article 11.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-e012ee57acc79cb1e458b3d0dcdba9dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## ANNEX I[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## ANNEX II[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## ANNEX III[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc] **Cover page**
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc] **Cover page**
 
 (Format DIN A4 uncoated paper)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc] **carried out by coach and bus between Member States in accordance with Regulation (EC) No 1073/2009**
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc] **carried out by coach and bus between Member States in accordance with Regulation (EC) No 1073/2009**
 
 to: …
 
 *(Competent authority)*
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]1.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]2.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]3.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (Second page of the application for authorisation or for renewal of authorisation)
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]4.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]5.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]6.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]7.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]8.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]9.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]10.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]11.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]12.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (Third page of the application for authorisation or for renewal of authorisation)
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc] **IMPORTANT NOTICE**
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc] **IMPORTANT NOTICE**
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]1.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]1.
 
 The following is attached to the application, as appropriate:
 
@@ -167,11 +167,11 @@ The following is attached to the application, as appropriate:
 - ((e)) a map on an appropriate scale on which are marked the route and the stopping points at which passengers are to be taken up or set down;
 - ((f)) a driving schedule to permit verification of compliance with the retained EU law on driving and rest periods.
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]2.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]3.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]3.
 
 In accordance with Article 5 of Regulation (EC) No 1073/2009 the following services are subject to authorisation:
 
@@ -182,26 +182,26 @@ In accordance with Article 5 of Regulation (EC) No 1073/2009 the following servi
 
   The fact that a special service may be varied according to the needs of users shall not affect its classification as a special regular service.
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]4.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]5.
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## ANNEX IV[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
 [image: see source](https://www.legislation.gov.uk/eur/2014/361/images/eur_20140361_2014-04-30_en_005)[image: see source](https://www.legislation.gov.uk/eur/2014/361/images/eur_20140361_2014-04-30_en_006)[image: see source](https://www.legislation.gov.uk/eur/2014/361/images/eur_20140361_2014-04-30_en_007)
 
-## ANNEX V[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## ANNEX V[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-e012ee57acc79cb1e458b3d0dcdba9dc]
+## ANNEX VI[^c-e012ee57acc79cb1e458b3d0dcdba9dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e012ee57acc79cb1e458b3d0dcdba9dc]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/11/2)
+[^c-e012ee57acc79cb1e458b3d0dcdba9dc]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Road Transport (International Passenger Services) (Amendment) Regulations 2024 (S.I. 2024/1370)](https://www.legislation.gov.uk/uksi/2024/1370), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2024/1370/regulation/11/2)

@@ -33,56 +33,56 @@ of 10 January 2014
 
 fixing for 2014 the fishing opportunities for certain fish stocks and groups of fish stocks in the Black Sea (revoked)
 
-[^key-7b29603a81bbed169e73adb1f77972c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b29603a81bbed169e73adb1f77972c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — SCOPE AND DEFINITIONS[^key-7b29603a81bbed169e73adb1f77972c7]
+## CHAPTER I — SCOPE AND DEFINITIONS[^c-7b29603a81bbed169e73adb1f77972c7]
 
-### Article 1. Subject matter[^key-7b29603a81bbed169e73adb1f77972c7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Scope[^key-7b29603a81bbed169e73adb1f77972c7]
+### Article 1. Subject matter[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-7b29603a81bbed169e73adb1f77972c7]
+### Article 2. Scope[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — FISHING OPPORTUNITIES[^key-7b29603a81bbed169e73adb1f77972c7]
-
-### Article 4. TACs and allocation[^key-7b29603a81bbed169e73adb1f77972c7]
+### Article 3. Definitions[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Special provisions on allocations[^key-7b29603a81bbed169e73adb1f77972c7]
+## CHAPTER II — FISHING OPPORTUNITIES[^c-7b29603a81bbed169e73adb1f77972c7]
+
+### Article 4. TACs and allocation[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Conditions for landing catches and by-catches[^key-7b29603a81bbed169e73adb1f77972c7]
+### Article 5. Special provisions on allocations[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FINAL PROVISIONS[^key-7b29603a81bbed169e73adb1f77972c7]
-
-### Article 7. Data transmission[^key-7b29603a81bbed169e73adb1f77972c7]
+### Article 6. Conditions for landing catches and by-catches[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Entry into force[^key-7b29603a81bbed169e73adb1f77972c7]
+## CHAPTER III — FINAL PROVISIONS[^c-7b29603a81bbed169e73adb1f77972c7]
+
+### Article 7. Data transmission[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b29603a81bbed169e73adb1f77972c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 8. Entry into force[^c-7b29603a81bbed169e73adb1f77972c7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7b29603a81bbed169e73adb1f77972c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — TACs APPLICABLE TO EU VESSELS IN AREAS WHERE TACs EXIST BY SPECIES AND BY AREA[^key-7b29603a81bbed169e73adb1f77972c7]
+## ANNEX — TACs APPLICABLE TO EU VESSELS IN AREAS WHERE TACs EXIST BY SPECIES AND BY AREA[^c-7b29603a81bbed169e73adb1f77972c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b29603a81bbed169e73adb1f77972c7]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-7b29603a81bbed169e73adb1f77972c7]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

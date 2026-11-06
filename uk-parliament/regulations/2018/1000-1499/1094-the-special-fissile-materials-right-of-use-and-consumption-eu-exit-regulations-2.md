@@ -34,7 +34,7 @@ Exiting The European Union
 
 Atomic Energy And Radioactive Substances
 
-The Special Fissile Materials (Right of Use and Consumption) (EU Exit) Regulations 2018 (revoked)[^key-b4a6cb8b9fa340218914378a882dc5bb]
+The Special Fissile Materials (Right of Use and Consumption) (EU Exit) Regulations 2018 (revoked)[^c-b4a6cb8b9fa340218914378a882dc5bb]
 
 Sift requirements satisfied
 
@@ -50,22 +50,22 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-b4a6cb8b9fa340218914378a882dc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4a6cb8b9fa340218914378a882dc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b4a6cb8b9fa340218914378a882dc5bb]
+## 1. Citation and commencement[^c-b4a6cb8b9fa340218914378a882dc5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Cessation of rights, etc.[^key-b4a6cb8b9fa340218914378a882dc5bb]
+## 2. Cessation of rights, etc.[^c-b4a6cb8b9fa340218914378a882dc5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4a6cb8b9fa340218914378a882dc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4a6cb8b9fa340218914378a882dc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b4a6cb8b9fa340218914378a882dc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4a6cb8b9fa340218914378a882dc5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4a6cb8b9fa340218914378a882dc5bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1094) revoked (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/18/a)
+[^c-b4a6cb8b9fa340218914378a882dc5bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1094) revoked (1.3.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 18(a)](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/18/a)

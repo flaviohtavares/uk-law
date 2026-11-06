@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Functions of the clerk to the governing body[^key-35b726e67d5e89964577ed36a3e84e9a]
+## 54. Functions of the clerk to the governing body[^c-35b726e67d5e89964577ed36a3e84e9a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35b726e67d5e89964577ed36a3e84e9a]: Commencement: Reg. 54 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-35b726e67d5e89964577ed36a3e84e9a]: Commencement: Reg. 54 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

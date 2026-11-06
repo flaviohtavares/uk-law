@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 17P, 32E, 105(7) and 108(1) of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-10b78052936d4bb21396e53d83a8fe9c]
+## 1. Citation and commencement[^c-10b78052936d4bb21396e53d83a8fe9c]
 
 These Regulations may be cited as the National Health Service (Primary Medical Services Performers Lists) (Scotland) Amendment Regulations 2011 and come into force on 21st December 2011.
 
-## 2. Amendment of the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^key-78bc285bfed69ec8f0c02d1714536475]
+## 2. Amendment of the National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^c-78bc285bfed69ec8f0c02d1714536475]
 
 (1) The National Health Service (Primary Medical Services Performers Lists) (Scotland) Regulations 2004[^f00002] are amended as follows.
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the National Health Service (Primary Medical S
   > - “considered for listing” means considered for listing by the Scottish Ministers in the children’s list or adults’ list or in both lists in pursuance of section 10, 11, 12 or 13 (consideration whether to list) of the 2007 Act;
   > - “disclosure record” has the meaning given in section 97(1) (general interpretation) of the 2007 Act;
   > - “disclosure request” has the meaning given in section 97(1) of the 2007 Act;
-  > - [^key-d7cee06f2e5390ec26180e081b38c25c]...
+  > - [^c-d7cee06f2e5390ec26180e081b38c25c]...
   > - “partnership” includes a limited liability partnership;
   > - “relevant Health Board” means a Health Board on whose primary medical services performers list a performer is already included, or a Health Board which an applicant has specified by virtue of regulation 6(2);
   > - “scheme member” means a member of the Scheme, established by section 44 (the Scheme) of the 2007 Act, in relation to both—
@@ -210,11 +210,11 @@ These Regulations may be cited as the National Health Service (Primary Medical S
 
   ;
 - (b) in paragraph (2)(g) omit “where an allegation of fraud is being considered,”;
-- (c)[^key-10eb79131efa476ebcc8e3aff88dc4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-10eb79131efa476ebcc8e3aff88dc4de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph (8)—
   - (i) in sub-paragraph (g) omit “where an allegation of fraud is being considered,”;
   - (ii) omit the “and” immediately following sub-paragraph (i);
-  - (iii)[^key-68a134665b24ca6a47e0ca828449c198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-68a134665b24ca6a47e0ca828449c198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In regulation 15 (payments to suspended medical practitioners)—
 
@@ -286,7 +286,7 @@ These Regulations may be cited as the National Health Service (Primary Medical S
 
   .
 
-## 3. Transitional provision[^key-d830c5844dd30944932b209e2188efe6]
+## 3. Transitional provision[^c-d830c5844dd30944932b209e2188efe6]
 
 Where any application to join the primary medical services performers list is received by a Health Board prior to the coming into force of these Regulations and that application has not been determined by the Health Board by the time these Regulations come into force, the Health Board shall continue to deal with the application under the law as it applied before these Regulations came into force, but must before determining the application—
 
@@ -333,9 +333,9 @@ Regulation 3 makes transitional provision for an application to join a primary m
 
 [^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29) (“the 1978 Act”); section 17P was inserted by the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), section 5(2); section 32E was inserted by the National Health Service (Amendment) Act [1995 (c.31)](https://www.legislation.gov.uk/ukpga/1995/31) (“the 1995 Act”), section 8 and was amended by the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13) (“the 2005 Act”), schedule 2, paragraph 2(14); section 105(7) was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), Schedule 6, paragraph 5(1) and Schedule 7, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29(1) and Schedule 9, paragraph 24 and the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8) (“the 1999 Act”), Schedule 4, paragraph 60. Section 108(1) contains definitions of “prescribed” and “regulations” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State so far as they are exercisable in Scotland were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-10b78052936d4bb21396e53d83a8fe9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
+[^c-10b78052936d4bb21396e53d83a8fe9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
 
-[^key-78bc285bfed69ec8f0c02d1714536475]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/392/regulation/2) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
+[^c-78bc285bfed69ec8f0c02d1714536475]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/392/regulation/2) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114), amended by [S.S.I. 2004/216](https://www.legislation.gov.uk/ssi/2004/216), [2005/333](https://www.legislation.gov.uk/ssi/2005/333), [2006/136](https://www.legislation.gov.uk/ssi/2006/136), [2007/207](https://www.legislation.gov.uk/ssi/2007/207) and [413](https://www.legislation.gov.uk/ssi/2007/413), [2008/27](https://www.legislation.gov.uk/ssi/2008/27), [2010/93](https://www.legislation.gov.uk/ssi/2010/93) and [2011/55](https://www.legislation.gov.uk/ssi/2011/55) and [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2010/234](https://www.legislation.gov.uk/uksi/2010/234).
 
@@ -343,7 +343,7 @@ Regulation 3 makes transitional provision for an application to join a primary m
 
 [^f00004]: Footnote: Section 10 of the 1978 Act was amended by the 1980 Act, Schedule 6, paragraph 2, the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), section 66(2) and Schedule 10, the 1999 Act, Schedule 4, paragraph 44 and the 2005 Act, schedule 2, paragraph 2(4).
 
-[^key-d7cee06f2e5390ec26180e081b38c25c]: Textual amendment: Words in reg. 2(2)(a) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-d7cee06f2e5390ec26180e081b38c25c]: Textual amendment: Words in reg. 2(2)(a) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(a)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/a) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
 [^f00006]: Footnote: [S.S.I. 2008/312](https://www.legislation.gov.uk/ssi/2008/312); to which there are amendments not relevant to these Regulations.
 
@@ -351,8 +351,8 @@ Regulation 3 makes transitional provision for an application to join a primary m
 
 [^f00008]: Footnote: Section 32B(1) was inserted by the 1995 Act, section 8 and amended by the 1999 Act, Schedule 4, paragraph 52, and by the 2005 Act, schedule 3, paragraph 1.
 
-[^key-10eb79131efa476ebcc8e3aff88dc4de]: Textual amendment: Reg. 2(9)(c) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-10eb79131efa476ebcc8e3aff88dc4de]: Textual amendment: Reg. 2(9)(c) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
-[^key-68a134665b24ca6a47e0ca828449c198]: Textual amendment: Reg. 2(9)(d)(iii) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
+[^c-68a134665b24ca6a47e0ca828449c198]: Textual amendment: Reg. 2(9)(d)(iii) omitted (1.4.2026) by virtue of [The National Health Service (Functions of the Common Services Agency) (Miscellaneous Amendments) (Scotland) Order 2026 (S.S.I. 2026/20)](https://www.legislation.gov.uk/ssi/2026/20), [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/20/article/1/1), [sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2026/20/schedule/paragraph/15/b) (with [art. 6](https://www.legislation.gov.uk/ssi/2026/20/article/6))
 
-[^key-d830c5844dd30944932b209e2188efe6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/392/regulation/3) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)
+[^c-d830c5844dd30944932b209e2188efe6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/392/regulation/3) in force at 21.12.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/392/regulation/1)

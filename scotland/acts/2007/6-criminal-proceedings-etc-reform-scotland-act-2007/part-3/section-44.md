@@ -22,7 +22,7 @@ summary: ''
 
 (1) In section 41 (assaults on constables, etc.) of the Police (Scotland) Act 1967 (c. 77), in subsection (1), for the word “nine” there is substituted “ 12 ”.
 
-(2) In section 26A (enforcement of wildlife legislation) of the Wildlife and Countryside Act 1981 (c. 69), for the words from “as amended” to “97/62/EC” there is substituted “ (that is, the Directive as amended from time to time by any other EU[^key-000ab4032bdc043570656682f45498a2] instrument or otherwise) ”.
+(2) In section 26A (enforcement of wildlife legislation) of the Wildlife and Countryside Act 1981 (c. 69), for the words from “as amended” to “97/62/EC” there is substituted “ (that is, the Directive as amended from time to time by any other EU[^c-000ab4032bdc043570656682f45498a2] instrument or otherwise) ”.
 
 (3) In section 37 (offences) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)—
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c21038031]: Commencement: S. 44 wholly in force at 10.12.2007; s. 44 not in force at Royal Assent, see s. 84; s. 44(2) in force at 23.4.2007 by [S.S.I. 2007/250](https://www.legislation.gov.uk/ssi/2007/250), [art. 3](https://www.legislation.gov.uk/ssi/2007/250/article/3); s. 44 otherwise in force at 10.12.2007 by [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3](https://www.legislation.gov.uk/ssi/2007/479/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule)
 
-[^key-000ab4032bdc043570656682f45498a2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3))
+[^c-000ab4032bdc043570656682f45498a2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6(1)](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3))

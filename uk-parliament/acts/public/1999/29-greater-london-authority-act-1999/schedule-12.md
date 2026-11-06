@@ -41,7 +41,7 @@ Sections 165 and 217.
 
 (2) No right of reverter, right of pre-emption, right of forfeiture, right of re-entry, right to compensation, option or similar right affecting any land or other property shall operate or become exercisable as a result of any transfer of land or other property by virtue of a transfer scheme whether or not any consent required to the transfer has been obtained.
 
-(3)[^key-18668a4bd2f6112ea3b8b1341a920eda] No right to terminate or vary a contract or instrument shall operate or become exercisable, and no provision of a contract or relevant document shall operate or become exercisable or be contravened, by reason of any transfer by virtue of a transfer scheme.
+(3)[^c-18668a4bd2f6112ea3b8b1341a920eda] No right to terminate or vary a contract or instrument shall operate or become exercisable, and no provision of a contract or relevant document shall operate or become exercisable or be contravened, by reason of any transfer by virtue of a transfer scheme.
 
 (4) For purposes connected with any transfers (including transfers of rights and liabilities under an enactment) made by virtue of a transfer scheme, or by virtue of an instrument or agreement made in connection with a transfer scheme, a body or person to which anything is transferred by any such transfer is to be treated as the same person in law as the body or person from which that thing is transferred, except as otherwise provided in the transfer scheme, instrument or agreement.
 
@@ -210,7 +210,7 @@ so agree in writing, the scheme shall for all purposes be deemed to have come in
 
 ## Annotations
 
-[^key-18668a4bd2f6112ea3b8b1341a920eda]: Modification: Sch. 12 para. 2(3) excluded (10.7.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 114(4)](https://www.legislation.gov.uk/ukpga/2003/20/section/114/4)
+[^c-18668a4bd2f6112ea3b8b1341a920eda]: Modification: Sch. 12 para. 2(3) excluded (10.7.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 114(4)](https://www.legislation.gov.uk/ukpga/2003/20/section/114/4)
 
 [^c12810131]: Commencement: Sch. 12 para. 7 wholly in force at 3.7.2000: Sch. 12 para. 7 in force at Royal Assent for certain purposes see s. 425(2); Sch. 12 para. 7 in force at 3.7.2000 in so far as not already in force by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(C)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/C), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Designation of security restricted areas.[^c794558][^c794559][^c794557][^key-b581ac206ff71491cabaaaa4ecc64a88]
+## 11A. Designation of security restricted areas.[^c794558][^c794559][^c794557][^c-b581ac206ff71491cabaaaa4ecc64a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,11 +31,11 @@ summary: ''
 
 (4) If the Secretary of State approves an application under subsection (1) above, with or without modifications, he shall designate the security restricted area accordingly.
 
-(4A)[^key-d6c5d69649057a801b2d159c0e98f4dd] Before approving an application without modifications the Secretary of State shall consult the CAA.
+(4A)[^c-d6c5d69649057a801b2d159c0e98f4dd] Before approving an application without modifications the Secretary of State shall consult the CAA.
 
 (5) Before approving an application with modifications, the Secretary of State shall consult—
 
-- (za)[^key-1d6f23b300316761a663cf73f8d11801] the CAA ,
+- (za)[^c-1d6f23b300316761a663cf73f8d11801] the CAA ,
 - (a) the manager of the aerodrome, and
 - (b) the authority responsible for any air navigation installation which forms part of the aerodrome.
 
@@ -45,7 +45,7 @@ summary: ''
 
 (8) The Secretary of State shall give notice of any designation under this section to—
 
-- (za)[^key-7c70330ca83efee432c45512e40ce553] the CAA ,
+- (za)[^c-7c70330ca83efee432c45512e40ce553] the CAA ,
 - (a) the manager of the aerodrome, and
 - (b) the authority responsible for any air navigation installation which forms part of the aerodrome,
 
@@ -68,10 +68,10 @@ and the designation of the security restricted area shall take effect on the giv
 
 [^c794557]: Textual amendment: S. 11A inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8](https://www.legislation.gov.uk/ukpga/1990/31/section/8) , [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/3)
 
-[^key-b581ac206ff71491cabaaaa4ecc64a88]: Textual amendment: Words in s. 11A substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/b)
+[^c-b581ac206ff71491cabaaaa4ecc64a88]: Textual amendment: Words in s. 11A substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2010/902/regulation/9/b)
 
-[^key-d6c5d69649057a801b2d159c0e98f4dd]: Textual amendment: S. 11A(4A) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/8/2) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-d6c5d69649057a801b2d159c0e98f4dd]: Textual amendment: S. 11A(4A) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/8/2) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-1d6f23b300316761a663cf73f8d11801]: Textual amendment: S. 11A(5)(za) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 8(3)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/8/3) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-1d6f23b300316761a663cf73f8d11801]: Textual amendment: S. 11A(5)(za) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 8(3)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/8/3) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-7c70330ca83efee432c45512e40ce553]: Textual amendment: S. 11A(8)(za) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 8(4)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/8/4) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-7c70330ca83efee432c45512e40ce553]: Textual amendment: S. 11A(8)(za) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 8(4)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/8/4) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)

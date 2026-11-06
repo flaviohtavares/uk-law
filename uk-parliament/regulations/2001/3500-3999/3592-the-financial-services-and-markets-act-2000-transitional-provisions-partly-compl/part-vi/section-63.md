@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Modification of Tribunal Rules[^key-a1f17a3c4f54da66c2a6bc2988fe2745]
+## 63. Modification of Tribunal Rules[^c-a1f17a3c4f54da66c2a6bc2988fe2745]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Schedule to this Order has effect for the purpose of modifying the Financial
 
 ## Annotations
 
-[^key-a1f17a3c4f54da66c2a6bc2988fe2745]: Commencement: Art. 63 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-a1f17a3c4f54da66c2a6bc2988fe2745]: Commencement: Art. 63 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00032]: Footnote: S.I. [2001/2476](https://www.legislation.gov.uk/uksi/2001/2476).

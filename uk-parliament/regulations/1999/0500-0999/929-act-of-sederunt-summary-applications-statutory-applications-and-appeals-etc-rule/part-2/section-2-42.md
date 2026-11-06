@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.42. Lodging audio or audio-visual recordings of children[^key-990bde2eb6aa8465b05940d13c492abe]
+## 2.42. Lodging audio or audio-visual recordings of children[^c-990bde2eb6aa8465b05940d13c492abe]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A party who has lodged a recording of a child shall—
 
-- (a) within 14 days after the final determination of the application, where no subsequent appeal has been made[^key-1282477e0da3b85f651ef2a2fdb3fe41], or
+- (a) within 14 days after the final determination of the application, where no subsequent appeal has been made[^c-1282477e0da3b85f651ef2a2fdb3fe41], or
 - (b) within 14 days after the disposal of any appeal made on the final determination of the application,
 
 uplift the recording from process.
@@ -40,6 +40,6 @@ that if he or she fails to uplift the recording within 28 days after the date of
 
 ## Annotations
 
-[^key-990bde2eb6aa8465b05940d13c492abe]: Textual amendment: Rule 2.42 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/3/2)
+[^c-990bde2eb6aa8465b05940d13c492abe]: Textual amendment: Rule 2.42 inserted (1.11.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2012 (S.S.I. 2012/271)](https://www.legislation.gov.uk/ssi/2012/271), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2012/271/paragraph/3/2)
 
-[^key-1282477e0da3b85f651ef2a2fdb3fe41]: Textual amendment: Word in [rule 2.42(3)](https://www.legislation.gov.uk/uksi/1999/929/rule/2.42/3) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(5)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/5) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-1282477e0da3b85f651ef2a2fdb3fe41]: Textual amendment: Word in [rule 2.42(3)](https://www.legislation.gov.uk/uksi/1999/929/rule/2.42/3) substituted (1.1.2016) by [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(5)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/5) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))

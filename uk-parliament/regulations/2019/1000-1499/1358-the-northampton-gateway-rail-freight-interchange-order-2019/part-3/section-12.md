@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Public rights of way – creation, substitution and stopping up[^key-e89f7ed205ec545270f64a2f6e8a3e12]
+## 12. Public rights of way – creation, substitution and stopping up[^c-e89f7ed205ec545270f64a2f6e8a3e12]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e89f7ed205ec545270f64a2f6e8a3e12]: Commencement: Art. 12 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e89f7ed205ec545270f64a2f6e8a3e12]: Commencement: Art. 12 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

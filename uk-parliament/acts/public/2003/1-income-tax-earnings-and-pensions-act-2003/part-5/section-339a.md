@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339A. Travel for necessary attendance: employment intermediaries[^key-f7821b9c683d7438ee5a8a326db76c3b]
+## 339A. Travel for necessary attendance: employment intermediaries[^c-f7821b9c683d7438ee5a8a326db76c3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ This is subject to the following provisions of this section.
   - (ii) disregard paragraph (b) (and the preceding or), and
 - (b) read references to the intermediary as references to the employment intermediary.
 
-(6A)[^key-9afe94f1e7e2e27c3149289ace663641] Subsection (3) does not apply in relation to an engagement if—
+(6A)[^c-9afe94f1e7e2e27c3149289ace663641] Subsection (3) does not apply in relation to an engagement if—
 
 - (a) sections 61N to 61R in Chapter 10 of Part 2 apply in relation to the engagement,
 - (b) one of Conditions A to C in section 61N is met in relation to the employment intermediary, and
@@ -96,6 +96,6 @@ This is subject to the following provisions of this section.
 
 ## Annotations
 
-[^key-f7821b9c683d7438ee5a8a326db76c3b]: Textual amendment: S. 339A inserted (with effect in accordance with s. 14(6) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/1)
+[^c-f7821b9c683d7438ee5a8a326db76c3b]: Textual amendment: S. 339A inserted (with effect in accordance with s. 14(6) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/1)
 
-[^key-9afe94f1e7e2e27c3149289ace663641]: Textual amendment: [Ss. 339A(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2003/1/section/339A/6A) inserted (with effect in accordance with Sch. 1 para. 15 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/12)
+[^c-9afe94f1e7e2e27c3149289ace663641]: Textual amendment: [Ss. 339A(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2003/1/section/339A/6A) inserted (with effect in accordance with Sch. 1 para. 15 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82ZA. Pensions in respect of which information is requested or provided using a pensions dashboard service[^key-ad19389516c21fe649c3d57afd8a0b5b]
+## 82ZA. Pensions in respect of which information is requested or provided using a pensions dashboard service[^c-ad19389516c21fe649c3d57afd8a0b5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad19389516c21fe649c3d57afd8a0b5b]: Textual amendment: Art. 82ZA inserted (11.3.2024) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2024 (S.I. 2024/169)](https://www.legislation.gov.uk/uksi/2024/169), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/169/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/169/article/2/2)
+[^c-ad19389516c21fe649c3d57afd8a0b5b]: Textual amendment: Art. 82ZA inserted (11.3.2024) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2024 (S.I. 2024/169)](https://www.legislation.gov.uk/uksi/2024/169), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/169/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/169/article/2/2)

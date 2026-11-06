@@ -103,33 +103,33 @@ After section 4 of the [^c90997]Plant Health Act 1967 there shall be inserted th
 
 ## Agricultural marketing
 
-### 4. Constitution and functions of Home-Grown Cereals Authority.[^key-7849af7602de12ab99db557b9dfd8c0d]
+### 4. Constitution and functions of Home-Grown Cereals Authority.[^c-7849af7602de12ab99db557b9dfd8c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Levies under Cereals Marketing Act 1965.[^key-7849af7602de12ab99db557b9dfd8c0d]
+### 5. Levies under Cereals Marketing Act 1965.[^c-7849af7602de12ab99db557b9dfd8c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Extension of Cereals Marketing Act 1965 to new cereals and other crops.[^key-7849af7602de12ab99db557b9dfd8c0d][^c91000]
+### 6. Extension of Cereals Marketing Act 1965 to new cereals and other crops.[^c-7849af7602de12ab99db557b9dfd8c0d][^c91000]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Constitution and levy schemes of Meat and Livestock Commission[^key-7849af7602de12ab99db557b9dfd8c0d]
+### 7. Constitution and levy schemes of Meat and Livestock Commission[^c-7849af7602de12ab99db557b9dfd8c0d]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Constitution and funding of Food from Britain[^key-670882d8f1f7a643dbac2a182308f43a]
+### 8. Constitution and funding of Food from Britain[^c-670882d8f1f7a643dbac2a182308f43a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Abolition of Eggs Authority.[^key-c9b974b702ae589e1358723c971cc27d][^c91007]
+### 9. Abolition of Eggs Authority.[^c-c9b974b702ae589e1358723c971cc27d][^c91007]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Repeal of certain ministerial powers concerning eggs.[^key-d7cb489ba366fe0c86d2b359ccc06452]
+### 10. Repeal of certain ministerial powers concerning eggs.[^c-d7cb489ba366fe0c86d2b359ccc06452]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -151,7 +151,7 @@ After paragraph 5 of Schedule 1 to the [^c91011]Agricultural Marketing Act 1958 
 
 .
 
-### 12. Validation of Apple and Pear Development Council orders.[^key-2470ac1a3204e6b3000283cd78e52d29]
+### 12. Validation of Apple and Pear Development Council orders.[^c-2470ac1a3204e6b3000283cd78e52d29]
 
 *Extent: E+W+S*
 
@@ -167,7 +167,7 @@ After paragraph 5 of Schedule 1 to the [^c91011]Agricultural Marketing Act 1958 
 
 Schedule 1 to this Act shall have effect in connection with the payment to certain agricultural tenants on the termination of their tenancies of compensation in respect of milk quota (within the meaning of that Schedule).
 
-### 14. Compensation to outgoing tenants for milk quota: Scotland.[^key-a66a3f633507adfda93265b0c3cc4340]
+### 14. Compensation to outgoing tenants for milk quota: Scotland.[^c-a66a3f633507adfda93265b0c3cc4340]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -193,98 +193,98 @@ Schedule 1 to this Act shall have effect in connection with the payment to certa
 
 (4) Section 95 of that Act (Crown land) applies to this section as it applies to the provisions of that Act.
 
-### 16. Rent arbitrations: milk quotas, Scotland.[^key-ecfde855f32029360b870ffe1cd077be]
+### 16. Rent arbitrations: milk quotas, Scotland.[^c-ecfde855f32029360b870ffe1cd077be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Conservation
 
-### 17. Duty to balance interests in exercise of agricultural functions.[^key-938c98a773dc30a5dee7bae173810195][^c91035]
+### 17. Duty to balance interests in exercise of agricultural functions.[^c-938c98a773dc30a5dee7bae173810195][^c91035]
 
 *Extent: E+W+S*
 
-(1) In discharging any functions connected with agriculture in relation to any land the Minister shall, so far as is consistent with the proper and efficient discharge of those functions, have regard to and endeavour to achieve a reasonable balance between the following considerations— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(1) In discharging any functions connected with agriculture in relation to any land the Minister shall, so far as is consistent with the proper and efficient discharge of those functions, have regard to and endeavour to achieve a reasonable balance between the following considerations— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) the promotion and maintenance of a stable and efficient agricultural industry; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) the economic and social interests of rural areas; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (c) the conservation and enhancement of the natural beauty and amenity of the countryside (including its flora and fauna and geological and physiographical features) and of any features of archaeological interest there; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (d) the promotion of the enjoyment of the countryside by the public. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) the promotion and maintenance of a stable and efficient agricultural industry; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) the economic and social interests of rural areas; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (c) the conservation and enhancement of the natural beauty and amenity of the countryside (including its flora and fauna and geological and physiographical features) and of any features of archaeological interest there; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (d) the promotion of the enjoyment of the countryside by the public. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(2) In this section— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(2) In this section— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- “**agriculture *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91036]Agriculture Act 1947 or, in Scotland, the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91037]Agriculture (Scotland) Act 1948; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- “**the Minister *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-  - (a) in relation to land in England, the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] Secretary of State[^c143934] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195][^c143934] ; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-  - (b) in relation to land in Wales or Scotland, the Secretary of State. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- “**agriculture *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91036]Agriculture Act 1947 or, in Scotland, the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91037]Agriculture (Scotland) Act 1948; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- “**the Minister *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+  - (a) in relation to land in England, the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] Secretary of State[^c143934] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195][^c143934] ; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+  - (b) in relation to land in Wales or Scotland, the Secretary of State. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
 ### 18. Designation and management of environmentally sensitive areas.
 
-(1) If it appears to the Minister that it is particularly desirable— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(1) If it appears to the Minister that it is particularly desirable— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) to conserve and enhance the natural beauty of an area; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) to conserve the flora or fauna or geological or physiographical features of an area; or *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (c) to protect buildings or other objects of archaeological, architectural or historic interest in an area, *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) to conserve and enhance the natural beauty of an area; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) to conserve the flora or fauna or geological or physiographical features of an area; or *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (c) to protect buildings or other objects of archaeological, architectural or historic interest in an area, *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-and that the maintenance or adoption of particular agricultural methods is likely to facilitate such conservation, enhancement or protection, he may, with the consent of the Treasury and after consulting the persons mentioned in subsection (2) below as to the inclusion of the area in the order and the features for which conservation, enhancement or protection is desirable, by order designate that area as an environmentally sensitive area. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+and that the maintenance or adoption of particular agricultural methods is likely to facilitate such conservation, enhancement or protection, he may, with the consent of the Treasury and after consulting the persons mentioned in subsection (2) below as to the inclusion of the area in the order and the features for which conservation, enhancement or protection is desirable, by order designate that area as an environmentally sensitive area. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(2) The persons referred to in subsection (1) above are— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(2) The persons referred to in subsection (1) above are— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) in the case of an area in England, *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c143936]... Natural England[^key-ad9c6e5dc97dff74bbe5fdd9c85e190c] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195];
-- (b) in the case of an area in Wales, *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] the Natural Resources Body for Wales[^key-1298fc58b907213e71ef6334be733521] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (c)[^c91130] in the case of an area in Scotland, Scottish Natural Heritage. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) in the case of an area in England, *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c143936]... Natural England[^c-ad9c6e5dc97dff74bbe5fdd9c85e190c] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195];
+- (b) in the case of an area in Wales, *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] the Natural Resources Body for Wales[^c-1298fc58b907213e71ef6334be733521] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (c)[^c91130] in the case of an area in Scotland, Scottish Natural Heritage. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(3) If the Minister considers that any of the purposes mentioned in paragraphs (a) to (c) of subsection (1) above is likely to be facilitated in a designated area by doing so, he may make an agreement with any person having an interest in agricultural land in, or partly in, the area by which that person agrees in consideration of payments to be made by the Minister to manage the land in accordance with the agreement. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(3) If the Minister considers that any of the purposes mentioned in paragraphs (a) to (c) of subsection (1) above is likely to be facilitated in a designated area by doing so, he may make an agreement with any person having an interest in agricultural land in, or partly in, the area by which that person agrees in consideration of payments to be made by the Minister to manage the land in accordance with the agreement. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(4) An order under this section designating an area may specify— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(4) An order under this section designating an area may specify— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) the requirements as to agricultural practices, methods and operations and the installation or use of equipment which must be included in agreements under subsection (3) above as respects land in the area; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (aa (affected by repeal, see note))[^c91131][^key-938c98a773dc30a5dee7bae173810195] the requirements as to public access which may be included in such agreements *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) the period or minimum period for which *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] requirements included in such agreements under paragraph (a) or paragraph (aa) above must be imposed[^c91132] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195];
-- (c) the provisions which must be included in such agreements concerning the breach of such requirements; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (d) the rates or maximum rates at which payments may be made by the Minister under such agreements and the matters in respect of which such payments may be made. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) the requirements as to agricultural practices, methods and operations and the installation or use of equipment which must be included in agreements under subsection (3) above as respects land in the area; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (aa (affected by repeal, see note))[^c91131][^c-938c98a773dc30a5dee7bae173810195] the requirements as to public access which may be included in such agreements *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) the period or minimum period for which *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] requirements included in such agreements under paragraph (a) or paragraph (aa) above must be imposed[^c91132] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195];
+- (c) the provisions which must be included in such agreements concerning the breach of such requirements; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (d) the rates or maximum rates at which payments may be made by the Minister under such agreements and the matters in respect of which such payments may be made. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(4A)[^c91133] Where the Minister considers it necessary for the purposes of Article 10 or 20 of Commission Regulation *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 746/96](https://www.legislation.gov.uk/eur/1996/746) [^key-938c98a773dc30a5dee7bae173810195][^key-938c98a773dc30a5dee7bae173810195] (aid for agricultural production methods compatible with protection of the environment: combination of aids, and penalties), an agreement under subsection (3) may contain– *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(4A)[^c91133] Where the Minister considers it necessary for the purposes of Article 10 or 20 of Commission Regulation *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [(EC *(affected by repeal, see note)*) No. *(affected by repeal, see note)* 746/96](https://www.legislation.gov.uk/eur/1996/746) [^c-938c98a773dc30a5dee7bae173810195][^c-938c98a773dc30a5dee7bae173810195] (aid for agricultural production methods compatible with protection of the environment: combination of aids, and penalties), an agreement under subsection (3) may contain– *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) provision requiring the payment of penalties to the Minister in the case of breach of the agreement, and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) provision for payments by the Minister to be withheld in specified circumstances. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) provision requiring the payment of penalties to the Minister in the case of breach of the agreement, and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) provision for payments by the Minister to be withheld in specified circumstances. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(5) Subject to the foregoing provisions of this section, an agreement under subsection (3) above may contain such provisions as the Minister thinks fit and, in particular, such provisions as he considers are likely to facilitate such conservation, enhancement or protection as is mentioned in subsection (1) above. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(5) Subject to the foregoing provisions of this section, an agreement under subsection (3) above may contain such provisions as the Minister thinks fit and, in particular, such provisions as he considers are likely to facilitate such conservation, enhancement or protection as is mentioned in subsection (1) above. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(6) The Minister shall not make an agreement with any person under subsection (3) above in respect of any land unless that person has certified to the Minister— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(6) The Minister shall not make an agreement with any person under subsection (3) above in respect of any land unless that person has certified to the Minister— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) that no person other than he is the owner of the land; or *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) that he has notified any other person who is an owner of the land of his intention to make an agreement under subsection (3) above in respect of the land; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) that no person other than he is the owner of the land; or *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) that he has notified any other person who is an owner of the land of his intention to make an agreement under subsection (3) above in respect of the land; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-and in this subsection references to the owner of the land are to the estate owner in respect of the fee simple in the land or, in Scotland, *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] the owner of the dominium utile[^c91134] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195].
+and in this subsection references to the owner of the land are to the estate owner in respect of the fee simple in the land or, in Scotland, *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] the owner of the dominium utile[^c91134] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195].
 
-(7) The provisions of an agreement under subsection (3) above with any person interested in any land in England or Wales shall, unless the agreement otherwise provides, be binding on persons deriving title under or from that person and be enforceable by the Minister against those persons accordingly. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(7) The provisions of an agreement under subsection (3) above with any person interested in any land in England or Wales shall, unless the agreement otherwise provides, be binding on persons deriving title under or from that person and be enforceable by the Minister against those persons accordingly. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(8) Where agreements have been made under subsection (3) above with persons having an interest in land in a designated area the Minister shall arrange for the effect on the area as a whole of the performance of the agreements to be kept under review and shall from time to time publish such information as he considers appropriate about those effects. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(8) Where agreements have been made under subsection (3) above with persons having an interest in land in a designated area the Minister shall arrange for the effect on the area as a whole of the performance of the agreements to be kept under review and shall from time to time publish such information as he considers appropriate about those effects. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(9) Schedule 2 to the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91135]Forestry Act 1967 (power for tenant for life and others to enter into forestry dedication covenants, or, in Scotland, forestry dedication agreements) shall apply to agreements under subsection (3) above as it applies to forestry dedication covenants or, as the case may be, forestry dedication agreements. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(9) Schedule 2 to the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91135]Forestry Act 1967 (power for tenant for life and others to enter into forestry dedication covenants, or, in Scotland, forestry dedication agreements) shall apply to agreements under subsection (3) above as it applies to forestry dedication covenants or, as the case may be, forestry dedication agreements. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
 *Extent: S*
 
-(9A)[^key-938c98a773dc30a5dee7bae173810195] . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9A)[^c-938c98a773dc30a5dee7bae173810195] . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10) This section applies to land an interest in which belongs to Her Majesty in right of the Crown or to the Duchy of Lancaster, the Duchy of Cornwall or a Government department or which is held in trust for Her Majesty for the purposes of a Government department, but no agreement under subsection (3) above shall be made as respects land to which this subsection applies without the consent of the appropriate authority. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(10) This section applies to land an interest in which belongs to Her Majesty in right of the Crown or to the Duchy of Lancaster, the Duchy of Cornwall or a Government department or which is held in trust for Her Majesty for the purposes of a Government department, but no agreement under subsection (3) above shall be made as respects land to which this subsection applies without the consent of the appropriate authority. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(11) In this section— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(11) In this section— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- “**agricultural *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91136]Agriculture Act 1947 or, in Scotland, the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91137]Agriculture (Scotland) Act 1948; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- “**the appropriate authority *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in section 101(11) of the National Parks and Access to the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91138]Countryside Act 1949; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- “**the Minister *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-  - (a) in relation to an area in England, the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] Secretary of State[^c143938] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-  - (b) in relation to an area in Wales or Scotland, the Secretary of State. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- “**agricultural *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91136]Agriculture Act 1947 or, in Scotland, the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91137]Agriculture (Scotland) Act 1948; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- “**the appropriate authority *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in section 101(11) of the National Parks and Access to the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91138]Countryside Act 1949; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- “**the Minister *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+  - (a) in relation to an area in England, the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] Secretary of State[^c143938] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+  - (b) in relation to an area in Wales or Scotland, the Secretary of State. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(12) The power to make an order under this section shall be exercisable by statutory instrument and any statutory instrument containing such an order shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(12) The power to make an order under this section shall be exercisable by statutory instrument and any statutory instrument containing such an order shall be subject to annulment in pursuance of a resolution of either House of Parliament. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(13) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91139]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which states that it is made only for purposes corresponding to those of this section— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(13) An Order in Council under paragraph 1(1)(b) of Schedule 1 to the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91139]Northern Ireland Act 1974 (legislation for Northern Ireland in the interim period) which states that it is made only for purposes corresponding to those of this section— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) shall be subject to annulment in pursuance of a resolution of either House. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) shall not be subject to paragraph 1(4) and (5) of that Schedule (affirmative resolution of both Houses of Parliament); but *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) shall be subject to annulment in pursuance of a resolution of either House. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-### 19. Supplementary provisions regarding agreements under s.18(3) in Scotland.[^key-938c98a773dc30a5dee7bae173810195]
+### 19. Supplementary provisions regarding agreements under s.18(3) in Scotland.[^c-938c98a773dc30a5dee7bae173810195]
 
 *Extent: E+W+S*
 
@@ -294,43 +294,43 @@ and in this subsection references to the owner of the land are to the estate own
 
 *Extent: E+W+S*
 
-(1) The provisions of this section shall have effect for the purpose of amending certain provisions of the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91144]Wildlife and Countryside Act 1981 which apply to grants under schemes made under section 29 of the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91145]Agriculture Act 1970 so as to apply them to certain agricultural grants under regulations made under section 2(2) of the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] [^c91146]European Communities Act 1972. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(1) The provisions of this section shall have effect for the purpose of amending certain provisions of the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91144]Wildlife and Countryside Act 1981 which apply to grants under schemes made under section 29 of the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91145]Agriculture Act 1970 so as to apply them to certain agricultural grants under regulations made under section 2(2) of the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] [^c91146]European Communities Act 1972. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(2) In subsection (1) of section 32 of the said Act of 1981 (duties of agriculture Ministers to exercise functions so as to further conservation where applications are made to them for grants under such schemes with respect to areas of special scientific interest)— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(2) In subsection (1) of section 32 of the said Act of 1981 (duties of agriculture Ministers to exercise functions so as to further conservation where applications are made to them for grants under such schemes with respect to areas of special scientific interest)— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) for the words “a grant under a scheme made under section 29 of the Agriculture Act 1970 (farm capital grants)” there shall be substituted the words “a farm capital grant”; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) in paragraph (a) for the words “the scheme and section 29 of the said Act of 1970” there shall be substituted the words “the grant provisions”. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) for the words “a grant under a scheme made under section 29 of the Agriculture Act 1970 (farm capital grants)” there shall be substituted the words “a farm capital grant”; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) in paragraph (a) for the words “the scheme and section 29 of the said Act of 1970” there shall be substituted the words “the grant provisions”. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(3) For subsection (3) of that section (definition of “the appropriate Minister”) there shall be substituted— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(3) For subsection (3) of that section (definition of “the appropriate Minister”) there shall be substituted— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-> (3) In this section— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+> (3) In this section— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 >
-> - “**the appropriate Minister *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” means the Minister responsible for determining the application; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-> - “**farm capital grant *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
->   - (a) a grant under a scheme made under section 29 of the Agriculture Act 1970; or *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
->   - (b) a grant under regulations made under section 2(2) of the European Communities Act 1972 to a person carrying on an agricultural business within the meaning of those regulations in respect of expenditure incurred or to be incurred for the purposes of or in connection with that business, being expenditure of a capital nature or incurred in connection with expenditure of a capital nature; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-> - “**grant provisions *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
->   - (i) in the case of such a grant as is mentioned in paragraph (a) above, the scheme under which the grant is made and section 29 of the Agriculture Act 1970; and *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
->   - (ii) in the case of such a grant as is mentioned in paragraph (b) above, the regulations under which the grant is made and the *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] EU[^key-f51d443cad9fd4cf40499a085c0ab00c] *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195] instrument in pursuance of which the regulations were made. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+> - “**the appropriate Minister *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” means the Minister responsible for determining the application; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+> - “**farm capital grant *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+>   - (a) a grant under a scheme made under section 29 of the Agriculture Act 1970; or *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+>   - (b) a grant under regulations made under section 2(2) of the European Communities Act 1972 to a person carrying on an agricultural business within the meaning of those regulations in respect of expenditure incurred or to be incurred for the purposes of or in connection with that business, being expenditure of a capital nature or incurred in connection with expenditure of a capital nature; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+> - “**grant provisions *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” means— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+>   - (i) in the case of such a grant as is mentioned in paragraph (a) above, the scheme under which the grant is made and section 29 of the Agriculture Act 1970; and *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+>   - (ii) in the case of such a grant as is mentioned in paragraph (b) above, the regulations under which the grant is made and the *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] EU[^c-f51d443cad9fd4cf40499a085c0ab00c] *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195] instrument in pursuance of which the regulations were made. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
 .
 
-(4) In subsection (3) of section 41 of the said Act of 1981 (which makes similar provision in relation to land which is in a National Park or an area specified for the purposes of that subsection)— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(4) In subsection (3) of section 41 of the said Act of 1981 (which makes similar provision in relation to land which is in a National Park or an area specified for the purposes of that subsection)— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-- (a) for the words “a grant under a scheme made under section 29 of the Agriculture Act 1970 (farm capital grants)” there shall be substituted the words “a farm capital grant”; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
-- (b) in paragraph (a) for the words “the scheme and the said section 29” there shall be substituted the words “the grant provisions”. *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+- (a) for the words “a grant under a scheme made under section 29 of the Agriculture Act 1970 (farm capital grants)” there shall be substituted the words “a farm capital grant”; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
+- (b) in paragraph (a) for the words “the scheme and the said section 29” there shall be substituted the words “the grant provisions”. *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-(5) In subsection (5) of the said section 41 (definitions) for the definitions of “agricultural business” and “the appropriate Minister” there shall be substituted— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(5) In subsection (5) of the said section 41 (definitions) for the definitions of “agricultural business” and “the appropriate Minister” there shall be substituted— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-> “**agricultural business *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in section 29 of the Agriculture Act 1970; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+> “**agricultural business *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in section 29 of the Agriculture Act 1970; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 >
-> “**the appropriate Minister *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**”, “**farm capital grant *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” and “ *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**grant provisions *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” have the same meanings as in section 32; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+> “**the appropriate Minister *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**”, “**farm capital grant *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” and “ *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**grant provisions *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” have the same meanings as in section 32; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
 .
 
-(6) For the definition of “ *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**farm capital grant *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” in subsection (4) of section 50 of that Act (payments under certain agreements offered by authorities where applications for grants under section 29 of the said Act of 1970 are refused) there shall be substituted— *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+(6) For the definition of “ *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**farm capital grant *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” in subsection (4) of section 50 of that Act (payments under certain agreements offered by authorities where applications for grants under section 29 of the said Act of 1970 are refused) there shall be substituted— *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
-> - “**farm capital grant *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in section 32; *(affected by repeal, see note)*[^key-938c98a773dc30a5dee7bae173810195]
+> - “**farm capital grant *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]**” has the same meaning as in section 32; *(affected by repeal, see note)*[^c-938c98a773dc30a5dee7bae173810195]
 
 ### 21.
 
@@ -363,7 +363,7 @@ and in this subsection references to the owner of the land are to the estate own
 
 (2) Any sums received by a Minister under this Act shall be paid into the Consolidated Fund.
 
-### 23A.[^key-2ceecfcd109112e46c3e3eea38b9128d]
+### 23A.[^c-2ceecfcd109112e46c3e3eea38b9128d]
 
 *Extent: E+W+S*
 
@@ -373,17 +373,17 @@ and in this subsection references to the owner of the land are to the estate own
 
 (1) This Act may be cited as the Agriculture Act 1986.
 
-(2)[^key-2593d1b97f1166049a28ddfaab081f8d][^c91155][^c91156] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2593d1b97f1166049a28ddfaab081f8d][^c91155][^c91156] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2593d1b97f1166049a28ddfaab081f8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2593d1b97f1166049a28ddfaab081f8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The provisions mentioned in Schedule 3 to this Act shall have effect subject to the amendments there specified (being amendments consequential on the provisions of this Act).
 
 (5) The enactments mentioned in Schedule 4 to this Act (which include some spent provisions) are hereby repealed to the extent specified in the third column of that Schedule.
 
-(6) Sections 1, 13, 15, 18(7) [^key-2c117cdd6e65387fde2a8ab2bbbb1402]... above and Schedule 1 to this Act do not extend to Scotland.
+(6) Sections 1, 13, 15, 18(7) [^c-2c117cdd6e65387fde2a8ab2bbbb1402]... above and Schedule 1 to this Act do not extend to Scotland.
 
-(7) The provisions of this Act do not extend to Northern Ireland except for sections 4 to 6, [^key-ebeeef29d2e6e43aefa153c693eef519]... [^key-6af8b5ae237f68d35510082e3caf9752]... 11, 18(13) and 22, this section and the provisions of Schedules 3 and 4 which affect enactments extending there.
+(7) The provisions of this Act do not extend to Northern Ireland except for sections 4 to 6, [^c-ebeeef29d2e6e43aefa153c693eef519]... [^c-6af8b5ae237f68d35510082e3caf9752]... 11, 18(13) and 22, this section and the provisions of Schedules 3 and 4 which affect enactments extending there.
 
 SCHEDULES
 
@@ -399,7 +399,7 @@ Section 13.
 
 *Extent: E+W+S+N.I.*
 
-**1.**[^key-02ac05d13b14f8795933f1fcd7d06cc6] (1) Subject to the following provisions of this Schedule, where on the termination of the tenancy of any land the tenant has milk quota registered as his in relation to a holding consisting of or including the land, the tenant shall be entitled, on quitting the land, to obtain from his landlord a payment—
+**1.**[^c-02ac05d13b14f8795933f1fcd7d06cc6] (1) Subject to the following provisions of this Schedule, where on the termination of the tenancy of any land the tenant has milk quota registered as his in relation to a holding consisting of or including the land, the tenant shall be entitled, on quitting the land, to obtain from his landlord a payment—
 
 - (a) if the tenant had milk quota allocated to him in relation to land comprised in the holding (“allocated quota”), in respect of so much of the relevant quota as consists of allocated quota; and
 - (b) if the tenant had milk quota allocated to him as aforesaid or was in occupation of the land as a tenant on 2nd April 1984 (whether or not under the tenancy which is terminating), in respect of so much of the relevant quota as consists of transferred quota transferred to him by virtue of a transaction the cost of which was borne wholly or partly by him.
@@ -483,9 +483,9 @@ Section 13.
 
 (2) Where by virtue of the quality of the land in question or climatic conditions in the area the amount of milk which could reasonably be expected to have been produced from one hectare of the land during the relevant period (“the reasonable amount”) is greater or less than the prescribed average yield per hectare, then sub-paragraph (1) above shall not apply and the standard quota shall be calculated by multiplying the relevant number of hectares by such proportion of the prescribed quota per hectare as the reasonable amount bears to the prescribed average yield per hectare; and the Minister shall by order prescribe the amount of milk to be taken as the average yield per hectare for the purposes of this sub-paragraph.
 
-(3) Where the relevant quota of the land includes milk quota allocated in pursuance of an award of quota made by the Dairy Produce Quota Tribunal for England and Wales , or by the Secretary of State or the National Assembly for Wales following the appeals procedure,[^key-8fadabd52dae781111aed95206987509] which has not been allocated in full, the standard quota for the land shall be reduced by the amount by which the milk quota allocated in pursuance of the award falls short of the amount awarded (or, in a case where only part of the milk quota allocated in pursuance of the award is included in the relevant quota, by the corresponding proportion of that shortfall).
+(3) Where the relevant quota of the land includes milk quota allocated in pursuance of an award of quota made by the Dairy Produce Quota Tribunal for England and Wales , or by the Secretary of State or the National Assembly for Wales following the appeals procedure,[^c-8fadabd52dae781111aed95206987509] which has not been allocated in full, the standard quota for the land shall be reduced by the amount by which the milk quota allocated in pursuance of the award falls short of the amount awarded (or, in a case where only part of the milk quota allocated in pursuance of the award is included in the relevant quota, by the corresponding proportion of that shortfall).
 
-(3A)[^key-c2733378d9e751fdf79dcff419d08a01] In sub-paragraph (3) above “the appeals procedure” means—
+(3A)[^c-c2733378d9e751fdf79dcff419d08a01] In sub-paragraph (3) above “the appeals procedure” means—
 
 - (a) in England, the appeals procedure established under the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (England) Regulations 2004 ( [S.I. 2004/590](https://www.legislation.gov.uk/uksi/2004/590) ); and
 - (b) in Wales, the appeals procedure established under the Common Agricultural Policy Non-IACS Support Schemes (Appeals) (Wales) Regulations 2004 ( [S.I. 2004/685 (W.73)](https://www.legislation.gov.uk/wsi/2004/685) ).
@@ -557,14 +557,14 @@ the average rent payable in respect of one month in the relevant period or, as t
 
 - (a) in a case where no application is made under that section within the period within which such an application may be made, the expiry of that period;
 - (b) in a case where every such application made within that period is withdrawn, the expiry of that period or the time when the last outstanding application is withdrawn (whichever is the later);
-- (c) in a case where the Tribunal (within the meaning of that Act)[^key-8143ea95a28555cf4aeb3c88bda89c2c] refuse every such application for a direction under that section, the time when the last outstanding application is refused; and
+- (c) in a case where the Tribunal (within the meaning of that Act)[^c-8143ea95a28555cf4aeb3c88bda89c2c] refuse every such application for a direction under that section, the time when the last outstanding application is refused; and
 - (d) in a case where the Tribunal give such a direction, the relevant time for the purposes of section 46 of that Act;
 
 and no notice may be served under sub-paragraph (1) above before that time.
 
 (4) Where a tenant lawfully remains in occupation of part of the land subject to the tenancy after the termination of the tenancy or, in a case where sub-paragraph (3) above applies, after the time substituted for the termination of the tenancy by virtue of that sub-paragraph, the references in sub-paragraphs (1) and (2) above to the termination of the tenancy shall be construed as references to the termination of the occupation.
 
-(5) Section 84 of the [^c91165]Agricultural Holdings Act 1986 (arbitrations) shall apply as if the requirements of this paragraph were requirements of that Act, [^key-1136fa6f95f59c171f9b34d28b5d6e16]....
+(5) Section 84 of the [^c91165]Agricultural Holdings Act 1986 (arbitrations) shall apply as if the requirements of this paragraph were requirements of that Act, [^c-1136fa6f95f59c171f9b34d28b5d6e16]....
 
 (6) Where—
 
@@ -661,7 +661,7 @@ any notice served on the original landlord by the tenant shall be deemed for the
 
 (3) The designations of landlord and tenant shall continue to apply to the parties until the conclusion of any proceedings taken under or in pursuance of this Schedule.
 
-## SCHEDULE 2 — Tenants’ Compensation for Milk Quota: Scotland[^key-5b5ac6aca487371ea51a9d263f8edc79]
+## SCHEDULE 2 — Tenants’ Compensation for Milk Quota: Scotland[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
 *Extent: E+W+S*
 
@@ -669,65 +669,65 @@ any notice served on the original landlord by the tenant shall be deemed for the
 
 Section 14.
 
-### Interpretation[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Interpretation[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**1.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenant’s right to compensation[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Tenant’s right to compensation[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**2.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Succession to lease of tenancy[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Succession to lease of tenancy[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**3.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Sub-tenants[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Sub-tenants[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**4.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Calculation of payment[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Calculation of payment[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**5.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Standard quota[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Standard quota[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**6.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenant’s fraction[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Tenant’s fraction[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**7.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Relevant period[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Relevant period[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**8.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Valuation of milk quota[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Valuation of milk quota[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**9.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Determination of standard quota and tenant’s fraction before end of lease[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Determination of standard quota and tenant’s fraction before end of lease[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**10.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Settlement of tenant’s claim on termination of lease[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Settlement of tenant’s claim on termination of lease[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**11.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Enforcement[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Enforcement[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**12.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Powers of limited owners[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Powers of limited owners[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**13.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Notices[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Notices[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**14.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Crown land[^key-5b5ac6aca487371ea51a9d263f8edc79]
+### Crown land[^c-5b5ac6aca487371ea51a9d263f8edc79]
 
-**15.**[^key-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-5b5ac6aca487371ea51a9d263f8edc79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Consequential Amendments
 
@@ -735,7 +735,7 @@ Section 24(4).
 
 **1.** In section 2(15) of the [^c91210]Agricultural Marketing Act 1958 for the words “or revoked” there shall be substituted the words “revoked or consolidated”.
 
-**2.**[^key-7ab39433db65f4a6f6c3aa8c968d51c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7ab39433db65f4a6f6c3aa8c968d51c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -804,25 +804,25 @@ Section 24(5).
 
 [^c90997]: Marginal citation: [1967 c. 8](https://www.legislation.gov.uk/ukpga/1967/8).
 
-[^key-7849af7602de12ab99db557b9dfd8c0d]: Textual amendment: [Ss. 4-7](https://www.legislation.gov.uk/ukpga/1986/49/section/4) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-7849af7602de12ab99db557b9dfd8c0d]: Textual amendment: [Ss. 4-7](https://www.legislation.gov.uk/ukpga/1986/49/section/4) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c91000]: Modification: S. 6: power to transfer certain functions conferred (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule)
 
-[^key-670882d8f1f7a643dbac2a182308f43a]: Textual amendment: S. 8 repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-670882d8f1f7a643dbac2a182308f43a]: Textual amendment: S. 8 repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
-[^key-c9b974b702ae589e1358723c971cc27d]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1986/49/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-c9b974b702ae589e1358723c971cc27d]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1986/49/section/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c91007]: Modification: S. 9: power to transfer certain functions conferred (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule)
 
-[^key-d7cb489ba366fe0c86d2b359ccc06452]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1986/49/section/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-d7cb489ba366fe0c86d2b359ccc06452]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1986/49/section/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c91011]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-2470ac1a3204e6b3000283cd78e52d29]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1986/49/section/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-2470ac1a3204e6b3000283cd78e52d29]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1986/49/section/12) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c91014]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/1986/49/section/13) excluded (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/1995/8/section/16/3), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)).
 
-[^key-a66a3f633507adfda93265b0c3cc4340]: Textual amendment: S. 14 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
+[^c-a66a3f633507adfda93265b0c3cc4340]: Textual amendment: S. 14 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
 
 [^c91021]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
@@ -832,9 +832,9 @@ Section 24(5).
 
 [^c91024]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
-[^key-ecfde855f32029360b870ffe1cd077be]: Textual amendment: S. 16 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
+[^c-ecfde855f32029360b870ffe1cd077be]: Textual amendment: S. 16 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
 
-[^key-938c98a773dc30a5dee7bae173810195]: Textual amendment: Ss. 17-20 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-938c98a773dc30a5dee7bae173810195]: Textual amendment: Ss. 17-20 repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c91035]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/1986/49/section/17) explained by [Farm Land and Rural Development Act 1988 (c. 16, SIF 2:1)](https://www.legislation.gov.uk/ukpga/1988/16), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1988/16/section/4/2)
 
@@ -846,9 +846,9 @@ Section 24(5).
 
 [^c143936]: Textual amendment: Words in s. 18(2)(a) repealed (27.3.2002) by [The Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794), [art. 5(2)](https://www.legislation.gov.uk/uksi/2002/794/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/794/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2002/794/article/6))
 
-[^key-ad9c6e5dc97dff74bbe5fdd9c85e190c]: Textual amendment: Words in s. 18(2)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 107](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/107); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-ad9c6e5dc97dff74bbe5fdd9c85e190c]: Textual amendment: Words in s. 18(2)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 107](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/107); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-1298fc58b907213e71ef6334be733521]: Textual amendment: Words in s. 18(2)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 185](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/185) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1298fc58b907213e71ef6334be733521]: Textual amendment: Words in s. 18(2)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 185](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/185) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c91130]: Textual amendment: S. 18(2)(c) substituted (1.4.1992) by [Natural Heritage (Scotland) Act 1991 (c. 28, SIF 46:1)](https://www.legislation.gov.uk/ukpga/1991/28), [s. 27(1)](https://www.legislation.gov.uk/ukpga/1991/28/section/27/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/1991/28/schedule/10/paragraph/12); [S.I. 1991/2633](https://www.legislation.gov.uk/uksi/1991/2633), [art. 4](https://www.legislation.gov.uk/uksi/1991/2633/article/4)
 
@@ -878,7 +878,7 @@ Section 24(5).
 
 [^c91146]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-f51d443cad9fd4cf40499a085c0ab00c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-f51d443cad9fd4cf40499a085c0ab00c]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c91147]: Textual amendment: S. 21 repealed by [Rights of Way Act 1990 (c. 24, SIF 59)](https://www.legislation.gov.uk/ukpga/1990/24), [s. 6(4)](https://www.legislation.gov.uk/ukpga/1990/24/section/6/4)
 
@@ -886,27 +886,27 @@ Section 24(5).
 
 [^c91149]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
-[^key-2ceecfcd109112e46c3e3eea38b9128d]: Textual amendment: S. 23A repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-2ceecfcd109112e46c3e3eea38b9128d]: Textual amendment: S. 23A repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c91153]: Commencement: S. 24 in force in accordance with (2); s. 24(5) partly in force 21.11.1991, see S.I. 1991/2635
 
 [^c91154]: Subordinate legislation: S. 24: power of appointment conferred by s. 24 partly exercised: [S.I. 1986/1484](https://www.legislation.gov.uk/uksi/1986/1484), 1485, 1596, 2301
 
-[^key-2593d1b97f1166049a28ddfaab081f8d]: Textual amendment: S. 24(2)(3) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-2593d1b97f1166049a28ddfaab081f8d]: Textual amendment: S. 24(2)(3) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
 [^c91155]: Subordinate legislation: S. 24(2): s. 24(2) power exercised by [S.I. 1991/2635](https://www.legislation.gov.uk/uksi/1991/2635)
 
 [^c91156]: Subordinate legislation: S. 24(2) power partly exercised (19.3.1998): 1.4.1998 appointed for specified provision by [S.I. 1998/879](https://www.legislation.gov.uk/uksi/1998/879).
 
-[^key-2c117cdd6e65387fde2a8ab2bbbb1402]: Textual amendment: Words in s. 24(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-2c117cdd6e65387fde2a8ab2bbbb1402]: Textual amendment: Words in s. 24(6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
-[^key-ebeeef29d2e6e43aefa153c693eef519]: Textual amendment: Word in s. 24(7) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-ebeeef29d2e6e43aefa153c693eef519]: Textual amendment: Word in s. 24(7) repealed (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
-[^key-6af8b5ae237f68d35510082e3caf9752]: Textual amendment: Words in s. 24(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-6af8b5ae237f68d35510082e3caf9752]: Textual amendment: Words in s. 24(7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c91157]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1986/49/schedule/1) excluded (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/1995/8/section/16/3), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)).
 
-[^key-02ac05d13b14f8795933f1fcd7d06cc6]: Modification: Sch. 1 para. 1 restricted (with effect in accordance with reg. 14(1) of the commencing S.I.) (31.3.2005) by [The Dairy Produce Quotas (Wales) Regulations 2005 (S.I. 2005/537)](https://www.legislation.gov.uk/uksi/2005/537), [regs. 1](https://www.legislation.gov.uk/uksi/2005/537/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2005/537/regulation/14/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/537/regulation/3))
+[^c-02ac05d13b14f8795933f1fcd7d06cc6]: Modification: Sch. 1 para. 1 restricted (with effect in accordance with reg. 14(1) of the commencing S.I.) (31.3.2005) by [The Dairy Produce Quotas (Wales) Regulations 2005 (S.I. 2005/537)](https://www.legislation.gov.uk/uksi/2005/537), [regs. 1](https://www.legislation.gov.uk/uksi/2005/537/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/2005/537/regulation/14/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/537/regulation/3))
 
 [^c91158]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
@@ -916,19 +916,19 @@ Section 24(5).
 
 [^c91161]: Marginal citation: [1984 c. 41](https://www.legislation.gov.uk/ukpga/1984/41).
 
-[^key-8fadabd52dae781111aed95206987509]: Textual amendment: Words in Sch. 1 para. 6(3) inserted (6.4.2007) by [Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/477/regulation/4/2/a)
+[^c-8fadabd52dae781111aed95206987509]: Textual amendment: Words in Sch. 1 para. 6(3) inserted (6.4.2007) by [Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/477/regulation/4/2/a)
 
-[^key-c2733378d9e751fdf79dcff419d08a01]: Textual amendment: Sch. 1 para. 6(3A) inserted (6.4.2007) by [Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/477/regulation/4/2/b)
+[^c-c2733378d9e751fdf79dcff419d08a01]: Textual amendment: Sch. 1 para. 6(3A) inserted (6.4.2007) by [Dairy Produce (Miscellaneous Provisions) Regulations 2007 (S.I. 2007/477)](https://www.legislation.gov.uk/uksi/2007/477), [regs. 1](https://www.legislation.gov.uk/uksi/2007/477/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/477/regulation/4/2/b)
 
 [^c91163]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
 [^c91164]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
-[^key-8143ea95a28555cf4aeb3c88bda89c2c]: Textual amendment: Words in Sch. 1 para. 11(3)(c) substituted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 211](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/211) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-8143ea95a28555cf4aeb3c88bda89c2c]: Textual amendment: Words in Sch. 1 para. 11(3)(c) substituted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 211](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/211) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c91165]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
-[^key-1136fa6f95f59c171f9b34d28b5d6e16]: Textual amendment: Words in Sch. 1 para. 11(5) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-1136fa6f95f59c171f9b34d28b5d6e16]: Textual amendment: Words in Sch. 1 para. 11(5) repealed (19.10.2006) by [Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
 [^c91166]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -944,11 +944,11 @@ Section 24(5).
 
 [^c91171]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 
-[^key-5b5ac6aca487371ea51a9d263f8edc79]: Textual amendment: Sch. 2 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
+[^c-5b5ac6aca487371ea51a9d263f8edc79]: Textual amendment: Sch. 2 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
 
 [^c91210]: Marginal citation: [1958 c. 47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-7ab39433db65f4a6f6c3aa8c968d51c0]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1986/49/schedule/3/paragraph/2) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-7ab39433db65f4a6f6c3aa8c968d51c0]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1986/49/schedule/3/paragraph/2) repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c91212]: Marginal citation: [1976 c. 70](https://www.legislation.gov.uk/ukpga/1976/70).
 

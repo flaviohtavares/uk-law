@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Cancellation in special circumstances – failure by relevant person to take a consumer credit modifying step[^key-58a2c88d11b3441c5c106bdb71dc2f27]
+## 70. Cancellation in special circumstances – failure by relevant person to take a consumer credit modifying step[^c-58a2c88d11b3441c5c106bdb71dc2f27]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the Secretary of State is satisfied there has been a failure to take a con
 
 ## Annotations
 
-[^key-58a2c88d11b3441c5c106bdb71dc2f27]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2012/2079/regulation/70) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-58a2c88d11b3441c5c106bdb71dc2f27]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2012/2079/regulation/70) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

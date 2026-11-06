@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Private rights of way[^key-0267c6f46e1f9ab05854977572e55517]
+## 18. Private rights of way[^c-0267c6f46e1f9ab05854977572e55517]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ it shall be effective in respect of the persons so deriving title, whether the t
 
 ## Annotations
 
-[^key-0267c6f46e1f9ab05854977572e55517]: Commencement: Art. 18 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-0267c6f46e1f9ab05854977572e55517]: Commencement: Art. 18 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

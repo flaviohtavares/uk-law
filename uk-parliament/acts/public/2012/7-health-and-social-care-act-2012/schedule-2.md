@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Clinical commissioning groups[^c2191375][^key-85b96d66e030cd8ac059d65ee7d39d35][^key-4493134d8f81617b87cb9fe9ae3a8fcb]
+## SCHEDULE 2 — Clinical commissioning groups[^c2191375][^c-85b96d66e030cd8ac059d65ee7d39d35][^c-4493134d8f81617b87cb9fe9ae3a8fcb]
 
 *Extent: E+W*
 
@@ -302,6 +302,6 @@ Section 25(2)
 
 [^c2191375]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/2) partly in force; [Sch. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/2) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-85b96d66e030cd8ac059d65ee7d39d35]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/2) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/1831/article/9))
+[^c-85b96d66e030cd8ac059d65ee7d39d35]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/2) in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/1831/article/9))
 
-[^key-4493134d8f81617b87cb9fe9ae3a8fcb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-4493134d8f81617b87cb9fe9ae3a8fcb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2012/7/schedule/2) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

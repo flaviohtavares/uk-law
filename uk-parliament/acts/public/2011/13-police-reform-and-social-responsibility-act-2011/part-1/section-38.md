@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Appointment, suspension and removal of chief constables[^key-59459bccf7b0d7b160df01550fd371aa]
+## 38. Appointment, suspension and removal of chief constables[^c-59459bccf7b0d7b160df01550fd371aa]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59459bccf7b0d7b160df01550fd371aa]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2011/13/section/38) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-59459bccf7b0d7b160df01550fd371aa]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2011/13/section/38) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

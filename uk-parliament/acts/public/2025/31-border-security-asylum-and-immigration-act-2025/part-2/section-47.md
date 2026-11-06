@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Powers to take biometric information[^key-68df9f7110891f0a49a435f86c2b057f][^key-dca7e2ec11e31cd451a29c770e11ff09]
+## 47. Powers to take biometric information[^c-68df9f7110891f0a49a435f86c2b057f][^c-dca7e2ec11e31cd451a29c770e11ff09]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68df9f7110891f0a49a435f86c2b057f]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-68df9f7110891f0a49a435f86c2b057f]: Commencement: S. 47 in force at Royal Assent for specified purposes, see [s. 65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-dca7e2ec11e31cd451a29c770e11ff09]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/31/section/47) in force at 2.2.2026 in so far as not already in force, see [s. 65(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/4)
+[^c-dca7e2ec11e31cd451a29c770e11ff09]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/31/section/47) in force at 2.2.2026 in so far as not already in force, see [s. 65(4)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/4)

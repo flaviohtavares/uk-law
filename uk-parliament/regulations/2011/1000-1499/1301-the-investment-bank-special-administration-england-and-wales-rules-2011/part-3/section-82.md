@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Claims, proofs and proxies in adjournment[^key-00d4b265aa9c91b3ae0cadaaedf83f22]
+## 82. Claims, proofs and proxies in adjournment[^c-00d4b265aa9c91b3ae0cadaaedf83f22]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a meeting under these rules is adjourned, claims, proofs and proxies may b
 
 ## Annotations
 
-[^key-00d4b265aa9c91b3ae0cadaaedf83f22]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2011/1301/rule/82) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-00d4b265aa9c91b3ae0cadaaedf83f22]: Commencement: [Rule 82](https://www.legislation.gov.uk/uksi/2011/1301/rule/82) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

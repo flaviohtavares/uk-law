@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.34. Interpretation[^key-a57ea87f258cdd69a0d8e7653abdbac3]
+## 3.34. Interpretation[^c-a57ea87f258cdd69a0d8e7653abdbac3]
 
 *Extent: S*
 
-In this Part, “**application**” means, except in rule 3.40, an application by a local authority for an exclusion order in terms of sections 76 to 80 of the[^key-793702fcb8b3f0fcfa7bd9538333ae6f] 1995 Act; and “**ancillary order**” and “**interim order**” shall be construed accordingly.
+In this Part, “**application**” means, except in rule 3.40, an application by a local authority for an exclusion order in terms of sections 76 to 80 of the[^c-793702fcb8b3f0fcfa7bd9538333ae6f] 1995 Act; and “**ancillary order**” and “**interim order**” shall be construed accordingly.
 
 ## Annotations
 
-[^key-a57ea87f258cdd69a0d8e7653abdbac3]: Commencement: Rule 3.34 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-a57ea87f258cdd69a0d8e7653abdbac3]: Commencement: Rule 3.34 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-793702fcb8b3f0fcfa7bd9538333ae6f]: Textual amendment: Words in rule 3.34 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(27)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/27/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-793702fcb8b3f0fcfa7bd9538333ae6f]: Textual amendment: Words in rule 3.34 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(27)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/27/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

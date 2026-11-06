@@ -23,10 +23,10 @@ summary: ''
 (1) This Article applies where on any day ( “the relevant day”)—
 
 - (a) a bankruptcy order is made against an individual or an interim receiver of an individual's property is appointed, or
-- (b) a voluntary arrangement proposed by an individual is approved under Chapter II of Part VIII, [^key-8143c9c8e8f0919460aeb36ddafd6137]...
-- (c)[^key-8143c9c8e8f0919460aeb36ddafd6137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a voluntary arrangement proposed by an individual is approved under Chapter II of Part VIII, [^c-8143c9c8e8f0919460aeb36ddafd6137]...
+- (c)[^c-8143c9c8e8f0919460aeb36ddafd6137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and “the office‐holder” means the official receiver, the trustee in bankruptcy, the interim receiver or[^key-1c384d56a99456bd7373c0767a2556aa], the supervisor of the voluntary arrangement [^key-b821290aa8e2d101dd860961ecda73b4]..., as the case may be.
+and “the office‐holder” means the official receiver, the trustee in bankruptcy, the interim receiver or[^c-1c384d56a99456bd7373c0767a2556aa], the supervisor of the voluntary arrangement [^c-b821290aa8e2d101dd860961ecda73b4]..., as the case may be.
 
 (2) If a request falling within paragraph (3) is made for the giving after the relevant day of any of the supplies mentioned in paragraph (4), the supplier—
 
@@ -67,11 +67,11 @@ and in this paragraph “communications services” do not include electronic co
 
 [^M_F_1b3b986e-8140-4dc7-df0b-d29d2b27e9c0]: Textual amendment: Word in art. 343 inserted (25.6.2026) by [Insolvency (Amendment) Act (Northern Ireland) 2026 (c. 6)](https://www.legislation.gov.uk/nia/2026/6), [ss. 96(7)](https://www.legislation.gov.uk/nia/2026/6/section/96/7), [120(1)](https://www.legislation.gov.uk/nia/2026/6/section/120/1)
 
-[^key-8143c9c8e8f0919460aeb36ddafd6137]: Textual amendment: [Art. 343(1)(c)](https://www.legislation.gov.uk/nisi/1989/2405/article/343/1/c) and word repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-8143c9c8e8f0919460aeb36ddafd6137]: Textual amendment: [Art. 343(1)(c)](https://www.legislation.gov.uk/nisi/1989/2405/article/343/1/c) and word repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-1c384d56a99456bd7373c0767a2556aa]: Textual amendment: Word in [art. 343(1)](https://www.legislation.gov.uk/nisi/1989/2405/article/343/1) inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2016/2/schedule/3/paragraph/13); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-1c384d56a99456bd7373c0767a2556aa]: Textual amendment: Word in [art. 343(1)](https://www.legislation.gov.uk/nisi/1989/2405/article/343/1) inserted (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2016/2/schedule/3/paragraph/13); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-b821290aa8e2d101dd860961ecda73b4]: Textual amendment: Words in [art. 343(1)](https://www.legislation.gov.uk/nisi/1989/2405/article/343/1) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-b821290aa8e2d101dd860961ecda73b4]: Textual amendment: Words in [art. 343(1)](https://www.legislation.gov.uk/nisi/1989/2405/article/343/1) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c17634641]: Textual amendment: [1992 NI 1](https://www.legislation.gov.uk/1992/ni1)
 

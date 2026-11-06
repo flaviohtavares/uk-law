@@ -22,7 +22,7 @@ summary: ''
 
 In this Measure—
 
-- “corporate joint committee” (“[^key-629613356bc2f7aa0562ee2fcc01265b]*cyd-bwyllgor corfforedig*”) means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
+- “corporate joint committee” (“[^c-629613356bc2f7aa0562ee2fcc01265b]*cyd-bwyllgor corfforedig*”) means a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
 - “**enactment**” (“***deddfiad***”) includes—
   - (a) an enactment whenever passed or made,
   - (b) an enactment contained in this Measure, and
@@ -33,4 +33,4 @@ In this Measure—
 
 ## Annotations
 
-[^key-629613356bc2f7aa0562ee2fcc01265b]: Textual amendment: Words in [s. 175](https://www.legislation.gov.uk/mwa/2011/4/section/175) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [41](https://www.legislation.gov.uk/wsi/2021/1349/regulation/41)
+[^c-629613356bc2f7aa0562ee2fcc01265b]: Textual amendment: Words in [s. 175](https://www.legislation.gov.uk/mwa/2011/4/section/175) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [41](https://www.legislation.gov.uk/wsi/2021/1349/regulation/41)

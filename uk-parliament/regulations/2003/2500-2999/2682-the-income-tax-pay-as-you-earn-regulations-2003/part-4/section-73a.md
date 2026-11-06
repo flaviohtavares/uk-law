@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73A. Amended returns of relevant payments and tax (Forms P14 and P35(RL))[^key-e3d0c5ea6cf08a822728e83253252287]
+## 73A. Amended returns of relevant payments and tax (Forms P14 and P35(RL))[^c-e3d0c5ea6cf08a822728e83253252287]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3d0c5ea6cf08a822728e83253252287]: Textual amendment: [Reg. 73A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/73A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [15](https://www.legislation.gov.uk/uksi/2007/1077/regulation/15)
+[^c-e3d0c5ea6cf08a822728e83253252287]: Textual amendment: [Reg. 73A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/73A) inserted (6.4.2007) by [The Income Tax (Pay as You Earn) (Amendment) Regulations 2007 (S.I. 2007/1077)](https://www.legislation.gov.uk/uksi/2007/1077), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1077/regulation/1), [15](https://www.legislation.gov.uk/uksi/2007/1077/regulation/15)

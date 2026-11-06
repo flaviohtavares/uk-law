@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Fixed penalty notices relating to byelaws[^key-2153003688a53b63e7321575fc1f7cc8]
+## 54. Fixed penalty notices relating to byelaws[^c-2153003688a53b63e7321575fc1f7cc8]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-2153003688a53b63e7321575fc1f7cc8]: Commencement: Art. 54 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-2153003688a53b63e7321575fc1f7cc8]: Commencement: Art. 54 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

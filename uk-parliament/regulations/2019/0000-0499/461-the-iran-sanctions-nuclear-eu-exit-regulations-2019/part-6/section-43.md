@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Finance: licensing offences[^key-13de5d4ba34da1c2e1574890f498f4fc][^key-8fc6bacdf4a50842e1d88ad69f93ad40]
+## 43. Finance: licensing offences[^c-13de5d4ba34da1c2e1574890f498f4fc][^c-8fc6bacdf4a50842e1d88ad69f93ad40]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ for the purpose of obtaining a Treasury licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-13de5d4ba34da1c2e1574890f498f4fc]: Commencement: Reg. 43 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-13de5d4ba34da1c2e1574890f498f4fc]: Commencement: Reg. 43 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-8fc6bacdf4a50842e1d88ad69f93ad40]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fc6bacdf4a50842e1d88ad69f93ad40]: Commencement: Reg. 43 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

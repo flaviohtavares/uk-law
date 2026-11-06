@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Payment of appointed representative where access to evidence restricted[^key-8d8f4f04c7e9040b9a3dcb55940d8ac8][^key-9f0863ba9ebbe9c852db8a146da18302]
+## 49. Payment of appointed representative where access to evidence restricted[^c-8d8f4f04c7e9040b9a3dcb55940d8ac8][^c-9f0863ba9ebbe9c852db8a146da18302]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d8f4f04c7e9040b9a3dcb55940d8ac8]: Commencement: S. 49 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-8d8f4f04c7e9040b9a3dcb55940d8ac8]: Commencement: S. 49 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-9f0863ba9ebbe9c852db8a146da18302]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2024/3/section/49) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)
+[^c-9f0863ba9ebbe9c852db8a146da18302]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2024/3/section/49) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(b)](https://www.legislation.gov.uk/wsi/2025/698/article/3/b)

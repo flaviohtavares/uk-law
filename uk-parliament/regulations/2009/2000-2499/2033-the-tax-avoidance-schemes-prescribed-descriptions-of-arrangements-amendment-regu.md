@@ -32,7 +32,7 @@ summary: ''
 
 Taxes
 
-The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2009 (revoked)[^key-052eb4b27e09de10e787ad02d077d8cc]
+The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2009 (revoked)[^c-052eb4b27e09de10e787ad02d077d8cc]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st September 2009
 
-[^key-052eb4b27e09de10e787ad02d077d8cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-052eb4b27e09de10e787ad02d077d8cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-052eb4b27e09de10e787ad02d077d8cc]
+## 1. Citation and commencement[^c-052eb4b27e09de10e787ad02d077d8cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2006[^key-052eb4b27e09de10e787ad02d077d8cc]
+## 2. Amendment to the Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2006[^c-052eb4b27e09de10e787ad02d077d8cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Time for providing information: transitional provisions[^key-052eb4b27e09de10e787ad02d077d8cc]
+## 3. Time for providing information: transitional provisions[^c-052eb4b27e09de10e787ad02d077d8cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-052eb4b27e09de10e787ad02d077d8cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-052eb4b27e09de10e787ad02d077d8cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-052eb4b27e09de10e787ad02d077d8cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-052eb4b27e09de10e787ad02d077d8cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-052eb4b27e09de10e787ad02d077d8cc]: Textual amendment: Regulations revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2013/2595/regulation/11)
+[^c-052eb4b27e09de10e787ad02d077d8cc]: Textual amendment: Regulations revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) (Amendment) Regulations 2013 (S.I. 2013/2595)](https://www.legislation.gov.uk/uksi/2013/2595), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2595/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2013/2595/regulation/11)

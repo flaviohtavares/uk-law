@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Funeral expenses and bereavement: cases other than road accidents[^key-4527fd834df0f4212434326f8385b5d9]
+## 138. Funeral expenses and bereavement: cases other than road accidents[^c-4527fd834df0f4212434326f8385b5d9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4527fd834df0f4212434326f8385b5d9]: Commencement: S. 138 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4527fd834df0f4212434326f8385b5d9]: Commencement: S. 138 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

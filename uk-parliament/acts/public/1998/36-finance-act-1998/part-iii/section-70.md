@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9eaa915fe232990f6add08dc4dae40da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9eaa915fe232990f6add08dc4dae40da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-9eaa915fe232990f6add08dc4dae40da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9eaa915fe232990f6add08dc4dae40da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f1fb258e622031e25294fcd4895add71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f1fb258e622031e25294fcd4895add71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a80f6a5080be5f6957b096df45c6fc65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a80f6a5080be5f6957b096df45c6fc65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9eaa915fe232990f6add08dc4dae40da]: Textual amendment: S. 70(1)(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-9eaa915fe232990f6add08dc4dae40da]: Textual amendment: S. 70(1)(2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-f1fb258e622031e25294fcd4895add71]: Textual amendment: [S. 70(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/70/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f1fb258e622031e25294fcd4895add71]: Textual amendment: [S. 70(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/70/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-a80f6a5080be5f6957b096df45c6fc65]: Textual amendment: [S. 70(4)](https://www.legislation.gov.uk/ukpga/1998/36/section/70/4) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a80f6a5080be5f6957b096df45c6fc65]: Textual amendment: [S. 70(4)](https://www.legislation.gov.uk/ukpga/1998/36/section/70/4) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

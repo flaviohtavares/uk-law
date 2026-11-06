@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Notional Capital[^key-96976e6d3533222871f5b510f0cab35f]
+## 34. Notional Capital[^c-96976e6d3533222871f5b510f0cab35f]
 
 *Extent: E+W+S*
 
@@ -30,9 +30,9 @@ summary: ''
 
 any capital which would become available to the claimant upon application being made, but which has not been acquired by him, shall be treated as possessed by him but only from the date on which it could be expected to be acquired were an application made.
 
-(3) Any payment of capital, other than a payment of capital made under the Trusts, the Fund , the Eileen Trust[^key-bf17d9082582f13cc5b97af693f2b7db] or the Independent Living Funds[^key-80841c088e171d62b79e347a22f52337], made—
+(3) Any payment of capital, other than a payment of capital made under the Trusts, the Fund , the Eileen Trust[^c-bf17d9082582f13cc5b97af693f2b7db] or the Independent Living Funds[^c-80841c088e171d62b79e347a22f52337], made—
 
-- (a) to a third party in respect of a single claimant or in respect of a member of the family (but not a member of the third party’s family) shall be treated as possessed by that single claimant or by that member to the extent that it is used for the food, ordinary clothing or footwear, household fuel or, rent[^key-31eaef3a44dc080a80a23169633482c9] of that single claimant or, as the case may be, of any member of that family or is used for any council tax, or water charges for which that claimant or member is liable;
+- (a) to a third party in respect of a single claimant or in respect of a member of the family (but not a member of the third party’s family) shall be treated as possessed by that single claimant or by that member to the extent that it is used for the food, ordinary clothing or footwear, household fuel or, rent[^c-31eaef3a44dc080a80a23169633482c9] of that single claimant or, as the case may be, of any member of that family or is used for any council tax, or water charges for which that claimant or member is liable;
 - (b) to a single claimant or a member of the family in respect of a third party (but not in respect of another member of that family) shall be treated as possessed by that single claimant or, as the case may be, that member of the family to the extent that it is kept or used by him by or on behalf of any member of the family.
 
 (4) Where a claimant stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, he may be treated as if he were such sole owner or partner and in such a case—
@@ -48,10 +48,10 @@ any capital which would become available to the claimant upon application being 
 
 ## Annotations
 
-[^key-96976e6d3533222871f5b510f0cab35f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-96976e6d3533222871f5b510f0cab35f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-bf17d9082582f13cc5b97af693f2b7db]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/3/c/made)
+[^c-bf17d9082582f13cc5b97af693f2b7db]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) inserted (14.5.1993) by [The Income-related Benefits Schemes and Social Security (Recoupment) Amendment Regulations 1993 (S.I. 1993/1249)](https://www.legislation.gov.uk/uksi/1993/1249), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/1/1/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/1993/1249/regulation/6/3/c/made)
 
-[^key-80841c088e171d62b79e347a22f52337]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)
+[^c-80841c088e171d62b79e347a22f52337]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) substituted (22.4.1993) by [The Social Security Benefits (Miscellaneous Amendments) (No. 2) Regulations 1993 (S.I. 1993/963)](https://www.legislation.gov.uk/uksi/1993/963), [regs. 1](https://www.legislation.gov.uk/uksi/1993/963/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/3/made)[(4)](https://www.legislation.gov.uk/uksi/1993/963/regulation/5/4/made)
 
-[^key-31eaef3a44dc080a80a23169633482c9]: Textual amendment: Word in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/1993/688/regulation/10)
+[^c-31eaef3a44dc080a80a23169633482c9]: Textual amendment: Word in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/34/3) substituted (1.4.1993 immediately after art. 20 of S.I. 1993/349 comes into force) by [The Council Tax Benefit (General) Amendment Regulations 1993 (S.I. 1993/688)](https://www.legislation.gov.uk/uksi/1993/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/688/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/1993/688/regulation/10)

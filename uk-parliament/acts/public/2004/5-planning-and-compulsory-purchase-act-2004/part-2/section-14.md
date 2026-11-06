@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Survey of area: minerals and waste planning authorities and county councils[^key-f51cd4c15e54f74c6741ac5680a53b3a]
+## 14. Survey of area: minerals and waste planning authorities and county councils[^c-f51cd4c15e54f74c6741ac5680a53b3a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f51cd4c15e54f74c6741ac5680a53b3a]: Textual amendment: S. 14 substituted (25.3.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/8/paragraph/18) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(f)(v)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/f/v) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-f51cd4c15e54f74c6741ac5680a53b3a]: Textual amendment: S. 14 substituted (25.3.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b), [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2023/55/schedule/8/paragraph/18) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(f)(v)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/f/v) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

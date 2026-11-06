@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269. Article 11 of Commission Implementing Regulation (EU) No 1206/2011[^key-875b816e40379bf2d1294acc8822a67e]
+## 269. Article 11 of Commission Implementing Regulation (EU) No 1206/2011[^c-875b816e40379bf2d1294acc8822a67e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 11 (exemptions).
 
 ## Annotations
 
-[^key-875b816e40379bf2d1294acc8822a67e]: Commencement: Reg. 269 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-875b816e40379bf2d1294acc8822a67e]: Commencement: Reg. 269 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

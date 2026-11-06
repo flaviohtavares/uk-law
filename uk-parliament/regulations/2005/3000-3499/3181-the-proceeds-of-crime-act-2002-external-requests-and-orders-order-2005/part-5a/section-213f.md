@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213F. Report on exercise of powers[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213F. Report on exercise of powers[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,10 +37,10 @@ summary: ''
 
 (7) The Scottish Ministers must lay a copy of any report they receive under this article before the Scottish Parliament and arrange for it to be published.
 
-(8)[^key-b2647b7df5b6afe7c23c178856fb138b] The Department of Justice must lay a copy of any report it receives under this article before the Northern Ireland Assembly and arrange for it to be published.
+(8)[^c-b2647b7df5b6afe7c23c178856fb138b] The Department of Justice must lay a copy of any report it receives under this article before the Northern Ireland Assembly and arrange for it to be published.
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-b2647b7df5b6afe7c23c178856fb138b]: Textual amendment: [Art. 213F(8)](https://www.legislation.gov.uk/uksi/2005/3181/article/213F/8) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [13](https://www.legislation.gov.uk/uksi/2024/1127/article/13)
+[^c-b2647b7df5b6afe7c23c178856fb138b]: Textual amendment: [Art. 213F(8)](https://www.legislation.gov.uk/uksi/2005/3181/article/213F/8) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [13](https://www.legislation.gov.uk/uksi/2024/1127/article/13)

@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (Wales) Order 2018 (revoked)[^key-456b7ab49b85685e200868e49bce993e]
+The Ecclesiastical Exemption (Listed Buildings and Conservation Areas) (Wales) Order 2018 (revoked)[^c-456b7ab49b85685e200868e49bce993e]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1 January 2019
 
-[^key-456b7ab49b85685e200868e49bce993e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-456b7ab49b85685e200868e49bce993e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and supplementary provision[^key-456b7ab49b85685e200868e49bce993e]
+## 1. Title, commencement, application and supplementary provision[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-456b7ab49b85685e200868e49bce993e]
+## 2. Interpretation[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exclusion of listed buildings ecclesiastical exemption[^key-456b7ab49b85685e200868e49bce993e]
+## 3. Exclusion of listed buildings ecclesiastical exemption[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Buildings retaining listed buildings ecclesiastical exemption[^key-456b7ab49b85685e200868e49bce993e]
+## 4. Buildings retaining listed buildings ecclesiastical exemption[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exclusion of conservation area consent exemption[^key-456b7ab49b85685e200868e49bce993e]
+## 5. Exclusion of conservation area consent exemption[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provisions: objects and structures within curtilage[^key-456b7ab49b85685e200868e49bce993e]
+## 6. Transitional provisions: objects and structures within curtilage[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 1994[^key-456b7ab49b85685e200868e49bce993e]
+## 7. Revocation of the Ecclesiastical Exemption (Listed Buildings and Conservation Areas) Order 1994[^c-456b7ab49b85685e200868e49bce993e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-456b7ab49b85685e200868e49bce993e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-456b7ab49b85685e200868e49bce993e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-456b7ab49b85685e200868e49bce993e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-456b7ab49b85685e200868e49bce993e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-456b7ab49b85685e200868e49bce993e]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2018/1087) revoked (4.11.2024) by [The Listed Buildings (Exempt Religious Buildings) (Wales) Regulations 2024 (S.I. 2024/927)](https://www.legislation.gov.uk/wsi/2024/927), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/927/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2024/927/regulation/3)
+[^c-456b7ab49b85685e200868e49bce993e]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2018/1087) revoked (4.11.2024) by [The Listed Buildings (Exempt Religious Buildings) (Wales) Regulations 2024 (S.I. 2024/927)](https://www.legislation.gov.uk/wsi/2024/927), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/927/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2024/927/regulation/3)

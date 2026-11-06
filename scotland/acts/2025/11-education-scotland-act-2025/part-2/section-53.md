@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Duty to provide assistance[^key-ca6fdb92de81c4c062d21841ec4bc070][^key-367bb255ed92275d74393b0d35f068ca]
+## 53. Duty to provide assistance[^c-ca6fdb92de81c4c062d21841ec4bc070][^c-367bb255ed92275d74393b0d35f068ca]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca6fdb92de81c4c062d21841ec4bc070]: Commencement: S. 53 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-ca6fdb92de81c4c062d21841ec4bc070]: Commencement: S. 53 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-367bb255ed92275d74393b0d35f068ca]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2025/11/section/53) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-367bb255ed92275d74393b0d35f068ca]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2025/11/section/53) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

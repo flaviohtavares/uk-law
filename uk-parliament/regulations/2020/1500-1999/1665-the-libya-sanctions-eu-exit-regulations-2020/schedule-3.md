@@ -24,7 +24,7 @@ Regulation 32
 
 ### PART 1 — General
 
-#### 1. Definitions[^key-879402b293e0ad88ec10b4c9498bab61]
+#### 1. Definitions[^c-879402b293e0ad88ec10b4c9498bab61]
 
 (1) For the purposes of this Schedule—
 
@@ -45,7 +45,7 @@ Regulation 32
 
 ### PART 2 — Goods which could be used for migrant smuggling and human trafficking subject to trade prohibitions
 
-**2.**[^key-c84649072bb47111e90ee35cb2b8ad88] For the purposes of regulation 32, “**goods which could be used for migrant smuggling and human trafficking**” means any thing which falls within the following commodity codes—
+**2.**[^c-c84649072bb47111e90ee35cb2b8ad88] For the purposes of regulation 32, “**goods which could be used for migrant smuggling and human trafficking**” means any thing which falls within the following commodity codes—
 
 - (a) 8407 21;
 - (b) ex 8408 10, provided that it is an outboard motor for marine propulsion with a compression ignition;
@@ -56,7 +56,7 @@ Regulation 32
 
 ## Annotations
 
-[^key-879402b293e0ad88ec10b4c9498bab61]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-879402b293e0ad88ec10b4c9498bab61]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day, see reg. 1(3)
 
 [^c24412251]: Marginal citation: The Tariff of the United Kingdom, Version 1.0 dated 8 December 2020 is available electronically from:
 
@@ -66,4 +66,4 @@ Regulation 32
 
 [^c24412261]: Marginal citation: 2018 ch.22.
 
-[^key-c84649072bb47111e90ee35cb2b8ad88]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day, see reg. 1(3)
+[^c-c84649072bb47111e90ee35cb2b8ad88]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day, see reg. 1(3)

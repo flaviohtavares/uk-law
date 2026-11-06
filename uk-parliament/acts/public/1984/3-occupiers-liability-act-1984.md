@@ -35,7 +35,7 @@ An Act to amend the law of England and Wales as to the liability of persons as o
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Duty of occupier to persons other than his visitors.[^key-9f63a361af98d6ee7a801bf16424f25d]
+## 1. Duty of occupier to persons other than his visitors.[^c-9f63a361af98d6ee7a801bf16424f25d]
 
 (1) The rules enacted by this section shall have effect, in place of the rules of the common law, to determine —
 
@@ -64,7 +64,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) a risk resulting from the existence of any natural feature of the landscape, or any river, stream, ditch or pond whether or not a natural feature, or
 - (b) a risk of that person suffering injury when passing over, under or through any wall, fence or gate, except by proper use of the gate or of a stile.
 
-(6AA)[^key-a9b2e74998ac0686d0716f7d1533c536] Where the land is coastal margin for the purposes of Part 1 of that Act (including any land treated as coastal margin by virtue of section 16 of that Act), subsection (6A) has effect as if for paragraphs (a) and (b) of that subsection there were substituted “ a risk resulting from the existence of any physical feature (whether of the landscape or otherwise). ”
+(6AA)[^c-a9b2e74998ac0686d0716f7d1533c536] Where the land is coastal margin for the purposes of Part 1 of that Act (including any land treated as coastal margin by virtue of section 16 of that Act), subsection (6A) has effect as if for paragraphs (a) and (b) of that subsection there were substituted “ a risk resulting from the existence of any physical feature (whether of the landscape or otherwise). ”
 
 (6B) For the purposes of subsection (6A) above, any plant, shrub or tree, of whatever origin, is to be regarded as a natural feature of the landscape.
 
@@ -113,11 +113,11 @@ Section 1 of this Act shall bind the Crown, but as regards the Crown’s liabili
 
 ## Annotations
 
-[^key-9f63a361af98d6ee7a801bf16424f25d]: Textual amendment: S. 1(6A)-(6C) inserted (19.9.2004 for E., 28.5.2005 for W.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/13/2), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3) (with [s. 43](https://www.legislation.gov.uk/ukpga/2000/37/section/43)); [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/c); [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/423/article/2/c)
+[^c-9f63a361af98d6ee7a801bf16424f25d]: Textual amendment: S. 1(6A)-(6C) inserted (19.9.2004 for E., 28.5.2005 for W.) by [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/13/2), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3) (with [s. 43](https://www.legislation.gov.uk/ukpga/2000/37/section/43)); [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/c); [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/423/article/2/c)
 
 [^c757630]: Marginal citation: [1957 c.31](https://www.legislation.gov.uk/ukpga/1957/31).
 
-[^key-a9b2e74998ac0686d0716f7d1533c536]: Textual amendment: [S. 1(6AA)](https://www.legislation.gov.uk/ukpga/1984/3/section/1/6AA) inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 306](https://www.legislation.gov.uk/ukpga/2009/23/section/306), [324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-a9b2e74998ac0686d0716f7d1533c536]: Textual amendment: [S. 1(6AA)](https://www.legislation.gov.uk/ukpga/1984/3/section/1/6AA) inserted (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 306](https://www.legislation.gov.uk/ukpga/2009/23/section/306), [324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
 
 [^c757633]: Textual amendment: S. 1A inserted (19.9.2004 for E.) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/13/3), [103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3) (with [s. 43](https://www.legislation.gov.uk/ukpga/2000/37/section/43)); S.I. 2004/2173, art. 2(1)(c)
 

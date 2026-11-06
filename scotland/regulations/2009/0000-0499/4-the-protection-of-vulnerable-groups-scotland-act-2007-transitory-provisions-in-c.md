@@ -34,7 +34,7 @@ CHILDREN AND YOUNG PERSONS
 
 PROTECTION OF VULNERABLE ADULTS
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Transitory Provisions in Consequence of the Safeguarding Vulnerable Groups Act 2006) Order 2009 (revoked)[^key-45bc6517865ffcbe89451e0e80bd609e]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Transitory Provisions in Consequence of the Safeguarding Vulnerable Groups Act 2006) Order 2009 (revoked)[^c-45bc6517865ffcbe89451e0e80bd609e]
 
 Made
 
@@ -46,36 +46,36 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-45bc6517865ffcbe89451e0e80bd609e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45bc6517865ffcbe89451e0e80bd609e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45bc6517865ffcbe89451e0e80bd609e]
+## 1. Citation and commencement[^c-45bc6517865ffcbe89451e0e80bd609e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-45bc6517865ffcbe89451e0e80bd609e]
+## 2. Interpretation[^c-45bc6517865ffcbe89451e0e80bd609e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Effect of the Order[^key-45bc6517865ffcbe89451e0e80bd609e]
+## 3. Effect of the Order[^c-45bc6517865ffcbe89451e0e80bd609e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Effect of listing by the IBB – children’s barred list[^key-45bc6517865ffcbe89451e0e80bd609e]
+## 4. Effect of listing by the IBB – children’s barred list[^c-45bc6517865ffcbe89451e0e80bd609e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Effect of listing by the IBB – adults' barred list[^key-45bc6517865ffcbe89451e0e80bd609e]
+## 5. Effect of listing by the IBB – adults' barred list[^c-45bc6517865ffcbe89451e0e80bd609e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45bc6517865ffcbe89451e0e80bd609e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45bc6517865ffcbe89451e0e80bd609e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45bc6517865ffcbe89451e0e80bd609e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45bc6517865ffcbe89451e0e80bd609e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45bc6517865ffcbe89451e0e80bd609e]: Textual amendment: Order revoked (12.10.2009) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Transitory Provisions in Consequence of the Safeguarding Vulnerable Groups Act 2006) (No. 2) Order 2009 (S.S.I. 2009/337)](https://www.legislation.gov.uk/ssi/2009/337), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/337/article/1/2), [6](https://www.legislation.gov.uk/ssi/2009/337/article/6) (with [art. 2](https://www.legislation.gov.uk/ssi/2009/337/article/2))
+[^c-45bc6517865ffcbe89451e0e80bd609e]: Textual amendment: Order revoked (12.10.2009) by [The Protection of Vulnerable Groups (Scotland) Act 2007 (Transitory Provisions in Consequence of the Safeguarding Vulnerable Groups Act 2006) (No. 2) Order 2009 (S.S.I. 2009/337)](https://www.legislation.gov.uk/ssi/2009/337), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/337/article/1/2), [6](https://www.legislation.gov.uk/ssi/2009/337/article/6) (with [art. 2](https://www.legislation.gov.uk/ssi/2009/337/article/2))

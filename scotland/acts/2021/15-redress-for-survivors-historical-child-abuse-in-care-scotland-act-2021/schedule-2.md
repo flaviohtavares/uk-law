@@ -26,7 +26,7 @@ summary: ''
 
 #### Confidentiality and disclosure of information
 
-**1.**[^key-7cc3d9b1f8ed31ad372d004ff358e707] (1) This sub-paragraph applies to—
+**1.**[^c-7cc3d9b1f8ed31ad372d004ff358e707] (1) This sub-paragraph applies to—
 
 - (a) the Mental Welfare Commission for Scotland (“**the Commission**”),
 - (b) a person who is or has been a member of the Commission,
@@ -54,7 +54,7 @@ summary: ''
 
 #### Public records
 
-**2.**[^key-6fa731d7398e16232a6753a0dcc87d10] Section 1 of the Public Records (Scotland) Act 2011 (records management plans) is to be read as if after subsection (8) there were inserted—
+**2.**[^c-6fa731d7398e16232a6753a0dcc87d10] Section 1 of the Public Records (Scotland) Act 2011 (records management plans) is to be read as if after subsection (8) there were inserted—
 
 > (8A) The Mental Welfare Commission for Scotland must continue to have a separate records management plan for the public records created in carrying out the National Confidential Forum's functions prior to its dissolution under section 103 of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021.
 
@@ -64,13 +64,13 @@ summary: ''
 
 #### Public Appointments and Public Bodies etc. (Scotland) Act 2003
 
-**3.**[^key-2aeba8c3da64ec27e19bb76a7a761a13] (1) The Public Appointments and Public Bodies etc. (Scotland) Act 2003 is amended as follows.
+**3.**[^c-2aeba8c3da64ec27e19bb76a7a761a13] (1) The Public Appointments and Public Bodies etc. (Scotland) Act 2003 is amended as follows.
 
 (2) In schedule 2, under the heading “Offices”, the words “NCF Head and any other member of the National Confidential Forum established under section 4ZA(1) of the Mental Health (Care and Treatment) (Scotland) Act 2003” are repealed.
 
 #### Mental Health (Care and Treatment) (Scotland) Act 2003
 
-**4.**[^key-d610a4215e48fab001909a12facf7767] (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
+**4.**[^c-d610a4215e48fab001909a12facf7767] (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
 (2) Sections 4ZA to 4ZD are repealed.
 
@@ -85,32 +85,32 @@ summary: ''
 
 #### Victims and Witnesses (Scotland) Act 2014
 
-**5.**[^key-f3f3b31518f58282b3783f1131bac506] (1) The Victims and Witnesses (Scotland) Act 2014 is amended as follows.
+**5.**[^c-f3f3b31518f58282b3783f1131bac506] (1) The Victims and Witnesses (Scotland) Act 2014 is amended as follows.
 
 (2) Sections 30 and 31 are repealed, together with the italic heading immediately preceding section 30.
 
 #### National Confidential Forum (Prescribed Care and Health Services) (Scotland) Order 2014
 
-**6.**[^key-5cff610b3c5a8b01d4d44b5766c45d4e] The National Confidential Forum (Prescribed Care and Health Services) (Scotland) Order 2014 (S.S.I. 2014/193) is revoked.
+**6.**[^c-5cff610b3c5a8b01d4d44b5766c45d4e] The National Confidential Forum (Prescribed Care and Health Services) (Scotland) Order 2014 (S.S.I. 2014/193) is revoked.
 
 #### Gender Representation on Public Boards (Scotland) Act 2018
 
-**7.**[^key-8b81a0bceeb8ec6a8999fdf329c8092a] (1) The Gender Representation on Public Boards (Scotland) Act 2018 is amended as follows.
+**7.**[^c-8b81a0bceeb8ec6a8999fdf329c8092a] (1) The Gender Representation on Public Boards (Scotland) Act 2018 is amended as follows.
 
 (2) In schedule 1, the entry relating to the National Confidential Forum is repealed.
 
 ## Annotations
 
-[^key-7cc3d9b1f8ed31ad372d004ff358e707]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/1) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-7cc3d9b1f8ed31ad372d004ff358e707]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/1) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-6fa731d7398e16232a6753a0dcc87d10]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/2) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-6fa731d7398e16232a6753a0dcc87d10]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/2) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-2aeba8c3da64ec27e19bb76a7a761a13]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/3) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-2aeba8c3da64ec27e19bb76a7a761a13]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/3) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-d610a4215e48fab001909a12facf7767]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/4) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-d610a4215e48fab001909a12facf7767]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/4) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-f3f3b31518f58282b3783f1131bac506]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/5) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-f3f3b31518f58282b3783f1131bac506]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/5) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-5cff610b3c5a8b01d4d44b5766c45d4e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/6) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-5cff610b3c5a8b01d4d44b5766c45d4e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/6) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-8b81a0bceeb8ec6a8999fdf329c8092a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/7) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-8b81a0bceeb8ec6a8999fdf329c8092a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2021/15/schedule/2/paragraph/7) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 457. Charge on other chargeable benefits from shares[^key-3250657501bec4226add811a14804a66]
+## 457. Charge on other chargeable benefits from shares[^c-3250657501bec4226add811a14804a66]
 
 *Extent: E+W+S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 457. Meaning of “research institution”[^key-911694f7a116b4ae42e643374e945ec1]
+## 457. Meaning of “research institution”[^c-911694f7a116b4ae42e643374e945ec1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a)[^M_F_5f486efe-ce79-4d20-8689-377daae3dc99] any university or other institution receiving a grant (including a recurrent grant towards its costs), loan, financial support, financial assistance, financial resources or payment under—
   - (i) section 65 of the Further and Higher Education Act 1992,
   - (ii) regulations made under section 485 of the Education Act 1996,
-  - (iii)[^key-b1d2eb3a6ff95468f4b2d49ac154af2c] section 92, 97, 103 or 104(1)(a) of the Tertiary Education and Research (Wales) Act 2022, ignoring for this purpose any grant, loan, financial support, financial assistance, financial resources or payment received as a collaborating body within the meaning given by section 92(5), 97(3) or 104(2) of that Act, as the case may be,
+  - (iii)[^c-b1d2eb3a6ff95468f4b2d49ac154af2c] section 92, 97, 103 or 104(1)(a) of the Tertiary Education and Research (Wales) Act 2022, ignoring for this purpose any grant, loan, financial support, financial assistance, financial resources or payment received as a collaborating body within the meaning given by section 92(5), 97(3) or 104(2) of that Act, as the case may be,
   - (iv) section 14 of the Education Act 2002,
   - (v) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) section 100 of the Apprenticeships, Skills, Children and Learning Act 2009, or
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3250657501bec4226add811a14804a66]: Textual amendment: Pt. 7 Ch. 4 (ss. 447-450) substituted for Pt. 7 Ch. 4 (ss. 447-470) (16.4.2003 with effect in accordance with Sch. 22 para. 9(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 9(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/9/1)
+[^c-3250657501bec4226add811a14804a66]: Textual amendment: Pt. 7 Ch. 4 (ss. 447-450) substituted for Pt. 7 Ch. 4 (ss. 447-470) (16.4.2003 with effect in accordance with Sch. 22 para. 9(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 9(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/9/1)
 
-[^key-911694f7a116b4ae42e643374e945ec1]: Textual amendment: Pt. 7 Ch. 4A inserted (with effect in accordance with s. 20(5)-(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2005/7/section/20/1)
+[^c-911694f7a116b4ae42e643374e945ec1]: Textual amendment: Pt. 7 Ch. 4A inserted (with effect in accordance with s. 20(5)-(7) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2005/7/section/20/1)
 
 [^M_F_5f486efe-ce79-4d20-8689-377daae3dc99]: Textual amendment: S. 457(1)(a)-(ag) substituted for s. 457(1)(a) (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/1027/regulation/9)
 
-[^key-b1d2eb3a6ff95468f4b2d49ac154af2c]: Textual amendment: S. 457(1)(a)(iii) substituted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/358/article/3/2/a)
+[^c-b1d2eb3a6ff95468f4b2d49ac154af2c]: Textual amendment: S. 457(1)(a)(iii) substituted (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Order 2026 (S.I. 2026/358)](https://www.legislation.gov.uk/uksi/2026/358), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/358/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2026/358/article/3/2/a)

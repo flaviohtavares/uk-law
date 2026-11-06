@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Designation) Order 2014 (revoked)[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+The European Communities (Designation) Order 2014 (revoked)[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 Made
 
@@ -52,42 +52,42 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-05b591d39c1442dfe66d1a9e081ff5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05b591d39c1442dfe66d1a9e081ff5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and interpretation[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+## 1. Citation and interpretation[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to the re-use of public sector information[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+## 2. Designation in relation to the re-use of public sector information[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to consumer credit[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+## 3. Designation in relation to consumer credit[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of existing designations[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+## 4. Revocation of existing designations[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Relationship with other designations[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+## 5. Relationship with other designations[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05b591d39c1442dfe66d1a9e081ff5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05b591d39c1442dfe66d1a9e081ff5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATION OF DESIGNATIONS[^key-05b591d39c1442dfe66d1a9e081ff5ea]
+## SCHEDULE — REVOCATION OF DESIGNATIONS[^c-05b591d39c1442dfe66d1a9e081ff5ea]
 
 Article 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05b591d39c1442dfe66d1a9e081ff5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05b591d39c1442dfe66d1a9e081ff5ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05b591d39c1442dfe66d1a9e081ff5ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1362) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05b591d39c1442dfe66d1a9e081ff5ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1362) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

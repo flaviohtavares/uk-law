@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the welfare benefit is universal credit, the amount to be used is the amount to which the claimant is entitled before any reduction under regulation 81 or under Article 31 or 32 of the Order.
 
-(2A)[^key-e546908d4e41176dbcb90554c54e4042] Where the welfare benefit is housing benefit under section 129 of the Contributions and Benefits Act, the amount to be used is nil.
+(2A)[^c-e546908d4e41176dbcb90554c54e4042] Where the welfare benefit is housing benefit under section 129 of the Contributions and Benefits Act, the amount to be used is nil.
 
 (3) Where a person is disqualified for receiving an employment and support allowance by virtue of section 18 of the Welfare Reform Act (Northern Ireland) 2007, it is disregarded as a welfare benefit.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e546908d4e41176dbcb90554c54e4042]: Textual amendment: Reg. 80(2A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/3)
+[^c-e546908d4e41176dbcb90554c54e4042]: Textual amendment: Reg. 80(2A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/3)

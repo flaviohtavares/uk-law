@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Port licences[^key-7f30326fcf42dfa40b742f6901e5c1e6]
+## 50. Port licences[^c-7f30326fcf42dfa40b742f6901e5c1e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in regulation 36 (port access or entry for UN designated ships)
 
 ## Annotations
 
-[^key-7f30326fcf42dfa40b742f6901e5c1e6]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-7f30326fcf42dfa40b742f6901e5c1e6]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

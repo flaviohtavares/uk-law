@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Transactions entered into before completion of contract[^key-6412741bd45f8208391f9944b9e956b9]
+## SCHEDULE 2A — Transactions entered into before completion of contract[^c-6412741bd45f8208391f9944b9e956b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -490,4 +490,4 @@ References in this paragraph to a person connected with a relevant party do not 
 
 ## Annotations
 
-[^key-6412741bd45f8208391f9944b9e956b9]: Textual amendment: Sch. 2A inserted (with effect in accordance with Sch. 39 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 39 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/39/paragraph/3)
+[^c-6412741bd45f8208391f9944b9e956b9]: Textual amendment: Sch. 2A inserted (with effect in accordance with Sch. 39 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 39 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/39/paragraph/3)

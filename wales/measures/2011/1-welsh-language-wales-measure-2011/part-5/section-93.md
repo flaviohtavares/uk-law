@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Consideration of whether to investigate if conduct complained about[^key-a224ab05dae340f46a8958dcaea24e05]
+## 93. Consideration of whether to investigate if conduct complained about[^c-a224ab05dae340f46a8958dcaea24e05]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a224ab05dae340f46a8958dcaea24e05]: Commencement: [S. 93](https://www.legislation.gov.uk/mwa/2011/1/section/93) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-a224ab05dae340f46a8958dcaea24e05]: Commencement: [S. 93](https://www.legislation.gov.uk/mwa/2011/1/section/93) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

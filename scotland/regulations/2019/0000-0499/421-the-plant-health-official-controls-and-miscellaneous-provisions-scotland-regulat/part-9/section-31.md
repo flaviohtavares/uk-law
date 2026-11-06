@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Information notices[^key-8c185c706687c144da83261b1edf46c3]
+## 31. Information notices[^c-8c185c706687c144da83261b1edf46c3]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) The time within which the information is required to be given to the plant health inspector or other officer must be reasonable.
 
-(3) An appropriate person must produce for examination by the plant health inspector or other officer any authorisation, official statement, certificate, plant passport, Northern Ireland plant health label,[^key-f05dc623c3880392380fd4e31333b1a6] record, invoice or other document relating to a plant pest or any plant, plant product or other object specified in the notice.
+(3) An appropriate person must produce for examination by the plant health inspector or other officer any authorisation, official statement, certificate, plant passport, Northern Ireland plant health label,[^c-f05dc623c3880392380fd4e31333b1a6] record, invoice or other document relating to a plant pest or any plant, plant product or other object specified in the notice.
 
 (4) In this regulation, “**appropriate person**” means—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c185c706687c144da83261b1edf46c3]: Commencement: Reg. 31 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-8c185c706687c144da83261b1edf46c3]: Commencement: Reg. 31 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
-[^key-f05dc623c3880392380fd4e31333b1a6]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/ssi/2019/421/regulation/31/3) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/5)
+[^c-f05dc623c3880392380fd4e31333b1a6]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/ssi/2019/421/regulation/31/3) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/5)

@@ -27,7 +27,7 @@ summary: ''
 - (c) arrangements for the disposal of, or of a substantial amount (in terms of value) of, the assets of the issuing company or of a person connected with that company, or
 - (d) arrangements the main purpose or one of the main purposes of which is (by means of any insurance, indemnity or guarantee or otherwise) to provide partial or complete protection for persons investing in shares in the issuing company against what would otherwise be the risks attached to making the investment.
 
-(2)[^key-73cf958cecd2fa2d54c865f8d81063d2] The arrangements referred to in subsection (1)(a) do not include—
+(2)[^c-73cf958cecd2fa2d54c865f8d81063d2] The arrangements referred to in subsection (1)(a) do not include—
 
 - (a) any arrangements with a view to such an exchange of shares, or shares and securities, as is mentioned in section 247(1), or
 - (b) any arrangements with a view to any shares in the issuing company being exchanged for, or converted into, shares in that company of a different class.
@@ -51,4 +51,4 @@ of any such protection against the risks arising in the course of carrying on it
 
 ## Annotations
 
-[^key-73cf958cecd2fa2d54c865f8d81063d2]: Textual amendment: [S. 177(2)](https://www.legislation.gov.uk/ukpga/2007/3/section/177/2) substituted (with effect in accordance with s. 11(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/11/2)
+[^c-73cf958cecd2fa2d54c865f8d81063d2]: Textual amendment: [S. 177(2)](https://www.legislation.gov.uk/ukpga/2007/3/section/177/2) substituted (with effect in accordance with s. 11(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/11/2)

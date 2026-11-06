@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Post-award referrals[^key-8fe57f73a046af4b143a4f0a1cf427aa][^key-b2879c230116a94a2a00eba998eebf01]
+## 60. Post-award referrals[^c-8fe57f73a046af4b143a4f0a1cf427aa][^c-b2879c230116a94a2a00eba998eebf01]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe57f73a046af4b143a4f0a1cf427aa]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-8fe57f73a046af4b143a4f0a1cf427aa]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-b2879c230116a94a2a00eba998eebf01]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/23/section/60) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-b2879c230116a94a2a00eba998eebf01]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/23/section/60) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

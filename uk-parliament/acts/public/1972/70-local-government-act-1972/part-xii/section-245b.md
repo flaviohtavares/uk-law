@@ -40,7 +40,7 @@ summary: ''
 
 (7) On the passing of a resolution under subsection (6) above, the community shall cease to have the status of a town.
 
-(7A)[^key-b17cf38dedc610a79f03a3076bd103eb] The community council must give notice electronically in writing of any resolution passed under subsection (1) or (6) to the following bodies—
+(7A)[^c-b17cf38dedc610a79f03a3076bd103eb] The community council must give notice electronically in writing of any resolution passed under subsection (1) or (6) to the following bodies—
 
 - (a) the Welsh Ministers,
 - (b) the principal council for the area in which the community is situated, and
@@ -54,4 +54,4 @@ summary: ''
 
 [^c15126101]: Textual amendment: S. 245B inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 16](https://www.legislation.gov.uk/ukpga/1994/19/section/16) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/3198](https://www.legislation.gov.uk/uksi/1995/3198), [art. 3](https://www.legislation.gov.uk/uksi/1995/3198/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/3198/schedule/1)
 
-[^key-b17cf38dedc610a79f03a3076bd103eb]: Textual amendment: [S. 245B(7A)](https://www.legislation.gov.uk/ukpga/1972/70/section/245B/7A) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 52(2)](https://www.legislation.gov.uk/asc/2024/5/section/52/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-b17cf38dedc610a79f03a3076bd103eb]: Textual amendment: [S. 245B(7A)](https://www.legislation.gov.uk/ukpga/1972/70/section/245B/7A) inserted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 52(2)](https://www.legislation.gov.uk/asc/2024/5/section/52/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

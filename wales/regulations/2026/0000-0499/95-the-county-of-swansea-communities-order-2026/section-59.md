@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Creation of the new community ward of Ilston[^key-be3ee283ab0977fd8aac00cce53ae9ce]
+## 59. Creation of the new community ward of Ilston[^c-be3ee283ab0977fd8aac00cce53ae9ce]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Pennard which is to be known
 
 ## Annotations
 
-[^key-be3ee283ab0977fd8aac00cce53ae9ce]: Commencement: [Art. 59](https://www.legislation.gov.uk/wsi/2026/95/article/59) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-be3ee283ab0977fd8aac00cce53ae9ce]: Commencement: [Art. 59](https://www.legislation.gov.uk/wsi/2026/95/article/59) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Other reports to the service provider[^key-c7f6b0b058c870056c2f3fa8d48e34b2]
+## 58. Other reports to the service provider[^c-c7f6b0b058c870056c2f3fa8d48e34b2]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f6b0b058c870056c2f3fa8d48e34b2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2019/169/regulation/58) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-c7f6b0b058c870056c2f3fa8d48e34b2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2019/169/regulation/58) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

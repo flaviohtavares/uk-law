@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Monitoring and reporting of official statistics[^key-95644ab8531a336e10267ada0e9ba2d2]
+## 8. Monitoring and reporting of official statistics[^c-95644ab8531a336e10267ada0e9ba2d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ to the person responsible for those statistics.
 
 ## Annotations
 
-[^key-95644ab8531a336e10267ada0e9ba2d2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/18/section/8) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-95644ab8531a336e10267ada0e9ba2d2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/18/section/8) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

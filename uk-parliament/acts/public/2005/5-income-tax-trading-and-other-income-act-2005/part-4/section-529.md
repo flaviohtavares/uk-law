@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 529. Exceptions to section 528[^key-3f7d7c9743908cecd19261d05f740483]
+## 529. Exceptions to section 528[^c-3f7d7c9743908cecd19261d05f740483]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f7d7c9743908cecd19261d05f740483]: Textual amendment: S. 529 omitted (with effect in accordance with Sch. 8 para. 7 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/4)
+[^c-3f7d7c9743908cecd19261d05f740483]: Textual amendment: S. 529 omitted (with effect in accordance with Sch. 8 para. 7 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/8/paragraph/4)

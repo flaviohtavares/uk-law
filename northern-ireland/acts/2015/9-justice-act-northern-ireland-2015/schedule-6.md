@@ -24,15 +24,15 @@ Section 96.
 
 ### The Law Reform (Year and a Day Rule) Act 1996 (c. 19)
 
-**1.**[^key-8042b4221d400182c701f87e0872df39] In section 2 (restriction on institution of proceedings for fatal offence) in subsection (3)(c) for “(causing or allowing the death of a child or vulnerable adult)” substitute “ of causing or allowing the death of a child or vulnerable adult ”.
+**1.**[^c-8042b4221d400182c701f87e0872df39] In section 2 (restriction on institution of proceedings for fatal offence) in subsection (3)(c) for “(causing or allowing the death of a child or vulnerable adult)” substitute “ of causing or allowing the death of a child or vulnerable adult ”.
 
 ### The Sexual Offences Act 2003 (c. 42)
 
-**2.**[^key-769993c991d0350315f63e4aea80fbe3] In Schedule 5 (offences for purposes of making sexual offences prevention orders) in paragraph 171A for “the death of a child or vulnerable adult” substitute “ a child or vulnerable adult to die or suffer serious physical harm ”.
+**2.**[^c-769993c991d0350315f63e4aea80fbe3] In Schedule 5 (offences for purposes of making sexual offences prevention orders) in paragraph 171A for “the death of a child or vulnerable adult” substitute “ a child or vulnerable adult to die or suffer serious physical harm ”.
 
 ### The Domestic Violence, Crime and Victims Act 2004 (c. 28)
 
-**3.**[^key-7412150dfec102aa17fb05f5de35f8a5] (1) For the heading of section 7 substitute “ Evidence and procedure in cases of death: Northern Ireland ”.
+**3.**[^c-7412150dfec102aa17fb05f5de35f8a5] (1) For the heading of section 7 substitute “ Evidence and procedure in cases of death: Northern Ireland ”.
 
 (2) In section 7(5) after “section 5” insert “ of causing or allowing a person's death ”.
 
@@ -59,14 +59,14 @@ Section 96.
 
 ### The Criminal Justice (Northern Ireland) Order 2008 (NI 1)
 
-**4.**[^key-e141ac9a65672552b6b298da8281a367] In Part 1 of Schedule 2 (specified violent offences) in paragraph 30 for “the death of a child or vulnerable adult” substitute “ a child or vulnerable adult to die or suffer serious physical harm ”.
+**4.**[^c-e141ac9a65672552b6b298da8281a367] In Part 1 of Schedule 2 (specified violent offences) in paragraph 30 for “the death of a child or vulnerable adult” substitute “ a child or vulnerable adult to die or suffer serious physical harm ”.
 
 ## Annotations
 
-[^key-8042b4221d400182c701f87e0872df39]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/1) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
+[^c-8042b4221d400182c701f87e0872df39]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/1) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
 
-[^key-769993c991d0350315f63e4aea80fbe3]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/2) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
+[^c-769993c991d0350315f63e4aea80fbe3]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/2) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
 
-[^key-7412150dfec102aa17fb05f5de35f8a5]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/3) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
+[^c-7412150dfec102aa17fb05f5de35f8a5]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/3) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
 
-[^key-e141ac9a65672552b6b298da8281a367]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/4) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)
+[^c-e141ac9a65672552b6b298da8281a367]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nia/2015/9/schedule/6/paragraph/4) in operation at 14.3.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/136/article/2/b)

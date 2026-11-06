@@ -40,9 +40,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Encouragement etc. of terrorism
 
-#### 1. Encouragement of terrorism[^key-a3d167e50e3cba9b86e3884b10b4ce90]
+#### 1. Encouragement of terrorism[^c-a3d167e50e3cba9b86e3884b10b4ce90]
 
-(1) This section applies to a statement that is likely to be understood by a reasonable person[^key-facf4aada4649bd456ed33ae4a2a34b7] as a direct or indirect encouragement or other inducement , to some or all of the members of the public to whom it is published,[^key-c70d424f8fb5de5a27f9d63be830c2c7] to the commission, preparation or instigation of acts of terrorism or Convention offences.
+(1) This section applies to a statement that is likely to be understood by a reasonable person[^c-facf4aada4649bd456ed33ae4a2a34b7] as a direct or indirect encouragement or other inducement , to some or all of the members of the public to whom it is published,[^c-c70d424f8fb5de5a27f9d63be830c2c7] to the commission, preparation or instigation of acts of terrorism or Convention offences.
 
 (2) A person commits an offence if—
 
@@ -51,10 +51,10 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (i) intends members of the public to be directly or indirectly encouraged or otherwise induced by the statement to commit, prepare or instigate acts of terrorism or Convention offences; or
   - (ii) is reckless as to whether members of the public will be directly or indirectly encouraged or otherwise induced by the statement to commit, prepare or instigate such acts or offences.
 
-(3) For the purposes of this section, the statements that are likely to be understood by a reasonable person[^key-ba18944cac39b10b6e5e318ad6b3a924] as indirectly encouraging the commission or preparation of acts of terrorism or Convention offences include every statement which—
+(3) For the purposes of this section, the statements that are likely to be understood by a reasonable person[^c-ba18944cac39b10b6e5e318ad6b3a924] as indirectly encouraging the commission or preparation of acts of terrorism or Convention offences include every statement which—
 
 - (a) glorifies the commission or preparation (whether in the past, in the future or generally) of such acts or offences; and
-- (b) is a statement from which [^key-d599a9ea796231df42e6bec52252b0be]... members of the public could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by them in existing circumstances.
+- (b) is a statement from which [^c-d599a9ea796231df42e6bec52252b0be]... members of the public could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by them in existing circumstances.
 
 (4) For the purposes of this section the questions how a statement is likely to be understood and what members of the public could reasonably be expected to infer from it must be determined having regard both—
 
@@ -73,13 +73,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^key-bea31558f221b7b04b826c1823dd7da3] or to a fine, or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-b592cdafa7f45e9de2539bd52d57749b] or to a fine not exceeding the statutory maximum, or to both;
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^c-bea31558f221b7b04b826c1823dd7da3] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-b592cdafa7f45e9de2539bd52d57749b] or to a fine not exceeding the statutory maximum, or to both;
 - (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
 
-(8) In relation to an offence committed before 2 May 2022[^key-9c1564860c3fc8ce407660f1bbd48051], the reference in subsection (7)(b) to the general limit in a magistrates’ court[^key-509a16880cb40f3e636dd8a203b8cf30] is to be read as a reference to 6 months.
+(8) In relation to an offence committed before 2 May 2022[^c-9c1564860c3fc8ce407660f1bbd48051], the reference in subsection (7)(b) to the general limit in a magistrates’ court[^c-509a16880cb40f3e636dd8a203b8cf30] is to be read as a reference to 6 months.
 
-#### 2. Dissemination of terrorist publications[^key-4b68e34a02676307b275835b0023bf42]
+#### 2. Dissemination of terrorist publications[^c-4b68e34a02676307b275835b0023bf42]
 
 (1) A person commits an offence if he engages in conduct falling within subsection (2) and, at the time he does so—
 
@@ -98,13 +98,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) For the purposes of this section a publication is a terrorist publication, in relation to conduct falling within subsection (2), if matter contained in it is likely—
 
-- (a) to be understood by a reasonable person as a direct or indirect encouragement or other inducement, to some or all of the persons to whom it is or may become available as a result of that conduct,[^key-bccb78fe54e724d2abfe75a3ef694a91] to the commission, preparation or instigation of acts of terrorism; or
+- (a) to be understood by a reasonable person as a direct or indirect encouragement or other inducement, to some or all of the persons to whom it is or may become available as a result of that conduct,[^c-bccb78fe54e724d2abfe75a3ef694a91] to the commission, preparation or instigation of acts of terrorism; or
 - (b) to be useful in the commission or preparation of such acts and to be understood, by some or all of those persons, as contained in the publication, or made available to them, wholly or mainly for the purpose of being so useful to them.
 
-(4) For the purposes of this section matter that is likely to be understood by a reasonable[^key-9d85b745d4fbae2bfe40de60b6220f97] person as indirectly encouraging the commission or preparation of acts of terrorism includes any matter which—
+(4) For the purposes of this section matter that is likely to be understood by a reasonable[^c-9d85b745d4fbae2bfe40de60b6220f97] person as indirectly encouraging the commission or preparation of acts of terrorism includes any matter which—
 
 - (a) glorifies the commission or preparation (whether in the past, in the future or generally) of such acts; and
-- (b) is matter from which a person[^key-260aaea4d1ec452735a30a12b934ff37] could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by him in existing circumstances.
+- (b) is matter from which a person[^c-260aaea4d1ec452735a30a12b934ff37] could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by him in existing circumstances.
 
 (5) For the purposes of this section the question whether a publication is a terrorist publication in relation to particular conduct must be determined—
 
@@ -132,11 +132,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^key-880443b490dcf95257fdaa9f3a17a120] or to a fine, or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-5bfbadf7fbed605ddfeb84c67c8eddee] or to a fine not exceeding the statutory maximum, or to both;
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 15 years[^c-880443b490dcf95257fdaa9f3a17a120] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-5bfbadf7fbed605ddfeb84c67c8eddee] or to a fine not exceeding the statutory maximum, or to both;
 - (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
 
-(12) In relation to an offence committed before 2 May 2022[^key-417fd9a630d7e03e84be1dbc9fb53226], the reference in subsection (11)(b) to the general limit in a magistrates’ court[^key-955324e44d5af85364efc353d5d148fa] is to be read as a reference to 6 months.
+(12) In relation to an offence committed before 2 May 2022[^c-417fd9a630d7e03e84be1dbc9fb53226], the reference in subsection (11)(b) to the general limit in a magistrates’ court[^c-955324e44d5af85364efc353d5d148fa] is to be read as a reference to 6 months.
 
 (13) In this section—
 
@@ -146,7 +146,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (b) matter to be listened to;
   - (c) matter to be looked at or watched.
 
-#### 3. Application of ss. 1 and 2 to internet activity etc.[^key-aceda5b0eb49eae3ace511b1bdbcab53]
+#### 3. Application of ss. 1 and 2 to internet activity etc.[^c-aceda5b0eb49eae3ace511b1bdbcab53]
 
 (1) This section applies for the purposes of sections 1 and 2 in relation to cases where—
 
@@ -201,7 +201,7 @@ the requirements of subsection (2)(a) to (c) shall be regarded as satisfied in t
 - (b) Christmas Day or Good Friday; or
 - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 (c. 80) in any part of the United Kingdom.
 
-#### 4. Giving of notices under s. 3[^key-36b99decf2bb2540d180ee5636790792]
+#### 4. Giving of notices under s. 3[^c-36b99decf2bb2540d180ee5636790792]
 
 (1) Except in a case to which any of subsections (2) to (4) applies, a notice under section 3(3) may be given to a person only—
 
@@ -247,7 +247,7 @@ the references in this section to its principal office include references to its
 
 ### Preparation of terrorist acts and terrorist training
 
-#### 5. Preparation of terrorist acts[^key-fa95b8d07bfd00c69dd1b18e2824cb19]
+#### 5. Preparation of terrorist acts[^c-fa95b8d07bfd00c69dd1b18e2824cb19]
 
 (1) A person commits an offence if, with the intention of—
 
@@ -260,7 +260,7 @@ he engages in any conduct in preparation for giving effect to his intention.
 
 (3) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
 
-#### 6. Training for terrorism[^key-944e826de473a2495d269e4cbe7bd23f]
+#### 6. Training for terrorism[^c-944e826de473a2495d269e4cbe7bd23f]
 
 (1) A person commits an offence if—
 
@@ -290,11 +290,11 @@ he engages in any conduct in preparation for giving effect to his intention.
 
 (5) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for life[^key-beb8e7f0c15f257212ccfd448d3fdb13] or to a fine, or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-865f28f857f3bfc1b1e5241c394badce] or to a fine not exceeding the statutory maximum, or to both;
+- (a) on conviction on indictment, to imprisonment for life[^c-beb8e7f0c15f257212ccfd448d3fdb13] or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-865f28f857f3bfc1b1e5241c394badce] or to a fine not exceeding the statutory maximum, or to both;
 - (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
 
-(6) In relation to an offence committed before 2 May 2022[^key-f3bf943e438c86f03340a525eb5d0ad4], the reference in subsection (5)(b) to the general limit in a magistrates’ court[^key-89b03deb264d3d74878a7f192b089d00] is to be read as a reference to 6 months.
+(6) In relation to an offence committed before 2 May 2022[^c-f3bf943e438c86f03340a525eb5d0ad4], the reference in subsection (5)(b) to the general limit in a magistrates’ court[^c-89b03deb264d3d74878a7f192b089d00] is to be read as a reference to 6 months.
 
 (7) In this section—
 
@@ -303,7 +303,7 @@ he engages in any conduct in preparation for giving effect to his intention.
   - (b) any other substance which is hazardous or noxious or which may be or become hazardous or noxious only in certain circumstances;
 - “**substance**” includes any natural or artificial substance (whatever its origin or method of production and whether in solid or liquid form or in the form of a gas or vapour) and any mixture of substances.
 
-#### 7. Powers of forfeiture in respect of offences under s. 6[^key-5e98d8633e39d4501129fb2057fb8b2e]
+#### 7. Powers of forfeiture in respect of offences under s. 6[^c-5e98d8633e39d4501129fb2057fb8b2e]
 
 (1) A court before which a person is convicted of an offence under section 6 may order the forfeiture of anything the court considers to have been in the person's possession for purposes connected with the offence.
 
@@ -317,9 +317,9 @@ he engages in any conduct in preparation for giving effect to his intention.
 
 (6) Provision made by virtue of this section may be varied at any time by the court that made it.
 
-(7)[^key-eeb674c031e99570c1a7eae06e937f43] The power of forfeiture under this section is in addition to any power of forfeiture under section 23A of the Terrorism Act 2000.
+(7)[^c-eeb674c031e99570c1a7eae06e937f43] The power of forfeiture under this section is in addition to any power of forfeiture under section 23A of the Terrorism Act 2000.
 
-#### 8. Attendance at a place used for terrorist training[^key-07f0e5df95e12dcdefc5a127caf3ab8d]
+#### 8. Attendance at a place used for terrorist training[^c-07f0e5df95e12dcdefc5a127caf3ab8d]
 
 (1) A person commits an offence if—
 
@@ -340,17 +340,17 @@ he engages in any conduct in preparation for giving effect to his intention.
 
 (4) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^key-1dfee591699ce07d3647c683a0250368] years or to a fine, or to both;
-- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-c9a22d284717ddc32516184fb46c5931] or to a fine not exceeding the statutory maximum, or to both;
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^c-1dfee591699ce07d3647c683a0250368] years or to a fine, or to both;
+- (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-c9a22d284717ddc32516184fb46c5931] or to a fine not exceeding the statutory maximum, or to both;
 - (c) on summary conviction in Scotland or Northern Ireland, to imprisonment for a term not exceeding 6 months or to a fine not exceeding the statutory maximum, or to both.
 
-(5) In relation to an offence committed before 2 May 2022[^key-53965c98e7c65db2e8ad9c47988e5b72], the reference in subsection (4)(b) to the general limit in a magistrates’ court[^key-e37e85e763ba3f43ec7693fb6af178f7] is to be read as a reference to 6 months.
+(5) In relation to an offence committed before 2 May 2022[^c-53965c98e7c65db2e8ad9c47988e5b72], the reference in subsection (4)(b) to the general limit in a magistrates’ court[^c-e37e85e763ba3f43ec7693fb6af178f7] is to be read as a reference to 6 months.
 
 (6) References in this section to instruction or training being provided include references to its being made available.
 
 ### Offences involving radioactive devices and materials and nuclear facilities and sites
 
-#### 9. Making and possession of devices or materials[^key-46442aa7347512000c5d2cdab0de15aa]
+#### 9. Making and possession of devices or materials[^c-46442aa7347512000c5d2cdab0de15aa]
 
 (1) A person commits an offence if—
 
@@ -382,7 +382,7 @@ with the intention of using the device or material in the course of or in connec
 - “**device**” includes any of the following, whether or not fixed to land, namely, machinery, equipment, appliances, tanks, containers, pipes and conduits;
 - “**nuclear material**” has the same meaning as in the Nuclear Material (Offences) Act 1983 (c. 18) (see section 6 of that Act).
 
-#### 10. Misuse of devices or material and misuse and damage of facilities[^key-5c66156a6c24a2ac25123f10925e04c8]
+#### 10. Misuse of devices or material and misuse and damage of facilities[^c-5c66156a6c24a2ac25123f10925e04c8]
 
 (1) A person commits an offence if he uses—
 
@@ -410,7 +410,7 @@ in the course of or in connection with the commission of an act of terrorism or 
 - “**nuclear reactor**” has the same meaning as in the Nuclear Installations Act 1965 (c. 57) (see section 26 of that Act);
 - “**transportation device**” means any vehicle or any space object (within the meaning of the Outer Space Act 1986 (c. 38)).
 
-#### 11. Terrorist threats relating to devices, materials or facilities[^key-5c7f90bd8996796ab831d9b130a050de]
+#### 11. Terrorist threats relating to devices, materials or facilities[^c-5c7f90bd8996796ab831d9b130a050de]
 
 (1) A person commits an offence if, in the course of or in connection with the commission of an act of terrorism or for the purposes of terrorism—
 
@@ -439,7 +439,7 @@ in the course of or in connection with the commission of an act of terrorism or 
 - “**nuclear facility**” has the same meaning as in section 10;
 - “**radioactive device**” and “**radioactive material**” have the same meanings as in section 9.
 
-#### 11A. Forfeiture of devices, materials or facilities[^key-d41ffe85e72dc7590a2c23787df4c1f9]
+#### 11A. Forfeiture of devices, materials or facilities[^c-d41ffe85e72dc7590a2c23787df4c1f9]
 
 (1) A court by or before which a person is convicted of an offence under section 9 or 10 may order the forfeiture of any radioactive device or radioactive material, or any nuclear facility, made or used in committing the offence.
 
@@ -458,7 +458,7 @@ in the course of or in connection with the commission of an act of terrorism or 
 
 (7) The power of forfeiture under this section is in addition to any power of forfeiture under section 23A of the Terrorism Act 2000.
 
-#### 12. Trespassing etc. on nuclear sites[^key-9380df41cb6b9336e7730c2dcb046d2e]
+#### 12. Trespassing etc. on nuclear sites[^c-9380df41cb6b9336e7730c2dcb046d2e]
 
 (1) The Serious Organised Crime and Police Act 2005 (c. 15) is amended as follows.
 
@@ -500,13 +500,13 @@ in the course of or in connection with the commission of an act of terrorism or 
 
 ### Increases of penalties
 
-#### 13. Maximum penalty for possessing for terrorist purposes[^key-ccd68606ce1c7adae2ca17c1757f3f81]
+#### 13. Maximum penalty for possessing for terrorist purposes[^c-ccd68606ce1c7adae2ca17c1757f3f81]
 
 (1) In section 57(4)(a) of the Terrorism Act 2000 (c. 11) (10 years maximum imprisonment for possession for terrorist purposes), for “10 years” substitute “ 15 years ”.
 
 (2) Subsection (1) does not apply to offences committed before the commencement of this section.
 
-#### 14. Maximum penalty for certain offences relating to nuclear material[^key-52b4687dc601d4f08b84387752795f9a]
+#### 14. Maximum penalty for certain offences relating to nuclear material[^c-52b4687dc601d4f08b84387752795f9a]
 
 (1) In section 2 of the Nuclear Material (Offences) Act 1983 (c. 18) (offences involving preparatory acts and threats), for subsection (5) substitute—
 
@@ -514,7 +514,7 @@ in the course of or in connection with the commission of an act of terrorism or 
 
 (2) Subsection (1) does not apply to offences committed before the commencement of this section.
 
-#### 15. Maximum penalty for contravening notice relating to encrypted information[^key-e146a34f661e3ca1816d8b55c3211dd1]
+#### 15. Maximum penalty for contravening notice relating to encrypted information[^c-e146a34f661e3ca1816d8b55c3211dd1]
 
 (1) In section 53 of the Regulation of Investigatory Powers Act 2000 (c. 23) (offence of contravening disclosure requirement)—
 
@@ -534,7 +534,7 @@ in the course of or in connection with the commission of an act of terrorism or 
 
 ### Incidental provisions about offences
 
-#### 16. Preparatory hearings in terrorism cases[^key-eeb47aba335f826aef8747f6b4a43044]
+#### 16. Preparatory hearings in terrorism cases[^c-eeb47aba335f826aef8747f6b4a43044]
 
 (1) Section 29 of the Criminal Procedure and Investigations Act 1996 (c. 25) (power to order preparatory hearing) is amended as follows.
 
@@ -584,7 +584,7 @@ in the course of or in connection with the commission of an act of terrorism or 
 >
 > (9) In subsection (8) ‘terrorism’ has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).
 
-#### 17. Commission of offences abroad[^key-b188e2090fc690157036a7bba0ee1dca]
+#### 17. Commission of offences abroad[^c-b188e2090fc690157036a7bba0ee1dca]
 
 (1) If—
 
@@ -595,21 +595,21 @@ he shall be guilty in that part of the United Kingdom of the offence.
 
 (2) The offences falling within this subsection are—
 
-- (a) an offence under section 1 or 2[^key-ec4957d8890b59d382ecd4cd7c2c8a50] [^key-0bc14aff566460013440a788499c1c10]... of this Act [^key-feedf4ac44617f53e26e711dd92846fa]...;
-- (b) an offence under section 5 or 6 or[^key-a1d08e61f2c56cc2d6d06bdfdc878e5d] any of sections 8 to 11 of this Act;
+- (a) an offence under section 1 or 2[^c-ec4957d8890b59d382ecd4cd7c2c8a50] [^c-0bc14aff566460013440a788499c1c10]... of this Act [^c-feedf4ac44617f53e26e711dd92846fa]...;
+- (b) an offence under section 5 or 6 or[^c-a1d08e61f2c56cc2d6d06bdfdc878e5d] any of sections 8 to 11 of this Act;
 - (c) an offence under section 11(1) of the Terrorism Act 2000 (c. 11) (membership of proscribed organisations);
-- (ca)[^key-47e370ca4787156af9b3de364c6c30ad] an offence under section 12(1) or (1A) of that Act (inviting or expressing support for proscribed organisation);
+- (ca)[^c-47e370ca4787156af9b3de364c6c30ad] an offence under section 12(1) or (1A) of that Act (inviting or expressing support for proscribed organisation);
 - (cb) an offence under section 13 of that Act (uniform etc associated with proscribed organisation);
 - (d) an offence under section 54 of that Act (weapons training);
-- (da)[^key-26ebef86f2d7e1e95afdc9699e62c8fe] an offence under section 4 of the Explosive Substances Act 1883 (making or possessing explosives under suspicious circumstances) so far as committed for the purposes of an act of terrorism;
+- (da)[^c-26ebef86f2d7e1e95afdc9699e62c8fe] an offence under section 4 of the Explosive Substances Act 1883 (making or possessing explosives under suspicious circumstances) so far as committed for the purposes of an act of terrorism;
 - (e) conspiracy to commit an offence falling within this subsection;
-- (f)[^key-69e1bb88227a5d131f591062647d3423] inciting a person to commit such an offence;
+- (f)[^c-69e1bb88227a5d131f591062647d3423] inciting a person to commit such an offence;
 - (g) attempting to commit such an offence;
 - (h) aiding, abetting, counselling or procuring the commission of such an offence.
 
-(3) Subsection (1) applies irrespective of whether the person is a British citizen (subject to subsection (3A))[^key-ed0b93101ac2a6c323c35de6dd35ddb8] or, in the case of a company, a company incorporated in a part of the United Kingdom.
+(3) Subsection (1) applies irrespective of whether the person is a British citizen (subject to subsection (3A))[^c-ed0b93101ac2a6c323c35de6dd35ddb8] or, in the case of a company, a company incorporated in a part of the United Kingdom.
 
-(3A)[^key-dd23d91ceb43f7b742e4e0947eb9ef31] Subsection (1) applies in the case of an offence falling within subsection (2)(ca) or (cb) only if at the time of committing the offence the person is a United Kingdom national or a United Kingdom resident.
+(3A)[^c-dd23d91ceb43f7b742e4e0947eb9ef31] Subsection (1) applies in the case of an offence falling within subsection (2)(ca) or (cb) only if at the time of committing the offence the person is a United Kingdom national or a United Kingdom resident.
 
 (3B) In subsection (3A)—
 
@@ -631,7 +631,7 @@ he shall be guilty in that part of the United Kingdom of the offence.
 - (a) the doing of an act as an act of terrorism or for the purposes of terrorism; or
 - (b) the possession or control of a substance for the purposes of terrorism.
 
-#### 18. Liability of company directors etc.[^key-e973c9540654eb4cb4870adc1132ea41]
+#### 18. Liability of company directors etc.[^c-e973c9540654eb4cb4870adc1132ea41]
 
 (1) Where an offence under this Part is committed by a body corporate and is proved to have been committed with the consent or connivance of—
 
@@ -649,14 +649,14 @@ he (as well as the firm) is guilty of that offence and shall be liable to be pro
 
 (3) In this section “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate.
 
-#### 19. Consents to prosecutions[^key-2832e129e0207f00a666dbfa565a5291]
+#### 19. Consents to prosecutions[^c-2832e129e0207f00a666dbfa565a5291]
 
 (1) Proceedings for an offence under this Part—
 
 - (a) may be instituted in England and Wales only with the consent of the Director of Public Prosecutions; and
 - (b) may be instituted in Northern Ireland only with the consent of the Director of Public Prosecutions for Northern Ireland.
 
-(2) But if it appears to the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland that an offence under this Part has been committed outside the United Kingdom or[^key-61c83766098bec32906cf9f6fbbc4658] for a purpose wholly or partly connected with the affairs of a country other than the United Kingdom, his consent for the purposes of this section may be given only with the permission—
+(2) But if it appears to the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland that an offence under this Part has been committed outside the United Kingdom or[^c-61c83766098bec32906cf9f6fbbc4658] for a purpose wholly or partly connected with the affairs of a country other than the United Kingdom, his consent for the purposes of this section may be given only with the permission—
 
 - (a) in the case of the Director of Public Prosecutions, of the Attorney General; and
 - (b) in the case of the Director of Public Prosecutions for Northern Ireland, of the Advocate General for Northern Ireland.
@@ -665,7 +665,7 @@ he (as well as the firm) is guilty of that offence and shall be liable to be pro
 
 ### Interpretation of Part 1
 
-#### 20. Interpretation of Part 1[^key-5747d341cfb562c627ddef245ceed03e]
+#### 20. Interpretation of Part 1[^c-5747d341cfb562c627ddef245ceed03e]
 
 (1) Expressions used in this Part and in the Terrorism Act 2000 (c. 11) have the same meanings in this Part as in that Act.
 
@@ -673,14 +673,14 @@ he (as well as the firm) is guilty of that offence and shall be liable to be pro
 
 - “**act of terrorism**” includes anything constituting an action taken for the purposes of terrorism, within the meaning of the Terrorism Act 2000 (see section 1(5) of that Act);
 - “**article**” includes anything for storing data;
-- “**Convention offence**” means an offence listed in Schedule 1 or an equivalent offence under the law of a country or territory outside the United Kingdom (and see subsection (2A))[^key-7d40175a7a78e41847cc4ee15ab85e89];
+- “**Convention offence**” means an offence listed in Schedule 1 or an equivalent offence under the law of a country or territory outside the United Kingdom (and see subsection (2A))[^c-7d40175a7a78e41847cc4ee15ab85e89];
 - “**glorification**” includes any form of praise or celebration, and cognate expressions are to be construed accordingly;
 - “**public**” is to be construed in accordance with subsection (3);
 - “publish” and cognate expressions are to be construed in accordance with subsection (4);
 - “**record**” means a record so far as not comprised in an article, including a temporary record created electronically and existing solely in the course of, and for the purposes of, the transmission of the whole or a part of its contents;
 - “**statement**” is to be construed in accordance with subsection (6).
 
-(2A)[^key-5d6df5d74419db786b55341bf30a0f9b] Offences under any of the following paragraphs of Schedule 4 to the Space Industry Act 2018 are to be treated for the purposes of this Part as if they were Convention offences—
+(2A)[^c-5d6df5d74419db786b55341bf30a0f9b] Offences under any of the following paragraphs of Schedule 4 to the Space Industry Act 2018 are to be treated for the purposes of this Part as if they were Convention offences—
 
 - (a) paragraph 1 (hijacking of spacecraft);
 - (b) paragraph 2 (destroying, damaging or endangering safety of spacecraft);
@@ -725,7 +725,7 @@ but this subsection does not apply to the references to a publication in section
 
 ### Proscription of terrorist organisations
 
-#### 21. Grounds of proscription[^key-1b8f803a3f322e1e1b4902d3c2e23da6]
+#### 21. Grounds of proscription[^c-1b8f803a3f322e1e1b4902d3c2e23da6]
 
 In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), after subsection (5) insert—
 
@@ -744,7 +744,7 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 > - ‘glorification’ includes any form of praise or celebration, and cognate expressions are to be construed accordingly;
 > - ‘statement’ includes a communication without words consisting of sounds or images or both.
 
-#### 22. Name changes by proscribed organisations[^key-fad083f6a085897d492949f619378d2d]
+#### 22. Name changes by proscribed organisations[^c-fad083f6a085897d492949f619378d2d]
 
 (1) The Terrorism Act 2000 is amended as follows.
 
@@ -832,7 +832,7 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 
 ### Detention of terrorist suspects
 
-#### 23. Extension of period of detention of terrorist suspects[^key-34fb08724202ec58efe62773403bf709]
+#### 23. Extension of period of detention of terrorist suspects[^c-34fb08724202ec58efe62773403bf709]
 
 (1) Schedule 8 to the Terrorism Act 2000 (c. 11) (detention of terrorist suspects) is amended as follows.
 
@@ -894,11 +894,11 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 > - (a) the application for the extension is an application for an extension by a period that is shorter than is so required; or
 > - (b) the judicial authority or senior judge is satisfied that there are circumstances that would make it inappropriate for the period of the extension to be as long as the period so required.
 
-(8)[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-8d16e2baf2e3c4ac9e1f7d91ccab66b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) For paragraph 37 (release of detained person) substitute—
 
@@ -921,7 +921,7 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 - (a) the arrest of the person detained under section 41 of the Terrorism Act 2000 (c. 11) took place before the commencement of this section; or
 - (b) his examination under Schedule 7 to that Act began before the commencement of this section.
 
-#### 24. Grounds for extending detention[^key-f7d8b00ce09f5fcb44f87b5911756ca8]
+#### 24. Grounds for extending detention[^c-f7d8b00ce09f5fcb44f87b5911756ca8]
 
 (1) In Schedule 8 to the Terrorism Act 2000, in paragraph 23(1) (grounds on which a review officer may authorise continued detention), after paragraph (b) insert—
 
@@ -948,13 +948,13 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 - (a) the arrest of the person detained under section 41 of the Terrorism Act 2000 took place before the commencement of this section; or
 - (b) his examination under Schedule 7 to that Act began before the commencement of this section.
 
-#### 25. Expiry or renewal of extended maximum detention period[^key-242be8ec4fe2f1722f7b5f673acf2f0c][^key-b83513b804f70b86645fcfd32dce12d4][^key-1008c20b9ff496e6f683b941799786f7][^key-6ae44c7620ba90268ba7d303d8ae673c][^key-e2f9043c7807e113f23c9196dbaff65b][^key-8395de74d23ef510d0a250f56fa422af]
+#### 25. Expiry or renewal of extended maximum detention period[^c-242be8ec4fe2f1722f7b5f673acf2f0c][^c-b83513b804f70b86645fcfd32dce12d4][^c-1008c20b9ff496e6f683b941799786f7][^c-6ae44c7620ba90268ba7d303d8ae673c][^c-e2f9043c7807e113f23c9196dbaff65b][^c-8395de74d23ef510d0a250f56fa422af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Searches etc.
 
-#### 26. All premises warrants: England and Wales and Northern Ireland[^key-1a850acaa5016619e53c88d88fbbbf17]
+#### 26. All premises warrants: England and Wales and Northern Ireland[^c-1a850acaa5016619e53c88d88fbbbf17]
 
 (1) Part 1 of Schedule 5 to the Terrorism Act 2000 (searches etc. for the purposes of terrorist investigations in England and Wales and Northern Ireland) is amended as follows.
 
@@ -1020,7 +1020,7 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 
 (11) In sub-paragraph (4)(b) of that paragraph, for “the premises on which the material is situated” substitute “ premises to which the application for the warrant relates ”.
 
-#### 27. All premises warrants: Scotland[^key-47b37450766c979836e892e526014be7]
+#### 27. All premises warrants: Scotland[^c-47b37450766c979836e892e526014be7]
 
 (1) Part 2 of Schedule 5 to the Terrorism Act 2000 (c. 11) (searches etc. for the purposes of terrorist investigations in Scotland) is amended as follows.
 
@@ -1059,7 +1059,7 @@ In section 3 of the Terrorism Act 2000 (c. 11) (proscription of organisations), 
 - (a) for “premises specified in” substitute “ premises which he is entitled to enter in pursuance of ”; and
 - (b) for “a notice under paragraph 32” substitute “ an order under paragraph 31 ”.
 
-#### 28. Search, seizure and forfeiture of terrorist publications[^key-07a48bb6c76221a0c564a18dda4092e3]
+#### 28. Search, seizure and forfeiture of terrorist publications[^c-07a48bb6c76221a0c564a18dda4092e3]
 
 (1) If a justice of the peace is satisfied that there are reasonable grounds for suspecting that articles to which this section applies are likely to be found on any premises, he may issue a warrant authorising a constable—
 
@@ -1119,20 +1119,20 @@ applies to an article seized under the authority of a warrant under this section
 
   > ‘premises’ has the same meaning as in the Terrorism Act 2000 (c. 11) (see section 121 of that Act).
 
-#### 29. Power to search vehicles under Schedule 7 to the Terrorism Act 2000[^key-fecb3801864af635683da4b20ebf6a33]
+#### 29. Power to search vehicles under Schedule 7 to the Terrorism Act 2000[^c-fecb3801864af635683da4b20ebf6a33]
 
 In paragraph 8 of Schedule 7 to the Terrorism Act 2000 (c. 11) (search of a person at a port or in the border area to ascertain if he is involved in terrorism), after sub-paragraph (1)(d) insert—
 
 > - (e) search a vehicle which is on a ship or aircraft;
 > - (f) search a vehicle which the examining officer reasonably believes has been, or is about to be, on a ship or aircraft.
 
-#### 30. Extension to internal waters of authorisations to stop and search[^key-56fdc60dac1637fd440272c484c246fe][^key-fa0e4c9ec680a58308dcb66d290ec96c]
+#### 30. Extension to internal waters of authorisations to stop and search[^c-56fdc60dac1637fd440272c484c246fe][^c-fa0e4c9ec680a58308dcb66d290ec96c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Other investigatory powers
 
-#### 31. Amendment of the Intelligence Services Act 1994[^key-9a66fa468f79d5bb6ed29fd62af2156e]
+#### 31. Amendment of the Intelligence Services Act 1994[^c-9a66fa468f79d5bb6ed29fd62af2156e]
 
 (1) The Intelligence Services Act 1994 (c. 13) is amended as follows.
 
@@ -1180,11 +1180,11 @@ In paragraph 8 of Schedule 7 to the Terrorism Act 2000 (c. 11) (search of a pers
 > - (a) the time of the mistaken belief mentioned in subsection (12)(a); or
 > - (b) the time at which the property was, or was most recently, brought within the British Islands.
 
-#### 32. Interception warrants[^key-ae7d6be1f6704ae73a75f98c002bd5f0][^key-167c2896452e67a788fd83f77a48f656]
+#### 32. Interception warrants[^c-ae7d6be1f6704ae73a75f98c002bd5f0][^c-167c2896452e67a788fd83f77a48f656]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Disclosure notices for the purposes of terrorist investigations[^key-ab0a0223fd722137d92e3c6c6629622d]
+#### 33. Disclosure notices for the purposes of terrorist investigations[^c-ab0a0223fd722137d92e3c6c6629622d]
 
 (1) In section 60 of the Serious Organised Crime and Police Act 2005 (c. 15) (investigatory powers of DPP etc.), in subsection (1), after “applies” insert “ or in connection with a terrorist investigation ”.
 
@@ -1218,7 +1218,7 @@ In paragraph 8 of Schedule 7 to the Terrorism Act 2000 (c. 11) (search of a pers
 
 ### Definition of terrorism etc.
 
-#### 34. Amendment of the definition of “terrorism” etc.[^key-0439ed94e9c38d5df39290e21e7b03fe]
+#### 34. Amendment of the definition of “terrorism” etc.[^c-0439ed94e9c38d5df39290e21e7b03fe]
 
 In each of—
 
@@ -1229,7 +1229,7 @@ after “government” insert “ or an international governmental organisation 
 
 ### Other amendments
 
-#### 35. Applications for extended detention of seized cash[^key-f91e6e796401058e89be0e54db0e6c49]
+#### 35. Applications for extended detention of seized cash[^c-f91e6e796401058e89be0e54db0e6c49]
 
 (1) In paragraph 3 of Schedule 1 to the Anti-terrorism, Crime and Security Act 2001 (application relating to period of detention of seized terrorist cash), after sub-paragraph (3) insert—
 
@@ -1242,47 +1242,47 @@ after “government” insert “ or an international governmental organisation 
 
 ## Part 3 — Supplemental provisions
 
-### 36. Review of terrorism legislation[^key-ce038af31fb00482287826713ba0cc88]
+### 36. Review of terrorism legislation[^c-ce038af31fb00482287826713ba0cc88]
 
 (1) The Secretary of State must appoint a person to review the operation of the provisions of the Terrorism Act 2000 and of Part 1 of this Act.
 
-(2) That person may, from time to time, carry out—[^key-44b0334ee4eb4f4893970c0b116775de]
+(2) That person may, from time to time, carry out—[^c-44b0334ee4eb4f4893970c0b116775de]
 
 - (a) a review of the provisions of the Terrorism Act 2000, and
 - (b) a review of the provisions of Part 1 of this Act,
 
 and, where he does so, must send a report on the outcome of his review to the Secretary of State as soon as reasonably practicable after completing the review.
 
-(2A)[^key-dda09c30151cde75280e94cc9d0f9a65] A review under subsection (2) may, in particular, consider whether—
+(2A)[^c-dda09c30151cde75280e94cc9d0f9a65] A review under subsection (2) may, in particular, consider whether—
 
 - (a) the requirements imposed by or under Part 1 or 2, or paragraph 37, of Schedule 8 to the Terrorism Act 2000 (detention of suspected terrorists), and
 - (b) the requirements imposed by any relevant code of practice under section 66 of the Police and Criminal Evidence Act 1984 or Article 65 of the Police and Criminal Evidence (Northern Ireland) Order 1989 ( S.I. 1989/1341 (N.I. 12)),
 
 have been complied with in relation to persons detained under section 41 of the Terrorism Act 2000 pursuant to a warrant of further detention issued under Part 3 of Schedule 8 to that Act.
 
-(3) The person appointed under subsection (1)[^key-b4f66f9023e4c5830845341db4260077] must carry out and report on his first review under subsection (2)[^key-90e4f40eb4f9d06ecb4ab58cdce4c5dc] before the end of the period of 12 months after the laying before Parliament of the last report to be so laid under section 126 of the Terrorism Act 2000 before the commencement of this section.
+(3) The person appointed under subsection (1)[^c-b4f66f9023e4c5830845341db4260077] must carry out and report on his first review under subsection (2)[^c-90e4f40eb4f9d06ecb4ab58cdce4c5dc] before the end of the period of 12 months after the laying before Parliament of the last report to be so laid under section 126 of the Terrorism Act 2000 before the commencement of this section.
 
-(4) That person must carry out and report on a review under subsection (2)(a)[^key-ae272855a7fda0ac8ef27ec25cd2ef22] at least once in every twelve month period ending with an anniversary of the end of the twelve month period mentioned in subsection (3).
+(4) That person must carry out and report on a review under subsection (2)(a)[^c-ae272855a7fda0ac8ef27ec25cd2ef22] at least once in every twelve month period ending with an anniversary of the end of the twelve month period mentioned in subsection (3).
 
-(4A)[^key-64958f268900358d2d0c85296effe851] The person appointed under subsection (1) must ensure that a review is carried out (whether by that person or another person) into any case where the period specified in a warrant of further detention issued under Part 3 of Schedule 8 to the Terrorism Act 2000 (extension of detention of terrorist suspects) is further extended by virtue of paragraph 36 of that Schedule to a time that is more than 14 days after the relevant time (within the meaning of that paragraph).
+(4A)[^c-64958f268900358d2d0c85296effe851] The person appointed under subsection (1) must ensure that a review is carried out (whether by that person or another person) into any case where the period specified in a warrant of further detention issued under Part 3 of Schedule 8 to the Terrorism Act 2000 (extension of detention of terrorist suspects) is further extended by virtue of paragraph 36 of that Schedule to a time that is more than 14 days after the relevant time (within the meaning of that paragraph).
 
 (4B) The person appointed under subsection (1) must ensure that a report on the outcome of the review is sent to the Secretary of State as soon as reasonably practicable after the completion of the review.
 
-(4C)[^key-679b51968a03e4eee3ea6db5e3d927dc] In each calendar year the person appointed under subsection (1) must, by 31 January, inform the Secretary of State what (if any) reviews under subsection (2)(b) the person intends to carry out in that year.
+(4C)[^c-679b51968a03e4eee3ea6db5e3d927dc] In each calendar year the person appointed under subsection (1) must, by 31 January, inform the Secretary of State what (if any) reviews under subsection (2)(b) the person intends to carry out in that year.
 
 Those reviews must be completed during that year or as soon as reasonably practicable after the end of it.
 
-(5) On receiving a report under this section, the Secretary of State must lay a copy of it before Parliament as soon as the Secretary of State is satisfied that doing so will not prejudice any criminal proceedings[^key-7b7b66ae17e68281519c51c5037eb3e1].
+(5) On receiving a report under this section, the Secretary of State must lay a copy of it before Parliament as soon as the Secretary of State is satisfied that doing so will not prejudice any criminal proceedings[^c-7b7b66ae17e68281519c51c5037eb3e1].
 
-(6) The Secretary of State may, out of money provided by Parliament, pay a person appointed under subsection (1)[^key-cfb6ed1cf43e53d5229a7380a095c631], both his expenses and also such allowances as the Secretary of State determines.
+(6) The Secretary of State may, out of money provided by Parliament, pay a person appointed under subsection (1)[^c-cfb6ed1cf43e53d5229a7380a095c631], both his expenses and also such allowances as the Secretary of State determines.
 
-(6A)[^key-310dd2a6b85f008c9bab484773532813] The expenses mentioned in subsection (6) include, in particular, any expenses incurred by the person appointed under subsection (1) in ensuring that another person carries out a review of the kind mentioned in subsection (4A) and reports on it.
+(6A)[^c-310dd2a6b85f008c9bab484773532813] The expenses mentioned in subsection (6) include, in particular, any expenses incurred by the person appointed under subsection (1) in ensuring that another person carries out a review of the kind mentioned in subsection (4A) and reports on it.
 
 ### 37. Consequential amendments and repeals
 
-(1)[^key-b2fe235815261f7fe521fff413a8458b] In section 32(e) of the Terrorism Act 2000 (c. 11) (meaning of “terrorist investigation”), after “offence under this Act” insert “ or under Part 1 of the Terrorism Act 2006 other than an offence under section 1 or 2 of that Act ”.
+(1)[^c-b2fe235815261f7fe521fff413a8458b] In section 32(e) of the Terrorism Act 2000 (c. 11) (meaning of “terrorist investigation”), after “offence under this Act” insert “ or under Part 1 of the Terrorism Act 2006 other than an offence under section 1 or 2 of that Act ”.
 
-(2)[^key-b2fe235815261f7fe521fff413a8458b] In section 117 of that Act (consents to prosecutions), for subsection (3) substitute—
+(2)[^c-b2fe235815261f7fe521fff413a8458b] In section 117 of that Act (consents to prosecutions), for subsection (3) substitute—
 
 > (2A) But if it appears to the Director of Public Prosecutions or the Director of Public Prosecutions for Northern Ireland that an offence to which this section applies has been committed for a purpose wholly or partly connected with the affairs of a country other than the United Kingdom, his consent for the purposes of this section may be given only with the permission—
 >
@@ -1291,7 +1291,7 @@ Those reviews must be completed during that year or as soon as reasonably practi
 >
 > (2B) In relation to any time before the coming into force of section 27(1) of the Justice (Northern Ireland) Act 2002, the reference in subsection (2A) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
 
-(3)[^key-b2fe235815261f7fe521fff413a8458b] After section 120 of that Act insert—
+(3)[^c-b2fe235815261f7fe521fff413a8458b] After section 120 of that Act insert—
 
 > **120A. Supplemental powers of court in respect of forfeiture orders**
 >
@@ -1301,15 +1301,15 @@ Those reviews must be completed during that year or as soon as reasonably practi
 >
 > (3) Provision made by virtue of this section may be varied at any time by the court that made it.
 
-(4)[^key-b2fe235815261f7fe521fff413a8458b] In Part 1 of Schedule 9 to that Act (scheduled offences), at the end insert—
+(4)[^c-b2fe235815261f7fe521fff413a8458b] In Part 1 of Schedule 9 to that Act (scheduled offences), at the end insert—
 
 > **22C. Terrorism Act 2006**
 >
 > Offences under Part 1 of the Terrorism Act 2006 (terrorism-related offences).
 
-(5)[^key-06ed03dc7388aa3105b9e3f4cdfc0410][^key-de6dede86c024a1249e37f88c77f3100] The enactments listed in column 1 of Schedule 3 are repealed to the extent set out in column 2 of that Schedule.
+(5)[^c-06ed03dc7388aa3105b9e3f4cdfc0410][^c-de6dede86c024a1249e37f88c77f3100] The enactments listed in column 1 of Schedule 3 are repealed to the extent set out in column 2 of that Schedule.
 
-### 38. Expenses[^key-e803763875605e0e46a3228c349fe01c]
+### 38. Expenses[^c-e803763875605e0e46a3228c349fe01c]
 
 There shall be paid out of money provided by Parliament any increase attributable to this Act in the sums payable out of such money under any other Act.
 
@@ -1325,7 +1325,7 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 (5) Subject to section 17(6) and to subsection (4) of this section, this Act extends to the whole of the United Kingdom.
 
-(6)[^key-b7676b9da0a03ce85eea88838830dea7][^key-44a8d80bd950b2ed255e57db619ecd79][^key-67e0eb3cdaa7e5594d9b734223fdbdc4][^key-7ad9959d0d0989018c25e642ed579997] Her Majesty may by Order in Council direct that any provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
+(6)[^c-b7676b9da0a03ce85eea88838830dea7][^c-44a8d80bd950b2ed255e57db619ecd79][^c-67e0eb3cdaa7e5594d9b734223fdbdc4][^c-7ad9959d0d0989018c25e642ed579997] Her Majesty may by Order in Council direct that any provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
 
 (7) In subsection (6) “**modification**” includes omissions, additions and alterations.
 
@@ -1337,7 +1337,7 @@ Section 20
 
 ### Explosives offences
 
-**1.**[^key-261729dc727e1cc0ff0a609f1558e661] (1) Subject to sub-paragraph (3), an offence under any of sections 28 to 30 of the Offences against the Person Act 1861 (c. 100) (causing injury by explosions, causing explosions and handling or placing explosives).
+**1.**[^c-261729dc727e1cc0ff0a609f1558e661] (1) Subject to sub-paragraph (3), an offence under any of sections 28 to 30 of the Offences against the Person Act 1861 (c. 100) (causing injury by explosions, causing explosions and handling or placing explosives).
 
 (2) Subject to sub-paragraph (3), an offence under any of the following provisions of the Explosive Substances Act 1883 (c. 3)—
 
@@ -1352,11 +1352,11 @@ Section 20
 
 ### Biological weapons
 
-**2.**[^key-02714b84f753c8719e224e1f94b2ae34] An offence under section 1 of the Biological Weapons Act 1974 (c. 6) (development etc. of biological weapons).
+**2.**[^c-02714b84f753c8719e224e1f94b2ae34] An offence under section 1 of the Biological Weapons Act 1974 (c. 6) (development etc. of biological weapons).
 
 ### Offences against internationally protected persons
 
-**3.**[^key-b1c3631dcf22201071b2222e1f6d67fb] (1) Subject to sub-paragraph (4), an offence mentioned in section 1(1)(a) of the Internationally Protected Persons Act 1978 (c. 17) (attacks against protected persons committed outside the United Kingdom) which is committed (whether in the United Kingdom or elsewhere) in relation to a protected person.
+**3.**[^c-b1c3631dcf22201071b2222e1f6d67fb] (1) Subject to sub-paragraph (4), an offence mentioned in section 1(1)(a) of the Internationally Protected Persons Act 1978 (c. 17) (attacks against protected persons committed outside the United Kingdom) which is committed (whether in the United Kingdom or elsewhere) in relation to a protected person.
 
 (2) Subject to sub-paragraph (4), an offence mentioned in section 1(1)(b) of that Act (attacks on relevant premises etc.) which is committed (whether in the United Kingdom or elsewhere) in connection with an attack—
 
@@ -1374,11 +1374,11 @@ Section 20
 
 ### Hostage-taking
 
-**4.**[^key-481bcdec4173092d69ef9302ef634605] An offence under section 1 of the Taking of Hostages Act 1982 (c. 28) (hostage-taking).
+**4.**[^c-481bcdec4173092d69ef9302ef634605] An offence under section 1 of the Taking of Hostages Act 1982 (c. 28) (hostage-taking).
 
 ### Hijacking and other offences against aircraft
 
-**5.**[^key-df606e5d54209e69cc6d89ee1bdf8c5e] Offences under any of the following provisions of the Aviation Security Act 1982 (c. 36)—
+**5.**[^c-df606e5d54209e69cc6d89ee1bdf8c5e] Offences under any of the following provisions of the Aviation Security Act 1982 (c. 36)—
 
 - (a) section 1 (hijacking);
 - (b) section 2 (destroying, damaging or endangering safety of aircraft);
@@ -1387,9 +1387,9 @@ Section 20
 
 ### Offences involving nuclear material or nuclear facilities[^M_F_e75b20cb-09a5-49f7-a7f1-8f123d87064a]
 
-**6.**[^key-0082238ca73c852cf36444a5fc90cc8f] (1) An offence mentioned in section 1(1)(a) to (d)[^key-f061f5bf7e02d1e02c306fb1e2c5429a] of the Nuclear Material (Offences) Act 1983 (c. 18) (offences in relation to nuclear material committed outside the United Kingdom) which is committed (whether in the United Kingdom or elsewhere) in relation to or by means of nuclear material.
+**6.**[^c-0082238ca73c852cf36444a5fc90cc8f] (1) An offence mentioned in section 1(1)(a) to (d)[^c-f061f5bf7e02d1e02c306fb1e2c5429a] of the Nuclear Material (Offences) Act 1983 (c. 18) (offences in relation to nuclear material committed outside the United Kingdom) which is committed (whether in the United Kingdom or elsewhere) in relation to or by means of nuclear material.
 
-(2)[^key-313c904957923a1cd9280ea01b43e59a] An offence mentioned in section 1(1)(a) or (b) of that Act where the act making the person guilty of the offence (whether done in the United Kingdom or elsewhere)—
+(2)[^c-313c904957923a1cd9280ea01b43e59a] An offence mentioned in section 1(1)(a) or (b) of that Act where the act making the person guilty of the offence (whether done in the United Kingdom or elsewhere)—
 
 - (a) is directed at a nuclear facility or interferes with the operation of such a facility, and
 - (b) causes death, injury or damage resulting from the emission of ionising radiation or the release of radioactive material.
@@ -1402,7 +1402,7 @@ Section 20
 
 (4) Expressions used in this paragraph and that Act have the same meanings in this paragraph as in that Act.
 
-**6A.**[^key-893308596e2f8010ac32ca4091b99145] (1) Any of the following offences under the Customs and Excise Management Act 1979—
+**6A.**[^c-893308596e2f8010ac32ca4091b99145] (1) Any of the following offences under the Customs and Excise Management Act 1979—
 
 - (a) an offence under section 50(2) or (3) (improper importation of goods) in connection with a prohibition or restriction relating to the importation of nuclear material;
 - (b) an offence under section 68(2) (exportation of prohibited or restricted goods) in connection with a prohibition or restriction relating to the exportation or shipment as stores of nuclear material;
@@ -1412,7 +1412,7 @@ Section 20
 
 ### Offences under the Aviation and Maritime Security Act 1990 (c. 31)
 
-**7.**[^key-33ef13d938c44e545a6c794cfc9b1bc2] Offences under any of the following provisions of the Aviation and Maritime Security Act 1990—
+**7.**[^c-33ef13d938c44e545a6c794cfc9b1bc2] Offences under any of the following provisions of the Aviation and Maritime Security Act 1990—
 
 - (a) section 1 (endangering safety at aerodromes);
 - (b) section 9 (hijacking of ships);
@@ -1424,11 +1424,11 @@ Section 20
 
 ### Offences involving chemical weapons
 
-**8.**[^key-86fe7ef77d56c834ce27c6088f566b0e] An offence under section 2 of the Chemical Weapons Act 1996 (c. 6) (use, development etc. of chemical weapons).
+**8.**[^c-86fe7ef77d56c834ce27c6088f566b0e] An offence under section 2 of the Chemical Weapons Act 1996 (c. 6) (use, development etc. of chemical weapons).
 
 ### Terrorist funds
 
-**9.**[^key-1407e9e623983764ee42d133a3f45277] An offence under any of the following provisions of the Terrorism Act 2000 (c. 11)—
+**9.**[^c-1407e9e623983764ee42d133a3f45277] An offence under any of the following provisions of the Terrorism Act 2000 (c. 11)—
 
 - (a) section 15 (terrorist fund-raising);
 - (b) section 16 (use or possession of terrorist funds);
@@ -1437,18 +1437,18 @@ Section 20
 
 ### Directing terrorist organisations
 
-**10.**[^key-7ae11b012e8984ea7375703fe12d614d] An offence under section 56 of the Terrorism Act 2000 (directing a terrorist organisation).
+**10.**[^c-7ae11b012e8984ea7375703fe12d614d] An offence under section 56 of the Terrorism Act 2000 (directing a terrorist organisation).
 
 ### Offences involving nuclear weapons
 
-**11.**[^key-2eac515bf5e6ec41061bedbb4baf0b2c] An offence under section 47 of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (use, development etc. of nuclear weapons).
+**11.**[^c-2eac515bf5e6ec41061bedbb4baf0b2c] An offence under section 47 of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (use, development etc. of nuclear weapons).
 
 ### Conspiracy etc.
 
-**12.**[^key-b602d962c1e78573730f2307fc9246b1] Any of the following offences—
+**12.**[^c-b602d962c1e78573730f2307fc9246b1] Any of the following offences—
 
 - (a) conspiracy to commit a Convention offence;
-- (b)[^key-b8e84b414e13c31a82ad10eccbc2d0d9] inciting the commission of a Convention offence;
+- (b)[^c-b8e84b414e13c31a82ad10eccbc2d0d9] inciting the commission of a Convention offence;
 - (c) attempting to commit a Convention offence;
 - (d) aiding, abetting, counselling or procuring the commission of a Convention offence.
 
@@ -1458,14 +1458,14 @@ Section 28
 
 ### Application of Schedule
 
-**1.**[^key-6a0c23c09bf74389dcafca2f4be5b067] This Schedule applies where an article—
+**1.**[^c-6a0c23c09bf74389dcafca2f4be5b067] This Schedule applies where an article—
 
 - (a) has been seized under the authority of a warrant under section 28; and
 - (b) is being retained in the custody of a constable (“the relevant constable”).
 
 ### Notice of seizure
 
-**2.**[^key-5df3d1d670996f10707e8041263ef9c5] (1) The relevant constable must give notice of the article's seizure to—
+**2.**[^c-5df3d1d670996f10707e8041263ef9c5] (1) The relevant constable must give notice of the article's seizure to—
 
 - (a) every person whom he believes to have been the owner of the article, or one of its owners, at the time of the seizure; and
 - (b) if there is no such person or it is not reasonably practicable to give him notice, every person whom the relevant constable believes to have been an occupier at that time of the premises where the article was seized.
@@ -1505,11 +1505,11 @@ the references in this paragraph to its principal office include references to i
 
 ### Notice of claim
 
-**3.**[^key-be6df564a973ed446e125e447b49c9a4] (1) A person claiming that the seized article is not liable to forfeiture may give notice of his claim to a constable at any police station in the police area in which the premises where the seizure took place are located.
+**3.**[^c-be6df564a973ed446e125e447b49c9a4] (1) A person claiming that the seized article is not liable to forfeiture may give notice of his claim to a constable at any police station in the police area in which the premises where the seizure took place are located.
 
 (2) Oral notice is not sufficient for these purposes.
 
-**4.**[^key-a1745bd955e19fdc80a86fd96b218b4a] (1) A notice of claim may not be given more than one month after—
+**4.**[^c-a1745bd955e19fdc80a86fd96b218b4a] (1) A notice of claim may not be given more than one month after—
 
 - (a) the day of the giving of the notice of seizure; or
 - (b) if no such notice has been given, the day of the seizure.
@@ -1528,14 +1528,14 @@ the references in this paragraph to its principal office include references to i
 
 ### Automatic forfeiture in a case where no claim is made
 
-**5.**[^key-f0977c6502d3fbc0b64d78a878129234] The article is to be treated as forfeited if, by the end of the period for the giving of a notice of claim in respect of it—
+**5.**[^c-f0977c6502d3fbc0b64d78a878129234] The article is to be treated as forfeited if, by the end of the period for the giving of a notice of claim in respect of it—
 
 - (a) no such notice has been given; or
 - (b) the requirements of paragraphs 3 and 4 have not been complied with in relation to the only notice or notices of claim that have been given.
 
 ### Forfeiture by the court in other cases
 
-**6.**[^key-b45a23c21a3fbbedb2a928c9471251aa] (1) Where a notice of claim in respect of an article is duly given in accordance with paragraphs 3 and 4, the relevant constable must decide whether to take proceedings to ask the court to condemn the article as forfeited.
+**6.**[^c-b45a23c21a3fbbedb2a928c9471251aa] (1) Where a notice of claim in respect of an article is duly given in accordance with paragraphs 3 and 4, the relevant constable must decide whether to take proceedings to ask the court to condemn the article as forfeited.
 
 (2) The decision whether to take such proceedings must be made as soon as reasonably practicable after the giving of the notice of claim.
 
@@ -1559,13 +1559,13 @@ the court must order the return of the article to the person who appears to the 
 
 ### Forfeiture proceedings
 
-**7.**[^key-4429e8dd5b599761660fae1d251e1bfd] Proceedings by virtue of this Schedule are civil proceedings and may be instituted—
+**7.**[^c-4429e8dd5b599761660fae1d251e1bfd] Proceedings by virtue of this Schedule are civil proceedings and may be instituted—
 
 - (a) in England or Wales, either in the High Court or in a magistrates' court;
 - (b) in Scotland, either in the Court of Session or in the sheriff court; and
 - (c) in Northern Ireland, either in the High Court or in a court of summary jurisdiction.
 
-**8.**[^key-68cac258fe3eedbabe2bda10b103d532] Proceedings by virtue of this Schedule in—
+**8.**[^c-68cac258fe3eedbabe2bda10b103d532] Proceedings by virtue of this Schedule in—
 
 - (a) a magistrates' court in England or Wales,
 - (b) the sheriff court in Scotland, or
@@ -1573,7 +1573,7 @@ the court must order the return of the article to the person who appears to the 
 
 may be instituted in that court only if it has jurisdiction in relation to the place where the article to which they relate was seized.
 
-**9.**[^key-71758da24e8bd59e96e153f6624773ec] (1) In proceedings by virtue of this Schedule that are instituted in England and Wales or Northern Ireland, the claimant or his solicitor must make his oath that, at the time of the seizure, the seized article was, or was to the best of his knowledge and belief, the property of the claimant.
+**9.**[^c-71758da24e8bd59e96e153f6624773ec] (1) In proceedings by virtue of this Schedule that are instituted in England and Wales or Northern Ireland, the claimant or his solicitor must make his oath that, at the time of the seizure, the seized article was, or was to the best of his knowledge and belief, the property of the claimant.
 
 (2) In any such proceedings instituted in the High Court—
 
@@ -1582,21 +1582,21 @@ may be instituted in that court only if it has jurisdiction in relation to the p
 
 (3) If a requirement of this paragraph is not complied with, the court must find against the claimant.
 
-**10.**[^key-e0d036d97df7140b70dc622da89a0c11] (1) In the case of proceedings by virtue of this Schedule that are instituted in a magistrates' court in England or Wales, either party may appeal against the decision of that court to the Crown Court.
+**10.**[^c-e0d036d97df7140b70dc622da89a0c11] (1) In the case of proceedings by virtue of this Schedule that are instituted in a magistrates' court in England or Wales, either party may appeal against the decision of that court to the Crown Court.
 
 (2) In the case of such proceedings that are instituted in a court of summary jurisdiction in Northern Ireland, either party may appeal against the decision of that court to the county court.
 
 (3) This paragraph does not affect any right to require the statement of a case for the opinion of the High Court.
 
-**11.**[^key-9ab88eef73dccd9382599b9a4fa9bfe5] Where an appeal has been made (whether by case stated or otherwise) against the decision of the court in proceedings by virtue of this Schedule in relation to an article, the article is to be left in the custody of a constable pending the final determination of the matter.
+**11.**[^c-9ab88eef73dccd9382599b9a4fa9bfe5] Where an appeal has been made (whether by case stated or otherwise) against the decision of the court in proceedings by virtue of this Schedule in relation to an article, the article is to be left in the custody of a constable pending the final determination of the matter.
 
 ### Effect of forfeiture
 
-**12.**[^key-502d219299df6501970abd7f781b2b4e] Where an article is treated or condemned as forfeited under this Schedule, the forfeiture is to be treated as having taken effect as from the time of the seizure.
+**12.**[^c-502d219299df6501970abd7f781b2b4e] Where an article is treated or condemned as forfeited under this Schedule, the forfeiture is to be treated as having taken effect as from the time of the seizure.
 
 ### Disposal of unclaimed property
 
-**13.**[^key-8d2cfc557a653383a0868deea236aacd] (1) This paragraph applies where the article seized under the authority of a warrant under section 28 is required to be returned to a person.
+**13.**[^c-8d2cfc557a653383a0868deea236aacd] (1) This paragraph applies where the article seized under the authority of a warrant under section 28 is required to be returned to a person.
 
 (2) If—
 
@@ -1607,16 +1607,16 @@ the constable may dispose of it in any manner he thinks fit.
 
 ### Provisions as to proof
 
-**14.**[^key-ad33ee3b4cd0a5e00424d1e0873dacd5] In proceedings arising out of the seizure of an article, the fact, form and manner of the seizure is to be taken, without further evidence and unless the contrary is shown, to have been as set forth in the process.
+**14.**[^c-ad33ee3b4cd0a5e00424d1e0873dacd5] In proceedings arising out of the seizure of an article, the fact, form and manner of the seizure is to be taken, without further evidence and unless the contrary is shown, to have been as set forth in the process.
 
-**15.**[^key-7d4af931d1fbe7d9a6392f7ae4a90011] In proceedings, the condemnation by a court of an article as forfeited under this Schedule may be proved by the production of either—
+**15.**[^c-7d4af931d1fbe7d9a6392f7ae4a90011] In proceedings, the condemnation by a court of an article as forfeited under this Schedule may be proved by the production of either—
 
 - (a) the order of condemnation; or
 - (b) a certified copy of the order purporting to be signed by an officer of the court by which the order was made.
 
 ### Special provisions as to certain claimants
 
-**16.**[^key-540605c2756bc22139864dc87d4d3639] (1) This paragraph applies where, at the time of the seizure of the article, it was—
+**16.**[^c-540605c2756bc22139864dc87d4d3639] (1) This paragraph applies where, at the time of the seizure of the article, it was—
 
 - (a) the property of a body corporate;
 - (b) the property of two or more partners; or
@@ -1635,19 +1635,19 @@ the constable may dispose of it in any manner he thinks fit.
 
 ### Saving for owner's rights
 
-**17.**[^key-0f3f6ca9271662b9d53c61d619b205b7] Neither the imposition of a requirement by virtue of this Schedule to return an article to a person nor the return of an article to a person in accordance with such a requirement affects—
+**17.**[^c-0f3f6ca9271662b9d53c61d619b205b7] Neither the imposition of a requirement by virtue of this Schedule to return an article to a person nor the return of an article to a person in accordance with such a requirement affects—
 
 - (a) the rights in relation to that article of any other person; or
 - (b) the right of any other person to enforce his rights against the person to whom it is returned.
 
 ### Interpretation of Schedule
 
-**18.**[^key-7c6bf8cced70cf034b3857dd56f641de] In this Schedule—
+**18.**[^c-7c6bf8cced70cf034b3857dd56f641de] In this Schedule—
 
 - “**article**” has the same meaning as in Part 1 of this Act;
 - “**the court**” is to be construed in accordance with paragraph 7.
 
-## SCHEDULE 3 — Repeals[^key-75bb2f1825d87530263cd2162d476889][^key-a83f04432700e6af760a4b7a3debe9bf]
+## SCHEDULE 3 — Repeals[^c-75bb2f1825d87530263cd2162d476889][^c-a83f04432700e6af760a4b7a3debe9bf]
 
 Section 37
 
@@ -1659,274 +1659,274 @@ Section 37
 
 ## Annotations
 
-[^key-a3d167e50e3cba9b86e3884b10b4ce90]: Commencement: S. 1 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-a3d167e50e3cba9b86e3884b10b4ce90]: Commencement: S. 1 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-facf4aada4649bd456ed33ae4a2a34b7]: Textual amendment: Words in s. 1(1) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-facf4aada4649bd456ed33ae4a2a34b7]: Textual amendment: Words in s. 1(1) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-c70d424f8fb5de5a27f9d63be830c2c7]: Textual amendment: Words in s. 1(1) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-c70d424f8fb5de5a27f9d63be830c2c7]: Textual amendment: Words in s. 1(1) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-ba18944cac39b10b6e5e318ad6b3a924]: Textual amendment: Words in s. 1(3) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/4/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-ba18944cac39b10b6e5e318ad6b3a924]: Textual amendment: Words in s. 1(3) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/4/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-d599a9ea796231df42e6bec52252b0be]: Textual amendment: Word in s. 1(3)(b) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/4/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-d599a9ea796231df42e6bec52252b0be]: Textual amendment: Word in s. 1(3)(b) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/4/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-bea31558f221b7b04b826c1823dd7da3]: Textual amendment: Words in s. 1(7)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
+[^c-bea31558f221b7b04b826c1823dd7da3]: Textual amendment: Words in s. 1(7)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
 
-[^key-b592cdafa7f45e9de2539bd52d57749b]: Textual amendment: Words in [s. 1(7)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/7/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-b592cdafa7f45e9de2539bd52d57749b]: Textual amendment: Words in [s. 1(7)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/7/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-9c1564860c3fc8ce407660f1bbd48051]: Textual amendment: Words in [s. 1(8)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-9c1564860c3fc8ce407660f1bbd48051]: Textual amendment: Words in [s. 1(8)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/8) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-509a16880cb40f3e636dd8a203b8cf30]: Textual amendment: Words in [s. 1(8)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/8) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-509a16880cb40f3e636dd8a203b8cf30]: Textual amendment: Words in [s. 1(8)](https://www.legislation.gov.uk/ukpga/2006/11/section/1/8) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-4b68e34a02676307b275835b0023bf42]: Commencement: S. 2 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-4b68e34a02676307b275835b0023bf42]: Commencement: S. 2 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-bccb78fe54e724d2abfe75a3ef694a91]: Textual amendment: Words in s. 2(3)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-bccb78fe54e724d2abfe75a3ef694a91]: Textual amendment: Words in s. 2(3)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-9d85b745d4fbae2bfe40de60b6220f97]: Textual amendment: Word in s. 2(4) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/7/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-9d85b745d4fbae2bfe40de60b6220f97]: Textual amendment: Word in s. 2(4) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/7/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-260aaea4d1ec452735a30a12b934ff37]: Textual amendment: Words in s. 2(4)(b) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(7)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/7/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-260aaea4d1ec452735a30a12b934ff37]: Textual amendment: Words in s. 2(4)(b) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 5(7)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/5/7/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-880443b490dcf95257fdaa9f3a17a120]: Textual amendment: Words in s. 2(11)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/7), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
+[^c-880443b490dcf95257fdaa9f3a17a120]: Textual amendment: Words in s. 2(11)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/7), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
 
-[^key-5bfbadf7fbed605ddfeb84c67c8eddee]: Textual amendment: Words in [s. 2(11)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/11/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-5bfbadf7fbed605ddfeb84c67c8eddee]: Textual amendment: Words in [s. 2(11)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/11/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-417fd9a630d7e03e84be1dbc9fb53226]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/12) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-417fd9a630d7e03e84be1dbc9fb53226]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/12) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-955324e44d5af85364efc353d5d148fa]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/12) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-955324e44d5af85364efc353d5d148fa]: Textual amendment: Words in [s. 2(12)](https://www.legislation.gov.uk/ukpga/2006/11/section/2/12) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-aceda5b0eb49eae3ace511b1bdbcab53]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/11/section/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-aceda5b0eb49eae3ace511b1bdbcab53]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/11/section/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-36b99decf2bb2540d180ee5636790792]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/11/section/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-36b99decf2bb2540d180ee5636790792]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2006/11/section/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-fa95b8d07bfd00c69dd1b18e2824cb19]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/11/section/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-fa95b8d07bfd00c69dd1b18e2824cb19]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2006/11/section/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-944e826de473a2495d269e4cbe7bd23f]: Commencement: S. 6 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-944e826de473a2495d269e4cbe7bd23f]: Commencement: S. 6 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-beb8e7f0c15f257212ccfd448d3fdb13]: Textual amendment: Words in s. 6(5)(a) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)
+[^c-beb8e7f0c15f257212ccfd448d3fdb13]: Textual amendment: Words in s. 6(5)(a) substituted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/3), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/1/4)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)
 
-[^key-865f28f857f3bfc1b1e5241c394badce]: Textual amendment: Words in [s. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/5/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-865f28f857f3bfc1b1e5241c394badce]: Textual amendment: Words in [s. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/5/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-f3bf943e438c86f03340a525eb5d0ad4]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-f3bf943e438c86f03340a525eb5d0ad4]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-89b03deb264d3d74878a7f192b089d00]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-89b03deb264d3d74878a7f192b089d00]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/6/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-5e98d8633e39d4501129fb2057fb8b2e]: Commencement: S. 7 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-5e98d8633e39d4501129fb2057fb8b2e]: Commencement: S. 7 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-eeb674c031e99570c1a7eae06e937f43]: Textual amendment: [S. 7(7)](https://www.legislation.gov.uk/ukpga/2006/11/section/7/7) inserted (18.6.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/38/2), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-eeb674c031e99570c1a7eae06e937f43]: Textual amendment: [S. 7(7)](https://www.legislation.gov.uk/ukpga/2006/11/section/7/7) inserted (18.6.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/38/2), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-07f0e5df95e12dcdefc5a127caf3ab8d]: Commencement: S. 8 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-07f0e5df95e12dcdefc5a127caf3ab8d]: Commencement: S. 8 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-1dfee591699ce07d3647c683a0250368]: Textual amendment: Word in [s. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/4/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/2), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))
+[^c-1dfee591699ce07d3647c683a0250368]: Textual amendment: Word in [s. 8(4)(a)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/4/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/2), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))
 
-[^key-c9a22d284717ddc32516184fb46c5931]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-c9a22d284717ddc32516184fb46c5931]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/4/b) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-53965c98e7c65db2e8ad9c47988e5b72]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-53965c98e7c65db2e8ad9c47988e5b72]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-e37e85e763ba3f43ec7693fb6af178f7]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-e37e85e763ba3f43ec7693fb6af178f7]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/8/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-46442aa7347512000c5d2cdab0de15aa]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/11/section/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-46442aa7347512000c5d2cdab0de15aa]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/11/section/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-5c66156a6c24a2ac25123f10925e04c8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/11/section/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-5c66156a6c24a2ac25123f10925e04c8]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/11/section/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-5c7f90bd8996796ab831d9b130a050de]: Commencement: S. 11 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-5c7f90bd8996796ab831d9b130a050de]: Commencement: S. 11 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-d41ffe85e72dc7590a2c23787df4c1f9]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2006/11/section/11A) inserted (18.6.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/38/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-d41ffe85e72dc7590a2c23787df4c1f9]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2006/11/section/11A) inserted (18.6.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/38/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-9380df41cb6b9336e7730c2dcb046d2e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/11/section/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-9380df41cb6b9336e7730c2dcb046d2e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/11/section/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-ccd68606ce1c7adae2ca17c1757f3f81]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/11/section/13) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-ccd68606ce1c7adae2ca17c1757f3f81]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/11/section/13) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-52b4687dc601d4f08b84387752795f9a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/11/section/14) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-52b4687dc601d4f08b84387752795f9a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/11/section/14) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-e146a34f661e3ca1816d8b55c3211dd1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/11/section/15) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-e146a34f661e3ca1816d8b55c3211dd1]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/11/section/15) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-eeb47aba335f826aef8747f6b4a43044]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/11/section/16) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-eeb47aba335f826aef8747f6b4a43044]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2006/11/section/16) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-b188e2090fc690157036a7bba0ee1dca]: Commencement: S. 17 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-b188e2090fc690157036a7bba0ee1dca]: Commencement: S. 17 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-ec4957d8890b59d382ecd4cd7c2c8a50]: Textual amendment: Words in s. 17(2)(a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-ec4957d8890b59d382ecd4cd7c2c8a50]: Textual amendment: Words in s. 17(2)(a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-0bc14aff566460013440a788499c1c10]: Textual amendment: Words in s. 17(2)(a) omitted (3.3.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(5)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/b), [Sch. 4 para. 74(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/74/a)
+[^c-0bc14aff566460013440a788499c1c10]: Textual amendment: Words in s. 17(2)(a) omitted (3.3.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(5)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/b), [Sch. 4 para. 74(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/74/a)
 
-[^key-feedf4ac44617f53e26e711dd92846fa]: Textual amendment: Words in s. 17(2)(a) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-feedf4ac44617f53e26e711dd92846fa]: Textual amendment: Words in s. 17(2)(a) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-a1d08e61f2c56cc2d6d06bdfdc878e5d]: Textual amendment: Words in s. 17(2)(b) inserted (3.3.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 81](https://www.legislation.gov.uk/ukpga/2015/9/section/81), [88(5)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/b) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
+[^c-a1d08e61f2c56cc2d6d06bdfdc878e5d]: Textual amendment: Words in s. 17(2)(b) inserted (3.3.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 81](https://www.legislation.gov.uk/ukpga/2015/9/section/81), [88(5)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/b) (with [s. 86(10)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/10))
 
-[^key-47e370ca4787156af9b3de364c6c30ad]: Textual amendment: S. 17(2)(ca)(cb) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-47e370ca4787156af9b3de364c6c30ad]: Textual amendment: S. 17(2)(ca)(cb) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/4), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-26ebef86f2d7e1e95afdc9699e62c8fe]: Textual amendment: S. 17(2)(da) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/5), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-26ebef86f2d7e1e95afdc9699e62c8fe]: Textual amendment: S. 17(2)(da) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/5), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-69e1bb88227a5d131f591062647d3423]: Modification: S. 17(2)(f) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 52(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/52/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-69e1bb88227a5d131f591062647d3423]: Modification: S. 17(2)(f) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 52(a)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/52/a) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-ed0b93101ac2a6c323c35de6dd35ddb8]: Textual amendment: Words in s. 17(3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-ed0b93101ac2a6c323c35de6dd35ddb8]: Textual amendment: Words in s. 17(3) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/6), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-dd23d91ceb43f7b742e4e0947eb9ef31]: Textual amendment: S. 17(3A)(3B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/7), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
+[^c-dd23d91ceb43f7b742e4e0947eb9ef31]: Textual amendment: S. 17(3A)(3B) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 6(7)](https://www.legislation.gov.uk/ukpga/2019/3/section/6/7), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/1))
 
-[^key-e973c9540654eb4cb4870adc1132ea41]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/11/section/18) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-e973c9540654eb4cb4870adc1132ea41]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2006/11/section/18) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-2832e129e0207f00a666dbfa565a5291]: Commencement: S. 19 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-2832e129e0207f00a666dbfa565a5291]: Commencement: S. 19 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-61c83766098bec32906cf9f6fbbc4658]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/19/2) inserted (16.2.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 29](https://www.legislation.gov.uk/ukpga/2008/28/section/29), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/58/article/2/a)
+[^c-61c83766098bec32906cf9f6fbbc4658]: Textual amendment: Words in [s. 19(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/19/2) inserted (16.2.2009) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 29](https://www.legislation.gov.uk/ukpga/2008/28/section/29), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/58/article/2/a)
 
-[^key-5747d341cfb562c627ddef245ceed03e]: Commencement: S. 20 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-5747d341cfb562c627ddef245ceed03e]: Commencement: S. 20 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-7d40175a7a78e41847cc4ee15ab85e89]: Textual amendment: Words in s. 20(2) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 27(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/27/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-7d40175a7a78e41847cc4ee15ab85e89]: Textual amendment: Words in s. 20(2) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 27(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/27/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-5d6df5d74419db786b55341bf30a0f9b]: Textual amendment: S. 20(2A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 27(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/27/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-5d6df5d74419db786b55341bf30a0f9b]: Textual amendment: S. 20(2A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 27(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/27/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-1b8f803a3f322e1e1b4902d3c2e23da6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/11/section/21) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-1b8f803a3f322e1e1b4902d3c2e23da6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/11/section/21) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-fad083f6a085897d492949f619378d2d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2006/11/section/22) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-fad083f6a085897d492949f619378d2d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2006/11/section/22) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-34fb08724202ec58efe62773403bf709]: Commencement: S. 23 in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
+[^c-34fb08724202ec58efe62773403bf709]: Commencement: S. 23 in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
 
-[^key-8d16e2baf2e3c4ac9e1f7d91ccab66b9]: Textual amendment: [S. 23(8)-(10)](https://www.legislation.gov.uk/ukpga/2006/11/section/23/8) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+[^c-8d16e2baf2e3c4ac9e1f7d91ccab66b9]: Textual amendment: [S. 23(8)-(10)](https://www.legislation.gov.uk/ukpga/2006/11/section/23/8) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
 
-[^key-f7d8b00ce09f5fcb44f87b5911756ca8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2006/11/section/24) in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
+[^c-f7d8b00ce09f5fcb44f87b5911756ca8]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2006/11/section/24) in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
 
-[^key-242be8ec4fe2f1722f7b5f673acf2f0c]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2006/11/section/25) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/57/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pts. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/a)
+[^c-242be8ec4fe2f1722f7b5f673acf2f0c]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2006/11/section/25) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/57/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pts. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/a)
 
-[^key-b83513b804f70b86645fcfd32dce12d4]: Commencement: S. 25 in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
+[^c-b83513b804f70b86645fcfd32dce12d4]: Commencement: S. 25 in force at 25.7.2006 by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/a)
 
-[^key-1008c20b9ff496e6f683b941799786f7]: Modification: S. 25 disapplied (temp. until 25.07.2008) (25.7.2007) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2007 (S.I. 2007/2181)](https://www.legislation.gov.uk/uksi/2007/2181), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2181/article/1), [2](https://www.legislation.gov.uk/uksi/2007/2181/article/2)
+[^c-1008c20b9ff496e6f683b941799786f7]: Modification: S. 25 disapplied (temp. until 25.07.2008) (25.7.2007) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2007 (S.I. 2007/2181)](https://www.legislation.gov.uk/uksi/2007/2181), [arts. 1](https://www.legislation.gov.uk/uksi/2007/2181/article/1), [2](https://www.legislation.gov.uk/uksi/2007/2181/article/2)
 
-[^key-6ae44c7620ba90268ba7d303d8ae673c]: Modification: S. 25 disapplied (25.7.2008) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2008 (S.I. 2008/1745)](https://www.legislation.gov.uk/uksi/2008/1745), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1745/article/1), [2](https://www.legislation.gov.uk/uksi/2008/1745/article/2)
+[^c-6ae44c7620ba90268ba7d303d8ae673c]: Modification: S. 25 disapplied (25.7.2008) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2008 (S.I. 2008/1745)](https://www.legislation.gov.uk/uksi/2008/1745), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1745/article/1), [2](https://www.legislation.gov.uk/uksi/2008/1745/article/2)
 
-[^key-e2f9043c7807e113f23c9196dbaff65b]: Modification: S. 25 disapplied (temp.) (25.7.2009) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2009 (S.I. 2009/1883)](https://www.legislation.gov.uk/uksi/2009/1883), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1883/article/1), [2](https://www.legislation.gov.uk/uksi/2009/1883/article/2)
+[^c-e2f9043c7807e113f23c9196dbaff65b]: Modification: S. 25 disapplied (temp.) (25.7.2009) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2009 (S.I. 2009/1883)](https://www.legislation.gov.uk/uksi/2009/1883), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1883/article/1), [2](https://www.legislation.gov.uk/uksi/2009/1883/article/2)
 
-[^key-8395de74d23ef510d0a250f56fa422af]: Modification: S. 25 disapplied (temp.) (25.7.2010) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2010 (S.I. 2010/1909)](https://www.legislation.gov.uk/uksi/2010/1909), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1909/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1909/article/2)
+[^c-8395de74d23ef510d0a250f56fa422af]: Modification: S. 25 disapplied (temp.) (25.7.2010) by [Terrorism Act 2006 (Disapplication of Section 25) Order 2010 (S.I. 2010/1909)](https://www.legislation.gov.uk/uksi/2010/1909), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1909/article/1), [2](https://www.legislation.gov.uk/uksi/2010/1909/article/2)
 
-[^key-1a850acaa5016619e53c88d88fbbbf17]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2006/11/section/26) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-1a850acaa5016619e53c88d88fbbbf17]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2006/11/section/26) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-47b37450766c979836e892e526014be7]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2006/11/section/27) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-47b37450766c979836e892e526014be7]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2006/11/section/27) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-07a48bb6c76221a0c564a18dda4092e3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/11/section/28) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-07a48bb6c76221a0c564a18dda4092e3]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2006/11/section/28) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-fecb3801864af635683da4b20ebf6a33]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/11/section/29) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-fecb3801864af635683da4b20ebf6a33]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/11/section/29) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-56fdc60dac1637fd440272c484c246fe]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2006/11/section/30) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
+[^c-56fdc60dac1637fd440272c484c246fe]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2006/11/section/30) repealed (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/l)
 
-[^key-fa0e4c9ec680a58308dcb66d290ec96c]: Commencement: S. 30 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-fa0e4c9ec680a58308dcb66d290ec96c]: Commencement: S. 30 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-9a66fa468f79d5bb6ed29fd62af2156e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/11/section/31) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-9a66fa468f79d5bb6ed29fd62af2156e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/11/section/31) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-ae7d6be1f6704ae73a75f98c002bd5f0]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2006/11/section/32) repealed (27.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/i)
+[^c-ae7d6be1f6704ae73a75f98c002bd5f0]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2006/11/section/32) repealed (27.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2018/940/regulation/5/i)
 
-[^key-167c2896452e67a788fd83f77a48f656]: Commencement: S. 32 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-167c2896452e67a788fd83f77a48f656]: Commencement: S. 32 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-ab0a0223fd722137d92e3c6c6629622d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/11/section/33) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-ab0a0223fd722137d92e3c6c6629622d]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/11/section/33) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-0439ed94e9c38d5df39290e21e7b03fe]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/11/section/34) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-0439ed94e9c38d5df39290e21e7b03fe]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/11/section/34) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-f91e6e796401058e89be0e54db0e6c49]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/11/section/35) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-f91e6e796401058e89be0e54db0e6c49]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/11/section/35) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-ce038af31fb00482287826713ba0cc88]: Commencement: S. 36 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-ce038af31fb00482287826713ba0cc88]: Commencement: S. 36 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-44b0334ee4eb4f4893970c0b116775de]: Textual amendment: Words in [s. 36(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/2) substituted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/a), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
+[^c-44b0334ee4eb4f4893970c0b116775de]: Textual amendment: Words in [s. 36(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/2) substituted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/a), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
 
-[^key-dda09c30151cde75280e94cc9d0f9a65]: Textual amendment: S. 36(2A) inserted (7.8.2012) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/117/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2012/1810](https://www.legislation.gov.uk/uksi/2012/1810), [art. 2](https://www.legislation.gov.uk/uksi/2012/1810/article/2)
+[^c-dda09c30151cde75280e94cc9d0f9a65]: Textual amendment: S. 36(2A) inserted (7.8.2012) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/117/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2012/1810](https://www.legislation.gov.uk/uksi/2012/1810), [art. 2](https://www.legislation.gov.uk/uksi/2012/1810/article/2)
 
-[^key-b4f66f9023e4c5830845341db4260077]: Textual amendment: Words in s. 36(3) substituted (7.8.2012) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/117/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2012/1810](https://www.legislation.gov.uk/uksi/2012/1810), [art. 2](https://www.legislation.gov.uk/uksi/2012/1810/article/2)
+[^c-b4f66f9023e4c5830845341db4260077]: Textual amendment: Words in s. 36(3) substituted (7.8.2012) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/117/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2012/1810](https://www.legislation.gov.uk/uksi/2012/1810), [art. 2](https://www.legislation.gov.uk/uksi/2012/1810/article/2)
 
-[^key-90e4f40eb4f9d06ecb4ab58cdce4c5dc]: Textual amendment: Words in s. 36(3)(4) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-90e4f40eb4f9d06ecb4ab58cdce4c5dc]: Textual amendment: Words in s. 36(3)(4) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/a) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-ae272855a7fda0ac8ef27ec25cd2ef22]: Textual amendment: Words in [s. 36(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/4) substituted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/b), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
+[^c-ae272855a7fda0ac8ef27ec25cd2ef22]: Textual amendment: Words in [s. 36(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/4) substituted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/b), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
 
-[^key-64958f268900358d2d0c85296effe851]: Textual amendment: S. 36(4A)(4B) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/58/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)
+[^c-64958f268900358d2d0c85296effe851]: Textual amendment: S. 36(4A)(4B) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/58/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)
 
-[^key-679b51968a03e4eee3ea6db5e3d927dc]: Textual amendment: [S. 36(4C)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/4C) inserted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/c), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
+[^c-679b51968a03e4eee3ea6db5e3d927dc]: Textual amendment: [S. 36(4C)](https://www.legislation.gov.uk/ukpga/2006/11/section/36/4C) inserted (12.4.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 45(1)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/45/1/c), [52(2)(b)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/2/b)
 
-[^key-7b7b66ae17e68281519c51c5037eb3e1]: Textual amendment: Words in s. 36(5) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-7b7b66ae17e68281519c51c5037eb3e1]: Textual amendment: Words in s. 36(5) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/b) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-cfb6ed1cf43e53d5229a7380a095c631]: Textual amendment: Words in s. 36(6) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-cfb6ed1cf43e53d5229a7380a095c631]: Textual amendment: Words in s. 36(6) substituted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-310dd2a6b85f008c9bab484773532813]: Textual amendment: S. 36(6A) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(d)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/d) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-310dd2a6b85f008c9bab484773532813]: Textual amendment: S. 36(6A) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 32(d)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/32/d) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-b2fe235815261f7fe521fff413a8458b]: Commencement: [S. 37(1)-(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/c)
+[^c-b2fe235815261f7fe521fff413a8458b]: Commencement: [S. 37(1)-(4)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/c)
 
-[^key-06ed03dc7388aa3105b9e3f4cdfc0410]: Commencement: [S. 37(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/5) in force at 13.4.2006 for specified purposes by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/d)
+[^c-06ed03dc7388aa3105b9e3f4cdfc0410]: Commencement: [S. 37(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/5) in force at 13.4.2006 for specified purposes by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/d)
 
-[^key-de6dede86c024a1249e37f88c77f3100]: Commencement: [S. 37(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/5) in force at 25.7.2006 in so far as not already in force by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/b)
+[^c-de6dede86c024a1249e37f88c77f3100]: Commencement: [S. 37(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/37/5) in force at 25.7.2006 in so far as not already in force by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/b)
 
-[^key-e803763875605e0e46a3228c349fe01c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/11/section/38) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/c)
+[^c-e803763875605e0e46a3228c349fe01c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/11/section/38) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/c)
 
-[^key-b7676b9da0a03ce85eea88838830dea7]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) modified (12.2.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [97(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/97/4)
+[^c-b7676b9da0a03ce85eea88838830dea7]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) modified (12.2.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [97(4)](https://www.legislation.gov.uk/ukpga/2015/2/section/97/4)
 
-[^key-44a8d80bd950b2ed255e57db619ecd79]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) modified (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 51(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/51/4), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-44a8d80bd950b2ed255e57db619ecd79]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) modified (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 51(4)](https://www.legislation.gov.uk/ukpga/2015/6/section/51/4), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-67e0eb3cdaa7e5594d9b734223fdbdc4]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) power applied (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2019/3/section/26/8), [27(1)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/c)
+[^c-67e0eb3cdaa7e5594d9b734223fdbdc4]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) power applied (12.2.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 26(8)](https://www.legislation.gov.uk/ukpga/2019/3/section/26/8), [27(1)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/c)
 
-[^key-7ad9959d0d0989018c25e642ed579997]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) power extended (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 49(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/49/8), [50(1)(h)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/h)
+[^c-7ad9959d0d0989018c25e642ed579997]: Modification: [S. 39(6)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/6) power extended (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 49(8)](https://www.legislation.gov.uk/ukpga/2021/11/section/49/8), [50(1)(h)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/h)
 
-[^key-261729dc727e1cc0ff0a609f1558e661]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-261729dc727e1cc0ff0a609f1558e661]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-02714b84f753c8719e224e1f94b2ae34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/2) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-02714b84f753c8719e224e1f94b2ae34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/2) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-b1c3631dcf22201071b2222e1f6d67fb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-b1c3631dcf22201071b2222e1f6d67fb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-481bcdec4173092d69ef9302ef634605]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-481bcdec4173092d69ef9302ef634605]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-df606e5d54209e69cc6d89ee1bdf8c5e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-df606e5d54209e69cc6d89ee1bdf8c5e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
 [^M_F_e75b20cb-09a5-49f7-a7f1-8f123d87064a]: Textual amendment: Words in Sch. 1 inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), s. 153(7), Sch. 26 para. 79(2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), art. 2(s)
 
-[^key-0082238ca73c852cf36444a5fc90cc8f]: Commencement: Sch. 1 para. 6 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013) , [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-0082238ca73c852cf36444a5fc90cc8f]: Commencement: Sch. 1 para. 6 in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013) , [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-f061f5bf7e02d1e02c306fb1e2c5429a]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) , [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) , [Sch. 26 para. 79(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/3) ; [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
+[^c-f061f5bf7e02d1e02c306fb1e2c5429a]: Textual amendment: Words in Sch. 1 para. 6(1) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) , [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) , [Sch. 26 para. 79(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/3) ; [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
 
-[^key-313c904957923a1cd9280ea01b43e59a]: Textual amendment: Sch. 1 para. 6(2)-(4) substituted for Sch. 1 para. 6(2)(3) (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) , [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) , [Sch. 26 para. 79(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/4) ; [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
+[^c-313c904957923a1cd9280ea01b43e59a]: Textual amendment: Sch. 1 para. 6(2)-(4) substituted for Sch. 1 para. 6(2)(3) (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) , [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7) , [Sch. 26 para. 79(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/4) ; [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074) , [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
 
-[^key-893308596e2f8010ac32ca4091b99145]: Textual amendment: Sch. 1 para. 6A inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 79(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
+[^c-893308596e2f8010ac32ca4091b99145]: Textual amendment: Sch. 1 para. 6A inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 79(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/79/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(s)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/s)
 
-[^key-33ef13d938c44e545a6c794cfc9b1bc2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/7) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-33ef13d938c44e545a6c794cfc9b1bc2]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/7) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-86fe7ef77d56c834ce27c6088f566b0e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/8) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-86fe7ef77d56c834ce27c6088f566b0e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/8) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-1407e9e623983764ee42d133a3f45277]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-1407e9e623983764ee42d133a3f45277]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-7ae11b012e8984ea7375703fe12d614d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-7ae11b012e8984ea7375703fe12d614d]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-2eac515bf5e6ec41061bedbb4baf0b2c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/11) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-2eac515bf5e6ec41061bedbb4baf0b2c]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/11) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-b602d962c1e78573730f2307fc9246b1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
+[^c-b602d962c1e78573730f2307fc9246b1]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/a)
 
-[^key-b8e84b414e13c31a82ad10eccbc2d0d9]: Modification: [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/12/b) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 52(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/52/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-b8e84b414e13c31a82ad10eccbc2d0d9]: Modification: [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/ukpga/2006/11/schedule/1/paragraph/12/b) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 52(b)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/52/b) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-6a0c23c09bf74389dcafca2f4be5b067]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-6a0c23c09bf74389dcafca2f4be5b067]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/1) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-5df3d1d670996f10707e8041263ef9c5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/2) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-5df3d1d670996f10707e8041263ef9c5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/2) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-be6df564a973ed446e125e447b49c9a4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-be6df564a973ed446e125e447b49c9a4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/3) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-a1745bd955e19fdc80a86fd96b218b4a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-a1745bd955e19fdc80a86fd96b218b4a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/4) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-f0977c6502d3fbc0b64d78a878129234]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-f0977c6502d3fbc0b64d78a878129234]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/5) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-b45a23c21a3fbbedb2a928c9471251aa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/6) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-b45a23c21a3fbbedb2a928c9471251aa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/6) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-4429e8dd5b599761660fae1d251e1bfd]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/7) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-4429e8dd5b599761660fae1d251e1bfd]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/7) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-68cac258fe3eedbabe2bda10b103d532]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/8) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-68cac258fe3eedbabe2bda10b103d532]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/8) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-71758da24e8bd59e96e153f6624773ec]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-71758da24e8bd59e96e153f6624773ec]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/9) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-e0d036d97df7140b70dc622da89a0c11]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-e0d036d97df7140b70dc622da89a0c11]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/10) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-9ab88eef73dccd9382599b9a4fa9bfe5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/11) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-9ab88eef73dccd9382599b9a4fa9bfe5]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/11) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-502d219299df6501970abd7f781b2b4e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-502d219299df6501970abd7f781b2b4e]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/12) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-8d2cfc557a653383a0868deea236aacd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/13) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-8d2cfc557a653383a0868deea236aacd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/13) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-ad33ee3b4cd0a5e00424d1e0873dacd5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/14) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-ad33ee3b4cd0a5e00424d1e0873dacd5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/14) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-7d4af931d1fbe7d9a6392f7ae4a90011]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/15) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-7d4af931d1fbe7d9a6392f7ae4a90011]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/15) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-540605c2756bc22139864dc87d4d3639]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/16) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-540605c2756bc22139864dc87d4d3639]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/16) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-0f3f6ca9271662b9d53c61d619b205b7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/17) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-0f3f6ca9271662b9d53c61d619b205b7]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/17) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-7c6bf8cced70cf034b3857dd56f641de]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/18) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-7c6bf8cced70cf034b3857dd56f641de]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2006/11/schedule/2/paragraph/18) in force at 13.4.2006 by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-75bb2f1825d87530263cd2162d476889]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/3) in force at 13.4.2006 for specified purposes by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/e)
+[^c-75bb2f1825d87530263cd2162d476889]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/3) in force at 13.4.2006 for specified purposes by [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/e)
 
-[^key-a83f04432700e6af760a4b7a3debe9bf]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/3) in force at 25.7.2006 in so far as not already in force by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/c)
+[^c-a83f04432700e6af760a4b7a3debe9bf]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/11/schedule/3) in force at 25.7.2006 in so far as not already in force by [S.I. 2006/1936](https://www.legislation.gov.uk/uksi/2006/1936), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/1936/article/2/2/c)

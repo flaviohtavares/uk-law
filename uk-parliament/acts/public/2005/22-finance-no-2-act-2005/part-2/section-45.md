@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3c78ecc4584d3e0f09f334e913a67686] Omit section 173 of, and Schedule 19 to, FA 1993 (Lloyd's underwriters: assessment and collection of tax).
+(1)[^c-3c78ecc4584d3e0f09f334e913a67686] Omit section 173 of, and Schedule 19 to, FA 1993 (Lloyd's underwriters: assessment and collection of tax).
 
-(2)[^key-3c78ecc4584d3e0f09f334e913a67686] In section 182 of that Act (regulations) in subsection (1)(a) (power of Commissioners for Her Majesty's Revenue and Customs to make regulations providing for assessment and collection of tax charged in accordance with section 171 of FA 1993, so far as not provided for by Schedule 19 to that Act) omit “(so far as not provided for by Schedule 19 to this Act)”.
+(2)[^c-3c78ecc4584d3e0f09f334e913a67686] In section 182 of that Act (regulations) in subsection (1)(a) (power of Commissioners for Her Majesty's Revenue and Customs to make regulations providing for assessment and collection of tax charged in accordance with section 171 of FA 1993, so far as not provided for by Schedule 19 to that Act) omit “(so far as not provided for by Schedule 19 to this Act)”.
 
-(3)[^key-3c78ecc4584d3e0f09f334e913a67686] In that section, at the end insert—
+(3)[^c-3c78ecc4584d3e0f09f334e913a67686] In that section, at the end insert—
 
 > (6) Any power to make regulations conferred by this section includes power to make—
 >
@@ -33,13 +33,13 @@ summary: ''
 
 .
 
-(4)[^key-59a904241cf8b870a59004511487da13] Omit section 221 of FA 1994 (Lloyd's underwriters: corporations etc: assessment and collection of tax).
+(4)[^c-59a904241cf8b870a59004511487da13] Omit section 221 of FA 1994 (Lloyd's underwriters: corporations etc: assessment and collection of tax).
 
-(5)[^key-59a904241cf8b870a59004511487da13] Renumber section 229 of that Act (regulations) as subsection (1) of that section.
+(5)[^c-59a904241cf8b870a59004511487da13] Renumber section 229 of that Act (regulations) as subsection (1) of that section.
 
-(6)[^key-59a904241cf8b870a59004511487da13] In subsection (1) of that section (as amended by subsection (5) above), in paragraph (a) (power of Commissioners for Her Majesty's Revenue and Customs to make regulations providing for assessment and collection of tax charged in accordance with section 219 of FA 1994, so far as not provided for by Schedule 19 to FA 1993 as applied by section 221 of FA 1994) omit “(so far as not provided for by Schedule 19 to the 1993 Act as applied by section 221 above)”.
+(6)[^c-59a904241cf8b870a59004511487da13] In subsection (1) of that section (as amended by subsection (5) above), in paragraph (a) (power of Commissioners for Her Majesty's Revenue and Customs to make regulations providing for assessment and collection of tax charged in accordance with section 219 of FA 1994, so far as not provided for by Schedule 19 to FA 1993 as applied by section 221 of FA 1994) omit “(so far as not provided for by Schedule 19 to the 1993 Act as applied by section 221 above)”.
 
-(7)[^key-59a904241cf8b870a59004511487da13] In that section, at the end insert—
+(7)[^c-59a904241cf8b870a59004511487da13] In that section, at the end insert—
 
 > (2) Any power to make regulations conferred by this section includes power to make—
 >
@@ -79,6 +79,6 @@ subsections (1) to (7) come into force on the day on which this Act is passed.
 
 [^c1274155]: Commencement: S. 45 partly in force; s. 45(1)-(7) in force for certain purposes at Royal Assent and s. 45(8)-(13) in force at Royal Assent, see s. 45(8)(9)
 
-[^key-3c78ecc4584d3e0f09f334e913a67686]: Commencement: S. 45(1)-(3) in force at 6.4.2006 in so far as not already in force by [S.I. 2005/3337](https://www.legislation.gov.uk/uksi/2005/3337), [art. 3](https://www.legislation.gov.uk/uksi/2005/3337/article/3)
+[^c-3c78ecc4584d3e0f09f334e913a67686]: Commencement: S. 45(1)-(3) in force at 6.4.2006 in so far as not already in force by [S.I. 2005/3337](https://www.legislation.gov.uk/uksi/2005/3337), [art. 3](https://www.legislation.gov.uk/uksi/2005/3337/article/3)
 
-[^key-59a904241cf8b870a59004511487da13]: Commencement: S. 45(4)-(7) in force at 1.1.2006 in so far as not already in force by [S.I. 2005/3337](https://www.legislation.gov.uk/uksi/2005/3337), [art. 2](https://www.legislation.gov.uk/uksi/2005/3337/article/2)
+[^c-59a904241cf8b870a59004511487da13]: Commencement: S. 45(4)-(7) in force at 1.1.2006 in so far as not already in force by [S.I. 2005/3337](https://www.legislation.gov.uk/uksi/2005/3337), [art. 2](https://www.legislation.gov.uk/uksi/2005/3337/article/2)

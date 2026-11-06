@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Consumer Council for Postal Services.[^key-cac74cdfaf89e10372ea2e43c2f290cb]
+## 2. The Consumer Council for Postal Services.[^c-cac74cdfaf89e10372ea2e43c2f290cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cac74cdfaf89e10372ea2e43c2f290cb]: Textual amendment: S. 2 repealed (21.12.2007 for specified purposes, 1.10.2008 in so far as not already in force) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-cac74cdfaf89e10372ea2e43c2f290cb]: Textual amendment: S. 2 repealed (21.12.2007 for specified purposes, 1.10.2008 in so far as not already in force) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546), [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

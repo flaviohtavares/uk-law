@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.25. Decision on the hearing[^key-8f2071a6561a3ee1f137a937c7d44fbd]
+## 6.25. Decision on the hearing[^c-8f2071a6561a3ee1f137a937c7d44fbd]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f2071a6561a3ee1f137a937c7d44fbd]: Commencement: [Rule 6.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8f2071a6561a3ee1f137a937c7d44fbd]: Commencement: [Rule 6.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00135]: Marginal citation: \[FORM 6.22\]

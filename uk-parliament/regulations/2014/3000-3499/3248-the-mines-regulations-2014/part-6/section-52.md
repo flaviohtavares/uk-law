@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Intake airways[^key-aa76f95c920820d3659e1476b6366c6b]
+## 52. Intake airways[^c-aa76f95c920820d3659e1476b6366c6b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The mine operator must ensure, so far as is reasonably practicable, that the int
 
 ## Annotations
 
-[^key-aa76f95c920820d3659e1476b6366c6b]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/3248/regulation/52) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-aa76f95c920820d3659e1476b6366c6b]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/3248/regulation/52) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

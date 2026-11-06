@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Conditions of grant or renewal of a licence[^key-957bd3b610b3ccf0c872e8779ecc16db]
+## 6. Conditions of grant or renewal of a licence[^c-957bd3b610b3ccf0c872e8779ecc16db]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-957bd3b610b3ccf0c872e8779ecc16db]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/84/regulation/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-957bd3b610b3ccf0c872e8779ecc16db]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/84/regulation/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

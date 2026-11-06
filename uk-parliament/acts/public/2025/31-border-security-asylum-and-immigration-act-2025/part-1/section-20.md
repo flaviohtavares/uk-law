@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Offences committed outside the United Kingdom[^key-e0ed7cb8002d0a32b8bc0b702614448f][^key-3aa4c0d5172d0d0ce03e6b48581e775e][^key-6336d189c1e7786c270df65420a5975f]
+## 20. Offences committed outside the United Kingdom[^c-e0ed7cb8002d0a32b8bc0b702614448f][^c-3aa4c0d5172d0d0ce03e6b48581e775e][^c-6336d189c1e7786c270df65420a5975f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ed7cb8002d0a32b8bc0b702614448f]: Commencement: S. 20 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-e0ed7cb8002d0a32b8bc0b702614448f]: Commencement: S. 20 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-3aa4c0d5172d0d0ce03e6b48581e775e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/31/section/20) in force at 5.1.2026 for specified purposes by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/c)
+[^c-3aa4c0d5172d0d0ce03e6b48581e775e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/31/section/20) in force at 5.1.2026 for specified purposes by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/c)
 
-[^key-6336d189c1e7786c270df65420a5975f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/31/section/20) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/b)
+[^c-6336d189c1e7786c270df65420a5975f]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/31/section/20) in force at 2.2.2026 in so far as not already in force by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/b)

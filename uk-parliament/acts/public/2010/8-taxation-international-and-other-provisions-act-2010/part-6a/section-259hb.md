@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259HB. Multinational payee deduction/non-inclusion mismatches and their extent[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259HB. Multinational payee deduction/non-inclusion mismatches and their extent[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,14 +25,14 @@ summary: ''
 - (a) the relevant deduction exceeds the sum of the amounts of ordinary income that, by reason of the payment or quasi-payment, arise to each payee for a permitted taxable period, and
 - (b) all or part of that excess arises by reason of one or more payees being multinational companies.
 
-(1A)[^key-cb7e0fcf0b82901b09969df06242601e] But there is no multinational payee deduction/non-inclusion mismatch so far as the relevant deduction is—
+(1A)[^c-cb7e0fcf0b82901b09969df06242601e] But there is no multinational payee deduction/non-inclusion mismatch so far as the relevant deduction is—
 
 - (a) a debit in respect of amortisation that is brought into account under section 729 or 731 of CTA 2009 (writing down the capitalised cost of an intangible fixed asset), or
 - (b) an amount that is deductible in respect of amortisation under a provision of the law of a territory outside the United Kingdom that is equivalent to either of those sections.
 
 (2) The extent of the multinational payee deduction/non-inclusion mismatch is equal to the excess that arises as mentioned in subsection (1)(b).
 
-(2A)[^key-b56467de3dfddcb189ebe08301c0e2f0] The excess is to be taken (so far as would not otherwise be the case) to arise for the purposes of subsection (1)(b) by reason of a payee being a multinational company so far as it would not arise if it is assumed—
+(2A)[^c-b56467de3dfddcb189ebe08301c0e2f0] The excess is to be taken (so far as would not otherwise be the case) to arise for the purposes of subsection (1)(b) by reason of a payee being a multinational company so far as it would not arise if it is assumed—
 
 - (a) that the company is not regarded, under the law of the parent jurisdiction, the PE jurisdiction or any other territory, as carrying on a business in the PE jurisdiction through a permanent establishment in that jurisdiction, and
 - (b) that, for tax purposes under the law of the parent jurisdiction, all amounts of ordinary income arising, by reason of the payment or quasi-payment, to the company are regarded as arising to it in that jurisdiction and nowhere else.
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-cb7e0fcf0b82901b09969df06242601e]: Textual amendment: S. 259HB(1A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/8)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
+[^c-cb7e0fcf0b82901b09969df06242601e]: Textual amendment: S. 259HB(1A) inserted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/8)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
 
-[^key-b56467de3dfddcb189ebe08301c0e2f0]: Textual amendment: S. 259HB(2A) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/12)
+[^c-b56467de3dfddcb189ebe08301c0e2f0]: Textual amendment: S. 259HB(2A) inserted (with effect in accordance with Sch. 7 para. 19(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57C. Name that another company has been directed to change[^key-60aa0421ba616caa841261fb57400e43][^key-d33e795b79f08b928942f3ac63f70ecd]
+## 57C. Name that another company has been directed to change[^c-60aa0421ba616caa841261fb57400e43][^c-d33e795b79f08b928942f3ac63f70ecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60aa0421ba616caa841261fb57400e43]: Modification: [Ss. 57B](https://www.legislation.gov.uk/ukpga/2006/46/section/57B), [57C](https://www.legislation.gov.uk/ukpga/2006/46/section/57C) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 9B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/9B) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/234/regulation/8); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-60aa0421ba616caa841261fb57400e43]: Modification: [Ss. 57B](https://www.legislation.gov.uk/ukpga/2006/46/section/57B), [57C](https://www.legislation.gov.uk/ukpga/2006/46/section/57C) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 9B](https://www.legislation.gov.uk/uksi/2009/1804/regulation/9B) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/234/regulation/8); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-d33e795b79f08b928942f3ac63f70ecd]: Textual amendment: [S. 57C](https://www.legislation.gov.uk/ukpga/2006/46/section/57C) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/12/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/h)
+[^c-d33e795b79f08b928942f3ac63f70ecd]: Textual amendment: [S. 57C](https://www.legislation.gov.uk/ukpga/2006/46/section/57C) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/12/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/h)

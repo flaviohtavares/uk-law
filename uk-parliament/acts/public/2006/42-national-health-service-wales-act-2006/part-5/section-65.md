@@ -33,7 +33,7 @@ summary: ''
   or has so provided them within such period as may be prescribed,
 - (e) an NHS employee, a section 64 employee, a section 50 employee, a section 92 employee, a section 107 employee, a section 17C employee or an Article 15B employee,
 - (f) a qualifying body,
-- (g) a [^key-d124acead83566ef770c9ff11db01a90]...Local Health Board.
+- (g) a [^c-d124acead83566ef770c9ff11db01a90]...Local Health Board.
 
 (2) The power under subsection (1) to make an agreement with a person falling within paragraph (d) or (e) of that subsection is subject to such conditions as may be prescribed.
 
@@ -47,7 +47,7 @@ summary: ''
 - “**health care professional**” means a person who is a member of a profession regulated by a body mentioned (at the time the agreement in question is made) in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17),
 - “**NHS employee**” means an individual who, in connection with the provision of services in the health service, the Scottish health service or the Northern Ireland health service, is employed by—
   - (a) an NHS trust, an NHS foundation trust or (in Northern Ireland) a Health and Social Services Trust,
-  - (b) a [^key-607324a06f661f619193ce51d33b22d3]...Local Health Board,
+  - (b) a [^c-607324a06f661f619193ce51d33b22d3]...Local Health Board,
   - (c) a person who is providing services under a general medical services contract or a general dental services contract or an English general medical services contract or an English general dental services contract,
   - (d) an individual who is providing services as specified in subsection (1)(d)(iii),
 - “**the Northern Ireland health service**” means the health service within the meaning of the Health and Personal Social Services (Northern Ireland) Order 1972,
@@ -68,6 +68,6 @@ summary: ''
 
 [^c20958001]: Modification: S. 65(1): Functions made exercisable by Local Health Boards (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [reg. 4](https://www.legislation.gov.uk/uksi/2009/1511/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/1511/schedule)
 
-[^key-d124acead83566ef770c9ff11db01a90]: Textual amendment: Words in [s. 65(1)(g)](https://www.legislation.gov.uk/ukpga/2006/42/section/65/1/g) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 29(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/29/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-d124acead83566ef770c9ff11db01a90]: Textual amendment: Words in [s. 65(1)(g)](https://www.legislation.gov.uk/ukpga/2006/42/section/65/1/g) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 29(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/29/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-607324a06f661f619193ce51d33b22d3]: Textual amendment: Words in [s. 65(3)](https://www.legislation.gov.uk/ukpga/2006/42/section/65/3) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 29(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/29/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-607324a06f661f619193ce51d33b22d3]: Textual amendment: Words in [s. 65(3)](https://www.legislation.gov.uk/ukpga/2006/42/section/65/3) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 29(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/29/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

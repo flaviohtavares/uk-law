@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Applications for support[^key-2bcc413d930e2cf1b30696e418178c66]
+## 9. Applications for support[^c-2bcc413d930e2cf1b30696e418178c66]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bcc413d930e2cf1b30696e418178c66]: Commencement: Reg. 9 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-2bcc413d930e2cf1b30696e418178c66]: Commencement: Reg. 9 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

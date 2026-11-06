@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Amendment of the Justices and Justices’ Clerks (Costs) Regulations 2001[^key-f07396b2fec368aec0f6bb0f9a8946e4]
+## 80. Amendment of the Justices and Justices’ Clerks (Costs) Regulations 2001[^c-f07396b2fec368aec0f6bb0f9a8946e4]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In regulation 2 of the Justices and Justices’ Clerks (Costs) Regulations 2001[
 
 ## Annotations
 
-[^key-f07396b2fec368aec0f6bb0f9a8946e4]: Commencement: Art. 80 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-f07396b2fec368aec0f6bb0f9a8946e4]: Commencement: Art. 80 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00022]: Footnote: [S.I. 2001/1296](https://www.legislation.gov.uk/uksi/2001/1296).

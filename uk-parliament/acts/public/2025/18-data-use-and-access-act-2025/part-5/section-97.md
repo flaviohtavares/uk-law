@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Power of the Commissioner to require documents[^key-a30bb4ee61978375c1a4088294d6a225]
+## 97. Power of the Commissioner to require documents[^c-a30bb4ee61978375c1a4088294d6a225]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a30bb4ee61978375c1a4088294d6a225]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/18/section/97) in force at 19.8.2025, see [s. 142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)
+[^c-a30bb4ee61978375c1a4088294d6a225]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/18/section/97) in force at 19.8.2025, see [s. 142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)

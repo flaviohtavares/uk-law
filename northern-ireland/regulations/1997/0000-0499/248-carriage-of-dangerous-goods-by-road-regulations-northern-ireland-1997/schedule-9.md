@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 14(4)(*b*)
 
-### 1. Infectious substances[^key-4ecf8d5695b0c7596464023ee2ff999b]
+### 1. Infectious substances[^c-4ecf8d5695b0c7596464023ee2ff999b]
 
 Where infectious substances are carried the emergency information shall include—
 
@@ -32,7 +32,7 @@ Where infectious substances are carried the emergency information shall include�
 - (b) information as to how the goods are to be absorbed and contained, and how the dangers of infectious substances are to be eliminated on the spot, for example, by the use of suitable disinfectants;
 - (c) information on suitable protective equipment for the driver.
 
-### 2. Miscellaneous dangerous goods[^key-2fec6e49b4914d735d816df38a2c087a]
+### 2. Miscellaneous dangerous goods[^c-2fec6e49b4914d735d816df38a2c087a]
 
 Where any of the following goods, or apparatus containing such goods (such as transformers, condensers and hydraulic apparatus) are carried, the text of the emergency information shall indicate that highly toxic dioxins may form in the event of fire—
 
@@ -40,12 +40,12 @@ Where any of the following goods, or apparatus containing such goods (such as tr
 - UN 3151 POLYHALOGENATED BIPHENYLS, LIQUID or POLYHALOGENATED TERPHENYLS, LIQUID
 - UN 3152 POLYHALOGENATED BIPHENYLS, SOLID or POLYHALOGENATED TERPHENYLS, SOLID
 
-**3.**[^key-0623be12dcf61a34e5a74f419f163bd9] Where any of the following goods are carried, the emergency information shall include the measures to be taken to avoid or minimise damage in the event of spillage of these goods, which are considered to be pollutant to the aquatic environment—
+**3.**[^c-0623be12dcf61a34e5a74f419f163bd9] Where any of the following goods are carried, the emergency information shall include the measures to be taken to avoid or minimise damage in the event of spillage of these goods, which are considered to be pollutant to the aquatic environment—
 
 - UN 3077 ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.\*
 - UN 3082 ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S.\*
 
-**4.**[^key-9c8e1825c0e1442c0a70e880f6895505] Where the goods UN 3245 GENETICALLY MODIFIED MICRO-ORGANISMS are carried, the emergency information shall include—
+**4.**[^c-9c8e1825c0e1442c0a70e880f6895505] Where the goods UN 3245 GENETICALLY MODIFIED MICRO-ORGANISMS are carried, the emergency information shall include—
 
 - (a) an instruction that, in the case of damage to or leakage from a package containing these goods the emergency services shall be informed;
 - (b) information as to how the goods are to be absorbed and contained, and how the dangers of the goods are to be eliminated on the spot, for example, by the use of suitable disinfectants; and
@@ -53,10 +53,10 @@ Where any of the following goods, or apparatus containing such goods (such as tr
 
 ## Annotations
 
-[^key-4ecf8d5695b0c7596464023ee2ff999b]: Commencement: Sch. 9 para. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-4ecf8d5695b0c7596464023ee2ff999b]: Commencement: Sch. 9 para. 1 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-2fec6e49b4914d735d816df38a2c087a]: Commencement: Sch. 9 para. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-2fec6e49b4914d735d816df38a2c087a]: Commencement: Sch. 9 para. 2 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-0623be12dcf61a34e5a74f419f163bd9]: Commencement: Sch. 9 para. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-0623be12dcf61a34e5a74f419f163bd9]: Commencement: Sch. 9 para. 3 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
-[^key-9c8e1825c0e1442c0a70e880f6895505]: Commencement: Sch. 9 para. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-9c8e1825c0e1442c0a70e880f6895505]: Commencement: Sch. 9 para. 4 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

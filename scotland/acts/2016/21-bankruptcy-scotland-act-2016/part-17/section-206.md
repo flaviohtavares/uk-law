@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 206. Liabilities and rights of co-obligants[^key-543be8db26efddc732f196c7eea86538]
+## 206. Liabilities and rights of co-obligants[^c-543be8db26efddc732f196c7eea86538]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-543be8db26efddc732f196c7eea86538]: Commencement: S. 206 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-543be8db26efddc732f196c7eea86538]: Commencement: S. 206 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

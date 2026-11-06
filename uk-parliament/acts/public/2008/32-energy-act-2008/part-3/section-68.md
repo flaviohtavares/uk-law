@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Interpretation[^key-d97a6b8d3d40ce444b8514392c86187f]
+## 68. Interpretation[^c-d97a6b8d3d40ce444b8514392c86187f]
 
 *Extent: E+W+N.I.*
 
@@ -36,4 +36,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-d97a6b8d3d40ce444b8514392c86187f]: Commencement: S. 68 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-d97a6b8d3d40ce444b8514392c86187f]: Commencement: S. 68 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

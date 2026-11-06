@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168A. Charges in respect of pension sharing etc[^key-15a71b5f20ed889d3e2e1421c925b7eb]
+## 168A. Charges in respect of pension sharing etc[^c-15a71b5f20ed889d3e2e1421c925b7eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15a71b5f20ed889d3e2e1421c925b7eb]: Textual amendment: S. 168A and cross-heading inserted (6.3.2011 for specified purposes, 6.4.2011 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 121](https://www.legislation.gov.uk/ukpga/2008/30/section/121), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/2), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/1), 2
+[^c-15a71b5f20ed889d3e2e1421c925b7eb]: Textual amendment: S. 168A and cross-heading inserted (6.3.2011 for specified purposes, 6.4.2011 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 121](https://www.legislation.gov.uk/ukpga/2008/30/section/121), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2011/664](https://www.legislation.gov.uk/uksi/2011/664), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2011/664/article/2/2), [Sch. Pts. 1](https://www.legislation.gov.uk/uksi/2011/664/schedule/part/1), 2

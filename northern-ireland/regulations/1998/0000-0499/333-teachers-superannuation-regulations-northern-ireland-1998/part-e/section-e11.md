@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E11. Allocation of part of retirement pension[^key-56f39604f7f6ed92ec321cccda6c99ce]
+## E11. Allocation of part of retirement pension[^c-56f39604f7f6ed92ec321cccda6c99ce]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56f39604f7f6ed92ec321cccda6c99ce]: Commencement: Reg. E11 in operation at 2.11.1998, see reg. A1
+[^c-56f39604f7f6ed92ec321cccda6c99ce]: Commencement: Reg. E11 in operation at 2.11.1998, see reg. A1

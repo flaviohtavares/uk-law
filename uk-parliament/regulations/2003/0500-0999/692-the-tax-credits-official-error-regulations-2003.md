@@ -57,12 +57,12 @@ These Regulations may be cited as the Tax Credits (Official Error) Regulations 2
 - “**official error**” means an error relating to a tax credit made by—
   - (a) an officer of the Board,
   - (b) an officer of the Department for Work and Pensions,
-  - (c) an officer of the Department for Communities[^key-d443dac883f6d80349ecad4cc4638434] in Northern Ireland, or
+  - (c) an officer of the Department for Communities[^c-d443dac883f6d80349ecad4cc4638434] in Northern Ireland, or
   - (d) a person providing services to the Board or to an authority mentioned in paragraph (b) or (c) of this definition, in connection with a tax credit or credits,
 
   to which the claimant, or any of the claimants, or any person acting for him, or any of them, did not materially contribute, excluding any error of law which is shown to have been an error by virtue of a subsequent decision by a Social Security Commissioner or by a court;”
 - “**Social Security Commissioner**” has the meaning given by section 63(13);
-- [^key-78b88b3801f4539c4bb306fbc24ab2a6]...
+- [^c-78b88b3801f4539c4bb306fbc24ab2a6]...
 
 (2) In these Regulations references to a section are to that section of the Tax Credits Act 2002.
 
@@ -72,7 +72,7 @@ These Regulations may be cited as the Tax Credits (Official Error) Regulations 2
 
 (2) In revising a decision, the officer or person in question need not consider any issue that is not raised by the application for revision by the claimant or claimants or, as the case may be, did not cause him to act on his own initiative.
 
-(3) A decision mentioned in paragraph (1) may be revised at any time not later than five years after the date of the decision[^key-17ca770680c04f305145a82571da6c00].
+(3) A decision mentioned in paragraph (1) may be revised at any time not later than five years after the date of the decision[^c-17ca770680c04f305145a82571da6c00].
 
 Ann Chant
 
@@ -94,8 +94,8 @@ Regulation 3 provides for the revision of incorrect decisions, and gives a time 
 
 [^c5017181]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-d443dac883f6d80349ecad4cc4638434]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/692/regulation/2/1) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/364/regulation/8)
+[^c-d443dac883f6d80349ecad4cc4638434]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/692/regulation/2/1) substituted (21.3.2019) by [The Tax Credits, Child Benefit and Childcare Payments (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/364)](https://www.legislation.gov.uk/uksi/2019/364), [regs. 1](https://www.legislation.gov.uk/uksi/2019/364/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/364/regulation/8)
 
-[^key-78b88b3801f4539c4bb306fbc24ab2a6]: Textual amendment: Words in reg. 2(1) omitted (6.4.2010) by virtue of [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [12(1)](https://www.legislation.gov.uk/uksi/2010/751/regulation/12/1)
+[^c-78b88b3801f4539c4bb306fbc24ab2a6]: Textual amendment: Words in reg. 2(1) omitted (6.4.2010) by virtue of [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [12(1)](https://www.legislation.gov.uk/uksi/2010/751/regulation/12/1)
 
-[^key-17ca770680c04f305145a82571da6c00]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/692/regulation/3/3) substituted (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2010/751/regulation/12/2)
+[^c-17ca770680c04f305145a82571da6c00]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/692/regulation/3/3) substituted (6.4.2010) by [The Tax Credits (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/751)](https://www.legislation.gov.uk/uksi/2010/751), [regs. 1](https://www.legislation.gov.uk/uksi/2010/751/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2010/751/regulation/12/2)

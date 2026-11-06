@@ -24,37 +24,37 @@ Section 80
 
 ### The Finance Act 1993
 
-#### 1. Introductory[^key-8571cd1d319b2d91655e05cd16f59295]
+#### 1. Introductory[^c-8571cd1d319b2d91655e05cd16f59295]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. The basic rule: sterling to be used[^key-8571cd1d319b2d91655e05cd16f59295]
+#### 2. The basic rule: sterling to be used[^c-8571cd1d319b2d91655e05cd16f59295]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Use of currency other than sterling: accounts as a whole etc in foreign currency[^key-8571cd1d319b2d91655e05cd16f59295]
+#### 3. Use of currency other than sterling: accounts as a whole etc in foreign currency[^c-8571cd1d319b2d91655e05cd16f59295]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Use of currency other than sterling: accounts etc partly from statements in foreign currency[^key-8571cd1d319b2d91655e05cd16f59295]
+#### 4. Use of currency other than sterling: accounts etc partly from statements in foreign currency[^c-8571cd1d319b2d91655e05cd16f59295]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Rules for ascertaining currency equivalents: general[^key-8571cd1d319b2d91655e05cd16f59295]
+#### 5. Rules for ascertaining currency equivalents: general[^c-8571cd1d319b2d91655e05cd16f59295]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Rules for ascertaining sterling equivalent for section 93(4) or (5)[^key-8571cd1d319b2d91655e05cd16f59295]
+#### 6. Rules for ascertaining sterling equivalent for section 93(4) or (5)[^c-8571cd1d319b2d91655e05cd16f59295]
 
 **No longer in force.**
 
@@ -72,4 +72,4 @@ Section 80
 
 [^M_C_0528a67c-90e0-40fd-c0da-1e9b44828f75]: Modification: Sch. 24 extended (retrospective to 30.9.2002) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 177(4)(8)(11)](https://www.legislation.gov.uk/ukpga/2003/14/section/177/4)
 
-[^key-8571cd1d319b2d91655e05cd16f59295]: Textual amendment: Sch. 24 paras. 1-6 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-8571cd1d319b2d91655e05cd16f59295]: Textual amendment: Sch. 24 paras. 1-6 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

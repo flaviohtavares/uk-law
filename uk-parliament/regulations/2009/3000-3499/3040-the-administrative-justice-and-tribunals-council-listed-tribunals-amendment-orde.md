@@ -32,7 +32,7 @@ summary: ''
 
 Tribunals And Inquiries
 
-The Administrative Justice and Tribunals Council (Listed Tribunals) (Amendment) Order 2009 (revoked)[^key-2fb7495dea6c6daf790a2275f73bf11e]
+The Administrative Justice and Tribunals Council (Listed Tribunals) (Amendment) Order 2009 (revoked)[^c-2fb7495dea6c6daf790a2275f73bf11e]
 
 Made
 
@@ -44,26 +44,26 @@ Laid before Parliament
 
 Coming into force in accordance with article 2
 
-[^key-2fb7495dea6c6daf790a2275f73bf11e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fb7495dea6c6daf790a2275f73bf11e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2fb7495dea6c6daf790a2275f73bf11e]
+## 1. Citation and commencement[^c-2fb7495dea6c6daf790a2275f73bf11e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2fb7495dea6c6daf790a2275f73bf11e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2fb7495dea6c6daf790a2275f73bf11e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007[^key-2fb7495dea6c6daf790a2275f73bf11e]
+## 3. Amendment to the Administrative Justice and Tribunals Council (Listed Tribunals) Order 2007[^c-2fb7495dea6c6daf790a2275f73bf11e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2fb7495dea6c6daf790a2275f73bf11e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fb7495dea6c6daf790a2275f73bf11e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2fb7495dea6c6daf790a2275f73bf11e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2fb7495dea6c6daf790a2275f73bf11e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2fb7495dea6c6daf790a2275f73bf11e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3040) revoked (19.8.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/78)
+[^c-2fb7495dea6c6daf790a2275f73bf11e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3040) revoked (19.8.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 78](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/78)

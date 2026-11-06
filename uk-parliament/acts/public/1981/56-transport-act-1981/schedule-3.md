@@ -262,7 +262,7 @@ and may set a limit on the aggregate amount of the liabilities which Associated 
 
 (3) An agreement under sub-paragraph (2) may be entered into notwithstanding that it involves a delegation of functions under any enactment relating to any part of the undertaking of a party to the agreement.
 
-(4) In this paragraph “public transport authority means the British Railways Board, the British Waterways Board, Canal & River Trust[^key-e55fe65985c782cfa6c6e2af1e7b5d01], and[^c858897] Transport for London[^key-7e691e28a9942cf849520272dc9479eb] and[^c858900][^c858899], the Scottish Transport Group and the National Bus Company[^c858901].
+(4) In this paragraph “public transport authority means the British Railways Board, the British Waterways Board, Canal & River Trust[^c-e55fe65985c782cfa6c6e2af1e7b5d01], and[^c858897] Transport for London[^c-7e691e28a9942cf849520272dc9479eb] and[^c858900][^c858899], the Scottish Transport Group and the National Bus Company[^c858901].
 
 ### Interpretation
 
@@ -295,11 +295,11 @@ and may set a limit on the aggregate amount of the liabilities which Associated 
 
 [^c858892]: Marginal citation: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
-[^key-e55fe65985c782cfa6c6e2af1e7b5d01]: Textual amendment: Words in Sch. 3 para. 31(4) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-e55fe65985c782cfa6c6e2af1e7b5d01]: Textual amendment: Words in Sch. 3 para. 31(4) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/7) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c858897]: Textual amendment: Word in Sch. 3 para. 31(4) inserted (S.) (7.6.2002) by [S.S.I. 2002/263](https://www.legislation.gov.uk/ssi/2002/263), [art. 5(1)](https://www.legislation.gov.uk/ssi/2002/263/article/5/1)
 
-[^key-7e691e28a9942cf849520272dc9479eb]: Textual amendment: Words in Sch. 3 para. 31(4) substituted (E.W.) (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/10)
+[^c-7e691e28a9942cf849520272dc9479eb]: Textual amendment: Words in Sch. 3 para. 31(4) substituted (E.W.) (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/10)
 
 [^c858900]: Textual amendment: By [S.I. 1991/510](https://www.legislation.gov.uk/uksi/1991/510), [art. 5(2)](https://www.legislation.gov.uk/uksi/1991/510/article/5/2) it is provided that in Sch. 3 para. 31(4) the word “and” shall be inserted (E.W.S.) (1.4.1991) after the word “Executive
 

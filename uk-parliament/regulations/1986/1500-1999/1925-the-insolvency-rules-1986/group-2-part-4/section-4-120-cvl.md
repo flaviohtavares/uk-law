@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.120-CVL. Removal of liquidator by the court[^key-a887a2cbd0e0f2101dfa8e7876d7ab13]
+## 4.120-CVL. Removal of liquidator by the court[^c-a887a2cbd0e0f2101dfa8e7876d7ab13]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ If the application is not dismissed under this paragraph, the court shall fix a 
 
 ## Annotations
 
-[^key-a887a2cbd0e0f2101dfa8e7876d7ab13]: Commencement: [Rule 4.120CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.120CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a887a2cbd0e0f2101dfa8e7876d7ab13]: Commencement: [Rule 4.120CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.120CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00073]: Marginal citation: \[FORM 4.39\]
 

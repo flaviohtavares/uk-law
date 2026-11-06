@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 166. Refund of all member contributions and payments for added pension made by the member[^key-177978f8feeb7565d4ca60757d3595a9]
+## 166. Refund of all member contributions and payments for added pension made by the member[^c-177978f8feeb7565d4ca60757d3595a9]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-177978f8feeb7565d4ca60757d3595a9]: Commencement: Reg. 166 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-177978f8feeb7565d4ca60757d3595a9]: Commencement: Reg. 166 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00063]: Footnote: Section 205 was amended by the Finance Act [2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29), Schedule 46, paragraphs 119 and 121 and [S.I. 2010/536](https://www.legislation.gov.uk/uksi/2010/536).

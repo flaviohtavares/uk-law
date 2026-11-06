@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Authority to survey and investigate land[^key-6e817017e6693936b24ac174bc9c1be4]
+## 17. Authority to survey and investigate land[^c-6e817017e6693936b24ac174bc9c1be4]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ the authority is deemed to have given consent.
 
 ## Annotations
 
-[^key-6e817017e6693936b24ac174bc9c1be4]: Commencement: Art. 17 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-6e817017e6693936b24ac174bc9c1be4]: Commencement: Art. 17 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

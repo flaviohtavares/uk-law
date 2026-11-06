@@ -50,13 +50,13 @@ They consider that regulation 2 would facilitate the administration, collection 
 
 They consider regulations 1(2) and 3 appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union.
 
-## 1. Citation and commencement[^key-eb4c5e12f56048efa00185e084d06283]
+## 1. Citation and commencement[^c-eb4c5e12f56048efa00185e084d06283]
 
 (1) These Regulations may be cited as the Wharves and Temporary Storage Facilities (Approval Condition and Transitional Provision) (EU Exit) Regulations 2018.
 
 (2) They come into force on such day as the Treasury may by regulations appoint [^c23522781].
 
-## 2. Approval of wharves and temporary storage facilities[^key-2190d3d5dd073c0d64b221876b166d1a]
+## 2. Approval of wharves and temporary storage facilities[^c-2190d3d5dd073c0d64b221876b166d1a]
 
 (1) The Commissioners [^c23522791] may require the following condition to be met, in any particular case, before an approval is granted for a place under section 20(1) or 25(1) of the Customs and Excise Management Act 1979 [^c23522801].
 
@@ -66,7 +66,7 @@ They consider regulations 1(2) and 3 appropriate in consequence of, or otherwise
 - (b) Schedule 1, paragraphs 4, 7(1), 7(3) and 8, irrespective of any simplifications under paragraph 9 (customs declarations, etc. on import);
 - (c) regulations under section 35 (customs export procedures).
 
-## 3. Transitional provision for wharves and temporary storage facilities[^key-235d53f72bf02da5e08c9fb98a30241e]
+## 3. Transitional provision for wharves and temporary storage facilities[^c-235d53f72bf02da5e08c9fb98a30241e]
 
 (1) An approved wharf covered by CEMA 1979 [^c23522811], section 20A(1)(b) becomes one covered by section 20(A)(1)(a) when the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraph 10(2) comes into force. The terms of any permission, designation or approval relating to the former status then become conditions and restrictions covered by CEMA 1979, section 20(1A) or (1B).
 
@@ -76,9 +76,9 @@ The terms of any approval or condition relating to the temporary storage facilit
 
 (3) The changes made by paragraph (1) or (2) are subject to the approval being revoked later, or its terms varied later, under CEMA 1979, section 20(2) or 25(2) respectively.
 
-(4)[^key-63fba8d788e428558efe536084389760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-63fba8d788e428558efe536084389760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-63fba8d788e428558efe536084389760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-63fba8d788e428558efe536084389760] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Jim Harra
 
@@ -102,18 +102,18 @@ https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-lea
 
 [^c23522771]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), for which purpose “relevant subordinate legislation” is as described in section 52(1).
 
-[^key-eb4c5e12f56048efa00185e084d06283]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1264/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-eb4c5e12f56048efa00185e084d06283]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1264/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522781]: Marginal citation: Under the Taxation (Cross-border Trade) Act 2018, section 52(2).
 
-[^key-2190d3d5dd073c0d64b221876b166d1a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1264/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2190d3d5dd073c0d64b221876b166d1a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1264/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522791]: Marginal citation: Those for Revenue and Customs, see footnote (a).
 
 [^c23522801]: Marginal citation: Respectively, approval of places for the loading or unloading of goods (approved wharves), or approval of places for the deposit of goods imported and not yet cleared out of charge (temporary storage facilities, the new term for transit sheds once the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraph 17(2)(a) and related provisions are in force).
 
-[^key-235d53f72bf02da5e08c9fb98a30241e]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-235d53f72bf02da5e08c9fb98a30241e]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522811]: Marginal citation: The Customs and Excise Management Act 1979, as abbreviated by the Taxation (Cross-border) Trade Act 2018, section 37(1).
 
-[^key-63fba8d788e428558efe536084389760]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/1264/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2018/1264/regulation/3/5) revoked (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/4/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-63fba8d788e428558efe536084389760]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/1264/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2018/1264/regulation/3/5) revoked (31.12.2020) by [The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1346)](https://www.legislation.gov.uk/uksi/2019/1346), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/1346/regulation/4/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

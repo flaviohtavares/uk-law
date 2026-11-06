@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Minor modifications[^key-707bff433f4e4b79461c1a5969771077]
+## 34. Minor modifications[^c-707bff433f4e4b79461c1a5969771077]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 - (d) the discontinuance of a network or part of a network that is wholly in Scotland; or
 - (e) the discontinuance of a station or part of a station that is wholly in Scotland.
 
-(2A)[^key-bedce341c8690d9fe05d6d4340739b03] It is the Welsh Ministers who may make a determination that a closure is a minor modification, or that closures of a particular description are minor modifications, where the only closures to which the determination relates consist in—
+(2A)[^c-bedce341c8690d9fe05d6d4340739b03] It is the Welsh Ministers who may make a determination that a closure is a minor modification, or that closures of a particular description are minor modifications, where the only closures to which the determination relates consist in—
 
 - (a) the discontinuance of one or more Wales-only services; or
 - (b) the discontinuance of a station, or part of a station, that—
@@ -56,7 +56,7 @@ summary: ''
 
 has agreed to comply with those conditions.
 
-(6) The person who makes a determination under this section in relation to a particular closure must notify the Office of Rail and Road[^key-3463b3e6789f87bb3baf7424bf9bc59f] about that determination.
+(6) The person who makes a determination under this section in relation to a particular closure must notify the Office of Rail and Road[^c-3463b3e6789f87bb3baf7424bf9bc59f] about that determination.
 
 (7) A determination under this section in relation to a description of closures may be revoked at any time by the person who made it.
 
@@ -82,8 +82,8 @@ shall have effect after that time as a determination made under this section tha
 
 ## Annotations
 
-[^key-707bff433f4e4b79461c1a5969771077]: Commencement: S. 34 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-707bff433f4e4b79461c1a5969771077]: Commencement: S. 34 in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-bedce341c8690d9fe05d6d4340739b03]: Textual amendment: [S. 34(2A)](https://www.legislation.gov.uk/ukpga/2005/14/section/34/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2005/14/section/34/2B) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/50)
+[^c-bedce341c8690d9fe05d6d4340739b03]: Textual amendment: [S. 34(2A)](https://www.legislation.gov.uk/ukpga/2005/14/section/34/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2005/14/section/34/2B) inserted (14.10.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/50)
 
-[^key-3463b3e6789f87bb3baf7424bf9bc59f]: Textual amendment: Words in s. 34 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/m)
+[^c-3463b3e6789f87bb3baf7424bf9bc59f]: Textual amendment: Words in s. 34 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 3(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/3/m)

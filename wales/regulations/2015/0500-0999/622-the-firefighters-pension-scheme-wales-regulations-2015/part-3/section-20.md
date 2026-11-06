@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Automatic enrolment[^key-8345a34abb288721b5b447a5969f3abc]
+## 20. Automatic enrolment[^c-8345a34abb288721b5b447a5969f3abc]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8345a34abb288721b5b447a5969f3abc]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8345a34abb288721b5b447a5969f3abc]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00049]: Footnote: See section 37 of the 2013 Act for the meaning of “pensionable service”.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Students who are treated as in attendance on a course[^key-6e7f4c8cae4a7694fe4a1a647f5b00cf]
+## 76. Students who are treated as in attendance on a course[^c-6e7f4c8cae4a7694fe4a1a647f5b00cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e7f4c8cae4a7694fe4a1a647f5b00cf]: Commencement: Reg. 76 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-6e7f4c8cae4a7694fe4a1a647f5b00cf]: Commencement: Reg. 76 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

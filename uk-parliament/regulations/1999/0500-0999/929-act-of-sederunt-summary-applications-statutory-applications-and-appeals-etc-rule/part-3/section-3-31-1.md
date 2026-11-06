@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.31.1. Interpretation[^key-fa447fd09f0a7fc734f80396883d76d7]
+## 3.31.1. Interpretation[^c-fa447fd09f0a7fc734f80396883d76d7]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part–
 
 ## Annotations
 
-[^key-fa447fd09f0a7fc734f80396883d76d7]: Textual amendment: Ch. 3 Pts. 31, 32 inserted (1.9.2006) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/437)](https://www.legislation.gov.uk/ssi/2006/437), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/2/2)
+[^c-fa447fd09f0a7fc734f80396883d76d7]: Textual amendment: Ch. 3 Pts. 31, 32 inserted (1.9.2006) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Miscellaneous) 2006 (S.S.I. 2006/437)](https://www.legislation.gov.uk/ssi/2006/437), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2006/437/paragraph/2/2)

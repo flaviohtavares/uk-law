@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred by section 20A of the Land Compensation Act 1973[^f00001], hereby makes the following Regulations:—
 
-## 1. Citation, commencement and application[^key-c986b9996a42a55f9dcdcb5dd99ca03b]
+## 1. Citation, commencement and application[^c-c986b9996a42a55f9dcdcb5dd99ca03b]
 
 (1) These Regulations may be cited as the Highways Noise Payments (Movable Homes) (Wales) Regulations 2001 and shall come into force on the 1st April 2001.
 
 (2) These Regulations apply to Wales.
 
-## 2. Interpretation[^key-c097961ac9c3b7a2e8d631debee9df5d]
+## 2. Interpretation[^c-c097961ac9c3b7a2e8d631debee9df5d]
 
 In these Regulations —
 
@@ -62,9 +62,9 @@ In these Regulations —
 - “L10” is the sound level in dB(A) which is exceeded for one-tenth of a period of one hour;
 - (“L10 18-hour)”; is the arithmetic mean of all the levels of L10 during a period from 0600 to 2400 hours on a normal working day;
 - “movable home” (“*cartref symudol*”) means —
-  - (a) [^key-505a0cacc495c188eab934715e7b5167]...
-  - (b) a houseboat , or[^key-e162536223d8b4ef78502ed4e40d1f2d]
-  - (c) a mobile home within the meaning of section 60 of the Mobile Homes (Wales) Act 2013;[^key-54e8f001e99bffd41c9b2c87a593317f]
+  - (a) [^c-505a0cacc495c188eab934715e7b5167]...
+  - (b) a houseboat , or[^c-e162536223d8b4ef78502ed4e40d1f2d]
+  - (c) a mobile home within the meaning of section 60 of the Mobile Homes (Wales) Act 2013;[^c-54e8f001e99bffd41c9b2c87a593317f]
 - “noise payment” (“*taliad swn*”) has the meaning set out in regulation 3(5);
 - “prevailing noise level” (“*lefel swn gyffredinol*”) means the level of noise, expressed as a level of L10 (18-hour), one metre in front of the most exposed of any window or door in the most exposed face of a movable home caused by traffic using any highway immediately before works for the construction or alteration of the highway were begun;
 - “qualifying period” (“*cyfnod cymhwyso*”) has the meaning set out in regulation 8;
@@ -75,7 +75,7 @@ In these Regulations —
 - “specified level” (“*lefel benodedig*”) means a noise level of L10 (18-hour) of 68dB(A);
 - “the 1988 Code” (“*Cod 1988*”) means the advice and instruction contained in the technical memorandum entitled “Calculations of Road Traffic Noise” published by Her Majesty’s Stationery Office (1988).
 
-## 3. Power to make noise payments[^key-a4efb00d265aa7e284ae955a2027cdd4]
+## 3. Power to make noise payments[^c-a4efb00d265aa7e284ae955a2027cdd4]
 
 (1) Subject to an in accordance with the provisions of these Regulations, where, in relation to an eligible home, the use of a relevant highway causes or is expected to cause noise at a level not less than the specified level the authority may make a payment under this paragraph of this regulation.
 
@@ -90,23 +90,23 @@ In these Regulations —
 
 (5) A payment under this regulation is referred to in these Regulations as a “noise payment”.
 
-## 4. How to assess noise levels[^key-dd6b35f41500a6d92bead3e76c7a6956]
+## 4. How to assess noise levels[^c-dd6b35f41500a6d92bead3e76c7a6956]
 
 For the purposes of regulation 3(2) the prevailing noise level, the relevant noise level and the effective contribution to the relevant noise level caused or expected to be caused by traffic using or expected to use a highway must be assessed in accordance with the 1988 Code.
 
-## 5. Amount of noise payments[^key-abb5cefa9551886b69e913473a93ca2e]
+## 5. Amount of noise payments[^c-abb5cefa9551886b69e913473a93ca2e]
 
 The amount of a noise payment is the sum which the authority in its discretion determines but may not exceed £1,650.
 
-## 6. When noise payments may not be made[^key-e33c1e1bf2df34acd9bccf679cc12e92]
+## 6. When noise payments may not be made[^c-e33c1e1bf2df34acd9bccf679cc12e92]
 
 If a noise payment has been made in relation to an eligible home arising out of the construction alteration or use of a highway, whether under regulation 3(1) or under regulation 3(3), no further noise payment may be made in respect of that eligible home arising out of the construction alteration or use of that highway unless that highway is subsequently altered and a power to make a noise payment in respect of that eligible home arises as a result of that alteration or the use of the highway as so altered.
 
-## 7. Eligible homes[^key-084ad5b61c00b2f8a412bac1276338cc]
+## 7. Eligible homes[^c-084ad5b61c00b2f8a412bac1276338cc]
 
 (1) Subject to paragraphs (2) and (3) of this regulation, an eligible home is a movable home which, throughout the qualifying period —
 
-- (a) in the case of a mobile home[^key-86ec37e63c6ece549be9ebab9a1d7dfe], has been lawfully stationed on a protected site within the meaning of section 2(2) of the Mobile Homes (Wales) Act 2013[^key-41945fd2a6f8702878a59eee9727083b];
+- (a) in the case of a mobile home[^c-86ec37e63c6ece549be9ebab9a1d7dfe], has been lawfully stationed on a protected site within the meaning of section 2(2) of the Mobile Homes (Wales) Act 2013[^c-41945fd2a6f8702878a59eee9727083b];
 - (b) in the case of a houseboat, has been lawfully moored or otherwise secured with such consent as may be necessary for the location in question from any navigation authority, harbour undertaking or canal undertaking responsible for the water in which it is located and with the consent of the person in possession of any land to which it is moored or secured;
 - (c) has been located in such a position or positions that, after the construction or alteration of the relevant highway, some part of it is not more than 300 metres from the nearest point on the carriageway of that highway.
 
@@ -117,7 +117,7 @@ If a noise payment has been made in relation to an eligible home arising out of 
 - (a) if it was first occupied after the relevant date in respect of those works;
 - (b) if, at the date when an application for a noise payment is made, it is located in a position which coincides, in whole or in part, with the position which any other eligible home, in respect of which a noise payment has already been made, occupied during any part of the qualifying period in respect of that noise payment, and if that noise payment arises out of the same relevant works.
 
-## 8. Qualifying period[^key-0cac5e3fb322cb888bc0c00ac44fe4ba]
+## 8. Qualifying period[^c-0cac5e3fb322cb888bc0c00ac44fe4ba]
 
 (1) Where a noise payment under regulation 3(1) is made as a result of relevant works in respect of which the relevant date falls before the commencement date the qualifying period is the period of three years which ends on the commencement date.
 
@@ -127,7 +127,7 @@ If a noise payment has been made in relation to an eligible home arising out of 
 
 (4) Where a noise payment is made under regulation 3(3) the qualifying period is the period which begins one year before the start of the relevant works and ends when the noise caused by those works has had a seriously adverse effect on the enjoyment of the eligible home over a continuous period of six months.
 
-## 9. Persons to whom noise payments may be made[^key-9b7f1781633de85e7060dbe5348eb807]
+## 9. Persons to whom noise payments may be made[^c-9b7f1781633de85e7060dbe5348eb807]
 
 (1) A noise payment may only be made to a person who —
 
@@ -137,7 +137,7 @@ If a noise payment has been made in relation to an eligible home arising out of 
 
 (2) Where, in relation to an eligible home, it appears to the authority that there is more than one person to whom paragraph (1) of this regulation would authorise a noise payment to be made the authority may, in its discretion apportion any noise payment which it decides to make between those persons and if it does so any payments which it makes to different persons under this sub-paragraph shall be treated for the purposes of regulation 5 as a single payment of the total of these payments.
 
-## 10. Procedure for applying for noise payments[^key-78234a3e99b1d2f7e836aaef9c89db55]
+## 10. Procedure for applying for noise payments[^c-78234a3e99b1d2f7e836aaef9c89db55]
 
 (1) The authority may consider an application for a noise payment if it is made during the period of six years which begins on the day after the end of the qualifying period.
 
@@ -178,42 +178,42 @@ British Standard 4197:1967 may be obtained from any outlet operated by the Briti
 
 [^f00001]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26); section 20A was inserted by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 70 and Schedule 15, paragraph 5(1). The power to make regulations under section 20A of the Land Compensation Act 1973 has been devolved to the National Assembly for Wales under the National Assembly for Wales (Transfer of Functions) Order 1999, article 2 and Schedule 1 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-c986b9996a42a55f9dcdcb5dd99ca03b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2001/604/regulation/1) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-c986b9996a42a55f9dcdcb5dd99ca03b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2001/604/regulation/1) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-c097961ac9c3b7a2e8d631debee9df5d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-c097961ac9c3b7a2e8d631debee9df5d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
 [^f00002]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
 [^f00003]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-505a0cacc495c188eab934715e7b5167]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) omitted (31.10.2016) by virtue of [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2016/964/article/3/2/a)
+[^c-505a0cacc495c188eab934715e7b5167]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) omitted (31.10.2016) by virtue of [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2016/964/article/3/2/a)
 
-[^key-e162536223d8b4ef78502ed4e40d1f2d]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) substituted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2016/964/article/3/2/b)
+[^c-e162536223d8b4ef78502ed4e40d1f2d]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) substituted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2016/964/article/3/2/b)
 
-[^key-54e8f001e99bffd41c9b2c87a593317f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) inserted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2016/964/article/3/2/c)
+[^c-54e8f001e99bffd41c9b2c87a593317f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2001/604/regulation/2) inserted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/wsi/2016/964/article/3/2/c)
 
-[^key-a4efb00d265aa7e284ae955a2027cdd4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2001/604/regulation/3) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-a4efb00d265aa7e284ae955a2027cdd4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2001/604/regulation/3) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
 [^f00006]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-dd6b35f41500a6d92bead3e76c7a6956]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2001/604/regulation/4) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-dd6b35f41500a6d92bead3e76c7a6956]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2001/604/regulation/4) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-abb5cefa9551886b69e913473a93ca2e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2001/604/regulation/5) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-abb5cefa9551886b69e913473a93ca2e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2001/604/regulation/5) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-e33c1e1bf2df34acd9bccf679cc12e92]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2001/604/regulation/6) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-e33c1e1bf2df34acd9bccf679cc12e92]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2001/604/regulation/6) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-084ad5b61c00b2f8a412bac1276338cc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2001/604/regulation/7) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-084ad5b61c00b2f8a412bac1276338cc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2001/604/regulation/7) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-86ec37e63c6ece549be9ebab9a1d7dfe]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/wsi/2001/604/regulation/7/1/a) substituted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2016/964/article/3/3/a)
+[^c-86ec37e63c6ece549be9ebab9a1d7dfe]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/wsi/2001/604/regulation/7/1/a) substituted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2016/964/article/3/3/a)
 
-[^key-41945fd2a6f8702878a59eee9727083b]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/wsi/2001/604/regulation/7/1/a) substituted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2016/964/article/3/3/b)
+[^c-41945fd2a6f8702878a59eee9727083b]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/wsi/2001/604/regulation/7/1/a) substituted (31.10.2016) by [The Mobile Homes (Wales) Act 2013 (Consequential Provisions) Order 2016 (S.I. 2016/964)](https://www.legislation.gov.uk/wsi/2016/964), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/964/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2016/964/article/3/3/b)
 
 [^f00008]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-0cac5e3fb322cb888bc0c00ac44fe4ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2001/604/regulation/8) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-0cac5e3fb322cb888bc0c00ac44fe4ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2001/604/regulation/8) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-9b7f1781633de85e7060dbe5348eb807]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2001/604/regulation/9) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-9b7f1781633de85e7060dbe5348eb807]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2001/604/regulation/9) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
-[^key-78234a3e99b1d2f7e836aaef9c89db55]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2001/604/regulation/10) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
+[^c-78234a3e99b1d2f7e836aaef9c89db55]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2001/604/regulation/10) in force at 1.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2001/604/regulation/1/1)
 
 [^f00009]: Footnote: [998 c.38](https://www.legislation.gov.uk/ukpga/1998/38)

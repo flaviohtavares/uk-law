@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Clinical Commissioning Groups— Disapplication of Responsibility) Regulations 2013 (revoked)[^key-422141c4ec617ff911d25ae3405d82d1]
+The National Health Service (Clinical Commissioning Groups— Disapplication of Responsibility) Regulations 2013 (revoked)[^c-422141c4ec617ff911d25ae3405d82d1]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st April 2013
 
-[^key-422141c4ec617ff911d25ae3405d82d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-422141c4ec617ff911d25ae3405d82d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-422141c4ec617ff911d25ae3405d82d1]
+## 1. Citation, commencement and interpretation[^c-422141c4ec617ff911d25ae3405d82d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Persons for whom a CCG does not have responsibility in relation to its duty to commission services[^key-422141c4ec617ff911d25ae3405d82d1]
+## 2. Persons for whom a CCG does not have responsibility in relation to its duty to commission services[^c-422141c4ec617ff911d25ae3405d82d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Usual residence[^key-422141c4ec617ff911d25ae3405d82d1]
+## 3. Usual residence[^c-422141c4ec617ff911d25ae3405d82d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-422141c4ec617ff911d25ae3405d82d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-422141c4ec617ff911d25ae3405d82d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-422141c4ec617ff911d25ae3405d82d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-422141c4ec617ff911d25ae3405d82d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-422141c4ec617ff911d25ae3405d82d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/350) revoked (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [221(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/221/b)
+[^c-422141c4ec617ff911d25ae3405d82d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/350) revoked (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [221(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/221/b)

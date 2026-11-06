@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A death grant may be paid[^key-023f2b8aaa91187d02ecab7c25784e45] on the death of a pension credit member (D) who dies before pension credit retirement benefits become payable under regulation 105 (pension credit retirement benefits).
+(1) A death grant may be paid[^c-023f2b8aaa91187d02ecab7c25784e45] on the death of a pension credit member (D) who dies before pension credit retirement benefits become payable under regulation 105 (pension credit retirement benefits).
 
 (2) The amount of the death grant is—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-023f2b8aaa91187d02ecab7c25784e45]: Textual amendment: Words in [reg. 104(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/104/1) substituted (retrospective to 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2018/218/regulation/2/2)
+[^c-023f2b8aaa91187d02ecab7c25784e45]: Textual amendment: Words in [reg. 104(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/104/1) substituted (retrospective to 1.9.2010) by [The Teachers' Pensions Schemes (Amendment) Regulations 2018 (S.I. 2018/218)](https://www.legislation.gov.uk/uksi/2018/218), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/218/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/uksi/2018/218/regulation/2/2)

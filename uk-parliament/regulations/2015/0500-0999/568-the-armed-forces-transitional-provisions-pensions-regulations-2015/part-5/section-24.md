@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of Rule G.1 in Schedule 1 to the Reserve Forces (Full-Time Reserve Service Pension Scheme 1997) Regulations 2010[^key-3f97a74af41de58c19084a7af0fa9a56]
+## 24. Amendment of Rule G.1 in Schedule 1 to the Reserve Forces (Full-Time Reserve Service Pension Scheme 1997) Regulations 2010[^c-3f97a74af41de58c19084a7af0fa9a56]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3f97a74af41de58c19084a7af0fa9a56]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-3f97a74af41de58c19084a7af0fa9a56]: Commencement: Reg. 24 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00021]: Footnote: These Regulations are Defence Council Regulations. These instruments can be found at www.gov.uk/government/publications/reserve-forces-pension-scheme-regulations. Hard copies can be obtained from CDP-Remuneration, Armed Forces Pensions, Level 6, Zone M, Ministry of Defence, Main Building, London SW1A 2HB.
 

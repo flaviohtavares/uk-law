@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93A. Reference of a compatibility question to the Court of Session[^key-d38fb381eade7662e5b6858c224e1a5a]
+## 93A. Reference of a compatibility question to the Court of Session[^c-d38fb381eade7662e5b6858c224e1a5a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d38fb381eade7662e5b6858c224e1a5a]: Textual amendment: [Rule 93A](https://www.legislation.gov.uk/ssi/2013/194/rule/93A) inserted (1.4.2026) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2026 (S.S.I. 2026/30)](https://www.legislation.gov.uk/ssi/2026/30), [rules 1](https://www.legislation.gov.uk/ssi/2026/30/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/30/rule/2/3)
+[^c-d38fb381eade7662e5b6858c224e1a5a]: Textual amendment: [Rule 93A](https://www.legislation.gov.uk/ssi/2013/194/rule/93A) inserted (1.4.2026) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2026 (S.S.I. 2026/30)](https://www.legislation.gov.uk/ssi/2026/30), [rules 1](https://www.legislation.gov.uk/ssi/2026/30/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/30/rule/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Calculation of income[^key-6127f7397628b0c598b51b2a03f075b9]
+## 90. Calculation of income[^c-6127f7397628b0c598b51b2a03f075b9]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6127f7397628b0c598b51b2a03f075b9]: Commencement: [Reg. 90](https://www.legislation.gov.uk/nisr/2008/280/regulation/90) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-6127f7397628b0c598b51b2a03f075b9]: Commencement: [Reg. 90](https://www.legislation.gov.uk/nisr/2008/280/regulation/90) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Amendment of the Education (Student Support) (Wales) Regulations 2018 (Welsh language text)[^key-e983c0e87a0d1772b1d758873a6dc4cf]
+## 97. Amendment of the Education (Student Support) (Wales) Regulations 2018 (Welsh language text)[^c-e983c0e87a0d1772b1d758873a6dc4cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e983c0e87a0d1772b1d758873a6dc4cf]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2023/1071/regulation/97) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-e983c0e87a0d1772b1d758873a6dc4cf]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2023/1071/regulation/97) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

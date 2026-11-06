@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**233.**[^key-3a8c8e98f81da1c027e2543171e67818][^key-b226f45ac72ee3c76f07924062dc5994] The community of Skenfrith consists of three wards—
+**233.**[^c-3a8c8e98f81da1c027e2543171e67818][^c-b226f45ac72ee3c76f07924062dc5994] The community of Skenfrith consists of three wards—
 
 - (a) Cross Ash;
 - (b) Llanvetherine;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a8c8e98f81da1c027e2543171e67818]: Commencement: Art. 233 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-3a8c8e98f81da1c027e2543171e67818]: Commencement: Art. 233 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-b226f45ac72ee3c76f07924062dc5994]: Commencement: [Art. 233](https://www.legislation.gov.uk/wsi/2021/1227/article/233) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-b226f45ac72ee3c76f07924062dc5994]: Commencement: [Art. 233](https://www.legislation.gov.uk/wsi/2021/1227/article/233) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

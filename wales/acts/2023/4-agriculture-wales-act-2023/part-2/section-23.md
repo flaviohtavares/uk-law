@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Power to modify retained direct EU legislation relating to public market intervention and private storage aid[^key-59dc613b6fca2665f5af03542e577cea][^key-fe14833a5a2de4fdc450a7bd4247984d]
+## 23. Power to modify retained direct EU legislation relating to public market intervention and private storage aid[^c-59dc613b6fca2665f5af03542e577cea][^c-fe14833a5a2de4fdc450a7bd4247984d]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59dc613b6fca2665f5af03542e577cea]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-59dc613b6fca2665f5af03542e577cea]: Commencement: S. 23 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-fe14833a5a2de4fdc450a7bd4247984d]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2023/4/section/23) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/a)
+[^c-fe14833a5a2de4fdc450a7bd4247984d]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2023/4/section/23) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/a)

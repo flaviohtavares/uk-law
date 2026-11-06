@@ -139,78 +139,78 @@ Section 20(3).
 > - (a) Schedule 2; and
 > - (b) Part III of Schedule 5 to the Local Government (Wales) Act 1994.
 
-### Part II — Commencement of Unitary Development Plans[^key-85bc258b68d168b78288db9911e85343]
+### Part II — Commencement of Unitary Development Plans[^c-85bc258b68d168b78288db9911e85343]
 
 **No longer in force.**
 
-**8.**[^key-85bc258b68d168b78288db9911e85343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-85bc258b68d168b78288db9911e85343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Transitional Provisions[^key-50af929fa6de48f23dd64406e97b6cc7]
+### Part III — Transitional Provisions[^c-50af929fa6de48f23dd64406e97b6cc7]
 
 **No longer in force.**
 
-#### Introductory[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Introductory[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**9.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Application in relation to National Parks[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Application in relation to National Parks[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**10.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Interpretation[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Interpretation[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**11.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Preparation of modified schemes[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Preparation of modified schemes[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**12.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Default powers[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Default powers[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**13.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Effect of adoption or approval of modified plan[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Effect of adoption or approval of modified plan[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**14.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Other plans to prevail over old development plans and saved local plans[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Other plans to prevail over old development plans and saved local plans[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**15.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Local plans to prevail over structure plans[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Local plans to prevail over structure plans[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**16.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Development plans for compensation purposes[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Development plans for compensation purposes[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**17.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Revocation of old development plan[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Revocation of old development plan[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**18.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Temporary duty in relation to existing structure plan[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Temporary duty in relation to existing structure plan[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**19.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Unitary development plan to prevail over other plans[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Unitary development plan to prevail over other plans[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**20.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Planning blight: structure plans[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Planning blight: structure plans[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**21.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Planning blight: local plans and modified plans[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Planning blight: local plans and modified plans[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**22.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Regulations and directions[^key-50af929fa6de48f23dd64406e97b6cc7]
+#### Regulations and directions[^c-50af929fa6de48f23dd64406e97b6cc7]
 
-**23.**[^key-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-50af929fa6de48f23dd64406e97b6cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-85bc258b68d168b78288db9911e85343]: Textual amendment: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/3)
+[^c-85bc258b68d168b78288db9911e85343]: Textual amendment: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/2) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/3)
 
-[^key-50af929fa6de48f23dd64406e97b6cc7]: Textual amendment: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/3)
+[^c-50af929fa6de48f23dd64406e97b6cc7]: Textual amendment: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/19/3)

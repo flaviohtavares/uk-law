@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Insurance Premium Tax: Tax representatives[^key-b037190227f5e4c52ab4680174642a3b]
+## 345. Insurance Premium Tax: Tax representatives[^c-b037190227f5e4c52ab4680174642a3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b037190227f5e4c52ab4680174642a3b]: Commencement: Art. 345 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b037190227f5e4c52ab4680174642a3b]: Commencement: Art. 345 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00252]: Footnote: Section 57 was amended by the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), section 27.

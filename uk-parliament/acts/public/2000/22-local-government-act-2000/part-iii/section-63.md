@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Restrictions on disclosure of information.[^key-add8fcdfab3c07c663773ef387228766]
+## 63. Restrictions on disclosure of information.[^c-add8fcdfab3c07c663773ef387228766]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-add8fcdfab3c07c663773ef387228766]: Textual amendment: S. 63 repealed (31.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/27), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5) (with [Sch. 4 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/60)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/a)[(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c)[(2)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/5/2/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))
+[^c-add8fcdfab3c07c663773ef387228766]: Textual amendment: S. 63 repealed (31.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/27), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5) (with [Sch. 4 para. 60](https://www.legislation.gov.uk/ukpga/2011/20/schedule/4/paragraph/60)); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 5(1)(a)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/a)[(c)](https://www.legislation.gov.uk/uksi/2012/57/article/5/1/c)[(2)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/5/2/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [8](https://www.legislation.gov.uk/uksi/2012/57/article/8))

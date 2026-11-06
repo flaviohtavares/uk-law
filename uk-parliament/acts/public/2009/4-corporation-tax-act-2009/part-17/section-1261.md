@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1261. Accounting periods of firms[^key-10b4f0d2f8be14be567fb9833f85804f][^key-ca2c3c513076fad60f8a647518d8611a]
+## 1261. Accounting periods of firms[^c-10b4f0d2f8be14be567fb9833f85804f][^c-ca2c3c513076fad60f8a647518d8611a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ Paragraph (a) is subject to subsection (6).
 
 ## Annotations
 
-[^key-10b4f0d2f8be14be567fb9833f85804f]: Modification: Ss. 1259-1265 modified (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 765(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/765/2), [768(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/768/4), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-10b4f0d2f8be14be567fb9833f85804f]: Modification: Ss. 1259-1265 modified (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 765(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/765/2), [768(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/768/4), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ca2c3c513076fad60f8a647518d8611a]: Modification: S. 1261 applied by 2010 c. 4, s. 357GB(5) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
+[^c-ca2c3c513076fad60f8a647518d8611a]: Modification: S. 1261 applied by 2010 c. 4, s. 357GB(5) (as inserted (with effect in accordance with Sch. 2 paras. 7, 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))

@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 \[10th May 2018\]
 
-## 1. Pastoral schemes and orders: consultation[^key-a916859b1964f5ca3f6dc07451552c3b]
+## 1. Pastoral schemes and orders: consultation[^c-a916859b1964f5ca3f6dc07451552c3b]
 
 (1) In section 6 of the Mission and Pastoral Measure 2011 (pastoral schemes and pastoral orders: formulation and submission of draft proposals), in subsection (1), after “their views” insert
 
@@ -87,7 +87,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 > (11) The reference in subsection (1) to the interested parties includes a reference to any other person who the mission and pastoral committee considers might be affected by the matters in question; and the references in subsections (4), (5), (9) and (9A) to the interested parties are accordingly to be read as including a reference to those other persons.
 
-## 2. Pastoral schemes and orders: preparation by the Commissioners[^key-29bd9e7a6de1bc858f54ecd3358ebbdb]
+## 2. Pastoral schemes and orders: preparation by the Commissioners[^c-29bd9e7a6de1bc858f54ecd3358ebbdb]
 
 (1) In section 7 of the Mission and Pastoral Measure 2011 (approval by bishop of draft proposals and preparation of draft scheme), in subsection (1)—
 
@@ -125,17 +125,17 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 ## 3. Pastoral schemes and orders: notice, publication and amendment
 
-(1)[^key-bd12e33e88141e0273f00f8782bfd1ee] In section 9 of the Mission and Pastoral Measure 2011 (pastoral schemes and orders: notice and publication), in subsection (1), for “prepared under section 7” substitute “ prepared by it under section 7(3) ”.
+(1)[^c-bd12e33e88141e0273f00f8782bfd1ee] In section 9 of the Mission and Pastoral Measure 2011 (pastoral schemes and orders: notice and publication), in subsection (1), for “prepared under section 7” substitute “ prepared by it under section 7(3) ”.
 
-(2)[^key-bd12e33e88141e0273f00f8782bfd1ee] After subsection (1) of that section insert—
+(2)[^c-bd12e33e88141e0273f00f8782bfd1ee] After subsection (1) of that section insert—
 
 > (1A) The Commissioners shall serve a copy of any draft scheme or order prepared by them under section 7(5) on each of the interested parties, together with such a notice as is mentioned in subsection (1).
 
-(3)[^key-bd12e33e88141e0273f00f8782bfd1ee] After subsection (1A) (inserted by subsection (2)) insert—
+(3)[^c-bd12e33e88141e0273f00f8782bfd1ee] After subsection (1A) (inserted by subsection (2)) insert—
 
 > (1B) The Commissioners shall, in the case of every draft scheme or order, publish the draft online together with a notice stating the objects of the draft and that written representations may be made to the Commissioners not later than a date specified in the notice, being a date not less than twenty-eight days after such publication.
 
-(4)[^key-bd12e33e88141e0273f00f8782bfd1ee] In subsection (2) of that section—
+(4)[^c-bd12e33e88141e0273f00f8782bfd1ee] In subsection (2) of that section—
 
 - (a) after “the mission and pastoral committee” insert “ or the Commissioners (whichever of them prepared the draft scheme) ”,
 - (b) in paragraph (b), after “stating the objects of the draft scheme” insert “ , specifying the address online at which the notice is published under subsection (1B) ”, and
@@ -143,33 +143,33 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 (5) In subsection (3) of that section—
 
-- (a)[^key-eeabbf9eeda003851fc1f832e08c10c9] after “every draft scheme or order” insert “ prepared by it, and the Commissioners shall, in the case of every draft scheme or order prepared by them ”,
-- (b)[^key-4909b56e40d6993940ac3baaca375fea] after “require him or her” insert
+- (a)[^c-eeabbf9eeda003851fc1f832e08c10c9] after “every draft scheme or order” insert “ prepared by it, and the Commissioners shall, in the case of every draft scheme or order prepared by them ”,
+- (b)[^c-4909b56e40d6993940ac3baaca375fea] after “require him or her” insert
 
   > —
   >
   > - (a)
 
   , and
-- (c)[^key-4909b56e40d6993940ac3baaca375fea] at the end insert
+- (c)[^c-4909b56e40d6993940ac3baaca375fea] at the end insert
 
   > ,
   >
   > - (b) to ensure, in the case of each of those churches or buildings at which a service is held on a Sunday in the period in which representations may be made in accordance with the notice, that at every service held on each of those Sundays the person conducting the service informs the congregation of the contents of the notice, and
   > - (c) to ensure, in the case of each of those churches or buildings at which a service is held in that period only on a day other than a Sunday, that at every service held in that period the person conducting the service informs the congregation of the contents of the notice.
 
-(6)[^key-4909b56e40d6993940ac3baaca375fea] After subsection (3) of that section insert—
+(6)[^c-4909b56e40d6993940ac3baaca375fea] After subsection (3) of that section insert—
 
 > (3A) A reference in subsection (3)(b) or (c) to a service held at a church or building does not include a reference to any of the services known as occasional offices.
 
-(7)[^key-bd12e33e88141e0273f00f8782bfd1ee] In section 10 of the Mission and Pastoral Measure 2011 (power of Commissioners to amend draft scheme or order), after subsection (2) insert—
+(7)[^c-bd12e33e88141e0273f00f8782bfd1ee] In section 10 of the Mission and Pastoral Measure 2011 (power of Commissioners to amend draft scheme or order), after subsection (2) insert—
 
 > (3) The power under subsection (1) to amend a draft scheme or order includes power to amend it so that it would give effect instead to proposals included in representations made to the Commissioners on the draft; and where the Commissioners make amendments of that kind—
 >
 > - (a) subsection (2) does not apply, and
 > - (b) the Commissioners shall instead carry out such consultation on the amended draft scheme or order as they think appropriate.
 
-(8)[^key-bd12e33e88141e0273f00f8782bfd1ee] In section 24 of that Measure (church building schemes: notice and publication), in subsection (2)—
+(8)[^c-bd12e33e88141e0273f00f8782bfd1ee] In section 24 of that Measure (church building schemes: notice and publication), in subsection (2)—
 
 - (a) after paragraph (a) (but before the following “and”) insert—
 
@@ -179,7 +179,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 - (b) in paragraph (b), after “stating the objects of the draft scheme” insert “ , specifying the address online at which the notice is published under paragraph (aa) ”, and
 - (c) in that paragraph, for the words from “a date not less than” to the end substitute “ the date specified for the purposes of paragraph (aa) ”.
 
-(9)[^key-4909b56e40d6993940ac3baaca375fea] In subsection (3) of that section—
+(9)[^c-4909b56e40d6993940ac3baaca375fea] In subsection (3) of that section—
 
 - (a) after “require him or her” insert
 
@@ -195,11 +195,11 @@ A Measure passed by the General Synod of the Church of England to amend and simp
   > - (b) to ensure, in the case of each of those churches or buildings at which a service is held on a Sunday in the period in which representations may be made in accordance with the notice, that at every service held on each of those Sundays the person conducting the service informs the congregation of the contents of the notice, and
   > - (c) to ensure, in the case of each of those churches or buildings at which a service is held in that period only on a day other than a Sunday, that at every service held in that period the person conducting the service informs the congregation of the contents of the notice.
 
-(10)[^key-4909b56e40d6993940ac3baaca375fea] After subsection (3) of that section insert—
+(10)[^c-4909b56e40d6993940ac3baaca375fea] After subsection (3) of that section insert—
 
 > (3A) A reference in subsection (3)(b) or (c) to a service held at a church or building does not include a reference to any of the services known as occasional offices.
 
-(11)[^key-bd12e33e88141e0273f00f8782bfd1ee] In section 25 of the Mission and Pastoral Measure 2011 (power of Commissioners to amend draft scheme), after subsection (2) insert—
+(11)[^c-bd12e33e88141e0273f00f8782bfd1ee] In section 25 of the Mission and Pastoral Measure 2011 (power of Commissioners to amend draft scheme), after subsection (2) insert—
 
 > (3) The power under subsection (1) to amend a draft scheme includes power to amend it so that it would give effect instead to proposals included in representations made to the Commissioners on the draft; and where the Commissioners make amendments of that kind—
 >
@@ -208,19 +208,19 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 ## 4. Pastoral schemes and orders: presumption in favour of deanery plan
 
-(1)[^key-45262f066fcd5298ec6ee27d5b286fff] In section 11 of the Mission and Pastoral Measure 2011 (making of schemes and orders), after subsection (4) insert—
+(1)[^c-45262f066fcd5298ec6ee27d5b286fff] In section 11 of the Mission and Pastoral Measure 2011 (making of schemes and orders), after subsection (4) insert—
 
 > (4A) In the case of a draft scheme which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft scheme, shall seal a copy of the draft scheme and so make the scheme, unless they consider that there are material considerations which indicate that it should not be made.
 >
 > (4B) Subsections (1) to (4) have effect subject to subsection (4A).
 
-(2)[^key-6578d45f74deaaa0cee6214e677e3713] In that section, after subsection (6) insert—
+(2)[^c-6578d45f74deaaa0cee6214e677e3713] In that section, after subsection (6) insert—
 
 > (6A) In the case of a draft order which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft order, shall issue a certificate that the order should be made and submit the draft order and certificate to the bishop, unless they consider that there are material considerations which indicate that the order should not be made.
 >
 > (6B) Subsections (5) and (6) have effect subject to subsection (6A).
 
-(3)[^key-6578d45f74deaaa0cee6214e677e3713] In that section, after subsection (7) insert—
+(3)[^c-6578d45f74deaaa0cee6214e677e3713] In that section, after subsection (7) insert—
 
 > (8) In this section, “**deanery plan**” means a plan for pastoral reorganisation which has been approved by the deanery synod of each deanery which would be affected by implementation of the plan; and a deanery plan is one to which this section applies if—
 >
@@ -228,7 +228,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 > - (b) any person holding office under Common Tenure, and any incumbent or archdeacon not subject to Common Tenure, whose office would or might be abolished if the plan took effect has had an opportunity to meet the mission and pastoral committee, and
 > - (c) the proposals to which the draft scheme or order gives effect are to the same effect, or substantially the same effect, as proposals included in the plan.
 
-(4)[^key-0bb95df81f26531bf77b7d6055c420be][^key-9b0b717e305f82b55feca6ba3da4e959] In section 26 of the Mission and Pastoral Measure 2011 (making of schemes and orders), after subsection (4) insert—
+(4)[^c-0bb95df81f26531bf77b7d6055c420be][^c-9b0b717e305f82b55feca6ba3da4e959] In section 26 of the Mission and Pastoral Measure 2011 (making of schemes and orders), after subsection (4) insert—
 
 > (5) In the case of a draft scheme which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft scheme, shall seal a copy of the draft scheme and so make the scheme, unless they consider that there are material considerations which indicate that it should not be made.
 >
@@ -240,7 +240,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 > - (b) any person holding office under Common Tenure, and any incumbent or archdeacon not subject to Common Tenure, whose office would or might be abolished if the plan took effect has had an opportunity to meet the mission and pastoral committee, and
 > - (c) the proposals to which the draft scheme gives effect are to the same effect, or substantially the same effect, as proposals included in the plan.
 
-## 5. Team and group ministries[^key-1ff26e20e7363c921e8e3a857fdf558d]
+## 5. Team and group ministries[^c-1ff26e20e7363c921e8e3a857fdf558d]
 
 (1) In section 34 of the Mission and Pastoral Measure 2011 (establishment of team ministries), in subsection (6) (responsibility of rector), omit from “; and the scheme” to the end.
 
@@ -277,7 +277,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 (12) In sub-paragraph (10) of that paragraph, omit “, (3), (4)”.
 
-## 6. Compensation of office-holders[^key-939da8456fc4428a50776e7e996d6414]
+## 6. Compensation of office-holders[^c-939da8456fc4428a50776e7e996d6414]
 
 (1) For section 40 of the Mission and Pastoral Measure 2011 substitute—
 
@@ -417,7 +417,7 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 
 (4) The Schedule to this Measure (which makes consequential amendments to the Incumbents (Vacation of Benefices) Measure 1977 and certain other enactments) has effect.
 
-## 7. Bishop's pastoral order[^key-848fa947e4616644da4d0a747d3f8aed]
+## 7. Bishop's pastoral order[^c-848fa947e4616644da4d0a747d3f8aed]
 
 (1) After Part 5 of the Mission and Pastoral Measure 2011 insert—
 
@@ -483,11 +483,11 @@ A Measure passed by the General Synod of the Church of England to amend and simp
 > - (a) the bishop must give notice of the proposal to the patron concerned, and
 > - (b) the patron's right of presentation to the new benefice or benefices may not be exercised after the date on which the bishop gives notice under paragraph (a) until the order containing the provision comes into operation.
 
-## 8. Churches Conservation Trust: number of members[^key-f0f8319776f692d5b7888644bf8f1d06]
+## 8. Churches Conservation Trust: number of members[^c-f0f8319776f692d5b7888644bf8f1d06]
 
 In section 57 of the Mission and Pastoral Measure 2011 (appointment of Churches Conservation Trust), in subsection (2), for “nor more than nine other members” substitute “ nor more than eleven other members ”.
 
-## 9. Pastoral church buildings scheme: severance[^key-df53d1dcb27618fbc1bda4e92f237b10]
+## 9. Pastoral church buildings scheme: severance[^c-df53d1dcb27618fbc1bda4e92f237b10]
 
 In section 60 of the Mission and Pastoral Measure 2011 (restriction on cases which may be dealt with by pastoral church building schemes), the text to which becomes subsection (1) of that section, at the end insert—
 
@@ -496,7 +496,7 @@ In section 60 of the Mission and Pastoral Measure 2011 (restriction on cases whi
 > - (a) the scheme may nevertheless have effect but only in so far as it provides for closure of the church or part, and
 > - (b) provision as to the use of the building shall instead be made in accordance with the following provisions of this Part.
 
-## 10. Bishop's mission order[^key-f80cdb3843bbcf2da5cb9567dc7d67aa]
+## 10. Bishop's mission order[^c-f80cdb3843bbcf2da5cb9567dc7d67aa]
 
 (1) In section 81 of the Mission and Pastoral Measure 2011 (the Visitor), in subsection (1) (functions)—
 
@@ -539,7 +539,7 @@ In section 60 of the Mission and Pastoral Measure 2011 (restriction on cases whi
 
 (11) In subsection (11) of that section (orders and supplementary instruments: procedural requirements etc.), for “and (6)” substitute “ , (6) and (8A) ”.
 
-## 11. Dealings in glebe land: removal of duty to consider representations[^key-f10949ed77b11d8d8e2d8a32c1b54a67]
+## 11. Dealings in glebe land: removal of duty to consider representations[^c-f10949ed77b11d8d8e2d8a32c1b54a67]
 
 (1) In section 20 of the Endowments and Glebe Measure 1976 (powers of diocesan boards of finance to deal with diocesan glebe land), omit subsections (6B), (7) and (8) (which require the Church Commissioners to consider representations made on a proposed transaction).
 
@@ -552,7 +552,7 @@ In section 60 of the Mission and Pastoral Measure 2011 (restriction on cases whi
 - (a) in Schedule 5 to the Church of England (Miscellaneous Provisions) Measure 2000, paragraph 5(e) to (g), and
 - (b) in Schedule 3 to the Church of England (Miscellaneous Provisions) Measure 2005, paragraph 2(d) and (e).
 
-## 12. Right of patronage to lapse to diocesan bishop[^key-101966a02b4ae697d64677be50d7108d]
+## 12. Right of patronage to lapse to diocesan bishop[^c-101966a02b4ae697d64677be50d7108d]
 
 (1) In section 16 of the Patronage (Benefices) Measure 1986 (presentation to benefices remaining vacant for nine months), for subsection (1) substitute—
 
@@ -584,7 +584,7 @@ In section 60 of the Mission and Pastoral Measure 2011 (restriction on cases whi
 
 (7) This section applies only in relation to a vacancy arising in a benefice after the commencement of this section.
 
-## 13. Age limit on appointments of licensed office-holders after retirement age: clarificatory provision[^key-3e89075cecbd75ea4c4576c2987b4d6b]
+## 13. Age limit on appointments of licensed office-holders after retirement age: clarificatory provision[^c-3e89075cecbd75ea4c4576c2987b4d6b]
 
 **Not yet in force.**
 
@@ -614,13 +614,13 @@ Section 6(4)
 
 ### Incumbents (Vacation of Benefices) Measure 1977
 
-**1.**[^key-f3a46c650a536b8272ba54e39787704c] In section 7 of the Incumbents (Vacation of Benefices) Measure 1977 (the title to which becomes “ Panels and tribunals ”), for subsection (1) substitute—
+**1.**[^c-f3a46c650a536b8272ba54e39787704c] In section 7 of the Incumbents (Vacation of Benefices) Measure 1977 (the title to which becomes “ Panels and tribunals ”), for subsection (1) substitute—
 
 > (1) Panels of persons for the purposes of this Measure are to be appointed in accordance with Part 1 of Schedule 1; and provincial tribunals for the purposes of this Measure are to be constituted in accordance with Part 2 of Schedule 1, with certain of the members of provincial tribunals being appointed from the panels appointed in accordance with Part 1 of Schedule 1.
 
-**2.**[^key-e4a8d29fc852efea8fe25bfa946cbe4c] In section 12A of that Measure (right of appeal against findings of provincial tribunal), in subsection (5), for the words from “in the same way” to the end substitute “ in accordance with Part 3 of Schedule 1, with certain of the members of the Appeal Panels being appointed from the panels appointed in accordance with Part 1 of Schedule 1. ”
+**2.**[^c-e4a8d29fc852efea8fe25bfa946cbe4c] In section 12A of that Measure (right of appeal against findings of provincial tribunal), in subsection (5), for the words from “in the same way” to the end substitute “ in accordance with Part 3 of Schedule 1, with certain of the members of the Appeal Panels being appointed from the panels appointed in accordance with Part 1 of Schedule 1. ”
 
-**3.**[^key-a9b0122048fa909ea7f43f0a7af2c64b] For Schedule 1 to that Measure (provincial tribunals) substitute the following—
+**3.**[^c-a9b0122048fa909ea7f43f0a7af2c64b] For Schedule 1 to that Measure (provincial tribunals) substitute the following—
 
 > **SCHEDULE 1 — PANELS AND TRIBUNALS**
 >
@@ -789,7 +789,7 @@ Section 6(4)
 > - (a) a reference to this Schedule in its new form is a reference to this Schedule as substituted by paragraph 3 of the Schedule to that Measure, and
 > - (b) a reference to section 12A in its new form is a reference to that section as amended by paragraph 2 of the Schedule to that Measure.
 
-**4.**[^key-879854b8c516f46bd0e05fceebc81014] (1) This paragraph applies if sections 81 to 83 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 have not come into force before the commencement of section 6 of this Measure.
+**4.**[^c-879854b8c516f46bd0e05fceebc81014] (1) This paragraph applies if sections 81 to 83 of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018 have not come into force before the commencement of section 6 of this Measure.
 
 (2) In this paragraph, “**the appointed day**” means the day on which sections 81 to 83 of that Measure come into force under an order made under section 99 of that Measure.
 
@@ -812,67 +812,67 @@ Section 6(4)
 
 ### Church of England (Legal Aid) Measure 1994
 
-**5.**[^key-be9fa36c8cc7dcd0e5cbc1896e864bb0] In Schedule 1 to the Church of England (Legal Aid) Measure 1994 (proceedings for which legal aid may be given), in the Table, omit paragraphs 3 and 4.
+**5.**[^c-be9fa36c8cc7dcd0e5cbc1896e864bb0] In Schedule 1 to the Church of England (Legal Aid) Measure 1994 (proceedings for which legal aid may be given), in the Table, omit paragraphs 3 and 4.
 
 ### Pensions Measure 1997
 
-**6.**[^key-7045bd41632b4358df0547659d9a7352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7045bd41632b4358df0547659d9a7352] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Clergy Discipline Measure 2003
 
-**7.**[^key-69df287bb934184b488ef87d96d0163f] In section 41 of the Clergy Discipline Measure 2003 (compensation)—
+**7.**[^c-69df287bb934184b488ef87d96d0163f] In section 41 of the Clergy Discipline Measure 2003 (compensation)—
 
 - (a) for “Schedule 4 to the Pastoral Measure 1983 (1983 No. 1)” substitute “ Schedule 4 to the Mission and Pastoral Measure 2011 ”, and
 - (b) for “section 25 of that Measure” substitute “ section 39 of that Measure ”.
 
 ## Annotations
 
-[^key-a916859b1964f5ca3f6dc07451552c3b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/4/section/1) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
+[^c-a916859b1964f5ca3f6dc07451552c3b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/4/section/1) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(a)](https://www.legislation.gov.uk/uksi/2018/722/article/3/a)
 
-[^key-29bd9e7a6de1bc858f54ecd3358ebbdb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/4/section/2) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2018/722/article/3/b)
+[^c-29bd9e7a6de1bc858f54ecd3358ebbdb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2018/4/section/2) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2018/722/article/3/b)
 
-[^key-bd12e33e88141e0273f00f8782bfd1ee]: Commencement: S. 3(1)-(4)(7)(8)(11) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(c)](https://www.legislation.gov.uk/uksi/2018/722/article/3/c) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/1))
+[^c-bd12e33e88141e0273f00f8782bfd1ee]: Commencement: S. 3(1)-(4)(7)(8)(11) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(c)](https://www.legislation.gov.uk/uksi/2018/722/article/3/c) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/1))
 
-[^key-eeabbf9eeda003851fc1f832e08c10c9]: Commencement: S. 3(5)(a) in force at 1.10.2018 by [S.I. 2018/1032](https://www.legislation.gov.uk/uksi/2018/1032), [art. 2](https://www.legislation.gov.uk/uksi/2018/1032/article/2)
+[^c-eeabbf9eeda003851fc1f832e08c10c9]: Commencement: S. 3(5)(a) in force at 1.10.2018 by [S.I. 2018/1032](https://www.legislation.gov.uk/uksi/2018/1032), [art. 2](https://www.legislation.gov.uk/uksi/2018/1032/article/2)
 
-[^key-4909b56e40d6993940ac3baaca375fea]: Commencement: [S. 3(5)(b)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/5/b)[(c)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/5/c)[(6)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/6)[(9)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/9)[(10)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/10) in force at 1.3.2019 by [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(a)](https://www.legislation.gov.uk/uksi/2019/66/article/2/a)
+[^c-4909b56e40d6993940ac3baaca375fea]: Commencement: [S. 3(5)(b)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/5/b)[(c)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/5/c)[(6)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/6)[(9)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/9)[(10)](https://www.legislation.gov.uk/ukcm/2018/4/section/3/10) in force at 1.3.2019 by [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(a)](https://www.legislation.gov.uk/uksi/2019/66/article/2/a)
 
-[^key-45262f066fcd5298ec6ee27d5b286fff]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/1) in force at 1.3.2019 by [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(b)](https://www.legislation.gov.uk/uksi/2019/66/article/2/b)
+[^c-45262f066fcd5298ec6ee27d5b286fff]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/1) in force at 1.3.2019 by [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(b)](https://www.legislation.gov.uk/uksi/2019/66/article/2/b)
 
-[^key-6578d45f74deaaa0cee6214e677e3713]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/2)[(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/3) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
+[^c-6578d45f74deaaa0cee6214e677e3713]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/2)[(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/3) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
 
-[^key-0bb95df81f26531bf77b7d6055c420be]: Commencement: [S. 4(4)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/4) in force at 1.10.2018 for specified purposes by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
+[^c-0bb95df81f26531bf77b7d6055c420be]: Commencement: [S. 4(4)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/4) in force at 1.10.2018 for specified purposes by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
 
-[^key-9b0b717e305f82b55feca6ba3da4e959]: Commencement: [S. 4(4)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/4) in force at 1.3.2019 for specified purposes by [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(b)](https://www.legislation.gov.uk/uksi/2019/66/article/2/b)
+[^c-9b0b717e305f82b55feca6ba3da4e959]: Commencement: [S. 4(4)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/4) in force at 1.3.2019 for specified purposes by [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(b)](https://www.legislation.gov.uk/uksi/2019/66/article/2/b)
 
-[^key-1ff26e20e7363c921e8e3a857fdf558d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2018/4/section/5) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(e)](https://www.legislation.gov.uk/uksi/2018/722/article/3/e) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/2))
+[^c-1ff26e20e7363c921e8e3a857fdf558d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2018/4/section/5) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(e)](https://www.legislation.gov.uk/uksi/2018/722/article/3/e) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/2))
 
-[^key-939da8456fc4428a50776e7e996d6414]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2018/4/section/6) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-939da8456fc4428a50776e7e996d6414]: Commencement: [S. 6](https://www.legislation.gov.uk/ukcm/2018/4/section/6) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-848fa947e4616644da4d0a747d3f8aed]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2018/4/section/7) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
+[^c-848fa947e4616644da4d0a747d3f8aed]: Commencement: [S. 7](https://www.legislation.gov.uk/ukcm/2018/4/section/7) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(f)](https://www.legislation.gov.uk/uksi/2018/722/article/3/f)
 
-[^key-f0f8319776f692d5b7888644bf8f1d06]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/4/section/8) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/722/article/2/b)
+[^c-f0f8319776f692d5b7888644bf8f1d06]: Commencement: [S. 8](https://www.legislation.gov.uk/ukcm/2018/4/section/8) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/722/article/2/b)
 
-[^key-df53d1dcb27618fbc1bda4e92f237b10]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2018/4/section/9) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(g)](https://www.legislation.gov.uk/uksi/2018/722/article/3/g)
+[^c-df53d1dcb27618fbc1bda4e92f237b10]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2018/4/section/9) in force at 1.10.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(g)](https://www.legislation.gov.uk/uksi/2018/722/article/3/g)
 
-[^key-f80cdb3843bbcf2da5cb9567dc7d67aa]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2018/4/section/10) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/722/article/2/c)
+[^c-f80cdb3843bbcf2da5cb9567dc7d67aa]: Commencement: [S. 10](https://www.legislation.gov.uk/ukcm/2018/4/section/10) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/722/article/2/c)
 
-[^key-f10949ed77b11d8d8e2d8a32c1b54a67]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2018/4/section/11) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/722/article/2/d) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/4))
+[^c-f10949ed77b11d8d8e2d8a32c1b54a67]: Commencement: [S. 11](https://www.legislation.gov.uk/ukcm/2018/4/section/11) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(d)](https://www.legislation.gov.uk/uksi/2018/722/article/2/d) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/4))
 
-[^key-101966a02b4ae697d64677be50d7108d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2018/4/section/12) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/722/article/2/e)
+[^c-101966a02b4ae697d64677be50d7108d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2018/4/section/12) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/722/article/2/e)
 
-[^key-3e89075cecbd75ea4c4576c2987b4d6b]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukcm/2018/4/section/13) repealed (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(15)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/15), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-3e89075cecbd75ea4c4576c2987b4d6b]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukcm/2018/4/section/13) repealed (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(15)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/15), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
 
-[^key-f3a46c650a536b8272ba54e39787704c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/1) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-f3a46c650a536b8272ba54e39787704c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/1) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-e4a8d29fc852efea8fe25bfa946cbe4c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/2) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-e4a8d29fc852efea8fe25bfa946cbe4c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/2) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-a9b0122048fa909ea7f43f0a7af2c64b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/3) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-a9b0122048fa909ea7f43f0a7af2c64b]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/3) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-879854b8c516f46bd0e05fceebc81014]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/4) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-879854b8c516f46bd0e05fceebc81014]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/4) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-be9fa36c8cc7dcd0e5cbc1896e864bb0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/5) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-be9fa36c8cc7dcd0e5cbc1896e864bb0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/5) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
 
-[^key-7045bd41632b4358df0547659d9a7352]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/6) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-7045bd41632b4358df0547659d9a7352]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/6) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-69df287bb934184b488ef87d96d0163f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/7) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))
+[^c-69df287bb934184b488ef87d96d0163f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukcm/2018/4/schedule/paragraph/7) in force at 1.7.2018 by [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/722/article/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/722/schedule/paragraph/3))

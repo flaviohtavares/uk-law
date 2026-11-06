@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22A. Parenting contracts and parenting orders: further provisions[^key-4c6d47bc201d341a8eea50cbbffe43c1]
+## 22A. Parenting contracts and parenting orders: further provisions[^c-4c6d47bc201d341a8eea50cbbffe43c1]
 
 *Extent: E+W*
 
-(1) The appropriate person may by regulations make further provision about the exercise by local authorities[^key-690f8e8857292b3789029948a5f284fa] and the governing bodies of relevant schools of their functions relating to—
+(1) The appropriate person may by regulations make further provision about the exercise by local authorities[^c-690f8e8857292b3789029948a5f284fa] and the governing bodies of relevant schools of their functions relating to—
 
 - (a) parenting contracts under section 19, and
 - (b) parenting orders under section 20.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6d47bc201d341a8eea50cbbffe43c1]: Textual amendment: S. 22A inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/99/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c);](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c) [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/h)
+[^c-4c6d47bc201d341a8eea50cbbffe43c1]: Textual amendment: S. 22A inserted (1.9.2007 for E., 31.10.2010 for W. for specified purposes and 5.1.2011 so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 99(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/99/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c);](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c) [S.I. 2010/2543](https://www.legislation.gov.uk/uksi/2010/2543), [arts. 2(h), 3(a)](https://www.legislation.gov.uk/uksi/2010/2543/article/2/h)
 
-[^key-690f8e8857292b3789029948a5f284fa]: Textual amendment: Words in s. 22A substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/52)
+[^c-690f8e8857292b3789029948a5f284fa]: Textual amendment: Words in s. 22A substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/52)

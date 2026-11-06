@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16.8. Variation etc. of injunction or restoration order[^key-b13d35f7d62e0f2f0ed0f0c10de8b34e]
+## 16.8. Variation etc. of injunction or restoration order[^c-b13d35f7d62e0f2f0ed0f0c10de8b34e]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Any injunction or restoration order may be varied, extended or discharged by the
 
 ## Annotations
 
-[^key-b13d35f7d62e0f2f0ed0f0c10de8b34e]: Commencement: [Rule 16.8](https://www.legislation.gov.uk/uksi/2015/1568/article/16.8) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-b13d35f7d62e0f2f0ed0f0c10de8b34e]: Commencement: [Rule 16.8](https://www.legislation.gov.uk/uksi/2015/1568/article/16.8) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

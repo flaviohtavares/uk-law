@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Champions League final 2013[^key-2ab3bc7819aed9f4b77b226baf601aec]
+## 13. Champions League final 2013[^c-2ab3bc7819aed9f4b77b226baf601aec]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab3bc7819aed9f4b77b226baf601aec]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/2012/14/section/13) modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 159](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/159)
+[^c-2ab3bc7819aed9f4b77b226baf601aec]: Modification: [S. 13](https://www.legislation.gov.uk/ukpga/2012/14/section/13) modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 159](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/159)

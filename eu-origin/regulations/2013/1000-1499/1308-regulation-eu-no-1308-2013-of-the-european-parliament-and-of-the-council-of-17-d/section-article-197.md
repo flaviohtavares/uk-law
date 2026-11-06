@@ -22,10 +22,10 @@ summary: ''
 
 The method of allocation for quantities which may be exported with an export refund shall be the one that:
 
-((a)) is most suited to the nature of the product and the situation on the relevant market, allowing the most efficient use of the resources available, taking into account the efficiency and structure of United Kingdom[^key-f7402721babae5e47f63ddea5ded26ba] exports and their impact on the market balance without creating discrimination between the operators concerned, and in particular between large and small operators;
+((a)) is most suited to the nature of the product and the situation on the relevant market, allowing the most efficient use of the resources available, taking into account the efficiency and structure of United Kingdom[^c-f7402721babae5e47f63ddea5ded26ba] exports and their impact on the market balance without creating discrimination between the operators concerned, and in particular between large and small operators;
 
 ((b)) is least cumbersome administratively for operators, taking into account the administrative requirements.
 
 ## Annotations
 
-[^key-f7402721babae5e47f63ddea5ded26ba]: Textual amendment: Words in [Art. 197(a)](https://www.legislation.gov.uk/eur/2013/1308/article/197/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [60](https://www.legislation.gov.uk/uksi/2019/821/regulation/60); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7402721babae5e47f63ddea5ded26ba]: Textual amendment: Words in [Art. 197(a)](https://www.legislation.gov.uk/eur/2013/1308/article/197/a) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [60](https://www.legislation.gov.uk/uksi/2019/821/regulation/60); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Mayor's economic development strategy for London[^key-0c819d821dfea311e98f8b0d9eb0960c]
+## 192. Mayor's economic development strategy for London[^c-0c819d821dfea311e98f8b0d9eb0960c]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c819d821dfea311e98f8b0d9eb0960c]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2011/20/section/192) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-0c819d821dfea311e98f8b0d9eb0960c]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2011/20/section/192) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

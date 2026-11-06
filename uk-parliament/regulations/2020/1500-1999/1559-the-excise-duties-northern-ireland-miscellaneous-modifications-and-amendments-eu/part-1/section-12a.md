@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**12A.**[^key-5d887df0ccf9005875330c2390dae3ee] In regulation 11—
+**12A.**[^c-5d887df0ccf9005875330c2390dae3ee] In regulation 11—
 
 - (a) after “production”, in each place it occurs, insert “or processing”;
 - (b) after “producing”, insert “or processing”.
 
 ## Annotations
 
-[^key-5d887df0ccf9005875330c2390dae3ee]: Textual amendment: Regs. 12-12B substituted for reg. 12 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/6)
+[^c-5d887df0ccf9005875330c2390dae3ee]: Textual amendment: Regs. 12-12B substituted for reg. 12 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/6)

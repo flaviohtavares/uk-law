@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Orders of the Health Committee and the Conduct and Competence Committee[^key-7730b52314605bad8f2af87e91cc7684][^key-191baf206035a088e2ed879d7d845932][^key-d596d33e598360f6558ca64260049eca]
+## 29. Orders of the Health Committee and the Conduct and Competence Committee[^c-7730b52314605bad8f2af87e91cc7684][^c-191baf206035a088e2ed879d7d845932][^c-d596d33e598360f6558ca64260049eca]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7730b52314605bad8f2af87e91cc7684]: Commencement: Art. 29 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-7730b52314605bad8f2af87e91cc7684]: Commencement: Art. 29 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-191baf206035a088e2ed879d7d845932]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2002/254/article/29) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-191baf206035a088e2ed879d7d845932]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2002/254/article/29) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-d596d33e598360f6558ca64260049eca]: Modification: [Art. 29](https://www.legislation.gov.uk/uksi/2002/254/article/29) continued (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-d596d33e598360f6558ca64260049eca]: Modification: [Art. 29](https://www.legislation.gov.uk/uksi/2002/254/article/29) continued (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### PART 1 — Authorised Development[^key-818b1faefab485b7d73dd8581d02154c]
+### PART 1 — Authorised Development[^c-818b1faefab485b7d73dd8581d02154c]
 
 *The authorised development is a nationally significant infrastructure project as defined in sections 14 and 21 of the 2008 Act comprising the construction of an up to 24 inch (609.6 millimetre) external diameter cross-country gas pipeline (to be known as the Thorpe Marsh Gas Pipeline) for the conveyance of gas and covering a distance of approximately 19.1 kilometres starting from the National Transmission System approximately 1.5 kilometres west of Camblesforth in the District of Selby in the County of North Yorkshire and ending at the proposed Thorpe Marsh Power Station to be constructed at Barnby Dun in the Metropolitan Borough of Doncaster. It includes the laying, placing, use, inspection, maintenance and diversion of the Thorpe Marsh Gas Pipeline and the works numbered and described below*—
 
@@ -323,22 +323,22 @@ In connection with Works No. 1 to 123, and to the extent that they do not otherw
 
 ### PART 2 — Requirements
 
-#### 1. Interpretation[^key-383df361eaf59014431cf6ab79aef5b3]
+#### 1. Interpretation[^c-383df361eaf59014431cf6ab79aef5b3]
 
 In this Part—
 
-- “European protected species” has the meaning given in Part 3 of the Conservation of Habitats and Species Regulations 2017[^key-39ac939efae34d1ca49102fc3111136f]; and
+- “European protected species” has the meaning given in Part 3 of the Conservation of Habitats and Species Regulations 2017[^c-39ac939efae34d1ca49102fc3111136f]; and
 - “stage” means a defined section or part of the authorised development (including maintenance), the extent of which is shown in a scheme, submitted to and approved in writing by the relevant planning authority pursuant to Requirement 3 (stages of authorised development).
 
-#### 2. Time limits[^key-c70cca466a4856819d98703b37364325]
+#### 2. Time limits[^c-c70cca466a4856819d98703b37364325]
 
 The authorised development must commence no later than the expiration of five years beginning with the date that this Order comes into force.
 
-#### 3. Stages of authorised development[^key-46a08c5b54fd4c62ae2196e0fd5fbfb7]
+#### 3. Stages of authorised development[^c-46a08c5b54fd4c62ae2196e0fd5fbfb7]
 
 No authorised development must commence until a written scheme setting out all the stages of the authorised development has been submitted to and approved by the relevant planning authority.
 
-#### 4. Detailed design approval[^key-4516d014a524239f3a94aaa27c92e4f2]
+#### 4. Detailed design approval[^c-4516d014a524239f3a94aaa27c92e4f2]
 
 (1) No stage of the authorised development below must commence until details of the layout, scale and external appearance of that stage have been submitted to and approved in writing by the relevant planning authority—
 
@@ -353,7 +353,7 @@ No authorised development must commence until a written scheme setting out all t
 
 (3) The authorised development must be carried out in accordance with the approved details.
 
-#### 5. Construction environmental management plan[^key-4cf0559bc4e289237bc806a244cf4c5c]
+#### 5. Construction environmental management plan[^c-4cf0559bc4e289237bc806a244cf4c5c]
 
 (1) No stage of the authorised development must commence until a written construction environmental management plan for that stage, based upon the outline construction environmental management plan and the mitigation measures included in the environmental statement, has been submitted to and approved in writing by the relevant planning authority in consultation with the Environment Agency, any relevant Internal Drainage Boards and the Canal and River Trust.
 
@@ -380,7 +380,7 @@ and any other matters the relevant planning authority reasonably requires.
 
 (3) The measures set out in the construction environmental management plan for each stage must be implemented as approved.
 
-#### 6. Construction traffic and temporary highway accesses[^key-01dad5ab3aada87fc9ca03cec9d0bfa5]
+#### 6. Construction traffic and temporary highway accesses[^c-01dad5ab3aada87fc9ca03cec9d0bfa5]
 
 (1) No stage of the authorised development must commence until a construction traffic management plan for that stage in accordance with the outline construction traffic management plan and the mitigation measures included in the environmental statement and containing details of construction traffic and temporary highway access arrangements has been submitted to and approved in writing by the relevant planning authority in consultation with the relevant highway authority.
 
@@ -397,7 +397,7 @@ and any other matters the relevant planning authority reasonably requires.
 
 (3) The construction traffic management plan for each stage must be implemented as approved.
 
-#### 7. Construction hours[^key-484b068f742229447442bda0ad23aa9d]
+#### 7. Construction hours[^c-484b068f742229447442bda0ad23aa9d]
 
 (1) Subject to sub-paragraph (2), construction work must not take place other than between 0700 hours and 1900 hours Monday to Friday, 0700 hours and 1300 hours on Saturdays, with no activity on Sundays or bank holidays.
 
@@ -408,13 +408,13 @@ and any other matters the relevant planning authority reasonably requires.
 - (c) it is associated with an emergency; or
 - (d) it is carried out with the prior written approval of the relevant planning authority.
 
-#### 8. Lighting management measures at the AGI site[^key-03a2cd6d3f0fe0b292557430d6ea819c]
+#### 8. Lighting management measures at the AGI site[^c-03a2cd6d3f0fe0b292557430d6ea819c]
 
 (1) The construction of the AGI site must not commence until written details of the permanent external lighting to be installed at the AGI site, measures to prevent light spillage and measures to regulate the times at which the permanent external lighting may operate have been submitted to and approved in writing by the relevant planning authority.
 
 (2) The authorised development must be operated in accordance with the approved details.
 
-#### 9. Provision of landscaping at the AGI site[^key-787db2f443ae08a48cee1c2bb6e40630]
+#### 9. Provision of landscaping at the AGI site[^c-787db2f443ae08a48cee1c2bb6e40630]
 
 (1) The construction of the AGI site must not commence until a written landscaping scheme in relation to those works has been submitted to and approved in writing by the relevant planning authority. The landscaping scheme must include details of all proposed hard and soft landscaping works, including—
 
@@ -430,13 +430,13 @@ and any other matters the relevant planning authority reasonably requires.
 
 (2) All landscaping works must be carried out in accordance with the landscaping scheme and the implementation timetables approved under sub-paragraph (1).
 
-#### 10. AGI site and highway accesses[^key-d2232cf8bd73b2f29662d2eb0679b4a1]
+#### 10. AGI site and highway accesses[^c-d2232cf8bd73b2f29662d2eb0679b4a1]
 
 (1) The construction of the AGI site must not commence until written details of the siting, design and layout of the permanent means of access to Sandwith Lane to be used by vehicular traffic at the AGI site has, after consultation with the relevant highway authority, been submitted to and approved in writing by the relevant planning authority.
 
 (2) The highway access to the AGI site must be constructed in accordance with the approved details.
 
-#### 11. Hedgerows and trees[^key-bc0aa1ed5596ba16c60adb4bcfc31a0d]
+#### 11. Hedgerows and trees[^c-bc0aa1ed5596ba16c60adb4bcfc31a0d]
 
 (1) For any stage of the authorised development that would affect any hedgerow or tree, no construction of the authorised development must commence until (for that stage and in relation to the relevant works within that stage) a written plan for the management of the removal and (where appropriate) reinstatement of all hedgerows and trees (as applicable) has been approved in writing by the relevant planning authority in consultation with the relevant highway authority. The written plan must be consistent with and have regard to the ecological management plan to be approved pursuant to Requirement 16.
 
@@ -448,13 +448,13 @@ and any other matters the relevant planning authority reasonably requires.
 
 (5) Any hedgerow or tree planting which is part of an approved reinstatement plan that, within a period of five years beginning with the date of planting, is removed, uprooted, destroyed, dies or (in the opinion of the relevant planning authority) becomes seriously damaged or defective, must be replaced in the first available planting season with planting material of the same specification as that originally planted.
 
-#### 12. Public rights of way[^key-84294c23929606848ea68936bd6a75a6]
+#### 12. Public rights of way[^c-84294c23929606848ea68936bd6a75a6]
 
 (1) No stage of the authorised development may commence that would affect any public right of way until, following consultation with the relevant highway authority, a written plan based upon the outline public rights of way plan for the temporary closure, diversion (where appropriate) and re-opening of the right of way has been submitted to and approved in writing by the relevant planning authority.
 
 (2) The temporary closure, re-opening or diversion of the relevant right of way must be carried out in accordance with the approved plan.
 
-#### 13. Surface and foul water drainage[^key-6a894917cb2f26f60af883c937de738e]
+#### 13. Surface and foul water drainage[^c-6a894917cb2f26f60af883c937de738e]
 
 (1) No stage of the authorised development must commence until for that stage, written details of the surface and (if any) foul water drainage system (including means of pollution control) for both temporary and permanent works have, in accordance with the flood risk assessment included in the environmental statement and the flood risk assessment addendum, been submitted to and approved in writing by the relevant planning authority in consultation with the Environment Agency and the sewerage and drainage authority.
 
@@ -462,7 +462,7 @@ and any other matters the relevant planning authority reasonably requires.
 
 (3) No discharge of water used under article 17 (discharge of water) must be made until details of the location and rate of discharge have been submitted to and approved in writing by the relevant planning authority in consultation with the Environment Agency and the sewerage and drainage authority.
 
-#### 14. Contaminated land and groundwater[^key-7d795d7b57135d63230b2e79ce89f02f]
+#### 14. Contaminated land and groundwater[^c-7d795d7b57135d63230b2e79ce89f02f]
 
 (1) No stage of the authorised development must commence until a written scheme applicable to that stage to deal with the contamination of any land (including groundwater) within the Order limits which is likely to cause significant harm to persons or pollution of controlled waters or the environment has, after consultation with the Environment Agency, been submitted to and approved in writing by the relevant planning authority.
 
@@ -477,7 +477,7 @@ and any other matters the relevant planning authority reasonably requires.
 
 (5) In this Requirement “controlled waters” has the meaning given in Part 3 of the Water Resources Act 1991[^f00020].
 
-#### 15. Archaeology[^key-fca4da3de611a2e658364a965b5fb0de]
+#### 15. Archaeology[^c-fca4da3de611a2e658364a965b5fb0de]
 
 (1) No stage of the authorised development must commence until for that stage a written scheme for the investigation of areas of archaeological interest as identified in the environmental statement has, after consultation with Doncaster Metropolitan Borough Council, East Riding of Yorkshire Council and their respective archaeological advisors or North Yorkshire County Council (as appropriate) and English Heritage, been submitted to and approved in writing by the relevant planning authority.
 
@@ -487,7 +487,7 @@ and any other matters the relevant planning authority reasonably requires.
 
 (4) Any archaeological works must be carried out in accordance with the approved scheme.
 
-#### 16. Ecological management plan[^key-fac9b8131e2af7d04853f9d920c8f1ac]
+#### 16. Ecological management plan[^c-fac9b8131e2af7d04853f9d920c8f1ac]
 
 (1) No stage of the authorised development must commence until a written ecological management plan for that stage reflecting the survey results and ecological mitigation and enhancement measures included in the environmental statement, after consultation with Yorkshire Wildlife Trust and any relevant statutory body, has been submitted to and approved, in writing, by the relevant planning authority. The ecological management plan must be consistent with, and have regard to, the written management plan for hedgerows and trees to be approved pursuant to Requirement 11.
 
@@ -497,13 +497,13 @@ and any other matters the relevant planning authority reasonably requires.
 
 (4) The undertaker must replace with equivalent works at the earliest practicable opportunity any ecological works carried out in accordance with the approved ecological management plan that, within a period of five years beginning with the date of the implementation of the plan, become seriously damaged, destroyed or defective or are removed.
 
-#### 17. European protected species[^key-f49464544b9cddb7a81bb423f6a2daf1]
+#### 17. European protected species[^c-f49464544b9cddb7a81bb423f6a2daf1]
 
 (1) No stage of the authorised development may commence until it has been established by existing or further survey work whether any European protected species is present on any of the land affected, or likely to be affected, by the authorised development.
 
 (2) Where a European protected species is shown to be present, no authorised development of that stage may be begun until, after consultation with Natural England, a scheme of protection and mitigation measures has been submitted to and approved in writing by the relevant planning authority; and the authorised development must be carried out in accordance with the approved scheme.
 
-#### 18. Operational noise[^key-c5e07402421cd7235ead3c38ea004cb7]
+#### 18. Operational noise[^c-c5e07402421cd7235ead3c38ea004cb7]
 
 (1) Operational noise from all fixed plant at the AGI site, measured at the façade of the nearest sensitive residential receptor, must be no higher than 26dB LAeq, 1 hr between the hours of 0700 and 2300 and no higher than 22dB LAeq, 15 mins between the hours of 2300 and 0700.
 
@@ -511,17 +511,17 @@ and any other matters the relevant planning authority reasonably requires.
 
 (3) The scheme of post-completion noise monitoring at the AGI site must be implemented as approved.
 
-#### 19. Decommissioning[^key-1f7ebd0e92e9a105d6334c33e761c4aa]
+#### 19. Decommissioning[^c-1f7ebd0e92e9a105d6334c33e761c4aa]
 
 (1) Upon the cessation of commercial operation of the authorised development, a written scheme for the decommissioning of the authorised development and the final proposed condition of the relevant land, including a proposed timetable for decommissioning, must be submitted to and approved in writing by the relevant planning authority, in consultation with the Health and Safety Executive or any successor to its statutory functions.
 
 (2) The scheme for decommissioning must be implemented as approved.
 
-#### 20. Written approval[^key-688c28172814e6501fb95d8f355a9d6c]
+#### 20. Written approval[^c-688c28172814e6501fb95d8f355a9d6c]
 
 Where under any of the above Requirements the written approval or agreement of the relevant planning authority or another person or authority is required, that approval or agreement must be given in writing.
 
-#### 21. Amendments to approved details[^key-5deb608221d1e04e9a52a4bd26fbc765]
+#### 21. Amendments to approved details[^c-5deb608221d1e04e9a52a4bd26fbc765]
 
 (1) With respect to any Requirement which requires the authorised development to be carried out in accordance with the details approved by the relevant planning authority or another approval authority, the approved details must be carried out as approved unless an amendment or variation is previously agreed, by the relevant planning authority or that other approval authority as specified in the relevant Requirement, in accordance with sub-paragraph (2) and in consultation with any body specified in the relevant Requirement.
 
@@ -529,13 +529,13 @@ Where under any of the above Requirements the written approval or agreement of t
 
 (3) The approved details must be taken to include any amendments that may subsequently be approved by the relevant planning authority or that other approval authority.
 
-#### 22. Flooding mitigation[^key-590a9d620ff480059b08bbfe4014ab81]
+#### 22. Flooding mitigation[^c-590a9d620ff480059b08bbfe4014ab81]
 
 (1) No stage of the authorised development must commence until for that stage there has been submitted to and approved in writing by (and deposited with) the relevant planning authority, in consultation with the Environment Agency and the relevant internal drainage board, a scheme for the mitigation of flood risk during the construction and operation of the authorised development prepared in accordance with the flood risk assessment included in the environmental statement, the flood risk assessment addendum and the outline construction environmental management plan.
 
 (2) The approved scheme must be implemented fully and adhered to during the construction and operation of the relevant stage of the authorised development.
 
-#### 23. Local employment[^key-374a36dd69d7ab294be5eec5053a93a2]
+#### 23. Local employment[^c-374a36dd69d7ab294be5eec5053a93a2]
 
 (1) No stage of the authorised development may commence until for that stage a written scheme for the promotion of local employment opportunities has been submitted to and approved in writing by the relevant planning authority.
 
@@ -543,7 +543,7 @@ Where under any of the above Requirements the written approval or agreement of t
 
 (3) The approved scheme must be implemented in full during the construction stage of the authorised development.
 
-#### 24. Burn airfield[^key-31d2fda3af0384794eaec1890f252a25]
+#### 24. Burn airfield[^c-31d2fda3af0384794eaec1890f252a25]
 
 (1) The authorised development must not commence until a written scheme for the management of the interaction between the authorised development and gliding operations at Burn airfield has been submitted to and approved in writing by the relevant planning authority in consultation with Burn Gliding Club.
 
@@ -559,56 +559,56 @@ Where under any of the above Requirements the written approval or agreement of t
 
 ## Annotations
 
-[^key-818b1faefab485b7d73dd8581d02154c]: Commencement: Sch. 1 Pt. 1 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-818b1faefab485b7d73dd8581d02154c]: Commencement: Sch. 1 Pt. 1 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-383df361eaf59014431cf6ab79aef5b3]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-383df361eaf59014431cf6ab79aef5b3]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-39ac939efae34d1ca49102fc3111136f]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/297/schedule/1/paragraph/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 66](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/66)
+[^c-39ac939efae34d1ca49102fc3111136f]: Textual amendment: Words in [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/297/schedule/1/paragraph/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 66](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/66)
 
-[^key-c70cca466a4856819d98703b37364325]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-c70cca466a4856819d98703b37364325]: Commencement: Sch. 1 Pt. 2 para. 2 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-46a08c5b54fd4c62ae2196e0fd5fbfb7]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-46a08c5b54fd4c62ae2196e0fd5fbfb7]: Commencement: Sch. 1 Pt. 2 para. 3 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-4516d014a524239f3a94aaa27c92e4f2]: Commencement: Sch. 1 Pt. 2 para. 4 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-4516d014a524239f3a94aaa27c92e4f2]: Commencement: Sch. 1 Pt. 2 para. 4 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-4cf0559bc4e289237bc806a244cf4c5c]: Commencement: Sch. 1 Pt. 2 para. 5 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-4cf0559bc4e289237bc806a244cf4c5c]: Commencement: Sch. 1 Pt. 2 para. 5 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-01dad5ab3aada87fc9ca03cec9d0bfa5]: Commencement: Sch. 1 Pt. 2 para. 6 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-01dad5ab3aada87fc9ca03cec9d0bfa5]: Commencement: Sch. 1 Pt. 2 para. 6 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-484b068f742229447442bda0ad23aa9d]: Commencement: Sch. 1 Pt. 2 para. 7 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-484b068f742229447442bda0ad23aa9d]: Commencement: Sch. 1 Pt. 2 para. 7 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-03a2cd6d3f0fe0b292557430d6ea819c]: Commencement: Sch. 1 Pt. 2 para. 8 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-03a2cd6d3f0fe0b292557430d6ea819c]: Commencement: Sch. 1 Pt. 2 para. 8 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-787db2f443ae08a48cee1c2bb6e40630]: Commencement: Sch. 1 Pt. 2 para. 9 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-787db2f443ae08a48cee1c2bb6e40630]: Commencement: Sch. 1 Pt. 2 para. 9 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-d2232cf8bd73b2f29662d2eb0679b4a1]: Commencement: Sch. 1 Pt. 2 para. 10 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-d2232cf8bd73b2f29662d2eb0679b4a1]: Commencement: Sch. 1 Pt. 2 para. 10 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-bc0aa1ed5596ba16c60adb4bcfc31a0d]: Commencement: Sch. 1 Pt. 2 para. 11 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-bc0aa1ed5596ba16c60adb4bcfc31a0d]: Commencement: Sch. 1 Pt. 2 para. 11 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-84294c23929606848ea68936bd6a75a6]: Commencement: Sch. 1 Pt. 2 para. 12 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-84294c23929606848ea68936bd6a75a6]: Commencement: Sch. 1 Pt. 2 para. 12 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-6a894917cb2f26f60af883c937de738e]: Commencement: Sch. 1 Pt. 2 para. 13 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-6a894917cb2f26f60af883c937de738e]: Commencement: Sch. 1 Pt. 2 para. 13 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-7d795d7b57135d63230b2e79ce89f02f]: Commencement: Sch. 1 Pt. 2 para. 14 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-7d795d7b57135d63230b2e79ce89f02f]: Commencement: Sch. 1 Pt. 2 para. 14 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
 [^f00020]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-fca4da3de611a2e658364a965b5fb0de]: Commencement: Sch. 1 Pt. 2 para. 15 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-fca4da3de611a2e658364a965b5fb0de]: Commencement: Sch. 1 Pt. 2 para. 15 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-fac9b8131e2af7d04853f9d920c8f1ac]: Commencement: Sch. 1 Pt. 2 para. 16 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-fac9b8131e2af7d04853f9d920c8f1ac]: Commencement: Sch. 1 Pt. 2 para. 16 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-f49464544b9cddb7a81bb423f6a2daf1]: Commencement: Sch. 1 Pt. 2 para. 17 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-f49464544b9cddb7a81bb423f6a2daf1]: Commencement: Sch. 1 Pt. 2 para. 17 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-c5e07402421cd7235ead3c38ea004cb7]: Commencement: Sch. 1 Pt. 2 para. 18 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-c5e07402421cd7235ead3c38ea004cb7]: Commencement: Sch. 1 Pt. 2 para. 18 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-1f7ebd0e92e9a105d6334c33e761c4aa]: Commencement: Sch. 1 Pt. 2 para. 19 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-1f7ebd0e92e9a105d6334c33e761c4aa]: Commencement: Sch. 1 Pt. 2 para. 19 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-688c28172814e6501fb95d8f355a9d6c]: Commencement: Sch. 1 Pt. 2 para. 20 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-688c28172814e6501fb95d8f355a9d6c]: Commencement: Sch. 1 Pt. 2 para. 20 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-5deb608221d1e04e9a52a4bd26fbc765]: Commencement: [Sch. 1 Pt. 2 para. 21](https://www.legislation.gov.uk/uksi/2016/297/schedule/1/part/2/paragraph/21) in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-5deb608221d1e04e9a52a4bd26fbc765]: Commencement: [Sch. 1 Pt. 2 para. 21](https://www.legislation.gov.uk/uksi/2016/297/schedule/1/part/2/paragraph/21) in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-590a9d620ff480059b08bbfe4014ab81]: Commencement: Sch. 1 Pt. 2 para. 22 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-590a9d620ff480059b08bbfe4014ab81]: Commencement: Sch. 1 Pt. 2 para. 22 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-374a36dd69d7ab294be5eec5053a93a2]: Commencement: Sch. 1 Pt. 2 para. 23 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-374a36dd69d7ab294be5eec5053a93a2]: Commencement: Sch. 1 Pt. 2 para. 23 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
 
-[^key-31d2fda3af0384794eaec1890f252a25]: Commencement: Sch. 1 Pt. 2 para. 24 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-31d2fda3af0384794eaec1890f252a25]: Commencement: Sch. 1 Pt. 2 para. 24 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

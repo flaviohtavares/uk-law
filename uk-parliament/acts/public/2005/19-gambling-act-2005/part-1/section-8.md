@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Equal chance gaming[^key-ead3d10ac4f68694043d16be3dfb5370]
+## 8. Equal chance gaming[^c-ead3d10ac4f68694043d16be3dfb5370]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ead3d10ac4f68694043d16be3dfb5370]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/19/section/8) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-ead3d10ac4f68694043d16be3dfb5370]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2005/19/section/8) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

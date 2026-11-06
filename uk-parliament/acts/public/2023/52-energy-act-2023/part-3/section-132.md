@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Designation: procedure[^key-5a81feafc58271e3e4d3e831c1d7e98c]
+## 132. Designation: procedure[^c-5a81feafc58271e3e4d3e831c1d7e98c]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a81feafc58271e3e4d3e831c1d7e98c]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2023/52/section/132) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-5a81feafc58271e3e4d3e831c1d7e98c]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2023/52/section/132) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

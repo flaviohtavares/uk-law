@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3D — Conditions applicable to all systems[^key-3823bfdeaa573ad722ab877e4278600a]
+## SCHEDULE 3D — Conditions applicable to all systems[^c-3823bfdeaa573ad722ab877e4278600a]
 
 *Extent: N.I.*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Regulation 5A
 
-**1.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3823bfdeaa573ad722ab877e4278600a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)
+[^c-3823bfdeaa573ad722ab877e4278600a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/270) revoked (2.4.2012) by [Welfare of Farmed Animals Regulations (Northern Ireland) 2012 (S.R. 2012/156)](https://www.legislation.gov.uk/nisr/2012/156), [regs. 1](https://www.legislation.gov.uk/nisr/2012/156/regulation/1), [8](https://www.legislation.gov.uk/nisr/2012/156/regulation/8)

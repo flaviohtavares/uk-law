@@ -28,7 +28,7 @@ Regulation 1
 
 **3.** Paragraphs 30 to 38, relating to the European Cooperative Society (Involvement of Employees) Regulations 2006 [^c20081081].
 
-**4.**[^key-c0758618ae274a8b09e379592cada170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c0758618ae274a8b09e379592cada170] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -36,4 +36,4 @@ Regulation 1
 
 [^c20081081]: Marginal citation: [S.I. 2006/2059](https://www.legislation.gov.uk/uksi/2006/2059).
 
-[^key-c0758618ae274a8b09e379592cada170]: Textual amendment: Sch. 1 para. 4 omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0758618ae274a8b09e379592cada170]: Textual amendment: Sch. 1 para. 4 omitted (31.12.2020) by virtue of [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2019/348/schedule/3/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

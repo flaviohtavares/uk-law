@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Payment of additional lump sum contributions by employing authority[^key-5e53f575b024d5ac4eb0f64078bd9d4e]
+## 37. Payment of additional lump sum contributions by employing authority[^c-5e53f575b024d5ac4eb0f64078bd9d4e]
 
 *Extent: N.I.*
 
@@ -41,10 +41,10 @@ may not exceed £5000 or such other amount as the Department may for the time be
 
 (5) A contribution under this regulation must be paid by the employing authority to the Department within one month of the date on which the authority gave the Department notice under regulation 38(2).
 
-(6)[^key-f7d2da97c1868fc979cde7e33aeee176] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
+(6)[^c-f7d2da97c1868fc979cde7e33aeee176] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
 
 ## Annotations
 
-[^key-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
+[^c-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
 
-[^key-f7d2da97c1868fc979cde7e33aeee176]: Textual amendment: [Reg. 37(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/37/6) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2010/22/regulation/25)
+[^c-f7d2da97c1868fc979cde7e33aeee176]: Textual amendment: [Reg. 37(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/37/6) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2010/22/regulation/25)

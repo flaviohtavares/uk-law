@@ -24,8 +24,8 @@ summary: ''
 
 (2) Any expense incurred by such an authority, board member, officer or other person acting bona fide for the purpose aforesaid shall be borne and repaid out of the fund or rate applicable by the authority or board for the general purposes of this Act.
 
-(3)[^key-ad53ecf69f0dd378f6c7d0ce6eb66de6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ad53ecf69f0dd378f6c7d0ce6eb66de6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad53ecf69f0dd378f6c7d0ce6eb66de6]: Textual amendment: [S. 115(3)](https://www.legislation.gov.uk/ukpga/1984/55/section/115/3) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/11); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-ad53ecf69f0dd378f6c7d0ce6eb66de6]: Textual amendment: [S. 115(3)](https://www.legislation.gov.uk/ukpga/1984/55/section/115/3) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/11); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

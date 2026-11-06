@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Interpretation and supplementary provision[^key-7f6a5e45f97879e67871a2f3354f6d07]
+## 130A. Interpretation and supplementary provision[^c-7f6a5e45f97879e67871a2f3354f6d07]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f6a5e45f97879e67871a2f3354f6d07]: Textual amendment: S. 130A omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(13)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/13)
+[^c-7f6a5e45f97879e67871a2f3354f6d07]: Textual amendment: S. 130A omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(13)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/13)

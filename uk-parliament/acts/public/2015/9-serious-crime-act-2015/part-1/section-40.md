@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Confiscation orders by magistrates' courts[^key-7d88f46a8f3ce1a762f5e6aef4166c71]
+## 40. Confiscation orders by magistrates' courts[^c-7d88f46a8f3ce1a762f5e6aef4166c71]
 
 *Extent: E+W+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d88f46a8f3ce1a762f5e6aef4166c71]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2015/9/section/40) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/m)
+[^c-7d88f46a8f3ce1a762f5e6aef4166c71]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2015/9/section/40) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/m)

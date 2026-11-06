@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Llanrhidian Lower, and Llanrhidian Higher — changes in community and community ward boundaries[^key-7b64fb740febfafb14fdb9dd626a9eec]
+## 21. Llanrhidian Lower, and Llanrhidian Higher — changes in community and community ward boundaries[^c-7b64fb740febfafb14fdb9dd626a9eec]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The part of the community of Llanrhidian Lower shaded on Map 14—
 
 ## Annotations
 
-[^key-7b64fb740febfafb14fdb9dd626a9eec]: Commencement: [Art. 21](https://www.legislation.gov.uk/wsi/2026/95/article/21) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-7b64fb740febfafb14fdb9dd626a9eec]: Commencement: [Art. 21](https://www.legislation.gov.uk/wsi/2026/95/article/21) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

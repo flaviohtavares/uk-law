@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1099. SMEs: qualifying expenditure “for” an accounting period[^key-816d20a17c038e9c953595af72902371]
+## 1099. SMEs: qualifying expenditure “for” an accounting period[^c-816d20a17c038e9c953595af72902371]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-816d20a17c038e9c953595af72902371]: Textual amendment: S. 1099 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/26)
+[^c-816d20a17c038e9c953595af72902371]: Textual amendment: S. 1099 omitted (with effect in accordance with Sch. 3 para. 38 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/26)

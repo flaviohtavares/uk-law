@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. General powers[^key-5f2d23709e4bed4916fc22799929c853]
+## 7. General powers[^c-5f2d23709e4bed4916fc22799929c853]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f2d23709e4bed4916fc22799929c853]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/18/section/7) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+[^c-5f2d23709e4bed4916fc22799929c853]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/18/section/7) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))

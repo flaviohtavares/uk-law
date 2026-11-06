@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Child support officers.[^key-5d237004b044daf040df14a427165718]
+## 13. Child support officers.[^c-5d237004b044daf040df14a427165718]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d237004b044daf040df14a427165718]: Textual amendment: S. 13 repealed (1.6.1999) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/26), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(f)(iii)(g)(iii)](https://www.legislation.gov.uk/uksi/1999/1510/article/2) (and see [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 1(c)](https://www.legislation.gov.uk/ukpga/1998/14/section/1/c))
+[^c-5d237004b044daf040df14a427165718]: Textual amendment: S. 13 repealed (1.6.1999) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/26), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(f)(iii)(g)(iii)](https://www.legislation.gov.uk/uksi/1999/1510/article/2) (and see [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 1(c)](https://www.legislation.gov.uk/ukpga/1998/14/section/1/c))

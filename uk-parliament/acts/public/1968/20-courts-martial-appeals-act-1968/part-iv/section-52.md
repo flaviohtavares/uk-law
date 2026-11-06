@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Removal of prisoners.[^key-1f67bdc2b3c0797fad965fbe9fa51e18]
+## 52. Removal of prisoners.[^c-1f67bdc2b3c0797fad965fbe9fa51e18]
 
 *Extent: E+W+S+N.I.*
 
 Rules or regulations made under—
 
-- (a)[^key-7cb037b1600179ade83ab67d3affa6c3] section 300 of the 2006 Act;
+- (a)[^c-7cb037b1600179ade83ab67d3affa6c3] section 300 of the 2006 Act;
 - (d) section 47 of the [^c7715761]Prison Act 1952;
 - (e)[^c7715771] section 35 of the [^c7715781]Prisons (Scotland) Act 1952; or
 - (e)[^c7715791] section 39 of the Prisons (Scotland) Act 1989; or
@@ -32,9 +32,9 @@ may provide in what manner an appellant, when in custody, is to be taken to, kep
 
 ## Annotations
 
-[^key-1f67bdc2b3c0797fad965fbe9fa51e18]: Modification: [S. 52](https://www.legislation.gov.uk/ukpga/1968/20/section/52) applied (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2024/619/regulation/41); S.I. 2024/562, [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
+[^c-1f67bdc2b3c0797fad965fbe9fa51e18]: Modification: [S. 52](https://www.legislation.gov.uk/ukpga/1968/20/section/52) applied (17.4.2024) by [The Armed Forces (Appeals Against Review of Sentence) Regulations 2024 (S.I. 2024/619)](https://www.legislation.gov.uk/uksi/2024/619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/619/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2024/619/regulation/41); S.I. 2024/562, [reg. 2](https://www.legislation.gov.uk/uksi/2024/562/regulation/2)
 
-[^key-7cb037b1600179ade83ab67d3affa6c3]: Textual amendment: S. 52(a) substituted for s. 52(a)-(c) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/48); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7cb037b1600179ade83ab67d3affa6c3]: Textual amendment: S. 52(a) substituted for s. 52(a)-(c) (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/48); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c7715761]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Requirements that must be met by warrants[^key-fb4a80f698664f5f80d7a67d6b09e8be][^key-725f9932bbd5ff14d169c7c4bf82aac9]
+## 115. Requirements that must be met by warrants[^c-fb4a80f698664f5f80d7a67d6b09e8be][^c-725f9932bbd5ff14d169c7c4bf82aac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb4a80f698664f5f80d7a67d6b09e8be]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2016/25/section/115) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/m)
+[^c-fb4a80f698664f5f80d7a67d6b09e8be]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2016/25/section/115) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/m)
 
-[^key-725f9932bbd5ff14d169c7c4bf82aac9]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2016/25/section/115) in force at 28.11.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/2/e)
+[^c-725f9932bbd5ff14d169c7c4bf82aac9]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2016/25/section/115) in force at 28.11.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Use of information held by the Secretary of State or the Scottish Ministers etc.[^key-99bb5809c4b0432d1ee3a8e489fd4690][^key-b2bee97e5a2eedabc86b8b26730a1b0d]
+## 161. Use of information held by the Secretary of State or the Scottish Ministers etc.[^c-99bb5809c4b0432d1ee3a8e489fd4690][^c-b2bee97e5a2eedabc86b8b26730a1b0d]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ for the purposes of, or for any purpose connected with, the exercise of function
 
 ## Annotations
 
-[^key-99bb5809c4b0432d1ee3a8e489fd4690]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2003/43/section/161) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-99bb5809c4b0432d1ee3a8e489fd4690]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2003/43/section/161) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
 
-[^key-b2bee97e5a2eedabc86b8b26730a1b0d]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2003/43/section/161) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-b2bee97e5a2eedabc86b8b26730a1b0d]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2003/43/section/161) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)

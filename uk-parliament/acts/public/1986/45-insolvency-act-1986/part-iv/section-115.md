@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Expenses of voluntary winding up.[^c15572051][^key-15589ee923bda92b82778274f121dead]
+## 115. Expenses of voluntary winding up.[^c15572051][^c-15589ee923bda92b82778274f121dead]
 
 *Extent: E+W+S*
 
-After the payment of any liabilities to which section 174A applies,[^key-6199be983749a514e7a22885da876014] all expenses properly incurred in the winding up, including the remuneration of the liquidator, are payable out of the company’s assets in priority to all other claims.
+After the payment of any liabilities to which section 174A applies,[^c-6199be983749a514e7a22885da876014] all expenses properly incurred in the winding up, including the remuneration of the liquidator, are payable out of the company’s assets in priority to all other claims.
 
 ## Annotations
 
 [^c15572051]: Modification: S. 115 applied (with modifications) (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-15589ee923bda92b82778274f121dead]: Modification: [Ss. 113-115](https://www.legislation.gov.uk/ukpga/1986/45/section/113) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-15589ee923bda92b82778274f121dead]: Modification: [Ss. 113-115](https://www.legislation.gov.uk/ukpga/1986/45/section/113) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
-[^key-6199be983749a514e7a22885da876014]: Textual amendment: Words in s. 115 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/9) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-6199be983749a514e7a22885da876014]: Textual amendment: Words in s. 115 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/9) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

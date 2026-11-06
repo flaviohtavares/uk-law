@@ -33,7 +33,7 @@ summary: ''
   - (i) members nominated by transferors and superseded managers;
   - (ii) members elected by parents;
   - (iii) members elected by assistant teachers;
-  - (iv) members chosen, nominated or appointed by the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] ;
+  - (iv) members chosen, nominated or appointed by the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] ;
   - (v) members nominated by the Boards of Governors of contributory schools;
   - (vi) members nominated or appointed by the Head of the Department;
   - (vii) members nominated by trustees or nominating trustees;
@@ -71,7 +71,7 @@ summary: ''
 
 [^c19384961]: Textual amendment: Art. 125(2)(b) repealed (1.8.2006) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/2), [44](https://www.legislation.gov.uk/nisi/2006/1915/article/44), [Sch. 2 para. 6](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/6), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nisi/2006/1915/schedule/3/part/1)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c20347721]: Textual amendment: Words in art. 125(2)(g)(ii) substituted (31.5.2009) by [Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13))](https://www.legislation.gov.uk/nisi/1998/1759), [arts. 1(3)(g)](https://www.legislation.gov.uk/nisi/1998/1759/article/1/3/g), [91(1)](https://www.legislation.gov.uk/nisi/1998/1759/article/91/1), [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisi/1998/1759/schedule/5/part/II); [S.R. 2009/183](https://www.legislation.gov.uk/nisr/2009/183), [art. 3(a)(d)](https://www.legislation.gov.uk/nisr/2009/183/article/3/a/d)
 

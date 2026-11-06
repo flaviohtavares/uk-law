@@ -43,30 +43,30 @@ The Solicitors Disciplinary Tribunal in exercise of the powers conferred upon it
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application[^key-687032b3b5a84515341b7102fdbb4e7b]
+### 1. Citation, commencement and application[^c-687032b3b5a84515341b7102fdbb4e7b]
 
 (1) These Rules may be cited as the Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011 and shall come into force on 1st October 2011.
 
 (2) These Rules (except rule 30) apply in relation to—
 
-- (a) appeals to the Tribunal under paragraph 14C of Schedule 2 to the Administration of Justice Act 1985; [^key-b7947120dd10aa340cd37f9cae61db16]...
-- (b) appeals to the Tribunal under section 44E of the 1974 Act (appeals against disciplinary action under section 44D) ; and[^key-0f4b43e3b738864d2e11d9bbc7d52d67]
+- (a) appeals to the Tribunal under paragraph 14C of Schedule 2 to the Administration of Justice Act 1985; [^c-b7947120dd10aa340cd37f9cae61db16]...
+- (b) appeals to the Tribunal under section 44E of the 1974 Act (appeals against disciplinary action under section 44D) ; and[^c-0f4b43e3b738864d2e11d9bbc7d52d67]
 - (c) appeals to the Tribunal in respect of decisions made by the Society which are appealable under Part 5 of the 2007 Act or the Society’s licensing rules and which, by virtue of article 4(1) of the Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (No. 2) Order 2011 are appeals which may be heard and determined by the Tribunal.
 
-### 2. Interpretation[^key-a9157daa743826fd4c74574dd1b329e1]
+### 2. Interpretation[^c-a9157daa743826fd4c74574dd1b329e1]
 
 In these Rules—
 
 - “the 1974 Act” means the Solicitors Act 1974;
 - “the 2007 Act” means the Legal Services Act 2007[^f00004];
-- “the 2019 rules” means the Solicitors (Disciplinary Proceedings) Rules 2019[^key-0bef0a2f22f38711b5b2cc6146c660fc];
-- “**appeal**” means a Schedule 2 appeal , a section 44E appeal or a licensing appeal[^key-59ff6af45cbfbbc6cdffdf5b7869aad1];
+- “the 2019 rules” means the Solicitors (Disciplinary Proceedings) Rules 2019[^c-0bef0a2f22f38711b5b2cc6146c660fc];
+- “**appeal**” means a Schedule 2 appeal , a section 44E appeal or a licensing appeal[^c-59ff6af45cbfbbc6cdffdf5b7869aad1];
 - “**appellant**” means—
   - (a) a person who makes an appeal to the Tribunal; or
   - (b) a person added or substituted as an appellant under rule 13(1);
 - “the Board” means the Legal Services Board;
-- “**clerk**” has the same meaning as in the 2019 rules[^key-93a6b84a177a7ed1ff4dd45fd1a307f9];
-- a “[^key-1c039782a4d332607cf8ca6d5307a0ce]**licensing appeal**” means an appeal of the type mentioned in rule 1(2)(c);
+- “**clerk**” has the same meaning as in the 2019 rules[^c-93a6b84a177a7ed1ff4dd45fd1a307f9];
+- a “[^c-1c039782a4d332607cf8ca6d5307a0ce]**licensing appeal**” means an appeal of the type mentioned in rule 1(2)(c);
 - “**Panel**” means a panel appointed under rule 3 for the hearing of an appeal or any matter connected with an appeal;
 - “**party**” means the appellant or the respondent;
 - “**practice direction**” means a practice direction made under rule 10;
@@ -79,32 +79,32 @@ In these Rules—
 
   a “**section 44E appeal**” means an appeal of the type mentioned in rule 1(2)(b);
 - “the Society” means the Law Society and includes any duly constituted committee of the Law Society or any body or person exercising delegated powers of the Law Society;
-- “[^key-ea06f73efdcda244e2ece7967f784bc7]**the Society’s licensing rules**” means licensing rules made by the Society under section 83 of the 2007 Act (licensing rules);
+- “[^c-ea06f73efdcda244e2ece7967f784bc7]**the Society’s licensing rules**” means licensing rules made by the Society under section 83 of the 2007 Act (licensing rules);
 - “**solicitor members**” and “**lay members**” have the same meanings as in section 46 of the 1974 Act;
-- a “[^key-49f5c4c27836a9726dfed18ebeb06d5e]**Stay**” means a prohibition on the respondent implementing the decision in respect of which an appeal is made;
+- a “[^c-49f5c4c27836a9726dfed18ebeb06d5e]**Stay**” means a prohibition on the respondent implementing the decision in respect of which an appeal is made;
 - “the Tribunal” means the Solicitors Disciplinary Tribunal and where a Panel has been appointed for the hearing of an appeal or any matter connected with it, includes a Panel.
 
 ## PART 2 — Constitution of appeal panels
 
-### 3. Composition of panel[^key-3589dde20609dd9dbff2afda0f447d7c]
+### 3. Composition of panel[^c-3589dde20609dd9dbff2afda0f447d7c]
 
 (1) A Panel of at least three members of the Tribunal shall be appointed by the Tribunal for the hearing of any appeal.
 
 (2) Unless the President otherwise directs, the majority of the Panel members shall be solicitor members.
 
-### 4. Appointment of chairman[^key-1bea4fa231855e942342b91f2f0825bf]
+### 4. Appointment of chairman[^c-1bea4fa231855e942342b91f2f0825bf]
 
 The chairman of each Panel shall be appointed by the Tribunal and (unless the President determines otherwise) shall be a solicitor member.
 
-### 5. Delegation[^key-4c50f8bfb91f688b516df89b109bddc4]
+### 5. Delegation[^c-4c50f8bfb91f688b516df89b109bddc4]
 
-(1) The duties to be performed by the clerks shall, in addition to the duties listed in rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019[^key-fba6831b56058d116e3110a3bda4c3b4], include—
+(1) The duties to be performed by the clerks shall, in addition to the duties listed in rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019[^c-fba6831b56058d116e3110a3bda4c3b4], include—
 
 - (a) appointing panels under rule 3(1);
 - (b) appointing a chairman of a Panel under rule 4; and
 - (c) giving directions under rules 9, 13 and 19(1).
 
-(2) Paragraph (1) is without prejudice to rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019[^key-09fe88d9af4e738473da007fb3bac271].
+(2) Paragraph (1) is without prejudice to rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019[^c-09fe88d9af4e738473da007fb3bac271].
 
 (3) No later than the date on which expires the period of 14 days beginning with the date on which the Tribunal sends notice to a party of a decision made by a clerk in exercise of functions of a judicial nature under paragraph (1), that party may send an application in writing to the Tribunal for that decision to be considered afresh by a Panel or a single solicitor member.
 
@@ -117,7 +117,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 ## PART 3 — Appeal procedure
 
-### 6. Notice of appeal[^key-f418c961e5c142521ca8270fd0ed235e]
+### 6. Notice of appeal[^c-f418c961e5c142521ca8270fd0ed235e]
 
 (1) An appellant must start proceedings for an appeal by sending or delivering a notice of appeal to the Tribunal.
 
@@ -135,11 +135,11 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 - (f) details of the decision or act to which the proceedings relate;
 - (g) the result the appellant is seeking;
 - (h) the grounds on which the appellant relies;
-- (ha)[^key-0a3e90a5ff052641a03639093ac3c1c1] any application for an order for a Stay, if the appellant is allowed to make such an application under the Society’s licensing rules;
+- (ha)[^c-0a3e90a5ff052641a03639093ac3c1c1] any application for an order for a Stay, if the appellant is allowed to make such an application under the Society’s licensing rules;
 - (i) whether the appellant would be content for the case to be dealt with without a hearing if the Tribunal considers it appropriate; and
 - (j) any further information or documents required by a practice direction.
 
-(4A)[^key-447047766590c1b04e03b68c1b59b859] In the case of a licensing appeal made under the Society’s licensing rules, if no time limit for the making of an appeal is prescribed under those rules, the notice of appeal must be sent or delivered so that it is received by the Tribunal no later than the date on which expires the period of 28 days beginning with the date on which the appellant was notified in writing of the decision which is the subject of the appeal.
+(4A)[^c-447047766590c1b04e03b68c1b59b859] In the case of a licensing appeal made under the Society’s licensing rules, if no time limit for the making of an appeal is prescribed under those rules, the notice of appeal must be sent or delivered so that it is received by the Tribunal no later than the date on which expires the period of 28 days beginning with the date on which the appellant was notified in writing of the decision which is the subject of the appeal.
 
 (5) The appellant must send or deliver with the notice of appeal a copy of any written record of the decision in respect of which the appeal is made, and any statement of reasons for that decision that the appellant has or can reasonably obtain.
 
@@ -147,7 +147,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (7) The appellant must send or deliver a copy of the notice of appeal and any accompanying documents to the respondent at the same time as the appellant sends or delivers the notice of appeal to the Tribunal.
 
-### 7. Response to notice of appeal[^key-64a184f4e791744e0613482d3e9a2b9b]
+### 7. Response to notice of appeal[^c-64a184f4e791744e0613482d3e9a2b9b]
 
 (1) The respondent must send or deliver to the Tribunal a response to the notice of appeal so that it is received no later than the date on which expires the period of 28 days beginning with the date on which the respondent received the notice of appeal.
 
@@ -172,7 +172,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (7) The respondent must send or deliver a copy of the response and any accompanying documents to the appellant at the same time as it sends or delivers the response to the Tribunal.
 
-### 8. Appellant’s reply[^key-5d9db6ea83d5c0a49244b34b8486d1cb]
+### 8. Appellant’s reply[^c-5d9db6ea83d5c0a49244b34b8486d1cb]
 
 (1) The appellant may send or deliver to the Tribunal—
 
@@ -194,7 +194,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 - (a) send or deliver to the respondent or Tribunal a copy of any document specified in the list (and in the case of the Tribunal, any additional copies of the document requested by the Tribunal, up to a maximum of four in number); or
 - (b) make such document available to the respondent or Tribunal to read or copy.
 
-### 9. Directions and case management[^key-8e6c12650dac92861916a220d4370fe9]
+### 9. Directions and case management[^c-8e6c12650dac92861916a220d4370fe9]
 
 (1) The Tribunal may give a direction in relation to the conduct or disposal of appeal proceedings at any time, including a direction amending, suspending or setting aside an earlier direction.
 
@@ -202,7 +202,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 - (a) extend or shorten the time for complying with any rule, practice direction or direction, unless such extension or shortening would conflict with a provision of another enactment (or of any rule made under another enactment) containing a time limit;
 - (b) consolidate or hear together two or more sets of proceedings or parts of proceedings raising common issues, or treat a case as a lead case (whether under rule 15 or otherwise);
-- (ba)[^key-86ff407aa3d82530ff53ef2707b3b25b] hear any application for an Order for a Stay;
+- (ba)[^c-86ff407aa3d82530ff53ef2707b3b25b] hear any application for an Order for a Stay;
 - (c) permit or require a party to amend a document;
 - (d) permit or require a party or another person to provide documents, information or submissions which are relevant to the proceedings to the Tribunal or a party;
 - (e) deal with an issue in the proceedings as a preliminary issue;
@@ -226,13 +226,13 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (5) Any hearing under this rule shall be held in public unless rules 23(2) or (3) applies.
 
-### 10. Practice directions[^key-4bd555e79f8df9c50d06aa2a0378719e]
+### 10. Practice directions[^c-4bd555e79f8df9c50d06aa2a0378719e]
 
 (1) The Tribunal(or a panel of Tribunal members consisting of not less than 5 members of whom no fewer than 2 shall be lay members) may give such notices or make such directions concerning the practices or procedures of the Tribunal as are consistent with these Rules and as shall seem appropriate.
 
 (2) The Tribunal shall promulgate notices or directions given or made under paragraph (1) under the authority of the President.
 
-### 11. Failure to comply with rules, practice directions or tribunal directions[^key-aa8c8787b49c44449b3647d4197a64be]
+### 11. Failure to comply with rules, practice directions or tribunal directions[^c-aa8c8787b49c44449b3647d4197a64be]
 
 (1) An irregularity resulting from a failure to comply with any provision of these Rules, a practice direction or a direction given under these Rules does not of itself render void the appeal or any step taken in the appeal.
 
@@ -245,7 +245,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (3) The Tribunal may not bar or restrict a party’s participation in the appeal under paragraph (2)(d) without first giving the party an opportunity to make representations in relation to the proposed action.
 
-### 12. Striking out a party’s case[^key-ff5a40d6dd475f9316178a94eda14e5e]
+### 12. Striking out a party’s case[^c-ff5a40d6dd475f9316178a94eda14e5e]
 
 (1) The Tribunal must strike out the whole or a part of an appeal if the Tribunal does not have jurisdiction in relation to the appeal or that part of it.
 
@@ -266,7 +266,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 - (a) a reference to the striking out of the whole or a part of the appeal is to be read as a reference to the striking out of the whole or a part of the response to the appeal; and
 - (b) a reference to an application for the reinstatement of an appeal which has been struck out is to be read as a reference to an application for the reinstatement of a response to an appeal which has been struck out.
 
-### 13. Addition, substitution and removal of parties[^key-a5464016739c7c4a948b21e3e62e3365]
+### 13. Addition, substitution and removal of parties[^c-a5464016739c7c4a948b21e3e62e3365]
 
 (1) The Tribunal may give a direction adding, substituting or removing a party as an appellant or a respondent.
 
@@ -276,7 +276,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (4) If a person who is entitled to be a party to an appeal by virtue of another enactment applies to be added as a party, and any conditions applicable to that entitlement have been satisfied, the Tribunal must give a direction adding that person as a respondent or, if appropriate, as an appellant.
 
-### 14. Prevention of disclosure or publication of documents and information[^key-ba12b4fbf18e30e9a7a4de28e8727b85]
+### 14. Prevention of disclosure or publication of documents and information[^c-ba12b4fbf18e30e9a7a4de28e8727b85]
 
 (1) The Tribunal may make a decision prohibiting the disclosure or publication of—
 
@@ -308,7 +308,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (9) The Tribunal must conduct proceedings and record its decision and reasons appropriately so as not to undermine the effect of a decision made under paragraph (1) or a direction given under paragraph (2) or (6).
 
-### 15. Lead cases[^key-985efa8e90266d7d781d557c682a288b]
+### 15. Lead cases[^c-985efa8e90266d7d781d557c682a288b]
 
 (1) This rule applies if—
 
@@ -335,7 +335,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 - (a) whether another appeal or other appeals are to be specified as a lead case or lead cases; and
 - (b) whether any direction affecting the related appeals should be set aside or amended.
 
-### 16. Withdrawal[^key-34e9c378a46289a78390019407a4df98]
+### 16. Withdrawal[^c-34e9c378a46289a78390019407a4df98]
 
 (1) Subject to paragraph (2), an appellant may give notice of the withdrawal of its appeal, or any part of it, and the respondent may do likewise in respect of its case against the appeal—
 
@@ -353,19 +353,19 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (5) The Tribunal must notify each party in writing of a withdrawal under this rule.
 
-### 17. Consent orders[^key-29d45f21114c02069409c408b66359f5]
+### 17. Consent orders[^c-29d45f21114c02069409c408b66359f5]
 
 (1) The Tribunal may, at the request of the parties and only if it considers it appropriate, make a consent order disposing of the appeal proceedings and making such other appropriate provision as the parties have agreed.
 
 (2) Despite any other provision of these Rules, the Tribunal need not hold a hearing before making an order under paragraph (1), or provide reasons for the order.
 
-### 18. General powers of Tribunal[^key-27f0c18cd6d59a2e74e746680b957cc5]
+### 18. General powers of Tribunal[^c-27f0c18cd6d59a2e74e746680b957cc5]
 
 (1) Subject to the provisions of these Rules, the Tribunal may regulate its own procedure.
 
 (2) The Tribunal may dispense with any requirements of these Rules in respect of notices, statements or other documents, witnesses, service or time in any case where it appears to the Tribunal to be just so to do.
 
-### 19. Disclosure, evidence and submissions[^key-c0ab89182c49b22ba4ba74f811ea463e]
+### 19. Disclosure, evidence and submissions[^c-c0ab89182c49b22ba4ba74f811ea463e]
 
 (1) Without restriction on the general powers in rule 9 and 18, the Tribunal may give directions in relation to an appeal as to—
 
@@ -392,7 +392,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (3) The Tribunal may consent to a witness giving, or require any witness to give, evidence on oath, and may administer an oath for that purpose.
 
-### 20. Written evidence[^key-7416e358445b046bcfd36adcb1fda61a]
+### 20. Written evidence[^c-7416e358445b046bcfd36adcb1fda61a]
 
 (1) The Tribunal may in its discretion, in respect of a whole case or of any particular fact or facts, proceed and act upon evidence given by Statement.
 
@@ -406,7 +406,7 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (6) In this rule, “**Statement**” means a written statement (including a witness statement) containing a statement that the party putting forward or making the Statement believes the facts stated in the Statement are true.
 
-### 21. Decision with or without a hearing[^key-ed2c76a1e9cfa11a30cdb0ef24a29181]
+### 21. Decision with or without a hearing[^c-ed2c76a1e9cfa11a30cdb0ef24a29181]
 
 (1) The Tribunal must hold a hearing before making a decision which disposes of proceedings unless—
 
@@ -415,13 +415,13 @@ The chairman of each Panel shall be appointed by the Tribunal and (unless the Pr
 
 (2) Despite anything to the contrary in these Rules, if the Tribunal holds a hearing to consider a preliminary issue, and following the disposal of that preliminary issue no further issue remains to be determined, the Tribunal may dispose of the proceedings without holding any further hearing.
 
-### 22. Listing of appeal hearing[^key-f36240c34dc91add149c27dbe313778f]
+### 22. Listing of appeal hearing[^c-f36240c34dc91add149c27dbe313778f]
 
 (1) Unless the Tribunal has made directions in respect of the hearing of an appeal, a clerk shall appoint a date for the hearing by the Tribunal and shall give notice of the date to the parties.
 
 (2) The hearing shall not, unless all the parties have agreed or the Tribunal has so ordered, take place sooner than the date on which expires the period of 28 days beginning with the date of service of the notice appointing the date of the hearing.
 
-### 23. Public or private hearings[^key-91c250228455e9c229172b4554148e39]
+### 23. Public or private hearings[^c-91c250228455e9c229172b4554148e39]
 
 (1) Subject to paragraphs (2) and (3) every appeal hearing shall take place in public.
 
@@ -448,7 +448,7 @@ to a party, a witness or any person affected by the appeal.
 
 (6) The Tribunal may give a direction excluding a witness from a hearing until that witness gives evidence.
 
-### 24. Decisions[^key-3e429dc68f6a1c29422428fc9baa4e80]
+### 24. Decisions[^c-3e429dc68f6a1c29422428fc9baa4e80]
 
 (1) The Tribunal may announce a decision orally at a hearing of or relating to an appeal or may reserve its decision for announcement at a later date. In either case the announcement shall be made in public.
 
@@ -466,7 +466,7 @@ to a party, a witness or any person affected by the appeal.
 
 (6) Subject to rule 14(9), the Tribunal may publicise a decision in such manner as it thinks fit.
 
-### 25. Re-hearing where a party neither appears nor is represented[^key-191f2bf603137b2b3df1f34166967c54]
+### 25. Re-hearing where a party neither appears nor is represented[^c-191f2bf603137b2b3df1f34166967c54]
 
 (1) At any time before the date on which expires the period of 14 days beginning with the date on which an order was provided to the party under rule 24(2), a party may apply to the Tribunal for a re-hearing of an appeal if—
 
@@ -479,7 +479,7 @@ to a party, a witness or any person affected by the appeal.
 
 ## PART 4 — Miscellaneous
 
-### 26. Sending and delivery of documents[^key-214ab910fead7efc9dcccedebb31fcde]
+### 26. Sending and delivery of documents[^c-214ab910fead7efc9dcccedebb31fcde]
 
 (1) Any document to be sent or delivered to the Tribunal or to a party under these Rules, a practice direction or a direction given under these Rules must be—
 
@@ -497,15 +497,15 @@ to a party, a witness or any person affected by the appeal.
 
 (6) If a document submitted to the Tribunal is not written in English, it must be accompanied by an English translation.
 
-### 27. Calculating time[^key-7e7b4b9cbcbb1b726cb5827b87f36219]
+### 27. Calculating time[^c-7e7b4b9cbcbb1b726cb5827b87f36219]
 
-(1) An act required by these Rules, a practice direction or a direction given under these Rules to be done on or by a particular day must be done by 4.30p.m.[^key-87de2d54af5fd6a0be8d1690cc921d72] on that day.
+(1) An act required by these Rules, a practice direction or a direction given under these Rules to be done on or by a particular day must be done by 4.30p.m.[^c-87de2d54af5fd6a0be8d1690cc921d72] on that day.
 
 (2) If the time specified by these Rules, a practice direction or a direction given under these Rules for doing any act ends on a day other than a working day, the act is done in time if it is done on the next working day.
 
 (3) In this rule “**working day**” means any day except a Saturday or Sunday, Christmas Day, Good Friday or a bank holiday under section 1 of the Banking and Financial Dealings Act 1971[^f00006].
 
-### 28. Representatives[^key-37a5fd90bde1b82e69008b62ba13726f]
+### 28. Representatives[^c-37a5fd90bde1b82e69008b62ba13726f]
 
 (1) A party may appoint a representative (whether a legal representative or not) to represent that party in the proceedings.
 
@@ -526,7 +526,7 @@ to a party, a witness or any person affected by the appeal.
 
 (8) In this rule “**legal representative**” means a person who, for the purposes of the 2007 Act, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meaning of that Act, an advocate or solicitor in Scotland or a barrister or solicitor in Northern Ireland.
 
-### 29. Costs[^key-b8bcf660adb542331d4c7d185055d92d]
+### 29. Costs[^c-b8bcf660adb542331d4c7d185055d92d]
 
 (1) The Tribunal may, at any stage of an appeal, make such order as to costs as the Tribunal shall think fit, including an order—
 
@@ -539,7 +539,7 @@ to a party, a witness or any person affected by the appeal.
 
 (4) The Tribunal may also make an order as to costs under this rule where any appeal is withdrawn or amended.
 
-### 30. Amendment of 2007 rules[^key-07727a7b24adb4a8949f3a939e91d8b0]
+### 30. Amendment of 2007 rules[^c-07727a7b24adb4a8949f3a939e91d8b0]
 
 (1) The 2007 rules are amended as follows.
 
@@ -555,7 +555,7 @@ Solicitors Disciplinary Tribunal
 
 22nd September 2011
 
-## SCHEDULE — FORMS[^key-944591991e17e80cc5a8123f88e3114f]
+## SCHEDULE — FORMS[^c-944591991e17e80cc5a8123f88e3114f]
 
 Rules 20(2) and 25(2)
 
@@ -575,96 +575,96 @@ The Rules make provision about the constitution of appeals panels, procedure and
 
 [^f00003]: Footnote: See the Legal Services Act 2007, section 178.
 
-[^key-687032b3b5a84515341b7102fdbb4e7b]: Commencement: Rule 1 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-687032b3b5a84515341b7102fdbb4e7b]: Commencement: Rule 1 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-b7947120dd10aa340cd37f9cae61db16]: Textual amendment: Word in rule 1(2)(a) omitted (23.12.2011) by virtue of [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/3/a)
+[^c-b7947120dd10aa340cd37f9cae61db16]: Textual amendment: Word in rule 1(2)(a) omitted (23.12.2011) by virtue of [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/3/a)
 
-[^key-0f4b43e3b738864d2e11d9bbc7d52d67]: Textual amendment: Rule 1(2)(c) and word inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/3/b)
+[^c-0f4b43e3b738864d2e11d9bbc7d52d67]: Textual amendment: Rule 1(2)(c) and word inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/3/b)
 
-[^key-a9157daa743826fd4c74574dd1b329e1]: Commencement: Rule 2 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-a9157daa743826fd4c74574dd1b329e1]: Commencement: Rule 2 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
 [^f00004]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-0bef0a2f22f38711b5b2cc6146c660fc]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2011/2346/rule/2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(a)(i)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/a/i) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+[^c-0bef0a2f22f38711b5b2cc6146c660fc]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2011/2346/rule/2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(a)(i)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/a/i) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
 
-[^key-59ff6af45cbfbbc6cdffdf5b7869aad1]: Textual amendment: Words in substituted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/a)
+[^c-59ff6af45cbfbbc6cdffdf5b7869aad1]: Textual amendment: Words in substituted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/a)
 
-[^key-93a6b84a177a7ed1ff4dd45fd1a307f9]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2011/2346/rule/2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/a/ii) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+[^c-93a6b84a177a7ed1ff4dd45fd1a307f9]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2011/2346/rule/2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/a/ii) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
 
-[^key-1c039782a4d332607cf8ca6d5307a0ce]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/b)
+[^c-1c039782a4d332607cf8ca6d5307a0ce]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/b)
 
-[^key-ea06f73efdcda244e2ece7967f784bc7]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/c)
+[^c-ea06f73efdcda244e2ece7967f784bc7]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/c)
 
-[^key-49f5c4c27836a9726dfed18ebeb06d5e]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/d)
+[^c-49f5c4c27836a9726dfed18ebeb06d5e]: Textual amendment: Words in rule 2 inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2011/3070/article/4/d)
 
-[^key-3589dde20609dd9dbff2afda0f447d7c]: Commencement: Rule 3 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-3589dde20609dd9dbff2afda0f447d7c]: Commencement: Rule 3 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-1bea4fa231855e942342b91f2f0825bf]: Commencement: Rule 4 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-1bea4fa231855e942342b91f2f0825bf]: Commencement: Rule 4 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-4c50f8bfb91f688b516df89b109bddc4]: Commencement: Rule 5 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-4c50f8bfb91f688b516df89b109bddc4]: Commencement: Rule 5 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-fba6831b56058d116e3110a3bda4c3b4]: Textual amendment: Words in rule 5(1) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(b)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/b) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+[^c-fba6831b56058d116e3110a3bda4c3b4]: Textual amendment: Words in rule 5(1) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(b)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/b) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
 
-[^key-09fe88d9af4e738473da007fb3bac271]: Textual amendment: Words in rule 5(2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(c)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/c) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+[^c-09fe88d9af4e738473da007fb3bac271]: Textual amendment: Words in rule 5(2) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(c)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/c) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
 
-[^key-f418c961e5c142521ca8270fd0ed235e]: Commencement: Rule 6 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-f418c961e5c142521ca8270fd0ed235e]: Commencement: Rule 6 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-0a3e90a5ff052641a03639093ac3c1c1]: Textual amendment: Rule 6(4)(ha) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/5/a)
+[^c-0a3e90a5ff052641a03639093ac3c1c1]: Textual amendment: Rule 6(4)(ha) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/3070/article/5/a)
 
-[^key-447047766590c1b04e03b68c1b59b859]: Textual amendment: Rule 6(4A) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/5/b)
+[^c-447047766590c1b04e03b68c1b59b859]: Textual amendment: Rule 6(4A) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/3070/article/5/b)
 
-[^key-64a184f4e791744e0613482d3e9a2b9b]: Commencement: Rule 7 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-64a184f4e791744e0613482d3e9a2b9b]: Commencement: Rule 7 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-5d9db6ea83d5c0a49244b34b8486d1cb]: Commencement: Rule 8 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-5d9db6ea83d5c0a49244b34b8486d1cb]: Commencement: Rule 8 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-8e6c12650dac92861916a220d4370fe9]: Commencement: Rule 9 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-8e6c12650dac92861916a220d4370fe9]: Commencement: Rule 9 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-86ff407aa3d82530ff53ef2707b3b25b]: Textual amendment: Rule 9(2)(ba) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3070/article/6)
+[^c-86ff407aa3d82530ff53ef2707b3b25b]: Textual amendment: Rule 9(2)(ba) inserted (23.12.2011) by [The Solicitors Disciplinary Tribunal (Appeals) (Amendment) Rules 2011 (S.I. 2011/3070)](https://www.legislation.gov.uk/uksi/2011/3070), [rules 1](https://www.legislation.gov.uk/uksi/2011/3070/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3070/article/6)
 
-[^key-4bd555e79f8df9c50d06aa2a0378719e]: Commencement: Rule 10 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-4bd555e79f8df9c50d06aa2a0378719e]: Commencement: Rule 10 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-aa8c8787b49c44449b3647d4197a64be]: Commencement: Rule 11 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-aa8c8787b49c44449b3647d4197a64be]: Commencement: Rule 11 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-ff5a40d6dd475f9316178a94eda14e5e]: Commencement: Rule 12 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-ff5a40d6dd475f9316178a94eda14e5e]: Commencement: Rule 12 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-a5464016739c7c4a948b21e3e62e3365]: Commencement: Rule 13 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-a5464016739c7c4a948b21e3e62e3365]: Commencement: Rule 13 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-ba12b4fbf18e30e9a7a4de28e8727b85]: Commencement: Rule 14 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-ba12b4fbf18e30e9a7a4de28e8727b85]: Commencement: Rule 14 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-985efa8e90266d7d781d557c682a288b]: Commencement: Rule 15 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-985efa8e90266d7d781d557c682a288b]: Commencement: Rule 15 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-34e9c378a46289a78390019407a4df98]: Commencement: Rule 16 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-34e9c378a46289a78390019407a4df98]: Commencement: Rule 16 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-29d45f21114c02069409c408b66359f5]: Commencement: Rule 17 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-29d45f21114c02069409c408b66359f5]: Commencement: Rule 17 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-27f0c18cd6d59a2e74e746680b957cc5]: Commencement: Rule 18 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-27f0c18cd6d59a2e74e746680b957cc5]: Commencement: Rule 18 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-c0ab89182c49b22ba4ba74f811ea463e]: Commencement: Rule 19 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-c0ab89182c49b22ba4ba74f811ea463e]: Commencement: Rule 19 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-7416e358445b046bcfd36adcb1fda61a]: Commencement: Rule 20 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-7416e358445b046bcfd36adcb1fda61a]: Commencement: Rule 20 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-ed2c76a1e9cfa11a30cdb0ef24a29181]: Commencement: Rule 21 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-ed2c76a1e9cfa11a30cdb0ef24a29181]: Commencement: Rule 21 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-f36240c34dc91add149c27dbe313778f]: Commencement: Rule 22 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-f36240c34dc91add149c27dbe313778f]: Commencement: Rule 22 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-91c250228455e9c229172b4554148e39]: Commencement: Rule 23 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-91c250228455e9c229172b4554148e39]: Commencement: Rule 23 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-3e429dc68f6a1c29422428fc9baa4e80]: Commencement: Rule 24 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-3e429dc68f6a1c29422428fc9baa4e80]: Commencement: Rule 24 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-191f2bf603137b2b3df1f34166967c54]: Commencement: Rule 25 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-191f2bf603137b2b3df1f34166967c54]: Commencement: Rule 25 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-214ab910fead7efc9dcccedebb31fcde]: Commencement: Rule 26 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-214ab910fead7efc9dcccedebb31fcde]: Commencement: Rule 26 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-7e7b4b9cbcbb1b726cb5827b87f36219]: Commencement: Rule 27 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-7e7b4b9cbcbb1b726cb5827b87f36219]: Commencement: Rule 27 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-87de2d54af5fd6a0be8d1690cc921d72]: Textual amendment: Word in [rule 27(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/27/1) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(d)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/d) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
+[^c-87de2d54af5fd6a0be8d1690cc921d72]: Textual amendment: Word in [rule 27(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/27/1) substituted (25.11.2019) by [The Solicitors (Disciplinary Proceedings) Rules 2019 (S.I. 2019/1185)](https://www.legislation.gov.uk/uksi/2019/1185), [rules 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1), [49(d)](https://www.legislation.gov.uk/uksi/2019/1185/rule/49/d) (with [rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51))
 
 [^f00006]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-37a5fd90bde1b82e69008b62ba13726f]: Commencement: Rule 28 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-37a5fd90bde1b82e69008b62ba13726f]: Commencement: Rule 28 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-b8bcf660adb542331d4c7d185055d92d]: Commencement: Rule 29 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-b8bcf660adb542331d4c7d185055d92d]: Commencement: Rule 29 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-07727a7b24adb4a8949f3a939e91d8b0]: Commencement: Rule 30 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-07727a7b24adb4a8949f3a939e91d8b0]: Commencement: Rule 30 in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
 
-[^key-944591991e17e80cc5a8123f88e3114f]: Commencement: Sch. in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)
+[^c-944591991e17e80cc5a8123f88e3114f]: Commencement: Sch. in force at 1.10.2011, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2011/2346/rule/1/1)

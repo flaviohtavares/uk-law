@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61ZB. Shortfall in contributions: people whose dead spouse had units of additional pension[^key-b46bd432517de097a908cfd720ed8a7a]
+## 61ZB. Shortfall in contributions: people whose dead spouse had units of additional pension[^c-b46bd432517de097a908cfd720ed8a7a]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b46bd432517de097a908cfd720ed8a7a]: Textual amendment: [Ss. 61ZA-61ZC](https://www.legislation.gov.uk/ukpga/1992/4/section/61ZA) inserted (12.10.2015) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2014/19/schedule/15/paragraph/9); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/3/b)
+[^c-b46bd432517de097a908cfd720ed8a7a]: Textual amendment: [Ss. 61ZA-61ZC](https://www.legislation.gov.uk/ukpga/1992/4/section/61ZA) inserted (12.10.2015) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1), [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2014/19/schedule/15/paragraph/9); [S.I. 2015/1475](https://www.legislation.gov.uk/uksi/2015/1475), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1475/article/3/b)

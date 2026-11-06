@@ -24,7 +24,7 @@ Articles 8, 28 and 41
 
 ### Apparatus of statutory undertakers etc. on land acquired
 
-**1.**[^key-62b411ca0522ad71f9d7354922de11b4] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) apply in relation to any land acquired or appropriated by the Council under this Order subject to the following provisions of this paragraph: and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-62b411ca0522ad71f9d7354922de11b4] (1) Sections 271 to 274 of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) apply in relation to any land acquired or appropriated by the Council under this Order subject to the following provisions of this paragraph: and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282, which provide for the payment of compensation) have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -46,7 +46,7 @@ is entitled to recover from the Council compensation in respect of expenditure r
 
 ### Apparatus of statutory undertakers etc. in stopped up streets
 
-**2.**[^key-b49f5daf6780cc14bf58b36467d7d8d4] (1) Where a street is stopped up under article 8 (stopping up of street) any statutory utility whose apparatus is under, in, upon, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-b49f5daf6780cc14bf58b36467d7d8d4] (1) Where a street is stopped up under article 8 (stopping up of street) any statutory utility whose apparatus is under, in, upon, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under article 8 any statutory utility whose apparatus is under, in, upon, over, along or across the street may, and if reasonably requested to do so by the Council must—
 
@@ -85,10 +85,10 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-62b411ca0522ad71f9d7354922de11b4]: Commencement: Sch. 8 para. 1 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-62b411ca0522ad71f9d7354922de11b4]: Commencement: Sch. 8 para. 1 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
 
 [^f00029]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00030]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-b49f5daf6780cc14bf58b36467d7d8d4]: Commencement: Sch. 8 para. 2 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-b49f5daf6780cc14bf58b36467d7d8d4]: Commencement: Sch. 8 para. 2 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

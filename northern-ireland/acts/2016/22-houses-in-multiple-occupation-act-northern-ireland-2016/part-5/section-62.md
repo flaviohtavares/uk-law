@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. HMO register[^key-4f8fc732bce7367624355ef96581ec5c]
+## 62. HMO register[^c-4f8fc732bce7367624355ef96581ec5c]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f8fc732bce7367624355ef96581ec5c]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2016/22/section/62) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-4f8fc732bce7367624355ef96581ec5c]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2016/22/section/62) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 145. Enforcement of conditions.[^c950160][^key-525ea2a5bf0d39daff4aa1bbfa7caff8]
+## 145. Enforcement of conditions.[^c950160][^c-525ea2a5bf0d39daff4aa1bbfa7caff8]
 
 *Extent: S*
 
@@ -58,9 +58,9 @@ the person responsible is in breach of the notice.
 - (a) that he took all reasonable measures to secure compliance with the conditions specified in the notice, or
 - (b) where the notice was served on him by virtue of subsection (2)(b), that he no longer had control of the land.
 
-(12) A person who is guilty of an offence under subsection (9) shall be liable on summary conviction to a fine not exceeding level 5[^key-056c014e2b82d9c79df5c18b9c96672f] on the standard scale.
+(12) A person who is guilty of an offence under subsection (9) shall be liable on summary conviction to a fine not exceeding level 5[^c-056c014e2b82d9c79df5c18b9c96672f] on the standard scale.
 
-(12A)[^key-244dc7436a1366a4068ac314c743d68d] In determining the amount of the fine to be imposed under subsection (12), the court is in particular to have regard to any financial benefit which has accrued or appears likely to accrue to the convicted person in consequence of the activity which constituted the offence.
+(12A)[^c-244dc7436a1366a4068ac314c743d68d] In determining the amount of the fine to be imposed under subsection (12), the court is in particular to have regard to any financial benefit which has accrued or appears likely to accrue to the convicted person in consequence of the activity which constituted the offence.
 
 (13) In this section—
 
@@ -71,8 +71,8 @@ the person responsible is in breach of the notice.
 
 [^c950160]: Modification: S. 145: power to modify conferred (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 23(1)(c)](https://www.legislation.gov.uk/ukpga/1997/10/section/23/1/c), [31](https://www.legislation.gov.uk/ukpga/1997/10/section/31) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-525ea2a5bf0d39daff4aa1bbfa7caff8]: Modification: Ss. 123-149 functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-056c014e2b82d9c79df5c18b9c96672f]: Textual amendment: Words in s. 145(12) substituted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(7)(a)](https://www.legislation.gov.uk/asp/2019/13/section/42/7/a), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)
+[^c-056c014e2b82d9c79df5c18b9c96672f]: Textual amendment: Words in s. 145(12) substituted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(7)(a)](https://www.legislation.gov.uk/asp/2019/13/section/42/7/a), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)
 
-[^key-244dc7436a1366a4068ac314c743d68d]: Textual amendment: S. 145(12A) inserted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(7)(b)](https://www.legislation.gov.uk/asp/2019/13/section/42/7/b), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)
+[^c-244dc7436a1366a4068ac314c743d68d]: Textual amendment: S. 145(12A) inserted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 42(7)(b)](https://www.legislation.gov.uk/asp/2019/13/section/42/7/b), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [regs. 5-10](https://www.legislation.gov.uk/ssi/2019/377/regulation/5)) (as amended by [S.S.I. 2019/411](https://www.legislation.gov.uk/ssi/2019/411), regs. 1, 2)

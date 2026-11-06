@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Constable's power to remove child to place of safety[^key-c0f9867910b6762c4de2bc42a3d3260d]
+## 56. Constable's power to remove child to place of safety[^c-c0f9867910b6762c4de2bc42a3d3260d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0f9867910b6762c4de2bc42a3d3260d]: Commencement: S. 56 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-c0f9867910b6762c4de2bc42a3d3260d]: Commencement: S. 56 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

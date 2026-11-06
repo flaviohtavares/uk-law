@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.19. Requisite majorities (creditors)[^key-96eb9b67110eafd11a738b923e14d10c]
+## 1.19. Requisite majorities (creditors)[^c-96eb9b67110eafd11a738b923e14d10c]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ and in relation to the second of these two cases the chairman is entitled to rel
 
 (6) If the chairman uses a proxy contrary to Rule 1.15, his vote with that proxy does not count towards any majority under this Rule.
 
-(7)[^key-52b6d94deaddce8469fcfcd1adb3d62b] The chairman’s decision on any matter under this Rule is subject to appeal to the court by any creditor or member and paragraphs (5) to (7) of Rule 1.17A apply as regards such an appeal.
+(7)[^c-52b6d94deaddce8469fcfcd1adb3d62b] The chairman’s decision on any matter under this Rule is subject to appeal to the court by any creditor or member and paragraphs (5) to (7) of Rule 1.17A apply as regards such an appeal.
 
 ## Annotations
 
-[^key-96eb9b67110eafd11a738b923e14d10c]: Commencement: Rule 1.19 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-96eb9b67110eafd11a738b923e14d10c]: Commencement: Rule 1.19 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-52b6d94deaddce8469fcfcd1adb3d62b]: Textual amendment: Rule 1.19(7) substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/10) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-52b6d94deaddce8469fcfcd1adb3d62b]: Textual amendment: Rule 1.19(7) substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/10) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Temporary storage declarations: failure to make and withdrawal[^key-752c93f22da11cece8fe0a29489a9a82][^key-302606d159bff3b39c5b1dbf0584ce62][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 11. Temporary storage declarations: failure to make and withdrawal[^c-752c93f22da11cece8fe0a29489a9a82][^c-302606d159bff3b39c5b1dbf0584ce62][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-752c93f22da11cece8fe0a29489a9a82]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-752c93f22da11cece8fe0a29489a9a82]: Commencement: Reg. 11 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23521641]: Marginal citation: Section 5(1) provides that such goods are liable to forfeiture and by section 5(2), a liability to import duty is incurred at the time at which the goods become liable to forfeiture.

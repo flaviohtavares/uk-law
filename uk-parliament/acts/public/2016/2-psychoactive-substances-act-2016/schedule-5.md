@@ -24,13 +24,13 @@ Section 60
 
 ### Intoxicating Substances (Supply) Act 1985
 
-**1.**[^key-a985c20dba98d6b1fd436de7ada61fa3] (1) The Intoxicating Substances (Supply) Act 1985 is repealed.
+**1.**[^c-a985c20dba98d6b1fd436de7ada61fa3] (1) The Intoxicating Substances (Supply) Act 1985 is repealed.
 
 (2) In consequence of the repeal made by sub-paragraph (1), in Schedules 3 and 6 to the Regulatory Enforcement and Sanctions Act 2008, omit the entry relating to the Intoxicating Substances (Supply) Act 1985.
 
 ### Proceeds of Crime Act 2002
 
-**2.**[^key-7ac143e1f22a01345992a2100de9f693] (1) The Proceeds of Crime Act 2002 is amended as follows.
+**2.**[^c-7ac143e1f22a01345992a2100de9f693] (1) The Proceeds of Crime Act 2002 is amended as follows.
 
 (2) In Schedule 2 (lifestyle offences: England and Wales), after paragraph 1 insert—
 
@@ -61,11 +61,11 @@ Section 60
 
 ### Police Reform Act 2002
 
-**3.**[^key-f12a86b46cff523a131ea0bb833b8e54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f12a86b46cff523a131ea0bb833b8e54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police (Northern Ireland) Act 2003
 
-**4.**[^key-5f84290547b1ffc7d3f970d8bffa8c41] In Schedule 2A to the Police (Northern Ireland) Act 2003 (powers and duties of community support officer), after paragraph 9 insert—
+**4.**[^c-5f84290547b1ffc7d3f970d8bffa8c41] In Schedule 2A to the Police (Northern Ireland) Act 2003 (powers and duties of community support officer), after paragraph 9 insert—
 
 > **Powers to seize and retain: psychoactive substances**
 >
@@ -100,7 +100,7 @@ Section 60
 
 ### Licensing Act 2003
 
-**5.**[^key-190a1a5b30daeff0d7956ef5b83ec94a] (1) The Licensing Act 2003 is amended as follows.
+**5.**[^c-190a1a5b30daeff0d7956ef5b83ec94a] (1) The Licensing Act 2003 is amended as follows.
 
 (2) In section 97 (power to enter and search club premises), in subsection (1), omit the “or” after paragraph (a) and after that paragraph insert—
 
@@ -119,7 +119,7 @@ Section 60
 
 ### Gambling Act 2005
 
-**6.**[^key-c6466784d971b519fa95373d8698df39] In Part 1 of Schedule 7 to the Gambling Act 2005 (relevant offences), after paragraph 11 insert—
+**6.**[^c-c6466784d971b519fa95373d8698df39] In Part 1 of Schedule 7 to the Gambling Act 2005 (relevant offences), after paragraph 11 insert—
 
 > **11A.** An offence under any of the following provisions of the Psychoactive Substances Act 2016—
 >
@@ -130,7 +130,7 @@ Section 60
 
 ### Armed Forces Act 2006
 
-**7.**[^key-749479e7fab880122029cb6205ca3f14] (1) The Armed Forces Act 2006 is amended as follows.
+**7.**[^c-749479e7fab880122029cb6205ca3f14] (1) The Armed Forces Act 2006 is amended as follows.
 
 (2) In section 75 (power of service policeman to stop and search persons, vehicles etc)—
 
@@ -159,7 +159,7 @@ Section 60
 
 ### Serious Crime Act 2007
 
-**8.**[^key-7fe255cbd65872f72a54667b1111cdb1] (1) Schedule 1 to the Serious Crime Act 2007 (serious offences) is amended as follows.
+**8.**[^c-7fe255cbd65872f72a54667b1111cdb1] (1) Schedule 1 to the Serious Crime Act 2007 (serious offences) is amended as follows.
 
 (2) In Part 1 (serious offences in England and Wales), after paragraph 1 insert—
 
@@ -190,11 +190,11 @@ Section 60
 
 ### Regulatory Enforcement and Sanctions Act 2008
 
-**9.**[^key-d4ca2bc29cc8d852eca1f63328151777] In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 (enactments specified for the purposes of Part 1 of that Act), at the appropriate place insert— “ Psychoactive Substances Act 2016 ”.
+**9.**[^c-d4ca2bc29cc8d852eca1f63328151777] In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008 (enactments specified for the purposes of Part 1 of that Act), at the appropriate place insert— “ Psychoactive Substances Act 2016 ”.
 
 ### Policing and Crime Act 2009
 
-**10.**[^key-9cd90613b658fcb662e9d588bfde8c08] In section 34 of the Policing and Crime Act 2009 (injunctions to prevent gang-related violence and drug-dealing activity), for subsection (7) substitute—
+**10.**[^c-9cd90613b658fcb662e9d588bfde8c08] In section 34 of the Policing and Crime Act 2009 (injunctions to prevent gang-related violence and drug-dealing activity), for subsection (7) substitute—
 
 > (7) In this Part “**drug-dealing activity**” means—
 >
@@ -208,22 +208,22 @@ Section 60
 
 ## Annotations
 
-[^key-a985c20dba98d6b1fd436de7ada61fa3]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/1) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-a985c20dba98d6b1fd436de7ada61fa3]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/1) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-7ac143e1f22a01345992a2100de9f693]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/2) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-7ac143e1f22a01345992a2100de9f693]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/2) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-f12a86b46cff523a131ea0bb833b8e54]: Textual amendment: Sch. 5 para. 3 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 31(e)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/31/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
+[^c-f12a86b46cff523a131ea0bb833b8e54]: Textual amendment: Sch. 5 para. 3 omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 31(e)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/31/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), reg. 2)
 
-[^key-5f84290547b1ffc7d3f970d8bffa8c41]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/4) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-5f84290547b1ffc7d3f970d8bffa8c41]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/4) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-190a1a5b30daeff0d7956ef5b83ec94a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/5) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-190a1a5b30daeff0d7956ef5b83ec94a]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/5) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-c6466784d971b519fa95373d8698df39]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/6) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-c6466784d971b519fa95373d8698df39]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/6) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-749479e7fab880122029cb6205ca3f14]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/7) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-749479e7fab880122029cb6205ca3f14]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/7) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-7fe255cbd65872f72a54667b1111cdb1]: Commencement: Sch. 5 para. 8 in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-7fe255cbd65872f72a54667b1111cdb1]: Commencement: Sch. 5 para. 8 in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-d4ca2bc29cc8d852eca1f63328151777]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/9) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-d4ca2bc29cc8d852eca1f63328151777]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/9) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-9cd90613b658fcb662e9d588bfde8c08]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/10) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-9cd90613b658fcb662e9d588bfde8c08]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2016/2/schedule/5/paragraph/10) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

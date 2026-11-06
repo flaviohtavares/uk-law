@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Meaning of a new contract[^key-4a9c73917ed36d5a0b1fadd929505425]
+## 7A. Meaning of a new contract[^c-4a9c73917ed36d5a0b1fadd929505425]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a9c73917ed36d5a0b1fadd929505425]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/7A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/420/regulation/8)
+[^c-4a9c73917ed36d5a0b1fadd929505425]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/7A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2024/420/regulation/8)

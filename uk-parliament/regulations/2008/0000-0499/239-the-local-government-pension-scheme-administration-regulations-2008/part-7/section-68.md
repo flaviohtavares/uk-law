@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Annual benefit statements[^key-c812d2561a7db11cc678809733061713]
+## 68. Annual benefit statements[^c-c812d2561a7db11cc678809733061713]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c812d2561a7db11cc678809733061713]: Commencement: Reg. 68 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-c812d2561a7db11cc678809733061713]: Commencement: Reg. 68 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

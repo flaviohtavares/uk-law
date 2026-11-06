@@ -31,7 +31,7 @@ Church Property Measure 2018
 
 A Measure passed by the General Synod of the Church of England to consolidate with corrections and minor improvements the Parsonages Measure 1938, the New Parishes Measure 1943, the Parsonages (Amendment) Measure 1947, certain provisions of the Church Property (Miscellaneous Provisions) Measure 1960 and the Endowments and Glebe Measure 1976 and certain other provisions relating to Church property.
 
-\[20th December 2018\][^key-196ffed31dc71309846e8ea0c3045b82]
+\[20th December 2018\][^c-196ffed31dc71309846e8ea0c3045b82]
 
 ## Contents
 
@@ -156,4 +156,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-196ffed31dc71309846e8ea0c3045b82]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/2018/8) applied by 1920 c. 56, s. 1(1A) (as amended by) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/1); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-196ffed31dc71309846e8ea0c3045b82]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/2018/8) applied by 1920 c. 56, s. 1(1A) (as amended by) (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/1); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

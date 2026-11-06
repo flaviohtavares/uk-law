@@ -35,33 +35,33 @@ Parliamentary and other Pensions Act 1987
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Continuance of Fund.[^key-cf3226fcb79b47a73a10febc76cc3b55]
+## 1. Continuance of Fund.[^c-cf3226fcb79b47a73a10febc76cc3b55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Power to provide for pensions.[^c786501]
 
-(1)[^key-8be7636c9e6ec3e18ea9cab056566ea1][^c786502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8be7636c9e6ec3e18ea9cab056566ea1][^c786502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8be7636c9e6ec3e18ea9cab056566ea1][^c786502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8be7636c9e6ec3e18ea9cab056566ea1][^c786502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8be7636c9e6ec3e18ea9cab056566ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Schedule 2 to this Act shall have effect for the purpose of treating the enactments and subordinate legislation which relate to the Fund and the payment of pensions out of the Fund and which are in force immediately before the coming into force of this section as if they were contained in regulations made under this section.
 
-(10)[^key-842db9f2d2951c49be7c23910dcae973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-842db9f2d2951c49be7c23910dcae973] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exchequer contributions to Fund.[^key-ae4afbf5798ed6a713f0bc77b3625e4a][^c786508]
+## 3. Exchequer contributions to Fund.[^c-ae4afbf5798ed6a713f0bc77b3625e4a][^c786508]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,7 +86,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) For the purposes of this Act a person shall be treated as a Member of the House of Commons at any time if, at that time, a salary is or was payable to him under
 
-- (a)[^key-c6e2a6e78bdcec951b4ceaeba99a1f43] section 4 of the Parliamentary Standards Act 2009, or
+- (a)[^c-c6e2a6e78bdcec951b4ceaeba99a1f43] section 4 of the Parliamentary Standards Act 2009, or
 - (b) in relation to a time before that section was in force, the resolutions of the House of Commons then in force relating to the remuneration of its members.
 
 ## 6. Minor and consequential modifications, savings and repeals.
@@ -105,37 +105,37 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 SCHEDULES
 
-## SCHEDULE 1 — Provisions that may be Included in Regulations[^key-97cca452b24e3f292ef53f6dc1d0a4ae]
+## SCHEDULE 1 — Provisions that may be Included in Regulations[^c-97cca452b24e3f292ef53f6dc1d0a4ae]
 
 **No longer in force.**
 
 Section 2.
 
-**1.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-97cca452b24e3f292ef53f6dc1d0a4ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Existing Enactments etc. Continued in Force
 
@@ -238,7 +238,7 @@ shall be treated as employment within the meaning of the said Act of 1948, wheth
 
 ### Parliamentary and other Pensions Act 1972[^c786532]
 
-**4.**[^key-e94469bddf3ce18e69e2f4f6e0ae4bde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e94469bddf3ce18e69e2f4f6e0ae4bde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c786533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -276,19 +276,19 @@ Section 6.
 
 [^c786496]: Commencement: Act not in force at Royal Assent see [s. 7(2)](https://www.legislation.gov.uk/ukpga/1987/45/section/7/2); Act wholly in force at 24 May 1989
 
-[^key-cf3226fcb79b47a73a10febc76cc3b55]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1987/45/section/1) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/a) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
+[^c-cf3226fcb79b47a73a10febc76cc3b55]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1987/45/section/1) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/a) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
 
 [^c786501]: Modification: S. 2 restricted by Ministerial and other [Pensions and Salaries Act 1991 (c. 5, SIF 89)](https://www.legislation.gov.uk/ukpga/1991/5), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1991/5/section/2/2)
 
     S. 2: transfer of functions (1.4.1995) by [S.I. 1995/269](https://www.legislation.gov.uk/uksi/1995/269), [art. 3](https://www.legislation.gov.uk/uksi/1995/269/article/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/15)
 
-[^key-8be7636c9e6ec3e18ea9cab056566ea1]: Textual amendment: [S. 2(1)-(8)](https://www.legislation.gov.uk/ukpga/1987/45/section/2/1) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/b) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
+[^c-8be7636c9e6ec3e18ea9cab056566ea1]: Textual amendment: [S. 2(1)-(8)](https://www.legislation.gov.uk/ukpga/1987/45/section/2/1) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/b) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
 
 [^c786502]: Subordinate legislation: S. 2(1)(4) power exercised by [S.I.1991/609](https://www.legislation.gov.uk/uksi/1991/609).
 
-[^key-842db9f2d2951c49be7c23910dcae973]: Textual amendment: [S. 2(10)](https://www.legislation.gov.uk/ukpga/1987/45/section/2/10) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/b) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
+[^c-842db9f2d2951c49be7c23910dcae973]: Textual amendment: [S. 2(10)](https://www.legislation.gov.uk/ukpga/1987/45/section/2/10) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/b) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
 
-[^key-ae4afbf5798ed6a713f0bc77b3625e4a]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1987/45/section/3) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/c) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
+[^c-ae4afbf5798ed6a713f0bc77b3625e4a]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1987/45/section/3) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/c) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
 
 [^c786508]: Modification: S. 3: transfer of functions conferred (1.4.1995) by [S.I. 1995/269](https://www.legislation.gov.uk/uksi/1995/269), [art. 3](https://www.legislation.gov.uk/uksi/1995/269/article/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1995/269/schedule/paragraph/15)
 
@@ -296,11 +296,11 @@ Section 6.
 
 [^c786511]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-c6e2a6e78bdcec951b4ceaeba99a1f43]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1987/45/section/5/2) substituted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/9); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+[^c-c6e2a6e78bdcec951b4ceaeba99a1f43]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1987/45/section/5/2) substituted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/9); [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
 
 [^c786512]: Modification: Power of appointment conferred by s. 7(2) fully exercised: [S.I. 1987/1311](https://www.legislation.gov.uk/uksi/1987/1311), 1989/892
 
-[^key-97cca452b24e3f292ef53f6dc1d0a4ae]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1987/45/schedule/1) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(d)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/d) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
+[^c-97cca452b24e3f292ef53f6dc1d0a4ae]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1987/45/schedule/1) omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 43(d)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43/d) (with [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/44)); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
 
 [^c786513]: Marginal citation: [1972 c. 48](https://www.legislation.gov.uk/ukpga/1972/48).
 
@@ -342,7 +342,7 @@ Section 6.
 
 [^c786532]: Marginal citation: [1972 c. 48](https://www.legislation.gov.uk/ukpga/1972/48).
 
-[^key-e94469bddf3ce18e69e2f4f6e0ae4bde]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1987/45/schedule/3/paragraph/4) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-e94469bddf3ce18e69e2f4f6e0ae4bde]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1987/45/schedule/3/paragraph/4) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c786533]: Textual amendment: [Sch.3 paras. 2](https://www.legislation.gov.uk/ukpga/1987/45/schedule/3/paragraph/2), [5](https://www.legislation.gov.uk/ukpga/1987/45/schedule/3/paragraph/5) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 30 para. 6(1)](https://www.legislation.gov.uk/ukpga/1988/1/schedule/30/paragraph/6/1), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 

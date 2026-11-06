@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Capital receipts of debt-free authorities[^key-17e63ab4fa96a8e7c9299d3e8afe5ac6]
+## 65. Capital receipts of debt-free authorities[^c-17e63ab4fa96a8e7c9299d3e8afe5ac6]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-17e63ab4fa96a8e7c9299d3e8afe5ac6]: Commencement: Reg. 65 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-17e63ab4fa96a8e7c9299d3e8afe5ac6]: Commencement: Reg. 65 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00054]: Footnote: [1924 c. xxxvii](https://www.legislation.gov.uk/ukla/1924/37). Section 5 was repealed by section 40(1) of the [City of London (Various Powers) Act 1960 (c. xxxvi)](https://www.legislation.gov.uk/ukla/1960/36).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Termination[^key-44885323c67e4705601318dbd62f2d43]
+## 71. Termination[^c-44885323c67e4705601318dbd62f2d43]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ regulation 65 applies as respects the elections he must or may make for the use 
 
 ## Annotations
 
-[^key-44885323c67e4705601318dbd62f2d43]: Commencement: Reg. 71 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-44885323c67e4705601318dbd62f2d43]: Commencement: Reg. 71 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -24,7 +24,7 @@ Section 3
 
 ### Membership
 
-**1.**[^key-7b3cb426768021a4eb4477f5cb7e73c7] (1) The Office is to consist of—
+**1.**[^c-7b3cb426768021a4eb4477f5cb7e73c7] (1) The Office is to consist of—
 
 - (a) a member to chair it, appointed by the Chancellor of the Exchequer with the consent of the Treasury Committee of the House of Commons,
 - (b) 2 other members appointed by the Chancellor of the Exchequer after consultation with the member appointed under paragraph (a) and with the consent of that Committee, and
@@ -36,7 +36,7 @@ Section 3
 
 ### Period of appointment and re-appointment
 
-**2.**[^key-2384035571a0caaacaf5516129cdfff1] (1) An appointment under paragraph 1(1)(a) or (b) is to be for a period of 5 years (but see paragraph 3(5)).
+**2.**[^c-2384035571a0caaacaf5516129cdfff1] (1) An appointment under paragraph 1(1)(a) or (b) is to be for a period of 5 years (but see paragraph 3(5)).
 
 (2) An appointment under paragraph 1(1)(c) is to be for a period of no more than 5 years.
 
@@ -44,7 +44,7 @@ Section 3
 
 ### Appointment of initial members
 
-**3.**[^key-47bbcd537feee942415c862cc865bdb7] (1) The consent of the Treasury Committee of the House of Commons is not required for the appointment under paragraph 1(1)(a) of a person who—
+**3.**[^c-47bbcd537feee942415c862cc865bdb7] (1) The consent of the Treasury Committee of the House of Commons is not required for the appointment under paragraph 1(1)(a) of a person who—
 
 - (a) immediately before the person's appointment, was chairing the non-statutory Office for Budget Responsibility, and
 - (b) was appointed to do so by the Chancellor of the Exchequer with the consent of that Committee.
@@ -64,7 +64,7 @@ Section 3
 
 ### Remuneration
 
-**4.**[^key-df8e21713b29de721ea9716ea5aab18c] (1) The Office may, with the approval of the Treasury—
+**4.**[^c-df8e21713b29de721ea9716ea5aab18c] (1) The Office may, with the approval of the Treasury—
 
 - (a) pay, or make provision for paying, to a member of the Office such remuneration as the Treasury may determine, and
 - (b) pay, or make provision for paying, to or in respect of a person who is or has been a member of the Office any such pension, allowances or gratuities as the Treasury may determine.
@@ -78,11 +78,11 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Other terms of appointment
 
-**5.**[^key-9cd153de6a4726e12e233a3f6ee0ad54] The Chancellor of the Exchequer may determine other terms of an appointment under paragraph 1.
+**5.**[^c-9cd153de6a4726e12e233a3f6ee0ad54] The Chancellor of the Exchequer may determine other terms of an appointment under paragraph 1.
 
 ### Termination of appointments
 
-**6.**[^key-659eeee55f3505a9e49154a99ad7f406] (1) A member of the Office may resign by giving written notice to the Chancellor of the Exchequer.
+**6.**[^c-659eeee55f3505a9e49154a99ad7f406] (1) A member of the Office may resign by giving written notice to the Chancellor of the Exchequer.
 
 (2) The Chancellor of the Exchequer may terminate the appointment of a member of the Office by giving the member written notice if—
 
@@ -97,7 +97,7 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Status of Office
 
-**7.**[^key-5595471964910c53e8ef3419515f3f00] (1) The functions of the Office are to be exercised on behalf of the Crown.
+**7.**[^c-5595471964910c53e8ef3419515f3f00] (1) The functions of the Office are to be exercised on behalf of the Crown.
 
 (2) For the purposes of any civil proceedings arising out of those functions—
 
@@ -108,7 +108,7 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Employees
 
-**8.**[^key-28be49e4e80be326736d8838d209b675] (1) The Office may employ staff.
+**8.**[^c-28be49e4e80be326736d8838d209b675] (1) The Office may employ staff.
 
 (2) Staff are to be employed on such terms as to remuneration and other matters as the Office may, with the approval of the Minister for the Civil Service, determine.
 
@@ -118,11 +118,11 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Committees
 
-**9.**[^key-eb49950874ca11cf93f7dd0803ad9124] (1) The members appointed under paragraph 1(1)(a) and (b) constitute a committee of the Office to be known as the Budget Responsibility Committee.
+**9.**[^c-eb49950874ca11cf93f7dd0803ad9124] (1) The members appointed under paragraph 1(1)(a) and (b) constitute a committee of the Office to be known as the Budget Responsibility Committee.
 
 (2) The members appointed under paragraph 1(1)(c) constitute a committee of the Office to be known as the Non-executive Committee.
 
-**10.**[^key-58901255487419b820823fb37a8e535b] (1) The Office may establish other committees.
+**10.**[^c-58901255487419b820823fb37a8e535b] (1) The Office may establish other committees.
 
 (2) A committee established by the Office may establish sub-committees.
 
@@ -132,7 +132,7 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Procedure
 
-**11.**[^key-eec57b043570de89474546e9ac0637c0] (1) The Office may determine—
+**11.**[^c-eec57b043570de89474546e9ac0637c0] (1) The Office may determine—
 
 - (a) its own procedure, and
 - (b) the procedure of any committee or sub-committee established under paragraph 10.
@@ -141,7 +141,7 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Delegation of functions
 
-**12.**[^key-13f9c0fff4b78ed667f9ea09a7c7be00] (1) The Office may delegate functions to—
+**12.**[^c-13f9c0fff4b78ed667f9ea09a7c7be00] (1) The Office may delegate functions to—
 
 - (a) any of its members,
 - (b) any member of its staff, or
@@ -157,11 +157,11 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Review by Non-executive Committee
 
-**13.**[^key-81eef152f5657559375b019cf06f98df] The Non-executive Committee must keep under review the way in which the Office's duty under section 4 is performed.
+**13.**[^c-81eef152f5657559375b019cf06f98df] The Non-executive Committee must keep under review the way in which the Office's duty under section 4 is performed.
 
 ### Documentary evidence
 
-**14.**[^key-e90175eeacfdbb102358faf67a473feb] (1) The application of the Office's seal is to be authenticated by the signature of—
+**14.**[^c-e90175eeacfdbb102358faf67a473feb] (1) The application of the Office's seal is to be authenticated by the signature of—
 
 - (a) a member of the Office, or
 - (b) any person authorised (whether generally or specifically) for the purpose by a member of the Office.
@@ -175,7 +175,7 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Annual report
 
-**15.**[^key-968adc71f83be63895d66d8ef8417391] (1) The Office must prepare a report of the performance of its functions in each financial year.
+**15.**[^c-968adc71f83be63895d66d8ef8417391] (1) The Office must prepare a report of the performance of its functions in each financial year.
 
 (2) The report must include, in particular, an assessment by the Non-executive Committee of the extent to which the Office's duty under section 4 has been performed in accordance with section 5(1) and (2).
 
@@ -194,7 +194,7 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### External review
 
-**16.**[^key-0d0403303f264b54086049bfba702b2e] (1) The Non-executive Committee must, at least once in every relevant 5-year period, appoint a person or body to review and report on such of the Office's reports as the Committee determines.
+**16.**[^c-0d0403303f264b54086049bfba702b2e] (1) The Non-executive Committee must, at least once in every relevant 5-year period, appoint a person or body to review and report on such of the Office's reports as the Committee determines.
 
 (2) In sub-paragraph (1) “**the Office's reports**” means the reports which—
 
@@ -223,13 +223,13 @@ the Office may make a payment to the person of such amount as the Treasury may d
 
 ### Finance
 
-**17.**[^key-a58e708ea142c031a3ce0068ac2c77b0] (1) The Treasury may make to the Office such payments out of money provided by Parliament as the Treasury considers appropriate for the purpose of enabling the Office to meet its expenses.
+**17.**[^c-a58e708ea142c031a3ce0068ac2c77b0] (1) The Treasury may make to the Office such payments out of money provided by Parliament as the Treasury considers appropriate for the purpose of enabling the Office to meet its expenses.
 
 (2) Payments are to be made at such times, and subject to any such conditions, as the Treasury considers appropriate.
 
 ### Accounts and audit
 
-**18.**[^key-6882395639eb1c08d83b363ab4a815a3] (1) The Office must—
+**18.**[^c-6882395639eb1c08d83b363ab4a815a3] (1) The Office must—
 
 - (a) keep proper accounts and proper records in relation to its accounts, and
 - (b) prepare in respect of each financial year a statement of accounts.
@@ -256,22 +256,22 @@ before the end of the month of June next following the financial year to which t
 
 (6) “**Financial year**” has the same meaning as in paragraph 15.
 
-**19.**[^key-e62a4df7d537c7cf0f3a85e2db7b3141] The Office must keep under review whether its internal financial controls secure the proper conduct of its financial affairs.
+**19.**[^c-e62a4df7d537c7cf0f3a85e2db7b3141] The Office must keep under review whether its internal financial controls secure the proper conduct of its financial affairs.
 
 ### Powers
 
-**20.**[^key-542bad20ceecb474e9ce0b78458d4058] The Office may do anything calculated to facilitate, or conducive or incidental to, the carrying out of any of its functions.
+**20.**[^c-542bad20ceecb474e9ce0b78458d4058] The Office may do anything calculated to facilitate, or conducive or incidental to, the carrying out of any of its functions.
 
 ### Validity
 
-**21.**[^key-f72d9649b9fbef1dbe592d22a2a252ad] The validity of anything done by the Office (or a committee or sub-committee of the Office) is not affected by—
+**21.**[^c-f72d9649b9fbef1dbe592d22a2a252ad] The validity of anything done by the Office (or a committee or sub-committee of the Office) is not affected by—
 
 - (a) a vacancy, or
 - (b) a defective appointment.
 
 ### Public records
 
-**22.**[^key-f7b48df7d8c64cd605f1a6ef9bc23a05] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3, insert at the appropriate place—
+**22.**[^c-f7b48df7d8c64cd605f1a6ef9bc23a05] In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 2 of the Table at the end of paragraph 3, insert at the appropriate place—
 
 > |  |
 > | --- |
@@ -279,31 +279,31 @@ before the end of the month of June next following the financial year to which t
 
 ### Parliamentary Commissioner
 
-**23.**[^key-9b84b5210fcd3da026f526435c5e7b74] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments and authorities subject to investigation), insert at the appropriate place— “ Office for Budget Responsibility. ”
+**23.**[^c-9b84b5210fcd3da026f526435c5e7b74] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments and authorities subject to investigation), insert at the appropriate place— “ Office for Budget Responsibility. ”
 
 ### Disqualification
 
-**24.**[^key-43e5d87af77662e8e03862c0751827f9] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), insert at the appropriate place— “ The Office for Budget Responsibility. ”
+**24.**[^c-43e5d87af77662e8e03862c0751827f9] In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), insert at the appropriate place— “ The Office for Budget Responsibility. ”
 
-**25.**[^key-f5f45b9e56b78810740d849b6eafd05f] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), insert at the appropriate place— “ The Office for Budget Responsibility. ”
+**25.**[^c-f5f45b9e56b78810740d849b6eafd05f] In Part 2 of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (bodies of which all members are disqualified), insert at the appropriate place— “ The Office for Budget Responsibility. ”
 
 ### Race relations
 
-**26.**[^key-818dae44c587b4791a4394714ba93aab] (1) In Part 2 of Schedule 1A to the Race Relations Act 1976 (bodies and persons subject to general statutory duty), under the heading “*Regulatory, audit and inspection*” insert at the appropriate place— “ The Office for Budget Responsibility. ”
+**26.**[^c-818dae44c587b4791a4394714ba93aab] (1) In Part 2 of Schedule 1A to the Race Relations Act 1976 (bodies and persons subject to general statutory duty), under the heading “*Regulatory, audit and inspection*” insert at the appropriate place— “ The Office for Budget Responsibility. ”
 
 (2) The amendment made by sub-paragraph (1) ceases to have effect when the repeal of that Act by Schedule 27 to the Equality Act 2010 has effect for all purposes.
 
 ### Freedom of information
 
-**27.**[^key-a04fd198c284ba034f056e826b4d1751] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which Act applies), insert at the appropriate place— “ The Office for Budget Responsibility. ”
+**27.**[^c-a04fd198c284ba034f056e826b4d1751] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which Act applies), insert at the appropriate place— “ The Office for Budget Responsibility. ”
 
 ### Equality
 
-**28.**[^key-442769e9a31f442f5a04a0d9414e5bd0] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “*Industry, business, finance etc.*” insert at the appropriate place— “ The Office for Budget Responsibility. ”
+**28.**[^c-442769e9a31f442f5a04a0d9414e5bd0] In Part 1 of Schedule 19 to the Equality Act 2010 (public authorities: general), under the heading “*Industry, business, finance etc.*” insert at the appropriate place— “ The Office for Budget Responsibility. ”
 
 ### References to Treasury Committee
 
-**29.**[^key-f37879ef629da90d7f475b5f213b2199] (1) Any reference in this Schedule to the Treasury Committee of the House of Commons—
+**29.**[^c-f37879ef629da90d7f475b5f213b2199] (1) Any reference in this Schedule to the Treasury Committee of the House of Commons—
 
 - (a) if the name of that Committee is changed, is to be treated as a reference to that Committee by its new name, and
 - (b) if the functions of that Committee (or substantially corresponding functions) become functions of a different Committee of the House of Commons, is to be treated as a reference to the Committee by which those functions are exercisable.
@@ -312,60 +312,60 @@ before the end of the month of June next following the financial year to which t
 
 ## Annotations
 
-[^key-7b3cb426768021a4eb4477f5cb7e73c7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/1) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-7b3cb426768021a4eb4477f5cb7e73c7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/1) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-2384035571a0caaacaf5516129cdfff1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/2) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-2384035571a0caaacaf5516129cdfff1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/2) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-47bbcd537feee942415c862cc865bdb7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/3) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-47bbcd537feee942415c862cc865bdb7]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/3) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-df8e21713b29de721ea9716ea5aab18c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/4) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-df8e21713b29de721ea9716ea5aab18c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/4) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-9cd153de6a4726e12e233a3f6ee0ad54]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/5) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-9cd153de6a4726e12e233a3f6ee0ad54]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/5) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-659eeee55f3505a9e49154a99ad7f406]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/6) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-659eeee55f3505a9e49154a99ad7f406]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/6) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-5595471964910c53e8ef3419515f3f00]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/7) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-5595471964910c53e8ef3419515f3f00]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/7) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-28be49e4e80be326736d8838d209b675]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/8) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-28be49e4e80be326736d8838d209b675]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/8) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-eb49950874ca11cf93f7dd0803ad9124]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/9) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-eb49950874ca11cf93f7dd0803ad9124]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/9) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-58901255487419b820823fb37a8e535b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/10) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-58901255487419b820823fb37a8e535b]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/10) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-eec57b043570de89474546e9ac0637c0]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/11) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-eec57b043570de89474546e9ac0637c0]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/11) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-13f9c0fff4b78ed667f9ea09a7c7be00]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/12) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-13f9c0fff4b78ed667f9ea09a7c7be00]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/12) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-81eef152f5657559375b019cf06f98df]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/13) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-81eef152f5657559375b019cf06f98df]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/13) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-e90175eeacfdbb102358faf67a473feb]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/14) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-e90175eeacfdbb102358faf67a473feb]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/14) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-968adc71f83be63895d66d8ef8417391]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/15) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-968adc71f83be63895d66d8ef8417391]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/15) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-0d0403303f264b54086049bfba702b2e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/16) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-0d0403303f264b54086049bfba702b2e]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/16) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-a58e708ea142c031a3ce0068ac2c77b0]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/17) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-a58e708ea142c031a3ce0068ac2c77b0]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/17) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-6882395639eb1c08d83b363ab4a815a3]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/18) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-6882395639eb1c08d83b363ab4a815a3]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/18) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-e62a4df7d537c7cf0f3a85e2db7b3141]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/19) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-e62a4df7d537c7cf0f3a85e2db7b3141]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/19) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-542bad20ceecb474e9ce0b78458d4058]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/20) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-542bad20ceecb474e9ce0b78458d4058]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/20) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-f72d9649b9fbef1dbe592d22a2a252ad]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/21) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-f72d9649b9fbef1dbe592d22a2a252ad]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/21) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-f7b48df7d8c64cd605f1a6ef9bc23a05]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/22) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-f7b48df7d8c64cd605f1a6ef9bc23a05]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/22) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-9b84b5210fcd3da026f526435c5e7b74]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/23) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-9b84b5210fcd3da026f526435c5e7b74]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/23) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-43e5d87af77662e8e03862c0751827f9]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/24) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-43e5d87af77662e8e03862c0751827f9]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/24) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-f5f45b9e56b78810740d849b6eafd05f]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/25) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-f5f45b9e56b78810740d849b6eafd05f]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/25) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-818dae44c587b4791a4394714ba93aab]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/26) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-818dae44c587b4791a4394714ba93aab]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/26) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-a04fd198c284ba034f056e826b4d1751]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/27) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-a04fd198c284ba034f056e826b4d1751]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/27) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-442769e9a31f442f5a04a0d9414e5bd0]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/28) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-442769e9a31f442f5a04a0d9414e5bd0]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/28) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
 
-[^key-f37879ef629da90d7f475b5f213b2199]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/29) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-f37879ef629da90d7f475b5f213b2199]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2011/4/schedule/1/paragraph/29) in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)

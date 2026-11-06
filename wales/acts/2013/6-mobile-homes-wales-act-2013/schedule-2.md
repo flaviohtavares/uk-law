@@ -26,7 +26,7 @@ summary: ''
 
 #### CHAPTER 1 — APPLICATION
 
-**1.**[^key-8f4efb9128ad63dffec30bf7ceaca7e9] (1) The implied terms set out in Chapter 2 apply to all agreements except an agreement which relates to a pitch on a local authority Gypsy and Traveller site.
+**1.**[^c-8f4efb9128ad63dffec30bf7ceaca7e9] (1) The implied terms set out in Chapter 2 apply to all agreements except an agreement which relates to a pitch on a local authority Gypsy and Traveller site.
 
 (2) The implied terms set out in Chapter 3 apply to an agreement which relates to a transit pitch on a local authority Gypsy and Traveller site.
 
@@ -42,9 +42,9 @@ summary: ''
 
 ##### Duration of agreement
 
-**2.**[^key-cbf859c6ad7ce634784576fad08b817a] Subject to paragraph 3, the right to station the mobile home on land forming part of the protected site subsists until the agreement is determined under paragraph 4, 5, 6 or 7.
+**2.**[^c-cbf859c6ad7ce634784576fad08b817a] Subject to paragraph 3, the right to station the mobile home on land forming part of the protected site subsists until the agreement is determined under paragraph 4, 5, 6 or 7.
 
-**3.**[^key-b9acec9bb44f66c2434a35a4bb81b50d] (1) If the owner's estate or interest is insufficient to enable the owner to grant the right for an indefinite period, the period for which the right subsists does not extend beyond the date when the owner's estate or interest determines.
+**3.**[^c-b9acec9bb44f66c2434a35a4bb81b50d] (1) If the owner's estate or interest is insufficient to enable the owner to grant the right for an indefinite period, the period for which the right subsists does not extend beyond the date when the owner's estate or interest determines.
 
 (2) If planning permission for the use of the protected site as a site for mobile homes has been granted in terms such that it will expire at the end of a specified period, the period for which the right subsists does not extend beyond the date when the planning permission expires.
 
@@ -52,19 +52,19 @@ summary: ''
 
 ##### Termination
 
-**4.**[^key-3829745a618a0cbc33b83efb4edc0f0f] The occupier is entitled to terminate the agreement by notice in writing given to the owner not less than 4 weeks before the date on which it is to take effect.
+**4.**[^c-3829745a618a0cbc33b83efb4edc0f0f] The occupier is entitled to terminate the agreement by notice in writing given to the owner not less than 4 weeks before the date on which it is to take effect.
 
-**5.**[^key-f58d66f35a0bf00a0e611bb6f3dafeb7] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
+**5.**[^c-f58d66f35a0bf00a0e611bb6f3dafeb7] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
 
 - (a) is satisfied that the occupier has breached a term of the agreement and, after service of a notice to remedy the breach, has not complied with the notice within a reasonable time, and
 - (b) considers it reasonable for the agreement to be terminated.
 
-**6.**[^key-32befcecfb397680e4ba0f6a89f5c221] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
+**6.**[^c-32befcecfb397680e4ba0f6a89f5c221] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
 
 - (a) is satisfied that the occupier is not occupying the mobile home as the occupier's only or main residence, and
 - (b) considers it reasonable for the agreement to be terminated.
 
-**7.**[^key-1dfd5e34ceb1d2c3107fe31ad7fa068d] (1) The owner is entitled to terminate the agreement immediately if—
+**7.**[^c-1dfd5e34ceb1d2c3107fe31ad7fa068d] (1) The owner is entitled to terminate the agreement immediately if—
 
 - (a) on the application of the owner, a tribunal has determined that, having regard to its condition, the mobile home is having a detrimental effect on the amenity of the site, and
 - (b) then, on the application of the owner, the appropriate judicial body, having regard to the tribunal's determination and to any other circumstances, considers it reasonable for the agreement to be terminated.
@@ -84,11 +84,11 @@ summary: ''
 
 ##### Recovery of overpayments by occupier
 
-**8.**[^key-53d251507a5fd3b9edd58ba404b5ca9c] Where the agreement is terminated as mentioned in paragraph 4, 5, 6 or 7, the occupier is entitled to recover from the owner so much of any payment made by the occupier in pursuance of the agreement as is attributable to a period beginning after the termination.
+**8.**[^c-53d251507a5fd3b9edd58ba404b5ca9c] Where the agreement is terminated as mentioned in paragraph 4, 5, 6 or 7, the occupier is entitled to recover from the owner so much of any payment made by the occupier in pursuance of the agreement as is attributable to a period beginning after the termination.
 
 ##### Sale of mobile home
 
-**9.**[^key-f46cf5f4f2b5068cf4c2b9840b75f38f][^key-d2cfdce4669a8098b3ab21d913656ef0] (1) Where the agreement is a new agreement, the occupier is entitled to sell the mobile home and to assign the agreement to the person to whom the mobile home is sold (the “new occupier”) without the approval of the owner.
+**9.**[^c-f46cf5f4f2b5068cf4c2b9840b75f38f][^c-d2cfdce4669a8098b3ab21d913656ef0] (1) Where the agreement is a new agreement, the occupier is entitled to sell the mobile home and to assign the agreement to the person to whom the mobile home is sold (the “new occupier”) without the approval of the owner.
 
 (2) In this paragraph and paragraphs 10, 12 and 13, “**new agreement**” means an agreement—
 
@@ -106,7 +106,7 @@ summary: ''
 - (a) the sale of the mobile home and assignment of the agreement, or
 - (b) the payment of commission by virtue of sub-paragraph (4).
 
-**10.**[^key-7a2fc55df2842c6fb3e2247d2f14d451][^key-298611052870c0dc5b7f0ab5298834f1] (1) Where the agreement is not a new agreement, the occupier is entitled to sell the mobile home and assign the agreement without the approval of the owner if—
+**10.**[^c-7a2fc55df2842c6fb3e2247d2f14d451][^c-298611052870c0dc5b7f0ab5298834f1] (1) Where the agreement is not a new agreement, the occupier is entitled to sell the mobile home and assign the agreement without the approval of the owner if—
 
 - (a) the occupier serves on the owner a notice (a “notice of proposed sale”) that the occupier proposes to sell the mobile home, and assign the agreement, to the person named in the notice (the “proposed occupier”), and
 - (b) the first or second condition is satisfied.
@@ -143,7 +143,7 @@ summary: ''
 - (a) the sale of the mobile home and assignment of the agreement, and
 - (b) the payment of commission by virtue of sub-paragraph (8).
 
-**11.**[^key-390b2add521524aca97687155d8d9103][^key-b1125fbcd882bafaee1522b960096afb] (1) This paragraph applies where the occupier proposes to sell the mobile home, and assign the agreement, pursuant to paragraph 9 or 10.
+**11.**[^c-390b2add521524aca97687155d8d9103][^c-b1125fbcd882bafaee1522b960096afb] (1) This paragraph applies where the occupier proposes to sell the mobile home, and assign the agreement, pursuant to paragraph 9 or 10.
 
 (2) The occupier must, not later than 28 days before the completion of the sale of the mobile home and assignment of the agreement, provide the proposed occupier with—
 
@@ -168,7 +168,7 @@ summary: ''
 
 ##### Gift of mobile home
 
-**12.**[^key-cd84dc08233d326f617258e74ed7c4b1][^key-0a8bf3f84244daeab8fde90297df99fe] (1) Where the agreement is a new agreement, provided that the occupier has supplied the owner with the relevant evidence, the occupier is entitled to give the mobile home, and to assign the agreement, to a member of the occupier's family (the “new occupier”) without the approval of the owner.
+**12.**[^c-cd84dc08233d326f617258e74ed7c4b1][^c-0a8bf3f84244daeab8fde90297df99fe] (1) Where the agreement is a new agreement, provided that the occupier has supplied the owner with the relevant evidence, the occupier is entitled to give the mobile home, and to assign the agreement, to a member of the occupier's family (the “new occupier”) without the approval of the owner.
 
 (2) The relevant evidence is—
 
@@ -181,7 +181,7 @@ summary: ''
 
 (5) The Welsh Ministers may by regulations prescribe procedural requirements to be complied with by the owner, the occupier or the new occupier in connection with the gift of the mobile home, and assignment of the agreement, as mentioned in sub-paragraph (1).
 
-**13.**[^key-5f0f8236e8fcb01730c13480c0b73077][^key-ab9748bba40284d59a708b9ee8315f28] (1) Where the agreement is not a new agreement, the occupier is entitled to give the mobile home, and assign the agreement, to a member of the occupier's family (the “proposed occupier”) without the approval of the owner if—
+**13.**[^c-5f0f8236e8fcb01730c13480c0b73077][^c-ab9748bba40284d59a708b9ee8315f28] (1) Where the agreement is not a new agreement, the occupier is entitled to give the mobile home, and assign the agreement, to a member of the occupier's family (the “proposed occupier”) without the approval of the owner if—
 
 - (a) the occupier serves on the owner a notice (a “notice of proposed gift”) that the occupier proposes to give the mobile home to the proposed occupier, and
 - (b) the first or second condition is satisfied.
@@ -218,7 +218,7 @@ summary: ''
 
 ##### Re-siting of mobile home
 
-**14.**[^key-3b3b85478136b7cdd5104af87fcb691e] (1) The owner is entitled to require that the occupier's right to station the mobile home is exercisable for any period in relation to another pitch forming part of the protected site (“the other pitch”) if—
+**14.**[^c-3b3b85478136b7cdd5104af87fcb691e] (1) The owner is entitled to require that the occupier's right to station the mobile home is exercisable for any period in relation to another pitch forming part of the protected site (“the other pitch”) if—
 
 - (a) on the application of the owner, a tribunal is satisfied that the other pitch is broadly comparable to the occupier's original pitch and that it is reasonable for the mobile home to be stationed on the other pitch for that period, or
 - (b) the owner needs to carry out essential repair or emergency works that can only be carried out if the mobile home is moved to the other pitch for that period, and either—
@@ -239,11 +239,11 @@ summary: ''
 
 ##### Quiet enjoyment of the mobile home
 
-**15.**[^key-52c6bffa089e56e6ee0e88c2e6960c23] The occupier is entitled to quiet enjoyment of the mobile home together with the pitch during the continuance of the agreement, subject to paragraphs 14 and 16.
+**15.**[^c-52c6bffa089e56e6ee0e88c2e6960c23] The occupier is entitled to quiet enjoyment of the mobile home together with the pitch during the continuance of the agreement, subject to paragraphs 14 and 16.
 
 ##### Owner's right of entry to the pitch
 
-**16.**[^key-6826fbbb86639860272866ebd1a91b3b] (1) The owner may enter the pitch without prior notice between the hours of 9 am and 6 pm—
+**16.**[^c-6826fbbb86639860272866ebd1a91b3b] (1) The owner may enter the pitch without prior notice between the hours of 9 am and 6 pm—
 
 - (a) to deliver written communications, including post and notices, to the occupier, and
 - (b) to read any meter for gas, electricity, water, sewerage or other services supplied by the owner.
@@ -256,7 +256,7 @@ summary: ''
 
 ##### The pitch fee
 
-**17.**[^key-38dc2cccbe6af5a772b95ac9daa2687e] (1) The pitch fee can only be changed in accordance with this paragraph, either—
+**17.**[^c-38dc2cccbe6af5a772b95ac9daa2687e] (1) The pitch fee can only be changed in accordance with this paragraph, either—
 
 - (a) with the agreement of the occupier, or
 - (b) if a tribunal, on the application of the owner or the occupier, considers it reasonable for the pitch fee to be changed and makes an order determining the amount of the new pitch fee.
@@ -311,7 +311,7 @@ summary: ''
 - (a) the amount which the occupier was required to pay the owner for the period in question, and
 - (b) the amount which the occupier has paid the owner for that period.
 
-**18.**[^key-ff55eabc0fc267c689a74c4280ea9451] (1) When determining the amount of the new pitch fee particular regard is to be had to—
+**18.**[^c-ff55eabc0fc267c689a74c4280ea9451] (1) When determining the amount of the new pitch fee particular regard is to be had to—
 
 - (a) any sums expended by the owner since the last review date on improvements—
   - (i) which are for the benefit of the occupiers of mobile homes on the protected site,
@@ -327,7 +327,7 @@ summary: ''
 
 (4) In a case where the pitch fee has not been previously reviewed, references in this paragraph to the last review date are to be read as references to the date when the agreement commenced.
 
-**19.**[^key-95c548b52fd51537a1e74db36bdfc2fa] (1) When determining the amount of the new pitch fee, any costs incurred by the owner in connection with expanding the protected site are not to be taken into account.
+**19.**[^c-95c548b52fd51537a1e74db36bdfc2fa] (1) When determining the amount of the new pitch fee, any costs incurred by the owner in connection with expanding the protected site are not to be taken into account.
 
 (2) When determining the amount of the new pitch fee, no regard may be had to—
 
@@ -337,7 +337,7 @@ summary: ''
   - (i) any action taken by a local authority under sections 15 to 25, or
   - (ii) the owner being convicted of an offence under section 18.
 
-**20.**[^key-a766600710ed516d455512f8cc926b15] (1) Unless it would be unreasonable having regard to paragraph 18(1), there is a presumption that the pitch fee is to increase or decrease by a percentage which is no more than any percentage increase or decrease in the consumer prices index calculated by reference only to—
+**20.**[^c-a766600710ed516d455512f8cc926b15] (1) Unless it would be unreasonable having regard to paragraph 18(1), there is a presumption that the pitch fee is to increase or decrease by a percentage which is no more than any percentage increase or decrease in the consumer prices index calculated by reference only to—
 
 - (a) the latest index, and
 - (b) the index published for the month which was 12 months before that to which the latest index relates.
@@ -349,7 +349,7 @@ summary: ''
 
 ##### Occupier's obligations and owner's corresponding obligations
 
-**21.**[^key-266dab90cc12eb2c25b046f7a54f0e6b] (1) The occupier must—
+**21.**[^c-266dab90cc12eb2c25b046f7a54f0e6b] (1) The occupier must—
 
 - (a) pay the pitch fee to the owner,
 - (b) pay to the owner all sums due under the agreement in respect of gas, electricity, water, sewerage or other services supplied by the owner,
@@ -372,7 +372,7 @@ summary: ''
 
 ##### Owner's other obligations
 
-**22.**[^key-efef3c33181753a39a1b2ba31c314b8a] (1) The owner must—
+**22.**[^c-efef3c33181753a39a1b2ba31c314b8a] (1) The owner must—
 
 - (a) if requested by the occupier, and on payment by the occupier of a charge of not more than £30, provide accurate written details of—
   - (i) the size of the pitch and the base on which the mobile home is stationed, and
@@ -403,7 +403,7 @@ summary: ''
   - (ii) states when and where the association or occupiers can make representations about the matters, and
 - (b) to take into account any representations made by the association or occupiers, in accordance with paragraph (a)(ii), before proceeding with the matters.
 
-**23.**[^key-84c863a0abdf23ce8a772b73956d31f7][^key-4926a0f801b1acea7c0c9239eab29f63] The document referred to in paragraph 17(4) and (9) must—
+**23.**[^c-84c863a0abdf23ce8a772b73956d31f7][^c-4926a0f801b1acea7c0c9239eab29f63] The document referred to in paragraph 17(4) and (9) must—
 
 - (a) be in such form as the Welsh Ministers may by regulations prescribe,
 - (b) specify any percentage increase or decrease in the consumer prices index calculated in accordance with paragraph 20,
@@ -414,7 +414,7 @@ summary: ''
 
 ##### Owner's name and address
 
-**24.**[^key-557bca90af616ef6bdfadaaa2588163f] (1) The owner must by notice inform the occupier and any qualifying residents' association of the address in England or Wales at which notices (including notices of proceedings) may be served on the owner by the occupier or a qualifying residents' association.
+**24.**[^c-557bca90af616ef6bdfadaaa2588163f] (1) The owner must by notice inform the occupier and any qualifying residents' association of the address in England or Wales at which notices (including notices of proceedings) may be served on the owner by the occupier or a qualifying residents' association.
 
 (2) If the owner fails to comply with sub-paragraph (1), then (subject to sub-paragraph (5)) any amount otherwise due from the occupier to the owner in respect of the pitch fee is to be treated for all purposes as not being due from the occupier to the owner at any time before the owner complies with sub-paragraph (1).
 
@@ -434,7 +434,7 @@ the notice is to be treated as not having been given until such time as the owne
 
 (6) Nothing in sub-paragraphs (3) to (5) applies to any notice containing a demand to which paragraph 25(1) applies.
 
-**25.**[^key-4103fda80ba64ae249f4cf0ede08763a] (1) Where the owner makes any demand for payment by the occupier of the pitch fee, or in respect of services supplied or other charges, the demand must contain—
+**25.**[^c-4103fda80ba64ae249f4cf0ede08763a] (1) Where the owner makes any demand for payment by the occupier of the pitch fee, or in respect of services supplied or other charges, the demand must contain—
 
 - (a) the name and address of the owner, and
 - (b) if that address is not in England or Wales, an address in England or Wales at which notices (including notices of proceedings) may be served on the owner.
@@ -452,14 +452,14 @@ the amount demanded is to be treated for all purposes as not being due from the 
 
 ##### Duration of agreement
 
-**26.**[^key-3dcad5f0869ff66af4cb0277b95427e7] Subject to paragraph 27 the right to station the mobile home on the transit pitch subsists until—
+**26.**[^c-3dcad5f0869ff66af4cb0277b95427e7] Subject to paragraph 27 the right to station the mobile home on the transit pitch subsists until—
 
 - (a) the fixed period set out in the agreement expires, or
 - (b) termination of the agreement under paragraph 28 or 29,
 
 whichever is sooner.
 
-**27.**[^key-e5c2173471126cac6ff74c26588ff005] (1) If the owner's estate or interest is insufficient to enable the owner to grant the right for the fixed period set out in the agreement, the period for which the right subsists does not extend beyond the date when the owner's estate or interest determines.
+**27.**[^c-e5c2173471126cac6ff74c26588ff005] (1) If the owner's estate or interest is insufficient to enable the owner to grant the right for the fixed period set out in the agreement, the period for which the right subsists does not extend beyond the date when the owner's estate or interest determines.
 
 (2) If planning permission for the use of the protected site as a site for mobile homes has been granted in terms such that it will expire at the end of a specified period, the period for which the right subsists does not extend beyond the date when the planning permission expires.
 
@@ -467,9 +467,9 @@ whichever is sooner.
 
 ##### Termination
 
-**28.**[^key-aa858f73a66407ff1af453556098709d] The occupier is entitled to terminate the agreement before the expiry of the fixed period set out in the agreement by notice in writing given to the owner.
+**28.**[^c-aa858f73a66407ff1af453556098709d] The occupier is entitled to terminate the agreement before the expiry of the fixed period set out in the agreement by notice in writing given to the owner.
 
-**29.**[^key-f69eb31499120bd29fc42303c8c36eeb] The owner is entitled to terminate the agreement before the expiry of the fixed period set out in the agreement—
+**29.**[^c-f69eb31499120bd29fc42303c8c36eeb] The owner is entitled to terminate the agreement before the expiry of the fixed period set out in the agreement—
 
 - (a) without being required to show any reason, by giving written notice not less than 4 weeks before the date on which that notice is to take effect, or
 - (b) immediately, where—
@@ -478,15 +478,15 @@ whichever is sooner.
 
 ##### Recovery of overpayments by occupier
 
-**30.**[^key-5c5fabf3809a852344e525cfaee84083] Where the agreement is terminated as mentioned in paragraph 28 or 29, the occupier is entitled to recover from the owner so much of any payment made by the occupier in pursuance of the agreement as is attributable to a period beginning after the termination.
+**30.**[^c-5c5fabf3809a852344e525cfaee84083] Where the agreement is terminated as mentioned in paragraph 28 or 29, the occupier is entitled to recover from the owner so much of any payment made by the occupier in pursuance of the agreement as is attributable to a period beginning after the termination.
 
 ##### Quiet enjoyment of the mobile home
 
-**31.**[^key-1c2ee853ef6145fbd4c2e6314930ac7e] The occupier is entitled to quiet enjoyment of the mobile home together with the pitch during the continuance of the agreement, subject to paragraph 32.
+**31.**[^c-1c2ee853ef6145fbd4c2e6314930ac7e] The occupier is entitled to quiet enjoyment of the mobile home together with the pitch during the continuance of the agreement, subject to paragraph 32.
 
 ##### Owner's right of entry to the pitch
 
-**32.**[^key-7e77ef86e68d7b321b9aa2a581717f12] (1) The owner may enter the pitch without prior notice between the hours of 9 am and 6 pm —
+**32.**[^c-7e77ef86e68d7b321b9aa2a581717f12] (1) The owner may enter the pitch without prior notice between the hours of 9 am and 6 pm —
 
 - (a) to deliver written communications, including post and notices, to the occupier, and
 - (b) to read any meter for gas, electricity, water, sewerage or other services supplied by the owner.
@@ -506,7 +506,7 @@ whichever is sooner.
 
 ##### Owner's name and address
 
-**33.**[^key-ef948232ea1a888cb73cc1da9956eda5] (1) The owner must by notice inform the occupier of the address in England or Wales at which notices (including notices of proceedings) may be served on the owner by the occupier.
+**33.**[^c-ef948232ea1a888cb73cc1da9956eda5] (1) The owner must by notice inform the occupier of the address in England or Wales at which notices (including notices of proceedings) may be served on the owner by the occupier.
 
 (2) If the owner fails to comply with sub-paragraph (1), then any amount otherwise due from the occupier to the owner in respect of the pitch fee is to be treated for all purposes as not being due from the occupier to the owner at any time before the owner complies with sub-paragraph (1).
 
@@ -521,7 +521,7 @@ the notice is to be treated as not having been given until such time as the owne
 
 (5) Nothing in sub-paragraphs (3) and (4) applies to any notice containing a demand to which paragraph 34(1) applies.
 
-**34.**[^key-be46320659b4b4be913a8f5b574a2364] (1) Where the owner makes any demand for payment by the occupier of the pitch fee, or in respect of services supplied or other charges, the demand must contain the name and address of the owner.
+**34.**[^c-be46320659b4b4be913a8f5b574a2364] (1) Where the owner makes any demand for payment by the occupier of the pitch fee, or in respect of services supplied or other charges, the demand must contain the name and address of the owner.
 
 (2) Where—
 
@@ -534,9 +534,9 @@ the amount demanded is to be treated for all purposes as not being due from the 
 
 ##### Duration of agreement
 
-**35.**[^key-88a88c3344754b5460e2afe52c155858] Subject to paragraph 36, the right to station the mobile home on land forming part of the protected site subsists until the agreement is determined under paragraph 37, 38, 39 or 40.
+**35.**[^c-88a88c3344754b5460e2afe52c155858] Subject to paragraph 36, the right to station the mobile home on land forming part of the protected site subsists until the agreement is determined under paragraph 37, 38, 39 or 40.
 
-**36.**[^key-9a4e645b692f5092003246d44ef47256] (1) If the owner's estate or interest is insufficient to enable the owner to grant the right for an indefinite period, the period for which the right subsists does not extend beyond the date when the owner's estate or interest determines.
+**36.**[^c-9a4e645b692f5092003246d44ef47256] (1) If the owner's estate or interest is insufficient to enable the owner to grant the right for an indefinite period, the period for which the right subsists does not extend beyond the date when the owner's estate or interest determines.
 
 (2) If planning permission for the use of the protected site as a site for mobile homes has been granted in terms such that it will expire at the end of a specified period, the period for which the right subsists does not extend beyond the date when the planning permission expires.
 
@@ -544,19 +544,19 @@ the amount demanded is to be treated for all purposes as not being due from the 
 
 ##### Termination
 
-**37.**[^key-ac14307ed344f167ec382edd5bd24f09] The occupier is entitled to terminate the agreement by notice in writing given to the owner not less than 4 weeks before the date on which it is to take effect.
+**37.**[^c-ac14307ed344f167ec382edd5bd24f09] The occupier is entitled to terminate the agreement by notice in writing given to the owner not less than 4 weeks before the date on which it is to take effect.
 
-**38.**[^key-1e7cb5f7a2afb8a3fdc967a20f17ae7a] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
+**38.**[^c-1e7cb5f7a2afb8a3fdc967a20f17ae7a] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
 
 - (a) is satisfied that the occupier has breached a term of the agreement and, after service of a notice to remedy the breach, has not complied with the notice within a reasonable time, and
 - (b) considers it reasonable for the agreement to be terminated.
 
-**39.**[^key-b0b7f2e929a33df8f6ef08a1b4a2798d] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
+**39.**[^c-b0b7f2e929a33df8f6ef08a1b4a2798d] The owner is entitled to terminate the agreement immediately if, on the application of the owner, the appropriate judicial body—
 
 - (a) is satisfied that the occupier is not occupying the mobile home as the occupier's only or main residence, and
 - (b) considers it reasonable for the agreement to be terminated.
 
-**40.**[^key-e5be99a04a1acd70407aed1cabd30f9d] (1) The owner is entitled to terminate the agreement immediately if—
+**40.**[^c-e5be99a04a1acd70407aed1cabd30f9d] (1) The owner is entitled to terminate the agreement immediately if—
 
 - (a) on the application of the owner, a tribunal has determined that, having regard to its condition, the mobile home is having a detrimental effect on the amenity of the site, and
 - (b) then, on the application of the owner, the appropriate judicial body, having regard to the tribunal's determination and to any other circumstances, considers it reasonable for the agreement to be terminated.
@@ -576,7 +576,7 @@ the amount demanded is to be treated for all purposes as not being due from the 
 
 ##### Assignment of agreement
 
-**41.**[^key-45266891cbea49a7056068dc7255ae3b] (1) The occupier (“A”) may assign the agreement—
+**41.**[^c-45266891cbea49a7056068dc7255ae3b] (1) The occupier (“A”) may assign the agreement—
 
 - (a) to a person who is a member of A's family, or
 - (b) to another person (“B”) if the conditions in sub-paragraph (2) are met.
@@ -592,7 +592,7 @@ the amount demanded is to be treated for all purposes as not being due from the 
 
 (4) Neither the occupier nor the owner may require any payment to be made (whether to the occupier or owner or otherwise) in connection with the assignment of the agreement under this paragraph.
 
-**42.**[^key-4eb25a24fd5b3ed03ecaf09e797770f4] (1) The occupier may serve on the owner a request to approve for the purposes of paragraph 41, an assignment to a person named in the request (“the proposed occupier”).
+**42.**[^c-4eb25a24fd5b3ed03ecaf09e797770f4] (1) The occupier may serve on the owner a request to approve for the purposes of paragraph 41, an assignment to a person named in the request (“the proposed occupier”).
 
 (2) Where the request relates to an assignment under paragraph 41(1)(a) the request must include satisfactory evidence that the proposed occupier is a member of the occupier's family.
 
@@ -634,11 +634,11 @@ and that other person has not received such a request, P owes a duty to the occu
 
 ##### Recovery of overpayments by occupier
 
-**43.**[^key-08de6d997f26f70c70d415ac0a70d011] Where the agreement is terminated as mentioned in paragraph 37, 38, 39 or 40, the occupier is entitled to recover from the owner so much of any payment made by the occupier in pursuance of the agreement as is attributable to a period beginning after the termination.
+**43.**[^c-08de6d997f26f70c70d415ac0a70d011] Where the agreement is terminated as mentioned in paragraph 37, 38, 39 or 40, the occupier is entitled to recover from the owner so much of any payment made by the occupier in pursuance of the agreement as is attributable to a period beginning after the termination.
 
 ##### Re-siting of mobile home
 
-**44.**[^key-48ba1c8fbac18d10ed67d0df63f87229] (1) The owner is entitled to require that the occupier's right to station the mobile home is exercisable for any period in relation to another pitch forming part of the protected site or a pitch forming part of another protected site (“the other pitch”) if—
+**44.**[^c-48ba1c8fbac18d10ed67d0df63f87229] (1) The owner is entitled to require that the occupier's right to station the mobile home is exercisable for any period in relation to another pitch forming part of the protected site or a pitch forming part of another protected site (“the other pitch”) if—
 
 - (a) on the application of the owner, a tribunal is satisfied that the other pitch is broadly comparable to the occupier's original pitch and that it is reasonable for the mobile home to be stationed on the other pitch for that period, or
 - (b) the owner needs to carry out essential repair or emergency works that can only be carried out if the mobile home is moved to the other pitch for that period, and the other pitch is broadly comparable to the occupier's original pitch.
@@ -658,11 +658,11 @@ and that other person has not received such a request, P owes a duty to the occu
 
 ##### Quiet enjoyment of the mobile home
 
-**45.**[^key-20bb8799d9e278956d15154d1fb2f234] The occupier is entitled to quiet enjoyment of the mobile home together with the pitch during the continuance of the agreement, subject to paragraphs 44 and 46.
+**45.**[^c-20bb8799d9e278956d15154d1fb2f234] The occupier is entitled to quiet enjoyment of the mobile home together with the pitch during the continuance of the agreement, subject to paragraphs 44 and 46.
 
 ##### Owner's right of entry to the pitch
 
-**46.**[^key-7a2ee4934c17dc1de4bed2855499cb98] (1) The owner may enter the pitch without prior notice between the hours of 9 am and 6 pm —
+**46.**[^c-7a2ee4934c17dc1de4bed2855499cb98] (1) The owner may enter the pitch without prior notice between the hours of 9 am and 6 pm —
 
 - (a) to deliver written communications, including post and notices, to the occupier, and
 - (b) to read any meter for gas, electricity, water, sewerage or other services supplied by the owner.
@@ -675,7 +675,7 @@ and that other person has not received such a request, P owes a duty to the occu
 
 ##### The pitch fee
 
-**47.**[^key-f34e713d7a233dc3003064d0461637d6] (1) The pitch fee can only be changed in accordance with this paragraph, either—
+**47.**[^c-f34e713d7a233dc3003064d0461637d6] (1) The pitch fee can only be changed in accordance with this paragraph, either—
 
 - (a) with the agreement of the occupier, or
 - (b) if a tribunal, on the application of the owner or the occupier, considers it reasonable for the pitch fee to be changed and makes an order determining the amount of the new pitch fee.
@@ -716,7 +716,7 @@ and that other person has not received such a request, P owes a duty to the occu
 - (a) where sub-paragraph (8) applies, until the 28th day after the date on which the new pitch fee is agreed, or
 - (b) where sub-paragraph (9)(b) applies, until the 28th day after the date on which the new pitch fee is agreed or, as the case may be, the 28th day after the date of a tribunal order determining the amount of the new pitch fee.
 
-**48.**[^key-a1f23394bb004b0a374b6226dec768ec] (1) When determining the amount of the new pitch fee particular regard is to be had to—
+**48.**[^c-a1f23394bb004b0a374b6226dec768ec] (1) When determining the amount of the new pitch fee particular regard is to be had to—
 
 - (a) any sums expended by the owner since the last review date on improvements—
   - (i) which are for the benefit of the occupiers of mobile homes on the protected site,
@@ -729,12 +729,12 @@ and that other person has not received such a request, P owes a duty to the occu
 
 (3) In a case where the pitch fee has not been previously reviewed, references in this paragraph to the last review date are to be read as references to the date when the agreement commenced.
 
-**49.**[^key-9bf825443c129c16bf91eaaf309a22fd] When determining the amount of the new pitch fee no regard may be had to—
+**49.**[^c-9bf825443c129c16bf91eaaf309a22fd] When determining the amount of the new pitch fee no regard may be had to—
 
 - (a) any costs incurred by the owner in connection with expanding the protected site, or
 - (b) any costs incurred by the owner in relation to the conduct of proceedings under this Part or the agreement.
 
-**50.**[^key-1ad9c35978b07bbe5dbd067e1487c1f9] (1) Unless it would be unreasonable having regard to paragraph 48(1), there is a presumption that the pitch fee will increase or decrease by a percentage which is no more than any percentage increase or decrease in the consumer prices index calculated by reference only to—
+**50.**[^c-1ad9c35978b07bbe5dbd067e1487c1f9] (1) Unless it would be unreasonable having regard to paragraph 48(1), there is a presumption that the pitch fee will increase or decrease by a percentage which is no more than any percentage increase or decrease in the consumer prices index calculated by reference only to—
 
 - (a) the latest index, and
 - (b) the index published for the month which was 12 months before that to which the latest index relates.
@@ -746,7 +746,7 @@ and that other person has not received such a request, P owes a duty to the occu
 
 ##### Occupier's obligations and owner's corresponding obligations
 
-**51.**[^key-fc1230f578b54013dc24d94a9277ff13] (1) The occupier must—
+**51.**[^c-fc1230f578b54013dc24d94a9277ff13] (1) The occupier must—
 
 - (a) pay the pitch fee to the owner,
 - (b) pay to the owner all sums due under the agreement in respect of gas, electricity, water, sewerage or other services supplied by the owner,
@@ -762,7 +762,7 @@ and that other person has not received such a request, P owes a duty to the occu
 
 ##### Owner's other obligations
 
-**52.**[^key-de3800591dbee73df210354f82838573] (1) The owner must—
+**52.**[^c-de3800591dbee73df210354f82838573] (1) The owner must—
 
 - (a) if requested by the occupier, and on payment by the occupier of a charge of not more than £30, provide accurate written details of—
   - (i) the size of the pitch and the base on which the mobile home is stationed, and
@@ -796,7 +796,7 @@ and that other person has not received such a request, P owes a duty to the occu
 
 ##### Owner's name and address
 
-**53.**[^key-b10ccdc76044622aa66d14b55ae4511d] (1) The owner must by notice inform the occupier and any qualifying residents' association of the address in England or Wales at which notices (including notices of proceedings) may be served on the owner by the occupier or a qualifying residents' association.
+**53.**[^c-b10ccdc76044622aa66d14b55ae4511d] (1) The owner must by notice inform the occupier and any qualifying residents' association of the address in England or Wales at which notices (including notices of proceedings) may be served on the owner by the occupier or a qualifying residents' association.
 
 (2) If the owner fails to comply with sub-paragraph (1), then any amount otherwise due from the occupier to the owner in respect of the pitch fee is to be treated for all purposes as not being due from the occupier to the owner at any time before the owner does comply with that sub-paragraph.
 
@@ -811,7 +811,7 @@ the notice is to be treated as not having been given until such time as the owne
 
 (5) Nothing in sub-paragraphs (3) and (4) applies to any notice containing a demand to which paragraph 54(1) applies.
 
-**54.**[^key-3eed5d73f749f9b18fe0e23c7a88c9d8] (1) Where the owner makes any demand for payment by the occupier of the pitch fee, or in respect of services supplied or other charges, the demand must contain the name and address of the owner.
+**54.**[^c-3eed5d73f749f9b18fe0e23c7a88c9d8] (1) Where the owner makes any demand for payment by the occupier of the pitch fee, or in respect of services supplied or other charges, the demand must contain the name and address of the owner.
 
 (2) Where—
 
@@ -820,140 +820,140 @@ the notice is to be treated as not having been given until such time as the owne
 
 ### PART 2 — MATTERS CONCERNING WHICH TERMS MAY BE IMPLIED BY THE APPROPRIATE JUDICIAL BODY
 
-**55.**[^key-00eef7220f577d7c1544e175eeee0f13] The sums payable by the occupier in pursuance of the agreement and the times at which they are to be paid.
+**55.**[^c-00eef7220f577d7c1544e175eeee0f13] The sums payable by the occupier in pursuance of the agreement and the times at which they are to be paid.
 
-**56.**[^key-9729c16f5242c7c59c77af35a6c37716] The review at yearly intervals of the sums payable by the occupier in pursuance of the agreement.
+**56.**[^c-9729c16f5242c7c59c77af35a6c37716] The review at yearly intervals of the sums payable by the occupier in pursuance of the agreement.
 
-**57.**[^key-99e48a184c42e7e3ac24d5233343d03f] The provision or improvement of services available on the protected site, and the use by the occupier of such services.
+**57.**[^c-99e48a184c42e7e3ac24d5233343d03f] The provision or improvement of services available on the protected site, and the use by the occupier of such services.
 
-**58.**[^key-45403d3ea269051be14babe252fdf6c8] The preservation of the amenity of the protected site.
+**58.**[^c-45403d3ea269051be14babe252fdf6c8] The preservation of the amenity of the protected site.
 
 ## Annotations
 
-[^key-8f4efb9128ad63dffec30bf7ceaca7e9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-8f4efb9128ad63dffec30bf7ceaca7e9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-cbf859c6ad7ce634784576fad08b817a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/2) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-cbf859c6ad7ce634784576fad08b817a]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/2) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-b9acec9bb44f66c2434a35a4bb81b50d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/3) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b9acec9bb44f66c2434a35a4bb81b50d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/3) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-3829745a618a0cbc33b83efb4edc0f0f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/4) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-3829745a618a0cbc33b83efb4edc0f0f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/4) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-f58d66f35a0bf00a0e611bb6f3dafeb7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/5) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-f58d66f35a0bf00a0e611bb6f3dafeb7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/5) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-32befcecfb397680e4ba0f6a89f5c221]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/6) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-32befcecfb397680e4ba0f6a89f5c221]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/6) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-1dfd5e34ceb1d2c3107fe31ad7fa068d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/7) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1dfd5e34ceb1d2c3107fe31ad7fa068d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/7) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-53d251507a5fd3b9edd58ba404b5ca9c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/8) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-53d251507a5fd3b9edd58ba404b5ca9c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/8) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-f46cf5f4f2b5068cf4c2b9840b75f38f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/9) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
+[^c-f46cf5f4f2b5068cf4c2b9840b75f38f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/9) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
 
-[^key-d2cfdce4669a8098b3ab21d913656ef0]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/9) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-d2cfdce4669a8098b3ab21d913656ef0]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/9) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-7a2fc55df2842c6fb3e2247d2f14d451]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/10) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
+[^c-7a2fc55df2842c6fb3e2247d2f14d451]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/10) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
 
-[^key-298611052870c0dc5b7f0ab5298834f1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/10) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-298611052870c0dc5b7f0ab5298834f1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/10) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-390b2add521524aca97687155d8d9103]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/11) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
+[^c-390b2add521524aca97687155d8d9103]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/11) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
 
-[^key-b1125fbcd882bafaee1522b960096afb]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/11) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b1125fbcd882bafaee1522b960096afb]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/11) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-cd84dc08233d326f617258e74ed7c4b1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/12) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
+[^c-cd84dc08233d326f617258e74ed7c4b1]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/12) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
 
-[^key-0a8bf3f84244daeab8fde90297df99fe]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/12) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-0a8bf3f84244daeab8fde90297df99fe]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/12) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-5f0f8236e8fcb01730c13480c0b73077]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/13) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
+[^c-5f0f8236e8fcb01730c13480c0b73077]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/13) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
 
-[^key-ab9748bba40284d59a708b9ee8315f28]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/13) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ab9748bba40284d59a708b9ee8315f28]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/13) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-3b3b85478136b7cdd5104af87fcb691e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/14) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-3b3b85478136b7cdd5104af87fcb691e]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/14) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-52c6bffa089e56e6ee0e88c2e6960c23]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/15) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-52c6bffa089e56e6ee0e88c2e6960c23]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/15) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-6826fbbb86639860272866ebd1a91b3b]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/16) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-6826fbbb86639860272866ebd1a91b3b]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/16) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-38dc2cccbe6af5a772b95ac9daa2687e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/17) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-38dc2cccbe6af5a772b95ac9daa2687e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/17) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-ff55eabc0fc267c689a74c4280ea9451]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/18) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ff55eabc0fc267c689a74c4280ea9451]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/18) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-95c548b52fd51537a1e74db36bdfc2fa]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/19) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-95c548b52fd51537a1e74db36bdfc2fa]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/19) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-a766600710ed516d455512f8cc926b15]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/20) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-a766600710ed516d455512f8cc926b15]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/20) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-266dab90cc12eb2c25b046f7a54f0e6b]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/21) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-266dab90cc12eb2c25b046f7a54f0e6b]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/21) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-efef3c33181753a39a1b2ba31c314b8a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/22) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-efef3c33181753a39a1b2ba31c314b8a]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/22) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-84c863a0abdf23ce8a772b73956d31f7]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/23) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
+[^c-84c863a0abdf23ce8a772b73956d31f7]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/23) in force for specified purposes at 7.1.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/11/article/2/b)
 
-[^key-4926a0f801b1acea7c0c9239eab29f63]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/23) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-4926a0f801b1acea7c0c9239eab29f63]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/23) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-557bca90af616ef6bdfadaaa2588163f]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/24) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-557bca90af616ef6bdfadaaa2588163f]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/24) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-4103fda80ba64ae249f4cf0ede08763a]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/25) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-4103fda80ba64ae249f4cf0ede08763a]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/25) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-3dcad5f0869ff66af4cb0277b95427e7]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/26) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-3dcad5f0869ff66af4cb0277b95427e7]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/26) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-e5c2173471126cac6ff74c26588ff005]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/27) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-e5c2173471126cac6ff74c26588ff005]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/27) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-aa858f73a66407ff1af453556098709d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/28) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-aa858f73a66407ff1af453556098709d]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/28) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-f69eb31499120bd29fc42303c8c36eeb]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/29) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-f69eb31499120bd29fc42303c8c36eeb]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/29) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-5c5fabf3809a852344e525cfaee84083]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/30) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-5c5fabf3809a852344e525cfaee84083]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/30) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-1c2ee853ef6145fbd4c2e6314930ac7e]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/31) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1c2ee853ef6145fbd4c2e6314930ac7e]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/31) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-7e77ef86e68d7b321b9aa2a581717f12]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/32) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-7e77ef86e68d7b321b9aa2a581717f12]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/32) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-ef948232ea1a888cb73cc1da9956eda5]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/33) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ef948232ea1a888cb73cc1da9956eda5]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/33) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-be46320659b4b4be913a8f5b574a2364]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/34) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-be46320659b4b4be913a8f5b574a2364]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/34) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-88a88c3344754b5460e2afe52c155858]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/35) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-88a88c3344754b5460e2afe52c155858]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/35) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-9a4e645b692f5092003246d44ef47256]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/36) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-9a4e645b692f5092003246d44ef47256]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/36) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-ac14307ed344f167ec382edd5bd24f09]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/37) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ac14307ed344f167ec382edd5bd24f09]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/37) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-1e7cb5f7a2afb8a3fdc967a20f17ae7a]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/38) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1e7cb5f7a2afb8a3fdc967a20f17ae7a]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/38) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-b0b7f2e929a33df8f6ef08a1b4a2798d]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/39) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b0b7f2e929a33df8f6ef08a1b4a2798d]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/39) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-e5be99a04a1acd70407aed1cabd30f9d]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/40) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-e5be99a04a1acd70407aed1cabd30f9d]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/40) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-45266891cbea49a7056068dc7255ae3b]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/41) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-45266891cbea49a7056068dc7255ae3b]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/41) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-4eb25a24fd5b3ed03ecaf09e797770f4]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/42) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-4eb25a24fd5b3ed03ecaf09e797770f4]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/42) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-08de6d997f26f70c70d415ac0a70d011]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/43) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-08de6d997f26f70c70d415ac0a70d011]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/43) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-48ba1c8fbac18d10ed67d0df63f87229]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/44) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-48ba1c8fbac18d10ed67d0df63f87229]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/44) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-20bb8799d9e278956d15154d1fb2f234]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/45) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-20bb8799d9e278956d15154d1fb2f234]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/45) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-7a2ee4934c17dc1de4bed2855499cb98]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/46) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-7a2ee4934c17dc1de4bed2855499cb98]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/46) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-f34e713d7a233dc3003064d0461637d6]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/47) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-f34e713d7a233dc3003064d0461637d6]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/47) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-a1f23394bb004b0a374b6226dec768ec]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/48) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-a1f23394bb004b0a374b6226dec768ec]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/48) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-9bf825443c129c16bf91eaaf309a22fd]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/49) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-9bf825443c129c16bf91eaaf309a22fd]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/49) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-1ad9c35978b07bbe5dbd067e1487c1f9]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/50) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1ad9c35978b07bbe5dbd067e1487c1f9]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/50) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-fc1230f578b54013dc24d94a9277ff13]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/51) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-fc1230f578b54013dc24d94a9277ff13]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/51) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-de3800591dbee73df210354f82838573]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/52) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-de3800591dbee73df210354f82838573]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/52) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-b10ccdc76044622aa66d14b55ae4511d]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/53) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b10ccdc76044622aa66d14b55ae4511d]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/53) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-3eed5d73f749f9b18fe0e23c7a88c9d8]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/54) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-3eed5d73f749f9b18fe0e23c7a88c9d8]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/54) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-00eef7220f577d7c1544e175eeee0f13]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/55) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-00eef7220f577d7c1544e175eeee0f13]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/55) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-9729c16f5242c7c59c77af35a6c37716]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/56) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-9729c16f5242c7c59c77af35a6c37716]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/56) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-99e48a184c42e7e3ac24d5233343d03f]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/57) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-99e48a184c42e7e3ac24d5233343d03f]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/57) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-45403d3ea269051be14babe252fdf6c8]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/58) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-45403d3ea269051be14babe252fdf6c8]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/anaw/2013/6/schedule/2/paragraph/58) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

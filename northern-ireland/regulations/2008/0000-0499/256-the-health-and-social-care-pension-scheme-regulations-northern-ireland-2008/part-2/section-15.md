@@ -22,15 +22,15 @@ summary: ''
 
 (1) This regulation applies for the purpose of determining the meaning of “**reckonable pay**”, in relation to—
 
-- (a) a member whose active membership ceases, [^key-4233ecd262d5fcd61ab9f79249821bdd]...
+- (a) a member whose active membership ceases, [^c-4233ecd262d5fcd61ab9f79249821bdd]...
 - (b) a member becoming entitled to the immediate payment of a pension during the member's active membership period—
   - (i) on the exercise of the option under regulation 49 (partial retirement: members aged at least 55), or
-  - (ii) under regulation 45(1)(b)(ii); or[^key-c1a267933113408a89da5477055032c1]
+  - (ii) under regulation 45(1)(b)(ii); or[^c-c1a267933113408a89da5477055032c1]
 - (c) a non-contributing member.
 
-(2) This regulation is subject to regulations 16 to 19 , 136G and 136I to 136K[^key-b18c3bea753e486e807891c77ae00cc7] .
+(2) This regulation is subject to regulations 16 to 19 , 136G and 136I to 136K[^c-b18c3bea753e486e807891c77ae00cc7] .
 
-(3)[^key-010a56c95e183531e1e8fc2485a93727] A member’s “reckonable pay” is determined by the formula—
+(3)[^c-010a56c95e183531e1e8fc2485a93727] A member’s “reckonable pay” is determined by the formula—
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2008/256)
 
@@ -45,9 +45,9 @@ Where—
 (5) In this regulation—
 
 - (a) “**the relevant day**” means—
-  - (i) in a case within paragraph (1)(a), the day on which the member's active membership ceases, [^key-4cd64196c0b3037a0941523f805b815f]...
+  - (i) in a case within paragraph (1)(a), the day on which the member's active membership ceases, [^c-4cd64196c0b3037a0941523f805b815f]...
   - (ii) in a case within paragraph (1)(b), the day before that on which the member becomes entitled to the pension;
-  - (iii)[^key-9b2da5269f01945358df936c8a587dc8] in a case within paragraph (1)(c), the member’s last day of pensionable service.
+  - (iii)[^c-9b2da5269f01945358df936c8a587dc8] in a case within paragraph (1)(c), the member’s last day of pensionable service.
 - (b) “the best consecutive 1095 day period” shall be determined by comparing—
   - (i) the period of 1095 days immediately preceding the relevant day (Period 1);
   - (ii) the period of 1095 days which overlaps Period 1 by 730 days (Period 2);
@@ -91,7 +91,7 @@ are references to periods together amounting to periods of that length, disregar
 
 the member's pensionable pay for that period in the other employment must be taken into account in that determination.
 
-(11)[^key-8ef266ad7ef930c8bd07f265d02947e4] For the purposes of this regulation, pensionable service does not include—
+(11)[^c-8ef266ad7ef930c8bd07f265d02947e4] For the purposes of this regulation, pensionable service does not include—
 
 - (a) any period of pensionable service that a member is entitled to count under Chapter 6 of this Part unless the transfer value payment in respect of that service is accepted from a corresponding 2008 scheme;
 - (b) any period of pensionable service that a Section 2008 Optant is entitled to count under—
@@ -101,16 +101,16 @@ the member's pensionable pay for that period in the other employment must be tak
 
 ## Annotations
 
-[^key-4233ecd262d5fcd61ab9f79249821bdd]: Textual amendment: Word in [reg. 15(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/1/a) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/2/a)
+[^c-4233ecd262d5fcd61ab9f79249821bdd]: Textual amendment: Word in [reg. 15(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/1/a) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/2/a)
 
-[^key-c1a267933113408a89da5477055032c1]: Textual amendment: [Reg. 15(1)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/1/c) and word added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/2/b)
+[^c-c1a267933113408a89da5477055032c1]: Textual amendment: [Reg. 15(1)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/1/c) and word added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/2/b)
 
-[^key-b18c3bea753e486e807891c77ae00cc7]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [19(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/19/2)
+[^c-b18c3bea753e486e807891c77ae00cc7]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [19(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/19/2)
 
-[^key-010a56c95e183531e1e8fc2485a93727]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/3) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 18](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/18), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-010a56c95e183531e1e8fc2485a93727]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/3) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 18](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/18), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
 
-[^key-4cd64196c0b3037a0941523f805b815f]: Textual amendment: Word in [reg. 15(5)(a)(i)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/5/a/i) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(3)(a)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/3/a)
+[^c-4cd64196c0b3037a0941523f805b815f]: Textual amendment: Word in [reg. 15(5)(a)(i)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/5/a/i) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(3)(a)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/3/a)
 
-[^key-9b2da5269f01945358df936c8a587dc8]: Textual amendment: [Reg. 15(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/5/a/iii) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(3)(b)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/3/b)
+[^c-9b2da5269f01945358df936c8a587dc8]: Textual amendment: [Reg. 15(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/5/a/iii) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [16(3)(b)](https://www.legislation.gov.uk/nisr/2009/188/regulation/16/3/b)
 
-[^key-8ef266ad7ef930c8bd07f265d02947e4]: Textual amendment: [Reg. 15(11)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/11) added (with effect in accordance with reg. 1(3)(c) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [19(4)](https://www.legislation.gov.uk/nisr/2010/22/regulation/19/4)
+[^c-8ef266ad7ef930c8bd07f265d02947e4]: Textual amendment: [Reg. 15(11)](https://www.legislation.gov.uk/nisr/2008/256/regulation/15/11) added (with effect in accordance with reg. 1(3)(c) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [19(4)](https://www.legislation.gov.uk/nisr/2010/22/regulation/19/4)

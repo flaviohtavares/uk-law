@@ -42,15 +42,15 @@ Coming into operation
 
 The Executive Office [^f00001] makes the following Order in exercise of the powers conferred by Articles 50 and 51 of the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-1798c527798d2ab841b5654a7ddd2cc3]
+## 1. Citation and commencement[^c-1798c527798d2ab841b5654a7ddd2cc3]
 
 This Order may be cited as the Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2025 and shall come into operation on 31st March 2025.
 
-## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^key-1787f0bfe449f99b26d243f2a010bfe6]
+## 2. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^c-1787f0bfe449f99b26d243f2a010bfe6]
 
 For the Schedule to the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2004[^f00004] substitute the Schedule set out in the Schedule to this Order.
 
-## 3. Revocation[^key-6e472ed36939a7a246a03e64c7ed1039]
+## 3. Revocation[^c-6e472ed36939a7a246a03e64c7ed1039]
 
 The Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 2023[^f00005] is revoked.
 
@@ -62,7 +62,7 @@ Richard Irwin
 
 A senior officer of the Executive Office
 
-## SCHEDULE[^key-8c04b18e53bfd34a38acce4b67813b43]
+## SCHEDULE[^c-8c04b18e53bfd34a38acce4b67813b43]
 
 Article 2
 
@@ -334,14 +334,14 @@ Article 3 revokes the Fair Employment (Specification of Public Authorities) (Ame
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481); Article 4(a) and Schedule 2, Part I
 
-[^key-1798c527798d2ab841b5654a7ddd2cc3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
+[^c-1798c527798d2ab841b5654a7ddd2cc3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
 
-[^key-1787f0bfe449f99b26d243f2a010bfe6]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/34/article/2) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
+[^c-1787f0bfe449f99b26d243f2a010bfe6]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/34/article/2) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
 
 [^f00004]: Footnote: [S.R. 2004 No. 494](https://www.legislation.gov.uk/nisr/2004/494); to which the most recent amending Order is [SR 2023 No. 197](https://www.legislation.gov.uk/nisr/2023/197)
 
-[^key-6e472ed36939a7a246a03e64c7ed1039]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2025/34/article/3) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
+[^c-6e472ed36939a7a246a03e64c7ed1039]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2025/34/article/3) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
 
 [^f00005]: Footnote: [S.R. 2023 No.197](https://www.legislation.gov.uk/nisr/2023/197)
 
-[^key-8c04b18e53bfd34a38acce4b67813b43]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2025/34/schedule) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)
+[^c-8c04b18e53bfd34a38acce4b67813b43]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2025/34/schedule) in operation at 31.3.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/34/article/1)

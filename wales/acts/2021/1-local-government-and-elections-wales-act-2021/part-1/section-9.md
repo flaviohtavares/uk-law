@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Resolutions to exercise the power to change the voting system[^key-c5638d1e2673acf75348d5dd97d733e7]
+## 9. Resolutions to exercise the power to change the voting system[^c-c5638d1e2673acf75348d5dd97d733e7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5638d1e2673acf75348d5dd97d733e7]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2021/1/section/9) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)
+[^c-c5638d1e2673acf75348d5dd97d733e7]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2021/1/section/9) in force at 6.5.2022, see [s. 175(6)(a)](https://www.legislation.gov.uk/asc/2021/1/section/175/6/a)

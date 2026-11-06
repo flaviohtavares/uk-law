@@ -83,7 +83,7 @@ for any purpose in any financial year must be authorised for that year by Budget
 
 ### The Scottish Consolidated Fund
 
-#### 4. Payments out of the Scottish Consolidated Fund[^c1014081][^key-6d2adcb99a65b0aec27deb6a4387d192][^key-963b62484a4ef41766aabbe2781cd5e7][^key-0854fae8a7c28e841ea446e362622609][^key-936ac7a7f57058d3cb195703cb6676c8][^key-1074b17e12fa587742a454da921278aa][^key-5942461d5bb97b7064746bdaac485626][^key-aaa92e58ef74cd7954b802157473f211][^key-581dca767cab19bf2aff7f9763283c14][^key-4b7a343f10adcf9e31c45895ee5c3aad][^key-c7e63a119d142454d088433987814fc9]
+#### 4. Payments out of the Scottish Consolidated Fund[^c1014081][^c-6d2adcb99a65b0aec27deb6a4387d192][^c-963b62484a4ef41766aabbe2781cd5e7][^c-0854fae8a7c28e841ea446e362622609][^c-936ac7a7f57058d3cb195703cb6676c8][^c-1074b17e12fa587742a454da921278aa][^c-5942461d5bb97b7064746bdaac485626][^c-aaa92e58ef74cd7954b802157473f211][^c-581dca767cab19bf2aff7f9763283c14][^c-4b7a343f10adcf9e31c45895ee5c3aad][^c-c7e63a119d142454d088433987814fc9]
 
 (1) A sum may be paid out of the Fund under section 65(1)(c) of the Scotland Act 1998 (c.46) (“**the 1998 Act**”) only in accordance with the rules in this section and sections 5 and 6 of this Act.
 
@@ -131,7 +131,7 @@ may instead be applied in the financial year in which they are received for or i
 
 Schedule 1, which modifies various enactments concerning capital expenditure of, and borrowing by, certain bodies established under enactments, has effect.
 
-#### 9. Keeper of the Registers of Scotland: financial arrangements[^key-1f4487056728ae796d2fda96d8a83962]
+#### 9. Keeper of the Registers of Scotland: financial arrangements[^c-1f4487056728ae796d2fda96d8a83962]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,7 +147,7 @@ Schedule 1, which modifies various enactments concerning capital expenditure of,
 
 - (a) the Auditor General,
 - (b) the Chairman of the Accounts Commission, and
-- (c)[^key-fdf8494062c3e227bb1ed2b2c6ed31e5] 3 other members appointed by the Scottish Commission for Public Audit[^key-0e136ec2b0a8072535ebf378d3be0f11].
+- (c)[^c-fdf8494062c3e227bb1ed2b2c6ed31e5] 3 other members appointed by the Scottish Commission for Public Audit[^c-0e136ec2b0a8072535ebf378d3be0f11].
 
 (3)[^c1014085] Audit Scotland is to provide such assistance and support as the Auditor General and the Accounts Commission require in the exercise of their respective functions and, in particular, is to provide them, or ensure that they are provided, with the property, staff and services which they require for the exercise of those functions.
 
@@ -167,7 +167,7 @@ Schedule 1, which modifies various enactments concerning capital expenditure of,
 - (a) the provision of services under arrangements made in pursuance of section 10(5),
 - (b) the audit under sections 21 and 22 of an account, other than one prepared in pursuance of section 19(1) to (3) or 20(1),
 - (c) the carrying out under section 23 of an examination, other than one in respect of an office-holder in the Scottish Administration or a body or other office-holder to whom sums are paid out of the Fund,
-- (ca)[^key-a809a2a172c0bce84bcf04c72ff76a79] carrying out a data matching exercise under section 26A,
+- (ca)[^c-a809a2a172c0bce84bcf04c72ff76a79] carrying out a data matching exercise under section 26A,
 - (d) the audit of an account in pursuance of Part VII of the Local Government (Scotland) Act 1973 (c.65),
 - (e) the undertaking or promotion of any study under section 97A or 105A of that Act,
 - (f) the giving of directions under section 1 of the Local Government Act 1992 (c.19).
@@ -180,7 +180,7 @@ Schedule 1, which modifies various enactments concerning capital expenditure of,
 
 (5) Where a charge under subsection (1)(c), (e) or (f) relates to an examination, study or direction in respect of more than one body or office-holder, each body or office-holder is to pay such proportion of the charge as is determined by Audit Scotland.
 
-(5A)[^key-ea7176e37088cee503e3d2944f47b1d0] Charges under subsection (1)(ca) may be imposed on (either or both)—
+(5A)[^c-ea7176e37088cee503e3d2944f47b1d0] Charges under subsection (1)(ca) may be imposed on (either or both)—
 
 - (a) persons who disclose data for a data matching exercise,
 - (b) persons who receive the results of such an exercise.
@@ -199,7 +199,7 @@ Schedule 1, which modifies various enactments concerning capital expenditure of,
 
 (2) The Commission is to consist of—
 
-- (a) the member of the Parliament who is for the time being convener of the Public[^key-1d7b0683e48a7585c81922459ab5a77a] Audit Committee, and
+- (a) the member of the Parliament who is for the time being convener of the Public[^c-1d7b0683e48a7585c81922459ab5a77a] Audit Committee, and
 - (b) 4 other members of the Parliament appointed in accordance with standing orders.
 
 (3) The Commission may require Audit Scotland to provide it with such documents, information and explanations about the exercise of the functions of Audit Scotland as the Commission reasonably considers necessary in connection with the discharge of its functions.
@@ -226,16 +226,16 @@ as the Parliamentary corporation may determine.
 - (a) make contributions or payments towards provision for such pensions, gratuities or allowances,
 - (b) establish and administer one or more pension schemes.
 
-(4A)[^key-233c098beda23e26a856988a73162164] A person appointed to be the Auditor General holds office for a period of 8 years.
+(4A)[^c-233c098beda23e26a856988a73162164] A person appointed to be the Auditor General holds office for a period of 8 years.
 
-(5)[^key-d777b55de5b14ec7de5a92b2f7a4798e] A person appointed to be the Auditor General—
+(5)[^c-d777b55de5b14ec7de5a92b2f7a4798e] A person appointed to be the Auditor General—
 
 - (a) may be relieved of office by Her Majesty at that person’s request,
-- (aa)[^key-5b49a88effd7e15f19a0678969c4e433] vacates office on the expiry of the period of appointment,
-- (b)[^key-d151e643469af1a4279f090114381496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) [^key-c2e827419f78b173811064d782fd7e41]... in other respects,[^key-e2bb47b943256954369c89316053374f] holds office on such terms and conditions as the Parliamentary corporation may determine.
+- (aa)[^c-5b49a88effd7e15f19a0678969c4e433] vacates office on the expiry of the period of appointment,
+- (b)[^c-d151e643469af1a4279f090114381496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) [^c-c2e827419f78b173811064d782fd7e41]... in other respects,[^c-e2bb47b943256954369c89316053374f] holds office on such terms and conditions as the Parliamentary corporation may determine.
 
-(5A)[^key-c95464762a767ecab63e3c96137f52f4] A person having held the office of the Auditor General is not eligible for reappointment.
+(5A)[^c-c95464762a767ecab63e3c96137f52f4] A person having held the office of the Auditor General is not eligible for reappointment.
 
 (6) Any function of the Auditor General may be exercised on behalf of the Auditor General by any person (whether or not a member of the staff of Audit Scotland) authorised by the Auditor General to do so.
 
@@ -440,12 +440,12 @@ and the accountable officer is answerable to the Parliament for the exercise of 
 
 (5) For the purposes of subsection (3)(b) a person is qualified if that person is—
 
-- (a) eligible for appointment as a statutory auditor under Chapter 2 of Part 42 of the Companies Act 2006[^key-8ccf288f84ba1079c54e3401c6245ff4]), or
+- (a) eligible for appointment as a statutory auditor under Chapter 2 of Part 42 of the Companies Act 2006[^c-8ccf288f84ba1079c54e3401c6245ff4]), or
 - (b) a member of a body of accountants established in the United Kingdom or another EEA State;
 
-[^key-997dbd5c31af47e5cf5c422b822fd85d]...
+[^c-997dbd5c31af47e5cf5c422b822fd85d]...
 
-(6)[^key-e43f7cc72d31f632e791baa32ff45b8f] In this section, “EEA State” means a member State, Norway, Iceland or Lichtenstein.
+(6)[^c-e43f7cc72d31f632e791baa32ff45b8f] In this section, “EEA State” means a member State, Norway, Iceland or Lichtenstein.
 
 #### 22. Audit of accounts: further provisions
 
@@ -471,13 +471,13 @@ and the accountable officer is answerable to the Parliament for the exercise of 
 (5)[^c1014092] The Scottish Ministers must—
 
 - (a) lay before the Parliament a copy of every account and report sent to them under subsection (4), and
-- (b) except where the account and the report are published by the body or office-holder in question,[^key-e5a7afcc0d919333bef9792cfe2148ab] publish every such account and report,
+- (b) except where the account and the report are published by the body or office-holder in question,[^c-e5a7afcc0d919333bef9792cfe2148ab] publish every such account and report,
 
 not later than 9 months after the end of the financial year to which the account relates.
 
 (6) In section 21 and this section “**financial year**”, in relation to an account, means the financial year of the body or office-holder in question.
 
-#### 23. Economy, efficiency and effectiveness examinations[^key-a5f7dd94b227a7830150d3ce4f6ac284][^key-e042e9751bc09eed4b8265fdbdd771ab]
+#### 23. Economy, efficiency and effectiveness examinations[^c-a5f7dd94b227a7830150d3ce4f6ac284][^c-e042e9751bc09eed4b8265fdbdd771ab]
 
 (1) The Auditor General may initiate examinations into the economy, efficiency and effectiveness with which bodies and office-holders mentioned in subsection (2) have used their resources in discharging their functions.
 
@@ -511,7 +511,7 @@ not later than 9 months after the end of the financial year to which the account
 
 (6) In determining whether an examination under this section is to be carried out, the Auditor General must take into account any proposals made by the Parliament.
 
-(7) Before initiating an examination under this section in respect of Scottish Water[^c1014093] the Auditor General must consult the Water Industry Commission[^key-6c4b268efd26854683609f6e57ff451e] for Scotland.
+(7) Before initiating an examination under this section in respect of Scottish Water[^c1014093] the Auditor General must consult the Water Industry Commission[^c-6c4b268efd26854683609f6e57ff451e] for Scotland.
 
 (8) It is for the Auditor General personally to initiate an examination under this section and to decide who is to carry out the examination.
 
@@ -522,16 +522,16 @@ not later than 9 months after the end of the financial year to which the account
 
 (10) The examiner (if not the Auditor General) must report the results to the Auditor General, who may report the results to the Parliament.
 
-(11)[^key-5a369dae67636184f709249812b5b422] The Auditor General may publish the results of any examination carried out under this section.
+(11)[^c-5a369dae67636184f709249812b5b422] The Auditor General may publish the results of any examination carried out under this section.
 
-#### 23A. Defamation[^key-a3079faa06a941df4ec036ef29d61ac6][^key-66decedbcdb5344f7d5cadcf94c6d8dc]
+#### 23A. Defamation[^c-a3079faa06a941df4ec036ef29d61ac6][^c-66decedbcdb5344f7d5cadcf94c6d8dc]
 
 For the purposes of the law of defamation, the following are absolutely privileged—
 
 - (a) reports sent to the Scottish Ministers under section 22(4),
 - (b) results of an examination carried out and reported to the Parliament under section 23.
 
-#### 24. Access to documents and information[^c1014094][^key-5705c5cf2c3c72c92df3716c9fcebfd5]
+#### 24. Access to documents and information[^c1014094][^c-5705c5cf2c3c72c92df3716c9fcebfd5]
 
 (1) For the purposes of the audit of an account under sections 21 and 22 the auditor is entitled to—
 
@@ -593,7 +593,7 @@ For the purposes of the law of defamation, the following are absolutely privileg
 
 (2) The Scottish Ministers may by order make such modifications in any enactment or prerogative instrument or any other instrument or document as appear to them to be necessary or expedient in consequence of this Part.
 
-## PART 2A — DATA MATCHING[^key-4098a1b1e40d63cd47b97207a0fb405e]
+## PART 2A — DATA MATCHING[^c-4098a1b1e40d63cd47b97207a0fb405e]
 
 ### 26A. Power to carry out data matching exercises
 
@@ -620,8 +620,8 @@ For the purposes of the law of defamation, the following are absolutely privileg
 
 (3) Nothing in this section authorises a disclosure—
 
-- (a) which contravenes the data protection legislation[^key-cf1e14a783fa6f41144915ac658e4046] ,
-- (b)[^key-4669c451b61be62c4297255716bf8bac] which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016,
+- (a) which contravenes the data protection legislation[^c-cf1e14a783fa6f41144915ac658e4046] ,
+- (b)[^c-4669c451b61be62c4297255716bf8bac] which is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016,
 - (c) of data comprising or including patient data.
 
 (4) “**Patient data**” means data relating to an individual which is held for medical purposes and from which the individual can be identified.
@@ -652,8 +652,8 @@ For the purposes of the law of defamation, the following are absolutely privileg
 
 (3) Audit Scotland must not require a person to disclose data if—
 
-- (a) the disclosure would contravene the data protection legislation[^key-8be5a6cdf965a46ea436730a21e7f1db] ,
-- (b)[^key-dafcad4752d1130550f9e264c7df4df7] the disclosure is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
+- (a) the disclosure would contravene the data protection legislation[^c-8be5a6cdf965a46ea436730a21e7f1db] ,
+- (b)[^c-dafcad4752d1130550f9e264c7df4df7] the disclosure is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 (4) A disclosure made in response to a requirement imposed under subsection (1) does not breach—
 
@@ -687,8 +687,8 @@ For the purposes of the law of defamation, the following are absolutely privileg
 
 (4) “United Kingdom audit agency”, for the purposes of subsection (2)(c), means—
 
-- (a)[^key-35a55a69f0c0bea5ca634df0ed497a6b] the Comptroller and Auditor General,
-- (b)[^key-956bcc84a50b26b2368e47a9fa2876c1] the Secretary of State,
+- (a)[^c-35a55a69f0c0bea5ca634df0ed497a6b] the Comptroller and Auditor General,
+- (b)[^c-956bcc84a50b26b2368e47a9fa2876c1] the Secretary of State,
 - (ba) the Minister for the Cabinet Office,
 - (bb) a local auditor within the meaning of the Local Audit and Accountability Act 2014,
 - (c) the Auditor General for Wales,
@@ -711,7 +711,7 @@ For the purposes of the law of defamation, the following are absolutely privileg
 - “ **patient data** ” has the same meaning as section 26B(4), and
 - “ **relevant NHS body** ” means—
   - (a) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002 (asp 5),
-  - (b) a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant[^key-978ec3a75080656ed96422e4fe9476a8] NHS body”);
+  - (b) a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant[^c-978ec3a75080656ed96422e4fe9476a8] NHS body”);
   - (c) a Welsh NHS body as defined in section 60 of the Public Audit (Wales) Act 2004 (c.23),
   - (d) a
 
@@ -755,7 +755,7 @@ For the purposes of the law of defamation, the following are absolutely privileg
 
 (3) Audit Scotland must consult the following persons before preparing or altering the code of practice—
 
-- (a) the Information Commission[^key-a3abf87f9da4ed216f101662d825443c],
+- (a) the Information Commission[^c-a3abf87f9da4ed216f101662d825443c],
 - (b) the persons mentioned in section 26C(2), and
 - (c) any other person Audit Scotland thinks fit.
 
@@ -802,7 +802,7 @@ The Scottish Ministers may by order make such transitional, transitory or saving
 - “**the Accounts Commission**” means the Accounts Commission for Scotland,
 - “**accruing resources**” has the meaning given in section 1(2),
 - “**the Auditor General**” means the Auditor General for Scotland,
-- “[^key-21055912141e5a2b45bf9edf23c12b9e]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “[^c-21055912141e5a2b45bf9edf23c12b9e]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**enactment**” includes an enactment whenever passed or made,
 - “**the examiner**” has the meaning given in section 23(9),
 - “**financial year**” means the 12 months ending with 31st March,
@@ -911,19 +911,19 @@ In section 94 of the Local Government (Scotland) Act 1973 (c.65) (capital expens
 
 The Auditor General and the Chairman of the Accounts Commission are not entitled to any remuneration in respect of their membership of Audit Scotland.
 
-**2.**[^key-9a076dc8a4f24a0b211fc35e1dbcf1d0] A person who is a member of the staff of Audit Scotland or a member of the Accounts Commission is not[^key-c2f3a59afa8daeba6636ccef51a3fbbe] eligible for appointment under section 10(2)(c) [^key-7a266c4703c07327cbde8a3bd33ef293]...
+**2.**[^c-9a076dc8a4f24a0b211fc35e1dbcf1d0] A person who is a member of the staff of Audit Scotland or a member of the Accounts Commission is not[^c-c2f3a59afa8daeba6636ccef51a3fbbe] eligible for appointment under section 10(2)(c) [^c-7a266c4703c07327cbde8a3bd33ef293]...
 
-**2A.**[^key-6390780d8a8ea6bdf1d179c44eae8542][^key-aab5ecc7832c574986720be3c9bc9816] An appointment under section 10(2)(c) may be for a period not exceeding 3 years.
+**2A.**[^c-6390780d8a8ea6bdf1d179c44eae8542][^c-aab5ecc7832c574986720be3c9bc9816] An appointment under section 10(2)(c) may be for a period not exceeding 3 years.
 
 **2B.** A person appointed under section 10(2)(c) is, on ceasing to be a member, eligible for reappointment for a single further period.
 
 **3.** A member of Audit Scotland appointed under section 10(2)(c)—
 
-- (a)[^key-a7fe5e966b95ac1d5724c89b49015a3f] is to be appointed on such terms and conditions as the Scottish Commission for Public Audit[^key-3d61cf87db15e19ae8cd5ea49b2c3fbc] may determine,
+- (a)[^c-a7fe5e966b95ac1d5724c89b49015a3f] is to be appointed on such terms and conditions as the Scottish Commission for Public Audit[^c-3d61cf87db15e19ae8cd5ea49b2c3fbc] may determine,
 - (b) is to hold and vacate office in accordance with the terms of the appointment,
-- (c) may resign as a member by notice in writing given to the Scottish Commission for Public Audit[^key-1139ba2ca1d098b81ae8e170b1b8395b].
+- (c) may resign as a member by notice in writing given to the Scottish Commission for Public Audit[^c-1139ba2ca1d098b81ae8e170b1b8395b].
 
-**4.** The Scottish Commission for Public Audit[^key-42b0946942ba415c09d480c0879163bd] may remove from membership of Audit Scotland a member appointed under section 10(2)(c) if they consider that the member is for any reason unable or unfit to exercise the functions of a member.
+**4.** The Scottish Commission for Public Audit[^c-42b0946942ba415c09d480c0879163bd] may remove from membership of Audit Scotland a member appointed under section 10(2)(c) if they consider that the member is for any reason unable or unfit to exercise the functions of a member.
 
 ### 5. Staff[^c1014098]
 
@@ -958,9 +958,9 @@ The Auditor General and the Chairman of the Accounts Commission are not entitled
 (2) Audit Scotland may—
 
 - (a) determine its own procedure,
-- (b)[^key-41efdddd22855c2fd972decb6d3bb049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-41efdddd22855c2fd972decb6d3bb049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-90daa5c1537c3b8fea7ea958871ca883] The Scottish Commission for Public Audit must appoint one of the members of Audit Scotland appointed under section 10(2)(c) to preside at the meetings of Audit Scotland.
+(3)[^c-90daa5c1537c3b8fea7ea958871ca883] The Scottish Commission for Public Audit must appoint one of the members of Audit Scotland appointed under section 10(2)(c) to preside at the meetings of Audit Scotland.
 
 (4) Audit Scotland must appoint one of its other members appointed under section 10(2)(c) to preside at its meetings where the member mentioned in sub-paragraph (3) is not present.
 
@@ -983,7 +983,7 @@ The Auditor General and the Chairman of the Accounts Commission are not entitled
 
 (introduced by section 12)
 
-**1.** The member of the Scottish Commission for Public Audit holding office under section 12(2)(a) on a dissolution of the Parliament continues to hold office until a convener of the Public[^key-fe144dda8dc6a738b62327c82c3adf1e] Audit Committee is appointed following a general election.
+**1.** The member of the Scottish Commission for Public Audit holding office under section 12(2)(a) on a dissolution of the Parliament continues to hold office until a convener of the Public[^c-fe144dda8dc6a738b62327c82c3adf1e] Audit Committee is appointed following a general election.
 
 **2.**[^c1014100] A member of the Commission appointed under section 12(2)(b) holds office until the Parliament is dissolved unless the member previously resigns, ceases to be a member of the Parliament otherwise than by virtue of a dissolution or is removed from office by resolution of the Parliament.
 
@@ -1000,7 +1000,7 @@ The Auditor General and the Chairman of the Accounts Commission are not entitled
 
 **7.** Any expenses incurred by the Commission in the exercise of its functions are to be paid by the corporation.
 
-**8.**[^key-404fb4a83ddfa95378541174f744f23b] For the purposes of the law of defamation, the following are absolutely privileged—
+**8.**[^c-404fb4a83ddfa95378541174f744f23b] For the purposes of the law of defamation, the following are absolutely privileged—
 
 - (a) any statement made in proceedings of the Commission,
 - (b) the publication under the authority of the Commission of any statement, and
@@ -1019,7 +1019,7 @@ In paragraph 8 of the Schedule to the National Galleries of Scotland Act 1906 (a
 - (a) in sub-paragraph (5), the words from “on or” to “any year” are repealed, and after “General” insert “ for auditing ”,
 - (b) sub-paragraph (6) is repealed.
 
-### 2. National Library of Scotland Act 1925 (c.73)[^key-1a4f30a66465c7a102475d2f0b8c0255]
+### 2. National Library of Scotland Act 1925 (c.73)[^c-1a4f30a66465c7a102475d2f0b8c0255]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1109,7 +1109,7 @@ In paragraph 8 of the Schedule to the National Galleries of Scotland Act 1906 (a
 
 (1) The National Health Service (Scotland) Act 1978 is amended as follows.
 
-(2)[^key-4d2033451277ba53e69a577e83c35508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4d2033451277ba53e69a577e83c35508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 86 (accounts of the Health Boards and the Agency)—
 
@@ -1177,7 +1177,7 @@ In section 10 of the Natural Heritage (Scotland) Act 1991 (reports and accounts 
 
 (1) The Further and Higher Education (Scotland) Act 1992 is amended as follows.
 
-(2)[^key-2c725b949a4d365d71dfeaed89c4bd8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2c725b949a4d365d71dfeaed89c4bd8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 18 of Schedule 2 (accounts of boards of management of colleges of further education)—
 
@@ -1189,7 +1189,7 @@ In section 10 of the Natural Heritage (Scotland) Act 1991 (reports and accounts 
 
   > (2A) The Scottish Ministers shall send the accounts to the Auditor General for Scotland for auditing.
 
-(4)[^key-2c725b949a4d365d71dfeaed89c4bd8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2c725b949a4d365d71dfeaed89c4bd8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Local Government etc. (Scotland) Act 1994 (c.39)
 
@@ -1250,63 +1250,63 @@ In section 16 of the Education (Scotland) Act 1996 (accounts, records and audit 
 
 [^c1014081]: Commencement: S. 4 wholly in force at 1.4.2001; s. 4 not in force at Royal Assent see s. 30(1); s. 4(1) in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3); s. 4(2)-(5) in force at 1.4.2001 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(4)](https://www.legislation.gov.uk/ssi/2000/10/article/2/4)
 
-[^key-6d2adcb99a65b0aec27deb6a4387d192]: Modification: S. 4 modified (1.4.2017) by [Budget (Scotland) Act 2017 (asp 1)](https://www.legislation.gov.uk/asp/2017/1), [ss. 6(4)](https://www.legislation.gov.uk/asp/2017/1/section/6/4), [10](https://www.legislation.gov.uk/asp/2017/1/section/10) (with s. 6(5))
+[^c-6d2adcb99a65b0aec27deb6a4387d192]: Modification: S. 4 modified (1.4.2017) by [Budget (Scotland) Act 2017 (asp 1)](https://www.legislation.gov.uk/asp/2017/1), [ss. 6(4)](https://www.legislation.gov.uk/asp/2017/1/section/6/4), [10](https://www.legislation.gov.uk/asp/2017/1/section/10) (with s. 6(5))
 
-[^key-963b62484a4ef41766aabbe2781cd5e7]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (29.3.2018) by [Budget (Scotland) Act 2018 (asp 6)](https://www.legislation.gov.uk/asp/2018/6), [ss. 6](https://www.legislation.gov.uk/asp/2018/6/section/6), [10](https://www.legislation.gov.uk/asp/2018/6/section/10)
+[^c-963b62484a4ef41766aabbe2781cd5e7]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (29.3.2018) by [Budget (Scotland) Act 2018 (asp 6)](https://www.legislation.gov.uk/asp/2018/6), [ss. 6](https://www.legislation.gov.uk/asp/2018/6/section/6), [10](https://www.legislation.gov.uk/asp/2018/6/section/10)
 
-[^key-0854fae8a7c28e841ea446e362622609]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (30.3.2019) by [Budget (Scotland) Act 2019 (asp 3)](https://www.legislation.gov.uk/asp/2019/3), [ss. 6](https://www.legislation.gov.uk/asp/2019/3/section/6), [10](https://www.legislation.gov.uk/asp/2019/3/section/10)
+[^c-0854fae8a7c28e841ea446e362622609]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (30.3.2019) by [Budget (Scotland) Act 2019 (asp 3)](https://www.legislation.gov.uk/asp/2019/3), [ss. 6](https://www.legislation.gov.uk/asp/2019/3/section/6), [10](https://www.legislation.gov.uk/asp/2019/3/section/10)
 
-[^key-936ac7a7f57058d3cb195703cb6676c8]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (19.3.2020) by [Budget (Scotland) Act 2020 (asp 5)](https://www.legislation.gov.uk/asp/2020/5), [ss. 6](https://www.legislation.gov.uk/asp/2020/5/section/6), [10](https://www.legislation.gov.uk/asp/2020/5/section/10)
+[^c-936ac7a7f57058d3cb195703cb6676c8]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (19.3.2020) by [Budget (Scotland) Act 2020 (asp 5)](https://www.legislation.gov.uk/asp/2020/5), [ss. 6](https://www.legislation.gov.uk/asp/2020/5/section/6), [10](https://www.legislation.gov.uk/asp/2020/5/section/10)
 
-[^key-1074b17e12fa587742a454da921278aa]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (30.3.2021) by [Budget (Scotland) (No.5) Act 2021 (asp 8)](https://www.legislation.gov.uk/asp/2021/8), [ss. 6](https://www.legislation.gov.uk/asp/2021/8/section/6), [10](https://www.legislation.gov.uk/asp/2021/8/section/10)
+[^c-1074b17e12fa587742a454da921278aa]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (30.3.2021) by [Budget (Scotland) (No.5) Act 2021 (asp 8)](https://www.legislation.gov.uk/asp/2021/8), [ss. 6](https://www.legislation.gov.uk/asp/2021/8/section/6), [10](https://www.legislation.gov.uk/asp/2021/8/section/10)
 
-[^key-5942461d5bb97b7064746bdaac485626]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (24.3.2022) by [Budget (Scotland) Act 2022 (asp 3)](https://www.legislation.gov.uk/asp/2022/3), [ss. 6](https://www.legislation.gov.uk/asp/2022/3/section/6), [10](https://www.legislation.gov.uk/asp/2022/3/section/10)
+[^c-5942461d5bb97b7064746bdaac485626]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (24.3.2022) by [Budget (Scotland) Act 2022 (asp 3)](https://www.legislation.gov.uk/asp/2022/3), [ss. 6](https://www.legislation.gov.uk/asp/2022/3/section/6), [10](https://www.legislation.gov.uk/asp/2022/3/section/10)
 
-[^key-aaa92e58ef74cd7954b802157473f211]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (28.3.2023) by [Budget (Scotland) Act 2023 (asp 2)](https://www.legislation.gov.uk/asp/2023/2), [ss. 6](https://www.legislation.gov.uk/asp/2023/2/section/6), [10](https://www.legislation.gov.uk/asp/2023/2/section/10)
+[^c-aaa92e58ef74cd7954b802157473f211]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (28.3.2023) by [Budget (Scotland) Act 2023 (asp 2)](https://www.legislation.gov.uk/asp/2023/2), [ss. 6](https://www.legislation.gov.uk/asp/2023/2/section/6), [10](https://www.legislation.gov.uk/asp/2023/2/section/10)
 
-[^key-581dca767cab19bf2aff7f9763283c14]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) applied (29.3.2024) by [Budget (Scotland) Act 2024 (asp 3)](https://www.legislation.gov.uk/asp/2024/3), [ss. 6(4)](https://www.legislation.gov.uk/asp/2024/3/section/6/4), [10](https://www.legislation.gov.uk/asp/2024/3/section/10)
+[^c-581dca767cab19bf2aff7f9763283c14]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) applied (29.3.2024) by [Budget (Scotland) Act 2024 (asp 3)](https://www.legislation.gov.uk/asp/2024/3), [ss. 6(4)](https://www.legislation.gov.uk/asp/2024/3/section/6/4), [10](https://www.legislation.gov.uk/asp/2024/3/section/10)
 
-[^key-4b7a343f10adcf9e31c45895ee5c3aad]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (29.3.2025) by [Budget (Scotland) Act 2025 (asp 7)](https://www.legislation.gov.uk/asp/2025/7), [ss. 6(4)](https://www.legislation.gov.uk/asp/2025/7/section/6/4), [10](https://www.legislation.gov.uk/asp/2025/7/section/10)
+[^c-4b7a343f10adcf9e31c45895ee5c3aad]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (29.3.2025) by [Budget (Scotland) Act 2025 (asp 7)](https://www.legislation.gov.uk/asp/2025/7), [ss. 6(4)](https://www.legislation.gov.uk/asp/2025/7/section/6/4), [10](https://www.legislation.gov.uk/asp/2025/7/section/10)
 
-[^key-c7e63a119d142454d088433987814fc9]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (1.4.2026) by [Budget (Scotland) Act 2026 (asp 8)](https://www.legislation.gov.uk/asp/2026/8), [ss. 6(4)](https://www.legislation.gov.uk/asp/2026/8/section/6/4), [10](https://www.legislation.gov.uk/asp/2026/8/section/10)
+[^c-c7e63a119d142454d088433987814fc9]: Modification: [S. 4](https://www.legislation.gov.uk/asp/2000/1/section/4) modified (1.4.2026) by [Budget (Scotland) Act 2026 (asp 8)](https://www.legislation.gov.uk/asp/2026/8), [ss. 6(4)](https://www.legislation.gov.uk/asp/2026/8/section/6/4), [10](https://www.legislation.gov.uk/asp/2026/8/section/10)
 
 [^c1014083]: Commencement: S. 5 wholly in force at 1.4.2000; s. 5 not in force at Royal Assent see s. 30(1); s. 5 in force for certain purposes at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); s. 5 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
-[^key-1f4487056728ae796d2fda96d8a83962]: Textual amendment: [S. 9](https://www.legislation.gov.uk/asp/2000/1/section/9) repealed (31.3.2020) by [The Public Services Reform (Registers of Scotland) Order 2020 (S.S.I. 2020/92)](https://www.legislation.gov.uk/ssi/2020/92), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/92/article/1/2), [2](https://www.legislation.gov.uk/ssi/2020/92/article/2)
+[^c-1f4487056728ae796d2fda96d8a83962]: Textual amendment: [S. 9](https://www.legislation.gov.uk/asp/2000/1/section/9) repealed (31.3.2020) by [The Public Services Reform (Registers of Scotland) Order 2020 (S.S.I. 2020/92)](https://www.legislation.gov.uk/ssi/2020/92), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/92/article/1/2), [2](https://www.legislation.gov.uk/ssi/2020/92/article/2)
 
 [^c1014084]: Commencement: S. 10 wholly in force at 1.4.2000; s. 10 not in force at Royal Assent see s. 30(1); s. 10(1)(2) wholly in force and s. 10(4)(6) in force for certain purposes at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); s. 10 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
-[^key-fdf8494062c3e227bb1ed2b2c6ed31e5]: Modification: S. 10(2)(c) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [4](https://www.legislation.gov.uk/ssi/2010/322/article/4)
+[^c-fdf8494062c3e227bb1ed2b2c6ed31e5]: Modification: S. 10(2)(c) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [4](https://www.legislation.gov.uk/ssi/2010/322/article/4)
 
-[^key-0e136ec2b0a8072535ebf378d3be0f11]: Textual amendment: Words in s. 10(2)(c) substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(2)](https://www.legislation.gov.uk/asp/2010/8/section/118/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-0e136ec2b0a8072535ebf378d3be0f11]: Textual amendment: Words in s. 10(2)(c) substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(2)](https://www.legislation.gov.uk/asp/2010/8/section/118/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
 [^c1014085]: Modification: S. 10(3) modified (1.1.2002) by [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65), [s. 103H](https://www.legislation.gov.uk/ukpga/1973/65/section/103H) (as inserted (1.1.2002) by [2000 asp 7](https://www.legislation.gov.uk/asp/2000/7), [s. 33(3)](https://www.legislation.gov.uk/asp/2000/7/section/33/3) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31))); [S.S.I. 2001/474](https://www.legislation.gov.uk/ssi/2001/474), [arts. 2](https://www.legislation.gov.uk/ssi/2001/474/article/2), [3](https://www.legislation.gov.uk/ssi/2001/474/article/3) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/ssi/2001/474/article/4))
 
 [^c1014086]: Commencement: S. 11 wholly in force at 1.4.2000; s. 11 not in force at Royal Assent see s. 30(1); s. 11(7) wholly in force and s. 11(9) in force for certain purposes at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); s. 11 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
-[^key-a809a2a172c0bce84bcf04c72ff76a79]: Textual amendment: S. 11(1)(ca) inserted (6.10.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 97(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/97/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
+[^c-a809a2a172c0bce84bcf04c72ff76a79]: Textual amendment: S. 11(1)(ca) inserted (6.10.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 97(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/97/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
 
-[^key-ea7176e37088cee503e3d2944f47b1d0]: Textual amendment: S. 11(5A) inserted (6.10.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 97(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/97/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
+[^c-ea7176e37088cee503e3d2944f47b1d0]: Textual amendment: S. 11(5A) inserted (6.10.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 97(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/97/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
 
 [^c1014087]: Modification: S. 11(9) modified (1.2.2000 with effect as mentioned in art. 2(3) of the amending S.S.I.) by [S.S.I. 2000/11](https://www.legislation.gov.uk/ssi/2000/11), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/11/article/2/3)
 
-[^key-1d7b0683e48a7585c81922459ab5a77a]: Textual amendment: Word in s. 12(2)(a) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(3)](https://www.legislation.gov.uk/asp/2010/8/section/118/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-1d7b0683e48a7585c81922459ab5a77a]: Textual amendment: Word in s. 12(2)(a) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(3)](https://www.legislation.gov.uk/asp/2010/8/section/118/3), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
 [^c1014088]: Modification: S. 13 modified (*temp.* from 1.2.2000 to 1.4.2000) by [S.S.I. 2000/11](https://www.legislation.gov.uk/ssi/2000/11), [art. 3](https://www.legislation.gov.uk/ssi/2000/11/article/3)
 
-[^key-233c098beda23e26a856988a73162164]: Textual amendment: S. 13(4A) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(a)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-233c098beda23e26a856988a73162164]: Textual amendment: S. 13(4A) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(a)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-d777b55de5b14ec7de5a92b2f7a4798e]: Modification: S. 13(4A)(5) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [6](https://www.legislation.gov.uk/ssi/2010/322/article/6)
+[^c-d777b55de5b14ec7de5a92b2f7a4798e]: Modification: S. 13(4A)(5) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [6](https://www.legislation.gov.uk/ssi/2010/322/article/6)
 
-[^key-5b49a88effd7e15f19a0678969c4e433]: Textual amendment: S. 13(5)(aa) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(b)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/b/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-5b49a88effd7e15f19a0678969c4e433]: Textual amendment: S. 13(5)(aa) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(b)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/b/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-d151e643469af1a4279f090114381496]: Textual amendment: S. 13(5)(b) omitted (6.4.2007) by virtue of [Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825)](https://www.legislation.gov.uk/uksi/2007/825), [regs. 1](https://www.legislation.gov.uk/uksi/2007/825/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/825/regulation/4/2/a)
+[^c-d151e643469af1a4279f090114381496]: Textual amendment: S. 13(5)(b) omitted (6.4.2007) by virtue of [Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825)](https://www.legislation.gov.uk/uksi/2007/825), [regs. 1](https://www.legislation.gov.uk/uksi/2007/825/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/825/regulation/4/2/a)
 
-[^key-c2e827419f78b173811064d782fd7e41]: Textual amendment: Words in s. 13(5)(c) omitted (6.4.2007) by virtue of [Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825)](https://www.legislation.gov.uk/uksi/2007/825), [regs. 1](https://www.legislation.gov.uk/uksi/2007/825/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/825/regulation/4/2/b)
+[^c-c2e827419f78b173811064d782fd7e41]: Textual amendment: Words in s. 13(5)(c) omitted (6.4.2007) by virtue of [Employment Equality (Age) (Consequential Amendments) Regulations 2007 (S.I. 2007/825)](https://www.legislation.gov.uk/uksi/2007/825), [regs. 1](https://www.legislation.gov.uk/uksi/2007/825/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/825/regulation/4/2/b)
 
-[^key-e2bb47b943256954369c89316053374f]: Textual amendment: Words in s. 13(5)(c) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(b)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/b/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-e2bb47b943256954369c89316053374f]: Textual amendment: Words in s. 13(5)(c) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(b)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/b/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-c95464762a767ecab63e3c96137f52f4]: Textual amendment: S. 13(5A) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(c)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-c95464762a767ecab63e3c96137f52f4]: Textual amendment: S. 13(5A) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(4)(c)](https://www.legislation.gov.uk/asp/2010/8/section/118/4/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
 [^c1014089]: Commencement: S. 14 wholly in force at 1.4.2000; s. 14 not in force at Royal Assent see s. 30(1); s. 14(1) in force at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); s. 14 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
@@ -1314,53 +1314,53 @@ In section 16 of the Education (Scotland) Act 1996 (accounts, records and audit 
 
 [^c1014091]: Modification: S. 21(2) applied (with modifications) (1.4.2000 with application as mentioned in art. 6(1) of the amending S.S.I.) by [S.S.I. 2000/46](https://www.legislation.gov.uk/ssi/2000/46), [art. 6(3)](https://www.legislation.gov.uk/ssi/2000/46/article/6/3)
 
-[^key-8ccf288f84ba1079c54e3401c6245ff4]: Textual amendment: Words in s. 21(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/27) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-8ccf288f84ba1079c54e3401c6245ff4]: Textual amendment: Words in s. 21(5)(a) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/27) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-997dbd5c31af47e5cf5c422b822fd85d]: Textual amendment: Words in s. 21(5) repealed (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 4(a)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/4/a)
+[^c-997dbd5c31af47e5cf5c422b822fd85d]: Textual amendment: Words in s. 21(5) repealed (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 4(a)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/4/a)
 
-[^key-e43f7cc72d31f632e791baa32ff45b8f]: Textual amendment: S. 21(6) inserted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 4(b)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/4/b)
+[^c-e43f7cc72d31f632e791baa32ff45b8f]: Textual amendment: S. 21(6) inserted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 4(b)](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/4/b)
 
 [^c1014092]: Modification: S. 22(5) applied (with modifications) (1.4.2000 with application as mentioned in art. 6(1) of the amending S.S.I.) by [S.S.I. 2000/46](https://www.legislation.gov.uk/ssi/2000/46), [art. 6(3)](https://www.legislation.gov.uk/ssi/2000/46/article/6/3)
 
-[^key-e5a7afcc0d919333bef9792cfe2148ab]: Textual amendment: Words in s. 22(5)(b) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(5)](https://www.legislation.gov.uk/asp/2010/8/section/118/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-e5a7afcc0d919333bef9792cfe2148ab]: Textual amendment: Words in s. 22(5)(b) inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(5)](https://www.legislation.gov.uk/asp/2010/8/section/118/5), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-a5f7dd94b227a7830150d3ce4f6ac284]: Modification: S. 23 modified by 2005 asp 5 s. 39C (as inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 113](https://www.legislation.gov.uk/asp/2012/8/section/113), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b))
+[^c-a5f7dd94b227a7830150d3ce4f6ac284]: Modification: S. 23 modified by 2005 asp 5 s. 39C (as inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 113](https://www.legislation.gov.uk/asp/2012/8/section/113), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b))
 
-[^key-e042e9751bc09eed4b8265fdbdd771ab]: Modification: S. 23 modified (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 43](https://www.legislation.gov.uk/asp/2012/8/section/43), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-e042e9751bc09eed4b8265fdbdd771ab]: Modification: S. 23 modified (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 43](https://www.legislation.gov.uk/asp/2012/8/section/43), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
 [^c1014093]: Textual amendment: Words in s. 23(7) substituted (1.4.2002) by [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [Sch. 7 para. 27(2)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/27/2) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3) (subject to [art. 3](https://www.legislation.gov.uk/ssi/2002/118/article/3))
 
-[^key-6c4b268efd26854683609f6e57ff451e]: Textual amendment: Word in s. 23(7) substituted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 5](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/5) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
+[^c-6c4b268efd26854683609f6e57ff451e]: Textual amendment: Word in s. 23(7) substituted (1.7.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [s. 37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2), [sch. 5 para. 5](https://www.legislation.gov.uk/asp/2005/3/schedule/5/paragraph/5) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/351/article/3/3))
 
-[^key-5a369dae67636184f709249812b5b422]: Textual amendment: S. 23(11) added (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(6)](https://www.legislation.gov.uk/asp/2010/8/section/118/6), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-5a369dae67636184f709249812b5b422]: Textual amendment: S. 23(11) added (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(6)](https://www.legislation.gov.uk/asp/2010/8/section/118/6), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-a3079faa06a941df4ec036ef29d61ac6]: Modification: S. 23A applied (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 42(7)](https://www.legislation.gov.uk/asp/2012/8/section/42/7), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-a3079faa06a941df4ec036ef29d61ac6]: Modification: S. 23A applied (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 42(7)](https://www.legislation.gov.uk/asp/2012/8/section/42/7), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-66decedbcdb5344f7d5cadcf94c6d8dc]: Textual amendment: S. 23A inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(7)](https://www.legislation.gov.uk/asp/2010/8/section/118/7), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-66decedbcdb5344f7d5cadcf94c6d8dc]: Textual amendment: S. 23A inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(7)](https://www.legislation.gov.uk/asp/2010/8/section/118/7), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
 [^c1014094]: Commencement: S. 24 wholly in force at 1.4.2000; s. 24 not in force at Royal Assent see s. 30(1); s. 24(5)(6) in force for certain purposes at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); s. 24 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
-[^key-5705c5cf2c3c72c92df3716c9fcebfd5]: Modification: S. 24 applied (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 42(7)](https://www.legislation.gov.uk/asp/2012/8/section/42/7), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-5705c5cf2c3c72c92df3716c9fcebfd5]: Modification: S. 24 applied (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 42(7)](https://www.legislation.gov.uk/asp/2012/8/section/42/7), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-4098a1b1e40d63cd47b97207a0fb405e]: Textual amendment: Pt. 2A (ss. 26A-26G) inserted (6.10.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 97(3)](https://www.legislation.gov.uk/asp/2010/13/section/97/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
+[^c-4098a1b1e40d63cd47b97207a0fb405e]: Textual amendment: Pt. 2A (ss. 26A-26G) inserted (6.10.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 97(3)](https://www.legislation.gov.uk/asp/2010/13/section/97/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
 
-[^key-cf1e14a783fa6f41144915ac658e4046]: Textual amendment: Words in s. 26B(3)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 67](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/67) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-cf1e14a783fa6f41144915ac658e4046]: Textual amendment: Words in s. 26B(3)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 67](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/67) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-4669c451b61be62c4297255716bf8bac]: Textual amendment: [S. 26B(3)(b)](https://www.legislation.gov.uk/asp/2000/1/section/26B/3/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/8/2) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-4669c451b61be62c4297255716bf8bac]: Textual amendment: [S. 26B(3)(b)](https://www.legislation.gov.uk/asp/2000/1/section/26B/3/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/8/2) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-8be5a6cdf965a46ea436730a21e7f1db]: Textual amendment: Words in s. 26C(3)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 68](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/68) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-8be5a6cdf965a46ea436730a21e7f1db]: Textual amendment: Words in s. 26C(3)(a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 68](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/68) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-dafcad4752d1130550f9e264c7df4df7]: Textual amendment: [S. 26C(3)(b)](https://www.legislation.gov.uk/asp/2000/1/section/26C/3/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 8(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/8/3) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-dafcad4752d1130550f9e264c7df4df7]: Textual amendment: [S. 26C(3)(b)](https://www.legislation.gov.uk/asp/2000/1/section/26C/3/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 8(3)](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/8/3) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-35a55a69f0c0bea5ca634df0ed497a6b]: Textual amendment: S. 26D(4)(a) substituted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/24); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-35a55a69f0c0bea5ca634df0ed497a6b]: Textual amendment: S. 26D(4)(a) substituted (1.4.2012) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/24); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-956bcc84a50b26b2368e47a9fa2876c1]: Textual amendment: S. 26D(4)(b)-(bb) substituted for s. 26D(4)(b) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 47(2)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/47/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-956bcc84a50b26b2368e47a9fa2876c1]: Textual amendment: S. 26D(4)(b)-(bb) substituted for s. 26D(4)(b) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 47(2)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/47/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-978ec3a75080656ed96422e4fe9476a8]: Textual amendment: Words in s. 26D(7) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 47(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/47/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-978ec3a75080656ed96422e4fe9476a8]: Textual amendment: Words in s. 26D(7) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 47(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/47/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-a3abf87f9da4ed216f101662d825443c]: Textual amendment: Words in [s. 26F(3)(a)](https://www.legislation.gov.uk/asp/2000/1/section/26F/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/29); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-a3abf87f9da4ed216f101662d825443c]: Textual amendment: Words in [s. 26F(3)(a)](https://www.legislation.gov.uk/asp/2000/1/section/26F/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/29); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-21055912141e5a2b45bf9edf23c12b9e]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2000/1/section/29/1) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 69](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/69) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-21055912141e5a2b45bf9edf23c12b9e]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/asp/2000/1/section/29/1) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 69](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/69) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c1014095]: Subordinate legislation: S. 30(1) power fully exercised (18.1.2000): different dates appointed for specified provisions by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2](https://www.legislation.gov.uk/ssi/2000/10/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule)
 
@@ -1368,44 +1368,44 @@ In section 16 of the Education (Scotland) Act 1996 (accounts, records and audit 
 
 [^c1014097]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2000/1/schedule/1/paragraph/6) repealed (1.4.2002) by [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [Sch. 7 para. 27(3)(a)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/27/3/a) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3) (subject to [art. 3](https://www.legislation.gov.uk/ssi/2002/118/article/3))
 
-[^key-9a076dc8a4f24a0b211fc35e1dbcf1d0]: Modification: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2000/1/schedule/2/paragraph/2) excluded (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [5](https://www.legislation.gov.uk/ssi/2010/322/article/5)
+[^c-9a076dc8a4f24a0b211fc35e1dbcf1d0]: Modification: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2000/1/schedule/2/paragraph/2) excluded (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [5](https://www.legislation.gov.uk/ssi/2010/322/article/5)
 
-[^key-c2f3a59afa8daeba6636ccef51a3fbbe]: Textual amendment: Word in Sch. 2 para. 2 inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(a)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/a/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-c2f3a59afa8daeba6636ccef51a3fbbe]: Textual amendment: Word in Sch. 2 para. 2 inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(a)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/a/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-7a266c4703c07327cbde8a3bd33ef293]: Textual amendment: Words in Sch. 2 para. 2 repealed (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/a/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-7a266c4703c07327cbde8a3bd33ef293]: Textual amendment: Words in Sch. 2 para. 2 repealed (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/a/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-6390780d8a8ea6bdf1d179c44eae8542]: Modification: [Sch. 2 para. 2A](https://www.legislation.gov.uk/asp/2000/1/schedule/2/paragraph/2A) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [4](https://www.legislation.gov.uk/ssi/2010/322/article/4)
+[^c-6390780d8a8ea6bdf1d179c44eae8542]: Modification: [Sch. 2 para. 2A](https://www.legislation.gov.uk/asp/2000/1/schedule/2/paragraph/2A) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [4](https://www.legislation.gov.uk/ssi/2010/322/article/4)
 
-[^key-aab5ecc7832c574986720be3c9bc9816]: Textual amendment: Sch. 2 paras. 2A, 2B inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(b)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-aab5ecc7832c574986720be3c9bc9816]: Textual amendment: Sch. 2 paras. 2A, 2B inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(b)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-a7fe5e966b95ac1d5724c89b49015a3f]: Modification: Sch. 2 para. 3(a) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [4](https://www.legislation.gov.uk/ssi/2010/322/article/4)
+[^c-a7fe5e966b95ac1d5724c89b49015a3f]: Modification: Sch. 2 para. 3(a) restricted (1.10.2010) by [The Public Services Reform (Scotland) Act 2010 (Ancillary Provisions) Order 2010 (S.S.I. 2010/322)](https://www.legislation.gov.uk/ssi/2010/322), [arts. 1](https://www.legislation.gov.uk/ssi/2010/322/article/1), [4](https://www.legislation.gov.uk/ssi/2010/322/article/4)
 
-[^key-3d61cf87db15e19ae8cd5ea49b2c3fbc]: Textual amendment: Words in Sch. 2 para. 3(a) substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(c)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/c/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-3d61cf87db15e19ae8cd5ea49b2c3fbc]: Textual amendment: Words in Sch. 2 para. 3(a) substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(c)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/c/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-1139ba2ca1d098b81ae8e170b1b8395b]: Textual amendment: Words in Sch. 2 para. 3(c) substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(c)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/c/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-1139ba2ca1d098b81ae8e170b1b8395b]: Textual amendment: Words in Sch. 2 para. 3(c) substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(c)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/c/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-42b0946942ba415c09d480c0879163bd]: Textual amendment: Words in Sch. 2 para. 4 substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(d)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-42b0946942ba415c09d480c0879163bd]: Textual amendment: Words in Sch. 2 para. 4 substituted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(d)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/d), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
 [^c1014098]: Commencement: Sch. 2 para. 5 wholly in force at 1.4.2000; Sch. 2 para. 5 not in force at Royal Assent see s. 30(1); Sch. 2 para. 5 in force for certain purposes at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); sch. 2 para. 5 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
 [^c1014099]: Commencement: Sch. 2 para. 6 wholly in force at 1.4.2000; Sch. 2 para. 6 not in force at Royal Assent see s. 30(1); Sch. 2 para. 6 in force for certain purposes at 1.2.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(2)](https://www.legislation.gov.uk/ssi/2000/10/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2000/10/schedule); sch. 2 para. 6 in force insofar as not already in force at 1.4.2000 by [S.S.I. 2000/10](https://www.legislation.gov.uk/ssi/2000/10), [art. 2(3)](https://www.legislation.gov.uk/ssi/2000/10/article/2/3)
 
-[^key-41efdddd22855c2fd972decb6d3bb049]: Textual amendment: Sch. 2 para. 7(2)(b) repealed (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(e)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/e/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-41efdddd22855c2fd972decb6d3bb049]: Textual amendment: Sch. 2 para. 7(2)(b) repealed (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(e)(i)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/e/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-90daa5c1537c3b8fea7ea958871ca883]: Textual amendment: Sch. 2 para. 7(3)(4) added (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(e)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/e/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-90daa5c1537c3b8fea7ea958871ca883]: Textual amendment: Sch. 2 para. 7(3)(4) added (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(8)(e)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/118/8/e/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-fe144dda8dc6a738b62327c82c3adf1e]: Textual amendment: Word in Sch. 3 para. 1 inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(9)(a)](https://www.legislation.gov.uk/asp/2010/8/section/118/9/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-fe144dda8dc6a738b62327c82c3adf1e]: Textual amendment: Word in Sch. 3 para. 1 inserted (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(9)(a)](https://www.legislation.gov.uk/asp/2010/8/section/118/9/a), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
 [^c1014100]: Modification: Sch. 3 para. 2 applied (*temp.* from 1.2.2000) by [S.S.I. 2000/11](https://www.legislation.gov.uk/ssi/2000/11), [art. 4(2)](https://www.legislation.gov.uk/ssi/2000/11/article/4/2)
 
-[^key-404fb4a83ddfa95378541174f744f23b]: Textual amendment: Sch. 3 paras. 8, 9 added (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(9)(b)](https://www.legislation.gov.uk/asp/2010/8/section/118/9/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-404fb4a83ddfa95378541174f744f23b]: Textual amendment: Sch. 3 paras. 8, 9 added (1.10.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 118(9)(b)](https://www.legislation.gov.uk/asp/2010/8/section/118/9/b), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-1a4f30a66465c7a102475d2f0b8c0255]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2000/1/schedule/4/paragraph/2) repealed (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-1a4f30a66465c7a102475d2f0b8c0255]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2000/1/schedule/4/paragraph/2) repealed (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-4d2033451277ba53e69a577e83c35508]: Textual amendment: Sch. 4 para. 4(2) repealed (1.11.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
+[^c-4d2033451277ba53e69a577e83c35508]: Textual amendment: Sch. 4 para. 4(2) repealed (1.11.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [s. 43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3), [sch. 3](https://www.legislation.gov.uk/asp/2005/13/schedule/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(b)](https://www.legislation.gov.uk/ssi/2005/492/article/3/b), [sch. 2](https://www.legislation.gov.uk/ssi/2005/492/schedule/2)
 
 [^c1014101]: Textual amendment: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2000/1/schedule/4/paragraph/7) repealed (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 28(2)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/28/2); [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2](https://www.legislation.gov.uk/ssi/2001/397/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) Table (subject to transitional provisions and savings in arts. 3-6)
 
-[^key-2c725b949a4d365d71dfeaed89c4bd8b]: Textual amendment: Sch. 4 para. 11(2)(4) repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 8](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/8); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-2c725b949a4d365d71dfeaed89c4bd8b]: Textual amendment: Sch. 4 para. 11(2)(4) repealed (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [s. 36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2), [sch. 3 para. 8](https://www.legislation.gov.uk/asp/2005/6/schedule/3/paragraph/8); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
 [^c1014102]: Textual amendment: [Sch. 4 para. 12(2)(4)](https://www.legislation.gov.uk/asp/2000/1/schedule/4/paragraph/12/2/4) repealed (1.4.2002) by [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [Sch. 7 para. 27(3)(b)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/27/3/b) (with [s. 67](https://www.legislation.gov.uk/asp/2002/3/section/67)); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2(3)](https://www.legislation.gov.uk/ssi/2002/118/article/2/3) (subject to [art. 3](https://www.legislation.gov.uk/ssi/2002/118/article/3))

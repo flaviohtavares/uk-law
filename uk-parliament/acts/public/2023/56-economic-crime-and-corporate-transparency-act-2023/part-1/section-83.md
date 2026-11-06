@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Power to require additional information[^key-6e25db9f2c2482fa67b530a0c3e0b7a3][^key-8c087328a46447857a61caa65779d4e2]
+## 83. Power to require additional information[^c-6e25db9f2c2482fa67b530a0c3e0b7a3][^c-8c087328a46447857a61caa65779d4e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e25db9f2c2482fa67b530a0c3e0b7a3]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6e25db9f2c2482fa67b530a0c3e0b7a3]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-8c087328a46447857a61caa65779d4e2]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/56/section/83) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z25)
+[^c-8c087328a46447857a61caa65779d4e2]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2023/56/section/83) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z25)

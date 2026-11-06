@@ -24,9 +24,9 @@ Section 88
 
 ### Administration of Justice Act 1985 (c. 61)
 
-**1.**[^key-0de8cf8abc12a7cf8e8d2f6465ea4b4e] The Administration of Justice Act 1985 is amended as follows.
+**1.**[^c-0de8cf8abc12a7cf8e8d2f6465ea4b4e] The Administration of Justice Act 1985 is amended as follows.
 
-**2.**[^key-b01d364cee92714afb3ac8050c37a941] (1) In section 16 (conditional licences), subsection (1) is amended as follows.
+**2.**[^c-b01d364cee92714afb3ac8050c37a941] (1) In section 16 (conditional licences), subsection (1) is amended as follows.
 
 (2) For paragraph (b) substitute—
 
@@ -43,7 +43,7 @@ Section 88
 
 (6) In paragraph (ea), after “22” insert “ (including that section as applied by section 53 of the Courts and Legal Services Act 1990) ”.
 
-**3.**[^key-5faf640ceae2e3030db98d108dc4a9a1] (1) Section 26 (proceedings in disciplinary cases) is amended as follows.
+**3.**[^c-5faf640ceae2e3030db98d108dc4a9a1] (1) Section 26 (proceedings in disciplinary cases) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -58,7 +58,7 @@ Section 88
 > - (a) a licence under this Part, or
 > - (b) a licence under section 53 of the Courts and Legal Services Act 1990.
 
-**4.**[^key-47ae44a808f297661343f5f446d89d45] (1) Section 28 (revocation of licence on grounds of fraud or error) is amended as follows.
+**4.**[^c-47ae44a808f297661343f5f446d89d45] (1) Section 28 (revocation of licence on grounds of fraud or error) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -75,13 +75,13 @@ Section 88
 
 > (7) In this section “**relevant licence**” has the meaning given by section 26.
 
-**5.**[^key-4fc26b5fbfa32245fab3b0ab91c42e46] (1) Section 33A (administration of oaths by licensed conveyancers) is amended as follows.
+**5.**[^c-4fc26b5fbfa32245fab3b0ab91c42e46] (1) Section 33A (administration of oaths by licensed conveyancers) is amended as follows.
 
 (2) In the heading, after “conveyancers” insert “ or licensed CLC practitioners ”.
 
 (3) In the section, after “conveyancers” insert “ or licensed CLC practitioners ”.
 
-**6.**[^key-d0d10b36f654038041042ae1a9ecf608] (1) Section 34 (modification of existing enactments relating to conveyancing etc) is amended as follows.
+**6.**[^c-d0d10b36f654038041042ae1a9ecf608] (1) Section 34 (modification of existing enactments relating to conveyancing etc) is amended as follows.
 
 (2) In subsection (2), after “a recognised body” insert “ which is a conveyancing services body ”.
 
@@ -93,13 +93,13 @@ Section 88
 
 > (4) In this section “**conveyancing services body**” has the meaning given by section 32A.
 
-**7.**[^key-bc38fb542de81607f5bb3ecab509c7b3] In section 39 (interpretation of Part 2), in subsection (1), at the appropriate place insert—
+**7.**[^c-bc38fb542de81607f5bb3ecab509c7b3] In section 39 (interpretation of Part 2), in subsection (1), at the appropriate place insert—
 
 > “**licensed CLC practitioner**” means a person, other than a licensed conveyancer, who holds a licence under section 53 of the Courts and Legal Services Act 1990;
 
 .
 
-**8.**[^key-a4d2e422ff25ae92cfc1f1c20e00bc81] In Schedule 3 (the Council for Licensed Conveyancers: supplementary provisions), in paragraph 2 (constitution of the Council), in sub-paragraph (1)(a)—
+**8.**[^c-a4d2e422ff25ae92cfc1f1c20e00bc81] In Schedule 3 (the Council for Licensed Conveyancers: supplementary provisions), in paragraph 2 (constitution of the Council), in sub-paragraph (1)(a)—
 
 - (a) omit the “or” at the end of sub-paragraph (i);
 - (b) after sub-paragraph (i) insert—
@@ -108,7 +108,7 @@ Section 88
 
   .
 
-**9.**[^key-adf4634a8ecfdcab928b1aae480329a3] (1) Schedule 6 (bodies recognised under section 32: supplementary provisions) is amended as follows.
+**9.**[^c-adf4634a8ecfdcab928b1aae480329a3] (1) Schedule 6 (bodies recognised under section 32: supplementary provisions) is amended as follows.
 
 (2) In paragraph 3 (preliminary investigation by the Investigating Committee etc)—
 
@@ -133,17 +133,17 @@ Section 88
 
 ### Courts and Legal Services Act 1990 (c. 41)
 
-**10.**[^key-c61a3cd9f39ff271a3b81e6442db77b8] The Courts and Legal Services Act 1990 is amended as follows.
+**10.**[^c-c61a3cd9f39ff271a3b81e6442db77b8] The Courts and Legal Services Act 1990 is amended as follows.
 
-**11.**[^key-5b4a2624f341dedc43236e2509a111a8] In section 75 (judges etc barred from legal practice), in paragraph (c), for “or licensed conveyancer” substitute “ , licensed conveyancer or licensed CLC practitioner ”.
+**11.**[^c-5b4a2624f341dedc43236e2509a111a8] In section 75 (judges etc barred from legal practice), in paragraph (c), for “or licensed conveyancer” substitute “ , licensed conveyancer or licensed CLC practitioner ”.
 
-**12.**[^key-4245c2f1f7fb5ca3e56054a5851e3ce1] In section 119 (interpretation), in subsection (1), at the appropriate place insert—
+**12.**[^c-4245c2f1f7fb5ca3e56054a5851e3ce1] In section 119 (interpretation), in subsection (1), at the appropriate place insert—
 
 > “**licensed CLC practitioner**” has the meaning given in section 53;
 
 .
 
-**13.**[^key-ffc51e4f49fc28579fd4a38d1da8aeae] (1) Schedule 8 (licensed conveyancers) is amended as follows.
+**13.**[^c-ffc51e4f49fc28579fd4a38d1da8aeae] (1) Schedule 8 (licensed conveyancers) is amended as follows.
 
 (2) In the heading, after “CONVEYANCERS” insert “ AND LICENSED CLC PRACTITIONERS ”.
 
@@ -238,9 +238,9 @@ Section 88
 
 ### Legal Services Act 2007 (c. 29)
 
-**14.**[^key-b97800e53cdef9e2e4d1822cbafc7d06] The Legal Services Act 2007 is amended as follows.
+**14.**[^c-b97800e53cdef9e2e4d1822cbafc7d06] The Legal Services Act 2007 is amended as follows.
 
-**15.**[^key-3fec1ac9136fe215c9d0005e3e21548a] (1) Section 104 (prevention of regulatory conflict: accounts rules) is amended as follows.
+**15.**[^c-3fec1ac9136fe215c9d0005e3e21548a] (1) Section 104 (prevention of regulatory conflict: accounts rules) is amended as follows.
 
 (2) In subsection (2), after “conveyancer” insert “ or licensed CLC practitioner ”.
 
@@ -248,7 +248,7 @@ Section 88
 
 > (3) In this section “**licensed CLC practitioner**” means a person, other than a licensed conveyancer, who holds a licence under section 53 of the Courts and Legal Services Act 1990.
 
-**16.**[^key-fec99e3e976fd34075416d5cd74bde11] (1) In Schedule 5 (authorised persons), paragraph 11 (rights during transitional period: licensed conveyancers) is amended as follows.
+**16.**[^c-fec99e3e976fd34075416d5cd74bde11] (1) In Schedule 5 (authorised persons), paragraph 11 (rights during transitional period: licensed conveyancers) is amended as follows.
 
 (2) After sub-paragraph (1) insert—
 
@@ -277,7 +277,7 @@ Section 88
 
 (8) In sub-paragraph (6), after “licence” insert “ or a licence under section 53 of the Courts and Legal Services Act 1990 ”.
 
-**17.**[^key-383a3a30849c6a21b653fd8225f6a981] In Schedule 24 (index of defined expressions), at the appropriate places insert—
+**17.**[^c-383a3a30849c6a21b653fd8225f6a981] In Schedule 24 (index of defined expressions), at the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -293,36 +293,36 @@ Section 88
 
 ## Annotations
 
-[^key-0de8cf8abc12a7cf8e8d2f6465ea4b4e]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/1) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-0de8cf8abc12a7cf8e8d2f6465ea4b4e]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/1) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-b01d364cee92714afb3ac8050c37a941]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/2) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-b01d364cee92714afb3ac8050c37a941]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/2) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-5faf640ceae2e3030db98d108dc4a9a1]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/3) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-5faf640ceae2e3030db98d108dc4a9a1]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/3) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-47ae44a808f297661343f5f446d89d45]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/4) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-47ae44a808f297661343f5f446d89d45]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/4) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-4fc26b5fbfa32245fab3b0ab91c42e46]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/5) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-4fc26b5fbfa32245fab3b0ab91c42e46]: Commencement: [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/5) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-d0d10b36f654038041042ae1a9ecf608]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/6) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-d0d10b36f654038041042ae1a9ecf608]: Commencement: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/6) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-bc38fb542de81607f5bb3ecab509c7b3]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/7) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-bc38fb542de81607f5bb3ecab509c7b3]: Commencement: [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/7) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-a4d2e422ff25ae92cfc1f1c20e00bc81]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/8) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-a4d2e422ff25ae92cfc1f1c20e00bc81]: Commencement: [Sch. 19 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/8) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-adf4634a8ecfdcab928b1aae480329a3]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/9) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-adf4634a8ecfdcab928b1aae480329a3]: Commencement: [Sch. 19 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/9) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-c61a3cd9f39ff271a3b81e6442db77b8]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/10) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-c61a3cd9f39ff271a3b81e6442db77b8]: Commencement: [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/10) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-5b4a2624f341dedc43236e2509a111a8]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/11) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-5b4a2624f341dedc43236e2509a111a8]: Commencement: [Sch. 19 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/11) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-4245c2f1f7fb5ca3e56054a5851e3ce1]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/12) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-4245c2f1f7fb5ca3e56054a5851e3ce1]: Commencement: [Sch. 19 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/12) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-ffc51e4f49fc28579fd4a38d1da8aeae]: Commencement: [Sch. 19 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-ffc51e4f49fc28579fd4a38d1da8aeae]: Commencement: [Sch. 19 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/13) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-b97800e53cdef9e2e4d1822cbafc7d06]: Commencement: [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/14) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-b97800e53cdef9e2e4d1822cbafc7d06]: Commencement: [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/14) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-3fec1ac9136fe215c9d0005e3e21548a]: Commencement: [Sch. 19 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/15) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-3fec1ac9136fe215c9d0005e3e21548a]: Commencement: [Sch. 19 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/15) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-fec99e3e976fd34075416d5cd74bde11]: Commencement: [Sch. 19 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/16) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-fec99e3e976fd34075416d5cd74bde11]: Commencement: [Sch. 19 para. 16](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/16) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-383a3a30849c6a21b653fd8225f6a981]: Commencement: [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/17) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-383a3a30849c6a21b653fd8225f6a981]: Commencement: [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/17) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)

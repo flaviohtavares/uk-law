@@ -24,7 +24,7 @@ Regulation 28
 
 ### PART 1 — Introduction
 
-#### 1. Overview of Schedule[^key-09a9326ecde82e9b4023324e4f382d31]
+#### 1. Overview of Schedule[^c-09a9326ecde82e9b4023324e4f382d31]
 
 (1) This Schedule is arranged as follows.
 
@@ -41,11 +41,11 @@ Regulation 28
 
 ### PART 2 — Household income
 
-#### 2. Household income of an eligible student[^key-67d91172d4aad30c2ea937ee7091116f]
+#### 2. Household income of an eligible student[^c-67d91172d4aad30c2ea937ee7091116f]
 
 This Part makes provision about the calculation of an eligible student's household income.
 
-#### 3. Calculation of household income[^key-b802ca511db7c7ffe0a9ae24018703e0]
+#### 3. Calculation of household income[^c-b802ca511db7c7ffe0a9ae24018703e0]
 
 (1) An eligible student's household income is calculated by applying the following steps—
 
@@ -96,7 +96,7 @@ Table 2
 | --- | --- |
 | Beginning on or after 1 September 2019 | £1,130 |
 
-#### 4. Independent eligible students[^key-52d4c2be0906a1da395000e0dba4fb15]
+#### 4. Independent eligible students[^c-52d4c2be0906a1da395000e0dba4fb15]
 
 (1) An eligible student is an independent eligible student if one of the following cases applies—
 
@@ -128,7 +128,7 @@ Either—
 
 *Case 6*
 
-The student's parents reside outside the United Kingdom, Gibraltar and[^key-8f161df220772a6fc4d6dda3e9ab9325] the European Union and the Welsh Ministers are satisfied that—
+The student's parents reside outside the United Kingdom, Gibraltar and[^c-8f161df220772a6fc4d6dda3e9ab9325] the European Union and the Welsh Ministers are satisfied that—
 
 - (a) the assessment of the household income by reference to the parents' income would place those parents in jeopardy, or
 - (b) it would not be reasonably practicable for the parents to send funds to the United Kingdom for the purposes of supporting the student.
@@ -171,7 +171,7 @@ The eligible student held a state studentship or comparable award.
 
 The eligible student received a pension, allowance, or other benefit paid by reason of the student's disability, injury or sickness or for a reason associated with childbirth.
 
-#### 5. Eligible student's parent dies leaving a surviving parent[^key-a8ec74862ff7e79ca28426a447412270]
+#### 5. Eligible student's parent dies leaving a surviving parent[^c-a8ec74862ff7e79ca28426a447412270]
 
 (1) Where—
 
@@ -190,7 +190,7 @@ where—
 - X is the number of weeks in the current academic year during which both parents were alive, and
 - Y is the remaining number of weeks in the current academic year.
 
-#### 6. Separation of eligible student's parents[^key-242b322580770c37038928d3eced3c9c]
+#### 6. Separation of eligible student's parents[^c-242b322580770c37038928d3eced3c9c]
 
 (1) Where the eligible student's parents are separated for the duration of the current academic year, only the residual income of the parent selected under sub-paragraph (3) is aggregated for the purposes of Step 1 in paragraph 3(1).
 
@@ -206,7 +206,7 @@ where—
 
 (3) Where sub-paragraph (1) or (2) applies, the Welsh Ministers must select the parent whose residual income it is the most appropriate to take into account in the circumstances.
 
-#### 7. Separation of eligible student's parent or independent eligible student from partner[^key-a069b24d5ed3369d4938a187b06f2515]
+#### 7. Separation of eligible student's parent or independent eligible student from partner[^c-a069b24d5ed3369d4938a187b06f2515]
 
 (1) Where—
 
@@ -244,7 +244,7 @@ were not separated.
 
 (4) Where an eligible student has more than one partner in any one academic year, this paragraph and Step 1 of paragraph 3(1) apply in relation to each partner.
 
-#### 8. Independent eligible student or partner is a parent of an eligible student[^key-0c5b39f2b158f2edc410e99775ef3e94]
+#### 8. Independent eligible student or partner is a parent of an eligible student[^c-0c5b39f2b158f2edc410e99775ef3e94]
 
 Where—
 
@@ -255,16 +255,16 @@ the residual income of PI is not aggregated under List B of Step 1 in paragraph 
 
 ### PART 3 — Taxable income
 
-#### 9. Taxable income[^key-5a55d8f37560bb6aababaa8ac2b37b6c]
+#### 9. Taxable income[^c-5a55d8f37560bb6aababaa8ac2b37b6c]
 
 (1) In this Schedule, a person's taxable income means—
 
 - (a) the aggregate of—
   - (i) the total income on which the person is charged to income tax under Step 1 of section 23 of the Income Tax Act 2007 [^c23728411], and
   - (ii) if not already a component of total income under sub-paragraph (i), payments and other benefits specified in section 401(1) of the Income Tax (Earnings and Pensions) Act 2003 [^c23728421] received by the person or treated as received by the person (but disregard section 401(2) of that Act for the purposes of this sub-paragraph), or
-- (b) where the income tax legislation of a member State[^key-6d4c5d37259f00e2fabaa322f55f6ac1] applies to the person's income, the person's total income from all sources as determined for the purposes of the income tax legislation of that member State.
+- (b) where the income tax legislation of a member State[^c-6d4c5d37259f00e2fabaa322f55f6ac1] applies to the person's income, the person's total income from all sources as determined for the purposes of the income tax legislation of that member State.
 
-(2)[^key-7661d1fe853be5bd71fa3c4fe973f400] For the purposes of sub-paragraph (1)(b), where the income tax legislation of—
+(2)[^c-7661d1fe853be5bd71fa3c4fe973f400] For the purposes of sub-paragraph (1)(b), where the income tax legislation of—
 
 - (a) the United Kingdom and one or more member State, or
 - (b) more than one member State,
@@ -277,7 +277,7 @@ applies to the person in respect of the year under consideration, the person’s
 
 #### CHAPTER 1 — Residual income of an eligible student
 
-##### 10. Calculation of eligible student's residual income[^key-8cb0406b6d92bceaa4712da35ef22865]
+##### 10. Calculation of eligible student's residual income[^c-8cb0406b6d92bceaa4712da35ef22865]
 
 For the purposes of calculating an eligible student's household income under Part 2, the student's residual income is calculated as follows—
 
@@ -287,7 +287,7 @@ For the purposes of calculating an eligible student's household income under Par
 - *Minus*
 - The aggregate of the deductions set out in paragraph 11 (unless already deducted for the purposes of determining the student's taxable income).
 
-##### 11. Deductions for the purpose of calculating residual income of an eligible student[^key-5901b6257c2570e1ae7557c7f3b76bb6]
+##### 11. Deductions for the purpose of calculating residual income of an eligible student[^c-5901b6257c2570e1ae7557c7f3b76bb6]
 
 For the purposes of calculating an eligible student's residual income, the deductions are— *Deduction A* Remuneration paid to the eligible student in the current academic year for work done during any academic year of the course, but not remuneration in respect of any—
 
@@ -297,11 +297,11 @@ For the purposes of calculating an eligible student's residual income, the deduc
 so that the student may undertake the course. *Deduction B* The gross amount of any premium or sum paid by the eligible student during the current academic year in relation to a pension in respect of which—
 
 - (a) relief is given under section 188 of the Finance Act 2004 [^c23728431], or
-- (b) where the student's income is computed for the purposes of the income tax legislation of a member State[^key-b4346719105e012b1c70993731e83edf], relief would be given if that legislation made provision equivalent to the Income Tax Acts,
+- (b) where the student's income is computed for the purposes of the income tax legislation of a member State[^c-b4346719105e012b1c70993731e83edf], relief would be given if that legislation made provision equivalent to the Income Tax Acts,
 
 but not including any sum paid as a premium under a policy of life assurance.
 
-##### 12. Income of eligible student received in currency other than sterling[^key-f2850d42847472bb2a938052e6dbbaa4]
+##### 12. Income of eligible student received in currency other than sterling[^c-f2850d42847472bb2a938052e6dbbaa4]
 
 (1) Where the eligible student receives income in a currency other than sterling, the value of the income is—
 
@@ -312,7 +312,7 @@ but not including any sum paid as a premium under a policy of life assurance.
 
 #### CHAPTER 2 — Residual income of persons other than an eligible student
 
-##### 13. Persons to whom this chapter applies[^key-fdaa3abb8afe1d64320c01d6349b516b]
+##### 13. Persons to whom this chapter applies[^c-fdaa3abb8afe1d64320c01d6349b516b]
 
 This Chapter makes provision for the calculation of a person's (“P's”) residual income where P means the following—
 
@@ -320,7 +320,7 @@ This Chapter makes provision for the calculation of a person's (“P's”) resid
 - (b) the eligible student's partner, or
 - (c) the eligible student's parent's partner, as the case may be, and where P's income is aggregated under Step 1 in paragraph 3(1) for the purpose of calculating an eligible student's household income.
 
-##### 14. Calculation of residual income of persons other than eligible student[^key-5005525665bdd4869378b8ed85ad1306]
+##### 14. Calculation of residual income of persons other than eligible student[^c-5005525665bdd4869378b8ed85ad1306]
 
 P's residual income is calculated as follows—
 
@@ -330,30 +330,30 @@ P's residual income is calculated as follows—
 - *Minus*
 - The aggregate of the deductions set out in paragraph 15 (unless already deducted for the purposes of determining P's taxable income).
 
-##### 15. Deductions for the purpose of calculating residual income of persons other than eligible student[^key-d13c4f28efb42183e4990df0c3d2065e]
+##### 15. Deductions for the purpose of calculating residual income of persons other than eligible student[^c-d13c4f28efb42183e4990df0c3d2065e]
 
 (1) For the purpose of calculating P's residual income, the deductions are— *Deduction A* The gross amount of any premium or sum paid by P in respect of a pension during the applicable financial year, in relation to which—
 
 - (a) relief is given under section 188 of the Finance Act 2004, or
-- (b) where P's income is computed for the purpose of the income tax legislation of a member State[^key-8181899db4dfcc8f630994c5e72ec31f], relief would have been given if that legislation made provision equivalent to the Income Tax Acts,
+- (b) where P's income is computed for the purpose of the income tax legislation of a member State[^c-8181899db4dfcc8f630994c5e72ec31f], relief would have been given if that legislation made provision equivalent to the Income Tax Acts,
 
 but not including any sum paid as a premium under a policy of life assurance. *Deduction B* Where paragraph 18 applies, a sum equivalent to Deduction A provided that this sum does not exceed the deductions which would be made if the whole of P's income were in fact income for the purposes of the Income Tax Acts. *Deduction C* £1,130, where P—
 
 - (a) is an eligible student in respect of the current academic year but is also the parent of an eligible student, or
 - (b) holds a statutory award in respect of the same period.
 
-##### 16. Applicable financial years: calculating residual income of persons other than eligible student[^key-03db1eed328fb6b1507da7426042c01a]
+##### 16. Applicable financial years: calculating residual income of persons other than eligible student[^c-03db1eed328fb6b1507da7426042c01a]
 
 (1) This paragraph specifies the applicable financial year for the purposes of calculating P's residual income.
 
 (2) Unless sub-paragraph (3) applies, the applicable financial year is PY-1.
 
-(3)[^key-22c6a46c7f6035c62fe17695fcebcf02] The applicable financial year is CY if the Welsh Ministers are satisfied that—
+(3)[^c-22c6a46c7f6035c62fe17695fcebcf02] The applicable financial year is CY if the Welsh Ministers are satisfied that—
 
 - (a) where P is one of two persons whose residual incomes are aggregated under paragraph (b)(i) or (ii) of List A in paragraph 3(1), the aggregate of the residual incomes of P and the other person for CY is likely to be at least 15% lower than the aggregate of the residual incomes of P and the other person for PY-1, or
 - (b) in any other case, P’s residual income for CY is likely to be at least 15% lower than P’s residual income for PY-1.
 
-##### 17. Income from business or profession[^key-a6da5ef4eb87829d7a778876b9e9d5e6]
+##### 17. Income from business or profession[^c-a6da5ef4eb87829d7a778876b9e9d5e6]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -362,13 +362,13 @@ but not including any sum paid as a premium under a policy of life assurance. *D
 
 (2) Where this paragraph applies, P's residual income is P's income for the earliest period of twelve months ending in PY-1 in respect of which accounts are kept relating to P's business or profession.
 
-##### 18. Treatment of income not treated as income for income tax purposes[^key-160ff3d7075589384336c2d87b15f8b4]
+##### 18. Treatment of income not treated as income for income tax purposes[^c-160ff3d7075589384336c2d87b15f8b4]
 
-(1) Sub-paragraph (3) applies where P is in receipt of any income which, for any of the reasons set out in sub-paragraph (2), does not form part of P's income for the purpose of the Income Tax Acts or the income tax legislation of a member State[^key-de93205856a84f7a9c0782bd9c0bbe92].
+(1) Sub-paragraph (3) applies where P is in receipt of any income which, for any of the reasons set out in sub-paragraph (2), does not form part of P's income for the purpose of the Income Tax Acts or the income tax legislation of a member State[^c-de93205856a84f7a9c0782bd9c0bbe92].
 
 (2) The reasons are— *Reason 1*
 
-- (a) P is not resident [^key-16a1100e7e9d27de21b8bf0b5aa6d3e2]... in the United Kingdom, or
+- (a) P is not resident [^c-16a1100e7e9d27de21b8bf0b5aa6d3e2]... in the United Kingdom, or
 - (b) P's income is computed for the purposes of the income tax legislation of a member State and P is not resident or domiciled in that member State.
 
 *Reason 2*
@@ -382,15 +382,15 @@ The income arises from an office, service or employment, income from which is ex
 
 (3) P's taxable income is to be taken to include the income described in sub-paragraph (1) as if it were part of P's income for the purposes of the Income Tax Acts or the income tax legislation of a member State, as the case may be.
 
-##### 19. P's income in currency other than sterling[^key-17b35a6c1286fad1d810440ea21119a2]
+##### 19. P's income in currency other than sterling[^c-17b35a6c1286fad1d810440ea21119a2]
 
-(1) Where P's income is computed for the purposes of the income tax legislation of a member State[^key-8f45d168b5fb8d5103fd39f04a2c57ce], P's residual income is to be calculated in accordance with this Part in the currency of that member State and is to be taken to be the sterling value of that income determined in accordance with the relevant HMRC rate.
+(1) Where P's income is computed for the purposes of the income tax legislation of a member State[^c-8f45d168b5fb8d5103fd39f04a2c57ce], P's residual income is to be calculated in accordance with this Part in the currency of that member State and is to be taken to be the sterling value of that income determined in accordance with the relevant HMRC rate.
 
 (2) The relevant HMRC rate is the average exchange rate issued by Her Majesty's Revenue and Customs for the calendar year ending immediately before the end of PY-1.
 
 ### PART 5 — Interpretation
 
-#### 20. Interpretation[^key-57c468c99c407d300c2035a67f6d82c2]
+#### 20. Interpretation[^c-57c468c99c407d300c2035a67f6d82c2]
 
 (1) In this Schedule, any reference to a person's (“A's”) partner means—
 
@@ -411,71 +411,71 @@ The income arises from an office, service or employment, income from which is ex
 
 ## Annotations
 
-[^key-09a9326ecde82e9b4023324e4f382d31]: Commencement: Sch. 3 para. 1 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-09a9326ecde82e9b4023324e4f382d31]: Commencement: Sch. 3 para. 1 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-67d91172d4aad30c2ea937ee7091116f]: Commencement: Sch. 3 para. 2 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-67d91172d4aad30c2ea937ee7091116f]: Commencement: Sch. 3 para. 2 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-b802ca511db7c7ffe0a9ae24018703e0]: Commencement: Sch. 3 para. 3 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-b802ca511db7c7ffe0a9ae24018703e0]: Commencement: Sch. 3 para. 3 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-52d4c2be0906a1da395000e0dba4fb15]: Commencement: Sch. 3 para. 4 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-52d4c2be0906a1da395000e0dba4fb15]: Commencement: Sch. 3 para. 4 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-8f161df220772a6fc4d6dda3e9ab9325]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/4/1) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(2)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/2)
+[^c-8f161df220772a6fc4d6dda3e9ab9325]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/4/1) inserted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(2)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/2)
 
-[^key-a8ec74862ff7e79ca28426a447412270]: Commencement: Sch. 3 para. 5 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-a8ec74862ff7e79ca28426a447412270]: Commencement: Sch. 3 para. 5 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-242b322580770c37038928d3eced3c9c]: Commencement: Sch. 3 para. 6 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-242b322580770c37038928d3eced3c9c]: Commencement: Sch. 3 para. 6 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-a069b24d5ed3369d4938a187b06f2515]: Commencement: Sch. 3 para. 7 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-a069b24d5ed3369d4938a187b06f2515]: Commencement: Sch. 3 para. 7 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-0c5b39f2b158f2edc410e99775ef3e94]: Commencement: Sch. 3 para. 8 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-0c5b39f2b158f2edc410e99775ef3e94]: Commencement: Sch. 3 para. 8 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-5a55d8f37560bb6aababaa8ac2b37b6c]: Commencement: Sch. 3 para. 9 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-5a55d8f37560bb6aababaa8ac2b37b6c]: Commencement: Sch. 3 para. 9 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
 [^c23728411]: Marginal citation: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3); [section 23](https://www.legislation.gov.uk/wsi/2019/895/section/23) was amended by the [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Schedule 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1), [paragraph 6(o)(i)](https://www.legislation.gov.uk/ukpga/2009/10/paragraph/6/o/i), the [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Schedule 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3), [paragraph 2(2)](https://www.legislation.gov.uk/ukpga/2013/29/paragraph/2/2) and the [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Schedule 17](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17), [paragraph 19](https://www.legislation.gov.uk/ukpga/2014/26/paragraph/19).
 
 [^c23728421]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); [section 401](https://www.legislation.gov.uk/wsi/2019/895/section/401) was amended by [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229), [S.I](https://www.legislation.gov.uk/uksi/2005/3229/section/I). 2011/1037 and [S.I. 2014/211](https://www.legislation.gov.uk/uksi/2014/211).
 
-[^key-6d4c5d37259f00e2fabaa322f55f6ac1]: Textual amendment: Words in [Sch. 3 para. 9(1)(b)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/9/1/b) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(3)(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/3/a)
+[^c-6d4c5d37259f00e2fabaa322f55f6ac1]: Textual amendment: Words in [Sch. 3 para. 9(1)(b)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/9/1/b) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(3)(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/3/a)
 
-[^key-7661d1fe853be5bd71fa3c4fe973f400]: Textual amendment: [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/9/2) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(3)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/3/b)
+[^c-7661d1fe853be5bd71fa3c4fe973f400]: Textual amendment: [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/9/2) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(3)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/3/b)
 
-[^key-8cb0406b6d92bceaa4712da35ef22865]: Commencement: Sch. 3 para. 10 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-8cb0406b6d92bceaa4712da35ef22865]: Commencement: Sch. 3 para. 10 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-5901b6257c2570e1ae7557c7f3b76bb6]: Commencement: Sch. 3 para. 11 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-5901b6257c2570e1ae7557c7f3b76bb6]: Commencement: Sch. 3 para. 11 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
 [^c23728431]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); [section 188](https://www.legislation.gov.uk/ukpga/2004/12/section/188) was amended by the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [sections 68](https://www.legislation.gov.uk/ukpga/2007/11/section/68) and [114](https://www.legislation.gov.uk/ukpga/2007/11/section/114) and [Schedules 18](https://www.legislation.gov.uk/ukpga/2007/11/schedule/18), [19](https://www.legislation.gov.uk/ukpga/2007/11/schedule/19) and [27](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27), the [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [section 52](https://www.legislation.gov.uk/ukpga/2013/29/section/52) and the [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Schedule 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7).
 
-[^key-b4346719105e012b1c70993731e83edf]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/11) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/a)
+[^c-b4346719105e012b1c70993731e83edf]: Textual amendment: Words in [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/11) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(a)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/a)
 
-[^key-f2850d42847472bb2a938052e6dbbaa4]: Commencement: Sch. 3 para. 12 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-f2850d42847472bb2a938052e6dbbaa4]: Commencement: Sch. 3 para. 12 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
 [^c23728441]: Marginal citation: *See* https://www.gov.uk/government/collections/exchange-rates-for-customs-and-vat.
 
-[^key-fdaa3abb8afe1d64320c01d6349b516b]: Commencement: Sch. 3 para. 13 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-fdaa3abb8afe1d64320c01d6349b516b]: Commencement: Sch. 3 para. 13 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-5005525665bdd4869378b8ed85ad1306]: Commencement: Sch. 3 para. 14 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-5005525665bdd4869378b8ed85ad1306]: Commencement: Sch. 3 para. 14 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-d13c4f28efb42183e4990df0c3d2065e]: Commencement: Sch. 3 para. 15 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-d13c4f28efb42183e4990df0c3d2065e]: Commencement: Sch. 3 para. 15 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-8181899db4dfcc8f630994c5e72ec31f]: Textual amendment: Words in [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/15) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/b)
+[^c-8181899db4dfcc8f630994c5e72ec31f]: Textual amendment: Words in [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/15) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(b)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/b)
 
-[^key-03db1eed328fb6b1507da7426042c01a]: Commencement: Sch. 3 para. 16 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-03db1eed328fb6b1507da7426042c01a]: Commencement: Sch. 3 para. 16 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-22c6a46c7f6035c62fe17695fcebcf02]: Textual amendment: [Sch. 3 para. 16(3)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/16/3) substituted (2.3.2020) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/142)](https://www.legislation.gov.uk/wsi/2020/142), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/142/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2020/142/regulation/8)
+[^c-22c6a46c7f6035c62fe17695fcebcf02]: Textual amendment: [Sch. 3 para. 16(3)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/16/3) substituted (2.3.2020) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/142)](https://www.legislation.gov.uk/wsi/2020/142), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/142/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2020/142/regulation/8)
 
-[^key-a6da5ef4eb87829d7a778876b9e9d5e6]: Commencement: Sch. 3 para. 17 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-a6da5ef4eb87829d7a778876b9e9d5e6]: Commencement: Sch. 3 para. 17 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-160ff3d7075589384336c2d87b15f8b4]: Commencement: Sch. 3 para. 18 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-160ff3d7075589384336c2d87b15f8b4]: Commencement: Sch. 3 para. 18 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-de93205856a84f7a9c0782bd9c0bbe92]: Textual amendment: Words in [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/18) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(c)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/c)
+[^c-de93205856a84f7a9c0782bd9c0bbe92]: Textual amendment: Words in [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/18) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(c)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/c)
 
-[^key-16a1100e7e9d27de21b8bf0b5aa6d3e2]: Textual amendment: Words in [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/18/2) omitted (6.4.2025) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/16)](https://www.legislation.gov.uk/wsi/2025/16), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3), [48](https://www.legislation.gov.uk/wsi/2025/16/regulation/48)
+[^c-16a1100e7e9d27de21b8bf0b5aa6d3e2]: Textual amendment: Words in [Sch. 3 para. 18(2)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/18/2) omitted (6.4.2025) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/16)](https://www.legislation.gov.uk/wsi/2025/16), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/16/regulation/1/3), [48](https://www.legislation.gov.uk/wsi/2025/16/regulation/48)
 
-[^key-17b35a6c1286fad1d810440ea21119a2]: Commencement: Sch. 3 para. 19 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-17b35a6c1286fad1d810440ea21119a2]: Commencement: Sch. 3 para. 19 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
-[^key-8f45d168b5fb8d5103fd39f04a2c57ce]: Textual amendment: Words in [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/19/1) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(d)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/d)
+[^c-8f45d168b5fb8d5103fd39f04a2c57ce]: Textual amendment: Words in [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/wsi/2019/895/schedule/3/paragraph/19/1) substituted (31.12.2020) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1302)](https://www.legislation.gov.uk/wsi/2020/1302), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/1/3), [41(4)(d)](https://www.legislation.gov.uk/wsi/2020/1302/regulation/41/4/d)
 
-[^key-57c468c99c407d300c2035a67f6d82c2]: Commencement: Sch. 3 para. 20 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-57c468c99c407d300c2035a67f6d82c2]: Commencement: Sch. 3 para. 20 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
 
 [^c23728451]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18); [section 23](https://www.legislation.gov.uk/ukpga/1973/18/section/23) was amended by the [Administration of Justice Act 1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53), [section 16](https://www.legislation.gov.uk/ukpga/1982/53/section/16).
 

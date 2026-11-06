@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Private residential tenancies: duty to consider delay to eviction[^key-d62f67f01408f2103c64c69d8eb37a9d]
+## 28. Private residential tenancies: duty to consider delay to eviction[^c-d62f67f01408f2103c64c69d8eb37a9d]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d62f67f01408f2103c64c69d8eb37a9d]: Commencement: S. 28 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-d62f67f01408f2103c64c69d8eb37a9d]: Commencement: S. 28 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

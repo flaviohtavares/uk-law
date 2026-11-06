@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Entering and searching premises with a warrant[^key-ac83f76756d99093266cad5b778e078e]
+## 61. Entering and searching premises with a warrant[^c-ac83f76756d99093266cad5b778e078e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac83f76756d99093266cad5b778e078e]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/29/section/61) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)
+[^c-ac83f76756d99093266cad5b778e078e]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/29/section/61) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)

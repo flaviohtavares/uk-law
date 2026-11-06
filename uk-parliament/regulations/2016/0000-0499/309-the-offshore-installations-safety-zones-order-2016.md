@@ -42,24 +42,24 @@ The Secretary of State makes this Order—
 - (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
 - (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
 
-## 1. Citation and commencement[^key-e4854d6ce53bc19716dc4de574903789]
+## 1. Citation and commencement[^c-e4854d6ce53bc19716dc4de574903789]
 
 (1) This Order may be cited as the Offshore Installations (Safety Zones) Order 2016.
 
 (2) This Order comes into force on 29th March 2016 except for article 2(2) which comes into force as provided in article 2(3).
 
-## 2. Establishment of safety zones[^key-d645068650f390cfef28d8cccb597037][^key-df397ef71f00f2245d475c7240ad88c5]
+## 2. Establishment of safety zones[^c-d645068650f390cfef28d8cccb597037][^c-df397ef71f00f2245d475c7240ad88c5]
 
-(1)[^key-d645068650f390cfef28d8cccb597037] A safety zone is established around the installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
+(1)[^c-d645068650f390cfef28d8cccb597037] A safety zone is established around the installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
 
-(2)[^key-df397ef71f00f2245d475c7240ad88c5] A safety zone is established around each of the installations specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
+(2)[^c-df397ef71f00f2245d475c7240ad88c5] A safety zone is established around each of the installations specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
 
-(3)[^key-d645068650f390cfef28d8cccb597037] Paragraph (2) comes into force, as respects each installation specified in column 1 of Part 2 of the Schedule—
+(3)[^c-d645068650f390cfef28d8cccb597037] Paragraph (2) comes into force, as respects each installation specified in column 1 of Part 2 of the Schedule—
 
 - (a) on 29th March 2016, where the installation arrives at its station before that date; and
 - (b) when the installation arrives at its station, in any other case.
 
-## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^key-39309249211edfab59fd047d49b67b47]
+## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^c-39309249211edfab59fd047d49b67b47]
 
 In Schedule 1 to the Offshore Installations (Safety Zones) Order 1997[^f00004], omit the entries relating to—
 
@@ -67,7 +67,7 @@ In Schedule 1 to the Offshore Installations (Safety Zones) Order 1997[^f00004], 
 - (b) Ivanhoe Manifold 15/21; and
 - (c) Robroy Manifold 15/21.
 
-## 4. Amendment of the Offshore Installations (Safety Zones) (No.2) Order 2009[^key-dbbb990eaba70b98506ea6d01c3433a6]
+## 4. Amendment of the Offshore Installations (Safety Zones) (No.2) Order 2009[^c-dbbb990eaba70b98506ea6d01c3433a6]
 
 In the Schedule to the Offshore Installations (Safety Zones) (No.2) Order 2009[^f00005], omit the entry relating to IVRHH subsea facilities 15/21a.
 
@@ -85,20 +85,20 @@ Department for Work and Pensions
 
 Article 2
 
-### PART 1 — Installation stationed at the time the Order is made[^key-53fe6d57730bba9947f30f58ea09f303]
+### PART 1 — Installation stationed at the time the Order is made[^c-53fe6d57730bba9947f30f58ea09f303]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Installations not stationed at the time the Order is made[^key-6b4ce6325e24bcf35076b143476b819a]
+### PART 2 — Installations not stationed at the time the Order is made[^c-6b4ce6325e24bcf35076b143476b819a]
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | Aviat, Block 22/7a, Aviat Field | 57°42.94ʹ North | 01°21.02ʹ East |
 | Catcher STP Buoy, Block 28/9a, Catcher Field | 56°46.21ʹ North | 00°42.78ʹ East |
-| [^key-d00964034fd2f48fd7c8053e3d01f75d]. . . | [^key-d00964034fd2f48fd7c8053e3d01f75d]. . . | [^key-d00964034fd2f48fd7c8053e3d01f75d]. . . |
-| [^key-bf7948372205428a3216419a44f63e87]. . . | [^key-bf7948372205428a3216419a44f63e87]. . . | [^key-bf7948372205428a3216419a44f63e87]. . . |
+| [^c-d00964034fd2f48fd7c8053e3d01f75d]. . . | [^c-d00964034fd2f48fd7c8053e3d01f75d]. . . | [^c-d00964034fd2f48fd7c8053e3d01f75d]. . . |
+| [^c-bf7948372205428a3216419a44f63e87]. . . | [^c-bf7948372205428a3216419a44f63e87]. . . | [^c-bf7948372205428a3216419a44f63e87]. . . |
 
 EXPLANATORY NOTE
 
@@ -129,26 +129,26 @@ Articles 3 and 4 remove four safety zones established under previous Orders.
 
 [^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-e4854d6ce53bc19716dc4de574903789]: Commencement: Art. 1 in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
+[^c-e4854d6ce53bc19716dc4de574903789]: Commencement: Art. 1 in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
 
-[^key-d645068650f390cfef28d8cccb597037]: Commencement: [Art. 2(1)(3)](https://www.legislation.gov.uk/uksi/2016/309/article/2/1/3) in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
+[^c-d645068650f390cfef28d8cccb597037]: Commencement: [Art. 2(1)(3)](https://www.legislation.gov.uk/uksi/2016/309/article/2/1/3) in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
 
-[^key-df397ef71f00f2245d475c7240ad88c5]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2016/309/article/2/2) comes into force in accordance with [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/309/article/2/3)
+[^c-df397ef71f00f2245d475c7240ad88c5]: Commencement: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2016/309/article/2/2) comes into force in accordance with [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/309/article/2/3)
 
 [^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-39309249211edfab59fd047d49b67b47]: Commencement: Art. 3 in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
+[^c-39309249211edfab59fd047d49b67b47]: Commencement: Art. 3 in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
 
 [^f00004]: Footnote: [S.I. 1997/735](https://www.legislation.gov.uk/uksi/1997/735); to which there are amendments not relevant to this Order.
 
-[^key-dbbb990eaba70b98506ea6d01c3433a6]: Commencement: Art. 4 in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
+[^c-dbbb990eaba70b98506ea6d01c3433a6]: Commencement: Art. 4 in force at 29.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/309/article/1/2)
 
 [^f00005]: Footnote: [S.I. 2009/2099](https://www.legislation.gov.uk/uksi/2009/2099).
 
-[^key-53fe6d57730bba9947f30f58ea09f303]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2016/309/schedule/part/1) omitted (13.7.2018) by virtue of [The Offshore Installations (Safety Zones) Order 2018 (S.I. 2018/807)](https://www.legislation.gov.uk/uksi/2018/807), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/807/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/807/article/3)
+[^c-53fe6d57730bba9947f30f58ea09f303]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2016/309/schedule/part/1) omitted (13.7.2018) by virtue of [The Offshore Installations (Safety Zones) Order 2018 (S.I. 2018/807)](https://www.legislation.gov.uk/uksi/2018/807), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/807/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/807/article/3)
 
-[^key-6b4ce6325e24bcf35076b143476b819a]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/309/schedule/part/2) comes into force in accordance with [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/309/article/2/3)
+[^c-6b4ce6325e24bcf35076b143476b819a]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/309/schedule/part/2) comes into force in accordance with [art. 2(3)](https://www.legislation.gov.uk/uksi/2016/309/article/2/3)
 
-[^key-d00964034fd2f48fd7c8053e3d01f75d]: Textual amendment: Words in Sch. Pt. 2 omitted (28.6.2016) by virtue of [The Offshore Installations (Safety Zones) (No. 3) Order 2016 (S.I. 2016/673)](https://www.legislation.gov.uk/uksi/2016/673), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/673/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/673/article/3/a)
+[^c-d00964034fd2f48fd7c8053e3d01f75d]: Textual amendment: Words in Sch. Pt. 2 omitted (28.6.2016) by virtue of [The Offshore Installations (Safety Zones) (No. 3) Order 2016 (S.I. 2016/673)](https://www.legislation.gov.uk/uksi/2016/673), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/673/article/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/673/article/3/a)
 
-[^key-bf7948372205428a3216419a44f63e87]: Textual amendment: Words in Sch. Pt. 2 omitted (28.6.2016) by virtue of [The Offshore Installations (Safety Zones) (No. 3) Order 2016 (S.I. 2016/673)](https://www.legislation.gov.uk/uksi/2016/673), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/673/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2016/673/article/3/b)
+[^c-bf7948372205428a3216419a44f63e87]: Textual amendment: Words in Sch. Pt. 2 omitted (28.6.2016) by virtue of [The Offshore Installations (Safety Zones) (No. 3) Order 2016 (S.I. 2016/673)](https://www.legislation.gov.uk/uksi/2016/673), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/673/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2016/673/article/3/b)

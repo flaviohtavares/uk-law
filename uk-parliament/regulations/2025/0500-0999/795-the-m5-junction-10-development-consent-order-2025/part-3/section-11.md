@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Street works[^key-c97c87f1cd615e957b344064e166f8da]
+## 11. Street works[^c-c97c87f1cd615e957b344064e166f8da]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) The powers conferred by paragraph (1) are not to be exercised without the consent of the street authority, but such consent must not be unreasonably withheld.
 
-(5) If a street authority receives an application for consent under paragraph (4) and fails to notify the undertaker of its decision before the end of the period of 28 days[^key-b5a7394cc3f20905d141be46719f9635] beginning with the date on which the application was made, it is deemed to have granted consent.
+(5) If a street authority receives an application for consent under paragraph (4) and fails to notify the undertaker of its decision before the end of the period of 28 days[^c-b5a7394cc3f20905d141be46719f9635] beginning with the date on which the application was made, it is deemed to have granted consent.
 
 (6) Paragraphs (4) and (5) do not apply where the undertaker is the street authority for a street in which the works are being carried out.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c97c87f1cd615e957b344064e166f8da]: Commencement: Art. 11 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-c97c87f1cd615e957b344064e166f8da]: Commencement: Art. 11 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-b5a7394cc3f20905d141be46719f9635]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2025/795/article/11/5) substituted (3.11.2025) by [The M5 Junction 10 Development Consent (Correction) Order 2025 (S.I. 2025/1136)](https://www.legislation.gov.uk/uksi/2025/1136), [art. 1](https://www.legislation.gov.uk/uksi/2025/1136/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1136/schedule)
+[^c-b5a7394cc3f20905d141be46719f9635]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2025/795/article/11/5) substituted (3.11.2025) by [The M5 Junction 10 Development Consent (Correction) Order 2025 (S.I. 2025/1136)](https://www.legislation.gov.uk/uksi/2025/1136), [art. 1](https://www.legislation.gov.uk/uksi/2025/1136/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1136/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Supplementary provisions as to dividend[^key-c6180e8d69a7a80e4c2bef2a3c2da3d0]
+## 118. Supplementary provisions as to dividend[^c-c6180e8d69a7a80e4c2bef2a3c2da3d0]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6180e8d69a7a80e4c2bef2a3c2da3d0]: Commencement: Rule 118 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c6180e8d69a7a80e4c2bef2a3c2da3d0]: Commencement: Rule 118 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00015]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110), amended by [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Authorisation to give compliance notice to the Ombudsman in relation to Welsh language standards[^key-100e400c5d9a75350292dcd9bc6be60b]
+## 72. Authorisation to give compliance notice to the Ombudsman in relation to Welsh language standards[^c-100e400c5d9a75350292dcd9bc6be60b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-100e400c5d9a75350292dcd9bc6be60b]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2019/3/section/72) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-100e400c5d9a75350292dcd9bc6be60b]: Commencement: [S. 72](https://www.legislation.gov.uk/anaw/2019/3/section/72) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

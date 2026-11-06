@@ -50,9 +50,9 @@ Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979
   - (a) a person who under the will of the deceased or under the law relating to intestacy is beneficially interested in the estate or would be so interested if an order had not been made under this Order, and
   - (b) a person who has received any sum of money or other property which by virtue of Article 10(1) or (2) is treated as part of the net estate of the deceased or would have received that sum or other property if an order had not been made under this Order;
 - “child” includes an illegitimate[^c16966141]. . . child and a child en ventre sa mère at the death of the deceased;
-- [^key-58eac14413029353a8d4982d74014bb0]...
+- [^c-58eac14413029353a8d4982d74014bb0]...
 - “the court” means the High Court, or where a county court has jurisdiction by virtue of Article 24, a county court;
-- [^key-58eac14413029353a8d4982d74014bb0]...
+- [^c-58eac14413029353a8d4982d74014bb0]...
 - “former civil partner” means a person whose civil partnership with the deceased was during the lifetime of the deceased either—[^c16966151]
   - (a) dissolved or annulled by an order made under the law of any part of the United Kingdom or the Channel Islands or the Isle of Man, or
   - (b) dissolved or annulled in any country or territory outside the United Kingdom, the Channel Islands and the Isle of Man by a dissolution or annulment which is entitled to be recognised as valid by the law of Northern Ireland;
@@ -154,7 +154,7 @@ or may provide for the amount of the payments or any of them to be determined in
 
 (5) Where—
 
-- (a) the deceased is survived by a wife or husband ( “the surviving spouse”) and is also survived by children who are —[^key-91d7218d2830275272e946dc2e3a6b5a]
+- (a) the deceased is survived by a wife or husband ( “the surviving spouse”) and is also survived by children who are —[^c-91d7218d2830275272e946dc2e3a6b5a]
 - (i) issue of the deceased and the surviving spouse,
 - (ii) children adopted by the deceased and the surviving spouse jointly,
 - (iii) issue of the deceased and adopted by the surviving spouse, or
@@ -166,7 +166,7 @@ or may provide for the amount of the payments or any of them to be determined in
 
 the court shall not make an order under this Article on the application of any of the children who is a minor.
 
-(6)[^key-b0ac9065b772813e1da688ca215b3bd6] Where—
+(6)[^c-b0ac9065b772813e1da688ca215b3bd6] Where—
 
 - (a) the deceased is survived by a civil partner (“the surviving civil partner”) and is also survived by children who are—
   - (i) issue of the deceased and the surviving civil partner,
@@ -416,7 +416,7 @@ then, if an application for an order under Article 4 is made by that other party
 
 ### 17. Restriction imposed in divorce proceedings, etc., on application under this Order
 
-(1)[^c16966781] On the grant of a decree of divorce, a decree of nullity of marriage or a decree of judicial separation or at any time thereafter the High Court or a [^key-bdd8587fc26cca72cf7b10f6d54108ab]... county court, if it considers it just to do so, may, on the application of either party to the marriage, order that the other party to the marriage shall not on the death of the applicant be entitled to apply for an order under Article 4.
+(1)[^c16966781] On the grant of a decree of divorce, a decree of nullity of marriage or a decree of judicial separation or at any time thereafter the High Court or a [^c-bdd8587fc26cca72cf7b10f6d54108ab]... county court, if it considers it just to do so, may, on the application of either party to the marriage, order that the other party to the marriage shall not on the death of the applicant be entitled to apply for an order under Article 4.
 
 (2) In the case of a decree of divorce or nullity of marriage an order may be made under paragraph (1) before or after the decree is made absolute, but if it is made before the decree is made absolute it shall not take effect unless the decree is made absolute.
 
@@ -426,7 +426,7 @@ then, if an application for an order under Article 4 is made by that other party
 
 ### 17ZA. Restriction imposed in proceedings for the dissolution etc. of a civil partnership on application under this Order[^c16966701]
 
-(1) On making a dissolution order, nullity order, separation order or presumption of death order under Chapter 2 of Part 4 of the Civil Partnership Act 2004, or at any time after making such an order, the High Court or a [^key-da134874403a6ca42829f21d5f3bcba0]... county court, if it considers it just to do so, may, on the application of either of the civil partners, order that the other civil partner shall not on the death of the applicant be entitled to apply for an order under Article 4.
+(1) On making a dissolution order, nullity order, separation order or presumption of death order under Chapter 2 of Part 4 of the Civil Partnership Act 2004, or at any time after making such an order, the High Court or a [^c-da134874403a6ca42829f21d5f3bcba0]... county court, if it considers it just to do so, may, on the application of either of the civil partners, order that the other civil partner shall not on the death of the applicant be entitled to apply for an order under Article 4.
 
 (2) In the case of a dissolution order, nullity order or presumption of death order ("the main order") an order may be made under paragraph (1) before (as well as after) the main order is made final, but if made before the main order is made final it shall not take effect unless the main order is made final.
 
@@ -581,7 +581,7 @@ Section 16(1) of the Administration of Estates Act (Northern Ireland) 1955 [^m00
 
 [^c16966141]: Textual amendment: [1987 NI 22](https://www.legislation.gov.uk/nisi/1987)
 
-[^key-58eac14413029353a8d4982d74014bb0]: Textual amendment: Words in art. 2(2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 78(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/78/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-58eac14413029353a8d4982d74014bb0]: Textual amendment: Words in art. 2(2) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 78(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/78/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16966151]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
@@ -595,9 +595,9 @@ Section 16(1) of the Administration of Estates Act (Northern Ireland) 1955 [^m00
 
 [^c16966451]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-91d7218d2830275272e946dc2e3a6b5a]: Textual amendment: Words in art. 4(5)(a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [137(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [137(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/4))
+[^c-91d7218d2830275272e946dc2e3a6b5a]: Textual amendment: Words in art. 4(5)(a) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [137(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [137(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/4))
 
-[^key-b0ac9065b772813e1da688ca215b3bd6]: Textual amendment: Art. 4(6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [137(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [137(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/4))
+[^c-b0ac9065b772813e1da688ca215b3bd6]: Textual amendment: Art. 4(6) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [137(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [137(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/137/4))
 
 [^c16966471]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
@@ -611,11 +611,11 @@ Section 16(1) of the Administration of Estates Act (Northern Ireland) 1955 [^m00
 
 [^c16966781]: Textual amendment: [1989 NI 4](https://www.legislation.gov.uk/nisi/1989)
 
-[^key-bdd8587fc26cca72cf7b10f6d54108ab]: Textual amendment: Word in [art. 17(1)](https://www.legislation.gov.uk/nisi/1979/924/article/17/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 78(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/78/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bdd8587fc26cca72cf7b10f6d54108ab]: Textual amendment: Word in [art. 17(1)](https://www.legislation.gov.uk/nisi/1979/924/article/17/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 78(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/78/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16966701]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-da134874403a6ca42829f21d5f3bcba0]: Textual amendment: Words in [art. 17ZA](https://www.legislation.gov.uk/nisi/1979/924/article/17ZA) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 78(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/78/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-da134874403a6ca42829f21d5f3bcba0]: Textual amendment: Words in [art. 17ZA](https://www.legislation.gov.uk/nisi/1979/924/article/17ZA) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 78(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/78/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(l)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16966721]: Textual amendment: [1989 NI 4](https://www.legislation.gov.uk/1989/ni4)
 

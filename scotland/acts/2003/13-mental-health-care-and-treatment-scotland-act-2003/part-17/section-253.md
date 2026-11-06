@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 253. Declaration in relation to named person[^key-e85dd53eede64a3da34b3c576f5b34e4]
+## 253. Declaration in relation to named person[^c-e85dd53eede64a3da34b3c576f5b34e4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e85dd53eede64a3da34b3c576f5b34e4]: Textual amendment: [S. 253](https://www.legislation.gov.uk/asp/2003/13/section/253) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 22(2)](https://www.legislation.gov.uk/asp/2015/9/section/22/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))
+[^c-e85dd53eede64a3da34b3c576f5b34e4]: Textual amendment: [S. 253](https://www.legislation.gov.uk/asp/2003/13/section/253) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 22(2)](https://www.legislation.gov.uk/asp/2015/9/section/22/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Academy conversions: federated schools[^key-90a608d3dbbf965e8841c3ce4d7cb79d]
+## 57. Academy conversions: federated schools[^c-90a608d3dbbf965e8841c3ce4d7cb79d]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90a608d3dbbf965e8841c3ce4d7cb79d]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2011/21/section/57) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-90a608d3dbbf965e8841c3ce4d7cb79d]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2011/21/section/57) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

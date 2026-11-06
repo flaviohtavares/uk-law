@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.7. Caution or other security: sufficiency and objections[^key-7e58bca5c0a46d7695308f01bff14b38]
+## 19.7. Caution or other security: sufficiency and objections[^c-7e58bca5c0a46d7695308f01bff14b38]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e58bca5c0a46d7695308f01bff14b38]: Commencement: Para. 19.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7e58bca5c0a46d7695308f01bff14b38]: Commencement: Para. 19.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

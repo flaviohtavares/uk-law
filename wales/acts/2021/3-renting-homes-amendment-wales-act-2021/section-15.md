@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Service charges permitted by the Renting Homes (Fees etc.) (Wales) Act 2019 etc.[^key-70c99b19440c17bc38d52c209219879d]
+## 15. Service charges permitted by the Renting Homes (Fees etc.) (Wales) Act 2019 etc.[^c-70c99b19440c17bc38d52c209219879d]
 
 *Extent: E+W*
 
@@ -104,4 +104,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70c99b19440c17bc38d52c209219879d]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2021/3/section/15) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)
+[^c-70c99b19440c17bc38d52c209219879d]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2021/3/section/15) in force at 8.4.2021, see [s. 19(1)](https://www.legislation.gov.uk/asc/2021/3/section/19/1)

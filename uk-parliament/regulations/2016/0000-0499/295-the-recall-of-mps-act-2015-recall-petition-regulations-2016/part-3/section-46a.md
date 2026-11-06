@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Destruction of date of birth lists: Northern Ireland[^key-7d1f8462daf9b6e0f2ea71ae0e6d3258]
+## 46A. Destruction of date of birth lists: Northern Ireland[^c-7d1f8462daf9b6e0f2ea71ae0e6d3258]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The Chief Electoral Officer for Northern Ireland must destroy the lists provided
 
 ## Annotations
 
-[^key-7d1f8462daf9b6e0f2ea71ae0e6d3258]: Textual amendment: Reg. 46A inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/4)
+[^c-7d1f8462daf9b6e0f2ea71ae0e6d3258]: Textual amendment: Reg. 46A inserted (N.I.) (31.10.2023) by [The Representation of the People and Recall Petition (Northern Ireland) (Amendment) Regulations 2023 (S.I. 2023/1116)](https://www.legislation.gov.uk/uksi/2023/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2023/1116/regulation/14/4)

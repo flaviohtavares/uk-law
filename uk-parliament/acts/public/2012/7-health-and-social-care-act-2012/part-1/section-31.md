@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Exercise of public health functions of local authorities[^key-75cbb607d6bbf6b5412b4454afff316a]
+## 31. Exercise of public health functions of local authorities[^c-75cbb607d6bbf6b5412b4454afff316a]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ In Part 3 of the National Health Service Act 2006 after section 73A insert—
 
 ## Annotations
 
-[^key-75cbb607d6bbf6b5412b4454afff316a]: Commencement: S. 31 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-75cbb607d6bbf6b5412b4454afff316a]: Commencement: S. 31 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

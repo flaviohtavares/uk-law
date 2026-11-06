@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Exceptions to offences[^c22562441][^key-9ea9ddceb9072304e5964ac6ac313d76]
+## 11. Exceptions to offences[^c22562441][^c-9ea9ddceb9072304e5964ac6ac313d76]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22562441]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/2/section/11) in force at Royal Assent for specified purposes, see [s. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/1/b)
 
-[^key-9ea9ddceb9072304e5964ac6ac313d76]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/2/section/11) in force at 26.5.2016 in so far as not already in force by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-9ea9ddceb9072304e5964ac6ac313d76]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/2/section/11) in force at 26.5.2016 in so far as not already in force by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

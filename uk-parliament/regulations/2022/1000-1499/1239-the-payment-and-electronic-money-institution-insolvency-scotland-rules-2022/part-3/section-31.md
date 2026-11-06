@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Meeting to approve the revised statement of proposals[^key-ce0e64f1532bd74d446205cc311445b2]
+## 31. Meeting to approve the revised statement of proposals[^c-ce0e64f1532bd74d446205cc311445b2]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce0e64f1532bd74d446205cc311445b2]: Commencement: Rule 31 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-ce0e64f1532bd74d446205cc311445b2]: Commencement: Rule 31 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

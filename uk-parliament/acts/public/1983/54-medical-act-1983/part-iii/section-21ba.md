@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21BA. Further provision relating to the registration of specified state professionals[^key-a46fba9460b15cdf7e1b92a293de70a7][^key-a9fd594a338f2e6ac340ad8f0d6644e1]
+## 21BA. Further provision relating to the registration of specified state professionals[^c-a46fba9460b15cdf7e1b92a293de70a7][^c-a9fd594a338f2e6ac340ad8f0d6644e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a46fba9460b15cdf7e1b92a293de70a7]: Textual amendment: [S. 21BA](https://www.legislation.gov.uk/ukpga/1983/54/section/21BA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/12)
+[^c-a46fba9460b15cdf7e1b92a293de70a7]: Textual amendment: [S. 21BA](https://www.legislation.gov.uk/ukpga/1983/54/section/21BA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/12)
 
-[^key-a9fd594a338f2e6ac340ad8f0d6644e1]: Textual amendment: Ss. 21B, 21C inserted (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [35(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/35/2) (with [art. 86](https://www.legislation.gov.uk/uksi/2006/1914/article/86))
+[^c-a9fd594a338f2e6ac340ad8f0d6644e1]: Textual amendment: Ss. 21B, 21C inserted (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [35(2)](https://www.legislation.gov.uk/uksi/2006/1914/article/35/2) (with [art. 86](https://www.legislation.gov.uk/uksi/2006/1914/article/86))

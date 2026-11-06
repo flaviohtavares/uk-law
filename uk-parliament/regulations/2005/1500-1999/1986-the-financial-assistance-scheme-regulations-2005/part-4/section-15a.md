@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Qualifying members for the purposes of section 286A[^key-7c3df25edcd2ad623022bb1ae7d0b680]
+## 15A. Qualifying members for the purposes of section 286A[^c-7c3df25edcd2ad623022bb1ae7d0b680]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c3df25edcd2ad623022bb1ae7d0b680]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2005/1986/regulation/15A) omitted (2.4.2010) by virtue of [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/1149/regulation/7)
+[^c-7c3df25edcd2ad623022bb1ae7d0b680]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2005/1986/regulation/15A) omitted (2.4.2010) by virtue of [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [7](https://www.legislation.gov.uk/uksi/2010/1149/regulation/7)

@@ -28,7 +28,7 @@ summary: ''
 
 require any solicitor or firm to produce such information and documents relating wholly or partly to the provision of criminal legal assistance as it may specify, at such time and place as it may specify.
 
-(1A)[^key-059315638502b2abfe9c609547eb0deb] The Board may, for the purpose of determining whether—
+(1A)[^c-059315638502b2abfe9c609547eb0deb] The Board may, for the purpose of determining whether—
 
 - (a) a solicitor, an employee of the solicitor or an employee of the solicitor's firm may be committing a criminal offence in connection with children's legal assistance,
 - (b) a solicitor may be seeking, in relation to children's legal assistance, to recover from the Fund money to which the solicitor is not entitled, as, for example, by performing unnecessary work, or
@@ -36,7 +36,7 @@ require any solicitor or firm to produce such information and documents relating
 
 require the solicitor or firm to produce such information and documents relating wholly or partly to the provision of children's legal assistance as it may specify, at such time and place as it may specify.
 
-(2) If it appears to the Board that there is good reason to do so, it may authorise any of its officers to require any solicitor or firm to produce forthwith any such information or documents as are mentioned in subsection (1) or (1A)[^key-5be5f9edf5c5ba593581c379123a6519] above.
+(2) If it appears to the Board that there is good reason to do so, it may authorise any of its officers to require any solicitor or firm to produce forthwith any such information or documents as are mentioned in subsection (1) or (1A)[^c-5be5f9edf5c5ba593581c379123a6519] above.
 
 (3) An officer of the Board acting under subsection (2) above shall, if requested to do so, produce evidence of his authorisation by the Board.
 
@@ -66,6 +66,6 @@ require the solicitor or firm to produce such information and documents relating
 
 [^c14067311]: Textual amendment: Ss. 35A-35C inserted (1.10.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s.53](https://www.legislation.gov.uk/ukpga/1997/48/section/53); [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 6](https://www.legislation.gov.uk/uksi/1997/2323/article/6), [Sch.3](https://www.legislation.gov.uk/uksi/1997/2323/schedule/3)
 
-[^key-059315638502b2abfe9c609547eb0deb]: Textual amendment: [S. 35A(1A)](https://www.legislation.gov.uk/ukpga/1986/47/section/35A/1A) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 5 para. 1(5)(a)](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/1/5/a) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-059315638502b2abfe9c609547eb0deb]: Textual amendment: [S. 35A(1A)](https://www.legislation.gov.uk/ukpga/1986/47/section/35A/1A) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 5 para. 1(5)(a)](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/1/5/a) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-5be5f9edf5c5ba593581c379123a6519]: Textual amendment: Words in [s. 35A(2)](https://www.legislation.gov.uk/ukpga/1986/47/section/35A/2) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 5 para. 1(5)(b)](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/1/5/b) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-5be5f9edf5c5ba593581c379123a6519]: Textual amendment: Words in [s. 35A(2)](https://www.legislation.gov.uk/ukpga/1986/47/section/35A/2) inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 5 para. 1(5)(b)](https://www.legislation.gov.uk/asp/2011/1/schedule/5/paragraph/1/5/b) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

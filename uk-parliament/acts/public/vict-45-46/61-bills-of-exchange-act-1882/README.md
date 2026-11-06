@@ -180,7 +180,7 @@ An Act to codify the law relating to Bills of Exchange, Cheques, and Promissory 
 - [Section 88 — Liability of maker.](part-iv/section-88.md)
 - [Section 89 — Application of Part II to notes.](part-iv/section-89.md)
 
-### PART 4A — Presentment of cheques and other instruments by electronic means[^key-c43371920747b9785ad0a61ef539bc28]
+### PART 4A — Presentment of cheques and other instruments by electronic means[^c-c43371920747b9785ad0a61ef539bc28]
 
 *Extent: E+W+S+N.I.*
 
@@ -216,4 +216,4 @@ SCHEDULES
 
 [^c580818]: Commencement: Act wholly in force at Royal Assent
 
-[^key-c43371920747b9785ad0a61ef539bc28]: Textual amendment: Pt. 4A inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/2), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)
+[^c-c43371920747b9785ad0a61ef539bc28]: Textual amendment: Pt. 4A inserted (26.3.2015, 31.7.2016 in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/13/2), [164(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/4)

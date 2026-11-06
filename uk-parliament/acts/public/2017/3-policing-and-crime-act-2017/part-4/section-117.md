@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Cross-border enforcement: powers of entry to effect arrest[^c22719561][^key-7e7b1eef930f28db97035601f39942d2]
+## 117. Cross-border enforcement: powers of entry to effect arrest[^c22719561][^c-7e7b1eef930f28db97035601f39942d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ In Part 10 of the Criminal Justice and Public Order Act 1994 (cross-border enfor
 
 [^c22719561]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2017/3/section/117) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-7e7b1eef930f28db97035601f39942d2]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2017/3/section/117) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-7e7b1eef930f28db97035601f39942d2]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2017/3/section/117) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

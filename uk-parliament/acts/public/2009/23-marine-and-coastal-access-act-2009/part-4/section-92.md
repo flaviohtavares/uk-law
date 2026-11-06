@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Further provision as to enforcement notices[^key-5796f7862c640dbfbb52753eefc525e9]
+## 92. Further provision as to enforcement notices[^c-5796f7862c640dbfbb52753eefc525e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,13 +39,13 @@ commits an offence.
 
 (4) A person guilty of an offence under subsection (3) is liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-4d8124dbbc652c098afc321341dbd6e4]a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-4d8124dbbc652c098afc321341dbd6e4]a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
 (5) A sum specified in a remediation notice by virtue of section 91(7)(c) is recoverable as a civil debt.
 
 ## Annotations
 
-[^key-5796f7862c640dbfbb52753eefc525e9]: Commencement: S. 92 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-5796f7862c640dbfbb52753eefc525e9]: Commencement: S. 92 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
 
-[^key-4d8124dbbc652c098afc321341dbd6e4]: Textual amendment: Words in s. 92(4)(a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 43(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/43/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-4d8124dbbc652c098afc321341dbd6e4]: Textual amendment: Words in s. 92(4)(a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 43(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/43/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

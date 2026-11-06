@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Modifications to Friendly Societies Appeal Tribunal Regulations 1993[^key-c8209d995c2c9d78bb593ac8c2d735c5]
+## 124. Modifications to Friendly Societies Appeal Tribunal Regulations 1993[^c-c8209d995c2c9d78bb593ac8c2d735c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ The Friendly Societies Appeal Tribunal Regulations 1993[^f00042] apply to transi
 
 ## Annotations
 
-[^key-c8209d995c2c9d78bb593ac8c2d735c5]: Commencement: Art. 124 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c8209d995c2c9d78bb593ac8c2d735c5]: Commencement: Art. 124 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00042]: Footnote: S.I. [1993/2002](https://www.legislation.gov.uk/uksi/1993/2002).

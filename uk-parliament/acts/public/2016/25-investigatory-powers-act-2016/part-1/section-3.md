@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Offence of unlawful interception[^key-bfc4e16034c34390d6342dc47f32db7a]
+## 3. Offence of unlawful interception[^c-bfc4e16034c34390d6342dc47f32db7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc4e16034c34390d6342dc47f32db7a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/25/section/3) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/b)
+[^c-bfc4e16034c34390d6342dc47f32db7a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/25/section/3) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/7/b)

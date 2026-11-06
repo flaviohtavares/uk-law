@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Powers in relation to infrastructure: England[^key-39903b3814ac217efa6c6e1e15cf2a5a]
+## 4A. Powers in relation to infrastructure: England[^c-39903b3814ac217efa6c6e1e15cf2a5a]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39903b3814ac217efa6c6e1e15cf2a5a]: Textual amendment: S. 4A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/103/3), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/g)
+[^c-39903b3814ac217efa6c6e1e15cf2a5a]: Textual amendment: S. 4A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/103/3), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/g)

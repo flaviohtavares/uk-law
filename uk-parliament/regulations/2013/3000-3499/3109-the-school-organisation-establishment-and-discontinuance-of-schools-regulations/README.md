@@ -56,7 +56,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Revocations and saving provisions](part-1/section-3.md)
 
-### PART 2 — Proposals for Establishment of New Schools Made Pursuant to a Notice[^key-a916087a20eae3b5b52f0fbe323ba562]
+### PART 2 — Proposals for Establishment of New Schools Made Pursuant to a Notice[^c-a916087a20eae3b5b52f0fbe323ba562]
 
 *Extent: E+W*
 
@@ -65,7 +65,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 6 — Proposals made pursuant to a ... notice](part-2/section-6.md)
 - [Section 7 — Manner in which proposals are to be published](part-2/section-7.md)
 
-### PART 3 — Proposals for the Establishment of New ... Schools Which are not Made Pursuant to a Notice[^key-31232d6a6d07d221a19f8e6b7d90fec8][^key-13a47d016ba5a198ddee3c00674396f6]
+### PART 3 — Proposals for the Establishment of New ... Schools Which are not Made Pursuant to a Notice[^c-31232d6a6d07d221a19f8e6b7d90fec8][^c-13a47d016ba5a198ddee3c00674396f6]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - [Section 11 — Information to be contained in proposals for discontinuance of schools](part-4/section-11.md)
 - [Section 12 — Publication and submission of discontinuance proposals](part-4/section-12.md)
 
-### PART 5 — Consideration of proposals by a local authority , by the Secretary of State or by the schools adjudicator[^key-bf53b836a0e84c46133137dfda0f12e1]
+### PART 5 — Consideration of proposals by a local authority , by the Secretary of State or by the schools adjudicator[^c-bf53b836a0e84c46133137dfda0f12e1]
 
 *Extent: E+W*
 
@@ -174,10 +174,10 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40). Section 7 was amended by section 126 of the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), sections 37 and 54 of, and Schedules 11 and 13 to, the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 10 was amended by section 37 of, and Schedule 11 to, the Education Act 2011, and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 11 was amended by section 169 of, and Schedule 1 to, the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), section 126 of the Apprenticeships, Skills, Children and Learning Act 2009, section 37 of, and Schedule 11 to, the Education Act 2011, and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-a916087a20eae3b5b52f0fbe323ba562]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2013/3109/part/2) heading substituted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/528/regulation/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-a916087a20eae3b5b52f0fbe323ba562]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2013/3109/part/2) heading substituted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/528/regulation/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
 
-[^key-31232d6a6d07d221a19f8e6b7d90fec8]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/2013/3109/part/3) heading omitted (1.9.2026) by virtue of [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/528/regulation/9/a) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-31232d6a6d07d221a19f8e6b7d90fec8]: Textual amendment: Word in [Pt. 3](https://www.legislation.gov.uk/uksi/2013/3109/part/3) heading omitted (1.9.2026) by virtue of [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/528/regulation/9/a) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
 
-[^key-13a47d016ba5a198ddee3c00674396f6]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2013/3109/part/3) heading substituted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/528/regulation/9/b) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-13a47d016ba5a198ddee3c00674396f6]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2013/3109/part/3) heading substituted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/528/regulation/9/b) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
 
-[^key-bf53b836a0e84c46133137dfda0f12e1]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2013/3109/part/5) heading inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/528/regulation/14) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-bf53b836a0e84c46133137dfda0f12e1]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2013/3109/part/5) heading inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/528/regulation/14) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))

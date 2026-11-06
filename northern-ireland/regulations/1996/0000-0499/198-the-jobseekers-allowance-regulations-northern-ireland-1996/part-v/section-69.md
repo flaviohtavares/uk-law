@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Prescribed period for purposes of Article 21(2) of the Order[^key-0ab27d2879c4c0fb3ce160c749e194e8]
+## 69. Prescribed period for purposes of Article 21(2) of the Order[^c-0ab27d2879c4c0fb3ce160c749e194e8]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ The prescribed period for the purposes of Article 21(2) of the Order (circumstan
 
 ## Annotations
 
-[^key-0ab27d2879c4c0fb3ce160c749e194e8]: Commencement: Reg. 69 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0ab27d2879c4c0fb3ce160c749e194e8]: Commencement: Reg. 69 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

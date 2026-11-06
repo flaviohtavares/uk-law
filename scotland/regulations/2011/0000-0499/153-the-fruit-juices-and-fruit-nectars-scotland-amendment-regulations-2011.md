@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Fruit Juices and Fruit Nectars (Scotland) Amendment Regulations 2011 (revoked)[^key-015cfc16eba5505730795cc1537152a3]
+The Fruit Juices and Fruit Nectars (Scotland) Amendment Regulations 2011 (revoked)[^c-015cfc16eba5505730795cc1537152a3]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 18th March 2011
 
-[^key-015cfc16eba5505730795cc1537152a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-015cfc16eba5505730795cc1537152a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-015cfc16eba5505730795cc1537152a3]
+## 1. Citation and commencement[^c-015cfc16eba5505730795cc1537152a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fruit Juices and Fruit Nectars (Scotland) Regulations 2003[^key-015cfc16eba5505730795cc1537152a3]
+## 2. Amendment of the Fruit Juices and Fruit Nectars (Scotland) Regulations 2003[^c-015cfc16eba5505730795cc1537152a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-015cfc16eba5505730795cc1537152a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-015cfc16eba5505730795cc1537152a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-015cfc16eba5505730795cc1537152a3]
+## SCHEDULE[^c-015cfc16eba5505730795cc1537152a3]
 
 Regulation 2(5)
 
 **May not be in force at this date. Check the source.**
 
-[^key-015cfc16eba5505730795cc1537152a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-015cfc16eba5505730795cc1537152a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-015cfc16eba5505730795cc1537152a3]: Textual amendment: Regulations revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (Scotland) Regulations 2013 (S.S.I. 2013/305)](https://www.legislation.gov.uk/ssi/2013/305), regs. 1(2), [19(c)](https://www.legislation.gov.uk/ssi/2013/305/regulation/19/c)
+[^c-015cfc16eba5505730795cc1537152a3]: Textual amendment: Regulations revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (Scotland) Regulations 2013 (S.S.I. 2013/305)](https://www.legislation.gov.uk/ssi/2013/305), regs. 1(2), [19(c)](https://www.legislation.gov.uk/ssi/2013/305/regulation/19/c)

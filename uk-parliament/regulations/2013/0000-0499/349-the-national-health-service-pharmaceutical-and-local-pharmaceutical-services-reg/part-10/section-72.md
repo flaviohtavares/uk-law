@@ -22,7 +22,7 @@ summary: ''
 
 (1) A remedial notice or breach notice may only provide for the withholding of all or any part of the remuneration of an NHS chemist (C) if—
 
-- (a) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] is satisfied that the breach to which the withholding relates is, or was, without good cause;
+- (a) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] is satisfied that the breach to which the withholding relates is, or was, without good cause;
 - (b) the amount withheld is justifiable and proportionate, having regard to the nature and seriousness of the breach and the reasons for it;
 - (c) NHS England includes in the notice its duly justified reasons for both the decision to withhold remuneration and the amounts that are, and (where applicable) are to be, withheld.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

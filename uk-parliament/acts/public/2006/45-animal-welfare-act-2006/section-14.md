@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Codes of practice[^key-51915fa7dad3a3178eb3256545c1d14b][^key-6c011ec55e0953b45187229f0359298b]
+## 14. Codes of practice[^c-51915fa7dad3a3178eb3256545c1d14b][^c-6c011ec55e0953b45187229f0359298b]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51915fa7dad3a3178eb3256545c1d14b]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/45/section/14) in force at 1.10.2007 for E. by [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/a)
+[^c-51915fa7dad3a3178eb3256545c1d14b]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/45/section/14) in force at 1.10.2007 for E. by [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/a)
 
-[^key-6c011ec55e0953b45187229f0359298b]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/45/section/14) in force at 24.10.2007 for W. by [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/a)
+[^c-6c011ec55e0953b45187229f0359298b]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/45/section/14) in force at 24.10.2007 for W. by [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(a)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/a)

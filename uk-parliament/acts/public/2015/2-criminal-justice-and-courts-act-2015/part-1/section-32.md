@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Sending letters etc with intent to cause distress or anxiety[^key-e0ebde0c3acdd4625b5e49bb4339d48c]
+## 32. Sending letters etc with intent to cause distress or anxiety[^c-e0ebde0c3acdd4625b5e49bb4339d48c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ebde0c3acdd4625b5e49bb4339d48c]: Commencement: S. 32 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/26)
+[^c-e0ebde0c3acdd4625b5e49bb4339d48c]: Commencement: S. 32 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/26)

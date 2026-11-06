@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Return of contributions: further provisions[^key-28f532e184e375bff297892be8e6792b]
+## 53. Return of contributions: further provisions[^c-28f532e184e375bff297892be8e6792b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28f532e184e375bff297892be8e6792b]: Textual amendment: Reg. 53 omitted (6.4.2006) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2006 (S.I. 2006/576)](https://www.legislation.gov.uk/uksi/2006/576), [regs. 1](https://www.legislation.gov.uk/uksi/2006/576/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/576/regulation/5)
+[^c-28f532e184e375bff297892be8e6792b]: Textual amendment: Reg. 53 omitted (6.4.2006) by virtue of [The Social Security (Contributions) (Amendment No. 2) Regulations 2006 (S.I. 2006/576)](https://www.legislation.gov.uk/uksi/2006/576), [regs. 1](https://www.legislation.gov.uk/uksi/2006/576/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/576/regulation/5)

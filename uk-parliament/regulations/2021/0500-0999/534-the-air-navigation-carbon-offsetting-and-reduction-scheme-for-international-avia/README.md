@@ -154,9 +154,9 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 - [Section 40 — Rounding of data](part-3/section-40.md)
 - [Section 41 — Electronic data exchange and use of automated systems](part-3/section-41.md)
 
-### PART 3A — CO<sub>2</sub> offsetting requirements from international flights and emissions reductions from the use of CORSIA eligible fuels[^key-09437ac2a01f76027183111711170db4]
+### PART 3A — CO<sub>2</sub> offsetting requirements from international flights and emissions reductions from the use of CORSIA eligible fuels[^c-09437ac2a01f76027183111711170db4]
 
-#### CHAPTER 1 — Offsetting[^key-09437ac2a01f76027183111711170db4]
+#### CHAPTER 1 — Offsetting[^c-09437ac2a01f76027183111711170db4]
 
 - [Section 41A — Applicability of CO2 offsetting requirements](part-3a/section-41a.md)
 - [Section 41B — CO2 offsetting requirements](part-3a/section-41b.md)
@@ -279,4 +279,4 @@ A full impact assessment has not been produced for this instrument, as no signif
 
 [^f00001]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16). Section 60 was amended by the Aviation and Maritime Security Act [1990 (c. 31)](https://www.legislation.gov.uk/ukpga/1990/31), sections 47 and 53(2) and Schedule 4, the Airports (Northern Ireland) Order 1994 ([S.I. 1994/426](https://www.legislation.gov.uk/uksi/1994/426)), article 71(4) and Schedule 10, the Statute Law (Repeals) Act [1995 (c. 44)](https://www.legislation.gov.uk/ukpga/1995/44), section 1(1) and Schedule 1, Part V; the Airports Act [1986 (c. 31)](https://www.legislation.gov.uk/ukpga/1986/31) section 83(5) and Schedule 6, Part II and the Civil Aviation Act [2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), section 8(1) and (5). Section 61 was amended by the Airports Act [1986 (c. 31)](https://www.legislation.gov.uk/ukpga/1986/31), section 83(5) and Schedule 6, Part II and the Aviation (Offences) Act [2003 (c. 19)](https://www.legislation.gov.uk/ukpga/2003/19), section 2. Section 102 was amended by the Air Travel Organisers’ Licensing Act [2017 (c. 33)](https://www.legislation.gov.uk/ukpga/2017/33), section 2(3). Schedule 13 was amended by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), section 36 and Schedule 4, paragraphs 1 and 17.
 
-[^key-09437ac2a01f76027183111711170db4]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2021/534/part/3A) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [22](https://www.legislation.gov.uk/uksi/2022/1050/article/22)
+[^c-09437ac2a01f76027183111711170db4]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2021/534/part/3A) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [22](https://www.legislation.gov.uk/uksi/2022/1050/article/22)

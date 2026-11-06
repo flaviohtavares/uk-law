@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Deferment of accrued earned pension attributable to a transfer value payment[^key-8b6462e9332836485235a5172df549a5]
+## 70. Deferment of accrued earned pension attributable to a transfer value payment[^c-8b6462e9332836485235a5172df549a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b6462e9332836485235a5172df549a5]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2015/182/regulation/70) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-8b6462e9332836485235a5172df549a5]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2015/182/regulation/70) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

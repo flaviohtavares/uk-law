@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Disregard of certain interests and improvements[^key-a0a64d915c7a2a7cfb667ec8254585b6]
+## 40. Disregard of certain interests and improvements[^c-a0a64d915c7a2a7cfb667ec8254585b6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-a0a64d915c7a2a7cfb667ec8254585b6]: Commencement: Art. 40 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-a0a64d915c7a2a7cfb667ec8254585b6]: Commencement: Art. 40 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Trustees' duties once implementation strategy approved[^c24459191][^key-4bc95b2916989339dd188a19394fe07f]
+## 41. Trustees' duties once implementation strategy approved[^c24459191][^c-4bc95b2916989339dd188a19394fe07f]
 
 *Extent: E+W+S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) pursue the continuity option identified in the strategy, and
 - (b) take such other steps as are identified in the strategy in order to carry it out.
 
-(2) The Secretary of State may by regulations require the trustees of a collective money purchase scheme to make available an approved implementation strategy relating to the scheme, before the end of the period specified or described in the regulations, to employers or, where the scheme is a single or connected employer scheme, relevant former employers[^key-95f2041342ff8db5f12ed1411be0f9a9] that are of a description specified in the regulations.
+(2) The Secretary of State may by regulations require the trustees of a collective money purchase scheme to make available an approved implementation strategy relating to the scheme, before the end of the period specified or described in the regulations, to employers or, where the scheme is a single or connected employer scheme, relevant former employers[^c-95f2041342ff8db5f12ed1411be0f9a9] that are of a description specified in the regulations.
 
 (3) If an item 1, 2 or 3 triggering event occurs within the triggering event period for an earlier triggering event—
 
@@ -49,6 +49,6 @@ Subsections (3) to (5) of section 32 apply for the purposes of paragraph (b) abo
 
 [^c24459191]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2021/1/section/41) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-4bc95b2916989339dd188a19394fe07f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2021/1/section/41) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-4bc95b2916989339dd188a19394fe07f]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2021/1/section/41) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-95f2041342ff8db5f12ed1411be0f9a9]: Textual amendment: Words in [s. 41(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/41/2) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/3)
+[^c-95f2041342ff8db5f12ed1411be0f9a9]: Textual amendment: Words in [s. 41(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/41/2) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [17(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/17/3)

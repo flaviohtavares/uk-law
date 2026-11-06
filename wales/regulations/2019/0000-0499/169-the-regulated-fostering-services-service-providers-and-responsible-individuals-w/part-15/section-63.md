@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Quality of care review[^key-a9eb627174c49b67e548652aa92fd954]
+## 63. Quality of care review[^c-a9eb627174c49b67e548652aa92fd954]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9eb627174c49b67e548652aa92fd954]: Commencement: [Reg. 63](https://www.legislation.gov.uk/wsi/2019/169/regulation/63) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-a9eb627174c49b67e548652aa92fd954]: Commencement: [Reg. 63](https://www.legislation.gov.uk/wsi/2019/169/regulation/63) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

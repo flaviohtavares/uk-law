@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142.[^key-8d6e35750b582f7da6a45a4b8fe1d925]
+## 142.[^c-8d6e35750b582f7da6a45a4b8fe1d925]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 218 (calculation of earnings rate for a tax year), in subsection (4),
 
 ## Annotations
 
-[^key-8d6e35750b582f7da6a45a4b8fe1d925]: Commencement: Reg. 142 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-8d6e35750b582f7da6a45a4b8fe1d925]: Commencement: Reg. 142 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

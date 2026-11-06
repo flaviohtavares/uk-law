@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Production orders[^key-f54d33cd619e74d22a4035afbc970436]
+## 6. Production orders[^c-f54d33cd619e74d22a4035afbc970436]
 
 *Extent: E+W+N.I.*
 
 (1) A High Court judge may, on an application made to them by an appropriate officer, make a production order if the judge is satisfied that each of the requirements for the making of the order is fulfilled.
 
-(2)[^key-773f118179a796245d61f893523aa85c] The application for a production order must state that—
+(2)[^c-773f118179a796245d61f893523aa85c] The application for a production order must state that—
 
 - (a) a person specified in the application is subject to an external investigation and the condition in article 3(2) is met in respect of the person; or
 - (b) property specified in the application is subject to an external investigation and the condition in article 3(2) is met in respect of the property.
@@ -44,6 +44,6 @@ within the period stated in the order.
 
 ## Annotations
 
-[^key-f54d33cd619e74d22a4035afbc970436]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/2605/article/6) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-f54d33cd619e74d22a4035afbc970436]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/2605/article/6) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-773f118179a796245d61f893523aa85c]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/6/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [4](https://www.legislation.gov.uk/uksi/2015/1751/article/4)
+[^c-773f118179a796245d61f893523aa85c]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/6/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [4](https://www.legislation.gov.uk/uksi/2015/1751/article/4)

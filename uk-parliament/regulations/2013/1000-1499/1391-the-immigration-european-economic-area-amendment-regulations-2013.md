@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) Regulations 2013 (revoked)[^key-e0e442ed432a03f0ff316b8f71429eec]
+The Immigration (European Economic Area) (Amendment) Regulations 2013 (revoked)[^c-e0e442ed432a03f0ff316b8f71429eec]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2013
 
-[^key-e0e442ed432a03f0ff316b8f71429eec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0e442ed432a03f0ff316b8f71429eec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e0e442ed432a03f0ff316b8f71429eec]
+## 1. Citation and commencement[^c-e0e442ed432a03f0ff316b8f71429eec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Immigration (European Economic Area) Regulations 2006[^key-e0e442ed432a03f0ff316b8f71429eec]
+## 2. Amendments to the Immigration (European Economic Area) Regulations 2006[^c-e0e442ed432a03f0ff316b8f71429eec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0e442ed432a03f0ff316b8f71429eec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0e442ed432a03f0ff316b8f71429eec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e0e442ed432a03f0ff316b8f71429eec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0e442ed432a03f0ff316b8f71429eec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0e442ed432a03f0ff316b8f71429eec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1391) revoked (1.2.2017) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
+[^c-e0e442ed432a03f0ff316b8f71429eec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1391) revoked (1.2.2017) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/1052/regulation/1/2/b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)

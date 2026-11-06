@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin[^key-d4253168a83b1d744c8673caea56c1a4]
+## 2. Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) of the European Parliament and of the Council on maximum residue levels of pesticides in or on food and feed of plant and animal origin[^c-d4253168a83b1d744c8673caea56c1a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EC) No 396/2005](https://www.legislation.gov.uk/eur/2005/396) is am
 
 ## Annotations
 
-[^key-d4253168a83b1d744c8673caea56c1a4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d4253168a83b1d744c8673caea56c1a4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

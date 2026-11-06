@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74.7C. Suspension of proceedings in which a judgment is invoked under the Judgments Regulation[^key-60b00cdf4e4ce634f1248ed19e9040c2][^key-3bdde8a4ae2efc3f1bdb3d288be72b56]
+## 74.7C. Suspension of proceedings in which a judgment is invoked under the Judgments Regulation[^c-60b00cdf4e4ce634f1248ed19e9040c2][^c-3bdde8a4ae2efc3f1bdb3d288be72b56]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60b00cdf4e4ce634f1248ed19e9040c2]: Textual amendment: [Rule 74.7C](https://www.legislation.gov.uk/uksi/1998/3132/rule/74.7C) omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [15(11)](https://www.legislation.gov.uk/uksi/2019/521/regulation/15/11) (with [regs. 26](https://www.legislation.gov.uk/uksi/2019/521/regulation/26), [27](https://www.legislation.gov.uk/uksi/2019/521/regulation/27)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(i)(j)(4)(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/i/j/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60b00cdf4e4ce634f1248ed19e9040c2]: Textual amendment: [Rule 74.7C](https://www.legislation.gov.uk/uksi/1998/3132/rule/74.7C) omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [15(11)](https://www.legislation.gov.uk/uksi/2019/521/regulation/15/11) (with [regs. 26](https://www.legislation.gov.uk/uksi/2019/521/regulation/26), [27](https://www.legislation.gov.uk/uksi/2019/521/regulation/27)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(i)(j)(4)(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/i/j/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)
+[^c-3bdde8a4ae2efc3f1bdb3d288be72b56]: Textual amendment: Pt. 74 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 8](https://www.legislation.gov.uk/uksi/2002/2058/schedule/8)

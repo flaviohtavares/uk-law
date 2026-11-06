@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Application of the 1990 Act[^key-b350bc5f55bf3fc9eb2e1f15df5df45e]
+## 8. Application of the 1990 Act[^c-b350bc5f55bf3fc9eb2e1f15df5df45e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b350bc5f55bf3fc9eb2e1f15df5df45e]: Commencement: Art. 8 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-b350bc5f55bf3fc9eb2e1f15df5df45e]: Commencement: Art. 8 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

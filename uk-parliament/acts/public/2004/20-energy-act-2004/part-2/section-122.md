@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Consultation in relation to Northern Ireland renewables orders[^key-c61121e5ff1c98d3a971f35d795e93a3]
+## 122. Consultation in relation to Northern Ireland renewables orders[^c-c61121e5ff1c98d3a971f35d795e93a3]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c61121e5ff1c98d3a971f35d795e93a3]: Commencement: S. 122 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c61121e5ff1c98d3a971f35d795e93a3]: Commencement: S. 122 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

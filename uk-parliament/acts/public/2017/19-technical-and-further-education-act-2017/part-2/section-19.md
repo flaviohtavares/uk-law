@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Grounds for making an education administration order[^key-1e8cc0c4b7e58674852216cf52a6310d]
+## 19. Grounds for making an education administration order[^c-1e8cc0c4b7e58674852216cf52a6310d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8cc0c4b7e58674852216cf52a6310d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/19/section/19) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-1e8cc0c4b7e58674852216cf52a6310d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/19/section/19) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

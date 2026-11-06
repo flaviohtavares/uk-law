@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73B. Infrastructure payments: notification requirements[^key-9d427969858196b175b18820a9957d63]
+## 73B. Infrastructure payments: notification requirements[^c-9d427969858196b175b18820a9957d63]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d427969858196b175b18820a9957d63]: Textual amendment: [Regs. 73A](https://www.legislation.gov.uk/uksi/2010/948/regulation/73A), [73B](https://www.legislation.gov.uk/uksi/2010/948/regulation/73B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/6)
+[^c-9d427969858196b175b18820a9957d63]: Textual amendment: [Regs. 73A](https://www.legislation.gov.uk/uksi/2010/948/regulation/73A), [73B](https://www.legislation.gov.uk/uksi/2010/948/regulation/73B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/6)

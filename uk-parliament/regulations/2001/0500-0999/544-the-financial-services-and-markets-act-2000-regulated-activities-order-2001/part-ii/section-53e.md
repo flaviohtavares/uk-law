@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53E. Advising on conversion or transfer of pension benefits[^key-8102b12cebf309ae9093291251849c80]
+## 53E. Advising on conversion or transfer of pension benefits[^c-8102b12cebf309ae9093291251849c80]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8102b12cebf309ae9093291251849c80]: Textual amendment: Art. 53E inserted (6.4.2015) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2015 (S.I. 2015/731)](https://www.legislation.gov.uk/uksi/2015/731), [arts. 1](https://www.legislation.gov.uk/uksi/2015/731/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/731/article/2/2)
+[^c-8102b12cebf309ae9093291251849c80]: Textual amendment: Art. 53E inserted (6.4.2015) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2015 (S.I. 2015/731)](https://www.legislation.gov.uk/uksi/2015/731), [arts. 1](https://www.legislation.gov.uk/uksi/2015/731/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/731/article/2/2)

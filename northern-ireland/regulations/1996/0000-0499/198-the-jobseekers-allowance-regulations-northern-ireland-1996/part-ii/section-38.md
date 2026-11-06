@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Direction to vary Agreement: time for compliance[^key-fb5245e259cc95713e070347e4d59202]
+## 38. Direction to vary Agreement: time for compliance[^c-fb5245e259cc95713e070347e4d59202]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The prescribed period for the purposes of Article 12(6)(c) of the Order shall be
 
 ## Annotations
 
-[^key-fb5245e259cc95713e070347e4d59202]: Commencement: Reg. 38 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-fb5245e259cc95713e070347e4d59202]: Commencement: Reg. 38 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

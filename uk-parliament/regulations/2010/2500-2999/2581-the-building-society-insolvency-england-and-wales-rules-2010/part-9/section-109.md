@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Loss of qualification as insolvency practitioner[^key-b7778457a86273c7f4ddbbb21921a00e]
+## 109. Loss of qualification as insolvency practitioner[^c-b7778457a86273c7f4ddbbb21921a00e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7778457a86273c7f4ddbbb21921a00e]: Commencement: Rule 109 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b7778457a86273c7f4ddbbb21921a00e]: Commencement: Rule 109 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

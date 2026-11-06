@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Service of documents.[^c998898][^c998899][^key-1ef6958ce3d28bb1d3f94ae10edc7796][^key-cfb3a3626834d33082b20906f89ca505][^key-0d235c0cf6dd683d840b0282d2ed4493][^c998897]
+## 127. Service of documents.[^c998898][^c998899][^c-1ef6958ce3d28bb1d3f94ae10edc7796][^c-cfb3a3626834d33082b20906f89ca505][^c-0d235c0cf6dd683d840b0282d2ed4493][^c998897]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ Any notice or other document required or authorised by any provision of this Act
 
     S. 127 applied (31.3.1997) by [S.I. 1997/322](https://www.legislation.gov.uk/uksi/1997/322), [reg. 34](https://www.legislation.gov.uk/uksi/1997/322/regulation/34), [Sch.5](https://www.legislation.gov.uk/uksi/1997/322/schedule/5)
 
-[^key-1ef6958ce3d28bb1d3f94ae10edc7796]: Modification: S. 127 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
+[^c-1ef6958ce3d28bb1d3f94ae10edc7796]: Modification: S. 127 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
 
-[^key-cfb3a3626834d33082b20906f89ca505]: Modification: Ss. 121-127 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11), [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
+[^c-cfb3a3626834d33082b20906f89ca505]: Modification: Ss. 121-127 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11), [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
 
-[^key-0d235c0cf6dd683d840b0282d2ed4493]: Modification: S. 127 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
+[^c-0d235c0cf6dd683d840b0282d2ed4493]: Modification: S. 127 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
 
 [^c998897]: Modification: Pt. VIII (ss. 104–136) extended by S.I.s 1982/425, art. 3, 1984/187 art. 2; and extended with modifications by [S.I. 1985/403](https://www.legislation.gov.uk/uksi/1985/403), [art. 3(1)](https://www.legislation.gov.uk/uksi/1985/403/article/3/1)

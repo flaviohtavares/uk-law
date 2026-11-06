@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Mandatories[^key-3db2fafbe4377d2ae27392e0f1c2e765]
+## 42. Mandatories[^c-3db2fafbe4377d2ae27392e0f1c2e765]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db2fafbe4377d2ae27392e0f1c2e765]: Commencement: S. 42 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-3db2fafbe4377d2ae27392e0f1c2e765]: Commencement: S. 42 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

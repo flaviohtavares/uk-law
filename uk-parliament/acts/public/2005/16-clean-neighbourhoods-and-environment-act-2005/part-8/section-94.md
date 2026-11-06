@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Architecture and the built environment: financial assistance[^key-59e3ac207c77cdfad7d0a27b5290ec9e]
+## 94. Architecture and the built environment: financial assistance[^c-59e3ac207c77cdfad7d0a27b5290ec9e]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) Financial assistance under this section may be given subject to conditions imposed by the Secretary of State or the Treasury.
 
-(4)[^key-6b2f58f14932cf0e97211a8f01c24727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6b2f58f14932cf0e97211a8f01c24727] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) “**The built environment**” includes—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59e3ac207c77cdfad7d0a27b5290ec9e]: Commencement: S. 94 in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
+[^c-59e3ac207c77cdfad7d0a27b5290ec9e]: Commencement: S. 94 in force at 1.1.2006 by [S.I. 2005/3439](https://www.legislation.gov.uk/uksi/2005/3439), [art. 2](https://www.legislation.gov.uk/uksi/2005/3439/article/2)
 
-[^key-6b2f58f14932cf0e97211a8f01c24727]: Textual amendment: [S. 94(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/94/4) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
+[^c-6b2f58f14932cf0e97211a8f01c24727]: Textual amendment: [S. 94(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/94/4) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)

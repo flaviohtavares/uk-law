@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Age of retirement of teachers.[^key-5a0fa20c838578a6208e31c1c8b4d11d]
+## 89. Age of retirement of teachers.[^c-5a0fa20c838578a6208e31c1c8b4d11d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a0fa20c838578a6208e31c1c8b4d11d]: Textual amendment: S. 89 repealed (1.10.2006) by [Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+[^c-5a0fa20c838578a6208e31c1c8b4d11d]: Textual amendment: S. 89 repealed (1.10.2006) by [Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))

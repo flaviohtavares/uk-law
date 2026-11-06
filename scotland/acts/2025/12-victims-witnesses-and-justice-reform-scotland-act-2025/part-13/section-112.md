@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Regulations[^key-1a5d7230eca2aee6d24b7b5a1606e01c]
+## 112. Regulations[^c-1a5d7230eca2aee6d24b7b5a1606e01c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a5d7230eca2aee6d24b7b5a1606e01c]: Commencement: S. 112 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)
+[^c-1a5d7230eca2aee6d24b7b5a1606e01c]: Commencement: S. 112 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)

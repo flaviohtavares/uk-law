@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. The IFR’s objectives[^key-57eb7859ab5cdb576823e3ba5bf0a039]
+## 6. The IFR’s objectives[^c-57eb7859ab5cdb576823e3ba5bf0a039]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The IFR’s objectives are—
 
 ## Annotations
 
-[^key-57eb7859ab5cdb576823e3ba5bf0a039]: Commencement: S. 6 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-57eb7859ab5cdb576823e3ba5bf0a039]: Commencement: S. 6 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

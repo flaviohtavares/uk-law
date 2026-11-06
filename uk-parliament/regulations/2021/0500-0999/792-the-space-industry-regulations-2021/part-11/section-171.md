@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Operator security programme[^key-809083754fa99de7b3141ca6cb571862]
+## 171. Operator security programme[^c-809083754fa99de7b3141ca6cb571862]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-809083754fa99de7b3141ca6cb571862]: Commencement: Reg. 171 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-809083754fa99de7b3141ca6cb571862]: Commencement: Reg. 171 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

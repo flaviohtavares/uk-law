@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Damages at risk of being used for the purposes of terrorism[^key-24f83dd57a9c0cba57f6cc96a096e180]
+## 88. Damages at risk of being used for the purposes of terrorism[^c-24f83dd57a9c0cba57f6cc96a096e180]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 16 makes provision in relation to damages at risk of being used for the
 
 ## Annotations
 
-[^key-24f83dd57a9c0cba57f6cc96a096e180]: Commencement: S. 88 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-24f83dd57a9c0cba57f6cc96a096e180]: Commencement: S. 88 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

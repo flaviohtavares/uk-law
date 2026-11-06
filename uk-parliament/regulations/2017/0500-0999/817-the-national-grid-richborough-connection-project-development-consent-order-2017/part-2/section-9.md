@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Application of the Community Infrastructure Levy Regulations 2010[^key-4181a84352bf6f1a9405c025123bacc6]
+## 9. Application of the Community Infrastructure Levy Regulations 2010[^c-4181a84352bf6f1a9405c025123bacc6]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4181a84352bf6f1a9405c025123bacc6]: Commencement: Art. 9 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-4181a84352bf6f1a9405c025123bacc6]: Commencement: Art. 9 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
 [^f00015]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948), as amended by [S.I 2011/987](https://www.legislation.gov.uk/uksi/2011/987), [S.I. 2012/2975](https://www.legislation.gov.uk/uksi/2012/2975), [S.I. 2013/982](https://www.legislation.gov.uk/uksi/2013/982), [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385) and [S.I. 2015/836](https://www.legislation.gov.uk/uksi/2015/836).

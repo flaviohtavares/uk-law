@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Offence of persistently selling alcohol to children[^key-094658f22272ae731945c078e5a4092b]
+## 23. Offence of persistently selling alcohol to children[^c-094658f22272ae731945c078e5a4092b]
 
 *Extent: E+W*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-094658f22272ae731945c078e5a4092b]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/38/section/23) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/858/article/2/a)
+[^c-094658f22272ae731945c078e5a4092b]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/38/section/23) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/858/article/2/a)

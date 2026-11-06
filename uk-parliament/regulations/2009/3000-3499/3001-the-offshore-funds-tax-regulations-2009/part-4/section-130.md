@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Amendment of FA 2008[^key-4f5250f32417c79281eb632c586845c9]
+## 130. Amendment of FA 2008[^c-4f5250f32417c79281eb632c586845c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f5250f32417c79281eb632c586845c9]: Textual amendment: Reg. 130 omitted (retrospective and with effect for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/c/iii)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-4f5250f32417c79281eb632c586845c9]: Textual amendment: Reg. 130 omitted (retrospective and with effect for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/c/iii)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)

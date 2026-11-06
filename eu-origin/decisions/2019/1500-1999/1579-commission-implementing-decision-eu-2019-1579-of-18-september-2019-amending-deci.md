@@ -39,126 +39,126 @@ amending Decisions 2008/933/EC, 2009/813/EC, 2009/814/EC and 2010/429/EU and Imp
 
 (Text with EEA relevance) (revoked)
 
-[^key-4879ae198586d24cc799cd9b73268030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4879ae198586d24cc799cd9b73268030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Decision 2008/933/EC[^key-4879ae198586d24cc799cd9b73268030]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Decision 2009/813/EC[^key-4879ae198586d24cc799cd9b73268030]
+## Article 1. Amendments to Decision 2008/933/EC[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Decision 2009/814/EC[^key-4879ae198586d24cc799cd9b73268030]
+## Article 2. Amendments to Decision 2009/813/EC[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendments to Decision 2010/429/EU[^key-4879ae198586d24cc799cd9b73268030]
+## Article 3. Amendments to Decision 2009/814/EC[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendments to Implementing Decision 2012/82/EU[^key-4879ae198586d24cc799cd9b73268030]
+## Article 4. Amendments to Decision 2010/429/EU[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Amendments to Implementing Decision 2012/83/EU[^key-4879ae198586d24cc799cd9b73268030]
+## Article 5. Amendments to Implementing Decision 2012/82/EU[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Amendments to Implementing Decision 2012/347/EU[^key-4879ae198586d24cc799cd9b73268030]
+## Article 6. Amendments to Implementing Decision 2012/83/EU[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Amendments to Implementing Decision 2013/649/EU[^key-4879ae198586d24cc799cd9b73268030]
+## Article 7. Amendments to Implementing Decision 2012/347/EU[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Amendments to Commission Implementing Decision (EU) 2015/683[^key-4879ae198586d24cc799cd9b73268030]
+## Article 8. Amendments to Implementing Decision 2013/649/EU[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Amendments to Implementing Decision (EU) 2015/684[^key-4879ae198586d24cc799cd9b73268030]
+## Article 9. Amendments to Commission Implementing Decision (EU) 2015/683[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Amendments to Implementing Decision (EU) 2015/685[^key-4879ae198586d24cc799cd9b73268030]
+## Article 10. Amendments to Implementing Decision (EU) 2015/684[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Amendments to Implementing Decision (EU) 2015/686[^key-4879ae198586d24cc799cd9b73268030]
+## Article 11. Amendments to Implementing Decision (EU) 2015/685[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Amendments to Implementing Decision (EU) 2015/687[^key-4879ae198586d24cc799cd9b73268030]
+## Article 12. Amendments to Implementing Decision (EU) 2015/686[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Amendments to Implementing Decision (EU) 2015/688[^key-4879ae198586d24cc799cd9b73268030]
+## Article 13. Amendments to Implementing Decision (EU) 2015/687[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Amendments to Implementing Decision (EU) 2015/689[^key-4879ae198586d24cc799cd9b73268030]
+## Article 14. Amendments to Implementing Decision (EU) 2015/688[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Amendments to Implementing Decision (EU) 2015/693[^key-4879ae198586d24cc799cd9b73268030]
+## Article 15. Amendments to Implementing Decision (EU) 2015/689[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Amendments to Implementing Decision (EU) 2015/695[^key-4879ae198586d24cc799cd9b73268030]
+## Article 16. Amendments to Implementing Decision (EU) 2015/693[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Amendments to Implementing Decision (EU) 2015/696[^key-4879ae198586d24cc799cd9b73268030]
+## Article 17. Amendments to Implementing Decision (EU) 2015/695[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Amendments to Implementing Decision (EU) 2015/700[^key-4879ae198586d24cc799cd9b73268030]
+## Article 18. Amendments to Implementing Decision (EU) 2015/696[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Amendments to Implementing Decision (EU) 2015/701[^key-4879ae198586d24cc799cd9b73268030]
+## Article 19. Amendments to Implementing Decision (EU) 2015/700[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Amendments to Implementing Decision (EU) 2015/2279[^key-4879ae198586d24cc799cd9b73268030]
+## Article 20. Amendments to Implementing Decision (EU) 2015/701[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 22. Amendments to Implementing Decision (EU) 2015/2281[^key-4879ae198586d24cc799cd9b73268030]
+## Article 21. Amendments to Implementing Decision (EU) 2015/2279[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 23. Amendments to Implementing Decision (EU) 2016/1216[^key-4879ae198586d24cc799cd9b73268030]
+## Article 22. Amendments to Implementing Decision (EU) 2015/2281[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 24. Amendments to Implementing Decision (EU) 2016/1217[^key-4879ae198586d24cc799cd9b73268030]
+## Article 23. Amendments to Implementing Decision (EU) 2016/1216[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 25. Amendments to Implementing Decision (EU) 2017/1207[^key-4879ae198586d24cc799cd9b73268030]
+## Article 24. Amendments to Implementing Decision (EU) 2016/1217[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 26. Amendments to Implementing Decision (EU) 2018/1111[^key-4879ae198586d24cc799cd9b73268030]
+## Article 25. Amendments to Implementing Decision (EU) 2017/1207[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 27. Amendments to Implementing Decision (EU) 2018/2045[^key-4879ae198586d24cc799cd9b73268030]
+## Article 26. Amendments to Implementing Decision (EU) 2018/1111[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 28. Amendments to Implementing Decision (EU) 2018/2046[^key-4879ae198586d24cc799cd9b73268030]
+## Article 27. Amendments to Implementing Decision (EU) 2018/2045[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 29. Addressee[^key-4879ae198586d24cc799cd9b73268030]
+## Article 28. Amendments to Implementing Decision (EU) 2018/2046[^c-4879ae198586d24cc799cd9b73268030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4879ae198586d24cc799cd9b73268030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 29. Addressee[^c-4879ae198586d24cc799cd9b73268030]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4879ae198586d24cc799cd9b73268030]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4879ae198586d24cc799cd9b73268030]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/9)
+[^c-4879ae198586d24cc799cd9b73268030]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/9)

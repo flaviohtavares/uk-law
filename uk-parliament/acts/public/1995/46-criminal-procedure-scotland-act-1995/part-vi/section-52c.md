@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a person has been charged with an offence;
 - (b) the person has not been sentenced;
-- (c) the person is remanded[^key-2623ad1d20ef5d650d17102dd10422ac] in custody; and
+- (c) the person is remanded[^c-2623ad1d20ef5d650d17102dd10422ac] in custody; and
 - (d) it appears to the Scottish Ministers that the person has a mental disorder,
 
 the Scottish Ministers may apply to the court for an assessment order in respect of that person.
@@ -43,4 +43,4 @@ the Scottish Ministers may apply to the court for an assessment order in respect
 
 [^c18911291]: Textual amendment: [Ss. 52A-52U](https://www.legislation.gov.uk/ukpga/1995/46/section/52A) inserted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 130](https://www.legislation.gov.uk/asp/2003/13/section/130), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as amended (27.9.2005) by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [sch. 1 para. 32(13)(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/i/ii), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2))
 
-[^key-2623ad1d20ef5d650d17102dd10422ac]: Textual amendment: Word in [s. 52C(1)(c)](https://www.legislation.gov.uk/ukpga/1995/46/section/52C/1/c) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 38(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/38/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-2623ad1d20ef5d650d17102dd10422ac]: Textual amendment: Word in [s. 52C(1)(c)](https://www.legislation.gov.uk/ukpga/1995/46/section/52C/1/c) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 38(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/38/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

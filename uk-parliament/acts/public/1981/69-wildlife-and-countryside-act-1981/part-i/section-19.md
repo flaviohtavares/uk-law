@@ -38,7 +38,7 @@ summary: ''
 
 In the application of this subsection to Scotland, the reference to a justice of the peace includes a reference to the sheriff.
 
-(9)[^key-0a0231d7c50d8d2b26024c40344bd77a] This section does not apply in relation to offences under Schedule 9A.
+(9)[^c-0a0231d7c50d8d2b26024c40344bd77a] This section does not apply in relation to offences under Schedule 9A.
 
 ## 19. Enforcement.[^c4940751]
 
@@ -96,7 +96,7 @@ In the application of this subsection to Scotland, the reference to a justice of
 
 [^c19474461]: Textual amendment: Words in s. 19(3) omitted (E.W.) (31.5.2006) by virtue of [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/16/section/52), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 5 para. 2(4)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/5/paragraph/2/4) and repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/2), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-0a0231d7c50d8d2b26024c40344bd77a]: Textual amendment: S. 19(9) inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/23/4), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
+[^c-0a0231d7c50d8d2b26024c40344bd77a]: Textual amendment: S. 19(9) inserted (E.W.) (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/23/4), [57(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/4); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/3/a); [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
 
 [^c4940751]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

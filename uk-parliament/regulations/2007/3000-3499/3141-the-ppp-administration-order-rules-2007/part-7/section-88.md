@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Company representation[^key-2e8b238395531b03d83930cd50360d93]
+## 88. Company representation[^c-2e8b238395531b03d83930cd50360d93]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8b238395531b03d83930cd50360d93]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2007/3141/rule/88) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-2e8b238395531b03d83930cd50360d93]: Commencement: [Rule 88](https://www.legislation.gov.uk/uksi/2007/3141/rule/88) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

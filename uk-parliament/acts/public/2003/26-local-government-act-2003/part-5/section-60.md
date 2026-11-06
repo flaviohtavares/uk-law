@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Submission of proposed rating lists[^key-571114c4a4cb50b3e24656458f1d638d][^key-a769a25f2773bf31e1023a361b8e55c4]
+## 60. Submission of proposed rating lists[^c-571114c4a4cb50b3e24656458f1d638d][^c-a769a25f2773bf31e1023a361b8e55c4]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-571114c4a4cb50b3e24656458f1d638d]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2003/26/section/60) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-571114c4a4cb50b3e24656458f1d638d]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2003/26/section/60) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-a769a25f2773bf31e1023a361b8e55c4]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2003/26/section/60) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-a769a25f2773bf31e1023a361b8e55c4]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2003/26/section/60) in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)

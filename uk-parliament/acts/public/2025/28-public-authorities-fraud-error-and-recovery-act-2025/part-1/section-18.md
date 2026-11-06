@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Accounts which may be subject to a direct deduction order[^key-72fa91c48ceba5af8dcfdd3d85d29b5c][^key-45bf14cc5bc35ad3fdab682ce75dac37]
+## 18. Accounts which may be subject to a direct deduction order[^c-72fa91c48ceba5af8dcfdd3d85d29b5c][^c-45bf14cc5bc35ad3fdab682ce75dac37]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-72fa91c48ceba5af8dcfdd3d85d29b5c]: Commencement: S. 18 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-72fa91c48ceba5af8dcfdd3d85d29b5c]: Commencement: S. 18 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-45bf14cc5bc35ad3fdab682ce75dac37]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/28/section/18) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-45bf14cc5bc35ad3fdab682ce75dac37]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/28/section/18) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

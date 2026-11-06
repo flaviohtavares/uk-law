@@ -41,15 +41,15 @@ Coming into force
 
 The Secretary of State for Transport makes this Order in exercise of powers conferred by sections 10 and 12 of the Highways Act 1980[^f00001] and now vested in him[^f00002]:
 
-**1.**[^key-b2441db1a00611caf22b1e5c6dbb5b49] This Order may be cited as the A11 Trunk Road (Fiveways to Thetford Improvement) (Detrunking) Order 2011 and shall come into force on 30th March 2011.
+**1.**[^c-b2441db1a00611caf22b1e5c6dbb5b49] This Order may be cited as the A11 Trunk Road (Fiveways to Thetford Improvement) (Detrunking) Order 2011 and shall come into force on 30th March 2011.
 
-**2.**[^key-095401640b1b1100b4c7645f191c8f02] In this Order—
+**2.**[^c-095401640b1b1100b4c7645f191c8f02] In this Order—
 
 - (a) “classified road” as a classification for a highway, means that the highway is not a principal road for the purposes of enactments or instruments which refer to highways classified as principal roads but is a classified road for the purpose of every enactment and instrument which refers to highways classified by the Secretary of State and which does not specifically refer to their classification as principal roads;
 - (b) “the new trunk road” means the new highway which the Secretary of State proposes to construct referred to in article 2(2)(b) of the A11 Trunk Road (Fiveways to Thetford Improvement) and slip roads Order 2011;
 - (c) “the trunk road” means the A11 Trunk Road.
 
-**3.**[^key-fcad070d6fd8ffab56413ffdf660e09d] The length of the trunk road described in the Schedule to this Order shall cease to be a trunk road and shall be classified as a classified road from the date on which the Secretary of State notifies Suffolk County Council that the new trunk road is open for traffic.
+**3.**[^c-fcad070d6fd8ffab56413ffdf660e09d] The length of the trunk road described in the Schedule to this Order shall cease to be a trunk road and shall be classified as a classified road from the date on which the Secretary of State notifies Suffolk County Council that the new trunk road is open for traffic.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -61,7 +61,7 @@ Highways Agency
 
 23rd March 2011
 
-## SCHEDULE — LENGTH OF THE TRUNK ROAD CEASING TO BE A TRUNK ROAD[^key-1e3d7bb687055446877a19cb09d35cae]
+## SCHEDULE — LENGTH OF THE TRUNK ROAD CEASING TO BE A TRUNK ROAD[^c-1e3d7bb687055446877a19cb09d35cae]
 
 Article 3
 
@@ -79,10 +79,10 @@ This order re-classifies the section of existing A11 Trunk Road which passes thr
 
 [^f00002]: Footnote: [S.I. 1981/238](https://www.legislation.gov.uk/uksi/1981/238).
 
-[^key-b2441db1a00611caf22b1e5c6dbb5b49]: Commencement: Art. 1 in force at 30.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1070/article/1)
+[^c-b2441db1a00611caf22b1e5c6dbb5b49]: Commencement: Art. 1 in force at 30.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1070/article/1)
 
-[^key-095401640b1b1100b4c7645f191c8f02]: Commencement: Art. 2 in force at 30.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1070/article/1)
+[^c-095401640b1b1100b4c7645f191c8f02]: Commencement: Art. 2 in force at 30.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1070/article/1)
 
-[^key-fcad070d6fd8ffab56413ffdf660e09d]: Commencement: Art. 3 in force at 30.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1070/article/1)
+[^c-fcad070d6fd8ffab56413ffdf660e09d]: Commencement: Art. 3 in force at 30.3.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1070/article/1)
 
-[^key-1e3d7bb687055446877a19cb09d35cae]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2011/1070/schedule) substituted (25.3.2015) by [The A11 Trunk Road (Fiveways to Thetford Improvement) (Detrunking) 2011 (Amendment) Order 2015 (S.I. 2015/1581)](https://www.legislation.gov.uk/uksi/2015/1581), [art. 1](https://www.legislation.gov.uk/uksi/2015/1581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1581/schedule)
+[^c-1e3d7bb687055446877a19cb09d35cae]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2011/1070/schedule) substituted (25.3.2015) by [The A11 Trunk Road (Fiveways to Thetford Improvement) (Detrunking) 2011 (Amendment) Order 2015 (S.I. 2015/1581)](https://www.legislation.gov.uk/uksi/2015/1581), [art. 1](https://www.legislation.gov.uk/uksi/2015/1581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1581/schedule)

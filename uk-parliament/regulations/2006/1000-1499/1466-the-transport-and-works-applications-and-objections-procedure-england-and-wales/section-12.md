@@ -75,7 +75,7 @@ summary: ''
   - (vii) which is within a National Park within the meaning of the National Parks and Access to Countryside Act 1949 [^c15886841];
   - (viii) which is property appearing on the World Heritage List kept under article 11(2) of the 1972 UNESCO Convention for the Protection of World Cultural and Natural Heritage [^c15886851];
   - (ix) which is within the Broads [^c15886861];
-  - (x) which is a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 [^c15886871] or the Historic Environment (Wales) Act 2023[^key-99b85bfad0877c9b230dd804cc35ed2d];
+  - (x) which is a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 [^c15886871] or the Historic Environment (Wales) Act 2023[^c-99b85bfad0877c9b230dd804cc35ed2d];
   - (xi) which has been notified under section 28(1) (sites of special scientific interest) of the Wildlife and Countryside Act 1981 [^c15886881]; and
 - (f) specifies, for each plot of land identified in it and within which it is intended that all or part of the proposed works shall be carried out, the area in square metres of that plot.
 
@@ -108,6 +108,6 @@ the applicant shall not be obliged to show them as required by paragraphs (1) an
 
 [^c15886871]: Marginal citation: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46). See the definition in section 1(11).
 
-[^key-99b85bfad0877c9b230dd804cc35ed2d]: Textual amendment: Words in art. 12(8)(e)(x) inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [37](https://www.legislation.gov.uk/wsi/2024/924/regulation/37)
+[^c-99b85bfad0877c9b230dd804cc35ed2d]: Textual amendment: Words in art. 12(8)(e)(x) inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [37](https://www.legislation.gov.uk/wsi/2024/924/regulation/37)
 
 [^c15886881]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69) as amended by the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).

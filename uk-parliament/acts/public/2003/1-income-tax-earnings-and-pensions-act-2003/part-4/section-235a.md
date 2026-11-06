@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235A. Journeys made by members of local authorities etc[^key-5c0d330347f921fc236a490cd8618568]
+## 235A. Journeys made by members of local authorities etc[^c-5c0d330347f921fc236a490cd8618568]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c0d330347f921fc236a490cd8618568]: Textual amendment: S. 235A inserted (with effect in accordance with s. 29(7) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/29/3)
+[^c-5c0d330347f921fc236a490cd8618568]: Textual amendment: S. 235A inserted (with effect in accordance with s. 29(7) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 29(3)](https://www.legislation.gov.uk/ukpga/2015/33/section/29/3)

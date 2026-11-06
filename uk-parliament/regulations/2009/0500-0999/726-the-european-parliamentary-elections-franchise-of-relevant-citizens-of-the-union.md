@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The European Parliamentary Elections (Franchise of Relevant Citizens of the Union) (Amendment) Regulations 2009 (revoked)[^key-21309a0c8c377570e51ad33c5ea4e0ae]
+The European Parliamentary Elections (Franchise of Relevant Citizens of the Union) (Amendment) Regulations 2009 (revoked)[^c-21309a0c8c377570e51ad33c5ea4e0ae]
 
 Made
 
@@ -40,34 +40,34 @@ Made
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-21309a0c8c377570e51ad33c5ea4e0ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21309a0c8c377570e51ad33c5ea4e0ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-21309a0c8c377570e51ad33c5ea4e0ae]
+## 1. Citation, commencement and interpretation[^c-21309a0c8c377570e51ad33c5ea4e0ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2001 Regulations[^key-21309a0c8c377570e51ad33c5ea4e0ae]
+## 2. Amendment of the 2001 Regulations[^c-21309a0c8c377570e51ad33c5ea4e0ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21309a0c8c377570e51ad33c5ea4e0ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21309a0c8c377570e51ad33c5ea4e0ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-21309a0c8c377570e51ad33c5ea4e0ae]
+## SCHEDULE[^c-21309a0c8c377570e51ad33c5ea4e0ae]
 
 Regulation 2(4)
 
-> **SCHEDULE — APPLICATION WITH MODIFICATIONS OF THE 1983 ACT AND VARIOUS REPRESENTATION OF THE PEOPLE REGULATIONS FOR REGISTRATION UNDER THESE REGULATIONS[^key-21309a0c8c377570e51ad33c5ea4e0ae]**
+> **SCHEDULE — APPLICATION WITH MODIFICATIONS OF THE 1983 ACT AND VARIOUS REPRESENTATION OF THE PEOPLE REGULATIONS FOR REGISTRATION UNDER THESE REGULATIONS[^c-21309a0c8c377570e51ad33c5ea4e0ae]**
 >
 > Regulation 9
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21309a0c8c377570e51ad33c5ea4e0ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21309a0c8c377570e51ad33c5ea4e0ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21309a0c8c377570e51ad33c5ea4e0ae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/726) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-21309a0c8c377570e51ad33c5ea4e0ae]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/726) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -65,7 +65,7 @@ summary: ''
 - (a) the replacement in the course of business of equipment or machinery; and
 - (b) the repair of an existing business asset except to the extent that any sum is payable under an insurance policy for its repair.
 
-(7) An appropriate officer[^key-1c2276bc53f0cd377702a2b11655c2e0] shall refuse to make a deduction in respect of any expenses under paragraphs (3)(a), (3A)(a), (4) or (4A), as the case may be,[^M_F_9e1992ad-fefe-4280-c9ce-9823b6a0e8bd] where he is not satisfied that the expense has been defrayed or given the nature and the amount of the expense that it has been reasonably incurred.
+(7) An appropriate officer[^c-1c2276bc53f0cd377702a2b11655c2e0] shall refuse to make a deduction in respect of any expenses under paragraphs (3)(a), (3A)(a), (4) or (4A), as the case may be,[^M_F_9e1992ad-fefe-4280-c9ce-9823b6a0e8bd] where he is not satisfied that the expense has been defrayed or given the nature and the amount of the expense that it has been reasonably incurred.
 
 (8) For the avoidance of doubt—
 
@@ -95,7 +95,7 @@ summary: ''
 (12)[^M_F_6e5f6b74-0245-436a-b9ba-15bcd4d1a95f] In this regulation—
 
 - (a) “qualifying premium” means any premium which at the date of claim is payable periodically in respect of a retirement annuity contract or a personal pension scheme;
-- (b)[^key-e496403f2ababd699b7bba65b8cb304b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e496403f2ababd699b7bba65b8cb304b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13)[^M_F_d51895ea-0759-4841-ed0c-aaf59588f29f] The amount in respect of any qualifying premium shall be calculated by multiplying the daily amount of the qualifying premium by the number equal to the number of days in the assessment period; and for the purposes of this regulation the daily amount of the qualifying premium shall be determined—
 
@@ -128,7 +128,7 @@ summary: ''
 
 [^M_F_a8435ecf-96e3-4315-f109-07e05ec29e37]: Textual amendment: Words in reg. 22(6) substituted (5.12.1988) by Family Credit (General) Amendment No. 4 Regulations 1988 ([S.I. 1988/1970](https://www.legislation.gov.uk/uksi/1988/1970)), reg. 1(1), 6(e)
 
-[^key-1c2276bc53f0cd377702a2b11655c2e0]: Textual amendment: Words in [reg. 22(7)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/22/7) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/5), [(6)(a)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/6/a)
+[^c-1c2276bc53f0cd377702a2b11655c2e0]: Textual amendment: Words in [reg. 22(7)](https://www.legislation.gov.uk/uksi/1987/1973/regulation/22/7) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(5)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/5), [(6)(a)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/6/a)
 
 [^M_F_9e1992ad-fefe-4280-c9ce-9823b6a0e8bd]: Textual amendment: Words in reg. 22(7) substituted (5.12.1988) by Family Credit (General) Amendment No. 4 Regulations 1988 ([S.I. 1988/1970](https://www.legislation.gov.uk/uksi/1988/1970)), reg. 1(1), 6(e)
 
@@ -140,6 +140,6 @@ summary: ''
 
 [^M_F_6e5f6b74-0245-436a-b9ba-15bcd4d1a95f]: Textual amendment: Words in reg. 22(12) substituted (12.4.1994) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/527)](https://www.legislation.gov.uk/uksi/1994/527), regs. 1(1)(c), 19(3)
 
-[^key-e496403f2ababd699b7bba65b8cb304b]: Textual amendment: Words in reg. 22(12) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/3)
+[^c-e496403f2ababd699b7bba65b8cb304b]: Textual amendment: Words in reg. 22(12) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Income-related Benefits Schemes and Social Security (Claims and Payments) (Miscellaneous Amendments) Regulations 1995 (S.I. 1995/2303)](https://www.legislation.gov.uk/uksi/1995/2303), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/uksi/1995/2303/regulation/4/3)
 
 [^M_F_d51895ea-0759-4841-ed0c-aaf59588f29f]: Textual amendment: Reg. 22(13) added (12.4.1994) by The Income-related [Benefits Schemes (Miscellaneous Amendments) Regulations 1994 (S.I. 1994/527)](https://www.legislation.gov.uk/uksi/1994/527), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1994/527/regulation/1/1/c), [19(4)](https://www.legislation.gov.uk/uksi/1994/527/regulation/19/4)

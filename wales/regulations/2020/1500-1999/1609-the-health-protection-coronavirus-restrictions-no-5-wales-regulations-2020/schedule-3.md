@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Alert Level 3 Restrictions[^key-59bd8c81a2349591e187faa44c886be4]
+## SCHEDULE 3 — Alert Level 3 Restrictions[^c-59bd8c81a2349591e187faa44c886be4]
 
 *Extent: E+W*
 
@@ -101,11 +101,11 @@ Regulation 4(4)
 - (f) participating in an outdoor gathering of no more than 30 people at holiday or travel accommodation, not counting persons under the age of 11 or persons working at the premises, to—
   - (i) celebrate a solemnisation of a marriage, formation of a civil partnership or alternative wedding ceremony that took place on or after 26 March 2020;
   - (ii) celebrate the life of a deceased person whose funeral is held on or after 26 March 2020;
-- (g) participating in or facilitating a regulated gathering that takes place[^key-6e5dcbbd732eb86d17858a96e9c34394] to any extent[^key-6ca6ae463b13863195ce473073cb4567] indoors and at which—
-  - (i) no more than 15 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering[^key-d295bc8f5c039b201ec48f6b2103fac7], and
+- (g) participating in or facilitating a regulated gathering that takes place[^c-6e5dcbbd732eb86d17858a96e9c34394] to any extent[^c-6ca6ae463b13863195ce473073cb4567] indoors and at which—
+  - (i) no more than 15 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering[^c-d295bc8f5c039b201ec48f6b2103fac7], and
   - (ii) no alcohol is consumed;
-- (h) participating in or facilitating a regulated gathering that takes place[^key-73ae1a1e2d8104641fe79798cb50e93e] [^key-88bd2249c94274224dc6632e2956dee3]... outdoors and at which—
-  - (i) no more than 30 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering[^key-2b574c2c37dcef214bf5701d18ac08be], and
+- (h) participating in or facilitating a regulated gathering that takes place[^c-73ae1a1e2d8104641fe79798cb50e93e] [^c-88bd2249c94274224dc6632e2956dee3]... outdoors and at which—
+  - (i) no more than 30 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering[^c-2b574c2c37dcef214bf5701d18ac08be], and
   - (ii) no alcohol is consumed;
 - (i) attending or facilitating an event authorised by the Welsh Ministers in accordance with paragraph 6.
 
@@ -168,13 +168,13 @@ Regulation 4(4)
 - (g) attending a place of worship;
 - (h) an elite athlete and is training or competing;
 - (i) providing coaching or other support to an elite athlete, or providing support at an elite sporting event;
-- (j) participating in or facilitating a regulated gathering that takes place[^key-cdb57117eea1a833e488e9530b0949b7] to any extent[^key-7612b77eb41ad0fecd7801b40471a512] indoors and at which—
-  - (i) no more than 15 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering[^key-f0000217922ee5c8c7859bf8912a46c5], and
+- (j) participating in or facilitating a regulated gathering that takes place[^c-cdb57117eea1a833e488e9530b0949b7] to any extent[^c-7612b77eb41ad0fecd7801b40471a512] indoors and at which—
+  - (i) no more than 15 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering[^c-f0000217922ee5c8c7859bf8912a46c5], and
   - (ii) no alcohol is consumed;
-- (k) participating in or facilitating a regulated gathering that takes place[^key-1b947cea17e22de4e7ff63d2d5ebc238] [^key-ff977e6db80b5a37b974db12eb82cef6]... outdoors and at which—
-  - (i) no more than 30 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering, unless the gathering[^key-ea51a800e1cb22e3f993ede4cd346da1] is organised for the purposes of protest, or picketing carried out in accordance with the Trade Union and Labour Relations (Consolidation) Act 1992, and
+- (k) participating in or facilitating a regulated gathering that takes place[^c-1b947cea17e22de4e7ff63d2d5ebc238] [^c-ff977e6db80b5a37b974db12eb82cef6]... outdoors and at which—
+  - (i) no more than 30 people are in attendance, not counting persons under the age of 11 or persons working, or providing voluntary services, at the gathering, unless the gathering[^c-ea51a800e1cb22e3f993ede4cd346da1] is organised for the purposes of protest, or picketing carried out in accordance with the Trade Union and Labour Relations (Consolidation) Act 1992, and
   - (ii) no alcohol is consumed;
-- (l) participating in or facilitating a regulated gathering[^key-e3db5f4c33743459906fb6dd7a464a7d] for the development or well-being of persons who were aged under 18 on 31 August 2020 (including sports, music and other recreational activities such as those provided for children outside of school hours and during school holidays);
+- (l) participating in or facilitating a regulated gathering[^c-e3db5f4c33743459906fb6dd7a464a7d] for the development or well-being of persons who were aged under 18 on 31 August 2020 (including sports, music and other recreational activities such as those provided for children outside of school hours and during school holidays);
 - (m) attending or facilitating an event authorised by the Welsh Ministers in accordance with paragraph 6.
 
 (7) This paragraph does not apply to a person who is homeless.
@@ -194,7 +194,7 @@ Regulation 4(4)
 (6) Where households have agreed to be treated as an extended household under—
 
 - (a) paragraph 3 of Schedule 2,
-- (b) paragraph 4 of Schedule 3A (despite its revocation by the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021)[^key-eb35593c54c0b3f96867ea7b3e47af9e], or
+- (b) paragraph 4 of Schedule 3A (despite its revocation by the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021)[^c-eb35593c54c0b3f96867ea7b3e47af9e], or
 - (c) paragraph 3 of Schedule 4,
 
 those households are to be treated as having agreed to be treated as an extended household under this paragraph.
@@ -224,7 +224,7 @@ those households are to be treated as having agreed to be treated as an extended
 
 #### 5. Prohibition on organising events
 
-(1)[^key-ff5cdc1b60dfba7b8e4a1879d9435a59] No person may, without a reasonable excuse, be involved in organising an event unless—
+(1)[^c-ff5cdc1b60dfba7b8e4a1879d9435a59] No person may, without a reasonable excuse, be involved in organising an event unless—
 
 - (a) the event is regulated (see regulation 57(7)),
 - (b) the event is held outdoors, and
@@ -232,7 +232,7 @@ those households are to be treated as having agreed to be treated as an extended
 
 (1A) For the purposes of this paragraph, a person working, or providing voluntary services, in relation to the holding of an event is not to be treated as attending the event.
 
-(2)[^key-d944bd0e19ed1b3a9c33fa130c407cb3] Sub-paragraph (1) does not apply to a person involved in organising—
+(2)[^c-d944bd0e19ed1b3a9c33fa130c407cb3] Sub-paragraph (1) does not apply to a person involved in organising—
 
 - (a) an event held at a private dwelling at which people do not participate in a gathering in contravention of paragraph 1;
 - (b) an event authorised by the Welsh Ministers under paragraph 6;
@@ -252,8 +252,8 @@ those households are to be treated as having agreed to be treated as an extended
 (3) For the purposes of sub-paragraph (1)—
 
 - (a) a person is not involved in organising an event if the person’s only involvement is attending it;
-- (b) a reasonable excuse includes where the person has taken all reasonable measures to ensure that no more than 30 people are present at the event at any time[^key-21b2a55e5c63503799ec4168c28d8b89];
-- (c)[^key-202194d3c617f13321c6a3218672f4ea] where—
+- (b) a reasonable excuse includes where the person has taken all reasonable measures to ensure that no more than 30 people are present at the event at any time[^c-21b2a55e5c63503799ec4168c28d8b89];
+- (c)[^c-202194d3c617f13321c6a3218672f4ea] where—
   - (i) a market, or
   - (ii) a religious service,
 
@@ -265,9 +265,9 @@ those households are to be treated as having agreed to be treated as an extended
 
 #### 6. Authorised events
 
-(1)[^key-f02fd89aeff3379f37c08dd61fabc751] The Welsh Ministers may give authorisation in writing for an event to be held.
+(1)[^c-f02fd89aeff3379f37c08dd61fabc751] The Welsh Ministers may give authorisation in writing for an event to be held.
 
-(2)[^key-c24c44456fe647b21a3bb23a4b8fab7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c24c44456fe647b21a3bb23a4b8fab7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An authorisation may be given under sub-paragraph (1) in relation to a particular event or a particular description of events.
 
@@ -276,7 +276,7 @@ those households are to be treated as having agreed to be treated as an extended
 - (a) must be given to a person the Welsh Ministers consider is responsible for organising the event, and
 - (b) may require the event to be held in accordance with any requirements, restrictions or other conditions as may be specified by the Welsh Ministers.
 
-(4A)[^key-c654bb575e8393e2c990cf3bc3662392] A requirement, restriction or other condition specified by the Welsh Ministers in an authorisation given under sub-paragraph (1) may modify regulation 16[^key-2aaf4db57c99c1975582baa3504c87a3] (requirement to take all reasonable measures to minimise exposure to coronavirus) for a specified period in so far as it applies to the premises at which the event is held.
+(4A)[^c-c654bb575e8393e2c990cf3bc3662392] A requirement, restriction or other condition specified by the Welsh Ministers in an authorisation given under sub-paragraph (1) may modify regulation 16[^c-2aaf4db57c99c1975582baa3504c87a3] (requirement to take all reasonable measures to minimise exposure to coronavirus) for a specified period in so far as it applies to the premises at which the event is held.
 
 (5) The Welsh Ministers must publish—
 
@@ -376,7 +376,7 @@ the requirement in this paragraph is complied with if the person responsible for
 - (a) close to members of the public any premises operated as part of the business or service, and
 - (b) not carry on the business or service at such premises otherwise than in accordance with this paragraph.
 
-(2) In its application to a business or service listed in paragraphs 27 (funfairs, amusement parks and theme parks), 28 (holiday, leisure activity or events businesses), 29 (museums and galleries), 32 (trampoline parks and centres), [^key-efc269b92590601f518bb14e9cd7ffd4]... 34 (venues for events or conferences (including venues for weddings)) and 35 (visitor attractions), sub-paragraph (1) does not apply to—
+(2) In its application to a business or service listed in paragraphs 27 (funfairs, amusement parks and theme parks), 28 (holiday, leisure activity or events businesses), 29 (museums and galleries), 32 (trampoline parks and centres), [^c-efc269b92590601f518bb14e9cd7ffd4]... 34 (venues for events or conferences (including venues for weddings)) and 35 (visitor attractions), sub-paragraph (1) does not apply to—
 
 - (a) a public outdoor area of the premises, or
 - (b) a public indoor area of the premises where it is necessary for the indoor area to be open—
@@ -398,7 +398,7 @@ the requirement in this paragraph is complied with if the person responsible for
   - (ii) by telephone, including by text message, or
   - (iii) by post.
 
-(4)[^key-05e7f3c714a68a8aa1d1e9a883f83075] Despite sub-paragraph (1), a person responsible for carrying on a business or providing a service listed in paragraph 28 (holiday, leisure activity or events businesses) may open the indoor areas of its premises to the public, but only for the purposes of facilitating a regulated gathering[^key-ff42e56f48a1037dfeadb1db74456829] for the development or well-being of persons who were aged under 18 on 31 August 2020 (including sports, music and other recreational activities such as those provided for children outside of school hours and during school holidays).
+(4)[^c-05e7f3c714a68a8aa1d1e9a883f83075] Despite sub-paragraph (1), a person responsible for carrying on a business or providing a service listed in paragraph 28 (holiday, leisure activity or events businesses) may open the indoor areas of its premises to the public, but only for the purposes of facilitating a regulated gathering[^c-ff42e56f48a1037dfeadb1db74456829] for the development or well-being of persons who were aged under 18 on 31 August 2020 (including sports, music and other recreational activities such as those provided for children outside of school hours and during school holidays).
 
 (5) Where—
 
@@ -409,7 +409,7 @@ the requirement in this paragraph is complied with if the person responsible for
 
 #### CHAPTER 3 — Businesses and services whose premises are exempt from the requirement to close
 
-##### 10. Exemption from the requirement to be closed: venues for weddings and celebrations of life of deceased[^key-2cd17acf1af27c5af80f2c9c7a6f4cb6]
+##### 10. Exemption from the requirement to be closed: venues for weddings and celebrations of life of deceased[^c-2cd17acf1af27c5af80f2c9c7a6f4cb6]
 
 Despite the preceding provisions of this Part—
 
@@ -470,7 +470,7 @@ Despite the preceding provisions of this Part—
 
 **32.** Indoor skate parks and centres.
 
-**33.**[^key-e98f844d75165992a89f83d02bcc84a8] Steam rooms.
+**33.**[^c-e98f844d75165992a89f83d02bcc84a8] Steam rooms.
 
 **34.** Venues for events or conferences (including venues for weddings).
 
@@ -478,58 +478,58 @@ Despite the preceding provisions of this Part—
 
 ## Annotations
 
-[^key-59bd8c81a2349591e187faa44c886be4]: Textual amendment: Sch. 3 substituted (26.4.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2021 (S.I. 2021/502)](https://www.legislation.gov.uk/wsi/2021/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/2), [2(14)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/14)
+[^c-59bd8c81a2349591e187faa44c886be4]: Textual amendment: Sch. 3 substituted (26.4.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2021 (S.I. 2021/502)](https://www.legislation.gov.uk/wsi/2021/502), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/502/regulation/1/2), [2(14)](https://www.legislation.gov.uk/wsi/2021/502/regulation/2/14)
 
-[^key-6e5dcbbd732eb86d17858a96e9c34394]: Textual amendment: Words in Sch. 3 para. 2(6)(g) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/i/aa)
+[^c-6e5dcbbd732eb86d17858a96e9c34394]: Textual amendment: Words in Sch. 3 para. 2(6)(g) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/i/aa)
 
-[^key-6ca6ae463b13863195ce473073cb4567]: Textual amendment: Words in Sch. 3 para. 2(6)(g) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(a)(i)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/a/i)
+[^c-6ca6ae463b13863195ce473073cb4567]: Textual amendment: Words in Sch. 3 para. 2(6)(g) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(a)(i)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/a/i)
 
-[^key-d295bc8f5c039b201ec48f6b2103fac7]: Textual amendment: Words in Sch. 3 para. 2(6)(g)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/i/bb)
+[^c-d295bc8f5c039b201ec48f6b2103fac7]: Textual amendment: Words in Sch. 3 para. 2(6)(g)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/i/bb)
 
-[^key-73ae1a1e2d8104641fe79798cb50e93e]: Textual amendment: Words in Sch. 3 para. 2(6)(h) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/ii/aa)
+[^c-73ae1a1e2d8104641fe79798cb50e93e]: Textual amendment: Words in Sch. 3 para. 2(6)(h) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/ii/aa)
 
-[^key-88bd2249c94274224dc6632e2956dee3]: Textual amendment: Words in Sch. 3 para. 2(6)(h) omitted (7.6.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/a/ii)
+[^c-88bd2249c94274224dc6632e2956dee3]: Textual amendment: Words in Sch. 3 para. 2(6)(h) omitted (7.6.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(a)(ii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/a/ii)
 
-[^key-2b574c2c37dcef214bf5701d18ac08be]: Textual amendment: Words in Sch. 3 para. 2(6)(h)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/ii/bb)
+[^c-2b574c2c37dcef214bf5701d18ac08be]: Textual amendment: Words in Sch. 3 para. 2(6)(h)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/a/ii/bb)
 
-[^key-cdb57117eea1a833e488e9530b0949b7]: Textual amendment: Words in Sch. 3 para. 3(6)(j) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(i)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/i/aa)
+[^c-cdb57117eea1a833e488e9530b0949b7]: Textual amendment: Words in Sch. 3 para. 3(6)(j) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(i)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/i/aa)
 
-[^key-7612b77eb41ad0fecd7801b40471a512]: Textual amendment: Words in Sch. 3 para. 3(6)(j) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(b)(i)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/b/i)
+[^c-7612b77eb41ad0fecd7801b40471a512]: Textual amendment: Words in Sch. 3 para. 3(6)(j) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(b)(i)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/b/i)
 
-[^key-f0000217922ee5c8c7859bf8912a46c5]: Textual amendment: Words in Sch. 3 para. 3(6)(j)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(i)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/i/bb)
+[^c-f0000217922ee5c8c7859bf8912a46c5]: Textual amendment: Words in Sch. 3 para. 3(6)(j)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(i)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/i/bb)
 
-[^key-1b947cea17e22de4e7ff63d2d5ebc238]: Textual amendment: Words in Sch. 3 para. 3(6)(k) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/ii/aa)
+[^c-1b947cea17e22de4e7ff63d2d5ebc238]: Textual amendment: Words in Sch. 3 para. 3(6)(k) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(ii)(aa)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/ii/aa)
 
-[^key-ff977e6db80b5a37b974db12eb82cef6]: Textual amendment: Words in Sch. 3 para. 3(6)(k) omitted (7.6.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/b/ii)
+[^c-ff977e6db80b5a37b974db12eb82cef6]: Textual amendment: Words in Sch. 3 para. 3(6)(k) omitted (7.6.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/b/ii)
 
-[^key-ea51a800e1cb22e3f993ede4cd346da1]: Textual amendment: Words in Sch. 3 para. 3(6)(k)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/ii/bb)
+[^c-ea51a800e1cb22e3f993ede4cd346da1]: Textual amendment: Words in Sch. 3 para. 3(6)(k)(i) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(ii)(bb)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/ii/bb)
 
-[^key-e3db5f4c33743459906fb6dd7a464a7d]: Textual amendment: Words in Sch. 3 para. 3(6)(l) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/ii/cc)
+[^c-e3db5f4c33743459906fb6dd7a464a7d]: Textual amendment: Words in Sch. 3 para. 3(6)(l) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(b)(ii)(cc)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/b/ii/cc)
 
-[^key-eb35593c54c0b3f96867ea7b3e47af9e]: Textual amendment: Words in [Sch. 3 para. 4(6)(b)](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/4/6/b) inserted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/a)
+[^c-eb35593c54c0b3f96867ea7b3e47af9e]: Textual amendment: Words in [Sch. 3 para. 4(6)(b)](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/4/6/b) inserted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/a)
 
-[^key-ff5cdc1b60dfba7b8e4a1879d9435a59]: Textual amendment: Sch. 3 para. 5(1)(1A) substituted for Sch. 3 para. 5(1) (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(c)(i)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/c/i)
+[^c-ff5cdc1b60dfba7b8e4a1879d9435a59]: Textual amendment: Sch. 3 para. 5(1)(1A) substituted for Sch. 3 para. 5(1) (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(c)(i)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/c/i)
 
-[^key-d944bd0e19ed1b3a9c33fa130c407cb3]: Textual amendment: Sch. 3 para. 5(2) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(c)(ii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/c/ii)
+[^c-d944bd0e19ed1b3a9c33fa130c407cb3]: Textual amendment: Sch. 3 para. 5(2) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(c)(ii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/c/ii)
 
-[^key-21b2a55e5c63503799ec4168c28d8b89]: Textual amendment: Words in Sch. 3 para. 5(3)(b) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(c)(iii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/c/iii)
+[^c-21b2a55e5c63503799ec4168c28d8b89]: Textual amendment: Words in Sch. 3 para. 5(3)(b) substituted (7.6.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 11) Regulations 2021 (S.I. 2021/668)](https://www.legislation.gov.uk/wsi/2021/668), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/668/regulation/1/2), [2(8)(c)(iii)](https://www.legislation.gov.uk/wsi/2021/668/regulation/2/8/c/iii)
 
-[^key-202194d3c617f13321c6a3218672f4ea]: Textual amendment: Sch. 3 para. 5(3)(c)(d) substituted for Sch. 3 para. 5(3)(c) (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/c)
+[^c-202194d3c617f13321c6a3218672f4ea]: Textual amendment: Sch. 3 para. 5(3)(c)(d) substituted for Sch. 3 para. 5(3)(c) (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(c)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/c)
 
-[^key-f02fd89aeff3379f37c08dd61fabc751]: Textual amendment: Sch. 3 para. 6(1) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(d)(i)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/d/i)
+[^c-f02fd89aeff3379f37c08dd61fabc751]: Textual amendment: Sch. 3 para. 6(1) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(d)(i)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/d/i)
 
-[^key-c24c44456fe647b21a3bb23a4b8fab7b]: Textual amendment: Sch. 3 para. 6(2) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(d)(ii)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/d/ii)
+[^c-c24c44456fe647b21a3bb23a4b8fab7b]: Textual amendment: Sch. 3 para. 6(2) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(d)(ii)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/d/ii)
 
-[^key-c654bb575e8393e2c990cf3bc3662392]: Textual amendment: Sch. 3 para. 6(4A) inserted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(d)(iii)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/d/iii)
+[^c-c654bb575e8393e2c990cf3bc3662392]: Textual amendment: Sch. 3 para. 6(4A) inserted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(d)(iii)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/d/iii)
 
-[^key-2aaf4db57c99c1975582baa3504c87a3]: Textual amendment: Words in [Sch. 3 para. 6(4A)](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/6/4A) substituted (7.8.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 15) Regulations 2021 (S.I. 2021/925)](https://www.legislation.gov.uk/wsi/2021/925), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/925/regulation/1/3), [2(24)](https://www.legislation.gov.uk/wsi/2021/925/regulation/2/24)
+[^c-2aaf4db57c99c1975582baa3504c87a3]: Textual amendment: Words in [Sch. 3 para. 6(4A)](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/6/4A) substituted (7.8.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 15) Regulations 2021 (S.I. 2021/925)](https://www.legislation.gov.uk/wsi/2021/925), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2021/925/regulation/1/3), [2(24)](https://www.legislation.gov.uk/wsi/2021/925/regulation/2/24)
 
-[^key-efc269b92590601f518bb14e9cd7ffd4]: Textual amendment: Words in Sch. 3 para. 9(2) omitted (3.5.2021 immediately before the start of the day) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/b/i)
+[^c-efc269b92590601f518bb14e9cd7ffd4]: Textual amendment: Words in Sch. 3 para. 9(2) omitted (3.5.2021 immediately before the start of the day) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/b/i)
 
-[^key-05e7f3c714a68a8aa1d1e9a883f83075]: Textual amendment: Sch. 3 para. 9(4) substituted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/b/ii)
+[^c-05e7f3c714a68a8aa1d1e9a883f83075]: Textual amendment: Sch. 3 para. 9(4) substituted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/b/ii)
 
-[^key-ff42e56f48a1037dfeadb1db74456829]: Textual amendment: Words in [Sch. 3 para. 9(4)](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/9/4) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(e)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/e)
+[^c-ff42e56f48a1037dfeadb1db74456829]: Textual amendment: Words in [Sch. 3 para. 9(4)](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/9/4) substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(e)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/e)
 
-[^key-2cd17acf1af27c5af80f2c9c7a6f4cb6]: Textual amendment: Sch. 3 para. 10 substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(f)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/f)
+[^c-2cd17acf1af27c5af80f2c9c7a6f4cb6]: Textual amendment: Sch. 3 para. 10 substituted (17.5.2021 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(14)(f)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/14/f)
 
-[^key-e98f844d75165992a89f83d02bcc84a8]: Textual amendment: [Sch. 3 para. 33](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/33) substituted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/c)
+[^c-e98f844d75165992a89f83d02bcc84a8]: Textual amendment: [Sch. 3 para. 33](https://www.legislation.gov.uk/wsi/2020/1609/schedule/3/paragraph/33) substituted (3.5.2021 immediately before the start of the day) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2021 (S.I. 2021/542)](https://www.legislation.gov.uk/wsi/2021/542), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/542/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/wsi/2021/542/regulation/2/5/c)

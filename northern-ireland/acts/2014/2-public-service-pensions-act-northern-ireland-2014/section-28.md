@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Existing local government scheme[^key-6b9096086eb72388b57d623e6a2733ce]
+## 28. Existing local government scheme[^c-6b9096086eb72388b57d623e6a2733ce]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ the regulations are to have effect as if they were scheme regulations relating t
 
 ## Annotations
 
-[^key-6b9096086eb72388b57d623e6a2733ce]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2014/2/section/28) in operation at 1.4.2015 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 5](https://www.legislation.gov.uk/nisr/2014/123/article/5)
+[^c-6b9096086eb72388b57d623e6a2733ce]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2014/2/section/28) in operation at 1.4.2015 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 5](https://www.legislation.gov.uk/nisr/2014/123/article/5)

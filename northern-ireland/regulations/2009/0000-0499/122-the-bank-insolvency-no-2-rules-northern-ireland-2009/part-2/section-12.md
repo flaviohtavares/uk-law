@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Persons entitled to copy of application[^key-5a33960d6d8233980e7c7a71f8b6bc7b]
+## 12. Persons entitled to copy of application[^c-5a33960d6d8233980e7c7a71f8b6bc7b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a33960d6d8233980e7c7a71f8b6bc7b]: Commencement: Rule 12 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5a33960d6d8233980e7c7a71f8b6bc7b]: Commencement: Rule 12 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

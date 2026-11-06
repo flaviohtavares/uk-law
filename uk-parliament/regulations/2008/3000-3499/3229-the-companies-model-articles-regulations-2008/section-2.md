@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Model articles for private companies limited by shares[^key-2578a33e020a3e0abbb0242adfbdd10d]
+## 2. Model articles for private companies limited by shares[^c-2578a33e020a3e0abbb0242adfbdd10d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 to these Regulations prescribes the model articles of association for
 
 ## Annotations
 
-[^key-2578a33e020a3e0abbb0242adfbdd10d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3229/regulation/2) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-2578a33e020a3e0abbb0242adfbdd10d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/3229/regulation/2) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)

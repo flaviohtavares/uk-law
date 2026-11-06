@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. List of the coefficients linked to aggravating and mitigating factors for the application of paragraph 3 of Article 65[^key-124b4ff897ff31f92fa6eb917749672e]
+## 61. List of the coefficients linked to aggravating and mitigating factors for the application of paragraph 3 of Article 65[^c-124b4ff897ff31f92fa6eb917749672e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Annex 2,
 
 ## Annotations
 
-[^key-124b4ff897ff31f92fa6eb917749672e]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-124b4ff897ff31f92fa6eb917749672e]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

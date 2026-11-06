@@ -54,29 +54,29 @@ The Regulations make provision for a purpose mentioned in section 2(2) of the 19
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-4494934d85653325255ea75216d81783]
+### 1. Citation and commencement[^c-4494934d85653325255ea75216d81783]
 
 These Regulations may be cited as the Explosives (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2009 and shall come into operation on 24th August 2009.
 
-### 2. Interpretation[^key-4a502009d2bed7a3a1a1501785ca4f6b]
+### 2. Interpretation[^c-4a502009d2bed7a3a1a1501785ca4f6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-3eea726abed7a3b516c07815a16dc778]
+### 3. Application[^c-3eea726abed7a3b516c07815a16dc778]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — GENERAL REQUIREMENTS
 
-### 4. Classification of dangerous substances and dangerous preparations[^key-d05bbf6a734c43ad21bc62ffaae08098]
+### 4. Classification of dangerous substances and dangerous preparations[^c-d05bbf6a734c43ad21bc62ffaae08098]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Safety data sheets for substances and preparations[^key-7c23fc85746eca4305b1b9931319bb37]
+### 5. Safety data sheets for substances and preparations[^c-7c23fc85746eca4305b1b9931319bb37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5A. Advertisements for dangerous preparations[^key-c60337687d50aa11367e5fdcd54eab7a]
+### 5A. Advertisements for dangerous preparations[^c-c60337687d50aa11367e5fdcd54eab7a]
 
 (1) Subject to paragraph (2), a person who supplies a dangerous preparation shall not advertise that preparation, or arrange for the production of any such advertisement, unless mention is made in the advertisement of the type of hazard indicated on the label.
 
@@ -86,74 +86,74 @@ These Regulations may be cited as the Explosives (Hazard Information and Packagi
 
 (4) This regulation has effect until 31st May 2017.
 
-### 6. Packaging of dangerous substances, dangerous preparations and certain specified preparations[^key-3515d7bf2499b3ca9184829dc650dbf8]
+### 6. Packaging of dangerous substances, dangerous preparations and certain specified preparations[^c-3515d7bf2499b3ca9184829dc650dbf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Labelling of dangerous substances and dangerous preparations[^key-3515d7bf2499b3ca9184829dc650dbf8]
+### 7. Labelling of dangerous substances and dangerous preparations[^c-3515d7bf2499b3ca9184829dc650dbf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Labelling of single receptacles and receptacles in outer packagings[^key-3515d7bf2499b3ca9184829dc650dbf8]
+### 8. Labelling of single receptacles and receptacles in outer packagings[^c-3515d7bf2499b3ca9184829dc650dbf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Particular labelling requirements for certain preparations[^key-3515d7bf2499b3ca9184829dc650dbf8]
+### 9. Particular labelling requirements for certain preparations[^c-3515d7bf2499b3ca9184829dc650dbf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Methods of marking or labelling packages[^key-3515d7bf2499b3ca9184829dc650dbf8]
+### 10. Methods of marking or labelling packages[^c-3515d7bf2499b3ca9184829dc650dbf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Child resistant fastenings, tactile warning devices and other consumer protection measures[^key-3515d7bf2499b3ca9184829dc650dbf8]
+### 11. Child resistant fastenings, tactile warning devices and other consumer protection measures[^c-3515d7bf2499b3ca9184829dc650dbf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Retention of data for dangerous preparations[^key-44a6d198f2d52de6f2ea578eb284875b]
+### 12. Retention of data for dangerous preparations[^c-44a6d198f2d52de6f2ea578eb284875b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Transitional provisions for dangerous substances, dangerous preparations and certain specified preparations[^key-72a12e9555d645add6a62fb47581b066]
+### 13. Transitional provisions for dangerous substances, dangerous preparations and certain specified preparations[^c-72a12e9555d645add6a62fb47581b066]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — MISCELLANEOUS
 
-### 14. Enforcement[^key-d004bb99db0e54604f9705960eabac71]
+### 14. Enforcement[^c-d004bb99db0e54604f9705960eabac71]
 
-(1)[^key-0d4819ce5283f38a07c6408864db2bd7] To the extent that they would not otherwise do so, Articles— *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+(1)[^c-0d4819ce5283f38a07c6408864db2bd7] To the extent that they would not otherwise do so, Articles— *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-- (a) 18 to 30 (approval of codes of practice; enforcement; indemnification of inspectors; power to obtain information and restrictions on disclosure of information); *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
-- (b) 31 to 39 (provisions as to offences); and *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
-- (c) 43(2) (civil liability), *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+- (a) 18 to 30 (approval of codes of practice; enforcement; indemnification of inspectors; power to obtain information and restrictions on disclosure of information); *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
+- (b) 31 to 39 (provisions as to offences); and *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
+- (c) 43(2) (civil liability), *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-of the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] 1978 Order *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] shall apply to these Regulations and the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] as if these Regulations and the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] were health and safety regulations for the purposes of that Order except that these Articles shall not apply to duties placed by the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] on the competent authority or the Member State. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+of the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] 1978 Order *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] shall apply to these Regulations and the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] as if these Regulations and the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] were health and safety regulations for the purposes of that Order except that these Articles shall not apply to duties placed by the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] on the competent authority or the Member State. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-(1A)[^key-06f89e887011d9ff67f149bab09a46ad] The maximum penalty for an offence under this regulation is— *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+(1A)[^c-06f89e887011d9ff67f149bab09a46ad] The maximum penalty for an offence under this regulation is— *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-- (a) on summary conviction, imprisonment for a term not exceeding three months or a fine not exceeding the statutory maximum, or both; and *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
-- (b) on conviction on indictment, imprisonment for a term not exceeding two years, or a fine or both. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+- (a) on summary conviction, imprisonment for a term not exceeding three months or a fine not exceeding the statutory maximum, or both; and *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
+- (b) on conviction on indictment, imprisonment for a term not exceeding two years, or a fine or both. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-(2) Any function of the Secretary of State for Northern Ireland under any other provision of the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] 1978 Order *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] under or in respect of health and safety regulations (including their enforcement) shall be exercisable as if these Regulations and the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] were health and safety regulations for the purpose of that Order to the extent that they would not otherwise do so. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+(2) Any function of the Secretary of State for Northern Ireland under any other provision of the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] 1978 Order *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] under or in respect of health and safety regulations (including their enforcement) shall be exercisable as if these Regulations and the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] were health and safety regulations for the purpose of that Order to the extent that they would not otherwise do so. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-(3) Notwithstanding anything in the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999 *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7][^f00043] and subject to paragraph (4), the enforcing authority for these Regulations and the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] shall be the Secretary of State. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+(3) Notwithstanding anything in the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1999 *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7][^f00043] and subject to paragraph (4), the enforcing authority for these Regulations and the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] shall be the Secretary of State. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-(4) Where a substance or preparation is supplied, or a substance, mixture or article falling within the meaning of and the provisions of the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] is placed on the market within the meaning of the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] in or from premises which are registered under section 75 of the Medicines Act 1968 *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7][^f00044], the enforcing authority shall be the Department of Health, Social Services and Public Safety. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+(4) Where a substance or preparation is supplied, or a substance, mixture or article falling within the meaning of and the provisions of the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] is placed on the market within the meaning of the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] in or from premises which are registered under section 75 of the Medicines Act 1968 *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7][^f00044], the enforcing authority shall be the Department of Health, Social Services and Public Safety. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-### 15. Defence[^key-ecacc9fd7a84444f701ff140cf3bef61]
+### 15. Defence[^c-ecacc9fd7a84444f701ff140cf3bef61]
 
-In any proceedings for an offence for a contravention of any of the provisions of these Regulations and the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] it shall be a defence for the person charged to prove that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+In any proceedings for an offence for a contravention of any of the provisions of these Regulations and the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] it shall be a defence for the person charged to prove that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-### 16. Application within the territorial sea[^key-4f0cc970c00bbb046eb2f06596c00d58]
+### 16. Application within the territorial sea[^c-4f0cc970c00bbb046eb2f06596c00d58]
 
-Within the territorial sea these Regulations and the *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7] shall apply only to and in relation to an activity to which any of paragraphs 2 to 6 of Schedule 6 applies. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+Within the territorial sea these Regulations and the *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] CLP Regulation *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7] shall apply only to and in relation to an activity to which any of paragraphs 2 to 6 of Schedule 6 applies. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
-### 17. Revocation and Amendment[^key-469a8ee2867f8c970218ad6a726a9cae]
+### 17. Revocation and Amendment[^c-469a8ee2867f8c970218ad6a726a9cae]
 
-(1) The Explosive Substances (Hazard Information) Regulations (Northern Ireland) 2000 are revoked *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7][^f00045].
+(1) The Explosive Substances (Hazard Information) Regulations (Northern Ireland) 2000 are revoked *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7][^f00045].
 
-(2) The regulation in Schedule 7 shall be amended to the extent specified in that table. *(affected by repeal, see note)*[^key-0d4819ce5283f38a07c6408864db2bd7]
+(2) The regulation in Schedule 7 shall be amended to the extent specified in that table. *(affected by repeal, see note)*[^c-0d4819ce5283f38a07c6408864db2bd7]
 
 Shaun Woodward
 
@@ -163,13 +163,13 @@ Northern Ireland Office
 
 23rd July 2009
 
-## SCHEDULE 1 — CLASSIFICATION OF DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^key-7d18184326b81edc4d89f0a9f737cfe7]
+## SCHEDULE 1 — CLASSIFICATION OF DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^c-7d18184326b81edc4d89f0a9f737cfe7]
 
 Regulations 2(1) and 4(4)
 
 ### CATEGORIES OF DANGER
 
-[^key-7d18184326b81edc4d89f0a9f737cfe7]
+[^c-7d18184326b81edc4d89f0a9f737cfe7]
 
 <table>
 <thead>
@@ -212,7 +212,7 @@ Regulations 2(1) and 4(4)
 </tbody>
 </table>
 
-## SCHEDULE 2 — INDICATIONS OF DANGER AND SYMBOLS FOR DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^key-7ee85fdc578e88428b8acbe33771806d]
+## SCHEDULE 2 — INDICATIONS OF DANGER AND SYMBOLS FOR DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^c-7ee85fdc578e88428b8acbe33771806d]
 
 Regulations 2(1), 8(2) and 10(6)
 
@@ -241,11 +241,11 @@ Regulation 4(7)
 
 ### PART I — GENERAL PROVISIONS
 
-#### 1. Application[^key-ec26dee746056b8af81f05ee8cfb1067]
+#### 1. Application[^c-ec26dee746056b8af81f05ee8cfb1067]
 
 The provisions of this Schedule shall apply for the classification of preparations.
 
-#### 2. Interpretation and application[^key-64b4f4af4e6be8871d92917dfcfea0f4]
+#### 2. Interpretation and application[^c-64b4f4af4e6be8871d92917dfcfea0f4]
 
 (1) In this Schedule, for the purposes of classification—
 
@@ -255,7 +255,7 @@ The provisions of this Schedule shall apply for the classification of preparatio
 
 (2) In its application to preparations that are gases, this Part shall be modified so that reference to concentrations expressed as percentage by weight are to concentrations expressed as the same percentage by volume.
 
-#### 3. Classification of preparations by physico-chemical properties[^key-bbf0695ff1c407d17ed61793a08b751b]
+#### 3. Classification of preparations by physico-chemical properties[^c-bbf0695ff1c407d17ed61793a08b751b]
 
 (1) The requisite physico-chemical properties for the classification of preparations shall be determined in accordance with the criteria set out in the approved classification and labelling guide.
 
@@ -267,7 +267,7 @@ The provisions of this Schedule shall apply for the classification of preparatio
 - (b) in the event of a change in composition of a preparation of known composition, scientific evidence indicates that a reassessment of the hazards will not lead to a change in classification; and
 - (c) in the case of a preparation supplied in the form of an aerosol, that preparation satisfies the provisions of Article 8.1a of Council Directive [75/324/EEC](https://www.legislation.gov.uk/european/directive/1975/0324)[^f00046].
 
-#### 4. Classification of preparations by health effects[^key-2d2405ad768a344bbffecec810fea52a]
+#### 4. Classification of preparations by health effects[^c-2d2405ad768a344bbffecec810fea52a]
 
 (1) The health effects of a preparation shall be assessed by one or more of the following methods—
 
@@ -306,7 +306,7 @@ or,
 
 (6) The revised assessment required by sub-paragraph (5) shall not be required where there is a valid scientific justification for considering that a re-evaluation of the hazard will not result in a change of classification.
 
-#### 5. Use of concentration limits in classification for health effects by the conventional method[^key-f428e149504fec1d4b30436381119e76]
+#### 5. Use of concentration limits in classification for health effects by the conventional method[^c-f428e149504fec1d4b30436381119e76]
 
 (1) In accordance with paragraph 4(1)(a), the health effects shall be assessed by the conventional method described in paragraphs 7 to 15 using concentration limits.
 
@@ -314,7 +314,7 @@ or,
 
 (3) Where the substances concerned are dangerous substances and do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation as dangerous substances or appear there without the concentration limits necessary for the application of the method of evaluation described below, the concentration limits shall be assigned in accordance with Part II of this Schedule.
 
-#### 6. Lower limits of concentration[^key-72f01a816241e9059e083fbbd3df4601]
+#### 6. Lower limits of concentration[^c-72f01a816241e9059e083fbbd3df4601]
 
 (1) For preparations to which this Schedule applies, account shall be taken of dangerous substances which are classified as dangerous on the basis of their health or environmental effects (whether they are present as additives or impurities) when their concentrations are equal to or greater than those defined in the following table unless lower limits are given in Table 3.2 of part 3 of Annex VI of the CLP Regulation or in Part II of this Schedule—
 
@@ -351,7 +351,7 @@ or,
 
 (2) Some substances may have more than one health effect and each of these properties shall be characterised by its specific concentration limit.
 
-#### 7. Classification by the conventional method as very toxic[^key-97db0dd0555de4ebc6c978428e24d1a8]
+#### 7. Classification by the conventional method as very toxic[^c-97db0dd0555de4ebc6c978428e24d1a8]
 
 (1) The following preparations shall be classified as very toxic owing to their acute lethal effects and assigned the symbol “T+”, the indication of danger “very toxic” and the risk phrase R26, R27 or R28—
 
@@ -373,7 +373,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 2 of Part II of this Schedule (Table II or Table IIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 8. Classification by the conventional method as toxic[^key-948d38aaad9c21d44742e08f5ff4faf9]
+#### 8. Classification by the conventional method as toxic[^c-948d38aaad9c21d44742e08f5ff4faf9]
 
 (1) The following preparations shall be classified as toxic owing to their acute lethal effects and assigned the symbol “T”, the indication of danger “toxic” and the risk phrase R23, R24, or R25—
 
@@ -402,7 +402,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 3 of Part II of this Schedule (Table III or Table IIIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 9. Classification by the conventional method as harmful[^key-d0af11b0f9378a86096033548345f77e]
+#### 9. Classification by the conventional method as harmful[^c-d0af11b0f9378a86096033548345f77e]
 
 (1) The following preparations shall be classified as harmful owing to their acute lethal effects and assigned the symbol “Xn”, the indication of danger “harmful” and the risk phrase R20, R21 or R22—
 
@@ -437,7 +437,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 3 of Part II of this Schedule (Table III or Table IIIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 10. Classification by the conventional method as corrosive[^key-c5b9d4699fcb620e8455e2876c77f9b1]
+#### 10. Classification by the conventional method as corrosive[^c-c5b9d4699fcb620e8455e2876c77f9b1]
 
 (1) The following preparations shall be classified as corrosive and assigned the symbol “C”, the indication of danger “corrosive” and the risk phrase R35—
 
@@ -468,7 +468,7 @@ or,
   - P<sub>C</sub>.<sub>R34</sub> is the percentage by weight or by volume of each corrosive substance to which is assigned the risk phrase R34 in the preparation,
   - L<sub>C</sub>.<sub>R34</sub> is the respective corrosive limit R34 specified for each corrosive substance to which is assigned the risk phrase R35 or R34 expressed as a percentage by weight or by volume.
 
-#### 11. Classification by the conventional method as irritant[^key-7ad063ec6b28206b11f0f24250b4c6d7]
+#### 11. Classification by the conventional method as irritant[^c-7ad063ec6b28206b11f0f24250b4c6d7]
 
 (1) The following preparations shall be classified as irritants liable to cause serious eye damage and assigned the symbol “Xi”, the indication of danger “irritant” and risk phrase R41—
 
@@ -543,7 +543,7 @@ or,
   - P<sub>Xi</sub>.<sub>R37</sub> is the percentage by volume of each irritant substance to which is assigned the risk phrase R37 in the preparation,
   - L<sub>Xi</sub>.<sub>R37</sub> is the respective irritant limit R37 specified for each gaseous corrosive substance to which is assigned the risk phrase R35 or R34 or gaseous irritant substance to which is assigned the risk phrase R37, expressed as a percentage by weight or by volume.
 
-#### 12. Classification by the conventional method as sensitising[^key-75f227ae8aec86420ab07816cde4963b]
+#### 12. Classification by the conventional method as sensitising[^c-75f227ae8aec86420ab07816cde4963b]
 
 (1) The following preparations shall be classified as sensitising by skin contact and assigned the symbol “Xi”, the indication of danger “irritant” and risk phrase R43—
 
@@ -557,7 +557,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 5 of Part II of this Schedule (Table V or Table VA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 13. Classification by the conventional method as carcinogenic[^key-b3d32ee6dfd3f9f3db12e6d449a70f36]
+#### 13. Classification by the conventional method as carcinogenic[^c-b3d32ee6dfd3f9f3db12e6d449a70f36]
 
 (1) Preparations shall be classified as carcinogenic category 1 or 2 and assigned the symbol “T” and the risk phrase R45 or R49 if they contain one or more substance producing such effects to which is assigned the risk phrase R45 or R49 which denotes carcinogenic substances in category 1 and category 2 in individual concentrations equal to or exceeding—
 
@@ -569,7 +569,7 @@ or,
 - (a) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
 - (b) the concentration specified in paragraph 6 of Part II of this Schedule (Table VI or Table VIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 14. Classification by the conventional method as mutagenic[^key-6f401e331d29ac2c796bfb8e033e1ff8]
+#### 14. Classification by the conventional method as mutagenic[^c-6f401e331d29ac2c796bfb8e033e1ff8]
 
 (1) Preparations shall be classified as mutagenic category 1 or 2 and assigned the symbol “T” and risk phrase R46 if they contain one or more substances producing such effects to which is assigned the risk phrase R46 which denotes mutagenic substances in category 1 and category 2 in individual concentrations equal to or exceeding—
 
@@ -581,7 +581,7 @@ or,
 - (a) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
 - (b) the concentration specified in paragraph 6 of Part II of this Schedule (Table VI or Table VIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 15. Classification by the conventional method as toxic for reproduction[^key-5e52a083b0714d469da4781452b98208]
+#### 15. Classification by the conventional method as toxic for reproduction[^c-5e52a083b0714d469da4781452b98208]
 
 (1) Preparations shall be classified as toxic for reproduction category 1 or 2 and assigned the symbol “T” and risk phrase R60 (fertility) if they contain one or more substances producing such effects to which is assigned the risk phrase R60 which denotes substances toxic for reproduction of category 1 and category 2 in individual concentrations equal to or exceeding—
 
@@ -603,7 +603,7 @@ or,
 - (a) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
 - (b) the concentration specified in paragraph 6 of Part II of this Schedule (Table VI or Table VIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 16. Classification of preparations for environmental hazards[^key-adb8832c9aad66e4340a131a24e6b66f]
+#### 16. Classification of preparations for environmental hazards[^c-adb8832c9aad66e4340a131a24e6b66f]
 
 (1) The environmental hazards of a preparation shall be assessed by one or more of the following methods—
 
@@ -631,7 +631,7 @@ or,
 
 (4) The revised assessment required by paragraph (3) shall not be required where there is a valid scientific justification for considering that a re-evaluation of the hazard will not result in a change of classification.
 
-#### 17. Use of concentration limits in classification for environmental effects[^key-0d27419f4fa8069150d8ae807f447034]
+#### 17. Use of concentration limits in classification for environmental effects[^c-0d27419f4fa8069150d8ae807f447034]
 
 (1) In accordance with paragraph 16(1)(a), the environmental hazards shall be assessed by the conventional method described in paragraphs 18 and 19 using concentration limits.
 
@@ -639,7 +639,7 @@ or,
 
 (3) Where the substances concerned are dangerous substances and do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation as dangerous substances or appear there without the concentration limits necessary for the application of the method of evaluation described below, the concentration limits shall be assigned in accordance with Part III of this Schedule.
 
-#### 18. Conventional method for the evaluation of hazards to the aquatic environment[^key-55bea67f9ccce191234ac8cecdede770]
+#### 18. Conventional method for the evaluation of hazards to the aquatic environment[^c-55bea67f9ccce191234ac8cecdede770]
 
 (1) The following preparations shall be classified as dangerous for the environment and assigned the symbol “N”, the indication of danger “dangerous for the environment” and the risk phrases R50 and R53 (R50-R53)—
 
@@ -748,7 +748,7 @@ or,
   - P<sub>R52</sub>-<sub>53</sub> is the percentage by weight of each substance dangerous for the environment to which is assigned risk phrases R52-53 in the preparation,
   - L<sub>R53</sub> is the respective limit R53 for each substance dangerous for the environment to which is assigned risk phrases R53, R50-53, R51-53 or R52-53 expressed as a percentage by weight.
 
-#### 19. Conventional method for the evaluation of hazards to the ozone layer[^key-c48b73b47509fb6fa3580cdff39e7b62]
+#### 19. Conventional method for the evaluation of hazards to the ozone layer[^c-c48b73b47509fb6fa3580cdff39e7b62]
 
 Preparations containing one or more substances classified as dangerous for the environment and to which is assigned the symbol “N” and the risk phrase R59 in individual concentrations equal to or greater than—
 
@@ -1115,7 +1115,7 @@ The following symbol and risk phrases are assigned:
 
 ### PART III — CONCENTRATION LIMITS TO BE USED FOR THE EVALUATION OF ENVIRONMENT HAZARDS
 
-#### 1. The aquatic environment[^key-a867a4434be568a51db5707a517d15b6]
+#### 1. The aquatic environment[^c-a867a4434be568a51db5707a517d15b6]
 
 The concentration limits fixed in the following tables, expressed as a weight/weight percentage, determine the classification of the preparation in relation to the individual concentration of the substances present whose classification is also shown.
 
@@ -1190,7 +1190,7 @@ For preparations containing substances with a lower LC<sub>50</sub> or EC<sub>50
 | N, R51-53 | C<sub>n</sub> ≥ 25% |
 | R52-53 | C<sub>n</sub> ≥ 25% |
 
-#### 2. The non-aquatic environment[^key-5f3081a91f31a4a4ceb0a918badde2a8]
+#### 2. The non-aquatic environment[^c-5f3081a91f31a4a4ceb0a918badde2a8]
 
 The concentration limits fixed in the following table, expressed as a weight/weight percentage or, for gaseous preparations as a volume/volume percentage, determine the classification of the preparation in relation to the individual concentration of the substances present whose classification is also shown.
 
@@ -1208,13 +1208,13 @@ Regulations 7 and 9
 
 ### PART I — GENERAL PROVISIONS RELATING TO LABELS
 
-#### 1. Labelling particulars for dangerous substances[^key-2cbacabd33985914872a5257d14052e9]
+#### 1. Labelling particulars for dangerous substances[^c-2cbacabd33985914872a5257d14052e9]
 
 (1) In the case of a dangerous substance which is listed in Table 3.2 of part 3 of Annex VI of the CLP Regulation, the particulars to be shown on the label in accordance with regulation 7(2)(c) shall be the particulars specified for that dangerous substance in the relevant entry in that table.
 
 (2) Subject to paragraph 4, in the case of a dangerous substance which is not listed in Table 3.2 of part 3 of Annex VI of the CLP Regulation, the particulars required to be shown on the label in accordance with regulation 7(2)(c) shall be determined from the classification of the substance in accordance with regulation 4 in conjunction with the approved classification and labelling guide.
 
-#### 2. Labelling particulars for dangerous preparations[^key-453823af3f4e23c539f1ce649cb64ecb]
+#### 2. Labelling particulars for dangerous preparations[^c-453823af3f4e23c539f1ce649cb64ecb]
 
 (1) Subject to paragraphs 3 and 4, the provisions of this paragraph shall have effect in relation to the labelling of dangerous preparations.
 
@@ -1261,7 +1261,7 @@ Regulations 7 and 9
 
 (6) As a general rule, a maximum of four chemical names shall suffice to identify the substances primarily responsible for the major health hazards which have given rise to the classification and the choice of the corresponding risk phrases – although in some cases more than four chemical names may be necessary.
 
-#### 3. Confidentiality of chemical names[^key-95708ff7d6629a51484bf8b6b84c864b]
+#### 3. Confidentiality of chemical names[^c-95708ff7d6629a51484bf8b6b84c864b]
 
 (1) Subject to sub-paragraph (2), where the supplier of a dangerous preparation is able to demonstrate to the Secretary of State that the disclosure on the label or safety data sheet of the chemical identity of a substance which is exclusively classified as—
 
@@ -1276,7 +1276,7 @@ will put at risk the confidential nature of his intellectual property, the perso
 
 (4) The Secretary of State may require such further information from the supplier as is necessary to determine the validity of an application made under sub-paragraph (3).
 
-#### 4. Indications of danger and symbols for dangerous substances and dangerous preparations[^key-a3024458239c0f35195dbdf29c84f7a4]
+#### 4. Indications of danger and symbols for dangerous substances and dangerous preparations[^c-a3024458239c0f35195dbdf29c84f7a4]
 
 (1) Except in the case of a dangerous substance which is listed in Table 3.2 of part 3 of Annex VI of the CLP Regulation, where a dangerous substance or dangerous preparation is required to have more than one indication of danger in either of the following groups listed in decreasing order of severity, namely—
 
@@ -1291,27 +1291,27 @@ only one of the indications of danger with its symbol from each group correspond
 
 #### A — SPECIAL PROVISIONS FOR DANGEROUS PREPARATIONS
 
-##### 1. Dangerous preparations to be supplied to the general public[^key-f8287d885e57380936265c7283b2fd97]
+##### 1. Dangerous preparations to be supplied to the general public[^c-f8287d885e57380936265c7283b2fd97]
 
 (1) The label on the packaging of dangerous preparations intended to be supplied to the general public shall in addition to the relevant safety advice bear the relevant safety phrase S1, S2, S45 or S46 in accordance with the approved classification and labelling guide.
 
 (2) When the dangerous preparations referred to in sub-paragraph (1) are classified as very toxic, toxic or corrosive and where it is physically impossible to give the information on the package itself, packages containing such preparations shall be accompanied by precise and easily understandable instructions for use including, where appropriate, instructions for the destruction of the empty package.
 
-##### 2. Dangerous preparations intended for use by spraying[^key-09a5edf059865a444230cb0508b068fe]
+##### 2. Dangerous preparations intended for use by spraying[^c-09a5edf059865a444230cb0508b068fe]
 
 The label on the packaging containing dangerous preparations intended to be used for spraying shall bear the safety phrase S23 and safety phrase S38 or S51 assigned in accordance with the approved classification and labelling guide.
 
-##### 3. Dangerous preparations containing a substance affected by the risk phrase R33 (danger of cumulative effects)[^key-d76c7d4f17779421c1ac5ec35f260079]
+##### 3. Dangerous preparations containing a substance affected by the risk phrase R33 (danger of cumulative effects)[^c-d76c7d4f17779421c1ac5ec35f260079]
 
 When a dangerous preparation contains at least one substance required to show the risk phrase R33, that phrase shall be shown on the label on the packaging of the dangerous preparation when the concentration of that substance is equal to or higher than 1% unless a different value is shown for that substance in Table 3.2 of part 3 of Annex VI of the CLP Regulation.
 
-##### 4. Dangerous preparations containing a substance affected by the risk phrase R64 (may cause harm to breast-fed babies)[^key-a0f5765eca8ae74e9514292576f0b723]
+##### 4. Dangerous preparations containing a substance affected by the risk phrase R64 (may cause harm to breast-fed babies)[^c-a0f5765eca8ae74e9514292576f0b723]
 
 When a dangerous preparation contains at least one substance required to show the risk phrase R64, that phrase shall be shown on the label on the packaging of the dangerous preparation when the concentration of that substance is equal to or higher than 1% unless a different value is shown for that substance in Table 3.2 of part 3 of Annex VI of the CLP Regulation.
 
 #### B — SPECIAL PROVISIONS APPLYING TO ANY PREPARATION
 
-##### 1. Preparations not classified as sensitising but containing at least one sensitising substance[^key-6f1f086df07f7b031dc1e34f1ecc3bdf]
+##### 1. Preparations not classified as sensitising but containing at least one sensitising substance[^c-6f1f086df07f7b031dc1e34f1ecc3bdf]
 
 The label on the packaging of preparations containing at least one substance classified as sensitising and being present in a concentration ≥ 0.1% or in a concentration greater than or equal to that specified under a specific note for the substance in Table 3.2 of part 3 of Annex VI of the CLP Regulation shall bear the inscription—
 
@@ -1319,7 +1319,7 @@ The label on the packaging of preparations containing at least one substance cla
 
 .
 
-##### 2. Preparations containing a substance assigned the risk phrase R67[^key-a2ac9bf3e92e4a090aeb8ebe95fbc3c0]
+##### 2. Preparations containing a substance assigned the risk phrase R67[^c-a2ac9bf3e92e4a090aeb8ebe95fbc3c0]
 
 When a preparation contains one or more substances assigned the risk phrase R67, the label on the packaging of the preparation shall bear the following inscription—
 
@@ -1333,7 +1333,7 @@ When a preparation contains one or more substances assigned the risk phrase R67,
 
 #### C — SPECIAL PROVISIONS APPLYING TO CERTAIN OTHER PREPARATIONS
 
-##### 1. Preparations not intended for the general public[^key-c773114d33036dcbbe196f483a54bd2a]
+##### 1. Preparations not intended for the general public[^c-c773114d33036dcbbe196f483a54bd2a]
 
 The label on the packaging of a preparation of the type specified in Article 31(3) of REACH shall bear the following inscription—
 
@@ -1341,11 +1341,11 @@ The label on the packaging of a preparation of the type specified in Article 31(
 
 .
 
-## SCHEDULE 5 — BRITISH AND INTERNATIONAL STANDARDS RELATING TO CHILD RESISTANT FASTENINGS AND TACTILE WARNING DEVICES[^key-c078b42d746a6003fc5b513ea50c28b2]
+## SCHEDULE 5 — BRITISH AND INTERNATIONAL STANDARDS RELATING TO CHILD RESISTANT FASTENINGS AND TACTILE WARNING DEVICES[^c-c078b42d746a6003fc5b513ea50c28b2]
 
 Regulation 11
 
-[^key-c078b42d746a6003fc5b513ea50c28b2]
+[^c-c078b42d746a6003fc5b513ea50c28b2]
 
 The British Standards and International Standards referred to in regulation 11 are as follows—
 
@@ -1361,7 +1361,7 @@ The British Standards and International Standards referred to in regulation 11 a
 
 Regulation 16
 
-### 1. Interpretation[^key-806cd5dd1c7b540151ebd3845da3a35a]
+### 1. Interpretation[^c-806cd5dd1c7b540151ebd3845da3a35a]
 
 (1) In this Schedule—
 
@@ -1378,7 +1378,7 @@ Regulation 16
 
 (3) Any reference in this Schedule to premises and activities includes a reference to any person, article or substance on those premises or engaged in, or, as the case may be, used or for use in connection with any such activity, but does not include a reference to an aircraft which is airborne.
 
-### 2. Offshore installations[^key-35f687737efa49cfa454aab981b4e6a5]
+### 2. Offshore installations[^c-35f687737efa49cfa454aab981b4e6a5]
 
 (1) This paragraph shall apply to and in relation to—
 
@@ -1407,7 +1407,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 - (d) a mobile structure which has been taken out of use and is not yet being moved with a view to its being used for any of the purposes specified in sub-paragraph (2); and
 - (e) any part of a pipeline.
 
-### 3. Wells[^key-6f3d98843301d590434ce7647ee3b60f]
+### 3. Wells[^c-6f3d98843301d590434ce7647ee3b60f]
 
 (1) Subject to sub-paragraph (2), this paragraph applies to and in relation to—
 
@@ -1416,7 +1416,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 (2) Sub-paragraph (1) includes keeping a vessel on station for the purpose of working on a well but otherwise does not include navigation or an activity connected with navigation.
 
-### 4. Pipelines[^key-e7b51632fb18c49fe3a79526bad71c27]
+### 4. Pipelines[^c-e7b51632fb18c49fe3a79526bad71c27]
 
 (1) This paragraph applies to and in relation to—
 
@@ -1448,13 +1448,13 @@ together with any supplementary unit which is ordinarily connected to it, and al
   - (e) any activities incidental to the activities described in heads (a) to (d);
   - (f) a diving project in connection with any of the works mentioned in heads (a) to (e) or for the purpose of determining whether a place is suitable as part of the site of a proposed pipeline and the carrying out of surveying operations for settling the route of a proposed pipeline.
 
-### 5. Mines[^key-b1bdf3b1c3ffae9f33c1fd6c9a5f4c85]
+### 5. Mines[^c-b1bdf3b1c3ffae9f33c1fd6c9a5f4c85]
 
 (1) This paragraph applies to and in relation to a mine within the territorial sea or extending beyond it, and any activity in connection with it, while it is being worked.
 
 (2) In this paragraph “mine” has the same meaning as in the Mines Act (Northern Ireland) 1969[^f00050].
 
-### 6. Other activities[^key-a54e255b7addb10c2fa7baeae2f3a1bb]
+### 6. Other activities[^c-a54e255b7addb10c2fa7baeae2f3a1bb]
 
 (1) Subject to paragraph (2), this paragraph applies to and in relation to—
 
@@ -1476,7 +1476,7 @@ together with any supplementary unit which is ordinarily connected to it, and al
 
 Regulation 17
 
-### PART I — AMENDMENT[^key-c2fb11f4fa0e4a986f81197bf02f5bfa]
+### PART I — AMENDMENT[^c-c2fb11f4fa0e4a986f81197bf02f5bfa]
 
 | Regulations to be amended | Regulation | Amendment to be made |
 | --- | --- | --- |
@@ -1557,85 +1557,85 @@ Regulation 17
 
 [^f00009]: Footnote: O.J. No. L204, 31.7.08, p. 1
 
-[^key-4494934d85653325255ea75216d81783]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-4494934d85653325255ea75216d81783]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-4a502009d2bed7a3a1a1501785ca4f6b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/273/regulation/2) revoked (with effect in accordance with reg. 11(c) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-4a502009d2bed7a3a1a1501785ca4f6b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/273/regulation/2) revoked (with effect in accordance with reg. 11(c) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-3eea726abed7a3b516c07815a16dc778]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/273/regulation/3) revoked (with effect in accordance with reg. 11(c) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-3eea726abed7a3b516c07815a16dc778]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/273/regulation/3) revoked (with effect in accordance with reg. 11(c) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-d05bbf6a734c43ad21bc62ffaae08098]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/273/regulation/4) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-d05bbf6a734c43ad21bc62ffaae08098]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/273/regulation/4) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-7c23fc85746eca4305b1b9931319bb37]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/273/regulation/5) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-7c23fc85746eca4305b1b9931319bb37]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/273/regulation/5) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-c60337687d50aa11367e5fdcd54eab7a]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2009/273/regulation/5A) inserted (31.5.2015) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/3), [12(1)](https://www.legislation.gov.uk/nisr/2015/236/regulation/12/1) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-c60337687d50aa11367e5fdcd54eab7a]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/nisr/2009/273/regulation/5A) inserted (31.5.2015) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/3), [12(1)](https://www.legislation.gov.uk/nisr/2015/236/regulation/12/1) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-3515d7bf2499b3ca9184829dc650dbf8]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/nisr/2009/273/regulation/6) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-3515d7bf2499b3ca9184829dc650dbf8]: Textual amendment: [Regs. 6-11](https://www.legislation.gov.uk/nisr/2009/273/regulation/6) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-44a6d198f2d52de6f2ea578eb284875b]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/273/regulation/12) revoked (with effect in accordance with reg. 11(c) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-44a6d198f2d52de6f2ea578eb284875b]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/nisr/2009/273/regulation/12) revoked (with effect in accordance with reg. 11(c) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(c)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/c) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-72a12e9555d645add6a62fb47581b066]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/273/regulation/13) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-72a12e9555d645add6a62fb47581b066]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2009/273/regulation/13) revoked (with effect in accordance with reg. 11(a) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(a)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/a) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-d004bb99db0e54604f9705960eabac71]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/273/regulation/14) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-d004bb99db0e54604f9705960eabac71]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2009/273/regulation/14) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-0d4819ce5283f38a07c6408864db2bd7]: Textual amendment: [Regs. 14-17](https://www.legislation.gov.uk/nisr/2009/273/regulation/14) revoked (except to the extent they continue to apply for the purposes of enforcing reg. 12 of S.R. 2009/273) (with effect in accordance with reg. 11(b) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(b)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-0d4819ce5283f38a07c6408864db2bd7]: Textual amendment: [Regs. 14-17](https://www.legislation.gov.uk/nisr/2009/273/regulation/14) revoked (except to the extent they continue to apply for the purposes of enforcing reg. 12 of S.R. 2009/273) (with effect in accordance with reg. 11(b) of the amending Rule) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/2), [11(b)](https://www.legislation.gov.uk/nisr/2015/236/regulation/11/b) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
-[^key-06f89e887011d9ff67f149bab09a46ad]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/nisr/2009/273/regulation/14/1A) inserted (31.5.2015) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/3), [12(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/12/2) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
+[^c-06f89e887011d9ff67f149bab09a46ad]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/nisr/2009/273/regulation/14/1A) inserted (31.5.2015) by [The Explosives (Appointment of Authorities and Enforcement) Regulations (Northern Ireland) 2015 (S.R. 2015/236)](https://www.legislation.gov.uk/nisr/2015/236), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2015/236/regulation/1/3), [12(2)](https://www.legislation.gov.uk/nisr/2015/236/regulation/12/2) (with [reg. 2](https://www.legislation.gov.uk/nisr/2015/236/regulation/2))
 
 [^f00043]: Footnote: [S.R. 1999 No. 90](https://www.legislation.gov.uk/nisr/1999/90), as amended by [S.R. 2000 No. 375](https://www.legislation.gov.uk/nisr/2000/375), [S.R. 2003 No. 33](https://www.legislation.gov.uk/nisr/2003/33), [S.R. 2006 No. 205](https://www.legislation.gov.uk/nisr/2006/205), [S.R. 2006 No. 425](https://www.legislation.gov.uk/nisr/2006/425), [S.R. 2007 No. 31](https://www.legislation.gov.uk/nisr/2007/31) and [S.R. 2007 No. 291](https://www.legislation.gov.uk/nisr/2007/291)
 
 [^f00044]: Footnote: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67); section 75(8) was amended by [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699)
 
-[^key-ecacc9fd7a84444f701ff140cf3bef61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/273/regulation/15) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-ecacc9fd7a84444f701ff140cf3bef61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2009/273/regulation/15) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-4f0cc970c00bbb046eb2f06596c00d58]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/273/regulation/16) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-4f0cc970c00bbb046eb2f06596c00d58]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2009/273/regulation/16) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-469a8ee2867f8c970218ad6a726a9cae]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/273/regulation/17) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-469a8ee2867f8c970218ad6a726a9cae]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2009/273/regulation/17) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^f00045]: Footnote: [S.I. 2000/1646](https://www.legislation.gov.uk/uksi/2000/1646)
 
-[^key-7d18184326b81edc4d89f0a9f737cfe7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-7d18184326b81edc4d89f0a9f737cfe7]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-7ee85fdc578e88428b8acbe33771806d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-7ee85fdc578e88428b8acbe33771806d]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-ec26dee746056b8af81f05ee8cfb1067]: Commencement: [Sch. 3 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-ec26dee746056b8af81f05ee8cfb1067]: Commencement: [Sch. 3 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-64b4f4af4e6be8871d92917dfcfea0f4]: Commencement: [Sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-64b4f4af4e6be8871d92917dfcfea0f4]: Commencement: [Sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-bbf0695ff1c407d17ed61793a08b751b]: Commencement: [Sch. 3 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-bbf0695ff1c407d17ed61793a08b751b]: Commencement: [Sch. 3 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^f00046]: Footnote: O.J. No. L147, 9.6.1975, p. 40; Article 8 is amended to add paragraph 1a by Commission Directive [2008/47/EC](https://www.legislation.gov.uk/european/directive/2008/0047), O.J. No. L96, 9.4.2008, p. 15
 
-[^key-2d2405ad768a344bbffecec810fea52a]: Commencement: [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-2d2405ad768a344bbffecec810fea52a]: Commencement: [Sch. 3 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-f428e149504fec1d4b30436381119e76]: Commencement: [Sch. 3 Pt. 1 para. 5](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/5) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-f428e149504fec1d4b30436381119e76]: Commencement: [Sch. 3 Pt. 1 para. 5](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/5) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-72f01a816241e9059e083fbbd3df4601]: Commencement: [Sch. 3 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/6) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-72f01a816241e9059e083fbbd3df4601]: Commencement: [Sch. 3 Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/6) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-97db0dd0555de4ebc6c978428e24d1a8]: Commencement: [Sch. 3 Pt. 1 para. 7](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/7) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-97db0dd0555de4ebc6c978428e24d1a8]: Commencement: [Sch. 3 Pt. 1 para. 7](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/I/paragraph/7) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-948d38aaad9c21d44742e08f5ff4faf9]: Commencement: [Sch. 3 Pt. 1 para. 8](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/8) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-948d38aaad9c21d44742e08f5ff4faf9]: Commencement: [Sch. 3 Pt. 1 para. 8](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/8) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-d0af11b0f9378a86096033548345f77e]: Commencement: [Sch. 3 Pt. 1 para. 9](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/9) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-d0af11b0f9378a86096033548345f77e]: Commencement: [Sch. 3 Pt. 1 para. 9](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/9) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-c5b9d4699fcb620e8455e2876c77f9b1]: Commencement: [Sch. 3 Pt. 1 para. 10](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/10) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-c5b9d4699fcb620e8455e2876c77f9b1]: Commencement: [Sch. 3 Pt. 1 para. 10](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/10) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-7ad063ec6b28206b11f0f24250b4c6d7]: Commencement: [Sch. 3 Pt. 1 para. 11](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/11) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-7ad063ec6b28206b11f0f24250b4c6d7]: Commencement: [Sch. 3 Pt. 1 para. 11](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/11) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-75f227ae8aec86420ab07816cde4963b]: Commencement: [Sch. 3 Pt. 1 para. 12](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/12) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-75f227ae8aec86420ab07816cde4963b]: Commencement: [Sch. 3 Pt. 1 para. 12](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/12) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-b3d32ee6dfd3f9f3db12e6d449a70f36]: Commencement: [Sch. 3 Pt. 1 para. 13](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/13) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-b3d32ee6dfd3f9f3db12e6d449a70f36]: Commencement: [Sch. 3 Pt. 1 para. 13](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/13) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-6f401e331d29ac2c796bfb8e033e1ff8]: Commencement: [Sch. 3 Pt. 1 para. 14](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/14) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-6f401e331d29ac2c796bfb8e033e1ff8]: Commencement: [Sch. 3 Pt. 1 para. 14](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/14) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-5e52a083b0714d469da4781452b98208]: Commencement: [Sch. 3 Pt. 1 para. 15](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/15) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-5e52a083b0714d469da4781452b98208]: Commencement: [Sch. 3 Pt. 1 para. 15](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/15) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-adb8832c9aad66e4340a131a24e6b66f]: Commencement: [Sch. 3 Pt. 1 para. 16](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/16) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-adb8832c9aad66e4340a131a24e6b66f]: Commencement: [Sch. 3 Pt. 1 para. 16](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/16) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-0d27419f4fa8069150d8ae807f447034]: Commencement: [Sch. 3 Pt. 1 para. 17](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/17) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-0d27419f4fa8069150d8ae807f447034]: Commencement: [Sch. 3 Pt. 1 para. 17](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/17) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-55bea67f9ccce191234ac8cecdede770]: Commencement: [Sch. 3 Pt. 1 para. 18](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/18) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-55bea67f9ccce191234ac8cecdede770]: Commencement: [Sch. 3 Pt. 1 para. 18](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/18) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-c48b73b47509fb6fa3580cdff39e7b62]: Commencement: [Sch. 3 Pt. 1 para. 19](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/19) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-c48b73b47509fb6fa3580cdff39e7b62]: Commencement: [Sch. 3 Pt. 1 para. 19](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/paragraph/19) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^M_I_7e47cdb7-09db-45da-eca6-80520c896dec]: Commencement: Sch. 3 Pt. 2 in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
@@ -1679,54 +1679,54 @@ Regulation 17
 
 [^f01011]: Footnote: R68 here refers to substances classified as mutagenic. Concentration limits for substances required to be labelled R68 but classified as harmful are given in Table IIA.
 
-[^key-a867a4434be568a51db5707a517d15b6]: Commencement: [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/III/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-a867a4434be568a51db5707a517d15b6]: Commencement: [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/III/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-5f3081a91f31a4a4ceb0a918badde2a8]: Commencement: [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/III/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-5f3081a91f31a4a4ceb0a918badde2a8]: Commencement: [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/3/part/III/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-2cbacabd33985914872a5257d14052e9]: Commencement: [Sch. 4 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-2cbacabd33985914872a5257d14052e9]: Commencement: [Sch. 4 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-453823af3f4e23c539f1ce649cb64ecb]: Commencement: [Sch. 4 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-453823af3f4e23c539f1ce649cb64ecb]: Commencement: [Sch. 4 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-95708ff7d6629a51484bf8b6b84c864b]: Commencement: [Sch. 4 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-95708ff7d6629a51484bf8b6b84c864b]: Commencement: [Sch. 4 Pt. 1 para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^f00047]: Footnote: O.J. No. L200, 30.7.1999, p. 1
 
-[^key-a3024458239c0f35195dbdf29c84f7a4]: Commencement: [Sch. 4 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-a3024458239c0f35195dbdf29c84f7a4]: Commencement: [Sch. 4 Pt. 1 para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/I/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-f8287d885e57380936265c7283b2fd97]: Commencement: [Sch. 4 Pt. 2 Section A para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-f8287d885e57380936265c7283b2fd97]: Commencement: [Sch. 4 Pt. 2 Section A para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-09a5edf059865a444230cb0508b068fe]: Commencement: [Sch. 4 Pt. 2 Section A para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-09a5edf059865a444230cb0508b068fe]: Commencement: [Sch. 4 Pt. 2 Section A para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-d76c7d4f17779421c1ac5ec35f260079]: Commencement: [Sch. 4 Pt. 2 Section A para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-d76c7d4f17779421c1ac5ec35f260079]: Commencement: [Sch. 4 Pt. 2 Section A para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-a0f5765eca8ae74e9514292576f0b723]: Commencement: [Sch. 4 Pt. 2 Section A para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-a0f5765eca8ae74e9514292576f0b723]: Commencement: [Sch. 4 Pt. 2 Section A para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/A/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-6f1f086df07f7b031dc1e34f1ecc3bdf]: Commencement: [Sch. 4 Pt. 2 Section B para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/B/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-6f1f086df07f7b031dc1e34f1ecc3bdf]: Commencement: [Sch. 4 Pt. 2 Section B para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/B/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-a2ac9bf3e92e4a090aeb8ebe95fbc3c0]: Commencement: [Sch. 4 Pt. 2 Section B para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/B/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-a2ac9bf3e92e4a090aeb8ebe95fbc3c0]: Commencement: [Sch. 4 Pt. 2 Section B para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/B/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-c773114d33036dcbbe196f483a54bd2a]: Commencement: [Sch. 4 Pt. 2 Section C para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/C/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-c773114d33036dcbbe196f483a54bd2a]: Commencement: [Sch. 4 Pt. 2 Section C para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/4/part/II/chapter/C/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-c078b42d746a6003fc5b513ea50c28b2]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2009/273/schedule/5) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-c078b42d746a6003fc5b513ea50c28b2]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nisr/2009/273/schedule/5) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-806cd5dd1c7b540151ebd3845da3a35a]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-806cd5dd1c7b540151ebd3845da3a35a]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/1) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^f00048]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1 was amended by the Oil and Gas (Enterprise) Act 1982 ([1982 c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), Schedule 3, paragraph 1
 
 [^f00049]: Footnote: [S.R. 2005 No. 45](https://www.legislation.gov.uk/nisr/2005/45), as amended by [S.R. 2007 No. 247](https://www.legislation.gov.uk/nisr/2007/247)
 
-[^key-35f687737efa49cfa454aab981b4e6a5]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-35f687737efa49cfa454aab981b4e6a5]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/2) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-6f3d98843301d590434ce7647ee3b60f]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-6f3d98843301d590434ce7647ee3b60f]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/3) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-e7b51632fb18c49fe3a79526bad71c27]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-e7b51632fb18c49fe3a79526bad71c27]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/4) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-b1bdf3b1c3ffae9f33c1fd6c9a5f4c85]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/5) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-b1bdf3b1c3ffae9f33c1fd6c9a5f4c85]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/5) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^f00050]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-a54e255b7addb10c2fa7baeae2f3a1bb]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/6) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-a54e255b7addb10c2fa7baeae2f3a1bb]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nisr/2009/273/schedule/6/paragraph/6) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
-[^key-c2fb11f4fa0e4a986f81197bf02f5bfa]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/7/part/I) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
+[^c-c2fb11f4fa0e4a986f81197bf02f5bfa]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2009/273/schedule/7/part/I) in operation at 24.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/273/regulation/1)
 
 [^f00051]: Footnote: [S.R. 2009 No. 238](https://www.legislation.gov.uk/nisr/2009/238)

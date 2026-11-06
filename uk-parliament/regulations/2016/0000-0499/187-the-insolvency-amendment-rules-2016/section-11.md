@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.[^key-bd501c9d146419a67e9c6b1502191b9c]
+## 11.[^c-bd501c9d146419a67e9c6b1502191b9c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd501c9d146419a67e9c6b1502191b9c]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/187) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(2)(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-bd501c9d146419a67e9c6b1502191b9c]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2016/187) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(2)(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

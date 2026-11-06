@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3a4c802bb47274d68126f7c12859cda0] A building society's financial years (apart from its final financial year) are determined according to its year-end date in each calendar year.
+(1)[^c-3a4c802bb47274d68126f7c12859cda0] A building society's financial years (apart from its final financial year) are determined according to its year-end date in each calendar year.
 
 (1A) The year-end date of a building society established before 25th August 1894 is—
 
@@ -48,12 +48,12 @@ summary: ''
 
 (1H) This section has effect subject to section 117A (alteration of financial year).
 
-(2)[^key-2af736057abdde799d099d091df0a0e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2af736057abdde799d099d091df0a0e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2af736057abdde799d099d091df0a0e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2af736057abdde799d099d091df0a0e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a4c802bb47274d68126f7c12859cda0]: Textual amendment: S. 117(1)-(1H) substituted for s. 117(1) (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 15(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/15/2) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))
+[^c-3a4c802bb47274d68126f7c12859cda0]: Textual amendment: S. 117(1)-(1H) substituted for s. 117(1) (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 15(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/15/2) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))
 
-[^key-2af736057abdde799d099d091df0a0e7]: Textual amendment: [S. 117(2)](https://www.legislation.gov.uk/ukpga/1986/53/section/117/2)[(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/117/3) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 15(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/15/3) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))
+[^c-2af736057abdde799d099d091df0a0e7]: Textual amendment: [S. 117(2)](https://www.legislation.gov.uk/ukpga/1986/53/section/117/2)[(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/117/3) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 15(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/15/3) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))

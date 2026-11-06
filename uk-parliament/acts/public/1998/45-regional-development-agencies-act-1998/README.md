@@ -29,7 +29,7 @@ Regional Development Agencies Act 1998
 
 1998 c. 45
 
-[^key-5a7be3349f6f3e92efa55ada9774411d]An Act to make provision for regional development agencies in England; to make provision about the Development Commission and the Urban Regeneration Agency; and for connected purposes.
+[^c-5a7be3349f6f3e92efa55ada9774411d]An Act to make provision for regional development agencies in England; to make provision about the Development Commission and the Urban Regeneration Agency; and for connected purposes.
 
 \[19th November 1998\]
 
@@ -41,7 +41,7 @@ Regional Development Agencies Act 1998
 
 *Extent: E+W+S+N.I.*
 
-#### Development agencies[^key-5a7be3349f6f3e92efa55ada9774411d]
+#### Development agencies[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W*
 
@@ -84,7 +84,7 @@ Regional Development Agencies Act 1998
 - [Section 17 — Annual report.](part-i/section-17.md)
 - [Section 18 — Regional accountability.](part-i/section-18.md)
 
-#### Vesting and acquisition of land[^key-5a7be3349f6f3e92efa55ada9774411d]
+#### Vesting and acquisition of land[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,20 +113,20 @@ Regional Development Agencies Act 1998
 - [Section 32 — Minor amendments.](part-i/section-32.md)
 - [Section 33 — Interpretation of Part I.](part-i/section-33.md)
 
-### Part II — Existing bodies[^key-5a7be3349f6f3e92efa55ada9774411d]
+### Part II — Existing bodies[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### The Development Commission[^key-5a7be3349f6f3e92efa55ada9774411d]
+#### The Development Commission[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 **No longer in force.**
 
 - [Section 34 — Transfer of property, rights and liabilities to agencies.](part-ii/section-34.md)
 - [Section 35 — Powers in relation to the Commission.](part-ii/section-35.md)
 
-#### ...[^key-5a7be3349f6f3e92efa55ada9774411d]
+#### ...[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W*
 
@@ -135,7 +135,7 @@ Regional Development Agencies Act 1998
 - [Section 36 — Transfer of property, rights and liabilities to agencies.](part-ii/section-36.md)
 - [Section 37 — Powers in relation to the Agency.](part-ii/section-37.md)
 
-### Part III — General[^key-5a7be3349f6f3e92efa55ada9774411d]
+### Part III — General[^c-5a7be3349f6f3e92efa55ada9774411d]
 
 *Extent: E+W+S+N.I.*
 
@@ -166,6 +166,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5a7be3349f6f3e92efa55ada9774411d]: Textual amendment: Act repealed in so far as not already repealed (1.7.2012 at 0.02 a.m. except for ss. 14, 15, 17) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-5a7be3349f6f3e92efa55ada9774411d]: Textual amendment: Act repealed in so far as not already repealed (1.7.2012 at 0.02 a.m. except for ss. 14, 15, 17) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/24/schedule/6); [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
 
 [^c11276171]: Modification: Act applied (with modifications) by [S.I. 2000/1174](https://www.legislation.gov.uk/uksi/2000/1174), [art. 2](https://www.legislation.gov.uk/uksi/2000/1174/article/2) (subject to transitional provisons in [art. 2(12)](https://www.legislation.gov.uk/uksi/2000/1174/article/2/12), [Sch. 2A](https://www.legislation.gov.uk/uksi/2000/1174/schedule/2A))

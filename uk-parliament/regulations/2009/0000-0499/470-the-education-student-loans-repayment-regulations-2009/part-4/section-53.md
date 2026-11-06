@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Certificate of repayments[^key-2ae7428f3467e1d39804912570ac7695]
+## 53. Certificate of repayments[^c-2ae7428f3467e1d39804912570ac7695]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ae7428f3467e1d39804912570ac7695]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2009/470/regulation/53) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-2ae7428f3467e1d39804912570ac7695]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2009/470/regulation/53) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

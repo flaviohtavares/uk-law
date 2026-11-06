@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a notice under section 122 (notice claiming to exercise right to buy) has been served by the tenant, the landlord shall, unless the notice is withdrawn, serve on the tenant within the period specified in subsection (2)[^key-b998cdcd9ce4a8784fd76812bab646ea]... a written notice either—
+(1) Where a notice under section 122 (notice claiming to exercise right to buy) has been served by the tenant, the landlord shall, unless the notice is withdrawn, serve on the tenant within the period specified in subsection (2)[^c-b998cdcd9ce4a8784fd76812bab646ea]... a written notice either—
 
 - (a) admitting his right, or
 - (b) denying it and stating the reasons why, in the opinion of the landlord, the tenant does not have the right to buy.
@@ -29,12 +29,12 @@ summary: ''
 
 *Extent: W*
 
-(3)[^key-7bafb08891e3586262fc677f740afc7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7bafb08891e3586262fc677f740afc7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c15063841]: Modification: S. 124 modified by [S.I. 1990/178](https://www.legislation.gov.uk/uksi/1990/178), [arts. 3](https://www.legislation.gov.uk/uksi/1990/178/article/3), [5](https://www.legislation.gov.uk/uksi/1990/178/article/5) (which S.I. was revoked (11.10.1993) by [S.I. 1993/2241](https://www.legislation.gov.uk/uksi/1993/2241), [reg. 4](https://www.legislation.gov.uk/uksi/1993/2241/regulation/4)).
 
-[^key-b998cdcd9ce4a8784fd76812bab646ea]: Textual amendment: Words in s. 124(1) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(i)(i)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/i/i) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-b998cdcd9ce4a8784fd76812bab646ea]: Textual amendment: Words in s. 124(1) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(i)(i)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/i/i) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
 
-[^key-7bafb08891e3586262fc677f740afc7c]: Textual amendment: S. 124(3) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(i)(ii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/i/ii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-7bafb08891e3586262fc677f740afc7c]: Textual amendment: S. 124(3) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(i)(ii)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/i/ii) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))

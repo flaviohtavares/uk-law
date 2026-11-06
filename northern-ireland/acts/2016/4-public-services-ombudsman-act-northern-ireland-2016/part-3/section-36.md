@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Obligation for listed authority to have complaints handling procedure[^key-bb403bfdf6c5cab739a2d233d5bf7887]
+## 36. Obligation for listed authority to have complaints handling procedure[^c-bb403bfdf6c5cab739a2d233d5bf7887]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ another listed authority, must ensure the procedure complies with the statement 
 
 ## Annotations
 
-[^key-bb403bfdf6c5cab739a2d233d5bf7887]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2016/4/section/36) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-bb403bfdf6c5cab739a2d233d5bf7887]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2016/4/section/36) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

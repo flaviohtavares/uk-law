@@ -33,7 +33,7 @@ Exiting The European Union, Wales
 
 Food, Wales
 
-The Food Information (Wales) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-a5a89710658a90dedd426507d1d96d6f]
+The Food Information (Wales) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-a5a89710658a90dedd426507d1d96d6f]
 
 Made
 
@@ -41,15 +41,15 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-a5a89710658a90dedd426507d1d96d6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5a89710658a90dedd426507d1d96d6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Title and commencement[^key-a5a89710658a90dedd426507d1d96d6f]
+## 1. Title and commencement[^c-a5a89710658a90dedd426507d1d96d6f]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Food Information (Wales) Regulations 2014[^key-a5a89710658a90dedd426507d1d96d6f]
+## 2. The Food Information (Wales) Regulations 2014[^c-a5a89710658a90dedd426507d1d96d6f]
 
 **Not yet in force.**
 
@@ -57,12 +57,12 @@ Coming into force in accordance with regulation 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5a89710658a90dedd426507d1d96d6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5a89710658a90dedd426507d1d96d6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5a89710658a90dedd426507d1d96d6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5a89710658a90dedd426507d1d96d6f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5a89710658a90dedd426507d1d96d6f]: Textual amendment: Regulations revoked (10.12.2020) by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/wsi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/1308/regulation/6)
+[^c-a5a89710658a90dedd426507d1d96d6f]: Textual amendment: Regulations revoked (10.12.2020) by [The Food and Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1308)](https://www.legislation.gov.uk/wsi/2020/1308), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1308/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2020/1308/regulation/6)

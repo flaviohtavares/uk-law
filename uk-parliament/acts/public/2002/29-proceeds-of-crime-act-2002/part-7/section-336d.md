@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336D. Sections 336A to 336C: interpretation[^key-0a3b2c6aed90d722a2dd1eefc58bbfa6]
+## 336D. Sections 336A to 336C: interpretation[^c-0a3b2c6aed90d722a2dd1eefc58bbfa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 - (e) an immigration officer who is not below such grade as is designated by the Secretary of State as equivalent to that rank,
 - (f) a member of staff of the Financial Conduct Authority who is not below such grade as is designated by the Treasury for the purposes of this Part,
 - (g) the Director of the Serious Fraud Office (or a member of staff of that Office authorised for the purposes of section 336A by virtue of section 2C(2)), or
-- (h)[^key-c8e6865c5d52cb6403aa1a83f235741e] an accredited financial investigator who falls within a description specified in an order made for the purposes of section 336A by the Secretary of State or the Welsh Ministers[^key-21303733edee629e6bd5fc8aace467da] under section 453.
+- (h)[^c-c8e6865c5d52cb6403aa1a83f235741e] an accredited financial investigator who falls within a description specified in an order made for the purposes of section 336A by the Secretary of State or the Welsh Ministers[^c-21303733edee629e6bd5fc8aace467da] under section 453.
 
 (8) In the case of an application to the sheriff, “**senior officer**” means a procurator fiscal.
 
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0a3b2c6aed90d722a2dd1eefc58bbfa6]: Textual amendment: Ss. 336A-336D inserted (27.4.2017 for specified purposes, 31.10.2017 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/10/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/1)); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/c)
+[^c-0a3b2c6aed90d722a2dd1eefc58bbfa6]: Textual amendment: Ss. 336A-336D inserted (27.4.2017 for specified purposes, 31.10.2017 for E.W.S. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/10/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/1)); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/c)
 
-[^key-c8e6865c5d52cb6403aa1a83f235741e]: Modification: S. 336D(7)(h) modified by S.I. 2018/196, Sch. para. 11D (as inserted (E.W.) (20.7.2018) by [The Proceeds of Crime Act 2002 (References to Welsh Revenue Authority Financial Investigators) (Amendment) Order 2018 (S.I. 2018/767)](https://www.legislation.gov.uk/wsi/2018/767), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/767/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2018/767/article/2/3/a))
+[^c-c8e6865c5d52cb6403aa1a83f235741e]: Modification: S. 336D(7)(h) modified by S.I. 2018/196, Sch. para. 11D (as inserted (E.W.) (20.7.2018) by [The Proceeds of Crime Act 2002 (References to Welsh Revenue Authority Financial Investigators) (Amendment) Order 2018 (S.I. 2018/767)](https://www.legislation.gov.uk/wsi/2018/767), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2018/767/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2018/767/article/2/3/a))
 
-[^key-21303733edee629e6bd5fc8aace467da]: Textual amendment: Words in s. 336D(7)(h) inserted (E.W.) (20.7.2018) by [The Tax Collection and Management (Wales) Act 2016 (Supplemental Provision) Regulations 2018 (S.I. 2018/768)](https://www.legislation.gov.uk/wsi/2018/768), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/768/regulation/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2018/768/regulation/2/h)
+[^c-21303733edee629e6bd5fc8aace467da]: Textual amendment: Words in s. 336D(7)(h) inserted (E.W.) (20.7.2018) by [The Tax Collection and Management (Wales) Act 2016 (Supplemental Provision) Regulations 2018 (S.I. 2018/768)](https://www.legislation.gov.uk/wsi/2018/768), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/768/regulation/1/2), [2(h)](https://www.legislation.gov.uk/wsi/2018/768/regulation/2/h)

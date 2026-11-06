@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. Student loans under the 1990 Act: IVAs and bankruptcy[^key-88df0272aa4a907741ab461e3e2c3cfa]
+## 258. Student loans under the 1990 Act: IVAs and bankruptcy[^c-88df0272aa4a907741ab461e3e2c3cfa]
 
 *Extent: E+W+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88df0272aa4a907741ab461e3e2c3cfa]: Commencement: S. 258 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-88df0272aa4a907741ab461e3e2c3cfa]: Commencement: S. 258 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

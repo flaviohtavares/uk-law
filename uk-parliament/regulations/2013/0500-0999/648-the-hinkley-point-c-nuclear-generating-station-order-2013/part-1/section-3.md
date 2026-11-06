@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Development consent for authorised development etc.[^key-8be99e96301b7215f28a379616ad2c40]
+## 3. Development consent for authorised development etc.[^c-8be99e96301b7215f28a379616ad2c40]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8be99e96301b7215f28a379616ad2c40]: Commencement: Art. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8be99e96301b7215f28a379616ad2c40]: Commencement: Art. 3 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

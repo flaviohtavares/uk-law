@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Emergency powers and consents[^key-6e2f89ccbfa5d6f50803208beeb0f72b]
+## 51. Emergency powers and consents[^c-6e2f89ccbfa5d6f50803208beeb0f72b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Agency’s powers under articles 47 (removal of vessels) and 49 (removal of 
 
 ## Annotations
 
-[^key-6e2f89ccbfa5d6f50803208beeb0f72b]: Commencement: Art. 51 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-6e2f89ccbfa5d6f50803208beeb0f72b]: Commencement: Art. 51 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

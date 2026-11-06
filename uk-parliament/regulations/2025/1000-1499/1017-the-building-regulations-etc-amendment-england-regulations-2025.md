@@ -50,7 +50,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 120B(3) of the Building Act 1984, the Secretary of State has consulted the regulator (which has the meaning given in section 126 of the Building Act 1984) and such other persons as the Secretary of State considers appropriate.
 
-## 1. Citation, commencement, extent, application and interpretation[^key-b9cc239c53a19695678c387525c3a339]
+## 1. Citation, commencement, extent, application and interpretation[^c-b9cc239c53a19695678c387525c3a339]
 
 (1) These Regulations may be cited as the Building Regulations etc. (Amendment) (England) Regulations 2025.
 
@@ -63,11 +63,11 @@ In accordance with section 120B(3) of the Building Act 1984, the Secretary of St
 - “**the 2010 Regulations**” means the Building Regulations 2010[^f00002];
 - “**the RBCA Regulations**” means the Building (Registered Building Control Approvers etc.) (England) Regulations 2024[^f00003].
 
-## 2. Amendment of the RBCA Regulations[^key-371105924625abc8242a5adfa5e5b519]
+## 2. Amendment of the RBCA Regulations[^c-371105924625abc8242a5adfa5e5b519]
 
 The RBCA Regulations are amended in accordance with regulations 3 to 7.
 
-## 3. Amendment to regulation 18[^key-5ef9a2261d1eeacba76089e89650106e]
+## 3. Amendment to regulation 18[^c-5ef9a2261d1eeacba76089e89650106e]
 
 In regulation 18 (compliance declarations) at the end of paragraph 18(e) substitute the full stop for a comma and insert—
 
@@ -75,7 +75,7 @@ In regulation 18 (compliance declarations) at the end of paragraph 18(e) substit
 
 .
 
-## 4. Insertion of regulation 22A[^key-57e7afdb4ebd0000fb6df3d0aa78c3a2]
+## 4. Insertion of regulation 22A[^c-57e7afdb4ebd0000fb6df3d0aa78c3a2]
 
 After regulation 22 (local authority powers in relation to partially completed works) insert—
 
@@ -100,7 +100,7 @@ After regulation 22 (local authority powers in relation to partially completed w
 
 .
 
-## 5. Amendment to regulation 32[^key-b49684db333117ac4bc7024ae23c7eae]
+## 5. Amendment to regulation 32[^c-b49684db333117ac4bc7024ae23c7eae]
 
 In regulation 32 (notices to local authorities on disciplinary matters in relation to approvers), after paragraph (3) insert—
 
@@ -111,7 +111,7 @@ In regulation 32 (notices to local authorities on disciplinary matters in relati
 
 .
 
-## 6. Amendment to schedule 1[^key-8153c4d6f3d714530f8def67bfa26746]
+## 6. Amendment to schedule 1[^c-8153c4d6f3d714530f8def67bfa26746]
 
 (1) In Schedule 1 (forms), Form 10 is amended as follows.
 
@@ -127,7 +127,7 @@ In regulation 32 (notices to local authorities on disciplinary matters in relati
 
 .
 
-## 7. Amendment to Schedule 2[^key-07fc55a9cf16b2bc4be717d2c99fc82e]
+## 7. Amendment to Schedule 2[^c-07fc55a9cf16b2bc4be717d2c99fc82e]
 
 In Schedule 2 (grounds for rejecting an initial notice, an amendment notice or plans certificate combined with an initial notice)—
 
@@ -142,11 +142,11 @@ In Schedule 2 (grounds for rejecting an initial notice, an amendment notice or p
 
   .
 
-## 8. Amendment of the 2010 Regulations[^key-0c3aab5cc6a5a70f34c6f63887705754]
+## 8. Amendment of the 2010 Regulations[^c-0c3aab5cc6a5a70f34c6f63887705754]
 
 The 2010 Regulations are amended in accordance with regulations 9 to 10.
 
-## 9. Amendment to regulation 16[^key-7f125774c210bdd53d31de8bbd862e24]
+## 9. Amendment to regulation 16[^c-7f125774c210bdd53d31de8bbd862e24]
 
 In regulation 16 (notices in relation to building work)—
 
@@ -163,7 +163,7 @@ In regulation 16 (notices in relation to building work)—
 
   .
 
-## 10. Other amendments to the 2010 Regulations[^key-95043cf2d2fac24bd8972c9968d1d259]
+## 10. Other amendments to the 2010 Regulations[^c-95043cf2d2fac24bd8972c9968d1d259]
 
 (1) In regulation 17(2) (completion certificates) after “16(4)” insert “of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024”.
 
@@ -175,7 +175,7 @@ In regulation 16 (notices in relation to building work)—
 
 (5) In regulation 44ZA(3)(b)(i) (commissioning in respect of a system for on-site electricity generation) after “16(4)” insert “of these Regulations or 22A(1) of the Building (Registered Building Control Approvers etc.) (England) Regulations 2024”.
 
-## 11. Transitional provisions[^key-cc7325b5c89195c67b746f830cf9336f]
+## 11. Transitional provisions[^c-cc7325b5c89195c67b746f830cf9336f]
 
 (1) The amendments made by regulation 3 do not apply to any case where the notice required by regulation 18 of the RBCA Regulations has been given before the day on which these Regulations into force.
 
@@ -219,28 +219,28 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1 of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22). Section 47(2) was amended by paragraph 40(2) of Schedule 5 to the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30). Section 52(3) was amended by section 50(3) of that Act. Section 58Z5 was inserted by section 42 of that Act. See section 126 for the definition of “prescribed”.
 
-[^key-b9cc239c53a19695678c387525c3a339]: Commencement: Reg. 1 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-b9cc239c53a19695678c387525c3a339]: Commencement: Reg. 1 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214) as amended by [S.I. 2023/911](https://www.legislation.gov.uk/uksi/2023/911). There are other amending instruments, but none relevant to this instrument.
 
 [^f00003]: Footnote: [S.I. 2024/110](https://www.legislation.gov.uk/uksi/2024/110), to which there are amendments not relevant to these Regulations.
 
-[^key-371105924625abc8242a5adfa5e5b519]: Commencement: Reg. 2 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-371105924625abc8242a5adfa5e5b519]: Commencement: Reg. 2 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-5ef9a2261d1eeacba76089e89650106e]: Commencement: Reg. 3 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-5ef9a2261d1eeacba76089e89650106e]: Commencement: Reg. 3 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-57e7afdb4ebd0000fb6df3d0aa78c3a2]: Commencement: Reg. 4 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-57e7afdb4ebd0000fb6df3d0aa78c3a2]: Commencement: Reg. 4 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-b49684db333117ac4bc7024ae23c7eae]: Commencement: Reg. 5 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-b49684db333117ac4bc7024ae23c7eae]: Commencement: Reg. 5 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-8153c4d6f3d714530f8def67bfa26746]: Commencement: Reg. 6 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-8153c4d6f3d714530f8def67bfa26746]: Commencement: Reg. 6 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-07fc55a9cf16b2bc4be717d2c99fc82e]: Commencement: Reg. 7 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-07fc55a9cf16b2bc4be717d2c99fc82e]: Commencement: Reg. 7 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-0c3aab5cc6a5a70f34c6f63887705754]: Commencement: Reg. 8 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-0c3aab5cc6a5a70f34c6f63887705754]: Commencement: Reg. 8 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-7f125774c210bdd53d31de8bbd862e24]: Commencement: Reg. 9 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-7f125774c210bdd53d31de8bbd862e24]: Commencement: Reg. 9 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-95043cf2d2fac24bd8972c9968d1d259]: Commencement: Reg. 10 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-95043cf2d2fac24bd8972c9968d1d259]: Commencement: Reg. 10 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
 
-[^key-cc7325b5c89195c67b746f830cf9336f]: Commencement: Reg. 11 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)
+[^c-cc7325b5c89195c67b746f830cf9336f]: Commencement: Reg. 11 in force at 7.10.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1017/regulation/1/2)

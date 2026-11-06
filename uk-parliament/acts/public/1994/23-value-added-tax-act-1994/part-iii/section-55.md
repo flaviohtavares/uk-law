@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c15291561] Where any person makes a supply of gold to another person and that supply is a taxable supply but not a zero rated supply, the supply shall be treated for purposes of Schedules 1 and 1A[^key-a556725d48bd0be633f451f5b2c445ca] —
+(1)[^c15291561] Where any person makes a supply of gold to another person and that supply is a taxable supply but not a zero rated supply, the supply shall be treated for purposes of Schedules 1 and 1A[^c-a556725d48bd0be633f451f5b2c445ca] —
 
 - (a) as a taxable supply of that other person (as well as a taxable supply of the person who makes it); and
 - (b) in so far as that other person is supplied in connection with the carrying on by him of any business, as a supply made by him in the course or furtherance of that business;
 
-but nothing in paragraph (b) above shall require any supply to be disregarded for the purposes of Schedule 1[^key-03c9360434cf04149d6182518b751566] on the grounds that it is a supply of capital assets of that other person’s business.
+but nothing in paragraph (b) above shall require any supply to be disregarded for the purposes of Schedule 1[^c-03c9360434cf04149d6182518b751566] on the grounds that it is a supply of capital assets of that other person’s business.
 
 (2)[^c15291571][^c15291561] Where a taxable person makes a supply of gold to a person who—
 
@@ -55,9 +55,9 @@ as may be specified or described in the order.
 
 [^c15291561]: Modification: S. 55(1)-(4) applied (1.1.2000) by [S.I. 1999/3116](https://www.legislation.gov.uk/uksi/1999/3116), [art. 4](https://www.legislation.gov.uk/uksi/1999/3116/article/4)
 
-[^key-a556725d48bd0be633f451f5b2c445ca]: Textual amendment: Words in s. 55(1) substituted (with effect in accordance with [Sch. 28 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/19) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 28 para. 5(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/5/a)
+[^c-a556725d48bd0be633f451f5b2c445ca]: Textual amendment: Words in s. 55(1) substituted (with effect in accordance with [Sch. 28 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/19) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 28 para. 5(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/5/a)
 
-[^key-03c9360434cf04149d6182518b751566]: Textual amendment: Words in s. 55(1) substituted (with effect in accordance with [Sch. 28 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/19) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 28 para. 5(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/5/b)
+[^c-03c9360434cf04149d6182518b751566]: Textual amendment: Words in s. 55(1) substituted (with effect in accordance with [Sch. 28 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/19) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 28 para. 5(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/28/paragraph/5/b)
 
 [^c15291571]: Modification: S. 55(2) excluded (1.1.2000) by [S.I. 1973/173](https://www.legislation.gov.uk/uksi/1973/173), [art. 7](https://www.legislation.gov.uk/uksi/1973/173/article/7) (as added (1.1.2000) by [S.I. 1999/3117](https://www.legislation.gov.uk/uksi/1999/3117), [art. 8](https://www.legislation.gov.uk/uksi/1999/3117/article/8))
 

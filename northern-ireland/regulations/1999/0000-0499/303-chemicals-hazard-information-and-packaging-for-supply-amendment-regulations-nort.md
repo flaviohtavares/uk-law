@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-ab4519834dc5fe7240c6425ce76ced16]
+Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-ab4519834dc5fe7240c6425ce76ced16]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 18th August 1999
 
-[^key-ab4519834dc5fe7240c6425ce76ced16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab4519834dc5fe7240c6425ce76ced16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ab4519834dc5fe7240c6425ce76ced16]
+## 1. Citation and commencement[^c-ab4519834dc5fe7240c6425ce76ced16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ab4519834dc5fe7240c6425ce76ced16]
+## 2. Interpretation[^c-ab4519834dc5fe7240c6425ce76ced16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 4 of the principal Regulations[^key-ab4519834dc5fe7240c6425ce76ced16]
+## 3. Amendment of regulation 4 of the principal Regulations[^c-ab4519834dc5fe7240c6425ce76ced16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-ab4519834dc5fe7240c6425ce76ced16]
+## 4. Transitional provisions[^c-ab4519834dc5fe7240c6425ce76ced16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab4519834dc5fe7240c6425ce76ced16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab4519834dc5fe7240c6425ce76ced16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab4519834dc5fe7240c6425ce76ced16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab4519834dc5fe7240c6425ce76ced16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab4519834dc5fe7240c6425ce76ced16]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/303) revoked (14.11.2002) by [Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 (S.R. 2002/301)](https://www.legislation.gov.uk/nisr/2002/301), [regs. 1](https://www.legislation.gov.uk/nisr/2002/301/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2002/301/regulation/18/1), [Sch. 8](https://www.legislation.gov.uk/nisr/2002/301/schedule/8)
+[^c-ab4519834dc5fe7240c6425ce76ced16]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/303) revoked (14.11.2002) by [Chemicals (Hazard Information and Packaging for Supply) Regulations (Northern Ireland) 2002 (S.R. 2002/301)](https://www.legislation.gov.uk/nisr/2002/301), [regs. 1](https://www.legislation.gov.uk/nisr/2002/301/regulation/1), [18(1)](https://www.legislation.gov.uk/nisr/2002/301/regulation/18/1), [Sch. 8](https://www.legislation.gov.uk/nisr/2002/301/schedule/8)

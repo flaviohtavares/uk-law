@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74.[^key-d602a1174082a83b91f8a37468336d9b]
+## 74.[^c-d602a1174082a83b91f8a37468336d9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ Regulation 49 (review of specified tariff rate quotas) has effect as if for para
 
 ## Annotations
 
-[^key-d602a1174082a83b91f8a37468336d9b]: Textual amendment: Reg. 74 substituted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/730/regulation/12)
+[^c-d602a1174082a83b91f8a37468336d9b]: Textual amendment: Reg. 74 substituted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/730/regulation/12)

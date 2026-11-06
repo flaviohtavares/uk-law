@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Duration of permission and consent[^key-87d2505b76145a05b0ac9e81b0b21e97]
+## 51. Duration of permission and consent[^c-87d2505b76145a05b0ac9e81b0b21e97]
 
 *Extent: E+W*
 
 (1) Section 91 of the principal Act (limit on duration of planning permission) is amended as follows—
 
-- (a) in subsections (1)(a) and (3) for the words “five years” there is substituted *(affected by repeal, see note)*[^key-a143e9fb56651e1eac84d50924992c0a] “ three years ” *(affected by repeal, see note)*[^key-a143e9fb56651e1eac84d50924992c0a];
-- (b)[^key-a6a9b6b2df5cb0d8df54098f1bc87da2] after subsection (3) there are inserted the following subsections—
+- (a) in subsections (1)(a) and (3) for the words “five years” there is substituted *(affected by repeal, see note)*[^c-a143e9fb56651e1eac84d50924992c0a] “ three years ” *(affected by repeal, see note)*[^c-a143e9fb56651e1eac84d50924992c0a];
+- (b)[^c-a6a9b6b2df5cb0d8df54098f1bc87da2] after subsection (3) there are inserted the following subsections—
 
   > (3A) Subsection (3B) applies if any proceedings are begun to challenge the validity of a grant of planning permission or of a deemed grant of planning permission.
   >
@@ -31,11 +31,11 @@ summary: ''
   >
   > (3C) Nothing in this section prevents the development being begun from the time the permission is granted or deemed to be granted.
 
-(2) In section 92 of that Act (outline planning permission)— *(affected by repeal, see note)*[^key-c4641c176a618ce1d68361ab1493f0d6]
+(2) In section 92 of that Act (outline planning permission)— *(affected by repeal, see note)*[^c-c4641c176a618ce1d68361ab1493f0d6]
 
-- (a) in subsection (2)(b) sub-paragraph (i) is omitted; *(affected by repeal, see note)*[^key-c4641c176a618ce1d68361ab1493f0d6]
-- (b) in subsection (2)(b) in sub-paragraph (ii) the words “if later” are omitted; *(affected by repeal, see note)*[^key-c4641c176a618ce1d68361ab1493f0d6]
-- (c) in subsection (4) “five years” is omitted. *(affected by repeal, see note)*[^key-c4641c176a618ce1d68361ab1493f0d6]
+- (a) in subsection (2)(b) sub-paragraph (i) is omitted; *(affected by repeal, see note)*[^c-c4641c176a618ce1d68361ab1493f0d6]
+- (b) in subsection (2)(b) in sub-paragraph (ii) the words “if later” are omitted; *(affected by repeal, see note)*[^c-c4641c176a618ce1d68361ab1493f0d6]
+- (c) in subsection (4) “five years” is omitted. *(affected by repeal, see note)*[^c-c4641c176a618ce1d68361ab1493f0d6]
 
 (3) In section 73 of the principal Act (applications to develop land without compliance with existing conditions) after subsection (4) there is inserted the following subsection—
 
@@ -66,10 +66,10 @@ summary: ''
 
 ## Annotations
 
-[^key-87d2505b76145a05b0ac9e81b0b21e97]: Commencement: S. 51 in force at 24.8.2005 for E. by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/c) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/2))
+[^c-87d2505b76145a05b0ac9e81b0b21e97]: Commencement: S. 51 in force at 24.8.2005 for E. by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/c) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/2))
 
-[^key-a143e9fb56651e1eac84d50924992c0a]: Textual amendment: S. 51(1)(a) omitted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 35(8)](https://www.legislation.gov.uk/anaw/2015/4/section/35/8), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))
+[^c-a143e9fb56651e1eac84d50924992c0a]: Textual amendment: S. 51(1)(a) omitted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 35(8)](https://www.legislation.gov.uk/anaw/2015/4/section/35/8), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))
 
-[^key-a6a9b6b2df5cb0d8df54098f1bc87da2]: Commencement: S. 51(1)(b) in force at 22.6.2015 for specified purposes for W. by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 3](https://www.legislation.gov.uk/uksi/2015/340/article/3)
+[^c-a6a9b6b2df5cb0d8df54098f1bc87da2]: Commencement: S. 51(1)(b) in force at 22.6.2015 for specified purposes for W. by [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 3](https://www.legislation.gov.uk/uksi/2015/340/article/3)
 
-[^key-c4641c176a618ce1d68361ab1493f0d6]: Textual amendment: S. 51(2) omitted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 36(7)](https://www.legislation.gov.uk/anaw/2015/4/section/36/7), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))
+[^c-c4641c176a618ce1d68361ab1493f0d6]: Textual amendment: S. 51(2) omitted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 36(7)](https://www.legislation.gov.uk/anaw/2015/4/section/36/7), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2016/52/article/13))

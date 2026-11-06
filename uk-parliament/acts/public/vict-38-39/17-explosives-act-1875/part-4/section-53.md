@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53—57. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6edb255b8bb757045407e22c0a88a4d6][^M_F_114760dd-c6d3-4029-b17f-7a4f84bfcbfe][^M_F_b2db650e-906e-4a6d-cf8e-9deb072bf01f]
+## 53—57. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6edb255b8bb757045407e22c0a88a4d6][^M_F_114760dd-c6d3-4029-b17f-7a4f84bfcbfe][^M_F_b2db650e-906e-4a6d-cf8e-9deb072bf01f]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-6edb255b8bb757045407e22c0a88a4d6]: Textual amendment: Ss. 57-60 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-6edb255b8bb757045407e22c0a88a4d6]: Textual amendment: Ss. 57-60 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^M_F_114760dd-c6d3-4029-b17f-7a4f84bfcbfe]: Textual amendment: Ss. 53, 54, 55, 56 repealed (N.I.) (7.8.2009) by [The Manufacture and Storage of Explosives (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/248)](https://www.legislation.gov.uk/nisr/2009/248), [regs. 1](https://www.legislation.gov.uk/nisr/2009/248/regulation/1), [3](https://www.legislation.gov.uk/nisr/2009/248/regulation/3)
 

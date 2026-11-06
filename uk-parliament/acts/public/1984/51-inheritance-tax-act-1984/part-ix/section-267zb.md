@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267ZB. Section 267ZA: further provision about election[^key-171871a31af093daf062fee74e5fdff7]
+## 267ZB. Section 267ZA: further provision about election[^c-171871a31af093daf062fee74e5fdff7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The date specified in a notice under subsection (3) must—
 
-- (a) be 5 April 2025 or an earlier date[^key-bb7251b60afb2dd176ae159ab0904f31],
+- (a) be 5 April 2025 or an earlier date[^c-bb7251b60afb2dd176ae159ab0904f31],
 - (b) be within the period of 7 years ending with—
   - (i) in the case of a lifetime election, the date on which the election is made, or
   - (ii) in the case of a death election, the date of the deceased's death, and
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-171871a31af093daf062fee74e5fdff7]: Textual amendment: Ss. 267ZA, 267ZB inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 177(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/177/3)
+[^c-171871a31af093daf062fee74e5fdff7]: Textual amendment: Ss. 267ZA, 267ZB inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 177(3)](https://www.legislation.gov.uk/ukpga/2013/29/section/177/3)
 
-[^key-bb7251b60afb2dd176ae159ab0904f31]: Textual amendment: Words in [s. 267ZB(4)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/267ZB/4/a) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 25](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/25), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1) (with [Sch. 13 para. 46](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/46))
+[^c-bb7251b60afb2dd176ae159ab0904f31]: Textual amendment: Words in [s. 267ZB(4)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/267ZB/4/a) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 25](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/25), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1) (with [Sch. 13 para. 46](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/46))

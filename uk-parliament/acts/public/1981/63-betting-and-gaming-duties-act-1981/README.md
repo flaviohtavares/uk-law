@@ -98,7 +98,7 @@ An Act to consolidate certain enactments concerning the duties of excise relatin
 - [Section 15 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-15.md)
 - [Section 16 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-16.md)
 
-#### ...[^key-1b7afab1d52e43345b8d9e86aa43dc57]
+#### ...[^c-1b7afab1d52e43345b8d9e86aa43dc57]
 
 *Extent: E+W+S+N.I.*
 
@@ -182,6 +182,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-1b7afab1d52e43345b8d9e86aa43dc57]: Textual amendment: S. 17 cross-heading omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-1b7afab1d52e43345b8d9e86aa43dc57]: Textual amendment: S. 17 cross-heading omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/1/b)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
 [^c19499041]: Textual amendment: Cross-heading preceding s. 26N inserted (with effect as mentioned in [s. 8(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/8/2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 8](https://www.legislation.gov.uk/ukpga/2007/11/section/8), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2007/11/schedule/1/paragraph/3); [S.I. 2007/2172](https://www.legislation.gov.uk/uksi/2007/2172), [art. 2](https://www.legislation.gov.uk/uksi/2007/2172/article/2)

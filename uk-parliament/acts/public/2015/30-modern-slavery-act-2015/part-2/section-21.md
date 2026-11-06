@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Interim slavery and trafficking prevention orders[^key-a358c2feecfde8532bb30827c17bd0a6]
+## 21. Interim slavery and trafficking prevention orders[^c-a358c2feecfde8532bb30827c17bd0a6]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ If it does, those subsections apply as if references to a slavery and traffickin
 
 ## Annotations
 
-[^key-a358c2feecfde8532bb30827c17bd0a6]: Commencement: S. 21 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-a358c2feecfde8532bb30827c17bd0a6]: Commencement: S. 21 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

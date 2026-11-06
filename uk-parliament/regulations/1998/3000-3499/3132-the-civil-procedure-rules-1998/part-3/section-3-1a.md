@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.1A. Case management – unrepresented parties[^key-29f2f9efc75d64b98aa5f0076506969f]
+## 3.1A. Case management – unrepresented parties[^c-29f2f9efc75d64b98aa5f0076506969f]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) When the court is exercising any powers of case management, it must have regard to the fact that at least one party is unrepresented.
 
-(3) Both the parties and the court must, when drafting case management directions in the multi-track , intermediate track[^key-752cec9712f088d90ea8d9fa935f88ab] and fast track, take as their starting point any relevant standard directions which can be found online at www.justice.gov.uk/courts/procedure-rules/civil and adapt them as appropriate to the circumstances of the case.
+(3) Both the parties and the court must, when drafting case management directions in the multi-track , intermediate track[^c-752cec9712f088d90ea8d9fa935f88ab] and fast track, take as their starting point any relevant standard directions which can be found online at www.justice.gov.uk/courts/procedure-rules/civil and adapt them as appropriate to the circumstances of the case.
 
 (4) The court must adopt such procedure at any hearing as it considers appropriate to further the overriding objective.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29f2f9efc75d64b98aa5f0076506969f]: Textual amendment: [Rule 3.1A](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.1A) inserted (1.10.2015) by [The Civil Procedure (Amendment No. 4) Rules 2015 (S.I. 2015/1569)](https://www.legislation.gov.uk/uksi/2015/1569), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1569/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1569/rule/5)
+[^c-29f2f9efc75d64b98aa5f0076506969f]: Textual amendment: [Rule 3.1A](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.1A) inserted (1.10.2015) by [The Civil Procedure (Amendment No. 4) Rules 2015 (S.I. 2015/1569)](https://www.legislation.gov.uk/uksi/2015/1569), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1569/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1569/rule/5)
 
-[^key-752cec9712f088d90ea8d9fa935f88ab]: Textual amendment: Words in [rule 3.1A(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.1A/3) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/5/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-752cec9712f088d90ea8d9fa935f88ab]: Textual amendment: Words in [rule 3.1A(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/3.1A/3) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/5/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))

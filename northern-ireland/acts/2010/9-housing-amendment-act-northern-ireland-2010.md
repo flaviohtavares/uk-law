@@ -531,11 +531,11 @@ In Ground 2 in Part 1 of Schedule 3 to the Order of 1983 (nuisance or annoyance 
 
 In paragraph 1(1) of Schedule 1 to the Order of 1981 (the Northern Ireland Housing Executive) for the word “three” substitute “ 4 ”.
 
-### 13. Amendment of Article 13(6) of the Order of 1992[^key-8e0674912c4af54c7950529317d2efe2]
+### 13. Amendment of Article 13(6) of the Order of 1992[^c-8e0674912c4af54c7950529317d2efe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Definition of “house in multiple occupation”[^key-c8fee49528a294b0f83d2ff3b61ec892]
+### 14. Definition of “house in multiple occupation”[^c-c8fee49528a294b0f83d2ff3b61ec892]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -580,8 +580,8 @@ This Act may be cited as the Housing (Amendment) Act (Northern Ireland) 2010.
 
 ## Annotations
 
-[^key-8e0674912c4af54c7950529317d2efe2]: Textual amendment: [S. 13](https://www.legislation.gov.uk/nia/2010/9/section/13) repealed (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(4)(b)](https://www.legislation.gov.uk/nia/2020/5/section/1/4/b), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
+[^c-8e0674912c4af54c7950529317d2efe2]: Textual amendment: [S. 13](https://www.legislation.gov.uk/nia/2010/9/section/13) repealed (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(4)(b)](https://www.legislation.gov.uk/nia/2020/5/section/1/4/b), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
 
-[^key-c8fee49528a294b0f83d2ff3b61ec892]: Textual amendment: [S. 14](https://www.legislation.gov.uk/nia/2010/9/section/14) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-c8fee49528a294b0f83d2ff3b61ec892]: Textual amendment: [S. 14](https://www.legislation.gov.uk/nia/2010/9/section/14) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^c2195965]: Subordinate legislation: [S. 19(1)](https://www.legislation.gov.uk/nia/2010/9/section/19/1) power fully exercised: different dates appointed for specified provisions by [S.R. 2010/251](https://www.legislation.gov.uk/nisr/2010/251), [arts. 2](https://www.legislation.gov.uk/nisr/2010/251/article/2), [3](https://www.legislation.gov.uk/nisr/2010/251/article/3)

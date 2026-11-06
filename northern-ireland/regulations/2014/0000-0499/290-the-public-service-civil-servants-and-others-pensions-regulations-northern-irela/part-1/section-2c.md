@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2C. Partnership Pension Account[^key-a97145f6c9eaa72e79daeab396866d2c]
+## 2C. Partnership Pension Account[^c-a97145f6c9eaa72e79daeab396866d2c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a97145f6c9eaa72e79daeab396866d2c]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/nisr/2014/290/regulation/2A) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2022/67/regulation/4)
+[^c-a97145f6c9eaa72e79daeab396866d2c]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/nisr/2014/290/regulation/2A) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2022/67/regulation/4)

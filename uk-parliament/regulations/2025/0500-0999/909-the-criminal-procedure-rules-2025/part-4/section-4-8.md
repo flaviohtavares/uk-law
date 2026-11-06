@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.8. Service by person in custody[^key-c4f11876890bf3602ae36ff6c4b6f03c]
+## 4.8. Service by person in custody[^c-c4f11876890bf3602ae36ff6c4b6f03c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f11876890bf3602ae36ff6c4b6f03c]: Commencement: [Rule 4.8](https://www.legislation.gov.uk/uksi/2025/909/rule/4.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c4f11876890bf3602ae36ff6c4b6f03c]: Commencement: [Rule 4.8](https://www.legislation.gov.uk/uksi/2025/909/rule/4.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Offences in respect of contravention of Part 3, Part 4 and Part 6[^key-4c6309f66cda700199dd129ce0e24224]
+## 58. Offences in respect of contravention of Part 3, Part 4 and Part 6[^c-4c6309f66cda700199dd129ce0e24224]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ For regulation 115[^f00079] substitute—
 
 ## Annotations
 
-[^key-4c6309f66cda700199dd129ce0e24224]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2006/2910/regulation/58) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-4c6309f66cda700199dd129ce0e24224]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2006/2910/regulation/58) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00079]: Footnote: Part 6 including regulation 115 was inserted by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871). Regulation 115 was amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 

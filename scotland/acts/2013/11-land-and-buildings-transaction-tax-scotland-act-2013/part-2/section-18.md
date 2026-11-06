@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Contingent consideration[^key-ef467289fdcfc18c52c950a86f6f6bb7]
+## 18. Contingent consideration[^c-ef467289fdcfc18c52c950a86f6f6bb7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef467289fdcfc18c52c950a86f6f6bb7]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2013/11/section/18) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-ef467289fdcfc18c52c950a86f6f6bb7]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2013/11/section/18) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

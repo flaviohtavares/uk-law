@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Completion certificates: acceptance and rejection[^key-2480b997abe3d8c78fa02c53140d0f88]
+## 18. Completion certificates: acceptance and rejection[^c-2480b997abe3d8c78fa02c53140d0f88]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ of such description as procedure regulations may specify, the verifier must cons
 
 ## Annotations
 
-[^key-2480b997abe3d8c78fa02c53140d0f88]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2003/8/section/18) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-2480b997abe3d8c78fa02c53140d0f88]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2003/8/section/18) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

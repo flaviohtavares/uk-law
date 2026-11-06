@@ -31,18 +31,18 @@ Bingo Act 1992 (repealed)
 
 1992 c. 10
 
-[^key-9653b763d9b2dd2405db2121ec651d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9653b763d9b2dd2405db2121ec651d44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Bingo advertising.[^key-9653b763d9b2dd2405db2121ec651d44][^key-9653b763d9b2dd2405db2121ec651d44]
+## 1. Bingo advertising.[^c-9653b763d9b2dd2405db2121ec651d44][^c-9653b763d9b2dd2405db2121ec651d44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title, commencement and extent.[^key-9653b763d9b2dd2405db2121ec651d44][^key-9653b763d9b2dd2405db2121ec651d44]
+## 2. Short title, commencement and extent.[^c-9653b763d9b2dd2405db2121ec651d44][^c-9653b763d9b2dd2405db2121ec651d44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9653b763d9b2dd2405db2121ec651d44]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/10) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-9653b763d9b2dd2405db2121ec651d44]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1992/10) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 24. Complaint of misconduct: investigation[^key-448c4a942454e814d6894abd9793018f]
+## 24. Complaint of misconduct: investigation[^c-448c4a942454e814d6894abd9793018f]
 
 *Extent: E*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-448c4a942454e814d6894abd9793018f]: Commencement: S. 24 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-448c4a942454e814d6894abd9793018f]: Commencement: S. 24 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

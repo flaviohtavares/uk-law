@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Other improvement measures[^key-4691bce6a5fe599879f30fcbb36db03c]
+## 9. Other improvement measures[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)
+[^c-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

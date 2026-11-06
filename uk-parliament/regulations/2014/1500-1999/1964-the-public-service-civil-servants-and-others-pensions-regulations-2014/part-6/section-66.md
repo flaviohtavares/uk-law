@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Option proportion[^key-58d1e082fe345ad3685964fe15d9bc15]
+## 66. Option proportion[^c-58d1e082fe345ad3685964fe15d9bc15]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58d1e082fe345ad3685964fe15d9bc15]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/1964/regulation/66) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-58d1e082fe345ad3685964fe15d9bc15]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2014/1964/regulation/66) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Entitlement to pension credit members’ pension[^key-8a8c0229b7bcb44e2a59ac2eb29d4687]
+## 105. Entitlement to pension credit members’ pension[^c-8a8c0229b7bcb44e2a59ac2eb29d4687]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a8c0229b7bcb44e2a59ac2eb29d4687]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2014/2848/regulation/105) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-8a8c0229b7bcb44e2a59ac2eb29d4687]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2014/2848/regulation/105) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

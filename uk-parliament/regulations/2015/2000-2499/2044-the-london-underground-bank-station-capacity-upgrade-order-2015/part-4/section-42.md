@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Statutory undertakers etc.[^key-613524a6843ddac12f999fcb50295b24]
+## 42. Statutory undertakers etc.[^c-613524a6843ddac12f999fcb50295b24]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 10 (provisions relating to statutory undertakers etc.
 
 ## Annotations
 
-[^key-613524a6843ddac12f999fcb50295b24]: Commencement: Art. 42 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-613524a6843ddac12f999fcb50295b24]: Commencement: Art. 42 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

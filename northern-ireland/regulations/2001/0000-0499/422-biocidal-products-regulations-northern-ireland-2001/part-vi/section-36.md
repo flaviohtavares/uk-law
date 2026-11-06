@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Appeals[^key-14248825364a0493a7d58ceadbd43e2e]
+## 36. Appeals[^c-14248825364a0493a7d58ceadbd43e2e]
 
 *Extent: N.I.*
 
@@ -65,6 +65,6 @@ and in this paragraph, “certificate of exemption” means a certificate of exe
 
 ## Annotations
 
-[^key-14248825364a0493a7d58ceadbd43e2e]: Commencement: Reg. 36 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-14248825364a0493a7d58ceadbd43e2e]: Commencement: Reg. 36 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00022]: Footnote: [S.R. 1997 No. 269](https://www.legislation.gov.uk/nisr/1997/269)

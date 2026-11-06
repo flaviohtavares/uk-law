@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Amendment of regulation 2.K.14[^key-2893283e43b500d5aea9f79d9a406bc2]
+## 48. Amendment of regulation 2.K.14[^c-2893283e43b500d5aea9f79d9a406bc2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2893283e43b500d5aea9f79d9a406bc2]: Textual amendment: [Regs. 15-102](https://www.legislation.gov.uk/ssi/2011/364/regulation/15) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174//part/5/chapter/5.B))
+[^c-2893283e43b500d5aea9f79d9a406bc2]: Textual amendment: [Regs. 15-102](https://www.legislation.gov.uk/ssi/2011/364/regulation/15) revoked (1.7.2013) by [The National Health Service Superannuation Scheme (2008 Section) (Scotland) Regulations 2013 (S.S.I. 2013/174)](https://www.legislation.gov.uk/ssi/2013/174), [reg. 1.A.1(2)](https://www.legislation.gov.uk/ssi/2013/174/part/1/chapter/1.A/regulation/1n1), [sch.](https://www.legislation.gov.uk/ssi/2013/174/schedule) (with [reg. 5.B.1(2)](https://www.legislation.gov.uk/ssi/2013/174//part/5/chapter/5.B))

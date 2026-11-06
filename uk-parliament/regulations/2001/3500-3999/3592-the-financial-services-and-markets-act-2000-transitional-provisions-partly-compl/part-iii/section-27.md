@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Notice of intention to refuse application or to impose conditions[^key-8d83ba2c34e642c150cdb5ea6c8582b9]
+## 27. Notice of intention to refuse application or to impose conditions[^c-8d83ba2c34e642c150cdb5ea6c8582b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the notice ceases to have effect on commencement and the Authority must, as soon
 
 ## Annotations
 
-[^key-8d83ba2c34e642c150cdb5ea6c8582b9]: Commencement: Art. 27 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-8d83ba2c34e642c150cdb5ea6c8582b9]: Commencement: Art. 27 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

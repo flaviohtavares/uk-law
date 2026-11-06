@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Supplementary provisions as to laying reports before Parliament.[^key-f767266f8fe76faf4431dcd684b3e155]
+## 87. Supplementary provisions as to laying reports before Parliament.[^c-f767266f8fe76faf4431dcd684b3e155]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f767266f8fe76faf4431dcd684b3e155]: Textual amendment: S. 87 repealed (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/article/1/1), [Sch. para. 1(7)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/1/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/3180/article/3))
+[^c-f767266f8fe76faf4431dcd684b3e155]: Textual amendment: S. 87 repealed (29.12.2003) by [The Enterprise Act 2002 and Media Mergers (Consequential Amendments) Order 2003 (S.I. 2003/3180)](https://www.legislation.gov.uk/uksi/2003/3180), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/3180/article/1/1), [Sch. para. 1(7)](https://www.legislation.gov.uk/uksi/2003/3180/schedule/paragraph/1/7) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/3180/article/3))

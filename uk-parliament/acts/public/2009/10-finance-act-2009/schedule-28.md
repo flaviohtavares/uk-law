@@ -42,11 +42,11 @@ Section 53
 
 ### Cars with CO<sub>2</sub> emissions figures: the appropriate percentage
 
-**6.**[^key-f824ec91ca7956527c704c8ec8d5cedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f824ec91ca7956527c704c8ec8d5cedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Electrically propelled cars: the appropriate percentage
 
-**7.**[^key-e9162d255164b8dc98b0d76e4667ca1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e9162d255164b8dc98b0d76e4667ca1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** In section 142 (special provision for cars registered before 1998)—
 
@@ -55,20 +55,20 @@ Section 53
 
 ### Consequential repeal
 
-**9.**[^key-9f58d2934f3f43e95c1ed6d2bfeef028] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-9f58d2934f3f43e95c1ed6d2bfeef028] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
-**10.** (1)[^key-581621f03bcf07313135af365ecc3df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.** (1)[^c-581621f03bcf07313135af365ecc3df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The other amendments made by this Schedule have effect for the tax year 2011-12 and subsequent tax years.
 
 ## Annotations
 
-[^key-f824ec91ca7956527c704c8ec8d5cedc]: Textual amendment: [Sch. 28 para. 6](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/6) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/b)
+[^c-f824ec91ca7956527c704c8ec8d5cedc]: Textual amendment: [Sch. 28 para. 6](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/6) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/b)
 
-[^key-e9162d255164b8dc98b0d76e4667ca1d]: Textual amendment: [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/7) omitted (with effect in accordance with s. 58(19) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 58(17)](https://www.legislation.gov.uk/ukpga/2010/13/section/58/17)
+[^c-e9162d255164b8dc98b0d76e4667ca1d]: Textual amendment: [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/7) omitted (with effect in accordance with s. 58(19) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 58(17)](https://www.legislation.gov.uk/ukpga/2010/13/section/58/17)
 
-[^key-9f58d2934f3f43e95c1ed6d2bfeef028]: Textual amendment: [Sch. 28 para. 9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/9) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/b)
+[^c-9f58d2934f3f43e95c1ed6d2bfeef028]: Textual amendment: [Sch. 28 para. 9](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/9) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/b)
 
-[^key-581621f03bcf07313135af365ecc3df1]: Textual amendment: [Sch. 28 para. 10(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/10/1) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/b)
+[^c-581621f03bcf07313135af365ecc3df1]: Textual amendment: [Sch. 28 para. 10(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/28/paragraph/10/1) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/b)

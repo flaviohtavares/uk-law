@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Service of notices, etc[^key-625d33650f234fa7223ba34e095c98b2]
+## 285. Service of notices, etc[^c-625d33650f234fa7223ba34e095c98b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the references in subsection (3) to its principal office include references to i
 
 ## Annotations
 
-[^key-625d33650f234fa7223ba34e095c98b2]: Commencement: [S. 285](https://www.legislation.gov.uk/ukpga/2009/23/section/285) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-625d33650f234fa7223ba34e095c98b2]: Commencement: [S. 285](https://www.legislation.gov.uk/ukpga/2009/23/section/285) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

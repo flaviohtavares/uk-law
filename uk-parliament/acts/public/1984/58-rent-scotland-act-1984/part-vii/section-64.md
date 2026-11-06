@@ -36,8 +36,8 @@ summary: ''
 (6) For the purposes of this section, in relation to a dwelling-house which is not separately rated, “**rateable value**” means such proportion of the rateable value of the premises of which the dwelling-house forms part as may be determined to reflect the relationship between the value of the dwelling-house and the value of the said premises—
 
 - (a) by agreement in writing between the lessor and lessee; or
-- (b) failing such agreement, by the First-tier Tribunal, on an application[^key-ac99875126c4073f98547f8f799e08e1] by either party.
+- (b) failing such agreement, by the First-tier Tribunal, on an application[^c-ac99875126c4073f98547f8f799e08e1] by either party.
 
 ## Annotations
 
-[^key-ac99875126c4073f98547f8f799e08e1]: Textual amendment: Words in [s. 64(6)(b)](https://www.legislation.gov.uk/ukpga/1984/58/section/64/6/b) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 19](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/19); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-ac99875126c4073f98547f8f799e08e1]: Textual amendment: Words in [s. 64(6)(b)](https://www.legislation.gov.uk/ukpga/1984/58/section/64/6/b) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 19](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/19); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

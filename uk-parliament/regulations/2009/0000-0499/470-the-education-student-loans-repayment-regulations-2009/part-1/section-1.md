@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-e9b3371d78468ad90d1eb479c972301c]
+## 1. Citation, commencement and extent[^c-e9b3371d78468ad90d1eb479c972301c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9b3371d78468ad90d1eb479c972301c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/470/regulation/1) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-e9b3371d78468ad90d1eb479c972301c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/470/regulation/1) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

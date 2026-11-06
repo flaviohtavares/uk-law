@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Conduct of elections to a community council[^key-d14365d6f54509e8436e79e78eb5255e][^key-6ff7137074e6e4604be69b39609c0856]
+## 4. Conduct of elections to a community council[^c-d14365d6f54509e8436e79e78eb5255e][^c-6ff7137074e6e4604be69b39609c0856]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d14365d6f54509e8436e79e78eb5255e]: Commencement: Rule 4 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
+[^c-d14365d6f54509e8436e79e78eb5255e]: Commencement: Rule 4 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
 
-[^key-6ff7137074e6e4604be69b39609c0856]: Modification: [Rule 4](https://www.legislation.gov.uk/wsi/2021/1460/rule/4) applied in part (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26), [28](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/28) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-6ff7137074e6e4604be69b39609c0856]: Modification: [Rule 4](https://www.legislation.gov.uk/wsi/2021/1460/rule/4) applied in part (with modifications) (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 paras. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26), [28](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/28) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))

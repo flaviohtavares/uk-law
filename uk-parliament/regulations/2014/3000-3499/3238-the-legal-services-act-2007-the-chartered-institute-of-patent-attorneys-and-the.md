@@ -48,7 +48,7 @@ In accordance with section 206(5) of that Act, a draft of this instrument was la
 
 ## PART 1 — General
 
-### 1. Citation and interpretation[^key-8ed84ee2c63020717717fc685258558a]
+### 1. Citation and interpretation[^c-8ed84ee2c63020717717fc685258558a]
 
 (1) This Order may be cited as the Legal Services Act 2007 (the Chartered Institute of Patent Attorneys and the Institute of Trade Mark Attorneys) (Modification of Functions) Order 2014.
 
@@ -62,7 +62,7 @@ In accordance with section 206(5) of that Act, a draft of this instrument was la
 - “ITMA” means the Institute of Trade Mark Attorneys;
 - “ITMA-registered body” means a body (corporate or unincorporate) which is entered on the register kept by ITMA under section 83 of the 1994 Act and in relation to which ITMA is a relevant approved regulator within the meaning of section 20(4) of the 2007 Act.
 
-### 2. Commencement[^key-992ca6b48f18c8c6e6020840bd5ff70b]
+### 2. Commencement[^c-992ca6b48f18c8c6e6020840bd5ff70b]
 
 (1) Except as provided by paragraphs (2) to (4), this Order comes into force on the day after the day on which it is made.
 
@@ -87,11 +87,11 @@ In accordance with section 206(5) of that Act, a draft of this instrument was la
 
 ### CIPA acting as an approved regulator
 
-#### 3. Interpretation[^key-d6e2f2d4ffd3112947157c465d79653c]
+#### 3. Interpretation[^c-d6e2f2d4ffd3112947157c465d79653c]
 
 In articles 4 and 5 references to CIPA are to CIPA acting in its capacity as an approved regulator (other than in its role, if any, as a licensing authority).
 
-#### 4. Management and control of CIPA-registered bodies[^key-81e341a9e62484427594e5a7618b1a73]
+#### 4. Management and control of CIPA-registered bodies[^c-81e341a9e62484427594e5a7618b1a73]
 
 (1) CIPA may make regulations under section 275A(2)(b) of the 1988 Act[^f00005] (requirements as to registration of a body corporate or unincorporate and its management and control) which require each CIPA-registered body to have—
 
@@ -100,7 +100,7 @@ In articles 4 and 5 references to CIPA are to CIPA acting in its capacity as an 
 
 (2) Regulations made by virtue of paragraph (1) must include the provisions specified in Schedule 1.
 
-#### 5. Appeals to the First-tier Tribunal and the High Court[^key-eccc1bbe76039b6ead3b2632c6ed0fc0]
+#### 5. Appeals to the First-tier Tribunal and the High Court[^c-eccc1bbe76039b6ead3b2632c6ed0fc0]
 
 (1) CIPA may make regulations under section 275A(2)(i) of the 1988 Act which provide for appeals against decisions made by CIPA under regulations made under section 275A of the 1988 Act (including regulations providing for a decision on such an appeal to be final and for orders as to payment of costs) to be made to the First-tier Tribunal or the High Court.
 
@@ -108,14 +108,14 @@ In articles 4 and 5 references to CIPA are to CIPA acting in its capacity as an 
 
 ### CIPA acting as a licensing authority
 
-#### 6. Interpretation[^key-f24c7d1b995e6703b6da1ac0ba23adc7][^key-f24c7d1b995e6703b6da1ac0ba23adc7]
+#### 6. Interpretation[^c-f24c7d1b995e6703b6da1ac0ba23adc7][^c-f24c7d1b995e6703b6da1ac0ba23adc7]
 
 In articles 7 and 8—
 
 - (a) references to CIPA are to CIPA acting in its role as a licensing authority; and
 - (b) references to a licensed body are to a licensed body in relation to which CIPA is a relevant licensing authority within the meaning of Part 5 of the 2007 Act[^f00006].
 
-#### 7. Power to require payment of investigation costs[^key-a7cc8193637c81bf201563a0bac0fa68][^key-a7cc8193637c81bf201563a0bac0fa68]
+#### 7. Power to require payment of investigation costs[^c-a7cc8193637c81bf201563a0bac0fa68][^c-a7cc8193637c81bf201563a0bac0fa68]
 
 (1) In this article—
 
@@ -143,7 +143,7 @@ CIPA may, in accordance with licensing rules, also require that relevant person 
 
 (4) If the whole or part of any payment required under paragraph (2) is unpaid at the time by which it is required to be paid, CIPA may recover the unpaid balance as a debt due to it from the relevant person.
 
-#### 8. Power to issue a notice, warning or reprimand[^key-77be40de7403ee3e7ae6ce8d2ea5a4d6][^key-77be40de7403ee3e7ae6ce8d2ea5a4d6]
+#### 8. Power to issue a notice, warning or reprimand[^c-77be40de7403ee3e7ae6ce8d2ea5a4d6][^c-77be40de7403ee3e7ae6ce8d2ea5a4d6]
 
 (1) CIPA may issue a notice, warning or reprimand in respect of any breach of the terms of a licensed body’s licence and cause this to be noted against any record (public or private) of that licence.
 
@@ -158,7 +158,7 @@ CIPA may, in accordance with licensing rules, also require that relevant person 
 
 ### Powers to make further provision
 
-#### 9. Powers to make further regulatory arrangements[^key-712d15a1c89b26b41dfc936e4589dbad]
+#### 9. Powers to make further regulatory arrangements[^c-712d15a1c89b26b41dfc936e4589dbad]
 
 (1) Schedule 2 contains further provision about regulatory arrangements in relation to —
 
@@ -174,11 +174,11 @@ CIPA may, in accordance with licensing rules, also require that relevant person 
 
 ### ITMA acting as an approved regulator
 
-#### 10. Interpretation[^key-cb452f3bba86ec34d0c341931009ddfe]
+#### 10. Interpretation[^c-cb452f3bba86ec34d0c341931009ddfe]
 
 In articles 11 and 12 references to ITMA are to ITMA acting in its capacity as an approved regulator (other than in its role, if any, as a licensing authority).
 
-#### 11. Management and control of ITMA-registered bodies[^key-b2ed3a3ce18d3ac574a5ea2c413ae132]
+#### 11. Management and control of ITMA-registered bodies[^c-b2ed3a3ce18d3ac574a5ea2c413ae132]
 
 (1) ITMA may make regulations under section 83A(2)(b) of the 1994 Act[^f00008] (requirements as to registration of a body corporate or unincorporate and its management and control) which require each ITMA-registered body to have—
 
@@ -187,7 +187,7 @@ In articles 11 and 12 references to ITMA are to ITMA acting in its capacity as a
 
 (2) Regulations made by virtue of paragraph (1) must include the provisions specified in Schedule 3.
 
-#### 12. Appeals to the First-tier Tribunal and the High Court[^key-ee9546bf9b76edaf04fc51f71d393c0e]
+#### 12. Appeals to the First-tier Tribunal and the High Court[^c-ee9546bf9b76edaf04fc51f71d393c0e]
 
 (1) ITMA may make regulations under section 83A(2)(i) of the 1994 Act which provide for appeals against decisions made by ITMA under regulations made under section 83A of the 1994 Act (including regulations providing for a decision on such an appeal to be final and for orders as to payment of costs) to be made to the First-tier Tribunal or the High Court.
 
@@ -195,14 +195,14 @@ In articles 11 and 12 references to ITMA are to ITMA acting in its capacity as a
 
 ### ITMA acting as a licensing authority
 
-#### 13. Interpretation[^key-ad229c22558dbfd94ae7040315b1b3c4][^key-ad229c22558dbfd94ae7040315b1b3c4]
+#### 13. Interpretation[^c-ad229c22558dbfd94ae7040315b1b3c4][^c-ad229c22558dbfd94ae7040315b1b3c4]
 
 In articles 14 and 15—
 
 - (a) references to ITMA are to ITMA acting in its role as a licensing authority; and
 - (b) references to a licensed body are to a licensed body in relation to which ITMA is a relevant licensing authority within the meaning of Part 5 of the 2007 Act[^f00009].
 
-#### 14. Power to require payment of investigation costs[^key-cc55be002a9f29b09c17ec441f17bb61][^key-cc55be002a9f29b09c17ec441f17bb61]
+#### 14. Power to require payment of investigation costs[^c-cc55be002a9f29b09c17ec441f17bb61][^c-cc55be002a9f29b09c17ec441f17bb61]
 
 (1) In this article—
 
@@ -230,7 +230,7 @@ ITMA may, in accordance with licensing rules, also require that relevant person 
 
 (4) If the whole or part of any payment required under paragraph (2) is unpaid at the time by which it is required to be paid, ITMA may recover the unpaid balance as a debt due to it from the relevant person.
 
-#### 15. Power to issue a notice, warning or reprimand[^key-b8f1e3e541ab0e470585fe21e885d682][^key-b8f1e3e541ab0e470585fe21e885d682]
+#### 15. Power to issue a notice, warning or reprimand[^c-b8f1e3e541ab0e470585fe21e885d682][^c-b8f1e3e541ab0e470585fe21e885d682]
 
 (1) ITMA may issue a notice, warning or reprimand in respect of any breach of the terms of a licensed body’s licence and cause this to be noted against any record (public or private) of that licence.
 
@@ -245,7 +245,7 @@ ITMA may, in accordance with licensing rules, also require that relevant person 
 
 ### Powers to make further provision
 
-#### 16. Powers to make further regulatory arrangements[^key-82ec193d516d8d9433857c4c1e419a22]
+#### 16. Powers to make further regulatory arrangements[^c-82ec193d516d8d9433857c4c1e419a22]
 
 (1) Schedule 4 contains further provision about regulatory arrangements in relation to—
 
@@ -275,9 +275,9 @@ Article 4(2)
 
 ### Head of Legal Practice
 
-**1.**[^key-5a37de8704300bd9afb4f6bb4fa4bb86] Paragraphs 2 and 3 apply to regulations made by CIPA by virtue of article 4(1)(a) which require each CIPA-registered body to have a Head of Legal Practice.
+**1.**[^c-5a37de8704300bd9afb4f6bb4fa4bb86] Paragraphs 2 and 3 apply to regulations made by CIPA by virtue of article 4(1)(a) which require each CIPA-registered body to have a Head of Legal Practice.
 
-**2.**[^key-fa830c4b95457d88c336cc9e43a6aed3] (1) The regulations referred to in paragraph 1 must include the requirements in sub-paragraphs (2) to (11) and paragraph 3.
+**2.**[^c-fa830c4b95457d88c336cc9e43a6aed3] (1) The regulations referred to in paragraph 1 must include the requirements in sub-paragraphs (2) to (11) and paragraph 3.
 
 (2) Subject to sub-paragraph (3), a CIPA-registered body must at all times have an individual—
 
@@ -319,7 +319,7 @@ Article 4(2)
 - (a) take all reasonable steps to ensure that that CIPA-registered body and any of its managers or employees who are regulated persons, comply with the duties imposed by section 176 of the 2007 Act (duties of regulated persons); and
 - (b) as soon as reasonably practicable, report to CIPA such failures by those persons to comply with those duties as may be specified in regulations made under this paragraph.
 
-**3.**[^key-376473cb4ea37f60d07c17939d45e394] The regulations referred to in paragraph 1 must make provision—
+**3.**[^c-376473cb4ea37f60d07c17939d45e394] The regulations referred to in paragraph 1 must make provision—
 
 - (a) about the procedures and criteria to be applied by CIPA in determining for the purposes of regulations under paragraph 2(7) whether an individual is a fit and proper person to carry out the duties set out in paragraphs 2(9) and (11);
 - (b) for a review by CIPA of a determination that an individual is not a fit and proper person to carry out those duties;
@@ -329,9 +329,9 @@ Article 4(2)
 
 ### Head of Finance and Administration
 
-**4.**[^key-81a7ddd4dbb6e725595cf085eb575f96] Paragraphs 5 and 6 apply to regulations made by CIPA by virtue of article 4(1)(b) which require each CIPA-registered body to have a Head of Finance and Administration.
+**4.**[^c-81a7ddd4dbb6e725595cf085eb575f96] Paragraphs 5 and 6 apply to regulations made by CIPA by virtue of article 4(1)(b) which require each CIPA-registered body to have a Head of Finance and Administration.
 
-**5.**[^key-8695f9ed7ab1bb6fc7d67ee4e56355db] (1) The regulations referred to in paragraph 4 must include the following requirements.
+**5.**[^c-8695f9ed7ab1bb6fc7d67ee4e56355db] (1) The regulations referred to in paragraph 4 must include the following requirements.
 
 (2) Subject to sub-paragraph (3), a CIPA-registered body must at all times have an individual—
 
@@ -358,7 +358,7 @@ Article 4(2)
   - (ii) paragraph 13 of Schedule 2 (treatment of money); and
 - (b) report any breach of those regulations by that body to CIPA as soon as reasonably practicable.
 
-**6.**[^key-fcf23e403f01caa252e7739b8c08b895] The regulations referred to in paragraph 4 must make provision—
+**6.**[^c-fcf23e403f01caa252e7739b8c08b895] The regulations referred to in paragraph 4 must make provision—
 
 - (a) about the procedures and criteria to be applied by CIPA in determining for the purposes of regulations under paragraph 5(6) whether an individual is a fit and proper person to carry out the duties set out in paragraph 5(8);
 - (b) for a review by CIPA of a determination that an individual is not a fit and proper person to carry out those duties;
@@ -374,7 +374,7 @@ Article 9(1)
 
 #### Disciplinary arrangements: financial penalties
 
-**1.**[^key-2817b897a4f45053e626e4abbfcb9578] (1) In the circumstances specified in regulations made under sub-paragraph (4), CIPA may impose on a registered person or a regulated person in accordance with those regulations a penalty which is of such amount as CIPA considers appropriate.
+**1.**[^c-2817b897a4f45053e626e4abbfcb9578] (1) In the circumstances specified in regulations made under sub-paragraph (4), CIPA may impose on a registered person or a regulated person in accordance with those regulations a penalty which is of such amount as CIPA considers appropriate.
 
 (2) The amount of any penalty imposed under sub-paragraph (1) must not exceed—
 
@@ -390,7 +390,7 @@ Article 9(1)
 - (b) the criteria and procedure to be applied by CIPA in determining whether to impose a penalty and the amount of any penalty; and
 - (c) arrangements for payment, including the time within which any penalty is to be paid.
 
-**2.**[^key-02e14143252379247ac9f6da2c8aa437] (1) If the whole or any part of a penalty under paragraph 1 is not paid by the time by which, in accordance with regulations made under that paragraph, it is required to be paid, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838[^f00011] (judgment debts to carry interest).
+**2.**[^c-02e14143252379247ac9f6da2c8aa437] (1) If the whole or any part of a penalty under paragraph 1 is not paid by the time by which, in accordance with regulations made under that paragraph, it is required to be paid, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838[^f00011] (judgment debts to carry interest).
 
 (2) If the whole or any part of a penalty under paragraph 1 or any portion of it, is unpaid at the time by which, in accordance with regulations made under that paragraph, it is required to be paid, and—
 
@@ -403,7 +403,7 @@ CIPA may recover the unpaid balance and any interest which is outstanding as a d
 
 #### Disciplinary arrangements: disqualification
 
-**3.**[^key-ed46a82763949e1122c89d7f3568dcd1] (1) CIPA may, in accordance with regulations made under sub-paragraph (6), make an order disqualifying a person from one or more of the activities mentioned in sub-paragraph (2) if—
+**3.**[^c-ed46a82763949e1122c89d7f3568dcd1] (1) CIPA may, in accordance with regulations made under sub-paragraph (6), make an order disqualifying a person from one or more of the activities mentioned in sub-paragraph (2) if—
 
 - (a) the disqualification condition is satisfied in relation to that person; and
 - (b) CIPA is satisfied that it is undesirable for that person to engage in that activity or those activities.
@@ -439,7 +439,7 @@ CIPA may recover the unpaid balance and any interest which is outstanding as a d
 
 #### Disqualified employees
 
-**4.**[^key-6d3e141b18a6b3141671f65f11c89ea3] CIPA may make regulations which provide that a CIPA-registered body may not employ a person who, by virtue of a disqualification under a provision specified in paragraph 2(5) of Schedule 1, is disqualified from being a manager or employee of—
+**4.**[^c-6d3e141b18a6b3141671f65f11c89ea3] CIPA may make regulations which provide that a CIPA-registered body may not employ a person who, by virtue of a disqualification under a provision specified in paragraph 2(5) of Schedule 1, is disqualified from being a manager or employee of—
 
 - (a) a registered person, as defined in paragraph 14 of this Schedule;
 - (b) a registered person, as defined in paragraph 14 of Schedule 4; or
@@ -447,7 +447,7 @@ CIPA may recover the unpaid balance and any interest which is outstanding as a d
 
 #### Power to require registered persons to provide information and documents
 
-**5.**[^key-a793c7686c201d912ac0f8e08d783d30] (1) CIPA may make regulations which provide that CIPA may by notice require a registered person to—
+**5.**[^c-a793c7686c201d912ac0f8e08d783d30] (1) CIPA may make regulations which provide that CIPA may by notice require a registered person to—
 
 - (a) provide information, or information of a description, specified in the notice; or
 - (b) produce documents, or documents of a description, specified in the notice,
@@ -468,11 +468,11 @@ for the purpose of enabling CIPA to ascertain whether the requirements of patent
 
 (6) Where a registered person (or a representative of a registered person) refuses or otherwise fails to comply with a notice given to that person under sub-paragraph (1), that person must give CIPA a notice to that effect stating the reason why that person does not comply.
 
-**6.**[^key-082ca92542e4d836b88f8c3fc1e6b09e] Where a registered person refuses or otherwise fails to comply with a notice given to the person under paragraph 5(1), CIPA may apply to the High Court for an order requiring the person to comply with the notice or with such directions for the like purpose as may be contained in the order.
+**6.**[^c-082ca92542e4d836b88f8c3fc1e6b09e] Where a registered person refuses or otherwise fails to comply with a notice given to the person under paragraph 5(1), CIPA may apply to the High Court for an order requiring the person to comply with the notice or with such directions for the like purpose as may be contained in the order.
 
 #### Power to require payment of investigation costs
 
-**7.**[^key-e287d40be97e86a85045d2a976f1e1a2] (1) In this paragraph—
+**7.**[^c-e287d40be97e86a85045d2a976f1e1a2] (1) In this paragraph—
 
 - “disciplinary measure”, in relation to a relevant person, includes an arrangement where—
   - (a) the relevant person gives to CIPA an undertaking to do or not to do (or to cease doing) anything specified in the undertaking; and
@@ -498,7 +498,7 @@ CIPA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Discipline: notice, warning or reprimand
 
-**8.**[^key-7707448714f04801a09823359b295960] (1) CIPA may issue a notice, warning or reprimand in respect of any breach of the requirements of patent attorney regulations or regulations made by CIPA under this Order, and cause this to be noted against a registered person’s entry in the register of patent attorneys kept under section 275 of the 1988 Act (register of patent attorneys)[^f00012].
+**8.**[^c-7707448714f04801a09823359b295960] (1) CIPA may issue a notice, warning or reprimand in respect of any breach of the requirements of patent attorney regulations or regulations made by CIPA under this Order, and cause this to be noted against a registered person’s entry in the register of patent attorneys kept under section 275 of the 1988 Act (register of patent attorneys)[^f00012].
 
 (2) CIPA may, if it considers it appropriate to do so in any particular case, communicate to the public that it has issued a notice, warning or reprimand to a registered person under sub-paragraph (1).
 
@@ -512,7 +512,7 @@ CIPA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Power to make indemnification arrangements and compensation arrangements
 
-**9.**[^key-1439bc4f32be16fbdac137fb6ef7ec73] (1) CIPA may make indemnification arrangements and compensation arrangements in relation to registered persons and regulated persons by—
+**9.**[^c-1439bc4f32be16fbdac137fb6ef7ec73] (1) CIPA may make indemnification arrangements and compensation arrangements in relation to registered persons and regulated persons by—
 
 - (a) establishing and maintaining one or more funds;
 - (b) taking out and maintaining insurance with authorised insurers; or
@@ -535,7 +535,7 @@ CIPA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Power to make indemnification and compensation arrangements for both registered persons and licensed bodies
 
-**10.**[^key-5d5e81926acad9edb5cad437801186b5][^key-5d5e81926acad9edb5cad437801186b5] (1) The powers to make indemnification arrangements or compensation arrangements which are conferred on CIPA by virtue of paragraph 9(1) and (2) may be exercised so that the arrangements apply also in relation to—
+**10.**[^c-5d5e81926acad9edb5cad437801186b5][^c-5d5e81926acad9edb5cad437801186b5] (1) The powers to make indemnification arrangements or compensation arrangements which are conferred on CIPA by virtue of paragraph 9(1) and (2) may be exercised so that the arrangements apply also in relation to—
 
 - (a) a licensed body or a body which has been but no longer is a licensed body in connection with the body’s activities as a licensed body; and
 - (b) managers and employees of licensed bodies in connection with the activities of those licensed bodies.
@@ -551,19 +551,19 @@ CIPA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Power to make joint indemnification and compensation arrangements with ITMA
 
-**11.**[^key-d1297e0ecb34bc49675db8c0e4af374b][^key-6e485e4737a036dfa2c0cb825b5b4fd1][^key-6e485e4737a036dfa2c0cb825b5b4fd1] (1) If CIPA and ITMA are satisfied that it would be appropriate for them to act jointly in establishing and maintaining indemnification arrangements and compensation arrangements, the powers which are conferred on CIPA by virtue of paragraphs 9(1) and (2) and 10(1) and (2) may each be exercised so as to create a single set of arrangements which apply to—
+**11.**[^c-d1297e0ecb34bc49675db8c0e4af374b][^c-6e485e4737a036dfa2c0cb825b5b4fd1][^c-6e485e4737a036dfa2c0cb825b5b4fd1] (1) If CIPA and ITMA are satisfied that it would be appropriate for them to act jointly in establishing and maintaining indemnification arrangements and compensation arrangements, the powers which are conferred on CIPA by virtue of paragraphs 9(1) and (2) and 10(1) and (2) may each be exercised so as to create a single set of arrangements which apply to—
 
-- (a)[^key-d1297e0ecb34bc49675db8c0e4af374b] both registered persons and regulated persons as defined in paragraph 14 of this Schedule and registered persons and regulated persons as defined in paragraph 14 of Schedule 4; or
-- (b)[^key-6e485e4737a036dfa2c0cb825b5b4fd1] both persons within paragraph 10(1)(a) or (b) of this Schedule and persons within 10(1)(a) or (b) of Schedule 4; or
-- (c)[^key-6e485e4737a036dfa2c0cb825b5b4fd1] both persons within paragraph (a) and persons within paragraph (b).
+- (a)[^c-d1297e0ecb34bc49675db8c0e4af374b] both registered persons and regulated persons as defined in paragraph 14 of this Schedule and registered persons and regulated persons as defined in paragraph 14 of Schedule 4; or
+- (b)[^c-6e485e4737a036dfa2c0cb825b5b4fd1] both persons within paragraph 10(1)(a) or (b) of this Schedule and persons within 10(1)(a) or (b) of Schedule 4; or
+- (c)[^c-6e485e4737a036dfa2c0cb825b5b4fd1] both persons within paragraph (a) and persons within paragraph (b).
 
-(2)[^key-d1297e0ecb34bc49675db8c0e4af374b] Where indemnification arrangements or compensation arrangements made by virtue of this paragraph require any registered person (as defined in paragraph 14 of this Schedule) or licensed body to make contributions to the same fund or towards the same insurance policy, anything that may be done in relation to the fund or the insurance policy may be done irrespective of the persons or bodies who contributed the money.
+(2)[^c-d1297e0ecb34bc49675db8c0e4af374b] Where indemnification arrangements or compensation arrangements made by virtue of this paragraph require any registered person (as defined in paragraph 14 of this Schedule) or licensed body to make contributions to the same fund or towards the same insurance policy, anything that may be done in relation to the fund or the insurance policy may be done irrespective of the persons or bodies who contributed the money.
 
 ### Part 3 — Powers of intervention
 
 #### Powers of intervention
 
-**12.**[^key-75c0e0222faf061e70922407fafa73ea] (1) Subject to the modifications set out in sub-paragraphs (2) to (4), Schedule 14 to the 2007 Act (licensing authority’s powers of intervention) applies in relation to—
+**12.**[^c-75c0e0222faf061e70922407fafa73ea] (1) Subject to the modifications set out in sub-paragraphs (2) to (4), Schedule 14 to the 2007 Act (licensing authority’s powers of intervention) applies in relation to—
 
 - (a) CIPA acting in its capacity as an approved regulator (other than in its role, if any, as a licensing authority);
 - (b) registered persons; and
@@ -602,12 +602,12 @@ as it applies in relation to a licensing authority, the licensed bodies for whic
 
   > (3) For the purposes of sub-paragraph (2) a relevant insolvency event occurs in relation to a registered person if,—
   >
-  > - (a) in the case of a registered person who is an individual, the person has been made[^key-a8e9ed39f57795971b940c72a5fae167] bankrupt or has made a composition or arrangement with the person’s creditors in England or Wales; or
+  > - (a) in the case of a registered person who is an individual, the person has been made[^c-a8e9ed39f57795971b940c72a5fae167] bankrupt or has made a composition or arrangement with the person’s creditors in England or Wales; or
   > - (b) in the case of a registered person who is a CIPA-registered body, in England or Wales,—
   >   - (i) a resolution for a voluntary winding-up of the body is passed without a declaration of solvency under section 89 of the Insolvency Act 1986[^f00014] (statutory declaration of solvency);
   >   - (ii) the body enters administration within the meaning of paragraph 1(2)(b) of Schedule B1 to that Act[^f00015] (administration);
   >   - (iii) an administrative receiver within the meaning of section 251 of that Act[^f00016] (interpretation) is appointed;
-  >   - (iv)[^key-0a2551da3be9a2f0c7526d39f5f94ba8] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
+  >   - (iv)[^c-0a2551da3be9a2f0c7526d39f5f94ba8] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
   >   - (v) an order for the winding up of the body is made; or
   >   - (vi) a compromise or arrangement between the body and its creditors (or a class of them) is in force.
   > - (c) in the case of a registered person who is a CIPA-registered body, established outside the jurisdiction of England and Wales, the body is—
@@ -640,11 +640,11 @@ as it applies in relation to a licensing authority, the licensed bodies for whic
 
 ### Part 4 — Treatment of money
 
-**13.**[^key-8ec5257d814dd99a680af9643d5dc2e6] CIPA must make regulations which make provision as to the treatment of money (including money held on trust) which is received, held or dealt with for clients, or other persons, by registered persons or regulated persons, and as to the keeping by such persons of accounts in respect of such money.
+**13.**[^c-8ec5257d814dd99a680af9643d5dc2e6] CIPA must make regulations which make provision as to the treatment of money (including money held on trust) which is received, held or dealt with for clients, or other persons, by registered persons or regulated persons, and as to the keeping by such persons of accounts in respect of such money.
 
 ### Part 5 — Interpretation
 
-**14.**[^key-fd869e4814714c97458833ea4e89a4a7] (1) In this Schedule—
+**14.**[^c-fd869e4814714c97458833ea4e89a4a7] (1) In this Schedule—
 
 - “patent attorney regulations” means regulations which apply to registered persons or regulated persons and which are made by CIPA acting in its capacity as an approved regulator under section 275A of the 1988 Act;
 - “registered person” means—
@@ -665,9 +665,9 @@ Article 11(2)
 
 ### Head of Legal Practice
 
-**1.**[^key-5ca571ca8c99d75d84e3cb968b84fb3a] Paragraphs 2 and 3 apply to any regulations made by ITMA by virtue of article 11(1)(a) which require each ITMA-registered body to have a Head of Legal Practice.
+**1.**[^c-5ca571ca8c99d75d84e3cb968b84fb3a] Paragraphs 2 and 3 apply to any regulations made by ITMA by virtue of article 11(1)(a) which require each ITMA-registered body to have a Head of Legal Practice.
 
-**2.**[^key-29e11ec26cbf9cab4f16e5143507997c] (1) The regulations referred to in paragraph 1 must include the requirements in sub-paragraphs (2) to (11) and paragraph 3.
+**2.**[^c-29e11ec26cbf9cab4f16e5143507997c] (1) The regulations referred to in paragraph 1 must include the requirements in sub-paragraphs (2) to (11) and paragraph 3.
 
 (2) Subject to sub-paragraph (3), an ITMA-registered body must at all times have an individual—
 
@@ -709,7 +709,7 @@ Article 11(2)
 - (a) take all reasonable steps to ensure that that ITMA-registered body and any of its managers or employees who are regulated persons comply with the duties imposed by section 176 of the 2007 Act (duties of regulated persons); and
 - (b) as soon as reasonably practicable, report to ITMA such failures by those persons to comply with those duties as may be specified in regulations made under this paragraph.
 
-**3.**[^key-2e03014079d52e1e3ed1c8e9bab513e5] The regulations referred to in paragraph 1 must make provision—
+**3.**[^c-2e03014079d52e1e3ed1c8e9bab513e5] The regulations referred to in paragraph 1 must make provision—
 
 - (a) about the procedures and criteria to be applied by ITMA in determining for the purposes set out in paragraph 2(7), whether an individual is a fit and proper person to carry out the duties set out in paragraphs 2(9) and (11);
 - (b) for a review by ITMA of a determination that an individual is not a fit and proper person to carry out those duties;
@@ -719,9 +719,9 @@ Article 11(2)
 
 ### Head of Finance and Administration
 
-**4.**[^key-7f4daeb9ce2d403da106f60a608b1d1f] Paragraphs 5 and 6 apply to any regulations made by ITMA by virtue of article 11(1)(b) which require each ITMA-registered body to have a Head of Finance and Administration.
+**4.**[^c-7f4daeb9ce2d403da106f60a608b1d1f] Paragraphs 5 and 6 apply to any regulations made by ITMA by virtue of article 11(1)(b) which require each ITMA-registered body to have a Head of Finance and Administration.
 
-**5.**[^key-4d1bb5ccb75ad028b1e74333cbade82a] (1) The regulations referred to in paragraph 4 must include the following requirements.
+**5.**[^c-4d1bb5ccb75ad028b1e74333cbade82a] (1) The regulations referred to in paragraph 4 must include the following requirements.
 
 (2) Subject to sub-paragraph (3) an ITMA-registered body must at all times have an individual—
 
@@ -748,7 +748,7 @@ Article 11(2)
   - (ii) paragraph 13 of Schedule 4 (treatment of money); and
 - (b) report any breach of those regulations by that body to ITMA as soon as reasonably practicable.
 
-**6.**[^key-929af2769e43c1962a71be7fd916a488] The regulations referred to in paragraph 4 must make provision—
+**6.**[^c-929af2769e43c1962a71be7fd916a488] The regulations referred to in paragraph 4 must make provision—
 
 - (a) about the procedures and criteria to be applied by ITMA in determining, for the purposes set out in paragraph 5(6), whether an individual is a fit and proper person to carry out the duties set out in paragraph 5(8);
 - (b) for a review by ITMA of a determination that an individual is not a fit and proper person to carry out those duties;
@@ -764,7 +764,7 @@ Article 16(1)
 
 #### Disciplinary arrangements: financial penalties
 
-**1.**[^key-e83b22a322b9bf63f79df20d899726e8] (1) In the circumstances specified in regulations made under sub-paragraph (4), ITMA may impose on a registered person or a regulated person in accordance with those regulations a penalty which is of such amount as ITMA considers appropriate.
+**1.**[^c-e83b22a322b9bf63f79df20d899726e8] (1) In the circumstances specified in regulations made under sub-paragraph (4), ITMA may impose on a registered person or a regulated person in accordance with those regulations a penalty which is of such amount as ITMA considers appropriate.
 
 (2) The amount of any penalty imposed under sub-paragraph (1) must not exceed—
 
@@ -780,7 +780,7 @@ Article 16(1)
 - (b) the criteria and procedure to be applied by ITMA in determining whether to impose a penalty and the amount of any penalty; and
 - (c) arrangements for payment, including the time within which any penalty is to be paid.
 
-**2.**[^key-e3e5a25bc240e92fe1e9282758a7889d] (1) If the whole or any part of a penalty under paragraph 1 is not paid by the time by which, in accordance with regulations made under that paragraph, it is required to be paid, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838[^f00017] (judgment debts to carry interest).
+**2.**[^c-e3e5a25bc240e92fe1e9282758a7889d] (1) If the whole or any part of a penalty under paragraph 1 is not paid by the time by which, in accordance with regulations made under that paragraph, it is required to be paid, the unpaid balance from time to time carries interest at the rate for the time being specified in section 17 of the Judgments Act 1838[^f00017] (judgment debts to carry interest).
 
 (2) If the whole or any part of a penalty under paragraph 1 has not been paid by the time by which, in accordance with regulations made under that paragraph, it is required to be paid, and—
 
@@ -793,7 +793,7 @@ ITMA may recover the unpaid balance and any interest which is outstanding as a d
 
 #### Disciplinary arrangements: disqualification
 
-**3.**[^key-aba88c4ffa3ba50c22436581c0171423] (1) ITMA may, in accordance with regulations made under sub-paragraph (6), make an order disqualifying a person from one or more of the activities mentioned in sub-paragraph (2) if—
+**3.**[^c-aba88c4ffa3ba50c22436581c0171423] (1) ITMA may, in accordance with regulations made under sub-paragraph (6), make an order disqualifying a person from one or more of the activities mentioned in sub-paragraph (2) if—
 
 - (a) the disqualification condition is satisfied in relation to that person; and
 - (b) ITMA is satisfied that it is undesirable for that person to engage in that activity or those activities.
@@ -829,7 +829,7 @@ ITMA may recover the unpaid balance and any interest which is outstanding as a d
 
 #### Disqualified employees
 
-**4.**[^key-78809d27376e73065e5690b883267ee9] ITMA must make regulations which provide that an ITMA-registered body may not employ a person who, by virtue of a disqualification under a provision specified in paragraph 2(5) of Schedule 3, is disqualified from being a manager or employee of—
+**4.**[^c-78809d27376e73065e5690b883267ee9] ITMA must make regulations which provide that an ITMA-registered body may not employ a person who, by virtue of a disqualification under a provision specified in paragraph 2(5) of Schedule 3, is disqualified from being a manager or employee of—
 
 - (a) a registered person as defined in paragraph 14 of this Schedule;
 - (b) a registered person as defined in paragraph 14 of Schedule 2; or
@@ -837,7 +837,7 @@ ITMA may recover the unpaid balance and any interest which is outstanding as a d
 
 #### Power to require registered persons to provide information and documents
 
-**5.**[^key-47b8149e35499f314f99a031ae92c065] (1) ITMA must make regulations which provide that ITMA may by notice require a registered person to—
+**5.**[^c-47b8149e35499f314f99a031ae92c065] (1) ITMA must make regulations which provide that ITMA may by notice require a registered person to—
 
 - (a) provide information, or information of a description, specified in the notice; or
 - (b) produce documents, or documents of a description, specified in the notice,
@@ -858,11 +858,11 @@ for the purpose of enabling ITMA to ascertain whether the requirements of trade 
 
 (6) Where a registered person (or a representative of a registered person) refuses or otherwise fails to comply with a notice given to that person under sub-paragraph (1), that person must give ITMA a notice to that effect stating the reason why that person does not comply.
 
-**6.**[^key-0c22274e1669101ddbcd67afb7cab9f0] If a registered person refuses or otherwise fails to comply with a notice given to the person by virtue of paragraph 5(1), ITMA may apply to the High Court for an order requiring the person to comply with the notice or with such directions for the like purpose as may be contained in the order.
+**6.**[^c-0c22274e1669101ddbcd67afb7cab9f0] If a registered person refuses or otherwise fails to comply with a notice given to the person by virtue of paragraph 5(1), ITMA may apply to the High Court for an order requiring the person to comply with the notice or with such directions for the like purpose as may be contained in the order.
 
 #### Power to require payment of investigation costs
 
-**7.**[^key-7cab0af117459833182ef997534a0493] (1) In this paragraph—
+**7.**[^c-7cab0af117459833182ef997534a0493] (1) In this paragraph—
 
 - “disciplinary measure”, in relation to a relevant person, includes an arrangement where—
   - (a) the relevant person gives to ITMA an undertaking to do or not to do (or to cease doing) anything specified in the undertaking; and
@@ -888,7 +888,7 @@ ITMA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Discipline: notice, warning or reprimand
 
-**8.**[^key-c2de00215505aab292e9544d7ceef0e4] (1) ITMA may issue a notice, warning or reprimand in respect of any breach of the requirements of trade mark attorney regulations or regulations made by ITMA under this Order, and cause this to be noted against a registered person’s entry in the register of trade mark attorneys kept under section 83 of the 1994 Act (register of trade mark attorneys)[^f00018].
+**8.**[^c-c2de00215505aab292e9544d7ceef0e4] (1) ITMA may issue a notice, warning or reprimand in respect of any breach of the requirements of trade mark attorney regulations or regulations made by ITMA under this Order, and cause this to be noted against a registered person’s entry in the register of trade mark attorneys kept under section 83 of the 1994 Act (register of trade mark attorneys)[^f00018].
 
 (2) ITMA may, if it considers it appropriate to do so in any particular case, communicate to the public that it has issued a notice, warning or reprimand to a registered person under sub-paragraph (1).
 
@@ -902,7 +902,7 @@ ITMA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Power to make indemnification arrangements and compensation arrangements
 
-**9.**[^key-218fff34999828fe6be6f7bedc73ad18] (1) ITMA may make indemnification arrangements and compensation arrangements which apply in relation to registered persons and regulated persons by—
+**9.**[^c-218fff34999828fe6be6f7bedc73ad18] (1) ITMA may make indemnification arrangements and compensation arrangements which apply in relation to registered persons and regulated persons by—
 
 - (a) establishing and maintaining one or more funds;
 - (b) taking out and maintaining insurance with authorised insurers; or
@@ -920,7 +920,7 @@ ITMA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Power to make indemnification and compensation arrangements for both registered persons and licensed bodies
 
-**10.**[^key-97ee6a8ba5df7023a4fd86ca00095248][^key-97ee6a8ba5df7023a4fd86ca00095248] (1) The powers to make indemnification arrangements or compensation arrangements which are conferred on ITMA by virtue of paragraph 9(1) and (2) may be exercised so that the arrangements apply also in relation to—
+**10.**[^c-97ee6a8ba5df7023a4fd86ca00095248][^c-97ee6a8ba5df7023a4fd86ca00095248] (1) The powers to make indemnification arrangements or compensation arrangements which are conferred on ITMA by virtue of paragraph 9(1) and (2) may be exercised so that the arrangements apply also in relation to—
 
 - (a) a licensed body or a body which has been but no longer is a licensed body in connection with the body’s activities as a licensed body; and
 - (b) managers and employees of licensed bodies in connection with the activities of those licenced bodies.
@@ -936,19 +936,19 @@ ITMA may, in accordance with regulations made under sub-paragraph (3), also requ
 
 #### Power to make joint indemnification and compensation arrangements with CIPA
 
-**11.**[^key-20bcf3dcee4c662785db16f05ee3a179][^key-a245fe3544c80d54d36230788b2511ed][^key-a245fe3544c80d54d36230788b2511ed] (1) If ITMA and CIPA are satisfied that it would be appropriate for them to act jointly in establishing and maintaining indemnification arrangements or compensation arrangements, the powers which are conferred on ITMA by virtue of paragraphs 9(1) and (2) and 10(1) and (2) may each be exercised so as to create a single set of arrangements which apply to—
+**11.**[^c-20bcf3dcee4c662785db16f05ee3a179][^c-a245fe3544c80d54d36230788b2511ed][^c-a245fe3544c80d54d36230788b2511ed] (1) If ITMA and CIPA are satisfied that it would be appropriate for them to act jointly in establishing and maintaining indemnification arrangements or compensation arrangements, the powers which are conferred on ITMA by virtue of paragraphs 9(1) and (2) and 10(1) and (2) may each be exercised so as to create a single set of arrangements which apply to—
 
-- (a)[^key-20bcf3dcee4c662785db16f05ee3a179] both registered persons and regulated persons as defined in paragraph 14 of this Schedule and registered persons and regulated persons as defined in paragraph 14 of Schedule 2; or
-- (b)[^key-a245fe3544c80d54d36230788b2511ed] both persons within paragraph 10(1)(a) or (b) of this Schedule and persons within 10(1)(a) or (b) of Schedule 2; or
-- (c)[^key-a245fe3544c80d54d36230788b2511ed] both persons within paragraph (a) and persons within paragraph (b).
+- (a)[^c-20bcf3dcee4c662785db16f05ee3a179] both registered persons and regulated persons as defined in paragraph 14 of this Schedule and registered persons and regulated persons as defined in paragraph 14 of Schedule 2; or
+- (b)[^c-a245fe3544c80d54d36230788b2511ed] both persons within paragraph 10(1)(a) or (b) of this Schedule and persons within 10(1)(a) or (b) of Schedule 2; or
+- (c)[^c-a245fe3544c80d54d36230788b2511ed] both persons within paragraph (a) and persons within paragraph (b).
 
-(2)[^key-20bcf3dcee4c662785db16f05ee3a179] Where indemnification arrangements or compensation arrangements made by virtue of this paragraph require any registered person (as defined in paragraph 14 of this Schedule) or licensed body to make contributions to the same fund or towards the same insurance policy, anything that may be done in relation to the fund or the insurance policy may be done irrespective of the persons or bodies who contributed the money.
+(2)[^c-20bcf3dcee4c662785db16f05ee3a179] Where indemnification arrangements or compensation arrangements made by virtue of this paragraph require any registered person (as defined in paragraph 14 of this Schedule) or licensed body to make contributions to the same fund or towards the same insurance policy, anything that may be done in relation to the fund or the insurance policy may be done irrespective of the persons or bodies who contributed the money.
 
 ### Part 3 — Powers of intervention
 
 #### Powers of intervention
 
-**12.**[^key-eafe7830a6fa63ff195f2d476a046d42] (1) Subject to the modifications set out in sub-paragraphs (2) to (4), Schedule 14 to the 2007 Act (licensing authority’s powers of intervention) applies in relation to—
+**12.**[^c-eafe7830a6fa63ff195f2d476a046d42] (1) Subject to the modifications set out in sub-paragraphs (2) to (4), Schedule 14 to the 2007 Act (licensing authority’s powers of intervention) applies in relation to—
 
 - (a) ITMA acting in its capacity as an approved regulator (other than in its role, if any, as a licensing authority);
 - (b) registered persons; and
@@ -985,12 +985,12 @@ as it applies in relation to a licensing authority, the licensed bodies for whic
 
   > (3) For the purposes of sub-paragraph (2) a relevant insolvency event occurs in relation to a registered person if,—
   >
-  > - (a) in the case of a registered person who is an individual, the person has been made[^key-43f8853f95f89ddd089dc96d123ce8c9] bankrupt or has made a composition or arrangement with the person’s creditors in England or Wales; or
+  > - (a) in the case of a registered person who is an individual, the person has been made[^c-43f8853f95f89ddd089dc96d123ce8c9] bankrupt or has made a composition or arrangement with the person’s creditors in England or Wales; or
   > - (b) in the case of a registered person who is a ITMA-registered body in England or Wales—
   >   - (i) a resolution for a voluntary winding-up of the body is passed without a declaration of solvency under section 89 of the Insolvency Act 1986[^f00020] (statutory declaration of solvency);
   >   - (ii) the body enters administration within the meaning of paragraph 1(2)(b) of Schedule B1 to that Act[^f00021] (administration);
   >   - (iii) an administrative receiver within the meaning of section 251 of that Act[^f00022] (interpretation) is appointed;
-  >   - (iv)[^key-0e69f1d00fb634162ba3ae9fad4fbfd9] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
+  >   - (iv)[^c-0e69f1d00fb634162ba3ae9fad4fbfd9] a winding up becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up);
   >   - (v) an order for the winding up of the body is made; or
   >   - (vi) a compromise or arrangement between the body and its creditors (or a class of them) is in force.
   > - (c) in the case of a registered person who is a ITMA-registered body, established outside the jurisdiction of England and Wales, the body is—
@@ -1023,11 +1023,11 @@ as it applies in relation to a licensing authority, the licensed bodies for whic
 
 ### Part 4 — Treatment of Money
 
-**13.**[^key-d2d8331077cb8203eaa85870cf68f191] ITMA must make regulations which make provision as to the treatment of money (including money held on trust) which is received, held or dealt with for clients, or other persons, by registered persons or regulated persons, and as to the keeping by such persons of accounts in respect of such money.
+**13.**[^c-d2d8331077cb8203eaa85870cf68f191] ITMA must make regulations which make provision as to the treatment of money (including money held on trust) which is received, held or dealt with for clients, or other persons, by registered persons or regulated persons, and as to the keeping by such persons of accounts in respect of such money.
 
 ### Part 5 — Interpretation
 
-**14.**[^key-fd23c544980474db146aee9f88ae7b31] (1) In this Schedule—
+**14.**[^c-fd23c544980474db146aee9f88ae7b31] (1) In this Schedule—
 
 - “registered person” means—
   - (a) an individual who is both registered and authorised by ITMA acting in its capacity as an approved regulator; or
@@ -1066,99 +1066,99 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: The Legal Services Board was established by section 2 of the Legal Services Act 2007.
 
-[^key-8ed84ee2c63020717717fc685258558a]: Commencement: Art. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-8ed84ee2c63020717717fc685258558a]: Commencement: Art. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
 [^f00004]: Footnote: [1994 c.26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-992ca6b48f18c8c6e6020840bd5ff70b]: Commencement: Art. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-992ca6b48f18c8c6e6020840bd5ff70b]: Commencement: Art. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-d6e2f2d4ffd3112947157c465d79653c]: Commencement: Art. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-d6e2f2d4ffd3112947157c465d79653c]: Commencement: Art. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-81e341a9e62484427594e5a7618b1a73]: Commencement: Art. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-81e341a9e62484427594e5a7618b1a73]: Commencement: Art. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00005]: Footnote: Section 275A was inserted by section 185(3) of the Legal Services Act 2007.
 
-[^key-eccc1bbe76039b6ead3b2632c6ed0fc0]: Commencement: Art. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-eccc1bbe76039b6ead3b2632c6ed0fc0]: Commencement: Art. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-f24c7d1b995e6703b6da1ac0ba23adc7]: Commencement: Art. 6 in force in accordance with art. 2(2)
+[^c-f24c7d1b995e6703b6da1ac0ba23adc7]: Commencement: Art. 6 in force in accordance with art. 2(2)
 
 [^f00006]: Footnote: “Relevant licensing authority” is defined in section 73(4) of the Legal Services Act 2007.
 
-[^key-a7cc8193637c81bf201563a0bac0fa68]: Commencement: Art. 7 in force in accordance with art. 2(2)
+[^c-a7cc8193637c81bf201563a0bac0fa68]: Commencement: Art. 7 in force in accordance with art. 2(2)
 
-[^key-77be40de7403ee3e7ae6ce8d2ea5a4d6]: Commencement: Art. 8 in force in accordance with art. 2(2)
+[^c-77be40de7403ee3e7ae6ce8d2ea5a4d6]: Commencement: Art. 8 in force in accordance with art. 2(2)
 
-[^key-712d15a1c89b26b41dfc936e4589dbad]: Commencement: Art. 9 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-712d15a1c89b26b41dfc936e4589dbad]: Commencement: Art. 9 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00007]: Footnote: Powers are conferred by Part 5 of the Copyright, Designs and Patents Act 1988 (“the 1988 Act”) which are for the time being exercisable by the Chartered Institute of Patent Attorneys (“CIPA”). Section 275(3) of the 1988 Act provides that the register of patent attorneys under section 275 is to be kept by CIPA and section 275A specifies functions which are exercisable by the person who keeps the register. Section 275(4) confers power on the Secretary of State to make an order requiring a person other than CIPA to keep the register. No order has been made at the date on which this Order comes into force. Section 275 of the 1988 Act was substituted by section 185(3) of the Legal Services Act 2007.
 
-[^key-cb452f3bba86ec34d0c341931009ddfe]: Commencement: Art. 10 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-cb452f3bba86ec34d0c341931009ddfe]: Commencement: Art. 10 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-b2ed3a3ce18d3ac574a5ea2c413ae132]: Commencement: Art. 11 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-b2ed3a3ce18d3ac574a5ea2c413ae132]: Commencement: Art. 11 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00008]: Footnote: Section 83A was inserted by section 184(3) of the Legal Services Act 2007.
 
-[^key-ee9546bf9b76edaf04fc51f71d393c0e]: Commencement: Art. 12 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-ee9546bf9b76edaf04fc51f71d393c0e]: Commencement: Art. 12 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-ad229c22558dbfd94ae7040315b1b3c4]: Commencement: Art. 13 in force in accordance with art. 2(3)
+[^c-ad229c22558dbfd94ae7040315b1b3c4]: Commencement: Art. 13 in force in accordance with art. 2(3)
 
 [^f00009]: Footnote: “Relevant licensing authority” is defined in section 73(4) of the Legal Services Act 2007.
 
-[^key-cc55be002a9f29b09c17ec441f17bb61]: Commencement: Art. 14 in force in accordance with art. 2(3)
+[^c-cc55be002a9f29b09c17ec441f17bb61]: Commencement: Art. 14 in force in accordance with art. 2(3)
 
-[^key-b8f1e3e541ab0e470585fe21e885d682]: Commencement: Art. 15 in force in accordance with art. 2(3)
+[^c-b8f1e3e541ab0e470585fe21e885d682]: Commencement: Art. 15 in force in accordance with art. 2(3)
 
-[^key-82ec193d516d8d9433857c4c1e419a22]: Commencement: Art. 16 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-82ec193d516d8d9433857c4c1e419a22]: Commencement: Art. 16 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00010]: Footnote: Powers are conferred by sections 83 to 88 of the Trade Marks Act 1994 (“the 1994 Act”) which are for the time being exercisable by the Institute of Trade Mark Attorneys (“ITMA”). Section 83(3) of the 1994 Act provides that the register of trade mark attorneys under section 83 is to be kept by ITMA and section 83A specifies functions which are exercisable by the person who keeps the register. Section 83(4) confers power on the Secretary of State to make an order requiring a person other than ITMA to keep the register. No order has been made at the date on which this Order comes into force. Section 83 of the 1994 Act was substituted by section 184(3) of the Legal Services Act 2007.
 
-[^key-5a37de8704300bd9afb4f6bb4fa4bb86]: Commencement: Sch. 1 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-5a37de8704300bd9afb4f6bb4fa4bb86]: Commencement: Sch. 1 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-fa830c4b95457d88c336cc9e43a6aed3]: Commencement: Sch. 1 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-fa830c4b95457d88c336cc9e43a6aed3]: Commencement: Sch. 1 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-376473cb4ea37f60d07c17939d45e394]: Commencement: Sch. 1 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-376473cb4ea37f60d07c17939d45e394]: Commencement: Sch. 1 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-81a7ddd4dbb6e725595cf085eb575f96]: Commencement: Sch. 1 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-81a7ddd4dbb6e725595cf085eb575f96]: Commencement: Sch. 1 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-8695f9ed7ab1bb6fc7d67ee4e56355db]: Commencement: Sch. 1 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-8695f9ed7ab1bb6fc7d67ee4e56355db]: Commencement: Sch. 1 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-fcf23e403f01caa252e7739b8c08b895]: Commencement: Sch. 1 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-fcf23e403f01caa252e7739b8c08b895]: Commencement: Sch. 1 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-2817b897a4f45053e626e4abbfcb9578]: Commencement: Sch. 2 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-2817b897a4f45053e626e4abbfcb9578]: Commencement: Sch. 2 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-02e14143252379247ac9f6da2c8aa437]: Commencement: Sch. 2 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-02e14143252379247ac9f6da2c8aa437]: Commencement: Sch. 2 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00011]: Footnote: [1838 c.110](https://www.legislation.gov.uk/ukpga/1838/110) (1 & 2 Vict). Section 17 was amended by the Statute Law Revision (No 2) Act [1888 c.57](https://www.legislation.gov.uk/ukpga/1888/57), the Civil Procedure Acts Repeal Act [1879 c.59](https://www.legislation.gov.uk/ukpga/1879/59) and by [SI 1993/564](https://www.legislation.gov.uk/uksi/1993/564) and [SI 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
 
-[^key-ed46a82763949e1122c89d7f3568dcd1]: Commencement: Sch. 2 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-ed46a82763949e1122c89d7f3568dcd1]: Commencement: Sch. 2 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-6d3e141b18a6b3141671f65f11c89ea3]: Commencement: Sch. 2 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-6d3e141b18a6b3141671f65f11c89ea3]: Commencement: Sch. 2 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-a793c7686c201d912ac0f8e08d783d30]: Commencement: Sch. 2 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-a793c7686c201d912ac0f8e08d783d30]: Commencement: Sch. 2 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-082ca92542e4d836b88f8c3fc1e6b09e]: Commencement: Sch. 2 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-082ca92542e4d836b88f8c3fc1e6b09e]: Commencement: Sch. 2 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-e287d40be97e86a85045d2a976f1e1a2]: Commencement: Sch. 2 para. 7 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-e287d40be97e86a85045d2a976f1e1a2]: Commencement: Sch. 2 para. 7 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-7707448714f04801a09823359b295960]: Commencement: Sch. 2 para. 8 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-7707448714f04801a09823359b295960]: Commencement: Sch. 2 para. 8 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00012]: Footnote: Section 275 of the 1988 Act was substituted by section 185(3) of the Legal Services Act 2007.
 
-[^key-1439bc4f32be16fbdac137fb6ef7ec73]: Commencement: Sch. 2 para. 9 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-1439bc4f32be16fbdac137fb6ef7ec73]: Commencement: Sch. 2 para. 9 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-5d5e81926acad9edb5cad437801186b5]: Commencement: Sch. 2 para. 10 in force in accordance with art. 2(2)
+[^c-5d5e81926acad9edb5cad437801186b5]: Commencement: Sch. 2 para. 10 in force in accordance with art. 2(2)
 
-[^key-d1297e0ecb34bc49675db8c0e4af374b]: Commencement: Sch. 2 para. 11(1)(a)(2) in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-d1297e0ecb34bc49675db8c0e4af374b]: Commencement: Sch. 2 para. 11(1)(a)(2) in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-6e485e4737a036dfa2c0cb825b5b4fd1]: Commencement: Sch. 2 para. 11(1)(b)(c) in force in accordance with art. 2(4)
+[^c-6e485e4737a036dfa2c0cb825b5b4fd1]: Commencement: Sch. 2 para. 11(1)(b)(c) in force in accordance with art. 2(4)
 
-[^key-75c0e0222faf061e70922407fafa73ea]: Commencement: Sch. 2 para. 12 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-75c0e0222faf061e70922407fafa73ea]: Commencement: Sch. 2 para. 12 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00013]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-a8e9ed39f57795971b940c72a5fae167]: Textual amendment: Word in [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/2/paragraph/12/3/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-a8e9ed39f57795971b940c72a5fae167]: Textual amendment: Word in [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/2/paragraph/12/3/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00014]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). To which there are amendments not relevant to this Order.
 
@@ -1166,57 +1166,57 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00016]: Footnote: Amended by S.I.s [1986/1924](https://www.legislation.gov.uk/ukpga/1986/1924), [2009/864](https://www.legislation.gov.uk/ukpga/2009/864) and [2010/18](https://www.legislation.gov.uk/ukpga/2010/18).
 
-[^key-0a2551da3be9a2f0c7526d39f5f94ba8]: Textual amendment: Words in [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/2/paragraph/12/3/b) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/13/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-0a2551da3be9a2f0c7526d39f5f94ba8]: Textual amendment: Words in [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/2/paragraph/12/3/b) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/13/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-8ec5257d814dd99a680af9643d5dc2e6]: Commencement: Sch. 2 para. 13 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-8ec5257d814dd99a680af9643d5dc2e6]: Commencement: Sch. 2 para. 13 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-fd869e4814714c97458833ea4e89a4a7]: Commencement: Sch. 2 para. 14 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-fd869e4814714c97458833ea4e89a4a7]: Commencement: Sch. 2 para. 14 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-5ca571ca8c99d75d84e3cb968b84fb3a]: Commencement: Sch. 3 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-5ca571ca8c99d75d84e3cb968b84fb3a]: Commencement: Sch. 3 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-29e11ec26cbf9cab4f16e5143507997c]: Commencement: Sch. 3 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-29e11ec26cbf9cab4f16e5143507997c]: Commencement: Sch. 3 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-2e03014079d52e1e3ed1c8e9bab513e5]: Commencement: Sch. 3 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-2e03014079d52e1e3ed1c8e9bab513e5]: Commencement: Sch. 3 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-7f4daeb9ce2d403da106f60a608b1d1f]: Commencement: Sch. 3 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-7f4daeb9ce2d403da106f60a608b1d1f]: Commencement: Sch. 3 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-4d1bb5ccb75ad028b1e74333cbade82a]: Commencement: Sch. 3 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-4d1bb5ccb75ad028b1e74333cbade82a]: Commencement: Sch. 3 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-929af2769e43c1962a71be7fd916a488]: Commencement: Sch. 3 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-929af2769e43c1962a71be7fd916a488]: Commencement: Sch. 3 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-e83b22a322b9bf63f79df20d899726e8]: Commencement: Sch. 4 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-e83b22a322b9bf63f79df20d899726e8]: Commencement: Sch. 4 para. 1 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-e3e5a25bc240e92fe1e9282758a7889d]: Commencement: Sch. 4 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-e3e5a25bc240e92fe1e9282758a7889d]: Commencement: Sch. 4 para. 2 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00017]: Footnote: [1838 c.110](https://www.legislation.gov.uk/ukpga/1838/110) (1 & 2 Vict). Section 17 was amended by the Statute Law Revision (No 2) Act [1888 c.57](https://www.legislation.gov.uk/ukpga/1888/57), the Civil Procedure Acts Repeal Act [1879 c.59](https://www.legislation.gov.uk/ukpga/1879/59) and by [SI 1993/564](https://www.legislation.gov.uk/uksi/1993/564) and [SI 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
 
-[^key-aba88c4ffa3ba50c22436581c0171423]: Commencement: Sch. 4 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-aba88c4ffa3ba50c22436581c0171423]: Commencement: Sch. 4 para. 3 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-78809d27376e73065e5690b883267ee9]: Commencement: Sch. 4 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-78809d27376e73065e5690b883267ee9]: Commencement: Sch. 4 para. 4 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-47b8149e35499f314f99a031ae92c065]: Commencement: Sch. 4 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-47b8149e35499f314f99a031ae92c065]: Commencement: Sch. 4 para. 5 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-0c22274e1669101ddbcd67afb7cab9f0]: Commencement: Sch. 4 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-0c22274e1669101ddbcd67afb7cab9f0]: Commencement: Sch. 4 para. 6 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-7cab0af117459833182ef997534a0493]: Commencement: Sch. 4 para. 7 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-7cab0af117459833182ef997534a0493]: Commencement: Sch. 4 para. 7 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-c2de00215505aab292e9544d7ceef0e4]: Commencement: Sch. 4 para. 8 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-c2de00215505aab292e9544d7ceef0e4]: Commencement: Sch. 4 para. 8 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00018]: Footnote: [1994 c.26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-218fff34999828fe6be6f7bedc73ad18]: Commencement: Sch. 4 para. 9 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-218fff34999828fe6be6f7bedc73ad18]: Commencement: Sch. 4 para. 9 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-97ee6a8ba5df7023a4fd86ca00095248]: Commencement: Sch. 4 para. 10 in force in accordance with art. 2(3)
+[^c-97ee6a8ba5df7023a4fd86ca00095248]: Commencement: Sch. 4 para. 10 in force in accordance with art. 2(3)
 
-[^key-20bcf3dcee4c662785db16f05ee3a179]: Commencement: Sch. 4 para. 11(1)(a)(2) in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-20bcf3dcee4c662785db16f05ee3a179]: Commencement: Sch. 4 para. 11(1)(a)(2) in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-a245fe3544c80d54d36230788b2511ed]: Commencement: Sch. 4 para. 11(1)(b)(c) in force in accordance with art. 2(4)
+[^c-a245fe3544c80d54d36230788b2511ed]: Commencement: Sch. 4 para. 11(1)(b)(c) in force in accordance with art. 2(4)
 
-[^key-eafe7830a6fa63ff195f2d476a046d42]: Commencement: Sch. 4 para. 12 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-eafe7830a6fa63ff195f2d476a046d42]: Commencement: Sch. 4 para. 12 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
 [^f00019]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-43f8853f95f89ddd089dc96d123ce8c9]: Textual amendment: Word in [Sch. 4 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/4/paragraph/12/3/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-43f8853f95f89ddd089dc96d123ce8c9]: Textual amendment: Word in [Sch. 4 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/4/paragraph/12/3/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00020]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). To which there are amendments not relevant to this Order.
 
@@ -1224,8 +1224,8 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00022]: Footnote: Amended by S.I.s [1986/1924](https://www.legislation.gov.uk/ukpga/1986/1924), [2009/864](https://www.legislation.gov.uk/ukpga/2009/864) and [2010/18](https://www.legislation.gov.uk/ukpga/2019/18).
 
-[^key-0e69f1d00fb634162ba3ae9fad4fbfd9]: Textual amendment: Words in [Sch. 4 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/4/paragraph/12/3/b) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/13/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-0e69f1d00fb634162ba3ae9fad4fbfd9]: Textual amendment: Words in [Sch. 4 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2014/3238/schedule/4/paragraph/12/3/b) substituted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/13/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-d2d8331077cb8203eaa85870cf68f191]: Commencement: Sch. 4 para. 13 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-d2d8331077cb8203eaa85870cf68f191]: Commencement: Sch. 4 para. 13 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
 
-[^key-fd23c544980474db146aee9f88ae7b31]: Commencement: Sch. 4 para. 14 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)
+[^c-fd23c544980474db146aee9f88ae7b31]: Commencement: Sch. 4 para. 14 in force at 9.12.2014, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3238/article/2/1)

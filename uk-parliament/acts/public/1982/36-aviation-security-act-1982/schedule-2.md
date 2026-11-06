@@ -60,7 +60,7 @@ Section 40.
 
 ### The British Nationality Act 1981
 
-**8.**[^key-f6d091f5fc14d30558c274d2e46e45c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f6d091f5fc14d30558c274d2e46e45c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -80,4 +80,4 @@ Section 40.
 
 [^c794830]: Modification: The text of Sch. 2 paras. 5–7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-f6d091f5fc14d30558c274d2e46e45c5]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1982/36/schedule/2/paragraph/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-f6d091f5fc14d30558c274d2e46e45c5]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1982/36/schedule/2/paragraph/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

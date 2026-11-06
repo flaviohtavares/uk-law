@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]
 
 (1) The general effect of administrative restoration to the register is that the company is deemed to have continued in existence as if it had not been dissolved or struck off the register.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c20603411]: Modification: Ss. 1024-1028 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [56](https://www.legislation.gov.uk/uksi/2009/1804/regulation/56)
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

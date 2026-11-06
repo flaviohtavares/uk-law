@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Notice of intended proceedings[^key-9e616d9e0640443c83decfe07d8bdbc5][^key-11931f8e0062a814d4ee4c220473c928]
+## 42. Notice of intended proceedings[^c-9e616d9e0640443c83decfe07d8bdbc5][^c-11931f8e0062a814d4ee4c220473c928]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ summary: ''
 
 (4) The authority must wait until the notice period has ended before applying for a rent repayment order.
 
-(5) A notice of intended proceedings may not be given after the end of the period of 2 years[^key-5e947b5f558a6290d66631d33f53182b] beginning with the day on which the landlord committed the offence to which it relates.
+(5) A notice of intended proceedings may not be given after the end of the period of 2 years[^c-5e947b5f558a6290d66631d33f53182b] beginning with the day on which the landlord committed the offence to which it relates.
 
 ## Annotations
 
-[^key-9e616d9e0640443c83decfe07d8bdbc5]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/22/section/42) in force at 6.4.2017 for specified purposes by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/a)
+[^c-9e616d9e0640443c83decfe07d8bdbc5]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/22/section/42) in force at 6.4.2017 for specified purposes by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/a)
 
-[^key-11931f8e0062a814d4ee4c220473c928]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/22/section/42) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-11931f8e0062a814d4ee4c220473c928]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/22/section/42) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
 
-[^key-5e947b5f558a6290d66631d33f53182b]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/42/5) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/98/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(h)(i)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/h/i) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))
+[^c-5e947b5f558a6290d66631d33f53182b]: Textual amendment: Words in [s. 42(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/42/5) substituted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2025/26/section/98/4), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(h)(i)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/h/i) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))

@@ -75,7 +75,7 @@ Section 95.
 
 (2) The power to survey land conferred by this paragraph includes power to search and bore for the purpose of ascertaining the nature of the subsoil.
 
-(2A)[^key-07dccf559ce6fa3f849e842a7de92b7f] A person may not be authorised under sub-paragraph (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+(2A)[^c-07dccf559ce6fa3f849e842a7de92b7f] A person may not be authorised under sub-paragraph (1) to enter and survey or value land in England and Wales in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
 
 (3) The powers conferred by this paragraph shall not be exercisable in relation to land which is covered by a building or will be so covered on the assumption that any planning permission which is in force is acted on.
 
@@ -110,7 +110,7 @@ and this sub-paragraph has effect notwithstanding the repeal of section 217 of t
   - (a) in relation to a statutory undertaker carrying on any railway, road transport or dock or harbour undertaking or the airport operator (within the meaning of the [^c10292771]Airports (Northern Ireland) Order 1994) of any airport to which Article 25 of that Order applies, the Minister for Regional Development,
   - (b) in relation to a statutory undertaker carrying on any water transport or inland navigation, the Minister of Culture, Arts and Leisure,
   - (c) in any other case, the Minister of Enterprise, Trade and Investment,
-- “**statutory undertaker**” has the same meaning as in section 250(1) of the Planning Act (Northern Ireland) 2011 *(Extent: N.I.)*[^key-871a7065ddad292b2e61eb42d644cc47].
+- “**statutory undertaker**” has the same meaning as in section 250(1) of the Planning Act (Northern Ireland) 2011 *(Extent: N.I.)*[^c-871a7065ddad292b2e61eb42d644cc47].
 
 **4.** (1) Any person who intentionally obstructs a person acting in the exercise of any power conferred by paragraph 2 shall be guilty of an offence.
 
@@ -118,7 +118,7 @@ and this sub-paragraph has effect notwithstanding the repeal of section 217 of t
 
 **5.** (1) If in the exercise of any power conferred by paragraph 2 any damage is caused to land or moveables, any person interested in the land or moveables may recover compensation in respect of that damage from the universal service provider on whose behalf the power is exercised; and if in consequence of the exercise of such a power a person is disturbed in his enjoyment of any land or moveables, he may recover compensation from the universal service provider in respect of that disturbance.
 
-(2) In relation to England and Wales, any question of disputed compensation under sub-paragraph (1) shall be referred to and determined by the Upper Tribunal[^key-5e49465ff96167c129291b03f78b9225]; and section[^key-1e6b14bbb421663c6dce888eb25a889f] 4 of the [^c10292791]Land Compensation Act 1961 shall apply in relation to the determination subject to any necessary modifications.
+(2) In relation to England and Wales, any question of disputed compensation under sub-paragraph (1) shall be referred to and determined by the Upper Tribunal[^c-5e49465ff96167c129291b03f78b9225]; and section[^c-1e6b14bbb421663c6dce888eb25a889f] 4 of the [^c10292791]Land Compensation Act 1961 shall apply in relation to the determination subject to any necessary modifications.
 
 (3) In relation to Scotland, any question of disputed compensation under sub-paragraph (1) shall be referred to and determined by the Lands Tribunal for Scotland; and sections 9 and 11 of the [^c10292801]Land Compensation (Scotland) Act 1963 shall apply in relation to the determination subject to any necessary modifications.
 
@@ -153,7 +153,7 @@ and this sub-paragraph has effect notwithstanding the repeal of section 217 of t
 
 [^c10292691]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-07dccf559ce6fa3f849e842a7de92b7f]: Textual amendment: [Sch. 6 para. 2(2A)](https://www.legislation.gov.uk/ukpga/2000/26/schedule/6/paragraph/2/2A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/26); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-07dccf559ce6fa3f849e842a7de92b7f]: Textual amendment: [Sch. 6 para. 2(2A)](https://www.legislation.gov.uk/ukpga/2000/26/schedule/6/paragraph/2/2A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/26); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
 [^c10292701]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -171,11 +171,11 @@ and this sub-paragraph has effect notwithstanding the repeal of section 217 of t
 
 [^c10292771]: Marginal citation: [S.I. 1994/426 (N.I. 1)](https://www.legislation.gov.uk/nisi/1994/426).
 
-[^key-871a7065ddad292b2e61eb42d644cc47]: Textual amendment: Words in Sch. 6 para. 3(6) substituted (N.I.) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 92](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/92) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-871a7065ddad292b2e61eb42d644cc47]: Textual amendment: Words in Sch. 6 para. 3(6) substituted (N.I.) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 92](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/92) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
-[^key-5e49465ff96167c129291b03f78b9225]: Textual amendment: Words in Sch. 6 para. 5(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 267(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/267/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-5e49465ff96167c129291b03f78b9225]: Textual amendment: Words in Sch. 6 para. 5(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 267(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/267/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-1e6b14bbb421663c6dce888eb25a889f]: Textual amendment: Word in Sch. 6 para. 5(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 267(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/267/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-1e6b14bbb421663c6dce888eb25a889f]: Textual amendment: Word in Sch. 6 para. 5(2) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 267(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/267/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c10292791]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 

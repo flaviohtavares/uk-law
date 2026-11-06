@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^key-40c2a5097c167425c85eeef9709c742b]
+## 84. Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^c-40c2a5097c167425c85eeef9709c742b]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40c2a5097c167425c85eeef9709c742b]: Commencement: Reg. 84 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-40c2a5097c167425c85eeef9709c742b]: Commencement: Reg. 84 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00145]: Footnote: [S.R. (N.I.) 1992/390](https://www.legislation.gov.uk/nisr/1992/390). Regulation 3(9) was inserted by [S.R. (N.I.) 2008/409](https://www.legislation.gov.uk/nisr/2008/409).

@@ -31,7 +31,7 @@ summary: ''
 
 Rating And Valuation, Wales
 
-The Rating Lists (Valuation Date) (Wales) Order 2014 (revoked)[^key-476c46c4394288842619635a71928dd4]
+The Rating Lists (Valuation Date) (Wales) Order 2014 (revoked)[^c-476c46c4394288842619635a71928dd4]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 December 2014
 
-[^key-476c46c4394288842619635a71928dd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-476c46c4394288842619635a71928dd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-476c46c4394288842619635a71928dd4]
+## 1. Title, commencement and application[^c-476c46c4394288842619635a71928dd4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation Date[^key-476c46c4394288842619635a71928dd4]
+## 2. Valuation Date[^c-476c46c4394288842619635a71928dd4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-476c46c4394288842619635a71928dd4]
+## 3. Revocation[^c-476c46c4394288842619635a71928dd4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-476c46c4394288842619635a71928dd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-476c46c4394288842619635a71928dd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-476c46c4394288842619635a71928dd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-476c46c4394288842619635a71928dd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-476c46c4394288842619635a71928dd4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/2917) revoked (10.10.2018) by [The Rating Lists (Valuation Date) (Wales) Order 2018 (S.I. 2018/1001)](https://www.legislation.gov.uk/wsi/2018/1001), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2018/1001/article/1), [3](https://www.legislation.gov.uk/wsi/2018/1001/article/3)
+[^c-476c46c4394288842619635a71928dd4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/2917) revoked (10.10.2018) by [The Rating Lists (Valuation Date) (Wales) Order 2018 (S.I. 2018/1001)](https://www.legislation.gov.uk/wsi/2018/1001), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2018/1001/article/1), [3](https://www.legislation.gov.uk/wsi/2018/1001/article/3)

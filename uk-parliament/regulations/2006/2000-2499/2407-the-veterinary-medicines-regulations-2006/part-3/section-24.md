@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Records of products administered to a food-producing animal under the cascade[^key-cb371fa2a8d2d506b480de3f8d16fe8e]
+## 24. Records of products administered to a food-producing animal under the cascade[^c-cb371fa2a8d2d506b480de3f8d16fe8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb371fa2a8d2d506b480de3f8d16fe8e]: Commencement: Reg. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-cb371fa2a8d2d506b480de3f8d16fe8e]: Commencement: Reg. 24 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

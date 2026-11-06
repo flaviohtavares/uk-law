@@ -29,7 +29,7 @@ No permission is required for such an appeal, which shall be by way of re-hearin
 - (a) make a delivery order, or
 - (b) remit the case to the competent court to make a delivery order in accordance with the decision of the High Court.
 
-(3) If the High Court dismisses the appeal, the Secretary of State may, with the permission of the High Court or the Supreme Court[^key-ab38202ef53d07671316b9386d4e3571], appeal to the Supreme Court.
+(3) If the High Court dismisses the appeal, the Secretary of State may, with the permission of the High Court or the Supreme Court[^c-ab38202ef53d07671316b9386d4e3571], appeal to the Supreme Court.
 
 In relation to a decision of the High Court on an appeal under this section, section 1 of the Administration of Justice Act 1960 (c. 65) (appeals to the Supreme Court) applies with the omission of so much of subsection (2) of that section as restricts the grant of leave to appeal.
 
@@ -48,4 +48,4 @@ In relation to a decision of the High Court on an appeal under this section, sec
 
 ## Annotations
 
-[^key-ab38202ef53d07671316b9386d4e3571]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/2001/17/section/9) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 75](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/75); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-ab38202ef53d07671316b9386d4e3571]: Textual amendment: Words in [s. 9](https://www.legislation.gov.uk/ukpga/2001/17/section/9) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 75](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/75); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

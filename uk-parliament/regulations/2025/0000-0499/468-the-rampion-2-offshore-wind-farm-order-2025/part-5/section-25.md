@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Private rights over land[^key-59140c27bd0af0ac0ad29c1308785339]
+## 25. Private rights over land[^c-59140c27bd0af0ac0ad29c1308785339]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-59140c27bd0af0ac0ad29c1308785339]: Commencement: Art. 25 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-59140c27bd0af0ac0ad29c1308785339]: Commencement: Art. 25 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

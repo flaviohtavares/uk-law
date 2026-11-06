@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Full registration for eligible specialists and qualified general practitioners[^key-47b557a6f04c09498b25f6e3ede06c44]
+## 21A. Full registration for eligible specialists and qualified general practitioners[^c-47b557a6f04c09498b25f6e3ede06c44]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47b557a6f04c09498b25f6e3ede06c44]: Textual amendment: S. 21A omitted (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [35(1)](https://www.legislation.gov.uk/uksi/2006/1914/article/35/1)
+[^c-47b557a6f04c09498b25f6e3ede06c44]: Textual amendment: S. 21A omitted (19.7.2006 for specified purposes, 19.10.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [35(1)](https://www.legislation.gov.uk/uksi/2006/1914/article/35/1)

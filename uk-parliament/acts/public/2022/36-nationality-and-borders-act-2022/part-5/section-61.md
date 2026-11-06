@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Identified potential victims of slavery or human trafficking: recovery period[^key-985b836b37d798d78a9006fbf592e24d][^key-28671f106da66fd12f3671dc279b1112]
+## 61. Identified potential victims of slavery or human trafficking: recovery period[^c-985b836b37d798d78a9006fbf592e24d][^c-28671f106da66fd12f3671dc279b1112]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-985b836b37d798d78a9006fbf592e24d]: Commencement: S. 61 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-985b836b37d798d78a9006fbf592e24d]: Commencement: S. 61 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-28671f106da66fd12f3671dc279b1112]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/36/section/61) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/b)
+[^c-28671f106da66fd12f3671dc279b1112]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/36/section/61) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/b)

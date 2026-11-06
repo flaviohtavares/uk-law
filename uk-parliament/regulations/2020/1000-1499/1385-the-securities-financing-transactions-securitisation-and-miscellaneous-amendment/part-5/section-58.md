@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. The Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019[^key-697fb2c92e49c74fcac26a6382a4c6b3]
+## 58. The Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019[^c-697fb2c92e49c74fcac26a6382a4c6b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-697fb2c92e49c74fcac26a6382a4c6b3]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2020/1385/regulation/58) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-697fb2c92e49c74fcac26a6382a4c6b3]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2020/1385/regulation/58) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00044]: Footnote: [S.I. 2019/657](https://www.legislation.gov.uk/uksi/2019/657), as amended by [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646).

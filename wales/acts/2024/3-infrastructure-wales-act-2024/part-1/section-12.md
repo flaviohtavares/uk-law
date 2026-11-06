@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Dams and reservoirs[^key-493c50c4fe19eb0bc996045a14162d41]
+## 12. Dams and reservoirs[^c-493c50c4fe19eb0bc996045a14162d41]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The following kinds of development are significant infrastructure projects—
 
 ## Annotations
 
-[^key-493c50c4fe19eb0bc996045a14162d41]: Commencement: S. 12 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-493c50c4fe19eb0bc996045a14162d41]: Commencement: S. 12 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. The learner charter[^key-c1b88b915a2f632293c8221afc156519][^key-1348f6db0c687031051edb2e6cc7a599]
+## 11. The learner charter[^c-c1b88b915a2f632293c8221afc156519][^c-1348f6db0c687031051edb2e6cc7a599]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b88b915a2f632293c8221afc156519]: Commencement: S. 11 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-c1b88b915a2f632293c8221afc156519]: Commencement: S. 11 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-1348f6db0c687031051edb2e6cc7a599]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/11/section/11) in force at 31.8.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(7)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/7), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/4)
+[^c-1348f6db0c687031051edb2e6cc7a599]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/11/section/11) in force at 31.8.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(7)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/7), [sch. Pt. 4](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/4)

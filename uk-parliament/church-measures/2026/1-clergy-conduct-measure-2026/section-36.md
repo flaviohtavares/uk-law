@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 36. Suspension[^key-70ab67393caff247b13fcb79f076cee1]
+## 36. Suspension[^c-70ab67393caff247b13fcb79f076cee1]
 
 *Extent: E*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70ab67393caff247b13fcb79f076cee1]: Commencement: S. 36 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-70ab67393caff247b13fcb79f076cee1]: Commencement: S. 36 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-afec09f820acb7a44c6a104030bcc558]
+## SCHEDULE 9 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-afec09f820acb7a44c6a104030bcc558]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 40
 
 ## Annotations
 
-[^key-afec09f820acb7a44c6a104030bcc558]: Commencement: Sch. 9 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-afec09f820acb7a44c6a104030bcc558]: Commencement: Sch. 9 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))

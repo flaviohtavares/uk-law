@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015[^key-ebdd859aa3907eca867bc5084fb90f43]
+## 4. Amendment of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015[^c-ebdd859aa3907eca867bc5084fb90f43]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 2(1) of the Electricity Supplier Obligations (Amendment & Excluded
 
 ## Annotations
 
-[^key-ebdd859aa3907eca867bc5084fb90f43]: Commencement: Reg. 4 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
+[^c-ebdd859aa3907eca867bc5084fb90f43]: Commencement: Reg. 4 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2015/721](https://www.legislation.gov.uk/uksi/2015/721), amended by [S.I. 2019/489](https://www.legislation.gov.uk/uksi/2019/489). There are other amending instruments that are not relevant.

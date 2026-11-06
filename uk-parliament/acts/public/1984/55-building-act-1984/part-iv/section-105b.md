@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105B. Fees and charges[^key-1d57612c2a8483cef8e877f7063b07f9]
+## 105B. Fees and charges[^c-1d57612c2a8483cef8e877f7063b07f9]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ and may make provision about the effect of failing to pay a fee or charge in acc
 
 ## Annotations
 
-[^key-1d57612c2a8483cef8e877f7063b07f9]: Textual amendment: [S. 105B and cross-heading](https://www.legislation.gov.uk/ukpga/1984/55/part/IV/crossheading/fees-charges-and-levies) inserted (28.6.2022 for E., 5.9.2023 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 57](https://www.legislation.gov.uk/ukpga/2022/30/section/57), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/g); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xvi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xvi)
+[^c-1d57612c2a8483cef8e877f7063b07f9]: Textual amendment: [S. 105B and cross-heading](https://www.legislation.gov.uk/ukpga/1984/55/part/IV/crossheading/fees-charges-and-levies) inserted (28.6.2022 for E., 5.9.2023 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 57](https://www.legislation.gov.uk/ukpga/2022/30/section/57), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/g); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xvi)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xvi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Compulsory supervision order: suspension pending appeal[^key-6b5160ee9eaca2982ddcc8e93a70c49f]
+## 158. Compulsory supervision order: suspension pending appeal[^c-6b5160ee9eaca2982ddcc8e93a70c49f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b5160ee9eaca2982ddcc8e93a70c49f]: Commencement: S. 158 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6b5160ee9eaca2982ddcc8e93a70c49f]: Commencement: S. 158 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -39,18 +39,18 @@ granting derogations to certain Member States with respect to the transmission o
 
 (Text with EEA relevance) (revoked)
 
-[^key-3f0e9072c6ffc1a94c59ee50a6a13fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f0e9072c6ffc1a94c59ee50a6a13fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3f0e9072c6ffc1a94c59ee50a6a13fcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3f0e9072c6ffc1a94c59ee50a6a13fcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3f0e9072c6ffc1a94c59ee50a6a13fcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3f0e9072c6ffc1a94c59ee50a6a13fcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f0e9072c6ffc1a94c59ee50a6a13fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f0e9072c6ffc1a94c59ee50a6a13fcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — DEROGATIONS FROM REGULATION (EC) NO 1338/2008 CONCERNING STATISTICS ON HEALTHCARE EXPENDITURE AND FINANCING[^key-3f0e9072c6ffc1a94c59ee50a6a13fcd]
+## ANNEX — DEROGATIONS FROM REGULATION (EC) NO 1338/2008 CONCERNING STATISTICS ON HEALTHCARE EXPENDITURE AND FINANCING[^c-3f0e9072c6ffc1a94c59ee50a6a13fcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f0e9072c6ffc1a94c59ee50a6a13fcd]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 248](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/248); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f0e9072c6ffc1a94c59ee50a6a13fcd]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 248](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/248); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

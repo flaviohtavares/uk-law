@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Eligibility to apply for a next of kin payment: exceptional circumstances[^key-71baff8dd21a333e3a8a66ce5409b065]
+## 25. Eligibility to apply for a next of kin payment: exceptional circumstances[^c-71baff8dd21a333e3a8a66ce5409b065]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71baff8dd21a333e3a8a66ce5409b065]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2021/15/section/25) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-71baff8dd21a333e3a8a66ce5409b065]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2021/15/section/25) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

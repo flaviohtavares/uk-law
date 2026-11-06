@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Receipt of a transfer value payment[^key-fb74cd9b68a003f0bbb44627356ba875]
+## 32. Receipt of a transfer value payment[^c-fb74cd9b68a003f0bbb44627356ba875]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb74cd9b68a003f0bbb44627356ba875]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2015/19/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-fb74cd9b68a003f0bbb44627356ba875]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2015/19/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

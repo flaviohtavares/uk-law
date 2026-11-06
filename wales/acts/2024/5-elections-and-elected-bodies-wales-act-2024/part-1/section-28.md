@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Financial assistance schemes to promote diversity in persons seeking elected office[^key-fa0da4788cb8804ba122a91651046059][^key-cd0fd68452ffdec871648620815cf88b]
+## 28. Financial assistance schemes to promote diversity in persons seeking elected office[^c-fa0da4788cb8804ba122a91651046059][^c-cd0fd68452ffdec871648620815cf88b]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa0da4788cb8804ba122a91651046059]: Commencement: S. 28 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-fa0da4788cb8804ba122a91651046059]: Commencement: S. 28 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-cd0fd68452ffdec871648620815cf88b]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2024/5/section/28) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(d)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/d)
+[^c-cd0fd68452ffdec871648620815cf88b]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2024/5/section/28) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(d)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/d)

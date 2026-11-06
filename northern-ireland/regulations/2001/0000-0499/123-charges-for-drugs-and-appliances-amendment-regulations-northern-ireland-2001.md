@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-6384bcf1caac426fe453cb43242f593b]
+Charges for Drugs and Appliances (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-6384bcf1caac426fe453cb43242f593b]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 28th April 2001
 
-[^key-6384bcf1caac426fe453cb43242f593b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6384bcf1caac426fe453cb43242f593b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6384bcf1caac426fe453cb43242f593b]
+## 1. Citation, commencement and interpretation[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 3 of the principal Regulations[^key-6384bcf1caac426fe453cb43242f593b]
+## 2. Amendment of regulation 3 of the principal Regulations[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 4 of the principal Regulations[^key-6384bcf1caac426fe453cb43242f593b]
+## 3. Amendment of regulation 4 of the principal Regulations[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 5 of the principal Regulations[^key-6384bcf1caac426fe453cb43242f593b]
+## 4. Amendment of regulation 5 of the principal Regulations[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 9 of the principal Regulations[^key-6384bcf1caac426fe453cb43242f593b]
+## 5. Amendment of regulation 9 of the principal Regulations[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 1 to the principal Regulations[^key-6384bcf1caac426fe453cb43242f593b]
+## 6. Amendment of Schedule 1 to the principal Regulations[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provisions[^key-6384bcf1caac426fe453cb43242f593b]
+## 7. Transitional provisions[^c-6384bcf1caac426fe453cb43242f593b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6384bcf1caac426fe453cb43242f593b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6384bcf1caac426fe453cb43242f593b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6384bcf1caac426fe453cb43242f593b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6384bcf1caac426fe453cb43242f593b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6384bcf1caac426fe453cb43242f593b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/123) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-6384bcf1caac426fe453cb43242f593b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/123) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)

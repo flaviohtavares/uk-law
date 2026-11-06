@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. New postal administrator appointed[^key-ae9f056f442b418d8704353ce6c3c680]
+## 54. New postal administrator appointed[^c-ae9f056f442b418d8704353ce6c3c680]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae9f056f442b418d8704353ce6c3c680]: Commencement: Rule 54 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-ae9f056f442b418d8704353ce6c3c680]: Commencement: Rule 54 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

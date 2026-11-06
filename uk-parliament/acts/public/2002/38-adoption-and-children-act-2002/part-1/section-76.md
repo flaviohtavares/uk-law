@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Insurance[^key-ccfa90f0cf428ad83977b80db99189b5]
+## 76. Insurance[^c-ccfa90f0cf428ad83977b80db99189b5]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9b07d8ad8b4ad00332291858b2c5960b] Where a child is adopted whose natural parent has effected an insurance with a friendly society or a collecting society or an industrial insurance company for the payment on the death of the child of money for funeral expenses, then—
+(1)[^c-9b07d8ad8b4ad00332291858b2c5960b] Where a child is adopted whose natural parent has effected an insurance with a friendly society or a collecting society or an industrial insurance company for the payment on the death of the child of money for funeral expenses, then—
 
 - (a) the rights and liabilities under the policy are by virtue of the adoption transferred to the adoptive parents, and
 - (b) for the purposes of the enactments relating to such societies and companies, the adoptive parents are to be treated as the person who took out the policy.
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ccfa90f0cf428ad83977b80db99189b5]: Commencement: S. 76 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-ccfa90f0cf428ad83977b80db99189b5]: Commencement: S. 76 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/d) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-9b07d8ad8b4ad00332291858b2c5960b]: Modification: S. 76(1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-9b07d8ad8b4ad00332291858b2c5960b]: Modification: S. 76(1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)

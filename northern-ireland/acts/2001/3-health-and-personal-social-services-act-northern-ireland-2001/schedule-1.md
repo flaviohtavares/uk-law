@@ -141,7 +141,7 @@ Section 1.
 
 .
 
-**17.**[^key-93a1fccf3fee1b44c2e9b9ade4f1647a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-93a1fccf3fee1b44c2e9b9ade4f1647a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.** In the Superannuation (Northern Ireland) Order 1972 (NI 10) in Schedule 1 (employments to which Article 3 of that Order applies) at the end add—
 
@@ -151,4 +151,4 @@ Section 1.
 
 ## Annotations
 
-[^key-93a1fccf3fee1b44c2e9b9ade4f1647a]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2001/3/schedule/1/paragraph/17) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-93a1fccf3fee1b44c2e9b9ade4f1647a]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/nia/2001/3/schedule/1/paragraph/17) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))

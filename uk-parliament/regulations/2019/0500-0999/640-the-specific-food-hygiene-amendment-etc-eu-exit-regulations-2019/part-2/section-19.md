@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19.[^key-b3c81714e0ecfbf95546dceb9b7e6edb]
+## 19.[^c-b3c81714e0ecfbf95546dceb9b7e6edb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ In Annex 3—
 
 (2) In Section 2, in Chapter 6, in paragraph 9, for “in the same Member State as the farm of production”, substitute “ within the United Kingdom ”.
 
-(3)[^key-cd3c147c57c678a07689e1ee943576f0] in Section 3—
+(3)[^c-cd3c147c57c678a07689e1ee943576f0] in Section 3—
 
 - (a) in paragraph 3a, for point (a) substitute —
 
@@ -62,7 +62,7 @@ In Annex 3—
 
 (7) In Section 8—
 
-- (a)[^key-d94be5a0c4693f40f5e338ca1bec738b] in paragraph 1, in the second unnumbered paragraph, for “Union legislation” substitute “legislation in force in the relevant constituent territory of Great Britain.
+- (a)[^c-d94be5a0c4693f40f5e338ca1bec738b] in paragraph 1, in the second unnumbered paragraph, for “Union legislation” substitute “legislation in force in the relevant constituent territory of Great Britain.
 - (b) in Chapter 2, for paragraph 4, substitute—
 
   > **4.**
@@ -88,8 +88,8 @@ In Annex 3—
 
 ## Annotations
 
-[^key-b3c81714e0ecfbf95546dceb9b7e6edb]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b3c81714e0ecfbf95546dceb9b7e6edb]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cd3c147c57c678a07689e1ee943576f0]: Textual amendment: Reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/a)
+[^c-cd3c147c57c678a07689e1ee943576f0]: Textual amendment: Reg. 19(3) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/a)
 
-[^key-d94be5a0c4693f40f5e338ca1bec738b]: Textual amendment: Reg. 19(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/b)
+[^c-d94be5a0c4693f40f5e338ca1bec738b]: Textual amendment: Reg. 19(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [9(11)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/9/11/b)

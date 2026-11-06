@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Meaning of regulatory functions[^key-6d5ba3e6a655791ac154ee9ad6a9557b][^key-c8b9a7c729deaa30907fa48e1cd38976]
+## 6. Meaning of regulatory functions[^c-6d5ba3e6a655791ac154ee9ad6a9557b][^c-c8b9a7c729deaa30907fa48e1cd38976]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ For the purposes of this Act, a reference to the regulatory functions of a regul
 
 ## Annotations
 
-[^key-6d5ba3e6a655791ac154ee9ad6a9557b]: Commencement: S. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-6d5ba3e6a655791ac154ee9ad6a9557b]: Commencement: S. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-c8b9a7c729deaa30907fa48e1cd38976]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/8/section/6) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-c8b9a7c729deaa30907fa48e1cd38976]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2025/8/section/6) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

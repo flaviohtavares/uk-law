@@ -22,7 +22,7 @@ summary: ''
 
 Section 314.
 
-### Part I — ...[^key-5c1b3159bee6dc9245ac5c121e944fff]
+### Part I — ...[^c-5c1b3159bee6dc9245ac5c121e944fff]
 
 **1.** Power to carry on any business of the bankrupt so far as may be necessary for winding it up beneficially and so far as the trustee is able to do so without contravening any requirement imposed by or under any enactment.
 
@@ -42,7 +42,7 @@ Section 314.
 
 **8.** Power to make such compromise or other arrangement as ay be thought expedient with respect to any claim arising out of or incidental to the bankrupt’s estate made or capable of being made on the trustee by any person or by the trustee on any person *(affected by repeal, see note)*[^c21420801].
 
-### Part II — ...[^key-1ce8598a544b5ba1de0f36d154991e9d]
+### Part II — ...[^c-1ce8598a544b5ba1de0f36d154991e9d]
 
 **9.** Power to sell any part of the property for the time being comprised in the bankrupt’s estate, including the goodwill and book debts of any business.
 
@@ -58,7 +58,7 @@ Section 314.
 
 **13.** Power to deal with any property comprised in the estate to which the bankrupt is beneficially entitled as tenant in tail in the same manner as the bankrupt might have dealt with it.
 
-### Part III — ...[^key-48045984073367e12074bc5301c3e12f]
+### Part III — ...[^c-48045984073367e12074bc5301c3e12f]
 
 **14.** For the purposes of, or in connection with, the exercise of any of his powers under Parts VIII to XI of this Act, the trustee may, by his official name—
 
@@ -73,7 +73,7 @@ and he may do any other act which is necessary or expedient for the purposes of 
 
 ## Annotations
 
-[^key-5c1b3159bee6dc9245ac5c121e944fff]: Textual amendment: Sch. 5 Pt. I heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/121/3), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
+[^c-5c1b3159bee6dc9245ac5c121e944fff]: Textual amendment: Sch. 5 Pt. I heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/121/3), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
 
 [^c15587771]: Textual amendment: Sch. 5 Pt. I para. 2A inserted (15.9.2003) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 262](https://www.legislation.gov.uk/ukpga/2002/40/section/262), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))
 
@@ -81,8 +81,8 @@ and he may do any other act which is necessary or expedient for the purposes of 
 
 [^c21420801]: Textual amendment: Words in Sch. 5 para. 8 omitted (E.W.) (6.4.2010) by virtue of [The Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 (S.I. 2010/18)](https://www.legislation.gov.uk/uksi/2010/18), [art. 11(1)(b)](https://www.legislation.gov.uk/uksi/2010/18/article/11/1/b) (with [art. 12(5)](https://www.legislation.gov.uk/uksi/2010/18/article/12/5))
 
-[^key-1ce8598a544b5ba1de0f36d154991e9d]: Textual amendment: Sch. 5 Pt. II heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/121/3), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
+[^c-1ce8598a544b5ba1de0f36d154991e9d]: Textual amendment: Sch. 5 Pt. II heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/121/3), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
 
 [^c21420821]: Textual amendment: Sch. 5 paras. 9A 9B inserted (E.W.) (6.4.2010) by [The Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 (S.I. 2010/18)](https://www.legislation.gov.uk/uksi/2010/18), [art. 11(2)](https://www.legislation.gov.uk/uksi/2010/18/article/11/2) (with [art. 12(5)](https://www.legislation.gov.uk/uksi/2010/18/article/12/5))
 
-[^key-48045984073367e12074bc5301c3e12f]: Textual amendment: Sch. 5 Pt. III heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/121/3), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)
+[^c-48045984073367e12074bc5301c3e12f]: Textual amendment: Sch. 5 Pt. III heading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 121(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/121/3), [164(3)(i)(i)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/i)

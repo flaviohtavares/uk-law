@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Street works[^key-5b8526ff3d369a080bd8018a5d1cf1a0]
+## 8. Street works[^c-5b8526ff3d369a080bd8018a5d1cf1a0]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b8526ff3d369a080bd8018a5d1cf1a0]: Commencement: Art. 8 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-5b8526ff3d369a080bd8018a5d1cf1a0]: Commencement: Art. 8 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
 [^f00028]: Footnote: “apparatus” is defined in section 89(3) and section 105(1).

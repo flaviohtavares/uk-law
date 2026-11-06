@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Index of defined expressions[^key-03a96d73c784d8ae603d664e2ab22c80]
+## 23. Index of defined expressions[^c-03a96d73c784d8ae603d664e2ab22c80]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ In this Chapter an expression listed in the first column of the table has the me
 
 ## Annotations
 
-[^key-03a96d73c784d8ae603d664e2ab22c80]: Commencement: S. 23 in force at Royal Assent, see [s. 208(4)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/g)
+[^c-03a96d73c784d8ae603d664e2ab22c80]: Commencement: S. 23 in force at Royal Assent, see [s. 208(4)(g)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/g)

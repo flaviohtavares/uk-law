@@ -44,15 +44,15 @@ Coming into force
 
 6th August 2007
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 96(1) and (3), 188 and 192 of, and paragraphs 3(2), 4(1), 6(2) and 6(6) of Schedule 16 to the Energy Act 2004[^f00001].[^key-41ee606334c620b81f2af1ca8808970b]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 96(1) and (3), 188 and 192 of, and paragraphs 3(2), 4(1), 6(2) and 6(6) of Schedule 16 to the Energy Act 2004[^f00001].[^c-41ee606334c620b81f2af1ca8808970b]
 
 ## PART 1 — INTRODUCTORY PROVISIONS
 
-### 1. Citation, and commencement[^key-6b44ec46332e411c4070a2cac5aa932e]
+### 1. Citation, and commencement[^c-6b44ec46332e411c4070a2cac5aa932e]
 
 These Regulations may be cited as the Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) Regulations 2007 and shall come into force on 6th August 2007.
 
-### 2. Interpretation[^key-0d31c0c41e6b493d145c92f4f03480bd]
+### 2. Interpretation[^c-0d31c0c41e6b493d145c92f4f03480bd]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 
 ## PART 2 — SAFETY ZONE APPLICATION PROCEDURES
 
-### 3. Information in support of a safety zone application[^key-222bd57f37f40dc34577653f09b06565]
+### 3. Information in support of a safety zone application[^c-222bd57f37f40dc34577653f09b06565]
 
 An application for the declaration under section 95(2) of a safety zone must include the following information (in addition to that required by paragraph 3(1) and 3(2)(a) of Schedule 16)—
 
@@ -95,7 +95,7 @@ An application for the declaration under section 95(2) of a safety zone must inc
   - (vii) except where the Secretary of State has notified the applicant that it is not required, an up to date shipping traffic survey for the waters comprising the zone; and
 - (d) an assessment of the extent to which navigation might be possible or should be restricted, and whether restrictions would cause navigational problems, within or near waters where the relevant renewable energy installation is to be, or is being, constructed, extended, operated or decommissioned, as the case may be.
 
-### 4. Publication of notice of application for a safety zone notice[^key-5e6f6a8a2ee8457be787f886262d7792]
+### 4. Publication of notice of application for a safety zone notice[^c-5e6f6a8a2ee8457be787f886262d7792]
 
 (1) The applicant shall publish notice of an application—
 
@@ -114,35 +114,35 @@ An application for the declaration under section 95(2) of a safety zone must inc
 
 requesting that the notice be displayed for a period of not less than 14 days at an address accessible during normal office hours to members of the public likely to be affected by the application.
 
-### 5. Service of notice of application for a safety zone notice[^key-73c627e2231e2ec0375b6b231c9ea8d6]
+### 5. Service of notice of application for a safety zone notice[^c-73c627e2231e2ec0375b6b231c9ea8d6]
 
 The applicant shall within 21 days of the earliest date of publication of the notice under regulation 4(1) serve notice of an application upon—
 
 - (a) the Maritime and Coastguard Agency;
 - (b) the Scottish Ministers, in the case of a safety zone proposed or located wholly or partly in an area of Scottish waters or an area of waters in the Scottish part of the Renewable Energy Zone;
-- (c)[^key-7a5742f4745b1c4cff40affd5101a262] the Welsh Ministers, in the case of a safety zone proposed or located wholly or partly in Welsh waters, except where the Welsh Ministers are the appropriate Minister;
+- (c)[^c-7a5742f4745b1c4cff40affd5101a262] the Welsh Ministers, in the case of a safety zone proposed or located wholly or partly in Welsh waters, except where the Welsh Ministers are the appropriate Minister;
 - (d) the owner (and operator, if a different person) of the relevant renewable energy installation where that person is not the applicant.
 
-### 6. Objections by recipients of notice of application[^key-5fbb291cea8f77df86cebec811c7fbe1]
+### 6. Objections by recipients of notice of application[^c-5fbb291cea8f77df86cebec811c7fbe1]
 
 (1) Any notice published or served pursuant to regulations 4 and 5 shall state the time (which shall not be less than 28 days from the date or latest date of publication of the notice, or less than 28 days from the service of the notice) within which, and the manner in which, any objections to the application for a safety zone notice are to be made.
 
 (2) Where a notice requires an objection to be sent to a person other than the Secretary of State, the recipient of that objection shall within 14 days send a copy of it to the Secretary of State.
 
-### 7. Publication of notice of a public inquiry[^key-a5b8553b9cd7b3cfd4c0688e507e0bb5]
+### 7. Publication of notice of a public inquiry[^c-a5b8553b9cd7b3cfd4c0688e507e0bb5]
 
 Where a public inquiry is to be held in respect of an application and the applicant publishes notice of this pursuant to paragraph 6(2)(b) of Schedule 16—
 
 - (a) the notice shall be publicised within the same area within which the local newspapers used to publicise the notice of application under regulation 4(1) circulate; and
 - (b) the place where a copy of the application for a safety zone, and of the map referred to in it, can be inspected shall be at an address accessible during normal office hours to members of the public likely to be affected by the application.
 
-### 8. Fees[^key-cf6513a454e673ed13e6f632ad904567]
+### 8. Fees[^c-cf6513a454e673ed13e6f632ad904567]
 
 A charge of £2000 shall be payable to the Secretary of State in respect of any application.
 
 ## PART 3 — CONTROL OF ACCESS TO SAFETY ZONES
 
-### 9. Vessels and activities permitted in safety zones[^key-ffc10f5971c84eb2287c05a623d8f3ac]
+### 9. Vessels and activities permitted in safety zones[^c-ffc10f5971c84eb2287c05a623d8f3ac]
 
 (1) The prohibitions under section 96(1) on a vessel entering and remaining in a safety zone shall not apply if it is a vessel—
 
@@ -152,7 +152,7 @@ A charge of £2000 shall be payable to the Secretary of State in respect of any 
   - (iii) the inspection of,
 
   any existing or proposed renewable energy installation in that safety zone;
-- (aa)[^key-013414a5fe51b972204b0631a093edbb] (in the case of a safety zone in respect of which the Welsh Ministers are the appropriate Minister) belonging to, or acting under the authority of, a government department, the Environment Agency, the Natural Resources Body for Wales or the Scottish Environment Protection Agency, and engaged in—
+- (aa)[^c-013414a5fe51b972204b0631a093edbb] (in the case of a safety zone in respect of which the Welsh Ministers are the appropriate Minister) belonging to, or acting under the authority of, a government department, the Environment Agency, the Natural Resources Body for Wales or the Scottish Environment Protection Agency, and engaged in—
   - (i) the provision of services for,
   - (ii) the transport of persons or goods to or from, or
   - (iii) the inspection of,
@@ -161,10 +161,10 @@ A charge of £2000 shall be payable to the Secretary of State in respect of any 
 - (b) belonging to a United Kingdom police force or the armed forces of the Crown, where that force is, or those forces are, acting in the course of its or their powers and duties;
 - (c) belonging to or acting on behalf of a general lighthouse authority, where it is operating within the area specified in section 193(1) of the Merchant Shipping Act 1995 as the area of that authority;
 - (d) belonging to, or acting on behalf of a harbour authority, where that body is acting in the course of its powers and duties;
-- (e) belonging to, or acting on behalf of, the Crown Estate or a relevant person[^key-98e2106091dd01ce99f0400288f3c9ed], where that body or (as the case may be) that person[^key-e2bbc2429c84ada549c9cbb3114088f8] is acting in the exercise of its rights established in a lease or licence relating to a renewable energy installation in that safety zone;
+- (e) belonging to, or acting on behalf of, the Crown Estate or a relevant person[^c-98e2106091dd01ce99f0400288f3c9ed], where that body or (as the case may be) that person[^c-e2bbc2429c84ada549c9cbb3114088f8] is acting in the exercise of its rights established in a lease or licence relating to a renewable energy installation in that safety zone;
 - (f) belonging to, or acting on behalf of, the holder of a licence granted under section 6(1)(b)[^f00007] of the Electricity Act 1989[^f00008] where that person is carrying out activities which—
   - (i) it is authorised by the licence to carry on; and
-  - (ii) relate to offshore transmission (within the meaning of section 6F(8) of the Electricity Act 1989[^key-4333d6a909a1c139db2d07513e73325c]);
+  - (ii) relate to offshore transmission (within the meaning of section 6F(8) of the Electricity Act 1989[^c-4333d6a909a1c139db2d07513e73325c]);
 - (g) acting in connection with the saving or attempted saving of life or property, or in connection with training exercises relating to the saving of life or property;
 - (h) entering or remaining in a safety zone owing to stress of weather or when in distress: or
 - (i) entering or remaining in a safety zone in connection with an activity mentioned in paragraph (2).
@@ -179,7 +179,7 @@ A charge of £2000 shall be payable to the Secretary of State in respect of any 
   - (iii) sampling of fish densities; or
 - (d) in connection with activities undertaken in accordance with paragraph (1).
 
-(3)[^key-cba0e17a2ebe4c588457835bf749fd5a] In this regulation, “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(3)[^c-cba0e17a2ebe4c588457835bf749fd5a] In this regulation, “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 Malcolm Wicks
 
@@ -219,11 +219,11 @@ A Regulatory Impact Assessment (“RIA”) has been completed in relation to the
 
 [^f00001]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-41ee606334c620b81f2af1ca8808970b]: Modification: Regulations applied (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/uksi/2021/1478), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1478/article/1), [43(3)(4)](https://www.legislation.gov.uk/uksi/2021/1478/article/43/3) (with [arts. 15](https://www.legislation.gov.uk/uksi/2021/1478/article/15), [50](https://www.legislation.gov.uk/uksi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/uksi/2021/1478/schedule/11/paragraph/29))
+[^c-41ee606334c620b81f2af1ca8808970b]: Modification: Regulations applied (22.12.2021) by [The Morlais Demonstration Zone Order 2021 (S.I. 2021/1478)](https://www.legislation.gov.uk/uksi/2021/1478), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1478/article/1), [43(3)(4)](https://www.legislation.gov.uk/uksi/2021/1478/article/43/3) (with [arts. 15](https://www.legislation.gov.uk/uksi/2021/1478/article/15), [50](https://www.legislation.gov.uk/uksi/2021/1478/article/50), [Sch. 11 para. 29](https://www.legislation.gov.uk/uksi/2021/1478/schedule/11/paragraph/29))
 
-[^key-6b44ec46332e411c4070a2cac5aa932e]: Commencement: Reg. 1 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-6b44ec46332e411c4070a2cac5aa932e]: Commencement: Reg. 1 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-0d31c0c41e6b493d145c92f4f03480bd]: Commencement: Reg. 2 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-0d31c0c41e6b493d145c92f4f03480bd]: Commencement: Reg. 2 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
 [^f00002]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -231,36 +231,36 @@ A Regulatory Impact Assessment (“RIA”) has been completed in relation to the
 
 [^f00004]: Footnote: [S.I. 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668).
 
-[^key-222bd57f37f40dc34577653f09b06565]: Commencement: Reg. 3 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-222bd57f37f40dc34577653f09b06565]: Commencement: Reg. 3 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-5e6f6a8a2ee8457be787f886262d7792]: Commencement: Reg. 4 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-5e6f6a8a2ee8457be787f886262d7792]: Commencement: Reg. 4 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
 [^f00005]: Footnote: “Scottish waters” is defined in section 104(1) of the Energy Act 2004 as internal waters of the United Kingdom that are in or adjacent to Scotland or so much of the territorial sea of the United Kingdom as is adjacent to Scotland. The “Scottish part” of the Renewable Energy Zone was designated by the Renewable Energy Zone (Designation of Area) (Scottish Ministers) Order 2005 ([S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153)).
 
 [^f00006]: Footnote: [S.I. 2002/791](https://www.legislation.gov.uk/uksi/2002/791)
 
-[^key-73c627e2231e2ec0375b6b231c9ea8d6]: Commencement: Reg. 5 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-73c627e2231e2ec0375b6b231c9ea8d6]: Commencement: Reg. 5 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-7a5742f4745b1c4cff40affd5101a262]: Textual amendment: [Reg. 5(c)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/5/c) substituted (1.4.2019) by [The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) (Amendment) (Wales) Regulations 2019 (S.I. 2019/293)](https://www.legislation.gov.uk/wsi/2019/293), [regs. 1](https://www.legislation.gov.uk/wsi/2019/293/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/293/regulation/2/2)
+[^c-7a5742f4745b1c4cff40affd5101a262]: Textual amendment: [Reg. 5(c)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/5/c) substituted (1.4.2019) by [The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) (Amendment) (Wales) Regulations 2019 (S.I. 2019/293)](https://www.legislation.gov.uk/wsi/2019/293), [regs. 1](https://www.legislation.gov.uk/wsi/2019/293/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/293/regulation/2/2)
 
-[^key-5fbb291cea8f77df86cebec811c7fbe1]: Commencement: Reg. 6 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-5fbb291cea8f77df86cebec811c7fbe1]: Commencement: Reg. 6 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-a5b8553b9cd7b3cfd4c0688e507e0bb5]: Commencement: Reg. 7 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-a5b8553b9cd7b3cfd4c0688e507e0bb5]: Commencement: Reg. 7 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-cf6513a454e673ed13e6f632ad904567]: Commencement: Reg. 8 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-cf6513a454e673ed13e6f632ad904567]: Commencement: Reg. 8 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-ffc10f5971c84eb2287c05a623d8f3ac]: Commencement: Reg. 9 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
+[^c-ffc10f5971c84eb2287c05a623d8f3ac]: Commencement: Reg. 9 in force at 6.8.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/1948/regulation/1)
 
-[^key-013414a5fe51b972204b0631a093edbb]: Textual amendment: [Reg. 9(1)(aa)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/aa) inserted (1.4.2019) by [The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) (Amendment) (Wales) Regulations 2019 (S.I. 2019/293)](https://www.legislation.gov.uk/wsi/2019/293), [regs. 1](https://www.legislation.gov.uk/wsi/2019/293/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/293/regulation/2/3)
+[^c-013414a5fe51b972204b0631a093edbb]: Textual amendment: [Reg. 9(1)(aa)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/aa) inserted (1.4.2019) by [The Electricity (Offshore Generating Stations) (Safety Zones) (Application Procedures and Control of Access) (Amendment) (Wales) Regulations 2019 (S.I. 2019/293)](https://www.legislation.gov.uk/wsi/2019/293), [regs. 1](https://www.legislation.gov.uk/wsi/2019/293/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/293/regulation/2/3)
 
-[^key-98e2106091dd01ce99f0400288f3c9ed]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/e) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/a/i)
+[^c-98e2106091dd01ce99f0400288f3c9ed]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/e) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(a)(i)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/a/i)
 
-[^key-e2bbc2429c84ada549c9cbb3114088f8]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/e) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/a/ii)
+[^c-e2bbc2429c84ada549c9cbb3114088f8]: Textual amendment: Words in [reg. 9(1)(e)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/e) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(a)(ii)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/a/ii)
 
 [^f00007]: Footnote: Section 6(1)(b) was substituted by section 136 of the Energy Act 2004.
 
 [^f00008]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-4333d6a909a1c139db2d07513e73325c]: Textual amendment: Words in [reg. 9(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/f/ii) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/706/regulation/24)
+[^c-4333d6a909a1c139db2d07513e73325c]: Textual amendment: Words in [reg. 9(1)(f)(ii)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/1/f/ii) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2024/706/regulation/24)
 
-[^key-cba0e17a2ebe4c588457835bf749fd5a]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/b)
+[^c-cba0e17a2ebe4c588457835bf749fd5a]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2007/1948/regulation/9/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 104(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/104/b)

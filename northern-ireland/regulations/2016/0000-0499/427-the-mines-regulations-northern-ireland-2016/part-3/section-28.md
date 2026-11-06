@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. General duties relating to explosives[^key-5cdd0758dd87213d08ca74549969089d]
+## 28. General duties relating to explosives[^c-5cdd0758dd87213d08ca74549969089d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cdd0758dd87213d08ca74549969089d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/427/regulation/28) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-5cdd0758dd87213d08ca74549969089d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/427/regulation/28) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

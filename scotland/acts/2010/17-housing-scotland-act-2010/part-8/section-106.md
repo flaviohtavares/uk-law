@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Asset transfer on dissolution or winding up[^key-527e2463ff1afe8b1fd818fb31367963]
+## 106. Asset transfer on dissolution or winding up[^c-527e2463ff1afe8b1fd818fb31367963]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-527e2463ff1afe8b1fd818fb31367963]: Commencement: S. 106 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-527e2463ff1afe8b1fd818fb31367963]: Commencement: S. 106 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
 [^M_F_b33eb860-9917-4539-ed44-3e25a7cf1075]: Textual amendment: Words in s. 106(1)(a) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(14)(a)](https://www.legislation.gov.uk/asp/2018/13/section/6/14/a), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 

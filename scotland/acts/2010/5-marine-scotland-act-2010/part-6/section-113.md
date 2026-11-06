@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Seal licence reports[^key-1ea02be8ecfbb4f115432856428f7149]
+## 113. Seal licence reports[^c-1ea02be8ecfbb4f115432856428f7149]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea02be8ecfbb4f115432856428f7149]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2010/5/section/113) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(b)](https://www.legislation.gov.uk/ssi/2010/230/article/4/b)
+[^c-1ea02be8ecfbb4f115432856428f7149]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2010/5/section/113) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(b)](https://www.legislation.gov.uk/ssi/2010/230/article/4/b)

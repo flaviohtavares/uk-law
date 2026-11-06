@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40B. Proceedings for breach of duties to give information[^key-15214738abf923ddd589b8f88abac917]
+## 40B. Proceedings for breach of duties to give information[^c-15214738abf923ddd589b8f88abac917]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A claim that a person has broken any duty imposed by section 40 of this Act may 
 
 ## Annotations
 
-[^key-15214738abf923ddd589b8f88abac917]: Textual amendment: S. 40B inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [24](https://www.legislation.gov.uk/uksi/2003/3096/article/24)
+[^c-15214738abf923ddd589b8f88abac917]: Textual amendment: S. 40B inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [24](https://www.legislation.gov.uk/uksi/2003/3096/article/24)

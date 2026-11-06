@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Bail review: rights of prosecutor to be heard etc.[^key-845b22e64e8bbf013456900386d93467]
+## 18. Bail review: rights of prosecutor to be heard etc.[^c-845b22e64e8bbf013456900386d93467]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 > (2A) Where an application is made under subsection (2) above—
 >
-> - (a) the application shall be intimated by the accused immediately and in writing to the Crown Agent and for that purpose the application shall be taken to be intimated to the Crown Agent if intimation of it is sent to the procurator fiscal for the sheriff court district in which bail was granted[^key-985202894dede1f948e6189d6518659c]; and
+> - (a) the application shall be intimated by the accused immediately and in writing to the Crown Agent and for that purpose the application shall be taken to be intimated to the Crown Agent if intimation of it is sent to the procurator fiscal for the sheriff court district in which bail was granted[^c-985202894dede1f948e6189d6518659c]; and
 > - (b) the court shall, before determining the application, give the prosecutor an opportunity to be heard.
 
 .
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-845b22e64e8bbf013456900386d93467]: Commencement: S. 18 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-845b22e64e8bbf013456900386d93467]: Commencement: S. 18 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
 
-[^key-985202894dede1f948e6189d6518659c]: Textual amendment: Words in s. 18(2) inserted (31.1.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (Incidental, Supplemental and Consequential Provisions) Order 2005 (S.S.I. 2005/40)](https://www.legislation.gov.uk/ssi/2005/40), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2005/40/article/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2005/40/article/3/4)
+[^c-985202894dede1f948e6189d6518659c]: Textual amendment: Words in s. 18(2) inserted (31.1.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (Incidental, Supplemental and Consequential Provisions) Order 2005 (S.S.I. 2005/40)](https://www.legislation.gov.uk/ssi/2005/40), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2005/40/article/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2005/40/article/3/4)

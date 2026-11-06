@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296. Applications for accreditation or variation of accreditation[^key-3248094443309bf14685efbb0b823f04][^key-668fced1b64abc2754de0cea1e53f54b][^key-562ca445f6e29979ee73d101fe9d1fef]
+## 296. Applications for accreditation or variation of accreditation[^c-3248094443309bf14685efbb0b823f04][^c-668fced1b64abc2754de0cea1e53f54b][^c-562ca445f6e29979ee73d101fe9d1fef]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3248094443309bf14685efbb0b823f04]: Commencement: S. 296 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3248094443309bf14685efbb0b823f04]: Commencement: S. 296 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-668fced1b64abc2754de0cea1e53f54b]: Commencement: [S. 296](https://www.legislation.gov.uk/ukpga/2024/13/section/296) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-668fced1b64abc2754de0cea1e53f54b]: Commencement: [S. 296](https://www.legislation.gov.uk/ukpga/2024/13/section/296) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
 
-[^key-562ca445f6e29979ee73d101fe9d1fef]: Modification: [S. 296](https://www.legislation.gov.uk/ukpga/2024/13/section/296): conferral of functions (6.4.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Conferral of Functions) Regulations 2026 (S.I. 2026/259)](https://www.legislation.gov.uk/uksi/2026/259), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/259/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/259/regulation/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2026/259/regulation/5), [6](https://www.legislation.gov.uk/uksi/2026/259/regulation/6))
+[^c-562ca445f6e29979ee73d101fe9d1fef]: Modification: [S. 296](https://www.legislation.gov.uk/ukpga/2024/13/section/296): conferral of functions (6.4.2026) by [The Digital Markets, Competition and Consumers Act 2024 (Alternative Dispute Resolution) (Conferral of Functions) Regulations 2026 (S.I. 2026/259)](https://www.legislation.gov.uk/uksi/2026/259), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/259/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/259/regulation/3) (with [regs. 5](https://www.legislation.gov.uk/uksi/2026/259/regulation/5), [6](https://www.legislation.gov.uk/uksi/2026/259/regulation/6))

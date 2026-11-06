@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Continuation of schemes for retained firefighters[^key-9293ae37e0ea9d8d83d5d2ea77b16a65]
+## 5. Continuation of schemes for retained firefighters[^c-9293ae37e0ea9d8d83d5d2ea77b16a65]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9293ae37e0ea9d8d83d5d2ea77b16a65]: Commencement: Art. 5 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-9293ae37e0ea9d8d83d5d2ea77b16a65]: Commencement: Art. 5 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00005]: Footnote: The Firefighters’ Pension Fund was established under Part P of the scheme set out in the Annex to the Firemen’s Pension Scheme (Northern Ireland) Order 2007.

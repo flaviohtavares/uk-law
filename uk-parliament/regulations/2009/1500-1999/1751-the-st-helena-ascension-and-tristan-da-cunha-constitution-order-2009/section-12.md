@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Island Council of Tristan da Cunha[^key-c529772d18287f83a2a32becf5f172d6]
+## 12. Island Council of Tristan da Cunha[^c-c529772d18287f83a2a32becf5f172d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any person who immediately before the appointed day is a member of the Island Co
 
 ## Annotations
 
-[^key-c529772d18287f83a2a32becf5f172d6]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/1751/article/12) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-c529772d18287f83a2a32becf5f172d6]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2009/1751/article/12) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

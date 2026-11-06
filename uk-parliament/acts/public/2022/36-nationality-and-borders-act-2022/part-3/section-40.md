@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Illegal entry and similar offences[^key-7d90509293f7963ff532ea56a590a530][^key-0a55a4593296198deac62b7dd752f993]
+## 40. Illegal entry and similar offences[^c-7d90509293f7963ff532ea56a590a530][^c-0a55a4593296198deac62b7dd752f993]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d90509293f7963ff532ea56a590a530]: Commencement: S. 40 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-7d90509293f7963ff532ea56a590a530]: Commencement: S. 40 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-0a55a4593296198deac62b7dd752f993]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/36/section/40) in force at 28.6.2022 for specified purposes by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/20) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))
+[^c-0a55a4593296198deac62b7dd752f993]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/36/section/40) in force at 28.6.2022 for specified purposes by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/20) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))

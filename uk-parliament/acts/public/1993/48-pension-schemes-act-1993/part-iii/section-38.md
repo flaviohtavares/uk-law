@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Alteration of rules of appropriate schemes.[^key-f592ac31dbc7dea9ef3ff4297aae6df7]
+## 38. Alteration of rules of appropriate schemes.[^c-f592ac31dbc7dea9ef3ff4297aae6df7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f592ac31dbc7dea9ef3ff4297aae6df7]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/1993/48/section/38) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [5(6)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/6)
+[^c-f592ac31dbc7dea9ef3ff4297aae6df7]: Textual amendment: [S. 38](https://www.legislation.gov.uk/ukpga/1993/48/section/38) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [5(6)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/6)

@@ -37,7 +37,7 @@ summary: ''
 - (b) a member of the Office for Legal Complaints (see Part 6), an ombudsman appointed by it or a member of its staff appointed under paragraph 13 of Schedule 15;
 - (c) a member of the governing body, or of the staff, of an approved regulator;
 - (d) an authorised person in relation to an activity which is a reserved legal activity;
-- (e)[^key-df9943631edfe6fae5f94aec4fb1654c] an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions));
+- (e)[^c-df9943631edfe6fae5f94aec4fb1654c] an authorised person (within the meaning given in section 31 of the Financial Services and Markets Act 2000 (authorised persons)) in relation to regulated claims management activity (within the meaning given by section 417(1) of that Act (definitions));
 - (f) an advocate in Scotland;
 - (g) a solicitor in Scotland;
 - (h) a member of the Bar of Northern Ireland; or
@@ -56,4 +56,4 @@ summary: ''
 
 [^c20320741]: Commencement: S. 8 wholly in force at 1.1.2009, see s. 211 and [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/a) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/3149/article/3))
 
-[^key-df9943631edfe6fae5f94aec4fb1654c]: Textual amendment: S. 8(5)(e) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/2)
+[^c-df9943631edfe6fae5f94aec4fb1654c]: Textual amendment: S. 8(5)(e) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/2)

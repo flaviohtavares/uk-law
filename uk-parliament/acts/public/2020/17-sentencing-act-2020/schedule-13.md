@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Special sentence for offenders of particular concern: offences[^M_C_58e0e85f-822c-4e5b-c767-0b1561881a90][^key-ae9f90effa03225eb5530c9dab259c7d]
+## SCHEDULE 13 — Special sentence for offenders of particular concern: offences[^M_C_58e0e85f-822c-4e5b-c767-0b1561881a90][^c-ae9f90effa03225eb5530c9dab259c7d]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ Sections 252A, 265 and 278
 
 #### Counter-Terrorism Act 2008
 
-**4.** An offence under any of the following provisions of the Counter-Terrorism Act 2008—[^key-e76330a6b5820e47a69c8e02a7d8abd4]
+**4.** An offence under any of the following provisions of the Counter-Terrorism Act 2008—[^c-e76330a6b5820e47a69c8e02a7d8abd4]
 
 - (a) section 54 (breach of police notification requirements etc);
 - (b) paragraph 15 of Schedule 5 (breach of foreign travel restriction order).
@@ -136,7 +136,7 @@ the relevant date is the date on which section 21 of the Counter-Terrorism and S
 - (a) was abolished before 13 April 2015, and
 - (b) would, if committed on the day on which the offender is or was convicted, have constituted the current offence.
 
-### Part 3 — Offences involving or connected with a threat to national security[^key-6e83e58d9e4f020a7eeefdb11ffeead3]
+### Part 3 — Offences involving or connected with a threat to national security[^c-6e83e58d9e4f020a7eeefdb11ffeead3]
 
 #### 13. Official Secrets Act 1911
 
@@ -157,7 +157,7 @@ An offence under any of the following provisions of the National Security Act 20
 - (e) section 12 (sabotage);
 - (f) section 13 (foreign interference);
 - (g) section 17 (obtaining etc material benefits from a foreign intelligence service);
-- (ga)[^key-985de7ba3dc737c096657fbe699703d1] section 17A (supporting a designated body);
+- (ga)[^c-985de7ba3dc737c096657fbe699703d1] section 17A (supporting a designated body);
 - (gb) section 17B (assisting a designated body);
 - (gc) section 17C (obtaining etc material benefits from a designated body);
 - (h) section 18 (preparatory conduct);
@@ -194,10 +194,10 @@ An offence, other than one for which the sentence is fixed by law as life impris
 
 [^M_C_58e0e85f-822c-4e5b-c767-0b1561881a90]: Modification: Sch. 13 applied (with modifications) by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 224A(1)(b)(4)](https://www.legislation.gov.uk/uksi/2020/1236/section/224A/1/b/4) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/uksi/2020/1520/section/416/1), [Sch. 25 para. 45(2)(5)](https://www.legislation.gov.uk/uksi/2020/1520/schedule/25/paragraph/45/2/5) (with [s. 416(7)](https://www.legislation.gov.uk/uksi/2020/1520/section/416/7), [Sch. 27](https://www.legislation.gov.uk/uksi/2020/1520/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-ae9f90effa03225eb5530c9dab259c7d]: Textual amendment: Sch. 13 substituted (30.4.2021 except as it has effect as applied by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 224A](https://www.legislation.gov.uk/ukpga/2006/52/section/224A)) by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(b)(3)(f)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/b/3/f), [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/11/schedule/6) (with [s. 21(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/21/2))
+[^c-ae9f90effa03225eb5530c9dab259c7d]: Textual amendment: Sch. 13 substituted (30.4.2021 except as it has effect as applied by [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52), [s. 224A](https://www.legislation.gov.uk/ukpga/2006/52/section/224A)) by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(b)(3)(f)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/b/3/f), [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/11/schedule/6) (with [s. 21(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/21/2))
 
-[^key-e76330a6b5820e47a69c8e02a7d8abd4]: Textual amendment: Words in Sch. 13 para. 4 substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 6(6)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6/6)
+[^c-e76330a6b5820e47a69c8e02a7d8abd4]: Textual amendment: Words in Sch. 13 para. 4 substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(3)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/l), [Sch. 27 para. 6(6)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/27/paragraph/6/6)
 
-[^key-6e83e58d9e4f020a7eeefdb11ffeead3]: Textual amendment: [Sch. 13 Pt. 3](https://www.legislation.gov.uk/ukpga/2020/17/schedule/13/part/3) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/6), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-6e83e58d9e4f020a7eeefdb11ffeead3]: Textual amendment: [Sch. 13 Pt. 3](https://www.legislation.gov.uk/ukpga/2020/17/schedule/13/part/3) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/6), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-985de7ba3dc737c096657fbe699703d1]: Textual amendment: [Sch. 13 paras. 15(ga)-(gc)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/13/paragraph/15/ga) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 13(3)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/13/3)
+[^c-985de7ba3dc737c096657fbe699703d1]: Textual amendment: [Sch. 13 paras. 15(ga)-(gc)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/13/paragraph/15/ga) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 13(3)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/13/3)

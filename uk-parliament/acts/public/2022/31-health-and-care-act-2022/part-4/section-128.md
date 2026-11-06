@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Investigations relating to Wales and Northern Ireland[^key-3270b2cc2a6c06c74c5b98e556b7ac8d][^key-682ee0c22c4bf0790fa2664c7d27484d]
+## 128. Investigations relating to Wales and Northern Ireland[^c-3270b2cc2a6c06c74c5b98e556b7ac8d][^c-682ee0c22c4bf0790fa2664c7d27484d]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3270b2cc2a6c06c74c5b98e556b7ac8d]: Commencement: S. 128 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-3270b2cc2a6c06c74c5b98e556b7ac8d]: Commencement: S. 128 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-682ee0c22c4bf0790fa2664c7d27484d]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/31/section/128) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-682ee0c22c4bf0790fa2664c7d27484d]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/31/section/128) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

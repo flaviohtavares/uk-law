@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Temporary use of land for carrying out the authorised development[^key-9520f257f184d341a014bb661ea75469]
+## 34. Temporary use of land for carrying out the authorised development[^c-9520f257f184d341a014bb661ea75469]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9520f257f184d341a014bb661ea75469]: Commencement: Art. 34 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-9520f257f184d341a014bb661ea75469]: Commencement: Art. 34 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00075]: Footnote: Section 13 was amended by sections 62(3) and 139 of, and paragraphs 27 and 28 of Schedule 13, and Part 3 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

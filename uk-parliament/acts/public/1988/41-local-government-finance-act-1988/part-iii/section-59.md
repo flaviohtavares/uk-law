@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-Where a contribution in aid of non-domestic rating is made in respect of a hereditament which is exempt from local non-domestic rating by virtue of paragraph 19A of Schedule 5 below (property occupied for purposes of visiting forces[^c13069031] etc.), the contribution shall be paid to the appropriate national authority[^key-3645d1d52883880ce1cf0d67d0422cfc].
+Where a contribution in aid of non-domestic rating is made in respect of a hereditament which is exempt from local non-domestic rating by virtue of paragraph 19A of Schedule 5 below (property occupied for purposes of visiting forces[^c13069031] etc.), the contribution shall be paid to the appropriate national authority[^c-3645d1d52883880ce1cf0d67d0422cfc].
 
 ## Annotations
 
@@ -28,4 +28,4 @@ Where a contribution in aid of non-domestic rating is made in respect of a hered
 
 [^c13069031]: Textual amendment: Words in s. 59 substituted (1.4.2000) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(1)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/1997/29/schedule/3/paragraph/24); [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329), [art. 3(1)](https://www.legislation.gov.uk/uksi/1998/2329/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/1998/2329/article/3/2))
 
-[^key-3645d1d52883880ce1cf0d67d0422cfc]: Textual amendment: Words in [s. 59](https://www.legislation.gov.uk/ukpga/1988/41/section/59) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(11)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/11)
+[^c-3645d1d52883880ce1cf0d67d0422cfc]: Textual amendment: Words in [s. 59](https://www.legislation.gov.uk/ukpga/1988/41/section/59) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(11)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/11)

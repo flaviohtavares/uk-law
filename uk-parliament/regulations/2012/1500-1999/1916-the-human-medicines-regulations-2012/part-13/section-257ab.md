@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257AB. Transitional arrangements[^key-455e0709565ee64b1438102dc875fd9c]
+## 257AB. Transitional arrangements[^c-455e0709565ee64b1438102dc875fd9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The information specified in paragraph 18B of Schedule 24 is not required to app
 
 ## Annotations
 
-[^key-455e0709565ee64b1438102dc875fd9c]: Textual amendment: [Regs. 257AA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257AA), [257AB](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257AB) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [111](https://www.legislation.gov.uk/uksi/2024/832/regulation/111) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/2))
+[^c-455e0709565ee64b1438102dc875fd9c]: Textual amendment: [Regs. 257AA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257AA), [257AB](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257AB) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [111](https://www.legislation.gov.uk/uksi/2024/832/regulation/111) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/2))

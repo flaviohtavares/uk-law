@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Retention of samples in certain cases.[^key-c07df56a12dfe1cec3950c2079820ee4]
+## 57. Retention of samples in certain cases.[^c-c07df56a12dfe1cec3950c2079820ee4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c07df56a12dfe1cec3950c2079820ee4]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1994/33/section/57) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
+[^c-c07df56a12dfe1cec3950c2079820ee4]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1994/33/section/57) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)

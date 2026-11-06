@@ -46,7 +46,7 @@ Section 24
 
 - (a) a TPIM notice;
 - (b) a notice under section 5(2) extending a TPIM notice;
-- (c)[^key-f9c82f3f3e73ab55cdb27cfc1a21cad7] a notice varying a TPIM notice under section 12(1) as mentioned in paragraph (c) of that subsection or under section 12(1A); or
+- (c)[^c-f9c82f3f3e73ab55cdb27cfc1a21cad7] a notice varying a TPIM notice under section 12(1) as mentioned in paragraph (c) of that subsection or under section 12(1A); or
 - (d) a notice under section 13(1) reviving a TPIM notice.
 
 ### Search of individual or premises at time of serving TPIM notice
@@ -73,7 +73,7 @@ Section 24
   - (i) the thing is or contains evidence in relation to an offence, and
   - (ii) it is necessary to seize it in order to prevent it being concealed, lost, damaged, altered or destroyed.
 
-### 6A. Weapons and explosives measure[^key-f64aabdbe3c23db19977752cabaf4904]
+### 6A. Weapons and explosives measure[^c-f64aabdbe3c23db19977752cabaf4904]
 
 (1) The Secretary of State may impose on the individual—
 
@@ -195,7 +195,7 @@ Section 24
 (16) The “designated officer” is—
 
 - (a) in relation to a warrant issued in England and Wales, the designated officer for the local justice area in which the justice of the peace who issued the warrant was acting when it was issued;
-- (b) in relation to a warrant issued in Northern Ireland, the clerk of petty sessions[^key-a738a3981533a7abc0230ce8afe6e040].
+- (b) in relation to a warrant issued in Northern Ireland, the clerk of petty sessions[^c-a738a3981533a7abc0230ce8afe6e040].
 
 ### Search of individual for public safety purposes
 
@@ -249,8 +249,8 @@ Section 24
 
 ## Annotations
 
-[^key-f9c82f3f3e73ab55cdb27cfc1a21cad7]: Textual amendment: Sch. 5 para. 5(2)(c) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(5)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/5), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-f9c82f3f3e73ab55cdb27cfc1a21cad7]: Textual amendment: Sch. 5 para. 5(2)(c) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 36(5)](https://www.legislation.gov.uk/ukpga/2021/11/section/36/5), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
 
-[^key-f64aabdbe3c23db19977752cabaf4904]: Textual amendment: Sch. 1 para. 6A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 18](https://www.legislation.gov.uk/ukpga/2015/6/section/18) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-f64aabdbe3c23db19977752cabaf4904]: Textual amendment: Sch. 1 para. 6A and preceding cross-heading inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6) , [ss. 18](https://www.legislation.gov.uk/ukpga/2015/6/section/18) , [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
-[^key-a738a3981533a7abc0230ce8afe6e040]: Textual amendment: Words in Sch. 5 para. 9(16)(b) substituted (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 139](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/139); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a738a3981533a7abc0230ce8afe6e040]: Textual amendment: Words in Sch. 5 para. 9(16)(b) substituted (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 139](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/139); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

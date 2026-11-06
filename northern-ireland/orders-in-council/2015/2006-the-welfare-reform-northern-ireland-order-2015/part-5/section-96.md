@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Amendments[^key-f50ce934d3b45188852e2b31bf91de27]
+## 96. Amendments[^c-f50ce934d3b45188852e2b31bf91de27]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 9 contains amendments relating to this Part.
 
 ## Annotations
 
-[^key-f50ce934d3b45188852e2b31bf91de27]: Commencement: [Art. 96](https://www.legislation.gov.uk/nisi/2015/2006/article/96) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(f)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/f)
+[^c-f50ce934d3b45188852e2b31bf91de27]: Commencement: [Art. 96](https://www.legislation.gov.uk/nisi/2015/2006/article/96) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(f)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/f)

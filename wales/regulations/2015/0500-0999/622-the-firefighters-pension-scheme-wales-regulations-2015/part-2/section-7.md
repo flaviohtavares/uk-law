@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Local pension boards: conflict of interest[^key-737a676579f2a86061ee73ac32b9670f]
+## 7. Local pension boards: conflict of interest[^c-737a676579f2a86061ee73ac32b9670f]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-737a676579f2a86061ee73ac32b9670f]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-737a676579f2a86061ee73ac32b9670f]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00045]: Footnote: See section 5(5) of the Public Service Pensions Act 2013 for the meaning of “conflict of interest”.

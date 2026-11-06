@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Amendment of section 8C[^key-c406b3122e15000aeda16e67d082f7c4]
+## 87. Amendment of section 8C[^c-c406b3122e15000aeda16e67d082f7c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c406b3122e15000aeda16e67d082f7c4]: Commencement: Reg. 87 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c406b3122e15000aeda16e67d082f7c4]: Commencement: Reg. 87 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00068]: Footnote: Section 8C was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

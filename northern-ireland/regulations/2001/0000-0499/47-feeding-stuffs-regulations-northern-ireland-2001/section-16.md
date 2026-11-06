@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Control of ash insoluble in hydrochloric acid in compound feeding stuffs[^key-92b812c80a8635d9eb06cbd42fdcb1a8]
+## 16. Control of ash insoluble in hydrochloric acid in compound feeding stuffs[^c-92b812c80a8635d9eb06cbd42fdcb1a8]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ if the level of ash insoluble in hydrochloric acid is declared in the statutory 
 
 ## Annotations
 
-[^key-92b812c80a8635d9eb06cbd42fdcb1a8]: Commencement: Reg. 16 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-92b812c80a8635d9eb06cbd42fdcb1a8]: Commencement: Reg. 16 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00027]: Footnote: O.J. No. L297, 18.11.1999, p. 8. Amended by Commission Regulation [(EC) No. 739/2000](https://www.legislation.gov.uk/european/regulation/2000/0739) (O.J. No. L87, 8.4.2000, p. 14)

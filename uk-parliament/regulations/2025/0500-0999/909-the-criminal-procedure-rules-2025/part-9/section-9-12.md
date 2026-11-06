@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.12. Adult defendant: prosecutor’s application for Crown Court trial[^key-d7fa78960278795eab12dde7e5231514]
+## 9.12. Adult defendant: prosecutor’s application for Crown Court trial[^c-d7fa78960278795eab12dde7e5231514]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7fa78960278795eab12dde7e5231514]: Commencement: [Rule 9.12](https://www.legislation.gov.uk/uksi/2025/909/rule/9.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d7fa78960278795eab12dde7e5231514]: Commencement: [Rule 9.12](https://www.legislation.gov.uk/uksi/2025/909/rule/9.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00283]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 8A was inserted by section 45 of, and Schedule 3 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and amended by [S.I. 2006/2493](https://www.legislation.gov.uk/uksi/2006/2493) and paragraphs 12 and 14 of Schedule 5 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10). Section 25 was amended by section 31 of, and paragraph 3 of Schedule 1 and Schedule 2 to, the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23), paragraph 6 of Schedule 8 to the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), paragraphs 1 and 5 of Schedule 1 to the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 42 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and paragraphs 1 and 11 of Schedule 3, and Part 4 of Schedule 37, to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).

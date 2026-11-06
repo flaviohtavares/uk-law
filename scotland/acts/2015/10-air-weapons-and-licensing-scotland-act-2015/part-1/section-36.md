@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Power to make further provision[^key-5e738918006af1c841761d035971b789]
+## 36. Power to make further provision[^c-5e738918006af1c841761d035971b789]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e738918006af1c841761d035971b789]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/10/section/36) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-5e738918006af1c841761d035971b789]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/10/section/36) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

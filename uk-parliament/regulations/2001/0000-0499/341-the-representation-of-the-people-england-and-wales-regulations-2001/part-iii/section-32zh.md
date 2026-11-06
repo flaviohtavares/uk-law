@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32ZH. Review of registration officer’s decision to impose a civil penalty[^key-7140f3e266946d758a7f5c33048ecd34]
+## 32ZH. Review of registration officer’s decision to impose a civil penalty[^c-7140f3e266946d758a7f5c33048ecd34]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7140f3e266946d758a7f5c33048ecd34]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) (as amended by [S.I. 2014/1234](https://www.legislation.gov.uk/uksi/2014/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1234/regulation/4))
+[^c-7140f3e266946d758a7f5c33048ecd34]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) (as amended by [S.I. 2014/1234](https://www.legislation.gov.uk/uksi/2014/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1234/regulation/4))

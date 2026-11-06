@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.6. Warrants that cease to have effect on payment[^key-82f438ababed1ca05f8ae1517c08749f]
+## 13.6. Warrants that cease to have effect on payment[^c-82f438ababed1ca05f8ae1517c08749f]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-82f438ababed1ca05f8ae1517c08749f]: Commencement: [Rule 13.6](https://www.legislation.gov.uk/uksi/2025/909/rule/13.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-82f438ababed1ca05f8ae1517c08749f]: Commencement: [Rule 13.6](https://www.legislation.gov.uk/uksi/2025/909/rule/13.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00335]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43): section 76 was amended by section 7 of the Maintenance Enforcement Act [1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17); section 78 of, and Schedule 16 to, the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), and section 62(3) of, and paragraphs 45 and 46 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

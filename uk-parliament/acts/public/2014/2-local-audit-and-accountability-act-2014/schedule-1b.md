@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1B — External registration bodies[^key-9dec6404c02e1fc63e906065ded50768]
+## Schedule 1B — External registration bodies[^c-9dec6404c02e1fc63e906065ded50768]
 
 *Extent: E+W*
 
@@ -193,4 +193,4 @@ including any guidance or recommendation relating to entry in or removal from th
 
 ## Annotations
 
-[^key-9dec6404c02e1fc63e906065ded50768]: Textual amendment: Schs. 1B-1D inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 35](https://www.legislation.gov.uk/ukpga/2026/23/schedule/35)
+[^c-9dec6404c02e1fc63e906065ded50768]: Textual amendment: Schs. 1B-1D inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 35](https://www.legislation.gov.uk/ukpga/2026/23/schedule/35)

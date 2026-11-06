@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Seeds (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (revoked)[^key-2a95ba40fcab01d08eaec124ed3f29f6]
+Seeds (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (revoked)[^c-2a95ba40fcab01d08eaec124ed3f29f6]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 17th December 2004
 
-[^key-2a95ba40fcab01d08eaec124ed3f29f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a95ba40fcab01d08eaec124ed3f29f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2a95ba40fcab01d08eaec124ed3f29f6]
+## 1. Citation and commencement[^c-2a95ba40fcab01d08eaec124ed3f29f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Cereal Seeds Regulations (Northern Ireland) 1994[^key-2a95ba40fcab01d08eaec124ed3f29f6]
+## 2. Amendment of the Cereal Seeds Regulations (Northern Ireland) 1994[^c-2a95ba40fcab01d08eaec124ed3f29f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 1994[^key-2a95ba40fcab01d08eaec124ed3f29f6]
+## 3. Amendment of the Fodder Plant Seeds Regulations (Northern Ireland) 1994[^c-2a95ba40fcab01d08eaec124ed3f29f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a95ba40fcab01d08eaec124ed3f29f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a95ba40fcab01d08eaec124ed3f29f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a95ba40fcab01d08eaec124ed3f29f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a95ba40fcab01d08eaec124ed3f29f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a95ba40fcab01d08eaec124ed3f29f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/460) revoked (31.12.2009) by [The Fodder Plant Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/385)](https://www.legislation.gov.uk/nisr/2009/385), [regs. 1](https://www.legislation.gov.uk/nisr/2009/385/regulation/1), [33(2)(d)](https://www.legislation.gov.uk/nisr/2009/385/regulation/33/2/d)
+[^c-2a95ba40fcab01d08eaec124ed3f29f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/460) revoked (31.12.2009) by [The Fodder Plant Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/385)](https://www.legislation.gov.uk/nisr/2009/385), [regs. 1](https://www.legislation.gov.uk/nisr/2009/385/regulation/1), [33(2)(d)](https://www.legislation.gov.uk/nisr/2009/385/regulation/33/2/d)

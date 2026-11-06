@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Conditional grant of planning permission: noise-sensitive developments[^key-e23d07d7ecb489c7d375f14a64397ae7]
+## 25. Conditional grant of planning permission: noise-sensitive developments[^c-e23d07d7ecb489c7d375f14a64397ae7]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e23d07d7ecb489c7d375f14a64397ae7]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/13/section/25) in force at 20.12.2019 by [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/377/regulation/4))
+[^c-e23d07d7ecb489c7d375f14a64397ae7]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/13/section/25) in force at 20.12.2019 by [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/377/regulation/4))

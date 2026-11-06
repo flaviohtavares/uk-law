@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Rules in respect of proceedings[^key-f0372cb8a3af89a832a752ad664c389b][^key-8afff7e700913d92b8595044826385ae]
+## 61. Rules in respect of proceedings[^c-f0372cb8a3af89a832a752ad664c389b][^c-8afff7e700913d92b8595044826385ae]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 (2) The rules under paragraph (1) in respect of the Fitness to Practise Committee or the Appeals Committee must, and in respect of the Investigating Committee may, include provision—
 
 - (a) for securing that, where a hearing is to be held, notice of when and where the hearing is to be held is given, at such time and in such manner as may be specified in the rules, to any person to whom the proceedings relate;
-- (b) for securing that the person concerned (which for the purposes of this article, where appropriate, includes an individual who, or partnership or[^key-1d3043bb41da1cedb04dd4220498c0d8] body corporate which, is subject to disqualification proceedings under Part 4 of the Medicines Act 1968) and the Council are, if they so require, entitled to be heard by the committee—
+- (b) for securing that the person concerned (which for the purposes of this article, where appropriate, includes an individual who, or partnership or[^c-1d3043bb41da1cedb04dd4220498c0d8] body corporate which, is subject to disqualification proceedings under Part 4 of the Medicines Act 1968) and the Council are, if they so require, entitled to be heard by the committee—
   - (i) at any hearing, or
   - (ii) in fitness to practise proceedings or on any other occasion when the committee is considering making an interim suspension order or an order for interim conditional entry;
 - (c) for allowing the person concerned and the Council to be represented at any hearing, or in fitness to practise proceedings or on any other occasion when the committee is considering making an interim suspension order or an order for interim conditional entry, by—
@@ -55,17 +55,17 @@ summary: ''
   - (i) enabling the Investigating Committee or the Fitness to Practise Committee, in prescribed circumstances, to agree with the person concerned that the person concerned will comply with such undertakings as the committee considers appropriate, and
   - (ii) with respect to the procedure to be followed when any such undertakings are breached (the rules may provide that the breach may be treated as misconduct for the purposes of article 51(1)(a) and for the matter to be dealt with as a misconduct allegation that is before the committee);
 - (d) in respect of consensual disposal of a disqualification case following preliminary consideration of it, including provision—
-  - (i) enabling the Fitness to Practise Committee, in prescribed circumstances, to agree with the individual , partnership[^key-668b26f5ebc04ede74ce58378b385ea3] or body corporate that the individual , partnership or body corporate will comply with such undertakings as the Committee considers appropriate, and
+  - (i) enabling the Fitness to Practise Committee, in prescribed circumstances, to agree with the individual , partnership[^c-668b26f5ebc04ede74ce58378b385ea3] or body corporate that the individual , partnership or body corporate will comply with such undertakings as the Committee considers appropriate, and
   - (ii) with respect to the procedure to be followed where any such undertakings are breached;
 - (e) in respect of case management meetings (and the rules may provide that the preliminary consideration of a case is to take place at a case management meeting) and directions, including provision with respect to the procedure to be followed where case management directions are breached;
 - (f) in respect of cancelling, postponing or adjourning hearings and staying proceedings in appropriate circumstances;
 - (g) enabling the Appeals Committee to refer a case before it to the Investigating Committee or the Fitness to Practise Committee for advice;
 - (h) enabling the Fitness to Practise Committee to draw such inference as seems appropriate to it in the particular circumstances of the case if the person concerned fails—
-  - (i) during fitness to practise proceedings, to submit to any examination or assessment required or directed to be carried out in accordance with the rules made under this article , article 55 or article 55A, or to provide the information required by virtue of rules made under article 55A(3)(b)[^key-1d44780df4b56d2864c540129fb1bb9a], or
+  - (i) during fitness to practise proceedings, to submit to any examination or assessment required or directed to be carried out in accordance with the rules made under this article , article 55 or article 55A, or to provide the information required by virtue of rules made under article 55A(3)(b)[^c-1d44780df4b56d2864c540129fb1bb9a], or
   - (ii) to co-operate with the Committee;
 - (i) enabling the committee during the course of proceedings, to make such inquiries as it considers appropriate;
 - (j) enabling the Fitness to Practise Committee, following consideration of a disqualification case, instead of issuing a direction under section 80 of the Medicines Act 1968[^f00054] (disqualification and removal from the Register)—
-  - (i) to agree with the individual , partnership[^key-83a6d2fa62cdcd7cc1fa4ff947063e3f] or body corporate that the individual , partnership or body corporate will comply with such undertakings as the Committee considers appropriate (and the rules may include provision with respect to the procedure to be followed where any such undertakings are breached), and
+  - (i) to agree with the individual , partnership[^c-83a6d2fa62cdcd7cc1fa4ff947063e3f] or body corporate that the individual , partnership or body corporate will comply with such undertakings as the Committee considers appropriate (and the rules may include provision with respect to the procedure to be followed where any such undertakings are breached), and
   - (ii) to dispose of the matter by giving advice or a warning; and
 - (k) for the award of, and in respect of the assessment of, costs or expenses, and may require the committee to have regard to a person’s ability to pay when considering the making of an award against the person under the rules.
 
@@ -80,22 +80,22 @@ summary: ''
 
 ## Annotations
 
-[^key-f0372cb8a3af89a832a752ad664c389b]: Commencement: Art. 61 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-f0372cb8a3af89a832a752ad664c389b]: Commencement: Art. 61 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-8afff7e700913d92b8595044826385ae]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2010/231/article/61) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-8afff7e700913d92b8595044826385ae]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2010/231/article/61) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
 [^f00051]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-1d3043bb41da1cedb04dd4220498c0d8]: Textual amendment: Words in [art. 61(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/61/2/b) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [26(a)](https://www.legislation.gov.uk/uksi/2016/372/article/26/a); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-1d3043bb41da1cedb04dd4220498c0d8]: Textual amendment: Words in [art. 61(2)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/61/2/b) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [26(a)](https://www.legislation.gov.uk/uksi/2016/372/article/26/a); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00052]: Footnote: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41).
 
 [^f00053]: Footnote: [1980 c.46](https://www.legislation.gov.uk/ukpga/1980/46). Section 25A was inserted by section 24 of the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40) and amended by paragraph 31 of Schedule 4 to the Criminal Procedure and Consequential Provisions (Scotland) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), by [S.S.I.1999/1042](https://www.legislation.gov.uk/ssi/1999/1042) and by [S.S.I.2001/121](https://www.legislation.gov.uk/ssi/2001/121).
 
-[^key-668b26f5ebc04ede74ce58378b385ea3]: Textual amendment: Word in [art. 61(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/231/article/61/3/d/i) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [26(b)(i)](https://www.legislation.gov.uk/uksi/2016/372/article/26/b/i); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-668b26f5ebc04ede74ce58378b385ea3]: Textual amendment: Word in [art. 61(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/231/article/61/3/d/i) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [26(b)(i)](https://www.legislation.gov.uk/uksi/2016/372/article/26/b/i); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-1d44780df4b56d2864c540129fb1bb9a]: Textual amendment: Words in [art. 61(3)(h)(i)](https://www.legislation.gov.uk/uksi/2010/231/article/61/3/h/i) substituted (1.6.2016) by [The Health Care and Associated Professions (Knowledge of English) Order 2015 (S.I. 2015/806)](https://www.legislation.gov.uk/uksi/2015/806), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/806/article/1/3), [56](https://www.legislation.gov.uk/uksi/2015/806/article/56); [S.I. 2015/1451](https://www.legislation.gov.uk/uksi/2015/1451), [art. 6(b)](https://www.legislation.gov.uk/uksi/2015/1451/article/6/b)
+[^c-1d44780df4b56d2864c540129fb1bb9a]: Textual amendment: Words in [art. 61(3)(h)(i)](https://www.legislation.gov.uk/uksi/2010/231/article/61/3/h/i) substituted (1.6.2016) by [The Health Care and Associated Professions (Knowledge of English) Order 2015 (S.I. 2015/806)](https://www.legislation.gov.uk/uksi/2015/806), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/806/article/1/3), [56](https://www.legislation.gov.uk/uksi/2015/806/article/56); [S.I. 2015/1451](https://www.legislation.gov.uk/uksi/2015/1451), [art. 6(b)](https://www.legislation.gov.uk/uksi/2015/1451/article/6/b)
 
 [^f00054]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-83a6d2fa62cdcd7cc1fa4ff947063e3f]: Textual amendment: Word in [art. 61(3)(j)(i)](https://www.legislation.gov.uk/uksi/2010/231/article/61/3/j/i) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2016/372/article/26/b/ii); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-83a6d2fa62cdcd7cc1fa4ff947063e3f]: Textual amendment: Word in [art. 61(3)(j)(i)](https://www.legislation.gov.uk/uksi/2010/231/article/61/3/j/i) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [26(b)(ii)](https://www.legislation.gov.uk/uksi/2016/372/article/26/b/ii); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)

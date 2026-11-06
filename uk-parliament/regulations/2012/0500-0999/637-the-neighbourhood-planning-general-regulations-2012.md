@@ -84,12 +84,12 @@ In these Regulations—
 - “**area application**” means an application for the designation of a neighbourhood area made under section 61G of the 1990 Act;
 - “**consultation body**” has the meaning given in Schedule 1;
 - “**contact details**” means the name, address and telephone number of the person concerned;
-- “**EIA Regulations**” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^key-33383706932c5d31cde8822f46e66422];
+- “**EIA Regulations**” means the Town and Country Planning (Environmental Impact Assessment) Regulations 2017[^c-33383706932c5d31cde8822f46e66422];
 - “**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000 [^c21194951];
-- “**electronic communications apparatus**” has the meaning given in paragraph 5[^key-154304b08f2c1dff4c15b69ae265cb8c] of the electronic communications code;
+- “**electronic communications apparatus**” has the meaning given in paragraph 5[^c-154304b08f2c1dff4c15b69ae265cb8c] of the electronic communications code;
 - “**electronic communications code**” has the meaning given in section 106(1) of the Communications Act 2003 [^c21194961];
 - “**inspection**” means inspection by the public;
-- “modification proposal” means a proposal submitted by a qualifying body under paragraph 1 of Schedule A2 to the 2004 Act;[^key-55985753db6fc8d0079f99fa7f239301]
+- “modification proposal” means a proposal submitted by a qualifying body under paragraph 1 of Schedule A2 to the 2004 Act;[^c-55985753db6fc8d0079f99fa7f239301]
 - “**neighbourhood forum application**” means an application for designation of a neighbourhood forum made by an organisation or body under section 61F of the 1990 Act;
 - “**order proposal**” means a proposal for a neighbourhood development order submitted by a qualifying body [^c21194971] under paragraph 1 of Schedule 4B to the 1990 Act or community right to build order submitted by a community organisation [^c21194981] under paragraph 1 of Schedule 4B to the 1990 Act, as read with paragraph 2 of Schedule 4C to the 1990 Act; and
 - “**plan proposal**” means a proposal for a neighbourhood development plan submitted by a qualifying body [^c21194991] under paragraph 1 of Schedule 4B to the 1990 Act (as applied, with modifications, by section 38A of the 2004 Act).
@@ -129,7 +129,7 @@ it shall be taken to have been received on the next working day.
 
 (2) A local planning authority may decline to consider an area application if the relevant body has already made an area application and a decision has not yet been made on that application.
 
-### 5A. Designation of the whole of the area of a parish council[^key-fc3324d015cd19bc5c6e135f0b848bb8]
+### 5A. Designation of the whole of the area of a parish council[^c-fc3324d015cd19bc5c6e135f0b848bb8]
 
 (1) This regulation applies where—
 
@@ -147,19 +147,19 @@ As soon as possible after receiving an area application from a relevant body, a 
 
 - (a) a copy of the area application;
 - (b) details of how to make representations; and
-- (c)[^key-0b5a38e9bea4ce6f0be2f2d0b22db132] the date by which those representations must be received, being [^key-6498f73e78ef4a6832fecb3cf8d8b6b3]... not less than six weeks from the date on which the area application is first publicised.
+- (c)[^c-0b5a38e9bea4ce6f0be2f2d0b22db132] the date by which those representations must be received, being [^c-6498f73e78ef4a6832fecb3cf8d8b6b3]... not less than six weeks from the date on which the area application is first publicised.
 
-### 6A. Prescribed date for determination of an area application[^key-e64b7899c1f12c356679854b62ac8ae0]
+### 6A. Prescribed date for determination of an area application[^c-e64b7899c1f12c356679854b62ac8ae0]
 
 (1) Where a local planning authority receive an area application from a relevant body the authority must determine the application by the date prescribed in paragraph (2).
 
 (2) The date prescribed in this paragraph is—
 
 - (a) in a case where the area to which the application relates falls within the areas of two or more local planning authorities, the date 20 weeks from the date immediately following that on which the application is first publicised;
-- (b)[^key-f701c9dda8689997ad979c575e32fb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f701c9dda8689997ad979c575e32fb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in all other cases, the date 13 weeks from the date immediately following that on which the application is first publicised.
 
-(3)[^key-de7483f24ad2e8c3037df6fbd28ca629] Where the application has not been determined by the date prescribed in paragraph (2), the local planning authority must exercise their powers under section 61G of the 1990 Act so as to secure that the whole of the area specified in the application is designated as a neighbourhood area unless on that date—
+(3)[^c-de7483f24ad2e8c3037df6fbd28ca629] Where the application has not been determined by the date prescribed in paragraph (2), the local planning authority must exercise their powers under section 61G of the 1990 Act so as to secure that the whole of the area specified in the application is designated as a neighbourhood area unless on that date—
 
 - (a) some or all of the specified area has been designated as a neighbourhood area; or
 - (b) some or all of the specified area is specified in another area application and that other area application has not been determined.
@@ -198,7 +198,7 @@ As soon as possible after receiving a neighbourhood forum application, which the
 - (c) details of how to make representations; and
 - (d) the date by which those representations must be received, being not less than 6 weeks from the date on which the application is first publicised.
 
-### 9A. Prescribed date for determination of a neighbourhood forum application[^key-65e44a48b3abd8bb94fe71bef22ae146]
+### 9A. Prescribed date for determination of a neighbourhood forum application[^c-65e44a48b3abd8bb94fe71bef22ae146]
 
 (1) Where a local planning authority receive a neighbourhood forum application, which they do not decline to consider under regulation 11, the authority must determine the application by the date prescribed in paragraph (2).
 
@@ -263,62 +263,62 @@ Where a neighbourhood forum has been designated in relation to a neighbourhood a
 
 ### 14. Pre-submission consultation and publicity
 
-Before submitting a plan proposal or a modification proposal[^key-fba3cf5e1fd9ab0f8332eadff2ea0648] to the local planning authority, a qualifying body must—
+Before submitting a plan proposal or a modification proposal[^c-fba3cf5e1fd9ab0f8332eadff2ea0648] to the local planning authority, a qualifying body must—
 
 - (a) publicise, in a manner that is likely to bring it to the attention of people who live, work or carry on business in the neighbourhood area—
-  - (i) details of the proposals for a neighbourhood development plan or modification proposal[^key-1dc2e6b3be524036ffd48212bd06b7d3];
+  - (i) details of the proposals for a neighbourhood development plan or modification proposal[^c-1dc2e6b3be524036ffd48212bd06b7d3];
   - (ii) details of where and when the proposals for a neighbourhood development plan or modification proposal may be inspected;
-  - (iii) details of how to make representations; [^key-df44b266925a426f60dfb7b7d5cd97b0]...
-  - (iv) the date by which those representations must be received, being not less than 6 weeks from the date on which the draft proposal is first publicised; and[^key-10e761e556fe0bc039da31e41a9098d3]
+  - (iii) details of how to make representations; [^c-df44b266925a426f60dfb7b7d5cd97b0]...
+  - (iv) the date by which those representations must be received, being not less than 6 weeks from the date on which the draft proposal is first publicised; and[^c-10e761e556fe0bc039da31e41a9098d3]
   - (v) in relation to a modification proposal, a statement setting out whether or not the qualifying body consider that the modifications contained in the modification proposal are so significant or substantial as to change the nature of the neighbourhood development plan which the modification proposal would modify, giving reasons for why the qualifying body is of this opinion;
 - (b) consult any consultation body referred to in paragraph 1 of Schedule 1 whose interests the qualifying body considers may be affected by the proposals for a neighbourhood development plan or modification proposal; and
 - (c) send a copy of the proposals for a neighbourhood development plan or modification proposal to the local planning authority.
 
-### 15. Plan proposals and modification proposals[^key-364415583cfac11c20b09fe023d2a6b3]
+### 15. Plan proposals and modification proposals[^c-364415583cfac11c20b09fe023d2a6b3]
 
-(1) Where a qualifying body submits a plan proposal or a modification proposal[^key-301f5678836964e3804da1687abefce2] to the local planning authority, it must include—
+(1) Where a qualifying body submits a plan proposal or a modification proposal[^c-301f5678836964e3804da1687abefce2] to the local planning authority, it must include—
 
-- (a) a map or statement which identifies the area to which the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified[^key-82617ca023794f56ddd8552d77dcbd14] relates;
+- (a) a map or statement which identifies the area to which the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified[^c-82617ca023794f56ddd8552d77dcbd14] relates;
 - (b) a consultation statement;
-- (c) the proposed neighbourhood development plan; [^key-3d240e4c96fc5969232ceee34821634f]...
-- (d) a statement explaining how the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified[^key-e532fd71317026cd1bafd0ed0d45a8f7] meets the requirements of paragraph 8 of Schedule 4B to the 1990 Act or in the case of a modification proposal, how the neighbourhood development plan as proposed to be modified meets the requirements of paragraph 11 of Schedule A2 to the 2004 Act[^key-7785b01c90ea32c4cc9225862d5f0a4d] [^key-6bfc5b42501625e3d7fda8171348305f]...
-- (e)[^key-6b18fb05869f3363d56610e7b45e4a77]
+- (c) the proposed neighbourhood development plan; [^c-3d240e4c96fc5969232ceee34821634f]...
+- (d) a statement explaining how the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified[^c-e532fd71317026cd1bafd0ed0d45a8f7] meets the requirements of paragraph 8 of Schedule 4B to the 1990 Act or in the case of a modification proposal, how the neighbourhood development plan as proposed to be modified meets the requirements of paragraph 11 of Schedule A2 to the 2004 Act[^c-7785b01c90ea32c4cc9225862d5f0a4d] [^c-6bfc5b42501625e3d7fda8171348305f]...
+- (e)[^c-6b18fb05869f3363d56610e7b45e4a77]
   - (i) an environmental report prepared in accordance with paragraphs (2) and (3) of regulation 12 of the Environmental Assessment of Plans and Programmes Regulations 2004; or
-  - (ii) where it has been determined under regulation 9(1) of those Regulations that the plan proposal or the modification proposal is unlikely to have significant environmental effects (and, accordingly, does not require an environmental assessment), a statement of reasons for the determination;and[^key-f212afef1fa879506bb15a314fd0496c]
+  - (ii) where it has been determined under regulation 9(1) of those Regulations that the plan proposal or the modification proposal is unlikely to have significant environmental effects (and, accordingly, does not require an environmental assessment), a statement of reasons for the determination;and[^c-f212afef1fa879506bb15a314fd0496c]
 - (f) in relation to a modification proposal, a statement setting out the whether or not the qualifying body consider that the modifications contained in the modification proposal are so significant or substantial as to change the nature of the neighbourhood development plan which the modification proposal would modify, giving reasons for why the qualifying body is of this opinion.
 
 (2) In this regulation “**consultation statement**” means a document which—
 
-- (a) contains details of the persons and bodies who were consulted about the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified.[^key-886ff64494d5d26f8ad10b6ec068e545];
+- (a) contains details of the persons and bodies who were consulted about the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified.[^c-886ff64494d5d26f8ad10b6ec068e545];
 - (b) explains how they were consulted;
 - (c) summarises the main issues and concerns raised by the persons consulted; and
-- (d) describes how these issues and concerns have been considered and, where relevant, addressed in the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified.[^key-cd8bd32e7a7f5c1acdc867c7eabf3280]
+- (d) describes how these issues and concerns have been considered and, where relevant, addressed in the proposed neighbourhood development plan or neighbourhood development plan as proposed to be modified.[^c-cd8bd32e7a7f5c1acdc867c7eabf3280]
 
-### 16. Publicising a plan proposal or a modification proposal[^key-70b0b0f9124e303d7114f14d0ec975a7]
+### 16. Publicising a plan proposal or a modification proposal[^c-70b0b0f9124e303d7114f14d0ec975a7]
 
-As soon as possible after receiving a plan proposal or a modification proposal[^key-542f1b0bd191f9843a9aebc7cad866d3] which includes each of the documents referred to in regulation 15(1), a local planning authority must—
+As soon as possible after receiving a plan proposal or a modification proposal[^c-542f1b0bd191f9843a9aebc7cad866d3] which includes each of the documents referred to in regulation 15(1), a local planning authority must—
 
 - (a) publicise the following on their website and in such other manner as they consider is likely to bring the proposal to the attention of people who live, work or carry on business in the neighbourhood area—
   - (i) details of the plan proposal or the modification proposal;
   - (ii) details of where and when the plan proposal or the modification proposal may be inspected;
   - (iii) details of how to make representations;
-  - (iv) in the case of a plan proposal,[^key-804ca681ec7528bf35ad2bffe96a2404] a statement that any representations may include a request to be notified of the local planning authority's decision under regulation 19 in relation to the neighbourhood development plan; and
+  - (iv) in the case of a plan proposal,[^c-804ca681ec7528bf35ad2bffe96a2404] a statement that any representations may include a request to be notified of the local planning authority's decision under regulation 19 in relation to the neighbourhood development plan; and
   - (v) the date by which those representations must be received, being not less than 6 weeks from the date on which the plan proposal or the modification proposal is first publicised; and
 - (b) notify any consultation body which is referred to in the consultation statement submitted in accordance with regulation 15, that the plan proposal or the modification proposal has been received.
 
-### 17. Submission of plan proposal or modification proposal to examination[^key-243eb42754ced8c8f35b0317befec492]
+### 17. Submission of plan proposal or modification proposal to examination[^c-243eb42754ced8c8f35b0317befec492]
 
-As soon as possible after the appointment of a person to carry out an examination under paragraph 7 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 9 of Schedule A2 to the 2004 Act[^key-e29dfa459cca7ea0fc8efe1c6dd7b2b4], a local planning authority must send the following to the person appointed—
+As soon as possible after the appointment of a person to carry out an examination under paragraph 7 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 9 of Schedule A2 to the 2004 Act[^c-e29dfa459cca7ea0fc8efe1c6dd7b2b4], a local planning authority must send the following to the person appointed—
 
-- (a) the plan proposal or the modification proposal[^key-d315fcc5fd4ad2a10330602587ecad49];
+- (a) the plan proposal or the modification proposal[^c-d315fcc5fd4ad2a10330602587ecad49];
 - (b) the documents referred to in regulation 15(1) and any other document submitted to the local planning authority by the qualifying body in relation to the plan proposal or the modification proposal;
-- (c) if the order proposal is one to which the Conservation of Habitats and Species Regulations 2017[^key-41707f20000c6be1b2263b29bd2ec339] applies, the information submitted in accordance with regulation 106[^key-38a6b5af37dc2ed3f001548a0c6125a4] of those Regulations; [^key-43e6f6b94fa3c26acdfdd84e7d0dceff]...
-- (d) a copy of any representations which have been made in accordance with regulation 16; and[^key-555dc1df067088812e398fefd2a7a096]
+- (c) if the order proposal is one to which the Conservation of Habitats and Species Regulations 2017[^c-41707f20000c6be1b2263b29bd2ec339] applies, the information submitted in accordance with regulation 106[^c-38a6b5af37dc2ed3f001548a0c6125a4] of those Regulations; [^c-43e6f6b94fa3c26acdfdd84e7d0dceff]...
+- (d) a copy of any representations which have been made in accordance with regulation 16; and[^c-555dc1df067088812e398fefd2a7a096]
 - (e) in relation to a modification proposal—
   - (i) a copy of the neighbourhood development plan as proposed to be modified;
   - (ii) a statement setting out the whether or not the authority consider that the modifications contained in the modification proposal are so significant or substantial as to change the nature of the neighbourhood development plan which the modification proposal would modify, giving reasons for why the authority is of this opinion.
 
-### 17A. Decision on examiner’s recommendations[^key-52542b029899effcec5036eb70c03bff]
+### 17A. Decision on examiner’s recommendations[^c-52542b029899effcec5036eb70c03bff]
 
 (1) This regulation applies where an examiner has made a report under paragraph 10 of Schedule 4B to the 1990 Act (applied by section 38A(3) of the 2004 Act) in relation to a plan proposal.
 
@@ -330,7 +330,7 @@ As soon as possible after the appointment of a person to carry out an examinatio
 
 (3) Representations invited under paragraph 13(1) must be submitted on or before the date which is the last day of the period of 6 weeks beginning with the day immediately following that on which the local planning authority first invited representations.
 
-(4) On or before[^key-a383f8cdaabe1280180e8f2321aec19f] the date prescribed in paragraph (5) the local planning authority must decide what action to take in response to each recommendation made by the report mentioned in paragraph (1).
+(4) On or before[^c-a383f8cdaabe1280180e8f2321aec19f] the date prescribed in paragraph (5) the local planning authority must decide what action to take in response to each recommendation made by the report mentioned in paragraph (1).
 
 (5) The date prescribed in this paragraph is—
 
@@ -340,32 +340,32 @@ As soon as possible after the appointment of a person to carry out an examinatio
   - (ii) where the authority do not refer the issue to independent examination, the date which is the last day of the period of 5 weeks beginning with the day immediately following the date prescribed in paragraph (3);
 - (c) in all other cases, the date which is the last day of the period of 5 weeks beginning with the day immediately following that on which the local planning authority receive the report mentioned in paragraph (1).
 
-### 18. Publication of the examiner's report and plan proposal or modification proposal decisions[^key-3e7b89c50614291e67c6d9e54bffd8a4]
+### 18. Publication of the examiner's report and plan proposal or modification proposal decisions[^c-3e7b89c50614291e67c6d9e54bffd8a4]
 
 (1) Paragraph (2) applies where a local planning authority decide—
 
-- (a) to decline to consider a plan proposal under paragraph 5 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or a modification proposal under paragraph 5 of Schedule A2 to the 2004 Act[^key-2cc073419a1ff85ed35cb133ad664f4d];
-- (b) to refuse a plan proposal under paragraph 6 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or a modification proposal under paragraph 8 of Schedule A2 to the 2004 Act[^key-b2ac7a4090693d1d4eaf382490dfa70a] ;
-- (c) what action to take in response to the recommendations of an examiner made in a report under paragraph 10 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) in relation to a neighbourhood development plan or under paragraph 13 of Schedule A2 to the 2004 Act in relation to a proposed modification of a neighbourhood development plan[^key-f5f8e508dde5c474b2ad17252ab0b7a1];
-- (d) what modifications, if any, they are to make to the draft plan under paragraph 12(6) of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 14(6) of Schedule A2 to the 2004 Act[^key-d002be96752d6dcf1d4885bc5395d5bb];
+- (a) to decline to consider a plan proposal under paragraph 5 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or a modification proposal under paragraph 5 of Schedule A2 to the 2004 Act[^c-2cc073419a1ff85ed35cb133ad664f4d];
+- (b) to refuse a plan proposal under paragraph 6 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or a modification proposal under paragraph 8 of Schedule A2 to the 2004 Act[^c-b2ac7a4090693d1d4eaf382490dfa70a] ;
+- (c) what action to take in response to the recommendations of an examiner made in a report under paragraph 10 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) in relation to a neighbourhood development plan or under paragraph 13 of Schedule A2 to the 2004 Act in relation to a proposed modification of a neighbourhood development plan[^c-f5f8e508dde5c474b2ad17252ab0b7a1];
+- (d) what modifications, if any, they are to make to the draft plan under paragraph 12(6) of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 14(6) of Schedule A2 to the 2004 Act[^c-d002be96752d6dcf1d4885bc5395d5bb];
 - (e) whether to extend the area to which the referendum is (or referendums are) to take place; or
-- (f) that they are not satisfied with the plan proposal under paragraph 12(10) of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or the draft plan under paragraph 14(4) of Schedule A2 to the 2004 Act[^key-47b2fa5b82a9f083ff8a999f434316ce].
+- (f) that they are not satisfied with the plan proposal under paragraph 12(10) of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or the draft plan under paragraph 14(4) of Schedule A2 to the 2004 Act[^c-47b2fa5b82a9f083ff8a999f434316ce].
 
 (2) As soon as possible after making a decision referred to in paragraph (1), a local planning authority must publish—
 
 - (a) the decision and their reasons for it (“the decision statement”),
 - (b) details of where and when the decision statement may be inspected; and
-- (c) in the case of a decision mentioned in paragraph (1)(c), the report made by the examiner under paragraph 10 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 13 of Schedule A2 to the 2004 Act[^key-ec4198d855b3d519dea9ca6e46c25270] ,
+- (c) in the case of a decision mentioned in paragraph (1)(c), the report made by the examiner under paragraph 10 of Schedule 4B to the 1990 Act (as applied by section 38A of the 2004 Act) or paragraph 13 of Schedule A2 to the 2004 Act[^c-ec4198d855b3d519dea9ca6e46c25270] ,
 
 on their website and in such other manner as they consider is likely to bring the decision statement and, as the case may be, the report to the attention of people who live, work or carry on business in the neighbourhood area.
 
-### 18A. Prescribed date for making a neighbourhood development plan[^key-fb8909323199a57d4c6fd28262f190dd]
+### 18A. Prescribed date for making a neighbourhood development plan[^c-fb8909323199a57d4c6fd28262f190dd]
 
 (1) The date prescribed for the purposes of section 38A(4)(b) of the 2004 Act is the date which is the last day of the period of 8 weeks beginning with the day immediately following that on which the last applicable referendum is held.
 
 (2) Paragraph (1) does not apply where proceedings for questioning anything relating to an applicable referendum are brought in accordance with section 61N(3) of the 1990 Act (applied by section 38C(2)(d) of the 2004 Act) before the neighbourhood development plan is made.
 
-(3)[^key-f3e4dfdbe73f78208887065b51500b4d] The date prescribed for the purposes of paragraph 14(7) of Schedule A2 to the 2004 Act is—
+(3)[^c-f3e4dfdbe73f78208887065b51500b4d] The date prescribed for the purposes of paragraph 14(7) of Schedule A2 to the 2004 Act is—
 
 - (b) the last day of the period of 5 weeks beginning with the day immediately following that on which the examiner’s report was received by the local authority in accordance with paragraph 13 of Schedule A2 to the 2004 Act; or
 - (c) such later date as may be agreed in writing by the local planning authority and the qualifying body.
@@ -383,7 +383,7 @@ As soon as possible after deciding to make a neighbourhood development plan unde
 
 ### 20. Publicising a neighbourhood development plan
 
-As soon as possible after making a neighbourhood development plan under section 38A(4) or section 38A(11)[^key-116bed4b3637b7f16e61465df8696499] of the 2004 Act, a local planning authority must—
+As soon as possible after making a neighbourhood development plan under section 38A(4) or section 38A(11)[^c-116bed4b3637b7f16e61465df8696499] of the 2004 Act, a local planning authority must—
 
 - (a) publish on their website and in such other manner as they consider is likely to bring the decision to the attention of people who live, work or carry on business in the neighbourhood area—
   - (i) the neighbourhood development plan; and
@@ -449,7 +449,7 @@ Before submitting an order proposal to the local planning authority, a qualifyin
   - (v) the date by which those representations must be received, being not less than 6 weeks from the date on which the proposal is first publicised; and
 - (b) notify any consultation body which is referred to in the consultation statement submitted in accordance with regulation 22, that the order proposal has been received.
 
-(2)[^key-a95cd8f8532cc1deaa900a41e9ffdf7e] As soon as possible after receiving an order proposal to which regulation 33 of the EIA Regulations applies, the local planning authority must, in addition to any publicity required under paragraph (1), publicise the information described in paragraph (1)(a) and the environmental statement submitted in accordance with the EIA Regulations by giving notice—
+(2)[^c-a95cd8f8532cc1deaa900a41e9ffdf7e] As soon as possible after receiving an order proposal to which regulation 33 of the EIA Regulations applies, the local planning authority must, in addition to any publicity required under paragraph (1), publicise the information described in paragraph (1)(a) and the environmental statement submitted in accordance with the EIA Regulations by giving notice—
 
 - (a) by site display in at least one place on or near the land to which the order proposal relates for not less than 30 days;
 - (b) by publication of the notice in a newspaper circulating in the locality in which the land to which the order proposal relates is situated; and
@@ -461,12 +461,12 @@ As soon as possible after the appointment of a person to carry out an examinatio
 
 - (a) the order proposal;
 - (b) the documents referred to in regulation 22(1);
-- (c) if the order proposal is one to which regulation 33[^key-e1919cf72f565b2f9ceaa1c6ce24a8c3] of the EIA Regulations applies, the environmental statement submitted in accordance with those Regulations;
-- (d) if the order proposal is one to which the Conservation of Habitats and Species Regulations 2017[^key-f94f6a23ff25400f1f9212244b27d715] applies, the information submitted in accordance with regulation 63(2)[^key-e83b5630709c8628525ef9d2d1746f61] of those Regulations;
+- (c) if the order proposal is one to which regulation 33[^c-e1919cf72f565b2f9ceaa1c6ce24a8c3] of the EIA Regulations applies, the environmental statement submitted in accordance with those Regulations;
+- (d) if the order proposal is one to which the Conservation of Habitats and Species Regulations 2017[^c-f94f6a23ff25400f1f9212244b27d715] applies, the information submitted in accordance with regulation 63(2)[^c-e83b5630709c8628525ef9d2d1746f61] of those Regulations;
 - (e) any other document submitted to the local planning authority by the qualifying body in relation to the order proposal; and
 - (f) a copy of any representations which have been made in accordance with regulation 23.
 
-### 24A. Decision on examiner’s recommendations[^key-9aa8a75a0785ebabd9b15022290117e3]
+### 24A. Decision on examiner’s recommendations[^c-9aa8a75a0785ebabd9b15022290117e3]
 
 (1) This regulation applies where an examiner has made a report under paragraph 10 of Schedule 4B to the 1990 Act in relation to an order proposal.
 
@@ -584,7 +584,7 @@ As soon as possible after revoking a neighbourhood development plan, neighbourho
   - (iv) any other person the local planning authority consider necessary in order to bring the revocation to the attention of people who live, work or carry on business in the area to which the revoked neighbourhood development order, community right to build order or neighbourhood development plan related; and
 - (c) cease to make the revoked neighbourhood development order, community right to build order or neighbourhood development plan available on their website and at any other place where it was available for inspection.
 
-## PART 8A — Intervention by the Secretary of State[^key-869c36ab486d2768d1ccd1b0cd86c90f]
+## PART 8A — Intervention by the Secretary of State[^c-869c36ab486d2768d1ccd1b0cd86c90f]
 
 ### 31A. Requests to intervene and dealing with requests
 
@@ -676,15 +676,15 @@ For the purposes of regulations 14 and 16, a “**consultation body**” means�
 - (f) the Environment Agency [^c21195111];
 - (g) the Historic Buildings and Monuments Commission for England (known as English Heritage) [^c21195121];
 - (h) Network Rail Infrastructure Limited (company number 2904587);
-- (i)[^key-1a162a1d2c4f16dc67e75f740267e3a6] a strategic highways company any part of whose area is in or adjoins the neighbourhood area;
+- (i)[^c-1a162a1d2c4f16dc67e75f740267e3a6] a strategic highways company any part of whose area is in or adjoins the neighbourhood area;
 - (ia) where the Secretary of State is the highway authority for any road in the area of a local planning authority any part of whose area is in or adjoins the neighbourhood area, the Secretary of State for Transport;
 - (j) the Marine Management Organisation [^c21195131];
 - (k) any person—
   - (i) to whom the electronic communications code applies by virtue of a direction given under section 106(3)(a) of the Communications Act 2003; and
   - (ii) who owns or controls electronic communications apparatus situated in any part of the area of the local planning authority;
 - (l) where it exercises functions in any part of the neighbourhood area—
-  - (i)[^key-98655ccdbb0f4ff6e0dd53a03a184b55] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-625cf67e576f76e209671ba4ca3092a5];
-  - (iia) NHS England[^key-1f8aa3d92d4c694dce2df5a80309d0ae];
+  - (i)[^c-98655ccdbb0f4ff6e0dd53a03a184b55] an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-625cf67e576f76e209671ba4ca3092a5];
+  - (iia) NHS England[^c-1f8aa3d92d4c694dce2df5a80309d0ae];
   - (ii) a person to whom a licence has been granted under section 6(1)(b) and (c) of the Electricity Act 1989 [^c21195151];
   - (iii) a person to whom a licence has been granted under section 7(2) of the Gas Act 1986 [^c21195161];
   - (iv) a sewerage undertaker; and
@@ -724,7 +724,7 @@ For the purposes of regulations 14 and 16, a “**consultation body**” means�
   </tbody>
   </table>
 
-  [^key-cb5c68bf1e279fd09e1586c3c853eb79]
+  [^c-cb5c68bf1e279fd09e1586c3c853eb79]
 
 (2) In the above Table—
 
@@ -737,21 +737,21 @@ For the purposes of regulations 14 and 16, a “**consultation body**” means�
 
 Regulation 32
 
-### 1. Neighbourhood development plans[^key-8e3617f46b9952664a57595f8155e55e]
+### 1. Neighbourhood development plans[^c-8e3617f46b9952664a57595f8155e55e]
 
 In relation to the examination of neighbourhood development plans the following basic condition is prescribed for the purpose of paragraph 8(2)(g) of Schedule 4B to the 1990 Act—
 
 - The making of the neighbourhood development plan does not breach the requirements of Chapter 8 of Part 6 of the Conservation of Habitats and Species Regulations 2017.
 
-### 2. Amendments to the Conservation of Habitats and Species Regulations 2010[^key-edf0d35045c0dde4e2d0b4488c52ca59]
+### 2. Amendments to the Conservation of Habitats and Species Regulations 2010[^c-edf0d35045c0dde4e2d0b4488c52ca59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-edf0d35045c0dde4e2d0b4488c52ca59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-edf0d35045c0dde4e2d0b4488c52ca59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-edf0d35045c0dde4e2d0b4488c52ca59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-edf0d35045c0dde4e2d0b4488c52ca59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-edf0d35045c0dde4e2d0b4488c52ca59] ...................
+**5.**[^c-edf0d35045c0dde4e2d0b4488c52ca59] ...................
 
 ## SCHEDULE 3 — Environmental Impact Assessments
 
@@ -1063,15 +1063,15 @@ An impact assessment has been prepared in relation to these Regulations. The ass
 
 [^c21194931]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) includes power to make certain provisions in relation to the European Economic Area by virtue of section 2(5) of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-33383706932c5d31cde8822f46e66422]: Textual amendment: Word in reg. 3 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-33383706932c5d31cde8822f46e66422]: Textual amendment: Word in reg. 3 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/2) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
 [^c21194951]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-154304b08f2c1dff4c15b69ae265cb8c]: Textual amendment: Words in reg. 3 substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/7/2)
+[^c-154304b08f2c1dff4c15b69ae265cb8c]: Textual amendment: Words in reg. 3 substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/7/2)
 
 [^c21194961]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-55985753db6fc8d0079f99fa7f239301]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/637/regulation/3) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1243/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-55985753db6fc8d0079f99fa7f239301]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/637/regulation/3) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1243/regulation/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
 [^c21194971]: Marginal citation: For the purposes of neighbourhood development orders, the definition of “qualifying body” is in section 61E(6) of the 1990 Act (inserted by paragraph 2 of the Localism Act 2011). A “community organisation” is to be regarded as a qualifying body (see paragraph 4(2) of Schedule 4C to the 1990 Act) (as inserted by Schedule 11 to the Localism Act 2011).
 
@@ -1083,111 +1083,111 @@ An impact assessment has been prepared in relation to these Regulations. The ass
 
 [^c21195011]: Marginal citation: For the definition of “relevant body” see section 61G(2) of the 1990 Act (inserted by paragraph 2 of Schedule 9 to the [Localism Act 2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-fc3324d015cd19bc5c6e135f0b848bb8]: Textual amendment: Reg. 5A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+[^c-fc3324d015cd19bc5c6e135f0b848bb8]: Textual amendment: Reg. 5A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
 
-[^key-0b5a38e9bea4ce6f0be2f2d0b22db132]: Textual amendment: Reg. 6(c) substituted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/2))
+[^c-0b5a38e9bea4ce6f0be2f2d0b22db132]: Textual amendment: Reg. 6(c) substituted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/2))
 
-[^key-6498f73e78ef4a6832fecb3cf8d8b6b3]: Textual amendment: Words in reg. 6(c) omitted (1.10.2016) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+[^c-6498f73e78ef4a6832fecb3cf8d8b6b3]: Textual amendment: Words in reg. 6(c) omitted (1.10.2016) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
 
-[^key-e64b7899c1f12c356679854b62ac8ae0]: Textual amendment: Reg. 6A inserted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/2))
+[^c-e64b7899c1f12c356679854b62ac8ae0]: Textual amendment: Reg. 6A inserted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/2))
 
-[^key-f701c9dda8689997ad979c575e32fb5a]: Textual amendment: Reg. 6A(2)(b) omitted (1.10.2016) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/4/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+[^c-f701c9dda8689997ad979c575e32fb5a]: Textual amendment: Reg. 6A(2)(b) omitted (1.10.2016) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/4/a) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
 
-[^key-de7483f24ad2e8c3037df6fbd28ca629]: Textual amendment: Reg. 6A(3) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/4/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
+[^c-de7483f24ad2e8c3037df6fbd28ca629]: Textual amendment: Reg. 6A(3) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/4/b) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/1))
 
-[^key-65e44a48b3abd8bb94fe71bef22ae146]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2012/637/regulation/9A) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/5) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/2))
+[^c-65e44a48b3abd8bb94fe71bef22ae146]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2012/637/regulation/9A) inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/5) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/2))
 
 [^c21195021]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-fba3cf5e1fd9ab0f8332eadff2ea0648]: Textual amendment: Words in reg. 14 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-fba3cf5e1fd9ab0f8332eadff2ea0648]: Textual amendment: Words in reg. 14 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-1dc2e6b3be524036ffd48212bd06b7d3]: Textual amendment: Words in reg. 14 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-1dc2e6b3be524036ffd48212bd06b7d3]: Textual amendment: Words in reg. 14 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-df44b266925a426f60dfb7b7d5cd97b0]: Textual amendment: Word in reg. 14(a)(iii) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-df44b266925a426f60dfb7b7d5cd97b0]: Textual amendment: Word in reg. 14(a)(iii) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-10e761e556fe0bc039da31e41a9098d3]: Textual amendment: Reg. 14(a)(v) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-10e761e556fe0bc039da31e41a9098d3]: Textual amendment: Reg. 14(a)(v) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-364415583cfac11c20b09fe023d2a6b3]: Textual amendment: Words in reg. 15 heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-364415583cfac11c20b09fe023d2a6b3]: Textual amendment: Words in reg. 15 heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-301f5678836964e3804da1687abefce2]: Textual amendment: Words in reg. 15 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-301f5678836964e3804da1687abefce2]: Textual amendment: Words in reg. 15 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-82617ca023794f56ddd8552d77dcbd14]: Textual amendment: Words in reg. 15(1)(a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-82617ca023794f56ddd8552d77dcbd14]: Textual amendment: Words in reg. 15(1)(a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-3d240e4c96fc5969232ceee34821634f]: Textual amendment: Word in reg. 15(1)(c) omitted (9.2.2015) by virtue of [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/3))
+[^c-3d240e4c96fc5969232ceee34821634f]: Textual amendment: Word in reg. 15(1)(c) omitted (9.2.2015) by virtue of [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/3))
 
-[^key-e532fd71317026cd1bafd0ed0d45a8f7]: Textual amendment: Words in reg. 15(1)(c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-e532fd71317026cd1bafd0ed0d45a8f7]: Textual amendment: Words in reg. 15(1)(c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-7785b01c90ea32c4cc9225862d5f0a4d]: Textual amendment: Words in reg. 15(1)(d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-7785b01c90ea32c4cc9225862d5f0a4d]: Textual amendment: Words in reg. 15(1)(d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-6bfc5b42501625e3d7fda8171348305f]: Textual amendment: Word in reg. 15(1)(d) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-6bfc5b42501625e3d7fda8171348305f]: Textual amendment: Word in reg. 15(1)(d) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-6b18fb05869f3363d56610e7b45e4a77]: Textual amendment: Reg. 15(1)(e) and word inserted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/3))
+[^c-6b18fb05869f3363d56610e7b45e4a77]: Textual amendment: Reg. 15(1)(e) and word inserted (9.2.2015) by [The Neighbourhood Planning (General) (Amendment) Regulations 2015 (S.I. 2015/20)](https://www.legislation.gov.uk/uksi/2015/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/20/regulation/2/4/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/20/regulation/1/3))
 
-[^key-f212afef1fa879506bb15a314fd0496c]: Textual amendment: Reg. 15(1)(f) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-f212afef1fa879506bb15a314fd0496c]: Textual amendment: Reg. 15(1)(f) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-886ff64494d5d26f8ad10b6ec068e545]: Textual amendment: Words in reg. 15(2)(a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-886ff64494d5d26f8ad10b6ec068e545]: Textual amendment: Words in reg. 15(2)(a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-cd8bd32e7a7f5c1acdc867c7eabf3280]: Textual amendment: Words in reg. 15(2)(d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-cd8bd32e7a7f5c1acdc867c7eabf3280]: Textual amendment: Words in reg. 15(2)(d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-70b0b0f9124e303d7114f14d0ec975a7]: Textual amendment: Words in reg. 16 heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-70b0b0f9124e303d7114f14d0ec975a7]: Textual amendment: Words in reg. 16 heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-542f1b0bd191f9843a9aebc7cad866d3]: Textual amendment: Words in reg. 16 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-542f1b0bd191f9843a9aebc7cad866d3]: Textual amendment: Words in reg. 16 inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-804ca681ec7528bf35ad2bffe96a2404]: Textual amendment: Words in reg. 16(a)(iv) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-804ca681ec7528bf35ad2bffe96a2404]: Textual amendment: Words in reg. 16(a)(iv) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-243eb42754ced8c8f35b0317befec492]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-243eb42754ced8c8f35b0317befec492]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-e29dfa459cca7ea0fc8efe1c6dd7b2b4]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-e29dfa459cca7ea0fc8efe1c6dd7b2b4]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-d315fcc5fd4ad2a10330602587ecad49]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-d315fcc5fd4ad2a10330602587ecad49]: Textual amendment: Words in [reg. 17](https://www.legislation.gov.uk/uksi/2012/637/regulation/17) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-41707f20000c6be1b2263b29bd2ec339]: Textual amendment: Words in reg. 17(c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/2/a)
+[^c-41707f20000c6be1b2263b29bd2ec339]: Textual amendment: Words in reg. 17(c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(2)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/2/a)
 
-[^key-38a6b5af37dc2ed3f001548a0c6125a4]: Textual amendment: Words in reg. 17(c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/2/b)
+[^c-38a6b5af37dc2ed3f001548a0c6125a4]: Textual amendment: Words in reg. 17(c) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(2)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/2/b)
 
-[^key-43e6f6b94fa3c26acdfdd84e7d0dceff]: Textual amendment: Word in [reg. 17(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17/c) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-43e6f6b94fa3c26acdfdd84e7d0dceff]: Textual amendment: Word in [reg. 17(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17/c) omitted (31.1.2018) by virtue of [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-555dc1df067088812e398fefd2a7a096]: Textual amendment: [Reg. 17(e)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17/e) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-555dc1df067088812e398fefd2a7a096]: Textual amendment: [Reg. 17(e)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17/e) and word inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-52542b029899effcec5036eb70c03bff]: Textual amendment: Reg. 17A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/6) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
+[^c-52542b029899effcec5036eb70c03bff]: Textual amendment: Reg. 17A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/6) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
 
-[^key-a383f8cdaabe1280180e8f2321aec19f]: Textual amendment: Word in [reg. 17A(4)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17A/4) substituted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/1243/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-a383f8cdaabe1280180e8f2321aec19f]: Textual amendment: Word in [reg. 17A(4)](https://www.legislation.gov.uk/uksi/2012/637/regulation/17A/4) substituted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/1243/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-3e7b89c50614291e67c6d9e54bffd8a4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2012/637/regulation/18) heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-3e7b89c50614291e67c6d9e54bffd8a4]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2012/637/regulation/18) heading inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-2cc073419a1ff85ed35cb133ad664f4d]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-2cc073419a1ff85ed35cb133ad664f4d]: Textual amendment: Words in [reg. 18(1)(a)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/a) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-b2ac7a4090693d1d4eaf382490dfa70a]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/b) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-b2ac7a4090693d1d4eaf382490dfa70a]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/b) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-f5f8e508dde5c474b2ad17252ab0b7a1]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-f5f8e508dde5c474b2ad17252ab0b7a1]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-d002be96752d6dcf1d4885bc5395d5bb]: Textual amendment: Words in [reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-d002be96752d6dcf1d4885bc5395d5bb]: Textual amendment: Words in [reg. 18(1)(d)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/d) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-47b2fa5b82a9f083ff8a999f434316ce]: Textual amendment: Words in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/f) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-47b2fa5b82a9f083ff8a999f434316ce]: Textual amendment: Words in [reg. 18(1)(f)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/1/f) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/7) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-ec4198d855b3d519dea9ca6e46c25270]: Textual amendment: Words in [reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/2/c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-ec4198d855b3d519dea9ca6e46c25270]: Textual amendment: Words in [reg. 18(2)(c)](https://www.legislation.gov.uk/uksi/2012/637/regulation/18/2/c) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-fb8909323199a57d4c6fd28262f190dd]: Textual amendment: Reg. 18A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/7) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/4))
+[^c-fb8909323199a57d4c6fd28262f190dd]: Textual amendment: Reg. 18A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/7) (with [reg. 4(4)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/4))
 
-[^key-f3e4dfdbe73f78208887065b51500b4d]: Textual amendment: Reg. 18A(3) added (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/1243/regulation/10) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-f3e4dfdbe73f78208887065b51500b4d]: Textual amendment: Reg. 18A(3) added (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [10](https://www.legislation.gov.uk/uksi/2017/1243/regulation/10) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
-[^key-116bed4b3637b7f16e61465df8696499]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2012/637/regulation/20) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/1243/regulation/11) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
+[^c-116bed4b3637b7f16e61465df8696499]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2012/637/regulation/20) inserted (31.1.2018) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 (S.I. 2017/1243)](https://www.legislation.gov.uk/uksi/2017/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1), [11](https://www.legislation.gov.uk/uksi/2017/1243/regulation/11) (with [reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13))
 
 [^c21195051]: Marginal citation: “Enfranchisement rights” are defined in paragraph 11 of Schedule 4C to the 1990 Act.
 
-[^key-a95cd8f8532cc1deaa900a41e9ffdf7e]: Textual amendment: Reg. 23(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/3) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-a95cd8f8532cc1deaa900a41e9ffdf7e]: Textual amendment: Reg. 23(2) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/3) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-e1919cf72f565b2f9ceaa1c6ce24a8c3]: Textual amendment: Words in reg. 24(c) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(4)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/4) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
+[^c-e1919cf72f565b2f9ceaa1c6ce24a8c3]: Textual amendment: Words in reg. 24(c) substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/1/1), [75(4)](https://www.legislation.gov.uk/uksi/2017/571/regulation/75/4) (with [regs. 47](https://www.legislation.gov.uk/uksi/2017/571/regulation/47), [70](https://www.legislation.gov.uk/uksi/2017/571/regulation/70))
 
-[^key-f94f6a23ff25400f1f9212244b27d715]: Textual amendment: Words in reg. 24(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/3/a)
+[^c-f94f6a23ff25400f1f9212244b27d715]: Textual amendment: Words in reg. 24(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/3/a)
 
-[^key-e83b5630709c8628525ef9d2d1746f61]: Textual amendment: Words in reg. 24(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/3/b)
+[^c-e83b5630709c8628525ef9d2d1746f61]: Textual amendment: Words in reg. 24(d) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(3)(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/3/b)
 
-[^key-9aa8a75a0785ebabd9b15022290117e3]: Textual amendment: Reg. 24A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
+[^c-9aa8a75a0785ebabd9b15022290117e3]: Textual amendment: Reg. 24A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
 
 [^M_F_78165c27-a08b-43f8-bc3a-5911ccce9f56]: Textual amendment: Reg. 25A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/8) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/3))
 
-[^key-869c36ab486d2768d1ccd1b0cd86c90f]: Textual amendment: Pt. 8A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/10) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/5))
+[^c-869c36ab486d2768d1ccd1b0cd86c90f]: Textual amendment: Pt. 8A inserted (1.10.2016) by [The Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2016 (S.I. 2016/873)](https://www.legislation.gov.uk/uksi/2016/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/873/regulation/1/1), [2(10)](https://www.legislation.gov.uk/uksi/2016/873/regulation/2/10) (with [reg. 4(5)](https://www.legislation.gov.uk/uksi/2016/873/regulation/4/5))
 
 [^c21195081]: Marginal citation: See section 1 of the [Coal Industry Act 1994 (c.21)](https://www.legislation.gov.uk/ukpga/1994/21).
 
@@ -1199,29 +1199,29 @@ An impact assessment has been prepared in relation to these Regulations. The ass
 
 [^c21195121]: Marginal citation: See section 32 of the [National Heritage Act 1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
 
-[^key-1a162a1d2c4f16dc67e75f740267e3a6]: Textual amendment: Sch. 1 para. 1(i)(ia) substituted for Sch. 1 para. 1(i) (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/53/2)
+[^c-1a162a1d2c4f16dc67e75f740267e3a6]: Textual amendment: Sch. 1 para. 1(i)(ia) substituted for Sch. 1 para. 1(i) (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 53(2)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/53/2)
 
 [^c21195131]: Marginal citation: See section 1 of the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-98655ccdbb0f4ff6e0dd53a03a184b55]: Textual amendment: Sch. 1 para. 1(l)(i)(ia) substituted for Sch. 1 para. 1(l)(i) (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 168](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/168)
+[^c-98655ccdbb0f4ff6e0dd53a03a184b55]: Textual amendment: Sch. 1 para. 1(l)(i)(ia) substituted for Sch. 1 para. 1(l)(i) (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 168](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/168)
 
-[^key-625cf67e576f76e209671ba4ca3092a5]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
+[^c-625cf67e576f76e209671ba4ca3092a5]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1)
 
-[^key-1f8aa3d92d4c694dce2df5a80309d0ae]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-1f8aa3d92d4c694dce2df5a80309d0ae]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21195151]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
 [^c21195161]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7 was amended sections 3(2), 76(1) and (3) of, and paragraphs 1 and 4 of Schedule 6 to, the Utilities Act 2000.
 
-[^key-cb5c68bf1e279fd09e1586c3c853eb79]: Textual amendment: Sch. 1 para. 2(1)(g) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 53(3)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/53/3)
+[^c-cb5c68bf1e279fd09e1586c3c853eb79]: Textual amendment: Sch. 1 para. 2(1)(g) substituted (1.4.2015) by [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 53(3)](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/53/3)
 
 [^c21195171]: Marginal citation: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
 
 [^c21195181]: Marginal citation: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-8e3617f46b9952664a57595f8155e55e]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/637/schedule/2/paragraph/1) substituted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/3/2)
+[^c-8e3617f46b9952664a57595f8155e55e]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2012/637/schedule/2/paragraph/1) substituted (28.12.2018) by [The Conservation of Habitats and Species and Planning (Various Amendments) (England and Wales) Regulations 2018 (S.I. 2018/1307)](https://www.legislation.gov.uk/uksi/2018/1307), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1307/regulation/3/2)
 
-[^key-edf0d35045c0dde4e2d0b4488c52ca59]: Textual amendment: Sch. 2 paras. 2-5 omitted (30.11.2017) by virtue of [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(4)(ii)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/4/ii)
+[^c-edf0d35045c0dde4e2d0b4488c52ca59]: Textual amendment: Sch. 2 paras. 2-5 omitted (30.11.2017) by virtue of [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 27(4)(ii)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/27/4/ii)
 
 [^c21195241]: Marginal citation: [Section 61E](https://www.legislation.gov.uk/uksi/2012/637/section/61E) of the Town and Country Planning Act 1990 was inserted by paragraph 2 of Schedule 9 to the Localism Act 2011.
 

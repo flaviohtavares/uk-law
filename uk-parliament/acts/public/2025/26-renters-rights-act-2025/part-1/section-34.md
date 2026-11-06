@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Discrimination relating to benefits status[^key-2acba6ccd20a7d406c8e405e63f85231][^key-3cf1fd08aabf8710bd7e001215d90a9e]
+## 34. Discrimination relating to benefits status[^c-2acba6ccd20a7d406c8e405e63f85231][^c-3cf1fd08aabf8710bd7e001215d90a9e]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ and the conduct is a means of preventing the insured from breaching that term.
 
 ## Annotations
 
-[^key-2acba6ccd20a7d406c8e405e63f85231]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-2acba6ccd20a7d406c8e405e63f85231]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-3cf1fd08aabf8710bd7e001215d90a9e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/26/section/34) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-3cf1fd08aabf8710bd7e001215d90a9e]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2025/26/section/34) in force at 1.5.2026 in so far as not already in force by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

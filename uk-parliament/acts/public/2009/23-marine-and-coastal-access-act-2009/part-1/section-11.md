@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Sea Fisheries (Wildlife Conservation) Act 1992[^key-57ef6f390f73c3658fb27452a546ad9d]
+## 11. Sea Fisheries (Wildlife Conservation) Act 1992[^c-57ef6f390f73c3658fb27452a546ad9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 1(1) of the Sea Fisheries (Wildlife Conservation) Act 1992 (c. 36) (c
 
 ## Annotations
 
-[^key-57ef6f390f73c3658fb27452a546ad9d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/23/section/11) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/3)
+[^c-57ef6f390f73c3658fb27452a546ad9d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/23/section/11) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/3)

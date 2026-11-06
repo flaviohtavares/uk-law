@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**29.**[^key-b98e751013a0f0a8acd244c2be8b6977] In the Schedule—
+**29.**[^c-b98e751013a0f0a8acd244c2be8b6977] In the Schedule—
 
 - (a) in Form 1, in paragraph 4—
   - (i) for “Under section 50” to “(“**the Listed Buildings Act**”)” substitute “Under section 140 of the Historic Environment (Wales) Act 2023 (“**the 2023 Act**”)”;
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b98e751013a0f0a8acd244c2be8b6977]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2024/924/regulation/29) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-b98e751013a0f0a8acd244c2be8b6977]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2024/924/regulation/29) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

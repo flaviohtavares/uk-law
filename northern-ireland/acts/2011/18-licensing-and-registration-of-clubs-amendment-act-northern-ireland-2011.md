@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## PART 1 — LICENSING
 
-### 1. Closure of licensed premises[^key-8cb1b169d57e5c30b27baa9d23ce841e]
+### 1. Closure of licensed premises[^c-8cb1b169d57e5c30b27baa9d23ce841e]
 
 (1) After Part 4 of the Licensing Order insert the following Part—
 
@@ -194,7 +194,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) Omit Article 49 of the Licensing Order (power to vary hours in certain circumstances).
 
-### 2. Penalty points[^key-eb2ff9b91a165986886586d9fd29234d]
+### 2. Penalty points[^c-eb2ff9b91a165986886586d9fd29234d]
 
 (1) Insert the following Articles after Article 71 of the Licensing Order—
 
@@ -259,7 +259,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (b) in paragraph (2)(a)(i), the words from “other than an offence” to “that sub-paragraph,”; and
 - (c) paragraph (3).
 
-### 3. Proof of age[^key-e769cd97ce698af9ce7da49f3d8cef35]
+### 3. Proof of age[^c-e769cd97ce698af9ce7da49f3d8cef35]
 
 (1) In Article 58 of the Licensing Order (young persons prohibited from certain premises) after paragraph (11) insert—
 
@@ -315,7 +315,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-### 4. Irresponsible drinks promotions[^key-2202729b5117b7bb18c5e4bbb735534f]
+### 4. Irresponsible drinks promotions[^c-2202729b5117b7bb18c5e4bbb735534f]
 
 After Article 57 of the Licensing Order insert—
 
@@ -371,7 +371,7 @@ After Article 57A of the Licensing Order (inserted by section 4) insert—
 
 .
 
-### 6. Application to limited liability partnerships[^key-eb818aefbf5cf3713c374507cb9b5848]
+### 6. Application to limited liability partnerships[^c-eb818aefbf5cf3713c374507cb9b5848]
 
 After Article 2A of the Licensing Order insert the following Article—
 
@@ -386,7 +386,7 @@ After Article 2A of the Licensing Order insert the following Article—
 
 ## PART 2 — REGISTRATION OF CLUBS
 
-### 7. Closure of registered clubs[^key-69742cfc420fe5c1a47bc96cce74e34d]
+### 7. Closure of registered clubs[^c-69742cfc420fe5c1a47bc96cce74e34d]
 
 After Part 4 of the Registration of Clubs Order insert the following Part—
 
@@ -521,7 +521,7 @@ After Part 4 of the Registration of Clubs Order insert the following Part—
 
 .
 
-### 8. Penalty points[^key-3c37f688073ddda3d63c8a5d4fb10289]
+### 8. Penalty points[^c-3c37f688073ddda3d63c8a5d4fb10289]
 
 (1) In Article 43 of the Registration of Clubs Order (penalty points to be attributed to an offence)—
 
@@ -575,7 +575,7 @@ After Part 4 of the Registration of Clubs Order insert the following Part—
 
 (4) For Schedule 6 to the Registration of Clubs Order substitute the Schedule set out in Schedule 2.
 
-### 9. Proof of age[^key-8d3f6e4b9bf0b91adf4f4ff4c5b3243b]
+### 9. Proof of age[^c-8d3f6e4b9bf0b91adf4f4ff4c5b3243b]
 
 (1) In Article 32 of the Registration of Clubs Order (young persons prohibited from bars) after paragraph (11) insert—
 
@@ -636,7 +636,7 @@ After Part 4 of the Registration of Clubs Order insert the following Part—
 
 .
 
-### 10. Irresponsible drinks promotions[^key-b5ae21902cfc284fc83f0705bc95f099]
+### 10. Irresponsible drinks promotions[^c-b5ae21902cfc284fc83f0705bc95f099]
 
 After Article 31 of the Registration of Clubs Order insert—
 
@@ -697,7 +697,7 @@ After Article 31A of the Registration of Clubs Order (inserted by section 10) in
 
 .
 
-### 12. Accounts of registered clubs[^key-6f038ba5aa077269365738dc920e607a]
+### 12. Accounts of registered clubs[^c-6f038ba5aa077269365738dc920e607a]
 
 (1) Article 40 of the Registration of Clubs Order (accounts of registered clubs, etc.) is amended as follows.
 
@@ -742,7 +742,7 @@ After Article 31A of the Registration of Clubs Order (inserted by section 10) in
 
 (5) In paragraph (3) for “paragraph (1)” substitute “ or by virtue of this Article ”.
 
-### 13. Authorisations for special occasions[^key-8381468571881bf51b75cf227de19e2a]
+### 13. Authorisations for special occasions[^c-8381468571881bf51b75cf227de19e2a]
 
 (1) Article 26 of the Registration of Clubs Order (authorisations for special occasions) is amended as follows.
 
@@ -753,13 +753,13 @@ After Article 31A of the Registration of Clubs Order (inserted by section 10) in
 
 (3) In paragraph (2), for “52” substitute “ 85 ”.
 
-### 14. Young persons prohibited from bars[^key-904aebcad7b30624257d2397c3083625]
+### 14. Young persons prohibited from bars[^c-904aebcad7b30624257d2397c3083625]
 
 In Article 32 of the Registration of Clubs Order (young persons prohibited from bars) for “9” in each of the 3 places where it occurs substitute “ 10 ”.
 
 ## PART 3 — GENERAL
 
-### 15. Ancillary provision[^key-e0a0d6d6bb20374d1c2e5acb1f1723ed]
+### 15. Ancillary provision[^c-e0a0d6d6bb20374d1c2e5acb1f1723ed]
 
 (1) The Department may by order make such incidental, supplementary, consequential, transitional, transitory or saving provisions as it considers appropriate for the purposes of, in consequence of, or for giving full effect to this Act or any provision of it.
 
@@ -778,7 +778,7 @@ In this Act—
 - “**the Registration of Clubs Order**” means the Registration of Clubs (Northern Ireland) Order 1996 (NI 23);
 - “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
 
-### 17. Minor and consequential amendments and repeals[^key-8587df874c9df2e02e4d93ef055d71e4]
+### 17. Minor and consequential amendments and repeals[^c-8587df874c9df2e02e4d93ef055d71e4]
 
 (1) Schedule 3, which contains minor amendments and amendments consequential on the provisions of this Act, shall have effect.
 
@@ -794,7 +794,7 @@ This Act may be cited as the Licensing and Registration of Clubs (Amendment) Act
 
 SCHEDULES
 
-## SCHEDULE 1 — SCHEDULE TO BE INSERTED IN LICENSING ORDER AS SCHEDULE 10A[^key-859f16f09a98a7c79e5bb53c2ebbd2cd][^key-62b2f490ab588f5d9d7dc844895a9815][^key-f5af0f0426a3ce7c77ef4b08ca686539]
+## SCHEDULE 1 — SCHEDULE TO BE INSERTED IN LICENSING ORDER AS SCHEDULE 10A[^c-859f16f09a98a7c79e5bb53c2ebbd2cd][^c-62b2f490ab588f5d9d7dc844895a9815][^c-f5af0f0426a3ce7c77ef4b08ca686539]
 
 Section 2(2).
 
@@ -845,7 +845,7 @@ Section 2(2).
 > | 69B(6) | Permitting premises to be open in contravention of closure order under Article 69B | 5-6 |
 > | 69F(5) | Permitting premises to be open etc. in contravention of court's decision about closure order | 5-6 |
 
-## SCHEDULE 2 — SCHEDULE TO BE SUBSTITUTED IN REGISTRATION OF CLUBS ORDER FOR SCHEDULE 6[^key-229d2e0af09a7bd23d5830e11738b4e0][^key-a25a69d2233287d5cbe5ec5af15e73ab][^key-f5444886cd6b4fab8b90eaaec7e19853]
+## SCHEDULE 2 — SCHEDULE TO BE SUBSTITUTED IN REGISTRATION OF CLUBS ORDER FOR SCHEDULE 6[^c-229d2e0af09a7bd23d5830e11738b4e0][^c-a25a69d2233287d5cbe5ec5af15e73ab][^c-f5444886cd6b4fab8b90eaaec7e19853]
 
 Section 8(4).
 
@@ -899,7 +899,7 @@ Section 8(4).
 > </tbody>
 > </table>
 
-## SCHEDULE 3 — AMENDMENTS[^key-04cff7ddabe4da07192397f76bd7fd42]
+## SCHEDULE 3 — AMENDMENTS[^c-04cff7ddabe4da07192397f76bd7fd42]
 
 Section 17(1).
 
@@ -945,7 +945,7 @@ Section 17(1).
   - (i) for “cancels” substitute “ suspends or cancels ”;
   - (ii) after “send notice of the” insert “ suspension, ”.
 
-## SCHEDULE 4 — REPEALS[^key-1ac051043206fde8cdfc4520792b158b]
+## SCHEDULE 4 — REPEALS[^c-1ac051043206fde8cdfc4520792b158b]
 
 Section 17(2).
 
@@ -956,47 +956,47 @@ Section 17(2).
 
 ## Annotations
 
-[^key-8cb1b169d57e5c30b27baa9d23ce841e]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/18/section/1) in operation at 10.12.2012 by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-8cb1b169d57e5c30b27baa9d23ce841e]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/18/section/1) in operation at 10.12.2012 by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-eb2ff9b91a165986886586d9fd29234d]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/18/section/2) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-eb2ff9b91a165986886586d9fd29234d]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/18/section/2) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-e769cd97ce698af9ce7da49f3d8cef35]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/18/section/3) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-e769cd97ce698af9ce7da49f3d8cef35]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/18/section/3) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-2202729b5117b7bb18c5e4bbb735534f]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/18/section/4) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
+[^c-2202729b5117b7bb18c5e4bbb735534f]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/18/section/4) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
 
-[^key-eb818aefbf5cf3713c374507cb9b5848]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/18/section/6) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-eb818aefbf5cf3713c374507cb9b5848]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/18/section/6) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-69742cfc420fe5c1a47bc96cce74e34d]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/18/section/7) in operation at 10.12.2012 by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-69742cfc420fe5c1a47bc96cce74e34d]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/18/section/7) in operation at 10.12.2012 by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-3c37f688073ddda3d63c8a5d4fb10289]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/18/section/8) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-3c37f688073ddda3d63c8a5d4fb10289]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/18/section/8) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-8d3f6e4b9bf0b91adf4f4ff4c5b3243b]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/18/section/9) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-8d3f6e4b9bf0b91adf4f4ff4c5b3243b]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/18/section/9) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-b5ae21902cfc284fc83f0705bc95f099]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/18/section/10) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
+[^c-b5ae21902cfc284fc83f0705bc95f099]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/18/section/10) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
 
-[^key-6f038ba5aa077269365738dc920e607a]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/18/section/12) in operation at 1.4.2022 by [S.R. 2022/89](https://www.legislation.gov.uk/nisr/2022/89), [art. 2](https://www.legislation.gov.uk/nisr/2022/89/article/2)
+[^c-6f038ba5aa077269365738dc920e607a]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/18/section/12) in operation at 1.4.2022 by [S.R. 2022/89](https://www.legislation.gov.uk/nisr/2022/89), [art. 2](https://www.legislation.gov.uk/nisr/2022/89/article/2)
 
-[^key-8381468571881bf51b75cf227de19e2a]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/18/section/13) in operation at 1.3.2012 by [S.R. 2012/9](https://www.legislation.gov.uk/nisr/2012/9), [art. 2](https://www.legislation.gov.uk/nisr/2012/9/article/2)
+[^c-8381468571881bf51b75cf227de19e2a]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/18/section/13) in operation at 1.3.2012 by [S.R. 2012/9](https://www.legislation.gov.uk/nisr/2012/9), [art. 2](https://www.legislation.gov.uk/nisr/2012/9/article/2)
 
-[^key-904aebcad7b30624257d2397c3083625]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/18/section/14) in operation at 1.3.2012 by [S.R. 2012/9](https://www.legislation.gov.uk/nisr/2012/9), [art. 2](https://www.legislation.gov.uk/nisr/2012/9/article/2)
+[^c-904aebcad7b30624257d2397c3083625]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/18/section/14) in operation at 1.3.2012 by [S.R. 2012/9](https://www.legislation.gov.uk/nisr/2012/9), [art. 2](https://www.legislation.gov.uk/nisr/2012/9/article/2)
 
-[^key-e0a0d6d6bb20374d1c2e5acb1f1723ed]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/18/section/15) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-e0a0d6d6bb20374d1c2e5acb1f1723ed]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/18/section/15) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-8587df874c9df2e02e4d93ef055d71e4]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/18/section/17) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-8587df874c9df2e02e4d93ef055d71e4]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/18/section/17) in operation at 1.5.2012 by [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-859f16f09a98a7c79e5bb53c2ebbd2cd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/18/schedule/1) in operation at 1.5.2012 for specified purposes by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
+[^c-859f16f09a98a7c79e5bb53c2ebbd2cd]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/18/schedule/1) in operation at 1.5.2012 for specified purposes by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
 
-[^key-62b2f490ab588f5d9d7dc844895a9815]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/18/schedule/1) in operation at 10.12.2012 for specified purposes by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-62b2f490ab588f5d9d7dc844895a9815]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/18/schedule/1) in operation at 10.12.2012 for specified purposes by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-f5af0f0426a3ce7c77ef4b08ca686539]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/18/schedule/1) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
+[^c-f5af0f0426a3ce7c77ef4b08ca686539]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/18/schedule/1) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
 
-[^key-229d2e0af09a7bd23d5830e11738b4e0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/18/schedule/2) in operation at 1.5.2012 for specified purposes by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
+[^c-229d2e0af09a7bd23d5830e11738b4e0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/18/schedule/2) in operation at 1.5.2012 for specified purposes by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
 
-[^key-a25a69d2233287d5cbe5ec5af15e73ab]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/18/schedule/2) in operation at 10.12.2012 for specified purposes by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-a25a69d2233287d5cbe5ec5af15e73ab]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/18/schedule/2) in operation at 10.12.2012 for specified purposes by [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-f5444886cd6b4fab8b90eaaec7e19853]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/18/schedule/2) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
+[^c-f5444886cd6b4fab8b90eaaec7e19853]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/18/schedule/2) in operation at 1.1.2013 for specified purposes by [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
 
-[^key-04cff7ddabe4da07192397f76bd7fd42]: Commencement: Sch. 3 in operation at 1.5.2012 by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
+[^c-04cff7ddabe4da07192397f76bd7fd42]: Commencement: Sch. 3 in operation at 1.5.2012 by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
 
 [^M_I_4397a3cd-33f3-4ba9-b6cb-c2379072c6ce]: Commencement: Sch. 3 para. 1 in operation at 1.5.2012 by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
 
@@ -1014,4 +1014,4 @@ Section 17(2).
 
 [^M_I_f1448dfa-e20f-4d30-8119-2217ee410256]: Commencement: Sch. 3 para. 8 in operation at 1.5.2012 by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
 
-[^key-1ac051043206fde8cdfc4520792b158b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2011/18/schedule/4) in operation at 1.5.2012 by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
+[^c-1ac051043206fde8cdfc4520792b158b]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nia/2011/18/schedule/4) in operation at 1.5.2012 by [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)

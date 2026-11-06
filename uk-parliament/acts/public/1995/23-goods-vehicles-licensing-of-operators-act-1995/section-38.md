@@ -32,7 +32,7 @@ summary: ''
 - (b) any document, plate, mark or other thing by which, in pursuance of regulations, a vehicle is to be identified as being authorised to be used, or as being used, under an operator’s licence;
 - (c) any document evidencing the authorisation of any person for the purposes of sections 40 and 41;
 - (d) any certificate of qualification under section 49; and
-- (e) any certificate or diploma such as is mentioned in paragraph 13(1) or (1A)[^key-a369a3d895a266d1f42ac973e0a6ccc4] of Schedule 3.
+- (e) any certificate or diploma such as is mentioned in paragraph 13(1) or (1A)[^c-a369a3d895a266d1f42ac973e0a6ccc4] of Schedule 3.
 
 (3) A person guilty of an offence under subsection (1) is liable—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a369a3d895a266d1f42ac973e0a6ccc4]: Textual amendment: Words in [s. 38(2)(e)](https://www.legislation.gov.uk/ukpga/1995/23/section/38/2/e) inserted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/12) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-a369a3d895a266d1f42ac973e0a6ccc4]: Textual amendment: Words in [s. 38(2)(e)](https://www.legislation.gov.uk/ukpga/1995/23/section/38/2/e) inserted (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/12) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Deduction of tax and contributions for self-employed earners[^key-28f632cf67739c165c673318f2eec576]
+## 22. Deduction of tax and contributions for self-employed earners[^c-28f632cf67739c165c673318f2eec576]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28f632cf67739c165c673318f2eec576]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1988/1890/regulation/22) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-28f632cf67739c165c673318f2eec576]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1988/1890/regulation/22) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00048]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 

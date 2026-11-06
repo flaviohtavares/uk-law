@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Regulations about notices and publicity[^key-39015a6d39bbeac4468d44381eea1e14][^key-0d3bee5152169a342ab5277a0184c4ed]
+## 35. Regulations about notices and publicity[^c-39015a6d39bbeac4468d44381eea1e14][^c-0d3bee5152169a342ab5277a0184c4ed]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39015a6d39bbeac4468d44381eea1e14]: Commencement: S. 35 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-39015a6d39bbeac4468d44381eea1e14]: Commencement: S. 35 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-0d3bee5152169a342ab5277a0184c4ed]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2024/3/section/35) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-0d3bee5152169a342ab5277a0184c4ed]: Commencement: [S. 35](https://www.legislation.gov.uk/asc/2024/3/section/35) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

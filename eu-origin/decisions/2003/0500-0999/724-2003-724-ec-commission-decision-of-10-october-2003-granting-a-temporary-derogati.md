@@ -31,10 +31,10 @@ summary: ''
 
 of 10 October 2003 granting a temporary derogation from Directive 82/894/EEC as regards the frequency of notification of primary outbreaks of bovine spongiform encephalopathy (Text with EEA relevance) (notified under document number C(2003) 3561) (revoked)
 
-[^key-24123189c313f5f87ef4bb25f43035ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24123189c313f5f87ef4bb25f43035ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-24123189c313f5f87ef4bb25f43035ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-24123189c313f5f87ef4bb25f43035ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-24123189c313f5f87ef4bb25f43035ba]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-24123189c313f5f87ef4bb25f43035ba]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

@@ -22,49 +22,49 @@ summary: ''
 
 Section 26
 
-### Part 1 — Membership[^key-a51cb62485c9bb3cfce2711822c66f65]
+### Part 1 — Membership[^c-a51cb62485c9bb3cfce2711822c66f65]
 
 **No longer in force.**
 
-#### General rules[^key-a51cb62485c9bb3cfce2711822c66f65]
+#### General rules[^c-a51cb62485c9bb3cfce2711822c66f65]
 
-**1.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Special rules where President's or Deputy President's place unfilled[^key-a51cb62485c9bb3cfce2711822c66f65]
+#### Special rules where President's or Deputy President's place unfilled[^c-a51cb62485c9bb3cfce2711822c66f65]
 
-**2.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Disqualification[^key-a51cb62485c9bb3cfce2711822c66f65]
+#### Disqualification[^c-a51cb62485c9bb3cfce2711822c66f65]
 
-**5.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Non-judicial members of selection commissions[^key-a51cb62485c9bb3cfce2711822c66f65]
+#### Non-judicial members of selection commissions[^c-a51cb62485c9bb3cfce2711822c66f65]
 
-**6.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Chairing of selection commissions[^key-a51cb62485c9bb3cfce2711822c66f65]
+#### Chairing of selection commissions[^c-a51cb62485c9bb3cfce2711822c66f65]
 
-**7.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Interpretation[^key-a51cb62485c9bb3cfce2711822c66f65]
+#### Interpretation[^c-a51cb62485c9bb3cfce2711822c66f65]
 
-**8.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Dissolution[^key-a51cb62485c9bb3cfce2711822c66f65]
+### Part 2 — Dissolution[^c-a51cb62485c9bb3cfce2711822c66f65]
 
 **No longer in force.**
 
-**10.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a51cb62485c9bb3cfce2711822c66f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Duty to convene commission: special rules
 
@@ -75,7 +75,7 @@ Section 26
 - (a) a selection commission for the office of President has been convened and not dissolved;
 - (b) the Lord Chancellor is under a duty to convene such a selection commission.
 
-(2) Where sub-paragraph (1) applies, the Lord Chancellor must convene a selection commission for the office of Deputy President as soon as practicable after a person has been selected as a result of the convening of[^key-b8faf0ce15316bbce725b51e23ed6eb0] a selection commission in respect of the vacancy in the office of President.
+(2) Where sub-paragraph (1) applies, the Lord Chancellor must convene a selection commission for the office of Deputy President as soon as practicable after a person has been selected as a result of the convening of[^c-b8faf0ce15316bbce725b51e23ed6eb0] a selection commission in respect of the vacancy in the office of President.
 
 (3) Sub-paragraph (1) applies to the duty under sub-paragraph (2) to convene a commission as it applies to all other such duties.
 
@@ -88,14 +88,14 @@ Section 26
 - (c) a selection commission for the office of Deputy President has been convened and not dissolved;
 - (d) the Lord Chancellor is under a duty to convene such a selection commission.
 
-(2) Where sub-paragraph (1) applies, the Lord Chancellor must convene a selection commission for the office of judge as soon as practicable after a person has been selected as a result of the convening of[^key-3ab3d9746cda726719fd062783da4031] a selection commission in respect of the vacancy in the office of President or Deputy President.
+(2) Where sub-paragraph (1) applies, the Lord Chancellor must convene a selection commission for the office of judge as soon as practicable after a person has been selected as a result of the convening of[^c-3ab3d9746cda726719fd062783da4031] a selection commission in respect of the vacancy in the office of President or Deputy President.
 
 (3) Sub-paragraph (1) applies to the duty under sub-paragraph (2) to convene a commission as it applies to all other such duties.
 
 ## Annotations
 
-[^key-a51cb62485c9bb3cfce2711822c66f65]: Textual amendment: Sch. 8 Pts. 1, 2 omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/1/a); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-a51cb62485c9bb3cfce2711822c66f65]: Textual amendment: Sch. 8 Pts. 1, 2 omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/1/a); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-b8faf0ce15316bbce725b51e23ed6eb0]: Textual amendment: Words in [Sch. 8 para. 13(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/8/paragraph/13/2) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(11)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/11); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-b8faf0ce15316bbce725b51e23ed6eb0]: Textual amendment: Words in [Sch. 8 para. 13(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/8/paragraph/13/2) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(11)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/11); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
 
-[^key-3ab3d9746cda726719fd062783da4031]: Textual amendment: Words in [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/8/paragraph/14/2) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(12)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/12); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-3ab3d9746cda726719fd062783da4031]: Textual amendment: Words in [Sch. 8 para. 14(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/8/paragraph/14/2) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 7(12)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/7/12); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)

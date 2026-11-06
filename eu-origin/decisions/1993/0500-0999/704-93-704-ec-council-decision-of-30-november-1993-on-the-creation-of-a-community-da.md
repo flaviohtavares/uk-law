@@ -32,10 +32,10 @@ summary: ''
 
 of 30 November 1993 on the creation of a Community database on road accidents (revoked)
 
-[^key-a3fec4e6d7b82c36e7cc886f4f76f25c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3fec4e6d7b82c36e7cc886f4f76f25c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-a3fec4e6d7b82c36e7cc886f4f76f25c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-a3fec4e6d7b82c36e7cc886f4f76f25c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3fec4e6d7b82c36e7cc886f4f76f25c]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3fec4e6d7b82c36e7cc886f4f76f25c]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

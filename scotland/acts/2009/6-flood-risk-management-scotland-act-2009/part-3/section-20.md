@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. SEPA to assess possible contribution of alteration etc. of natural features and characteristics[^key-fefb4335d3cf752b0b02d329b0d58196]
+## 20. SEPA to assess possible contribution of alteration etc. of natural features and characteristics[^c-fefb4335d3cf752b0b02d329b0d58196]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fefb4335d3cf752b0b02d329b0d58196]: Commencement: S. 20 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-fefb4335d3cf752b0b02d329b0d58196]: Commencement: S. 20 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

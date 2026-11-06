@@ -164,7 +164,7 @@ Regulation 48
 - (b) in sub-paragraph (a)(ii) for “6(2)” substitute “ 6(3)(a) ”; and
 - (c) in sub-paragraph (a)(iii) for “7(2)” substitute “ 7(3)(a) ”.
 
-**6.**[^key-d67f130c7d584a2b81ef073637f4018d] (1) Regulation 9 (application under section 1088 to make an address unavailable for public inspection by an individual) is amended as follows.
+**6.**[^c-d67f130c7d584a2b81ef073637f4018d] (1) Regulation 9 (application under section 1088 to make an address unavailable for public inspection by an individual) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -230,7 +230,7 @@ Regulation 48
 
 ## Annotations
 
-[^key-d67f130c7d584a2b81ef073637f4018d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/339/schedule/5/paragraph/6) in force at 30.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/339/regulation/1/2)
+[^c-d67f130c7d584a2b81ef073637f4018d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2016/339/schedule/5/paragraph/6) in force at 30.6.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/339/regulation/1/2)
 
 [^c23151161]: Marginal citation: Sub-paragraph (bb) was inserted by regulation 42(3) of the European Public Limited-[Liability Company (Amendment) Regulations 2009 (S.I. 2009/2400)](https://www.legislation.gov.uk/uksi/2009/2400).
 

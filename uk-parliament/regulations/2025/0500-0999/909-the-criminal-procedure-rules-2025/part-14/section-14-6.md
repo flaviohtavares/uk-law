@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.6. Reconsideration of police bail by magistrates’ court[^key-0ebbb97348b8a1caadf6cbf26f8bbfdf]
+## 14.6. Reconsideration of police bail by magistrates’ court[^c-0ebbb97348b8a1caadf6cbf26f8bbfdf]
 
 *Extent: E+W*
 
@@ -83,7 +83,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0ebbb97348b8a1caadf6cbf26f8bbfdf]: Commencement: [Rule 14.6](https://www.legislation.gov.uk/uksi/2025/909/rule/14.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0ebbb97348b8a1caadf6cbf26f8bbfdf]: Commencement: [Rule 14.6](https://www.legislation.gov.uk/uksi/2025/909/rule/14.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00354]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 5B was inserted by section 30 of the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and amended by section 129(3) of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), section 109 of, and paragraph 183 of Schedule 8 and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 198 of the Extradition Act [2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41).
 

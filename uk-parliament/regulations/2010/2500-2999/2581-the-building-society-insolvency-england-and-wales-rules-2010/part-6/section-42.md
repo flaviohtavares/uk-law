@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Business at first meetings of creditors and contributories[^key-92209b1bd245489db0f066784af5a4e8]
+## 42. Business at first meetings of creditors and contributories[^c-92209b1bd245489db0f066784af5a4e8]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ in place of the members nominated by the Bank of England and the appropriate reg
 
 ## Annotations
 
-[^key-92209b1bd245489db0f066784af5a4e8]: Commencement: Rule 42 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-92209b1bd245489db0f066784af5a4e8]: Commencement: Rule 42 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^M_F_7232384c-0ea1-45ab-a4ac-6780835287f8]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/5)

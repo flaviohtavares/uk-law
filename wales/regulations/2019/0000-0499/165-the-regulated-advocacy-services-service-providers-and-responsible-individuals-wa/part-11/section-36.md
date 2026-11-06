@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Supervision of management of the service[^key-d7cf5bce8859c75421888dbcb051814d]
+## 36. Supervision of management of the service[^c-d7cf5bce8859c75421888dbcb051814d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must supervise the management of the service, which i
 
 ## Annotations
 
-[^key-d7cf5bce8859c75421888dbcb051814d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/165/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-d7cf5bce8859c75421888dbcb051814d]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2019/165/regulation/36) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

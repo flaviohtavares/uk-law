@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208.[^key-938352b06706a81e5ca2d92f5f2352a7]
+## 208.[^c-938352b06706a81e5ca2d92f5f2352a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the heading to Article 5, substitute “ Register ”.
 
 ## Annotations
 
-[^key-938352b06706a81e5ca2d92f5f2352a7]: Commencement: Reg. 208 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-938352b06706a81e5ca2d92f5f2352a7]: Commencement: Reg. 208 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Opt-in selections[^key-218c478a68264cc4523685eb5af7cbf0]
+## 19. Opt-in selections[^c-218c478a68264cc4523685eb5af7cbf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-218c478a68264cc4523685eb5af7cbf0]: Commencement: Reg. 19 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-218c478a68264cc4523685eb5af7cbf0]: Commencement: Reg. 19 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Offence of keeping vehicle which does not meet insurance requirements: immobilisation, removal and disposal of vehicles[^key-e4dfa0594c89fc45e00a659a76d78c22]
+## SCHEDULE 2A — Offence of keeping vehicle which does not meet insurance requirements: immobilisation, removal and disposal of vehicles[^c-e4dfa0594c89fc45e00a659a76d78c22]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Section 144D
 
 ### Immobilisation
 
-**1.**[^key-e4dfa0594c89fc45e00a659a76d78c22] (1) Regulations may make provision with respect to any case where an authorised person has reason to believe that, on or after such date as may be prescribed, an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place.
+**1.**[^c-e4dfa0594c89fc45e00a659a76d78c22] (1) Regulations may make provision with respect to any case where an authorised person has reason to believe that, on or after such date as may be prescribed, an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place.
 
 (2) The regulations may provide that the authorised person or a person acting under his direction may—
 
@@ -60,7 +60,7 @@ and “ **disabled person's badge** ” means a badge issued, or having effect a
 
 ### Offences connected with immobilisation
 
-**2.**[^key-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may provide that a person contravening provision made under paragraph 1(8) above is guilty of an offence.
+**2.**[^c-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may provide that a person contravening provision made under paragraph 1(8) above is guilty of an offence.
 
 (2) The regulations may provide that a person who, without being authorised to do so in accordance with provision made under paragraph 1 above, removes or attempts to remove an immobilisation device fixed to a vehicle in accordance with the regulations is guilty of an offence.
 
@@ -81,7 +81,7 @@ he is guilty of an offence.
 
 ### Removal and disposal of vehicles
 
-**3.**[^key-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may make provision with respect to any case where—
+**3.**[^c-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may make provision with respect to any case where—
 
 - (a) an authorised person has reason to believe that an offence under section 144A of this Act is being committed as regards a vehicle which is stationary on a road or other public place, and such conditions as may be prescribed are fulfilled, or
 - (b) an authorised person has reason to believe that such an offence was being committed as regards a vehicle at a time when an immobilisation device which is fixed to the vehicle was fixed to it in accordance with the regulations, and such conditions as may be prescribed are fulfilled.
@@ -127,7 +127,7 @@ may recover from the vehicle's owner (whether or not a claim is made under provi
 
 ### Offences as to securing possession of vehicles
 
-**4.**[^key-e4dfa0594c89fc45e00a659a76d78c22] The regulations may provide that where—
+**4.**[^c-e4dfa0594c89fc45e00a659a76d78c22] The regulations may provide that where—
 
 - (a) a person makes a declaration with a view to securing possession of a vehicle purported to have been delivered into the custody of a person in accordance with provision made under paragraph 3 above,
 - (b) the declaration is that no offence under section 144A of this Act is or was being committed as regards the vehicle, and
@@ -137,29 +137,29 @@ he is guilty of an offence.
 
 ### Disputes
 
-**5.**[^key-e4dfa0594c89fc45e00a659a76d78c22] The regulations may make provision about the proceedings to be followed where a dispute occurs as a result of the regulations, and may in particular make provision—
+**5.**[^c-e4dfa0594c89fc45e00a659a76d78c22] The regulations may make provision about the proceedings to be followed where a dispute occurs as a result of the regulations, and may in particular make provision—
 
 - (a) for an application to be made to a magistrates' court or (in Scotland) to the sheriff, or
 - (b) for a court to order a sum to be paid by the Secretary of State.
 
 ### Authorised persons
 
-**6.**[^key-e4dfa0594c89fc45e00a659a76d78c22] As regards anything falling to be done under the regulations (such as receiving payment of a charge or other sum) the regulations may provide that it may be done—
+**6.**[^c-e4dfa0594c89fc45e00a659a76d78c22] As regards anything falling to be done under the regulations (such as receiving payment of a charge or other sum) the regulations may provide that it may be done—
 
 - (a) by an authorised person, or
 - (b) by an authorised person or a person acting under his direction.
 
 ### Application of Road Traffic Offenders Act 1988
 
-**7.**[^key-e4dfa0594c89fc45e00a659a76d78c22] The regulations may make provision for the application of any or all of sections 1, 6, 11 and 12(1) of the Road Traffic Offenders Act 1988 to an offence for which provision is made by the regulations.
+**7.**[^c-e4dfa0594c89fc45e00a659a76d78c22] The regulations may make provision for the application of any or all of sections 1, 6, 11 and 12(1) of the Road Traffic Offenders Act 1988 to an offence for which provision is made by the regulations.
 
 ### Interpretation
 
-**8.**[^key-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may make provision as to the meaning for the purposes of the regulations of “owner” as regards a vehicle.
+**8.**[^c-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may make provision as to the meaning for the purposes of the regulations of “owner” as regards a vehicle.
 
 (2) In particular, the regulations may provide that for the purposes of the regulations the owner of a vehicle is taken to be the person in whose name it is then registered under the Vehicle Excise and Registration Act 1994.
 
-**9.**[^key-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may make provision as to the meaning in the regulations of “authorised person”.
+**9.**[^c-e4dfa0594c89fc45e00a659a76d78c22] (1) The regulations may make provision as to the meaning in the regulations of “authorised person”.
 
 (2) In particular, the regulations may provide that—
 
@@ -167,11 +167,11 @@ he is guilty of an offence.
 - (b) an authorised person may be a local authority or an employee of a local authority or a member of a police force or some other person, and
 - (c) different persons may be authorised for the purposes of different provisions of the regulations.
 
-**10.**[^key-e4dfa0594c89fc45e00a659a76d78c22] In this Schedule—
+**10.**[^c-e4dfa0594c89fc45e00a659a76d78c22] In this Schedule—
 
 - (a) references to an immobilisation device are to a device or appliance which is an immobilisation device for the purposes of section 104 of the Road Traffic Regulation Act 1984 (immobilisation of vehicles illegally parked), and
 - (b) references to an immobilisation notice are to a notice fixed to a vehicle in accordance with the regulations.
 
 ## Annotations
 
-[^key-e4dfa0594c89fc45e00a659a76d78c22]: Textual amendment: Sch. 2A inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/49/schedule/5); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/19/article/2/b)
+[^c-e4dfa0594c89fc45e00a659a76d78c22]: Textual amendment: Sch. 2A inserted (4.2.2011) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2006/49/section/22/3), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/49/schedule/5); [S.I. 2011/19](https://www.legislation.gov.uk/uksi/2011/19), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/19/article/2/b)

@@ -50,7 +50,7 @@ summary: ''
 
 (8) Where at any time—
 
-- (a) a licensed bookmaker dies or is adjudged bankrupt, or his business becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^key-83dede298fdfb2d380c92fe04e6f24b3]... or a receiver of his property or a committee or guardian is appointed with power to manage the business; or
+- (a) a licensed bookmaker dies or is adjudged bankrupt, or his business becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^c-83dede298fdfb2d380c92fe04e6f24b3]... or a receiver of his property or a committee or guardian is appointed with power to manage the business; or
 - (b) in the case of a body corporate, a winding-up is commenced or a receiver is appointed as aforesaid;
 
 except for the purposes of the renewal of the licence, the personal representative or, as the case requires, the assignees or trustee in bankruptcy, official assignee, [^M_F_494ea812-1a50-4c6a-b77f-08e59d558203]... receiver, committee, guardian or liquidator shall be deemed to be the licensed bookmaker and—
@@ -65,7 +65,7 @@ except for the purposes of the renewal of the licence, the personal representati
 
 whichever first occurs.
 
-(10) The authority conferred on any person by virtue of paragraph (8) or (9) to carry on a business under a licence shall be suspended on the expiration of the period of 2 weeks from the date when he commenced to carry on that business unless during that period he has served notice that he is carrying on the business by virtue of that paragraph (and, if he is carrying it on by virtue of paragraph (8), the capacity in which he is doing so) upon—[^key-b8f7e2f5e0bbc31432eac023db754cca]
+(10) The authority conferred on any person by virtue of paragraph (8) or (9) to carry on a business under a licence shall be suspended on the expiration of the period of 2 weeks from the date when he commenced to carry on that business unless during that period he has served notice that he is carrying on the business by virtue of that paragraph (and, if he is carrying it on by virtue of paragraph (8), the capacity in which he is doing so) upon—[^c-b8f7e2f5e0bbc31432eac023db754cca]
 
 - (a) the clerk of petty sessions; and
 - (b) the district commander of the police district in which the bookmaker's licence was granted, or as the case may be, the licensed office is situated;
@@ -76,8 +76,8 @@ but the authority, if so suspended, shall revive upon the service of such a noti
 
 [^c17000781]: Textual amendment: [2004 NI 1](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-83dede298fdfb2d380c92fe04e6f24b3]: Textual amendment: Words in art. 15(8)(a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-83dede298fdfb2d380c92fe04e6f24b3]: Textual amendment: Words in art. 15(8)(a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^M_F_494ea812-1a50-4c6a-b77f-08e59d558203]: Textual amendment: Words in art. 15(8) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-b8f7e2f5e0bbc31432eac023db754cca]: Textual amendment: Words in [art. 15(10)](https://www.legislation.gov.uk/nisi/1985/1204/article/15/10) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-b8f7e2f5e0bbc31432eac023db754cca]: Textual amendment: Words in [art. 15(10)](https://www.legislation.gov.uk/nisi/1985/1204/article/15/10) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

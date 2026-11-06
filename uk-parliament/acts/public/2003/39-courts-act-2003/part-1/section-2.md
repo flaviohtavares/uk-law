@@ -41,7 +41,7 @@ summary: ''
 - (b) the Master of the Rolls,
 - (c)[^c19136601] the President of the Queen's Bench Division,
 - (d) the President of the Family Division, and
-- (e) the President of the Business and Property Division[^key-72e730532aa5802a76b8772f96df089c].
+- (e) the President of the Business and Property Division[^c-72e730532aa5802a76b8772f96df089c].
 
 as to what effect (if any) the order might have on the proper and efficient administration of justice.
 
@@ -55,4 +55,4 @@ as to what effect (if any) the order might have on the proper and efficient admi
 
 [^c19136601]: Textual amendment: S. 2(7)(c)-(e) substituted (1.10.2005) for s. 2(7)(c)(d) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 309(1)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/309/1); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 
-[^key-72e730532aa5802a76b8772f96df089c]: Textual amendment: Words in [s. 2(7)(e)](https://www.legislation.gov.uk/ukpga/2003/39/section/2/7/e) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 22(2)(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/22/2/a)
+[^c-72e730532aa5802a76b8772f96df089c]: Textual amendment: Words in [s. 2(7)(e)](https://www.legislation.gov.uk/ukpga/2003/39/section/2/7/e) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 22(2)(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/22/2/a)

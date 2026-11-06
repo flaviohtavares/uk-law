@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Complaints to employment tribunals etc[^key-229f14ba4cbc3bbc6edaa87582e5c9f5][^key-b57fa28c0418038fc55dfbf8a2b894d3]
+## 18. Complaints to employment tribunals etc[^c-229f14ba4cbc3bbc6edaa87582e5c9f5][^c-b57fa28c0418038fc55dfbf8a2b894d3]
 
 *Extent: E+W+S*
 
@@ -24,21 +24,21 @@ summary: ''
 
 (2) Subject to regulation 17(5), an agency worker may present a complaint to an employment tribunal that a temporary work agency or the hirer has infringed a right conferred on the agency worker by regulation 5, 12, 13 or 17 (2).
 
-(3)[^key-513db5b7a2468117285b178d86214c2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-513db5b7a2468117285b178d86214c2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to paragraph (5), an employment tribunal shall not consider a complaint under this regulation unless it is presented before the end of the period of six[^key-19ff3142e3f4ebee08e55db19c31691f] months beginning—
+(4) Subject to paragraph (5), an employment tribunal shall not consider a complaint under this regulation unless it is presented before the end of the period of six[^c-19ff3142e3f4ebee08e55db19c31691f] months beginning—
 
-- (a) in the case of an alleged infringement of a right conferred by regulation 5, 12 or 17(2) [^key-a41bbf4859b4e24634faac68292d6f20]..., with the date of the infringement, detriment or breach to which the complaint relates or, where an act or failure to act is part of a series of similar acts or failures comprising the infringement, detriment or breach, the last of them;
+- (a) in the case of an alleged infringement of a right conferred by regulation 5, 12 or 17(2) [^c-a41bbf4859b4e24634faac68292d6f20]..., with the date of the infringement, detriment or breach to which the complaint relates or, where an act or failure to act is part of a series of similar acts or failures comprising the infringement, detriment or breach, the last of them;
 - (b) in the case of an alleged infringement of the right conferred by regulation 13, with the date, or if more than one the last date, on which other individuals, whether or not employed by the hirer, were informed of the vacancy.
 
-(4A)[^key-ee9835e1e3c9a5ce532028cd1e525974] Regulation 18A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (4).
+(4A)[^c-ee9835e1e3c9a5ce532028cd1e525974] Regulation 18A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (4).
 
 (5) A tribunal may consider any such complaint which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
 (6) For the purposes of calculating the date of the infringement, detriment or breach, under paragraph (4)(a)—
 
-- (a) where a term in a contract infringes a right conferred by regulation 5, 12 or 17(2), [^key-ef130550c238ef9922383024ccb7dc5a]... that infringement or breach shall be treated, subject to sub-paragraph (b), as taking place on each day of the period during which the term infringes that right or breaches that duty;
-- (b) a deliberate failure to act that is contrary to regulation 5, 12 or 17(2) [^key-bcbf04d7bf8943ea40313c9133f5bef7]... shall be treated as done when it was decided on.
+- (a) where a term in a contract infringes a right conferred by regulation 5, 12 or 17(2), [^c-ef130550c238ef9922383024ccb7dc5a]... that infringement or breach shall be treated, subject to sub-paragraph (b), as taking place on each day of the period during which the term infringes that right or breaches that duty;
+- (b) a deliberate failure to act that is contrary to regulation 5, 12 or 17(2) [^c-bcbf04d7bf8943ea40313c9133f5bef7]... shall be treated as done when it was decided on.
 
 (7) In the absence of evidence establishing the contrary, a person (P) shall be taken for the purposes of paragraph (6)(b) to decide not to act—
 
@@ -65,8 +65,8 @@ summary: ''
 
 (12) Subject to paragraph (13), where a tribunal orders compensation under paragraph (8)(b), any compensation which relates to an infringement or breach of the rights—
 
-- (a) conferred by regulation 5 [^key-a7f8a58e5ea09727e42fc5e409c768c7]...; or
-- (b) conferred by regulation 17(2) to the extent that the infringement or breach relates to regulation 5 [^key-798fc48fc0d6fb3137ffccdcd0a62f7f]...,
+- (a) conferred by regulation 5 [^c-a7f8a58e5ea09727e42fc5e409c768c7]...; or
+- (b) conferred by regulation 17(2) to the extent that the infringement or breach relates to regulation 5 [^c-798fc48fc0d6fb3137ffccdcd0a62f7f]...,
 
 shall not be less than two weeks' pay, calculated in accordance with regulation 19.
 
@@ -74,9 +74,9 @@ shall not be less than two weeks' pay, calculated in accordance with regulation 
 
 (14) Where a tribunal finds that regulation 9(4) applies and orders compensation under paragraph (8)(b), the tribunal may make an additional award of compensation under paragraph 8(b), which shall not be more than £5,000, and where there is more than one respondent the proportion of any additional compensation awarded that is payable by each of them shall be such as the tribunal considers just and equitable having regard to the extent to which it considers each to have been responsible for the fact that regulation 9(4)(a) applies.
 
-(14A)[^key-0fa3028c10e10ae1a0f1dee1ef0b4be2] In relation to an infringement or breach for which a tribunal orders a respondent to pay compensation under paragraph (8)(b), the tribunal may order the respondent also to pay a penalty under section 12A of the Employment Tribunals Act 1996 only if the tribunal decides not to exercise the power under paragraph (14) to make an additional award of compensation against the respondent.
+(14A)[^c-0fa3028c10e10ae1a0f1dee1ef0b4be2] In relation to an infringement or breach for which a tribunal orders a respondent to pay compensation under paragraph (8)(b), the tribunal may order the respondent also to pay a penalty under section 12A of the Employment Tribunals Act 1996 only if the tribunal decides not to exercise the power under paragraph (14) to make an additional award of compensation against the respondent.
 
-(15) Compensation in respect of treating an agency worker in a manner which infringes the right conferred by regulation 5, 12 or 13 [^key-5a91547c5e67a1b33ccea937dcf49644]..., shall not include compensation for injury to feelings.
+(15) Compensation in respect of treating an agency worker in a manner which infringes the right conferred by regulation 5, 12 or 13 [^c-5a91547c5e67a1b33ccea937dcf49644]..., shall not include compensation for injury to feelings.
 
 (16) In ascertaining the loss the tribunal shall apply the same rule concerning the duty of a person to mitigate loss as applies to damages recoverable under the common law of England and Wales or (as the case may be) the law of Scotland.
 
@@ -89,26 +89,26 @@ shall not be less than two weeks' pay, calculated in accordance with regulation 
 
 ## Annotations
 
-[^key-229f14ba4cbc3bbc6edaa87582e5c9f5]: Modification: Reg. 18 applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-229f14ba4cbc3bbc6edaa87582e5c9f5]: Modification: Reg. 18 applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-b57fa28c0418038fc55dfbf8a2b894d3]: Modification: Reg. 18 applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-b57fa28c0418038fc55dfbf8a2b894d3]: Modification: Reg. 18 applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-513db5b7a2468117285b178d86214c2b]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/3) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-513db5b7a2468117285b178d86214c2b]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/3) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-19ff3142e3f4ebee08e55db19c31691f]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/4) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/17); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-19ff3142e3f4ebee08e55db19c31691f]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/4) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/17); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-a41bbf4859b4e24634faac68292d6f20]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/4/a) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-a41bbf4859b4e24634faac68292d6f20]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/4/a) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-ee9835e1e3c9a5ce532028cd1e525974]: Textual amendment: Reg. 18(4A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/62)
+[^c-ee9835e1e3c9a5ce532028cd1e525974]: Textual amendment: Reg. 18(4A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/62)
 
-[^key-ef130550c238ef9922383024ccb7dc5a]: Textual amendment: Words in [reg. 18(6)(a)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/6/a) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-ef130550c238ef9922383024ccb7dc5a]: Textual amendment: Words in [reg. 18(6)(a)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/6/a) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-bcbf04d7bf8943ea40313c9133f5bef7]: Textual amendment: Words in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/6/b) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-bcbf04d7bf8943ea40313c9133f5bef7]: Textual amendment: Words in [reg. 18(6)(b)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/6/b) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/d) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-a7f8a58e5ea09727e42fc5e409c768c7]: Textual amendment: Words in [reg. 18(12)(a)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/12/a) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-a7f8a58e5ea09727e42fc5e409c768c7]: Textual amendment: Words in [reg. 18(12)(a)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/12/a) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/e) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-798fc48fc0d6fb3137ffccdcd0a62f7f]: Textual amendment: Words in [reg. 18(12)(b)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/12/b) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(f)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/f) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-798fc48fc0d6fb3137ffccdcd0a62f7f]: Textual amendment: Words in [reg. 18(12)(b)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/12/b) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(f)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/f) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-0fa3028c10e10ae1a0f1dee1ef0b4be2]: Textual amendment: Reg. 18(14A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/6) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
+[^c-0fa3028c10e10ae1a0f1dee1ef0b4be2]: Textual amendment: Reg. 18(14A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/6) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
 
-[^key-5a91547c5e67a1b33ccea937dcf49644]: Textual amendment: Words in [reg. 18(15)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/15) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(g)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-5a91547c5e67a1b33ccea937dcf49644]: Textual amendment: Words in [reg. 18(15)](https://www.legislation.gov.uk/uksi/2010/93/regulation/18/15) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(5)(g)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/5/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Exercise of power of investment: further provision[^key-78b57a2a9dcf4ef076b8e73f9fa2646f]
+## 20. Exercise of power of investment: further provision[^c-78b57a2a9dcf4ef076b8e73f9fa2646f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78b57a2a9dcf4ef076b8e73f9fa2646f]: Commencement: S. 20 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-78b57a2a9dcf4ef076b8e73f9fa2646f]: Commencement: S. 20 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

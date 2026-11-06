@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*), 131(1) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-816d41b8a277824b9a3abcccbe21f4c8]
+## 1. Citation, commencement and interpretation[^c-816d41b8a277824b9a3abcccbe21f4c8]
 
 (1) These Regulations may be cited as the Income Support (General) (Standard Interest Rate Amendment) Regulations (Northern Ireland) 1997 and shall come into operation on 13th April 1997.
 
@@ -60,11 +60,11 @@ and for this purpose, the expressions “claimant” and “benefit week” have
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of Schedule 3 to the Income Support Regulations[^key-79db277dbacb07815e40d7f56b022519]
+## 2. Amendment of Schedule 3 to the Income Support Regulations[^c-79db277dbacb07815e40d7f56b022519]
 
 In Schedule 3 to the Income Support Regulations[^f00007] (housing costs), in paragraph 12(1)(*a*) (standard rate of interest on qualifying loans) for “6·89 per cent.” there shall be substituted “7·20 per cent.”.
 
-## 3. Revocation[^key-c1f509bb4846b879cb6ad3a9489a57d0]
+## 3. Revocation[^c-c1f509bb4846b879cb6ad3a9489a57d0]
 
 The Income Support (General) (Standard Interest Rate Amendment No. 3) Regulations (Northern Ireland) 1996[^f00008] are hereby revoked save that those Regulations shall continue to have effect until the day before the first day of the benefit week having effect in relation to any particular claimant for the purpose of regulation 1(2) of these Regulations.
 
@@ -86,7 +86,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-816d41b8a277824b9a3abcccbe21f4c8]: Commencement: Reg. 1 in operation at 13.4.1997 with effect in accordance with reg. 1(2)
+[^c-816d41b8a277824b9a3abcccbe21f4c8]: Commencement: Reg. 1 in operation at 13.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00002]: Footnote: Paragraph 7 was substituted by regulation 7(9) of [S.R. 1990 No. 398](https://www.legislation.gov.uk/nisr/1990/398)
 
@@ -98,10 +98,10 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-79db277dbacb07815e40d7f56b022519]: Commencement: Reg. 2 in operation at 13.4.1997 with effect in accordance with reg. 1(2)
+[^c-79db277dbacb07815e40d7f56b022519]: Commencement: Reg. 2 in operation at 13.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00007]: Footnote: Schedule 3 was substituted by Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301); paragraph 12 was amended by regulation 2 of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434) and regulation 2 of [S.R. 1996 No. 545](https://www.legislation.gov.uk/nisr/1996/545)
 
-[^key-c1f509bb4846b879cb6ad3a9489a57d0]: Commencement: Reg. 3 in operation at 13.4.1997 with effect in accordance with reg. 1(2)
+[^c-c1f509bb4846b879cb6ad3a9489a57d0]: Commencement: Reg. 3 in operation at 13.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [S.R. 1996 No. 545](https://www.legislation.gov.uk/nisr/1996/545)

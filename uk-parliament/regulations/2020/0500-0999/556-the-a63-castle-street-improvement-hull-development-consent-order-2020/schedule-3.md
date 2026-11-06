@@ -22,7 +22,7 @@ summary: ''
 
 Articles 11 and 15
 
-### PART 1 — TRUNK ROADS[^key-f34b67bb27bbb01933c7d9f2d9d12ade]
+### PART 1 — TRUNK ROADS[^c-f34b67bb27bbb01933c7d9f2d9d12ade]
 
 | *(1)* *Road* | *(2)* *Extent* |
 | --- | --- |
@@ -36,7 +36,7 @@ Articles 11 and 15
 | A63 Westbound Queen Street on-slip<br>Kingston Upon Hull | A63 Westbound Queen Street on-slip, from point 5/27 to point 5/26 on the Streets, Rights of Way and Access Plans Sheet 5 |
 | A63 Mainline<br>Kingston Upon Hull | A63 from point 2/1 to point 5/34 on the Streets, Rights of Way and Access Plans Sheet 2, Sheet 3 and Sheet 5 |
 
-### PART 2 — OTHER ROAD CLASSIFICATIONS[^key-15e08907e694051932f1ee22417ac2c2]
+### PART 2 — OTHER ROAD CLASSIFICATIONS[^c-15e08907e694051932f1ee22417ac2c2]
 
 | *(1)* *Road* | *(2)* *Extent* | *(3)* *Classification* |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Articles 11 and 15
 | Market Place<br>Kingston Upon Hull | Market Place, from point 5/24 to point 5/25 and from point 5/31 to point 5/32 on the Streets, Rights of Way and Access Plans Sheet 5 | Classified un-numbered |
 | Queen Street<br>Kingston Upon Hull | Queen Street, from point 5/28 to point 5/27 and point 5/29 on the Streets, Rights of Way and Access Plans Sheet 5 | Unclassified |
 
-### PART 3 — ROADS SUBJECT TO 30 MILES PER HOUR LIMIT[^key-365d667ee369e097b976105facf4e780]
+### PART 3 — ROADS SUBJECT TO 30 MILES PER HOUR LIMIT[^c-365d667ee369e097b976105facf4e780]
 
 | *(1)* *Area* | *(2)* *Length of road* |
 | --- | --- |
@@ -74,7 +74,7 @@ Articles 11 and 15
 | A63 Westbound Queen Street off-slip<br>Kingston Upon Hull | A63 Westbound Queen Street off-slip, from point 5/37 to point 5/30 on the Traffic Regulation Plans Sheet 5 |
 | A63 Westbound Queen Street on-slip<br>Kingston Upon Hull | A63 Westbound Queen Street on-slip, from point 5/27 to point 5/36 on the Traffic Regulation Plans Sheet 5 |
 
-### PART 4 — ROADS SUBJECT TO 40 MILES PER HOUR LIMIT[^key-4bb897fb37bfe4124361ed0babbbdc5e]
+### PART 4 — ROADS SUBJECT TO 40 MILES PER HOUR LIMIT[^c-4bb897fb37bfe4124361ed0babbbdc5e]
 
 | *(1)* *Area* | *(2)* *Length of road* |
 | --- | --- |
@@ -90,13 +90,13 @@ Articles 11 and 15
 | A63 Eastbound Market Place on-slip<br>Kingston Upon Hull | A63 Eastbound Market Place on-slip, from point 5/35 to point 5/29 on the Traffic Regulation Plans Sheet 5 |
 | A63 Eastbound link road<br>Kingston Upon Hull | A63 Eastbound link road, from point 5/6 to point 5/24 on the Traffic Regulation Plans Sheet 5 |
 
-### PART 5 — ROAD SUBJECT TO ONE WAY RESTRICTIONS[^key-73fad69ab054d9be26bbe0ba6080f4d6]
+### PART 5 — ROAD SUBJECT TO ONE WAY RESTRICTIONS[^c-73fad69ab054d9be26bbe0ba6080f4d6]
 
 | *(1)* *Area* | *(2)* *Length of road subject to one way restriction* |
 | --- | --- |
 | Princes Dock Street<br>Kingston Upon Hull | Princes Dock Street from point 5/2 to point 5/3 and from point 5/4 to point 4/2 on the Traffic Regulation Plans Sheet 4 and Sheet 5 |
 
-### PART 6 — ROADS SUBJECT TO TWO WAY TRAFFIC[^key-65ffc937d2cd85fb7d8af6ecb9b52749]
+### PART 6 — ROADS SUBJECT TO TWO WAY TRAFFIC[^c-65ffc937d2cd85fb7d8af6ecb9b52749]
 
 | *(1)* *Area* | *(2)* *Length of road subject to two way traffic* |
 | --- | --- |
@@ -104,7 +104,7 @@ Articles 11 and 15
 | Dagger Lane | Dagger Lane from point 5/14 to point 5/15 on the Traffic Regulation Plans Sheet 5 |
 | South Church Side | South Church Side from point 5/20 to point 5/21 on the Traffic Regulation Place Sheet 5 |
 
-### PART 7 — ROADS SUBJECT TO PROHIBITION OF PARKING – NO WAITING OR LOADING AT ANY TIME[^key-7a5d22941afb8d591fa9762f69a82b06]
+### PART 7 — ROADS SUBJECT TO PROHIBITION OF PARKING – NO WAITING OR LOADING AT ANY TIME[^c-7a5d22941afb8d591fa9762f69a82b06]
 
 | *(1)* *Area* | *(2)* *Length of road subject to prohibition of parking* |
 | --- | --- |
@@ -116,7 +116,7 @@ Articles 11 and 15
 | Proposed Fish Street turning head<br>Kingston Upon Hull | Proposed Fish Street turning head from point 5/18 to point 5/19 on the Traffic Regulation Plans Sheet 5 |
 | Proposed Vicar Lane turning head<br>Kingston Upon Hull | Proposed Vicar Lane turning head from point 5/22 to point 5/23 on the Traffic Regulation Plans Sheet 5 |
 
-### PART 8 — CYCLE TRACKS AND FOOTWAYS[^key-95bdf1f47a578d2cc0a673a0d4b5764d]
+### PART 8 — CYCLE TRACKS AND FOOTWAYS[^c-95bdf1f47a578d2cc0a673a0d4b5764d]
 
 | *(1)* *Area* | *(2)* *Length of Cycle track/Footway* |
 | --- | --- |
@@ -140,14 +140,14 @@ Articles 11 and 15
 | Kingston Upon Hull | From point 5/61 to point 5/35 on Non-Motorised User Route Plans Sheet 5 |
 | Kingston Upon Hull | From point 5/60 to point 5/61 on Non-Motorised User Route Plans Sheet 5 |
 
-### PART 9 — PRIVATE MEANS OF ACCESS[^key-6f12990514fed8c13ec73aee8b25b24e]
+### PART 9 — PRIVATE MEANS OF ACCESS[^c-6f12990514fed8c13ec73aee8b25b24e]
 
 | *(1)* *Area* | *(2)* *Extent of Access* |
 | --- | --- |
 | Kingston Upon Hull | Holiday Inn (Private Means of Access), from point 3/17 to point 3/18 on the Streets, Rights of Way and Access Plans Sheet 3. |
 | Kingston Upon Hull | Grammar School Yard (Private Means of Access), from point 5/17 to point 5/18 on the Streets, Rights of Way and Access Plans Sheet 5. |
 
-### PART 10 — PUBLIC RIGHTS OF WAY[^key-50ba345b323d1ac16e832bcbe76746db]
+### PART 10 — PUBLIC RIGHTS OF WAY[^c-50ba345b323d1ac16e832bcbe76746db]
 
 | *(1)* *Area* | *(2)* *Length of public right of way* |
 | --- | --- |
@@ -171,7 +171,7 @@ Articles 11 and 15
 | Kingston Upon Hull | From point 5/51 to point 5/11 on Non-Motorised User Route Plans Sheet 5 |
 | Kingston Upon Hull | Footway from point 5/38 to point 5/41 on Non-Motorised User Route Plans Sheet 5 |
 
-### PART 11 — UNCONTROLLED CROSSING[^key-a8db718c1f7252a6c1a2c7e38078a535]
+### PART 11 — UNCONTROLLED CROSSING[^c-a8db718c1f7252a6c1a2c7e38078a535]
 
 | *(1)* *Area* | *(2)* *Length of Uncontrolled Crossing* |
 | --- | --- |
@@ -179,24 +179,24 @@ Articles 11 and 15
 
 ## Annotations
 
-[^key-f34b67bb27bbb01933c7d9f2d9d12ade]: Commencement: Sch. 3 Pt. 1 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-f34b67bb27bbb01933c7d9f2d9d12ade]: Commencement: Sch. 3 Pt. 1 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-15e08907e694051932f1ee22417ac2c2]: Commencement: Sch. 3 Pt. 2 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-15e08907e694051932f1ee22417ac2c2]: Commencement: Sch. 3 Pt. 2 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-365d667ee369e097b976105facf4e780]: Commencement: Sch. 3 Pt. 3 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-365d667ee369e097b976105facf4e780]: Commencement: Sch. 3 Pt. 3 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-4bb897fb37bfe4124361ed0babbbdc5e]: Commencement: Sch. 3 Pt. 4 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-4bb897fb37bfe4124361ed0babbbdc5e]: Commencement: Sch. 3 Pt. 4 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-73fad69ab054d9be26bbe0ba6080f4d6]: Commencement: Sch. 3 Pt. 5 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-73fad69ab054d9be26bbe0ba6080f4d6]: Commencement: Sch. 3 Pt. 5 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-65ffc937d2cd85fb7d8af6ecb9b52749]: Commencement: Sch. 3 Pt. 6 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-65ffc937d2cd85fb7d8af6ecb9b52749]: Commencement: Sch. 3 Pt. 6 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-7a5d22941afb8d591fa9762f69a82b06]: Commencement: Sch. 3 Pt. 7 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-7a5d22941afb8d591fa9762f69a82b06]: Commencement: Sch. 3 Pt. 7 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-95bdf1f47a578d2cc0a673a0d4b5764d]: Commencement: Sch. 3 Pt. 8 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-95bdf1f47a578d2cc0a673a0d4b5764d]: Commencement: Sch. 3 Pt. 8 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-6f12990514fed8c13ec73aee8b25b24e]: Commencement: Sch. 3 Pt. 9 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-6f12990514fed8c13ec73aee8b25b24e]: Commencement: Sch. 3 Pt. 9 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-50ba345b323d1ac16e832bcbe76746db]: Commencement: Sch. 3 Pt. 10 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-50ba345b323d1ac16e832bcbe76746db]: Commencement: Sch. 3 Pt. 10 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-a8db718c1f7252a6c1a2c7e38078a535]: Commencement: Sch. 3 Pt. 11 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-a8db718c1f7252a6c1a2c7e38078a535]: Commencement: Sch. 3 Pt. 11 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

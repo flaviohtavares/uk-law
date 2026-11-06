@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105BA. Co-ordination[^key-d1271d722e7de06e530c94cd095d1392][^key-de2dfd5ab3ce881b21d6c97b4c81189c][^c13422031]
+## 105BA. Co-ordination[^c-d1271d722e7de06e530c94cd095d1392][^c-de2dfd5ab3ce881b21d6c97b4c81189c][^c13422031]
 
 *Extent: E+W*
 
@@ -36,8 +36,8 @@ the project authority must, so far as is practicable to do so, ensure that the a
 
 ## Annotations
 
-[^key-d1271d722e7de06e530c94cd095d1392]: Modification: Ss. 105A-105C functions exercisable jointly (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/9/2), [10(b)](https://www.legislation.gov.uk/uksi/2018/103/regulation/10/b)
+[^c-d1271d722e7de06e530c94cd095d1392]: Modification: Ss. 105A-105C functions exercisable jointly (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/9/2), [10(b)](https://www.legislation.gov.uk/uksi/2018/103/regulation/10/b)
 
-[^key-de2dfd5ab3ce881b21d6c97b4c81189c]: Textual amendment: Ss. 105B-105BA substituted for s. 105B (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/4) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
+[^c-de2dfd5ab3ce881b21d6c97b4c81189c]: Textual amendment: Ss. 105B-105BA substituted for s. 105B (5.12.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments Relating to Harbours, Highways and Transport) Regulations 2017 (S.I. 2017/1070)](https://www.legislation.gov.uk/uksi/2017/1070), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1070/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/1070/schedule/2/paragraph/4) (with [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2017/1070/schedule/6/paragraph/6))
 
 [^c13422031]: Textual amendment: Pt. VA substituted (13.3.1999) by [S.I. 1999/369](https://www.legislation.gov.uk/uksi/1999/369), [reg.2](https://www.legislation.gov.uk/uksi/1999/369/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Parental responsibility of civil partners[^key-fc764091318010482635f9369c51d891]
+## 15. Parental responsibility of civil partners[^c-fc764091318010482635f9369c51d891]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fc764091318010482635f9369c51d891]: Commencement: Reg. 15 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-fc764091318010482635f9369c51d891]: Commencement: Reg. 15 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00026]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

@@ -25,14 +25,14 @@ summary: ''
 - “**approval body**” has the meaning given in regulation 12(4)(b);
 - “**approved list**” has the meaning given in regulation 12(5);
 - “**approved register**” has the meaning given in regulation 12(4)(a);
-- “[^key-92157df7b93d0fa85fa814af72dada3b]**areas of significant energy consumption**” has the meaning given in regulation 25(2);
+- “[^c-92157df7b93d0fa85fa814af72dada3b]**areas of significant energy consumption**” has the meaning given in regulation 25(2);
 - “**certified energy management system**” has the meaning given in regulation 33(1);
 - “**Chief Inspector**” has the meaning given in regulation 6(1)(b);
 - “**compliance body**” has the meaning given in regulation 6(1);
 - “**compliance date**” has the meaning given in regulation 4(4);
 - “**compliance notice**” has the meaning given in regulation 35(1);
 - “**the Directive**” means Directive 2012/27/EU of the European Parliament and of the Council on energy efficiency [^c22147041];
-- [^key-a27e717c7797015a2ced3a821c67759b]...
+- [^c-a27e717c7797015a2ced3a821c67759b]...
 - “**employee**” has the meaning given in—
   - (a) section 230(1) of the Employment Rights Act 1996 [^c22147051] in relation to England, Wales and Scotland, and
   - (b) article 3(1) of the Employment Rights (Northern Ireland) Order 1996 [^c22147061] in relation to Northern Ireland;
@@ -53,7 +53,7 @@ summary: ''
 - “**energy saving opportunity**” has the meaning given in regulation 27(1)(c);
 - “**enforcement notice**” has the meaning given in regulation 38(1);
 - “**ESOS action plan**” has the meaning given in regulation 34A(3);
-- “[^key-2864c9f6c48ab7c7e6c3365b30eaf18f]**ESOS action plan review**” has the meaning given in regulation 27E(2);
+- “[^c-2864c9f6c48ab7c7e6c3365b30eaf18f]**ESOS action plan review**” has the meaning given in regulation 27E(2);
 - “**ESOS assessment**” means an assessment carried out in accordance with Part 4;
 - “**ESOS progress update**” has the meaning given in regulation 34B(2);
 - “**ESOS report**” has the meaning given in regulation 27A(4);
@@ -98,7 +98,7 @@ summary: ''
 - “**previous compliance period**” means, in respect of an ESOS assessment, the compliance period ending immediately before the compliance period to which that ESOS assessment relates;
 - “**publication penalty**” has the meaning given in regulation 41(1);
 - “**qualification date**” has the meaning given in regulation 4(3);
-- [^key-a27e717c7797015a2ced3a821c67759b]...
+- [^c-a27e717c7797015a2ced3a821c67759b]...
 - “**reference period**” has the meaning given in regulation 22(5);
 - “**relevant undertaking**” has the meaning given in regulation 15(1);
 - “**responsible officer**” has the meaning given in regulation 30(2);
@@ -119,17 +119,17 @@ summary: ''
 
 ## Annotations
 
-[^key-92157df7b93d0fa85fa814af72dada3b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/2/1) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1182/regulation/3)
+[^c-92157df7b93d0fa85fa814af72dada3b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/2/1) inserted (29.11.2023) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2023 (S.I. 2023/1182)](https://www.legislation.gov.uk/uksi/2023/1182), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1182/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1182/regulation/3)
 
 [^c22147041]: Marginal citation: OJ No L 315, 14.11.2012, p1, to which there is an amendment not relevant to these Regulations. Article 8(4) to (6) is transposed by these Regulations.
 
-[^key-a27e717c7797015a2ced3a821c67759b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/2/1) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/3/b)
+[^c-a27e717c7797015a2ced3a821c67759b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/2/1) omitted (22.7.2026) by virtue of [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/701/regulation/3/b)
 
 [^c22147051]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
 [^c22147061]: Marginal citation: [1996 No. 1919](https://www.legislation.gov.uk/ukcm/1996/1919) (N.I. 16).
 
-[^key-2864c9f6c48ab7c7e6c3365b30eaf18f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/2/1) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/3/a)
+[^c-2864c9f6c48ab7c7e6c3365b30eaf18f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/1643/regulation/2/1) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/701/regulation/3/a)
 
 [^c22147071]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 

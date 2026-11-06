@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Construction, alteration and maintenance of streets[^key-0ca839fa359a6e1be193b827e03421ac]
+## 17. Construction, alteration and maintenance of streets[^c-0ca839fa359a6e1be193b827e03421ac]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-0ca839fa359a6e1be193b827e03421ac]: Commencement: Art. 17 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-0ca839fa359a6e1be193b827e03421ac]: Commencement: Art. 17 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

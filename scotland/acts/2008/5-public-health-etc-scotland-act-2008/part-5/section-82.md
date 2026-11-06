@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Compensation[^key-a98b12a6e6aa7a749a05ecbfb07cf13b]
+## 82. Compensation[^c-a98b12a6e6aa7a749a05ecbfb07cf13b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ is to be determined by a single arbiter appointed by agreement between the autho
 
 ## Annotations
 
-[^key-a98b12a6e6aa7a749a05ecbfb07cf13b]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2008/5/section/82) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-a98b12a6e6aa7a749a05ecbfb07cf13b]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2008/5/section/82) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

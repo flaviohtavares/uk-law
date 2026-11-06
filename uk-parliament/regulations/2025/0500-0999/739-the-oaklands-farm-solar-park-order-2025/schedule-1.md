@@ -24,9 +24,9 @@ Article 2
 
 ### PART 1 — AUTHORISED DEVELOPMENT
 
-**1.**[^key-9eb55005cf36df967e63b34245c852a3] In the administrative area of Derbyshire the construction, operation, maintenance and decommissioning of a nationally significant infrastructure project as defined in sections 14(1) and 15 of the 2008 Act with associated development under section 115(1)(b) of the 2008 Act.
+**1.**[^c-9eb55005cf36df967e63b34245c852a3] In the administrative area of Derbyshire the construction, operation, maintenance and decommissioning of a nationally significant infrastructure project as defined in sections 14(1) and 15 of the 2008 Act with associated development under section 115(1)(b) of the 2008 Act.
 
-**2.**[^key-b26e0ad0080454040bca54675d0c53fd] The nationally significant infrastructure project authorised by this Order comprises a generating station with a gross electrical output capacity of over 50 megawatts comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
+**2.**[^c-b26e0ad0080454040bca54675d0c53fd] The nationally significant infrastructure project authorised by this Order comprises a generating station with a gross electrical output capacity of over 50 megawatts comprising all or any of the work numbers in this Schedule or any part of any work number in this Schedule—
 
 **Work No. 1** – a ground mounted solar photovoltaic generating station comprising—
 
@@ -37,7 +37,7 @@ and associated development within the meaning of Section 115(2) (for which devel
 
 **Work No. 2 –** a battery energy storage system compound comprising—
 
-- (a)[^key-9ec0bfaf5c2e65585646b7a0abc0f525] battery energy storage system units;
+- (a)[^c-9ec0bfaf5c2e65585646b7a0abc0f525] battery energy storage system units;
 - (b) auxiliary transformers and associated bunding;
 - (c) power conversion system units including inverters, switch gear, transformers and ancillary equipment;
 - (d) containers or enclosures housing all or any of Work Nos. 2(b) and (c) and ancillary equipment;
@@ -171,11 +171,11 @@ and in connection with the construction of Work Nos. 1-10 above and to the exten
 
 ### PART 2 — REQUIREMENTS
 
-#### 3. Time limits[^key-6d9bd83beff2089ccac8ebe4eb1aa24d]
+#### 3. Time limits[^c-6d9bd83beff2089ccac8ebe4eb1aa24d]
 
 The authorised development must commence no later than the expiration of five years beginning with the date this Order comes into force.
 
-#### 4. Phases of authorised development and date of final commissioning[^key-30caf6cc1a9d972bd0ecbf552bf2243b]
+#### 4. Phases of authorised development and date of final commissioning[^c-30caf6cc1a9d972bd0ecbf552bf2243b]
 
 (1) The authorised development must not be commenced until a written scheme setting out the phases of construction of the authorised development has been submitted to and approved by the local planning authority.
 
@@ -185,7 +185,7 @@ The authorised development must commence no later than the expiration of five ye
 
 (4) Notice of the date of final commissioning for the first phase of Work No. 1 to complete commissioning must be given to the local planning authority within 15 working days of the date of final commissioning for that phase.
 
-#### 5. Detailed design approval[^key-ea49a0993cf96fce73ebc371cb47689b]
+#### 5. Detailed design approval[^c-ea49a0993cf96fce73ebc371cb47689b]
 
 (1) No phase of the authorised development may commence until details of—
 
@@ -212,17 +212,17 @@ relating to that phase have been submitted to and approved in writing by the loc
 
 (3) The authorised development must be carried out in accordance with the approved details.
 
-#### 6. Implementation and maintenance of landscaping[^key-47f91670cbe2c1a5eb75ce68e05f9e9c]
+#### 6. Implementation and maintenance of landscaping[^c-47f91670cbe2c1a5eb75ce68e05f9e9c]
 
 (1) All landscaping works must be carried out in accordance with the LEMP approved under requirement 8 (landscape and ecological management plan), and in accordance with the relevant recommendations of appropriate British Standards.
 
 (2) Any tree or shrub planted as part of an approved landscaping management scheme that, within a period of five years after planting, is removed, dies or becomes, in the opinion of the local planning authority, seriously damaged or diseased must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-#### 7. Arboricultural method statement (AMS)[^key-e41ae4b3586a729bab9d8dcbc673f90e]
+#### 7. Arboricultural method statement (AMS)[^c-e41ae4b3586a729bab9d8dcbc673f90e]
 
 No phase of the authorised development may commence until an arboricultural method statement (AMS) for that phase has been submitted to and approved by the local planning authority. Any AMS submitted for approval must be in accordance with the Tree Retention and Removal Plan and Tree Protection Plan contained within appendix 6.14 of the environmental statement and the development of any phase of the development to which the AMS relates must be carried out in accordance with the approved AMS.
 
-#### 8. Landscape and ecological management plan (LEMP)[^key-921db13ac87c86912f99ae5c0d14b735]
+#### 8. Landscape and ecological management plan (LEMP)[^c-921db13ac87c86912f99ae5c0d14b735]
 
 (1) No phase of the authorised development may commence until a landscape and ecological management plan (LEMP) covering that phase which accords with the outline LEMP has been submitted to and approved by the local planning authority in consultation with Natural England.
 
@@ -239,7 +239,7 @@ No phase of the authorised development may commence until an arboricultural meth
 
 (4) No site preparation works are to be commenced until a LEMP covering the site preparation works which accords with the outline LEMP has been submitted to and approved by the local planning authority in consultation with Natural England. Such LEMP must be implemented as approved.
 
-#### 9. Construction environmental management plans (CEMP)[^key-36cdead6eb70920e70b197013eaaf862]
+#### 9. Construction environmental management plans (CEMP)[^c-36cdead6eb70920e70b197013eaaf862]
 
 (1) No phase of the authorised development may commence until a construction environmental management plan (CEMP) for that phase has been submitted to and approved by the local planning authority in consultation with the Environment Agency and Natural England. Any CEMP submitted for approval must be in accordance with the outline CEMP and the construction of any phase of the authorised development to which the CEMP relates must be carried out in accordance with the approved CEMP.
 
@@ -266,7 +266,7 @@ No phase of the authorised development may commence until an arboricultural meth
 
 (5) For the purposes of requirement 9(1) “**commence**” includes any site preparation works comprising site clearance (including vegetation removal, demolition of existing buildings and structures).
 
-#### 10. Construction traffic management plan (CTMP)[^key-809b9771fdf1d0698eecaa3f8c9e1cc6]
+#### 10. Construction traffic management plan (CTMP)[^c-809b9771fdf1d0698eecaa3f8c9e1cc6]
 
 (1) No phase of the authorised development may commence until a construction traffic management plan (CTMP) covering that phase and in accordance with the outline CTMP has been submitted to and approved by the local planning authority in consultation with the highway authority for the highway(s) to which the CTMP for that phase relates.
 
@@ -280,7 +280,7 @@ No phase of the authorised development may commence until an arboricultural meth
 
 (4) For the purposes of requirement 10(1) “**commence**” includes any site preparation works comprising site clearance (including vegetation removal and demolition of existing buildings and structures).
 
-#### 11. Operational environmental management plan (OEMP)[^key-8d7bf32aa6f5c1362f21d2721c778493]
+#### 11. Operational environmental management plan (OEMP)[^c-8d7bf32aa6f5c1362f21d2721c778493]
 
 (1) No phase of the authorised development may commence until an operational environmental management plan (OEMP) which accords with the outline OEMP for that phase has been submitted to and approved by the local planning authority.
 
@@ -294,7 +294,7 @@ No phase of the authorised development may commence until an arboricultural meth
 
 (3) The OEMP must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-#### 12. Battery safety management plan (BSMP)[^key-6ae72ecf72a6f3b84f075db76280228e]
+#### 12. Battery safety management plan (BSMP)[^c-6ae72ecf72a6f3b84f075db76280228e]
 
 (1) Prior to the commencement of Work No. 2 a battery safety management plan (BSMP) must be submitted to and approved by the local planning authority.
 
@@ -304,7 +304,7 @@ No phase of the authorised development may commence until an arboricultural meth
 
 (4) The BSMP must be implemented as approved and maintained throughout the construction, maintenance, operation and decommissioning of the authorised development.
 
-#### 13. Land contamination[^key-7478fd5260cdd1801c9935c5bc21fe22]
+#### 13. Land contamination[^c-7478fd5260cdd1801c9935c5bc21fe22]
 
 (1) No phase of the authorised development, and no part of the site preparation works for that phase comprising remedial work in respect of any contamination, may commence until a contamination risk assessment in respect of soils has been produced which is to include details of—
 
@@ -321,7 +321,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (4) Remedial measures must be carried out in accordance with the approved scheme, and a verification report following completion of those remedial measures must be submitted to the local planning authority.
 
-#### 14. Public rights of way diversions[^key-7ac7985aaf5c9508da406c6175c8b3f0]
+#### 14. Public rights of way diversions[^c-7ac7985aaf5c9508da406c6175c8b3f0]
 
 (1) No phase of the authorised development may commence and no decommissioning may be undertaken until a public rights of way management plan for any sections of public rights of way shown to be temporarily closed on the streets, access and rights of way plans for that phase has been submitted to and approved by the local planning authority in consultation with the relevant highway authority.
 
@@ -336,13 +336,13 @@ and has been submitted to and approved by the local planning authority in consul
 
 (3) The plan must be implemented as approved unless otherwise agreed with the local planning authority in consultation with the highway authority.
 
-#### 15. Operational noise[^key-5f69e25bc58540380d2c15e1ce6a9b0c]
+#### 15. Operational noise[^c-5f69e25bc58540380d2c15e1ce6a9b0c]
 
 (1) No phase of the authorised development may commence until an operational noise assessment containing details of how the design of the authorised development has incorporated mitigation to ensure the operational noise rating levels as set out in the outline operational environmental management plan are to be complied with for that phase has been submitted to and approved by the local planning authority.
 
 (2) The design as described in the operational noise assessment must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-#### 16. Fencing and other means of enclosure[^key-b57bac77f797ad6a3b75ae8db374359d]
+#### 16. Fencing and other means of enclosure[^c-b57bac77f797ad6a3b75ae8db374359d]
 
 (1) No phase of the authorised development may commence until written details of all proposed permanent and temporary fences, walls or other means of enclosure of the connection works for that phase have been submitted to and approved by the local planning authority as part of the detailed design approval required by requirement 5(1).
 
@@ -358,7 +358,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (7) Any proposed permanent or temporary fences, walls or other means of enclosure must be carried out in accordance with the approved details.
 
-#### 17. Surface and foul water drainage[^key-5afc269c4b3619847530d66311337cd1]
+#### 17. Surface and foul water drainage[^c-5afc269c4b3619847530d66311337cd1]
 
 (1) No phase of the authorised development may commence until written details of the surface and foul water drainage system for that phase have been submitted to and approved by the local planning authority.
 
@@ -366,7 +366,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (3) The surface and foul water drainage system for the relevant part of the authorised development must be implemented in accordance with the approved details and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-#### 18. Archaeology[^key-0eb0b2b92517838d609b3cd7710158f8]
+#### 18. Archaeology[^c-0eb0b2b92517838d609b3cd7710158f8]
 
 (1) No phase within the authorised development, and no part of the site preparation works for that phase, may commence until an archaeological written scheme of investigation (WSI) for that phase has been submitted to and approved by the local planning authority in consultation with the county archaeologist.
 
@@ -374,7 +374,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (3) Any archaeological works must be carried out in accordance with the approved WSI, including post-excavation analysis, reporting, publication and archiving.
 
-#### 19. Permissive path[^key-41d6561143990e20870764410a09c46c]
+#### 19. Permissive path[^c-41d6561143990e20870764410a09c46c]
 
 (1) Where a phase of the authorised development includes the provision of a permissive path, the permissive path must be provided and open to the public within 12 months of the date of final commissioning in respect of that phase.
 
@@ -382,7 +382,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (3) The permissive path must be maintained and access by the public permitted for 264 days a year (subject to closures for maintenance or emergencies) until commencement of decommissioning of the authorised development pursuant to requirement 22 (decommissioning and restoration).
 
-#### 20. Construction hours[^key-802493e0c288af38cc3dd812ab2188ce]
+#### 20. Construction hours[^c-802493e0c288af38cc3dd812ab2188ce]
 
 (1) Subject to sub-paragraph (2), no construction works are to take place except between the hours of—
 
@@ -398,7 +398,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (4) Save for emergency works, works under sub-paragraph (2) must be carried out in accordance with the approved scheme.
 
-#### 21. Protected species[^key-9ff641c98454659c9522ccfcdf73b9fe]
+#### 21. Protected species[^c-9ff641c98454659c9522ccfcdf73b9fe]
 
 (1) No phase of the authorised development may commence until protected species surveys have been carried out by a suitably qualified person. The surveys shall inform the mitigation measures required for the protection of such species, which shall be incorporated into a species protection plan (SPP) that shall include a scheme of protection and mitigation.
 
@@ -406,7 +406,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (3) In this requirement, “**protected species**” refers to any species defined as a European Protected Species in regulations 42 (European protected species of animals) and 46 (European protected species of plants) of the Conservation of Habitats and Species Regulations 2017 or any species to which Part I (wildlife) and Schedule 5 (animals which are protected) of the Wildlife and Countryside Act 1981[^f00038] applies.
 
-#### 22. Decommissioning and restoration[^key-ed93b4f293e1c5f31ee499774565d447]
+#### 22. Decommissioning and restoration[^c-ed93b4f293e1c5f31ee499774565d447]
 
 (1) Within 3 months of the date that the undertaker decides to decommission any part of the solar farm works and grid connection works, or no later than 6 months before the 40th anniversary of the date of final commissioning of the first phase of Work No. 1 as notified by the undertaker pursuant to requirement 4 (phasing of the authorised development and date of final commissioning), the undertaker must submit a decommissioning environmental management plan and a decommissioning traffic management plan for that part.
 
@@ -429,7 +429,7 @@ and has been submitted to and approved by the local planning authority in consul
 
 (9) This requirement is without prejudice to any other consents or permissions which may be required to decommission any part of the authorised development.
 
-#### 23. Skills, supply chain and employment[^key-b8d77731119ac5aca70abf09f82082ea]
+#### 23. Skills, supply chain and employment[^c-b8d77731119ac5aca70abf09f82082ea]
 
 (1) No part of the authorised development may commence until a skills, supply chain and employment plan in relation to that part has been submitted to and approved by the local planning authority.
 
@@ -439,11 +439,11 @@ and has been submitted to and approved by the local planning authority in consul
 
 (4) The skills, supply chain and employment plan must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-#### 24. Requirement for written approval[^key-d2cffaafa94c81e584334d8a83565193]
+#### 24. Requirement for written approval[^c-d2cffaafa94c81e584334d8a83565193]
 
 Where the approval, agreement or confirmation of the Secretary of State, local planning authority or another person is required under a requirement that approval, agreement or confirmation must be given in writing.
 
-#### 25. Amendments to approved details[^key-7ef675c38548ba05b1ac0fd89f86f1aa]
+#### 25. Amendments to approved details[^c-7ef675c38548ba05b1ac0fd89f86f1aa]
 
 (1) With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved by the local planning authority, the approved details must be carried out as approved unless an amendment or variation has previously been approved in writing by the local planning authority in accordance with sub-paragraph (2).
 
@@ -451,25 +451,25 @@ Where the approval, agreement or confirmation of the Secretary of State, local p
 
 (3) The approved details must be taken to include any amendments that may subsequently be approved in writing by the local planning authority.
 
-#### 26. Consultation[^key-395ac4804f5bbdecc3c8cb2b84c312a5]
+#### 26. Consultation[^c-395ac4804f5bbdecc3c8cb2b84c312a5]
 
 Where the local planning authority is required by this Order or other statute to consult with another person or body prior to discharging a requirement, the undertaker must consult with such person or body prior to making an application to discharge the requirement.
 
 ### PART 3 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 27. Interpretation[^key-16143fba4c5fb0960649f29d7438baa5]
+#### 27. Interpretation[^c-16143fba4c5fb0960649f29d7438baa5]
 
 In this Part of this Schedule, “**relevant authority**” means—
 
 - (a) any body, other than the Secretary of State, responsible for giving any consent, agreement or approval required by a requirement included in Part 2 of this Schedule, or for giving any consent, agreement or approval further to any document referred to in any such requirement; or
 - (b) the local authority in the exercise of its functions set out in sections 60 (control of noise on construction sites) and 61 (prior consent for work on construction sites) of the Control of Pollution Act 1974 subsequently referred to as “**the 1974 Act**”[^f00040].
 
-#### 28. Applications made under requirements[^key-96096a18b77706c52fcf91946742ca9e]
+#### 28. Applications made under requirements[^c-96096a18b77706c52fcf91946742ca9e]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement, or for any consent, agreement or approval further to any document referred to in any such requirement, the relevant authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with the later of—
 
 - (a) the day immediately following that on which the application is received by the relevant authority; or
-- (b) where further information is requested under paragraph 29[^key-09dbf1e575e5c842c478d2e005ae3ff2], the day immediately following that on which the further information has been supplied by the undertaker,
+- (b) where further information is requested under paragraph 29[^c-09dbf1e575e5c842c478d2e005ae3ff2], the day immediately following that on which the further information has been supplied by the undertaker,
 
 or such longer period that is agreed in writing between the undertaker and the relevant authority.
 
@@ -482,7 +482,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (3) In the event the relevant authority does not determine an application within the period set out in sub-paragraph (1), the relevant authority is to be taken to have granted all parts of the application (without any condition or qualification) at the end of that period.
 
-#### 29. Further information regarding requirements[^key-56248448b43fddf12306bec147f02c62]
+#### 29. Further information regarding requirements[^c-56248448b43fddf12306bec147f02c62]
 
 (1) In relation to any application referred to in paragraph 28, the relevant authority may request such further information from the undertaker as it considers necessary to enable it to consider the application.
 
@@ -492,7 +492,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (4) If the relevant authority does not give the notification within the period specified in sub-paragraph (2) or (3) it (and the consultee, as the case may be) is deemed to have sufficient information to consider the application and is not entitled to request further information without the prior agreement of the undertaker.
 
-#### 30. Appeals[^key-577b21da334684c926bbaa4fa09b1caa]
+#### 30. Appeals[^c-577b21da334684c926bbaa4fa09b1caa]
 
 (1) Where a person (“**the applicant**”) makes an application to a relevant authority, the applicant may appeal to the Secretary of State in the event that—
 
@@ -538,7 +538,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (12) On application by the relevant authority or the applicant, the appointed person may give directions as to the costs of the appeal and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to relevant guidance on the Planning Practice Guidance website or any official circular or guidance which may from time to time replace it.
 
-#### 31. Fees[^key-1e474311f4aff74317490c9f7a4d3c80]
+#### 31. Fees[^c-1e474311f4aff74317490c9f7a4d3c80]
 
 (1) Where an application is made to the local planning authority for written consent, agreement or approval in respect of a requirement, the fee prescribed under regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00041] (as may be amended or replaced from time to time) is to apply and must be paid to the local planning authority for each application.
 
@@ -551,80 +551,80 @@ and may deal with the application as if it had been made to the appointed person
 
 ## Annotations
 
-[^key-9eb55005cf36df967e63b34245c852a3]: Commencement: Sch. 1 para. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-9eb55005cf36df967e63b34245c852a3]: Commencement: Sch. 1 para. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-b26e0ad0080454040bca54675d0c53fd]: Commencement: Sch. 1 para. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-b26e0ad0080454040bca54675d0c53fd]: Commencement: Sch. 1 para. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-9ec0bfaf5c2e65585646b7a0abc0f525]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/739/schedule/1/paragraph/2): sub-paras renumbered (9.10.2025) by [The Oaklands Farm Solar Park (Correction) Order 2025 (S.I. 2025/1070)](https://www.legislation.gov.uk/uksi/2025/1070), [art. 1](https://www.legislation.gov.uk/uksi/2025/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1070/schedule)
+[^c-9ec0bfaf5c2e65585646b7a0abc0f525]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/739/schedule/1/paragraph/2): sub-paras renumbered (9.10.2025) by [The Oaklands Farm Solar Park (Correction) Order 2025 (S.I. 2025/1070)](https://www.legislation.gov.uk/uksi/2025/1070), [art. 1](https://www.legislation.gov.uk/uksi/2025/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1070/schedule)
 
-[^key-6d9bd83beff2089ccac8ebe4eb1aa24d]: Commencement: Sch. 1 para. 3 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-6d9bd83beff2089ccac8ebe4eb1aa24d]: Commencement: Sch. 1 para. 3 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-30caf6cc1a9d972bd0ecbf552bf2243b]: Commencement: Sch. 1 para. 4 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-30caf6cc1a9d972bd0ecbf552bf2243b]: Commencement: Sch. 1 para. 4 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-ea49a0993cf96fce73ebc371cb47689b]: Commencement: Sch. 1 para. 5 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-ea49a0993cf96fce73ebc371cb47689b]: Commencement: Sch. 1 para. 5 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-47f91670cbe2c1a5eb75ce68e05f9e9c]: Commencement: Sch. 1 para. 6 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-47f91670cbe2c1a5eb75ce68e05f9e9c]: Commencement: Sch. 1 para. 6 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-e41ae4b3586a729bab9d8dcbc673f90e]: Commencement: Sch. 1 para. 7 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-e41ae4b3586a729bab9d8dcbc673f90e]: Commencement: Sch. 1 para. 7 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-921db13ac87c86912f99ae5c0d14b735]: Commencement: Sch. 1 para. 8 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-921db13ac87c86912f99ae5c0d14b735]: Commencement: Sch. 1 para. 8 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-36cdead6eb70920e70b197013eaaf862]: Commencement: Sch. 1 para. 9 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-36cdead6eb70920e70b197013eaaf862]: Commencement: Sch. 1 para. 9 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
 [^f00036]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
 [^f00037]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-809b9771fdf1d0698eecaa3f8c9e1cc6]: Commencement: Sch. 1 para. 10 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-809b9771fdf1d0698eecaa3f8c9e1cc6]: Commencement: Sch. 1 para. 10 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-8d7bf32aa6f5c1362f21d2721c778493]: Commencement: Sch. 1 para. 11 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-8d7bf32aa6f5c1362f21d2721c778493]: Commencement: Sch. 1 para. 11 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-6ae72ecf72a6f3b84f075db76280228e]: Commencement: Sch. 1 para. 12 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-6ae72ecf72a6f3b84f075db76280228e]: Commencement: Sch. 1 para. 12 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-7478fd5260cdd1801c9935c5bc21fe22]: Commencement: Sch. 1 para. 13 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-7478fd5260cdd1801c9935c5bc21fe22]: Commencement: Sch. 1 para. 13 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-7ac7985aaf5c9508da406c6175c8b3f0]: Commencement: Sch. 1 para. 14 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-7ac7985aaf5c9508da406c6175c8b3f0]: Commencement: Sch. 1 para. 14 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-5f69e25bc58540380d2c15e1ce6a9b0c]: Commencement: Sch. 1 para. 15 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-5f69e25bc58540380d2c15e1ce6a9b0c]: Commencement: Sch. 1 para. 15 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-b57bac77f797ad6a3b75ae8db374359d]: Commencement: Sch. 1 para. 16 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-b57bac77f797ad6a3b75ae8db374359d]: Commencement: Sch. 1 para. 16 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-5afc269c4b3619847530d66311337cd1]: Commencement: Sch. 1 para. 17 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-5afc269c4b3619847530d66311337cd1]: Commencement: Sch. 1 para. 17 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-0eb0b2b92517838d609b3cd7710158f8]: Commencement: Sch. 1 para. 18 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-0eb0b2b92517838d609b3cd7710158f8]: Commencement: Sch. 1 para. 18 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-41d6561143990e20870764410a09c46c]: Commencement: Sch. 1 para. 19 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-41d6561143990e20870764410a09c46c]: Commencement: Sch. 1 para. 19 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-802493e0c288af38cc3dd812ab2188ce]: Commencement: Sch. 1 para. 20 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-802493e0c288af38cc3dd812ab2188ce]: Commencement: Sch. 1 para. 20 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-9ff641c98454659c9522ccfcdf73b9fe]: Commencement: Sch. 1 para. 21 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-9ff641c98454659c9522ccfcdf73b9fe]: Commencement: Sch. 1 para. 21 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
 [^f00038]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-ed93b4f293e1c5f31ee499774565d447]: Commencement: Sch. 1 para. 22 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-ed93b4f293e1c5f31ee499774565d447]: Commencement: Sch. 1 para. 22 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
 [^f00039]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-b8d77731119ac5aca70abf09f82082ea]: Commencement: Sch. 1 para. 23 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-b8d77731119ac5aca70abf09f82082ea]: Commencement: Sch. 1 para. 23 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-d2cffaafa94c81e584334d8a83565193]: Commencement: Sch. 1 para. 24 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-d2cffaafa94c81e584334d8a83565193]: Commencement: Sch. 1 para. 24 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-7ef675c38548ba05b1ac0fd89f86f1aa]: Commencement: Sch. 1 para. 25 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-7ef675c38548ba05b1ac0fd89f86f1aa]: Commencement: Sch. 1 para. 25 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-395ac4804f5bbdecc3c8cb2b84c312a5]: Commencement: Sch. 1 para. 26 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-395ac4804f5bbdecc3c8cb2b84c312a5]: Commencement: Sch. 1 para. 26 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-16143fba4c5fb0960649f29d7438baa5]: Commencement: Sch. 1 para. 27 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-16143fba4c5fb0960649f29d7438baa5]: Commencement: Sch. 1 para. 27 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
 [^f00040]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61 was amended by Schedule 7 to the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55), Schedule 15 to the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43) and Schedule 24 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-96096a18b77706c52fcf91946742ca9e]: Commencement: Sch. 1 para. 28 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-96096a18b77706c52fcf91946742ca9e]: Commencement: Sch. 1 para. 28 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-09dbf1e575e5c842c478d2e005ae3ff2]: Textual amendment: Words in [Sch. 1 para. 28(1)(b)](https://www.legislation.gov.uk/uksi/2025/739/schedule/1/paragraph/28/1/b) substituted (9.10.2025) by [The Oaklands Farm Solar Park (Correction) Order 2025 (S.I. 2025/1070)](https://www.legislation.gov.uk/uksi/2025/1070), [art. 1](https://www.legislation.gov.uk/uksi/2025/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1070/schedule)
+[^c-09dbf1e575e5c842c478d2e005ae3ff2]: Textual amendment: Words in [Sch. 1 para. 28(1)(b)](https://www.legislation.gov.uk/uksi/2025/739/schedule/1/paragraph/28/1/b) substituted (9.10.2025) by [The Oaklands Farm Solar Park (Correction) Order 2025 (S.I. 2025/1070)](https://www.legislation.gov.uk/uksi/2025/1070), [art. 1](https://www.legislation.gov.uk/uksi/2025/1070/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1070/schedule)
 
-[^key-56248448b43fddf12306bec147f02c62]: Commencement: Sch. 1 para. 29 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-56248448b43fddf12306bec147f02c62]: Commencement: Sch. 1 para. 29 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-577b21da334684c926bbaa4fa09b1caa]: Commencement: Sch. 1 para. 30 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-577b21da334684c926bbaa4fa09b1caa]: Commencement: Sch. 1 para. 30 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-1e474311f4aff74317490c9f7a4d3c80]: Commencement: Sch. 1 para. 31 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-1e474311f4aff74317490c9f7a4d3c80]: Commencement: Sch. 1 para. 31 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
 [^f00041]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920), amended by [S.I. 2013/2153](https://www.legislation.gov.uk/uksi/2013/2153), [S.I. 2014/357](https://www.legislation.gov.uk/uksi/2014/357), [S.I. 2014/643](https://www.legislation.gov.uk/uksi/2014/643), [S.I. 2017/1314](https://www.legislation.gov.uk/uksi/2017/1314), [S.I. 2019/1154](https://www.legislation.gov.uk/uksi/2019/1154) and [S.I. 2023/1197](https://www.legislation.gov.uk/uksi/2023/1197).

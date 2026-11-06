@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Expenses of statement of affairs[^key-bee281a7a13ed08044b6db5d25adb501]
+## 15. Expenses of statement of affairs[^c-bee281a7a13ed08044b6db5d25adb501]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bee281a7a13ed08044b6db5d25adb501]: Commencement: Rule 15 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-bee281a7a13ed08044b6db5d25adb501]: Commencement: Rule 15 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

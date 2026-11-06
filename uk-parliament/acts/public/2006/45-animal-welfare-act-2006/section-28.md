@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Inspection of farm premises[^key-9e4a870e102f671a5c9c814b0d419210][^key-9de59d3a9d9adc751280ca074fd7a71c]
+## 28. Inspection of farm premises[^c-9e4a870e102f671a5c9c814b0d419210][^c-9de59d3a9d9adc751280ca074fd7a71c]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e4a870e102f671a5c9c814b0d419210]: Commencement: S. 28 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
+[^c-9e4a870e102f671a5c9c814b0d419210]: Commencement: S. 28 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
 
-[^key-9de59d3a9d9adc751280ca074fd7a71c]: Commencement: S. 28 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-9de59d3a9d9adc751280ca074fd7a71c]: Commencement: S. 28 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

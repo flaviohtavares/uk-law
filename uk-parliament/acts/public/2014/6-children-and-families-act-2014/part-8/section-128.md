@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-89d5c105c56474646a5bc7c9d60d0765] After section 57ZI of the Employment Rights Act 1996 (as inserted by section 127) there is inserted—
+(1)[^c-89d5c105c56474646a5bc7c9d60d0765] After section 57ZI of the Employment Rights Act 1996 (as inserted by section 127) there is inserted—
 
 > **Adoption appointments**
 >
@@ -338,27 +338,27 @@ summary: ''
 
 (2) In the Employment Rights Act 1996—
 
-- (a)[^key-f280bab30a849a074dbb036070a7c33c] in section 47C (right not to be subject to detriment: leave for family reasons), in subsection (2) (prescribed reasons), after paragraph (aa) (as inserted by section 127(2)(a)) there is inserted—
+- (a)[^c-f280bab30a849a074dbb036070a7c33c] in section 47C (right not to be subject to detriment: leave for family reasons), in subsection (2) (prescribed reasons), after paragraph (aa) (as inserted by section 127(2)(a)) there is inserted—
 
   > - (ab) time off under section 57ZJ or 57ZL,
 
   ;
-- (b)[^key-f280bab30a849a074dbb036070a7c33c] in section 80B (entitlement to ordinary paternity leave: adoption), in subsection (5) (provision that may be made in regulations under subsection (1)), after paragraph (b) there is inserted—
+- (b)[^c-f280bab30a849a074dbb036070a7c33c] in section 80B (entitlement to ordinary paternity leave: adoption), in subsection (5) (provision that may be made in regulations under subsection (1)), after paragraph (b) there is inserted—
 
   > - (ba) make provision excluding the right to be absent on leave under this section in the case of an employee who has exercised a right to take time off under section 57ZJ;
 
   ;
-- (c)[^key-f280bab30a849a074dbb036070a7c33c] in section 99 (being regarded as unfairly dismissed: leave for family reasons), in subsection (3) (prescribed reasons), after paragraph (aa) (as inserted by section 127(2)(b)) there is inserted—
+- (c)[^c-f280bab30a849a074dbb036070a7c33c] in section 99 (being regarded as unfairly dismissed: leave for family reasons), in subsection (3) (prescribed reasons), after paragraph (aa) (as inserted by section 127(2)(b)) there is inserted—
 
   > - (ab) time off under section 57ZJ or 57ZL,
 
   ;
-- (d)[^key-89d5c105c56474646a5bc7c9d60d0765] in section 225 (the calculation date in finding a week's pay), after subsection (3A) (as inserted by section 127(2)(c)) there is inserted—
+- (d)[^c-89d5c105c56474646a5bc7c9d60d0765] in section 225 (the calculation date in finding a week's pay), after subsection (3A) (as inserted by section 127(2)(c)) there is inserted—
 
   > (3B) Where the calculation is for the purposes of section 57ZK or 57ZM, the calculation date is the day of the appointment.
 
   ;
-- (e)[^key-89d5c105c56474646a5bc7c9d60d0765] in section 235 (other definitions), in subsection (1), at the appropriate place there is inserted—
+- (e)[^c-89d5c105c56474646a5bc7c9d60d0765] in section 235 (other definitions), in subsection (1), at the appropriate place there is inserted—
 
   > “**local authority**”, in relation to the placement of children under section 22C of the Children Act 1989, has the same meaning as in that Act (see section 105(1) of that Act);”;
   >
@@ -368,6 +368,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89d5c105c56474646a5bc7c9d60d0765]: Commencement: [S. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/e) in force at 5.4.2015 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
+[^c-89d5c105c56474646a5bc7c9d60d0765]: Commencement: [S. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/e) in force at 5.4.2015 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
 
-[^key-f280bab30a849a074dbb036070a7c33c]: Commencement: [S. 128(2)(a)-(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/a) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(j)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/j)
+[^c-f280bab30a849a074dbb036070a7c33c]: Commencement: [S. 128(2)(a)-(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/2/a) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(j)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/j)

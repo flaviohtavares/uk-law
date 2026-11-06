@@ -48,7 +48,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other relevant states[^key-ba307418011036e676766b32600a39e0].
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other relevant states[^c-ba307418011036e676766b32600a39e0].
 
 (3) The report must, in particular—
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^M_E_d412a119-ad2e-4afb-986a-6f506b9564ef]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-ba307418011036e676766b32600a39e0]: Textual amendment: Words in [reg. 87(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/87/2) substituted (N.I.) (31.12.2020) by [The Pressure Vessels (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/678)](https://www.legislation.gov.uk/uksi/2020/678), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/678/regulation/1/b), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2020/678/schedule/2/paragraph/7/1)
+[^c-ba307418011036e676766b32600a39e0]: Textual amendment: Words in [reg. 87(2)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/87/2) substituted (N.I.) (31.12.2020) by [The Pressure Vessels (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/678)](https://www.legislation.gov.uk/uksi/2020/678), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/678/regulation/1/b), [Sch. 2 para. 7(1)](https://www.legislation.gov.uk/uksi/2020/678/schedule/2/paragraph/7/1)

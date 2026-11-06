@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Tests for referral to Principal Reporter and making of compulsory supervision order or interim compulsory supervision order[^key-2f80370b3212ff45d33f280dd6506ee8]
+## 50. Tests for referral to Principal Reporter and making of compulsory supervision order or interim compulsory supervision order[^c-2f80370b3212ff45d33f280dd6506ee8]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f80370b3212ff45d33f280dd6506ee8]: Commencement: S. 50 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-2f80370b3212ff45d33f280dd6506ee8]: Commencement: S. 50 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

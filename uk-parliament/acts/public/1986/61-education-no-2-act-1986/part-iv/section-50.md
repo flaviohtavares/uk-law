@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Grants for teacher training, etc.[^key-9dff5f0b77a20fc0edc4a55a3942bbb6]
+## 50. Grants for teacher training, etc.[^c-9dff5f0b77a20fc0edc4a55a3942bbb6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dff5f0b77a20fc0edc4a55a3942bbb6]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1986/61/section/50) omitted (1.9.2005) by virtue of [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/10), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-9dff5f0b77a20fc0edc4a55a3942bbb6]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1986/61/section/50) omitted (1.9.2005) by virtue of [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(a)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/a), [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2005/18/schedule/14/paragraph/10), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)

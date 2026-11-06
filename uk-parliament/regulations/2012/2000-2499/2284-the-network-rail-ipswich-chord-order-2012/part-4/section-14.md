@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Protective work to buildings[^key-83696acac5d8de327864d6c6b020a122]
+## 14. Protective work to buildings[^c-83696acac5d8de327864d6c6b020a122]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ Network Rail must compensate the owners and occupiers of the building for any lo
 
 ## Annotations
 
-[^key-83696acac5d8de327864d6c6b020a122]: Commencement: Art. 14 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-83696acac5d8de327864d6c6b020a122]: Commencement: Art. 14 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

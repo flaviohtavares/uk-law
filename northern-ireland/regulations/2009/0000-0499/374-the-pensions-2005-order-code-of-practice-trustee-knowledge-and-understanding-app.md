@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions (2005 Order) (Code of Practice) (Trustee Knowledge and Understanding) (Appointed Day) Order (Northern Ireland) 2009 (revoked)[^key-b83f58fc729c577b908521a1ed81a302]
+The Pensions (2005 Order) (Code of Practice) (Trustee Knowledge and Understanding) (Appointed Day) Order (Northern Ireland) 2009 (revoked)[^c-b83f58fc729c577b908521a1ed81a302]
 
 Made
 
 20th November 2009
 
-[^key-b83f58fc729c577b908521a1ed81a302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b83f58fc729c577b908521a1ed81a302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-b83f58fc729c577b908521a1ed81a302]
+## 1. Citation[^c-b83f58fc729c577b908521a1ed81a302]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-b83f58fc729c577b908521a1ed81a302]
+## 2. Appointed day[^c-b83f58fc729c577b908521a1ed81a302]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b83f58fc729c577b908521a1ed81a302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b83f58fc729c577b908521a1ed81a302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b83f58fc729c577b908521a1ed81a302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b83f58fc729c577b908521a1ed81a302]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b83f58fc729c577b908521a1ed81a302]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/374) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(d)](https://www.legislation.gov.uk/nisr/2024/132/article/4/d)
+[^c-b83f58fc729c577b908521a1ed81a302]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2009/374) revoked (5.7.2024) by [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 4(d)](https://www.legislation.gov.uk/nisr/2024/132/article/4/d)

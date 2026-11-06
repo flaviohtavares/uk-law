@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Transfer of staff to local policing bodies[^c22718571][^key-c7ca35d4a57306c58c68130910e03afe]
+## 24. Transfer of staff to local policing bodies[^c22718571][^c-c7ca35d4a57306c58c68130910e03afe]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22718571]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/3/section/24) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c7ca35d4a57306c58c68130910e03afe]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/3/section/24) in force at 18.7.2019 in so far as not already in force by [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1141/regulation/2)
+[^c-c7ca35d4a57306c58c68130910e03afe]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/3/section/24) in force at 18.7.2019 in so far as not already in force by [S.I. 2019/1141](https://www.legislation.gov.uk/uksi/2019/1141), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1141/regulation/2)

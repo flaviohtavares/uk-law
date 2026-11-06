@@ -32,7 +32,7 @@ Government Resources and Accounts Act (Northern Ireland) 2001
 
 An Act to make provision about government resources and accounts; and for connected purposes.
 
-\[22th March 2001\][^key-1924d4daa3bacf4d9ad9df1bafd4326f][^key-7efc631e68fb168572811e8f5452e4cc][^key-67994f18ccf37f67968144d8afc5faad][^key-028d323b3aa184ffac6f4a9d20f7ce99]
+\[22th March 2001\][^c-1924d4daa3bacf4d9ad9df1bafd4326f][^c-7efc631e68fb168572811e8f5452e4cc][^c-67994f18ccf37f67968144d8afc5faad][^c-028d323b3aa184ffac6f4a9d20f7ce99]
 
 ## The Consolidated Fund
 
@@ -169,7 +169,7 @@ for any purpose in any financial year must be authorised for that year by Budget
 
 (6) Section 8(2) and (3) of the Exchequer and Financial Provisions Act (Northern Ireland) 1950 (c. 3) (appropriation in aid) shall cease to have effect.
 
-## Estimates[^key-2cf9d9fd6ff627512bf34eb8e8908f5c]
+## Estimates[^c-2cf9d9fd6ff627512bf34eb8e8908f5c]
 
 ### 8A. Departmental estimates: inclusion of resources used by designated bodies
 
@@ -205,7 +205,7 @@ for any purpose in any financial year must be authorised for that year by Budget
 
 (1) A Northern Ireland department for which an estimate is approved by the Assembly in respect of a financial year shall prepare accounts (to be known as resource accounts) for that year detailing—
 
-- (a)[^key-63f526a3a2471dd5c9e19c1db5ad333b] resources acquired, held or disposed of during the year by—
+- (a)[^c-63f526a3a2471dd5c9e19c1db5ad333b] resources acquired, held or disposed of during the year by—
   - (i) the department, or
   - (ii) any body that is a designated body under section 8A in relation to the department for the year, and
 - (b) the use of resources during the year by the department or any such body.
@@ -220,7 +220,7 @@ for any purpose in any financial year must be authorised for that year by Budget
 
 (4) For the purposes of subsection (3)(a) and (b) the Department shall in particular—
 
-- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 256 of the Companies Act 1985 (c. 6) (accounting standards) or to[^c5491111] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^key-1ae1f501adf9c5c7cd6383b2bf560174] , and
+- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 256 of the Companies Act 1985 (c. 6) (accounting standards) or to[^c5491111] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^c-1ae1f501adf9c5c7cd6383b2bf560174] , and
 - (b) require resource accounts to include, subject to paragraph (a)—
   - (i) a statement of financial performance,
   - (ii) a statement of financial position, and
@@ -252,7 +252,7 @@ for any purpose in any financial year must be authorised for that year by Budget
 - (a) that the accounts present a true and fair view,
 - (b) that money provided by the Assembly has been expended for the purposes intended by the Assembly,
 - (c) that resources authorised by the Assembly to be used have been used for the purposes in relation to which the use was authorised, and
-- (d)[^key-e7d0e5bb698410efc5537a53fd5dcfd1] that—
+- (d)[^c-e7d0e5bb698410efc5537a53fd5dcfd1] that—
   - (i) the financial transactions of the department, and
   - (ii) the financial transactions of any body that is a designated body under section 8A in relation to the department for the year in question,
 
@@ -326,7 +326,7 @@ for any purpose in any financial year must be authorised for that year by Budget
 
 (5) For the purpose of subsection (4)(a) and (b) the Department shall in particular—
 
-- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 256 of the Companies Act 1985 (c. 6) (accounting standards) or to[^c5491151] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^key-00a01e89ba84e8cb2a3de0d20ac0aefb] , and
+- (a) have regard to any relevant guidance issued by the Accounting Standards Board Limited or any other body prescribed for the purposes of section 256 of the Companies Act 1985 (c. 6) (accounting standards) or to[^c5491151] UK-adopted international accounting standards, within the meaning given by section 474(1) of the Companies Act 2006[^c-00a01e89ba84e8cb2a3de0d20ac0aefb] , and
 - (b) ensure that the accounts include, subject to paragraph (a)—
   - (i) a statement of financial performance,
   - (ii) a statement of financial position, and
@@ -515,7 +515,7 @@ the Department shall consult with and take account of all recommendations made b
 - “the Bank” has the meaning given by section 1(1);
 - “the Comptroller and Auditor General” means the Comptroller and Auditor General for Northern Ireland;
 - “the Consolidated Fund Account” has the meaning given by section 1(1);
-- “the Department” means the Department of Finance [^key-2670ee82e47a731578658c76bdc59d5a]...;
+- “the Department” means the Department of Finance [^c-2670ee82e47a731578658c76bdc59d5a]...;
 - “statutory provision” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954 (c. 33).
 
 *S. 27—Amendments and repeals*
@@ -538,32 +538,32 @@ This Act may be cited as the Government Resources and Accounts Act (Northern Ire
 
 ## Annotations
 
-[^key-1924d4daa3bacf4d9ad9df1bafd4326f]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (19.7.2018) by [Northern Ireland Budget Act 2018 (c. 20)](https://www.legislation.gov.uk/ukpga/2018/20), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2018/20/section/5/2)
+[^c-1924d4daa3bacf4d9ad9df1bafd4326f]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (19.7.2018) by [Northern Ireland Budget Act 2018 (c. 20)](https://www.legislation.gov.uk/ukpga/2018/20), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2018/20/section/5/2)
 
-[^key-7efc631e68fb168572811e8f5452e4cc]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (31.10.2019) by [Northern Ireland Budget Act 2019 (c. 30)](https://www.legislation.gov.uk/ukpga/2019/30), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2019/30/section/5/2)
+[^c-7efc631e68fb168572811e8f5452e4cc]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (31.10.2019) by [Northern Ireland Budget Act 2019 (c. 30)](https://www.legislation.gov.uk/ukpga/2019/30), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2019/30/section/5/2)
 
-[^key-67994f18ccf37f67968144d8afc5faad]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (8.2.2023) by [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2023/3/section/13/2)
+[^c-67994f18ccf37f67968144d8afc5faad]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (8.2.2023) by [Northern Ireland Budget Act 2023 (c. 3)](https://www.legislation.gov.uk/ukpga/2023/3), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2023/3/section/13/2)
 
-[^key-028d323b3aa184ffac6f4a9d20f7ce99]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (18.9.2023) by [Northern Ireland Budget (No. 2) Act 2023 (c. 43)](https://www.legislation.gov.uk/ukpga/2023/43), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/43/section/7/2)
+[^c-028d323b3aa184ffac6f4a9d20f7ce99]: Modification: [Act](https://www.legislation.gov.uk/nia/2001/6) applied (with modifications) (18.9.2023) by [Northern Ireland Budget (No. 2) Act 2023 (c. 43)](https://www.legislation.gov.uk/ukpga/2023/43), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/43/section/7/2)
 
 [^c21164261]: Modification: [S. 8(1)](https://www.legislation.gov.uk/nia/2001/6/section/8/1) referred to (2.7.2008) by [Budget (No. 2) Act (Northern Ireland) 2008 (c. 11)](https://www.legislation.gov.uk/nia/2008/11), [s. 4(1)](https://www.legislation.gov.uk/nia/2008/11/section/4/1)
 
 [^c22031391]: Modification: [S. 8(1)](https://www.legislation.gov.uk/nia/2001/6/section/8/1) referred to (28.6.2010) by [Budget (No. 3) Act (Northern Ireland) 2010 (c. 11)](https://www.legislation.gov.uk/nia/2010/11), [s. 4(1)](https://www.legislation.gov.uk/nia/2010/11/section/4/1)
 
-[^key-2cf9d9fd6ff627512bf34eb8e8908f5c]: Textual amendment: [Ss. 8A](https://www.legislation.gov.uk/nia/2001/6/section/8A), [8B](https://www.legislation.gov.uk/nia/2001/6/section/8B) and cross-heading inserted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/8/section/1/2), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-2cf9d9fd6ff627512bf34eb8e8908f5c]: Textual amendment: [Ss. 8A](https://www.legislation.gov.uk/nia/2001/6/section/8A), [8B](https://www.legislation.gov.uk/nia/2001/6/section/8B) and cross-heading inserted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/8/section/1/2), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
 
-[^key-63f526a3a2471dd5c9e19c1db5ad333b]: Textual amendment: [S. 9(1)(a)](https://www.legislation.gov.uk/nia/2001/6/section/9/1/a)[(b)](https://www.legislation.gov.uk/nia/2001/6/section/9/1/b) substituted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(3)](https://www.legislation.gov.uk/nia/2022/8/section/1/3), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-63f526a3a2471dd5c9e19c1db5ad333b]: Textual amendment: [S. 9(1)(a)](https://www.legislation.gov.uk/nia/2001/6/section/9/1/a)[(b)](https://www.legislation.gov.uk/nia/2001/6/section/9/1/b) substituted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(3)](https://www.legislation.gov.uk/nia/2022/8/section/1/3), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
 
 [^c5491111]: Textual amendment: SR 2004/496
 
-[^key-1ae1f501adf9c5c7cd6383b2bf560174]: Textual amendment: Words in [s. 9(4)(a)](https://www.legislation.gov.uk/nia/2001/6/section/9/4/a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/51) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ae1f501adf9c5c7cd6383b2bf560174]: Textual amendment: Words in [s. 9(4)(a)](https://www.legislation.gov.uk/nia/2001/6/section/9/4/a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/51) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7d0e5bb698410efc5537a53fd5dcfd1]: Textual amendment: [S. 10(1)(d)](https://www.legislation.gov.uk/nia/2001/6/section/10/1/d) substituted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(4)](https://www.legislation.gov.uk/nia/2022/8/section/1/4), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-e7d0e5bb698410efc5537a53fd5dcfd1]: Textual amendment: [S. 10(1)(d)](https://www.legislation.gov.uk/nia/2001/6/section/10/1/d) substituted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(4)](https://www.legislation.gov.uk/nia/2022/8/section/1/4), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
 
 [^c5491131]: Textual amendment: [2003 NI 5](https://www.legislation.gov.uk/2003/ni5)
 
 [^c5491151]: Textual amendment: SR 2004/496
 
-[^key-00a01e89ba84e8cb2a3de0d20ac0aefb]: Textual amendment: Words in [s. 14(5)(a)](https://www.legislation.gov.uk/nia/2001/6/section/14/5/a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/52) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00a01e89ba84e8cb2a3de0d20ac0aefb]: Textual amendment: Words in [s. 14(5)(a)](https://www.legislation.gov.uk/nia/2001/6/section/14/5/a) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/52) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2670ee82e47a731578658c76bdc59d5a]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/nia/2001/6/section/26/2) omitted (31.3.2022) by virtue of [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 2](https://www.legislation.gov.uk/nia/2022/8/section/2), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-2670ee82e47a731578658c76bdc59d5a]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/nia/2001/6/section/26/2) omitted (31.3.2022) by virtue of [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 2](https://www.legislation.gov.uk/nia/2022/8/section/2), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)

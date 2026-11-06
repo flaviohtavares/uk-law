@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Protected taxpayer information: declaration of confidentiality[^key-e7d4a5281a085d38b2187d3cc7941b2b]
+## 16. Protected taxpayer information: declaration of confidentiality[^c-e7d4a5281a085d38b2187d3cc7941b2b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d4a5281a085d38b2187d3cc7941b2b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/16/section/16) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-e7d4a5281a085d38b2187d3cc7941b2b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/16/section/16) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

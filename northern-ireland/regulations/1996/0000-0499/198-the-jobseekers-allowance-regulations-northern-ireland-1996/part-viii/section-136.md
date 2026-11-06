@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Treatment of student loans[^key-ab7668249628dfe461302f5c11c8046e]
+## 136. Treatment of student loans[^c-ab7668249628dfe461302f5c11c8046e]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ and from the weekly amount so apportioned there shall be disregarded £10.
 
 ## Annotations
 
-[^key-ab7668249628dfe461302f5c11c8046e]: Commencement: Reg. 136 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ab7668249628dfe461302f5c11c8046e]: Commencement: Reg. 136 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00118]: Footnote: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506)
 

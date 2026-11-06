@@ -30,7 +30,7 @@ summary: ''
 (3) The conditions are that—
 
 - (a) the Secretary of State is of the opinion that unless there is a change of circumstances the claimant will satisfy the conditions set out in section 1(3)(b) to (f) of, and Part 2 of Schedule 1 to, the Act when an income-related allowance becomes payable under the award; and
-- (b) the claimant is treated as having limited capability for work under regulation 20, 25, 26, 30[^key-6b64773b2d23036119c2072e79ef4da1] or 33(2) (conditions for treating a person as having limited capability for work) for the period before an income-related allowance becomes payable under the award.
+- (b) the claimant is treated as having limited capability for work under regulation 20, 25, 26, 30[^c-6b64773b2d23036119c2072e79ef4da1] or 33(2) (conditions for treating a person as having limited capability for work) for the period before an income-related allowance becomes payable under the award.
 
 (4) Where an award is made under paragraph (1)—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b64773b2d23036119c2072e79ef4da1]: Textual amendment: Word in reg. 146(3)(b) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/9/2)
+[^c-6b64773b2d23036119c2072e79ef4da1]: Textual amendment: Word in reg. 146(3)(b) substituted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/9/2)

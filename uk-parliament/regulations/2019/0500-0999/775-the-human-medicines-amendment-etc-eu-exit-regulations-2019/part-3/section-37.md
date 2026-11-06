@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Insertion of new regulations 45AA and 45AB (responsible persons: import)[^key-3b6b496a49bd708c70c6d4e5476ce453]
+## 37. Insertion of new regulations 45AA and 45AB (responsible persons: import)[^c-3b6b496a49bd708c70c6d4e5476ce453]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ After regulation 45, insert—
 
 > **45AA. Requirement as to responsible persons where licence holder imports from an approved country for import**
 >
-> (1) Subject to paragraph (2), this regulation applies to a licence holder in Great Britain[^key-b1f0e1accedd851863cd842718ecaaa9] where the licence holder imports a medicinal product from an approved country for import under a wholesale dealer's licence.
+> (1) Subject to paragraph (2), this regulation applies to a licence holder in Great Britain[^c-b1f0e1accedd851863cd842718ecaaa9] where the licence holder imports a medicinal product from an approved country for import under a wholesale dealer's licence.
 >
 > (2) The requirements of this regulation do not apply where an unlicensed medicinal product falling under paragraph (1) is imported—
 >
@@ -35,8 +35,8 @@ After regulation 45, insert—
 >
 > (4) A responsible person (import) must—
 >
-> - (a) carry out the functions under regulation 45(2), unless a responsible person under regulation 45 is performing those functions in respect of the licence; [^key-dd434dce2ed3ca17d3f64087e28c9b7b]...
-> - (b) ensure that there is appropriate evidence to confirm that each production batch of a medicine imported from an approved country for import under the licence has been certified as provided for in Article 51 of the 2001 Directive, or such equivalent certification procedure as applies in the approved country for import ; and[^key-81ba2b23a5f143c0ba6de14f5fec41d2]
+> - (a) carry out the functions under regulation 45(2), unless a responsible person under regulation 45 is performing those functions in respect of the licence; [^c-dd434dce2ed3ca17d3f64087e28c9b7b]...
+> - (b) ensure that there is appropriate evidence to confirm that each production batch of a medicine imported from an approved country for import under the licence has been certified as provided for in Article 51 of the 2001 Directive, or such equivalent certification procedure as applies in the approved country for import ; and[^c-81ba2b23a5f143c0ba6de14f5fec41d2]
 > - (c) ensure that each production batch of a medicinal product that is subject to the batch testing condition and that is imported into Great Britain from an approved country for import has been certified as being in conformity with the approved specifications in the UK marketing authorisation by—
 >   - (i) the appropriate authority, or
 >   - (ii) where the batch testing exemption applies, a laboratory in a country that has an agreement with the United Kingdom to the effect that the appropriate authority will recognise that certificate in place of the appropriate authority’s own examination.
@@ -90,10 +90,10 @@ After regulation 45, insert—
 
 ## Annotations
 
-[^key-3b6b496a49bd708c70c6d4e5476ce453]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3b6b496a49bd708c70c6d4e5476ce453]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b1f0e1accedd851863cd842718ecaaa9]: Textual amendment: Words in reg. 37 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/27/a)
+[^c-b1f0e1accedd851863cd842718ecaaa9]: Textual amendment: Words in reg. 37 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/27/a)
 
-[^key-dd434dce2ed3ca17d3f64087e28c9b7b]: Textual amendment: Word in reg. 37 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/27/b)
+[^c-dd434dce2ed3ca17d3f64087e28c9b7b]: Textual amendment: Word in reg. 37 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/27/b)
 
-[^key-81ba2b23a5f143c0ba6de14f5fec41d2]: Textual amendment: Words in reg. 37 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/27/c)
+[^c-81ba2b23a5f143c0ba6de14f5fec41d2]: Textual amendment: Words in reg. 37 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/27/c)

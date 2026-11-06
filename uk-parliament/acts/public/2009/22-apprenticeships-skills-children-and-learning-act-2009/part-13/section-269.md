@@ -46,7 +46,7 @@ summary: ''
 
 (4) The other provisions of this Act come into force on such day as the Secretary of State may by order appoint.
 
-(5)[^key-9b64fc381f516c9938dbbd5ebabf2386] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9b64fc381f516c9938dbbd5ebabf2386] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Before making an order under subsection (4) bringing into force any provision of Part 7 which confers functions on the Office of Qualifications and Examinations Regulation in relation to Northern Ireland, the Secretary of State must consult the Department for Employment and Learning in Northern Ireland.
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b64fc381f516c9938dbbd5ebabf2386]: Textual amendment: S. 269(5) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/18/paragraph/14); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-9b64fc381f516c9938dbbd5ebabf2386]: Textual amendment: S. 269(5) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 18 para. 14](https://www.legislation.gov.uk/ukpga/2011/21/schedule/18/paragraph/14); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

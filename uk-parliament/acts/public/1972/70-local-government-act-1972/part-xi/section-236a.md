@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 236A. Alternative procedure for certain byelaws[^c22561621][^key-f6dcb37cea839681f0458be1344651f9][^c19657401]
+## 236A. Alternative procedure for certain byelaws[^c22561621][^c-f6dcb37cea839681f0458be1344651f9][^c19657401]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 [^c22561621]: Modification: Ss. 236-238 applied (with modifications) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/31/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-f6dcb37cea839681f0458be1344651f9]: Modification: Ss. 236-237 applied (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/33/2)
+[^c-f6dcb37cea839681f0458be1344651f9]: Modification: Ss. 236-237 applied (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/33/2)
 
 [^c19657401]: Textual amendment: S. 236A inserted (27.1.2010) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 129(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/129/3), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/112/article/2/a)

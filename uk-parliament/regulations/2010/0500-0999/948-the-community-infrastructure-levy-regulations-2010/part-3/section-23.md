@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Publication of the examiner’s recommendations[^key-f1a121e7611a4b251e9a71b42d14a785]
+## 23. Publication of the examiner’s recommendations[^c-f1a121e7611a4b251e9a71b42d14a785]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1a121e7611a4b251e9a71b42d14a785]: Commencement: Reg. 23 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-f1a121e7611a4b251e9a71b42d14a785]: Commencement: Reg. 23 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-a92cac64a6b8fe03af7e5035d93baa7d]
+## 1. Citation and commencement[^c-a92cac64a6b8fe03af7e5035d93baa7d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Wrexham Gas Fired Generating Station Order 2017 a
 
 ## Annotations
 
-[^key-a92cac64a6b8fe03af7e5035d93baa7d]: Commencement: Art. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-a92cac64a6b8fe03af7e5035d93baa7d]: Commencement: Art. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

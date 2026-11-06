@@ -34,7 +34,7 @@ Taxes
 
 Tonnage Tax
 
-The Tonnage Tax (Training Requirement) (Amendment) Regulations 2010 (revoked)[^key-4b49a167b8b1ffb9878e0a31d3867aeb]
+The Tonnage Tax (Training Requirement) (Amendment) Regulations 2010 (revoked)[^c-4b49a167b8b1ffb9878e0a31d3867aeb]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 1st October 2010
 
-[^key-4b49a167b8b1ffb9878e0a31d3867aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b49a167b8b1ffb9878e0a31d3867aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4b49a167b8b1ffb9878e0a31d3867aeb]
+## 1. Citation and commencement[^c-4b49a167b8b1ffb9878e0a31d3867aeb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-4b49a167b8b1ffb9878e0a31d3867aeb]
+## 2. Application[^c-4b49a167b8b1ffb9878e0a31d3867aeb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payments in lieu of training[^key-4b49a167b8b1ffb9878e0a31d3867aeb]
+## 3. Payments in lieu of training[^c-4b49a167b8b1ffb9878e0a31d3867aeb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-4b49a167b8b1ffb9878e0a31d3867aeb]
+## 4. Revocations[^c-4b49a167b8b1ffb9878e0a31d3867aeb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b49a167b8b1ffb9878e0a31d3867aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b49a167b8b1ffb9878e0a31d3867aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b49a167b8b1ffb9878e0a31d3867aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b49a167b8b1ffb9878e0a31d3867aeb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b49a167b8b1ffb9878e0a31d3867aeb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2158) revoked (1.10.2011) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2011 (S.I. 2011/2185)](https://www.legislation.gov.uk/uksi/2011/2185), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2185/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2185/regulation/4)
+[^c-4b49a167b8b1ffb9878e0a31d3867aeb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2158) revoked (1.10.2011) by [The Tonnage Tax (Training Requirement) (Amendment) Regulations 2011 (S.I. 2011/2185)](https://www.legislation.gov.uk/uksi/2011/2185), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2185/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2185/regulation/4)

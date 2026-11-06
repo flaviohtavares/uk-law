@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Housing Revenue Account subsidy: payment and calculation[^key-10ce1351ced30262f8f23ee6cfeb0e6d][^key-8d547553251bafe7166cb8fb9ba2ae32]
+## 89. Housing Revenue Account subsidy: payment and calculation[^c-10ce1351ced30262f8f23ee6cfeb0e6d][^c-8d547553251bafe7166cb8fb9ba2ae32]
 
 *Extent: E+W*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10ce1351ced30262f8f23ee6cfeb0e6d]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2003/26/section/89) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-10ce1351ced30262f8f23ee6cfeb0e6d]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2003/26/section/89) in force at 18.11.2003 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-8d547553251bafe7166cb8fb9ba2ae32]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2003/26/section/89) in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-8d547553251bafe7166cb8fb9ba2ae32]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2003/26/section/89) in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)

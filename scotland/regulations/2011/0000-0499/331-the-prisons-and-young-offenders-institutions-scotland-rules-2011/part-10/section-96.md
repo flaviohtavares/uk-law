@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-ff2279ccf84b3e248dce827a76d8a839] In this rule “restraint” means—
+(1)[^c-ff2279ccf84b3e248dce827a76d8a839] In this rule “restraint” means—
 
 - (a) a body belt; or
 - (b) a back board.
@@ -47,7 +47,7 @@ the Governor must refrain from making an order under paragraph (2) or, as the ca
 
 (6) The following conditions apply to all restraint orders and the enforcement of such orders:—
 
-- (a) only persons trained to use a restraint[^key-5a012fccb4a5acffb21491186691b30a] may do so;
+- (a) only persons trained to use a restraint[^c-5a012fccb4a5acffb21491186691b30a] may do so;
 - (b) the Governor must keep a written record of the particulars of each order made under paragraph (2) including the reasons for making the order;
 - (c) an order under paragraph (2) must not be used as a punishment;
 - (d) an officer must monitor the prisoner continuously during the period that the prisoner is placed under a restraint;
@@ -58,6 +58,6 @@ the Governor must refrain from making an order under paragraph (2) or, as the ca
 
 ## Annotations
 
-[^key-ff2279ccf84b3e248dce827a76d8a839]: Textual amendment: Rule 96(1) substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(14)(a)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/14/a)
+[^c-ff2279ccf84b3e248dce827a76d8a839]: Textual amendment: Rule 96(1) substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(14)(a)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/14/a)
 
-[^key-5a012fccb4a5acffb21491186691b30a]: Textual amendment: Word in rule 96(6)(a) substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(14)(b)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/14/b)
+[^c-5a012fccb4a5acffb21491186691b30a]: Textual amendment: Word in rule 96(6)(a) substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(14)(b)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/14/b)

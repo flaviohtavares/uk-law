@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Further amendment of Commission Implementing Regulation (EU) No 1034/2011[^key-374e12c388537dcf61b175380e11f8eb]
+## 244. Further amendment of Commission Implementing Regulation (EU) No 1034/2011[^c-374e12c388537dcf61b175380e11f8eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-374e12c388537dcf61b175380e11f8eb]: Textual amendment: Regs. 223-244 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(4)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/4)
+[^c-374e12c388537dcf61b175380e11f8eb]: Textual amendment: Regs. 223-244 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(4)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/4)

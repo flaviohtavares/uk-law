@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Additional Community Governors[^key-6b36003d836aef71c00b2fa13b4ccc65]
+## 31. Additional Community Governors[^c-6b36003d836aef71c00b2fa13b4ccc65]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which serves an area for which there are one or more community councils.
 
 ## Annotations
 
-[^key-6b36003d836aef71c00b2fa13b4ccc65]: Commencement: Reg. 31 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-6b36003d836aef71c00b2fa13b4ccc65]: Commencement: Reg. 31 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

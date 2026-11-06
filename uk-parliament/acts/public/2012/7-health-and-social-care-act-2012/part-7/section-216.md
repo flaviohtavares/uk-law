@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Appeals in cases involving social workers in England[^key-cfbd2ea127f830c5855aae087d6f7f3f]
+## 216. Appeals in cases involving social workers in England[^c-cfbd2ea127f830c5855aae087d6f7f3f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfbd2ea127f830c5855aae087d6f7f3f]: Textual amendment: [S. 216](https://www.legislation.gov.uk/ukpga/2012/7/section/216) omitted (2.12.2019) by virtue of [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/38); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-cfbd2ea127f830c5855aae087d6f7f3f]: Textual amendment: [S. 216](https://www.legislation.gov.uk/ukpga/2012/7/section/216) omitted (2.12.2019) by virtue of [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 38](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/38); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Compulsory acquisition of land – incorporation of the mineral code[^key-888d1f3630ac8c70ac93f6a72bf7774f]
+## 25. Compulsory acquisition of land – incorporation of the mineral code[^c-888d1f3630ac8c70ac93f6a72bf7774f]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-888d1f3630ac8c70ac93f6a72bf7774f]: Commencement: Art. 25 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-888d1f3630ac8c70ac93f6a72bf7774f]: Commencement: Art. 25 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00049]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

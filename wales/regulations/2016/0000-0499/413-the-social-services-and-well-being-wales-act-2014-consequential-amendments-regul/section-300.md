@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**300.**[^key-01773019d8ace70ba2c4cbf6249623e8] In section 77 (accommodation for children in police protection or detention or on remand etc)—
+**300.**[^c-01773019d8ace70ba2c4cbf6249623e8] In section 77 (accommodation for children in police protection or detention or on remand etc)—
 
 - (a) in subsection (4)(b)(i) after “local authority” insert “or local authority in England”;
 - (b) in subsection (5) after “local authority” insert “or local authority in England”.
 
 ## Annotations
 
-[^key-01773019d8ace70ba2c4cbf6249623e8]: Commencement: Reg. 300 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-01773019d8ace70ba2c4cbf6249623e8]: Commencement: Reg. 300 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

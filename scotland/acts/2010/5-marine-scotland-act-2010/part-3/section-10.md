@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Effect of withdrawal from or of marine policy statement or of national marine plan[^key-30289bc178c5e76149cea41902c89322]
+## 10. Effect of withdrawal from or of marine policy statement or of national marine plan[^c-30289bc178c5e76149cea41902c89322]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30289bc178c5e76149cea41902c89322]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2010/5/section/10) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-30289bc178c5e76149cea41902c89322]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2010/5/section/10) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

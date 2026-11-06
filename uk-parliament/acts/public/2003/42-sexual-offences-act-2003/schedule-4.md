@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Procedure for ending notification requirements for abolished homosexual offences (Extent: N.I.) (affected by repeal, see note)Procedure for ending notification requirements for acts which are no longer offences (Extent: N.I.)[^key-7f5aaafe8155093a8e06ac42236311c2]
+## SCHEDULE 4 — Procedure for ending notification requirements for abolished homosexual offences (Extent: N.I.) (affected by repeal, see note)Procedure for ending notification requirements for acts which are no longer offences (Extent: N.I.)[^c-7f5aaafe8155093a8e06ac42236311c2]
 
 *Extent: E+W+N.I.*
 
@@ -24,10 +24,10 @@ Section 93
 
 ### Scope of Schedule
 
-**1.** This Schedule applies where a relevant offender is subject to the notification requirements of this Part as a result of a conviction, finding or caution in respect of an offence under— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed41827a4447fa4686999944caf21c50]
+**1.** This Schedule applies where a relevant offender is subject to the notification requirements of this Part as a result of a conviction, finding or caution in respect of an offence under— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed41827a4447fa4686999944caf21c50]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ed41827a4447fa4686999944caf21c50] section 12 or 13 of the Sexual Offences Act 1956 (c. 69) (buggery or indecency between men), or *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed41827a4447fa4686999944caf21c50]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ed41827a4447fa4686999944caf21c50] section 61 of the Offences against the Person Act 1861 (c. 100) or section 11 of the Criminal Law Amendment Act 1885 (c. 69) (corresponding Northern Ireland offences). *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed41827a4447fa4686999944caf21c50]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ed41827a4447fa4686999944caf21c50] section 12 or 13 of the Sexual Offences Act 1956 (c. 69) (buggery or indecency between men), or *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed41827a4447fa4686999944caf21c50]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ed41827a4447fa4686999944caf21c50] section 61 of the Offences against the Person Act 1861 (c. 100) or section 11 of the Criminal Law Amendment Act 1885 (c. 69) (corresponding Northern Ireland offences). *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed41827a4447fa4686999944caf21c50]
 
 This Schedule applies where a relevant offender is subject to the notification requirements of this Part as a result of a conviction, finding or caution in respect of an offence under— *(Extent: N.I.)*
 
@@ -37,12 +37,12 @@ This Schedule applies where a relevant offender is subject to the notification r
 
 ### Application for decision
 
-**2.** (1) The relevant offender may apply to the Secretary of State for a decision as to whether it appears that, at the time of the offence, the other party to the act of buggery or gross indecency— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fe229e0129889acb6422bc91eaf84d2e]
+**2.** (1) The relevant offender may apply to the Secretary of State for a decision as to whether it appears that, at the time of the offence, the other party to the act of buggery or gross indecency— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-fe229e0129889acb6422bc91eaf84d2e]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-fe229e0129889acb6422bc91eaf84d2e] where paragraph 1(a) applies, was aged 16 or over, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fe229e0129889acb6422bc91eaf84d2e]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-fe229e0129889acb6422bc91eaf84d2e] where paragraph 1(b) applies, was aged 17 or over, *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fe229e0129889acb6422bc91eaf84d2e]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-fe229e0129889acb6422bc91eaf84d2e] where paragraph 1(a) applies, was aged 16 or over, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-fe229e0129889acb6422bc91eaf84d2e]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-fe229e0129889acb6422bc91eaf84d2e] where paragraph 1(b) applies, was aged 17 or over, *(Extent: N.I.)* *(affected by repeal, see note)*[^c-fe229e0129889acb6422bc91eaf84d2e]
 
-and consented to the act. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-fe229e0129889acb6422bc91eaf84d2e]
+and consented to the act. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-fe229e0129889acb6422bc91eaf84d2e]
 
 The relevant offender may apply to the Department of Justice for a decision as to whether it appears that, at the time of the offence, the other party to the act of buggery, carnal knowledge or gross indecency consented to the act and— *(Extent: N.I.)*
 
@@ -100,11 +100,11 @@ but is not to seek evidence from any witness.
 - (a) a reference to an attempt, conspiracy or incitement to commit that offence, and
 - (b) a reference to aiding, abetting, counselling or procuring the commission of that offence.
 
-(2) In the case of an attempt, conspiracy or incitement, references in paragraph 2 to the act of buggery, carnal knowledge *(Extent: N.I.)*[^key-22932bf03ac7d6464a81d87b9e0a79a8] or gross indecency are references to the act of buggery, carnal knowledge *(Extent: N.I.)* or gross indecency to which the attempt, conspiracy or incitement related (whether or not that act occurred).
+(2) In the case of an attempt, conspiracy or incitement, references in paragraph 2 to the act of buggery, carnal knowledge *(Extent: N.I.)*[^c-22932bf03ac7d6464a81d87b9e0a79a8] or gross indecency are references to the act of buggery, carnal knowledge *(Extent: N.I.)* or gross indecency to which the attempt, conspiracy or incitement related (whether or not that act occurred).
 
 *Extent: N.I.*
 
-(3)[^key-1328f79615d1f2adb4aae0b75014fa70] Sub-paragraphs (1) and (2) apply, with appropriate modifications, to an offence under Part 2 of the Serious Crime Act 2007 as they apply to the offence of incitement.
+(3)[^c-1328f79615d1f2adb4aae0b75014fa70] Sub-paragraphs (1) and (2) apply, with appropriate modifications, to an offence under Part 2 of the Serious Crime Act 2007 as they apply to the offence of incitement.
 
 ### Transitional provision
 
@@ -112,12 +112,12 @@ but is not to seek evidence from any witness.
 
 ## Annotations
 
-[^key-7f5aaafe8155093a8e06ac42236311c2]: Textual amendment: Sch. 4 heading substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(3)](https://www.legislation.gov.uk/nia/2013/7/section/3/3), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-7f5aaafe8155093a8e06ac42236311c2]: Textual amendment: Sch. 4 heading substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(3)](https://www.legislation.gov.uk/nia/2013/7/section/3/3), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
 
-[^key-ed41827a4447fa4686999944caf21c50]: Textual amendment: Sch. 4 para. 1 substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(3)](https://www.legislation.gov.uk/nia/2013/7/section/3/3), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-ed41827a4447fa4686999944caf21c50]: Textual amendment: Sch. 4 para. 1 substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(3)](https://www.legislation.gov.uk/nia/2013/7/section/3/3), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
 
-[^key-fe229e0129889acb6422bc91eaf84d2e]: Textual amendment: Sch. 4 para. 2(1) substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(4)](https://www.legislation.gov.uk/nia/2013/7/section/3/4), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-fe229e0129889acb6422bc91eaf84d2e]: Textual amendment: Sch. 4 para. 2(1) substituted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(4)](https://www.legislation.gov.uk/nia/2013/7/section/3/4), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
 
-[^key-22932bf03ac7d6464a81d87b9e0a79a8]: Textual amendment: Words in Sch. 4 para. 6(2) inserted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(5)](https://www.legislation.gov.uk/nia/2013/7/section/3/5), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-22932bf03ac7d6464a81d87b9e0a79a8]: Textual amendment: Words in Sch. 4 para. 6(2) inserted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(5)](https://www.legislation.gov.uk/nia/2013/7/section/3/5), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
 
-[^key-1328f79615d1f2adb4aae0b75014fa70]: Textual amendment: Sch. 4 para. 6(3) inserted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(5)](https://www.legislation.gov.uk/nia/2013/7/section/3/5), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)
+[^c-1328f79615d1f2adb4aae0b75014fa70]: Textual amendment: Sch. 4 para. 6(3) inserted (N.I.) (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(5)](https://www.legislation.gov.uk/nia/2013/7/section/3/5), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1)

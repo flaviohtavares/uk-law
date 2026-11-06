@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Appointment of Director of Agency’s receivers[^key-97670e3c915c4777fda629143892ce56]
+## 30. Appointment of Director of Agency’s receivers[^c-97670e3c915c4777fda629143892ce56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97670e3c915c4777fda629143892ce56]: Textual amendment: [Arts. 30-32](https://www.legislation.gov.uk/uksi/2005/3181/article/30) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2008/302/article/2/11)
+[^c-97670e3c915c4777fda629143892ce56]: Textual amendment: [Arts. 30-32](https://www.legislation.gov.uk/uksi/2005/3181/article/30) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2008/302/article/2/11)

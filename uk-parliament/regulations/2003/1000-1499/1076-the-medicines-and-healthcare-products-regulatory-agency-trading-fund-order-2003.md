@@ -31,7 +31,7 @@ summary: ''
 
 GOVERNMENT TRADING FUNDS
 
-The Medicines and Healthcare Products Regulatory Agency Trading Fund Order 2003 (revoked)[^key-b730747cf971811770800fa48eb1d2ea]
+The Medicines and Healthcare Products Regulatory Agency Trading Fund Order 2003 (revoked)[^c-b730747cf971811770800fa48eb1d2ea]
 
 Made
 
@@ -41,76 +41,76 @@ Coming into force
 
 1st April 2003
 
-[^key-b730747cf971811770800fa48eb1d2ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b730747cf971811770800fa48eb1d2ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b730747cf971811770800fa48eb1d2ea]
+## 1. Citation, commencement and interpretation[^c-b730747cf971811770800fa48eb1d2ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of the fund[^key-b730747cf971811770800fa48eb1d2ea]
+## 2. Establishment of the fund[^c-b730747cf971811770800fa48eb1d2ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Source of loans[^key-b730747cf971811770800fa48eb1d2ea]
+## 3. Source of loans[^c-b730747cf971811770800fa48eb1d2ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assets, liabilities, reserves and public dividend capital[^key-b730747cf971811770800fa48eb1d2ea]
+## 4. Assets, liabilities, reserves and public dividend capital[^c-b730747cf971811770800fa48eb1d2ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum borrowing etc.[^key-b730747cf971811770800fa48eb1d2ea]
+## 5. Maximum borrowing etc.[^c-b730747cf971811770800fa48eb1d2ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-b730747cf971811770800fa48eb1d2ea]
+## 6. Revocation[^c-b730747cf971811770800fa48eb1d2ea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b730747cf971811770800fa48eb1d2ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b730747cf971811770800fa48eb1d2ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FUNDED OPERATIONS[^key-b730747cf971811770800fa48eb1d2ea]
+## SCHEDULE 1 — FUNDED OPERATIONS[^c-b730747cf971811770800fa48eb1d2ea]
 
 Article 2
 
-**1.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ASSETS AND LIABILITIES APPROPRIATED AS THOSE OF THE FUND[^key-b730747cf971811770800fa48eb1d2ea]
+## SCHEDULE 2 — ASSETS AND LIABILITIES APPROPRIATED AS THOSE OF THE FUND[^c-b730747cf971811770800fa48eb1d2ea]
 
 Article 4(1)
 
-### PART I — ASSETS[^key-b730747cf971811770800fa48eb1d2ea]
+### PART I — ASSETS[^c-b730747cf971811770800fa48eb1d2ea]
 
-**1.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — LIABILITIES[^key-b730747cf971811770800fa48eb1d2ea]
+### PART II — LIABILITIES[^c-b730747cf971811770800fa48eb1d2ea]
 
-**1.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b730747cf971811770800fa48eb1d2ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b730747cf971811770800fa48eb1d2ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b730747cf971811770800fa48eb1d2ea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b730747cf971811770800fa48eb1d2ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1076) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-b730747cf971811770800fa48eb1d2ea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2003/1076) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)

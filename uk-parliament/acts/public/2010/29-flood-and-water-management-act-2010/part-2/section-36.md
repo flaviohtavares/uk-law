@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Water use: temporary bans[^key-b07ddc0ece166a6b3e162ce06ec493ff][^key-2a37d0085c88d295dde7bbfc178fcc18]
+## 36. Water use: temporary bans[^c-b07ddc0ece166a6b3e162ce06ec493ff][^c-2a37d0085c88d295dde7bbfc178fcc18]
 
 *Extent: E+W*
 
@@ -118,6 +118,6 @@ For section 76 of the Water Industry Act 1991 (temporary hosepipe bans) substitu
 
 ## Annotations
 
-[^key-b07ddc0ece166a6b3e162ce06ec493ff]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2010/29/section/36) in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2169/article/5))
+[^c-b07ddc0ece166a6b3e162ce06ec493ff]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2010/29/section/36) in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2169/article/5))
 
-[^key-2a37d0085c88d295dde7bbfc178fcc18]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2010/29/section/36) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-2a37d0085c88d295dde7bbfc178fcc18]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2010/29/section/36) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

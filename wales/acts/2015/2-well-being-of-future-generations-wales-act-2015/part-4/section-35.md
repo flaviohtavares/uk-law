@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Overview and scrutiny committee of local authority[^key-fa790d6eaab63a7d6b0988382906bfaa]
+## 35. Overview and scrutiny committee of local authority[^c-fa790d6eaab63a7d6b0988382906bfaa]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa790d6eaab63a7d6b0988382906bfaa]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/2/section/35) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-fa790d6eaab63a7d6b0988382906bfaa]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2015/2/section/35) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Fees[^key-263768959564a382d1d560fc8dfd79d4]
+## 212. Fees[^c-263768959564a382d1d560fc8dfd79d4]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-263768959564a382d1d560fc8dfd79d4]: Commencement: S. 212 in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 3(3), 4)
+[^c-263768959564a382d1d560fc8dfd79d4]: Commencement: S. 212 in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 3(3), 4)

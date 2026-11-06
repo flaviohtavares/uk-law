@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Prescribed percentage rates of return[^key-873b5cdba97a17ee1dd88c59bc57e6cb]
+## 140. Prescribed percentage rates of return[^c-873b5cdba97a17ee1dd88c59bc57e6cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 7(11) of the Insurance Companies (Taxation of Reinsurance Business
 
 ## Annotations
 
-[^key-873b5cdba97a17ee1dd88c59bc57e6cb]: Commencement: Art. 140 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-873b5cdba97a17ee1dd88c59bc57e6cb]: Commencement: Art. 140 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Eligibility for awards - general[^key-273088e01ab119ce6700cc773233ae0c]
+## 62. Eligibility for awards - general[^c-273088e01ab119ce6700cc773233ae0c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Subject to the following provisions of this Part, the question whether a person 
 
 ## Annotations
 
-[^key-273088e01ab119ce6700cc773233ae0c]: Commencement: Reg. 62 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-273088e01ab119ce6700cc773233ae0c]: Commencement: Reg. 62 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

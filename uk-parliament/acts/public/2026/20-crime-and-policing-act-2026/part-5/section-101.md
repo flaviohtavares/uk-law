@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Taking down intimate image content: consequential amendments[^key-d2a5000531980a3d142e2c32e9701d6b][^key-cca1a29a7fba91de8b2e6dbbaa22ed5b]
+## 101. Taking down intimate image content: consequential amendments[^c-d2a5000531980a3d142e2c32e9701d6b][^c-cca1a29a7fba91de8b2e6dbbaa22ed5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2a5000531980a3d142e2c32e9701d6b]: Commencement: S. 101 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d2a5000531980a3d142e2c32e9701d6b]: Commencement: S. 101 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-cca1a29a7fba91de8b2e6dbbaa22ed5b]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2026/20/section/101) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-cca1a29a7fba91de8b2e6dbbaa22ed5b]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2026/20/section/101) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

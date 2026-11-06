@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Additional provision about giving notices etc. to persons occupying or interested in land[^key-cfd9b9da2a33b6a328375654c3a13dbc]
+## 81. Additional provision about giving notices etc. to persons occupying or interested in land[^c-cfd9b9da2a33b6a328375654c3a13dbc]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ the document may be addressed to the person as “the owner” of the land (whic
 
 ## Annotations
 
-[^key-cfd9b9da2a33b6a328375654c3a13dbc]: Commencement: S. 81 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-cfd9b9da2a33b6a328375654c3a13dbc]: Commencement: S. 81 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

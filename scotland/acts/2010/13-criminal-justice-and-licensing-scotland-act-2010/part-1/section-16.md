@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Short periods of detention[^key-bbe2799ad0690a37b595012b056b8396]
+## 16. Short periods of detention[^c-bbe2799ad0690a37b595012b056b8396]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbe2799ad0690a37b595012b056b8396]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/13/section/16) in force at 13.12.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-bbe2799ad0690a37b595012b056b8396]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/13/section/16) in force at 13.12.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

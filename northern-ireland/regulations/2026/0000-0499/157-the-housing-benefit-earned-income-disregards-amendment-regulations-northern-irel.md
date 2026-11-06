@@ -44,13 +44,13 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 Regulation 2 is made with the consent of the Department of Finance[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-2be7e3ac0459421985a2d2673d646a04]
+## 1. Citation, commencement and interpretation[^c-2be7e3ac0459421985a2d2673d646a04]
 
 (1) These Regulations may be cited as the Housing Benefit (Earned Income Disregards) (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 5th October 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendments to the Housing Benefit Regulations[^key-64a5e299c05465bca54a932b73ef1216]
+## 2. Amendments to the Housing Benefit Regulations[^c-64a5e299c05465bca54a932b73ef1216]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00006] are amended in accordance with paragraphs (2) to (4).
 
@@ -123,11 +123,11 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00004]: Footnote: See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-2be7e3ac0459421985a2d2673d646a04]: Commencement: Reg. 1 in operation at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1)
+[^c-2be7e3ac0459421985a2d2673d646a04]: Commencement: Reg. 1 in operation at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1)
 
 [^f00005]: Footnote: [1954 (c. 33 (N.I.))](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-64a5e299c05465bca54a932b73ef1216]: Commencement: Reg. 2 in operation at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1)
+[^c-64a5e299c05465bca54a932b73ef1216]: Commencement: Reg. 2 in operation at 5.10.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/157/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405). Schedule 5 was amended by [S.R. 2011 No. 136](https://www.legislation.gov.uk/nisr/2011/136). There are other amendments not relevant to these Regulations.
 

@@ -22,7 +22,7 @@ summary: ''
 
 Article 40
 
-### PART 1 — HEDGEROWS[^key-2dcf67f64e72e01fd6c4b8f6ad93b6a8]
+### PART 1 — HEDGEROWS[^c-2dcf67f64e72e01fd6c4b8f6ad93b6a8]
 
 <table>
 <thead>
@@ -37,7 +37,7 @@ Article 40
 </tbody>
 </table>
 
-### PART 2 — IMPORTANT HEDGEROWS[^key-22ef541881c66b2b7235ef9ecfe07314]
+### PART 2 — IMPORTANT HEDGEROWS[^c-22ef541881c66b2b7235ef9ecfe07314]
 
 <table>
 <thead>
@@ -53,6 +53,6 @@ Article 40
 
 ## Annotations
 
-[^key-2dcf67f64e72e01fd6c4b8f6ad93b6a8]: Commencement: Sch. 13 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-2dcf67f64e72e01fd6c4b8f6ad93b6a8]: Commencement: Sch. 13 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-22ef541881c66b2b7235ef9ecfe07314]: Commencement: Sch. 13 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-22ef541881c66b2b7235ef9ecfe07314]: Commencement: Sch. 13 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

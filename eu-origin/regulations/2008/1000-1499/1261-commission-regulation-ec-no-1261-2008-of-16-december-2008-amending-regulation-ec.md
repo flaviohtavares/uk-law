@@ -35,44 +35,44 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c367f1d0b1f4792b048cfb07b9e432a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c367f1d0b1f4792b048cfb07b9e432a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c367f1d0b1f4792b048cfb07b9e432a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c367f1d0b1f4792b048cfb07b9e432a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c367f1d0b1f4792b048cfb07b9e432a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c367f1d0b1f4792b048cfb07b9e432a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c367f1d0b1f4792b048cfb07b9e432a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]AMENDMENTS TO IFRS 2
+## ANNEX[^c-c367f1d0b1f4792b048cfb07b9e432a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]Share-based Payment
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]AMENDMENTS TO IFRS 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]NON-VESTING CONDITIONS
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]Share-based Payment
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]CANCELLATIONS
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]NON-VESTING CONDITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]EFFECTIVE DATE
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]CANCELLATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]DEFINITIONS
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]EFFECTIVE DATE
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]DEFINITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c367f1d0b1f4792b048cfb07b9e432a8]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/3) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c367f1d0b1f4792b048cfb07b9e432a8]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/3) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

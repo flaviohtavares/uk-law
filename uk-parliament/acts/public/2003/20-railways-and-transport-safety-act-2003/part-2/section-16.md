@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Transfer of functions[^key-0b46f76f55e4082651ad6be3d5db3dcf]
+## 16. Transfer of functions[^c-0b46f76f55e4082651ad6be3d5db3dcf]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b46f76f55e4082651ad6be3d5db3dcf]: Commencement: S. 16 in force at 5.7.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/827/article/4/b)
+[^c-0b46f76f55e4082651ad6be3d5db3dcf]: Commencement: S. 16 in force at 5.7.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/827/article/4/b)

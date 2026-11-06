@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Giving information to SLAB[^key-c1b06fe1c3761003a1ce22d8e259594e]
+## 32. Giving information to SLAB[^c-c1b06fe1c3761003a1ce22d8e259594e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1b06fe1c3761003a1ce22d8e259594e]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/16/section/32) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-c1b06fe1c3761003a1ce22d8e259594e]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/16/section/32) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

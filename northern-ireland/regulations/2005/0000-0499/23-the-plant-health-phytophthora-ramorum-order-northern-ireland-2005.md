@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Phytophthora ramorum) Order (Northern Ireland) 2005 (revoked)[^key-b7517090b0b51dbf672d2bbc0df65761]
+The Plant Health (Phytophthora ramorum) Order (Northern Ireland) 2005 (revoked)[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 Made
 
@@ -41,85 +41,85 @@ Coming into operation
 
 28th February 2005
 
-[^key-b7517090b0b51dbf672d2bbc0df65761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7517090b0b51dbf672d2bbc0df65761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 1. Citation and commencement[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 2. Interpretation[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition against the introduction and spread of Phytophthora ramorum into and within Northern Ireland[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 3. Prohibition against the introduction and spread of Phytophthora ramorum into and within Northern Ireland[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Imports of susceptible material originating in the USA[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 4. Imports of susceptible material originating in the USA[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Movement of susceptible material originating in third countries[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 5. Movement of susceptible material originating in third countries[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Movement of susceptible material originating in Northern Ireland and elsewhere in the European Community or Switzerland[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 6. Movement of susceptible material originating in Northern Ireland and elsewhere in the European Community or Switzerland[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Registered producers[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 7. Registered producers[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Plant passports[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 8. Plant passports[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Phytosanitary certificates[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 9. Phytosanitary certificates[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Phytosanitary certificates or plant passports issued outside Northern Ireland[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 10. Phytosanitary certificates or plant passports issued outside Northern Ireland[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Licences for scientific or research purposes[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 11. Licences for scientific or research purposes[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Actions which may be required by an inspector[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 12. Actions which may be required by an inspector[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Actions which may be taken by an inspector[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 13. Actions which may be taken by an inspector[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Miscellaneous provisions as to notices and failure to comply with notices[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 14. Miscellaneous provisions as to notices and failure to comply with notices[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Offences[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 15. Offences[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Revocation[^key-b7517090b0b51dbf672d2bbc0df65761]
+## 16. Revocation[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b7517090b0b51dbf672d2bbc0df65761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7517090b0b51dbf672d2bbc0df65761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-b7517090b0b51dbf672d2bbc0df65761]
+## SCHEDULE 1[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 Articles 4(1)(a) and 10(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-b7517090b0b51dbf672d2bbc0df65761]
+## SCHEDULE 2[^c-b7517090b0b51dbf672d2bbc0df65761]
 
 Article 6 and 10(2) and (3)
 
@@ -127,8 +127,8 @@ Article 6 and 10(2) and (3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7517090b0b51dbf672d2bbc0df65761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7517090b0b51dbf672d2bbc0df65761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7517090b0b51dbf672d2bbc0df65761]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/23) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-b7517090b0b51dbf672d2bbc0df65761]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/23) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 275. Notification relating to the administrator[^key-c423a15241392f840f7bcc3c4756d2fd]
+## 275. Notification relating to the administrator[^c-c423a15241392f840f7bcc3c4756d2fd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 274, a notification relating to 
 
 ## Annotations
 
-[^key-c423a15241392f840f7bcc3c4756d2fd]: Commencement: Rule 275 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c423a15241392f840f7bcc3c4756d2fd]: Commencement: Rule 275 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

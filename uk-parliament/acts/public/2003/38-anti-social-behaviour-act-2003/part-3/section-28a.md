@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28A. Contracting out of local authority functions[^key-4f4346fe7608eb90eca17b1c7a6fd9d6]
+## 28A. Contracting out of local authority functions[^c-4f4346fe7608eb90eca17b1c7a6fd9d6]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ may provide that a local authority may make arrangements with a person who is sp
 
 ## Annotations
 
-[^key-4f4346fe7608eb90eca17b1c7a6fd9d6]: Textual amendment: S. 28A inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-4f4346fe7608eb90eca17b1c7a6fd9d6]: Textual amendment: S. 28A inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 25](https://www.legislation.gov.uk/ukpga/2006/48/section/25), [53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)

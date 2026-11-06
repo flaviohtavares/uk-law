@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Subject-matter of warrants[^key-9208644eabef93541391c95b5884dbc6]
+## 17. Subject-matter of warrants[^c-9208644eabef93541391c95b5884dbc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9208644eabef93541391c95b5884dbc6]: Commencement: S. 17 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/c)
+[^c-9208644eabef93541391c95b5884dbc6]: Commencement: S. 17 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/c)

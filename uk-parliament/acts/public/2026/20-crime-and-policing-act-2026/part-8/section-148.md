@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Interpretation of sections 146 and 147[^key-52b032ada4355ce2eb7b075d26e62e11]
+## 148. Interpretation of sections 146 and 147[^c-52b032ada4355ce2eb7b075d26e62e11]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52b032ada4355ce2eb7b075d26e62e11]: Commencement: S. 148 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-52b032ada4355ce2eb7b075d26e62e11]: Commencement: S. 148 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

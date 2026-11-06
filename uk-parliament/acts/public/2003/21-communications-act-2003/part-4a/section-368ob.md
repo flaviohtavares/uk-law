@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368OB. Audience protection reviews etc[^key-895f96383faad5c286a6192c51f62f85][^key-8b5116708328654f497f918c49a3b13d]
+## 368OB. Audience protection reviews etc[^c-895f96383faad5c286a6192c51f62f85][^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-895f96383faad5c286a6192c51f62f85]: Textual amendment: [S. 368OB](https://www.legislation.gov.uk/ukpga/2003/21/section/368OB) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/38/1), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/p)
+[^c-895f96383faad5c286a6192c51f62f85]: Textual amendment: [S. 368OB](https://www.legislation.gov.uk/ukpga/2003/21/section/368OB) and cross-heading inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/38/1), [55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(p)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/p)
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)

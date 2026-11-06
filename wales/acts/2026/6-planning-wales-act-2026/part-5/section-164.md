@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. Offence of making false statement etc. to influence outcome of application or appeal[^key-0bce837fd81d5de8f17c82e9085eda13]
+## 164. Offence of making false statement etc. to influence outcome of application or appeal[^c-0bce837fd81d5de8f17c82e9085eda13]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bce837fd81d5de8f17c82e9085eda13]: Commencement: S. 164 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0bce837fd81d5de8f17c82e9085eda13]: Commencement: S. 164 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

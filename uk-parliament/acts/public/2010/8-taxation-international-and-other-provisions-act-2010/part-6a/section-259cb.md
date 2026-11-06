@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259CB. Hybrid or otherwise impermissible deduction/non-inclusion mismatches and their extent[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259CB. Hybrid or otherwise impermissible deduction/non-inclusion mismatches and their extent[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ it is to be taken not to arise by reason of the terms, or any other feature, of 
 
 (3A)[^M_F_9578b741-cb7c-408c-fcfb-abb774d83f84] So far as the excess arises by reason of an interest distribution designation, it is to be taken not to arise by reason of the terms, or any other feature, of the financial instrument (whether or not it would have arisen by reason of the terms, or any other feature, of the financial instrument regardless of that designation).
 
-(4)[^key-625c1120dea28929b176121313485020] Subject to subsections (3), (3A) and[^M_F_b77a6089-f1d0-4dbb-bd7e-cddef59c1dd7] (9), for the purposes of subsection (2)(b)—
+(4)[^c-625c1120dea28929b176121313485020] Subject to subsections (3), (3A) and[^M_F_b77a6089-f1d0-4dbb-bd7e-cddef59c1dd7] (9), for the purposes of subsection (2)(b)—
 
 - (a) it does not matter whether the excess or part arises for another reason as well as the terms, or any other feature, of the financial instrument (even if it would have arisen for that other reason regardless of the terms, or any other feature, of the financial instrument), and
 - (b) an excess or part of an excess is to be taken to arise by reason of the terms, or any other feature, of the financial instrument (so far as would not otherwise be the case) if, on making such of the relevant assumptions in relation to each payee as apply in relation to that payee (see subsections (5) and (6)), it could arise by reason of the terms, or any other feature, of the financial instrument.
@@ -57,14 +57,14 @@ it is to be taken not to arise by reason of the terms, or any other feature, of 
 - (b) section 690 of that Act (derivative contracts for unallowable purposes);
 - (c) Part 4 (transfer pricing);
 - (d) this Part;
-- (e)[^key-ec363a17bcbaf166399b6dee5675aba2] Part 10 (corporate interest restriction).
+- (e)[^c-ec363a17bcbaf166399b6dee5675aba2] Part 10 (corporate interest restriction).
 
 (7) Case 2 applies where there are one or more amounts of ordinary income (“under-taxed amounts”) that—
 
 - (a) arise, by reason of the payment or quasi-payment, to a payee for a permitted taxable period, and
 - (b) are under taxed by reason of the terms, or any other feature, of the financial instrument.
 
-(8)[^key-925322e202b713e3f542c74669918d59] Subject to subsection (9), for the purposes of subsection (7)(b) it does not matter whether an amount of ordinary income is under taxed for another reason as well as the terms, or any other feature, of the financial instrument (even if it would have been under taxed for that other reason regardless of the terms, or any other feature, of the financial instrument).
+(8)[^c-925322e202b713e3f542c74669918d59] Subject to subsection (9), for the purposes of subsection (7)(b) it does not matter whether an amount of ordinary income is under taxed for another reason as well as the terms, or any other feature, of the financial instrument (even if it would have been under taxed for that other reason regardless of the terms, or any other feature, of the financial instrument).
 
 (9) For the purposes of this section disregard—
 
@@ -93,16 +93,16 @@ where—
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
 [^M_F_11e6cd1e-904e-43d7-c847-3e47d85b7a5b]: Textual amendment: S. 259CB(3) substituted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/3), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
 [^M_F_9578b741-cb7c-408c-fcfb-abb774d83f84]: Textual amendment: S. 259CB(3A) inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 7(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/7/a), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
-[^key-625c1120dea28929b176121313485020]: Modification: [S. 259CB(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259CB/4) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/45/3)
+[^c-625c1120dea28929b176121313485020]: Modification: [S. 259CB(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259CB/4) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/45/3)
 
 [^M_F_b77a6089-f1d0-4dbb-bd7e-cddef59c1dd7]: Textual amendment: Words in s. 259CB(4) substituted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 7(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/7/b), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
-[^key-ec363a17bcbaf166399b6dee5675aba2]: Textual amendment: S. 259CB(6)(e) substituted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/18)
+[^c-ec363a17bcbaf166399b6dee5675aba2]: Textual amendment: S. 259CB(6)(e) substituted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/18)
 
-[^key-925322e202b713e3f542c74669918d59]: Modification: [S. 259CB(8)](https://www.legislation.gov.uk/ukpga/2010/8/section/259CB/8) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/45/3)
+[^c-925322e202b713e3f542c74669918d59]: Modification: [S. 259CB(8)](https://www.legislation.gov.uk/ukpga/2010/8/section/259CB/8) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/45/3)

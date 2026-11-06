@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Organisations responsible for the operation of aerodromes shall be subject to certification and shall be issued with a certificate. That certificate shall be issued upon application, when the applicant has demonstrated that it complies with regulations made under[^key-d228c3cf1d33699635bc05fe6de787d7] Article 39 adopted to ensure compliance with the essential requirements referred to in Article 33.
+1. Organisations responsible for the operation of aerodromes shall be subject to certification and shall be issued with a certificate. That certificate shall be issued upon application, when the applicant has demonstrated that it complies with regulations made under[^c-d228c3cf1d33699635bc05fe6de787d7] Article 39 adopted to ensure compliance with the essential requirements referred to in Article 33.
 
 The certificate shall specify the privileges granted to the certified organisation and the scope of the certificate.
 
@@ -28,4 +28,4 @@ The certificate shall specify the privileges granted to the certified organisati
 
 ## Annotations
 
-[^key-d228c3cf1d33699635bc05fe6de787d7]: Textual amendment: Words in [Art. 37](https://www.legislation.gov.uk/eur/2018/1139/article/37) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [114](https://www.legislation.gov.uk/uksi/2019/645/regulation/114) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d228c3cf1d33699635bc05fe6de787d7]: Textual amendment: Words in [Art. 37](https://www.legislation.gov.uk/eur/2018/1139/article/37) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [114](https://www.legislation.gov.uk/uksi/2019/645/regulation/114) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

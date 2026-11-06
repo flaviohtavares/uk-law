@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**118.**[^key-030d4212f7903c90767e892035b2e14a][^key-c840fbe99cc3fb04c9cb7ad14cc274a1] The part of the community of Llanarth shown hatched on Map 89—
+**118.**[^c-030d4212f7903c90767e892035b2e14a][^c-c840fbe99cc3fb04c9cb7ad14cc274a1] The part of the community of Llanarth shown hatched on Map 89—
 
 - (a) is transferred to the community of Llanover;
 - (b) forms part of the community ward of Llanddewi Rhydderch;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-030d4212f7903c90767e892035b2e14a]: Commencement: Art. 118 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-030d4212f7903c90767e892035b2e14a]: Commencement: Art. 118 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-c840fbe99cc3fb04c9cb7ad14cc274a1]: Commencement: [Art. 118](https://www.legislation.gov.uk/wsi/2021/1227/article/118) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-c840fbe99cc3fb04c9cb7ad14cc274a1]: Commencement: [Art. 118](https://www.legislation.gov.uk/wsi/2021/1227/article/118) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

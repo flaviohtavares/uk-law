@@ -33,23 +33,23 @@ of 13 March 2019
 
 amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as regards International Accounting Standard 19 (revoked)
 
-[^key-5959afe646522e653039f555e689a169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5959afe646522e653039f555e689a169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5959afe646522e653039f555e689a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5959afe646522e653039f555e689a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5959afe646522e653039f555e689a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5959afe646522e653039f555e689a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5959afe646522e653039f555e689a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5959afe646522e653039f555e689a169] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5959afe646522e653039f555e689a169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5959afe646522e653039f555e689a169]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-5959afe646522e653039f555e689a169]
+## ANNEX[^c-5959afe646522e653039f555e689a169]
 
-[^key-5959afe646522e653039f555e689a169]**Plan Amendment, Curtailment or Settlement**
+[^c-5959afe646522e653039f555e689a169]**Plan Amendment, Curtailment or Settlement**
 
 (Amendments to IAS 19)
 
@@ -57,23 +57,23 @@ Amendments to IAS 19 *Employee Benefits*
 
 Paragraphs 101A, 122A, 123A and 179 are added and paragraphs 57, 99, 120, 123, 125, 126 and 156 are amended. A heading is added before paragraph 122A.
 
-[^key-5959afe646522e653039f555e689a169]POST-EMPLOYMENT BENEFITS: DEFINED BENEFIT PLANS
+[^c-5959afe646522e653039f555e689a169]POST-EMPLOYMENT BENEFITS: DEFINED BENEFIT PLANS
 
 …
 
-[^key-5959afe646522e653039f555e689a169]**Recognition and measurement**
+[^c-5959afe646522e653039f555e689a169]**Recognition and measurement**
 
 …
 
-[^key-5959afe646522e653039f555e689a169]57.
+[^c-5959afe646522e653039f555e689a169]57.
 
 Accounting by an entity for defined benefit plans involves the following steps:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5959afe646522e653039f555e689a169]*Past service cost and gains and losses on settlement*
+[^c-5959afe646522e653039f555e689a169]*Past service cost and gains and losses on settlement*
 
-[^key-5959afe646522e653039f555e689a169]**99.**
+[^c-5959afe646522e653039f555e689a169]**99.**
 
 **When determining past service cost, or a gain or loss on settlement, an entity shall remeasure the net defined benefit liability (asset) using the current fair value of plan assets and current actuarial assumptions, (including current market interest rates and other current market prices), reflecting:**
 
@@ -82,15 +82,15 @@ Accounting by an entity for defined benefit plans involves the following steps:
 
 …
 
-[^key-5959afe646522e653039f555e689a169]101A
+[^c-5959afe646522e653039f555e689a169]101A
 
 When a plan amendment, curtailment or settlement occurs, an entity shall recognise and measure any past service cost, or a gain or loss on settlement, in accordance with paragraphs 99–101 and paragraphs 102–112. In doing so, an entity shall not consider the effect of the asset ceiling. An entity shall then determine the effect of the asset ceiling after the plan amendment, curtailment or settlement and shall recognise any change in that effect in accordance with paragraph 57(d).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5959afe646522e653039f555e689a169]**Components of defined benefit cost**
+[^c-5959afe646522e653039f555e689a169]**Components of defined benefit cost**
 
-[^key-5959afe646522e653039f555e689a169]**120.**
+[^c-5959afe646522e653039f555e689a169]**120.**
 
 **An entity shall recognise the components of defined benefit cost, except to the extent that another IFRS requires or permits their inclusion in the cost of an asset, as follows:**
 
@@ -98,19 +98,19 @@ When a plan amendment, curtailment or settlement occurs, an entity shall recogni
 
 …
 
-[^key-5959afe646522e653039f555e689a169]*Current service cost*
+[^c-5959afe646522e653039f555e689a169]*Current service cost*
 
-[^key-5959afe646522e653039f555e689a169]**122A**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-5959afe646522e653039f555e689a169]*Net interest on the net defined benefit liability (asset)*
-
-[^key-5959afe646522e653039f555e689a169]**123.**
+[^c-5959afe646522e653039f555e689a169]**122A**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5959afe646522e653039f555e689a169]**123A**
+[^c-5959afe646522e653039f555e689a169]*Net interest on the net defined benefit liability (asset)*
+
+[^c-5959afe646522e653039f555e689a169]**123.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5959afe646522e653039f555e689a169]**123A**
 
 **To determine net interest in accordance with paragraph 123, an entity shall use the net defined benefit liability (asset) and the discount rate determined at the start of the annual reporting period. However, if an entity remeasures the net defined benefit liability (asset) in accordance with paragraph 99, the entity shall determine net interest for the remainder of the annual reporting period after the plan amendment, curtailment or settlement using:**
 
@@ -121,25 +121,25 @@ When a plan amendment, curtailment or settlement occurs, an entity shall recogni
 
 …
 
-[^key-5959afe646522e653039f555e689a169]125.
+[^c-5959afe646522e653039f555e689a169]125.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5959afe646522e653039f555e689a169]126.
+[^c-5959afe646522e653039f555e689a169]126.
 
 Interest on the effect of the asset ceiling is part of the total change in the effect of the asset ceiling, and is determined by multiplying the effect of the asset ceiling by the discount rate specified in paragraph 123A. An entity shall determine the effect of the asset ceiling at the start of the annual reporting period. However, if an entity remeasures the net defined benefit liability (asset) in accordance with paragraph 99, the entity shall determine interest on the effect of the asset ceiling for the remainder of the annual reporting period after the plan amendment, curtailment or settlement taking into account any change in the effect of the asset ceiling determined in accordance with paragraph 101A. The difference between interest on the effect of the asset ceiling and the total change in the effect of the asset ceiling is included in the remeasurement of the net defined benefit liability (asset).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5959afe646522e653039f555e689a169]OTHER LONG-TERM EMPLOYEE BENEFITS
+[^c-5959afe646522e653039f555e689a169]OTHER LONG-TERM EMPLOYEE BENEFITS
 
 …
 
-[^key-5959afe646522e653039f555e689a169]**Recognition and measurement**
+[^c-5959afe646522e653039f555e689a169]**Recognition and measurement**
 
 …
 
-[^key-5959afe646522e653039f555e689a169]**156.**
+[^c-5959afe646522e653039f555e689a169]**156.**
 
 **For other long-term employee benefits, an entity shall recognise the net total of the following amounts in profit or loss, except to the extent that another IFRS requires or permits their inclusion in the cost of an asset:**
 
@@ -147,14 +147,14 @@ Interest on the effect of the asset ceiling is part of the total change in the e
 
 **…**
 
-[^key-5959afe646522e653039f555e689a169]TRANSITION AND EFFECTIVE DATE
+[^c-5959afe646522e653039f555e689a169]TRANSITION AND EFFECTIVE DATE
 
 …
 
-[^key-5959afe646522e653039f555e689a169]179.
+[^c-5959afe646522e653039f555e689a169]179.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5959afe646522e653039f555e689a169]: Textual amendment: Regulation revoked (31.12.2020) by S.I. 2019/685, Sch. 2 para. 65 (as inserted by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-5959afe646522e653039f555e689a169]: Textual amendment: Regulation revoked (31.12.2020) by S.I. 2019/685, Sch. 2 para. 65 (as inserted by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

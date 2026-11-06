@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Provision of copy of report on investigation etc. to person to whose conduct the investigation related[^key-2b9ade11ef85599634ad27f696ab5c1e]
+## 59. Provision of copy of report on investigation etc. to person to whose conduct the investigation related[^c-2b9ade11ef85599634ad27f696ab5c1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the Commissioner or appropriate authority (as the case may be) must provide the 
 
 ## Annotations
 
-[^key-2b9ade11ef85599634ad27f696ab5c1e]: Commencement: Reg. 59 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-2b9ade11ef85599634ad27f696ab5c1e]: Commencement: Reg. 59 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

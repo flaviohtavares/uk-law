@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Section 132: meaning of “excepted disclosure”[^key-a0d1d299c74e74f3a8d4e50f58465f9a]
+## 133. Section 132: meaning of “excepted disclosure”[^c-a0d1d299c74e74f3a8d4e50f58465f9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ summary: ''
 (3) Head 2 is—
 
 - (a) a disclosure made to, or authorised by, a Judicial Commissioner;
-- (b) a disclosure made to the Director General of the Independent Office for Police Conduct[^key-2210520dfd3aa745dc54e7729fb348df] for the purposes of facilitating the carrying out of any of the Director General’s functions[^key-ecef9ddb8a01ac6121dd942bcb0d7a0c];
-- (ba)[^key-ea953c5f40c729124490fd3e6352a637] a disclosure made to the Service Police Complaints Commissioner for the purposes of facilitating the carrying out of any of the Commissioner’s functions;
+- (b) a disclosure made to the Director General of the Independent Office for Police Conduct[^c-2210520dfd3aa745dc54e7729fb348df] for the purposes of facilitating the carrying out of any of the Director General’s functions[^c-ecef9ddb8a01ac6121dd942bcb0d7a0c];
+- (ba)[^c-ea953c5f40c729124490fd3e6352a637] a disclosure made to the Service Police Complaints Commissioner for the purposes of facilitating the carrying out of any of the Commissioner’s functions;
 - (c) a disclosure made to the Intelligence and Security Committee of Parliament for the purposes of facilitating the carrying out of any of its functions.
 
 (4) Head 3 is—
@@ -62,10 +62,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d1d299c74e74f3a8d4e50f58465f9a]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2016/25/section/133) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/s)
+[^c-a0d1d299c74e74f3a8d4e50f58465f9a]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2016/25/section/133) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(s)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/s)
 
-[^key-2210520dfd3aa745dc54e7729fb348df]: Textual amendment: Words in s. 133(3)(b) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 74(5)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/74/5/b); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-2210520dfd3aa745dc54e7729fb348df]: Textual amendment: Words in s. 133(3)(b) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 74(5)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/74/5/b); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-ecef9ddb8a01ac6121dd942bcb0d7a0c]: Textual amendment: Words in s. 133(3)(b) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 74(5)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/74/5/a); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-ecef9ddb8a01ac6121dd942bcb0d7a0c]: Textual amendment: Words in s. 133(3)(b) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 74(5)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/74/5/a); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-ea953c5f40c729124490fd3e6352a637]: Textual amendment: [S. 133(3)(ba)](https://www.legislation.gov.uk/ukpga/2016/25/section/133/3/ba) inserted (1.11.2022 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 4 para. 2(5)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/2/5); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)
+[^c-ea953c5f40c729124490fd3e6352a637]: Textual amendment: [S. 133(3)(ba)](https://www.legislation.gov.uk/ukpga/2016/25/section/133/3/ba) inserted (1.11.2022 for specified purposes, 19.6.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 4 para. 2(5)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/4/paragraph/2/5); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1095/regulation/3); [S.I. 2023/621](https://www.legislation.gov.uk/uksi/2023/621), [reg. 2](https://www.legislation.gov.uk/uksi/2023/621/regulation/2)

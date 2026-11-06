@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 743. Register of debenture holders[^c20601951][^key-6fb71c8d43c1831721e249c0d0764692][^key-b9bfc4a87978cc7e92fba5448ea10a0c]
+## 743. Register of debenture holders[^c20601951][^c-6fb71c8d43c1831721e249c0d0764692][^c-b9bfc4a87978cc7e92fba5448ea10a0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c20601951]: Modification: Ss. 743-748 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [21](https://www.legislation.gov.uk/uksi/2009/1804/regulation/21)
 
-[^key-6fb71c8d43c1831721e249c0d0764692]: Modification: [S. 743](https://www.legislation.gov.uk/ukpga/2006/46/section/743) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(x)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/x)
+[^c-6fb71c8d43c1831721e249c0d0764692]: Modification: [S. 743](https://www.legislation.gov.uk/ukpga/2006/46/section/743) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(x)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/x)
 
-[^key-b9bfc4a87978cc7e92fba5448ea10a0c]: Modification: [S. 743](https://www.legislation.gov.uk/ukpga/2006/46/section/743) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-b9bfc4a87978cc7e92fba5448ea10a0c]: Modification: [S. 743](https://www.legislation.gov.uk/ukpga/2006/46/section/743) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

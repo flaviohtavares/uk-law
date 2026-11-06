@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Futures and options: taxation of guaranteed returns[^key-aa4514fce00e5f00ca7e778004902861]
+## SCHEDULE 11 — Futures and options: taxation of guaranteed returns[^c-aa4514fce00e5f00ca7e778004902861]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Section 80.
 
-### Schedule to be inserted as Schedule 5AA to the Taxes Act 1988[^key-aa4514fce00e5f00ca7e778004902861]
+### Schedule to be inserted as Schedule 5AA to the Taxes Act 1988[^c-aa4514fce00e5f00ca7e778004902861]
 
-[^key-aa4514fce00e5f00ca7e778004902861]
+[^c-aa4514fce00e5f00ca7e778004902861]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa4514fce00e5f00ca7e778004902861]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ukpga/1997/16/schedule/11) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-aa4514fce00e5f00ca7e778004902861]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ukpga/1997/16/schedule/11) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — THE CONSTITUTION OF ST HELENA, ASCENSION AND TRISTAN DA CUNHA[^key-5fc98ea3949295112c2142348605b729][^key-ff53b902b22fb0a6a4538ea085e23642]
+## SCHEDULE — THE CONSTITUTION OF ST HELENA, ASCENSION AND TRISTAN DA CUNHA[^c-5fc98ea3949295112c2142348605b729][^c-ff53b902b22fb0a6a4538ea085e23642]
 
 *Extent: E+W+S+N.I.*
 
@@ -510,15 +510,15 @@ the Governor may, by instrument under the public seal, appoint any person in St 
 
 ##### 30. Advisory Committee on the Prerogative of Mercy
 
-(1) There shall be for St Helena an Advisory Committee on the Prerogative of Mercy whose members shall be appointed by the Governor, acting after consultation with the Chief Minister[^key-494e06c2aa53c1a994a6f0e428804c2e], and in accordance with subsection (2).
+(1) There shall be for St Helena an Advisory Committee on the Prerogative of Mercy whose members shall be appointed by the Governor, acting after consultation with the Chief Minister[^c-494e06c2aa53c1a994a6f0e428804c2e], and in accordance with subsection (2).
 
-(2) The Committee shall consist of not fewer than three nor more than five members, of whom one may be a Minister[^key-2353af99f9fc91e9e869d2449ba8ecfe], and at least one shall represent the public interest; but no Member of the Legislative Council (except a Minister), judge or judicial officer shall be eligible to be a member of the Committee.
+(2) The Committee shall consist of not fewer than three nor more than five members, of whom one may be a Minister[^c-2353af99f9fc91e9e869d2449ba8ecfe], and at least one shall represent the public interest; but no Member of the Legislative Council (except a Minister), judge or judicial officer shall be eligible to be a member of the Committee.
 
 (3) The Committee shall not be summoned except by the authority of the Governor, acting in his or her discretion; and the Governor shall preside at all meetings of the Committee.
 
 (4) No business shall be transacted at any meeting of the Committee unless there are at least three members present.
 
-(5) The office as a member of the Committee of any member appointed under subsection (1) shall become vacant if the Governor, acting after consultation with the Chief Minister[^key-4ee60bdc7fcbb3105599b1143ebbc5f2], revokes his or her appointment as a member of the Committee.
+(5) The office as a member of the Committee of any member appointed under subsection (1) shall become vacant if the Governor, acting after consultation with the Chief Minister[^c-4ee60bdc7fcbb3105599b1143ebbc5f2], revokes his or her appointment as a member of the Committee.
 
 (6) Subject to subsection (4), the Committee shall not be disqualified for the transaction of business by reason of any vacancy in its membership, and the validity of the transaction of any business of the Committee shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings.
 
@@ -554,21 +554,21 @@ Subject to this Constitution and any other law, the Governor, in Her Majesty’s
 
 (1) There shall be an Executive Council for St Helena, which shall consist of—
 
-- (a)[^key-d9471fbe03cb32c4280fe99e81f0ba6a] the Chief Minister appointed by the Governor in accordance with section 37C(1)(a);
+- (a)[^c-d9471fbe03cb32c4280fe99e81f0ba6a] the Chief Minister appointed by the Governor in accordance with section 37C(1)(a);
 - (b) four other Ministers appointed by the Governor in accordance with section 37C(1)(b); and
 - (c) the Attorney General, as *ex officio* member, without the right to vote.
 
-(2)[^key-827f217bb2708d01754fdb41058f8d8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-827f217bb2708d01754fdb41058f8d8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-707e57d641d069c83c9127bc013c6e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-707e57d641d069c83c9127bc013c6e1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-59060e06494e0e0d1c1ef7dd5bfad41f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-59060e06494e0e0d1c1ef7dd5bfad41f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 36. Collective responsibility[^key-db88fd12b123ffa4d175b6137a0f1947]
+##### 36. Collective responsibility[^c-db88fd12b123ffa4d175b6137a0f1947]
 
 The members of the Executive Council shall be collectively responsible to the Legislative Council for any advice given to the Governor by or under the general authority of the Executive Council and for all things done by or under the authority of any Minister in the execution of his or her office.
 
-##### 36A. Ministers may meet together to consider advice to be tendered to the Governor[^key-cba9ca827d97136515c2b6046fc4745e]
+##### 36A. Ministers may meet together to consider advice to be tendered to the Governor[^c-cba9ca827d97136515c2b6046fc4745e]
 
 (1) If the Chief Minister so requests, generally or in a particular case, the Ministers shall meet together in order to consider what advice on any matter they wish to tender to the Governor at a meeting of the Executive Council or otherwise.
 
@@ -576,7 +576,7 @@ The members of the Executive Council shall be collectively responsible to the Le
 
 (3) The meeting shall be free to regulate its own procedure.
 
-##### 37. Election of Chief Minister[^key-7366ed8aee1df01a046ed4d879936827]
+##### 37. Election of Chief Minister[^c-7366ed8aee1df01a046ed4d879936827]
 
 (1) There shall be a Chief Minister of St Helena.
 
@@ -591,7 +591,7 @@ The members of the Executive Council shall be collectively responsible to the Le
 
 (4) The Standing Orders of the Legislative Council shall make provision for the conduct, consistently with this section, of an election to the office of Chief Minister.
 
-##### 37A. Chief Minister elect to recommend the appointment of the other Ministers[^key-9296c37cea1a1ec0455364d4414d216c]
+##### 37A. Chief Minister elect to recommend the appointment of the other Ministers[^c-9296c37cea1a1ec0455364d4414d216c]
 
 (1) As soon as practicable after being elected, the Chief Minister elect shall recommend to the Governor, for appointment as Ministers, four other elected members of the Legislative Council who have consented to the nomination.
 
@@ -677,11 +677,11 @@ and may specify the period for which such person shall perform the functions of 
 
 (3) If any assignment or appointment under subsection (1) has not sooner ended, it shall cease as soon as the Minister who has been absent from St Helena or otherwise temporarily unable to perform the functions of his or her office notifies the other Minister or the elected member that he or she is about to resume those functions.
 
-##### 38. Determination of questions as to election of Chief Minister[^key-90a538d843ae3a312d8d6934a7b9d0ff]
+##### 38. Determination of questions as to election of Chief Minister[^c-90a538d843ae3a312d8d6934a7b9d0ff]
 
 Any question whether a person has been validly elected as the Chief Minister, or whether the office of the Chief Minister has become vacant, shall be determined by the Governor, acting in his or her discretion.
 
-##### 39. Summoning of and proceedings in Executive Council[^key-6660e79e55536e4cdac908c6e367ed99]
+##### 39. Summoning of and proceedings in Executive Council[^c-6660e79e55536e4cdac908c6e367ed99]
 
 (1) The Executive Council shall be summoned by the Governor acting in his or her discretion; but the Governor shall summon the Executive Council if requested to do so by the Chief Minister.
 
@@ -699,15 +699,15 @@ Any question whether a person has been validly elected as the Chief Minister, or
 
 (8) Subject to this Constitution, the Executive Council shall be free to regulate its own procedure which may include provision for remote attendance of members by way of electronic means.
 
-##### 40. Invitation of persons to assist Executive Council[^key-75b577ae240a61bf4fcfbf31286677a5]
+##### 40. Invitation of persons to assist Executive Council[^c-75b577ae240a61bf4fcfbf31286677a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 41. Presiding in Executive Council[^key-e6ef35e02c9df82c992575b2906f8f2e]
+##### 41. Presiding in Executive Council[^c-e6ef35e02c9df82c992575b2906f8f2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 42. Secretary to Executive Council[^key-d8a723b879e7fedcfedca92d93e345e2]
+##### 42. Secretary to Executive Council[^c-d8a723b879e7fedcfedca92d93e345e2]
 
 (1) The Governor must appoint a Secretary who shall be responsible, in accordance with such instructions as may be given to him or her by the Governor, acting after consultation with the Chief Minister, for arranging the business for, and keeping the minutes of, the meetings of the Executive Council, and for conveying decisions reached at the meetings to the appropriate person or authority.
 
@@ -730,7 +730,7 @@ Any question whether a person has been validly elected as the Chief Minister, or
 
 (3) The Governor shall not be obliged to act in accordance with the advice given to him or her by the Executive Council in any case which, in his or her judgement, involves a matter for which he or she is responsible under section 44.
 
-(4) The Governor shall not be required to obtain the advice of the Executive Council in any case in which, in his or her judgement, the matter is too urgent to obtain the advice of the Council, or too unimportant to require the Council’s advice; but in any case of urgency the Governor shall , if possible, consult the Chief Minister and shall[^key-1e4399023356f4b6e11bf76178a30abc] as soon as practicable communicate to the Council the measures adopted and the reasons for those measures.
+(4) The Governor shall not be required to obtain the advice of the Executive Council in any case in which, in his or her judgement, the matter is too urgent to obtain the advice of the Council, or too unimportant to require the Council’s advice; but in any case of urgency the Governor shall , if possible, consult the Chief Minister and shall[^c-1e4399023356f4b6e11bf76178a30abc] as soon as practicable communicate to the Council the measures adopted and the reasons for those measures.
 
 (5) The Governor shall not be obliged to act in accordance with the advice of the Executive Council on any matter if, in his or her judgement, that advice involves an inconsistency with one or more of the partnership values declared in section 2.
 
@@ -738,7 +738,7 @@ Any question whether a person has been validly elected as the Chief Minister, or
 
 (7) The Governor may decide not to act in accordance with the advice of the Executive Council on the ground specified in subsection (5) only with the prior approval of a Secretary of State, unless, in his or her judgement, the matter is so urgent that it is necessary to do so without such approval; and in that case the Governor shall, as soon as practicable, report his or her action and the reasons for it to a Secretary of State.
 
-(8) The Chief Minister[^key-d60d7fbbb1f9050ea55838c4f791de43] shall have the right, within thirty days, to submit to a Secretary of State his or her comments in writing on the Governor’s reasons for not acting in accordance with the advice of the Executive Council.
+(8) The Chief Minister[^c-d60d7fbbb1f9050ea55838c4f791de43] shall have the right, within thirty days, to submit to a Secretary of State his or her comments in writing on the Governor’s reasons for not acting in accordance with the advice of the Executive Council.
 
 (9) Where the Governor is by this Constitution or any other law directed to exercise any function after consultation with any person or authority other than the Executive Council, he or she shall not be obliged to exercise that function in accordance with the advice of that person or authority.
 
@@ -752,21 +752,21 @@ Any question whether a person has been validly elected as the Chief Minister, or
 - (b) external affairs;
 - (c) internal security, including the Police;
 - (d) the appointment of any person to any office in the St Helena Public Service, the suspension, termination of employment, dismissal, or retirement of any officer of the St Helena Public Service or the taking of disciplinary action in respect of such an officer, and the application to any such officer of the terms or conditions of employment of the Public Service (including salary scales, allowances, leave, passages or pensions) for which financial provision has been made;
-- (e) the administration of justice; and[^key-d5d37c105956d5a6e7a5180a673a2fc0]
-- (f) finance .[^key-8750580ee3472b6362e6730d38c60d8f]
-- (g)[^key-6e4c578141b34808b8030389202ace14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the administration of justice; and[^c-d5d37c105956d5a6e7a5180a673a2fc0]
+- (f) finance .[^c-8750580ee3472b6362e6730d38c60d8f]
+- (g)[^c-6e4c578141b34808b8030389202ace14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-f6f8c875feb09f5c9d960d0fde05cc40] The Governor, acting in his or her discretion, may by directions in writing delegate, with the prior approval of a Secretary of State, to the Chief Minister or any other Minister recommended by the Chief Minister such responsibility for any of the matters specified in subsection (1) (c), (e) and (f) as the Governor may think fit upon such conditions as he or she may impose. A Minister to whom such a responsibility has been delegated shall exercise that responsibility in accordance with section 36.
+(1A)[^c-f6f8c875feb09f5c9d960d0fde05cc40] The Governor, acting in his or her discretion, may by directions in writing delegate, with the prior approval of a Secretary of State, to the Chief Minister or any other Minister recommended by the Chief Minister such responsibility for any of the matters specified in subsection (1) (c), (e) and (f) as the Governor may think fit upon such conditions as he or she may impose. A Minister to whom such a responsibility has been delegated shall exercise that responsibility in accordance with section 36.
 
-(2) The Governor, acting in his or her discretion, may , by instrument in writing,[^key-d876c290932a6a9a31d0ecd4302ab84b] assign to the Chief Minister or any Minister recommended by the Chief Minister[^key-dd6835542d0c1c19395c4468d1957422] responsibility for the conduct on behalf of the Governor of any business in the Legislative Council with respect to any matter mentioned in subsection (1) , other than a matter the responsibility for which he or she has delegated to a Minister under subsection (1A)[^key-fb66d862fb550293b1216a8c46bb18e7].
+(2) The Governor, acting in his or her discretion, may , by instrument in writing,[^c-d876c290932a6a9a31d0ecd4302ab84b] assign to the Chief Minister or any Minister recommended by the Chief Minister[^c-dd6835542d0c1c19395c4468d1957422] responsibility for the conduct on behalf of the Governor of any business in the Legislative Council with respect to any matter mentioned in subsection (1) , other than a matter the responsibility for which he or she has delegated to a Minister under subsection (1A)[^c-fb66d862fb550293b1216a8c46bb18e7].
 
 (3) Where the Governor, acting in his or her discretion, determines that the exercise of any function conferred on any other person or authority (other than the Legislative Council) would involve or affect any matter mentioned in subsection (1), the Governor may, acting in his or her discretion, give directions as to the exercise of that function, and the person or authority concerned shall exercise the function in accordance with those directions.
 
 ##### 45. Governor to be kept informed
 
-The Chief Minister and the other Ministers[^key-567baca86cdee94908a37cfb774bf969] shall, at meetings of the Executive Council or otherwise, keep the Governor fully informed concerning the general conduct of the government of St Helena, and furnish the Governor with such information as he or she may request with respect to any particular matter arising in the conduct of that government.
+The Chief Minister and the other Ministers[^c-567baca86cdee94908a37cfb774bf969] shall, at meetings of the Executive Council or otherwise, keep the Governor fully informed concerning the general conduct of the government of St Helena, and furnish the Governor with such information as he or she may request with respect to any particular matter arising in the conduct of that government.
 
-##### 45A. A Minister’s responsibility for a department[^key-46a690ab87bbc38f7494ccf57cf56590]
+##### 45A. A Minister’s responsibility for a department[^c-46a690ab87bbc38f7494ccf57cf56590]
 
 (1) Subject to this Constitution and any other law, a Minister who has the responsibility for a department of Government shall exercise general direction and policy control over that department, in accordance with the policies of the Government as determined by the Executive Council.
 
@@ -845,7 +845,7 @@ The Legislative Council shall consist of—
 - (a) a Speaker and a Deputy Speaker, who shall be elected as provided in section 55; and
 - (b) the following other Members—
   - (i) twelve Elected Members, who shall be persons qualified for election and elected in accordance with this Constitution; and
-  - (ii)[^key-1912406f7a8a218a07323bd02351c34c] the Attorney General as *ex officio* Member.
+  - (ii)[^c-1912406f7a8a218a07323bd02351c34c] the Attorney General as *ex officio* Member.
 
 ###### 49. Qualifications of candidates for election to Legislative Council
 
@@ -880,14 +880,14 @@ The Legislative Council shall consist of—
 
 ###### 51. Tenure of office of Elected Members of Legislative Council
 
-(1)[^key-555c2be3ee3bfa9e71d40819f83ef9d7] The seat of an Elected Member of the Legislative Council shall become vacant—
+(1)[^c-555c2be3ee3bfa9e71d40819f83ef9d7] The seat of an Elected Member of the Legislative Council shall become vacant—
 
 - (a) upon a dissolution of the Council;
 - (b) if the Member is absent from meetings of the Council for a continuous period of three months without the written permission of the Speaker;
 - (c) if any circumstance arises that would cause the Member to become disqualified for election to the Council; or
 - (d) if the Member resigns his or her seat by writing under his or her hand addressed to the Governor.
 
-(2)[^key-8376f519c89004f02d75983861f7b4a6] The Governor shall immediately inform the Chief Minister if he or she receives a signed instrument in writing of resignation from an elected member of the Legislative Council.
+(2)[^c-8376f519c89004f02d75983861f7b4a6] The Governor shall immediately inform the Chief Minister if he or she receives a signed instrument in writing of resignation from an elected member of the Legislative Council.
 
 ###### 52. Determination of questions as to elected membership of Legislative Council
 
@@ -920,7 +920,7 @@ shall be determined by the Supreme Court whose decision shall be final and not s
 
 ###### 54. Oaths or affirmations by Members of Legislative Council
 
-No Member of the Legislative Council shall enter upon the functions of his or her office unless he or she has made before the Governor, or some other person authorised for that purpose by the Governor, acting in his or her discretion, oaths or affirmations of allegiance [^key-a064c1aabb49c15e7257365656909a8b]... and for the due execution of his or her office in the forms set out in the Schedule.
+No Member of the Legislative Council shall enter upon the functions of his or her office unless he or she has made before the Governor, or some other person authorised for that purpose by the Governor, acting in his or her discretion, oaths or affirmations of allegiance [^c-a064c1aabb49c15e7257365656909a8b]... and for the due execution of his or her office in the forms set out in the Schedule.
 
 ###### 55. Speaker and Deputy Speaker
 
@@ -941,19 +941,19 @@ No Member of the Legislative Council shall enter upon the functions of his or he
 
 ##### Council Committees
 
-###### 56. Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+###### 56. Council Committees[^c-31e5a57fb340673d9fbf066051e747a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 57. Tenure of office of members of Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+###### 57. Tenure of office of members of Council Committees[^c-31e5a57fb340673d9fbf066051e747a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 58. Functions of Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+###### 58. Functions of Council Committees[^c-31e5a57fb340673d9fbf066051e747a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### 59. Rules of procedure and meetings of Council Committees[^key-31e5a57fb340673d9fbf066051e747a5]
+###### 59. Rules of procedure and meetings of Council Committees[^c-31e5a57fb340673d9fbf066051e747a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -965,22 +965,22 @@ Subject to this Constitution, the Legislature may make laws for the peace, order
 
 ###### 61. Meetings of Legislative Council
 
-(1)[^key-ed40176db99d6ed60211c90a7b70655d] Meetings of the Legislative Council shall be held at such places and begin at such times as the Speaker, acting in accordance with the advice of the Chief Minister, shall appoint.
+(1)[^c-ed40176db99d6ed60211c90a7b70655d] Meetings of the Legislative Council shall be held at such places and begin at such times as the Speaker, acting in accordance with the advice of the Chief Minister, shall appoint.
 
 (2) The first meeting of the Legislative Council after a general election shall be held at a time and place appointed by the Governor, acting in his or her discretion.
 
-(2A)[^key-13fe0f5ee3f88f34801d51041e23436f] If the first meeting of the Legislative Council after a general election has not commenced within 15 days after the date of the election, the Governor, acting in his or her discretion, shall appoint the earliest practicable time, and the place, for the holding of that meeting.
+(2A)[^c-13fe0f5ee3f88f34801d51041e23436f] If the first meeting of the Legislative Council after a general election has not commenced within 15 days after the date of the election, the Governor, acting in his or her discretion, shall appoint the earliest practicable time, and the place, for the holding of that meeting.
 
 (3) If—
 
-- (a) in circumstances not provided for in subsection (2A),[^key-7a89f4634f6e9900254d207db8f7768f] more than six weeks have elapsed since the last sitting day of the most recent meeting of the Legislative Council, and no time has been appointed for the next meeting, or that time is more than eight weeks after that day; or
+- (a) in circumstances not provided for in subsection (2A),[^c-7a89f4634f6e9900254d207db8f7768f] more than six weeks have elapsed since the last sitting day of the most recent meeting of the Legislative Council, and no time has been appointed for the next meeting, or that time is more than eight weeks after that day; or
 - (b) a proclamation of a state of emergency is in force under a law, and, after five days from the date on which the emergency was proclaimed, a place and time have not been appointed for a meeting of the Council as soon as practicable,
 
-any four or more Elected Members who are not Ministers[^key-53d10218927e453340cc2cf68aa637e9] may request the Speaker to appoint a time and place for the next meeting; and on receiving such a request, the Speaker shall appoint the earliest practicable time, and the place, for the holding of that meeting.
+any four or more Elected Members who are not Ministers[^c-53d10218927e453340cc2cf68aa637e9] may request the Speaker to appoint a time and place for the next meeting; and on receiving such a request, the Speaker shall appoint the earliest practicable time, and the place, for the holding of that meeting.
 
-(3A)[^key-224988cad0c4596302cac4a17cacc7e2] If, at a meeting of the Legislative Council, notice is given under section 45B of a motion of confidence or no confidence in the Government, that meeting shall not be adjourned before the motion has been voted upon, except to a place and a time that shall permit the motion to be voted upon within the time limits prescribed in that section, unless the Council is sooner dissolved under section 76(1)(b).
+(3A)[^c-224988cad0c4596302cac4a17cacc7e2] If, at a meeting of the Legislative Council, notice is given under section 45B of a motion of confidence or no confidence in the Government, that meeting shall not be adjourned before the motion has been voted upon, except to a place and a time that shall permit the motion to be voted upon within the time limits prescribed in that section, unless the Council is sooner dissolved under section 76(1)(b).
 
-(4)[^key-1a4cf5dfb441176af13cb439b82cbb39] There shall be at least one meeting of the Legislative Council in each quarter of each calendar year.
+(4)[^c-1a4cf5dfb441176af13cb439b82cbb39] There shall be at least one meeting of the Legislative Council in each quarter of each calendar year.
 
 ###### 62. Presiding in Legislative Council or otherwise discharging the functions of Speaker
 
@@ -1027,7 +1027,7 @@ The Speaker or other person presiding, acting in his or her discretion, may requ
 
 (4) If, on any question, the votes are evenly divided, the motion shall be lost.
 
-(5) The *ex officio* Member[^key-883b15c417783e9a782bc3f03055f099] of the Legislative Council shall not vote in the Council.
+(5) The *ex officio* Member[^c-883b15c417783e9a782bc3f03055f099] of the Legislative Council shall not vote in the Council.
 
 ###### 68. Standing Orders
 
@@ -1071,7 +1071,7 @@ and shall have such other functions, and shall operate under such procedures, as
 
 (10) In the exercise of its functions, the Public Accounts Committee shall act independently and shall not be subject to the direction or control of the Governor, the Executive Council or any other person or authority.
 
-###### 69A. Select Committees[^key-8d64f6a83afc2d67edc9796edb00fcfc]
+###### 69A. Select Committees[^c-8d64f6a83afc2d67edc9796edb00fcfc]
 
 (1) The Governor shall by order make provision for the establishment of at least two Select Committees for purposes of scrutiny of sectors of Government activity.
 
@@ -1083,16 +1083,16 @@ and shall have such other functions, and shall operate under such procedures, as
 
 The privileges, immunities and powers of the Legislative Council, the Speaker and its other Members may be determined and regulated by Ordinance but shall not exceed the corresponding privileges, immunities and powers of the House of Commons of the United Kingdom or of its members.
 
-###### 71. Code of Conduct[^key-de8947087e5f0ad5cc614ee969fa168f]
+###### 71. Code of Conduct[^c-de8947087e5f0ad5cc614ee969fa168f]
 
 Subject to this Constitution and to any other law, and to the Standing Orders of the Legislative Council—
 
 - (a) a Ministerial Code, approved by the Legislative Council, shall detail the behaviour expected of the Chief Minister and other Ministers and the sanctions for failure to comply with those standards; and
 - (b) a separate Code of Conduct, approved by the Legislative Council, shall detail the behaviour expected of the Speaker and other Members of the Legislative Council, and shall regulate their relationship with officers of the St Helena Public Service.
 
-###### 72. Remuneration of Chief Minister, other Ministers, other Elected Members of Legislative Council, Speaker and Deputy Speaker[^key-84910d3124060e605e979cb67195b90d]
+###### 72. Remuneration of Chief Minister, other Ministers, other Elected Members of Legislative Council, Speaker and Deputy Speaker[^c-84910d3124060e605e979cb67195b90d]
 
-(1) Subject to subsection (2), the Chief Minister, other Ministers[^key-388a02ea747d00784d9dde7ed9b9971e], the other Elected Members of the Legislative Council, the Speaker and the Deputy Speaker shall receive such remuneration and allowances and other benefits as are provided by Ordinance.
+(1) Subject to subsection (2), the Chief Minister, other Ministers[^c-388a02ea747d00784d9dde7ed9b9971e], the other Elected Members of the Legislative Council, the Speaker and the Deputy Speaker shall receive such remuneration and allowances and other benefits as are provided by Ordinance.
 
 (2) The Legislative Council shall not proceed on any Bill for an Ordinance referred to in subsection (1) unless the report of an independent body appointed by the Governor, acting in his or her discretion, recommending the appropriate levels of such remuneration and other allowances and benefits (if any) has been laid before the Council and has been published; and no Ordinance shall provide for levels of remuneration, allowances or benefits that exceed the levels recommended in such report.
 
@@ -1135,7 +1135,7 @@ Subject to this Constitution and to any other law, and to the Standing Orders of
 
 (3) Section 16(1) of the Interpretation Act 1978[^f00005] shall apply to the annulment of any law under this section as it applies to the repeal of an Act of Parliament, save that any enactment repealed or amended by or in pursuance of that law shall have effect as from the date of the annulment as if that law had not been made.
 
-###### 76. Dissolution of Legislative Council[^key-ad9349dc73929499f6231c0cc19e0ba5]
+###### 76. Dissolution of Legislative Council[^c-ad9349dc73929499f6231c0cc19e0ba5]
 
 The Governor shall dissolve the Legislative Council—
 
@@ -1145,13 +1145,13 @@ The Governor shall dissolve the Legislative Council—
 
 ###### 77. Recalling dissolved Legislative Council in case of emergency
 
-(1) If, after a dissolution of the Legislative Council and before the holding of the ensuing general election, an emergency arises of such a nature that the Governor considers it necessary for the Council to be recalled, the Governor, acting after consultation with the Chief Minister, or if that office is vacant[^key-15159a3cc80389642e3055677f8e752f] in his or her discretion, may summon the Council that has been dissolved; and that Council shall thereupon be deemed (except for the purposes of section 78) not to have been dissolved.
+(1) If, after a dissolution of the Legislative Council and before the holding of the ensuing general election, an emergency arises of such a nature that the Governor considers it necessary for the Council to be recalled, the Governor, acting after consultation with the Chief Minister, or if that office is vacant[^c-15159a3cc80389642e3055677f8e752f] in his or her discretion, may summon the Council that has been dissolved; and that Council shall thereupon be deemed (except for the purposes of section 78) not to have been dissolved.
 
 (2) Except for the purposes of section 78, a Legislative Council so recalled shall be deemed to be dissolved on the date on which the next ensuing general election is held.
 
 ###### 78. General elections and bye-elections
 
-(1)[^key-e2519f327a291ca55259aba71904d872] There shall be a general election of the Elected Members of the Legislative Council at such time, being not less than six weeks nor more than three months after the date of every dissolution of the Council, as the Governor appoints—
+(1)[^c-e2519f327a291ca55259aba71904d872] There shall be a general election of the Elected Members of the Legislative Council at such time, being not less than six weeks nor more than three months after the date of every dissolution of the Council, as the Governor appoints—
 
 - (a) acting in accordance with the advice of the Chief Minister; or
 - (b) acting in his or her discretion, if the office of Chief Minister is vacant or the Chief Minister gives no such advice within seven days after the date of the dissolution.
@@ -1161,13 +1161,13 @@ The Governor shall dissolve the Legislative Council—
 - (a) acting in accordance with the advice of the Chief Minister; or
 - (b) acting in his or her discretion, if the office of Chief Minister is vacant or the Chief Minister gives no such advice within seven days after the date of the vacancy.
 
-(3) An election to fill a vacancy shall not be held under subsection (2) if the Legislative Council is sooner dissolved or the date on which the Council must be dissolved under section 76(1)(b)[^key-7f4e0bc60317e84d8431d160055530ea] is less than four months after the date of the vacancy.
+(3) An election to fill a vacancy shall not be held under subsection (2) if the Legislative Council is sooner dissolved or the date on which the Council must be dissolved under section 76(1)(b)[^c-7f4e0bc60317e84d8431d160055530ea] is less than four months after the date of the vacancy.
 
 (4) For the purposes of this section, the date of a vacancy in the seat of an Elected Member is the date on which the vacancy occurred, or, if the existence of a vacancy is determined by the Supreme Court under section 52, the date of that determination.
 
 ###### 79. The Clerk of Councils
 
-The Clerk of Councils shall have charge of the Legislative Council Office and shall be responsible to the Speaker for arranging the business and keeping the records of the Legislative Council, and for the performance, with respect to the Speaker, the Deputy Speaker, the Elected Members and the Select Committees[^key-8535700c0eaae9dadad3f44bc2287d4c], of such secretarial and other functions as may be required.
+The Clerk of Councils shall have charge of the Legislative Council Office and shall be responsible to the Speaker for arranging the business and keeping the records of the Legislative Council, and for the performance, with respect to the Speaker, the Deputy Speaker, the Elected Members and the Select Committees[^c-8535700c0eaae9dadad3f44bc2287d4c], of such secretarial and other functions as may be required.
 
 #### PART 6 — THE ADMINISTRATION OF JUSTICE
 
@@ -1477,9 +1477,9 @@ and shall not be removed except in accordance with this section.
 
 ##### 100. Annual Estimates
 
-(1) The Minister responsible for finance[^key-630bab5bea10cbd957b45844f1231b43] shall cause to be prepared and laid before the Legislative Council before the beginning of each financial year (or as soon as practicable thereafter) Estimates of revenue and expenditure of the Government of St Helena for that financial year.
+(1) The Minister responsible for finance[^c-630bab5bea10cbd957b45844f1231b43] shall cause to be prepared and laid before the Legislative Council before the beginning of each financial year (or as soon as practicable thereafter) Estimates of revenue and expenditure of the Government of St Helena for that financial year.
 
-(2) Notwithstanding subsection (1), the Minister responsible for finance[^key-c3041c46944fae3ba8d53b087a6f6634] may cause to be prepared and laid before the Legislative Council—
+(2) Notwithstanding subsection (1), the Minister responsible for finance[^c-c3041c46944fae3ba8d53b087a6f6634] may cause to be prepared and laid before the Legislative Council—
 
 - (a) fiscal and monetary programmes and plans for economic and social development;
 - (b) estimates of revenue and expenditure covering periods exceeding one year; and
@@ -1487,7 +1487,7 @@ and shall not be removed except in accordance with this section.
 
 ##### 101. Appropriation Bill
 
-The Minister responsible for finance[^key-747a8ed3eb6b712b54ec07cffff863de] shall introduce into the Legislative Council an Appropriation Bill which includes the heads of expenditure contained in the Estimates referred to in section 100(1) (other than expenditure authorised by this Constitution or any other law) to authorise the issue from the Consolidated Fund of the sums necessary to meet that expenditure and to appropriate those sums for the purposes specified in the Bill.
+The Minister responsible for finance[^c-747a8ed3eb6b712b54ec07cffff863de] shall introduce into the Legislative Council an Appropriation Bill which includes the heads of expenditure contained in the Estimates referred to in section 100(1) (other than expenditure authorised by this Constitution or any other law) to authorise the issue from the Consolidated Fund of the sums necessary to meet that expenditure and to appropriate those sums for the purposes specified in the Bill.
 
 ##### 102. Authorisation of expenditure in advance of appropriation
 
@@ -1509,19 +1509,19 @@ whichever is the earlier.
 
 ##### 103. Special Warrants
 
-(1) The Governor, acting on the recommendation of the Minister responsible for finance[^key-39c15838867c0d6d15ecd6e49520040b] and after consulting the Executive Council, if satisfied that there is an urgent and unforeseen need for expenditure for which no other provision exists, may issue a Special Warrant authorising the Financial Secretary to make payments to meet that expenditure out of the Consolidated Fund, up to the amount specified in the warrant; and such warrant shall constitute an appropriation of that amount.
+(1) The Governor, acting on the recommendation of the Minister responsible for finance[^c-39c15838867c0d6d15ecd6e49520040b] and after consulting the Executive Council, if satisfied that there is an urgent and unforeseen need for expenditure for which no other provision exists, may issue a Special Warrant authorising the Financial Secretary to make payments to meet that expenditure out of the Consolidated Fund, up to the amount specified in the warrant; and such warrant shall constitute an appropriation of that amount.
 
-(2) Notification of every Special Warrant shall be laid before the Legislative Council by the Minister responsible for finance[^key-0d739a8b32fec4d0cf9f75d342f8ca88] on the first sitting day not less than ten days after the date of its issue.
+(2) Notification of every Special Warrant shall be laid before the Legislative Council by the Minister responsible for finance[^c-0d739a8b32fec4d0cf9f75d342f8ca88] on the first sitting day not less than ten days after the date of its issue.
 
 ##### 104. Withdrawal Warrants
 
-(1) The Governor, acting on the recommendation of the Minister responsible for finance[^key-a68f2549f77e5359af712afb4c4d80fd] and after consulting the Executive Council, if satisfied that financial exigencies so require, may issue a Withdrawal Warrant authorising the limitation or suspension of appropriated expenditure, to the extent specified in the warrant.
+(1) The Governor, acting on the recommendation of the Minister responsible for finance[^c-a68f2549f77e5359af712afb4c4d80fd] and after consulting the Executive Council, if satisfied that financial exigencies so require, may issue a Withdrawal Warrant authorising the limitation or suspension of appropriated expenditure, to the extent specified in the warrant.
 
-(2) Notification of every Withdrawal Warrant shall be laid before the Legislative Council by the Minister responsible for finance[^key-ee01b85bbc58dc43c56362d7c167d4d3] on the first sitting day not less than ten days after the date of its issue.
+(2) Notification of every Withdrawal Warrant shall be laid before the Legislative Council by the Minister responsible for finance[^c-ee01b85bbc58dc43c56362d7c167d4d3] on the first sitting day not less than ten days after the date of its issue.
 
 ##### 105. Supplementary Estimates
 
-If in the course of any financial year it is found that the amount appropriated for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated, a supplementary Estimate showing the sums required shall be laid before the Legislative Council by the Minister responsible for finance[^key-476fd6a62083514af45110b1450cd207]; and the heads of expenditure contained in that Estimate shall be included in a Bill, to be known as a Supplementary Appropriation Bill, which shall be introduced into the Legislative Council to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the Bill.
+If in the course of any financial year it is found that the amount appropriated for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no amount has been appropriated, a supplementary Estimate showing the sums required shall be laid before the Legislative Council by the Minister responsible for finance[^c-476fd6a62083514af45110b1450cd207]; and the heads of expenditure contained in that Estimate shall be included in a Bill, to be known as a Supplementary Appropriation Bill, which shall be introduced into the Legislative Council to provide for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified in the Bill.
 
 ##### 106. Excess expenditure
 
@@ -1550,9 +1550,9 @@ The appropriations made by the Appropriation Ordinance or any Supplementary Appr
 
 (2) The Chief Auditor, in accordance with such other requirements as may be prescribed by a law, shall audit the annual statement of accounts within six months of receiving it (or such longer period as the Governor may authorise in exceptional circumstances), and shall return it, together with the Chief Auditor’s report and annual management letter, to the Financial Secretary.
 
-(3)[^key-cad15ec6ed2e86eabdc523877881a401] The Financial Secretary shall, as soon as practicable, deliver the audited annual statement of accounts and its attachments received under subsection (2) to the Minister responsible for finance and the Minister shall lay them before the Legislative Council on the next sitting day.
+(3)[^c-cad15ec6ed2e86eabdc523877881a401] The Financial Secretary shall, as soon as practicable, deliver the audited annual statement of accounts and its attachments received under subsection (2) to the Minister responsible for finance and the Minister shall lay them before the Legislative Council on the next sitting day.
 
-##### 109A. Financial Secretary[^key-7a91f8aa14e7e1a5de6aff983c4529b7]
+##### 109A. Financial Secretary[^c-7a91f8aa14e7e1a5de6aff983c4529b7]
 
 (1) There shall be a Financial Secretary, who shall be an officer of the St Helena Public Service.
 
@@ -1619,7 +1619,7 @@ The appropriations made by the Appropriation Ordinance or any Supplementary Appr
 
 (3) An Ordinance referred to in subsection (2)(a) shall provide that the terms and conditions of the guarantee, indemnity or loan shall be laid before the Legislative Council and shall not come into operation unless they have been approved by a resolution of the Council.
 
-(4) The Minister responsible for finance[^key-a3a2f02d4cf868d0c8460a2d71a0160e] shall, at such times as the Legislative Council may determine, cause to be presented to the Council such information concerning any loan as is necessary to show—
+(4) The Minister responsible for finance[^c-a3a2f02d4cf868d0c8460a2d71a0160e] shall, at such times as the Legislative Council may determine, cause to be presented to the Council such information concerning any loan as is necessary to show—
 
 - (a) the extent of the total indebtedness by way of principal and accumulated interest;
 - (b) the provision made for servicing or repayment of the loan; and
@@ -3253,7 +3253,7 @@ I…………………………do swear that I will well and truly serve Her Maj
 
 I…………………………do swear that I will well and truly serve Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, in the office of Member of the Legislative Council. So help me God.
 
-**4.**[^key-11e991cf8a294a8ceb296afeebe534a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-11e991cf8a294a8ceb296afeebe534a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** Judicial Oath
 
@@ -3265,134 +3265,134 @@ In the forms above respectively set forth, for the word “swear” there shall 
 
 ## Annotations
 
-[^key-5fc98ea3949295112c2142348605b729]: Commencement: Sch. in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-5fc98ea3949295112c2142348605b729]: Commencement: Sch. in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
 
-[^key-ff53b902b22fb0a6a4538ea085e23642]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2009/1751/schedule) modified (22.8.2020) by [The Overseas Territories (Constitutional Modifications) Order 2020 (S.I. 2020/780)](https://www.legislation.gov.uk/uksi/2020/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/780/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/780/article/3/2)
+[^c-ff53b902b22fb0a6a4538ea085e23642]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/2009/1751/schedule) modified (22.8.2020) by [The Overseas Territories (Constitutional Modifications) Order 2020 (S.I. 2020/780)](https://www.legislation.gov.uk/uksi/2020/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/780/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/780/article/3/2)
 
-[^key-494e06c2aa53c1a994a6f0e428804c2e]: Textual amendment: Words in Sch. s. 30(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/a)
+[^c-494e06c2aa53c1a994a6f0e428804c2e]: Textual amendment: Words in Sch. s. 30(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/a)
 
-[^key-2353af99f9fc91e9e869d2449ba8ecfe]: Textual amendment: Word in Sch. s. 30(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/b)
+[^c-2353af99f9fc91e9e869d2449ba8ecfe]: Textual amendment: Word in Sch. s. 30(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/b)
 
-[^key-4ee60bdc7fcbb3105599b1143ebbc5f2]: Textual amendment: Words in Sch. s. 30(5) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/c)
+[^c-4ee60bdc7fcbb3105599b1143ebbc5f2]: Textual amendment: Words in Sch. s. 30(5) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/2/c)
 
-[^key-d9471fbe03cb32c4280fe99e81f0ba6a]: Textual amendment: Sch. s. 35(1)(a)-(c) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/a)
+[^c-d9471fbe03cb32c4280fe99e81f0ba6a]: Textual amendment: Sch. s. 35(1)(a)-(c) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/a)
 
-[^key-827f217bb2708d01754fdb41058f8d8d]: Textual amendment: Sch. s. 35(2) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
+[^c-827f217bb2708d01754fdb41058f8d8d]: Textual amendment: Sch. s. 35(2) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
 
-[^key-707e57d641d069c83c9127bc013c6e1c]: Textual amendment: Sch. s. 35(3) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
+[^c-707e57d641d069c83c9127bc013c6e1c]: Textual amendment: Sch. s. 35(3) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
 
-[^key-59060e06494e0e0d1c1ef7dd5bfad41f]: Textual amendment: Sch. s. 35(4) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
+[^c-59060e06494e0e0d1c1ef7dd5bfad41f]: Textual amendment: Sch. s. 35(4) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/3/b)
 
-[^key-db88fd12b123ffa4d175b6137a0f1947]: Textual amendment: Sch. s. 36 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/895/article/2/4)
+[^c-db88fd12b123ffa4d175b6137a0f1947]: Textual amendment: Sch. s. 36 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/895/article/2/4)
 
-[^key-cba9ca827d97136515c2b6046fc4745e]: Textual amendment: Sch. s. 36A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(5)](https://www.legislation.gov.uk/uksi/2021/895/article/2/5)
+[^c-cba9ca827d97136515c2b6046fc4745e]: Textual amendment: Sch. s. 36A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(5)](https://www.legislation.gov.uk/uksi/2021/895/article/2/5)
 
-[^key-7366ed8aee1df01a046ed4d879936827]: Textual amendment: Sch. s. 37 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(6)](https://www.legislation.gov.uk/uksi/2021/895/article/2/6)
+[^c-7366ed8aee1df01a046ed4d879936827]: Textual amendment: Sch. s. 37 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(6)](https://www.legislation.gov.uk/uksi/2021/895/article/2/6)
 
-[^key-9296c37cea1a1ec0455364d4414d216c]: Textual amendment: Sch. ss. 37A-37H inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(7)](https://www.legislation.gov.uk/uksi/2021/895/article/2/7)
+[^c-9296c37cea1a1ec0455364d4414d216c]: Textual amendment: Sch. ss. 37A-37H inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(7)](https://www.legislation.gov.uk/uksi/2021/895/article/2/7)
 
-[^key-90a538d843ae3a312d8d6934a7b9d0ff]: Textual amendment: Sch. s. 38 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(8)](https://www.legislation.gov.uk/uksi/2021/895/article/2/8)
+[^c-90a538d843ae3a312d8d6934a7b9d0ff]: Textual amendment: Sch. s. 38 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(8)](https://www.legislation.gov.uk/uksi/2021/895/article/2/8)
 
-[^key-6660e79e55536e4cdac908c6e367ed99]: Textual amendment: Sch. s. 39(1)-(8) substituted for Sch. s. 39(1)-(9) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(9)](https://www.legislation.gov.uk/uksi/2021/895/article/2/9)
+[^c-6660e79e55536e4cdac908c6e367ed99]: Textual amendment: Sch. s. 39(1)-(8) substituted for Sch. s. 39(1)-(9) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(9)](https://www.legislation.gov.uk/uksi/2021/895/article/2/9)
 
-[^key-75b577ae240a61bf4fcfbf31286677a5]: Textual amendment: Sch. s. 40 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(10)](https://www.legislation.gov.uk/uksi/2021/895/article/2/10)
+[^c-75b577ae240a61bf4fcfbf31286677a5]: Textual amendment: Sch. s. 40 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(10)](https://www.legislation.gov.uk/uksi/2021/895/article/2/10)
 
-[^key-e6ef35e02c9df82c992575b2906f8f2e]: Textual amendment: Sch. s. 41 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(11)](https://www.legislation.gov.uk/uksi/2021/895/article/2/11)
+[^c-e6ef35e02c9df82c992575b2906f8f2e]: Textual amendment: Sch. s. 41 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(11)](https://www.legislation.gov.uk/uksi/2021/895/article/2/11)
 
-[^key-d8a723b879e7fedcfedca92d93e345e2]: Textual amendment: Sch. s. 42 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(12)](https://www.legislation.gov.uk/uksi/2021/895/article/2/12)
+[^c-d8a723b879e7fedcfedca92d93e345e2]: Textual amendment: Sch. s. 42 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(12)](https://www.legislation.gov.uk/uksi/2021/895/article/2/12)
 
-[^key-1e4399023356f4b6e11bf76178a30abc]: Textual amendment: Words in Sch. s. 43(4) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(13)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/13/a)
+[^c-1e4399023356f4b6e11bf76178a30abc]: Textual amendment: Words in Sch. s. 43(4) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(13)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/13/a)
 
-[^key-d60d7fbbb1f9050ea55838c4f791de43]: Textual amendment: Words in Sch. s. 43(8) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(13)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/13/b)
+[^c-d60d7fbbb1f9050ea55838c4f791de43]: Textual amendment: Words in Sch. s. 43(8) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(13)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/13/b)
 
-[^key-d5d37c105956d5a6e7a5180a673a2fc0]: Textual amendment: Word in Sch. s. 44(1)(e) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/a)
+[^c-d5d37c105956d5a6e7a5180a673a2fc0]: Textual amendment: Word in Sch. s. 44(1)(e) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/a)
 
-[^key-8750580ee3472b6362e6730d38c60d8f]: Textual amendment: Sch. s. 44(1)(f): full stop substituted for word (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/b)
+[^c-8750580ee3472b6362e6730d38c60d8f]: Textual amendment: Sch. s. 44(1)(f): full stop substituted for word (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/b)
 
-[^key-6e4c578141b34808b8030389202ace14]: Textual amendment: Sch. s. 44(1)(g) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/c)
+[^c-6e4c578141b34808b8030389202ace14]: Textual amendment: Sch. s. 44(1)(g) omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/c)
 
-[^key-f6f8c875feb09f5c9d960d0fde05cc40]: Textual amendment: Sch. s. 44(1A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(d)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/d)
+[^c-f6f8c875feb09f5c9d960d0fde05cc40]: Textual amendment: Sch. s. 44(1A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(d)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/d)
 
-[^key-d876c290932a6a9a31d0ecd4302ab84b]: Textual amendment: Words in Sch. s. 44(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(e)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/e)
+[^c-d876c290932a6a9a31d0ecd4302ab84b]: Textual amendment: Words in Sch. s. 44(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(e)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/e)
 
-[^key-dd6835542d0c1c19395c4468d1957422]: Textual amendment: Words in Sch. s. 44(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(f)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/f)
+[^c-dd6835542d0c1c19395c4468d1957422]: Textual amendment: Words in Sch. s. 44(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(f)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/f)
 
-[^key-fb66d862fb550293b1216a8c46bb18e7]: Textual amendment: Words in Sch. s. 44(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(g)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/g)
+[^c-fb66d862fb550293b1216a8c46bb18e7]: Textual amendment: Words in Sch. s. 44(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(14)(g)](https://www.legislation.gov.uk/uksi/2021/895/article/2/14/g)
 
-[^key-567baca86cdee94908a37cfb774bf969]: Textual amendment: Words in Sch. s. 45 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(15)](https://www.legislation.gov.uk/uksi/2021/895/article/2/15)
+[^c-567baca86cdee94908a37cfb774bf969]: Textual amendment: Words in Sch. s. 45 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(15)](https://www.legislation.gov.uk/uksi/2021/895/article/2/15)
 
-[^key-46a690ab87bbc38f7494ccf57cf56590]: Textual amendment: Sch. ss. 45A, 45B inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(16)](https://www.legislation.gov.uk/uksi/2021/895/article/2/16)
+[^c-46a690ab87bbc38f7494ccf57cf56590]: Textual amendment: Sch. ss. 45A, 45B inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(16)](https://www.legislation.gov.uk/uksi/2021/895/article/2/16)
 
-[^key-1912406f7a8a218a07323bd02351c34c]: Textual amendment: Sch. s. 48(b)(ii) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(17)](https://www.legislation.gov.uk/uksi/2021/895/article/2/17)
+[^c-1912406f7a8a218a07323bd02351c34c]: Textual amendment: Sch. s. 48(b)(ii) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(17)](https://www.legislation.gov.uk/uksi/2021/895/article/2/17)
 
-[^key-555c2be3ee3bfa9e71d40819f83ef9d7]: Textual amendment: Sch. s. 51 renumbered as Sch. s. 51(1) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(18)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/18/a)
+[^c-555c2be3ee3bfa9e71d40819f83ef9d7]: Textual amendment: Sch. s. 51 renumbered as Sch. s. 51(1) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(18)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/18/a)
 
-[^key-8376f519c89004f02d75983861f7b4a6]: Textual amendment: Sch. s. 51(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(18)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/18/b)
+[^c-8376f519c89004f02d75983861f7b4a6]: Textual amendment: Sch. s. 51(2) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(18)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/18/b)
 
-[^key-a064c1aabb49c15e7257365656909a8b]: Textual amendment: Words in Sch. s. 54 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(19)](https://www.legislation.gov.uk/uksi/2021/895/article/2/19)
+[^c-a064c1aabb49c15e7257365656909a8b]: Textual amendment: Words in Sch. s. 54 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(19)](https://www.legislation.gov.uk/uksi/2021/895/article/2/19)
 
-[^key-31e5a57fb340673d9fbf066051e747a5]: Textual amendment: Sch. ss. 56-59 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(20)](https://www.legislation.gov.uk/uksi/2021/895/article/2/20)
+[^c-31e5a57fb340673d9fbf066051e747a5]: Textual amendment: Sch. ss. 56-59 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(20)](https://www.legislation.gov.uk/uksi/2021/895/article/2/20)
 
-[^key-ed40176db99d6ed60211c90a7b70655d]: Textual amendment: Sch. s. 61(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/a)
+[^c-ed40176db99d6ed60211c90a7b70655d]: Textual amendment: Sch. s. 61(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/a)
 
-[^key-13fe0f5ee3f88f34801d51041e23436f]: Textual amendment: Sch. s. 61(2A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/b)
+[^c-13fe0f5ee3f88f34801d51041e23436f]: Textual amendment: Sch. s. 61(2A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/b)
 
-[^key-7a89f4634f6e9900254d207db8f7768f]: Textual amendment: Words in Sch. s. 61(3)(a) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/c)
+[^c-7a89f4634f6e9900254d207db8f7768f]: Textual amendment: Words in Sch. s. 61(3)(a) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(c)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/c)
 
-[^key-53d10218927e453340cc2cf68aa637e9]: Textual amendment: Words in Sch. s. 61(3) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(d)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/d)
+[^c-53d10218927e453340cc2cf68aa637e9]: Textual amendment: Words in Sch. s. 61(3) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(d)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/d)
 
-[^key-224988cad0c4596302cac4a17cacc7e2]: Textual amendment: Sch. s. 61(3A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(e)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/e)
+[^c-224988cad0c4596302cac4a17cacc7e2]: Textual amendment: Sch. s. 61(3A) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(e)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/e)
 
-[^key-1a4cf5dfb441176af13cb439b82cbb39]: Textual amendment: Sch. s. 61(4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(f)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/f)
+[^c-1a4cf5dfb441176af13cb439b82cbb39]: Textual amendment: Sch. s. 61(4) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(21)(f)](https://www.legislation.gov.uk/uksi/2021/895/article/2/21/f)
 
-[^key-883b15c417783e9a782bc3f03055f099]: Textual amendment: Word in Sch. s. 67(5) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(22)](https://www.legislation.gov.uk/uksi/2021/895/article/2/22)
+[^c-883b15c417783e9a782bc3f03055f099]: Textual amendment: Word in Sch. s. 67(5) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(22)](https://www.legislation.gov.uk/uksi/2021/895/article/2/22)
 
-[^key-8d64f6a83afc2d67edc9796edb00fcfc]: Textual amendment: Sch. s. 69A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(23)](https://www.legislation.gov.uk/uksi/2021/895/article/2/23)
+[^c-8d64f6a83afc2d67edc9796edb00fcfc]: Textual amendment: Sch. s. 69A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(23)](https://www.legislation.gov.uk/uksi/2021/895/article/2/23)
 
-[^key-de8947087e5f0ad5cc614ee969fa168f]: Textual amendment: Sch. s. 71 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(24)](https://www.legislation.gov.uk/uksi/2021/895/article/2/24)
+[^c-de8947087e5f0ad5cc614ee969fa168f]: Textual amendment: Sch. s. 71 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(24)](https://www.legislation.gov.uk/uksi/2021/895/article/2/24)
 
-[^key-84910d3124060e605e979cb67195b90d]: Textual amendment: Words in Sch. s. 72 heading substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(25)](https://www.legislation.gov.uk/uksi/2021/895/article/2/25)
+[^c-84910d3124060e605e979cb67195b90d]: Textual amendment: Words in Sch. s. 72 heading substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(25)](https://www.legislation.gov.uk/uksi/2021/895/article/2/25)
 
-[^key-388a02ea747d00784d9dde7ed9b9971e]: Textual amendment: Words in Sch. s. 72(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(25)](https://www.legislation.gov.uk/uksi/2021/895/article/2/25)
+[^c-388a02ea747d00784d9dde7ed9b9971e]: Textual amendment: Words in Sch. s. 72(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(25)](https://www.legislation.gov.uk/uksi/2021/895/article/2/25)
 
 [^f00005]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-ad9349dc73929499f6231c0cc19e0ba5]: Textual amendment: Words in Sch. s. 76 substituted for Sch. s. 76(1)(2) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(26)](https://www.legislation.gov.uk/uksi/2021/895/article/2/26)
+[^c-ad9349dc73929499f6231c0cc19e0ba5]: Textual amendment: Words in Sch. s. 76 substituted for Sch. s. 76(1)(2) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(26)](https://www.legislation.gov.uk/uksi/2021/895/article/2/26)
 
-[^key-15159a3cc80389642e3055677f8e752f]: Textual amendment: Words in Sch. s. 77(1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(27)](https://www.legislation.gov.uk/uksi/2021/895/article/2/27)
+[^c-15159a3cc80389642e3055677f8e752f]: Textual amendment: Words in Sch. s. 77(1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(27)](https://www.legislation.gov.uk/uksi/2021/895/article/2/27)
 
-[^key-e2519f327a291ca55259aba71904d872]: Textual amendment: Sch. s. 78(1)(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(28)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/28/a)
+[^c-e2519f327a291ca55259aba71904d872]: Textual amendment: Sch. s. 78(1)(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(28)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/28/a)
 
-[^key-7f4e0bc60317e84d8431d160055530ea]: Textual amendment: Words in Sch. s. 78(3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(28)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/28/b)
+[^c-7f4e0bc60317e84d8431d160055530ea]: Textual amendment: Words in Sch. s. 78(3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(28)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/28/b)
 
-[^key-8535700c0eaae9dadad3f44bc2287d4c]: Textual amendment: Words in Sch. s. 79 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(29)](https://www.legislation.gov.uk/uksi/2021/895/article/2/29)
+[^c-8535700c0eaae9dadad3f44bc2287d4c]: Textual amendment: Words in Sch. s. 79 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(29)](https://www.legislation.gov.uk/uksi/2021/895/article/2/29)
 
 [^f00006]: Footnote: [1833 c.41](https://www.legislation.gov.uk/ukpga/1833/41).
 
-[^key-630bab5bea10cbd957b45844f1231b43]: Textual amendment: Words in Sch. s. 100(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(30)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/30/a)
+[^c-630bab5bea10cbd957b45844f1231b43]: Textual amendment: Words in Sch. s. 100(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(30)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/30/a)
 
-[^key-c3041c46944fae3ba8d53b087a6f6634]: Textual amendment: Words in Sch. s. 100(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(30)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/30/b)
+[^c-c3041c46944fae3ba8d53b087a6f6634]: Textual amendment: Words in Sch. s. 100(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(30)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/30/b)
 
-[^key-747a8ed3eb6b712b54ec07cffff863de]: Textual amendment: Words in Sch. s. 101 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(31)](https://www.legislation.gov.uk/uksi/2021/895/article/2/31)
+[^c-747a8ed3eb6b712b54ec07cffff863de]: Textual amendment: Words in Sch. s. 101 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(31)](https://www.legislation.gov.uk/uksi/2021/895/article/2/31)
 
-[^key-39c15838867c0d6d15ecd6e49520040b]: Textual amendment: Words in Sch. s. 103(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(32)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/32/a)
+[^c-39c15838867c0d6d15ecd6e49520040b]: Textual amendment: Words in Sch. s. 103(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(32)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/32/a)
 
-[^key-0d739a8b32fec4d0cf9f75d342f8ca88]: Textual amendment: Words in Sch. s. 103(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(32)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/32/b)
+[^c-0d739a8b32fec4d0cf9f75d342f8ca88]: Textual amendment: Words in Sch. s. 103(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(32)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/32/b)
 
-[^key-a68f2549f77e5359af712afb4c4d80fd]: Textual amendment: Words in Sch. s. 104(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(33)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/33/a)
+[^c-a68f2549f77e5359af712afb4c4d80fd]: Textual amendment: Words in Sch. s. 104(1) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(33)(a)](https://www.legislation.gov.uk/uksi/2021/895/article/2/33/a)
 
-[^key-ee01b85bbc58dc43c56362d7c167d4d3]: Textual amendment: Words in Sch. s. 104(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(33)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/33/b)
+[^c-ee01b85bbc58dc43c56362d7c167d4d3]: Textual amendment: Words in Sch. s. 104(2) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(33)(b)](https://www.legislation.gov.uk/uksi/2021/895/article/2/33/b)
 
-[^key-476fd6a62083514af45110b1450cd207]: Textual amendment: Words in Sch. s. 105 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(34)](https://www.legislation.gov.uk/uksi/2021/895/article/2/34)
+[^c-476fd6a62083514af45110b1450cd207]: Textual amendment: Words in Sch. s. 105 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(34)](https://www.legislation.gov.uk/uksi/2021/895/article/2/34)
 
-[^key-cad15ec6ed2e86eabdc523877881a401]: Textual amendment: Sch. s. 109(3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(35)](https://www.legislation.gov.uk/uksi/2021/895/article/2/35)
+[^c-cad15ec6ed2e86eabdc523877881a401]: Textual amendment: Sch. s. 109(3) substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(35)](https://www.legislation.gov.uk/uksi/2021/895/article/2/35)
 
-[^key-7a91f8aa14e7e1a5de6aff983c4529b7]: Textual amendment: Sch. s. 109A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(36)](https://www.legislation.gov.uk/uksi/2021/895/article/2/36)
+[^c-7a91f8aa14e7e1a5de6aff983c4529b7]: Textual amendment: Sch. s. 109A inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(36)](https://www.legislation.gov.uk/uksi/2021/895/article/2/36)
 
-[^key-a3a2f02d4cf868d0c8460a2d71a0160e]: Textual amendment: Words in Sch. s. 112 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(37)](https://www.legislation.gov.uk/uksi/2021/895/article/2/37)
+[^c-a3a2f02d4cf868d0c8460a2d71a0160e]: Textual amendment: Words in Sch. s. 112 substituted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(37)](https://www.legislation.gov.uk/uksi/2021/895/article/2/37)
 
 [^f00007]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00008]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-11e991cf8a294a8ceb296afeebe534a5]: Textual amendment: Sch. Sch. para. 4 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(38)](https://www.legislation.gov.uk/uksi/2021/895/article/2/38)
+[^c-11e991cf8a294a8ceb296afeebe534a5]: Textual amendment: Sch. Sch. para. 4 omitted (coming into force in accordance with art. 1(3) of the amending S.I.) by virtue of [The St Helena, Ascension and Tristan da Cunha Constitution (Amendment) Order 2021 (S.I. 2021/895)](https://www.legislation.gov.uk/uksi/2021/895), [art. 2(38)](https://www.legislation.gov.uk/uksi/2021/895/article/2/38)

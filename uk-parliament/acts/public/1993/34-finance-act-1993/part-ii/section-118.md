@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Scottish trusts.[^key-b0be821fcde104adfdaf7c9817292c52]
+## 118. Scottish trusts.[^c-b0be821fcde104adfdaf7c9817292c52]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0be821fcde104adfdaf7c9817292c52]: Textual amendment: [S. 118](https://www.legislation.gov.uk/ukpga/1993/34/section/118) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 356](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/356), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b0be821fcde104adfdaf7c9817292c52]: Textual amendment: [S. 118](https://www.legislation.gov.uk/ukpga/1993/34/section/118) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 356](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/356), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

@@ -29,15 +29,15 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 
 1977 c. 3
 
-[^key-10d72fca511fba6631658ed5a27d2a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10d72fca511fba6631658ed5a27d2a7d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — The Corporations[^key-10d72fca511fba6631658ed5a27d2a7d]
+### PART I — The Corporations[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
-#### Constitution and functions[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Constitution and functions[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -53,7 +53,7 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 8 — Furnishing and publication of information by the Corporations.](part-i/section-8.md)
 - [Section 9 — Control by Corporations of wholly owned subsidiaries.](part-i/section-9.md)
 
-#### Financial provisions[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Financial provisions[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -67,11 +67,11 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 17 — Accounts and audit.](part-i/section-17.md)
 - [Section 18 — Annual report.](part-i/section-18.md)
 
-### Part II — Vesting of Securities and other Assets in the Corporations and acquired Companies[^key-10d72fca511fba6631658ed5a27d2a7d]
+### Part II — Vesting of Securities and other Assets in the Corporations and acquired Companies[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
-#### Acquisition of securities and assets[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Acquisition of securities and assets[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -80,7 +80,7 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 21 — Certain loans from associated persons to be treated as securities.](part-ii/section-21.md)
 - [Section 22 — Determination of rights to require the issue of securities or to nominate directors.](part-ii/section-22.md)
 
-#### Payments of dividend and interest[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Payments of dividend and interest[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 24 — Permitted dividends and interest.](part-ii/section-24.md)
 - [Section 25 — Final payments of dividend and interest.](part-ii/section-25.md)
 
-#### Safeguarding of assets, avoidance of certain transactions, et ceteralaetc.[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Safeguarding of assets, avoidance of certain transactions, et ceteralaetc.[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -102,7 +102,7 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 33 — Supplementary provisions relating to dissipation of assets.](part-ii/section-33.md)
 - [Section 34 — Approvals and undertakings given before passing of Act.](part-ii/section-34.md)
 
-#### Compensation[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Compensation[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -114,11 +114,11 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 40 — General provisions as to compensation stock.](part-ii/section-40.md)
 - [Section 41 — Stockholders’ representatives.](part-ii/section-41.md)
 
-### Part III — Miscellaneous and General[^key-10d72fca511fba6631658ed5a27d2a7d]
+### Part III — Miscellaneous and General[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
-#### Arbitration and the Arbitration Tribunal[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Arbitration and the Arbitration Tribunal[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -126,7 +126,7 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 43 — Scottish proceedings.](part-iii/section-43.md)
 - [Section 44 — Staff and expenses of arbitration tribunal.](part-iii/section-44.md)
 
-#### The Corporations[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### The Corporations[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -134,27 +134,27 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 47 — Right of persons to object to practices of British Shipbuilders or their wholly owned subsidiaries.](part-iii/section-47.md)
 - [Section 48 — Duty of the Corporations to consult et ceteralaetc. with Northern Ireland state-controlled bodies.](part-iii/section-48.md)
 
-#### Pensions et ceteralaetc.[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Pensions et ceteralaetc.[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
 - [Section 49 — Provisions as to pension rights.](part-iii/section-49.md)
 - [Section 50 — Compensation for loss of employment, emoluments or pension rights.](part-iii/section-50.md)
 
-#### Information[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Information[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
 - [Section 51 — Furnishing of information to the Secretary of State.](part-iii/section-51.md)
 - [Section 52 — Restriction on disclosure of information.](part-iii/section-52.md)
 
-#### Liabilities, et ceteralaetc.[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### Liabilities, et ceteralaetc.[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
 - [Section 53 — Liabilities of Corporations et ceteralaetc.](part-iii/section-53.md)
 
-#### General[^key-10d72fca511fba6631658ed5a27d2a7d]
+#### General[^c-10d72fca511fba6631658ed5a27d2a7d]
 
 **No longer in force.**
 
@@ -163,7 +163,7 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 - [Section 56 — Interpretation.](part-iii/section-56.md)
 - [Section 57 — Short title and extent.](part-iii/section-57.md)
 
-[^key-10d72fca511fba6631658ed5a27d2a7d] SCHEDULES
+[^c-10d72fca511fba6631658ed5a27d2a7d] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -175,4 +175,4 @@ Aircraft and Shipbuilding Industries Act 1977 (repealed)
 
 ## Annotations
 
-[^key-10d72fca511fba6631658ed5a27d2a7d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1977/3) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/8)
+[^c-10d72fca511fba6631658ed5a27d2a7d]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1977/3) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/8)

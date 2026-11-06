@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Suspension and amendment[^key-479a1408489b97692574ce950a0dbbd7]
+## 12. Suspension and amendment[^c-479a1408489b97692574ce950a0dbbd7]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-479a1408489b97692574ce950a0dbbd7]: Commencement: Reg. 12 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-479a1408489b97692574ce950a0dbbd7]: Commencement: Reg. 12 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

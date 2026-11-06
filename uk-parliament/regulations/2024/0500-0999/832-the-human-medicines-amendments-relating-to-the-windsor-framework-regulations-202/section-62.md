@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Amendment to regulation 79[^key-d7278adcd2f9d0eb6050c03ad22dceb6]
+## 62. Amendment to regulation 79[^c-d7278adcd2f9d0eb6050c03ad22dceb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 79(1) and (2) (failure to provide information on marketing authori
 
 ## Annotations
 
-[^key-d7278adcd2f9d0eb6050c03ad22dceb6]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2024/832/regulation/62) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-d7278adcd2f9d0eb6050c03ad22dceb6]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2024/832/regulation/62) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00073]: Footnote: Regulation 79 was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

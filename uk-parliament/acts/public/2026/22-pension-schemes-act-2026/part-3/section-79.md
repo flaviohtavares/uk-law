@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Certification of staff supporting individuals responsible for key functions[^key-c278e454a9a7077158d17ac5909d4112]
+## 79. Certification of staff supporting individuals responsible for key functions[^c-c278e454a9a7077158d17ac5909d4112]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c278e454a9a7077158d17ac5909d4112]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-c278e454a9a7077158d17ac5909d4112]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

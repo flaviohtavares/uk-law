@@ -45,7 +45,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — GENERAL
 
-### 1. Title, commencement and application[^key-6be81c6dfc76dd70c656085bfa2cd07d]
+### 1. Title, commencement and application[^c-6be81c6dfc76dd70c656085bfa2cd07d]
 
 (1) The title of these Regulations is the Education (Pupil Referral Units) (Management Committees etc.) (Wales) Regulations 2014.
 
@@ -55,7 +55,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (4) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-cf6d6529e8ff91a72c21bf50b7eea58c]
+### 2. Interpretation[^c-cf6d6529e8ff91a72c21bf50b7eea58c]
 
 In these Regulations—
 
@@ -70,28 +70,28 @@ In these Regulations—
 
 ## PART 2 — ESTABLISHMENT OF MANAGEMENT COMMITTEES
 
-### 3. Establishment of committees[^key-13df06a94a277df44e589c14e4e2086c]
+### 3. Establishment of committees[^c-13df06a94a277df44e589c14e4e2086c]
 
 Subject to regulation 4, an authority must establish a committee to act as the management committee of each unit maintained by it—
 
 - (a) in relation to a unit opened before 31 October 2014, by 23 February 2015; and
 - (b) in relation to a unit opened on or after 31 October 2014, as soon as practicable, and in any event no later than the first day on which the unit is open to pupils.
 
-### 4. Joint committees[^key-70ab81241b0ffa62041f48cbfaf0df11]
+### 4. Joint committees[^c-70ab81241b0ffa62041f48cbfaf0df11]
 
 An authority may—
 
 - (a) establish a committee to act as the management committee of two or more units maintained by it; or
 - (b) make arrangements for a committee established by it under regulation 3 or paragraph (a) to act as the management committee of an additional unit, or units, maintained by it.
 
-### 5. Duty to make instrument of government and appoint first members[^key-32024c25ec3ebf8de8910407fefc425b]
+### 5. Duty to make instrument of government and appoint first members[^c-32024c25ec3ebf8de8910407fefc425b]
 
 An authority must—
 
 - (a) make an instrument of government, to determine the composition and other matters relating to the committee, in respect of every unit (or, as the case may be, every group of units) maintained by it; and
 - (b) appoint the first members of each committee established by it under regulation 3 or 4, (other than parent members, and staff members required to be elected under regulation 10(1)(b)).
 
-### 6. Content of instrument of government[^key-746e14140d6bf27077317a35c7815bce]
+### 6. Content of instrument of government[^c-746e14140d6bf27077317a35c7815bce]
 
 The instrument of government must set out—
 
@@ -104,7 +104,7 @@ The instrument of government must set out—
 - (e) the name of any sponsor who is entitled to nominate persons for appointment as such members under Schedule 1; and
 - (f) the date when the instrument of government takes effect.
 
-### 7. Review of instrument of government[^key-4ddb9a7038005c2040bc52390a150562]
+### 7. Review of instrument of government[^c-4ddb9a7038005c2040bc52390a150562]
 
 (1) The committee or the authority may review the instrument of government at any time after it is made.
 
@@ -126,7 +126,7 @@ The instrument of government must set out—
 
 (6) Where the instrument of government is varied under this regulation, it must set out the date on which the variation takes effect.
 
-### 8. Other requirements relating to instruments of government[^key-8c35bbb8c7baafbb32ce800b1ef9a77e]
+### 8. Other requirements relating to instruments of government[^c-8c35bbb8c7baafbb32ce800b1ef9a77e]
 
 (1) The authority must ensure that the persons set out in paragraph (2) are provided (free of charge) with—
 
@@ -140,7 +140,7 @@ The instrument of government must set out—
 
 ## PART 3 — CATEGORIES OF MEMBERS
 
-### 9. Parent members[^key-2ddd9c8150fd761317f92b19868018d5]
+### 9. Parent members[^c-2ddd9c8150fd761317f92b19868018d5]
 
 (1) In these Regulations “parent member” (“*rhiant-aelod*”) means—
 
@@ -154,7 +154,7 @@ The instrument of government must set out—
 
 (3) A person is not disqualified from continuing to hold office as a parent member when that person ceases to be a parent of a registered pupil at the unit (or, as the case may be, any unit in the group of units) or to fulfil any of the requirements set out in paragraph 8 of Schedule 1 unless that person is otherwise disqualified under these Regulations.
 
-### 10. Staff members[^key-298e7e3b6a2a742bc47eca58340c21af]
+### 10. Staff members[^c-298e7e3b6a2a742bc47eca58340c21af]
 
 (1) In these Regulations “staff member” (“*staff-aelod*”) means—
 
@@ -165,13 +165,13 @@ The instrument of government must set out—
 
 (3) Upon ceasing to work at that unit, a staff member is to be disqualified from continuing to hold office as such a member.
 
-### 11. Authority appointed members[^key-f04da7c97fa406e3c71a727723b8bf8a]
+### 11. Authority appointed members[^c-f04da7c97fa406e3c71a727723b8bf8a]
 
 (1) In these Regulations “authority appointed member” (“*aelod a benodir gan yr awdurdod*”) means a person who is appointed as a member by the authority (other than a staff member, a community member, or a sponsor member appointed by the authority under regulation 5(b)).
 
 (2) A person is disqualified from appointment as an authority appointed member if that person is eligible to be a staff member.
 
-### 12. Community members[^key-68b558e3c25f7020cf7c3e3a892cba25]
+### 12. Community members[^c-68b558e3c25f7020cf7c3e3a892cba25]
 
 (1) In these Regulations “community member” (“*aelod cymunedol*”) means a person who is appointed as a member by the committee (or by the authority under regulation 5(b)) and who is—
 
@@ -184,13 +184,13 @@ The instrument of government must set out—
 - (a) eligible to be a staff member of the committee; or
 - (b) an elected member of the authority.
 
-### 13. Sponsor members[^key-a607b6a7c318ccdefa045a3e046fa43b]
+### 13. Sponsor members[^c-a607b6a7c318ccdefa045a3e046fa43b]
 
 In these Regulations “sponsor member” (“*noddwr-aelod*”) means a person who is nominated as a sponsor member and is appointed as such by the committee in accordance with paragraphs 12 to 14 of Schedule 1 (or is appointed as a sponsor member by the authority under regulation 5(b)).
 
 ## PART 4 — COMPOSITION OF COMMITTEES
 
-### 14. General principles[^key-eee5280d584168989c1a96cc4d3d9151]
+### 14. General principles[^c-eee5280d584168989c1a96cc4d3d9151]
 
 (1) The instrument of government is to specify the size and membership of the committee, which is to be no fewer than 7 and no more than 20 members (disregarding any sponsor members).
 
@@ -214,17 +214,17 @@ In these Regulations “sponsor member” (“*noddwr-aelod*”) means a person 
 - (d) at least one but no more than two may be sponsor members; and
 - (e) the number of community members must out number all the other members listed in subparagraphs (a) to (d).
 
-### 15. Notification of appointments[^key-ce9dcdd3936be79fcb11b2add17f7cf2]
+### 15. Notification of appointments[^c-ce9dcdd3936be79fcb11b2add17f7cf2]
 
 Where any person makes an appointment or nominates a person to be appointed to the committee that person must give written notice of the appointment or the nomination to the clerk to the committee, specifying the name and usual place of residence of the person appointed or nominated.
 
 ## PART 5 — QUALIFICATIONS AND TENURE OF OFFICE OF MEMBERS
 
-### 16. Qualifications and disqualifications[^key-f98654c0340279eb9a4f66b789aebac0]
+### 16. Qualifications and disqualifications[^c-f98654c0340279eb9a4f66b789aebac0]
 
 Schedule 2 sets out the circumstances in which a person is qualified for, or disqualified from, holding or continuing in office as a member.
 
-### 17. Term of office[^key-44ea58852a5d04ce1f1c0211da5d852c]
+### 17. Term of office[^c-44ea58852a5d04ce1f1c0211da5d852c]
 
 (1) Subject to paragraphs (2) to (4), a member is to hold office for a fixed period of four years from the date of his election or appointment.
 
@@ -239,13 +239,13 @@ Schedule 2 sets out the circumstances in which a person is qualified for, or dis
 - (c) being removed from office in accordance with regulation 19; or
 - (d) being disqualified, by virtue of any provision of these Regulations, from holding or continuing to hold office.
 
-### 18. Resignation[^key-e5f13df956141c714f04ce7fbdea0f7c]
+### 18. Resignation[^c-e5f13df956141c714f04ce7fbdea0f7c]
 
 (1) A member may at any time resign their office by giving written notice to the clerk to the committee.
 
 (2) The teacher in charge of a unit may withdraw their resignation at any time by giving written notice to the clerk to the committee.
 
-### 19. Removal of members[^key-85d3ae7ca82070a64e7c0642c58d608c]
+### 19. Removal of members[^c-85d3ae7ca82070a64e7c0642c58d608c]
 
 (1) Any authority appointed member may be removed from office by the authority, who must give written notice thereof to the clerk to the committee, and to the member so removed.
 
@@ -259,7 +259,7 @@ Schedule 2 sets out the circumstances in which a person is qualified for, or dis
 
 (6) Any parent member appointed by the committee under paragraphs 7 and 8 of Schedule 1 may be removed by the committee in accordance with the procedure set out in regulation 20.
 
-### 20. Procedure for removal of members by the committee[^key-996f7bf0f240b24bd10eaa51b7bb347b]
+### 20. Procedure for removal of members by the committee[^c-996f7bf0f240b24bd10eaa51b7bb347b]
 
 (1) This regulation applies in relation to the removal of a member from office in accordance with regulation 19.
 
@@ -272,13 +272,13 @@ Schedule 2 sets out the circumstances in which a person is qualified for, or dis
 
 ## PART 6 — PROCEDURES OF COMMITTEES
 
-### 21. Application of the Government of Maintained Schools (Wales) Regulations 2005[^key-88c7b8f745cf61f11c2b316f1b1201c9]
+### 21. Application of the Government of Maintained Schools (Wales) Regulations 2005[^c-88c7b8f745cf61f11c2b316f1b1201c9]
 
 The Government of Maintained Schools (Wales) Regulations 2005 apply in relation to units as they apply in relation to maintained schools to the extent and with the modifications prescribed in Schedule 3 (and in those Regulations as so applied any expression defined in regulation 2 has the same meaning as in that regulation).
 
 ## PART 7 — DELEGATION OF FUNCTIONS TO COMMITTEES AND CURRICULUM
 
-### 22. Delegation of functions[^key-327e963dfb51a8633b0eca2f31c1ef1f]
+### 22. Delegation of functions[^c-327e963dfb51a8633b0eca2f31c1ef1f]
 
 (1) Subject to paragraph (3), an authority must delegate the functions mentioned in paragraph (2) relating to a unit to the committee, together with such of the authority’s powers as are requisite for discharging those functions.
 
@@ -288,7 +288,7 @@ The Government of Maintained Schools (Wales) Regulations 2005 apply in relation 
 - (b) the authority’s functions under paragraph 6(3) of Schedule 1 to the Education Act 1996 (complaints relating to the curriculum);
 - (c) the authority’s functions under section 88 of the Education and Inspections Act 2006[^f00003] (responsibility for discipline); and
 - (d) with respect to teachers employed by the authority to work at the unit, the authority’s functions under the School Teacher Appraisal (Wales) Regulations 2011[^f00004].
-- (e)[^key-9b20f3b056ff6349d5d096cfc6e7aade] the authority’s functions by virtue of paragraph 1 of Schedule 1 to the Education Act 1996, where those functions are conferred by, or under, the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
+- (e)[^c-9b20f3b056ff6349d5d096cfc6e7aade] the authority’s functions by virtue of paragraph 1 of Schedule 1 to the Education Act 1996, where those functions are conferred by, or under, the Additional Learning Needs and Education Tribunal (Wales) Act 2018.
 
 (3) Paragraph (1) does not apply to the following—
 
@@ -299,7 +299,7 @@ The Government of Maintained Schools (Wales) Regulations 2005 apply in relation 
 - (b) any power to appoint, dismiss or suspend teachers and non-teaching staff at the unit;
 - (c) any power to spend any sum of money appropriated by the authority for the purposes of the unit.
 
-### 23. Curriculum[^key-017a2a0bf400fa143b7b47b016755b60]
+### 23. Curriculum[^c-017a2a0bf400fa143b7b47b016755b60]
 
 The authority, committee and teacher in charge of a unit (acting jointly) must make, and from time to time review, a written statement of the policy in relation to the curriculum for the unit.
 
@@ -313,31 +313,31 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 Regulations 9, 10, and 13
 
-**1.**[^key-e9f6b27c0fe44304dba5e0a1bb66e505] The authority may delegate to the teacher in charge of a unit any of its functions under this Schedule.
+**1.**[^c-e9f6b27c0fe44304dba5e0a1bb66e505] The authority may delegate to the teacher in charge of a unit any of its functions under this Schedule.
 
-### 2. Election and appointment of parent members[^key-b78d102895521b0a6a0d004108548db8]
+### 2. Election and appointment of parent members[^c-b78d102895521b0a6a0d004108548db8]
 
 Subject to paragraphs 1 and 3 to 6, the authority must make all the necessary arrangements for the election of parent members.
 
-**3.**[^key-8e35b3c1a14c517c585b8541a7d04a77] The duty imposed by paragraph 2 does not include power to impose any requirements as to the minimum number of votes required to be cast for a member to be elected.
+**3.**[^c-8e35b3c1a14c517c585b8541a7d04a77] The duty imposed by paragraph 2 does not include power to impose any requirements as to the minimum number of votes required to be cast for a member to be elected.
 
-**4.**[^key-ce842619247a9617376a9c8393f9933a] Any election which is contested must be held by secret ballot.
+**4.**[^c-ce842619247a9617376a9c8393f9933a] Any election which is contested must be held by secret ballot.
 
-**5.**[^key-7e6310e5a2adcde6a83c0930200b173d] (1) The arrangements made under paragraph 2 must provide for every person who is entitled to vote to have an opportunity to do so by post.
+**5.**[^c-7e6310e5a2adcde6a83c0930200b173d] (1) The arrangements made under paragraph 2 must provide for every person who is entitled to vote to have an opportunity to do so by post.
 
 (2) For the purposes of sub–paragraph (1), “post” (“*post*”) includes delivery by hand.
 
 (3) The arrangements made under paragraph 2 may provide for every person who is entitled to vote to have an opportunity to do so by electronic means.
 
-**6.**[^key-31228fc0cb0e0ccc2f54940b40bb8aa6] Where a vacancy for a parent member arises, the authority must take such steps as are reasonably practicable to secure that every person who is known to them to be a parent of a registered pupil at the unit or one of the units is—
+**6.**[^c-31228fc0cb0e0ccc2f54940b40bb8aa6] Where a vacancy for a parent member arises, the authority must take such steps as are reasonably practicable to secure that every person who is known to them to be a parent of a registered pupil at the unit or one of the units is—
 
 - (a) informed of the vacancy and that it is required to be filled by election;
 - (b) informed that he is entitled to stand as a candidate and vote in the election; and
 - (c) given the opportunity to do so.
 
-**7.**[^key-d28f3a5e894f34623cdd277dc28cd176] The number of parent members required must be made up by parent members appointed by the committee if one or more vacancies for parent members arises and the number of parents standing for election is less than the number of vacancies.
+**7.**[^c-d28f3a5e894f34623cdd277dc28cd176] The number of parent members required must be made up by parent members appointed by the committee if one or more vacancies for parent members arises and the number of parents standing for election is less than the number of vacancies.
 
-**8.**[^key-c7d8d971bc9b7db80c871e2e690267c1] (1) The committee may only appoint as a parent member—
+**8.**[^c-c7d8d971bc9b7db80c871e2e690267c1] (1) The committee may only appoint as a parent member—
 
 - (a) a parent of a registered pupil at the unit;
 - (b) a parent of a former registered pupil at the unit;
@@ -347,45 +347,45 @@ Subject to paragraphs 1 and 3 to 6, the authority must make all the necessary ar
 
 (2) The committee may only appoint a person referred to in sub-paragraph (1)(b), (c), (d) or (e) if there is no other person to be appointed from sub-paragraph (1)(a).
 
-### 9. Election of staff members[^key-4c6e194f1c53862f4c1b69d10b7ba927]
+### 9. Election of staff members[^c-4c6e194f1c53862f4c1b69d10b7ba927]
 
 Subject to paragraphs 1, 10 and 11, the authority must make all the necessary arrangements for the election of staff members.
 
-**10.**[^key-75a1eea968949e5a37cf418d9c0ee37e] The duty imposed by paragraph 9—
+**10.**[^c-75a1eea968949e5a37cf418d9c0ee37e] The duty imposed by paragraph 9—
 
 - (a) includes the power to make provision as to qualifying dates; but
 - (b) does not include the power to impose any requirements as to the minimum number of votes required to be cast for a candidate to be elected.
 
-**11.**[^key-a53de3c417d1216a0eca3db9e5681700] Any election which is contested must be held by secret ballot.
+**11.**[^c-a53de3c417d1216a0eca3db9e5681700] Any election which is contested must be held by secret ballot.
 
-### 12. Appointment of sponsor members[^key-c837cc1c19b838abaefd8ef650ee03ff]
+### 12. Appointment of sponsor members[^c-c837cc1c19b838abaefd8ef650ee03ff]
 
 In this Schedule, “sponsor” (“*noddwr*”) in relation to a unit means—
 
 - (a) a person who gives or has given substantial financial assistance (which for these purposes includes benefits in kind) to the unit other than pursuant to statutory obligation; or
 - (b) any other person (not being otherwise represented on the committee) who provides or has provided substantial services to the unit.
 
-**13.**[^key-152f26386620d33e59d93c8f30697ca7] Where the unit has one or more sponsors, the instrument of government may provide for the appointment of such number of sponsor members, not exceeding two, nominated in accordance with paragraph 14.
+**13.**[^c-152f26386620d33e59d93c8f30697ca7] Where the unit has one or more sponsors, the instrument of government may provide for the appointment of such number of sponsor members, not exceeding two, nominated in accordance with paragraph 14.
 
-**14.**[^key-123277b6f28afd0076250d8f0777e73a] Nominations must be sought for such appointments from the sponsor or (as the case may be) from one or more of the sponsors.
+**14.**[^c-123277b6f28afd0076250d8f0777e73a] Nominations must be sought for such appointments from the sponsor or (as the case may be) from one or more of the sponsors.
 
 ## SCHEDULE 2 — Qualifications and disqualifications
 
 Regulation 16
 
-### 1. General[^key-e0fda0bcbfd0f95153b048277dc9537e]
+### 1. General[^c-e0fda0bcbfd0f95153b048277dc9537e]
 
 A person is disqualified from holding or from continuing to hold office as a member at any time when that person is a registered pupil at a unit.
 
-**2.**[^key-383673d18d956cab9e155f598cf505de] No person is qualified to be a member unless that person is aged 18 or over at the date of that person’s election or appointment.
+**2.**[^c-383673d18d956cab9e155f598cf505de] No person is qualified to be a member unless that person is aged 18 or over at the date of that person’s election or appointment.
 
-**3.**[^key-5534489f3a591a782c3ad0885c46a910] Save as otherwise provided in these Regulations, the fact that a person is qualified to be elected or appointed as a member of a particular category does not disqualify that person from election or appointment or from continuing as a member of any other category.
+**3.**[^c-5534489f3a591a782c3ad0885c46a910] Save as otherwise provided in these Regulations, the fact that a person is qualified to be elected or appointed as a member of a particular category does not disqualify that person from election or appointment or from continuing as a member of any other category.
 
-### 4. Mental disorder[^key-8274169a05f644140bcec85182fe5846]
+### 4. Mental disorder[^c-8274169a05f644140bcec85182fe5846]
 
 A person is disqualified from holding or for continuing to hold office as a member at any time when that person is liable to be detained under the Mental Health Act 1983[^f00007] or under any re-enactment or statutory modification of that Act in force from time to time.
 
-### 5. Failure to attend meetings[^key-0e198269a03152f356cf96a53ea664d0]
+### 5. Failure to attend meetings[^c-0e198269a03152f356cf96a53ea664d0]
 
 (1) This paragraph applies to any member who is not a member by virtue of that person’s office.
 
@@ -395,14 +395,14 @@ A person is disqualified from holding or for continuing to hold office as a memb
 
 (4) A member who has been disqualified as a under sub-paragraph (2) is not qualified for election, nomination or appointment as a member of any category at that unit during the twelve months immediately following that person’s disqualification under sub-paragraph (2).
 
-### 6. Bankruptcy[^key-bf18a17fa441161176ce4c282b1a83a3]
+### 6. Bankruptcy[^c-bf18a17fa441161176ce4c282b1a83a3]
 
 A person is disqualified from holding or continuing to hold office as a member if—
 
-- (a) that person has been made[^key-17e816843271646d3b536e88d8cf3ec6] bankrupt or sequestration of that person’s estate has been awarded and (in either case) that person has not been discharged and the bankruptcy order has not been annulled or rescinded or a moratorium period under a debt relief order applies in relation that person; or
+- (a) that person has been made[^c-17e816843271646d3b536e88d8cf3ec6] bankrupt or sequestration of that person’s estate has been awarded and (in either case) that person has not been discharged and the bankruptcy order has not been annulled or rescinded or a moratorium period under a debt relief order applies in relation that person; or
 - (b) that person has made a composition or arrangement with, or granted a trust deed for, that person’s creditors and has not been discharged in respect of it.
 
-### 7. Disqualification of company directors[^key-d49f001f87b0e660cfe69b29572627af]
+### 7. Disqualification of company directors[^c-d49f001f87b0e660cfe69b29572627af]
 
 A person is disqualified from holding or from continuing to hold office as a member at any time when that person is subject to—
 
@@ -411,14 +411,14 @@ A person is disqualified from holding or from continuing to hold office as a mem
 - (c) a disqualification undertaking accepted under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00010]; or
 - (d) an order made under section 429(2)(b) of the Insolvency Act 1986[^f00011] (failure to pay under county court administration order).
 
-### 8. Disqualification of charity trustees[^key-3922584d1ffa232b783a2a00dad16b4d]
+### 8. Disqualification of charity trustees[^c-3922584d1ffa232b783a2a00dad16b4d]
 
 A person is disqualified from holding or from continuing to hold office as a member if—
 
 - (a) that person has been removed from the office of trustee for a charity by an order made by the Charity Commissioners or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity for which that person was responsible or to which that person was privy, or to which that person contributed or which that person facilitated by that person’s conduct; or
 - (b) that person has been removed, under section 34 of the Charities and Trustee Investment (Scotland) Act 2005[^f00012] (powers of Court of Session to deal with management of charities), from being concerned in the management or control of any body.
 
-### 9. Persons whose employment is prohibited or restricted[^key-7076177fe2fe0dc248983df08ab08194]
+### 9. Persons whose employment is prohibited or restricted[^c-7076177fe2fe0dc248983df08ab08194]
 
 A person is disqualified from holding or from continuing to hold office as a member at any time when that person is—
 
@@ -432,7 +432,7 @@ A person is disqualified from holding or from continuing to hold office as a mem
 - (h) by virtue of an order made under section 470 or section 471 of the 1996 Education Act, disqualified from being the proprietor of any independent school or from being a teacher or other employee in any school; or
 - (i) disqualified from registration under Part 2 of the Children and Families (Wales) Measure 2010.
 
-### 10. Criminal convictions[^key-a3f1311dd39818bafe4b6a382135f234]
+### 10. Criminal convictions[^c-a3f1311dd39818bafe4b6a382135f234]
 
 (1) Subject to sub-paragraph (5), a person is disqualified from holding, or continuing to hold, office as a member where any of sub-paragraphs (2) to (4) or (6) apply to that person.
 
@@ -456,11 +456,11 @@ that person has been convicted, whether in the United Kingdom or elsewhere, of a
 
 that person has been convicted under section 547 of the 1996 Education Act[^f00020] (nuisance or disturbance on school premises) or under section 85A of the Further and Higher Education Act 1992[^f00021] (nuisance and disturbance on educational premises) of an offence and has been sentenced to a fine.
 
-### 11. Refusal to make an application for a criminal records certificate[^key-6de34942e972e50b8c88402254a9d022]
+### 11. Refusal to make an application for a criminal records certificate[^c-6de34942e972e50b8c88402254a9d022]
 
 A person is disqualified from holding or continuing to hold office as a member at any time when that person refuses a request by the clerk to the committee to make an application under section 113B of the Police Act 1997[^f00022] for a criminal records certificate.
 
-### 12. Notification to clerk[^key-872cba39b76fd11d612988a8b5bfc962]
+### 12. Notification to clerk[^c-872cba39b76fd11d612988a8b5bfc962]
 
 Where—
 
@@ -473,25 +473,25 @@ that person must give notice of that fact to the clerk to the committee.
 
 Regulation 21
 
-**1.**[^key-627d0a0e35605fb502393d83fc5ff9b1] Wherever they appear in Parts 7, 8, 9 and 10 of the Government of Maintained Schools (Wales) Regulations 2005—
+**1.**[^c-627d0a0e35605fb502393d83fc5ff9b1] Wherever they appear in Parts 7, 8, 9 and 10 of the Government of Maintained Schools (Wales) Regulations 2005—
 
 - (a) for references to the “governing body” substitute references to the “committee”;
 - (b) for references to a “governor” substitute references to a “member”;
 - (c) for references to the “school” substitute references to the “unit or, as the case may be, the group of units”; and
 - (d) for references to a “committee” substitute references to a “sub-committee of the committee”.
 
-### 2. Appointment, functions and removal of officers[^key-8f70ccf0f00f672c101a09f6ca8446bf]
+### 2. Appointment, functions and removal of officers[^c-8f70ccf0f00f672c101a09f6ca8446bf]
 
 In regulation 39—
 
 - (a) in paragraph (1) omit “and to section 18 of the 1998 Act (power of National Assembly for Wales to appoint additional governors)”; and
 - (b) in paragraph (6) omit “and to section 18 of the 1998 Act”.
 
-**3.**[^key-6e89acccdaf0b4e56cb791cd7d012b75] In regulation 39(5)(c), omit “or replaced by a chair nominated by the National Assembly for Wales pursuant to section 18 of the 1998 Act”.
+**3.**[^c-6e89acccdaf0b4e56cb791cd7d012b75] In regulation 39(5)(c), omit “or replaced by a chair nominated by the National Assembly for Wales pursuant to section 18 of the 1998 Act”.
 
-**4.**[^key-c7a7b10120d5d23ee62cdfcffec3e594] In regulation 41(1), omit “unless he or she has been nominated by the National Assembly for Wales pursuant to section 18 of the 1998 Act”.
+**4.**[^c-c7a7b10120d5d23ee62cdfcffec3e594] In regulation 41(1), omit “unless he or she has been nominated by the National Assembly for Wales pursuant to section 18 of the 1998 Act”.
 
-**5.**[^key-218d0a98abb365281cb27f734673fe2a] In regulation 42—
+**5.**[^c-218d0a98abb365281cb27f734673fe2a] In regulation 42—
 
 - (a) in paragraph (1) omit “with the governing body or”;
 - (b) in paragraph (2) for “The governing body must” substitute “The authority must”;
@@ -503,13 +503,13 @@ In regulation 39—
 - (d) in paragraph (5) for “The governing body may” substitute “The authority may”; and
 - (e) omit paragraph (6).
 
-**6.**[^key-536555961dfb2911dc66f417289279ea] In regulation 43(1) for sub-paragraph (e) substitute—
+**6.**[^c-536555961dfb2911dc66f417289279ea] In regulation 43(1) for sub-paragraph (e) substitute—
 
 > - (e) give and receive notices in accordance with regulations 15 (notification of appointments) and 18 (resignation) of, and paragraph 12 of Schedule 2 (notification to clerk) to the Education (Pupil Referral Units) (Management Committees etc.) (Wales) Regulations 2014 and regulations 39(4) and 45(4) of these Regulations;
 
 .
 
-### 7. Meetings and proceedings of governing bodies[^key-8d9abc688132f7aa1e536f2636b05427]
+### 7. Meetings and proceedings of governing bodies[^c-8d9abc688132f7aa1e536f2636b05427]
 
 In regulation 44 for paragraph (b) substitute—
 
@@ -517,9 +517,9 @@ In regulation 44 for paragraph (b) substitute—
 
 .
 
-**8.**[^key-d6ae834fcf5a5424fd1058f1ea0e2f5e] Omit regulation 44A.
+**8.**[^c-d6ae834fcf5a5424fd1058f1ea0e2f5e] Omit regulation 44A.
 
-**9.**[^key-6750d2f82a6dc2c97dc41cffe1cd9567] In regulation 45—
+**9.**[^c-6750d2f82a6dc2c97dc41cffe1cd9567] In regulation 45—
 
 - (a) in paragraph (4) for sub-paragraph (b) substitute—
 
@@ -528,26 +528,26 @@ In regulation 44 for paragraph (b) substitute—
   ; and
 - (b) in paragraph (6) omit sub-paragraph (d).
 
-**10.**[^key-35b642d9b684de43a4a4a564ba5fec20] In regulation 46—
+**10.**[^c-35b642d9b684de43a4a4a564ba5fec20] In regulation 46—
 
 - (a) in paragraph (1) omit “any associate pupil governors”;
 - (b) in paragraph (2) omit “(excluding any associate pupil governors)”; and
 - (c) omit paragraphs (2A) and (4).
 
-**11.**[^key-1b91c18a8b016969bfb33d6634879a63] In regulation 49—
+**11.**[^c-1b91c18a8b016969bfb33d6634879a63] In regulation 49—
 
 - (a) in paragraph (1)(b) for “Schedule 5” substitute “Schedule 2 to the Education (Pupil Referral Units) (Management Committees etc.) (Wales) Regulations 2014”;
 - (b) in paragraph (1)(c) omit “or with the religious character”; and
 - (c) in paragraph (6) for “paragraph 5 of Schedule 5” substitute “paragraph 5 of Schedule 2 to the Education (Pupil Referral Units) (Management Committees etc) (Wales) Regulations 2014”.
 
-**12.**[^key-1c5a42969d57224a786ab8ff2ed88f98] In regulation 50(1)—
+**12.**[^c-1c5a42969d57224a786ab8ff2ed88f98] In regulation 50(1)—
 
 - (a) omit the words from “regulation 3(2)” to “2000”; and
 - (b) for sub-paragraph (c) substitute—
 
   > - (c) the teacher in charge of the unit or, as the case may be, of any of the units in the group of units, whether or not that person is a member.
 
-**13.**[^key-214c75636d2a29af17d889f3c254929b] For regulation 51 substitute—
+**13.**[^c-214c75636d2a29af17d889f3c254929b] For regulation 51 substitute—
 
 > (1) The committee may not delegate under regulation 50(1) its functions under—
 >
@@ -563,17 +563,17 @@ In regulation 44 for paragraph (b) substitute—
 > - (a) its functions in section 88 of the Education and Inspections Act 2006; or
 > - (b) the functions that must be delegated to the committee specified in regulation 56.
 
-**14.**[^key-6d1c14a6c63876ced701eabd45babbce] In regulation 52, for paragraph (1)(b) substitute—
+**14.**[^c-6d1c14a6c63876ced701eabd45babbce] In regulation 52, for paragraph (1)(b) substitute—
 
 > - (b) the teacher in charge of the unit or, as the case may be, of any of the units in the group of units, whether or not that person is a member;
 
 .
 
-### 15. Committees of governing bodies[^key-ca798957aef881711bb02a02fbb95bfb]
+### 15. Committees of governing bodies[^c-ca798957aef881711bb02a02fbb95bfb]
 
 Omit regulations 55 and 57.
 
-**16.**[^key-633e4eabbf9d0b6d3baebd1bf1a15cd4] In regulation 58—
+**16.**[^c-633e4eabbf9d0b6d3baebd1bf1a15cd4] In regulation 58—
 
 - (a) for paragraph (1) substitute—
 
@@ -583,7 +583,7 @@ Omit regulations 55 and 57.
 - (b) omit paragraph (2); and
 - (c) in paragraph (4) for “governing body” substitute “authority” and omit “of their”.
 
-**17.**[^key-8ba141124673feb2d9a1b92c52c43115] In regulation 59—
+**17.**[^c-8ba141124673feb2d9a1b92c52c43115] In regulation 59—
 
 - (a) for paragraph (1)(b) substitute—
 
@@ -592,7 +592,7 @@ Omit regulations 55 and 57.
   and
 - (b) omit paragraph (3).
 
-**18.**[^key-108eb6c10564c61c425565e56f62e585] In regulation 63 in paragraph (1)(a) for “the head teacher (whether or not he or she is a governor)” substitute “the teacher in charge of the unit or, as the case may be, of each unit in the group of units, whether or not that person is a member”.
+**18.**[^c-108eb6c10564c61c425565e56f62e585] In regulation 63 in paragraph (1)(a) for “the head teacher (whether or not he or she is a governor)” substitute “the teacher in charge of the unit or, as the case may be, of each unit in the group of units, whether or not that person is a member”.
 
 EXPLANATORY NOTE
 
@@ -614,111 +614,111 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56); paragraph 15 of Schedule 1 is inserted by section 48 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), and amended by paragraph 184(c) of Schedule 30 of the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31) and by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237). *See* section 579(1) of the Education Act 1996 for the definitions of “prescribed” and “regulations”. The functions of the Secretary of State in Schedule 1 to the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-6be81c6dfc76dd70c656085bfa2cd07d]: Commencement: Reg. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-6be81c6dfc76dd70c656085bfa2cd07d]: Commencement: Reg. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-cf6d6529e8ff91a72c21bf50b7eea58c]: Commencement: Reg. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-cf6d6529e8ff91a72c21bf50b7eea58c]: Commencement: Reg. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2005/2914 (W. 211)](https://www.legislation.gov.uk/wsi/2005/2914) as amended by the School Councils (Wales) Regulations 2005 ([S.I.2005/3200 (W. 236)](https://www.legislation.gov.uk/wsi/2005/3200)); and by the Staffing of Maintained Schools (Wales) Regulations 2006 ([S.I. 2006/873 (W. 81)](https://www.legislation.gov.uk/wsi/2006/873)) and by the Staffing of Maintained Schools (Miscellaneous Amendments) (Wales) Regulations 2007 ([S.I. 2007/944 (W. 80)](https://www.legislation.gov.uk/wsi/2007/944)), and by the Education (Miscellaneous Amendments relating to Safeguarding Children) (Wales) Regulations 2009 ([S.I. 2009/2544 (W. 206)](https://www.legislation.gov.uk/wsi/2009/2544), and by the Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 ([S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142)), and by the Government of Maintained Schools (Training Requirements for Governors) (Wales) Regulations 2013 ([S.I. 2013/2124 (W. 207)](https://www.legislation.gov.uk/wsi/2013/2124)).
 
     .
 
-[^key-13df06a94a277df44e589c14e4e2086c]: Commencement: Reg. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-13df06a94a277df44e589c14e4e2086c]: Commencement: Reg. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-70ab81241b0ffa62041f48cbfaf0df11]: Commencement: Reg. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-70ab81241b0ffa62041f48cbfaf0df11]: Commencement: Reg. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-32024c25ec3ebf8de8910407fefc425b]: Commencement: Reg. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-32024c25ec3ebf8de8910407fefc425b]: Commencement: Reg. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-746e14140d6bf27077317a35c7815bce]: Commencement: Reg. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-746e14140d6bf27077317a35c7815bce]: Commencement: Reg. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-4ddb9a7038005c2040bc52390a150562]: Commencement: Reg. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-4ddb9a7038005c2040bc52390a150562]: Commencement: Reg. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-8c35bbb8c7baafbb32ce800b1ef9a77e]: Commencement: Reg. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-8c35bbb8c7baafbb32ce800b1ef9a77e]: Commencement: Reg. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-2ddd9c8150fd761317f92b19868018d5]: Commencement: Reg. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-2ddd9c8150fd761317f92b19868018d5]: Commencement: Reg. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-298e7e3b6a2a742bc47eca58340c21af]: Commencement: Reg. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-298e7e3b6a2a742bc47eca58340c21af]: Commencement: Reg. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-f04da7c97fa406e3c71a727723b8bf8a]: Commencement: Reg. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-f04da7c97fa406e3c71a727723b8bf8a]: Commencement: Reg. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-68b558e3c25f7020cf7c3e3a892cba25]: Commencement: Reg. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-68b558e3c25f7020cf7c3e3a892cba25]: Commencement: Reg. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-a607b6a7c318ccdefa045a3e046fa43b]: Commencement: Reg. 13 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-a607b6a7c318ccdefa045a3e046fa43b]: Commencement: Reg. 13 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-eee5280d584168989c1a96cc4d3d9151]: Commencement: Reg. 14 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-eee5280d584168989c1a96cc4d3d9151]: Commencement: Reg. 14 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-ce9dcdd3936be79fcb11b2add17f7cf2]: Commencement: Reg. 15 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-ce9dcdd3936be79fcb11b2add17f7cf2]: Commencement: Reg. 15 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-f98654c0340279eb9a4f66b789aebac0]: Commencement: Reg. 16 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-f98654c0340279eb9a4f66b789aebac0]: Commencement: Reg. 16 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-44ea58852a5d04ce1f1c0211da5d852c]: Commencement: Reg. 17 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-44ea58852a5d04ce1f1c0211da5d852c]: Commencement: Reg. 17 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-e5f13df956141c714f04ce7fbdea0f7c]: Commencement: Reg. 18 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-e5f13df956141c714f04ce7fbdea0f7c]: Commencement: Reg. 18 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-85d3ae7ca82070a64e7c0642c58d608c]: Commencement: Reg. 19 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-85d3ae7ca82070a64e7c0642c58d608c]: Commencement: Reg. 19 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-996f7bf0f240b24bd10eaa51b7bb347b]: Commencement: Reg. 20 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-996f7bf0f240b24bd10eaa51b7bb347b]: Commencement: Reg. 20 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-88c7b8f745cf61f11c2b316f1b1201c9]: Commencement: Reg. 21 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-88c7b8f745cf61f11c2b316f1b1201c9]: Commencement: Reg. 21 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-327e963dfb51a8633b0eca2f31c1ef1f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2014/2709/regulation/22) in force at 23.2.2015, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/3)
+[^c-327e963dfb51a8633b0eca2f31c1ef1f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2014/2709/regulation/22) in force at 23.2.2015, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/3)
 
 [^f00003]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
 
 [^f00004]: Footnote: [S.I. 2011/2940 (W. 316)](https://www.legislation.gov.uk/wsi/2011/2940).
 
-[^key-9b20f3b056ff6349d5d096cfc6e7aade]: Textual amendment: [Reg. 22(2)(e)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/22/2/e) inserted (1.9.2021) by [The Education (Pupil Referral Units) (Management Committees etc.) (Wales) (Amendment) Regulations 2021 (S.I. 2021/209)](https://www.legislation.gov.uk/wsi/2021/209), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/209/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/209/regulation/2)
+[^c-9b20f3b056ff6349d5d096cfc6e7aade]: Textual amendment: [Reg. 22(2)(e)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/22/2/e) inserted (1.9.2021) by [The Education (Pupil Referral Units) (Management Committees etc.) (Wales) (Amendment) Regulations 2021 (S.I. 2021/209)](https://www.legislation.gov.uk/wsi/2021/209), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/209/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/209/regulation/2)
 
 [^f00005]: Footnote: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
 
 [^f00006]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-017a2a0bf400fa143b7b47b016755b60]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2014/2709/regulation/23) in force at 23.2.2015, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/3)
+[^c-017a2a0bf400fa143b7b47b016755b60]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2014/2709/regulation/23) in force at 23.2.2015, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/3)
 
-[^key-e9f6b27c0fe44304dba5e0a1bb66e505]: Commencement: Sch. 1 para. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-e9f6b27c0fe44304dba5e0a1bb66e505]: Commencement: Sch. 1 para. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-b78d102895521b0a6a0d004108548db8]: Commencement: Sch. 1 para. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-b78d102895521b0a6a0d004108548db8]: Commencement: Sch. 1 para. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-8e35b3c1a14c517c585b8541a7d04a77]: Commencement: Sch. 1 para. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-8e35b3c1a14c517c585b8541a7d04a77]: Commencement: Sch. 1 para. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-ce842619247a9617376a9c8393f9933a]: Commencement: Sch. 1 para. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-ce842619247a9617376a9c8393f9933a]: Commencement: Sch. 1 para. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-7e6310e5a2adcde6a83c0930200b173d]: Commencement: Sch. 1 para. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-7e6310e5a2adcde6a83c0930200b173d]: Commencement: Sch. 1 para. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-31228fc0cb0e0ccc2f54940b40bb8aa6]: Commencement: Sch. 1 para. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-31228fc0cb0e0ccc2f54940b40bb8aa6]: Commencement: Sch. 1 para. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-d28f3a5e894f34623cdd277dc28cd176]: Commencement: Sch. 1 para. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-d28f3a5e894f34623cdd277dc28cd176]: Commencement: Sch. 1 para. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-c7d8d971bc9b7db80c871e2e690267c1]: Commencement: Sch. 1 para. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-c7d8d971bc9b7db80c871e2e690267c1]: Commencement: Sch. 1 para. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-4c6e194f1c53862f4c1b69d10b7ba927]: Commencement: Sch. 1 para. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-4c6e194f1c53862f4c1b69d10b7ba927]: Commencement: Sch. 1 para. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-75a1eea968949e5a37cf418d9c0ee37e]: Commencement: Sch. 1 para. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-75a1eea968949e5a37cf418d9c0ee37e]: Commencement: Sch. 1 para. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-a53de3c417d1216a0eca3db9e5681700]: Commencement: Sch. 1 para. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-a53de3c417d1216a0eca3db9e5681700]: Commencement: Sch. 1 para. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-c837cc1c19b838abaefd8ef650ee03ff]: Commencement: Sch. 1 para. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-c837cc1c19b838abaefd8ef650ee03ff]: Commencement: Sch. 1 para. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-152f26386620d33e59d93c8f30697ca7]: Commencement: Sch. 1 para. 13 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-152f26386620d33e59d93c8f30697ca7]: Commencement: Sch. 1 para. 13 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-123277b6f28afd0076250d8f0777e73a]: Commencement: Sch. 1 para. 14 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-123277b6f28afd0076250d8f0777e73a]: Commencement: Sch. 1 para. 14 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-e0fda0bcbfd0f95153b048277dc9537e]: Commencement: Sch. 2 para. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-e0fda0bcbfd0f95153b048277dc9537e]: Commencement: Sch. 2 para. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-383673d18d956cab9e155f598cf505de]: Commencement: Sch. 2 para. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-383673d18d956cab9e155f598cf505de]: Commencement: Sch. 2 para. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-5534489f3a591a782c3ad0885c46a910]: Commencement: Sch. 2 para. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-5534489f3a591a782c3ad0885c46a910]: Commencement: Sch. 2 para. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-8274169a05f644140bcec85182fe5846]: Commencement: Sch. 2 para. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-8274169a05f644140bcec85182fe5846]: Commencement: Sch. 2 para. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00007]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-0e198269a03152f356cf96a53ea664d0]: Commencement: Sch. 2 para. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-0e198269a03152f356cf96a53ea664d0]: Commencement: Sch. 2 para. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-bf18a17fa441161176ce4c282b1a83a3]: Commencement: Sch. 2 para. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-bf18a17fa441161176ce4c282b1a83a3]: Commencement: Sch. 2 para. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-17e816843271646d3b536e88d8cf3ec6]: Textual amendment: Word in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/wsi/2014/2709/schedule/2/paragraph/6/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/15/a)
+[^c-17e816843271646d3b536e88d8cf3ec6]: Textual amendment: Word in [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/wsi/2014/2709/schedule/2/paragraph/6/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/15/a)
 
-[^key-d49f001f87b0e660cfe69b29572627af]: Commencement: Sch. 2 para. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-d49f001f87b0e660cfe69b29572627af]: Commencement: Sch. 2 para. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00008]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 
@@ -728,11 +728,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-3922584d1ffa232b783a2a00dad16b4d]: Commencement: Sch. 2 para. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-3922584d1ffa232b783a2a00dad16b4d]: Commencement: Sch. 2 para. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00012]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-7076177fe2fe0dc248983df08ab08194]: Commencement: Sch. 2 para. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-7076177fe2fe0dc248983df08ab08194]: Commencement: Sch. 2 para. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00013]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14); and as saved by article 5 of the Safeguarding Vulnerable Groups Act 2006 (Commencement No.6, Transitional Provisions and Savings) Order 2009 ([S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611)).
 
@@ -748,50 +748,50 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: Section 167A was inserted by section 169 of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), but it is not yet in force.
 
-[^key-a3f1311dd39818bafe4b6a382135f234]: Commencement: Sch. 2 para. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-a3f1311dd39818bafe4b6a382135f234]: Commencement: Sch. 2 para. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00020]: Footnote: As amended by paragraph 163 of Schedule 30 to the 1998 Act and by section 206 of, and Schedule 20, to the 2002 Education Act and by section 6 of, and Schedule 1 to, the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
 [^f00021]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); inserted by section 206 of and Schedule 20 to the 2002 Education Act.
 
-[^key-6de34942e972e50b8c88402254a9d022]: Commencement: Sch. 2 para. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-6de34942e972e50b8c88402254a9d022]: Commencement: Sch. 2 para. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
 [^f00022]: Footnote: [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50); inserted by section 163 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). Subsections (2A) and (12) were inserted, and subsection (6) was amended, by the Police Act 1997 (Criminal Records) (Electronic Communications) Order 2009 ([S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203)). Paragraph (a) of subsection (10) was substituted for paragraphs (a) and (b) as originally enacted by paragraph 149 of Schedule 16 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-872cba39b76fd11d612988a8b5bfc962]: Commencement: Sch. 2 para. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-872cba39b76fd11d612988a8b5bfc962]: Commencement: Sch. 2 para. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-627d0a0e35605fb502393d83fc5ff9b1]: Commencement: Sch. 3 para. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-627d0a0e35605fb502393d83fc5ff9b1]: Commencement: Sch. 3 para. 1 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-8f70ccf0f00f672c101a09f6ca8446bf]: Commencement: Sch. 3 para. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-8f70ccf0f00f672c101a09f6ca8446bf]: Commencement: Sch. 3 para. 2 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-6e89acccdaf0b4e56cb791cd7d012b75]: Commencement: Sch. 3 para. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-6e89acccdaf0b4e56cb791cd7d012b75]: Commencement: Sch. 3 para. 3 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-c7a7b10120d5d23ee62cdfcffec3e594]: Commencement: Sch. 3 para. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-c7a7b10120d5d23ee62cdfcffec3e594]: Commencement: Sch. 3 para. 4 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-218d0a98abb365281cb27f734673fe2a]: Commencement: Sch. 3 para. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-218d0a98abb365281cb27f734673fe2a]: Commencement: Sch. 3 para. 5 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-536555961dfb2911dc66f417289279ea]: Commencement: Sch. 3 para. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-536555961dfb2911dc66f417289279ea]: Commencement: Sch. 3 para. 6 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-8d9abc688132f7aa1e536f2636b05427]: Commencement: Sch. 3 para. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-8d9abc688132f7aa1e536f2636b05427]: Commencement: Sch. 3 para. 7 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-d6ae834fcf5a5424fd1058f1ea0e2f5e]: Commencement: Sch. 3 para. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-d6ae834fcf5a5424fd1058f1ea0e2f5e]: Commencement: Sch. 3 para. 8 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-6750d2f82a6dc2c97dc41cffe1cd9567]: Commencement: Sch. 3 para. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-6750d2f82a6dc2c97dc41cffe1cd9567]: Commencement: Sch. 3 para. 9 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-35b642d9b684de43a4a4a564ba5fec20]: Commencement: Sch. 3 para. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-35b642d9b684de43a4a4a564ba5fec20]: Commencement: Sch. 3 para. 10 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-1b91c18a8b016969bfb33d6634879a63]: Commencement: Sch. 3 para. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-1b91c18a8b016969bfb33d6634879a63]: Commencement: Sch. 3 para. 11 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-1c5a42969d57224a786ab8ff2ed88f98]: Commencement: Sch. 3 para. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-1c5a42969d57224a786ab8ff2ed88f98]: Commencement: Sch. 3 para. 12 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-214c75636d2a29af17d889f3c254929b]: Commencement: Sch. 3 para. 13 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-214c75636d2a29af17d889f3c254929b]: Commencement: Sch. 3 para. 13 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-6d1c14a6c63876ced701eabd45babbce]: Commencement: Sch. 3 para. 14 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-6d1c14a6c63876ced701eabd45babbce]: Commencement: Sch. 3 para. 14 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-ca798957aef881711bb02a02fbb95bfb]: Commencement: Sch. 3 para. 15 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-ca798957aef881711bb02a02fbb95bfb]: Commencement: Sch. 3 para. 15 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-633e4eabbf9d0b6d3baebd1bf1a15cd4]: Commencement: Sch. 3 para. 16 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-633e4eabbf9d0b6d3baebd1bf1a15cd4]: Commencement: Sch. 3 para. 16 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-8ba141124673feb2d9a1b92c52c43115]: Commencement: Sch. 3 para. 17 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-8ba141124673feb2d9a1b92c52c43115]: Commencement: Sch. 3 para. 17 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
 
-[^key-108eb6c10564c61c425565e56f62e585]: Commencement: Sch. 3 para. 18 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)
+[^c-108eb6c10564c61c425565e56f62e585]: Commencement: Sch. 3 para. 18 in force at 31.10.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/2709/regulation/1/2)

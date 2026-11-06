@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 149. Enforcement of requirements to provide information or produce documents[^key-9e4120270ed44e523d8c2ceb429da771]
+## 149. Enforcement of requirements to provide information or produce documents[^c-9e4120270ed44e523d8c2ceb429da771]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ as if that person were in contempt.
 
 ## Annotations
 
-[^key-9e4120270ed44e523d8c2ceb429da771]: Commencement: S. 149 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-9e4120270ed44e523d8c2ceb429da771]: Commencement: S. 149 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

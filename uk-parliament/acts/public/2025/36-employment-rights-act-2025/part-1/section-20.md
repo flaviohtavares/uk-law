@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Employers to take all reasonable steps to prevent sexual harassment[^key-4b6bc75516a4ed28e0e4e774ce8e61af][^key-f4939ecfb70aee7705737b418955d9b5]
+## 20. Employers to take all reasonable steps to prevent sexual harassment[^c-4b6bc75516a4ed28e0e4e774ce8e61af][^c-f4939ecfb70aee7705737b418955d9b5]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 40A of the Equality Act 2010 (employer duty to prevent sexual harassm
 
 ## Annotations
 
-[^key-4b6bc75516a4ed28e0e4e774ce8e61af]: Commencement: S. 20 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-4b6bc75516a4ed28e0e4e774ce8e61af]: Commencement: S. 20 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f4939ecfb70aee7705737b418955d9b5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/36/section/20) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/a)
+[^c-f4939ecfb70aee7705737b418955d9b5]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2025/36/section/20) in force at 30.10.2026 by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/a)

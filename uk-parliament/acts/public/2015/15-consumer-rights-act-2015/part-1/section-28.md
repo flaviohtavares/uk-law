@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Delivery of goods[^key-e2e130b112f47a2ef128f5783a0a7585]
+## 28. Delivery of goods[^c-e2e130b112f47a2ef128f5783a0a7585]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ then the consumer may treat the contract as at an end.
 
 ## Annotations
 
-[^key-e2e130b112f47a2ef128f5783a0a7585]: Commencement: S. 28 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-e2e130b112f47a2ef128f5783a0a7585]: Commencement: S. 28 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

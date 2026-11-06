@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — The Director of Fair Access to Higher Education: supplementary provisions[^key-f0d96a7bd852f415b8c3d6589060e957]
+## SCHEDULE 5 — The Director of Fair Access to Higher Education: supplementary provisions[^c-f0d96a7bd852f415b8c3d6589060e957]
 
 *Extent: E+W*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 31
 
-### Status, appointment and remuneration of Director[^key-f0d96a7bd852f415b8c3d6589060e957]
+### Status, appointment and remuneration of Director[^c-f0d96a7bd852f415b8c3d6589060e957]
 
-**1.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-f0d96a7bd852f415b8c3d6589060e957]
+### Staff[^c-f0d96a7bd852f415b8c3d6589060e957]
 
-**4.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Arrangements with Higher Education Funding Council for England[^key-f0d96a7bd852f415b8c3d6589060e957]
+### Arrangements with Higher Education Funding Council for England[^c-f0d96a7bd852f415b8c3d6589060e957]
 
-**5.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Finance[^key-f0d96a7bd852f415b8c3d6589060e957]
+### Finance[^c-f0d96a7bd852f415b8c3d6589060e957]
 
-**6.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reports[^key-f0d96a7bd852f415b8c3d6589060e957]
+### Reports[^c-f0d96a7bd852f415b8c3d6589060e957]
 
-**7.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Accounts[^key-f0d96a7bd852f415b8c3d6589060e957]
+### Accounts[^c-f0d96a7bd852f415b8c3d6589060e957]
 
-**8.**[^key-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f0d96a7bd852f415b8c3d6589060e957] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0d96a7bd852f415b8c3d6589060e957]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/2004/8/schedule/5) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)
+[^c-f0d96a7bd852f415b8c3d6589060e957]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/2004/8/schedule/5) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 30(2)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/30/2); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 13-16)

@@ -27,7 +27,7 @@ summary: ''
 
 (2) The scheme manager may periodically review whether P's medical unfitness has ceased or significantly worsened.
 
-(3) A periodic review under paragraph (2) may be carried out at any time the scheme manager in its discretion determines[^key-28f1545f5cce0f3c0767a99ed51920f5] .
+(3) A periodic review under paragraph (2) may be carried out at any time the scheme manager in its discretion determines[^c-28f1545f5cce0f3c0767a99ed51920f5] .
 
 (4) The scheme manager must carry out a review as to whether P's medical unfitness has ceased or significantly worsened if the scheme manager is notified that P's medical unfitness has worsened.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28f1545f5cce0f3c0767a99ed51920f5]: Textual amendment: Words in [reg. 108(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/108/3) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [29](https://www.legislation.gov.uk/nisr/2024/38/regulation/29)
+[^c-28f1545f5cce0f3c0767a99ed51920f5]: Textual amendment: Words in [reg. 108(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/108/3) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [29](https://www.legislation.gov.uk/nisr/2024/38/regulation/29)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 47. Execution of documents[^key-dd2d52018774633ed1b9ac7c7a4a6242]
+## 47. Execution of documents[^c-dd2d52018774633ed1b9ac7c7a4a6242]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd2d52018774633ed1b9ac7c7a4a6242]: Commencement: [S. 47](https://www.legislation.gov.uk/ukcm/2018/8/section/47) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-dd2d52018774633ed1b9ac7c7a4a6242]: Commencement: [S. 47](https://www.legislation.gov.uk/ukcm/2018/8/section/47) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

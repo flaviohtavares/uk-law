@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Change of administering authority in connection with probation service arrangements[^key-206ed0989acbf896739507b0775d1bb3]
+## 104. Change of administering authority in connection with probation service arrangements[^c-206ed0989acbf896739507b0775d1bb3]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ and for the purposes of this regulation it is not material whether the member in
 
 ## Annotations
 
-[^key-206ed0989acbf896739507b0775d1bb3]: Textual amendment: Reg. 104 inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2014/1146/regulation/7) (with [reg. 11](https://www.legislation.gov.uk/uksi/2014/1146/regulation/11))
+[^c-206ed0989acbf896739507b0775d1bb3]: Textual amendment: Reg. 104 inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2014/1146/regulation/7) (with [reg. 11](https://www.legislation.gov.uk/uksi/2014/1146/regulation/11))

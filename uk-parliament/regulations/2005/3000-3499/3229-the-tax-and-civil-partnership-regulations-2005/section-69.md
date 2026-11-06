@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69.[^key-b2599f15f5098d475878c665c6dfc927]
+## 69.[^c-b2599f15f5098d475878c665c6dfc927]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 360A[^f00021] (meaning of “material interest” in section 360), in
 
 ## Annotations
 
-[^key-b2599f15f5098d475878c665c6dfc927]: Commencement: Reg. 69 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b2599f15f5098d475878c665c6dfc927]: Commencement: Reg. 69 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00021]: Footnote: Section 360A was inserted by section 48(2) of the Finance Act 1989.

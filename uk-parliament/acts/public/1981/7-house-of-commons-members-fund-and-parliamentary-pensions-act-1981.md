@@ -31,28 +31,28 @@ House of Commons Members’ Fund and Parliamentary Pensions Act 1981 (repealed)
 
 1981 c.7
 
-[^key-a43a1fc4c735697ff6cd5c81539f03ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a43a1fc4c735697ff6cd5c81539f03ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Right of certain past Members and widows or widowers of such Members to payments out of House of Commons Members’ Fund.[^key-a43a1fc4c735697ff6cd5c81539f03ba]
+## 1. Right of certain past Members and widows or widowers of such Members to payments out of House of Commons Members’ Fund.[^c-a43a1fc4c735697ff6cd5c81539f03ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rate of payments as of right and effect on rate of discretionary payments.[^key-a43a1fc4c735697ff6cd5c81539f03ba]
+## 2. Rate of payments as of right and effect on rate of discretionary payments.[^c-a43a1fc4c735697ff6cd5c81539f03ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appropriation of increases in Treasury contributions to Fund.[^key-a43a1fc4c735697ff6cd5c81539f03ba]
+## 3. Appropriation of increases in Treasury contributions to Fund.[^c-a43a1fc4c735697ff6cd5c81539f03ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a43a1fc4c735697ff6cd5c81539f03ba]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a43a1fc4c735697ff6cd5c81539f03ba]
 
-## 5. Short title and repeals.[^key-a43a1fc4c735697ff6cd5c81539f03ba]
+## 5. Short title and repeals.[^c-a43a1fc4c735697ff6cd5c81539f03ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a43a1fc4c735697ff6cd5c81539f03ba]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(e)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/e)
+[^c-a43a1fc4c735697ff6cd5c81539f03ba]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(e)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/e)

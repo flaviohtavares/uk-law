@@ -38,8 +38,8 @@ summary: ''
 - (a) for “section 17” there is substituted “ sections 17 and 17A ”, and
 - (b) for “it applies” there is substituted “ they apply ”.
 
-(3)[^key-57b2df2d3061d3a4a78b49f89449d31c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-57b2df2d3061d3a4a78b49f89449d31c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57b2df2d3061d3a4a78b49f89449d31c]: Textual amendment: [S. 86(3)](https://www.legislation.gov.uk/ukpga/1996/55/section/86/3) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-57b2df2d3061d3a4a78b49f89449d31c]: Textual amendment: [S. 86(3)](https://www.legislation.gov.uk/ukpga/1996/55/section/86/3) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Voluntary provision of information etc[^key-f0c6dda2026534381b8315120134b615][^key-6c6e9e3923f926251947840e436a3f43]
+## 120. Voluntary provision of information etc[^c-f0c6dda2026534381b8315120134b615][^c-6c6e9e3923f926251947840e436a3f43]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A person may disclose any information, document, equipment or other item to the 
 
 ## Annotations
 
-[^key-f0c6dda2026534381b8315120134b615]: Commencement: S. 120 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f0c6dda2026534381b8315120134b615]: Commencement: S. 120 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6c6e9e3923f926251947840e436a3f43]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2022/31/section/120) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-6c6e9e3923f926251947840e436a3f43]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2022/31/section/120) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

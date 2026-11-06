@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Products of Animal Origin (Third Country Imports) (Wales) (Amendment) (No.2) Regulations 2002 (revoked)[^key-05a8dab9e70f6e5a07c5cad83e2e0ae5]
+The Products of Animal Origin (Third Country Imports) (Wales) (Amendment) (No.2) Regulations 2002 (revoked)[^c-05a8dab9e70f6e5a07c5cad83e2e0ae5]
 
 Made
 
@@ -41,7 +41,7 @@ Coming into force
 
 1st January 2003
 
-[^key-05a8dab9e70f6e5a07c5cad83e2e0ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05a8dab9e70f6e5a07c5cad83e2e0ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -55,14 +55,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-05a8dab9e70f6e5a07c5cad83e2e0ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05a8dab9e70f6e5a07c5cad83e2e0ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-05a8dab9e70f6e5a07c5cad83e2e0ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05a8dab9e70f6e5a07c5cad83e2e0ae5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05a8dab9e70f6e5a07c5cad83e2e0ae5]: Textual amendment: Regulations revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/uksi/2004/1430), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2004/1430/schedule/6)
+[^c-05a8dab9e70f6e5a07c5cad83e2e0ae5]: Textual amendment: Regulations revoked (31.5.2004) by [The Products of Animal Origin (Third Country Imports) (Wales) Regulations 2004 (S.I. 2004/1430)](https://www.legislation.gov.uk/uksi/2004/1430), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1430/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2004/1430/schedule/6)

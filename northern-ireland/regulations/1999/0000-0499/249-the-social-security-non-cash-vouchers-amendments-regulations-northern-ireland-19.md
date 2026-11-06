@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 132(3) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and Articles 14(1) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 2(3) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-88cc048e602aa2959db8a40ffb38c720]
+## 1. Citation, commencement and interpretation[^c-88cc048e602aa2959db8a40ffb38c720]
 
 (1) These Regulations may be cited as the Social Security (Non-Cash Vouchers Amendments) Regulations (Northern Ireland) 1999 and subject to paragraphs (2) to (4) shall come into operation on 1st July 1999.
 
@@ -56,7 +56,7 @@ regulation 2(4) or, as the case may be, 2(5) shall have effect in relation to th
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Earnings of employed earners[^key-75a62a2acf54a0ef81cefac7fb27dc9f]
+## 2. Earnings of employed earners[^c-75a62a2acf54a0ef81cefac7fb27dc9f]
 
 (1) In regulation 21 of the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00007] (earnings of employed earners)—
 
@@ -86,7 +86,7 @@ regulation 2(4) or, as the case may be, 2(5) shall have effect in relation to th
 
   .
 
-(3)[^key-c53412af4c7f47a75c727e869402fe59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c53412af4c7f47a75c727e869402fe59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 35 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00011] (earnings of employed earners)—
 
@@ -152,13 +152,13 @@ In so far as these Regulations are required, for the purposes of regulation 2(3)
 
 [^f00004]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-88cc048e602aa2959db8a40ffb38c720]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/249/regulation/1) in operation at 1.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/249/regulation/1/1)
+[^c-88cc048e602aa2959db8a40ffb38c720]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/249/regulation/1) in operation at 1.7.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/249/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); regulation 66(4) was amended by regulation 11 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-75a62a2acf54a0ef81cefac7fb27dc9f]: Commencement: Reg. 2 in operation at 1.7.1999 with effect in accordance with reg. 1(1)-(4)
+[^c-75a62a2acf54a0ef81cefac7fb27dc9f]: Commencement: Reg. 2 in operation at 1.7.1999 with effect in accordance with reg. 1(1)-(4)
 
 [^f00007]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); to which there are amendments not relevant to these Regulations
 
@@ -166,7 +166,7 @@ In so far as these Regulations are required, for the purposes of regulation 2(3)
 
 [^f00009]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); regulation 19(1)(i) was substituted by regulation 6(c) of [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148)
 
-[^key-c53412af4c7f47a75c727e869402fe59]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1999/249/regulation/2/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-c53412af4c7f47a75c727e869402fe59]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/1999/249/regulation/2/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); regulation 35(1)(j) was added by regulation 11(a)(iii) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
 

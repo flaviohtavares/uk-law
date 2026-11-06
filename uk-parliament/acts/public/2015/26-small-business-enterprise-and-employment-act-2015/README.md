@@ -89,7 +89,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 20 — Independent Complaints Commissioner: reporting duty](part-2/section-20.md)
 
-#### ...[^key-4489f87b8ea7b7b2688beb9c0ee48d3d]
+#### ...[^c-4489f87b8ea7b7b2688beb9c0ee48d3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -441,4 +441,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-4489f87b8ea7b7b2688beb9c0ee48d3d]: Textual amendment: [S. 21 cross-heading](https://www.legislation.gov.uk/ukpga/2015/26/part/2/crossheading/business-impact-target) omitted (29.8.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/1), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)
+[^c-4489f87b8ea7b7b2688beb9c0ee48d3d]: Textual amendment: [S. 21 cross-heading](https://www.legislation.gov.uk/ukpga/2015/26/part/2/crossheading/business-impact-target) omitted (29.8.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/1), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)

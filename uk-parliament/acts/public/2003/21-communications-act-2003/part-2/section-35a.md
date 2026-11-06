@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Penalties for contravention of section 33[^key-814d09ddcb541533ea67b5ef9ba9b1f0]
+## 35A. Penalties for contravention of section 33[^c-814d09ddcb541533ea67b5ef9ba9b1f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-814d09ddcb541533ea67b5ef9ba9b1f0]: Textual amendment: S. 35A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/11) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/3))
+[^c-814d09ddcb541533ea67b5ef9ba9b1f0]: Textual amendment: S. 35A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/11) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/3))

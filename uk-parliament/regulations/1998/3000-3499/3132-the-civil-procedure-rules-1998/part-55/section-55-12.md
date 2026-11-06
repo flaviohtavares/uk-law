@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.12. Conditions[^key-94db47efb189cdbc42cc583279e9d90b][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.12. Conditions[^c-94db47efb189cdbc42cc583279e9d90b][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94db47efb189cdbc42cc583279e9d90b]: Textual amendment: [Rule 55.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.12) substituted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2020/82/rule/8/2)
+[^c-94db47efb189cdbc42cc583279e9d90b]: Textual amendment: [Rule 55.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.12) substituted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2020/82/rule/8/2)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))

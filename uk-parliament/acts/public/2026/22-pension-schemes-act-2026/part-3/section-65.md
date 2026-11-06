@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Prohibition of unapproved superfund transfers[^key-8465f61b19f9616345f8c7319e308839]
+## 65. Prohibition of unapproved superfund transfers[^c-8465f61b19f9616345f8c7319e308839]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8465f61b19f9616345f8c7319e308839]: Commencement: S. 65 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-8465f61b19f9616345f8c7319e308839]: Commencement: S. 65 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

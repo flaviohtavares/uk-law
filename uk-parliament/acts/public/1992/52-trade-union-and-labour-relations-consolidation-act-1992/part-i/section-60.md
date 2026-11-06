@@ -29,7 +29,7 @@ For this purpose—
 - “**merchant seaman**” means a person whose employment, or the greater part of it, is carried out on board sea-going ships; and
 - “**offshore worker**” means a person in offshore employment, other than one who is in such employment in an area where the law of Northern Ireland applies.
 
-(3) Where the union chooses to accord an overseas member entitlement to vote —[^key-98d2fc0c295dcd448a0deaa04576a8ab]
+(3) Where the union chooses to accord an overseas member entitlement to vote —[^c-98d2fc0c295dcd448a0deaa04576a8ab]
 
 - (a) the following provisions, so far as applicable, apply in relation to the member—
   - (i) section 46A (responsible person’s determination of means of voting);
@@ -44,4 +44,4 @@ For this purpose—
 
 ## Annotations
 
-[^key-98d2fc0c295dcd448a0deaa04576a8ab]: Textual amendment: Words in s. 60(3) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(12)](https://www.legislation.gov.uk/uksi/2026/881/article/3/12) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-98d2fc0c295dcd448a0deaa04576a8ab]: Textual amendment: Words in s. 60(3) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(12)](https://www.legislation.gov.uk/uksi/2026/881/article/3/12) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

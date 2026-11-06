@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Complaints relating to general medical services made after 31st March 2004[^key-551dc2973c6feb7f872dbd679355febd]
+## 23. Complaints relating to general medical services made after 31st March 2004[^c-551dc2973c6feb7f872dbd679355febd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ shall apply to any complaint which a patient or former patient of the relevant m
 
 ## Annotations
 
-[^key-551dc2973c6feb7f872dbd679355febd]: Commencement: Art. 23 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-551dc2973c6feb7f872dbd679355febd]: Commencement: Art. 23 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

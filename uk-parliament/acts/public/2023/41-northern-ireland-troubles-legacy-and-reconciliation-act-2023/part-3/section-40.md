@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. No grant of immunity: restrictions on criminal enforcement action[^key-2d1bf0c55a1c5bfc0e189de969b1ade4]
+## 40. No grant of immunity: restrictions on criminal enforcement action[^c-2d1bf0c55a1c5bfc0e189de969b1ade4]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d1bf0c55a1c5bfc0e189de969b1ade4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/41/section/40) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-2d1bf0c55a1c5bfc0e189de969b1ade4]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/41/section/40) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Leases which have a long term[^key-63e7cb564583c84433f62ab453643856]
+## 3. Leases which have a long term[^c-63e7cb564583c84433f62ab453643856]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63e7cb564583c84433f62ab453643856]: Commencement: S. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-63e7cb564583c84433f62ab453643856]: Commencement: S. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

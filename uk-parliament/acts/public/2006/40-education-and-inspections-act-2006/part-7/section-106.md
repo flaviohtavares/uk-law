@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Penalty notices: supplemental[^key-05046407b362bd38bb87ae1106a255e1]
+## 106. Penalty notices: supplemental[^c-05046407b362bd38bb87ae1106a255e1]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) provision as to the form and content of penalty notices;
 - (b) provision as to the monetary amount of any penalty and the time by which it is to be paid;
-- (c) provision for determining the local authority[^key-0ea7acc4831332590d0c9da4689eca3c] to whom a penalty is payable;
+- (c) provision for determining the local authority[^c-0ea7acc4831332590d0c9da4689eca3c] to whom a penalty is payable;
 - (d) provision as to the methods by which penalties may be paid;
 - (e) provision as to the records which are to be kept in relation to penalty notices;
 - (f) provision as to the persons who may be authorised by a local authority or a head teacher to give penalty notices;
@@ -54,6 +54,6 @@ and other expressions have the same meaning as in section 105.
 
 ## Annotations
 
-[^key-05046407b362bd38bb87ae1106a255e1]: Commencement: S. 106 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/h)
+[^c-05046407b362bd38bb87ae1106a255e1]: Commencement: S. 106 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(h)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/h)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

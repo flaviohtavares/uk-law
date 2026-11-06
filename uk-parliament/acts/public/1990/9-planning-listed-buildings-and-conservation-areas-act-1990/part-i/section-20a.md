@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20A. Appeal made: functions of local planning authorities[^key-431ea34b552977fb856157fa9618c792][^c21493491]
+## 20A. Appeal made: functions of local planning authorities[^c-431ea34b552977fb856157fa9618c792][^c21493491]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-431ea34b552977fb856157fa9618c792]: Modification: Ss. 7-29 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-431ea34b552977fb856157fa9618c792]: Modification: Ss. 7-29 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c21493491]: Textual amendment: S. 20A inserted (6.8.2004 for specified purposes, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), ss. 50(2), 121(1) (with ss. 50(3)(4), [111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/340/article/2/b)

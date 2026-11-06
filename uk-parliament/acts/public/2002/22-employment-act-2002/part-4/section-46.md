@@ -45,7 +45,7 @@ summary: ''
   - (iii) the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7);
 - (e) provide for the provisions of specified agreements to have effect in place of provisions of the regulations to such extent and in such circumstances as may be specified.
 
-(4)[^key-8d7fcb9f11813308b8c971a96e2b0ae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8d7fcb9f11813308b8c971a96e2b0ae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Power to make regulations under this section includes power—
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7fcb9f11813308b8c971a96e2b0ae1]: Textual amendment: [S. 46(4)](https://www.legislation.gov.uk/ukpga/2002/22/section/46/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/3) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d7fcb9f11813308b8c971a96e2b0ae1]: Textual amendment: [S. 46(4)](https://www.legislation.gov.uk/ukpga/2002/22/section/46/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/537)](https://www.legislation.gov.uk/uksi/2019/537), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/537/regulation/1/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/3) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/537/schedule/paragraph/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

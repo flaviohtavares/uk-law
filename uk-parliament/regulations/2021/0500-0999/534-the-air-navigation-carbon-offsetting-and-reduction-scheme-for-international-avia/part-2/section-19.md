@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Determination of applications by Regulators[^key-cbc5018fd0beafdc9808823a0d989a71]
+## 19. Determination of applications by Regulators[^c-cbc5018fd0beafdc9808823a0d989a71]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbc5018fd0beafdc9808823a0d989a71]: Commencement: Art. 19 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-cbc5018fd0beafdc9808823a0d989a71]: Commencement: Art. 19 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

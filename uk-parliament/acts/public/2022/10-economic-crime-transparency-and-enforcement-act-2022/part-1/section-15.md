@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Failure to comply with notice under section 12 or 13[^key-08d6e6e0bd08d84a0e9b673f9822c2c3]
+## 15. Failure to comply with notice under section 12 or 13[^c-08d6e6e0bd08d84a0e9b673f9822c2c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08d6e6e0bd08d84a0e9b673f9822c2c3]: Textual amendment: [Ss. 15-15B](https://www.legislation.gov.uk/ukpga/2022/10/section/15) substituted for [s. 15](https://www.legislation.gov.uk/ukpga/2022/10/section/15) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 171](https://www.legislation.gov.uk/ukpga/2023/56/section/171), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z55)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z55)
+[^c-08d6e6e0bd08d84a0e9b673f9822c2c3]: Textual amendment: [Ss. 15-15B](https://www.legislation.gov.uk/ukpga/2022/10/section/15) substituted for [s. 15](https://www.legislation.gov.uk/ukpga/2022/10/section/15) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 171](https://www.legislation.gov.uk/ukpga/2023/56/section/171), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z55)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z55)

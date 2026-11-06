@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes this Order in exercise of the powers conferred by section 87(1) and (3) and 105(2) and (3) of the Local Government Act 2000[^f00001].
 
-## 1. Citation, commencement, extent and interpretation[^key-3a796d90a1c25f37753bf0599ab92011]
+## 1. Citation, commencement, extent and interpretation[^c-3a796d90a1c25f37753bf0599ab92011]
 
 (1) This Order may be cited as the Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 and comes into force on 4th March 2025.
 
@@ -57,7 +57,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 - “**the ordinary day of election of councillors**” has the same meaning as in section 37 of the Representation of the People Act 1983[^f00002];
 - “**specified local authority**” means a local authority specified in article 2.
 
-## 2. Changes to the years of ordinary elections for specified local authorities[^key-f322bb12ad8d33a6d842159a76acc9df]
+## 2. Changes to the years of ordinary elections for specified local authorities[^c-f322bb12ad8d33a6d842159a76acc9df]
 
 The ordinary elections of councillors of the following local authorities that would, but for this Order, have taken place on the ordinary day of election of councillors in 2025 are instead to take place on the ordinary day of election of councillors in 2026—
 
@@ -71,7 +71,7 @@ The ordinary elections of councillors of the following local authorities that wo
 - (h) Thurrock Council;
 - (i) West Sussex County Council.
 
-## 3. Retirement of councillors of specified local authorities[^key-58827b6e954b9aa5e9f4efb26990c2d2]
+## 3. Retirement of councillors of specified local authorities[^c-58827b6e954b9aa5e9f4efb26990c2d2]
 
 (1) A councillor of a specified local authority who would, but for this Order, have retired on the fourth day after the ordinary day of election of councillors in 2025 will retire instead on the fourth day after the ordinary day of election of councillors in 2026, unless the councillor resigns or the office otherwise becomes vacant before that day.
 
@@ -82,7 +82,7 @@ The ordinary elections of councillors of the following local authorities that wo
 
 (3) Section 243(1) of the Local Government Act 1972[^f00003] applies for the purposes of paragraphs (1) and (2) as if this article were a provision of that Act.
 
-## 4. Consequential modifications: existing casual vacancies[^key-4cfad90b4c2f138bd5dfe9ed63e3b2dd]
+## 4. Consequential modifications: existing casual vacancies[^c-4cfad90b4c2f138bd5dfe9ed63e3b2dd]
 
 (1) This article applies where—
 
@@ -93,7 +93,7 @@ The ordinary elections of councillors of the following local authorities that wo
 
 (3) Section 90 of the Local Government Act 1972[^f00005] applies in respect of a person elected to fill a causal vacancy to which this article applies as if for the words from “date” to “retired” there were substituted “fourth day after the ordinary day of election of councillors in 2026”.
 
-## 5. Consequential amendments[^key-0b25baa6a68ab5011d1ea5028f299d7d]
+## 5. Consequential amendments[^c-0b25baa6a68ab5011d1ea5028f299d7d]
 
 (1) In the following Orders, in article 1(3)(b), for “2025” substitute “2026”—
 
@@ -137,23 +137,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-3a796d90a1c25f37753bf0599ab92011]: Commencement: Art. 1 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
+[^c-3a796d90a1c25f37753bf0599ab92011]: Commencement: Art. 1 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
 
 [^f00002]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 37 was amended by section 18 of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) and by [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
-[^key-f322bb12ad8d33a6d842159a76acc9df]: Commencement: Art. 2 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
+[^c-f322bb12ad8d33a6d842159a76acc9df]: Commencement: Art. 2 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
 
-[^key-58827b6e954b9aa5e9f4efb26990c2d2]: Commencement: Art. 3 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
+[^c-58827b6e954b9aa5e9f4efb26990c2d2]: Commencement: Art. 3 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
 
 [^f00003]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-4cfad90b4c2f138bd5dfe9ed63e3b2dd]: Commencement: Art. 4 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
+[^c-4cfad90b4c2f138bd5dfe9ed63e3b2dd]: Commencement: Art. 4 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
 
 [^f00004]: Footnote: Section 89(1) was amended by section 19 of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
 [^f00005]: Footnote: Section 90 was amended by paragraph 11 of Schedule 14 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Part 1 of Schedule 13 to the Education Reform Act [1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40) and Part 10 of Schedule 1 to the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14).
 
-[^key-0b25baa6a68ab5011d1ea5028f299d7d]: Commencement: Art. 5 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
+[^c-0b25baa6a68ab5011d1ea5028f299d7d]: Commencement: Art. 5 in force at 4.3.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2021/1219](https://www.legislation.gov.uk/uksi/2021/1219).
 

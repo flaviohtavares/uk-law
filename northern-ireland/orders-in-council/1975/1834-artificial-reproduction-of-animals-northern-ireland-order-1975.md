@@ -27,7 +27,7 @@ summary: ''
 
 1975 No. 1834 (N.I. 17)
 
-Artificial Reproduction of Animals (Northern Ireland) Order 1975[^key-904ae7348f487f1c51ecbd74c450a0af]
+Artificial Reproduction of Animals (Northern Ireland) Order 1975[^c-904ae7348f487f1c51ecbd74c450a0af]
 
 \[12th November 1975\] [^c19081531][^c20368861]
 
@@ -179,7 +179,7 @@ An authorised person shall not be personally liable for any loss or damage occas
 
 ## Annotations
 
-[^key-904ae7348f487f1c51ecbd74c450a0af]: Modification: Order excluded (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [reg. 41(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/41/2)
+[^c-904ae7348f487f1c51ecbd74c450a0af]: Modification: Order excluded (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [reg. 41(2)](https://www.legislation.gov.uk/nisr/2011/438/regulation/41/2)
 
 [^c19081531]: Modification: Order restricted (24.7.2006) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2006 (S.R. 2006/291)](https://www.legislation.gov.uk/nisr/2006/291), [reg. 65(2)](https://www.legislation.gov.uk/nisr/2006/291/regulation/65/2)
 

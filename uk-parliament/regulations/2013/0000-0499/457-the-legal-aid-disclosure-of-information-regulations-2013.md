@@ -46,18 +46,18 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations[^f00001] in exercise of the powers conferred by sections 28 and 35 of, and paragraphs 9 and 10 of Schedule 3 to[^f00002], the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00003].
 
-## 1. Citation and commencement[^key-0360e7a60f1f9ba6090568552e781f7b]
+## 1. Citation and commencement[^c-0360e7a60f1f9ba6090568552e781f7b]
 
 These Regulations may be cited as the Legal Aid (Disclosure of Information) Regulations 2013 and come into force on 1st April 2013.
 
-## 2. Interpretation[^key-6eb1c2b8d57d6595191e51cccb64a5c1]
+## 2. Interpretation[^c-6eb1c2b8d57d6595191e51cccb64a5c1]
 
 In these Regulations—
 
 - “ the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012; and
 - “criminal legal aid” means advice, assistance and representation made available under sections 13, 15 and 16 of the Act.
 
-## 3. Position of providers[^key-df2f6e5557c4866eb59acad2d665648e]
+## 3. Position of providers[^c-df2f6e5557c4866eb59acad2d665648e]
 
 (1) The relationship between a provider and a legally aided person, and any privilege arising out of that relationship, does not preclude the provider from disclosing relevant information to the Lord Chancellor or the Director for the purposes of enabling or assisting them to carry out their functions under Part 1 of the Act.
 
@@ -67,7 +67,7 @@ In these Regulations—
 - “provider” means a person with whom the Lord Chancellor has made an arrangement under section 2(1) of the Act (arrangements) for the provision of civil legal services or criminal legal aid under Part 1 of the Act; and
 - “relevant information” means information relating to a legally aided person or to the civil legal services or criminal legal aid which have been made available to that person.
 
-## 4. Disclosure of information[^key-e55f3386d8437cc1a434bf391a0a5d69]
+## 4. Disclosure of information[^c-e55f3386d8437cc1a434bf391a0a5d69]
 
 The Director and Lord Chancellor must not disclose any information for the purposes of the investigation or prosecution of an offence (or a suspected offence) under the law of England and Wales or any other jurisdiction which—
 
@@ -98,10 +98,10 @@ These Regulations make provision for providers of services under Part 1 of the L
 
 [^f00003]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-0360e7a60f1f9ba6090568552e781f7b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
+[^c-0360e7a60f1f9ba6090568552e781f7b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
 
-[^key-6eb1c2b8d57d6595191e51cccb64a5c1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/457/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
+[^c-6eb1c2b8d57d6595191e51cccb64a5c1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/457/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
 
-[^key-df2f6e5557c4866eb59acad2d665648e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/457/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
+[^c-df2f6e5557c4866eb59acad2d665648e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/457/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
 
-[^key-e55f3386d8437cc1a434bf391a0a5d69]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/457/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)
+[^c-e55f3386d8437cc1a434bf391a0a5d69]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/457/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/457/regulation/1)

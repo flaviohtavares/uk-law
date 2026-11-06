@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Contributions during reserve forces service leave[^key-63abae39fd8e279f134603bea6ef23a1]
+## 19. Contributions during reserve forces service leave[^c-63abae39fd8e279f134603bea6ef23a1]
 
 *Extent: E+W+S*
 
@@ -77,7 +77,7 @@ he must be treated as if he were in that employment at that time.
 
 ## Annotations
 
-[^key-63abae39fd8e279f134603bea6ef23a1]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-63abae39fd8e279f134603bea6ef23a1]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00027]: Footnote: [1980 c.9](https://www.legislation.gov.uk/ukpga/1980/9).
 

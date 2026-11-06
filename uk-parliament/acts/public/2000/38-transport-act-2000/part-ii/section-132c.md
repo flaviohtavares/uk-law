@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132C. Power of authorities to provide services in exceptional circumstances[^key-c05adb8597f2acc398b3fefbd54794ff][^key-126277fa5669c7c482b9ec45269b1c45]
+## 132C. Power of authorities to provide services in exceptional circumstances[^c-c05adb8597f2acc398b3fefbd54794ff][^c-126277fa5669c7c482b9ec45269b1c45]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-126277fa5669c7c482b9ec45269b1c45]: Textual amendment: Ss. 132C, 132D inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/40/1), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-126277fa5669c7c482b9ec45269b1c45]: Textual amendment: Ss. 132C, 132D inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/40/1), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

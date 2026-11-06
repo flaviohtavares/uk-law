@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Commissioner’s enforcement powers[^key-f708fa9c9de8337def796a82b0669173][^key-34c6df03ac7dc98fd36855ce52d1773e]
+## 115. Commissioner’s enforcement powers[^c-f708fa9c9de8337def796a82b0669173][^c-34c6df03ac7dc98fd36855ce52d1773e]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f708fa9c9de8337def796a82b0669173]: Commencement: S. 115 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-f708fa9c9de8337def796a82b0669173]: Commencement: S. 115 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-34c6df03ac7dc98fd36855ce52d1773e]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2025/18/section/115) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/y) (with [regs. 8-11](https://www.legislation.gov.uk/uksi/2026/82/regulation/8))
+[^c-34c6df03ac7dc98fd36855ce52d1773e]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2025/18/section/115) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/y) (with [regs. 8-11](https://www.legislation.gov.uk/uksi/2026/82/regulation/8))

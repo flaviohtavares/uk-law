@@ -107,53 +107,53 @@ In accordance with section 129(6) of the Medicines Act 1968 [^c18358561], the Se
 - (a) in sub-paragraph (a), for “£266” substitute “ £279 ”; and
 - (b) in sub-paragraph (b), for “£348” substitute “£365”.
 
-## 3. Amendment of Part I of the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 3. Amendment of Part I of the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part IA of the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 4. Amendment of Part IA of the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part VI of the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 5. Amendment of Part VI of the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Part VII of the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 6. Amendment of Part VII of the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 1 to the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 7. Amendment of Schedule 1 to the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 2 to the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 8. Amendment of Schedule 2 to the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Schedule 3 to the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 9. Amendment of Schedule 3 to the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 6 to the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 10. Amendment of Schedule 6 to the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Increase in fee amounts prescribed by the Medicines Fees Regulations[^key-46c51bf9ac98749ea5d3a5c861e84dd7]
+## 11. Increase in fee amounts prescribed by the Medicines Fees Regulations[^c-46c51bf9ac98749ea5d3a5c861e84dd7]
 
 **No longer in force.**
 
@@ -392,7 +392,7 @@ Frank Roy
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE[^key-296821ba59183fc1d00a8ffd8eebd62e]
+## SCHEDULE[^c-296821ba59183fc1d00a8ffd8eebd62e]
 
 **No longer in force.**
 
@@ -438,7 +438,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c18358601]: Marginal citation: [Schedule 2A](https://www.legislation.gov.uk/uksi/2007/803/schedule/2A) was inserted by [S.I. 2005/2753](https://www.legislation.gov.uk/uksi/2005/2753).
 
-[^key-46c51bf9ac98749ea5d3a5c861e84dd7]: Textual amendment: [Regs. 3-11](https://www.legislation.gov.uk/uksi/2007/803/regulation/3) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-46c51bf9ac98749ea5d3a5c861e84dd7]: Textual amendment: [Regs. 3-11](https://www.legislation.gov.uk/uksi/2007/803/regulation/3) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
 [^c18358781]: Marginal citation: [S.I. 1995/449](https://www.legislation.gov.uk/uksi/1995/449); relevant amending instrument is [S.I. 2006/494](https://www.legislation.gov.uk/uksi/2006/494).
 
@@ -446,7 +446,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c18358801]: Marginal citation: [S.I. 2007/610](https://www.legislation.gov.uk/uksi/2007/610)
 
-[^key-296821ba59183fc1d00a8ffd8eebd62e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2007/803/schedule) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-296821ba59183fc1d00a8ffd8eebd62e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2007/803/schedule) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
 [^c18358841]: Marginal citation: OJ No. L297, 13.10.92, p.8.
 

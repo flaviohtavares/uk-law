@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration and Nationality (Fees) Order 2015 (revoked)[^key-5fbfbdd6188cda537f6365331d0fb587]
+The Immigration and Nationality (Fees) Order 2015 (revoked)[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 Made
 
@@ -40,54 +40,54 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-5fbfbdd6188cda537f6365331d0fb587]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fbfbdd6188cda537f6365331d0fb587]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 1. Citation, commencement and interpretation[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5fbfbdd6188cda537f6365331d0fb587] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5fbfbdd6188cda537f6365331d0fb587] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement to pay a fee in respect of the exercise of a function in connection with immigration or nationality[^key-5fbfbdd6188cda537f6365331d0fb587]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Applications for entry clearance to enter or leave to remain in the United Kingdom as a visitor[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 3. Requirement to pay a fee in respect of the exercise of a function in connection with immigration or nationality[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Applications for entry clearance to enter, leave to enter the United Kingdom or leave to remain in the United Kingdom as a sponsored worker, an unsponsored worker, a student or for any other purpose (excluding visits)[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 4. Applications for entry clearance to enter or leave to remain in the United Kingdom as a visitor[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Documents and administration[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 5. Applications for entry clearance to enter, leave to enter the United Kingdom or leave to remain in the United Kingdom as a sponsored worker, an unsponsored worker, a student or for any other purpose (excluding visits)[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Sponsorship[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 6. Documents and administration[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Consular Functions[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 7. Sponsorship[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Premium services[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 8. Consular Functions[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Nationality[^key-5fbfbdd6188cda537f6365331d0fb587]
+## 9. Premium services[^c-5fbfbdd6188cda537f6365331d0fb587]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fbfbdd6188cda537f6365331d0fb587]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 10. Nationality[^c-5fbfbdd6188cda537f6365331d0fb587]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5fbfbdd6188cda537f6365331d0fb587]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5fbfbdd6188cda537f6365331d0fb587]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fbfbdd6188cda537f6365331d0fb587]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5fbfbdd6188cda537f6365331d0fb587]: Textual amendment: Order revoked (12.2.2016) by [The Immigration and Nationality (Fees) Order 2016 (S.I. 2016/177)](https://www.legislation.gov.uk/uksi/2016/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/177/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2016/177/article/11/1) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2016/177/article/11/2))
+[^c-5fbfbdd6188cda537f6365331d0fb587]: Textual amendment: Order revoked (12.2.2016) by [The Immigration and Nationality (Fees) Order 2016 (S.I. 2016/177)](https://www.legislation.gov.uk/uksi/2016/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/177/article/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2016/177/article/11/1) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2016/177/article/11/2))

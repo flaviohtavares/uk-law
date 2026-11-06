@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34.4. Transitional provision[^key-c2037e64eaaa0d88ac5538ccd6088456]
+## 34.4. Transitional provision[^c-c2037e64eaaa0d88ac5538ccd6088456]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Appeal Sheriff may direct that this Act of Sederunt applies to any proceedin
 
 ## Annotations
 
-[^key-c2037e64eaaa0d88ac5538ccd6088456]: Commencement: Para. 34.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-c2037e64eaaa0d88ac5538ccd6088456]: Commencement: Para. 34.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

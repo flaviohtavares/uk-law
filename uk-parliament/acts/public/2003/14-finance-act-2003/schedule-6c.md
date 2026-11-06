@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6C — Stamp duty land tax: relief for special tax sites[^key-66fad44ac766516570e786efa75781e1][^key-cec63dc002971043d2a10fa4a18e6f75]
+## SCHEDULE 6C — Stamp duty land tax: relief for special tax sites[^c-66fad44ac766516570e786efa75781e1][^c-cec63dc002971043d2a10fa4a18e6f75]
 
 *Extent: E+W+S+N.I.*
 
 Section 61A
 
-### PART 1 — qualifying land[^key-a0eeaff14b8cd65905cae522847a9c05]
+### PART 1 — qualifying land[^c-a0eeaff14b8cd65905cae522847a9c05]
 
 #### 1. Transaction land
 
 In this Schedule, “transaction land”, in relation to a land transaction, means land a chargeable interest in which is the subject matter of the transaction.
 
-#### 2. Qualifying land[^key-721efe0eab7639443dac603732df21da]
+#### 2. Qualifying land[^c-721efe0eab7639443dac603732df21da]
 
 For the purposes of this Schedule, transaction land is “qualifying land” if, on the effective date of the transaction—
 
@@ -53,7 +53,7 @@ For the purposes of this Schedule, transaction land is “qualifying land” if,
 
 (3) For the purposes of this paragraph, use of land in the course of a commercial trade or profession includes use of land for a purpose that is ancillary to the use of other land which—
 
-- (a) is situated in a special tax site[^key-c7b346c6500172d56c5724b4515c52eb], and
+- (a) is situated in a special tax site[^c-c7b346c6500172d56c5724b4515c52eb], and
 - (b) is being used, or developed or redeveloped, in the course of a commercial trade or profession.
 
 (4) The references in sub-paragraph (2) to land used as the garden or grounds of a dwelling include a building or structure on the land.
@@ -92,11 +92,11 @@ For the purposes of this Schedule, transaction land is “qualifying land” if,
 
 (1) For the purposes of this Schedule, the consideration attributable to qualifying land must be determined on a just and reasonable basis.
 
-(2) Sub-paragraphs (3) and (4) apply if less than 100% of the chargeable consideration attributable to transaction land situated in a special tax site (“the relevant consideration”)[^key-3b52d8d7f104dd28afb5bde04b0a9725] is attributable to land that satisfies the condition in paragraph 2(b).
+(2) Sub-paragraphs (3) and (4) apply if less than 100% of the chargeable consideration attributable to transaction land situated in a special tax site (“the relevant consideration”)[^c-3b52d8d7f104dd28afb5bde04b0a9725] is attributable to land that satisfies the condition in paragraph 2(b).
 
-(3) If at least 90% of the freeport consideration is attributable to land that satisfies the condition in paragraph 2(b) then, for the purposes of this Schedule, all of the relevant consideration[^key-e7b94def45f294b3011b840b5bf4d45e] is to be treated as being attributable to qualifying land.
+(3) If at least 90% of the freeport consideration is attributable to land that satisfies the condition in paragraph 2(b) then, for the purposes of this Schedule, all of the relevant consideration[^c-e7b94def45f294b3011b840b5bf4d45e] is to be treated as being attributable to qualifying land.
 
-(4) If less than 10% of the relevant consideration[^key-58386ae75def5e57e711239b8d9029cf] is attributable to land that satisfies the condition in paragraph 2(b) then, for the purposes of this Schedule, all of the freeport consideration is to be treated as not being attributable to qualifying land.
+(4) If less than 10% of the relevant consideration[^c-58386ae75def5e57e711239b8d9029cf] is attributable to land that satisfies the condition in paragraph 2(b) then, for the purposes of this Schedule, all of the freeport consideration is to be treated as not being attributable to qualifying land.
 
 ### PART 3 — Withdrawal of relief
 
@@ -162,8 +162,8 @@ For the purposes of this Schedule, transaction land is “qualifying land” if,
 
 (1) The Treasury may by regulations—
 
-- (a) amend the meaning of “qualifying land”, or[^key-8f0cc6677559af7242e5ddeb10032327]
-- (b)[^key-2ffad3b3c86c9687eca380bd71eb202f] make other provision about the availability of relief under this Schedule, including provision—
+- (a) amend the meaning of “qualifying land”, or[^c-8f0cc6677559af7242e5ddeb10032327]
+- (b)[^c-2ffad3b3c86c9687eca380bd71eb202f] make other provision about the availability of relief under this Schedule, including provision—
   - (i) adding, removing or altering, or otherwise about, conditions that must be met in order for relief to be available,
   - (ii) about the withdrawal of relief, or
   - (iii) about returns where relief is withdrawn.
@@ -179,9 +179,9 @@ For the purposes of this Schedule, transaction land is “qualifying land” if,
 (4) Regulations under this paragraph—
 
 - (a) may amend, repeal or otherwise modify provisions of this Schedule, and
-- (b) where made in reliance on sub-paragraph (1)(b) of this paragraph or on[^key-abadb0a691547470812f977b9a98644d] section 114(6)(c), may amend, repeal or otherwise modify other provisions of this Act.
+- (b) where made in reliance on sub-paragraph (1)(b) of this paragraph or on[^c-abadb0a691547470812f977b9a98644d] section 114(6)(c), may amend, repeal or otherwise modify other provisions of this Act.
 
-(5)[^key-423374c1682afe6c3345a03958388ac3] The power to make regulations under this paragraph may be exercised only in relation to transactions with an effective date that is on or after the date on which the regulations come into force.
+(5)[^c-423374c1682afe6c3345a03958388ac3] The power to make regulations under this paragraph may be exercised only in relation to transactions with an effective date that is on or after the date on which the regulations come into force.
 
 #### 13. Approval of regulations
 
@@ -200,26 +200,26 @@ For the purposes of this Schedule, transaction land is “qualifying land” if,
 
 ## Annotations
 
-[^key-66fad44ac766516570e786efa75781e1]: Textual amendment: [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/23/paragraph/8)
+[^c-66fad44ac766516570e786efa75781e1]: Textual amendment: [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/23/paragraph/8)
 
-[^key-cec63dc002971043d2a10fa4a18e6f75]: Textual amendment: Words in [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) heading substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/e)
+[^c-cec63dc002971043d2a10fa4a18e6f75]: Textual amendment: Words in [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) heading substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(e)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/e)
 
-[^key-a0eeaff14b8cd65905cae522847a9c05]: Textual amendment: Words in [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/b)
+[^c-a0eeaff14b8cd65905cae522847a9c05]: Textual amendment: Words in [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/b)
 
-[^key-721efe0eab7639443dac603732df21da]: Textual amendment: Sch. 6C para. 2 and cross-heading substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/a)
+[^c-721efe0eab7639443dac603732df21da]: Textual amendment: Sch. 6C para. 2 and cross-heading substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/a)
 
-[^key-c7b346c6500172d56c5724b4515c52eb]: Textual amendment: Words in [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/c)
+[^c-c7b346c6500172d56c5724b4515c52eb]: Textual amendment: Words in [Sch. 6C](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(c)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/c)
 
-[^key-3b52d8d7f104dd28afb5bde04b0a9725]: Textual amendment: Words in [Sch. 6C para. 7(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/7/2) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(d)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/d/i)
+[^c-3b52d8d7f104dd28afb5bde04b0a9725]: Textual amendment: Words in [Sch. 6C para. 7(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/7/2) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(d)(i)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/d/i)
 
-[^key-e7b94def45f294b3011b840b5bf4d45e]: Textual amendment: Words in [Sch. 6C para. 7(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/7/3) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/d/ii)
+[^c-e7b94def45f294b3011b840b5bf4d45e]: Textual amendment: Words in [Sch. 6C para. 7(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/7/3) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/d/ii)
 
-[^key-58386ae75def5e57e711239b8d9029cf]: Textual amendment: Words in [Sch. 6C para. 7(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/7/4) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/d/ii)
+[^c-58386ae75def5e57e711239b8d9029cf]: Textual amendment: Words in [Sch. 6C para. 7(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/7/4) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 8(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/8/d/ii)
 
-[^key-8f0cc6677559af7242e5ddeb10032327]: Textual amendment: Word in [Sch. 6C para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/12/1/a) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/2/a)
+[^c-8f0cc6677559af7242e5ddeb10032327]: Textual amendment: Word in [Sch. 6C para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/12/1/a) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/2/a)
 
-[^key-2ffad3b3c86c9687eca380bd71eb202f]: Textual amendment: Sch. 6C para. 12(1)(b) substituted for Sch. 6C para. 12(1)(b)(c) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/2/b)
+[^c-2ffad3b3c86c9687eca380bd71eb202f]: Textual amendment: Sch. 6C para. 12(1)(b) substituted for Sch. 6C para. 12(1)(b)(c) (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/2/b)
 
-[^key-abadb0a691547470812f977b9a98644d]: Textual amendment: Words in [Sch. 6C para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/12/4/b) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/3)
+[^c-abadb0a691547470812f977b9a98644d]: Textual amendment: Words in [Sch. 6C para. 12(4)(b)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/12/4/b) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/3)
 
-[^key-423374c1682afe6c3345a03958388ac3]: Textual amendment: [Sch. 6C para. 12(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/12/5) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/4)
+[^c-423374c1682afe6c3345a03958388ac3]: Textual amendment: [Sch. 6C para. 12(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/6C/paragraph/12/5) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 16 para. 6(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/16/paragraph/6/4)

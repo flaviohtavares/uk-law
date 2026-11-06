@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Interpretation of other expressions used in this Part[^key-086131e60af1e576bdfda11373f838fa]
+## 20. Interpretation of other expressions used in this Part[^c-086131e60af1e576bdfda11373f838fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
   - (b) any other technical service relating to the goods or technology;
 - “**transfer**” has the meaning given by paragraph 37 of Schedule 1 to the Act.
 
-(4)[^key-31059b16095f2bfb9c16f17f5bbfebf2] For the purposes of this Part, a group is to be regarded as an “**armed group operating in the Central African Republic**” if the group is—
+(4)[^c-31059b16095f2bfb9c16f17f5bbfebf2] For the purposes of this Part, a group is to be regarded as an “**armed group operating in the Central African Republic**” if the group is—
 
 - (a) party to an armed conflict in the Central African Republic, and
 - (b) not acting on the instructions of, or under the direction or control of, the Government of the Central African Republic.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-086131e60af1e576bdfda11373f838fa]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-086131e60af1e576bdfda11373f838fa]: Commencement: Reg. 20 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
-[^key-31059b16095f2bfb9c16f17f5bbfebf2]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2020/616/regulation/20/4)[(5)](https://www.legislation.gov.uk/uksi/2020/616/regulation/20/5) substituted for [reg. 20(4)](https://www.legislation.gov.uk/uksi/2020/616/regulation/20/4) (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/5)
+[^c-31059b16095f2bfb9c16f17f5bbfebf2]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2020/616/regulation/20/4)[(5)](https://www.legislation.gov.uk/uksi/2020/616/regulation/20/5) substituted for [reg. 20(4)](https://www.legislation.gov.uk/uksi/2020/616/regulation/20/4) (6.1.2026) by [The Central African Republic (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/1327)](https://www.legislation.gov.uk/uksi/2025/1327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2025/1327/regulation/2/5)

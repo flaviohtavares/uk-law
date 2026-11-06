@@ -48,7 +48,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## Part 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-84a708aca01d04a07abdbef1494e1718]
+### 1. Citation, commencement and extent[^c-84a708aca01d04a07abdbef1494e1718]
 
 (1) These Regulations may be cited as the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -61,7 +61,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 (4) Subject to paragraph (3), any revocation or amendment made by these Regulations, and any saving or transitional provision in these Regulations, has the same extent as the provision to which it relates.
 
-### 2. Interpretation[^key-e689e21f9d73a385d6eebcc7d7143b62]
+### 2. Interpretation[^c-e689e21f9d73a385d6eebcc7d7143b62]
 
 In these Regulations—
 
@@ -78,33 +78,33 @@ In these Regulations—
 
 ## Part 2 — Revocation of retained direct EU legislation
 
-### 3. Revocation of Council Regulation No. 2201/2003[^key-d5fde9f165e4dbf6ba8199d29a555a28]
+### 3. Revocation of Council Regulation No. 2201/2003[^c-d5fde9f165e4dbf6ba8199d29a555a28]
 
 *Extent: E+W+N.I.*
 
 Council Regulation No. 2201/2003 is revoked.
 
-### 4. Revocation of Council Regulation No. 4/2009[^key-fc925c0845aafc52f1da2b0e6fbb47a3]
+### 4. Revocation of Council Regulation No. 4/2009[^c-fc925c0845aafc52f1da2b0e6fbb47a3]
 
 Council Regulation No. 4/2009 is revoked.
 
-### 5. Revocation of Council Regulation No 2116/2004[^key-56e64d364e88fe142203cb67ec697124]
+### 5. Revocation of Council Regulation No 2116/2004[^c-56e64d364e88fe142203cb67ec697124]
 
 Council Regulation [(EC) No 2116/2004](https://www.legislation.gov.uk/european/regulation/2004/2116) amending Regulation [(EC) No 2201/2003](https://www.legislation.gov.uk/european/regulation/2003/2201) concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility, repealing Regulation [(EC) No 1347/2000](https://www.legislation.gov.uk/european/regulation/2000/1347), as regards treaties with the Holy See is revoked.
 
-### 6. Revocation of Council Regulation No. 664/2009[^key-035379685714185b4484b8efe2572fc9]
+### 6. Revocation of Council Regulation No. 664/2009[^c-035379685714185b4484b8efe2572fc9]
 
 Council Regulation [(EC) No 664/2009](https://www.legislation.gov.uk/european/regulation/2009/0664) of 7 July 2009 establishing a procedure for the negotiation and conclusion of agreements between Member States and third countries concerning jurisdiction, recognition and enforcement of judgments and decisions in matrimonial matters, matters of parental responsibility and matters relating to maintenance obligations, and the law applicable to matters relating to maintenance obligations is revoked.
 
 ## Part 3 — Amendment of primary and secondary legislation
 
-### 7. Amendment of primary and secondary legislation[^key-ed594e82deac879adac4185aef65f8a3]
+### 7. Amendment of primary and secondary legislation[^c-ed594e82deac879adac4185aef65f8a3]
 
 The Schedule, which sets out amendments of primary and secondary legislation, has effect.
 
 ## Part 4 — Saving and transitional provisions
 
-### 8. Saving and transitional provisions[^key-fce52ae3866c9cd4f6ae4954e3290562][^key-3386777e486c5af09d39742c521119b1]
+### 8. Saving and transitional provisions[^c-fce52ae3866c9cd4f6ae4954e3290562][^c-3386777e486c5af09d39742c521119b1]
 
 (1) Nothing in these Regulations affects the application of paragraphs 1, 2(b) and (c) and 3(a) and (b) of Article 67 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of those paragraphs as if the amendments and revocations had not been made.
 
@@ -130,7 +130,7 @@ Regulation 7
 
 #### PART 1 — Amendment of primary legislation
 
-##### 1. Amendment of the Maintenance Orders Act 1950[^key-1a12763e543f3fe07eba4ba7542c14bd]
+##### 1. Amendment of the Maintenance Orders Act 1950[^c-1a12763e543f3fe07eba4ba7542c14bd]
 
 (1) The Maintenance Orders Act 1950 [^c23627351] is amended as follows.
 
@@ -141,7 +141,7 @@ Regulation 7
 - (a) in subsection (1), omit “Subject to subsection (1ZA),”;
 - (b) omit subsection (1ZA).
 
-##### 2. Amendment of the Maintenance and Affiliation Orders Act (Northern Ireland) 1966[^key-93488f57a2fa0510b03d72920476fc8b]
+##### 2. Amendment of the Maintenance and Affiliation Orders Act (Northern Ireland) 1966[^c-93488f57a2fa0510b03d72920476fc8b]
 
 (1) The Maintenance and Affiliation Orders Act (Northern Ireland) 1966 [^c23627361] is amended as follows.
 
@@ -152,15 +152,15 @@ Regulation 7
 
 (3) In section 13A, in subsection (1), omit “or section 10(6)”.
 
-##### 3. Amendment of the Administration of Justice Act 1970[^key-031a970df788eb5dae0b19cfb874b10e]
+##### 3. Amendment of the Administration of Justice Act 1970[^c-031a970df788eb5dae0b19cfb874b10e]
 
 In Schedule 8 (maintenance orders for purposes of 1958 Act and Part II of this Act) to the Administration of Justice Act 1970 [^c23627371] omit paragraph 13B.
 
-##### 4. Amendment of the Attachment of Earnings Act 1971[^key-8a705456cc642f5af38789747be5f00c]
+##### 4. Amendment of the Attachment of Earnings Act 1971[^c-8a705456cc642f5af38789747be5f00c]
 
 In Schedule 1 (maintenance orders to which this Act applies) to the Attachment of Earnings Act 1971 [^c23627381] omit paragraph 14A.
 
-##### 5. Amendment of the Maintenance Orders (Reciprocal Enforcement) Act 1972[^key-4c1614e7f9571b30217cb4866dd3f24e]
+##### 5. Amendment of the Maintenance Orders (Reciprocal Enforcement) Act 1972[^c-4c1614e7f9571b30217cb4866dd3f24e]
 
 (1) The Maintenance Orders (Reciprocal Enforcement) Act 1972 [^c23627391] is amended as follows.
 
@@ -173,7 +173,7 @@ In Schedule 1 (maintenance orders to which this Act applies) to the Attachment o
   ;
 - (b) after subsection (1) insert—
 
-  > (2) In matters relating to maintenance, a person may be sued in the courts for the place where the pursuer is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided than an action [^key-b79019d187dce67ed197b699b9583bbe]... of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person.
+  > (2) In matters relating to maintenance, a person may be sued in the courts for the place where the pursuer is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided than an action [^c-b79019d187dce67ed197b699b9583bbe]... of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person.
 
   ;
 - (c) omit subsection (7).
@@ -188,11 +188,11 @@ In Schedule 1 (maintenance orders to which this Act applies) to the Attachment o
 - (a) subsection (1B);
 - (b) subsection (4).
 
-##### 6. Amendment of the Matrimonial Causes Act 1973[^key-1effb298036768c01a28f498be52c114]
+##### 6. Amendment of the Matrimonial Causes Act 1973[^c-1effb298036768c01a28f498be52c114]
 
 (1) The Matrimonial Causes Act 1973 [^c23627401] is amended as follows.
 
-(2)[^key-d3a154b2d0532563ed638b3b58c09510] In section 27 (financial provision orders in cases of neglect to maintain), for subsection (2) substitute—
+(2)[^c-d3a154b2d0532563ed638b3b58c09510] In section 27 (financial provision orders in cases of neglect to maintain), for subsection (2) substitute—
 
 > (2) The court may not entertain an application under this section unless—
 >
@@ -213,7 +213,7 @@ In Schedule 1 (maintenance orders to which this Act applies) to the Attachment o
 
 (4) In section 52 (interpretation), in subsection (1), omit the definition of “the Maintenance Regulation”.
 
-##### 7. Amendment of the Domicile and Matrimonial Proceedings Act 1973[^key-cf3a25a2a765bd74f8ca815b9dcd21a4]
+##### 7. Amendment of the Domicile and Matrimonial Proceedings Act 1973[^c-cf3a25a2a765bd74f8ca815b9dcd21a4]
 
 (1) The Domicile and Matrimonial Proceedings Act 1973 [^c23627411] is amended as follows.
 
@@ -255,7 +255,7 @@ In Schedule 1 (maintenance orders to which this Act applies) to the Attachment o
 
 (4) In Schedule 1 (staying of matrimonial proceedings (England and Wales)), in paragraph 9(1), omit “, other than proceedings governed by the Council Regulation,”.
 
-##### 8. Amendment of the Matrimonial Causes (Northern Ireland) Order 1978[^key-b171277380ac69f3b4d0c1c1ab841f55]
+##### 8. Amendment of the Matrimonial Causes (Northern Ireland) Order 1978[^c-b171277380ac69f3b4d0c1c1ab841f55]
 
 (1) The Matrimonial Causes (Northern Ireland) Order 1978 [^c23627421] is amended as follows.
 
@@ -293,7 +293,7 @@ In Schedule 1 (maintenance orders to which this Act applies) to the Attachment o
 
   ;
 - (c) omit paragraph (3A);
-- (d)[^key-5422dd9f0023a3aa35f801e79397ef7f] for paragraph (5) substitute—
+- (d)[^c-5422dd9f0023a3aa35f801e79397ef7f] for paragraph (5) substitute—
 
   > (5) The court has jurisdiction to entertain an application for financial provision under Article 29 if (and only if)—
   >
@@ -311,7 +311,7 @@ In Schedule 1 (maintenance orders to which this Act applies) to the Attachment o
 
 (5) In paragraph 9 of Schedule 1 (staying of matrimonial proceedings), in sub-paragraph (1), omit “, other than proceedings governed by the Council Regulation,”.
 
-##### 9. Amendment of the Domestic Proceedings (Northern Ireland) Order 1980[^key-fd90a9ed06ba46a226bccaa994971db2]
+##### 9. Amendment of the Domestic Proceedings (Northern Ireland) Order 1980[^c-fd90a9ed06ba46a226bccaa994971db2]
 
 In Article 32 (jurisdiction) of the Domestic Proceedings (Northern Ireland) Order 1980 [^c23627431]—
 
@@ -319,7 +319,7 @@ In Article 32 (jurisdiction) of the Domestic Proceedings (Northern Ireland) Orde
 - (b) omit paragraph (1A);
 - (c) omit paragraph (6).
 
-##### 10. Amendment of the Magistrates' Courts (Northern Ireland) Order 1981[^key-95cf2c014ae053d467ae5ac41abd719d]
+##### 10. Amendment of the Magistrates' Courts (Northern Ireland) Order 1981[^c-95cf2c014ae053d467ae5ac41abd719d]
 
 (1) The Magistrates' Courts (Northern Ireland) Order 1981 [^c23627441] is amended as follows.
 
@@ -340,11 +340,11 @@ In Article 32 (jurisdiction) of the Domestic Proceedings (Northern Ireland) Orde
 - (b) in paragraph (11), omit sub-paragraph (bb);
 - (c) in paragraph (13), omit sub-paragraph (a).
 
-##### 11. Amendment of the Senior Courts Act 1981[^key-21ced6a1caa44d74a5e0a9a084998aec]
+##### 11. Amendment of the Senior Courts Act 1981[^c-21ced6a1caa44d74a5e0a9a084998aec]
 
 In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 1981 [^c23627451] omit paragraph 3(f)(v).
 
-##### 12. Amendment of the Civil Jurisdiction and Judgments Act 1982[^key-c7eff0dd549b6e1a3206b36e0b1f2c63]
+##### 12. Amendment of the Civil Jurisdiction and Judgments Act 1982[^c-c7eff0dd549b6e1a3206b36e0b1f2c63]
 
 (1) The Civil Jurisdiction and Judgments Act 1982 [^c23627461] is amended as follows.
 
@@ -409,17 +409,17 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 - (a) “the Maintenance Regulation”;
 - (b) “Maintenance Regulation State”.
 
-(14)[^key-b19a0ecd90eb58147b67dc1d42874f98] In Schedule 8 (rules as to jurisdiction in Scotland), in paragraph 2, after sub-paragraph (d) insert—
+(14)[^c-b19a0ecd90eb58147b67dc1d42874f98] In Schedule 8 (rules as to jurisdiction in Scotland), in paragraph 2, after sub-paragraph (d) insert—
 
 > - (e) in matters relating to maintenance, in the courts for the place where the maintenance creditor is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which has jurisdiction to entertain those proceedings, provided that an action of affiliation and aliment shall be treated as a matter relating to maintenance which is not ancillary to proceedings concerning the status of a person;
 
 .
 
-##### 13. Amendment of the Matrimonial and Family Proceedings Act 1984[^key-010ceaf938f5fe386eafdbb816eff553]
+##### 13. Amendment of the Matrimonial and Family Proceedings Act 1984[^c-010ceaf938f5fe386eafdbb816eff553]
 
 (1) The Matrimonial and Family Proceedings Act 1984 [^c23627471] is amended as follows.
 
-(2)[^key-3b8e4b86b4a1734f2b4aae0f8e43f5d2] In section 15 (jurisdiction of the court)—
+(2)[^c-3b8e4b86b4a1734f2b4aae0f8e43f5d2] In section 15 (jurisdiction of the court)—
 
 - (a) in subsection (1), for “subsections (1A) and (2)” substitute “subsection (1A)”;
 - (b) in subsection (1A), for the words from “where” to “the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
@@ -431,7 +431,7 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 - (b) omit subsection (3);
 - (c) omit subsection (4).
 
-(4)[^key-32d9f89946a7282c8490df01dacdc046] In section 28 (circumstances in which a Scottish court may entertain application for financial provision)—
+(4)[^c-32d9f89946a7282c8490df01dacdc046] In section 28 (circumstances in which a Scottish court may entertain application for financial provision)—
 
 - (a) in subsection (1), for “subsections (3A) and (4)” substitute “subsection (3A)”;
 - (b) in subsection (3A), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
@@ -439,7 +439,7 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 
   > (5) “The 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague.
 
-##### 14. Amendment of the Child Abduction and Custody Act 1985[^key-e015b294850d0a63ec8a0dcd6dd75dcf]
+##### 14. Amendment of the Child Abduction and Custody Act 1985[^c-e015b294850d0a63ec8a0dcd6dd75dcf]
 
 (1) The Child Abduction and Custody Act 1985 [^c23627481] is amended as follows.
 
@@ -453,7 +453,7 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 - (a) subsection (3);
 - (b) subsection (4).
 
-##### 15. Amendment of the Family Law Act 1986[^key-d3a71126a8d97c7bbff7f608a6cb5407]
+##### 15. Amendment of the Family Law Act 1986[^c-d3a71126a8d97c7bbff7f608a6cb5407]
 
 (1) The Family Law Act 1986 [^c23627491] is amended as follows.
 
@@ -472,7 +472,7 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 - (c) in subsection (3B)—
   - (i) omit “or (3A)”;
   - (ii) omit “, (3A)”;
-- (d) in subsection (4), for “Council Regulation” substitute “Hague Convention”[^key-3aaffca2e0437cc2b6105d2a96589713].
+- (d) in subsection (4), for “Council Regulation” substitute “Hague Convention”[^c-3aaffca2e0437cc2b6105d2a96589713].
 
 (4) In section 19 (jurisdiction: general)—
 
@@ -486,7 +486,7 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
   - (ii) omit paragraph (c);
   - (iii) in the words after subsection (d), omit “Article 15 of the Council Regulation or”;
 - (b) omit subsection (3A);
-- (c) in subsection (4), for “Council Regulation” substitute “Hague Convention”[^key-748a739b34a48ccaf1f36df501cd1f30].
+- (c) in subsection (4), for “Council Regulation” substitute “Hague Convention”[^c-748a739b34a48ccaf1f36df501cd1f30].
 
 (6) In section 42 (general interpretation of Part I), in subsection (1), omit the definition of “the Council Regulation”.
 
@@ -497,7 +497,7 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 
 (8) In section 54, in subsection (1), omit the definition of “the Council Regulation”.
 
-##### 16. Amendment of the Debtors (Scotland) Act 1987[^key-de5cd755cc732ccd6fcf33ab1088638d]
+##### 16. Amendment of the Debtors (Scotland) Act 1987[^c-de5cd755cc732ccd6fcf33ab1088638d]
 
 (1) The Debtors (Scotland) Act 1987 [^c23627501] is amended as follows.
 
@@ -524,20 +524,20 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
   - (ii) paragraph (ga);
 - (c) the definition of “the Maintenance Regulation”.
 
-##### 17. Amendment of the Children Act 1989[^key-00462fffe9019d0d779527f55a972b28]
+##### 17. Amendment of the Children Act 1989[^c-00462fffe9019d0d779527f55a972b28]
 
 (1) Schedule 1 (financial provision for children) to the Children Act 1989 [^c23627511] is amended as follows.
 
-(2)[^key-b34167231ce751583cda12cb07a84d46] In paragraph 10 (alteration of maintenance agreements)—
+(2)[^c-b34167231ce751583cda12cb07a84d46] In paragraph 10 (alteration of maintenance agreements)—
 
 - (a) in sub-paragraph (2A), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
 - (b) in sub-paragraph (2B), for the words from ““the Maintenance Regulation”” to the end substitute ““the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague”.
 
-(2A)[^key-4bcfc8d574e2bd39510c07626e4c4d97] In the italic heading before paragraph 14, omit “in relation to matters relating to maintenance”.
+(2A)[^c-4bcfc8d574e2bd39510c07626e4c4d97] In the italic heading before paragraph 14, omit “in relation to matters relating to maintenance”.
 
 (3) For paragraph 14 (jurisdiction in matters relating to maintenance) substitute—
 
-> **14.**[^key-de649ee2df79eba5ba4aadd8ad396642] (1) The court has jurisdiction in relation to an application under paragraph 1 in respect of a child if any of the following persons are habitually resident or domiciled in England and Wales on the date of the application—
+> **14.**[^c-de649ee2df79eba5ba4aadd8ad396642] (1) The court has jurisdiction in relation to an application under paragraph 1 in respect of a child if any of the following persons are habitually resident or domiciled in England and Wales on the date of the application—
 >
 > - (a) a parent of the child;
 > - (b) a guardian or special guardian of the child;
@@ -548,11 +548,11 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 
 .
 
-##### 18. Amendment of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^key-2afc01238fc8b3c91a07317287b4ae5d]
+##### 18. Amendment of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c-2afc01238fc8b3c91a07317287b4ae5d]
 
 (1) The Matrimonial and Family Proceedings (Northern Ireland) Order 1989 [^c23627521] is amended as follows.
 
-(2)[^key-d5b213f98cb5896b2f51a2de21520900] In Article 19 (jurisdiction of the court)—
+(2)[^c-d5b213f98cb5896b2f51a2de21520900] In Article 19 (jurisdiction of the court)—
 
 - (a) in paragraph (1), for “paragraphs (1A) and (2)” substitute “paragraph (1A)”;
 - (b) in paragraph (1A), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
@@ -564,48 +564,48 @@ In Schedule 1 (distribution of business in High Court) to the Senior Courts Act 
 - (b) omit paragraph (3);
 - (c) omit paragraph (4).
 
-##### 19. Amendment of the Child Support Act 1991[^key-efdd7061c20852790541c9b80d4d2136]
+##### 19. Amendment of the Child Support Act 1991[^c-efdd7061c20852790541c9b80d4d2136]
 
 In section 44 (jurisdiction) of the Child Support Act 1991 [^c23627531] omit—
 
 - (a) subsection (4);
 - (b) subsection (5).
 
-##### 20. Amendment of the Child Support (Northern Ireland) Order 1991[^key-54837716bdff09e0869bcf0e45728dd6]
+##### 20. Amendment of the Child Support (Northern Ireland) Order 1991[^c-54837716bdff09e0869bcf0e45728dd6]
 
 In Article 41 (jurisdiction) of the Child Support (Northern Ireland) Order 1991 [^c23627541] omit—
 
 - (a) paragraph (4);
 - (b) paragraph (5).
 
-##### 21. Amendment of the Social Security Administration Act 1992[^key-d9534743f534f492a414ddbc6e8524d9]
+##### 21. Amendment of the Social Security Administration Act 1992[^c-d9534743f534f492a414ddbc6e8524d9]
 
 In section 108 (reduction of expenditure on income support: certain maintenance orders to be enforceable by the Secretary of State) of the Social Security Administration Act 1992 [^c23627551]—
 
 - (a) in subsection (4), omit paragraph (aa);
 - (b) omit subsection (9).
 
-##### 22. Amendment of the Social Security Administration (Northern Ireland) Act 1992[^key-17cf906aea5098bb784d6e94c2a4a18e]
+##### 22. Amendment of the Social Security Administration (Northern Ireland) Act 1992[^c-17cf906aea5098bb784d6e94c2a4a18e]
 
 In section 103 (reduction of expenditure on income support: certain maintenance orders to be enforceable by the Department) of the Social Security Administration (Northern Ireland) Act 1992 [^c23627561]—
 
 - (a) in subsection (4), omit paragraph (aa);
 - (b) omit subsection (9).
 
-##### 23. Amendment of the Children (Northern Ireland) Order 1995[^key-eaf60c34776b3e7d7cd2fa46341717a9]
+##### 23. Amendment of the Children (Northern Ireland) Order 1995[^c-eaf60c34776b3e7d7cd2fa46341717a9]
 
 (1) Schedule 1 to the Children (Northern Ireland) Order 1995 [^c23627571] is amended as follows.
 
-(2)[^key-809b78f4ef338b6ec9667b271567b946] In paragraph 12 (alteration of maintenance agreements)—
+(2)[^c-809b78f4ef338b6ec9667b271567b946] In paragraph 12 (alteration of maintenance agreements)—
 
 - (a) in sub-paragraph (2A), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
 - (b) in sub-paragraph (2B), for ““the Maintenance Regulation”” to the end substitute ““the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague”.
 
-(2A)[^key-e462c0858a8bf3f6c122c6c6fb2b963f] In the italic heading before paragraph 16, omit “in relation to matters relating to maintenance”.
+(2A)[^c-e462c0858a8bf3f6c122c6c6fb2b963f] In the italic heading before paragraph 16, omit “in relation to matters relating to maintenance”.
 
 (3) For paragraph 16 (jurisdiction in relation to matters relating to maintenance) substitute—
 
-> **16.**[^key-cd36dd3cfe0c620d75f9d9069d523ed1] (1) The court has jurisdiction in relation to an application under paragraph 2 in respect of a child if any of the following persons are habitually resident or domiciled in Northern Ireland on the date of the application—
+> **16.**[^c-cd36dd3cfe0c620d75f9d9069d523ed1] (1) The court has jurisdiction in relation to an application under paragraph 2 in respect of a child if any of the following persons are habitually resident or domiciled in Northern Ireland on the date of the application—
 >
 > - (a) a parent of the child;
 > - (b) a guardian of the child;
@@ -616,7 +616,7 @@ In section 103 (reduction of expenditure on income support: certain maintenance 
 
 .
 
-##### 24. Amendment of the Debt Arrangement and Attachment (Scotland) Act 2002[^key-2746858e68075071233336476e0319b3]
+##### 24. Amendment of the Debt Arrangement and Attachment (Scotland) Act 2002[^c-2746858e68075071233336476e0319b3]
 
 In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act 2002 [^c23627581], in subsection (5)—
 
@@ -629,14 +629,14 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
     ;
   - (ii) omit the definition of “the Maintenance Regulation” and the “and” which precedes it.
 
-##### 25. Amendment of the Civil Partnership Act 2004[^key-65919b994c30568820469d3de449566b]
+##### 25. Amendment of the Civil Partnership Act 2004[^c-65919b994c30568820469d3de449566b]
 
 (1) The Civil Partnership Act 2004 [^c23627591] is amended as follows.
 
 (2) In section 227 (Scottish ancillary and collateral orders)—
 
-- (a) in subsection (3), for “subsections (3A) and (3B)” substitute “subsection (3A)” and at the end insert “This subsection is subject to subsection (3B).”[^key-0d38da0665b13dc687d092570b19366e];
-- (b)[^key-168d373476ca9546cbd96f6c355eb0bc] in subsection (3B), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part it except where permitted by Article18”;
+- (a) in subsection (3), for “subsections (3A) and (3B)” substitute “subsection (3A)” and at the end insert “This subsection is subject to subsection (3B).”[^c-0d38da0665b13dc687d092570b19366e];
+- (b)[^c-168d373476ca9546cbd96f6c355eb0bc] in subsection (3B), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part it except where permitted by Article18”;
 - (c) in subsection (6), for the words from ““the Maintenance Regulation”” to the end substitute ““the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague”.
 
 (3) In Schedule 5 (financial relief: provision corresponding to provision made by Part 2 of the Matrimonial Causes Act 1973), in Part 9 (failure to maintain: financial provision (and interim orders)), in paragraph 39 (circumstances in which orders under this Part may be made)—
@@ -650,7 +650,7 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
   > - (c) the respondent is resident there on that date.
 
   ;
-- (b)[^key-4e52b949fcad05c2ca9adceab14749af] after sub-paragraph (2) insert—
+- (b)[^c-4e52b949fcad05c2ca9adceab14749af] after sub-paragraph (2) insert—
 
   > (2A) If the application or part of it relates to a matter to which Article 18 of the 2007 Hague Convention applies, the court must not entertain the application or that part of it except where permitted by Article 18.
 
@@ -670,7 +670,7 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
 
 (6) In Schedule 7 (financial relief in England and Wales after overseas dissolution etc. of a civil partnership), in Part 1 (financial relief) —
 
-- (a)[^key-cde3146d85a7dd7193dd22362406f79b] in paragraph 7 (jurisdiction of the court)—
+- (a)[^c-cde3146d85a7dd7193dd22362406f79b] in paragraph 7 (jurisdiction of the court)—
   - (i) in sub-paragraph (6), for the words from “where jurisdiction falls” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain that application or part of it except where permitted by Article 18”;
   - (ii) in sub-paragraph (7), for the words from ““the Maintenance Regulation”” to the end substitute ““the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague”.
 - (b) in paragraph 8 (duty of the court to consider whether England and Wales is appropriate venue for application)—
@@ -680,7 +680,7 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
 
 (7) In Schedule 11, in Part 2 (circumstances in which the court may entertain application for financial provision), in paragraph 2—
 
-- (a)[^key-307b1b9a67e0c1e62d0d2cbe7c7cca03] in sub-paragraph (1), for “sub-paragraphs (3A) and (4)” substitute “sub-paragraph (3A)”;
+- (a)[^c-307b1b9a67e0c1e62d0d2cbe7c7cca03] in sub-paragraph (1), for “sub-paragraphs (3A) and (4)” substitute “sub-paragraph (3A)”;
 - (b) in sub-paragraph (3A), for the words from “where” to the end substitute “in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
 - (c) in sub-paragraph (5), for the words from ““the Maintenance Regulation”” to the end substitute ““the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague”.
 
@@ -696,7 +696,7 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
     > - (c) the respondent is resident there on that date.
 
     ;
-  - (ii)[^key-4db974fb46534072d0c27a044b863515] after sub-paragraph (2) insert—
+  - (ii)[^c-4db974fb46534072d0c27a044b863515] after sub-paragraph (2) insert—
 
     > (2A) If the application or part of it relates to a matter to which Article 18 of the 2007 Hague Convention applies, the court must not entertain the application or that part of it except where permitted by Article 18.
 
@@ -709,7 +709,7 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
 
 (9) In Schedule 17 (financial relief in Northern Ireland after overseas dissolution etc of a civil partnership), in Part 1 (financial relief)—
 
-- (a)[^key-7a161ff59df7b8ee638b6c374b49d46a] in paragraph 7—
+- (a)[^c-7a161ff59df7b8ee638b6c374b49d46a] in paragraph 7—
   - (i) in sub-paragraph (6), for the words from “where jurisdiction falls” to the end substitute “to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18”;
   - (ii) in sub-paragraph (7), for the words from ““the Maintenance Regulation”” to the end substitute ““the 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague”;
 - (b) in paragraph 8—
@@ -717,14 +717,14 @@ In section 10 (attachment) of the Debt Arrangement and Attachment (Scotland) Act
   - (ii) omit sub-paragraph (4);
   - (iii) omit sub-paragraph (5).
 
-##### 26. Amendment of the Mental Capacity Act 2005[^key-dd15a3e350604641a6604d94243a2efb]
+##### 26. Amendment of the Mental Capacity Act 2005[^c-dd15a3e350604641a6604d94243a2efb]
 
 In Schedule 3 (international protection of adults) to the Mental Capacity Act 2005 [^c23627601], in paragraph 4(2) omit—
 
 - (a) “either of”;
 - (b) paragraph (b).
 
-##### 27. Amendment of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^key-db538cb2f88aa39ca63178e6aa312420]
+##### 27. Amendment of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^c-db538cb2f88aa39ca63178e6aa312420]
 
 In section 221 (interpretation) of the Bankruptcy and Diligence etc. (Scotland) Act 2007 [^c23627611] omit—
 
@@ -732,14 +732,14 @@ In section 221 (interpretation) of the Bankruptcy and Diligence etc. (Scotland) 
 - (b) in the definition of “document of debt” omit paragraph (d);
 - (c) the definition of “the Maintenance Regulation”.
 
-##### 28. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-7b157543f4d3c19ff0cb983528c90777]
+##### 28. Amendment of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-7b157543f4d3c19ff0cb983528c90777]
 
 In the Legal Aid, Sentencing and Punishment of Offenders Act 2012 [^c23627621], in Schedule 1 (civil legal services), in Part 1 (services)—
 
 - (a) in paragraph 17 (EU and international agreements concerning children), in the heading, for “EU” substitute “ Transitional EU arrangements ”;
 - (b) in paragraph 18 (EU and international agreements concerning maintenance), in the heading, for “EU” substitute “ Transitional EU arrangements ”.
 
-##### 29. Amendment of the Mental Capacity Act (Northern Ireland) 2016[^key-fdd19a718ec5707adc819e40950f9c61]
+##### 29. Amendment of the Mental Capacity Act (Northern Ireland) 2016[^c-fdd19a718ec5707adc819e40950f9c61]
 
 In Schedule 9 (international protection of adults) to the Mental Capacity Act (Northern Ireland) 2016 [^c23627631], in paragraph 6(1)—
 
@@ -748,14 +748,14 @@ In Schedule 9 (international protection of adults) to the Mental Capacity Act (N
 
 #### PART 2 — Amendment of secondary legislation
 
-##### 30. Amendment of the Recovery Abroad of Maintenance (Convention Countries) Order 1975[^key-ea54a8c3f8b0194dd07fb9db38be3ff5]
+##### 30. Amendment of the Recovery Abroad of Maintenance (Convention Countries) Order 1975[^c-ea54a8c3f8b0194dd07fb9db38be3ff5]
 
 In the Schedule to the Recovery Abroad of Maintenance (Convention Countries) Order 1975 [^c23627641]—
 
 - (a) after Croatia, insert “ Denmark ”;
 - (b) at the end, for “special provision about Norway” substitute “ special provision about Austria, Belgium, Cyprus, Czech Republic, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands (Kingdom in Europe), Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden ”.
 
-##### 31. Amendment of the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993[^key-91304e17d282f43876589e3693d0e947]
+##### 31. Amendment of the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993[^c-91304e17d282f43876589e3693d0e947]
 
 (1) The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993 [^c23627651] is amended as follows.
 
@@ -931,26 +931,26 @@ In the Schedule to the Recovery Abroad of Maintenance (Convention Countries) Ord
 
 (16) In the modified section 21, in subsection (1), omit the definition of “the Maintenance Regulation”.
 
-##### 32. Revocation of the European Communities (Matrimonial Jurisdiction and Judgments) Regulations 2001[^key-17b94dd9502df27ce587973cb726b8c6]
+##### 32. Revocation of the European Communities (Matrimonial Jurisdiction and Judgments) Regulations 2001[^c-17b94dd9502df27ce587973cb726b8c6]
 
 The European Communities (Matrimonial Jurisdiction and Judgments) Regulations 2001 [^c23627661] are revoked.
 
-##### 33. Revocation of the European Communities (Matrimonial Jurisdiction and Judgments) (Northern Ireland) Regulations 2001[^key-f1b833b319d9b31fef521c7b33128097]
+##### 33. Revocation of the European Communities (Matrimonial Jurisdiction and Judgments) (Northern Ireland) Regulations 2001[^c-f1b833b319d9b31fef521c7b33128097]
 
 The European Communities (Matrimonial Jurisdiction and Judgments) (Northern Ireland) Regulations 2001 [^c23627671] are revoked.
 
-##### 34. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-ee27e5895c35a4b16272f4973d1a995f]
+##### 34. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-ee27e5895c35a4b16272f4973d1a995f]
 
 In regulation 46 of the Civil Legal Aid (Scotland) Regulations 2002 [^c23627681] omit—
 
 - (a) sub-paragraph (1)(c);
 - (b) paragraph (4).
 
-##### 35. Revocation of the European Communities (Jurisdiction and Judgments in Matrimonial and Parental Responsibility Matters) Regulations 2005[^key-05a21ca822f737ba185a1ddb2f54320c]
+##### 35. Revocation of the European Communities (Jurisdiction and Judgments in Matrimonial and Parental Responsibility Matters) Regulations 2005[^c-05a21ca822f737ba185a1ddb2f54320c]
 
 The European Communities (Jurisdiction and Judgments in Matrimonial and Parental Responsibility Matters) Regulations 2005 [^c23627691] are revoked.
 
-##### 36. Amendment of the Armed Forces (Forfeitures and Deductions) Regulations 2009[^key-ef36fcdd1c24c3c573151391e85d57b0]
+##### 36. Amendment of the Armed Forces (Forfeitures and Deductions) Regulations 2009[^c-ef36fcdd1c24c3c573151391e85d57b0]
 
 (1) The Armed Forces (Forfeitures and Deductions) Regulations 2009 [^c23627701] is amended as follows.
 
@@ -966,7 +966,7 @@ The European Communities (Jurisdiction and Judgments in Matrimonial and Parental
 
 (5) In regulation 11, in paragraph (2)(b), for “, 8(2) or 8(2A)” substitute “ or 8(2) ”.
 
-##### 37. Amendment of the Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010[^key-a97fcffd6d8593cf7e27aedf0a09f28c]
+##### 37. Amendment of the Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010[^c-a97fcffd6d8593cf7e27aedf0a09f28c]
 
 (1) The Parental Responsibility and Measures for the Protection of Children (International Obligations) (England and Wales and Northern Ireland) Regulations 2010 [^c23627711] are amended as follows.
 
@@ -1002,7 +1002,7 @@ The European Communities (Jurisdiction and Judgments in Matrimonial and Parental
   - (i) “or Articles 8 to 14 of the Council Regulation, as the case may be”;
   - (ii) sub-paragraph (b) and the “or” which precedes it.
 
-##### 38. Amendment of the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011[^key-2ea007aff97d522c68ff71c69e5b530a]
+##### 38. Amendment of the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011[^c-2ea007aff97d522c68ff71c69e5b530a]
 
 (1) The Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 [^c23627721] are amended as follows.
 
@@ -1020,7 +1020,7 @@ The European Communities (Jurisdiction and Judgments in Matrimonial and Parental
 
 (8) Omit Schedules 5 and 6.
 
-##### 39. Amendment of the International Recovery of Maintenance (Hague Convention 2007 etc) Regulations 2012[^key-056faea543b23cfb5bbd91c8ffdaaad5]
+##### 39. Amendment of the International Recovery of Maintenance (Hague Convention 2007 etc) Regulations 2012[^c-056faea543b23cfb5bbd91c8ffdaaad5]
 
 (1) The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations 2012 [^c23627731] are amended as follows.
 
@@ -1080,7 +1080,7 @@ The European Communities (Jurisdiction and Judgments in Matrimonial and Parental
   - (ii) in paragraph (3), after “1972” insert “ ; and “**the 2007 Hague Convention**” means the Convention on the International Recovery of Child Support and other forms of Family Maintenance done at The Hague on 23rd November 2007 ”;
 - (c) omit paragraph 8 (Civil Jurisdiction and Judgments Maintenance Regulations 2011).
 
-##### 40. Amendment of the International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations (Northern Ireland) 2012[^key-96685156e7d8ff5dc74e24cd7b6ada51]
+##### 40. Amendment of the International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations (Northern Ireland) 2012[^c-96685156e7d8ff5dc74e24cd7b6ada51]
 
 (1) The International Recovery of Maintenance (Hague Convention 2007 etc.) Regulations (Northern Ireland) 2012 [^c23627741] are amended as follows.
 
@@ -1107,7 +1107,7 @@ The European Communities (Jurisdiction and Judgments in Matrimonial and Parental
 
 (9) For the heading of Schedule 5 (amendments relating to the Maintenance Regulation) substitute “ Further amendments ”.
 
-##### 41. The Civil Legal Aid (Merits Criteria) Regulations 2013[^key-e09f48a0731057f77da79cc10593a35f]
+##### 41. The Civil Legal Aid (Merits Criteria) Regulations 2013[^c-e09f48a0731057f77da79cc10593a35f]
 
 (1) The Civil Legal Aid (Merits Criteria) Regulations 2013 [^c23627751] are amended as follows.
 
@@ -1137,7 +1137,7 @@ The European Communities (Jurisdiction and Judgments in Matrimonial and Parental
   - (i) in sub-paragraph (b), for “EU”, substitute “ Transitional EU arrangements ”;
   - (ii) in sub-paragraph (c), for “EU”, substitute “ Transitional EU arrangements ”.
 
-##### 42. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^key-f08f596cf7778b1df3260d816aeb4b4d]
+##### 42. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^c-f08f596cf7778b1df3260d816aeb4b4d]
 
 (1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013 [^c23627761] are amended as follows.
 
@@ -1166,232 +1166,232 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23627341]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-84a708aca01d04a07abdbef1494e1718]: Commencement: Reg. 1 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-84a708aca01d04a07abdbef1494e1718]: Commencement: Reg. 1 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-e689e21f9d73a385d6eebcc7d7143b62]: Commencement: Reg. 2 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-e689e21f9d73a385d6eebcc7d7143b62]: Commencement: Reg. 2 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-d5fde9f165e4dbf6ba8199d29a555a28]: Commencement: Reg. 3 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-d5fde9f165e4dbf6ba8199d29a555a28]: Commencement: Reg. 3 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-fc925c0845aafc52f1da2b0e6fbb47a3]: Commencement: Reg. 4 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-fc925c0845aafc52f1da2b0e6fbb47a3]: Commencement: Reg. 4 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-56e64d364e88fe142203cb67ec697124]: Commencement: Reg. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-56e64d364e88fe142203cb67ec697124]: Commencement: Reg. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-035379685714185b4484b8efe2572fc9]: Commencement: Reg. 6 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-035379685714185b4484b8efe2572fc9]: Commencement: Reg. 6 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-ed594e82deac879adac4185aef65f8a3]: Commencement: Reg. 7 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-ed594e82deac879adac4185aef65f8a3]: Commencement: Reg. 7 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
-[^key-fce52ae3866c9cd4f6ae4954e3290562]: Commencement: Reg. 8 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-fce52ae3866c9cd4f6ae4954e3290562]: Commencement: Reg. 8 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
-[^key-3386777e486c5af09d39742c521119b1]: Textual amendment: Reg. 8 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)
+[^c-3386777e486c5af09d39742c521119b1]: Textual amendment: Reg. 8 substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)
 
-[^key-1a12763e543f3fe07eba4ba7542c14bd]: Commencement: Sch. para. 1 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-1a12763e543f3fe07eba4ba7542c14bd]: Commencement: Sch. para. 1 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627351]: Marginal citation: [1950 c. 37](https://www.legislation.gov.uk/ukpga/1950/37). Section 15(1) was amended by paragraph 11 of Schedule 3 to the Administration of Justice Act 1977 (c. 38.) and [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484). There are other amending instruments but none is relevant.
 
-[^key-93488f57a2fa0510b03d72920476fc8b]: Commencement: Sch. para. 2 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-93488f57a2fa0510b03d72920476fc8b]: Commencement: Sch. para. 2 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627361]: Marginal citation: [1966 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1966/35). Section 10(5) was inserted by paragraph 5 of the Schedule to the Maintenance Orders (Reciprocal Enforcement) Act 1972. The other relevant amending instruments are [S.I. 1993/1576 (N.I. 6)](https://www.legislation.gov.uk/nisi/1993/1576), 2011/1484, [S.R. 2012/413](https://www.legislation.gov.uk/nisr/2012/413).
 
-[^key-031a970df788eb5dae0b19cfb874b10e]: Commencement: Sch. para. 3 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-031a970df788eb5dae0b19cfb874b10e]: Commencement: Sch. para. 3 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627371]: Marginal citation: [1970 c. 31](https://www.legislation.gov.uk/ukpga/1970/31); relevant amending instruments are [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), 2012/2814, 2014/605 (L. 9).
 
-[^key-8a705456cc642f5af38789747be5f00c]: Commencement: Sch. para. 4 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-8a705456cc642f5af38789747be5f00c]: Commencement: Sch. para. 4 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627381]: Marginal citation: [1971 c. 32](https://www.legislation.gov.uk/ukpga/1971/32); relevant amending instruments are [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), 2012/2814, 2014/605 (L. 9).
 
-[^key-4c1614e7f9571b30217cb4866dd3f24e]: Commencement: Sch. para. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-4c1614e7f9571b30217cb4866dd3f24e]: Commencement: Sch. para. 5 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627391]: Marginal citation: [1972 c. 18](https://www.legislation.gov.uk/ukpga/1972/18). Sections 35 and 35A were substituted by paragraph 16 of Schedule 1 to the [Maintenance Orders (Reciprocal Enforcement) Act 1992 (c. 56)](https://www.legislation.gov.uk/ukpga/1992/56). The other relevant amending instrument is [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814).
 
-[^key-b79019d187dce67ed197b699b9583bbe]: Textual amendment: Words in Sch. para. 5(2)(b) omitted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/a)
+[^c-b79019d187dce67ed197b699b9583bbe]: Textual amendment: Words in Sch. para. 5(2)(b) omitted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/a)
 
-[^key-1effb298036768c01a28f498be52c114]: Commencement: Sch. para. 6 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-1effb298036768c01a28f498be52c114]: Commencement: Sch. para. 6 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627401]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-d3a154b2d0532563ed638b3b58c09510]: Textual amendment: Sch. para. 6(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/b)
+[^c-d3a154b2d0532563ed638b3b58c09510]: Textual amendment: Sch. para. 6(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/b)
 
-[^key-cf3a25a2a765bd74f8ca815b9dcd21a4]: Commencement: Sch. para. 7 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-cf3a25a2a765bd74f8ca815b9dcd21a4]: Commencement: Sch. para. 7 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627411]: Marginal citation: [1973 c. 45](https://www.legislation.gov.uk/ukpga/1973/45). Section 5 was amended by paragraph 66 to Schedule 11 of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and [S.I. 2001/310](https://www.legislation.gov.uk/uksi/2001/310); 2005/265, section 10 was amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484) and schedule 1 was amended by [S.I. 2001/310](https://www.legislation.gov.uk/uksi/2001/310). There are other amending instruments but none is relevant.
 
-[^key-b171277380ac69f3b4d0c1c1ab841f55]: Commencement: Sch. para. 8 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-b171277380ac69f3b4d0c1c1ab841f55]: Commencement: Sch. para. 8 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627421]: Marginal citation: [S.I. 1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045), relevant amending instruments are [S.I. 2001/660](https://www.legislation.gov.uk/uksi/2001/660), 2005/265, 2011/1484.
 
-[^key-5422dd9f0023a3aa35f801e79397ef7f]: Textual amendment: Sch. para. 8(4)(d)-(f) substituted for Sch. para. 8(4)(d)(e) (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/c)
+[^c-5422dd9f0023a3aa35f801e79397ef7f]: Textual amendment: Sch. para. 8(4)(d)-(f) substituted for Sch. para. 8(4)(d)(e) (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/c)
 
-[^key-fd90a9ed06ba46a226bccaa994971db2]: Commencement: Sch. para. 9 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-fd90a9ed06ba46a226bccaa994971db2]: Commencement: Sch. para. 9 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627431]: Marginal citation: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563). Article 32 was amended by paragraph 34 of Schedule 1 to the [Family Law Act 1986 (c. 55)](https://www.legislation.gov.uk/ukpga/1986/55), [paragraph 81](https://www.legislation.gov.uk/ukpga/1986/55/paragraph/81) of Schedule 1 to the Justice Act (Northern Ireland) 2015 and [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484). There are other amending instruments but none is relevant.
 
-[^key-95cf2c014ae053d467ae5ac41abd719d]: Commencement: Sch. para. 10 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-95cf2c014ae053d467ae5ac41abd719d]: Commencement: Sch. para. 10 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627441]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-21ced6a1caa44d74a5e0a9a084998aec]: Commencement: Sch. para. 11 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-21ced6a1caa44d74a5e0a9a084998aec]: Commencement: Sch. para. 11 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627451]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54). The Senior Courts Act 1981 was renamed by paragraph 1(1) of Schedule 11 to the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), the other relevant amending instrument is [S.I. 2005/265](https://www.legislation.gov.uk/uksi/2005/265).
 
-[^key-c7eff0dd549b6e1a3206b36e0b1f2c63]: Commencement: Sch. para. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c7eff0dd549b6e1a3206b36e0b1f2c63]: Commencement: Sch. para. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627461]: Marginal citation: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-b19a0ecd90eb58147b67dc1d42874f98]: Textual amendment: Sch. para. 12(14) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/d)
+[^c-b19a0ecd90eb58147b67dc1d42874f98]: Textual amendment: Sch. para. 12(14) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/d)
 
-[^key-010ceaf938f5fe386eafdbb816eff553]: Commencement: Sch. para. 13 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-010ceaf938f5fe386eafdbb816eff553]: Commencement: Sch. para. 13 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627471]: Marginal citation: [1984 c. 42](https://www.legislation.gov.uk/ukpga/1984/42), as amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-3b8e4b86b4a1734f2b4aae0f8e43f5d2]: Textual amendment: Sch. para. 13(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/e/i)
+[^c-3b8e4b86b4a1734f2b4aae0f8e43f5d2]: Textual amendment: Sch. para. 13(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/e/i)
 
-[^key-32d9f89946a7282c8490df01dacdc046]: Textual amendment: Sch. para. 13(4) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/e/ii)
+[^c-32d9f89946a7282c8490df01dacdc046]: Textual amendment: Sch. para. 13(4) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/e/ii)
 
-[^key-e015b294850d0a63ec8a0dcd6dd75dcf]: Commencement: Sch. para. 14 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-e015b294850d0a63ec8a0dcd6dd75dcf]: Commencement: Sch. para. 14 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627481]: Marginal citation: [1985 c. 60](https://www.legislation.gov.uk/ukpga/1985/60), amended by [S.I. 2005/42](https://www.legislation.gov.uk/uksi/2005/42), 2005/265.
 
-[^key-d3a71126a8d97c7bbff7f608a6cb5407]: Commencement: Sch. para. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d3a71126a8d97c7bbff7f608a6cb5407]: Commencement: Sch. para. 15 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627491]: Marginal citation: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55). Section (2C) was inserted by section 9(6) of the [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). The other relevant amending instruments are [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755), 2005/265, 2010/1898.
 
-[^key-3aaffca2e0437cc2b6105d2a96589713]: Textual amendment: Words in Sch. para. 15(3)(d) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/f/i)
+[^c-3aaffca2e0437cc2b6105d2a96589713]: Textual amendment: Words in Sch. para. 15(3)(d) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(f)(i)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/f/i)
 
-[^key-748a739b34a48ccaf1f36df501cd1f30]: Textual amendment: Words in Sch. para. 15(5)(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/f/ii)
+[^c-748a739b34a48ccaf1f36df501cd1f30]: Textual amendment: Words in Sch. para. 15(5)(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/f/ii)
 
-[^key-de5cd755cc732ccd6fcf33ab1088638d]: Commencement: Sch. para. 16 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-de5cd755cc732ccd6fcf33ab1088638d]: Commencement: Sch. para. 16 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627501]: Marginal citation: [1987 c. 18](https://www.legislation.gov.uk/ukpga/1987/18); relevant amending instruments are [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), [S.S.I. 2012/301](https://www.legislation.gov.uk/ssi/2012/301).
 
-[^key-00462fffe9019d0d779527f55a972b28]: Commencement: Sch. para. 17 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-00462fffe9019d0d779527f55a972b28]: Commencement: Sch. para. 17 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627511]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41); relevant amending instruments are [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), 2012/2814.
 
-[^key-b34167231ce751583cda12cb07a84d46]: Textual amendment: Sch. para. 17(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(g)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/g)
+[^c-b34167231ce751583cda12cb07a84d46]: Textual amendment: Sch. para. 17(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(g)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/g)
 
-[^key-4bcfc8d574e2bd39510c07626e4c4d97]: Textual amendment: Sch. para. 17(2A) inserted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4bcfc8d574e2bd39510c07626e4c4d97]: Textual amendment: Sch. para. 17(2A) inserted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de649ee2df79eba5ba4aadd8ad396642]: Textual amendment: Words in Sch. para. 17(3) substituted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de649ee2df79eba5ba4aadd8ad396642]: Textual amendment: Words in Sch. para. 17(3) substituted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2afc01238fc8b3c91a07317287b4ae5d]: Commencement: Sch. para. 18 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-2afc01238fc8b3c91a07317287b4ae5d]: Commencement: Sch. para. 18 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627521]: Marginal citation: [S.I. 1989/677 (N.I. 4)](https://www.legislation.gov.uk/nisi/1989/677), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-d5b213f98cb5896b2f51a2de21520900]: Textual amendment: Sch. para. 18(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h)
+[^c-d5b213f98cb5896b2f51a2de21520900]: Textual amendment: Sch. para. 18(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h)
 
-[^key-efdd7061c20852790541c9b80d4d2136]: Commencement: Sch. para. 19 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-efdd7061c20852790541c9b80d4d2136]: Commencement: Sch. para. 19 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627531]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-54837716bdff09e0869bcf0e45728dd6]: Commencement: Sch. para. 20 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-54837716bdff09e0869bcf0e45728dd6]: Commencement: Sch. para. 20 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627541]: Marginal citation: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-d9534743f534f492a414ddbc6e8524d9]: Commencement: Sch. para. 21 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-d9534743f534f492a414ddbc6e8524d9]: Commencement: Sch. para. 21 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627551]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 108 was amended [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); [section 108](https://www.legislation.gov.uk/uksi/2019/519/section/108) is prospectively repealed by sections 9(3)(b) and 58(1) of and Schedule 7 to the [Welfare Reform Act 2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24). There are other amending instruments but none is relevant.
 
-[^key-17cf906aea5098bb784d6e94c2a4a18e]: Commencement: Sch. para. 22 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-17cf906aea5098bb784d6e94c2a4a18e]: Commencement: Sch. para. 22 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627561]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Section 103 was amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); [section 103](https://www.legislation.gov.uk/uksi/2019/519/section/103) is prospectively repealed by sections 9(3)(b) and 34(1) of and Schedule 4 to the Welfare Reform (Northern Ireland) Act [2010 (c.13 (N.I.))](https://www.legislation.gov.uk/nia/2010/13). There are other amending instruments but none is relevant.
 
-[^key-eaf60c34776b3e7d7cd2fa46341717a9]: Commencement: Sch. para. 23 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-eaf60c34776b3e7d7cd2fa46341717a9]: Commencement: Sch. para. 23 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627571]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-809b78f4ef338b6ec9667b271567b946]: Textual amendment: Sch. para. 23(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(i)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/i)
+[^c-809b78f4ef338b6ec9667b271567b946]: Textual amendment: Sch. para. 23(2) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(i)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/i)
 
-[^key-e462c0858a8bf3f6c122c6c6fb2b963f]: Textual amendment: Sch. para. 23(2A) inserted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e462c0858a8bf3f6c122c6c6fb2b963f]: Textual amendment: Sch. para. 23(2A) inserted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cd36dd3cfe0c620d75f9d9069d523ed1]: Textual amendment: Words in Sch. para. 23(3) substituted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd36dd3cfe0c620d75f9d9069d523ed1]: Textual amendment: Words in Sch. para. 23(3) substituted (31.12.2020 immediately before IP completion day) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/836)](https://www.legislation.gov.uk/uksi/2019/836), [regs. 1](https://www.legislation.gov.uk/uksi/2019/836/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/836/regulation/2/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2746858e68075071233336476e0319b3]: Commencement: Sch. para. 24 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-2746858e68075071233336476e0319b3]: Commencement: Sch. para. 24 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627581]: Marginal citation: 2002 asp. 17, amended by S.S.I 2012/301.
 
-[^key-65919b994c30568820469d3de449566b]: Commencement: Sch. para. 25 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-65919b994c30568820469d3de449566b]: Commencement: Sch. para. 25 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
 
 [^c23627591]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).
 
-[^key-0d38da0665b13dc687d092570b19366e]: Textual amendment: Words in Sch. para. 25(2)(a) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/i/aa)
+[^c-0d38da0665b13dc687d092570b19366e]: Textual amendment: Words in Sch. para. 25(2)(a) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/i/aa)
 
-[^key-168d373476ca9546cbd96f6c355eb0bc]: Textual amendment: Sch. para. 25(2)(b)(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/i/bb)
+[^c-168d373476ca9546cbd96f6c355eb0bc]: Textual amendment: Sch. para. 25(2)(b)(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/i/bb)
 
-[^key-4e52b949fcad05c2ca9adceab14749af]: Textual amendment: Sch. para. 25(3)(b)(c) substituted for Sch. para. 25(3)(b) (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/ii)
+[^c-4e52b949fcad05c2ca9adceab14749af]: Textual amendment: Sch. para. 25(3)(b)(c) substituted for Sch. para. 25(3)(b) (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(ii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/ii)
 
-[^key-cde3146d85a7dd7193dd22362406f79b]: Textual amendment: Sch. para. 25(6)(a) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iii)
+[^c-cde3146d85a7dd7193dd22362406f79b]: Textual amendment: Sch. para. 25(6)(a) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iii)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iii)
 
-[^key-307b1b9a67e0c1e62d0d2cbe7c7cca03]: Textual amendment: Sch. para. 25(7)(a)-(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv)
+[^c-307b1b9a67e0c1e62d0d2cbe7c7cca03]: Textual amendment: Sch. para. 25(7)(a)-(c) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(iv)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/iv)
 
-[^key-4db974fb46534072d0c27a044b863515]: Textual amendment: Sch. para. 25(8)(a)(ii)(iii) substituted for Sch. para. 25(8)(a)(ii) (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(v)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/v)
+[^c-4db974fb46534072d0c27a044b863515]: Textual amendment: Sch. para. 25(8)(a)(ii)(iii) substituted for Sch. para. 25(8)(a)(ii) (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(v)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/v)
 
-[^key-7a161ff59df7b8ee638b6c374b49d46a]: Textual amendment: Sch. para. 25(9)(a) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(vi)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/vi)
+[^c-7a161ff59df7b8ee638b6c374b49d46a]: Textual amendment: Sch. para. 25(9)(a) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(j)(vi)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/j/vi)
 
-[^key-dd15a3e350604641a6604d94243a2efb]: Commencement: Sch. para. 26 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-dd15a3e350604641a6604d94243a2efb]: Commencement: Sch. para. 26 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627601]: Marginal citation: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9), amended by [S.I. 2010/1898](https://www.legislation.gov.uk/uksi/2010/1898).
 
-[^key-db538cb2f88aa39ca63178e6aa312420]: Commencement: Sch. para. 27 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-db538cb2f88aa39ca63178e6aa312420]: Commencement: Sch. para. 27 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627611]: Marginal citation: 2007 asp. 3, amended by S.S.I 2012/301.
 
-[^key-7b157543f4d3c19ff0cb983528c90777]: Commencement: Sch. para. 28 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-7b157543f4d3c19ff0cb983528c90777]: Commencement: Sch. para. 28 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627621]: Marginal citation: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-fdd19a718ec5707adc819e40950f9c61]: Commencement: Sch. para. 29 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-fdd19a718ec5707adc819e40950f9c61]: Commencement: Sch. para. 29 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627631]: Marginal citation: [2016 c. 18 (N.I.)](https://www.legislation.gov.uk/nia/2016/18).
 
-[^key-ea54a8c3f8b0194dd07fb9db38be3ff5]: Commencement: Sch. para. 30 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-ea54a8c3f8b0194dd07fb9db38be3ff5]: Commencement: Sch. para. 30 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627641]: Marginal citation: [S.I. 1975/423](https://www.legislation.gov.uk/uksi/1975/423), amended by [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814); there are other amending instruments but none is relevant.
 
-[^key-91304e17d282f43876589e3693d0e947]: Commencement: Sch. para. 31 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-91304e17d282f43876589e3693d0e947]: Commencement: Sch. para. 31 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627651]: Marginal citation: [S.I. 1993/593](https://www.legislation.gov.uk/uksi/1993/593); relevant amending instruments are [S.I. 1999/1318](https://www.legislation.gov.uk/uksi/1999/1318), 2011/1484, 2014/879.
 
-[^key-17b94dd9502df27ce587973cb726b8c6]: Commencement: Sch. para. 32 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-17b94dd9502df27ce587973cb726b8c6]: Commencement: Sch. para. 32 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627661]: Marginal citation: [S.I. 2001/310](https://www.legislation.gov.uk/uksi/2001/310).
 
-[^key-f1b833b319d9b31fef521c7b33128097]: Commencement: Sch. para. 33 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-f1b833b319d9b31fef521c7b33128097]: Commencement: Sch. para. 33 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627671]: Marginal citation: [S.I. 2001/660](https://www.legislation.gov.uk/uksi/2001/660).
 
-[^key-ee27e5895c35a4b16272f4973d1a995f]: Commencement: Sch. para. 34 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-ee27e5895c35a4b16272f4973d1a995f]: Commencement: Sch. para. 34 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627681]: Marginal citation: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494), amended by [S.S.I. 2011/161](https://www.legislation.gov.uk/ssi/2011/161), [S.I](https://www.legislation.gov.uk/ssi/2011/161/section/I). 2011/1484, [S.S.I. 2012/301](https://www.legislation.gov.uk/ssi/2012/301).
 
-[^key-05a21ca822f737ba185a1ddb2f54320c]: Commencement: Sch. para. 35 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-05a21ca822f737ba185a1ddb2f54320c]: Commencement: Sch. para. 35 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627691]: Marginal citation: [S.I. 2005/265](https://www.legislation.gov.uk/uksi/2005/265).
 
-[^key-ef36fcdd1c24c3c573151391e85d57b0]: Commencement: Sch. para. 36 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-ef36fcdd1c24c3c573151391e85d57b0]: Commencement: Sch. para. 36 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627701]: Marginal citation: [S.I. 2009/1109](https://www.legislation.gov.uk/uksi/2009/1109), amended by [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484); there are other amending instruments but none is relevant.
 
-[^key-a97fcffd6d8593cf7e27aedf0a09f28c]: Commencement: Sch. para. 37 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-a97fcffd6d8593cf7e27aedf0a09f28c]: Commencement: Sch. para. 37 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627711]: Marginal citation: [S.I. 2010/1898](https://www.legislation.gov.uk/uksi/2010/1898).
 
-[^key-2ea007aff97d522c68ff71c69e5b530a]: Commencement: Sch. para. 38 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-2ea007aff97d522c68ff71c69e5b530a]: Commencement: Sch. para. 38 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627721]: Marginal citation: [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484), amended by [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814), 2014/879, 2015/1489, 2016/317.
 
-[^key-056faea543b23cfb5bbd91c8ffdaaad5]: Commencement: Sch. para. 39 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-056faea543b23cfb5bbd91c8ffdaaad5]: Commencement: Sch. para. 39 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627731]: Marginal citation: [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814), to which there are amendments not relevant to these Regulations.
 
-[^key-96685156e7d8ff5dc74e24cd7b6ada51]: Commencement: Sch. para. 40 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-96685156e7d8ff5dc74e24cd7b6ada51]: Commencement: Sch. para. 40 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627741]: Marginal citation: [S.I. 2012/413](https://www.legislation.gov.uk/uksi/2012/413), to which there are amendments not relevant to these Regulations.
 
-[^key-e09f48a0731057f77da79cc10593a35f]: Commencement: Sch. para. 41 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-e09f48a0731057f77da79cc10593a35f]: Commencement: Sch. para. 41 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627751]: Marginal citation: [S.I. 2013/104](https://www.legislation.gov.uk/uksi/2013/104); relevant amending instruments are [S.I. 2014/131](https://www.legislation.gov.uk/uksi/2014/131), 2015/1571, 2016/781.
 
-[^key-f08f596cf7778b1df3260d816aeb4b4d]: Commencement: Sch. para. 42 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
+[^c-f08f596cf7778b1df3260d816aeb4b4d]: Commencement: Sch. para. 42 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1)
 
 [^c23627761]: Marginal citation: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480); relevant amendment instruments are [S.I. 2013/753](https://www.legislation.gov.uk/uksi/2013/753), 2014/812, 2014/2701.

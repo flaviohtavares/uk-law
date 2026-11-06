@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 170. Information about payment of annual allowance charge[^key-126b0e37cfceb29565f75d43563d6fe5]
+## 170. Information about payment of annual allowance charge[^c-126b0e37cfceb29565f75d43563d6fe5]
 
 *Extent: S*
 
 (1) If a member’s pension scheme input amount for this scheme for a pension input period exceeds the amount of the annual allowance for the tax year in which the pension input period ends, paragraph (2) applies in respect of the member for that tax year.
 
-(2) The scheme manager must, no later than 6th October after the end of the tax year, provide the member with such information as the scheme manager considers appropriate to assist the member to arrange payment of the annual allowance charge for that tax year and with the information required by regulation 14A of the Registered Pension Schemes[^key-ee5ad3bb12c5c5308e865367d132cc62] (Provision of Information) Regulations 2006[^f00064].
+(2) The scheme manager must, no later than 6th October after the end of the tax year, provide the member with such information as the scheme manager considers appropriate to assist the member to arrange payment of the annual allowance charge for that tax year and with the information required by regulation 14A of the Registered Pension Schemes[^c-ee5ad3bb12c5c5308e865367d132cc62] (Provision of Information) Regulations 2006[^f00064].
 
 (3) In this regulation—
 
@@ -31,9 +31,9 @@ summary: ''
 
 ## Annotations
 
-[^key-126b0e37cfceb29565f75d43563d6fe5]: Commencement: [Reg. 170](https://www.legislation.gov.uk/ssi/2015/19/regulation/170) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-126b0e37cfceb29565f75d43563d6fe5]: Commencement: [Reg. 170](https://www.legislation.gov.uk/ssi/2015/19/regulation/170) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-ee5ad3bb12c5c5308e865367d132cc62]: Textual amendment: Word in [reg. 170(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/170/2) substituted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [21](https://www.legislation.gov.uk/ssi/2015/141/regulation/21)
+[^c-ee5ad3bb12c5c5308e865367d132cc62]: Textual amendment: Word in [reg. 170(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/170/2) substituted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [21](https://www.legislation.gov.uk/ssi/2015/141/regulation/21)
 
 [^f00064]: Footnote: [S.I. 2006/567](https://www.legislation.gov.uk/uksi/2006/567); regulation 14A was inserted by regulations 2 and 8 of [S.I. 2011/1797](https://www.legislation.gov.uk/uksi/2011/1797).
 

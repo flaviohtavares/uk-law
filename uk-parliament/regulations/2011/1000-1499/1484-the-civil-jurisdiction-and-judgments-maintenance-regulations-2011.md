@@ -54,21 +54,21 @@ The Secretary of State for Justice, being a Minister designated for the purposes
 
 (3) An amendment, repeal or revocation made by these Regulations has the same extent as the enactment amended, repealed or revoked.
 
-## 2. Interpretation[^key-01aa6ced55da91753337546b8e4c3fcb]
+## 2. Interpretation[^c-01aa6ced55da91753337546b8e4c3fcb]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Maintenance Regulation[^key-01aa6ced55da91753337546b8e4c3fcb]
+## 3. The Maintenance Regulation[^c-01aa6ced55da91753337546b8e4c3fcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provisions relating to information[^key-01aa6ced55da91753337546b8e4c3fcb]
+## 4. Provisions relating to information[^c-01aa6ced55da91753337546b8e4c3fcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provisions relating to authentic instruments and court settlements[^key-01aa6ced55da91753337546b8e4c3fcb]
+## 5. Provisions relating to authentic instruments and court settlements[^c-01aa6ced55da91753337546b8e4c3fcb]
 
 **No longer in force.**
 
@@ -76,13 +76,13 @@ The Secretary of State for Justice, being a Minister designated for the purposes
 
 ## 6. Amendments to the Civil Jurisdiction and Judgments Act 1982
 
-Schedule 4 (which makes amendments to the Civil Jurisdiction and Judgments Act 1982[^key-e388bc0267ad252be213c9ce27f414e0]) has effect.
+Schedule 4 (which makes amendments to the Civil Jurisdiction and Judgments Act 1982[^c-e388bc0267ad252be213c9ce27f414e0]) has effect.
 
-## 7. Amendments to the Civil Jurisdiction and Judgments Order 2001[^key-35d183f4ca1ca0c04203d4f747c48dd0]
+## 7. Amendments to the Civil Jurisdiction and Judgments Order 2001[^c-35d183f4ca1ca0c04203d4f747c48dd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Allocation of jurisdiction within the United Kingdom[^key-cdd66ffcd7e0ccd915659b892640985b]
+## 8. Allocation of jurisdiction within the United Kingdom[^c-cdd66ffcd7e0ccd915659b892640985b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -90,7 +90,7 @@ Schedule 4 (which makes amendments to the Civil Jurisdiction and Judgments Act 1
 
 Schedule 7 (which makes consequential amendments) has effect.
 
-## 10. Review[^key-a7e0a72cbfb42579602d350efba44d08]
+## 10. Review[^c-a7e0a72cbfb42579602d350efba44d08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,7 +102,7 @@ Minister of State
 
 Ministry of Justice
 
-## SCHEDULE 1 — THE MAINTENANCE REGULATION[^key-5d1fdd6967ae4dc414c68699424ce3b3]
+## SCHEDULE 1 — THE MAINTENANCE REGULATION[^c-5d1fdd6967ae4dc414c68699424ce3b3]
 
 **No longer in force.**
 
@@ -160,27 +160,27 @@ Regulation 3
 
 **11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROVISIONS RELATING TO INFORMATION[^key-5d1fdd6967ae4dc414c68699424ce3b3]
+## SCHEDULE 2 — PROVISIONS RELATING TO INFORMATION[^c-5d1fdd6967ae4dc414c68699424ce3b3]
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — PROVISIONS RELATING TO AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS[^key-5d1fdd6967ae4dc414c68699424ce3b3]
+## SCHEDULE 3 — PROVISIONS RELATING TO AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS[^c-5d1fdd6967ae4dc414c68699424ce3b3]
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5d1fdd6967ae4dc414c68699424ce3b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — AMENDMENTS TO THE CIVIL JURISDICTION AND JUDGMENTS ACT 1982
 
@@ -203,17 +203,17 @@ Regulation 6
 
   .
 
-**5.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3e07737ab925340da44ace4f9d437117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** In Schedule 4 (Chapter II of the Regulation as modified for allocation of jurisdiction within the UK), paragraph 3(b) is repealed.
 
@@ -221,47 +221,47 @@ Regulation 6
 
 **13.** In Schedule 8 (rules as to jurisdiction in Scotland), paragraph 2(e) is repealed.
 
-## SCHEDULE 5 — AMENDMENTS TO THE CIVIL JURISDICTION AND JUDGMENTS ORDER 2001[^key-a1cc02509c20556fce75c738be76d5be]
+## SCHEDULE 5 — AMENDMENTS TO THE CIVIL JURISDICTION AND JUDGMENTS ORDER 2001[^c-a1cc02509c20556fce75c738be76d5be]
 
-[^key-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1cc02509c20556fce75c738be76d5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — ALLOCATION WITHIN THE UNITED KINGDOM OF JURISDICTION RELATING TO MAINTENANCE MATTERS[^key-3f513822436d62dd8feddb84771984e9]
+## SCHEDULE 6 — ALLOCATION WITHIN THE UNITED KINGDOM OF JURISDICTION RELATING TO MAINTENANCE MATTERS[^c-3f513822436d62dd8feddb84771984e9]
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f513822436d62dd8feddb84771984e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 7 — CONSEQUENTIAL AMENDMENTS
 
@@ -294,9 +294,9 @@ Regulation 9
 
 (3) In subsection (1A) [^c20893921] after “any order” insert “ , decision, settlement or instrument ”.
 
-(4)[^key-0bd5ab159c18c53069b1a910d669e499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0bd5ab159c18c53069b1a910d669e499] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-40be8090603fe4005f1adbd3e0cd09a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-40be8090603fe4005f1adbd3e0cd09a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Administration of Justice Act 1970 (c.31)
 
@@ -389,11 +389,11 @@ In the Domicile and Matrimonial Proceedings Act 1973, in section 10 (ancillary a
 
 .
 
-### 8. Domestic Proceedings and Magistrates' Courts Act 1978 (c.22)[^key-36ec5ded721c2273abe3f8abbe1dad1f]
+### 8. Domestic Proceedings and Magistrates' Courts Act 1978 (c.22)[^c-36ec5ded721c2273abe3f8abbe1dad1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Magistrates' Courts Act 1980 (c. 43)[^key-9f1696eb68968f44da9f61086ad1b139]
+### 9. Magistrates' Courts Act 1980 (c. 43)[^c-9f1696eb68968f44da9f61086ad1b139]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -639,7 +639,7 @@ In section 103 [^c20894071] of the Social Security Administration Act (Northern 
 
 (5) In Schedule 6, in Part 8 (financial relief in magistrates' courts: supplementary), in paragraph 47 [^c20894081]—
 
-- (a)[^key-00cbad1e131554e5089eb77f75584a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-00cbad1e131554e5089eb77f75584a90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after that sub-paragraph insert—
 
   > (1A) If an application or part of an application for an order under this Schedule relates to a matter where jurisdiction falls to be determined by reference to the jurisdictional requirements of the Maintenance Regulation and Schedule 6 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011, a magistrates' court may not entertain that application or that part of it unless it has jurisdiction to do so by virtue of that Regulation and that Schedule.
@@ -937,7 +937,7 @@ In the Child Support (Northern Ireland) Order 1991, in Article 41 (jurisdiction)
 
 .
 
-### 24. The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^key-114b2c002a8bb9ac8d126562b064e487]
+### 24. The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^c-114b2c002a8bb9ac8d126562b064e487]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1183,33 +1183,33 @@ Regulation 10 requires the Secretary of State to review the operation and effect
 
 [^c20893641]: Marginal citation: [The European Communities (Designation) (No. 2) Order 2008 (S.I. 2008/1792)](https://www.legislation.gov.uk/uksi/2008/1792). Under section 57 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to implementation of obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by the Secretary of State as regards Scotland. Implementation of obligations under Community law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No 2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the [European Communities (Designation) (No 5) Order 2010 (S.I.2010/2690)](https://www.legislation.gov.uk/uksi/2010/2690) as that designation does not restrict the scope of other designations.
 
-[^key-01aa6ced55da91753337546b8e4c3fcb]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2011/1484/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01aa6ced55da91753337546b8e4c3fcb]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2011/1484/regulation/2) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(2)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/2) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e388bc0267ad252be213c9ce27f414e0]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2011/1484/regulation/6) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e388bc0267ad252be213c9ce27f414e0]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2011/1484/regulation/6) substituted (31.12.2020) by [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(3)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/3) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35d183f4ca1ca0c04203d4f747c48dd0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1484/regulation/7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35d183f4ca1ca0c04203d4f747c48dd0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1484/regulation/7) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdd66ffcd7e0ccd915659b892640985b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1484/regulation/8) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cdd66ffcd7e0ccd915659b892640985b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1484/regulation/8) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(4)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a7e0a72cbfb42579602d350efba44d08]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/1484/regulation/10) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7e0a72cbfb42579602d350efba44d08]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/1484/regulation/10) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(5)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/5) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d1fdd6967ae4dc414c68699424ce3b3]: Textual amendment: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2011/1484/schedule/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(6)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d1fdd6967ae4dc414c68699424ce3b3]: Textual amendment: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2011/1484/schedule/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(6)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20893771]: Marginal citation: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27). The Civil Jurisdiction and Judgments Act 1982 was amended by section 3 of, and Schedule 2 to the [Civil Jurisdiction and Judgments Act 1991 (c.12)](https://www.legislation.gov.uk/ukpga/1991/12), [Article 4](https://www.legislation.gov.uk/ukpga/1991/12/article/4) of, and Schedule 2 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [regulations 2](https://www.legislation.gov.uk/uksi/2001/3929/regulation/2), [16](https://www.legislation.gov.uk/uksi/2001/3929/regulation/16) and 17 of [S.I. 2009/3131](https://www.legislation.gov.uk/uksi/2009/3131) and section 226(1) of and paragraph 12 of Schedule 5 to the Bankruptcy and Diligence etc (Scotland) Act 2007 ([2007 asp 3](https://www.legislation.gov.uk/asp/2007/3)).
 
-[^key-3e07737ab925340da44ace4f9d437117]: Textual amendment: [Sch. 4 paras. 5-10](https://www.legislation.gov.uk/uksi/2011/1484/schedule/4/paragraph/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(7)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e07737ab925340da44ace4f9d437117]: Textual amendment: [Sch. 4 paras. 5-10](https://www.legislation.gov.uk/uksi/2011/1484/schedule/4/paragraph/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(7)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1cc02509c20556fce75c738be76d5be]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1484/schedule/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1cc02509c20556fce75c738be76d5be]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2011/1484/schedule/5) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f513822436d62dd8feddb84771984e9]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2011/1484/schedule/6) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f513822436d62dd8feddb84771984e9]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2011/1484/schedule/6) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 38(8)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/38/8) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20893911]: Marginal citation: Section 15(1) was substituted by section 3 of and paragraph 11 of Schedule 3 to the [Administration of Justice Act 1977 (c.38)](https://www.legislation.gov.uk/ukpga/1977/38); section 15(1)(a)(vi) was inserted by section 16(5) of the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27).
 
 [^c20893921]: Marginal citation: Section 1(1A) was inserted by section 27(3) of the [Administration of Justice Act 1970 (c.31)](https://www.legislation.gov.uk/ukpga/1970/31).
 
-[^key-0bd5ab159c18c53069b1a910d669e499]: Textual amendment: [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/2/4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0bd5ab159c18c53069b1a910d669e499]: Textual amendment: [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/2/4) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-40be8090603fe4005f1adbd3e0cd09a5]: Textual amendment: [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/2/5) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-40be8090603fe4005f1adbd3e0cd09a5]: Textual amendment: [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/2/5) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c20893951]: Marginal citation: Paragraph 13A was inserted by Article 5 of and paragraph 8 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929).
 
@@ -1223,9 +1223,9 @@ Regulation 10 requires the Secretary of State to review the operation and effect
 
 [^c20894001]: Marginal citation: Section 10(1) was amended by section 105(4) of and paragraph 20(2)(a) of Schedule 4 to the [Children (Scotland) Act 1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36). Subsection (1B) of section 10 was inserted by regulation 2(1), and (4) of [S.S.I. 2001/36](https://www.legislation.gov.uk/ssi/2001/36).
 
-[^key-36ec5ded721c2273abe3f8abbe1dad1f]: Textual amendment: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/8) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-36ec5ded721c2273abe3f8abbe1dad1f]: Textual amendment: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/8) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-9f1696eb68968f44da9f61086ad1b139]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/9) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-9f1696eb68968f44da9f61086ad1b139]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/9) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c20894031]: Marginal citation: Section 15(2) was amended by article 5 of and paragraphs 18 and 19 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and by paragraphs 12 and 13 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
 
@@ -1239,7 +1239,7 @@ Regulation 10 requires the Secretary of State to review the operation and effect
 
 [^c20894081]: Marginal citation: Paragraph 47(4) was inserted by article 2 of and paragraphs 21 and 23 of Schedule 1 to [S.I.2006/1016](https://www.legislation.gov.uk/uksi/2006/1016).
 
-[^key-00cbad1e131554e5089eb77f75584a90]: Textual amendment: [Sch. 7 para. 16(5)(a)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/16/5/a) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-00cbad1e131554e5089eb77f75584a90]: Textual amendment: [Sch. 7 para. 16(5)(a)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/16/5/a) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c20894091]: Marginal citation: Paragraph 2(4) was amended by regulation 5 of and paragraph 18 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
 
@@ -1259,7 +1259,7 @@ Regulation 10 requires the Secretary of State to review the operation and effect
 
 [^c20894171]: Marginal citation: Article 98(11) was amended by sections 15(4) and 36(6) of, and Parts I and III of Schedule 12 to, the [Civil Jurisdiction and Judgments Act 1982 (c.27)](https://www.legislation.gov.uk/ukpga/1982/27), by Article 5 of and paragraph 16 of Schedule 3 to [S.I.2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), and by regulation 5 and paragraph 25 of the Schedule to [S.I.2007/1655](https://www.legislation.gov.uk/uksi/2007/1655).
 
-[^key-114b2c002a8bb9ac8d126562b064e487]: Textual amendment: [Sch. 7 para. 24](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/24) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-114b2c002a8bb9ac8d126562b064e487]: Textual amendment: [Sch. 7 para. 24](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/24) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c20894191]: Marginal citation: [S.I. 1993/593](https://www.legislation.gov.uk/uksi/1993/593)
 

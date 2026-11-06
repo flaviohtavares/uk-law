@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Form of notice of potential liability for costs[^key-1213dfd3f932ff4ba587d1a58cc6e19e][^key-53158b8d850977278f0daf0be6692263]
+## SCHEDULE 2 — Form of notice of potential liability for costs[^c-1213dfd3f932ff4ba587d1a58cc6e19e][^c-53158b8d850977278f0daf0be6692263]
 
 *Extent: S*
 
@@ -44,11 +44,11 @@ summary: ''
 >
 > **Date of signing:**
 
-[^key-1213dfd3f932ff4ba587d1a58cc6e19e]
+[^c-1213dfd3f932ff4ba587d1a58cc6e19e]
 
 *Notes for completion*
 
-[^key-1213dfd3f932ff4ba587d1a58cc6e19e]
+[^c-1213dfd3f932ff4ba587d1a58cc6e19e]
 
 *(These notes are not part of the notice)*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1213dfd3f932ff4ba587d1a58cc6e19e]: Commencement: Sch. 2 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
+[^c-1213dfd3f932ff4ba587d1a58cc6e19e]: Commencement: Sch. 2 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/d)
 
-[^key-53158b8d850977278f0daf0be6692263]: Textual amendment: Words in first line of introductory paragraph in form of Notice in [sch. 2](https://www.legislation.gov.uk/asp/2004/11/schedule/2) inserted (6.12.2004) by [The Tenements (Scotland) Act 2004 (Notice of Potential Liability for Costs) Amendment Order 2004 (S.S.I. 2004/490)](https://www.legislation.gov.uk/ssi/2004/490), [arts. 1](https://www.legislation.gov.uk/ssi/2004/490/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2004/490/article/2/2)
+[^c-53158b8d850977278f0daf0be6692263]: Textual amendment: Words in first line of introductory paragraph in form of Notice in [sch. 2](https://www.legislation.gov.uk/asp/2004/11/schedule/2) inserted (6.12.2004) by [The Tenements (Scotland) Act 2004 (Notice of Potential Liability for Costs) Amendment Order 2004 (S.S.I. 2004/490)](https://www.legislation.gov.uk/ssi/2004/490), [arts. 1](https://www.legislation.gov.uk/ssi/2004/490/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2004/490/article/2/2)

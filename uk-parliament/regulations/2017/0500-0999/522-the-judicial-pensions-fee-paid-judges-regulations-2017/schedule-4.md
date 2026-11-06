@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 4 — Personal Benefits and Family Benefits Percentage Figures[^key-6b77f9ee749b2cfeab2c728265d82231]
+## Schedule 4 — Personal Benefits and Family Benefits Percentage Figures[^c-6b77f9ee749b2cfeab2c728265d82231]
 
 *Extent: E+W+S+N.I.*
 
@@ -116,4 +116,4 @@ Personal benefits and family benefits percentage figures for offices included in
 
 ## Annotations
 
-[^key-6b77f9ee749b2cfeab2c728265d82231]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2017/522/schedule/4) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1358/schedule/1)
+[^c-6b77f9ee749b2cfeab2c728265d82231]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2017/522/schedule/4) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1358/schedule/1)

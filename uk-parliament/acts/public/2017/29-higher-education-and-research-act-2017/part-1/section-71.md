@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Other fees[^key-7a0770d0e6ce20038a5adaa6fbf24337]
+## 71. Other fees[^c-7a0770d0e6ce20038a5adaa6fbf24337]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a0770d0e6ce20038a5adaa6fbf24337]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2017/29/section/71) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/h)
+[^c-7a0770d0e6ce20038a5adaa6fbf24337]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2017/29/section/71) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Meaning of “entitlement day” (phased retirement pension)[^key-4529460dd8518d96ee3b185d909c6a85]
+## 89. Meaning of “entitlement day” (phased retirement pension)[^c-4529460dd8518d96ee3b185d909c6a85]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The entitlement day for a phased retirement pension is—
 
 ## Annotations
 
-[^key-4529460dd8518d96ee3b185d909c6a85]: Commencement: [Reg. 89](https://www.legislation.gov.uk/ssi/2014/292/regulation/89) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4529460dd8518d96ee3b185d909c6a85]: Commencement: [Reg. 89](https://www.legislation.gov.uk/ssi/2014/292/regulation/89) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

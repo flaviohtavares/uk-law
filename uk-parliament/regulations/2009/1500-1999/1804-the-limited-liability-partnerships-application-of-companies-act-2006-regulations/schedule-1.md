@@ -185,7 +185,7 @@ that address is not protected information for the purposes of sections 240 to 24
 
 ### PART 7 — DISSOLUTION AND RESTORATION TO THE REGISTER
 
-#### 22. Property of dissolved LLP[^key-f5284150675e339a3c771f029aea8025]
+#### 22. Property of dissolved LLP[^c-f5284150675e339a3c771f029aea8025]
 
 (1) Sections 1012 to 1023 of the Companies Act 2006 (property of dissolved LLP), as applied to LLPs by regulations 52 to 55, apply in relation to the property of an LLP dissolved on or after 1st October 2009.
 
@@ -340,7 +340,7 @@ for the effect of a provision of the 1985 Act or the 1986 Order as applied to LL
 
 [^c19765461]: Marginal citation: [S.I. 2002/915](https://www.legislation.gov.uk/uksi/2002/915).
 
-[^key-f5284150675e339a3c771f029aea8025]: Textual amendment: Sch. 1 paras. 22, 22A substituted for Sch. 1 para. 22 (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/3/2)
+[^c-f5284150675e339a3c771f029aea8025]: Textual amendment: Sch. 1 paras. 22, 22A substituted for Sch. 1 para. 22 (1.10.2009) by [The Companies Act 2006 and Limited Liability Partnerships (Transitional Provisions and Savings) (Amendment) Regulations 2009 (S.I. 2009/2476)](https://www.legislation.gov.uk/uksi/2009/2476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2009/2476/regulation/3/2)
 
 [^c19765471]: Marginal citation: [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860) (C. 126).
 

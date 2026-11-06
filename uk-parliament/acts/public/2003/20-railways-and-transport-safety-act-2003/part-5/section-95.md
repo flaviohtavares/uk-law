@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Penalty[^key-e72f41c2b32c06ce36ed1daa83b64625]
+## 95. Penalty[^c-e72f41c2b32c06ce36ed1daa83b64625]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person guilty of an offence under this Part shall be liable—
 
 ## Annotations
 
-[^key-e72f41c2b32c06ce36ed1daa83b64625]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2003/20/section/95) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(r)](https://www.legislation.gov.uk/uksi/2004/827/article/3/r)
+[^c-e72f41c2b32c06ce36ed1daa83b64625]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2003/20/section/95) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(r)](https://www.legislation.gov.uk/uksi/2004/827/article/3/r)

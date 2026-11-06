@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) Subsection (2) applies where a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] has given an attendance notice under section 46 to a person to whom this Part applies.
+(1) Subsection (2) applies where a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] has given an attendance notice under section 46 to a person to whom this Part applies.
 
 (2) If the attendance notice still has effect when—
 
@@ -48,4 +48,4 @@ the local authority may by notice to the person specify other education or train
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Rules on the organisation of design contests and the selection of participants[^key-56251b5454c5b17379956a1c16e61be8]
+## 79. Rules on the organisation of design contests and the selection of participants[^c-56251b5454c5b17379956a1c16e61be8]
 
 *Extent: S*
 
 (1) When organising a design contest, a contracting authority must apply procedures which are adapted to the provisions of Chapter 1 and this Section.
 
-(2)[^key-31ae3a2f93ae3ab5cd018ab096d96142] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-31ae3a2f93ae3ab5cd018ab096d96142] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a design contest is restricted to a limited number of participants, the contracting authority must—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56251b5454c5b17379956a1c16e61be8]: Modification: [Reg. 79](https://www.legislation.gov.uk/ssi/2015/446/regulation/79) modified by SSI 2013/50, Sch. 3 para. 10(2)(a) (as substituted (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/c))
+[^c-56251b5454c5b17379956a1c16e61be8]: Modification: [Reg. 79](https://www.legislation.gov.uk/ssi/2015/446/regulation/79) modified by SSI 2013/50, Sch. 3 para. 10(2)(a) (as substituted (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(c)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/c))
 
-[^key-31ae3a2f93ae3ab5cd018ab096d96142]: Textual amendment: [Reg. 79(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/79/2) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(54)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/54) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-31ae3a2f93ae3ab5cd018ab096d96142]: Textual amendment: [Reg. 79(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/79/2) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(54)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/54) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

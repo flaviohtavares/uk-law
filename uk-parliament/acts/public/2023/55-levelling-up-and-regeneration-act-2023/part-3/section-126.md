@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Fees for certain services in relation to nationally significant infrastructure projects[^key-28059e2cefb4731d3226d7f5adbb89c0]
+## 126. Fees for certain services in relation to nationally significant infrastructure projects[^c-28059e2cefb4731d3226d7f5adbb89c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28059e2cefb4731d3226d7f5adbb89c0]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/55/section/126) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-28059e2cefb4731d3226d7f5adbb89c0]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/55/section/126) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

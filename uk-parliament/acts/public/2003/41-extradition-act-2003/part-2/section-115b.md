@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115B. Detention pending conclusion of appeals relating to devolution issues[^key-15cb0abd801c03d37787a9d949167f7e]
+## 115B. Detention pending conclusion of appeals relating to devolution issues[^c-15cb0abd801c03d37787a9d949167f7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15cb0abd801c03d37787a9d949167f7e]: Textual amendment: S. 115B inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/25) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(7)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/7))
+[^c-15cb0abd801c03d37787a9d949167f7e]: Textual amendment: S. 115B inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 25](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/25) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(7)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/7))

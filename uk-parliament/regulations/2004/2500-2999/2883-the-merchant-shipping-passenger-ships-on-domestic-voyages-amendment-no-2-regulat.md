@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State for Transport, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by sections 85(1)(a) and (b), (3) and (5) to (7) and section 86(1) of that Act[^f00002] hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-387b9c710bce9c9cc0c2eb44ecbe5cc0]
+## 1. Citation, commencement and interpretation[^c-387b9c710bce9c9cc0c2eb44ecbe5cc0]
 
 (1) These Regulations may be cited as the Merchant Shipping (Passenger Ships on Domestic Voyages) (Amendment) (No. 2) Regulations 2004 and shall come into force on 29th November 2004.
 
 (2) In these Regulations, “the principal Regulations” means the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00003].
 
-## 2. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^key-bfe6178b28b2737811a3ff19e109eba9]
+## 2. Amendment of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^c-bfe6178b28b2737811a3ff19e109eba9]
 
 (1) In regulation 2(1) (Interpretation) of the principal Regulations:
 
@@ -141,11 +141,11 @@ The Secretary of State for Transport, after consulting the persons referred to i
 
   .
 
-## 3. Amendment of the Survey and Certification Regulations[^key-09ab8b617b27de37838fb26565583c2d]
+## 3. Amendment of the Survey and Certification Regulations[^c-09ab8b617b27de37838fb26565583c2d]
 
 The Merchant Shipping (Survey and Certification) Regulations 1995[^f00008] shall be amended by the insertion in regulation 1(2), at the end of the definition of “the Directive”[^f00009], of the words “and by Directive [2003/24/EC](https://www.legislation.gov.uk/european/directive/2003/0024) of the European Parliament and of the Council of 14th April 2003 amending Council Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) on safety rules and standards for passenger ships[^f00010]”.
 
-## 4. Amendment of the High Speed Craft Regulations[^key-846934283b55100e2fd90b8fc8413b63]
+## 4. Amendment of the High Speed Craft Regulations[^c-846934283b55100e2fd90b8fc8413b63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,11 +179,11 @@ Merchant Shipping Notices can be read or downloaded free from the Maritime and C
 
 [^f00002]: Footnote: Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1998 (c. 28)](https://www.legislation.gov.uk/ukpga/1998/28), section 8, and are applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 (S.I. [1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-387b9c710bce9c9cc0c2eb44ecbe5cc0]: Commencement: Reg. 1 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
+[^c-387b9c710bce9c9cc0c2eb44ecbe5cc0]: Commencement: Reg. 1 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771), S.I. [2004/302](https://www.legislation.gov.uk/uksi/2004/302) and S.I. [2004/1107](https://www.legislation.gov.uk/uksi/2004/1107).
 
-[^key-bfe6178b28b2737811a3ff19e109eba9]: Commencement: Reg. 2 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
+[^c-bfe6178b28b2737811a3ff19e109eba9]: Commencement: Reg. 2 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
 
 [^f00004]: Footnote: O.J. L 123, 17.05.2003, p. 18.
 
@@ -193,7 +193,7 @@ Merchant Shipping Notices can be read or downloaded free from the Maritime and C
 
 [^f00007]: Footnote: S.I. [2001/152](https://www.legislation.gov.uk/uksi/2001/152).
 
-[^key-09ab8b617b27de37838fb26565583c2d]: Commencement: Reg. 3 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
+[^c-09ab8b617b27de37838fb26565583c2d]: Commencement: Reg. 3 in force at 29.11.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2883/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), amended by S.I. [1996/2418](https://www.legislation.gov.uk/uksi/1996/2418), S.I. [2000/1334](https://www.legislation.gov.uk/uksi/2000/1334), S.I. [2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), S.I. [2003/771](https://www.legislation.gov.uk/uksi/2003/771), S.I. [2004/302](https://www.legislation.gov.uk/uksi/2004/302) and S.I. [2004/1107](https://www.legislation.gov.uk/uksi/2004/1107).
 
@@ -201,4 +201,4 @@ Merchant Shipping Notices can be read or downloaded free from the Maritime and C
 
 [^f00010]: Footnote: O.J. L 123, 17.05.2003, p. 18.
 
-[^key-846934283b55100e2fd90b8fc8413b63]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/2883/regulation/4) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-846934283b55100e2fd90b8fc8413b63]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/2883/regulation/4) revoked (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/1219/schedule/part/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))

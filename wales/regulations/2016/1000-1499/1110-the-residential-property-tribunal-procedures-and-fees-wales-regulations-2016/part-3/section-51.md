@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Reimbursement of fees[^key-0c40d3663cf63d06a6f8b198a51b124b]
+## 51. Reimbursement of fees[^c-0c40d3663cf63d06a6f8b198a51b124b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c40d3663cf63d06a6f8b198a51b124b]: Commencement: Reg. 51 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-0c40d3663cf63d06a6f8b198a51b124b]: Commencement: Reg. 51 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

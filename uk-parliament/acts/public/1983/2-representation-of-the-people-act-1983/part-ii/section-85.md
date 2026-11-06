@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Penalty for sitting or voting where no return and declarations transmitted.[^M_C_0c4efeeb-915f-49e1-b889-dbce4991d511][^key-a74e98e474fb049a86157667748ff177][^c14479931]
+## 85. Penalty for sitting or voting where no return and declarations transmitted.[^M_C_0c4efeeb-915f-49e1-b889-dbce4991d511][^c-a74e98e474fb049a86157667748ff177][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ and if he sits or votes in contravention of this subsection he shall forfeit £1
 
 [^M_C_0c4efeeb-915f-49e1-b889-dbce4991d511]: Modification: S. 85 applied (with modifications) (27.3.2007) by [The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024)](https://www.legislation.gov.uk/uksi/2007/1024), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1024/schedule/2) Table 1
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

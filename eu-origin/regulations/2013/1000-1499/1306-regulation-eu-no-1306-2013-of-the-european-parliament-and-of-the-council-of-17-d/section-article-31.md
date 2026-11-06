@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 31. Provisions applying to all payments[^key-482b99674d49d52e2045c254b10b8332]
+## Article 31. Provisions applying to all payments[^c-482b99674d49d52e2045c254b10b8332]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-482b99674d49d52e2045c254b10b8332]: Textual amendment: Art. 31 omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(11)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-482b99674d49d52e2045c254b10b8332]: Textual amendment: Art. 31 omitted (31.12.2020 in so far as it relates to common organisation of the markets and rural development measures) by virtue of [The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/763)](https://www.legislation.gov.uk/uksi/2019/763), [regs. 1](https://www.legislation.gov.uk/uksi/2019/763/regulation/1), [6(11)](https://www.legislation.gov.uk/uksi/2019/763/regulation/6/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

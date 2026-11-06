@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Power to board and search vessels or aircraft[^key-8613e060f892e6361b6cf3de0b8f89c2]
+## 38. Power to board and search vessels or aircraft[^c-8613e060f892e6361b6cf3de0b8f89c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8613e060f892e6361b6cf3de0b8f89c2]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/2/section/38) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-8613e060f892e6361b6cf3de0b8f89c2]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/2/section/38) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

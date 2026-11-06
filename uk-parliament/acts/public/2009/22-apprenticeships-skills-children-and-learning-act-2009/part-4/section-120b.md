@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120B. When functions become exercisable by strategic authorities[^key-a3a09b25ba397445f94d82875cc63e3b]
+## 120B. When functions become exercisable by strategic authorities[^c-a3a09b25ba397445f94d82875cc63e3b]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ Interpretation
 
 ## Annotations
 
-[^key-a3a09b25ba397445f94d82875cc63e3b]: Textual amendment: [S. 120B](https://www.legislation.gov.uk/ukpga/2009/22/section/120B) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2026/23/schedule/13/paragraph/11) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-a3a09b25ba397445f94d82875cc63e3b]: Textual amendment: [S. 120B](https://www.legislation.gov.uk/ukpga/2009/22/section/120B) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2026/23/schedule/13/paragraph/11) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

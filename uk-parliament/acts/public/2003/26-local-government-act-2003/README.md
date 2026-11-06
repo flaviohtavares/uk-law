@@ -34,11 +34,11 @@ An Act to make provision about finance, and other provision, in connection with 
 
 \[18th September 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2b8a19bf89252515f1b8d209d17bb0dc][^M_C_f327a29d-89fb-42dc-9402-a49a7855282c]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2b8a19bf89252515f1b8d209d17bb0dc][^M_C_f327a29d-89fb-42dc-9402-a49a7855282c]
 
 ## Contents
 
-### Part 1 — Capital finance etc and accounts[^key-6c459943362b6e3998739f9eb991d32e][^key-1ddaae566f9a75d560ed8385226d01f8][^key-72805bbb5381e815c72452562acc69dd][^M_C_ff2b504f-6934-4de1-d571-8e6eda6149ed][^key-9df40a15b2563a82760fe731b18be614][^key-0c8c886f2f6df91cc9748a12bef8b988][^key-fe78b11987cc5c650fff7029852ca434][^key-0758f07c419d1bb07bc90d08dd7fd1b3][^key-664b1c6d47bc7030a36db623a5bcdc73][^key-f2f2dee4b3838d80dd35ef193c5389c1][^key-1af11e1ee0de1177df25be729394a198][^key-4c7069c5bf391f58a7632a733af960af]
+### Part 1 — Capital finance etc and accounts[^c-6c459943362b6e3998739f9eb991d32e][^c-1ddaae566f9a75d560ed8385226d01f8][^c-72805bbb5381e815c72452562acc69dd][^M_C_ff2b504f-6934-4de1-d571-8e6eda6149ed][^c-9df40a15b2563a82760fe731b18be614][^c-0c8c886f2f6df91cc9748a12bef8b988][^c-fe78b11987cc5c650fff7029852ca434][^c-0758f07c419d1bb07bc90d08dd7fd1b3][^c-664b1c6d47bc7030a36db623a5bcdc73][^c-f2f2dee4b3838d80dd35ef193c5389c1][^c-1af11e1ee0de1177df25be729394a198][^c-4c7069c5bf391f58a7632a733af960af]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 12 — Power to invest](part-1/section-12.md)
 
-##### Risk management: England[^key-8271dae0e9d2f73712d54d17f64b52ad]
+##### Risk management: England[^c-8271dae0e9d2f73712d54d17f64b52ad]
 
 - [Section 12A — Risk-mitigation directions](part-1/section-12a.md)
 - [Section 12B — Risk thresholds](part-1/section-12b.md)
@@ -138,7 +138,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 39 — Payments towards local authority indebtedness](part-3/section-39.md)
 - [Section 40 — Local government finance reports: Wales](part-3/section-40.md)
 
-### Part 4 — Business improvement districts[^key-c838db2466adecbdcba71ef602b61bcb][^key-11b6cbcd620d790f55166dbc69e415ab]
+### Part 4 — Business improvement districts[^c-c838db2466adecbdcba71ef602b61bcb][^c-11b6cbcd620d790f55166dbc69e415ab]
 
 *Extent: E+W*
 
@@ -332,36 +332,36 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2b8a19bf89252515f1b8d209d17bb0dc]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/13)
+[^c-2b8a19bf89252515f1b8d209d17bb0dc]: Modification: Act applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/13)
 
 [^M_C_f327a29d-89fb-42dc-9402-a49a7855282c]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/13)
 
-[^key-6c459943362b6e3998739f9eb991d32e]: Modification: Meaning of “local authority” in Pt. 1 modified (5.3.2008) by [Cheshire (Structural Changes) Order 2008 (S.I. 2008/634)](https://www.legislation.gov.uk/uksi/2008/634), [arts. 1](https://www.legislation.gov.uk/uksi/2008/634/article/1), [9(9)(c)](https://www.legislation.gov.uk/uksi/2008/634/article/9/9/c)
+[^c-6c459943362b6e3998739f9eb991d32e]: Modification: Meaning of “local authority” in Pt. 1 modified (5.3.2008) by [Cheshire (Structural Changes) Order 2008 (S.I. 2008/634)](https://www.legislation.gov.uk/uksi/2008/634), [arts. 1](https://www.legislation.gov.uk/uksi/2008/634/article/1), [9(9)(c)](https://www.legislation.gov.uk/uksi/2008/634/article/9/9/c)
 
-[^key-1ddaae566f9a75d560ed8385226d01f8]: Modification: Meaning of “local authority” in Pt. 1 modified (28.3.2008) by [Bedfordshire (Structural Changes) Order 2008 (S.I. 2008/907)](https://www.legislation.gov.uk/uksi/2008/907), [arts. 1](https://www.legislation.gov.uk/uksi/2008/634/article/1), [20(7)(c)](https://www.legislation.gov.uk/uksi/2008/634/article/20/7/c)
+[^c-1ddaae566f9a75d560ed8385226d01f8]: Modification: Meaning of “local authority” in Pt. 1 modified (28.3.2008) by [Bedfordshire (Structural Changes) Order 2008 (S.I. 2008/907)](https://www.legislation.gov.uk/uksi/2008/907), [arts. 1](https://www.legislation.gov.uk/uksi/2008/634/article/1), [20(7)(c)](https://www.legislation.gov.uk/uksi/2008/634/article/20/7/c)
 
-[^key-72805bbb5381e815c72452562acc69dd]: Modification: Pt. 1 applied (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [8(4)](https://www.legislation.gov.uk/ukla/2013/6/section/8/4)
+[^c-72805bbb5381e815c72452562acc69dd]: Modification: Pt. 1 applied (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [8(4)](https://www.legislation.gov.uk/ukla/2013/6/section/8/4)
 
 [^M_C_ff2b504f-6934-4de1-d571-8e6eda6149ed]: Modification: Pt. 1 applied in part (with modifications) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 2 para. 7A(4)(7)(8)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/2/paragraph/7A/4/7/8), [Sch. 4 para. 4A(4)(5)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/4/paragraph/4A/4/5) (as inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 141(1)(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/141/1/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1))
 
-[^key-9df40a15b2563a82760fe731b18be614]: Modification: Pt. 1 modified (25.5.2018) by [The East Suffolk (Local Government Changes) Order 2018 (S.I. 2018/640)](https://www.legislation.gov.uk/uksi/2018/640), [arts. 1](https://www.legislation.gov.uk/uksi/2018/640/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2018/640/article/17/2/c)
+[^c-9df40a15b2563a82760fe731b18be614]: Modification: Pt. 1 modified (25.5.2018) by [The East Suffolk (Local Government Changes) Order 2018 (S.I. 2018/640)](https://www.legislation.gov.uk/uksi/2018/640), [arts. 1](https://www.legislation.gov.uk/uksi/2018/640/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2018/640/article/17/2/c)
 
-[^key-0c8c886f2f6df91cc9748a12bef8b988]: Modification: Pt. 1 modified (25.5.2018) by [The West Suffolk (Local Government Changes) Order 2018 (S.I. 2018/639)](https://www.legislation.gov.uk/uksi/2018/639), [arts. 1](https://www.legislation.gov.uk/uksi/2018/639/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2018/639/article/17/2/c)
+[^c-0c8c886f2f6df91cc9748a12bef8b988]: Modification: Pt. 1 modified (25.5.2018) by [The West Suffolk (Local Government Changes) Order 2018 (S.I. 2018/639)](https://www.legislation.gov.uk/uksi/2018/639), [arts. 1](https://www.legislation.gov.uk/uksi/2018/639/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2018/639/article/17/2/c)
 
-[^key-fe78b11987cc5c650fff7029852ca434]: Modification: Pt. 1 modified (26.5.2018) by [The Somerset West and Taunton (Local Government Changes) Order 2018 (S.I. 2018/649)](https://www.legislation.gov.uk/uksi/2018/649), [arts. 1](https://www.legislation.gov.uk/uksi/2018/649/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2018/649/article/17/2/c)
+[^c-fe78b11987cc5c650fff7029852ca434]: Modification: Pt. 1 modified (26.5.2018) by [The Somerset West and Taunton (Local Government Changes) Order 2018 (S.I. 2018/649)](https://www.legislation.gov.uk/uksi/2018/649), [arts. 1](https://www.legislation.gov.uk/uksi/2018/649/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2018/649/article/17/2/c)
 
-[^key-0758f07c419d1bb07bc90d08dd7fd1b3]: Modification: Pt. 1 modified (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/648/article/21/2/c), 36(2)(c)
+[^c-0758f07c419d1bb07bc90d08dd7fd1b3]: Modification: Pt. 1 modified (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/648/article/21/2/c), 36(2)(c)
 
-[^key-664b1c6d47bc7030a36db623a5bcdc73]: Modification: Pt. 1 modified (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/957/article/15/2)
+[^c-664b1c6d47bc7030a36db623a5bcdc73]: Modification: Pt. 1 modified (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/957/article/15/2)
 
-[^key-f2f2dee4b3838d80dd35ef193c5389c1]: Modification: Pt. 1 modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2020/156/article/17/2/c)
+[^c-f2f2dee4b3838d80dd35ef193c5389c1]: Modification: Pt. 1 modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2020/156/article/17/2/c)
 
-[^key-1af11e1ee0de1177df25be729394a198]: Modification: Pt. 1 applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(2)(c)](https://www.legislation.gov.uk/uksi/2022/331/article/18/2/c)
+[^c-1af11e1ee0de1177df25be729394a198]: Modification: Pt. 1 applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(2)(c)](https://www.legislation.gov.uk/uksi/2022/331/article/18/2/c)
 
-[^key-4c7069c5bf391f58a7632a733af960af]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/part/1) modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(2)(c)](https://www.legislation.gov.uk/uksi/2026/264/article/28/2/c), [40(2)(c)](https://www.legislation.gov.uk/uksi/2026/264/article/40/2/c)
+[^c-4c7069c5bf391f58a7632a733af960af]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/part/1) modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(2)(c)](https://www.legislation.gov.uk/uksi/2026/264/article/28/2/c), [40(2)(c)](https://www.legislation.gov.uk/uksi/2026/264/article/40/2/c)
 
-[^key-8271dae0e9d2f73712d54d17f64b52ad]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/2003/26/section/12A) and cross-heading inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/78/2), [255(2)(p)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/p) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/a)
+[^c-8271dae0e9d2f73712d54d17f64b52ad]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/2003/26/section/12A) and cross-heading inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/78/2), [255(2)(p)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/p) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/a)
 
-[^key-c838db2466adecbdcba71ef602b61bcb]: Modification: Pt. 4 modified (E.) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1A](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1A), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1312/schedule/5) (as inserted (7.4.2013) by [S.I. 2013/2265](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2265/schedule))
+[^c-c838db2466adecbdcba71ef602b61bcb]: Modification: Pt. 4 modified (E.) by [The Business Improvement Districts (England) Regulations 2004 (S.I. 2004/2443)](https://www.legislation.gov.uk/uksi/2004/2443), [reg. 1A](https://www.legislation.gov.uk/uksi/2005/1312/regulation/1A), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/1312/schedule/5) (as inserted (7.4.2013) by [S.I. 2013/2265](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/2265/schedule))
 
-[^key-11b6cbcd620d790f55166dbc69e415ab]: Modification: Pt. 4 applied (with modifications) (E.) (2.12.2014) by [The Business Improvement Districts (Property Owners) (England) Regulations 2014 (S.I. 2014/3204)](https://www.legislation.gov.uk/uksi/2014/3204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/1/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/18/5/b), [19(3)(b)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/19/3/b), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2014/3204/schedule/5/paragraph/1)
+[^c-11b6cbcd620d790f55166dbc69e415ab]: Modification: Pt. 4 applied (with modifications) (E.) (2.12.2014) by [The Business Improvement Districts (Property Owners) (England) Regulations 2014 (S.I. 2014/3204)](https://www.legislation.gov.uk/uksi/2014/3204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/1/1), [18(5)(b)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/18/5/b), [19(3)(b)](https://www.legislation.gov.uk/uksi/2014/3204/regulation/19/3/b), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2014/3204/schedule/5/paragraph/1)

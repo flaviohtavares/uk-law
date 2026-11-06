@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Procedure for giving, amending or revoking general directions[^key-0379cbf90cc26f25be08d32c5c575a1e]
+## 32. Procedure for giving, amending or revoking general directions[^c-0379cbf90cc26f25be08d32c5c575a1e]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0379cbf90cc26f25be08d32c5c575a1e]: Commencement: Art. 32 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-0379cbf90cc26f25be08d32c5c575a1e]: Commencement: Art. 32 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

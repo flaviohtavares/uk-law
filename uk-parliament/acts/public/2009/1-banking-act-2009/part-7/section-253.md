@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Registration of charges: Scotland[^key-c9ca97c16b40bfdecb2986180af37c94]
+## 253. Registration of charges: Scotland[^c-c9ca97c16b40bfdecb2986180af37c94]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ca97c16b40bfdecb2986180af37c94]: Commencement: S. 253 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/11)
+[^c-c9ca97c16b40bfdecb2986180af37c94]: Commencement: S. 253 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809VI. The appropriate mitigation steps[^key-d22f65c468935a2cf97760c287b43072][^key-ecbfc597f6653475e871ac196657f259][^key-c5c5cb7574f58c28b1a8bfc62b2a2e3c][^key-3c7dd0ba1b37a7977a79cace5dd20e2d]
+## 809VI. The appropriate mitigation steps[^c-d22f65c468935a2cf97760c287b43072][^c-ecbfc597f6653475e871ac196657f259][^c-c5c5cb7574f58c28b1a8bfc62b2a2e3c][^c-3c7dd0ba1b37a7977a79cace5dd20e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) P has disposed of the entire holding (or so much of it as P retains when the potentially chargeable event occurs), and
 - (b) the whole of the disposal proceeds have been taken offshore or re-invested.
 
-(3) But —[^key-5f408d354ec47bdf0f61e32f3829d92a]
+(3) But —[^c-5f408d354ec47bdf0f61e32f3829d92a]
 
 - (a) see also section 809VIA (which makes provision treating the disposal proceeds as reduced where TRF capital is involved), and
 - (b) if the disposal proceeds exceed X, subsections (1) and (2)(b) apply only to so much of the proceeds as is equal to X.
@@ -54,12 +54,12 @@ summary: ''
 
 ## Annotations
 
-[^key-d22f65c468935a2cf97760c287b43072]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643I(9) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-d22f65c468935a2cf97760c287b43072]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643I(9) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-ecbfc597f6653475e871ac196657f259]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643A(6) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
+[^c-ecbfc597f6653475e871ac196657f259]: Modification: Ss. 809L-809Z6 applied by 2005 c. 5, s. 643A(6) (as inserted (with effect for the tax year 2018-19 and subsequent years) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 paras. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11), [21(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/21/1) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/11/paragraph/22)))
 
-[^key-c5c5cb7574f58c28b1a8bfc62b2a2e3c]: Textual amendment: Ss. 809VA-809VO and cross-heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/7)
+[^c-c5c5cb7574f58c28b1a8bfc62b2a2e3c]: Textual amendment: Ss. 809VA-809VO and cross-heading inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/7)
 
-[^key-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
+[^c-3c7dd0ba1b37a7977a79cace5dd20e2d]: Textual amendment: Pt. 14 Ch. A1 inserted (21.7.2008 with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/1) (with [Sch. 7 paras. 85-89](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/85))
 
-[^key-5f408d354ec47bdf0f61e32f3829d92a]: Textual amendment: [S. 809VI(3)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VI/3/a)[(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VI/3/b) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/6), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)
+[^c-5f408d354ec47bdf0f61e32f3829d92a]: Textual amendment: [S. 809VI(3)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VI/3/a)[(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/809VI/3/b) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 19(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/19/6), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1)

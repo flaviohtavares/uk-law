@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Service of notices[^key-49aa6261883b6b94c90025d49ec397e6]
+## 80. Service of notices[^c-49aa6261883b6b94c90025d49ec397e6]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49aa6261883b6b94c90025d49ec397e6]: Commencement: Art. 80 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-49aa6261883b6b94c90025d49ec397e6]: Commencement: Art. 80 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00048]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

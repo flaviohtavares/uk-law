@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2020 (revoked)[^key-ad57a89a23c3063b8b48a19b083cf240]
+The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2020 (revoked)[^c-ad57a89a23c3063b8b48a19b083cf240]
 
 Made
 
@@ -44,28 +44,28 @@ Affirmed by resolution of the Assembly on
 
 Coming into operation in accordance with Article 1
 
-[^key-ad57a89a23c3063b8b48a19b083cf240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad57a89a23c3063b8b48a19b083cf240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ad57a89a23c3063b8b48a19b083cf240]
+## 1. Citation and commencement[^c-ad57a89a23c3063b8b48a19b083cf240]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definition of “relevant year”[^key-ad57a89a23c3063b8b48a19b083cf240]
+## 2. Definition of “relevant year”[^c-ad57a89a23c3063b8b48a19b083cf240]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ad57a89a23c3063b8b48a19b083cf240]
+## 3. Revocation[^c-ad57a89a23c3063b8b48a19b083cf240]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad57a89a23c3063b8b48a19b083cf240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad57a89a23c3063b8b48a19b083cf240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad57a89a23c3063b8b48a19b083cf240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad57a89a23c3063b8b48a19b083cf240]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad57a89a23c3063b8b48a19b083cf240]: Textual amendment: Order revoked (15.6.2021) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2021 (S.R. 2021/119)](https://www.legislation.gov.uk/nisr/2021/119), [arts. 1](https://www.legislation.gov.uk/nisr/2021/119/article/1), [3](https://www.legislation.gov.uk/nisr/2021/119/article/3)
+[^c-ad57a89a23c3063b8b48a19b083cf240]: Textual amendment: Order revoked (15.6.2021) by [The Rates (Exemption for Automatic Telling Machines in Rural Areas) Order (Northern Ireland) 2021 (S.R. 2021/119)](https://www.legislation.gov.uk/nisr/2021/119), [arts. 1](https://www.legislation.gov.uk/nisr/2021/119/article/1), [3](https://www.legislation.gov.uk/nisr/2021/119/article/3)

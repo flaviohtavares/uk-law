@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Record of winding-up decisions.[^key-0c99d115b017b6b9fb82b66acca04796][^key-68edc1c171b7475a963e578bb43165bf]
+## 49A. Record of winding-up decisions.[^c-0c99d115b017b6b9fb82b66acca04796][^c-68edc1c171b7475a963e578bb43165bf]
 
 *Extent: E+W+S*
 
@@ -38,14 +38,14 @@ summary: ''
 
 (3) Regulations may provide for the form and content of any records that are required to be kept under this section.
 
-(4)[^key-6a5928b02fc46414750d46592708d644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6a5928b02fc46414750d46592708d644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Section 10 applies to any trustee or manager of a scheme who fails to take all such steps as are reasonable to secure compliance by the trustees or managers of that scheme with those obligations.
 
 ## Annotations
 
-[^key-0c99d115b017b6b9fb82b66acca04796]: Modification: S. 49A restricted (1.4.2002) by [The Occupational Pension Schemes (Winding Up Notices and Reports etc.) Regulations 2002 (S.I. 2002/459)](https://www.legislation.gov.uk/uksi/2002/459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/459/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2002/459/regulation/13/1)
+[^c-0c99d115b017b6b9fb82b66acca04796]: Modification: S. 49A restricted (1.4.2002) by [The Occupational Pension Schemes (Winding Up Notices and Reports etc.) Regulations 2002 (S.I. 2002/459)](https://www.legislation.gov.uk/uksi/2002/459), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/459/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2002/459/regulation/13/1)
 
-[^key-68edc1c171b7475a963e578bb43165bf]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1995/26/section/49A) inserted (1.3.2002 for specified purposes, 1.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/49/3), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b/2/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/e)[(2)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/e/2/2)
+[^c-68edc1c171b7475a963e578bb43165bf]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1995/26/section/49A) inserted (1.3.2002 for specified purposes, 1.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2000/19/section/49/3), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b/2/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/e)[(2)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/e/2/2)
 
-[^key-6a5928b02fc46414750d46592708d644]: Textual amendment: [S. 49A(4)](https://www.legislation.gov.uk/ukpga/1995/26/section/49A/4) repealed (9.12.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 55](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/55), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/2)
+[^c-6a5928b02fc46414750d46592708d644]: Textual amendment: [S. 49A(4)](https://www.legislation.gov.uk/ukpga/1995/26/section/49A/4) repealed (9.12.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 55](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/55), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/2)

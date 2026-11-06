@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Non-residential premises: repayment charges[^key-579417cd3c60486081e76076e79bbbd7]
+## 90. Non-residential premises: repayment charges[^c-579417cd3c60486081e76076e79bbbd7]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-579417cd3c60486081e76076e79bbbd7]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2014/14/section/90) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/d)
+[^c-579417cd3c60486081e76076e79bbbd7]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2014/14/section/90) in force at 1.4.2015 by [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/122/article/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2015/122/article/2/2/d)

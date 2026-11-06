@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Excess assets on winding up[^c19431251][^c19431901][^key-27c1fab04e74fb93e17f7bb1045e7ab5]
+## 76. Excess assets on winding up[^c19431251][^c19431901][^c-27c1fab04e74fb93e17f7bb1045e7ab5]
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 [^c19431901]: Modification: Art. 76 excluded (6.4.2006) by [S.R. 2006/161](https://www.legislation.gov.uk/nisr/2006/161), [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/161/regulation/12/1)
 
-[^key-27c1fab04e74fb93e17f7bb1045e7ab5]: Modification: Art. 76 excluded (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [36(1)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/36/1/b)
+[^c-27c1fab04e74fb93e17f7bb1045e7ab5]: Modification: Art. 76 excluded (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [36(1)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/36/1/b)
 
 [^c19431131]: Textual amendment: Art. 76(1)(a) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [art. 11(5)](https://www.legislation.gov.uk/uksi/2006/745/article/11/5)
 

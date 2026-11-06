@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Competitive tenders for electricity projects[^key-427a1ba98fca6e3f1f442eeee534ad43]
+## 203. Competitive tenders for electricity projects[^c-427a1ba98fca6e3f1f442eeee534ad43]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427a1ba98fca6e3f1f442eeee534ad43]: Commencement: S. 203 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)
+[^c-427a1ba98fca6e3f1f442eeee534ad43]: Commencement: S. 203 in force at Royal Assent, see [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i)

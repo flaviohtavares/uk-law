@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Interim access restriction orders[^key-f28b70c922db69c825ae76385bce4be8][^key-95c7527e0a05678085abc710bb4286bb]
+## 147. Interim access restriction orders[^c-f28b70c922db69c825ae76385bce4be8][^c-95c7527e0a05678085abc710bb4286bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f28b70c922db69c825ae76385bce4be8]: Commencement: S. 147 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f28b70c922db69c825ae76385bce4be8]: Commencement: S. 147 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-95c7527e0a05678085abc710bb4286bb]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2023/50/section/147) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-95c7527e0a05678085abc710bb4286bb]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2023/50/section/147) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

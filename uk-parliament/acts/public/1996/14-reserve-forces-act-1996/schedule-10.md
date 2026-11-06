@@ -26,33 +26,33 @@ Section 131(1).
 
 **1.**[^M_F_cbc419a3-edc7-4561-bf57-ba1cdcae8e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Air Force Act 1955 (c.19)
 
-**9.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Naval Discipline Act 1957 (c.53)
 
-**12.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e593c830c863cc260d4d5014e44815fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Reserve Forces Act 1966 (c.30): old references to RMFVR
 
@@ -76,7 +76,7 @@ Section 131(1).
 
 ### Reserve Forces Act 1982 (c.14): old references to TAVR
 
-**19.** Any reference to the Territorial and Army Volunteer Reserve in any Act or instrument shall continue to be construed as may be necessary in consequence of the change of name made by section 1 of the Reserve Forces Act 1982 as a reference to the Army Reserve[^key-d33cdaf006f8a5629a1ffd9c03fe5b52].
+**19.** Any reference to the Territorial and Army Volunteer Reserve in any Act or instrument shall continue to be construed as may be necessary in consequence of the change of name made by section 1 of the Reserve Forces Act 1982 as a reference to the Army Reserve[^c-d33cdaf006f8a5629a1ffd9c03fe5b52].
 
 ### Wages Act 1986 (c.48)
 
@@ -92,7 +92,7 @@ Section 131(1).
 
 ### Army Act 1992 (c.39)
 
-**23.**[^key-a076c8811399942815c794bf8604979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a076c8811399942815c794bf8604979a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Trade Union and Labour Relations (Consolidation) Act 1992 (c.52)
 
@@ -120,12 +120,12 @@ Section 131(1).
 
 [^M_F_cbc419a3-edc7-4561-bf57-ba1cdcae8e97]: Textual amendment: Sch. 10 paras. 1-13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/59), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-e593c830c863cc260d4d5014e44815fe]: Textual amendment: Sch. 10 paras. 1-13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/59), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e593c830c863cc260d4d5014e44815fe]: Textual amendment: Sch. 10 paras. 1-13 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/59), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c8320481]: Textual amendment: Sch. 10 para. 17 repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-200](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
 [^c8320491]: Textual amendment: Sch. 10 para. 18 repealed (19.2.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/V/8) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/168](https://www.legislation.gov.uk/uksi/2001/168), [art. 2](https://www.legislation.gov.uk/uksi/2001/168/article/2)
 
-[^key-d33cdaf006f8a5629a1ffd9c03fe5b52]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-d33cdaf006f8a5629a1ffd9c03fe5b52]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1996/14) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
-[^key-a076c8811399942815c794bf8604979a]: Textual amendment: Sch. 10 para. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/59), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a076c8811399942815c794bf8604979a]: Textual amendment: Sch. 10 para. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 59](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/59), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

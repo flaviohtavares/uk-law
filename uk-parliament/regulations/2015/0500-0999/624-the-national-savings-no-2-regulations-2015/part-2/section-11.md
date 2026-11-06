@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Terminating investment in bonds[^key-120e68258f4a5175adc500d46582a806]
+## 11. Terminating investment in bonds[^c-120e68258f4a5175adc500d46582a806]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ an amount credited to an account under this regulation is not to be counted if d
 
 ## Annotations
 
-[^key-120e68258f4a5175adc500d46582a806]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-120e68258f4a5175adc500d46582a806]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2015/623](https://www.legislation.gov.uk/uksi/2015/623).
 

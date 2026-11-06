@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to regulation 27, the operator of a production installation shall ensure that it is not operated within internal waters[^key-c960c431a7eac84e7979a084f461bb5b] unless—
+(1) Subject to regulation 27, the operator of a production installation shall ensure that it is not operated within internal waters[^c-c960c431a7eac84e7979a084f461bb5b] unless—
 
 - (a) he has prepared a safety case containing the particulars specified in regulation 12 and Schedule 2;
 - (b) he has sent the safety case to the Executive at least 6 months (or such shorter period as the Executive may specify) before commencing the operation; and
@@ -28,7 +28,7 @@ summary: ''
 
 (2) For the purposes of paragraph (4) of regulation 2 and paragraph (1), the operation of an installation shall be treated as commenced—
 
-- (a) on the commencement of the first well drilling operation from the installation which may involve the release of petroleum from beneath the bed of internal waters[^key-ed9d17e9344a6a9795f4b7252a96dcf6]; or
+- (a) on the commencement of the first well drilling operation from the installation which may involve the release of petroleum from beneath the bed of internal waters[^c-ed9d17e9344a6a9795f4b7252a96dcf6]; or
 - (b) when petroleum is brought onto the installation for the first time through a pipeline or well,
 
 whichever is earlier.
@@ -37,6 +37,6 @@ whichever is earlier.
 
 ## Annotations
 
-[^key-c960c431a7eac84e7979a084f461bb5b]: Textual amendment: Words in reg. 7(1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 38](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/38) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-c960c431a7eac84e7979a084f461bb5b]: Textual amendment: Words in reg. 7(1) inserted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 38](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/38) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

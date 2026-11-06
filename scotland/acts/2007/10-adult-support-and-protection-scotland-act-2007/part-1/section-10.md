@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Examination of records etc.[^key-712dbccdf97dc9058f21489b6252ea33]
+## 10. Examination of records etc.[^c-712dbccdf97dc9058f21489b6252ea33]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ for the purposes of enabling or assisting the council to decide whether it needs
 
 ## Annotations
 
-[^key-712dbccdf97dc9058f21489b6252ea33]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2007/10/section/10) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-712dbccdf97dc9058f21489b6252ea33]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2007/10/section/10) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZJ. Exclusion of shock losses from restrictions[^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZJ. Exclusion of shock losses from restrictions[^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ the company is to be treated for the purposes of sections 269ZC and 269ZD(2)(b)(
 
 (3) If an insurance company makes a deduction of (or in respect of) a shock loss, that deduction is not a “**relevant deduction**” for the purposes of section 269ZD (restriction on deductions from total profits).
 
-(4)[^key-5581f791e48f06f69e7ee58680c96e36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5581f791e48f06f69e7ee58680c96e36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
 
-[^key-5581f791e48f06f69e7ee58680c96e36]: Textual amendment: S. 269ZJ(4) omitted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/10)
+[^c-5581f791e48f06f69e7ee58680c96e36]: Textual amendment: S. 269ZJ(4) omitted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/10)

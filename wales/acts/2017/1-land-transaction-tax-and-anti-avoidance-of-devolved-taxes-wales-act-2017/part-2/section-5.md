@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Exempt interest[^key-4ddeb5e1b4ba3f38db48fb8154387d23]
+## 5. Exempt interest[^c-4ddeb5e1b4ba3f38db48fb8154387d23]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ddeb5e1b4ba3f38db48fb8154387d23]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2017/1/section/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4ddeb5e1b4ba3f38db48fb8154387d23]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2017/1/section/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

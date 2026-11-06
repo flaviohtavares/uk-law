@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Related amendments to other enactments[^key-e7d3a22048c5a1f44a8dce94217cfcc5]
+## 41. Related amendments to other enactments[^c-e7d3a22048c5a1f44a8dce94217cfcc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d3a22048c5a1f44a8dce94217cfcc5]: Textual amendment: S. 41 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(l)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/l/i)
+[^c-e7d3a22048c5a1f44a8dce94217cfcc5]: Textual amendment: S. 41 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(l)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/l/i)

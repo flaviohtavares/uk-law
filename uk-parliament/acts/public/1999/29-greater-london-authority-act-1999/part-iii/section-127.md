@@ -32,9 +32,9 @@ summary: ''
 
 (3) No person may be the chief finance officer of two or more relevant authorities at the same time.
 
-(4) In subsection (2)(b) above, the reference to officers includes a reference to employees or members of staff and, in the case of Transport for London, includes a reference to its members.[^key-4a4e370aabe3e2c2cc48fc1b5832a76f]
+(4) In subsection (2)(b) above, the reference to officers includes a reference to employees or members of staff and, in the case of Transport for London, includes a reference to its members.[^c-4a4e370aabe3e2c2cc48fc1b5832a76f]
 
-(5)[^key-38127eb3f9c4604534e503a4f2edf7e3] Section 127A below makes further provision with respect to the Authority's chief finance officer for the purposes of subsection (2)(b) above.
+(5)[^c-38127eb3f9c4604534e503a4f2edf7e3] Section 127A below makes further provision with respect to the Authority's chief finance officer for the purposes of subsection (2)(b) above.
 
 (6) The function of appointing the Authority’s chief finance officer under subsection (2)(b) above shall be a function of the Authority which is exercisable on behalf of the Authority by the Assembly after consultation with the Mayor.
 
@@ -48,9 +48,9 @@ summary: ''
 
 [^c12802271]: Modification: S. 127(2) applied (10.5.2000) by [S.I. 2000/1095](https://www.legislation.gov.uk/uksi/2000/1095), [art. 6(5)(c)](https://www.legislation.gov.uk/uksi/2000/1095/article/6/5/c)
 
-[^key-4a4e370aabe3e2c2cc48fc1b5832a76f]: Textual amendment: Words in s. 127(4) substituted (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/20/paragraph/6); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/628/article/4/c)
+[^c-4a4e370aabe3e2c2cc48fc1b5832a76f]: Textual amendment: Words in s. 127(4) substituted (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/20/paragraph/6); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/628/article/4/c)
 
-[^key-38127eb3f9c4604534e503a4f2edf7e3]: Textual amendment: S. 127(5) substituted for s. 127(5)(6) (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/10/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 10(3)-(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/10/3)); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-38127eb3f9c4604534e503a4f2edf7e3]: Textual amendment: S. 127(5) substituted for s. 127(5)(6) (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/10/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7) (with [s. 10(3)-(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/10/3)); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
 [^c12802281]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 

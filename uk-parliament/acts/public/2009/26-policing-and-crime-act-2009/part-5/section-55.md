@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0abe87391e08140d2a4d0b2bad8ac941][^key-537a38f5539f8272e875bdede6d83437] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+(1)[^c-0abe87391e08140d2a4d0b2bad8ac941][^c-537a38f5539f8272e875bdede6d83437] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
 
-(2)[^key-0abe87391e08140d2a4d0b2bad8ac941][^key-537a38f5539f8272e875bdede6d83437] After section 47 insert—
+(2)[^c-0abe87391e08140d2a4d0b2bad8ac941][^c-537a38f5539f8272e875bdede6d83437] After section 47 insert—
 
 > **Search and seizure powers**
 >
@@ -416,9 +416,9 @@ summary: ''
 >
 > (7) The code is admissible in evidence in criminal or civil proceedings and is to be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant.
 
-(3)[^key-82ef515be7274097d872613c947b722c] Omit section 45 (seizure).
+(3)[^c-82ef515be7274097d872613c947b722c] Omit section 45 (seizure).
 
-(4)[^key-82ef515be7274097d872613c947b722c] In section 69 (powers of court and receiver)—
+(4)[^c-82ef515be7274097d872613c947b722c] In section 69 (powers of court and receiver)—
 
 - (a) in subsection (1) after paragraph (b) insert—
 
@@ -428,8 +428,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0abe87391e08140d2a4d0b2bad8ac941]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
+[^c-0abe87391e08140d2a4d0b2bad8ac941]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
 
-[^key-537a38f5539f8272e875bdede6d83437]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2) in force at 1.6.2015 in so far as not already in force by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-537a38f5539f8272e875bdede6d83437]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/2) in force at 1.6.2015 in so far as not already in force by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
-[^key-82ef515be7274097d872613c947b722c]: Commencement: [S. 55(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/4) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/983/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2015/983/article/4/2))
+[^c-82ef515be7274097d872613c947b722c]: Commencement: [S. 55(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/55/4) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/983/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2015/983/article/4/2))

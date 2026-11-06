@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Return to be made and tax paid before application for registration[^key-c2339f7516739a432ed9590add656758]
+## 43. Return to be made and tax paid before application for registration[^c-c2339f7516739a432ed9590add656758]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2339f7516739a432ed9590add656758]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2013/11/section/43) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-c2339f7516739a432ed9590add656758]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2013/11/section/43) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

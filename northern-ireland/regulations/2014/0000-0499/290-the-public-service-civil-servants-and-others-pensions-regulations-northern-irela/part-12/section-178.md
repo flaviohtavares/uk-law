@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 178. Evidence of entitlement[^key-f0036aa39f97bcf5c82c5f1259bfa9b2]
+## 178. Evidence of entitlement[^c-f0036aa39f97bcf5c82c5f1259bfa9b2]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0036aa39f97bcf5c82c5f1259bfa9b2]: Commencement: [Reg. 178](https://www.legislation.gov.uk/nisr/2014/290/regulation/178) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-f0036aa39f97bcf5c82c5f1259bfa9b2]: Commencement: [Reg. 178](https://www.legislation.gov.uk/nisr/2014/290/regulation/178) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

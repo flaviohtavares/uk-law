@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-77fde010740bd1f3f14b70f5737e7102]
+## SCHEDULE 5 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-77fde010740bd1f3f14b70f5737e7102]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Table 4
 
 ## Annotations
 
-[^key-77fde010740bd1f3f14b70f5737e7102]: Commencement: Sch. 5 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-77fde010740bd1f3f14b70f5737e7102]: Commencement: Sch. 5 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

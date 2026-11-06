@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Inspection of premises before grant of licence etc.[^key-9f4204de3fb9f5845628ff42b1427f6d]
+## 137. Inspection of premises before grant of licence etc.[^c-9f4204de3fb9f5845628ff42b1427f6d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f4204de3fb9f5845628ff42b1427f6d]: Commencement: S. 137 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-9f4204de3fb9f5845628ff42b1427f6d]: Commencement: S. 137 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

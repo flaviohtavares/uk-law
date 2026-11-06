@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make provision for a duty to secure
 
 ## PART 1 — Overview
 
-### 1. Overview of this Act[^key-b36b5516444bce6fcbcf48194bf6cd11]
+### 1. Overview of this Act[^c-b36b5516444bce6fcbcf48194bf6cd11]
 
 In this Act—
 
@@ -53,7 +53,7 @@ In this Act—
 
 ## PART 2 — Improvement in Health Services
 
-### 2. Quality in the provision of health services[^key-6f49d525bef82daa151942b74ab2e1a3]
+### 2. Quality in the provision of health services[^c-6f49d525bef82daa151942b74ab2e1a3]
 
 (1) The 2006 Act is amended as follows.
 
@@ -164,7 +164,7 @@ In this Act—
 
 ### Application of the duty
 
-#### 3. When the duty of candour applies[^key-efecedccf2683fe503995307ac7a69da]
+#### 3. When the duty of candour applies[^c-efecedccf2683fe503995307ac7a69da]
 
 (1) The duty of candour comes into effect in relation to an NHS body if it appears to the body that both of the following conditions are met.
 
@@ -176,7 +176,7 @@ In this Act—
 
 ### Procedural and other requirements
 
-#### 4. Duty of candour procedure[^key-353ac59e4e7e283804eaf4770eecdea1][^key-943051c43add8994b01ddfc32a592fec]
+#### 4. Duty of candour procedure[^c-353ac59e4e7e283804eaf4770eecdea1][^c-943051c43add8994b01ddfc32a592fec]
 
 (1) Regulations must provide for a procedure (the “candour procedure”) to be followed by an NHS body in relation to which the duty of candour has come into effect.
 
@@ -195,7 +195,7 @@ In this Act—
 
 (4) The regulations may make any other provision in respect of the candour procedure that the Welsh Ministers consider appropriate.
 
-#### 5. Primary care providers: duty to prepare report[^key-77e25b5e1aeaff2d9e99303aed958737]
+#### 5. Primary care providers: duty to prepare report[^c-77e25b5e1aeaff2d9e99303aed958737]
 
 (1) As soon as practicable after the end of each financial year, a primary care provider must prepare a report under this section.
 
@@ -214,7 +214,7 @@ In this Act—
 - (a) references to a financial year are to each period of 12 months ending on 31 March;
 - (b) references to a reporting year, in relation to a report, are to the financial year to which the report relates.
 
-#### 6. Supply and summary of report under section 5[^key-12a5dfea596997b3be6acb82515a9307]
+#### 6. Supply and summary of report under section 5[^c-12a5dfea596997b3be6acb82515a9307]
 
 (1) A primary care provider that has prepared a report under section 5 in respect of the provision of health care on behalf of a Local Health Board must, as soon as practicable after the end of the reporting year, supply the report to that Local Health Board.
 
@@ -226,7 +226,7 @@ In this Act—
 - (b) give a brief description of the circumstances in which the duty came into effect, and
 - (c) describe any steps taken by the primary care provider with a view to preventing similar circumstances from arising in future.
 
-#### 7. Local Health Board, NHS trust and Special Health Authority: reporting requirements[^key-f3cc5e0d82c288befdf6f39efea3b076]
+#### 7. Local Health Board, NHS trust and Special Health Authority: reporting requirements[^c-f3cc5e0d82c288befdf6f39efea3b076]
 
 (1) As soon as practicable after the end of each financial year, a Local Health Board, NHS trust or Special Health Authority must prepare a report under this section.
 
@@ -238,13 +238,13 @@ In this Act—
 - (b) give a brief description of the circumstances in which the duty came into effect, and
 - (c) describe any steps taken by the body with a view to preventing similar circumstances from arising in future.
 
-#### 8. Publication of section 6 summary and section 7 report[^key-2d3bc489c15dfec50380fbfe1e74b6b1]
+#### 8. Publication of section 6 summary and section 7 report[^c-2d3bc489c15dfec50380fbfe1e74b6b1]
 
 (1) An NHS body to which section 7 applies must publish the report prepared by it under that section as soon as practicable after the end of the reporting year.
 
 (2) In the case of an NHS body that is a Local Health Board, the report must include the summary prepared by it under section 6.
 
-#### 9. Confidentiality[^key-56d66b890ef6990fc5dc0fc5eb1bad7e]
+#### 9. Confidentiality[^c-56d66b890ef6990fc5dc0fc5eb1bad7e]
 
 (1) A report published by an NHS body under section 8 must not name—
 
@@ -253,11 +253,11 @@ In this Act—
 
 (2) In determining what information to include in a report under section 8, an NHS body must have regard to the need to avoid providing information that, while not naming an individual, is in the circumstances likely to enable the identification of that individual.
 
-#### 10. Guidance given by the Welsh Ministers[^key-8059691cb3d26d3a59e2ae9dd1ebcc33]
+#### 10. Guidance given by the Welsh Ministers[^c-8059691cb3d26d3a59e2ae9dd1ebcc33]
 
 In exercising functions under or by virtue of this Part, an NHS body must have regard to any guidance issued by the Welsh Ministers.
 
-#### 11. Interpretation of “health care” and other terms[^key-7ef87daabb0c6340a2e6472ae4e437a7][^key-e83b1ba2052fbb60ef91dce7e3b4cad3]
+#### 11. Interpretation of “health care” and other terms[^c-7ef87daabb0c6340a2e6472ae4e437a7][^c-e83b1ba2052fbb60ef91dce7e3b4cad3]
 
 (1) A reference in this Part to health care is to services provided in Wales under or by virtue of the 2006 Act for or in connection with—
 
@@ -290,13 +290,13 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 ### Establishment and general objective etc. of Citizen Voice Body
 
-#### 12. Establishment of Citizen Voice Body[^key-38e2cc974b7999de7872f76068b6273c]
+#### 12. Establishment of Citizen Voice Body[^c-38e2cc974b7999de7872f76068b6273c]
 
 (1) The Citizen Voice Body for Health and Social Care, Wales (referred to in this Part as “**the Citizen Voice Body**”) is established as a body corporate.
 
 (2) Schedule 1 makes provision about the Citizen Voice Body's constitution and related matters.
 
-#### 13. General objective[^key-a41d531bd68b3900527d26420204c003]
+#### 13. General objective[^c-a41d531bd68b3900527d26420204c003]
 
 (1) The Citizen Voice Body's general objective, in exercising its functions, is to represent the interests of the public in respect of health services and social services.
 
@@ -304,7 +304,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 (3) In making arrangements to comply with subsection (2), the Citizen Voice Body must in particular have regard to the importance of ensuring, where appropriate, face-to-face engagement between its staff, or any other persons acting on its behalf, and any individuals from whom views are being sought.
 
-#### 14. Public awareness and statement of policy[^key-db4f91b39466d37c4e6592abb3022919]
+#### 14. Public awareness and statement of policy[^c-db4f91b39466d37c4e6592abb3022919]
 
 (1) The Citizen Voice Body must take steps to promote public awareness of its general objective and of its functions.
 
@@ -321,7 +321,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 ### Making representations
 
-#### 15. Representations to public bodies[^key-fc0675e49cb611cade46a577d513c6fe]
+#### 15. Representations to public bodies[^c-fc0675e49cb611cade46a577d513c6fe]
 
 (1) The Citizen Voice Body may make representations to a person mentioned in subsection (2) about anything it considers relevant to the provision of a health service or the provision of social services.
 
@@ -336,7 +336,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 (5) Those persons must have regard to the guidance.
 
-#### 16. Advocacy services etc. in respect of complaints about services[^key-a4d76b109192cf469247c51cb298f352]
+#### 16. Advocacy services etc. in respect of complaints about services[^c-a4d76b109192cf469247c51cb298f352]
 
 (1) The Citizen Voice Body may provide assistance (by way of representation or otherwise) to any individual making, or intending to make a complaint to which any of the following subsections applies.
 
@@ -361,7 +361,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 ### Duties imposed on certain public bodies in respect of Citizen Voice Body
 
-#### 17. Duty to promote awareness of activities of Citizen Voice Body[^key-db7ea14e8dc6374f1a3c98387085296a]
+#### 17. Duty to promote awareness of activities of Citizen Voice Body[^c-db7ea14e8dc6374f1a3c98387085296a]
 
 (1) A person mentioned in subsection (2) must make arrangements to bring the activities of the Citizen Voice Body to the attention of people who are receiving, or may receive, health services or social services provided by or on behalf of the person.
 
@@ -370,7 +370,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 - (a) a local authority;
 - (b) an NHS body.
 
-#### 18. Duty to supply information to Citizen Voice Body[^key-e28f496883be3d21651775f54d523db8]
+#### 18. Duty to supply information to Citizen Voice Body[^c-e28f496883be3d21651775f54d523db8]
 
 (1) A person mentioned in subsection (2) must supply the Citizen Voice Body with such information as the Citizen Voice Body reasonably requests for the purpose of carrying out its functions.
 
@@ -387,18 +387,18 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 #### 19. Code of practice on access to premises
 
-(1)[^key-a9e9dc7e6869fc938914cd631f052b74] The Welsh Ministers must prepare and publish a code of practice about—
+(1)[^c-a9e9dc7e6869fc938914cd631f052b74] The Welsh Ministers must prepare and publish a code of practice about—
 
 - (a) requests made by the Citizen Voice Body for access to premises for the purpose of seeking the views of individuals in respect of health services or social services, and
 - (b) where access to those premises has been agreed, engagement with individuals at those premises for that purpose.
 
-(2)[^key-a9e9dc7e6869fc938914cd631f052b74] “Premises” in subsection (1) means any premises at which health services or social services are being provided.
+(2)[^c-a9e9dc7e6869fc938914cd631f052b74] “Premises” in subsection (1) means any premises at which health services or social services are being provided.
 
-(3)[^key-930aa5af29bbc3cff6eddd73f88abbc3] The Citizen Voice Body must have regard to the code.
+(3)[^c-930aa5af29bbc3cff6eddd73f88abbc3] The Citizen Voice Body must have regard to the code.
 
-(4)[^key-930aa5af29bbc3cff6eddd73f88abbc3] Each local authority and NHS body must have regard to the code (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services.
+(4)[^c-930aa5af29bbc3cff6eddd73f88abbc3] Each local authority and NHS body must have regard to the code (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services.
 
-(5)[^key-a9e9dc7e6869fc938914cd631f052b74] In preparing the code the Welsh Ministers must consult—
+(5)[^c-a9e9dc7e6869fc938914cd631f052b74] In preparing the code the Welsh Ministers must consult—
 
 - (a) the Citizen Voice Body;
 - (b) each local authority;
@@ -407,7 +407,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 ### Co-operation in the exercise of functions
 
-#### 20. Co-operation between the Body, local authorities and NHS bodies[^key-bace763eda6059062106c171fa139502]
+#### 20. Co-operation between the Body, local authorities and NHS bodies[^c-bace763eda6059062106c171fa139502]
 
 (1) The Citizen Voice Body, local authorities and NHS bodies must make arrangements to co-operate with a view to supporting each other in the exercise of their relevant functions.
 
@@ -418,7 +418,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 ### Interpretation of this Part
 
-#### 21. Meaning of “health services” and “social services”[^key-440ece02ce65c470cd1abce6a841723d]
+#### 21. Meaning of “health services” and “social services”[^c-440ece02ce65c470cd1abce6a841723d]
 
 (1) References in this Part to health services are to services provided (whether in Wales or elsewhere) under or by virtue of the 2006 Act, for or in connection with—
 
@@ -431,7 +431,7 @@ In exercising functions under or by virtue of this Part, an NHS body must have r
 
 (4) In subsection (3), “**social services functions**”, in relation to a local authority, has the same meaning as it has for the purposes of the Social Services and Well-being (Wales) Act 2014 (anaw 4) (see, in particular, section 143 of that Act).
 
-#### 22. Meaning of other terms[^key-162f75403f345a2d29a60a22f4050232]
+#### 22. Meaning of other terms[^c-162f75403f345a2d29a60a22f4050232]
 
 In this Part—
 
@@ -446,17 +446,17 @@ In this Part—
 
 #### 23. Abolition of Community Health Councils, and connected matters
 
-(1)[^key-2d2a101bf32557599332fd821dfc95b7] Section 182 of the 2006 Act, which provides for the continuance or establishment of Community Health Councils for areas in Wales, is repealed, and those Community Health Councils are abolished.
+(1)[^c-2d2a101bf32557599332fd821dfc95b7] Section 182 of the 2006 Act, which provides for the continuance or establishment of Community Health Councils for areas in Wales, is repealed, and those Community Health Councils are abolished.
 
-(2)[^key-2d2a101bf32557599332fd821dfc95b7] Schedule 10 to the 2006 Act, which makes further provision about Community Health Councils, is also repealed.
+(2)[^c-2d2a101bf32557599332fd821dfc95b7] Schedule 10 to the 2006 Act, which makes further provision about Community Health Councils, is also repealed.
 
-(3)[^key-f6c5fd92c7613baddf66d46002389ee3] Schedule 2 makes provision relating to the transfer of property, rights and liabilities, in connection with the abolition of Community Health Councils.
+(3)[^c-f6c5fd92c7613baddf66d46002389ee3] Schedule 2 makes provision relating to the transfer of property, rights and liabilities, in connection with the abolition of Community Health Councils.
 
 ## PART 5 — Miscellaneous and General
 
 ### Constitution of NHS trusts
 
-#### 24. Vice-chairs of boards of directors of NHS trusts[^key-6086ed1d734590fc9618ef6408bf1411]
+#### 24. Vice-chairs of boards of directors of NHS trusts[^c-6086ed1d734590fc9618ef6408bf1411]
 
 (1) Part 1 of Schedule 3 to the 2006 Act (constitution, establishment etc. of NHS trusts) is amended as follows.
 
@@ -478,7 +478,7 @@ In this Part—
 
 ### General
 
-#### 25. Regulations[^key-06203f5cd22cc2aa996eeb595d09f9ae]
+#### 25. Regulations[^c-06203f5cd22cc2aa996eeb595d09f9ae]
 
 (1) A power to make regulations under this Act is to be exercised by statutory instrument.
 
@@ -493,7 +493,7 @@ In this Part—
 - (a) an Act or Measure of the National Assembly for Wales;
 - (b) an Act of Parliament.
 
-#### 26. Interpretation[^key-68db1ee2dc9993013d353d485b93fe92]
+#### 26. Interpretation[^c-68db1ee2dc9993013d353d485b93fe92]
 
 In this Act—
 
@@ -502,11 +502,11 @@ In this Act—
 - “**NHS trust**” (“***ymddiriedolaeth GIG***”) means a body established under section 18 of the 2006 Act;
 - “**regulations**” (“***rheoliadau***”) means regulations made by the Welsh Ministers.
 
-#### 27. Minor and consequential amendments[^key-c3cce2220e4da31a17de96834545e711]
+#### 27. Minor and consequential amendments[^c-c3cce2220e4da31a17de96834545e711]
 
 Schedule 3 contains minor and consequential amendments.
 
-#### 28. Power to make transitional etc. provision[^key-1f8918a689eabfd3f63f47557ff67509]
+#### 28. Power to make transitional etc. provision[^c-1f8918a689eabfd3f63f47557ff67509]
 
 (1) Regulations may, if the Welsh Ministers consider it necessary or appropriate for the purposes of this Act, make—
 
@@ -544,7 +544,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Status
 
-**1.**[^key-3cecfe40f684bb4eb2d684761d461307] (1) The Citizen Voice Body is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+**1.**[^c-3cecfe40f684bb4eb2d684761d461307] (1) The Citizen Voice Body is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
 (2) The Body's property is not to be regarded as property of, or property held on behalf of, the Crown.
 
@@ -552,7 +552,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Membership
 
-**2.**[^key-4abe2cca561eeda814bfe6f9202dda23] (1) The Citizen Voice Body's members are—
+**2.**[^c-4abe2cca561eeda814bfe6f9202dda23] (1) The Citizen Voice Body's members are—
 
 - (a) a person appointed by the Welsh Ministers as its chairing member,
 - (b) a person appointed by the Welsh Ministers as deputy to the chairing member,
@@ -564,11 +564,11 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Disqualification from appointment as non-executive member
 
-**3.**[^key-a9fc75f13267bd47fede0cc897772b28] A person is disqualified from being appointed as a non-executive member of the Citizen Voice Body, if the person is a member of the Body's staff.
+**3.**[^c-a9fc75f13267bd47fede0cc897772b28] A person is disqualified from being appointed as a non-executive member of the Citizen Voice Body, if the person is a member of the Body's staff.
 
 #### Terms of non-executive membership
 
-**4.**[^key-fe4664fe35cc71bad6a4adeb19197f04] (1) A non-executive member of the Citizen Voice Body holds office for such period, and on such terms and conditions, as may be specified in the terms of appointment, but this is subject to sub-paragraphs (2) and (4) and paragraph 5.
+**4.**[^c-fe4664fe35cc71bad6a4adeb19197f04] (1) A non-executive member of the Citizen Voice Body holds office for such period, and on such terms and conditions, as may be specified in the terms of appointment, but this is subject to sub-paragraphs (2) and (4) and paragraph 5.
 
 (2) The period of office specified in a non-executive member's terms of appointment may not exceed 4 years.
 
@@ -583,7 +583,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Removal of non-executive members from office
 
-**5.**[^key-cab0608cfd16c7a26f95d85369766e0b] (1) The Welsh Ministers may by written notice to a non-executive member of the Citizen Voice Body remove that person from office if the Welsh Ministers are satisfied—
+**5.**[^c-cab0608cfd16c7a26f95d85369766e0b] (1) The Welsh Ministers may by written notice to a non-executive member of the Citizen Voice Body remove that person from office if the Welsh Ministers are satisfied—
 
 - (a) that the person is unfit to continue as a member, or
 - (b) that the person is unable or unwilling to exercise the functions of a member.
@@ -594,7 +594,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Appointment of the associate member
 
-**6.**[^key-dc046a419aa58913e4fbaf95023b5891] (1) Sub-paragraph (2) applies where—
+**6.**[^c-dc046a419aa58913e4fbaf95023b5891] (1) Sub-paragraph (2) applies where—
 
 - (a) one or more trade unions are recognised by the Citizen Voice Body, and
 - (b) the position of associate member is unoccupied.
@@ -617,7 +617,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Terms of associate membership etc.
 
-**7.**[^key-884f836d2da24dde992dee259f921b7c] (1) An associate member of the Citizen Voice Body is not eligible to vote in any proceedings of the Body.
+**7.**[^c-884f836d2da24dde992dee259f921b7c] (1) An associate member of the Citizen Voice Body is not eligible to vote in any proceedings of the Body.
 
 (2) An associate member of the Body holds office for such period, and on such terms and conditions, as may be specified by the non-executive members in the terms of appointment, but this is subject to sub-paragraphs (3) and (5) and paragraph 8.
 
@@ -631,7 +631,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Removal of associate member from office
 
-**8.**[^key-1387db6e355a29a46196a87007283752] (1) The non-executive members may by written notice to the associate member of the Citizen Voice Body remove that person from office as the associate member if satisfied—
+**8.**[^c-1387db6e355a29a46196a87007283752] (1) The non-executive members may by written notice to the associate member of the Citizen Voice Body remove that person from office as the associate member if satisfied—
 
 - (a) that the person is unfit to continue as a member, or
 - (b) that the person is unable or unwilling to exercise the functions of a member.
@@ -644,7 +644,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Chief executive
 
-**9.**[^key-4a3577810c245a7e16ca91ba8adac916] (1) The non-executive members of the Citizen Voice Body must appoint a person as the Body's chief executive.
+**9.**[^c-4a3577810c245a7e16ca91ba8adac916] (1) The non-executive members of the Citizen Voice Body must appoint a person as the Body's chief executive.
 
 (2) The chief executive is appointed on such terms and conditions (including terms and conditions as to remuneration, allowances and pension) as may be specified by the non-executive members in the terms of the appointment.
 
@@ -652,7 +652,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Other staff
 
-**10.**[^key-748e91a6d57f284e091bbcd5ade58c48] (1) The Citizen Voice Body may appoint other members of staff, in addition to a chief executive.
+**10.**[^c-748e91a6d57f284e091bbcd5ade58c48] (1) The Citizen Voice Body may appoint other members of staff, in addition to a chief executive.
 
 (2) A member of staff appointed under this paragraph is appointed on such terms and conditions (including terms and conditions as to remuneration, allowances and pension) as the Body may specify in the terms of the appointment.
 
@@ -662,7 +662,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Committees
 
-**11.**[^key-ce67074b1eb23113eb6a68764adbcbde] (1) The Citizen Voice Body may establish committees and sub-committees.
+**11.**[^c-ce67074b1eb23113eb6a68764adbcbde] (1) The Citizen Voice Body may establish committees and sub-committees.
 
 (2) A committee or sub-committee may include, or be comprised entirely of, persons who are not members of the Body.
 
@@ -673,7 +673,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Delegation
 
-**12.**[^key-fd852eaa6323a73cc4db325006e06016] (1) The Citizen Voice Body may arrange for any of its functions to be exercised by any of its —
+**12.**[^c-fd852eaa6323a73cc4db325006e06016] (1) The Citizen Voice Body may arrange for any of its functions to be exercised by any of its —
 
 - (a) committees,
 - (b) sub-committees,
@@ -684,7 +684,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Supplementary powers
 
-**13.**[^key-858a1931cd7fd9707fc6d5220debdb04] (1) The Citizen Voice Body may do anything which is calculated to facilitate, or which is conducive or incidental to, the exercise of its functions.
+**13.**[^c-858a1931cd7fd9707fc6d5220debdb04] (1) The Citizen Voice Body may do anything which is calculated to facilitate, or which is conducive or incidental to, the exercise of its functions.
 
 (2) But sub-paragraph (1) does not permit the Body to borrow money.
 
@@ -692,20 +692,20 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Procedure
 
-**14.**[^key-7943bd946be147cccd4dd3c44d060690] (1) The Citizen Voice Body must make rules to regulate its own procedure (including quorum).
+**14.**[^c-7943bd946be147cccd4dd3c44d060690] (1) The Citizen Voice Body must make rules to regulate its own procedure (including quorum).
 
 (2) The Body must make rules to regulate the procedure of its committees and sub-committees (including quorum).
 
 #### Validity of proceedings and acts
 
-**15.**[^key-13c30b33e96ac1ccb8564a9fb82ca0be] The validity of proceedings and acts of the Citizen Voice Body (or of its committees and sub-committees) is not affected by—
+**15.**[^c-13c30b33e96ac1ccb8564a9fb82ca0be] The validity of proceedings and acts of the Citizen Voice Body (or of its committees and sub-committees) is not affected by—
 
 - (a) any vacancy in the Body's membership, or
 - (b) any defect in the appointment of a member.
 
 #### Seal
 
-**16.**[^key-5078d4a3d5b3edf8a494a12eb4a8da06] (1) The Citizen Voice Body may have a seal.
+**16.**[^c-5078d4a3d5b3edf8a494a12eb4a8da06] (1) The Citizen Voice Body may have a seal.
 
 (2) The application of the seal must be authenticated by the signature of—
 
@@ -714,17 +714,17 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Evidence
 
-**17.**[^key-510604f0fdd2cd4eba9324be84fbc5d2] A document purporting to be duly executed under the seal of the Citizen Voice Body or to be signed on the Body's behalf is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
+**17.**[^c-510604f0fdd2cd4eba9324be84fbc5d2] A document purporting to be duly executed under the seal of the Citizen Voice Body or to be signed on the Body's behalf is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
 
 ### PART 6 — Financial Matters
 
 #### Funding
 
-**18.**[^key-ef0967e578d9ea7148d656ed13166a08] The Welsh Ministers may make payments to the Citizen Voice Body of such amounts, and at such times, and on such conditions, as the Welsh Ministers think appropriate.
+**18.**[^c-ef0967e578d9ea7148d656ed13166a08] The Welsh Ministers may make payments to the Citizen Voice Body of such amounts, and at such times, and on such conditions, as the Welsh Ministers think appropriate.
 
 #### Accounting officer
 
-**19.**[^key-64605e0507775092dcfa047d974d5046] (1) The Citizen Voice Body's chief executive is its accounting officer.
+**19.**[^c-64605e0507775092dcfa047d974d5046] (1) The Citizen Voice Body's chief executive is its accounting officer.
 
 (2) The accounting officer has, in relation to the Body's accounts and finances, the responsibilities specified from time to time by the Welsh Ministers.
 
@@ -737,7 +737,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Accounts
 
-**20.**[^key-35e2065bc8791cc2689e6548dc1aef32] (1) The Citizen Voice Body must for each financial year—
+**20.**[^c-35e2065bc8791cc2689e6548dc1aef32] (1) The Citizen Voice Body must for each financial year—
 
 - (a) keep proper accounts and proper records in relation to those accounts, and
 - (b) prepare a statement of accounts.
@@ -755,7 +755,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Audit
 
-**21.**[^key-9e0b3d47f6dd5e32166959593ffae0ed] (1) This paragraph applies in relation to each statement of accounts submitted to the Auditor General for Wales by the Citizen Voice Body under paragraph 20(3)(b).
+**21.**[^c-9e0b3d47f6dd5e32166959593ffae0ed] (1) This paragraph applies in relation to each statement of accounts submitted to the Auditor General for Wales by the Citizen Voice Body under paragraph 20(3)(b).
 
 (2) The Auditor General for Wales must examine, certify and report on the statement of accounts.
 
@@ -772,7 +772,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Annual plan
 
-**22.**[^key-39d720e3cdd23f4ceb580ade950b7c9d] (1) Before the start of each financial year the Citizen Voice Body must publish a plan setting out how it proposes to exercise its functions during the year.
+**22.**[^c-39d720e3cdd23f4ceb580ade950b7c9d] (1) Before the start of each financial year the Citizen Voice Body must publish a plan setting out how it proposes to exercise its functions during the year.
 
 (2) A plan under this paragraph must include a statement of the Body's objectives and priorities for the year.
 
@@ -780,7 +780,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Annual reports
 
-**23.**[^key-e77773c8c0dad3dac7ccf3c359ece564] (1) As soon as is practicable after the end of each financial year, the Citizen Voice Body must publish a report (an “annual report”) on the exercise of its functions during the year.
+**23.**[^c-e77773c8c0dad3dac7ccf3c359ece564] (1) As soon as is practicable after the end of each financial year, the Citizen Voice Body must publish a report (an “annual report”) on the exercise of its functions during the year.
 
 (2) The Body must—
 
@@ -789,13 +789,13 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Provision of information to Welsh Ministers
 
-**24.**[^key-5f321824930e003c67811e65170b2c8a] The Citizen Voice Body must provide the Welsh Ministers with such information relating to the exercise of its functions as they may from time to time require.
+**24.**[^c-5f321824930e003c67811e65170b2c8a] The Citizen Voice Body must provide the Welsh Ministers with such information relating to the exercise of its functions as they may from time to time require.
 
 ### PART 8 — Interpretation
 
 #### General interpretation
 
-**25.**[^key-2cad6a1e80104df1c63194befa0ac9d0] In this Schedule—
+**25.**[^c-2cad6a1e80104df1c63194befa0ac9d0] In this Schedule—
 
 - “**financial year**” means the period of 12 months ending with the 31 March;
 - “**non-executive member**” has the meaning given by paragraph 2(2).
@@ -806,7 +806,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 ### Transfer schemes
 
-**1.**[^key-c747f40c05c7e9da13966e230804825f] (1) The Welsh Ministers may, in connection with the abolition of Community Health Councils, make one or more transfer schemes.
+**1.**[^c-c747f40c05c7e9da13966e230804825f] (1) The Welsh Ministers may, in connection with the abolition of Community Health Councils, make one or more transfer schemes.
 
 (2) A transfer scheme is a scheme providing for the transfer to the Citizen Voice Body of any property, rights and liabilities mentioned in sub-paragraph (3).
 
@@ -852,19 +852,19 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
 
-**1.**[^key-2db93ddaf6db85affc6d451ab5ac529a] Part 2 of the Health and Social Care (Community Health and Standards) Act 2003 (standards in relation to health care provided by or for Welsh NHS bodies) is amended as follows.
+**1.**[^c-2db93ddaf6db85affc6d451ab5ac529a] Part 2 of the Health and Social Care (Community Health and Standards) Act 2003 (standards in relation to health care provided by or for Welsh NHS bodies) is amended as follows.
 
-**2.**[^key-350cd0d6e1566da41fae006ca7325718] Section 45(1) is repealed.
+**2.**[^c-350cd0d6e1566da41fae006ca7325718] Section 45(1) is repealed.
 
-**3.**[^key-c1a79411fc0946ddb581ee69b509112d] In section 47 (power to prepare and publish standards in relation to the provision of health care), in subsection (4), for the words from “every” to the end substitute “ a Welsh NHS body in discharging a duty under section 12A(1), 20A(1) or 24A(1) of the National Health Service (Wales) Act 2006 (duties to secure quality in the provision of health services). ”
+**3.**[^c-c1a79411fc0946ddb581ee69b509112d] In section 47 (power to prepare and publish standards in relation to the provision of health care), in subsection (4), for the words from “every” to the end substitute “ a Welsh NHS body in discharging a duty under section 12A(1), 20A(1) or 24A(1) of the National Health Service (Wales) Act 2006 (duties to secure quality in the provision of health services). ”
 
-**4.**[^key-63a714b3a58d7f5e846ef4ccf8f511ea] In section 70 (reviews and investigations relating to Wales), in subsection (3), for the words from “arrangements” to the end substitute “ steps taken by a Welsh NHS body for the purpose of discharging a duty under section 12A(1), 20A(1) or 24A(1) of the National Health Service (Wales) Act 2006 (duties to secure quality in the provision of health services). ”
+**4.**[^c-63a714b3a58d7f5e846ef4ccf8f511ea] In section 70 (reviews and investigations relating to Wales), in subsection (3), for the words from “arrangements” to the end substitute “ steps taken by a Welsh NHS body for the purpose of discharging a duty under section 12A(1), 20A(1) or 24A(1) of the National Health Service (Wales) Act 2006 (duties to secure quality in the provision of health services). ”
 
 ### PART 2 — Amendments and repeals relating to Part 4
 
 #### Public Bodies (Admission to Meetings) Act 1960 (c. 67)
 
-**5.**[^key-b35f476ba97368a4c3199f0454162506] In Schedule 1 to the Public Bodies (Admission to Meetings) Act 1960 (bodies to which Act applies), in paragraph 1, after sub-paragraph (bj) insert—
+**5.**[^c-b35f476ba97368a4c3199f0454162506] In Schedule 1 to the Public Bodies (Admission to Meetings) Act 1960 (bodies to which Act applies), in paragraph 1, after sub-paragraph (bj) insert—
 
 > - (bja) the Citizen Voice Body for Health and Social Care, Wales;
 
@@ -872,7 +872,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Mental Health Act 1983 (c. 20)
 
-**6.**[^key-83d843926a68de7cda1b373497c9aeb5] In section 134 of the Mental Health Act 1983 (correspondence of patients)—
+**6.**[^c-83d843926a68de7cda1b373497c9aeb5] In section 134 of the Mental Health Act 1983 (correspondence of patients)—
 
 - (a) after subsection (3)(ca), insert—
 
@@ -883,18 +883,18 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Community Health Councils (Access to Information) Act 1988 (c. 24)
 
-**7.**[^key-fd13c112c02337d9cc6a138c38479e26] The Community Health Councils (Access to Information) Act 1988 is repealed.
+**7.**[^c-fd13c112c02337d9cc6a138c38479e26] The Community Health Councils (Access to Information) Act 1988 is repealed.
 
 #### Freedom of Information Act 2000 (c. 36)
 
-**8.**[^key-e0a265837c3da653d8ceaf4f1ff8375c] In Schedule 1 to the Freedom of Information Act 2000 (public authorities)—
+**8.**[^c-e0a265837c3da653d8ceaf4f1ff8375c] In Schedule 1 to the Freedom of Information Act 2000 (public authorities)—
 
 - (a) in Part 3 (the National Health Service, England and Wales), omit paragraph 41;
 - (b) in Part 6 (other public bodies and offices: general), after the entry for the Children's Commissioner for Wales insert— “ The Citizen Voice Body for Health and Social Care, Wales. ”
 
 #### Government of Wales Act 2006 (c. 32)
 
-**9.**[^key-b75170b3416041a19c5b14220a8758bf] In section 148 of the Government of Wales Act 2006 (meaning of “Welsh public records”), in subsection (2), after paragraph (a) insert—
+**9.**[^c-b75170b3416041a19c5b14220a8758bf] In section 148 of the Government of Wales Act 2006 (meaning of “Welsh public records”), in subsection (2), after paragraph (a) insert—
 
 > - (aa) the Citizen Voice Body for Health and Social Care, Wales,
 
@@ -902,7 +902,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Equality Act 2010 (c. 15)
 
-**10.**[^key-411d3fc683328f6baca553f6019a6a5f] In Schedule 19 to the Equality Act 2010 (public authorities), in Part 2 (relevant Welsh authorities)—
+**10.**[^c-411d3fc683328f6baca553f6019a6a5f] In Schedule 19 to the Equality Act 2010 (public authorities), in Part 2 (relevant Welsh authorities)—
 
 - (a) under the heading “National Health Service”—
   - (i) omit the words “A Community Health Council in Wales.”;
@@ -911,7 +911,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Welsh Language (Wales) Measure 2011 (nawm 1)
 
-**11.**[^key-c5d6b3b31e0945ebc84d26ee49b56f61] In Schedule 6 to the Welsh Language (Wales) Measure 2011 (public bodies etc.: standards), in the table—
+**11.**[^c-c5d6b3b31e0945ebc84d26ee49b56f61] In Schedule 6 to the Welsh Language (Wales) Measure 2011 (public bodies etc.: standards), in the table—
 
 - (a) omit the entry for the Board of Community Health Councils in Wales;
 - (b) omit the entry for Community Health Councils;
@@ -930,7 +930,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Well-being of Future Generations (Wales) Act 2015 (anaw 2)
 
-**12.**[^key-e861fc10ea7fb66666caf551a59224d8] In section 32 of the Well-being of Future Generations (Wales) Act 2015 (other partners of public services boards)—
+**12.**[^c-e861fc10ea7fb66666caf551a59224d8] In section 32 of the Well-being of Future Generations (Wales) Act 2015 (other partners of public services boards)—
 
 - (a) omit subsection (1)(c);
 - (b) after subsection (1)(b) insert—
@@ -941,25 +941,25 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Counter-Terrorism and Security Act 2015 (c. 6)
 
-**13.**[^key-6f00e95c4fe52ab4b295a2eaeb3f65ea] In Schedule 6 to the Counter-Terrorism and Security Act 2015 (specified authorities), in Part 1 (General: England and Wales), under the heading “Health and social care”, omit the words “A Community Health Council in Wales.”
+**13.**[^c-6f00e95c4fe52ab4b295a2eaeb3f65ea] In Schedule 6 to the Counter-Terrorism and Security Act 2015 (specified authorities), in Part 1 (General: England and Wales), under the heading “Health and social care”, omit the words “A Community Health Council in Wales.”
 
 #### Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)
 
-**14.**[^key-9423433f52a8e2b44cbddc1d51b897d5] In section 177 of the Regulation and Inspection of Social Care (Wales) Act 2016 (meaning of relevant authority in Part 9 of Act)—
+**14.**[^c-9423433f52a8e2b44cbddc1d51b897d5] In section 177 of the Regulation and Inspection of Social Care (Wales) Act 2016 (meaning of relevant authority in Part 9 of Act)—
 
 - (a) omit subsection (1)(g), and
 - (b) omit subsection (2)(c).
 
 #### Digital Economy Act 2017 (c. 30)
 
-**15.**[^key-cb4dce9d88457d591944edffcc8cb31e] In Schedule 4 to the Digital Economy Act 2017 (specified persons for purposes of disclosure of information to improve public service delivery), in Part 2 (Welsh bodies)—
+**15.**[^c-cb4dce9d88457d591944edffcc8cb31e] In Schedule 4 to the Digital Economy Act 2017 (specified persons for purposes of disclosure of information to improve public service delivery), in Part 2 (Welsh bodies)—
 
 - (a) in paragraph 35 for “A Community Health Council in Wales.” substitute “ The Citizen Voice Body for Health and Social Care, Wales. ”;
 - (b) omit paragraph 38.
 
 #### The Welsh Language Standards (No. 7) Regulations 2018 (S.I. 2018/441)
 
-**16.**[^key-ef8c12634c673e52a0167b2f9cd8ef49] (1) The Welsh Language Standards (No. 7) Regulations 2018 are amended as follows.
+**16.**[^c-ef8c12634c673e52a0167b2f9cd8ef49] (1) The Welsh Language Standards (No. 7) Regulations 2018 are amended as follows.
 
 (2) In regulation 3(2)(b) for “Community Health Councils and the Board of Community Health Councils in Wales requiring them” substitute “ the Citizen Voice Body requiring it ”.
 
@@ -971,7 +971,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### Public Services Ombudsman (Wales) Act 2019 (anaw 3)
 
-**17.**[^key-234fcf031485383121e5b88ed501d744] (1) The Public Services Ombudsman (Wales) Act 2019 is amended as follows.
+**17.**[^c-234fcf031485383121e5b88ed501d744] (1) The Public Services Ombudsman (Wales) Act 2019 is amended as follows.
 
 (2) In section 16 (power to investigate other health-related services), in the definition of “relevant listed authority” in subsection (4)—
 
@@ -993,7 +993,7 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 #### National Health Service (Wales) Act 2006 (c. 42)
 
-**18.**[^key-251054bf0d65a6887e95c9d054a2d58f] In section 187 of the 2006 Act (duty of Welsh Ministers to arrange for provision of independent advocacy services)—
+**18.**[^c-251054bf0d65a6887e95c9d054a2d58f] In section 187 of the 2006 Act (duty of Welsh Ministers to arrange for provision of independent advocacy services)—
 
 - (a) in subsection (2)(ca), after “health service body” insert “ , family health service provider in Wales, independent provider ”;
 - (b) in subsection (3), at the appropriate place, insert—
@@ -1004,154 +1004,154 @@ The short title of this Act is the Health and Social Care (Quality and Engagemen
 
 ## Annotations
 
-[^key-b36b5516444bce6fcbcf48194bf6cd11]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2020/1/section/1) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/a)
+[^c-b36b5516444bce6fcbcf48194bf6cd11]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2020/1/section/1) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/a)
 
-[^key-6f49d525bef82daa151942b74ab2e1a3]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2020/1/section/2) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)
+[^c-6f49d525bef82daa151942b74ab2e1a3]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2020/1/section/2) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)
 
-[^key-efecedccf2683fe503995307ac7a69da]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2020/1/section/3) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/c)
+[^c-efecedccf2683fe503995307ac7a69da]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2020/1/section/3) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/c)
 
-[^key-353ac59e4e7e283804eaf4770eecdea1]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2020/1/section/4) in force at 7.3.2023 for specified purposes by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2023/259/article/2/1/a)
+[^c-353ac59e4e7e283804eaf4770eecdea1]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2020/1/section/4) in force at 7.3.2023 for specified purposes by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2023/259/article/2/1/a)
 
-[^key-943051c43add8994b01ddfc32a592fec]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2020/1/section/4) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2023/370/article/3/2/a)
+[^c-943051c43add8994b01ddfc32a592fec]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2020/1/section/4) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2023/370/article/3/2/a)
 
-[^key-77e25b5e1aeaff2d9e99303aed958737]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2020/1/section/5) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/d)
+[^c-77e25b5e1aeaff2d9e99303aed958737]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2020/1/section/5) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/d)
 
-[^key-12a5dfea596997b3be6acb82515a9307]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2020/1/section/6) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/e)
+[^c-12a5dfea596997b3be6acb82515a9307]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2020/1/section/6) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/e)
 
-[^key-f3cc5e0d82c288befdf6f39efea3b076]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2020/1/section/7) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(f)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/f)
+[^c-f3cc5e0d82c288befdf6f39efea3b076]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2020/1/section/7) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(f)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/f)
 
-[^key-2d3bc489c15dfec50380fbfe1e74b6b1]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2020/1/section/8) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(g)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/g)
+[^c-2d3bc489c15dfec50380fbfe1e74b6b1]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2020/1/section/8) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(g)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/g)
 
-[^key-56d66b890ef6990fc5dc0fc5eb1bad7e]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2020/1/section/9) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(h)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/h)
+[^c-56d66b890ef6990fc5dc0fc5eb1bad7e]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2020/1/section/9) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(h)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/h)
 
-[^key-8059691cb3d26d3a59e2ae9dd1ebcc33]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2020/1/section/10) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(i)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/i)
+[^c-8059691cb3d26d3a59e2ae9dd1ebcc33]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2020/1/section/10) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(i)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/i)
 
-[^key-7ef87daabb0c6340a2e6472ae4e437a7]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2020/1/section/11) in force at 7.3.2023 for specified purposes by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2023/259/article/2/1/b)
+[^c-7ef87daabb0c6340a2e6472ae4e437a7]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2020/1/section/11) in force at 7.3.2023 for specified purposes by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2023/259/article/2/1/b)
 
-[^key-e83b1ba2052fbb60ef91dce7e3b4cad3]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2020/1/section/11) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/2/b)
+[^c-e83b1ba2052fbb60ef91dce7e3b4cad3]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2020/1/section/11) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/2/b)
 
-[^key-38e2cc974b7999de7872f76068b6273c]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2020/1/section/12) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(a)](https://www.legislation.gov.uk/wsi/2022/208/article/3/a)
+[^c-38e2cc974b7999de7872f76068b6273c]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2020/1/section/12) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(a)](https://www.legislation.gov.uk/wsi/2022/208/article/3/a)
 
-[^key-a41d531bd68b3900527d26420204c003]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2020/1/section/13) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(j)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/j)
+[^c-a41d531bd68b3900527d26420204c003]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2020/1/section/13) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(j)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/j)
 
-[^key-db4f91b39466d37c4e6592abb3022919]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2020/1/section/14) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(k)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/k)
+[^c-db4f91b39466d37c4e6592abb3022919]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2020/1/section/14) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(k)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/k)
 
-[^key-fc0675e49cb611cade46a577d513c6fe]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2020/1/section/15) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(l)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/l)
+[^c-fc0675e49cb611cade46a577d513c6fe]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2020/1/section/15) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(l)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/l)
 
-[^key-a4d76b109192cf469247c51cb298f352]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2020/1/section/16) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(m)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/m)
+[^c-a4d76b109192cf469247c51cb298f352]: Commencement: [S. 16](https://www.legislation.gov.uk/asc/2020/1/section/16) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(m)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/m)
 
-[^key-db7ea14e8dc6374f1a3c98387085296a]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2020/1/section/17) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(n)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/n)
+[^c-db7ea14e8dc6374f1a3c98387085296a]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2020/1/section/17) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(n)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/n)
 
-[^key-e28f496883be3d21651775f54d523db8]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2020/1/section/18) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(o)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/o)
+[^c-e28f496883be3d21651775f54d523db8]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2020/1/section/18) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(o)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/o)
 
-[^key-a9e9dc7e6869fc938914cd631f052b74]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/asc/2020/1/section/19/1)[(2)](https://www.legislation.gov.uk/asc/2020/1/section/19/2)[(5)](https://www.legislation.gov.uk/asc/2020/1/section/19/5) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(b)](https://www.legislation.gov.uk/wsi/2022/208/article/3/b)
+[^c-a9e9dc7e6869fc938914cd631f052b74]: Commencement: [S. 19(1)](https://www.legislation.gov.uk/asc/2020/1/section/19/1)[(2)](https://www.legislation.gov.uk/asc/2020/1/section/19/2)[(5)](https://www.legislation.gov.uk/asc/2020/1/section/19/5) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(b)](https://www.legislation.gov.uk/wsi/2022/208/article/3/b)
 
-[^key-930aa5af29bbc3cff6eddd73f88abbc3]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/asc/2020/1/section/19/3)[(4)](https://www.legislation.gov.uk/asc/2020/1/section/19/4) in force at 1.7.2023 by [S.I. 2023/723](https://www.legislation.gov.uk/wsi/2023/723), [art. 2](https://www.legislation.gov.uk/wsi/2023/723/article/2)
+[^c-930aa5af29bbc3cff6eddd73f88abbc3]: Commencement: [S. 19(3)](https://www.legislation.gov.uk/asc/2020/1/section/19/3)[(4)](https://www.legislation.gov.uk/asc/2020/1/section/19/4) in force at 1.7.2023 by [S.I. 2023/723](https://www.legislation.gov.uk/wsi/2023/723), [art. 2](https://www.legislation.gov.uk/wsi/2023/723/article/2)
 
-[^key-bace763eda6059062106c171fa139502]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2020/1/section/20) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(p)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/p)
+[^c-bace763eda6059062106c171fa139502]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2020/1/section/20) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(p)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/p)
 
-[^key-440ece02ce65c470cd1abce6a841723d]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2020/1/section/21) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(c)](https://www.legislation.gov.uk/wsi/2022/208/article/3/c)
+[^c-440ece02ce65c470cd1abce6a841723d]: Commencement: [S. 21](https://www.legislation.gov.uk/asc/2020/1/section/21) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(c)](https://www.legislation.gov.uk/wsi/2022/208/article/3/c)
 
-[^key-162f75403f345a2d29a60a22f4050232]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2020/1/section/22) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(d)](https://www.legislation.gov.uk/wsi/2022/208/article/3/d)
+[^c-162f75403f345a2d29a60a22f4050232]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2020/1/section/22) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(d)](https://www.legislation.gov.uk/wsi/2022/208/article/3/d)
 
-[^key-2d2a101bf32557599332fd821dfc95b7]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asc/2020/1/section/23/1)[(2)](https://www.legislation.gov.uk/asc/2020/1/section/23/2) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(q)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/q)
+[^c-2d2a101bf32557599332fd821dfc95b7]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asc/2020/1/section/23/1)[(2)](https://www.legislation.gov.uk/asc/2020/1/section/23/2) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(q)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/q)
 
-[^key-f6c5fd92c7613baddf66d46002389ee3]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asc/2020/1/section/23/3) in force at 29.3.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/370/article/2/a)
+[^c-f6c5fd92c7613baddf66d46002389ee3]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asc/2020/1/section/23/3) in force at 29.3.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 2(a)](https://www.legislation.gov.uk/wsi/2023/370/article/2/a)
 
-[^key-6086ed1d734590fc9618ef6408bf1411]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2020/1/section/24) in force at 8.3.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 2(a)](https://www.legislation.gov.uk/wsi/2022/208/article/2/a)
+[^c-6086ed1d734590fc9618ef6408bf1411]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2020/1/section/24) in force at 8.3.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 2(a)](https://www.legislation.gov.uk/wsi/2022/208/article/2/a)
 
-[^key-06203f5cd22cc2aa996eeb595d09f9ae]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2020/1/section/25) in force at 7.3.2023 by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2023/259/article/2/2/a)
+[^c-06203f5cd22cc2aa996eeb595d09f9ae]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2020/1/section/25) in force at 7.3.2023 by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2023/259/article/2/2/a)
 
-[^key-68db1ee2dc9993013d353d485b93fe92]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2020/1/section/26) in force at 8.3.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/208/article/2/b)
+[^c-68db1ee2dc9993013d353d485b93fe92]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2020/1/section/26) in force at 8.3.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/208/article/2/b)
 
-[^key-c3cce2220e4da31a17de96834545e711]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2020/1/section/27) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(r)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/r)
+[^c-c3cce2220e4da31a17de96834545e711]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2020/1/section/27) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(r)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/r)
 
-[^key-1f8918a689eabfd3f63f47557ff67509]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2020/1/section/28) in force at 7.3.2023 by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2023/259/article/2/2/b)
+[^c-1f8918a689eabfd3f63f47557ff67509]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2020/1/section/28) in force at 7.3.2023 by [S.I. 2023/259](https://www.legislation.gov.uk/wsi/2023/259), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2023/259/article/2/2/b)
 
-[^key-3cecfe40f684bb4eb2d684761d461307]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/1) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-3cecfe40f684bb4eb2d684761d461307]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/1) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-4abe2cca561eeda814bfe6f9202dda23]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/2) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-4abe2cca561eeda814bfe6f9202dda23]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/2) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-a9fc75f13267bd47fede0cc897772b28]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/3) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-a9fc75f13267bd47fede0cc897772b28]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/3) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-fe4664fe35cc71bad6a4adeb19197f04]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/4) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-fe4664fe35cc71bad6a4adeb19197f04]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/4) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-cab0608cfd16c7a26f95d85369766e0b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/5) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-cab0608cfd16c7a26f95d85369766e0b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/5) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-dc046a419aa58913e4fbaf95023b5891]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/6) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(s)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/s)
+[^c-dc046a419aa58913e4fbaf95023b5891]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/6) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(s)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/s)
 
-[^key-884f836d2da24dde992dee259f921b7c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/7) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(s)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/s)
+[^c-884f836d2da24dde992dee259f921b7c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/7) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(s)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/s)
 
-[^key-1387db6e355a29a46196a87007283752]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/8) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(s)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/s)
+[^c-1387db6e355a29a46196a87007283752]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/8) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(s)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/s)
 
-[^key-4a3577810c245a7e16ca91ba8adac916]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/9) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-4a3577810c245a7e16ca91ba8adac916]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/9) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-748e91a6d57f284e091bbcd5ade58c48]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/10) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-748e91a6d57f284e091bbcd5ade58c48]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/10) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-ce67074b1eb23113eb6a68764adbcbde]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/11) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-ce67074b1eb23113eb6a68764adbcbde]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/11) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-fd852eaa6323a73cc4db325006e06016]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/12) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-fd852eaa6323a73cc4db325006e06016]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/12) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-858a1931cd7fd9707fc6d5220debdb04]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/13) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-858a1931cd7fd9707fc6d5220debdb04]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/13) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-7943bd946be147cccd4dd3c44d060690]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/14) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-7943bd946be147cccd4dd3c44d060690]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/14) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-13c30b33e96ac1ccb8564a9fb82ca0be]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/15) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-13c30b33e96ac1ccb8564a9fb82ca0be]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/15) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-5078d4a3d5b3edf8a494a12eb4a8da06]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/16) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-5078d4a3d5b3edf8a494a12eb4a8da06]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/16) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-510604f0fdd2cd4eba9324be84fbc5d2]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/17) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-510604f0fdd2cd4eba9324be84fbc5d2]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/17) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-ef0967e578d9ea7148d656ed13166a08]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/18) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-ef0967e578d9ea7148d656ed13166a08]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/18) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-64605e0507775092dcfa047d974d5046]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/19) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-64605e0507775092dcfa047d974d5046]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/19) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-35e2065bc8791cc2689e6548dc1aef32]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/20) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-35e2065bc8791cc2689e6548dc1aef32]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/20) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-9e0b3d47f6dd5e32166959593ffae0ed]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/21) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-9e0b3d47f6dd5e32166959593ffae0ed]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/21) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-39d720e3cdd23f4ceb580ade950b7c9d]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/22) in force at 1.10.2022 by [S.I. 2022/996](https://www.legislation.gov.uk/wsi/2022/996), [art. 2](https://www.legislation.gov.uk/wsi/2022/996/article/2)
+[^c-39d720e3cdd23f4ceb580ade950b7c9d]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/22) in force at 1.10.2022 by [S.I. 2022/996](https://www.legislation.gov.uk/wsi/2022/996), [art. 2](https://www.legislation.gov.uk/wsi/2022/996/article/2)
 
-[^key-e77773c8c0dad3dac7ccf3c359ece564]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/23) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-e77773c8c0dad3dac7ccf3c359ece564]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/23) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-5f321824930e003c67811e65170b2c8a]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/24) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-5f321824930e003c67811e65170b2c8a]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/24) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-2cad6a1e80104df1c63194befa0ac9d0]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/25) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
+[^c-2cad6a1e80104df1c63194befa0ac9d0]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/asc/2020/1/schedule/1/paragraph/25) in force at 1.4.2022 by [S.I. 2022/208](https://www.legislation.gov.uk/wsi/2022/208), [art. 3(e)](https://www.legislation.gov.uk/wsi/2022/208/article/3/e)
 
-[^key-c747f40c05c7e9da13966e230804825f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2020/1/schedule/2/paragraph/1) in force at 29.3.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/370/article/2/b)
+[^c-c747f40c05c7e9da13966e230804825f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2020/1/schedule/2/paragraph/1) in force at 29.3.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/370/article/2/b)
 
-[^key-2db93ddaf6db85affc6d451ab5ac529a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/1) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-2db93ddaf6db85affc6d451ab5ac529a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/1) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-350cd0d6e1566da41fae006ca7325718]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/2) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-350cd0d6e1566da41fae006ca7325718]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/2) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-c1a79411fc0946ddb581ee69b509112d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/3) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-c1a79411fc0946ddb581ee69b509112d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/3) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-63a714b3a58d7f5e846ef4ccf8f511ea]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/4) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-63a714b3a58d7f5e846ef4ccf8f511ea]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/4) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-b35f476ba97368a4c3199f0454162506]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/5) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-b35f476ba97368a4c3199f0454162506]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/5) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-83d843926a68de7cda1b373497c9aeb5]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/6) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-83d843926a68de7cda1b373497c9aeb5]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/6) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-fd13c112c02337d9cc6a138c38479e26]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/7) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-fd13c112c02337d9cc6a138c38479e26]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/7) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-e0a265837c3da653d8ceaf4f1ff8375c]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/8) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-e0a265837c3da653d8ceaf4f1ff8375c]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/8) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-b75170b3416041a19c5b14220a8758bf]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/9) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-b75170b3416041a19c5b14220a8758bf]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/9) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-411d3fc683328f6baca553f6019a6a5f]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/10) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-411d3fc683328f6baca553f6019a6a5f]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/10) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-c5d6b3b31e0945ebc84d26ee49b56f61]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/11) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-c5d6b3b31e0945ebc84d26ee49b56f61]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/11) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-e861fc10ea7fb66666caf551a59224d8]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/12) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-e861fc10ea7fb66666caf551a59224d8]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/12) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-6f00e95c4fe52ab4b295a2eaeb3f65ea]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/13) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-6f00e95c4fe52ab4b295a2eaeb3f65ea]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/13) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-9423433f52a8e2b44cbddc1d51b897d5]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/14) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-9423433f52a8e2b44cbddc1d51b897d5]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/14) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-cb4dce9d88457d591944edffcc8cb31e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/15) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-cb4dce9d88457d591944edffcc8cb31e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/15) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-ef8c12634c673e52a0167b2f9cd8ef49]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-ef8c12634c673e52a0167b2f9cd8ef49]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/16) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-234fcf031485383121e5b88ed501d744]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-234fcf031485383121e5b88ed501d744]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/17) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
 
-[^key-251054bf0d65a6887e95c9d054a2d58f]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/18) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)
+[^c-251054bf0d65a6887e95c9d054a2d58f]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asc/2020/1/schedule/3/paragraph/18) in force at 1.4.2023 by [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(t)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/t)

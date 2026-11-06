@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Offences
 
-### 1. Offences relating to glue traps in England[^key-8e9ee66bd80fa9fbb51fcf767de5aa82][^key-37e02bd8fbb6440b90f6bf3fb943e346]
+### 1. Offences relating to glue traps in England[^c-8e9ee66bd80fa9fbb51fcf767de5aa82][^c-37e02bd8fbb6440b90f6bf3fb943e346]
 
 (1) A person who sets a glue trap in England for the purpose of catching a rodent commits an offence.
 
@@ -73,7 +73,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Licences
 
-### 2. Glue trap licences[^key-a0eac87dfec7e99f285793a3fc4df666][^key-21a2634dd65d17a1972bdf6ba5094b04]
+### 2. Glue trap licences[^c-a0eac87dfec7e99f285793a3fc4df666][^c-21a2634dd65d17a1972bdf6ba5094b04]
 
 (1) The Secretary of State may grant a licence under this section (a “glue trap licence”) authorising a pest controller specified or described in the licence to engage in conduct, for the purpose of preserving public health or public safety, which would otherwise amount to an offence under section 1(1) or (2).
 
@@ -121,7 +121,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) who, in the course of a business, provides a service which consists of, or involves, pest control, or
 - (b) is employed by a public authority to carry out pest control.
 
-### 3. Offences in connection with licences[^key-f3b2fe56051c8158ed3eddf5a5ac6589][^key-3d5cc5041430c6264d0eda8c02e1e25d]
+### 3. Offences in connection with licences[^c-f3b2fe56051c8158ed3eddf5a5ac6589][^c-3d5cc5041430c6264d0eda8c02e1e25d]
 
 (1) A person commits an offence if, in connection with an application for the grant or modification of a glue trap licence, the person—
 
@@ -134,7 +134,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Enforcement and other powers
 
-### 4. Enforcement powers of constables[^key-09b0d7f4911484dbab6b65456ee86b37][^key-68cc1931220eca90c3330acf28fbe484]
+### 4. Enforcement powers of constables[^c-09b0d7f4911484dbab6b65456ee86b37][^c-68cc1931220eca90c3330acf28fbe484]
 
 (1) If a justice of the peace is satisfied by information on oath that—
 
@@ -153,7 +153,7 @@ the justice of the peace may grant a warrant to any constable to enter and searc
 - (a) any other person, and
 - (b) any equipment or materials.
 
-### 5. Enforcement powers of authorised inspectors[^key-60abf92df54762d3e2b168f2a44ec56b][^key-ceb09bb469c691fa2fab8670b99e4152]
+### 5. Enforcement powers of authorised inspectors[^c-60abf92df54762d3e2b168f2a44ec56b][^c-ceb09bb469c691fa2fab8670b99e4152]
 
 (1) An “authorised inspector” is a person authorised in writing under this subsection by the Secretary of State.
 
@@ -200,7 +200,7 @@ the justice of the peace may grant a warrant to any constable to enter and searc
 
 (12) In subsection (3), “**dwelling**” includes any yard, garden, garage or outhouse which is used for purposes in connection with a dwelling.
 
-### 6. Offences in connection with authorised inspectors[^key-43e8f8615c3ab71881d470b1f21826c1][^key-8eae77c25c5f7d324bef385811d16b83]
+### 6. Offences in connection with authorised inspectors[^c-43e8f8615c3ab71881d470b1f21826c1][^c-8eae77c25c5f7d324bef385811d16b83]
 
 (1) A person who intentionally obstructs an authorised inspector acting in the exercise of powers conferred by section 5 commits an offence.
 
@@ -212,14 +212,14 @@ the justice of the peace may grant a warrant to any constable to enter and searc
 
 (5) A person guilty of an offence under subsection (3) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-922727a9f56e921a41e2076dff4c429f] or a fine (or both);
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-922727a9f56e921a41e2076dff4c429f] or a fine (or both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
 
-(6) In relation to an offence committed before the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020, the reference in subsection (5)(a) to the general limit in a magistrates’ court[^key-72907702eed078d75850050232854c01] is to be read as a reference to six months.
+(6) In relation to an offence committed before the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020, the reference in subsection (5)(a) to the general limit in a magistrates’ court[^c-72907702eed078d75850050232854c01] is to be read as a reference to six months.
 
 ## General
 
-### 7. Offences by bodies corporate[^key-d3b725e36b9d6c034baf4b0036c713c9][^key-28211bacc0cdf2a5963c481a74c967af]
+### 7. Offences by bodies corporate[^c-d3b725e36b9d6c034baf4b0036c713c9][^c-28211bacc0cdf2a5963c481a74c967af]
 
 (1) This section applies if an offence under this Act is committed by a body corporate. 
 
@@ -235,7 +235,7 @@ the senior officer or person (as well as the body corporate) is guilty of the of
 - “**director**”, in relation to a body corporate whose affairs are managed by its members, means a member of the body corporate;
 - “**senior officer**”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body corporate.
 
-### 8. Crown application[^key-2394dc4ddf9633c52f568544f4377e7a][^key-6ac5c777038e905abc11aa1551c6d544]
+### 8. Crown application[^c-2394dc4ddf9633c52f568544f4377e7a][^c-6ac5c777038e905abc11aa1551c6d544]
 
 (1) Subject to the provisions of this section, this Act binds the Crown.
 
@@ -251,7 +251,7 @@ the senior officer or person (as well as the body corporate) is guilty of the of
 
 (7) Subsection (6) is to be read as if section 38(3) of the Crown Proceedings Act 1947 (meaning of Her Majesty in her private capacity) were contained in this Act.
 
-### 9. General interpretation[^key-d8027fe301e1f05972cdcc2455ade00f][^key-e1dd22bc5bcc60202da2c112e98c222a]
+### 9. General interpretation[^c-d8027fe301e1f05972cdcc2455ade00f][^c-e1dd22bc5bcc60202da2c112e98c222a]
 
 In this Act—
 
@@ -263,7 +263,7 @@ In this Act—
   - (a) any vehicle, vessel, aircraft or hovercraft;
   - (b) any tent or movable structure.
 
-### 10. Extent, commencement and short title[^key-9f1c2ae74853ae00e91a97e0244861d2][^key-730168ffa786c66df6105a77f3553332]
+### 10. Extent, commencement and short title[^c-9f1c2ae74853ae00e91a97e0244861d2][^c-730168ffa786c66df6105a77f3553332]
 
 (1) This Act extends to England and Wales only.
 
@@ -273,46 +273,46 @@ In this Act—
 
 ## Annotations
 
-[^key-8e9ee66bd80fa9fbb51fcf767de5aa82]: Commencement: S. 1 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-8e9ee66bd80fa9fbb51fcf767de5aa82]: Commencement: S. 1 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-37e02bd8fbb6440b90f6bf3fb943e346]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/26/section/1) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-37e02bd8fbb6440b90f6bf3fb943e346]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/26/section/1) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-a0eac87dfec7e99f285793a3fc4df666]: Commencement: S. 2 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-a0eac87dfec7e99f285793a3fc4df666]: Commencement: S. 2 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-21a2634dd65d17a1972bdf6ba5094b04]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/26/section/2) in force at 22.5.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/1)
+[^c-21a2634dd65d17a1972bdf6ba5094b04]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/26/section/2) in force at 22.5.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/1)
 
-[^key-f3b2fe56051c8158ed3eddf5a5ac6589]: Commencement: S. 3 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-f3b2fe56051c8158ed3eddf5a5ac6589]: Commencement: S. 3 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-3d5cc5041430c6264d0eda8c02e1e25d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/26/section/3) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-3d5cc5041430c6264d0eda8c02e1e25d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/26/section/3) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-09b0d7f4911484dbab6b65456ee86b37]: Commencement: S. 4 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-09b0d7f4911484dbab6b65456ee86b37]: Commencement: S. 4 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-68cc1931220eca90c3330acf28fbe484]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/26/section/4) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-68cc1931220eca90c3330acf28fbe484]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/26/section/4) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-60abf92df54762d3e2b168f2a44ec56b]: Commencement: S. 5 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-60abf92df54762d3e2b168f2a44ec56b]: Commencement: S. 5 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-ceb09bb469c691fa2fab8670b99e4152]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/26/section/5) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-ceb09bb469c691fa2fab8670b99e4152]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/26/section/5) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-43e8f8615c3ab71881d470b1f21826c1]: Commencement: S. 6 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-43e8f8615c3ab71881d470b1f21826c1]: Commencement: S. 6 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-8eae77c25c5f7d324bef385811d16b83]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/26/section/6) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-8eae77c25c5f7d324bef385811d16b83]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2022/26/section/6) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-922727a9f56e921a41e2076dff4c429f]: Textual amendment: Words in [s. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2022/26/section/6/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-922727a9f56e921a41e2076dff4c429f]: Textual amendment: Words in [s. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2022/26/section/6/5/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-72907702eed078d75850050232854c01]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2022/26/section/6/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-72907702eed078d75850050232854c01]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/2022/26/section/6/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-d3b725e36b9d6c034baf4b0036c713c9]: Commencement: S. 7 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-d3b725e36b9d6c034baf4b0036c713c9]: Commencement: S. 7 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-28211bacc0cdf2a5963c481a74c967af]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/26/section/7) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-28211bacc0cdf2a5963c481a74c967af]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/26/section/7) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-2394dc4ddf9633c52f568544f4377e7a]: Commencement: S. 8 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-2394dc4ddf9633c52f568544f4377e7a]: Commencement: S. 8 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-6ac5c777038e905abc11aa1551c6d544]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/26/section/8) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-6ac5c777038e905abc11aa1551c6d544]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/26/section/8) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-d8027fe301e1f05972cdcc2455ade00f]: Commencement: S. 9 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-d8027fe301e1f05972cdcc2455ade00f]: Commencement: S. 9 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-e1dd22bc5bcc60202da2c112e98c222a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/26/section/9) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
+[^c-e1dd22bc5bcc60202da2c112e98c222a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/26/section/9) in force at 31.7.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/2)
 
-[^key-9f1c2ae74853ae00e91a97e0244861d2]: Commencement: S. 10 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
+[^c-9f1c2ae74853ae00e91a97e0244861d2]: Commencement: S. 10 not in force at Royal Assent, see [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/26/section/10/2)
 
-[^key-730168ffa786c66df6105a77f3553332]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/26/section/10) in force at 22.5.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/1)
+[^c-730168ffa786c66df6105a77f3553332]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/26/section/10) in force at 22.5.2024 by [S.I. 2024/686](https://www.legislation.gov.uk/uksi/2024/686), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/686/regulation/2/1)

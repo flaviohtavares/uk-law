@@ -35,8 +35,8 @@ summary: ''
 
 (5) In the case of a person authorised by the Secretary of State under Article 45 to manufacture, sell or transfer prohibited weapons or ammunition, the Chief Constable shall not revoke a firearms dealer's certificate under paragraph (1) or (2).
 
-(6) The Chief Constable on the application of the holder may vary a firearms dealer's certificate on payment of the appropriate fee[^key-b2a23d44d2e994c82902fe476eebc730] .
+(6) The Chief Constable on the application of the holder may vary a firearms dealer's certificate on payment of the appropriate fee[^c-b2a23d44d2e994c82902fe476eebc730] .
 
 ## Annotations
 
-[^key-b2a23d44d2e994c82902fe476eebc730]: Textual amendment: Words in [art. 29(6)](https://www.legislation.gov.uk/nisi/2004/702/article/29/6) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/4)
+[^c-b2a23d44d2e994c82902fe476eebc730]: Textual amendment: Words in [art. 29(6)](https://www.legislation.gov.uk/nisi/2004/702/article/29/6) added (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/4)

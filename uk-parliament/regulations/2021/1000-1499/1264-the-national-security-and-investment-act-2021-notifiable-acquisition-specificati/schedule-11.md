@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-2996ab9884d6322c5ec60c98ae739ca5]
+### 1. Interpretation[^c-2996ab9884d6322c5ec60c98ae739ca5]
 
 In this Schedule—
 
@@ -51,11 +51,11 @@ In this Schedule—
 - “**upstream petroleum facility**” means a terminal, upstream petroleum pipeline or unit of infrastructure that is or will be necessary to a petroleum production project;
 - “**upstream petroleum pipeline**” has the meaning set out in section 90(2) of the Energy Act 2011, but does not include gas interconnectors.
 
-### 2. Activity - energy[^key-b2d98d1b2750263b353002d99cfbf49b]
+### 2. Activity - energy[^c-b2d98d1b2750263b353002d99cfbf49b]
 
  A qualifying entity carrying on any of the activities set out in paragraph 3.
 
-**3.**[^key-7971eef23a7fa7001a6e62d1f2e10fed] The activities referred to in paragraph 2 are—
+**3.**[^c-7971eef23a7fa7001a6e62d1f2e10fed] The activities referred to in paragraph 2 are—
 
 - (a) in respect of any existing upstream petroleum facility that meets the conditions set out in paragraph 4(2)—
   - (i) owning;
@@ -80,7 +80,7 @@ In this Schedule—
   - (ii) any LNG import or export facility that meets the condition set out in paragraph 4(9);
 - (g) where the qualifying entity meets the conditions set out in paragraph 4(10), supplying petroleum-based road, aviation or heating fuels (including liquefied petroleum gas) to persons in the United Kingdom.
 
-### 4. Conditions[^key-d7b5a0604eb1ef0da8e92e63a95cbc41]
+### 4. Conditions[^c-d7b5a0604eb1ef0da8e92e63a95cbc41]
 
 (1) This paragraph sets out the conditions referred to in paragraph 3.
 
@@ -132,7 +132,7 @@ In this Schedule—
 
 ## Annotations
 
-[^key-2996ab9884d6322c5ec60c98ae739ca5]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-2996ab9884d6322c5ec60c98ae739ca5]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00030]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
@@ -154,9 +154,9 @@ In this Schedule—
 
 [^f00039]: Footnote: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36). This Act was repealed by section 51 of and Schedule 5 to the Petroleum Act [1998 (c. 17)](https://www.legislation.gov.uk/ukpga/1998/17), subject to the savings provisions set out in Schedule 3.
 
-[^key-b2d98d1b2750263b353002d99cfbf49b]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-b2d98d1b2750263b353002d99cfbf49b]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-7971eef23a7fa7001a6e62d1f2e10fed]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-7971eef23a7fa7001a6e62d1f2e10fed]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00040]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and was amended by sections 136(1) and 145(5) of the Energy Act 2004. There are other amendments which are not relevant.
 
@@ -168,4 +168,4 @@ In this Schedule—
 
 [^f00044]: Footnote: Section 6A was substituted by section 4 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and amended by Schedule 8, paragraph 1 to the Utilities Act 2000 and [SI 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400). There are other amendments which are not relevant.
 
-[^key-d7b5a0604eb1ef0da8e92e63a95cbc41]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-d7b5a0604eb1ef0da8e92e63a95cbc41]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/11/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

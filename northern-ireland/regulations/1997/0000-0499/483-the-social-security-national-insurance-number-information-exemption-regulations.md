@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 1(1C), 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, by this statutory rule which contains only regulations made consequential upon Article 18 of the Social Security Administration (Fraud) (Northern Ireland) Order 1997[^f00002], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-baa020a3c9e7459ae713ffdea4c41620]
+## 1. Citation, commencement and interpretation[^c-baa020a3c9e7459ae713ffdea4c41620]
 
 (1) These Regulations may be cited as the Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 1997 and shall come into operation on 1st December 1997.
 
@@ -48,11 +48,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Guardian’s Allowances) Regulations[^key-9414bd69fd3b9192168a3ed1fc9887d6]
+## 2. Amendment of the Social Security (Guardian’s Allowances) Regulations[^c-9414bd69fd3b9192168a3ed1fc9887d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-3a23964f7f504032fbe3616e5299e90d]
+## 3. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-3a23964f7f504032fbe3616e5299e90d]
 
 In the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00005] after regulation 2 there shall be inserted the following regulation—
 
@@ -66,7 +66,7 @@ In the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1
 
 .
 
-## 4. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-c7d8a6b4c73796630ddca76daf4ceed0]
+## 4. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-c7d8a6b4c73796630ddca76daf4ceed0]
 
 (1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00006] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -89,7 +89,7 @@ In the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1
 
 .
 
-## 5. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^key-804c73f3acc054333839813b3581cd82]
+## 5. Amendment of the Social Security (Severe Disablement Allowance) Regulations[^c-804c73f3acc054333839813b3581cd82]
 
 In the Social Security (Severe Disablement Allowance) Regulations (Northern Ireland) 1984[^f00007] after regulation 2 there shall be inserted the following regulation—
 
@@ -102,11 +102,11 @@ In the Social Security (Severe Disablement Allowance) Regulations (Northern Irel
 
 .
 
-## 6. Amendment of the Social Security (Maternity Allowance) Regulations[^key-40269c0ec9f0b6e623503649e8068910]
+## 6. Amendment of the Social Security (Maternity Allowance) Regulations[^c-40269c0ec9f0b6e623503649e8068910]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Income Support (General) Regulations[^key-2365f1653026dbe4a257705cd2f0eaf3]
+## 7. Amendment of the Income Support (General) Regulations[^c-2365f1653026dbe4a257705cd2f0eaf3]
 
 In the Income Support (General) Regulations (Northern Ireland) 1987[^f00009] after regulation 2 there shall be inserted the following regulation—
 
@@ -119,11 +119,11 @@ In the Income Support (General) Regulations (Northern Ireland) 1987[^f00009] aft
 
 .
 
-## 8. Amendment of the Housing Benefit (General) Regulations[^key-3d30bf5230221df74e3ad3a2a27feb1b]
+## 8. Amendment of the Housing Benefit (General) Regulations[^c-3d30bf5230221df74e3ad3a2a27feb1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Family Credit (General) Regulations[^key-ed9fa5797490ca057d2ee2f8ef2b272f]
+## 9. Amendment of the Family Credit (General) Regulations[^c-ed9fa5797490ca057d2ee2f8ef2b272f]
 
 In the Family Credit (General) Regulations (Northern Ireland) 1987[^f00011] after regulation 2 there shall be inserted the following regulation—
 
@@ -137,7 +137,7 @@ In the Family Credit (General) Regulations (Northern Ireland) 1987[^f00011] afte
 
 .
 
-## 10. Amendment of the Social Security (Attendance Allowance) Regulations[^key-28b5da98965eb0c9ee7f250cd786d77e]
+## 10. Amendment of the Social Security (Attendance Allowance) Regulations[^c-28b5da98965eb0c9ee7f250cd786d77e]
 
 In the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00012] after regulation 1 there shall be inserted the following regulation—
 
@@ -147,7 +147,7 @@ In the Social Security (Attendance Allowance) Regulations (Northern Ireland) 199
 
 .
 
-## 11. Amendment of the Social Security (Disability Living Allowance) Regulations[^key-ef8c5fa3eeae5adcc02806a12e8984cf]
+## 11. Amendment of the Social Security (Disability Living Allowance) Regulations[^c-ef8c5fa3eeae5adcc02806a12e8984cf]
 
 In the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00013] after regulation 1 there shall be inserted the following regulation—
 
@@ -160,7 +160,7 @@ In the Social Security (Disability Living Allowance) Regulations (Northern Irela
 
 .
 
-## 12. Amendment of the Disability Working Allowance (General) Regulations[^key-4427f7aa8db9ba2173936ffc1b69aef8]
+## 12. Amendment of the Disability Working Allowance (General) Regulations[^c-4427f7aa8db9ba2173936ffc1b69aef8]
 
 In the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00014] after regulation 2 there shall be inserted the following regulation—
 
@@ -174,7 +174,7 @@ In the Disability Working Allowance (General) Regulations (Northern Ireland) 199
 
 .
 
-## 13. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-0673647804d9db5e3928e30d80846f27]
+## 13. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-0673647804d9db5e3928e30d80846f27]
 
 In the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[^f00015] after regulation 1 there shall be inserted the following regulation—
 
@@ -187,7 +187,7 @@ In the Social Security (Incapacity Benefit) Regulations (Northern Ireland) 1994[
 
 .
 
-## 14. Amendment of the Jobseeker’s Allowance Regulations[^key-52c3d4261828ef6dcd45b6aebbd6d943]
+## 14. Amendment of the Jobseeker’s Allowance Regulations[^c-52c3d4261828ef6dcd45b6aebbd6d943]
 
 In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00016] after regulation 2 there shall be inserted the following regulation—
 
@@ -222,52 +222,52 @@ These Regulations are made in consequence of Article 18 of the Social Security A
 
 [^f00002]: Footnote: [S.I. 1997/1182 (N.I. 11)](https://www.legislation.gov.uk/nisi/1997/1182)
 
-[^key-baa020a3c9e7459ae713ffdea4c41620]: Commencement: Reg. 1 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-baa020a3c9e7459ae713ffdea4c41620]: Commencement: Reg. 1 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9414bd69fd3b9192168a3ed1fc9887d6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/483/regulation/2) revoked (15.5.2000) by [The Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2000 (S.R. 2000/135)](https://www.legislation.gov.uk/nisr/2000/135), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2000/135/regulation/4)
+[^c-9414bd69fd3b9192168a3ed1fc9887d6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/483/regulation/2) revoked (15.5.2000) by [The Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2000 (S.R. 2000/135)](https://www.legislation.gov.uk/nisr/2000/135), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2000/135/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2000/135/regulation/4)
 
-[^key-3a23964f7f504032fbe3616e5299e90d]: Commencement: Reg. 3 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-3a23964f7f504032fbe3616e5299e90d]: Commencement: Reg. 3 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99)
 
-[^key-c7d8a6b4c73796630ddca76daf4ceed0]: Commencement: Reg. 4 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-c7d8a6b4c73796630ddca76daf4ceed0]: Commencement: Reg. 4 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243)
 
-[^key-804c73f3acc054333839813b3581cd82]: Commencement: Reg. 5 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-804c73f3acc054333839813b3581cd82]: Commencement: Reg. 5 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317)
 
-[^key-40269c0ec9f0b6e623503649e8068910]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/483/regulation/6) revoked (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2009 (S.R. 2009/90)](https://www.legislation.gov.uk/nisr/2009/90), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/90/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2009/90/regulation/12)
+[^c-40269c0ec9f0b6e623503649e8068910]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/483/regulation/6) revoked (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations (Northern Ireland) 2009 (S.R. 2009/90)](https://www.legislation.gov.uk/nisr/2009/90), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/90/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2009/90/regulation/12)
 
-[^key-2365f1653026dbe4a257705cd2f0eaf3]: Commencement: Reg. 7 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-2365f1653026dbe4a257705cd2f0eaf3]: Commencement: Reg. 7 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459)
 
-[^key-3d30bf5230221df74e3ad3a2a27feb1b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/483/regulation/8) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-3d30bf5230221df74e3ad3a2a27feb1b]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/483/regulation/8) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-ed9fa5797490ca057d2ee2f8ef2b272f]: Commencement: Reg. 9 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-ed9fa5797490ca057d2ee2f8ef2b272f]: Commencement: Reg. 9 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463)
 
-[^key-28b5da98965eb0c9ee7f250cd786d77e]: Commencement: Reg. 10 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-28b5da98965eb0c9ee7f250cd786d77e]: Commencement: Reg. 10 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20)
 
-[^key-ef8c5fa3eeae5adcc02806a12e8984cf]: Commencement: Reg. 11 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-ef8c5fa3eeae5adcc02806a12e8984cf]: Commencement: Reg. 11 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32)
 
-[^key-4427f7aa8db9ba2173936ffc1b69aef8]: Commencement: Reg. 12 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-4427f7aa8db9ba2173936ffc1b69aef8]: Commencement: Reg. 12 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78)
 
-[^key-0673647804d9db5e3928e30d80846f27]: Commencement: Reg. 13 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-0673647804d9db5e3928e30d80846f27]: Commencement: Reg. 13 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461)
 
-[^key-52c3d4261828ef6dcd45b6aebbd6d943]: Commencement: Reg. 14 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
+[^c-52c3d4261828ef6dcd45b6aebbd6d943]: Commencement: Reg. 14 in operation at 1.12.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/483/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198)

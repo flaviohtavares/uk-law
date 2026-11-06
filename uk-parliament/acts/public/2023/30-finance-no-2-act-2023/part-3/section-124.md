@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. How to calculate top-up amounts etc[^key-9a4aec43ed752ebff425b1aa2688d7b4]
+## 124. How to calculate top-up amounts etc[^c-9a4aec43ed752ebff425b1aa2688d7b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (8) Chapter 9 of this Part sets out special provision for investment entities, joint venture groups and minority owned members (including provision that applies to those entities instead of provision in the previous Chapters).
 
-(8A)[^key-254c4b6a3473a0a625223873f3e639c4] Chapter 9A makes provision for—
+(8A)[^c-254c4b6a3473a0a625223873f3e639c4] Chapter 9A makes provision for—
 
 - (a) determining whether members of the group have untaxed amounts, and
 - (b) allocating those untaxed amounts to members of the group located in the United Kingdom, other than members that are investment entities or joint venture group members.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a4aec43ed752ebff425b1aa2688d7b4]: Textual amendment: Word in s. 124 heading substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/4/2/a), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-9a4aec43ed752ebff425b1aa2688d7b4]: Textual amendment: Word in s. 124 heading substituted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/4/2/a), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
 
-[^key-254c4b6a3473a0a625223873f3e639c4]: Textual amendment: S. 124(8A) inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/4/2/b), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-254c4b6a3473a0a625223873f3e639c4]: Textual amendment: S. 124(8A) inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/4/2/b), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)

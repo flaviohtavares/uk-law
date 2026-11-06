@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Power to stop and search persons[^key-bc0002793d8f15710369881d6ccc9123]
+## 36. Power to stop and search persons[^c-bc0002793d8f15710369881d6ccc9123]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc0002793d8f15710369881d6ccc9123]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/2/section/36) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-bc0002793d8f15710369881d6ccc9123]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/2/section/36) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

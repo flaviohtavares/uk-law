@@ -30,7 +30,7 @@ summary: ''
 
 (3) A constable may remove a vehicle under paragraph (2) by towing or driving it or in such other manner as he thinks necessary and may take such measures in relation to the vehicle as he thinks necessary to enable the vehicle to be removed.
 
-(4)[^key-68d6ae4f0f43f4425efe133286304c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-68d6ae4f0f43f4425efe133286304c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any vehicle removed by a constable under paragraph (2) and appearing to him to have been abandoned may be delivered to a district council with its consent.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68d6ae4f0f43f4425efe133286304c7d]: Textual amendment: [Art. 48(4)](https://www.legislation.gov.uk/nisi/1997/276/article/48/4) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 11(1)](https://www.legislation.gov.uk/nia/2011/23/section/11/1), [78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/1); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))
+[^c-68d6ae4f0f43f4425efe133286304c7d]: Textual amendment: [Art. 48(4)](https://www.legislation.gov.uk/nisi/1997/276/article/48/4) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 11(1)](https://www.legislation.gov.uk/nia/2011/23/section/11/1), [78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/1); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/13/article/4))

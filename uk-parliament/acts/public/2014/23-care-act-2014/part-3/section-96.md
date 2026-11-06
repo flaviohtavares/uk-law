@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Health Education England[^key-6b3129d6176189e1f574204f858c9d3d]
+## 96. Health Education England[^c-6b3129d6176189e1f574204f858c9d3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3129d6176189e1f574204f858c9d3d]: Textual amendment: [S. 96](https://www.legislation.gov.uk/ukpga/2014/23/section/96) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-6b3129d6176189e1f574204f858c9d3d]: Textual amendment: [S. 96](https://www.legislation.gov.uk/ukpga/2014/23/section/96) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

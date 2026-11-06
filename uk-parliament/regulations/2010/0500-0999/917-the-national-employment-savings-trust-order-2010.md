@@ -44,15 +44,15 @@ In accordance with section 143(4) of that Act, a draft of this instrument was la
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-694bc72e4234574dd50615cf4ca2d0f5]
+### 1. Citation and commencement[^c-694bc72e4234574dd50615cf4ca2d0f5]
 
 (1) This Order may be cited as the National Employment Savings Trust Order 2010.
 
-(2) Article 20 shall come into force on 5th July 2010 and cease to have effect on 1st March 2018[^key-861c052a060f257199488ab8f52a217c].
+(2) Article 20 shall come into force on 5th July 2010 and cease to have effect on 1st March 2018[^c-861c052a060f257199488ab8f52a217c].
 
 (3) The remaining provisions of this Order shall come into force on 5th July 2010.
 
-### 2. Interpretation[^key-042f036308e691cdbe28225f13c3aebd]
+### 2. Interpretation[^c-042f036308e691cdbe28225f13c3aebd]
 
 In this Order—
 
@@ -60,10 +60,10 @@ In this Order—
 - “the 1999 Order” means the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003];
 - “the Act” means the Pensions Act 2008;
 - “the NI Act” means the Pensions (No. 2) Act (Northern Ireland) 2008[^f00004];
-- “the[^key-47e27bf66bd7bfe72ee034dd019b98c4] NI Preservation Regulations” means the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991;
+- “the[^c-47e27bf66bd7bfe72ee034dd019b98c4] NI Preservation Regulations” means the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991;
 - “the Preservation Regulations” means the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991;
 - “the corporation” means the National Employment Savings Trust Corporation established under section 75 of the Act[^f00005];
-- [^key-0146315698a3dcf4860f1ad5d192a86c]...;
+- [^c-0146315698a3dcf4860f1ad5d192a86c]...;
 - “employers’ panel” means the panel referred to in article 6(2)(b);
 - “jobholder” has the meaning given by –
   - (a) in relation to Great Britain, section 1(1) of the Act; or
@@ -79,15 +79,15 @@ In this Order—
 
   less any expenses and outgoings properly deducted by the Trustee;
 - “the panels” means the members’ panel and the employers’ panel;
-- “participating employer” means an employer that has been admitted to participation in the Scheme and, except in articles 8 and 19, may include an employer that was formerly participating in the Scheme;[^key-76a7169b6897e06b45405421a92dcc3d]
+- “participating employer” means an employer that has been admitted to participation in the Scheme and, except in articles 8 and 19, may include an employer that was formerly participating in the Scheme;[^c-76a7169b6897e06b45405421a92dcc3d]
 - “pension credit” means a credit–
   - (a) in relation to Great Britain, under section 29 of the 1999 Act; or
   - (b) in relation to Northern Ireland, under Article 26 of the 1999 Order;
-- “[^key-70fd66c008d3219ff657f7fde8ccf1b0]**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
+- “[^c-70fd66c008d3219ff657f7fde8ccf1b0]**personal data**” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(2) and (14) of that Act).
 - “qualifying arrangement” has the same meaning–
   - (a) in relation to Great Britain, as in paragraph 6(1) of Schedule 5 to the 1999 Act; or
   - (b) in relation to Northern Ireland, as in paragraph 6(1) of Schedule 5 to the 1999 Order;
-- “qualifying person” and “qualifying self-employed person” have the same meanings as—[^key-6db1af08d4621fa9fa0e41779ea0e62e]
+- “qualifying person” and “qualifying self-employed person” have the same meanings as—[^c-6db1af08d4621fa9fa0e41779ea0e62e]
   - (a) in Great Britain, in regulation 2(1) of the Occupational Pension Schemes (Cross-border Activities) Regulations 2005; or
   - (b) in Northern Ireland, in regulation 2(1) of the Occupational Pension Schemes (Cross-border Activities) Regulations (Northern Ireland) 2005;
 - “quality requirement” means the quality requirement under—
@@ -99,17 +99,17 @@ In this Order—
 
 ## PART 2 — Establishment, Constitution of the Scheme and Appointments
 
-### 3. Establishment of the National Employment Savings Trust[^key-ccdfb8c630371e6e9e07c20d525c040f]
+### 3. Establishment of the National Employment Savings Trust[^c-ccdfb8c630371e6e9e07c20d525c040f]
 
 (1) There is to be a pension scheme known as the National Employment Savings Trust.
 
 (2) The purpose of the Scheme is the provision of pensions and other benefits in relation to its members.
 
-### 4. Trustee[^key-c0af3e15ee03cc004fe19a915d478401]
+### 4. Trustee[^c-c0af3e15ee03cc004fe19a915d478401]
 
 The corporation is appointed as trustee of the Scheme.
 
-### 5. Appointment of members of the corporation[^key-d242f8fb0c434bd01ca223151f333934]
+### 5. Appointment of members of the corporation[^c-d242f8fb0c434bd01ca223151f333934]
 
 Where the members’ panel has been established, then, in relation to the appointment by the corporation of an individual as a member of the corporation, or a member of the corporation as chair of the corporation—
 
@@ -117,7 +117,7 @@ Where the members’ panel has been established, then, in relation to the appoin
 - (b) the members’ panel must nominate one of their members to participate in any meeting or other discussion that is to be held by the corporation with respect to the creation of a shortlist of candidates, and in any interview of a candidate; and
 - (c) the corporation must supply that member with a copy of any documents that the corporation is to consider when it decides who should be included in the shortlist, or who should be appointed, and must take into account any views expressed by that member before it makes its decision.
 
-### 6. Consultation of members and employers[^key-298cd836da1f3be988baff27668ff13c]
+### 6. Consultation of members and employers[^c-298cd836da1f3be988baff27668ff13c]
 
 (1) The Trustee must make and maintain such arrangements as the Trustee considers expedient for consulting members of the Scheme and participating employers about the operation, development or amendment of the Scheme.
 
@@ -126,7 +126,7 @@ Where the members’ panel has been established, then, in relation to the appoin
 - (a) a panel to represent members of the Scheme (the members’ panel); and
 - (b) a panel to represent participating employers (the employers’ panel).
 
-### 6A. Research[^key-4893e6cb0ac897590eb8a582bccf00d0]
+### 6A. Research[^c-4893e6cb0ac897590eb8a582bccf00d0]
 
 The Trustee must, from time to time, carry out research about the administration and management of the Scheme as the Trustee considers expedient, on—
 
@@ -136,11 +136,11 @@ The Trustee must, from time to time, carry out research about the administration
 
 in connection with the operation, development or amendment of the Scheme.
 
-### 7. Establishment of the panels[^key-4d75111624fffb505340f6e36ef0c910]
+### 7. Establishment of the panels[^c-4d75111624fffb505340f6e36ef0c910]
 
 The Trustee must take all reasonable steps to establish the panels as soon as practicable and, in any event, within 12 months after the first day on which a contribution is made to the Scheme by, or on behalf or in respect of, a member of the Scheme.
 
-### 8. Composition and functions of the panels[^key-12a98e09b39617327411981bfd82bf01]
+### 8. Composition and functions of the panels[^c-12a98e09b39617327411981bfd82bf01]
 
 (1) The Trustee must make provision in relation to—
 
@@ -179,7 +179,7 @@ The Trustee must take all reasonable steps to establish the panels as soon as pr
   - (i) in Great Britain, has the same meaning as in section 35 of the Pensions Act 1995[^f00009]; and
   - (ii) in Northern Ireland, has the same meaning as in Article 35 of the Pensions (Northern Ireland) Order 1995[^f00010].
 
-### 9. Payments to members of the panels[^key-c29bf798ed321822f374220fa7401da9]
+### 9. Payments to members of the panels[^c-c29bf798ed321822f374220fa7401da9]
 
 (1) The Trustee may make provision for reasonable payments to be made to members of the panels.
 
@@ -187,30 +187,30 @@ The Trustee must take all reasonable steps to establish the panels as soon as pr
 
 ## PART 3 — Functions of the Trustee
 
-### 10. Disclosure of requested data to the Secretary of State[^key-c388a5f0d4a57a7430739b6b0d6eee79]
+### 10. Disclosure of requested data to the Secretary of State[^c-c388a5f0d4a57a7430739b6b0d6eee79]
 
-(1) This article applies where the Secretary of State (S) requests the disclosure of information[^key-13a866c1c5c3e5bc6cb1473c561ae4e3] held by the Trustee (“requested information[^key-c1bdc2f08afacea53bedec033d8826a8]”) which are—
+(1) This article applies where the Secretary of State (S) requests the disclosure of information[^c-13a866c1c5c3e5bc6cb1473c561ae4e3] held by the Trustee (“requested information[^c-c1bdc2f08afacea53bedec033d8826a8]”) which are—
 
 - (a) not personal data; and
 - (b) in any event, anonymised.
 
-(2) The Trustee must disclose requested information[^key-e09aec37a2af23f6e08849d5b3e4a879] to S if the information is[^key-62c00a2dd938f3608fa4025fd8a5ab7b] necessary for S or the Trustee—
+(2) The Trustee must disclose requested information[^c-e09aec37a2af23f6e08849d5b3e4a879] to S if the information is[^c-62c00a2dd938f3608fa4025fd8a5ab7b] necessary for S or the Trustee—
 
 - (a) to comply with any–
   - (i) legal obligation (in particular the duty of S to establish a pension scheme, contained in section 67 of the Act); or
   - (ii) requirement to notify or otherwise inform another person,
 
-  which, if S did not receive that information[^key-f36954526fde033e67a62fc1ba73f26b], would result in a breach of that obligation or requirement; or
+  which, if S did not receive that information[^c-f36954526fde033e67a62fc1ba73f26b], would result in a breach of that obligation or requirement; or
 - (b) to comply with any request made by a person appointed by S under section 74 of the Act to review any of the matters listed in subsection (1) of that section.
 
-(3) The Trustee must disclose requested information[^key-ba6ebfbc1c4f9f22abe88e429f397be3] to S for the purpose of the matters listed in paragraph (5) where the Trustee considers that to comply with S’s request would not involve disproportionate cost, time or effort.
+(3) The Trustee must disclose requested information[^c-ba6ebfbc1c4f9f22abe88e429f397be3] to S for the purpose of the matters listed in paragraph (5) where the Trustee considers that to comply with S’s request would not involve disproportionate cost, time or effort.
 
 (4) Where the Trustee—
 
 - (a) considers that to comply with S’s request would involve disproportionate cost, time or effort; and
 - (b) gives to S its reasons for considering that this is the case,
 
-it need disclose to S only so much of the requested information[^key-2f222da63be81ba3c30a6eb8c3950ac6] as is agreed with S.
+it need disclose to S only so much of the requested information[^c-2f222da63be81ba3c30a6eb8c3950ac6] as is agreed with S.
 
 (5) The matters are —
 
@@ -219,7 +219,7 @@ it need disclose to S only so much of the requested information[^key-2f222da63be
 
 (6) In this article, “private pensions policy” has the same meaning as in paragraph 4 of Schedule 10 to the Pensions Act 2004[^f00011] and “retirement planning” has the same meaning as in paragraph 2 of that Schedule.
 
-### 11. Disclosure of relevant personal data to the Secretary of State[^key-a61c6ac7207281f8ef8f776891dffea3]
+### 11. Disclosure of relevant personal data to the Secretary of State[^c-a61c6ac7207281f8ef8f776891dffea3]
 
 (1) This article applies where the Trustee is requested by the Secretary of State (S) to obtain the consent of one or more—
 
@@ -247,7 +247,7 @@ in order that those members or participating employers may be contacted by S for
 - (b) address; or
 - (c) telephone number.
 
-### 12. Disclosure: references to the Secretary of State[^key-b64f8fe81c47c68069ab5399b79d399d]
+### 12. Disclosure: references to the Secretary of State[^c-b64f8fe81c47c68069ab5399b79d399d]
 
 (1) In articles 10 and 11, references to the Secretary of State apply equally to—
 
@@ -256,7 +256,7 @@ in order that those members or participating employers may be contacted by S for
 
 (2) In this article, “the Northern Ireland Department” means the Department for Social Development in Northern Ireland.
 
-### 13. Protection[^key-515c576d18d99e2d242b94be939bcf72]
+### 13. Protection[^c-515c576d18d99e2d242b94be939bcf72]
 
 (1) Subject to paragraph (3), the Trustee and the members and staff of the corporation shall not be liable for any act or omission in connection with the administration or management of the Scheme except—
 
@@ -282,7 +282,7 @@ liability for such acts or defaults is only excluded provided that the steps set
 - (a) in Great Britain, section 34(6) of the Pensions Act 1995; and
 - (b) in Northern Ireland, Article 34(6) of the Pensions (Northern Ireland) Order 1995.
 
-(5) The Trustee may in accordance with paragraph (7)[^key-3d964c06473b35bb53966e21fd936cc3] indemnify itself or the members or staff of the corporation against any losses, costs and damages it or they may incur in connection with the administration or management of the Scheme except for losses, costs or damages arising from—
+(5) The Trustee may in accordance with paragraph (7)[^c-3d964c06473b35bb53966e21fd936cc3] indemnify itself or the members or staff of the corporation against any losses, costs and damages it or they may incur in connection with the administration or management of the Scheme except for losses, costs or damages arising from—
 
 - (a) an act or omission which amounts to a breach of trust and arises from its or their own wilful act or omission, fraud or dishonesty;
 - (b) a liability which cannot be excluded or restricted, by virtue of–
@@ -304,19 +304,19 @@ liability for such acts or defaults is only excluded provided that the steps set
 
 (8) Where the Trustee decides to take out insurance under paragraph (6), the costs of taking out the insurance shall be regarded, for the purposes of article 27, as part of the general costs of administration and management of the Scheme.
 
-### 14. Steps for increasing awareness of the Scheme[^key-95864301f58904861942a88540fa39de]
+### 14. Steps for increasing awareness of the Scheme[^c-95864301f58904861942a88540fa39de]
 
 The Trustee may take such steps as it considers appropriate for increasing awareness and understanding of the Scheme in order that employers and individuals who may be admitted as members of the Scheme may assess whether they wish to use the Scheme.
 
-### 15. Power to make rules[^key-5bf478aeb15482b063b486dbff2f34a3]
+### 15. Power to make rules[^c-5bf478aeb15482b063b486dbff2f34a3]
 
 The Trustee may make rules and may revoke, amend or re-enact any rules made by it or the Secretary of State.
 
-### 16. Application of the Trustee Act 2000[^key-48f770e25170817bbe43812b5b385cf5]
+### 16. Application of the Trustee Act 2000[^c-48f770e25170817bbe43812b5b385cf5]
 
 The Trustee Act 2000[^f00015] applies as if this Order and any rules were a trust instrument.
 
-### 17. Information about the Scheme[^key-44a45f3534ee7cd0a2049616de3164d2]
+### 17. Information about the Scheme[^c-44a45f3534ee7cd0a2049616de3164d2]
 
 (1) The Trustee must as soon as possible following the preparation of any of the documents specified in paragraph (2), make the document available by placing a copy of it on the internet.
 
@@ -330,7 +330,7 @@ The Trustee Act 2000[^f00015] applies as if this Order and any rules were a trus
 
 ## PART 4 — Scheme membership and employer participation
 
-### 18. Duty to admit employers[^key-e1f3c4bbb03978f55dffabedc9424bc3]
+### 18. Duty to admit employers[^c-e1f3c4bbb03978f55dffabedc9424bc3]
 
 (1) Subject to paragraph (2), the Trustee must admit to participation in the Scheme, on condition that the employer agrees to employer terms and conditions—
 
@@ -338,7 +338,7 @@ The Trustee Act 2000[^f00015] applies as if this Order and any rules were a trus
   - (i) in relation to Great Britain, section 3(2), 5(2) or 7(3) of the Act; or
   - (ii) in relation to Northern Ireland, section 3(2), 5(2) or 7(3) of the NI Act,
 
-  by arranging for the jobholder to become a member of the Scheme or by making arrangements in relation to the jobholder as referred to in article 19(6A)[^key-cf66336a26eedacfaa3849d1406e3dba];
+  by arranging for the jobholder to become a member of the Scheme or by making arrangements in relation to the jobholder as referred to in article 19(6A)[^c-cf66336a26eedacfaa3849d1406e3dba];
 - (b) an employer of a jobholder that wishes to arrange for the jobholder to become a member of the Scheme or to make arrangements in relation to the jobholder as referred to in article 19(6A), for the purposes of–
   - (i) in relation to Great Britain, section 2(3) of the Act (in connection with the duty under section 2(1) of the Act); or
   - (ii) in relation to Northern Ireland, section 2(3) of the NI Act (in connection with the duty under section 2(1) of the NI Act); and
@@ -348,7 +348,7 @@ The Trustee Act 2000[^f00015] applies as if this Order and any rules were a trus
 
   by arranging for the worker to become a member of the Scheme or by making arrangements in relation to the worker as referred to in article 19(6A).
 
-(2) Where paragraph (1)(a), (b) or (c) applies and the relevant duty arises by virtue of the employer satisfying the conditions in regulation 3(3) and (4)[^key-2d7799e0d1f10bc9b099a4883545ee52] of the Employers’ Duties (Implementation) Regulations 2010[^f00019] (or, in Northern Ireland, the conditions in regulation 3(3) and (4) of the Employers’ Duties (Implementation) Regulations (Northern Ireland) 2010[^f00020]), then paragraph (1) applies as if—
+(2) Where paragraph (1)(a), (b) or (c) applies and the relevant duty arises by virtue of the employer satisfying the conditions in regulation 3(3) and (4)[^c-2d7799e0d1f10bc9b099a4883545ee52] of the Employers’ Duties (Implementation) Regulations 2010[^f00019] (or, in Northern Ireland, the conditions in regulation 3(3) and (4) of the Employers’ Duties (Implementation) Regulations (Northern Ireland) 2010[^f00020]), then paragraph (1) applies as if—
 
 - (a) for “must admit” there were substituted “may admit”; and
 - (b) “on condition that the employer agrees to employer terms and conditions” were omitted.
@@ -360,7 +360,7 @@ The Trustee Act 2000[^f00015] applies as if this Order and any rules were a trus
 
 do not yet apply in relation to an employer, the Trustee may admit the employer to participation in the Scheme in the circumstances specified in paragraph (4).
 
-(3A)[^key-bdf12a74dfb4625852c20b141520f36f] Where an employer wishes to arrange for a worker to become a member of the Scheme other than in accordance with—
+(3A)[^c-bdf12a74dfb4625852c20b141520f36f] Where an employer wishes to arrange for a worker to become a member of the Scheme other than in accordance with—
 
 - (a) in relation to Great Britain, sections 2 to 9 of the Act; or
 - (b) in relation to Northern Ireland, sections 2 to 9 of the NI Act,
@@ -376,11 +376,11 @@ the Trustee may admit the employer to participation in the Scheme in the circums
 
 (5) Where an employer is admitted to participation in the Scheme under this article, it is admitted with respect to any jobholder or worker of the employer who may at any time be admitted as a member of the Scheme, or with respect to whom arrangements may at any time be made as referred to in article 19(6A).
 
-(5A)[^key-7a60df96f6d9e487a72476e8beb96cc6] A participating employer may, by giving notice to the Trustee, terminate its participation in the Scheme in accordance with rules.
+(5A)[^c-7a60df96f6d9e487a72476e8beb96cc6] A participating employer may, by giving notice to the Trustee, terminate its participation in the Scheme in accordance with rules.
 
 (6) In this article, “employer terms and conditions” means terms and conditions, provided for by rules, for admittance of employers to participation in the Scheme.
 
-### 19. Admittance of members[^key-725c97ee08b196fe99b073db00426db2][^key-420ad7084544a17891a251d0e5a0c981]
+### 19. Admittance of members[^c-725c97ee08b196fe99b073db00426db2][^c-420ad7084544a17891a251d0e5a0c981]
 
 (1) Subject to paragraph (6), the Trustee must admit as a member of the Scheme—
 
@@ -405,7 +405,7 @@ the Trustee may admit the employer to participation in the Scheme in the circums
 
 do not yet apply in relation to a participating employer, the Trustee may admit as a member of the Scheme a worker employed by the employer in the circumstances specified in paragraph (3).
 
-(2A)[^key-20b306c0d7fa3edb8c9127c13d4d7814] Subject to paragraph (6), where an employer wishes to arrange for a worker to become a member of the Scheme other than in accordance with—
+(2A)[^c-20b306c0d7fa3edb8c9127c13d4d7814] Subject to paragraph (6), where an employer wishes to arrange for a worker to become a member of the Scheme other than in accordance with—
 
 - (a) in relation to Great Britain, sections 2 to 9 of the Act; or
 - (b) in relation to Northern Ireland, sections 2 to 9 of the NI Act,
@@ -419,13 +419,13 @@ the Trustee may admit as a member of the Scheme a worker employed by the employe
   - (ii) is aged at least 16 and under 75; and
 - (b) the employer and the worker wish the worker to become a member of the Scheme.
 
-(4)[^key-0d3853bb84afb01803e14ead8b54e382] Subject to paragraph (6), the Trustee must admit as a member a person who wishes to join the Scheme and who is—,
+(4)[^c-0d3853bb84afb01803e14ead8b54e382] Subject to paragraph (6), the Trustee must admit as a member a person who wishes to join the Scheme and who is—,
 
 - (a) a self-employed person aged at least 16 and under 75, who is working or ordinarily works in the United Kingdom and who is not a qualifying self-employed person;
 - (b) a single person director aged at least 16 and under 75, who is working or ordinarily works in the United Kingdom and who is not a qualifying person; or
 - (c) a person entitled to a pension credit as referred to in article 31(1)(a)(i).
 
-(4A)[^key-680f984f5939685f404e6681791f0115] Subject to paragraph (6), the Trustee may admit as a member of the Scheme a person if—
+(4A)[^c-680f984f5939685f404e6681791f0115] Subject to paragraph (6), the Trustee may admit as a member of the Scheme a person if—
 
 - (a) the conditions set out—
   - (i) in relation to Great Britain, in paragraphs (2) and (3) of regulation 12 of the Preservation Regulations (transfer of member’s accrued rights without consent); or
@@ -438,7 +438,7 @@ the Trustee may admit as a member of the Scheme a worker employed by the employe
 
   is a participating employer and is making contributions to the Scheme in respect of or on behalf of a jobholder.
 
-(4B)[^key-691d512d94781e974dedf0a8d19912f6] Subject to paragraph (6), the Trustee may admit as a member of the Scheme a person if—
+(4B)[^c-691d512d94781e974dedf0a8d19912f6] Subject to paragraph (6), the Trustee may admit as a member of the Scheme a person if—
 
 - (a) in relation to Great Britain, a scheme provides for a transfer of accrued rights in accordance with section 73(2)(a) of the Pension Schemes Act 1993; or
 - (b) in relation to Northern Ireland, a scheme provides for a transfer of accrued rights in accordance with section 69(2)(a) of the Pension Schemes (Northern Ireland) Act 1993,
@@ -447,7 +447,7 @@ in relation to that person, and the employer of persons to which the receiving s
 
 (5) In this article—
 
-- (a) a person is self-employed if the person is in employment but is not employed in relation to that employment[^key-be411368b3937d1970f60f938b9f1de0] by someone else;
+- (a) a person is self-employed if the person is in employment but is not employed in relation to that employment[^c-be411368b3937d1970f60f938b9f1de0] by someone else;
 - (b) in sub-paragraph (a), “employment” includes any trade, business, profession, office or vocation;
 - (c) a “single person director” means a person who is–
   - (i) a director of a company; and
@@ -456,30 +456,30 @@ in relation to that person, and the employer of persons to which the receiving s
   where the company does not employ any other persons under a contract of employment;
 - (d) in sub-paragraph (c), a company includes any body corporate.
 
-(6)[^key-53927a38a0a8c01ff71be40303e6b4dc] Where a person has already been admitted as a member of the Scheme under this article, the Trustee must not admit the person afresh but instead must comply with paragraph (6A).
+(6)[^c-53927a38a0a8c01ff71be40303e6b4dc] Where a person has already been admitted as a member of the Scheme under this article, the Trustee must not admit the person afresh but instead must comply with paragraph (6A).
 
 (6A) Where paragraph (6) applies, the Trustee must make arrangements for any amount received by the Trustee from, or in respect or on behalf of, the member in relation to the new employment or a new instance described in paragraph (4) or (4A) to be applied to the member’s pension account.
 
-(7)[^key-cf9e483ed8ee9e91686a45a2d13f0f8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-cf9e483ed8ee9e91686a45a2d13f0f8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Transitory provision[^key-4f9527f2fdfc09a6dd2dc908c8ec82a7]
+### 20. Transitory provision[^c-4f9527f2fdfc09a6dd2dc908c8ec82a7]
 
 Article 19(4) shall apply as if—
 
-- (a)[^key-e88b588934d44ccc606afe397501769f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e88b588934d44ccc606afe397501769f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “the Trustee must” there were substituted “the Trustee may”.
 
-### 21. Members’ accounts[^key-a6e701dc05f7013d3358b484e5736da7]
+### 21. Members’ accounts[^c-a6e701dc05f7013d3358b484e5736da7]
 
 (1) When a person is admitted as a member of the Scheme, the Trustee must allocate a member’s pension account to that person.
 
-(2) Subject to [^key-eb6c89e1526a846a3b30b38d10831e7d]... paragraphs (2A) and (3)[^key-70161ab081ea754feb6869656e18b63b], the Trustee must accept all contributions made by—
+(2) Subject to [^c-eb6c89e1526a846a3b30b38d10831e7d]... paragraphs (2A) and (3)[^c-70161ab081ea754feb6869656e18b63b], the Trustee must accept all contributions made by—
 
 - (a) a member of the Scheme;
 - (b) a participating employer of a member of the Scheme, on behalf or in respect of the member, where the member is working or ordinarily works in the United Kingdom; or
-- (c)[^key-ca6ca5919f3920eae9d7ecc4153d6a36] any other person in respect of the member.
+- (c)[^c-ca6ca5919f3920eae9d7ecc4153d6a36] any other person in respect of the member.
 
-(2A)[^key-c85e6aa8e7cfdbe455fc246f6699a967] The Trustee may refuse to accept contributions which relate to the employment of a member of the Scheme in which the member is—
+(2A)[^c-c85e6aa8e7cfdbe455fc246f6699a967] The Trustee may refuse to accept contributions which relate to the employment of a member of the Scheme in which the member is—
 
 - (a) a qualifying person; or
 - (b) a qualifying self-employed person.
@@ -489,29 +489,29 @@ Article 19(4) shall apply as if—
 - (a) the form in which or the method by which the contributions referred to in paragraph (2) are to be made; or
 - (b) subject to paragraphs (4) and (5), that, in such cases as are determined by the Trustee, the Trustee may on any occasion refuse to accept a contribution from any of the persons specified in paragraph (2) where the contribution is below such amount as the Trustee determines.
 
-(4) The Trustee must ensure that any determination that it makes under paragraph (3)(b) does not prevent the Scheme from satisfying the quality requirement [^key-eda1400374127272a2803797945c030c]...
+(4) The Trustee must ensure that any determination that it makes under paragraph (3)(b) does not prevent the Scheme from satisfying the quality requirement [^c-eda1400374127272a2803797945c030c]...
 
-- (a)[^key-eda1400374127272a2803797945c030c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-8a363c675e7b8c0fc6e9004864817f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-eda1400374127272a2803797945c030c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8a363c675e7b8c0fc6e9004864817f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 in relation to a jobholder.
 
 (5) Where the Trustee makes a determination under paragraph (3)(b), it must have regard to the cost of administering contributions.
 
-(6)[^key-4d1bbe65f1500db9f1db6bf3e07e445b] Any amount received by the Trustee from, or in respect of or on behalf of, a member in relation to—
+(6)[^c-4d1bbe65f1500db9f1db6bf3e07e445b] Any amount received by the Trustee from, or in respect of or on behalf of, a member in relation to—
 
 - (a) the member’s employment, or
 - (b) an instance described in article 19(4), (4A) or (4B),
 
 must be applied to the relevant member’s pension account.
 
-(7) Subject to paragraph (8) [^key-48dc5f1d5767d97d8848cdfd3b9db230]..., in the cases specified in paragraph (9) the Trustee may provide a refund of contributions from a member’s pension account—
+(7) Subject to paragraph (8) [^c-48dc5f1d5767d97d8848cdfd3b9db230]..., in the cases specified in paragraph (9) the Trustee may provide a refund of contributions from a member’s pension account—
 
-- (a)[^key-bf7bf7a855c724955903d50689a4fb60] to the member, where the contributions were made by the member;
-- (b) to a participating employer of the member, where the contributions were made by the employer on behalf of or in respect of the member; or[^key-179207c50687c0bd44cd8a1c8fa61392] .
-- (c)[^key-f74c347e356cc8d5226294238bc9c791] to the person who made the contributions, where the contributions have been made in respect of the member by a person other than the member or a participating employer.
+- (a)[^c-bf7bf7a855c724955903d50689a4fb60] to the member, where the contributions were made by the member;
+- (b) to a participating employer of the member, where the contributions were made by the employer on behalf of or in respect of the member; or[^c-179207c50687c0bd44cd8a1c8fa61392] .
+- (c)[^c-f74c347e356cc8d5226294238bc9c791] to the person who made the contributions, where the contributions have been made in respect of the member by a person other than the member or a participating employer.
 
-(8)[^key-3819575aac31efdeec24d84e8274d954] In the case specified in paragraph (9)(a), the Trustee must provide a refund of contributions—
+(8)[^c-3819575aac31efdeec24d84e8274d954] In the case specified in paragraph (9)(a), the Trustee must provide a refund of contributions—
 
 - (a) where the contributions were made by a participating employer in respect of or on behalf of the member, to the participating employer with respect to which the notice was given;
 - (b) where the member has made contributions to the Scheme on the member’s own behalf, to the member; or
@@ -525,7 +525,7 @@ must be applied to the relevant member’s pension account.
 - (b) the Trustee determines that the contributions have been paid in error; or
 - (c) the Trustee otherwise determines that a refund is appropriate in all the circumstances.
 
-### 21A. Removal of members[^key-2e6c3019d4146f0a87547be1dd9318d7]
+### 21A. Removal of members[^c-2e6c3019d4146f0a87547be1dd9318d7]
 
 The Trustee may remove a member from the Scheme if—
 
@@ -536,27 +536,27 @@ The Trustee may remove a member from the Scheme if—
 
 ## PART 5 — The Scheme Fund
 
-### 22. Annual contribution limit[^key-633fcfaffbe004d217468a66c75cfc3f]
+### 22. Annual contribution limit[^c-633fcfaffbe004d217468a66c75cfc3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Annual contribution limit: meaning of contributions[^key-633fcfaffbe004d217468a66c75cfc3f]
+### 23. Annual contribution limit: meaning of contributions[^c-633fcfaffbe004d217468a66c75cfc3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Annual contribution limit: refund of excess contributions[^key-633fcfaffbe004d217468a66c75cfc3f]
+### 24. Annual contribution limit: refund of excess contributions[^c-633fcfaffbe004d217468a66c75cfc3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Timing of contributions[^key-633fcfaffbe004d217468a66c75cfc3f]
+### 25. Timing of contributions[^c-633fcfaffbe004d217468a66c75cfc3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Multiple employment[^key-633fcfaffbe004d217468a66c75cfc3f]
+### 26. Multiple employment[^c-633fcfaffbe004d217468a66c75cfc3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Deductions from members’ accounts[^key-29c721693db29b627e3ffdbf6225040c]
+### 27. Deductions from members’ accounts[^c-29c721693db29b627e3ffdbf6225040c]
 
 (1) The Trustee must make deductions from members’ pension accounts to contribute to the general costs of the setting up, administration and management of the Scheme.
 
@@ -627,14 +627,14 @@ the Secretary of State may determine a lower limit to the level of deductions un
 - (a) the method of calculating how to make deductions, determined under paragraph (2), and any subsequent method of calculating how to make deductions, determined under paragraph (3); and
 - (b) the level of deductions determined under paragraph (4) and any deductions made or to be made under paragraph (7), as they have effect from time to time.
 
-### 28. Power to invest the Scheme’s assets[^key-f637f1704aa89ab0de05cdd0a4498510]
+### 28. Power to invest the Scheme’s assets[^c-f637f1704aa89ab0de05cdd0a4498510]
 
 (1) The Trustee has the power to invest all the assets of the Scheme.
 
 (2) Subject to paragraph (3), for the purposes of this power, the assets of the Scheme include—
 
 - (a) contributions as referred to in article 21(2);
-- (b) any other monies received by the Trustee, including under article 31[^key-5fd4c3aafeb9ed6319745e763e3bfb1b]; and
+- (b) any other monies received by the Trustee, including under article 31[^c-5fd4c3aafeb9ed6319745e763e3bfb1b]; and
 - (c) returns from any investments of assets referred to in sub-paragraph (a) or (b).
 
 (3) For the purposes of this power, the assets of the Scheme do not include any financial assistance given to the Trustee pursuant to paragraph 18 of Schedule 1 to the Act.
@@ -655,7 +655,7 @@ the power in paragraph (1) includes power to take the action specified in paragr
   - (i) in Great Britain, as defined by regulation 4(11) of the Occupational Pension Schemes (Investment) Regulations 2005[^f00029]; or
   - (ii) in Northern Ireland, as defined by regulation 4(11) of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005[^f00030].
 
-### 29. Investment and default investment funds[^key-77739c3d0935b694844109d98f082e21]
+### 29. Investment and default investment funds[^c-77739c3d0935b694844109d98f082e21]
 
 (1) The Trustee may establish any number of notional funds, by reference to such investment principles and criteria as the Trustee determines (“investment funds”).
 
@@ -688,11 +688,11 @@ and where sub-paragraph (b), (c) or (d) applies, assets of the Scheme are to be 
   - (i) in Great Britain, by regulation 4 of the Occupational Pension Schemes (Investment) Regulations 2005; or
   - (ii) in Northern Ireland, by regulation 4 of the Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005.
 
-### 30. Acceptance by trustee of cash transfer sums[^key-232f644db6b592749e03d64838b4f26e]
+### 30. Acceptance by trustee of cash transfer sums[^c-232f644db6b592749e03d64838b4f26e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Pension sharing[^key-c10c624205a2cb1f10ff59bdc7d94c55]
+### 31. Pension sharing[^c-c10c624205a2cb1f10ff59bdc7d94c55]
 
 (1) Where a pension credit derives—
 
@@ -706,39 +706,39 @@ and where sub-paragraph (b), (c) or (d) applies, assets of the Scheme are to be 
 - (a) in Great Britain, as in paragraph 5 of Schedule 5 to the 1999 Act; or
 - (b) in Northern Ireland, as in paragraph 5 of Schedule 5 to the 1999 Order.
 
-### 32. Payment of benefits by the Trustee[^key-e6084830b39e143489cfac6a1cdfced0][^key-7a627e8a30345db1328bce35f785e6ee]
+### 32. Payment of benefits by the Trustee[^c-e6084830b39e143489cfac6a1cdfced0][^c-7a627e8a30345db1328bce35f785e6ee]
 
-(1) Without prejudice to article 31, the Trustee may, in the circumstances set out in rules, use a member’s pension account in order to provide one or more of[^key-55484c78af56a08ea0677993941890a6] the benefits described in paragraph (2) (and only those benefits).
+(1) Without prejudice to article 31, the Trustee may, in the circumstances set out in rules, use a member’s pension account in order to provide one or more of[^c-55484c78af56a08ea0677993941890a6] the benefits described in paragraph (2) (and only those benefits).
 
 (2) The benefits are—
 
-- (a)[^key-94945cad5a588dd9c03b7af2ead7e943] where a member is alive—
+- (a)[^c-94945cad5a588dd9c03b7af2ead7e943] where a member is alive—
   - (i) the payment to the member of a lump sum;
   - (ii) the payment to the member of a scheme pension;
   - (iii) the purchase of a lifetime annuity policy in the name of the member;
   - (iv) the payment to the member of a drawdown pension;
 - (b) where a member has died–
   - (i) the payment of a lump sum to a person nominated by the member or to the personal representatives of that member;
-  - (ii) the payment of a lump sum to any one or more persons to be determined by the Trustee in accordance with rules[^key-eaed1bb331eaa478f053bc044b823a89];
-  - (iii) the payment of a charity lump sum death benefit; [^key-3c4b840dc0f0854840c4df649a1696d0]...
-  - (iv) the purchase of a dependants’ annuity ;[^key-cd87acf36445e84b011c049d4ca6fd00]
+  - (ii) the payment of a lump sum to any one or more persons to be determined by the Trustee in accordance with rules[^c-eaed1bb331eaa478f053bc044b823a89];
+  - (iii) the payment of a charity lump sum death benefit; [^c-3c4b840dc0f0854840c4df649a1696d0]...
+  - (iv) the purchase of a dependants’ annuity ;[^c-cd87acf36445e84b011c049d4ca6fd00]
   - (v) the payment of a dependants’ scheme pension;
   - (vi) the payment of a drawdown pension to a dependant of the member, a nominee of the member, or a successor of the member.
 
-(3)[^key-ba4025de3790e26bb4299538f8e18873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ba4025de3790e26bb4299538f8e18873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this article—
 
-- “charity lump sum death benefit” has the same meaning as in paragraph 18 of Schedule 29 to the Finance Act 2004[^f00036]; and[^key-eb2cd8fbcd30845cd6faf8c3d6ca3a69]
-- [^key-63d18594c543f8e23f5562008b6ff466]“dependants’ annuity” has the same meaning as in paragraph 17 of Schedule 28 to the Finance Act 2004[^f00035];
+- “charity lump sum death benefit” has the same meaning as in paragraph 18 of Schedule 29 to the Finance Act 2004[^f00036]; and[^c-eb2cd8fbcd30845cd6faf8c3d6ca3a69]
+- [^c-63d18594c543f8e23f5562008b6ff466]“dependants’ annuity” has the same meaning as in paragraph 17 of Schedule 28 to the Finance Act 2004[^f00035];
 - “**dependant of the member**” has the same meaning as in paragraph 15 of Schedule 28 to the Finance Act 2004
 - “**dependants’ scheme pension**” has the same meaning as in paragraph 16 of Schedule 28 to the Finance Act 2004
 - “**drawdown pension**” has the same meaning as in paragraph 4 of Schedule 28 to the Finance Act 2004
-- “lifetime annuity” has the same meaning as in paragraph 3 of Schedule 28 to the Finance Act 2004[^f00037]; [^key-fce7612274fa054f2f419143053b9d20]...
+- “lifetime annuity” has the same meaning as in paragraph 3 of Schedule 28 to the Finance Act 2004[^f00037]; [^c-fce7612274fa054f2f419143053b9d20]...
 - “**nominee of the member**” has the same meaning as in paragraph 27A of Schedule 28 to the Finance Act 2004
 - “**scheme pension**” has the same meaning as in paragraph 2 of Schedule 28 to the Finance Act 2004
 - “**successor of the member**” has the same meaning as in paragraph 27F of Schedule 28 to the Finance Act 2004
-- [^key-4695e618324a6d99f45edeaa3e88de90]...
+- [^c-4695e618324a6d99f45edeaa3e88de90]...
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -816,11 +816,11 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^f00001]: Footnote: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-694bc72e4234574dd50615cf4ca2d0f5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/917/article/1) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-694bc72e4234574dd50615cf4ca2d0f5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/917/article/1) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-861c052a060f257199488ab8f52a217c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/917/article/1/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/597/article/2/2)
+[^c-861c052a060f257199488ab8f52a217c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/917/article/1/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/597/article/2/2)
 
-[^key-042f036308e691cdbe28225f13c3aebd]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-042f036308e691cdbe28225f13c3aebd]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
 [^f00002]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -828,31 +828,31 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^f00004]: Footnote: [2008 c.13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13).
 
-[^key-47e27bf66bd7bfe72ee034dd019b98c4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) inserted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/178/article/2/2)
+[^c-47e27bf66bd7bfe72ee034dd019b98c4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) inserted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/178/article/2/2)
 
 [^f00005]: Footnote: The corporation was so named by [S.I. 2010/3](https://www.legislation.gov.uk/uksi/2010/3).
 
-[^key-0146315698a3dcf4860f1ad5d192a86c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 362(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/362/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-0146315698a3dcf4860f1ad5d192a86c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 362(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/362/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-76a7169b6897e06b45405421a92dcc3d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/3/a)
+[^c-76a7169b6897e06b45405421a92dcc3d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/3/a)
 
-[^key-70fd66c008d3219ff657f7fde8ccf1b0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 362(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/362/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-70fd66c008d3219ff657f7fde8ccf1b0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 362(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/362/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-6db1af08d4621fa9fa0e41779ea0e62e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/3/b)
+[^c-6db1af08d4621fa9fa0e41779ea0e62e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/917/article/2) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/3/b)
 
-[^key-ccdfb8c630371e6e9e07c20d525c040f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/917/article/3) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-ccdfb8c630371e6e9e07c20d525c040f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/917/article/3) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-c0af3e15ee03cc004fe19a915d478401]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/917/article/4) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-c0af3e15ee03cc004fe19a915d478401]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/917/article/4) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-d242f8fb0c434bd01ca223151f333934]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/917/article/5) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-d242f8fb0c434bd01ca223151f333934]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/917/article/5) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-298cd836da1f3be988baff27668ff13c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/917/article/6) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-298cd836da1f3be988baff27668ff13c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/917/article/6) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-4893e6cb0ac897590eb8a582bccf00d0]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2010/917/article/6A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/368/article/2/2)
+[^c-4893e6cb0ac897590eb8a582bccf00d0]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2010/917/article/6A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/368/article/2/2)
 
-[^key-4d75111624fffb505340f6e36ef0c910]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/917/article/7) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-4d75111624fffb505340f6e36ef0c910]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/917/article/7) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-12a98e09b39617327411981bfd82bf01]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/917/article/8) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-12a98e09b39617327411981bfd82bf01]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/917/article/8) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
 [^f00008]: Footnote: *See* Schedule 1, paragraph 19, to the Act, for the power of the corporation to make charges.
 
@@ -860,131 +860,131 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^f00010]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 35 was substituted by the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), Article 221.
 
-[^key-c29bf798ed321822f374220fa7401da9]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/917/article/9) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-c29bf798ed321822f374220fa7401da9]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/917/article/9) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-c388a5f0d4a57a7430739b6b0d6eee79]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/917/article/10) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-c388a5f0d4a57a7430739b6b0d6eee79]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/917/article/10) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-13a866c1c5c3e5bc6cb1473c561ae4e3]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2010/917/article/10/1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-13a866c1c5c3e5bc6cb1473c561ae4e3]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2010/917/article/10/1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(2)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/2/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-c1bdc2f08afacea53bedec033d8826a8]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2010/917/article/10/1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c1bdc2f08afacea53bedec033d8826a8]: Textual amendment: Words in [art. 10(1)](https://www.legislation.gov.uk/uksi/2010/917/article/10/1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(2)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/2/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-e09aec37a2af23f6e08849d5b3e4a879]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2010/917/article/10/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-e09aec37a2af23f6e08849d5b3e4a879]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2010/917/article/10/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(3)(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/3/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-62c00a2dd938f3608fa4025fd8a5ab7b]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2010/917/article/10/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(3)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-62c00a2dd938f3608fa4025fd8a5ab7b]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2010/917/article/10/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(3)(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/3/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-f36954526fde033e67a62fc1ba73f26b]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2010/917/article/10/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(3)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/3/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-f36954526fde033e67a62fc1ba73f26b]: Textual amendment: Words in [art. 10(2)](https://www.legislation.gov.uk/uksi/2010/917/article/10/2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(3)(c)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/3/c) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-ba6ebfbc1c4f9f22abe88e429f397be3]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2010/917/article/10/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ba6ebfbc1c4f9f22abe88e429f397be3]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/uksi/2010/917/article/10/3) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-2f222da63be81ba3c30a6eb8c3950ac6]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/uksi/2010/917/article/10/4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(5)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/5) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-2f222da63be81ba3c30a6eb8c3950ac6]: Textual amendment: Words in [art. 10(4)](https://www.legislation.gov.uk/uksi/2010/917/article/10/4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 363(5)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/363/5) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^f00011]: Footnote: Paragraph 4 of Schedule 10 to the Pensions Act 2004 was inserted by the Act, section 63(1).
 
-[^key-a61c6ac7207281f8ef8f776891dffea3]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/917/article/11) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-a61c6ac7207281f8ef8f776891dffea3]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/917/article/11) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-b64f8fe81c47c68069ab5399b79d399d]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/917/article/12) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-b64f8fe81c47c68069ab5399b79d399d]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/917/article/12) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-515c576d18d99e2d242b94be939bcf72]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/917/article/13) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-515c576d18d99e2d242b94be939bcf72]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/917/article/13) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
 [^f00012]: Footnote: Section 34(5)(b) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 139(1) and (3).
 
 [^f00013]: Footnote: Article 34(5)(b) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 150(1) and (3).
 
-[^key-3d964c06473b35bb53966e21fd936cc3]: Textual amendment: Words in [art. 13(5)](https://www.legislation.gov.uk/uksi/2010/917/article/13/5) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/597/article/2/4)
+[^c-3d964c06473b35bb53966e21fd936cc3]: Textual amendment: Words in [art. 13(5)](https://www.legislation.gov.uk/uksi/2010/917/article/13/5) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/597/article/2/4)
 
 [^f00014]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255).
 
-[^key-95864301f58904861942a88540fa39de]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/917/article/14) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-95864301f58904861942a88540fa39de]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/917/article/14) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-5bf478aeb15482b063b486dbff2f34a3]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/917/article/15) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-5bf478aeb15482b063b486dbff2f34a3]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/917/article/15) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-48f770e25170817bbe43812b5b385cf5]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/917/article/16) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-48f770e25170817bbe43812b5b385cf5]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/917/article/16) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
 [^f00015]: Footnote: [2000 c.29](https://www.legislation.gov.uk/ukpga/2000/29).
 
-[^key-44a45f3534ee7cd0a2049616de3164d2]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/917/article/17) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-44a45f3534ee7cd0a2049616de3164d2]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/917/article/17) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
 [^f00016]: Footnote: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655); regulation 6(1) was amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and [S.I. 2005/3377](https://www.legislation.gov.uk/uksi/2005/3377).
 
 [^f00017]: Footnote: [S.R. 1997 No.98](https://www.legislation.gov.uk/nisr/1997/98); regulation 6(1) was amended by [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and [S.R. 2005 No. 568](https://www.legislation.gov.uk/nisr/2005/568).
 
-[^key-e1f3c4bbb03978f55dffabedc9424bc3]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/917/article/18) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-e1f3c4bbb03978f55dffabedc9424bc3]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/917/article/18) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-cf66336a26eedacfaa3849d1406e3dba]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2010/917/article/18) substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/178/article/2/3)
+[^c-cf66336a26eedacfaa3849d1406e3dba]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2010/917/article/18) substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/178/article/2/3)
 
 [^f00018]: Footnote: “Worker” is defined in section 88 of the Act and section 70 of the NI Act.
 
-[^key-2d7799e0d1f10bc9b099a4883545ee52]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/2010/917/article/18/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/5/a)
+[^c-2d7799e0d1f10bc9b099a4883545ee52]: Textual amendment: Words in [art. 18(2)](https://www.legislation.gov.uk/uksi/2010/917/article/18/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/5/a)
 
 [^f00019]: Footnote: [S.I. 2010/4](https://www.legislation.gov.uk/uksi/2010/4).
 
 [^f00020]: Footnote: [S.R. 2010 No. 123](https://www.legislation.gov.uk/nisr/2010/123).
 
-[^key-bdf12a74dfb4625852c20b141520f36f]: Textual amendment: [Art. 18(3A)](https://www.legislation.gov.uk/uksi/2010/917/article/18/3A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/368/article/2/3)
+[^c-bdf12a74dfb4625852c20b141520f36f]: Textual amendment: [Art. 18(3A)](https://www.legislation.gov.uk/uksi/2010/917/article/18/3A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/368/article/2/3)
 
-[^key-7a60df96f6d9e487a72476e8beb96cc6]: Textual amendment: [Art. 18(5A)](https://www.legislation.gov.uk/uksi/2010/917/article/18/5A) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/5/b)
+[^c-7a60df96f6d9e487a72476e8beb96cc6]: Textual amendment: [Art. 18(5A)](https://www.legislation.gov.uk/uksi/2010/917/article/18/5A) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/5/b)
 
-[^key-725c97ee08b196fe99b073db00426db2]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2010/917/article/19) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-725c97ee08b196fe99b073db00426db2]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2010/917/article/19) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-420ad7084544a17891a251d0e5a0c981]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2010/917/article/19) heading substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/178/article/2/4)
+[^c-420ad7084544a17891a251d0e5a0c981]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/uksi/2010/917/article/19) heading substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/178/article/2/4)
 
-[^key-20b306c0d7fa3edb8c9127c13d4d7814]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/uksi/2010/917/article/19/2A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/368/article/2/4/a)
+[^c-20b306c0d7fa3edb8c9127c13d4d7814]: Textual amendment: [Art. 19(2A)](https://www.legislation.gov.uk/uksi/2010/917/article/19/2A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/368/article/2/4/a)
 
-[^key-0d3853bb84afb01803e14ead8b54e382]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2010/917/article/19/4) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/6/a)
+[^c-0d3853bb84afb01803e14ead8b54e382]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2010/917/article/19/4) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/6/a)
 
-[^key-680f984f5939685f404e6681791f0115]: Textual amendment: [Art. 19(4A)](https://www.legislation.gov.uk/uksi/2010/917/article/19/4A) inserted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/178/article/2/5/a)
+[^c-680f984f5939685f404e6681791f0115]: Textual amendment: [Art. 19(4A)](https://www.legislation.gov.uk/uksi/2010/917/article/19/4A) inserted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2015/178/article/2/5/a)
 
-[^key-691d512d94781e974dedf0a8d19912f6]: Textual amendment: [Art. 19(4B)](https://www.legislation.gov.uk/uksi/2010/917/article/19/4B) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/368/article/2/4/b)
+[^c-691d512d94781e974dedf0a8d19912f6]: Textual amendment: [Art. 19(4B)](https://www.legislation.gov.uk/uksi/2010/917/article/19/4B) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/368/article/2/4/b)
 
-[^key-be411368b3937d1970f60f938b9f1de0]: Textual amendment: Words in [art. 19(5)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/19/5/a) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/6/b)
+[^c-be411368b3937d1970f60f938b9f1de0]: Textual amendment: Words in [art. 19(5)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/19/5/a) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/6/b)
 
-[^key-53927a38a0a8c01ff71be40303e6b4dc]: Textual amendment: [Art. 19(6)](https://www.legislation.gov.uk/uksi/2010/917/article/19/6)[(6A)](https://www.legislation.gov.uk/uksi/2010/917/article/19/6A) substituted for [art. 19(6)](https://www.legislation.gov.uk/uksi/2010/917/article/19/6) (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/178/article/2/5/b)
+[^c-53927a38a0a8c01ff71be40303e6b4dc]: Textual amendment: [Art. 19(6)](https://www.legislation.gov.uk/uksi/2010/917/article/19/6)[(6A)](https://www.legislation.gov.uk/uksi/2010/917/article/19/6A) substituted for [art. 19(6)](https://www.legislation.gov.uk/uksi/2010/917/article/19/6) (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2015/178/article/2/5/b)
 
-[^key-cf9e483ed8ee9e91686a45a2d13f0f8f]: Textual amendment: [Art. 19(7)](https://www.legislation.gov.uk/uksi/2010/917/article/19/7) omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2013/597/article/2/6/c)
+[^c-cf9e483ed8ee9e91686a45a2d13f0f8f]: Textual amendment: [Art. 19(7)](https://www.legislation.gov.uk/uksi/2010/917/article/19/7) omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2013/597/article/2/6/c)
 
-[^key-4f9527f2fdfc09a6dd2dc908c8ec82a7]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2010/917/article/20) in force at 5.7.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/917/article/1/2)
+[^c-4f9527f2fdfc09a6dd2dc908c8ec82a7]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2010/917/article/20) in force at 5.7.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/917/article/1/2)
 
-[^key-e88b588934d44ccc606afe397501769f]: Textual amendment: [Art. 20(a)](https://www.legislation.gov.uk/uksi/2010/917/article/20/a) and word omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2013/597/article/2/7)
+[^c-e88b588934d44ccc606afe397501769f]: Textual amendment: [Art. 20(a)](https://www.legislation.gov.uk/uksi/2010/917/article/20/a) and word omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2013/597/article/2/7)
 
-[^key-a6e701dc05f7013d3358b484e5736da7]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2010/917/article/21) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-a6e701dc05f7013d3358b484e5736da7]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2010/917/article/21) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-eb6c89e1526a846a3b30b38d10831e7d]: Textual amendment: Words in [art. 21(2)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/178/article/2/6/a)
+[^c-eb6c89e1526a846a3b30b38d10831e7d]: Textual amendment: Words in [art. 21(2)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/178/article/2/6/a)
 
-[^key-70161ab081ea754feb6869656e18b63b]: Textual amendment: Words in [art. 21(2)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/a/i)
+[^c-70161ab081ea754feb6869656e18b63b]: Textual amendment: Words in [art. 21(2)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/a/i)
 
-[^key-ca6ca5919f3920eae9d7ecc4153d6a36]: Textual amendment: [Art. 21(2)(c)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2/c) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/a/ii)
+[^c-ca6ca5919f3920eae9d7ecc4153d6a36]: Textual amendment: [Art. 21(2)(c)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2/c) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/a/ii)
 
-[^key-c85e6aa8e7cfdbe455fc246f6699a967]: Textual amendment: [Art. 21(2A)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2A) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/b)
+[^c-c85e6aa8e7cfdbe455fc246f6699a967]: Textual amendment: [Art. 21(2A)](https://www.legislation.gov.uk/uksi/2010/917/article/21/2A) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/b)
 
-[^key-eda1400374127272a2803797945c030c]: Textual amendment: [Art. 21(4)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/21/4/a) and word omitted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/c)
+[^c-eda1400374127272a2803797945c030c]: Textual amendment: [Art. 21(4)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/21/4/a) and word omitted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/c)
 
-[^key-8a363c675e7b8c0fc6e9004864817f27]: Textual amendment: [Art. 21(4)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/21/4/b) omitted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/c)
+[^c-8a363c675e7b8c0fc6e9004864817f27]: Textual amendment: [Art. 21(4)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/21/4/b) omitted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/c)
 
-[^key-4d1bbe65f1500db9f1db6bf3e07e445b]: Textual amendment: [Art. 21(6)](https://www.legislation.gov.uk/uksi/2010/917/article/21/6) substituted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/368/article/2/5)
+[^c-4d1bbe65f1500db9f1db6bf3e07e445b]: Textual amendment: [Art. 21(6)](https://www.legislation.gov.uk/uksi/2010/917/article/21/6) substituted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/368/article/2/5)
 
-[^key-48dc5f1d5767d97d8848cdfd3b9db230]: Textual amendment: Words in [art. 21(7)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/178/article/2/6/b)
+[^c-48dc5f1d5767d97d8848cdfd3b9db230]: Textual amendment: Words in [art. 21(7)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/178/article/2/6/b)
 
-[^key-bf7bf7a855c724955903d50689a4fb60]: Textual amendment: [Art. 21(7)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7/a) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/d)
+[^c-bf7bf7a855c724955903d50689a4fb60]: Textual amendment: [Art. 21(7)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7/a) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/d)
 
-[^key-179207c50687c0bd44cd8a1c8fa61392]: Textual amendment: Words in [art. 21(7)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7/b) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/e)
+[^c-179207c50687c0bd44cd8a1c8fa61392]: Textual amendment: Words in [art. 21(7)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7/b) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/e)
 
-[^key-f74c347e356cc8d5226294238bc9c791]: Textual amendment: [Art. 21(7)(c)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7/c) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(f)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/f)
+[^c-f74c347e356cc8d5226294238bc9c791]: Textual amendment: [Art. 21(7)(c)](https://www.legislation.gov.uk/uksi/2010/917/article/21/7/c) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(f)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/f)
 
-[^key-3819575aac31efdeec24d84e8274d954]: Textual amendment: [Art. 21(8)](https://www.legislation.gov.uk/uksi/2010/917/article/21/8) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(g)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/g)
+[^c-3819575aac31efdeec24d84e8274d954]: Textual amendment: [Art. 21(8)](https://www.legislation.gov.uk/uksi/2010/917/article/21/8) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(8)(g)](https://www.legislation.gov.uk/uksi/2013/597/article/2/8/g)
 
 [^f00021]: Footnote: Regulations made under section 8 of the Act are regulations 9 to 11 of [S.I. 2010/772](https://www.legislation.gov.uk/uksi/2010/772).
 
 [^f00022]: Footnote: Regulations made under section 8 of the NI Act are regulations 9 to 11 of [S.R. 2010 No. 122](https://www.legislation.gov.uk/nisr/2010/122).
 
-[^key-2e6c3019d4146f0a87547be1dd9318d7]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2010/917/article/21A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/368/article/2/6)
+[^c-2e6c3019d4146f0a87547be1dd9318d7]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2010/917/article/21A) inserted (6.4.2018) by [The National Employment Savings Trust (Amendment) Order 2018 (S.I. 2018/368)](https://www.legislation.gov.uk/uksi/2018/368), [arts. 1](https://www.legislation.gov.uk/uksi/2018/368/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/368/article/2/6)
 
-[^key-633fcfaffbe004d217468a66c75cfc3f]: Textual amendment: [Arts. 22-26](https://www.legislation.gov.uk/uksi/2010/917/article/22) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/178/article/2/7)
+[^c-633fcfaffbe004d217468a66c75cfc3f]: Textual amendment: [Arts. 22-26](https://www.legislation.gov.uk/uksi/2010/917/article/22) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/178/article/2/7)
 
-[^key-29c721693db29b627e3ffdbf6225040c]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2010/917/article/27) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-29c721693db29b627e3ffdbf6225040c]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2010/917/article/27) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-f637f1704aa89ab0de05cdd0a4498510]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2010/917/article/28) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-f637f1704aa89ab0de05cdd0a4498510]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2010/917/article/28) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-5fd4c3aafeb9ed6319745e763e3bfb1b]: Textual amendment: Words in [art. 28(2)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/28/2/b) substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/178/article/2/8)
+[^c-5fd4c3aafeb9ed6319745e763e3bfb1b]: Textual amendment: Words in [art. 28(2)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/28/2/b) substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2015/178/article/2/8)
 
 [^f00026]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
@@ -996,38 +996,38 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^f00030]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569).
 
-[^key-77739c3d0935b694844109d98f082e21]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2010/917/article/29) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-77739c3d0935b694844109d98f082e21]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2010/917/article/29) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-232f644db6b592749e03d64838b4f26e]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/uksi/2010/917/article/30) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2015/178/article/2/9)
+[^c-232f644db6b592749e03d64838b4f26e]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/uksi/2010/917/article/30) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2015/178/article/2/9)
 
-[^key-c10c624205a2cb1f10ff59bdc7d94c55]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2010/917/article/31) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-c10c624205a2cb1f10ff59bdc7d94c55]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2010/917/article/31) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-e6084830b39e143489cfac6a1cdfced0]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2010/917/article/32) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
+[^c-e6084830b39e143489cfac6a1cdfced0]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2010/917/article/32) in force at 5.7.2010, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/917/article/1/3)
 
-[^key-7a627e8a30345db1328bce35f785e6ee]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/uksi/2010/917/article/32) heading substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2015/178/article/2/10)
+[^c-7a627e8a30345db1328bce35f785e6ee]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/uksi/2010/917/article/32) heading substituted (1.4.2017) by [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2015/178/article/2/10)
 
-[^key-55484c78af56a08ea0677993941890a6]: Textual amendment: Words in [art. 32(1)](https://www.legislation.gov.uk/uksi/2010/917/article/32/1) inserted (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/a)
+[^c-55484c78af56a08ea0677993941890a6]: Textual amendment: Words in [art. 32(1)](https://www.legislation.gov.uk/uksi/2010/917/article/32/1) inserted (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/a)
 
-[^key-94945cad5a588dd9c03b7af2ead7e943]: Textual amendment: [Art. 32(2)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/a) substituted (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/b)
+[^c-94945cad5a588dd9c03b7af2ead7e943]: Textual amendment: [Art. 32(2)(a)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/a) substituted (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/b)
 
-[^key-eaed1bb331eaa478f053bc044b823a89]: Textual amendment: Words in [art. 32(2)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/a)
+[^c-eaed1bb331eaa478f053bc044b823a89]: Textual amendment: Words in [art. 32(2)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b) substituted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/a)
 
-[^key-3c4b840dc0f0854840c4df649a1696d0]: Textual amendment: Word in [art. 32(2)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b) omitted (29.4.2026) by virtue of [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/c/i)
+[^c-3c4b840dc0f0854840c4df649a1696d0]: Textual amendment: Word in [art. 32(2)(b)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b) omitted (29.4.2026) by virtue of [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/c/i)
 
-[^key-cd87acf36445e84b011c049d4ca6fd00]: Textual amendment: [Art. 32(2)(b)(v)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b/v)[(vi)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b/vi) inserted (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/c/ii)
+[^c-cd87acf36445e84b011c049d4ca6fd00]: Textual amendment: [Art. 32(2)(b)(v)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b/v)[(vi)](https://www.legislation.gov.uk/uksi/2010/917/article/32/2/b/vi) inserted (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/c/ii)
 
-[^key-ba4025de3790e26bb4299538f8e18873]: Textual amendment: [Art. 32(3)](https://www.legislation.gov.uk/uksi/2010/917/article/32/3) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(11)(b)](https://www.legislation.gov.uk/uksi/2015/178/article/2/11/b)
+[^c-ba4025de3790e26bb4299538f8e18873]: Textual amendment: [Art. 32(3)](https://www.legislation.gov.uk/uksi/2010/917/article/32/3) omitted (1.4.2017) by virtue of [The National Employment Savings Trust (Amendment) Order 2015 (S.I. 2015/178)](https://www.legislation.gov.uk/uksi/2015/178), [arts. 1](https://www.legislation.gov.uk/uksi/2015/178/article/1), [2(11)(b)](https://www.legislation.gov.uk/uksi/2015/178/article/2/11/b)
 
 [^f00036]: Footnote: Paragraph 18 of Schedule 29 was amended by the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), Schedule 19, paragraphs 1, 16(1) and (2).
 
-[^key-eb2cd8fbcd30845cd6faf8c3d6ca3a69]: Textual amendment: Word in [art. 32(4)](https://www.legislation.gov.uk/uksi/2010/917/article/32/4) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(b)(i)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/b/i)
+[^c-eb2cd8fbcd30845cd6faf8c3d6ca3a69]: Textual amendment: Word in [art. 32(4)](https://www.legislation.gov.uk/uksi/2010/917/article/32/4) inserted (1.4.2013) by [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(b)(i)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/b/i)
 
-[^key-63d18594c543f8e23f5562008b6ff466]: Textual amendment: Words in art. 32(4) inserted and defn. of "dependants' annuity" moved (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/d/ii)[(i)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/d/i)
+[^c-63d18594c543f8e23f5562008b6ff466]: Textual amendment: Words in art. 32(4) inserted and defn. of "dependants' annuity" moved (29.4.2026) by [The National Employment Savings Trust (Amendment) Order 2026 (S.I. 2026/449)](https://www.legislation.gov.uk/uksi/2026/449), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/449/article/1/1), [2(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/d/ii)[(i)](https://www.legislation.gov.uk/uksi/2026/449/article/2/2/d/i)
 
 [^f00035]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12); paragraph 17 of Schedule 28 was amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), Schedule 10, paragraphs 1, 15(1) to (3) and 29(1) and (2).
 
 [^f00037]: Footnote: Paragraph 3 of Schedule 28 has been amended but not in a way material to this Order.
 
-[^key-fce7612274fa054f2f419143053b9d20]: Textual amendment: Word in [Art. 32(4)](https://www.legislation.gov.uk/uksi/2010/917/article/32/4) omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/b/ii)
+[^c-fce7612274fa054f2f419143053b9d20]: Textual amendment: Word in [Art. 32(4)](https://www.legislation.gov.uk/uksi/2010/917/article/32/4) omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/b/ii)
 
-[^key-4695e618324a6d99f45edeaa3e88de90]: Textual amendment: Words in [Art. 32(4)](https://www.legislation.gov.uk/uksi/2010/917/article/32/4) omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/b/iii)
+[^c-4695e618324a6d99f45edeaa3e88de90]: Textual amendment: Words in [Art. 32(4)](https://www.legislation.gov.uk/uksi/2010/917/article/32/4) omitted (1.4.2013) by virtue of [The National Employment Savings Trust (Amendment) Order 2013 (S.I. 2013/597)](https://www.legislation.gov.uk/uksi/2013/597), [arts. 1](https://www.legislation.gov.uk/uksi/2013/597/article/1), [2(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/597/article/2/13/b/iii)

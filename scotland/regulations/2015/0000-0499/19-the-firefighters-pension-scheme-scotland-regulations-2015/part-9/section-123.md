@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Transfer payments made to other schemes or pension arrangements[^key-02f287a5466d31680718f5f083d6ba4b]
+## 123. Transfer payments made to other schemes or pension arrangements[^c-02f287a5466d31680718f5f083d6ba4b]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f287a5466d31680718f5f083d6ba4b]: Commencement: [Reg. 123](https://www.legislation.gov.uk/ssi/2015/19/regulation/123) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-02f287a5466d31680718f5f083d6ba4b]: Commencement: [Reg. 123](https://www.legislation.gov.uk/ssi/2015/19/regulation/123) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

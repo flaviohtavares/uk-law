@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 153. Modification in the calculation of income[^key-f14267a390de64819e5583221bb1d9d3]
+## 153. Modification in the calculation of income[^c-f14267a390de64819e5583221bb1d9d3]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ For the purposes of regulation 150 (amount of jobseeker’s allowance payable fo
 
 ## Annotations
 
-[^key-f14267a390de64819e5583221bb1d9d3]: Commencement: Reg. 153 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f14267a390de64819e5583221bb1d9d3]: Commencement: Reg. 153 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

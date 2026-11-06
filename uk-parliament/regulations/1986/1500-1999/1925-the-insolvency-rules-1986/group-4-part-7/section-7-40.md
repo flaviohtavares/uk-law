@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.40. Applications for costs[^key-c5eaab65272188f4ce7782597f0c6150]
+## 7.40. Applications for costs[^c-c5eaab65272188f4ce7782597f0c6150]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5eaab65272188f4ce7782597f0c6150]: Textual amendment: Pt. 7 Ch. 6 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/3)
+[^c-c5eaab65272188f4ce7782597f0c6150]: Textual amendment: Pt. 7 Ch. 6 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/3)

@@ -34,7 +34,7 @@ summary: ''
 (4) Where—
 
 - (a) the blood establishment has failed, in any material respect, to comply with the requirements of these regulations; or
-- (b) the information given by the blood establishment pursuant to regulation 4(3)[^key-df0a25e63c15252f69c36065b9e0b498] was false or incomplete in any material respect,
+- (b) the information given by the blood establishment pursuant to regulation 4(3)[^c-df0a25e63c15252f69c36065b9e0b498] was false or incomplete in any material respect,
 
 and the Secretary of State considers that the failure in question is not sufficiently serious to warrant suspension or revocation of the authorisation of the blood establishment in the first instance, he may serve a notice on the responsible person of the blood establishment in accordance with paragraph (5).
 
@@ -57,4 +57,4 @@ and the Secretary of State considers that the failure in question is not suffici
 
 ## Annotations
 
-[^key-df0a25e63c15252f69c36065b9e0b498]: Textual amendment: Words in reg. 5(4)(b) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1098/regulation/3)
+[^c-df0a25e63c15252f69c36065b9e0b498]: Textual amendment: Words in reg. 5(4)(b) substituted (8.4.2005) by [The Blood Safety and Quality (Amendment) Regulations 2005 (S.I. 2005/1098)](https://www.legislation.gov.uk/uksi/2005/1098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1098/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1098/regulation/3)

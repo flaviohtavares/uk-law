@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-4cf817c12d915571d26d5bfb92c5fbdf]
+The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-4cf817c12d915571d26d5bfb92c5fbdf]
 
 Made
 
@@ -39,26 +39,26 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-4cf817c12d915571d26d5bfb92c5fbdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf817c12d915571d26d5bfb92c5fbdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4cf817c12d915571d26d5bfb92c5fbdf]
+## 1. Citation, commencement and interpretation[^c-4cf817c12d915571d26d5bfb92c5fbdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-4cf817c12d915571d26d5bfb92c5fbdf]
+## 2. Amendment of the principal Regulations[^c-4cf817c12d915571d26d5bfb92c5fbdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of the principal Regulations in respect of the 2008-09 winter[^key-4cf817c12d915571d26d5bfb92c5fbdf]
+## 3. Modification of the principal Regulations in respect of the 2008-09 winter[^c-4cf817c12d915571d26d5bfb92c5fbdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cf817c12d915571d26d5bfb92c5fbdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf817c12d915571d26d5bfb92c5fbdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cf817c12d915571d26d5bfb92c5fbdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf817c12d915571d26d5bfb92c5fbdf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cf817c12d915571d26d5bfb92c5fbdf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/411) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)
+[^c-4cf817c12d915571d26d5bfb92c5fbdf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/411) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)

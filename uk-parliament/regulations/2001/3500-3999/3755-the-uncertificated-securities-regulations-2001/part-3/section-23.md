@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. General provisions concerning keeping registers and records[^key-d95d97d829eeac81abf77dab058dde51]
+## 23. General provisions concerning keeping registers and records[^c-d95d97d829eeac81abf77dab058dde51]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,20 +31,20 @@ summary: ''
 - (a) from the making or deletion of an entry in a register of securities or record of securities pursuant to these Regulations; or
 - (b) from a failure to make or delete any such entry,
 
-shall not be enforceable more than 10 years[^key-9d9b6b501d18022a86ee624a2b38661d] after the date on which the entry was made or deleted or, in the case of a failure, the failure first occurred.
+shall not be enforceable more than 10 years[^c-9d9b6b501d18022a86ee624a2b38661d] after the date on which the entry was made or deleted or, in the case of a failure, the failure first occurred.
 
 (3) No notice of any trust, expressed, implied or constructive, shall be entered on an Operator register of securities, or a part of such a register, or be receivable by an Operator.
 
-(4) Schedule 4 (which provides for the keeping of registers and records of participating securities, and which excludes, or applies with appropriate modifications, certain provisions of the[^key-5813297a407a32da27205f259c1d6c4f] 2006 Act) shall have effect.
+(4) Schedule 4 (which provides for the keeping of registers and records of participating securities, and which excludes, or applies with appropriate modifications, certain provisions of the[^c-5813297a407a32da27205f259c1d6c4f] 2006 Act) shall have effect.
 
-(5)[^key-49816f9bc156d71810c83f3ecbbf42fa] Section 120 of the 2006 Act shall not apply with respect to a company which is a participating issuer.
+(5)[^c-49816f9bc156d71810c83f3ecbbf42fa] Section 120 of the 2006 Act shall not apply with respect to a company which is a participating issuer.
 
 ## Annotations
 
-[^key-d95d97d829eeac81abf77dab058dde51]: Commencement: Reg. 23 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-d95d97d829eeac81abf77dab058dde51]: Commencement: Reg. 23 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-9d9b6b501d18022a86ee624a2b38661d]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/23/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/8/a)
+[^c-9d9b6b501d18022a86ee624a2b38661d]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/23/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/8/a)
 
-[^key-5813297a407a32da27205f259c1d6c4f]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/23/4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/8/b)
+[^c-5813297a407a32da27205f259c1d6c4f]: Textual amendment: Words in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/23/4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/8/b)
 
-[^key-49816f9bc156d71810c83f3ecbbf42fa]: Textual amendment: [Reg. 23(5)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/23/5) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/9)
+[^c-49816f9bc156d71810c83f3ecbbf42fa]: Textual amendment: [Reg. 23(5)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/23/5) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/9)

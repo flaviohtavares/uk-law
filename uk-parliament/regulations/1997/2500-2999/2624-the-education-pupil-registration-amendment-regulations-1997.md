@@ -46,15 +46,15 @@ Coming into force
 
 In exercise of the powers conferred by sections 434 and 551 of the Education Act 1996[^f00001], the Secretary of State for Education and Employment, as respects England, and the Secretary of State for Wales, as respects Wales, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-f7055a87a26dec9700de1cf74d749820]
+## 1. Citation and commencement[^c-f7055a87a26dec9700de1cf74d749820]
 
 These Regulations may be cited as the Education (Pupil Registration) (Amendment) Regulations 1997 and shall come into force on 1st January 1998.
 
-## 2. Amendments[^key-938415ddf9f069b9fe4df6233dae224b]
+## 2. Amendments[^c-938415ddf9f069b9fe4df6233dae224b]
 
 The Education (Pupil Registration) Regulations 1995[^f00002] shall be amended in accordance with regulations 3 to 6 below.
 
-**3.**[^key-b94a8fc1510158406ab2748242e6be1a] —In regulation 7 (contents of attendance register)—
+**3.**[^c-b94a8fc1510158406ab2748242e6be1a] —In regulation 7 (contents of attendance register)—
 
 (1) in paragraph (1) for the words “morning and afternoon” there shall be substituted the words “morning session and once during each afternoon”;
 
@@ -80,15 +80,15 @@ The Education (Pupil Registration) Regulations 1995[^f00002] shall be amended in
 
 .
 
-**4.**[^key-07dd5dc36b66e1375761daff0436f525] In regulation 8 (leave of absence) sub-paragraph (2)(a) shall be omitted.
+**4.**[^c-07dd5dc36b66e1375761daff0436f525] In regulation 8 (leave of absence) sub-paragraph (2)(a) shall be omitted.
 
-**5.**[^key-7e306a9a1134af5e553edfa4d1dd97aa] In regulation 9 (deletions from admission register) after sub-paragraph (9)(1)(g) there shall be inserted the following sub-paragraph—
+**5.**[^c-7e306a9a1134af5e553edfa4d1dd97aa] In regulation 9 (deletions from admission register) after sub-paragraph (9)(1)(g) there shall be inserted the following sub-paragraph—
 
 > - (ga) that he has been continuously absent from the school for a period of not less than four weeks and he is detained in pursuance of a final order made by a court or of an order of recall made by the Secretary of State.
 
 .
 
-**6.**[^key-8afb937b0ce4ee62bc67a63e70a39707] —In regulation 10 (dual registration)—
+**6.**[^c-8afb937b0ce4ee62bc67a63e70a39707] —In regulation 10 (dual registration)—
 
 (1) after paragraph (3) there shall be inserted the following paragraphs—
 
@@ -139,16 +139,16 @@ Regulation 6 allows the children of traveller families to be registered both at 
 
 [^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-f7055a87a26dec9700de1cf74d749820]: Commencement: Reg. 1 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+[^c-f7055a87a26dec9700de1cf74d749820]: Commencement: Reg. 1 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
 
-[^key-938415ddf9f069b9fe4df6233dae224b]: Commencement: Reg. 2 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+[^c-938415ddf9f069b9fe4df6233dae224b]: Commencement: Reg. 2 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
 
 [^f00002]: Footnote: S.I. [1995/2089](https://www.legislation.gov.uk/uksi/1995/2089).
 
-[^key-b94a8fc1510158406ab2748242e6be1a]: Commencement: Reg. 3 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+[^c-b94a8fc1510158406ab2748242e6be1a]: Commencement: Reg. 3 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
 
-[^key-07dd5dc36b66e1375761daff0436f525]: Commencement: Reg. 4 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+[^c-07dd5dc36b66e1375761daff0436f525]: Commencement: Reg. 4 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
 
-[^key-7e306a9a1134af5e553edfa4d1dd97aa]: Commencement: Reg. 5 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+[^c-7e306a9a1134af5e553edfa4d1dd97aa]: Commencement: Reg. 5 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
 
-[^key-8afb937b0ce4ee62bc67a63e70a39707]: Commencement: Reg. 6 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)
+[^c-8afb937b0ce4ee62bc67a63e70a39707]: Commencement: Reg. 6 in force at 1.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2624/regulation/1)

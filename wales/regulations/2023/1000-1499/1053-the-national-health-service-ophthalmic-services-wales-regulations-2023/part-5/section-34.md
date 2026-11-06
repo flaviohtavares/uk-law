@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Payments to suspended qualified practitioners[^key-0af125d8340e61c64119cb63d3f6ae9a]
+## 34. Payments to suspended qualified practitioners[^c-0af125d8340e61c64119cb63d3f6ae9a]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0af125d8340e61c64119cb63d3f6ae9a]: Commencement: Reg. 34 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-0af125d8340e61c64119cb63d3f6ae9a]: Commencement: Reg. 34 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

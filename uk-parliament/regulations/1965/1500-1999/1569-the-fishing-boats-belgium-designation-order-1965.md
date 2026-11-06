@@ -33,7 +33,7 @@ SEA FISHERIES
 
 FISHERY LIMITS
 
-The Fishing Boats (Belgium) Designation Order 1965 (revoked)[^key-c18c64030c4ec9d8af4cf307af450874]
+The Fishing Boats (Belgium) Designation Order 1965 (revoked)[^c-c18c64030c4ec9d8af4cf307af450874]
 
 Made
 
@@ -43,30 +43,30 @@ Coming into Operation
 
 17th August 1965
 
-[^key-c18c64030c4ec9d8af4cf307af450874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18c64030c4ec9d8af4cf307af450874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c18c64030c4ec9d8af4cf307af450874] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c18c64030c4ec9d8af4cf307af450874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18c64030c4ec9d8af4cf307af450874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c18c64030c4ec9d8af4cf307af450874]
+## SCHEDULE[^c-c18c64030c4ec9d8af4cf307af450874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c18c64030c4ec9d8af4cf307af450874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c18c64030c4ec9d8af4cf307af450874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c18c64030c4ec9d8af4cf307af450874]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1965/1569) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c18c64030c4ec9d8af4cf307af450874]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1965/1569) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(c)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/c) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

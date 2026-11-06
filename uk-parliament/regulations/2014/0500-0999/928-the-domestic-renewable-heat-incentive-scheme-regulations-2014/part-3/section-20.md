@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Conditions of accreditation[^key-00179cc448b91d9a7bbeda47097cff96]
+## 20. Conditions of accreditation[^c-00179cc448b91d9a7bbeda47097cff96]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Authority may make an accreditation subject to any conditions it considers t
 
 ## Annotations
 
-[^key-00179cc448b91d9a7bbeda47097cff96]: Commencement: Reg. 20 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-00179cc448b91d9a7bbeda47097cff96]: Commencement: Reg. 20 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

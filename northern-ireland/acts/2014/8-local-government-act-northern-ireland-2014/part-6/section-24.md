@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Allocation and discharge of functions[^key-3b667ba7149d2907e447bf35ffe380d3]
+## 24. Allocation and discharge of functions[^c-3b667ba7149d2907e447bf35ffe380d3]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b667ba7149d2907e447bf35ffe380d3]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2014/8/section/24) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-3b667ba7149d2907e447bf35ffe380d3]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2014/8/section/24) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Driving instruction[^key-a59dcf72241134e50389c02cd899b4b0]
+## 42. Driving instruction[^c-a59dcf72241134e50389c02cd899b4b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 contains amendments about driving instruction.
 
 ## Annotations
 
-[^key-a59dcf72241134e50389c02cd899b4b0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2006/49/section/42) in force at 21.5.2012 for specified purposes by [S.I. 2012/1357](https://www.legislation.gov.uk/uksi/2012/1357), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1357/article/2/a)
+[^c-a59dcf72241134e50389c02cd899b4b0]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2006/49/section/42) in force at 21.5.2012 for specified purposes by [S.I. 2012/1357](https://www.legislation.gov.uk/uksi/2012/1357), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1357/article/2/a)

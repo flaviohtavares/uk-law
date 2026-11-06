@@ -32,7 +32,7 @@ summary: ''
 
 Veterinary surgeons
 
-The Veterinary Surgeons' Qualifications (European Recognition) Order 2007 (revoked)[^key-851ded18ec2d6a4586dae62101c53c23]
+The Veterinary Surgeons' Qualifications (European Recognition) Order 2007 (revoked)[^c-851ded18ec2d6a4586dae62101c53c23]
 
 Made
 
@@ -52,50 +52,50 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-851ded18ec2d6a4586dae62101c53c23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-851ded18ec2d6a4586dae62101c53c23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-851ded18ec2d6a4586dae62101c53c23]
+## 1. Citation and commencement[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Veterinary Surgeons Act 1966[^key-851ded18ec2d6a4586dae62101c53c23]
+## 2. Amendments to the Veterinary Surgeons Act 1966[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Veterinary Surgeons' Qualifications (European Recognition) Order 2003[^key-851ded18ec2d6a4586dae62101c53c23]
+## 3. Amendments to the Veterinary Surgeons' Qualifications (European Recognition) Order 2003[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-851ded18ec2d6a4586dae62101c53c23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-851ded18ec2d6a4586dae62101c53c23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendments to the Veterinary Surgeons Act 1966[^key-851ded18ec2d6a4586dae62101c53c23]
+## SCHEDULE — Amendments to the Veterinary Surgeons Act 1966[^c-851ded18ec2d6a4586dae62101c53c23]
 
 Article 2
 
-### 1. Section 5A[^key-851ded18ec2d6a4586dae62101c53c23]
+### 1. Section 5A[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Section 5B[^key-851ded18ec2d6a4586dae62101c53c23]
+### 2. Section 5B[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Section 27[^key-851ded18ec2d6a4586dae62101c53c23]
+### 3. Section 27[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Schedule 1A[^key-851ded18ec2d6a4586dae62101c53c23]
+### 4. Schedule 1A[^c-851ded18ec2d6a4586dae62101c53c23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-851ded18ec2d6a4586dae62101c53c23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-851ded18ec2d6a4586dae62101c53c23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-851ded18ec2d6a4586dae62101c53c23]: Textual amendment: Order revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))
+[^c-851ded18ec2d6a4586dae62101c53c23]: Textual amendment: Order revoked (6.8.2008) by [The Veterinary Surgeons Qualifications (European Recognition) Regulations 2008 (S.I. 2008/1824)](https://www.legislation.gov.uk/uksi/2008/1824), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1824/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/1824/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2008/1824/regulation/4))

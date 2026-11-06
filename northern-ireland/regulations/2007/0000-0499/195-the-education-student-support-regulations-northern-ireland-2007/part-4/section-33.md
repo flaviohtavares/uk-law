@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Availability of fee contribution loans to old system students[^key-406d12736339c07dfac40b25b6092928]
+## 33. Availability of fee contribution loans to old system students[^c-406d12736339c07dfac40b25b6092928]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ An old system student, other than a student undertaking a course at a relevant i
 
 ## Annotations
 
-[^key-406d12736339c07dfac40b25b6092928]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2007/195/regulation/33) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-406d12736339c07dfac40b25b6092928]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2007/195/regulation/33) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

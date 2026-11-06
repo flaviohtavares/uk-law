@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — New Schedule 2A to the Alcoholic Liquor Duties Act 1979[^key-d582ab8800e03de29277ba41ab2be50e]
+## SCHEDULE 1 — New Schedule 2A to the Alcoholic Liquor Duties Act 1979[^c-d582ab8800e03de29277ba41ab2be50e]
 
 *Extent: E+W+S+N.I.*
 
 Section 4
 
-[^key-d582ab8800e03de29277ba41ab2be50e]
+[^c-d582ab8800e03de29277ba41ab2be50e]
 
 The Schedule inserted before Schedule 3 to the Alcoholic Liquor Duties Act 1979 (c. 4) is as follows—
 
@@ -265,4 +265,4 @@ The Schedule inserted before Schedule 3 to the Alcoholic Liquor Duties Act 1979 
 
 ## Annotations
 
-[^key-d582ab8800e03de29277ba41ab2be50e]: Commencement: Sch. 1 has effect as specified by [The Finance Act 2004 (Duty Stamps) (Appointed Day) Order 2006 (S.I. 2006/201)](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2)
+[^c-d582ab8800e03de29277ba41ab2be50e]: Commencement: Sch. 1 has effect as specified by [The Finance Act 2004 (Duty Stamps) (Appointed Day) Order 2006 (S.I. 2006/201)](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2)

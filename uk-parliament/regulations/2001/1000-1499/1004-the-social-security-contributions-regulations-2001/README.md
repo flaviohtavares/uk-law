@@ -53,7 +53,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-The Treasury, with the concurrence of the Secretary of State for Social Security and the Department for Social Development in so far as required[^c17674861], in exercise of the powers set out in column (1) of Part I of Schedule 1 to these Regulations and the Commissioners of Inland Revenue, in exercise of the powers set out in column (1) of Part II of that Schedule 1 (in both cases as amended in particular by the provisions set out in column (2) of that Schedule), and of all other powers enabling them in that behalf, for the purpose only of consolidating the Regulations revoked by this instrument[^c17674871], hereby make the following Regulations—[^key-1fe03ee01a474e43fda241438b89bae2][^key-d87bfcf79ffa079b88f7b7ded7ddabc8]
+The Treasury, with the concurrence of the Secretary of State for Social Security and the Department for Social Development in so far as required[^c17674861], in exercise of the powers set out in column (1) of Part I of Schedule 1 to these Regulations and the Commissioners of Inland Revenue, in exercise of the powers set out in column (1) of Part II of that Schedule 1 (in both cases as amended in particular by the provisions set out in column (2) of that Schedule), and of all other powers enabling them in that behalf, for the purpose only of consolidating the Regulations revoked by this instrument[^c17674871], hereby make the following Regulations—[^c-1fe03ee01a474e43fda241438b89bae2][^c-d87bfcf79ffa079b88f7b7ded7ddabc8]
 
 ## Contents
 
@@ -215,7 +215,7 @@ The Treasury, with the concurrence of the Secretary of State for Social Security
 - [Section 90 — Arrangements approved by the Board for method of, and time for, payment of Class 2 and Class 3 contributions](part-7/section-90.md)
 - [Section 90ZA — Class 2 contributions - maternity allowance](part-7/section-90za.md)
 
-### PART 7A — Electronic Communications[^key-1ab31b2bc581b84dd904b2af96d1cb94]
+### PART 7A — Electronic Communications[^c-1ab31b2bc581b84dd904b2af96d1cb94]
 
 *Extent: E+W+S+N.I.*
 
@@ -280,7 +280,7 @@ The Treasury, with the concurrence of the Secretary of State for Social Security
 
 - [Section 114 — Application to employment in connection with continental shelf of Part I of the Act and so much of Part VI of the Act as relates to contributions](part-9/section-114.md)
 
-##### Continental shelf workers: provisions relating to certificates (Extent: E+W+S)[^key-d21af438f6bba22709ab181823a2fde6]
+##### Continental shelf workers: provisions relating to certificates (Extent: E+W+S)[^c-d21af438f6bba22709ab181823a2fde6]
 
 *Extent: E+W+S+N.I.*
 
@@ -353,9 +353,9 @@ The Treasury, with the concurrence of the Secretary of State for Social Security
 - [Section 153 — Late paid contributions](part-9/section-153.md)
 - [Section 154 — Modification of the Act and these Regulations](part-9/section-154.md)
 
-##### CASE H[^key-f620d42e6cd39c7aac1a358135edb77c]
+##### CASE H[^c-f620d42e6cd39c7aac1a358135edb77c]
 
-###### Apprentices: zero-rate secondary Class 1 contributions[^key-f620d42e6cd39c7aac1a358135edb77c]
+###### Apprentices: zero-rate secondary Class 1 contributions[^c-f620d42e6cd39c7aac1a358135edb77c]
 
 - [Section 154A](part-9/section-154a.md)
 
@@ -433,16 +433,16 @@ These Regulations do not impose any new costs on business.
 
 [^c17674871]: Textual amendment: See section 176(2)(b) of the Act.
 
-[^key-1fe03ee01a474e43fda241438b89bae2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1004) power to amend or modify conferred (31.3.2022) by [National Insurance Contributions (Increase of Thresholds) Act 2022 (c. 16)](https://www.legislation.gov.uk/ukpga/2022/16), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2022/16/section/4/4)
+[^c-1fe03ee01a474e43fda241438b89bae2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1004) power to amend or modify conferred (31.3.2022) by [National Insurance Contributions (Increase of Thresholds) Act 2022 (c. 16)](https://www.legislation.gov.uk/ukpga/2022/16), [s. 4(4)](https://www.legislation.gov.uk/ukpga/2022/16/section/4/4)
 
-[^key-d87bfcf79ffa079b88f7b7ded7ddabc8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1004) modified (31.3.2022 with effect for the tax year 2022-23) by [National Insurance Contributions (Increase of Thresholds) Act 2022 (c. 16)](https://www.legislation.gov.uk/ukpga/2022/16), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/16/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/16/section/4/3)
+[^c-d87bfcf79ffa079b88f7b7ded7ddabc8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/1004) modified (31.3.2022 with effect for the tax year 2022-23) by [National Insurance Contributions (Increase of Thresholds) Act 2022 (c. 16)](https://www.legislation.gov.uk/ukpga/2022/16), [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/16/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2022/16/section/4/3)
 
-[^key-1ab31b2bc581b84dd904b2af96d1cb94]: Textual amendment: Pt. 7A inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2004/770/regulation/23)
+[^c-1ab31b2bc581b84dd904b2af96d1cb94]: Textual amendment: Pt. 7A inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2004/770/regulation/23)
 
 [^c17675671]: Textual amendment: The enabling power for this Case is section 120 of the Act; there is no equivalent provision in the Social Security Contributions and Benefits (Northern Ireland) Act 1992. However, contributions in respect of employment on the Continental Shelf would fall to be treated as satisfying the corresponding requirement in Northern Ireland by virtue of Article 2 of the Memorandum set out in Schedule 1 to [S.I. 1976/1003](https://www.legislation.gov.uk/uksi/1976/1003) and Schedule 1 to S.R. [1976 No. 196](https://www.legislation.gov.uk/ukcm/1976/196). Article 2 of the Memorandum was amended by paragraph 3 of the first letter in the Schedule to [S.I. 1999/2227](https://www.legislation.gov.uk/uksi/1999/2227) and S.R. [1999 No. 350](https://www.legislation.gov.uk/ukcm/1999/350).
 
-[^key-d21af438f6bba22709ab181823a2fde6]: Textual amendment: [Regs. 114A-114D](https://www.legislation.gov.uk/uksi/2001/1004/regulation/114A) inserted (E.W.S.) (6.4.2014) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2014 (S.I. 2014/572)](https://www.legislation.gov.uk/uksi/2014/572), [regs. 1](https://www.legislation.gov.uk/uksi/2014/572/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/572/regulation/2/3)
+[^c-d21af438f6bba22709ab181823a2fde6]: Textual amendment: [Regs. 114A-114D](https://www.legislation.gov.uk/uksi/2001/1004/regulation/114A) inserted (E.W.S.) (6.4.2014) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2014 (S.I. 2014/572)](https://www.legislation.gov.uk/uksi/2014/572), [regs. 1](https://www.legislation.gov.uk/uksi/2014/572/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/572/regulation/2/3)
 
 [^c17675931]: Textual amendment: This Case applies to Northern Ireland by virtue of the powers conferred by section 116 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 on the Treasury. These powers are exercisable, as in Great Britain, with the concurrence of the Secretary of State (and not the Department for Social Development).
 
-[^key-f620d42e6cd39c7aac1a358135edb77c]: Textual amendment: [Reg. 154A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/154A) inserted (6.4.2016) by [The Social Security (Contributions) (Amendment) Regulations 2016 (S.I. 2016/117)](https://www.legislation.gov.uk/uksi/2016/117), [regs. 1](https://www.legislation.gov.uk/uksi/2016/117/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/117/regulation/2/2)
+[^c-f620d42e6cd39c7aac1a358135edb77c]: Textual amendment: [Reg. 154A](https://www.legislation.gov.uk/uksi/2001/1004/regulation/154A) inserted (6.4.2016) by [The Social Security (Contributions) (Amendment) Regulations 2016 (S.I. 2016/117)](https://www.legislation.gov.uk/uksi/2016/117), [regs. 1](https://www.legislation.gov.uk/uksi/2016/117/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/117/regulation/2/2)

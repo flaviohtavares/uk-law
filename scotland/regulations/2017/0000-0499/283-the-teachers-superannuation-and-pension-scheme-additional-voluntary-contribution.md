@@ -50,13 +50,13 @@ In accordance with section 9(5) of the Superannuation Act 1972 and section 21(1)
 
 In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) of the Public Service Pensions Act 2013, these Regulations are made with the consent of the Treasury[^f00003].
 
-## 1. Citation, commencement and effect[^key-1885f718d0546377fbf6f311ccf36187]
+## 1. Citation, commencement and effect[^c-1885f718d0546377fbf6f311ccf36187]
 
 (1) These Regulations may be cited as the Teachers’ Superannuation and Pension Scheme (Additional Voluntary Contributions) (Scotland) Regulations 2017 and come into force on 1st November 2017.
 
 (2) These Regulations have effect from 1st April 2015.
 
-## 2. Interpretation[^key-5ba1588d437a50334ae53f130536a7f6]
+## 2. Interpretation[^c-5ba1588d437a50334ae53f130536a7f6]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -122,7 +122,7 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 
 (3) For the purposes of these Regulations the annual equivalent of any lump sum is that lump sum divided by 12.
 
-## 3. Making and acceptance of elections[^key-83e7caad1fe03c4f6b0b0709a03b650e]
+## 3. Making and acceptance of elections[^c-83e7caad1fe03c4f6b0b0709a03b650e]
 
 (1) Any election under these Regulations—
 
@@ -136,7 +136,7 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 
 (3) The date of an election under these Regulations shall be the date on which written notice is received by the Scottish Ministers.
 
-## 4. Election to pay regular and lump sum contributions[^key-e5a3d5d89122434d8ae1af3dabcd5e17]
+## 4. Election to pay regular and lump sum contributions[^c-e5a3d5d89122434d8ae1af3dabcd5e17]
 
 (1) A person in pensionable service may at any time elect to pay—
 
@@ -151,7 +151,7 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 - (c) in the case of an election under paragraph (1)(a) or (b), the fund or funds in which contributions are to be invested; and
 - (d) in the case of an election under paragraph (1)(c), the amount to be secured which must not be less than £5,000.
 
-## 5. Provision for lump sum death benefit[^key-adfec45cafbbd198f73e96f05d7b9a43]
+## 5. Provision for lump sum death benefit[^c-adfec45cafbbd198f73e96f05d7b9a43]
 
 (1) This regulation shall apply where a person elects under regulation 4(1)(c) to pay regular contributions to provide for a lump sum death benefit.
 
@@ -174,7 +174,7 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 
 (6) An election under regulation 4(1)(c) or an election under paragraph (4) shall have effect for the purpose of the entitlement to benefit from the date when the election is accepted by the Scottish Ministers.
 
-## 6. Variation and cancellation of elections[^key-ebe1cadb885c4c1121b7f497f9b0f49f]
+## 6. Variation and cancellation of elections[^c-ebe1cadb885c4c1121b7f497f9b0f49f]
 
 (1) A contributor who has elected under regulation 4(1)(a) to pay regular contributions may at any time by giving written notice to the Scottish Ministers—
 
@@ -195,7 +195,7 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 
 (5) The Scottish Ministers shall give effect as soon as is reasonably practicable to the terms of any notice given under this regulation.
 
-## 7. Contributor[^key-7146343ec3df1230ce3e4c1e0ba02a34]
+## 7. Contributor[^c-7146343ec3df1230ce3e4c1e0ba02a34]
 
 (1) Subject to paragraph (2), a person is a contributor while an election under regulation 4(1)(a) or (c) has effect or if the person has paid a lump sum pursuant to an election under regulation 4(1)(b).
 
@@ -218,7 +218,7 @@ In accordance with section 9(1) of the Superannuation Act 1972 and section 3(5) 
 
 is to be treated as having continued to be in pensionable service.
 
-## 8. Payment of contributions and amount of regular contributions[^key-13a2f4fdaaebcdf3018a5e0d6ea7b7a5]
+## 8. Payment of contributions and amount of regular contributions[^c-13a2f4fdaaebcdf3018a5e0d6ea7b7a5]
 
 (1) Regular contributions shall be paid to the Scottish Ministers at intervals of one month.
 
@@ -227,13 +227,13 @@ is to be treated as having continued to be in pensionable service.
 - (a) commence to be made from the salary in respect of the first whole pay period falling after the date on which the employer receives authorisation to make these deductions; and
 - (b) be remitted to Scottish Ministers within 7 days after their deduction.
 
-## 9. Investment of contributions[^key-5d65ce2aee55418733fecef901e0b360]
+## 9. Investment of contributions[^c-5d65ce2aee55418733fecef901e0b360]
 
 (1) Any contributions paid by a contributor for investment under this regulation shall be invested by the Scottish Ministers, in accordance with any notice under regulation 4(2) or 6(1) or (2), in one or more of the funds authorised by them for the purposes of these Regulations managed by an insurance company selected by them.
 
 (2) Regular contributions to provide for a lump sum death benefit shall be invested by the Scottish Ministers with an insurance company selected by them so as to secure the payment of a lump sum death benefit of the amount required by any notice under regulation 4(2) or 6(3).
 
-## 10. Inward transfers[^key-921cea1b91674a1e4228815c04bdc713]
+## 10. Inward transfers[^c-921cea1b91674a1e4228815c04bdc713]
 
 (1) Where a person in pensionable service (P) has been a member of a registered pension scheme or a qualifying recognised overseas pension scheme, P, whether or not P becomes a contributor (within the meaning of these Regulations), may give written notice to the Scottish Ministers that P wishes them to accept from the trustees or manager of that scheme a value of the transfer from that scheme.
 
@@ -241,7 +241,7 @@ is to be treated as having continued to be in pensionable service.
 
 (3) A person who has given written notice under paragraph (1) may at any time by giving written notice to the Scottish Ministers require them to realise any investment and to reinvest the proceeds under paragraph (2) in a different way.
 
-## 11. Outward transfers[^key-0f07cc0b692fece4d8327252c45b001d]
+## 11. Outward transfers[^c-0f07cc0b692fece4d8327252c45b001d]
 
 (1) Except as provided in paragraph (2) the Scottish Ministers shall, on application by a person, pay a transfer value representing some or all of the value of investments made under regulation 9(1) or 10(2) to any other registered pension scheme or a qualifying recognised overseas pension scheme in which the person may be participating (provided that the other pension scheme is willing and able to accept such a transfer value).
 
@@ -249,13 +249,13 @@ is to be treated as having continued to be in pensionable service.
 
 (3) The Scottish Ministers may pay a transfer value representing the value of a person’s pension credit or of investments made under regulation 14(2) in the circumstances of Chapter II of Part IVA of the Pension Schemes Act 1993 and regulations made under that Chapter.
 
-## 12. Retirement and dependants’ pensions[^key-16554e361c7b2bbcc2c51c60423b8301]
+## 12. Retirement and dependants’ pensions[^c-16554e361c7b2bbcc2c51c60423b8301]
 
 (1) In this regulation “the relevant date”, in relation to a contributor or participator, means—
 
 - (a) in the case of a person who applies for benefits in pensionable service under the 2005 Regulations, the date the person attains the age of 55;
 - (b) in the case of a person who applies for benefits in pensionable service under the 2014 Regulations, the date the person attains normal minimum pension age as defined in regulation 3 of the 2014 regulations;
-- (c)[^key-1c52e29da15c6303f1547783f9950a84] in the case of a person who applies for retirement benefits under regulation E6(5) of the 2005 Regulations or for an ill health pension under the 2014 Regulations (as defined in regulation 3 of those regulations), the date these retirement benefits become payable
+- (c)[^c-1c52e29da15c6303f1547783f9950a84] in the case of a person who applies for retirement benefits under regulation E6(5) of the 2005 Regulations or for an ill health pension under the 2014 Regulations (as defined in regulation 3 of those regulations), the date these retirement benefits become payable
 
 unless the circumstance in paragraph (10) occurs before that date.
 
@@ -305,9 +305,9 @@ unless the circumstance in paragraph (10) occurs before that date.
 
 (10) In the case of a retirement pension, where there are exceptional circumstances of serious ill-health affecting the participator, the Scottish Ministers may realise the investments without purchasing any pension and in that event the amount becomes payable as a lump sum.
 
-(11) The authorised provider may discharge the liability for payment of the benefits under the pension policy by payment of a lump sum representing their capital value if such a lump sum would be defined in regulation 2 (2)[^key-8b0e34ae853eb14d89e22055770d2a0e] (b) of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00016].
+(11) The authorised provider may discharge the liability for payment of the benefits under the pension policy by payment of a lump sum representing their capital value if such a lump sum would be defined in regulation 2 (2)[^c-8b0e34ae853eb14d89e22055770d2a0e] (b) of the Registered Pension Schemes (Authorised Payments) Regulations 2009[^f00016].
 
-## 13. Lump sum death benefits[^key-daf14203087072c99c9caccc187f490c]
+## 13. Lump sum death benefits[^c-daf14203087072c99c9caccc187f490c]
 
 (1) Where a contributor who is paying regular contributions to provide a lump sum death benefit dies when no election under regulation 5(2) has effect, the lump sum secured by those contributions shall become payable.
 
@@ -322,7 +322,7 @@ unless the circumstance in paragraph (10) occurs before that date.
 
 (5) If at the time of the death of the contributor any person specified in a notice of election given under regulation 5(3) had died or ceased to be a dependant, the proportion of the lump sum death benefit that was to have been applied to the purchase of a pension for that person shall not be applied for that purpose, but shall be added to the balance becoming payable under paragraph (2)(b).
 
-## 14. Pension sharing on divorce[^key-3118476754fcd1ed804e9b37cb015b43]
+## 14. Pension sharing on divorce[^c-3118476754fcd1ed804e9b37cb015b43]
 
 (1) Pension sharing within the meaning of Part IV of the 1999 Act is available under the AVC Scheme in respect of all or part of a person’s shareable rights as set out in this regulation except as otherwise provided and the Scottish Ministers shall discharge their liability in respect of a pension credit which derives from the AVC Scheme in accordance with paragraph 1 of schedule 5 of the 1999 Act (pension credits: mode of discharge: funded pension schemes).
 
@@ -348,9 +348,9 @@ unless the circumstance in paragraph (10) occurs before that date.
 - (d) the reference to the insurance company referred to in regulation 9 shall be a reference to the insurance company referred to in regulation 14(2); and
 - (e) the reference in paragraph (10) to serious ill-health shall be a reference to ill-health which is such as to give rise to a life expectancy of less than one year from the date on which commutation is applied for.
 
-(8) In regulation 16, wherever regulation 12(6)[^key-35cbde653086dbe87af8522872ef6f1f] or (9) is referred to, the reference shall include a reference to that regulation as modified by this regulation in relation to pension credits.
+(8) In regulation 16, wherever regulation 12(6)[^c-35cbde653086dbe87af8522872ef6f1f] or (9) is referred to, the reference shall include a reference to that regulation as modified by this regulation in relation to pension credits.
 
-## 15. Repayment of investments in certain cases[^key-e7f5577a4184bcd632f61365c7e8d512]
+## 15. Repayment of investments in certain cases[^c-e7f5577a4184bcd632f61365c7e8d512]
 
 (1) The Scottish Ministers shall make arrangements for a person to receive a lump sum representing the total realisable value of the investments made by the Scottish Ministers in respect of that person under regulation 9(1) or 10(2) where the person—
 
@@ -359,7 +359,7 @@ unless the circumstance in paragraph (10) occurs before that date.
 
 (2) There shall be deducted from any lump sum payable under paragraph (1) the amount of tax chargeable under section 205 of the 2004 Act.
 
-## 16. Payment by the Scottish Ministers[^key-8c77018ee6ad1a8c85726293182c2241]
+## 16. Payment by the Scottish Ministers[^c-8c77018ee6ad1a8c85726293182c2241]
 
 (1) Where pursuant to an election under regulation 5(2) 12(6) or 13(3) the Scottish Ministers purchase an annuity policy from an authorised provider specified by the elector other than the insurance company referred to in regulation 9, the Scottish Ministers shall not, except in the circumstances described in paragraph (2), be liable for payment of any pension under that annuity policy.
 
@@ -382,7 +382,7 @@ shall be paid by the Scottish Ministers to the executors of the person to whom t
 
 (8) The amount of any tax chargeable under the 2004 Act on payments made under these Regulations shall be deducted by the Scottish Ministers before payment.
 
-## 17. Information[^key-c3f350b68b9eeeca705913447ab5950f]
+## 17. Information[^c-c3f350b68b9eeeca705913447ab5950f]
 
 (1) Persons making elections under these Regulations, and their employers, shall give the Scottish Ministers such information as they may reasonably require for the purposes of their functions under these Regulations.
 
@@ -394,7 +394,7 @@ shall be paid by the Scottish Ministers to the executors of the person to whom t
 
 shall, in particular, give the Scottish Ministers such information about the person’s health as the Scottish Ministers may reasonably require.
 
-## 18. Payments in respect of deceased persons[^key-a2b3661de7053f3ad32beb1c7f8a01e5]
+## 18. Payments in respect of deceased persons[^c-a2b3661de7053f3ad32beb1c7f8a01e5]
 
 (1) This regulation applies where a person dies and the total of—
 
@@ -410,11 +410,11 @@ does not exceed the amount specified in any order for the time being in force un
 
 and any person to whom such a payment is made, and not the Scottish Ministers, shall thereafter be liable to account for any amount so paid.
 
-## 19. Determination of questions[^key-53ccf984ce388bd0a7961ae1247d4a04]
+## 19. Determination of questions[^c-53ccf984ce388bd0a7961ae1247d4a04]
 
 All questions arising under these Regulations are to be determined by the Scottish Ministers and a determination by them is final.
 
-## 20. Revocations, savings and transitional provisions[^key-2e9cc28aa430da0ed0df29ec394b9ffd]
+## 20. Revocations, savings and transitional provisions[^c-2e9cc28aa430da0ed0df29ec394b9ffd]
 
 (1) The following are revoked—
 
@@ -512,9 +512,9 @@ In addition to minor and drafting amendments, these Regulations make the followi
 
 [^f00003]: Footnote: The function under section 9(1) of the Superannuation Act 1972 was transferred to the Treasury by the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)) by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), article 2 and schedule 1.
 
-[^key-1885f718d0546377fbf6f311ccf36187]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/283/regulation/1) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-1885f718d0546377fbf6f311ccf36187]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/283/regulation/1) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-5ba1588d437a50334ae53f130536a7f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/283/regulation/2) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-5ba1588d437a50334ae53f130536a7f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/283/regulation/2) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
 [^f00004]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -540,53 +540,53 @@ In addition to minor and drafting amendments, these Regulations make the followi
 
 [^f00015]: Footnote: [S.I. 2000/1052](https://www.legislation.gov.uk/uksi/2000/1052).
 
-[^key-83e7caad1fe03c4f6b0b0709a03b650e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/283/regulation/3) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-83e7caad1fe03c4f6b0b0709a03b650e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/283/regulation/3) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-e5a3d5d89122434d8ae1af3dabcd5e17]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/283/regulation/4) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-e5a3d5d89122434d8ae1af3dabcd5e17]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/283/regulation/4) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-adfec45cafbbd198f73e96f05d7b9a43]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/283/regulation/5) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-adfec45cafbbd198f73e96f05d7b9a43]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/283/regulation/5) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-ebe1cadb885c4c1121b7f497f9b0f49f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/283/regulation/6) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-ebe1cadb885c4c1121b7f497f9b0f49f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/283/regulation/6) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-7146343ec3df1230ce3e4c1e0ba02a34]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/283/regulation/7) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-7146343ec3df1230ce3e4c1e0ba02a34]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/283/regulation/7) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-13a2f4fdaaebcdf3018a5e0d6ea7b7a5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/283/regulation/8) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-13a2f4fdaaebcdf3018a5e0d6ea7b7a5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/283/regulation/8) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-5d65ce2aee55418733fecef901e0b360]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/283/regulation/9) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-5d65ce2aee55418733fecef901e0b360]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/283/regulation/9) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-921cea1b91674a1e4228815c04bdc713]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/283/regulation/10) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-921cea1b91674a1e4228815c04bdc713]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/283/regulation/10) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-0f07cc0b692fece4d8327252c45b001d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/283/regulation/11) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-0f07cc0b692fece4d8327252c45b001d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/283/regulation/11) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-16554e361c7b2bbcc2c51c60423b8301]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/283/regulation/12) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-16554e361c7b2bbcc2c51c60423b8301]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/283/regulation/12) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-1c52e29da15c6303f1547783f9950a84]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/ssi/2017/283/regulation/12/1/c) inserted (1.4.2019) by [The Teachers' Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/48)](https://www.legislation.gov.uk/ssi/2019/48), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/48/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2019/48/regulation/7/a) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-1c52e29da15c6303f1547783f9950a84]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/ssi/2017/283/regulation/12/1/c) inserted (1.4.2019) by [The Teachers' Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/48)](https://www.legislation.gov.uk/ssi/2019/48), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/48/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2019/48/regulation/7/a) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
-[^key-8b0e34ae853eb14d89e22055770d2a0e]: Textual amendment: Word in [reg. 12(11)](https://www.legislation.gov.uk/ssi/2017/283/regulation/12/11) substituted (1.4.2019) by [The Teachers' Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/48)](https://www.legislation.gov.uk/ssi/2019/48), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/48/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2019/48/regulation/7/b) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-8b0e34ae853eb14d89e22055770d2a0e]: Textual amendment: Word in [reg. 12(11)](https://www.legislation.gov.uk/ssi/2017/283/regulation/12/11) substituted (1.4.2019) by [The Teachers' Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/48)](https://www.legislation.gov.uk/ssi/2019/48), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/48/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2019/48/regulation/7/b) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
 [^f00016]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171).
 
-[^key-daf14203087072c99c9caccc187f490c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/283/regulation/13) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-daf14203087072c99c9caccc187f490c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/283/regulation/13) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-3118476754fcd1ed804e9b37cb015b43]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/283/regulation/14) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-3118476754fcd1ed804e9b37cb015b43]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/283/regulation/14) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2000/1053](https://www.legislation.gov.uk/uksi/2000/1053).
 
-[^key-35cbde653086dbe87af8522872ef6f1f]: Textual amendment: Word in [reg. 14(8)](https://www.legislation.gov.uk/ssi/2017/283/regulation/14/8) substituted (1.4.2019) by [The Teachers' Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/48)](https://www.legislation.gov.uk/ssi/2019/48), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/48/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2019/48/regulation/8) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
+[^c-35cbde653086dbe87af8522872ef6f1f]: Textual amendment: Word in [reg. 14(8)](https://www.legislation.gov.uk/ssi/2017/283/regulation/14/8) substituted (1.4.2019) by [The Teachers' Superannuation and Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/48)](https://www.legislation.gov.uk/ssi/2019/48), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/48/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2019/48/regulation/8) (as amended by [S.S.I. 2019/95](https://www.legislation.gov.uk/ssi/2019/95), [regs. 1](https://www.legislation.gov.uk/ssi/2019/95/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/95/regulation/3))
 
-[^key-e7f5577a4184bcd632f61365c7e8d512]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/283/regulation/15) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-e7f5577a4184bcd632f61365c7e8d512]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/283/regulation/15) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-8c77018ee6ad1a8c85726293182c2241]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/283/regulation/16) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-8c77018ee6ad1a8c85726293182c2241]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/283/regulation/16) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-c3f350b68b9eeeca705913447ab5950f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/283/regulation/17) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-c3f350b68b9eeeca705913447ab5950f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/283/regulation/17) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-a2b3661de7053f3ad32beb1c7f8a01e5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/283/regulation/18) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-a2b3661de7053f3ad32beb1c7f8a01e5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/283/regulation/18) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
 [^f00018]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32).
 
-[^key-53ccf984ce388bd0a7961ae1247d4a04]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/283/regulation/19) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-53ccf984ce388bd0a7961ae1247d4a04]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/283/regulation/19) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
-[^key-2e9cc28aa430da0ed0df29ec394b9ffd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/283/regulation/20) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
+[^c-2e9cc28aa430da0ed0df29ec394b9ffd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/283/regulation/20) in force at 1.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/283/regulation/1/1)
 
 [^f00019]: Footnote: [S.S.I. 2000/444](https://www.legislation.gov.uk/ssi/2000/444).
 

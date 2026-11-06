@@ -59,11 +59,11 @@ The Minister for the Cabinet Office is designated [^c21027531] for the purposes 
 
 ### 2. Amendment of Regulations
 
-(1)[^key-8b9102d06111687e9a480f40e638d1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8b9102d06111687e9a480f40e638d1e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ed6b5c95e0fcd3ee42c6b1406e7e1341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ed6b5c95e0fcd3ee42c6b1406e7e1341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5fa0eb680368c7852d09ab3f4104a714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5fa0eb680368c7852d09ab3f4104a714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Public Contracts (Scotland) Regulations 2006 [^c21027581] are amended in accordance with regulation 29.
 
@@ -175,77 +175,77 @@ Regulation 26 does not affect any proceedings where the date of knowledge has oc
 
 ## PART 2 — AMENDMENT OF THE PUBLIC CONTRACTS REGULATIONS 2006
 
-### 12. Time limits and service of proceedings[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 12. Time limits and service of proceedings[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Standstill notices: definition of ‘tenderer’[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 13. Standstill notices: definition of ‘tenderer’[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Criterion for suspension of contract-making[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 14. Criterion for suspension of contract-making[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Criteria for the rejection of economic operators[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 15. Criteria for the rejection of economic operators[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Transfer of functions etc[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 16. Transfer of functions etc[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Treaty references[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 17. Treaty references[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Miscellaneous minor amendments[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 18. Miscellaneous minor amendments[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — AMENDMENT OF THE UTILITIES CONTRACTS REGULATIONS 2006
 
-### 19. Time limits and service of proceedings[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 19. Time limits and service of proceedings[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Standstill notices: definition of ‘tenderer’[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 20. Standstill notices: definition of ‘tenderer’[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Criterion for suspension of contract-making[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 21. Criterion for suspension of contract-making[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Criteria for the rejection of economic operators[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 22. Criteria for the rejection of economic operators[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Transfer of functions etc[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 23. Transfer of functions etc[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Treaty references[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 24. Treaty references[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Miscellaneous minor amendments[^key-e65e3453bd90ec9cdb836b7d870fcf16]
+### 25. Miscellaneous minor amendments[^c-e65e3453bd90ec9cdb836b7d870fcf16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — AMENDMENT OF THE DEFENCE AND SECURITY PUBLIC CONTRACTS REGULATIONS 2011
 
-### 26. Time Limits and service of proceedings[^key-810fe588c3f017d24e9b60a96879adb9]
+### 26. Time Limits and service of proceedings[^c-810fe588c3f017d24e9b60a96879adb9]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Standstill notices: definition of ‘tenderer’[^key-810fe588c3f017d24e9b60a96879adb9]
+### 27. Standstill notices: definition of ‘tenderer’[^c-810fe588c3f017d24e9b60a96879adb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Criterion for suspension of contract-making[^key-810fe588c3f017d24e9b60a96879adb9]
+### 28. Criterion for suspension of contract-making[^c-810fe588c3f017d24e9b60a96879adb9]
 
 **No longer in force.**
 
@@ -316,11 +316,11 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c21027561]: Marginal citation: [S.I. 2006/6](https://www.legislation.gov.uk/uksi/2006/6); amended by [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157), 2009/3100, 2011/1441; there are other amending instruments but none is relevant.
 
-[^key-8b9102d06111687e9a480f40e638d1e0]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2053/regulation/2/1) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-8b9102d06111687e9a480f40e638d1e0]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2053/regulation/2/1) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
-[^key-ed6b5c95e0fcd3ee42c6b1406e7e1341]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2053/regulation/2/2) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-ed6b5c95e0fcd3ee42c6b1406e7e1341]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2053/regulation/2/2) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
-[^key-5fa0eb680368c7852d09ab3f4104a714]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/2053/regulation/2/3) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-5fa0eb680368c7852d09ab3f4104a714]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/2053/regulation/2/3) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
 [^c21027581]: Marginal citation: [S.I. 2006/1](https://www.legislation.gov.uk/uksi/2006/1), to which there are amendments not relevant to these Regulations.
 
@@ -336,9 +336,9 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c21027641]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-e65e3453bd90ec9cdb836b7d870fcf16]: Textual amendment: [Regs. 12-25](https://www.legislation.gov.uk/uksi/2011/2053/regulation/12) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-e65e3453bd90ec9cdb836b7d870fcf16]: Textual amendment: [Regs. 12-25](https://www.legislation.gov.uk/uksi/2011/2053/regulation/12) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
-[^key-810fe588c3f017d24e9b60a96879adb9]: Textual amendment: Regs. 26-28 revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-810fe588c3f017d24e9b60a96879adb9]: Textual amendment: Regs. 26-28 revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
 [^c21028061]: Marginal citation: By Council Directive 92/50/EEC relating to the coordination of procedures for the award of public services contracts (OJ No L 209, 24.7.1992, p1) and by Directive 2007/66/EC of the European Parliament and Council amending Council Directives 89/665/EEC and 92/13/EEC with regard to improving the effectiveness of review procedures concerning the award of public contracts (OJ No L 335, 20.12.2007, p31).
 

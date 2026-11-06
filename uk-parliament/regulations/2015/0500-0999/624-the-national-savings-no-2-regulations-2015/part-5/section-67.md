@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Payments in the case of persons who lack capacity[^key-f4e95d9bec8464c88c27c39792a65d4c]
+## 67. Payments in the case of persons who lack capacity[^c-f4e95d9bec8464c88c27c39792a65d4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4e95d9bec8464c88c27c39792a65d4c]: Commencement: Reg. 67 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-f4e95d9bec8464c88c27c39792a65d4c]: Commencement: Reg. 67 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

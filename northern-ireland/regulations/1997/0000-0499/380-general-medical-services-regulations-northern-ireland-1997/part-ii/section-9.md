@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Application to fill a vacancy[^key-64815dd9349c376b8e79438c4218c069]
+## 9. Application to fill a vacancy[^c-64815dd9349c376b8e79438c4218c069]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ to consider the applications, and the panel shall, subject to Article 56(2A) of 
 
 ## Annotations
 
-[^key-64815dd9349c376b8e79438c4218c069]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-64815dd9349c376b8e79438c4218c069]: Commencement: Reg. 9 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00018]: Footnote: Article 56(2A) was inserted by Article 5(1)(*b*) of [S.I. 1981/432](https://www.legislation.gov.uk/uksi/1981/432) and amended by Article 29 of [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)

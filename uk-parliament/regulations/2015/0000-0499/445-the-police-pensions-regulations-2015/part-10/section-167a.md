@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167A. Relevant pay[^key-0104168715460bbdf5a6ae7854dcd159]
+## 167A. Relevant pay[^c-0104168715460bbdf5a6ae7854dcd159]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0104168715460bbdf5a6ae7854dcd159]: Textual amendment: [Reg. 167A](https://www.legislation.gov.uk/uksi/2015/445/regulation/167A) inserted (1.4.2026) by [The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026 (S.I. 2026/267)](https://www.legislation.gov.uk/uksi/2026/267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/267/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/267/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/267/regulation/9))
+[^c-0104168715460bbdf5a6ae7854dcd159]: Textual amendment: [Reg. 167A](https://www.legislation.gov.uk/uksi/2015/445/regulation/167A) inserted (1.4.2026) by [The Police Pensions (Member Contributions) (Amendment and Transitional Provisions) (England and Wales) Regulations 2026 (S.I. 2026/267)](https://www.legislation.gov.uk/uksi/2026/267), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/267/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/267/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/267/regulation/9))

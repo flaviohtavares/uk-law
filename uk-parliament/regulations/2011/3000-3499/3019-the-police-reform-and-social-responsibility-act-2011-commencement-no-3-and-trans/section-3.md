@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Provisions coming into force on 16th January 2012[^key-909ae89c3cdf8abc2404f13891d488e5]
+## 3. Provisions coming into force on 16th January 2012[^c-909ae89c3cdf8abc2404f13891d488e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions of the 2011 Act listed in Schedule 1 come into force on 16th Janu
 
 ## Annotations
 
-[^key-909ae89c3cdf8abc2404f13891d488e5]: Commencement: Art. 3 in force at made date
+[^c-909ae89c3cdf8abc2404f13891d488e5]: Commencement: Art. 3 in force at made date

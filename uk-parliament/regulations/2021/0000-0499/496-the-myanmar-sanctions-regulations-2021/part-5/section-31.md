@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Supply and delivery of dual-use goods[^key-9d6a398625e3fdd80390c8ea00957900]
+## 31. Supply and delivery of dual-use goods[^c-9d6a398625e3fdd80390c8ea00957900]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6a398625e3fdd80390c8ea00957900]: Commencement: Reg. 31 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-9d6a398625e3fdd80390c8ea00957900]: Commencement: Reg. 31 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

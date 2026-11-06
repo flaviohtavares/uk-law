@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3 — Claimants dependent on drugs etc.[^key-01ddb840345d8877bcdda84f0e148862]
+## Schedule 3 — Claimants dependent on drugs etc.[^c-01ddb840345d8877bcdda84f0e148862]
 
 *Extent: E+W+S*
 
@@ -24,40 +24,40 @@ summary: ''
 
 Section 11
 
-### Part 1 — Jobseeker's allowance[^key-01ddb840345d8877bcdda84f0e148862]
+### Part 1 — Jobseeker's allowance[^c-01ddb840345d8877bcdda84f0e148862]
 
-#### Requirements imposed on claimants dependent on drugs etc.[^key-01ddb840345d8877bcdda84f0e148862]
+#### Requirements imposed on claimants dependent on drugs etc.[^c-01ddb840345d8877bcdda84f0e148862]
 
-**1.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consequential amendments[^key-01ddb840345d8877bcdda84f0e148862]
+#### Consequential amendments[^c-01ddb840345d8877bcdda84f0e148862]
 
-**3.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Report on initial operation of drugs provisions[^key-01ddb840345d8877bcdda84f0e148862]
+#### Report on initial operation of drugs provisions[^c-01ddb840345d8877bcdda84f0e148862]
 
-**5.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Employment and support allowance[^key-01ddb840345d8877bcdda84f0e148862]
+### Part 2 — Employment and support allowance[^c-01ddb840345d8877bcdda84f0e148862]
 
-#### Requirements imposed on persons dependent on drugs etc.[^key-01ddb840345d8877bcdda84f0e148862]
+#### Requirements imposed on persons dependent on drugs etc.[^c-01ddb840345d8877bcdda84f0e148862]
 
-**6.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Consequential amendments[^key-01ddb840345d8877bcdda84f0e148862]
+#### Consequential amendments[^c-01ddb840345d8877bcdda84f0e148862]
 
-**8.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Report on the initial operation of drugs provisions[^key-01ddb840345d8877bcdda84f0e148862]
+#### Report on the initial operation of drugs provisions[^c-01ddb840345d8877bcdda84f0e148862]
 
-**9.**[^key-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-01ddb840345d8877bcdda84f0e148862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01ddb840345d8877bcdda84f0e148862]: Textual amendment: Sch. 3 repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/60/3), [150(2)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/b)
+[^c-01ddb840345d8877bcdda84f0e148862]: Textual amendment: Sch. 3 repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/60/3), [150(2)(b)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/b)

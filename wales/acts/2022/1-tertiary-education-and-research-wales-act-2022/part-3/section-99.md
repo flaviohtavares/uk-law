@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Financial resources for further education or training: terms and conditions[^key-e711faf21545a0950a97b3ca8a5ac69d][^key-cd97a8fe0bbaaf27ba76af3c59618d5a]
+## 99. Financial resources for further education or training: terms and conditions[^c-e711faf21545a0950a97b3ca8a5ac69d][^c-cd97a8fe0bbaaf27ba76af3c59618d5a]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e711faf21545a0950a97b3ca8a5ac69d]: Commencement: S. 99 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-e711faf21545a0950a97b3ca8a5ac69d]: Commencement: S. 99 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-cd97a8fe0bbaaf27ba76af3c59618d5a]: Commencement: [S. 99](https://www.legislation.gov.uk/asc/2022/1/section/99) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(y)](https://www.legislation.gov.uk/wsi/2026/62/article/2/y)
+[^c-cd97a8fe0bbaaf27ba76af3c59618d5a]: Commencement: [S. 99](https://www.legislation.gov.uk/asc/2022/1/section/99) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(y)](https://www.legislation.gov.uk/wsi/2026/62/article/2/y)

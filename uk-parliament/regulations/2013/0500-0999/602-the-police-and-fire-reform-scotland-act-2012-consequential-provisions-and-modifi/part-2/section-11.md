@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Grants for safeguarding national security[^key-2a64bc72b9d3351c5423d8e6c2c6a9ff]
+## 11. Grants for safeguarding national security[^c-2a64bc72b9d3351c5423d8e6c2c6a9ff]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a64bc72b9d3351c5423d8e6c2c6a9ff]: Commencement: Art. 11 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-2a64bc72b9d3351c5423d8e6c2c6a9ff]: Commencement: Art. 11 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Re-allocation of attached rights[^c1967941][^key-49c43f97a10937cac41eb545fded1961][^key-ac97b7fa2b56802ab8946d5cc34d938d]
+## 11. Re-allocation of attached rights[^c1967941][^c-49c43f97a10937cac41eb545fded1961][^c-ac97b7fa2b56802ab8946d5cc34d938d]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ the owner of the land may apply to the commons registration authority for the re
 
 [^c1967941]: Commencement: S. 11 partly in force; s. 11 not in force at Royal Assent see s. 56(1); s. 11(5)(6) in force for certain purposes for W. at 12.8.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 2](https://www.legislation.gov.uk/uksi/2007/2386/article/2)
 
-[^key-49c43f97a10937cac41eb545fded1961]: Commencement: S. 11 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-49c43f97a10937cac41eb545fded1961]: Commencement: S. 11 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-ac97b7fa2b56802ab8946d5cc34d938d]: Commencement: S. 11 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-ac97b7fa2b56802ab8946d5cc34d938d]: Commencement: S. 11 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

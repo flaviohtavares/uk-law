@@ -55,7 +55,7 @@ summary: ''
   , and
 - (b) in subsection (2), after “above” insert “ or satisfy subsection (1A) above ”.
 
-(4)[^key-f5e117333d2173987c6a40276a7d6da2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f5e117333d2173987c6a40276a7d6da2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In paragraph 6 of Schedule 25 (definition of exempt activities), after sub-paragraph (5B) insert—
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5e117333d2173987c6a40276a7d6da2]: Textual amendment: [S. 64(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/64/4) omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(j)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/j) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-f5e117333d2173987c6a40276a7d6da2]: Textual amendment: [S. 64(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/64/4) omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(j)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/j) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7)[8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))

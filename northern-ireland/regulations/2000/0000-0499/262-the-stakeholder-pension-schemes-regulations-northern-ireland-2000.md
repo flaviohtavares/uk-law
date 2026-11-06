@@ -50,7 +50,7 @@ The Department for Social Development, in exercise of the powers conferred by th
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-2f2442eced45f2364c76bff1de0f506b]
+### 1. Citation, commencement and interpretation[^c-2f2442eced45f2364c76bff1de0f506b]
 
 (1) These Regulations may be cited as the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000.
 
@@ -105,13 +105,13 @@ The Department for Social Development, in exercise of the powers conferred by th
 
 ## Part II — Conditions Applying to Stakeholder Pension Schemes
 
-### 2. Manner of establishment[^key-cad07ee74b003d2da442f3be5a3db14c]
+### 2. Manner of establishment[^c-cad07ee74b003d2da442f3be5a3db14c]
 
 (1) A stakeholder pension scheme may (where not established under a trust) be established by means of one or more instruments in writing which provide for one or more contracts to be entered into between the manager of the scheme and each member of the scheme, or a person acting on the member’s behalf.
 
 (2) The manager of the scheme must be a person who is mentioned in section 632(1) of the Taxes Act[^f00014] (establishment of schemes approved as personal pension schemes under Chapter IV of Part XIV of that Act).
 
-### 3. Requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes[^key-a9945c358d9c2fb1cb1c2958d306c5f7]
+### 3. Requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes[^c-a9945c358d9c2fb1cb1c2958d306c5f7]
 
 (1) Subject to paragraph (2), the instruments establishing a stakeholder pension scheme (the “scheme instruments”) must prohibit the acceptance of contributions, transfer payments and pension credits to the scheme before 6th April 2001.
 
@@ -151,7 +151,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (9) For the purposes of paragraph (8) a deferred annuity is an annuity under the terms of which payment does not commence immediately but at a time in the future.
 
-### 4. Additional requirements as regards instruments establishing a stakeholder pension scheme established under a trust[^key-3277f2d615eeb38bfaa0cbc7a5eeab3c]
+### 4. Additional requirements as regards instruments establishing a stakeholder pension scheme established under a trust[^c-3277f2d615eeb38bfaa0cbc7a5eeab3c]
 
 (1) Subject to paragraph (2) and to regulation 17(1), except in so far as is necessary to ensure that the scheme has tax-exemption or tax-approval, the instruments establishing a stakeholder pension scheme established under a trust (the “trust instruments”) must preclude any restriction on membership of the scheme by reference to financial status, the amount of contributions to be made to the scheme or the manner in which contributions may be made to the scheme.
 
@@ -171,7 +171,7 @@ in any way which does not result in the provision of benefits for, or in respect
 - (b) have a condition that the trustees must obtain the consent of any person before making any decision about investments for the purposes of the scheme, or
 - (c) except in so far as otherwise required by or under any statutory provision, preclude the trustees from amending the trust instruments to provide for different investments to be held for the purposes of the scheme.
 
-### 5. Additional requirements as regards instruments establishing a stakeholder pension scheme not established under a trust[^key-14fdc6d9247936281a3479f54890f2b1]
+### 5. Additional requirements as regards instruments establishing a stakeholder pension scheme not established under a trust[^c-14fdc6d9247936281a3479f54890f2b1]
 
 (1) Subject to paragraph (2) and regulation 17(1), except in so far as is necessary to ensure that the scheme has tax-exemption or tax-approval, the instruments establishing a stakeholder pension scheme established otherwise than under a trust must preclude any restriction on membership of the scheme by reference to—
 
@@ -180,7 +180,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (2) Paragraph (1) shall not preclude any restrictions on paying contributions by means of cash or a credit card.
 
-### 6. Procedure for discharging rights on winding up[^key-a6a2752864ea154a827ef8bc4012e784]
+### 6. Procedure for discharging rights on winding up[^c-a6a2752864ea154a827ef8bc4012e784]
 
 (1) The scheme instruments must require that, where the winding up of a stakeholder pension scheme has commenced, the trustees or manager must, except in cases where regulation 7 applies, make transfer payments in respect of members' rights in accordance with the procedure set out in paragraphs (2) to (9).
 
@@ -220,7 +220,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (9) For the purposes of this regulation “member” includes “beneficiary”.
 
-### 7. Procedure for discharging on winding up rights of members with whom the trustees or manager have lost contact[^key-c8a249d9bda98bc7a64e2ea200fbf2ec]
+### 7. Procedure for discharging on winding up rights of members with whom the trustees or manager have lost contact[^c-c8a249d9bda98bc7a64e2ea200fbf2ec]
 
 (1) This regulation applies in respect of any member whose address for the time being is not known to the trustees or manager and in respect of whom—
 
@@ -229,7 +229,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (2) In cases where this regulation applies, the trustees or manager shall on the winding up of the scheme make a transfer payment in respect of the member’s rights to their choice of a stakeholder pension scheme, or to a scheme registered under section 2 of the 1999 Act and need give no notice of the transfer payment to the member either before or after it is made.
 
-### 8. Requirement applying to all stakeholder pension schemes as regards investments[^key-3b04df7753d1e864cc35cffc97713f0f]
+### 8. Requirement applying to all stakeholder pension schemes as regards investments[^c-3b04df7753d1e864cc35cffc97713f0f]
 
 (1) For the purposes of Article 3(1)(*b*) (meaning of “stakeholder pension scheme”), it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -256,7 +256,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
   and for the purpose of this definition the size of an institution at any time is to be determined by reference to the gross assets denominated in sterling of that institution, together with any subsidiary (as defined in Article 4 of the Companies (Northern Ireland) Order 1986[^f00023], as shown in the audited end of year accounts last published before that time.
 
-### 9. Requirement for statement of investment principles for schemes not established under a trust[^key-19805686f5d332444ec5d510184de43e]
+### 9. Requirement for statement of investment principles for schemes not established under a trust[^c-19805686f5d332444ec5d510184de43e]
 
 (1) Subject to paragraph (2), for the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -283,7 +283,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (7) In this regulation “member” includes “beneficiary”.
 
-### 10. Requirement for manager of schemes not established under a trust to have regard to certain matters, and to take advice, relating to investment[^key-ae19ec692afa478bd5eb4903769ce7d4]
+### 10. Requirement for manager of schemes not established under a trust to have regard to certain matters, and to take advice, relating to investment[^c-ae19ec692afa478bd5eb4903769ce7d4]
 
 (1) Subject to paragraph (2), for the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -311,7 +311,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (8) No person shall be treated as having complied with paragraph (4) unless the advice mentioned in that paragraph is given or confirmed in writing.
 
-### 11. Requirement for manager of schemes not established under a trust to appoint a reporting accountant[^key-daae16af6bc118f524bef05b5e3743f3]
+### 11. Requirement for manager of schemes not established under a trust to appoint a reporting accountant[^c-daae16af6bc118f524bef05b5e3743f3]
 
 (1) Subject to paragraph (2), for the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -342,7 +342,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (8) Where the reporting accountant is removed by the manager or resigns or dies, the manager shall appoint another reporting accountant within 3 months from the date of the removal, resignation or death.
 
-### 12. Requirement for annual declaration[^key-c923ab68bee340b307936f15a99d6d95]
+### 12. Requirement for annual declaration[^c-c923ab68bee340b307936f15a99d6d95]
 
 (1) For the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -372,7 +372,7 @@ in any way which does not result in the provision of benefits for, or in respect
 
 (7) The trustees or manager shall make available to members and beneficiaries of the scheme on request the declaration mentioned in paragraph (2) annexing the statement obtained in accordance with paragraph (4) or (5).
 
-### 13. Expenses, commission etc.—principles[^key-07c2a17c6093d5e1222de89f698f258c]
+### 13. Expenses, commission etc.—principles[^c-07c2a17c6093d5e1222de89f698f258c]
 
 (1) Except to the extent permitted by regulation 14—
 
@@ -393,7 +393,7 @@ shall be used in any way which does not result in the provision of benefits for 
 
 (3) In this regulation and in regulation 14 “member” includes “beneficiary”.
 
-### 14. Charges, etc.—permitted reductions in members' rights[^key-383a77d60733963ed071cbd6cf65f5bb]
+### 14. Charges, etc.—permitted reductions in members' rights[^c-383a77d60733963ed071cbd6cf65f5bb]
 
 (1) The value of a member’s rights under the scheme may be reduced in the circumstances, and to the extent, set out in paragraphs (2) to (5).
 
@@ -434,7 +434,7 @@ must be specified in writing by the trustees or manager of the scheme; and the s
 
 (8) Where the value of any member’s rights is reduced by reference to an amount of charges referred to in paragraph (5)(*c*), then, for the purposes of calculating any reduction under paragraph (2), (3) or (4), the funds held by the scheme are to be calculated after the deduction of any such amount.
 
-### 15. Requirement for trustees or manager to satisfy certain conditions in relation to with-profits funds[^key-110703993decbd56f7c6b312a6bf35f5]
+### 15. Requirement for trustees or manager to satisfy certain conditions in relation to with-profits funds[^c-110703993decbd56f7c6b312a6bf35f5]
 
 (1) Where all or any of a stakeholder pension scheme’s assets are invested in a with-profits fund it shall, for the purposes of Article 3(1)(*b*), be a condition of the scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -459,7 +459,7 @@ must be specified in writing by the trustees or manager of the scheme; and the s
 
 (6) In this regulation “appointed actuary” means a person appointed as actuary to the person responsible for managing the with-profits fund in which assets of the stakeholder pension scheme are invested.
 
-### 16. Requirements as regards the provision of the other services[^key-584603e875e0ee4bdf25322d8db602fc]
+### 16. Requirements as regards the provision of the other services[^c-584603e875e0ee4bdf25322d8db602fc]
 
 For the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being a stakeholder pension scheme that—
 
@@ -468,7 +468,7 @@ For the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being
   - (ii) any contract for such service is in writing and sets out the amount of any charge for the service and the terms on which it is to be paid, and
 - (b) it is not a condition of membership of the scheme that any person enter into any contract, whether with the trustees or manager of the scheme or any other person, other than the contract of membership of the scheme.
 
-### 17. Restrictions on contributions[^key-c5db783547fac7e0c8eabaf513e8afaf]
+### 17. Restrictions on contributions[^c-c5db783547fac7e0c8eabaf513e8afaf]
 
 (1) Subject to paragraph (2), the rules of a stakeholder pension scheme may permit the trustees or manager to refuse to accept a payment to the scheme of less than £20.
 
@@ -478,7 +478,7 @@ For the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being
 
 (4) The trustees or manager of a stakeholder pension scheme may refuse to accept any contribution if its acceptance would contravene the terms of the scheme’s tax-exemption or tax-approval under Chapter IV of Part XIV of the Taxes Act.
 
-### 18. Disclosure of information to members[^key-d646d948afd9bf4b927ba5f703ebde19]
+### 18. Disclosure of information to members[^c-d646d948afd9bf4b927ba5f703ebde19]
 
 (1) For the purposes of Article 3(1)(*b*), it shall be a condition of a scheme being a stakeholder pension scheme that the trustees or manager of the scheme comply with the requirements set out in this regulation in addition to such requirements of regulations under section 109 (disclosure of information about schemes to members) as are applicable to the scheme.
 
@@ -538,17 +538,17 @@ may, in accordance with regulations 13 and 14, be used otherwise than to provide
 
 (9) For the purposes of this regulation “member” shall include a beneficiary making income withdrawals from the scheme in accordance with section 636A of the Taxes Act (income withdrawals after death of member).
 
-### 19. Requirement for trustees of a stakeholder pension scheme established under a trust[^key-6b8421d6dfadd1be46d8f950f19256f2]
+### 19. Requirement for trustees of a stakeholder pension scheme established under a trust[^c-6b8421d6dfadd1be46d8f950f19256f2]
 
 For the purposes of Article 3(1)(*b*), it shall be a condition of a scheme which is established under a trust being a stakeholder pension scheme that the scheme comply with Articles 35 (investment principles) and 36 (choosing investments) of the 1995 Order except the reference to Article 56 (minimum funding requirement) in Article 35(2) and Article 35(5)(*b*) of that Order.
 
 ## Part III — Registration of Stakeholder Pension Schemes
 
-### 20. Persons who may apply for registration of stakeholder pension schemes not established under a trust[^key-323bb124aacbe6c0e2a18b26ddc65a55]
+### 20. Persons who may apply for registration of stakeholder pension schemes not established under a trust[^c-323bb124aacbe6c0e2a18b26ddc65a55]
 
 For the purposes of Article 4(2) and (4) (prescribed persons may apply for registration of stakeholder pension schemes and will be liable to penalties in certain circumstances connected with such application) the prescribed person in relation to a scheme not established under a trust is the manager of the scheme.
 
-### 21. Access to the register[^key-4848eb945476d19398260d2fb9336e14]
+### 21. Access to the register[^c-4848eb945476d19398260d2fb9336e14]
 
 (1) The Authority shall supply the most recent copy of the register to any person on request either—
 
@@ -559,7 +559,7 @@ For the purposes of Article 4(2) and (4) (prescribed persons may apply for regis
 
 ## Part IV — Employer Requirements
 
-### 22. Exemptions from employer access and consultation requirements[^key-242e0d24765875aa7068167b7ad89985]
+### 22. Exemptions from employer access and consultation requirements[^c-242e0d24765875aa7068167b7ad89985]
 
 (1) An employer need not comply with the requirements set out in Article 5 (duty of employers to facilitate access to stakeholder pension schemes) and this Part if he has fewer than 5 employees.
 
@@ -599,7 +599,7 @@ shall not be taken to be charges or penalties for transferring those funds or fo
 
 (10) Where a stakeholder pension scheme commences winding up, the employer need not comply with the consultation requirements in Article 5(2) if, within 4 months of the scheme commencing to wind up, he designates for the purposes of that Article the stakeholder pension scheme named in the notice mentioned in regulation 6(2) as the scheme of the trustees' or manager’s choice.
 
-### 23. Definition of relevant employees[^key-e75eace000836360f49411108053dc74]
+### 23. Definition of relevant employees[^c-e75eace000836360f49411108053dc74]
 
 (1) The following persons shall not be an employer’s relevant employee for the purposes of Article 5—
 
@@ -614,7 +614,7 @@ shall not be taken to be charges or penalties for transferring those funds or fo
 
 (2) For the purposes of paragraph (1)(*b*) “normal pension age” means the earliest age at which the employee in question would, if he were a member of the scheme in question, be entitled to receive benefits (other than a guaranteed minimum pension) on retirement from employment to which the scheme applies, disregarding any rule of the scheme which makes special provision as to early retirement on grounds of ill-health or otherwise.
 
-### 24. Payroll deduction of contributions[^key-7baaaade3ab9495aae6aded91dbf04fb]
+### 24. Payroll deduction of contributions[^c-7baaaade3ab9495aae6aded91dbf04fb]
 
 (1) Subject to paragraph (2), where an employee requests an employer to make or vary (but not cease) deductions of the employee’s contributions to a qualifying scheme from his remuneration (“the request”), the employer must comply with the request as soon as possible, but no later than the end of the pay period following that in which the request is made.
 
@@ -635,7 +635,7 @@ shall not be taken to be charges or penalties for transferring those funds or fo
 
 (5) Where an employer is notified that a stakeholder pension scheme that has been designated by him for the purposes of Article 5(2) has commenced winding up, the employer must immediately cease making deductions from the employee’s remuneration on account of contributions to that scheme and notify the employee as soon as practicable in writing that those deductions have ceased.
 
-### 25. Disclosure of information to relevant employees[^key-0fafe0a384fdebe45ab336e36cdf77eb]
+### 25. Disclosure of information to relevant employees[^c-0fafe0a384fdebe45ab336e36cdf77eb]
 
 (1) Where an employee for the first time requests an employer to make or vary (but not cease) deductions of the employee’s contributions to a qualifying scheme from his remuneration, the employer must, within 2 weeks of receiving that request, give notice in writing to the employee containing the information referred to in paragraph (2).
 
@@ -650,7 +650,7 @@ shall not be taken to be charges or penalties for transferring those funds or fo
 
 ## Part V — Amendment of Regulations Under the Act and the 1995 Order
 
-### 26. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-0a34d5783549a4a270d97c0315c07f60]
+### 26. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-0a34d5783549a4a270d97c0315c07f60]
 
 (1) The Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1987[^f00036] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -675,7 +675,7 @@ shall not be taken to be charges or penalties for transferring those funds or fo
 
   .
 
-### 27. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-98bc89f893cd21e3dc0ac503b0a4f6c2]
+### 27. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-98bc89f893cd21e3dc0ac503b0a4f6c2]
 
 In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00037] (transfer of member’s accrued rights without consent)—
 
@@ -694,7 +694,7 @@ In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) R
 
   .
 
-### 28. Amendment of the Protected Rights (Transfer Payment) Regulations[^key-be2916554a5180a24023b0b0821f0128]
+### 28. Amendment of the Protected Rights (Transfer Payment) Regulations[^c-be2916554a5180a24023b0b0821f0128]
 
 (1) The Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00038] shall be amended in accordance with paragraphs (2) and (3)
 
@@ -711,7 +711,7 @@ In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) R
 
 .
 
-### 29. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^key-b00baa557a559ac60fb4803343dbb6c4]
+### 29. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^c-b00baa557a559ac60fb4803343dbb6c4]
 
 (1) The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations (Northern Ireland) 1996[^f00039] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -737,7 +737,7 @@ In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) R
 
   .
 
-### 30. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-f6fc946035998fba905e52a6b597d6d4]
+### 30. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-f6fc946035998fba905e52a6b597d6d4]
 
 (1) The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996[^f00040] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -745,7 +745,7 @@ In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) R
 
 (3) In regulation 10(3)(*e*) after “wholly insured scheme” there shall be inserted “, other than a stakeholder pension scheme within the meaning of Article 3 of the Welfare Reform and Pensions (Northern Ireland) Order 1999,”.
 
-### 31. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-6a88847b7217b51b4f4f02f55d634fb9]
+### 31. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-6a88847b7217b51b4f4f02f55d634fb9]
 
 (1) The Occupational Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 1997[^f00041] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -780,7 +780,7 @@ In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) R
 
   .
 
-### 32. Application of other Regulations to stakeholder pension schemes[^key-ef3b193b7755444e99d887ab05b50a5a]
+### 32. Application of other Regulations to stakeholder pension schemes[^c-ef3b193b7755444e99d887ab05b50a5a]
 
 The Regulations listed in Schedule 2 shall apply as if a pension scheme established under a trust which—
 
@@ -797,7 +797,7 @@ Senior Officer of the
 
 Department for Social Development
 
-## SCHEDULE 1 — Provisions conferring powers exercised in making these regulations[^key-7f206b9148c40c4ad1031935052733fa]
+## SCHEDULE 1 — Provisions conferring powers exercised in making these regulations[^c-7f206b9148c40c4ad1031935052733fa]
 
 | Title of Statutory Provision | Powers |
 | --- | --- |
@@ -805,7 +805,7 @@ Department for Social Development
 | Pensions (Northern Ireland) Order 1995 | - Article 3(2)[^f00042]<br>- Article 10(1)<br>- Article 17(4)(*b*)<br>- Article 19(4)<br>- Article 27(3) and (5)<br>- Article 32(2)(*b*) and (3)<br>- Article 35(7)<br>- Article 41(1) and (6)<br>- Article 47(5)(*a*) and (*b*), (6) and (9)(*b*)<br>- Article 49(1), (2) and (4)[^f00043]<br>- Article 79(1)(*c*) and (2)<br>- Article 80(1)<br>- Article 81(2) and (3)(*a*)<br>- Article 82(1)(*b*), (2) and (3)<br>- Article 84<br>- Article 89(5)(*c*) and (*e*)<br>- Article 90(3) and (6)<br>- Article 92(1)<br>- Article 122(2)<br>- Article 166(1) to (3) |
 | Welfare Reform and Pensions (Northern Ireland) Order 1999 | - Article 3(1)(*b*), (2), (3), (4), (5) and (7)<br>- Article 4(2), (4) and (6)<br>- Article 5(1), (3)(*b*), (5) and (9)[^f00044]<br>- Article 9(2)<br>- Article 73(4) |
 
-## SCHEDULE 2 — Regulations applying to schemes which are or have been registered under Article 4[^key-cce8e5d32772bb4e4693fb58c603a7c7]
+## SCHEDULE 2 — Regulations applying to schemes which are or have been registered under Article 4[^c-cce8e5d32772bb4e4693fb58c603a7c7]
 
 Regulation 32
 
@@ -851,7 +851,7 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00001]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-2f2442eced45f2364c76bff1de0f506b]: Commencement: Reg. 1 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-2f2442eced45f2364c76bff1de0f506b]: Commencement: Reg. 1 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00002]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
@@ -877,11 +877,11 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00013]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-cad07ee74b003d2da442f3be5a3db14c]: Commencement: Reg. 2 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-cad07ee74b003d2da442f3be5a3db14c]: Commencement: Reg. 2 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00014]: Footnote: Relevant amending instruments are [S.I. 1988/993](https://www.legislation.gov.uk/uksi/1988/993) and [S.I. 1997/2388](https://www.legislation.gov.uk/uksi/1997/2388)
 
-[^key-a9945c358d9c2fb1cb1c2958d306c5f7]: Commencement: Reg. 3 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-a9945c358d9c2fb1cb1c2958d306c5f7]: Commencement: Reg. 3 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00015]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
@@ -889,17 +889,17 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00017]: Footnote: Section 24 was amended by Articles 139 and 143(2) of, and paragraph 27 of Schedule 3 to, the Pensions (Northern Ireland) Order 1995
 
-[^key-3277f2d615eeb38bfaa0cbc7a5eeab3c]: Commencement: Reg. 4 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-3277f2d615eeb38bfaa0cbc7a5eeab3c]: Commencement: Reg. 4 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-14fdc6d9247936281a3479f54890f2b1]: Commencement: Reg. 5 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-14fdc6d9247936281a3479f54890f2b1]: Commencement: Reg. 5 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-a6a2752864ea154a827ef8bc4012e784]: Commencement: Reg. 6 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-a6a2752864ea154a827ef8bc4012e784]: Commencement: Reg. 6 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00018]: Footnote: Section 91 was amended by paragraph 5 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-c8a249d9bda98bc7a64e2ea200fbf2ec]: Commencement: Reg. 7 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-c8a249d9bda98bc7a64e2ea200fbf2ec]: Commencement: Reg. 7 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-3b04df7753d1e864cc35cffc97713f0f]: Commencement: Reg. 8 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-3b04df7753d1e864cc35cffc97713f0f]: Commencement: Reg. 8 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00019]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60); relevant amending instruments are [S.I. 1988/803](https://www.legislation.gov.uk/uksi/1988/803), [S.I. 1990/349](https://www.legislation.gov.uk/uksi/1990/349), [S.I. 1995/3275](https://www.legislation.gov.uk/uksi/1995/3275), [S.I. 1996/2996](https://www.legislation.gov.uk/uksi/1996/2996) and [S.I. 1997/32](https://www.legislation.gov.uk/uksi/1997/32)
 
@@ -911,9 +911,9 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00023]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Articles 4 and 4A were substituted for Article 4 by Article 62(1) of the Companies (No. 2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504))
 
-[^key-19805686f5d332444ec5d510184de43e]: Commencement: Reg. 9 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-19805686f5d332444ec5d510184de43e]: Commencement: Reg. 9 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-ae19ec692afa478bd5eb4903769ce7d4]: Commencement: Reg. 10 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-ae19ec692afa478bd5eb4903769ce7d4]: Commencement: Reg. 10 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00024]: Footnote: Section 1 defines ‘investment business’ as the business of engaging in one or more of the activities falling within Part II of Schedule 1 to that Act if that business is not excluded by Part III of that Schedule
 
@@ -921,11 +921,11 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00026]: Footnote: [S.I. 1992/3218](https://www.legislation.gov.uk/uksi/1992/3218); regulation 5 was amended by regulation 2(*e*) and (*f*) of [S.I. 1993/3225](https://www.legislation.gov.uk/uksi/1993/3225) and paragraph 3 of Schedule 9 to [S.I. 1995/3275](https://www.legislation.gov.uk/uksi/1995/3275)
 
-[^key-daae16af6bc118f524bef05b5e3743f3]: Commencement: Reg. 11 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-daae16af6bc118f524bef05b5e3743f3]: Commencement: Reg. 11 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-c923ab68bee340b307936f15a99d6d95]: Commencement: Reg. 12 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-c923ab68bee340b307936f15a99d6d95]: Commencement: Reg. 12 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-07c2a17c6093d5e1222de89f698f258c]: Commencement: Reg. 13 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-07c2a17c6093d5e1222de89f698f258c]: Commencement: Reg. 13 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045)
 
@@ -937,17 +937,17 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00031]: Footnote: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37); section 12A was inserted by section 167(3) of the Pensions Act 1995 and is amended by paragraph 9 of Schedule 12 to the Welfare Reform and Pensions Act 1999
 
-[^key-383a77d60733963ed071cbd6cf65f5bb]: Commencement: Reg. 14 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-383a77d60733963ed071cbd6cf65f5bb]: Commencement: Reg. 14 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-110703993decbd56f7c6b312a6bf35f5]: Commencement: Reg. 15 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-110703993decbd56f7c6b312a6bf35f5]: Commencement: Reg. 15 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-584603e875e0ee4bdf25322d8db602fc]: Commencement: Reg. 16 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-584603e875e0ee4bdf25322d8db602fc]: Commencement: Reg. 16 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-c5db783547fac7e0c8eabaf513e8afaf]: Commencement: Reg. 17 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-c5db783547fac7e0c8eabaf513e8afaf]: Commencement: Reg. 17 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00032]: Footnote: Section 38A was inserted by Article 134(4) of the Pensions (Northern Ireland) Order 1995 and subsection (3) was amended by paragraph 52 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 
-[^key-d646d948afd9bf4b927ba5f703ebde19]: Commencement: Reg. 18 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-d646d948afd9bf4b927ba5f703ebde19]: Commencement: Reg. 18 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00033]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
@@ -955,47 +955,47 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00035]: Footnote: Section 636A was inserted by paragraphs 1 and 7 of Schedule 11 to the Finance Act 1995
 
-[^key-6b8421d6dfadd1be46d8f950f19256f2]: Commencement: Reg. 19 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-6b8421d6dfadd1be46d8f950f19256f2]: Commencement: Reg. 19 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-323bb124aacbe6c0e2a18b26ddc65a55]: Commencement: Reg. 20 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-323bb124aacbe6c0e2a18b26ddc65a55]: Commencement: Reg. 20 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-4848eb945476d19398260d2fb9336e14]: Commencement: Reg. 21 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-4848eb945476d19398260d2fb9336e14]: Commencement: Reg. 21 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-242e0d24765875aa7068167b7ad89985]: Commencement: Reg. 22 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-242e0d24765875aa7068167b7ad89985]: Commencement: Reg. 22 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-e75eace000836360f49411108053dc74]: Commencement: Reg. 23 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-e75eace000836360f49411108053dc74]: Commencement: Reg. 23 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-7baaaade3ab9495aae6aded91dbf04fb]: Commencement: Reg. 24 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-7baaaade3ab9495aae6aded91dbf04fb]: Commencement: Reg. 24 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-0fafe0a384fdebe45ab336e36cdf77eb]: Commencement: Reg. 25 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-0fafe0a384fdebe45ab336e36cdf77eb]: Commencement: Reg. 25 in operation at 8.10.2001, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-0a34d5783549a4a270d97c0315c07f60]: Commencement: Reg. 26 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-0a34d5783549a4a270d97c0315c07f60]: Commencement: Reg. 26 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00036]: Footnote: [S.R. 1987 No. 288](https://www.legislation.gov.uk/nisr/1987/288), relevant amending regulations are [S.R. 1988 No. 107](https://www.legislation.gov.uk/nisr/1988/107), [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), [S.R. 1993 No. 126](https://www.legislation.gov.uk/nisr/1993/126), [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300), [S.R. 1996 Nos. 95](https://www.legislation.gov.uk/nisr/1996/95) and [508](https://www.legislation.gov.uk/nisr/1996/508) and [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-98bc89f893cd21e3dc0ac503b0a4f6c2]: Commencement: Reg. 27 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-98bc89f893cd21e3dc0ac503b0a4f6c2]: Commencement: Reg. 27 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00037]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending regulations are [S.R. 1992 No. 304](https://www.legislation.gov.uk/nisr/1992/304), [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324), [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300), [S.R. 1995 No. 441](https://www.legislation.gov.uk/nisr/1995/441), [S.R. 1996 No. 620](https://www.legislation.gov.uk/nisr/1996/620) and [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
 
-[^key-be2916554a5180a24023b0b0821f0128]: Commencement: Reg. 28 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-be2916554a5180a24023b0b0821f0128]: Commencement: Reg. 28 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00038]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509), to which there are amendments not relevant to these regulations
 
-[^key-b00baa557a559ac60fb4803343dbb6c4]: Commencement: Reg. 29 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-b00baa557a559ac60fb4803343dbb6c4]: Commencement: Reg. 29 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00039]: Footnote: [1996 No. 431](https://www.legislation.gov.uk/nisr/1996/431); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-f6fc946035998fba905e52a6b597d6d4]: Commencement: Reg. 30 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-f6fc946035998fba905e52a6b597d6d4]: Commencement: Reg. 30 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00040]: Footnote: [1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584); to which there are amendments not relevant to these regulations
 
-[^key-6a88847b7217b51b4f4f02f55d634fb9]: Commencement: Reg. 31 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-6a88847b7217b51b4f4f02f55d634fb9]: Commencement: Reg. 31 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00041]: Footnote: [S.R. 1997 No. 98](https://www.legislation.gov.uk/nisr/1997/98); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486)
 
-[^key-ef3b193b7755444e99d887ab05b50a5a]: Commencement: Reg. 32 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-ef3b193b7755444e99d887ab05b50a5a]: Commencement: Reg. 32 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
-[^key-7f206b9148c40c4ad1031935052733fa]: Commencement: Sch. 1 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-7f206b9148c40c4ad1031935052733fa]: Commencement: Sch. 1 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00042]: Footnote: Article 3(2) is amended by paragraph 7 of Schedule 2 to, paragraph 33 of Schedule 9 to, and Schedule 10 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
@@ -1003,7 +1003,7 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^f00044]: Footnote: Article 5(9) is cited because of the power conferred in the meaning of the expression “relevant employees”
 
-[^key-cce8e5d32772bb4e4693fb58c603a7c7]: Commencement: Sch. 2 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
+[^c-cce8e5d32772bb4e4693fb58c603a7c7]: Commencement: Sch. 2 in operation at 1.10.2000, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2000/262/regulation/1/2)
 
 [^f00045]: Footnote: [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584), to which there are amendments not relevant to these regulations
 

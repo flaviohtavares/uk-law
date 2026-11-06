@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203A. Employment-related benefit provided under optional remuneration arrangements[^key-c71562ccf53c836a39189f62ac3f717c]
+## 203A. Employment-related benefit provided under optional remuneration arrangements[^c-c71562ccf53c836a39189f62ac3f717c]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In this subsection “earnings” is to be interpreted in accordance with sectio
 
 ## Annotations
 
-[^key-c71562ccf53c836a39189f62ac3f717c]: Textual amendment: [S. 203A](https://www.legislation.gov.uk/ukpga/2003/1/section/203A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/48)
+[^c-c71562ccf53c836a39189f62ac3f717c]: Textual amendment: [S. 203A](https://www.legislation.gov.uk/ukpga/2003/1/section/203A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/48)

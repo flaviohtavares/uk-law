@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Restriction of relief for underlying tax.[^key-576fef97f8996e6b958308476302c533]
+## 90. Restriction of relief for underlying tax.[^c-576fef97f8996e6b958308476302c533]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-576fef97f8996e6b958308476302c533]: Textual amendment: [S. 91](https://www.legislation.gov.uk/ukpga/1997/16/section/91) repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-576fef97f8996e6b958308476302c533]: Textual amendment: [S. 91](https://www.legislation.gov.uk/ukpga/1997/16/section/91) repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of regulation 4 (special provision for pharmacies etc)[^M_I_86672a58-9052-4500-943f-9cb1735712ee][^key-e3346d80d0c09414fae0ffd2ed0d5d67]
+## 6. Amendment of regulation 4 (special provision for pharmacies etc)[^M_I_86672a58-9052-4500-943f-9cb1735712ee][^c-e3346d80d0c09414fae0ffd2ed0d5d67]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In regulation 4—
 
 [^M_I_86672a58-9052-4500-943f-9cb1735712ee]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e3346d80d0c09414fae0ffd2ed0d5d67]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/3)
+[^c-e3346d80d0c09414fae0ffd2ed0d5d67]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/3)

@@ -43,7 +43,7 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement, extent and application[^key-7916ceddc400444abf24ae7a16ff6078]
+### 1. Citation, commencement, extent and application[^c-7916ceddc400444abf24ae7a16ff6078]
 
 (1) This Order may be cited as the Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Northern Ireland) Order 2005 and shall come into operation on 14th November 2005.
 
@@ -51,7 +51,7 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 
 (3) Nothing in paragraph (2) shall be treated as prejudicing the effect of section 30(2A) of the Fisheries Act[^f00003] in relation to, or for purposes incidental to, any provision in this Order which creates an offence.
 
-### 2. Interpretation[^key-c068f80442db62089d908a22a93ea143]
+### 2. Interpretation[^c-c068f80442db62089d908a22a93ea143]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to this order as it applies to an Act of the Northern Ireland assembly.
 
@@ -78,13 +78,13 @@ The Department of Agriculture and Rural Development, in exercise of the powers c
 - (c) any disk, tape, sound track or other device in which sounds or other data (not being visual aids) are recorded so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
 - (d) any film (including microfilm), negative, tape, disk or other device in which one or more visual images are recorded so as to be capable (as aforesaid) of being reproduced therefrom.
 
-### 3. Application[^key-8911fc7a2ba4ab83488098537fe56c98]
+### 3. Application[^c-8911fc7a2ba4ab83488098537fe56c98]
 
 This Order only applies to fishing boats to which the Commission Regulation applies.
 
 ## PART 2 — PROVISIONS RELATING TO NORTHERN IRELAND FISHING BOATS, AND BRITISH AND COMMUNITY FISHING BOATS WITHIN THE NORTHERN IRELAND ZONE
 
-### 4. Application of Part 2[^key-aa1276fe7f1fd461b4a53d64a6d3699b]
+### 4. Application of Part 2[^c-aa1276fe7f1fd461b4a53d64a6d3699b]
 
 Articles 5 to 9 apply to—
 
@@ -92,7 +92,7 @@ Articles 5 to 9 apply to—
 - (b) a British fishing boat within the Northern Ireland zone;
 - (c) a Community fishing boat within the Northern Ireland zone.
 
-### 5. Installation of a satellite-tracking device[^key-c5d3d46f08cb2973f260d10ff712e214]
+### 5. Installation of a satellite-tracking device[^c-c5d3d46f08cb2973f260d10ff712e214]
 
 (1) A person in charge of a fishing boat which has a satellite-tracking device installed for the purposes of the Commission Regulation which is capable of being manually overridden is guilty of an offence.
 
@@ -100,11 +100,11 @@ Articles 5 to 9 apply to—
 
 (3) A person in charge of a fishing boat which leaves port in contravention of Article 4 of the Commission Regulation is guilty of an offence.
 
-### 6. Prohibition against switching off a satellite-tracking device whilst in port without prior notification[^key-f4c27dff7efd1b8e5175ad7c725a8e89]
+### 6. Prohibition against switching off a satellite-tracking device whilst in port without prior notification[^c-f4c27dff7efd1b8e5175ad7c725a8e89]
 
 A person in charge of a fishing boat on which the satellite-tracking device is switched off other than in accordance with Article 8(3) of the Commission Regulation is guilty of an offence.
 
-### 7. Transmission of required information[^key-c6eecfd657e557ceee93d9780656867a]
+### 7. Transmission of required information[^c-c6eecfd657e557ceee93d9780656867a]
 
 (1) A person in charge of a fishing boat the satellite-tracking device on which fails to transmit data in compliance with Article 5(1) of the Commission Regulation on an hourly basis, is guilty of an offence except where—
 
@@ -112,7 +112,7 @@ A person in charge of a fishing boat on which the satellite-tracking device is s
 - (b) the satellite-tracking device has been switched off in compliance with Article 8(3) of the Commission Regulation, or
 - (c) data is being communicated in compliance with Article 11(1) of the Commission Regulation.
 
-### 8. Responsibilities relating to the satellite-tracking device[^key-dda055cd832e17d0c3814c0aa62e1eee]
+### 8. Responsibilities relating to the satellite-tracking device[^c-dda055cd832e17d0c3814c0aa62e1eee]
 
 (1) Subject to compliance with Article 8(3) of the Commission Regulation, a person in charge of a fishing boat in respect of which there is a failure to comply with Article 6(1) of the Commission Regulation is guilty of an offence.
 
@@ -122,7 +122,7 @@ A person in charge of a fishing boat on which the satellite-tracking device is s
 
 (4) A person in charge of a fishing boat in respect of which there is a contravention of Article 6(3) of the Commission Regulation is guilty of an offence.
 
-### 9. Technical failure or non-functioning of the satellite-tracking device[^key-c0139e907997d5a741ceb7fe6bdc6bba]
+### 9. Technical failure or non-functioning of the satellite-tracking device[^c-c0139e907997d5a741ceb7fe6bdc6bba]
 
 (1) A person in charge of a fishing boat in respect of which, in the event of a technical failure or non-functioning of the satellite-tracking device, there is a failure to communicate information in compliance with Article 11(1) of the Commission Regulation is guilty of an offence.
 
@@ -132,11 +132,11 @@ A person in charge of a fishing boat on which the satellite-tracking device is s
 
 ## PART 3 — PROVISIONS RELATING TO THIRD COUNTRY FISHING BOATS WITHIN THE NORTHERN IRELAND ZONE
 
-### 10. Application of Part 3[^key-43252d25b4d66f1b6858480615a8b102]
+### 10. Application of Part 3[^c-43252d25b4d66f1b6858480615a8b102]
 
 Articles 11 to 14 apply to third country fishing boats within the Northern Ireland zone.
 
-### 11. Installation of a satellite-tracking device[^key-5a52deb00b3d64260453f9e84a83981e]
+### 11. Installation of a satellite-tracking device[^c-5a52deb00b3d64260453f9e84a83981e]
 
 (1) A person in charge of a fishing boat which has a satellite-tracking device installed for the purposes of the Commission Regulation which is capable of being manually overridden is guilty of an offence.
 
@@ -144,11 +144,11 @@ Articles 11 to 14 apply to third country fishing boats within the Northern Irela
 
 (3) A person in charge of a fishing boat which fails to comply with Article 17 of the Commission Regulation is guilty of an offence.
 
-### 12. Transmission of required information[^key-898f9f5ef9f6cd9735d0259cfa0ac863]
+### 12. Transmission of required information[^c-898f9f5ef9f6cd9735d0259cfa0ac863]
 
 A person in charge of a fishing boat the satellite-tracking device on which fails to transmit data to the Fisheries Monitoring Centre of the flag state in compliance with Articles 18 and 20 of the Commission Regulation is guilty of an offence.
 
-### 13. Responsibilities relating to the satellite-tracking device[^key-b6af273b1487036be429051f51499444]
+### 13. Responsibilities relating to the satellite-tracking device[^c-b6af273b1487036be429051f51499444]
 
 (1) A person in charge of a fishing boat in respect of which there is a failure to comply with Article 19(1) of the Commission Regulation is guilty of an offence.
 
@@ -156,7 +156,7 @@ A person in charge of a fishing boat the satellite-tracking device on which fail
 
 (3) A person in charge of a fishing boat in respect of which there is a contravention of Article 19(3) of the Commission Regulation is guilty of an offence.
 
-### 14. Technical failure or non-functioning of the satellite-tracking device[^key-dc2b97cf173b50a83455bb69334f9e31]
+### 14. Technical failure or non-functioning of the satellite-tracking device[^c-dc2b97cf173b50a83455bb69334f9e31]
 
 (1) A person in charge of a fishing boat in respect of which, in the event of a technical failure or non-functioning of the satellite-tracking device, there is a failure to communicate information in compliance with Articles 23(1) and 23(2) of the Commission Regulation is guilty of an offence.
 
@@ -166,14 +166,14 @@ A person in charge of a fishing boat the satellite-tracking device on which fail
 
 ## PART 4 — PENALTIES AND RECOVERY OF FINES
 
-### 15. Penalties[^key-e0e5d776d61379da873766cc6c1d49a0]
+### 15. Penalties[^c-e0e5d776d61379da873766cc6c1d49a0]
 
 A person found guilty of an offence under Articles 5, 6, 7, 8, 9, 11, 12, 13 or 14 of this Order or under any equivalent provision is liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum, and
 - (b) on conviction on indictment to a fine.
 
-### 16. Recovery of fines[^key-c0d52303c28c01766bce56fb81b3ea60]
+### 16. Recovery of fines[^c-c0d52303c28c01766bce56fb81b3ea60]
 
 (1) Where a fine is imposed by a magistrates' court on a person in charge of a fishing boat who is convicted by the court of an offence under this Order or any equivalent provision, the court may—
 
@@ -182,11 +182,11 @@ A person found guilty of an offence under Articles 5, 6, 7, 8, 9, 11, 12, 13 or 
 
 (2) Articles 114(2) and 154 of the Magistrates Courts (Northern Ireland) Order 1981[^f00018] (postponement of issue of certain warrants and objections as to want of form or variance or variance between complaint etc. and evidence adduced) shall apply to a warrant of distress issued under this Article in Northern Ireland as it applies to a warrant referred to in those Articles of that order.
 
-(3) Where, in relation to a fine in respect of an offence under this Order or any equivalent provision a court orders under section 90 of the Magistrates Court Act 1980[^f00019] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00020], that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^key-426cda99e6e896c607ee92d230eda990] .
+(3) Where, in relation to a fine in respect of an offence under this Order or any equivalent provision a court orders under section 90 of the Magistrates Court Act 1980[^f00019] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00020], that a fine shall be enforceable in Northern Ireland, paragraphs (1) and (2) shall apply as if the fine were imposed by a court in Northern Ireland.[^c-426cda99e6e896c607ee92d230eda990] .
 
 ## PART 5 — POWERS AND PROTECTION OF BRITISH SEA FISHERY OFFICERS
 
-### 17. Powers of British sea-fishery officers in relation to fishing boats[^key-7ec1276fddd059bf7f005f2ee40cb014]
+### 17. Powers of British sea-fishery officers in relation to fishing boats[^c-7ec1276fddd059bf7f005f2ee40cb014]
 
 (1) For the purpose of enforcing this Order or any equivalent provision a British sea-fishery officer may exercise the powers conferred by this Article in relation to—
 
@@ -218,7 +218,7 @@ or for the purpose of examining, testing, repairing or replacing such equipment.
 
 and where such an officer detains or requires the detention of a boat he shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-### 18. Protection of officers[^key-c6d091b367be252824f27e2625748ddd]
+### 18. Protection of officers[^c-c6d091b367be252824f27e2625748ddd]
 
 A British sea-fishery officer or a person assisting such an officer by virtue of Article 17(2) of this Order shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred by virtue of Article 17 of this Order if the court is satisfied—
 
@@ -226,7 +226,7 @@ A British sea-fishery officer or a person assisting such an officer by virtue of
 - (b) that there were reasonable grounds for doing it; and
 - (c) that it was done with reasonable skill and care.
 
-### 19. Obstruction of officers[^key-590696a8d45158f989d89b64a70efa8e]
+### 19. Obstruction of officers[^c-590696a8d45158f989d89b64a70efa8e]
 
 (1) Any person who—
 
@@ -243,7 +243,7 @@ is guilty of an offence.
 
 ## PART 6 — MISCELLANEOUS AND SUPPLEMENTAL
 
-### 20. Provisions as to offences and proceedings[^key-9fbccf7371225184c3aa7d2fb348aae3]
+### 20. Provisions as to offences and proceedings[^c-9fbccf7371225184c3aa7d2fb348aae3]
 
 (1) Where any offence under this Order, or under any equivalent provision, committed by a body corporate is proved to have been committed with the consent or approval of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -251,7 +251,7 @@ is guilty of an offence.
 
 (3) Where any offence under this Order, or under any equivalent provision, committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association, that officer, as well as the association, shall be guilty of the offence and liable to be proceeded against and punished accordingly.
 
-### 21. Admissibility in evidence of logbooks and other documents[^key-6fc4d6a78010656c24f53b56f974379a]
+### 21. Admissibility in evidence of logbooks and other documents[^c-6fc4d6a78010656c24f53b56f974379a]
 
 Any—
 
@@ -264,7 +264,7 @@ of Regulation 2847/93 and any required information received by a Fisheries Monit
 
 ## PART 7 — REVOCATION
 
-### 22. Revocations[^key-061651b8beec562fb2bb08d8cd8c31e3]
+### 22. Revocations[^c-061651b8beec562fb2bb08d8cd8c31e3]
 
 The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Order 2000 in so far as it extends to Northern Ireland[^f00021] is hereby revoked.
 
@@ -294,11 +294,11 @@ For the purposes of enforcing the Commission Regulation the Order confers on Bri
 
 [^f00002]: Footnote: [S.I. 2002 No. 790](https://www.legislation.gov.uk/uksi/2002/790)
 
-[^key-7916ceddc400444abf24ae7a16ff6078]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/452/article/1) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-7916ceddc400444abf24ae7a16ff6078]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/452/article/1) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
 [^f00003]: Footnote: Section 30(2A) was inserted by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), Schedule 2, paragraph 68(5)(a)
 
-[^key-c068f80442db62089d908a22a93ea143]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/452/article/2) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-c068f80442db62089d908a22a93ea143]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/452/article/2) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -328,33 +328,33 @@ For the purposes of enforcing the Commission Regulation the Order confers on Bri
 
 [^f00017]: Footnote: O.J. No. L333, 20.12.03, p. 17
 
-[^key-8911fc7a2ba4ab83488098537fe56c98]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/452/article/3) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-8911fc7a2ba4ab83488098537fe56c98]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/452/article/3) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-aa1276fe7f1fd461b4a53d64a6d3699b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/452/article/4) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-aa1276fe7f1fd461b4a53d64a6d3699b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/452/article/4) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-c5d3d46f08cb2973f260d10ff712e214]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/452/article/5) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-c5d3d46f08cb2973f260d10ff712e214]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/452/article/5) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-f4c27dff7efd1b8e5175ad7c725a8e89]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/452/article/6) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-f4c27dff7efd1b8e5175ad7c725a8e89]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/452/article/6) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-c6eecfd657e557ceee93d9780656867a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2005/452/article/7) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-c6eecfd657e557ceee93d9780656867a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2005/452/article/7) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-dda055cd832e17d0c3814c0aa62e1eee]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2005/452/article/8) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-dda055cd832e17d0c3814c0aa62e1eee]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2005/452/article/8) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-c0139e907997d5a741ceb7fe6bdc6bba]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2005/452/article/9) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-c0139e907997d5a741ceb7fe6bdc6bba]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2005/452/article/9) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-43252d25b4d66f1b6858480615a8b102]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2005/452/article/10) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-43252d25b4d66f1b6858480615a8b102]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2005/452/article/10) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-5a52deb00b3d64260453f9e84a83981e]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2005/452/article/11) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-5a52deb00b3d64260453f9e84a83981e]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2005/452/article/11) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-898f9f5ef9f6cd9735d0259cfa0ac863]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2005/452/article/12) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-898f9f5ef9f6cd9735d0259cfa0ac863]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2005/452/article/12) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-b6af273b1487036be429051f51499444]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2005/452/article/13) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-b6af273b1487036be429051f51499444]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2005/452/article/13) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-dc2b97cf173b50a83455bb69334f9e31]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2005/452/article/14) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-dc2b97cf173b50a83455bb69334f9e31]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2005/452/article/14) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-e0e5d776d61379da873766cc6c1d49a0]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2005/452/article/15) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-e0e5d776d61379da873766cc6c1d49a0]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2005/452/article/15) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-c0d52303c28c01766bce56fb81b3ea60]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2005/452/article/16) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-c0d52303c28c01766bce56fb81b3ea60]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2005/452/article/16) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
 [^f00018]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
@@ -362,18 +362,18 @@ For the purposes of enforcing the Commission Regulation the Order confers on Bri
 
 [^f00020]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46)
 
-[^key-426cda99e6e896c607ee92d230eda990]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/nisr/2005/452/article/16/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [26](https://www.legislation.gov.uk/nisr/2016/317/article/26); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
+[^c-426cda99e6e896c607ee92d230eda990]: Textual amendment: Words in [art. 16(3)](https://www.legislation.gov.uk/nisr/2005/452/article/16/3) substituted (31.10.2016) by [The Justice Act (Northern Ireland) 2015 (Single Jurisdiction) (Consequential Amendments and Revocations) Order (Northern Ireland) 2016 (S.R. 2016/317)](https://www.legislation.gov.uk/nisr/2016/317), [arts. 1](https://www.legislation.gov.uk/nisr/2016/317/article/1), [26](https://www.legislation.gov.uk/nisr/2016/317/article/26); [S.R.2016/317](https://www.legislation.gov.uk/nisr/2016/317) art. 2(a) (with art. 3)
 
-[^key-7ec1276fddd059bf7f005f2ee40cb014]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2005/452/article/17) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-7ec1276fddd059bf7f005f2ee40cb014]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2005/452/article/17) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-c6d091b367be252824f27e2625748ddd]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2005/452/article/18) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-c6d091b367be252824f27e2625748ddd]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2005/452/article/18) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-590696a8d45158f989d89b64a70efa8e]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2005/452/article/19) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-590696a8d45158f989d89b64a70efa8e]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2005/452/article/19) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-9fbccf7371225184c3aa7d2fb348aae3]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2005/452/article/20) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-9fbccf7371225184c3aa7d2fb348aae3]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2005/452/article/20) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-6fc4d6a78010656c24f53b56f974379a]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2005/452/article/21) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-6fc4d6a78010656c24f53b56f974379a]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2005/452/article/21) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
-[^key-061651b8beec562fb2bb08d8cd8c31e3]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2005/452/article/22) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
+[^c-061651b8beec562fb2bb08d8cd8c31e3]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2005/452/article/22) in operation at 14.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/452/article/1/1)
 
 [^f00021]: Footnote: [S.I. 2000/181](https://www.legislation.gov.uk/uksi/2000/181)

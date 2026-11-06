@@ -25,7 +25,7 @@ summary: ''
 - (a) a work search requirement under Article 22(1)(a) (to take all reasonable action to obtain paid work etc.), or
 - (b) a work availability requirement under Article 23(1).
 
-(2)[^key-0cf1a77ed5aaaae963d569f2cfe7b25b] The reduction in the circumstances described in the first column of the following table is the period set out in—
+(2)[^c-0cf1a77ed5aaaae963d569f2cfe7b25b] The reduction in the circumstances described in the first column of the following table is the period set out in—
 
 - (a) the second column, where the claimant is aged 18 or over on the date of the sanctionable failure;
 - (b) the third column, where the claimant is aged 16 or 17 on the date of the sanctionable failure.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf1a77ed5aaaae963d569f2cfe7b25b]: Textual amendment: [Reg. 100(2)](https://www.legislation.gov.uk/nisr/2016/216/regulation/100/2) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(12)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/12)
+[^c-0cf1a77ed5aaaae963d569f2cfe7b25b]: Textual amendment: [Reg. 100(2)](https://www.legislation.gov.uk/nisr/2016/216/regulation/100/2) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(12)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/12)

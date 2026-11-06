@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Functions of the Assembly[^key-a27b3c15b73861cb7fa08c8b75b51c41]
+## 76. Functions of the Assembly[^c-a27b3c15b73861cb7fa08c8b75b51c41]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a27b3c15b73861cb7fa08c8b75b51c41]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2019/3/section/76) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-a27b3c15b73861cb7fa08c8b75b51c41]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2019/3/section/76) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

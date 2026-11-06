@@ -55,13 +55,13 @@ the weekly rate of the pension, so far as attributable to that service, must not
 
 (8) This paragraph applies if a person has ceased to be in employment that is contracted-out by reference to this scheme, and either—
 
-- (a) all the person's rights to benefits under this scheme, except the person's rights in respect of the person's guaranteed minimum or the person’s section 9(2B) rights[^key-f06d09de63fc7cdfda9ef3bb196dbbd7] (“the person's contracting-out rights”), have been transferred under Part 7 (transfers); or
+- (a) all the person's rights to benefits under this scheme, except the person's rights in respect of the person's guaranteed minimum or the person’s section 9(2B) rights[^c-f06d09de63fc7cdfda9ef3bb196dbbd7] (“the person's contracting-out rights”), have been transferred under Part 7 (transfers); or
 - (b) the person has no rights to benefits under this scheme apart from the person's contracting-out rights.
 
 (9) If paragraph (8) applies—
 
 - (a) from the date on which the person reaches State pension age the person is entitled to a pension payable for life at a weekly rate equal to his guaranteed minimum, if any; and
-- (b) from the date on which the person reaches pension age the person is entitled to a pension in respect of the person’s section 9(2B) rights[^key-f5363ece89be71ea9aceb17fe71c4d8f],
+- (b) from the date on which the person reaches pension age the person is entitled to a pension in respect of the person’s section 9(2B) rights[^c-f5363ece89be71ea9aceb17fe71c4d8f],
 
 but a person falling within paragraph (8) is not to be regarded as a pensioner for the purposes of Part 6 (survivor benefits).
 
@@ -69,9 +69,9 @@ but a person falling within paragraph (8) is not to be regarded as a pensioner f
 
 - (a) a pension that is forfeited—
   - (i) as a result of a conviction for treason; or
-  - (ii) in a case where an offence within paragraph 12(2)(b) of Schedule 3 [^key-b15a00b63cb4fa19c30e5eb1522337ec]... is committed;
+  - (ii) in a case where an offence within paragraph 12(2)(b) of Schedule 3 [^c-b15a00b63cb4fa19c30e5eb1522337ec]... is committed;
 - (b) a pension that is commuted under regulation 109 (option for members in serious ill- health to exchange whole pension for lump sum); or
-- (c) a pension that is commuted under paragraph 6 of Schedule 3 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^key-989250a69cd8a4bcbdca1df269ff2b5f] are met,
+- (c) a pension that is commuted under paragraph 6 of Schedule 3 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^c-989250a69cd8a4bcbdca1df269ff2b5f] are met,
 
 but if any other provision of this scheme is inconsistent with this regulation, this regulation prevails.
 
@@ -87,10 +87,10 @@ but if any other provision of this scheme is inconsistent with this regulation, 
 
 [^c22361581]: Marginal citation: Section 14 has been amended by sections 151 and 177 of, and paragraphs 27(a) and (b) of Schedule 5 and Part 3 of Schedule 7 to, the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), [section 1(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/1/1) of, and paragraph 38(a) to (c) of Schedule 1 to, the [Social Security Contributions (Transfer of Functions, etc) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), [section 456](https://www.legislation.gov.uk/ukpga/1999/2/section/456) of, and paragraphs 1 and 22(1) and (3) of Schedule 11 to, the [Proceeds of Crime Act 2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), and is prospectively amended by section 24(1) of, and paragraphs 1 and 15(1) to (3) of Schedule 13 to, the [Pensions Act 2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-f06d09de63fc7cdfda9ef3bb196dbbd7]: Textual amendment: Words in reg. 110(8)(a) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [85(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/85/2)
+[^c-f06d09de63fc7cdfda9ef3bb196dbbd7]: Textual amendment: Words in reg. 110(8)(a) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [85(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/85/2)
 
-[^key-f5363ece89be71ea9aceb17fe71c4d8f]: Textual amendment: Words in reg. 110(9)(b) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [85(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/85/3)
+[^c-f5363ece89be71ea9aceb17fe71c4d8f]: Textual amendment: Words in reg. 110(9)(b) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [85(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/85/3)
 
-[^key-b15a00b63cb4fa19c30e5eb1522337ec]: Textual amendment: Words in [reg. 110(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/94/regulation/110/10/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 47(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/47/3)
+[^c-b15a00b63cb4fa19c30e5eb1522337ec]: Textual amendment: Words in [reg. 110(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/94/regulation/110/10/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 47(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/47/3)
 
-[^key-989250a69cd8a4bcbdca1df269ff2b5f]: Textual amendment: Words in reg. 110(10)(c) substituted (6.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/3), [68](https://www.legislation.gov.uk/uksi/2016/245/regulation/68) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-989250a69cd8a4bcbdca1df269ff2b5f]: Textual amendment: Words in reg. 110(10)(c) substituted (6.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/3), [68](https://www.legislation.gov.uk/uksi/2016/245/regulation/68) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

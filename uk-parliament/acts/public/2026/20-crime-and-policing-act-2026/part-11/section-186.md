@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Removal of power to continue detention[^key-38fe7c5d6f3ee1861785cb06c028fff8]
+## 186. Removal of power to continue detention[^c-38fe7c5d6f3ee1861785cb06c028fff8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38fe7c5d6f3ee1861785cb06c028fff8]: Commencement: S. 186 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-38fe7c5d6f3ee1861785cb06c028fff8]: Commencement: S. 186 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Postponement or cancellation of dividend[^key-6488a4c85b4cc5094779c416651136e3]
+## 67. Postponement or cancellation of dividend[^c-6488a4c85b4cc5094779c416651136e3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the postal administrator may postpone or cancel the dividend.
 
 ## Annotations
 
-[^key-6488a4c85b4cc5094779c416651136e3]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2013/3208/rule/67) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6488a4c85b4cc5094779c416651136e3]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2013/3208/rule/67) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

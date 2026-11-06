@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2007 (revoked)[^key-4a79f76664daf1ae0e230c77a5966daa]
+The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Amendment Regulations 2007 (revoked)[^c-4a79f76664daf1ae0e230c77a5966daa]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 30th September 2007
 
-[^key-4a79f76664daf1ae0e230c77a5966daa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a79f76664daf1ae0e230c77a5966daa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4a79f76664daf1ae0e230c77a5966daa]
+## 1. Citation and commencement[^c-4a79f76664daf1ae0e230c77a5966daa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^key-4a79f76664daf1ae0e230c77a5966daa]
+## 2. Amendments to the Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2005[^c-4a79f76664daf1ae0e230c77a5966daa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2(1) (interpretation)[^key-4a79f76664daf1ae0e230c77a5966daa]
+## 3. Amendment of regulation 2(1) (interpretation)[^c-4a79f76664daf1ae0e230c77a5966daa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 10 (additional modulation)[^key-4a79f76664daf1ae0e230c77a5966daa]
+## 4. Amendment of regulation 10 (additional modulation)[^c-4a79f76664daf1ae0e230c77a5966daa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a79f76664daf1ae0e230c77a5966daa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a79f76664daf1ae0e230c77a5966daa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4a79f76664daf1ae0e230c77a5966daa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a79f76664daf1ae0e230c77a5966daa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a79f76664daf1ae0e230c77a5966daa]: Textual amendment: Regulations revoked (1.1.2012) by [The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2011 (S.S.I. 2011/416)](https://www.legislation.gov.uk/ssi/2011/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/416/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/416/schedule/3) (with [reg. 14(2)](https://www.legislation.gov.uk/ssi/2011/416/regulation/14)[(3)](https://www.legislation.gov.uk/ssi/2011/416/regulation/14))
+[^c-4a79f76664daf1ae0e230c77a5966daa]: Textual amendment: Regulations revoked (1.1.2012) by [The Common Agricultural Policy Single Farm Payment and Support Schemes (Scotland) Regulations 2011 (S.S.I. 2011/416)](https://www.legislation.gov.uk/ssi/2011/416), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/416/regulation/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/416/schedule/3) (with [reg. 14(2)](https://www.legislation.gov.uk/ssi/2011/416/regulation/14)[(3)](https://www.legislation.gov.uk/ssi/2011/416/regulation/14))

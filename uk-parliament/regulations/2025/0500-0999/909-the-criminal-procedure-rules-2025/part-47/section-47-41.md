@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.41. Application to punish for contempt of court[^key-2ebfc02df9c9bed4d53f1ba8626f84cb]
+## 47.41. Application to punish for contempt of court[^c-2ebfc02df9c9bed4d53f1ba8626f84cb]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ebfc02df9c9bed4d53f1ba8626f84cb]: Commencement: Rule 47.41 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2ebfc02df9c9bed4d53f1ba8626f84cb]: Commencement: Rule 47.41 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

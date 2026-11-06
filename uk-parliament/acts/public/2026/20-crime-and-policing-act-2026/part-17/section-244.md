@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Meaning of “appropriate national authority”[^key-1eed96879460fabb33d1b6b4a48ae8ba]
+## 244. Meaning of “appropriate national authority”[^c-1eed96879460fabb33d1b6b4a48ae8ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eed96879460fabb33d1b6b4a48ae8ba]: Commencement: S. 244 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-1eed96879460fabb33d1b6b4a48ae8ba]: Commencement: S. 244 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

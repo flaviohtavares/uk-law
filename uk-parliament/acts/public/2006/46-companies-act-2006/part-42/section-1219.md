@@ -37,9 +37,9 @@ summary: ''
 
 - (a) before 1st January 1990, he began a course of study or practical training leading to a professional qualification in accountancy offered by a body established in the United Kingdom,
 - (b) he obtained that qualification on or after 1st January 1990 and before 1st January 1996, and
-- (c) the Secretary of State approved his qualification before 1st October 2018[^key-1e5626f8474105a06ed74abd7b35a6cd] as an appropriate qualification for the purposes of this Chapter.
+- (c) the Secretary of State approved his qualification before 1st October 2018[^c-1e5626f8474105a06ed74abd7b35a6cd] as an appropriate qualification for the purposes of this Chapter.
 
-(3)[^key-9bae5565907d4fb96387c308514f40eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9bae5565907d4fb96387c308514f40eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c19699871]: Textual amendment: Words in s. 1219(1)(f) substituted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/5/c)
 
-[^key-1e5626f8474105a06ed74abd7b35a6cd]: Textual amendment: Words in s. 1219(2)(c) substituted (1.5.2017) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/13/4/a)
+[^c-1e5626f8474105a06ed74abd7b35a6cd]: Textual amendment: Words in s. 1219(2)(c) substituted (1.5.2017) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/13/4/a)
 
-[^key-9bae5565907d4fb96387c308514f40eb]: Textual amendment: S. 1219(3) omitted (1.10.2018) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/3), [13(4)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/13/4/b)
+[^c-9bae5565907d4fb96387c308514f40eb]: Textual amendment: S. 1219(3) omitted (1.10.2018) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/3), [13(4)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/13/4/b)

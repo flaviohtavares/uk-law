@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Power to institute proceedings to determine compatibility question[^key-93e2f3e116889fb9d6c4c1be643ba5a2]
+## 33. Power to institute proceedings to determine compatibility question[^c-93e2f3e116889fb9d6c4c1be643ba5a2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Lord Advocate may institute proceedings for the determination of a compatibi
 
 ## Annotations
 
-[^key-93e2f3e116889fb9d6c4c1be643ba5a2]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2024/1/section/33) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-93e2f3e116889fb9d6c4c1be643ba5a2]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2024/1/section/33) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

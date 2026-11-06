@@ -42,7 +42,7 @@ anything to which this paragraph applies.
 (4) In paragraph (3) “**lawfully**” means—
 
 - (a) without contravention of Part 1 of the Wildlife and Countryside Act 1981, the Wildlife (Northern Ireland) Order 1985, the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 [^c23068171] or these Regulations; or
-- (b) in the case of a bird, egg or other thing killed, taken or sold in Gibraltar or a member State [^key-5e9485e201a480e6f1abdaf47aa037e3]..., without contravention (as the case may be) of the law of Gibraltar or the law of that State implementing the Wild Birds Directive.
+- (b) in the case of a bird, egg or other thing killed, taken or sold in Gibraltar or a member State [^c-5e9485e201a480e6f1abdaf47aa037e3]..., without contravention (as the case may be) of the law of Gibraltar or the law of that State implementing the Wild Birds Directive.
 
 (5) In any proceedings for an offence under this regulation—
 
@@ -62,4 +62,4 @@ anything to which this paragraph applies.
 
 [^c23068171]: Marginal citation: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842), amended by [S.I. 2009/7](https://www.legislation.gov.uk/uksi/2009/7), 2010/491 and 2012/1928, and revoked by these Regulations.
 
-[^key-5e9485e201a480e6f1abdaf47aa037e3]: Textual amendment: Words in [reg. 43(4)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/43/4/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [58](https://www.legislation.gov.uk/uksi/2019/579/regulation/58); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e9485e201a480e6f1abdaf47aa037e3]: Textual amendment: Words in [reg. 43(4)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/43/4/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [58](https://www.legislation.gov.uk/uksi/2019/579/regulation/58); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

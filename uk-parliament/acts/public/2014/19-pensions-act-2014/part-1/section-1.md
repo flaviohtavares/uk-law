@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. State pension[^key-f6f4510a8c063e640371b9a8bc31dee3]
+## 1. State pension[^c-f6f4510a8c063e640371b9a8bc31dee3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6f4510a8c063e640371b9a8bc31dee3]: Commencement: S. 1 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-f6f4510a8c063e640371b9a8bc31dee3]: Commencement: S. 1 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

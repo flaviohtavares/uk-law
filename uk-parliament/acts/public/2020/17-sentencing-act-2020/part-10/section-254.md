@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Extended sentence for certain violent, sexual or terrorism offences[^key-4d0d4d52ae5a1bc19bd33bb7b31a9fed]
+## 254. Extended sentence for certain violent, sexual or terrorism offences[^c-4d0d4d52ae5a1bc19bd33bb7b31a9fed]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An extended sentence of detention under this section is a sentence of detention 
 
 ## Annotations
 
-[^key-4d0d4d52ae5a1bc19bd33bb7b31a9fed]: Commencement: S. 254 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4d0d4d52ae5a1bc19bd33bb7b31a9fed]: Commencement: S. 254 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

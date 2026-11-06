@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Liability of corporate officers etc[^key-e20c47886fb2af9e6ac188e7c165a2b9]
+## 80. Liability of corporate officers etc[^c-e20c47886fb2af9e6ac188e7c165a2b9]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ that person also commits the offence.
 
 ## Annotations
 
-[^key-e20c47886fb2af9e6ac188e7c165a2b9]: Commencement: S. 80 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e20c47886fb2af9e6ac188e7c165a2b9]: Commencement: S. 80 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

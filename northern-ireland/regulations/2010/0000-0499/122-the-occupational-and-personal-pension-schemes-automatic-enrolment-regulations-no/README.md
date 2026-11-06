@@ -42,7 +42,7 @@ Coming into operation
 
 1st October 2012
 
-The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 107A(15)(b) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 49(8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and sections 2(3), 3(2), (5) and (6), 4(1) and (3), 5(2), (4) and (6) to (8), 6(1)(b) and (2), 7(4) to (6), 8(2)(b) and (3) to (6), 9(3), 10, 15, 16(2) and (3)(c), 18(c), 22(4) to (7), 23(1)(b) and (3), 24(1), 25, 27, 30(6)(c), 33(2), 37(3) and 113(2) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00004].[^key-3f7edc79f558f7104ef2f92602a5e462]
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 107A(15)(b) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 49(8) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and sections 2(3), 3(2), (5) and (6), 4(1) and (3), 5(2), (4) and (6) to (8), 6(1)(b) and (2), 7(4) to (6), 8(2)(b) and (3) to (6), 9(3), 10, 15, 16(2) and (3)(c), 18(c), 22(4) to (7), 23(1)(b) and (3), 24(1), 25, 27, 30(6)(c), 33(2), 37(3) and 113(2) of the Pensions (No. 2) Act (Northern Ireland) 2008[^f00004].[^c-3f7edc79f558f7104ef2f92602a5e462]
 
 ## Contents
 
@@ -56,7 +56,7 @@ The Department for Social Development makes the following Regulations in exercis
 - [Section 4 — Pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c)](part-1/section-4.md)
 - [Section 5 — Pay reference periods for the purposes of sections 20(1)(b) and (c) and 26(4)(b) and (5)(b)](part-1/section-5.md)
 
-### PART 1A — Exemption and exceptions[^key-484ea22351226ca704d54a89a14d862b][^key-b99b20a7d815134dfcf6239f2f908b86]
+### PART 1A — Exemption and exceptions[^c-484ea22351226ca704d54a89a14d862b][^c-b99b20a7d815134dfcf6239f2f908b86]
 
 - [Section 5A — Exemption of European employers](part-1a/section-5a.md)
 - [Section 5B — Notice of termination of employment](part-1a/section-5b.md)
@@ -105,7 +105,7 @@ The Department for Social Development makes the following Regulations in exercis
 - [Section 22 — Form and content of joining notices](part-5/section-22.md)
 - [Section 23 — Arrangements to achieve active membership](part-5/section-23.md)
 
-### PART 6 — Postponement or disapplication of automatic enrolment[^key-b22d8583af63077f7d15b5f9df50aa71]
+### PART 6 — Postponement or disapplication of automatic enrolment[^c-b22d8583af63077f7d15b5f9df50aa71]
 
 *Extent: N.I.*
 
@@ -124,7 +124,7 @@ The Department for Social Development makes the following Regulations in exercis
 - [Section 31](part-7/section-31.md)
 - [Section 32 — Refunds](part-7/section-32.md)
 
-### PART 7A — Certification that a quality or alternative requirement is satisfied[^key-dffb89b4fcb87c9c0f583cb7b572d605]
+### PART 7A — Certification that a quality or alternative requirement is satisfied[^c-dffb89b4fcb87c9c0f583cb7b572d605]
 
 - [Section 32A — Effect of a certificate under section 28](part-7a/section-32a.md)
 - [Section 32B — Giving of a certificate, retention and disclosure](part-7a/section-32b.md)
@@ -139,7 +139,7 @@ The Department for Social Development makes the following Regulations in exercis
 - [Section 32J — Pension schemes based in an EEA state other than the United Kingdom](part-7a/section-32j.md)
 - [Section 32K — Interpretation](part-7a/section-32k.md)
 
-### PART 7B — Alternative quality requirements: UK defined benefits schemes[^key-3e15512fd24477a9e437b673289caee0]
+### PART 7B — Alternative quality requirements: UK defined benefits schemes[^c-3e15512fd24477a9e437b673289caee0]
 
 - [Section 32L — Alternative quality requirements for UK defined benefits schemes](part-7b/section-32l.md)
 - [Section 32M](part-7b/section-32m.md)
@@ -257,14 +257,14 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00004]: Footnote: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-3f7edc79f558f7104ef2f92602a5e462]: Modification: Regulations modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/122/regulation/4)
+[^c-3f7edc79f558f7104ef2f92602a5e462]: Modification: Regulations modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/122/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2015/122/regulation/4)
 
-[^key-484ea22351226ca704d54a89a14d862b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/238)](https://www.legislation.gov.uk/nisr/2012/238), [regs. 1](https://www.legislation.gov.uk/nisr/2012/238/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/238/regulation/2)
+[^c-484ea22351226ca704d54a89a14d862b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/238)](https://www.legislation.gov.uk/nisr/2012/238), [regs. 1](https://www.legislation.gov.uk/nisr/2012/238/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/238/regulation/2)
 
-[^key-b99b20a7d815134dfcf6239f2f908b86]: Textual amendment: Words in [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) heading added (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/310/regulation/4)
+[^c-b99b20a7d815134dfcf6239f2f908b86]: Textual amendment: Words in [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) heading added (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/310/regulation/4)
 
-[^key-b22d8583af63077f7d15b5f9df50aa71]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/nisr/2010/122/part/6) heading inserted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(11)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/11)
+[^c-b22d8583af63077f7d15b5f9df50aa71]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/nisr/2010/122/part/6) heading inserted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(11)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/11)
 
-[^key-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)
+[^c-dffb89b4fcb87c9c0f583cb7b572d605]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/237)](https://www.legislation.gov.uk/nisr/2012/237), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/237/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/nisr/2012/237/regulation/2/3)
 
-[^key-3e15512fd24477a9e437b673289caee0]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/nisr/2010/122/part/7B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/310/regulation/10)
+[^c-3e15512fd24477a9e437b673289caee0]: Textual amendment: [Pt. 7B](https://www.legislation.gov.uk/nisr/2010/122/part/7B) inserted (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [10](https://www.legislation.gov.uk/nisr/2015/310/regulation/10)

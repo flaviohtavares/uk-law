@@ -36,7 +36,7 @@ summary: ''
 
 (5) Any dispute as to whether a planning decision would not have been taken, or an order under section 97 of the 1990 Act[^c9343711] or section 65 of the 1997 Act[^c9343721] would not have been made, but for such a need as is mentioned in subsection (1) shall be referred to and determined by the Secretary of State.
 
-(6) In the preceding provisions of this section “**planning decision**” means a decision made on an application under Part III or, in relation to England, Part 13[^key-62a6ad531449ad8d828ac911c9827f36] of the 1990 Act[^c9343731] or Part III of the 1997 Act[^c9343741]; and references in those provisions to a local planning authority shall be construed—
+(6) In the preceding provisions of this section “**planning decision**” means a decision made on an application under Part III or, in relation to England, Part 13[^c-62a6ad531449ad8d828ac911c9827f36] of the 1990 Act[^c9343731] or Part III of the 1997 Act[^c9343741]; and references in those provisions to a local planning authority shall be construed—
 
 - (a) in relation to England and Wales, as including references to any authority to whom functions of a local planning authority are delegated; and
 - (b) in relation to Scotland, as references to a planning authority.
@@ -65,7 +65,7 @@ summary: ''
 
 [^c9343721]: Textual amendment: Words in s. 61(5) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 39(2)(d)](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/39/2/d)
 
-[^key-62a6ad531449ad8d828ac911c9827f36]: Textual amendment: Words in [s. 61(6)](https://www.legislation.gov.uk/ukpga/1986/31/section/61/6) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2025/418/regulation/12)
+[^c-62a6ad531449ad8d828ac911c9827f36]: Textual amendment: Words in [s. 61(6)](https://www.legislation.gov.uk/ukpga/1986/31/section/61/6) inserted (1.5.2025) by [The Town and Country Planning (Fees and Consequential Amendments) Regulations 2025 (S.I. 2025/418)](https://www.legislation.gov.uk/uksi/2025/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/418/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2025/418/regulation/12)
 
 [^c9343731]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 73(2)(e)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/73/2/e)
 

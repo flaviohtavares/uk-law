@@ -32,8 +32,8 @@ and, for this purpose, a person participates in a transaction by assisting in th
 
 (2) In these Regulations, “**trust or company service provider**” means a firm or sole practitioner who by way of business provides any of the following services to other persons, when that firm or practitioner is providing such services—
 
-- (a)[^key-0cbb4169c989c927ed81dfd77ea1cf94] forming a firm;
-- (ab)[^key-d24ba224d155eb45907946d9ce90d80b] selling an off-the-shelf firm;
+- (a)[^c-0cbb4169c989c927ed81dfd77ea1cf94] forming a firm;
+- (ab)[^c-d24ba224d155eb45907946d9ce90d80b] selling an off-the-shelf firm;
 - (b) acting, or arranging for another person to act—
   - (i) as a director or secretary of a company;
   - (ii) as a partner of a partnership; or
@@ -43,15 +43,15 @@ and, for this purpose, a person participates in a transaction by assisting in th
   - (i) a trustee of an express trust or similar legal arrangement; or
   - (ii) a nominee shareholder for a person other than a company whose securities are listed on a regulated market.
 
-(3)[^key-d4ff5aeeff13f2f0a89d320257731585] In this regulation, an “**off-the-shelf firm**” means a firm that either—
+(3)[^c-d4ff5aeeff13f2f0a89d320257731585] In this regulation, an “**off-the-shelf firm**” means a firm that either—
 
 - (a) does not carry on business; or
 - (b) carries on business but such business is not the main activity carried on by the trust or company service provider.
 
 ## Annotations
 
-[^key-0cbb4169c989c927ed81dfd77ea1cf94]: Textual amendment: [Reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/12/2/a) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [4(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/4/2)
+[^c-0cbb4169c989c927ed81dfd77ea1cf94]: Textual amendment: [Reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/12/2/a) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [4(2)](https://www.legislation.gov.uk/uksi/2022/860/regulation/4/2)
 
-[^key-d24ba224d155eb45907946d9ce90d80b]: Textual amendment: [Reg. 12(2)(ab)](https://www.legislation.gov.uk/uksi/2017/692/regulation/12/2/ab) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/621/regulation/7/a)
+[^c-d24ba224d155eb45907946d9ce90d80b]: Textual amendment: [Reg. 12(2)(ab)](https://www.legislation.gov.uk/uksi/2017/692/regulation/12/2/ab) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/621/regulation/7/a)
 
-[^key-d4ff5aeeff13f2f0a89d320257731585]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2017/692/regulation/12/3) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/621/regulation/7/b)
+[^c-d4ff5aeeff13f2f0a89d320257731585]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2017/692/regulation/12/3) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/621/regulation/7/b)

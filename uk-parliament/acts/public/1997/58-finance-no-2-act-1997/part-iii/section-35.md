@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Transitional relief for charities etc.[^key-f99466a4ad09401e0a282fedba19ad93]
+## 35. Transitional relief for charities etc.[^c-f99466a4ad09401e0a282fedba19ad93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f99466a4ad09401e0a282fedba19ad93]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1997/58/section/35) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 1(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/1/1)
+[^c-f99466a4ad09401e0a282fedba19ad93]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1997/58/section/35) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 1(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/1/1)

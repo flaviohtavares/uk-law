@@ -44,16 +44,16 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 72(4), 99(1) and section 116(1) of the Local Government Finance Act 1992[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-6604f6c80bee12e722ed9275616ccfdd]
+## 1. Citation and commencement[^c-6604f6c80bee12e722ed9275616ccfdd]
 
 These Regulations may be cited as the Council Tax (Dwellings and Part Residential Subjects) (Scotland) Regulations 1992 and shall come into force on 28th December 1992.
 
-## 2. Interpretation[^key-5f41223d5842efdb4dd4bd5fc360ac0a]
+## 2. Interpretation[^c-5f41223d5842efdb4dd4bd5fc360ac0a]
 
 In these Regulations, unless the context otherwise requires—
 
 - “the Act” means the Local Government Finance Act 1992;
-- “[^key-d16403c1f55feb4ed73576575e558486]**assessor**” means an assessor or a depute assessor appointed under section 27(2) of the Local Government etc. (Scotland) Act 1994;
+- “[^c-d16403c1f55feb4ed73576575e558486]**assessor**” means an assessor or a depute assessor appointed under section 27(2) of the Local Government etc. (Scotland) Act 1994;
 - “hostel” has the same meaning as in sub-paragraph (2) of paragraph 8 of Schedule 1 to the Act[^f00002];
 - “nursing home” has the same meaning as in that sub-paragraph;
 - “private hospital” has the same meaning as in that sub-paragraph;
@@ -66,23 +66,23 @@ In these Regulations, unless the context otherwise requires—
 - “school boarding house” means any premises used for the boarding of pupils receiving school education;
 - “school dormitory accommodation” means any accommodation used for sleeping purposes by pupils receiving school education;
 - “student” has the same meaning as in sub-paragraph (2) of paragraph 4 of Schedule 1 to the Act[^f00004];
-- “[^key-2f499d233a3f758c3ee0cd8f83fa4c28]**valuation roll**” means a valuation roll made up under section 1(1) of the Local Government (Scotland) Act 1975;
+- “[^c-2f499d233a3f758c3ee0cd8f83fa4c28]**valuation roll**” means a valuation roll made up under section 1(1) of the Local Government (Scotland) Act 1975;
 - “voluntary organisation” has the same meaning as in section 94(1) of the Social Work (Scotland) Act 1968[^f00005].
 
-## 3. Variation of definition of dwelling[^key-745066a27e2a60f0eb3ee91ae9307c0f]
+## 3. Variation of definition of dwelling[^c-745066a27e2a60f0eb3ee91ae9307c0f]
 
 The definition of dwelling in section 72(2) of the Act is hereby further varied[^f00006] in accordance with regulations 4 and 5 below.
 
-**4.**[^key-f0033fa987fb196b4fd24055b729e5e9] There shall be included as a dwelling any lands and heritages or parts thereof—
+**4.**[^c-f0033fa987fb196b4fd24055b729e5e9] There shall be included as a dwelling any lands and heritages or parts thereof—
 
 - (a) which fall within the classes specified in Schedule 1 to these Regulations; and
 - (b) which would, but for the provisions of section 73(1) of the Act—
   - (i) be entered separately in the valuation roll; or
   - (ii) in the case of parts of lands and heritages, form part of a separate entry in the valuation roll.
 
-**5.**[^key-ae24fc11b854edd52cb0d5742006d10b] There shall be excluded from the definition of dwelling any lands and heritages or parts thereof which fall within the classes specified in Schedule 2 to these Regulations.
+**5.**[^c-ae24fc11b854edd52cb0d5742006d10b] There shall be excluded from the definition of dwelling any lands and heritages or parts thereof which fall within the classes specified in Schedule 2 to these Regulations.
 
-## 5A. Self-catering holiday accommodation – provision of evidence[^key-8f665170dc2cd341bec05c8926f0dafb]
+## 5A. Self-catering holiday accommodation – provision of evidence[^c-8f665170dc2cd341bec05c8926f0dafb]
 
 (1) Evidence of letting or intention to let in accordance with paragraph (2)(b) of schedule 2 may be supplied to the assessor in whose area the lands and heritages are situated—
 
@@ -103,7 +103,7 @@ The definition of dwelling in section 72(2) of the Act is hereby further varied[
 
 (6) This regulation does not apply to requests for evidence or the submission of evidence, on or after 1 April 2026, of letting or intention to let in relation to the financial year 2024-2025.
 
-## 5AA. Self-catering holiday accommodation: provision of evidence in relation to the financial year 2023-2024[^key-f17f0078ceec4b8503d0830e00150b96][^key-e8200020c1ad6738661dd3f99c83d08b]
+## 5AA. Self-catering holiday accommodation: provision of evidence in relation to the financial year 2023-2024[^c-f17f0078ceec4b8503d0830e00150b96][^c-e8200020c1ad6738661dd3f99c83d08b]
 
 (1) This regulation applies only in relation to the provision of evidence regarding the financial year 2023-2024.
 
@@ -135,7 +135,7 @@ The definition of dwelling in section 72(2) of the Act is hereby further varied[
 - (d) evidence has been requested under paragraph (7) but has not been timeously submitted in accordance with paragraph (9), or
 - (e) further evidence has been timeously submitted in accordance with paragraph (9) but the assessor reasonably takes the view that all of the evidence supplied in relation to the lands and heritages is insufficient to confirm that either or both of the requirements in paragraph 2(b) of schedule 2 are met.
 
-## 5AB. Self-catering holiday accommodation: provision of evidence in relation to the financial year 2024-2025[^key-d28189ca728c62dfb07cd365d8ae26a3]
+## 5AB. Self-catering holiday accommodation: provision of evidence in relation to the financial year 2024-2025[^c-d28189ca728c62dfb07cd365d8ae26a3]
 
 (1) This regulation applies only in relation to the provision of evidence regarding the financial year 2024-2025.
 
@@ -176,7 +176,7 @@ The definition of dwelling in section 72(2) of the Act is hereby further varied[
 
 (2) Where lands and heritages are determined in accordance with paragraph (1) to fall into the class of self-catering holiday accommodation, the relevant local authority must inform the assessor for its area of that determination.
 
-(3)[^key-d9b23dae573a1800f1549d38624910fd] Where the assessor is informed of a determination made under paragraph (1), the assessor must treat the lands and heritages as falling within the class of self-catering holiday accommodation specified in paragraph 2 of schedule 2 for the financial year in relation to which the determination is made.
+(3)[^c-d9b23dae573a1800f1549d38624910fd] Where the assessor is informed of a determination made under paragraph (1), the assessor must treat the lands and heritages as falling within the class of self-catering holiday accommodation specified in paragraph 2 of schedule 2 for the financial year in relation to which the determination is made.
 
 (4) Intimation given to the assessor in accordance with paragraph (2) must state the financial year in relation to which the determination is made.
 
@@ -186,10 +186,10 @@ Any lands and heritages which were on the valuation roll at the end of a financi
 
 ## 5D. Self-catering holiday accommodation: entries in and deletions from the valuation roll
 
-(1) Where lands and heritages cease to be a dwelling because they are considered to be self-catering holiday accommodation, or where the assessor is informed of a determination made under regulation 5B,[^key-937e37aa7bc89a40f84098aeb6bcd6b1] the entry in the valuation roll has effect from whichever is the later of—
+(1) Where lands and heritages cease to be a dwelling because they are considered to be self-catering holiday accommodation, or where the assessor is informed of a determination made under regulation 5B,[^c-937e37aa7bc89a40f84098aeb6bcd6b1] the entry in the valuation roll has effect from whichever is the later of—
 
 - (a) the date on which the lands and heritages were first let, or
-- (b) 1 April in the financial year in which they are considered to have become self-catering holiday accommodation[^key-f69f19e9a799d5c1e725f5eaf58117b1].
+- (b) 1 April in the financial year in which they are considered to have become self-catering holiday accommodation[^c-f69f19e9a799d5c1e725f5eaf58117b1].
 
 (2) Where lands and heritages become a dwelling because they are considered not to be self-catering holiday accommodation, the deletion of the entry has effect as follows, according to whichever requirement is first not met—
 
@@ -197,9 +197,9 @@ Any lands and heritages which were on the valuation roll at the end of a financi
 - (b) where lands and heritages become a dwelling because the requirement in paragraph 2(b)(i) of schedule 2 is not met, from the date on which the requirement in paragraph 2(b)(i) ceases to be met,
 - (c) where lands and heritages become a dwelling because the requirement in paragraph 2(b)(ii) of schedule 2 is not met, from 1 April in the financial year in which the requirement in paragraph 2(b)(ii) has not been met.
 
-(3)[^key-161daf7b77eebb3c07eceeeac8220391] Where, in accordance with regulation 5A(4), the assessor treats the lands and heritages as not being self-catering holiday accommodation, the deletion of the entry has effect from 1 April in the financial year in relation to which evidence has not been provided or has been considered to be insufficient.
+(3)[^c-161daf7b77eebb3c07eceeeac8220391] Where, in accordance with regulation 5A(4), the assessor treats the lands and heritages as not being self-catering holiday accommodation, the deletion of the entry has effect from 1 April in the financial year in relation to which evidence has not been provided or has been considered to be insufficient.
 
-## 6. Definition of part residential subjects—exceptions[^key-98dedba598e63ce6531491261ff8bfc8]
+## 6. Definition of part residential subjects—exceptions[^c-98dedba598e63ce6531491261ff8bfc8]
 
 The classes of lands and heritages which are prescribed for the purposes of paragraph (b) of the definition of part residential subjects in section 99(1) of the Act (lands and heritages excluded from that definition) are—
 
@@ -212,7 +212,7 @@ The classes of lands and heritages which are prescribed for the purposes of para
 
   which is not used wholly or mainly as the sole or main residence of a person employed there.
 
-## 7. Amendment of the Council Tax (Dwellings) (Scotland) Regulations 1992[^key-28f6afbd90c7327a78e9476024e584bc]
+## 7. Amendment of the Council Tax (Dwellings) (Scotland) Regulations 1992[^c-28f6afbd90c7327a78e9476024e584bc]
 
 The Council Tax (Dwellings) (Scotland) Regulations 1992[^f00007] are hereby amended—
 
@@ -237,7 +237,7 @@ Edinburgh
 
 Regulation 4
 
-### 1. Bed and breakfast accommodation[^key-9e5e7154ca125f196b72065cdffd503d]
+### 1. Bed and breakfast accommodation[^c-9e5e7154ca125f196b72065cdffd503d]
 
 Any lands and heritages—
 
@@ -246,14 +246,14 @@ Any lands and heritages—
 - (c) which are not made available for letting over the limit specified in sub-paragraph (b) above; and
 - (d) which would, but for being available for letting as referred to in sub-paragraph (b) above, be such lands and heritages as are described in sub-paragraph (i) of section 72(2)(a) of the Act.
 
-### 2. Student halls[^key-55f55a6fb468589aeeaa7b4c34263366]
+### 2. Student halls[^c-55f55a6fb468589aeeaa7b4c34263366]
 
 Any lands and heritages—
 
 - (a) which are used (or, if not in use, were last used) predominantly as residential accommodation by students; and
 - (b) in which there are facilities which are available for sharing by some or all of the students.
 
-### 3. Barracks[^key-112813444983820130e7ffb45bae7088]
+### 3. Barracks[^c-112813444983820130e7ffb45bae7088]
 
 Any lands and heritages—
 
@@ -261,7 +261,7 @@ Any lands and heritages—
 - (b) which are held for the purposes of armed forces accommodation; and
 - (c) which are the sole or main residence of at least one member of the armed forces or, if unoccupied, are likely to be the sole or main residence of such a person when next occupied.
 
-### 4. Communal residential establishments[^key-a617268394aad66a05158b1c85342053]
+### 4. Communal residential establishments[^c-a617268394aad66a05158b1c85342053]
 
 Any lands and heritages which are used (or, if not in use, were last used) wholly as the sole or main residence of persons who reside there and in which there are facilities available for sharing by some or all of those persons, other than any part of—
 
@@ -272,7 +272,7 @@ Any lands and heritages which are used (or, if not in use, were last used) wholl
 
 which is not used wholly or mainly as the sole or main residence of a person employed there.
 
-### 5. School boarding accommodation[^key-02d2944b4afb71fe75249aa92ce3482d]
+### 5. School boarding accommodation[^c-02d2944b4afb71fe75249aa92ce3482d]
 
 Any lands and heritages which are used wholly or mainly as—
 
@@ -285,7 +285,7 @@ including any kitchen, dining room or other premises which are integrated with a
 
 Regulation 5
 
-### 1. Huts, sheds and bothies[^key-8dc65eaa3bd35ceac18ec2db78f1067b]
+### 1. Huts, sheds and bothies[^c-8dc65eaa3bd35ceac18ec2db78f1067b]
 
 Any lands and heritages—
 
@@ -295,16 +295,16 @@ Any lands and heritages—
   - (i) in accordance with any licence or planning permission regulating the use of their sites, or for any other reason, are not allowed to be used for human habitation throughout the whole year; or
   - (ii) by reason of their construction or the facilities which they do, or do not, provide, are unfit so to be used.
 
-### 2. Self-catering holiday accommodation[^key-775136fafe99a35bbc99cdda2b63d004]
+### 2. Self-catering holiday accommodation[^c-775136fafe99a35bbc99cdda2b63d004]
 
 Any lands and heritages—
 
 - (a) which are not the sole or main residence of any person; and
-- (b)[^key-3cbd5006f7b858a71da0378e9c02f40e] which—
-  - (i) are intended by a relevant person to be made available for letting, on a commercial basis and with a view to the making of profit, as self-catering accommodation for short periods amounting in the aggregate to 140 nights[^key-b6c318309930b4eddc7533c8b3d733df] or more in the financial year, where the interest of the relevant person in the lands and heritages enables them to be let for such periods, and
+- (b)[^c-3cbd5006f7b858a71da0378e9c02f40e] which—
+  - (i) are intended by a relevant person to be made available for letting, on a commercial basis and with a view to the making of profit, as self-catering accommodation for short periods amounting in the aggregate to 140 nights[^c-b6c318309930b4eddc7533c8b3d733df] or more in the financial year, where the interest of the relevant person in the lands and heritages enables them to be let for such periods, and
   - (ii) have in practice been so let in the financial year for a total of 70 nights or more of the period of 140 nights described in head (i).
 
-### 3. Women’s refuges[^key-2429613dd51862a9ef348adadf4fe077]
+### 3. Women’s refuges[^c-2429613dd51862a9ef348adadf4fe077]
 
 Any lands and heritages managed by a voluntary organisation for the temporary accommodation of persons who have left their homes as a result of—
 
@@ -325,11 +325,11 @@ In addition, the Regulations prescribe certain categories of premises which will
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); section 99(1) contains in paragraph (b) of the definition of “part residential subjects” a power of prescription; section 116(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made.
 
-[^key-6604f6c80bee12e722ed9275616ccfdd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-6604f6c80bee12e722ed9275616ccfdd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-5f41223d5842efdb4dd4bd5fc360ac0a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/2955/regulation/2) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-5f41223d5842efdb4dd4bd5fc360ac0a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1992/2955/regulation/2) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-d16403c1f55feb4ed73576575e558486]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/2955/regulation/2) inserted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/2/a)
+[^c-d16403c1f55feb4ed73576575e558486]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/2955/regulation/2) inserted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/2/a)
 
 [^f00002]: Footnote: *See* the definition of “hostel” at article 10 of S.I. [1992/1408](https://www.legislation.gov.uk/uksi/1992/1408).
 
@@ -337,58 +337,58 @@ In addition, the Regulations prescribe certain categories of premises which will
 
 [^f00004]: Footnote: *See* the definition of “student” at article 6 of S.I. [1992/1408](https://www.legislation.gov.uk/uksi/1992/1408).
 
-[^key-2f499d233a3f758c3ee0cd8f83fa4c28]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/2955/regulation/2) inserted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/2/b)
+[^c-2f499d233a3f758c3ee0cd8f83fa4c28]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1992/2955/regulation/2) inserted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/2/b)
 
 [^f00005]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-745066a27e2a60f0eb3ee91ae9307c0f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2955/regulation/3) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-745066a27e2a60f0eb3ee91ae9307c0f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1992/2955/regulation/3) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
 [^f00006]: Footnote: The definition of dwelling was previously varied by S.I. [1992/1334](https://www.legislation.gov.uk/uksi/1992/1334).
 
-[^key-f0033fa987fb196b4fd24055b729e5e9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/2955/regulation/4) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-f0033fa987fb196b4fd24055b729e5e9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1992/2955/regulation/4) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-ae24fc11b854edd52cb0d5742006d10b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-ae24fc11b854edd52cb0d5742006d10b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-8f665170dc2cd341bec05c8926f0dafb]: Textual amendment: Reg. 5A substituted (1.4.2026) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/72)](https://www.legislation.gov.uk/ssi/2026/72), [regs. 1](https://www.legislation.gov.uk/ssi/2026/72/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/72/regulation/2/2)
+[^c-8f665170dc2cd341bec05c8926f0dafb]: Textual amendment: Reg. 5A substituted (1.4.2026) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/72)](https://www.legislation.gov.uk/ssi/2026/72), [regs. 1](https://www.legislation.gov.uk/ssi/2026/72/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/72/regulation/2/2)
 
-[^key-f17f0078ceec4b8503d0830e00150b96]: Textual amendment: [Reg. 5AA](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5AA) inserted (4.11.2025) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/249)](https://www.legislation.gov.uk/ssi/2025/249), [regs. 1](https://www.legislation.gov.uk/ssi/2025/249/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/249/regulation/2/3)
+[^c-f17f0078ceec4b8503d0830e00150b96]: Textual amendment: [Reg. 5AA](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5AA) inserted (4.11.2025) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/249)](https://www.legislation.gov.uk/ssi/2025/249), [regs. 1](https://www.legislation.gov.uk/ssi/2025/249/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/249/regulation/2/3)
 
-[^key-e8200020c1ad6738661dd3f99c83d08b]: Textual amendment: Regs. 5A-5D inserted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/3)
+[^c-e8200020c1ad6738661dd3f99c83d08b]: Textual amendment: Regs. 5A-5D inserted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/3)
 
-[^key-d28189ca728c62dfb07cd365d8ae26a3]: Textual amendment: [Reg. 5AB](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5AB) inserted (1.4.2026) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/72)](https://www.legislation.gov.uk/ssi/2026/72), [regs. 1](https://www.legislation.gov.uk/ssi/2026/72/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/72/regulation/2/3)
+[^c-d28189ca728c62dfb07cd365d8ae26a3]: Textual amendment: [Reg. 5AB](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5AB) inserted (1.4.2026) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/72)](https://www.legislation.gov.uk/ssi/2026/72), [regs. 1](https://www.legislation.gov.uk/ssi/2026/72/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2026/72/regulation/2/3)
 
-[^key-d9b23dae573a1800f1549d38624910fd]: Textual amendment: [Reg. 5B(3)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5B/3)[(4)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5B/4) inserted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/3)
+[^c-d9b23dae573a1800f1549d38624910fd]: Textual amendment: [Reg. 5B(3)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5B/3)[(4)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5B/4) inserted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/3)
 
-[^key-937e37aa7bc89a40f84098aeb6bcd6b1]: Textual amendment: Words in [reg. 5D(1)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5D/1) inserted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/4/a/i)
+[^c-937e37aa7bc89a40f84098aeb6bcd6b1]: Textual amendment: Words in [reg. 5D(1)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5D/1) inserted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/4/a/i)
 
-[^key-f69f19e9a799d5c1e725f5eaf58117b1]: Textual amendment: Words in [reg. 5D(1)(b)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5D/1/b) substituted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/4/a/ii)
+[^c-f69f19e9a799d5c1e725f5eaf58117b1]: Textual amendment: Words in [reg. 5D(1)(b)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5D/1/b) substituted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/4/a/ii)
 
-[^key-161daf7b77eebb3c07eceeeac8220391]: Textual amendment: [Reg. 5D(3)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5D/3) inserted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/4/b)
+[^c-161daf7b77eebb3c07eceeeac8220391]: Textual amendment: [Reg. 5D(3)](https://www.legislation.gov.uk/uksi/1992/2955/regulation/5D/3) inserted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/4/b)
 
-[^key-98dedba598e63ce6531491261ff8bfc8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/2955/regulation/6) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-98dedba598e63ce6531491261ff8bfc8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1992/2955/regulation/6) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-28f6afbd90c7327a78e9476024e584bc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2955/regulation/7) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-28f6afbd90c7327a78e9476024e584bc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/2955/regulation/7) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
 [^f00007]: Footnote: S.I. [1992/1334](https://www.legislation.gov.uk/uksi/1992/1334).
 
 [^f00008]: Footnote: [1971 c. 10](https://www.legislation.gov.uk/ukpga/1971/10).
 
-[^key-9e5e7154ca125f196b72065cdffd503d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/1) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-9e5e7154ca125f196b72065cdffd503d]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/1) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-55f55a6fb468589aeeaa7b4c34263366]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/2) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-55f55a6fb468589aeeaa7b4c34263366]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/2) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-112813444983820130e7ffb45bae7088]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/3) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-112813444983820130e7ffb45bae7088]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/3) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-a617268394aad66a05158b1c85342053]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/4) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-a617268394aad66a05158b1c85342053]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/4) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-02d2944b4afb71fe75249aa92ce3482d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/5) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-02d2944b4afb71fe75249aa92ce3482d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1992/2955/schedule/1/paragraph/5) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-8dc65eaa3bd35ceac18ec2db78f1067b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/1) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-8dc65eaa3bd35ceac18ec2db78f1067b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/1) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-775136fafe99a35bbc99cdda2b63d004]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/2) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-775136fafe99a35bbc99cdda2b63d004]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/2) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
 
-[^key-3cbd5006f7b858a71da0378e9c02f40e]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/2/b) substituted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/4)
+[^c-3cbd5006f7b858a71da0378e9c02f40e]: Textual amendment: [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/2/b) substituted (1.4.2022) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/489)](https://www.legislation.gov.uk/ssi/2021/489), [regs. 1](https://www.legislation.gov.uk/ssi/2021/489/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/489/regulation/2/4)
 
-[^key-b6c318309930b4eddc7533c8b3d733df]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/2) substituted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/5)
+[^c-b6c318309930b4eddc7533c8b3d733df]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/2) substituted (1.4.2024) by [The Council Tax (Dwellings and Part Residential Subjects) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/10)](https://www.legislation.gov.uk/ssi/2024/10), [regs. 1](https://www.legislation.gov.uk/ssi/2024/10/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/10/regulation/2/5)
 
-[^key-2429613dd51862a9ef348adadf4fe077]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/3) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)
+[^c-2429613dd51862a9ef348adadf4fe077]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1992/2955/schedule/2/paragraph/3) in force at 28.12.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/2955/regulation/1)

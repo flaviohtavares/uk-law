@@ -22,12 +22,12 @@ summary: ''
 
 (1) Ofqual must maintain and publish a register containing the following information in relation to each recognised body—
 
-- (a)[^key-71b1f2ec8fe02ac04243c4ade8ed030b] the qualifications in respect of which it is recognised,
-- (b)[^key-71b1f2ec8fe02ac04243c4ade8ed030b] the forms of those qualifications which are awarded or authenticated by it, and
+- (a)[^c-71b1f2ec8fe02ac04243c4ade8ed030b] the qualifications in respect of which it is recognised,
+- (b)[^c-71b1f2ec8fe02ac04243c4ade8ed030b] the forms of those qualifications which are awarded or authenticated by it, and
 - (c) if the recognised body has determined under section 145 that any of those qualifications is relevant for 2008 Act purposes, the number of hours of guided learning it has assigned to each form of the qualification awarded or authenticated by it.
 
-(2)[^key-71b1f2ec8fe02ac04243c4ade8ed030b] The register may include such other information as Ofqual considers appropriate.
+(2)[^c-71b1f2ec8fe02ac04243c4ade8ed030b] The register may include such other information as Ofqual considers appropriate.
 
 ## Annotations
 
-[^key-71b1f2ec8fe02ac04243c4ade8ed030b]: Commencement: S. 148(1)(a)(b)(2) in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-71b1f2ec8fe02ac04243c4ade8ed030b]: Commencement: S. 148(1)(a)(b)(2) in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

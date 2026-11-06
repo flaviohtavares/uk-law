@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Special provisions for particular foods etc.[^key-3c2d9de01e3a3db224ee6364c79eda8a]
+## 18. Special provisions for particular foods etc.[^c-3c2d9de01e3a3db224ee6364c79eda8a]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ and in this subsection “**artificial technique**” does not include any techn
 
 ## Annotations
 
-[^key-3c2d9de01e3a3db224ee6364c79eda8a]: Modification: S. 18 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-3c2d9de01e3a3db224ee6364c79eda8a]: Modification: S. 18 transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
 [^c10203531]: Textual amendment: Words in s. 18(1) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/8) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 

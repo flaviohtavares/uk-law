@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Information about effective duration of lease[^key-268e33ac6d9dfe7fceb22fa6cd191383]
+## 245. Information about effective duration of lease[^c-268e33ac6d9dfe7fceb22fa6cd191383]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-268e33ac6d9dfe7fceb22fa6cd191383]: Textual amendment: S. 245 omitted (13.8.2009) by virtue of [Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/57)
+[^c-268e33ac6d9dfe7fceb22fa6cd191383]: Textual amendment: S. 245 omitted (13.8.2009) by virtue of [Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/57)

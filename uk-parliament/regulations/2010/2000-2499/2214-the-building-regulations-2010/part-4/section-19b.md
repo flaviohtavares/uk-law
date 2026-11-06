@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19B. Regulator’s notices: content of notices[^key-ff1846bb554b2575257022f50443168e]
+## 19B. Regulator’s notices: content of notices[^c-ff1846bb554b2575257022f50443168e]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ A regulator’s notice must be in writing and must include—
 
 ## Annotations
 
-[^key-ff1846bb554b2575257022f50443168e]: Textual amendment: [Regs. 19A-19F](https://www.legislation.gov.uk/uksi/2010/2214/regulation/19A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/911/regulation/11) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-ff1846bb554b2575257022f50443168e]: Textual amendment: [Regs. 19A-19F](https://www.legislation.gov.uk/uksi/2010/2214/regulation/19A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/911/regulation/11) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))

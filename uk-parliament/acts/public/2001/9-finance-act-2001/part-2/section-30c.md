@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30C. Special tax credit: applicable rate of interest[^key-6aad067b658fc5960695e57597eee3cf]
+## 30C. Special tax credit: applicable rate of interest[^c-6aad067b658fc5960695e57597eee3cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aad067b658fc5960695e57597eee3cf]: Textual amendment: [Ss. 30B-30D](https://www.legislation.gov.uk/ukpga/2001/9/section/30B) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/2)
+[^c-6aad067b658fc5960695e57597eee3cf]: Textual amendment: [Ss. 30B-30D](https://www.legislation.gov.uk/ukpga/2001/9/section/30B) inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/2)

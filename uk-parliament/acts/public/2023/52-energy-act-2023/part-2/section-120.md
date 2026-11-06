@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Duty of OGA to give sanction warning notices[^key-a9bf7e3e9024d40f50c429730e0f1801]
+## 120. Duty of OGA to give sanction warning notices[^c-a9bf7e3e9024d40f50c429730e0f1801]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9bf7e3e9024d40f50c429730e0f1801]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2023/52/section/120) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-a9bf7e3e9024d40f50c429730e0f1801]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2023/52/section/120) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

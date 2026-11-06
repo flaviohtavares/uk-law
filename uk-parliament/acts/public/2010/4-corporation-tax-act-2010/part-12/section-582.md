@@ -33,7 +33,7 @@ summary: ''
 (3) A direction under subsection (2)(a) may in particular—
 
 - (a) alter the time at which the group or company is to be taken to cease to be a UK REIT in accordance with section 572 or 578;
-- (b) disapply or alter the effect of section 534(1) or (2), 535(1) or 535A[^key-7e3f0559396ae23d03d230fc0f521541].
+- (b) disapply or alter the effect of section 534(1) or (2), 535(1) or 535A[^c-7e3f0559396ae23d03d230fc0f521541].
 
 (4) A direction under subsection (2)(b) may in particular prevent all or a specified part of a loss, deficit or expense from being set off or otherwise used at all or in a specified manner.
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e3f0559396ae23d03d230fc0f521541]: Textual amendment: Words in s. 582(3)(b) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 119](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/119)
+[^c-7e3f0559396ae23d03d230fc0f521541]: Textual amendment: Words in s. 582(3)(b) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 119](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/119)

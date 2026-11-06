@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Whole life orders for young adult offenders in exceptional cases[^key-dcac47bae9eaa7dee9265193b7977f61]
+## 126. Whole life orders for young adult offenders in exceptional cases[^c-dcac47bae9eaa7dee9265193b7977f61]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcac47bae9eaa7dee9265193b7977f61]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/32/section/126) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-dcac47bae9eaa7dee9265193b7977f61]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/32/section/126) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)

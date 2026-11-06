@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Non-executive members[^key-c278cc8234d47a11876381859d9ab745]
+## 4. Non-executive members[^c-c278cc8234d47a11876381859d9ab745]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) The person appointing a non-executive member may dismiss him by notice in writing on the grounds that—
 
 - (a) the member has been absent from meetings of the Board without permission of the Board for a period of more than three months,
-- (b) the member is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986[^key-526ef0b32d7b7ba7012767231bb198fa],
+- (b) the member is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order, or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB of the Insolvency Act 1986[^c-526ef0b32d7b7ba7012767231bb198fa],
 - (c) the member has had his estate sequestrated in Scotland or, under Scots law, has made a composition or arrangement with, or granted a trust deed for, his creditors,
 - (d) the member is unfit for office by reason of misconduct,
 - (e) the member has failed to comply with the terms of his appointment, or
@@ -49,6 +49,6 @@ the Board may pay him compensation of an amount approved by the Minister for the
 
 ## Annotations
 
-[^key-c278cc8234d47a11876381859d9ab745]: Commencement: S. 4 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/a)
+[^c-c278cc8234d47a11876381859d9ab745]: Commencement: S. 4 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/a)
 
-[^key-526ef0b32d7b7ba7012767231bb198fa]: Textual amendment: Words in [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/4/4/b) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/60) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))
+[^c-526ef0b32d7b7ba7012767231bb198fa]: Textual amendment: Words in [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/4/4/b) substituted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/60) (with [arts. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5), [6](https://www.legislation.gov.uk/uksi/2012/2404/article/6))

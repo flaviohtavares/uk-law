@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 247. False representation of status for purpose of inspecting documents[^key-6759dbaa1d0738c23d1b7f9d8286618e]
+## 247. False representation of status for purpose of inspecting documents[^c-6759dbaa1d0738c23d1b7f9d8286618e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6759dbaa1d0738c23d1b7f9d8286618e]: Commencement: Rule 247 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6759dbaa1d0738c23d1b7f9d8286618e]: Commencement: Rule 247 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

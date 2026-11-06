@@ -33,18 +33,18 @@ of 24 January 2005
 
 on the definition of the economic territory of Member States for the purposes of Council Regulation (EC, Euratom) No 1287/2003 on the harmonisation of gross national income at market prices (revoked)
 
-[^key-c8810c7dc7ba5b7527733c821f454ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8810c7dc7ba5b7527733c821f454ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c8810c7dc7ba5b7527733c821f454ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c8810c7dc7ba5b7527733c821f454ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c8810c7dc7ba5b7527733c821f454ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c8810c7dc7ba5b7527733c821f454ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8810c7dc7ba5b7527733c821f454ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8810c7dc7ba5b7527733c821f454ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c8810c7dc7ba5b7527733c821f454ad4]
+## ANNEX[^c-c8810c7dc7ba5b7527733c821f454ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8810c7dc7ba5b7527733c821f454ad4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/58); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8810c7dc7ba5b7527733c821f454ad4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 58](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/58); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

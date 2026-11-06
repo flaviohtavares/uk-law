@@ -69,7 +69,7 @@ HAS ADOPTED THIS REGULATION:
 
 It shall apply from 1 March 2007.
 
-[^key-af3238f5cf2cfd88d0dcee9b53a0db22]...
+[^c-af3238f5cf2cfd88d0dcee9b53a0db22]...
 
 Done at Brussels, 19 December 2006.
 
@@ -117,7 +117,7 @@ A.3.1
 
 Personnel
 
-Sampling shall be performed by an authorised person [^key-702a7634837bf7f5f931fb0c788eb035]....
+Sampling shall be performed by an authorised person [^c-702a7634837bf7f5f931fb0c788eb035]....
 
 A.3.2
 
@@ -152,7 +152,7 @@ A.3.6
 
 Replicate samples
 
-The replicate samples for enforcement, defence and reference purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^key-b6ac232e29d0eff85988cd6bcacea50a] as regards the rights of the food business operator.
+The replicate samples for enforcement, defence and reference purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^c-b6ac232e29d0eff85988cd6bcacea50a] as regards the rights of the food business operator.
 
 A.3.7
 
@@ -168,7 +168,7 @@ A.3.8
 
 Sealing and labelling of samples
 
-Each sample taken for official use shall be sealed at the place of sampling and identified following the rules applicable in each constituent territory of Great Britain[^key-cfcb9ef8e6e159254b2217aab551d70c].
+Each sample taken for official use shall be sealed at the place of sampling and identified following the rules applicable in each constituent territory of Great Britain[^c-cfcb9ef8e6e159254b2217aab551d70c].
 
 A record shall be kept of each sampling, permitting each lot to be identified unambiguously and the sampling officer shall record the variety, grower, production method, date, place of sampling, food business operator responsible for consignment, and any other relevant information likely to be of assistance to the analyst.
 
@@ -373,13 +373,13 @@ Laboratory must comply with the provisions of Article 12 of Regulation (EC) No 8
 
 [^f00002]: Footnote: See page 5 of this Official Journal.
 
-[^key-af3238f5cf2cfd88d0dcee9b53a0db22]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1882/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/639/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af3238f5cf2cfd88d0dcee9b53a0db22]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1882/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/639/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-702a7634837bf7f5f931fb0c788eb035]: Textual amendment: Words in Annex para. A.3.1 omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/27/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-702a7634837bf7f5f931fb0c788eb035]: Textual amendment: Words in Annex para. A.3.1 omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/27/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b6ac232e29d0eff85988cd6bcacea50a]: Textual amendment: Words in Annex para. A.3.6 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/27/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6ac232e29d0eff85988cd6bcacea50a]: Textual amendment: Words in Annex para. A.3.6 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [27(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/27/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cfcb9ef8e6e159254b2217aab551d70c]: Textual amendment: Words in Annex para. A.3.8 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [27(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/27/c) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfcb9ef8e6e159254b2217aab551d70c]: Textual amendment: Words in Annex para. A.3.8 substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [27(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/27/c) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: The marketable size for lettuces, curled leaved and broad leaved endives is provided for in Commission Regulation (EC) No 1543/2001 of 27 July 2001 laying down the marketing standard for lettuces and curled leaved and broad-leaved endives ([OJ L 203, 28.7.2001, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.203.01.0009.01.ENG)), as last amended by Commission Regulation (EC) No 6/2005 of 4 January 2005 ([OJ L 2, 5.1.2005, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.002.01.0003.01.ENG)).
 

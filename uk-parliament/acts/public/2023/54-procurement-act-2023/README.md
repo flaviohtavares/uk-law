@@ -34,7 +34,7 @@ An Act to make provision about procurement.
 
 \[26th October 2023\]
 
-Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0666551d9c5d6db1942bb5e51e9c3227][^key-aa79f963683d65ce3634735f4a2111dd]
+Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-0666551d9c5d6db1942bb5e51e9c3227][^c-aa79f963683d65ce3634735f4a2111dd]
 
 ## Contents
 
@@ -237,7 +237,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - [Section 82 — Conflicts of interest: duty to mitigate](part-5/section-82.md)
 - [Section 83 — Conflicts assessments](part-5/section-83.md)
 
-### Part 5A — Outsourcing: protection of workers[^key-8f0cd20fd1e65d18dfb4381a150f7a6a]
+### Part 5A — Outsourcing: protection of workers[^c-8f0cd20fd1e65d18dfb4381a150f7a6a]
 
 - [Section 83A — Application of this Part](part-5a/section-83a.md)
 - [Section 83B — Relevant outsourcing contracts](part-5a/section-83b.md)
@@ -352,8 +352,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-0666551d9c5d6db1942bb5e51e9c3227]: Modification: Act excluded (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2024/692/regulation/43); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-0666551d9c5d6db1942bb5e51e9c3227]: Modification: Act excluded (24.2.2025) by [The Procurement Regulations 2024 (S.I. 2024/692)](https://www.legislation.gov.uk/uksi/2024/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/692/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2024/692/regulation/43); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-aa79f963683d65ce3634735f4a2111dd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2023/54) excluded (24.2.2025) by [The Health Services (Provider Selection Regime) (Wales) Regulations 2025 (S.I. 2025/99)](https://www.legislation.gov.uk/wsi/2025/99), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2025/99/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2025/99/regulation/34) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/99/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2025/99/regulation/3), [33](https://www.legislation.gov.uk/wsi/2025/99/regulation/33))
+[^c-aa79f963683d65ce3634735f4a2111dd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2023/54) excluded (24.2.2025) by [The Health Services (Provider Selection Regime) (Wales) Regulations 2025 (S.I. 2025/99)](https://www.legislation.gov.uk/wsi/2025/99), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2025/99/regulation/1/1), [34](https://www.legislation.gov.uk/wsi/2025/99/regulation/34) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/99/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2025/99/regulation/3), [33](https://www.legislation.gov.uk/wsi/2025/99/regulation/33))
 
-[^key-8f0cd20fd1e65d18dfb4381a150f7a6a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2023/54/part/5A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-8f0cd20fd1e65d18dfb4381a150f7a6a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2023/54/part/5A) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)

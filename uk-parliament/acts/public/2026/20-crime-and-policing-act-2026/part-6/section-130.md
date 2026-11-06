@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Stalking protection orders: Northern Ireland[^key-ca3e3b3484f016def80574f4fe6f8a64]
+## 130. Stalking protection orders: Northern Ireland[^c-ca3e3b3484f016def80574f4fe6f8a64]
 
 *Extent: N.I.*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3e3b3484f016def80574f4fe6f8a64]: Commencement: S. 130 not in force at Royal Assent, see [s. 255(8)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/j)
+[^c-ca3e3b3484f016def80574f4fe6f8a64]: Commencement: S. 130 not in force at Royal Assent, see [s. 255(8)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/j)

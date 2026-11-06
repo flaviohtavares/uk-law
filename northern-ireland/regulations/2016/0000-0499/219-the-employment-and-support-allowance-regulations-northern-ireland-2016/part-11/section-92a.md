@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges evacuation of British nationals from that country or territory[^key-f9381f4b9a6fa65fcc65c4c9f3c65390]
+## 92A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges evacuation of British nationals from that country or territory[^c-f9381f4b9a6fa65fcc65c4c9f3c65390]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ A claimant is to continue to be entitled to an employment and support allowance 
 
 ## Annotations
 
-[^key-f9381f4b9a6fa65fcc65c4c9f3c65390]: Textual amendment: [Reg. 92A](https://www.legislation.gov.uk/nisr/2016/219/regulation/92A) inserted (19.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/136)](https://www.legislation.gov.uk/nisr/2025/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2025/136/regulation/12/3)
+[^c-f9381f4b9a6fa65fcc65c4c9f3c65390]: Textual amendment: [Reg. 92A](https://www.legislation.gov.uk/nisr/2016/219/regulation/92A) inserted (19.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/136)](https://www.legislation.gov.uk/nisr/2025/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/136/regulation/1/1), [12(3)](https://www.legislation.gov.uk/nisr/2025/136/regulation/12/3)

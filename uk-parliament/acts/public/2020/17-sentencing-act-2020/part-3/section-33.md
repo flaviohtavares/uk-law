@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Appeals: requirements relating to pre-sentence reports[^key-9beb098bae5b53e3bdd2bef0f0cac343]
+## 33. Appeals: requirements relating to pre-sentence reports[^c-9beb098bae5b53e3bdd2bef0f0cac343]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9beb098bae5b53e3bdd2bef0f0cac343]: Commencement: S. 33 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9beb098bae5b53e3bdd2bef0f0cac343]: Commencement: S. 33 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Protection from actions of defamation[^key-68a59d626662020249aa097bd80ecbf3][^key-3160649b5d678c12c8f5be83cfaec523]
+## 50. Protection from actions of defamation[^c-68a59d626662020249aa097bd80ecbf3][^c-3160649b5d678c12c8f5be83cfaec523]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68a59d626662020249aa097bd80ecbf3]: Commencement: S. 50 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-68a59d626662020249aa097bd80ecbf3]: Commencement: S. 50 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-3160649b5d678c12c8f5be83cfaec523]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2025/11/section/50) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-3160649b5d678c12c8f5be83cfaec523]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2025/11/section/50) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Sharing information[^M_I_d3b5a0d8-d088-450e-d99c-c465bd97ecb2][^key-fece849c9f726bb036e59e697a36e568]
+## 148. Sharing information[^M_I_d3b5a0d8-d088-450e-d99c-c465bd97ecb2][^c-fece849c9f726bb036e59e697a36e568]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to bank administration following transfer to a resolution company[^key-b5731c5087f0894f2225f5f22562f547].
+(1) This section applies to bank administration following transfer to a resolution company[^c-b5731c5087f0894f2225f5f22562f547].
 
 (2) Within the period of 5 days beginning with the day on which the bank administrator is appointed, the Bank of England must give the bank administrator information about the financial positions of the residual bank and the resolution company.
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^M_I_d3b5a0d8-d088-450e-d99c-c465bd97ecb2]: Commencement: S. 148 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-fece849c9f726bb036e59e697a36e568]: Commencement: S. 148 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-fece849c9f726bb036e59e697a36e568]: Commencement: S. 148 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-b5731c5087f0894f2225f5f22562f547]: Textual amendment: Words in s. 148(1)-(4) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(9)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/9)
+[^c-b5731c5087f0894f2225f5f22562f547]: Textual amendment: Words in s. 148(1)-(4) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [26(9)](https://www.legislation.gov.uk/uksi/2016/1239/article/26/9)

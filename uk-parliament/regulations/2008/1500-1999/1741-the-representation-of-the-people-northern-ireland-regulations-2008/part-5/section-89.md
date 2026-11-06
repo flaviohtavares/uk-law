@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Sealing of receptacles[^key-838308ef3d99ca4ca9b561f88ddf5288]
+## 89. Sealing of receptacles[^c-838308ef3d99ca4ca9b561f88ddf5288]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ and shall seal up such packets.
 
 ## Annotations
 
-[^key-838308ef3d99ca4ca9b561f88ddf5288]: Modification: [Reg. 89](https://www.legislation.gov.uk/uksi/2008/1741/regulation/89) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 101](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/101)
+[^c-838308ef3d99ca4ca9b561f88ddf5288]: Modification: [Reg. 89](https://www.legislation.gov.uk/uksi/2008/1741/regulation/89) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 101](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/101)

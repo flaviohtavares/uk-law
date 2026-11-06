@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Amendment of regulation 71 (closing date for applications: England and Wales and Scotland)[^key-5e693e7dedc2e9b8081256f969933994]
+## 89. Amendment of regulation 71 (closing date for applications: England and Wales and Scotland)[^c-5e693e7dedc2e9b8081256f969933994]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e693e7dedc2e9b8081256f969933994]: Commencement: Reg. 89 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-5e693e7dedc2e9b8081256f969933994]: Commencement: Reg. 89 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

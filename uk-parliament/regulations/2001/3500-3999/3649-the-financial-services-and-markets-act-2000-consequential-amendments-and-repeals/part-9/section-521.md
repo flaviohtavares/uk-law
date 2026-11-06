@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 521. Prescribed requirements applying to insurers[^key-114f185a704e8df1d81bb0e853f15f8f]
+## 521. Prescribed requirements applying to insurers[^c-114f185a704e8df1d81bb0e853f15f8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ For regulation 3 of the Occupational Pension Schemes (Discharge of Protected Rig
 
 ## Annotations
 
-[^key-114f185a704e8df1d81bb0e853f15f8f]: Commencement: Art. 521 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-114f185a704e8df1d81bb0e853f15f8f]: Commencement: Art. 521 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Appointment of another person to act[^key-81daad17915ad1d7dc51f54c3891857d]
+## 125. Appointment of another person to act[^c-81daad17915ad1d7dc51f54c3891857d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81daad17915ad1d7dc51f54c3891857d]: Commencement: [Rule 125](https://www.legislation.gov.uk/uksi/2013/3208/rule/125) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-81daad17915ad1d7dc51f54c3891857d]: Commencement: [Rule 125](https://www.legislation.gov.uk/uksi/2013/3208/rule/125) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

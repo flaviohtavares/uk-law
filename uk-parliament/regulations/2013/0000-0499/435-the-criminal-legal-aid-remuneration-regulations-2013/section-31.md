@@ -29,11 +29,11 @@ summary: ''
 
 (3) A representative may appeal to a Costs Judge against a decision made under this regulation by an appropriate officer and such an appeal must be instituted within 21 days of the decision being given by giving notice in writing to the Senior Costs Judge specifying the grounds of appeal.
 
-(4)[^key-40bfd1b894f28ae8600ff87a3cba0f28] In this regulation, where the main hearing is a trial, “trial advocate” means, for the purposes of the meaning of “representative”, the advocate who—
+(4)[^c-40bfd1b894f28ae8600ff87a3cba0f28] In this regulation, where the main hearing is a trial, “trial advocate” means, for the purposes of the meaning of “representative”, the advocate who—
 
 - (a) is instructed pursuant to a section 16 determination to represent the assisted person at the trial, and
 - (b) attends the first day of the trial.
 
 ## Annotations
 
-[^key-40bfd1b894f28ae8600ff87a3cba0f28]: Textual amendment: Reg. 31(4) inserted (5.5.2015) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2015 (S.I. 2015/882)](https://www.legislation.gov.uk/uksi/2015/882), [regs. 1](https://www.legislation.gov.uk/uksi/2015/882/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2015/882/regulation/2/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/882/regulation/3))
+[^c-40bfd1b894f28ae8600ff87a3cba0f28]: Textual amendment: Reg. 31(4) inserted (5.5.2015) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2015 (S.I. 2015/882)](https://www.legislation.gov.uk/uksi/2015/882), [regs. 1](https://www.legislation.gov.uk/uksi/2015/882/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2015/882/regulation/2/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/882/regulation/3))

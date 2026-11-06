@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Social landlords: qualifying repairs[^key-17349857b5002257df3138a7901c6d24][^key-fcbf7eacd2b26830975bcd8952472aa4]
+## 46. Social landlords: qualifying repairs[^c-17349857b5002257df3138a7901c6d24][^c-fcbf7eacd2b26830975bcd8952472aa4]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17349857b5002257df3138a7901c6d24]: Commencement: S. 46 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-17349857b5002257df3138a7901c6d24]: Commencement: S. 46 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-fcbf7eacd2b26830975bcd8952472aa4]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/13/section/46) in force at 6.12.2025 by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)
+[^c-fcbf7eacd2b26830975bcd8952472aa4]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/13/section/46) in force at 6.12.2025 by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/2/a)

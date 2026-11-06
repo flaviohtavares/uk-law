@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Seizure of animals in connection with disqualification[^key-4228bdf10b85048a0e1e215621c662f9]
+## 34. Seizure of animals in connection with disqualification[^c-4228bdf10b85048a0e1e215621c662f9]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ it may order that all animals that person owns or keeps contrary to the disquali
 
 ## Annotations
 
-[^key-4228bdf10b85048a0e1e215621c662f9]: Modification: [S. 34](https://www.legislation.gov.uk/nia/2011/16/section/34) applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)
+[^c-4228bdf10b85048a0e1e215621c662f9]: Modification: [S. 34](https://www.legislation.gov.uk/nia/2011/16/section/34) applied (1.4.2013) by [The Welfare of Animals (Dog Breeding Establishments and Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/43)](https://www.legislation.gov.uk/nisr/2013/43), [regs. 1](https://www.legislation.gov.uk/nisr/2013/43/regulation/1), [17](https://www.legislation.gov.uk/nisr/2013/43/regulation/17)

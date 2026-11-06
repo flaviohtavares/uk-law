@@ -34,8 +34,8 @@ summary: ''
 - (a) may specify different amounts for different descriptions of members; and
 - (b) may be amended during a scheme year.
 
-(5)[^key-106ceccfbc1f6a99716ef115f07e0fc0] An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
+(5)[^c-106ceccfbc1f6a99716ef115f07e0fc0] An amendment under paragraph (4)(b) must not affect the contributions payable during that year under any option, except an option under which contributions begin to be paid after the date on which the amendment takes effect.
 
 ## Annotations
 
-[^key-106ceccfbc1f6a99716ef115f07e0fc0]: Textual amendment: [Reg. 60(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/60/5) substituted (1.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/316/regulation/27)
+[^c-106ceccfbc1f6a99716ef115f07e0fc0]: Textual amendment: [Reg. 60(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/60/5) substituted (1.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2025/316/regulation/27)

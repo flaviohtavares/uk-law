@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Interpretation of Part 3[^key-45f06a832b5ed0b6346efbf0c3bc9b9e]
+## 39. Interpretation of Part 3[^c-45f06a832b5ed0b6346efbf0c3bc9b9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45f06a832b5ed0b6346efbf0c3bc9b9e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2015/30/section/39) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/d)
+[^c-45f06a832b5ed0b6346efbf0c3bc9b9e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2015/30/section/39) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.19. Dealing with deposition[^key-7b31d96dde400f1126f0b3e55e1bc6a8]
+## 34.19. Dealing with deposition[^c-7b31d96dde400f1126f0b3e55e1bc6a8]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Senior Master will—
 
-- (a) give a certificate sealed with the seal of the Senior Courts[^key-40f9cd279023a421d3a759ecdd67d925] for use out of the jurisdiction identifying the following documents—
+- (a) give a certificate sealed with the seal of the Senior Courts[^c-40f9cd279023a421d3a759ecdd67d925] for use out of the jurisdiction identifying the following documents—
   - (i) the request;
   - (ii) the order of the court for examination; and
   - (iii) the deposition of the witness; and
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b31d96dde400f1126f0b3e55e1bc6a8]: Textual amendment: [Pt. 34](https://www.legislation.gov.uk/uksi/1998/3132/part/34) Section 2 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2058/schedule/2/part/II)
+[^c-7b31d96dde400f1126f0b3e55e1bc6a8]: Textual amendment: [Pt. 34](https://www.legislation.gov.uk/uksi/1998/3132/part/34) Section 2 inserted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rule 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2058/schedule/2/part/II)
 
-[^key-40f9cd279023a421d3a759ecdd67d925]: Textual amendment: Words in [rule 34.19(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.19/2/a) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2009/2092/rule/4)
+[^c-40f9cd279023a421d3a759ecdd67d925]: Textual amendment: Words in [rule 34.19(2)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.19/2/a) substituted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2009/2092/rule/4)

@@ -77,9 +77,9 @@ Section 164
 
 ### Disapplication of “single lease” treatment where agreement for lease followed by grant
 
-**4.**[^key-07545c4db2b81b205f408b659835a6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-07545c4db2b81b205f408b659835a6a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-266a08ece1a09fb385475e1595c3d652][^key-ae9a077c5e68a181fb6a1f81b34b91c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-266a08ece1a09fb385475e1595c3d652][^c-ae9a077c5e68a181fb6a1f81b34b91c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disapplication of “new lease” treatment for certain rent increases after fifth year
 
@@ -89,9 +89,9 @@ Section 164
 
 ### Abnormal rent increase after fifth year
 
-**7.**[^key-60ea2f3358381cbae2d1bfeb460833a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-60ea2f3358381cbae2d1bfeb460833a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c0af5838282a9baad68e9c7b1470883c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c0af5838282a9baad68e9c7b1470883c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
@@ -108,20 +108,20 @@ Section 164
 
 (4) Paragraph 6 has effect in relation to any variation of a lease made on or after commencement day.
 
-(5)[^key-f1cb30f29101c8d407f6eeb71fbb925c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f1cb30f29101c8d407f6eeb71fbb925c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In this paragraph “**commencement day**” means the day on which this Act is passed.
 
 ## Annotations
 
-[^key-07545c4db2b81b205f408b659835a6a5]: Textual amendment: [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/4) omitted (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/4)
+[^c-07545c4db2b81b205f408b659835a6a5]: Textual amendment: [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/4) omitted (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/4)
 
-[^key-266a08ece1a09fb385475e1595c3d652]: Textual amendment: Sch. 25 para. 5 omitted (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/4)
+[^c-266a08ece1a09fb385475e1595c3d652]: Textual amendment: Sch. 25 para. 5 omitted (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/4)
 
-[^key-ae9a077c5e68a181fb6a1f81b34b91c6]: Textual amendment: Sch. 25 para. 5 omitted (1.7.2012, 1.4.2015) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/30) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-ae9a077c5e68a181fb6a1f81b34b91c6]: Textual amendment: Sch. 25 para. 5 omitted (1.7.2012, 1.4.2015) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/30) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-60ea2f3358381cbae2d1bfeb460833a6]: Textual amendment: [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/7) repealed (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/2/a)
+[^c-60ea2f3358381cbae2d1bfeb460833a6]: Textual amendment: [Sch. 25 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/7) repealed (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/2/a)
 
-[^key-c0af5838282a9baad68e9c7b1470883c]: Textual amendment: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/8) repealed (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/2/a)
+[^c-c0af5838282a9baad68e9c7b1470883c]: Textual amendment: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/8) repealed (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/2/a)
 
-[^key-f1cb30f29101c8d407f6eeb71fbb925c]: Textual amendment: [Sch. 25 para. 9(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/9/5) repealed (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/2/a)
+[^c-f1cb30f29101c8d407f6eeb71fbb925c]: Textual amendment: [Sch. 25 para. 9(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/9/5) repealed (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/2/a)

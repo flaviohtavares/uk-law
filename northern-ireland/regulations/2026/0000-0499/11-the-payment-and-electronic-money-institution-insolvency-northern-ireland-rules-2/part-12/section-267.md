@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 267. The Gazette — general[^key-4df3df9e6d4867fa883658259a05a577]
+## 267. The Gazette — general[^c-4df3df9e6d4867fa883658259a05a577]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ the person whose responsibility it was to procure the requisite entry in the Gaz
 
 ## Annotations
 
-[^key-4df3df9e6d4867fa883658259a05a577]: Commencement: [Rule 267](https://www.legislation.gov.uk/nisr/2026/11/rule/267) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4df3df9e6d4867fa883658259a05a577]: Commencement: [Rule 267](https://www.legislation.gov.uk/nisr/2026/11/rule/267) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

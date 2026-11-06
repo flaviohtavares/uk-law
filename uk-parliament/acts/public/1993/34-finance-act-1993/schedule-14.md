@@ -86,15 +86,15 @@ Section 120.
 
 **8.** (1) In relation to any case in which by virtue of section 99 of the [^c15157071]Finance Act 1990 losses may be set off under subsection (1) of section 393 or of section 396 of the Taxes Act 1988 without the making of a claim, the Taxes Act 1988 shall have effect with the following amendments.
 
-(2)[^key-e44fc4a257c98b0b41a915a2e3cc7835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e44fc4a257c98b0b41a915a2e3cc7835] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5e9b0dcea04361ed22e6125950a4b279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5e9b0dcea04361ed22e6125950a4b279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 398 (transactions in deposits), for the words from “he may” onwards there shall be substituted “ the amount of his loss may be set off in pursuance of a claim under section 392 or, as the case may be, against which the amount of his loss may be set off under section 396 ”.
 
-(5)[^key-590b61faf49fd8cfbdbf3f9e96709807] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-590b61faf49fd8cfbdbf3f9e96709807] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-425d3b129febb6d842930a5b8dda50a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-425d3b129febb6d842930a5b8dda50a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interest on tax overpaid
 
@@ -112,7 +112,7 @@ Section 120.
 
 ### Surrender of refunds
 
-**11.**[^key-77ec02779e554ed393f2324bd72ff12f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-77ec02779e554ed393f2324bd72ff12f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -128,14 +128,14 @@ Section 120.
 
 [^c15157071]: Marginal citation: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29).
 
-[^key-e44fc4a257c98b0b41a915a2e3cc7835]: Textual amendment: [Sch. 14 para. 8(2)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/8/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e44fc4a257c98b0b41a915a2e3cc7835]: Textual amendment: [Sch. 14 para. 8(2)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/8/2) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5e9b0dcea04361ed22e6125950a4b279]: Textual amendment: [Sch. 14 para. 8(3)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/8/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5e9b0dcea04361ed22e6125950a4b279]: Textual amendment: [Sch. 14 para. 8(3)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/8/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-590b61faf49fd8cfbdbf3f9e96709807]: Textual amendment: [Sch. 14 para. 8(5)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/8/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-590b61faf49fd8cfbdbf3f9e96709807]: Textual amendment: [Sch. 14 para. 8(5)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/8/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-425d3b129febb6d842930a5b8dda50a8]: Textual amendment: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/9) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/8)
+[^c-425d3b129febb6d842930a5b8dda50a8]: Textual amendment: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/9) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/8)
 
 [^c15157091]: Textual amendment: Sch. 14 para. 10(1)(3)(5)(6) repealed (31.7.1998 with effect in accordance with [Sch. 3](https://www.legislation.gov.uk/ukpga/1998/36/schedule/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(2)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/2) Note
 
-[^key-77ec02779e554ed393f2324bd72ff12f]: Textual amendment: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/11) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-77ec02779e554ed393f2324bd72ff12f]: Textual amendment: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/1993/34/schedule/14/paragraph/11) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

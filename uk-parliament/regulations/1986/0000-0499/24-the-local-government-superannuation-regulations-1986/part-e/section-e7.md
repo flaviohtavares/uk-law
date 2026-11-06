@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E7. Widow's special short-term pension[^key-bc52a06bd1925f1d7d798a2f6290c155]
+## E7. Widow's special short-term pension[^c-bc52a06bd1925f1d7d798a2f6290c155]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ she is entitled to a widow's special short-term pension at an annual rate equal 
 
 ## Annotations
 
-[^key-bc52a06bd1925f1d7d798a2f6290c155]: Commencement: [Reg. E7](https://www.legislation.gov.uk/uksi/1986/24/regulation/E7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-bc52a06bd1925f1d7d798a2f6290c155]: Commencement: [Reg. E7](https://www.legislation.gov.uk/uksi/1986/24/regulation/E7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

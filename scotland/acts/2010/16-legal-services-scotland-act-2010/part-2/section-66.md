@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Behaving properly[^key-724bf7e614f96214319689b1658cbb2e]
+## 66. Behaving properly[^c-724bf7e614f96214319689b1658cbb2e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-724bf7e614f96214319689b1658cbb2e]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2010/16/section/66) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-724bf7e614f96214319689b1658cbb2e]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2010/16/section/66) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

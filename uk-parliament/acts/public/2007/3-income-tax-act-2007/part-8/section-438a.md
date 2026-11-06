@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 438A. Acquisition value of qualifying investments[^key-2fb10dfee415bdcb12b81d1a925c417d]
+## 438A. Acquisition value of qualifying investments[^c-2fb10dfee415bdcb12b81d1a925c417d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fb10dfee415bdcb12b81d1a925c417d]: Textual amendment: S. 438A inserted (8.4.2010 with effect in accordance with Sch. 7 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/3)
+[^c-2fb10dfee415bdcb12b81d1a925c417d]: Textual amendment: S. 438A inserted (8.4.2010 with effect in accordance with Sch. 7 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/3)

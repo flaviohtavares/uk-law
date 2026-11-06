@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Commencement[^key-4242626266b17fc201c9d487c0dc5ba6]
+## 27. Commencement[^c-4242626266b17fc201c9d487c0dc5ba6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4242626266b17fc201c9d487c0dc5ba6]: Commencement: S. 27 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)
+[^c-4242626266b17fc201c9d487c0dc5ba6]: Commencement: S. 27 in force at 24.1.2025, see [s. 27(1)](https://www.legislation.gov.uk/asp/2025/2/section/27/1)

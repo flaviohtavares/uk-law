@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Scope of powers (Scotland)[^key-82b5c8f912edbe1b260c998ce93580aa]
+## 197. Scope of powers (Scotland)[^c-82b5c8f912edbe1b260c998ce93580aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ unless the conduct which satisfies the test in article 202(2) took place in Scot
 
 ## Annotations
 
-[^key-82b5c8f912edbe1b260c998ce93580aa]: Commencement: [Art. 197](https://www.legislation.gov.uk/uksi/2005/3181/article/197) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-82b5c8f912edbe1b260c998ce93580aa]: Commencement: [Art. 197](https://www.legislation.gov.uk/uksi/2005/3181/article/197) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

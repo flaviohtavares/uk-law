@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. New regulation 2A (environmental impact assessment) and regulation 2B (environmental statement)[^key-5c6856e325152fe184a3cb0a54347ce1]
+## 27. New regulation 2A (environmental impact assessment) and regulation 2B (environmental statement)[^c-5c6856e325152fe184a3cb0a54347ce1]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ After regulation 2, insert—
 
 ## Annotations
 
-[^key-5c6856e325152fe184a3cb0a54347ce1]: Commencement: Reg. 27 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-5c6856e325152fe184a3cb0a54347ce1]: Commencement: Reg. 27 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

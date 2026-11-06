@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Establishment of the IFR[^key-b2f7a4a2968c4db2ed74d3d49fdcd7e4]
+## 5. Establishment of the IFR[^c-b2f7a4a2968c4db2ed74d3d49fdcd7e4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2f7a4a2968c4db2ed74d3d49fdcd7e4]: Commencement: S. 5 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-b2f7a4a2968c4db2ed74d3d49fdcd7e4]: Commencement: S. 5 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

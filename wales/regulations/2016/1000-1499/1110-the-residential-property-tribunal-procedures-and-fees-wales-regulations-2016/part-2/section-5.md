@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Limit on the number of pitches, mobile homes or references on a single application under the 2013 Act[^key-6b9c3781a13f64a6bd7e033826884c19]
+## 5. Limit on the number of pitches, mobile homes or references on a single application under the 2013 Act[^c-6b9c3781a13f64a6bd7e033826884c19]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b9c3781a13f64a6bd7e033826884c19]: Commencement: Reg. 5 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-6b9c3781a13f64a6bd7e033826884c19]: Commencement: Reg. 5 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

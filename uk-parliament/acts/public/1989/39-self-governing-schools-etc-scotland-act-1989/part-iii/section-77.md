@@ -31,7 +31,7 @@ summary: ''
 
 (2) For the purposes of this section “**governing body**” means—
 
-- (a)[^key-6e141e0fabee8cc02897c1404eda6d5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6e141e0fabee8cc02897c1404eda6d5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a college council established under section 54 of this Act; or
 - (c) the board of directors of a company formed by an education authority by virtue of section 65 of this Act.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e141e0fabee8cc02897c1404eda6d5a]: Textual amendment: [S. 77(2)(a)](https://www.legislation.gov.uk/ukpga/1989/39/section/77/2/a) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-6e141e0fabee8cc02897c1404eda6d5a]: Textual amendment: [S. 77(2)(a)](https://www.legislation.gov.uk/ukpga/1989/39/section/77/2/a) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)

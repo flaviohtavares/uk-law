@@ -22,7 +22,7 @@ summary: ''
 
 Articles 36 and 37
 
-### PART 1 — Tree Preservation Orders[^key-539fec8a91e1d45fed2c15a159023531]
+### PART 1 — Tree Preservation Orders[^c-539fec8a91e1d45fed2c15a159023531]
 
 In the District of Tendring—
 
@@ -31,7 +31,7 @@ In the District of Tendring—
 | 23/00005/TPO | Stones Green Lane, Tendring | T.1, T.2, T.3, T.4, T.5, T.6 and G.2 (comprising 2 oaks) |
 | 21/00091/TPO | Welhams Farm, Bentley Road, Little Bentley | G.1 (comprising 3 oaks and 2 ash) |
 
-### PART 2 — Removal of hedgerows[^key-b1e8b549d6dc63ab948d6bbf07adad55]
+### PART 2 — Removal of hedgerows[^c-b1e8b549d6dc63ab948d6bbf07adad55]
 
 In the District of Tendring—
 
@@ -102,7 +102,7 @@ In the District of Tendring—
 </tbody>
 </table>
 
-### PART 3 — Removal of important hedgerows[^key-ca3d25e790f8708f521496a39c6f43fc]
+### PART 3 — Removal of important hedgerows[^c-ca3d25e790f8708f521496a39c6f43fc]
 
 In the District of Tendring—
 
@@ -127,8 +127,8 @@ In the District of Tendring—
 
 ## Annotations
 
-[^key-539fec8a91e1d45fed2c15a159023531]: Commencement: Sch. 12 Pt. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-539fec8a91e1d45fed2c15a159023531]: Commencement: Sch. 12 Pt. 1 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-b1e8b549d6dc63ab948d6bbf07adad55]: Commencement: Sch. 12 Pt. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-b1e8b549d6dc63ab948d6bbf07adad55]: Commencement: Sch. 12 Pt. 2 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
-[^key-ca3d25e790f8708f521496a39c6f43fc]: Commencement: Sch. 12 Pt. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-ca3d25e790f8708f521496a39c6f43fc]: Commencement: Sch. 12 Pt. 3 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

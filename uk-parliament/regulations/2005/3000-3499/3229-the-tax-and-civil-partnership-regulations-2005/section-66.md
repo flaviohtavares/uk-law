@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66.[^key-868e9f47b4701db130079867fc8f5983]
+## 66.[^c-868e9f47b4701db130079867fc8f5983]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 344 (taxation of income: company reconstructions), in subsection (4),
 
 ## Annotations
 
-[^key-868e9f47b4701db130079867fc8f5983]: Commencement: Reg. 66 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-868e9f47b4701db130079867fc8f5983]: Commencement: Reg. 66 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

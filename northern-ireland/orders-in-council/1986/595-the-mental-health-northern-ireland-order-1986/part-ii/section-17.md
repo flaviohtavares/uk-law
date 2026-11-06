@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Review of decision to withhold postal packet[^key-4322009c0b64bb3619dfc69e6ac327da][^key-234f4fcd7e219db4649c9805cce82990][^key-42056f7475fc7e2edadb439c11c20616]
+## 17. Review of decision to withhold postal packet[^c-4322009c0b64bb3619dfc69e6ac327da][^c-234f4fcd7e219db4649c9805cce82990][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -33,11 +33,11 @@ and any such application shall be made within 6 months of the receipt by the app
 
 ## Annotations
 
-[^key-4322009c0b64bb3619dfc69e6ac327da]: Modification: [Art. 17](https://www.legislation.gov.uk/nisi/1986/595/article/17) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(n)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/n), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-4322009c0b64bb3619dfc69e6ac327da]: Modification: [Art. 17](https://www.legislation.gov.uk/nisi/1986/595/article/17) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(n)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/n), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-234f4fcd7e219db4649c9805cce82990]: Modification: [Art. 17](https://www.legislation.gov.uk/nisi/1986/595/article/17) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(n)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/n), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-234f4fcd7e219db4649c9805cce82990]: Modification: [Art. 17](https://www.legislation.gov.uk/nisi/1986/595/article/17) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(n)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/n), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c21356821]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 8(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/1) (subject to [Sch. 6 para. 8(2)-(4)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/2)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

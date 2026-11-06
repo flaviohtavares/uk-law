@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Percentage of the relevant amount[^key-9970cfdecbb9461280e14d9cc6796e64]
+## 133. Percentage of the relevant amount[^c-9970cfdecbb9461280e14d9cc6796e64]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9970cfdecbb9461280e14d9cc6796e64]: Commencement: Reg. 133 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-9970cfdecbb9461280e14d9cc6796e64]: Commencement: Reg. 133 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

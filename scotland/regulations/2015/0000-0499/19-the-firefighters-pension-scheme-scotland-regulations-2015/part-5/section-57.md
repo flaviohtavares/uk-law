@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Qualifying service[^key-3c0df135bc29a019a24d074f736581f5]
+## 57. Qualifying service[^c-3c0df135bc29a019a24d074f736581f5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c0df135bc29a019a24d074f736581f5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2015/19/regulation/57) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-3c0df135bc29a019a24d074f736581f5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2015/19/regulation/57) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

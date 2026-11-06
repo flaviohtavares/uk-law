@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200.[^key-4a0a1e9db3733cd47345197900609ccf]
+## 200.[^c-4a0a1e9db3733cd47345197900609ccf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Annex, in the Note, in the final sentence, omit “Community”.
 
 ## Annotations
 
-[^key-4a0a1e9db3733cd47345197900609ccf]: Commencement: Reg. 200 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4a0a1e9db3733cd47345197900609ccf]: Commencement: Reg. 200 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

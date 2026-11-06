@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Recording in application record[^key-b2b7c65fa5f5aecafa1a3acb855c8a82]
+## 33. Recording in application record[^c-b2b7c65fa5f5aecafa1a3acb855c8a82]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the Keeper must remove the entry relating to it from the application record.
 
 ## Annotations
 
-[^key-b2b7c65fa5f5aecafa1a3acb855c8a82]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2012/5/section/33) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b2b7c65fa5f5aecafa1a3acb855c8a82]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2012/5/section/33) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

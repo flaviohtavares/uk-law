@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Section 84: considerations[^key-2554eae9eede44adda47e64a9f57572c]
+## 85. Section 84: considerations[^c-2554eae9eede44adda47e64a9f57572c]
 
 *Extent: S*
 
@@ -26,10 +26,10 @@ summary: ''
 
 - (a) committed any offence involving—
   - (i) fraud or other dishonesty;
-  - (ia)[^key-e5f8d4148be9ef341433ca367932432e] firearms (within the meaning of section 57(1) of the Firearms Act 1968 (c. 27));
+  - (ia)[^c-e5f8d4148be9ef341433ca367932432e] firearms (within the meaning of section 57(1) of the Firearms Act 1968 (c. 27));
   - (ii) violence; or
   - (iii) drugs;
-- (aa)[^key-483e8317229a921b9eb2d3c67a93e949] committed a sexual offence (within the meaning of section 210A(10) of the Criminal Procedure (Scotland) Act 1995 (c. 46));
+- (aa)[^c-483e8317229a921b9eb2d3c67a93e949] committed a sexual offence (within the meaning of section 210A(10) of the Criminal Procedure (Scotland) Act 1995 (c. 46));
 - (b) practised unlawful discrimination [^c21021651]. . . in, or in connection with, the carrying on of any business; or
 - (c) contravened any provision of—
   - (zi)[^c21022751] any Letting Code issued under section 92A;
@@ -49,7 +49,7 @@ summary: ''
 
 (5) In subsection (3), “**actings**” includes failure to act.
 
-(6)[^key-b6e2f504f7ad553bc77da2f0a7788389] Examples of material which falls within subsection (2) (as mentioned in paragraph (c)(i) or (ii)) are (without prejudice to the generality of that provision)—
+(6)[^c-b6e2f504f7ad553bc77da2f0a7788389] Examples of material which falls within subsection (2) (as mentioned in paragraph (c)(i) or (ii)) are (without prejudice to the generality of that provision)—
 
 - (a) an offence or disqualification under—
   - (i) this Part;
@@ -71,11 +71,11 @@ summary: ''
 
 ## Annotations
 
-[^key-2554eae9eede44adda47e64a9f57572c]: Modification: S. 85 applied (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 130(3)](https://www.legislation.gov.uk/asp/2006/1/section/130/3), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-2554eae9eede44adda47e64a9f57572c]: Modification: S. 85 applied (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 130(3)](https://www.legislation.gov.uk/asp/2006/1/section/130/3), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-e5f8d4148be9ef341433ca367932432e]: Textual amendment: S. 85(2)(a)(ia) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(1)(a)(i)](https://www.legislation.gov.uk/asp/2011/14/section/1/1/a/i), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
+[^c-e5f8d4148be9ef341433ca367932432e]: Textual amendment: S. 85(2)(a)(ia) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(1)(a)(i)](https://www.legislation.gov.uk/asp/2011/14/section/1/1/a/i), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
 
-[^key-483e8317229a921b9eb2d3c67a93e949]: Textual amendment: S. 85(2)(aa) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(1)(a)(ii)](https://www.legislation.gov.uk/asp/2011/14/section/1/1/a/ii), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
+[^c-483e8317229a921b9eb2d3c67a93e949]: Textual amendment: S. 85(2)(aa) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(1)(a)(ii)](https://www.legislation.gov.uk/asp/2011/14/section/1/1/a/ii), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
 
 [^c21021651]: Textual amendment: Words in s. 85(2)(b) repealed (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 176(5)](https://www.legislation.gov.uk/asp/2006/1/section/176/5), [195](https://www.legislation.gov.uk/asp/2006/1/section/195) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)
 
@@ -85,4 +85,4 @@ summary: ''
 
 [^c21022821]: Textual amendment: S. 85(4A) inserted (5.7.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 175(2)(c)](https://www.legislation.gov.uk/asp/2006/1/section/175/2/c), [195](https://www.legislation.gov.uk/asp/2006/1/section/195) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/395](https://www.legislation.gov.uk/ssi/2006/395), [art. 2](https://www.legislation.gov.uk/ssi/2006/395/article/2), Table
 
-[^key-b6e2f504f7ad553bc77da2f0a7788389]: Textual amendment: S. 85(6)-(9) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(1)(b)](https://www.legislation.gov.uk/asp/2011/14/section/1/1/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
+[^c-b6e2f504f7ad553bc77da2f0a7788389]: Textual amendment: S. 85(6)-(9) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(1)(b)](https://www.legislation.gov.uk/asp/2011/14/section/1/1/b), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)

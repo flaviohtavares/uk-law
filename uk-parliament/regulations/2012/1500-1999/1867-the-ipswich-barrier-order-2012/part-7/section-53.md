@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Certification of plans etc.[^key-d739410505bc0941b35a59bf24d4cb1d]
+## 53. Certification of plans etc.[^c-d739410505bc0941b35a59bf24d4cb1d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Agency must, as soon as practicable after the making of this Order, submit c
 
 ## Annotations
 
-[^key-d739410505bc0941b35a59bf24d4cb1d]: Commencement: Art. 53 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-d739410505bc0941b35a59bf24d4cb1d]: Commencement: Art. 53 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

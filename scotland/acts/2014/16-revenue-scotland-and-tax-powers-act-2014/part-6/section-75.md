@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Preservation of information etc.[^key-f9453486ebde6289b0e5ebdd83ae519a]
+## 75. Preservation of information etc.[^c-f9453486ebde6289b0e5ebdd83ae519a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The duty under section 74 to preserve records may be satisfied—
 
 ## Annotations
 
-[^key-f9453486ebde6289b0e5ebdd83ae519a]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/16/section/75) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f9453486ebde6289b0e5ebdd83ae519a]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/16/section/75) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

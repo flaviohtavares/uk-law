@@ -50,15 +50,15 @@ Coming into force in accordance with regulation 1
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) and (3) of schedule 2 of the European Union (Withdrawal) Act 2018 [^c23838361] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-6e308f956088150a686a6510de8dd71c]
+## 1. Citation and commencement[^c-6e308f956088150a686a6510de8dd71c]
 
 These Regulations may be cited as the Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Amendment Regulations 2019 and come into force on exit day.
 
-## 2. Amendment of the Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019[^key-c2578a6dd5ecae7d465bc9434f32076e]
+## 2. Amendment of the Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019[^c-c2578a6dd5ecae7d465bc9434f32076e]
 
 (1) The Town and Country Planning and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 [^c23838371] are amended as follows.
 
-(2)[^key-b2f10452ef46b4832026e044052567ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b2f10452ef46b4832026e044052567ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 5 (amendment of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017)—
 
@@ -91,10 +91,10 @@ No Business and Regulatory Impact Assessment has been prepared in relation to th
 
 [^c23838361]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-6e308f956088150a686a6510de8dd71c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6e308f956088150a686a6510de8dd71c]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c2578a6dd5ecae7d465bc9434f32076e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c2578a6dd5ecae7d465bc9434f32076e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23838371]: Marginal citation: [S.S.I. 2019/80](https://www.legislation.gov.uk/ssi/2019/80).
 
-[^key-b2f10452ef46b4832026e044052567ff]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)
+[^c-b2f10452ef46b4832026e044052567ff]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/274/regulation/2/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Town and Country Planning, Management of Extractive Waste and Electricity Works (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/310)](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/4/2)

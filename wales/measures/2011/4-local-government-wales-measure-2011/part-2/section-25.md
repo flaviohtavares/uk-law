@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Newborn absence[^key-08851f04dd4b4d059c238824989c6d23]
+## 25. Newborn absence[^c-08851f04dd4b4d059c238824989c6d23]
 
 *Extent: E+W*
 
@@ -35,11 +35,11 @@ summary: ''
 - (a) the extent of a member's entitlement to newborn absence in respect of a child;
 - (b) when newborn absence may be taken.
 
-(4)[^key-4888e80314aa4381ea6fc5955b50590d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4888e80314aa4381ea6fc5955b50590d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations must require newborn absence to be taken before the end of a prescribed period.
 
-(6)[^key-a8364de29a73341eea1b1a2d1c310ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a8364de29a73341eea1b1a2d1c310ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Regulations may prescribe circumstances in which a member of a local authority, or the local authority, may—
 
@@ -53,21 +53,21 @@ summary: ''
 - (c) make provision excluding an entitlement to newborn absence in respect of a child where more than one child is born as a result of the same pregnancy;
 - (d) make provision about how newborn absence may be taken.
 
-(9)[^key-bd77abea8813a9b5d1ebeab185218bac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-bd77abea8813a9b5d1ebeab185218bac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section—
 
 - “**newborn child**” (“***plentyn newydd-anedig***”) includes a child stillborn after 24 weeks of pregnancy;
-- [^key-6ebae0782f4205be7a4f89ed313aa493]...***cred***
+- [^c-6ebae0782f4205be7a4f89ed313aa493]...***cred***
 
 ## Annotations
 
-[^key-08851f04dd4b4d059c238824989c6d23]: Commencement: S. 25 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-08851f04dd4b4d059c238824989c6d23]: Commencement: S. 25 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
 
-[^key-4888e80314aa4381ea6fc5955b50590d]: Textual amendment: [S. 25(4)](https://www.legislation.gov.uk/mwa/2011/4/section/25/4) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(a)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/a), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-4888e80314aa4381ea6fc5955b50590d]: Textual amendment: [S. 25(4)](https://www.legislation.gov.uk/mwa/2011/4/section/25/4) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(a)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/a), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
 
-[^key-a8364de29a73341eea1b1a2d1c310ac6]: Textual amendment: [S. 25(6)](https://www.legislation.gov.uk/mwa/2011/4/section/25/6) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/b), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-a8364de29a73341eea1b1a2d1c310ac6]: Textual amendment: [S. 25(6)](https://www.legislation.gov.uk/mwa/2011/4/section/25/6) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(b)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/b), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
 
-[^key-bd77abea8813a9b5d1ebeab185218bac]: Textual amendment: [S. 25(9)](https://www.legislation.gov.uk/mwa/2011/4/section/25/9) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(c)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/c), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-bd77abea8813a9b5d1ebeab185218bac]: Textual amendment: [S. 25(9)](https://www.legislation.gov.uk/mwa/2011/4/section/25/9) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(c)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/c), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
 
-[^key-6ebae0782f4205be7a4f89ed313aa493]: Textual amendment: Words in [s. 25(10)](https://www.legislation.gov.uk/mwa/2011/4/section/25/10) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(d)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/d), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-6ebae0782f4205be7a4f89ed313aa493]: Textual amendment: Words in [s. 25(10)](https://www.legislation.gov.uk/mwa/2011/4/section/25/10) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(3)(d)](https://www.legislation.gov.uk/asc/2021/1/section/61/3/d), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)

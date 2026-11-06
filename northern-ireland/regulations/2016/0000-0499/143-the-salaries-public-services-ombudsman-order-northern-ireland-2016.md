@@ -31,7 +31,7 @@ summary: ''
 
 Salaries
 
-The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2016 (revoked)[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]
+The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2016 (revoked)[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st April 2016
 
-[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]
+## 1. Citation and commencement[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Salary[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]
+## 2. Salary[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7cce8dfe9b2fc215107f2a0ed3eb051c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/143) revoked (8.8.2016) by [The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2019 (revoked) 2019 (S.R. 2019/132)](https://www.legislation.gov.uk/nisr/2019/132), [art. 4](https://www.legislation.gov.uk/nisr/2019/132/article/4)
+[^c-7cce8dfe9b2fc215107f2a0ed3eb051c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/143) revoked (8.8.2016) by [The Salaries (Public Services Ombudsman) Order (Northern Ireland) 2019 (revoked) 2019 (S.R. 2019/132)](https://www.legislation.gov.uk/nisr/2019/132), [art. 4](https://www.legislation.gov.uk/nisr/2019/132/article/4)

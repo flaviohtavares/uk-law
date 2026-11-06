@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Provisional application of sections 152 and 153.[^key-cb32f76dc6ba7775a1e677caf3f9ae10]
+## 153A. Provisional application of sections 152 and 153.[^c-cb32f76dc6ba7775a1e677caf3f9ae10]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb32f76dc6ba7775a1e677caf3f9ae10]: Textual amendment: S. 153A inserted (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/2)
+[^c-cb32f76dc6ba7775a1e677caf3f9ae10]: Textual amendment: S. 153A inserted (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/2)

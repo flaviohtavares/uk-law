@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2011 (revoked)[^key-2ccaa853ff78e6ad75c7bfca0ec6bd4c]
+The Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2011 (revoked)[^c-2ccaa853ff78e6ad75c7bfca0ec6bd4c]
 
 Made
 
@@ -40,19 +40,19 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-2ccaa853ff78e6ad75c7bfca0ec6bd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ccaa853ff78e6ad75c7bfca0ec6bd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2ccaa853ff78e6ad75c7bfca0ec6bd4c]
+## 1. Citation and commencement[^c-2ccaa853ff78e6ad75c7bfca0ec6bd4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of participating country[^key-2ccaa853ff78e6ad75c7bfca0ec6bd4c]
+## 2. Designation of participating country[^c-2ccaa853ff78e6ad75c7bfca0ec6bd4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ccaa853ff78e6ad75c7bfca0ec6bd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ccaa853ff78e6ad75c7bfca0ec6bd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -60,4 +60,4 @@ Coming into force in accordance with article 1
 
 ## Annotations
 
-[^key-2ccaa853ff78e6ad75c7bfca0ec6bd4c]: Textual amendment: Order revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [94](https://www.legislation.gov.uk/uksi/2019/742/regulation/94) (with [regs. 97](https://www.legislation.gov.uk/uksi/2019/742/regulation/97), [98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29), [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/6) and [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [21](https://www.legislation.gov.uk/uksi/2020/1408/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2ccaa853ff78e6ad75c7bfca0ec6bd4c]: Textual amendment: Order revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [94](https://www.legislation.gov.uk/uksi/2019/742/regulation/94) (with [regs. 97](https://www.legislation.gov.uk/uksi/2019/742/regulation/97), [98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29), [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/6) and [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [21](https://www.legislation.gov.uk/uksi/2020/1408/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90B. Old English fluoridation arrangements: transitional provision[^key-15d5cbc13fa63967a0ae360af6d4692f]
+## 90B. Old English fluoridation arrangements: transitional provision[^c-15d5cbc13fa63967a0ae360af6d4692f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15d5cbc13fa63967a0ae360af6d4692f]: Textual amendment: [S. 90B](https://www.legislation.gov.uk/ukpga/1991/56/section/90B) inserted (1.11.2022 for E.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 176(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/176/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/b)
+[^c-15d5cbc13fa63967a0ae360af6d4692f]: Textual amendment: [S. 90B](https://www.legislation.gov.uk/ukpga/1991/56/section/90B) inserted (1.11.2022 for E.) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 176(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/176/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/b)

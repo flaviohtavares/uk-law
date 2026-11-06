@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Information[^key-91c12d95b005d5a561a6e5982decb826]
+## 18. Information[^c-91c12d95b005d5a561a6e5982decb826]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91c12d95b005d5a561a6e5982decb826]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/163/regulation/18) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-91c12d95b005d5a561a6e5982decb826]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/163/regulation/18) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

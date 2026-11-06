@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Right to information[^key-bda1051a1d1b0d9d9e9c369c328cf110]
+## 93. Right to information[^c-bda1051a1d1b0d9d9e9c369c328cf110]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the legal basis on which, and the purposes for which, the controller processes personal data;
 - (c) the categories of personal data relating to the data subject that are being processed;
 - (d) the recipients or the categories of recipients of the personal data (if applicable);
-- (e) the right to lodge a complaint with the Commission[^key-3995e2a7c6786c8e46884a1968e438bb] under section 165[^key-689bbe599a52ba0f0fd8a7a0115d3c61] and the contact details of the Commission;
+- (e) the right to lodge a complaint with the Commission[^c-3995e2a7c6786c8e46884a1968e438bb] under section 165[^c-689bbe599a52ba0f0fd8a7a0115d3c61] and the contact details of the Commission;
 - (f) how to exercise rights under this Chapter;
 - (g) any other information needed to secure that the personal data is processed fairly and transparently.
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bda1051a1d1b0d9d9e9c369c328cf110]: Commencement: S. 93 in force at 16.9.2019 by [S.I. 2019/1188](https://www.legislation.gov.uk/uksi/2019/1188), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/1188/regulation/2/a)
+[^c-bda1051a1d1b0d9d9e9c369c328cf110]: Commencement: S. 93 in force at 16.9.2019 by [S.I. 2019/1188](https://www.legislation.gov.uk/uksi/2019/1188), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/1188/regulation/2/a)
 
-[^key-3995e2a7c6786c8e46884a1968e438bb]: Textual amendment: Word in s. 93(1)(e) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-3995e2a7c6786c8e46884a1968e438bb]: Textual amendment: Word in s. 93(1)(e) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-689bbe599a52ba0f0fd8a7a0115d3c61]: Textual amendment: Words in s. 93(1)(e) inserted (19.6.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2025/18/schedule/10/paragraph/14); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/82/regulation/3/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/82/regulation/7))
+[^c-689bbe599a52ba0f0fd8a7a0115d3c61]: Textual amendment: Words in s. 93(1)(e) inserted (19.6.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2025/18/schedule/10/paragraph/14); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/82/regulation/3/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/82/regulation/7))

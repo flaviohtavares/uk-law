@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Warrants[^key-37ae96ddd153b0977fbcd936434b3edd]
+## 36. Warrants[^c-37ae96ddd153b0977fbcd936434b3edd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37ae96ddd153b0977fbcd936434b3edd]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2014/951/regulation/36) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-37ae96ddd153b0977fbcd936434b3edd]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2014/951/regulation/36) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

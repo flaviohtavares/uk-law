@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Ill-health award ceases to be payable[^key-cc5f3c8df2d5c87d27bc43d63cd40ad1]
+## 36. Ill-health award ceases to be payable[^c-cc5f3c8df2d5c87d27bc43d63cd40ad1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ This regulation applies when an ill-health award ceases to be payable to a perso
 
 ## Annotations
 
-[^key-cc5f3c8df2d5c87d27bc43d63cd40ad1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/2848/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-cc5f3c8df2d5c87d27bc43d63cd40ad1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/2848/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

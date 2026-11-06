@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2A — MONITORING OF RADIOACTIVE SUBSTANCES[^key-e917a59feebeea6b0eb632770863d8d9]
+## SCHEDULE 2A — MONITORING OF RADIOACTIVE SUBSTANCES[^c-e917a59feebeea6b0eb632770863d8d9]
 
 *Extent: S*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 6(6A)
 
-### 1. General principles and monitoring frequencies[^key-e917a59feebeea6b0eb632770863d8d9]
+### 1. General principles and monitoring frequencies[^c-e917a59feebeea6b0eb632770863d8d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Radon[^key-e917a59feebeea6b0eb632770863d8d9]
+### 2. Radon[^c-e917a59feebeea6b0eb632770863d8d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Tritium[^key-e917a59feebeea6b0eb632770863d8d9]
+### 3. Tritium[^c-e917a59feebeea6b0eb632770863d8d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Indicative dose[^key-e917a59feebeea6b0eb632770863d8d9]
+### 4. Indicative dose[^c-e917a59feebeea6b0eb632770863d8d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Water treatment[^key-e917a59feebeea6b0eb632770863d8d9]
+### 5. Water treatment[^c-e917a59feebeea6b0eb632770863d8d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Averaging[^key-e917a59feebeea6b0eb632770863d8d9]
+### 6. Averaging[^c-e917a59feebeea6b0eb632770863d8d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e917a59feebeea6b0eb632770863d8d9]: Textual amendment: Sch. 2A omitted (27.10.2017) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2017/281/regulation/9)
+[^c-e917a59feebeea6b0eb632770863d8d9]: Textual amendment: Sch. 2A omitted (27.10.2017) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2017/281/regulation/9)

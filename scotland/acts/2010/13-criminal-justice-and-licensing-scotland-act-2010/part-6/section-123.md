@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Continuing duty of prosecutor[^key-ab0d2451120d616cc20e3dffa5b8ca19]
+## 123. Continuing duty of prosecutor[^c-ab0d2451120d616cc20e3dffa5b8ca19]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0d2451120d616cc20e3dffa5b8ca19]: Commencement: S. 123 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-ab0d2451120d616cc20e3dffa5b8ca19]: Commencement: S. 123 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )

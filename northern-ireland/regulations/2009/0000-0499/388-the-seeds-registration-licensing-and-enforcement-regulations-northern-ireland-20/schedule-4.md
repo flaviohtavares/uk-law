@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — LICENSED SEED TESTING STATIONS[^key-98e58d5639bec4850aca2676ce8faed8]
+## SCHEDULE 4 — LICENSED SEED TESTING STATIONS[^c-98e58d5639bec4850aca2676ce8faed8]
 
 *Extent: N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulations 24(3)(c), 25(1) and (3), 26(2) and 27
 
-### PART 1 — Licensing of laboratories: matters to be taken into account[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 1 — Licensing of laboratories: matters to be taken into account[^c-98e58d5639bec4850aca2676ce8faed8]
 
-**1.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Licensed seed testing station licence conditions[^key-98e58d5639bec4850aca2676ce8faed8]
+### PART 2 — Licensed seed testing station licence conditions[^c-98e58d5639bec4850aca2676ce8faed8]
 
-**4.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-98e58d5639bec4850aca2676ce8faed8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98e58d5639bec4850aca2676ce8faed8]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(f)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/f) (with [reg. 34](https://www.legislation.gov.uk/nisr/2016/244/regulation/34))
+[^c-98e58d5639bec4850aca2676ce8faed8]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(f)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/f) (with [reg. 34](https://www.legislation.gov.uk/nisr/2016/244/regulation/34))

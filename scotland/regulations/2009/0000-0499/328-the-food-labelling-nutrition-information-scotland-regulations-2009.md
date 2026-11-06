@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Food Labelling (Nutrition Information) (Scotland) Regulations 2009 (revoked)[^key-751817efd0347175c932117e19dab578]
+The Food Labelling (Nutrition Information) (Scotland) Regulations 2009 (revoked)[^c-751817efd0347175c932117e19dab578]
 
 Made
 
@@ -46,29 +46,29 @@ Coming into force
 
 30th October 2009
 
-[^key-751817efd0347175c932117e19dab578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-751817efd0347175c932117e19dab578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-751817efd0347175c932117e19dab578]
+## 1. Citation, commencement and extent[^c-751817efd0347175c932117e19dab578]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-751817efd0347175c932117e19dab578]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-751817efd0347175c932117e19dab578]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-751817efd0347175c932117e19dab578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-751817efd0347175c932117e19dab578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Entries to be substituted in Table A (vitamins in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^key-751817efd0347175c932117e19dab578]
+## SCHEDULE 1 — Entries to be substituted in Table A (vitamins in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^c-751817efd0347175c932117e19dab578]
 
 Regulation 2(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Entries to be substituted in Table B (minerals in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^key-751817efd0347175c932117e19dab578]
+## SCHEDULE 2 — Entries to be substituted in Table B (minerals in respect of which claims may be made) in Schedule 6, Part II, to the Food Labelling Regulations 1996[^c-751817efd0347175c932117e19dab578]
 
 Regulation 2(5)
 
@@ -76,8 +76,8 @@ Regulation 2(5)
 
 **May not be in force at this date. Check the source.**
 
-[^key-751817efd0347175c932117e19dab578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-751817efd0347175c932117e19dab578]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-751817efd0347175c932117e19dab578]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-751817efd0347175c932117e19dab578]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

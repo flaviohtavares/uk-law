@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1B. Duty as to the NHS Constitution[^key-1d07ed3078092aa926d7ea9725a92435]
+## 1B. Duty as to the NHS Constitution[^c-1d07ed3078092aa926d7ea9725a92435]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d07ed3078092aa926d7ea9725a92435]: Textual amendment: [S. 1B](https://www.legislation.gov.uk/ukpga/2006/41/section/1B) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2012/7/section/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-1d07ed3078092aa926d7ea9725a92435]: Textual amendment: [S. 1B](https://www.legislation.gov.uk/ukpga/2006/41/section/1B) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2012/7/section/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

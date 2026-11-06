@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Amendments relating to non-scheme benefits[^key-c27c94235bd93c71449af364146d039b][^key-b9489434ed3c69376df4fd8bdc8d775f]
+## 98. Amendments relating to non-scheme benefits[^c-c27c94235bd93c71449af364146d039b][^c-b9489434ed3c69376df4fd8bdc8d775f]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c27c94235bd93c71449af364146d039b]: Commencement: S. 98 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-c27c94235bd93c71449af364146d039b]: Commencement: S. 98 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-b9489434ed3c69376df4fd8bdc8d775f]: Commencement: S. 98 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-b9489434ed3c69376df4fd8bdc8d775f]: Commencement: S. 98 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

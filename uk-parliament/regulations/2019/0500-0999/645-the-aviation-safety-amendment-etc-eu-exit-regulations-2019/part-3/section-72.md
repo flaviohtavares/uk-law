@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Amendment of Article 17 of Regulation (EU) No 376/2014[^key-59ad49c8f1f46d6996c96c5b1f74fb69]
+## 72. Amendment of Article 17 of Regulation (EU) No 376/2014[^c-59ad49c8f1f46d6996c96c5b1f74fb69]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) omit point (b);
 - (c) in point (c)—
   - (i) for “any of the Annexes” substitute “Annex 1”;
-  - (ii)[^key-159318679822202c4d8523e9ce4f5f0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-159318679822202c4d8523e9ce4f5f0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) for “Union” substitute “Secretary of State”.
 
 (4) In the last paragraph—
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59ad49c8f1f46d6996c96c5b1f74fb69]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-59ad49c8f1f46d6996c96c5b1f74fb69]: Commencement: Reg. 72 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-159318679822202c4d8523e9ce4f5f0b]: Textual amendment: Reg. 72(3)(c)(ii) omitted (31.12.2020 immediately before exit day) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/1098/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-159318679822202c4d8523e9ce4f5f0b]: Textual amendment: Reg. 72(3)(c)(ii) omitted (31.12.2020 immediately before exit day) by virtue of [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2019/1098/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Amendment of regulation 341 (decisions under the Human Medicines Regulations 2012)[^M_I_97fc1d16-d95e-4135-e08a-25bdf5546e45][^key-0857e006066cb7e0327d883dae3b2d38]
+## 224. Amendment of regulation 341 (decisions under the Human Medicines Regulations 2012)[^M_I_97fc1d16-d95e-4135-e08a-25bdf5546e45][^c-0857e006066cb7e0327d883dae3b2d38]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In regulation 341(4)—
 
 [^M_I_97fc1d16-d95e-4135-e08a-25bdf5546e45]: Commencement: Reg. 224 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0857e006066cb7e0327d883dae3b2d38]: Textual amendment: Reg. 224 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 184](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/184)
+[^c-0857e006066cb7e0327d883dae3b2d38]: Textual amendment: Reg. 224 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 184](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/184)

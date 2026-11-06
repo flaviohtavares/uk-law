@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-The short title of this Act is the Democracy and Boundary Commission Cymru etc. Act 2013[^key-e10b699baac0c2da2d6cc86114f820d5].
+The short title of this Act is the Democracy and Boundary Commission Cymru etc. Act 2013[^c-e10b699baac0c2da2d6cc86114f820d5].
 
 ## Annotations
 
-[^key-e10b699baac0c2da2d6cc86114f820d5]: Textual amendment: Words in s. 76 substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 11(3)](https://www.legislation.gov.uk/asc/2024/4/section/11/3), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-e10b699baac0c2da2d6cc86114f820d5]: Textual amendment: Words in s. 76 substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 11(3)](https://www.legislation.gov.uk/asc/2024/4/section/11/3), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

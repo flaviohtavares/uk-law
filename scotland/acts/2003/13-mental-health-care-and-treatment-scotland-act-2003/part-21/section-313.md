@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 313. Persons providing care services: sexual offences[^key-f222afc976adacdb9e7044e0bbad9304]
+## 313. Persons providing care services: sexual offences[^c-f222afc976adacdb9e7044e0bbad9304]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f222afc976adacdb9e7044e0bbad9304]: Textual amendment: Ss. 311-313 repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+[^c-f222afc976adacdb9e7044e0bbad9304]: Textual amendment: Ss. 311-313 repealed (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)

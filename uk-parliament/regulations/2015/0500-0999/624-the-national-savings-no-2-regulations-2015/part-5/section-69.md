@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Applications for early repayment[^key-57fd672c86e51b97cd8df65b91bbbe67]
+## 69. Applications for early repayment[^c-57fd672c86e51b97cd8df65b91bbbe67]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ I% is the annual rate of interest fixed for the current term.
 
 ## Annotations
 
-[^key-57fd672c86e51b97cd8df65b91bbbe67]: Commencement: Reg. 69 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-57fd672c86e51b97cd8df65b91bbbe67]: Commencement: Reg. 69 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

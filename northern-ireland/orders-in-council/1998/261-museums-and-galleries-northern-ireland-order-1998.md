@@ -113,7 +113,7 @@ Museums and Galleries (Northern Ireland) Order 1998 [^c5486081]
 (8) The bodies referred to in paragraph (7) are—
 
 - (a) district councils;
-- (b) the Education Authority[^key-571c1e2c73b38acb1ae3139aa72540fd] ; and
+- (b) the Education Authority[^c-571c1e2c73b38acb1ae3139aa72540fd] ; and
 - (c) such other bodies as the Department and the Board, acting jointly, may determine.
 
 ### 5. Disposal of objects
@@ -283,7 +283,7 @@ Article 3(2).
 (2) A trustee shall be deemed to have vacated his office and the Board shall declare his place vacant in the following circumstances—
 
 - (a) where he gives to the Head of the Department a notice in writing of his resignation;
-- (b) where he becomes bankrupt or has had a debt relief order made in respect of him[^key-d8f338bce342384367a6569d9100acb9] or makes a composition with his creditors or is the subject of a bankruptcy restrictions order[^c21159691] or a debt relief restrictions order ;
+- (b) where he becomes bankrupt or has had a debt relief order made in respect of him[^c-d8f338bce342384367a6569d9100acb9] or makes a composition with his creditors or is the subject of a bankruptcy restrictions order[^c21159691] or a debt relief restrictions order ;
 - (c) where in the opinion of the Head of the Department he has failed to comply with the terms of his appointment or is otherwise unable or unfit to discharge his functions and the Head of the Department so informs the Board in writing;
 - (d) where he is convicted of an indictable offence and is sentenced to a term of imprisonment of not less than 3 months; or
 - (e) where he fails, without leave of the Board, to attend any meetings of the Board, or of a committee thereof of which he is a member, for a period of 6 consecutive months.
@@ -432,7 +432,7 @@ Article 3(4).
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-571c1e2c73b38acb1ae3139aa72540fd]: Textual amendment: Words in [art. 4(8)(b)](https://www.legislation.gov.uk/nisi/1998/261/article/4/8/b) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/19) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-571c1e2c73b38acb1ae3139aa72540fd]: Textual amendment: Words in [art. 4(8)(b)](https://www.legislation.gov.uk/nisi/1998/261/article/4/8/b) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/19) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^m00002]: Marginal citation: 1992 c. 44.
 
@@ -446,7 +446,7 @@ Article 3(4).
 
 [^m00007]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-d8f338bce342384367a6569d9100acb9]: Textual amendment: Words in [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nisi/1998/261/schedule/1/paragraph/4/2/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/18)
+[^c-d8f338bce342384367a6569d9100acb9]: Textual amendment: Words in [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nisi/1998/261/schedule/1/paragraph/4/2/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/18)
 
 [^c21159691]: Textual amendment: Words in Sch. 1 para. 4(2)(b) inserted (13.5.2008) by [Insolvency (Disqualification from Office: General) Order (Northern Ireland) 2008 (S.R. 2008/94)](https://www.legislation.gov.uk/nisr/2008/94), [arts. 1](https://www.legislation.gov.uk/nisr/2008/94/article/1), [2](https://www.legislation.gov.uk/nisr/2008/94/article/2), [Sch. Pt. 1 para. 6](https://www.legislation.gov.uk/nisr/2008/94/schedule/part/1/paragraph/6)
 

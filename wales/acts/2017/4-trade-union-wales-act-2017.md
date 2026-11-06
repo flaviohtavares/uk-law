@@ -40,11 +40,11 @@ An Act of the National Assembly for Wales to make provision about industrial act
 
 **Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
 
-## 1. Amendments to the Trade Union and Labour Relations (Consolidation) Act 1992[^key-b88f182a9381f1760335f372e768b9e0]
+## 1. Amendments to the Trade Union and Labour Relations (Consolidation) Act 1992[^c-b88f182a9381f1760335f372e768b9e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prohibition on using temporary workers to cover industrial action[^key-2b61d78924b8586b6c4b00d1fdba57bc]
+## 2. Prohibition on using temporary workers to cover industrial action[^c-2b61d78924b8586b6c4b00d1fdba57bc]
 
 (1) A devolved Welsh authority may not hire a worker supplied by a person carrying on an employment business to perform—
 
@@ -70,6 +70,6 @@ The short title of this Act is the Trade Union (Wales) Act 2017.
 
 ## Annotations
 
-[^key-b88f182a9381f1760335f372e768b9e0]: Textual amendment: S. 1 omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 89(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/89/b), [159(2)(s)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/s)
+[^c-b88f182a9381f1760335f372e768b9e0]: Textual amendment: S. 1 omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 89(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/89/b), [159(2)(s)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/s)
 
-[^key-2b61d78924b8586b6c4b00d1fdba57bc]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/4/section/2) in force at 13.9.2017 by [S.I. 2017/903](https://www.legislation.gov.uk/wsi/2017/903), [art. 2](https://www.legislation.gov.uk/wsi/2017/903/article/2)
+[^c-2b61d78924b8586b6c4b00d1fdba57bc]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/4/section/2) in force at 13.9.2017 by [S.I. 2017/903](https://www.legislation.gov.uk/wsi/2017/903), [art. 2](https://www.legislation.gov.uk/wsi/2017/903/article/2)
